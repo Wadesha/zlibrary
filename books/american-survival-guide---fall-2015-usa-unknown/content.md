@@ -224,8 +224,6 @@ Michael D'Angona, Kevin Estella, Joe Gurrola, Hannah Spangenberg, Joshua Swanago
 
 Gabe Frimmel - Ad Sales Director(714) 200-1930
 
-GFrimmel@engagedmediainc.
-
 Casey Clifford -Senior Account Executive
 
 ## (714) 200-1982
@@ -260,17 +258,11 @@ Ph: (800) 332-3330
 
 Fax: (800) 249-7761
 
-www.
-
 facebook.
 
 ## com/eembybeckett
 
-American Survival Guide © 2015 by Engaged Media
-
 Inc.
-
-All rights reserved.
 
 Reproduction of any material from this issue
 
@@ -290,13 +282,7 @@ Liberty, MO 64068
 
 ### (239) 653-0225 Foreign Inquiries
 
-subscriptions@engagedmediainc.
-
-customerservice@engagedmediainc.
-
 ## BACK ISSUES
-
-www.
 
 engagedmediamags.
 
@@ -307,8 +293,6 @@ BOOKS, MERCHANDISE, REPRINTS
 ## NEW PRODUCTS OR TO CONTRIBUTE
 
 ## A STORY OR PHOTO
-
-djeffrey@engagedmediainc.
 
 ENGAGED MEDIA, INC.
 

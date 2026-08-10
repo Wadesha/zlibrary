@@ -1,10 +1,5 @@
 # National Geographic field guide to the birds of North America Jon Lloyd Dunn Z Library
 
-> 来源文件：pre_National_Geographic_field_guide_to_the_birds_of_North_America_Jon_Lloyd_Dunn_Z_Library.txt
-> 字符数（约）：1095984
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 NATIONAL GEOGRAPHIC Bi FIELD GUIDE fm TO THE of NORTH AMERICA OVER 2.75 MILLION COPIES IN PRINT ALL 1,023 SPECIES MORE THAN 700 NEW MAPS AND ILLUSTRATIONS SEVENTH EDITION FULLY REVISED and UPDATED Jon L. Dunn and @ Jonathan Alderfer
 
 QUICK-FIND INDEX Albatross Anhinga Ani Auklet Avocet Becard Bittern Blackbird Bluebird Bobolink Boe Booby Bulbul Bunting 450, 498, 514, 526 Bushtit Caracara Cardinal Catbird Chachalaca Chat Chickadee Coot Cormorant Cowbird Crane Creeper Crossbill Crow Cuckoo Curlew Dickcissel Dipper Dove Dowitcher Duck Eagle Egret Eider Falcon Finch A438 Flamingo Flicker Flycatcher Flycatcher, Old World 404 Frigatebird Fulmar Gallinule Gannet Gnatcatcher Godwit Goldfinch Goose Grackle Grebe Grosbeak 434, 444,524 Grouse Guillemot Gull Hawk eron ummingbird Ibis Jacana Jaeger ay Junco Kestrel Kingbird Kingfisher Kinglet Kite Knot Lark Limpkin Longspur Loon Magpie artin Meadowlark erganser Mockingbird unia Murre urrelet Nighthawk Nutcracker Nuthatch Oriole Osprey Ovenbird Owl Oystercatcher Parakeet Pauraque Pelican Petrel Pewee Phainopepla Phalarope Pheasant Phoebe Pigeon Pie Pipit Plover Ptarmigan Puffin Pyrrhuloxia Quail Rail Redpoll Redstart 466, Roadrunner Robin Rosy-Finch Sandpiper Sapsucker Scoter Seedeater Shearwater Shrike Siskin Skimmer Skua Snipe Solitaire Sparrow Spoonbill Starling Stilt Stint Stork Storm-Petrel Swallow Swan Swift Tanager Tern Thrasher Thrush Titmouse Towhee Trogon Tropicbird Turkey Verdin Vireo Vulture Wagtail Warbler 400, 426, Waterthrush Waxwing Wheatear Willet Woodcock Woodpecker Wren Wrentit Yellowlegs Yellowthroat on-Passerinés Goatsuckers 84-87 H Jacanas 122-123 ™ E - Albatrosses 220-223 ‘ J |, Spoonbills 66-267 * African and New Ss World Parrots 326-333
@@ -43,8 +38,6 @@ and the 16 subsequent supplements, published annually in the July issue of the A
 
 Keep in mind that the NACC list includes the West Indies and all of Middle America, to the Colombian border, in addition to Bermuda, and now Greenland. Late in 2016, the ABA also decided to add the Hawaiian Islands (which have long been treated by the NACC).
 
-© Families Scientists organize animal species into family groups that share cer- tain structural or molecular characteristics. Some bird families have more than a hundred members, others only one.
-
 Brief family descriptions, with information applicable to all mem- bers of the family, can be found at the beginning of each group.
 
 Additionally, a description of a smaller group within a family (a genus)
@@ -63,8 +56,6 @@ Among this last group are three lineages: (a) those that radiated early in the h
 
 These scientific advances present anew and more accurate under- standing of bird relationships and give birders keener insight into the avian world. For a visual representation of the new sequence, see the inside covers of this book.
 
-© Scientific Names Each species has a unique two-part scientific name, derived from Greek or Latin (in italics). The first part, always capitalized, indicates the genus. For example, nine members of the family Picidae are placed in the genus Picoides. Together with the second part of the name (the specific epithet), which is not capitalized, this identifies the species.
-
 Picoides pubescens is commonly known as Downy Woodpecker, one of the most widespread and numerous N.A. woodpeckers.
 
 ## INTRODUCTION
@@ -77,13 +68,9 @@ SUBSPECIES Since the latter half of the 19th century, taxonomists have further d
 
 The nominate ssp. dorsalis, for example, was named and described in the literature in 1858, earlier than fasciatus (1870) or bacatus (1900).
 
-For some polytypic species, ssp. may be grouped by their visual (now often genetic) differences, as with the “Sooty” group of dark Fox Sparrows from the Pacific region. Sometimes a group is known by a scientific name, as is the case with the unalaschcensis group of “Sooty” Fox Sparrows; these groups always use the oldest (or first published) name of the representative ssp.
-
 “Sooty” Fox Sparrow We rely primarily on the fifth edition of the AOU Check-list (1957), unalaschcensis the last edition that treated ssp., for ssp. names; additional sources include The Howard and Moore Complete Checklist of the Birds of the World (4th ed.), Peter Pyle's Identification Guide to North American Birds, and the landmark Birds of North America series. If the illustrations for a polytypic species show mainly or entirely one ssp., that name appears italicized under the English name, if it is known what ssp. was illustrated; illustrations of other ssp. are labeled as such.
 
 Many species are monotypic (having no recognized ssp.), thus only the scientific binomial is used. For example, Cerulean Warbler is mono- typic and is simply known by the scientific name Setophaga cerulea.
-
-ee ras © How to Identify Birds and Greater Scaup (bottom)
 
 Field marks —a bird's physical features — are the clues by which birds are best distinguished are identified. They include plumage, or the bird's overall feathering: by head shape the shape of the body and its individual parts (see Parts of a Bird, p. 10); and any actual markings such as bars, bands, spots, or streaks.
 
@@ -177,8 +164,6 @@ The following categories of abundance — given from most to least numerous — 
 
 their movements: One year they may be numerous ina given region, and the next year, or even the next decade, they may be totally absent.
 
-© Range Maps Maps are provided for all species in the main text with two general exceptions: (1) introduced species with very limited ranges that are described in the text or where the species is not believed established, and (2) some species that do not breed in N.A. and are of rare, casual, or accidental occurrence here.
-
 On each map, solid-colored ranges end approximately where the species ceases to be regularly seen. Keep in mind that nearly every species will be rare at the edges of its range. The map key on the back cover flap explains the colors and symbols used.
 
 Birds are not, however, bound by maps. Their ranges continually expand and contract. Irruptive species move southward in some years in large or small numbers and for great or small distances. Vagrant individuals of many species occur far outside their normal range. In some species, birds leave the nesting grounds in late summer and then move northward. These post-breeding wanderers, principally young birds, will subsequently migrate southward by winter. Range maps of pelagic species, which spend most of their time over the open sea, are somewhat conjectural. Migration is shown for many non-seabirds across open ocean when a substantial percentage of a species’ population regularly makes such an overwater flight.
@@ -188,8 +173,6 @@ Range information is based on sightings and therefore depends onthe number of kn
 There is much to learn about bird distribution in every part of N.A.
 
 Birders assist by monitoring the expansion and contraction of ranges.
-
-Breeding-bird surveys and atlas projects make a vital contribution to the general fund of information about each species. The Cornell Laboratory of Ornithology’s eBird site (www.ebird.org) allows bird- ers to post their observations — including photographs and sound recordings — and to explore the extensive database. In the accounts of birds presently on the U.S. federal list of threatened or endangered species, we have included the symbols E (endangered) or T (threat- ened). Canada also has its own list of threatened species, as do many states and provinces. Extinct species are indicated with the symbol EX.
 
 In addition to using abbreviations for states and provinces, the text shortens South America to S.A. and Central America to CA.
 
@@ -1075,8 +1058,6 @@ RANGE: Common on high, rocky slopes and tundra. In breeding season, generally pr
 
 ~ t.
 
-=n {oS all plumages have we all-white ta summer © xe AC, Wi summer & dark rufous thick bill <> Willow a» Ptarmigan molting spring winter d black winter 2 aye line San
-
 ## GROUSE
 
 K— attwateri — | Greater Prairie-Chicken Tympanuchus cupido L17" (43 cm)
@@ -1216,8 +1197,6 @@ RANGE: A few seen most years in fall and winter in FL Bay; casual TX (once to LA
 GREBES » FLAMINGOS winter birds for comparison juvenile Horned winter adult breeding adult Western courtship display winter adult winter adult Western Grebe orange bill breeding adult : : with downy young breeding adult with downy young Clark's Grebe transitionalis mall size pink overall Greater Flamingo al American Flamingo Be. V\ th large Fren Hasta .
 
 a South % America pad Be aie hs EY } Chilean Flamingo very long, pink legs 7)
-
-‘ ark Dill with red pink spotted ' oe Cf Ning coverts + } er bs © te ~ Lesser Pt Flamingo wh ded mainly < a from Africa San
 
 PIGEONS e DOVES Family Columbidae The larger species of these birds usually are called pigeons, the smaller ones doves.
 
@@ -1910,8 +1889,6 @@ eee Limpkin Aramus guarauna 26" (66 cm) LIMP , =
 ## HUMMINGBIRDS / LIMPKIN
 
 Berylline Hummingbird dull red on lower viola mandible, often ‘ tte = obscure adult do Buff-bellied Hummingbird bill mostly black variable green on throat and breast, paler below than adult bill color adult varia darker than adult } striking snowy white underparts Violet-crowned Hummingbird ellioti Limpkin pictus large white spots x paddle-shaped on upperparts legs extend well past tail
-
-RAILS © GALLINULES * COOTS Family Rallidae These marsh birds have short tails and short, rounded wings. Most species are local and secretive. Some, especially the rails, are identified chiefly by call and habitat.
 
 SPECIES: 141 WORLD, 17 N.A.
 

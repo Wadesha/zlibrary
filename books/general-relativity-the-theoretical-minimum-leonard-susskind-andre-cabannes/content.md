@@ -1,10 +1,5 @@
 # General Relativity The Theoretical Minimum Leonard Susskind Andre Cabannes Z Library
 
-> 来源文件：pre_General_Relativity_The_Theoretical_Minimum_Leonard_Susskind_Andre_Cabannes_Z_Library.txt
-> 字符数（约）：243026
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 General Relativity The Theoretical Minimum What You Need to Know to Start Doing Physics Leonard Susskind & Andre Cabannes
 
 One book at a time, the Theoretical Minimum series makes the power and grandeur of physics accessible.
@@ -20,8 +15,6 @@ The first volume, The Theoretical Minimum: What You Need to Know to Start Doing 
 Also by Leonard Susskind Special Relativity and Classical Field Theory: The Theoretical Minimum Quantum Mechanics: The Theoretical Minimum The Theoretical Minimum: What You Need to Know to Start Doing Physics The Black Hole War: My Battle with Stephen Hawking to Make the World Safe for Quantum Mechanics The Cosmic Landscape: String Theory and the Illusion of Intelligent Design An Introduction to Black Holes, Information and the String Theory Revolution: The Holographic Universe
 
 GENERAL RELATIVITY THE THEORETICAL MINIMUM LEONARD SUSSKIND & ANDRE CABANNES ALLEN LANE an imprint of PENGUIN BOOKS ALLEN LANE UK I USA I Canada I Ireland I Australia India I New Zealand I South Africa Allen Lane is part of the Penguin Random House group of companies whose addresses can be found at global.penguinrandomhouse.com.
-
-First published in the United States of America by Basic Books, Hachette Book Group 2023 First published in Great Britain by Allen Lane 2023 Copyright © Leonard Susskind and Andre Cabannes, 2023 The moral rights of the authors have been asserted Printed and bound in Great Britain by Clays Ltd, Elcograf S.p.A The authorized representative in the EEA is Penguin Random House Ireland, Morrison Chambers, 32 Nassau Street, Dublin D02 YH68 A CIP catalogue record for this book is available from the British Library ISBN: 978-0-241-56258-1 www.greenpenguin.co.uk Penguin Random House is committed to a sustainable future for our business, our readers and our planet. This book is made from Forest Stewardship Council certified paper.
 
 To my family —LS To my parents, who taught me work and tenacity —AC
 
@@ -116,8 +109,6 @@ What follows may be overkill, but making some mathematics out of the motion of a
 Before proceeding, let’s stress that the following study on an elevator, and the laws of physics as perceived inside it, is simple. Yet it is a first presentation of very important concepts. It is fundamental to understand it very well. Indeed, we will often refer to it. In lectures 4 to 9, it will strongly help us understand acceleration, gravitation, and how gravitation “warps” space-time.
 
 So let’s imagine the Einstein thought experiment where somebody is in an elevator; see figure 1. In later textbooks, it got promoted to a rocket ship. But I have never been in a rocket ship, whereas I have been in an elevator. So I know what it feels like when it accelerates or decelerates. Let’s say that the elevator is moving upward with a velocity v.
-
-z ▲ z\ velocity v -- z' = 0 L© z = Q -
 
 Figure 1: Elevator and two reference frames.
 

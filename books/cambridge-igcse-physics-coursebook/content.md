@@ -1,10 +1,5 @@
 # Cambridge IGCSE Physics Coursebook
 
-> 来源文件：pre_Cambridge_IGCSE_Physics_Coursebook.txt
-> 字符数（约）：412873
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 CAMBRIDGE ELEVATE BOOK CODE This is your Cambridge Elevate Book Code. Please scratch the panel lightly, with a coin, to reveal the code beneath: - QBBM-XZLF二HDTL-NZSM How do I register and use my Book Code?
 
 • Already registered? Please log in at elevate.cambridge.org and then use the 'Add books'icon in the top right of the page to add your Book Code • Want to register? Please use your Book Code to register at elevate.cambridge.org and then use the'Add books'icon to add any additional Book Codes.

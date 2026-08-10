@@ -1,10 +1,5 @@
 # Economics Today and Tomorrow Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Economics_Today_and_Tomorrow_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：1438733
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 interactive student edition
 
 Roger LeRoy Miller, Ph.D.
@@ -16,10 +11,6 @@ ROGER LEROY MILLER graduated Phi Beta Kappa from the University of California at
 About the Author Contributors BusinessWeek is the most widely read business publication in the world and is the only weekly business news publication in existence. BusinessWeek provides incisive and comprehensive interpretation of events by evaluating the news and its implications for the United States, regional, and world economies.
 
 Standard & Poor’s is a leading source of data, news, and analyses on regional, national, and global economic developments. Standard & Poor’s information is used by industrial firms, financial institutions, and government agencies for setting policy, managing financial positions, planning production, formulating marketing strategies, and a range of similar activities. Standard & Poor’s data services represent the single most sophisticated source of information for organizations that need to understand the impact of the path of economic growth and of government fiscal and monetary policies on their activities.
-
-of America. Except as permitted under the United States Copyright Act, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system, without prior written permission from the publisher.
-
-Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus, OH 43240 ISBN: 978-0-07-874766-3 MHID: 0-07-874766-X 1 2 3 4 5 6 7 8 079/043 12 11 10 09 08
 
 Academic Consultants Consultants / Reviewers Robert B. Blair, Ph.D.
 
@@ -149,8 +140,6 @@ LBQ
 
 ## CPTG
 
-ACQ RFC W@S WDP MK @S QGL CQ QC Q !SQ
-
 ## GLCQ
 
 QCQ QCJJ
@@ -189,11 +178,7 @@ WDM PPC QMS
 
 ## PACQ
 
-RFC W@S WDP MK GLB
-
 ## GTGB
-
-S?J Q !SQGLCQQCQ N?WR?VCQ &MTCPLKCLRNPMTGBCQ ACPR?GL@CLCDGRQRM @SQGLCQQCQ &MTCPLKCLRNPMTGBCQ ACPR?GL@CLCDGRQRM GLBGTGBS?JQ (LBGTGBS?JQ N?WR?VCQ !SQGLCQQCQ &MTCPLKCLR Graphs, Charts, and Maps Graphs and charts labeled with the In Motion icon have been specially enhanced on the StudentWorks™ Plus CD-ROM and on glencoe.com. These In Motion graphics allow you to interact with layers of displayed data and to listen to audio components.
 
 Entries in blue indicate In Motion graphics.
 
@@ -737,8 +722,6 @@ What Is Economics? 19
 
 ## FOXTROT
 
-FOXTROT ©1996 Bill Amend. Reprinted with permission Vocabulary
-
 ## 1. Explain the significance of: trade-off,
 
 opportunity cost, production possibilities curve.
@@ -891,8 +874,6 @@ Graph A  This graph supports the theory that a direct relationship exists betwee
 
 AhnkerfbgbfnfpZ`^kZm^ I^k\^gmZ`^h_m^^gZ`^kl ng^fiehr^]
 
-@kZia: : +)
-
 *.
 
 ,)
@@ -918,8 +899,6 @@ AhnkerfbgbfnfpZ`^kZm^ I^k\^gmZ`^h_m^^gZ`^kl ng^fiehr^]
 .
 
 I^k\^gmZ`^h_m^^gZ`^kl ng^fiehr^]
-
-AhnkerfbgbfnfpZ`^kZm^ @kZia; ; Graph B  This graph does not support the theory that a direct relationship exists between the two factors studied.
 
 See StudentWorks™ Plus or go to glencoe.com.
 
@@ -1034,8 +1013,6 @@ earning a Motorsports Management degree?
 motorsports job compare to the average salary of a person with a bachelor’s degree?
 
 3P?BC .DDQ  WC?PBCEPCC ?R?NPGT?RCMPMSR
-
-MD QR?RCAMJJCEC A?LAMQR?@MSR    L GL QR?RC@?AFCJMPmQ BCEPCCA?LAMQR  
 
 8MSAMSJB QR?PRUMPIGLE GKKCBG?RCJW ?DRCPFGEFQAFMMJ
 
@@ -1201,13 +1178,9 @@ buys a large piece of land suitable for growing grapes or oranges. They decide t
 
 # $ !
 
-             -SK@CPMDR?@JCQ -SK@CPMD@MMIQFCJTCQ /PMBSARGML/MQQG@GJGRGCQDMP6MMB
-
 "
 
 # $ !
-
-             -SK@CPMDR?@JCQ -SK@CPMD@MMIQFCJTCQ /PMBSARGML/MQQG@GJGRGCQDMP6MMB /.,).% %CONOMICS Self-Check Quiz Visit the Economics Today and Tomorrow Web site at glencoe.com and click on Chapter 1—Self-Check Quizzes to assess your knowledge of chapter content.
 
 2MSPAC,?QML #GVML/MJJGLE 1CQC?PAF 
 
@@ -1449,8 +1422,6 @@ LBQ
 
 ## CPTG
 
-ACQ RFC W@S WDP MK @S QGL CQ QC Q !SQ
-
 ## GLCQ
 
 QCQ QCJJ EMM BQ?
@@ -1485,11 +1456,7 @@ WDM PPC QMS
 
 ## PACQ
 
-RFC W@S WDP MK GLB
-
 ## GTGB
-
-S?J Q !SQGLCQQCQ N?WR?VCQ &MTCPLKCLRNPMTGBCQ ACPR?GL@CLCDGRQRM @SQGLCQQCQ &MTCPLKCLRNPMTGBCQ ACPR?GL@CLCDGRQRM GLBGTGBS?JQ (LBGTGBS?JQ N?WR?VCQ !SQGLCQQCQ &MTCPLKCLR
 
 40 Chapter 2 Mixed System A mixed economy combines basic elements of a pure market economy and a command economy. Most countries of the world have a mixed economy in which private ownership of property and individual decision making are combined with government intervention and regulations. In the United States, most decisions are made by individuals reacting as participants within the market. Federal, state, and local governments, however, make laws protecting private property and regulating certain areas of business. Such regulations include certain environmental protections, safety guidelines for workers, and laws to protect consumers. In Section 2, you’ll learn more about the United States’s mixed economy, and the role of government in it.
 
@@ -1620,8 +1587,6 @@ Smith’s version of the ideal economic system is called capitalism, another nam
 Smith’s ideas influenced the Founders of the United States, who limited the role of government mainly to national defense and keeping the peace. Since the 1880s, however, the role of government—federal, state, and local—has increased significantly. Among other things, federal agencies regulate the quality of various foods and drugs, watch over the nation’s money and banking system, inspect workplaces for hazardous conditions, and guard against damage to the environment.  The federal government also uses tax revenues to provide social programs such as Social Security and Medicare. State and local governments have expanded their roles in such areas as education, job training, recreation, and care for the elderly.
 
 Describing What is meant by a laissez-faire economic system?
-
-capitalism: economic system in which private individuals own the factors of production laissez-faire: economic system in which the government minimizes its interference with the economy CLOSE TO HOME © 2006 John McPherson. Reprinted with permission of
 
 44 Chapter 2 Other Characteristics In a free market, economic activity is coordinated by private businesses and individuals responding to market signals.
 
@@ -1883,19 +1848,7 @@ Pure command socialism is an economic system in which there is little private pr
 
 The Marxian View of Socialism Socialism as a modern economic system grew out of protests against the problems caused by the Industrial Revolution of the 1800s. Karl Marx viewed history as a continual struggle between various groups, or classes, in society. In his own day, he saw this struggle as going on between capitalists—owners of the land, machines, and factories—and the proletariat, or workers.
 
-socialism: a system in which the government owns the major factors of production and attempts to manage output and the distribution of goods proletariat: term Karl Marx used to refer to workers       ,MQRNPGACQ?PCQCR@WRFCQR?RC P?RFCPRF?L@W DMPACQMDQSNNJW?LBBCK?LB
-
-3FCKMTCKCLRMDPCQMSPACQ N?PRGASJ?PJWJ?@MP
-
 GQQRPGARJWAMLRPMJJCB 3FCACLRP?JNJ?LLGLE ?SRFMPGRWK?ICQ?JJBCAGQGMLQ
-
-,MQRMDRFCK?HMPD?ARMPQMDNPMBSARGML?PC MULCB@WRFCQR?RC /PGT?RCNPMNCPRWPGEFRQ?PC QRPGARJWJGKGRCBRMQK?JJRMMJQRF?R?LGLBGTGBS?J LCCBQDMP?LMAASN?RGML
-
-(LBGTGBS?JPGQIR?IGLEGQLMR?JJMUCB 3FCQR?RC R?ICQ?JJMDRFCPGQIUFCLGRBCAGBCQUFGAFLCU AMKN?LGCQQF?JJ@CDMPKCB  JJAGRGXCLQN?WDMP SLQSAACQQDSJPGQIR?IGLE
-
-$AMLMKGABCAGQGMLQ?@MSRUF?R FMU ?LBDMP UFMKRMNPMBSAC?PC?JJK?BC@WQR?RCMDDGAG?JQ RFPMSEFACLRP?JNJ?LLGLE?ECLAGCQ?LBMRFCP ?BKGLGQRP?RGTCSLGRQ
-
-3?V?RGMLGQMDRCLSQCBRMPCBGQRPG@SRCGLAMKC
 
 "F?P?ARCPGQRGAQMD/SPC2MAG?JGQK Figure 2.4 Pure Socialism ■ Socialism can be defined as an economic system that stresses government ownership of the major factors of production and control of the distribution of goods.
 
@@ -1917,15 +1870,9 @@ Comparing and Contrasting How does democratic socialism differ from authoritaria
 
 communism: term used by Karl Marx for his idealized society in which no government is necessary  2RCN "?NGR?JGQKUMSJBQSDDCPCVRPCKCPCACQQGMLQ?LB BCNPCQQGMLQRF?RUMSJBF?PKUMPICPQ  DCUPGAF A?NGR?JGQRQUMSJBF?TC?JJGLBSQRPG?JNMUCP
 
- 2RCN 3FCUGBCE?N@CRUCCLRFCPGAF?LBRFCNMMPUMSJB A?SQCUMPICPQRMSLGRC?LBMTCPRFPMUA?NGR?JGQK
-
- 2RCN 3FCTGARMPGMSQUMPICPQUMSJB CQR?@JGQF?LCUQMAG?JGQRQWQRCK
-
 6MPICPQ RFPMSEFRFCQR?RC UMSJB MUL?LBAMLRPMJRFCKC?LQMD
 
 ## NPMBSARGML
-
- 2RCN 3FCQWQRCKUMSJBCTMJTCGLRM NSPCAMKKSLGQK 6MPICPQUMSJB AMLRPG@SRCRMQMAGCRWRMRFCGPDSJJ ?@GJGRGCQ?LB GLPCRSPL R?ICMLJW UF?RRFCWLCCBCB
 
 3FC"F?LEC%PMK"?NGR?JGQKRM 2MAG?JGQK AAMPBGLERM,?PV ,BSM.BSY democratic socialism: system that works within the constitutional framework of a nation to elect socialists to office; the government usually controls only some areas of the economy authoritarian socialism: system that supports revolution as a means to overthrow capitalism and bring about socialist goals; the entire economy is controlled by a central government; also called communism
 
@@ -1941,21 +1888,13 @@ Supporters of capitalism point out that capitalism allows for more efficiency in
 
 54 Chapter 2 ,?PICR2WQRCK#CACLRP?JGXCB "MKK?LB2WQRCK"CLRP?JGXCB /FX:PSL$JUZ 64" 1ZPOHZBOH /PSUI,PSFB (LRFC4 K?PICRQWQRCK
 
-NJ?LLGLEGQSLBCPR?ICL@W NPGT?RCDGPKQ GLBGTGBS?JQ
-
-?LBCJCARCBEMTCPLKCLR PCNPCQCLR?RGTCQ $AMLMKGA ?ARGTGRWGQAMMPBGL?RCB@W NPGT?RC@SQGLCQQCQ?LB GLBGTGBS?JQPCQNMLBGLERM K?PICRQGEL?JQ
-
 (LNSPCQMAG?JGQRQWQRCKQ
-
-ACLRP?JNJ?LLCPQSLBCPR?IC RFCNJ?LLGLEML@CF?JDMD
 
 ## CTCPWMLC
 
 /J?LLCPQ?JQM AMLRPMJRFCKMTCKCLRMD
 
 ## PCQMSPACQ
-
-N?PRGASJ?PJWJ?@MP
 
 /J?LLGLEGL,?PICR?LB"MKK?LB$AMLMKGCQ ■ Planning is unavoidable, no matter what the economic system. The United States has a highly planned economy. The difference between economic planning in the United States and in command economies is who does the planning.
 
@@ -2038,8 +1977,6 @@ households now own a computer? A car?
 ## 2. Explaining What has enabled Russians to
 
 buy more consumer products?
-
-                .ULCPQFGN@WQF?PCMDFMSQCFMJBQ ,M@GJCNFMLC "MKNSRCP 6?QFGLEK?AFGLC 2RCPCM 5GBCMPCAMPBCP "?P (KNMPRCB35 N?PRKCLRMPFMSQC   &PMUGLE"MLQSKCPGQKGL1SQQG?
 
 2MSPAC&D*1SQ,?PICR1CQC?PAF ,MQAMU
 
@@ -2397,8 +2334,6 @@ How can you obtain information about the characteristics of the numerous brands 
 
 Your Role as a Consumer 67 Skills Handbook See page R51 to learn about Using Tables and Charts.
 
-KMSLRMD$BSA?RGML ,CBG?L(LAMKC ,?JCQ %CK?JCQ -MR?FGEFQAFMMJEP?BS?RC 'GEFQAFMMJEP?BS?RC 2MKCAMJJCEC !?AFCJMPmQBCEPCC /PMDCQQGML?JBCEPCC                     'MU$BSA?RGML DDCARQ(LAMKC 2MSPAC2R?RGQRGA?J @QRP?ARMDRFC4LGRCB2R?RCQ 
-
 Economic Analysis Using Charts How much can you expect to make per year if you graduate from high school but do not attend college?
 
 Figure 3.1 Earning Power ■ Several factors can influence how much income a person has.
@@ -2625,15 +2560,11 @@ Consider using the Internet, checking prices at other merchants, warranties, bra
 
 Review ▲ Be sure to check out a product’s warranty, but remember that all warranties expire.
 
-CLOSE TO HOME © 1996 John McPherson. Reprinted with permission of UNIVERSAL
-
 Oprah Winfrey • Chairperson of HARPO Entertainment Group ■ Popular television host and magazine publisher ■ One of the 100 most influential people in the world (TIME, 2005)
 
 ■ First African American woman to become a billionaire Oprah Winfrey emerged from an underprivi- leged childhood in rural Mississippi to become one of the wealthiest and most powerful women in the United States. Today, she heads the HARPO Entertainment Group—a movie, television, and video production company headquartered in Chicago. Winfrey also hosts the widely acclaimed The Oprah Winfrey Show, the number-one televi- sion talk show in the world for more than 20 years. It is seen by 9 million viewers a day in the United States and is broadcast in 117 countries.
 
 Oprah believes that her success can be attrib- uted, in part, to her philosophy of helping others: “As a rule, we are a society that has based our lives and importance in our lives on how much we can accomplish through material goods. In the end what matters is how were you able to serve and who were you able to love.” Because she believes that education is the door to freedom, she has donated millions of dollars to provide for students who have merit but no means. In 2002 she expanded her global humani- tarian efforts in South Africa, where 50,000 chil- dren received gifts of food, clothing, athletic shoes, school supplies, books, and toys.
-
-On her Web site, www.oprah.com, viewers of The Oprah Winfrey Show can find, in addition to advice on many topics, a comprehensive list of resources related to the show.
 
 “ This show’s still the thing for me. It gives me the platform to try to figure out how do you get people to lead better lives? How do you get fathers to spend more time with their children?” Checking for Understanding
 
@@ -2739,31 +2670,15 @@ Montes De Oca Art/Getty Images
 
 Activities to learn more about federal agencies that aid consumers.
 
-        1CNMPRRFCNPM@JCKGKKCBG?RCJW #MLMRRPWRMDGV?NPMBSAR
-
 ## WMSPQCJD
 
-@CA?SQCBMGLEQMK?WA?LACJRFCU?PP?LRW
-
-2R?RCRFCNPM@JCK?LBQSEECQR?D?GP?LBHSQRQMJSRGML PCNJ?ACKCLR PCDSLB CRA
-
 (LAJSBCGKNMPR?LRBCR?GJQ?LBAMNGCQMDPCACGNRQ ES?P?LRCCQ  ?LBAMLRP?ARQRMQSNNMPRWMSPA?QC
-
-#CQAPG@C?LW?ARGMLWMSF?TCR?ICLRMRPWRMAMPPCARRFCNPM@JCK
-
-*CCN?L?AASP?RCPCAMPBMDWMSPCDDMPRQRMECRRFCNPM@JCK
 
 ## QMJTCB
 
 (LAJSBCRFCL?KCQMDNCMNJCWMSF?TCQNMICLRMMP UPGRRCLRM?LBRFCB?RCQMLUFGAFWMSAMKKSLGA?RCB
 
-JJMUC?AFNCPQMLPC?QML?@JCRGKCRMQMJTCRFCNPM@JCK@CDMPC AMLR?ARGLE?LMRFCPQMSPAC
-
 (DWMSLCCBRMAMLR?ARRFCK?LSD?ARSPCPGLUPGRGLE RWNCWMSP JCRRCPMPQCLB?LC K?GJBGPCARJW *CCN?AMNW
-
-*CCNAMMJ 3FCNCPQMLUFMUGJJFCJNWMSQMJTCWMSPNPM@JCKGQ NPM@?@JWLMRPCQNMLQG@JCDMPA?SQGLERFCNPM@JCK
-
-"MLQSKCP1CQNMLQG@GJGRGCQ Consumer Responsibilities Consumers can resolve problems most effectively by accepting certain responsibilities.
 
 Economics & You Take a moment to think about your responsibilities at home, work, and school. Then read on to learn about your responsibilities as a consumer.
 
@@ -2851,11 +2766,7 @@ The survey of roughly 1,200 U.S.
 
 shoppers . . . delivers some particularly bad news to the big-box stores. It seems that customers of mass merchandisers like Wal- Mart, Target, and Kmart share their negative experiences with an average of six people, double to triple the audience sought by customers who’ve had negative experiences at other retailers.
 
-—Reprinted from BusinessWeek 80 Chapter 3     2FMNNCPQQ?WRFCW?PC DPSQRP?RCB@W 3MR?J
-
 ## NCPACLR
-
-DPSQRP?RCB ,CPAF?LBGQCQR?AICBRMMFGEF #CJ?WQGLAFCAIMSR (RCKQMSRMDQRMAI 2?JCQ?LBAMSNMLQPCQRPGARCBRM KSJRGNJCQMPJ?PECQRQGXCQ    4LGLDMPKCBQRMPCCKNJMWCCQ #GPRWPCQRPMMKQ #GQNJ?W@JMAIGLE?GQJCQ 2MSPACUUU
 
 ## AMLQSKCPLCRUMPI
 
@@ -2880,14 +2791,6 @@ Ellis Nadler/Getty Images
 Your Role as a Consumer 81 Visual Summary ■ Consumer decision making deals with consumers’ choices about how to spend their income.
 
 (LAMKC
-
-3?VCQ #GQNMQ?@JC GLAMKC
-
--CACQQGRGCQ #GQAPCRGML?PW GLAMKC "?L@CQNCLR MPQ?TCB ■ Before making purchases, especially of big-ticket items, consumers should gather information and compare products from different sources.
-
-2CCI?BTGAC DPMKD?KGJW ?LBDPGCLBQ +MMI?R @PMAFSPCQ?LB A?R?JMEQ 5GQGRQRMPCQ RMAMKN?PC NPGACQ?LB OS?JGRW 1C?B PCTGCUQMD BGDDCPCLR@P?LBQ ?LBKMBCJQ "MLBSAR PCQC?PAFML RFC(LRCPLCR &?RFCPGLE /PMBSAR (LDMPK?RGML ■ In the United States, consumer rights are protected by congressional legislation. Along with these rights, though, come consumer responsibilities. Savvy consumers are aware of both and seek a balance between the two.
-
-"MLQSKCP 1GEFRQ "MLQSKCP 1CQNMLQG@GJGRGCQ Study anywhere, anytime! Download quizzes and flash cards to your PDA from glencoe.com.
 
 82 Chapter 3 Assessment & Activities
 
@@ -3005,8 +2908,6 @@ brand-name products while other people buy mostly store-label products?
 
 then answer the questions that follow.
 
-#MARMPQQ?WRF?RQR?WGLE FWBP?RCBGQRFCKMQRGKNMPR?LR N?PRMDCVCPAGQGLE 3FC?TCP?EC ?BSJRLCCBQ?RJC?QRMSLACQ MDDJSGBNCPB?WRMQR?WFC?JRFW %?LR?QRGA%GRLCQQ6?RCPGQQNCAG?JJW DMPKSJ?RCBRM@C?@QMP@CBOSGAIJW @WRFC@MBW K?IGLEWMSPUMPIMSR ?QCDDCARGTC?QGRA?L@C
-
 !SW%?LR?QRGA  %GRLCQQ6?RCP
 
 a. What type of advertisement is this— competitive or informative? Why?
@@ -3104,8 +3005,6 @@ said they have credit cards. Four in 10 of those with credit cards said they wil
 Stephen Chernin/Getty Images
 
                      !GJJGMLQMDBMJJ?PQ 8C?P 2MSPAC2R?LB?PB/MMPmQ
-
-"MLQSKCP(LQR?JJKCLR#C@R Credit and Installment Debt The price of credit is the interest charged on the amount borrowed.
 
 Economics & You Have you ever purchased something using credit?
 
@@ -4449,13 +4348,9 @@ Evaluating On what factors does a car registration fee generally depend?
 
 registration fee: licensing fee, usually annual, paid to a state for the right to use a car ▼  Fuel efficiency should be one factor you consider when buying a car.
 
-© 2000 Mike Baldwin/Dist. by Universal Press Syndicate. All Rights Reserved.
-
 Personal Finance Handbook See pages R30–R31 to learn more about  buying a car.
 
 * + , - .
-
-/ Ma^mri^h_\Zkrhn]kbo^'BglnkZg\^\hfiZgb^l\hglb]^kma^lZ_^mrk^\hk]h_ Z\ZkZg]ma^\hlmlmhk^iZbkbmb_bmblbgoheo^]bgZgZ\\b]^gm' Pa^k^rhn]kbo^'B_ma^kZm^h_ma^_mlZg]Z\\b]^gmlblab`abgZgZk^Z%ma^kbld mhma^bglnkZg\^\hfiZgrbl`k^Zm^k':\bmr%_hk^qZfie^%phne]aZo^fhk^ ma^_mlZg]Z\\b]^gmlmaZgphne]ZknkZeZk^Z'Ma^k^_hk^%ma^kZm^ma^bglnkZg\^ \hfiZgr\aZk`^lbgZ\bmrpbee[^ab`a^k' PaZmrhnnl^ma^\Zk_hk'B_rhn]kbo^rhnk\Zk_hk[nlbg^llhgZ]Zber[Zlbl% ma^kZm^pbee[^ab`a^kmaZgb_rhnnl^bmhger_hk^kkZg]lZg]h\\ZlbhgZemkbil' FZkbmZelmZmnl'Bg`^g^kZe%fZkkb^]f^gZg]phf^gaZo^ehp^kZ\\b]^gmkZm^l maZglbg`e^f^gZg]phf^gZg]%ma^k^_hk^%iZrehp^kbglnkZg\^kZm^l' LZ_^mrk^\hk]'B_rhnaZo^Zablmhkrh_Z\\b]^gmlZg]mkZ__b\mb\d^ml%ma^grhn pbee[^\aZk`^]Zab`akZm^'Pa^ma^kZg^p]kbo^kaZlaZ]]kbo^k^]n\Zmbhgbl h_m^g\hglb]^k^]bg]^m^kfbgbg`ZkZm^' @kZ]^l'FZgrbglnkZg\^\hfiZgb^lh__^k[^mm^kkZm^lmhm^^gZ`^]kbo^klpah `^m`hh]`kZ]^l' Gnf[^kh_]kbo^kl'Ma^fhk^]kbo^klpahnl^ZiZkmb\neZk\Zk%ma^ab`a^kma^ bglnkZg\^kZm^pbee[^' ?Z\mhkl:__^\mbg`:nmhfh[be^BglnkZg\^KZm^l Operating a Car Operating a car is expensive, involving the costs of gasoline, routine maintenance, major repairs, depreciation, and insurance.
 
 Economics & You Do you own a car? Aside from the initial purchase, how much do you spend every month on the car’s day-to-day use? Read on to learn the costs involved in operating a vehicle.
 
@@ -4561,8 +4456,6 @@ Buying the Necessities 135 ■ When buying any necessities, including food and c
 
 +MUCP/PGAC +MUCP0S?JGRW
 
-BT?LR?ECQMD.ULGLE !SGJBGLECOSGRW 3?V@CLCDGRQ /PGBCMD
-
 ## MULCPQFGN
 
 ■ When deciding whether to rent or buy a home, you should consider the advantages of each option.
@@ -4570,8 +4463,6 @@ BT?LR?ECQMD.ULGLE !SGJBGLECOSGRW 3?V@CLCDGRQ /PGBCMD
 ◆ New ◆ Fuel efficient ◆ Under warranty ◆ Lower insurance ■ When buying a car, you will have many trade-offs to consider before deciding what type of vehicle is best for you.
 
 ◆ Used ◆ Powerful engine ◆ No warranty ◆ Higher insurance Study anywhere, anytime! Download quizzes and flash cards to your PDA from glencoe.com.
-
-BT?LR?ECQMD1CLRGLE +MUCPKMLRFJWAMQRQ &PC?RCPKM@GJGRW -MK?GLRCL?LAC PCQNMLQG@GJGRGCQ (l) Carol T. Powers/Bloomberg News/Landov, (r) Dick Reed/CORBIS
 
 Assessment & Activities 136 Chapter 5
 
@@ -4671,15 +4562,11 @@ automobile?
 
 club warehouse store convenience store private-labeled products durability service flow lease security deposit closing costs registration fee liability insurance club warehouse store convenience store private-labeled products durability service flow lease security deposit closing costs registration fee liability insurance a. potential b. significant c. regional d. factor e. equivalent f. obtain g. involved h. status a. potential b. significant c. regional d. factor e. equivalent f. obtain g. involved h. status
 
-Toles ©2000 The Washington Post. Reprinted with permission of UNIVERSAL PRESS SYNDICATE.
-
 Buying the Necessities 137 Math Practice
 
 ## 20. Determine the per-unit price of each product
 
 listed in the chart below.
-
-        /PMBSAR ,GJIL?RGML?J @P?LB ,GJIQRMPC @P?LB +?SLBPW #CRCPECLR7 +?SLBPW #CRCPECLR7 /PGAC /PGAC NCP4LGR E?JJML MX  E?JJML MX  MX
 
 JM?BQ MX
 
@@ -4867,8 +4754,6 @@ saving: setting aside income for a period of time so that it can be used later 1
 
 Personal Finance Handbook See pages R6–R9 to learn more about  saving.
 
-©2006 by King Features Syndicate, Inc. World rights reserved.
-
 King Features Syndicate, Inc.
 
 Saving and Investing 143 Savings Accounts and Time Deposits Savings accounts and time deposits offer a variety of maturities and are insured by agencies of the federal government.
@@ -4904,8 +4789,6 @@ Steps to Saving 3WNCMD
 ,GLGKSK #CNMQGR
 
 1?RCMD (LRCPCQR
-
-T?GJ?@GJGRW MD%SLBQ
 
 2?TGLEQ ,MLCW K?PICR 3GKC
 
@@ -5081,10 +4964,6 @@ Be sure you have studied these differences before investing in either option.
 
 2RMAIQBMLMRF?TC?K?RSPGRWB?RC 3FCAMPNMP?RGMLGQQSGLE RFCQRMAIBMCQLMRPCN?WRFCQRMAIFMJBCP
 
-2RMAIFMJBCPQSQS?JJWCJCAR?@M?PBMDBGPCARMPQUFMAMLRPMJ RFCAMPNMP?RGML
-
-2RMAIFMJBCPQF?TC?AJ?GK?E?GLQRRFCNPMNCPRW?LBGLAMKC MD?AMPNMP?RGMLMLJW?DRCPRFCAJ?GKQMD?JJAPCBGRMPQ GLAJSBGLE@MLBFMJBCPQ?LBFMJBCPQMDNPCDCPPCBQRMAI F?TC@CCLKCR
-
 2RMAIQ Comstock Images/Alamy
 
 Saving and Investing 149 Savings Bonds The U.S. government issues savings bonds as one of its ways of borrowing money. They range in face value from $50 up to $10,000. The purchase of a U.S. savings bond is similar to buying a bank’s certificate of deposit. Savings bonds are attractive because they are very safe, and because the interest earned is not taxed until the bond is turned in for cash.
@@ -5101,19 +4980,9 @@ Explaining What are two ways that investors can benefit from stocks?
 
 savings bonds: bonds issued by the federal government as a way of borrowing money; they are purchased at half the face value and increase every 6 months until full face value is reached Economic Analysis Comparing Of stocks and bonds, which investment option involves less risk?
 
-Treasury bills: certificates issued by the U.S. Treasury in exchange for a minimum amount of $1,000 and maturing in a few days up to 26 weeks Treasury notes: certificates issued by the U.S. Treasury in exchange for minimum amounts of $1,000 and maturing in 2 to 10 years Treasury bonds: certificates issued by the U.S. Treasury in exchange for minimum amounts of $1,000 and maturing in 30 years        "MPNMP?RGMLQ?PCLMRPCOSGPCBRMGQQSC@MLBQ
-
-!MLBQPCNPCQCLRBC@R
-
 !MLBQN?W?DGVCBP?RCMDGLRCPCQR
 
-(LRCPCQRML@MLBQLMPK?JJWKSQR?JU?WQ@CN?GB UFCRFCP MPLMRRFCAMPNMP?RGMLC?PLQ?NPMDGR
-
-!MLBQF?TC?K?RSPGRWB?RC 3FC@MLBFMJBCPGQRM@C PCN?GBRFCT?JSCMDRFC@MLB ?JRFMSEFGDRFCAMPNMP?RGML EMCQMSRMD@SQGLCQQ GRBMCQLMRLMPK?JJWPCN?WRFC @MLBFMJBCPQGLDSJJ
-
 !MLBFMJBCPQSQS?JJWF?TCLMTMGACGLMPAMLRPMJMTCPFMU RFCAMPNMP?RGMLGQPSL
-
-!MLBFMJBCPQF?TC?AJ?GK?E?GLQRRFCNPMNCPRW?LBGLAMKC MD?AMPNMP?RGMLRF?RKSQR@CKCR@CDMPCRFCAJ?GKQMD?LW
 
 ## QRMAIFMJBCPQ
 
@@ -5311,15 +5180,9 @@ Figure 6.4 Retirement Plan Options Economic Analysis Comparing What do these ret
 
 pension plans: company plans that provide retirement income for their workers ■ Today people have several choices in retirement plans.
 
-Keogh plan: retirement plan that allows self-employed individuals to save a maximum of 15 percent of their income up to a specified amount each year, and to deduct that amount from their yearly taxable income "MKN?LWNJ?L /MPRGMLMDN?W UGRFFCJB?LB K?RAFCB@W AMKN?LW 3?VBCDCPPCBML GLAMKC?LBGLRCPCQR ,?VGKSK AMLRPG@SRGMLJGKGR 2CJD CKNJMWCBNJ?L 4NRMMDWC?PJW GLAMKCQCR?QGBC KMSLRGQR?V BCBSARG@JC ,?VGKSK AMLRPG@SRGMLJGKGR (LBGTGBS?JK?PPGCB AMSNJCmQNJ?L 3?V
-
 ## BCDCPPCB
 
-AMLRPG@SRGMLQ 3?V
-
 ## BCDCPPCB
-
-GLRCPCQRGLAMKC ,?VGKSK AMLRPG@SRGMLJGKGR (LBGTGBS?JK?PPGCB AMSNJCmQNJ?L "MLRPG@SRGMLQR?VCB (LRCPCQRGLAMKC LCTCPR?VCB ,?VGKSK AMLRPG@SRGMLJGKGR I *CMEF (1 1MRF(1 3WNCQMD1CRGPCKCLR/J?LQ Skills Handbook See page R41 to learn about Evaluating Information.
 
 Saving and Investing 157 Another form of retirement plan is the individual retirement account (IRA). A  person earning less than $30,000 can contribute up to $4,000 a year and deduct those contributions from taxable income. The benefit of an IRA is that the income you contribute to the IRA is not taxed in the year it is contributed. In addition, the interest you earn on that income is not taxed either. You pay the tax only when you take out funds from your IRA account, usually after age 59½.
 
@@ -5363,11 +5226,7 @@ Amount of Risk So, how much of your savings should you risk in investment? When 
 
 ?LBFMUD?QRUGJJKWQ?TGLEQEPMU
 
-'MUKSAFGLAMKCUGJJ(@CC?PLGLEGLRFCDSRSPC
-
 6F?RBCEPCCMDPGQI?K(UGJJGLERMR?IC
-
-'MUGKNMPR?LRGQGRRF?RKWQ?TGLEQ@CPC?BGJW ?T?GJ?@JCGLA?QC(LCCBGKKCBG?RCA?QF
 
 6GJJKWQR?LB?PBMDJGTGLE?RPCRGPCKCLRBCNCLB J?PECJWMLKW?AASKSJ?RCBQ?TGLEQ
 
@@ -5439,13 +5298,7 @@ How do I know this? It’s in bold type in the top right-hand corner of his Web 
 
 hopefully we’ll learn from each other and meet up in the Caymans some day.” —Reprinted from BusinessWeek Checking out MyMoneyBlog.com (LDMPK?RGML2F?PCBML %GL?LAG?J!JMEQ 6FCPCQFMSJB(GLTCQRKWI
 
-6F?RAPCBGRA?PBQMDDCPRFC @CQRGLACLRGTCQ
-
 6F?RKGQR?ICQQFMSJB(?TMGB UFCLGLTCQRGLE
-
-2FMSJB(DGPQRN?WMDDBC@RMP @SGJBSNQ?TGLEQ
-
-6FGAFMLJGLCQ?TGLEQ?AAMSLRQ MDDCPRFC@CQRP?RCQ
 
 160 Chapter 6 Think About It
 
@@ -5471,11 +5324,7 @@ TIm Fuller
 
 #CAGBCUFCLRMGLTCQR?NMPRGML MDUF?RWMSF?TCQ?TCB
 
-2RCNQRM2?TGLE 'GEF +MU 1?RCMDPCRSPL +MU 'GEF 2?TGLEQ ?AAMSLRQ "CPRGDGA?RCQ MDBCNMQGR !MLB @?QCB KSRS?JDSLBQ 2RMAI @?QCB KSRS?JDSLBQ !MLBQ 2RMAIQ 1GQI 1GQI?LB1CRSPL @GJJQ
-
 ## LMRCQ
-
-?LB @MLBQ !MLBQ 2RMAIQ ,SRS?J
 
 ## DSLBQ
 
@@ -5638,8 +5487,6 @@ b. What effect will consumer spending have on savings rates? Why?
 c. What is the relationship between consumer spending and saving?
 
 /.,).% %CONOMICS Self-Check Quiz Visit the Economics Today and Tomorrow Web site at glencoe.com and click on Chapter 6—Self-Check Quizzes to assess your knowledge of chapter content.
-
-Saving and Investing 163 Toles ©1991 John McPherson. Reprinted with permission of
 
 Imagine being 30 years old and still paying off a slice of pizza you bought when you were in college. Sounds crazy, but for many people, credit-card debt built up in college stays with them for many years to come. Could the problem be solved by preventing credit-card companies from marketing to college students?
 

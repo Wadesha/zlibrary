@@ -1,23 +1,12 @@
 # How to Be a Math Genius DK Mike Goldsmith Z Library
 
-> 来源文件：pre_How_to_Be_a_Math_Genius_DK_Mike_Goldsmith_Z_Library.txt
-> 字符数（约）：196832
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 MATH TRAIN your BRAIN to be a GENIUS
 
 LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI Senior editor  Francesca Baines Project editors  Clare Hibbert, James Mitchem Designer  Hoa Luc Senior art editors  Jim Green, Stefan Podhorodecki Additional designers  Dave Ball, Jeongeun Yule Park Managing editor  Linda Esposito Managing art editor  Diane Peyton Jones
 
-Category publisher  Laura Buller Production editor  Victoria Khroundina Senior production controller  Louise Minihane Jacket editor  Manisha Majithia Jacket designer  Laura Brim Picture researcher  Nic Dean DK picture librarian  Romaine Werblow Publishing director  Jonathan Metcalf Associate publishing director  Liz Wheeler Art director  Phil Ormerod First American edition, 2012 Published in the United States by DK Publishing 375 Hudson Street New York, New York 10014 Copyright © 2012 Dorling Kindersley Limited 12 13 14 15 16 10 9 8 7 6 5 4 3 2 1 001—182438 —09/12 in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN: 978-0-7566-9796-9 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 375 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Printed and bound in China by Hung Hing Discover more at www.dk.com This book is full of puzzles and activities to boost your brain power. The activities are a lot of fun, but you should always check with an adult before you do any of them so that they know what you’re doing and are sure that you’re safe.
 
 Written by Consultant Illustrated by Dr. Mike Goldsmith Branka Surla Seb Burnett MATH TRAIN your BRAIN to be a GENIUS
 

@@ -1,23 +1,12 @@
 # Battles That Changed History DK Smithsonian Z Library
 
-> 来源文件：pre_Battles_That_Changed_History_DK_Smithsonian_Z_Library.txt
-> 字符数（约）：455805
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BATTLES HISTORY THAT  CHANGED
 
 S M I T H S O N I A N BATTLES HISTORY THAT  CHANGED
 
-Senior Editors Senior Art Editor Editors US Editors Managing Editor Senior Managing Art Editor Picture Researchers Jacket Designer Jacket Design Manager Jacket Editor Pre-production Producers Producer Publisher Art Director Publishing Director Hugo Wilkinson, Andrew Szudek Anthony Limerick Jemima Dunne, Joanna Micklem Lori Hand, Jill Hamilton Gareth Jones Lee Griffiths Sarah Hopper, Sarah Smithies Surabhi Wadhwa-Gandhi Sophia MTT Claire Gell Gillian Reid, David Almond Mandy Inness Liz Wheeler Karen Self Jonathan Metcalf Arani Sinha Priyadarshini Gogoi, Devangana Ojha Vikas Chauhan Jomin Johny, Anukriti Arora Amrai Dua Soma B. Chowdhury Arunesh Talapatra Aditya Katyal Taiyaba Khatoon Shanker Prasad, Jagtar Singh Ashok Kumar Pankaj Sharma Balwant Singh Harish Aggarwal Juhi Sheth Priyanka Sharma Saloni Singh Senior Editor Assistant Editors Project Art Editor Art Editors Assistant Art Editor Managing Editor Senior Managing Art Editor Picture Researcher Picture Research Manager Senior DTP Designers DTP Designer Production Manager Pre-production Manager Senior Jackets DTP Designer Jacket Designer Jackets Editorial Coordinator Managing Jackets Editor DK INDIA First American edition, 2018 Published in the United States by DK Publishing 345 Hudson Street, New York, New York 10014 Copyright © 2018 Dorling Kindersley Limited DK, a division of Penguin Random House LLC 18 19 20  21 22 10 9 8 7 6 5 4 3 2 1 001– 310028–September/2018 Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-7384-4 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fundraising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014  SpecialSales@dk.com Printed and bound in Malaysia A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW
-
-www.dk.com Contents Foreword by Sir Tony Robinson Introduction Marathon (490 BCE)
 
 Greco–Persian Wars Thermopylae (480 BCE)
 

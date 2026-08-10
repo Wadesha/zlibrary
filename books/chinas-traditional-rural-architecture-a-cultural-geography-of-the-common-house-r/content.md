@@ -1,17 +1,10 @@
 # Chinas Traditional Rural Architecture A Cultural Geography of the Common House Ronald G Knapp Z Library
 
-> 来源文件：pre_Chinas_Traditional_Rural_Architecture_A_Cultural_Geography_of_the_Common_House_Ronald_G_Knapp_Z_Library.txt
-> 字符数（约）：375030
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 China s Traditional Rural Architecture
 
 Ronald G. Knapp China s Traditional University of Hawaii Press • Honolulu
 
 Rural Architecture A Cultural Geography of the Common House
-
-© 1 9 8 6 U N I V E R S I T Y OF H A W A I I P R E S S A L L R I G H T S R E S E R V E D M A N U F A C T U R E D IN T H E U N I T E D S T A T E S OF A M E R I C A Library of Congress Cataloging-in-Publication Data Knapp, Ronald G.
 
 China's traditional rural architecture.
 
@@ -38,8 +31,6 @@ Vernacular architecture—Taiwan.
 I.
 
 Title.
-
-NA7448.K57 728'.0951 86-7003 ISBN 0-8248-1053-8
 
 To the memory of William Harry Knapp, Sr., and Thelma Weber Knapp
 

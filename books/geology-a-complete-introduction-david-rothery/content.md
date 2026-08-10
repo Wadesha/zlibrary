@@ -1,23 +1,12 @@
 # Geology A Complete Introduction David Rothery Z Library
 
-> 来源文件：pre_Geology_A_Complete_Introduction_David_Rothery_Z_Library.txt
-> 字符数（约）：616113
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Geology A Complete Introduction
 
 This page intentionally left blank
 
 Geology A Complete Introduction David Rothery
 
-First published in Great Britain in 1997 by Hodder Education.
-
 An Hachette UK company.
-
-First published in US in 1997 by The McGraw-Hill Companies, Inc.
-
-Previously published as Geology: The Key Ideas This revised edition published 2015 Copyright © David Rothery 1997, 2003, 2008, 2010, 2015 The right of David Rothery to be identified as the Author of the Work has been asserted by him in accordance with the Copyright, Designs and Patents Act 1988.
 
 Database right Hodder & Stoughton (makers)
 
@@ -31,13 +20,9 @@ British Library Cataloguing in Publication Data: a catalogue record for this tit
 
 Library of Congress Catalog Card Number: on file.
 
-Paperback ISBN 978 1 473 60155 0 eBook ISBNs 978 1 473 60157 4, 978 1 473 60156 7 The publisher has used its best endeavours to ensure that any website addresses referred to in this book are correct and active at the time of going to press.
-
 However, the publisher and the author have no responsibility for the websites and can make no guarantee that a site will remain live or that the content will remain relevant, decent or appropriate.
 
 The publisher has made every effort to mark as such all words which it believes to be trademarks. The publisher should also like to make it clear that the presence of a word in the book, whether marked or unmarked, in no way affects its legal status as a trademark.
-
-Every reasonable effort has been made by the publisher to trace the copyright holders of material in this book. Any errors or omissions should be notified in writing to the publisher, who will endeavour to rectify the situation for any reprints and future editions.
 
 Typeset by Cenveo® Publisher Services.
 
@@ -45,13 +30,11 @@ Printed and bound in Great Britain by CPI Group (UK) Ltd., Croydon, CR0 4YY.
 
 John Murray Learning policy is to use papers that are natural, renewable and recyclable products and made from wood grown in sustainable forests. The logging and manufacturing processes are expected to conform to the environmental regulations of the country of origin.
 
-John Murray Learning Carmelite House 50 Victoria Embankment London EC4Y 0DZ www.hodder.co.uk
-
 Contents Preface Acknowledgements 1 Introduction: a mighty matter of legend Rock types and the rock cycle The structure of this book 2 Inside and outside: the solid E arth and the atmosphere The atmosphere and its development The Earth’s interior Seismic waves The Earth’s core Evidence from magnetism The Earth’s crust and mantle – compositional layers Summary of compositional layers Another kind of layering – strong and weak The Earth’s heat Radiogenic heating Radiometric dating and the age of the Earth The origin of the Earth and the Solar System A warning 3 Earthquakes How earthquakes happen Measuring earthquakes Protecting structures from earthquake damage Earthquake preparedness Prediction and prevention Tsunamis 4 Plate tectonics Moving plates Plates colliding Plates moving apart The break-up of a continent The life-cycle of an ocean Plates sliding past each other The global picture What makes the plates move?
 
 5 Volcanoes Magma origin and eruption Magmatic gases and explosive eruptions Volcanic hazards Ignimbrite eruptions Volcanoes associated with continental rifting Volcanism at ocean ridges Hawaiian volcanism Lava hazards Predicting eruptions Widespread effects of eruptions 6 Igneous intrusions Minerals Granite Basaltic intrusions in the oceanic crust Dykes and sills Grain sizes in igneous rocks 7 Metamorphism Thermal metamorphism Regional metamorphism Metamorphic facies Textures of metamorphic rocks 8 Weathering, erosion and transport Chemical breakdown of minerals during weathering Physical weathering Sand-sized grains in wind and water Moving ice Glacial landscapes Erosion by rivers and streams Drainage patterns Marine erosion 9 Deposition of sediment and the origin of sedimentary rocks Ripples and dunes Turbidity currents Current directions Waves Finer and coarser sediments Other means of transport Using sediments to interpret ancient environments Depositional environments associated with rivers
 
-﻿Contents Flash floods Deltas and estuaries Logging a sedimentary succession Beaches and other coastal environments Evaporite deposits Limestone Turning sediment into rock 10 Deformation of rocks Different types of steep fault Low-angle faults Thrust belts and collision zones Brittle faults versus shear zones Folds Shapes and styles of folding Unconformities 11 Physical resources Reserves and resources Origins of oil and gas Oil and gas reservoirs Exploration for oil and gas The origin of coal Mining techniques Ores and their origins Ore exploration The mining of ores Diagenetic and sedimentary ore bodies Non-metallic raw materials Making good the damage Water resources 12 Past life and fossils The origin of life The first microbes More complex cells Multicellular organisms The major animal phyla appear Vascular plants and life on land The mammals take over Mass extinctions and adaptive radiations How fossils form Exceptional preservation Plant fossils The use of fossils in stratigraphy
+Contents Flash floods Deltas and estuaries Logging a sedimentary succession Beaches and other coastal environments Evaporite deposits Limestone Turning sediment into rock 10 Deformation of rocks Different types of steep fault Low-angle faults Thrust belts and collision zones Brittle faults versus shear zones Folds Shapes and styles of folding Unconformities 11 Physical resources Reserves and resources Origins of oil and gas Oil and gas reservoirs Exploration for oil and gas The origin of coal Mining techniques Ores and their origins Ore exploration The mining of ores Diagenetic and sedimentary ore bodies Non-metallic raw materials Making good the damage Water resources 12 Past life and fossils The origin of life The first microbes More complex cells Multicellular organisms The major animal phyla appear Vascular plants and life on land The mammals take over Mass extinctions and adaptive radiations How fossils form Exceptional preservation Plant fossils The use of fossils in stratigraphy
 
 13 A short history of the E arth The Earth’s first crust Archean plate tectonics?
 
@@ -80,8 +63,6 @@ Acknowledgements The diagrams in this book have been specially prepared, and mos
 and Simon Stewart (BP); Figures 13.3–13.6 are modified from various sources, but draw heavily on the work of C.R.
 
 Scotese and co-workers; Figures 14.2, 14.4, 14.8, 14.10–12, 14.14, 14.16, 14.17 NASA; Figure 14.3 NASA/Johns Hopkins University APL/Carnegie Institution of Washington; Figure 14.5 Don P. Mitchell and Yuri Getkin; Figure 14.7 ESA/DLR/FU Berlin (G. Neukum), Figure 14.9 NASA/JPL-Caltech/UCLA/ MPS/DLR/IDA.
-
-Plates (colour pictures in the middle of the book): Plate 1 JAMSTEC/Earth Simulator Center; Plate 13 John Watson (copyright Open University); Plate 14 NASA/JPL/Cornell; Plate 15 NASA.
 
 Introduction: a mighty matter of legend In this chapter you will learn: 3 about the scope of this book, and how most chapters are intended to help you understand particular processes 3 the three main types of rock, and how they are related by the ‘rock cycle’.
 
@@ -128,26 +109,6 @@ Similarly, there is a carbon cycle, involving an interplay between atmospheric c
 The structure of this book There is no obvious point at which to begin describing the rock cycle. In this book I begin with its igneous parts, first near the surface (Chapter 5) and then at depth (Chapter 6). Next, I deal with metamorphism (Chapter 7); followed by the erosional and depositional parts of the cycle (Chapters 8 and 9); and then the remaining aspect of the rock cycle, related to the deformation of rocks (Chapter 10). Subsequent chapters consider the physical resources that are available to us as a result of the rock cycle (Chapter 11); the history of life on Earth and of the Earth itself (Chapters 12 and 13); and evidence that the processes I have described occur on other planets, too (Chapter 14). The final chapter provides an introduction to geological fieldwork (Chapter 15).
 
 First, though, I describe the Earth’s internal properties and its atmosphere (Chapter 2) to give you the information you need to set its geology in context. Then I discuss earthquakes (Chapter 3) – which are one of the most obvious manifestations of the unquiet Earth; and plate tectonics (Chapter 4) – which is a description of how wandering continents and widening or vanishing oceans are associated with the creation and destruction of rock on a huge scale.
-
-1 Introduction: a mighty matter of legend Dig deeper The rock cycle can be explored at http://www.geolsoc.org.uk/ ks3/gsl/education/resources/rockcycle.html and via an animation at http://www.pbslearningmedia.org/resource/ ess05.sci.ess.earthsys.rockcycle/rock-cycle-animation/ A site at the Smithsonian Museum of Natural History (Washington, DC) has lots of good things to explore if you select the topic ‘Earth and Planetary Sciences’ http://www.si.edu/Encyclopedia/Search/ Science and Technology http://www.usgs.gov/ The home page of the United States Geological Survey; complicated but you can find information on most geological topics here.
-
-http://www.bgs.ac.uk/ The home page of the British Geological Survey.
-
-http://www.gsi.ie/ The home page of the Geological Survey of Ireland.
-
-http://www.ga.gov.au/ The home page of Geoscience Australia.
-
-http://www.gns.cri.nz/ The home page of New Zealand’s Institute of Geological and Nuclear Sciences.
-
-http://www.geolsoc.org.uk/ The home page of the Geological Society of L ondon, the organization to which most professional geologists in the UK belong.
-
-http://www.geologists.org.uk/ The home page of the Geologists Association, representing amateur geologists in the UK.
-
-http://ougs.org The home page of the O pen University Geological Society, a E urope-wide self-help group for serious or casual students of geology. News of local meetings and field trips.
-
-http://geosociety.org The home page of the Geological Society of America, a largely professional society.
-
-http://geology.about.com/ A free commercial site (with advertising)
 
 offering up-to-date news and web links across the full range of geology, including pictures of rocks, minerals and fossils.
 
@@ -423,8 +384,6 @@ At the same time, lighter materials, such as the silica-rich minerals characteri
 
 In the next chapter I will put speculation aside, and turn to much firmer ground (metaphorically speaking!) and look at what happens in an earthquake.
 
-Dig deeper Material about the E arth’s interior can be found at http://www.bbc.co.uk/science/earth/surface_and_interior/ inside_the_earth If you want to explore the difference between P-waves and S-waves, try http://www.bgs.ac.uk/discoveringGeology/hazards/ earthquakes/seismicWaves.html There is some complex information about the E arth’s magnetic field at http://www.geomag.bgs.ac.uk/education/earthmag.html
-
 2 Inside and outside: the solid Earth and the atmosphere Fact-check 1 Which of these is liquid?
 
 a The mantle b The asthenosphere c The inner core d The outer core 2 Which of these is richest in silica?
@@ -667,8 +626,6 @@ The nearly 200 deaths caused by the 2009 magnitude-8.0 Samoa earthquake listed i
 
 Key idea: Earthquakes and tsunamis An earthquake whose focus is at a shallow depth below the sea can cause a tsunami.
 
-Dig deeper More background to earthquakes and types of seismic waves can be found at www.bgs.ac.uk/discoveringGeology/hazards/ earthquakes/ For advice on how to prepare for and survive an earthquake, see http://www.earthquakecountry.info/dropcoverholdon/ The best website for up-to-date information on earthquakes anywhere in the world is http://earthquake.usgs.gov/
-
 3 Earthquakes Fact-check 1 Which of these is correct?
 
 a The Richter scale and the Modified Mercalli scale are different ways of measuring the same thing.
@@ -886,10 +843,6 @@ There are many forces that could be causing plates to move. As already noted, si
 Key idea: Heat transfer and plate tectonics The mechanism that drives plate tectonics is unknown, but plate recycling is the principal way in which heat is transferred from the mantle to the surface.
 
 I have mentioned volcanoes several times so far. In the next chapter, I will consider them more fully.
-
-Dig deeper There is a lot of background information about plate tectonics at http://www.geolsoc.org.uk/Plate-Tectonics The Smithsonian Institution’s ‘This Dynamic Planet’ map relates to volcanoes, earthquakes and plate tectonics, and allows you to explore plate boundaries in detail http://www.volcano.si.edu/ tdpmap/ The O pen University has some free plate tectonics material here: http://www.open.edu/openlearn/science-maths-technology/ science/geology/plate-tectonics/content-section-0 and a plate tectonics game here: http://www.open.edu/ openlearn/science-maths-technology/slip-slide-collide For an amusing but informative animation about subduction and volcanoes with good accompanying text, see http://www.
-
-oxfordsparks.net/video/underwater-volcano-disaster There are many other plate tectonic resources at http://serc.
 
 carleton.edu/NAGTWorkshops/geophysics/visualizations/ PTMovements.html A landmark paper that established the ‘rules’ for plate tectonics on a sphere is D.P. McKenzie and R.L. Parker, ‘The North Pacific: An E xample of Tectonics on a Sphere’, Nature, 216:5122 (1967): 1276–80.
 
@@ -3921,7 +3874,7 @@ a 125 b 215 c 260 d 305 5 The orientation of which of these could you not record
 
 a Bedding b The contact between a dyke and the rocks into which it had been intruded c A metamorphic cleavage d Slickensides
 
-﻿Appendix 1: Minerals
+Appendix 1: Minerals
 
 ## Appendix 1: Minerals
 
@@ -3963,7 +3916,7 @@ The most common phosphate mineral.
 
 Crystals can take a variety of forms.
 
-﻿Appendix 1: Minerals Biotite (mica)
+Appendix 1: Minerals Biotite (mica)
 
 K(Mg,Fe)3AlSi3O10(OH)2 Virtually black, one excellent cleavage, so that it occurs as fine flakes in igneous and metamorphic rocks.
 
@@ -4057,7 +4010,7 @@ Sphalerite (zinc blende)
 
 ZnS Brown, black or red, tetrahedral crystals.
 
-﻿Appendix 1: Minerals Table d  Notable precious and semi-precious stones Name Formula Notes Amber – Arguably not a mineral. This is fossilized resin.
+Appendix 1: Minerals Table d  Notable precious and semi-precious stones Name Formula Notes Amber – Arguably not a mineral. This is fossilized resin.
 
 Amethyst SiO2 Violet variety of quartz, coloured by impurities, notably iron.
 
@@ -4083,7 +4036,7 @@ Topaz Al2SiO4(F,OH)2 May be yellow, blue, or even red.
 
 This page intentionally left blank
 
-﻿Appendix 2: Rock names
+Appendix 2: Rock names
 
 ## Appendix 2: Rock names
 
@@ -4113,7 +4066,7 @@ Acidic (felsic) igneous rocks These consist of more than 66 per cent silica (SiO
 
 Intermediate igneous rocks These contain between 52 per cent and 66 per cent silica. The most abundant mineral is plagioclase feldspar, with lesser amounts of biotite and amphibole, and sometimes alkali feldspar, quartz or pyroxene. A coarse-grained intermediate igneous rock is called diorite, its medium-grained relative is called microdiorite, and the fine-grained equivalent is called andesite. The term ‘andesitic’ is used to describe these rocks in general, so that a diorite can be said to be a coarse-grained andesitic rock.
 
-﻿Appendix 2: Rock names Basic (mafic) igneous rocks These contain between 45 per cent and 52 per cent silica (but the mineral quartz is absent). The most abundant minerals are plagioclase feldspar and pyroxene, and sometimes olivine.
+Appendix 2: Rock names Basic (mafic) igneous rocks These contain between 45 per cent and 52 per cent silica (but the mineral quartz is absent). The most abundant minerals are plagioclase feldspar and pyroxene, and sometimes olivine.
 
 A coarse-grained basic igneous rock is called a gabbro, its medium-grained equivalent is called a dolerite (British usage)
 
@@ -4133,7 +4086,7 @@ Table X  Classification of metamorphic rocks by texture Textural type Nature o
 
 Not all metamorphic rocks have a foliated texture. For example, a rock metamorphosed by the heat of an igneous intrusion (thermal or contact metamorphism) usually develops a spotty texture and is described as a hornfels. Furthermore, rocks that, prior to metamorphism, consisted of just one abundant mineral are unlikely to develop a new mineral assemblage during metamorphism. The original texture may be destroyed by adjustment of crystal boundaries, but there will not be a strong oriented fabric. A quartz-rich sandstone that has
 
-﻿Appendix 2: Rock names been metamorphosed consists of interlocking quartz crystals and is described as quartzite, and a limestone that has been metamorphosed consists of interlocking calcite crystals and is described as marble.
+Appendix 2: Rock names been metamorphosed consists of interlocking quartz crystals and is described as quartzite, and a limestone that has been metamorphosed consists of interlocking calcite crystals and is described as marble.
 
 ## Chapter 7 introduced the concept of metamorphic facies,
 
@@ -4169,7 +4122,7 @@ A rock that consists of over 90 per cent calcite is referred to as a limestone. 
 
 Another common sedimentary rock name is chert, which describes a rock formed of microscopic silica crystals (which can be either a chemical precipitate, as in the case of flint, or shells of microscopic organisms such as radiolarians).
 
-﻿Appendix 3: Geological time
+Appendix 3: Geological time
 
 ## Appendix 3:
 
@@ -4191,7 +4144,7 @@ A handy website where you can see an updated timescale in detail is http://www.g
 
 Precambrian H a d e a n   E o n Holocene 0.01 Geological timescales
 
-﻿Glossary Glossary This glossary contains those terms that I think the newcomer to geology will have most trouble with. I have indicated the chapter(s)
+Glossary Glossary This glossary contains those terms that I think the newcomer to geology will have most trouble with. I have indicated the chapter(s)
 
 in which each term makes an important appearance. Names of several minerals and rock types not listed here may be found in Appendices 1 and 2. There is a stratigraphic timescale in Appendix 3.
 
@@ -4237,7 +4190,7 @@ clastic rock  A sedimentary rock composed of clasts (Ch 9).
 
 cleavage  1) Regular planes of weakness in a crystal, which are a consequence of its atomic structure (Chs 6, 8). 2) The same term describes closely spaced planes of weakness in a deformed or metamorphosed rock, which are caused by alignments of platy minerals (Ch 7, 10).
 
-﻿Glossary conservative plate boundary  A site where two tectonic plates are sliding past each other. In the oceans, the fault across which the motion occurs is called a transform fault (Ch 4).
+Glossary conservative plate boundary  A site where two tectonic plates are sliding past each other. In the oceans, the fault across which the motion occurs is called a transform fault (Ch 4).
 
 constructive plate boundary  A site where two tectonic plates are moving apart, and each is being added to by the forma- tion of new oceanic lithosphere (Ch 4).
 
@@ -4283,7 +4236,7 @@ fault  A fracture in the lithosphere across which motion takes place (Ch 3).
 
 fieldwork  Studying rocks and geological processes ‘in the field’, meaning ‘where they occur’ (Ch 15).
 
-﻿Glossary flood basalt  Extensive, thick pile of flat-lying basalt lava flows (typically more than a million cubic kilometres in volume), thought to be generated above the site of a particularly vigorous mantle plume (Ch 5).
+Glossary flood basalt  Extensive, thick pile of flat-lying basalt lava flows (typically more than a million cubic kilometres in volume), thought to be generated above the site of a particularly vigorous mantle plume (Ch 5).
 
 floodplain  Flat, low-lying ground beside a river, over which it floods after very heavy rainfall. A river’s course tends to migrate to and fro across its floodplain over tens of thousands of years (Ch 9).
 
@@ -4333,7 +4286,7 @@ hydrolysis  Chemical breakdown of a mineral to clay particles by the action of
 
 ice age  A period (of the order of ten million years long) when the climate alternates between colder and warmer, so that
 
-﻿Glossary there is a succession of glaciations (when polar ice sheets and mountain glaciers are particularly extensive) and interglacials (when, as at present, the ice has retreated) (Ch 8, 13).
+Glossary there is a succession of glaciations (when polar ice sheets and mountain glaciers are particularly extensive) and interglacials (when, as at present, the ice has retreated) (Ch 8, 13).
 
 igneous  Referring to a rock or mineral formed by solidification from a molten state (Ch 1).
 
@@ -4381,7 +4334,7 @@ Thermal or contact metamorphism is a result of proximity to an igneous intrusion
 
 mineral  A naturally occurring crystalline substance with a well-defined chemical composition. Most rock types consist of several different minerals (Ch 6). (See Appendix 1 for a fuller discussion.)
 
-﻿Glossary Moho  The boundary between the crust and the mantle (Ch 2).
+Glossary Moho  The boundary between the crust and the mantle (Ch 2).
 
 non-renewable resources  Fossil fuels, ores and bulk materials, which are being used up at rates much faster than the rates at which they are being created by geological processes (Ch 11).
 
@@ -4429,7 +4382,7 @@ reserves  Those resources that can be extracted profitably and legally under e
 
 reservoir rock  A permeable body of rock into which ­hydrocarbons or water have migrated, and from which they can be extracted through a well (Ch 11). See source rock.
 
-﻿Glossary resources  The estimated total amount of a commodity (fossil fuel, ore or raw material) available in the world (Ch 11).
+Glossary resources  The estimated total amount of a commodity (fossil fuel, ore or raw material) available in the world (Ch 11).
 
 See reserves.
 
@@ -4483,7 +4436,7 @@ terrane  A fault-bounded region of the crust that has a ­different geological
 
 thermal metamorphism  Metamorphism of pre-existing rock near the margin of an igneous intrusion, and driven by
 
-﻿Glossary heat leaking out of it. It is also known as ‘contact ­metamorphism’ (Ch 7).
+Glossary heat leaking out of it. It is also known as ‘contact ­metamorphism’ (Ch 7).
 
 thrust  A low-angle fault which has pushed older rocks over younger rocks (Ch 10).
 
@@ -4505,7 +4458,7 @@ weathering  Slow decay of rock and its constituent minerals upon exposure at t
 
 This page intentionally left blank
 
-﻿Answers Answers
+Answers Answers
 
 ## Chapter
 
@@ -4551,7 +4504,7 @@ way round: in fact, it is decreasing pressure that can lead to partial melting. 
 
 5	 a – Hawaii sits above a hot spot, remote from the nearest plate boundary. If you weren’t sure about (c) and (d), you should have compared Figures 5.1 and 4.9.
 
-﻿Answers 6	 a – (b) is not an eruption product but a mudflow formed from mixing ash with water. (c) and (d) can form only from basaltic lava.
+Answers 6	 a – (b) is not an eruption product but a mudflow formed from mixing ash with water. (c) and (d) can form only from basaltic lava.
 
 7	 b
 
@@ -4605,7 +4558,7 @@ The wearing away of corners is more gradual in water- transport than in wind-tra
 
 2	 c – A fold with near-parallel limbs is isoclinal. Figure 10.8c shows a fold that is both recumbent and isoclinal, but if
 
-﻿Answers you rotate the picture by a quarter turn it becomes upright and isoclinal.
+Answers you rotate the picture by a quarter turn it becomes upright and isoclinal.
 
 3	 b 4	 b 5	 a – The arrows on Figure 10.6 show the directions of displacement on the Altyn Tagh and Karakoram Faults.
 
@@ -4657,7 +4610,7 @@ The right-lateral displacement of the Great Glen Fault is noted in a case study,
 
 (b) would produce a chilled crust of the same composition as
 
-﻿Answers the magma ocean, and so would not be a true, differentiated, crust.
+Answers the magma ocean, and so would not be a true, differentiated, crust.
 
 3	 c 4	 a 5	 c 6	 d – It is an example of the oldest surviving crust, but cannot be the first crust that formed.
 
@@ -4689,30 +4642,30 @@ The right-lateral displacement of the Great Glen Fault is noted in a case study,
 
 and (c). However, slickensides are linear features, so the concept of strike and dip is inapplicable (you could, however, measure the direction of the lines – their ‘trend’ – and the angle they make to the horizontal – their ‘plunge’).
 
-﻿Index Index a’a, 95–6 Acamarachi volcano, Chile, 73 adaptive radiation, 253 African Rift, 89 airfall deposits, 79 alabaster, 179 algae, 178, 182, 242 alluvial fans, 171 aluminium, 20, 108, 225, 231 amber, 257, 347 amethyst, 347 amino acids, 240–1 ammonoids, 245, 252, 256, 262–3 amphibole, 109, 130–1, 133, 139, 344 amphibolite facies, 131 andalusite, 125–7, 344 andesite, 73, 77, 78, 82, 350 anhydrite (CaSO4), 179, 344 Anning, Mary, 249 anorthosite, 299 anticline, 203, 204, 206–7, 218 apatite, 344 aragonite, 181, 185 Archean E on, 244, 270–4, 351, 355, 356 argon, 28 arthropods, 245 ash, 75, 78–80 clouds, 99 asteroids, 30–1, 226, 294–6, 298, 310–12 asthenosphere, 23–5, 57, 93–4 atmosphere, 11–12, 242 other planets, 301, 304, 306–7, 308, 320 atolls, 182 Avalonia, 278–80 bacteria, 241–2 Baltic shield, 273, 277 Baltica, 277–81 banded iron formations (BIFs), 230, 232, 275 barchans, 161 barrels of oil, 219 basalt, 58, 84, 94–7, 274–5 flood basalts, 89–91, 115 metamorphosed, 129–30, 132 other planets, 299–300, 302, 305, 310 basaltic magma, 73–4, 110–11, 116–17 batholiths, 115–16 bauxite, 231 beaches, 177–8 bedforms, 157–61, 163 bed-load, 157, 168 beds, 156 biotite (mica), 109, 130, 345 bivalves, 244–5, 254–7 black smokers, 93, 227, 240, 314 blueschist facies, 131, 133 brachiopods, 244 braided rivers, 170 Bretz, J. Harlen, 167 bricks, 212, 232 brittle deformation, 190, 202 buildings, earthquake damage, 41–3 Burgess Shale, Canada, 258 burrows, 177, 240, 255–6 calcite, 185, 344, 345, 353, 354 calcium carbonate (limestone), 134, 140, 180–3, 185, 246 calderas, 87–8 Callisto, satellite of Jupiter, 315
+Index Index a’a, 95–6 Acamarachi volcano, Chile, 73 adaptive radiation, 253 African Rift, 89 airfall deposits, 79 alabaster, 179 algae, 178, 182, 242 alluvial fans, 171 aluminium, 20, 108, 225, 231 amber, 257, 347 amethyst, 347 amino acids, 240–1 ammonoids, 245, 252, 256, 262–3 amphibole, 109, 130–1, 133, 139, 344 amphibolite facies, 131 andalusite, 125–7, 344 andesite, 73, 77, 78, 82, 350 anhydrite (CaSO4), 179, 344 Anning, Mary, 249 anorthosite, 299 anticline, 203, 204, 206–7, 218 apatite, 344 aragonite, 181, 185 Archean E on, 244, 270–4, 351, 355, 356 argon, 28 arthropods, 245 ash, 75, 78–80 clouds, 99 asteroids, 30–1, 226, 294–6, 298, 310–12 asthenosphere, 23–5, 57, 93–4 atmosphere, 11–12, 242 other planets, 301, 304, 306–7, 308, 320 atolls, 182 Avalonia, 278–80 bacteria, 241–2 Baltic shield, 273, 277 Baltica, 277–81 banded iron formations (BIFs), 230, 232, 275 barchans, 161 barrels of oil, 219 basalt, 58, 84, 94–7, 274–5 flood basalts, 89–91, 115 metamorphosed, 129–30, 132 other planets, 299–300, 302, 305, 310 basaltic magma, 73–4, 110–11, 116–17 batholiths, 115–16 bauxite, 231 beaches, 177–8 bedforms, 157–61, 163 bed-load, 157, 168 beds, 156 biotite (mica), 109, 130, 345 bivalves, 244–5, 254–7 black smokers, 93, 227, 240, 314 blueschist facies, 131, 133 brachiopods, 244 braided rivers, 170 Bretz, J. Harlen, 167 bricks, 212, 232 brittle deformation, 190, 202 buildings, earthquake damage, 41–3 Burgess Shale, Canada, 258 burrows, 177, 240, 255–6 calcite, 185, 344, 345, 353, 354 calcium carbonate (limestone), 134, 140, 180–3, 185, 246 calderas, 87–8 Callisto, satellite of Jupiter, 315
 
 Cambrian period, 244–7, 252, 275–8 carbon cycle, 5 carbon emissions, 287–8 carbon footprint, 287 cassiterite, 346 caves, 151 cement, 184–5 manufactured, 212 chalcopyrite, 346 chalk, 181 channelled scablands, 149–51, 167 chert, 182, 354 Chicxulub crater, Mexico, 251–2, chilled margins, 120 China carbon emissions, 287 coal mining, 224–5 chlorite, 130, 132, 345 chromium, 225 clastic sedimentary rocks, 156–61, 183, 353 clay minerals, 138–9, 179, 185, 222, 231, 354 clay particles, 142–3, 171–2, 184 claystone, 353 see also mudrock cleavage, 109, 132, 204 metamorphic, 141 mineral, 132, 141–2 cliffs, 151–2, 181, 331, 333 climate change, 2, 5, 147, 221, 250, 284–9 Mars, 308 Venus, 304 coal, 221–5 coastal erosion, 151–2 coastlines, deposition, 177–83 coccolithophores, 181 compaction, 184–6 compass clinometers, 333–5 composite cone volcanoes, 72–3, 77 compressional waves (P-waves), 16–17, 19, 37 concrete, 232 conglomerate, 353 conservative plate boundaries, 63–4, 66, 72–3 constructive plate boundaries, 57–67, 72–3, 88–94, 116, 286 contact, intrusive 124, 331 contact (thermal) metamorphism, 124–7 continental collision, 55–6, 62 continental crust, 19–21, 27, 55–6, formation, 270–83 rifting, 57–61, 66, 88–94, 116 continental drift, 61 continental flood basalts, 89–91, 115 convection, 24–6 copper, 225, 227 coral, 182, 246–7 reefs 182–3, 263 core of the E arth, 15–18, 21–2, 24, 26 craters (impact), 251–2, 295–8 lunar, 269–70, 295, 300–1 on Mars, 309 craters (volcanic) 75, 77, 83, 87–8 cratons/shields, 273–4 Cretaceous Period, 249 cross-bedding, 158–61, 162–3 crust of the E arth, 19–22 (see alsocontinental crust; oceanic crust)
 
 fault lines, 36–7 formation, 268–83 heat, 25, 27 melting 30, 84, 114, 133 strength, 22–5 subduction see destructive plate boundaries crystals, 3, 21, 28–9, 74, 106–12, 116–20, 124–6, 131–3, 138, 141–2, 179–80, 185, 190, 225, 268, 301, 317, 331, 343–7, 349–50, 352–4
 
-﻿Index currents, 162 Cyprus, copper ores, 227 Darwin, Charles, 182, 262 dating biostratigraphic, 240, 261, 262 cratering timescale, 298, 305 magnetic reversals, 60 radiometric, 28–9, 208, 259–60, debris avalanches, 83–4 Deccan Traps, India, 89–90 decompression melting, 57–8 deformation, 190–208 brittle, 190 ductile, 190, 204 deltas, 171–6, 222 density of the E arth, 12–16 deposition, 206–7 destructive plate boundaries, 54–5, 57, 61–3, 64–5, 72–6 Devonian period, 278–80, 286 diagenesis, 184–6, 215, 222, 2297 diamond, 297, 344, 347 dinosaurs, 249, 250–3 dip, 334–5 dolomite (mineral), 179, 354 drainage patterns, 149–51 drilling, 216–17, 220–1 ductile deformation, 190, 202–6 dunes and ripples, 157–61, 164 duplex complexes, 198 dykes, 116–19, 192 Earth, 10 age, 28–9 atmosphere, 11–12 core, 16–18 crust see crust of the E arth density, 12–16 future, 288–9 heat, 25–7 history, 268–86 interior, 12–18 magnetic field reversal, 59–60 mantle see mantle origin, 29–32 radiogenic heating, 26–7 earthquakes, 13–16, 36–7 aftershocks, 37, 42, 44 damage caused by, 41–3 distribution, 52–3 measuring, 38–40 plate tectonics, 53–7, 65, 67–8 prediction, 44–5 preparation, 43–4 scales, 38–41 tsunamis, 45–7 volcanic, 97–9 echinoderms, 246, 256 eclogite, 130–1, 133 emerald, 347 Enceladus, satellite of Saturn, 317–18 epidote, 130, 133, 345 Eris, 294, 316 Eros asteroid, 312 erosion, 4–5, 142, 148–52, 194, 206–7 glacial, 145–7 granite, 114–15 marine, 151–2 rivers, 148–9, 168–9 wind, 140, 148 eruptions (see also volcanoes)
+Index currents, 162 Cyprus, copper ores, 227 Darwin, Charles, 182, 262 dating biostratigraphic, 240, 261, 262 cratering timescale, 298, 305 magnetic reversals, 60 radiometric, 28–9, 208, 259–60, debris avalanches, 83–4 Deccan Traps, India, 89–90 decompression melting, 57–8 deformation, 190–208 brittle, 190 ductile, 190, 204 deltas, 171–6, 222 density of the E arth, 12–16 deposition, 206–7 destructive plate boundaries, 54–5, 57, 61–3, 64–5, 72–6 Devonian period, 278–80, 286 diagenesis, 184–6, 215, 222, 2297 diamond, 297, 344, 347 dinosaurs, 249, 250–3 dip, 334–5 dolomite (mineral), 179, 354 drainage patterns, 149–51 drilling, 216–17, 220–1 ductile deformation, 190, 202–6 dunes and ripples, 157–61, 164 duplex complexes, 198 dykes, 116–19, 192 Earth, 10 age, 28–9 atmosphere, 11–12 core, 16–18 crust see crust of the E arth density, 12–16 future, 288–9 heat, 25–7 history, 268–86 interior, 12–18 magnetic field reversal, 59–60 mantle see mantle origin, 29–32 radiogenic heating, 26–7 earthquakes, 13–16, 36–7 aftershocks, 37, 42, 44 damage caused by, 41–3 distribution, 52–3 measuring, 38–40 plate tectonics, 53–7, 65, 67–8 prediction, 44–5 preparation, 43–4 scales, 38–41 tsunamis, 45–7 volcanic, 97–9 echinoderms, 246, 256 eclogite, 130–1, 133 emerald, 347 Enceladus, satellite of Saturn, 317–18 epidote, 130, 133, 345 Eris, 294, 316 Eros asteroid, 312 erosion, 4–5, 142, 148–52, 194, 206–7 glacial, 145–7 granite, 114–15 marine, 151–2 rivers, 148–9, 168–9 wind, 140, 148 eruptions (see also volcanoes)
 
 cloud/column, 86–7 directed blast, 82–3 explosive (pyroclastic), 74–7, 80–1 plinian, 78–82, 86 prediction, 97–9 estuaries, 173–4 eukaryotes, 243 Europa, satellite of Jupiter, 313–15 European Space Agency (ESA), 302–3, 320evaporites, 179–80,
 
 evolution, 11, 241–53 exhumation, 114 exoplanets, 31, 321 exotic terranes, 66, 277, 283 exposures, rock, 329, 330 extinctions, mass, 250–3 facies, metamorphic, 129–33, 353 facies, sedimentary 130, 166 fallout deposits, 79–82, 86, 88, 98, faults, 36–7, 44, 66–7, 190–208 compressional, 16–17, 19, 37 extensional, 196, 203 Great Glen, 194 low-angle, 196–8, 202 normal, 191, 193–6, 200–1 reverse, 191, 194, 196 San Andreas, 36, 64, 67, 192, 194, 288 thrust, 196–200, 302 transcurrent, 192–4, 197–8, 200–1, 288 transform, 63–4 feldspar, 108–9, 110, 344, 345, 350, rotting, 138–9, 143 fieldwork, 328–31, 339–40 equipment, 331–6 safety, 336–7 fish, 256 flaser bedding, 163 flash floods, 171, 337 flesh, preservation, 257–8 flint, 336, 354 flocculation, 172 flood basalts, 89–91, 115, 151, 250, 253, 283, 305 floodplains, 167–70, 173, 233 fluorspar (CaF2), 232 folds, 202–6, 340 anticlines, 203, 204, 206–7, 218 isoclinal and recumbent, 204–5 synclines, 203, 204 foliation, 132–3, 352 foraminiferans, 181, 252, 263 fossil fuels, 212, 214–25, 287 fossils, 240–53, 276–9 body, 254, 263, 331 cells, 242 collecting, 333–4, 336 formation, 253–9 human, 249–50 marine, 177, 246–7, 278 oldest, 242–3 plant, 259 in sediment dating, 259–63 trace, 331 zone, 262 fracking (hydraulic fracturing), 217, 219–20 fractional crystallization, 110 fracture zones, 64 fumaroles, 76–7 gabbro, 116–17 galena, 346 Ganymede, satellite of Jupiter, 315, garnet, 126, 130, 345, 347, 352 gas magmatic (volcanic), 74–7, 80, 86, 98, 119 natural, 212, 214–21 primordial, 268 geological maps, 338 geothermal gradient, 25 geothermal power, 212 geysers, 100 giant impacts, 30, 32, 268, 299 this far 30 Apr glaciation, 146 glaciers, 140, 145–8, 170 transport of sediment, 165–6 glass, 120 Glicken, Harry, 84
 
-﻿Index global warming, 2, 147, 212, 214, 286–8 gneiss, 133, 270, 270, 352 gold, 225, 226, 231 Gondwana, 277–9, 280–1, 284 grabens, 195, 200 grains shape and texture, 142–4, 166 size, 109, 118–20, 170, 175 transport, 143–5, 157–66, 177–8 granite, 84, 85–6, 112–16 granite-greenstone terrain, 273 granitic magma, 86, 111–12 granulite facies, 130–1, 133 graphite, 216 graptolites, 246, 262 gravel, 164, 231, 233, 353 Great Glen Fault, Scotland, 194 greenhouse effect, 181, 212, 215, 286–8 on Venus, 304, 306 greenschist facies, 130–1, 133 groundwater, 234–5 Gutenberg, Beno, 38 gypsum (CaSO4.2H2O), 179–80, 232, 345 Hadean E on, 244, 355 Half Dome, California, USA, 115 halite (NaCl), 179 Hallucigenia, 258 Hamersley Basin, 230, 275 hand lenses, 332, 339 Hawaii, USA tsunamis, 47 volcanoes, 94–6, 307 headlands, 151, 152 heat flow, 24 heat generation, 25–7, 67, 114, 268, 289, 298, 311, 313, 316–7 hematite (Fe2O3), 139, 276, 346 Himalayas, 56, 200–1, 288 hornfels, 125–6, 131, 352 horses, 198–200 horsts, 195, 199 hot (hydrothermal) vents, 93, 314 hot spot volcanism, 89–90, 96 human fossils, 249–50 hummocky cross-stratification, 164, 177 Hutton, James, 28–9, 208, 280 hyaloclastite, 92 hydration melting, 74 hydraulic fracturing (fracking), 219–20 hydrocarbons, 214–21 hydrological cycle, 5, 320 hydrolysis, 138–40 hydrothermal circulation 93, 226–8, hydrothermal vents, 93, 240–1, 314 Iapetus O cean, 278–80 ice, 316–21 glaciers, 145–8 transport of sediment, 165–6 ice ages, 147, 284–6 ichthyosaurs, 248, 249 igneous rock, 3, 106–20 acid (granitic), 84, 107, 350 see also granite basic, 108, 344, 350–1 intermediate (andesitic), 107–9, 279, 350 intrusive, 106, 116, 119, 276 pyroclastic, 74, 120, 192, 350 ultrabasic, 108, 110, 350–1 volcanic, 60, 106, 118–19, 279, ignimbrite eruptions, 86–8 illite, 139, 345 illmenite, 346 imbrication, 165 interglacials, 147 Io, satellite of Jupiter, 294, 312–13
+Index global warming, 2, 147, 212, 214, 286–8 gneiss, 133, 270, 270, 352 gold, 225, 226, 231 Gondwana, 277–9, 280–1, 284 grabens, 195, 200 grains shape and texture, 142–4, 166 size, 109, 118–20, 170, 175 transport, 143–5, 157–66, 177–8 granite, 84, 85–6, 112–16 granite-greenstone terrain, 273 granitic magma, 86, 111–12 granulite facies, 130–1, 133 graphite, 216 graptolites, 246, 262 gravel, 164, 231, 233, 353 Great Glen Fault, Scotland, 194 greenhouse effect, 181, 212, 215, 286–8 on Venus, 304, 306 greenschist facies, 130–1, 133 groundwater, 234–5 Gutenberg, Beno, 38 gypsum (CaSO4.2H2O), 179–80, 232, 345 Hadean E on, 244, 355 Half Dome, California, USA, 115 halite (NaCl), 179 Hallucigenia, 258 Hamersley Basin, 230, 275 hand lenses, 332, 339 Hawaii, USA tsunamis, 47 volcanoes, 94–6, 307 headlands, 151, 152 heat flow, 24 heat generation, 25–7, 67, 114, 268, 289, 298, 311, 313, 316–7 hematite (Fe2O3), 139, 276, 346 Himalayas, 56, 200–1, 288 hornfels, 125–6, 131, 352 horses, 198–200 horsts, 195, 199 hot (hydrothermal) vents, 93, 314 hot spot volcanism, 89–90, 96 human fossils, 249–50 hummocky cross-stratification, 164, 177 Hutton, James, 28–9, 208, 280 hyaloclastite, 92 hydration melting, 74 hydraulic fracturing (fracking), 219–20 hydrocarbons, 214–21 hydrological cycle, 5, 320 hydrolysis, 138–40 hydrothermal circulation 93, 226–8, hydrothermal vents, 93, 240–1, 314 Iapetus O cean, 278–80 ice, 316–21 glaciers, 145–8 transport of sediment, 165–6 ice ages, 147, 284–6 ichthyosaurs, 248, 249 igneous rock, 3, 106–20 acid (granitic), 84, 107, 350 see also granite basic, 108, 344, 350–1 intermediate (andesitic), 107–9, 279, 350 intrusive, 106, 116, 119, 276 pyroclastic, 74, 120, 192, 350 ultrabasic, 108, 110, 350–1 volcanic, 60, 106, 118–19, 279, ignimbrite eruptions, 86–8 illite, 139, 345 illmenite, 346 imbrication, 165 interglacials, 147 Io, satellite of Jupiter, 294, 312–13
 
 iron, 20, 29–31, 108, 125, 139, 225, 229–30, 270, 311 in the E arth’s core, 12, 17, 22, 32, 294, 302 in Mercury, 302 ironstone, 223, 229–30 island arcs, 64, 65, 72, 279, 281, 288 isostasy, 21 Japan, plate tectonics, 43, 46, 54–5, 65–6, 72, 98–100, 289 jet, 347 Johnson, Dave, 83–4 joints, 141 Jupiter, satellites, 312–15, 317 kaolinite, 226, 231, 345 Kelvin, L ord, 28–9 komatiite, 272, 351 K-T boundary, 249, 250, 252–3 Kuiper Belt, 294–5, 316 kyanite, 126–7, 345 lahars/mudflows, 81–2, 85, 165–6 landfill, 233 landslides marine, 258 on Mars, 310–11 transport of sediment, 141, 165–6 lapis lazuli, 347 Lascar volcano, 78 Laurentia, 277–80, 282 Laurentian Shield, 273, 277 lava flows, 74, 76–8 andesitic 85 basalt, 89–92, 94–7, 283 domes, 80–1, 83–4, 87 granitic, 85–6 hazards, 96–7 icy, 319 other planets, 305, 308, 310, 313, underwater, 91–2 lead, 28, 225, 228 levées, 168–9 life 11–12, 235 extraterrestrial 308, 314 origin, 2, 93, 240–1 on land 247–50 limestone, 5, 76, 125, 140, 149, 177, 180–3, 185, 196, 212, 217, 228, 232–3, 235, 249, 254, 257, metamorphosed, 134, 353 oolitic, 183, 354 lineation, 132 lithosphere, 23–5, 53, 56, 67 other planets, 298, 301, 307, 319 longitudinal dunes, 161 longwall mining, 223–4 low-angle faults, 196–8, 202 low-speed layer, 23 Lyell, Sir Charles, 167 magma, 58, 73–4, 89, 98, 100, 106–7, 112–3, 212, 270, 268–9, chambers 116–7 crystallization, 110–12, 119–20, 124, 301, 349 dyke formation, 116–19 explosions, 74–7 frozen, 120 granitic, 86, 111–12 ocean, 268–9, 300–1 magnetic stripes, 59–61, 282 magnetism Earth’s core, 18 exploration tool 220–1, 228 Mercury, 302–3 of the ocean floor, 59–61, 282 palaeomagnetism, 275–7 magnetite, 346 mammals, evolution, 248–50, 253 mammoths, 250 mantle, 19–22, 268, 270
 
-﻿Index convection 24–6, 67 decompression melting, 57–8 heat, 25–6 plumes, 89, 90, 94, 282–3, 307 strength, 22–5 maps, 39, 44, 52, 65–6, 80, 84, 97, 116, 126, 149, 192, 202, 220, 228, 332–3, 338 marble, 134 marine current directions, 163–4 marine deposition, 171–83 marine erosion, 151–2 Mars, 10, 241, 294, 306–10 Martinique, 80 mass extinctions, 250–3, 284, 298, mass mortality, 258 Matthews, Drummond, 59 Mauna L oa volcano, 95, 307 melting, 55, 57, 73, 316 decompression, 57–8 hydration, 74 Mercury, 10, 294, 301–3 Mesozoic E ra, 248 metal ores, 225–32 metamorphic aureole,  125–6 metamorphic facies, 129–33, 353 metamorphic grade, 129, 131–3 metamorphic rock, 4, 131–4, 141, 270, 352–3 metamorphism, 120, 124–34 contact/thermal, 124–7 dynamic, 202 regional, 127–9, 131 meteorites, 17, 29, 31, 241, 297, 310 methane, 30, 216, 222, 240, 285, 287, 320–1 mica, 109, 132–3, 139, 142, 345 microbes, early, 241 microcontinents, 278 mid-ocean ridges, 61, 286 migmatites, 133, 352 millipede fossils, 247 minerals, 110–20 evaporites, 179–80 limestone, 185 metamorphism, 120, 124–34 mining, 232–4 oldest, 272 silicates, 106–9 weathering, 138–43 mining coal, 193, 222–5 minerals, 214, 232–4 ores, 228–9 Miranda, satellite of Uranus, 318 Mississippi delta, 172–3, 176 Modified Mercalli scale, 39–40 Moho (Mohorovicic discontinuity), 19, 21 Mohs’ scale, 344 molluscs, 244–5, 252, 254–5 molybdenite, 346 montmorillonite, 139, 345 Montserrat, 80–1 Moon, 298–301 craters, 269–70, 295, 300–1 origin, 30 moraine, 165 mountains, 19, 22–3, 55, 200, 280, Mt St Helens, USA, 82–4 mud, 162–5, 167, 169, 173, 178 porosity, 184 mudflows/lahars, 81–2, 85, 165–6 mudrock, 125–6 compaction, 184 muscovite, 109, 130, 345 mylonites, 202 NASA, 302, 310, 320 natural gas, 212, 214–21 Neptune, satellites, 319 Newman, Mike, 247 nickel, 17, 29, 31, 225–6, 231, 297 Nile delta, 172–3
+Index convection 24–6, 67 decompression melting, 57–8 heat, 25–6 plumes, 89, 90, 94, 282–3, 307 strength, 22–5 maps, 39, 44, 52, 65–6, 80, 84, 97, 116, 126, 149, 192, 202, 220, 228, 332–3, 338 marble, 134 marine current directions, 163–4 marine deposition, 171–83 marine erosion, 151–2 Mars, 10, 241, 294, 306–10 Martinique, 80 mass extinctions, 250–3, 284, 298, mass mortality, 258 Matthews, Drummond, 59 Mauna L oa volcano, 95, 307 melting, 55, 57, 73, 316 decompression, 57–8 hydration, 74 Mercury, 10, 294, 301–3 Mesozoic E ra, 248 metal ores, 225–32 metamorphic aureole,  125–6 metamorphic facies, 129–33, 353 metamorphic grade, 129, 131–3 metamorphic rock, 4, 131–4, 141, 270, 352–3 metamorphism, 120, 124–34 contact/thermal, 124–7 dynamic, 202 regional, 127–9, 131 meteorites, 17, 29, 31, 241, 297, 310 methane, 30, 216, 222, 240, 285, 287, 320–1 mica, 109, 132–3, 139, 142, 345 microbes, early, 241 microcontinents, 278 mid-ocean ridges, 61, 286 migmatites, 133, 352 millipede fossils, 247 minerals, 110–20 evaporites, 179–80 limestone, 185 metamorphism, 120, 124–34 mining, 232–4 oldest, 272 silicates, 106–9 weathering, 138–43 mining coal, 193, 222–5 minerals, 214, 232–4 ores, 228–9 Miranda, satellite of Uranus, 318 Mississippi delta, 172–3, 176 Modified Mercalli scale, 39–40 Moho (Mohorovicic discontinuity), 19, 21 Mohs’ scale, 344 molluscs, 244–5, 252, 254–5 molybdenite, 346 montmorillonite, 139, 345 Montserrat, 80–1 Moon, 298–301 craters, 269–70, 295, 300–1 origin, 30 moraine, 165 mountains, 19, 22–3, 55, 200, 280, Mt St Helens, USA, 82–4 mud, 162–5, 167, 169, 173, 178 porosity, 184 mudflows/lahars, 81–2, 85, 165–6 mudrock, 125–6 compaction, 184 muscovite, 109, 130, 345 mylonites, 202 NASA, 302, 310, 320 natural gas, 212, 214–21 Neptune, satellites, 319 Newman, Mike, 247 nickel, 17, 29, 31, 225–6, 231, 297 Nile delta, 172–3
 
 non-renewable resources, 212–34 normal faults, 191, 193–6, 200–1 nuées ardentes, 80–2, 85 Obama, President Barack, 287 oceanic crust, 19–21, 55–6, 270 spreading, 57–60, 91–4, 116–17, 286, 288 oceans life-cycle, 61–3 turbidity currents, 162–4 oil, 214–21 Old Red Sandstone continent, 280 olivine ((Fe,Mg)2SiO4), 108, 110, 125, 139, 268, 345 Olympus Mons, Mars, 307 oolites, 183 opal, 347 ophiolites, 56, 116, 227, 280 ores, 225–32 organisms, evolution, 240–53 orogeny, 280 outcrops, 338 oxbow lakes, 169 oxygen levels, 11, 215, 221, 230, 232, 241–2, 253, 258, 259, 275, P-waves, 16–17, 19, 37 Pacific Plate, 54 pahoehoe, 95–6 palaeomagnetism, 275–7 Pangea, 281–3, 286, 289 Pardee, Joseph, 167 partial melting, 57–8, 73–4, 84, 268, 270–1, 317 peat, 221 pebbles, deposition, 164–5 pegmatites, 119–20, 350 peridotite, 21, 108 permeability, 217 Phanerozoic E on, 244, 247, 274–83, 285, 355 phenocrysts, 119 phyla, 244–9 phyllite, 132 physical weathering, 140–2 pillar-and-stall mining, 223–4, 232 pillow lava, 91–2, 116 Pinatubo, Philippines, 98, 99 placer deposits, 231 plagioclase feldspar, 108–9, 110 planetary embryos, 30, 32, 269, 300 planetesimals, 30, 32, 269, 310 planets, 10, 29–32, 67, 240, 270, 294 definition, 10, 294–5 plankton, 181 plants, 11, 93, 140, 178, 181–2, 215, 221–2, 242, 243, 247, 249, 252 fossils, 259 plate boundaries, 194 conservative, 63–4, 66 constructive, 57–61, 66, 88–94, destructive, 54–5, 57, 61–3, 64–5, 72–6 plate tectonics, 53–7, 65, 190, 289, 304–5 cause, 67–8 platinum, 225 plinian eruptions, 78–82, 86 Pluto, 10, 294–5 plutons, 115–16, 117, 120 point-bar deposits, 170, 173 polymorphs, 126, 181, 185, 343 pore water, 184–5, 217 porosity, 184, 217 potash, 232 potassium, 19–20, 26–7, 108, 139, decay to argon, 28 salts, 180, 232 potassium feldspar, 108–9 Precambrian, 244, 356 preservation, exceptional, 257–8 pressure solution, 184–5
 
-﻿Index Principle of Faunal Succession, 262 progradation, 174–8 prokaryotes, 243 Proterozoic E on, 244, 246, 274–5, 282, 284–6 pumice, 75 pyrite, 346 pyroclastic eruptions, 74–7, 80–1 pyroclastic flows, 80–2, 85, 120, 161–2 pyroxene ((Ca,Mg,Fe)2Si2O6), 108, 110, 139, 268, 345 quarries, 12, 139, 176, 212, 216, 228–9, 230, 232–4, 330–1, 337, quartz, 107–8, 134, 139–40, 142–4, 339, 344, 346 quartzite, 134, 272, 353 radiogenic (radioactive) heating, 26–7, 32, 67, 114, 289, 298, 311, 313, 317 radiometric dating, 28–9, 60, 208, 242, 259–61, 270, 295, 298–9, recrystallization, 28, 124, 134, 185, 190, 256 reefs, 182 regional metamorphism, 127–9, reserves, 213–14 reservoir rocks, 217 resources, 213–14 nonrenewable, 212–34 renewable, 234–5 reverse faults, 191, 194, 196 Richter, Charles, 38 Richter scale, 38–9, 41 Ries crater, Germany, 297 ring dykes, 118 ripples and dunes, 157–61, 164 rivers current directions, 162–3 deposition by, 167–71 erosion, 148–51 roadstone, 232 rocks ancient, 272 cycle, 3–5, 63, 93, 140, 145, 180–1, 186, 270, 285, 306 extraction of hydrocarbons, 216–21 faults, 190–208 fractures, 141–2 grain size, 109, 118–20 names, 349–54 observations, 330–1 sedimentary see sedimentary rocks texture, 131–3 transport, 141, 143–5 types, 3–4 rubidium, 28 ruby, 347 Ruiz, Colombia, 82 S-waves, 16–17, 21, 23, 37 sabkhas/salt flats, 178–80 saltation, 144–5, 157 Samoa, 47 San Andreas Fault, California, 36, 64, 192, 194, 288 sand, 141–5, 152, 157–65, 168, 170, 171, 173, 177–8, 183 sandstone, 130, 184–5, 190, 196, 217, 228, 230, 235, 247, 280, 336, 352–3 dunes 157, 159–61 metamorphosed 132–4 sapphire, 347 satellites, 312–16, 317–21 Saturn, satellites, 315, 317–18, 320–1 Scandinavia, 23 schist, 133, 352
+Index Principle of Faunal Succession, 262 progradation, 174–8 prokaryotes, 243 Proterozoic E on, 244, 246, 274–5, 282, 284–6 pumice, 75 pyrite, 346 pyroclastic eruptions, 74–7, 80–1 pyroclastic flows, 80–2, 85, 120, 161–2 pyroxene ((Ca,Mg,Fe)2Si2O6), 108, 110, 139, 268, 345 quarries, 12, 139, 176, 212, 216, 228–9, 230, 232–4, 330–1, 337, quartz, 107–8, 134, 139–40, 142–4, 339, 344, 346 quartzite, 134, 272, 353 radiogenic (radioactive) heating, 26–7, 32, 67, 114, 289, 298, 311, 313, 317 radiometric dating, 28–9, 60, 208, 242, 259–61, 270, 295, 298–9, recrystallization, 28, 124, 134, 185, 190, 256 reefs, 182 regional metamorphism, 127–9, reserves, 213–14 reservoir rocks, 217 resources, 213–14 nonrenewable, 212–34 renewable, 234–5 reverse faults, 191, 194, 196 Richter, Charles, 38 Richter scale, 38–9, 41 Ries crater, Germany, 297 ring dykes, 118 ripples and dunes, 157–61, 164 rivers current directions, 162–3 deposition by, 167–71 erosion, 148–51 roadstone, 232 rocks ancient, 272 cycle, 3–5, 63, 93, 140, 145, 180–1, 186, 270, 285, 306 extraction of hydrocarbons, 216–21 faults, 190–208 fractures, 141–2 grain size, 109, 118–20 names, 349–54 observations, 330–1 sedimentary see sedimentary rocks texture, 131–3 transport, 141, 143–5 types, 3–4 rubidium, 28 ruby, 347 Ruiz, Colombia, 82 S-waves, 16–17, 21, 23, 37 sabkhas/salt flats, 178–80 saltation, 144–5, 157 Samoa, 47 San Andreas Fault, California, 36, 64, 192, 194, 288 sand, 141–5, 152, 157–65, 168, 170, 171, 173, 177–8, 183 sandstone, 130, 184–5, 190, 196, 217, 228, 230, 235, 247, 280, 336, 352–3 dunes 157, 159–61 metamorphosed 132–4 sapphire, 347 satellites, 312–16, 317–21 Saturn, satellites, 315, 317–18, 320–1 Scandinavia, 23 schist, 133, 352
 
 scoria cones, 84, 86 sea-floor spreading, 57–60, 91–4, 116–17, 286, 288 sea level, 147, 285–6 seamounts, 94 sedimentary rocks, 4, 156–7, 166–7, 183–6, 190–2, 229, 273, 279, 330, 333, 338, 353–4 dating, 240 sediments dating, 259–63 becoming sedimentary rocks, 183–6 transport, 141, 156–83 seifs, 161 seismic surveys, 44, 116, 202, 220, seismic waves, 13–16 measuring, 21, 38–9 P-waves, 16–17, 19, 37 S-waves, 16–17, 21, 23, 37 seismometers, 14–16, 38, 98, 301 serpentine, 346 shale, 184, 216–17, 228, 232, 258, 336, 353 shear zones, 202 sheeted dykes, 116–18 shells, 173, 177–8, 181–2, 185, 235, 243–4, 254–6, 258, 339, 354 shield volcanoes, 94–5 shields/cratons, 273–4 siderite, 230 silica (SiO2)
 
 chemical, 21–2, 58, 73, 139–40 minerals, 107, 109 silicates, 21–2, 29, 106–9, 125, 138–9, 156, 231, 272, 294, 302, 313, 317 sillimanite, 125–7 sills, 118–19 silt, 162, 164, 167, 170, 177, 184, siltstone, 353 silver, 212–13, 214, 225, 226 slate, 132, 352 slickensides, 196 slip-faces, 158 Smith, William, 192 Snowball E arth, 284–6 Solar System, 269, 294–321 origin, 29–32 rocky planets, 10 source rock, 215 sphalerite, 346 Stensen, Niels, 262 stick–slip motion, 37, 54, 64 stoping, 113–14 storms, 151 strain, 190 strata, 192, 203–4, 206–7 stratigraphic traps, 217–18 stratigraphy 192, 240, 259–61 stress, 190 strike–slip/transcurrent faults, 192–3, 198, 200–1 stromatolites, 242 strontium, 28 structural traps, 217–18 subduction, 54–5, 57, 61–3, 64–5, 72–6 Sudbury igneous complex, Canada, 226, 231, 297 Sumatra, tsunami, 47 Sun, origin, 29–32 supercontinents, 281–2 superposition, 262 supervolcanoes, 86 suspension-load, 157, 168, 172 synclines, 203, 204 talc, 344, 346 terranes, 66, 277, 283 Tethys ocean, 281, 283 texture of rocks, 131–3 thermal (contact) metamorphism, 124–7
 
-﻿Index Thomson, William (Lord Kelvin), 28–9 thorium, 26–7, 114 thrust faults, 196–200, 302 Tibetan plateau, 200–1 tidal flats, 178 tidal heating, 313–14, 317 tidal waves see tsunamis tides, 150, 163, 173, 178, 212 time, geological, 28–9, 208, 241, 244, 355–6 tin, 226 Titan, satellite of Saturn, 315, 320–1 topaz, 344, 347 transcurrent faults, 192–4, 197–8, 200–1, 288 transform faults, 63–4 transport, 141, 143–5, 157–83 trenches, ocean floor, 162–4 Triassic Period, 283, 286 trilobites, 260, 262 Triton, satellite of Neptune, 319 tsunamis, 45–7, 84 turbidity currents, 162–4 unconformities, 206–8, 280 uranium, 26–7, 214, 228, 232 decay to lead, 28 Uranus, satellites, 317–19 USA, carbon emissions, 287 Valles Marineris, Mars, 310 valleys, 148–51 vascular plants, 247 veins, 119, 133–4, 226–7, 231, 338 Venus, 67, 294, 302, 304–6, 308 vertebrates, 256 Vesta asteroid, 310–11 Vine, Fred, 59 volcanic ash, 75, 78–80 clouds, 99 volcanic bombs, 79–80 volcanic mudflows, 81–2, 85, 165–6 volcanoes, 64–5, 72–97 disruptive effects, 99–100 dykes, 118 on Mars, 307 predicting, 97–9 Walcott, Charles, 258 Walther, Johannes (Walther’s L aw), 175–7 water chemical breakdown of minerals, 138–40 erosion, 148–52 on Mars, 308–9 on the Moon, 299–300 resources, 234–5 transport of grains, 143–5 transport of sediment, 157–65, 167–83 waves, 163–4, 173, 177–8, 183 erosion, 151–2 weathering, 138–43, 186 chemical, 124, 138–40, 231 physical, 140–2 Wegener, Alfred, 282 wells, 219, 220, 234–5 wind, transport of grains, 144, 157, Witwatersrand Basin, South Africa, 231–2 Xi Jinxing, President of China, 287 Zechstein Sea, 180 zeolite facies, 131–2, 353 zinc, 228 zircon grains, 272, 346
+Index Thomson, William (Lord Kelvin), 28–9 thorium, 26–7, 114 thrust faults, 196–200, 302 Tibetan plateau, 200–1 tidal flats, 178 tidal heating, 313–14, 317 tidal waves see tsunamis tides, 150, 163, 173, 178, 212 time, geological, 28–9, 208, 241, 244, 355–6 tin, 226 Titan, satellite of Saturn, 315, 320–1 topaz, 344, 347 transcurrent faults, 192–4, 197–8, 200–1, 288 transform faults, 63–4 transport, 141, 143–5, 157–83 trenches, ocean floor, 162–4 Triassic Period, 283, 286 trilobites, 260, 262 Triton, satellite of Neptune, 319 tsunamis, 45–7, 84 turbidity currents, 162–4 unconformities, 206–8, 280 uranium, 26–7, 214, 228, 232 decay to lead, 28 Uranus, satellites, 317–19 USA, carbon emissions, 287 Valles Marineris, Mars, 310 valleys, 148–51 vascular plants, 247 veins, 119, 133–4, 226–7, 231, 338 Venus, 67, 294, 302, 304–6, 308 vertebrates, 256 Vesta asteroid, 310–11 Vine, Fred, 59 volcanic ash, 75, 78–80 clouds, 99 volcanic bombs, 79–80 volcanic mudflows, 81–2, 85, 165–6 volcanoes, 64–5, 72–97 disruptive effects, 99–100 dykes, 118 on Mars, 307 predicting, 97–9 Walcott, Charles, 258 Walther, Johannes (Walther’s L aw), 175–7 water chemical breakdown of minerals, 138–40 erosion, 148–52 on Mars, 308–9 on the Moon, 299–300 resources, 234–5 transport of grains, 143–5 transport of sediment, 157–65, 167–83 waves, 163–4, 173, 177–8, 183 erosion, 151–2 weathering, 138–43, 186 chemical, 124, 138–40, 231 physical, 140–2 Wegener, Alfred, 282 wells, 219, 220, 234–5 wind, transport of grains, 144, 157, Witwatersrand Basin, South Africa, 231–2 Xi Jinxing, President of China, 287 Zechstein Sea, 180 zeolite facies, 131–2, 353 zinc, 228 zircon grains, 272, 346

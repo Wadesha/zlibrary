@@ -1,21 +1,10 @@
 # Exoplanets Diamond Worlds Super Earths Pulsar Planets and the New Search for Life Beyond Our Solar System Michael E Summers James Trefil Z Library
 
-> 来源文件：pre_Exoplanets_Diamond_Worlds_Super_Earths_Pulsar_Planets_and_the_New_Search_for_Life_Beyond_Our_Solar_System_Michael_E_Summers_James_Trefil_Z_Library.txt
-> 字符数（约）：273898
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-© 2017 by Michael Summers and James Trefil This book may be purchased for educational, business, or sales promotional use. For information, please write: Special Markets Department, Smithsonian Books, P.O. Box 37012, MRC 513, Washington, DC 20013.
-
 Published by Smithsonian Books.
 
 Director: Carolyn Gleason Managing Editor: Christina Wiginton Production Editor: Laura Harger Edited by Emily Park Designed by Jody Billert Typeset by Scribe Library of Congress Cataloging-in-Publication Data Names: Summers, Michael E., author. | Trefil, James, 1938– Title: Exoplanets : diamond worlds, super Earths, pulsar planets, and the new search for life beyond our solar system / Michael Summers, James Trefil.
 
 Description: Washington, DC : Smithsonian Books, [2017] | Includes index.
-
-Identifiers: LCCN 2016018596 | ISBN 9781588345943 Subjects: LCSH: Extrasolar planets. | Planets. | Life on other planets. | Extraterrestrial beings.
-
-Classification: LCC QB820 .S86 2017 | DDC 523.2/4—dc23 LC record available at https://lccn.loc.gov/2016018596 Ebook ISBN 9781588345950 For permission to reproduce illustrations appearing in this book, please correspond directly with the owners of the works, as seen on this page. Smithsonian Books does not retain reproduction rights for these images individually or maintain a file of addresses for sources.
 
 The authors dedicate this book to our fellow Americans who are living with multiple sclerosis and Parkinson’s disease. Don’t give up!
 

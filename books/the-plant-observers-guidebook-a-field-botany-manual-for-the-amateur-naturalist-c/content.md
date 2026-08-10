@@ -1,10 +1,5 @@
 # The Plant Observers Guidebook A Field Botany Manual for the Amateur Naturalist Charles Edmund Roth Z Library
 
-> 来源文件：pre_The_Plant_Observers_Guidebook_A_Field_Botany_Manual_for_the_Amateur_Naturalist_Charles_Edmund_Roth_Z_Library.txt
-> 字符数（约）：288400
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 This volume is dedicated to the provocative teaching of Leonard J. Bradley, Wendell C. Camp, and May Thielgaard Watt, with the sincere hope that it may stimulate others as they did me.
 
 CONTENTS Foreword by David Langland, Horticulturalist Preface

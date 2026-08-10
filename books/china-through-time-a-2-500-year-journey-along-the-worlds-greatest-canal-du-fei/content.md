@@ -1,525 +1,2307 @@
-# 穿越时空的中国：沿世界最伟大运河的2500年旅程 杜飞 Z-Library
+a 2,500-year journey along the world’s greatest canal
 
-> 来源文件：pre_China_Through_Time_A_2_500_Year_Journey_along_the_Worlds_Greatest_Canal_Du_Fei_Z_Library.txt
-> 字符数（约）：30010
-> 语言：英文
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+### Illustrated by Du FeiCHINA TIME THROUGH
 
-沿世界最伟大运河的2500年旅程 插图：杜飞（Du Fei） 穿越时空的中国
+US_001_Title.
 
-大运河的故事 大运河地图 4–5 开凿动工，扬州，公元前486年 6–7 水上宫殿，洛阳，公元605年 8–9 突袭粮仓！黎阳，公元618年 10–11 一场军事政变，开封，公元960年 12–13 人间天堂，杭州，公元1185年 14–15 夜市，枫桥，苏州，公元760年 16–17 治理水患，淮阴，公元1699年 18–19 水脊，南旺，公元1420年 20–21 一处钞关，临清，公元1600年 22–23 一座现代都市，天津，公元2020年 编辑 爱德华·埃夫斯（Edward Aves）、阿比盖尔·米切尔（Abigail Mitchell） 美国编辑 珍妮特·埃尔纳加尔（Jennette ElNaggar） 项目艺术编辑 雷娜塔·拉蒂波娃（Renata Latipova） 执行编辑 克里斯汀·斯特罗扬（Christine Stroyan） 执行艺术编辑 安娜·霍尔（Anna Hall） 前期制作统筹 罗伯特·邓恩（Robert Dunn） 制作 裘德·克罗齐尔（Jude Crozier） 封面设计开发经理 索菲娅·MTT（Sophia MTT） 封面设计师 苏拉布希·瓦德瓦-甘地（Surabhi Wadhwa-Gandhi） 出版人 安德鲁·麦金太尔（Andrew Macintyre） 艺术总监 凯伦·塞尔夫（Karen Self） 出版总监 乔纳森·梅特卡夫（Jonathan Metcalf） 顾问 托马斯·H·哈恩（Thomas H. Hahn） 美国第一版，2020年 由 DK Publishing 出版于美国，地址：纽约州纽约市百老汇1450号801室，邮编10018 基于中国大百科全书出版社原稿整理：杨震、王江山、鲍瑶、田怡 由爱德华·埃夫斯改写 版权 © 2020 Dorling Kindersley Limited
+indd 1 13/08/2019 16:47
 
-插图版权 © 2020 杜飞（Du Fei） DK，企鹅兰登书屋有限责任公司旗下部门 20 21 22 23 24   10 9 8 7 6 5 4 3 2 1 001–311449–Jan/2020 未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
+## The Story of the Grand Canal
 
-由 Dorling Kindersley Limited 出版于英国 本书的 CIP 编目记录可向美国国会图书馆索取。
+## Map of the Grand Canal
 
-ISBN：978-1-4654-8174-0 DK 图书在批量购买用于促销、赠品、筹款或教育用途时可享受特别折扣。详情请联系：DK Publishing Special Markets，纽约州纽约市百老汇1450号801室，邮编10018 SpecialSales@dk.com 印刷并装订于中国 思想的天地：探索尽知的一切 www.dk.com 目录 狸花猫 来认识一下狸花，一只淘气的猫。狸花喜欢睡觉、抓老鼠，也喜欢惹麻烦。但她还有一个超能力：她能穿越时空！
+## 4–5
 
-狸花就藏在书中的每一幅画里。当你沿运河旅行时留意寻找她，并翻到第32页参加关于她冒险经历的问答小测验。
+Construction Begins,Yangzhou, 486 bce
 
-24–25 一座地标塔，通州，公元1450年 26–27 繁忙的码头，通州，公元1550年 28–29 一条重要的交通要道，通州，公元1600年 30–31 运河的终点，北京，公元1910年 时空旅行问答 词汇表
+## 6–7
 
-大运河地图 黎阳，公元618年 第8页 汴河（Bian River） 会通河（Huitong River） 大运河的故事 大约2500年前的中国古代，一位皇帝有了一个绝妙的主意。如果他能把淮河（Huai River）和长江（Yangtze River）两条河流连接起来，就能迅速调遣军队穿越他的国土，去征服一个敌对的王国。
+A Palace on Water, Luoyang, 605 ce
 
-就这样，一段运河开凿了，它日后将成为世界上伟大的人造奇迹之一。
+## 8–9
 
-一千年后，多条河流与运河河段被连成一条巨大的水道，将粮食和其他货物从肥沃的南方杭州运往干旱的北方北京。
+Granary Attack!
 
-贸易繁荣，繁华的城市在运河沿岸兴起，中国进入了一个黄金时代。然而，生活并非总是一帆风顺。洪水和战争带来了灾难与苦难，运河最终走向衰落与荒废。但现代为运河注入了新的生命。部分河段得到修缮，许多美丽的地标得以复原。你可以在本书的页面中看到其中一些。如今这条水道全长1115英里（1794公里）——是世界上最长、也是最古老的运河。
+Liyang, 618 ce
 
-所以，跟我们一起去探索这一古老奇迹吧。我们的故事追随运河的命运，以及沿河而居的人们，历经兴衰起落。你将遇见皇帝与士兵、商人与神秘的旅人，还有和你一样的孩子。你将了解人们穿什么、吃什么，以及从古至今他们如何消磨时光。
+## 10–11
 
-杭州，公元1185年 第12页 扬州，公元前486年 第4页 洛阳，公元605年 第6页 开封，公元960年 第10页 淮阴，公元1699年 第16页 南旺，公元1420年 第18页 临清，公元1600年 第20页 天津，公元2020年 第22页 通州，公元1450年、1550年、1600年 第24、26和28页 苏州，公元760年 第14页 北京，公元1910年 第30页 洛河（Luo River） 济南（JINAN） 主图区域 青岛（QINGDAO） 上海（SHANGHAI） 南京（NANJING） 长江（Yangtze River） 黄河（Yellow River） 淮河（Huai River） 北 南 东 西 0公里 0英里 比例尺
+A Military Coup, Kaifeng, 960 ce
 
-侍女们用扇子为国王纳凉，并驱赶蚊子。
+## 12–13
 
-国王的谋士们正深入讨论军事策略。
+A Paradise on Earth, Hangzhou, 1185 ce
 
-负责运走泥土的工人干着最累人的活儿。
+## 14–15
 
-夫差（Fuchai）手持利剑，梦想着征服新的疆土。
+Night Fair, Maple Bridge, Suzhou, 760 ce
 
-夫差（Fuchai）的伴侣西施（Xi Shi）吃着侍女们摆好的水果。她是一名间谍，由敌国派来迷惑国王。
+## 16–17
 
-国王的旗帜 夫差（Fuchai） 侍女 西施（Xi Shi） 谋士 士兵 军营 瞭望塔
+Stopping the Floods, Huaiyin, 1699 ce
 
-一些工人在酷热中发了脾气，打起架来。
+## 18–19
 
-一些工人试图逃跑时被抓住了。
+A Ridge of Water, Nanwang, 1420 ce
 
-找一找那位披头散发、正在举行仪式为运河开凿祈福的萨满（shaman）。
+## 20–21
 
-挖掘工具由铁而非传统的青铜制成，十分坚固。
+A Customs Pass, Linqing, 1600 ce
 
-工人们将一块沉重的石头在空中甩动，再迅速落下，使运河的河床更加坚实。
+## 22–23
 
-开凿动工 扬州，公元前486年 在东周（Eastern Zhou Dynasty）的春秋时期（Spring and Autumn Period），中国古代众多小国之间战事频发。吴国（Wu Kingdom）国王夫差（Fuchai）下令开凿一条名为邗沟（Han Gou）的运河，以便迅速将士兵和装备运送到北方，扩张他的王国。
+## A Modern Metropolis
 
-在烈日炙烤下，成千上万被征召的农民只能用简陋的工具挖掘贫瘠的土地，这是一项极其艰苦的劳动。
+## Tianjin
 
-扬州 瞭望塔 运河挖掘工
+## 2020 ceEditors Edward Aves
 
-一支骑马仪仗队全副武装，沿河岸列队巡行。
+## Abigail Mitchell
 
-岸上的纤夫队伍拖拽船只，是一项令人筋疲力尽的工作。
+## US Editor Jennette ElNaggar
 
-沿路各地，百姓献上食物，以取悦皇帝。
+### Project Art Editor Renata Latipova
 
-作为船队中的骄傲，战船上的投石机可向敌舰发射石块。
+### Managing Editor Christine Stroyan
 
-战船 护卫艇 纤夫 仪仗队 由桨手划动的护卫艇为皇帝的御船护航。
+## Managing Art Editor Anna Hall
 
-观礼船 地方显贵帐篷
+Producer, Pre-Production Robert Dunn
 
-皇帝两侧簇拥着军官。他们害怕他暴躁的脾气，便对他阿谀奉承。
+## Producer Jude Crozier
 
-萧皇后（Empress Xiao）乘坐一艘较小的、凤凰形状的御船，随行的有她的侍女和宫女。
+Jacket Design Development Manager Sophia MTT
 
-一位商人远道而来与皇帝交易。不幸的是，他有点晕船。
+### Jacket Designer Surabhi Wadhwa-Gandhi
 
-龙是皇帝力量与权力的象征。
+## Publisher Andrew Macintyre
 
-水上宫殿 洛阳，公元605年 扬州至洛阳之间的一段大运河终于完工。一阵号角声宣告一支皇家船队抵达，前来视察这条新水道。隋炀帝（Emperor Yang of Sui）在奢华的龙舟顶层指挥着队伍，龙舟如同一座漂浮的宫殿在水面滑行。对洛阳百姓而言，这是超乎他们想象的盛大景象。
+## Art Director Karen Self
 
-隋炀帝（Emperor Yang of Sui） 贵族 萧皇后（Empress Xiao） 宫女 凤凰船 南阳公主（Princess Nanyang） 龙舟 凤凰象征着皇后，并带来好运。
+### Publishing Director Jonathan Metcalf
 
-观礼船 厨师 船员
+Consultant Thomas H.
 
-移动瞭望塔中的瞭望兵由滑轮拉起。
+## Hahn
 
-突击车的车顶覆盖着牛皮以抵御火攻。
+First American Edition, 2020
 
-凭借其长长的尖刺，“狼牙棒”是一种致命武器。
+Published in the United States by DK Publishing
 
-武器装在相连的木制战车中运送，这些战车也为挖隧道的士兵提供掩护。
+### 1450 Broadway, Suite 801, New York, NY 10018
 
-叛军的重型铠甲抛光后闪耀着耀眼的蓝黑色光芒。
+### Based on an original manuscript by
 
-瞭望兵 移动瞭望塔 隋（Sui）叛军营地 隋（Sui）叛军士兵 大运河 运武器的战车 云梯 载兵战车 护城河
+Encyclopedia of China Publishing House:
 
-守卫烽火台的瓦岗（Wagang）士兵已点燃烽火，向友军报警求援。
+## Yang Zhen
 
-寡不敌众的士兵向剑锋够不到的入侵者投掷石块。
+## Wang Jiangshan
 
-瓦岗（Wagang）守军已开始挖掘逃生隧道。
+## Bao Yao
 
-黎阳粮仓是大运河沿岸最大的粮仓之一，储粮可供八万人食用一年。
+## and Tian Yi
 
-突袭粮仓！
+## Retold by Edward Aves
 
-黎阳，公元618年 隋炀帝（Emperor Yang of Sui）已死，死于他曾经忠心的部下之手，中国陷入混乱，任由强大军阀摆布。叛军向东进军，企图控制都城，但很快弹尽粮绝。饥肠辘辘的部队绝望之下，围攻了大运河上黎阳的巨大粮仓，该粮仓由另一支叛军——瓦岗军（Wagang Army）占领。进攻成功了，但两支军队都付出了惨重代价。
+DK, a Division of Penguin Random House LLC
 
-此后，唐（Tang）军将征服中国。
+### 20 21 22 23 24 10 9 8 7 6 5 4 3 2 1
 
-烽火台 瓦岗军（Wagang Army）营地 瓦岗（Wagang）守卫 隧道挖掘工 城墙 粮仓
+## 001–311449–Jan/2020
 
-黄河（Yellow River）将日益壮大的开封城与大运河连接起来。
+No part of this publication may be reproduced
 
-你能找出那个盾牌上画着虎面的守卫吗？
+### stored in or introduced into a
 
-男人们围火取暖，唱着歌，烤着面包。
+## retrieval system
 
-只有最强壮的守卫才佩带陌刀（modao）——一种宽刃长重剑，用来对付敌方骑兵。
+## or transmitted
 
-士兵头盔上的红缨表明他拥有较高的军衔。
+## in any form
 
-一场军事政变 开封，公元960年 中国缺乏强有力的领袖，陷入内战。
+## or by any means (electronic
 
-赵匡胤（Zhao Kuangyin）是禁军首席统帅，是一位权势显赫、深得人心的人物。在一个冬夜，他忠心的守卫将他的营帐围住，欢呼拥戴。席间，他的军官们跪倒在地，拥立他为皇帝。
+## mechanical
 
-如今身为太祖（Emperor Taizu）皇帝，他开创了宋朝（Song Dynasty），统一了中国，带来了和平以及文化与科学的黄金时代。
+## photocopying
 
-黄河（Yellow River） 月亮 金星 步兵 军帐 炭火盆 全副武装的贴身护卫 禁军士兵 军旗
+## recording
 
-军官们举着玉杯中的酒，向新皇帝敬酒。
+## or otherwise)
 
-赵匡胤（Zhao Kuangyin）的书记官为他穿上象征权力的龙袍。
+## without the prior written
 
-占星师兴奋地指向夜空。他正劝说众人，行星的位置表明赵匡胤（Zhao Kuangyin）才是正统的皇帝。
+Published in Great Britain by Dorling Kindersley Limited
 
-士兵们将享用一顿丰盛的火锅，把肉和蔬菜蘸入翻滚的汤底。
+### A CIP catalog record for this book
 
-兵器架 五代（Five Dynasties）时期的山水画 皇帝贴身护卫 赵普（Zhao Pu，赵匡胤的书记官）
+is available from the Library of Congress.
 
-龙袍 赵匡胤（Zhao Kuangyin） 赵匡义（Zhao Kuangyi，赵匡胤之弟）
+DK books are available at special discounts when purchased in bulk for sales
 
-节度使 占星师 军事指挥官 油灯
+## promotions
 
-当地的丝绸以质地柔软、光泽华美而闻名全中国。
+## premiums
 
-餐馆的食客用一项新发明付款：纸币。
+## fund-raising
 
-在香料店里，阿拉伯商人聚在一起谈生意。
+or educational use.
 
-一位年轻女子正在化妆，用的是由碾碎的花朵制成的粉。
+For details, contact: DK
 
-人间天堂 杭州，公元1185年 位于大运河南端、被葱郁乡野环绕的杭州，长久以来以美丽的园林、桥梁和寺庙闻名。自运河开通以来，这座城市也变得繁荣昌盛。在陡峭的中安桥（Zhong'an Bridge）与娥岏（E'ya）桥之间繁忙的码头边，店主招揽着富裕的路人，欣赏他们诱人的陈列；而来自异国他乡的机敏商人正与当地 trader 达成交易。
+## Publishing Special Markets
 
-灯笼店 脚夫 酒肆 香料店 丝绸店 澡堂 载运丝绸的货船 消防船 娥岏（E'ya）桥 咸鸭蛋小贩 街头清洁工用木筏运走垃圾。
+## 1450 Broadway
 
-市场里总是充斥着关于皇室的闲言碎语。
+## Suite 801
 
-皮草店 餐馆 士兵
+## New York
 
-游船在运河上巡游，满载着渴望探索城市的游客。
+## NY 10018
 
-许多旅人和香客前来欣赏游乐园林，并游览西湖（West Lake）的寺庙。
+## Printed and bound in China
 
-一支龙舟队正在为西湖（West Lake）上的比赛进行练习。
+A WORLD OF IDEAS:
 
-诗人林升（Lin Sheng）在一家店铺的墙上题诗。
+## SEE ALL THERE IS TO KNOW
 
-茶馆 皇家马车 中安桥（Zhong'an Bridge） 药房 西湖（West Lake） 洗衣妇 龙舟 戏曲演员 饺子摊 街头艺人 游船 乞丐 客船 小贩摊 游乐园林 找一找那个在饺子摊试图点燃大锅火炉的男孩。
+## comContents
 
-餐馆 吴王（Prince Wu）宫殿
+## Lihua the cat
 
-夜市，枫桥 苏州，公元760年 已近午夜，但繁忙的苏州港依然生机盎然。月光下，商旅们从客船走下，来到古老的石桥枫桥（Fengqiao / Maple Bridge）之下。
+Meet Lihua, the naughty cat.
 
-如今生意兴隆，有人带来波斯、阿拉伯等远方异域的商品进行交易。另一些人则更钟情于熙攘夜市中的酒馆与茶馆。
+Lihua likes sleeping,
 
-著名诗人张继（Zhang Ji）被这月夜景象所触动，在脑海中酝酿出一首优美诗篇的诗句。
+catching mice, and getting into scrapes.
 
-你能找到一位傲慢的官员，正由忠心仆从搀扶前行吗？
+## But she also
 
-这些女子穿着来自印度和波斯的最新时装。
+## has a superpower
 
-一位日本遣唐使抵达，肩负学习中国文化的使命。
+she can travel through time!
 
-虎丘塔（Tiger Hill Pagoda） 丈夫准备启程前往都城，留下妻子在家，离别之泪潸然而下。
+Lihua is hidden in every picture of the book.
 
-客船 枫桥（Fengqiao / Maple Bridge）
+## Look
 
-客栈
+out for her as you travel along the canal
 
-苏州是一座繁荣的织造中心。织工们一同赶制精美的刺绣。
+## and turn to
 
-一位佛教僧侣下船，所有身家财物都在一只竹编担子里。
+page 32 for a quiz about her adventures.
 
-这座著名寺庙的僧人每日两次敲钟108响。
+## 24–25
 
-一位生病的乘客被抬下船，送入医疗舱。
+A Landmark Tower, Tongzhou, 1450 ce
 
-一位阿拉伯商人与当地 trader 商谈一笔生意。
+## 26–27
 
-这些摔跤手正在为比赛练习。
+The Busy Dock, Tongzhou, 1550 ce
 
-货船 江村桥（Jiangcun Bridge） 寒山寺（Hanshan Temple） 茶馆 丝绸织造作坊 渡口 客船 货船
+## 28–29
 
-康熙皇帝（Kangxi Emperor）已研究运河良久。这是他第三次南巡。
+A Vital Communications Link,
 
-树枝、芦苇和麦秆被捆成束，用以构筑防洪工事。
+Tongzhou, 1600 ce
 
-高家堰（Gaojia Weir）是为此控制洪水而修建的第一座堤坝。
+## 30–31
 
-规划者将地形刻在木板上，制成一幅三维地图。
+The End of the Canal, Beijing, 1910 ce
 
-皇帝在丝绸华盖下遮荫。
+## Time-traveling Quiz
 
-堰旁简朴的寺庙中，村民向神明祈祷。
+## Glossary
 
-大运河 高家堰（Gaojia Weir） 华盖 淮河（Huai River） 皇帝贴身护卫 木制地图 首席谋士 康熙皇帝（Kangxi Emperor） 堤岸 寺庙
+US_002-003_Contents.
 
-运河挖掘工将木桩夯入地下，以压实泥土。
+indd 2 08/08/2019 15:55
 
-工人们将稻草蓑衣披在肩上，雨天用以遮雨。
+## 3Map of the Grand Canal
 
-由于运河水位过高，粮食无法运抵都城。
+Liyang, 618 ce
 
-工人们将防洪工事拖到位，以防黄河（Yellow River）泛滥。
+## Page 8
 
-治理水患 淮阴，公元1699年 工人们必须争分夺秒。雨季已经来临，如果防洪工事不能尽快就位，黄河（Yellow River）将再次决堤。多年来，运河系统遭到忽视，上游淤积使河道改道。如今河水危险地逼近淮阴——大运河与淮河（Huai River）交汇之处，引发洪水，毁掉家园与生计。
+### Bian RiverHuitong RiverThe Story of the
 
-必须驯服这条河，康熙皇帝（Kangxi Emperor）已亲自统帅。他命令工人们修建一系列庞大的工事以改变河流方向。这将是一项工程杰作。
+## Grand Canal
 
-堤岸 黄河（Yellow River） 防洪工事 防洪工事 你能找出这位双手举向空中、祈祷雨停的工人吗？
+Some 2,500 years ago, in ancient China,
 
-运河工人 木匠
+an emperor had a bright idea.
 
-水手在货船准备靠岸时放下桅杆。
+## If he joined
 
-完工后，所有旅人都会在新建的寺庙中焚香祈求好运。
+## together two rivers
 
-一位学者购买了“文房四宝”：笔、墨、砚、纸。
+## the Huai and the Yangtze
 
-你能找出一个初次瞥见外面世界的婴儿吗？
+he could transport his troops quickly through
 
-一位迷路的祖母在问路。
+his lands to conquer an enemy kingdom.
 
-一位街头小贩售卖莲蓬——一种可口的小吃。
+So was built the first stage of a canal that would become
 
-水闸 石堤 官员宋礼（Song Li） 守卫 杂货商 石兽 街头小贩 莲蓬小贩 脚夫 石匠 通往汶河（Wenhe River）的运河 商船
+one of the greatest human-made wonders of the world.
 
-河水储于水库中。水流由水闸控制。
+## A thousand years later
 
-一名建筑工站在不稳的木板上，用滑轮将瓦片拉上屋顶。
+### various rivers and canal sections
 
-一名工人调制由动物骨熬制的胶，用以粘合砖块。
+### were combined into one great waterway
 
-一名官员向主管工程的宋礼（Song Li）大臣展示新寺庙。
+## shipping grain
 
-这位建筑工恐高，所以正在休息。
+and other goods from Hangzhou in the fertile south to
 
-水脊 南旺，公元1420年 南旺（Nanwang）标志着运河的最高点。直到不久前，运河常在此干涸，船只搁浅。如今不再如此。
+Beijing in the dry north.
 
-聪明的工程师想出了办法，通过开凿一条通往汶河（Wenhe River）的运河来保持水位稳定，如今货船全年都能通过这段险峻的水脊。建筑工们正在修建一座美丽的寺庙以示庆祝，供奉龙王（Dragon King）——司水与天气之神。
+T rade flourished and thriving cities grew up along
 
-水库 大运河 龙王庙（Dragon King Temple） 琉璃瓦 侧殿 正殿 牌坊 建筑工 竹脚手架 工人们正在建造水神雕像。
+the canal's banks, as China entered a golden age.
 
-钞关是全国最富有的，征收了全部税赋的四分之一。
+## Life was
 
-明代，戏曲非常流行，总能聚拢人群。
+not always easy, however.
 
-你能找出这些在运河边共度野餐的老友吗？
+### Floods and wars brought disaster
 
-孩子们正用叶柄比武。输的人只剩一根断柄。
+## and hardship
 
-找一位正在吃完早餐的旅人。
+and eventually the canal fell into decline and
 
-一对母女正在商量买哪种颜色的蒲扇。
+neglect.
 
-客栈 钞关 戏院 寺庙 蒲扇小贩 颈枕小贩 屠夫 鸡蛋小贩 米粥摊 渔夫 餐馆 载木船 砖窑
+But modern times have breathed new life into the
 
-利玛窦（Matteo Ricci），一位天主教神父，从罗马前来使当地人皈依基督教。他受邀赴宴，并观看杂技表演。
+canal.
 
-临清以产砖闻名，这些砖曾用于修建北京的紫禁城（Forbidden City）。
+## Sections have been repaired
 
-渔民利用鸬鹚帮助他们捕鱼。
+## and many of its
 
-一处钞关 临清，公元1600年 临清（Linqing）是运河沿岸最热闹的枢纽之一。所有船只都必须在钞关停留缴税。由于需要穿过众多船闸，通行可能耗时数日，甚至数周。
+beautiful landmarks restored.
 
-但旅人们几乎不可能感到无聊。客栈与餐馆在运河两岸如雨后春笋般涌现，而戏曲表演和杂技演出则让所有人乐在其中。
+## You’ll see some of them
 
-闸工转动绞盘以升降船闸。
+on the pages of this book.
 
-闸旁的茶摊向来是人们喜爱的会面地点。
+## T oday the waterway stretches
 
-清真寺 烟管小贩 杂技表演 巡逻兵 鸬鹚渔民 建材木料 当铺 临清砖 绞盘 独轮车 运河船闸 茶摊 下棋 街头小贩 乞丐 船员 载杏船
+1,115 miles (1
 
-永乐桥（Yongle Bridge）上的司机可以向高悬其上的天津眼（Tianjin Eye）上的游人挥手致意。
+## 794 km)—the longest
 
-当地人在河边打太极拳（Tai Chi）以放松和强身。
+## as well as the oldest
 
-电动汽车用于运送包裹，也有助于减少污染。
+canal in the world.
 
-信众已在天后宫（Tianhou Temple）祈祷了600多年。
+So come with us and explore this ancient wonder.
 
-沿河何处可以买到气球？
+story follows the fortunes of the canal and the people that
 
-一位擦鞋匠在河边做生意。
+## lived along it
 
-一座现代都市 天津，公元2020年 天际线林立着摩天大楼和巨型公寓楼，现代天津蓬勃发展。汽车与自行车在繁忙的道路上川流不息，行人在滨河步道上摩肩接踵。在运河两条支流与海河（Hai River）的交汇处，天津几个世纪以来一直是一处重要港口，也是中国第一座向西方商人开放的城市。如今，游客从世界各地而来，在这座不断成长的城市中享受美好生活。
+through good times and bad.
 
-博物馆 天津眼（Tianjin Eye） 永乐桥（Yongle Bridge） 子牙河（Ziya River） 船坞 公寓楼 酒店 自行车停放点 天后宫（Tianhou Temple） 北运河（North Canal） 金钟桥（Jinzhong Bridge） 巡逻艇
+## You’ll meet
 
-天津的上班族在办公桌前度过漫长的一天，所以他们去健身房锻炼。
+## emperors and soldiers
 
-找一位用智能手机与幼儿自拍的母亲。
+### merchants and mysterious travelers
 
-这对情侣正在庆祝他们的订婚。
+and children just like you.
 
-色彩缤纷的金刚桥（Jingang Bridge）建于两层之上，交通顺畅通行。
+## You’ll find out what people
 
-观光船满载携带相机的游客在河上巡游。
+wore, and what they ate
 
-金融区 大学 海河（Hai River） 观光船 望海楼教堂（Wang Hai Lou Church） 金刚桥（Jingang Bridge） 酒吧 乐师 游客 咖啡馆 健身房 欧洲人百多年前修建的豪华公寓可在沿河处看到。
+## and how they spent their time
 
-一座地标塔 通州，公元1450年 随着大运河的开凿，通州（Tongzhou）城正在崛起。位于大运河北端的塔是通州的主要地标。
+from antiquity to the present.
 
-该塔高157英尺（48米），俯瞰着繁忙的港口，各式各样的货物——从粮食到木材——在从南方驶来的众多船只上装卸。这些货物将被分发给皇室家族以及驻扎在长城沿线的军队。
+Hangzhou, 1185 ce
 
-酒坛 张帆的驳船 独轮车 运送麻袋的牛车 粮仓 你能找出一位乘轿子的贵妇，她是来打听丈夫消息的吗？
+Page 12Yangzhou , 486 bce
 
-从船上卸下的粮食直接运往仓库。
+Page 4Luoyang, 605 ce
 
-一位酒贩正挑着货物前往河边。
+## Page 6
 
-装卸工匆忙将一袋袋大米从船上搬下，送进仓库。
+Kaifeng , 960 ce
 
-一排满载茶叶的小车由脚夫推过熙攘的码头。
+Page 10Huaiyin , 1699 ce
 
-竹竿加固了驳船的帆。
+Page 16Nanwang , 1420 ce
 
-塔 南方大米 寺庙 仓库 当来自远方江南的船夫望见此塔，便知他们漫长艰辛的旅程即将结束。
+Page 18Linqing , 1600 ce
 
-这批木料将用于修建北京的紫禁城（Forbidden City）。
+Page 20Tianjin , 2020 ce
 
-收帆并非易事，需要船员的敏捷与协作。
+## Page 22Tongzhou
 
-官员保存着进出口与销售的税赋记录。
+## 1450 ce
 
-在寺庙中，信奉三种不同宗教传统的信徒可以和谐地一同礼拜。
+## 1550 ce
 
-酒坛
+## 1600 ce
 
-繁忙的码头 通州，公元1550年 明代，大运河最繁忙的码头位于通州（Tongzhou）。每日数百艘船只汇聚于此，运来粮食分拨他处。脚夫与装卸工在负责粮储与查验的官员和士兵监督下奔走穿梭。同样在此辛勤工作的还有渔民、水手、店主、商人、行商和乞丐。
+Pages 24, 26 & 28
 
-餐馆 士兵 牌坊 陶瓷店 明代瓷器制造达到顶峰，青花瓷品质最佳。
+Suzhou , 760 ce
 
-长途跋涉后饥肠辘辘的旅人涌入繁忙的餐馆。
+Page 14Beijing, 1910 ce
 
-这位旅人路途遥远。他的轿子太重，需要两头骡子来抬。
+## Page 30
 
-牌坊有三道门，十分宏伟。
+### Luo RiverJINANAREA OF MAIN MAP
 
-税务官船 工人 粮官 守卫 谷仓 浮桥 船夫 热午餐有时用分层食盒（tiffin carrier）送达，可保温食物。
+## QINGDAO
 
-船夫唱起劳动号子，帮助他们干得更快。
+## SHANGHAINANJING
 
-来自南方的学者海瑞（Hai Rui）已抵达参加科考。你能找到他吗？
+## Yangtze RiverYellow River
 
-船只系在一起，搭成一座浮桥。
+## Huai River
 
-税务官正在进行巡查。
+## 0 km
 
-一位粮官在粮食从驳船卸下时进行检查。
+## 100500 miles100 50SCALE
 
-一支骆驼商队正被牵过桥。
+## N
 
-一位女子在磨粮，由一头驴转动磨盘。
+## S
 
-一对前往北京的夫妇在桥边野餐。
+## E
 
-影壁（screen wall）防止恶灵进入商人的宅院。
+## W0 km
 
-你能找出在树下打盹的牧羊人吗？
+## 100 50 0 miles100 50SCALE
 
-桥栏上有66尊精雕细琢的石狮，两侧各33尊。
+## N
 
-稻田 茶摊 富商四合院 影壁 磨盘 利玛窦（Matteo Ricci） 士兵 茶摊 车夫 脚夫 永通桥（Yongtong Bridge） 来自蒙古的信使 来自暹罗的船 货帆船
+## S
 
-利玛窦（Matteo Ricci），一位天主教神父，正前往北京会见万历皇帝（Wanli Emperor）。
+## E
 
-四条河流汇入大运河，使此地成为主要的交通枢纽。
+## Wchina
 
-一位仍着军装的士兵刚从朝鲜战场归来。
+US_002-003_Contents.
 
-一名日本间谍正从当地人处收集情报，送回日本天皇。
+indd 3 31/07/2019 15:15
 
-在粮食查验楼，官员检查发往北京的粮食质量。
+Maids use fans to keep the king cool and swat away mosquitoes.
 
-一条重要的交通要道 通州，公元1600年 在通州宽阔的永通桥（Yongtong Bridge）上，蹄声嗒嗒、车轮辘辘，形成不绝于耳的嗡鸣，无尽的人流、牲畜和车辆在此通过，往返于北京。这座坚固的桥以花岗岩铺就，是环绕并保卫都城的四座桥之一，也是无数挤过其中拱的货船的重要航标，将粮食运往皇城。
+The king’s advisors are deep in discussion about military tactics.
 
-粮食查验楼 当地餐馆
+The workers tasked with carrying the soil away have the most tiring job.
 
-晚7时塔楼钟声响起，标志着工作日的结束。
+## With sword in hand
 
-训练有素的帝国军队士兵装备着现代化的德国步枪。
+Fuchai is dreaming of conquering new lands.
 
-像许多人一样，这位女子不识字。她雇佣一位职业代书人来帮助她。
+## Fuchai’s companion
 
-在老北京拥挤的四合院与胡同（hutongs）里，人人都知晓别人的闲事。
+## Xi Shi
 
-当地人以鞠躬而非握手互相问候。
+eats fruit laid out by the maids.
 
-运河的终点 北京，公元1910年 大运河在紧邻紫禁城（Forbidden City）的美丽什刹海（Shicha Lakes）结束其漫长旅程。如今水道较为安静，因为古老的驳船已被汽船和火车取代，但旧应定桥（Yingding Bridge）周围的餐馆和店铺一如既往地繁忙。
+## She is a spy
 
-然而，变革正在空气中酝酿。街头贫困，士兵巡逻，一场起义不久将推翻清朝（Qing Dynasty），永远终结帝制统治。
+sent by an enemy state to distract the king.
 
-摄政王府 德胜门（Deshengmen）城门 后海（Houhai）湖 关岳庙（Guanyue Temple） 观华寺（Guanhua Temple） 书店 载着下级官员的轿子 馒头摊 茶馆 四合院 作坊
+## King’s
 
-北京烤鸭长久以来都是一道受人喜爱的当地菜肴。
+## flag
 
-人力车夫在狭窄街道中穿行自如。
+## Fuchai
 
-一对衣着讲究的欧洲夫妇前往茶馆谈生意。
+## MaidsXi Shi
 
-只有最富裕的家庭才买得起自行车。
+## Advisors
 
-一名男子与他的女儿在街头表演，吸引了观众。
+## SoldiersMilitary
 
-你能找出一位戴眼镜、在桥边吃午餐的男子吗？
+## campLookout
 
-药房 服装店 钟楼（Bell Tower） 茶馆 菜店 鼓楼（Drum Tower） 餐馆 街头小吃摊 烤鸭店 服务员 算命先生 人力车 富商 街头斗殴 烧烤店 下棋 应定桥（Yingding Bridge）
+## tower
 
-杜飞（Du Fei）生于北京，拥有25年壁画绘制与艺术创作的教授经验。他专长于描绘中国历史与传统文化的写实作品。其作品涵盖多种形式，从壁画、油画到雕塑与陶瓷，并曾在博物馆、音乐厅、体育场、公园和地铁等公共空间展出。其最著名的作品包括《中国古代纺织服饰发展史》和《华夏巨擘》。
+US_004-005_Construction_Begins.
 
-时空旅行问答 公元前（BCE，第2页*）：公元前（Before Common Era）。即公元1年（公元纪元之始）之前的年份。
+indd 4 30/07/2019 15:51
 
-炭火盆（brazier，第10页）：一种盛放热炭的金属容器，用以给房间供暖。
+### Losing their tempers in the heat
 
-公元（CE，第2页）：公元（Common Era）。即从公元1年至今的年份。
+some workers have started to fight.
 
-政变（coup，第10页）：一群人试图夺取国家权力的行动。
+Some workers have been captured trying to escape.
 
-龙舟（dragon boat，第13页）：一种装饰着龙首龙尾的长船，用于竞渡。
+Find the wild-haired shaman performing a ceremony to bless the canal’s construction.
 
-东周（Eastern Zhou Dynasty，第5页）：中国古代史的一段时期，从公元前770年持续至公元前256年。
+Made with iron instead of the traditional bronze
 
-堤岸（embankment，第16页）：为防止河流泛滥而修筑的厚土墙。
+the diggers’ tools are strong.
 
-五代时期（Five Dynasties period，第11页）：公元10世纪中国一段动荡统治的时期。
+### By swinging a heavy stone in the air
 
-船队（flotilla，第7页）：一队船只。
+## then dropping it quickly
 
-小贩（hawker，第13页）：街头小贩。
+the men make the bed of the canal more solid.
 
-船闸（lock，第21页）：在处于不同水位的运河河段之间升降船只的装置。
+## Construction Begins
 
-明朝（Ming Dynasty，第26页）：公元1368年至1644年统治中国的王朝。
+Y angzhou, 486 bce
 
-清朝（Qing Dynasty，第30页）：中国最后一个帝国王朝，从公元1644年统治至1912年。
+During the Spring and Autumn Period of the Eastern Zhou
 
-轿子（sedan chair，第26页）：一种安装在两根杠上的封闭式椅子，由两人抬行。
+## Dynasty
 
-萨满（shaman，第5页）：被认为拥有特殊力量的祭司或疗愈者。
+wars are common between the many small states
 
-水闸（sluice gate，第20页）：横跨水流、控制其流量的屏障。
+of ancient China.
 
-宋朝（Song Dynasty，第10页）：公元960年至1279年的中国帝国王朝。
+King Fuchai of Wu orders the construction
 
-春秋时期（Spring and Autumn Period，第5页）：东周的前半段，持续至公元前476年。
+## of a canal
 
-隋朝（Sui Dynasty，第6页）：中国一个短命的帝国王朝，从公元580年持续至618年。
+## the Han Gou
 
-太极拳（Tai chi，第22页）：一种发源于中国的缓慢、受控的体育锻炼形式。
+### to transport soldiers and equipment
 
-唐朝（Tang Dynasty，第9页）：公元618年至690年，以及705年至907年统治中国的王朝。
+## quickly to the north
 
-分层食盒（tiffin carrier，第26页）：亚洲各地使用的一种午餐盒，用以携带热餐。
+where he wishes to expand his kingdom.
 
-军阀（warlord，第9页）：依靠军事力量统治国家部分地区的强权领袖。
+It is backbreaking work for the thousands of peasants ordered
 
-堰（weir，第16页）：横跨水体修建以控制水流的堤坝。
+to dig the barren earth in the baking sun
 
-吴国（Wu Kingdom，第5页）：周朝（Zhou Dynasty）的诸侯国之一。
+using only basic tools.
 
-注：页码指该词或缩写首次出现的页码。
+## Y angzhou
 
-词汇表 开凿动工 国王的孩子们非常兴奋——他们有一只可爱的小猫可以玩耍！
+## Lookout
 
-水上宫殿 其中一艘船上多了一位船员。你能找到她吗？
+## tower
 
-突袭粮仓！
+## Canal diggers
 
-狸花正在寻找藏身之处。她能挤过门缝溜进粮仓吗？
+US_004-005_Construction_Begins.
 
-一场军事政变 有人从桌上自行取用了食物。我们这只偷偷摸摸的猫找到了什么？
+indd 5 30/07/2019 15:51
 
-人间天堂 狸花生病了，一位富商的管家正带她去看兽医。她在哪儿？
+6A mounted guard of honor parades along the shore in full battle regalia.
 
-夜市，枫桥 狸花正在安静的角落里打盹。你觉得她在梦到什么？
+It is exhausting work for the teams of boat trackers on the shore
 
-治理水患 我们的猫躲在哪里避雨？
+who have to pull the vessels by rope.
 
-水脊 狸花和她的一些朋友被一名男子抓住，准备拿去贩卖！她能逃脱吗？
+## All along the route
 
-顾问 托马斯·H·哈恩（Thomas H. Hahn）是一位学者，中国历史地理专家，并著有关于大运河发展史的书籍。他目前任教于加州大学伯克利分校（University of California, Berkeley）。
+local people make offerings of food to please the emperor.
 
-翻阅本书各页，看看我们这只懂街头门道、能穿越时空的猫狸花又在捣什么乱。
+## Pride of the fleet
 
-插图者 一处钞关 当一艘船靠岸时，狸花跳上了船。
+the battleship’s catapults can launch rocks at enemy ships.
 
-你能看到她吗？
+## Battleship
 
-一座现代都市 狸花在灌木丛中扑向了什么？
+### Guard boatBoat trackersGuard of honor
 
-一座地标塔 我们这只淘气猫在粮仓顶上抓住了什么？
+Guard boats powered by oarsmen escort the emperor’s barge.
 
-繁忙的码头 狸花正蹦跳着冲上码头。你能看到她嘴里叼着什么吗？
+## Viewing
 
-一条重要的交通要道 我们最爱的猫有了一个玩伴。你能找到她吗？
+## ship
 
-运河的终点 一如既往，狸花饿了。
+## Local
 
-她在哪儿等候残羹剩饭？
+## dignitaries’
 
+## tent
+
+US_006-007_Palace_on_water.
+
+indd 6 30/07/2019 15:51
+
+7The emperor is flanked by his army officers.
+
+## Fearful of his short temper
+
+they flatter him.
+
+### Empress Xiao sails in a smaller
+
+## phoenix-shaped barge
+
+with her maids and court ladies.
+
+A merchant has come from afar to trade with the emperor.
+
+## Unfortunately
+
+he’s feeling a little seasick.
+
+The dragon is a symbol of the emperor’s strength and power.
+
+## A Palace on Water
+
+Luoyang, 605 ce
+
+The construction of the section of the Grand Canal between
+
+Yangzhou and Luoyang is finally complete.
+
+## A fanfare heralds the
+
+### arrival of an imperial flotilla
+
+### which has come to inspect the new
+
+waterway.
+
+Emperor Yang of Sui commands the procession from the
+
+## top deck of the lavish
+
+## dragon-shaped barge
+
+## which glides through
+
+the water like a floating palace.
+
+For the people of Luoyang, it is a
+
+grand spectacle beyond their wildest imaginations.
+
+## Emperor
+
+## Y ang of Sui
+
+## NoblesEmpress
+
+## Xiao
+
+## Court ladies
+
+## Phoenix boatPrincess
+
+## Nanyang
+
+## Dragon boat
+
+The phoenix symbolizes the empress and brings good luck.
+
+## Viewing ship
+
+## Cooks
+
+## Crew
+
+US_006-007_Palace_on_water.
+
+indd 7 14/08/2019 11:00
+
+8The lookout in the mobile watchtower is hauled up by pulley.
+
+The roofs of the assault wagons are covered with cow hide to withstand fire.
+
+## With its long spikes
+
+the “Wolf’s-T eeth Crusher” is a lethal weapon.
+
+Weapons are transported in connected wooden wagons
+
+which also provide cover for tunnel diggers.
+
+The heavy armor of the rebel army shines a brilliant blue-black when polished.
+
+## Lookout
+
+## Mobile
+
+## watchtowerSui rebel army camp
+
+## Sui rebel
+
+## soldiersGrand Canal
+
+## Wagon carrying weapons
+
+## Scaling ladderChariot
+
+## carrying
+
+## soldiers
+
+## Moat
+
+US_008-009_Granary_Attack.
+
+indd 8 30/07/2019 15:51
+
+9The roofs of the assault wagons are covered with cow hide to withstand fire.
+
+Wagang soldiers defending the beacon tower have lit a fire to alert friendly forces that help is needed.
+
+## With its long spikes
+
+the “Wolf’s-Teeth Crusher” is a lethal weapon.
+
+## Outnumbered
+
+the soldiers throw rocks at any invaders their swords cannot reach.
+
+The Wagang defenders have begun digging an escape tunnel.
+
+The Liyang granary is one of the biggest along the Grand Canal
+
+## with grain stores to feed 80
+
+## 000 people a year.
+
+Granary Attack!
+
+Liyang, 618 ce
+
+## Emperor Yang of Sui is dead
+
+## killed by his
+
+## once-loyal troops
+
+## and China is in chaos
+
+## at the
+
+mercy of powerful warlords.
+
+## The rebel soldiers
+
+march east to take control of the capital but soon
+
+run out of rations.
+
+Desperate, the hungry troops
+
+lay siege to the huge granary store at Liyang on
+
+## the Grand Canal
+
+## which is occupied by another
+
+rebel force, the Wagang Army.
+
+## The attack
+
+## succeeds
+
+but both armies pay a heavy price.
+
+## After this
+
+the Tang Army will conquer China.
+
+## Beacon
+
+## towerWagang Army camp
+
+## Wagang guards
+
+## Tunnel
+
+## diggersRampartGrain storage
+
+US_008-009_Granary_Attack.
+
+indd 9 30/07/2019 15:51
+
+10The Yellow River connects the growing city of Kaifeng to the Grand Canal.
+
+Can you spot the guard whose shield is painted with the face of a tiger?
+
+The men huddle around the fire to keep warm
+
+singing songs and toasting bread.
+
+Only the strongest guards carry the modao
+
+## a long
+
+heavy sword with a wide steel blade used to fight the enemy cavalry.
+
+Red tassels on a soldier’s helmet indicate that he holds a superior rank.
+
+## A Military Coup
+
+Kaifeng, 960 ce
+
+China is without a strong leader and has descended into civil war.
+
+## Zhao Kuangyin
+
+### chief commander of the imperial guard
+
+## is a
+
+powerful and popular figure.
+
+On a winter’s night, his loyal guards
+
+### surround his quarters near Kaifeng
+
+cheering their support.
+
+## Over
+
+## dinner
+
+his officers drop to their knees and declare him emperor.
+
+## Now Emperor Taizu
+
+## he founds the Song Dynasty
+
+## which unites
+
+China, and brings peace and a golden age of culture and science.
+
+## Y ellow RiverThe moon Venus
+
+## InfantryArmy tent
+
+## Charcoal
+
+## brazierHeavily armed
+
+## bodyguard
+
+## Soldiers of the
+
+## imperial guardMilitary flags
+
+US_010-011_Military_Coup.
+
+indd 10 30/07/2019 15:51
+
+11The officers toast the new emperor with wine served in jade cups.
+
+Zhao Kuangyin’s secretary dresses him in the imperial robe
+
+a symbol of power.
+
+The astrologer excitedly points to the night sky.
+
+He is persuading the men that the position of the planets indicates that Zhao Kuangyin is the rightful emperor.
+
+The soldiers will tuck into a hearty meal of hotpot
+
+dipping meat and vegetables into a simmering broth.
+
+## Weapon
+
+### frameLandscape painting from the
+
+## Five Dynasties period
+
+## Imperial
+
+## bodyguard
+
+## Zhao Pu
+
+## (Zhao Kuangyin’s
+
+## secretary)
+
+## Imperial
+
+## robeZhao
+
+## KuangyinZhao Kuangyi
+
+## (Zhao Kuangyin’s
+
+## brother)
+
+## Military
+
+## governorAstrologer
+
+## Military
+
+## commanderOil lamp
+
+US_010-011_Military_Coup.
+
+indd 11 30/07/2019 15:51
+
+Local silk is famous across China for its soft texture and beautiful sheen.
+
+The restaurant diners pay with a new invention
+
+paper money.
+
+## At the spice shop
+
+Arabian merchants gather to discuss business.
+
+### A young woman is applying her makeup
+
+using powders made from crushed flowers.
+
+## A Paradise on Earth
+
+Hangzhou, 1185 ce
+
+### At the southern end of the Grand Canal
+
+## and surrounded by lush
+
+## countryside
+
+Hangzhou has long been famous for its beautiful
+
+gardens, bridges, and temples.
+
+Since the arrival of the canal, the
+
+city has grown prosperous, too.
+
+### Along the busy quayside between
+
+### the steep Zhong’an and E’ya bridges
+
+## shopkeepers beckon well-to-
+
+do passersby to browse their tempting displays
+
+## while sharp-witted
+
+merchants from foreign shores strike deals with local traders.
+
+## Lantern
+
+## shop
+
+PortersWine shopSpice shop Silk shopBath house
+
+## Tea shop
+
+## Cargo boat carrying silk
+
+## FireboatE’ya
+
+## BridgeSalted duck
+
+egg sellerThe street cleaner carries away trash in a raft.
+
+The market is always full of gossip about the royal household.
+
+## Fur shop
+
+## Restaurant
+
+## Soldier
+
+US_012-013_Paradise_on_Earth.
+
+indd 12 30/07/2019 15:51
+
+### Pleasure boats cruise the canal
+
+packed with tourists eager to explore the city.
+
+Many travelers and pilgrims come to admire the pleasure gardens and visit the temples of the West Lake.
+
+A dragon boat crew is practicing for the races on West Lake.
+
+The poet Lin Sheng writes verses on a shop wall.
+
+## Tea shopRoyal
+
+## carriage
+
+## Zhong’an
+
+## BridgePharmacyWest Lake
+
+## Washerwoman
+
+## Dragon boat
+
+## Opera performers
+
+## Dumpling
+
+## stallStreet
+
+## entertainersPleasure
+
+## boatBeggar
+
+## Passenger boat
+
+## Hawker stallsPleasure
+
+## gardens
+
+Find the boy trying to light the cauldron fire at the dumpling stall.
+
+## RestaurantPrince Wu’s
+
+## palace
+
+US_012-013_Paradise_on_Earth.
+
+indd 13 30/07/2019 15:51
+
+14Night Fair, Maple Bridge
+
+Suzhou, 760 ce
+
+## It is almost midnight
+
+but the busy port of Suzhou is still teeming
+
+with life.
+
+## In the moonlight
+
+### merchants and travelers disembark
+
+from passenger boats under the old stone Fengqiao (Maple Bridge).
+
+### Business is booming these days
+
+### and some bring goods from distant
+
+lands such as Persia and Arabia to trade.
+
+## Others are more interested
+
+in the taverns and teahouses of the bustling night market.
+
+## Zhang Ji
+
+## a famous poet
+
+is inspired by the moonlit scene and composes the lines to a beautiful poem in his head.
+
+### Can you find a haughty official
+
+being helped along by his loyal servants?
+
+These women are wearing the latest fashions from India and Persia.
+
+### A Japanese diplomat has arrived
+
+on a mission to learn about Chinese culture.
+
+## Tiger Hill
+
+PagodaT ears flow as a husband prepares to set sail for the capital
+
+leaving his wife at home.
+
+## Passenger
+
+## boat
+
+## Fengqiao (Maple Bridge)Inn
+
+US_014-015_Night_Fair.
+
+indd 14 30/07/2019 15:51
+
+15Suzhou is a flourishing weaving center.
+
+Weavers work together on beautiful embroidery.
+
+## A Buddhist monk disembarks
+
+with all his worldly possessions in a bamboo carrier.
+
+## T wice a day
+
+monks strike the bell at this famous temple 108 times.
+
+A sick passenger is carrried off the boat into the medical ward.
+
+An Arabian merchant and a local trader discuss a business deal.
+
+These wrestlers are practicing for a competition.
+
+## Cargo
+
+## vesselJiangcun
+
+## BridgeHanshan
+
+## Temple
+
+### T eahouse Silk weaving workshop
+
+## Ferry
+
+## Passenger
+
+## boatCargo
+
+## vessel
+
+US_014-015_Night_Fair.
+
+indd 15 30/07/2019 15:51
+
+16The Kangxi Emperor has studied the canal for a long time.
+
+This is his third tour.
+
+## Branches
+
+reeds, and wheat stalks are tied into bundles to make flood defenses.
+
+The Gaojia Weir was the first dam constructed to control the floods.
+
+By carving the shape of the landscape on a wooden plank
+
+planners make a 3-D map.
+
+The emperor is sheltered beneath a silk canopy.
+
+### At the simple temple by the weir
+
+villagers pray to the deities.
+
+## Grand CanalGaojia Weir
+
+## CanopyHuai River
+
+## Imperial bodyguardsWooden
+
+mapChief advisorKangxi EmperorEmbankmentTemple
+
+US_016-017_Stopping_the_Floods.
+
+indd 16 30/07/2019 15:51
+
+17The Gaojia Weir was the first dam constructed to control the floods.
+
+Canal diggers hammer wooden posts into the ground to compact the earth.
+
+By carving the shape of the landscape on a wooden plank
+
+planners make a 3-D map.
+
+The workers throw straw capes over their shoulders to keep dry in the rain.
+
+Grain can no longer reach the capital because the canal water is too high.
+
+Workers haul the flood defenses into position to prevent the Yellow River from overflowing.
+
+## Stopping the Floods
+
+Huaiyin, 1699 ce
+
+The workers need to move fast.
+
+The rains have begun, and if the
+
+### flood defenses aren’t in place soon
+
+### the Yellow River will burst its
+
+banks again.
+
+## Over the years
+
+### the canal system has been neglected
+
+and silting upriver has made the river change course.
+
+## Now it flows
+
+## dangerously close to Huaiyin
+
+### where the Grand Canal and the Huai
+
+## River meet
+
+and causes floods that destroy homes and livelihoods.
+
+## The river must be tamed
+
+### and the Kangxi Emperor has taken
+
+command.
+
+He orders his workers to build a vast series of defenses
+
+to change its direction.
+
+It will be an engineering masterpiece.
+
+## Embankment
+
+## Y ellow River
+
+## Flood defense
+
+### Flood defenseCan you spot this worker
+
+throwing his hands up in the air in prayer for the rain to stop?
+
+## Canal
+
+## workers Carpenter
+
+US_016-017_Stopping_the_Floods.
+
+indd 17 30/07/2019 15:51
+
+18A sailor winches down the mast of his cargo boat as it prepares to dock.
+
+## When it is finished
+
+all travelers will burn incense at the new temple for good luck.
+
+### A scholar buys the “four jewels”
+
+## a brush
+
+ink, ink stone
+
+and paper.
+
+An official shows the new temple to Song Li
+
+the minister in charge of construction.
+
+## Can you spot a baby
+
+glimpsing the outside world for the first time?
+
+A grandmother who is lost asks for directions.
+
+A street vendor sells seed pods of the lotus flower
+
+a tasty snack.
+
+## Sluice gateStone embankment
+
+## Official
+
+## Song LiGuard
+
+## Grocery
+
+## sellerStone
+
+## beast
+
+## Street
+
+## vendorLotus
+
+## seed pod
+
+## seller
+
+### PortersStonemasonCanal linking to
+
+## the Wenhe River
+
+## Merchant boats
+
+US_018-019_A_Ridge_of_water.
+
+indd 18 30/07/2019 15:51
+
+19Water from the river is stored in a reservoir.
+
+The flow is controlled by a sluice gate.
+
+### Balancing on an unsteady plank
+
+a builder hauls tiles up to the roof by pulley.
+
+A worker mixes up glue made from animal bones to bind together the bricks.
+
+An official shows the new temple to Song Li
+
+the minister in charge of construction.
+
+### This builder doesn’t like heights
+
+so he is having a rest.
+
+## A Ridge of Water
+
+Nanwang, 1420 ce
+
+Nanwang marks the canal’s highest point.
+
+Until recently, the
+
+canal often ran dry and boats ran aground here.
+
+Not any more.
+
+Clever engineers have figured out a way to keep water levels
+
+steady by digging a canal to the Wenhe River
+
+## and now cargo
+
+boats can navigate this tricky ridge all year round.
+
+## Builders are
+
+constructing a beautiful temple in celebration
+
+## dedicated to the
+
+Dragon King, a god of water and weather.
+
+## Reservoir
+
+## Grand Canal
+
+## Dragon King
+
+## Temple
+
+## Glass tiles
+
+## Side
+
+## hallMain hallMemorial
+
+## archway
+
+## Builders
+
+## Bamboo
+
+scaffoldingWorkers are building a statue of the water god.
+
+US_018-019_A_Ridge_of_water.
+
+indd 19 30/07/2019 15:51
+
+20The customs office is the richest in China
+
+collecting a quarter of all taxes.
+
+## In the Ming era
+
+opera is very popular and always gathers a crowd.
+
+Can you spot these old friends sharing a picnic by the canal?
+
+The children are dueling with leaf stalks.
+
+The loser is left with a broken stalk.
+
+Find a traveler finishing his breakfast.
+
+A mother and daughter are discussing which color cattail leaf fan to buy.
+
+## Customs
+
+## officeOpera
+
+## theater
+
+## Temple
+
+## Cattail leaf
+
+## fan sellerNeck pillow
+
+## seller
+
+## ButcherEgg
+
+## sellerRice porridge
+
+## stall
+
+### FishermanRestaurantBoats carrying
+
+## wood
+
+## Boat crewBrick kilns
+
+US_020-021_Customs_Pass.
+
+indd 20 30/07/2019 15:52
+
+## 21Matteo Ricci
+
+## a Catholic priest
+
+has come from Rome to convert locals to Christianity.
+
+He has been invited to a banquet and to watch an acrobat show.
+
+### Linqing is famous for producing bricks
+
+which were used to build the Forbidden City in Beijing.
+
+Fishermen use cormorants to help them catch fish.
+
+## A Customs Pass
+
+Linqing, 1600 ce
+
+Linqing is one of the liveliest hubs along the canal.
+
+## All boats have
+
+to stop to pay taxes at the customs office.
+
+Passage can take days, or
+
+## even weeks
+
+because of the many locks that need to be navigated.
+
+But there’s little chance for travelers to get bored.
+
+## Inns and
+
+restaurants have sprung up along the canal banks
+
+## while opera
+
+performances and acrobat shows keep everyone entertained.
+
+Lockkeepers wind the capstan to raise and lower the lock.
+
+The tea stall by the lock is always a popular meeting point.
+
+## Mosque
+
+## Pipe
+
+## sellerAcrobat show
+
+## Military
+
+## patrol
+
+## Cormorant
+
+## fisherman
+
+## Wood for
+
+## building
+
+## Pawnshop
+
+## Linqing
+
+## brickCapstan
+
+### WheelbarrowCanal lockTea stall
+
+## Game of chessStreet
+
+## vendorsBeggar
+
+## Boat crewBoat carrying
+
+## apricots
+
+US_020-021_Customs_Pass.
+
+indd 21 30/07/2019 15:52
+
+22Drivers on the Yongle Bridge can wave to the people riding on the Tianjin Eye above.
+
+Locals practice Tai Chi by the river to relax and keep fit.
+
+Electric vehicles are used to transport packages
+
+which also helps reduce pollution.
+
+Worshippers have prayed at the Tianhou Temple for more than 600 years.
+
+Where along the river can you buy a balloon?
+
+A shoeshiner plies his trade along the riverside.
+
+## A Modern Metropolis
+
+Tianjin, 2020 ce
+
+Its skyline bristling with skyscrapers and giant apartment
+
+buildings, modern Tianjin is booming.
+
+## Cars and bikes
+
+## stream along the busy roads
+
+## and pedestrians crowd the
+
+riverside promenade.
+
+## At the meeting point of two
+
+branches of the Grand Canal with the Hai River
+
+## Tianjin
+
+has been an important port for centuries and was the first
+
+city in China to open up to Western traders.
+
+## Now visitors
+
+come from across the world to enjoy the good life in this
+
+ever-growing city.
+
+## MuseumTianjin Eye
+
+## Y ongle Bridge
+
+## Ziya River
+
+## Boat
+
+## dockApartment buildings
+
+## Hotel
+
+## Bicycle
+
+## dock
+
+## Tianhou
+
+### TempleNorth CanalJinzhong Bridge
+
+## Patrol
+
+## boat
+
+US_022-023_A_Modern_Metropolis.
+
+indd 22 08/08/2019 15:24
+
+Tianjin’s office workers spend long days at their desks
+
+so they work out at the gym.
+
+Find a mother taking a selfie with her toddler on a smartphone.
+
+This couple are celebrating their engagement.
+
+T raffic runs smoothly across the colorful Jingang Bridge
+
+built on two levels.
+
+### Sightseeing boats cruise the river
+
+full of camera-carrying tourists.
+
+## Financial
+
+## District
+
+## University
+
+### Hai RiverSightseeing boatWang Hai
+
+## Lou Church
+
+## Jingang
+
+## Bridge
+
+## Bar
+
+## MusicianTourists
+
+CaféGymLuxury apartments built by Europeans over 100 years ago can be seen along the river.
+
+US_022-023_A_Modern_Metropolis.
+
+indd 23 14/08/2019 11:03
+
+## 24A Landmark Tower
+
+Tongzhou, 1450 ce
+
+With the construction of the Grand Canal
+
+## the city of
+
+T ongzhou is up and coming.
+
+## The pagoda at the north
+
+end of the Grand Canal is T ongzhou’s main landmark.
+
+The tower is 157 ft (48 m) high and overlooks the
+
+## bustling port
+
+## where all sorts of goods
+
+## from grain to
+
+wood, are loaded onto and unloaded from the many
+
+boats that are arriving from the south.
+
+## These goods
+
+will be distributed to the imperial households and
+
+the troops stationed along the Great Wall.
+
+## Jars
+
+## of wineBarge with
+
+## sail unfurled
+
+## WheelbarrowOx cart
+
+transporting sacksGrain storageCan you spot a noble lady in a sedan chair
+
+who has come to inquire about her husband?
+
+Grain unloaded from the ships is transported directly to warehouses.
+
+### A wine seller is heading for the river
+
+carrying his wares.
+
+Loaders rush to carry sacks of rice off a ship and into the warehouse.
+
+A line of barrows loaded with tea is pushed by porters through the bustling dock.
+
+Bamboo rods strengthen barges’ sails.
+
+US_024-025_Landmark_Tower.
+
+indd 24 30/07/2019 15:52
+
+## 25Pagoda
+
+## Rice from
+
+## the south
+
+## Temple
+
+### WarehousesWhen they see the tower
+
+boatmen from distant Jiangnan know that their long hard journey is ending.
+
+This batch of wood will be used to construct the Forbidden City in Beijing.
+
+Closing the sail is not easy and requires agility and teamwork from the crew.
+
+Officials keep tax records of imports and sales.
+
+## At the temple
+
+followers of three different religious traditions can worship together in harmony.
+
+## Jars
+
+## of wine
+
+US_024-025_Landmark_Tower.
+
+indd 25 30/07/2019 15:52
+
+## 26The Busy Dock
+
+Tongzhou, 1550 ce
+
+## During the Ming Dynasty
+
+### the busiest dock on the Grand Canal is
+
+at Tongzhou.
+
+### Hundreds of vessels gather here daily
+
+## bringing grain
+
+for distribution to other places.
+
+### Porters and loaders rush to and
+
+fro, supervised by officials and soldiers in charge of grain storage
+
+and inspection.
+
+### Also hard at work here are fishermen
+
+## sailors
+
+## shopkeepers
+
+## businessmen
+
+## traveling merchants
+
+and beggars.
+
+## Restaurant
+
+## SoldierMemorial
+
+## arch
+
+## Ceramics
+
+## store
+
+Porcelain making is at its peak in the Ming Dynasty
+
+and the blue-and-white porcelain is the best quality.
+
+### Hungry after their long journey
+
+travelers pile into the busy restaurant.
+
+This traveler has come a long way.
+
+His sedan chair is so heavy that two mules are needed to carry it.
+
+The memorial arch is very grand with its three doorways.
+
+US_026-027_Busy_Dock.
+
+indd 26 30/07/2019 15:52
+
+## 27Tax official’s boat
+
+## Workers
+
+## Grain
+
+## manager
+
+## GuardsBarns
+
+## Floating
+
+## bridge
+
+## Boatmen
+
+Hot lunches are sometimes delivered in tiffin carriers
+
+which keep the food warm.
+
+The boatmen are singing a work song to help them work faster.
+
+The memorial arch is very grand with its three doorways.
+
+## Hai Rui
+
+## a scholar from the south
+
+has arrived to take his exams.
+
+Can you find him?
+
+Boats are tied together to make a floating bridge.
+
+The tax official is making an inspection tour.
+
+A grain manager inspects the grain as it is unloaded from a barge.
+
+US_026-027_Busy_Dock.
+
+indd 27 30/07/2019 15:52
+
+28A caravan of camels is being led across the bridge.
+
+## A woman is grinding grain
+
+with a donkey turning the millstone.
+
+A couple traveling to Beijing picnic beside the bridge.
+
+A screen wall prevents evil spirits from entering the merchant’s house.
+
+## Can you spot a goat herder
+
+snoozing beneath the trees?
+
+There are 66 finely carved stone lions on the railings of the bridge
+
+## 33 on each side.
+
+## Rice paddies
+
+## Tea stallWealthy merchant’s
+
+## courtyard houseScreen wall
+
+## Millstone
+
+## Matteo Ricci
+
+## Soldier
+
+## Tea
+
+### stallCart driverPorterY ongtong
+
+## BridgeMessenger from
+
+## Mongolia
+
+## Boat from
+
+## SiamCargo junk
+
+US_028-029_Vital_communication_link.
+
+indd 28 30/07/2019 15:53
+
+## 29Matteo Ricci
+
+## a Catholic priest
+
+is traveling to Beijing to meet the Wanli Emperor.
+
+### Four rivers flow into the Grand Canal
+
+making this a major transportation hub.
+
+A soldier still in uniform is just home from the war in Korea.
+
+A Japanese spy is collecting information from local people to send back to the Emperor of Japan.
+
+### At the grain inspection building
+
+officials check the quality of the grain being shipped to Beijing.
+
+## A Vital Communications Link
+
+Tongzhou, 1600 ce
+
+The clatter of hooves and the rumble of wheels create a constant hum on
+
+### Tongzhou’s broad Yongtong Bridge
+
+### as an endless stream of people
+
+## animals
+
+and vehicles pass across en route to and from Beijing.
+
+Paved with granite,
+
+the sturdy bridge is one of four that surround and defend the capital and
+
+is also an important waymarker for the countless cargo boats that squeeze
+
+## through its high middle arch
+
+bringing grain to the imperial city.
+
+## Grain inspection building
+
+## Local
+
+## restaurant
+
+US_028-029_Vital_communication_link.
+
+indd 29 30/07/2019 15:53
+
+30The striking of the tower bell at 7pm marks the end of the working day.
+
+The well-drilled soldiers of the imperial army are equipped with modern German rifles.
+
+## Like many people
+
+this woman is illiterate.
+
+She hires a professional letter writer to help her.
+
+In the cramped courtyard houses and alleys ( hutongs) of old Beijing
+
+everyone knows everyone else’s business.
+
+Local people greet each other with a bow
+
+instead of shaking hands.
+
+## The End of the Canal
+
+Beijing, 1910 ce
+
+The Grand Canal ends its long journey at the beautiful
+
+## Shicha Lakes
+
+close to the Forbidden City.
+
+## The waterway
+
+## is quieter these days
+
+### as the barges of old have been
+
+### replaced by steamships and trains
+
+## but the restaurants and
+
+stores around the old Yingding Bridge are as busy as ever.
+
+Change is in the air, however.
+
+## With poverty on the streets
+
+## and soldiers on patrol
+
+### an uprising will soon overthrow the
+
+## Qing Dynasty
+
+bringing imperial rule to an end forever.
+
+### Prince regent’s mansionDeshengmen
+
+## city gate
+
+## Houhai LakeGuanyue
+
+## Temple
+
+## Guanhua
+
+## Temple
+
+## Bookshop
+
+## Sedan
+
+## carrying a
+
+## junior official
+
+## Steamed
+
+## bun stallTea house
+
+## Courtyard
+
+## housesWorkshop
+
+US_030-031_The_End_of_the_Canal.
+
+indd 30 30/07/2019 15:53
+
+31The striking of the tower bell at 7pm marks the end of the working day.
+
+Peking duck has long been a favorite local dish.
+
+Rickshaw pullers navigate the narrow streets with ease.
+
+A well-dressed European couple head to a teahouse for a business meeting.
+
+## Like many people
+
+this woman is illiterate.
+
+She hires a professional letter writer to help her.
+
+Only the very richest families can afford to buy a bicycle.
+
+A man and his daughter are street performing
+
+and attract an audience.
+
+Can you find a man in glasses eating lunch by the bridge?
+
+## PharmacyClothes storeBell
+
+## Tower
+
+### TeahouseProduce storeDrum Tower
+
+## Restaurant
+
+## Street food stallRoast duck
+
+## restaurant
+
+## Waiter
+
+## Fortune
+
+## tellerRickshawsWealthy
+
+## merchant
+
+## Street
+
+## brawlBarbecue restaurant
+
+## Game of
+
+## chessYingding
+
+## Bridge
+
+US_030-031_The_End_of_the_Canal.
+
+indd 31 30/07/2019 15:53
+
+Du Fei was born in Beijing, and
+
+### has 25 years of experience as a
+
+### professor of mural painting and
+
+artistic creation.
+
+## He specializes in
+
+### painting realistic works portraying
+
+### Chinese history and traditional
+
+culture.
+
+## His work encompasses
+
+a variety of art forms, from murals
+
+### and oil painting to sculpture and
+
+ceramics, and has been displayed
+
+in public spaces including museums,
+
+concert halls, stadiums, parks, and
+
+subways.
+
+## His best-known works
+
+### include The Development of Textile
+
+### and Clothing in Ancient China and
+
+The Great Cathay.
+
+## Time-traveling Quiz
+
+BCE (page 2*): Before Common
+
+Era.
+
+### The years before 1 ce (start of
+
+the Common Era).
+
+Brazier (page 10): A metal
+
+container holding hot coals,
+
+designed to heat a room.
+
+CE (page 2): Common Era.
+
+years from 1 ce to the present.
+
+Coup (page 10): An attempt by
+
+### a group of people to seize power
+
+in a country.
+
+Dragon boat (page 13): A long
+
+boat, decorated with dragon heads
+
+and tails, used for racing.
+
+Eastern Zhou Dynasty (page 5): A
+
+### period of ancient Chinese history
+
+lasting from 770 to 256 bce.
+
+Embankment (page 16).
+
+## A thick
+
+### wall of earth built to prevent a
+
+river from flooding.
+
+Five Dynasties period (page 11):
+
+### An era of unsettled rule in China
+
+during the 10th century ce.
+
+Flotilla (page 7): A procession
+
+of ships.
+
+Hawker (page 13): Street vendor.
+
+Lock (page 21): A device to raise or
+
+### lower boats between parts of the
+
+canal that are on different levels.
+
+Ming Dynasty (page 26):
+
+## The ruling dynasty of China
+
+from 1368 to 1644 ce.
+
+Qing Dynasty (page 30): The last
+
+imperial dynasty of China, which
+
+ruled from 1644 until 1912 ce.
+
+Sedan chair (page 26): An enclosed
+
+chair mounted on two poles, carried
+
+by two people.
+
+Shaman (page 5): A priest or healer
+
+believed to have special powers.
+
+Sluice gate (page 20): A barrier
+
+### across a current of water that
+
+controls its flow.
+
+Song Dynasty (page 10): A
+
+### Chinese imperial dynasty lasting
+
+from 960 to 1279 ce.
+
+## Spring and Autumn Period
+
+(page 5): The first half of the Eastern
+
+Zhou Dynasty, lasting until 476 bce.
+
+Sui Dynasty (page 6): A short-lived
+
+imperial dynasty of China, lasting
+
+from 580 to 618 ce.
+
+Tai chi (page 22): A slow, controlled
+
+### form of physical exercise developed
+
+in China.
+
+Tang Dynasty (page 9): The ruling
+
+dynasty of China from 618 to 690,
+
+and 705 to 907 ce.
+
+Tiffin carrier (page 26): A type
+
+### of lunch box used across Asia to
+
+carry hot meals.
+
+Warlord (page 9): A powerful leader
+
+### who rules part of a country using
+
+military force.
+
+Weir (page 16): A dam built across
+
+a body of water to control the flow.
+
+Wu Kingdom (page 5): One of the
+
+states of the Zhou Dynasty.
+
+Note: Page numbers refer to the first
+
+### page on which the word or abbreviation
+
+appears.
+
+## Glossary
+
+## Construction Begins
+
+## The king’s children are very
+
+## excited—they have a cute
+
+kitten to play with!
+
+## A Palace on Water
+
+## One of the boats has an extra
+
+crew member.
+
+Can you spot her?
+
+Granary Attack!
+
+### Lihua’s looking for a place to
+
+hide.
+
+## Can she squeeze under
+
+the door into the grain store?
+
+## A Military Coup
+
+## Somebody has helped herself
+
+from the table.
+
+## What has our
+
+sneaky cat found?
+
+## A Paradise on Earth
+
+Lihua is sick, so the butler of a
+
+## wealthy businessman is taking
+
+her to the vet.
+
+Where is she?
+
+Night Fair, Maple Bridge
+
+### Lihua is having a nap in a quiet
+
+corner.
+
+## What do you think she
+
+is dreaming about?
+
+## Stopping the Floods
+
+### Where’s our cat hiding to stay
+
+dry from the rain?
+
+## A Ridge of Water
+
+## Lihua and some of her friends
+
+## have been caught by a man to
+
+be sold!
+
+Will she escape?
+
+## The Consultant
+
+Thomas H.
+
+## Hahn is an academic
+
+## and expert in the historical
+
+geography of China, and the author
+
+### of a book on the development of
+
+the Grand Canal.
+
+## He currently
+
+## teaches at the University of
+
+California, Berkeley.
+
+## Search through the pages of
+
+the book to see what Lihua,
+
+our street-smart, time-traveling
+
+cat, is getting into.
+
+## The Illustrator
+
+## The Customs Pass
+
+As a boat comes into dock,
+
+Lihua has jumped on board.
+
+Can you see her?
+
+## A Modern Metropolis
+
+## What is Lihua pouncing
+
+on in the bushes?
+
+## A Landmark Tower
+
+## What has our naughty cat
+
+caught on top of the grain store?
+
+## The Busy Dock
+
+## Lihua is scampering onto the
+
+dock.
+
+## Can you see what she
+
+has caught in her mouth?
+
+## A Vital Communications Link
+
+## Our favorite cat has a friend
+
+to play with.
+
+Can you find her?
+
+## The End of the Canal
+
+As always, Lihua is hungry.
+
+Where is she waiting for scraps?
+
+US_032_Glossary.
+
+indd 32 30/07/2019 15:53

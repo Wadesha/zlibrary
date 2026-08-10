@@ -1,21 +1,10 @@
 # Essentials of Geology Stephen Marshak Z Library
 
-> 来源文件：pre_Essentials_of_Geology_Stephen_Marshak_Z_Library.txt
-> 字符数（约）：1977404
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Publisher’s Notice Please note that this version of the ebook does not include access to any media or print supplements that are sold packaged with the printed book.
-
-W. W. Norton & Company has been independent since its founding in 1923, when William Warder Norton and Mary D. Herter Norton first published lectures delivered at the People’s Institute, the adult education division of New York City’s Cooper Union. The firm soon expanded its program beyond the Institute, publishing books by celebrated academics from America and abroad. By midcentury, the two major pillars of Norton’s publishing program—trade books and college texts—were firmly established. In the 1950s, the Norton family transferred control of the company to its employees, and today—with a staff of five hundred and hundreds of trade, college, and professional titles published each year—W. W. Norton & Company stands as the largest and oldest publishing house owned wholly by its employees.
-
-Copyright © 2022, 2019, 2016, 2013, 2009, 2007, 2004 by W. W.
 
 Norton & Company, Inc.
 
 Editor: Jake Schindel Senior Project Editor: Thom Foley Project Editors: Caitlin Moran, Layne Broadwater Associate Director of Production, College: Benjamin Reynolds Assistant Editor: Mia Davis Copy Editor: Norma Sims Roche Managing Editor, College: Marian Johnson Managing Editor, College Digital Media: Kim Yi
-
-Digital Media Editor: Michael Jaoui Associate Media Editor: Arielle Holstein Media Project Editor: Marcus Van Harpen Editorial Assistant, Media: Jasvir Singh Ebook Production Manager: Sophia Purut Marketing Manager, Geology: Alex Ottley Design Director: Rubina Yeh Cover Designer: Debra Morton-Hoyt Interior Designer: Jillian Burr Director of College Permissions: Megan Schindel College Permissions Manager: Bethany Salminen Permissions Associate: Patricia Wong Photo Editors: Stephanie Romeo and Mike Cullen Photo Researcher: Melinda Patelli Composition: MPS North America LLC MPS Project Manager: Jackie Strohl Illustrations: Troutt Visual Services Permission to use copyrighted material is included in the backmatter of this book.
 
 Library of Congress Cataloging-in-Publication Data Names: Marshak, Stephen, 1955- author.
 
@@ -23,11 +12,7 @@ Title: Essentials of geology / Stephen Marshak, University of Illinois at Urbana
 
 Description: Seventh edition. | New York, NY : W.W. Norton & Company, [2022] | Includes index.
 
-Identifiers: LCCN 2021061610 | ISBN 9780393882728 (paperback) | ISBN 9780393883015 (epub)
-
 Subjects: LCSH: Geology—Textbooks.
-
-Classification: LCC QE28 .M3415 2022 | DDC 551— dc23/eng/20211216 LC record available at https://lccn.loc.gov/2021061610 ISBN: 978-0-393-88301-5 (ebook)
 
 W. W. Norton & Company, Inc., 500 Fifth Avenue, New York, NY 10110 wwnorton.com W. W. Norton & Company Ltd., 15 Carlisle Street, London W1D 3BS (previous page) Tourists clamber over red sandstone beds in Zion National Park. Geology is all around us.
 
@@ -503,8 +488,6 @@ Instructor’s Manual and Test Bank The Instructor’s Manual, prepared by Nick 
 
 The Test Bank has been revised not only to correlate with the new Seventh Edition, but to provide better, more rounded assessment than ever before. Expert accuracy checkers, all of whom teach the introductory geology course, have ensured that every question in the Test Bank is scientifically reliable and truly tests students’ understanding of the most important topics in each chapter, so that the questions can be assigned with confidence.
 
-Instructor Resources Website The Instructor Resources Website provides online access to a rich array of resources: the Test Bank in Testmaker, the Instructor’s Manual, PowerPoints, art from the text, and LMS-ready content. It can be accessed at https://wwnorton.com/instructor-resources/9780393882728.
-
 ## ACKNOWLEDGMENTS
 
 Many people contributed to the long and complex process of bringing this book from the concept stage to the shelf in the first place, and to the continuous effort of improving the book and keeping it current. Textbooks are, by definition, always a work in progress.
@@ -536,8 +519,6 @@ Doug Shakel, Pima Community College Anne Sheehan, University of Colorado Roger D
 Lorraine Wolf, Auburn University Christopher J. Woltemade, Shippensburg University Jackie Wood, Delgado Community College, City Park Kerry Workman-Ford, California State University, Fresno
 
 THANKS!
-
-I am very grateful to the faculty who have selected Essentials of Geology for their classes, and to the students who engage so energetically with the book. I particularly appreciate the questions and corrections from readers that help to improve the book and keep it as accurate as possible. I continue to welcome comments and can be reached at smarshak@illinois.edu.
 
 Stephen Marshak
 
@@ -4640,8 +4621,6 @@ FIGURE 5.22  Efforts to divert lava flows away from inhabited locations.
 (b) Firefighters pumping 6 million m3 of water on a lava flow on the island of Heimaey, Iceland, in an effort to freeze it and stop it.
 
 BOX 5.2  PUTTING GEOLOGY TO USE Reading a Volcanic Hazard Map Geologists develop volcanic hazard maps to show the potential impact of a volcanic eruption on the surrounding region. Figure Bx5.2 shows an example of such a map for the area surrounding Mt. Rainier in Washington State. While lava flows and pyroclastic flows present a significant threat close to the volcano, lahars from a Rainier eruption could travel as far as Tacoma, some 95 km away. The United States Geological Survey (USGS) publishes long-term hazard assessment reports that assess the types and likelihood of hazards at specific volcanic sites and where the affected areas would be in those regions.
-
-You can search these reports by state or by specific volcano at https:// volcanoes.usgs.gov/vhp/hazard_assessments.html. Do you live in a region that could be affected by a volcanic eruption? If so, what hazards might affect your region? Municipalities that lie within a volcano’s impact area, such as Pierce County in Washington State, often post hazard maps, emergency plans, and evacuation routes on their websites. It’s a good idea to familiarize yourself with these resources if you live in a vulnerable area.
 
 FIGURE Bx5.2  A volcanic hazard map for Mt. Rainier, Washington, showing the regions that might be affected by flows and lahars. Note that lahars may travel long distances down river valleys.
 

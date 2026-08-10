@@ -1,17 +1,8 @@
 # A Passion for Nature The Life of John Muir Donald Worster Z Library
 
-> 来源文件：pre_A_Passion_for_Nature_The_Life_of_John_Muir_Donald_Worster_Z_Library.txt
-> 字符数（约）：271623
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 A Passion for Nature
 
 The Life of JOHN MUIR DONALD WORSTER Oxford University Press, Inc., publishes works that further Oxford University’s objective of excellence in research, scholarship, and education.
-
-Oxford New York Auckland Cape Town Dar es Salaam Hong Kong Karachi Kuala Lumpur Madrid Melbourne Mexico City Nairobi New Delhi Shanghai Taipei Toronto With offices in Argentina Austria Brazil Chile Czech Republic France Greece Guatemala Hungary Italy Japan Poland Portugal Singapore South Korea Switzerland Thailand Turkey Ukraine Vietnam Copyright © 2008 by Donald Worster Published by Oxford University Press, Inc.
-
-198 Madison Avenue, New York, NY 10016 www.oup.com Oxford is a registered trademark of Oxford University Press.
 
 stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior permission of Oxford University Press.
 
@@ -21,13 +12,9 @@ p. cm.
 
 Includes bibliographical references.
 
-ISBN 978-0-19-516682-8
-
 ## 1. Muir, John, 1838–1914. 2. Naturalists—United States—Biography
 
 ## 3. Conservationists—United States—Biography. I. Title
-
-QH31. M9W68 2008 333.72092—dc22 2008001441 1 3 5 7 9 8 6 4 2 Printed in the United States of America on acid-free paper To my students
 
 Contents PROLOGUE Muir’s Trail 3
 

@@ -1,23 +1,12 @@
 # Physical Science Eighth Edition Bill W Tillery Z Library
 
-> 来源文件：pre_Physical_Science_Eighth_Edition_Bill_W_Tillery_Z_Library.txt
-> 字符数（约）：2744012
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 PHYSICALSCIENCE
 
 EIGHTH EDITION PHYSICALSCIENCE BILL W. TILLERY ARIZONA STATE UNIVERSITY
 
-PHYSICAL SCIENCE, EIGHTH EDITION Published by McGraw-Hill, a business unit of The McGraw-Hill Companies, Inc., 1221 Avenue of the Previous editions © 2007, 2005, 2002, 1999, 1995, and 1993. No part of this publication may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system, without the prior written consent of The McGraw-Hill Companies, Inc., including, but not limited to, in any network or other electronic storage or transmission, or broadcast for distance learning.
-
 Some ancillaries, including electronic and print components, may not be available to customers outside the United States.
 
 This book is printed on recycled, acid-free paper containing 10% postconsumer waste.
-
-1 2 3 4 5 6 7 8 9 0 QPD/QPD 0 9 8 ISBN 978–0–07–340452–3 MHID 0–07–340452–7 Publisher: Thomas Timp Sponsoring Editor: Debra B. Hash Director of Development: Kristine Tibbetts Senior Developmental Editor: Mary E. Hurley Senior Marketing Manager: Lisa Nicks Senior Project Manager: Vicki Krug Senior Production Supervisor: Sherry L. Kane Lead Media Project Manager: Judi David Manager, Creative Services: Michelle D. Whitaker Cover/Interior Designer: Elise Lansdon (USE) Cover Image: © Paul Souders/Corbis Senior Photo Research Coordinator: John C. Leland Photo Research: David Tietz/Editorial Image, LLC Supplement Producer: Mary Jane Lampe Compositor: Aptara, Inc.
-
-Typeface: 10/12 Minion Printer: Quebecor World Dubuque, IA The credits section for this book begins on page 666 and is considered an extension of the copyright page.
 
 Library of Congress Cataloging-in-Publication Data Tillery, Bill W.
 
@@ -27,11 +16,7 @@ p.  cm.
 
 Includes index.
 
-ISBN 978–0–07–340452–3  —  ISBN 0–07–340452–7 (hard copy : alk. paper)
-
 ## 1. Physical sciences. I. Title
-
-Q158.5.T55 2009 500.2—dc22 2008022993 www.mhhe.com
 
 ## BRIEF CONTENTS
 
@@ -385,8 +370,6 @@ Dry steam provides the energy for twenty- three units at this site, which genera
 
 In addition to producing electricity, geothermal hot water is used directly for space heating. Space heating in individual houses is accomplished by piping hot water from one geothermal well. District systems, on the other hand, pipe hot water from one or more geothermal wells to several build- ings, houses, or blocks of houses. Currently, geothermal hot water is used in individual and district space-heating systems at more than 120 locations. There are more than 1,200 potential geothermal sites that could be developed to provide hot water to more than 370 cities in eight states. The creation of such geothermal districts could result in a savings of up to 50 percent over the cost of natural gas heating.
 
-Geothermal hot water is also used directly in greenhouses and aquaculture facilities. There are more than thirty-five large geothermal-energized greenhouses raising vegetables and flowers and more than twenty-five geothermal- energized aquacul- ture facilities raising fish in  Arizona, Cali- fornia, Colorado, Idaho, Montana, Nevada, New York, Oregon, South Dakota, Utah, and Wyoming (see http://geoheat.oit.edu/drsys.
-
 htm. A food dehydration  facility in Nevada, for example, uses geothermal  energy to pro- cess more than 15 million pounds of dried onions and garlic per year. Other uses of geothermal energy include laundries, swim- ming pools, spas, and  resorts. Over two hundred resorts are using geothermal hot water in the United States.
 
 Geothermal energy is considered to be one of the renewable energy resources since the energy supply is maintained by plate  tectonics. Currently, geother- mal energy production is ranked third behind hydroelectricity and biomass but ahead of solar and wind. It has been esti- mated that known  geothermal resources could  supply thousands of megawatts more power beyond current production, and development of the potential direct-use applications could displace the use—and greenhouse gas  emissions—of 18 million barrels of oil per year.
@@ -420,8 +403,6 @@ According to this hypothesis, hot mantle materials rise at the diverging boundar
 As it moves beneath the lithosphere, it drags the overlying plate with it. Eventually, it cools and sinks back inward under a sub duction zone.
 
 There is uncertainty about the existence of convective cells in the asthenosphere and their possible role because of a lack of clear evidence. Seismic data is not refined enough to show convective cell movement beneath the lithosphere. In addition, Myths, Mistakes, & Misunderstandings Bye Bye California?
-
-It is a myth that California will eventually fall off the continent into the ocean. The San Andreas fault is the boundary between the Pacific and North American Plates. The Pacific Plate is mov- ing northwest along the North American Plate at 45 mm per year (about the rate your fingernails grow). The plates are mov- ing horizontally by each other, so there is no reason to believe California will fall into the ocean. However, some 15 million years and millions of earthquakes from now, Los Angeles might be across the bay from San Francisco. See “Earthquakes, Mega Quakes, and the Movies” at http://earthquake.usgs.gov/learning/topics.php?topicID= 36+topic=Myths
 
 ## PREFACE
 
@@ -482,8 +463,6 @@ Bascom became, in 1896, the first woman to work as a geologist on the U.S.
 Geological Survey, spending her summers mapping formations in Pennsylvania, Maryland, and New Jersey, and her win- ters analyzing slides. Her results were published in Geographical Society of America bulletins. In 1924, she became the first woman to be elected a fellow of the Geographical Society and went on, in 1930, to become the first woman vice president. She was associate editor of the American Geologist (1896–1905) and achieved a four-star place in the first edi- tion of American Men and Women of Sci- ence (1906), a sign of how highly regarded she was in her field.
 
 Bascom was the author of over forty research papers. She was an expert on the crystalline rocks of the Appalachian Piedmont, and she published her research on Piedmont geomorphology. Geologists in the Piedmont area still value her contribu- tions, and she is still a powerful model for women seeking status in the field of geol- ogy today.
-
-Source: Modified from the Hutchinson Dictionary of Scientific Biography. © Research Machine’s plc 2006. All Rights Reserved. Helicon Publishing is a division of Research Machines.
 
 ## CHAPTER 1 What Is Science?
 
@@ -695,8 +674,6 @@ Physical Science is accompanied by a variety of multimedia supplementary materia
 
 McGraw-Hill’s ARIS—Assessment, Review, and Instruction System McGraw-Hill’s ARIS for Physical Science is a complete, online electronic homework and course management system designed for greater ease of use than any other system available. Avail- able with the Physical Science eighth edition text, instructors can create and share course materials and assignments with col- leagues with a few clicks of the mouse. All Po werPoint lectures, assignments, quizzes, an instructor’s lab manual, text images, an instructor’s manual, test bank questions, clicker questions, animations, and more are directly tied to text-specific materials in Personal Response Systems Personal Response Systems (“clickers’) can  bring interactivity into the classroom or lecture hall.  Wireless response systems give the instructor and students immediate feedback from the entire class. The wireless response pads are essentially remotes that are easy to use and engage students. Clickers  allow in- structors to motivate student preparation, interactivity, and active learning. Instructors receive immediate feedback to gauge which concepts students understand. Questions cover- ing the content of the Physical Science text and formatted in PowerPoint are available on ARIS for Physical Science.
 
-Computerized Test Bank Online A comprehensive bank of test questions is provided within a computerized test bank powered by McGraw-Hill’s flexible elec- tronic testing program EZ Test Online (www.eztestonline.com).
-
 EZ Test Online allows instructors to create paper and online tests or quizzes in this easy-to-use program!
 
 Imagine being able to create and access your test or quiz anywhere, at any time without installing the testing software.
@@ -731,8 +708,6 @@ Online Scoring and Reporting • Automated scoring for most of EZ Test’s numer
 
 • EZ Test’s grade book is designed to easily export to your grade book.
 
-• View basic statistical reports Support and help • User’s Guide and built-in, page-specific help • Flash tutorials for getting started on the support site • Support website— www.mhhe.com/eztest • Product specialist available at 1-800-331-5094 • Online training: http://auth.mhhe.com/mpss/workshops/
-
 ## PRESENTATION CENTER
 
 Complete set of electronic book images and assets for instructors .
@@ -740,8 +715,6 @@ Complete set of electronic book images and assets for instructors .
 Build instructional materials wherever, whenever, and however you want!
 
 Accessed from your textbook’s ARIS website, Presentation Center is an online digital library containing photos, artwork, animations, and other media types that can be used to create customized lectures, visually enhanced tests and quizzes, com- pelling course websites, or attractive printed support materials.
-
-All assets are copyrighted by McGraw-Hill Higher Education but can be used by instructors for classroom purposes. The visual resources in this collection include: • Art and Photo Library: Full-color digital files of all of the illustrations and many of the photos in the text can be readily incorporated into lecture presentations, exams, or custommade classroom materials.
 
 • Worked Example Library, Table Library, and Numbered Equations Library: Access the worked examples, tables, and equations from the text in electronic format for inclu- sion in your classroom resources.
 
@@ -796,8 +769,6 @@ During his time at Arizona State, Bill taught a variety of courses, including ge
 Bill has attempted to present an interesting, helpful program that will be useful to both students and instructors. Comments and suggestions about how to do a better job of reaching this goal are welcome. Any comments about the text or other parts of the program should be addressed to:
 
 Bill W. Tillery
-
-e-mail: bill.tillery@asu.edu
 
 ## PREFACE
 
@@ -1400,8 +1371,6 @@ person in a peer-reviewed scientifi c journal, and have other scientists indepen
 ## 5. Does the person have something to gain by making the
 
 claim?
-
-CONCEPTS Applied Seekers of Pseudoscience See what you can find out about some recent claims that might not stand up to direct scientific testing. Look into the scientific testing—or lack of testing—behind claims made in relation to cold fusion, cloning human beings, a dowser carrying a forked stick to find water, psychics hired by police departments, Bigfoot, the Bermuda Triangle, and others you might wish to investigate. One source to consider is www.randi.org/jr/archive.html
 
 1-17
 
@@ -3179,8 +3148,6 @@ NEWTON’S LAW OF GRAVITATION You know that if you drop an object, it always fal
 
 You define down as the direction of the object’s movement and up as the opposite direction. Objects fall because of the force of gravity, which accelerates objects at g = 9.8 m/s2 (32 ft/s2) and gives them weight, w = mg.
 
-Gravity is an attractive force, a pull that exists between all objects in the universe. It is a mutual force that, just like all other forces, comes in matched pairs. Since Earth attracts you with a certain force, you must attract Earth with an  exact op- posite force. The magnitude of this force of mutual  attraction depends on several variables. These variables were first described by Newton in Principia, his famous book on motion that was printed in 1687. Newton had, however, worked out his ideas much earlier, by the age of 24, along with ideas about his laws of motion and the formula for centripetal acceleration. In a biography writ- ten by a friend in 1752, Newton stated that the notion of gravita- tion came to mind during a time of  thinking that “was occasioned by the fall of an apple.” He was thinking about why the Moon stays in orbit around Earth rather than moving off in a straight line as would be predicted by the first law of motion. Perhaps the same force that attracts the Moon toward Earth, he thought, at- tracts the apple to Earth. Newton developed a theoretical equa- tion for gravitational force that explained not only the motion of the Moon but the motion of the whole solar system. Today, this relationship is known as the universal law of  gravitation: Every object in the universe is attracted to every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the  distances between them.
-
 FIGURE 2.26 Centripetal force on the ball causes it to change direction continuously, or accelerate into a circular path. Without the unbalanced force acting on it, the ball would continue in a straight line.
 
 Circular path Velocity Centripetal force Radius (r )
@@ -3450,8 +3417,6 @@ Newton’s greatest achievement was to demonstrate that scientific principles ar
 No knowledge can ever be total, but Newton’s example brought about an explo- sion of investigation and discovery that has never really abated. He perhaps foresaw this when he remarked, “To myself, I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.” With his extraordinary insight into the workings of nature and rare tenacity in wresting its secrets and revealing them in as fundamental and concise a way as possible, Newton stands as a colossus of science. In physics, only Archimedes (287–212 b.c.)
 
 and Albert Einstein (1879–1955), who also possessed these qualities, may be compared to him.
-
-Source: Modified from the Hutchinson Dictionary of Scientific Biography. © Research Machines plc 2003. All Rights Reserved. Helicon Publishing is a division of Research Machines.
 
 Now consider what happens if a skydiver tries to pour a cup of coffee while in free fall. Even if you ignore air resistance, you can see that the skydiver is going to have a difficult time, at best.
 
@@ -5095,8 +5060,6 @@ Petroleum is used for gasoline (about 45 percent), diesel (about 40 percent), an
 
 ## COAL
 
-Petroleum and natural gas formed from the remains of tiny organisms that lived millions of years ago. Coal, on the other hand, formed from an accumulation of plant materials that FIGURE 3.19 Primary energy consumed in the United States by source, 2005. Source: Energy Information Administration (www.epa.gov/ owmitmet/basics.html )
-
 Other (geothermal and solar) (1%)
 
 Hydro (3%)
@@ -5118,8 +5081,6 @@ H ave you heard of biodiesel? Biodiesel is a vegetable-based oil that can be use
 Biodiesel can be blended with regular die- sel oil in any amount. Or it can be used 100 percent pure in diesel cars, trucks, and buses, or as home heating oil.
 
 Why would we want to use vegetable oil to run diesel engines? First, it is a sustain- able (or renewable) resource. It also reduces dependency on foreign oil, as well as cuts the trade deficit. It runs smoother, produces less exhaust smoke, and reduces the health risks associated with petroleum diesel. The only negative aspect seems to occur when recycled oil from fast-food restaurants is used. People behind such a biodiesel- powered school bus complained that it smelled like fried potatoes, making them hungry.
-
-There is a website maintained by some biodiesel users where you can learn how to produce your own biodiesel from algae. See www.biodieselnow.com and search for the term algae.
 
 needs. Then petroleum began making increased contributions to the energy supply. Now increased economic and environ- mental constraints and a decreasing supply of petroleum are producing another supply shift. The present petroleum-based energy era is about to shift to a new energy era.
 
@@ -5152,8 +5113,6 @@ studied the relationship between electri- cal, mechanical, and chemical effects 
 One great value of Joule’s work was the variety and completeness of his experimental evidence. He showed that the same relation- ship could be examined experimentally and that the ratio of equivalence of the different forms of energy did not depend on how one form was converted into another or on the materials involved. The principle that Joule had established is that energy  cannot be cre- ated or destroyed but only transformed.
 
 Joule lives on in the use of his name to measure energy, supplanting earlier units such as the erg and calorie. It is an appropri- ate reflection of his great experimental abil- ity and his tenacity in establishing a basic law of science.
-
-James Prescott Joule Source: Modified from the Hutchinson Dictionary of Scientific Biography. © Research Machines plc 2003. All Rights Reserved. Helicon Publishing is a division of Research  Machines.
 
 collected under special conditions millions of years ago. Thus, petroleum, natural gas, and coal are called fossil fuels. Fossil fuels contain the stored radiant energy of organisms that lived millions of years ago.
 
@@ -6785,8 +6744,6 @@ A perpetual motion machine that violates the first law of thermodynamics is call
 
 A “machine of the second kind” does not attempt to make energy out of nothing. Instead, it tries to extract either random molecular motion into useful work or useful energy from some degraded source, such as outgoing radiant energy. The second law of thermodynamics says this cannot happen any more than rocks can roll uphill on their own. This just does not happen.
 
-The American Physical Society states, “The American Phys- ical Society deplores attempts to mislead and defraud the pub- lic based on claims of perpetual motion machines or sources of unlimited useful free energy, unsubstantiated by experimentally tested established physical principles.” Visit www.phact.org/e/dennis4.html to see a historical list of perpetual motion and free energy machines.
-
 ## THE SECOND LAW AND NATURAL
 
 ## PROCESSES
@@ -6832,8 +6789,6 @@ Smoky fireplaces also drew his attention, and after a study of the various air m
 The work for which Rumford is best remembered took place in 1798. As mili- tary commander for the elector of Bavaria, he was concerned with the manufacture of cannons. These were bored from blocks of iron with drills, and it was believed that the cannons became hot because as the drills cut into the iron, heat was escaping in the form of a fluid called caloric. How- ever, Rumford noticed that heat produc- tion increased as the drills became blunter and cut less into the metal. If a very blunt drill was used, no metal was removed, yet the heat output appeared to be limit- less. Clearly, heat could not be a fluid in the metal but must be related to the work done in turning the drill. Rumford also studied the expansion of liquids of differ- ent densities and different specific heats, and showed by careful weighing that the expansion was not due to caloric taking up the extra space.
 
 Rumford’s contribution to science in demolishing the caloric theory of heat was very important, because it paved the way to the realization that heat is related to  energy and work, and that all forms of energy can be converted to heat. However, it took sev- eral decades to establish the understanding that caloric does not exist and there was no basis for the caloric theory of heat.
-
-Source: Modified from the Hutchinson Dictionary of Scientific Biography.  © Research Machines plc 2003. All Rights Reserved.  Helicon Publishing is a division of Research Machines.
 
 4-23
 
@@ -8260,8 +8215,6 @@ The first experimental test of Doppler’s principle was made in 1845 at Utrecht
 Doppler correctly suggested that his principle would apply to any wave motion and cited light as an example as well as sound.
 
 He believed that all stars emit white light and that differences in color are observed on earth because the motion of stars affects the observed frequency of the light and hence its color. This idea was not universally true, as stars vary in their basic color. However, Armand Fizeau (1819–1896) pointed out in 1848 that shifts in the spectral lines of stars could be observed and ascribed to the Dop- pler effect and hence enable their motion to be determined. This idea was first applied in 1868 by  William Huggins (1824–1910), who found that S irius is moving away from the solar system by detecting a small red- shift in its spectrum. With the linking of the velocity of a galaxy to its distance by Edwin Hubble (1889–1953) in 1929, it became possible to use the redshift to determine the distances of galaxies. Thus, the prin- ciple that Doppler discovered to explain an everyday and inconsequential effect in sound turned out to be of truly cosmological importance.
-
-Johann Christian Doppler Source: From the Hutchinson Dictionary of Scientific Biography. © Research Machines plc 2003. All Rights Reserved. Helicon Publishing is a division of Research Machines.
 
 ## CHAPTER 5 Wave Motions and Sound
 

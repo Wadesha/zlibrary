@@ -328,8 +328,6 @@ and even rafting.
 
 Today’s ocean liners provide a popular way for people to get from one place to another and to vacation on the way.
 
-© Melvyn P.
-
 ## Lawes—Papilio/Corbis
 
 ## S U B M A R I N E S
@@ -395,8 +393,6 @@ DID YOU KNOW?
 officers can stand on top of the conning tower.
 
 That’s the raised deck of the ship.
-
-## © George Hall/Corbis
 
 ## P A P E R
 
@@ -472,10 +468,6 @@ LEARN MORE!
 
 纸张变得更便宜、更容易制作。
 
-## © Philip Gould/Corbis
-
-© 2008 Encyclopædia Britannica, Inc.
-
 在大约550年前，很少有人拥有书籍。
 
 事实上，当时并没有多少书籍可以拥有。
@@ -528,8 +520,6 @@ LEARN MORE!
 
 但背景中的印刷机是这位发明家所用设备的相当准确的图像。
 
-## © Bettmann/Corbis
-
 路易·布莱叶在他年仅15岁时就完成了为盲人设计的凸点字母表。
 
 一个人甚至可以通过布莱叶系统学习阅读乐谱。
@@ -543,8 +533,6 @@ Inc.
 那时，他已经失明多少年了？
 
 答案：路易·布莱叶在他发明字母表时已经失明12年。
-
-© 2008 Encyclopædia Britannica, Inc.
 
 175多年前在法国，年轻的路易·布莱叶想出了帮助盲人阅读和写作的方法。
 

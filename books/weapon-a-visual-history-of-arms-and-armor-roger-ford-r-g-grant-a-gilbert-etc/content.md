@@ -1,17 +1,10 @@
 # Weapon A Visual History of Arms and Armor Roger Ford R G Grant A Gilbert etc Z Library
 
-> 来源文件：pre_Weapon_A_Visual_History_of_Arms_and_Armor_Roger_Ford_R_G_Grant_A_Gilbert_etc_Z_Library.txt
-> 字符数（约）：717384
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 weapon b a v i s u a l h i s t o r y o f a r m s a n d a r m o r
 
 weapon
 
 weapon A  V I S U A L  h i s t o r y  o f  a r m s  a n d  a r m o r
-
-London, New York, Melbourne, munich and delhi Senior Art Editors  Sunita Gahir, Sharon Spencer Art Editors  Paul Drislane, Michael Duffy Designers  Philip Fitzgerald, Tim Lane, Peter Radcliffe DTP Designers  John Goldsmid, Sharon McGoldrick Senior Editor  Paula Regan Project Editors  May Corfield, Tarda Davison-Aitkins, Nicola Hodgson, Cathy Marriott, Steve Setford,  Andrew Szudek US Editor  Jenny Siklos Picture Researcher  Sarah Smithies DK Picture Librarian  Romaine Werblow Photography  Gary Ombler Illustrations  KJA-artists.com Production Controller Elizabeth Warman Managing Art Editor  Karen Self Art Director  Bryn Walls Managing Editor  Debra Wolter Publisher  Jonathan Metcalf Consultants at the Royal Armouries Philip Abbott, Head of Library Services Ian Bottomley, Senior Curator of Arms and Armour Mark Murray Flutter, Senior Curator of Firearms Thom Richardson, Keeper of Armour Bob Woosnam Savage, Senior Curator of Edged Weapons Peter Smithhurst, Keeper of Weapons First American Edition, 2006 DK Publishing 375 Hudson Street, New York, New York 10014 A Penguin company Copyright © 2006 Dorling Kindersley Limited Foreword © 2006 Richard Holmes 2  4  6  8  10  9  7  5  3  1 be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior written permission of the copyright owner.
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -21,17 +14,9 @@ p. cm.
 
 Includes index.
 
-ISBN-13: 978-0-7566-2210-7
-
-ISBN-10: 0-7566-2210-7
-
 ## 1.  Military weapons--History
 
 U800.W37 2006
-
-623.4--dc22 2006016165 ISBN-13: 978-0-7566-2210-7 ISBN-10: 0-7566-2210-7 Color reproduction by GRB, Italy Printed and bound in China by Hung Hing
-
-Discover more at www.dk.com Foreword Introduction the ancient world
 
 (3000 bce–1000 ce)
 

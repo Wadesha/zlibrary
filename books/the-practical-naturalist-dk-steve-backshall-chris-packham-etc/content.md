@@ -1,10 +1,5 @@
 # The Practical Naturalist DK Steve Backshall Chris Packham etc Z Library
 
-> 来源文件：pre_The_Practical_Naturalist_DK_Steve_Backshall_Chris_Packham_etc_Z_Library.txt
-> 字符数（约）：406151
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 -`XTWZM\PM_WVLMZ[WN\PMVI\]ZIT_WZTL -`XTWZM\PM_WVLMZ[WN\PMVI\]ZIT_WZTL
 
 thePraÀical NaturaliÌ
@@ -15,25 +10,13 @@ First American Edition, 2010
 
 Published in the United States by DK Publishing 375 Hudson Street New York, New York 10014
 
-10 11 12 13 14 10 9 8 7 6 5 4 3 2 1 Copyright © 2010 Dorling Kindersley Limited
-
-## Chapter introductions copyright © Chris Packham
-
-above, no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise) without prior written permission of the copyright owner and the above publisher of this book.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
 
-## ISBN 978-0-7566-5899-1
-
-DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details contact: DK Publishing Special Markets, 375 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
 Color reproduction by Media Development Printing Ltd, UK.
 
 Printed and bound by Tien Wah Press, Singapore.
-
-Discover more at www.dk.com LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI Senior Art Editor Maxine Pedliham
 
 Designers Rebecca Tennant, Silke Spingies, Simon Murrell, Stephen Knowlden, Elaine Hewson
 
@@ -1323,8 +1306,6 @@ Uploading your records onto your computer allows you to easily retrieve data col
 
 ## BIRDWATCHING
 
-Your data can form part of a regional or national bird survey. Programmes all over the world, such as www.ebird.org in the USA, pool together data from naturalists.
-
 Fill in the general shape and revise the bird’s proportions. Is it upright, horizontal, slim, chubby, or long- or short-legged?
 
 ## SKETCHING
@@ -1718,8 +1699,6 @@ bird tables can be suspended from trees by chains low bird tables may be used by
 tube feeders can be hung from tree branches or from brackets on walls caged feeder allows birds to feed on the ground without predators or scavengers getting in elevated bird table fairly close to the house gives a good view of feeding birds
 
 ## GREAT BACKYARD BIRD COUNT
-
-Why not get involved with the Audubon’s Great Backyard Bird Count? This annual four-day event takes place in February. To take part you simply note birds anywhere for as little or as long as you wish during the allotted period. You then report your ﬁndings back online. For more information visit http://www.birdcount.org. You can also report your birdwatching activities through www.ebird.org.
 
 Close to home windows kill birds that ﬂy into them, locate feeders either within 3⅓ ft (1 m) or more than 33 ft (10 m) away
 

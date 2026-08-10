@@ -1,17 +1,8 @@
 # 心理学之书 DK Z Library
 
-> 来源文件：pre_The_Psychology_Book_DK_Z_Library.txt
-> 字符数（约）：827841
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-《心理学之书》 《心理学之书》 伦敦、纽约、墨尔本、慕尼黑、德里 DK 伦敦 DK 德里 第一美版 2012 项目美术编辑 项目美术编辑 在美国由 Amy Orsborne、Shruti Soharia Singh 通过 DK 出版公司出版 高级编辑 高级美术编辑 哈得孙街375号 Sam Atkinson、Sarah Tomley Chhaya Sajwan 纽约州纽约市 10014 编辑 管理美术编辑 2 4 6 8 10 9 7 5 3 1 Cecile Landau、Scarlett O’Hara Arunesh Talapatra 001—181320—2012年2月 美国编辑 高级编辑 版权©2012 Rebecca G. Warren Monica Saigal Dorling Kindersley 有限公司 Karen Self Sreshtha Bhattacharya、Gaurav Joshi 在不限制上述所保留版权权利的前提下，本出版物的任何部分，未经版权所有者及本书上述出版商双方事先书面许可，不得以任何形式或通过任何方式（电子、机械、影印、录音或其他方式）复制、储存或引入检索系统，或予以传播。 美术总监 DTP 经理/CTS Philip Ormerod Balwant Singh 副 DTP 设计师 出版总监 Arvind Kumar、Rajesh Singh Adhikari Liz Wheeler DTP 操作员 出版总监 Vishal Bhatia
-
 Jonathan Metcalf 于英国由 Dorling Kindersley 有限公司出版，装帧设计由 Dorling Kindersley 有限公司负责。
 
 插图 STUDIO8 DESIGN 本书的编目记录可由 James Graham 向美国国会图书馆获取。
-
-图片研究 Myriam Megharbi ISBN：978-0-7566-8970-4 DK 图书在批量采购用于促销、赠品、筹款或教育用途时，可享受特别折扣。详情请联系：DK 出版公司 特价市场部，哈得孙街375号，纽约州纽约市 10014，或发送邮件至 SpecialSales@dk.com。访问 www.dk.com 了解更多。 制作编辑 Tony Phipps 印刷与装订于中国，由 Leo Paper Products 有限公司承印 制作统筹 Angela Graef 撰稿人 CATHERINE COLLIN VOULA GRAND 凯瑟琳·柯林是我们的顾问，她是一位临床心理学家，任普利茅斯大学心理治疗（Psychological Therapies）副教授（高级讲师），其兴趣在于初级保健与认知行为疗法。 芙拉·格兰是一位商业心理学家，为跨国企业提供领导力与高管绩效方面的咨询。她的第一部小说是《荣誉的阴影》（Honor’s Shadow），目前正在撰写续集《荣誉的幽灵》（Honor’s Ghost）。
 
 NIGEL BENSON MERRIN LAZYAN 奈杰尔·本森是一位哲学与心理学讲师，写过数本心理学畅销书，包括《初学者心理学》（Psychology for Beginners）和《精神病学入门》（Introducing Psychiatry）。 梅林·拉齐安是一位作家、编辑和古典歌手，曾在哈佛大学学习心理学，并参与过多本虚构与非虚构图书的撰写，涉猎广泛。
 
@@ -7974,4 +7965,3 @@ DK出版社（Dorling Kindersley）谨此感谢Shriya Parameswaran、Neha Sharma
 All other images © Dorling Kindersley. 更多信息请见：www.dkimages.co.uk ~StormRG~
 
 图片来源（部分）：Getty Images、Corbis、Alamy Images、The Bridgeman Art Library、Science Photo Library、Wellcome Images、Library of Congress、National Library of Medicine、Yale University Library、Stanford University、Columbia University、University of California、Harvard University、Cambridge University、Oxford University 等机构与图片社。具体页码与图版归属详见原书图片版权页。
-

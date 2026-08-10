@@ -1,10 +1,5 @@
 # Letters to a Young Scientist Edward O Wilson Z Library
 
-> 来源文件：pre_Letters_to_a_Young_Scientist_Edward_O_Wilson_Z_Library.txt
-> 字符数（约）：253936
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 LETTERS to a YOUNG SCIENTIST
 
 Edward O. Wilson
@@ -69,8 +64,6 @@ V. TRUTH AND ETHICS
 
 ## PHOTOGRAPH CREDITS
 
-About the Author Copyright Also by Edward O. Wilson
-
 Prologue
 
 ## YOU MADE THE RIGHT CHOICE
@@ -110,8 +103,6 @@ Harvard University was similarly tolerant when I arrived as a Ph.D. student in 1
 I’ve told you my Pushmataha-to-Harvard story not to recommend my kind of eccentricity (although in the right circumstances it could be of advantage); and I disavow my casual approach to early formal education. I grew up in a different age. You, in contrast, are well into a different era, where opportunity is broader but more demanding.
 
 My confessional instead is intended to illustrate an important principle I’ve seen unfold in the careers of many successful scientists. It is quite simple: put passion ahead of training. Feel out in any way you can what you most want to do in science, or technology, or some other science-related profession. Obey that passion as long as it lasts. Feed it with the knowledge the mind needs to grow. Sample other subjects, acquire a general education in science, and be smart enough to switch to a greater love if one appears. But don’t just drift through courses in science hoping that love will come to you. Maybe it will, but don’t take the chance. As in other big choices in your life, there is too much at stake. Decision and hard work based on enduring passion will never fail you.
-
-Reconstructed path of the “Trojan” asteroid 2010 TK7, during 165 years, seen from outside Earth’s orbit. Modified from drawing. © Paul Wiegert, University of Western Ontario.
 
 Two
 
@@ -172,8 +163,6 @@ This imbalance in the role of observation and mathematics is especially the case
 If your level of mathematical competence is low, plan on raising it, but meanwhile know that you can do outstanding work with what you have. Such is markedly true in fields built largely upon the amassing of data, including, for example, taxonomy, ecology, biogeography, geology, and archaeology. At the same time, think twice about specializing in fields that require a close alternation of experiment and quantitative analysis. These include the greater part of physics and chemistry, as well as a few specialties within molecular biology. Learn the basics of improving your mathematical literacy as you go along, but if you remain weak in mathematics, seek happiness elsewhere among the vast array of scientific specialties. Conversely, if tinkering and mathematical analysis give you joy, but not the amassing of data for their own sake, stay away from taxonomy and the other more descriptive disciplines just listed.
 
 Newton, for example, invented calculus in order to give substance to his imagination. Darwin by his own admission had little or no mathematical ability, but was able with masses of information he had accumulated to conceive a process to which mathematics was later applied. An important step for you to take is to find a subject congenial to your level of mathematical competence that also interests you deeply, and focus on it. In so doing, keep in mind Principle Number Two: For every scientist, whether researcher, technologist, or teacher, of whatever competence in mathematics, there exists a discipline in science for which that level of mathematical competence is enough to achieve excellence.
-
-A relativistic jet formed as gas and stars fall into a black hole; artist’s conception. Modified from painting by Dana Berry of the Space Telescope Science Institute (STScI). http://hubblesite.org/newscenter/archive/releases/1990/29/image/a/warn/.
 
 Three
 

@@ -1,10 +1,5 @@
 # 穿越时光的孩子：儿童历史之书（菲利普·威尔金森 著，史蒂夫·努恩 绘）
 
-> 来源文件：pre_A_Child_Through_Time_The_Book_of_Children_s_History_Philip_Wilkinson_Steve_Noon_Z_Library.txt
-> 字符数（约）：167859
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 儿童历史之书 插图：史蒂夫·努恩 文字：菲利普·威尔金森
 
 早期文明 塔雅，冰河时代的孩子（公元前17000年）
@@ -31,13 +26,9 @@
 
 十字军东征 武者，武士的孩子（1109年）
 
-詹姆斯·迪利（James Dilley） 英国南安普顿大学考古学家、欧洲史前史专家 安德鲁·罗宾逊（Andrew Robinson） 印度河流域专家，撰写了25本以上涵盖艺术与科学的著作 安吉拉·麦克唐纳（Angela McDonald） 英国格拉斯哥大学埃及学专家 埃莉诺·罗布森（Eleanor Robson） 英国伦敦大学学院古巴比伦专家 找一找 目录 专家团队 高级编辑 Sam Priddy 高级美术编辑 Fiona Macdonald 项目编辑 Allison Singer 编辑助理 Sarah Foakes、Kathleen Teece 设计助理 Rhea Gaughan、Molly Lattin、Bettina Myklebust Stovne 补充编辑 Deborah Lock、Ruth O'Rourke-Jones、Elizabeth Yeates 美国高级编辑 Margaret Parrish 护封协调 Francesca Young 前期制作统筹 Nadine King 制作人 Isabell Schart 管理编辑 Laura Gilbert 管理美术编辑 Diane Peyton Jones 艺术总监 Martin Wilson 出版人 Sarah Larter 出版总监 Sophie Mitchell 美国初版，2017年 由DK Publishing在美国出版，地址：纽约州纽约市哈德逊街345号，邮编10014 版权所有 © 2017 Dorling Kindersley Limited DK，企鹅兰登书屋集团旗下公司 17 18 19 20 21 10 9 8 7 6 5 4 3 2 1 001-192633-Nov/2017 在不限制上述所保留版权权利的前提下，本出版物的任何部分不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存于检索系统或传播，未经版权所有者事先书面许可不得为之。
-
 由英国多林·金德斯利有限公司（Dorling Kindersley Limited）出版。
 
 本书的编目记录可向美国国会图书馆索取。
-
-ISBN：978-1-4654-4493-6 DK图书在批量购买用于促销、赠品、筹款或教育用途时可享受特别折扣。详情请联系：DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com 印刷及装订于香港 思想的王国：探索一切可知之事 www.dk.com 真实人物 当你在书中看到这个标志时，表示这个孩子是真实存在过的人物。
 
 看看你能否在每个场景里找到那只藏起来的鸽子！
 
@@ -2730,4 +2721,3 @@ Dorling Kindersley: The Trustees of the British Museum (bc). 127 Dorling Kinders
 封面图片：封面（Front）：Dorling Kindersley: Steve Noon cl/ (Su-gyeong), cl/ (Betim), cl/ (Seamus), c/ (Ixchel), c/ (Bernhard), c/ (Taya), cr/ (Mariam), cr/ (Hiren)；封底（Back）：Dorling Kindersley: Maidstone Museum and Bentliff Art Gallery cla, Steve Noon clb, cb/ (2nd in row), cb/ (3rd in row), crb；书脊（Spine）：Dorling Kindersley: Steve Noon c, cb/ (2nd in Column), cb/ (3rd in Column)
 
 所有其他图片 © Dorling Kindersley 更多信息请参阅：www.dkimages.com
-

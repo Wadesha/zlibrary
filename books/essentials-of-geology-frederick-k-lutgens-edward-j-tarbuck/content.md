@@ -1,10 +1,5 @@
 # Essentials of geology Frederick K Lutgens Edward J Tarbuck Z Library
 
-> 来源文件：pre_Essentials_of_geology_Frederick_K_Lutgens_Edward_J_Tarbuck_Z_Library.txt
-> 字符数（约）：1888624
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 This page intentionally left blank
 
 ESSENTIALS OF GEOLOGY
@@ -17,23 +12,15 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 0-321-71472-5
-
 ## 1.  Geology—Textbooks.  I. Tarbuck, Edward J. II. Title
 
 QE26.3.L87 2012 550—dc22 2010034466 Acquisitions Editor, Geology: Andrew Dunaway Marketing Manager: Maureen McLaughlin Project Editor: Crissy Dudonis Assistant Editor: Sean Hale Editorial Assistant: Michelle White Marketing Assistant: Nicola Houston VP/Executive Director, Development: Carol Trueheart Development Editor: Melissa Parkin Managing Editor, Geosciences and Chemistry: Gina M. Cheselka Project Manager: Edward Thomas Full Service/Composition: Preparé, Inc.
 
-Production Editor, Full Service: Francesca Monaco Art Director: Marilyn Perry Cover and Interior Design: Yin Ling Wong Senior Technical Art Specialist: Connie Long Art Studio: Spatial Graphics Photo Research Manager: Elaine Soares Photo Researcher: Kristin Piljay Senior Manufacturing and Operations Manager: Nick Sklitsis Operations Specialist: Maura Zaldivar Senior Media Producer: Angela Bernhardt Media Producer: Ziki Dekel Media Supervisor: Liz Winer Associate Media Project Manager: David Chavez Cover Photo: Hikers in “The Narrows” of the Virgin River, Zion National Park, Utah. (Photo by Stacey May, http://merrilyrollingalong.com)
-
 Title page photo: Devil's Tower, Wyoming. (Photo by Michael Collier)
-
-©2012, 2009, 2006 by Pearson Education, Inc.
 
 Pearson Prentice Hall Pearson Education, Inc.
 
 Upper Saddle River, New Jersey 07458 Pearson Prentice Hall™ is a trademark of Pearson Education, Inc.
-
-Printed in the United States of America 10 9 8 7 6 5 4 3 2 1 ISBN-10: 0-321-71472-5 / ISBN-13: 978-0-321-71472-5
 
 To Our Grandchildren Allison and Lauren Shannon, Amy, Andy, Ali, and Michael Each is a bright promise for the future
 
@@ -78,8 +65,6 @@ Topographic Maps
 ## Appendix C
 
 Landforms of the Conterminous United States Glossary Index
-
-The newest version of GEODe: Essentials of Geology interactive learning aid can be accessed from the book’s Premium Website (www.mygeoscienceplace.com). This dynamic instructional tool reinforces key concepts using tutorials, animations, and interactive exercises. The GEODe: Essentials of Geology icon appears throughout the book wherever a text discussion has a corresponding GEODe activity on mygeoscienceplace.com.
 
 An Introduction to Geology Matter and Minerals Igneous Rocks and Intrusive Activity Volcanoes and Volcanic Hazards Weathering and Soils Sedimentary Rocks Metamorphism and Metamorphic Rocks Mass Wasting: The Work of Gravity Running Water Groundwater Glaciers and Glaciation Deserts and Wind Shorelines Earthquakes and Earth’s Interior (Part A)
 
@@ -731,8 +716,6 @@ Course Management Prentice Hall offers instructor and student media for the Elev
 
 For the Student The student resources to accompany Essentials of Geology, Eleventh Edition have been further refined with the goal of focusing students’ efforts and improving their understanding of the concepts of geology.
 
-MyGeosciencePlace The Lutgens Essentials of Geology premium website on www.mygeoscienceplace.com has been completely revamped.  It now houses over 100 animations from Geoscience Animation Library, GEODe: Essentials of Geology; and a Pearson eText. By migrating these three dynamic media assets online we have made them all easily assignable and allowed student responses to be easily assessed. Chapter quizzes, web links, and flashcards are all included for further study.
-
 C H A P T E R
 
 O N E An Introduction to Geology
@@ -778,8 +761,6 @@ What is the theory of plate tectonics? How do the three types of plate boundarie
 ## CHAPTER
 
 An Introduction to Geology The Science of Geology The subject of this text is geology, from the Greek geo, “Earth,” and logos, “discourse.” It is the science that pursues an understand- ing of planet Earth. Geology is traditionally divided into two broad areas—physical and historical. Physical geology examines the materials composing Earth and seeks to understand the many processes that operate beneath and upon its surface (FIGURE 1.1). The aim of historical geology, on the other hand, is to understand the ori- gin of Earth and its development through time. Thus, it strives to establish a chrono- logical arrangement of the multitude of physical and biological changes that have occurred in the geologic past. The study of physical geology logically precedes the study of Earth history because we must first understand how Earth works before we attempt to unravel its past. It should also be pointed out that physical and historical geology are divided into many areas of spe- cialization. TABLE 1.1 provides a partial list.
-
-TABLE 1.1 Different Areas of Geologic Study* Archaeological Geology Ocean Sciences Biogeosciences Paleoclimatology Engineering Geology Paleontology Forensic Geology Petrology Geochemistry Planetary Geology Geomorphology Sedimentary Geology Geophysics Seismology History of Geology Structural Geology Hydrogeology Tectonics Medical Geology Volcanology Mineralogy * Many of these areas of study represent interest sections and specialties of associated societies affiliated with the Geological Society of America (www.geosociety.org) and the American Geophysical Union (www.agu.org), two professional societies to which many geologists belong.
 
 Every chapter of this book represents one or more areas of specialization in geology.
 
@@ -838,8 +819,6 @@ Certainly, the most influential Greek philosopher was Aristotle. Unfortunately, 
 He believed that rocks were created under the “influence” of the stars and that earthquakes occurred when air in the ground was heated by central fires and escaped explosively!
 
 When confronted with a fossil fish, he explained that “a great many fishes live in the earth motionless and are found when excavations are made.” Although Aristotle’s explanations may have been adequate for his day, they unfortunately continued to be expounded for many centuries, thus thwarting the acceptance of more up-to-date ideas.
-
-Catastrophism In the mid-1600s James Ussher, Anglican Archbishop of Armagh, Primate of all Ireland, published a major work that had immediate and profound influences. A respected scholar of the Bible, Ussher constructed a chronology of human and Earth history in which he determined that Earth was only a few thousand years old, having been created in 4004 BC. Ussher’s treatise earned widespread acceptance among Europe’s scientific and religious leaders, and his chronology was soon printed in the margins of the Bible itself.
 
 ## CHAPTER
 
@@ -1208,8 +1187,6 @@ GEODe
 FIGURE 1.20 Texture and mineral composition are important rock properties that allow geologists to determine much about how and where the rock formed. A. Gneiss is a metamorphic rock and B. Granite porphyry is an igneous rock. (Photos by E. J. Tarbuck)
 
 C.
-
-FIGURE 1.21 A. This fine-grained rock, called basalt, is part of a lava flow from Sunset Crater in northern Arizona. It formed when molten rock erupted at Earth’s surface hundreds of years ago and solidified. (Photo by Dennis Tasa) B. This rock is exposed in the walls of southern Utah’s Zion National Park. This layer, known as the Navajo Sandstone, consists of durable grains of the glassy mineral quartz that once covered this region with mile after mile of drifting sand dunes. (Photo by Jamie & Judy Wild www.DanitaDelimont.com)
 
 C. This rock unit, known as the Vishnu Schist, is exposed in the inner gorge of the Grand Canyon. Its formation is associated with environments far below Earth’s surface where temperatures and pressures are high and with ancient mountain-building processes that occurred in Precambrian time. (Photo by Dennis Tasa)
 
@@ -2114,8 +2091,6 @@ Look at the concept map linking the four spheres of the Earth sys- tem. All of t
 Atmosphere Hydrosphere Biosphere Geosphere Refer to Figure 1.27 showing major features and topography of Earth’s solid surface. Give an example of where you would expect to find (a) very old, deformed rocks, and (b) young undisturbed rocks.
 
 Explain your choices.
-
-Companion Website www.mygeoscienceplace.com The Essentials of Geology, 11e companion Website contains numerous multimedia resources accompanied by assessments to aid in your study of the topics in this chapter. The use of this site's learning tools will help improve your understanding of geology.  Utilizing the access code that accompanies this text, visit www.mygeoscienceplace.com in order to: • Review key chapter concepts.
 
 • Read with links to the Pearson eText and to chapter-specific web resources.
 
@@ -3103,8 +3078,6 @@ tenacity (p. 46)
 
 valence electrons (p. 40)
 
-Companion Website Companion Website www.mygeoscienceplace.com The Essentials of Geology, 11e companion Website contains numerous multimedia resources accompanied by assessments to aid in your study of the topics in this chapter. The use of this site's learning tools will help improve your understanding of geology.  Utilizing the access code that accompanies this text, visit www.mygeoscienceplace.com in order to: • Review key chapter concepts.
-
 • Read with links to the Pearson eText and to chapter-specific web resources.
 
 • Visualize and comprehend challenging topics using the learning activities in GEODe: Essentials of Geology and the Geoscience Animations Library.
@@ -4090,8 +4063,6 @@ c. A huge expanse of granitic rock forming a mountainous terrain tens of kilomet
 d. A relatively thin layer of basalt sandwiched between layers of sedimentary rocks exposed on the side of a canyon.
 
 During a field trip with your geology class you visit an exposure of rock layers similar to the one sketched here. A fellow student sug- gests that the layer of basalt is a sill. You, however, disagree. Why do you think the other student is incorrect? What is a more likely explanation for the basalt layer?
-
-Companion Website Companion Website www.mygeoscienceplace.com The Essentials of Geology, 11e companion Website contains numerous multimedia resources accompanied by assessments to aid in your study of the topics in this chapter. The use of this site's learning tools will help improve your understanding of geology.  Utilizing the access code that accompanies this text, visit www.mygeoscienceplace.com in order to: • Review key chapter concepts.
 
 • Read with links to the Pearson eText and to chapter-specific web resources.
 
@@ -5106,8 +5077,6 @@ Imagine you are a geologist charged with the task of choosing three sites where 
 Explain why an eruption of Mount Rainier, similar to the one that occurred at Mount St. Helens in 1980, would be considerably more destructive.
 
 (Photo by Simon Phipps)
-
-Companion Website www.mygeoscienceplace.com The Essentials of Geology, 11e companion Website contains numerous multimedia resources accompanied by assessments to aid in your study of the topics in this chapter. The use of this site's learning tools will help improve your understanding of geology.  Utilizing the access code that accompanies this text, visit www.mygeoscienceplace.com in order to: • Review key chapter concepts.
 
 • Read with links to the Pearson eText and to chapter-specific web resources.
 

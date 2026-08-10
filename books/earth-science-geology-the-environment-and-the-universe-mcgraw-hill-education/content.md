@@ -1,10 +1,5 @@
 # Earth Science Geology the Environment and the Universe McGraw Hill Education Z Library
 
-> 来源文件：pre_Earth_Science_Geology_the_Environment_and_the_Universe_McGraw_Hill_Education_Z_Library.txt
-> 字符数（约）：2074881
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Go to the National Geographic Expedition on page 864 to learn more about topics that are con- nected to this unit.
 
 Earth Science E arth science is a blend of many different sciences, including geology, meteorology, oceanography, and astronomy. Earth scientists in these different specialties study and model the processes that change our planet.

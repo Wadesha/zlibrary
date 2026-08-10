@@ -1,10 +1,5 @@
 # Rock paper scissors game theory in everyday life Len Fisher Z Library
 
-> 来源文件：pre_Rock_paper_scissors_game_theory_in_everyday_life_Len_Fisher_Z_Library.txt
-> 字符数（约）：447380
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Praise for Rock, Paper, Scissors
 
 “Rock, Paper, Scissors brings the evolution of cooperation to everyone with a succinct summary of how these exciting ideas change the way we look at the world and the way we think.” —John R. Hauser, Kirin Professor of Marketing, MIT Sloan School of Management
@@ -23,17 +18,11 @@ How to Dunk a Doughnut Weighing the Soul
 
 A Member of the Perseus Books Group New York
 
-Copyright © 2008 by Len Fisher Published by Basic Books, A Member of the Perseus Books Group Every effort has been made to contact copyright owners and obtain necessary permissions. In the case of any inadvertent oversights, we would be pleased to hear from the copyright owners and to make the necessary adjustments in any future edition.
-
-Books published by Basic Books are available at special discounts for bulk purchases in the United States by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 2300 Chestnut Street, Suite 200, Philadelphia, PA 19103, or call (800) 810-4145, ext. 5000, or e-mail special.markets@perseusbooks.com.
-
 Library of Congress Cataloging-in-Publication Data Fisher, Len.
 
 Rock, paper, scissors : game theory in everyday life / Len Fisher.
 
 p. cm.
-
-ISBN 978-0-465-00938-1
 
 ## 1. Game theory. I. Title
 
@@ -328,8 +317,6 @@ The I Cut and You Choose strategy is a scaled-down version of Equal Division of 
 So far, so fair. But we also had a younger brother, and when he became old enough to do his share of the jobs, all hell broke loose. With three of us to share the jobs, it seemed impossible to divide up the list of chores and share out the three sublists without arguments. We never managed to balance the lists fairly without subdividing some jobs, and even then there were arguments that led to further subdivisions, and so on in a process that seemed to have no end.
 
 We didn’t know it, but we were replicating some of the early efforts (and dilemmas) of mathematicians to solve the cake-cutting problem when more than two people are involved. One of the problems (even with a cake) is that the initial division into three parts is bound to produce slightly unequal segments in practice. This means that the first person to make a choice can pick the larger one, to the envy of the other two.
-
-The earliest attempts to resolve the problem produced a complicated procedure that started with the person who took the first choice (and the largest slice) being required to cut a sliver from it to be further subdivided. Unfortunately this procedure produced an infinite cascade of division and subdivision, as happened with my brothers and me. It wasn’t until 1995 that Steven Brams from New York University and Alan Taylor from Union College came up with a practical solution that had a finite number of steps. Their calculations were cumbersome, but they were manageable with the aid of computers. Brams and Taylor subsequently patented a procedure for the fair allocation of multiple goods based on the concept of the “adjusted winner.” Their basic principle was to take account of the fact that different people can attach different values to the same assets, so a division between two parties, for example, can be worked out in such a way that each party gets more than 50 percent as they perceive it—a win-win solution if ever there was one, equally applicable to birthday parties and legal parties! Their method (now licensed to Fair Outcomes Inc. at www.fairoutcomes.com) and its potential applications are described in their book The Win-Win Solution: Guaranteeing Fair Shares for Everyone.
 
 One of those applications is in the negotiation of land rights and other territorial deals, in which considerable progress is now being made in working out more fair and equitable approaches. A more surprising application is to voting. In this case the problem of ensuring fair and equal representation in a democracy is simply the cake-cutting problem applied to millions of voters so that all of their votes have equal weight. Interestingly, no current voting system comes close to being representative when judged in the light of the Brams-Taylor solution. To give one example, the weight of individual votes in closely contested electorates is far higher than that of votes for the losing side when the election is more one-sided, which count for virtually nothing since that candidate is never going to win.
 

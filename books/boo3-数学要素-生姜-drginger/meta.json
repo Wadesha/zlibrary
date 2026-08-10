@@ -1,10 +1,10 @@
 {
   "slug": "boo3-数学要素-生姜-drginger",
-  "title": "BOO3_数学要素_生姜_DrGinger",
+  "title": "BOO3-数学要素 生姜 DrGinger",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]BOO3_数学要素_生姜_DrGinger_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "BOO3-数学要素 (生姜 DrGinger) (Z-Library).md",
   "source_pdf": null,
-  "chars": 474586,
+  "chars": 467038,
   "has_fixed": false
 }

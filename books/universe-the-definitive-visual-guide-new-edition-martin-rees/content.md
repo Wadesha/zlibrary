@@ -1,10 +1,5 @@
 # Universe The Definitive Visual Guide New Edition Martin Rees Z Library
 
-> 来源文件：pre_Universe_The_Definitive_Visual_Guide_New_Edition_Martin_Rees_Z_Library.txt
-> 字符数（约）：1723404
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 General Editor Martin Rees S M I T H S O N I A N UNIVERSE THE DEFINITIVE VISUAL GUIDE
 
 ABOUT THIS BOOK A SHORT TOUR OF THE UNIVERSE BY MARTIN REES
@@ -17,15 +12,9 @@ Advice on safe viewing of the Sun is provided on page 85 of this book (see Solar
 
 The authors and publishers cannot accept any liability to readers failing to follow this advice.
 
-This American Edition, 2020 First American Edition, 2005 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2005, 2012, 2020 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 20 21 22 23 24 10 9 8 7 6 5 4 3 001–316672–Sep/2020 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-9995-0 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use.
-
-For details, contact: DK Publishing Special Markets, 1450 Broadway, Suite 801, New York, NY 10018 SpecialSales@dk.com Printed in China For the curious www.dk.com Jacket Mars; Endpapers the Orion Nebula; Half-title page the Helix Nebula; Title page Jupiter’s moon Europa; Contents page the Carina Nebula THIS EDITION DK  LONDON PROJECT EDITOR Miezan van Zyl US EDITOR Kayla Dugger PROJECT ART EDITOR Steve Woosnam-Savage MANAGING EDITOR Angeles Gavira Guerrero MANAGING ART EDITOR Michael Duffy JACKET DESIGN DEVELOPMENT MANAGER Sophia MTT PRODUCTION EDITOR Gillian Reid SENIOR PRODUCTION CONTROLLER Meskerem Berhane ASSOCIATE PUBLISHING DIRECTOR Liz Wheeler PUBLISHING DIRECTOR Jonathan Metcalf ART DIRECTOR Karen Self SENIOR EDITOR Suefa Lee EDITOR Ishita Jha PROJECT ART EDITOR Rupanki Arora Kaushik ART EDITOR Nobina Chakravorty DTP DESIGNERS Pawan Kumar, Ashok Kumar ASSISTANT PICTURE RESEARCHER Nimesh Agrawal SENIOR MANAGING EDITOR Rohan Sinha MANAGING ART EDITOR Sudakshina Basu PICTURE RESEARCH MANAGER Taiyaba Khatoon PRE-PRODUCTION MANAGER Balwant Singh PRODUCTION MANAGER Pankaj Sharma SENIOR EDITOR Peter Frances PROJECT EDITORS Georgina Garner, Rob Houston, Gill Pitts, Martyn Page, David Summers, Miezan van Zyl EDITORS Joanna Chisholm, Ben Hoare, Giles Sparrow PROOF READERS Steve Setford, Jane Simmonds, Nikky Twyman INDEXERS Hilary Bird, Jane Parker SENIOR ART EDITORS Mabel Chan, Spencer Holbrook, Peter Laws PROJECT ART EDITORS Dave Ball, Sunita Gahir, Alison Gardner, Mark Lloyd,  Duncan Turner DESIGNERS Kenny Grant, Jerry Udall DESIGN ASSISTANT Marilou Prokopiou PICTURE RESEARCHER Louise Thomas ILLUSTRATORS Anbits, Combustion Design and Advertising, Fanatic Design, JP Map Graphics, Moonrunner Design, Pikaia Imaging, Planetary Visions, Precision Illustration PRODUCTION CONTROLLERS Heather Hughes, Mary Slater PRODUCTION EDITORS John Goldsmid, Adam Stoneham MANAGING EDITOR Camilla Hallinan MANAGING ART EDITOR Michelle Baxter PUBLISHER Sarah Larter ART DIRECTORS Philip Ormerod, Bryn Walls ASSOCIATE PUBLISHING DIRECTOR Liz Wheeler PUBLISHING DIRECTOR Jonathan Metcalf CONSULTANT FOR REVISED EDITION Andrew K. Johnston, Center for Earth and Planetary Studies, National Air and Space Museum, Smithsonian Institution, USA.
 
 PREVIOUS EDITIONS Established in 1846, the Smithsonian is the world’s largest museum and research complex, dedicated to public education, national service, and scholarship in the arts, sciences, and history. It includes 19 museums and galleries and the National Zoological Park. The total number of artifacts, works of art, and specimens in the Smithsonian’s collection is estimated at 155 million.
 

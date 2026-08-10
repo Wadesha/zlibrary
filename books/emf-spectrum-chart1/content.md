@@ -1,10 +1,5 @@
 # EMF SPECTRUM CHART1
 
-> 来源文件：pre_EMF_SPECTRUM_CHART1.txt
-> 字符数（约）：23160
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Sources and Sizes of EMR GAMMA RAYS Radioactive elements 0.3nm X-RAYS X-ray machines 17-300nm Incan-descent light bulb Bacteria 3μm-800nm Single Cell 10μm People Honey Bee 1.2cm Radar Microwave oven Football 308mm Cell phone People 1.8m House 12m Football Field 100m Radio tower Induction Heating Power Lines (50,60Hz)
 
 Earth 12,756 km Human Brain

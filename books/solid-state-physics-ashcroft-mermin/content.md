@@ -1,10 +1,5 @@
 # Solid State Physics Ashcroft Mermin Z Library
 
-> 来源文件：pre_Solid_State_Physics_Ashcroft_Mermin_Z_Library.txt
-> 字符数（约）：262538
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Solid State Physics
 
 Neil W. Ashcroft N. David Mermin
@@ -12,8 +7,6 @@ Neil W. Ashcroft N. David Mermin
 Cornell University
 
 BROOKS/COLE THOMSON LEARNING
-
-Copyright © 1976 by Harcourt, Inc.
 
 Requests for permission to make copies of any part of the work should be mailed to: Permissions Department, Harcourt, Inc., 6277 Sea Harbor Drive, Orlando, FL 32887-6777.
 
@@ -24,12 +17,6 @@ Designer: Scott Chelius Editor: Dorothy Garbose Crane Drawings: Eric G. Hieber A
 Library of Congress Cataloging in Publication Data Ashcroft, Neil W.
 
 Solid state physics.
-
-I. Solids. I. Mermin, N. David, joint author. II. Title. QC176.A835 30.4'174-9772 ISBN 0-03-083993-9 (College Edition)
-
-Printed in the United States of America
-
-SOLID STATE PHYSICS ISBN # 0-03-083993-9 (College Edition)
 
 0123456789076353433323130292827
 

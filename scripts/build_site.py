@@ -140,7 +140,7 @@ def render_index(manifest):
             f'<li class="book" data-title="{html.escape(b["title"].lower())}" '
             f'data-lang="{b["language"]}" data-pipe="{b["pipeline"]}">'
             f'<a href="{rel}">{html.escape(b["title"])}</a>'
-            f'<span class="meta">[{badge}] {b["pipeline"]} · {b["chars"]:,} 字</span></li>'
+            f'<span class="meta">[{badge}] {b["pipeline"]} · {b["chars"]:,} 字符</span></li>'
         )
     list_html = "\n".join(items)
 
@@ -183,7 +183,7 @@ def render_book(meta, content_html):
     body = f"""<header class="bookhead">
   <p class="crumb"><a href="{back}">← 书架</a></p>
   <h1>{html.escape(meta["title"])}</h1>
-  <p class="meta">[{badge}] 来源：{meta["pipeline"]} · {meta["chars"]:,} 字 · 校对：{'是' if meta.get('has_fixed') else '否'}</p>
+  <p class="meta">[{badge}] 来源：{meta["pipeline"]} · {meta["chars"]:,} 字符 · 校对：{'是' if meta.get('has_fixed') else '否'}</p>
 </header>
 <main class="reading">
 {content_html}

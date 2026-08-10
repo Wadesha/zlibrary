@@ -1,15 +1,10 @@
 # 自然指南·岩石与矿物（DK 出版）
 
-
 岩 石　自 然 指 南　与 矿 物
 
 岩 石　史密森尼　自 然 指 南　Ronald Louis Bonewitz　与 矿 物
 
-美国首版于 2012 年，由 DK 出版公司（DK Publishing）发行于美国纽约哈得孙街 375 号，邮编 10014。版权所有 © 2012 Dorling Kindersley Limited。在不限制上文保留版权的前提下，未经版权所有者及上述出版商事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 本书由英国 Dorling Kindersley Limited 出版。版权记录可向美国国会图书馆索取。
-
-ISBN 978‑0‑7566‑9042‑7。DK 图书在大宗采购用于促销、赠品、筹款或教育用途时可享受特别折扣，详情请联系：DK Publishing Special Markets，纽约哈得孙街 375 号，邮编 10014，或电邮 SpecialSales@dk.com。由中国 Bright Arts 与英国 MDP 制版，由中国 Leo Paper Products 印刷装订。更多资讯请访问 www.dk.com。
 
 顾问：Jeffrey E. Post 博士，地质学家，史密森尼学会美国国家自然历史博物馆宝石与矿物收藏负责人、馆长。
 

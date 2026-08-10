@@ -4,8 +4,6 @@ A Sand County Almanac and Sketches Here and There
 
 ### Illustrated by Charles Schwartz
 
-Grateful acknowledgment is made to the editors of the following magazines and journals who have kindly allowed to be reprinted in book form portions or all of individual articles
-
 ## American Forests
 
 "Marshland Elegy," "The Green Lagoons," and "Flambeau"
@@ -52,13 +50,7 @@ Grateful acknowledgment is made to the editors of the following magazines and jo
 
 " Thanks are also due to The Macmillan Company for permission to quote from "Tristram
 
-" copyright, 1927 by Edwin Arlington Robinson, on page 223.
-
-Copyright 1949 by Oxford University Press
-
 Inc.
-
-First published by Oxford University Press
 
 ## New York
 
@@ -68,11 +60,7 @@ First issued as an Oxford University Press paperback
 
 1968
 
-ISBN-13: 978-0-19-500777-0
-
 Printing, last digit: 59 58
-
-### Printed in the United States of America
 
 ## To my ESTELLA
 

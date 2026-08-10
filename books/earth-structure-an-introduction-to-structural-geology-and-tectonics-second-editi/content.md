@@ -1,21 +1,10 @@
 # Earth Structure An Introduction to Structural Geology and Tectonics Second Edition Ben A van der Pluijm Stephen Marshak Z Library
 
-> 来源文件：pre_Earth_Structure_An_Introduction_to_Structural_Geology_and_Tectonics_Second_Edition_Ben_A_van_der_Pluijm_Stephen_Marshak_Z_Library.txt
-> 字符数（约）：2087455
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 E A R T H S T R U C T U R E A N  I N T R O D U C T I O N  T O S T R U C T U R A L  G E O L O G Y  A N D  T E C T O N I C S S E C O N D  E D I T I O N
 
 Ben A. van der Pluijm U N I V E R S I T Y  O F  M I C H I G A N Stephen Marshak U N I V E R S I T Y  O F  I L L I N O I S With contributions by RICHARD W. ALLMENDINGER TERESA E. JORDAN MARK T. BRANDON ELIZABETH L. MILLER B. CLARK BURCHFIEL BORIS A. NATAL’IN FREDERICK A. COOK KEVIN T. PICKERING DAVID A. FOSTER LEIGH H. ROYDEN DAVID R. GRAY STEFAN M. SCHMID JAMES P. HIBBARD A. M. CEˆLAL S¸ENGÖR PAUL F. HOFFMAN ALAN G. SMITH M. SCOTT WILKERSON
 
 E A R T H S T R U C T U R E A N  I N T R O D U C T I O N  T O S T R U C T U R A L  G E O L O G Y  A N D  T E C T O N I C S B W  •  W  •  N O R T O N  &  C O M P A N Y N E W  Y O R K • L O N D O N S E C O N D  E D I T I O N
-
-W. W. Norton & Company has been independent since its founding in 1923, when William Warder Norton and Mary D. Herter Norton first published lectures delivered at the People’s Institute, the adult education division of New York City’s Cooper Union. The Nortons soon expanded their program beyond the Institute, publishing books by celebrated academics from America and abroad. By mid-century, the two major pillars of Norton’s publishing program—trade books and college texts—were firmly established. In the 1950s, the Norton family transferred control of the company to its employees, and today—with a staff of four hundred and a comparable number of trade, college, and professional titles published each year—W. W. Norton & Company stands as the largest and oldest publishing house owned wholly by its employees.
-
-Copyright © 2004 by W. W. Norton & Company, Inc.
-
-Printed in the United States of America.
 
 Second Edition The text of this book is composed in Times, with the display set in Conduit ITC.
 
@@ -25,13 +14,9 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 0-393-92467-X
-
 ## 1. Geology, Structural. 2. Plate tectonics
 
 I. Marshak, Stephen, 1955- II. Title.
-
-QE601.V363 2003 551.8--dc22 2003063957 W. W. Norton & Company, Inc., 500 Fifth Avenue, New York, N.Y. 10110 www.wwnorton.com W. W. Norton & Company Ltd., Castle House, 75/76 Wells Street, London W1T 3QT 1 2 3 4 5 6 7 8 9 0
 
 Brief Contents Preface
 
@@ -262,8 +247,6 @@ The remaining essays were updated and revised. The new and revised art offers an
 ## ANCILLARIES
 
 Earth Structure is supported by a Norton Resource Library offering teachers hundreds of digital copies of the figures from the new edition. The Norton Resource Library images may be used in classrooms as overhead transparencies, computer presentations, and student worksheets incorporated in exams, or course websites.
-
-Instructors may either download figures by chapter from the Norton Resource Library, after obtaining a password from Norton, or request the images on a CD- ROM. Both password and CD-ROM requests are located at the Norton Resource Library web address: www.wwnorton.com/college/nrl/welcome.htm.
 
 THANKS!
 

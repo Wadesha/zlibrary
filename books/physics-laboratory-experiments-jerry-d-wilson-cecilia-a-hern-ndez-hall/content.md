@@ -1,10 +1,5 @@
 # Physics Laboratory Experiments Jerry D Wilson Cecilia A Hern ndez Hall Z Library
 
-> 来源文件：pre_Physics_Laboratory_Experiments_Jerry_D_Wilson_Cecilia_A_Hern_ndez_Hall_Z_Library.txt
-> 字符数（约）：247483
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 公制前缀 Multiple Name Abbreviation 1,000,000,000,000,000,000 1018 exa E 1,000,000,000,000,000 1015 peta P 1,000,000,000,000 1012 tera T 1,000,000,000 109 giga G 1,000,000 106 mega M 1,000 103 kilo k 100 102 hecto h 10 101 deka da 1 1 — —
 
 ## 0.1 10–1 deci
@@ -33,17 +28,7 @@ Mass of the Earth 6.0 × 1024 kg the Moon 7.43 × 1022 kg ≈ 1/81 mass of Earth
 
 Australia • Brazil • Japan • Korea • Mexico • Singapore • Spain • United Kingdom • United States
 
-Physics Laboratory Experiments, © 2010, 2005 Brooks/Cole, Cengage Learning. Seventh Edition. ALL RIGHTS RESERVED. No part of this work covered by the copyright herein may be reproduced, transmitted, stored, or used in any form or by any means graphic, electronic, or mechanical, including but not limited to photocopying, recording, scanning, digitizing, taping, Web distribution, information networks, or information storage and retrieval systems, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without the prior written permission of the publisher.
-
-Jerry D. Wilson Cecilia A. Hernández-Hall Publisher: Mary Finch Development Editor: Brandi Kirksey Editorial Assistant: Joshua Duncan Senior Media Editor: Rebecca Berardy-Schwartz Marketing Manager: Nicole Mollica Marketing Coordinator: Kevin Carroll Marketing Communications Manager: Belinda Krohmer Associate Content Project Manager: Jill Clark Art Director: Cate Barr Senior Print Buyer: Diane Gibbons Production Service: Pre-Press PMG Senior Photo Editor: Jennifer Meyer Dare Photo Researcher: Pre-Press PMG Cover Designer: Hannah Wellman Cover Image: A teacher adjusting a scientific instrument, © Veer Incorporated
-
 Brooks/Cole 20 Channel Center Street Boston, MA 02210 USA
-
-Cengage Learning is a leading provider of customized learning solutions with office locations around the globe, including Singapore, the United Kingdom, Australia, Mexico, Brazil, and Japan. Locate your local office at international.cengage.com/region. Cengage Learning products are represented in Canada by Nelson Education, Ltd. For your course and learning solutions, visit www.cengage.com. Purchase any of our products at your local college store or at our preferred online store www.ichapters.com.
-
-Printed in the United States of America 1 2 3 4 5 6 7 13 12 11 10 09
-
-Library of Congress Control Number: 2009927944 ISBN-13: 978-0-547-22748-1 ISBN-10: 0-547-22748-5
 
 “What is the meaning of it all, Mr. Holmes?” “Ah, I have no data. I cannot tell,” he said — Arthur Conan Doyle, The Adventures of the Copper Beeches, 1892
 
@@ -155,8 +140,6 @@ Laboratory Reports. Because a standardized format for laboratory reports greatly
 
 Maximum Application of Available Equipment. Laboratory equipment at many institutions is limited, and often only standard equipment, purchased from scientific suppliers, is available. The TI experimental procedures in this manual are described for different types of common laboratory apparatus, thus maximizing the application of the manual.
 
-Instructor’s Resource Manual The Instructor’s Resource Manual is a special feature and resource for the instructor. It is available online on the instructor Web site prepared to accompany the seventh edition of Physics Laboratory Experiments. To view a sampling of instructor materials, go to www.cengage.com/Physics, and click on the link for Algebra and Trigonometry Based Lab Manuals. For the seventh edition of Physics Laboratory Experiments, clicking the About This Product link will allow you to view online resources including the Instructor’s Resource Manual. You may contact your Cengage representative if you need new access to this password-protected material.
-
 *Four more TI/CI experiments are available in the customized listing in the Table of Contents.
 
 Example Calculations. In the Theory section of some experiments, sample calculations that involve the equations and mathematics used in the experiment have been included where appropriate. These demonstrate to the student how experimental data are applied.
@@ -164,10 +147,6 @@ Example Calculations. In the Theory section of some experiments, sample calculat
 Professor Fred B. Otto, previously of the Maine Maritime Academy, who has over 20 years of teaching and laboratory experience, has revised this manual. He retained the general format of the previous edition. For each experiment, there are (1) Comments and Hints, (2) Answers to post-Experiment Questions, and (3) Post-lab Quiz Questions [completion and multiple-choice (with answers), and essay]. The Instructor’s Resource Manual also includes laboratory safety references, lists of scientific equipment suppliers and physics software suppliers, and graph paper copy masters.
 
 Of course, the publication of this manual would not have been possible without a great deal of help. Professor Hernández and I would like to thank the people at PASCO—in particular, Paul A. Stokstad, Dave Griffith, Jon and Ann Hanks—for their support and help. We thank Fred B. Otto for his in-depth review of the experiments. Thanks also goes to Professor Jerry R. O’Connor, of San Antonio College, who reviewed and made helpful suggestions for the Guided Learning feature. We are grateful to Mary Finch, publisher, Brandi Kirksey, associate developmental editor, Joshua Duncan, editorial assistant, Jill Clark, associate content project manager, Nicole Mollica, marketing manager, and to Suganya Selvaraj at Pre-Press PMG. We both hope that you will find the seventh edition of Physics Laboratory Experiments helpful and educational. And we urge anyone—student or instructor—to pass on to us any suggestions that you might have for improvement.
-
-Jerry D. Wilson Emeritus Professor of Physics Lander University Greenwood, South Carolina jwilson@greenwood.net
-
-Cecilia A. Hernández-Hall Professor of Physics American River College Sacramento, California hernanc@arc.losrios.edu
 
 Introduction
 

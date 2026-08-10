@@ -1,10 +1,5 @@
 # China DK Publishing Z Library
 
-> 来源文件：pre_China_DK_Publishing_Z_Library.txt
-> 字符数（约）：1651165
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 eyewitness travel guides China mountains RESTAURANTS Temples tours HOTELS Architecture festivals The Guides that show you what others only tell you Markets N A N  D A J I E Z H E N G E U  J I E
 
 Never has a travel guide been so easy to use – just turn to the area of your choice CHINA $30.00 USA $40.00 Canada AREA COLOR CODES BEIJING PAGES 78–119 HEBEI, TIANJIN & SHANXI PAGES 120–139 SHANDONG & HENAN PAGES 140–159 SHAANXI PAGES 160–171 SHANGHAI PAGES 182–201 JIANGSU & ANHUI PAGES 202–237 ZHEJIANG & JIANGXI PAGES 238–257 HUNAN & HUBEI PAGES 258–273 FUJIAN PAGES 284–293 GUANGDONG & HAINAN PAGES 294–305 HONG KONG & MACAU PAGES 306–337 SICHUAN & CHONGQING PAGES 348–371 YUNNAN PAGES 372–395 GUIZHOU & GUANGXI PAGES 396–425 LIAONING,  JILIN & HEILONGJIANG PAGES 436–455 INNER MONGOLIA & NINGXIA PAGES 466–477 GANSU & QINGHAI PAGES 478–501 XINJIANG PAGES 502–515 TIBET PAGES 526–547 EYEWITNESS TRAVEL GUIDES E
@@ -18,10 +13,6 @@ EYEWITNESS TRAVEL GUIDES CHINA
 E Y E W I T N E S S  T R AV E L  G U I D E S CHINA
 
 CONTENTS INTRODUCING CHINA PUTTING CHINA ON THE MAP 10 A PORTRAIT OF CHINA 14 CHINA THROUGH THE YEAR 44 THE HISTORY OF CHINA BEIJING & THE NORTH INTRODUCING BEIJING & THE NORTH 70 BEIJING 78 HEBEI,TIANJIN,& SHANXI 120 SHANDONG & HENAN SHAANXI 160 CENTRAL CHINA INTRODUCING CENTRAL CHINA 174 SHANGHAI 182 The Great Wall meandering along the ridges of northern China’s mountainous terrain PROJECT EDITORS Hugh Thompson, Kathryn Lane PROJECT ART EDITOR Gadi Farfour EDITOR Vandana Mohindra DESIGNERS Mathew Kurien, Maite Lantaron, Pallavi Narain, Rebecca Milner PICTURE RESEARCHER Ellen Root RESEARCH ASSISTANT Monica Yue Hua Ma MAP CO-ORDINATORS Uma Bhattacharya, Casper Morris DTP DESIGNER Jason Little MAIN CONTRIBUTORS Donald Bedford, Deh-Ta Hsiung, Christopher Knowles, David Leffman, Simon Lewis, Peter Neville-Hadley, Andrew Stone CONSULTANTS Christopher Knowles, Peter Neville-Hadley PHOTOGRAPHERS Demetrio Carrasco, Ian Cumming, Eddie Gerald, Nigel Hicks, Colin Sinclair, Chris Stowers, Linda Whitwham ILLUSTRATORS Stephen Conlin, Gary Cross, Richard Draper, Kevin Goold, Paul Guest, Claire Littlejohn, John Mullany, Chris Orr, Arun Pottirayil Reproduced by Colourscan, Singapore Printed and bound by Toppan Printing Co., Hong Kong, PRC First American Edition, 2005 01 02 03 04 05 06 07 08 09 10 9 8 7 6 5 4 3 2 1 Published in the United States by DK Publishing, Inc.
-
-375 Hudson Street, New York, New York 10014 Copyright © 2005 Dorling Kindersley Limited, London A Penguin Company ALL RIGHTS RESERVED. NO PART OF THIS PUBLICATION MAY BE REPRODUCED, STORED IN A RETRIEVAL SYSTEM, OR TRANSMITTED IN ANY FORM OR BY ANY MEANS, ELECTRONIC, MECHANICAL, PHOTOCOPYING, RECORDING OR OTHERWISE, WITHOUT THE PRIOR WRITTEN PERMISSION OF THE COPYRIGHT OWNER.
-
-ISSN 1542-1554 ISBN 0-7566-0919-4 The information in this Dorling Kindersley Travel Guide is checked regularly.
 
 Every effort has been made to ensure that this book is as up-to-date as possible at the time of going to press. Some details, however, such as telephone numbers, opening hours, prices, gallery hanging arrangements and travel information are liable to change. The publishers cannot accept responsibility for any consequences arising from the use of this book, nor for any material on third party websites, and cannot guarantee that any website address in this book will be a suitable source of travel information. We value the views and suggestions of our readers very highly. Please write to: The Publisher, DK Eyewitness Travel Guides, Dorling Kindersley, 80 Strand, London WC2R 0RL, Great Britain.
 
@@ -161,8 +152,6 @@ Map 1 C5. § (010) 513 2255.
 
 # Apr–Oct: 8:30am–5pm daily; Nov–Mar: 8:30am–4:30pm daily.
 
-& = 8 9 - ∑ www.dpm.org.cn . Marble Carriageway The central ramp carved with dragons chasing pearls among clouds was reserved for the emperor.
-
 Chinese Lions Pairs of lions guard the entrances of halls. The male is portrayed with a ball under his paw, while the female has a lion cub.
 
 . Golden Water Five marble bridges, symbolizing the five cardinal virtues of Confucianism, cross the Golden Water, which flows from west to east in a course designed to resemble the jade belt worn by officials.
@@ -192,8 +181,6 @@ At the center of the Forbidden City, the Outer Court is easily its most impressi
 The harmonious principle of Yin and Yang is core to Chinese design.
 
 As odd numbers represent yang (the preferred masculine element associated with the emperor), the numbers three, five, seven, and the ultimate odd number – nine, recur in architectural details. It is said that the Forbidden City has 9,999 rooms and as nine times nine is especially fortunate, the doors for imperial use usually contain 81 brass studs.
-
-Palace door with a lucky number of studs q q q q N N N n n a q q q N £@ q q q q q q q q q N q q t U t t t t @c a a @ @ q u o p t r y w e H EPI N
 
 ## GLI XI JIE
 
@@ -3435,8 +3422,6 @@ k £ @ n b a N t U q
 
 0 km 0 miles 0 km 0 miles KEY Street-by-Street area: see pp82–3 International airport Train station Long distance bus station Subway station City bus station Tourist information Hospital Post office Temple Church Mosque National highway Major road Provincial border Great Wall of China
 
-q q q q N N N n n a q q q N £@ q q q q q q q q q N q q t U t t t t @c a a @ @ q u o p t r y w e H EPI N
-
 ## GLI XI JIE
 
 ## GONGREN
@@ -3989,8 +3974,6 @@ Map 1 C5. § (010) 513 2255.
 
 # Apr–Oct: 8:30am–5pm daily; Nov–Mar: 8:30am–4:30pm daily.
 
-& = 8 9 - ∑ www.dpm.org.cn . Marble Carriageway The central ramp carved with dragons chasing pearls among clouds was reserved for the emperor.
-
 Hall of Middle Harmony received the emperor before official ceremonies.
 
 Bronze cauldrons were filled with water in case of fire.
@@ -4230,8 +4213,6 @@ The gallery also runs an artist- in-residence program and forthcoming exhibition
 Dinosaur skeletons in the Palaeontology Hall, Natural History Museum Southeast Corner Watchtower i Off Jianguo Men Nan Dajie, Chongwen.
 
 Map 4 F2. q Beijing Zhan.
-
-Red Gate Gallery § (010) 6525 1005. # 10am–5pm daily. & For exhibition details visit www.redgategallery.com A SHORT DISTANCE south of the Ancient Observatory, an imposing chunk of the Beijing City Walls (see p85) survives in the form of the 15th- century Southeast Corner Watchtower (Dongbian Men).
 
 After climbing onto the Ming dynasty battlements, visitors The atmospheric Red Gate Gallery, Southeast Corner Watchtower Southeast Corner Watchtower (Dongbian Men)
 
@@ -4910,8 +4891,6 @@ The extraordinary body- bending feats of Chinese acrobats (zaji) can be seen at 
 Popular performances are held nightly at the Chaoyang Theater at 7:15pm, and the Beijing Acrobat Troupe stages performances at 7pm at the Wan Sheng Theater.
 
 Performances are also held at PUBS, BARS & CLUBS T HE CAPITAL CITY’S expat bar scene has for years concentrated along Sanlitun Lu in Beijing’s Chaoyang district – east of Dong Si Shi Tiao subway station. For a more laid-back experience, try bars around the shore where Hou Hai and Qian Hai lakes meet, such as the stylish World of Suzie Wong, with its Ming Dynasty beds. One of the first, still one of the best, the No Name Bar near Hou Hai is well worth a visit. For a more upscale mood, try the bars at any of the city’s four- and five-star hotels.
-
-small number of foreign films admitted each year. Many embassies and bars show movies (either in English or with subtitles). Cherrylane (www.Cherrylanemovies.com.
 
 cn) has good movies. All European and Hollywood films are pirated on release, and appear in the markets as DVDs and VCDs of variable quality. For entertainment events, check the listings in the English-language entertainment magazines circulating in the expat pubs on Sanlitun Lu, as well as in most hotels. That’s Beijing has one of the best listings.
 
@@ -8948,8 +8927,6 @@ Entrance Zhou Wine Decanter Capped with a lid in the shape of a tiger and incorp
 1 6 7 VISITORS’ CHECKLIST 91 Xiaozhai Donglu, corner of Cuihua Lu. § (029) 8521 7140.
 
 @ 5, 19, 521 from train station.
-
-# Apr–Sep: 8:30am–5:30pm; Oct–Mar: 9am–4:30pm. & - ∑ www.sxhm.com Golden Monster Standing as though poised to charge, this magnificent Han-dynasty ornament has a patterned body and stylized horns that arch high over the beast’s back and end in a face.
 
 ## GALLERY GUIDE
 

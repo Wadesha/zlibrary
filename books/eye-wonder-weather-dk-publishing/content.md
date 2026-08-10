@@ -1,10 +1,5 @@
 # 目击奇迹·天气（Eye Wonder: Weather）——DK出版社 Z图书馆
 
-> 来源文件：pre_Eye_Wonder_Weather_DK_Publishing_Z_Library.txt
-> 字符数（约）：55528
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 可怕的龙卷风（tornado）、巨大的飓风（hurricane），还有灼热的阳光！
 
 仰望天空，去发现天气那令人惊叹的力量与美丽，以及它如何影响我们的生活。
@@ -20,8 +15,6 @@
 
 封面图片　封面：Getty Images：Taxi。封底：Alamy Images：Bryan & Cherry Alexander Photography（左下）。Corbis：Tom Bean（右下）。Getty Images：Stone（右上）；Taxi（右上），背景。Planetary Visions：（左上）。Science Photo Library：British Antarctic Survey（左下偏下）；Claude Nuridsany & Marie Perennou（右上偏中）；Colin Cuthbert（上中）；Jim Reed（左中）；R.B.Husar/NASA（左上偏中）。
 
-欲了解更多，请访问 www.dk.com　EYEWONDER WEATHER
-
 多林·金德斯利（DORLING KINDERSLEY）可怕的龙卷风、巨大的飓风，还有灼热的阳光！
 
 仰望天空，去发现天气那令人惊叹的力量与美丽，以及它如何影响我们的生活。
@@ -36,8 +29,6 @@
 大猫 • 鸟类 • 昆虫 • 恐龙 • 海豚与鲸 • 地球 • 人体 • 哺乳动物 • 海洋 • 雨林 • 爬行动物 • 河流与湖泊 • 太空 • 火山
 
 封面图片　封面：Getty Images：Taxi。封底：Alamy Images：Bryan & Cherry Alexander Photography（左下）。Corbis：Tom Bean（右下）。Getty Images：Stone（右上）；Taxi（右上），背景。Planetary Visions：（左上）。Science Photo Library：British Antarctic Survey（左下偏下）；Claude Nuridsany & Marie Perennou（右上偏中）；Colin Cuthbert（上中）；Jim Reed（左中）；R.B.Husar/NASA（左上偏中）。
-
-欲了解更多，请访问 www.dk.com　EYEWONDER WEATHER
 
 多林·金德斯利（DORLING KINDERSLEY）《目击奇迹·天气》目录
 伦敦、纽约、慕尼黑、墨尔本、新德里
@@ -65,15 +56,6 @@
 44-45　驾驭天气
 46-47　词汇表
 索引与致谢
-
-撰稿与编辑：洛里·麦克（Lorrie Mack）　设计：谢丽尔·特尔弗（Cheryl Telfer）与海伦·查普曼（Helen Chapman）
-10-11 天空中的云　出版经理：休·伦纳德（Sue Leonard）　美术总监：克莱尔·谢登（Clare Shedden）
-12-13 云图集　封面设计：克里斯·德鲁（Chris Drew）　图片研究员：萨拉·斯图尔特-理查森（Sarah Stewart-Richardson）　制作：希瓦尼·潘迪（Shivani Pandey）　排版设计：阿尔穆德纳·迪亚斯（Almudena Díaz）
-14-15 排版助理：皮拉尔·莫拉莱斯（Pilar Morales）　顾问：本·摩根（Ben Morgan）　生活在云中　美国第一版，2004年
-16-17 由美国DK出版公司（DK Publishing, Inc.）出版　雨，雨　纽约哈得孙街375号，纽约州纽约市 10014
-18-19 （版权印次编号）白色的天空　版权所有 © 2004 多林·金德斯利有限公司
-
-泛美版权公约。未经版权所有者事先书面许可，本出版物的任何部分不得以任何形式或任何方式——电子、机械、影印、录音或其他方式——复制、存储于检索系统或传播。由英国多林·金德斯利有限公司出版。本书的出版编目记录可向美国国会图书馆索取。ISBN 0-7566-0323-4。彩印由新加坡 Colourscan 完成。印刷与装订由意大利 L.E.G.O. 完成。欲了解更多，请访问 www.dk.com。
 
 ## 什么是天气？（What's weather?）
 
@@ -586,4 +568,3 @@ Still Pictures：39br；Denis Bringard 5trb；Angelo Doto 42l；Roland Seitre 40
 （标注说明：a=上；c=中；b=下；l=左；r=右；t=顶）
 
 其余所有图片 © Dorling Kindersley www.dkimages.com
-

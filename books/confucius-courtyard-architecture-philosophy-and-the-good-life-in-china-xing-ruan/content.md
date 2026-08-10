@@ -1,31 +1,16 @@
 # Confucius Courtyard Architecture Philosophy and the Good Life in China Xing Ruan Z Library
 
-> 来源文件：pre_Confucius_Courtyard_Architecture_Philosophy_and_the_Good_Life_in_China_Xing_Ruan_Z_Library.txt
-> 字符数（约）：242757
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Confucius’ Courtyard
 
 Xing Ruan (阮昕) was born in Kunming, China in 1965. He studied architecture, and currently is Guangqi Chair Professor and Dean at the School of Design, Shanghai Jiao Tong University, China. He was Professor of Architecture at Sydney’s University of New South Wales (2004–20). His previous books include: Fusheng Jianzhu [Floating Life and Architecture 浮生·建筑], 2020; Allegorical Architecture, 2006; New China Architecture, 2006; Hand and Mind, 2018; Topophilia and Topophobia, 2007. He is co-editor, with Ronald Knapp, of the book series Spatial Habitus: Making and Meaning in Asia’s Architecture.
 
 Confucius’ Courtyard Architecture, Philosophy and the Good Life in China Xing Ruan 阮昕
 
-BLOOMSBURY VISUAL ARTS Bloomsbury Publishing Plc 50 Bedford Square, London, WC1B 3DP, UK 1385 Broadway, New York, NY 10018, USA 29 Earlsfort Terrace, Dublin 2, Ireland BLOOMSBURY, BLOOMSBURY VISUAL ARTS and the Diana logo are trademarks of Bloomsbury Publishing Plc First published in Great Britain 2022 Copyright © Xing Ruan, 2022 Xing Ruan has asserted his right under the Copyright, Designs and Patents Act, 1988, to be identified as Author of this work.
-
-For legal purposes the Acknowledgements on pp. xxii–xxiv constitute an extension of this copyright page.
-
-Cover design by Eleanor Rose | Cover images: ‘An Eastern Han brick relief unearthed in Chengdu, Sichuan province. Source: Drawn by Xing Ruan after Liu Dunzhen (刘敦桢), Zhongguo gudai jianzhushi (中国古代建筑史) (Beijing: Zhongguo jianzhu gongye chubanshe (中国建筑工业出版社), 1978), 51’; Old paper © Getty Images Bloomsbury Publishing Plc does not have any control over, or responsibility for, any third-party websites referred to or in this book. All internet addresses given in this book were correct at the time of going to press. The author and publisher regret any inconvenience caused if addresses have changed or sites have ceased to exist, but can accept no responsibility for any such changes.
-
 A catalogue record for this book is available from the British Library.
 
 Library of Congress Cataloging-in-Publication Data Names: Ruan, Xing, 1965– author.
 
 Title: Confucius’ courtyard : architecture, philosophy and the good life in China / Xing Ruan.
-
-Identifiers: LCCN 2021011461 (print) | LCCN 2021011462 (ebook) | ISBN 9781350217621 (hardback) | ISBN 9781350217614 (paperback) | ISBN 9781350217638 (pdf) | ISBN 9781350217645 (epub) | ISBN 9781350217652 Subjects: LCSH: Architecture and society–China. | Courtyard houses–China. | China–Civilization–Philosophy.
-
-Classification: LCC NA2543.S6 R83 2021 (print) | LCC NA2543.S6 (ebook) | DDC 720.1/03—dc23 LC record available at https://lccn.loc.gov/2021011461 LC ebook record available at https://lccn.loc.gov/2021011462 ISBN: HB: 978-1-3502-1762-1 PB: 978-1-3502-1761-4 ePDF: 978-1-3502-1763-8 eBook: 978-1-3502-1764-5 Typeset by RefineCatch Limited, Bungay, Suffolk To find out more about our authors and books visit www.bloomsbury.com and sign up for our newsletters.
 
 For Dongmin
 

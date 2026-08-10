@@ -1,15 +1,6 @@
 # Student Workbook for Physics for Scientists and Engineers A Strategic Approach with Modern Physics Knight Randall D Z Library
 
-> 来源文件：pre_Student_Workbook_for_Physics_for_Scientists_and_Engineers_A_Strategic_Approach_with_Modern_Physics_Knight_Randall_D_Z_Library.txt
-> 字符数（约）：379136
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Student Workbook for Physics for Scientists and Engineers: A Strategic Approach with Modern Physics Randall D. Knight Third Edition ISBN 978-1-29204-049-3 9 781292 040493 Student Workbook for Physics for Scientists and Engineers Knight 3e Pearson New International Edition Student Workbook for Physics for Scientists and Engineers: A Strategic Approach with Modern Physics Randall D. Knight Third Edition International_PCL_TP.indd 1 7/29/13 11:23 AM ISBN 10: 1-292-04049-1 ISBN 13: 978-1-292-04049-3 Pearson Education Limited Edinburgh Gate Harlow Essex CM20 2JE England and Associated Companies throughout the world Visit us on the World Wide Web at: www.pearsoned.co.uk © Pearson Education Limited 2014 in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without either the prior written permission of the publisher or a licence permitting restricted copying in the United Kingdom issued by the Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS.
-
 All trademarks used herein are the property of their respective owners. The use of any trademark in this text does not vest in the author or publisher any trademark ownership rights in such trademarks, nor does the use of such trademarks imply any affi liation with or endorsement of this book by such owners.
-
-ISBN 10: 1-292-04049-1 ISBN 10: 1-269-37450-8 ISBN 13: 978-1-292-04049-3 ISBN 13: 978-1-269-37450-7 British Library Cataloguing-in-Publication Data A catalogue record for this book is available from the British Library Printed in the United States of America Copyright_Pg_7_24.indd 1 7/29/13 11:28 AM 1111334567890121337715533533 P E A R S O N C U S T O M L I B R AR Y Table of Contents
 
 ## 1. Concepts of Motion
 
@@ -207,8 +198,6 @@ Empire State Building and descends, with no stops, until coming to rest on the g
 
 3. A skier starts from rest at the top of a 30° snow-covered slope and steadily speeds up as she skies to the bottom. (Orient your diagram as seen from the side. Label the 30° angle.)
 
-From Chapter 1 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Concepts of Motion
-
 ## 4. The space shuttle orbits the earth in a circular orbit,
 
 completing one revolution in 90 minutes.
@@ -404,8 +393,6 @@ a. A parachutist opens her parachute at an altitude of 1500 m. She then descends
 b. Trucker Bob starts the day 120 miles west of Denver. He drives east for 3 hours at a steady 60 miles/hour before stopping for his coffee break. Let Denver be located at x = 0 mi and assume that the x-axis points to the east.
 
 c. Quarterback Bill throws the ball to the right at a speed of 15 m/s. It is intercepted 45 m away by Carlos, who is running to the left at 7.5 m/s. Carlos carries the ball 60 m to score. Let x = 0 m be the point where Bill throws the ball. Draw the graph for the football.
-
-From Chapter 2 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Kinematics in One Dimension
 
 ## 2. The figure shows a position-versus-time graph for the motion of objects A
 
@@ -651,8 +638,6 @@ Exercises 5–7: Draw and label the vector difference A−B.
 
 5. 6. 7.
 
-F rom Chapter 3 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Vectors and Coordinate Systems (cid:2) (cid:2)
-
 ## 8. Draw and label the vector2Aand the vector A
 
 (cid:2) (cid:2) (cid:2) (cid:2) (cid:2)
@@ -712,8 +697,6 @@ A = A = A = x x x A = A = A = y y y Kinematics in Two Dimensions 1 Acceleration 
 3. The figure shows a ramp and a ball that rolls along the ramp. Draw vector arrows on the figure to show the ball’s acceleration at each of the lettered points A to E (or writea =0, if appropriate).
 
 Hint: At each point is the ball changing speed, changing direction, or both?
-
-From Chapter 4 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Kinematics in Two Dimensions 4. Complete the motion diagram for this trajectory, showing velocity and acceleration vectors.
 
 Exercises 5–6: Draw a complete motion diagram for each of the following.
 
@@ -847,8 +830,6 @@ net 2 A Short Catalog of Forces 3 Identifying Forces Exercises 3–8: Follow the
 
 ## 3. An elevator suspended by a cable is descending at constant velocity
 
-From Chapter 5 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Force and Motion 4. A car on a very slippery icy road is sliding headfirst into a snowbank, where it gently comes to rest with no one injured. (Question: What does “very slippery” imply?)
-
 ## 5. A compressed spring is pushing a block across a rough horizontal table
 
 ## 6. A brick is falling from the roof of a three-story building
@@ -978,8 +959,6 @@ Newton’s Third Law 1 Interacting Objects 2 Analyzing Interacting Objects Exerc
 ## 2. A massless string pulls a box across the floor. Friction is not negligible
 
 3. A boy pulls a wagon by a rope attached to the front of the wagon. The rope is not massless, and rolling friction is not negligible.
-
-From Chapter 7 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Newton’s Third Law 4. A skateboarder is pushing on the ground to speed up. Treat the person and the skateboard as separate objects.
 
 ## 5. The bottom block is pulled by a massless string. Friction is not negligible
 
@@ -1114,8 +1093,6 @@ Which forces or combinations of forces will cause the object to be in equilibriu
 2. The free-body diagrams show a force or forces acting on an object. Draw and label one more force (one that is appropriate to the situation) that will cause the object to be in equilibrium.
 
 3. If you know all of the forces acting on a moving object, can you tell in which direction the object is moving? If the answer is Yes, explain how. If the answer is No, give an example.
-
-From Chapter 6 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Dynamics I: Motion Along a Line 2 Using Newton’s Second Law 4. a. An elevator travels upward at a constant speed. The elevator hangs by a single cable. Friction and air resistance are negligible. Is the tension in the cable greater than, less than, or equal to the weight of the elevator? Explain. Your explanation should include both a free-body diagram and reference to appropriate physical principles.
 
 b. The elevator travels downward and is slowing down. Is the tension in the cable greater than, less than, or equal to the weight of the elevator? Explain.
 
@@ -1253,8 +1230,6 @@ Dynamics II: Motion in a Plane 1 Dynamics in Two Dimensions 1. An ice hockey puc
 
 2. A rocket motor is taped to an ice hockey puck, oriented so that the thrust is to the left. The puck is given a push across frictionless ice in the direction shown. The rocket will be turned on by remote control as the puck crosses line 2, then turned off as it crosses line 3. Sketch the puck’s trajectory from line 1 until it crosses line 4.
 
-From Chapter 8 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Dynamics II: Motion in a Plane
-
 ## 3. An ice hockey puck is sliding from west to east across frictionless
 
 ice. When the puck reaches the point marked by the dot, you’re going to give it one sharp blow with a hammer. After hitting it, you want the puck to move from north to south at a speed similar to its initial west-to-east speed. Draw a force vector with its tail on the dot to show the direction in which you will aim your hammer blow.
@@ -1354,8 +1329,6 @@ Impulse and Momentum 1 Momentum and Impulse 2 Solving Impulse and Momentum Probl
 x 1 x 5 Order: 2. The position-versus-time graph is shown for a 500 g object. Draw the corresponding momentum- versus-time graph. Supply an appropriate scale on the vertical axis.
 
 3. The momentum-versus-time graph is shown for a 500 g object. Draw the corresponding acceleration- versus-time graph. Supply an appropriate scale on the vertical axis.
-
-From Chapter 9 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Impulse and Momentum 4. A 2 kg object is moving to the right with a speed of 1 m/s when it experiences an impulse due to the force shown in the graph. What is the object’s speed and direction after the impulse?
 
 5. A 2 kg object is moving to the left with a speed of 1 m/s when it experiences an impulse due to the force shown in the graph. What is the object’s speed and direction after the impulse?
 
@@ -1509,8 +1482,6 @@ a. If you want the car to go twice as fast at the bottom, by what factor must yo
 
 b. Does your answer to part a depend on whether the track is straight or not? Explain.
 
-From Chapter 10 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Energy 4. Below are shown three frictionless tracks. A ball is released from rest at the position shown on the left.
-
 To which point does the ball make it on the right before reversing direction and rolling back? Point B is the same height as the starting position.
 
 Makes it to Makes it to Makes it to Exercises 5–7: Draw an energy bar chart to show the energy transformations for the situation described.
@@ -1649,8 +1620,6 @@ Work 2 Work and Kinetic Energy 3 Calculating and Using Work 1. For each pair of 
 
 Sign = Sign = Sign = Sign = Sign = Sign = 2. Each of the diagrams below shows a vector A.Draw and label a vectorBthat will cause A⋅Bto have the sign indicated.
 
-A⋅B > 0 A⋅B < 0 A⋅B = 0 From Chapter 11 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Work Exercises 3–10: For each situation: • Draw a before-and-after pictorial diagram.
-
 • Draw and label the displacement vectorΔ r on your diagram.
 
 • Draw a free-body diagram showing all forces acting on the object.
@@ -1782,8 +1751,6 @@ b. At this point, is α positive, negative, or zero?
 ramp, then continues along the upper horizontal surface.
 
 Draw graphs for the wheel’s angular velocity ω and angular acceleration α a as a function of time.
-
-From Chapter 12 of Student Workbook for Physics for Scientists and Engineers. Third Edition. Randall D. Knight. Copyright © 2013 Rotation of a Rigid Body
 
 ## 4. A wheel rolls to the right along the surface shown. Draw
 

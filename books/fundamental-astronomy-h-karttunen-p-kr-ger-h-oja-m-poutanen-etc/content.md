@@ -1,33 +1,10 @@
 # Fundamental Astronomy H Karttunen P Kr ger H Oja M Poutanen etc Z Library
 
-> 来源文件：pre_Fundamental_Astronomy_H_Karttunen_P_Kr_ger_H_Oja_M_Poutanen_etc_Z_Library.txt
-> 字符数（约）：235164
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Fundamental Astronomy H. Karttunen, P. Kröger, H. Oja, M. Poutanen, K.J. Donner (Eds.)
 
 Fifth Edition With 449 Illustrations Including 34 Colour Plates and 75 Exercises with Solutions
 
-Dr. Hannu Karttunen University of Turku, Tuorla Observatory, 21500 Piikkiö, Finland e-mail: hannu.karttunen@utu.fi
-
-Dr. Pekka Kröger Isonniitynkatu 9C 9, 00520 Helsinki, Finland e-mail: pekka.kroger@stadia.fi
-
-Dr. Heikki Oja Observatory, University of Helsinki, Tähtitorninmäki (PO Box 14), 00014 Helsinki, Finland e-mail: heikki.oja@helsinki.fi
-
-Dr. Markku Poutanen Finnish Geodetic Institute, Dept. Geodesy and Geodynamics, Geodeetinrinne 2, 02430 Masala, Finland e-mail: markku.poutanen@fgi.fi
-
-Dr. Karl Johan Donner Observatory, University of Helsinki, Tähtitorninmäki (PO Box 14), 00014 Helsinki, Finland e-mail: donner@astro.helsinki.fi
-
-ISBN 978-3-540-34143-7 5th Edition Springer Berlin Heidelberg New York This work is subject to copyright. All rights are reserved, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilm or in any other way, and storage in data banks. Duplication of this publication or parts thereof is permitted only under the provisions of the German Copyright Law of September 9, 1965, in its current version, and permission for use must always be obtained from Springer-Verlag. Violations are liable for prosecution under the German Copyright Law.
-
-Springer is a part Springer Science+Business Media Cover picture: The James Clerk Maxwell Telescope. Photo credit: Robin Phillips and Royal Observatory, Edinburgh. Image courtesy of www.springer.com the James Clerk Maxwell Telescope, Mauna Kea Observatory, Hawaii Frontispiece: The Horsehead Nebula, officially called Barnard 33, in the constellation of Orion, is a dense dust cloud on the edge of a bright HII region. The photograph was taken with the 8.2 meter Kueyen telescope (VLT2) at Paranal. (Photograph European Southern Observatory)
-
-© Springer-Verlag Berlin Heidelberg 1987, 1994, 1996, 2003, 2007 The use of general descriptive names, registered names, trademarks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
-
 Title of original Finnish edition: Tähtitieteen perusteet (Ursan julkaisuja 56)
-
-© Tähtitieteellinen yhdistys Ursa Helsinki 1984, 1995, 2003 Typesetting and Production: LE-TeX, Jelonek, Schmidt & Vöckler GbR, Leipzig Cover design: Erich Kirchner, Heidelberg/WMX Design, Heidelberg Layout: Schreiber VIS, Seeheim Sources for the illustrations are given in the captions and more fully at the end of the book. Most of the uncredited illustrations are © Ursa Astronomical Association, Raatimiehenkatu 3A2, 00140 Helsinki, Finland Printed on acid-free paper SPIN: 11685739 55/3180/YL 543210
 
 Preface to the Fifth Edition As the title suggests, this book is about fundamental things that one might expect to remain fairly the same. Yet astronomy has evolved enormously over the last few years, and only a few chapters of this book have been left unmodified.
 

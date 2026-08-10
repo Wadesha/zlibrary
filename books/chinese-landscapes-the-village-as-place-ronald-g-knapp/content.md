@@ -1,15 +1,6 @@
 # Chinese Landscapes The Village as Place Ronald G Knapp Z Library
 
-> 来源文件：pre_Chinese_Landscapes_The_Village_as_Place_Ronald_G_Knapp_Z_Library.txt
-> 字符数（约）：661567
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Page iii Chinese Landscapes The Village as Place Edited by Ronald G. Knapp Page iv © 1992 UNIVERSITY OF HAWAII PRESS ALL RIGHTS RESERVED PRINTED IN THE UNITED STATES OF AMERICA 97 96 95 94 93 92 5 4 3 2 1 Library of Congress Cataloging­in­Publication Data Chinese landscapes : the village as place / edited by Ronald G. Knapp, p. cm.
-
 Includes bibliographical references and index.
-
-ISBN 0­8248­1413­4
 
 ## 1. Rural geography—China. 2. Village—China. I. Knapp, Ronald G.,1940­
 
@@ -600,8 +591,6 @@ The Commune Period and Adjustments With the announcement of the "Great Leap Forw
 Communes not only preserved and enhanced collective ownership of the means of production, but also created a hierarchical structure of organization that imprinted the countryside with many patterns and forms that endure to the present. The three levels of organization (the commune, the production brigade, and the team) came both to provide a management scheme operating at different scales and to alter social organization. Enormous problems began to emerge in 1959, however, owing to overly ambitious planning, Figure 4.3.
 
 The "high tide of socialist construction" is suggested by this Shanxi ribao [Shanxi daily] cartoon, which extols the transformation of sleepy villages viarural mechanization, the development of small­scalelocal industry, and bumper crops.
-
-[Source: Reprinted in Tang 1958, 2]
 
 Page 52 zealous cadres, and natural disasters that set back the gains of the early and mid­1950s. "Excessive egalitarianism as well as the indiscriminate transfer of natural resources" (yi ping er diao), as they are termed today to underscore the errors of policy, had a major impact on reducing income levels and, as the Chinese say, "the enthusiasm of the masses" (qunzhong jijixing). Many distinctive traditional houses were destroyed, and others were confiscated—as many homes of landlords had been during land reform—and used for administrative, storage, or productive purposes, or even subdivided to house large numbers of village households.
 

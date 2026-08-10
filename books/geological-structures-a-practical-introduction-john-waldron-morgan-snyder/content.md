@@ -1,15 +1,8 @@
 # Geological Structures A Practical Introduction John Waldron Morgan Snyder Z Library
 
-> 来源文件：pre_Geological_Structures_A_Practical_Introduction_John_Waldron_Morgan_Snyder_Z_Library.txt
-> 字符数（约）：327653
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Geological Structures: a Practical Introduction
 
 New: resources for working on-line.
-
-© John W.F. Waldron and Morgan Snyder University of Alberta
 
 Geological Structures: a Practical Introduction by John Waldron and Morgan Snyder is licensed under a Creative Commons Attribution-NonCommercial
 
@@ -651,8 +644,6 @@ Lab 2. Cross-sections and Three-point Problems  |  43
 
 Assignment 1.* Examine the geological map of the Grand Canyon. Even without structure contours, we can make some inferences about the orientations of different geological units.
 
-Lab 2 Question 1. Geological Map of the Grand Canyon (Maxson 1961, USGS, 1:48000). Credit: U.S. Geological Survey Department of the Interior/USGS U.S. Geological Survey/Published by the Grand Canyon Association. A version of this map can also be downloaded from https://ngmdb.usgs.gov/Prodesc/proddesc_33640.htm Link to larger version of map Look at the topographic contours and notice that their spacing varies dramatically. In some places they are widely spaced, whereas in others they are so close together that they merge together. The steepest slopes are typically found on particular geologic units of erosion-resistant rocks, known as ‘cliff-forming’ units.
-
 a) Using the legend, identify and name one cliff-forming Paleozoic unit that outcrops in consistently steep topographic slopes.
 
 In addition to information about erosion-resistance, the map pattern carries information about the dip of units.
@@ -716,8 +707,6 @@ Explain why this suggestion would also be a bad idea.
 h. * Enter your answers from parts b and d in the spaces provided above the map in next week’s lab, as you will need to use these numbers.
 
 Lab 2 Map 1 Copy orientations for Lab 3 46  |  Lab 2. Cross-sections and Three-point Problems
-
-Figure 1. Wullf net for plotting and measuring features on a stereographic projection D. Stereographic Projection Introduction Stereographic projection is a powerful method for solving geometric problems in structural geology. Unlike structure contouring and other map-based techniques, it preserves only the orientation of lines and planes with no ability to preserve position relationships.  However, it is extremely useful, as orientation problems are very common in structural geology. Stereographic projection has been in use since the second century B.C. and is a popular method used by crystallographers as a tool for representing crystal form.  However, there is one important difference.  Whereas crystallographers use an upper hemisphere projection, structural geologists always use the lower hemisphere.  There is a good reason for this: the lower hemisphere represents the region beneath the Earth’s surface where the rocks have not yet been eroded away.  However, if you have already met the stereographic projection in mineralogy, the lower hemisphere may take a little getting used to. Try to imagine that you are looking down into a bowl-shaped depression in the Earth’s surface.  The on-line visualization tool at https://app.visiblegeology.com/stereonet.html may also help.
 
 Stereogram basics There are two parts to any stereographic projection.  The projection itself, or stereogram, is usually drawn on tracing paper, and represents a bowl-shaped surface embedded in the Earth.  The stereographic net or stereonet is the 3-D equivalent of a protractor.  It is used to measure angles on the projection.
 

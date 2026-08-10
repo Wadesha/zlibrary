@@ -1,0 +1,10 @@
+{
+  "slug": "economics",
+  "title": "Economics",
+  "language": "en",
+  "pipeline": "native",
+  "source_file": "[MD]9_Foundations_for_Financial_Economics.md",
+  "source_pdf": null,
+  "chars": 533481,
+  "has_fixed": false
+}

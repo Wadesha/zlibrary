@@ -1,10 +1,5 @@
 # The Lazy Universe An Introduction to the Principle of Least Action Jennifer Coopersmith Z Library
 
-> 来源文件：pre_The_Lazy_Universe_An_Introduction_to_the_Principle_of_Least_Action_Jennifer_Coopersmith_Z_Library.txt
-> 字符数（约）：295894
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 From the archives of the Dublin Institute for Advanced Studies
 
 THE LAZY UNIVERSE An Introduction to the Principle of Least Action by Jennifer Coopersmith
@@ -14,8 +9,6 @@ Great Clarendon Street, Oxford, OX2 6DP, United Kingdom
 Oxford University Press is a department of the University of Oxford.
 
 It furthers the University’s objective of excellence in research, scholarship, and education by publishing worldwide. Oxford is a registered trademark of Oxford University Press in the UK and in certain other countries
-
-© Jennifer Coopersmith 2017
 
 The moral rights of the author have been asserted
 
@@ -32,8 +25,6 @@ Published in the United States of America by Oxford University Press 198 Madison
 British Library Cataloguing in Publication Data Data available
 
 Library of Congress Control Number: 2016953473
-
-ISBN 978–0–19–874304–0
 
 Printed and bound by CPI Group (UK) Ltd, Croydon, CR0 4YY
 
@@ -152,8 +143,6 @@ It would be wonderful if there was one principle, simple to state, that could ac
 No one knows whether d’Alembert’s beautiful claim is correct but one thing is certain, if we cannot find one universal viewpoint then we will not arrive at one universal truth. For our viewpoint to be universal it is not a question of us all looking at the view from the same hilltop, rather, it is a requirement that all viewpoints are equivalent, and that there is just one universal rule or law or algorithm that solves the problem. Our new principle achieves this - but it seems incredible that one simple ‘algorithm’ could cope with all the specificity, variety, and complexity across the whole of p Physics. To make this plausible, we consider the following fable.
 
 1 D’Alembert, JleR, Discours préliminaire de l’encyclopédie, 1751.
-
-The Lazy Universe. Jennifer Coopersmith, Oxford University Press (2017). © Jennifer Coopersmith. DOI 10.1093/acprof:oso/9780198743040.001.0001
 
 Figure 1.1 The suitors’ puzzle.
 

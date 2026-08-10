@@ -1,23 +1,10 @@
 # Jewel A Celebration of Earth s Treasures DK Judith Miller Z Library
 
-> 来源文件：pre_Jewel_A_Celebration_of_Earth_s_Treasures_DK_Judith_Miller_Z_Library.txt
-> 字符数（约）：656951
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 JEWEL
 
 JEWEL A CELEBRATION OF EARTH’S TREASURES
 
-First published in Great Britain in 2016 by Dorling Kindersley Limited 80 Strand, London WC2R 0RL Copyright © 2016 Dorling Kindersley Limited A Penguin Random House Company Foreword © 2016 Judith Miller
-
-16 17 18 19 20 10 9 8 7 6 5 4 3 2 1 001–282973–Oct/2016 stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without prior permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN 978-0-2412-2603-2 Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW
-
-www.dk.com
 
 INTRODUCTION Treasures of the Earth What is a mineral?
 
@@ -7935,7 +7922,7 @@ Bridgeman Images: Christie’s Images (fcr, fbr). Dorling Kindersley: Natural
 
 com: Milahelp S.r.o. (cr, bc, br). 323 Dorling Kindersley: Pitt Rivers Museum, Oxford (fbr, br); Natural History Museum, London (tl, fcl, cl); Ruth Jenkinson (fcr, bl); Holts (cr/obsidian). 324 Dorling Kindersley:Aberdeen (bc); Natural History Museum, London (tl, br); Pennsylvania Museum of Archaeology and Anthropology (bl). 325 Dorling Kindersley: Aberdeen (cl); Pennsylvania Museum of Archaeology and Anthropology (tl, fcr); Ruth Jenkinson (cr/ sandstone). Dreamstime.com: Srinakorn Tangwai (bl). 326 Corbis: Christian Handl. 327 123RF.com: Patrick Guenette (cl). Alamy Stock Photo: PRISMA ARCHIVO (cr). Corbis: Free Agents Limited (tl). iStockphoto.
 
-com: &#169 Bj°rn Gjelsten (bc). 328 1stdibs, Inc. Alamy Stock Photo: Wladimir Bulgar (cl). Bridgeman Images. 329 Dorling Kindersley: Natural History Museum, London (tl, fcl, cl). 330 Alamy Stock Photo: Adam Eastland Art + Architecture. 331 Bridgeman Images: Bonhams, London, UK (cla). Corbis: (tl, bl). ICCD – Fondo Ministero della Pubblica Istruzione Gabinetto fotografico della Regia Soprintendenza alle Gallerie: (crb). 332 Bridgeman Images: Christie’s Images (cl). Getty Images: Ishara S. Kodikara (bl). Rex by Shutterstock: Universal History Archive / UIG (tr). Science Photo Library: Tom McHugh (br). 333 Crater of Diamonds, State Park: (fcrb). Kaufmann de Suisse: (l). Press Association Images: AP Photo / Keystone, Laurent Gillieron (cra). 334-335 © Cartier. 337 Dorling Kindersley: Holts (c). 338 Alamy Stock Photo: Fabrizius Troy (cla). Bonhams Auctioneers, London: (fcra).Dorling Kindersley: Natural History Museum, London (clb, fbl, bl, br); Holts (tc, tr, fcla); Natural History Museum, London (crb); Natural History Museum, London (fbr). iRocks.com/ Rob Lavinsky Photos. 339 Alamy Stock Photo: Arco Images GmbH (br); Steve Sant (fcla). Bonhams Auctioneers, London. Dorling Kindersley: Natural History Museum, London (cra, fcra, crb/Alexandrite, fcrb, fbl, fbr); Ruth Jenkinson / Holts (tl); Holts (clb). Getty Images: Corbis / ION / amanaimages (ftr). iRocks.com/Rob Lavinsky Photos: (fclb). 340 Alamy Stock Photo: Goran Bogicevic (fbr). Dorling Kindersley: Natural History Museum, London (ftr, fcla, cra, crb); Ruth Jenkinson (fcra); Holts (clb). Getty Images: Arpad Benedek (cla); Ron Evans (ftl). Roland Smithies / luped.com: (tl). 341 Bonhams Auctioneers, London. Dorling Kindersley: Natural History Museum, London (ftl, tl, tr, cla, fcra, crb, br); Tim Parmenter / Natural History Museum, London (ftr); Ruth Jenkinson (cra); Holts (fcla, fcrb, bc/Heliodor); Natural History Museum, London (br).
+com: © Bj°rn Gjelsten (bc). 328 1stdibs, Inc. Alamy Stock Photo: Wladimir Bulgar (cl). Bridgeman Images. 329 Dorling Kindersley: Natural History Museum, London (tl, fcl, cl). 330 Alamy Stock Photo: Adam Eastland Art + Architecture. 331 Bridgeman Images: Bonhams, London, UK (cla). Corbis: (tl, bl). ICCD – Fondo Ministero della Pubblica Istruzione Gabinetto fotografico della Regia Soprintendenza alle Gallerie: (crb). 332 Bridgeman Images: Christie’s Images (cl). Getty Images: Ishara S. Kodikara (bl). Rex by Shutterstock: Universal History Archive / UIG (tr). Science Photo Library: Tom McHugh (br). 333 Crater of Diamonds, State Park: (fcrb). Kaufmann de Suisse: (l). Press Association Images: AP Photo / Keystone, Laurent Gillieron (cra). 334-335 © Cartier. 337 Dorling Kindersley: Holts (c). 338 Alamy Stock Photo: Fabrizius Troy (cla). Bonhams Auctioneers, London: (fcra).Dorling Kindersley: Natural History Museum, London (clb, fbl, bl, br); Holts (tc, tr, fcla); Natural History Museum, London (crb); Natural History Museum, London (fbr). iRocks.com/ Rob Lavinsky Photos. 339 Alamy Stock Photo: Arco Images GmbH (br); Steve Sant (fcla). Bonhams Auctioneers, London. Dorling Kindersley: Natural History Museum, London (cra, fcra, crb/Alexandrite, fcrb, fbl, fbr); Ruth Jenkinson / Holts (tl); Holts (clb). Getty Images: Corbis / ION / amanaimages (ftr). iRocks.com/Rob Lavinsky Photos: (fclb). 340 Alamy Stock Photo: Goran Bogicevic (fbr). Dorling Kindersley: Natural History Museum, London (ftr, fcla, cra, crb); Ruth Jenkinson (fcra); Holts (clb). Getty Images: Arpad Benedek (cla); Ron Evans (ftl). Roland Smithies / luped.com: (tl). 341 Bonhams Auctioneers, London. Dorling Kindersley: Natural History Museum, London (ftl, tl, tr, cla, fcra, crb, br); Tim Parmenter / Natural History Museum, London (ftr); Ruth Jenkinson (cra); Holts (fcla, fcrb, bc/Heliodor); Natural History Museum, London (br).
 
 V&A Images / Victoria and Albert Museum, London. 342 Dorling Kindersley: Natural History Museum, London (tr, br, fbr); Holts (tl, cla, cra, fcrb); Ruth Jenkinson (fcla). 343 Alamy Stock Photo: Zoonar GmbH (fcra). Dorling Kindersley: Natural History Museum, London (fcla/Moldavite, cla/Kornerupine, fbl, bl/Microcline); Holts (tl, cra/Ammolite, fclb, clb, fbr). 344 Dorling Kindersley: Natural History Museum, London (ftr, fcla, cra); Holts (tl, tr, fclb, cb, crb, br); Holts (fcra). Getty Images: Arpad Benedek (clb). 345 Dorling Kindersley: Natural History Museum, London (ftr, cra, fcra); Holts (ftl, tr, fcla, fclb, fcrb, br, fbr). 346 Bonhams Auctioneers, London. Dorling Kindersley: Natural History Museum, London (fcra, fcrb); Holts (ftl, tl, cra, fbr); Ruth Jenkinson (fclb, clb). 347 Bonhams Auctioneers, London: (clb). Dorling Kindersley: Natural History Museum, London (tr, fclb); Holts (ftl); Ruth Jenkinson (cla). Science Photo Library: Natural History Museum, London (tl)
 

@@ -1,33 +1,20 @@
 # David J Griffiths Introduction to Electrodynamics Addison Wesley 2012
 
-> 来源文件：pre_David_J_Griffiths_Introduction_to_Electrodynamics_Addison_Wesley_2012.txt
-> 字符数（约）：275464
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 INTRODUCTION TO ELECTRODYNAMICS Fourth Edition David J. Griffiths Reed College
 
 Executive Editor: Jim Smith Senior Project Editor: Martha Steele Development Manager: Laura Kenney Managing Editor: Corinne Benson Production Project Manager: Dorothy Cox Production Management and Composition: Integra Cover Designer: Derek Bacchus Manufacturing Buyer: Dorothy Cox Marketing Manager: Will Moore
 
 Credits and acknowledgments for materials borrowed from other sources and reproduced, with permission, in this textbook appear on the appropriate page within the text.
 
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
-
 Library of Congress Cataloging-in-Publication Data Griffiths, David J. (David Jeffery), 1942- Introduction to electrodynamics / David J. Griffiths, Reed College. – Fourth edition.
 
 pages cm Includes index.
-
-ISBN-13: 978-0-321-85656-2 (alk. paper)
-
-ISBN-10: 0-321-85656-2 (alk. paper)
 
 ## 1. Electrodynamics – Textbooks. I. Title
 
 QC680.G74 2013
 
 ## 537.6 –dc23
-
-2012029768 ISBN 10: 0-321-85656-2 ISBN 13: 978-0-321-85656-2 www.pearsonhighered.com 12345678910 — CRW — 1615141312
 
 Contents Advertisement xiv 1 Vector Analysis 1
 
@@ -230,8 +217,6 @@ As in previous editions, I distinguish two kinds of problems. Some have a specif
 I have benefitted from the comments of many colleagues. I cannot list them all here, but I would like to thank the following people for especially useful contributions to this edition: Burton Brody (Bard), Catherine Crouch (Swarthmore), Joel Franklin (Reed), Ted Jacobson (Maryland), Don Koks (Adelaide), Charles Lane (Berry), Kirk McDonald2 (Princeton), Jim McTavish (Liverpool), Rich Saenz (Cal Poly), Darrel Schroeter (Reed), Herschel Snodgrass (Lewis and Clark), and Larry Tankersley (Naval Academy). Practically everything I know about electrodynamics—certainly about teaching electrodynamics—I owe to Edward Purcell.
 
 David J. Griffiths
-
-2 Kirk’s website, http://www.hep.princeton.edu/~mcdonald/examples/, is a fantastic resource, with clever explanations, nifty problems, and useful references.
 
 WHAT IS ELECTRODYNAMICS, AND HOW DOES IT FIT INTO THE GENERAL SCHEME OF PHYSICS?
 

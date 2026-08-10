@@ -1,10 +1,5 @@
 # Playing for Real A Text on Game Theory Ken Binmore Z Library
 
-> 来源文件：pre_Playing_for_Real_A_Text_on_Game_Theory_Ken_Binmore_Z_Library.txt
-> 字符数（约）：282356
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Playing for Real
 
 A Text on Game Theory
@@ -21,19 +16,11 @@ With offices in
 
 Argentina Austria Brazil Chile Czech Republic France Greece Guatemala Hungary Italy Japan Poland Portugal Singapore South Korea Switzerland Thailand Turkey Ukraine Vietnam
 
-Copyright © 2007 by Oxford University Press, Inc.
-
-Published by Oxford University Press, Inc. 198 Madison Avenue, New York, New York 10016 www.oup.com
-
 Oxford is a registered trademark of Oxford University Press
 
 Library of Congress Cataloging-in-Publication Data
 
-Binmore, K.G., 1940– Playing for real: a text on game theory / Ken Binmore. p. cm. Includes index. ISBN 978-0-19-530057-4 1. Game theory. I. Title. QA269.B4752005 519.3—dc22 2005053938
-
 1 3 5 7 9 8 6 4 2
-
-Printed in the United States of America on acid-free paper
 
 I dedicate Playing for Real to my wife, Josephine
 
@@ -64,8 +51,6 @@ The exercises are similarly labeled with warnings about their content. Nobody wi
 By the time the book is published, Jernej Copic will have finished getting his solutions onto a website. Oxford University Press will provide access details to recognized teachers.
 
 Thanks. So many people have helped me, with both Fun and Games and Playing for Real, that I have lost track of them all. I shall therefore mention only the very special debt of gratitude I owe to my long-time coauthor, Larry Samuelson, for both his patience and his encouragement. I also want to thank the California Institute of Technology for giving me the leisure to complete this book as a Gordon Moore Scholar. I should also acknowledge the Victorian artist John Tenniel, whose magnificent illustrations from Lewis Carroll’s Alice books I have shamelessly stolen and messed around with.
-
-Apologies. Let me apologize in advance for the errors that have doubtless found their way into Playing for Real. If you find an error, please join the many others who have helped me by letting me know about it at k.binmore@ucl.ac.uk. I will be genuinely grateful.
 
 Finally, I need to apologize not only for my mistakes but also for my attempts at humor. Oscar Wilde reported that a piano in a Western saloon carried a notice saying, ‘‘Please don’t shoot the pianist. He’s doing his best.’’ The same goes for me, too. It isn’t easy to write in a light-hearted style when presenting mathematical material, but I did my best.
 

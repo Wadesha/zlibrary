@@ -1,15 +1,6 @@
 # Vectors Tensors and the Basic Equations of Fluid Mechanics Aris Rutherford Z Library
 
-> 来源文件：pre_Vectors_Tensors_and_the_Basic_Equations_of_Fluid_Mechanics_Aris_Rutherford_Z_Library.txt
-> 字符数（约）：255016
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Vectors, Tensors, and the Basic Equations of Fluid Mechanics Rutherford Aris Regents' Professor, University of Minnesota DOVER PUBLICATIONS, INC.
-
-New York Copyright © 1962 by Rutherford Aris.
-
-This Dover edition, first published in 1989, is an unabridged and corrected republication of the work first published by Prentice-Hall, Inc., Englewood Cliffs, New Jersey, in 1962.
 
 Library of Congress Cataloging-in-Publication Data Aris, Rutherford.
 
@@ -17,13 +8,9 @@ Vectors, tensors, and the basic equations of fluid mechanics / Rutherford Aris.
 
 p. cm.
 
-ISBN 0-486-66110-5
-
 ## 1. Fluid dynamics. 2. Calculus of tensors. 3. Vector
 
 analysis. I. Title.
-
-QA911.A69 1989 532-dc20 89-23501 CIP Manufactured in the United States by Courier Corporation 66110512 www.doverpublications.com Preface "What! another book on vectors and tensors?" The cry goes up alike from the student searching the bookstore for a beginning text as from the savant who learned his stuff years ago from some tome on de Rham Calculus. "What conceivable reason can this fellow have for inflicting another book on us?"
 
 First let it be said that this is a text intended for the engineering scien- tist, for the physicist or applied mathematician perhaps, but not for the differential geometer or pure mathematician. Second, it is an introductory text, intended for a reader with some acquaintance with the calculus of partial differentiation and multiple integration but nothing more. There- fore, being for a reader with interest in the physical world, it sets out to show that the calculus of tensors is the language most appropriate to the rational examination of physical field theories. Of these theories I have selected the theory of fluid mechanics as being of central importance and wide appeal. The idea behind this treatment is to use the physical theory to motivate the thorough study of the mathematical subject and, con- versely, to show how the mathematical theory can give a truer insight into the physical situation.
 

@@ -1,10 +1,5 @@
 # Geological Field Techniques Angela L Coe Tom W Argles David A Rothery etc Z Library
 
-> 来源文件：pre_Geological_Field_Techniques_Angela_L_Coe_Tom_W_Argles_David_A_Rothery_etc_Z_Library.txt
-> 字符数（约）：626260
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 GEOLOGICAL FIELD TECHNIQUES
 
 Cartoons by Ian Wightman Front cover image: Carboniferous age (Namurian) rocks exposed at Sugar Sands Bay, near Alnwick, Northumberland, UK. These are part of a succession of rocks interpreted as inﬁ ll of an interdistributary bay or lagoon along the shore of a delta. Superimposed on the photograph is part of a graphic log of the succession summarizing the thickness of the units, lithology, sedimentary structures and cycles. (Angela L. Coe, The Open University, UK.)
@@ -21,8 +16,6 @@ Back cover images (in descending order): 1. Walcott Quarry, Canadian Rockies dur
 
 This species deﬁ nes the lowermost ammonite zone of the Jurassic. Ammonite is c. 4 cm across. (Peter R. Sheldon, The Open University, UK.)
 
-Companion Website: A companion resources site for this book is available at www.wiley.com/go/coe/geology With: • All ﬁ gures and tables from the book • Additional excercises and answers • Useful websites, selected by the authors
-
 ## GEOLOGICAL FIELD TECHNIQUES
 
 Edited by Angela L. Coe Authors: Angela L. Coe Tom W. Argles David A. Rothery Robert A. Spicer Department of Earth and Environmental Sciences, The Open University, Walton Hall, Milton Keynes, UK A John Wiley & Sons, Ltd., Publication
@@ -31,31 +24,15 @@ Published by Blackwell Publishing Ltd in association with The Open University Wa
 
 ## MK7 6AA
 
-United Kingdom First published 2010 Copyright © 2010, The Open University utilised in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without written permission from the publisher or a licence from the Copyright Licensing Agency Ltd. Details of such licences (for reprographic reproduction) may be obtained from the Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS (website www.cla.co.uk).
-
-Open University course materials may also be made available in electronic formats for use by students of the University. All rights, including copyright and related rights and database rights, in electronic course materials and their contents are owned by or licensed to The Open University, or otherwise used by The Open University as permitted by applicable law.
-
 In using electronic course materials and their contents you agree that your use will be solely for the purposes of following an Open University course of study or otherwise as licensed by The Open University or its assigns.
-
-Except as permitted above you undertake not to copy, store in any medium (including electronic storage or use in a website), distribute, transmit or retransmit, broadcast, modify or show in public such electronic materials in whole or in part without the prior written consent of The Open University or in accordance with the Copyright, Designs and Patents Act 1988.
 
 Typeset by Toppan Best-set Premedia Limited.
 
 Printed and bound in Malaysia.
 
-The paper used in this publication is procured from forests independently certiﬁ ed to the level of Forest Stewardship Council (FSC) principles and criteria. Chain of custody certiﬁ cation allows the tracing of this paper back to speciﬁ c forest-management units (see www.fsc.org).
-
-Details of Open University courses can be obtained from the Student Registration and Enquiry Service, The Open University, PO Box 197, Milton Keynes MK7 6BJ, United Kingdom (tel. +44 (0)845 300 60 90, email general-enquiries@open.ac.uk).
-
-www.open.ac.uk Library of Congress Cataloging-in-Publication Data Geological ﬁ eld techniques / edited by Angela L. Coe.
-
 p. cm.
 
 Includes bibliographical references and index.
-
-ISBN 978-1-4443-3061-8 (hardback)
-
-ISBN 978-1-4443-3062-5 (paperback)
 
 ## 1. Geology–Fieldwork. I. Coe, Angela L
 
@@ -173,8 +150,6 @@ Many long - term friendships have been forged through geological ﬁ eldwork.
 
 This book is aimed primarily at undergraduates studying geology and Earth sciences. It will also potentially be of use to engineers, archaeologists and environmental scientists who need to collect information on the bedrock. The increasingly multidisciplinary nature of science will make the text useful to masters, doctoral and professional scientists who do not have a background in practical geology or Earth science. The book is non - site speciﬁ c and includes examples from around the world. There are chapters covering data collection from igneous, metamorphic and sedimentary rocks as well as speciﬁ c chapters on palaeontological and structural data collection. It also deals with the basics of geological mapping.
 
-The book assumes a basic understanding of the main concepts and theory in geology. It assumes that the reader is familiar with: the major rock - forming minerals, how to identify minerals in hand specimen, rock classiﬁ cation, geological processes and common geological terms. The further reading lists at the ends of the chapters provide a selection of introductory geological texts as well as more specialist ones. In addition there are appendices summarizing key geological features and classiﬁ cation schemes. There is also an accompanying website ( www.
-
 wiley.com/go/coe/geology ) with all of the ﬁ gures, tables, links to other websites and other material. Reviews of the original book proposal suggested expansion of certain chapters and even the deletion of others, however, none of the reviewers agreed on which chapters these should be so clearly it is a matter of personal preference. We have therefore kept to the broad overview, and refer the reader to more specialist ﬁ eldwork texts that are available, and hope that this book inspires others to write textbooks on more speciﬁ c ﬁ eldwork topics that are not available.
 
 Writing a book on ﬁ eld techniques has long been an ambition of mine; the style and organization has had a lengthy gestation period during many months of ﬁ eldwork, both as a researcher and a university lecturer. I am delighted that when I was eventually able to spend some time completing this task I was joined by a number of colleagues who had expertise that complemented my own; it has been a pleasure to work with them. I would like to thank all the colleagues, PhD students and undergraduate students that I have worked with. My experience of being with them in the ﬁ eld has helped me to shape this book.
@@ -197,12 +172,6 @@ Last, but not least, we would like to thank our ﬁ eld colleagues, and students
 
 Figure acknowledgements Grateful acknowledgement is made to the following sources for previously published ﬁ gures (for full references see pp. 261 – 262): Map extracts in Figures 2.11, 2.12, 10.1a, 10.1b and 10.5. Reproduced with permission of the Ordnance Survey on Hill, C. R. 1979.  ‘ Principal components.  … ’ Review of Palaeobotany and Palynology. Elsevier Inc; Figure 6.10: Coe, A. L.
 
-1996.  ‘ Unconformities within.  … ’ in Special Publication No. 103, 1996. The Geological Society, London; Figures 6.13b and 6.14: Alexander, J. 1992.  ‘ Nature and origin of.  … ’ , Journal of the Geological Society, Vol 149. Copyright  © 1992 The Geological Society; Figure 7.16: Lippard, S. J.  et al . 1986. The Ophiolite of Northern Oman. Copyright  © 1986 The Geological Society; Figure 10.2b: Watts, D. R.  et al . (2005)  ‘ Mapping granite and.  … ’ , Geological Society of America Bulletin, Vol. 117. Copyright  © 2005 Geological Society of America; Figure A5.4: After Goldring, R. 1991. Fossils in the Field. Copyright  © 1991 Longman Group UK Limited; Figure A5.6: After North American Commission on Stratigraphic Nomenclature 1983. AAPG  © 1983. American Association of Petroleum Geologists; Figures A6.9a, A6.9b and A6.13: After Stow, D. A. V. 2005. Sedimentary Rocks in the Field. Copyright  © 2005 Manson Publishing Ltd; Figure A10.2: After McClay, K. R. 1991. The Mapping of Geological Structures. Geological Society of London Handbook.
-
-Copyright  © K. R. McClay. John Wiley and Sons.
-
-Every effort has been made to contact copyright holders. If any have been inadvertently overlooked we will be pleased to make the necessary amendments at the ﬁ rst opportunity.
-
 Introduction Introduction Angela L.  Coe The main aim of ﬁ eld geology is to observe and collect data from rocks and/or unconsolidated deposits, which will further our understanding of the physical, chemical and biological processes that have occurred over geological time. Many of the basic observational principles used in ﬁ eld geology have not changed for hundreds of years, although the interpretation of the data, the scale of resolution and some of the equipment has advanced greatly. Fieldwork involves making careful observations and measurements in the ﬁ eld (Figure  1.1 a) and the collection and precise recording of the position of samples for laboratory analysis (Figure  1.1 b). The very act of collecting ﬁ eld data often raises questions about processes on Earth, which had perhaps not previously been envisaged.
 
 Furthermore, during ﬁ eldwork it is usual to initiate, or to build on, constructing and testing different hypotheses and interpretations based on the observations; this iterative process will help to determine the essential data and samples to collect.
@@ -212,8 +181,6 @@ This book is divided into 14 chapters. Chapter  2 covers the most commonly used 
 and sampling (Chapter  13 ).
 
 * The term exposure is used to indicate areas where rocks are visible at the Earth ’ s surface. This is in contrast to the term outcrop which also encompasses those areas where the rock is at the Earth ’ s surface but is covered by superﬁ cial deposits and soil.
-
-Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
 
 Figure 1.1  (a) Geologists collecting data for a graphic log (Section  6.3 ) to record how a sedimentary succession has changed through time and to decipher the overall depositional environment.
 
@@ -298,8 +265,6 @@ This is achieved through the use of measuring tapes, a compass - clinometer, roc
 Table 2.1  Equipment required for most geological ﬁ eldwork.
 
 Clothing and safety equipment is discussed in Section  2.11 .
-
-Essential ﬁ eld equipment Field notebook Pencils, eraser, pencil sharpener A few coloured pencils Tape measure, surveyor ’ s tape or folding ruler Hand lens Compass - clinometer Comparison and identiﬁ cation charts appropriate to the task Relevant topographical maps First aid kit and any personal medical supplies that might be required Backpack/rucksack Food and water sufﬁ cient for the ﬁ eldwork period Emergency food supplies Suitable clothing and footwear Spare clothing and/or sunblock as appropriate Mobile phone, radio or satellite phone Safety equipment as appropriate Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
 
 Equipment How accurate the measurement needs to be, or whether an estimate is sufﬁ cient, depends on the objective of the exercise and the quality of the exposure. For example, if all you need is a general description of a sandstone body it may be sufﬁ cient to describe it as a sandstone with beds of variable thickness between about 10 cm and 2 m. However, if you need to sample the sandstone or determine how the thickness of the individual units varies laterally then it will be necessary to measure the thickness of each of the units. Equally in most cases there is a need to record the azimuth (direction relative to north) and the magnitude of the vertical angle or dip to the nearest couple of degrees rather than just the general direction. This is because of the need to convey important information on the direction of different processes (e.g. folding or palaeocurrents) and, importantly, enable an accurate record of the geometry of rock units to be calculated and recorded.
 
@@ -671,8 +636,6 @@ Retaining this orientation place one edge of the compass adjacent to the feature
 
 Repeat for at least one more feature. The point at which the lines intersect marks your position. See further notes on checking your position in Sections 2.3.3 and 10.3.
 
-Figure 2.12  Triangulation using a Silva - type compass. Inset shows line of sight. The terms for the different parts of the compass - clinometer are given in Figure  2.3 d and e.  (Map extract as Figure  2.11 .  © Crown
-
 Equipment measurement: (1) the azimuth is retained by the compass when one moves away from the sighting; (2) the map does not have to be orientated to transfer the measurement (step 3, Figure
 
 ## 2.12 ); (3) the transparent compass - needle housing makes
@@ -935,8 +898,6 @@ Equipment Maintain an awareness of hazards around you and ensure you warn others
 
 (1)  Be  p repared Ensure that you or one of the members of the ﬁ eld group have the correct equipment and that it is all in good working order.
 
-This not only includes the speciﬁ c safety items such as those listed in Section  2.11.3 , but also the means to locate yourself and to return via a safe route to civilization (i.e. a map and compass and/or a GPS), enough food and drink for the time you will be spending in the ﬁ eld along with some emergency rations, sufﬁ cient clothing for the expected range of weather conditions, a ﬁ rst aid kit and the means of raising the emergency services (i.e. mobile phone, radio or satellite phone; Table  2.1 ). At least one member of the party should be trained in ﬁ rst aid. If required by your ﬁ eld organizer, university or employer you should complete a risk assessment form (example risk assessments are provided on the website that accompanies this book  –  www.wiley.com/go/coe/geology ). The party members should also decide whether they are physically ﬁ t enough to traverse the terrain that they will encounter.
-
 (2)  Assess and  m onitor the  p otential  h azards If possible, assess the hazards before going into the ﬁ eld area either by talking to someone who has been before or with the use of maps, guidebooks to the area, satellite images (such as Google Earth TM ), aerial photographs and ﬁ eld photographs.
 
 Even if you are able to assess the hazards prior to your visit, or it is a locality you have visited before, it is still necessary to constantly monitor any potential dangers whilst you are in the ﬁ eld. If it is really dangerous and there is a high probability of injury or worse you should be prepared to discontinue ﬁ eldwork at this locality. Common hazards and the preventative action that can be taken to avoid them are as follows.
@@ -1025,8 +986,6 @@ Pollard ,  A. J. and  Murdoch ,  D. R.  2003 .  The High Altitude Medicine Handb
 
 Wiseman ,  J.  1993 .  SAS Survival Guide ,  Collins , 384 pp. [Useful sections on clothing, ﬁ rst aid, what to expect in a variety of terrains, and other tips for survival in more remote regions of the world.]
 
-The web addresses of selected geological equipment suppliers are provided on the accompanying website for this book  – www.wiley.com/go/coe/geoloay .
-
 Table 2.4  Summary of the main code of ethics for countryside and wilderness areas.
 
 Countryside/wilderness code of ethics Take responsibility for your own actions Leave gates and property as you ﬁ nd them Respect other people ’ s privacy and/or cultural sensitivities Do not disturb plants and animals Leave nothing behind Do not hammer or sample unless it is necessary Follow any signs and landowner ’ s instructions
@@ -1048,8 +1007,6 @@ Going out into the ﬁ eld and examining rocks at an exposure for the ﬁ rst ti
 ## 5.  What is the most appropriate way of collecting the data?
 
 (Section  3.3 , Chapters 5 – 10)
-
-3.1.1  Deﬁ ning the  ﬁ eldwork  o bjectives Fieldwork is undertaken to address particular scientiﬁ c problems; these should be clearly deﬁ ned before going into the ﬁ eld. This is because it is very easy, when out in the ﬁ eld and faced by excellent rock exposures, to become distracted by other interesting features or to spend too long on particular aspects. For instance, if the objective of the ﬁ eldwork is to determine the orientation, sense and amount of displacement on a series of faults bounding a sedimentary basin then the only critical feature of the sedimentary beds required is a knowledge of the stratigraphy to determine the amount of displacement across the faults. On the other hand if the objective of the ﬁ eldwork is to produce a graphic log of the succession then the details of any later structural movement are Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
 
 If you are faced with a lot of good exposure and do not know where to start, break it down into small parts.
 
@@ -1226,8 +1183,6 @@ One way to think of your ﬁ eld notebook is as an  ‘ academic ’ diary, i.e.
 The choice of a suitable ﬁ eld notebook was covered in Sections
 
 ## 2.8 and  2.9 . This chapter concentrates on the type of
-
-information that you need to collect in the ﬁ eld and suggestions for organization of the data. The principles are equally applicable to both an electronic notebook and a hardcopy notebook. A few features may need to be adapted for electronic use: for instance, use of sequential and logical ﬁ le names rather than page numbers, creating an index and/or ﬁ les with preliminary information. One of the main challenges of Geological Field Techniques, 1st edition. Edited by Angela L. Coe. © 2010 by The Open University.
 
 Notebook using an electronic system is ﬁ nding a suitable means of easily making detailed sketches (Section  4.3 ).
 

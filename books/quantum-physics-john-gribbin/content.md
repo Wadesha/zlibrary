@@ -2,11 +2,7 @@
 
 ## 9.95 Canada
 
-## ISBN 0-7894-8923-6
-
 ## 780789 489234
-
-## Printed in China
 
 ## ## ESSENTIAL SCIENCE
 
@@ -56,12 +52,6 @@ DK Publishing, Inc.
 
 New York, NY 10014
 
-Copyright © 2002 Dorling Kindersley Limited
-
-All rights reserved under International and Pan-American
-
-Copyright Conventions.
-
 ### No part of this publication may be
 
 ## reproduced
@@ -84,8 +74,6 @@ Copyright Conventions.
 
 ### without the prior written permission of
 
-the copyright owner.
-
 ## Published in Great Britain by
 
 Dorling Kindersley Limited.
@@ -101,8 +89,6 @@ Quantum physics / John Gribbin.
 ## – (Essential Science)
 
 Includes bibliographical references and index.
-
-ISBN 0-7894-8923-6 (alk.
 
 ## paper)
 
@@ -124,11 +110,7 @@ QC174.
 
 ## Singapore
 
-## Printed in China by WKT
-
 ### See our complete product line at
-
-www.
 
 ## contents
 

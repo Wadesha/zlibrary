@@ -1,19 +1,10 @@
 # Timelines of History The Ultimate Visual Guide To The Events That Shaped The World DK Smithsonian Z Library
 
-> 来源文件：pre_Timelines_of_History_The_Ultimate_Visual_Guide_To_The_Events_That_Shaped_The_World_DK_Smithsonian_Z_Library.txt
-> 字符数（约）：2537360
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 s m i t h s o n i a n
 
 s m i t h s o n i a n
-
-First published in Great Britain in 2011 by Dorling Kindersley Limited 80 Strand, London WC2R 0RL A Penguin Company Copyright © 2011 Dorling Kindersley Limited 2  4  6  8  10  9  7  5  3  1 stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of the copyright owner.
 
 Senior Editors Angeles Gavira Guerrero, Peter Frances, Janet Mohun Project Editors Lara Maiklem, Ruth O’Rourke-Jones, Peter Preston, David Summers Editors Corinne Masciocchi, Lizzie Munsey, Martyn Page, Laura Palosuo, Gill Pitts, Steve Setford, Nikki Simms, Alison Sturgeon, Miezan van Zyl, Laura Wheadon, Victoria Wiggins Editorial Assistant Sam Priddy Indexer Hilary Bird Picture Researchers Ria Jones, Liz Moore Managing Editor Sarah Larter Publisher Jonathan Metcalf DK INDIA DORLING KINDERSLEY Senior Art Editor Ina Stradins Project Art Editors Paul Drislane, Alison Gardner, Anna Hall, Francis Wong Designers Riccie Janus, Fiona Macdonald, Duncan Turner Production Editor Ben Marcus Senior Production Controller Mandy Inness Creative Technical Support Adam Brackenbury Jacket Designers Mark Cavanagh Cartographer Encompass Graphics Limited Managing Art Editor Michelle Baxter Art Director Phil Ormerod SMITHSONIAN INSTITUTION Project Co-ordinator Ellen Nanney Managing Editor Rohan Sinha Senior Editor Soma B. Chowdhury Editor Rahul Ganguly Assistant Editors Sudeshna Dasgupta, Himanshi Sharma DTP Manager Balwant Singh DTP Designers Arjinder Singh, Rajesh Singh Adhikari, Tanveer Abbas Zaidi, Shankar Prasad Design Manager Arunesh Talapatra Senior Designers Sudakshina Basu, Balwant Singh Designers Anjana Nair, Mini Dhawan, Pallavi Narain Assistant Designers Showmik Chakraborty, Arushi Nayar, Neha Sharma Production Manager Pankaj Sharma Senior DTP Designers Dheeraj Arora, Jagtar Singh A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978 1 4053 6712 7 Colour reproduction by Alta Images, London Printed and bound in China by Hung Hing LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI Discover more at www.dk.com
 
 Dr. Jane McIntosh 8MYA–700BCE Senior Research Associate, Faculty of Asian and Middle Eastern Studies, University of Cambridge, UK Professor Neville Morley 700BCE–599CE Professor of Ancient History, School of Humanities, University of Bristol, UK Dr. Roger Collins 600–1449 Honorary Fellow, School of History, Classics, and Archaeology, University of Edinburgh, UK TECHNOLOGY AND SUPERPOWERS R.G. Grant History writer who has published more than 20 books, including Battle, Soldier, Flight, and History for DK.
 

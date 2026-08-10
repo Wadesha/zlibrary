@@ -1,10 +1,5 @@
 # Electromagnetic Field Theory Fundamentals Guru B S Hiziroglu H R Z Library
 
-> 来源文件：pre_Electromagnetic_Field_Theory_Fundamentals_Guru_B_S_Hiziroglu_H_R_Z_Library.txt
-> 字符数（约）：1084032
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Electromagnetic GuruandHizirogˇluhaveproducedanaccessibleanduser-friendlytext onelectromagneticsthatwillappealtobothstudentsandlecturersteach- Field Theory ingthiscourse.Thislivelybookincludesmanyworkedexamplesand Fundamentals problemsineverychapter,aswellaschaptersummariesandbackground revisionmaterialwhereappropriate.Thebookintroducesundergraduate studentstothebasicconceptsofelectrostaticandmagnetostaticfields, beforemovingontocoverMaxwell’sequations,propagation,transmis- sion,andradiation.Sectionsonthefiniteelementandfinitedifference method, and a detailed appendix on the Smith chart, are additional enhancements.
 
 BhagGuruisaProfessorintheECEDepartmentatKetteringUniversity.
@@ -15,11 +10,7 @@ Hu¨seyinR.Hizirogˇlu is a Professor in the Department of Electrical and Comput
 
 HizirogluisaseniormemberofIEEE.
 
-Electromagnetic Field Theory Fundamentals SECOND EDITION Bhag Singh Guru and Hu¨seyin R. Hizirogˇlu KetteringUniversity published by the press syndicate of the university of cambridge ThePittBuilding,TrumpingtonStreet,Cambridge,UnitedKingdom cambridge university press TheEdinburghBuilding,CambridgeCB22RU,UK 40West20thStreet,NewYork,NY10011–4211,USA 477WilliamstownRoad,PortMelbourne,VIC3207,Australia RuizdeAlarco´n13,28014Madrid,Spain DockHouse,TheWaterfront,CapeTown8001,SouthAfrica http://www.cambridge.org Firstedition(cid:1)C PWSPublishingCompany1998 Secondedition(cid:1)C B.S.GuruandH.R.Hizirogˇlu2004 Thisbookisincopyright.Subjecttostatutoryexception andtotheprovisionsofrelevantcollectivelicensingagreements, noreproductionofanypartmaytakeplacewithout thewrittenpermissionofCambridgeUniversityPress.
-
 Firstpublished1998byPWSPublishingCompany Secondeditionpublished2004byCambridgeUniversityPress Reprinted with corrections2005 PrintedintheUnitedKingdomattheUniversityPress,Cambridge TypefacesTimes10/13pt.,andHelveticaNeueCondense SystemLATEX2ε [tb]
-
-AcatalogrecordforthisbookisavailablefromtheBritishLibrary ISBN0521830168hardback Contents Preface [xi]
 
 Acknowledgments [xv]
 

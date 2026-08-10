@@ -1,15 +1,6 @@
 # Explanatorium of History From the First Tools to the Climate Crisis DK Dorling Kindersley Z Library
 
-> 来源文件：pre_Explanatorium_of_History_From_the_First_Tools_to_the_Climate_Crisis_DK_Dorling_Kindersley_Z_Library.txt
-> 字符数（约）：441504
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Senior Editor  Jenny Sich Senior Art Editor  Stefan Podhorodecki Editorial team  Kelsie Besaw, Michelle Crane, Sam Kennedy, Anna Streiffert Limerick, Georgina Palffy, Vicky Richards Design team  Sheila Collins, Mik Gates, Rachael Grady, Jim Green, Kit Lane, Gregory McCarthy, Lynne Moulding Illustrators  Ed Byrne, Dan Crisp, Simon Tegg, Jack Williams Picture Researcher  Sarah Hopper Creative Retouching  Steve Crozier Managing Editor  Francesca Baines Managing Art Editor  Philip Letsu Production Editor  George Nimmo Senior Production Controller  Samantha Cross Senior Jacket Designer  Suhita Dharamjit Jackets Design Development Manager Sophia MTT Senior DTP Designer  Harish Aggarwal Senior Jackets Editorial Coordinator Priyanka Sharma Managing Jackets Editor  Saloni Singh Publisher  Andrew Macintyre Art Director  Karen Self Associate Publishing Director  Liz Wheeler Publishing Director  Jonathan Metcalf Contributors  Simon Adams, Peter Chrisp, Amani Gordon, Susan Kennedy, Ann Kramer, Seun Matiluko, Lizzie Munsey Consultant  Philip Parker Specialist consultants  Dr Fozia Bora, Dr Vivian Delgado, Professor Steven Hooper, Dr Jagjeet Lally, Dr Andy Pearce, Dr Caroline Dodds Pennock, Dr Leon Rocha, Robin Walker, Dr Ogechukwu Williams, Professor Jamie Wilson First published in Great Britain in 2021 by Dorling Kindersley Limited DK, One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW The authorised representative in the EEA is Dorling Kindersley Verlag GmbH. Arnulfstr. 124, 80636 Munich, Germany Copyright © 2021 Dorling Kindersley Limited A Penguin Random House Company 10  9  8  7  6  5  4  3  2  1 001–316699–November/2021 No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-2414-1298-5 Printed and bound in Dubai For the curious www.dk.com Timeline of the
 
 ancient world Pottery is invented The Bronze Age begins The wheel is invented The first cities Writing makes history A kingdom rises
 
@@ -20,10 +11,6 @@ ancient Egypt Nubia rivals Egypt Epic struggle The Iron Age begins Phoenicians s
 a superpower The birth of democracy CIVILIZATION BEGINS Timeline of prehistory Humans evolve Tools develop Humans migrate
 
 out of Africa Early humans make fire Art begins Culture emerges Taking shelter Farming changes
-
-everything Building the first towns Mysterious megaliths HUMANITY EMERGES This book was made with Forest Stewardship Council ™ certified paper – one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge
 
 Ancient Greek myths Alexander the Great The first Indian empire The Qin dynasty
 

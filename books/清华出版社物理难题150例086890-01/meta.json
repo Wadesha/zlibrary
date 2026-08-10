@@ -1,10 +1,10 @@
 {
   "slug": "清华出版社物理难题150例086890-01",
-  "title": "清华出版社物理难题150例086890_01",
+  "title": "清华出版社物理难题150例086890-01",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]清华出版社物理难题150例086890_01.md",
+  "pipeline": "ocr_md",
+  "source_file": "清华出版社物理难题150例086890-01.md",
   "source_pdf": "清华出版社物理难题150例086890-01.pdf",
-  "chars": 5674,
+  "chars": 4990,
   "has_fixed": false
 }

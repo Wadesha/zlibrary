@@ -1,23 +1,12 @@
 # Gravitational Wave Physics and Astronomy An Introduction to Theory Experiment and Data Analysis Jolien D E Creighton Warren G Anderson Z Library
 
-> 来源文件：pre_Gravitational_Wave_Physics_and_Astronomy_An_Introduction_to_Theory_Experiment_and_Data_Analysis_Jolien_D_E_Creighton_Warren_G_Anderson_Z_Library.txt
-> 字符数（约）：263891
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Jolien D. E. Creighton and Warren G. Anderson Gravitational-Wave Physics and Astronomy
 
 Related Titles Stahler, S. W., Palla, F.
 
-The Formation of Stars ISBN: 978-3-527-40559-6
-
 Roos, M.
 
-Introduction to Cosmology ISBN: 978-0-470-84910-1
-
 Liddle, A.
-
-An Introduction to Modern Cosmology ISBN: 978-0-470-84835-7
 
 Jolien D. E. Creighton and Warren G. Anderson Gravitational-Wave Physics and Astronomy An Introduction to Theory, Experiment and Data Analysis
 
@@ -25,21 +14,9 @@ WILEY-VCH Verlag GmbH & Co. KGaA
 
 The Authors All books published by Wiley-VCH are carefully produced. Nevertheless, authors, editors, and publisher do not warrant the information contained in these books, including this book, to be free of errors. Readers are advised to keep in mind that statements, data, illustrations, procedural details or other items may inadvertently be inaccurate.
 
-Dr. Jolien D. E. Creighton University of Wisconsin–Milwaukee Department of Physics P.O. Box 413 Milwaukee, WI 53201 USA jolien@uwm.edu
-
 Library of Congress Card No.: applied for
 
-Dr. Warren G. Anderson University of Wisconsin–Milwaukee Department of Physics P.O. Box 413 Milwaukee, WI 53201 USA warren@gravity.phys.uwm.edu
-
 British Library Cataloguing-in-Publication Data: A catalogue record for this book is available from the British Library.
-
-Bibliographic information published by the Deutsche Nationalbibliothek The Deutsche Nationalbibliothek lists this publication in the Deutsche Nationalbibliografie; detailed bibliographic data are available on the Internet at http://dnb.d-nb.de.
-
-© 2011 WILEY-VCH Verlag GmbH & Co. KGaA, Boschstr. 12, 69469 Weinheim, Germany
-
-Typesetting le-tex publishing services GmbH, Leipzig Cover Design Adam-Design, Weinheim Printing and Binding Printed in Singapore Printed on acid-free paper
-
-ISBN Print 978-3-527-40886-3 ISBN ePDF 978-3-527-63605-1 ISBN oBook 978-3-527-63603-7 ISBN ePub 978-3-527-63604-4
 
 JDEC: To my grandmother.
 
@@ -198,8 +175,6 @@ This work was supported by the National Science Foundation grants PHY-0701817, P
 Calgary, June 2011 J.D.E.C.
 
 List of Examples Example 1.1 Coordinate acceleration in non-inertial frames of reference 4 Example 1.2 Tidal acceleration 6 Example 2.1 Transformation to polar coordinates 13 Example 2.2 Volume element 14 Example 2.3 How are directional derivatives like vectors? 15 Example 2.4 Flat-space connection in polar coordinates 18 Example 2.5 Flat-space connection in polar coordinates (again) 20 Example 2.6 Equation of continuity 21 Example 2.7 Vector commutation 23 Example 2.8 Lie derivative 24 Example 2.9 Curvature 27 Example 2.10 Riemann tensor in a locally inertial frame 28 Example 2.11 Geodesic deviation in the weak-field slow-motion limit 34 Example 2.12 The Euler equations 37 Example 2.13 Equations of motion for a point particle 39 Example 2.14 Harmonic coordinates 42 Example 3.1 Transformation from TT coordinates to a locally inertial frame 53 Example 3.2 Wave equation for the Riemann tensor 55 Example 3.3 Attenuation of gravitational waves 57 Example 3.4 Degrees of freedom of a plane gravitational wave 60 Example 3.5 Plus- and cross-polarization tensors 62 Example 3.6 A resonant mass detector 65 Example 3.7 Order of magnitude estimates of gravitational-wave amplitude 72 Example 3.8 Fourier solution for the gravitational wave 73 Example 3.9 Order of magnitude estimates of gravitational-wave luminosity 75 Example 3.10 Gravitational-wave spectrum 76 Example 3.11 Cross-section of a resonant mass detector 77 Example 3.12 Point particle in rotating reference frame 83 Example 3.13 The Crab pulsar 84 Example 3.14 Newtonian chirp 89 Example 3.15 The Hulse–Taylor binary pulsar 90 Example 4.1 Effective stress-energy tensor 100 Example 4.2 Amplification of gravitational waves by inflation 122 Example 4.3 Black hole ringdown radiation 129 Example 4.4 Analogy with electromagnetism 135 Example 4.5 The BSSN formulation 136 Example 5.1 Blandford’s argument 156 Example 5.2 Rate of binary neutron star coalescences in the Galaxy 159 Example 5.3 Chandrasekhar mass 166 Example 6.1 Stokes relations Example 6.2 Dielectric mirror Example 6.3 Anti-resonant Fabry–Pérot cavity Example 6.4 Michelson interferometer gravitational-wave detector Example 6.5 Radio-frequency readout Example 6.6 Standard quantum limit Example 6.7 Derivation of the fluctuation–dissipation theorem Example 6.8 Coupled oscillators Example 7.1 Shot noise Example 7.2 Unknown amplitude Example 7.3 Sensitivity of a matched filter gravitational-wave search Example 7.4 Unknown phase Example 7.5 Measurement accuracy of signal amplitude and phase Example 7.6 Systematic error in estimate of signal amplitude Example 7.7 Frequentist upper limits Example 7.8 Time-frequency excess-power statistic Example 7.9 Null space of two co-aligned, co-located detectors Example 7.10 Null space of three non-aligned detectors Example 7.11 Sensitivity of the known-pulsar search Example 7.12 Horizon distance and range Example 7.13 Overlap reduction function in the long-wavelength limit Example 7.14 Hellings–Downs curve Example 7.15 Sensitivity of a stochastic background search Example A.1 Antenna response beam patterns for interferometer detectors
-
-Introduction This work is intended both as a textbook for an introductory course on gravitational-wave astronomy and as a basic reference on most aspects in this field of research. As part of the syllabus of a course on gravitational waves, this book could be used to follow a course on General Relativity (in which case, the first chapter could be greatly abbreviated), or as an introductory graduate course (in which case the first chapter is required reading for what follows). Not all material would be covered in a single semester. Within the text we include examples that elucidate a particular point described in the main text or give additional detail beyond that covered in the body. At the end of each chapter we provide a short reference section that contains suggested further reading. We have not attempted to provide a complete list of work in the field, as one might have in a review article; rather we provide references to seminal papers, to works of particular pedagogic value, and to review articles that will provide the necessary background for researchers. Each chapter also has a selection of problems. Please see http://www.lsc-group.phys.uwm.edu/~jolien for an errata for this book. If you find errors that are not currently noted in the errata, please notify jolien@uwm.edu.
 
 Conventions We use bold sans-serif letters such as T and u to represent generic tensors and spacetime vectors, and italic bold letters such as v to represent purely spatial vectors. When writing the components of such objects, we use Greek letters for the indices for tensors on spacetime, Tα and uα, while we use Latin letters for the indices for spatial vectors or matrices, for example vi and Mij. Spacetime indices normally run over four values, so α ∈ {0,1,2,3}, while spatial indices normally run over three values, i ∈ {1,2,3}, unless otherwise specified. We employ the Einstein summation convention where there is an implied sum over repeated indices (known as dummy indices), so that Tαµuµ = Σ_{µ=0}^{3} Tαµuµ and Mijvj = Σ_{j=1}^{3} Mijvj. In these examples, the indices α and i are not contracted and are called free indices (that is, these are actually four equations in the first case and three equations in the second case since α can have the values 0, 1, 2, or 3, while i can have the values 1, 2, or 3).
 
@@ -367,23 +342,9 @@ Having established that vectors can be understood as directional derivatives in 
 
 A similar process of parallel transport can be done in curved spacetime since each infinitesimal displacement can be done just as it was in flat space (thanks again to the equivalence principle!). But for series of displacements that go between two points that are not infinitesimally close, it is now important to first specify the path along which we will parallel transport our vector – we will see that if we parallel transport a vector from one point to another along different paths then the resulting vector will be different in general.
 
-Consider some curve P(t) parameterized by the parameter t. At any point on the curve there is the tangent vector u D d/dt whose components are uα D @xα/@t in a coordinate system in which xα(t) are the points along the curve. We can construct a set of vectors v(t) along the curve that are arrived at by parallel transport if, for every t, v(t + ∆t) - v(t) dv 0D lim   =      (2.21)
-
 ∆t!0 ∆t dt or, in terms of the components in some coordinate system, vα(t + ∆t) - vα(t) dvα µ α 0D 0 ∆t dt = D u rµv . (2.22)
 
-This defines the connection rα, also known as the covariant derivative, which is not always the ordinary derivative operator @/@xα – though we can always find coordinates in which, locally, it is. Suppose we find a transformation x0(cid:4)(xα) to a new set of coordinates in which the connection is simply an ordinary derivative operator. Recall that the components of the vector u in the new coordinates are related to the component in the old coordinates by u0(cid:4) D uα@x0(cid:4)/@xα, and similarly v0(cid:4) D vα@x0(cid:4)/@xα. It then follows that 0D u0ν v0µ = u α v (cid:4) = Du α v (cid:4)
-
-@x0ν @xα @x0ν @x(cid:4) @xα @x(cid:4)
-
-@x0µ @v(cid:4) @2x0µ α α (cid:4)
-
 D u Cu v .
-
-@x(cid:4) @xα @xα@x(cid:4)
-
-Now we multiply both sides by @xγ/@x0µ and use the fact that @xγ/@x(cid:4) D δγ (the (cid:4)
-
-Kronecker delta) to obtain @vγ @xγ @2x0µ α (cid:4) α γ 0D u @xα @x0µ @xα@x(cid:4)
 
 v Du rαv . (2.23)
 
@@ -391,19 +352,7 @@ Because we can choose any curve to parallel transport v along, the choice of u i
 
 v (cid:4) , (2.24)
 
-where Γγ WD @xγ @2x0µ (2.25)
-
-α(cid:4) @x0µ @xα@x(cid:4)
-
 are the connection coefficients. Note that these coefficients are symmetric in α and (cid:4).
-
-While the covariant derivative of a vector is different from the ordinary derivative for a vector, the two types of derivatives must agree for a scalar. That is, @Φ(x)
-
-rα Φ(x)D @xα . (2.26)
-
-Using this identity, we can obtain expressions for the covariant derivative operating on arbitrary tensors in terms of the connection coefficients. For example, consider the scalar uµvµ. We have: @uµ @vµ rα(u vµ)D @xα (u vµ)Dvµ@xα Cu @xα . (2.27)
-
-However, we also have @uµ rα(u µ vµ)Du µ rαvµCvµrαu µ D u µ rαvµCvµ@xα Cvµ Γ u ν (2.28)
 
 and combining these two equations we see that u µ vµ Du µ rαvµCvµ Γ u ν (2.29)
 
@@ -426,8 +375,6 @@ For a general tensor, T we have γ(cid:1)(cid:1)(cid:1)δ rλT (cid:1)
 (cid:1)
 
 (cid:1)
-
-(cid:4) D @xλ (cid:1)
 
 (cid:1)
 
@@ -469,17 +416,7 @@ For a general tensor, T we have γ(cid:1)(cid:1)(cid:1)δ rλT (cid:1)
 
 . (2.31)
 
-λγ µ(cid:1)(cid:1)(cid:1)δ λδ γ(cid:1)(cid:1)(cid:1)µ Example 2.4 Flat-space connection in polar coordinates Even in a two-dimensional (flat) plane the connection rα is not generally an ordinary derivative. For example, consider two unit radial vectors e r,P and e r,Q at points P D (r, φ) and Q D (r, φC∆φ). These are clearly not parallel. (Translate both radially back to the origin and the first points in direction φ while the other points in direction φ + ∆φ!) But the components (in polar coordinates) of the unit radial vector do not depend on φ, so, along the curve r D const the sequence of unit radial vectors e r (φ) has components satisfying @eα/@φ D 0. This shows that rα ¤@/@xα in polar coordinates.
-
 To compute the quantity Γγ we need to find the transformation x0(cid:4)(xα) in α(cid:4)
-
-which the connection is an ordinary derivative operator. We know that Cartesian coordinates are the coordinates that define parallel transport so the transformation is x D r cos φ and y D r sin φ. Therefore, using @r/@x D x/r, @r/@y D y/r, @φ/@x D -y/r2, and @φ/@y D x/r2, as well as @2x/@r2 D @2y/@r2 D 0, @2x/@r@φ D -y/r, @2y/@r@φ D x/r, @2x/@φ2 D -x, and @2y/@φ2 D -y, we find @r @2x @r @2y Γr D C rr @x @r2 @y @r2 D0 @r @2x @r @2y Γr D Γr = C = D cosφ(-sinφ) + sinφ cosφ rφ φr @x @r@φ @y @r@φ D0 @r @2x @r @2y Γr = C = D cosφ(-r cosφ) + sinφ(-r sinφ)
-
-φφ @x @φ2 @y @φ2 D -r @φ@2x @φ@2y Γφ D C rr @x @r2 @y @r2 D0 Γφ D Γφ = @φ @2x @φ @2y -sinφ (-sinφ) + cosφ cosφ rφ φr @x @r@φ @y @r@φ r r Γφ D @φ @2x @φ @2y -sinφ (-r cosφ) + cosφ (-r sinφ)
-
-φφ @x @φ2 @y @φ2 r r D0. (2.32)
-
-The equations of parallel transport for the components vα of a vector v along a curve with tangent vector u, @vα u µrµv α Du µ @xµ +Γ u µ v ν D0 (2.33)
 
 form a system of four first-order ordinary differential equations for these components. Given values vα at some point P on the curve, the values at any other point on the curve can be computed by integration.
 
@@ -495,31 +432,17 @@ We can now express the connection coefficients in terms of the metric. We again 
 
 D gα(cid:4)w (cid:4)
 
-@xδ v α + gα(cid:4)w (cid:4)Γ v µ + gα(cid:4)v @xδ (cid:4)
-
 + gα(cid:4)v αΓ (cid:4)
 
 . (2.36)
 
-But the covariant derivative of a scalar function is the same as an ordinary derivative of that function so the left-hand-side is rδ gα(cid:4)v α w (cid:4) = @xδ gα(cid:4)v α w (cid:4)
-
 Dv α w (cid:4)
-
-@xδ gα(cid:4) + gα(cid:4)w (cid:4)
-
-@xδ v α + gα(cid:4)v α @xδ w (cid:4) .
 
 (2.37)
 
-Combining these two equations, and using the fact that v and w are arbitrary vectors, we see that @xδ gα(cid:4) = gµ(cid:4) Γ + gαµ Γ (cid:4)
-
 (2.38a)
 
-and, permuting the indices, we have @xα g(cid:4)δ D gµδ Γ (cid:4)
-
 + g(cid:4)µ Γ (2.38b)
-
-@x(cid:4)
 
 gδα D gµα Γ (cid:4)
 
@@ -527,35 +450,15 @@ gδα D gµα Γ (cid:4)
 
 . (2.38c)
 
-Now we add Eqs. (2.38b) and (2.38c) and subtract Eq. (2.38a) to obtain @ @ @ @xα g(cid:4)δC @x(cid:4) gδα - @xδ gα(cid:4) D 2gδµ Γ α µ (cid:4) D 2Γ δα(cid:4) , (2.39)
-
 where Γ δα(cid:4) are the connection coefficients with one index lowered with the metric.
 
-This system of equations can be solved for the connection coefficients (multiply by the inverse metric gγδ): 1 g γδ @x g(cid:4)δC @x (cid:4)
-
-gδα - @x gα(cid:4) . (2.40)
-
 Example 2.5 Flat-space connection in polar coordinates (again)
-
-We compute the connection coefficients for flat two-dimensional space in polar coordinates from the metric using Eq. (2.40). Actually, we will use Eq. (2.39) to compute Γ αµν and then use the inverse-metric to obtain Γ µ α ν . The line element in polar coordinates is ds2 D dr2 + r2dφ2 so the metric is gµν D diag[1, r2] and the inverse metric is gµν D diag[1, 1/r2]. Clearly the only derivative of a metric component that does not vanish is @gφφ/@r D 2r and so the only non-vanishing components of Γ αµν are Γ rφφ D -r, and Γ φrφ D Γ φφr D r. Now, using Γ µ α ν = gα(cid:4)Γ (cid:4)µν, we find that the only non-vanishing connection coefficients are Γ D -r rφ and Γφ Γφ D 1/r. This is the same result as was found in Example 2.4.
 
 φr Example 2.6 Equation of continuity The equation of continuity for some conserved quantity (cid:1) with current j is rµJ µ D0, (2.41)
 
 where Jµ WD[(cid:1), j]. In flat spacetime this reduces to its usual form @(cid:1)
 
 + ∆(cid:3) j D 0 (flat spacetime). (2.42)
-
-@t In curved spacetime, we have @Jµ rµJ µ D @xµ +Γ J ν . (2.43)
-
-Now Γ µ µ α can be written in the useful form Γµ D g µν @gαν @gµν - @gαµ g µν @gµν (2.44)
-
-µα 2 @xµ @xα @xν 2 @xα and, using the identity detg D exp(Trlng), we note that @detg/@xα D (detg)Tr(g(cid:2)1(cid:3)@g/@xα), so 1 @detg @ (detg)(cid:2)1 @xα @xα lnjdetgj1/2 . (2.45)
-
-We therefore have @Jµ @ 0D jdetgj1/2rµJ µ Djdetgj1/2 @xµ + J µ @xµ jdetgj1/2 D @xµ jdetgj1/2J µ . (2.46)
-
-If we now integrate this over some volume Ω of spacetime we find Z Z @ 0D @xµ jdetgj1/2J µ d4x D jdetgj1/2J µ dSµ , (2.47)
-
-Ω @Ω where we have used Stokes’s law to convert the integral over the spacetime region Ω into an integral over the boundary of the spacetime region @Ω. Here, dSµ is the area element on the boundary. If we take the boundary @Ω to be two spatial surfaces V and V at times t and t connected by the evolution of a two-dimensional 1 2 1 2 surface S between these two times, S (cid:2)(t , t ), then on the two surfaces V and 1 2 1 we have jdetgj1/2Jµ dSµ D (cid:1)dV where dV is the spatial volume element on those surfaces, while on S (cid:2)(t , t ) we have jdetgj1/2Jµ dSµ D j (cid:3)nO dτ dS where 2 1 the surface S has an outward spatial normal vector nO and volume element dS. We find 4 (cid:1)dV 5 D (cid:1) F(t)dτ (2.48)
 
 V 广义相对论简要回顾
 
@@ -763,8 +666,6 @@ where η αβ is the Minkowski metric and hαβ W D gαβ  η αβ is a small pe
 
 In rectilinear coordinates the Minkowski metric is η αβ D diag[( c2, 1, 1, 1]; then the perturbation is small if |hij| ( 1, |h0i| ( c, and |h00| ( c2. We will see that the scale of the components of the perturbations is ~ Φ/c2 where Φ is the Newtonian potential. For objects in the Solar System this number is. GM / (c2R ) ~ 10 6, so the weak field approximation is good.
 
-To compute the motion of particles in this rectilinear coordinate system, the geodesic equations must be solved to leading order in the perturbation. It is straightforward to show that the connection coefficients are Γγαβ D  1 ηγδ (@hαδ /@xβ C @hβδ /@xα  @hαβ /@xδ ) O(h2). (2.84)
-
 Here ηγδ is the inverse of η γδ so that ηαµη µβ D δα β . Suppose that the worldline of a particle is given by xα(τ) where τ is the proper time for the particle (the affine parameter for the particle's geodesic). Then the worldline will satisfy the geodesic equation u µrµu α D 0, (2.85)
 
 where uα D dxα/dτ is the particle's four-velocity vector. This equation can be rewritten as (cf. Eq. (2.57))
@@ -774,8 +675,6 @@ d2xα /dτ2 D  Γαµν dxµ/dτ dxν/dτ . (2.86)
 If the particle is moving with spatial velocities much less than the speed of light, v ( c, then the dominant component of the four-velocity is the x0 component, uα D dxα/dτ D [1, 0, 0, 0] O(v/c), (2.87)
 
 so the spatial acceleration of the particle with respect to the coordinate system is ai D d2xi/dτ2 D  Γi00 O(v/c). (2.88)
-
-Now if the spacetime is approximately stationary (i.e. it varies in space, but only very slowly in time – which is consistent with a notion of slow motion of both the components of the gravitational source and the falling particle), then we ignore time derivatives of the metric perturbation. It follows that ai D  1/2 @h00/@xi . (2.89)
 
 Compare this to the Newtonian formula a D ∆Φ, where Φ is the Newtonian potential, and we see that the metric perturbation is related to the Newtonian potential by h00 D  2Φ. Recall that this acceleration is a coordinate acceleration, which is different from the relative tidal acceleration between two freely falling bodies that is given by the equation of geodesic deviation.
 

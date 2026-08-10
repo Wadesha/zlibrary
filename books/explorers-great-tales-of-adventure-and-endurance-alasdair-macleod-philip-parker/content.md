@@ -1,10 +1,5 @@
 # Explorers Great Tales of Adventure and Endurance Alasdair Macleod Philip Parker Eugene Rae Z Library
 
-> 来源文件：pre_Explorers_Great_Tales_of_Adventure_and_Endurance_Alasdair_Macleod_Philip_Parker_Eugene_Rae_Z_Library.txt
-> 字符数（约）：1035583
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 foreword by sir ranulph fiennes great tales of adventure and endurance S M I T H S O N I A N EXPL RERS
 
 EXPLORERS
@@ -15,15 +10,9 @@ LONDON, NEW YORK, MUNICH, MELBOURNE, AND DELHI Project Editor  Bob Bridle Senior
 
 Managing Editor  David John Senior Editor  Rob Colson Editors  Richard Gilbert, Deirdre Headon Designers  Ben Ruocco, Peter Laws, Jonathan Vipond Picture Researcher  Louise Thomas Written by  Alasdair Macleod Additional writing  Philip Parker, Eugene Rae
 
-Smithsonian Project Coordinator Ellen Nanney Smithsonian Consultant  David Buisseret, Scholar-in-residence, Newberry Library, Chicago First American Edition, 2010 This edition published in 2012 Published in the United States by DK Publishing 375 Hudson Street New York, New York 10014 12 13 14 15 16  10 9 8 7 6 5 4 3 2 1 RD174—April 2012 Copyright © 2010, 2012 Dorling Kindersley Limited Text copyright © 2010, 2012 Royal Geographical Society, Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of both the copyright owner and the above publisher of this book.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7566-9238-4 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 375 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Reproduced by MDP, Bath, UK Printed and bound by Star Standard, Singapore Discover more at www.dk.com FOREWORD INTRODUCTION THE EARLY EXPLORERS INTRODUCTION EXPANDING THE ANCIENT WORLD harkhuf  hanno the navigator  pytheas  alexander the great  experiencing life in the desert regions  TRADE AND DIPLOMACY zhang qian  ibn fadlan  IN SEARCH OF NEW LAND leif eriksson  viking longship  EXPLORING THE BUDDHIST WORLD fa xian the monk  xuanzang  TRADE AND DISCOVERY INTRODUCTION TALES OF ASIA william of rubruck  marco polo  zheng he  EXPLORING THE MUSLIM WORLD ibn battuta  A ROUTE AROUND AFRICA bartolomeu dias  diogo cão  vasco da gama  charting the development of expedition navigation  A NEW WORLD TO SOME christopher columbus  the santa maria  sebastian cabot  amerigo vespucci  pedro álvares cabral  charting the development of expedition mapping  CONTENTS
 
 UNDERSTANDING OTHERS 226 sven hedin  marc aurel stein  harry st. john philby  johann ludwig burckhardt  charting the development of expedition clothing  charles montagu doughty  bertram thomas  wilfred thesiger  gertrude bell  freya stark  ferdinand von richthofen  REACHING FOR EXTREMES INTRODUCTION EXPLORING FOR SCIENCE alexander von humboldt  carsten niebuhr  alfred russel wallace  charles darwin  hiram bingham  thor heyerdahl  TO THE ENDS OF THE EARTH henry hudson  willem barentsz  adolf erik nordenskiöld  john franklin  experiencing life in the polar regions  fridtjof nansen  in his own words: fridtjof nansen  roald amundsen  charles hall  robert e. peary  matthew henson  robert scott  scott’s hut  ernest shackleton  the endurance  hillary and tenzing  experiencing life at high altitude  EXPLORING THE DEEP william beebe  jacques cousteau  experiencing life under the water  INTO THE SOLAR SYSTEM yuri gagarin  neil armstrong  command module  post-apollo exploration  future science exploration  INDEX ACKNOWLEDGMENTS CONQUEST AND COLONIZATION INTRODUCTION THE CONQUISTADORS hernán cortés  francisco pizarro  ponce de león  hernando de soto  vasco núñez de balboa  charting the development of exploration and medicine  NORTHERN ALLIANCES samuel de champlain  jacques cartier  marquette and jolliet  rené-robert de la salle  SAILING AROUND THE WORLD ferdinand magellan  experiencing life on board ship  francis drake  william dampier  george anson  louis antoine de bougainville  charting the development of expedition communication  INTO THE PACIFIC james cook  abel tasman  la pérouse  FILLING IN THE GAPS INTRODUCTION MAPPING THE LAND vitus bering  experiencing life in the steppe and tundra  lewis and clark  in their own words: lewis and clark  john frémont  wagon train  john mcdouall stuart  edward eyre  burke and wills  INTO AFRICA mungo park  experiencing life in the rainforest and jungle  richard lander  heinrich barth  burton and speke  thomas baines  mary kingsley  henry morton stanley  SPREADING THE FAITH francis xavier  david livingstone  in his own words: david livingstone 
 

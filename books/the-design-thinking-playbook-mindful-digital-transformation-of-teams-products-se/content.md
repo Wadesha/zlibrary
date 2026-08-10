@@ -1,15 +1,8 @@
 # The Design Thinking Playbook Mindful Digital Transformation of Teams Products Services Businesses and Ecosystems Michael Lewrick Z Library
 
-> 来源文件：pre_The_Design_Thinking_Playbook_Mindful_Digital_Transformation_of_Teams_Products_Services_Businesses_and_Ecosystems_Michael_Lewrick_Z_Library.txt
-> 字符数（约）：502359
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Published by John Wiley & Sons, Inc., Hoboken, New Jersey.
 
 Published simultaneously in Canada.
-
-No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750–8400, fax (978) 646– 8600, or on the Web at www.copyright.com. Requests to the Publisher for permission, including those requests to reprint portions of this book in English, should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748–6011, fax (201) 748–6008, or online at http://www.wiley.com/go/permissions.
 
 Limit of Liability/Disclaimer of Warranty: While the publisher and author have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy or completeness of the contents of this book and specifically disclaim any implied warranties of merchantability or fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials.
 
@@ -17,23 +10,11 @@ The advice and strategies contained herein may not be suitable for your situatio
 
 For general information on our other products and services or for technical support, please contact our Customer Care Department within the United States at (800) 762–2974, outside the United States at (317) 572–3993 or fax (317) 572–4002.
 
-Wiley publishes in a variety of print and electronic formats and by print-on-demand. Some material included with standard print versions of this book may not be included in e-books or in print-on-demand. If this book refers to media such as a CD or DVD that is not included in the version you purchased, you may download this material at http://booksupport.wiley.com. For more information about Wiley products, visit www.wiley.com.
-
 Library of Congress Cataloging-in-Publication Data Names: Lewrick, Michael, author. | Link, Patrick, 1968- author. | Leifer, Larry J., author.
 
 Title: The design thinking playbook : mindful digital transformation of teams, products, services, businesses and ecosystems / by Michael Lewrick, Patrick Link, Larry Leifer.
 
-Description: Hoboken : Wiley, [2018] | Includes bibliographical references and index. | Identifiers: LCCN 2018011184 (print) | ISBN 9781119467472 (pbk.)
-
 Subjects: LCSH: Creative ability in technology. | Creative ability in business. | Creative thinking. | Industrial management–Technological innovations. | Technological innovations.
-
-Classification: LCC T49.5 .L49 2018 (print) | DDC 658.4/094–dc23 LC record available at https://lccn.loc.gov/2018011184 ISBN 978-1-119-46747-2 (pbk)
-
-ISBN 978-1-119-46748-9 (ebk)
-
-ISBN 978-1-119-46749-6 (ebk)
-
-ISBN 978-1-119-46750-2 (ebk)
 
 Design and layout: Nadia Langensand Cover design and visualization: Nadia Langensand CONTENT The Tetris blocks will guide you through The Design Thinking Playbook. We start with a better understanding of the individual phases of the design thinking cycle. In the thematic block of “Transform,” we discuss the best ways to shape framework conditions and how strategic foresight helps us to create greater visions. The last part, “Design the Future,” focuses on the design criteria in digitization, the design of ecosystems and the convergence of systems thinking and design thinking, and the options of how to combine data analytics and design thinking.
 

@@ -1,10 +1,5 @@
 # The Worlds I See Curiosity Exploration and Discovery at the Dawn of AI Fei Fei Li
 
-> 来源文件：pre_The_Worlds_I_See_Curiosity_Exploration_and_Discovery_at_the_Dawn_of_AI_Fei_Fei_Li.txt
-> 字符数（约）：589629
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 PINS AND NEEDLES IN D.C.
 
 The hotel lobby was plain and unpretentious, reflecting an itinerary that valued proximity over luxury, and the ambience was gentle: polite conversations between guests and the concierge, the hum of rolling suitcase wheels, the periodic whir of glass doors opening and closing. But I felt anxious, and the hurried clacking of my boots on thin carpet seemed to echo my mood. As a lifelong academic on my way to testify before the House Committee on Science, Space, and Technology on the topic of artificial intelligence, I suppose nerves were to be expected. But they weren’t helped by the red-eye flight from the West Coast, the near-total lack of sleep the night before, or the tense rehearsing of my statement—again, and again, and again—that had filled the preceding hours. It was June 26, 2018, and each passing minute brought me closer to a career first: an appearance at, of all things, a congressional hearing.

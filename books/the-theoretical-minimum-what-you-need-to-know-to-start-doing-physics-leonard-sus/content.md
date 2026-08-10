@@ -1,10 +1,5 @@
 # The Theoretical Minimum What You Need to Know to Start Doing Physics Leonard Susskind and George Hrabovsky Z Library
 
-> 来源文件：pre_The_Theoretical_Minimum_What_You_Need_to_Know_to_Start_Doing_Physics_Leonard_Susskind_and_George_Hrabovsky_Z_Library.txt
-> 字符数（约）：300632
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Susskind and Hrabovsky The Theoretical Minimum Science $26.99 US / $30.00 CAN
 
 Advance Praise For The Theoretical Minimum A world-class physicist and a citizen scientist combine forces to teach Physics 101—the DIY way.
@@ -17,17 +12,7 @@ Leonard Susskind has been the Felix Bloch Professor in Theoretical Physics at St
 
 George Hrabovsky is the president of Madison Area Science and Technology (MAST), a nonprofit organization dedicated to scientific and technological research and education. He lives in Madison, Wisconsin.
 
-Leonard Susskind Author of The Black Hole War $26.99 US / $30.00 CAN ISBN 978-0-465-02811-5 A Member of the Perseus Books Group www.basicbooks.com
-
-Jacket design by Nicole Caputo Jacket image © Rick Schwab
-
 THE THEORETICAL MINIMUM WHAT YOU NEED TO KNOW to START DOING PHYSICS LEONARD SUSSKIND and GEORGE HRABOVSKY A Member of the Perseus Books Group New York
-
-Copyright © 2013 by Leonard Susskind and George Hrabovsky Published by Basic Books, A Member of the Perseus Books Group Books published by Basic Books are available at special discounts for bulk purchases in the United States by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 2300 Chestnut Street, Suite 200, Philadelphia, PA 19103, or call (800) 810-4145, ext. 5000, or e-mail special.markets@perseusbooks.com.
-
-LCCN: 2012953679 ISBN 978-0-465-02811-5 (hardcover)
-
-ISBN 978-0-465-03174-0 (e-book)
 
 10 9 8 7 6 5 4 3 2 1
 
@@ -66,8 +51,6 @@ Leonard Susskind Stanford, California, July 2012
 I started to teach myself math and physics when I was eleven. That was forty years ago. A lot of things have happened since then—I am one of those individuals who got sidetracked by life. Still, I have learned a lot of math and physics. Despite the fact that people pay me to do research for them, I never pursued a degree.
 
 For me, this book began with an e-mail. After watching the lectures that form the basis for the book, I wrote an e-mail to Leonard Susskind asking if he wanted to turn the lectures into a book. One thing led to another, and here we are.
-
-We could not fit everything we wanted into this book, or it wouldn’t be The Theoretical Minimum—Classical Mechanics, it would be A-Big-Fat-Mechanics-Book. That is what the Internet is for: Taking up large quantities of bandwidth to display stuff that doesn’t fit elsewhere! You can find extra material at the website www.madscitech.org/tm. This material will include answers to the problems, demonstrations, and additional material that we couldn’t put in the book.
 
 I hope you enjoy reading this book as much as we enjoyed writing it.
 

@@ -1,10 +1,5 @@
 # True genius The life and science of John Bardeen Hoddeson L Daitch V Z Library
 
-> 来源文件：pre_True_genius_The_life_and_science_of_John_Bardeen_Hoddeson_L_Daitch_V_Z_Library.txt
-> 字符数（约）：975974
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Also by Lillian Hoddeson: Crystal Fire: The Invention of the Transistor and the Birth of the Information Age (with Michael Riordan)
 
 Lillian Hoddeson Vicki Daitch
@@ -25,13 +20,9 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 0-309-08408-3 (hardcover)
-
 1. Bardeen, John. 2. Physicists—United States—Biography. 3. Superconductivity. I. Daitch, Vicki. II. Title.
 
 QC16.B27 H63 2002 530'.092—dc21 2002007967
-
-Printed in the United States of America
 
 In memory of Jane Bardeen and Betsy Gretak Bardeen
 

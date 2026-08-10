@@ -1,10 +1,5 @@
 # Remarkable Books The World s Most Beautiful and Historic Works DK Z Library
 
-> 来源文件：pre_Remarkable_Books_The_World_s_Most_Beautiful_and_Historic_Works_DK_Z_Library.txt
-> 字符数（约）：520126
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BOOKS REMARKABLE
 
 A Celebration of the World’s Most Beautiful and Historic Works REMARKABLE BOOKS Contributors Father Michael Collins with Alexandra Black, Thomas Cussans, John Farndon, and Philip Parker
@@ -23,13 +18,7 @@ Ibn Sīnā The Domesday Book Various scribes 1000–1449 The Gospels of Henry th
 
 Limbourg Brothers Directory Senior Editor Senior Art Editor Editors
 
-Designers US Editor Managing Editor Senior Managing Editor Picture Researchers Senior Jacket Designer Jacket Design Manager Jacket Editor Pre-production Producer Producer Publisher Art Director Publishing Director Kathryn Hennessy Jane Ewart Jemima Dunne, Natasha Khan, Joanna Micklem, Ruth O’Rourke- Jones, Helen Ridge, Zoë Rutland, Alison Sturgeon, Debra Wolter Stephen Bere, Katie Cavanagh, Phil Gamble Kayla Dugger Gareth Jones Lee Griffiths Roland Smithies, Sarah Smithies Mark Cavanagh Sophia MTT Claire Gell Gillian Reid Mandy Inness Liz Wheeler Karen Self Jonathan Metcalf Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner. Published in Great Britain by Dorling Kindersley Limited.
-
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-6362-3 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use.
-
-For details, contact: DK Publishing Special Markets,345 Hudson Street, New York, New York 10014 SpecialSales@dk.com Printed and bound in China All images © Dorling Kindersley Limited For further information see: www.dkimages.com A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com Arunesh Talapatra Chhaya Sajwan, Devika Khosla Meenal Goel Anukriti Arora Nishtha Kapil Balwant Singh Pankaj Sharma Jaypal Chauhan, Nityanand Kumar, Mohammad Rizwan Senior Managing Art Editor Senior Art Editor Art Editor Assistant Art Edtior Editor Pre-production Manager Production Manager DTP Designers DK INDIA First American Edition, 2017 Published in the United States by DK Publishing 345 Hudson Street, New York, New York 10014 Copyright © 2017 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 17 18 19 20 21 10 9 8 7 6 5 4 3 2 1 001-300185-Sep/2017 Lead contributor Father Michael Collins Michael Collins is a graduate of the Pontifical Institute of Christian Archeology in Rome. His initial passion for books and writing stemmed from his interest in calligraphy. It was further fuelled when he discovered that the Book of Kells was once owned by an ancestor, Bishop Henry Jones, who donated it to Trinity College Dublin in 1663. Michael has published books in 12 languages.
 
 Contributors Alexandra Black A freelance author, Alexandra Black’s writing career initially took her to Japan. She later worked for a publisher in Australia, before moving to Cambridge, UK. She writes on a range of subjects, from history to business and fashion.
 
@@ -156,8 +145,6 @@ Its publication helped to standardize the Italian language and the work has infl
 such as Miguel de Cervantes with his epic, Don Quixote (see pp.116–17). This elevation of individual expression may have been a factor in the great revolutions in European thought—the Protestant Reformation, the Renaissance, and the Age of Enlightenment.
 
 One of the surprising impacts of printing, however, was the stimulation of a development in national languages, such as English, French, and German. In the Middle Ages people in Western Europe spoke such a mix of dialects that someone from Paris was virtually unintelligible to someone from Marseilles; scholars, however, often conversed in Latin. But printed books helped to standardize national languages. The King James Bible, the first authorized bible in English, played a huge part in setting the form of the English language as its words were read every week in churches across the land.
-
-1 THE NUREMBERG CHRONICLE  Printed in 1493, the Nuremberg Chronicle (see pp.78–83) is a richly illustrated account of biblical and human history. It is one of the earliest examples of illustrations and text being fully integrated.
 
 1 HARMONICE MUSICES ODHECATON  Published in 1501, Ottaviano Petrucci's Odhecaton (see pp.88–89) made sheet music more widely available. Each song has lines for a number of instruments, allowing musicians to read the same page.
 
@@ -1114,8 +1101,6 @@ Her book has since been reprinted and translated into numerous editions.
 Histories, & Tragedies  Dialogo sopra i due massimi sistemi
 
 del mondo  Bay Psalm Book
-
-1450–1649 As the first significant book to be printed in Europe using mass-produced movable type, the Gutenberg Bible marked a transformation in the way that books were created. Before the 1450s books were copied out by hand or made using wooden blocks: they were owned by the wealthy, or the monasteries where most were scribed.
 
 Books were so rare that even the greatest works were seen by only a few people. In the mid- fifteenth century Johann Gutenberg invented a mechanical printing press that transformed book production—for the first time in Europe, many copies of the same text could be printed speedily. By the end of the fifteenth century, millions of books were in circulation across the continent.
 

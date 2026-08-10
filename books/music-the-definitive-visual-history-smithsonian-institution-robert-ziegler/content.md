@@ -1,10 +1,5 @@
 # Music The definitive visual history Smithsonian Institution Robert Ziegler Z Library
 
-> 来源文件：pre_Music_The_definitive_visual_history_Smithsonian_Institution_Robert_Ziegler_Z_Library.txt
-> 字符数（约）：2115443
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 T H E  D E F I N I T I V E  V I S U A L  H I S T O RY MUSIC
 
 s t h s o n a n T H E  D E F I N I T I V E  V I S U A L  H I S T O RY MUSIC
@@ -37,15 +32,9 @@ Myth and Tragedy Tragic choruses sing and musicians play at Ancient Greek music 
 
 MUSIC IN THE MIDDLE AGES 500 – 1400 Introduction and Timeline CONTENTS Editors Megha Gupta, Suefa Lee Senior Editor Vineetha Mokkil Managing Editor Rohan Sinha Production Manager Pankaj Sharma DTP Manager Balwant Singh Art Editors Parul Gambhir, Konica Juneja, Kanika Mittal, Divya P.R., Shreya Anand Virmani Senior Art Editor Anuj Sharma Deputy Managing Art Editor Sudakshina Basu DTP Designers Nand Kishor Acharya, Neeraj Bhatia, Nityanand Kumar, Bimlesh Tiwari, Mohammed Usman DORLING KINDERSLEY DELHI TOUCAN BOOKS LTD Managing Editor Ellen Dupont Senior Editor Dorothy Stannard Assistant Editor Sophie Lewisohn, David Hatt Senior Art Editor Thomas Keenes Picture Research Sarah Smithies, Roland Smithies (Luped)
 
-Indexer Marie Lorimer First American Edition, 2013 Published in the United States by DK Publishing, 4th Floor, 345 Hudson Street, New York 10014 13  14  15  16  17  10  9  8  7  6  5  4  3  2  1 001–185847–Sept/13 Copyright © 2013 Dorling Kindersley Limited No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without prior written permission of the copyright owner. Published in Great Britain by Dorling Kindersley Limited.
-
 A catalog record for this book is available from the Library of Congress.
 
-ISBN: 978-1-4654-1436-6 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 4th Floor, 345 Hudson Street, New York 10014 or SpecialSales@dk.com.
-
 Printed and bound by South China Printing Co. Ltd.
-
-Discover more at www.dk.com New Photography Gary Ombler, Richard Leeney SMITHSONIAN ENTERPRISES Senior Vice President Carol LeBlanc Director of Licensing Brigid Ferraro Licensing Manager Ellen Nanney Project Development Manager Kealy Wilson LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI
 
 Music Goes to Print New printing techniques make sheet music widely available, encouraging amateur players.
 
@@ -1619,8 +1608,6 @@ Heinrich Isaac “Innsbruck, ich muss dich lassen“ (Innsbruck, I Must Leave Yo
 
 In the 16th century, composers and performers at court and at home were increasingly drawn to expressing the meaning of the text, through new song forms such as the madrigal.
 
-THE RISE OF THE AMATEUR From the 1530s, madrigals 66–67 ❯❯ were printed in slim and relatively cheap part books (one for each voice, or part)
-
 in Venice, Italy, and in Lyon and Paris, France.
 
 Once an aristocratic form of entertainment, secular polyphony was now available to gifted amateurs among wealthy, educated merchants. The explosion of musical literacy and ensembles in the home was accompanied by the rise of the virtuoso singer at court that ushered in the era of modern song 154–55 ❯❯.
@@ -1651,13 +1638,9 @@ Tenor part
 
 several times to print staves, note heads, and text to create multiple copies, Petrucci’s prints of vocal and instrumental music were elegant and highly legible. However, the process was expensive and his print runs were small.
 
-Movable type By the 1520s, Pierre Attaingnant (1494– 1551), a music printer in Paris, had developed a new technique that allowed music to be printed in movable type by a single impression. Each note head was cut with its own fragment of stave and could be set together with the corresponding text.
-
 With this development, the production of music books became much more commercially viable, and the market expanded rapidly. By the 1540s, European cities such as Venice, Lyon, Antwerp, and Nuremberg had become important centers for music printing.
 
 The spread of music Music that had previously been the preserve of the Church and the court—masses and motets, chansons and madrigals, as well as instrumental music of all kinds— became widely available to amateur musicians, who could also learn the basics of music theory through the “teach-yourself” books that began to proliferate in print around 1500.
-
-Anthologies of instrumental music generally provided a brief instruction manual, and pieces were often graded according to difﬁculty. While some books of sacred music were printed in the folio (large-page) format required for use at the lectern in churches Music Goes to Print Innovations in music printing by Ottaviano Petrucci in Venice in 1501 were to prove as revolutionary to music as Johannes Gutenberg’s first printing press had been to literature 50 years earlier.  Widely published music led to a rapid rise in musical literacy.
 
 F rom the late 15th century, music was printed using the technology of woodblocks in which the notes were carved and then inked. Used in liturgical books with plainchant (unaccompanied melodies sung in church) and in some instruction manuals, this method avoided laborious copying by hand, but it was still slow and not well suited to the “white” or blank diamond-shaped note heads used in the notation of polyphony (music for multiple voices).
 
@@ -1676,8 +1659,6 @@ Important centers of production were established in England and the Netherlands.
 MODERN TECHNOLOGY In the last few decades, computerized music-setting has virtually taken over from engraving techniques. Computer programs such as Sibelius and Finale allow not only for almost any notational sign, but also for playing back and transposing music at the touch of a computer key.
 
 Music is now stored digitally without any physical format until it is ready to be printed—just part of the ongoing digital revolution in music 376–77 ❯❯.
-
-and monasteries, in general music was increasingly printed in small partbooks that were cheap to produce, inexpensive to buy, and easy to accumulate and collect.
 
 Music as expression Musical genres such as motets, songs, and instrumental pieces, which were particularly attractive for performance in a private or domestic context, were soon transformed. Printing dictated a closer relationship between the placing of text and music on the page. This reﬂected and stimulated the notion of music serving to express the meaning of the words that lay at the heart of the madrigal (see pp.66–67) and would lead to the birth of opera at the end of the 16th century (see pp.80–81).
 
@@ -1734,8 +1715,6 @@ VIRTUOSO VARIATIONS Solo instrumentalists developed forms that were even more in
 Early in the 17th century, Italian composer Girolamo Frescobaldi (1583–1643) published two volumes of Toccatas, while English keyboard composer William Byrd, Jan Sweelinck (1562–1621) in the Netherlands, and Juan Cabanilles (1644–1712) in Spain also focused on variation techniques. German organist Samuel Scheidt (1587–1654) drew on the art of variation in his chorale preludes.
 
 NEW GENRES Around 1600, a number of terms emerged to describe new styles of instrumental ensemble music. The sinfonia, ritornello, concerto, and sonata 104–05 ❯❯ all began to be established during the 17th century, although the use of the new terminology was still quite ﬂuid.
-
-A F T E R U N D E R S TA N D I N G  M U S I C Instead of showing notes and pitch, tablature is a type of musical notation that indicates where players should place their ﬁngers to play their instrument. Tablatures that were used for lute and keyboard music during the Renaissance era are similar to guitar tablature common today. It was relatively easy to learn from the many teach-yourself books printed in the early 16th century, such as El maestro, written in 1536 by the Spaniard Luis de Milán (1500–61).
 
 This woodcut shows the neck of a lute with tablature symbols. It comes from the 1511 book Musica Getuscht, written by the German Renaissance composer Sebastian Virdung (1465–1511).
 
@@ -1969,8 +1948,6 @@ Having traveled to Florence in Italy, he would have been exposed to the developm
 
 Title page from Two Bookes of Ayres Published in about 1613, Thomas Campion’s collection of songs contains a selection of divine and moral pieces, as well as playfully metaphorical love songs.
 
-A shared first Dowland’s First Booke of Songes or Ayres (1597) was printed in a “table-book” format, so that the musicians who gathered to perform the songs could group themselves around a single book placed on a table.
-
 The number of surviving lute pieces by John Dowland.
 
 The number of courses (pairs of strings) on a Renaissance lute.
@@ -2036,8 +2013,6 @@ They combined the lively, syllabic style of the Italian frottola (see p.53) with
 Adriano Willaert in Venice (see pp.72 –73) and Luca Marenzio (1553–99) in Rome took this compositional approach to new heights, establishing madrigals for ﬁve voices as the norm.
 
 From dance to devotion Several forms of madrigal emerged, including the Neapolitan villanella, with lively dance rhythms and humorous texts, and the dramatic Roman madrigal arioso. The spiritual madrigal, with sacred texts set in the vernacular (local language) rather than in Latin, found champions in two composers of the Counter-Reformation: Verona’s Vincenzo Ruffo (1508–87)
-
-and the Spaniard Francisco Guerrero (1528–99), whose two volumes of Canciones y villanescas espirituales (spiritual songs) were printed in 1589.
 
 Three ladies of Ferrara While the Italian printing presses supplied the amateur market for madrigals, music at court was characterized by professional musicians striving for technical and artistic virtuosity. This was particularly remarkable at the court of Ferrara, where composers such as Giaches de Wert (1535–96), Cipriano de Rore (c.1515–65), and Luzzasco Luzzaschi (1546–1607) wrote brilliant and complex madrigals for performance by the “three ladies of Ferrara.” According to an early historian of the court, the Duke of Ferrara, Alfonso II d’Este, ordered his trio to practice every day. The Concerto delle donne (Consort of Women) who performed from 1580 to 1597, became renowned throughout Europe for their vocal technique and expressive power, and were widely imitated. More women could now train as professional musicians and have more music written for them.
 
@@ -2127,8 +2102,6 @@ Height 3ft 7 in (1.1 m)
 
 Height 24 in (60 cm)
 
-An Iberian Flowering The 16th century was the golden age of multi-voiced music in Spain and Portugal and their dominions in the New World. Religious reforms and Church wealth enabled a flowering of sacred music, while printed instrumental music catered to the new amateur musicians.
-
 When Charles V became king in 1516, Spanish musicians in the royal chapel were forced to take cathedral posts; Charles, educated in Flanders, brought with him a renowned chapel of singers. As a result, Spanish composers working for the Church were brought into contact with the works of the best musicians of Western Europe.
 
 Adopting new forms The Spanish composer Mateo Flecha the Elder (1481–1553) incorporated French inﬂuences into the ensalada, T hanks to ecclesiastical reforms at the turn of the 16th century, the cathedrals on the Iberian peninsula of Spain and Portugal developed polyphonic music—pieces in which two or more independent melodies are played simultaneously.
@@ -2162,8 +2135,6 @@ The ensalada was literally a musical “salad” in that it mixed together popul
 The Spanish ensalada was developed by Mateo Flecha the Elder, and was generally written for Christmas Eve performances. It portrayed the signiﬁcance of Christ’s birth through allegory, such as a tournament in which the principal jousters were Christ and Satan, with Christ emerging victorious.
 
 Flecha re-created the drama of the tournament with music that imitated the sounds of the trumpets and drums or thundering of the horses’ hooves.
-
-U N D E R S TA N D I N G  M U S I C ENSALADA Guerrero were trained at Seville Cathedral. Tomás Luis de Victoria (1548–1611) began his career at Avila Cathedral in Castile, but spent much of his career in Rome. On returning to Spain, he became organist at the royal convent of Las Descalzas in Madrid and published volumes of sacred polyphony. All three of these composers wrote sacred music and, through having their works printed in Italy, enjoyed European renown.
 
 In around 1600, a number of books of sacred polyphony by other Spanish composers were published in the cities of Madrid, Salamanca, and Lisbon.
 
@@ -2262,8 +2233,6 @@ Sumptuous ceremonies Venetian love of ceremony is reflected in Gentile Bellini�
 THE BAROQUE SPIRIT 1600 –1750 A period of unprecedented musical creativity, the 17th and 18th centuries saw the dominance of counterpoint—music that used multiple lines or voices—and the creation of the most dramatic musical form yet—opera. Royal courts vied with the Church to have the most glorious music. Handel’s operas portrayed drama on a human scale, while the Church stormed the heavens with the sacred oratorios and masses of Bach.
 
 Five-course guitar made by Matteo Sellas in 1640 and decorated with ivory and ebony.
-
-THE  BARO Q UE  S P I R I T The Whole Booke of Psalms (known as the Bay Psalm Book) is the first book to be printed in North America, 20 years after the Pilgrims arrived from England.
 
 The Vingt-quatre Violins du Roi (The King’s 24 Strings) is formed as the court orchestra of Louis XIII of France.
 
@@ -2581,8 +2550,6 @@ NEW OPPORTUNITIES Printers across Europe found better ways to reproduce sheet mu
 
 After the 15th century, printed music became more widely available and affordable, and by 1501 Venetian printer Ottaviano Petrucci ❮❮ 55 successfully printed music using moveable type. For composers, having their music printed and published provided some income and widened their audience.
 
-THE MATTER OF COPYRIGHT Until the 19th century, there were no effective copyright laws to protect musicians from having their work pirated, and publishers frequently printed music under a different composer’s name to enhance sales. A few composers were protected by royal patents, but they were exceptions.
-
 THE  BARO Q UE  S P I R I T  1 6 0 0 – 1 7 5 0 Patrons and Composers At the beginning of the 17th century it was possible for musicians and composers to achieve fame and fortune, but it was not common. Musicians depended on the Church and the aristocracy for employment, and sometimes worked for both.
 
 S ome opera composers, such as Antonio Vivaldi and George Frideric Handel, gained some ﬁnancial and musical independence by mounting performances of their own works in public theaters. However, this was a risky, often loss-making, business. Similarly, while having their music printed and published could spread a composer’s fame and
@@ -2890,8 +2857,6 @@ K E Y  W O R K S L’estro armonico, Op. 3 Le quattro stagioni (The Four Seasons
 ■ 1692 Begins studying to become a priest.
 
 ■ 1703 Ordained as a priest and begins teaching violin at the Ospedale della Pietà (Hospital of Mercy), Venice.
-
-■ 1705 His first published music is a set of trio sonatas.
 
 ■ 1711 Publishes L’estro armonico (Harmonic Inspiration), his musically influential collection of concertos.
 

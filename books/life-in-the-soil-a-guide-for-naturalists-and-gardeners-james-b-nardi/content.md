@@ -1,25 +1,12 @@
 # Life in the Soil A Guide for Naturalists and Gardeners James B Nardi Z Library
 
-> 来源文件：pre_Life_in_the_Soil_A_Guide_for_Naturalists_and_Gardeners_James_B_Nardi_Z_Library.txt
-> 字符数（约）：468372
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Life in the Soil Life in the Soil JAMES B. NARDI A Guide for Naturalists and Gardeners The University of Chicago Press chicago and london james b. nardi is a biologist at the University of Illinois at Urbana- Champaign and the Illinois Natural History Survey who gardens with the help of innumerable soil creatures.
-
-The University of Chicago Press, Chicago 60637 The University of Chicago Press, Ltd., London © 2007 by The University of Chicago Printed in the United States of America 16 15 14 13 12 11 10 09 08 07 1 2 3 4 5 ISBN- 13: 978-0-226-56852-2 (paper)
-
-ISBN- 10: 0-226-56852-0 (paper)
 
 Library of Congress Cataloging- in-Publication Data Nardi, James B., 1948– Life in the soil : a guide for naturalists and gardeners / James B. Nardi.
 
 p. cm.
 
 Includes index.
-
-ISBN- 13: 978-0-226-56852-2 (pbk. : alk. paper)
-
-ISBN- 10: 0-226-56852-0 (pbk. : alk. paper) 1. Soil biology. I. Title.
 
 QH84.8.N36 2007 578.75(cid:2)7—dc22 2006037834 o The paper used in this publication meets the minimum requirements of the American National Standard for Information Sciences—Permanence of Paper for Printed Library Materials, ANSI Z39.48-1992.
 

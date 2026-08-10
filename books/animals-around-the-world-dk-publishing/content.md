@@ -4,8 +4,6 @@
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 00000000U0000U00000000000SSSS111111111___00ttt00iiitttlll11eee_.
 
 iiittnnniittdddlleeddd.
@@ -13,8 +11,6 @@ iiittnnniittdddlleeddd.
 ## iinn ddd222222ddd 222
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00000000U0000U00000000000SSSS444444444__-000000004455--_00iinn00tt55rroo_ddiinnuuttrrccoottiiddoouunncc.
 
@@ -24,8 +20,6 @@ iittnniiooddnndd.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 00000000U0000U00000000000SSSS444444444__-000000004455--_00iinn00tt55rroo_ddiinnuuttrrccoottiiddoouunncc.
 
 iittnniiooddnndd.
@@ -33,8 +27,6 @@ iittnniiooddnndd.
 ## ii nn 55ddddd 555
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 0U0000S88_--000800-990__9TT_hhTeehEEenn_ddEssn__doosff_tthhoeef___tEEhaaerr_tthhE.
 
@@ -48,8 +40,6 @@ aiinnrddthdd.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 000000000000U111111S0000000____001111__SSttaayyiinnggAAgll_iivvaeel.
 
 iviinnedd.
@@ -57,8 +47,6 @@ iviinnedd.
 ### iddn d dd11111111111111 000 111000
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 000000000000U111111S0000000____001111__SSttaayyiinnggAAgll_iivvaeel.
 
@@ -68,15 +56,11 @@ iviinnedd.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 US_12_13_welcome_ed261.
 
 ## indd 122
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00U000000U0000U111111SSSS444444__-11004411_5511__55ww_oowwnnooddnneeddrrffeeuurrllwwffuuoollwwrrllooddrr.
 
@@ -85,8 +69,6 @@ iillnndddd_ddkkjj 00 00113344.
 ## iinn1144 114444
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 ### 111000////666////000888 000999
 
@@ -98,8 +80,6 @@ All Rights Reserved.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 000000000000U111111SSSS666666__-111600_771__7lliiff_eeliiinnfeaainccooarrcaaollrrraeeleereff.
 
 eiinnfdd.
@@ -107,8 +87,6 @@ eiinnfdd.
 ## inddd dd 1111111 777 111777
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00000000000U111111SSSS88888888_--100811_991__9mm_aammmammmaamllwwaoolwrrlloddr.
 
@@ -118,15 +96,11 @@ iilnnddd_dde d 0114884.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 US_18_19_mammalworld_ed044.
 
 ## indddd 111999
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00U000022S00_--200022_112__1ffaa_mmfaiillmyylliiilffyeel.
 
@@ -140,15 +114,11 @@ iiiinnnddddddd 222000 888888888888881//////////66111111111/////0000000000000777/
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 US_20_21_familylife_ed044.
 
 ## indd 2211
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00000000000U2222222222SSSS222222222__-200222_332__3dd_iiffffdeeifrrfeeennrettddniieetdttssie.
 
@@ -158,8 +128,6 @@ iitnnsdd_dde d 0224224.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 000000000000U2222222222SSSS2222222222_--200222_332__3dd_iiffffdeeifrrfeeennrettddniieetdttssie.
 
 iitnnsdd_dde d 0224334.
@@ -167,8 +135,6 @@ iitnnsdd_dde d 0224334.
 ## in23 23
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 00000000U0000U2222222222SSSS4444_--22004422_5522__55aa_mmaaaammzziiaannzzggiinnmmggaammrrssaauurrppssuuiiaappllssiiaa.
 
@@ -180,11 +146,7 @@ iillnnssdd_ddee dd 0022444444224444 22224444 1111111111133333333333366//////557/
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 0002266--002277__hhiigghhlliiffee.
 
@@ -196,19 +158,13 @@ iinndddd 22662266 11111111111336///557///000888 111646
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 US_028-029_Cunning.
 
 ## indd 2288
 
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 000000000000U2222222222S88888888_----002299__CCuunnnniinngg.
 
@@ -218,31 +174,19 @@ iinngdd.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 ## n31 311
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 ## dd 33
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 US_34_35_speedking_dd013.
 
@@ -250,19 +194,13 @@ US_34_35_speedking_dd013.
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 US_036-037_Wolves.
 
 ## indd 3366
 
 (c) 2011 Dorling Kindersley, Inc.
 
-All Rights Reserved.
-
 (c) 2011 Dorling Kindersley, Inc.
-
-All Rights Reserved.
 
 000000000000U33333333333SSSS88888888888__----000333899-_0BB3ee9aa_rrB NNeeeaccr eeNssessciitteiieessss.
 

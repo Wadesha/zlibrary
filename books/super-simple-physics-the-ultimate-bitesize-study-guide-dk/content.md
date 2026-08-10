@@ -1,19 +1,6 @@
 # Super Simple Physics The Ultimate Bitesize Study Guide DK Z Library
 
-> 来源文件：pre_Super_Simple_Physics_The_Ultimate_Bitesize_Study_Guide_DK_Z_Library.txt
-> 字符数（约）：498450
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-DK LONDON Senior editor  Ben Morgan Senior art editor  Michelle Staples Editors  Edward Aves, Steven Carton, Alexandra Di Falco US editor  Kayla Dugger US executive editor  Lori Cates Hand Illustrators  Adam Brackenbury, Gus Scott Managing editor  Lisa Gillespie Managing art editor  Owen Peyton Jones Production editor  Gillian Reid Senior production controller  Meskerem Berhane Jacket designer  Akiko Kato Jackets design development manager  Sophia MTT Publisher  Andrew Macintyre Art director  Karen Self Associate publishing director  Liz Wheeler Publishing director  Jonathan Metcalf Authors  Leo Ball, Ben Davies, Hilary Lamb, Penny Johnson, Ben Morgan, Robert Snedden, Giles Sparrow, Steve Woolley Consultant  Penny Johnson Smithsonian consultant  Rutuparna Das, Astrophysicist, NASA’s Universe of Learning/ Chandra X-Ray Observatory, Center for Astrophysics/Harvard & Smithsonian DK DELHI Senior editor  Virien Chopra Senior art editor  Vikas Chauhan Project editor  Bipasha Roy Project art editor  Sanjay Chauhan Art editor  Sifat Fatima Assistant editors  Sukriti Kapoor, Manjari Thakur Assistant art editor  Bhavnoor Kaur Illustrator  Aparajita Sen Assistant picture researcher  Geetika Bhandari Picture research manager  Taiyaba Khatoon Managing editor  Kingshuk Ghoshal Managing art editor  Govind Mittal Senior DTP designer  Vishal Bhatia DTP designer  Syed Mohammad Farhan Pre-production manager  Balwant Singh Production manager  Pankaj Sharma First American Edition, 2021 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2021 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 21 22 23 24 25 10 9 8 7 6 5 4 3 2 1 001-314297-Feb/2021 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7440-2753-2 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use.
-
-For details, contact: DK Publishing Special Markets, 1450 Broadway, Suite 801, New York, NY 10018 SpecialSales@dk.com Printed and bound in China www.dk.com This book was made with Forest Stewardship Council™ certified paper—one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge Established in 1846, the Smithsonian is the world’s largest museum and research complex, dedicated to public education, national service, and scholarship in the arts, sciences, and history.
 
 It includes 19 museums and galleries and the National Zoological Park. The total number of artifacts, works of art, and specimens in the Smithsonian’s collection is estimated at 156 million.
 

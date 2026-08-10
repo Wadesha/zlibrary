@@ -1,17 +1,8 @@
 # Theory and computation of electromagnetic fields Jin Jian Ming Z Library
 
-> 来源文件：pre_Theory_and_computation_of_electromagnetic_fields_Jin_Jian_Ming_Z_Library.txt
-> 字符数（约）：277880
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-THEORY AND COMPUTATION OF ELECTROMAGNETIC FIELDS Second Edition JIAN-MING JIN Department of Electrical and Computer Engineering University of Illinois at Urbana-Champaign Published by John Wiley & Sons, Inc., Hoboken, New Jersey Published simultaneously in Canada No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, Inc., 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 750-4470, or on the web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, or online at http://www.wiley.com/go/permissions.
-
 Limit of Liability/Disclaimer of Warranty: While the publisher and author have used their best efforts in preparing this book, they make no representations or warranties with respect to the accuracy or completeness of the contents of this book and specifically disclaim any implied warranties of merchantability or fitness for a particular purpose. No warranty may be created or extended by sales representatives or written sales materials. The advice and strategies contained herein may not be suitable for your situation. You should consult with a professional where appropriate. Neither the publisher nor author shall be liable for any loss of profit or any other commercial damages, including but not limited to special, incidental, consequential, or other damages.
 
 For general information on our other products and services or for technical support, please contact our Customer Care Department within the United States at (800) 762-2974, outside the United States at (317) 572-3993 or fax (317) 572-4002.
-
-Wiley also publishes its books in a variety of electronic formats. Some content that appears in print may not be available in electronic formats. For more information about Wiley products, visit our website at www.wiley.com.
 
 Library of Congress Cataloging-in-Publication Data: Jin, Jian-Ming, 1962- author.
 
@@ -19,15 +10,11 @@ Theory and computation of electromagnetic fields / Jian-Ming Jin (Department of 
 
 pages cm Includes bibliographical references and index.
 
-ISBN 978-1-119-10804-7 (cloth)
-
 ## 1. Electromagnetic fields – Mathematics – Textbooks. I. Title
 
 QC665.E4J56 2015 530.14’1 – dc23 2015012388 Cover image courtesy of ArtyFree/iStockphoto.
 
 Typeset in 10/12pt, Times Lt Std by Spi Global, Chennai, India.
-
-Printed in the United States of America 10 9 8 7 6 5 4 3 2 1
 
 ## CONTENTS
 
@@ -390,8 +377,6 @@ This chapter presents basic electromagnetic theory, which includes a brief revie
 We all know that both electric and magnetic fields are vectors since they have both a magnitude and a direction. Hence, the study of electromagnetic fields requires basic knowl- edge of vector analysis. The most useful concepts in vector analysis are those of divergence, curl, and gradient. In this section, we present definitions and related integral theorems for these quantities. This is followed by the introduction of a new method that can easily deal with various vector identities and the description of the Helmholtz decomposition theorem, which will be very useful for the study of Maxwell’s equations.
 
 Theory and Computation of Electromagnetic Fields, Second Edition. Jian-Ming Jin.
-
-©2015 John Wiley & Sons, Inc. Published 2015 by John Wiley & Sons, Inc.
 
 4 BASIC ELECTROMAGNETIC THEORY
 

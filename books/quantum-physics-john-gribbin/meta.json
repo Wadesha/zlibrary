@@ -1,10 +1,10 @@
 {
   "slug": "quantum-physics-john-gribbin",
-  "title": "Quantum Physics (John Gribbin)",
+  "title": "Quantum Physics John Gribbin",
   "language": "en",
   "pipeline": "ocr_md",
   "source_file": "[OCR]Quantum Physics (John Gribbin) (Z-Library)_fixed.md",
   "source_pdf": null,
-  "chars": 90804,
+  "chars": 90552,
   "has_fixed": true
 }

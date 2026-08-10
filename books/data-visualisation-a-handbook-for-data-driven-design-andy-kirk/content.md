@@ -1,21 +1,12 @@
 # Data Visualisation A Handbook for Data Driven Design Andy Kirk Z Library
 
-> 来源文件：pre_Data_Visualisation_A_Handbook_for_Data_Driven_Design_Andy_Kirk_Z_Library.txt
-> 字符数（约）：902460
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Data Visualisation
 
 Data Visualisation A Handbook for Data Driven Design Andy Kirk
 
 SAGE Publications Ltd 1 Oliver’s Yard 55 City Road London EC1Y 1SP SAGE Publications Inc.
 
-2455 Teller Road Thousand Oaks, California 91320 SAGE Publications India Pvt Ltd B 1/I 1 Mohan Cooperative Industrial Area Mathura Road New Delhi 110 044 SAGE Publications Asia-Pacific Pte Ltd 3 Church Street #10-04 Samsung Hub Singapore 049483 © Andy Kirk 2016 First published 2016 Apart from any fair dealing for the purposes of research or private study, or criticism or review, as permitted under the Copyright, Designs and Patents Act, 1988, this publication may be reproduced, stored or transmitted in any form, or by any means, only with the prior permission in writing of the publishers, or in the case of reprographic reproduction, in accordance with the terms of licences issued by the Copyright Licensing Agency. Enquiries concerning reproduction outside those terms should be sent to the publishers.
-
 Library of Congress Control Number: 2015957322
-
-British Library Cataloguing in Publication data A catalogue record for this book is available from the British Library ISBN 978-1-4739-1213-7 ISBN 978-1-4739-1214-4 (pbk)
 
 Editor: Mila Steele Editorial assistant: Alysha Owen Production editor: Ian Antcliff Marketing manager: Sally Ransom Cover design: Shaun Mercier Typeset by: C&M Digitals (P) Ltd, Chennai, India Printed and bound in Great Britain by Bell and Bain Ltd, Glasgow
 
@@ -49,8 +40,6 @@ List of Figures with Source Notes
 
 ## 1.11 Iraq’s Bloody Toll, by Simon Scarr (South China Morning Post)
 
-## 1.12 Gun Deaths in Florida Redesign, by Peter A. Fedewa (@pfedewa)
-
 1.13 If Vienna would be an Apartment, by NZZ (Neue Zürcher Zeitung) [Translated] 45 1.14 Asia Loses Its Sweet Tooth for Chocolate, by Graphics Department (Wall Street Journal) 45
 
 ## 2.1 The Four Stages of the Visualisation Workflow
@@ -59,8 +48,6 @@ List of Figures with Source Notes
 
 ## 3.2 Mizzou’s Racial Gap Is Typical On College Campuses, by FiveThirtyEight
 
-3.3 Image taken from ‘Wealth Inequality in America’, by YouTube user ‘Politizane’ (www.youtube.com/watch?v=QPKKQnijnsM) 78
-
 ## 3.4 Dimensional Changes in Wood, by Luis Carli (luiscarli.com)
 
 ## 3.5 How Y’all, Youse and You Guys Talk, by Josh Katz (The New York Times)
@@ -68,8 +55,6 @@ List of Figures with Source Notes
 ## 3.6 Spotlight on Profitability, by Krisztina Szücs
 
 ## 3.7 Countries with the Most Land Neighbours
-
-3.8 Buying Power: The Families Funding the 2016 Presidential Election, by Wilson Andrews, Amanda Cox, Alicia DeSantis, Evan Grothjan, Yuliya Parshina-Kottas, Graham Roberts, Derek Watkins and Karen Yourish (The New York Times) 84 3.9 Image taken from ‘Texas Department of Criminal Justice’ Website (www.tdcj.state.tx.us/death_row/dr_executed_offenders.html) 86
 
 ## 3.10 OECD Better Life Index, by Moritz Stefaner, Dominikus Baur, Raureif GmbH
 
@@ -143,25 +128,15 @@ York Times) 124 5.1 The Fall and Rise of U.S. Inequality, in Two Graphs Source: 
 
 ## 6.24 Literarcy Proficiency: Adult Levels by Country
 
-6.25 Political Polarization in the American Public’, Pew Research Center, Washington, DC (February, 2015) (http://www.people-press.org/2014/06/12/political-polarization-in-the-american-public/) 178
-
-## 6.26 Finviz (www.finviz.com)
-
 6.27 This Venn Diagram Shows Where You Can Both Smoke Weed and Get a Same-Sex Marriage, by Phillip Bump (The Washington Post) 180
 
 ## 6.28 The 200+ Beer Brands of SAB InBev, by Maarten Lambrechts for Mediafin:
-
-www.tijd.be/sabinbev (Dutch), www.lecho.be/service/sabinbev (French) 181 6.29 Which Fossil Fuel Companies are Most Responsible for Climate Change? by Duncan Clark and
 
 Robin Houston (Kiln), published in the Guardian, drawing on work by Mike Bostock and Jason Davies 182 6.30 How Long Will We Live – And How Well? by Bonnie Berkowitz, Emily Chow and Todd Lindeman (The Washington Post) 183
 
 ## 6.31 Crime Rates by State, by Nathan Yau
 
-## 6.32 Nutrient Contents – Parallel Coordinates, by Kai Chang (@syntagmatic)
-
 6.33 How the ‘Avengers’ Line-up Has Changed Over the Years, by Jon Keegan (Wall Street Journal)
-
-## 6.34 Interactive Fixture Molecules, by @experimental361 and @bootifulgame
 
 6.35 The Rise of Partisanship and Super-cooperators in the U.S. House of Representatives.
 
@@ -187,15 +162,11 @@ Visualisation by Mauro Martino, authored by Clio Andris, David Lee, Marcus J. Ha
 
 ## 6.51 Trillions of Trees, by Jan Willem Tulp
 
-6.52 The Racial Dot Map. Image Copyright, 2013, Weldon Cooper Center for Public Service, Rector and Visitors of the University of Virginia (Dustin A. Cable, creator) 205
-
 ## 6.53 Arteries of the City, by Simon Scarr (South China Morning Post)
 
 ## 6.54 The Carbon Map, by Duncan Clark and Robin Houston (Kiln)
 
 6.55 Election Dashboard, by Jay Boice, Aaron Bycoffe and Andrei Scheinkman (Huffington Post).
-
-Statistical model created by Simon Jackman 208 6.56 London is Rubbish at Recycling and Many Boroughs are Getting Worse, by URBS London using London Squared Map © 2015 www.aftertheflood.co 209 6.57 Automating the Design of Graphical Presentations of Relational Information. Adapted from
 
 McKinlay, J. D. (1986). ACM Transactions on Graphics, 5(2), 110–141. 213
 
@@ -216,10 +187,6 @@ McKinlay, J. D. (1986). ACM Transactions on Graphics, 5(2), 110–141. 213
 6.65 Why Is Her Paycheck Smaller? by Hannah Fairfield and Graham Roberts (The New York Times) 219 6.66 Inside the Powerful Lobby Fighting for Your Right to Eat Pizza, by Andrew Martin and Bloomberg Visual Data 220 6.67 Excerpt from ‘Razor Sales Move Online, Away From Gillette’, by Graphics Department (Wall Street Journal) 220
 
 ## 7.1 US Gun Deaths, by Periscopic
-
-## 7.2 Finviz (www.finviz.com)
-
-7.3 The Racial Dot Map: Image Copyright, 2013, Weldon Cooper Center for Public Service, Rector and Visitors of the University of Virginia (Dustin A. Cable, creator) 227
 
 ## 7.4 Obesity Around the World, by Jeff Clark
 
@@ -245,8 +212,6 @@ McKinlay, J. D. (1986). ACM Transactions on Graphics, 5(2), 110–141. 213
 
 ## 8.1 Titles Taken from Projects Published and Credited Elsewhere in This Book
 
-8.2 Excerpt from ‘The Color of Debt: The Black Neighborhoods Where Collection Suits Hit Hardest’, by Al Shaw, Annie Waldman and Paul Kiel (ProPublica) 249 8.3 Excerpt from ‘Kindred Britain’ version 1.0 © 2013 Nicholas Jenkins – designed by Scott Murray, powered by SUL-CIDR 249 8.4 Excerpt from ‘The Color of Debt: The Black Neighborhoods Where Collection Suits Hit Hardest’, by Al Shaw, Annie Waldman and Paul Kiel (ProPublica) 250 8.5 Excerpt from ‘Bloomberg Billionaires’, by Bloomberg Visual Data (Design and development), Lina Chen and Anita Rundles (Illustration) 251 8.6 Excerpt from ‘Gender Pay Gap US?’, by David McCandless, Miriam Quick (Research) and Philippa Thomas (Design) 251 8.7 Excerpt from ‘Holdouts Find Cheapest Super Bowl Tickets Late in the Game’, by Alex Tribou, David Ingold and Jeremy Diamond (Bloomberg Visual Data) 252
-
 ## 8.8 Excerpt from ‘The Life Cycle of Ideas’, by Accurat
 
 ## 8.9 Mizzou’s Racial Gap Is Typical On College Campuses, by FiveThirtyEight
@@ -256,8 +221,6 @@ McKinlay, J. D. (1986). ACM Transactions on Graphics, 5(2), 110–141. 213
 ## 8.12 Excerpt from ‘US Gun Deaths’, by Periscopic
 
 ## 8.13 Image taken from Wealth Inequality in America, by YouTube user ‘Politizane’
-
-(www.youtube.com/watch?v=QPKKQnijnsM) 256 9.1 HSL Colour Cylinder: Image from Wikimedia Commons published under the Creative Commons Attribution-Share Alike 3.0 Unported license 265
 
 ## 9.2 Colour Hue Spectrum
 
@@ -269,23 +232,15 @@ McKinlay, J. D. (1986). ACM Transactions on Graphics, 5(2), 110–141. 213
 
 ## 9.8 Charting the Beatles: Song Structure, by Michael Deal
 
-9.9 Photograph of MyCuppa mug, by Suck UK (www.suck.uk.com/products/mycuppamugs/) 269
-
 ## 9.10 Example of a Stacked Bar Chart Based on Ordinal Data
 
 9.11 Rim Fire – The Extent of Fire in the Sierra Nevada Range and Yosemite National Park, 2013: NASA Earth Observatory images, by Robert Simmon 270 9.12 What are the Current Electricity Prices in Switzerland [Translated], by Interactive things for NZZ (the Neue Zürcher Zeitung) 271
-
-9.13 Excerpt from ‘Obama’s Health Law: Who Was Helped Most’, by Kevin Quealy and Margot Sanger-Katz (The New York Times) 272 9.14 Daily Indego Bike Share Station Usage, by Randy Olson (@randal_olson)
-
-(http://www.randalolson.com/2015/09/05/visualizing-indego-bike-share-usage-patterns-in-philadelphia- part-2/) 272 9.15 Battling Infectious Diseases in the 20th Century: The Impact of Vaccines, by Graphics Department (Wall Street Journal) 273 9.16 Highest Max Temperatures in Australia (1st to 14th January 2013), Produced by the Australian Government Bureau of Meteorology 274
 
 ## 9.17 State of the Polar Bear, by Periscopic
 
 9.18 Excerpt from Geography of a Recession by Graphics Department (The New York Times) 275 9.19 Fewer Women Run Big Companies Than Men Named John, by Justin Wolfers (The New York Times) 276 9.20 NYPD, Council Spar Over More Officers by Graphics Department (Wall Street Journal) 277
 
 ## 9.21 Excerpt from a Football Player Dashboard
-
-## 9.22 Elections Performance Index, The Pew Charitable Trusts © 2014
 
 9.23 Art in the Age of Mechanical Reproduction: Walter Benjamin by Stefanie Posavec 279
 

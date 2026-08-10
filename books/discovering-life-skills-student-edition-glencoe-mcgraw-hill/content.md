@@ -1,23 +1,12 @@
 # Discovering Life Skills Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Discovering_Life_Skills_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：1243524
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 interactive student edition
 
 Discovering LIFE SKILLS
 
 or distributed in any form or by any means, or stored in a database or retrieval system, without prior written consent of The McGraw-Hill Companies, Inc., including, but not limited to, network storage or transmission, or broadcast for distance learning.
 
-Printed in the United States of America.
-
-Send all inquiries to: Glencoe/McGraw-Hill 21600 Oxnard Street, Suite 500 Woodland Hills, CA 91367 ISBN: 978-0-07-888468-9 (Student Edition)
-
 MHID: 0-07-888468-3 (Student Edition)
-
-ISBN: 978-0-07-888469-6 (Teacher Annotated Edition)
 
 MHID: 0-07-888469-1 (Teacher Annotated Edition)
 
@@ -1318,16 +1307,6 @@ Check for the date the article was written and when it was last updated.  The mo
 Finally, when using information from a Web site, treat it as you would treat print infor- mation.  Anyone can post information on a Web site. Never use information that you cannot verify with another source.
 
 ✧ ✧ ✧ ✧ ✧ Plagiarism Plagiarism is the act of taking someone else’s ideas and passing them off as your own. It does not matter if it is just one or two phrases or an entire paper. Be on guard against falling into the trap of cutting and pasting. This makes plagiarism all too easy. If you quote sources in your work, identify those sources and give them proper credit.
-
-Copyright A copyright protects someone who creates an original work. This can be a single sentence, a book, a play, a piece of music. If you create it, you are the owner. Copyright protection is pro- vided by the Copyright Act of 1976, a federal statute.
-
-Once a work’s copyright has expired, anywhere from 28 to 67 years from the date of cre- ation, it is considered to be in the public domain and anyone can reprint it as he or she pleases.
-
-Remember the following tips: What is copyrighted?  Original work published after March of 1989 is copyrighted.
-
-Can I copy from the Internet?  Copying information from the Internet is a serious breach of copyright. Check the site’s Terms of Use to see what you can and cannot do.
-
-Can I edit copyrighted work?  You cannot change copyrighted material, that is, make “deriva- tive works” based on existing material.
 
 ✧ ✧ ✧ How To Use Technology    xliii
 
@@ -2936,8 +2915,6 @@ What Is a Friend?
 A friend is someone you like and who likes you. A friend is someone you can talk to. A friend is a person who shares similar interests and goals. For example, you may enjoy going to the mall on a Saturday afternoon with your friends. Perhaps you study with your friends. You and your friends may have similar career goals or college plans. The most important qual- ity that friends have in common is that they care about each other’s lives.
 
 How Do Friendships Begin?
-
-Friendships begin and grow when people meet and like each other. You do not instantly have a friend just because you meet someone. Some people are only acquaintances. An acquaintance (`-=kw@n-t`n(t)s) is a person you greet or meet fairly often, but with whom you do not have a close relation- ship. It may be a classmate, a neighbor, or the librarian at school.
 
 Friendships usually develop from the acquaintances that you have. They are formed with people you are interested in getting to know better. They can grow into lasting friendships as you learn more about each other.
 
@@ -4638,8 +4615,6 @@ In this activity, you will explore the bene- fits of joining FCCLA (Family, Care
 Evaluate Your Results Exchange your FCCLA essay with a classmate and read his or her essay in return. Give each other feedback.
 
 Ask your teacher to evaluate your FCCLA plan for your personal leader- ship goal and provide feedback.
-
-Develop Your Plan ■ Go to the FCCLA Web site (www.fcclainc.org), and read the benefits of joining FCCLA.
 
 ■ Copy the FCCLA Mission Statement in your notebook.
 

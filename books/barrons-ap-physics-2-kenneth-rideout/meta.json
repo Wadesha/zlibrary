@@ -1,10 +1,10 @@
 {
   "slug": "barrons-ap-physics-2-kenneth-rideout",
-  "title": "Barrons_AP_Physics_2_Kenneth_Rideout",
+  "title": "Barrons AP Physics 2 Kenneth Rideout",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]Barrons_AP_Physics_2_Kenneth_Rideout_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "Barrons AP Physics 2 (Kenneth Rideout) (Z-Library).md",
   "source_pdf": null,
-  "chars": 223535,
+  "chars": 188320,
   "has_fixed": false
 }

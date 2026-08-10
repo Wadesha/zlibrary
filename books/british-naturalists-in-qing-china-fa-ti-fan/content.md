@@ -1,17 +1,8 @@
 # British Naturalists in Qing China Fa ti Fan Z Library
 
-> 来源文件：pre_British_Naturalists_in_Qing_China_Fa_ti_Fan_Z_Library.txt
-> 字符数（约）：599118
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-British Naturalists in Qing China SCIENCE, EMPIRE, AND CULTURAL ENCOUNTER Fa-ti Fan HARVARD UNIVERSITY PRESS Cambridge, Massachusetts London, England 2004 Copyright © 2004 by the President and Fellows of Harvard College Printed in the United States of America Library of Congress Cataloging-in-Publication Data Fan, Fa-ti British naturalists in Qing China : science, empire, and cultural encounter / Fa-ti Fan.
-
 p. cm.
 
 Includes bibliographical references and index.
-
-ISBN 0-674-01143-0 1. Natural history—Research—China—History—Qing dynasty, 1644–1912. 2. British—China—History—Qing dynasty, 1644–1912. 3. China—History—Qing dynasty, 1644–1912. I. Title.
 
 QH51.F36 2003 508′.07′2051—dc21 2003056554 For my parents and in memory of my grandparents Contents Acknowledgments Introduction I The Port 1 Natural History in a Chinese Entrepôt 2 Art, Commerce, and Natural History II The Land 3 Science and Informal Empire 4 Sinology and Natural History 5 Travel and Fieldwork in the Interior Epilogue
 

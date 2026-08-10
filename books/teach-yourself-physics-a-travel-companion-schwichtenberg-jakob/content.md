@@ -1,10 +1,5 @@
 # Teach Yourself Physics a travel companion Schwichtenberg Jakob Z Library
 
-> 来源文件：pre_Teach_Yourself_Physics_a_travel_companion_Schwichtenberg_Jakob_Z_Library.txt
-> 字符数（约）：244378
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 THE GOAL SHOULD BE, NOT TO IMPLANT IN THE STUDENTS’ MIND EVERY FACT THAT THE TEACHER KNOWS NOW; BUT RATHER TO IMPLANT A WAY OF THINKING THAT ENABLES THE STUDENT, IN THE FUTURE, TO LEARN IN ONE YEAR WHAT THE TEACHER LEARNED IN TWO YEARS. ONLY IN THAT WAY CAN WE CONTINUE TO ADVANCE FROM ONE GENERATION TO THE NEXT.
 
 EDWIN JAYNES I AM, SOMEHOW, LESS INTERESTED IN THE WEIGHT AND CONVOLUTIONS OF EINSTEIN’S BRAIN THAN IN THE NEAR CERTAINTY THAT PEOPLE OF EQUAL TALENT HAVE LIVED AND DIED IN COTTON FIELDS AND SWEATSHOPS.
@@ -30,10 +25,6 @@ So while this book is certainly not perfect, at least it’s a start. In fact, I
 Furthermore, I believe that this book is only successful if it sparks new ideas. So please don’t take anything in this book at face value and don’t blindly follow my advice. Question everything and try to find better alternatives. If enough people do this and share their thoughts, it will become easier and easier for everyone to understand how nature works. After all, the goal is not to spread my ideas but to make it easier for subsequent generations to learn physics. I’m just trying to provide an initial spark.
 
 In any case, I’m glad to have you aboard, fellow voyager! Hopefully, you’ll enjoy reading this book as much as I have enjoyed writing it.
-
-Karlsruhe, August 2019 Jakob Schwichtenberg PS: If you have any kind of feedback, please do not hesitate to contact me. I’m available via email at mail@jakobschwichtenberg.com.
-
-1An excellent career guide is: Peter Feibelman. A PhD Is Not Enough!: A Guide To Survival in Science. Basic Books, New York, 2011. ISBN 9780465022229 2My background will be discussed in a bit more detail in the following chapter.
 
 About the Author I rarely talk about myself because I’m convinced that a subject like quantum field theory, as one example, is a far more interesting topic. This book, however, contains many personal opinions. Therefore, I thought it may be helpful for some readers to know my background. Perhaps, you are wondering why you should care about what I have to say about physics. I’m not famous, and I will not win the Nobel Prize in the foreseeable future. So, it’s quite reasonable to question why anyone would be interested in my advice.
 
@@ -257,8 +248,6 @@ However, I certainly don’t want readers to think that I only wrote this book t
 
 This book is a paradoxical project. On the one hand, I want to encourage you to think independently, to stop following predefined paths, and to discover things on your own terms. On the other hand, I want to offer guidance and give specific recommendations, since even the most independent self-learner sometimes needs some guidance. The solution I came up with is that I will give many recommendations and share lots of opinions. However, I will remind you several times that everything written here is just my personal perspective, and you should always consult other sources since one perspective is never sufficient.
 
-To give you a place to start, here are a few alternative roadmaps and lists of book recommendations curated by different people: 1. How to Learn Math and Physics, by John Baez - http://math.ucr.edu/home/baez/books.html 2. So You Want to Learn Physics..., by Susan Fowler - https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics 3. How to become a GOOD Theoretical Physicist, by Gerard’t Hooft - http://www.goodtheorist.science/ 4. The Chicago Undergraduate Physics Bibliography, curated by Abhishek Roy - https://www.ocf.berkeley.edu/~abhishek/chicphys.htm 5. The Physics Book Recommendations at Stackexchange - https://physics.stackexchange.com/questions/12175/book-recommendations 6. So You Want to Become a Physicist?, by Michio Kaku - https://mkaku.org/home/articles/so-you-want-to-become-a-physicist/ 7. Math and Physics Book Recommendations by Spencer Stirling - http://www.spencerstirling.com/mathgeek/mathnotes.html
-
 You can use these resources, plus my recommendations, to build a learning roadmap that perfectly fits your needs and interests. Arguably the most important skill you will learn while studying physics is the ability to judge for yourself what will help you move forward.
 
 But don’t become a prisoner of your roadmap. To learn physics effectively, you need to always adjust your roadmap as you move along. It’s simply impossible to create a perfect roadmap in the beginning and then rigorously work your way through it. And, if you’re waiting until you have all the information, you’ll find yourself at a standstill. Creating a roadmap is essential because it allows you think about the journey as a whole and how things fit into context. But you should accept that your roadmap will always be terribly flawed and will need to be constantly updated. "Plans are worthless, but planning is everything", as Dwight D. Eisenhower famously remarked.
@@ -365,8 +354,6 @@ So, it’s your responsibility to ignore the noise around you and explore things
 
 > "And self-education is, I firmly believe, the only kind of education there is."
 
-> 5 Isaac Asimov. Science past, science future. Doubleday, Garden City, N.Y, 1975. ISBN 9780385099233
-
 There are, in fact, a few weeks in a typical university program when students become self-learners: when they prepare for their final oral exams. During these weeks, students try to guess which questions their professors will most likely ask them and then try to find great answers in books or online. With what we’ve been discussing so far, you will probably not be surprised when I tell you that it’s really during this time where most of the understanding happens. Almost all students I’ve talked to in the past few years have reported that they learned more during these weeks of independent learning than in all previous years of spoon-fed learning combined. Most importantly, students usually rediscover at that time how much fun physics can be. They suddenly remember why they started studying physics in the first place and feel as if they had been released from a straight-jacket.
 
 So, my modest suggestion would be that you only focus on this really effective type of learning and skip everything else.
@@ -384,8 +371,6 @@ Additionally, now is the perfect time to teach yourself physics because there is
 Here’s a nice way to understand all of this in terms of our physics-as-a-continent metaphor which was articulated by Lee Smolin (who attributes it to Eric Weinstein): 7
 
 > "Let us take a different twist on the landscape of theories and consider the landscape of possible ideas about post-standard model or quantum gravity physics that have been proposed. Height is proportional to the number of things the theory gets right. Since we don’t have a convincing case for the right theory yet, that is a high peak somewhere off in the distance. The existing approaches are hills of various heights that may or may not be connected, across some ridges and high valleys to the real peak. We assume the landscape is covered by fog so we can’t see where the real peak is, we can only feel around and detect slopes and local maxima. Now to a rough approximation, there are two kinds of scientists—hill climbers and valley crossers. Hill climbers are great technically and will always advance an approach incrementally. They are what you want once an approach has been defined, i.e. a hill has been discovered, and they will always go uphill and find the nearest local maximum. Valley crossers are perhaps not so good at those skills, but they have great intuition, a lot of serendipity, the ability to find hidden assumptions and look at familiar topics new ways, and so are able to wander around in the valleys, or cross exposed ridges, to find new hills and mountains."
-
-> 7 Lee Smolin described the metaphor at https://backreaction.blogspot.com/2006/08/lees-comments.html. Similar metaphors are described by Freeman Dyson in his essay titled "Frogs and Birds" and by Michael Arrington in his essay "Are You A Pirate?" to name a few.
 
 Following a university program is a great way to become a hill climber. And, of course, hill climbers were immensely important during the past decades when lots of details of established theories were carefully worked out. 8, 9
 
@@ -413,8 +398,6 @@ One final thing we need to talk about before we really dive into the meat of the
 
 Of course, being able to solve exercises quickly and without errors by no means correlates with your ability to conduct good research. In the real world, researchers usually have all the time in the world to solve the problem they are working on. And they can always ask colleagues for help or to do cross-checks, and use tools like Mathematica or textbooks to look up formulas.
 
-However, this is simply how the system currently works. There are lots of students in university classes and professors need a scalable way to assess students. That’s why good grades are essential for a successful career in physics. Later in your career, it’s not just "shut up and calculate" but also "publish or perish". To find a research position—maybe even a permanent one—you need be able to write and publish a lot of papers that get a significant number of citations in the first few years after their publication. If you "waste" your time contemplating deep questions or trying to come up with novel connections, you will probably never make it very far. 1 in the current system. Progress on this issue—see Smolin’s deep questions and the discovery of novel connections—are excellent “Why no new Einstein?” [Ref. Smolin, 2005]. Simply not plannable, and during the first few years most other researchers will probably not understand what you’re talking about. Therefore, this is not a good way to boost your h-index. https://www.psychologytoday.com/intl/blog/finding-the-next-einstein/201309/lee-smolin-encourages-graduate-student-stay-in-science
-
 In summary, if you spend some time in the physics community you will find, to quote Lee Smolin, the following:
 
 [T]here is, to put it simply, an ongoing fight between those of us who do science to satisfy our curiosity about nature and increase our knowledge and those who do it for careerist or egotistical reasons. 3 This observation is, of course, not new. Already Albert Einstein remarked that “[o]f all the communities available to us, there is not one I would want to devote myself to except for the society of the true seekers, which has very few living members at any one time.”
@@ -436,8 +419,6 @@ It’s not too hard to find examples in each category: • t’Hooft’s work on
 • Onsager’s solution of the Ising model was a “tour de force” calculation that is still essential for our understanding of phase transitions.
 
 • Einstein’s “elevator thought experiment” was crucial for his discovery of general relativity.
-
-Even though it is well known that deep insights can originate from everywhere, it’s not too surprising why many people still believe they’re too stupid to learn physics and contribute something meaningful. Within a traditional university program, usually only one particular type of skill is valued. As a result, many students feel stupid and become convinced that they don’t have what it takes. This is nicely summarized by the following cartoon based on a quote often attributed to Albert Einstein: 7 “Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” You can find a much more beautiful version of the cartoon online. Unfortunately, the original artist is unknown and thus, to avoid copyright problems, I included this adapted version here.
 
 The crux is that a task as complex and creative as “discovering previously-unknown truths” can certainly not be boiled down to a formalized set of tasks students need to excel in. In the cartoon, climbing the tree is certainly a valid approach to learn something about the tree. But if we really want to understand the tree’s structure and, say, how it grows, quite different skills are needed.
 

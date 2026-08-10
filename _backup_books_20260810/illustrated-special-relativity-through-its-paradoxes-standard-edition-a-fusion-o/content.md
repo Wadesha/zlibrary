@@ -1,0 +1,2532 @@
+# Illustrated Special Relativity Through Its Paradoxes Standard Edition A Fusion of Linear Algebra Graphics and Reality John de Pillis Jose Wudka Z Library
+
+> 来源文件：pre_Illustrated_Special_Relativity_Through_Its_Paradoxes_Standard_Edition_A_Fusion_of_Linear_Algebra_Graphics_and_Reality_John_de_Pillis_Jose_Wudka_Z_Library.txt
+> 字符数（约）：241382
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Illustrated Special Relativity Through Its Paradoxes: A Fusion of Linear Algebra, Graphics, and Reality
+
+© 2013 by the Mathematical Association of America, Inc. Library of Congress Catalog Card Number 2013956313 Electronic edition ISBN: 978-1-61444-517-3
+
+John de Pillis, Professor of Mathematics, University of California, Riverside and José Wudka, Professor of Physics, University of California, Riverside. Illustrations and animations by John de Pillis.
+
+Published and Distributed by The Mathematical Association of America.
+
+Council on Publications and Communications: Frank Farris, Chair. Committee on Books: Gerald Bryce, Chair. Spectrum Editorial Board: Gerald L. Alexanderson, Co-Editor; James J. Tattersall, Co-Editor; Robert E. Bradley, Susanna S. Epp, Richard K. Guy, Keith M. Kendig, Shawnee L. McMurran, Jeffrey L. Nunemacher, Jean J. Pedersen, Kenneth A. Ross, Marvin Schaefer, Franklin F. Sheehan.
+
+SPECTRUM SERIES: The Spectrum Series of the Mathematical Association of America was so named to reflect its purpose: to publish a broad range of books including biographies, accessible expositions of old or new mathematical ideas, reprints and revisions of excellent out-of-print books, popular works, and other monographs of high interest that will appeal to a broad range of readers, including students and teachers of mathematics, mathematical amateurs, and researchers.
+
+777 Mathematical Conversation Starters, by John de Pillis 99 Points of Intersection: Examples—Pictures—Proofs, by Hans Walser. Translated from the original German by Peter Hilton and Jean Pedersen Aha Gotcha and Aha Insight, by Martin Gardner All the Math That’s Fit to Print, by Keith Devlin Beautiful Mathematics, by Martin Erickson Calculus and Its Origins, by David Perkins Calculus Gems: Brief Lives and Memorable Mathematics, by George F. Simmons Carl Friedrich Gauss: Titan of Science, by G. Waldo Dunnington, with additional material by Jeremy Gray and Fritz-Egbert Dohse The Changing Space of Geometry, edited by Chris Pritchard Circles: A Mathematical View, by Dan Pedoe Complex Numbers and Geometry, by Liang-shin Hahn Cryptology, by Albrecht Beutelspacher The Early Mathematics of Leonhard Euler, by C. Edward Sandifer The Edge of the Universe: Celebrating 10 Years of Math Horizons, edited by Deanna Haunsperger and Stephen Kennedy Euler and Modern Science, edited by N. N. Bogolyubov, G. K. Mikhailov, and A. P. Yushkevich. Translated from Russian by Robert Burns.
+
+Euler at 300: An Appreciation, edited by Robert E. Bradley, Lawrence A. D’Antonio, and C. Edward Sandifer Expeditions in Mathematics, edited by Tatiana Shubin, David F. Hayes, and Gerald L. Alexanderson Five Hundred Mathematical Challenges, by Edward J. Barbeau, Murray S. Klamkin, and William O. J. Moser The Genius of Euler: Reflections on his Life and Work, edited by William Dunham The Golden Section, by Hans Walser. Translated from the original German by Peter Hilton, with the assistance of Jean Pedersen.
+
+The Harmony of the World: 75 Years of Mathematics Magazine, edited by Gerald L. Alexanderson with the assistance of Peter Ross A Historian Looks Back: The Calculus as Algebra and Selected Writings, by Judith Grabiner History of Mathematics: Highways and Byways, by Amy Dahan-Dalmédico and Jeanne Peiffer, translated by Sanford Segal How Euler Did It, by C. Edward Sandifer Illustrated Special Relativity Through Its Paradoxes: A Fusion of Linear Algebra, Graphics, and Reality, by John de Pillis and José Wudka In the Dark on the Sunny Side: A Memoir of an Out-of-Sight Mathematician, by Larry Baggett Is Mathematics Inevitable? A Miscellany, edited by Underwood Dudley I Want to Be a Mathematician, by Paul R. Halmos Journey into Geometries, by Marta Sved JULIA: a life in mathematics, by Constance Reid The Lighter Side of Mathematics: Proceedings of the Eugène Strens Memorial Conference on Recreational Mathematics & Its History, edited by Richard K. Guy and Robert E. Woodrow Lure of the Integers, by Joe Roberts Magic Numbers of the Professor, by Owen O’Shea and Underwood Dudley Magic Tricks, Card Shuffling, and Dynamic Computer Memories: The Mathematics of the Perfect Shuffle, by S. Brent Morris Martin Gardner’s Mathematical Games: The entire collection of his Scientific American columns The Math Chat Book, by Frank Morgan Mathematical Adventures for Students and Amateurs, edited by David Hayes and Tatiana Shubin. With the assistance of Gerald L. Alexanderson and Peter Ross Mathematical Apocrypha, by Steven G. Krantz Mathematical Apocrypha Redux, by Steven G. Krantz Mathematical Carnival, by Martin Gardner Mathematical Circles Vol I: In Mathematical Circles Quadrants I, II, III, IV, by Howard W. Eves Mathematical Circles Vol II: Mathematical Circles Revisited and Mathematical Circles Squared, by Howard W. Eves Mathematical Circles Vol III: Mathematical Circles Adieu and Return to Mathematical Circles, by Howard W. Eves Mathematical Circus, by Martin Gardner Mathematical Cranks, by Underwood Dudley Mathematical Evolutions, edited by Abe Shenitzer and John Stillwell Mathematical Fallacies, Flaws, and Flimflam, by Edward J. Barbeau Mathematical Magic Show, by Martin Gardner Mathematical Reminiscences, by Howard Eves Mathematical Treks: From Surreal Numbers to Magic Circles, by Ivars Peterson A Mathematician Comes of Age, by Steven G. Krantz Mathematics: Queen and Servant of Science, by E. T. Bell Mathematics in Historical Context, by Jeff Suzuki Memorabilia Mathematica, by Robert Edouard Moritz More Fallacies, Flaws, and Flimflam, Edward J. Barbeau Musings of the Masters: An Anthology of Mathematical Reflections, edited by Raymond G. Ayoub New Mathematical Diversions, by Martin Gardner Non-Euclidean Geometry, by H. S. M. Coxeter Numerical Methods That Work, by Forman Acton Numerology or What Pythagoras Wrought, by Underwood Dudley Out of the Mouths of Mathematicians, by Rosemary Schmalz Penrose Tiles to Trapdoor Ciphers ...and the Return of Dr. Matrix, by Martin Gardner Polyominoes, by George Martin Power Play, by Edward J. Barbeau Proof and Other Dilemmas: Mathematics and Philosophy, edited by Bonnie Gold and Roger Simons The Random Walks of George Pólya, by Gerald L. Alexanderson Remarkable Mathematicians, from Euler to von Neumann, by Ioan James The Search for E. T. Bell, also known as John Taine, by Constance Reid Shaping Space, edited by Marjorie Senechal and George Fleck Sherlock Holmes in Babylon and Other Tales of Mathematical History, edited by Marlow Anderson, Victor Katz, and Robin Wilson Sophie’s Diary, Second Edition, by Dora Musielak Student Research Projects in Calculus, by Marcus Cohen, Arthur Knoebel, Edward D. Gaughan, Douglas S. Kurtz, and David Pengelley Symmetry, by Hans Walser. Translated from the original German by Peter Hilton, with the assistance of Jean Pedersen.
+
+The Trisectors, by Underwood Dudley Twenty Years Before the Blackboard, by Michael Stueben with Diane Sandford Who Gave You the Epsilon? and Other Tales of Mathematical History, edited by Marlow Anderson, Victor Katz, and Robin Wilson The Words of Mathematics, by Steven Schwartzman
+
+Contents
+
+I. A FIRST PASS 1
+
+## 0.1 Exposition and Paradoxes
+
+## 0.2 Organization of this Book
+
+1 Introduction to the Paradoxes 11
+
+## 1.1 Aristotle vs. Galileo
+
+## 1.2 Frames of Reference
+
+## 1.3 Straight-Line Trajectories in 3-Space
+
+## 1.4 Galilean Relativity
+
+## 1.5 Special Relativity: A First Pass
+
+## 1.6 A Symmetry Principle
+
+## 1.7 Lorentzian Relativity
+
+## 1.8 The Ubiquitous Shrinkage Constant
+
+## 1.9 Paradox: The Accommodating Universe
+
+## 1.10 Paradox: Time and Distance Asymmetry
+
+## 1.11 Paradox: The Traveling Twin
+
+## 1.12 Paradox: The Train in the Tunnel
+
+## 1.13 Paradox: The Pea-Shooter
+
+## 1.14 Paradox: The Bug and Rivet
+
+## 1.15 Exercises
+
+2 Clocks and Rods in Motion 43
+
+## 2.1 The Perfect Clock
+
+## 2.2 Synchronizing Clocks within a Single Frame
+
+## 2.3 Moving Clocks Run Slow, Moving Rods Shrink
+
+## 2.4 Exercises
+
+3 The Algebra of Frames 54
+
+## 3.1 Inertial Frames of Reference
+
+## 3.2 Vector Space Structure of Frames
+
+## 3.3 Several Parallel Moving Frames
+
+## 3.4 Six Rules for Frames
+
+## 3.5 Exercises
+
+4 The Graphing of Frames 66
+
+## 4.1 The Filmstrip Model of Spacetime
+
+## 4.2 Constant Velocities in Spacetime
+
+## 4.3 Worldlines are Parallel to the Home Frame Time Axis
+
+## 4.4 Simultaneous and Static Events
+
+## 4.5 Linearity of Line-of-Sight Functions
+
+## 4.6 Exercises
+
+II. GAL IV. LORENTZ TRANSFORMATIONS OF FRAMES 103 7 Lorentz Transformations 104
+
+## 7.1 The Lorentz Matrix
+
+## 7.2 Pattern of the Lorentz Matrix
+
+## 7.3 The Lorentz Sum of Speeds
+
+## 7.4 Addition of Speeds via Matrices
+
+## 7.5 Addition of Speeds via Areas
+
+## 7.6 Exercises
+
+8 The Hyperbola of Time-Stamped Origins 118
+
+## 8.1 Invariance of Minkowski Length
+
+## 8.2 The Time-Stamped Origins Theorem
+
+## 8.3 Interpreting the Time-Stamped Origins Theorem
+
+## 8.4 Tangent Lines of Simultaneity
+
+## 8.5 Exercises
+
+V. GRAPHIC RESOLUTION OF THE PARADOXES 126 9 The Accommodating Universe Paradox 127
+
+## 9.1 Preview
+
+## 9.2 Setup for the Minkowski Diagram
+
+## 9.3 Resolving the Accommodating Universe
+
+## 9.4 Exercises
+
+10 The Length-Time Comparison Paradoxes 132
+
+## 10.1 An Overview of the Paradoxes
+
+## 10.2 Resolving the Mutual Length-Time Paradoxes
+
+## 10.3 Summary
+
+## 10.4 Exercises
+
+11 The Twin Paradox 141
+
+## 11.1 An Overview of the Paradox
+
+## 11.2 A Simplifying Assumption
+
+## 11.3 Setup for the Minkowski Diagram
+
+## 11.4 Resolving the Twin Paradox
+
+## 11.5 General Relativity Confirmation
+
+## 11.6 Exercises
+
+12 The Train-Tunnel Paradox 153
+
+## 12.1 An Overview of the Paradox
+
+## 12.2 A Distance Lemma
+
+## 12.3 The Train-Tunnel Minkowski Diagram
+
+## 12.4 Explaining Mutual Contraction
+
+## 12.5 Resolving the Train-Tunnel Paradox
+
+## 12.6 Exercises
+
+13 The Pea-Shooter Paradox 163
+
+## 13.1 An Overview of the Paradox
+
+## 13.2 The Fizeau Experiment: Adding Speeds
+
+## 13.3 Exercises
+
+14 The Bug-Rivet Paradox 171
+
+## 14.1 The Minkowski Diagram
+
+## 14.2 Coordinates in the Minkowski Diagram
+
+## 14.3 The Slinky Connection
+
+## 14.4 Exercises
+
+VI. ENERGY AND MASS 184 15 E = mc^2 185
+
+## 15.1 How We Came to This Place
+
+## 15.2 Speed-Dependent Mass: an Intuitive View
+
+## 15.3 Equivalence of Mass and Energy
+
+## 15.4 A Numerical Example
+
+## 15.5 Exercises
+
+VII. THE MATHEMATICS OF WAVES AND LIGHT 198 16 The Nature of Waves 199
+
+## 16.1 Propagated Waves
+
+## 16.2 Speed of Rope Wave is Constant
+
+## 16.3 Shapes Traveling in One Dimension
+
+## 16.4 The Wave Equation in One Dimension
+
+## 16.5 Wave Propagation: The Skipping Stone Model
+
+## 16.6 The Doppler Effect in Spacetime
+
+## 16.7 Exercises
+
+17 Measuring the Speed of Light 217
+
+## 17.1 Early Thoughts on the Speed of Light
+
+## 17.2 Rømer: The Speed of Light is Finite
+
+## 17.3 Fizeau Measures the Speed of Light
+
+## 17.4 de Sitter: c Independent of Source Speed
+
+## 17.5 Michelson-Morley’s Happy Failure
+
+## 17.6 Exercises
+
+VIII. MAXWELL’S EQUATIONS 238 18 Maxwell’s Mathematical Toolkit 239
+
+## 18.1 Preface
+
+## 18.2 Language and Proportionality
+
+## 18.3 1D Lengths & 2D Areas as 3D Vectors
+
+## 18.4 Orientations of Lines and Surfaces
+
+## 18.5 Vectors Modeling Reality
+
+## 18.6 Inner and Cross Products
+
+## 18.7 Riemann Sums and Integrals
+
+## 18.8 Integrals of the Inner Product
+
+## 18.9 Exercises
+
+19 Electric and Magnetic Fields 262
+
+## 19.1 Background
+
+## 19.2 Electric Forces: Coulomb’s Law
+
+## 19.3 Electric Fields
+
+## 19.4 Magnetic Fields
+
+## 19.5 Magnetic Forces: Lorentz Forces
+
+## 19.6 How Thomson Discovers the Electron
+
+20 Electricity and Magnetism: Gauss’ Laws 276
+
+## 20.1 Flux of Vector Fields
+
+## 20.2 Electric and Magnetic Flux
+
+## 20.3 Gauss’ Law for Electricity
+
+## 20.4 Gauss’ Law for Magnetism
+
+## 20.5 Exercises
+
+21 Towards Maxwell’s Equations 289
+
+## 21.1 Biot-Savart Law: Magnetism from Electricity
+
+## 21.2 Quantitative Results for Biot-Savart
+
+## 21.3 Ampère’s Law
+
+## 21.4 Maxwell Adds to Ampère’s Law
+
+## 21.5 Faraday’s Law: Electricity from Magnetism
+
+## 21.6 Lenz’s Law: The Positive Side of Negativity
+
+## 21.7 Maxwell’s Four Equations
+
+## 21.8 Exercises
+
+22 Electromagnetism: A Qualitative View 304
+
+## 22.1 Magnetic Waves from an Infinite Wire
+
+## 22.2 Wave Propagation
+
+## 22.3 The Geometry of Electromagnetism
+
+23 Electromagnetism: A Quantitative View 313
+
+## 23.1 Quantitative Preliminaries
+
+## 23.2 A Quantitative View of Propagation
+
+## 23.3 Theoretical Speed of Wave Propagation
+
+## 23.4 Maxwell’s Calculation of c
+
+## 23.5 Mathematical Hits
+
+## 23.6 Exercises
+
+IX. FINAL THOUGHTS 334 24 Epilogue: Final Thoughts 335
+
+## 24.1 A Coming of Age
+
+## 24.2 Einstein’s Annus Mirabilis
+
+## 24.3 Comparing Relativities
+
+## 24.4 Against Conventional Wisdom
+
+## 24.5 Some Experimental Results
+
+## 24.6 Bad Assumption, Good Result
+
+## 24.7 A Limited Reality
+
+## 24.8 PIES Reality
+
+## 24.9 Exercises
+
+X. APPENDICES 358 A Linear Algebra Overview 359 A.1 Mathematics as a Conduit to Reality 359 A.2 Vector Spaces 360 A.3 Functions 366 A.4 Linear Functions and Matrices 368 A.5 Eigenvectors and Eigenvalues 374 B Hyperbolic Functions 376 B.1 Overview 376 B.2 Even and Odd Functions 377 B.3 Invariant Areas of Transformed Hyperbolas 378 B.4 Exercises 383 C Deconstructing a Moving Train 385 C.1 Motion Alters Age 385 C.2 Minkowski Diagram for a Moving Train 385 C.3 Exercises 387 XI. SUPPLEMENTAL MATERIAL 388 D Dimensional Analysis 389 D.1 Unitless Quotients of Dimensions 389 D.2 Dimensions in Fractions 390 D.3 Exercises 393 E Rings of Functions and Square Matrices 396 E.1 Associative, Binary Operations 396 E.2 Rings over the Real Numbers 399 E.3 The Ring of Matrices 400 E.4 Exercises 401 F The Scientific Method 406 F.1 Reality of the Unseen 406 F.2 If-then Sentences 410 F.3 Property Lists 412 F.4 The Four-Step Scientific Method 413 F.5 Is X a Duck? Applying the Scientific Method 414 F.6 Whence the Scientific Method? 417 F.7 The Logical Implication 419 F.8 Induction vs. Deduction 419 F.9 Necessary vs. Sufficient 420 F.10 Uncertainty, Popper, and Derrida 422 F.11 Popper Logic 425 F.12 Exercises 427 G Logic of the Scientific Method 435 G.1 Implications Built from P, Q 435 G.2 Equivalence of Implications 438 G.3 Proof by Contradiction 440 G.4 Exercises 443
+
+This book is dedicated to my wife, Susan dePillis, whose support over the years allows me to truly understand why authors write dedications.
+
+I A First Pass
+
+Preface presents introductory remarks.
+
+Chapter 1 offers an intuitive overview of some of the paradoxes in special relativity. Detailed graphical analysis follows in Chapters (9)-(14).
+
+Chapter 2 concerns moving clocks (that always run slow) and moving objects (that always shrink in the direction of motion).
+
+Preface
+
+(0.1) Exposition and Paradoxes
+
+The Nature of Exposition (0.1.1) There are two flavors of scientific exposition—the qualitative and the quantitative. We provide both. The qualitative narrative gives us a story, a description of what happens. The quantitative exposition also tells us what happens, but adds the how and why of these happenings.
+
+If we only want to know what happens, then we are content with descriptions and assertions. We need no explanation. We are happy to learn that rods in motion shrink in the direction of motion, or that moving clocks always run slower than identical stationary clocks. But we need not know why.
+
+But if we also want to know why things happen, then we must use observed measurements along with mathematical structures to represent physical objects and phenomena.1
+
+(0.1.2) Why must we use mathematics in our quantitative analysis? This is a question that confounded Albert Einstein, who wrote, ([13], pg. 28)
+
+"How can it be that mathematics, being after all a product of human thought independent of experience, is so admirably adapted to the objects of reality?"
+
+Einstein was not alone in wondering why mathematics proved necessary to explain Reality. Physicist Eugene Wigner [33] and mathematician R. W. Hamming [19], were also puzzled over the Unreasonable Effectiveness of mathematics.
+
+1 It may be only apocryphal, but it has been said that when Stephen Hawking was writing his book, A Brief History of Time [20], he was advised by his editor that each formula he used would cut the sales by half.
+
+(0.1.3) To see how mathematics, a chess game of the mind, proves its "unreasonable" effectiveness, note how often in this book we will take the following Intellectual Round Trip: (i) Consider a natural phenomenon in the "real" world, (ii) Represent that phenomenon as a mathematical model, (iii) Run a mathematical analysis on that model, and, finally, (iv) Return the results of the mathematical analysis back to the original "real" world.
+
+Without this round trip from Reality to mathematics and back to Reality, we would not know, for example, that
+
+(0.1.4) Moving clocks must run slow (Figure (1.10.2), pg. 26) and moving rods must shrink in the direction of motion (Figure (1.10.4), pg. 27).
+
+The front end of a moving train is always younger than its back end (Appendix (C), pg. 385).
+
+The assumption of perfectly rigid bodies implies that time can be reversed in the sense that a future event would affect the present ((14.2.4), pg. 177).
+
+NOTE: A stark example of this intellectual round trip between Reality and mathematics is the set of Maxwell’s equations (Chapters (18)-(23)).
+
+The successes of (0.1.4), drawn from graphs and formulas, show how mathematics can model Reality and take us to truths about the physical world that lie well beyond the apprehension of our five humble input ports, or senses. But beware!
+
+(0.1.5) The Occasional Illusion: Although we will be applauding the success of mathematical modeling throughout this book, we must also be mindful that we often grasp Reality with a slippery hand. For example, in (24.6), we show how Descartes applied a false hypothesis to obtain a true result — Snell’s Law. Fermat, who disputed Descartes’ premise, applied an alternate (true) hypothesis to arrive at the same result ((24.6.2), pg. 348).
+
+As indicated above, this book offers both qualitative and quantitative expositions since the reader may benefit from one style or the other — or both.
+
+The Nature of Paradox (0.1.6) Paradoxes are phenomena or arguments that challenge our intuition to such a degree that we are tempted to declare the statements to be outright contradictions to what we "certainly" know is true. Part of the fun is to acknowledge these first impressions of disbelief, and then to resolve them through the force of logic and mathematics, and thereby clarify the contours of Reality. These are characteristics of non-intuitive assertions or paradoxes which we now define:
+
+(0.1.7)
+
+DEFINITION: A Paradox is a statement or proposition that is seemingly contradictory or absurd, but, in reality, expresses a truth without contradiction.
+
+(0.1.8) How are paradoxes explained? As events will reveal, paradoxes often arise from the ambiguity of spoken language and reluctance to abandon "obvious" intuitive truths.
+
+For example, our intuition that tells us that the earth is flat, that the sun moves around the earth, and that atoms, if they exist at all, must be relatively solid — they can not consist mostly of empty space. More generally, we might say that paradoxes arise when we fail to apply Critical Thinking2 which includes the questioning and evaluating of basic assumptions.
+
+2 Critical thinking is not the same thing as criticizing. The declaration, "I don’t like those shoes you are wearing!" is not necessarily a product of critical thinking which must be based on clear identification of assumptions and their logical consequences.
+
+(0.2) Organization of this Book Preface: This chapter SR3 QUALITATIVE MATERIAL (what the paradoxes are)
+
+Chapter (1) Introduction to the Paradoxes: This is an introductory overview of six paradoxes in special relativity without full explanations or proof.
+
+Chapter (2) Clocks and Rods in Motion: It is stated, without extensive proof, that moving clocks always run slow and moving objects always shrink in the direction of motion.
+
+SR QUANTITATIVE MATERIAL (questions of why and how.)
+
+Chapter (3) The Algebra of Frames: The inertial frame, \( F \), the basic setting for special relativity, is a choice of an origin, a coordinate system and clocks at every point in space, which together allow a unique specification of the location and time of each event. Without loss of generality, we can restrict the three space coordinates to one space coordinate \( x \) (1.3.1). Examples of inertial frames experiencing no forces with a clock at each point would be a railroad car or a ruler moving at constant speed. Distance \( x \) and time \( t \) at that point \( x \) defines an ordered pair, \([x, t]\), the set of which is a two-dimensional vector space (Section (3.2)). Finally, we present the six rules for frames (Section (3.4)).
+
+Chapter (4) The Graphing of Frames: Since an inertial frame is mathematically modeled as a two-dimensional vector space (Ch. (3)), each frame can also be represented as a two-dimensional spacetime graph. Each ordered pair \([x, t]\) can then be pictured as a point on the spacetime graph that has coordinate axes \( X \) for distance and \( T \) for time.
+
+The tools of linear algebra now come into play: If we have two frames, \( F_A \) and \( F_B \), say, moving parallel to each other with a constant relative speed (imagine two railroad cars on parallel tracks), then to peek into one frame from another along a virtual line-of-sight, is to establish a relationship or pairing between the observer point \([x, t]_A\) in frame \( A \) and the observed point \([x', t']_B\) in frame \( B \). The set of all pairings, \([x, t]_A \rightarrow [x', t']_B\), defines a mathematical function that also turns out to be, in mathematical terminology, a linear transformation ((A.4.1b), pg. 368).
+
+Chapter (5) Galilean Transformations: The standard tools of linear algebra allow us to create a unique 2×2 matrix that totally reflects the properties of the corresponding linear transformation \([x, t]_A \rightarrow [x', t']_B\) described in Chapter (4). What does this matrix look like? Since Galileo assumed that there was only one universal clock by which all observers in all frames can simultaneously synchronize their watches (an intuitive idea behind railroad timetables, and one that we see in spy movies all the time), it follows, in a non-obvious way, that the speed of light must be infinite. Assuming infinite speed of light, we arrive at a unique 2×2 matrix called the Galilean transformation matrix that allows us to view between the pair of inertial frames along line-of-sight corridors ((5.4.1a), pg. 90).
+
+Chapter (6) Constant c in Spacetime: By 1905, \( c \), the speed of light in a vacuum, was determined not to be infinite, but to have a value of 186,000 miles per second. Einstein’s fundamental assumption is that this single value of \( c \) must be the same for all observers regardless of the speed of either the light-source or the observer (No matter how fast you chase after a photon of light, its speed is still the constant \( c \)). With this additional assumption, spacetime graphs are called Minkowski diagrams. With the aid of Minkowski diagrams, we learn that two events occurring simultaneously in one frame can never occur simultaneously in another frame that is moving relative to the first frame. That the constant speed of light destroys simultaneity (Figure (6.2.3)) is anything but clear from just the reality of our five senses.
+
+Chapter (7) Lorentz Transformations: Since the speed of light \( c \) is not infinite and is measured to be constant by all observers regardless of motion, we are able to use the geometry of the Minkowski diagram to derive the linear transformation \([x, t]_A \rightarrow [x', t']_B\) that pairs an observer at \([x, t]_A\) in \( A \) viewing an observer at \([x', t']_B\) in \( B \) through a virtual line-of-sight corridor that runs between the two (parallel) frames. This pairing, the Lorentz linear transformation, has a corresponding 2×2 matrix representation called the Lorentz matrix ((7.2.2), pg. 109). With this non-Galilean matrix in hand, we find that speeds no longer add in the "usual" way that accords with our experience. We show this to be true analytically thr Through a matrix analysis (Section (7.4)) and then geometrically using areas (Section (7.5)).
+
+Chapter (8) The Hyperbola of Time-Stamped Origins: Consider infinitely many parallel frames, each moving with a different relative speed. For fixed time t in each frame, plot the respective origins in the Minkowski X-T diagram. The resulting curve is a well-defined hyperbola. Different fixed times t produce different hyperbolas. (This hyperbola reduces to a horizontal line in Gaussian/Newtonian physics.) Each moving frame gives rise to a tangent line (of the t hyperbola) which then corresponds to all the t simultaneous events in frame.
+
+Chapter (9) The Accommodating Universe: The theory of special relativity holds that particles and signals can never travel faster than the speed of light. However, conditions are described under which an intergalactic traveler (skateboarder) apparently does travel faster than light. The analysis reveals how this "contradiction" is a consequence of the (mis)use of language.
+
+Chapter (10) The Length-Time Comparison Paradoxes: Let two inertial frames be in parallel constant motion relative to each other. Then observers in each frame see the clocks in the other (moving) frame run slower than the clocks of their own (stationary) frame. Similarly, identical rods in the other (moving) frame are shorter than the rods in their own (stationary) frame. This chapter answers the questions: How can clocks in each frame simultaneously run slower than clocks in the other frame? How can identical rods in each frame simultaneously be shorter than rods in the other frame?
+
+Chapter (11) The Twin Paradox: On the day of their birth, one twin sets off in space in a very fast rocket while the other twin stays on Earth. After 25 Earth years, the traveling twin's space ship turns around and takes another 25 years to return to Earth. The paradox is that the Earth-bound twin has aged 50 years while the space ship twin, upon return, has aged only 30 years. On one hand, all moving clocks run slow, so naturally, the moving space ship clock slows down and reads only 30 years instead of 50 years on its return to Earth. On the other hand, it is the Earth clock that is moving as observed from the space ship. If so, then why doesn't the (moving) Earth clock run slower than the (stationary) space ship clock?
+
+Chapter (12) The Train-Tunnel Paradox: Viewed from the tunnel, a moving train inside the tunnel avoids the shock of simultaneous lightning bolts that strike the tunnel entrance and the exit. Viewed from the train, the (moving) tunnel becomes shorter than the train. Do the (simultaneous?) lightning bolts now strike the "too-long" train?
+
+Chapter (13) The Pea-shooter Paradox: Our intuition tells us that if a train is going at u=50 mph and a ball on the train is thrown forward at v=20 mph, then an observer standing outside the train will see the ball traveling at u+v=20+50=70 mph. Not so. The actual (Lorentzian, or relativistic) sum of speeds, is always u ⊕ v = (u+v)/(1+uv/c²) which, for small speeds, is imperceptibly less than the familiar combined speed u+v. There are two ways to derive u ⊕ v: analytically through matrix calculation (7.4) and graphically through addition of areas (7.5).
+
+Chapter (14) The Bug-Rivet Paradox is one of the least explored paradoxes of special relativity. The assumption of absolute rigidity — where objects can never be stretched or compressed — implies that the future affects the present! Using a principle demonstrated by the Slinky toy (14.3), special relativity tells us that a speeding rivet (which, from a stationary frame, is seen to be shortened), reverts to its at-rest length after its speed is reduced to zero. In our example, (14.1), a certain collision is designed to bring the rivet speed to zero. However, perfect rigidity implies that the rivet will "sense" the impending collision and will start to reach its at-rest length even before the collision occurs.
+
+ENERGY and MASS Chapter (15) E=mc² This celebrated equation is almost an afterthought once the connection is made between the pea-shooter paradox, Chapter 13, and conservation of momentum.
+
+THE MATHEMATICS of WAVES and LIGHT Chapter (16) The Nature of Waves: We develop the mathematical model of propagated waves since light exhibits the properties of a propagated wave under certain circumstances.
+
+Chapter (17) Measuring the Speed of Light: We offer details of some of the earliest and ingenious methods for measuring c, the finite speed of light. Even in the time of Galileo and Newton, it could not be proven that the speed of light was finite. In this chapter, you will see how you can use your home microwave oven to measure c in a 20-second experiment (Exercise (17.6.6d), pg. 237).
+
+MAXWELL’S EQUATIONS (a unification of theories of electricity, magnetism, and optics)
+
+Chapter (18) Maxwell’s Mathematical Toolkit: At the very outset of his seminal paper in special relativity [12], Einstein acknowledges the work of Clerk Maxwell and his unifying work in which he developed just four equations ((21.7.3), pg. 300) that unified the theories of electricity, optics, and magnetism. In this chapter, we see how observable (one-dimensional) lengths and (two-dimensional) areas are interpreted mathematically as three-dimensional vectors, or arrows (See Vectors Model Reality (18.5), pg. 247).
+
+Chapter (19) Electric and Magnetic Fields: This is an overview of electricity and magnetism basics including Coulomb’s Law (19.2.4b).
+
+Chapter (20) Electricity and Magnetism. Gauss’ Laws: After developing the notion of flux, we state Gauss’ Law for both electricity (20.3.1) and magnetism (20.4.1).
+
+Chapter (21) Towards Maxwell’s Equations: After discussion of the Biot-Savart Law (21.1), the Ampère Maxwell Law (21.3), along with the laws of Faraday (21.5) and Lenz (21.6), we finally present the elegant four equations that Maxwell fashioned (21.7) to embrace all the laws previously stated.
+
+Chapter (22) Electromagnetism. A Qualitative View: We offer a general description of the geometry of electromagnetic wave propagation.
+
+Chapter (23) Electromagnetism. A Quantitative View: An analytic explanation of topics in the previous chapter are presented. We see how Maxwell calculated c, the speed of light. (Actually, he calculated the speed of electromagnetic waves, not knowing at the time that light was one example of electromagnetism). He did this by merely computing c = √(ε₀µ₀), the square root of the product of ε₀, the permittivity (19.2.5a) from Coulomb’s law, and µ₀, the permeability (21.2.2) from the Biot-Savart Law. This is an amazing mathematical prediction.
+
+## FINAL THOUGHTS
+
+Chapter (24) Epilogue. Final Thoughts: We find an overview of Einstein’s Annus Mirabilis of 1905 (24.2), a comparison of the Galileo/Newton relativities with that of Einstein/Lorentz (24.3), a note on the reliability of Conventional Wisdom, and a description of a feud between Descartes and Fermat, each of whom derived Snell’s Law (24.6). The difference is that Descartes falsely assumed that light would gain speed as it entered water, while Fermat correctly asserted that light would slow down. Yet they both arrived at the same conclusion.
+
+## APPENDIX
+
+Appendix (A) Linear Algebra Overview: A brief exposition of vector spaces, functions, and linear transformations along with their matrix representations, eigenvalues and eigenvectors.
+
+Appendix (B) Hyperbolic Functions: Graphical properties of the hyperbola f(x) = 1/x² become the mathematical foundation for Section (7.5), pg. 112, Addition of Speeds via Areas in the special case that the speed of light c=1. Properties of hyperbolas and their areas are central to developing a graphical resolution of the pea-shooter paradox.
+
+Appendix (C) Deconstructing a Moving train: A railroad car at constant speed is a physical object. When modeled mathematically, it becomes an inertial frame (a ruler with a clock at each point ((1.5.1), pg. 16)). What is not obvious in the "real" physical reality, is that observers on a platform will see that the front of the train is younger than the rear of the train. The Minkowski diagram ((C.2.1), pg. 386) justifies this conclusion.
+
+(0.2.1) Acknowledgments. Lectures from this book were presented in the winter of 2005 at the University of Padua, Italy, with the generous support of Professoressa Maria Morandi Cecchi, Dipartimento Matematica Pura ed Applicata. The authors benefited from conversations with Professors Jack Denny of Arizona State University, Al Kelley of the University of California, Santa Cruz, Professors Fred Metcalf, Larry Harper, David Ellerman, and John Baez of the University of California, Riverside, Professor John Mallinckrodt, California State Polytechnic University, who commented on the paradoxes, Dr. Joan Kleypas of the National Center for Atmospheric Research in Boulder, Colorado, and Richard Reeves. Special thanks are owed to Jerry Alexanderson and particularly to Don Albers of the Mathematical Association of America who was consistently supportive of this book with its color illustrations, and the animations.
+
+(1) Introduction to the Paradoxes (1.1) Aristotle vs. Galileo (1.1.1) Aristotle (384–322 B.C.) believed that a stone fell toward the earth because the stone and the earth were both in the "Earth" category among the four basic elements, Earth, Air, Fire, and Water. According to this reasoning, smoke, which consists of air and fire, wants to be closer to the sky (air) and further from an unlike element (earth). Hence, earthly objects move naturally toward the earth while "airy" objects move naturally upward. The assumed fifth element, the heavenly substance he called the Quintessence along with an assumed Prime Mover accounted for the "perfect" circular and uniform motion of the heavens. Finally, Aristotle asserted that motion of any object required a continuing force on that object as long as motion persisted.
+
+As if to simplify the discussion, St. Thomas Aquinas (1225–1274) later declared that something is in motion when it is both what it is already and something else that it is not yet. (Apparently, new explanations do not always lead to clarity.)
+
+In a comple edeparturefromtheconvolutedexplanationsofAristotle and Aquinas, Galileo Galilei (1564–1642) claimed that a force was not necessary to maintain constant, straight-line motion. This property is in evidence even today where it can be observed that an object in space willdrift along forever without external forces.
+
+Galileo’s thesis was that a force was necessary only to produce a changeinspeed,thatis,anaccelerationordeceleration. Forexample, it is the force of friction that brings a rolling ball to a stop on a flat surface.
+
+Aristotle and Galileo disagreed on another point. Where Aristotle saidaheavybodywouldfallfaster thanalighterone (Doesn’t a rock fall faster than a feather?), Galileo claimed that two bodies, when dropped from the same height, always fall at the same rate, when acted upon by the force of gravity alone. (The effect of friction due toairresistancemustbenegligible,whichisnotthecasewithafalling feather.)
+
+12 Introduction to the Paradoxes (1.1.2) F IGURE:Galileo’s Thought Experiment for Falling Bodies A bodyofweightW (leftpanel)fallsatthesamerateastheheavierbody ofweight3W (rightpanel) sinceitcanbeconsideredasthreeindependent bodies,each of weightW.
+
+IfAristotlewerecorrectinclaimingthatheavierbodiesfallfaster than lighter ones then once the three individuals of Figure (1.1.2)
+
+touchfingers,formingacollectiveweight3W,theywouldstarttofall faster. Andoncetheirfingersseparated,thespeedofeachindividual, being only W units, would slow down.
+
+(1.2) Frames of Reference A Frame of Reference is a way of specifying the position of each event with respect to a given point, and the time at which the event occurred.
+
+For example, while directing a tourist from a train station to her hotel room, we need to tell her how many meters east she should walk,thenhowmanynorth,andhowmanystoriesupthebuildingshe should go;we can also tell her shell be there a 4 PM. So we imagine three lines, one east-west, one north-south and one up-down, and a clock atvery point;That is,fromourlocation(the “origin”),we can specify any point and any time—that is, any event—by providing 4 numbers.
+
+Insum,thechosensetoflinesandclocksrepresent areference frame.
+
+Using this frame we can tell the where and when of any event. The corresponding 4 numbers are the coordinates of that event with re- spect to that reference frame.
+
+1.3. Straight-Line Trajectories in 3-Space 13 Here is a more formal definition: (1.2.1)
+
+D EFINITION:A Frame of Reference, , is a choice of an origin, a coordinate system and clocks at every point in space, which together allow a unique specification of the location and time of each event.
+
+(1.3) Straight-Line Trajectories in 3-Space (1.3.1) Representing 3D Motion as 1D Motion: If the motion of a particleisonlyalongastraightlineinaspacewithX,Y,andZ-axes, thenwecanchooseourX-axis,whichisalsoastraightline,toexactly coincide with that straight line path in 3-space. As illustrated by Figure (1.3.2),the particletravelingalongthisX-axis has spacetime coordinatesoftheform[x,0,0,t]—theY andZ coordinates arefixed at 0 whilethe x and t values varywith time. Hence, the coordinates [x,t] contain the same information about the particle’s motion as does [x,0,0,t].
+
+(1.3.2) F IGURE: 1D Representation of 3D Straight-Line Trajectory.
+
+Without loss of gen- erality, we choose the X-Y-Z axes so that the X-axis falls on the straight-line trajectory of an object in 3- space. Two positions(x coordinates) are shown ofan objecttravelingon the X-axis at times t and t . The two posi- tions are economically represented, without loss of information, by the ordered pairs, [x,t]
+
+and [x0,t0] — no y or z valuesare needed.
+
+14 Introduction to the Paradoxes (1.3.3) F IGURE:When Pictures Fail Although time is involved, Figure (1.3.2) does not show a separate time axis, T which would necessarily add an extra dimension to the 3-dimensional graph. Such a complete spacetime diagram, or frame of reference (1.2.1) with coordinates [x,y,z,t], would require four space dimensions to plot which, in our 3-dimensional universe, we cannot do.
+
+Butifthetrailof auniformlymovingparticlein3-spacecanberepre- sentedashavingonlyonespacedimension(andonetimedimension), i.e.,weneedonlytwofixedcoordinates,asin(1.3.2),thenwecanrep- resent all the information of this object’s motion in a 2-dimensional spacetime graph.
+
+(1.4) Galilean Relativity (1.4.1) It was Galileo who first formulated a principle of relativity where speeds are measured relative to a frame of reference (1.2.1). This principle can beobserved,forexample,whenapas- senger onan airplane(frame of refer- ence) travelingat600mphrelativeto the ground (another frame of refer- ence) throws a ball vertically in the air. The ball travels on a vertical up- and-down path relative to the passenger’s frame of reference. The 1.4. GalileanRelativity 15 ball does not, as intuition and the illustration might suggest, snap toward the back of the airplane at 600 mph.
+
+Galileo considered two ships (frames of reference (1.2.1)), each of which has an experimenter below deck in a cabin without windows.
+
+Eachshipismovingwithconstantspeed,whichcouldbezero,relative to land. Galileo then asserted that there is no experiment that the experimenters can devise that would reveal whether or not their re- spective ships are in motion. Moreover, alltheir experiments within the ship (e.g., balls rolling down tilted planes, collisions of billiard balls) would produce identical results.
+
+(1.4.2) Using the model of two ships, each of which is a separate frame of reference, Galileostated his relativity principle as follows: Shut yourself up with some friend in the main cabin below decks on some large ship, and have with you some flies, but- terflies,andsomeothersmallflyinganimals...hangupabottle thatemptiesdropbydropintoawidevesselbeneathit...have the ship proceed with any speed you like, so long as the mo- tion is uniform and not fluctuating this way and that ...The droplets willfall...into the vessel beneath without dropping toward the stern, although, whilethe drops are inthe airthe shipruns many spans ...thebutterflies and the flieswillcon- tinue their flights indifferently toward every side, nor will it ever happen that they are concentrated toward the stern, as iftired out from keeping up withthe course of the ship.
+
+The point ofthis quote is that passengers on the ship can not deter- minewhethertheshipismoving(withconstantspeed) relativetothe shore unless they view the shore from their cabin. Within the cabin frame of reference, the ship speed is zero, while in a frame anchored to the shore, the ship may have a non-zero speed. Speed or velocity is therefore relative to the frame from which it is measured.
+
+This quote can be found in a 1953 translation by StillmanDrake [9]
+
+and in the more recent 2004 book by Roger Penrose [27], The Road to Reality.
+
+16 Introduction to the Paradoxes (1.5) Special Relativity: A First Pass Briefly put, Special Relativity is the study of physical frames of reference (1.2.1)—coordinate systems with clocks at each point— withtheadditionalconditionthattheframesmoveatconstantspeed relative to each other. Inertial frames experience no forces or accel- eration and objects or observers within each frame are fixed at their respective positions. The Principle of Relativity asserts that alllawsofphysics,includingthoseofelectromagnetismandquantum mechanics, are equally valid in each inertial frame. In sum, (1.5.1)
+
+D EFINITION:An Inertial Frame of Reference is a frame of reference [ (1.2.1), pg. 13] which is non-accelerating.
+
+In an inertial frame, whose objects experience no forces, a freely- movingball on a horizontalfriction-free table would remain station- ary.
+
+Thetheoryofspecialrelativityisbasedonthefollowingassumptions: (1.5.2) T WO B ASIC P REMISES (P OSTULATES )
+
+(1.5.2a) The lawsofphysics formechanics (for objects), electromagnetism,andquantum theory,arethe same and equally validfor allinertial frames of reference (points of view) (1.2.1).
+
+(1.5.2b) The speed of light in a vacuum, denoted c, is the same for all observers, regardless of the speedofitssource,orthespeedoftheobservers.
+
+1.5. Special Relativity: A First Pass 17 (1.5.3) Assumptions, postulates, axioms, or premises, like those of (1.5.2), are, by definition, fundamental properties, observations, or “starting points” that are given without proof. Scientists and math- ematicians hold to the importance of clearly identifying these basic andunprovenassumptions. Thisissothatwecan better understand theirconsequences—theoremsandpropertiesthatnecessarilyfollow.
+
+Chapter F on the scientific method and chapter G on mathematical logic expand on this principle.
+
+...................................................................
+
+(1.5.4) Assumption(1.5.2b)is, admittedly, anti-intuitive. Although you can run after a materialobject, like atrain or a ballinflight, to make its speed appear slower (relative to you), you can not do this with electromagnetic light “particles” or photons.
+
+Ifyou release photons fromalightsource, then you willalwaysmea- suretheirspeedtobe186,282milespersecond,or2.99792458 108 meters per second.1 regardless of your motion or the motion of the lightsource.
+
+(1.5.5) F IGURE:Chasing a Photon from a Light Beam At time 0:00 seconds, Ashley is synchronizedwith the emitted photon at the lightsource. One secondlater, Ashley’sclockreads 0:01 . Ashley will always findherselfseparatedfrom the emittedphotonby a distanceof 1Weapproximatethesevalueswithc≈186,000miles/hr≈3×108meters/sec.
+
+18 Introduction to the Paradoxes 186,000 miles, whethershe is (i) stationaryrelativeto thelight sourceor (ii) movingrelativeto the lightsource.
+
+...................................................................
+
+(1.5.6) The Importance of Maxwell’s Work. In listing the two pos- tulates of special relativity (1.5.2), one might think they are inde- pendent of each other. In fact, if the laws of electromagnetism, i.e., Maxwell’s equations, are valid in all inertial frames, as is implied by (1.5.2a), then we must acce See the consequences of these equations, one of which is (1.5.2b), namely, c, the speed of all electromagnetic waves in a vacuum (and the speed of light in particular) is the same in all frames from which it is measured. (See Section (23.4), pg. 326, to see how Maxwell calculated c using just two laboratory measurements.)
+
+(1.6) A Symmetry Principle If frame A measures the relative speed of frame B to be rightward, at, say, 30 miles per hour, then is it possible for frame B to measure the relative speed of frame A to be leftward at 20 miles per hour? Such a lack of symmetry is not possible if all inertial frames are equal in the sense that no frame is any more special or unique than any other frame. Thus, if A sees frame B moving rightward at 30 miles per hour, then frame B must see frame A moving leftward at 30 miles per hour, or at 30 miles per hour.
+
+We state this symmetry principle more formally:.
+
+(1.6.1)
+
+THE SYMMETRY PRINCIPLE FOR RELATIVE SPEEDS. Inertial frames A and B are moving parallel to each other with constant speed. If observers in frame of reference A measure the speed of frame B to be v in the positive direction, then conversely, observers in B will measure the speed of frame A to be v, i.e., observers in B measure the speed of A to have the same magnitude but the negative (opposite) direction.
+
+(1.7) Lorentzian Relativity (1.7.1) NOTE: At this point, our exposition is purely descriptive—we do not explain how these results arise. Proof of why moving clocks run slow, and why moving rods shrink, will come later in Theorem (2.3.3).
+
+(1.7.2) Lorentzian Relativity The following results, (1.7.2a) and (1.7.2b), are inevitable consequences of the two assumptions noted in (1.5.2), along with the symmetry principle for speeds (1.6.1). Suppose a clock and an object are fixed in frames that are observed to be moving relative to an observer in another frame. Then (1.7.2a) The moving clock is always observed to run slower than stationary clocks. (This effect is too small to be observed until the clock reaches speeds close to the speed of light.) Within its own frame, a stationary observer does not see an identical clock running any slower.
+
+(1.7.2b) The length of the moving object physically contracts in the direction of its motion as measured by the stationary observer. Within its own frame, a stationary observer does not measure an identical rod to be any shorter.
+
+A further consequence of these two results concerns the unique rôle of the speed of light in a vacuum, namely, (1.7.2c) The speed of light in a vacuum is an upper limit for the speed of all matter and all signals in the Universe—no material object or wave can achieve a speed greater than the speed of light in a vacuum.
+
+(1.8) The Ubiquitous Shrinkage Constant (1.8.1) In (1.7.2a) and (1.7.2b), the clock and the object are fixed in frames that are observed to move at a specific speed v. The observed “shrinkage” in length and time is quantified by the speed-dependent constant, σ which we define next in (1.8.2).
+
+(1.8.2)
+
+DEFINITION: The speed-dependent Lorentz contraction factor is defined to be σv def = 1 − (v/c)² < 1 whenever speed v < c.
+
+(This value of σ will be justified in (7.1.3b), pg. 106.)
+
+Specifically, suppose clocks are synchronized so that the clocks at the origin x = 0 in each frame read time t = 0 (A more formal definition will be found at (3.4.5a), pg. 62). Then the moving clock will always tick at a rate σv times the rate of the stationary clock. Similarly, if d is the observed rod length in a stationary frame, then observers in the stationary frame observe the length of the moving rod to be σv d = d.
+
+(1.8.3) NOTE: One proof of the fact that moving rods shrink, and moving clocks slow down is found in Theorem (2.3.3), pg. 49. This theorem uses properties of Figure (2.3.2) which are based only on the Pythagorean Theorem.
+
+The properties of length contraction and time dilation are summarized in the following table.
+
+(1.8.4) TABLE: At-Rest and Speed-v Lengths and Times Observed at rest Observed at speed v Clock time (t₀) hrs. (σv t₀) hrs.
+
+Rod length (d) ft. (σv d) ft.
+
+σv = 1 − (v/c)² NOTE: Objects do not shrink when measured in their own frames and clocks do not slow down when time is measured in their own frames.
+
+(1.8.5) The online animation² of Lorentz frames shows that in relativistic physics, a ruler contracts to 80% of its at-rest length when it travels at relative speed 0.6c (Note that σv = 0.8 when v = 0.6c in (1.8.2)). The online animation of Galilean frames shows that in classical Galilean physics, a ruler traveling at any speed enjoys no length contraction. The following examples are products of the contraction formula (1.8.2).
+
+(1.8.6) EXAMPLE: Any Degree of Contraction is Achievable. From (1.8.2), we see that the number σv = 1 − (v/c)² can be as close to zero as we like as long as speed, v, is close enough to c, the speed of light in a vacuum. (More formally, we write “v → c implies σv → 0.”) From Table (1.8.4), any rod of length d can have an arbitrarily small observed length, (σv d), if its speed, v, is close enough to c.
+
+As a special case of (1.8.6), we have (1.8.7) EXAMPLE: The Ever-Shrinking Tunnel. A tunnel or corridor has an at-rest length of 100 miles. Therefore, from (1.7.2b) or (1.8.6), a traveler moving through the tunnel who sees the tunnel flying by at speed v can make that tunnel shrink in the direction of travel to any small non-zero length, namely, (σv 100) miles. From the traveler’s point of view, the moving tunnel’s length will be multiplied (shrunk) by the Lorentz contraction factor, 0 < σv = 1 − (v/c)² ≤ 1 which can be made as small as we like if v is taken close enough to c. However, from the point of view of an outsider who is not moving relative to the tunnel, the tunnel’s length remains at the fixed length of 100 miles.
+
+When we compare similar observations and measurements of an observer outside a tunnel with those of a moving skateboarder inside the tunnel (see Figure (1.9.4c)), we generate the Accommodating Universe Paradox in Section (1.9).
+
+(1.9) Paradox: The Accommodating Universe (1.9.1) Inertial frame E — contains the “dumbell” configuration of (i) the Earth at the point x=0, (ii) Star XYZ at point x=d and (iii) a tunnel or corridor with at-rest length d in frame E that connects Earth and Star XYZ.
+
+Inertial frame S — whose X-axis is parallel to that of E and contains a skateboard and a skateboarder fixed at point x = 0, the origin of S. The origin of frame S is fixed to the skateboard and travels through the tunnel from Earth to Star XYZ at speed v relative to frame E.
+
+From (1.6.1), the skateboarder in frame S, will see the corridor traveling leftward at speed v. From properties of the ubiquitous shrinking factor (1.8.4), the skateboarder will measure the corridor to have a length of only σv d. This means as speed v approaches the speed of light, the length of the corridor becomes arbitrarily small from the skateboarder’s point of view.³ What does this mean?
+
+(1.9.2) The Universe is Accommodating in the sense that the faster the skateboarder races toward the star, the shorter will be the length σv d of the corridor from the skateboarder’s point of view in S.
+
+³ The same argument implies that any two points in the entire universe become arbitrarily close to each other from a traveler’s point of view if the speed is close enough to c.
+
+Hence, the skateboarder, traveling at speed v along a shortened corridor will reach Star XYZ in an arbitrarily short time.
+
+To set the stage, we will need one more definition.
+
+(1.9.3)
+
+DEFINITION: A Light Year is defined as the distance in a vacuum that light travels after a one-year journey. Similarly, a Light Second, Light Minute, etc. is the distance traveled by light in a second, or a minute, etc.
+
+Statement of the Paradox Suppose the length of the corridor between Earth and Star XYZ is d = 150 light years (1.9.3) as seen from Earth. This means a photon requires 150 years to travel from Earth to Star XYZ. Yet, as mentioned in (1.9.2) above, for sufficiently high speeds, the skateboarder can travel through the corridor from Earth to Star XYZ in less than 150 years.
+
+Question: How can the skateboarder travel faster than light?
+
+(1.9.4) Analysis: In both the Earth’s frame of reference E and the skateboarder’s frame S (1.9.1), the time of travel of any object traveling at speed w over distance dist is (1.9.4a) time = dist / w.
+
+Using (1.9.4a) in frame E, (1.9.4b)
+
+Skateboarder time in E required to cover distance d at speed v is d / v seconds.
+
+Photon time in E required to cover distance d at speed c is d / c seconds.
+
+(1.9.4c)
+
+Skateboarder time in S required to cover distance σv d at speed v is σv d / v seconds.
+
+Photon time in S required to cover distance σv d at speed c is σv d / c seconds.
+
+(1.9.5) Skateboarder Travels Faster Than Light: A Specious Argument. Consider the ratio of the times required, for the skateboarder and for a photon, to cover the distance between Earth and Star XYZ.
+
+(1.9.5a)
+
+from (1.9.4c), skateboarder time = σv d / v from (1.9.4b), photon time = d / c skateboarder time / photon time = (σv d / v) / (d / c) = σv / (v/c)
+
+which implies = σv / (v/c).
+
+To fix ideas, set the skateboarder’s time equal to 1% of the photon’s time. Then calculation of the ratio σv / (v/c) yields the result (1.9.5b)
+
+skateboard time / photon time = σv / (v/c) = 0.01 implies (v/c) ≈ 0.99995.
+
+(1.9.6) Something is Horribly Wrong. We have just shown in (1.9.5b) that if the skateboarder travel time is (1.9.7a) Moving lengths observed to have speed v, shrink by a factor of σ (from (1.7.2b)).
+
+(1.9.7b) Neither matter nor information (electromagnetic waves) can move faster than the speed of light (from (1.7.2c)).
+
+(1.9.7c) Clocks in Earth frame E and the skateboarder’s frame S run at the same rate. (In (1.9.5a), we chose the clock of S to measure the skateboarder’s journey time and the clock of E to measure the photon’s journey time.)
+
+In the list of (1.9.7), we started by accepting that (1.9.7a) and (1.9.7b) are true—moving lengths do shrink and nothing travels faster than light. Given these assumptions, we then concluded that (1.9.7c) must be false—when we compare travel times of two objects (skateboarder and photon) we can not use clocks from two different frames. So, if magnitudes of lengths depend on the reference frame, so will the length of time intervals.
+
+Chapter (9) offers a full analysis of (1.9.4b), (1.9.4c), and (1.9.5b).
+
+(1.10) Paradox: Time and Distance Asymmetry
+
+Moving Clocks Run Slow
+
+The paradox of Time and Distance Asymmetry comes in two parts:
+
+(1.10.1) I. The Clocks on a Train. In both panels of Figure (1.10.2), the car (frame B) is traveling to the right at speed 0.66c, or 0.66 times the speed of light, as seen from the platform (frame A). Each panel shows two identical clocks, one in the frame of the moving train and the other in the frame of the stationary platform.
+
+(1.10.2) FIGURE: Motion Makes Clocks Run Slow
+
+Left Panel of (1.10.2): A snapshot at time t = 0 shows the clock of the moving car and a stationary platform clock simultaneously synchronized to read 0:00 milliseconds.
+
+Right Panel of (1.10.2): The same clock of the car in the moving frame, B reads only 0:30 milliseconds while, at the same moment, another stationary platform clock in frame A registers 0:40 milliseconds.
+
+The Ubiquitous Contraction Factor: From Definition (1.8.2), when v = 0.66c, the Lorentz contraction factor is σ = 0.75 (within two-place decimal accuracy). Thus, the moving car records 0:30 = σ · 0:40 = 0.75 · 0:40 at the moment that time 0:40 is read by the clock on the stationary platform.
+
+Moving Rulers Shrink in the Direction of Motion
+
+(1.10.3) A Quantitative View of (1.7.2b) A Ruler on a Moving car. In both panels of Figure (1.10.4), the car travels rightward at 0.66c, or 0.66 times the speed of light. Each panel shows two identical rulers, one on the moving train and the other on the stationary platform.
+
+(1.10.4) FIGURE: Motion Shrinks Distance
+
+Left Panel of (1.10.4): The car, at rest, is 4 units wide as measured by identical rulers, one on the car and the other on the fixed platform.
+
+Right Panel of (1.10.4): The car is now in motion with a speed of 0.66c as it passes a second point on the platform. This snapshot shows the platform ruler measures the moving car width as only 3 units.
+
+The Ubiquitous Contraction Factor: From (1.8.2), the Lorentz contraction factor σ = 0.75 when v = 0.66c. Hence, the ruler on the moving car contracts in the direction of motion from 4.0 units, as measured in its stationary state, to 3.0 = σ · 4.0 = 0.75 · 4.0 units as measured while the car is moving at constant speed 0.66c.
+
+Statement of the Paradox
+
+It can be argued that the assertion that motion alone will cause clocks to slow (Figure (1.10.2)) and rulers to shrink (Figure (1.10.4)) is a paradox in itself.
+
+But we wish to go further: We agree that all rulers and clocks are identical when observed at rest. Table (1.8.4) tells us that, in all cases, at observed speed v moving clocks run slow by a factor of σ and moving objects shrink (in the direction of motion) by the same factor σ. The (apparent) contradiction of asymmetry is this:
+
+(1.10.4a) From the railway platform point of view (Figure (1.10.2)), the moving clock on the railway car runs slower than the stationary platform clock by a factor of σ. Also, (Figure (1.10.4)), the moving ruler (rod) attached to the railway car is shorter than the identical ruler on the platform by a factor of σ.
+
+(1.10.4b) From the railway car point of view, the moving clock is the one on the platform. Hence, it is now the platform clock that runs slower than the railway car clock by a factor of σ. Similarly, the moving ruler is now the one on the platform. Hence, it is now the platform ruler that is shorter than the railway car ruler by the same factor σ.
+
+(1.10.5) How can (1.10.4a) and (1.10.4b) both be true? That is, how can each observer—one in the railway car and one on the platform—see each other’s clock run slower than his own? And how can each observer see the other’s (identical) ruler as smaller than his own?
+
+Comments on How the Paradox is Resolved
+
+Spoken language is the culprit with respect to this paradox. We use the verb “see” as in (1.10.5), when an observer in one frame measures the time in another frame—we imagine only one person doing the seeing.
+
+However, in Figures (2.4.2) and (2.4.3), pg. 51, it will be shown that to measure lengths of moving rods and rates of moving clocks, a team of two observers in the stationary frame is always required. With this configuration of observers, the paradox of mutual shrinkage and mutual slowing of moving clocks is resolved.
+
+(1.11) Paradox: The Traveling Twin
+
+Statement of the Twin Paradox
+
+(1.11.1) A Qualitative View. A pair of twins carry identical clocks. One twin travels into space at a speed close to that of light. After the return to Earth, the traveling twin is biologically many years younger than the Earthbound twin.
+
+Since observers in each frame see the moving clocks of the other frame running slow (see (1.7.2a) and Figure (1.10.2)), the paradox, or apparent contradiction, is this:
+
+If each twin sees the moving clock of the other twin running more slowly than his/her own clock, how can one of the twins, the traveling one, end up being younger than the Earthbound twin?
+
+In this case, travel into the future—by the traveling twin—is possible.
+
+(1.11.2) A Quantitative View. The following four panels, (1.11.2a)-(1.11.2d), illustrate the twin paradox from the Earthbound twin’s point of view when the speed of the rocket ship is 0.8c (80% the speed of light). After 50 years, as measured by the earthbound clock, the traveling twin returns, having aged only 30 years biologically.
+
+(1.11.2a) FIGURE: The Take-Off: At the moment of takeoff, two identical clocks, the Earth clock in frame A and the spaceship clock in frame B are synchronized to read t = 0 years. The time unit of each clock is in “years.”
+
+(1.11.2b) FIGURE: In Flight For the next twenty five years, as timed by the Earth clock in A, the spaceship in frame B races away from Earth, traveling at a constant speed of 0.8c (8/10 the speed of light).
+
+(1.11.2c) FIGURE: Transfer to the Returning Spaceship At the moment the Earth clock reads 25.0 years, the traveling twin instantly switches from frame B, the outbound ship, to frame C, an incoming spaceship going in the opposite direction. The incoming ship is traveling at a constant speed of 0.8 c (8/10 the speed of light).
+
+(1.11.2d) FIGURE: Return to Earth: The Reunion According to the Earth clock in A, the return journey of frame C containing the traveling twin, takes another 25 years. Therefore, the full round trip has taken 50 years. On the other hand, the spaceship clock, which is identical to the Earth clock, will have ticked off only 30 years!
+
+Informal Resolution of the Paradox
+
+(1.11.3) The Earthbound Twin Point of View. The Earthbound twin in frame A always sees the clock of frame B (the spaceship) running slow since it is moving relative to the Earth frame A with speed 0.8c. Specifically, the Lorentz contraction factor, σ = 0.6 (1.8.2) guarantees that the 50 years on the stationary Earth clock correspond to a total of σ × 50 = 0.6 × 50 = 30 years on the moving spaceship clock—15 years are registered on the spaceship clock in each direction. There is no paradox here.
+
+(1.11.4) The Spaceship Twin Point of View. The spaceship twin in B also sees the clock on Earth in A running slow since it is moving at relative speed 0.8c. The same Lorentz factor, σ = 0.6, guarantees that the 30 years of the spaceship clock (see (1.11.3)), correspond to 0.6 × 30 = 18 years on the (relatively moving) Earth clock—9 years are registered on the slower Earth clock in each direction. (See Table (1.11.5).)
+
+Now here is the surprising part. After the “instantaneous” change of frames (from outgoing B to incoming C), the traveling twin in frame of reference, C, now sees the Earth clock reading 41 years—a full 32 years later than the Earth clock reading of 9 years he had just seen from frame B. (See Table (1.11.6).)
+
+This “surprise” is due to the fact that during the moment of spaceship transfer, the traveling twin is no longer in an inertial frame since he suffers an extreme acceleration (change of speed) which affects the way clocks tick during that moment. See (11.5), pg. 147 for details.
+
+Here is a tabulated summary of answers (1.11.3) and (1.11.4) of the twin paradox which is illustrated in panels (1.11.2a)–(1.11.2d):
+
+(1.11.5) TABLE: Two Phases of the Spaceship Clock Journey as Seen from the Stationary Earth Clock: σ = 0.6
+
+Leg View from Stationary Earth (1) Outbound The stationary Earth clock registers 25 years. The moving spaceship clock runs slow and registers only 0.6 × 25 = 15 years.
+
+(2) Homebound The stationary Earth clock registers 25 more years (for a total of 25+25 = 50 years). The moving spaceship clock runs slow and registers 0.6 × 25 = 15 more years (for a total of 15+15=30 years).
+
+(1.11.6) TABLE: Three Phases of the Moving Earth Clock as Seen from the Stationary Spaceship: σ = 0.6
+
+Leg View from Stationary Spaceship (1) Outbound The stationary spaceship clock registers 15 years, as was shown in (1.11.5). The moving Earth clock runs slow and registers only 0.6 × 15 = 9 years.
+
+(2) In stantaneous After passing from outgoing frame B (turn-around, where the Earth clock reads 9 years) to the inbound frame C (where the Earth clock is seen to read 41 years), the Earth clock is seen by the traveling twin, now in C, to have gained 32 years.
+
+(3) Homebound The stationary spaceship clock registers 15 more years (for a total of 15+15 = 30 years). The moving Earth clock runs slow and registers 0.6 × 15 = 9 more years (for a total of 9+32+9=50 years).
+
+But why does the spaceship twin see a time-jump on the moving Earthbound clock as described in (1.11.6)(2)? Once spacetime diagrams, known as Minkowski diagrams (6.1.1), pg. 97, are understood, the facts of this phenomenon are rendered accessible through Figure (11.3.1), pg. 143.
+
+(1.12) Paradox: The Train in the Tunnel Statement of the Paradox (1.12.1) Train-in-Tunnel Paradox: A Qualitative View. When at rest, a train and a tunnel have the same length, d. This is illustrated in Figure (1.12.1a).
+
+The following panels illustrate a pair of lightning strikes at each end of the tunnel and describe two different perceptions—one from Bernie who sits on the tunnel in frame, A, and the other from the train’s point of view in frame B.
+
+(1.12.1a) FIGURE: Tunnel and Train (length d) at Rest (1.12.1b) FIGURE: Lightning Avoids the Short Train: From Bernie’s point of view in frame A, the tunnel is stationary while the train in frame B is in motion. According to (1.10.4), pg. 27, the train shrinks in the direction of motion. (Note how the wheels have become elliptical.) Hence, the two lightning bolts that are simultaneous in Bernie’s frame, A, never hit the shorter train.
+
+(1.12.1c) FIGURE: Does Lightning Hit the Too-Long Train? Relative to the stationary frame B (the train), the frame, A (the tunnel), is observed to be moving. The moving tunnel A is seen from the train’s frame B to shrink in the direction of motion (1.7.2b). If the (shrunken) tunnel is always shorter than the train, then, shouldn’t the train be electrocuted by the “simultaneous” lightning strikes at the ends of the tunnel?
+
+(1.12.2) Summary: From the viewpoint of the tunnel’s frame, A, the shortened train in frame B avoids the lightning (see Figure (1.12.1b)). Yet, in a change of viewpoint from which the train is stationary, we see the moving, shortened tunnel where “simultaneous” lightning strikes hit the too-long train (see Figure (1.12.1c)).
+
+Question: How does the train escape electrocution in one frame but not in another?
+
+Informal Resolution of the Paradox The apparent inconsistency between the figures is explained by the fact that the double lightning strike in Figure (1.12.1b) is simultaneous whereas, in Figure (1.12.1c), the lightning strikes are not simultaneous. (In (A.1.1), we first noted this loss of simultaneity.) In Figure (1.12.1c), the right bolt of lightning strikes ahead of the “too-long” train and, a little later—only after the tail of the train has entered the tunnel—does the left bolt of lightning decide to strike. In both frames of reference, the train avoids electrocution.
+
+How do we know this to be true? These sequences are read from the spacetime Minkowski diagrams in Section (C.2).
+
+(1.13) Paradox: The Pea-Shooter (1.13.1) Relation to E=mc². The relativistic addition of speeds, illustrated in this example, lies at the heart of the celebrated mass-energy equation, E =mc² (A full exposition appears in Chapter (15).)
+
+A Brief Preview: In our everyday experience, the speed of an object—like a bullet—is equal to the speed v of the gun plus the speed w of the bullet relative to the gun. The total speed is the ordinary sum v+w which is very accurate provided the speeds are much smaller than c.
+
+However, to calculate accurately with very high speeds v and w, we need a more general relativistic “sum,” v ⊕ w, which will be defined in (1.13.3). Hence, if mass m has speed v with consequent momentum [m]v, then an addition of speed w produces a new momentum [m](v ⊕ w) instead of the classical momentum [m](v+w). This implies that mass m must increase with increasing speed (Section (15.2)). Finally, the increase in mass is found to be due to (equivalent to) the energy required to produce the increase in speed (Section (15.3)).
+
+Statement of the Paradox (1.13.2) The Pea-Shooter Paradox: A Quantitative View Bernie and Ashley are stationary relative to each other—they are both in the same frame of reference A. From their common point of view (frame), the pea, in moving frame C, is seen to have a leftward speed of v =0.8c or 0.8 times the speed of light.
+
+(1.13.2a) FIGURE: A Shared Frame of Reference (1.13.2b) FIGURE: From Bernie’s Frame of Reference Bernie, in frame A, sees Ashley’s wagon in frame B speeding leftward at 0.9c. Ashley sees the pea in frame C moving with speed 0.8c, yet Bernie sees the same pea (propelled by the wagon) moving leftward with speed 0.988c, a speed that is less than 1.7c = 0.8c (pea speed seen by Ashley) + 0.9c (wagon speed seen by Bernie).
+
+Informal Resolution of the Paradox Consistent with our personal experience, speeds are additive. That is, when a train passes in front of us at 30 mph while a passenger walks toward the front of the train at 4 mph, then we expect to see the passenger moving at
+
+(1.13.2c) 30 mph + 4 mph = 34 mph relative to us.
+
+To discuss the “true addition of speeds,” we use ⊕, a different plus sign, to write the assertion that
+
+(1.13.2d) 0.8c (mph) ⊕ 0.9c (mph) = 0.988c (mph)
+
+which is not the value 0.8c+0.9c=1.7c we would expect by applying the usual arithmetic sum used in (1.13.2c).
+
+(1.13.3)
+
+DEFINITION: The true addition of speeds, v ⊕ w. Given c is the speed of light in a vacuum. Then for speeds v and w, the sum, v ⊕ w, is called the Lorentz Sum of speeds v and w and is defined by
+
+(1.13.3a) v ⊕ w def = (v+w) / (1+(vw/c²)).
+
+The defining equation (1.13.3a) shows that for low speeds, such as v =30mph and w =4mph, the quantity (1.13.2c) is a close approximation to the true sum, v ⊕ w of (1.13.3). In fact, whenever we have speeds v and w whose product v w is tiny relative to c², we have from (1.13.3)
+
+(1.13.4) v ⊕ w = (v+w) / (1 + (vw/c²)) ≈ v+w.
+
+negligible
+
+Justification for this unlikely “sum” of speeds (1.13.3a) will be developed in (7.3.1a).
+
+(1.13.5) NOTE: Letting c = 1. It is often more convenient to take c = 1 from the outset so that instead of dealing with speeds of the form v/c and w/c, we can work with “normalized” speeds, 0 < v, w < 1.
+
+(1.13.5a) EXAMPLE: One way to force c to equal one is to introduce a new measure of length that equals the distance light travels in one second. Since c = 2.997925 × 10⁸ meters/second (or 186,282.4 miles/hour), we can define
+
+(1.13.5b) One Kaboogle def = 2.997925 × 10⁸ meters.
+
+Then c = 1 kaboogle/second.
+
+(1.14) Paradox: The Bug and Rivet (1.14.1) The Bug-Rivet Paradox. A Qualitative View: Two vertical parallel metal plates in inertial frame A have left-hand surfaces that are separated by a distance d. The plates have aligned holes large enough to allow a rivet shank to pass through, but not large enough for the rivet head.
+
+(1.14.2) FIGURE: Setup for the Bug-Rivet Paradox: Fig. (1.14.2), Band (a): The at-rest length of the rivet shank d equals the at-rest distance between the left surfaces of the parallel plates. We ignore all momentum issues and assume the mass of the rivet is minuscule compared to that of the plates.
+
+Fig. (1.14.2), Band (b): From the (stationary) plates’ point of view in A, the rivet’s frame, frame B, moves at constant speed v. The length of its moving shank, as measured from frame A, is therefore less than d. Once the rivet head collides with the surface of the left metal plate, the rivet head stops abruptly but, as seen from frame A, the shank length eventually increases to d (see the X-T spacetime diagram in Figure (1.14.2)).
+
+Fig. (1.14.2), Band (c): From the (stationary) rivet’s point of view in B, i.e., we are riding on the rivet, the plates in frame A are in leftward motion, traveling at constant speed v. The distance between the two moving plates, as measured from the stationary rivet frame, B, is therefore less than d. Once the (moving) left-hand plate collides with the (stationary) rivet head, the left plate stops.
+
+The Paradox Question: Is the bug squashed when the rivet head is stopped by the left surface of the left-hand plate?
+
+If configuration (b) of Figure (1.14.2) prevails, then the answer is no—the rivet length is less than d at the moment of collision and the rivet point never reaches the bug.
+
+If configuration (c) of Figure (1.14.2) prevails, then the answer is yes—the distance between the two plates is less than d, the length of the rivet shank. Hence, the rivet point will reach the bug that is hiding behind the right-hand plate. Subsequently, the distance between the two plates increases to its at-rest value.
+
+(1.14.3) The resolution of the paradox lies in the fact that the length of the rivet must expand beyond its at-rest length before it finally returns to its at-rest length. (Proof and justification will be found in Chapter (14) which is illustrated by a property of the Slinky® toy.)
+
+The situation is similar to a stretched spring relaxing and returning to its unstretched length.
+
+Otherwise, if the rivet is assumed to be absolutely rigid, then the following pair of false statements must be valid:
+
+(1.14.4) Absolute rigidity implies: The moment the head stops (as it collides with the plate), the tip also stops—simultaneously. This is equivalent to saying the information, “I’ve hit the plate” is transmitted to the end of the rivet at a speed greater than c. See (1.7.2c).
+
+The future affects the present in the sense that in one frame, the rivet tip “knows” before the event that the rivet head will collide with the plate. See (14.4.4)
+
+(1.15) Exercises (1.15.1) Using the fact that c, the speed of light, is 186,000 miles per second, show that the time parameters of Figure (1.10.2) require a platform length of 744 miles.
+
+(1.15.2) The Skateboarder’s Necessary Speed, v. At what speed, v, must the skateboarder of (1.9.4c) travel to reach StarXYZ in (a) one hour? (b) one day? (c) one year? (d) 11 years?
+
+(1.15.3) Slow Speeds 1. Compute the value of (vw)/c2 for the speeds v =30 miles per hour and w =40 miles per hour. (See Appendix D for the conversion of “miles per hour” to “miles per second.”)
+
+(1.15.4) Slow Speeds 2. With the values of v and w of Exercise (1.15.3), how close is the “intuitive” speed v +w to the true speed of v w given by (1.8.2)?
+
+(2) Clocks and Rods in Motion
+
+(2.1) The Perfect Clock
+
+We start with an informal definition of a clock:
+
+(2.1.1)
+
+DEFINITION: A Clock is a device that ticks, p ng (that was a vertical line in B) is seen by Ashley to be a diagonal line in A. Since distance = speed × time, (2.3.2c) ct = diagonal distance where c is the speed of the photon and t is the A time required for the photon to travel the diagonal path from floor to ceiling.
+
+Based on the right triangle lengths of Figure (F.12.5b), we show why moving clocks run slow and why moving rods shrink.
+
+(2.3.3)
+
+THEOREM: Moving Clocks Run Slow, Moving Rods Shrink. Inertial frame B has speed v relative to frame A. Then clocks in the moving frame B run at a rate that is σ ≤ 1 (1.8.2) times the rate of clocks in A. That is, if clocks of the two frames are synchronized (3.4.5a) at their origins (at time t_A = t_B = 0), then when the moving clock time t_B runs, it runs slower than all stationary clocks in A. Specifically, (2.3.3a) t_B = σ t_A where the shrinking constant σ = 1/√(1 - v/c²) is given by (1.8.2).
+
+If a rod in the moving frame B has at-rest length d as measured in the direction of motion, then it has length (2.3.3b) d_B = σ d_A as measured from the stationary frame A.
+
+PROOF: Moving Clocks Slow Down. Combining paths of the right triangle, we see that the three lengths of Figure (2.3.2) listed in (2.3.2a), (2.3.2b), and (2.3.2c), correspond to sides of a right triangle. The Pythagorean Theorem implies (2.3.3c) (ct_A)² = (D)² + (vt_A)² = (ct_B)² + (vt_A)² from (2.3.2a).
+
+Solving for t_B, we obtain (2.3.3d) t_B = √(1 - (v/c)²) t_A = σ t_A which proves (2.3.3a).
+
+Moving Rods Shrink: We refer to Figure (2.3.2) and change our viewpoint so that frame B is the stationary frame and frame A is moving leftward relative to B. In this case, points 1 and 2 are moving leftward past the (fixed) lightbulb in B.
+
+At time t = 0 in B, point 1 is directly overhead the stationary light bulb. At time t_B in B, the leftward-traveling point 2 passes vertically over the lightbulb. Since distance = speed × time, (2.3.3e) d_B = v · t_B    d_B and t_B are measured in frame B = v · σ v t_A  from (2.3.3d)
+
+= σ d_A    from (2.3.2b)
+
+which proves (2.3.3b). The proof is done.
+
+(2.4) Exercises (2.4.1) Show that any time interval t0 can be defined in the manner of (2.1.2) and Figure (2.1.3). Apply your construction to the definition of t0 = 1/4 second, and t0 = 1/1,000 second.
+
+Hint: Calibrate the clock by setting the reflecting mirror d0 miles from the point 0 instead of the 93,000 miles that was used in Figure (2.1.3). The distance required for the round trip of the photon is now 2d0 miles, so the time for the round trip, the time between the very first pair of clicks, will be t0 = 2d0/c which, depending on the value of d0, can be any time interval desired. The units of speed c and distance d0 determine the units of time t0, i.e., seconds, minutes, hours, etc. (See Appendix D.)
+
+(2.4.2) Speed of a Moving Point, and the Rate of a Moving Clock: The Two-Observer Method Step 1: Frame B is moving rightward (in the positive direction) with speed v relative to the platform frame A. A single mark, x and a clock are placed at the right-hand end of the train. At time t0 in A, the x mark on the train in B passes in front of Ashley at point x on the platform (left panel).
+
+Step 2: At a later time, t1 > t0 in A, the mark x passes a cohort observer standing at point x1 on the platform in A (right panel).
+
+Questions: How can we use x and t coordinates in the two panels of (2.4.2) to measure (a) the speed of the moving point x in B as measured from the platform frame A? (Ans. v = Δx/Δt = (x1 - x0) / (t1 - t0))
+
+(b) the ratio Δt_B / Δt_A of the time changes Δt_B and Δt_A of the respective moving frames B and A? (Ans. Δt_B / Δt_A = (t0' - t0) / (t1 - t0)).
+
+(2.4.3) Measuring Moving Lengths: The Two-Observer Method In the following exercise, we place two marks on a train or rod—an x on the front endpoint and an o on the back endpoint.
+
+Ashley, and infinitely many cohort observers are standing with synchronized clocks at each point x on the platform. At time t0, there are only two unique observers, Ashley and a cohort (shown in the diagram), each of whom simultaneously sees an endpoint of the train, o and x, at their respective platform positions, x0 and x1.
+
+Question: (c) How can we use the x and t coordinates of (2.4.3) to calculate the length of the moving train in B as measured in stationary frame A. (Ans. Moving train length = (x1 - x0)).
+
+(2.4.4) Graphing the Measurements for Finding Speed, Clock Rates, and Moving Lengths: The Two-Observer Method Complete the figure to the right by locating the quantities x1, x0, t1, t0, t0', t1' that appear in the figures and the Question sections of (2.4.2) (a), (b), and (2.4.3)(c).
+
+Each single point of the grey area of the figure is represented by a unique coordinate pair [x,t] in A. The train travels rightward with speed v.
+
+(3) The Algebra of Frames (3.1) Inertial Frames of Reference We shall see how a physical idea—the inertial frame of reference—is modeled as a mathematical concept—a set of ordered [x,t] pairs or vectors. The following is a repeat of Definitions (1.2.1), pg. 13 and (1.5.1), pg. 16.
+
+DEFINITION: (1.2.1), (1.5.1) A Frame of Reference, Σ, is a space or environment in which each point x can be located by a coordinate system and the time t at point x is determined by a clock at that point. An Inertial Frame of Reference is a frame of reference which is non-accelerating, that is, free bodies move at constant speed in a straight line or are at rest.
+
+For example, in three-space each point is described by its space coordinates [x,y,z] and its time coordinate t. The quartet [x,y,z,t] therefore describes the state of each point in the frame of reference.
+
+(3.1.1) NOTE: Following the simplification of Section (1.3), we choose our X-axis so as to replace the three space coordinates with just the x coordinate.
+
+(3.1.2) FIGURE: The Ruler-Clock Structure of a Frame (Click here to see a synchronization of two Galilean frames. Click here to see a Lorentzian synchronization of two frames.)
+
+point x on the ruler at time t on the clock is represented by the ordered pair [x,t]. In this figure, clocks are shown to be synchronized so at all points, all clocks simultaneously read the same time, namely, 3.41. In this case, all frame coordinates take the form [x, 3.41].
+
+(3.2) Vector Space Structure of Frames (3.2.1) As seen in Figure (3.1.2), each point x on the ruler of the frame of reference corresponds to an ordered pair [x,t] where x is the distance mark for x on the ruler and t is the time at the point x.
+
+Do these ordered pairs have the mathematical structure of a vector space as required by Definition (A.2.1)? The following proposition says yes.
+
+(3.2.2)
+
+PROPOSITION: The set of all ordered pairs [x,t] in Σ forms a vector space as required by (A.2.1). Specifically, for all [x1, t1], [x2, t2], [x,t] in Σ (3.2.2a) [x1, t1] + [x2, t2] = [x1 + x2, t1 + t2].
+
+(3.2.2b) For all scalars α, α[x,t] = [αx, αt].
+
+PROOF: (PLAUSIBILITY ARGUMENT.)
+
+Justifying (3.2.2a): Suppose a particle or observer from an arbitrary point on the ruler moves (3.2.2c) rightward 8 feet, in 4 seconds, then moves leftward 6 feet, in 3 seconds.
+
+In natural language: The particle covered a net total of (8 - 6) ft. = 2 ft. to the right in (4+3) seconds = 7 seconds. In other words, a net total of 2 ft. were covered in a total of 7 seconds. To pass from natural to mathematical language, rewrite (3.2.2c) as (3.2.2d)
+
+ft.      sec.
+
+[+8, +4]  + [-6, +3]  = [+2, +7]
+
+where + in (3.2.2d) corresponds to the phrase "then moves" in (3.2.2c).
+
+The generalization of (3.2.2d) is that for all distances x1, x2, and all times t1, t2, (3.2.2e) [x1, t1] + [x2, t2]  =def  [x1 + x2, t1 + t2]
+
+which justifies (3.2.2a) since this agrees with the definition of vector addition (A.2.4b).
+
+Justifying Definition (3.2.2b): From (3.2.2e), we have (3.2.2f) [x,t] + [x,t] = [2x, 2t] = 2[x,t], which gives us a[x,t] = [ax, at] when a = 2. Using continuity, (3.2.2f) can be extended to (A.2.4c), scalar multiplication for all numbers a = 2. (See Exercise (3.5.1).)
+
+This ends the proof.
+
+(3.3) Several Parallel Moving Frames (3.3.1) The Train-as-Frame Metaphor: We expand on the analogy drawn in (1.2.1), pg. 13 which presents a train as a model of an inertial frame. We now consider the case of several inertial frames on parallel tracks, and the way communication proceeds between pairs of frames.
+
+In fact, an observer in one train (inertial frame A) can communicate with another frame on a parallel track only via a line-of-sight corridor that is perpendicular to both trains. That is, a passenger in one train (frame) can only look perpendicularly out his/her own window into the window of a parallel train (frame).
+
+(3.3.1a) A Railroad Model for Three Frames Three inertial frames, A, B, and C are moving in left-right motion relative to each other on parallel paths. One can think of three infinite-length trains (frames) traveling on separate parallel tracks. Each moving train can be considered to be its own X-axis and the seated passengers inside the train are stationary observers, each with his/her own clock and position x.
+
+(3.3.2) The distance between the parallel tracks is assumed to be negligible so that there is no time delay for information traveling between the moving frames (trains).
+
+(3.4) Six Rules for Frames There are six rules, (3.4.1)-(3.4.6), that describe the structure of frames and how communication proceeds between them.
+
+(3.4.1) All Frames are Physically Identical When at Rest. All parallel frames have rulers that are identical when measured at rest and clocks that are identical in that they run at the same rate when measured at rest. As shown in Figure (3.1.2), each single frame of reference consists of a ruler (X-axis) with identical synchronized clocks placed at each point, x.
+
+(3.4.2) Like Being on Flypaper Every Observer Remains Fixed Within His/Her Own Proper Frame (or train or X-axis). Once an observer decides to move along an X-axis, like a passenger in a railroad car who decides to stroll down the center aisle, that observer is instantly assigned his/her In Figure (4.1.1), lift Bernie’s path, like a decal, from the filmstrip (left-hand panel) to create the two-dimensional graph (right-hand panel). In this natural way, Bernie’s 1-dimensional, left-to-right or right-to-left position x, say, corresponds to the horizontal X-axis reading and the time t corresponds to the vertical T-axis reading.
+
+The right-hand side of Figure (4.1.1) motivates the following definition: (4.1.2)
+
+DEFINITION: Given an object in a frame of reference (1.2.1) that can move in a single direction. An object’s position at point x and time t is represented by ordered pairs of the form (4.1.2a) [x,t] or in a graph with distance axis X and time axis T. This graph is called the Spacetime Graph (or Spacetime Diagram) where each ordered pair (4.1.2a) is called an Event in space-time.
+
+The path of all coordinates of a moving object over time—the set of all its events—is called the Worldline of that object in spacetime.
+
+For an object to move in three directions, ordered pairs (4.1.2a) are replaced with [x₁, x₂, x₃, t].
+
+(4.1.3) NOTE: The space and time axes are not necessarily perpendicular to each other.
+
+(4.1.4) Question: Why do we use the term “event” to describe the point [x,t] in a spacetime graph?
+
+Answer: An object in spacetime, which is generally in motion, will have coordinates of the form [x,t] which are generally changing in time. (The coordinates of an object will change since t is always changing, even if the object is fixed at some point x.) Hence, when we refer to a particular coordinate [x,t] in spacetime, we are describing not only the location of an object, but the time it held that position. Specifying where and when something is corresponds to the intuitive definition of an event.
+
+(4.2) Constant Velocities in Spacetime Some of the most interesting effects in special relativity occur when we consider objects moving with constant velocity relative to one another (1.5) which we now formally define.
+
+(4.2.1)
+
+DEFINITION: Constant Velocity is that motion along a straight line in space, where equal distances are covered in equal times. Therefore, any motion that veers off a straight line in space, or that changes speed along a straight line, has non-constant velocity.
+
+(4.2.2) NOTE: The notation \vec{v} that uses the overhead arrow, indicates speed v and direction. When we are only interested in the speed, a number for which no directions are involved, then we use the un-ornamented, symbol, v.
+
+The following theorem equates constant speed (a physical quantity) with worldlines that are straight (a geometric quantity).
+
+(4.2.3) THEOREM: (Constant Speed Straight Line Trajectory) A particle moving on the X-axis has constant speed if and only if its worldline (trajectory) in the spacetime graph (4.1.2) is a straight line.
+
+PROOF: (informal) Figure (4.2.4) shows that even though motion of a particle proceeds along a straight 1-dimensional track—the X-axis—the 2-dimensional graph of this motion in spacetime can be either curved or straight. The straight path corresponds to constant speed. Here are details.
+
+(4.2.4) FIGURE: Straight-Line Motion Along the X-Axis The Δt intervals on the vertical T-axis of Figure (4.2.4) are all equal. Since average speed over the Δxᵢ interval is vᵢ = Δxᵢ/Δt, we have • Left-Hand Worldline in (4.2.4): Since Δx₁ > Δx₂ > Δx₃, (Δx₁/Δt) > (Δx₂/Δt) > (Δx₃/Δt), which means v₁ > v₂ > v₃, or v decreases as time increases.
+
+• Middle Worldline in (4.2.4): Since all distances equal Δx₄, the average speed over each of the three distance intervals is (Δx₄/Δt) = v, which means speed v is constant for all time t.
+
+• Right-Hand Worldline in (4.2.4): Since Δx₅ < Δx₆ < Δx₇, (Δx₅/Δt) < (Δx₆/Δt) < (Δx₇/Δt), which means v₅ < v₆ < v₇, or v increases as time increases.
+
+This ends the proof.
+
+(4.2.5) A curved trajectory might be observed when the moving frame is not inertial (1.5.1). If the spacetime graph is not straight, the velocity is not constant which implies the object is accelerating—a force is acting on it. In the following figure, (4.2.6), the force in question is that of gravity. Hence, the trajectory of the falling ball is seen to have two shapes, depending on the frame of the observer.
+
+(4.2.6) FIGURE: One Trajectory, Two Perceptions.
+
+Bernie, from his frame, B, sees the accelerating ball following a straight, vertical path. But Ashley, from her frame, A, sees the ball moving to her right which causes her to observe the same ball on a downward parabolic path.
+
+(4.3) Worldlines are Parallel to the Home Frame Time Axis (4.3.1) From (3.4.2), if each observer is at rest at some fixed point x in frame A say, then the worldline of that observer in the X_A-T_A spacetime graph is a straight line that is parallel to the time axis T_A. This follows since stationary observers have coordinates [x₀, t] where distance x is constant and time t varies.
+
+As a special case, if the (fixed) observer is the Origin Observer (3.4.3) at x = 0, then his/her world line coincides with the T_A-axis itself.
+
+Suppose an observer fixed in a home frame A sees an observer fixed in a moving frame B that has constant speed relative to A. Then the spacetime graph showing both frames will show the two time axes, T_A and T_B, at some angle relative to each other. (Due to synchronization (3.4.5) T_A and T_B intersect at common time t=0.) Also, from Figure (4.2.4), we know that in A the B-observer will trace a straight line at some angle; if the B-observer is at the origin in A, then this straight line corresponds to the T_B-axis as seen in A.
+
+Hence, if a spacetime graph shows the relative motion of n inertial frames of reference, then there are at most n slopes that can be assigned among all the worldlines that are drawn in the graph.
+
+The following spacetime graph illustrates the only two slopes that are possible for all worldlines of moving objects that belong to either one of two synchronized inertial frames of reference, A, or B.
+
+(4.3.2) FIGURE: Two Frames Imply Only Two Slopes for All Worldlines These graphs depict the worldlines of objects or observers in two synchronized inertial frames of reference, A and B, that are in constant motion relative to each other. In each separate spacetime diagram, the origin observer and all her (fixed) cohort have worldlines that are parallel straight lines—all worldlines in each frame have the same slope. The worldline of the origin observer at x=0 for any t, coincides with her own time axes, T_A or T_B. When the spacetime diagrams of the frames overlap (the rightmost graph of Fig. (4.3.2)), the origins must overlap due to synchronization (3.4.5a). In sum, in the overlapping spacetime diagrams, there can only be two slopes for the worldlines of all the observers in frames A and B.
+
+(Do not be distressed to see the X-axes, X_A and X_B, are not both at the same angle. As we shall see in (6.2.3), pg. 99, these axes represent respective lines of simultaneity—at time t=0—and will necessarily be drawn at different angles.)
+
+(4.4) Simultaneous and Static Events There is a straightforward, graphical way to characterize simultaneous events and static particles in spacetime diagrams. First, we present a formal definition of these terms: (4.4.1)
+
+DEFINITION: (See Figure (4.4.4).)
+
+Simultaneous Events in a specific frame are represented as a pair of events, [x, t₀] and [x⁰, t₀], in a spacetime graph with the same time coordinate t₀.
+
+A Line of Simultaneous Events is the set of all events [x, t₀] that take place at time t₀.
+
+(4.4.1a) Geometrically, we say that a line that is parallel to the distance axis, X, is a line of simultaneous events.
+
+A Stationary, or Static Set of Events at point x₀ is the set of points, [x₀, t], with a fixed space coordinate, x₀, and a range of the time coordinate, t—the observer is fixed and time varies.
+
+(4.4.1b) Geometrically, a stationary or static event is represented as a worldline that is parallel to the time axis, T.
+
+(4.4.2) NOTE: We have already seen in (4.1.3) that the X and T axes need not be mutually perpendicular. This non-perpendicularity is illustrated in Figure (4.4.4).
+
+(4.4.3) NOTE: One can interpret simultaneous events in frame A that occur at time t₀—points of the form [x, t₀]—in the spacetime graph as a subset of the X-axis of A at time t₀ (the X-axis at “age” t₀ in A).
+
+Hence, lines of simultaneity at time t₀, are always parallel to the “usual” X axis at time 0.
+
+In sum, A stationary event has a worldline (trajectory) parallel to the T-axis. The worldlines of leftward (or rightward) traveling objects are characterized by their positive (or negative) angles with respect to the T-axis. Simultaneous events lie on a line that is parallel to the X-axis.
+
+(4.4.4) FIGURE: Worldlines of Simultaneous, Stationary, and Other Events.
+
+(4.4.5) EXAMPLE: Worldlines of two particles are illustrated in the following figure.
+
+(4.4.5a) FIGURE: Worldlines for Two Particles Particle one: Traveling from (0) (a): constant speed, moving right (a) (b): at rest, speed equals 0 (b) (c): constant speed, moving left (c): constant speed, moving right → ∞ Particle two: Always moving left at constant speed.
+
+(In Figure (4.4.5a), the axes happen to be perpendicular but, as Figure (4.4.4) shows, this is not necessary.) Particle one and Particle two move in one-dimensional space. Except for the points, (a), (b), and (c), where Particle one experiences a force that causes an idealized instantaneous change in direction, there are no forces involved. At point (d), both particles theoretically seem to collide since they share the same [x,t] coordinates. However, we always assume particles that are in motion relative to each other occupy different parallel frames (3.4.2) that are a negligible distance apart.
+
+(4.5) Linearity of Line-of-Sight Functions Figure (4.5.1) will provide a graphical context for the line-of-sight function G, one instance of which is il illustrated in Figure (4.3.2). Moreover, note that to choose an arbitrary observer at an arbitrary time in A is to choose a point on a black, vertical worldline. Similarly, choosing an arbitrary observer at an arbitrary time in B is to choose a point on a red, slanted worldline.
+
+Each (black, vertical) worldline of A intersects one and only one (slanted, red) worldline of B.
+
+The two points at the intersection of worldlines—point [x, t] on the (vertical, black) worldline in A and point [x0, t0] on the (slanted, red) worldline in B—define the endpoints of the line-of-sight corridor between A and B. That is, these points represent the same event in different coordinate systems so that the line-of-sight function G linking these two points is expressed by the equation G ([x, t]) = [x0, t0]. A B For example, Figure (4.5.1) shows the event defined by the intersection of Ashley’s and Bernie’s worldlines corresponds to the linked points [2.0, 3.41] in Ashley’s frame A and [0.0, 3.0] in Bernie’s frame B.
+
+(4.5.1) FIGURE: A Point Where a Line-of-Sight Corridor Links Ashley’s Vertical Worldline in A to a Slanted Worldline in B.
+
+The three colinear points, [2.0, 3.41], [2.0, 2.0], and [2.0, 1.0] in A lie on Ashley’s worldline, which is a straight (vertical) line, all points of which are linked by the line-of-sight function G to the three colinear points [0, 3.0], [x1, t1], and [x2, t2] which lie on a straight line (not a worldline) in B. Intuitively, the straight worldline of Ashley in A casts a “shadow” of itself onto an identical straight line in B. The following holds true: (4.5.2) CONCLUSION: Any line-of-sight function G : A B sends straight lines of the X -T spacetime graph to straight lines of the X -T spacetime graph. v F → F A A B B In fact, G may be interpreted as a function that leaves each point of any straight fixed, where only the coordinates (names) are changed from A to B coordinates.
+
+The following figure illustrates a line-of-sight “name-changing” function G : A B that sends points (vectors) of a straight line L in A to points (vectors) G (L), which also form a straight line in B.
+
+(4.5.3) FIGURE: Line-Preserving Functions G : A B, G−1: B A v F → F v F → F In any vector space, a straight line L containing points X~ and Y~ must be the collection of points of the form λX~ + (1 − λ)Y~ for −∞ < λ < ∞ Def (A.2.14).
+
+The line-of-sight function Gv sends the three colinear points X~, Y~, and λX~ + (1 − λ)Y~ in A, respectively, to the three colinear points Gv(X~), Gv(Y~), and Gv(λX~ + (1 − λ)Y~) in B.
+
+(4.5.4) Any line-of-sight function G preserves proportions since, from (4.5.2), L in A and G (L) in B are, point-for-point, the same line but with different coordinates (names). Hence, proportions are preserved in the sense that the mid-point of L is sent to the mid-point of G (L), a point Z~ that is 0.4 the distance from Y~ to X~ has an image G (Z~) that is 0.4 the distance from G (Y~) to G (X~), etc. v v v Definition (4.5.5) provides, in mathematical terms, the equation that characterizes line-preserving and proportion-preserving functions G : A B.
+
+NOTE: In what follows, we will deal with more general vector spaces A and B that are not necessarily spacetime vector spaces. Hence, for the function G : A B, we suppress the subscript v and write G instead of G .
+
+(4.5.5) DEFINITION: A function G from a vector space A to a vector space B Preserves Proportion and is Line-Preserving if and only if for any fixed vectors X~ = Y~ in A where G(X~) = G(Y~), G(λX~ + (1 − λ)Y~ ) = λG(X~) + (1 − λ)G(Y~) (4.5.5a) for all real λ, −∞ < λ < ∞.
+
+To say that a line-of-sight function preserves straight lines (see (4.5.2)) is to describe a visual geometric property. We now show that this geometric property is equivalent to an algebraic property—more exactly, the linear-algebraic property that is given in the following theorem.
+
+(4.5.6) THEOREM: Line-Preserving Functions = Linear Functions. Given vector spaces A and B and a function G: A B where G(~0) = ~0. Then (4.5.6a) G is linear in the sense of (A.4.1) if and only if (4.5.6b) G preserves straight lines and proportions.
+
+PROOF: (4.5.6a) ⇒ (4.5.6b) (sufficient) If G is assumed to be linear then, in Definition (A.4.1a), we can replace P~1 with X~ and P~2 with Y~ to obtain G(λ1 X~ + λ2 Y~) = λ1 G(X~) + λ2 G(Y~) (4.5.6c) for all scalars λ1 and λ2. In (4.5.6c), set λ1 = λ and replace λ2 with (1 − λ) to arrive at the form (4.5.5a) for a typical line-preserving function.
+
+(4.5.6b) ⇒ (4.5.6a) (necessary) We first note that if G preserves lines, then from (4.5.5), for all scalars λ, G(λP~1 + (1 − λ)P~2 ) = λG(P~1 ) + (1 − λ)G(P~2 ). Set P~2 = ~0 and invoke the hypothesis that G(~0) = ~0 to finally obtain G(λP~1 ) = λG(P~1 ). (4.5.6d) scalar λ “factors out” of G First, choose some λ not equal to 0 or 1. Then for all vectors P~1 and P~2 and for all real scalars λ1 and λ2 we write G(λ1 P~1 + λ2 P~2 ) = G(λ1/(λ1+λ2) · (λ1+λ2)P~1 + λ2/(λ1+λ2) · (λ1+λ2)P~2) (4.5.6e) = (λ1/(λ1+λ2)) · G((λ1+λ2)P~1) + (λ2/(λ1+λ2)) · G((λ1+λ2)P~2) since G preserves lines (4.5.5a) = (λ1/(λ1+λ2)) · (λ1+λ2) · G(P~1) + (λ2/(λ1+λ2)) · (λ1+λ2) · G(P~2) “factor out” λ1, λ2 from G (4.5.6d) = λ1 G(P~1 ) + λ2 G(P~2 ). numerator/denominator cancellation Equating the very first and last terms in this string of equalities proves that G is linear as required by (A.4.1a). The proof is done.
+
+(4.5.7) NOTE: Necessary vs. Sufficient. The proof of Theorem (4.5.6) consists of showing that the two statements, P = (4.5.6a) and Q = (4.5.6b), are logically equivalent in the sense that the truth of one implies the truth of the other. This illustrates the important difference between “necessary” and “sufficient” since converse implications of the form P ⇒ Q and Q ⇒ P are, in general, not logically equivalent.
+
+(4.6) Exercises (4.6.1) Cartesian Coordinate Systems. In Figure (4.4.5a), what are the X-T coordinates of the three points indicated as a, b, and b0?
+
+(4.6.2) Pictures of Higher Dimensions. With Cartesian coordinates, we usually draw mutually perpendicular axes X1, X2, and X3 to represent points [x1, x2, x3] in 3-space, as is done in the figure of (18.3.1) and in the left-hand panel of Figure (A).
+
+Figure (A): Two Representations of Points in 3-Space.
+
+However, when the three axes, X1, X2, X3, are drawn vertically and parallel to each other, then, in Figure (A), the points (dots) in the left-hand panel are represented as straight lines in the right-hand panel.
+
+One advantage of the representation of the right-hand panel of Figure (A) is that we can easily draw spaces of dimension n greater than three. This is done by drawing n parallel vertical axes.
+
+One disadvantage of the right-hand panel of Figure (A) is that familiar shapes in 2-space and 3-space can take on unfamiliar forms. For example, the four corners of the cube, 0, a, b, and c, which are points in the left-hand panel, look like lines in the right-hand panel.
+
+As another example, the set of points of a sphere does not have a pleasant “ball-like” shape (see Exercise (4.6.2c)).
+
+NOTE: Even though the triples, [x1, x2, x3], are represented as jagged lines in the right-hand panel of Figure (A), these “lines” are still called “points.” (4.6.2a) Question: Draw the other four points of the cube, d, e, f, and g, in the manner of the right-hand panel, i.e., using parallel axes.
+
+(4.6.2b) Question: Show that in the right-hand panel, using parallel axes to represent 3-space, the set of all points of a cube fill the band between [0,0,0] and [1,1,1].
+
+(4.6.2c) Question: Draw any four points [x1, x2, x3] that lie on the surface of the unit sphere in the manner of both the left-hand panel (Cartesian coordinates) and the right-hand panel (with parallel axes). Hint: A point [x1, x2, x3] on the surface of the unit sphere has the property x1² + x2² + x3² = 1.
+
+(4.6.3) Film Strip Model of Motion. It can be argued that the graph in the right-hand panel of Figure (4.1.1) is more informative than the “reality” of photographs provided by the film strip (left-hand panel) since photographs record only a finite set of distances and times, [x,t]. On the other hand, the mathematical model of the right-hand panel fills in the gaps, showing infinitely many points [x,t].
+
+For example, the photographs do not tell us the time t when Bernie was at the point 2.6 on the rightward leg of his journey. But (once we know the equation of a straight line in X-T space), the mathematical model shown in the right-hand panel of (4.1.1) gives all [x,t] pairs, including [2.6, tr].
+
+(4.6.3a) Question: In Figure (4.1.1), at what time tr was Bernie at point 2.6 while he was traveling rightward?
+
+(4.6.3b) Question: In Figure (4.1.1), at what time tl was Bernie at point 2.6 while he was traveling leftward?
+
+(4.6.3c) Question: In Figure (4.1.1), at what distance does Bernie find himself at t = 18.7 seconds?
+
+(4.6.4) Synchronizing at [0,0] Why do we not synchronize observers at points other than [0,0]? That is, why do we not have observers in two frames synchronize at time t = 3.0? Hint: Consider the linearity of line-of-sight functions that connect observers in separate frames by a line-of-sight corridor (see (4.5.6)).
+
+(4.6.5) Physics and Geometry. We have seen geometric portraits of motion that are not straight lines (4.2.6)) along with graphs that are straight lines (Figure (4.1.1)).
+
+(4.6.5a) Question: Show that the physics description of unaccelerated motion (4.2.1) is equivalen t to the mathematical notion of a straight line path t = ax + b, in the 2-dimensional X-T plane where t is time, x is distance, and a and b are certain constants. Hint: Physics requires that equal distances are covered in equal times (see Definition (4.2.1)). The mathematical description of a straight line says the slope of its graph, ∆t/∆x, on an X-T plane is constant at every point [x, t].
+
+II Galilean Transformations of Frames
+
+Chapter 5 explores the relation between pairs of frames in a linear algebraic context. A well-defined matrix arises in the line-of-sight connection between Galilean frames. The over-riding Galilean assumption is that time is universal so that there is one universal clock whose readings are valid for all observers, regardless of their relative motion. Consistent with this property is that the speed of light is infinite.
+
+(5) Galilean Transformations
+
+(5.1) Key Ideas
+
+We assume frame B moves with constant speed v relative to frame A.
+
+(5.1.1) From (3.2.1): The set of all spacetime ordered pairs [x,t] for inertial frame { } form a mathematical vector space (A.2.1). From (4.5.6): The line-of-sight function, G : A B sending vector space A to vector space B, which takes straight lines to straight lines F , where G (~0) = (~0) F , is necessarily linear (A.4.1b). From (A.4.6): If the spacetime graph showing overlapping frames A and B is 2-dimensional, then each output vector of the function G : A B is the 2 1 column G (X) which Theorem (A.4.6), pg. 372, tells us can always be computed by multiplying the input vector X~ on the left by a unique 2 2 matrix mx(G ). Specifically, (5.1.1a) G (X~) = mx(G ) X~ = G (E~ ), G (E~ ) X~ where the two columns of mx(G ) are the 2 1 columns G (E~ ) and G (E~ ). Moreover, E~ = and E~ = are the standard basis vectors (A.2.11) of vector space . Our goal is to characterize elements of 2 2 mx(G ) of (5.1.1a).
+
+(5.1.2) NOTE: Since the equation G (X~) = mx(G ) X~ appears in (5.1.1a) we often think of the matrix mx(G ) as being the same as the function G . We have already encountered this shortcut in (A.4.8), pg. 373 where it is observed that for any X~, mx(G ) X~ always equals G (X~). Hence, we think of the two notations mxG and G as equivalent to each other. Symbolically mx(G ) = G .
+
+(5.1.3) How Matrices Induce Linear Functions. As per (A.4.5), display (5.1.1a) states that mx(G ) is the 2 2 matrix whose pair of 2 1 columns are G (E~ ) and G (E~ ) where E~ and E~ are the standard basis vectors of R2 (A.2.11). It is this mechanism of multiplying a column vector X~ on the left by a matrix mx(G ) that tells us how any linear function G is implemented.
+
+(5.2) Galilean Spacetime Diagrams
+
+We construct mathematical spacetime graphs to model moving physical parallel frames (3.3.1), (3.4.4), (3.4.4) that reflect the Galilean assumption that time is the same for all observers in all frames. Mathematically, the spacetime graph will show that the link between frames—the line-of-sight-corridors—have equal times in any pair of the linked frames, regardless of relative speeds. Specifically, the linking coordinates at the endpoints of line-of-sight corridors of frames A and B, say, have the form [x, t] and [x', t] with equal time coordinate t.
+
+(5.2.1) DEFINITION: A Galilean Graph or Diagram is a spacetime graph of synchronized frames (3.4.5) whose (horizontal) X-axes (and hence, their origins, [0, 0]) overlap. All frames share common (horizontal) lines of simultaneous events (see Figure (4.4.4)). This diagram shows points on worldlines of frames A and B at the common time t=3.0.
+
+(5.3) The Galilean Matrix
+
+(5.3.1) DEFINITION: A Galilean Transformation between inertial frames A and B where B has constant speed v relative to A is a function (A.3.2) that links coordinates [x, t] and [x', t] of frames A and B respectively, where the time coordinates t are always equal regardless of the relative speed v.
+
+(5.3.2) NOTE: Theorem (4.5.6) tells us that G is linear in the algebraic sense of (4.5.5) since G preserves straight lines (worldlines) and proportions of straight lines. From Theorem (A.4.2), we can characterize the 2 2 matrix G , once we know its values G (X~ ), G (X~ ) on only two basis vectors (A.2.9) X~ , X~ of the 2-dimensional X-T spacetime graph. In fact, if we know the values for G (X~ ) and G (X~ ) and if an arbitrary vector Y~ of R2 has the form Y~ = α X~ + α X~ , then G (Y~) = α G (X~ ) + α G (X~ ) shows how we produce the value of G (Y~) from the known values of G (X~ ) and G (X~ ) alone.
+
+(5.3.3) FIGURE: The Galilean Transformation G : A B when B has Speed v Relative to A.
+
+(5.3.4) THEOREM: (The Galilean Matrix) Inertial frame B travels with speed v relative to inertial frame A. Then the Galilean matrix G : A B linking coordinates at opposite ends of line-of-sight corridors between A and B is given by (5.3.4a) = mx(G ) = G . NOTE: Linear transformations and their matrices are often used interchangeably in the literature. Hence, we write mx(G ) = G in (5.3.4a). See (5.1.2) and (A.4.8). PROOF: The line-of-sight linear function G has the following values for points 0, 1, and 2 of Figure (5.3.3): (5.3.4b) 0 [0, 0] [0,0] 1 [0,t] [ vt,t] 2 [vt,t] [0,t] Justifying 0 of (5.3.4b): The origins of A and B are synchronized at t=0 (3.4.5). At common time t=0, the origins are at opposite ends of a line-of-sight corridor, which is expressed mathematically by the equation G ([0,0] ) = [0, 0] . Also, at this time, the distance between the origins is zero. Justifying 1 of (5.3.4b): Since A is moving leftward at speed v relative to B, B sees the origin of A (the TA-axis) from B coordinates [ vt, t]. But at time t, the origin of A has A coordinates [0,t] . Mathematically, the linking of these coordinates at the ends of a line-of-sight corridor is expressed by the equation G ([0, t] ) = [ vt, t]. Justifying 2 of (5.3.4b): Since B is moving rightward at speed +v relative to A, the observer in A at time t, at coordinates [vt, t], looks down the line-of-sight corridor into B and sees the origin (the TB-axis) has B coordinates [0,t]. Mathematically, the linking of these coordinates at the ends of a line-of-sight corridor is expressed by the equation G ([vt, t] ) = [0,t].
+
+(5.4) Pattern of the Galilean Matrix
+
+Now (5.3.4b) assures us that we have the values of linear function G : A B on two basis vectors of A which, as noted in (5.3.2), suffices to characterize the 2 2 matrix G . These two basis vectors are [0, t] and [vt, t] . Thus, from (A.4.2), there is a unique quartet of numbers, a, b, c, d such that (5.3.4c) = and = . Matrix multiplication (A.4.3e) applied to (5.3.4c) generates four linear equations with four unknowns which resolve as a = 1 b = v − c = 0 d = 1 This proves (5.3.4a) and hence, Theorem (5.3.4).
+
+(5.4) Pattern of the Galilean Matrix
+
+(5.4.1) An Intuitive Reading of Matrix Gv (5.3.4a). Figure (5.3.3) and Table (5.3.4b) list some linked pairs of coordinates [x,t] and [x',t], that lie at opposite ends of line-of-sight corridors connecting two frames of reference. However, once we apply the 2 2 Galilean matrix G (5.3.4a), the domain (input) vector, [x,t] , is considered to be stationary and the range (output) vector, [x',t] is perceived by an observer in A to be moving with relative speed v. This viewpoint is embedded in the matrix itself as summarized in the figure following: (5.4.1a) FIGURE: Pattern Recognition in Reading the Galilean Matrix Matrix Gv: A B has 1s on the diagonal and a 0 in the lower left hand corner. Whatever appears in the upper right hand corner is always the negative of the speed of B as observed from frame A.
+
+(5.4.2) NOTE: Time is invariant in all synchronized Galilean frames A, B as indicated in Figure (5.3.3). This is shown linear algebraically (i.e., from the matrix) of Figure (5.4.1a) where we see that for all synchronized frames, t in A equals t in B. Coordinates [x , t ] and [x , t ] are at opposite ends of a line-of-sight corridor and, according to Definition (5.3.1), t = t — for Galilean transformations, time is invariant for all observers.
+
+(5.5) Addition of Speeds via Matrices
+
+In the next theorem, we present an algebraic property of Galilean matrices.
+
+(5.5.1) THEOREM: (An Algebraic Property of Galilean Matrices) For a Galilean matrix G and any scalars v and w, we have (5.5.1a) G G = G . PROOF: G * G = from (5.3.4a) = from (A.4.3e) defining the matrix product = G . which shows the upper-right corner holds the negative of the speed Property (5.5.1a) is now established, proving the theorem. NOTE that the first line of the proof uses the symbol G as a shorthand for the matrix mx(G ) as is explained in (5.1.2). The following theorem confirms our intuition about the way we add speeds of different frames. Specifically, we have:
+
+(5.5.2) THEOREM: (Galilean Addition of Speeds) Given three frames of reference, A, B, and C, in 1-dimensional space that are synchronized at time t=0 and distance x=0. Given (5.5.2a) A G v B Observers in A see B moving at speed v. (5.5.2b) B G w C Observers in B see C moving at speed w. Then (5.5.2c) A G v+w C Observers in A see C.
+
+PROOF: Hypotheses (5.5.2a) and (5.5.2a) say (5.5.2d) G_v([x,t]_A)=[x0,t0]_B in F_AB and (5.5.2e) G_w([x0 while his frame travels rightward at constant speed relative to Ashley’s frame A.
+
+Figure (6.3.1) shows the worldlines (time paths) of the red and blue photons moving to the northwest and northeast respectively as time increases. Ashley’s worldline grows vertically and Bernie’s worldline grows in a northeasterly direction.
+
+Since the speed of light is the same for all observers, both Ashley in A and Bernie in B are always equal distances from the red and blue photons (Ashley and Bernie started at equal distance zero from the two photons at time zero so the equal distances will persist thereafter).
+
+Recall that lines of simultaneity — straight lines where time is the same for all points on the line — will be horizontal for Ashley’s frame A and on a positive angle for Bernie’s frame A (6.2.3).
+
+Now both Ashley and Bernie will see the two photons simultaneously according to clocks within their respective frames A and B. Bernie is shown in the figure to see the red photon at time t0 and the blue photon at time t00 according to Ashley’s clock (not his clock) where t0 < t00. Although the sighting (appearance) of the two photons is internally simultaneous within each frame, the appearance of the two photons in Bernie’s frame B occurs at different times t0 < t00 according to Ashley’s clock.
+
+Two events that are simultaneous in one frame can never be simultaneous in another frame as long as the frames are in constant motion relative to each other. Figure (6.3.1) has shown why a constant value of c for all observers destroys common simultaneity.
+
+Summary This chapter presents a prime example of how the fusion of mathematics, cartoons, and reality brings us to an unexpected feature of reality and a new level of understanding. We first encountered the fundamental property of special relativity — that the speed of light is constant for all observers (1.5.2b). With the rephrasing of (6.2.2), we then established the cartoon of Figure (6.2.3) and applied mathematical analysis to lines of simultaneity that correspond to reciprocal slopes. This analysis further led us to the illustration of (6.3.1) that produced a new observation, namely, (6.3.2) If two observers are in motion relative to each other, then two events that are simultaneous for one can never be simultaneous for the other.
+
+Property (6.3.2) is not likely to be revealed through our five senses alone.
+
+(6.4) Exercise (6.4.1) The Swiveled Line Theorem.
+
+(Click here to see the animation.)
+
+Assume the speed of light c = 1 so that the worldlines of the two photons of Figure (6.2.3) are at angles 45°, i.e., the lines have slopes 1. Then show that: Exercise If v is the speed of Bernie’s frame B relative to Ashley’s frame A, then v = tan(θ0).
+
+In order to swivel line PSQ to the exact angle θ so that distances L = L0, then necessarily θ = θ0 and all three lengths L, L0, and L00 are equal to each other.
+
+IV Lorentz Transformations of Frames Chapter 7 explores the relation between pairs of frames in a linear algebraic context (Compare with the description of Chapter 5.) A well-defined matrix arises in the line-of-sight connection between Lorentzian, relativistic frames. The overriding relativistic assumption is that time is not universal — it varies with each observer. Consistent with this property is that c, the speed of light, is finite and does not vary with either the relative speeds of the source or of any observer.
+
+Chapter 8 studies the track of origins of moving frames that trace out a well-defined hyperbola in the Minkowski X-T diagram. This hyperbola in relativistic physics corresponds to a straight line in classical Galilean/Newtonian physics.
+
+(7) Lorentz Transformations The Setup for Figure (7.1.2)
+
+(7.1) The Lorentz Matrix (7.1.1) PREVIEW: In the Minkowski diagram (7.1.2) following, the worldlines are plotted for four players: Ashley at the origin in inertial frame A whose worldline is vertical, Bernie at the origin in synchronized frame B (3.4.5a) moving with relative speed v. Bernie’s worldline coincides with T, the time axis of B.
+
+Leftward and a rightward traveling photons whose worldlines contain the line segments from 1 to 3 and from 2 to 4, respectively.
+
+(7.1.2) FIGURE: Lorentz Linking of Synchronized Frames The values p = (1+v/c) and q = (1-v/c) in Figure (7.1.2) will be established in (7.1.3f).
+
+Line-of-Sight Coordinates of Point 0, Fig. (7.1.2). Ashley and Bernie, who are fixed at their respective origins x = 0, are synchronized at time t = 0 in each frame. Therefore, after time t in Ashley’s frame A, Bernie travels vt units to Ashley’s right in frame A. At this time t, Bernie in B is seen by an observer in A from his/her A coordinates [vt, t] = t [v, 1].
+
+At the other end of the line-of-sight corridor in B, Bernie is positioned in B at coordinates [0, tB] for some B time tB. (Bernie always stands at his own origin x=0.)
+
+The times tA and tB at the opposite ends of the line-of-sight corridor are not assumed to be equal. We can say, however, that the line-of-sight linkage of coordinates at Point 0 of Figure (7.1.2), [v, 0]A with [t, 1]B is expressed by the Lorentz transformation equation [v, 0]A = t [v, 1]B (7.1.2a)
+
+Coordinates Reflecting Constant Speed of Light c. All four traveling actors, namely, (i) Ashley, (ii) Bernie, (iii) the leftward traveling photon, and (iv) the rightward traveling photon, find themselves at point x=0 at the common synchronization time, t=0.
+
+It follows that at time t in A, both left and right photons are at a distance t*c from the A origin where Ashley is always located.
+
+Figure (7.1.2) illustrates the A coordinates at time t of the two photons as Point 1 = t [-c, 1]A, and Point 4 = t [c, 1]A. (7.1.2b)
+
+Similarly, at arbitrary time t in B, both left and right photons are t*c units from the B origin where Bernie is always located. Figure (7.1.2) shows the B coordinates at time t of the two photons, namely, Point 3 = t [-c, 1]B, and Point 2 = t [c, 1]B. (7.1.2c)
+
+(7.1.2d)
+
+NOTE: As shown in Figures (6.2.3) and (7.1.2), the line of constant time t in frame B cannot be horizontal if we require equal distances from the origin to the photons at equal times.
+
+The coordinates of Figure (7.1.2) are the basis for the following theorem that establishes the Lorentz line-of-sight transformation.
+
+(7.1.3) THEOREM: (The Lorentz Matrix) An inertial frame B has speed v relative to a synchronized frame A. The line-of-sight Lorentz linear transformation L : A -> B has the matrix form L = [1 -v/c^2; -v 1] (7.1.3a)
+
+where the Lorentz Factor γ (and Shrinkage Factor σ) are defined by γ = 1 / sqrt(1 - (v/c)^2) (see (1.8.2)). σ = 1 / γ (7.1.3b)
+
+PROOF: The strategy is to find the values of the linear transformation L : A -> B on just the two vectors [-c, 1]A, [c, 1]A which happen to form a basis of the two-dimensional spacetime graph (7.1.2). With these two vector values in hand, the full Lorentz 2x2 matrix is determined as per (A.4.2).
+
+Eigenvector-Eigenvalues of the Lorentz Transformation: (see Figure (7.1.2).) Multiply Point 1 of A by a (shrinking) factor q < 1 so that it “slides” down its worldline toward the origin to meet and align with Point 3 of B. Thus, we have the pair of overlapping coordinates qt [-c, 1]A <-> t [-c, 1]B (7.1.3c)
+
+q 1 3 that are at opposite ends of a line-of-sight corridor that runs between frames A and B. Similarly, multiply Point 4 by an (expanding) factor p > 1 so that it “slides” up its worldline away from the origin to align with Point 2. That is, the A and B coordinates pt [c, 1]A <-> t [c, 1]B (7.1.3d)
+
+p 4 2 are at opposite ends of a line-of-sight corridor that runs between A and B. But to be paired at opposite ends of a line-of-sight corridor is to be linked by the Lorentz transformation L as follows: L (t [-c, 1]A) = t/q [-c, 1]B and L (t [c, 1]A) = t*p [c, 1]B (7.1.3e)
+
+where [-c, 1] and [c, 1] are eigenvectors of L with respective eigenvalues (tB/tA)/q and (tB/tA)/p (see Definition (A.5.1)).
+
+Values of numbers (scalars) p and q in (7.1.3e). The A coordinates of midpoint 0 are t [v, 1] which is the average of the endpoints, 2 and 3, in A coordinates, which we read from the left hand sides of (7.1.3c) and (7.1.3d). The average (3 + 2)/2 = 0 in A coordinates implies qt [-c, 1]A + pt [c, 1]A = 2t [v, 1]A => (p + q) = 2, (p - q) = 2v/c (7.1.3f)
+
+which gives us the values p = (1 + v/c)
+
+q = (1 - v/c)
+
+which in turn implies p - q = 2v/c 1/p + 1/q = 2 / (1 - (v/c)^2)
+
+Using the Decomposition Theorem (A.5.4): Since (7.1.3e) provides a pair of eigenvectors and eigenvalues for L we use the decomposition theorem (A.5.4), pg. 375 to write L = S D S^{-1} = [-c, c; 1, 1] * [(tB/tA)/q, 0; 0, (tB/tA)/p] * [1/(-2c), 1/(2c); 1/2, 1/2]
+
+= (tA/tB) * [(1/q + 1/p) / (p - q), (1/p - 1/q) / (p - q); (1/q - 1/p) / (p - q), (1/q + 1/p) / (p - q)]
+
+= (tA/tB) / (1 - (v/c)^2) * [1, -v; -v/c^2, 1] (7.1.3g)
+
+Symmetry and Inverses. L is the line-of-sight function where frame B has speed v relative to frame A. By symmetry (1.6.1), if we view the line-of-sight corridor from the opposite direction, then L_{-v} is the line-of-sight function where frame A has speed v relative to frame B. That is, L_{-v} is the inverse of L (see also Proposition (3.4.6e)), which is to say (tB/tA) [1, v; v/c^2, 1]^{-1} = [1, -v; -v/c^2, 1]
+
+L_{-v} = L_v^{-1} | replace v with -v in L_v | apply (A.4.4d) to L_v | Equating tA/tB terms gives (tB/tA)^2 = 1 / (1 - (v/c)^2) or tB/tA = γ. This establishes the form in (7.1.3a).
+
+the scalar multiples of the (equal) matrices above yields the time dilation formula (7.1.3h) (t_B / t_A) = 1 / sqrt(1 - (v/c)^2). note: t_B ≤ t_A Substituting the value of (t_B / t_A) from (7.1.3h) into (7.1.3g) finally yields (7.1.3a) which ends the proof.
+
+7.2. Pattern of the Lorentz Matrix 109 (7.2) Pattern of the Lorentz Matrix (7.2.1) An Intuitive Reading of Matrix L_v (7.1.3a). Once we apply the 2×2 Lorentz matrix L (7.1.3a), the domain frame, A, containing the (input) vector, [x, t], is considered to be stationary and the range frame, B, containing the (output) vector, [x', t'], is seen to be moving with speed v relative to A.
+
+All this information is embedded in the Lorentz matrix itself as summarized in Figure (7.2.2), a counterpart to the pattern (5.4.1a) of the Galilean matrix.
+
+(7.2.2) FIGURE: Pattern of the Lorentz Matrix (7.1.3a)
+
+Lorentz matrix L_v: F_A → F_B is the product of the number (scalar) γ_v = 1 / sqrt(1 - (v/c)^2) and the 2×2 matrix with 1s on the diagonal and scalars -v and -v/c^2 in the northeast and southwest corners respectively. The speed v appears twice in the 2×2 matrix and once in the radical term, sqrt(1 - (v/c)^2). The matrix corners always contain the negative of the speed of B as observed from frame A.
+
+(7.3) The Lorentz Sum of Speeds We define a special addition between any pair of numbers, v and w.
+
+110 Lorentz Transformations (7.3.1)
+
+DEFINITION: For numbers v and w, the symbol v ⊕ w denotes their Relativistic Sum or Lorentz Sum and is defined to be (7.3.1a) v ⊕ w ≡ (v + w) / (1 + (vw / c^2))
+
+where c is the speed of light, and the numerator (v + w) and denominator (1 + (vw / c^2)) are the ordinary arithmetic sums.
+
+(7.3.2) The odd-looking sum (7.3.1a) may seem to be unmotivated. However, as we shall see in Theorem (7.3.3), the sum v ⊕ w is exactly what is needed to describe relative speeds between moving frames. Also, we have already noted in (1.13.3), pg. 39, that it is this very sum v ⊕ w of (7.3.1a) that resolves the Pea-Shooter Paradox.
+
+(7.3.3)
+
+THEOREM: (An Algebraic Property of Lorentz Matrices)
+
+For Lorentz matrices L_v and L_w where v and w are arbitrary speeds (or scalars), we have (7.3.3a) L_v * L_w = L_{v ⊕ w} where v ⊕ w is the Lorentz sum (7.3.1).
+
+PROOF: From (5.3.4a), we have L_v * L_w = [1, -v; -v, sqrt(1 - v^2/c^2)] * [1, -w; -w, sqrt(1 - w^2/c^2)]
+
+which, after matrix multiplication (A.4.3e) that entails some disagreeable algebra, allows us to continue the equality with = 1 / sqrt(1 - (v⊕w)^2/c^2) * [1, -(v⊕w); -(v⊕w), sqrt(1 - (v⊕w)^2/c^2)]
+
+from (7.3.1) defining (v⊕w) and Figure (7.2.2), which shows the pattern for the three entries that contain the speed (v⊕w).
+
+Property (7.3.3a) is now established, proving the theorem.
+
+(7.4) Addition of Speeds via Matrices The following theorem, which justifies the form for v ⊕ w based on the Lorentz matrix transformation, is the relativistic counterpart to Theorem (5.5.2).
+
+(7.4.1)
+
+THEOREM: (Lorentzian Addition of Speeds) Given three frames of reference, F_A, F_B, and F_C, in 1-dimensional space that are synchronized at time t=0 and distance x=0. Given (7.4.1a) F_A → F_B via L_v. Observers in F_A see F_B moving at speed v.
+
+(7.4.1b) F_B → F_C via L_w. Observers in F_B see F_C moving at speed w.
+
+Then (7.4.1c) F_A → F_C via L_{v⊕w}. Observers in F_A see F_C moving at speed v ⊕ w (7.3.1a).
+
+PROOF: Hypotheses (7.4.1a) and (7.4.1b) say (7.4.1d) L_v ([x, t]_A) = [x', t']_B where [x', t']_B are coordinates in F_B and (7.4.1e) L_w ([x', t']_B) = [x'', t'']_C where [x'', t'']_C are coordinates in F_C.
+
+Substituting [x', t'] of (7.4.1d) into (7.4.1e), we obtain (7.4.1f) L_w (L_v ([x, t]_A)) = [x'', t'']_C.
+
+Now, L_w (L_v ([x, t]_A)) = L_w * L_v ([x, t]_A) from (A.3.6)
+
+= L_{v⊕w} ([x, t]_A) from (A.3.6) and Theorem (7.3.3)
+
+so that (7.4.1f) rewrites itself as L_{v⊕w} ([x, t]_A) = [x'', t'']_C, or L_{v⊕w}: F_A → F_C, which confirms (7.4.1c). The proof is done.
+
+(7.4.2) The sum v ⊕ w does not have properties we might expect of ordinary, familiar addition. For example, it is not true that for all u, v, and for any scalar α, (7.4.2a) (αu) ⊕ v = u ⊕ (αv) = α(u ⊕ v). Exercise (7.6.1)
+
+We do have, however, the following structure: (7.4.3)
+
+PROPOSITION: There are only three instances for which the Lorentz sum, v ⊕ w (7.3.1a), and the ordinary arithmetic sum, v+w, agree, namely, u ⊕ v = u+v if and only if u=0, or v=0, or u+v=0.
+
+PROOF: Exercise (7.6.3)
+
+(7.4.4) NOTE: If u and v are speeds, then the Lorentz sum u ⊕ v of (7.3.1a) shows that speeds of material objects can never exceed c. That is, u ⊕ v < c for u, v < c. The straightforward proof is left as Exercise (7.6.2).
+
+(7.5) Addition of Speeds via Areas In Theorem (7.5.6) following, we present the relativistic counterpart of Theorem (5.6.2) that measures speeds of one frame relative to another by the addition of areas.
+
+Results in this section depend on properties of the particular hyperbola 7.5. Addition of Speeds via Areas 113 t^2 - x^2 = 1 that is symmetric about the Y-axis where the hyperbola asymptotes are the ±45° lines as measured from the X-axis.
+
+The 45° slopes of the asymptotes force the speed of light to be c = 1 (see Def. (1.13.5a), pg. 39). In the special case where c = 1, we have from (B.3.5a) that relative speeds between frames have the form v = tan(θ) = tanh(r). This is the first time the speed c is associated with the trigonometric quantity, tan(θ) (see (B.1.1c), pg. 376 for definition of the hyperbolic function tanh( )).
+
+(7.5.1) Rescaling the X-axis: To pass from the special case c = 1 to more general and arbitrary units for c, we rescale the original X-axis (where c=1) by replacing each x with cx (where the value of c can now be arbitrary). The rescaling now allows for non-unity units for c such as c=2.99792458 × 10^8 meters/sec and c=186,000 miles/sec.
+
+We interpret the special-case Figure (B.3.4), pg. 381 as a Minkowski spacetime diagram where the T_A and T_B axes represent the worldlines of the origins of synchronized inertial frames F_A and F_B, respectively. The two ±45° asymptotes will represent the worldlines of leftward and rightward traveling photons that are simultaneously released at time t=0 from the synchronized origins.
+
+(7.5.2) FIGURE: worldlines of Two Photons (Leftward and Rightward) and Three Origins of Synchronized Inertial Frames (7.5.3) NOTATION: Unscaled and Scaled Quantities. As noted in (7.5.1), the X-axis X[c] of the Minkowski diagram of (7.5.2) is constructed by replacing each x of the original X-axis (where c = 1) with the value cx. Then (7.5.3a)
+
+Figure (7.5.2) Unscaled (c=1) Scaled (c>0)
+
+Axes x cx = x[c]
+
+Speed of one frame relative to another v v[c]
+
+Triangular area bounded by hyperbola, T_A and T_B-axes r_{A,B} r_{A,B}[c]
+
+(7.5.4) NOTE: In the notation of (7.5.3) above, v[1] and r_{A,B}[1] coincide with the speed v and area r_{A,B} of the unscaled graph, i.e., v[1] = v and r_{A,B}[1] = r_{A,B}. We abandon this somewhat awkward superscript notation v[c] and r_{A,B}[c] when the units for c are clearly established and we no longer need to compare diagrams with differently scaled X-axes.
+
+(7.5.5)
+
+PROPOSITION (Calculus): In Figure (B.3.4), replace the unscaled axis X with the scaled axis X[c] in which each x ∈ X is replaced with cx ∈ X[c]. Then (7.5.5a) Hyperbola t^2 - x^2 = 1 is transformed (rescaled) into the hyperbola t^2 - (x[c]/c)^2 = 1. Moreover, (7.5.5b) v[c] = c v and r_{A,B}[c] = c r_{A,B} where v[c] and r_{A,B}[c] are defined in (7.5.3a).
+
+PROOF: From the first line of Table (7.5.3a), we replace x[c] with cx in the scaled equation t^2 - (x[c]/c)^2 = 1 to obtain the unscaled equation t^2 - x^2 = 1, which proves (7.5.5a).
+
+Speed of F_B relative to F_A is v[c] = (x_1[c] - x_0[c]) / (t_1 - t_0) where [x_1[c], t_1]_A and [x_0[c], t_0]_A are line-of-sight coordinates in F_A from which a particular point of F_B is observed at F_A times t_1 and t_0.
+
+v[c] = (x_1[c] - x_0[c]) / (t_1 - t_0) = (c x_1 - c x_0) / (t_1 - t_0) = c (x_1 - x_0) / (t_1 - t_0) = c v, which proves part of (7.5.5b). Now suppose the areas in Figure (7.5.2) are defined by a double integral over region R. In particular, since x[c] = c x, r[c] = ∬_R dx[c] dt = ∬_R c dx dt = c ∬_R dx dt = c r Statements (7.5.5a) and (7.5.5b) are fully established, which ends the proof.
+
+(7.5.6) THEOREM: Sums of Areas as Speeds. Given the scaled spacetime graph (7.5.2) with general units for c where the areas r_{A,B}[c] and r_{B,C}[c] denote the areas (under the hyperbola t^2 - (x/c)^2 = 1) between the T_A-T_B pair of axes and the T_B-T_C pair of axes, respectively.
+
+If v[c] denotes the speed of frame F_B relative to frame F_A, and w[c] is the speed of frame F_C relative to frame F_B, then (7.5.6a) v[c] = c tanh( r_{A,B}[c] / c ), w[c] = c tanh( r_{B,C}[c] / c ).
+
+The speed of frame F_C relative to frame F_A is (7.5.6b) v[c] ⊕ w[c] = (v[c] + w[c]) / (1 + (v[c]w[c])/c^2).
+
+PROOF: Proving (7.5.6a).
+
+v[c] = c v from (7.5.5b)
+
+= c tanh(r_{A,B}) using v = tanh(r_{A,B}) from (B.3.5a)
+
+= c tanh( r_{A,B}[c] / c ) since r_{A,B}[c] / c = r_{A,B} from (7.5.5b).
+
+A similar argument, using r_{B,C} instead of r_{A,B}, establishes (7.5.6a).
+
+Proving (7.5.6b). Using (7.5.6a), the speed of frame F_C relative to F_A is determined by the “double” area r_{A,C}[c] of Figure (7.5.2). To echo the notation of (1.13.3), we denote this speed of F_C relative to F_A by (v[c] ⊕ w[c])[c]. Then v[c] ⊕ w[c] = c tanh( r_{A,C}[c] / c ) from (7.5.6a)
+
+= c tanh(r_{A,C}) since r_{A,C}[c] / c = r_{A,C} from (7.5.5b)
+
+= c tanh(r_{A,B} + r_{B,C}) addition of areas = c [tanh(r_{A,B}) + tanh(r_{B,C})] / [1 + tanh(r_{A,B}) tanh(r_{B,C})] property (B.1.3e) of tanh(x+y)
+
+= c (v + w) / (1 + v w) from (B.3.5a), pg. 381 = c (v[c]/c + w[c]/c) / (1 + (v[c]/c)(w[c]/c))
+
+= (v[c] + w[c]) / (1 + (v[c]w[c])/c^2) from (7.5.5b), cancel c in numerator.
+
+Having established (7.5.6a) and (7.5.6b), the proof is done.
+
+(7.6) Exercises (7.6.1) Properties of u ⊕ v. Show examples that prove (7.4.2a). Exercise 7.6. Exercises 117 (7.6.2) Property of u ⊕ v. Show that for all number Exercise (8.5.1) Use of Lorentz transformation: The diagram of (12.2.2) shows four coordinates that are listed in the table to the right — the two A coordinates for P and Q, and the two B coordinates of P0 and Q.
+
+Fill in the four missing coordinates in the table (marked *) that lie at opposite ends of the line-of-sight corridors of the given coordinates.
+
+Hint: Use the Lorentz transforma
+
+Exercise (speeds) u and v, we have c < u < w < c.
+
+Exercise (7.6.3) Three cases of u ⊕ v. Prove Proposition (7.4.3)
+
+Exercise (8) The Hyperbola of Time-Stamped Origins (8.0.4)
+
+One of the most revolutionary results in modern science is Einstein's use of hyperbolic geometry to connect space and time. The explanation will require that we go through a series of theorems (no royal road). Nevertheless, we invite the reader to join us along this challenging yet rewarding path.
+
+(8.1) Invariance of Minkowski Length As noted on page 83, non-relativistic Galilean physics assumes that time is universal, which implies there is one universal clock whose readings are valid for all observers, regardless of their relative motion. This universal clock physical property is interpreted mathematically by saying that time is invariant under the Galilean line-of-sight transformation (5.4.2), pg. 90, Gv :[x,t] → [x0,t]A B. That is to say, the time entries of the input coordinate pair [x,t] and the output coordinate pair [x0,t] are always equal.
+
+Similarly, we may ask what quantity might be invariant under the Lorentz transformation Lv :[x,t] → [x0,t0]A B.
+
+A first glance might not reveal an obvious invariant quantity for Lv. However, Theorem (8.1.2) will show a special “length” that remains intact for the linked coordinates [x,t]A and [x0,t0]B. We define this “length” now: (8.1.1) DEFINITION: For any event [x,t] for any frame in X-T space-time, the Minkowski Length is defined to be the quantity (8.1.1a) M([x,t]) = d^2 = c^2 t^2 - x^2 units = distance^2 where c is the speed of light in a vacuum.
+
+Invariance of Minkowski Lengths Between Pairs of Frames.
+
+Note that (8.1.1) defines M([x,t]) for a point (event) [x,t] in any inertial frame. The following theorem shows that if two points [x,t] and [x0,t0] are in different frames A and B and lie on opposite ends of a line-of-sight corridor, then they share the same Minkowski length.
+
+(8.1.2) THEOREM: (Lorentz Invariance) Given the Lorentz transformation Lv : FA → FB (7.1.3a) If Lv ([x,t]A) = [x0, t0]B, then the Minkowski length M of (8.1.1) is invariant for both line-of-sight points [x,t] and [x0, t0] in that (8.1.2a) Lv ([x, t]A)=[x0, t0]B implies M([x,t]A)=M([x0, t0]B).
+
+PROOF: (As usual, we write vectors of R2 either as horizontal row vectors or as vertical column vectors, depending on the context.) Consider the following chain of equalities: Lv([x, t]A) = γv[-v/c^2, -1; 1, v] * [x, t]A = [γv(x - vt), γv(-vx/c^2 + t)]B = [x0, t0]B.
+
+where γ = 1/√(1 - (v/c)^2) (7.1.3b). It is the final (rightmost) equality that tells us (8.1.2b) x0 = γv(x - vt) and t0 = γv(-vx/c^2 + t).
+
+With the specific form (8.1.2b), algebraic manipulation shows that (ct0)^2 - (x0)^2 = (ct)^2 - (x)^2, which is to say, the Minkowski lengths, M([x0,t0]B) and M([x,t]A), as defined in (8.1.1), are equal. This confirms statement (8.1.2a) and ends the proof.
+
+(8.2) The Time-Stamped Origins Theorem One way to view the time axis T of any frame is to view each of its coordinates [0, t] as the origin x=0 with a time-stamp t. More formally, we state (8.2.1) DEFINITION: For time t in frame we say that [0,t] is the Origin of with Time-Stamp t.
+
+NOTE: The set of all time-stamped origins of a single frame is T-axis of .
+
+(8.2.2) NOTATION: (Moving Frames and Coordinates) Given a fixed frame with coordinates denoted [x,t]0. Then any frame moving with constant speed v relative to frame is denoted by and its coordinates are written in the form [x0, t0].
+
+Using the terminology of (8.2.1), we have a useful hyperbolic relation among a set of t-stamped origins for infinitely many frames (all origins are stamped at fixed time t).
+
+(8.2.3) THEOREM: (The Time-Stamped Origins Theorem)
+
+The graph of frame is drawn with perpendicular X and T axes. For each speed v, denotes the synchronized frame with speed v relative to.
+
+Suppose the time-stamped origin [0,t0] in corresponds to [x, t] in frame. That is, Lv ([0, t0]) = [x, t]0.
+
+Then ......................................................
+
+for any fixed time, t > 0, and all speeds, -c < v < c, the set of all time-stamped origins, [0, t0]v ∈ Fv, forms the hyperbola (8.2.3a) t^2 = t0^2 - (x/c)^2, where x and t are coordinates in any of the frames.
+
+(8.3) Interpreting the Time-Stamped Origins Theorem PROOF: Let the time-stamped origin, [0, t0]v ∈ Fv and coordinates [x, t] lie at opposite ends of a Lorentz transformation line-of-sight corridor. That is, for [x, t] in and [0, t0] in, we have Lv ([x, t])=[0, t0]v. Then, from (8.1.2a), [0,t0]0 and [0, t0]v have the same Minkowski length (8.1.1a), or M([x, t])=c^2 t^2 - x^2 and M([0, t0]v)=c^2 t0^2 for variables x and t in. Having established the equality (ct0)^2 = (ct)^2 - x^2 (equivalently, t^2 = t0^2 - (x/c)^2), (8.2.3a) is proved.
+
+(8.3) Interpreting the Time-Stamped Origins Theorem In Section (7.5) we showed that the hyperbola t^2 - (x/c)^2 = k^2 was useful in providing a geometric interpretation of the formula v ⊕ w, the relative addition of speeds v and w. The following theorem provides a physical interpretation of this hyperbola.
+
+(8.3.1) FIGURE: Galilean vs. Relativistic Time Axis Scales In the Galilean and relativistic spacetime diagrams above, each frame with relative speed v has its time axis forming a certain angle with the vertical time axis.
+
+In the Galilean case (left panel of Fig. (8.3.1)), the various origins [0,t0]0, [0, t0]A, [0, t0]B, and [0,t0]C, at time t lie on the horizontal line [x,t], irrespective of relative speeds between frames A, B, C, etc., where x and t are coordinates in frame with perpendicular X and T axes.
+
+In the relativistic case (right panel of Fig. (8.3.1)), the various origins [0, t0]0, [0, t0]A, [0, t0]B, [0,t0]C, at time t lie on the hyperbola t^2 = t0^2 - (x/c)^2 where x and t are coordinates in frame with perpendicular X and T axes (8.2.3a).
+
+For both the Galilean (left panel) and relativistic case (right panel) of Figure (8.3.1), each time axis can be viewed as a ruler where the distance from 0 to t varies when it is measured in the frame having perpendicular X and T axes.
+
+(8.4) Tangent Lines of Simultaneity When the spacetime graph for frame has perpendicular axes X and T, then the synchronized frame 0, moving with speed v with respect to has its time axis, T0, forming a certain angle with the vertical T axis.
+
+The following theorem describes the slopes and positions of lines of simultaneity (at fixed time t0) which we already know represent the X-axis at time t0 of the moving frame 0 (see (4.4.3), pg. 73).
+
+(8.4.1) THEOREM: (Tangent Lines = Simultaneous Events) Calculus Given a spacetime graph of frame with perpendicular X and T axes, and a synchronized frame 0, moving with relative speed v, with distance axis X0 and time axis T0.
+
+Then .....................................................
+
+(8.4.1a) 1/v is the slope of time axis T0, and (8.4.1b) v/c^2 is the slope of any and all straight lines of simultaneous events in frame 0. The X0-axis is the set of t0 = 0 events in 0.
+
+In particular, the line of simultaneous events at any time t0 in 0, expressed in 0 coordinates x, t, is the tangent line to the hyperbola (8.4.1c) (t0)^2 = t^2 - (x/c)^2.
+
+For all times t0 in 0, tangent line (8.4.1c) has slope v/c^2 and intersects the vertical T-axis of at the coordinates [0,t0].
+
+PROOF: Proof of (8.4.1a). The speed of frame 0 as seen from frame is v = Δx/Δt while slope of lines in the X-T plane is given by Δt/Δx. This proves (8.4.1a).
+
+Proof of (8.4.1b). Points of constant (simultaneous) time t0 in 0 have form [x0,t0] where x0 varies and time t0 is fixed. The Lorentz line-of-sight transformation Lv :[x,t] → [x0,t0] (7.1.3a) tells us that [γv, γv(-v/c^2); γv(-v), γv] * [x; t] = [γv(x - vt); γv(t - vx/c^2)] = [x0; t0] in frame F0 where, from (7.1.3b), γ = 1/√(1 - (v/c)^2).
+
+Relative to the frame for the X-T graph, there are infinitely many frames each moving with speed v, where -c < v < c.
+
+If we fix a time, ti, then the plot of each of the origins (with age ti) of the infinitely many frames, yields the hyperbola t^2 = ti^2 - (x/c)^2. This graph shows hyperbolas of origins of ages t0 < t1 < t2 < t3 < t4. For one frame 0, we plot its set of origins at all times (its time axis T0). The five tangent lines shown at the intersections of T0, one for each ti, is the line of simultaneous events that occur at time ti in frame 0.
+
+Now the second entry, γv(t - vx/c^2) = t0, is constant. Solving for t, we produce the following straight-line form t = mx + b in variables x and t: t = (v/c^2) x + (t0/γv).
+
+This line in the X-T plane has slope (v/c^2), which proves (8.4.1b).
+
+Proof of (8.4.1c). Solve for dt/dx via implicit differentiation of the hyperbola (t0)^2 = t^2 - (x/c)^2 to obtain 0 = 2t (dt/dx) - 2(x/c^2). This equation implies the slope (derivative) dt/dx at any [x,t] in is dt/dx = (x/t) / c^2 = (v/c^2) (when x = vt)
+
+where [x,t] lies on the T0 axisingraph of frame only when x = vt. Substitution of x = vt into the previous equation shows that the slope dt/dx = (v/c^2) which is exactly what is required by (8.4.1b). This justifies (8.4.1c) which ends the proof.
+
+(8.5) Exercises (8.5.1) Point Frame A Frame B Exercise Use of Lorentz transformation: The diagram of (12.2.2) shows four coordinates that are listed in the table to the right — the two A coordinates for P and Q, and the two B coordinates of P0 and Q.
+
+Fill in the four missing coordinates in the table (marked *) that lie at opposite ends of the line-of-sight corridors of the given coordinates.
+
+Hint: Use the Lorentz transformation.
+
+P [0,t0]A * Q0 [d0, t0]A * P0 * [d, t0]B Q * [0,t0]B Let L : A → B F → F (equivalently, L : B → A).
+
+−v F → F (8.5.2)
+
+Exercise (1) From the coordinates of the table (8.5.1) show that P'_0 = σ_v P_v and Q'_0 = σ_v Q_v where σ_v = 1 / \sqrt{1 - (v/c)^2} (1.8.2).
+
+(2) Show how the results of (1) prove that moving clocks run slower than stationary clocks by a factor of σ_v.
+
+Hint: Recall that measuring moving clocks requires two readings of the same moving clock at different times (F.12.5b).
+
+V Graphic Resolution of the Paradoxes
+
+Chapter 9 The Accommodating Universe. An intergalactic traveler apparently travels faster than light.
+
+Chapter 10 The Comparison Paradoxes. Any two observers see each other’s moving clock run slower than his own clock.
+
+Chapter 11 The Twin Paradox. A (stationary) Earthbound twin sees her (moving) spaceship twin age more slowly than Earth residents. Yet, the (stationary) spaceship twin does not see the (moving) Earthbound twin age more slowly than spaceship residents.
+
+Chapter 12 The Train-and-Tunnel Paradox. A pair of lightning bolts strike simultaneously when viewed by observers on the ground but they are viewed as sequential lightning bolts when viewed by passengers on the train.
+
+Chapter 13 The Pea-Shooter Paradox. A ball on a moving train has speed 0.8c relative to the train while the train, as seen from the embankment, has speed 0.9c. From the train embankment, the speed of the ball is measured to be 0.988c instead of the “expected” speed of 0.8c + 0.9c = 1.7c.
+
+Chapter 14 Bug-Rivet Paradox. The collision of a rivet with a metal plate shows that the rivet cannot remain rigid as it accelerates out of an inertial frame. Moreover, if rigidity is assumed, then the sequence of cause and effect can be reversed—cause can result after its effect.
+
+(9) The Accommodating Universe Paradox (9.1) Preview (9.1.1) Summary of the Accommodating Universe, Section (1.9).
+
+If a skateboarder in frame S races on a straight-line track in E F F towards the finish line, then the faster he runs, the shorter the track becomes from his point of view in frame S—the Universe is accommodating in the sense that the faster he goes, the shorter the track becomes from his point of view and, hence, the closer the finish line is to the runner.
+
+The paradox lies in the statement that if the length of the track can be made arbitrarily small as viewed from frame S, then the skateboarder can complete the run in an arbitrarily short amount of time—one year, say. If the at-rest track length in frame E is 100 light years, then a photon requires 100 years to reach the finish line. This implies that the photon may require more time than the runner does to run on the same track.
+
+The specious reasoning springs from using clocks from separate frames to time the skateboarder and the photon. The Minkowski diagram (9.2.1) following offers a graphical analysis.
+
+(9.2) Setup for the Minkowski Diagram Figure (9.2.1) shows four worldlines: • The line of a photon with slope 1/c that indicates the photon is traveling rightward at speed c.
+
+• In frame E, the vertical line of Earth which rests at x = 0 and F the vertical line of Star XYZ which is at a distance d from Earth F and rests at x = d.
+
+• In frame S, the line of the skateboarder has slope 1/v. This F means the skateboarder travels with speed v relative to Earth’s frame E.
+
+(9.2.1) FIGURE: The Accommodating Universe E Coordinates. Relative to the Earth’s frame, E, the skateboarder moves rightward with speed v and a photon travels with speed c over a distance d to Star XYZ. The distance for both journeys is d so the times in E are d/v and d/c, respectively.
+
+## E E E
+
+Figure (9.2.1) lists these E coordinates as 1 and 2 at Star XYZ.
+
+S Coordinates. The Lorentz transformation, L_v ([x, t]_E) = [x', t']_S, converts coordinates [x, t] in E to line-of-sight coordinates [x', t'] in S. These values of Figure (9.2.1) are summarized as follows:
+
+(9.2.1a)
+
+At Star XYZ E coordinates    S coordinates skateboarder [ \begin{array}{c} 0 \\ d \\ \end{array} ]_E \xrightarrow{L_v} [ \begin{array}{c} 0 \\ d \\ \end{array} ]_S 1/v             σ_v / v
+
+photon [ \begin{array}{c} 0 \\ d \\ \end{array} ]_E \xrightarrow{L_v} [ \begin{array}{c} 0 \\ d \\ \end{array} ]_S 1/c             v / 1/c
+
+where (9.2.1b) L_v = [ \begin{array}{cc} σ_v & -σ_v v/c^2 \\ -σ_v v/c^2 & σ_v \\ \end{array} ], σ_v = \sqrt{1 - (v/c)^2} from (7.1.3b).
+
+(9.3) Resolving the Accommodating Universe (9.3.1) With unsound reasoning, we concluded in (1.9.5), that the skateboarder is traveling “faster than light” because his journey takes only 1% of the time that light requires to traverse the same path from Earth to Star XYZ. We neglected to mention that we were clocking a race with two separate participants (photon and skateboarder) using clocks from two separate frames (Earth frame E and skateboarder frame S).
+
+The Minkowski diagram (9.2.1) shows the worldline of the photon below that of the skateboarder. This means the photon collision with Star XYZ occurs before (below) the skateboarder collision with Star XYZ.
+
+Analytically, we may compare the travel times that appear as the second coordinate entries of the column vectors in Table (9.2.1a). If we choose these times either from the E column (vectors 1, 2) or from the S column (vectors 3, 4), we will see that in both cases, (9.3.1a) skateboarder time / photon time > 1.
+
+(9.3.2) Stephen Hawking implies that the Accommodating Universe Paradox (9.2.1) will help us ensure our long-term survival. In a 13 June 2006 press conference in Hong Kong, he declared that humankind must colonize outer space.
+
+How can a crew of humans complete voyages to planets that may lie millions of light years from Earth? The answer lies in being able to travel fast enough according to the Accommodating Universe Paradox, which says that at sufficiently high speeds, both distance and travel time from Earth to the desired planet can be as small as desired. In this way, a trip that requires a few million years (as measured on Earth) could be achieved within a human lifetime (as measured on the spaceship).
+
+There are at least two major problems.
+
+First, after we determine the appropriate planet of a remote solar system, there is the challenge of how to generate the enormous amount of energy required for this high-speed trip. ¹ Second, even if the trip takes only a few spaceship months, it will take millions of Earth years to complete.
+
+So if the travelers forget something and go back, they will have aged a year or two, but the civilization that sent them will have long vanished. The memory of the colonizing effort will probably be gone. The spaceship travelers will be strangers in a strange land. (To see why this is so, consult Figure (9.2.1), or the resolution of the Twin Paradox at (1.11.3), (1.11.4), pg. 31, and (12.3), pg. 158.)
+
+¹ The question of how the human race might best survive in the long run was raised by Hawking on the Internet when the people at Yahoo! invited Hawking, as one of ten celebrities, to submit a question online at answer.yahoo.com. This was part of their “Ask the Planet” campaign. Hundreds of replies were submitted although Hawking claimed to have “known the answer” in advance.
+
+(9.4) Exercises (9.4.1) Computing E Time Ratio Exercise Using times from vectors 1 and 2 in E coordinates of Table (9.2.1a), show that the ratio of (9.3.1a) is greater than 1.
+
+(9.4.2) Computing S Time Ratio Exercise Using times from vectors 3 and 4 in S coordinates of Table (9.2.1a), show that the ratio of (9.3.1a) is greater than 2.
+
+(10) The Length-Time Comparison Paradoxes (10.1) An Overview of the Paradoxes (10.1.1) We have two inertial reference frames, A and B, with respective observers A and B that are at rest. Observer A sees Observer B move with speed v and B sees A move with speed v. Both A and B have identical clocks and rulers. Then the first results, (1.7.2a) and (1.7.2b), along with the illustrations of (1.10.4a) and (1.10.4b) lead to the following observations: • Both moving clocks run slow. Each observer (on the platform, or in the railway car) sees the other’s moving clock run slower than his/her own clock.
+
+• Both moving rulers shrink. Each observer sees the other’s moving ruler as shorter than his/her own ruler.
+
+(10.1.2) FIGURE: Synchronized Parallel Rods The rod (ruler) in inertial frame B has positive rightward speed v relative to frame A. The rod in inertial frame A has negative leftward speed −v relative to frame B. The frames A and B are synchronized in the sense of (3.4.5), pg. 61.
+
+(10.1.3) Question: How can both bullet statements of (10.1.1) be true? Answer: They can not. However, if we replace “Each observer” with “A pair of observers in each frame,” then, as we shall see in Theorem (10.2.1), there is no inconsistency. For example, from (stationary) frame A, we declare the length of a moving rod that lives in (moving) frame B, to be the A distance between two (stationary) observers in frame A who simultaneously stand at the positions of the head and the tail of the moving rod. (Also see Figures (2.4.2) and (2.4.3), pg. 51.)
+
+Since frames A and B are synchronized (3.4.5), pg. 61, we enlist the aid of two other cohort members, one in each frame so that we can measure (10.1.4) (a) the ticking rate of the moving clock, (b) the speed of the rod in the other moving frame (see (2.4.2), pg. 51), and (c) the length of the rod in the other moving frame (see (2.4.3)).
+
+Specifically, choose any two arbitrary times t_A > 0 in A and t_B > 0 in B. Then, in each frame, choose the (stationary) cohorts with the following coordinates: [ \begin{array}{c} x_A \\ t_A \\ \end{array} ]_A = [ \begin{array}{c} 0 \\ t_A \\ \end{array} ]_A, [ \begin{array}{c} x_A \\ t_A \\ \end{array} ]_A = [ \begin{array}{c} d \\ t_A \\ \end{array} ]_A in A and [ \begin{array}{c} x_B \\ t_B \\ \end{array} ]_B = [ \begin{array}{c} 0 \\ t_B \\ \end{array} ]_B, [ \begin{array}{c} x_B \\ t_B \\ \end{array} ]_B = [ \begin{array}{c} d \\ t_B \\ \end{array} ]_B in B who, through their respective line-of-sight corridors, observe the end-points of the moving rods—the end-points are marked 0 and d. The two cohorts are depicted in Figure (2.4.3). Moreover, the as yet unknown distances between the two cohorts are d_A in A and d_B in frame B. (See Figures (10.1.5) and (10.1.10) where d_A is the length of B’s rod as measured in A, and similarly, d_B is the length of A’s rod as measured in B.)
+
+Frame B的速度为v。
+
+(a)
+
+x_d L_v ∗ [ A_t - A_A ]A = [ ? ]B ...................
+
+(b)
+
+x_0 L_A = v ∗ [ t_A ]A [ t_B ]B
+
+(10.1.6) 注意：列向量col[d, ?]出现在图(10.1.5)中，其中“?”表示杆在B中的尾部时间（即在x = d处）无需计算。
+
+(10.1.7) 以A为参考系计算(10.1.4)中的量。这些结果源于图(10.1.5)左侧面板中的向量方程。具体来说，方程(10.1.5)(b)的形式为： 1 1 v x_0 - A = σ_v [ -v/c^2 1 ] ∗ [ t_A ]A [ t_B ]B Lorentz矩阵 L_v 其中给出两个方程： x_A = v t_A (10.1.7a) x_A - v t_A = 0 这意味着 v = x_A / t_A (i) t_A - x_A/c^2 = σ_v t_B
+
+将(10.1.7a)中的 x_A = v t_A 代入方程(i)，得到： v^2 (10.1.7b) t_A (1 -  —— ) = σ_v t_B 这意味着 σ_v t_A = t_B 。
+
+c^2 | σ_v^2 |
+
+最后，方程(10.1.5)(a)的形式为： 1 1 v x_A - d - A - A = - 0 σ_v [ -v/c^2 1 ] ∗ [ t_A ]A [ ? ]B Lorentz矩阵 L_v 其中，通过等式左边和右边的顶部条目，得到单个方程： x_A - d_A = v t_A - σ_v d_0 将(10.1.7a)中的 x_A = v t_A 代入上式，得到： (10.1.7c) d_A = σ_v d_0 。
+
+(10.1.8) 当参考系A固定时，(10.1.7a)、(10.1.7b)和(10.1.7c)中带框的方程分别回答了(10.1.4)(a)、(10.1.4)(b)和(10.1.4)(c)的问题。也就是说，从参考系A测量，B的速度为v，B中的时钟以仅为A中所有时钟速率的σ_v倍的速率滴答（σ_v t_A = t_B），并且在静止参考系A中测量的运动杆的长度d_A是静止长度d_0的σ_v倍（d_A = σ_v d_0）。这不是视觉错觉。从参考系A测量，运动参考系B中的杆长为σ_v d_0，短于其静止长度d_0。
+
+(10.1.9) 注意：图(10.1.5)及后续分析中的时间值t_A和t_B，不一定等于图(10.1.10)及后续分析中的t_A和t_B的值。
+
+(10.1.10) 图示：A中的视线坐标，其中参考系B固定，A相对于B的速度为 -v。
+
+(a)
+
+x_d L_{-v} ∗ [ B_t - B_B ]B = [ A ]A ...................
+
+(b)
+
+x_d L_B = 0 L_{-v} ∗ [ t_B ]A [ ? ]A
+
+(10.1.11) 注意：同注释(10.1.6)，图(10.1.10)中的列向量col[d, ?]包含符号“?”，因为杆在A中的尾部时间（即在x = d处）无需计算。
+
+(10.1.12) 当B固定时计算(10.1.4)中的量。这些结果源于图(10.1.10)左侧面板中的向量方程。具体来说，方程(10.1.5)(a)的形式为： 1 1 v x_B - d_B B - B = σ_{-v} [ v/c^2 1 ] ∗ [ t_B ]A [ t_A ]A Lorentz矩阵 L_{-v} 其中给出两个方程： (10.1.12a)
+
+(x_B - d_B) = v t_B x_B - d_B - v t_B = 0 这意味着 -v = (x_B - d_B)/t_B (ii) t_B + (x_B - d_B)/c^2 = σ_v t_A
+
+将(10.1.12a)中的 (x_B - d_B) = v t_B 代入方程(ii)，得到： v^2 (10.1.12b) t_B (1 +  —— ) = σ_v t_A 这意味着 σ_v t_B = t_A 。
+
+c^2 | σ_v^2 |
+
+最后，方程(10.1.10)(b)的形式为： 1 1 v x_B B = 0 σ_v [ v/c^2 1 ] ∗ [ t_B ]B [ * ]A Lorentz矩阵 L_{-v} 其中，通过等式左边和右边的顶部条目，得到单个方程： x_B + v t_B = σ_v d_0 将(10.1.12a)中的 x_B = d_B + v t_B 代入上式，得到： (10.1.12c) d_B = σ_v d_0 。
+
+(10.1.13) 当参考系B固定时，(10.1.12a)、(10.1.12b)和(10.1.12c)中带框的方程分别回答了(10.1.4)(a)、(10.1.4)(b)和(10.1.4)(c)的问题。也就是说，A的速度测量为 -v，运动参考系A中的时钟以仅为B中所有时钟速率的σ_v倍的速率滴答（σ_v t_B = t_A），并且在静止参考系B中测量的运动杆的长度d_B是静止长度d_0的σ_v倍（d_B = σ_v d_0）。再次，类似于(10.1.8)，这不是视觉错觉。从参考系B测量，运动参考系A中的杆长为σ_v d_0，短于其静止长度d_0。
+
+(10.2) 解决相互的长度-时间悖论
+
+基础已奠定，以下定理成立：
+
+(10.2.1)
+
+定理：相互的长度收缩与时间变慢： - 框架B相对于框架A以观测速度v运动（框架A相对于框架B的速度为-v）。
+
+- 惯性系A和B有静止长度为d_0的杆。
+
+- σ_v = √[1 - (v/c)^2]。
+
+那么 (10.2.1a) 每个参考系中的观测者测量对方运动时钟的滴答速率为本参考系时钟滴答速率的σ_v倍。
+
+(10.2.1b) 每个参考系中的观测者测量对方参考系中运动杆的长度为σ_v d_0。需要注意的是，只有沿运动方向的长度受到影响。垂直于运动方向的长度保持不变。
+
+(10.2.1a) 的证明根据(10.1.7b)：如果观测者跳入参考系A，看到参考系B具有相对速度v，那么B中的运动时钟的滴答速率是A中所有同步静止时钟速率的σ_v倍。
+
+根据(10.1.12b)：相反，如果观测者跳入参考系B，看到参考系A具有相对速度 -v，那么A中的运动时钟的滴答速率是B中所有同步静止时钟速率的σ_v倍。这证明了假设(10.2.1a)。
+
+(10.2.1b) 的证明根据(10.1.7c)：如果观测者跳入参考系A，看到参考系B具有相对速度v，那么B中静止长度为d_0的杆，从静止参考系A测量的长度为σ_v d_0。
+
+根据(10.1.12c)：相反，如果观测者跳入参考系B，看到参考系A具有相对速度 -v，那么A中静止长度为d_0的杆，从静止参考系B测量的长度为σ_v d_0。这证明了假设(10.2.1b)，定理证毕。
+
+(10.3) 总结 (10.3.1) 长度和时间比较悖论得到解决。第(10.1)节中误导性的问题暗示存在单一观测者测量运动杆的长度或运动时钟的滴答速率。这样就制造了矛盾的错觉。要测量运动杆的长度，每个（静止）参考系需要两个观测者。图(2.4.3)（第51页）表明没有不一致之处。要测量运动参考系的速度（虽然一个观测者可能足够），图(2.4.2)表明也可以使用两个已知距离的观测者来测量运动物体的速度。
+
+(10.4) 练习 (10.4.1) 定理(10.2.1)的修正证明。定理(10.2.1)使用了三个协同观测者来测量运动时钟较慢的滴答速率和运动杆的较短长度。证明这个定理时，在每个参考系中只使用两个协同观测者。
+
+提示：在当前证明中，每个参考系中有三个协同观测者。静止参考系中的原点观测者（观察运动杆的头部）由两个协同观测者加入，他们在稍后的任意时间观察运动杆的尾部和头部。为了减少协同观测者数量，让原点观测者承担观察运动杆尾部的协同观测者的角色。（减少人力的代价是，稍后对杆尾和杆头的观察不能在任意时间进行。）
+
+(10.4.2) 运动杆的相互收缩——运动时钟的变慢：条件(10.2.1a)和(10.2.1b)已使用惯性系的物理尺-钟模型证明。在本次练习中，使用洛伦兹变换和时空图(10.4.2a)来证明这些陈述（(10.2.1a)和(10.2.1b)）。
+
+(10.4.2a) 相互收缩定理(10.2.1)的时空图 L_v: A → B 因为框架B相对于框架A以速度v运动。L_{-v}: B → A 因为框架A相对于框架B以速度 -v 运动。
+
+提示：例如，我们证明在运动参考系A中静止长度为d_0的杆，在静止参考系B中测量长度为σ_v d_0。如图(10.4.2a)第二面板所示，参考系B静止，看到参考系A以速度 -v 运动。关注的点是： (10.4.2b) P~= B [ t_B ]B 起点在B (10.4.2c) P~ + [ αd_0 ]B = [ x_B + αd_0, t_B ]B 在B时间t_B距离P~为αd_0的点 P~ + [ ∆t ]B = [ x_B, t_B + ∆t ]B 在B中比P~晚∆t单位的点
+
+A的视线坐标分别为 L_{-v} ∗ P~ 和 L_{-v} ∗ (P~ + [ αd_0 ]B)（参见(7.1.3)）。向量差为： (10.4.2d) L_{-v} ∗ (P~) - L_{-v} ∗ (P~ + [ αd_0 ]B) = L_{-v} ∗ ( [ 0, -αd_0 ]^T ) = [ -αd_0/σ_v, αd_0 v/(σ_v c^2) ]^A
+
+解释：最终向量的顶项为 αd_0 / σ_v = d_0，因为d_0是A中运动杆头部和尾部之间的静止距离。因此，α = σ_v。在方程(10.4.2c)中用σ_v替换α，我们看到参考系B中视线通道之间的距离为 αd_0 = σ_v d_0。也就是说，A中运动杆的首尾距离在静止参考系B中测量仅为σ_v d_0。
+
+(11) 双生子悖论 (11.1) 悖论概述对图(11.3.1)的图形分析完全解决了双生子悖论（第(1.11)节），我们重述如下： (11.1.1) 在0年时，一个双胞胎离开地球，以0.8c的出站速度旅行。根据地球时钟，25年后，旅行的双胞胎立即登上返回的飞船，以0.8c的入站速度朝相反方向旅行。再过25年，或根据地球时钟50年时，旅行的双胞胎返回地球，迎接他50岁的兄弟。
+
+The twin while he, himself, is only 30 years old.
+
+(11.1.2) The Apparent Contradiction. There is a symmetry. During the journey, each twin "sees" the (moving) clock of the other twin run slower than his own (stationary) clock (see (1.7.2a)). Thus, the spaceship twin may conclude that the earthbound twin with the slower (moving) earthbound clock will be younger. Likewise, the earthbound twin may conclude that the spaceship twin with the slower (moving) spaceship clock will be younger when they meet. That each twin is simultaneously younger than the other is clearly not possible: Hence, the paradox.
+
+(11.2) A Simplifying Assumption
+
+(11.2.1) Special Relativity requires frames to have constant speeds relative to each other. Hence, when the traveling twin switches from the outgoing spaceship (at speed v) to the inbound spaceship (at speed v), we assume an instantaneous transfer that requires zero transfer time which we denote ∆t = 0.
+
+However, in (11.5), we apply Einstein’s Theory of General Relativity to analyze the non-zero time of transfer ∆t > 0. When ∆t → 0, then we see that both special relativity and general relativity predict that the transferring twin measures a 32-year forward jump into the future of the Earth clock’s readings as he passes from the outbound spaceship to the inbound spaceship. (Computations for the general relativity confirmation will be found in (11.5).)
+
+(Note: Instantaneous speed change was also assumed in Figure (1.11.2c) of the twin paradox.)
+
+(11.3) Setup for the Minkowski Diagram
+
+(11.3.1) FIGURE: Three Frames of Reference for the Twin Paradox
+
+(11.4) Resolving the Twin Paradox
+
+(11.4.1) To fix ideas, \vec{F}(\vec{r}) = \nabla \Phi(\vec{r})
+
+Finally, Newton's classic relation between force and acceleration on mass \(m\) at a point \(\vec{r}\) is given by \[ \vec{F}(\vec{r}) = m \vec{a}(\vec{r}). \tag{11.5.1d} \]
+
+(11.5.2) Another result from GR is that clocks slow down in a region where gravitational effects are strongest. (Equivalently, clocks speed up as they pass to weaker regions of gravitational effects. It is this interpretation that is used in (24.5.3), pg. 347, in the discussion of clocks aboard GPS satellites).
+
+Quantitatively, if an observer at position \(\vec{r}_1\) where the gravitational potential is \(\Phi(\vec{r}_1)\) finds that an event occurs over a time interval \(\Delta t(\vec{r}_1)\), and another observer at a different position \(\vec{r}_2\) where the gravitational potential is \(\Phi(\vec{r}_2)\) finds the same event occurs over a time interval \(\Delta t(\vec{r}_2)\), then \[ \Delta t(\vec{r}_1) = \left(1 + \frac{\Phi(\vec{r}_1) - \Phi(\vec{r}_2)}{c^2}\right) \Delta t(\vec{r}_2). \tag{11.5.2a} \]
+
+At point \(\vec{r}\), a final relation between force \(\vec{F}(\vec{r})\) on a mass \(m\) due to acceleration \(\vec{a}(\vec{r})\) is given by Newton's classic formula (11.5.1d).
+
+NOTE: Although these equations can be derived in a straightforward manner, doing so would take us too far afield.
+
+The time has come to see how these equations justify the 32-year jump (11.4.3c) in the Twin Paradox.
+
+(11.5.3) FIGURE: Transition of Traveling Twin After 25 Earth Years The one-dimensional X-axis contains Earth, considered as a point at \(x=x_E\), the straight-line paths of the outbound and inbound spaceships and the jump point \(x = x_S\) where the traveling twin changes from outbound Spaceship B to inbound Spaceship C. As the twin jumps from one spaceship to the other at \(x=x_S\), the change in time on the spaceship clocks is \(\Delta t(x_S)\) while the time change on Earth clocks is \(\Delta t(x_E)\). (These time changes are related in (11.5.2a).) See Figure (1.3.2), pg. 13.
+
+(11.5.4) NOTATION: As shown in Figure (11.5.3), all vectors belong to the 1-dimensional X-axis. Hence, we eliminate vector notation for force, velocity, acceleration, and position. Hence, we write \(v\) instead of \(\vec{v}\) for velocity vectors, \(a\) instead of \(\vec{a}\) for acceleration, and we write \(x\) instead of \(\vec{r}\) for position vectors.
+
+Our goal is to find \(\Delta t(x_E)\), the change in Earth time during the small, almost instantaneous, time interval \(\Delta t(x_S) \rightarrow 0\) of the jump of the traveling twin from outbound Spaceship B to inbound Spaceship C.
+
+Suppose the jump from the outbound to the inbound spaceship occurs at an arbitrary point \(x\) over spaceship time \(\Delta t(x)\). During this (short) transfer time, the speed of the traveling twin changes from constant \(+v\) (outbound) to constant \(-v\) (inbound), which is a total change of \(\Delta v = -2v\). Since the acceleration \(a\) is the change in velocity per unit time, we have \[ \begin{align*} \frac{-2v}{\Delta t(x)} &= a \quad v \text{ constant} \Rightarrow a \text{ constant} \\ &= \frac{F(x)}{m} \quad \text{solve for } a \text{ in (11.5.1d)} \\ &= \text{grad}(\Phi(x)) \quad \text{solve for } F/m \text{ in (11.5.1c)} \\ &= \Phi^0(x). \quad \text{from (11.5.1b)} \end{align*} \]
+
+Since \(\frac{-2v}{\Delta t(x)} = a\) is constant for all points \(x\), we set the jump point in the first term of (11.5.4a) at \(x = x_S\). We then compute the definite integral of the (equal) first and last terms of Equation (11.5.4a), taking the limits from \(x=x_E\) to \(x=x_S\), to obtain \[ \int_{x_E}^{x_S} \frac{-2(v/\Delta t(x_S))}{\text{...}} dx = \int_{x_E}^{x_S} \Phi^0(x) dx, \]
+
+which computes to be \[ \frac{-2v}{\Delta t(x_S)} (x_S - x_E) = \Phi(x_S) - \Phi(x_E). \tag{11.5.4b} \]
+
+Finally, in Equation (11.5.2a), set \(\vec{r}_1 = x_E\) and \(\vec{r}_2 = x_S\). Now replace the term \(\Phi(x_S) - \Phi(x_E)\) of (11.5.2a) with the left hand side of (11.5.4b) above so that (11.5.2a) takes the form \[ \Delta t(x_E) = \left(1 + \frac{\frac{-2v(x_S - x_E)}{\Delta t(x_S)}}{c^2}\right) \Delta t(x_S).
+
+\]
+
+Since the 25-year journey of the spaceship at speed \(v = 0.8c\) covers a distance \((x_S - x_E) = v \cdot 25 \text{ years}\), the equation above takes the form \[ \begin{align*} \Delta t(x_E) &= \Delta t(x_S) + \frac{50 \text{ years}}{c^2} v^2 \\ &= \Delta t(x_S) + 32 \text{ years} \quad \text{since } v=0.8c \\ &\approx 32 \text{ years, as } \Delta t(x_S) \rightarrow 0.
+
+\end{align*} \]
+
+(11.6) Exercises
+
+(11.6.1) Actual clock time of inbound spaceship. We know that the outbound spaceship in B traveling at constant speed \(v = 0.8c\) relative to Earth will have an onboard clock time of 15 years when it arrives at point 5 of Figure (11.3.1). At this moment, the Earth clock (simultaneously) reads 25 years.
+
+Question: What is the clock time on board the inbound spaceship in C when it arrives at the same point 5? (This is the clock that will be reset to read “15 yrs.” by the twin who transfers from the outbound spaceship.)
+
+Hint: Background. The clocks of origin observers at \(x = 0, t = 0\) for the three frames, A (Earth), B (outbound spaceship), and C (inbound spaceship), are synchronized as per Definition (3.4.5a). The earthbound twin and the departing outbound spaceship are Origin Observers, so their clocks are synchronized. But the inbound spaceship is a cohort, not the Origin Observer in A.
+
+Analysis. At point 5, the A \([x,t]\) coordinates are \([v \times 25\text{yrs.}, 25\text{yrs.}]\). Use the Lorentz transformation, \(L_{-v}\), to link these coordinates to \([x'', t'']''\), the distance-time coordinates in C. That is, \[ [v \times 25, 25] L_{-v} [x'', t'']'', \]
+
+in which case, \(t'' = (1+v^2)25/\sigma_v\).
+
+(11.6.2) Generalizing Exercise (11.6.1). In Exercise (11.6.1), replace speed \(0.8c\) with an arbitrary speed \(v < c\). Let the two spaceships meet when the earthbound twin is \(t_0\) years old. Then, in Figure (11.3.1), the simultaneous line-of-sight times at point 5 for the three frames are: In A on Earth, \(t=t_0\).
+
+In B on the outbound spaceship, \(t=\sigma_v t_0\).
+
+In C on the inbound spaceship, \(t=(1+v^2)t_0 \sigma_v\).
+
+(11.6.3) Congruent Symmetric Triangles. Show that in Figure (11.3.1), triangles 5-3-4 and 5-1-0 are congruent.
+
+Hint: (1) As Figure (11.3.1) indicates, \(\angle 1\text{-}0\text{-}5 = \angle 3\text{-}4\text{-}5 = \theta\).
+
+(2) From Theorem (8.4.1), lines of simultaneity, line 5-3, and line 5-1 form angle \(\theta\) with the horizontal. Hence, \(\angle 1\text{-}5\text{-}0 = \angle 3\text{-}5\text{-}4 = (90^o - 2\theta)\).
+
+(3) From the Angle-Side-Angle theorem, \(\triangle 1\text{-}5\text{-}0\) and \(\triangle 3\text{-}5\text{-}4\) are congruent to each other since they share a common side length (length[5-4]=length[5-0]=15), and two common angles as described in (2) above.
+
+(4) Congruency tells us that length(0-1) = length(4-3) = 9. If 3 is 9 units from the 50-year mark 4 in A time, then 3 must be at the 41-year mark in A.
+
+(11.6.4) Slow-Fast-Slow Analysis. Assume at age 0, one twin instantly travels into space at constant speed \(v\) and after \(t_0\) years on the outbound leg, as measured by Earth’s clock, travels the inbound leg for \(t_0\) more years before returning to Earth. Generalize Figure (11.3.1) to show that for any speed \(v = \tan\theta\), the traveling twin, after a round trip requiring \(2 t_0\) years according to an Earth clock, will always return at age \(2 \sigma_v t_0\) years. (see (1.8.2) for the definition of \(\sigma_v\).)
+
+Hint: Analytically, use the Lorentz transformation to link line-of-sight times at points 0 through 5 between appropriate pairs of frames. Alternately, use trigonometry on the triangles in the diagram to obtain lengths that are interpreted as times on the clocks of frames A, B, and C.
+
+(12) The Train-Tunnel Paradox
+
+(12.1) An Overview of the Paradox
+
+(12.1.1) FIGURE: Static Train and Tunnel are of Equal Length.
+
+The common at-rest length of the tunnel in frame A and the train in frame B is \(d_0\).
+
+In A, the origin \(x=0\) is at the left entrance of the tunnel — \(x=d_0\) marks the right entrance.
+
+In B, \(x=0\) is at the right end (the front) of the train — \(x = -d_0\) marks the left end (the rear) of the train.
+
+We will use the fact that objects moving with relative speed \(v\) shrink in the direction of motion by a factor of \(\sigma_v\) (1.8.2), pg. 20.
+
+(12.1.2) FIGURE: Train in Motion Shrinks, Tunnel is Stationary.
+
+The frame B of the train has speed \(v\) relative to the stationary frame A of the tunnel.
+
+As measured in the tunnel’s frame A, the train has reduced length \(\sigma_v d_0\). When the (short) train is midway through the tunnel, two bolts of lightning simultaneously strike the ends of the tunnel. Since the train is well inside the tunnel, as observed from A, the train is spared any damage from the simultaneous lightning strikes.
+
+(12.1.3) FIGURE: Tunnel in Motion Shrinks, Train is Stationary.
+
+The frame A of the tunnel has speed \(v\) relative to the stationary frame B of train.
+
+As measured in the train’s frame B, the tunnel has reduced length \(\sigma_v d_0\). When the midpoints of the moving tunnel and stationary train are aligned (overlap), the short tunnel leaves the ends of the train exposed outside the tunnel entrances. If the two bolts of lightning simultaneously strike the ends of the tunnel, then the (too-long) train is not spared electrocution by the simultaneous lightning strikes.
+
+(12.1.4)
+
+The Paradox: The concluding statements of (12.1.2) and (12.1.3) contradict each other. Is the train electrocuted or is it not?
+
+The Resolution: The lightning strikes that are simultaneously viewed from the tunnel’s frame A (12.1.2) are not simultaneous when viewed from the train’s frame B. In the final sentence of (12.1.3), there is an invalid use of the adjective “simultaneous.”.
+
+(12.2) A Distance Lemma
+
+(12.2.1) The Minkowski diagram (12.2.2) following, shows two lengths \(d_A\) and \(d_B\) which are, apparently, unequal — the horizontal line \(P'Q'\) (measured in A with length \(d_A\)) seems to be shorter the slanted line \(PQ\) (measured in B with length \(d_B\)). Lemma (12.2.2) shows us that in spite of their apparent inequality on the graph, the actual at-rest distances (or lengths) measured within their respective frames are, in fact, equal to each other, that is, \(d_A = d_B\).
+
+(12.2.2) THEOREM: Equal Distances \(d\) for Frames A and B Given: The Minkowski diagram for the inertial frame A has orthogonal spacetime axes \(X_A\) and \(T_A\). The synchronized frame B has speed \(v\) relative to A so its time axis \(T_B\) has slope \(1/v\) and forms an angle \(\theta\) with the \(T_A\) axis, where \(\tan\theta = v\).
+
+角θ与竖直T轴的夹角满足tan(θ) = v。
+
+选择任意时间 t > 0，这定义了距离 d = vt。
+
+0  0
+
+构造 (12.2.2a) 双曲线 t² = t₀² - (x/c)²。
+
+(12.2.2b) 点 P 和点 Q 在双曲线 (12.2.2a) 上，分别位于框架 A 和 B 的 T 轴与各自空间轴的交点。
+
+(12.2.2c) 双曲线 (12.2.2a) 在点 P 和点 Q 处的切线 Tangent(P) 和 Tangent(Q)。
+
+(12.2.2d) 点 P₀ 为切线 Tangent(P) 与 T 轴的交点， 以及点 Q₀ 为切线 Tangent(Q) 与 T 轴的交点。
+
+则 (12.2.2e) PQ₀ 的长度 d 是线段 PQ₀ 在 A 坐标中的长度 (A.2.18)， (12.2.2f) P₀Q 的长度 d 是线段 P₀Q 在 B 坐标中的长度 (A.2.18)， (12.2.2g) 闵可夫斯基图 (12.2.2) 中的 X 轴和 X 轴分别平行于线段 PQ₀ 和 P₀Q。
+
+证明： 双曲线 (12.2.2a) 的重要性。时间戳原点定理 (8.2.3) 告诉我们，双曲线 [x, t] 在 A 框架中的所有点（其中 t² = t₀² - (x/c)²）都位于视线走廊的 A 端。在每条视线走廊的另一端，是速度为 v 的框架 v 的时间戳原点 [0, t₀]，它相对于 A 的速度为 v，其中 -∞ < v < ∞。
+
+点 P 和点 Q 的坐标 (12.2.2b)。在我们的情况下，点 P 和点 Q (12.2.2b) 的 T 轴与原点双曲线 (12.2.2a) 相交，其本征坐标为 (12.2.2h) P = [t₀, 0] 在 A 中，以及 Q = [t₀, 0] 在 B 中。
+
+时间 t₀ 的重要性。框架 A 和 B 的同步性 (3.4.5) 表明，在各自框架的 t=0 时刻，它们的原点重合（或距离为零），即 [0,0] 和 [0,0] 位于视线走廊的两端（参见定理 (12.2.2) 的图示）。
+
+对称性原理 (1.6.1) 表明，随着时间的增加，原点在各自框架中以相同的速率 v 彼此远离。
+
+(12.2.2i) 因此，在框架 A 和 B 的共同时间 t₀，原点（即闵可夫斯基图上的 T 轴和 T 轴）之间的距离为通常的欧几里得距离 d = vt₀。
+
+所以，点 P' 和 Q' 的坐标 (12.2.2b) 具有形式 (12.2.2j) P₀ = [t₀, -d₀] 在 A 中，以及 Q₀ = [t₀, d₀] 在 B 中。
+
+使用定义 (A.2.18a)，第 366 页，用于计算框架 A 和 B 中通常的向量长度，我们计算在时间 t₀ 时框架 A 和 B 原点之间的欧几里得距离如下： ||PQ₀|| = ||P - Q₀|| = ||[t₀, 0]_A - [t₀, d₀]_A|| = √((0 - d₀)² + (t₀ - t₀)²) = d₀。
+
+同样地，计算在时间 t₀ 时框架 A 原点和框架 B 原点之间的距离（在 B 中观察）： ||P₀Q|| = ||P₀ - Q|| = ||[t₀, -d₀]_B - [t₀, 0]_B|| = √((-d₀ - 0)² + (t₀ - t₀)²) = d₀。
+
+前两个等式链证明了 (12.2.2e) 和 (12.2.2f)。
+
+最后，(12.2.2g) 成立，因为根据 (4.4.1a)，第 73 页，和 (4.4.3)，第 73 页，所有具有固定时间 t₀ 的事件线——即同时事件线——实际上（是其子集）是各自框架在时间 t₀ 的 X 轴。证明完成。
+
+(12.3) 火车隧道的闵可夫斯基图
+
+说明图 (12.1.2) 和 (12.1.3) 相对运动的单个闵可夫斯基图将基于图 (12.2.2)，第 155 页（右侧重复）。
+
+该图显示了一对原点在从共同坐标 [0, 0] 的视线重叠（同步）分离后，以相对速度 v 运动的世界线。在任一框架的时间 t₀，原点的分离被测量为 d = vt₀。这使我们能够将水平线段 PQ₀（长度为 d₀）识别为隧道，将倾斜线段 P₀Q（长度为 d₀）识别为火车。
+
+(12.3.2) 注意：为什么图 (12.2.2) 中有两个 d₀ 长度？
+
+类似于图 (8.2.3)，第 120 页，其中时间轴的尺度从一个框架到另一个框架发生变化，在图 (12.3.1) 中，长度 d₀ 的尺度也从框架 A 到 B 发生变化。这就是为什么 B 中的倾斜 d₀ 看起来比 A 中的水平 d₀ 长。
+
+基于图 (12.3.1) 的闵可夫斯基图 (12.3.3) 如下。例如，来自图 (12.3.1) 的两个原点的世界线——A 中隧道的左侧入口和 B 中火车的右侧前端——被转移到图 (12.3.3) 作为垂直线 (1) 和倾斜线 (3)。图 (12.3.3) 的构造继续如下： 对于 A 中隧道地板的每一个点 0 < x ≤ d₀，添加其垂直世界线，创建一个垂直（绿色）带，表示隧道的所有可能时空坐标。该垂直带的左边界和右边界分别由 (1) 和 (2) 表示。
+
+对于 B 中火车的每一个点 -d₀ ≤ x < 0，添加其垂直世界线，创建一个倾斜（灰色）带，表示火车的所有可能时空坐标。该倾斜带的左边界和右边界分别由 (4) 和 (3) 表示。
+
+(12.3.3) 图示：火车在隧道中的悖论的闵可夫斯基图： 注意：根据定理 (8.4.1)，框架 A 中的同时性水平线也具有 (v/c²) 形式的斜率。在我们的情况下，框架 A 相对于自身的相对速度为零。
+
+(12.4) 解释相互收缩
+
+火车在隧道中的悖论解决了一对闪电击中的明显时间异常。还存在一个明显的距离异常问题，即当火车比隧道短时（图 (12.1.2)），同时隧道比火车短时（图 (12.1.3)）。
+
+(12.4.1) 问题：如何两者在同时为真？
+
+(12.4.2) 图 (12.3.3) 显示： 隧道框架 A 中的同时性总是沿着一条像 PQ₀ 这样的单一线段，该线段在图 (12.3.3) 中是水平的。因此，从框架 A 来看，B 中的火车必须沿着一条水平线观察，该线与火车的倾斜时空坐标带相交。注意，水平线 PQ₀ 与倾斜带（在世界线 (4) 和 (3) 之间）相交的部分比隧道的宽度（世界线 (1) 和 (2) 之间的水平距离）短。也就是说， • 从隧道框架 A 看，B 中运动的火车比隧道宽度短。
+
+火车框架 B 中的同时性总是沿着一条像 PQ₀ 这样的单一线段，该线段在图 (12.3.3) 中具有斜率 (v/c²)。因此，隧道（在 A 中）必须沿着倾斜线 P₀Q 观察，该线是火车在其本征框架 B 中的长度。从这个视角（从 B 看），火车延伸超出绿色带——火车比隧道长。
+
+• 从火车框架 B 看，A 中运动的隧道比火车长度短。
+
+(12.5) 解决火车隧道悖论
+
+(12.5.1) 图示：在 A 框架时间 t 的两次同时闪电击中
+
+垂直阴影带在标签“隧道（左）”和“隧道（右）”之间，代表框架 A 中隧道在所有时刻的所有点。
+
+倾斜阴影带在标签“火车（后部）”和“火车（前部）”之间，代表框架 B 中火车在所有时刻的所有点。
+
+A 中静止隧道的同时性由任何单条水平线上的事件表示。A 中显示了三条这样的线，对应时间 t₀ < t₁ < t₂。同时的闪电击中发生在时间 t₁。
+
+这与图 (12.1.2) 一致。
+
+B 中静止火车的同时性由任何单条具有斜率 (v/c²) 的倾斜线上的事件表示。B 中显示了两条这样的线，对应时间 t'₀ < t'₁。两次顺序的闪电击中（在时间 t₁ 时在 A 中同时发生）在 B 中首先发生在时间 t'₀，然后在时间 t'₁ 发生。
+
+这与图 (12.1.3) 不一致，后者错误地显示了两次闪电击中在火车框架 B 中同时发生。
+
+(12.5.2) 在图 (12.1.3) 中，闪电击中是顺序发生的。如图 (12.5.1) 所示： • 在时间 t'₀，火车的所有点都位于倾斜的 t'₀ 线上。火车前端已进入隧道，而后端仍在隧道外。在倾斜的 t'₀ 线上直行，第一次闪电击中发生在隧道的右入口。
+
+• 后来，在时间 t'₁，火车的所有点都位于倾斜的 t'₁ 线上。火车前端已从隧道右侧驶出，而后端已通过隧道左入口。在倾斜的 t'₁ 线上火车后方，第二次闪电击中发生在隧道的左入口。
+
+(12.6) 练习
+
+(12.6.1)
+
+移动火车收缩 σ_v 倍：在图 (12.3.3) 中，证明在 A 坐标中，水平线段 PQ₀ 与倾斜带的交集长度为 σ_v d₀。
+
+提示：PQ₀ 的 A 坐标形式为 [x, t₀]_A，其中 0 ≤ x ≤ d₀。世界线 (4)（隧道的左入口）的 B 坐标形式为 [-d₀, t]_B，其中 -∞ < t < ∞。
+
+使用洛伦兹变换 L_v : A → B (7.1.3) 找到 PQ₀ 和世界线 (4) 的交点 [x̂, t₀]_A，并证明 x̂ = (1 - σ_v)d₀，这表明 PQ₀ 与火车点倾斜带的交集长度为 σ_v d₀。
+
+计算如下： 方程 L_v([x̂, t₀]_A) = [-d₀, t]_B 产生两个方程。消去变量 t 并解出 x̂ = (1 - σ_v)d₀。
+
+(12.6.2)
+
+移动隧道收缩 σ_v 倍：在图 (12.3.3) 中，证明在 B 坐标中，倾斜线 P₀Q 与垂直带的交集长度为 σ_v d₀。
+
+提示：参见练习 (12.6.1) 的提示。
+
+(12.6.3)
+
+世界线 (3) 上的移动原点时钟变慢 σ_v 倍：证明...
+
+hat in Figure (12.3.3), the origin clock (3.4.3) whose worldline coincides with worldline (3), moving at speed v relative to frame A slows down by a factor of σ_v.
+
+Hint: Let us use the notation Clock 3 to denote the origin clock of B whose coordinates coincide with worldline (3). Then the origin clocks of A and B (Clock 3) are synchronized at common time t = 0. At point Q_0 = [d_F, t_A], clocks in A read time t = t_A. Use the Lorentz transformation to read the origin clock Clock 3 at the other end — the B end—of the line-of-sight corridor. That reading will be σ_v t_0.
+
+(12.6.4) A Moving Origin Clock on Worldline (1) Slows by a Factor of σ_1: Show that in Figure (12.3.3), the origin clock (3.4.3) whose worldline coincides with worldline (1), moving at speed v relative to frame B slows down by a factor of σ_1.
+
+Hint: See the hint in Exercise (12.6.3).
+
+(13) The Pea-Shooter Paradox
+
+(13.1) An Overview of the Paradox
+
+Restatement of the pea-shooter paradox (1.13): You observe an airplane traveling away from you at speed w while the plane launches a spaceship (in the same direction of the plane) whose instantaneous speed, as measured by the pilot, is v. Your intuition and experience should tell you that you would measure the spaceship speed to be v + w. In fact, the actual spaceship speed is the theoretically accurate Lorentz sum, v ⊕ w (7.3.1), which, due to the low speeds involved, is practically indistinguishable from the usual arithmetic sum v+w for speeds v and w.
+
+Our powers of perception are inadequate to distinguish between Lorentzian addition v ⊕ w (which is valid for all speeds) and the imperceptibly larger quantity v+w we usually experience at small speeds. When the measured sum of v plus w for high values of v and w disagrees with the familiar formula v+w used for low values of v and w, we tend to throw up our hands and announce a paradox.
+
+A pea in frame C (13.1.1) has speed v = 0.8c as measured in frame B by the pea-shooter, Ashley. Ashley (and her platform) have speed w=0.9c as measured in frame A by Bernie. Yet, Bernie does not see the pea moving with the speed we would expect from our experience. Figure (1.13.2b), page 37
+
+Galilean/Newtonian addition of speeds tells us that
+
+(13.1.1a) v+w=0.8c+0.9c=1.7c. classical Galilean addition
+
+Formula (13.1.1a) was justified in (5.5.2) using matrices, and in (5.6.3), using triangles whose areas correspond to speeds.
+
+(13.1.2) Pea-Shooter Paradox Already Resolved. Due to the relativistic constraint that no material object can have a speed greater than the speed of light, c = 1, a rule different from (13.1.1a) must apply — this general rule turns out to be the Lorentzian addition
+
+(13.1.2a) v ⊕ w = (v + w) / (1 + vw), {−1 < v, w < 1 implies v ⊕ w < 1}
+
+that has already been defined in (7.3.1). Formula (13.1.2a) for relativistic addition was justified in (7.4.1) using matrices.
+
+Similar to the Galilean case (5.6.3), we established the rule for Lorentzian addition in (13.1.2a) using triangles whose areas are closely related to relative speeds.
+
+(13.2) The Fizeau Experiment: Adding Speeds
+
+The experiment of Fizeau offered early verification of (13.1.2a), the relativistic formula for the addition of speeds. Here are the details:
+
+The Democratization of Light
+
+(13.2.1) Wave Speed Is Not Affected by Speed of the Wave Source. Suppose a transmitting medium (e.g., air) is stationary relative to an observer — there is no wind. Then any wave (e.g., the sound of a train whistle) that is transmitted in that medium will have the same observed speed at all points along the line of motion even if its source (e.g., the train) is in motion relative to the observer. This is seen from the “skipping stone” model of Figure (16.5.4). Although the source speed does not affect the wave speed, it does affect the measured frequency, the Doppler effect that produces a higher pitch for an approaching train and a lower pitch when the train recedes (see Section (16.6)).
+
+(13.2.2) Wave Speed Is Affected by Speed of the Medium. As seen in (16.5.5), the observed speed of the transmitting medium (e.g., wind speed) is communicated to the speed of the transmitted wave (e.g., sound of a train whistle).
+
+(13.2.2a) Since light needs no transmitting medium, the speed of light in a vacuum is a constant c for all observers, whether they are in motion or not (1.5.2b).
+
+(13.2.2b) However, when light is transmitted through a medium, it is subject to the physics of (13.2.2) (this is the democratization of light), in which case, the speed of light is reduced to
+
+(13.2.2c) v = c/n, where n>1 is the unitless Refractive Index of the medium.
+
+n = {Air 1.0002926, Diamond 2.417, Water 1.33}
+
+(13.2.3) The Refractive Indices Are Approximate since their values depend on the frequency of the transmitted light and the temperature of the transmitting medium. Consequently, the wave speed v = c/n (13.2.2c) relative to the stationary medium is approximately equal to c/1.33 ≈ 140,000 miles/second.
+
+Due to (16.5.5), pg. 211, the observed speed of light in moving water is greater than (less than) c/1.33 if the water flow is in the same (opposite) direction of the light.
+
+The Setup for Fizeau’s Experiment
+
+(13.2.4) To describe how Fizeau designed his experiment for measuring the pea-shooter effect, or the addition of speeds (1.13.2), we must define the reference frames for the observer, the water, and the impeded light beam traveling in water.
+
+(13.2.5) F_A is the frame of the observer (experimenter), which is analogous to Bernie’s frame A in the figure of (13.1.1).
+
+• F_B is the frame of the transporting water which has speed w relative to frame A. This is analogous to frame B in (13.1.1), the frame of the transporting wagon. From (3.4.2), the water has zero speed relative to its own frame B.
+
+(13.2.6) How Fizeau Measures Addition of Speeds A single lightbeam enters a splitter and exits as two identical beams that are directed to parallel tubes (i) and (ii). At the entry point of the tubes, the two beams are in phase. From the experimenter’s viewpoint, water in tube (ii) has speed w (moving leftward) and diminishes the speed of the opposing light beam. Similarly, water in tube (i) has speed +w (moving rightward) and adds to the speed of the light beam. This difference of speeds implies that at the exit point of the tubes, the light beams are out of phase as is seen by the interference patterns of their waves.
+
+(13.2.6a) Observed Speeds of Light in the Tubes. The speed of light relative to stationary water is v = c/1.33.
+
+As light travels in tube (i) in the same direction as the water, its observed speed is v_fast > v = c/1.33.
+
+As light travels in tube (ii) against the direction of the water, its observed speed is v_slow < v = c/1.33.
+
+(13.2.6b) Therefore, there are different numbers of wavelengths in each tube. In Fizeau’s experiment, it is observed that frequency of the light in each tube is unchanged. Such constant frequency tells us that a slower speed of the transmitted light (upper tube (ii)) implies a shorter wavelength and a faster speed for the transmitted light (lower tube (i)) implies a longer wavelength (see Figure (13.2.6) and Definition (16.1.2)).
+
+(13.2.6c) To see intuitively that increased wave speed implies increased wavelength, imagine a moving train (one wavelength) whose front and back ends must pass a fixed point on the platform exactly one second apart. The faster the speed of the train, the longer it must take to meet the one-second requirement.
+
+To see this analytically, note that the formula v = λ * frequency (16.1.2) shows that wave speed v and wavelength λ are proportional.
+
+At any instant of time, the different wave speeds in the parallel tubes produce a different number of standing wavelengths (or cycles) as shown in Figure (13.2.6).
+
+Because of the different speeds, the crests and troughs of the two light beams are not aligned when they exit the water-filled tubes. When they recombine, there are regions where they enhance each other and other regions where they cancel each other. The result is a pattern of light and dark fringes that changes as the speed w changes.
+
+(13.2.7) Speeds of Light in Water. Since the speed of light relative to standing water is c/1.33, water traveling in the same direction at observed speed w adds to the speed of transmitted light (16.5.5).
+
+Non-relativistic Galilean physics holds that the augmented speed is (13.2.7a) v_fast = c/1.33 + w. Galilean addition of speeds Formula (13.2.7a) is not valid! What is observed instead is (13.2.7b) v_fast = c/1.33 + f * w. observed (true) addition of speeds where f is the unitless Fresnel Coefficient of Drag, so-called for historical reasons.
+
+Data obtained using different liquids gives the following relation between n, the Fresnel refractive index of (13.2.2c), and f, the Fresnel drag of (13.2.7b): (13.2.7c) f = 1 - 1/n^2. (If n ≈ 1.33 for water, then f ≈ 0.43.)
+
+This reasons for this empirical relation were not understood until Einstein provided the following theoretical basis:
+
+(13.2.8) Einstein’s Theoretical Basis. According to special relativity, if the speed of light with respect to the frame of reference where the medium (water) is at rest is c/n, and the speed of the medium with respect to the observer is w, then the speed of light with respect to the observer will be given by (13.2.8a) c/n ⊕ w = (c/n + w) / (1 + (c/n)w / c^2) = (c/n + w) / (1 + w/(n c)).
+
+Evaluating the Lorentzian sum above with w << c gives (c/n) + (1 - 1/n^2)w (see Exercise (13.3.2)). This prediction of the special theory then coincides precisely with the observations (13.2.7c)!
+
+(13.3) Exercises
+
+(13.3.1) Wave Interference. The symbols (m) and (m/s) indicate the units of meters and meters/second. Given the Fizeau apparatus (13.2.6) where the known quantities are: L(m) = tube length, λ(m) = 570 * 10^{-9} meters, the wavelength of yellow light in a vacuum, w(m/s) = observed water speed, v(m/s) = c/1.33 = 1/1.33 = the speed of light relative to stationary water.
+
+Suppose the tube length L and water speed w can be varied.
+
+e adjusted to respective values L and w such that wave interference is maximized, as shown in Figure (13.2.6). This occurs when maximum cancellation of the interfering waves occurs. With these known values of L and w, there is sufficient information to determine the observed speeds for light in the two tubes, v_fast in tube (i), and v_slow in tube (ii).
+
+Hints: From (16.1.2), we may set c(m/s)   1   1 φ_yellow = — = — , units λ(m)    λ   seconds as the frequency of yellow light where the speed of light c = 1. The value of frequency φ_yellow is constant — the color (frequency) does not change as light is observed in running water.
+
+Assuming the form (13.2.7b), write the speeds of light in the tube’s running water as v_fast = c/1.33 + fw for the speed of light in tube (i) and v_slow = c/1.33 - fw for the speed of light in tube (ii). The unknown constant f will be determined by our later calculations.
+
+From (16.1.2), the wave length λ_fast = v_fast * φ_yellow for the accelerated light beam in tube (i) and the wavelength λ_slow = v_slow * φ_yellow for the impeded light beam in tube (ii). Accordingly, the numbers of wavelengths of light in tubes (i) and (ii) respectively, are L   L   φ_yellow   L_0 * φ_yellow N_fast = _0 = ———————— = ——————————————, λ_fast   v_fast * (v_0 + fw)
+
+L   L   φ_yellow   L_0 * φ_yellow N_slow = _0 = ———————— = ——————————————.
+
+λ_slow   v_slow * (v_0 - fw)
+
+The unitless number (N_slow - N_fast) is the difference between the number of waves in the two tubes. We find that fw (N_slow - N_fast) = 2 * L_0 * φ_yellow * ————— v^2 = 2 * L_0 * fw / λ * v_0^2, set φ_yellow = 1/λ from (13.3.1a), and ignore (fw_0)^2.
+
+In the equation above, set (N_slow - N_fast) = 1/2 so that wave interference is maximized. After L_0 and w have been set to maximize wave interference, solve for the single unknown, f, which then determines the desired speeds v_fast and v_slow.
+
+Exercise (13.3.2) Deriving the Fresnel Drag Coefficient f. Show that (13.2.8) suffices to derive the empirical value of f (13.2.7c) for all refraction indices n.
+
+Hint: Set c=1 so that c/n - w = 1/n - w. Using the form (7.3.1) for the Lorentz sum, equation (13.2.8) reduces to f = (1 - 1/n^2) / (1 + w/n).
+
+Since water speed w is much less than light speed, 1 << w, the w/n ~ 0 term in the denominator can be ignored.
+
+(14) The Bug-Rivet Paradox NOTE: To simplify calculations, we set the speed of light c=1.
+
+(14.1) The Minkowski Diagram In frame A, two vertical plates, each with horizontally aligned holes, have left surfaces d units apart. A rivet in B with at-rest shank length d travels rightward towards the two aligned holes which are large enough so that the shank but not the head will pass through. A bug is in front of the hole in the right plate.
+
+Figure (1.14.2), page 40 Viewed from the (stationary) plates, the moving rivet has length σd < d_0 — hence, the bug is not injured when the rivet head collides with the left plate. But viewed from the (stationary) rivet, the moving plates are separated by only σd < d_0 units — the bug would be squashed after the rivet collides.
+
+(14.1.2) Question: Is the bug squashed or not?
+
+Answer: Analyzing the Minkowski diagram (14.1.3), we shall see why the bug cannot be spared.
+
+(14.1.3) FIGURE: Minkowski Diagram for Rivet Expanding Beyond Its At-rest Length Just before the rightward-traveling rivet hits the left plate, all its atoms move at speed v. The moment the rivet head hits the left plate, it stops. But the rest of the rivet cannot stop simultaneously since the message “I’ve hit a plate” cannot travel instantaneously from the head of the rivet to the rightward tip. In fact, a signal is transmitted from the head to the rest of the rivet through the atomic bonds between the atoms of the rivet. Although the signal may travel quickly by human standards (at speed w relative to the plates in A), it cannot travel faster than c=1. The rivet tip will keep on moving at speed v until the signal finally reaches it.
+
+Here is the analysis: (14.1.4) Setup of the Minkowski Diagram (14.1.3): (14.1.4a) Axes for A (parallel plates frame) are drawn in the Minkowski graph (14.1.3) so that its time axis, T_A, is vertical and its distance axis, X_A, is horizontal. The point x = 0 in A lies on the left surface of the left plate.
+
+The units of the axes are normalized so that c, the speed of light in a vacuum in A, equals 1.
+
+(14.1.4b) Axes for B (rivet frame) are drawn in the Minkowski diagram (14.1.3) so that its time axis, T_B, forms an angle θ with the vertical. By symmetry (1.6.1), v is the speed of the plates in A as seen from the rivet’s frame, B.
+
+The distance axis, X_B of B, (not shown in Figure (14.1.3)), forms an angle θ with the horizontal. The angle θ is required since v = tan(θ) is the speed of the rivet in B as seen from the plates’ frame, A.
+
+The point x=0 in B lies on the right-hand tip of the rivet.
+
+The units of the axes are normalized so that c, the speed of light in a vacuum in B, equals 1.
+
+(14.1.4c) Lines of simultaneity (constant time) in frame A lie on horizontal lines that are necessarily parallel to the X_A-axis. All lines of simultaneity (constant time) of frame B lie on lines that form an angle θ with the horizontal that are necessarily parallel to the X_B axis.
+
+(14.1.4d) Vertical plates (in frame A) are parallel metal plates with horizontally aligned holes large enough to allow the shank of a rivet to pass through but not large enough for the rivet head. The at-rest distance between the left surfaces of the two plates is d_0.
+
+(14.1.4e) The rivet (in frame B) has a shank with at-rest length d_0. The speed of the inertial frame B of the rivet is v = tan(θ) relative to the inertial frame A of the plates. Hence, from the symmetry principle, the speed of the frame A of the plates is -v relative to the frame B of the rivet.
+
+(14.1.4f) Synchronization: The left surface of the left-hand plate in A and the right tip of the rivet in frame B are synchronized (3.4.5a) in Figure (14.1.3) at [0,0]_A and [0,0]_B.
+
+(14.1.4g) Time t_0 = d_0/v where v and d_0 are given in (14.1.4e). We can see that v = d_0/t_0 from the Minkowski diagram (14.1.3) since the slope of the worldline of the rivet is 1/v. Specifically, the point [d_0, t_0]_5A lies on the worldline as do the origins, [0,0]_A and [0,0]_B, due to synchronization (14.1.4f).
+
+(14.1.4h) The Lorentz Transformation, L_v, connects the line-of-sight coordinates between frames A and B where frame B has speed v relative to frame A (7.1.3a), pg. 106, (7.2.2), pg. 109.
+
+Specifically, for σ = √(1 - v^2), an observer in A at time t with coordinates [x,t]_A is linked (via a line-of-sight corridor) to an observer in B with coordinates [x^0,t^0]_B, if and only if 1/σ (x - vx) = x^0 and 1/σ (t - vt) = t^0, where the v terms correspond to the relative velocity.
+
+L_v connects [x,t]_A to [x^0,t^0]_B and L_{-v} connects [x^0,t^0]_B to [x,t]_A.
+
+(14.2) Coordinates in the Minkowski Diagram The coordinates 1_A, 1_B, 2_A, 2_B, ..., 5_A, 5_B of Figure (14.1.3) are justified through the following chain of ideas. We start with 1_A = [0, t_0]_A: On the T_A-axis of A, choose t_0 in accordance with (14.1.4g). The Minkowski coordinate in frame A is [0, t_0]_A.
+
+1_B = [-d_0/σ, t_0/σ]_B = L_v([0, t_0]_A) in accordance with (14.1.4h).
+
+4_B = [0, t_0]_B are the coordinates in B of the intersection of the hyperbola t^2 - x^2 = t_0^2 and the T_B axis (the worldline of the rivet tip).
+
+4_A = [d_0/σ, t_0/σ]_A = L_{-v}([0, t_0]_B) in accordance with (14.1.4h).
+
+5_A = [d_0, t_0]_A is the coordinate of the point on the left surface of the right plate which (at A time t_0) is d_0 units distance in A from 1_A, the point on the left surface of the left plate.
+
+5_B = [0, σ t_0]_B = L_v([d_0, t_0]_A) in accordance with (14.1.4h).
+
+2_B = [-d_0, t_0]_B is the coordinate of the point on the left surface of the left plate which (at B time t_0) is -d_0 units distance in B from 4_B, the point on the left surface of the right plate.
+
+2_A = [0, σ t_0]_A = L_{-v}([-d_0, t_0]_B) in accordance with (14.1.4h).
+
+3_A = [d_0*(w-v)/(w-vw), t_0*(w-v)/(w-vw)]_A are the spacetime coordinates of the rivet tip when it first receives the shock wave signal that has been traveling rightward along the shank at constant speed w < c=1. The worldline of this signal (represented by red dots in (14.1.3)) starts at the point 2_A, 2_B and has slope 1/w.
+
+3_B = [0, t_0*(1-v^2)/(w-vw)]_B = L_v([d_0*(w-v)/(w-vw), t_0*(w-v)/(w-vw)]_A) in accordance with (14.1.4h).
+
+(14.2.1) THEOREM: (Rivet Overshoot Beyond the Second Plate)
+
+The rivet in frame B travels at speed v as measured from frame A of the vertical plates. Once the rivet head collides with the left plate at point 2_A, 2_B of Figure (14.1.3), a shock wave is propagated through the rivet shank at speed w relative to the vertical plates, where v < w < c. Then (14.2.1a) The shock wave signal reaches the rivet tip at the point in Figure (14.1.3) denoted by 3 = 3_A, 3_B.
+
+Suppose the extended shank length is measured from the left surface of the right-hand plate to the rivet tip. Then extended shank length   1 - (v/w)
+
+(14.2.1b) ———————————————— = 1 - ———————, total shank length           σ * v It is invariant for both frames, A and B.
+
+PROOF: The coordinates for point $c=\left(\frac{3}{\sigma}, 3v\right)$ in Figure (14.1.3) have already been justified on page 175 as the point at which the shock wave arrives at the rivet tip. This establishes (14.2.1a).
+
+Note that Figure (14.1.3) gives us both A and B coordinates of the event when the collision shock wave first arrives at the rivet tip.
+
+Using just the A coordinates for points a, b, and $c=\left(\frac{3}{\sigma}, 3v\right)$ of Figure (14.1.3), we obtain: (14.2.1c) Time $t=\left(w \sigma\right) /(w-v) t_0$ is the common (simultaneous) time in frame A at points a, b, and $c=\left(\frac{3}{\sigma}, 3v\right)$.
+
+From Figure (14.1.3), we see that their x coordinates $c_x, b_x$, and $a_x$ are given by point xcoordinate $c_x = (w v) d_0 / (w\sigma)$ which implies $c_x - b_x = 1 - (v/w) / \sigma$ $b_x = d_0$ $a_x = 0$ This expression is exactly the ratio of the extended shank length to the total shank length. That is, (14.2.1b) is established and the theorem is proved.
+
+(14.2.2) NOTE: The ratio (14.2.1b) is Frame-Invariant. Table (14.2.1c) considers the ratio in A coordinates. Exercise (14.4.1) arrives at the same ratio using B coordinates.
+
+(14.2.3) NOTE: Special relativity is incompatible with rigidity. There are examples showing that rigidity forces certain particles to travel faster than c, the speed of light. One such example is a stiff rod pivoting between points A and B each of which rotates at speed $v = (2/3)c$. If the rod is rigid then the point C must rotate at twice the speed, viz., $2 \times (2/3)c = (4/3)c$. For the speed at C to be less than c, the rod has to bend so that point C "lags" behind.
+
+(14.2.4) NOTE: The Future Affects the Present If Perfect Rigidity is Allowed. If we assume that bodies remain rigid under acceleration, then the rivet can never expand beyond its at-rest length, $d_0$, and, consequently, the future must affect the present. Details are revealed in Exercise (14.4.4).
+
+If w is the speed of the shock wave as measured in frame A of the plates, then what is the shock wave speed as measured from B, a passenger on the rivet?
+
+We now present an alternate geometric proof that follows immediately from reading the coordinates of Figure (14.1.3).
+
+(14.2.5) THEOREM: (Relative Speeds of the Shockwave): The rivet in frame B travels at speed v as measured from frame A of the vertical plates. Once the rivet head collides with the left plate at point $\left(\frac{2}{\sigma}, 2v\right)$ of Figure (14.1.3), a shock wave is propagated through the rivet shank at speed w as measured in frame A of the vertical plates, where $v \leq w \leq c=1$.
+
+Then $w_{\text{rivet}}$, the speed of the shockwave, as measured in frame B of the rivet (or by a passenger on the rivet), is (14.2.5a) $w_{\text{rivet}} = \frac{w+(v)}{1+w(v)}$.
+
+PROOF: We compute the shock wave speed, $w_{\text{rivet}} = \Delta x_A / \Delta t_A$ in A coordinates and, redundantly, $w_{\text{rivet}} = \Delta x_B / \Delta t_B$ in B coordinates.
+
+Using the orthogonal X and T axes in Figure (14.1.3), $\Delta x_A =(1/\sigma - v)d_0$ from $\left(\frac{4}{\sigma}, 2v\right), \left(\frac{2}{\sigma}, 2v\right)$, $\Delta t_A = v t_0$ from $\left(\frac{3}{\sigma}, 3v\right), \left(\frac{4}{\sigma}, 2v\right) \Rightarrow \frac{\Delta x_A}{\Delta t_A} = \frac{w+(v)}{1+w(v)} - \frac{v}{\sigma - v}$.
+
+In Figure (14.1.3), the $X_B$-axis is parallel to the line formed between points 2A,B and 4A,B. The $T_B$-axis is shown on the figure.
+
+Then $\Delta x_B =d_0$ from $\left(4_B, 2_B\right), \Delta x_B = \frac{w+(v)}{1+w(v)} - v$, $\Delta t_B = \frac{w(1-v^2)}{w - v} t_0$ from $\left(3_B, 4_B\right) \Rightarrow \frac{\Delta x_B}{\Delta t_B} = \frac{w+(v)}{1+w(v)}$.
+
+In both frames A and B (14.2.5a) is confirmed, which ends the proof.
+
+(14.3) The Slinky Connection The previous sections show that when a collision occurs between a plate and the head of a rivet, then information about the collision must travel from the rivet head along the shank and finally to the rivet tip before the tip "knows" that it must slow down.
+
+In this section, we cite other situations in which a non-zero time is required for a message to propagate through a medium before a response to that message results.
+
+In the first instance (Figure (14.3.1)), a Slinky toy is suspended from its top. Once the top is released, the bottom of the Slinky will continue to feel an upward tension (and remain fixed) as long as the ring above it is stretched. Once the Slinky fully collapses, the bottom ring feels no more upward tension and the whole unit falls to the ground. (Thanks to David Ellerman for this example.)
+
+The second example (14.3.2) illustrates that the loss of gravitational pull of the sun would not be felt on Earth for almost nine minutes.
+
+(14.3.1) FIGURE: Suspended Slinky is Released from the Top While Its Bottom Remains Fixed in Space (14.3.1a) Question: What happens to the lower end of a suspended Slinky when the top end is released?
+
+(14.3.1b) Answer: As indicated in Figure (14.3.1), [Panels 1, 2] the bottom of the Slinky remains suspended at the initial height h from the ground — until the collapsing wave from the falling Slinky top reaches the bottom of the Slinky. At this moment [Panel 3], the following message reaches the Slinky bottom: "From now on, there is no longer an upward tension equal to the downward force of gravity. You must fall!" When this message is received [Panel 4], the bottom of the Slinky joins the top in falling to the ground.
+
+(14.3.1c) The Analogy of the Rivet and the Slinky Toy: In Figure (14.1.3), the rivet tip has constant speed $v > 0$ and is in an inertial frame until the collision wave (message) reaches it at point $\left(\frac{3}{\sigma}, 3v\right)$. In Figure (14.3.1), the Slinky bottom also has constant speed $v = 0$ in an inertial frame until the message that there is no upward tension reaches from the top to the bottom at point 3.
+
+(14.3.2) The Disappearing Sun: Time is required even for the "message" of gravity waves. The earth is held in its orbit by centripetal force from the sun much as a pail of water, being swung by a rope, is held in its circular orbit by the centripetal pull of the rope. However, gravity waves from the sun require some eight minutes (at the speed of light) to reach the earth.
+
+Now if the sun and all its mass were to instantly disappear, this would "cut the gravity rope," causing the earth to fly off its circular orbit on a straight-line tangent nine minutes after the sun's disappearance — this is the time required for the earth to "know" that there is no longer any gravitational pull from the sun. Afterwards, the earth would continue on its straight-line path, destined to travel forever into a void of cold darkness.
+
+(14.4) Exercises (14.4.1) (Extending Theorem (14.2.1)). Show that the ratio (14.2.1b) which was shown for A coordinates is also valid for points $a', b', c$ in B. Specifically, from Figure (14.1.3), show that in B coordinates, (14.4.1a) $\frac{\text{extended shank length}}{\text{total shank length}} = \frac{c_x - b'_x}{c_x - a'_x} = \frac{1 - (v/w)}{1 - \sigma v}$ where $a'_x, b'_x, c_x$ are the X coordinates of a, b, c in B. (Equation (14.4.1a) can also be established using T coordinates $a'_t, b'_t, c_t$ in B.)
+
+(14.4.2) Under the hypotheses of Theorem (14.2.1), show that for all shock wave speeds w, where $v \leq w \leq c=1$, there is (at least) one moment after the rivet-plate collision in which the rivet shank length exceeds its at-rest length, $d_0$.
+
+Hint: Formula (14.2.1b) is derived for the moment the shock wave reaches the rivet tip which finally gets the message to leave its inertial frame B and to decelerate. The question, then, is to produce a shock wave speed w for which (14.2.1b) is zero. But this implies that $w = (1/v) + \sqrt{(1/v)^2 - 1}$, which is greater than 1, the speed of light.
+
+(14.4.3) (When Shock wave Speed = c=1) Show that if either $w = 1$ or $w_{\text{rivet}} = 1$ for the shock wave speed of Theorems (14.2.1) and (14.2.5), then both values are equal to 1. (This reflects the fact that any wave traveling at the speed of light c in one frame has speed c in all frames.)
+
+Hint: Apply Equation (14.2.5a).
+
+(14.4.4) (When the Future Affects the Present) Let the rivet shank have at-rest length $d_0$ as measured in the frame of the vertical plates, A. Using the Minkowski diagram coordinates (14.1.3), pg. 172, show that if the rivet shank length is always less than or equal to its at-rest length, $d_0$, then the future must affect the past.
+
+Hint: Figure (14.1.3) shows that the rivet collides with the left plate at point $2_A$ (A coordinates) $= 2_B$ (B coordinates). From the Slinky principle, the collision signal information (the red dots in Figure (14.1.3)) require time to reach the rivet tip. In this case, the rivet must expand beyond its at-rest length until the collision signal arrives at the tip.
+
+Hence, the only way to maintain rigidity is to have the rivet and plates meet at point $2_A = 2_B$ when their relative speed to each other is zero. This says the plates receive a rightward force or the rivet receives a leftward force in order to decelerate to relative speed zero before the actual collision. In other words, the future collision causes deceleration in the present.
+
+(14.4.5) (Applying the Pea-Shooter Paradox) Use the Lorentzian sum (7.3.1) directly to prove (14.2.5a).
+
+Hint: Use the Pea-Shooter paradox as a template (see (1.13.2b)). Let w equal the speed of the shock wave (the pea) as observed from A, the frame of the vertical plates (Bernie on solid ground). Then w is also equal to: The speed v of the rivet (Ashley on the train) as observed from A "plus" the speed $w_{\text{rivet}}$ of the shock wave (the pea) as observed from B, the frame of the rivet (Ashley on the train).
+
+Formally, then, (14.4.5a) $w =v \oplus w_{\text{rivet}}$, so that using (1.13.3) to solve for $w_{\text{rivet}}$ in (14.4.5a) yields (14.2.5a).
+
+VI Energy and Mass Chapter 15 E=mc2 This celebrated equation is almost an afterthought once the connection is made between the pea-shooter paradox and conservation of momentum.
+
+(15) E = mc (15.1) How We Came to This Place It might seem that our analyses of the paradoxes through Minkowski diagrams have little to do with $E = mc^2$, the relation of a mass m at rest and its energy equivalent E.
+
+As it turns out, the structure underlying the pea-shoot The paradox is also essential to showing that E = mc². The structure in question is the Lorentzian addition of speeds (7.3.1).
+
+(15.1.1) Figure: (Recapitulation: Three Steps to the Lorentz Sum)
+
+Panel a: Coordinates for the endpoints P and Q are found in two frames of reference: P = p[ c, 1] and Q = q[ c, 1] relative to the frame A with perpendicular X and T axes, while P = p[ c, 1]0 and Q = q[ c, 1]0 relative to the frame B with the T-axis lying on OR.
+
+Panel b: The Lorentz transformation, a 2 × 2 matrix, is defined on the basis vectors (points) P, Q, and hence, is fully defined everywhere (the importance of the basis property for linear transformations follows from Theorem (A.4.2), pg. 369). The matrix has for its domain the frame of reference from which another frame is seen to be moving with relative speed v.
+
+Panel c: If frame A sees frame B move with speed v, then we have L_v : A → B. If frame B sees frame C move with speed w, then L_w : B → C. Since the matrix product L_w * L_v : A → C (L_w * L_v is defined in (A.4.3e)) is equivalent to L_{v⊕w} : A → C, where the Lorentz sum, v ⊕ w, is given in Panel c, then frame A sees frame C move with speed v ⊕ w.
+
+We will see in this chapter that if speeds must be added with the Lorentz sum, then necessarily E = mc².
+
+(15.2) Speed-Dependent Mass: an Intuitive View (15.2.1) Speed-dependence in the notation. The mass of a particle viewed at speed zero (at rest) is denoted m_0. The mass of the same particle viewed at speed v is denoted m_v. Our Galilean/Newtonian intuition tells us that there is no need to change notation for a mass just because it happens to be in motion, since mass does not change with observed speed—or does it? (In contrast, we accept the concept from introductory calculus that mass can change over time as is shown by the time-dependent “petri dish equation” m = m_0 e^{kt}.) Einstein’s brilliant insight revealed that mass also changes according to its observed speed v. In any case, there is no harm in using the (ornamented) notation (15.2.1a) m_v = def mass of particle at speed v.
+
+Hence, its rest mass, the mass at speed 0, is denoted m_0.
+
+Intuition misleads us in another way. Let us empathize for a moment with a point mass that might ask itself, If an observer measures my mass as equal to m_0 when I am observed at speed v = 0, then why is it that I have a different mass just because the observer now sees my speed to be v > 0?
+
+The Two-Particle Setup (15.2.2) Preliminaries: To acknowledge that a mass m is being observed while it has speed v, we denote it by m_v. Therefore, m_0 denotes the at-rest mass at observed speed zero.
+
+(15.2.3) Definition: The Momentum of a Particle with rest mass m_i at velocity ~v_i is defined to be m_i ~v_i (For clarity in equations such as (15.2.3a), we sometimes use the square bracket notation [m_i] ~v_i). The Momentum of the System of two particles with rest masses m_1 and m_2 when observed at respective velocities ~v_1 and ~v_2 is defined by (15.2.3a) [m_1] ~v_1 + [m_2] ~v_2 = def [m_1 + m_2] ~v_sys, where ~v_sys is the System Velocity which, intuitively, treats the two particles as a single mass entity.
+
+If all motion occurs in the same direction or its opposite, then conservation of momentum gives us the (15.2.3b) Symmetry Principle, m_{-v} = m_v, which holds that both speeds, +v and -v, when applied to any mass m_0, produce the same observed speed-dependent mass m_v.
+
+To see why this is so, imagine two ice-skaters, each of mass m_0 facing each other on frictionless ice. Since they each have speed v = 0, the system of two ice-skaters has total momentum zero. Next, they push each other away so that one ice-skater has speed v and the other has speed -v. Now, the system momentum (which is conserved to be zero) has form (m_{-v})(-v) + (m_v)(v) = (- m_{-v})(v) + (m_v)(v) = (- m_{-v} + m_v)(v) = 0 which implies (15.2.3b).
+
+We will apply the momentum equation (15.2.3a) to the special case of two equal rest masses that initially have equal and opposite speeds v. Accordingly, we shall use the following figure that summarizes the states of these particles at various speeds. Note that we are obliged to add speeds relativistically according to the Lorentz formula (7.3.1) v ⊕ w = (v + w)/(1 + vw/c²).
+
+(15.2.4) Figure: A Simplified Two-Particle System Panel A of Figure (15.2.4). Two particles are observed, each with the same at-rest mass m_0. Each particle has zero momentum mass speed = [m_0] 0 = 0 so that from (15.2.3a), we compute the sum and obtain the system momentum and the system speed v_sys as follows: (15.2.4a) [m_0] 0 + [m_0] 0 = [m_0 + m_0] 0.
+
+v_sys
+
+Panel B of Figure (15.2.4). The left and right masses, m_{-v} and m_v, say, have equal and opposite speeds, -v and v. The respective values of their momentums are also equal and opposite. That is, (15.2.4b) ([m_{-v}] · (-v)) = -([m_v] · v).
+
+left momentum      right momentum
+
+We now obtain the following sum that produces the system momentum and the system speed v_sys (15.2.3a): ([m_{-v}] · (-v)) + ([m_v] · v) = [m_{-v} + m_v] · v_sys.
+
+From (15.2.4b), we may substitute ([m_v] · v) for ([m_{-v}] · (-v)) above to obtain (15.2.4c) -([m_v] · v) + ([m_v] · v) = [m_{-v} + m_v] · v_sys.
+
+Since m_{-v} > 0 and m_v > 0, (15.2.4c) implies v_sys = 0.
+
+Panel C of Figure (15.2.4). Speed v is added to the entire 2-particle system of Panel B which means the system speed v_sys = 0 of (15.2.4c) is augmented by speed v to become (15.2.4d) new v_sys = (0 ⊕ v) = v. from (7.4.3)
+
+old v_sys
+
+Since the speed of each particle is augmented by v units, the left particle, formerly at speed -v, acquires the new speed -v ⊕ v = 0 (see Proposition (7.4.3)) so its new momentum is [m_0] · (-v ⊕ v) = [m_0] · 0 = 0. Similarly, the right particle, formerly with speed v, acquires added speed v to produce the new speed v ⊕ v. This speed accounts for a new momentum of [m_v] · (v ⊕ v). In (15.2.3a), replace v_1 with 0 and v_2 with speed v ⊕ v. This allows us to set m_1 = m_0 and m_2 = m_v, which yields (15.2.4e) [m_0] · 0 + [m_v] · (v ⊕ v) = [m_0 + m_v] · v_sys from              = [m_0 + m_v] · v. (15.2.4d)
+
+The stage is set for the following (15.2.5) Theorem: Mass Increases with Increased Speed. Given a particle with rest mass m_0. If m_w represents the measurement of this mass when observed at speed w, then (15.2.5a) m_w > m_0.
+
+Proof: Consider a system of two particles, each with identical rest mass m_0 so that all the equations of Figure (15.2.4) apply. In particular, among the three equal quantities in (15.2.4e), set only the first and last quantities equal to each other and solve for m_v to obtain (15.2.5b) m_v = m_0 / (v ⊕ v) * v = m_0 (1 + v²) / (1 - v²) from (7.3.1)
+
+> m_0. since (1 + v²)/(1 - v²) > 1 Note that (15.2.5b) justifies (15.2.5a) once we set w = v ⊕ v. This ends the proof.
+
+Corollary: At speed w = v ⊕ v, a particle with rest mass m_0 has increased mass m_0 growing to mass m_w where (15.2.5c) m_w = m_0 / √(1 - w²).
+
+Proof: Exercise (15.5.3).
+
+(15.3) Equivalence of Mass and Energy (15.3.1) The power series expansion for infinitely differentiable f(x) is Calculus needed f'(0) f''(0) f^(k)(0)
+
+(15.3.1a) f(x) = f(0) + f'(0)x + x²/2! + ... + x^k/k! + ..., where f'(0), f''(0), ..., f^(k)(0), ..., represent the first, second, ..., and kth derivative of the function f evaluated at 0. In particular, the kth derivative evaluated at 0 is 1 3 5 (2k-1) 1 (15.3.1b) f^(k)(0) = · · · · · · − when f(x) = .
+
+2^k √(1 - x)
+
+In (15.3.1a), set x = (v/c)² and replace the derivative expressions with (15.3.1b) to obtain the series 1 1 v² 3 v^4 5 v^6 (15.3.1c) 1/√(1 - (v/c)²) = 1 + + + + + 2 c² 8 c^4 16 c^6 ··· O(v^4)
+
+where O(v^4) indicates a sum of v^k terms where k ≥ 4. (At this point, units of speed v can be arbitrary (cm/sec, miles/hour) so it is not necessary that c=1.)
+
+In (15.3.1a), replace x with (v/c)² < 1—this releases us from the special case where we write c = 1. Now recapture this new form of (15.3.1a) by multiplying (15.3.1c) through by m_0 c² to obtain the equalities
+
+(15.3.1d)
+
+m_v c² = 1/√(1 - (v/c)²) m_0 c² = m_0 c² + ½ m_0 v² + m_0 O(v^4)
+
+Newtonian kinetic energy = m_0 c² + E(v).
+
+relativistic kinetic energy
+
+(15.3.2) Interpreting (15.3.1d). Is the power series (15.3.1d) a mathematical invention designed to torture calculus students like some irrelevant chess game of the mind where symbols on paper only obey certain abstract rules? Or is there a valid connection with reality as we (think) we know it? Let us see how a certain marker term brings the series (15.3.1d) from the calculus textbooks into the world of physical reality.
+
+Series (15.3.1d) represents energy. It is the classical kinetic energy term, ½ m_0 v², in (15.3.1d) that spreads its type (energy) to all other terms in the series. Informally, the energy attribute of ½ m_0 v² forces all other terms to have the same attribute.
+
+Why E = m c². We write E(v) to denote the sum of all the terms of (15.3.1d) on the right hand side except for the term, m_0 c². This sum, E(v), which depends on v, can only be interpreted as a general energy term that arises from the energy required to bring the particle from a state of rest to a speed of v. To see this, set v = 0 and E(v) goes away. That is, E(v) appears only when motion is induced, which means a force and distance, or energy, is invested into the particle in order to get it into motion.
+
+Therefore, the left hand side of (15.3.1d) represents the sum of the at-rest energy, m_0 c², plus the relativistic kinetic energy, E(v).
+
+c2, which is clearly not zero, and E(v), the energy necessary to bring the particle from speed v = 0 to speed v = v.
+
+Since the term mc2 does not change with v, we conclude E = mc2 is the rest energy of a particle that has rest mass m.
+
+192 E = mc2 (15.4) A Numerical Example (15.4.1) Masses Under the Effects of a Force Cannot Stay Constant.
+
+The following example shows how (15.2.3a), the definition of momentum using Lorentzian addition of speeds, will not tolerate constant mass with increased speed (due to a force).
+
+(15.4.1a) Set mass m1 = 1kg with speed v1 = 0.8 and mass m2 = 2kg with speed v2 = 0.4.
+
+(We need not write the units for speeds which are, after all, unitless ratios of form v/c). Then from (15.2.3), (15.4.1b) which implies 1kg × (-0.8) + 2kg × (0.4) = (1kg + 2kg) × w_old. => w_old = 0.
+
+0kg         3kg |{z}        |{z} Suppose the masses remain constant after the system speed has increased its value from w_old = 0 to w = 0.8. This means we must add w = 0.8 to the speeds v1 = 0.8, v2 = 0.4, and w_old = 0 in (15.4.1b) (using relativistic addition (7.3.1)) to obtain (15.4.1c)
+
+1kg × (-0.8 ⊕ 0.8) + 2kg × (0.4 ⊕ 0.8) = (1kg + 2kg) × (0 ⊕ 0.8)
+
+m1×0              m2×0.909                3kg         w_new=0.8 |{z}               |{z}                   |{z}         |{z} which gives us the absurd equation (15.4.1d) 1kg × 0 + 2kg × 0.909 = 3kg × 0.8.
+
+0kg      1.818kg      2.4kg |{z}        |{z}        |{z} Standard proof-by-contradiction (G.4.5) tells us we must reject our hypothesis that masses remain constant with augmented speed.
+
+To say the same thing more formally, note that in reasoning from (15.4.1a) to (15.4.1d), we find that the constant-mass assumption leads to a false conclusion, namely,
+
+15.4. A Numerical Example 193 (15.4.1e) {Constant mass} ⇒ {1.818 = 2.4 (False)}.
+
+We can never use valid reasoning where a true hypothesis leads to a false conclusion. Therefore, in (15.4.1e), our hypothesis {Constant mass}, which leads to a false conclusion, must be (False).
+
+...................................................................
+
+(15.4.2) What is the non-absurd resolution to (15.4.1d)? The following table gives the values of m̃1 = m1 / √(1 - (v1⊕w)²) and m̃2 = m2 / √(1 - (v2⊕w)²) for system speed w = 0.8 and the resulting momentum.
+
+(15.4.2a) TABLE: Momentum P at system speeds v_sys = 0 and v_sys = 0.8
+
+v_sys = w = 0        P        v_sys = w = 4/5        P Speed v1 = 4/5       v1 ⊕ w = 0 Mass m1 = 1kg        m1 / √(1 - v1²) = 3/5 kg Speed v2 = 2/5       v2 ⊕ w = 10/11 Mass m2 = 2 kg       m2 / √(1 - v2²) = 22/5 kg Total P              0        Total P                4.0
+
+(15.4.3) Two Computations for Momentum. When v_sys = w = 4/5, Table (15.4.2a) gives us the momentum as the sum of each particle’s momentum, namely, (15.4.3a) M = m̃1 × (v1 ⊕ w) + m̃2 × (v2 ⊕ w) = 4.0.
+
+(3/5)kg × 0 + (22/5)kg × (10/11)
+
+|{z}            |{z} But from the same table, we also have the momentum of the "single point" particle, m̃1 + m̃2, namely, (15.4.3b) M = (m̃1 + m̃2) × w = 4.0.
+
+"(3/5)kg + (22/5)kg" × 4/5 |{z}      |{z}    |{z} The rest masses are m̃01 = m1 √(1 - v1²) = 1kg √(1 - (-4/5)²) = (3/5)kg and m̃02 = m2 √(1 - v2²) = 2kg √(1 - (2/5)²) = (2/5)√21 kg.
+
+The increased masses at the speeds v ⊕ w are m̃1 = m̃1 / √(1 - (v1⊕w)²) = m̃1 / √(1 - 0) = (3/5)kg where Proposition (7.4.3) justifies -4/5 ⊕ 4/5 = 0, and m̃2 = m̃2 / √(1 - (v2⊕w)²) = m̃2 / √(1 - (10/11)²) = (22/5)kg.
+
+...................................................................
+
+(15.4.4) The sum of the momentums of two particles equals the momentum of the sum (of particle masses), as is confirmed in (15.4.3a) and (15.4.3b). In Exercise (15.5.4), the reader constructs a program that generalizes Table (15.4.2a) by allowing two arbitrary mass inputs, an arbitrary speed v < 1, and arbitrary system speed w < 1. Since the user has choice of masses and speeds, this program should give the reader a sense of how masses increase with speed.
+
+(15.5) Exercises (15.5.1) An Alternate Proof for E = mc2. The force F is defined as the rate of change of the momentum p: Exercise  dp Calculus   F = dt.
+
+The work W required from an initial position xi to a final position xf is defined as the line integral of the force ² xf Wi→f = ∫ F dx Then ²In more than one dimension this is the line integral along a path; in general the work will depend on the path. Forces for which the work is path-independent are called conservative forces.
+
+15.5. Exercises 195 xf Wi→f = ∫ F dx xf  dp = ∫  dx xi   dt xf   dx = ∫ v dp   (set v = dt in the previous integral)
+
+pi vf   m v = p|vf − pi |∫vi   1 v²/c² = m [  v² + m c² (1 / √(1 - v²/c²)) ] |vi √(1 - v²/c²)
+
+pi m c² [ √(1 - v²/c²) ] |i = m c² [ √(1 - vf²/c²) − √(1 - vi²/c²) ]
+
+Finally, the work is also the change in the kinetic energy T: Wi→f = Tf − Ti that implies T = m c² + constant. The kinetic energy vanishes at zero speed so Tv = m c² / √(1 - v²) − m c² => Tv + m c² = E = m c² / √(1 - v²)
+
+that defines the rest energy E0 = m c² and the total energy E = m c²: E = E0 + T.
+
+Note that in terms of the momentum E² = p²c² + m²c⁴, which is valid even for particles with zero rest mass (the expression in terms of v is ambiguous because we let m → 0 while at the same time v → c).
+
+These definitions are useful because E is conserved. In any process where particles are free in the initial and final states the sum of the energies E (in terms of the momenta and rest masses) is conserved.
+
+196 E = mc2 (15.5.2) Derivatives. Show that for f(x) = (1 - x)^(-1/2), the kth derivative Exercise  f^(k)(0) has the form f^(k)(0) = (1 · 3 · 5 ··· (2k - 1)) / (2^k k!).
+
+(15.5.3) Mass Increases with Speed. Show that Exercise 1 + v²     1 mv⊕v = m0 / √(1 - (v⊕v)²) = m0 / (1 - v²).
+
+Hint: Definition (7.3.1) allows replacement of v ⊕ v with its equivalent, v ⊕ v = 2v/(1 + v²).
+
+(15.5.4) A Useful Spreadsheet. Devise a spreadsheet, or a program in a language of your choice (e.g., C, C++, Matlab, Maple, Mathematica) to generate tables of the form (15.4.2a).
+
+Exercise Hint: Construct your program with the following input/output properties: USER INPUT: .....................................................
+
+(I₁) The first mass m1, and its unitless speed v1 < 1.
+
+(I₂) The second mass m2. The program computes v2 < 1 so that momentum m1v1 + m2v2 = 0 is guaranteed (see first column of Table (15.4.2a)).
+
+(I₃) The arbitrary "add-on" speed w < 1.
+
+PROGRAM OUTPUT: .............................................
+
+(O₁) Speed v2 which guarantees that for the two-particle system, the initial momentum is zero (mentioned in (I₂)).
+
+(O₂) The two at-rest masses, mi = mi0 √(1 - vi²), where i = 1,2.
+
+(O₃) The Lorentz sums, v1 ⊕ w < 1 and v2 ⊕ w < 1.
+
+(O₄) The two masses with initial speeds, v1 and v2, increased by w, namely, m(i, v⊕w) = mi0 / √(1 - (vi ⊕ w)²), where i = 1,2.
+
+(O₅) The momentum sum of the two individual particles, [m1(v⊕w)] × (v1 ⊕ w) + [m2(v⊕w)] × (v2 ⊕ w).
+
+(O₆) The system momentum (due to system speed v_sys = w), [m1(v⊕w) + m2(v⊕w)] × w.
+
+CHECK: ..........................................................
+
+Outputs (O₅) and (O₆) should always be equal.
+
+VII The Mathematics of Waves and Light Chapter 16 develops the mathematical model of propagated waves since light exhibits the properties of a propagated wave under certain circumstances. Chapter 17 offers details of some of early and ingenious methods for measuring c, the finite speed of light. As recently as the time of Galileo and Newton, it had not been proven that the speed of light was finite. But today, using a microwave oven at home, you can measure the speed of light in a 20-second experiment (Exercise (17.6.6d), pg. 237).
+
+(16) The Nature of Waves Preview A fundamental starting point of Einstein’s paper, [12], is that the speed of light is the same for all observers, whether or not the light source is moving. Equivalently (and non-intuitively), the speed of light is a constant 186,000 miles per second (in a vacuum) whether or not the observer is moving (see (1.5.4)).
+
+Why should we believe such a non-intuitive idea? The following chapters provide the answer.
+
+The constant speed of light, independent of frame of reference (point of view) was predicted decades before Einstein’s paper, by Maxwell’s equations which connected electricity, magnetism, and optics. These equations also predicted that the speed of all electromagnetic (EM) waves propagated in a vacuum was 3 × 10⁸ meters/second—exactly the speed of light! These results are presented in Chapters (18) through (23).
+
+(16.1) Propagated Waves (Calculus Required)
+
+(16.1.1) Anatomy of a Wave: We consider a shape defined by a real-valued function, g, to be a wave traveling in one dimension if it has the following properties: (1) Wave length λ: At any fixed time, t0, its shape, y = g(x,t0) in the X-Y plane replicates itself over all successive intervals of length λ. For any x, such intervals take the form (16.1.1a) [ x ± kλ, x ± (k+1)λ ] , k = 0, 1, 2,...
+
+|          length λ         | Formally stated, for fixed time, t0, for all x, and all integers k, we have g(x, t0) = g(x ± kλ, t0).
+
+(2) Wave speed v: The wave travels to the right, in the positive direction, with speed v. Consider a wave g(, t0) at fixed time t0. As explained in Section (16.3), at wave speed v, after time Δt, the full wave will shift to the right a distance vΔt. That is, (16.1.1b) For all x, g(x, t0) = g(x + vΔt, t0 + Δt).
+
+Equation (16.1.1b) says that for all x, the y-value of wave g at x and time t0 is the same as the y-value of g at x + vΔt (the rightward shifted distance) at the later time t0 + Δt.
+
+(16.1.2)
+
+DEFINITION: In a traveling wave with Wavelength λ and Speed v, we define the Period P to be the time for one wavelength (one cycle) to pass an arbitrary point. The Frequency f is the number of full cycles of function g that pass any fixed point in one second. Period P, frequency f, wavelength λ, and speed v, are related by the formulas λ      1 (16.1.2a) P = v,  f = λ,  and  P = f.
+
+NOTE how the units of (16.1.2a) are consistent with Appendix (D). Since the unit for λ is distance, d, and speed, v, is in units of d/t, the period, P = λ/v is in units of t alone. This is the time for one full cycle of g to pass an arbitrary point. Also, frequency, f, is in units of 1/t, or "per-second," which is the number of cycles of g that pass an arbitrary point per second.
+
+We analyze a traveling wave in a rope that is tied at one end.
+
+(16.1.3) FIGURE: Propagating a Wave in a R Ashley oscillates the loose end of a rope to generate a traveling wave that has velocity v. If Ashley keeps the tension constant, but increases the “hand speed,” or energy to the rope by oscillating it faster, the wave will not travel any faster or slower. The wave length, λ, and the period, P, will decrease, but the wave speed, v, will be constant. Equivalently, the frequency, f, will increase, while the wave speed remains the same.
+
+THEOREM: (Horizontal wave speed is independent of vertical “hand speed.”) One end of a rope is tied to a wall while the other (loose) end oscillates vertically so as to generate a wave that travels toward the wall (as illustrated in Figure (16.1.3)). The rope has linear density δ (ounces per inch, say) and is pulled with constant horizontal tension T (pounds of force, say). Then, if gravitational pull on the rope is ignored, the speed v of the propagated wave is v = T/δ.
+
+PROOF: Assume the wave travels to the right as indicated in Figure (16.1.3). To measure the rightward wave speed v, it will be useful for Bernie, the runner, to keep pace with the wave, running to the right at identical speed, v. Hence, from Bernie’s point of view, the rope coils are going leftward with speed v while the captured wave peak appears stationary with speed 0 as seen in Figures (16.1.5) and (16.1.6)).
+
+FIGURE: The Wave Peak Captured in a Curved Sleeve. Bernie runs alongside the wave at the same speed of the propagated wave, capturing the wave peak in a curved tubular sleeve. The rope does not touch the sleeve’s inside surface.
+
+There are two ways to calculate the centripetal (vertical downward) force illustrated in Figure (16.1.6): (i) with Newton’s law F = ma as seen in (16.1.6a)-(16.1.6c), or (ii) by decomposing the almost-horizontal tension force T as in (16.1.6d). The two analyses are merged to produce the conclusion (16.1.6e).
+
+FIGURE: Two Ways to Measure Centripetal Force Trig needed First Analysis of Centripetal Force, F. When the angle θ is small enough, both the rope segment and the sleeve approximate a small circular arc with radius R. At this small scale, the rope segment with length l = 2Rθ and linear density δ gives us the following value of the rope segment mass: m = (l)δ = (2Rθ)δ  mass of rope.
+
+{ } The rope in Figure (16.1.6) runs through the sleeve leftward on a circular path. From Newton’s law, any mass on a circular arc of radius R with constant speed v is a result of a (centripetal) acceleration a = v²/R.
+
+see Exercise(16.7.1)
+
+for a proof of this fact If we take the mass m from equation (16.1.6a) and the (circular) acceleration a from equation (16.1.6b), then we can write the centripetal force, F = ma, as F = (2Rθδ)(v²/R) = 2θδv².
+
+m a | {z } |{z} Second Analysis of Centripetal Force, F. Now the centripetal force F of (16.1.6c) is also obtained from Figure (16.1.6) by decomposing the opposing tension vectors with length T into their horizontal and vertical components. The horizontal components are equal and opposite so they cancel.
+
+The vertical components of the tension vectors, on the other hand, both point downward and reinforce each other. They each have length T sin(θ), so their downward sum is 2T sin(θ). Since for small θ we have sin(θ) ≈ θ, we may write F = 2Tθ for the centripetal force on the rope segment where T is the initial tension on the ends of the rope.
+
+Finally, equate F of (16.1.6c) with F of (16.1.6d) to obtain v = T/δ which is the equation (16.1.4a) we set out to prove.
+
+NOTE: Exercise (16.7.2) asks you to confirm that the dimensions of velocity—distance over time—result from an analysis of the right-hand side of (16.1.4a) which is expressed only in terms of the tension force, T, and the linear mass-density, δ, of the rope.
+
+(16.2) Speed of Rope Wave is Constant Your intuition might tell you that the speed of the wave propagated will increase if you oscillate the rope faster (increase the frequency). Not so. As long as the tension T is constant, the speed of the traveling wave remains the same.
+
+Light waves, or more generally, electromagnetic waves, share a similar property. The speed of light in a vacuum is constant, no matter what its frequency (color).
+
+A rope is composed of matter and light is not. Nevertheless, they share the common property that their speed of propagation does not depend on the frequency carried by the wave.
+
+A guitar string is an example of how the tension, T, affects the frequency. According to (16.1.4a), tightening the string (increasing tension) will increase the string’s wave speed v which corresponds to a higher frequency f, or a higher pitch.
+
+(16.3) Shapes Traveling in One Dimension Now that we see that a wave in a rope tends to maintain a constant speed v, we characterize that differential equation, called the wave equation (16.4), that describes shapes traveling at speed v in one direction.
+
+(16.3.1) Notation for Curves Traveling to the Right: What is the proper notation to describe how a real-valued function, f, of one variable, travels to the right along the X-axis over a distance ∆x units in time ∆t? (The speed of rightward travel is then necessarily ∆x/∆t=v.)
+
+We begin with the following graphs: FIGURE: Rightward Traveling Curve: Angle View of X-Y-T Graph. The Y values, f(x,t), of the moving curve form a surface over the X-T Spacetime plane. Since each point of the curve travels rightward on the X-axis with speed v, every vertical Y value of the surface is constant on a velocity line traced in the X-T plane. Two such velocity (red) lines of constant value are shown.
+
+FIGURE: Rightward Traveling Curve: Top View of X-Y-T Graph. This is the “floor” shown in Figure (16.3.2). The Y-axis points up and out of the page. As we see from the graph, the lines in the X-T plane over which the surface values for f are constant, require that f(x,t - ∆t) = f(x+∆x,t),  whenever ∆x/∆t = v.
+
+NOTE: To achieve the form of (16.3.3a) which appears in Figure (16.3.3), replace t with t - ∆t in Figure (16.3.2).
+
+DEFINITION: Given two-variable function f(x,t). Then the limits ∂ f(x,t)/∂x def= lim (∆x→0) [f(x+∆x,t) - f(x,t)]/∆x and ∂ f(x,t)/∂t def= lim (∆t→0) [f(x,t+∆t) - f(x,t)]/∆t are the partial derivatives of f at point (x,t) with respect to the variables x and t, respectively.
+
+MOTIVATION: Definition (16.3.4) introduces symbols ∂f/∂t and ∂f/∂x, the partial derivatives of f(x,t), which are the usual derivatives, df/dx and df/dt, with all variables of f fixed except x and t, respectively. Use of the “curly” ∂ instead of the ordinary d is a reminder that function f has more than one variable.
+
+NOTE: Equivalent variations of symbol ∂f/∂x are ∂f/∂x, ∂f(x,t)/∂x, ∂/∂x f(x,t).
+
+LEMMA: For the function (moving wave) f(x,t) traveling rightward in time with speed v, the partial derivatives ∂f/∂x and ∂f/∂t are related as follows for all (x,t): ∂ f(x,t)/∂x = -(1/v) ∂ f(x,t)/∂t, or, in symbolic short-hand, ∂/∂x = -(1/v) ∂/∂t where existence of the rightward traveling function f, as t increasing, is assumed on both sides of the equal sign.
+
+PROOF: For our two-variable function f(x,t), ∂ f(x,t)/∂x ≈ [f(x+∆x,t) - f(x,t)]/∆x   Def. (16.3.4a) of ∂/∂x = [f(x,t - ∆t) - f(x,t)]/∆x   Equation (16.3.3a) where ∆x=v∆t = -(1/v) · [f(x,t - ∆t) - f(x,t)]/∆t   Factor out -1/v ≈ -(1/v) · ∂ f(x,t)/∂t,   Def. (16.3.4b) of ∂/∂t which ends the proof.
+
+Differences such as f(x+∆x,t) - f(x,t), which we see in (16.3.7b), occur often enough to warrant a more compact notation, which we now present.
+
+NOTE: For a real-valued function, f(x,t) at a point, (x,t), in the spacetime plane, we use the symbols ∆f_x def= f(x+∆x,t) - f(x,t)  when t is held fixed, ∆f_t def= f(x,t+∆t) - f(x,t)  when x is held fixed.
+
+This notation is used in the following proposition that says: If f increases (or decreases) as x increases, then f necessarily decreases (or increases) as time t increases. More formally, we have PROPOSITION: Given a real-valued function traveling to the right over the X-axis with speed v. for any point (x,t) in spacetime, sign(∆f_t) = sign(∆f_x).
+
+That is, ∆f_x > 0 implies ∆f_t < 0 and ∆f_x < 0 implies ∆f_t > 0.
+
+PROOF: Write ∆f_x/∆x = [f(x+∆x,t) - f(x,t)]/∆x   Notation (16.3.8)
+
+≈ ∂ f(x,t)/∂x   Def. (16.3.4a) of ∂/∂x = -(1/v) ∂ f(x,t)/∂t   Equation (16.3.7a)
+
+≈ -(1/v) [f(x,t+∆t) - f(x,t)]/∆t   Def. (16.3.4b) of ∂/∂t = -(1/v) (∆f_t/∆t).   Notation (16.3.8)
+
+Since ∆x > 0 and ∆t > 0, the first and last entries in this string of equalities tell us that sign(∆f_x) = sign(∆f_t). The proof is done.
+
+NOTE: The “arcane” mathematical fact, (16.3.9a), that the sign of the time change is opposite to that of the distance change, becomes an important physical fact when Maxwell uses it to determine c, the speed of light (Section (23.4)).
+
+(16.4) The Wave Equation in One Dimension THEOREM: (One-dimensional wave equation.) Given f, a sufficiently differentiable real-valued function traveling rightward with constant speed v. Then v² ∂² f(x,t)/∂x² = ∂² f(x,t)/∂t² where ∂² f/∂w² = ∂/∂w (∂ f/∂w) for w = x or t. This is the One-Dimensional Wave Equation.
+
+PROOF: The equality ∂/∂x [∂ f(x,t)/∂t] = -(1/v) ∂/∂t [∂ f(x,t)/∂t]
+
+is a rewriting of (16.3.7a) in which the function f(x,t) has been replaced with another function, ∂ f(x,t)/∂t. If, in (16.4.1b), we replace ∂/∂t on the left-hand side with -(v) ∂/∂x (again, from (16.3.7a)), the result is ∂/∂x [ -v ∂ f(x,t)/∂x ] = -(1/v) ∂/∂t [∂ f(x,t)/∂t] , which, when multiplied through by -v, yields the desired wave equation (16.4.1a).
+
+(16.4.2) Solutions to the Wave Equation. The preceding development assumes only that the real-valued function, f, travels to the right over the 1-dimensional X-axis. If we impose periodicity (the shape of f repeats over every interval of length L), or certain initial conditions (specifying the shape of f over the [0,l] interval at time t = 0), or specific boundary conditions (for all time t, f(x) = 0 for x = 0, L, 2L,...), then specialized techniques exist for finding the appropriate periodic solutions.
+
+(16.5) Wave Propagation: The Skipping-Stone Model
+
+Suppose an individual, the “source” of a ball, is stationary (source speed = v_s = 0). The source individual throws the ball at a speed of 10 mph relative to herself (ball speed = v = 10 mph). A stationary observer reckons the speed of the ball to be w = 10 mph.
+
+Now suppose the source moves at speed 3 mph (source speed = v_s = 3 mph). In this case, the stationary observer sees the ball moving with speed (source speed + ball speed = v_s + v = 3 mph + 10 mph) w = 13 mph. In other words, the speed of a particle is affected by the speed of its emitting source.
+
+In contrast, the speed of a propagated wave is not affected by the speed of its emitting source.
+
+Before developing this invariant property of propagated waves, we introduce the following notation.
+
+(16.5.1)
+
+NOTATION: We will use the following notation:
+
+v_w is the speed of a wave relative to its carrying medium.
+
+v_s is the speed of a wave’s source relative to the medium.
+
+v_m is the speed of the carrying medium of the wave relative to an observer.
+
+Now instead of a ball being thrown from a moving platform, consider a sound wave (a train whistle) being “thrown” from a moving train. Assume there is no wind so the speed of air, the carrying medium, is v_m = 0.
+
+The source of the sound wave, the train whistle, has speed v_s = 100 mph relative to an observer. The speed of sound waves in air, relative to the observer, is v_w = 750 mph. Will the sound of a train’s whistle reach us at v_s + v_w = 850 mph? The answer is no.
+
+Unlike particles, wave speeds are not affected by the speed of the wave source. As long as the observer and the air (the wave’s medium) are not moving relative to each other, the speed, v_s, of the sound’s source does not affect the speed, v_w, of the wave relative to the medium. In other words,
+
+(16.5.2)
+
+PROPOSITION: The speed of a wave through a stationary medium is constant no matter what the speed of its source is.
+
+To see why this is so, consider the “skipping stone model” for propagated waves.
+
+(16.5.3) The speed of a wave source v_s relative to the medium is not transmitted to the speed of the propagated wave v_w relative to the medium. For motivational purposes, Figure (16.5.4) presents a simplified model of circular ripples or wavefronts (instead of spherical ripples) propagated on a 2-dimensional space or “table-top” by a dancer whose every step produces a new expanding ripple from the point of contact.
+
+(16.5.4) FIGURE: The Skipping Propagator of Waves.
+
+Imagine the dancer’s floor with infinitely many uniformly distributed buttons, each of which, when pressed, generates one expanding ripple. All ripples in the medium (table-top) expand at the same speed, v_w, from the center. Whenever the dancer taps any one of the fixed buttons, that button doesn’t care how fast the dancer is prancing overhead—the expansion of the radius of each disk relative to its generating button is always v_w.
+
+(16.5.5) The speed of the medium—not the source—is transmitted to the speed of the propagated wave. We have noted in (16.5.3) that to an outside observer, the speed of a wave, v_w, is always the same regardless of the speed of the wave source, v_s—provided that v_m, the speed of the transmitting medium (air), is zero relative to the observer.
+
+Now if the medium is moving at speed v_m ≠ 0 relative to the observer, then the entire medium-wave-source “unit” is, likewise, carried along at speed v_m relative to the observer. Thus, v_m + v_s is the source speed, and v_m + v_w is the wave speed, relative to the observer. The relative speed of the medium is transmitted to the speed of the wave (and to the speed of the source).
+
+(16.5.5a)
+
+NOTE: Since the medium speed v_m and the source speed v_s are tiny compared to the speed of light, c, there is a minuscule difference between the Galilean/Newtonian arithmetic sum v_m + v_w and the true Lorentzian or relativistic sum, v_m ⊕ v_w (1.13.3), (7.3.1), whose value, as we shall see, was experimentally confirmed by Fizeau (13.2).
+
+(16.6) The Doppler Effect in Spacetime
+
+(16.6.1) A Qualitative View of Frequency Shift. If the speed of the waves (ripples) does not change with the speed of the source, then does the source speed have any observable effect at all?
+
+To fix ideas, and for convenience, we may think of the waves as sound waves traveling through air. As Figures (16.5.4) and (16.6.2) illustrate, an observer who sees (more exactly, hears) the source approaching will perceive an increase of the frequency (the ripples bunch up) while an observer who sees the wave source departing, will hear a decreased frequency (the ripples spread out).
+
+(16.6.2) FIGURE: Shifting Ripple-Centers Affect Frequency
+
+From experience, we know that as a train’s whistle approaches, we hear one pitch, but as soon as the train passes by, we hear another, lower pitch.
+
+(16.6.3)
+
+DEFINITION: If f_0 is the frequency of a wave with a stationary source, then the increase or decrease of wave frequency f induced by relative speed of the source is known as the Doppler Effect.
+
+(16.6.4) As we shall see, the listener will hear only two distinct pitches, (16.6.6a), from the whistle if the train has constant speed on a 1-dimensional track and the observer is standing in the train’s path. (To ensure that the observer actually gets to hear the second tone, we suppose he or she stands very close to, but not on, the track. However, this deviation from the 1-dimensional ideal will produce two almost-constant tones separated by a brief, continuous slide from the higher to the lower pitch.)
+
+(16.6.5) A Quantitative View of Frequency Shift. The following theorem quantifies the value of the two tones that are heard by a stationary observer from a wave-emitting source traveling at constant speed, v_s.
+
+(16.6.6)
+
+THEOREM: (Doppler Shift: Fixed Observer, Moving Source) A wave has speed v_w relative to a transmitting medium that is stationary with respect to an observer. If the observer measures the wave source to have speed v_s = 0, then the observed frequency is f_0. If the observer measures the wave source to have speed v_s > 0, then the observed frequency is
+
+(16.6.6a) f_0 = { f_0 · (v_w / (v_w - v_s))  if the source approaches the observer { f_0 · (v_w / (v_w + v_s))  if the source recedes from the observer.
+
+PROOF: In Figure (16.6.6c), P = 1/f_0 is the period of the wave (time for one wavelength to pass a given point).
+
+At time t = 0, the wave crest (wave maximum) emanates from source Point (0).
+
+At time t = P, as shown in the top view in Figure (16.6.6c), the wave crest, traveling with speed v_w, has spread from Point (0) to a circle with radius distance = speed × time = v_w × P. Points (a) and (a’) lie on this circle.
+
+Also at time t = P, the source Point (0) has traveled to Point (b) with speed v_s. The source will now transmit another wave crest (maximum). The distance traveled by the source is distance = speed × time = v_s × P.
+
+Figure (16.6.6c) shows a full wavelength between Points (b) and (a), and another full wavelength between Points (b) and (a0) since these points represent the positions of the wave crests at time t = P. As shown in Figure (16.6.6c), the distance between Points (b) and (a), i.e., a wavelength, is λ_right = (v_w - v_s) × P. From Definition (16.1.2), the frequency as seen by the right observer is
+
+(16.6.6b) f_0_right = wave speed / wavelength = v_w / λ_right = v_w / ((v_w - v_s) × P) = (v_w / (v_w - v_s)) × (1/P) = (v_w / (v_w - v_s)) × f_0.
+
+This proves the first equation of (16.6.6a).
+
+(16.6.6c) FIGURE: Top View of Wave Crest Propagated After P units of Time
+
+To prove the second equation of (16.6.6a), we establish that the wavelength λ_left = (v_w + v_s) × P and then argue as we did in (16.6.6b). This is left as Exercise (16.7.4). The proof is done.
+
+(16.7) Exercises
+
+(16.7.1) v²/R = Centripetal Acceleration. A particle travels clockwise with speed v_a = v_b = v on an arc with radius R as it subtends an angle of 2θ. It takes t seconds to travel from point a to point b. If the acceleration is defined as [vector(v_b) - vector(v_a)]/t, then show that the acceleration is directed toward the center and has magnitude v²/R.
+
+(16.7.2) Dimensional Consistency. Show that (16.1.4a) is dimensionally consistent. That is, both quantities, v and T/δ, have common dimension, namely, distance/time. Hint: The dimension of the force of tension, T, is (mass × acceleration) and the dimension of linear density, δ, is (mass/length).
+
+(16.7.3) Speed and rpm. Given that a wheel has radius R and is turning at ρ rpm (revolutions per minute). What is the speed of a point on the circumference?
+
+(16.7.3a) Why, in Exercise (16.7.3), do we use symbols R and ρ rather than specific numbers like “7.3 feet” or “2,300 rpm?” The answer is that whether symbols or specific numbers are used, the time and energy required to solve this problem are identical since the manipulations in each case are identical. The advantage of using symbols is that one solution provides a valid template for infinitely many cases, each case corresponding to one of the infinitely many values for R and ρ. But a solution for particular numbers such as “7.3 feet” and “2,300 rpm”, gives you that solution and no other.
+
+(16.7.4) Following the pattern of (16.6.6b), prove the second equation of (16.6.6a).
+
+(17) Measuring the Speed of Light
+
+(17.1) Early Thoughts on the Speed of Light
+
+(17.1.1) Why Is c Used to Represent the Speed of Light in a Vacuum? One credible reason is that c is the first letter of Celeritas, a Latin word that means “speed.” However, from Maxwell’s writings in 1865 through Einstein’s papers in 1905, the letter V—not c—was

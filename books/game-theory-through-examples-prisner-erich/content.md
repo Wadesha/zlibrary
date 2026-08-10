@@ -1,15 +1,8 @@
 # Game theory through examples Prisner Erich Z Library
 
-> 来源文件：pre_Game_theory_through_examples_Prisner_Erich_Z_Library.txt
-> 字符数（约）：249706
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Game Theory Through Examples Erich Prisner Franklin University Switzerland
 
 c 2014 by the Mathematical Association of America, Inc.
-
-Electronic edition ISBN 978-1-61444-115-1
 
 Published and Distributed by The Mathematical Association of America
 

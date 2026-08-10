@@ -1,21 +1,12 @@
 # Timelines of Science DK Smithsonian Z Library
 
-> 来源文件：pre_Timelines_of_Science_DK_Smithsonian_Z_Library.txt
-> 字符数（约）：1705083
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 s m i t h s o n i a n
 
 s m i t h s o n i a n
-
-First American edition,  2013  Published by DK Publishing, 4th Floor, 345 Hudson Street,  New York 10014 13 14  15   10 9 8 7 6 5 4 3 2 1 184801 – 001 – Oct/2013 Published in Great Britain by Dorling Kindersley Limited Copyright © 2013 Dorling Kindersley Limited part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means (electronic, mechanical, photocopying, recording, or otherwise), without prior written permission of both the copyright owner and the above publisher of this book.
 
 Senior Editors Peter Frances, Janet Mohun US Senior Editor Rebecca Warren US Editor Jill Hamilton Project Editors Jemima Dunne, Joanna Edwards, Lara Maiklem, David Summers, Miezan van Zyl, Laura Wheadon Editors Ann Baggaley, Martyn Page, Carron Brown Editorial Assistant Kaiya Shang Jacket Editor Manisha Majithia Indexer Jane Parker Managing Editor Angeles Gavira Guerrero Publisher Sarah Larter Associate Publishing Director Liz Wheeler Publishing Director Jonathan Metcalf DK INDIA DK LONDON Senior Art Editor Ina Stradins Project Art Editors Alison Gardner, Clare Joyce, Francis Wong Senior Preproduction Producer Ben Marcus Producer Vivienne Yong Creative Technical Support Adam Brackenbury Jacket Designer Mark Cavanagh Picture Researcher Liz Moore New Photography Gary Ombler New Illustrations Peter Bull Jacket Design Development Manager Sophia MTT Managing Art Editor Michelle Baxter Art Director Philip Ormerod SMITHSONIAN ENTERPRISES Senior Vice President Director of Licensing Licensing Manager and Project Coordinator Product Development Coordinator Carol LeBlanc Brigid Ferraro Ellen Nanney
 
 Kealy Wilson Managing Editor Rohan Sinha Senior Editor Anita Kakar Editors Dharini Ganesh, Himani Khatreja, Priyaneet Singh DTP Manager Balwant Singh Senior DTP Designer Jagtar Singh DTP Designers Nand Kishor Acharya, Sachin Gupta Deputy Managing Art Editor Sudakshina Basu Senior Art Editor Devika Dwarakadas Art Editors Suhita Dharamjit, Amit Malhotra Assistant Art Editor Vanya Mittal Production Manager Pankaj Sharma A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-1434-2 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, NY 10014 or SpecialSales@dk.com Color reproduction by Alta Images, London Printed and bound in China by Hung Hing LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI Discover more at www.dk.com
 
 Professor Robert Winston Robert Winston is Professor of Science and Society and Emeritus Professor of Fertility Studies at Imperial College London and runs a research program in the Institute of Reproductive and Developmental Biology.
 
@@ -1153,8 +1144,6 @@ This statue of Al-Khwarizmi stands in Khiva, Uzbekistan, his birthplace.
 
 A CHINESE EDITION OF THE BUDDHIST TEXT, Diamond Sutra, was discovered in 1907 in Dunhuang, northwest China.
 
-Although it is probably not the ﬁrst example of a woodblock printed book, it is the earliest known one, and bears the date May 11, 868. The text and illustrations of Diamond Sutra exhibit a great deal of sophistication, suggesting that the techniques of printing on paper were well known in China by this time. An inscription at the end of the manuscript 868 The earliest surviving printed book, the Diamond Sutra, is printed in China 876 Indian mathematicians use a symbol for zero c.890 Al-Razi distils alcohol from wine 861–99 transmutation of metals.
-
 However, alchemy was at the root of another discovery—this time in China. In the early 9th century, Chinese alchemists were experimenting with various mixtures of substances to ﬁnd the “elixir” of life. One of the by-products of this quest was the discovery, in about 855, of gunpowder—the ﬁrst man- made explosive. It consisted of a mixture of sulfur, carbon (in the form of charcoal), and saltpeter (potassium nitrate) – all of which occur naturally as minerals. The mixture’s explosive properties meant that it was initially used in the manufacture of ﬁreworks, but gunpowder later came to fuel rockets, and was eventually used in the development of ﬁrearms.
 
 indicates that this was one of a number of copies printed for distribution.
@@ -1767,8 +1756,6 @@ plate for laying movable type in strips
 
 An illuminated page from Gutenberg’s 42-line Bible. The 48 surviving copies are among the most valuable books in the world.
 
-Austrian astronomer Georg Peurbach publishes New Theories of the Planets—the ﬁrst widely circulated printed astronomical work 1478 Publication of the Treviso Arithmetic, the ﬁrst printed general work on mathematics Regiomontanus writes a systematic textbook for trigonometry IN 1454, GERMAN PRINTER JOHANNES GUTENBERG completed his edition of the Bible printed with 42 lines on each page. It was the ﬁrst substantial book printed in Europe and its 180 or so copies sold out almost immediately. The Gutenberg Bible was soon followed by hundreds of works by Gutenberg and other printers, allowing the much more rapid dissemination of scientiﬁc ideas.
-
 In 1464, German mathematician Johannes Müller, also known as Regiomontanus (1436–76), completed his De Triangulis Omnimodis (On Triangles), a systematic textbook for trigonometry. One of his fundamental propositions was that two triangles that have sides in similar proportions will also have similar angles. He relied on the work of Arabic mathematicians.
 
 The ﬁrst work on cryptography had been written in the 13th century. By the 15th century, cyphers were in widespread use for diplomatic correspondence. Codes relied on monoalphabetic substitution, in which each letter is transformed into the same encoded letter.
@@ -1814,8 +1801,6 @@ Maps of the 15th century, such as this 1540 map (left) by Venetian monk and mapm
 Leonardo da Vinci’s notebooks This page from Leonardo’s notebooks shows his sketches of ﬂying machines.
 
 He used mirror-writing to make notes, although it is uncertain why he did so.
-
-THE LATE 15TH CENTURY saw the production of the ﬁrst printed practical mathematical textbooks. The Treviso Arithmetic, printed in 1478, demonstrated techniques of addition and NAVIGATING AND MAPPING THE WORLD 1490 Leonardo describes the principle of capillary action
 
 First pocket-watch The compact workings of Peter Henlein’s portable clock (c.1512) were driven by a slowly uncoiling spring.
 

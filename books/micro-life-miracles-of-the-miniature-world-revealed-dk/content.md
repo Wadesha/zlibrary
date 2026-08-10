@@ -1,19 +1,8 @@
 # Micro Life Miracles of the Miniature World Revealed DK Z Library
 
-> 来源文件：pre_Micro_Life_Miracles_of_the_Miniature_World_Revealed_DK_Z_Library.txt
-> 字符数（约）：633074
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 MICRO LIFE MIRACLES OF THE MINIATURE WORLD REVEALED S M I T H S O N I A N
 
-First American Edition, 2021 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2021 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 21 22 23 24 25 10 9 8 7 6 5 4 3 2 1 001–316673–Oct/2021 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7440-3956-6 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 1450 Broadway, New York, NY 10018 or SpecialSales@dk.com Printed in China www.dk.com DK LONDON DK DELHI Senior Editor  Dr. Rob Houston US Editor  Karyn Gerhard Editors  Jemima Dunne, Tim Harris, Annie Moss, Steve Setford, Hannah Westlake Production Editors  Andy Hilliard, Gillian Reid Senior Production Controller  Meskerem Berhane Managing Editor  Angeles Gavira Guerrero Associate Publishing Director  Liz Wheeler Publishing Director  Jonathan Metcalf Senior Editor  Dharini Ganesh Editor  Ishita Jha Senior DTP Designer  Jagtar Singh Project Picture Researcher  Aditya Katyal Senior Managing Editor  Rohan Sinha Pre-production Manager  Balwant Singh Editorial Head  Glenda R. Fernandes Senior Art Editor  Ina Stradins Designers  Simon Murrell, Francis Wong Illustrator  Phil Gamble Picture Researcher  Laura Barwick Senior Jacket Designer  Akiko Kato Jacket Design Development Manager  Sophia MTT Managing Art Editor  Michael Duffy Art Director  Karen Self Design Director  Phil Ormerod Project Art Editor  Anjali Sachar Senior Jacket Designer  Suhita Dharamjit DTP Designers  Jaypal Singh Chauhan, Rakesh Kumar Picture Research Manager  Taiyaba Khatoon Managing Art Editor  Sudakshina Basu Production Manager  Pankaj Sharma Design Head  Malavika Talukder This book was made with Forest Stewardship Council ™ certified paper—one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge
 
 Contributors Consultants Derek Harvey (lead author) is a naturalist with a particular interest in evolutionary biology, who studied Zoology at the University of Liverpool. He has taught a generation of biologists, and has led student expeditions to Costa Rica, Madagascar, and Australasia.
 

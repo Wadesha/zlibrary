@@ -1,10 +1,10 @@
 {
   "slug": "数学物理方法mmpbook-v3-6",
-  "title": "数学物理方法mmpbook_v3_6",
+  "title": "数学物理方法mmpbook v3.6",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]数学物理方法mmpbook_v3_6.md",
+  "pipeline": "ocr_md",
+  "source_file": "数学物理方法mmpbook_v3.6.md",
   "source_pdf": "数学物理方法mmpbook_v3.6.pdf",
-  "chars": 155466,
+  "chars": 66421,
   "has_fixed": false
 }

@@ -1,23 +1,12 @@
 # The Encyclopedia of Birds Laurie E Likoff Z Library
 
-> 来源文件：pre_The_Encyclopedia_of_Birds_Laurie_E_Likoff_Z_Library.txt
-> 字符数（约）：1952632
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BIRDS BIRDS THE ENCYCLOPEDIA OF
 
 BIRDS BIRDS THE Encyclopedia of
 
-THE ENCYCLOPEDIA OF BIRDS Copyright ©2007 by International Masters Publishing.
-
 Portions of this material were previously published as part of the Wildlife Explorer reference set.
 
 or by any means, electronic or mechanical, including photocopying, recording, or by any information storage or retrieval systems, without permission in writing from the publisher. For information contact: Facts On File, Inc.
-
-An imprint of Infobase Publishing 132 West 31st Street New York NY 10001 ISBN-10: 0-8160-5904-7 (set)
-
-ISBN-13: 978-0-8160-5904-1 (set)
 
 Library of Congress Cataloging-in-Publication Data The encyclopedia of birds / edited by International Masters Publishers.
 
@@ -25,21 +14,13 @@ p. cm.
 
 Includes index.
 
-ISBN 0-8160-5904-7 (set)
-
 ## 1. Birds—Encyclopedias. I. International Masters Publishers
 
 QL672.2E534 2006 598.03—dc22            2006049526 Facts On File books are available at special discounts when purchased in bulk quantities for businesses, associations, institutions, or sales promotions. Please call our Special Sales Department in New York at (212) 967-8800 or (800) 322-8755.
 
-You can find Facts On File on the World Wide Web at http://www.factsonfile.com Editorial Director: Laurie E. Likoff Project Editor:Tracy Bradbury Text and cover design by Cathy Rincon Printed in China
-
 ## CP FOF 10 9 8 7 6 5 4 3 2
 
 This book is printed on acid-free paper.
-
-The Publisher has made every effort to contact and secure permission releases from the copyright holders of the photographs used throughout this work.
-
-Anyone having claims to ownership not identified in the picture credits is invited to email to photos@impdirect.com.
 
 Contents Introduction What is a Bird?
 

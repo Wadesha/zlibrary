@@ -1,17 +1,6 @@
 # Super Simple Maths DK Z Library
 
-> 来源文件：pre_Super_Simple_Maths_DK_Z_Library.txt
-> 字符数（约）：495747
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-DK LONDON Senior editor  Sarah MacLeod Senior art editor  Samantha Richiardi Project editors  Edward Aves, Ben Morgan Editor  Alexandra Di Falco Illustrators  Adam Brackenbury, Gus Scott Managing editors  Rachel Fox, Lisa Gillespie Managing art editor  Owen Peyton Jones Production editor  George Nimmo Production controller  Laura Andrews Jacket designer  Akiko Kato Jackets design development manager  Sophia MTT Publisher  Andrew Macintyre Art director  Karen Self Associate publishing director  Liz Wheeler Publishing director  Jonathan Metcalf Authors  Belle Cottingham, John Farndon, Tom Jackson, Ben Morgan, Michael Olagunju, Jenny Skene, Karl Warsi Consultant  Karl Warsi DK DELHI Senior editor  Anita Kakar Project art editor  Sanjay Chauhan Editors  Aashirwad Jain, Sonali Jindal Art editor  Sonakshi Singh Assistant art editor  Aparajita Sen Senior picture researcher  Surya Sankash Sarangi Picture research manager  Taiyaba Khatoon Senior managing editor  Rohan Sinha Managing art editor  Sudakshina Basu Senior DTP designer  Vishal Bhatia DTP designer  Nityanand Kumar Pre-production manager  Balwant Singh Production manager  Pankaj Sharma Jacket designer  Juhi Sheth Senior jackets designer  Suhita Dharamjit Jackets DTP designer  Rakesh Kumar Design head  Malavika Talukder Editorial head  Glenda R Fernandes First published in Great Britain in 2021 by Dorling Kindersley Limited DK, One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW The authorised representative in the EEA is Dorling Kindersley Verlag GmbH, Arnulfstr 124, 8036 Munich, Germany Copyright © 2021 Dorling Kindersley Limited A Penguin Random House Company 10  9  8  7  6  5  4  3  2  1 001-322042-June/2021 No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-2414-7095-4 Printed and bound in China www.dk.com This book was made with Forest Stewardship Council™ certified paper – one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge
 
 −5 a2 3n y2 4b ab c3 b2 9tu x2 y3 THE ULTIMATE BITESIZE STUDY GUIDE super simple MATHS
 

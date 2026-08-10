@@ -1,35 +1,14 @@
 # Classical Mechanics Hiqmet Kamberaj Z Library
 
-> 来源文件：pre_Classical_Mechanics_Hiqmet_Kamberaj_Z_Library.txt
-> 字符数（约）：262299
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Hiqmet Kamberaj Classical Mechanics
 
 Also of Interest
 
-Electrical Engineering Fundamentals Viktor Hacker, Christof Sumereder, 2020 ISBN 978-3-11-052102-3, e-ISBN (PDF) 978-3-11-052111-5, e-ISBN (EPUB) 978-3-11-052113-9
-
 De Gruyter Studies in Mathematical Physics Edited by Michael Efroimsky, Leonard Gamberg, Dmitry Gitman, Alexander Lazarian, Boris M. Smirnov ISSN 2194-3532, e-ISSN 2194-3540
-
-Solid State Physics Siegfried Hunklinger, Christian Enss, planned for 2021 ISBN 978-3-11-066645-8, e-ISBN (PDF) 978-3-11-066650-2, e-ISBN (EPUB) 978-3-11-066708-0
-
-Relativistic World Volume 1 Mechanics Serhii Stepanov, 2018 ISBN 978-3-11-051587-9, e-ISBN (PDF) 978-3-11-051588-6, e-ISBN (EPUB) 978-3-11-051600-5
-
-Hypersymmetry Physics of the Isotopic Field-Charge Spin Conservation György Darvas, 2020 ISBN 978-3-11-071317-6, e-ISBN (PDF) 978-3-11-071318-3, e-ISBN (EPUB) 978-3-11-071348-0
 
 Hiqmet Kamberaj Classical Mechanics
 
 Mathematics Subject Classification 2010 Primary: 00A79, 51P05, 00A69; Secondary: 70F15, 76A02
-
-Author Dr. Hiqmet Kamberaj Metodija Mitevski Nr. 12/4-3 1000 Skopje North Macedonia h.kamberaj@gmail.com
-
-ISBN 978-3-11-075581-7 e-ISBN (PDF) 978-3-11-075582-4 e-ISBN (EPUB) 978-3-11-075593-0
-
-Library of Congress Control Number: 2021940883 Bibliographic information published by the Deutsche Nationalbibliothek The Deutsche Nationalbibliothek lists this publication in the Deutsche Nationalbibliografie; detailed bibliographic data are available on the Internet at http://dnb.dnb.de.
-
-© 2021 Walter de Gruyter GmbH, Berlin/Boston Cover image: Jaredd Craig/unsplash Typesetting: VTeX UAB, Lithuania Printing and binding: CPI books GmbH, Leck www.degruyter.com
 
 Preface
 
@@ -49,13 +28,9 @@ The book is mainly aimed at undergraduate students in engineering and science. C
 
 May 2021 Hiqmet Kamberaj
 
-https://doi.org/10.1515/9783110755824-201
-
 Acknowledgment
 
 I thank my family for their continuous support: Nera (my wife), Jon (my son) and Lina (my daughter).
-
-https://doi.org/10.1515/9783110755824-202
 
 Contents
 

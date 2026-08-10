@@ -1,13 +1,6 @@
 # Atoms in the Family My Life with Enrico Fermi Laura Fermi Z Library
 
-> 来源文件：pre_Atoms_in_the_Family_My_Life_with_Enrico_Fermi_Laura_Fermi_Z_Library.txt
-> 字符数（约）：547049
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ATOMS IN THE FAMILY My Life with Enrico Fermi by LAURA FERMI The University of Chicago Press Chicago & London
-
-The University of Chicago Press, Chicago 60637 The University of Chicago Press, Ltd., London © 1954 by The University of Chicago Printed in the United States of America O1 009998 97 96 95 20 19 18 17 16 15 14 ISBN 0-226-24367-2 (The paper used in this publication meets the minimum requirements of the American National Standard for Information Sciences Permanence of Paper for Printed Library Materials, ANSI Z39.48-1984.
 
 CONTENTS LIST OF ILLUSTRATIONS VII
 

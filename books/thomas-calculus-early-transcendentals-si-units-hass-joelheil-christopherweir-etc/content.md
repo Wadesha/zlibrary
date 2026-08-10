@@ -1,10 +1,5 @@
 # Thomas Calculus Early Transcendentals SI Units Hass JoelHeil ChristopherWeir etc Z Library
 
-> 来源文件：pre_Thomas_Calculus_Early_Transcendentals_SI_Units_Hass_JoelHeil_ChristopherWeir_etc_Z_Library.txt
-> 字符数（约）：3325030
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 GLOBAL EDITION THOMAS’ CALCULUS Early Transcendentals FIFTEENTH EDITION IN SI UNITS Hass • Heil • Bogacki • Weir
 
 'LJLWDO5HVRXUFHVIRU6WXGHQWV <RXUQHZWH[WERRNSURYLGHVPRQWKDFFHVVWRGLJLWDOUHVRXUFHVWKDWLQFOXGHDQRQOLQH DSSHQGL[WKUHHRQOLQHFKDSWHUVKLVWRULFDOELRJUDSKLHVDQGPRUH )ROORZWKHLQVWUXFWLRQVEHORZWRUHJLVWHUIRUWKH&RPSDQLRQ:HEVLWHIRUThomas’ Calculus:Early Transcendentals)LIWHHQWK(GLWLRQLQ6,8QLWVE\-RHO5+DVV 0DXULFH':HLU3U]HP\VODZ%RJDFNLDQG&KULVWRSKHU(+HLO 1. *RWRZZZSHDUVRQJOREDOHGLWLRQVFRP 2. (QWHUWKHWLWOHRI\RXUWH[WERRNRUEURZVHE\DXWKRUQDPH 3. &OLFN&RPSDQLRQ:HEVLWH 4. &OLFN5HJLVWHUDQGIROORZWKHRQVFUHHQLQVWUXFWLRQVWRFUHDWHDORJLQQDPH DQGSDVVZRUG 8VHWKHORJLQQDPHDQGSDVVZRUG\RXFUHDWHGGXULQJUHJLVWUDWLRQWRVWDUWXVLQJWKH RQOLQHUHVRXUFHVWKDWDFFRPSDQ\\RXUWH[WERRN ,03257$17
@@ -15,21 +10,9 @@ Based on the original work by GEORGE B. THOMAS, JR.
 
 Massachusetts Institute of Technology as revised by JOEL HASS University of California, Davis CHRISTOPHER HEIL Georgia Institute of Technology PRZEMYSLAW BOGACKI Old Dominion University MAURICE D. WEIR Naval Postgraduate School SI Contributions by JOSÉ LUIS ZULETA ESTRUGO École Polytechnique Fédérale de Lausanne FIFTEENTH EDITION IN SI UNITS Early Transcendentals CALCULUS THOMAS’
 
-Product Management: Shabnam Dohutia, K.K. Neelakantan, Aurko Mitra, and Shahana Bhattacharya Content Production: Nitin Shankar Product Marketing: Ellie Nicholls Rights and Permissions: Anjali Singh and Ashish Vyas Cover image: VVadi4ka/Shutterstock Please contact https://support.pearson.com/getsupport/s/ with any queries on this content.
-
 Pearson Education Limited KAO Two KAO Park Hockham Way Harlow, Essex CM17 9SR United Kingdom
 
 and Associated Companies throughout the world
-
-Visit us on the World Wide Web at: www.pearsonglobaleditions.com
-
-© Pearson Education Limited 2024
-
-The rights of Joel Hass, Christopher Heil, Przemyslaw Bogacki, and Maurice D. Weir to be identified as the authors of this work have been asserted by them in accordance with the Copyright, Designs and Patents Act 1988.
-
-Authorized adaptation from the United States edition, entitled Thomas’ Calculus: Early Transcendentals, 15th Edition, ISBN 978-0-13-755989-3 by Joel Hass, Christopher Heil, Przemyslaw Bogacki, and Maurice D. Weir published by Pearson Education © 2023.
-
-by any means, electronic, mechanical, photocopying, recording or otherwise, without either the prior written permission of the publisher or a license permitting restricted copying in the United Kingdom issued by the Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS. For information regarding permissions, request forms and the appropriate contacts within the Pearson Education Global Rights & Permissions department, please visit www.pearsoned.com/permissions/.
 
 Acknowledgments of third-party content appear on the appropriate page within the text.
 
@@ -38,8 +21,6 @@ PEARSON, ALWAYS LEARNING, and MYLAB are exclusive trademarks owned by Pearson Ed
 Unless otherwise indicated herein, any third-party trademarks that may appear in this work are the property of their respective owners and any references to third-party trademarks, logos or other trade dress are for demonstrative or descriptive purposes only. Such references are not intended to imply any sponsorship, endorsement, authorization, or promotion of Pearson’s products by the owners of such marks, or any relationship between the owner and Pearson Education, Inc. or its affiliates, authors, licensees, or distributors.
 
 This eBook may be available as a standalone product or integrated with other Pearson digital products like MyLab and Mastering. This eBook may or may not include all assets that were part of the print version. The publisher reserves the right to remove any material in this eBook at any time.
-
-ISBN 10 (print): 1-292-72590-7 ISBN 13 (print): 978-1-292-72590-1 ISBN 13 (uPDF eBook): 978-1-292-45762-8
 
 British Library Cataloguing-in-Publication Data A catalogue record for this book is available from the British Library
 
@@ -543,8 +524,6 @@ Preface ▼ Instructional videos—Hundreds of videos are available as learning 
 
 Other student resources include: • Student’s Solutions Manual The Student’s Solutions Manual provides detailed worked-out solutions to the odd-numbered exercises in Thomas’ Calculus: Early Tran- scendentals, 15th Edition in SI Units. Available in MyLab Math.
 
-• Companion Website The companion Website, located at www.pearsonglobaleditions.com, offers an online
-
 ## appendix, three online chapters, historical biographies, and more
 
 Instructor Resources Your course is unique. So, whether you’d like to build your own assignments, teach mul- tiple sections, or set prerequisites, MyLab gives you the flexibility to easily create your course to fit your needs.
@@ -571,17 +550,9 @@ Performance Analytics enable instructors to see and analyze student performance 
 
 Preface In Performance Analytics, instructors can email students individually or by group to pro- vide feedback.
 
-Accessibility—Pearson works continuously to ensure our products are as accessible as possible to all students. Currently, we are working toward achieving WCAG 2.0 AA for our existing products (2.1 AA for future products) and Section 508 standards, as expressed in the Pearson Guidelines for Accessible Educational Web Media (https://www.pearson .com/uk/accessibility.html).
-
-Other instructor resources include: • Instructor’s Solutions Manual—The Instructor’s Solutions Manual provides complete worked-out solutions for all exercises in Thomas’ Calculus: Early Tran- scendentals, 15th Edition in SI Units. It can be downloaded from within MyLab Math or from Pearson’s online catalog at www.pearsonglobaleditions.com.
-
 • PowerPoint Lecture Slides feature editable lecture slides written and designed spe- cifically for this text, including figures and examples.
 
-• TestGen enables instructors to build, edit, print, and administer tests using a com- puterized bank of questions developed to cover all the objectives of the text. TestGen is algorithmically based, allowing instructors to create multiple but equivalent ver- sions of the same questions or test with the click of a button. Instructors can also modify test bank questions or add new questions. The software and test bank are available for download at www.pearsonglobaleditions.com.
-
 • Technology Manuals and Projects Maple Manual and Projects Mathematica Manual and Projects TI-Graphing Calculator Manual These manuals and projects cover Maple 2021, Mathematica 12, and TI-84 Plus and TI-89. Each manual provides detailed guidance for integrating a specific software package or graphing calculator throughout the course, including syntax and com- mands. The projects include instructions and ready-made application files for Maple and Mathematica. Available to download within MyLab Math.
-
-Learn more at https://www.pearsonmylabandmastering.com/global/
 
 Acknowledgments Acknowledgments We would like to express our thanks to the people who made many valuable contributions to this edition as it developed through its various stages.
 
@@ -594,12 +565,6 @@ Joel Hass Christopher Heil Przemyslaw Bogacki
 Acknowledgments Acknowledgments for the Fifteenth Edition in SI Units Pearson would like to acknowledge and thank the following for the SI edition: Contributor for the Fifteenth Edition in SI Units José Luis Zuleta Estrugo received his PhD degree in Mathematical Physics from the University of Geneva, Switzerland. He is currently a faculty member at the Department of Mathematics in École Polytechnique Fédérale de Lausanne (EPFL), Switzerland, where he teaches undergraduate courses in linear algebra, calculus, and real analysis.
 
 Contributor for the Thirteenth Edition in SI Units Antonio Behn Universidad de Chile Reviewers for the Fourteenth and Fifteenth Editions in SI Units B. R. Shankar National Institute of Technology Karnataka Antonio Behn Universidad de Chile We would also like to thank Orhun Kara from İzmir Institute of Technology for his valuable feedback on the Fourteenth Edition in SI Units to help enhance the accuracy of this text.
-
-Accessibility We are also committed to providing products that are fully accessible to all learners. As per Pearson’s guidelines for accessible educational Web media, we test and retest the capabilities of our products against the highest standards for every release, following the WCAG guidelines in developing new products for copyright year 2022 and beyond.
-
-You can learn more about Pearson’s commitment to accessibility at https://www.pearson.com/uk/accessibility.html Contact Us While we work hard to present unbiased, fully accessible content, we want to hear from you about any concerns or needs with this Pearson product so that we can investigate and address them.
-
-Please contact us with concerns about any potential bias at https://www.pearson.com/report-bias.html For accessibility-related issues, such as using assistive technology with Pearson products, alternative text requests, or accessibility documentation, email the Pearson Disability Support team at disability.support@pearson.com • Everyone has an equitable and lifelong opportunity to succeed through learning.
 
 • Our educational content accurately reflects the histories and lived experiences of the learners we serve.
 
@@ -24554,8 +24519,6 @@ and its surface area is s .
 = − > The minus sign indicates that the volume is decreasing. We assume that the proportionality factor k is constant. (It probably depends on many things, such as the relative humidity of the sur- rounding air, the air temperature, and the incidence or absence of sunlight, to name only a few.) Assume a particular set of condi- tions in which the cube lost 1 4 of its volume during the first hour, and assume that the volume is V0 when t 0.
 
 How long will it take the ice cube to melt?
-
-Mathematica/Maple Projects Projects can be found at www.pearsonglobaleditions.com or within MyLab Math.
 
 • Convergence of Secant Slopes to the Derivative Function You will visualize the secant line between successive points on a curve and observe what happens as the distance between them becomes small.
 

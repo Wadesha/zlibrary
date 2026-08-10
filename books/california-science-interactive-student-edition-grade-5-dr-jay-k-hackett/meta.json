@@ -1,10 +1,10 @@
 {
   "slug": "california-science-interactive-student-edition-grade-5-dr-jay-k-hackett",
-  "title": "California_Science_Interactive_Student_Edition_Grade_5_Dr_Jay_K_Hackett",
+  "title": "California Science, Interactive Student Edition, Grade 5 Dr. Jay K. Hackett",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]California_Science_Interactive_Student_Edition_Grade_5_Dr_Jay_K_Hackett_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "California Science, Interactive Student Edition, Grade 5 (Dr. Jay K. Hackett) (Z-Library).md",
   "source_pdf": null,
-  "chars": 679698,
+  "chars": 782942,
   "has_fixed": false
 }

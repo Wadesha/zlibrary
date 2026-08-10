@@ -1,10 +1,5 @@
 # ap physics c mechanics hybrid sample free response booklet
 
-> 来源文件：pre_ap_physics_c_mechanics_hybrid_sample_free_response_booklet.txt
-> 字符数（约）：4761
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 TEST BOOK SERIAL NUMBER AP® Physics C: Mechanics Sample Booklet
 
 ## SECTION II: FREE-RESPONSE
@@ -28,8 +23,6 @@ First letter of your first name
 • Do not write outside the box. Erased or crossed-out work will not be scored.
 
 • Reference information is in Bluebook.
-
-© 2025 College Board. College Board, Advanced Placement, AP, and the acorn logo are registered trademarks of College Board. Unauthorized reproduction or use of any part of this test is prohibited and may result in cancellation of scores and possible prosecution to the fullest extent of the law.
 
 Affix AP ID Label Here
 

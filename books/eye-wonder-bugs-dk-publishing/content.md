@@ -1,10 +1,5 @@
 # 昆虫奇观：虫子（Eye Wonder: Bugs，DK 出版，Z-Library）
 
-> 来源文件：pre_Eye_Wonder_Bugs_DK_Publishing_Z_Library.txt
-> 字符数（约）：36658
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 昆虫奇观（Eye Wonder）
 
 昆虫奇观 目录 伦敦、纽约、慕尼黑、墨尔本和德里
@@ -31,35 +26,15 @@ DTP 设计：Almudena Díaz
 16-17 纽约，纽约州 10014
 现在你看见我了……
 
-版权 © 2002 Dorling Kindersley Limited
-版权声明。本出版物的任何部分不得被 18-19 复制、存储于检索系统，或以任何形式或任何手段（电子、机械、影印、警告信号 录音或其他方式）传播，未经版权所有者事先许可。由 Dorling Kindersley Limited 在英国出版。
-20-21 York, Penelope. 母亲照料 虫子/作者 Penelope York——第一版美国版。
-
 页码 cm. ——（昆虫奇观 丛书）
 
 摘要：介绍多种昆虫及其行为，22-23 讨论变态、伪装、防御及其对人类的好处。
-
-ISBN 0-7894-8552-4 —— ISBN 0-7894-8553-2 全部改变
 
 ## 1. 昆虫——少儿读物。[1. 昆虫。] I. 题名。II. 丛书
 
 QL467.2.Y67 2002 24-25 595.7——dc21
 
-## ISBN 0-7566-0093-6
-
 嗡嗡飞舞 由新加坡 Colourscan 进行色彩复制，由意大利 L.E.G.O. 印刷装订
-
-26-27 在 www.dk.com 查看我们的完整产品线 助手军团
-28-29 丛林深处
-30-31 沙漠恶魔
-32-33 水中世界
-34-35 屋尘螨
-36-37 黄昏降临……
-38-39 奇异与奇妙
-40-41 害虫与瘟疫
-42-43 清理工
-44-45 必不可少的虫子
-46-47 词汇表 索引与致谢
 
 ## 虫子，虫子，虫子
 
@@ -819,4 +794,3 @@ Woodfall Wild Images：Andy Harmer 13cla；Peter Wilson 14tl；David Woodfall 8-
 Densey Clyne Productions：Densey Clyne 47br。Bruce Coleman Ltd：Jane Burton 14cra；Andrew Purcell 32bc；Kim Taylor 35bl。Corbis：Jacket：Bruce Coleman Ltd：Kim Taylor 和 Michael & Patricia Fogden：Michael Anthony Bannister/Gallo Images 44bl；Michael & Patricia Fogden：20tl；Patricia Fogden。Premaphotos Wildlife：Ken Preston-Mafham。Jerry Young。
 
 a=上；c=中；b=下；l=左；r=右；t=顶。
-

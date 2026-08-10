@@ -16,10 +16,6 @@ the Britannica Illustrated Science Library electronic pagination of the eBook do
 
 please use the electronic Table of Contents that appears alongside the eBook or the Search function.
 
-## © 2009 Editorial Sol 90
-
-All rights reserved.
-
 ## For citation purposes
 
 use the page numbers that appear in the text.
@@ -111,8 +107,6 @@ Gustavo J.
 ## Publication Services
 
 Inc.
-
-### Portions © 2009 Encyclopædia Britannica
 
 Inc.
 
@@ -216,8 +210,6 @@ Sylvia Wallace, Director
 
 Julian Ronning, Supervisor
 
-## Printed in China
-
 ### Information Management and Retrieval
 
 Sheila Vasich, Information Architect
@@ -231,8 +223,6 @@ Marilyn L.
 ## Manufacturing
 
 Kim Gerber, Director
-
-www.
 
 britannica.
 

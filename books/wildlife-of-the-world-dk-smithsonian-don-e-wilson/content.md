@@ -1,10 +1,5 @@
 # 世界各地的野生动物 DK Smithsonian Don E Wilson Z Library
 
-> 来源文件：pre_Wildlife_of_the_World_DK_Smithsonian_Don_E_Wilson_Z_Library.txt
-> 字符数（约）：1186515
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 史密森尼学会（Smithsonian）成立于1846年，是世界上最大的博物馆与研究综合体，辖有19座博物馆与画廊以及国家动物园。史密森尼收藏中的文物、艺术品和标本总数估计达1.38亿件，其中大部分收藏在国家自然历史博物馆，该馆藏有超过1.26亿件标本与物品。史密森尼是一所著名的研究中心，致力于艺术、科学和历史领域的公共教育、国家服务与学术。
 
 Jamie Ambrose 是一位常驻英国的美籍作家、编辑和记者，对自然界抱有特别兴趣。
@@ -45,11 +40,7 @@ John Woodward 撰写了40多本书和数百篇文章，内容涉及自然世界�
 
 他是美国科学促进会（AAAS）的当选会士，也是美国哺乳动物学家学会（ASM）的荣誉会员。
 
-美国第一版，2015年，由 DK Publishing 出版，地址：345 Hudson Street, New York, New York 10014。版权所有 © 2015 Dorling Kindersley Limited。DK，企鹅兰登书屋（Penguin Random House）旗下公司。15 16 17 18 19 10 9 8 7 6 5 4 3 2 1 001–259136–October/2015。未经版权所有者事先书面许可，不得以任何形式或任何方式（电子、机械、影印、录音或其他方式）复制、存储或引入检索系统，或传播本出版物的任何部分。
-
 由英国 Dorling Kindersley Limited 出版。
-
-本书的编目记录可从国会图书馆获取。ISBN 978-1-4645-3804-1。DK 图书在批量购买用于促销、赠品、筹款或教育用途时享有特别折扣。详情请联系：DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014，SpecialSales@dk.com。印刷于中国。A WORLD OF IDEAS：SEE ALL THERE IS TO KNOW。www.dk.com
 
 DK 伦敦（DK LONDON） 高级艺术编辑 Ina Stradins；高级编辑 Janet Mohun、Peter Frances；项目编辑 Gill Pitts；美国编辑 Jenny Siklos；项目艺术编辑 Francis Wong；设计师 Simon Murrell；编辑助理 Frankie Piscitelli；索引编辑 Hilary Bird；图片研究员 Liz Moore；新摄影 Gary Ombler；制图 Simon Mumford、Ed Merritt；护封设计师 Mark Cavanagh；护封编辑 Claire Gell；护封设计开发经理 Sophia MTT；前期制作制作人 Francesca Wardell；制作人 Rita Sinha；管理艺术编辑 Michael Duffy；管理编辑 Angeles Gavira；艺术总监 Karen Self；设计总监 Phil Ormerod；出版人 Liz Wheeler；出版总监 Jonathan Metcalf。
 
@@ -12416,7 +12407,6 @@ IUCN（国际自然保护联盟，International Union for the Conservation of Na
 
 科学家与各类机构收集有关物种种群规模、栖息地破碎化与衰退速率的数据，IUCN 据此评估每个物种所面临的风险。
 
-
 460  |  索引 A aardvark 228, 229, 381 aardwolf 402 Abyssinian roller 207 acacia 178, 193, 320, 334 camel thorn 228 whistling 192 Accipiter gentilis 415 Acinonyx jubatus 196–7 Acipenser sturio 445 acorn worms 451 Acridotheres tristis 423 Actitis macularius 418 Actophilornis africanus 224 addax 406 Addax nasomaculatus 406 adders common 145 desert death 328 puff 431 Adelie penguin 372 Aechmophorus occidentalis 412 Aepyceros melampus 197 Africa 14, 174–243 Congo Basin 208–17 Ethiopian Highlands 178–83 Great Rift Valley lakes 184–91 Kalahari Desert 228–35 Madagascan dry forest 236–43 Okavango Delta 218–27 Serengeti savannas 192–207 African cherry 208 African clawless otter 184, 399 African darter 70 African fat-tailed gecko 433 African fire skink 434 African fish eagle 43, 415 African forest elephant 382 African helmeted turtle 428 African jacana 224 African Rift Valley 188 African savanna elephant 15, 202–03 African skimmer 226 African spoonbill 15, 413 African wild ass 402 African wild dog 192, 224–25 African zorilla 399 Agalychnis callidryas 82–83 Agama agama 432 agama lizard 427 aggressive mimicry 301 Agkistrodon contortrix 431 agouti 90 Ailuropoda melanoleuca 274–75 Ailurus fulgens 270 Aix galericulata 290 Alaska 27, 36, 43, 76 Alauda arvensis 423 albatrosses 364 Atlantic yellow-nosed 412 wandering 366–67 waved 125 Alberta 72
 
 ## 索引
@@ -12838,4 +12828,3 @@ Dreamstime.com: Iliuta Goean (bc). 448 123RF.
 com: vilainecrevette (bc). 449 Corbis: Design Pics / Ed Robinson. 450 Dorling Kindersley: Linda Pitkin (cl). 451 Corbis: Wim van Egmond / Visuals Unlimited (bl); Solvin Zankl / Visuals Unlimited (cr). Science Photo Library: Steve Gschmeissner (tc). 452 Dorling Kindersley: The Natural History Museum, London (tr); Oxford University Museum of Natural History (cl). 454 Dorling Kindersley: Paolo Mazzei (tl). 455 Dorling Kindersley: Richard Ling (cr). Dreamstime.com: Sarah2 (tl)
 
 Jacket images: Front: FLPA: Frans Lanting; Back: Getty Images: Paul Souders cb; Spine: FLPA: Frans Lanting t All other images © Dorling Kindersley For further information see: www.dkimages.com
-

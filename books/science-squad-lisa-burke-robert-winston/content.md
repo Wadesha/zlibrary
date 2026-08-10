@@ -1,17 +1,8 @@
 # 科学小队 丽莎·伯克 罗伯特·温斯顿 Z Library
 
-> 来源文件：pre_Science_Squad_Lisa_Burke_Robert_Winston_Z_Library.txt
-> 字符数（约）：76897
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 作者：丽莎·伯克（Lisa Burke）　顾问：罗伯特·温斯顿教授（Professor Robert Winston）　科学小队　科学小队
 
-目录　引言　认识科学小队　宇宙 10　太阳系 12　我们的超级太阳 14　地球 16　地球的大气层 18　月球 20　水循环 22　固体、液体和气体 24　天气 26　危险的星球 28　动物 30　植物　高级编辑　萨姆·普里迪（Sam Priddy）　高级美术编辑　菲奥娜·麦克唐纳（Fiona Macdonald）　设计师兼插图师　贝蒂娜·迈克莱布斯特·斯托夫内（Bettina Myklebust Stovne）　补充编辑　乔利恩·戈达德、凯蒂·列侬、梅根·威尔、阿明娜·优素福　管理编辑　劳拉·吉尔伯特　管理美术编辑　黛安·佩顿·琼斯　排版设计　拉杰什·辛格　封面设计　埃勒·沃德　制作前期制作　丽贝卡·法罗菲尔德　制作人　伊莎贝尔·沙尔特　创意总监　海伦·西尼尔　出版总监　萨拉·拉特　教育顾问　杰奎琳·哈里斯、特伦特·柯克帕特里克　首次出版于 2018 年，由英国伦敦多林金德斯利有限公司（Dorling Kindersley Limited）出版，地址：80 Strand, London, WC2R 0RL　版权所有 © 2018 多林金德斯利有限公司　企鹅兰登书屋集团旗下公司　10 9 8 7 6 5 4 3 2 1 001–305910–May/2018　未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 本书的英国图书馆编目（CIP）记录可从大英图书馆获取。
-
-ISBN：978-0-2413-0185-2　印刷并装订于中国　思想的天地：尽览所知　www.dk.com
 
 32 进化 34 北极食物网 36 生态系统 38 雨林内部 40 气候变化 42 微观生命 44 人体 46 思考一下 48 感官 50 技术 52 简单机械 54 时间 56 测量 58 运用数字 60 材料 62 建造桥梁 64 飞向天空 66 浮力与沉没 68 摩擦 70 电 72 互联网 74 机器人 76 词汇表 78 索引 80 致谢
 
@@ -1866,4 +1857,3 @@ iStockphoto.com：thawats (cl)。32 Dreamstime.com：Christophe Testi (c)；Trav
 封面图片：前与后：Dreamstime.com：Diosmirnov (chef hats)；前：123RF.com：alisali cl/ (flowers)，Andrzej Tokarski / ajt crb/ (snail)，Mariusz Blach br/ (cup)，tobi tr/ (pot)；Alamy Stock Photo：Samyak Kaninde bl/ (pika)；多林金德斯利：Booth Museum of Natural History, Brighton cra/ (beetle)，Wildlife Heritage Foundation, Kent, UK bl/ (leopard)；Dreamstime.com：Alle fcl/ (bees)，Andrey Burmakin / Andreyuu cra/ (bug)，Cosmin Manci / Cosmin cr/ (beetle)，Torian Dixon / Mrincredible tl/ (planets)，Dragoneye bl/ (goat)，Isselee cra/ (firebug)，Okea br/ (coffee splash)，Santos06 bc/ (cart)，Shakila Malavige br/ (background)，Sutisa Kangvansap / Mathisa cr/ (butterfly)，Svetlana Larina / Blair_witch fclb/ (butterfly)，Travelling-light tr/ (note pad)；NASA：cla/ (Voyager)；后：123RF.com：tobi cra/ (pot)；Dreamstime.com：Jannoon028 crb/ (plank)，Tommy Schultz / Tommyschultz clb/ (coral)；iStockphoto.com：thawats fclb/ (butterfly)；书脊：123RF.com：goodluz b/ (remote control)。
 
 所有其他图片 © 多林金德斯利。更多信息请见：www.dkimages.com
-

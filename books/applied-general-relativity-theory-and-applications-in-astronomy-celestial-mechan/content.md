@@ -1,10 +1,5 @@
 # Applied General Relativity Theory and Applications in Astronomy Celestial Mechanics and Metrology Michael H Soffel Wen Biao Han Z Library
 
-> 来源文件：pre_Applied_General_Relativity_Theory_and_Applications_in_Astronomy_Celestial_Mechanics_and_Metrology_Michael_H_Soffel_Wen_Biao_Han_Z_Library.txt
-> 字符数（约）：265121
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Astronomy and Astrophysics Library
 
 Michael H. Soffel – Wen-Biao Han
@@ -16,12 +11,6 @@ Michael H. Soffel Institute of planetary geodesy, Lohrmann-Observatory, Dresden,
 Wen-Biao Han Shanghai Astronomical Observatory, Chinese Academy of Sciences, Shanghai, China
 
 ISSN 0941-7834 ISSN 2196-9698 (electronic)
-
-Astronomy and Astrophysics Library ISBN 978-3-030-19672-1 ISBN 978-3-030-19673-8 (eBook)
-
-https://doi.org/10.1007/978-3-030-19673-8 © Springer Nature Switzerland AG 2019
-
-This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.
 
 The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
 

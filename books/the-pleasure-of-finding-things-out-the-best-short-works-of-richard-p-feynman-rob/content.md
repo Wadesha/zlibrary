@@ -1,10 +1,5 @@
 # The pleasure of finding things out the best short works of Richard P Feynman Robbins Jeffrey Feynman Richard Phillips Z Library
 
-> 来源文件：pre_The_pleasure_of_finding_things_out_the_best_short_works_of_Richard_P_Feynman_Robbins_Jeffrey_Feynman_Richard_Phillips_Z_Library.txt
-> 字符数（约）：445918
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 THE PLEASURE OF FINDING THINGS OUT
 
 Also by Richard P. Feynman The Character of Physical Law Elementary Particles and the Laws of Physics: The 1986 Dirac Memorial Lectures (with Steven Weinberg)
@@ -24,10 +19,6 @@ The Theory of Fundamental Processes What Do You Care What Other People Think? Fu
 THE PLEASURE OF FINDING THINGS OUT The Best Short Works of Richard P. Feynman RICHARD P. FEYNMAN Edited by Jeffrey Robbins Foreword by Freeman Dyson
 
 A MEMBER OF THE PERSEUS BOOKS GROUP NEW YORK
-
-Copyright © 1999 by Michelle Feynman and Carl Feynman Editor’s introduction, chapter introductions, and footnotes copyright © 1999 by Jeffrey Robbins Originally published by Perseus Publishing Published by Basic Books, A Member of the Perseus Books Group Acknowledgments for previously published material appears on page 259.
-
-A CIP record for this book is available from the Library of Congress. ISBN-13 978-0-465-02395-0 ISBN-10 0-465-02395-9 Set in 11-point Berthold Garamond Books published by Basic Books are available at special discounts for bulk purchases in the U.S. by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 11 Cambridge Center, Cambridge, MA 02412, or call (800) 255-1514 or (617) 252-5298, or e-mail special.markets@perseusbooks.com.
 
 CONTENTS Foreword by Freeman Dyson Editor’s Introduction 1 The Pleasure of Finding Things Out 2 Computing Machines in the Future 3 Los Alamos from Below 4 What Is and What Should Be the Role of Scientific Culture in Modern Society 5 There’s Plenty of Room at the Bottom 6 The Value of Science 7 Richard P. Feynman’s Minority Report to the Space Shuttle Challenger Inquiry 8 What Is Science?
 

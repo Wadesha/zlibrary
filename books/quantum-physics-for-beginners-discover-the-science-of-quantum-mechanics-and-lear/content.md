@@ -1,10 +1,5 @@
 # Quantum Physics for Beginners Discover the Science of Quantum Mechanics and Learn the Basic Concepts from Interference to Golding Daniel Z Library
 
-> 来源文件：pre_Quantum_Physics_for_Beginners_Discover_the_Science_of_Quantum_Mechanics_and_Learn_the_Basic_Concepts_from_Interference_to_Golding_Daniel_Z_Library.txt
-> 字符数（约）：113990
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 quantum physics for beginners
 
 discover the science of quantum mechanics and learn the basic concepts from interference to entanglement by analyzing the most famous quantum experiments

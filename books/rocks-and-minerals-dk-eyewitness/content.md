@@ -1,10 +1,5 @@
 # 岩石与矿物 · DK 目击者（Z-Library）
 
-> 来源文件：pre_Rocks_and_Minerals_DK_Eyewitness_Z_Library.txt
-> 字符数（约）：121407
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。本译文为对应中文翻译，矿物与岩石名称首次出现时保留英文原名于括号内。
-
 （下列碎片为原书扉页与版权页所罗列的图版与内容主题：）九孔石结核（septarian nodule）、石榴石-绿泥石片岩（garnet-chlorite schist）、辰砂（cinnabar）、赤铁矿（hematite）、沙漠玫瑰状石膏（gypsum desert rose）、含三叶虫化石的温洛克石灰岩（Wenlock limestone with trilobite fossils）、花岗岩（granite）、蛋白石（opal）、已切磨的电气石（tourmaline）
 
 硫（sulfur）、拉长石（labradorite）、软玉“提基”像（nephrite “tiki”）、与自然史博物馆联合出品（THE NATURAL HISTORY MUSEUM）、黑曜石（obsidian）、黄铁矿（pyrite）、针铁矿（goethite）。
@@ -17,17 +12,7 @@
 
 初版：项目编辑 Janice Lacock；美术编辑 Neville Graham；美术执行编辑 Jane Owen；特约摄影 Colin Keates（伦敦自然史博物馆）与 Andreas Einsiedel。编辑顾问：伦敦自然史博物馆 R. F. Symes 博士与伦敦大学学院 Wendy Kirk 博士。
 
-本《目击者》指南由 Dorling Kindersley Limited 与 Editions Gallimard 共同构思。美国版，2021 年；第一美国版，1988 年。由 DK Publishing 在美国出版，地址：1450 Broadway, Suite 801, New York, NY 10018。版权 © 1988, 2002, 2007, 2014, 2021 Dorling Kindersley Limited。DK 为 Penguin Random House LLC 旗下部门。21 22 23 24 25 10 9 8 7 6 5 4 3 2 1 编号 001–314467–Aug/2021。未经版权所有者事先书面许可，不得以任何形式或任何手段（电子、机械、影印、录制或其他方式）复制、存于检索系统或传播本出版物的任何部分。
-
 英国版由 Dorling Kindersley Limited 出版。本书书目记录可由美国国会图书馆提供。
-
-ISBN 978-0-7440-3905-4（平装本）
-
-ISBN 978-0-7440-2896-6（ALB 版）
-
-DK 图书在批量采购用于促销、赠品、筹款或教育用途时享有特别折扣。详情请联系：DK Publishing Special Markets, 1450 Broadway, Suite 801, New York, NY 10018，SpecialSales@dk.com。本书于中国印刷装订。网址：www.dk.com。
-
-凿子、地质锤、玉髓浮雕（chalcedony cameo）。本书采用森林管理委员会™（FSC）认证纸张印制——这是 DK 致力于可持续未来的一小步。更多信息请访问 www.dk.com/our-green-pledge。
 
 切磨的黄水晶（citrine）、沙漠玫瑰状重晶石（barite desert rose）、透明托帕石（topaz）、切磨的紫水晶（amethyst）。
 

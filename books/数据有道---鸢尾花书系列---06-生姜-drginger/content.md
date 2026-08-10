@@ -324,17 +324,11 @@ Python面向对象编程Python语法，边学边用
 
 ## 开源资源
 
-PDF书稿、代码： https://github.
-
 ## com/Visualize -ML
-
-微课视频： https://space.
 
 bilibili.
 
 ## com/513194466
-
-信息发布： https://www.
 
 zhihu.
 
@@ -343,8 +337,6 @@ zhihu.
 专属邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ### Page 1 | 正文前 | Book 6《数据有道 》 | 鸢尾花书
 
@@ -358,13 +350,9 @@ ml@gmail.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -373,8 +361,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com Preface
 
@@ -500,13 +486,9 @@ ml @gma il.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -515,8 +497,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 com 为了让大家 学数学、用数学 ，甚至爱上 数学，作者可谓 颇费心机。
 
@@ -676,13 +656,9 @@ App；
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -691,8 +667,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com 骨、泥板
 
@@ -766,13 +740,9 @@ ml @gma il.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -781,8 +751,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com Acknowl edgement
 
@@ -804,13 +772,9 @@ To my parents.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -819,8 +783,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com How to Us e the B ook
 
@@ -882,8 +844,6 @@ ml @gma il.
 
 本书配套微 课视频均发布在 B站——生姜 DrGinger：
 
-◄ https://sp ace.
-
 bili bili.
 
 ## com/5 131944 66
@@ -900,13 +860,9 @@ bili bili.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -915,8 +871,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com 微课视频是以“聊天”的方式
 
@@ -939,8 +893,6 @@ ml @gma il.
 ## 代码文件
 
 本系列丛书的 Pytho n代码文件下载地址为 ：
-
-◄ https://github.
 
 ## com/Visualize -ML
 
@@ -1010,11 +962,7 @@ Bokeh、Altair等交互可视化库 。
 
 大家可以参考如下页面， 更多了解 Streamlit：
 
-◄ https://streamlit.
-
 ## io/gallery
-
-◄ https://docs.
 
 stream lit.
 
@@ -1046,13 +994,9 @@ stream lit.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -1061,8 +1005,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 com 运行 Jupyter无需 IDE，只需要浏览器 。
 
@@ -1124,8 +1066,6 @@ Jupyter中代码调试不 方便，需要安 装专门
 
 下载 Anacon da的地址为 ：
 
-◄ https://www .
-
 anacond a.
 
 ## com/
@@ -1172,8 +1112,6 @@ anacond a.
 
 visualize.
 
-ml@gmail.
-
 ## c om
 
 也欢迎大家在B站视频下方留言 互动。
@@ -1190,13 +1128,9 @@ ml@gmail.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -1205,8 +1139,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## com Contents
 
@@ -1224,13 +1156,9 @@ ml @gma il.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -1239,8 +1167,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 ## 0 Introducti on
 
@@ -1322,13 +1248,9 @@ b) 无监督学习 。
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -1337,8 +1259,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 com 0.
 
@@ -1448,13 +1368,9 @@ com 0.
 
 版权归清华大学出版社 所有，请勿商用，引 用请注明 出处。
 
-代码及PDF文件下载： https://github.
-
 ## com/Visualize -ML
 
 ### 本书配套微课 视频均发布在 B站——生姜 DrGing er
-
-https://space.
 
 bi libili.
 
@@ -1463,8 +1379,6 @@ bi libili.
 欢迎大家批评指教，本书专属邮箱： jiang.
 
 visualize.
-
-ml @gma il.
 
 com 第10章讲解多元线性回归，回归分析的维度提高。
 
@@ -1582,8 +1496,6 @@ Page 1 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -1597,8 +1509,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 1 All Is Number
 
@@ -1676,8 +1586,6 @@ Page 2 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -1691,8 +1599,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 1.
 
@@ -1778,8 +1684,6 @@ Page 3 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -1793,8 +1697,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 定量数据 、定性数据
 
@@ -1864,8 +1766,6 @@ Page 4 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -1879,8 +1779,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 图 3.
 
@@ -1998,8 +1896,6 @@ Page 5 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2013,8 +1909,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## IndexSepal length
 
@@ -2138,8 +2032,6 @@ Page 6 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2153,8 +2045,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 在实际应用中，有标签数据和无标签数据往往同时存在。
 
@@ -2244,8 +2134,6 @@ Page 7 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2259,8 +2147,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 机器学习适合处理的问题有如下特征： (a) 大数据；
 
@@ -2324,8 +2210,6 @@ Page 8 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2339,8 +2223,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 回归问题是指根据已知的输入和输出数据，建立一个数学模型来预测输出值。
 
@@ -2444,8 +2326,6 @@ Page 9 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2459,8 +2339,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com ◄ 主成分分析 (princi pal component analysis )
 
@@ -2532,8 +2410,6 @@ Page 10 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2547,8 +2423,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## Input dataBlack boxReal world
 
@@ -2622,8 +2496,6 @@ Page 11 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2637,8 +2509,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ### com ◄ 特征转换 (Feature Transformation )
 
@@ -2766,8 +2636,6 @@ Page 12 | Chapter 1 万物皆数 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课 视频均发布 在B站——生姜DrGinger
@@ -2782,19 +2650,13 @@ bilibili.
 
 visualize.
 
-ml@gma il.
-
 有关特征工程 ，大家可以参考这本开源 专著：
-
-http://www.
 
 feat.
 
 ## engineering/
 
 Scikit-learn也有大量特征工程工具 ，请大家参考 ：
-
-https://scikit -learn.
 
 org/stable/module s/feature_selection.
 
@@ -2812,8 +2674,6 @@ Page 1 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -2827,8 +2687,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ### com 2 Dealing with Missing Data
 
@@ -2936,8 +2794,6 @@ Page 2 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -2951,8 +2807,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 产生原因采集过程
 
@@ -2982,8 +2836,6 @@ Page 3 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -2997,8 +2849,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 2.
 
@@ -3066,8 +2916,6 @@ Page 4 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3081,8 +2929,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com NaN常用于表示缺失值 。
 
@@ -3200,8 +3046,6 @@ Page 5 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3215,8 +3059,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
@@ -3280,8 +3122,6 @@ Page 6 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3295,8 +3135,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
@@ -3344,8 +3182,6 @@ Page 7 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3359,8 +3195,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 sepal length (cm) sepal width (cm) .
 
@@ -3430,8 +3264,6 @@ Page 8 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3445,8 +3277,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 sepal length (cm) sepal width (cm) .
 
@@ -3516,8 +3346,6 @@ Page 9 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3531,8 +3359,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 图 9.
 
@@ -3612,8 +3438,6 @@ Page 10 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3627,8 +3451,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 2.
 
@@ -3722,8 +3544,6 @@ Page 11 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3737,8 +3557,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 dropna(axis=0, how='any' )
 
@@ -3782,8 +3600,6 @@ Page 12 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3797,8 +3613,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 图 14.
 
@@ -3898,8 +3712,6 @@ Page 13 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3913,8 +3725,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 如果某个特征是是分类数据
 
@@ -3984,8 +3794,6 @@ Page 14 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -3999,8 +3807,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
@@ -4068,8 +3874,6 @@ Page 15 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4083,8 +3887,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 Sepal length (cm) Sepal width (cm) Petal length (cm) Petal width (cm)
 
@@ -4118,8 +3920,6 @@ py 绘制本章大部分图像 。
 
 有关数据帧处理缺失值 ，请大家参考 ：
 
-https:// pandas.
-
 pydata.
 
 org/pandas -docs/s table/user_guide/missing_data.
@@ -4138,8 +3938,6 @@ Page 16 | Chapter 2 缺失值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4154,8 +3952,6 @@ bilibili.
 
 visualize.
 
-ml@gma il.
-
 com sklearn .
 
 impute.
@@ -4169,8 +3965,6 @@ impute.
 归、贝叶斯岭回归等等。
 
 感兴趣的读者可 以参考：
-
-https://scikit -learn.
 
 org/stable/modules/impute.
 
@@ -4188,8 +3982,6 @@ Page 1 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4203,8 +3995,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 3 Detecting Outliers
 
@@ -4284,8 +4074,6 @@ Page 2 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4299,8 +4087,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 3.
 
@@ -4360,8 +4146,6 @@ Page 3 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4375,8 +4159,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 2.
 
@@ -4452,8 +4234,6 @@ Page 4 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4467,8 +4247,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 3.2 直方图：单一特征分布
 
@@ -4542,8 +4320,6 @@ Page 5 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4557,8 +4333,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 Sepal length, X10 2 4 6 8
 
@@ -4614,8 +4388,6 @@ Page 6 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4629,8 +4401,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 概率密度 估计 + rug图
 
@@ -4720,8 +4490,6 @@ Page 7 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4736,8 +4504,6 @@ bilibili.
 
 visualize.
 
-ml@gmail.
-
 com 可以改善分布拟合和参数估计的稳定性和精度，但也可能引入信息损失和偏差。
 
 ## 在选择 截断点时
@@ -4751,8 +4517,6 @@ stats.
 mstats.
 
 wins orize 函数进行缩尾调整 ：
-
-https://docs.
 
 s cipy.
 
@@ -4816,8 +4580,6 @@ Page 8 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4831,8 +4593,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## Sepal length
 
@@ -4902,8 +4662,6 @@ Page 9 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4917,8 +4675,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 02468
 
@@ -4974,8 +4730,6 @@ Page 10 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -4989,8 +4743,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 Normal distributionEmperical distribution
 
@@ -5032,8 +4784,6 @@ Page 11 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5047,8 +4797,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## Count
 
@@ -5130,8 +4878,6 @@ Page 12 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5145,8 +4891,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 0 2 4 6 8Sepal length, X1
 
@@ -5208,8 +4952,6 @@ Page 13 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5223,8 +4965,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 13%~0.
 
@@ -5308,8 +5048,6 @@ Page 14 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5323,8 +5061,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 Z-score, Z1 4 2 0 2 4
 
@@ -5406,8 +5142,6 @@ Page 15 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5421,8 +5155,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 99%98%97%96%95%
 
@@ -5466,8 +5198,6 @@ Page 16 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5481,8 +5211,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 代码 Bk6_Ch03_01.
 
@@ -5536,8 +5264,6 @@ Page 17 | Chapter 3 离群值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -5551,8 +5277,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## Sepal lengthSepal width
 
@@ -5592,8 +5316,6 @@ py 绘制图 21和图 22。
 
 请参考下例 。
 
-https://scikit -learn.
-
 org/stable/modules/outlier_detection.
 
 ## htm l
@@ -5627,8 +5349,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 ## com 4 Data Transformation s
 
@@ -5739,8 +5459,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 com 4.
 
@@ -5854,8 +5572,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 com 一般情况 ，多特征数据 每一列数据代表 一个特征 。
 
 多特征数据的中心化 ，相当于每一列数据
@@ -5960,8 +5676,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 Sepal length Sepal width Petal length Petal width02468
 
 图 4.
@@ -6021,8 +5735,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 com 图 6.
 
@@ -6085,8 +5797,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 com 4.
 
@@ -6194,8 +5904,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 com 图 10.
 
 热图，标准化
@@ -6272,8 +5980,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 Sepal length Sepal width Petal length Petal width1.
 
 图 13.
@@ -6347,8 +6053,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 com Bk6_Ch04_01.
 
@@ -6490,8 +6194,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 ### (a) original data (b) transformed data
 
 图 15.
@@ -6586,8 +6288,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 com 4.
 
 ## 6 经验累积分布函数
@@ -6674,8 +6374,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 ## Sepal length
 
 ## Sepal width
@@ -6760,8 +6458,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 ## Sepal length
 
 ## x1 Sepal width
@@ -6843,8 +6539,6 @@ bilibili.
 欢迎大家批评指教 ，本书专属 邮箱： jiang.
 
 visuali ze.
-
-ml@gma il.
 
 ## x1x201
 
@@ -6936,8 +6630,6 @@ bilibili.
 
 visuali ze.
 
-ml@gma il.
-
 ## Gaussian
 
 ## Student -t
@@ -6968,29 +6660,21 @@ ml@gma il.
 
 如下网页 专门介绍 Scikit-learn预处理，请大家参考 ：
 
-https://scikit -learn.
-
 org/stable/modules/pre processing.
 
 ## html
 
 此外，Scikit-learn有大量的数据转换函数 ，请大家学习如下两例 ：
 
-https://scikit -learn.
-
 org /stable/auto_examples/preproc essing/plot_all_scaling.
 
 ## html
-
-https://sciki t-learn.
 
 org/stable /auto_exampl es/preprocessing/plot_map_data_to_normal.
 
 ## html
 
 Statsmodels支持连接函数 ，请大家参考 ：
-
-https://www.
 
 statsmodels.
 
@@ -7010,8 +6694,6 @@ Page 1 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7025,8 +6707,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 5 Interpo lation
 
@@ -7094,8 +6774,6 @@ Page 2 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7109,8 +6787,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 5.
 
@@ -7188,8 +6864,6 @@ Page 3 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7203,8 +6877,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 本章最后还要介绍 二维插值 (bivariate interpolation)
 
@@ -7272,8 +6944,6 @@ Page 4 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7287,8 +6957,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 虽然，一些插值 分段函数构造得到的曲线整体看上去平滑 。
 
@@ -7398,8 +7066,6 @@ Page 5 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7413,8 +7079,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 插值和回归都是用于对数据进行预测的方法，但两者有明显的区别。
 
@@ -7488,8 +7152,6 @@ Page 6 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7503,8 +7165,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 (a) linear interpolation (b) polynomial regression
 
@@ -7574,8 +7234,6 @@ Page 7 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7589,8 +7247,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 0 1 2 3 4 5 6
 
@@ -7676,8 +7332,6 @@ Page 8 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7691,8 +7345,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 1 2 2 3
 
@@ -7788,8 +7440,6 @@ Page 9 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7803,8 +7453,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 0 1 2 3 4 5 6
 
@@ -7866,8 +7514,6 @@ Page 10 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -7881,8 +7527,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 111,2,.
 
@@ -8016,8 +7660,6 @@ Page 11 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8031,8 +7673,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 1 2 1 1
 
@@ -8160,8 +7800,6 @@ Page 12 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8175,8 +7813,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 龙格现象
 
@@ -8232,8 +7868,6 @@ Page 13 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8247,8 +7881,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## KnownKnown
 
@@ -8288,8 +7920,6 @@ Page 14 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8303,8 +7933,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 图 16.
 
@@ -8348,8 +7976,6 @@ Page 15 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8363,8 +7989,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 图 18.
 
@@ -8390,8 +8014,6 @@ Page 16 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8405,8 +8027,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com Bk6_Ch05_0 4.
 
@@ -8462,8 +8082,6 @@ Page 17 | Chapter 5 插值 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## co m/Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGinger
@@ -8477,8 +8095,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 请大家格外注意
 
@@ -8508,8 +8124,6 @@ Page 1 | Chapter 6 时间数据 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGing er
@@ -8523,8 +8137,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## com 6 Time Series
 
@@ -8588,8 +8200,6 @@ Page 2 | Chapter 6 时间数据 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGing er
@@ -8603,8 +8213,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 ## 处理缺失值向前
 
@@ -8634,8 +8242,6 @@ Page 3 | Chapter 6 时间数据 | Book 6《数据有道》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载 ：https://git hub.
-
 ## com /Visualize-ML
 
 ## 本书配套微课视频均发布 在B站——生姜DrGing er
@@ -8649,8 +8255,6 @@ bilibili.
 欢迎大家 批评指教 ，本书专属邮箱： jiang.
 
 visualize.
-
-ml@gma il.
 
 com 6.
 

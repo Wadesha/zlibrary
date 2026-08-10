@@ -1,19 +1,6 @@
 # STEPS to STEM a science curriculum supplement for upper elementary and middle school grades Isabelle Aaron D Zinn Gilbert A Z Library
 
-> 来源文件：pre_STEPS_to_STEM_a_science_curriculum_supplement_for_upper_elementary_and_middle_school_grades_Isabelle_Aaron_D_Zinn_Gilbert_A_Z_Library.txt
-> 字符数（约）：245652
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 STEPS to STEM A Science Curriculum Supplement for Upper Elementary and Middle School Grades – Teacher’s Edition Aaron D. Isabelle and Gilbert A. Zinn A C.I.P. record for this book is available from the Library of Congress.
-
-ISBN: 978-94-6300-789-4 (paperback)
-
-ISBN: 978-94-6300-790-0 (hardback)
-
-ISBN: 978-94-6300-791-7 (e-book)
-
-Published by: Sense Publishers, P.O. Box 21858, 3001 AW Rotterdam, The Netherlands https://www.sensepublishers.com/ Printed on acid-free paper All Rights Reserved © 2017 Sense Publishers No part of this work may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, microfilming, recording or otherwise, without written permission from the Publisher, with the exception of any material supplied specifically for the purpose of being entered and executed on a computer system, for exclusive use by the purchaser of the work.
 
 TABLE OF CONTENTS Introduction xi
 

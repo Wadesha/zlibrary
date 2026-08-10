@@ -1,10 +1,5 @@
 # Holt Physical Science California Edition Christie Ph D Borgford Mapi Ph D Cuevas etc Z Library
 
-> 来源文件：pre_Holt_Physical_Science_California_Edition_Christie_Ph_D_Borgford_Mapi_Ph_D_Cuevas_etc_Z_Library.txt
-> 字符数（约）：1278606
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Contributing Authors Christie Borgford, Ph.D.
 
 Assistant Professor of Chemistry (retired)
@@ -43,19 +38,13 @@ Center X Los Angeles, California Ron Hage Science Partner University of Californ
 
 Los Angeles Uniﬁ ed School District Los Angeles, California James E. Marshall, Ph.D.
 
-Professor of Science Education Department of Curriculum and Instruction California State University, Fresno Fresno, California Acknowledgments continued on page 594 Acknowledgments Copyright © 2007 by Holt, Rinehart and Winston or mechanical, including photocopy, recording, or any information storage and retrieval system, without permission in writing from the publisher.
-
 Requests for permission to make copies of any part of the work should be mailed to the following address: Permissions Department, Holt, Rinehart and Winston, 10801 N. MoPac Expressway, Building 3, Austin, Texas 78759.
 
 HOLT and the “Owl Design” are trademarks licensed to Holt, Rinehart and Winston, registered in the United States of America and/or other jurisdictions.
 
 LIVE INK is a registered trademark of Walker Reading Technologies, Inc., licensed for use by Holt, Rinehart and Winston.
 
-Printed in the United States of America If you have received these materials as examination copies free of charge, Holt, Rinehart and Winston retains title to the materials and they may not be resold. Resale of examination copies is strictly prohibited and is illegal.
-
 Possession of this publication in print format does not entitle users to convert this publication, or any portion of it, into electronic format.
-
-ISBN 0-03-042659-6 1 2 3 4 5 6 7  048  10 09 08 07 06
 
 Contents UNIT 1 Introduction to Physical Science .....................  2
 
@@ -861,8 +850,6 @@ Reviewing this outline will give you a good idea of the main concepts in the cha
 
 Each chapter has one Science Skills Activity, which gives you an opportunity to develop your science skills. Scientific methods, doing research, analyzing data, and making graphs are highlighted here. The step-by-step instructions make learning these skills easy.
 
-Internet Resources Review For a variety of links related to this chapter, go to www.scilinks.org Summary Missions to Mars Several recent missions to Mars were launched to gain a better understanding of the Martian world. Figure 8 shows the Mars Express Orbiter, which reached Mars in December 2003.
-
 The spacecraft has been performing remote sensing of Mars.
 
 The Orbiter’s instruments are searching for traces of water both underground and on the planet’s surface.
@@ -1537,8 +1524,6 @@ Figure 7 Volcanologists study volcanoes. Many volcanologists study volcanic patt
 
 Careers in Physical Science Would you like to be a physi- cal scientist? Write an essay on your investigation of an interesting career. Go to go.hrw.com, and type in the keyword HY7WPSW.
 
-Internet Resources Review For a variety of links related to this chapter, go to www.scilinks.org Summary Science Illustrator You may be surprised to learn that there is a career that uses both art and science skills. Science illustrators draw scientific diagrams, such as the one in Figure 8. Good science illustrators are needed in areas like biology and medicine, where accurate and clear diagrams are important.
-
 Science illustrators often have a background in art and a variety of sciences. However, some science illustrators focus on one area of science. For example, some science illustrators draw only medical diagrams. These diagrams are used in medical textbooks or in brochures that patients receive from their doctors.
 
 Figure 8 A science illustrator drew this diagram so that students can learn about the digestive system in birds.
@@ -1753,8 +1738,6 @@ Czarnowski and Triantafyllou published their results in academic papers, science
 
 Figure 7 A penguin propulsion system may one day be used on large ships. Would it work? The research continues!
 
-Internet Resources For a variety of links related to this chapter, go to www.scilinks.org Summary Review 8.9.a, 8.9.b, 8.9.c • Scientific methods are the ways in which scientists answer questions and solve problems.
-
 • Asking a question usually results from making an observation. Questioning is often the first step in using scientific methods.
 
 • A hypothesis is a possible explanation or answer to a question. A good hypothesis is testable by an experiment.
@@ -1904,8 +1887,6 @@ Figure 6 Make sure that you can locate and use the first- aid supplies and speci
 Your teacher can help familiarize you with these supplies and equipment.
 
 first aid first aid (FUHRST AYD) emergency medical care for someone who has been hurt or who is sick
-
-Internet Resources Review For a variety of links related to this chapter, go to www.scilinks.org Summary Procedures for Accidental Injuries The procedures for treating an accidental injury depend on the type of injury that happens. If someone gets a heat burn, the burned area should be held in cold water for at least 15 minutes, as shown in Figure 7. If someone gets a chemical burn, the chemical should be rinsed from the burned area.
 
 The burned area should then be held under cold, running water. Your classroom probably has an eye bath. If a chemical gets into someone’s eyes, the eyes should be washed in an eye bath for 15 minutes. Then, the eyes should be covered with a clean cloth. If someone gets cut, the cut should be rinsed gently. Then, slight pressure should be applied to the cut with a clean paper towel.
 
@@ -2373,8 +2354,6 @@ Although Williams-Byrd works with high-tech lasers, she points out that lasers a
 
 Language Arts Language Arts Research lasers and the ways that they can be used in everyday life. Then, write a one- page essay in your Science Journal on how lasers have made life easier for people.
 
-•  To learn more about careers in science, visit www.scilinks.org and enter the SciLinks code HY70225.
-
 •  To learn more about these Science in Action topics, visit go.hrw.com and type in the keyword HY7WPSF.
 
 •  Check out articles related to this chapter by visiting go.hrw.com.
@@ -2687,8 +2666,6 @@ Figure 7 These models show how the theory about an atom’s structure has change
 
 theory theory (THE uh ree) a system of ideas that explains many related observations and is supported by a large body of evidence acquired through scientific investigation law law (LAW) a descriptive statement or equation that reliably predicts events under certain conditions
 
-Internet Resources For a variety of links related to this chapter, go to www.scilinks.org Summary Review 8.9.b, 8.9.f • Tools are used to make observations, take measurements, and analyze data.
-
 • The International System of Units (SI) is the standard system of measurement.
 
 • Length, mass, volume, density, and temperature are common measurements.
@@ -2867,8 +2844,6 @@ Go to go.hrw.com, and type in the keyword HY7DISW.
 
 Trends in Nonlinear Graphs Figure 5
 
-Internet Resources Summary Review For a variety of links related to this chapter, go to www.scilinks.org Using Computers to Create Graphs Computer technology can be used to make organizing data easier. Computers help scientists collect, organize, process, and display large amounts of data. In Figure 6, a doctor is recording data on her hand-held computer. With this tool, she is able to gather data rapidly and as needed. Specially designed software makes appropriate graphs from lists of data. These graphs can be quickly examined to find patterns and relationships between the variables. The instant feedback provided by computer tech- nology allows scientists to make mathematical representations of large amounts of data as they are collected.
-
 How can technology help scientists create and interpret graphs from data?
 
 8.9.e Figure 6 This doctor uses a hand-held computer to help her keep track of patient information and her demanding schedule.
@@ -3046,8 +3021,6 @@ walker starts at 0 m, walks forward on the line for 3 m, stops for a short time,
 The timer uses a stopwatch to measure the time at which the walker stops at 3 m, starts moving backward, and stops again at 1 m.
 
 8.9.d                        6OLUME CM -ASS G $ENSITY OF ,EAD Lead fishing weight Mass  211.0 g Volume  18.59 cm3 Lead fishing weight Mass  4.2 g Volume  0.37 cm3
-
-Internet Resources Review For a variety of links related to this chapter, go to www.scilinks.org Summary Comparing Linear and Nonlinear Graphs The lines on a graph can help you draw conclusions about your data. The slope of a straight line shows how much one factor (y) always changes in relation to another factor (x). A straight line shows that a constant linear relationship exists between the factors you are studying. In other words, y always changes the same amount in relation to x. But what if your data do not form a straight line? Many relationships that sci- entists study are not linear. In a nonlinear graph, each unit change in one factor (y) does not always bring about the same change in another factor (x). The graph of this relationship will be a curve instead of a straight line. So, there is a nonlinear relationship between the factors you are studying.
 
 8.9.b, 8.9.d • Mathematics is an important tool for understanding and summarizing data.
 
@@ -3457,8 +3430,6 @@ Science, Technology, and Society Using Satellites to Track Plate Motion When you
 
 However, scientists have developed a sys- tem called satellite laser ranging, or SLR, that uses laser beams to measure the rate and direction of motion of tectonic plates. SLR is used to monitor movement at faults in Southern California. From ground stations on Earth, laser beams are fired at satellites orbiting 5,900 km above Earth. From the satellites, the laser beams are reflected back to ground stations. Differences in the time it takes signals to be reflected from targets are used to calculate the amount of movement.
 
-Internet Resources Careers •  To learn more about careers in science, visit www.scilinks.org and enter the SciLinks code HY70225.
-
 •  To learn more about these Science in Action topics, visit go.hrw.com and type in the key- word HY7DISF.
 
 •  Check out articles related to this chapter by visiting go.hrw.com.
@@ -3823,8 +3794,6 @@ Weight • Weight is measured by using a spring scale (shown above).
 
 Differences Between Mass and Weight Figure 5
 
-Summary Summary Internet Resources Summary Review For a variety of links related to this chapter, go to www.scilinks.org Measuring Mass and Weight The brick and the sponge in Figure 6 have the same volume.
-
 But because the brick has greater mass, a greater gravitational force acts on the brick than on the sponge. As a result, the brick weighs more than the sponge.
 
 The SI unit of mass is the kilogram (kg). Mass is also expressed in grams (g) and milligrams (mg). These units can be used to express the mass of any object. Weight is a mea- sure of gravitational force. The SI unit of force is the newton (N). One newton is equal to the weight on Earth of an object whose mass is about 100 g.
@@ -4055,8 +4024,6 @@ a change of matter from one form to another without a change in chemi- cal prope
 
 A change from a solid to a liquid is a physi- cal change. All changes of state are physical changes.
 
-Internet Resources For a variety of links related to this chapter, go to www.scilinks.org Summary Review Matter and Physical Changes Physical changes do not change the identity of the matter. A stick of butter can be melted and poured over a bowl of popcorn, as shown in Figure 6. Although the shape of the butter has changed, the butter is still butter, so a physical change has happened. In the same way, if you cut the shape of a star out of a piece of paper, you change the paper’s shape and cause a physical change. But the identity of the paper does not change. The star and the piece of paper have the same identity—both are paper.
-
 Figure 6 When it melts, butter for popcorn undergoes a physical change.
 
 1 Use physical property and physical change in separate sentences.
@@ -4242,8 +4209,6 @@ in a plastic bag, and seal the bag. Place a bar magnet on top of the bag, and tr
 of water. Record your observations.
 
 Physical and Chemical Changes Figure 5
-
-Internet Resources Summary Review For a variety of links related to this chapter, go to www.scilinks.org • Chemical properties describe the ability of a substance to change into a new substance.
 
 • The chemical properties of a substance describe how the substance will behave under conditions that favor a chemical change.
 
@@ -4717,8 +4682,6 @@ Careers Mimi So Gemologist and Jewelry Designer For gemologist and jewelry desig
 
 The chemical properties of stones must also be considered. Heating can burn or dis- color some gemstones. So says that because a pearl is not a stone, you cannot use pearls in a design that requires you to heat the metal in the design. Heating would destroy the pearl.
 
-•  To learn more about careers in science, visit www.scilinks.org and enter the SciLinks code HY70225.
-
 •  To learn more about these Science in Action topics, visit go.hrw.com and type in the key- word HY7MATF.
 
 •  Check out articles related to this chapter by visiting go.hrw.com.
@@ -4939,8 +4902,6 @@ terms of the particles in the solid.
 
 Changing Volumes 8.3.d 8.3.e 10 min
 
-Internet Resources Review For a variety of links related to this chapter, go to www.scilinks.org Summary Plasmas The sun and other stars are made of the most common state of matter in the universe, called plasma.
-
 Plasma Plasma is the state of matter that does not have a definite shape or volume and whose particles have broken apart. More than 99% of the matter in the universe is plasma.
 
 Plasmas have some properties that are quite different from the properties of gases. Plasmas conduct electric current, but gases do not. Electric and magnetic fields affect plasmas but do not affect gases. In fact, strong magnetic fields are sometimes used to contain very hot plasmas that would destroy a solid container.
@@ -5146,8 +5107,6 @@ Melting point
 ## ENERGY
 
 ## ADDED
-
-Review For a variety of links related to this chapter, go to www.scilinks.org Summary Changing the State of Water Figure 7 The energy that is added during a change of state is used to break the attractions between particles. So, the temperature does not change until the change of state is complete.
 
 8.3.d, 8.3.e, 8.5.d, 8.7.c • A change of state is the conversion of a substance from one physical form to another.
 

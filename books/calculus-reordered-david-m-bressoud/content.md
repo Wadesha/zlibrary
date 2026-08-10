@@ -1,21 +1,12 @@
 # Calculus Reordered David M Bressoud Z Library
 
-> 来源文件：pre_Calculus_Reordered_David_M_Bressoud_Z_Library.txt
-> 字符数（约）：388205
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 CALCULUS REORDERED
 
 CALCULUS REORDERED A History of the Big Ideas DAVID M. BRESSOUD PRINCETON UNIVERSITY PRESS PRINCETON AND OXFORD
 
-Copyright c⃝2019 by David M. Bressoud Published by Princeton University Press 41 William Street, Princeton, New Jersey 08540 In the United Kingdom: Princeton University Press 6 Oxford Street, Woodstock, Oxfordshire, OX20 1TR All Rights Reserved Library of Congress Cataloging-in-Publication Data ISBN 978-0-691-18131-8 LCCN 2018957493 British Library Cataloging-in-Publication Data is available Editorial: Vickie Kearn and Lauren Bucca Production Editorial: Sara Lerner Text and Jacket Design: Carmina Alvarez Production: Erin Suydam Publicity: Sara Henning-Stout and Kathryn Stevens Copyeditor: Jennifer Harris Jacket Credit: A page from Sir Isaac Newton’s Waste Book, c. 1612-c. 1653.
-
 From the Portsmouth Collection, donated by the fifth Earl of Portsmouth, 1872.
 
 Cambridge University Library.
-
-This book has been composed in LATEX Printed on acid-free paper. ∞ press.princeton.edu Printed in the United States of America
 
 dedicated to Jim Smoak for your inspirational love of mathematics and its history
 
@@ -124,8 +115,6 @@ I owe a great debt to the many people who have helped with this book. Jim Smoak,
 ## PREFACE
 
 went through that first draft line by line, tightening my prose and suggest- ing many cuts and additions. You will see your handiwork throughout this final manuscript. I want to thank my production editor, Sara Lerner, and especially my copyeditor, Glenda Krupa. Finally, I want to thank my wife, Jan, for her support. Her love of history has helped to shape this book.
-
-David M. Bressoud bressoud@macalester.edu August 7, 2018
 
 ## CALCULUS
 

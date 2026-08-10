@@ -1,19 +1,8 @@
 # Biology Dynamics of Life Alton Biggs Dinah Zike Peter Rillero Z Library
 
-> 来源文件：pre_Biology_Dynamics_of_Life_Alton_Biggs_Dinah_Zike_Peter_Rillero_Z_Library.txt
-> 字符数（约）：2833292
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Microscopy links Self-check quizzes Vocabulary PuzzleMaker WebQuests Standardized test practice interactive student edition
 
-Copyright © 2004 by The McGraw-Hill Companies, Inc.
-
 publication may be reproduced or distributed in any form or by any means, or stored in a database retrieval system, without prior written permission of the publisher.
-
-The National Geographic features were designed and developed by the National Geographic Society’s Education Division. Copyright © National Geographic Society. The name “National Geographic Society” and the Yellow Border Rectangle are trademarks of the Society and their use, without prior written permission, is strictly prohibited.
-
-Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus, OH 43240 ISBN 0-07-829900-4 Printed in the United States of America.
 
 2 3 4 5 6 7 8 9 10 08 07 06 05 04 03 The Princeton Review is not affiliated with Princeton University or Educational Testing Service.
 
@@ -44,8 +33,6 @@ Peter Rillero is a professor of science education at Arizona State University We
 Kathleen G. Tallman is an Assistant Professor in the Biology Department at Doane College in Crete, Nebraska. She has a B.A. in biology and chemistry from Point Loma Nazarene College and a Ph.D. in neuro- science from The Ohio State University. In 2002, Dr. Tallman was a participant with a team of faculty at Doane College who were awarded an NIH grant to fund undergraduate research in the biomedical sciences.
 
 Dinah Zike is an international curriculum consultant and inventor who has designed and developed educa- tional products and three-dimensional, interactive graphic organizers for over thirty years. She is frequently a featured speaker at national, regional, and state science teachers’ conferences. As president and founder of Dinah-Might Adventures, L.P., Dinah is the author of over 100 award-winning educational publications includ- ing The Big Book of Science. Dinah has a B.S. and an M.S.
-
-in educational curriculum and instruction from Texas A & M University.  Dinah Zike’s Foldables are an exclu- sive feature of McGraw-Hill textbooks. www.dinah.com National Geographic Society, founded in 1888 for the increase and diffusion of geographic knowledge, is the world’s largest nonprofit scientific and educational organization. The Education Division sup- ports the Society’s mission by developing innovative edu- cational programs. National Geographic Society wrote the Focus On features for Biology: The Dynamics of Life, which are located on pages 1060–1091.
 
 Contributing Author Rebecca Johnson, Science Writer, Sioux Falls, SD
 

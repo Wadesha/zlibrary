@@ -1,0 +1,589 @@
+# 目击奇迹·天气（Eye Wonder: Weather）——DK出版社 Z图书馆
+
+> 来源文件：pre_Eye_Wonder_Weather_DK_Publishing_Z_Library.txt
+> 字符数（约）：55528
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+可怕的龙卷风（tornado）、巨大的飓风（hurricane），还有灼热的阳光！
+
+仰望天空，去发现天气那令人惊叹的力量与美丽，以及它如何影响我们的生活。
+
+•
+
+《目击奇迹》（Eye Wonder）丛书图文并茂，充满知识与戏剧性的照片，是激发学习与探索之爱的最佳方式。
+
+顾问本·摩根（Ben Morgan）是一位科普作家，曾为儿童创作多本书籍，包括《DK哺乳动物指南》和《人体揭秘》。
+
+搜索《目击奇迹》系列的其他书目：
+大猫（Big Cats）• 鸟类（Birds）• 昆虫（Bugs）• 恐龙（Dinosaur）• 海豚与鲸（Dolphins & Whales）• 地球（Earth）• 人体（Human Body）• 哺乳动物（Mammals）• 海洋（Ocean）• 雨林（Rainforests）• 爬行动物（Reptiles）• 河流与湖泊（Rivers and Lakes）• 太空（Space）• 火山（Volcano）
+
+封面图片　封面：Getty Images：Taxi。封底：Alamy Images：Bryan & Cherry Alexander Photography（左下）。Corbis：Tom Bean（右下）。Getty Images：Stone（右上）；Taxi（右上），背景。Planetary Visions：（左上）。Science Photo Library：British Antarctic Survey（左下偏下）；Claude Nuridsany & Marie Perennou（右上偏中）；Colin Cuthbert（上中）；Jim Reed（左中）；R.B.Husar/NASA（左上偏中）。
+
+欲了解更多，请访问 www.dk.com　EYEWONDER WEATHER
+
+多林·金德斯利（DORLING KINDERSLEY）可怕的龙卷风、巨大的飓风，还有灼热的阳光！
+
+仰望天空，去发现天气那令人惊叹的力量与美丽，以及它如何影响我们的生活。
+
+•
+
+《目击奇迹》丛书图文并茂，充满知识与戏剧性的照片，是激发学习与探索之爱的最佳方式。
+
+顾问本·摩根（Ben Morgan）是一位科普作家，曾为儿童创作多本书籍，包括《DK哺乳动物指南》和《人体揭秘》。
+
+搜索《目击奇迹》系列的其他书目：
+大猫 • 鸟类 • 昆虫 • 恐龙 • 海豚与鲸 • 地球 • 人体 • 哺乳动物 • 海洋 • 雨林 • 爬行动物 • 河流与湖泊 • 太空 • 火山
+
+封面图片　封面：Getty Images：Taxi。封底：Alamy Images：Bryan & Cherry Alexander Photography（左下）。Corbis：Tom Bean（右下）。Getty Images：Stone（右上）；Taxi（右上），背景。Planetary Visions：（左上）。Science Photo Library：British Antarctic Survey（左下偏下）；Claude Nuridsany & Marie Perennou（右上偏中）；Colin Cuthbert（上中）；Jim Reed（左中）；R.B.Husar/NASA（左上偏中）。
+
+欲了解更多，请访问 www.dk.com　EYEWONDER WEATHER
+
+多林·金德斯利（DORLING KINDERSLEY）《目击奇迹·天气》目录
+伦敦、纽约、慕尼黑、墨尔本、新德里
+
+4-5　什么是天气？
+6-7　四季
+8-9　太阳的力量
+10-11　天空中的云
+12-13　云图集
+14-15　生活在云中
+16-17　雨，雨
+18-19　白色的天空
+20-21　冰雹阵雨
+22-23　露水与霜
+24-25　随风飘扬
+26-27　电闪天空
+28-29　可怕的旋风
+30-31　致命的风暴
+32-33　光的错觉
+34-35　出海
+36-37　沙漠世界
+38-39　诡异的天气
+40-41　天气预报
+42-43　变化的气候
+44-45　驾驭天气
+46-47　词汇表
+索引与致谢
+
+撰稿与编辑：洛里·麦克（Lorrie Mack）　设计：谢丽尔·特尔弗（Cheryl Telfer）与海伦·查普曼（Helen Chapman）
+10-11 天空中的云　出版经理：休·伦纳德（Sue Leonard）　美术总监：克莱尔·谢登（Clare Shedden）
+12-13 云图集　封面设计：克里斯·德鲁（Chris Drew）　图片研究员：萨拉·斯图尔特-理查森（Sarah Stewart-Richardson）　制作：希瓦尼·潘迪（Shivani Pandey）　排版设计：阿尔穆德纳·迪亚斯（Almudena Díaz）
+14-15 排版助理：皮拉尔·莫拉莱斯（Pilar Morales）　顾问：本·摩根（Ben Morgan）　生活在云中　美国第一版，2004年
+16-17 由美国DK出版公司（DK Publishing, Inc.）出版　雨，雨　纽约哈得孙街375号，纽约州纽约市 10014
+18-19 （版权印次编号）白色的天空　版权所有 © 2004 多林·金德斯利有限公司
+
+泛美版权公约。未经版权所有者事先书面许可，本出版物的任何部分不得以任何形式或任何方式——电子、机械、影印、录音或其他方式——复制、存储于检索系统或传播。由英国多林·金德斯利有限公司出版。本书的出版编目记录可向美国国会图书馆索取。ISBN 0-7566-0323-4。彩印由新加坡 Colourscan 完成。印刷与装订由意大利 L.E.G.O. 完成。欲了解更多，请访问 www.dk.com。
+
+## 什么是天气？（What's weather?）
+
+卫星（Satellite）　“天气（weather）”是指天空和户外空气的状态——是多云、下雪、晴朗还是刮风。一圈宽阔的空气带——即大气层（atmosphere）——环绕着地球，但天气只发生在靠近地面的地方，也就是云顶以下。这一区域被称为云层或对（troposphere，对流层）。
+
+航天器（Spacecraft）　天气小知识（Weather facts）：
+• 太阳的能量与空气中的水分共同造就了我们的天气。
+• 空气中含有大量水分，因为地球表面75%被水覆盖。
+
+流星痕迹（Meteor trails）　天气造成的死亡人数超过地球上任何其他自然力量。环绕地球不断旋转的云团（即极光，Aurora，极地之光）从太空中的气象卫星上清晰可见。
+
+薄薄的外皮（Thin skin）　如果地球是一个巨大的苹果，整个大气层会比苹果皮还要薄。开车直穿所有气层，大约三小时就能到达外太空（Outer space）。
+
+热层（Thermosphere）　中间层（Mesosphere）　平流层（Stratosphere）　我们所有的天气都发生在最靠近地球的那层大气——即对流层（troposphere）中。
+
+异世界（Out of this world）　对流层之上是平流层（stratosphere）。这里因为空气非常干燥，所以没有雨也没有风。飞行员喜欢在这个高度飞行，因为他们能确保平稳的旅程。当飞机飞越云层之上时，乘客可以从舷窗看到神奇的景色。
+
+每一天，我们都与世界上最强大的自然力量之一——我们的天气——共同生活在一起。
+
+## 四季（The seasons）
+
+三月（March）　当世界的一端沐浴在夏日中时，另一端却在寒冬里瑟瑟发抖。北半球（northern hemisphere）正是春天，而地球的另一端却是秋天。之所以如此，是因为地球向一侧倾斜，沿着漫长的轨道环绕太阳运行。
+
+在倾斜的轨道上（On the tilt）　地球是一个圆球，有一根想象中的棍子，即地轴（axis），贯穿其中心（红色虚线）。这根轴是倾斜的，因此地球的一半在任何时候都比另一半得到更多阳光，也就更加明媚。
+
+地轴（Axis）　太阳（Sun）是一颗由燃烧气体构成的炽热恒星。我们依赖它获得光、热和能量。如果没有太阳，地球上就不会有生命。
+
+赤道（Equator）　赤道是环绕地球中部的一条假想圆环（黄线）。它以上的区域称为北半球（northern hemisphere），以下的区域则是南半球（southern hemisphere）。
+
+六月（June）　北半球向太阳倾斜，因此那里的人们正享受夏天。赤道以南阳光少得多，于是冬天悄然来临。
+
+十二月（December）　十二月，北半球远离太阳倾斜，因此那里是冬天。但南方的阳光更强烈，所以那是夏天。
+
+昼与夜（DAY AND NIGHT）　除了环绕太阳运行，地球还绕地轴自转一周。一天有24小时。地球不同的侧面在不同时间面向太阳。
+
+恒定的热量（Constant heat）　靠近赤道的地区总是阳光明媚，因此全年温度温暖。
+
+九月（September）　九月给北半球带来秋天……
+
+## 太阳的力量（The power of the Sun）
+
+地球不断受到来自太阳——太空中一个由燃烧气体构成的巨大火球——的射线轰击。除了产生热量和光，太阳还控制着地球的天气。
+
+云（Clouds）　水分以云的形式悬浮在天空中。
+
+温暖与水（Warmth and water）　有时水分消失……当云变得饱满，空气中的水分变成看不见的水蒸气（water vapor）。这一过程称为蒸发（evaporation）。云中的微小水滴黏结在一起，变成雨滴。湖泊和海洋中的水也会发生同样的事。
+
+风（Wind）　太阳的光线温暖了一团团空气，使它们上升。凉爽的空气随即涌入填补空缺。这种空气的运动就是我们所称的风。
+
+雨（Rain）　云中的水以雨的形式落下。如果空气足够冷，水分会结成雪花而非雨滴。无论以何种形式，所有落回地面的水分都称为降水（precipitation）。
+
+阳光小知识（Sunny facts）：
+• 如果能将太阳一秒钟的能量全部利用，它足以供美国使用900万年。
+• 地球与太阳相比只是一个小点，太阳之大足以把我们的行星吞下一百万次。
+
+重新开始（Starting again）　一些雨和融化的雪流回河流与海洋，称为径流（runoff）。很快它又会蒸发成云。
+
+## 天空中的云（Clouds in the sky）
+
+云由水滴组成。每朵云中的水量、它的高度以及空气温度，决定了它属于哪种类型。主要有三种——层云（stratus）、积云（cumulus）和卷云（cirrus）——以及它们的大量组合。
+
+积云（Cumulus）　这些云丰满蓬松，像棉花球。晴朗的日子里会出现白色的小积云，但巨大乌黑的积云（称为积雨云，cumulonimbus）意味着雨或雪暴即将来临。它们的软灰色形状常产生毛毛雨或小雨。
+
+云中小知识（Cloudy facts）：
+• 在拉丁语中，stratus 意为“层”，cirrus 意为“头发”，cumulus 意为“堆”。
+• 名字中带有“nimbus”或“nimbo”的云是雨云。
+• 名字中带有“alto”的云形成于中等高度。
+
+层云（Stratus）　在所有主要类型中，层云在天空中的位置最低。有时它们就停留在地面上形成雾。虽然 stratus 意为“层”，但层并不总是清晰——层云常常只是让天空显得灰蒙蒙。
+
+卷云（Cirrus）　高空的、纤细如羽毛的云称为卷云。这里的空气极其寒冷，云由冰晶而非水滴构成。有时强风把它们吹成长长的条带或“马尾”，因为它们看起来像马尾巴。
+
+卷积云（Cirrocumulus）是卷云和积云之间的交叉类型。当它们规则的波浪状小云块形成类似鱼鳞的图案时，我们称之为“鲭鱼天（mackerel sky）”。
+
+天空地图（Sky map）　云根据其高度和形成方式命名。即使是看起来十分相似的云，在不同高度也可能有不同名称。
+
+人造云（Human-made clouds）　当喷气式飞机划过天空，会留下长长的、笔直的水汽尾迹，看起来像云。这些被称为尾迹云（contrails）。
+
+波状夜云（Wavy nights）　夜间出现、看起来像海浪的云称为夜光云（noctilucent clouds）。“noctilucent”一词源自拉丁语“夜晚”和“闪耀”。
+
+彩绘云（Painted clouds）　当阳光穿过云中的水滴或冰晶时，会产生美丽的闪光色彩。
+
+凸起警告（Bumpy warning）　这些风暴云奇特的圆丘形状赋予了它们名字。它们被称为乳房云（mammatus clouds），源自拉丁语“乳房（mamma）”一词。乳房云常常预示着龙卷风即将来临。
+
+飞行的云（Flying clouds）　荚状云（Lenticular clouds）因其略像透镜而得名，但其中一些看起来更像是飞碟！荚状云可以“悬停”数小时。
+
+## 云图集（Cloud gallery）
+
+在蓝天映衬下，尾迹云有时看起来像由云构成的城市街道。多云的天空并无异常——我们大多数时候都能看到它们。但如果云看起来像飞碟、水帘或成簇的彩灯，我们可能会感到惊讶。
+
+云图集（Cloud gallery）　飞机尾迹（Airplane contrail）　卷云（Cirrus）　卷积云（Cirrocumulus）　高卷层云（Cirrostratus）　高层云（Altostratus）　层积云（Stratocumulus）　积雨云（Cumulonimbus）　积云（Cumulus）　雨层云（Nimbostratus）　层云（Stratus）。
+
+## 生活在云中（Living in a cloud）
+
+雾中小知识（Foggy facts）　专家用“能见度”——你能透过雾看到多远——来描述雾。
+• 在普通雾中，你大约能看到1100码（1000米）。
+• 在浓雾中，你只能看到55–220码（50–200米）。
+• 在极浓的雾中，你看不到55码（50米）以外。
+
+滚滚而来（Rolling in）　当温暖潮湿的空气吹过寒冷陆地或寒冷洋流，其水分变成雾。这种类型称为平流雾（advection fog）。
+
+山间薄雾（Mountain mist）　在树木繁茂的山丘上，树木释放的水分在夜间变成雾。到黎明时，它已沉入下方的山谷。之后，当太阳温暖空气，水分蒸发，雾便散去。
+
+毒气（Poison air）　当雾与烟结合，会形成沉重、难闻的空气。多年前，英格兰伦敦曾出现过浓得人们称之为“豌豆汤（pea-soupers）”的雾。这种雾来自为大多数建筑供暖的肮脏燃煤炉。如今，类似的情况被称为雾霾（smog），由汽车和工厂的污染造成。
+
+朦胧的日子（Hazy days）　当地面散失（辐射）热量并变得非常寒冷时，它会冷却上方的空气，使水蒸气凝结成细小水滴。这形成了最常见的雾，即“辐射雾（radiation fog）”。
+
+## 雨，雨（Rain, rain）
+
+科学家用埋入地下的简单量雨器测量降雨。雨滴穿过顶部的漏斗后，被收集在下方的主圆筒中。
+
+云由微小水滴组成。当一朵云吸纳越来越多水分，水滴变得更大。最终它们重得落向地面成为雨滴——小的是毛毛雨（drizzle），大而重的是雨。
+
+平均年降雨量（Average yearly rainfall）：
+考艾岛，夏威夷 460英寸（11680毫米）
+纽约 44.5英寸（1130毫米）
+伦敦，英格兰 24英寸（610毫米）
+柏林，德国 23英寸（580毫米）
+开罗，埃及 1英寸（25毫米）
+阿里卡，智利 0.03英寸（7毫米）
+
+可怕的天空（Scary skies）　新雨滴是圆的，但随着下落会逐渐变扁。雨云含有巨量水分，使它们如此浓密，光线无法穿透。这就是为什么它们看起来黑暗而恐怖。最大的、最黑的云降下最猛的雨。
+
+下落的形状（Falling shapes）　大多数人认为雨滴像泪珠，但它们实际上更像压扁的小圆面包。
+
+毒雨（Poison rain）　当化学品从工厂和汽车涌入空气，它们与水蒸气反应形成有害的酸。结果——酸雨（acid rain）——杀死森林、毒化水源，甚至侵蚀石头。
+
+致命的阵雨（Deadly showers）　大雨可造成毁灭生命与财产的恐怖洪水。当风暴袭击墨西哥的扎卡滕科河（Zacatenco River）时，其汹涌的水流有足够的力量冲垮这座桥。
+
+雨中小知识（Rainy facts）：
+• 在夏威夷的考艾岛，一年中只有大约15天不下雨。
+• 毛毛雨比雨下落得更慢，因为它细得多。大约需要700滴毛毛雨才能汇成一滴雨滴。
+
+## 白色的天空（White skies）
+
+当空气寒冷时，云中的水分会先冻结成冰晶而不变成雨。这些冰晶黏在一起，作为雪花飘落地面。一片雪花中可多达200个冰晶。在真正的暴风雪中，人们几乎看不到自己要去的方向。
+
+旋转的帘幕（Swirling curtain）　当雪又大又急地落下，我们称之为暴风雪（blizzard）。有时，即使暴风雪已过，风仍卷起地上的雪，仿佛雪还在下。
+
+白色蕾丝（White lace）　大多数雪花看起来像带花边的六角星，但有些形状非常不同。大多数雪花看起来像星星。这种形状被称为星状（stellar），意为似星。有六个平边的雪花称为片状雪（plates）。柱状雪（Columns）是细长的……
+
+舒适的积雪（Cozy snow）　北极的因纽特人（Inuit）用雪块建造小屋。这些临时住所，他们像帐篷一样使用，称为冰屋（igloos）。
+
+当心脚下！（Look out below!）
+
+雪中小知识（Snowy facts）：
+• 雪对因纽特人如此重要，以至于他们有超过100个描述雪的词，包括 piqsig（吹雪）和 auviq（适合建冰屋的好雪）。
+• 1921年4月，科罗拉多州银湖（Silver Lake）在24小时内降雪6英尺4英寸（1.93米）。
+• 积雪层可堆积得很高，因纽特人的轻微移动就能使它们坍塌。这样翻滚、崩塌的雪称为雪崩（avalanche）。
+• 落雪看起来洁白闪亮，因为它反射了几乎所有照射到它的光。
+
+寒冷而干燥（Cold and dry）　最大的降雪发生在气温略低于冰点时。非常非常寒冷的地方几乎从不下雪。
+
+## 冰雹阵雨（Icy showers）
+
+当固态的冰粒从天空落下，我们称之为冰雹（hail）。一些冰雹约有李子大小，另一些比豌豆还小。巨大的冰雹能砸穿屋顶、伤到人、压倒庄稼。
+
+冰雹的诞生（Birth of a hailstone）　在巨大的风暴云内部，强烈的冰冻大风不断打转。其中的任何冰晶被上下抛甩，在每个晶体上积累更多冻结层。这些层把微小晶体变成冰雹。
+
+冰导弹（Icy missiles）　小冰雹圆而白，但较大的冰雹通常有疙瘩状表面和锯齿状边缘。有记录以来最大的冰雹直径达17英寸（43厘米）。
+
+坠落的危险（Falling danger）　一颗巨大的冰雹就砸碎了这块挡风玻璃。云顶的空气比云底更冷。
+
+道路风险（Road risk）　驾车穿过冰雹风暴可能致命。很难看清，路面湿滑，真正大的冰雹能损坏汽车和卡车。
+
+## 露水与霜（Dew and frost）
+
+在凉爽的夜晚，空气中的水分降到地面时变成水，用晨露覆盖一切。在严寒的日子里，它会硬化成霜。
+
+黎明闪光（Dawn sparkle）　在凉爽的早晨，你会发现闪闪发光的露珠覆盖每个表面。在这张精致的蜘蛛网上，露珠像小小的珠宝。
+
+大自然的釉面（Nature's glaze）　如果温度在露水凝结后下降，水分常常冻结成清澈光滑的冰层，就像这些浆果上一样。
+
+蕨状霜（Fern frost）　当潮湿空气接触冷玻璃，水蒸气变成冰晶。它们看起来像精细的花边，或长满羽毛的蕨叶，这种霜因此得名。
+
+白霜（Hoar frost）　当空气中的水蒸气接触冰冻表面，有时会形成尖刺状的冰针而非光滑的涂层。这些尖刺称为白霜（hoar frost）。
+
+雾凇（Rime frost）　在非常寒冷的天气里，冰冷的风在湿润的叶子和枝条上形成一层硬壳，称为雾凇（rime frost）。因为它形成极快，雾凇厚而硬，表面看起来像糖。
+
+杰克·弗罗斯特（JACK FROST）　当羽毛状的形状出现在窗户上，景物变得洁白闪亮时，孩子们会被告知杰克·弗罗斯特（Jack Frost）拿着他的画笔来过了。杰克最早出现在北欧传说中，名为乔库尔·弗罗斯蒂（Jokul Frosti，意为“冰柱霜”），是风神卡里（Kari）之子。在欧洲和北美，他通常被描绘成一个淘气的小精灵。
+
+## 随风飘扬（Blowing in the wind）
+
+空气躁动不安，时刻在运动。当它的运动快到你能在脸上感觉到时，就称为风。有些风在某一处独自吹拂——另一些则属于覆盖整个地球的大型波浪状模式的一部分。
+
+魔法之风（Magic winds）　称为急流（jet streams）的高空大风带自西向东环绕地球。它们如此强劲，如果飞行员顺着它们飞行，可以缩短数小时航程。
+
+被北非上空的急流卷住的纤细云朵。当云被风卷住，它们优美的图案反映了空气有时俯冲、旋转的运动方式。
+
+强大的力量（Powerful force）　需要强劲、稳定的风才能让树长成这样。不过风实际上并不会把树干吹弯。它们杀死了面向风那一侧的所有嫩芽、花蕾和叶子，所以只有受保护的一侧能生长。
+
+沙漠中的风　急流能磨损坚硬的岩石，留下看似现代雕塑的奇异形状。许多沙雕头重脚轻，因为风往往磨损靠近地面的岩石。
+
+近赤道处，风从东吹来。再远些，它们改变方向。
+
+世界之风（Winds of the world）　太阳的热量和地球自转的方式造就了风的模式。这些模式如此可靠，几个世纪以来水手们靠它们穿越海洋。
+
+最轻的风称为微风（breezes）——最强的称为大风（gales）。
+
+风中小知识（Windy facts）：
+• 当寒风吹拂时，温度感觉比实际低得多。这种效应称为风寒指数（wind-chill factor）。
+• 风根据蒲福风级（Beaufort scale）测量，该风级最初为海上使用而制定。这个风级有13级：0级无风，12级为飓风。
+
+## 电闪天空（Electric skies）
+
+闪电（Lightning）是巨大的电荷，由风暴云内部冰与水相互摩擦而产生。每天有超过300万道闪电划过天空。闪电速度达每秒23000英里（每秒37000公里）。
+
+选定的路径（Chosen paths）　闪电可以：
+– 在单朵云内部闪现
+– 在云与附近空气之间
+– 在两朵云之间
+– 在云与下方地面之间
+当闪电闪光时，它使空气比太阳表面热五倍。闪电可长达4英里（6公里）。
+
+危险！（Danger!）　绝不要在树下躲避风暴，因为闪电会被任何高耸于地面的物体吸引。
+
+直接命中（Direct hit）　虽然一道闪电只持续不到一秒，但它的热如此强烈，能点燃建筑物或树木。
+
+闪电小知识（Lightning facts）：
+• 雷（thunder）是闪电发出的声音，但我们不会立刻听到，因为光比声音传播得快。
+• 一道闪电叉携带的电力足以照亮整个城镇一年。
+• 圣诞老人的两只驯鹿唐纳（Donner）和闪电（Blitzen）的名字，是德语中“雷”和“闪电”的意思。
+
+## 可怕的旋风（Terrible twisters）
+
+龙卷风（Tornadoes）是可怕的旋转空气漏斗。它们包含超速的风，具有摧毁房屋、掀翻汽车、把火车掀离轨道的致命力量。
+
+怪物的诞生（Birth of a monster）　龙卷风始于被吸入巨大风暴云底部的暖空气。暖空气比冷空气轻，所以它迅速上升。然后，像水流进排水口一样，它开始旋转着下降。如果旋转得足够快，它会以致命漏斗的形式触地。
+
+龙卷风小知识（Tornado facts）：
+• 在大龙卷风中心，风速可达250英里/小时（400公里/小时）。
+• 龙卷风可以夷平一所房子，却让隔壁的房子屹立不倒。
+• 1974年4月，在16小时内，148场旋风袭击了美国中部的“龙卷风走廊（Tornado Alley）”，造成315人死亡，另有5484人受伤。
+
+龙卷风走廊（Tornado Alley）　美国中部发生的龙卷风比地球上任何地方都多。在它们最常见的地区——绰号“龙卷风走廊”——大多数房屋都有风暴地窖或地下室，家人在龙卷风来袭时可以躲避。
+
+像这样的雷达设备能探测到风暴云内部正在形成的龙卷风迹象。
+
+追踪旋风（Tracking the twisters）　由于龙卷风会摧毁路径上的任何仪器，它们很难被研究。安装在巨型卡车后部的特殊雷达碟有助于判断它们的去向。
+
+死亡与毁灭（Death and destruction）　龙卷风在数分钟内摧毁财产、自然和人类生命。这里，佐治亚州一个宁静的小镇被撕成碎片。这团纠缠的碎金属曾是一辆又大又重的卡车。
+
+## 致命的风暴（Deadly storms）
+
+飓风（Hurricanes）是地球上最猛烈、最具破坏性的风暴。它们几乎总是始于热带地区。从太空拍摄，1996年弗兰（Fran）飓风横穿加勒比海向佛罗里达移动。
+
+在世界不同地区，飓风也被称为台风（typhoons）和旋风（cyclones）。
+
+每个热带风暴中心都有一小片平静区域，称为风眼（eye）。最强烈、最致命的风绕着风暴之眼从海上旋转而来。
+
+飓风从热带海洋的热量和地球在赤道附近自转最快这一事实中获得力量。它们从小风暴开始，然后积聚成旋转的风雨云团。
+
+致命的水（Lethal water）　飓风卷起高高的、猛烈拍打的波浪。这些在附近海岸和内陆一段距离造成巨大破坏。
+
+风暴小知识（Stormy facts）：
+• 飓风分为1到5级。1级是能造成轻微损害的暴风，而5级意味着潜在灾难。
+• 自20世纪40年代以来，飓风被赋予人名。起初只有女孩名，但自20世纪70年代以来，男孩名和女孩名交替使用，一年用男孩名，下一年用女孩名。
+
+快躲起来！（Run for cover!）　当科学家预测到巨大风暴，他们建议人们离开附近城镇。这里，佛罗里达居民在1992年安德鲁（Andrew）飓风袭击前前往安全地带。
+
+致命的风（Fatal wind）　当安德鲁登陆（称为“登陆，making landfall”），它夷平了路径上的一切。总共造成65人死亡，超过25000所房屋被毁。
+
+## 光的错觉（Tricks of the light）
+
+每一天，太阳上演的光之秀比任何科技所能提供的都更壮观。除了多彩的彩虹，它还能创造神奇的冰虹、闪烁的极光和天空中发光的斑点。
+
+魔法水滴（Magic drops）　彩虹的颜色总是以相同顺序出现。红色在顶部，然后是橙色、黄色、绿色、蓝色和靛蓝，紫色在底部。彩虹越大，颜色越明亮清晰。
+
+光由七种颜色组成。这些是我们在彩虹中看到的颜色。当阳光穿过雨滴，它的光弯曲并从表面反射。不过，不同颜色以不同角度弯曲。这就把它们分离成我们称为彩虹的分层光带。
+
+耀眼的展示（Dazzling displays）　极光（auroras）常被称为“北极光”或“南极光”，因为它们出现在南北极，是带有粉蓝条纹的绿色巨大光幕。它们由太阳上的电子风暴引起。
+
+假月亮（Mock moon）　如果冰晶在夜间穿过大气落下，它们能像雨滴一样弯曲太阳的光线。这创造出类似太阳狗（sundog）的大亮斑，看起来几乎像另一个太阳。这种斑点称为太阳狗（sundogs）。
+
+第二太阳（Second Sun）　落在冰晶……在月亮旁边产生类似太阳狗的效应。这些斑点称为月狗（moondogs）。
+
+冻结的光（Frozen light）　在两极，空气总是冰冷的，所以云由微小冰晶而非水蒸气构成。在这些晶体内部，光没有空间分离成颜色，所以冰虹（icebows）看起来是白色的。
+
+## 出海（Out at sea）
+
+水上小知识（Watery facts）：
+• 船的一侧总是比另一侧风更大。这称为迎风面（windward side）；受保护的一侧是背风面（lee）。
+• 当海水冻结成冰，它便不再咸——所有的盐都留在周围的水中。
+
+构成我们天气的成分——如温度、水和风——在海上与在干涸陆地上的运作方式相同。但最终结果往往非常不同。
+
+风与浪（Winds and waves）　吹过海洋的风真的很强，因为没有大型障碍物减缓它们。这些强风把海水推成波浪。在大风暴期间，巨浪可达灯塔顶部。
+
+冰水（Iced water）　冰山（Icebergs）是从南北极冰川断裂下来的巨大冰块。这里海水如此寒冷，冰山可保持冻结数百年。
+
+几个世纪前，水手以为水龙卷（waterspouts）是被巨大海怪吹起的。
+
+水龙卷（Waterspouts）　当它们在海上形成时，旋风（whirlwinds）和龙卷风被称为水龙卷。最大的能吸起如此多的水，连该区域的船只也被吸起。
+
+雾堤（Fog banks）　如果温暖潮湿的空气吹过寒冷的海面，会形成高高的、称为堤（banks）的浓雾。这种雾对水手非常危险，因为他们无法判断去向或前方有什么。
+
+## 沙漠世界（Desert worlds）
+
+雨天可能让你郁闷，但住在沙漠地区的人愿意付出一切去淋湿。沙漠——既可能寒冷也可能炎热——是几乎完全不下雨的地方。
+
+绿色岛屿（Green islands）　沙漠旅行者常常以为远处看到了水，其实只有沙子。有时一片被称为绿洲（oasis）的绿意会在沙漠中央涌现。当地下泉水渗到地表时就会发生，使植物得以生长。
+
+看见事物（Seeing things）　从地面升起的热气能让光线闪烁，看起来像浅水。这种虚假影像称为海市蜃楼（mirage）。
+
+沙漠小知识（Desert facts）：
+• 地球上最干燥的地方是智利的阿塔卡马沙漠（Atacama Desert），那里大约每六年才下一次雨。
+• 许多沙漠陆地由沙而非土壤构成。当风吹得猛烈，它制造出旋转、令人窒息、炫目的沙暴。在最糟糕时，沙暴造成的损害超过最厚的暴风雪。
+• 一些沙漠覆盖着沙丘（sand dunes）。这些在风中不断移动，所以没有植物能扎根。甚至连国界都无法清晰标示。
+
+旋转的云（Whirling clouds）　当沙漠地面变热，上方的空气可向上旋转形成高达350英尺（100米）的螺旋。如果灰尘或沙被吸入这些旋风，它们被称为尘卷风（dust devils）或沙魔（sand devils）。澳大利亚人称之为“威利-威利（willy-willies）”。
+
+干渴的茎（Thirsty stems）　沙漠植物特别适应干燥天气。例如，仙人掌（cacti）粗壮多肉，能把水分长期保存在体内。
+
+## 诡异的天气（Weird weather）
+
+无论我们对天气了解多少，它仍能带来一些惊喜。你见过泥雨、冰暴或下午的黑色天空吗？
+
+黑色的毯子（Blankets of black）　当火山云蔓延，它们遮蔽太阳。1991年，当皮纳图博火山（Mount Pinatubo）喷发、用灰色火山灰覆盖一切时，这片黑暗的天空笼罩在菲律宾上空。
+
+爆炸的地球（Exploding Earth）　当炽热的气体和液态岩石冲破地球表面，我们称之为火山（volcano）。这些喷发将大量灰尘和灰烬倾入空气。
+
+下泥了（It's raining mud）　当尘暴（或火山灰）与雨混合，结果就是落下的泥。这场狼藉的阵雨是1991年皮纳图博火山喷发的另一结果。
+
+淘气男孩（Mischievous boy）　每隔几年，一股温暖的洋流出现在南美洲沿海。因其恰在圣诞节到来，被称为“厄尔尼诺（El Niño，圣婴）”，这股洋流扰乱了全世界的天气系统。
+
+愤怒的海洋（Angry ocean）　厄尔尼诺温暖了加利福尼亚沿海的海水。这沿 coast 造成猛烈风暴，并深入内陆远至二百英里外的内华达州。
+
+冰暴（Ice storms）　穿过冰冻空气落下的雨，在落地时形成一层清澈的冰。这层冰或釉面重得足以压垮电话线和电线杆。当这些线路在俄克拉荷马州倒下时，数千个家庭失去了电力。
+
+## 天气预报（Weather forecasting）
+
+没人想在雨中野餐，或在阴冷的日子去海边。为帮助我们做计划，我们依赖天气预报。每日预报相当准确，但推算几周和几个月的天气要困难得多。
+
+升空（Up, up, and away）　在好奇的企鹅注视下，这位科学家正在南极洲释放气象气球。系在上面的仪器测量温度、风和湿度，并将结果通过无线电发回地球。
+
+地面站（Ground stations）　世界各地——在陆地上（如图所示）和海洋中央——气象站（weather stations）收集信息。这些信息随后传递给各国的科学家，以便他们预报天气。
+
+预报小知识（Forecasting facts）：
+• 气象气球之所以上升，是因为它们充有氢气或氦气，这两种气体都比空气轻。
+• 湿度计（Hygrometers）测量空气中的水分。第一个由列奥纳多·达·芬奇（Leonardo da Vinci）在15世纪建造。
+
+间谍卫星（Spy satellites）　数百颗气象卫星环绕地球，记录图像和数据。有些以与地球自转相同的速度移动，因此停留在某一地点上空。其他的从一极到另一极绕行星飞行。从太空俯瞰，在这张卫星图像上，飓风袭击美国墨西哥湾海岸时呈现为明亮的绿色漩涡。
+
+气象奇术（Weather wizardry）　巨大的超级计算机接收来自所有可用来源的天气数据。这些数据被输入我们大气的模型中，使计算机能算出它将对天气产生什么影响。
+
+## 变化的气候（Changing climates）
+
+世界的天气随时间自然变化。但专家们担心污染正在损害我们的大气层，并以糟糕的方式改变我们的气候。
+
+空气中的毒物（Poison in the air）　这些意大利儿童穿着防护服装，抗议交通污染。科学家认为汽车和工厂排出的有毒气体在大气中困住了过多热量。因为它们像温室中的玻璃一样起作用，被称为“温室气体（greenhouse gases）”。这一过程称为“全球变暖（global warming）”。
+
+黑色力量（Black power）　除汽车、卡车和公共汽车的废气外，空气污染的主要来源是烟。化石燃料（如煤）在燃烧发电时产生最多的烟。
+
+上升的水（Rising water）　当温度即使只上升一点，极地冰盖（polar ice caps）就开始融化并影响海洋。科学家担心，如果太多冰消失，北极熊将失去大部分狩猎地。
+
+这个地球上浅蓝色的部分是臭氧层（ozone layer）。南极上空的巨大黑洞是由污染造成的。
+
+危险的暴露（Dangerous exposure）　除使空气变暖外，污染还损害环绕地球的臭氧层。臭氧是一种带蓝色的气体，有助于阻挡太阳的紫外线。
+
+保护我们的星球（Protect our planet）　当我们回收纸张和瓶子等家庭废物，就不必燃烧那么多化石燃料来制造更多。
+
+变暖小知识（Warming facts）：
+• 如果我们更好地利用来自阳光、风和波浪的能量（见下页），就能减少全球变暖。
+• 购买更小的汽车——并尽可能步行——也将帮助我们减少温室气体，因为我们不会产生那么多废气。
+
+## 驾驭天气（Harnessing weather）
+
+无论天气像朋友还是敌人，它通常是我们无法控制的东西。但今天的科学家正在学习如何把它惊人的力量转化为廉价、清洁的能源。
+
+古老的知识（Ancient knowledge）　几个世纪以来，风带着气球和风筝穿过空气，推动帆船跨过湖泊和海洋。
+
+强大的小知识（Powerful facts）：
+• 由水——波浪、潮汐或瀑布——产生的电力称为水力发电（hydroelectric power）。
+• 世界上最大的太阳能发电站位于加利福尼亚的莫哈韦沙漠（Mojave Desert）。
+• 覆盖着风力涡轮机（wind turbines）的大片土地称为风电场（wind farm）。
+
+乘客和设备在悬挂于热气球下方的小篮子中旅行。
+
+捕捉太阳（Catching the Sun）　在太阳能发电站，巨大的镜子汇聚太阳光线。不过目前，这项技术产生的能量相当少。
+
+风的一吹（Puffs of wind）　这些高高的涡轮机是现代风车，能产生能量。但像太阳能一样，风能只能产生少量能量——大约需要3000台涡轮机才能抵得上一座燃煤发电站的输出。
+
+波浪能（Wave power）　像苏格兰艾莱岛（Islay）这样的偏远地区常常没有发电站。在这里，利用拍打波浪的力量是产生能源的好方法。设计用来利用波浪的机械必须经受最汹涌的海面。
+
+金色光芒（Golden glow）　当尘埃云飘入大气，天空有时会变成深红或金色。下面的古老歌谣暗示，火红的日落意味着次日早晨天气晴好，而火红的黎明意味着风暴将至。
+
+水手们从中得到警告。
+
+## 词汇表（Glossary）
+
+这里是对学习天气时有用的几个词的含义。
+
+酸雨（Acid rain）　被污染毒化的雨。
+气流（Current）　海洋中一条流动的水带。
+大气层（Atmosphere）　地球与外太空之间宽阔的分层空气带。
+极光（Aurora）　在南北极上空天空中出现的彩色光带。
+雪暴（Blizzard）　大雪急促而猛烈落下的风暴。
+云（Cloud）　天空中水滴或冰晶的集合。
+凝结（Condensation）　当空气中的水蒸气变成液体时发生的事。
+露水（Dew）　凉爽夜晚后在近地面凝结的水滴。
+沙漠（Desert）　极少降雨的干旱地区。
+蒸发（Evaporation）　当液体消失在空气中变成水蒸气时发生的事。
+赤道（Equator）　地球中部、两极之间的一条假想线。
+雾（Fog）　停留在地面上的云。细雾称为薄雾（mist）；与烟混合的雾称为雾霾（smog）。
+冰冻（Freezing）　水在32℉/0℃变成固体冰时发生的事。
+冰（Ice）　冷到冻结成固体的水。
+冰暴（Ice storms）　雨穿过冰冻空气并在落地时形成冰层的风暴。
+冰晶（Ice crystals）　直接从蒸气冻结、不经液滴阶段就形成的晶体。
+冰盖（Ice caps）　极地的冰盖。
+闪电（Lightning）　天空中静电的闪光。
+彩虹（Rainbow）　雨滴反射太阳时形成的彩色光带。
+雨（Rain）　从云中落下的凝结水滴。细小的水滴称为毛毛雨（drizzle）。
+降水（Precipitation）　从空气释放到地球表面的水分。雨、雪、冰雹、雾和露都是降水的形式。
+雪（Snow）　当空气中的水分冻结时形成的冰晶簇。冰晶在落下前黏在一起形成雪花。
+平流层（Stratosphere）　对流层之上的气层。
+龙卷风（Tornado）　以极高速向上旋转的空气螺旋。
+飓风（Hurricane）　在热带海洋上形成的强大风暴。在世界不同地区，飓风称为台风（typhoons）和旋风（cyclones）。
+风（Wind）　空气从一处向另一处的运动。
+全球变暖（Global warming）　世界各地气候逐渐升高的现象。
+污染（Pollution）　使空气、土壤或水变脏或有毒的任何物质。
+
+## 索引（Index）
+
+大气 atmosphere 4-5, 41, 42
+预报 forecasting 40-41
+霜 frost 5, 22-23
+雾/薄雾 fog/mist 10, 14-15, 35
+全球变暖 global warming 42-43
+温室气体 greenhouse gases 42-43
+冰 ice 18-19, 20-21, 22-23, 26-27, 32-33, 34-35, 39
+冰暴 ice storms 38-39
+冰盖 ice caps 43
+冰虹 icebows 32
+极地 poles 6-7, 24-25, 32-33, 41, 43
+急流 jet streams 24-25
+杰克·弗罗斯特 Jack Frost 23
+闪电 lightning 26-27
+月狗 moondogs 33
+泥雨 mud showers 38-39
+厄尔尼诺（洋流） Niño, El (current) 39
+夜光云 noctilucent 12
+层云 stratus 10-11
+卷云 cirrus 10-11
+积云 cumulus 10-11
+荚状云 lenticular 13
+乳房云 mammatus 13
+雨层云 nimbus 10-11
+雨 rain 5, 8-9, 10-11, 16-17, 18-19, 20-21, 24-25, 26-27, 28-29, 30-31, 36-37, 39
+极光 auroras 4, 32-33
+彩虹 rainbows 32-33
+地轴（地球） axis, Earth's 6-7
+沙魔/沙暴 sand devils/storms 37
+雪 snow 5, 9, 18-19
+太空 space 4, 30
+太阳 Sun 4-5, 6-7, 8-9, 14-15, 24-25, 26-27, 32-33, 38, 43, 44-45
+飓风 hurricanes 30-31, 41
+太阳狗 sundogs 33
+季节 seasons 6-7
+平流层 stratosphere 4
+陨石 meteors 4
+云 clouds 4, 8-9, 10-11, 12-13, 14-15, 16-17, 18-19, 20-21, 24-25, 26-27, 28-29, 30-31, 32-33, 38, 43
+雷 thunder 26-27
+臭氧层 ozone layer 43
+龙卷风 tornadoes 13, 28-29
+对流层 troposphere 4-5
+台风 typhoons 30-31
+尾迹云 contrails 11, 12
+火山 volcanoes 38
+旋风 cyclones 30-31
+水龙卷 waterspouts 34-35
+沙漠 deserts 36-37
+波浪 waves 31, 34, 43, 44-45
+露水 dew 22-23
+气象站 weather stations 40-41
+毛毛雨 drizzle 10, 16-17
+风 wind 4-5, 9, 11, 18-19, 24-25, 28-29, 30-31, 34-35, 36-37, 40, 43, 44-45
+能量 energy 44-45
+赤道 equator 6-7, 25, 30
+风寒指数 wind-chill factor
+
+## 致谢（Acknowledgments）
+
+多林·金德斯利（Dorling Kindersley）谨此感谢：珍妮特·阿利斯（Janet Allis）创作了最初的杰克·弗罗斯特插图；劳拉·罗伯茨（Laura Roberts）对主要“季节”图稿的帮助；弗勒尔·斯塔（Fleur Star）提供的整体编辑与研究协助；以及彭妮·阿隆（Penny Arlon）的校对工作。
+
+出版商谨此感谢以下机构惠允复制其照片：
+
+图片提供方（Picture credits）：
+Alamy Images：Brand X Pictures 6-7；Bryan & Cherry Alexander Photography 19br；Steve Bloom Images 4-5a；Image State 3r, 21；Jim Zuckerman 28。
+Ardea London Ltd：Eric Dragesco 19cl；Steve Hopkin 22bl。
+Bruce Coleman Ltd：11tr。
+Corbis：8t, 10-11；Phil Banko 36tl；Tom Bean 25tr；Rick Doyle 34-35；Frank Lane Picture Agency 20tl, 41tl；Raymond Gehman 15bl；William Manning 8-9；John M. Roberts 5bra；Galen Rowell 13br；Scott T. Smith 23；Ray Soto 35tr；Stocktrek 41cr；Hans Strand 43tr；Sygma 29cr；Craig Tuttle 22tl；1996 Corbis/原始图像由 NASA 提供 24tl, 24cr。
+FLPA - Images of nature：C. Carrolho 33b；Tom & Pam Gardner 36bc。
+Getty Images：Alejandro Balaguer 38bl；Jose Louis Banus-March 48l,r；Tom Bean 9t；Rob Casey 5br；J.P. Fruchet 24-25, 48c；Jeri Gleiter 44tl；Lester Lefkowitz 45tl；Yannick Le Gal 34l；Jens Lucking 5tr；Nadia Mackenzie 44-45；Graeme Norways 10c；Pascal Perret 16-17；Colin Raw 42-43；Ulli Seer 46-47；Erik Simonsen 26-27t；Oliver Strewe 17tl；Harald Sund 35tl；John Wilkes 16l。
+Masterfile：Allan Davey 27tr。
+Nature Picture Library Ltd：Grant Mcdowell 37bl；Anup Shah 1。
+NASA：6tr, 6bl, 7tr, 7br, 30, 43c。
+N.H.P.A.：Ant Photo Library 36-37。
+Oxford Scientific Films：39cl；Weatherstock 29tl。
+Pa Photos：17r。
+The Palm Beach Post/Greg Lovett：C J Walker 31c。
+Jeff Piotrowski/Storm Productions：29br。
+Planetary Visions：41b。
+Popperfoto：15cr。
+Powerstock：Walter Bibikow 32；Fabio Muzzi 15t；Stock Image 10bl。
+Reuters：29bl。
+Rex Features：Sipa Press 38-39, 39tl；27br。
+Science Photo Library：Martin Bond 45cr；Alan L. Detrick 5cr；David Ducros 4-5b；Jack Finch 33tr；Simon Fraser 11tl；R.B.Husar/NASA 39cr；Stephen J. Krasemann 33c；Pekka Parviainen 12-13, 22br；Ted Kinsman 19tcb, 19tl；A. T. Willett 21br, 26-27b, 19trb；EuroStyle Graphics 12bl；Dennis Hallinan 14-15；Jim Reed 20l, 21tr, 41br；Francoise Sauze 13tr；David Vaughan 33cl；Claude Nuridsany & Marie Perennou 2tc, 18tl, 18tlbr, 19tl, 19tc, 19tr；George Post 20-21；Cameron Davidson 18tlb；Martin B. Withers；Michael S. Yamashita 18。
+Still Pictures：39br；Denis Bringard 5trb；Angelo Doto 42l；Roland Seitre 40-41。
+
+（标注说明：a=上；c=中；b=下；l=左；r=右；t=顶）
+
+其余所有图片 © Dorling Kindersley www.dkimages.com
+

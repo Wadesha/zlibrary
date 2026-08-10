@@ -1,17 +1,6 @@
 # Glencoe Science Astronomy Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Glencoe_Science_Astronomy_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：410897
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 i-01-LBJ-861761 08/16/2004 1:43 PM Page i (tl)NASA/Science Photo Library/Photo Researchers, (tr)Billy & Sally Fletcher/Tom Stack & Assoc., (b)Photodisc i-01-LBJ-861761 08/16/2004 1:43 PM Page ii Astronomy This collection of images is of Jupiter,Io (one of its moons), Mars,and the Andromeda Galaxy.The Andromeda Galaxy is the most distant object visible to the human eye.At a distance of 2.2 mil- lion light years,it appears as a fuzzy patch of light in the night sky.
-
-the United States Copyright Act,no part of this publication may be reproduced or distributed in any form or by any means,or stored in a database or retrieval system,without prior written permission of the publisher.
-
-The National Geographic features were designed and developed by the National Geographic Society’s Education Division.Copyright ©National Geographic Society.The name “National Geographic Society” and the Yellow Border Rectangle are trademarks of the Society,and their use,without prior written permission,is strictly prohibited.
-
-The “Science and Society”and the “Science and History”features that appear in this book were designed and developed by TIME School Publishing,a division of TIME Magazine.TIMEand the red Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus,OH 43240-4027 ISBN:0-07-861761-8 Printed in the United States of America.
 
 2 3 4 5 6 7 8 9 10 027/043 09 08 07 06 05 04 (tl)NASA/Science Photo Library/Photo Researchers, (tr)Billy & Sally Fletcher/Tom Stack & Assoc., (b)Photodisc i-01-LBJ-861761 08/16/2004 1:43 PM Page iii Authors Ralph M. Feather Jr., PhD Dinah Zike Science Department Chair Educational Consultant Education Division Derry Area School District Dinah-Might Activities,Inc.
 

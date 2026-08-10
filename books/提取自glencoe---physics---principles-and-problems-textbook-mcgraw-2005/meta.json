@@ -1,10 +1,10 @@
 {
   "slug": "提取自glencoe---physics---principles-and-problems-textbook-mcgraw-2005",
-  "title": "提取自Glencoe - Physics - Principles and Problems [textbook] (McGraw, 2005)",
+  "title": "提取自Glencoe - Physics - Principles and Problems textbook McGraw, 2005",
   "language": "en",
   "pipeline": "ocr_md",
   "source_file": "提取自Glencoe - Physics - Principles and Problems [textbook] (McGraw, 2005).md",
   "source_pdf": "提取自Glencoe - Physics - Principles and Problems [textbook] (McGraw, 2005).pdf",
-  "chars": 5453,
+  "chars": 5454,
   "has_fixed": false
 }

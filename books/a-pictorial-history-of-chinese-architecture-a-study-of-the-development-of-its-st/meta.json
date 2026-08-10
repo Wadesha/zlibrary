@@ -1,10 +1,10 @@
 {
   "slug": "a-pictorial-history-of-chinese-architecture-a-study-of-the-development-of-its-st",
-  "title": "A Pictorial History of Chinese Architecture A Study of the Development of Its Structural System and the Evolution of Its Types (Ssu-ch’eng Liang)",
-  "language": "zh",
+  "title": "A Pictorial History of Chinese Architecture A Study of the Development of Its Structural System and the Evolution of Its Types Ssu-ch’eng Liang",
+  "language": "en",
   "pipeline": "ocr_md",
   "source_file": "A Pictorial History of Chinese Architecture A Study of the Development of Its Structural System and the Evolution of Its Types (Ssu-ch’eng Liang) (Z-Library).md",
   "source_pdf": null,
-  "chars": 336081,
+  "chars": 298970,
   "has_fixed": false
 }

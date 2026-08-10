@@ -1,10 +1,5 @@
 # 远离的月球 刹车的地球 潮汐锁定yuanlideyueqiuchachedediqiuchaoxisuoding
 
-> 来源文件：pre_远离的月球_刹车的地球_潮汐锁定yuanlideyueqiuchachedediqiuchaoxisuoding.txt
-> 字符数（约）：3724
-> 语言：zh
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 物理学漫谈
 
 远离的月球，刹车的地球——潮汐锁定

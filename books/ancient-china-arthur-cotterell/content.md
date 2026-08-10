@@ -1,10 +1,5 @@
 # Ancient China Arthur Cotterell Z Library
 
-> 来源文件：pre_Ancient_China_Arthur_Cotterell_Z_Library.txt
-> 字符数（约）：224779
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Eyewitness Eyewitness Ancient China Harness ornaments, 7th–6th century b.c.
 
 Sword and sheath, decorated with brass and tortoiseshell Stucco head of a Bodhisattva, 8th–9th century Carved lacquer boxes Sihu, or spike fiddle, and bow, 19th century Jade ear scoop Modern and various calligraphy bronze tweezers brushes Eyewitness Ancient China Written by ARTHUR COTTERELL Photographed by ALAN HILLS & GEOFF BRIGHTLING Pottery tomb figures, 7th–8th century DK Publishing, Inc.
@@ -13,17 +8,9 @@ London, new York, MeLbourne, Munich, and deLhi Project editor Bridget Hopkinson 
 
 This edition published in the United States in 2005 by DK Publishing, Inc.
 
-375 Hudson Street, New York, NY 10014 08 09 10 9 8 7 6 5 4 Copyright © 1994 © 2005 Dorling Kindersley Limited Conventions. No part of this publication may be reproduced, stored in a retrieval Kitchen knife system, or transmitted in any form or by any means, electronic, and case, mechanical, photocopying, recording, or otherwise, without the prior 19th century written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-Fish-shaped ISBN-13: 978-0-7566-1391-4 (alb)
-
-cloisonné ISBN-13: 978-0-7566-1382-2 (plc)
-
-vase, 18th century Color reproduction by Colourscan, Singapore Printed in China by Toppan Printing Co., (Shenzhen) Ltd.
 
 Discover more at Decorated model sampan Ceremonial Buddhist conch, 18th century Contents The world’s oldest empire The beginning of China The teachings of Confucius The art of war The first emperor of China Inlaid bronze chariot decoration, 4th century (cid:379)(cid:17)(cid:380)(cid:17)
 

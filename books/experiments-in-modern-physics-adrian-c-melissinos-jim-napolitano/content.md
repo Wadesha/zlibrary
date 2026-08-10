@@ -1,25 +1,16 @@
 # Experiments in modern physics Adrian C Melissinos Jim Napolitano Z Library
 
-> 来源文件：pre_Experiments_in_modern_physics_Adrian_C_Melissinos_Jim_Napolitano_Z_Library.txt
-> 字符数（约）：924961
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 EXPERIMENTS IN MODERN PHYSICS Second Edition Adrian C. Melissinos UNIVERSITY OF ROCJI.DSTER Jim Napolita,io ~@ ACADEMIC PRESS An imprint of Elsevier Science Amsterdam Boston. London Ne:wYork Oxford Paris SaoDiego San Frandsco Singapore Sydney . Tokyo Senior Publishing &liter Jeremy Hayhurst Senior Project Main1F Ju,i.oEspcros Editorial Cootdinator Noa Donaghy Product M.anaga- Anne O'Ma.ra Covcr Des.ig.n Dick HannlL~ CopyeditoT Cl'Ull'les LautktT Jt.
 
 Cnl)1posltion Ceptu1 Imaging P,rt. Ltd.
 
 ftintc:r l11e M~pl~V ail Book Manufacturing Gruup 112;s book is printed lU:id-f~ paper.
 
-(Jd Copyright 2003, Elsevkr-Scieocc (USA).
-
 All rights ~trved.
 
 No pnrt of lhis publication may be n=ptoduccd « transmitted in any form or by any means.
 
 electronic or m~hrutlcal. ineludmg phoLOCOpy. . m.:ordirJg, or any w.fonnution storag~ nnd rettleval sy;.tem, without penni:;.~ion io writing from the publ..i~het'- Rcqu.c-.,;ts ror ~ission IO l'Wlke copie~ of any part of the work mould be mailed to: s~ Permis.sions Department. H,.rcourt. Jnc,., 6277 Harbor Dri~e.. OrJMdo, Florida 32S87-6777.
-
-Academic Pn:ss An imprint <Jf EJse,;ier Science S2S B ~ Suite 1900. San Diego. California 92101-4495. USA http-Jlww..-.1.~Llemicpress.oom Academic~ 84 Theobald'~ Road, Lc,rtdon WCIX 8RR, UK htt{':ll~vww.acatl~1nicprcss..com Aademic Press 200 W\ beckr Road. Buriiflgton. M;i..-.~tmscns O1 803, USA Attp:l/wv-w.bJ.roo,.ut.ap .com Libr,try of Cong.ress Catalog Card Nwnbcr. 2002117796 lntcm~ S1,;tm.lard Book Number. 0-12-48~851-3 PRINTED IN TifE UNITED STATES OF AMERICA 03 04 05 06 07 08 9 8 7 6 5 4 J 2 1 1ra:rpos Els µvf]µ11z, µov 't'()U KwVUTavrwov I. A,[ tA"10'WOV To the memory of my father Jiusto N apolita.no Contents Prefnce Xl Preface from the First Edition x.v 1 E.J:periments on Quantization I 1.1. Introduction 1 1.2. The Milliknn Oil Drop Experiment 2 1.3- The Prank-Hertz Experin1eot 10 1.4_ The Hydrogen Spectrum 20 1.5. Experiment on th.e Hydro_gen Sp~ttum 25 1.6. The Spectra of Sodiumnad Mercmy 33 2 Electrons in Solids 45 2.1. Solid Materials and Band Structure 45 2.2. Expedment on the Resistivity of Metals 54 2.3. Experiment on the Hali E-ffect 63 2.4. Semiconductors 71 2.5. High T.:. Supcrconduclors 81 2.6. Reforonce& 88 3 Electronics and Dara Acquisition 89 3.1. Elcm¢nts of Circuil Theory 89 3.2- Basic Elcc1mnic Equipment 104 3.3_ Oscilloscopes and Digitizers 110 3.4_ Simple t\-leasuremeots 116 viii Contents 3.5. Opcratioruil AmpJifiers 119 3.6. Measurements of Johnson Noise 122 3.7. Chaos 133 3.8. Lock-In Detection 144 3 .9. Computer Interfa ccs 147 3.10. Referenc~ 1:50 4 Lasers 151
 
 ## 4. L The Principle of Laser Operation
 
@@ -44,8 +35,6 @@ Curricula have r o ct1sed more and ino re oo "interactive" tedmiques in the intr
 Data analysis and presentation is generally carried out with the program MA1'LAB; analysis program.s are avnilable from the authors. Throughout the booi4 we make use of computers and computer-controlled hartlware, as well as various commerciaJ sofuvare packages., as illustrative options for building such experiments. Also.. n col lcction of exercises suitabl~ for homework or examinations is in~tu.Jed in Appendix G •ii Pref ace New experiments have been added and the material has been reor ganized. A number of new experiments in condensed matte1 have been introduced in Chapter 2, including measurements of the resistivity of met als using eddy curren18t the Hall effect in bismuth, electrical, and therrnnl properties ofd iodes., and high T('. superconductors. Chapter 3 includes new ~ pe.riments on Johnson noise. and chaos. Chapters 4 and 5 arc completely new and several eApcriments involving lasers are discus~ed. These include classical experiments on diffraction and inlerferometty as well as a mea ~urernent of the Faraday effect and ofBeny>s pha.~e. Chapters 6 nnd 7 have been updated and an experiment on saturation absorption spectroscopy ha~ been introduced. The material on nucle~ physics and nuclear techniques has been reorganized into Chapters 8 aml 9 and some oew measurement.st including cosmic ray expcritnent.li and muon decay have been ildded.
 
 Space limitations have forced us to drop sevenll experiments, and other material, from the first editioo. We have eliminated experiments on the pho toelectric eff ~ thenw onlc emissiont the Hall effect in semicondueton;, Rutherford scattering, and velocity and particle identific.ition measun> ment~. Some detailed discussions of experimental techniques, such as the prism spectrograph and vacuum purnpiog, have also been removed.
-
-One of the most dtamatic developments since the first edition has been the use of computers for data analysis and presentation. Indeed, today there· ~ a multitude ofbolh commercial and free programs that run on a variety of platforms .. al I of which would be suit.able for the experiments we describe here. lo this text, for many cases~ we hA\'e chosen to use the program NIAl'LAB (httpt/www.mathworks.com/) to iUustratc the analyses. Th~ student version is inexpensive and well documentedi and provides so me sophistlc;1.ted routines for things !Sllch as nonlinear fitting and data presenta tion. (Appendix B gives a brief introduction to the program.) However~ we emphasize that all of the necessary tools including plotting, linem- fiUi.ng, 811d so forth, are e$ily accessible through any number of programs.
 
 This revision is built on advanced laboratory courges at the Uni ve.rsity of Rochester and at Rensselaer Polytechnic Institut~ as well as labora· tory compooents of upper level lecture courses. Our stodents take part in intemctive courses at the inlroductory level, and they extend this exposure with this advanced laborntory mate.rial as they continue their education.
 
@@ -136,8 +125,6 @@ Ll. INTRODUCTION A defining characteristic of prostnl-day physjcs is that many o
 (b) The Frank-Hertz experiment on the e~citation by electron born~ bardment of atomic vapors. It is found that only for discrete bombarding 2 1 Experiments an nuantizat~on energies is such excitation possible. and the first excited state of the mercury (Hg) atom is thus measured.
 
 (c) A n1easoremeot of spectral lines in the visibJe. In particular the Balmerseriesofthehydrogenatom. as well as the more complicated spectra of sodium and mercury wi11 be discussed.
-
-All three experiments can be earned out with conunercia11y available equipment f mm several manufacturers. For instance the Model AP--8210 •'Mi11ikao Oil Drop Apparatus" from PASCO Scientific (Roseville, CA} is a fully assembled ~ystem that }'ields excellent resul~. Two vari eties of Millikan nppacahlt. are available from Tel-Atomict Incorporated (http://www.te!atomh;.comf). A rrank-Hcrtz tuhe with its oven can be obtained from ELWE Lehrsysteme (Creuilingen. Germany). Klinger Edu cational Product5 ats-o offers a complete Frank-Hertz experimental serup.
 
 PASCO Scientific also markets a ~'Precision Student Spectrometer"1 Model SP-9268, which is fuUy equivalent to the s~trometer used to obtain the data described in Sections LS aud L.6. Of oourse such an .apparatus c.in also be built in-house, and we shall describe the apparatus and data-takif\g procedures in sufficient detail.
 
@@ -831,8 +818,6 @@ tS '!> tf/\ .(c) The source and source lens are placed in position and the align
 
 {ft(' r = 0). This can be done by "autocollimation"; a strong light is focused J { &hto the slit and a cardboard mask with a narrow slit is placed on the { f }ollimator lens. The grating is then adjusted until the reflected image of the \ ?/cardboard slit coincides with the slit itself.
 
-ff\\· (g) Finally~ the lines of the grating should be made parallel to the slit {j}@.ence the cross hairs); this can be done by viewing one edge of the grating \(3~ith the telescope in position 1.
-
 If{: With any reasonable grating it is possible to observe the visible lines of }{)he spectrum in severa] orders; thus we expect the measurements for ). / d (jo be self-consistent, since -ttt . . ). J.. ).
 
 .. - - · :: : : : : : : : : : : : : : : : : :: sm0m+l - sm0m = (m + 1) d - m d = d (1.17)
@@ -1113,8 +1098,6 @@ r.t~fJJllcdium slit length), and sodium (short sht).
 
 IJii\ . . .
 
-W:if/ Tb.is concludes our d1scuss1on of the spectra and energy levels of ~l])he sodium and mercury atoms. 'The same trea~ent applies to all other ~::i::::::::one- or two-electron atoms, as well as to those with a one- or two-electron -,..-.~-·-·.······ W,:fji.eficiency (hole) from a closed shell. Atoms with more electrons outside ~f{~tosed shells are treated on analogous lines, but the coupling schemes 1@f [::~come more complicated, giving rise, as in the. case of the rare earths, to W.rtextremely complex spectra.
-
 ~,-:·.·.·.·.
 
 ~f fi: ttt·. .
@@ -1131,8 +1114,6 @@ i=:=:?
 
 ·,~::::::· ~t:: ~--·.•,• f.//: .,._._._ ·.' .· Ii -itl· ~::i) i.1. SOLID MATERIALS AND BAND STRUCTURE /.;:-:,:-:.
 
-lf::::·· f/fy.tost matter, as it can be perceived with our senses, consists of systems :-:}{\yith very large nwnbers of interacting particles. In matter in the gaseous ..,:\f~tate, the distance between molecules is great, and therefore the forces arc &:\jy.~ak. 1n solids, however, the forces are much stronger. Understanding of ?}#te lhennodynamic properties of "bulk" matter, based on the microscopic :.:t/~havior of the constituent molecules or atoms, was first achieved through .Jifu~statistical mechanics developed by Boltzmann. Because of the immense ijfJ®1ber and has of interacting bodies, the statistical approach is quite valid &JfP .#.?yed highly successful. Classical statistical mechanics, however, was W,j@fu~le to ex.plain several phenomena until quantum-mechanical principles iffW:e.Je As know, as incorporated. we particles with half-integral spin-such ~t)~~ electrons-obey ''Fernu-~irac'' statistics, while parti_cles :,Vi th in~e!?'al @jJ)?.~-such a5 photons and helmm atoms-obey "Bose-Einstem" statistics.
-
 WJtJ~~ fundamenraJ_d istincti~n is that the f~rmer type of particles must have ~jft{~mpletely anasymmetnc wave function, whereas tbe lat1er ones must ~-;,:,:.;.· wit<: :-:::=::::::::::::::: 45 -~:-·!-~"·:<•:•:.
 
 ~~~~;;;:;::::· it.tit 46 2 Electrons in Solids have a symmetric wave function. This leads to a different distribution function for the probability that a particle will occupy a certain cell in phase space.
@@ -1142,8 +1123,6 @@ The experiments in this chapter are primarily concerned with the elec tronic pro
 Most solid-state materials have a crystalline structure; that is, the atoms form a periodic lattice. Advantage can be taken of this periodicity so ·:: that the macroscopic behavior of the crystal is predicted from the gen-~:: eral parameters of the lattice and the atoms that form it. It is found ·: that the free electrons, instead of occupying distinct energy levels-as ··: they do in atoms and molecules-are contained in ce11ain energy bands .. : Knowledge of the "band structure" is necessary in most considerations < of the solid state and specifically in the understanding of the behavior J of semiconductors. The motion of the free electrons or holes (contained :: in the valence band) through the lattice can be studied in tenns of a ::· single-particle approach. Such phenomena as scattering and the absorp- ::: tion or emission of vibrational quanta (phonons) are invoked and are .: useful in explaining further details in the macroscopic behavior of the ··: sample. · 2.1.1. The Fermi-Dirac Distribution Let us consider a large ensemble of free Fermi particles (such as electrons); the assumption is made that in phase space1 there exist many states that these electrons can occupy. Each "cell" has a phase-space volume of h3 (where his again Planck's constant), so that the number of available cells for a differential volume of phase space is (2.1)
 
 According to the exclusion principle, however, each cell can be occupied by two electrons (o ne with spin up and one with spin down), so that tht number of available electron states is 2n~I f we integrate over the spacf 1 Phase space is a space spanned by the momentum and position vectors of a particle Thus, a particle moving in ordinary three-dimensional space will have six components j phase space.
-
-~~@l\lll~l(l;
 
 ## 2.1 Solid Materials and Band Structure
 
@@ -1198,8 +1177,6 @@ Con1bining the Penni-Dirac disttibution (Eq. (2.3)) with the energy density of s
 ?~ For example, the number ofe lectrons per unit volume (d ensity) at an energy /Ii win the interval dw is given by 'ii:~~ (2.4) ;.;.:: ......
 
 ,, ,:)§ If we express Eq. (2.4) in terms of the Cartesian coordinates of the velocity, )f.
-
-}@.
 
 Vx, Vy, and Vz~ and integrate over lJx and Vy, we obtain the number of /i electrons per unit volume with a given velocity in the z direction, (in the .
 
@@ -1489,8 +1466,6 @@ tE s)
 
 I!
 
-where we used the fitted value of tE and r 0.635 cm. This compares well with the value listed in Table 2.1. :-:-:":"' .::::=~= :::::=~ \d 1°From the Alfa Aesar company, http://www.alfa.com/.
-
 ·-:::;:; ':;::::: ·-:-:.1: . - · :- .· :- . : - ..
 
 . :-:.>; .:::::;~ )ffiff
@@ -1546,8 +1521,6 @@ i'::-:-:-:· Section ~·:::-:-:-: . .
 ~::::::::::-.
 
 ~=:=:::?
-
-~l) in the x direction, hence Vd.v 0. From Eqs. (2.20) we therefore have t>t t::::/ : mwc mwc ( e-r: ) e Br r::::::::· = = - Ey --Vd --Ex = -a>cTEx = ---Ex- ;;:::::::::: e e m m t::::::>: x f{{r,he appearance of the electric field Ey is the Hall effect @f} / A convenient experimental quantity is the Hall coefficient RH, defined as 11: j~~ RH= (2.21)
 
 ix, t i)~e quantities Ey, and Bare all straightforward to measure, and in our ~f{j~ple approximation for electrons in conductors we have (from Eq. (2.18))
 
@@ -1616,8 +1589,6 @@ FIGURE 2.15 Sample of Hall effect data, taken at room temperature and with a mag
 of 1.23 mV/A, with an intercept very close to zero. In terms of quantities \{{ {ff related to our measurement~ the Hall coefficient (Eq. (2.21)) is expressed by .
 
 ..· .·.·.-....
-
-{ff Ey = -V-H-/W - = -VHt = - dV - H -t , :.:-:-:•:• RH= - .ixB I /(w x t)B l B di B \!:fi .{/}J where we note that our data yields a very good direct proportional iif@i relationship between VH and /. Using SI units, this yields .
 
 6 4 ni)
 
@@ -1761,8 +1732,6 @@ f:.- ~~11 ;.::~:::·· \ff: -:·:-:-:-i . -:-:-:-:~i 16 2 Electrons in Solids \)
 
 p-ty~;:J:~tJ FIGURE 2.20 Structure of the energy bands al the junction of an n-type and a :):ij semiconductor. :· •.:}~~ ::::~~ Minority ·:<j~ Reverse bias Forward bias carriers .·}@~ (a) (b} ··:::===~m :Yi@ .•,·.-..., m -:: ;: : : :: : : : : :~ 1 . . i ~?
 
-<:::::.~~ ··ti @ )f~ .'.:;:::;~ :\}W ··::::::* :=::::m ::-:·m ·-:::::=:W )/~ ·.·.·-=¼ and})~ FIGURE 2.21 Structure of the energy bands at a biased n-p junction: (a) reverse bias (b) forward bias. Tbe solid dots represent electrons. whereas the open circles boles. )}~t ·,·:-:~ <Jm Holes in the n region or electrons in the p region are called "rninority) Jfil acrosfffil carriers.'' Indeed, there will be diffusion of some minority carriers the junction, but since no electric field is present these carriers will remairi(tf ·\/@ in the vicinity of the junction. l furth_e~Jm ~ now a reve:se ~ias is ~pplied-that i~, one tha~ opposes th~ motJ.on of the mmont~ earners-th~ Fe~ levels will become d1spla~e~:J @.
-
 by the amount of the bias, as shown m Fig. 2.21a. We see that the bamerrJt ·-:::::;;ij The result of such diffusion is the buildup of a local charge density, which preven~u~ furthe: di~ion. Throughout the present analysis, however, we will neglect the local effecttJ~ at the Juncuon. ::::;:X: ,:::;{;[ . -:-:·.~ ?¾.
 
 ::::~i :::=~»· :::::i® .. :::;:,* :-:·:"Y/.
@@ -1821,10 +1790,6 @@ to-or Battery ,, . ..
 
 r ~==:< { ~{' It\ ......... · ::::::: :-.;,•~.:·:,:·: =~~::;: -::::::::~ '::::;::;~ :-:-:-:-~ 78 2 Electrons in Solids ::::::::i )i@~ :)\J~ while the p type of the forward-biased junction- is the emitter; the p-type )}m material of the reverse junction is the collector. A completely symmet~ ric device consisting of n-p-n materials will perform similarly when·.) )~ the biases are reversed. From the energy diagrain of Fig. 2.22b we can /}~~ • • t •f.,i.
 
-',,I see that by varying the emitter junction bias we can control the injec- {fi tion of minority carriers into the base region; if the base region is made }@f thin, it is possible for these holes to reach the collector junction·, at which point they will immediately cross it~ since it represents a gain in ))@ .\I potential energy. ~ hE is _the minority carrier current inj_ected in~o _the/ j] ~ base over a potential bamer ~ Wh (EB), the power reqwred for mJeC;- {ii tion is Pm hEAW1i(E B~; similarly if he is the hole curre~t in~o th~ collector. down a pote~ual drop fl. Wh (BC~, 1?e power gam~d 1~ }}~ ·::::~:m Pout= hc6 W'h(EC). Thus if Pout > Pm, the deVIce 1S a power amplifier, >> since usu.ally ~W(CB) ~W(EB), it suffices for he hE to give_-})i r.J power gain. · · ·::J;~ ·-:-:•%* ·-=·~~i~ -::::~::::::: :-:-:;:::~-: 'J)fj 2.4.3. Measurements of the 1-V curve of a pn Junction ..:.: :·.::·w. ·*=-· ::::· ,·.,.:.
-
-simple experiment that ~emonstrates the properties of a pn ju~ction..}/]~ }/:@ 1s discussed below. One sunply measures the current as a function of }:I (positive and negative) voltage across a diode. Additional properties can {{@.~ be demonstrated by varying the temperature of the diode, which changes .::::::%: the number of carriers in the conduction band. That is, the carriers {iW, (be they electrons or holes) will lead to a current density of the form :(Ji: = ( 1~,h le,~)o e~p(eVB/ kT): where VB. is the bias voltage across t~~ ::}ai: diode. The m1nonty earners will cancel this current exactly when there 1s }:lf: no bias voltage applied, so the net current through an ideal diode has the ::;::::~: f orm . :::::::%: (2.30)/il = 1). I J lo(eeVB/kT - A photograph of the experimental setup is shown in Fig. 2.23. A silicon {l l pn junction diode is attached to one side of a copper plate with conductive as)}~ epoxy. A power resistor is attached to the other side of the plate, to be used a hea~ source. A thennocouple is also attached to rec~rd the temperature.) \~ A Keithley Model 617 Programmable Electrometer 1s used to vary th~\}~ voltage across the diode~ and to re~ord the current. The result of a V -lj]~ scan, and the temperature as detenruned .by the thermocouple are recorded:(}~ using a Universal Laboratory Interface. (See Section 3.9.) Measurements:[(~ ':-:-:i~ ))~ .·.::::l@.
-
 :\)@ -:,:-/~ ::J?tl .·.·. .~ ~
 
 ## 2.4 Semiconductors
@@ -1848,8 +1813,6 @@ G W. Neu dock, The p·n Junction Diode, Addison-Wesley, Reading, MA, I 983.
 • T=69°C • o T=37°C • ij Iii • T:::24°C • :I 102 0• 0• :: : : : : : ::~-=~ ?ili :./ii~ 10-1 ..
 
 ·\}~ 10-2 . .·.·.···x., :::::::~~ -:-:-:-:J..- :/~::::;:~ 10-J ..__ ___ _. ____ _._ ___. ......_ ___ ····x· .L..._ __. .,___ __, .___, . tlef~ 0 0,1 0.2 0.3 0.4 o.s 0.6 .. :. : .. ..: ::•:i' ·::::;~:? xj.
-
-Bias voltage ( V 8) :\:?i~ .. \Jij~ (b) 0 -:::.:.::.:: J:.:.:.~ :,:,;.~~ ,.,/ g II T T= = 2 3 4 0 ° ° C C 0 • • 0 • 0 • 0 • 0 • 0 • 0 0 • 0 • 0 • 0 • -5 • • • • • • • • • • /Ji~ T=37°C ·/@f . ):~{:i : :)Ji -10 0 0 ::::=:£= T=46°C 0 0 0 0 0 ))$.~~ . ::\:::f: <:::::::::=: ./11 -15 .__ ___ .__ __. ,__ ____. __ ___. __ _ __,.__ __..__ ___,..._ _ __, --0.8 -0.7 -0.6 -0.5 -0.4 -0.3 -0.2 --0.1 0 J.·.i·.-m.-.-.- Bias vmtage (Ve)
 
 FIGURE 2.24 Measurements of the current through a diode as a function of bias voltage, / ::;:~: )jf~ for different temperatures. (a) is for positive bias, plotted on a semilogarithmic scale, }!l§~ Exponential fits are indicated. (b) is for negative bias voltaget plotted on a linear scale. · }ii :<~==i \Jj ?ti :: :- ,:
 
@@ -1876,8 +1839,6 @@ The loss of resistiviry sets in sharply when the critical temperaJu.re Tc is } c
 .·.·.·-~-:;s, :!itW~ml 82 2 Electrons in Solids ·.:::;:;:~ -:;:) ij ::::;:;:~ ··::::::~ .·.·--·@ H .·-:.:;:-::\-;-f::l::: ·::::::~ ·.·.···P% :: : : : : ~,,;.;·.
 
 ·.·.·.·q.-: ;,:-:-·,m .-:-:-:-~ •.-:;:;:~~~ ·::::::~ .·.:-:-:~~ -=·=·=-=~ .·,·.·.-~ ···:::===m -:;:;:~~ -:-:-:~~ :::::~==~ ,-::::-:.;f~ .·.·.·~ ./fai ·}.·.·:.:~-w1=/~.l,~; : . -: · ;t: · :i:.z . ,& ~.
-
-.. ·,:.;~~ FIGURE 2.25 Typical phase diagram of the superconducting state in the T, H plane. · \ )~ -:-:).,.@ ::-::::~ ·:{I s~~erconducting state d~pe~ds on the temperarure and the external magne- tizmg field H as shown 1n Fig. 2.25. Values of Tc and Bo for some common.:};:~ Jj~ metallic superconductors are given below · · :::~ Ho :: . :: . : : .. ; . . - ~ ;:- X \\~ Niobium (Nb) 9.46K 0.1944T :::::.:~ Lead(Pb) 7.81 K 0.0803T :::::=:~ Mercury (Hg) 4.lK 0.0411 T \\~ -:/-:1-:-~~ By now many materials have ~een found to ht:come superconducting at low temperature and such behav10r can be explamed by the BCS theory.16 _ } )~ The b~sic n~echanism is tl~t at low te~?erature electro?s bind in pairs ~th ) ] ~ opposite spms. The net spm of the pair 1s zero so the pairs obey Bose stat.ls- \i(~ {f~ tic~ and can ~ov~ thro~gh the lattice without sc~tering, namely with~ut /?~ resistance. This gives nse to a supercurrent, which once started contln- Jt~ ues to cir_culate even after the external el~ctromotive force (i.e., the applied: }J~ voltage) 1s removed. In fact, all of the parrs occupy the ground state and c~ be described by a wave function~~ extends o~er macroscopic dimen~ions. )}~ .\j Superconductors not only exhibit zero resistance (when below 1c) but }I also have the property that no magnetic field can exist inside th~ super- }fi conductor. Inside an idealize? ."perfect conductor" ~e magnetic field cannot change, dB/ d t == 0. This IS because any change m the exten1al field :( ~ induces, by Faraday's law, surface currents that exactly cancel the effect of {}~ -:-:-~ 16 J. Bardeen, L. Cooper, and J. Schrieffer received the 1972 Nobel prize for their. \ )~ :::J@.
 
 microscopic theory of superconductivity proposed in 1957.
 
@@ -1927,8 +1888,6 @@ ff\/\.The exclusion of the magnetic field (flux) from the interior of a super- ~
 
 » ·.·.·.·.
 
-:ff\:- To measure the resistivity of Lhe sample, a four-point probe, as well @.\!:iis thermocouple leads, are attacbed to one side of the disk as shown in i:{~ig. 2.29. The probes can be fastened using conductive epoxy.18 The whole . ;f?~~sembly is placed in a flat container thaL can be filled with liquid Nitrogen.
-
 ~}(Pata can be taken as the sample cools or, as was done for the data presented if Jere, by first cooling the sample for 2 min. and then removing it from the .BfJi:quid N2 bath. Temperature and resistivity are recorded as the sample .{)~1,arms through lhe superconducting transition.
 
 ~~{? The four connections (see Fig. 2.29) are spaced equidistantly, separated d:{~y a distance s, typically ""'1 mm. A high-impedance source supplies a ~r:~9.nstant current to the outer terminals, l and 4, and the voltage across << ~=}~als 2 and 3 is measured. For a flat sample of thickness t s, as if~- the present case, current rings emanate from the outer tips, so that the :«--=--.·.···· . • .
@@ -1974,8 +1933,6 @@ ___.. ...: e:' • • ~:~~~:~ ....:.
 0.4' • • ,it -: ~l(·
 
 ## 0.2 ::
-
-@.\ • •i~ :~?~f::\: · 0 ' - • .. • • • 9_0_ __,.9s--,.o ... o--,.~.._. --11'-o--,--,-s--1-'-20--12...s . _ __13,0 ::;{:::: ~:;::: Temperalure (K)
 
 ~{jitiJGURE 2.30 Plot of V2.3 vs T. Below lhe uansitioo ut T 98°K the voltage on the i f:'j)robe terminals is compatible with ze,o. The transition width 6T < t°K.
 
@@ -2024,8 +1981,6 @@ W. Shockley, Electrons a,1d Holes, Van Nostrand. New York, 1950. A thorough pres
 /ttwm ......
 
 .·/:~;.z~; ··-~ )(;~ ....1.. ..
-
-.:::?tw™- ~ @1 ./(~ ··,:::::~ .-.·w.
 
 :ti · fiit;_1l :?;;:-..
 
@@ -2127,10 +2082,6 @@ Capacitors and AC Circuits ;:~~{}: ~-{A·.~apacitor stores charge, but does not 
 
 ~f(~'.at is, just the opposite from resistors.
 
-if{: .Now let's think about what a capacitor does in a circuit. Let's take the . 1fi~sistor R2 in the voltage divider of Fig. 3.4 and replace it with a capacitor @ff¢.
-
-This is pictured in Fig. 3.6. The capacitor does not allow any charge ~J}~arriers to pass through it, so the current / 0. Therefore the voltage ;@.f#op across the resistor R is zero, and Vouh the voltage across the capacitor ·w ,{J;- just equals Vw. You may wonder, what good is this? We might have J:Jµs1 t as well connected the output terminal to the input! To appreciate the if~po.rtance of capacitors in circuits, we must consider voltages th.at change ~=:::w.ith e.
-
 -:f-If' .(..:. ... tun' lf the voltage chang~ with time, we refer to tbe system as an AC circuiL il\¥, the voltage is constant, we call it a DC circuit Now go back to the i-:\~:fl~ltage divider with a capacitor, pictured in Fig. 3.6, and let the input J}J-!\-:i_:- --- .· ·:~)i:,. 1 = 11111F I pF (picofarad).
 
 I':,':::/ ~tv ~ti t ::: ~/.
@@ -2174,8 +2125,6 @@ anymore.
 if¥~~ time--varying (i.e., AC) voltages, where it is understood that the voltage Uf½1e measure in the laboratory is just _the real part of this _function. The ;:::t;l{:8::?Sular frequency w = 2.nv, where v 1s the frequency, that 1.S, the number i(fofoscillations per second. This expression for V (t) is easy to differentiate ~):iliJd integrate when solving equations. It is also a neat way ofk eeping track ~[}~Jall the pbase changes signals undergo when they pass through capacitors ~\)µid other "reactive" components_Y ou will see and appreciate this better /}i~ we go along.
 
 ~If Now is a convenient time to define impedance. This is just a general ~f:f \zation of resistance for AC circuits_ Impedance, usually denoted by Z, is ~------.·.
-
-~f~ (usuaJJy) complex quantity and (usually) a function of the angular fre- ~f(guency w. It is defined as the ratio of voltage drop across a component to ?':f}ilie current through it, and just as for resistance, the SI unit is the ohm_ -~})for "linear" components (of whicb resistors and capacitors are common ?{f ~~amples), the impedance is not a function of the amplitude of the volt ijjf~ge or current signals_ Given this definition of impedance, the rules for ~~?!{1:be equi valenL impedance are the same as those for resistance_T hal is, for f:?:~t,Jo~pon~nts in series, add the impedances, wh.ile if they are in parallel, add ~ :Ji.heir reciprocals_ ~({ _The impedance of a resistor is trivia~. It ~s ~ust the re~istance R- In ~tf!~ case, the voltage drop across the resistor 1s m phase w1th the current ]f~hrough it since Z R is a purely real quantity. The impedance is also ~t}ndependent of frequency in this case_ For a capacitor, the voltage drop ~@.-:-:-:- ~;;~:( If): r.Jt: .<:::::=:::~ -:{t~ .·.·.·--~ 96 3 Electronics and Data Acquisition .:)j ~ .}){J . . ·.·.·.·.-~ V = Voe'wr = q / C and the current I= dq /dt = iwC x Voe'wt. Therefore/ \ J the impedance is '{ :}~~ Z(w) = ~: :; = z· ,.~c. (3.7) !1:il u.., :::::::~:~~ ·::::;:::t Now the behavior of capacitors is clear. At frequencies low compared( ] ~ to 1/ RC, i.e., the "DC limit/' the impedance of the capacitor goes tct{fi infinity. (Here, the value of R is the equivalent resistance in series with(Ji th~/Jj the capacitor.) It does not allow current to pass through it. However, as Jj frequency gets much larger than 1 /RC, the impedance goes to O and the{ capacitor acts like a short, since current passes through it as if it were n~t{ :}~ there. You can learn a lot about the behavior of capacitors in circuits just/@~ ·://j by keeping these limits in mind.
 
 includ¢//i}i We can easily generalize our concept of the voltage divider to AC circuits and reactive (i.e., frequency dependent) components lik~·\ j ~ capacitors. We will learn about another reactive component, the induc-?J f this{Jfj tor, shortly. The generalized voltage divider is shown in Fig. 3.7. In ::t case we have \ , ' = Z2 = i~ Vout(W, t) Vin(W, t)--- Vin(W, t)ge , (3.8).;::::::,~ Z 1 Z2 :::::::1: .·.·.·.·-~ where w~ have expressed the itnpedance ratio Z1/(Z1 Z2), a complex}}~ number, 111 terms of two real numbers g and (/J. We refer to g I Yout I/ I½ n I \Ij~ V;.
 
@@ -2353,8 +2302,6 @@ J':·> ~'.:'.- _,.:;-:-: )}j ... : - { :-:- : :- @ :. . : , 104 3 Electronics an
 
 \i]
 
-= ·}@ Zc iwC. (Note that Land Care connected in parallel.) The result is r2 I g Vout - [ R2 1 :1 Vm 1 w2L2 (1- ohC)2 << >> )!@j and as advertised, g 4- 0 for both w R / L and for w l /RC. However~· = = \Jj frequencies near v m/2n 1/(2.rr~) are passed through withlittle = = \:J~ attenuation. At w 1/~, g 1 and there is no attenuation at all. Can you see how to build a "notch" filter, or "band reject" filter, that allows all'\}~ frequencies to pass except those in the neighborhood of w == 1 / ~? :(?
-
 :;, 3.2. BASIC ELECTRONIC EQUIPMENT ·.·.-.-~ :~::::::: ·-::::::~ :::::~=~ 3.2.1. Wire and Cable .::::::=~ =::~:=:=:=:=~~ Connections between components are made with wires. We tend to neglect / ( the importance of choosing the right wire for the job, but in some cases /)~ it can make a big difference. The simplest wire is just a strand of some })
 
 conductor, most often a metal such as copper or aluminum. Usually the wire ) } {J is coated with an insulator so that it will not short out to its surroundings, or to another part of the wire itself. If the wire is supposed to carry some {} {t small signal, then it will likely need to be ''shielded," that is, covered with another conductor (outside the insulator) so that the external environment \{ :!{~ does not add noise somehow. One popular type of shielded wire is the.
@@ -2368,8 +2315,6 @@ Therefore, to get the smallest possible R, you keep the length Las short }\ j!
 :-:• it=:- ~!{ 3. 2 8 e sic Electronic Equipment 105 ~::::: ~~ ::::. ~~:::e :O!::c!~~· ;~~ ~o~;;~~ ::c~~1Ad;o~:i Ji.!: :~~ti::. ait~: 1 t: low resistivity (p = 1.69 x I o -8 0-cm) and is easy co fonn into wire ~\} of various thicknesses aod shapes. Other common choices are aluminum if (p 2.75 x 10-8 n-cm), which can be significantly cheaper in large ~ ( quantities, or silver (p 1.62 x 10- 8 n-~m), which is a slightly better [ ) conductor,_a ~~ou~h not usua~ly worth the mcreased_expense~ _ rrt== The res1sbV1ty 10creases with temperarure, and tb1s can leaa to a partic ~ } ularly insidious failure if the wire must carry a large current. The power ~l- dissipated in the wire is P = 12 R, and this tends to heat it up. If there is ijfa.
 
 not enough cooling by convection or other means, then R will increase and ~( cthoem w.miroeo w ill get hotter antod holler until it does serious damage. Th.is is most ~l!
-
-iV in wires used wind magnets, btou t can show up in ot~hie.er. , higb p~wer a~plica~ons. A common solution_ is us~ very-low-gage very Ji : thick) wire which bas a hollow channel m the middle through which water ~ \ flows. The water acts as a coolant to keep the wire from getting too hoL ff} A coaxial cable is a shielded wire. The name comes from the fact that the ~~::;. wire sits inside an msalator, another conductor. and another insulator, all @f in circular cross section sharing the same axis. A cutaway view is shown in Z'4·:·'.
 
 {-·:::::. Fig. 3. L3. CoaxjaJ cable is used in place of simple wire when the signals are i~--f-·:. : very small and are ~ely to be obscured by some ~ort of electr~nj~ noise ~:::;"· in the room. The outside conductor (called the "shield") makes 1t difficult ~){ for external electromagnetic fields to penetrate to the wire, aod minimizes [I{ the noise. This outside conductor is usually connected to ground.
 
@@ -2471,8 +2416,6 @@ if ( Power supplies will give several h~ndred up to several thousand volts, and 
 
 ~~{~ow that you know trow to obtain some voltages, including time-varying ~o~ i~\:i~~es, and how to connect these voltages usi~g wire and cable. m~st ~/~ about how to measure the voltage. The .sunplest way to do this 1s wtth ~}\~··meter, partic~~arly if the v~ltage is f?C. (Most ~eters do provide you ~}}¥th AC capabtlity, but we will not g~ mto the details here.) An excellent @/::\\.· ~::::: · ~.f?f::;.·.
 
-~rr ~:;::::: :-:-:-:-:. .: , 110 3 Electronics and Data Acquisition .-:·:::::::3 -: -:-:-:. .; ,.; reference on the subject of meters is given in the Low Level Measurement.f) ~:~ Handbook, published by Keithley Instruments, Inc. This handbook, as weli){j as other materials, are available from Keithley at http://www.keithley.com/~:/)3 At one time, people would use either voltmeters, ammeters, or ohm.:.)/]
-
 meters to measure voltage, current, or resistance, respectively. These days,)/} although you still might want to buy one of these specialized instruments/ /@ to get down to very low levels, most measurements are done with .. digita(/i multi.meters," or DMMs for short. (In fact, some DMMs are available now//} that can effectively take the place of the most sensitive specialized meters.}!/]
 
 in{i]
@@ -2482,8 +2425,6 @@ Voltage and resistance measurements are made by connecting the meter \J parallel
 Meters have some effective input impedance, so they will (at some level}:/ :~ ·:.t·.·#;'.J change the voltage you are trying to measure. For this reason, voltmeters and ohmn1eters are designed to have very large input impedances (many / { megaohms to as high as several gigaohms), while ammeters "shunt'' the ::}~ }J current through a very low resistance and tum the job into measuring the )j (perhaps very low) voltage drop across that resistor.
 
 ::;::: .::::: •:-:- 3.3. OSCILLOSCOPES AND DIGITIZERS ·:::: .·.· 3.3.l. Oscilloscopes An oscilloscope measures and displays voltage as a function of time. That \ is, it plots for you the quantity V (t) on a cathode ray tube (CRT) screen / as it c01nes in. This is a very useful thing, and you will use oscilloscopes :i in nearly all the experiments you do. A good reference is The XYZ's of !; Oscilloscopes, published by Tektronix, Inc. You can download a copy )
-
-from httpi/www.tek.com/ under ''Application Notes for Oscilloscopes." -:/ The simple block diagram shown in Fig. 3 .14 explains bow an oscillo- ··!
 
 scope works. The voltage you want to measure serves two purposes. First, ..; after being amplified, it is applied to the vertical deflection plates of the · .•....
 
@@ -2519,15 +2460,11 @@ t?.t i[: [ft :,.:.:_ . .: .·.
 
 _.?Jr .· , -:-:·: ..: i?t 112 3 Electronics and Data Acquisition \It/2 in\@~~ where th~ scope. will trigger itsel~ if th~ trigger condi~on is not met search-\/li some penod of trme. Auto mode is particularly useful if you are ing for some weak signal and do not want the trace to keep disappearing/:::=:@· ··.·.·.·.-~ :{t~ on you.
 
-:\@W You have several controls on how the input voltage is handled. A "ver- on \\Jf: tical position" knob on the front panel controls where the trace appears }@~~ the scr~en. You will find ~ne of these for each input channel. The inp~t <JW.
-
 "coup1mg" can be set to either AC, DC, or ground. In AC mode, there 1s \t~@ a c_apacitor between the input connector an~ the vertical system circuit.
 
 This keeps any constant DC level from entenng the scope, and all you see :}}~f .<Jm~ is the time-varying (i.e. • AC) part. If you put the scope on DC, then the ::)]~;il constant voltage level also shows up. If the input coupling is grounded, ·yJ~~ the then you force the input level to 0, and this shows you where 0 is on }@~~ screen. (Make sure that the scope is on "auto" trigger if you ground the . t th . ill t tr I) .·.·.···@ mpu; o erw1se, you w no see a ace. :::::\/: :}t~ Sometimes, you also get to choose the input impedance for each channel. · {JI§ Choosing the "high" input impedance (usually 1 MQ) is best if you want ·/]%: to measure voltage levels and not have the oscilloscope interact with the ·:)\!~1~ circuit. However, the oscilloscope will get a lot of use looking at fast pulsed )..f.. ~h •l• signals transmitted down coaxial cable, and you do not want an uimpedance \ti mismatch" to cause the signal to be reflected back. (See Section 3.2.1.)
 
 Cables with 50-Q characteristic impedances are very common in this work, ·}}~f ))Jt so you may find a 50-Q input impedance option on the scope. If not, you should use a "tee" connector on the input to put a 50-Q load in parallel <}{{ with the input \\:~:=:= By flipping switches on the front, you can look at -either input channel's · :\\/ trace separately, or both at the same time. There is obviously a problem, :}// )jf though, with viewing both simultaneously since the vertical trace can only· .
-
-be in one place at a time. There are two ways to get around this. One is to {{{ alternate the trace from channel one to channel two and back again. This · \{/ f ff gives complete traces of each, but does not really show them to you at the same time. If the signals .are very repetitive and you are not interested :\{{ in fine detail, this is okay. However, if you really want to see the traces )@f .::J~t at the same time, select the chop option. Here, the trace jun1ps back and /]f forth between the channels at some high frequency, and you let your eye · /{t} interpolate between the jumps. If the sweep speed is relatively slow, the \Jf interpolation is no problem and you probably cannot tell the difference between alternate and chop. However, at high sweep speed, the effect of })f!
 
 the chopping action will be obvious. .}J( " '1/."
 

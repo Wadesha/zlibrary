@@ -1,7 +1,5 @@
 ### 总目录 未来地球简史 大美生命传奇 极简量子大观 极简宇宙新知
 
-Copyright © Foreign Language Teaching and Research Press 2018 All rights reserved.
-
 No part of this publication may be reproduced or distributed by any means
 
 or stored in a database or retrieval system
@@ -22,8 +20,6 @@ Published by Foreign Language Teaching and Research Press No. 19 Xisanhuan Beilu
 
 ## China 100089 http
 
-//www.
-
 fltrp.
 
 ### 图书在版编目（CIP）数据 未来地球简史／《环球科学》杂志社
@@ -34,21 +30,13 @@ fltrp.
 
 2018.
 
-5 （《科学美国人》精选系列） ISBN 978-7-5213-0041-3 Ⅰ．①未… Ⅱ．①环… ②外… Ⅲ．①自然科学－普及读物 Ⅳ．①N49 中国版本图书馆CIP数据核字（2018）第094254号 出版人 徐建忠 责任编辑 李盎然 责任校对 郭思彤 出版发行 外语教学与研究出版社 社 址 北京市西三环北路19号（100089） 网 址 http
-
-//www.
-
 fltrp.
-
-com 版 次 2018年6月第1版 书 号 ISBN 978-7-5213-0041-3 凡侵权
 
 ## 盗版书籍线索
 
 ## 请联系我社法律事务部 举报电话
 
 ## （010）88817519 电子邮箱
-
-banquan@fltrp.
 
 com 法律顾问：立方律师事务所 刘旭东律师 中咨律师事务所 殷 斌律师
 
@@ -7878,8 +7866,6 @@ Coskata公司也将迎来一些竞争对手。
 
 发电量小，适用于可穿戴设备而非环境传感器。
 
-Copyright © Foreign Language Teaching and Research Press 2018 All rights reserved.
-
 No part of this publication may be reproduced or distributed by any means
 
 or stored in a database or retrieval system
@@ -7900,8 +7886,6 @@ Published by Foreign Language Teaching and Research Press No. 19 Xisanhuan Beilu
 
 ## China 100089 http
 
-//www.
-
 fltrp.
 
 ### 图书在版编目（CIP）数据 大美生命传奇／《环球科学》杂志社
@@ -7912,21 +7896,13 @@ fltrp.
 
 2018.
 
-5 （《科学美国人》精选系列） ISBN 978-7-5213-0068-0 Ⅰ．①大… Ⅱ．①环… ②外… Ⅲ．①生物学－普及读物 Ⅳ．①Q-49 中国版本图书馆CIP数据核字（2018）第109046号 出版人 徐建忠 责任编辑 蔡 迪 责任校对 刘晓楠 出版发行 外语教学与研究出版社 社 址 北京市西三环北路19号（100089） 网 址 http
-
-//www.
-
 fltrp.
-
-com 版 次 2018年6月第1版 书 号 ISBN 978-7-5213-0068-0 凡侵权
 
 ## 盗版书籍线索
 
 ## 请联系我社法律事务部 举报电话
 
 ## （010）88817519 电子邮箱
-
-banquan@fltrp.
 
 com 法律顾问：立方律师事务所 刘旭东律师 中咨律师事务所 殷 斌律师
 

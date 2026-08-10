@@ -1,17 +1,10 @@
 # Janice VanCleaves Guide to the Best Science Fair Projects Janice VanCleave Z Library
 
-> 来源文件：pre_Janice_VanCleaves_Guide_to_the_Best_Science_Fair_Projects_Janice_VanCleave_Z_Library.txt
-> 字符数（约）：230852
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Janice VanCleave's Guide to the Best Science Fair Projects Janice VanCleave
 
 This book is dedicated to a very knowledgeable and talented teacher, whose help in writing this book was invaluable. What a pleasure it has been to work with my friend and colleague, Holly Ruiz.
 
 Acknowledgments I would like to thank Laura Roberts Fields and Ann Skrabanek for their support and helpful ideas. A special note of thanks to John Cook, my production editor, for his patience and time needed for this project. This text is printed on acid-free paper. Design and production by Navta Associates, Inc. Illustrated by Doris Ettlinger.
-
-Library of Congress Cataloging-in-Publication Data: VanCleave, Janice Pratt. Janice VanCleave's guide to the best science fair projects / Janice VanCleave p. cm. Includes bibliographical references and index. ISBN 0-471-14802-4 1. Science projects—Handbooks, manuals, etc. 2. Science—Exhibitions—Handbooks, manuals, etc. I. Title. Q182.3.V36 1997 507.8—dc20 96-27512 Printed in the United States of America 10 9 8
 
 CONTENTS I. A Guide to Science Fair Projects
 
@@ -163,8 +156,6 @@ So you're going to do a science fair project. Great! Your work could be chosen a
 
 3. Categories. Chapter 4 provides a list of categories that are used in science fairs. You should identify the category that your project falls into at the beginning of your research. Judges base their evaluation of the content of your project on the category in which you enter it. For example, an A+ botany project incorrectly entered in the math category most likely will receive a lower rating.
 
-4. Project research. Once you have selected a topic, it's time to find out as much about it as possible. Project research helps you understand a topic. This involves more than just reading materials you find in the library; you'll want to interview people who know a lot about the topic and do exploratory experiments. Exploratory experiments as defined in this book are experiments used to gather research. Chapter 5 provides suggestions and directions for doing these. This chapter also gives instructions for requesting printed information from people and organizations.
-
 5. A sample project. Chapter 6 guides you step-by-step through the collection of research and its use in identifying a problem (a scientific question to be solved), proposing a hypothesis, and designing a project experiment. A hypothesis is an idea about the solution to a problem, based on knowledge and research. A project experiment is an experiment designed to test a hypothesis. The instructions in this chapter will be invaluable to you as you prepare your own project.
 
 6. The project report. A project report is the written record of your entire project from start to finish. Chapter 7 shows you how to write a project report after you have completed your project. Your teacher will tell you the level of detail to use in your report. This book gives instructions that can be used for a simple or a complex report.
@@ -270,8 +261,6 @@ You may write letters requesting information instead of interviewing, or write l
 Secondary Research
 
 Secondary research is information and/or data that someone else has collected. You find this type of information in written sources (books, magazines, and newspapers) and in electronic sources (CD-ROM encyclopedias, software packages, or on-line services, such as the Internet). When you use a secondary source, be sure to note where you got the information for future reference. If you are required to write a report, you will need the following information for a bibliography or to give credit for any quotes or illustrations you use.
-
-Book Author's name, title of book, place of publication, publisher, copyright date, and pages read or quoted.
 
 Magazine or Periodical Author's name, title of article, title of magazine, volume number and date of publication, and page numbers of article.
 

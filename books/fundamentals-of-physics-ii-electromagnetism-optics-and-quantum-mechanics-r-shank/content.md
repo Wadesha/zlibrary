@@ -1,13 +1,6 @@
 # Fundamentals of Physics II Electromagnetism Optics and Quantum Mechanics R Shankar Z Library
 
-> 来源文件：pre_Fundamentals_of_Physics_II_Electromagnetism_Optics_and_Quantum_Mechanics_R_Shankar_Z_Library.txt
-> 字符数（约）：877743
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Fundamentals of Physics II
-
-THE OPEN YALE COURSES SERIES is designed to bring the depth and breadth of a Yale education to a wide variety of readers. Based on Yale’s Open Yale Courses program (http://oyc.yale.edu), these books bring outstanding lectures by Yale faculty to the curious reader, whether student or adult. Covering a wide variety of topics across disciplines in the social sciences, physical sciences, and humanities, Open Yale Courses books offer accessible introductions at affordable prices.
 
 The production of Open Yale Courses for the Internet was made possible by a grant from the William and Flora Hewlett Foundation.
 
@@ -15,19 +8,9 @@ TITLES IN THIS SERIES Paul H. Fry, Theory of Literature Roberto González Echeva
 
 Fundamentals of Physics II Electromagnetism, Optics, and Quantum Mechanics R. SHANKAR Yale UNIVERSITY PRESS New Haven and London
 
-Copyright © 2016 by Yale University.
-
-This book may not be reproduced, in whole or in part, including illustrations, in any form (beyond that copying permitted by Sections 107 and 108 of the U.S. Copyright Law and except by reviewers for the public press), without written permission from the publishers.
-
-Yale University Press books may be purchased in quantity for educational, business, or promotional use. For information, please e-mail sales.press@yale.edu (U.S. office) or sales@yaleup.co.uk (U.K.
-
 office).
 
 Set in Minion type by Newgen North America.
-
-Printed in the United States of America.
-
-ISBN: 978-0-300-21236-5 (pbk. : alk. paper)
 
 Library of Congress Control Number: 2015956862 A catalogue record for this book is available from the British Library.
 
@@ -170,8 +153,6 @@ Contents Preface
 Constants Index
 
 Preface This is the companion volume to Fundamentals of Physics: Mechanics, Relativity, and Thermodynamics. It is the second half of an introductory course taught at Yale and covers electromagnetism, optics, and quantum mechanics. Like Volume I, it is based on the lectures given at Yale to a diverse class. The two volumes could be used for a year-long course in introductory physics that covers all the major topics. It may also be used for self-study. Some instructors may prescribe it as a supplement to another text.
-
-The chapters in the book more or less follow the Yale lectures with a few minor modifications. The style preserves the classroom atmosphere. Often I introduce the questions asked by the students or the answers they give when I believe they will be of value to the reader. The problem sets and exams, without which one cannot learn or be sure one has learned the physics, may be found along with their solutions at the Yale website, http://oyc.yale.edu/physics, free and open to all. The lectures may also be found at venues YouTube, iTunes (https://itunes.apple.com/us/itunes- u/physics-video/id341651848?mt=10), and Academic Earth, to name a few.
 
 In the lectures I sometimes refer to my Basic Training in Mathematics, published by Springer and intended for anyone who wants to master the undergraduate mathematics needed for the physical sciences.
 

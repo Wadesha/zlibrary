@@ -10,13 +10,9 @@
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -25,8 +21,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com Preface
 
@@ -148,13 +142,9 @@ ml@gmai l.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -163,8 +153,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 com 为了让大家 学数学、用数学 ，甚至爱上 数学，作者可谓 颇费心机。
 
@@ -324,13 +312,9 @@ App；
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -339,8 +323,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com 骨、泥板
 
@@ -414,13 +396,9 @@ ml@gmai l.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -429,8 +407,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com Acknowl edgement
 
@@ -452,13 +428,9 @@ To my parents.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -467,8 +439,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com How to Us e the B ook
 
@@ -530,8 +500,6 @@ ml@gmai l.
 
 本书配套微 课视频均发布在 B站——生姜 DrGinger：
 
-◄ https://sp ace.
-
 bili bili.
 
 ## com/5 131944 66
@@ -548,13 +516,9 @@ bili bili.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -563,8 +527,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com 微课视频是以“聊天”的方式
 
@@ -587,8 +549,6 @@ ml@gmai l.
 ## 代码文件
 
 本系列丛书的 Pytho n代码文件下载地址为 ：
-
-◄ https://github.
 
 ## com/Visualize -ML
 
@@ -658,11 +618,7 @@ Bokeh、Altair等交互可视化库 。
 
 大家可以参考如下页面， 更多了解 Streamlit：
 
-◄ https://streamlit.
-
 ## io/gallery
-
-◄ https://docs.
 
 stream lit.
 
@@ -694,13 +650,9 @@ stream lit.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -709,8 +661,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 com 运行 Jupyter无需 IDE，只需要浏览器 。
 
@@ -772,8 +722,6 @@ Jupyter中代码调试不 方便，需要安 装专门
 
 下载 Anacon da的地址为 ：
 
-◄ https://www .
-
 anacond a.
 
 ## com/
@@ -820,8 +768,6 @@ anacond a.
 
 visualize.
 
-ml@gmail.
-
 ## c om
 
 也欢迎大家在B站视频下方留言 互动。
@@ -838,13 +784,9 @@ ml@gmail.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -853,8 +795,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com Contents
 
@@ -872,13 +812,9 @@ ml@gmai l.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -887,8 +823,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## 0 Introducti on
 
@@ -968,13 +902,9 @@ ml@gmai l.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -983,8 +913,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 com 0.
 
@@ -1130,13 +1058,9 @@ com 0.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -1145,8 +1069,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 ## com “彩色”有三章
 
@@ -1282,13 +1204,9 @@ ml@gmai l.
 
 版权归清华 大学出版社 所有，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载： https://git hub.
-
 ## com/Visualize -ML
 
 ## 本书配套微课视频均发布在 B站——生姜 DrGinger
-
-https://space.
 
 bilibili.
 
@@ -1297,8 +1215,6 @@ bilibili.
 欢迎大家批评指教，本书专属邮箱 ：jiang .
 
 visualize.
-
-ml@gmai l.
 
 com 《可视之美 》用艺术维度打开一扇 发现数学 之美的窗口。
 
@@ -1354,8 +1270,6 @@ Page 1 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1369,8 +1283,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 ## com 1 Mathematics + Art
 
@@ -1398,8 +1310,6 @@ Page 2 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1413,8 +1323,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 com 1.
 
@@ -1512,8 +1420,6 @@ Page 3 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1527,8 +1433,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 ## RGB色彩空间
 
@@ -1556,8 +1460,6 @@ Page 4 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1572,11 +1474,7 @@ bilibili.
 
 visuali ze.
 
-ml@gmail.
-
 ## (a) (b)
-
-透视投影和正交投影 ，来源：https://github.
 
 com/rougier/scient ific-visualization -book
 
@@ -1626,8 +1524,6 @@ Page 5 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1641,8 +1537,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 5.
 
@@ -1682,8 +1576,6 @@ Page 6 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1697,8 +1589,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 ## com 而立体派 (Cubism ) 艺术家
 
@@ -1768,8 +1658,6 @@ Page 7 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1783,8 +1671,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 8.
 
@@ -1812,8 +1698,6 @@ Page 8 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1827,8 +1711,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 ### com Midjourney 是一种基于人工智能的 创作方式
 
@@ -1910,8 +1792,6 @@ ml@gmail.
 
 5厘米；
 
-图片来自 www.
-
 dpm.
 
 org.
@@ -1942,8 +1822,6 @@ Page 9 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -1957,8 +1835,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 11.
 
@@ -2024,8 +1900,6 @@ Page 10 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2039,8 +1913,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 com 353年，“群贤毕至，少长咸集 ”，王羲之创作 《兰亭集序 》。
 
@@ -2102,8 +1974,6 @@ Page 11 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2117,8 +1987,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 15.
 
@@ -2176,8 +2044,6 @@ Page 12 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2191,8 +2057,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 17.
 
@@ -2250,8 +2114,6 @@ Page 13 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2265,8 +2127,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 com 威尔逊·奥尔温·本特利 (Wilson Alwyn Bentley ) 是一位美国的自然摄影师和雪花研究家。
 
@@ -2302,8 +2162,6 @@ com 威尔逊·奥尔温·本特利 (Wilson Alwyn Bentley ) 是一位美国的�
 
 威尔逊·奥尔温·本特利 拍摄的雪花照片 ；
 
-图片来源 ：https:// snowflakebentley.
-
 ## 微风吹散蒲公英的种子
 
 ## 这些小小降落 伞看似做着无规则的随机漫步
@@ -2325,8 +2183,6 @@ com 威尔逊·奥尔温·本特利 (Wilson Alwyn Bentley ) 是一位美国的�
 自转影响下运动 。
 
 图 20.
-
-飓风，图片来自于 www.
 
 nasa.
 
@@ -2382,8 +2238,6 @@ Page 14 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2397,8 +2251,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 ## Caribou
 
@@ -2430,8 +2282,6 @@ Page 15 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2445,8 +2295,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 com 1.
 
@@ -2471,8 +2319,6 @@ com 1.
 Transport II by Eric J.
 
 H eller at Harvard University 。
-
-图片来自 于www.
 
 nsf.
 
@@ -2510,8 +2356,6 @@ Page 16 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2525,8 +2369,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 图 23.
 
@@ -2556,8 +2398,6 @@ ml@gmail.
 
 图 24.
 
-银河系图景，图片来自于 www.
-
 nasa.
 
 正如美国物理学家费曼所说 ，我，一个无数原子组成的宇宙，又是整个宇宙的一粒原子。
@@ -2578,8 +2418,6 @@ Page 17 | Chapter 1 数学 + 艺术 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGin ger
@@ -2593,8 +2431,6 @@ bilibili.
 欢迎大家 批评指教，本书专 属邮箱： jiang.
 
 visuali ze.
-
-ml@gmail.
 
 com 换个角度来 向，数字信息存储在一个个芯片中 。
 
@@ -2664,8 +2500,6 @@ Page 1 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -2679,8 +2513,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ### com 2 Let’s Talk about Figures
 
@@ -2728,8 +2560,6 @@ Page 2 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -2743,8 +2573,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 2.
 
@@ -2852,8 +2680,6 @@ Page 3 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -2867,8 +2693,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 2.
 
@@ -2922,8 +2746,6 @@ Page 4 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -2937,8 +2759,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 X: original data Image reproduced with 1 PC
 
@@ -2996,8 +2816,6 @@ Page 5 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3011,8 +2829,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com ► 是否允许手绘 ？
 
@@ -3092,8 +2908,6 @@ PPT中的文字大小 ？
 
 链接如下 ：
 
-https://www.
-
 nature.
 
 com/documents/Final_guide_to_authors.
@@ -3112,8 +2926,6 @@ Page 6 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3127,8 +2939,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 2.
 
@@ -3220,8 +3030,6 @@ Page 7 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3235,8 +3043,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 0, 2.
 
@@ -3318,8 +3124,6 @@ Page 8 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3333,8 +3137,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## Sepal length
 
@@ -3388,8 +3190,6 @@ Page 9 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3403,8 +3203,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 Sepal length Sepal width Petal length Petal widthSepal length Sepal width Petal length Petal widthSetosa
 
@@ -3450,8 +3248,6 @@ Page 10 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3465,8 +3261,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## x1
 
@@ -3532,8 +3326,6 @@ Page 11 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3547,8 +3339,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 Sepal length Sepal width Petal length Petal width
 
@@ -3580,8 +3370,6 @@ Page 12 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3595,8 +3383,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 0Sepal width
 
@@ -3684,8 +3470,6 @@ Page 13 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3699,8 +3483,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 除了以上提到的工 具
 
@@ -3792,8 +3574,6 @@ Page 14 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3808,11 +3588,7 @@ bilibili.
 
 visualize.
 
-ml@gmail.
-
 图 15.
-
-解剖一幅图 ，来源 https://matplotlib.
 
 org/stable/gallery/showcase/anatomy.
 
@@ -3906,8 +3682,6 @@ Page 15 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -3921,8 +3695,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 2.7 发布传播 ：到什么山上唱什么歌
 
@@ -4026,8 +3798,6 @@ Page 16 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4041,8 +3811,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 线性代数向量内积
 
@@ -4174,8 +3942,6 @@ Page 17 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4189,8 +3955,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 线图
 
@@ -4440,8 +4204,6 @@ Page 18 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4455,8 +4217,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 箱型图
 
@@ -4642,8 +4402,6 @@ Page 19 | Chapter 2 说图 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4657,8 +4415,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 线性回归图
 
@@ -4834,8 +4590,6 @@ Page 1 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4849,8 +4603,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 3 Layout of A Figure
 
@@ -4888,8 +4640,6 @@ Page 2 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -4903,8 +4653,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 3.
 
@@ -5014,8 +4762,6 @@ Page 3 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5029,8 +4775,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 图 1.
 
@@ -5156,8 +4900,6 @@ Page 4 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5171,8 +4913,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com subplot 是pyplot模块的函 数，用于在当前的图形中添加子图。
 
@@ -5298,8 +5038,6 @@ Page 5 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5313,8 +5051,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 使用 GridSpec
 
@@ -5392,8 +5128,6 @@ Page 6 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5407,8 +5141,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 3.
 
@@ -5500,8 +5232,6 @@ ny、k变化。
 
 ## 请大家自行学习
 
-https://matplotlib.
-
 org/stable/gallery /subplots_axes_and_figures/mosaic.
 
 ## html
@@ -5518,8 +5248,6 @@ Page 7 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5533,8 +5261,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## 1 2 3 4 5 6 7 8 9 101 2 3
 
@@ -5560,8 +5286,6 @@ Page 8 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5575,8 +5299,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 (1, 0)(0, 1) (1, 1)
 
@@ -5636,8 +5358,6 @@ Page 9 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5652,11 +5372,7 @@ bilibili.
 
 visualize.
 
-ml@gmail.
-
 图 6.
-
-使用 subplot完成子图设置 ，来源 https://github.
 
 com/rougier/scientific -visualization -book
 
@@ -5672,8 +5388,6 @@ Page 10 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5687,8 +5401,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 7.
 
@@ -5706,8 +5418,6 @@ Page 11 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5721,8 +5431,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 (1, 0)(0, 1) (1, 1)
 
@@ -5754,8 +5462,6 @@ Page 12 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5769,8 +5475,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 µ = 2 µ = 1 µ = 0 µ = 1 µ = 2σ = 0.
 
@@ -5796,8 +5500,6 @@ Page 13 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5811,8 +5513,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 10.
 
@@ -5830,8 +5530,6 @@ Page 14 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5845,8 +5543,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 11.
 
@@ -5864,8 +5560,6 @@ Page 15 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5879,8 +5573,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 12.
 
@@ -5898,8 +5590,6 @@ Page 16 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5913,8 +5603,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 13.
 
@@ -5932,8 +5620,6 @@ Page 17 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5947,8 +5633,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ny = 1 ny = 2 ny = 3 ny = 4 ny = 5 ny = 6 ny = 7 ny = 8 ny = 9nx = 1 nx = 2 nx = 3 nx = 4 nx = 5 nx = 6 nx = 7 nx = 8 nx = 9
 
@@ -5968,8 +5652,6 @@ Page 18 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -5983,8 +5665,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 nx = 1 nx = 2 nx = 3 nx = 4 nx = 5 nx = 6 nx = 7 nx = 8 nx = 9ny = 1 ny = 2 ny = 3 ny = 4 ny = 5 ny = 6 ny = 7 ny = 8 ny = 9
 
@@ -6004,8 +5684,6 @@ Page 19 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6019,8 +5697,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 nx:ny
 
@@ -6050,8 +5726,6 @@ Page 20 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6065,8 +5739,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 elev = 0 elev = 15 elev = 30 elev = 45 elev = 60 elev = 75 elev = 90 elev = 105 elev = 120 elev = 135 elev = 150 elev = 165 elev = 180azim = 0 azim = 15 azim = 30 azim = 45 azim = 60 azim = 75 azim = 90azim = 105 azim = 120 azim = 135 azim = 150 azim = 165 azim = 180
 
@@ -6086,8 +5758,6 @@ Page 21 | Chapter 3 子图布局 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6101,8 +5771,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 18.
 
@@ -6120,8 +5788,6 @@ Page 1 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6135,8 +5801,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 4 Decorations
 
@@ -6176,8 +5840,6 @@ Page 2 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6191,8 +5853,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 4.
 
@@ -6296,8 +5956,6 @@ Page 3 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6311,8 +5969,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 图 7
 
@@ -6362,8 +6018,6 @@ text 。
 
 本书不特别展开讲解如何用 text 添加文字 ，请大家自行学习 ：
 
-https://matplotlib.
-
 org/stable/api/_as_gen/matplotlib.
 
 pyplot.
@@ -6371,8 +6025,6 @@ pyplot.
 text.
 
 ## html
-
-https://matplotli b.
 
 org/stable/gallery/text_labels_and_annotations/index.
 
@@ -6390,8 +6042,6 @@ Page 4 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6405,8 +6055,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 2.
 
@@ -6424,8 +6072,6 @@ Page 5 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6439,8 +6085,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 3.
 
@@ -6458,8 +6102,6 @@ Page 6 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6473,8 +6115,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 4.
 
@@ -6492,8 +6132,6 @@ Page 7 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6507,8 +6145,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 5.
 
@@ -6526,8 +6162,6 @@ Page 8 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6541,8 +6175,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 6.
 
@@ -6560,8 +6192,6 @@ Page 9 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6575,8 +6205,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 7.
 
@@ -6594,8 +6222,6 @@ Page 10 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6609,8 +6235,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 8.
 
@@ -6628,8 +6252,6 @@ Page 11 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6643,8 +6265,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 9.
 
@@ -6662,8 +6282,6 @@ Page 12 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6677,8 +6295,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 10.
 
@@ -6698,8 +6314,6 @@ Page 13 | Chapter 4 装饰 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## co m/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6713,8 +6327,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 11.
 
@@ -6730,8 +6342,6 @@ Page 1 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6745,8 +6355,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 ## com 5 Style s
 
@@ -6786,8 +6394,6 @@ Page 2 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6801,8 +6407,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 com 5.
 
@@ -6866,8 +6470,6 @@ Matplotlib 提供了一系列的预定义风格，可以通过设置来改变图
 
 关于 Matplotlib绘图风格 ，请大家参考 ：
 
-https://matplotlib.
-
 org/stable/gallery /style_sheets/style_sheets_reference.
 
 ## html
@@ -6914,8 +6516,6 @@ ProPlot和Matplotlib语法高度一致，因此本书不
 
 ## ProPlot官网地址 如
 
-https://proplot.
-
 readthedocs.
 
 ## io/en/stable/
@@ -6934,8 +6534,6 @@ Page 3 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6949,8 +6547,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 1.
 
@@ -6966,8 +6562,6 @@ Page 4 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -6981,8 +6575,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 2.
 
@@ -6998,8 +6590,6 @@ Page 5 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7013,8 +6603,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 3.
 
@@ -7030,8 +6618,6 @@ Page 6 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7045,8 +6631,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 4.
 
@@ -7064,8 +6648,6 @@ Page 7 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7079,8 +6661,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 5.
 
@@ -7098,8 +6678,6 @@ Page 8 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7113,8 +6691,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 6.
 
@@ -7132,8 +6708,6 @@ Page 9 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7147,8 +6721,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 7.
 
@@ -7166,8 +6738,6 @@ Page 10 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7181,8 +6751,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 8.
 
@@ -7200,8 +6768,6 @@ Page 11 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7215,8 +6781,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 9.
 
@@ -7234,8 +6798,6 @@ Page 12 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7249,8 +6811,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 10.
 
@@ -7268,8 +6828,6 @@ Page 13 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7283,8 +6841,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 11.
 
@@ -7300,8 +6856,6 @@ Page 14 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7315,8 +6869,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 12.
 
@@ -7334,8 +6886,6 @@ Page 15 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7349,8 +6899,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 13.
 
@@ -7368,8 +6916,6 @@ Page 16 | Chapter 5 风格 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://git hub.
-
 ## com/V isualize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7383,8 +6929,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visualize.
-
-ml@gmail.
 
 图 14.
 
@@ -7402,8 +6946,6 @@ Page 1 | Chapter 07 颜色 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://github.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7417,8 +6959,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visual ize.
-
-ml@gmail.
 
 ## com 7 Colors
 
@@ -7468,8 +7008,6 @@ Page 2 | Chapter 07 颜色 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://github.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7483,8 +7021,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visual ize.
-
-ml@gmail.
 
 com 7.
 
@@ -7564,8 +7100,6 @@ Page 3 | Chapter 07 颜色 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://github.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7579,8 +7113,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visual ize.
-
-ml@gmail.
 
 com 红外线波长比可见光长，能量较低。
 
@@ -7664,8 +7196,6 @@ Page 4 | Chapter 07 颜色 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://github.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7679,8 +7209,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visual ize.
-
-ml@gmail.
 
 com 本书后文 大家会看到 RGB颜色模型的色彩空间 。
 
@@ -7772,8 +7300,6 @@ Page 5 | Chapter 07 颜色 | Book 2《可视之美 》 | 鸢尾花书
 
 版权归清华大学出 版社所有 ，请勿商用 ，引用请注明出处。
 
-代码及 PDF文件下载：https://github.
-
 ## com/Visua lize-ML
 
 ## 本书配套微课视频均发 布在B站——生姜DrGinger
@@ -7787,8 +7313,6 @@ bilibili.
 欢迎大家 批评指教，本书专属 邮箱： jiang.
 
 visual ize.
-
-ml@gmail.
 
 ## com 注意
 
@@ -7856,8 +7380,6 @@ ml@gmail.
 
 图 7参考如下代码 ，请大家自行学习 ：
 
-https://matplotlib.
-
 org/stable/gallery/color/named_colors.
 
 ## html
@@ -7901,8 +7423,6 @@ org/stable/gallery/color/named_colors.
 Matplotl ib。
 
 下载地址为 ：
-
-https://github.
 
 com/rougier/scientific -visualization -book
 

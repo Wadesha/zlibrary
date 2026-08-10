@@ -1,10 +1,10 @@
 {
   "slug": "britannica-learning-library-volume-03---science-and-nature-encyclopdia-britannic",
-  "title": "Britannica Learning Library Volume 03 - Science and Nature (Encyclopdia Britannica, Inc.)",
+  "title": "Britannica Learning Library Volume 03 - Science and Nature Encyclopdia Britannica, Inc.",
   "language": "en",
   "pipeline": "ocr_md",
   "source_file": "Britannica Learning Library Volume 03 - Science and Nature (Encyclopdia Britannica, Inc.) (Z-Library).md",
   "source_pdf": "Britannica Learning Library Volume 03 - Science and Nature (Encyclopdia Britannica, Inc.) (Z-Library).pdf",
-  "chars": 54013,
+  "chars": 53766,
   "has_fixed": false
 }

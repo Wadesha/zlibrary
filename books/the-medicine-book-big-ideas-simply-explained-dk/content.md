@@ -1,21 +1,12 @@
 # 医学之书 大开本思想简明图解 DK Z Library
 
-> 来源文件：pre_The_Medicine_Book_Big_Ideas_Simply_Explained_DK_Z_Library.txt
-> 字符数（约）：853043
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BIG IDEAS SIMPLY EXPLAINED（大开本思想简明图解）系列：数学之书、医学之书、电影之书、神话之书、哲学之书、物理之书、政治之书、心理学之书、宗教之书、科学之书、莎士比亚之书、福尔摩斯之书、社会学之书、艺术之书、天文学之书、圣经之书、商业之书、古典音乐之书、犯罪之书、生态学之书、经济学之书、女性主义之书、历史之书、伊斯兰教之书、法律之书、文学之书
 
 MEDICINE THE BOOK（医学之书）
 
 DK 伦敦 高级美术编辑 Helen Spencer；高级编辑 Camilla Hallinan、Kathryn Hennessy、Laura Sandford；编辑 Anna Cheifetz、Lydia Halliday、Joanna Micklem、Victoria Pyke、Dorothy Stannard、Rachel Warren Chadd；插图 James Graham；封面设计开发经理 Sophia MTT；制作编辑 George Nimmo；制作人 Nancy-Jane Maun；高级美术总监 Lee Griffiths；执行编辑 Gareth Jones；出版副总监 Liz Wheeler；艺术总监 Karen Self；设计总监 Philip Ormerod；出版总监 Jonathan Metcalf。DK 德里 高级美术编辑 Ira Sharma、Vikas Sachdeva、Vinita Venugopal；项目美术编辑 Sourabh Challariya；美术编辑 Shipra Jain、Noopur Dalal、Anukriti Arora；助理美术编辑 Ankita Das、Bandana Paul、Adhithi Priya；高级编辑 Janashree Singha；编辑 Nandini D. Tripathy、Rishi Bryan、Avanika；执行编辑 Soma B. Chowdhury；高级美术总监 Arunesh Talapatra；高级封面设计师 Suhita Dharamjit；排版设计师 Ashok Kumar、Mrinmoy Mazumdar；图片研究协调员 Sumita Khatwani；助理图片研究员 Sneha Murchavade；图片研究经理 Taiyaba Khatoon；印前经理 Balwant Singh；制作经理 Pankaj Sharma。原始设计由 STUDIO 8 完成。
 
-2021 年首次在英国由 Dorling Kindersley Limited 出版。DK，One Embassy Gardens，8 Viaduct Gardens，London，SW11 7BW。版权 © 2021 Dorling Kindersley Limited，企鹅兰登书屋（Penguin Random House）旗下公司。10 9 8 7 6 5 4 3 2 1 001–322083–Mar/2021。未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 大英图书馆可提供本书的 CIP 目录记录。
-
-ISBN：978-0-2414-7125-8 印刷于中国 www.dk.com 本书采用森林管理委员会™（FSC）认证的纸张印制——这是 DK 致力于可持续未来的一小步。更多信息请访问 www.dk.com/our-green-pledge
 
 BEN HUBBARD（本·哈伯德） 本·哈伯德是一位成就斐然的非虚构作家，为儿童和成人创作。他名下有 120 多部作品，写作题材从太空、武士、鲨鱼，到毒药、宠物和金雀花王朝。
 
@@ -8842,4 +8833,3 @@ Cameron Currie (br). 222 Alamy Stock Photo: Science Photo Library (br). 225 Gett
 314 Alamy Stock Photo: BSIP SA (cb).
 
 欲了解更多信息，请见：www.dkimages.com
-

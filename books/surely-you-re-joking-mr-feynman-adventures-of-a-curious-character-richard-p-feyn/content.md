@@ -1,10 +1,5 @@
 # Surely You re Joking Mr Feynman Adventures of a Curious Character Richard P Feynman Bill Gates Ralph Leighton Z Library
 
-> 来源文件：pre_Surely_You_re_Joking_Mr_Feynman_Adventures_of_a_Curious_Character_Richard_P_Feynman_Bill_Gates_Ralph_Leighton_Z_Library.txt
-> 字符数（约）：646082
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Contents Cover About the Book About the Author Title Page Preface Introduction by Albert R. Hibbs Vitals
 
 ## Part 1: FROM FAR ROCKAWAY TO MIT
@@ -53,8 +48,6 @@ But Is It Art?
 
 Is Electricity Fire?
 
-Judging Books by Their Covers Alfred Nobel’s Other Mistake Bringing Culture to the Physicists Found Out in Paris Altered States Cargo Cult Science Index Copyright
-
 About the Author Richard Feynman was the most famous physicist in the world. Only an infinitesimal part of the general population could properly understand his mathematical physics, but his outgoing and sunny personality, his gift for exposition, his habit of playing the bongo drums, and his testimony to the Presidential Commission on the Challenger Space Shuttle disaster turned him into a celebrity. Richard Feynman died in 1988 after a long illness. In its obituary the New York Times described him as ‘arguably the most brilliant, iconoclastic and influential of the post-war generation of theoretical physicists’.
 
 About the Book Winner of the Nobel Prize for Physics in 1965, Richard Feynman was one of the world’s greatest theoretical physicists, but he was also a man who fell, often jumped, into adventure. An artist, safecracker, practical joker and storyteller, Feynman’s life was a series of combustible combinations made possible by his unique mixture of high intelligence, unquenchable curiosity and eternal scepticism. Over a period of years, Feynman’s conversations with his friend Ralph Leighton were first taped and then set down as they appear here, little changed from their spoken form, giving a wise, funny, passionate and totally honest self-portrait of one of the greatest men of our age.
@@ -72,12 +65,6 @@ Vitals SOME FACTS ABOUT my timing: I was born in 1918 in a small town called Far
 Preface The stories in this book were collected intermittently and informally during seven years of very enjoyable drumming with Richard Feynman. I have found each story by itself to be amusing, and the collection taken together to be amazing: That one person could have so many wonderfully crazy things happen to him in one life is sometimes hard to believe. That one person could invent so much innocent mischief in one life is surely an inspiration! RALPH LEIGHTON
 
 RICHARD P. FEYNMAN “Surely You’re Joking, Mr Feynman!” Adventures of a Curious Character as told to Ralph Leighton EDITED BY Edward Hutchings
-
-Copyright © 1985 by Richard P. Feynman and Ralph Leighton First published in Great Britain in 1985 by W. W. Norton & Company, Inc.
-
-Vintage Random House, 20 Vauxhall Bridge Road, London SW1V 2SA www.vintage-books.co.uk Addresses for companies within The Random House Group Limited can be found at: www.randomhouse.co.uk/offices.htm The Random House Group Limited Reg. No. 954009 A CIP catalogue record for this book is available from the British Library
-
-## ISBN 9780099173311
 
 He Fixes Radios by Thinking!
 

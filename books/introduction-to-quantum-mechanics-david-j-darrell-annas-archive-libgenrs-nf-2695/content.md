@@ -1,10 +1,5 @@
 # introduction to quantum mechanics david j darrell annas archive libgenrs nf 2695391
 
-> 来源文件：pre_introduction_to_quantum_mechanics_david_j_darrell_annas_archive_libgenrs_nf_2695391.txt
-> 字符数（约）：261778
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Introduction to Quantum Mechanics Third edition Changes and additions to the new edition of this classic textbook include: • A new chapter on Symmetries and Conservation Laws • New problems and examples • Improved explanations • More numerical problems to be worked on a computer • New applications to solid state physics • Consolidated treatment of time-dependent potentials
 
 David J. Griffiths received his BA (1964) and PhD (1970) from Harvard University. He taught at Hampshire College, Mount Holyoke College, and Trinity College before joining the faculty at Reed College in 1978. In 2001–2002 he was visiting Professor of Physics at the Five Colleges (UMass, Amherst, Mount Holyoke, Smith, and Hampshire), and in the spring of 2007 he taught Electrodynamics at Stanford. Although his PhD was in elementary particle theory, most of his research is in electrodynamics and quantum mechanics. He is the author of over fifty articles and four books: Introduction to Electrodynamics (4th edition, Cambridge University Press, 2013), Introduction to Elementary Particles (2nd edition, Wiley-VCH, 2008), Introduction to Quantum Mechanics (2nd edition, Cambridge, 2005), and Revolutions in Twentieth-Century Physics (Cambridge, 2013).
@@ -518,8 +513,6 @@ The probability density oscillates sinusoidally, at an angular frequency ω = (E
 ⁷ In principle, any normalized function ψ(x, 0) is fair game—it need not even be continuous. How you might actually get a particle into that state is a different question, and one (curiously) we seldom have occasion to ask.
 
 ⁸ If this is your first encounter with the method of separation of variables, you may be disappointed that the solution takes the form of an infinite series. Occasionally it is possible to sum the series, or to solve the time-dependent Schrödinger equation without recourse to separation of variables—see, for instance, Problems 2.49, 2.50, and 2.51. But such cases are extremely rare.
-
-⁹ This is nicely illustrated in an applet by Paul Falstad, at www.falstad.com/qm1d/.
 
 You may be wondering what the coefficients {cₙ} represent physically. I’ll tell you the answer, though the explanation will have to await Chapter 3: |cₙ|² is the probability that a measurement of the energy would return the value Eₙ. (2.19)
 

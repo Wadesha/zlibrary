@@ -776,8 +776,6 @@ who checked the translation.
 
 ### Jacques Dupont-Roc & Gilbert Grynberg
 
-© 2004 WILEY-VCH Verlag GmbH & Co.
-
 ## Introduction
 
 Electromagnetic interaction governs the motion of electrons and nuclei
@@ -1175,8 +1173,6 @@ absence of charged particles.
 Basic Processes and ApplicationsClaude Cohen-Tannoudji
 
 ### Jacques Dupont-Roc & Gilbert Grynberg
-
-© 2004 WILEY-VCH Verlag GmbH & Co.
 
 ## CHAPTER I
 

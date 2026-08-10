@@ -1,10 +1,5 @@
 # 看，我是个工程师！（Look, I'm an Engineer）· DK 儿童（DK CHILDREN）· Z-Library
 
-> 来源文件：pre_Look_I_m_an_Engineer_DK_CHILDREN_Z_Library.txt
-> 字符数（约）：26561
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 看，我是个工程师！（Look, I'm an Engineer!）
 
 目录（Contents）
@@ -31,27 +26,17 @@
 
 教育顾问：Penny Coltman。本书的 CIP（图书目录在版编目）记录可向大英图书馆（British Library）获取。
 
-摄影师：Lol Johnson　额外摄影：Dave King　书套设计师：Charlotte Milner、Eleanor Bates　书套协调：Francesca Young　印制地：中国（Printed in China）
-
-ISBN：978-0-2413-1388-6
-
 制作、前期制作：Dragana Puvacic
 
 出版方感谢以下机构惠允转载其照片（图注说明：a-上；b-下；c-中；f-远；l-左；r-右；t-顶）：8–9 Getty Images：Navaswan / The Image Bank（t/天空）。13 Getty Images：Navaswan / The Image Bank（天空）。14–15 Getty Images：Navaswan / The Image Bank（天空）。17 Dreamstime.com：Vladvitek（右上）。28 123RF.com：Peter Jeffreys / petejeff（右下）。其余图片均为 Dorling Kindersley 版权所有。
 
 高级制作：Amy Knight　管理编辑：Penny Smith　管理美术编辑：Mabel Chan　出版人：Mary Ling　创意总监：Helen Senior
 
-更多信息请见：www.dkimages.com
-
 特别感谢所有担任模特的小小工程师们——Isaac Abban、Hannah Bollito、India Noone、Anais Rahman、Rafferty Smale 和 Tobi Saggar。也额外感谢 Alex Hilton 提供的宝贵工程专业知识与建议。
 
 2018 年首次在英国由 Dorling Kindersley Limited 出版，地址：80 Strand, London WC2R 0RL。
 
 A WORLD OF IDEAS：SEE ALL THERE IS TO KNOW（思想的天地：尽览已知）。
-
-版权所有 © 2018 Dorling Kindersley Limited，企鹅兰登（Penguin Random House）旗下公司。
-
-www.dk.com
 
 ## 目录（Contents）
 
@@ -686,4 +671,3 @@ www.dk.com
 - 降落伞（Parachute）8–9
 - 螺旋桨（Propeller）18–19, 21
 - 金字塔（Pyramid）36–37
-

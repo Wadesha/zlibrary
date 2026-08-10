@@ -1,17 +1,8 @@
 # The Science of Animals Inside their Secret World D K Publishing Smithsonian Institution Z Library
 
-> 来源文件：pre_The_Science_of_Animals_Inside_their_Secret_World_D_K_Publishing_Smithsonian_Institution_Z_Library.txt
-> 字符数（约）：421611
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The of S C I E N C E ANIMALS
 
-DK LONDON DK INDIA First published in Great Britain in 2019 by Dorling Kindersley Limited 80 Strand, London, WC2R 0RL Copyright © 2019 Dorling Kindersley Limited A Penguin Random House Company 10  9  8  7  6  5  4  3  2  1 001–310754–September/2019 or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-2413-4678-5 Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com Senior Art Editor  Chhaya Sajwan Art Editors  Anukriti Arora, Shipra Jain, Jomin Johny Senior Managing Art Editor  Arunesh Talapatra Senior Picture Researcher  Surya Sarangi Project Picture Researcher  Aditya Katyal Senior DTP Designer  Jagtar Singh DTP Designer  Jaypal Singh Chauhan Production Manager  Pankaj Sharma Pre-Production Manager  Balwant Singh Senior Editor  Rob Houston Editors  Jemima Dunne, Steve Setford, Ruth O’Rourke-Jone, Kate Taylor Photographer  Gary Ombler Producer, Pre-Production  Rob Dunn Senior Producer  Meskerem Berhane Managing Editor  Angeles Gavira Guerrero Associate Publishing Director  Liz Wheeler Publishing Director  Jonathan Metcalf Senior Art Editor  Ina Stradins Project Art Editors  Simon Murrell, Steve Woosnam-Savage Design Assistants  Briony Corbett, Bianca Zambrea Jacket Design Development Manager  Sophia MTT Jacket Designer  Akiko Kato Managing Art Editor  Michael Duffy Art Director  Karen Self Design Director  Phil Ormerod
 
 The Natural History Museum, London, looks after a world-class collection of over 80 million specimens spanning 4.6 billion years, from the formation of the Solar System to the present day. It is also a leading scientific research institution, with ground-breaking projects in more than 68 countries. Over 300 scientists work at the Museum, researching the valuable collections to better understand life on Earth. Every year more than five million visitors, of all ages and levels of interest, are welcomed through the Museum’s doors.
 

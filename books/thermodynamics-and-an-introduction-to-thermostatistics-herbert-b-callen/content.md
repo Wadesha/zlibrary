@@ -1,13 +1,6 @@
 # Thermodynamics and an Introduction to Thermostatistics Herbert B Callen Z Library
 
-> 来源文件：pre_Thermodynamics_and_an_Introduction_to_Thermostatistics_Herbert_B_Callen_Z_Library.txt
-> 字符数（约）：256170
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 热力学与恒温统计学导论赫伯特·B·卡伦约翰·威利父子出版社纽约 奇切斯特 布里斯班 多伦多 新加坡
-
-版权所有 © 1985，约翰·威利父子公司保留所有权利。在加拿大同时出版未经版权持有者许可，不得复制或翻译本作品超过1976年美国版权法第107条和第108条允许的范围。请求许可或获取更多信息，请联系约翰·威利父子公司许可部。
 
 国会图书馆编目出版数据： 卡伦，赫伯特·B 热力学与恒温统计学导论 《热力学》的修订版，1960年参考文献见第485页包括索引。
 

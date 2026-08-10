@@ -1,10 +1,5 @@
 # illustrated Encyclopedia of the Universe Dorling Kindersley Z Library
 
-> 来源文件：pre_illustrated_Encyclopedia_of_the_Universe_Dorling_Kindersley_Z_Library.txt
-> 字符数（约）：1535119
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 GENERAL EDITOR MARTIN REES “… SPECTACULARLY EXTENDS DK’S RUN OF PICTORIAL ENCYCLOPEDIAS INTO OUTER SPACE.” THE INDEPENDENT
 
 about this book CONTRIBUTORS Martin Rees General editor Robert Dinwiddie What is the Universe?
@@ -2788,8 +2783,6 @@ This bronze relief portrays the death of Italian philosopher Giordano Bruno, bur
 This amusing woodcut, designed by Camille Flammarion in Paris in 1888, mocks the ignorance of medieval and Renaissance astronomers. A scholar is shown poking his head through the shell-like celestial sphere in a desperate attempt to understand what makes the heavens move.
 
 ## JOHANNES KEPLER
-
-KEPLER’S MANUSCRIPT Johannes Kepler expounded his theories of planetary motion in the treatise Epitome of Copernican Astronomy, first published in 1619.
 
 BRAHE’S SYSTEM This detail of a print published in 1660–61 shows Brahe’s model of planetary orbits. Unlike Copernicus, he retained Earth as the central body.
 

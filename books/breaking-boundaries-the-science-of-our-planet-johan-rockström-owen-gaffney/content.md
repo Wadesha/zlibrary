@@ -28,19 +28,11 @@ Owen Gaffney and Johan Rockström have asserted their
 
 right to be identified as the authors of this work.
 
-Text copyright © 2021 Owen Gaffney and Johan Rockström
-
-Copyright © 2021 Dorling Kindersley Limited
-
 DK, a Division of Penguin Random House LLC
 
 ### 21 22 23 24 25 10 9 8 7 6 5 4 3 2 1
 
 ## 001–321647–April/2021
-
-All rights reserved.
-
-Without limiting the rights under the copyright reserved above
 
 no part of this publication may be reproduced
 
@@ -64,15 +56,11 @@ no part of this publication may be reproduced
 
 ### without the prior written permission
 
-of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited
 
 ### A catalog record for this book
 
 is available from the Library of Congress.
-
-## ISBN 978-0-7440-2813-3
 
 DK books are available at special discounts when purchased
 
@@ -100,21 +88,13 @@ educational use.
 
 ## NY 10018
 
-SpecialSales@dk.
-
 ### Printed and bound in the United States
-
-www.
-
-This book was made with Forest Stewardship
 
 Council ™ certified paper—one small step in
 
 DK’s commitment to a sustainable future.
 
 ## For more information go to
-
-www.
 
 ## com/our-green-pledge
 

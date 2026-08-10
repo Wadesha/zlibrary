@@ -1,10 +1,5 @@
 # Britannica Illustrated Science Library Encyclopaedia Britannica Editorial Z Library
 
-> 来源文件：pre_Britannica_Illustrated_Science_Library_Encyclopaedia_Britannica_Editorial_Z_Library.txt
-> 字符数（约）：2922418
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 About the pagination of this eBook Due to the unique page numbering scheme of this book, the electronic pagination of the eBook does not match the pagination of the printed version. To navigate the text, please use the electronic Table of Contents that appears alongside the eBook or the Search function.
 
 For citation purposes, use the page numbers that appear in the text.
@@ -13,15 +8,9 @@ Encyclopædia Britannica, Inc.
 
 Chicago  ■London  ■New Delhi  ■Paris  ■Seoul  ■Sydney  ■Taipei  ■Tokyo Britannica Illustrated Science Library Britannica Illustrated Science Library UNIVERSE UNIVERSE
 
-© 2008 Editorial Sol 90 Idea and Concept of This Work: Editorial Sol 90 Project Management: Fabián Cassan Photo Credits: Corbis, ESA, Getty Images, Graphic News, NASA, National Geographic, Science Photo Library Illustrators: Guido Arroyo, Pablo Aschei, Gustavo J. Caironi, Hernán Cañellas, Leonardo César, José Luis Corsetti, Vanina Farías, Joana Garrido, Celina Hilbert, Isidro López, Diego Martín, Jorge Martínez, Marco Menco, Ala de Mosca, Diego Mourelos, Eduardo Pérez, Javier Pérez, Ariel Piroyansky, Ariel Roldán, Marcel Socías, Néstor Taylor, Trebol Animation, Juan Venegas, Coralia Vignau, 3DN, 3DOM studio Composition and Pre-press Services: Editorial Sol 90 Translation Services and Index: Publication Services, Inc.
-
-Portions © 2008 Encyclopædia Britannica, Inc.
-
 Encyclopædia Britannica, Britannica, and the thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 Britannica Illustrated Science Library Staff Editorial Michael Levy, Executive Editor, Core Editorial John Rafferty, Associate Editor, Earth Sciences William L. Hosch, Associate Editor, Mathematics and Computers Kara Rogers, Associate Editor, Life Sciences Rob Curley, Senior Editor, Science and Technology David Hayes, Special Projects Editor Art and Composition Steven N. Kapusta, Director Carol A. Gaines, Composition Supervisor Christine McCabe, Senior Illustrator Media Acquisition Kathy Nakamura, Manager Copy Department Sylvia Wallace, Director Julian Ronning, Supervisor Information Management and Retrieval Sheila Vasich, Information Architect Production Control Marilyn L. Barton Manufacturing Kim Gerber, Director Britannica Illustrated Science Library Britannica Illustrated Science Library Encyclopædia Britannica, Inc.
-
-Jacob E. Safra, Chairman of the Board Jorge Aguilar-Cauz, President Michael Ross, Senior Vice President, Corporate Development Dale H. Hoiberg, Senior Vice President and Editor Marsha Mackenzie, Director of Production International Standard Book Number (set): 978-1-59339-797-5 International Standard Book Number (volume): 978-1-59339-798-2 Britannica Illustrated Science Library: Universe 2008 Printed in China www.britannica.com
 
 Universe
 
@@ -4563,15 +4552,9 @@ Chicago  ■London  ■New Delhi  ■Paris  ■Seoul  ■Sydney  ■Taipei  ■T
 
 ## AND MINERALS
 
-© 2008 Editorial Sol 90 Idea and Concept of This Work: Editorial Sol 90 Project Management: Fabián Cassan Photo Credits: Corbis, ESA, Getty Images, Graphic News, NASA, National Geographic, Science Photo Library Illustrators: Guido Arroyo, Pablo Aschei, Gustavo J. Caironi, Hernán Cañellas, Leonardo César, José Luis Corsetti, Vanina Farías, Joana Garrido, Celina Hilbert, Isidro López, Diego Martín, Jorge Martínez, Marco Menco, Ala de Mosca, Diego Mourelos, Eduardo Pérez, Javier Pérez, Ariel Piroyansky, Ariel Roldán, Marcel Socías, Néstor Taylor, Trebol Animation, Juan Venegas, Coralia Vignau, 3DN, 3DOM studio, Jorge Ivanovich, Fernando Ramallo, Constanza Vicco, Diego Mourelos Composition and Pre-press Services: Editorial Sol 90 Translation Services and Index: Publication Services, Inc.
-
-Portions © 2008 Encyclopædia Britannica, Inc.
-
 Encyclopædia Britannica, Britannica, and the thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 Britannica Illustrated Science Library Staff Editorial Michael Levy, Executive Editor, Core Editorial John Rafferty, Associate Editor, Earth Sciences William L. Hosch, Associate Editor, Mathematics and Computers Kara Rogers, Associate Editor, Life Sciences Rob Curley, Senior Editor, Science and Technology David Hayes, Special Projects Editor Art and Composition Steven N. Kapusta, Director Carol A. Gaines, Composition Supervisor Christine McCabe, Senior Illustrator Media Acquisition Kathy Nakamura, Manager Copy Department Sylvia Wallace, Director Julian Ronning, Supervisor Information Management and Retrieval Sheila Vasich, Information Architect Production Control Marilyn L. Barton Manufacturing Kim Gerber, Director Britannica Illustrated Science Library Britannica Illustrated Science Library Encyclopædia Britannica, Inc.
-
-Jacob E. Safra, Chairman of the Board Jorge Aguilar-Cauz, President Michael Ross, Senior Vice President, Corporate Development Dale H. Hoiberg, Senior Vice President and Editor Marsha Mackenzie, Director of Production International Standard Book Number (set): 978-1-59339-797-5 International Standard Book Number (volume): 978-1-59339-799-9 Britannica Illustrated Science Library: Rocks and Minerals 2008 Printed in China www.britannica.com
 
 Rocks and Minerals
 
@@ -9179,15 +9162,9 @@ Chicago  ■London  ■New Delhi  ■Paris  ■Seoul  ■Sydney  ■Taipei  ■T
 
 ## AND EARTHQUAKES
 
-© 2008 Editorial Sol 90 Idea and Concept of This Work: Editorial Sol 90 Project Management: Fabián Cassan Photo Credits: Corbis, ESA, Getty Images, Graphic News, NASA, National Geographic, Science Photo Library Illustrators: Guido Arroyo, Pablo Aschei, Gustavo J. Caironi, Hernán Cañellas, Leonardo César, José Luis Corsetti, Vanina Farías, Joana Garrido, Celina Hilbert, Isidro López, Diego Martín, Jorge Martínez, Marco Menco, Ala de Mosca, Diego Mourelos, Eduardo Pérez, Javier Pérez, Ariel Piroyansky, Ariel Roldán, Marcel Socías, Néstor Taylor, Trebol Animation, Juan Venegas, Coralia Vignau, 3DN, 3DOM studio Composition and Pre-press Services: Editorial Sol 90 Translation Services and Index: Publication Services, Inc.
-
-Portions © 2008 Encyclopædia Britannica, Inc.
-
 Encyclopædia Britannica, Britannica, and the thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 Britannica Illustrated Science Library Staff Editorial Michael Levy, Executive Editor, Core Editorial John Rafferty, Associate Editor, Earth Sciences William L. Hosch, Associate Editor, Mathematics and Computers Kara Rogers, Associate Editor, Life Sciences Rob Curley, Senior Editor, Science and Technology David Hayes, Special Projects Editor Art and Composition Steven N. Kapusta, Director Carol A. Gaines, Composition Supervisor Christine McCabe, Senior Illustrator Media Acquisition Kathy Nakamura, Manager Copy Department Sylvia Wallace, Director Julian Ronning, Supervisor Information Management and Retrieval Sheila Vasich, Information Architect Production Control Marilyn L. Barton Manufacturing Kim Gerber, Director Britannica Illustrated Science Library Britannica Illustrated Science Library Encyclopædia Britannica, Inc.
-
-Jacob E. Safra, Chairman of the Board Jorge Aguilar-Cauz, President Michael Ross, Senior Vice President, Corporate Development Dale H. Hoiberg, Senior Vice President and Editor Marsha Mackenzie, Director of Production International Standard Book Number (set): 978-1-59339-797-5 International Standard Book Number (volume): 978-1-59339-800-2 Britannica Illustrated Science Library: Volcanoes and Earthquakes 2008 Printed in China www.britannica.com
 
 Volcanoes and Earthquakes
 
@@ -13547,15 +13524,9 @@ Chicago  ■London  ■New Delhi  ■Paris  ■Seoul  ■Sydney  ■Taipei  ■T
 
 ## AND CLIMATE
 
-© 2008 Editorial Sol 90 Idea and Concept of This Work: Editorial Sol 90 Project Management: Fabián Cassan Photo Credits: Corbis, ESA, Getty Images, Graphic News, NASA, National Geographic, Science Photo Library Illustrators: Guido Arroyo, Pablo Aschei, Gustavo J. Caironi, Hernán Cañellas, Leonardo César, José Luis Corsetti, Vanina Farías, Joana Garrido, Celina Hilbert, Isidro López, Diego Martín, Jorge Martínez, Marco Menco, Ala de Mosca, Diego Mourelos, Eduardo Pérez, Javier Pérez, Ariel Piroyansky, Ariel Roldán, Marcel Socías, Néstor Taylor, Trebol Animation, Juan Venegas, Coralia Vignau, 3DN, 3DOM studio, Jorge Ivanovich, Fernando Ramallo, Constanza Vicco Composition and Pre-press Services: Editorial Sol 90 Translation Services and Index: Publication Services, Inc.
-
-Portions © 2008 Encyclopædia Britannica, Inc.
-
 Encyclopædia Britannica, Britannica, and the thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 Britannica Illustrated Science Library Staff Editorial Michael Levy, Executive Editor, Core Editorial John Rafferty, Associate Editor, Earth Sciences William L. Hosch, Associate Editor, Mathematics and Computers Kara Rogers, Associate Editor, Life Sciences Rob Curley, Senior Editor, Science and Technology David Hayes, Special Projects Editor Art and Composition Steven N. Kapusta, Director Carol A. Gaines, Composition Supervisor Christine McCabe, Senior Illustrator Media Acquisition Kathy Nakamura, Manager Copy Department Sylvia Wallace, Director Julian Ronning, Supervisor Information Management and Retrieval Sheila Vasich, Information Architect Production Control Marilyn L. Barton Manufacturing Kim Gerber, Director Britannica Illustrated Science Library Britannica Illustrated Science Library Encyclopædia Britannica, Inc.
-
-Jacob E. Safra, Chairman of the Board Jorge Aguilar-Cauz, President Michael Ross, Senior Vice President, Corporate Development Dale H. Hoiberg, Senior Vice President and Editor Marsha Mackenzie, Director of Production International Standard Book Number (set): 978-1-59339-797-5 International Standard Book Number (volume): 978-1-59339-801-9 Britannica Illustrated Science Library: Weather and Climate 2008 Printed in China www.britannica.com
 
 Weather and Climate
 
@@ -15604,8 +15575,6 @@ A lightning rod is an instrument whose purpose is to attract a lightning bolt an
 The charges become separated, with the positive charges accumulating at the top of the cloud and the negative charges at the base.
 
 Cold air Very hot air Cold air Very hot air Tip of the conductor Lightning rod channel For Evaluation Only.
-
-Copyright (c) by Foxit Software Company, 2004 Edited by Foxit PDF Editor
 
 Flooded Land When land is flooded for days or months, the air in the soil is replaced by water, which prevents the buildup of oxygen, thus affecting the biological activity of plants and the soil itself. In the latter case, if the water does not have sufficient salt, the incomplete decomposition of organic matter and the significant washing away of nutrients make the soil more acidic. If the water contains a great deal of salt, the salt will remain in the soil, causing a different problem: salinization.
 
@@ -17951,15 +17920,9 @@ Chicago  ■London  ■New Delhi  ■Paris  ■Seoul  ■Sydney  ■Taipei  ■T
 
 ## AND GENETICS
 
-© 2008 Editorial Sol 90 Idea and Concept of This Work: Editorial Sol 90 Project Management: Fabián Cassan Photo Credits: Corbis, ESA, Getty Images, Micheal Simpson/Getty Images, Graphic News, NASA, National Geographic, Science Photo Library Illustrators: Guido Arroyo, Pablo Aschei, Carlos Francisco Bulzomi, Gustavo J. Caironi, Hernán Cañellas, Leonardo César, José Luis Corsetti, Vanina Farías, Manrique Fernández Buente, Joana Garrido, Celina Hilbert, Inkspot, Jorge Ivanovich, Iván Longuini, Isidro López, Diego Martín, Jorge Martínez, Marco Menco, Marcelo Morán, Ala de Mosca, Diego Mourelos, Laura Mourelos, Pablo Palastro, Eduardo Pérez, Javier Pérez, Ariel Piroyansky, Fernando Ramallo, Ariel Roldán, Marcel Socías, Néstor Taylor, Trebol Animation, Juan Venegas, Constanza Vicco, Coralia Vignau, Gustavo Yamin, 3DN, 3DOM studio Composition and Pre-press Services: Editorial Sol 90 Translation Services and Index: Publication Services, Inc.
-
-Portions © 2008 Encyclopædia Britannica, Inc.
-
 Encyclopædia Britannica, Britannica, and the thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 Britannica Illustrated Science Library Staff Editorial Michael Levy, Executive Editor, Core Editorial John Rafferty, Associate Editor, Earth Sciences William L. Hosch, Associate Editor, Mathematics and Computers Kara Rogers, Associate Editor, Life Sciences Rob Curley, Senior Editor, Science and Technology David Hayes, Special Projects Editor Art and Composition Steven N. Kapusta, Director Carol A. Gaines, Composition Supervisor Christine McCabe, Senior Illustrator Media Acquisition Kathy Nakamura, Manager Copy Department Sylvia Wallace, Director Julian Ronning, Supervisor Information Management and Retrieval Sheila Vasich, Information Architect Production Control Marilyn L. Barton Manufacturing Kim Gerber, Director Britannica Illustrated Science Library Britannica Illustrated Science Library Encyclopædia Britannica, Inc.
-
-Jacob E. Safra, Chairman of the Board Jorge Aguilar-Cauz, President Michael Ross, Senior Vice President, Corporate Development Dale H. Hoiberg, Senior Vice President and Editor Marsha Mackenzie, Director of Production International Standard Book Number (set): 978-1-59339-797-5 International Standard Book Number (volume): Britannica Illustrated Science Library: Evolution and Genetics 2008 Printed in China www.britannica.com 978-1-59339-802-6
 
 Evolution and Genetics
 

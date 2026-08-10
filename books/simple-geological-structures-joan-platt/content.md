@@ -1,10 +1,5 @@
 # Simple Geological Structures Joan Platt Z Library
 
-> 来源文件：pre_Simple_Geological_Structures_Joan_Platt_Z_Library.txt
-> 字符数（约）：83618
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Simple Geological Structures
 
 PREFACE TO FIRST EDITION The object of this book is to give a series of notes on the elementary but essential principles concerning the reading of simple geological structures and their implications, from a geological map; and a series of illustrative map-exercises fully worked out and explained. One of us (J. I. P.) is responsible for the somewhat special notes 6-9 and for the preparation and exposition of the map-exercises, while the other (J. C.) is responsible for the more general notes 1-5. It must be understood that these notes, particularly notes 1-5, are in a very compressed form. Certain statements in the notes will occur again where they find their application in the map-exercises. A rigorous exclusion of all overlapping has not been attempted.
@@ -24,10 +19,6 @@ In conclusion, the authors wish to express their indebtedness to Professor W. J.
 J. I. P.
 
 A SERIES OF NOTES AND MAP EXERCISES by JOHN I. PLATT M.SC. and JOHN CHALLINOR M.A.
-
-Senior Lecturers in Geology (Retired), University College of Wales, Aberystwyth A THOMAS MURBY PUBLICATION OF GEORGE ALLEN & UNWIN FIRST PUBLISHED JUNE, 1930 REVISED METRIC EDITION 1974 THIRD PRINTING 1980 This book is copyright under the Berne Convention. All rights are reserved. Apart from any fair dealing for the purposes of private study, research, criticism or review, as permitted under the Copyright Act, 1956, no part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, electrical, chemical, mechanical, optical, photocopying, recording or otherwise, without the prior permission of the copyright owner. Inquiries should be addressed to the publishers.
-
-ISBN 0 04 550020 7 © George Allen & Unwin (Publishers) Ltd., 1968, 1974 Printed in Great Britain by Mackays of Chatham
 
 CONTENTS NOTE 1. The Bedding Plane ... 6 NOTE 2. The Bed ... 12 NOTE 3. Unconformity ... 15 MAP EXERCISE 1. Uniformly dipping Rock Series and Unconformity ... 17 MAP EXERCISE 2. Completion of Outcrops ... 20 NOTE 4. Faulting ... 23 MAP EXERCISE 3. Faulting ... 27 MAP EXERCISE 4. Completion of Outcrops ... 31 NOTE 5. Folding ... 33 MAP EXERCISE 5. Folding ... 36 MAP EXERCISE 6. Maps without Contour Lines ... 37 NOTE 6. Igneous Rocks ... 41 MAP EXERCISE 7. Igneous Rocks ... 43 NOTE 7. Superficial Deposits ... 47 MAP EXERCISE 8. Superficial Deposits ... 49 MAP EXERCISE 9. Construction of a Map from Sections ... 53 NOTE 8. Description of a Geological Map ... 55 NOTE 9. Drawing Geological Sections ... 56
 

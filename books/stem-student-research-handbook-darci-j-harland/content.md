@@ -1,10 +1,5 @@
 # STEM Student Research Handbook Darci J Harland Z Library
 
-> 来源文件：pre_STEM_Student_Research_Handbook_Darci_J_Harland_Z_Library.txt
-> 字符数（约）：243146
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Harland STUDENT RESEARCH HANDBOOK
 
 A comprehensive resource for high school teachers and students, STEM Student Research Handbook outlines the various stages of large-scale research projects, enabling teachers to coach their students through the research process. This volume provides enough detail to embolden all teachers—even those who have never designed an experiment on their own—to support science, technology, engineering, and mathematics student-researchers through the experimental process. Early chapters—research design, background research, hypothesis writing, and proposal writing—help students conceive and implement their projects. Later chapters on descriptive and inferential statistics, as well as graphical representations, help them correctly interpret their data. Final chapters enable students to effectively communicate their results by writing and documenting a STEM research paper, as well as by preparing for oral and poster presentations. Included are student handouts, checklists, presentation observation sheets, and sample assessment rubrics.
@@ -25,17 +20,11 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 978-1-936137-24-4 (alk. paper)
-
 ## 1. Research--Study and teaching (Secondary) I. Title
-
-Q180.A1H37 2011 507.1’2--dc23 2011023245 eISBN 978-1-936137-41-1
 
 NSTA is committed to publishing material that promotes the best in inquiry-based science education. However, conditions of actual use may vary, and the safety procedures and practices described in this book are intended to serve only as a guide. Additional precautionary measures may be required. NSTA and the authors do not warrant or represent that the procedures and practices in this book meet any safety code or standard of federal, state, or local regulations. NSTA and the authors disclaim any liability for personal injury or damage to property arising out of or relating to the use of this book, including any of the recommendations, instructions, or materials contained therein.
 
 ## PERMISSIONS
-
-Book purchasers may photocopy, print, or e-mail up to five copies of an NSTA book chapter for personal use only; this does not include display or promotional use. Elementary, middle, and high school teachers may reproduce forms, sample documents, and single NSTA book chapters needed for classroom or noncommercial, professional-development use only. E-book buyers may download files to multiple personal devices but are prohibited from posting the files to third-party servers or websites, or from passing files to non-buyers. For additional permission to photocopy or use material electronically from this NSTA Press book, please contact the Copyright Clearance Center (CCC) (www.copyright.com; 978-750-8400). Please access www.nsta.org/permissions for further information about NSTA’s rights and permissions policies.
 
 ## CONTENTS
 
@@ -197,10 +186,6 @@ If you are working on your research project with other students, the wiki can be
 
 Google Docs Google Docs is a public place where anyone with an account can upload documents to the web for storage and sharing purposes. A document is loosely defined as any file, including, for example, spreadsheets, images, PowerPoint presentations, and Word documents. Documents can be accessed anywhere a person has internet access, even on a phone. At the very least, it is a place where you should periodically post your proposal or STEM research paper for safe storage during the writing process. Google Docs, like wikis, allows you to invite other people to view or edit the uploaded document. This is a great way to work collaboratively with group members on the same document without worrying if the “version” of the file is the most current one. Sending documents as attachments via e-mail may be more private, but it is less efficient. Keeping Google Docs organized is easy because files can be put into folders, much as you do on your own computer, and whole Google folders can be shared. If your group decides to make a wiki, you could even organize one of the wiki pages to link to the Google Docs that the group is currently working on. Although Google Docs is the share location that I will refer to throughout this book, you may have access to alternatives, such as a network drive, or a classroom space within a school portal. Websites such as Buzzword, Zoho, Zimbra, and Microsoft Office Live provide similar services.
 
-Social Bookmarking Social bookmarking—an online bookmarking system—will save you time as you begin researching your topic and developing the research design. If working individually, any bookmarking system (if organized into appropriate folders) is sufficient. However, if you are working with others on this research project, consider a social bookmarking site like Diigo (www.diigo.com) or Delicious (www.delicious.com). These sites allow you to organize your bookmarks as well as leave comments on web pages, highlight text, and share those bookmarks and edits with the members of your group.
-
-References ACT. 2009. Focusing on the essentials for college and career readiness: Policy implications of the 2009 ACT National Curriculum Survey results. Retrieved May 16, 2011, from www.act.org/research/curricsurvey.html.
-
 Ayers, J. M., and K. M. Ayers. 2007. Teaching the scientific method: It’s all in the perspective. American Biology Teacher 69 (1): 17–21.
 
 Bereiter, C., and M. Scardamalia. 2009. Teaching how science really works. Education Canada 49 (1): 14–17.
@@ -231,13 +216,9 @@ Beginning a STEM Research Project
 
 Key Terms Data: the measurements and observations that are collected as part of a research project, often a combination of measurements and descriptions.
 
-Dependent variable: a dependent variable is what you measure in the experiment and what is affected during the experiment. The dependent variable responds to the independent variable. It is called dependent because it "depends" on the independent variable. In a scientific experiment, you cannot have a dependent variable without an independent variable. (Source: www.ncsu.edu/labwrite/po/dependentvar.htm)
-
 Entity: the subject, specimen, or item that is studied as part of a STEM research project.
 
 Experiment: the test conducted as a part of the scientific method that includes a hypothesis; a variable that can be manipulated by the researcher (independent variable); and variables that can be observed, measured, calculated, and compared (dependent variables).
-
-Independent variable: the variable you have control over, what you can choose and manipulate. It is usually what you think will affect the dependent variable. In some cases, you may not be able to manipulate the independent variable. It may be something that is already there and is fixed or something you would like to evaluate with respect to how it affects something else. Example: You are interested in how stress affects heart rate in humans. Your independent variable would be the stress and the dependent variable would be the heart rate. You can directly manipulate stress levels in your human subjects and measure how those stress levels change heart rate. (Source: www.ncsu.edu/labwrite/po/independentvar.htm)
 
 Scientific method: the scientific method is an inquiry process used to systematically study, investigate, and provide explanations for observed phenomenon in the natural world.
 
@@ -281,8 +262,6 @@ Statistical analysis: • Running statistics • Putting data in tables and grap
 
 Many times just knowing the tools, instruments, or tests that are available to study certain topics can spark an idea for a research project. Use the list in Table 1.1 to consider entities within STEM fields that you might study. Though you may think you have limited access to some of the equipment listed here, do not underestimate your ability to improvise. You may be able to design an instrument to measure what you want. And there are technologies you already have that you might use, such as your graphing calculator or cell phone. A calculator-based laboratory (CBL) system or calculator-based ranger (CBR), along with probes, might be easy to obtain from various departments at your school. Smart phones with inexpensive applications (apps) may also help you measure something if you do not have access to more expensive equipment.
 
-Once you have a general topic, start asking yourself questions. Let your natural curiosity lead you to possible ideas to study. However, stay away from “why” questions—for example, “Why do more algae seem to grow in slower moving stream water?” They tend to be too broad and worded in such a way that they are not testable. Instead, you can rephrase a question to break it into smaller parts, which are scientifically testable—e.g., “Which stream velocities encourage more growth of algae?” That question is now a measureable and, therefore, testable question. Note: Testable questions often begin with How, What, When, Who, or Which. Write several questions that you might be interested in studying. The Southwest Center for Education and the Natural Environment has an inquiry tutorial that can help you write some preliminary research questions (http://scene.asu.edu/habitat/inquiry.html).
-
 Focusing Preliminary Research Topics Once you have a preliminary research topic, you will need to focus it, using a new group of questions. Finding answers to each of these questions will help you get closer to what it is you will eventually study. Figure 1.2 shows the connection of the following questions: What entity should I study? What could I manipulate or change? What effects could I measure? What skills, knowledge, and tools would I need?
 
 It is likely that your teacher will encourage you to narrow your “effects” (things to count and/or to describe) to only one or two items, most likely one or two you will measure and one or two you will describe. Use Table 1.2 as a guide as you complete “Student Handout #1: Focusing Preliminary Research Ideas,” page 14. The goal of this stage is to brainstorm various combinations of the same research topic. Try and list as many answers to the questions in Figure 1.2 as possible. Don’t worry yet about what will work, just generate ideas.
@@ -303,11 +282,7 @@ Ethical Issues In addition to lab safety, you must also consider the ethics of c
 
 At universities, however, before researchers conduct experiments, they must receive training and then file certain papers (documentation) with a local Internal Review Board (IRB). University researchers planning to do research with vertebrate animals must receive training and then file documentation with an Institutional Animal Care and Use Committee (IACUC) to be sure that animals will be treated humanely. The main concern about beginning researchers (such as yourself) is that they are not aware of the issues that may violate the "acceptable behavior" norm. Therefore, there are national regulations put in place to ensure that researchers have thoroughly thought through their experimental procedures, understand the safety and ethical issues, can justify their methods, and can ensure the humane treatment of the entities being studied. Local, state, national, or international fairs and symposia* interpret these regulations and provide guidelines for their research participants. Your teacher will provide resources to help you obtain any documentation and committee approval that your experimental design may require for competition.
 
-Even if your project is not being submitted for a competition, safety and ethics must still be considered. Since the Intel International Science and Engineering Fair (ISEF) (www.societyforscience.org/isef/document) and the Junior Science and Humanities Symposium (JSHS) (www.science.siu.edu/ijshs/pdf/ijshs.pdf) are the largest organizations to host high school state fairs, the guidelines and documentation posted on their websites are excellent models to follow. If you are working with a mentor in industry or at a university, follow the safety and ethical guidelines set forth by that organization.
-
 **Resources for Laboratory Safety** *   Hurr, A. K. 2000. CRC Handbook of laboratory safety. 5th ed. Boca Raton, FL: CRC Press.
-
-*   Flinn Scientific: www.flinnsci.com/Sections/SafetyGeneralLaboratorySafety.asp *   Princeton University: web.princeton.edu/sites/ehs/labsafetymanual/index.html *   Duke University & Duke Medicine: www.safety.duke.edu/safetymanuals/Lab/default.htm *   World Health Organization: www.who.int/csr/resources/publications/biosafety/WHO_CDS_CSR_LYO_2004_11/en
 
 **Human Subjects as Research Entities** While studying human subjects may be intriguing, procedures must be taken into consideration that protect the rights and welfare of the participants. Most human subject studies require informed consent or assent from the research subjects and IRB approval. Informed consent or assent** is the process by which researchers inform potential study participants about a study and gain verbal or written consent from those participants. If you are asking an individual under the age of 18 to participate, you must also obtain consent from the parent or guardian of that individual.
 
@@ -320,8 +295,6 @@ As you begin writing your proposal in Chapter 5, remember to include IRB committ
 **Other Restricted-Research Entities** Nonhuman vertebrates, human subjects, and potentially hazardous biological agents have specific national regulations that must be followed. Organizers of various science fairs or symposia accept these topics in different ways. Some do not allow high school students to study within these topics at all; others place specific restrictions and require certain documentation. Table 1.3 lists subcategories within a restricted research topic, requirements that may be made by a fair or symposia organization, and alternative project ideas.
 
 **Table 1.3: Restrictions, Possible Requirements, and Alternatives for Certain Research Topics**
-
-| Restricted Research Topic | Possible Requirements | Alternative Topics | | :--- | :--- | :--- | | **Nonhuman Vertebrates** | • Supervision by a qualified scientist or designated supervisor.<br>• Veterinarian consultation during experiment.<br>• Approval by the Scientific Review Committee (SRC) and/or by the International Animal Care and Use Committee (IACUC) before research begins. | • Do similar studies on other organisms such as algae, ants, beetles, crabs, crayfish, protists, fruit flies, houseflies, lichen, yeast, vinegar eels, slugs, snails, earthworms, planaria, or mealworms. | | **Human Subjects** | • Review and preapproval by the Institutional Review Board (IRB).<br>• If medical information is involved, compliance with HIPAA (Health Information Privacy) regulations.<br>• Risk assessment.<br>• Consent/assent forms for participants to complete.<br>• Supervision by a qualified scientist or designated supervisor. | • Obtain data that are already publically available.<br>• Develop a research design that does not include physical activity or a design that uses data that are anonymous (not able to be linked to a particular participant). | | **Potentially Hazardous Biological Agents** | • Risk assessment.<br>• SRC and/or IACUC approval before research begins.<br>• Human and Vertebrate Animal Tissue Form (at www.societyforscience.org/isef). | • Obtain tissue cultures from reputable biological supply houses.<br>• Use baker's yeast, bacteria, or fungi that are approved by the International Science and Engineering Fair (ISEF) organization.<br>• Use plant tissue, meat or meat tissue, archeological specimens, or prepared fixed tissue. |
 
 *Source: Adapted from International rules for precollege science research: Guidelines for science and engineering fairs. 2010. http://apps.societyforscience.org/isef/rules11.pdf*
 

@@ -1,0 +1,3072 @@
+# Physics Laboratory Experiments Jerry D Wilson Cecilia A Hern ndez Hall Z Library
+
+> 来源文件：pre_Physics_Laboratory_Experiments_Jerry_D_Wilson_Cecilia_A_Hern_ndez_Hall_Z_Library.txt
+> 字符数（约）：247483
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+公制前缀 Multiple Name Abbreviation 1,000,000,000,000,000,000 1018 exa E 1,000,000,000,000,000 1015 peta P 1,000,000,000,000 1012 tera T 1,000,000,000 109 giga G 1,000,000 106 mega M 1,000 103 kilo k 100 102 hecto h 10 101 deka da 1 1 — —
+
+## 0.1 10–1 deci
+
+## 0.01 10–2 centi
+
+## 0.001 10–3 milli
+
+## 0.000001 10–6 micro
+
+## 0.000000001 10–9 nano n
+
+## 0.000000000001 10–12 pico p
+
+## 0.000000000000001 10–15 femto f
+
+## 0.000000000000000001 10–18 atto a
+
+物理常数 Acceleration due to gravity g 9.8 m/s² = 980 cm/s² = 32.2 ft/s² Universal gravitational constant G 6.67310211 N-m²/kg² Electron charge e 1.60 × 10–19 C Speed of light c 3.0 × 108 m/s = 3.0 × 1010 cm/s = 1.86 × 105 mi/s Boltzmann’s constant k 1.38 × 10–23 J/K Planck’s constant h 6.63 × 10–34 J·s = 4.14 × 10–15 eV·s ħ (h/2π) = 1.05 × 10–34 J·s = 6.58 × 10–16 eV·s Electron rest mass m 9.11 × 10–31 kg ≈ 5.49 × 10–4 u ≈ 0.511 MeV Proton rest mass m 1.673 × 10–27 kg ≈ 1.0078 u ≈ 938.3 MeV Neutron rest mass m 1.675 × 10–27 kg ≈ 1.00867 u ≈ 939.3 MeV Coulomb’s law constant k 1/4πε = 9.0 × 109 N·m²/C² Permittivity of free space ε 8.85 × 10–12 C²/N·m² Permeability of free space μ 4π × 10–7 = 1.26 × 10–6 T·m/A
+
+天文与地球数据 Radius of the Earth equatorial 6.378 × 106 m = 3963 mi polar 6.357 × 106 m = 3950 mi average 6.4 × 103 km (for general calculations)
+
+Mass of the Earth 6.0 × 1024 kg the Moon 7.43 × 1022 kg ≈ 1/81 mass of Earth the Sun 2.0 × 1030 kg Average distance of the Earth from the Sun 1.5 × 108 km = 93 × 106 mi Average distance of the Moon from the Earth 3.8 × 105 km = 2.4 × 105 mi Diameter of the Moon 3500 km ≈ 2160 mi Diameter of the Sun 1.4 × 106 km ≈ 864,000 mi
+
+物理实验室实验 第七版 Jerry D. Wilson Lander University Cecilia A. Hernández-Hall American River College
+
+Australia • Brazil • Japan • Korea • Mexico • Singapore • Spain • United Kingdom • United States
+
+Physics Laboratory Experiments, © 2010, 2005 Brooks/Cole, Cengage Learning. Seventh Edition. ALL RIGHTS RESERVED. No part of this work covered by the copyright herein may be reproduced, transmitted, stored, or used in any form or by any means graphic, electronic, or mechanical, including but not limited to photocopying, recording, scanning, digitizing, taping, Web distribution, information networks, or information storage and retrieval systems, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without the prior written permission of the publisher.
+
+Jerry D. Wilson Cecilia A. Hernández-Hall Publisher: Mary Finch Development Editor: Brandi Kirksey Editorial Assistant: Joshua Duncan Senior Media Editor: Rebecca Berardy-Schwartz Marketing Manager: Nicole Mollica Marketing Coordinator: Kevin Carroll Marketing Communications Manager: Belinda Krohmer Associate Content Project Manager: Jill Clark Art Director: Cate Barr Senior Print Buyer: Diane Gibbons Production Service: Pre-Press PMG Senior Photo Editor: Jennifer Meyer Dare Photo Researcher: Pre-Press PMG Cover Designer: Hannah Wellman Cover Image: A teacher adjusting a scientific instrument, © Veer Incorporated
+
+Brooks/Cole 20 Channel Center Street Boston, MA 02210 USA
+
+Cengage Learning is a leading provider of customized learning solutions with office locations around the globe, including Singapore, the United Kingdom, Australia, Mexico, Brazil, and Japan. Locate your local office at international.cengage.com/region. Cengage Learning products are represented in Canada by Nelson Education, Ltd. For your course and learning solutions, visit www.cengage.com. Purchase any of our products at your local college store or at our preferred online store www.ichapters.com.
+
+Printed in the United States of America 1 2 3 4 5 6 7 13 12 11 10 09
+
+Library of Congress Control Number: 2009927944 ISBN-13: 978-0-547-22748-1 ISBN-10: 0-547-22748-5
+
+“What is the meaning of it all, Mr. Holmes?” “Ah, I have no data. I cannot tell,” he said — Arthur Conan Doyle, The Adventures of the Copper Beeches, 1892
+
+目录 [Key: GL (Guided Learning), TI (Traditional Instruction), and CI (Computer Instruction), GL is associated only with TI experiments. See Preface.]
+
+前言 vii 引言 ix 为何进行实验测量 ix 实验室通用步骤 ix 装订卷中的实验
+
+## 1. 实验不确定度（误差）与数据分析
+
+## 2. 测量仪器（质量、体积与密度）
+
+3. (GL) 科学方法：单摆 35 4. (TI-GL/CI) 匀加速运动（包括实验末尾的 TI 自由落体火花计时器方法） 47
+
+## 5. 矢量的加法与分解：力台
+
+6. (TI-GL/CI) 牛顿第二定律：阿特伍德机 83 7. (TI/CI) 线性动量守恒 103 8. (GL) 抛体运动：弹道摆 127
+
+## 9. 向心力
+
+10. (TI/CI) 摩擦 155 11. (GL) 功与能 175 12. (GL) 力矩、平衡与重心 189 13. (GL) 简单机械：机械优势 203 14. (TI/CI) 简谐运动 219
+
+## 15. 弦上的驻波
+
+## 16. 线性膨胀的热系数
+
+## 17. 金属的比热
+
+## 18. 阿基米德原理：浮力与密度
+
+## 19. 场与等势面
+
+20. (TI/CI) 欧姆定律 291
+
+## 21. 电阻的测量：安培表-伏特表法与惠斯通电桥法
+
+## 22. 电阻的温度依赖性
+
+23. (TI/CI) 串联与并联电阻 335
+
+## 24. 焦耳热
+
+## 25. RC 时间常数（手动计时）
+
+26. (TI/CI) RC 时间常数（电子计时） 375
+
+## 27. 反射与折射
+
+## 28. 球面镜与透镜
+
+29. (TI) 偏振光 (CI) 马吕斯定律 419
+
+## 30. 棱镜光谱仪：色散与折射率
+
+## 31. 线状光谱与里德伯常数
+
+32. (TI) 透射衍射光栅：测量光的波长 (CI) 单缝与双缝衍射 457
+
+## 33. 核辐射的探测：盖革计数器
+
+## 34. 放射性半衰期
+
+## 35. 核辐射的吸收
+
+可定制订购的实验 36. (TI/CI) 转动与转动惯量
+
+## 37. 角动量与能量守恒：弹道摆
+
+## 38. 弹性：杨氏模量
+
+## 39. 空气柱共振：空气中的声速
+
+40. (TI) 潜热：水的熔化热与汽化热 (CI) 熔化热：水
+
+## 41. 牛顿冷却定律：温度计的时间常数
+
+## 42. 电位计：电动势与端电压
+
+## 43. 电压表与电流表
+
+## 44. 电阻率
+
+## 45. 多回路电路：基尔霍夫定律
+
+## 46. 地球磁场
+
+## 47. 示波器入门
+
+48. (TI/CI) 交流电路中的相位测量与谐振 49. (TI/CI) 电磁感应
+
+## 50. 电子质量：e/m 测量
+
+ion (CI)
+
+• Equipment Needed The use of computerized instruction and equipment has become increasingly popular in introductory physics laboratories. To accommodate this, 10 experiments have both TI and CI sections, the latter of which describes an experiment using computerized equipment.* The TI and CI components generally treat the same principles, but from different perspectives. These experiments give the instructor the option of doing the TI experiment, the CI experiment, or both. It is suggested that in some instances students do the hands-on TI experiment first, so as to gain a basic knowledge of what is being measured. It is here that the physical parameters of the experiment are clearly associated with principles and results. Once students have this type acquaintance with experimental concepts, they can better perform the CI experiment (or view it as a demonstration if limited CI equipment is available). Then the student can better understand the computer procedure and analysis of electronic recorded data. This is particularly important in graphical analysis, where
+
+• Theory • Experimental Procedure • Laboratory Report • Post-lab Questions
+
+Features include:
+
+Laboratory Safety. Safety is continually stressed and highlighted in the manual. This critical issue is expanded upon in the Introduction to the manual.
+
+Advance Study Assignments. Students often come to the laboratory unprepared, even though they should have read the experiment before the lab period to familiarize themselves with it. To address this problem, an Advance Study Assignment precedes each experiment. The assignment consists of a set of questions drawn from the Theory and Experimental Procedures sections of the experiment. To answer the questions, students must read the experiment before the lab period; consequently, they will be better prepared. It is recommended that the Advance Study Assignment be collected at the beginning of the laboratory period.
+
+Example Calculations. In the Theory section of some experiments, sample calculations that involve the equations and mathematics used in the experiment have been included where appropriate. These demonstrate to the student how experimental data are applied.
+
+Illustrations. Over 200 photographs and diagrams illustrate experimental procedures, equipment, and computer programs. To allow for variation in laboratory equipment, different types of equipment that can be used are often illustrated.
+
+Laboratory Reports. Because a standardized format for laboratory reports greatly facilitates grading by the instructor, a Laboratory Report is provided for both TI and CI experiments. These reports provide a place for recording data, calculations, experimental results, and analyses. Only the Laboratory Report and post-lab Questions that follow it need to be submitted for grading. The Laboratory Report tables are organized for easy data recording and analysis. Students are reminded to include the units of measurement.
+
+Maximum Application of Available Equipment. Laboratory equipment at many institutions is limited, and often only standard equipment, purchased from scientific suppliers, is available. The TI experimental procedures in this manual are described for different types of common laboratory apparatus, thus maximizing the application of the manual.
+
+Instructor’s Resource Manual The Instructor’s Resource Manual is a special feature and resource for the instructor. It is available online on the instructor Web site prepared to accompany the seventh edition of Physics Laboratory Experiments. To view a sampling of instructor materials, go to www.cengage.com/Physics, and click on the link for Algebra and Trigonometry Based Lab Manuals. For the seventh edition of Physics Laboratory Experiments, clicking the About This Product link will allow you to view online resources including the Instructor’s Resource Manual. You may contact your Cengage representative if you need new access to this password-protected material.
+
+*Four more TI/CI experiments are available in the customized listing in the Table of Contents.
+
+Example Calculations. In the Theory section of some experiments, sample calculations that involve the equations and mathematics used in the experiment have been included where appropriate. These demonstrate to the student how experimental data are applied.
+
+Professor Fred B. Otto, previously of the Maine Maritime Academy, who has over 20 years of teaching and laboratory experience, has revised this manual. He retained the general format of the previous edition. For each experiment, there are (1) Comments and Hints, (2) Answers to post-Experiment Questions, and (3) Post-lab Quiz Questions [completion and multiple-choice (with answers), and essay]. The Instructor’s Resource Manual also includes laboratory safety references, lists of scientific equipment suppliers and physics software suppliers, and graph paper copy masters.
+
+Of course, the publication of this manual would not have been possible without a great deal of help. Professor Hernández and I would like to thank the people at PASCO—in particular, Paul A. Stokstad, Dave Griffith, Jon and Ann Hanks—for their support and help. We thank Fred B. Otto for his in-depth review of the experiments. Thanks also goes to Professor Jerry R. O’Connor, of San Antonio College, who reviewed and made helpful suggestions for the Guided Learning feature. We are grateful to Mary Finch, publisher, Brandi Kirksey, associate developmental editor, Joshua Duncan, editorial assistant, Jill Clark, associate content project manager, Nicole Mollica, marketing manager, and to Suganya Selvaraj at Pre-Press PMG. We both hope that you will find the seventh edition of Physics Laboratory Experiments helpful and educational. And we urge anyone—student or instructor—to pass on to us any suggestions that you might have for improvement.
+
+Jerry D. Wilson Emeritus Professor of Physics Lander University Greenwood, South Carolina jwilson@greenwood.net
+
+Cecilia A. Hernández-Hall Professor of Physics American River College Sacramento, California hernanc@arc.losrios.edu
+
+Introduction
+
+Why We Make Experimental Measurements When you can measure what you are speaking about and express it in numbers, you know something about it; but when you cannot measure it, when you cannot express it in numbers, your knowledge is of a meager and unsatisfactory kind.
+
+## LORD KELVIN
+
+(1824–1907)
+
+As Lord Kelvin so aptly expressed, we measure things to know something about them—so that we can describe objects and understand phenomena. Experimental measurement is the cornerstone of the scientific method, which holds that no theory or model of nature is tenable unless the results it predicts are in accord with experiment.
+
+The main purpose of an introductory physics laboratory is to provide “hands-on” experiences of various physical principles. In so doing, one becomes familiar with laboratory equipment, procedures, and the scientific method. In general, the theory of a physical principle will be presented in an experiment, and the predicted results will be tested by experimental measurements. Of course, these well-known principles have been tested many times before, and there are accepted values for certain physical quantities. Basically you will be comparing your experimentally measured values to accepted theoretical or measured values. Even so, you will experience the excitement of the scientific method. Imagine that you are the first person to perform an experiment to test a scientific theory.
+
+General Laboratory Procedures
+
+Safety The most important thing in the laboratory is your safety and that of others. Experiments are designed to be done safely, but proper caution should always be exercised. A potential danger comes from a lack of knowledge of the equipment and procedures. Upon entering the physics lab at the beginning of the lab period, you will probably find the equipment for an experiment on the laboratory table. Restrain your curiosity and do not play with the equipment. You may hurt yourself and/or the equipment. Do not touch or turn on laboratory equipment until it has been explained and permission has been given by the instructor.
+
+Also, certain items used in various experiments can be particularly dangerous, for example, hot objects, electricity, mercury lamps, and radioactive sources. In some instances, such as with hot objects and electricity, basic common sense and knowledge are required. However, in other instances, such as with mercury lamps and radioactive sources, you may not be aware of the possible dangers. Mercury lamps may emit ultraviolet radiation that can be harmful to your eyes. Consequently, some sources need to be properly shielded. Some radioactive sources are solids and are encapsulated to prevent contact. Others are in liquid form and are transferred during an experiment, so there is a danger of spillage. Proper handling is therefore important.
+
+In general, necessary precautions will be given in the experiment descriptions. Note them well. When you see the arrow symbol in the margin as illustrated here, you should take extra care to follow the procedure carefully and adhere to the precautions described in the text. As pointed out earlier, experiments are designed to be done safely. Yet a common kitchen match can be dangerous if used improperly. Another good rule for the laboratory is:
+
+If you have any questions about the safety of a procedure, ask your instructor before doing it.
+
+The physics lab is a place to learn and practice safety.
+
+Equipment Care The equipment provided for the laboratory experiment is often expensive and in some instances quite delicate. If used improperly, certain pieces of apparatus can be damaged. The general rules given above concerning personal safety also apply to equipment care. Even after familiarizing oneself with the equipment, it is often advisable or required to have an experimental setup checked and approved by the instructor before putting it into operation. This is particularly true for electrical experiments. Applying power to improperly wired circuits can cause serious damage to meters and other pieces of apparatus.
+
+equipment. If a piece of equipment is broken or does not function properly, it should be reported to the laboratory instructor. A good general rule is: Also, after you complete an experiment, the experimental setup should be disassembled and left neatly as found, unless you are otherwise instructed. If you accidentally break some equipment or the equipment stops working properly during an experiment, report it to your instructor. Otherwise, the next time the equipment is used, a great deal of time may be wasted trying to get good results.
+
+Laboratory Reports A laboratory report form is provided for each experiment in which experimental data are recorded. This should be done neatly. Calculations of experimental results should be included. Remember, the neatness, organization, and explanations of your measurements and calculations in the laboratory report represent the quality of your work.
+
+Name Section Date Lab Partner(s)
+
+Advance Study Assignment Read the experiment and answer the following questions.
+
+1. Do experimental measurements give the true value of a physical quantity? Explain.
+
+2. Distinguish between random (statistical) error and systematic error. Give an example of each.
+
+## 3. What is the difference between determinate and indeterminate errors?
+
+4. What is the difference between measurement accuracy and precision? Explain the general dependence of these properties on the various types of errors.
+
+5. What determines how many figures are significant in reported measurement values? What would be the effect of reporting more or fewer figures or digits than are significant?
+
+6. In expressing experimental error or uncertainty, when should (a) experimental error and (b) percent difference be used?
+
+7. How could the function y=3t²+14 be plotted on a Cartesian graph to produce a straight line? What would be the numerical values of the slope and intercept of the line?
+
+## INTRODUCTION AND OBJECTIVES
+
+Laboratory investigations involve taking measurements of physical quantities, and the process of taking any measurement always involves some experimental uncertainty or error.* Suppose you and another person independently took several measurements of the length of an object. It is highly unlikely that you both would come up with exactly the same results. Or you may be experimentally verifying the value of a known quantity and want to express uncertainty, perhaps on a graph. Therefore, questions such as the following arise: • Whose data are better, or how does one express the degree of uncertainty or error in experimental measurements?
+
+• How do you compare your experimental result with an accepted value?
+
+• How does one graphically analyze and report experimental data?
+
+In this introductory study experiment, types of experimental uncertainties will be examined, along with some methods of error and data analysis that may be used in subsequent experiments.
+
+After performing the experiment and analyzing the data, you should be able to do the following: 1. Categorize the types of experimental uncertainty (error), and explain how they may be reduced.
+
+2. Distinguish between measurement accuracy and precision, and understand how they may be improved experimentally.
+
+3. Define the term least count and explain the meaning and importance of significant figures (or digits) in reporting measurement values.
+
+4. Express experimental results and uncertainty in appropriate numerical values so that someone reading your report will have an estimate of the reliability of the data.
+
+5. Represent measurement data in graphical form so as to illustrate experimental data and uncertainty visually.
+
+*Although experimental uncertainty is more descriptive, the term error is commonly used synonymously.
+
+## EQUIPMENT NEEDED
+
+• Hand calculator • Rod or other linear object less than 1 m in length • 3 sheets of Cartesian graph paper • Four meter-long measuring sticks with calibrations of meter, decimeter, centimeter, and millimeter, respectively† • Pencil and ruler • French curve (optional)
+
+†A 4-sided meter stick with calibrations on each side is commercially available from PASCO Scientific.
+
+## THEORY
+
+A. Types of Experimental Uncertainty Experimental uncertainty (error) generally can be classified as being of two types: (1) random or statistical error and (2) systematic error. These are also referred to as (1) indeterminate error and (2) determinate error, respectively. Let’s take a closer look at each type of experimental uncertainty.
+
+Random (Indeterminate) or Statistical Error Random errors result from unknown and unpredictable variations that arise in all experimental measurement situations. The term indeterminate refers to the fact that there is no way to determine the magnitude or sign (+, too large; –, too small) of the error in any individual measurement. Conditions in which random errors can result include:
+
+## 1. Unpredictable fluctuations in temperature or line voltage
+
+## 2. Mechanical vibrations of an experimental setup
+
+## 3. Unbiased estimates of measurement readings by the observer
+
+Repeated measurements with random errors give slightly different values each time. The effect of random errors may be reduced and minimized by improving and refining experimental techniques.
+
+Systematic (Determinate) Errors Systematic errors are associated with particular measurement instruments or techniques, such as an improperly calibrated instrument or bias on the part of the observer. The term systematic implies that the same magnitude and sign of experimental uncertainty are obtained when the measurement is repeated several times. Determinate means that the magnitude and sign of the uncertainty can be determined if the error is identified. Conditions from which systematic errors can result include: 1. An improperly “zeroed” instrument, for example, an ammeter as shown in Fig. 1.1.
+
+2. A faulty instrument, such as a thermometer that reads 101 °C when immersed in boiling water at standard atmospheric pressure. This thermometer is faulty because the reading should be 100 °C.
+
+3. Personal error, such as using a wrong constant in calculation or always taking a high or low reading of a scale division. Reading a value from a measurement scale generally involves aligning a mark on the scale. The alignment—and hence the value of the reading—can depend on the position of the eye (parallax). Examples of such personal systematic error are shown in Fig. 1.2.
+
+Avoiding systematic errors depends on the skill of the observer to recognize the sources of such errors and to prevent or correct them.
+
+B. Accuracy and Precision Accuracy and precision are commonly used synonymously, but in experimental measurements there is an important distinction. The accuracy of a measurement signifies how close it comes to the true (or accepted) value—that is, how nearly correct it is.
+
+Example 1.1 Two independent measurement results using the diameter d and circumference c of a circle in the determination of the value of π are 3.140 and 3.143. (Recall that π = c/d.) The second result is more accurate than the first because the true value of π, to four figures, is 3.142.
+
+Precision refers to the agreement among repeated measurements—that is, the “spread” of the measurements or how close they are together. The more precise a group of measurements, the closer together they are. However, a large degree of precision does not necessarily imply accuracy, as illustrated in Fig. 1.3.
+
+Example 1.2 Two independent experiments give two sets of data with the expressed results and uncertainties of 2.5 ± 0.1 cm and 2.5 ± 0.2 cm, respectively. The first result is more precise than the second because the spread in the first set of measurements is better.
+
+The uncertainty of a number read from a measurement instrument depends on the quality of the instrument and the fineness of its measuring scale. When reading the value from a calibrated scale, only a certain number of figures or digits can properly be obtained or read. That is, only a certain number of figures are significant. This depends on the least count of the instrument scale, which is the smallest subdivision on the measurement scale. This is the unit of the smallest reading that can be made without estimating. For example, the least count of a meter stick is usually the millimeter (mm). We commonly say “the meter stick is calibrated in centimeters (numbered major divisions) with a millimeter least count.” (See Fig. 1.4.)
+
+The significant figures (sometimes called significant digits) of a measured value include all the numbers that can be read directly from the instrument scale, plus one doubtful or estimated number—the fractional part of tween 2.4 and 2.6 cm, whereas the spread in the second set of measurements is between 2.3 and 2.7 cm. That is, the measurements of the first experiment are less uncertain than those of the second. Obtaining greater accuracy for an experimental value depends in general on minimizing systematic errors. Obtaining greater precision for an experimental value depends on minimizing random errors.
+
+C. Least Count and Significant Figures In general, there are exact numbers and measured numbers (or quantities). Factors such as the 100 used in calculating percentage and the 2 in 2πr are exact numbers. Measured numbers, as the name implies, are those obtained from measurement instruments and generally involve some error or uncertainty. In reporting experimentally measured values, it is important to read instruments correctly. The degree of the least count smallest division. For example, the length of the rod in Fig. 1.4 (as measured from the zero end) is 2.64 cm. The rod’s length is known to be between 2.6 cm and 2.7 cm. The estimated fraction is taken to be 4/10 of the least count (mm), so the doubtful figure is 4, giving 2.64 cm with three significant figures.
+
+Thus, measured values contain inherent uncertainty or doubtfulness because of the estimated figure. However, the greater the number of significant figures, the greater the reliability of the measurement the number represents. For example, the length of an object may be read as 3.65 cm (three significant figures) on one instrument scale and as 3.5605 cm (five significant figures) on another. The latter reading is from an instrument with a finer scale (why?) and gives more information and reliability.
+
+Zeros and the decimal point must be properly dealt with in determining the number of significant figures in a result. For example, how many significant figures does 0.0543 m have? What about 209.4 m and 2705.0 m? In such cases, the following rules are generally used to determine significance: 1. Zeros at the beginning of a number are not significant. They merely locate the decimal point. For example, 0.0543 m has three significant figures (5, 4, and 3).
+
+2. Zeros within a number are significant. For example, 209.4 m has four significant figures (2, 0, 9, and 4).
+
+3. Zeros at the end of a number after the decimal point are significant. For example, 2705.0 has five significant figures (2, 7, 0, 5, and 0).
+
+Some confusion may arise with whole numbers that have one or more zeros at the end without a decimal point. Consider, for example, 300 kg, where the zeros (called trailing zeros) may or may not be significant. In such cases, it is not clear which zeros serve only to locate the decimal point and which are actually part of the measurement (and hence significant). That is, if the first zero from the left (300 kg) is the estimated digit in the measurement, then only two digits are reliably known, and there are only two significant figures.
+
+Similarly, if the last zero is the estimated digit (300 kg), then there are three significant figures. This ambiguity is be removed by using scientific (powers of 10) notation:
+
+## 3.0 × 10² kg has two significant figures
+
+## 3.00 × 10² kg has three significant figures
+
+This procedure is also helpful in expressing the significant figures in large numbers. For example, suppose that the average distance from Earth to the Sun, 93,000,000 miles, is known to only four significant figures. This is easily expressed in powers of 10 notation: 9.300 × 10⁷ mi.
+
+D. Computations with Measured Values Calculations are often performed with measured values, and error and uncertainty are “propagated” by the mathematical operations—for example, multiplication or division. That is, errors are carried through to the results by the mathematical operations.
+
+The error can be better expressed by statistical methods; however, a widely used procedure for estimating the uncertainty of a mathematical result involves the use of significant figures.
+
+The number of significant figures in a measured value gives an indication of the uncertainty or reliability of a measurement. Hence, you might expect that the result of a mathematical operation can be no more reliable than the quantity with the least reliability, or smallest number of significant figures, used in the calculation. That is, reliability cannot be gained through a mathematical operation.
+
+It is important to report the results of mathematical operations with the proper number of significant figures. This is accomplished by using rules for (1) multiplication and division and (2) addition and subtraction. To obtain the proper number of significant figures, one rounds the results off. The general rules used for mathematical operations and rounding follow.
+
+Significant Figures in Calculations 1. When multiplying and dividing quantities, leave as many significant figures in the answer as there are in the quantity with the least number of significant figures.
+
+2. When adding or subtracting quantities, leave the same number of decimal places (rounded) in the answer as there are in the quantity with the least number of decimal places.
+
+Rules for Rounding* 1. If the first digit to be dropped is less than 5, leave the preceding digit as is.
+
+2. If the first digit to be dropped is 5 or greater, increase the preceding digit by one.
+
+Notice that in this method, five digits (0, 1, 2, 3, and 4) are rounded down and five digits (5, 6, 7, 8, and 9) are rounded up.
+
+What the rules for determining significant figures mean is that the result of a calculation can be no more accurate than the least accurate quantity used. That is, you cannot gain accuracy in performing mathematical operations.
+
+These rules come into play frequently when doing mathematical operations with a hand calculator that may give a string of digits. ● Fig. 1.5 shows the result of the division of 374 by 29. The result must be rounded off to two significant figures—that is, to 13. (Why?)
+
+E. Expressing Experimental Error and Uncertainty Percent Error The object of some experiments is to determine the value of a well-known physical quantity—for example, the value of π.
+
+The accepted or “true” value of such a quantity found in textbooks and physics handbooks is the most accurate value (usually rounded off to a certain number of significant figures) obtained through sophisticated experiments or mathematical methods.
+
+The absolute difference between the experimental value E and the accepted value A, written |E - A|, is the positive difference in the values, for example, |24 - 22| = 2 and |42 - 22| = 2. Simply subtract the smaller value from the larger, and take the result as positive. For a set of measurements, E is taken as the average value of the experimental measurements.
+
+The fractional error is the ratio of the absolute difference and the accepted value: Fractional error = (absolute difference) / (accepted value)
+
+or Fractional error = |E - A| / A  (1.1)
+
+The fractional error is commonly expressed as a percentage to give the percent error of an experimental value.* Percent error = (absolute difference / accepted value) × 100% or Percent error = (|E - A| / A) × 100%  (1.2)
+
+*It should be noted that percent error only gives a measure of experimental error or uncertainty when the accepted or standard value is highly accurate. If an accepted value itself has a large degree of uncertainty, then the percent error does not give a measure of experimental uncertainty.
+
+Percent Difference In many instances there will be more than two measurement values.
+
+When there are three or more measurements, the percent difference is found by dividing the absolute value of the difference of the extreme values (that is, the values with greatest difference) by the average or mean value of all the measurements.
+
+Percent difference = (|extreme value 1 - extreme value 2| / average) × 100% = |5.0 - 4.6| / ((5.0 + 4.6)/2) × 100% = 0.4 / 4.8 × 100% = 8% As in the case of percent error, when the percent difference is large, it is advisable to check the experiment for errors and possibly make more measurements.
+
+Note: To avoid rounding errors, the preferred order of operations is addition and subtraction before multiplication and division.* If the uncertainty in experimentally measured values as expressed by the percent error is large, you should check for possible sources of error. If found, additiona 测量应该进行多次以减小不确定性。你的指导老师可能希望为实验结果设定一个最大的百分误差。
+
+**平均（均）值** 大多数实验测量会重复多次，所有试验得到完全相同的结果的可能性很小。对于一组以随机误差为主的测量（即所有测量同样可信或概率相同），可以通过数学证明，真实值最可能由平均值或均值给出。
+
+一组N个测量值的平均值或均值x为： x = (1/N) * Σ_{i=1}^{N} x_i  (1.4)
+
+其中，求和符号Σ是表示从x_1到x_N的N个测量值之和的简写符号。（x通常简称为均值。）
+
+**百分差异** 有时，当没有已知或公认值时，比较两次测量的结果是有启发性的。这种比较用百分差异表示，即两个实验值E_2和E_1的绝对差与两个结果的平均值或均值的比值，以百分比表示。
+
+百分差异 = [ |E_2 - E_1| / ( (E_1 + E_2) / 2 ) ] * 100%  (1.3)
+
+除以实验值的平均值或均值是合理的，因为无法判定两个结果中哪个更好。
+
+**示例 1.5** 两个测量值4.6 cm和5.0 cm之间的百分差异是多少？
+
+**解：** 当 E_1 = 4.6 cm 且 E_2 = 5.0 cm 时， 百分差异 = [ |5.0 - 4.6| / ( (4.6 + 5.0) / 2 ) ] * 100%
+
+**示例 1.6** 以下一组数字的平均值或均值是多少：5.42, 6.18, 5.70, 6.01 和 6.32？
+
+x = (1/N) * Σ_{i=1}^{N} x_i = (5.42 + 6.18 + 5.70 + 6.01 + 6.32) / 5 = 29.63 / 5 = 5.93
+
+还有其他更高级的方法来表示测量集的离散度或精度。其中两种在附录中给出。附录C：“绝对偏差与平均绝对偏差”，以及附录D：“标准偏差与最小二乘法”。
+
+**F. 数据的图形表示** 用图形形式表示实验数据通常很方便，不仅便于报告，还可以获取信息。
+
+**绘图步骤** 量值通常使用直角笛卡尔坐标系（X轴和Y轴）绘制。水平轴（X轴）称为横坐标，垂直轴（Y轴）称为纵坐标。图上一个点的位置由其坐标x和y定义，记为(x, y)，相对于原点O，即X轴和Y轴的交点。
+
+绘图时，应选择易于绘制和读取的轴刻度。图●1.6A显示了一个刻度太小的例子。这使得数据“挤在一起”，图形过小，并且主要的水平刻度值使得读取中间值变得困难。此外，数据点不应用线连接。应选择适当的刻度，使大部分图纸得到利用。图●1.6B显示了使用更合适刻度绘制的数据。
+
+还请注意图1.6A，坐标轴上的刻度单位未给出。例如，你不知道位移的单位是英尺、米、公里还是其他。刻度单位应始终包含，如图1.6B所示。使用标准单位缩写也是可接受的，并且节省时间，例如N表示牛顿，m表示米。后续的图表将采用此做法。
+
+在绘制数据点后，绘制一条由数据点描述的平滑线。平滑意味着该线不必精确通过每个点，而是连接数据点的重要区域（而不是像图1.6A那样连接数据点）。图中大致相等数量的点分布在直线两侧，形成一条“最佳拟合线”。† 在多次测定每个实验量值的情况下，绘制平均值，并将平均偏差或标准偏差绘制为误差棒。例如，表1.1中弹簧上振荡质量周期的数据绘制在●图1.7中，周期（T）对质量（m）作图。（这里的d是平均偏差，此处作为误差棒的示例说明。见附录C。）* 绘制一条平滑线，使其通过误差棒内。（你的指导老师可能需要在此时解释曲线板的使用。）
+
+图形应包含以下要素（参见图1.7）：
+
+## 1. 每个坐标轴标注所绘制的量。
+
+## 2. 所绘制量的单位。
+
+## 3. 图纸上的图形标题（通常列为y坐标对x坐标）。
+
+## 4. 你的姓名和日期。
+
+**直线图** 两个量（x和y）通常是线性相关的；即存在形如 y = mx + b 的代数关系，其中m和b是常数。当绘制这些量的值时，图形是一条直线，如●图1.8所示。
+
+代数关系中的m称为直线的斜率，等于间隔Δy/Δx的比值。任何一组间隔都可以用来确定直线图的斜率；例如，在图1.8中， m = Δy_1 / Δx_1 = 15 cm / 2.0 s = 7.5 cm/s 或 m = Δy_2 / Δx_2 = 45 cm / 6.0 s = 7.5 cm/s
+
+应选择相对较远的点在直线上。为了获得最佳结果，即使数据点似乎位于直线上，也不应选择对应于数据点的点。
+
+代数关系中的b称为y截距，等于直线与Y轴相交点的y坐标值。在图1.8中，b = 3 cm。注意从关系式 y = mx + b 可知，当 x = 0 时，y = b。如果截距在原点(0, 0)，则b = 0。
+
+图1.8中图形的直线方程为 d = 7.5t + 3。匀速运动的一般方程具有 d = vt + d_0 的形式。因此，图1.8中的初始位移 d_0 = 3 cm，速度 v = 7.5 cm/s。
+
+物理学中常见的一些非线性函数可以通过在笛卡尔图上绘制非线性值来表示为直线。例如，如果 y = ax² + b 在常规y对x的图上绘制，将得到一条抛物线。但如果使用 x² = x'，则方程变为 y = ax' + b 其具有直线形式。
+
+这意味着绘制y对x'将得到一条直线。由于 x' = x²，因此必须绘制x的平方值。也就是说，对数据表中所有x值求平方，并将这些数字与相应的y值一起绘制。
+
+其他函数也可以通过此过程“拉直”，包括指数函数： y = Ae^(ax)
+
+在这种情况下，对两边取自然对数： ln y = ln A + ln e^(ax)
+
+或 ln y = ax + ln A （因为 ln e^x = x）
+
+绘制自然（以e为底）对数值对x的图，将得到一条斜率为a、截距为ln A的直线。
+
+类似地，对于 y = ax^n 使用常用（以10为底）对数， log y = log a + log x^n 且 log y = n log x + log a （因为 log x^n = n log x）。
+
+绘制 log y 对 log x 的图将得到一条斜率为n、截距为log a的直线。（参见附录E。）
+
+（注意：在本实验及后续实验中，如有必要，请另附计算纸。）
+
+**实验步骤** 完成实验报告中的练习，展示计算过程并按要求附上图形。
+
+*注：虽然百分误差通常使用绝对差 |E - A| 定义，但一些指导老师更喜欢使用 (E - A)，这会导致正（+）或负（-）的百分误差，例如示例1.4中的 -0.6%。对于一系列测量和计算出的百分误差，这表明存在系统误差。
+
+†一组数据点在图形上的“最佳拟合”直线可以通过称为线性回归的统计程序确定，使用所谓的最小二乘法。该方法通过微分学确定最拟合的直线，这超出了本手册的范围。所得方程在附录D中给出，以及确定最佳拟合直线的斜率和截距的程序。
+
+*平均偏差和标准偏差分别在附录C和D中讨论。它们表示一组测量值的离散度。这些方法由你的指导老师自行决定是否选用。
+
+*作为一般规则，将原点或零点右侧或上方第一个主要刻度分度的单位方便地选为1、2或5（或它们的倍数或约数，例如10或0.1），这样次要（中间）刻度分度可以轻松插值和读取。
+
+ysis
+
+Figure 1.8 Straight-line slope. Examples of intervals for determining the slope of a straight line. The slope is the ratio of Dy/Dx (or Dd/Dt). Any set of intervals may be used, but the endpoints of an interval should be relatively far apart, as for Dy/Dx.
+
+Displacement (d) vs time (t) for uniform motion
+
+Dy = 85 − 40 = 45 cm Dy 45 Slope = = = 7.5 cm/s Dx 6.0 Dx = 11.0 − 5.0 = 6.0 s
+
+Dy = 25 − 10 = 15 cm Dy 15 Slope = = = 7.5 cm/s Dx 2.0 Dx = 3.0 − 1.0 = 2.0 s
+
+This page intentionally left blank
+
+## EXPERIMENT
+
+Experimental Uncertainty (Error) and Data Analysis Laboratory Report
+
+## 1. Least Counts
+
+(a) Given meter-length sticks calibrated in meters, decimeters, centimeters, and millimeters, respectively. Use the sticks to measure the length of the object provided and record with the appropriate number of significant figures in Data Table 1.
+
+## DATA TABLE
+
+Purpose: To express least counts and measurements.
+
+Object Length m dm cm mm Actual length (Provided by instructor after measurements)
+
+Comments on the measurements in terms of least counts:
+
+(b) Find the percent errors for the four measurements in Data Table 1.
+
+## DATA TABLE
+
+Purpose: To express the percent errors.
+
+Object Length Least Count % Error Comments on the percent error results:
+
+## 2. Significant Figures
+
+(a) Express the numbers listed in Data Table 3 to three significant figures, writing the numbers in the first column in normal notation and the numbers in the second column in powers of 10 (scientific) notation.
+
+## DATA TABLE
+
+Purpose: To practice expressing significant figures.
+
+## 0.524 __________ 5280 __________
+
+## 15.08 __________ 0.060 __________
+
+1444 __________ 82.453 __________
+
+## 0.0254 __________ 0.00010 __________
+
+83,909 __________ 2,700,000,000 __________
+
+(b) A rectangular block of wood is measured to have the dimensions 11.2 cm x 3.4 cm x 4.10 cm. Compute the volume of the block, showing explicitly (by underlining) how doubtful figures are carried through the calculation, and report the final answer with the correct number of significant figures.
+
+Calculations Computed volume (show work) (in powers of 10 notation) ___________________ (units)
+
+(c) In an experiment to determine the value of π, a cylinder is measured to have an average value of 4.25 cm for its diameter and an average value of 13.39 cm for its circumference. What is the experimental value of π to the correct number of significant figures?
+
+Calculations (show work) Experimental value of π ___________________ (units)
+
+## 3. Expressing Experimental Error
+
+(a) If the accepted value of π is 3.1416, what are the fractional error and the percent error of the experimental value found in 2(c)?
+
+Calculations (show work) Fractional error ___________________ Percent error ___________________
+
+(b) In an experiment to measure the acceleration g due to gravity, two values, 9.96 m/s² and 9.72 m/s², are determined. Find (1) the percent difference of the measurements, (2) the percent error of each measurement, and (3) the percent error of their mean. (Accepted value: g = 9.80 m/s².)
+
+Calculations (show work) Percent difference ___________________ Percent error of E1 ___________________ Percent error of E2 ___________________ Percent error of mean ___________________
+
+(c) Data Table 4 shows data taken in a free-fall experiment. Measurements were made of the distance of fall (y) at each of four precisely measured times. Complete the table. Use only the proper number of significant figures in your table entries, even if you carry extra digits during your intermediate calculations.
+
+## DATA TABLE
+
+Purpose: To practice analyzing data.
+
+Time t Distance (m) (Optional) t² (s) y y y y y y d ( )
+
+1 2 3 4 5 0 0 0 0 0 0
+
+## 0.50 1.0 1.4 1.1 1.4 1.5
+
+## 0.75 2.6 3.2 2.8 2.5 3.1
+
+## 1.00 4.8 4.4 5.1 4.7 4.8
+
+## 1.25 8.2 7.9 7.5 8.1 7.4
+
+(d) Plot a graph of y versus t (optional: with 2d error bars) for the free-fall data in part (c). Remember that t = 0 is a known point.
+
+(e) The equation of motion for an object in free fall starting from rest is y = ½ gt², where g is the acceleration due to gravity. This is the equation of a parabola, which has the general form y = ax².
+
+Convert the curve into a straight line by plotting y versus t². That is, plot the square of the time on the abscissa. Determine the slope of the line and compute the experimental value of g from the slope value.
+
+Calculations (show work) Experimental value of g from graph _____________________ (units)
+
+(f) Compute the percent error of the experimental value of g determined from the graph in part (e). (Accepted value: g = 9.8 m/s².)
+
+Calculations (show work) Percent error ________________
+
+(g) The relationship of the applied force F and the displacement x of a spring has the general form F = kx, where the constant k is called the spring constant and is a measure of the "stiffness" of the spring. Notice that this equation has the form of a straight line.
+
+Find the value of the spring constant k of the spring used in determining the experimental data plotted in the Fig. 1.6B graph. (Note: Because k = F/x, the units of k in the graph are N/m.)
+
+Calculations (show work) Value of spring constant of spring in Fig. 1.6B graph ____________________ (units)
+
+(h) The general relationship of the period of oscillation T of a mass m suspended on a spring is T = 2π√(m/k), where k is the spring constant. Replot the data in Fig. 1.7 so as to obtain a straight-line graph, and determine the value of the spring constant used in the experiment. [Hint: Square both sides of the equation, and plot in a manner similar to that used in part (e).] Show the final form of the equation and calculations.
+
+Calculations (show work) Value of spring constant of spring in Fig. 1.7 ____________________ (units)
+
+(i) The data in sections (g) and (h) above were for the same spring. Compute the percent difference for the values of the spring constants obtained in each section.
+
+## QUESTIONS
+
+## 1. Read the measurements on the rulers in Fig. 1.9, and comment on the results
+
+Ruler 1 cm 0 1 2 3 4 5 6 Ruler 2 0 1 2 3 4 5 6 Ruler 3 cm 0 1 2 3 4 5 6 Figure 1.9
+
+2. Were the measurements of the block in part (b) of Procedure 2 all done with the same instrument? Explain.
+
+3. Referring to the dart analogy in Fig. 1.3, draw a dart grouping that would represent poor precision but good accuracy with an average value.
+
+4. Do percent error and percent difference give indications of accuracy or precision? Discuss each.
+
+5. Suppose you were the first to measure the value of some physical constant experimentally. How would you provide an estimate of the experimental uncertainty?
+
+## EXPERIMENT
+
+Measurement Instruments (Mass, Volume, and Density)
+
+Advance Study Assignment
+
+Read the experiment and answer the following questions.
+
+1. What is the least count of a measurement instrument, and how is it related to the number of significant figures of a measurement reading?
+
+## 2. Does a laboratory balance measure weight or mass? Explain
+
+3. What is the function of the vernier scale on the vernier caliper? Does it extend accuracy or precision? Explain.
+
+4. Distinguish between positive and negative zero errors and how corrections are made for such errors. For what kind of error does a zero correction correct?
+
+## 5. What is the purpose of the ratchet mechanism on a micrometer caliper?
+
+6. Explain how readings from 0.00 through 1.00 mm are obtained from the micrometer thimble scale when it is calibrated only from 0.00 through 0.50 mm.
+
+7. If the density of one object is greater than that of another, what does this indicate? Do the sizes of the objects affect their densities? Explain.
+
+8. Explain how the volume of a heavy, irregularly shaped object may be determined experimentally. Are there any limitations?
+
+## EXPERIMENT
+
+Measurement Instruments (Mass, Volume, and Density)
+
+## INTRODUCTION AND OBJECTIVES
+
+Common laboratory measurements involve the determination of the fundamental properties of mass and length. Most people are familiar with the use of scales and rulers or meter sticks. However, for more accurate and precise measurements, laboratory balances and vernier calipers or micrometer calipers are often used, particularly in measurements involving small objects.
+
+In this initial experiment on measurement, you will learn how to use these instruments and what advantages they offer. Density, the ratio of mass to volume, will also be considered, and the densities of several materials will be determined experimentally.
+
+After performing this experiment and analyzing the data, you should be able to do the following:
+
+## 1. Use the vernier caliper and read the vernier scale
+
+## 2. Use the micrometer caliper and read its scale
+
+3. Distinguish between mass and density, and know how to determine experimentally the density of an object or substance.
+
+## EQUIPMENT NEEDED
+
+• Laboratory balance • Vernier caliper • Micrometer caliper (metric)
+
+• Meter stick • Graduated cylinder • Cylindrical metal rod (for example, aluminum, brass, or copper)
+
+• Sphere (metal or glass, for example, a ball bearing or marble)
+
+• Short piece of solid copper wire • Rectangular piece of metal sheet (for example, aluminum)
+
+• Irregularly shaped metal object
+
+## THEORY
+
+Before making a mass determination, a balance should be check ed without a mass to make sure the scale is zeroed (reads zero). Adjustments can be made by various means on different scales.
+
+A. Laboratory Balances
+
+Some common types of laboratory balances are shown in Fig. 2.1. Mechanical balances or "scales" are used to balance the weight of an unknown mass m against that of a known mass m₁ (that is, mg = m₁g or m = m₁). The mass of the unknown is then read directly in mass units, usually grams. The weight w of an object is its mass m times a constant g, the acceleration due to gravity; g = 9.80 m/s² = 980 cm/s² (that is, w = mg or m = w/g). Some scales, such as bathroom scales, are commonly calibrated in weight (force) units, such as pounds, rather than in mass units.
+
+A set of known masses is used to balance an unknown mass on a platform balance (Fig. 2.1a). On a beam balance, the riders on the beams are used to balance the unknown mass on the platform (Fig. 2.1b). The common laboratory beam balance is calibrated in grams. In this case, the least count is 0.1 g and a reading can be estimated to 0.01 g.* (See Experiment 1 for a review of least count.)
+
+Balances with digital readouts are common (Fig. 2.1c). These have the advantages of accuracy and ease of operation. However, electronic balances are much more delicate (Fig. 2.1d). The mass value is displayed automatically, and the accuracy or number of significant figures depends on the particular balance. Some electronic balances have autocalibration and others have a keypad for calibration by the user. Most electronic balances are zeroed by pressing a "tare" button. This has the advantage that one can place an empty dish on the balance before pressing the "tare" button, and then, when the material is added to the dish, the balance displays the mass of the contents alone.
+
+Because of the wide variety of electronic balances available, if you are using one in this experiment you should first familiarize yourself with its operation. Your instructor may brief you, or an operation manual should be available. (When first using an electronic instrument, it is always advisable to read the operation manual supplied by the manufacturer.)
+
+*The official abbreviation of the gram unit is g (roman). The standard symbol for acceleration due to gravity is g (italic), where weight is given by mg, which is not to be confused with mg for milligram. Look closely so as to avoid confusion with these symbols.
+
+Figure 2.1 Laboratory balances. (a) A double-beam, double-platform Harvard trip balance, which is also called an equal-arm balance. (b) A single-platform, triple-beam balance. (c) High-form beam balances. The balance on the left has a dial mechanism that replaces the lower-mass beams. (d) A digital electronic balance. (Courtesy of Sargent-Welch.)
+
+B. The Vernier Caliper
+
+In 1631, a French instrument maker, Pierre Vernier, devised a way to improve the precision of length measurements. The vernier caliper (Fig. 2.2), commonly called a vernier, consists of a rule with a main engraved scale and a movable jaw with an engraved vernier scale. The span of the lower jaw is used to measure length and is particularly convenient for measuring the diameter of a cylindrical object. The span of the upper jaw is used to measure distances between two surfaces, such as the inside diameter of a hollow cylindrical object.
+
+The main scale is calibrated in centimeters with a millimeter least count, and the movable vernier scale has 10 divisions that cover 9 divisions on the main scale. When making a measurement with a meter stick, it is necessary to estimate, or "eyeball," the fractional part of the smallest scale division (tenth of a millimeter). The function of the vernier scale is to assist in the accurate reading of the fractional part of the scale division, thus increasing the precision.
+
+The leftmost mark on the vernier scale is the zero mark (lower scale for metric reading and upper scale for inches). The zero mark is often unlabeled. A measurement is made by closing the jaws on the object to be measured and reading where the zero mark on the vernier scale falls on the main scale (See Fig. 2.3.) Some calipers, as the one in Fig. 2.2, have vernier scales for both metric and British units.
+
+Figure 2.2 A vernier caliper. A good instrument for measuring rectangular dimensions and circular diameters. This caliper has scales for both metric and British measurements. See text for description. (Courtesy of Sargent-Welch.)
+
+In Fig. 2.3, the first two significant figures are read directly from the main scale. The vernier zero mark is past the 2-mm line after the 1-cm major division mark, so there is a reading of 1.2 cm for both (a) and (b). The next significant figure is the fractional part of the smallest subdivision on the main scale. This is obtained by referring to the vernier scale markings below the main scale.
+
+If a vernier mark coincides with a mark on the main scale, then the vernier mark number is the fractional part of the main-scale division (see Fig. 2.3a). In the figure, this is the third mark to the right of the vernier zero, so the third significant figure is 3 (0.03 cm). Finally, since the 0.03-cm reading is known exactly, a zero is added as the doubtful figure, for a reading of 1.230 cm or 12.30 mm. Note how the vernier scale gives more significant figures or extends the precision.
+
+However, a mark on the vernier scale may not always line up exactly with one on the main scale (Fig. 2.3b). In this case, there is more uncertainty in the 0.001-cm or 0.01-mm figure, and we say there is a change of "phase" between two successive vernier markings. Notice how in Fig. 2.3b the second vernier mark after the zero is to the right of the closest main-scale mark, and the third vernier mark is to the left of the next main-scale mark. Hence, the marks change "phase" between the 2 and 3 marks, which means the reading is between 1.22 cm and 1.23 cm. Most vernier scales are not fine enough for us to make an estimate of the doubtful figure, so a suggested method is to take the middle of the range. Thus a 5 would be put in the thousandth-of-a-centimeter digit, for a reading of 1.225 cm.*
+
+Figure 2.3 The vernier scale. An example of reading the vernier scale on a caliper. See text for description.
+
+Zeroing
+
+Before making a measurement, one should check the zero of the vernier caliper with the jaws completely closed. It is possible that through misuse the caliper is no longer zeroed and thus gives erroneous readings (systematic error). If this is the case, a zero correction should be made for each reading.
+
+In zeroing, if the vernier zero lies to the right of the main-scale zero, measurements will be too large and the error is taken to be positive. In this case, the zero correction is made by subtracting the zero reading from the measurement reading. For example, the "zero" reading in Fig. 2.4 is +0.05 cm, and this amount must be subtracted from each measurement reading for more accurate results.
+
+Similarly, if the error is negative, or the vernier zero lies to the left of the main-scale zero, measurements will be too small, and the zero correction must be added to the measurement readings.
+
+Figure 2.4 Zeroing and error. The zero of the vernier caliper is checked with the jaws closed. (a) Zero error. (b) Positive error, +0.05 cm.
+
+Summarizing these corrections in equation form,
+
+Corrected reading = actual reading - zero reading
+
+For example, for a positive error of +0.05 cm as in Fig. 2.4,
+
+Corrected reading = actual reading - 0.05 cm
+
+If there is a negative correction of -0.05 cm, then
+
+Corrected reading = actual reading - (-0.05) cm = actual reading + 0.05 cm
+
+C. The Micrometer Caliper
+
+The micrometer caliper (Fig. 2.5a), commonly called a mike, provides for accurate measurements of small lengths. A mike is particularly convenient in measuring the diameters of thin wires and the thicknesses of thin sheets. It consists of a movable spindle (jaw) that is advanced toward another, parallel-faced jaw (called an anvil) by rotating the thimble. The thimble rotates over an engraved sleeve (or "barrel") mounted on a solid frame.
+
+Most micrometers are equipped with a ratchet (ratchet handle is to the far right in the figure) that allows slippage of the screw mechanism when a small and constant force is exerted on the jaw. This permits the jaw to be tightened on an object with the same amount of force each time. Care should be taken not to force the screw (particularly if the micrometer does not have a ratchet mechanism), so as not to damage the measured object and/or the micrometer.
+
+The axial main scale on the sleeve is calibrated in millimeters, and the thimble scale is calibrated in 0.01 mm (hundredths of a millimeter). The movement mechanism of the micrometer is a carefully machined screw with a pitch of 0.5 mm. The pitch of a screw, or the distance between screw threads, is the lateral linear distance the screw moves when turned through one rotation (Fig. 2.5b).
+
+The axial line on the sleeve main scale serves as a reading line. Since the pitch of the screw is 0.5 mm and there are 50 divisions on the thimble, each thimble division represents 0.01 mm.
+
+Figure 2.5 A micrometer caliper and an example of a micrometer reading. (a) This particular mike has the 1.0-mm and 0.5-mm scale divisions below the reading line. (b) In this diagram, as on some mikes, the 1.0-mm divisions are above the reading line and the 0.5-mm divisions are below it. The thimble in the diagram is in the second rotation of millimeter movement, as indicated by its being past the 0.5-mm mark. The reading is 5.500 + 0.285 mm, or 5.785 mm, where the last 5 is the estimated figure. (Photo courtesy of Sargent-Welch.)
+
+ble, when the thimble is turned through one of its divisions, the thimble moves (and the jaws open or close) 1/50 of 0.5 mm, or 0.01 mm. Some micrometers have a scale that indicates the 0.5-mm marks of the main-scale divisions and hence tells which rotation the thimble is in (see Fig. 2.5). Cheaper mikes do not have this extra graduation, and the main scale must be closely examined to determine which rotation the thimble is in.
+
+One complete rotation of the thimble (50 divisions) moves it through 0.5 mm, and a second rotation moves it through another 0.5 mm, for a total of 1.0 mm, or one scale division along the main scale. That is, the first rotation moves the thimble from 0.00 through 0.50 mm, and the second rotation moves the thimble from 0.50 through 1.00 mm.
+
+It is sometimes instructive to think of the 1-mm main-scale divisions as analogous to dollar ($) divisions and of the thimble scale divisions as cents ($0.01). The first rotation of the thimble corresponds to going from $0.00 to $0.50 (50 cents), and the second rotation corresponds to going from $0.50 to $1.00, so that two complete rotations go through 100 cents, or $1.00, of the main scale.
+
+If a mike does not have the 0.5-mm scale, you must determine whether the thimble is in its first rotation, in which case the thimble reading is between 0.00 and 0.50 mm (corresponding to the actual engraved numbers on the thimble), or in the second rotation, in which case the reading is between 0.50 and 1.00 mm (the actual thimble scale reading plus 0.50). This can be done by judging whether the edge of the thimble is in the first or the second half of the main-scale division. Notice that the zero mark on the thimble is used to indicate both 0.00 mm (beginning of the first rotation) and 0.50 mm (beginning of the second rotation).
+
+Measurements are taken by noting the position of the edge of the thimble on the main scale and the position of the reading line on the thimble scale. For example, for the drawing in Fig. 2.5, the mike has a reading of 5.785 mm. On the main scale is a reading of 5.000 mm plus one 0.500-mm division (scale below reading line), giving 5.500 mm. That is, in the figure, the thimble is in the second rotation of a main-scale division. The reading on the thimble scale is 0.285 mm, where the 5 is the estimated or doubtful figure. That is, the reading line is estimated to be midway between the 28 and the 29 marks. (Some mikes have vernier scales on the sleeves to help the user read this last significant figure and further extend the precision.)
+
+As with all instruments, a zero check should be made and a zero correction applied to each reading if necessary, as described in Section B. A zero reading is made by rotating the screw until the jaw is closed or the spindle comes into contact with the anvil. The contacting surfaces of the spindle and anvil should be clean and free of dust. (Micrometers can be adjusted to zero readings by means of a spanner wrench. Do not attempt to do this without your instructor’s permission or supervision.)
+
+D. Density The density ρ of a substance is defined as the mass m per unit volume V (that is, ρ = m/V). Thus, the densities of substances or materials provide comparative measures of the amounts of matter in a particular (unit) space. Note that there are two variables in density—mass and volume. Hence, densities can be affected by the masses of atoms and/or by their compactness (volume).
+
+As can be seen from the defining equation (ρ = m/V), the SI units of density are kilogram per cubic meter (kg/m³). However, measurements are commonly made in the smaller metric units of grams per cubic centimeter (g/cm³), which can be easily converted to standard units.*
+
+To illustrate how density provides a measure of compactness of matter, consider the marble and Styrofoam ball in Fig. 2.6. Both have the same mass (5.0 g), but the marble has greater density. (Why?) With measured radii of r_marble = 0.75 cm and r_ball = 6.0 cm for the marble and ball, respectively, the calculated densities are: ρ_marble = m/V = m / [(4/3)πr³] = 5.0 g / [(4/3)π(0.75 cm)³] = 2.8 g/cm³ ρ_ball = m_ball / V_ball = 5.0 g / [(4/3)π(6.0 cm)³] = 0.0055 g/cm³ (Notice that the calculated results have only two significant figures. Why?) In standard SI units, these results are 2.8 × 10³ kg/m³ and 5.5 kg/m³, respectively.
+
+Density may be determined experimentally by measuring the mass and volume of a sample of a substance and calculating the ratio m/V. The volume of regularly shaped objects may be calculated from length measurements. For example, Rectangle: V = l × w × h (length × width × height)
+
+Cylinder: V = Al = πr²l (circular cross-sectional area A = πr², where r is the radius and l is the length of the cylinder)
+
+Sphere: V = (4/3)πr³ (where r is the radius of the sphere)
+
+But how does one find the volume of an irregularly shaped object? This may be done by immersing it in water (or some other liquid) in a graduated container. Since the object will displace a volume of water equal to its own volume, the difference in the container readings before and after immersion is the volume of the object. Cylinders commonly have scale divisions of milliliters (mL) and 1 mL = 1 cm³.* [cm³ (cubic centimeter) is sometimes written on glassware as cc.]
+
+The physical property of density can be used to identify substances in some cases. If a substance is not pure or is not homogeneous (that is, its mass is not evenly distributed), an average density is obtained, which is generally different from that of a pure or homogeneous substance.
+
+## EXPERIMENTAL PROCEDURE
+
+A. Least Count of an Instrument Scale 1. List the least count and the estimated fraction of the least count for each of the measuring instruments in Data Table 1 of the laboratory report. For example, for a meter stick, these would be 1 mm and 0.1 mm, respectively. (Review Experiment 1C if necessary.)
+
+B. Thickness Measurements 2. Using the micrometer caliper, take a zero reading and record it in Data Table 2. Then take several measurements of a single page of this manual, incorporating the zero correction if necessary, to determine the average thickness per page. Record the data and result in Data Table 2.
+
+3. With the micrometer, take thickness measurements of a group of several pages together [for example, 10 pages (sheets of paper)], and record the data in Data Table 2. Calculate the average thickness per page.
+
+4. With the vernier caliper, take several measurements of the total thickness of the manual (excluding covers).† Record the data in Data Table 2, and compute the average overall thickness of the manual. (Did you remember to take a zero reading and record in Data Table 2?)
+
+5. Using the values of the average thickness per page determined in Procedures 2 and 3 and the overall average thickness of the manual from Procedure 4, compute the number of pages (sheets of paper) in your manual. For example, if the average thickness per page is 0.150 mm and the average overall thickness is 35.5 mm (3.55 cm), the calculated number of papers is 35.5 mm / (0.150 mm/page) = 236.6666... ≈ 237 pages.
+
+6. Determine the actual number of pages (sheets of paper) in the manual. (Remember to subtract any pages handed in from Experiment 1, the Advance Study Assignment for this experiment, and any others that might be missing.) Compute the percent error for each of the two experimentally determined values.
+
+C. Density Determinations 7. The densities of the materials of the various objects are to be determined from mass and volume (length) measurements. Taking the mass and length measurements will give you experience in using the laboratory balance and the vernier and micrometer calipers.
+
+8. Using the appropriate measuring instrument(s), take several measurements to determine the average dimensions of the regularly shaped objects so that their volumes can be calculated. Record the data in Data Table 3. Remember to make a zero correction for each reading if necessary.
+
+## 9. Calculate the volume of each of the objects, and record in Data Table 4
+
+10. Determine the volume of the irregularly shaped metal object by the method described in Theory section D. Record the volume in Data Table 4.
+
+11. Using a laboratory balance, determine the mass of each object, and record the results in Data Table 4.
+
+12. Calculate the density of the material of each object, and find the percent error of each experimental result. (Accepted density values are given in Appendix A, Table A1.)
+
+*In the British fps (foot–pound–second) system, density is expressed in terms of weight rather than mass. For example, the weight density of water is 62.4 lb/ft³.
+
+*Milliliter is abbreviated both ml and mL. The mL abbreviation is generally preferred in order to avoid confusion of a lowercase l ("ell") with the number 1.
+
+†Be sure the pages are compacted as much as possible before you take the measurements.
+
+Name Section Date Lab Partner(s)
+
+## EXPERIMENT
+
+Measurement Instruments (Mass, Volume, and Density)
+
+Laboratory Report
+
+A. Least Count of an Instrument Scale
+
+## DATA TABLE
+
+Purpose: To practice determining least count and estimated fraction of least count.
+
+Instrument Least count Estimated fraction Meter stick Vernier caliper Micrometer caliper Balance Graduated cylinder Calculations (show work)
+
+Don’t forget units
+
+B. Thickness Measurements
+
+## DATA TABLE
+
+Zero reading: Micrometer ____________________ Caliper ____________________ Purpose: To practice using calipers. (Indicate units in the parentheses.)
+
+Thick ness of single Thickness of __________ Average page thickness Thickness of manual, Reading page ( ) pages ( ) ( ) excluding covers ( ) Average Actual number of pages (sheets) in manual ____________________ Percent error Computed number of pages (from single-page measurement) ____________________ ____________________ (from multiple-page measurement) ____________________ ____________________ Calculations (show work) Name Section Date Lab Partner(s) E X P E R I M E N T 2 Measurement Instruments (Mass, Volume, and Density) Laboratory Report C. Density Determination DATA TABLE 3 Purpose: To record dimensional measurements. Zero reading: Vernier caliper ____________________ Micrometer caliper ____________________ Rod Wire Sphere Rectangular sheet Instrument used Diameter Length Diameter Length Diameter Length Width Thickness Reading ( ) ( ) ( ) ( ) ( ) ( ) ( ) ( ) Average Calculations (show work) (continued) E X P E R I M E N T 2 Measurement Instruments (Mass, Volume, and Density) Laboratory Report DATA TABLE 4 Purpose: To compare experimental and accepted density values. Object Mass Volume Experiment Accepted density Percent error ( ) ( ) density ( ) (from Table A1) Rod Type of material: ____________________ Wire Type of material: ____________________ Sphere Type of material: ____________________ Rectangular sheet Type of material: ____________________ Irregularly shaped object Type of material: ____________________ Calculations (attach additional sheet if necessary) Name Section Date Lab Partner(s) E X P E R I M E N T 2 Measurement Instruments (Mass, Volume, and Density) Laboratory Report QUESTIONS 1. Explain the probable source of error(s) in the experimental determination of the number of manual pages. 2. In the first four density determinations in Data Table 4, what major factors might account for the experimental errors that were obtained? 3. In determining the volume of the irregularly shaped object, any air bubbles sticking to the surface of the object when it is submerged cause systematic errors. Will this error give an experimental density that is too high or too low? Explain. 4. Suppose that you were given an irregularly shaped object that floats. Describe how you would experimentally determine its volume. (continued) E X P E R I M E N T 2 Measurement Instruments (Mass, Volume, and Density) Laboratory Report 5. A thin circular sheet of aluminum has a radius of 20 cm and a thickness of 0.50 mm. Find the mass of the sheet. 6. Archimedes, a famous Greek scientist, was given a problem by King Hieron II of Syracuse (Sicily). The king suspected that his crown, which was supposed to be made of pure gold, contained some silver alloy, and he asked Archimedes to prove or disprove his suspicion. (It turned out that the crown did contain silver.) How would you experimentally determined whether or not the crown was pure gold? (Hint: the method came to Archimedes when getting into a full bathtub. See the footnote in Experiment 18 for Archimedes’ solution.) Name Section Date Lab Partner(s) E X P E R I M E N T 3 The Scientific Method: The Simple Pendulum Experimental Planning The Simple Pendulum 1. Scientists use models and theories to describe physical phenomena. When a new model is developed, it must be tested to find out if it is an accurate representation. No theory or model of nature is valid unless its predictions are in agreement with experimental results. The laboratory provides an environment where extraneous factors can be minimized and specific predictions can be tested. The process of making, testing, and refining models is usually called the scientific method. An example of this method will be demonstrated in this experiment for a simple pendulum. A “simple” pendulum is one in which a small but substantial mass is suspended on a relatively light string, like the one pictured in Fig. 3.1. If one were to observe the motion of the mass swinging back and forth, which of the following statements do you think would be the most accurate? (It is understood that the motion takes place in a single plane.) The time for the mass to swing back and forth (from point A to B, and back to A in Fig. 3.1.) (a) changes randomly from one swing to the next. (b) gets consistently bigger from one swing to the next. (c) gets consistently smaller from one swing to the next. (d) stays about the same from one swing to the next. 2. The time for the mass to swing back and forth is called the period (T) of the pendulum. If your physics lab has the appropriate equipment available, you could verify that statement (d) above is the most accurate (negligible friction). Now consider what might affect the pendulum’s period. Look at Fig. 3.1 again and list the physical parameters that could be changed. 3. Did you find three things? Let’s consider the length (L) first. How do you think the pendulum’s length might affect the period? If the length of the pendulum were doubled, would the period (T) also double (directly proportional)? Or would it be half of what it was before (inversely proportional)? Or could it be larger or smaller by some other proportion? Write down the relationship that you think is most appropriate. 4. The mass (m) of the pendulum bob may be varied. The effect this would have on the period might possibly depend on air resistance, so let’s suppose there isn’t any. If the pendulum were swinging in a vacuum would the mass make any difference? (continued) E X P E R I M E N T 3 Experimental Planning To verify your response, look at the forces acting on the bob. Draw a free-body diagram (one showing the forces) for the bob when it would be in the position shown in Fig. 3.1. What is the component of the weight force (mg) that acts in the direction of motion? 5. Check with one of your fellow students (or your instructor) to see if the results agree. Notice that there are no other forces acting in the direction of motion (remember, no air resistance). Then, use this force component in Newton’s second law and solve for a. Does your result for the acceleration of the bob (and ultimately its pattern of motion) include the mass? 6. Finally, you probably listed the initial (release) angle u as a factor that would affect the period. Your result for the acceleration above should include this factor (in the form of sin u). Since the acceleration depends on sin u instead of u, the situation is more complicated than those usually encountered in this course. Advanced mathematics is needed to derive the theoretical equation for the period of a simple pendulum oscillating in a plane. This equation includes the factors discussed previously, as well as one (constant factor) you probably wouldn’t expect. L 1 u 9 u c T 52p a11 sin2 1 sin4 1 b Åg 4 2 64 2 This equation predicts that the period will be longer if the length is longer and if the angle is larger, but the relation is not directly proportional. Does this agree with your predictions? A major problem in using this theoretical equation to make predictions that can be tested by experiment is the 1 u 9 u c infinite series a11 sin2 1 sin4 1 b. If we could find an approximation of this equation, it would be 4 2 64 2 more useful. Since sin u 50 if u 50, if the angle is small enough, the terms with u might be negligible. Test this by calculating the resultant sum of the first three terms in the series for an angle of 5o. Is it bigger than 1.0 by very much? At what angle u would the first three terms add up to 1.05 (a 5% difference)? Do you think it is reasonable to say that as long as the angle u is less than a certain value, then to a very good L 1 u 9 u c approximation, T 52p ? That is, a sin2 1 sin4 1 ,,1). Why or why not? Åg 4 2 64 2 Name Section Date Lab Partner(s) E X P E R I M E N T 3 The Scientific Method: The Simple Pendulum Advance Study Assignment Read the experiment and answer the following questions. 1. Describe what is meant by the scientific method and how it is applied. 2. What are the physical parameters in the investigation of a simple pendulum? 3. A period is an interval of time. How is this applied to a pendulum? 4. What is the difference between an independent variable and a dependent variable? Give an example of each. (continued) E X P E R I M E N T 3 Advance Study Assignment 5. How does the period of a pendulum vary theoretically with (a) length, (b) mass of bob, (c) angular displacement? 6. How will you experimentally check the theoretical predictions in the preceding question? 7. What is meant by a small-angle approximation? 8. How can the parabolic form y5ax2 be plotted as a straight line on Cartesian graph paper? E X P E R I M E N T 3 The Scientific Method: The Simple Pendulum INTRODUCTION AND OBJECTIVES description of certain physical phenomena (until some other results demonstrate otherwise). The laboratory is a place for the investigation of physical phenomena and principles. In the process, new discoveries may be made and technology advanced. In some instances, while trying to invent things in the laboratory, scientists make various investigations at random. This might be called the trial-and-error approach. Edison’s invention of the lightbulb is an example. He kept trying until he found something that worked—a carbonized thread for a filament. Today, the physics laboratory is used in general to apply what is called the scientific method: No theory or model of nature is valid unless its predictions are in agreement with experimental results. To illustrate the scientific method, in this experiment a theoretical expression or equation that describes the behavior of a simple pendulum is given. The validity of this relationship will then be tested experimentally. In the process, you will learn what variables influence the period of a simple pendulum and how the physical relationship and experimental data can be used to find other useful information (for example, the value of the acceleration due to gravity). After performing this experiment and analyzing the data, you should be able to do the following: 1. Apply the scientific method to theoretical predictions to check their validity.
+
+2. Understand how physical parameters are varied so as to investigate theoretical predictions.
+
+3. Appreciate the use of approximations to facilitate experimental investigations and analyses.
+
+Predictions are in agreement with experimental results. Rather than applying the somewhat haphazard trial-and-error approach, scientists try to predict physical phenomena theoretically, and then test the theories against planned experiments in the laboratory. If repeated experimental results agree with the theoretical predictions, the theory is considered to be valid and an accurate representation of reality.
+
+## EQUIPMENT NEEDED
+
+• Three or more pendulum bobs of different masses • Pendulum clamp (if available)
+
+• Meter stick • 1 sheet of Cartesian graph paper • Laboratory timer or stopwatch • Protractor • String
+
+## THEORY
+
+A simple pendulum consists of a "bob" (a mass) attached to a string that is fastened such that the pendulum assembly can swing or oscillate freely in a plane (● Fig. 3.1). For a simple or ideal pendulum, all the mass is considered to be concentrated at a point at the center (of mass) of the bob.
+
+Some of the physical properties or parameters of a simple pendulum are (1) the length L of the pendulum, (2) the mass m of the pendulum bob, (3) the angular distance θ through which the pendulum swings, and (4) the period T of the pendulum, which is the time it takes for the pendulum to swing through one complete oscillation (for example, from A to B and back to A in Fig. 3.1).
+
+Figure 3.1 The simple pendulum. The physical parameters of a simple pendulum are its length L, the mass m of the bob, and the angle of swing θ. The period T of a pendulum is the time it takes for one completed oscillation—for example, the time it takes to swing from A to B and back to A.
+
+From experience or preliminary investigation, it is found that the period of a pendulum depends on its length (the longer the length, the greater its period). How do you think the other parameters (m and θ) affect the period?
+
+From physical principles and advanced mathematics, the theoretical expression for the period of a simple pendulum oscillating in a plane is T = 2π√(L/g) [1 + (1/4)sin²(θ/2) + (9/64)sin⁴(θ/2) + ...]   (3.1)
+
+where g is the acceleration due to gravity and the terms in parentheses are part of an infinite series. In calculating T for a given angular distance θ, the more terms of the series that are evaluated, the greater the accuracy of the theoretical result.
+
+For small angles (θ < 20°), the θ terms in the series are small compared to unity—that is, (1 + (1/4)sin²(θ/2) + (9/64)sin⁴(θ/2) + ... ≈ 1), and in this case, to a good approximation: T ≈ 2π√(L/g)   (3.2)
+
+(This is called a first-order approximation. If the second term in the series is retained, the approximation is to second order, and so on.)
+
+Notice that even without an approximation [Eq. (3.1)], the period is theoretically independent of the mass of the pendulum bob. Also, within the limits of the small-angle approximation [Eq. (3.2)], the period is independent of the displacement angle.
+
+It is sometimes helpful to visualize a physical system as a "black box" with inputs and outputs.* The black box is the relationship between the input and output parameters. The term parameter refers to anything in the physical system that can be measured. The input parameters are the physical variables that may control or influence the behavior of the output parameters (the physical quantities that are measured and describe the resulting behavior of the system). The input parameters are often called independent variables because they can be varied independently of each other. The output parameters, on the other hand, may be called dependent variables because their values depend on the inputs. In any given system, some of the inputs may have little or no effect on the outputs (● Fig. 3.2).
+
+You may find that drawing black box diagrams will help you understand the physical systems investigated in later experiments.
+
+Figure 3.2 Input and output parameters. For a simple pendulum, the input parameters (m, θ, and L) influence the output parameter (T).
+
+* Suggested by Professor I. L. Fischer, Bergen Community College, New Jersey.
+
+## EXPERIMENTAL PROCEDURE
+
+1. Set up a simple pendulum arrangement. If a pendulum clamp is not available, the string may be tied around something such as a lab stand arm. Make sure that the string is secure and does not slip on the arm.
+
+2. Experimentally investigate the small-angle approximation [Eq. (3.2)] and the theoretical prediction [Eq. (3.1)] that the period increases with larger angles. Do this by determining the pendulum period for the several angles listed in Data Table 1, keeping the length and mass of the pendulum constant. Measure the angles with a protractor. (Note: θ is the initial angular distance of the bob before release.)
+
+Rather than timing only one oscillation, time several (four or five) and determine the average period. Timing is generally more accurate if you start the pendulum oscillating before the timing begins. Also, it is usually best to take the timing reference point as the lowest point of the swing.
+
+Measure and record the pendulum length. The length should be measured to the center of the pendulum bob. (Why?)
+
+Compute the percent error of the period for each angle θ, using Eq. (3.2) to calculate the theoretical value. (In this case, do not use the absolute difference, so that each percent error will have a sign, + or −. Further analysis will be done in the Questions section.) Proceed to the next step.
+
+3. Experimentally investigate whether the period is independent of the mass of the pendulum bob. Using the three masses provided, determine the periods of a pendulum with each mass as the bob (keeping length L and the small angle of oscillation constant). Record your results in Data Table 2, and draw a conclusion from the data.
+
+4. Experimentally investigate the relationship between the length and period of the pendulum. Using four different lengths (such as, 0.20, 0.40, 0.60, and 0.80 m), determine the average period of a pendulum of each length (keeping mass and the small angle of oscillation constant). Record the data in Data Table 3.
+
+5. Compute the theoretical period for each pendulum length [Eq. (3.2)], and enter the results in Data Table 3 (g = 9.80 m/s² = 980 cm/s²).
+
+6. Compute the percent error between the experimental and the theoretical values of the period for each pendulum length, and record in Data Table 3. Draw conclusions about the validity or applicability of Eq. (3.2).
+
+7. The object of the preceding experimental procedures was to determine the validity or applicability of Eq. (3.2)—that is, whether the experimental results agree with the theoretical predictions as required by the scientific method. Once found acceptable, a theoretical expression can then be used to determine experimentally other quantities occurring in the expression.
+
+For example, Eq. (3.2) provides a means for experimentally determining g, the acceleration due to gravity, by measuring the pendulum parameters of length and period, as was done previously.
+
+Squaring both sides of Eq. (3.2), T² = (4π²/g) L   (3.3)
+
+Hence, the equation has the form y = ax², that of a parabola. This can be plotted as a straight line with the general form y = ax by letting L = y and x = T², that is, plotting T² on the X-axis. The line will have a slope of a = g/4π².
+
+8. Plot L versus T² for the best experimental data (lowest percent error) in Data Table 3 and determine the slope of the graph. Compute the experimental value of g. Record this in the Laboratory Report and compute the percent error of the result.
+
+EXPERIMENT 3 / The Scientific Method: The Simple Pendulum that the period of a simple pendulum be used to define the standard unit of length. What would be the period of a pendulum with a length of 1.0 m? 5. Suppose the 1.0 m pendulum were operated on the Moon. What would its period be there? (g = g/6)
+
+This page intentionally left blank
+
+## E X P E R I M E N T
+
+Uniformly Accelerated Motion Experimental Planning GL Figure 4.1 A daring experimenter. See Experimental Planning text for description.
+
+A. Object in Free Fall An object in free fall falls under the influence of gravity only; resistance is neglected. A good approximation to free fall in the laboratory is when dense objects fall for relatively short distances. Use the following equipment to determine the acceleration due to gravity (g). (continued)
+
+E X P E R I M E N T 4 Experimental Planning
+
+## EQUIPMENT NEEDED
+
+• 3 objects of different masses (for example, steel balls and/or lead weights)
+
+• Meter stick • Laboratory timer or stopwatch • One sheet of graph paper Review the definition of acceleration. Which of the quantities involved can be directly measured with the given equipment? The defining equation is not practical to use in many cases. However, the units for acceleration are distance and time (m/s²), and these quantities can be measured with the equipment given. Can you give a kinematic equation for an object that is dropped (no initial velocity) that only involves length, time, and acceleration? (Use y for length and g for acceleration.) Hence we have a simple equation that involves only length, time, and acceleration, along with the equipment to measure length and time for a falling object to find g. Solve the equation for t, which is the time of fall that will be measured.
+
+Answer the following questions.
+
+1. What effect might the distance of fall have on your experimental measurements and results? (Hint: Consider the following “extreme” cases.)
+
+(a) How long would it take the object to reach the floor if you dropped it from a height of 0.50 m? Could you measure this accurately with a stopwatch?
+
+(b) What if an object were dropped from a height of 10 m? Could you measure this distance accurately with a meter stick? Would the acceleration remain constant?
+
+E X P E R I M E N T 4 Advance Study Assignment 2. From the preceding calculation it should be obvious that to experimentally time the distance of fall for a dropped object is critical. To gain an appreciation of how the distance of fall varies with time, consider the daring experimenter shown in GL Fig. 4.1. Jo-Jo will illustrate the time-distance relationship of free fall by stepping off a high, vertical cliff with a timer in one hand and a marker in the other. For each second of fall, he makes a mark on the cliff face. But wait. Jo-Jo wants you to determine how far he would fall during each second for the first 5 seconds. He requests you plot the results on a distance versus time graph for a visual display. Oh, one other thing. He wants to open his parachute when reaching 60 mi/h. At what time, or between which seconds, should he do this?
+
+3. Given three objects with same size and shape, but different masses, when dropped, would the heaviest fall the fastest? If so, would this mean that the acceleration due to gravity depends on mass? Or could there be another factor involved? (Hint: Take a look at the opening sentence of this experimental planning.)
+
+4. Suppose that the initial height of the object were measured from the top of the object at the release point to the floor. How would this affect your experimental result for g, that is, would it be too high or too low? Is this a random or a systematic error?
+
+Advance Study Assignment Read the experiment and answer the following questions.
+
+B. Linear Air Track 1. How is the acceleration of a car traveling on an elevated air track related to (a) the angle of elevation; (b) the height of elevation? (continued)
+
+E X P E R I M E N T 4 Advance Study Assignment 2. What is the equation describing the instantaneous velocity of a car on an elevated air track, and what is the shape of the graph of the instantaneous velocity versus time?
+
+3. Will the graph of instantaneous velocity versus time have a y-axis intercept of zero? Explain.
+
+4. Describe how the instantaneous velocity of a car traveling on an elevated air track can be calculated from displacement and time data.
+
+Advance Study Assignment
+
+## 1. What precautions need to be taken when working with a fan-propelled car?
+
+2. For an object moving with constant acceleration, what will be the shape of a graph of position versus time? What will be the shape of a graph of velocity versus time?
+
+## E X P E R I M E N T
+
+Uniformly Accelerated Motion OVERVIEW (TI, CI) The CI procedures extend the investigation by considering not only the linear relationship for uniformly accelerated motion, v = at, but also the parabolic relationship, x = ½at². This is done using a fan car and a rotary motion sensor. Experiment 4 examines uniformly accelerated motion using complementary TI and CI approaches. The TI procedures investigate the accelerations of (1) an object in free fall, and (2) a car on a linear air track for both horizontal and inclined motions.
+
+INTRODUCTION AND OBJECTIVES (TI, CI)
+
+## OBJECTIVES
+
+An important case in kinematics is that of an object in uniformly accelerated motion—one having a uniform or constant acceleration. Probably the most common example is a falling object near the surface of the Earth. An object falling solely under the influence of gravity is said to be in free fall, and that object falls with an acceleration g (the acceleration due to gravity). Near the Earth’s surface, the acceleration due to gravity is approximately constant, with a common value of g = 9.80 m/s² = 980 cm/s² = 32.2 ft/s².
+
+Of course, air resistance affects the acceleration of a falling object. But for relatively dense objects over short distances of fall, the effects of air resistance are negligible, and objects fall with an acceleration of g. In this experiment the acceleration due to gravity is used to investigate an object undergoing uniformly accelerated motion to see how its velocity and displacement change with time. Conversely, with displacement and time measurements, the value of g can be determined. The experimental data and their analyses will yield a better understanding of the kinetic equations describing the motion.
+
+## OBJECTIVES
+
+After performing this experiment and analyzing the data, you should be able to do the following:
+
+## 1. Clearly distinguish between average and instantaneous velocity
+
+## 2. Express how the velocity of a uniformly accelerated object changes with time
+
+3. Express how the distance traveled by a uniformly accelerated object changes with time.
+
+4. Explain how the uniform acceleration of an object may be determined from distance and time measurements.
+
+GENERAL THEORY (TI, CI)
+
+When an object moves with a uniform or constant acceleration, the position of the object at a time t is given by x = x₀ + v₀t + ½at² (4.1)
+
+where v₀ is the initial velocity and a is the constant acceleration. For an initial position arbitrarily chosen to be x₀ = 0, and for an object starting from rest (v₀ = 0), the position at any time reduces to x = ½at² (4.2)
+
+Or for an object in free fall, y = ½gt², where y is taken as the vertical direction (downward taken as positive to avoid minus signs). Hence by measuring the time t it takes for an object to fall a distance y, the acceleration due to gravity g can be easily calculated.
+
+Note that for any case where the acceleration is constant, the relationship between position and time is not linear: The position is proportional to the square of the time (t²), not just to the time (t). A graph of x versus t will be a parabola, not a straight line. On the other hand, if the object has constant acceleration, then the velocity is changing at a steady rate. The velocity of the object at any time after it starts from rest (v₀ = 0), is given by v = at (4.3)
+
+which is a linear function of time. A graph of v versus t will be a straight line. The motion of an object undergoing constant acceleration is analyzed to better understand what it means to say that the position varies with the square of the time. This is compared to the velocity function, which is directly proportional to the time. The results apply to any type of uniformly accelerated motion.
+
+B. Linear Air Track Types of linear air tracks are shown in TI Fig. 4.2. Air is supplied to the interior of the hollow track and emerges through a series of small holes in the track. This provides a cushion of air on which a car or glider travels along the track with very little friction (an example of the use of a gaseous lubricant). To have the car move under the influence of gravity, one end of the air track is elevated on a block. The acceleration of the car along the air track is then due to a component of the force due to gravity, F = ma = mg sin θ (TI Fig. 4.3). The acceleration a of the glider along the air track is a = g sin θ (TI 4.1)
+
+and from the geometry, sin θ = h/L (side opposite the angle over the hypotenuse). Hence, a = gh/L (TI 4.2)
+
+The magnitude of the instantaneous velocity v of the uniformly accelerating glider at a time t is given theoretically by v = v₀ + at (TI 4.3)
+
+Hence, a graph of v versus t is a straight line (y = mx + b) with a slope m = a = Δv/Δt and an intercept b = v₀. If the car starts from rest, the initial velocity v₀ is zero, and v = at (TI 4.4)
+
+## E X P E R I M E N T
+
+Uniformly Accelerated Motion
+
+## EQUIPMENT NEEDED
+
+A. Object in Free Fall (see TI Experimental Planning at the beginning of the experiment)
+
+B. Linear Air Track • Linear air track • Several laboratory timers or stopwatches • Wooden blocks of two different heights 1 sheet of Cartesian graph paper (Optional A TI 4A experiment for the free-fall spark timer is given near the end of the experiment.)
+
+TI Figure 4.3 Accelerating car on air track. When one end of an air track is elevated, the acceleration of the car is due to the component of the weight force mg, and a = g sinθ.
+
+## EXPERIMENTAL PROCEDURE
+
+A. Object in Free Fall 1. One person should drop the object and do the timing. Lab partners should alternate.
+
+2. Distinguish the objects as m₁, m₂, and m₃. Drop one of them from a fixed height y above the floor and measure its time of fall. Drop it with the arm held horizontally or held upward. (Depending on your height, it may be advantageous to stand on a small step stool. (Why?)) Do a couple of practice runs to become familiar with the procedure. Record the data for four trials in TI Data Table 1. Repeat this procedure for the other two objects.
+
+3. Compute the acceleration g due to gravity from, using the times of fall. Find the average (mean) value. Note: The results obtained by this procedure may have very poor accuracy and precision. (Why?)
+
+It can be shown that the instantaneous velocities of the car can be found from the experimental data of the measured displacements x of the glider along the air track at times tᵢ (with v₀ = 0) by vᵢ = (2xᵢ) / tᵢ (TI 4.5).
+
+B. Linear Air Track 4. The air track should be set up and leveled by the instructor or laboratory assistant. Do not attempt to make any adjustments to the air track. Ask your instructor for assistance if you need it.
+
+5. Turn on the air supply, and place the car in motion by applying a small force on the car in a direction parallel to the air track. Do not attempt to move the car on the air track if the air supply is not turned on. Use the same small force for each trial—for example, by compressing a spring attached to the car.
+
+6. Using laboratory timers or stopwatches, determine the times required for the car to travel several convenient distances, such as 0.20 m, 0.40 m, 0.50 m, 0.75 m, and so on. Record the times and distances in TI Data Table 2.* Several students should work together, each with a timer, taking a time reading as the car passes his or her assigned distance mark. Make several practice trials before taking actual data. (Remember that the distances are length intervals and need not be measured from the end of the air track. Make use of as much of the air track as is conveniently possible.)
+
+7. After completing Procedure 6, ask the instructor to elevate one end of the air track on a block, or obtain permission to do so. Measure h and L (see TI Fig. 4.3) and enter your results in TI Data Table 2.
+
+* If electronic photogate timers are available, your instructor will give you instruction in their use. Electronic timing greatly improves the accuracy and precision of the results. (Why?)
+
+8. Start the car from rest near the elevated end of the air track. (To minimize error, it is better to put a block or pencil in front of the car and pull this away smoothly rather than releasing the car by hand.) Measure and record the times required for the car to travel the distances listed, and record your results in TI Data Table 2. Use the experimental method described in Procedure 6.
+
+9. Have the end of the air track elevated to a different height, and repeat the time measurements for this height.
+
+10. Using Eq. (TI 4.5), compute the instantaneous velocity of the car for each of the times in the three experimental sets of data in TI Data Table 2.
+
+11. Plot v versus t for each case on the same graph and determine the slope of each line.
+
+12. Using Eq. (TI 4.2), compute an experimental value of the acceleration due to gravity (a = g) for each of the elevated-air-track cases. Compute the percent error for each experimental result.
+
+EXPERIMENT 4 Uniformly Accelerated Motion Laboratory Report A. Object in Free Fall
+
+## DATA TABLE
+
+Purpose: To determine g experimentally (and check mass dependence).
+
+y ________________ m₁ Time of fall, t Calculated g Trial ( ) ( )
+
+Average (mean) value m₂ Time of fall, t Calculated g Trial ( ) ( )
+
+Average (mean) value m₃ Time of fall, t Calculated g Trial ( ) ( )
+
+Average (mean) value Calculations (show work, attach page to report)
+
+B. Linear Air Track
+
+## DATA TABLE
+
+Purpose: To determine g experimentally Distances (m)
+
+## 1. Time t₁ (s) t₂ (s) Average
+
+Level air track Computed v (m/s)
+
+## 2. Time t₁ (s) t₂ (s) t₃ (s) Average
+
+Elevated air track h ______________ Computed v (m/s)
+
+## 3. Time t₁ (s) t₂ (s) t₃ (s) Average
+
+Elevated air track h ______________ Computed v (m/s)
+
+Calculations (show work)
+
+Experimental values of g Length of air track L Percent error (computed from data)
+
+Slopes of graphs 1.
+
+2.
+
+3.
+
+## QUESTIONS
+
+A. Object in Free Fall 1. Objects of different mass were used to see whether the acceleration due to gravity depends on the mass of a falling object. In other words, does a heavier object fall faster than a lighter object? What do your experimental results show?
+
+## 2. What is probably the greatest source of error in the experimental procedure?
+
+B. Linear Air Track
+
+## 3. What are the major sources of error in this procedure?
+
+4. What would be the shapes of the curves for a graph of y versus t of the data in each experimental case? How would you determine the value of the car’s acceleration from a graph using only y and t values (that is, not computing v)?
+
+5. What is the physical significance of the slope of the graph for the case of the level air track?
+
+6. What is the maximum possible value of the slope of a v-versus-t curve for a car released from rest on an air track elevated at one end? Describe the experimental setup in this case.
+
+EXPERIMENT 4 Uniformly Accelerated Motion
+
+## EQUIPMENT NEEDED
+
+• 1 collision (or plunger) cart Pasco Collision Cart ME-9454 (or ME-9430) (Any of the classic carts or the Pascars will work fine.)
+
+• 1 fan accessory Pasco ME-9491 • 1 dynamics track • 1 rotary motion sensor (RMS) CI-6538 • Brackets and pulley mounts: 1 cart-string bracket CI-6569 1 dynamics track mount accessory CI-6692 (to mount the RMS to the track)
+
+1 RMS/IDS adapter ME-6569 (track pulley bracket)
+
+• String • Optional: Track end-stop
+
+## SETTING UP DATA STUDIO
+
+THEORY (See TI, CI General Theory at the beginning of the experiment.)
+
+## 1. Open Data Studio and choose Create Experiment
+
+2. The Experiment Setup window will open and you will see a picture of the Science Workshop interface. There are seven channels to choose from. (Digital channels 1, 2, 3 and 4 are the small buttons on the left; analog channels A, B and C are the larger buttons on the right, as shown in ● CI Figure 4.2.)
+
+3. Click on the Channel 1 button in the picture. A window with a list of sensors will open.
+
+## 4. Choose the Rotary Motion Sensor from the list and press OK
+
+5. The diagram now shows you the properties of the RMS sensor directly under the picture of the interface. (See CI Fig. 4.2.)
+
+6. Connect the sensor to the interface as shown on the computer screen, to channels 1 and 2.
+
+## 7. Adjust the properties of the RMS as follows:
+
+First Measurements tab: select Position, Ch 1&2. Deselect all others.
+
+## EQUIPMENT SETUP
+
+## 1. The cart-string bracket and the fan accessory are mounted on top of the cart
+
+2. The rotary motion sensor (RMS) is mounted to one side of the track, with the small pulley of the RMS/IDS adapter mounted on the opposite end of the same side of the track. ● CI Fig. 4.1 is a diagram of the setup.
+
+3. The string makes a full loop connecting the cart-string bracket with the large pulley of the RMS sensor and the small pulley on the opposite bracket. That string should be tense, but not tight.
+
+4. Adjust the height of the string so that the fan blade clears the string as it spins. The RMS and the small pulley can be moved as far down as needed for the blades to clear the string.
+
+CI Figure 4.1 Rotary motion sensor and cart setup. A string makes a full loop from the cart-string bracket, to the RMS pulley, to the small pulley on the opposite end of the track, and back to the cart. The height of the RMS and the pulley must be adjusted so that the fan blades do not touch the string as they spin.
+
+## EXPERIMENTAL PROCEDURE
+
+WARNING! Be careful not to touch the fan blades while they are spinning.
+
+## 1. Turn the fan on, but hold on to the car so that it does not yet move
+
+2. Have a partner press the START button. Let go of the car. Your partner must press the STOP button before the car reaches the end of the track, to prevent data being taken of collisions and rebounds with pulleys or end-stops. You may need to do a few practice runs to become familiar with the procedure.
+
+Note: If the graphs show negative values, reverse the fan so that it is facing in the opposite direction, and start again from the opposite side of the track.
+
+## 3. Carefully turn off the fan
+
+## 4. You should have two graphs on the screen
+
+CI Figure 4.2 The Experiment Setup Window. Top of the screen: the Science Workshop interface and the seven available channels. Once a sensor is chosen, an icon for the sensor appears under the appropriate channel. Here, for example, is the RMS icon directly under Channels 1 and 2. Bottom of the window: the properties of the selected sensor.
+
+Selected sensor Scale-to-fit button on the graph toolbar to display the data clearly. Notice that the graph of position versus time is a smooth parabola. The graph of velocity versus time is a straight line.
+
+Second Measurements tab: select Velocity, Ch 1&2. Deselect all others.
+
+The Data list on the left of the screen should now have two icons: one for the position data, the other for the velocity data.
+
+8. Create a graph by dragging the position data icon from the data list and dropping it on top of the graph icon of the displays list. A graph of position versus time will open in a window called “Graph 1.” 9. Now drag the velocity data icon and drop it somewhere in the middle of the graph. The graph display will split into two graphs: one of position, the other of velocity, as shown in ● CI Fig. 4.3.
+
+5. Click anywhere on the position-versus-time graph to make it active. Use the Smart Tool (a button on the graph toolbar, labeled “xy”) to choose a data point that is close to the beginning of the motion but for which the position is not zero. Record the position and the time of this point in CI Data Table 1 as the first data points, x₁ and t₁.
+
+6. Find the position at a time t₂ = 2t₁. That is, where was the car when the previous time doubled? Record x₂.
+
+7. Repeat for times t₃ = 3t₁, t₄ = 4t₁, . . . as many multiples of t₁ as you can get from the graph. (The longer the track you use, the more you can get.)
+
+8. Determine by what factor the distance traveled at time t₂ is greater than the distance at time t₁. Then determine by what factor the distance traveled at time t₃ is greater than the distance at time t₁. Continue until CI Data Table 1 is complete.
+
+9. Now click anywhere on the velocity-versus-time graph to activate it. Use the Smart Tool to find the velocity of the cart at each of the times t₁, t₂, . . . , tₙ. Record the velocities in CI Data Table 2, and calculate by how much the velocity increases as the times double, triple, etc.
+
+10. Use the Fit Tool to determine the slope of the velocity graph. (The fit tool is on the graph toolbar; it is a drop menu called “Fit.”) Choose a “Linear Fit” for your graph. Report the slope in CI Data Table 2. What is the slope of a velocity-versus-time plot measuring? (Hint: Think of the units!)
+
+CI Figure 4.3 Graph displays. The graph display in this picture has been maximized to occupy most of the screen. (Reprinted courtesy of PASCO Scientific.)
+
+## DATA TABLE
+
+Purpose: To investigate a position function that is proportional to the square of the time.
+
+Time  Position  xₙ / x₁ t₁     x₁ t₂     x₂ t₃     x₃ t₄     x₄
+
+## DATA TABLE
+
+Purpose: To investigate a velocity function that is proportional to the time.
+
+Time  Velocity  vₙ / v₁ t₁     v₁ t₂     v₂ t₃     v₃ t₄     v₄
+
+Slope of the graph: ___________________ (units)
+
+## QUESTIONS
+
+1. In CI Data Table 1 you measured the position of the car at different times. When the time doubled, did the distance from the origin double also? When the time tripled, did the distance from the origin triple also? Can you see the pattern?
+
+2. Discuss what it means to say that the position function is not directly proportional to the time (t), but to the time squared (t²).
+
+3. Judging on the basis of the observed pattern, and without using theoretical equations, predict the position of the car when the time is 10t₁. What will the position be at 20t₁?
+
+4. In CI Data Table 2 you repeated the procedure for the velocities. What is the pattern now?
+
+5. On the basis of the observed pattern, predict the velocity of the car for times 10t₁ and 20t₁.
+
+6. A graph of x versus t is a parabola, because x~t². But if you plot x versus t², the resulting graph will be a straight line, with slope ½a, as shown below. Make a graph with your values of x on the vertical axis and your times squared on the horizontal. Determine the slope, and use it to find the acceleration of the car. (Attach a graph to Lab Report.)
+
+x = ½ a t² y = m x 7. By determining a percent difference, compare the acceleration of the car determined from your graph to that measured as the slope of the velocity graph.
+
+EXPERIMENT 4A (OPTIONAL)
+
+Uniformly Accelerated Motion: Free-Fall Spark-Timer
+
+Advance Study Assignment Read the experiment and answer the following questions.
+
+1. How are data recorded on the tape strip, and what information does the data tape give?
+
+2. What precautions should be taken in using the apparatus? What could happen if this is not done?
+
+3. What equation describes the instantaneous velocity of an object in free fall, and what is the shape of the graph of the instantaneous velocity versus time?
+
+4. Should the graph of instantaneous velocity versus time have a y-axis intercept of zero? Explain.
+
+5. Describe how the instantaneous velocity of an object in free fall can be calculated from displacement and time data.
+
+## THEORY
+
+Some free-fall timer apparatuses are shown in ● TI Fig. 4.1A. The free-fall spark-timer assembly consists of a metal object that falls freely between two wires with a tape strip of specially treated paper between the object and one of the wires. The spark timer is a fast timing device that supplies a high voltage across the wires periodically at preset time intervals (for example, a frequency of 60 Hz, or time interval of 1/60 s, since t=1/f). The free-fall apparatus is equipped with an electromagnet that releases the metal object when the spark timer is activated.
+
+A high voltage causes a spark to jump between two electrical conductors in close proximity. The wires are too far apart for a spark to jump directly from one wire to the other. However, as the metal object falls between the wires, the spark (electrical current) jumps from one wire to the metal object, travels through the object, and jumps to the other wire. In so doing, the spark burns a spot on the paper tape strip.
+
+The spots on the tape are, then, a certain time interval apart, as selected and usually preset on the spark timer. The series of spots on the tape gives the vertical distance of fall as a function of time, from which can be measured the distance yᵢ that the object falls in a time tᵢ.
+
+The instantaneous velocity v of a free-falling object (neglecting air resistance) at a time t is given theoretically by v = v₀ + g t (TI 4.1A)
+
+(where downward is taken as the positive direction). Hence, a graph of v versus t is a straight line (y=mx+b) with a slope m = Δv/Δt = g and an intercept b = v₀, the initial velocity. Recall that t in TI Eq. 4.1A is really a time interval measured from an arbitrary starting time t₀=0. At this time, the velocity of the object is v₀, which may or may not be zero.
+
+The motion of the falling object as recorded on the experimental data tape is analyzed as follows. The average velocity v of an object traveling a distance yᵢ in a time tᵢ is defined as v = yᵢ / tᵢ (TI 4.2A)
+
+Keep in mind that yᵢ and tᵢ are really length and time intervals, or the differences between corresponding instantaneous lengths and times. Referenced to an initial position and time (y₀ and t₀), Δy = yᵢ - y₀ and Δt = tᵢ - t₀, arbitrarily taking y₀=0 and Δt = tᵢ. (It is these intervals that will be measured from the data tape.)
+
+For a uniformly accelerated object (moving with a constant acceleration), as in the case of free fall, the average velocity is given by v = (vᵢ + v₀) / 2 (TI 4.3A)
+
+where vᵢ and v₀ are the instantaneous velocities at times tᵢ and t₀, respectively. (Why is this? Consult your textbook.) Then, equating the expressions for v, given by TI Eq. (4.2A) and TI Eq. (4.3A) and solving for vᵢ, we have...
+
+## PROCEDURE
+
+1. ...
+
+2. ... However, if a spot of the sequence may be missing (for example, due to local misalignment of the wires). However, it is usually easy to tell that a spot is missing by observation of the tape. Do not try to guess where the spot should be. Simply make a mark on the tape to indicate that a spot is missing.
+
+3. Through each spot, draw a straight line perpendicular to the length of the tape. Using the line through the beginning spot as a reference (y₀=0), measure the distance of each spot line from the reference line (y₁, y₂, etc.). Write the measured value of the distance on the tape by each respective spot line.
+
+Making use of the known spark-timer interval, write the time taken for the object to fall a given distance on the tape by each spot line, taking t₀=0 at y₀=0. For example, if the timer interval is 1/60 s, the time interval between the reference line (y₀=0) and the first spot line (y₁) is t₁ = 1/60 s and the time taken to fall to the second spot line (y₂) is t₂ = 1/60 + 1/60 = 2/60 = 1/30 s. (Do not forget to account for the time intervals associated with missing spots, if any.)
+
+4. Record the data measured from the tape in TI Data Table 1. Using TI Eq. (4.5A), compute the instantaneous velocity of the falling object at each spot line from the experimental data, and record.
+
+5. At this point, you should realize that the instantaneous velocities given by TI Eq. (4.5A) (vᵢ = 2yᵢ / tᵢ) are...
+
+by the actual instantaneous velocities of the falling object, since it had a nonzero initial velocity or was in motion at the first spot line (y₀). Equation (4.4A) really applies to the situation, and 2y/t = v = v₀. Note that the instantaneous velocities you computed (2y/t), v = 2y/t - v₀ (Equation 4.4A) included v₀.
+
+Even so, plot the computed v's on a v-versus-t graph and determine the slope. This will still be an experimental value of g. Compute the percent error of your experimental result. (Accepted value, g = 9.80 m/s² = 980 cm/s².)
+
+6. You will notice on your graph that the line does not intercept the y-axis at the origin (t = 0). This is because t = 0 usually was measured not at the actual time of release, but at some time later. From Equations (4.4A) and (4.1A) we see that at t = 0 in the measurement time frame: 2y/t₀ = 2v₀ = v (t = 0) - R where y₀ and t₀ are, respectively, the distance and time measured by the zero values from the point of release.
+
+## EXPERIMENTAL PROCEDURE
+
+1. Your laboratory instructor will make a data tape for you or assist and direct you in obtaining one. Care must be taken in aligning the apparatus.
+
+Caution: When working with high voltages, one must be careful not to receive an electrical shock. Do not touch metal parts when the spark timer is on.
+
+2. Record the time interval of the spark timer used on the data tape, and draw small circles around the burn spots so that their locations can be easily seen. Occasionally, the initial velocity at the first line spot is then (t = 0)
+
+v₀ = y₀ / t₀.
+
+This gives you the extra bonus of being able to determine v₀ from your graph, since v₀ = v (t = 0).
+
+This page intentionally left blank
+
+Name Section Date Lab Partner(s)
+
+## EXPERIMENT 4A
+
+Uniformly Accelerated Motion Laboratory Report Free-Fall Timer Apparatus
+
+## DATA TABLE
+
+Purpose: To determine g experimentally.
+
+Spark-timer interval ____________________ Distance y ( ) Time t ( ) Computed velocity v = 2y/t ( )
+
+i i i i i y t v 1 1 1 y t v 2 2 2 y t v 3 3 3 y t v 4 4 4 y t v 5 5 5 y t v 6 6 6 y t v 7 7 7 y t v 8 8 8 y t v 9 9 9 y t v 10 10 10 y t v 11 11 11 y t v 12 12 12 y t v 13 13 13 y t v 14 14 14 y t v 15 15 15
+
+Calculations (show work)
+
+Value of g from graph (attach graph to lab report) ____________________ (units)
+
+Percent error ____________________ Initial velocity at y₀ ____________________ (continued)
+
+E X P E R I M E N T 4 A Uniformly Accelerated Motion Laboratory Report
+
+## QUESTIONS
+
+1. Suppose that a different spark-timer interval were used. How would this affect the slope of the graph of v versus t?
+
+2. What would be the shape of the curve of a y-versus-t graph of the experimental data?
+
+3. If t₀ were taken to be associated with some line spot other than y₁ (for example, y₃ instead), how would this affect the v-versus-t graph?
+
+4. Calculate v₀ directly from the first two measurement entries in Data Table 1, using the equation v₀ = 2y₁/t₁ - 2y₂/t₂. (Your instructor can derive this for you.) How does this compare with the value determined from your graph?
+
+Name Section Date Lab Partner(s)
+
+## EXPERIMENT
+
+The Addition and Resolution of Vectors: The Force Table
+
+Advance Study Assignment
+
+Read the experiment and answer the following questions.
+
+1. Distinguish between scalar and vector quantities, and give an example of each.
+
+2. How are vectors represented graphically, and how are scalars and vector quantities distinguished when written as symbols?
+
+## 3. What is meant by drawing a vector to scale? Give a numerical example
+
+## 4. Why is the triangle method called the head-to-tail (or tip-to-tail) method?
+
+(continued)
+
+EXPERIMENT 5 Advance Study Assignment 5. How may the resultant of two vectors be computed analytically from a vector triangle?
+
+6. How many vectors may be added by the polygon method? Are other methods of vector addition limited to the number of vectors that can be added? Explain.
+
+## 7. What is meant by resolving a vector into components? Give an example
+
+## 8. Briefly describe the steps in the component method of vector addition
+
+9. On a force table, what is the difference between the equilibrant and the resultant? Why is only one of these actually determined experimentally?
+
+## EXPERIMENT
+
+The Addition and Resolution of Vectors: The Force Table
+
+## INTRODUCTION AND OBJECTIVES
+
+Physical quantities are generally classified as either scalar or vector quantities. The distinction is simple. A scalar quantity (or scalar) is one with magnitude only (including units)—for example, speed (15 m/s) and temperature (20 °C). A vector quantity (or vector), on the other hand, has both magnitude and direction. Such quantities include displacement, velocity, acceleration, and force—for example, a velocity of 15 m/s north or a force of 10 N along the x-axis.
+
+Because vectors have the property of direction, the common method of addition, that is scalar addition, is not applicable to vector quantities. To find the resultant or vector sum of two or more vectors, special methods of vector addition are used, which may be graphical and/or analytical. The chief methods of these will be described, and the addition of force vectors will be investigated. The results of graphical and analytical methods will be compared with the experimental results obtained from a force table. The experimental arrangements of forces (vectors) will physically illustrate the principles of the methods of vector addition.
+
+After performing this experiment and analyzing the data, you should be able to do the following:
+
+## 1. Add a set of vectors graphically to find the resultant
+
+## 2. Add a set of vectors analytically to find the resultant
+
+3. Appreciate the difference in convenience between using graphical and using analytical methods of vector addition.
+
+Vectors will be indicated by bold-face, roman letters.
+
+## EQUIPMENT NEEDED
+
+• Force table with four pulleys • Four weight hangers • Set of slotted weights (masses), including three of 50 g and three of 100 g • String • Protractor • Ruler • Level • 3 sheets of Cartesian graph paper
+
+## THEORY
+
+A. Methods of Vector Addition: Graphical
+
+Triangle Method Vectors are represented graphically by arrows (see Fig. 5.1). The length of a vector arrow is proportional to the magnitude of the vector (drawn to scale on graph paper), and the arrow points in the direction of the vector.
+
+The length scale is arbitrary and is usually selected for convenience and so that the vector graph fits nicely on the graph paper. A typical scale for a force vector might be 1 cm : 10 N. That is, each centimeter of vector length represents 10 newtons. The scaling factor in this case in terms of force per unit length is 10 N/cm. (Note the similarity with the common food cost factor of price/lb—for example, 10¢/lb.)
+
+When two vectors are added by the triangle method A + B, the vectors are placed “head-to-tail” (or “tip-to-tail”), that is, the head of A and the tail of B (Fig. 5.1a). Vector arrows may be moved around as long as they remain pointed in the same direction. Then, drawing a vector from the tail of A to the head of B gives the vector R and completes the triangle. R is the resultant or vector sum of A + B; in other words, by vector addition, R = A + B. The magnitude of R is proportional to the length of the vector arrow, and the direction of R may be specified as being at an angle θ relative to A.
+
+Polygon Method If more than two vectors are added, the head-to-tail method forms a polygon (Fig. 5.1b). For three vectors, the resultant R = A + B + C is the vector arrow from the tail of the A arrow to the head of the C vector. The length (magnitude) and the angle of orientation of R can be measured from the vector diagram. Note that this is equivalent to applying the head-to-tail method twice—the head of A to the tail of B, and the head of B to the tail of C.
+
+The magnitude (length) R and the orientation angle θ of the resultant vector R in a graphical method can be measured directly from the vector diagram using a ruler and a protractor.
+
+Example 5.1 To illustrate scaling and the graphical triangle method, let A and B represent forces at angles of 0° and 60°, respectively, with magnitudes of A = 2.45 N and B = 1.47 N.
+
+Then, choosing a scaling factor (say, 0.50 N/cm), a vector length is found by dividing its magnitude by the scaling factor (magnitude/scaling factor). Note the unit cancellation: A: 2.45 N / (0.50 N/cm) = 4.9 cm B: 1.47 N / (0.50 N/cm) = 2.9 cm
+
+Here, the 0.50-N/cm scaling factor was chosen so as to keep Fig. 5.2 an appropriate size. In drawing your vector diagrams, you should choose a scaling factor that will use most of the allotted space on the graph paper—much as in plotting a graph in Experiment 1. Also, a factor with two significant figures was chosen because graph paper grids are usually not fine enough to plot more digits accurately.
+
+The triangle has been drawn in Fig. 5.2, where R = A + B. The R vector is measured (with a ruler) and the angle θ is measured (with a protractor).
+
+B. Methods of Vector Addition: Analytical
+
+Triangle Method A resultant vector R is determined by using the head-to-tail method as shown in Fig. 5.2. When not a simple right triangle, the magnitude of R can be computed from the law of cosines if the angle γ (the angle opposite R) is known: R² = A² + B² - 2AB cos γ  (5.1)
+
+The angle θ (between R and A) can then be computed using the law of sines with the magnitudes of sides B and R known: B / sin θ = R / sin γ  (5.2)
+
+From Example 5.1, the magnitudes of A and B are 2.45 N and 1.47 N, respectively, and, as can be seen directly from Fig. 5.2, the angle γ is 180° - 60° = 120°. The magnitude of R is then calculated from Eq. (5.1): R² = (2.45)² + (1.47)² - 2(2.45)(1.47) cos 120° R² = 6.0025 + 2.1609 - 7.203(-0.5)
+
+R² = 8.1634 + 3.6015 R² = 11.7649 R = 3.43 N
+
+The angle θ is found from Eq. (5.2): (1.47 N) / sin θ = (3.43 N) / sin 120° sin θ = (1.47 sin 120°) / 3.43 sin θ = (1.47 × 0.8660) / 3.43 sin θ = 1.2730 / 3.43 sin θ = 0.3711 θ = arcsin(0.3711) = 21.8° ruler and protractor) to have a length of 6.8 cm and a direction angle of u 5 22° relative to the A vector. The magnitude of R in newtons is found using the scaling factor: R 5 (scaling factor)(measured length) 5 (0.50 N/cm)(6.8 cm) 5 3.4 N The directional angle u may be found using the law of sines [Eq. (5.2)]: u 5 sin⁻¹ ( (B sin γ) / R ) 5 sin⁻¹ ( (1.47 N * sin 120°) / 3.43 N ) 5 21.8° Remember that this is the angle between vectors R and A.
+
+Note that the results are the same as in Example 5.1 to two significant figures.
+
+Figure 5.2 Drawing to scale. Figures are often scaled down so as to maintain a convenient size. Here the vector triangle is shown to scale, with a scaling factor of 0.50 N/cm.
+
+See text for description.
+
+Component Method The vector sum of any number of vectors can be obtained by using the component method. This is conve- niently done by having all the vectors originate from the origin and resolving each into x and y components, as shown in ● Fig. 5.4 for R 5 A 1 B 1 C.
+
+If two vectors A and B are at right (90°) angles (● Fig. 5.3a), then the magnitude of their resultant is given by the Pythagorean theorem, R 5 √(A² + B²) (the hypotenuse of a right triangle is equal to the square root of the sum of the squares of the legs of the triangle). Notice that the law of cosines reduces to this formula with γ 5 90° (because cos 90° 5 0). The angle of orientation is given by tan θ 5 B/A, or θ 5 tan⁻¹ (B/A).
+
+The procedure is to add vectorially all of the x com- ponents together and all of the y components together. The Rx and Ry resultants are then added together to get the total resultant R. To illustrate this for the vectors in Fig. 5.4, Rx 5 Ax 1 Bx 1 Cx 5 (6.0 cos 60° N) 1 (0) 1 (10 cos 30° N)
+
+5 25.7 N Ry 5 Ay 1 By 1 Cy 5 (6.0 sin 60° N) 1 (15.0 N) 2 (10 sin 30° N)
+
+5 5.2 N where the component directions are indicated by the posi- tive and negative signs (arbitrary units). Note that B has no x component and that Cx and Cy are in the negative x and y directions, as indicated by the minus signs. Then the mag- nitude of R is [Eq. (5.3)]: R 5 √(Rx² 1 Ry²) 5 √((5.7 N)² 1 (5.2 N)²) 5 7.7 N and, by Eq. (5.4), θ 5 tan⁻¹ |Ry / Rx| 5 tan⁻¹ (5.2 N / 5.7 N) 5 42° relative to the 2x-axis (or 180° 2 42° 5 138° relative to the 1x-axis). It is convenient to measure all component angles as acute angles from the x-axis. The minus Rx and positive Ry indicate that the resultant is in the second quadrant.*
+
+*Although it is customary to measure angles counterclockwise from the positive x-axis, this procedure of measuring angles from the nearest x-axis is convenient in eliminating the need for double-angle equations.
+
+By the inverse process, a vector may be resolved into x and y components (Fig. 5.3b). That is, the vector R is the resul- tant of Rx and Ry, and R 5 Rx 1 Ry, where Rx 5 R cos θ and Ry 5 R sin θ. The magnitude of R is given by R 5 √(Rx² 1 Ry²) (5.3)
+
+and θ 5 tan⁻¹ (Ry / Rx) (5.4)
+
+or θ 5 tan⁻¹ (y/x)
+
+(resultant, magnitude, and angle)
+
+Figure 5.3 Vector resultant and components. (a) The vec- tor addition of A and B gives the resultant R. (b) A vector, such as R, can be resolved into x and y (rectangular) com- ponents: Rx and Ry respectively.
+
+Figure 5.4 Component method. Rather than using the head-to-tail method of vector addition, it is generally more convenient to use the component method, in which all vec- tors are drawn originating from the origin and resolved into components.
+
+C. Methods of Vector Addition: Experimental The Force Table
+
+The force table is an apparatus that makes possible the experimental determination of the resultant of force vec- tors (● Fig. 5.5). The rim of the circular table is calibrated in degrees. Forces are applied to a central ring by means of strings running over pulleys and attached to weight hang- ers. The magnitude (mg) of a force (vector) is varied by adding or removing slotted weights, and the direction is varied by moving the pulley.
+
+The resultant of two or more forces (vectors) is found by balancing the forces with another force (weights on a hanger) so that the ring is centered around the central pin.
+
+The balancing force is not the resultant R but rather the equilibrant E, or the force that balances the other forces and holds the ring in equilibrium.
+
+The equilibrant is the vector force of equal magni- tude, but in the opposite direction, to the resultant (that is, R 5 2E). See ● Fig. 5.6. For example, if an equilibrant has a magnitude of (0.30)g N in a direction of 225° on the circular scale, the resultant of the forces has a magnitude of (0.30)g N in the opposite direction, 225° 2 180° 5 45°. It should be evident that the resultant cannot be determined directly from the force table. (Why?)*
+
+*The magnitude of the (weight) force vectors is in general given in the form R 5 mg 5 (0.150)g N, for example, where it is understood that the mass is in kilograms and g is the acceleration due to gravity. It is conve- nient to leave g in symbolic form so as to avoid numerical calculations until necessary. This is similar to carrying along π in symbolic form in equations. Also, note that the masses of the laboratory “weights” usually have values stamped in grams. Don’t forget to change grams to kilograms when working in the SI: for example, 150 g 5 0.150 kg.
+
+Figure 5.5 Force tables. Various types of force tables.
+
+The table in (c) may be used vertically for demonstration (b), or horizontally in the laboratory. (Photos Courtesy of Sargent-Welch.)
+
+Figure 5.6 Resultant and equilibrant. On a force table, the magnitude and direction of the equilibrant E are measured, rather than those of the resultant R, and R 5 2E.
+
+## EXPERIMENTAL PROCEDURE
+
+1. Set up the force table with strings and suspended weights, and perform the following cases of vector addition.
+
+2. Vector addition I. Given two vectors with magnitudes F1 5 (0.200)g N and F2 5 (0.200)g N at 30° and 120°, respectively, find their vector sum or resultant F 5 F1 1 F2 by each of the following procedures.
+
+(Note: Orientation angles of vectors are given relative to the 0° reference line or positive x-axis.)
+
+(a) Graphical. Using the triangle method of vector addition, draw a vector diagram to scale. Use a scale such that the finished vector diagram fills about half a sheet of graph paper. Measure the magnitude and direction of the resultant (with ruler and protractor), and record the results in the data table. Save your graphical sheets to attach to the Laboratory Report.
+
+(b) Analytical. Compute the magnitude of the resultant force. Also, compute the angle of orientation from the relationship tan θ 5 F2/F1. (Why can you use tan θ? Remember that θ is the angle between F1 and F2.) Record the results in the data table.
+
+(c) Experimental. On the force table, clamp pulleys at 30° and 120° and add enough weights to each weight hanger to total 0.200 kg, so as to give weight forces of F1 5 F2 5 (0.200)g N in these directions. (The weight hangers usually have masses of 50 g, or 0.050 kg.) Using a third pulley and weights, determine the magnitude and direction of the equilibrant force that maintains the central ring centered in equilibrium around the center pin. Record the magnitude and direction of the resultant of the two forces in the data table. Remember, the resultant has the same magnitude as the ring vibrates up and down so that it can settle into an equilibrium position involving only the applied forces. When the forces are balanced, the pin may be carefully removed to see whether the ring is centered on the central hole.)
+
+3. Vector addition II. Repeat Procedure 2 for F1 5 (0.200)g N at 20° and F2 5 (0.150)g N at 80°. Use the other half of the sheet of graph paper used in Procedure 2(a) for the graphical analysis. Be careful in the analytical analysis. Can you use tan θ 5 F2/F1 in this case?
+
+4. Vector addition III. Repeat Procedure 2 with F1 5 F2 5 (0.200)g N at 0° and F1 5 F2 5 (0.150)g N at 90°. In this case, F5 Fx 1 Fy, where Fx and Fy are the x and y components of F, respectively. That is, the resultant can be resolved into these components. Use half of another sheet of graph paper for the graphical method.
+
+5. Vector resolution. Given a force vector of F 5 (0.300) g N at 60°, resolve the vector into its x and y components and find the magnitudes of Fx and Fy by the following procedures: (a) Graphical. Draw a vector diagram to scale (on the other half of the sheet of graph paper used in Procedure 4) with the component vectors (see Fig. 5.3b), and measure the magnitudes of Fx and Fy. Record the results in the data table.
+
+(b) Analytical. Compute the magnitudes of Fx and Fy (see the Theory section). Record the results in the data table.
+
+(c) Experimental. Clamp pulleys at 240°, 90°, and 0° on the force table. Place a total of 0.300 kg on the 240° pulley string using a weight hanger. This force is then the equilibrant of F 5 (0.300)g N at 60° (since 60° 1 180° 5 240°), which must be used on the force table rather than the force itself. Add weights to the 0° and 90° hangers until the system is in equilibrium. The 0° and 90° forces are then the Fx and Fy components, respectively, of F. Record their magnitudes in the data table.
+
+6. Vector addition IV. Given the force vectors F1 5 (0.100)g N at 30°, F2 5 (0.200)g N at 90°, and F3 5 (0.30)g N at 225°, find the magnitude and direction of their resultant F 5 F1 1 F2 1 F3 by the following procedures: (a) Graphical. Use the polygon method.
+
+as the equilibrant but is in the opposite direction.
+
+(b) Analytical. Use the component method.
+
+(c) Experimental. Use the force table. Record the results in the data table.
+
+(Note: The string knots on the central ring should be of a nontightening variety so that the strings will slip freely on the ring and allow the strings to pull directly away from the center. Pulling the center ring straight up a short distance and releasing it helps adjust the friction in the pulleys.)
+
+7. Vector addition V. Instructor’s choice (optional). Your instructor will give you a set of vectors to add. Record the results in the data table as you did for previous procedures.
+
+**Name** **Section** **Date** **Lab Partner(s)**
+
+**EXPERIMENT 5** **The Addition and Resolution of Vectors: The Force Table**
+
+**Laboratory Report** Note: Attach graphical analyses to Laboratory Report.
+
+**DATA TABLE** Purpose: To analyze results of different methods of vector addition.
+
+Resultant R (magnitude and direction)
+
+Forces Vector addition I F1 = (0.200)g N, θ1 = 30° F2 = (0.200)g N, θ2 = 120° Vector addition II F1 = (0.200)g N, θ1 = 20° F2 = (0.150)g N, θ2 = 80° Vector addition III F1x = F1 = (0.200)g N, θ1x = 0° F2y = F2 = (0.150)g N, θ2y = 90° Vector resolution Fx = F = (0.300)g N, θ = 60° Fy = F = (0.150)g N, θ = ?
+
+F1 = (0.100)g N, θ1 = 30° Vector addition IV F2 = (0.200)g N, θ2 = 90° F3 = (0.300)g N, θ3 = 225° Vector addition V *Show analytical calculations below.
+
+**Calculation** (attach additional sheet if necessary)
+
+Don’t forget units
+
+**QUESTIONS** 1. Considering the graphical and analytical methods for obtaining the resultant, which method is more accurate? Give the probable sources of error for each method.
+
+2. Vector subtraction (A – B) is a special case of vector addition, since A – B = A + (–B). Suppose that the cases of vector addition I, II, and III in this experiment were vector subtraction (F1 – F2).
+
+(a) What effect would this have on the directions of the resultants? (Do not calculate explicitly. Simply state in which quadrant the resultant would be in each case.)
+
+(b) Would the magnitude of the resultant be different for vector subtraction than for vector addition in each case? If so, state whether the subtractive resultant would be greater or less than the additive resultant.
+
+3. A picture hangs on a nail as shown in Fig. 5.7. The tension T in each string segment is 3.5 N.
+
+(a) What is the equilibrant or the upward reaction force of the nail?
+
+(b) What is the weight of the picture?
+
+Figure 5.7 See Question 3.
+
+**EXPERIMENT 6** **Newton’s Second Law: The Atwood Machine**
+
+**Experimental Planning** Newton’s second law expresses a relationship between the net force acting on a specific mass and the resulting acceleration of that mass. This relation is often written in magnitude form, Fnet = ma (force = mass × acceleration).
+
+**EQUIPMENT NEEDED** • Pulley (preferably low-inertia, precision ball bearing type, with support)
+
+• Two weight hangers and weights (masses)
+
+• String • Laboratory timer or stopwatch • Meter stick
+
+Take a look at the apparatus shown in Fig. 6.1a. Consider how you could use it to experimentally investigate the validity of Newton’s second law. Note that the equation Fnet = ma has three independent variables and can be written in different ways, m = F/a and a = F/m. In order to find out how any one of the three variables affects motion, it is essential to hold the other two constant.
+
+From the figure and given equipment, how could the acceleration (a) of the mass hangers be determined from direct measurements? (Hint: Think of a kinematic equation that includes the three variables.)
+
+In case you missed it, the kinematic equation that applies to this situation is y = v0t + 1/2at². In this equation, there is a condition on the acceleration. What is it?
+
+The apparatus shown in Fig. 6.1a is called an “Atwood machine,” and it allows for all of the variables of Fnet = ma to be controlled. If the system with loaded masses is released from rest, what quantity in the kinematic equation could be eliminated? For this case, solve the kinematic equation for the acceleration.
+
+Did you get a = 2y/t²? Here the meter stick and stopwatch come into play, and the distance traveled (y) and the elapsed time (t) of fall are measured variables for determining acceleration.
+
+Now consider the other two variables in Newton’s second law, F and m. For the Atwood machine, can you think of how the net force can be expressed in terms of both masses (weights) on the hangers? Remember, the m in Fnet = ma represents the total mass of the system that moves with acceleration a. A free-body diagram may be helpful here.
+
+Substitute your expression for the net force in Newton’s second law (Fnet = ma) and solve for a.
+
+Did you get: a = [(m2 – m1) / (m1 + m2)] * g?
+
+Note for the Atwood machine how both hanging masses can be varied. How could you (1) vary the total mass while keeping the (net) force F constant, and (2) vary the net force while keeping the total mass constant? Think about it.
+
+**EXPERIMENT 6**
+
+**Advance Study Assignment** Read the experiment and answer the following questions.
+
+1. Write Newton’s second law in mathematical form, and describe how the acceleration of an object or system varies with a net force and mass of the system.
+
+## 2. What are F and m in Newton’s second law in terms of the Atwood machine?
+
+3. Explain how F and m are individually varied while the other is held constant. Why is this done?
+
+4. How can the frictional force be experimentally determined, and how is it used in the calculations?
+
+5. What is measured in the experiment, and how is this used to compute the acceleration of the system?
+
+**Advance Study Assignment** Read the experiment and answer the following questions.
+
+1. When the Atwood machine is moving, what is the shape of a velocity-versus-time plot for the motion? Why?
+
+2. The photogate will measure the tangential speed of the pulley. Why is this speed the same as the speed of the ascending and descending masses?
+
+**EXPERIMENT 6** **Newton’s Second Law: The Atwood Machine**
+
+**OVERVIEW** Experiment 6 examines Newton’s second law using the Atwood machine by TI procedures and/or CI procedures. Both procedures apply the second law by (1) varying the total mass while keeping the unbalanced force constant and (2) varying the unbalanced force while keeping the total mass constant.
+
+The TI procedure determines the accelerations of the system using distance-time measurements. In the CI procedure, speed-time measurements are used by electronically observing the motion of the pulley.
+
+**INTRODUCTION AND OBJECTIVES** Newton’s second law of motion states that the acceleration, a, of an object or system is directly proportional to the vector sum of the forces acting on the object, the unbalanced or net force Fnet = ΣFi, and inversely proportional to the total mass, m, of the system (a ~ Fnet / m). In equation form with standard units, a = Fnet / m or, more commonly, Fnet = ma.
+
+This relationship will be investigated using an Atwood machine, which consists of two masses connected by a string looped over a pulley. The Atwood machine is named after the British scientist George Atwood (1746–1807), who used the arrangement to study motion and measure the value of g, the acceleration due to gravity.
+
+In this experiment, the relatively slow, uniform acceleration of the masses will be used to investigate Newton’s second law. Since the acceleration a of the system depends on two variables (F and m, where a = F / m), one of the variables will be held constant while the other is varied. This is common experimental procedure. By varying the net (weight) force and the total mass of the system, the resulting accelerations can be experimentally determined from distance and time measurements and compared with the predictions of Newton’s second law.
+
+**OBJECTIVES** After performing this experiment and analyzing the data, you should be able to do the following: 1. Tell how the acceleration of a system varies with changes in the net force or mass—in particular, for a. mass variations with a constant net force, and b. force variations with constant mass.
+
+2. Articulate the precise meanings of the variables (F, m, and a) in Newton’s second law.
+
+3. Explain how the acceleration of the masses of an Atwood machine may be determined experimentally.
+
+**OBJECTIVES** Experimentally verify Newton’s second law of motion in two ways:
+
+## 1. By keeping the net force on a system constant and varying the mass, and
+
+## 2. By keeping the mass of the system constant and varying the net force
+
+(a)
+
+(b)
+
+(c)
+
+TI Figure 6.1 The Atwood machine. (a) A single (or double) pulley system is simply a “direction changer,” and it is sometimes convenient to draw a horizontal diagram for analysis. (b) A double-pulley system eliminates the possibility of the passing weights hitting each other, which may occur with a single pulley of small diameter. (c) A wall-mounted precision Atwood machine. A trip platform supports the upper weight before the start of each run and is released and reset by control cords. (Photos courtesy of Sargent-Welch.)
+
+**EQUIPMENT NEEDED** • Pulley (preferably low-inertia, precision ball bearing type)
+
+• Clamps and support rods • Two weight hangers • Set of slotted weights, including small 5-, 2-, and 1-g weights • Paper clips • String • Laboratory timer or stopwatch • Meter stick • 2 sheets of Cartesian graph paper
+
+**THEORY** The light string is considered to be of negligible mass.
+
+a = [(m2 – m1)g – f] / (m1 + m2)
+
+are taken as the ascending and descending sides of the system, respectively (Fig. TI 6.1). Taking the more massive hanger (m₂) to be moving in the positive direction, the unbalanced or net force is
+
+F_net = m₂g - m₁g = (m₂ - m₁)g (TI 6.1)
+
+where the friction and inertia of the pulley are neglected. By Newton’s second law,
+
+F_net = ma = (m₁ + m₂)a (TI 6.2)
+
+where m = m₁ + m₂ is the total mass of the moving system. Then, equating Eqs. (TI 6.1) and (TI 6.2),
+
+(m₂ - m₁)g = (m₁ + m₂)a
+
+and solving for a:
+
+a = F_net / M_total = (m₂ - m₁)g / (m₁ + m₂) (TI 6.3)
+
+(acceleration, theoretical)
+
+(Optional) In the experimental arrangement, there may be an appreciable frictional force f associated with the pulley that opposes the motion. Also, the pulley has inertia. In an attempt to take this inertia into account, an equivalent mass m_eq may be added to the total mass in calculations (not physically added in the experiment). Hence, for better accuracy, the equation for the acceleration of the system should be modified as follows:
+
+F_net = ma F_net - f = (m₁ + m₂ + m_eq)a m₂g - m₁g - f = (m₁ + m₂ + m_eq)a
+
+If the masses of the Atwood machine move with a constant speed, the magnitude a of the acceleration of the system is zero, and
+
+a = 0 = (m₂ - m₁)g - f / (m₁ + m₂ + m_eq)
+
+f = (m₂ - m₁)g = m_f g (TI 6.5)
+
+(uniform speed)
+
+which provides a method for determining the magnitude of the frictional force of the pulley, or the mass m_f needed to provide the weight to balance the frictional force.
+
+Hence, the expression for the theoretical acceleration of the system [Eq. (TI 6.4)] may be written
+
+a_t = (m₂ - m₁ - m_f)g / (m₁ + m₂ + m_eq) (TI 6.6)
+
+(acceleration, theoretical)
+
+where a_t is used to distinguish the theoretical acceleration from the experimentally measured acceleration a_m.
+
+Thus, part of the weight of m₂ goes into balancing or canceling the frictional force of the pulley. In the experimental acceleration trials, the m_f determined in each case is left on the descending hanger as part of m₂ to compensate for the opposing frictional force.
+
+To determine the acceleration of the system experimentally so that it may be compared to that predicted by theory, the time t for the descending mass to fall a given distance y is measured. Then, using the kinematic equation,
+
+y = v₀t + ½at²
+
+with the mass starting from rest, v₀ = 0 (and y = 0, t = 0),
+
+y = ½at²
+
+or
+
+a_m = 2y / t² (TI 6.7)
+
+(acceleration, measured)
+
+where a_m is the experimentally measured acceleration. When a_m is determined experimentally using distance and time measurements, friction and pulley inertia are involved. These are taken into account in the theoretical expression [Eq. (TI 6.6)] so that the experimental and theoretical values of a will be more comparable. Even so, keep in mind that these are approximations and the percent differences may be large. The main purpose of the experiment is to demonstrate how the acceleration of a system depends on the net force and total mass.
+
+EXPERIMENTAL PROCEDURE*
+
+1. Set up the Atwood machine as shown in Fig. TI 6.1. Use enough string so that the distance of travel (y) is slightly less than 1 m for convenient measuring. (To measure y, hold one hanger against the floor and measure from the floor to the bottom of the other hanger.) Measure and record y in TI Data Table 1.
+
+A. Varying the Total Mass (Net Force Constant)
+
+2. (If using inertia and friction corrections, go to Procedure 2a below.) Begin by placing a 10-g mass on the descending hanger so as to create an unbalanced or net force that should cause the system to accelerate from rest. Make a trial run to see if the system moves at an acceleration suitable for timing. If not, adjust the mass accordingly. (See Suggestions 1–3 in the “Comments on Experimental Technique” at the end of the Procedure section.)
+
+Taking the descending mass as m₂, record m₁ and m₂ in TI Data Table 1 as Trial 1. (Ignore the columns headed with asterisks and the m_eq and m_f symbols.)
+
+3. Make three independent measurements of the time it takes for m₂ to travel the distance y from rest. Record the time in TI Data Table 1.†
+
+4. Add 100 g to each hanger. Repeat Procedure 3 (measurement of time with a 10-g mass imbalance). Record the data in the Trial 2 column. Note: The distance y should be remeasured for each trial. The length of the string (and y distance) may vary noticeably because of stretching.
+
+5. Repeat Procedure 3 for two more trials with another 100 g being added for each trial.
+
+(Procedure using inertia and friction corrections).
+
+2a. As noted in the Theory section, the pulley contributes to the inertia of the system as though an “equivalent mass” m_eq were part of the total mass being accelerated. For better results, a m_eq will be added in the calculations. The instructor will provide the value of m_eq or tell you how to measure it (Instructor’s Resource Manual). Record the value of m_eq in the data tables.
+
+3a. Begin with the descending mass (m₂) and the ascending mass (m₁), each equal to 50 g (that is, the masses of the hangers alone). With m₁ = m₂, the system is in equilibrium—equal forces, m₁g = m₂g. In the absence of friction, a slight tap or momentary force applied to m₂ should set the system in uniform motion (constant speed). (Why?) However, because of the opposing frictional force, the motion will not persist.
+
+4a. Add small masses to m₂ until a downward push causes m₂ to descend with a uniform (constant) velocity. (See Comment 4 in the “Comments on Experimental Technique” at the end of the Procedure section.) Apply a sufficient push so the masses move at a reasonable speed; they should not move too slowly. You may find it easier to recognize uniform motion by observing the rotating pulley rather than the masses.
+
+Record m₁ and m₂ in TI Data Table 1 in the first column marked with an asterisk. These values are used to calculate the frictional mass, m_f = m₂ - m₁, needed in the theoretical calculation of the acceleration of the system [Eq. (TI 6.6)].
+
+5a. (i) Add 10 g to m₂, leaving m_f in place. This creates an unbalanced force that should cause the system to accelerate from rest. Measure the distance y. Record y, m₁, and the new value of m₂ in TI Data Table 1, Trial 1. (See “Comments on Experimental Technique” at the end of the Procedure section.)
+
+(ii) Make three independent measurements of the time it takes for m₂ to travel the distance y from rest. Record the data as Trial 1.
+
+(iii) Remove m₂ and the 10-g mass before proceeding to the next trial.
+
+6a. (i) Add 100 g to each hanger for a total of 150 g each.
+
+(ii) Repeat Procedure 4a (measurement of frictional mass), and record data in the next asterisked column in TI Data Table 1.
+
+(iii) Repeat timing measurements, Procedure 5a (measurement of acceleration with a net 10-g mass imbalance). Record the data in the Trial 2 column. The calculations for Trial 2 should utilize the value of m_f obtained for the immediately preceding asterisked column. Note: The values of m₁ and y should be remeasured for each of the trials in TI Data Table 1. As the total mass is changed, the friction will change likewise. The length of the string (y distance) may vary noticeably because of stretching.
+
+7a. Repeat Procedures 4a and 5a for two more trials with another 100 g being added for each trial.
+
+B. Varying the Unbalanced Force (Total Mass Constant)
+
+1. (If using inertia and friction corrections, go to Procedure 1b below.) Begin with an ascending mass of 260 g (50-g hanger + 200 + 5 + 2 + 1 + 1 + 1-g masses) and a similar descending mass m₂ = 260 g (50-g hanger + 200 + 10-g masses).*
+
+2. Transfer 1 g from m₂ to m₁ in order to create an unbalanced force without affecting the total mass. Make three measurements of the travel time as done previously in Procedure A3. Record the data as Trial 5 in
+
+2b. Measure the frictional mass as done previously in Procedure A4a. Record the data in the asterisked column in TI Data Table 2. The value of m_f from these data may be used in the calculations for all trials in TI Data Table 2, since the total mass (and presumably the friction) will now be constant.
+
+3b. Leaving m_f in place, transfer 1 g from m₁ to m₂ in order to create a net unbalanced force without affecting the total mass. Make three measurements of the travel time as in Procedure 5a. Record all pertinent data in the Trial 5 column.
+
+4b. Leaving m_f and the previously transferred 1-g mass in place,
+
+(a) transfer an additional 2 g for Trial 6,
+
+(b) transfer an additional 2 g for Trial 7,
+
+(c) transfer an additional 5 g for Trial 8.
+
+C. Comments on Experimental Technique
+
+1. The masses must start from rest during the acceleration trials. A good technique is as follows:
+
+(a) Hold m₁ down against the floor.
+
+(b) Simultaneously release m₂ and start the timer.
+
+(c) Stop the timer at the instant m₂ strikes the floor.
+
+The best results are obtained when the same person releases m₂ and operates the timer. (Why?)
+
+2. Some of the masses may be jolted off the hangers by the impact on hitting the floor. It may be helpful to place a shock-absorbing pad on the floor. Also, one lab partner should attend to the upper weight to prevent it, or some of it, from falling.
+
+## 3. Take turns at each task
+
+4. Measure the frictional mass to a precision of ±1g. Fine adjustment of the descending mass may be made by using small “custom” masses (paper clips) as needed. These paper clips can be attached to the cord TI Data Table 2.
+
+just above the m hanger. Good precision is necessary for good results because the frictional force is comparable in magnitude to the accelerating force. Small errors in the frictional masses may create large experimental errors.
+
+(Procedure using inertia and friction corrections).
+
+1b. Begin with an ascending mass m = 260 g (50-g hanger + 200 + 5 + 2 + 2 + 1-g masses) and a similar descending mass m = 260 g (50-g hanger + 200 + 10-g masses).*
+
+* Mass increments larger than 1 and 2 g may have to be used, depending on the pulley friction. Friction may not be uniform, so a greater mass difference may be needed to initiate motion.
+
+## EXPERIMENT
+
+Newton’s Second Law: The Atwood Machine
+
+Laboratory Report
+
+## DATA TABLE
+
+Purpose: To investigate a = F/m by holding F constant. (If not considering pulley inertia and friction, ignore (*) columns and m_eq and m_f symbols.)
+
+Trial m_eq (*)
+
+Descending mass m ( )
+
+Ascending mass m ( )
+
+Distance of travel y ( )
+
+Run 1 Time of travel Run 2 t ( ) Run 3 Average Measured acceleration a = 2y/t² ( )
+
+Total mass = m1 + m2 + m_eq ( )
+
+Measured frictional mass m_f = m2 - m1 ( )
+
+Net force = (m2 - m1 - m_f)g ( )
+
+Theoretical acceleration a = net force / total mass Percent different between a_m and a_t
+
+*Measurement of frictional mass m_f. Masses move with constant velocities when given descending masses are equal, the system should not move. If it does, check that the pulley is level.
+
+B. Varying the Unbalanced Force (Total Mass Constant)
+
+1. Erase all previous data by going to the main menu and, under “Experiment,” choosing “Delete all data runs.”
+
+2. Place the following mass pieces on the ascending hanger: 5 g, 2 g, 2 g, 1 g. If you are using the PASCO mass and hanger set, the hangers should also have a 50-g piece, as discussed previously. If you are using a conventional 50-g hanger, no extra weight is needed. CI Fig. 6.4 shows the ascending and descending masses for the PASCO mass and hanger set.
+
+Ascending mass: 1 g 2 g 2 g 5 g 50 g 5-g hanger Added to slow the system down
+
+Descending mass: 10 g 50 g 5-g hanger
+
+CI Figure 6.4 Ascending and descending masses using PASCO mass and hanger set ME-8967. A 50-g piece is added to each of the small 5-g hangers to prevent them from moving too fast. The ascending mass has a combination of small pieces (5 g, 2 g, 2 g, 1 g) that add to 10 g. A 10-g piece is placed in the descending mass hanger. To unbalance the system, small pieces from the ascending hanger are moved to the descending hanger.
+
+3. Place a 10-g piece on the descending hanger. Again, with the PASCO mass and hanger set, the hanger should also have a 50-g piece, but with a conventional 50-g hanger, no extra weight is needed.
+
+4. Trial 1: Unbalance the system by transferring the 1-g piece from the ascending to the descending hanger. At this time make a note of the ascending and the descending masses and enter the values in CI Data Table 2. Do not forget to include the mass of the hangers!
+
+## 5. Collect the data as before and determine the experimental acceleration
+
+6. Trial 2: Move one of the 2-g pieces from the ascending to the descending hanger, and repeat the data collection process. Note that this changes the amount of unbalanced force without changing the total mass of the system.
+
+7. Trial 3: Move the other 2-g piece from the ascending to the descending hanger, and repeat the data collection process.
+
+8. Trial 4: Move the 5-g piece from the ascending to the descending hanger, and repeat the data collection process.
+
+9. Calculate the net unbalanced force, in newtons, of each trial, and enter the results in CI Data Table 2.
+
+10. Clear the graph window of any fit information and print the graph. Label each of the plots with the unbalanced force corresponding to each trial. Paste the graph to the laboratory report.
+
+11. Calculate the theoretical acceleration for each trial, using Eq. (CI 6.1). Compare the theoretical value with the experimental value by taking a percent error.
+
+## CI EXPERTMENT
+
+Newton’s Second Law: The Atwood Machine Laboratory Report
+
+## DATA TABLE
+
+Purpose: To investigate how the acceleration of a system varies as the mass of the system increases, without changing the net applied force.
+
+Trial | Ascending m₁ | Descending m₂ | Total mass m₁+m₂ | Measured acceleration (from graph) | Unbalanced force (m₂–m₁)g | Theoretical acceleration | % error 1 | | | | | | |
+
+## DATA TABLE
+
+Purpose: To investigate how the acceleration of a system varies as the net applied force on the system increases, while the mass remains constant.
+
+Trial | Ascending m₁ | Descending m₂ | Total mass m₁+m₂ | Measured acceleration (from graph) | Unbalanced force (m₂–m₁)g | Theoretical acceleration | % error 1 | | | | | | |
+
+Don’t forget units.
+
+## QUESTIONS
+
+1. What happens to the acceleration of a system when the mass of the system increases but the net force stays constant?
+
+2. What happens to the acceleration of a system when the net applied force increases but the mass of the system does not change?
+
+3. Refer to the data in CI Data Table 2. Make a one-page graph of unbalanced force versus measured acceleration, and draw the best-fitting straight line. Determine the slope of this line. Show the details of the calculation on the graph, and attach the graph to the lab report.
+
+## 4. What are the units of the slope of your graph?
+
+5. What physical quantity of the system is represented by the slope of the force-versus-acceleration graph? How well does it match the experimental setup?
+
+6. From the results, was there a good agreement between the experimental acceleration and the theoretical (expected) acceleration? What causes the difference? Discuss sources of experimental uncertainty for this experiment.
+
+## EXPERIMENT
+
+Conservation of Linear Momentum Advance Study Assignment Read the experiment and answer the following questions.
+
+1. What is meant when we say that a quantity, such as linear momentum, is conserved?
+
+## 2. What is the condition for the conservation of linear momentum of a system?
+
+## 3. Show that Newton’s second law can be written in the form F = Δp/Δt
+
+4. Is the conservation of linear momentum consistent with Newton’s first and third laws of motion? Explain.
+
+5. In a system of particles for which the total linear momentum is conserved, is the linear momentum of the individual particles constant? Explain.
+
+6. Suppose that a particle of mass m₁ approaches a stationary mass m₂ and that m₁ >> m₂. What would you expect to happen on collision?
+
+Advance Study Assignment Read the experiment and answer the following questions.
+
+1. What mechanism will be used to make the collision between the cars an elastic collision?
+
+2. What mechanism will be used to make the collision between the cars an inelastic collision?
+
+## EXPERIMENT
+
+Conservation of Linear Momentum
+
+## OVERVIEW
+
+Experiment 7 examines the conservation of linear momentum by TI procedures and/or CI procedures. The TI procedure uses distance-time measurements to determine the velocities of air track cars before and after collisions in the investigation of the conservation of linear momentum. The CI procedure measures the velocities electronically and graphs the data. The velocities, total momentum, and total kinetic energy are obtained from the graphs.
+
+## INTRODUCTION AND OBJECTIVES
+
+The conservation of linear momentum (p = mv) is an important physical concept. However, the experimental investigation of this concept in an introductory physics laboratory is hampered by ever-present frictional forces. An air track provides one of the best methods to investigate linear momentum (see TI Fig. 4.2). Aluminum cars or gliders riding on a cushion of air on the track approximate frictionless motion—a necessary condition for the conservation of linear momentum.
+
+In the absence of friction (and other external forces), the total linear momentum of a system of two cars will be conserved during a collision. That is, the total linear momentum of the system should be the same after collision as before collision. By measuring the velocities of cars of the same and different masses before and after collision, the total momentum of a system can be determined and the conservation of linear momentum investigated.
+
+## OBJECTIVES
+
+1. Explain when linear momentum is conserved and what this means in terms of force and motion.
+
+## 2. Apply the conservation of linear momentum to a system
+
+## 3. Describe two-body collisions in terms of the conservation of linear momentum
+
+1. Understand that momentum is conserved for both elastic and inelastic collisions.
+
+2. Distinguish between elastic and inelastic collisions in terms of the conservation of kinetic energy.
+
+## EXPERIMENT
+
+Conservation of Linear Momentum
+
+## EQUIPMENT NEEDED
+
+• Air track • Three cars (two of similar mass)
+
+• Four laboratory timers or stopwatches* *If electronic photogates/timers and computer-assisted data analysis are available, your instructor will give you instruction on their use.
+
+• Laboratory balance • Meter stick (if no length scale on air track)
+
+• Masking tape • Velcro (optional)
+
+## THEORY
+
+The linear momentum p of a particle or object is defined as p = mv (TI 7.1)
+
+where m is the mass of the object and v its velocity.† Since velocity is a vector quantity, so is linear momentum.
+
+Newton’s second law of motion, commonly expressed in the form F = ma, can also be written in terms of momentum: F = Δp/Δt (TI 7.2)
+
+(Recall a = Δv/Δt.)
+
+If there is no net or unbalanced external force acting on the object (F = 0), then F = Δp/Δt = 0 and Δp = 0 That is, the change in the momentum is zero, or the momentum is constant: vf = vi That is, an object remains at rest (v = 0) or in uniform motion (v = v) unless acted on by some external force.
+
+The previous development also applies to the total momentum of a system of particles or objects. For example, the total linear momentum (P) of a system of two objects m₁ and m₂ is P = p₁ + p₂, and if there is no net external force acting on the system, then ΔP = 0 In the case of a collision between two objects of a system (with only internal forces acting), the initial total momentum before the collision is the same as the final total momentum after the collision. That is, p₁i + p₂i = p₁f + p₂f (TI 7.4)
+
+or m₁v₁i + m₂v₂i = m₁v₁f + m₂v₂f In one dimension, the directions of the velocity and momentum vectors are commonly indicated by plus and minus signs, that is, +v and -v.† The momentum is conserved. Conserved means that the momentum remains constant (in time). Expanding Δp: Δp = p_f - p_i = 0 and p_f = p_i (TI 7.3)
+
+The internal forces of a system do not change the total momentum, because, according to Newton’s third law, F_{12} = -F_{21} [the force on object 1 due to object 2 is equal to and opposite in direction (minus) to the force on object 2 due to object 1]. Thus the change in momentum for one object will be equal in magnitude and opposite in direction to the change in momentum for the other object, and the total momentum will be unchanged.
+
+The “final” momentum p_f at any time t_f is the same as the initial momentum p_i at time t_i. Notice that this is consistent with Newton’s first law of motion, since p_f = p_i or m v_f = m v_i.
+
+†In two (or three) dimensions, the momentum is conserved in both (or all) directions. That is, Δp_x + Δp_y = 0, and Δp_x = 0 and Δp_y = 0 (Why?)
+
+†Boldface symbols indicate vectors (see Expt. 5). Note: p_x = m v_x and p_y = m v_y.
+
+108 EXPERIMENT 7 / Conservation of Linear Momentum
+
+## EXPERIMENTAL PROCEDURES
+
+(Review the operation of the air track in Experiment 4 if necessary.)
+
+1. Determine the mass of each car and record it in the TI Trial Data Table. Let the masses of the two cars of nearly equal mass be m_1 and m_2 and the mass of the third car be m_3.
+
+2. Mark off two equal and convenient lengths (for example, ½ or 1 m) on both sides of the center position of the air track. Make full use of the length of the track, but leave some space near the ends of the track. Place the four tape reference marks at the lower edges of the track so as not to interfere with the car motion. Do not mark the air track surface itself with tape or anything else.
+
+3. Time trials. By measuring the time interval Δt it takes a car to move the reference mark length d, one can determine the magnitude of the velocity v = d/Δt of the car, where Δt = t_2 - t_1. The actual timing of the motion of a car moving between the two sets of reference marks is done by either method. In (A), involving four observers, each has a timer and is assigned to an individual reference mark. In (B), involving two observers, each has a timer and is assigned to one set of reference marks, as described below. Time trials will be done to determine the better method.* In addition to giving timing practice and determining the better method of timing, the time trials check out the experimental setup for possible systematic errors. The time intervals for the individual cars to travel the equal distances between the reference marks should be very similar for any one trial. If not, the air track may need leveling and/or there may be some frictional problem with part of the track. Should this be the case, notify your instructor. Do not attempt to level the air track on your own.
+
+Experimentally carry out each of the following timing methods to determine which is better.
+
+Method A—Four Timers. Set one of the cars in motion with a slight push so that it moves with moderate speed up and down the track. (A few practice starts help.) As the car hits the bumper at one end of the track, all four observers should start their timers. As the leading edge of the car passes the assigned reference marks, each respective observer stops his or her timer. (Making a dry run or two to become familiar with the timing sequence is helpful.) Carry out this procedure twice for each of the three cars, and record the data in the TI Trial Data Table.
+
+Method B—Two Timers. Set the car in motion. The two observers should start and stop their individual timers as the leading edge of the car passes their respective reference mark set. Carry out this procedure twice for each of the three cars, and record the data in the TI Trial Data Table.
+
+4. Compute the Δt’s for each trial and calculate the percent difference for each trial set. From the data, decide which timing method should be used on the basis of consistency or precision.
+
+*If electronic photogate timers are available, your instructor will give you instruction in their use. Electronic timing greatly improves the accuracy and precision of the results. (Why?)
+
+TI Figure 7.1 Experimental collision cases. See text for descriptions.
+
+EXPERIMENT 7 / Conservation of Linear Momentum 109 Case 1: Collision Between Two Cars of (Nearly) Equal Mass, With One Initially at Rest 5. With one of the cars (m_2) of nearly equal mass stationary at the center position of the air track, start the other car (m_1) moving toward the stationary car. See ● TI Fig. 7.1. (It may be more convenient to start m_1 moving away from m_2 and take measurements as m_1 returns from rebounding from the end of the track.) A trial run should show that m_2 remains at rest, or nearly at rest, after collision and that m_1 is in motion.
+
+Determine the time it takes for m_1 to travel between the reference marks as it approaches m_2 and the time it takes for m_1 to travel between the other set of reference marks after collision. Carry out this procedure three times and record the data in TI Data Table 1.
+
+Compute the velocities and the total momentum before and after collision and the percent difference in these values for each trial.
+
+Case 2: Collision Between Two Cars of Unequal Mass, With the More Massive Car Initially at Rest 6. Repeat Procedure 5 with m_2 replaced by m_3 (more massive than m_1 and m_2). See TI Fig. 7.1. In this case, m_1 will travel in the opposite direction after collision, as a trial run will show. Make appropriate adjustments in the timing procedure to measure the velocity of m_1 before and after collision. Record the data and the required calculations in TI Data Table 2. Be careful with the directional signs of the velocities and momenta.
+
+Case 3: Collision Between Two Cars of (Nearly) Equal Mass Initially Traveling in Opposite Directions 7. With m_1 and m_2 initially moving toward each other (TI Fig. 7.1), determine the total momentum before and after collision. (Note: Speeds do not have to be, and probably won’t be, equal.)
+
+Make appropriate adjustments in the timing procedure to measure the velocities of m_1 and m_2 before and after collision. Carry out the procedure three times, and record the data in TI Data Table 3.
+
+Compute the percent difference for the total momentum before and after collision for each trial.
+
+(Optional Procedure)
+
+Another procedure, which may be done at the instructor’s option, is as follows: 8. Attach pieces of Velcro to the collision bumpers of both cars, and repeat one or more of the preceding cases as directed by your instructor. Make up a data table, and analyze your results as done previously. (Hint: Read in your textbook about elastic and inelastic collisions—in particular, completely inelastic collisions.)
+
+This page intentionally left blank
+
+Name Section Date Lab Partner(s)
+
+## T I E X P E R I M E N T
+
+Conservation of Linear Momentum Laboratory Report Distance between marks _____________________
+
+## TRIAL DATA TABLE
+
+Purpose: To determine the better method of timing.
+
+| Method A | | | Method B | | | Percent | |---|---|---|---|---|---|---| | Car mass | t_1 | t_2 | Δt_12 | t_3 | t_4 | Δt_34 | Δt_12 | Δt_34 | diff. | | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) |
+
+## DATA TABLE
+
+Purpose: To analyze m_1 ≈ m_2 case, with v_2i = 0.
+
+| Trial | Before collision | | | After collision | | | Percent | |---|---|---|---|---|---|---|---| | | m_1 | | | m_1 | | | | | | Δt_1i | v_1i | p_1i | Δt_1f | v_1f | p_1f | diff. | | 1 | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | Don’t forget units (continued)
+
+111 E X P E R I M E N T 7 Conservation of Linear Momentum Laboratory Report
+
+## DATA TABLE
+
+Purpose: To analyze m_3 > m_1 case, with v_3i = 0.
+
+| Trial | Before collision | | | After collision | | | | | | Percent | |---|---|---|---|---|---|---|---|---|---|---| | | m_1 | | | m_1 | | | m_3 | | | | | | Δt_1i | v_1i | p_1i | Δt_1f | v_1f | p_1f | Δt_3f | v_3f | p_3f | Total Momentum diff. | | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) |
+
+## DATA TABLE
+
+Purpose: To analyze the m_1 ≈ m_2 case, initial motions in opposite directions.
+
+| Trial | Before collision | | | | | | | After collision | | | | | | Total Momentum | Percent | |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---| | | m_1 | | | m_2 | | | Total | m_1 | | | m_2 | | | | | | | Δt_1i | v_1i | p_1i | Δt_2i | v_2i | p_2i | Momentum | Δt_1f | v_1f | p_1f | Δt_2f | v_2f | p_2f | Momentum | diff. | | 1 | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) | ( ) |
+
+112 Name Section Date Lab Partner(s)
+
+E X P E R I M E N T 7 Conservation of Linear Momentum Laboratory Report
+
+## QUESTIONS
+
+1. Do the results of the experiment support the conservation of linear momentum? Consider possible sources of error.
+
+2. Was it necessary to have equal length intervals in the experiment to investigate properly the conservation of momentum? Explain.
+
+3. In Cases 1 and 2, one of the cars was initially at rest, so it must have received an acceleration. Is the car accelerating as it passes between the reference marks? Explain.
+
+4. In each of the three cases, was kinetic energy conserved? Justify your answers with a sample calculation for a trial from each case. If the kinetic energy is not conserved, where did it go?
+
+This page intentionally left blank
+
+## C I E X P E R I M E N T
+
+Conservation of Linear Momentum
+
+## EQUIPMENT NEEDED
+
+• 2 rotary motion sensors (PASCO CI-6538)
+
+• Brackets and pulley mounts: 2 cart-string brackets (CI-6569)
+
+2 dynamics track mount accessories (CI-6692, to mount the RMS to the track)
+
+2 RMS/IDS adapters (ME-6569, track pulley bracket)
+
+• 2 collision carts (PASCO Classic Cars, ME-9454)
+
+• 1 track • Clay or Velcro strips • String • Optional: track end stop
+
+## THEORY
+
+The purpose of this experiment is to investigate the momentum and kinetic energy for elastic and inelastic collisions. The momentum and kinetic energy before the collision of two cars are compared with the momentum and kinetic energy after the collision by looking at a plot of these quantities versus time.
+
+An object in motion also has kinetic energy. The total kinetic energy in a system can be determined by adding the kinetic energies of all objects in the system: K = K_1 + K_2 = ½ m_1 v_1² + ½ m_2 v_2² (CI 7.1)
+
+For velocity, an object moving toward the sensor is assigned a positive velocity, and an object moving away from the sensor is assigned a negative velocity.
+
+7.2)
+
+Total 1 2 2 1 1 2 2 2 In a collision between two objects, the total momentum at any time is found by adding the momentum of one of the objects to that of the other: P = p1 + p2 = m1v1 + m2v2 (CI 7.1)
+
+Total 1 2 1 1 2 2 This is vector addition, which means the directions of motion of both objects must be taken into account. The sensor used to measure the speeds of the objects will also assign a positive or negative sign, depending on direction. In general, an object moving toward the sensor is assigned a positive velocity.
+
+The total momentum and the total kinetic energy just before and just after a collision are determined and compared. First, an elastic collision between two cars is considered. The cars have magnets that make them repel each other when they get close enough. The effect is that the cars bounce off each other (collide) without touching. Next, an inelastic collision is considered. The magnets are replaced by a piece of clay (or Velcro) that will make the cars stick to each other after the collision.
+
+## BEFORE YOU BEGIN
+
+Cart-string bracket 1. Install a cart-string bracket on each of the collision carts. The cart-string bracket is mounted on the side of the cart, as shown in ● CI Fig. 7.1.
+
+IDS cart 2. Choose one cart to be Car 1 and measure its mass, in kilograms, including the cart-string bracket. Report the mass of Car 1 in the laboratory report.
+
+3. The other cart will be Car 2. Measure its mass and also record that mass in the laboratory report.
+
+4. Do not lose track of which is Car 1 and which is Car 2. If needed, put a small tape label on the cars so that you will not confuse them later.
+
+This information will be needed during the setup of Data Studio.
+
+IDS track CI Figure 7.1 Installing cart-string brackets. The cart-string brackets are installed on top of the collision carts, secured with a side screw. The top screw is used to tie a string. When measuring the mass of the car, include the cart-string bracket.
+
+## SETTING UP DATA STUDIO
+
+## 1. Open Data Studio and choose “Create Experiment.”
+
+2. The Experiment Setup window will open, and you will see a picture of the Science Workshop interface. There are seven channels to choose from. (Digital channels 1, 2, 3, and 4 are the small buttons on the left; analog channels A, B, and C are the larger buttons on the right, as shown in CI Fig.7.2.)
+
+3. Click on the Channel 1 button in the picture. A window with a list of sensors will open.
+
+## 4. Choose the Rotary Motion Sensor from the list, and press OK
+
+5. Click on the Channel 3 button in the picture, and again choose a Rotary Motion Sensor from the list and press OK.
+
+6. Connect the sensors to the interface as shown on the computer screen: one goes to Channels 1 and 2, the other goes to Channels 3 and 4.
+
+7. The properties of each RMS sensor are shown directly under the picture of the interface. (See CI Fig. 7.2.)
+
+## 8. Click on the icon of the first sensor and adjust the properties as follows:
+
+First Measurements tab: deselect all options.
+
+Second Measurements tab: select Velocity and deselect all others.
+
+Rotary Motion Sensor tab: set the Resolution to high (1440 divisions/rotations); and set the Linear Scale to Large Pulley (Groove).
+
+Set the Sample Rate to 100 Hz.
+
+9. Click on the icon of the second sensor, and repeat the process of adjusting the properties, as done in step 8.
+
+10. Open the program’s calculator by clicking on the Calculate button, on the top main menu. Usually, a small version of the calculator opens, as shown in ● CI Fig. 7.3. Expand the calculator window by clicking on the button marked “Experiment Constants.” 11. The expanded window (shown in ● CI Fig. 7.4) is used to establish values of parameters that will remain constant throughout the experiment. In this case, these are the masses m1 and m2 of the carts, which have already been measured. This is how to do it: a. Click on the lower New button (within the “Experiment Constants” section of the calculator window) and enter the name of the constant as m1, the value as the mass of Car 1 measured before, and the units as kg.
+
+b. Click the lower Accept button.
+
+c. Click on the New button again and enter the name of the constant as m2, the value as the mass of Car 2 measured before, and the units as kg.
+
+d. Click the lower Accept button.
+
+e. Close the experiment constants portion of the calculator window by pressing the button marked “Experiment Constants” again.
+
+## 12. Calculation of the total momentum of the system:
+
+a. In the same calculator window, clear the definition box and enter the following equation: TotalP = m1 * smooth (10,v1) + m2 * smooth (10,v2)
+
+This is the calculation of the total momentum, P = m1v1 + m2v2, that we will call TotalP. The smooth function will help produce a cleaner graph.
+
+b. Press the top Accept button after entering the formula. Notice that the variables m1, m2, v1, and v2 will appear in a list. The masses were already assigned values, but v1 and v2 are waiting to be defined.
+
+c. To define variables v1 and v2, do them one at a time by clicking on the drop menu button on the left side of each variable. A list of options appears, asking what type of variable this is.
+
+• Define v1 as a Data Measurement and, when prompted, choose Velocity(Ch1&2). The result should be Velocity Ch1&2.
+
+• Define v2 as a Data Measurement and, when prompted, choose Velocity(Ch3&4). The result should be Velocity Ch3&4.
+
+d. Press the Accept button again.
+
+Please notice that Channels 1&2 will keep track of Car 1 and that Channels 3&4 will track Car 2. Make sure the equipment is set up accordingly.
+
+## 13. Calculation of the total kinetic energy of the system:
+
+a. Still in the same calculator window, press the top New button again to enter a new equation.
+
+b. Clear the definition box and enter the following equation: TotalKE = 0.5 * m1 * smooth (10,v1)^2 + 0.5 * m2 * smooth (10, v2)^2 This is the calculation of the total kinetic energy, K = 1/2 m1 v1^2 + 1/2 m2 v2^2, that we will call TotalKE.
+
+c. Press the Accept button after entering the formula. Notice that the variables will again appear in a list. Define them exactly as before.
+
+d. Press the Accept button again.
+
+## 14. Close the calculator window
+
+15. The data list at the top left of the screen should now have four items: Velocity from Ch1&2, Velocity from Ch3&4, TotalP, and TotalKE. A small calculator icon identifies the quantities that are calculated.
+
+16. Create a graph by dragging the “Velocity Ch1&2” icon from the data list and dropping it on the “Graph” icon on the displays list. A graph of velocity versus time will appear.
+
+17. Double-click anywhere on the graph. The Graph Settings window will open. Make the following changes and selections: Under the tab Appearance: Data: Connect data points in bold; deselect the buttons marked “Show Data Points” and “Show Legend Symbols” Under the tab Layout: Multiple graphs: Vertical Layering: Do not layer Measurement adding: Replace matching measurement Group measurement: Do not group Click OK to accept the changes and to exit the graph settings window.
+
+18. Drag the “Velocity Ch3&4” data icon and drop it in the middle of Graph 1. The graph will split in two. At the top you will see the Velocity Ch1&2 and at the bottom the Velocity Ch3&4, on separate y-axis.
+
+19. Drag the “TotalP” icon and drop it on the split graph. The graph will split again, this time into three sections.
+
+20. Drag the “TotalKE” icon and also drop it on the graph. The result should be a graph split into four sections, one section for each of the quantities.
+
+21. Press the “Align Matching X Scales” button on the graph’s toolbar. (It is a button with a picture of a padlock.) This will make all graphs aligned to a common t = 0 on the x-axis.
+
+22. ● CI Fig. 7.5 shows what the screen should look like after all setup is complete. The size of the graph window can be maximized so that you can observe the plots better.
+
+## EXPERIMENTAL PROCEDURE
+
+The complete experimental setup is shown in ● CI Fig. 7.6. Each car is connected to its own sensor and pulley system, one on each side of the track. Here are the instructions for setting up the carts.
+
+1. Place Cars 1 and 2 (with the cart-string brackets attached) on the track with the magnetic sides facing each other. The cart-string brackets may need repositioning so that they face the outside of the track, as shown in CI Fig. 7.6.
+
+2. Install a rotary motion sensor (RMS) on each side of the track, with the pulleys facing the inside of the track.
+
+3. On the opposite side of the track, install the RMS/IDS adapters (small pulleys). See ● CI Fig. 7.7 for details.
+
+ill open in a window titled Graph 1.
+
+CI Figure 7.5 Data Studio setup. Data for velocity of each car, total momentum, and total kinetic energy will appear simultaneously on four plots, with matching time axes. The graph window may be maximized to occupy the whole screen in order to display the experimental results better. (Reprinted courtesy of PASCO Scientific.)
+
+Velcro tabs connect to ports 3, 4. Magnetic ends (collision cars) connect to IDS track. IDS mount accessory: RMS Car 1 Thread Car 2. Car 1 Car-string brackets connect to IDS track pulley brackets ports 1, 2.
+
+CI Figure 7.6 Experimental setup. Two collision carts are installed on the same track. Each cart is connected to its own rotary motion sensor on one side and to its own IDS-RMS adapter (track pulley bracket) on the other side. An elastic collision can be performed by having the magnetic ends of the cars face each other. An inelastic collision can be performed by having the nonmagnetic sides face each other and putting clay or Velcro on the ends of the cars.
+
+IDS track pulley bracket, IDS track, IDS mount accessory, RMS. To computer interface: (a) (b)
+
+CI Figure 7.7 Mounting the RMS and the IDS track pulley to the track. (a) This figure shows how to mount the rotary motion sensor to one end of the track, using the mount accessory. (b) This figure shows how the IDS/RMS adapter (the track pulley bracket) should be mounted to the track.
+
+Optional: end stop.
+
+CI Figure 7.8 Example of one side of the experimental setup. This diagram illustrates one of the carts completely set up. Notice the string connecting the pulleys to the cart-bracket is to have tension, but not be so tight that the cart cannot move freely.
+
+4. A string will make a loop starting from the cart-string bracket on top of the car, to the large pulley of the RMS, to the small pulley of the RMS/IDS adapter, and back to the cart, as shown in CI Fig. 7.8. Do this for both cars, as shown in the complete set up of CI Fig. 7.6. Adjust the height of the pulleys so that the strings are tense, not sagging, but the cars are able to move freely.
+
+Case 1: Elastic Collision Between Two Cars of (Nearly) Equal Mass, With One Initially at Rest
+
+## 5. Set Car 2 somewhere on the middle of the track, at rest
+
+## 6. Set Car 1 all the way to the end of the track
+
+## 7. Press the START button, and then give Car 1 a good push toward Car 2
+
+8. Press the STOP button after the collision, before Car 2 bounces at the end of the track. (Several practice runs, and the help of a partner, may be needed.)
+
+9. Click anywhere on the Velocity Ch1&2 graph, and then press the Scale-to-Fit button on the graph toolbar (The Scale-to-Fit button is the leftmost button on the graph toolbar.) This will make the data scale to the length of the graph on the screen. Repeat for the other three graphs.
+
+10. If any of the graphs of velocity is reading negative values, switch the yellow and black cables of the corresponding rotary motion sensor in the interface so that the yellow cord connects to where the black cord was, and vice versa. Repeat the data collection process, and use the new data in the rest of the analysis.
+
+11. Print the graph. If no printer is available, make a careful drawing of the graph, paying special attention to dips and peaks in the graphs. Attach the graph to the laboratory report.
+
+12. Click anywhere on the Velocity Ch1&2 graph, and then press the Smart-Tool button on the graph toolbar. (The Smart-Tool is a button on the graph toolbar labeled XY.) A set of crosshairs will appear on the graph. Repeat for each of the other graphs to get a set of crosshairs on each graph. The crosshairs can be dragged around to determine the exact (x, y) value of any point in the graphs.
+
+13. Use the Smart-Tools to find the time t that corresponds to the moment just before the collision. Report the value of t in the laboratory report. (Hint: Use the velocity graphs and think of what the cars were doing just before the collision.)
+
+14. In the graph printout, mark the time t in all graphs by drawing a single, vertical line from top to bottom of the page crossing time t.
+
+15. Use the Smart-Tools to find the time t that corresponds to the moment just after the collision ended. Report the value of t in the laboratory report (Hint: The collision does not end at the same time as when it started—look carefully! Again, think of what the cars were doing right after the collision.)
+
+16. In the graph printout, mark the time t in all graphs by drawing a single, vertical line from top to bottom of the page crossing time t. The two vertical lines now separate the before-collision from the after-collision moments.
+
+## 17. Determine how long (in time) the collision lasted
+
+## 18. Use the Smart-Tool to determine, at time t:
+
+• the velocity of Car 1 • the velocity of Car 2 • the total momentum of the system • the total kinetic energy of the system Enter the results in CI Data Table 1.
+
+## 19. Use the Smart-Tool to determine, at time t:
+
+• the velocity of Car 1 • the velocity of Car 2 • the total momentum of the system • the total kinetic energy of the system Enter the results in CI Data Table 1.
+
+20. Calculate the change in velocity of each car, the change in momentum of each car, the change in the total momentum of the system, and the change in the total kinetic energy of the system. Enter the results in CI Data Table 1.
+
+Case 2: Inelastic Collision Between Two Cars of (Nearly) Equal Mass, With One Initially at Rest 21. Switch the cars on the track so that their magnetic ends are facing away from each other. The easiest way to do this without altering the strings is to unscrew the cart-string brackets from the carts but not from the strings. The cars can then be switched under the brackets and the brackets reinstalled.* 22. Place a small piece of clay on the colliding end of both cars. (Note: Velcro strips and sticky masking tape also work well for this. Some PASCO carts already come with Velcro strips attached.)
+
+## 23. Set Car 2 somewhere on the middle of the track, at rest
+
+## 24. Set Car 1 all the way to the end of the track
+
+## 25. Press the START button, and then give Car 1 a good push toward Car 2
+
+26. Press the STOP button after the collision, before the cars reach the end of the track and bounce. (The cars must stick together after the collision. Several practice runs, and the help of a partner, may be needed to get the hang of it.)
+
+27. Repeat steps 10 to 20, for this set of data, but enter the results in CI Data Table 2.
+
+*Some PASCO carts have magnets on both ends. These won’t work. A new set of carts with no magnets (plunger carts) will be needed, which means new masses must be measured and entered in the calculator, if this is the case.
+
+Name Section Date Lab Partner(s)
+
+CI EXPERIMENT 7 Conservation of Linear Momentum Laboratory Report Case 1: Elastic Collision Between Two Cars of (Nearly) Equal Mass, With One Initially at Rest Car 1: m1 = ______________________ Car 2: m2 = ______________________ Collision started at t_o = ______________________ Total collision time Δt = t_f - t_o = ______________________ Collision ended at t_f = ______________________
+
+## DATA TABLE
+
+Purpose: To analyze an elastic collision between two objects of nearly identical mass.
+
+Velocity of Car 1, v1 | Velocity of Car 2, v2 | Total momentum, P | Total kinetic energy, K Just before the collision | Just after the collision | Changes Δv1 | Δv2 | ΔP | ΔK Don’t forget units (continued)
+
+Case 2: Inelastic Collision Between Two Cars of (Nearly) Equal Mass, With One Initially at Rest Car 1: m1 = ______________________ Car 2: m2 = ______________________ Collision started at t_o = ______________________ Total collision time Δt = t_f - t_o = ______________________ Collision ended at t_f = ______________________
+
+## DATA TABLE
+
+Purpose: To analyze an inelastic collision between two objects of nearly identical mass.
+
+Velocity of Car 1, v1 | Velocity of Car 2, v2 | Total momentum, P | Total kinetic energy, K Just before the collision | Just after the collision | Changes Δv1 | Δv2 | ΔP | ΔK
+
+## QUESTIONS
+
+1. How well do the results support the law of conservation of momentum, considering the possible sources of uncertainty?
+
+2. Which collision took a longer time, the elastic or the inelastic collision? Discuss the possible reasons.
+
+3. Was the kinetic energy of the system conserved? Discuss by comparing the results for the elastic collision and the inelastic collision.
+
+4. During the inelastic collision, the kinetic energy was obviously not conserved. What do you think happened to the “lost” energy?
+
+5. During the collision, both cars changed their momentum. How does the change in momentum of each car compare to that of the other? Does one car change more than the other? What do you think would happen if the cars had different mass? (If time is available, try it.)
+
+6. For an object to undergo a change in its momentum, a net force needs to be applied. The amount of change in momentum produced by the force depends on the length of the time during which the force acts and is called the impulse. That is, Impulse = Δp = F Δt where the force F is assumed to be constant, or to be an “average force.” For each of the collisions, calculate the average force acting on the cars during the collision, and compare them.
+
+7. Suppose a ball falls on your head. What is better for you (less damage)—for the ball to bounce straight back off your head, or for it to stop and stick to you? Justify your answer.
+
+弹道摆实验： 实验计划弹道摆允许通过实验确定水平发射抛射体的速度。这基于两个守恒原理和一些简单测量。
+
+弹道摆系统的参数如图8.1所示。一个质量为m的抛射体以速度v射入静止的质量为M的摆锤并嵌入其中。系统的（水平）动量可以用图8.1中给出的变量表示。抛射体刚发射后（即刚撞击摆锤前）系统的动量是多少？
+
+## 1. 用图8.1中给出的变量表示，质量m嵌入摆锤后系统的动量是多少？
+
+## 2. 如果认为碰撞过程中水平动量守恒，那么你对上面确定的两个动量表达式有何看法？
+
+## 3. 写出此碰撞的动量守恒方程，标记为方程1。
+
+## 4. 验证你的方程中包含了碰撞前后的质量和速度。如果没有，请与同学或导师一起检查你的结果。解方程求抛射体的初速度v₀。
+
+注意，要计算抛射体的初速度v₀，需要知道木块和抛射体组合的速度V。（质量值可以用天平确定。）到目前为止，只用了一个守恒原理——线性动量守恒。现在考虑碰撞后系统的机械能。写出系统（质量与摆锤组合）碰撞后瞬间的动能表达式，并标记为方程2。
+
+当摆锤从高度h₁向上摆动到最大高度h₂时，系统的动能发生了什么变化（忽略摩擦）？
+
+如果动能在减少，系统中是否还有其他形式的机械能在增加？如果有，是什么？
+
+写出系统在高度h₁处的机械能方程，并称之为方程3。
+
+## 5. 方程2和方程3如何通过机械能守恒联系起来？
+
+## 6. 如果你应用碰撞后系统的机械能守恒，方程2和方程3中的表达式是相等的。将它们相等，得到的方程称为方程4。
+
+## 7. 这个方程中唯一不能直接测量的变量是什么？你应该认识到它是速度V（h₁和h₂可以用米尺直接测量）。解方程4求V。
+
+## 8. 回想一下，为了求方程1中的v₀，需要确定速度V。你最后的结果给出了V关于可测量量的表达式。将你的V表达式代入方程1并解出v₀。
+
+v₀现在是否用已知和可测量的量表示了？它应该是，这就是使用弹道摆实验性地确定抛射体初速度的理论依据。
+
+课前习题阅读实验并回答以下问题。
+
+A. 弹道摆
+
+## 1. 在确定弹道摆抛射体初速度的大小时，涉及哪些守恒定律，它们分别在实验步骤的哪个部分被应用？
+
+## 2. 为什么可以说在碰撞时间间隔内水平方向的动量是守恒的？碰撞前和碰撞后动量是否守恒？解释。
+
+## 3. 为什么高度要测量到摆锤-小球系统的质心？
+
+B. 通过平抛运动测量确定抛射体初速度
+
+## 4. 水平抛射体离开枪后，x和y方向的加速度是什么？
+
+## 5. 如何确定小球撞击地板的位置？
+
+## 6. 除了射程，还需要什么来确定小球初速度的大小？
+
+C. 抛射体射程与抛射角的依赖关系
+
+## 7. 对于给定的初速度，抛射体的射程如何随抛射角θ变化？
+
+## 8. 理论上，获得最大射程的抛射角是45°。这是否设定了射程的上限？解释。
+
+弹道摆实验引言与目标抛射体运动是物体在平面内（二维）仅受重力作用下的运动（自由落体，忽略空气阻力）。运动学方程描述了此类运动的分量，可用于分析抛射体运动。在大多数教科书案例中，抛射体的初速度（速度和抛射角）是已知的，并计算其他量。然而，在本实验中，未知的初速度将通过实验测量来确定。这将通过（1）使用弹道摆，以及（2）进行平抛运动测量来实现。还将研究抛射体射程对抛射角的依赖关系，以获得最大射程抛射角的实验指示。
+
+所需设备 • 弹道摆 • 木块 • 胶带 • 1张直角坐标纸 • 普通纸张（和复写纸）* • 安全眼镜 • 米尺 • 量角器 • 实验室天平 *复写纸可能需要也可能不需要。
+
+理论 A. 弹道摆弹道摆装置的类型如图8.1所示。弹道摆用于实验性地确定由弹簧枪水平发射的物体（金属球）的初速度。抛射体被射入一个静止的、由杆悬挂的摆锤中，并在碰撞时使摆锤和嵌入的抛射体一起向上摆动。
+
+止动机构将摆锤停在其最高摆动位置。通过测量摆锤-小球系统质心上升的垂直距离，可以利用线性动量守恒和机械能守恒（忽略转动因素）计算出抛射体的初速度。
+
+考虑图8.2所示的弹道摆示意图。一个质量为m的抛射体以初速度v₀水平射入并嵌入静止的摆锤（质量M）中。动量守恒定律指出，碰撞前的总动量等于碰撞后的总动量。
+
+mv₀ = (m + M)V   (8.1)
+
+（碰撞前） （碰撞后）
+
+碰撞后，嵌有抛射体的摆锤向上摆动（此时系统的动量不再守恒，为什么？）并停止。摆锤-小球系统的质心被抬高了最大垂直距离 h = h₂ - h₁。* 根据机械能守恒，势能的增加等于碰撞后瞬间系统的动能（支撑点的摩擦被认为可忽略）。因此， ½(m + M)V² = (m + M)gh   (8.2)
+
+碰撞后瞬间的动能 势能增加解方程(8.2)求V，得到： V = √(2gh)   (8.3)
+
+将此表达式代入方程(8.1)并解v₀，得： v₀ = (m + M)/m * √(2gh)   (8.4)
+
+（初速度）
+
+因此，通过测量m、M和h，可以计算出抛射体的初速度。
+
+B. 通过平抛运动测量确定水平抛射体的初速度水平抛射体的运动可以分解为水平（匀速）和竖直（自由落体）分量。设x为水平射程，y为下落的垂直距离，t为飞行时间。则： x = v₀ t   (8.5)
+
+y = ½ g t²   (8.6)
+
+从这些方程中消去t并求解v₀，我们得到（忽略空气阻力）： v₀ = √(g x² / (2y))   (8.7)
+
+因此，通过测量射程x和下落距离y，可以计算出抛射体的初速度。
+
+C. 抛射体射程与抛射角的依赖关系一般抛射角θ的抛射体轨迹如图8.4所示。初速度的分量大小为： v_x = v₀ cosθ v_y = v₀ sinθ   (8.8)
+
+在轨迹的最高点，v_y = 0，并且由于 v_y = v₀ sinθ - g t，可以求出到达最高点的时间。射程取决于v₀和θ。理论表明，对于给定的v₀，当θ = 45°时射程最大。本实验将通过测量不同角度下的射程来验证这一关系。
+
+If a projectile is projected horizontally with an initial velocity of magnitude \(v\) from a height of \(y\), it will describe an arc as illustrated in Fig. 8.3. The projectile will travel a horizontal distance \(x\) (called the range) while falling a vertical distance \(y\).
+
+The initial vertical velocity is zero, \(v_{0y} = 0\), and the acceleration in the \(y\)-direction is the acceleration due to gravity (\(a_y = g\)). There is no horizontal acceleration, \(a_x = 0\); hence the components of the motion are described by
+
+\[x = v_{0} t \tag{8.5}\]
+
+and
+
+\[2y = gt^2 \tag{8.6}\]
+
+where \(t\) is from Eq. 8.6.
+
+The time \(t\) for the projectile to reach the maximum height of \(y\) is
+
+\[t = \frac{v_{0y}}{g} \tag{8.9}\]
+
+If the projectile returns to the same elevation as that from which it was fired, then the total time of flight \(t\) is
+
+\[t = 2t = \frac{2 v_{0} \sin \theta}{g} \tag{8.10}\]
+
+During the time \(t\), the projectile travels a distance \(R\) (range) in the \(x\)-direction:
+
+\[R = v_{x} t = (v_{0} \cos \theta) t = \frac{2 v_{0}^2 \sin \theta \cos \theta}{g}\]
+
+where \(t\) is from Eq. 8.10.
+
+But using the trigonometric identity \(2 \sin \theta \cos \theta = \sin 2\theta\), we find that the range or maximum distance in the \(x\)-direction is
+
+\[R = \frac{v_{0}^2 \sin 2\theta}{g} \tag{8.11}\]
+
+From Eq. 8.11, it can be seen that the range of the projectile depends on the angle of projection \(\theta\). The maximum range \(R_{\text{max}}\) occurs when \(\sin 2\theta = 1\). Since \(\sin 90^\circ = 1\), by comparison
+
+\[2\theta = 90^\circ \text{ or } \theta = 45^\circ\]
+
+Hence, a projectile has a maximum range for \(\theta = 45^\circ\), and
+
+\[R_{\text{max}} = \frac{v_{0}^2}{g} \tag{8.12}\]
+
+(maximum range, \(\theta = 45^\circ\))
+
+Note: To minimize frictional losses, the catch mechanism may be disabled by tying it up with thread or using a rubber band. The mechanism then acts as a pointer to indicate the highest notch, which is observed by a lab partner. Holding some reference object, such as a pencil, by the notched track helps to determine the proper notch number.
+
+which provides another convenient method to determine experimentally the initial speed of a projectile.
+
+(Note: This development neglects air resistance, but the equations give the range to a good approximation for relatively small initial speeds and short projectile paths. Why?)
+
+## EXPERIMENTAL PROCEDURE
+
+Caution: With projectiles involved, it is recommended that safety glasses be worn during all procedures.
+
+A. The Ballistic Pendulum
+
+1.  Obtain the projectile ball, which may be in the pendulum bob. (Note: When removing the ball from the pendulum bob of some types of ballistic pendula, be sure to push up on the spring catch that holds the ball in the pendulum so as not to damage it.) Place the projectile ball on the ball rod of the spring gun, and cock the gun by pushing on the ball. Both ball and rod may move backward, or the ball may slip over the rod, depending on the type of ballistic pendulum. Caution: In either case, be careful not to bruise or hurt your hand when cocking the gun. Also, keep your fingers away from the projectile end of the gun. Shoot the ball from the gun, and note where the ball strikes the floor. (The range of the ball is appreciable, so you may have to shoot the ball down an aisle. Be careful not to hit anyone with the ball, particularly the instructor.)
+
+2.  A preset pointer or a dot on the side of the pendulum bob indicates the position of the center of mass (CM) of the pendulum-ball system. With the pendulum hanging freely, measure the height \(h\) of the pointer above the base surface (Fig. 8.2) and record it in Data Table 1.
+
+3.  Shoot the ball into the freely hanging stationary pendulum and note the notch at which the catch mechanism stops on the curved track. Counting upward on the curved track, record the notch number in Data Table 1. Repeat this procedure four times, and for each trial record the notch number in the data table. (Alternatively, the height may be measured each time. See Procedure 4 note.)
+
+4.  Determine the average of these observations, which is the average notch position of the pendulum. Place the catch mechanism in the notch corresponding most closely to the average, and measure the height \(h\) of the CM dot above the base surface used for the \(h\) measurement (Fig. 8.2).
+
+5.  Loosen the screw of the pendulum support and carefully remove the pendulum. Weigh and record the masses of the ball (\(m\)) and the pendulum (\(M\)). Note: The mass of the pendulum is that of the bob and the support rod. Do not attempt to remove the support rod from the bob. Consult your instructor for the procedure if a different model is used.
+
+6.  From the data, compute the magnitude of the initial velocity using Eq. (8.4) (\(g = 9.80 \text{ m/s}^2 = 980 \text{ cm/s}^2\)).
+
+B. Determination of the Initial Velocity of a Projectile from Range-Fall Measurements
+
+7.  With the pendulum removed or in the upper catch mechanism notch so as not to interfere with the projectile, position the apparatus near one edge of laboratory table as shown in Fig. 8.3.
+
+8.  Place a sheet of paper where the ball hits the floor. Tape the paper to the floor (or weight it down) so that it will not move. When the ball strikes the paper, the indentation mark will enable you to determine the range of the projectile.* Also mark the position of the apparatus on the table (for example, using a piece of tape as a reference). It is important that the gun be fired from the same position each time.
+
+9.  Shoot the ball five times, hitting the paper, and measure the horizontal distance or range \(x\) the ball travels for each trial (see Fig. 8.3). [If faint indentation marks cannot be found on the paper, cover it with a sheet of carbon paper (carbon side down). The ball will then make a carbon mark on the paper on impact.] Record the measurements in Data Table 2, and find the average range. The height \(y\) is measured from the bottom of the ball (as it rests on the gun) to the floor. Measure this distance, and record in the data table.
+
+10. Using Eq. (8.7), compute the magnitude of the initial velocity of the ball (\(g = 9.80 \text{ m/s}^2 = 980 \text{ cm/s}^2\)). Compare this to the velocity determined in Part A, and compute the percent difference.
+
+C. Dependence of Projectile Range on the Angle of Projection
+
+11. With the ballistic pendulum apparatus on the floor (with pendulum removed), elevate the front end so that it can be fired at an angle \(\theta\) relative to the horizontal. (Your instructor will tell you how to do this.) Aim the projectile down an aisle or hallway, being careful not to aim at anything or anybody.
+
+12. Using a protractor to set the angles of projection, fire the projectile at angles of 20°, 30°, 40°, 45°, 50°, 60°, and 70° with two or three trials for each angle. The projectile should be aimed so that it lands as close as possible to the same spot for the trials of a particular angle.
+
+Station one or more lab partners at a safe distance near where the projectile strikes the floor. They are to judge the average range of the two or three trials. Measure the average range for each angle of projection, and record the data in Data Table 3.
+
+Suggestion: It is convenient to measure the distance from the gun to the position where the ball lands and to mark this position. The range measurement then can be made relative to this measured mark, instead of from the starting point each time. Also, it is convenient to shoot toward a wall at the end of the hall or aisle or to lay a meter stick on the floor perpendicularly to the line of flight, in order to stop the ball from rolling.
+
+13. Plot the range versus the angle of projection, and draw a smooth curve that fits the data best. As might be expected, the points may be scattered widely because of the rather crude experimental procedure. Even so, you should be able to obtain a good idea of the angle for the maximum range. Determine this angle from the graph, and record it in Data Table 3.
+
+* The range will be measured from the floor position directly below the center of the ball just as it leaves the gun to the marks on the paper on the floor. The floor location is determined by putting the ball on the gun without loading the spring.
+
+jection 20° 30° 40° 45° 50° 60° 70°
+
+E X P E R I M E N T 8 Projectile Motion: The Ballistic Pendulum Laboratory Report
+
+## QUESTIONS
+
+A. The Ballistic Pendulum
+
+1. Is the collision between the ball and the pendulum elastic or inelastic? Justify your answer by calculating the kinetic energy of the system before collision using the value of found v found in the experiment and the kinetic energy just after collision using the experimental value of h in Eq.8.2.
+
+2. Using the results of Question 1 that would apply if the collision were inelastic, find the fractional kinetic energy loss during the collision. Express the “loss” as a percent. What became of the “lost energy”?
+
+3. Expressing the kinetic energy in terms of momentum (K = 1/2 mv^2 = p^2/2m), prove using symbols, not numbers, that the fractional loss during the collision is equal to M/(m + M).
+
+4. Compute the fractional energy loss from the experimental mass values using the equation developed in Question 3, and compare this to the result in Question 2. Explain the difference, if any.
+
+5. Is the friction of the pendulum (catch mechanism, support axis, etc.) a random or systematic error? Will this source of error cause your calculated velocity to be less than or greater than the actual velocity?
+
+B. Determination of the Initial Velocity of a Projectile from Range-Fall Measurements
+
+6. What effect does the force of gravity have on the horizontal velocity of the projectile? Explain.
+
+## 7. What effect would air resistance have on the range of the projectile?
+
+C. Dependence of Projectile Range on the Angle of Projection
+
+8. Using experimental data, compute the magnitude of the initial velocity v of the projectile from Eq. (8.12), and compare this to the results of Parts A and B of the procedure.
+
+9. If, for a given initial velocity, the maximum range is at a projection angle of 45°, then there must be equal ranges for angles above and below this. Show this explicitly.
+
+E X P E R I M E N T 9 Centripetal Force
+
+Advance Study Assignment
+
+Read the experiment and answer the following questions.
+
+## 1. Define centripetal force
+
+2. What supplies the centripetal force for (a) a satellite in orbit around the Earth, (b) the mass in uniform circular motion in this experiment?
+
+3. An object moving in uniform circular motion is accelerating. How can this be, since uniform motion implies constant motion?
+
+4. For an object in uniform circular motion, on what parameters does the experimental determination of the centripetal force depend when using F = ma?
+
+5. If the centripetal force acting on an object in uniform motion suddenly ceased to act (went to zero), what would happen to the object? That is, what would be its subsequent motion?
+
+6. Suppose that the centripetal force acting on an object in circular motion were increased to a new value, and the object remained in a circular path with the same radius. How would the motion be affected?
+
+7. Explain how the centripetal force is directly determined for the apparatus you will be using in the experiment.
+
+E X P E R I M E N T 9 Centripetal Force
+
+## INTRODUCTION AND OBJECTIVES
+
+The Earth revolves about the Sun, atomic electrons move around the nucleus. What keeps these objects in orbit? The answer is centripetal force (centripetal means “center-seeking”). The centripetal force is supplied by gravitational and electrical interactions, respectively, for each of these cases.
+
+The study of centripetal force in the laboratory is simplified by considering objects in uniform circular motion. An object in uniform circular motion moves with a constant speed (a scalar) but has a changing velocity (a vector) because of the continual change in direction. This change in velocity results from centripetal acceleration due to a centripetal force.
+
+In the experimental situation(s) of this experiment, the centripetal force will be supplied by a spring and can be readily measured. However, the magnitude of the centripetal force can also be determined from other experimental parameters, for example, the frequency of rotation of the object, mass, and radius of orbit. Centripetal force will be experimentally investigated by measuring these parameters and comparing the calculated results with the direct measurement of the spring force, which mechanically supplies the center-seeking centripetal force.
+
+After performing the experiment and analyzing the data, you should be able to do the following:
+
+## 1. Explain why a centripetal force is necessary for circular motion
+
+2. Describe how the magnitude of the centripetal force for uniform circular motion may be determined from motional parameters.
+
+3. Summarize what determines the magnitude of the centripetal force necessary to keep an object in uniform circular motion.
+
+## EQUIPMENT NEEDED
+
+A. Manual Centripetal Force Apparatus • Laboratory timer or stopwatch • Meter stick • Vernier caliper • Weight hanger and slotted weights • Support rod and clamp • String • Laboratory balance • Safety glasses
+
+B. Centripetal Force Apparatus with Variable-Speed Rotor and Counter • Laboratory timer or stopwatch • Weight hanger and slotted weights • String • Safety glasses
+
+## THEORY
+
+An object in uniform circular motion requires a centripetal, or center-seeking, force to “hold” it in orbit. For example, when one swings a ball on a rope in a horizontal circle around one’s head (● Fig. 9.1), the centripetal force, F = ma, is supplied by the person and transmitted to the ball through the rope. In the absence of the centripetal force (for example, if the rope breaks or if the person releases the rope), the ball would no longer be held in orbit and would initially fly off in the direction of its tangential velocity v.
+
+An object in uniform circular motion moves with a constant speed. Even though the object’s speed is constant, its velocity is changing because the direction of the motion is continually changing. This change in velocity results from a centripetal acceleration a_c that is due to the applied centripetal force F. The direction of the acceleration (and force) is always toward the center of the object’s circular path, and it can be shown (see your textbook) that the magnitude of the acceleration is given by
+
+a_c = v^2 / r (9.1)
+
+(centripetal acceleration)
+
+where v is the tangential or orbital speed of the object and r is the radius of the circular orbit. By Newton’s second law, F = ma, the magnitude of the centripetal force is
+
+F_c = ma_c = mv^2 / r (9.2)
+
+(centripetal force)
+
+where m is the mass of the object. In terms of distance and time, the orbital speed v is given by v = 2πr/T, where 2πr is the circumference of the circular orbit of radius r, and T is the period.
+
+Notice that Eq. 9.2 describes the centripetal force acting on an object in uniform circular motion in terms of the properties of the motion and orbit. It is equal to the expression of a physical force that actually supplies the centripetal action. For example, in the case of a satellite in uniform circular motion around the Earth, the centripetal force is supplied by gravity, which is generally expressed F_g = Gm_1 m_2 / r^2, and F_c = F_g. Similarly, for an object being held in uniform circular motion by the tension force of a string, the tension force (F_T) is equal to Eq. 9.2 (that is F_T = mv^2/r).*
+
+The centripetal force given by Eq. 9.2 can also be expressed in terms of the angular speed ω or frequency f of rotation, using the expressions v = rω and ω = 2πf:
+
+F_c = mv^2 / r = m(rω)^2 / r = mrω^2 (b)
+
+and F_c = mr(2πf)^2 = 4π^2 mrf^2 (9.3)
+
+*Technically it is the component of F directed toward the center of circular orbit. The rope cannot be exactly horizontal. See Question 4 at the end of the experiment.
+
+## EXPERIMENTAL PROCEDURE
+
+A. Manual Centripetal Force Apparatus
+
+1. A type of hand-operated centripetal force apparatus is shown in ● Fig. 9.2. By rolling the rotor between the thumb and fingers, the operator sets a suspended mass bob into circular motion, with the centripetal force being supplied by a spring. The horizontal support arm is counterbalanced for ease of operation; the position of the counterbalance is not critical.
+
+A pulley mounted to the base of the apparatus is used to make direct measurement of the spring tension supplying the centripetal force for uniform circular motion of a particular radius indicated by the distance between the vertical pointer rod P and the axis of rotation.
+
+2. Remove the bob and determine its mass on a laboratory balance. Replace the bob.
+
+[Note: The provided text ends abruptly at "laboratory balance. Replace the bob." and "Question: Does the lat". Further text is missing from the source.]
+
+After measurement, record the mass value in Data Table 1. Adjust the position of the vertical pointer rod, if possible, to the smallest possible radius (distance between the pointer tip and the center of the vertical rotor shaft). Measure this distance and record.
+
+3. Attach the bob to the string on the horizontal support arm, and with the bob hanging freely (spring unattached), adjust the support arm so that the bob is suspended directly over the pointer. Attach the spring to the bob, and practice rolling the rotor between your thumb and fingers so that the bob revolves in a circular path and passes over the pointer on each revolution in uniform circular motion. (Adjust the position of the counterbalance on the support arm if necessary for ease of operation.)
+
+Make sure the locking screws are tight, and be careful of the rotating counterweight. Caution: Safety glasses should be worn. This is always a good practice in a laboratory with moving equipment.
+
+While one lab partner operates the rotor, another lab partner with a laboratory timer or stopwatch times the interval for the bob to make about 25 revolutions. The number of counted revolutions may have to be varied depending on the speed of the rotor. Count enough revolutions for an interval of at least 10 s. Record the data in Data Table 1. Practice the procedure before making an actual measurement.
+
+4. Repeat the counting-timing procedure twice. Compute the time per revolution of the bob for each trial, and determine the average time per revolution of the three trials.
+
+From the data, calculate the average speed of the bob. Recall v = c/t = 2πr/T, where c is the circumference of the circular orbit, r is the radius of the orbit, and T is the average time per revolution or period. Then, using Eq. 9.2, calculate the centripetal force.
+
+5. Attach a string to the bob opposite the spring and suspend a weight hanger over the pulley. Add weights to the hanger until the bob is directly over the pointer. Record the weight, Mg, in the data table. (Do not forget to add the mass of the weight hanger.) This weight is a direct measure of the centripetal force supplied by the spring during rotation. Compare this with the centripetal force apparatus in contact with pointer P will cause the pointer to rise and horizontally point toward the index screw I. In this condition, the mass will be in uniform circular motion around the axis of rotation through I.
+
+6. Variation of radius. Remove the slotted masses from the bob, and if pointer P is adjustable, move it further away from the axis of rotation to provide a larger path radius. Measure and record this distance in Data Table 3. Repeat Procedures 11 through 13 for this experimental condition.
+
+7. Variation of spring tension (optional). Replace the spring with another spring of different stiffness. Repeat Procedures 11 through 13, recording your findings in Data Table 4.
+
+B. Centripetal Force Apparatus with Variable-Speed Rotor 9. The centripetal force apparatus mounted on a variable-speed rotor is shown in Figure 9.3. Before turning on the rotor: (a) By means of the threaded collar on the centripetal force apparatus, adjust the spring to a minimum tension (0–5 on the scale above the threaded collar).
+
+(b) By means of the milled screw head near the base of the rotor, move the rubber friction disk to near the center of the driving disk. (The driving disk can be pushed back so that the friction disk can be moved freely.) This will give a low angular starting speed when the rotor is turned on (but don’t turn it on yet!).
+
+The speed of the rotor is increased or decreased by moving the friction disk in (up) or out (down), respectively, along the radius of the driving disk.
+
+Caution: Excessive speeds can be dangerous. Do not go beyond the speeds needed.
+
+(c) Make certain that the force apparatus is locked securely in the rotor mount by means of the locking screw. Have the instructor check your setup at this point.
+
+10. Referring to Figure 9.4: When the motor is turned on and adjusted to the proper speed, the cylindrical mass m in the centripetal force apparatus in contact with pointer P will cause the pointer to rise and horizontally point toward the index screw I. In this condition, the mass will be in uniform circular motion around the axis of rotation through I.
+
+Caution: When taking measurements, be careful not to come in contact with the rotating apparatus. The rotor should not be operated without a belt guard covering the belt and pulleys. See Figure 9.3(c).
+
+11. Put on your safety glasses and turn on the rotor. Adjust the speed until the pointer rises and is opposite the head of the index screw I (Figure 9.4). Observe this with your eyes on a level with the index screw. The pointer will be slightly erratic, and as a particular speed is reached, it will “jump” and may point slightly above the index screw I. If so, adjust the speed so that the pointer is horizontally toward the index screw I. Do not exceed this speed.
+
+The pointer should be aimed at the head of the index screw when the rotor is spinning at higher speeds, too.
+
+Do not lock the friction disk. Rather, observe and adjust the speed of the rotor continuously during each timed interval in order to keep the pointer as steady as possible. Continuous adjustment is necessary because the rotor speed varies when the counter is engaged.
+
+Because the pointer will point horizontally at excessive speeds and induce experimental error, an alternative technique is to adjust the rotor speed continually so that the pointer is not quite horizontal—that is, so that it is aimed midway or just below the head of the index screw.
+
+Experiment with your apparatus and see which technique is better, trying to maintain the pointer horizontally at the critical “jump” speed or aiming the pointer at a lower position on the screw at a slightly slower speed.
+
+12. Practice engaging the counter and adjusting the rotor speed. (Do not engage the counter too forcefully or you will overly slow down the rotor, yet don’t engage the counter so lightly that you accidentally cause the rotor to lose contact with the rotor gear.) When you are satisfied with your technique, record the (initial) counter reading in Data Table 5.
+
+Then, using a laboratory timer or stopwatch, measure (count) the number of rotations for a 1-minute interval. One lab partner should engage the counter for the timing interval while the other adjusts the rotor speed.
+
+Repeat this procedure for four more 1-minute intervals, but do not use the previous final counter reading for the next initial interval reading. Advance the counter to a new arbitrary initial reading for each trial.
+
+Also, share the action. One lab partner should be the “speed controller” who constantly watches and adjusts the rotor speed as described in Procedure 3. Another partner should be the “timer” who engages the counter and times the interval. If there are three lab partners, the third may handle the counter engagement and disengagement in response to the timer’s instructions. Rotate team responsibilities periodically.
+
+13. Subtract the counter readings to find the number of rotations for each timed interval. (They should be similar.) Then compute the average number of rotations N of the five 1-minute intervals (average rotations per minute).
+
+Divide the average value by 60 (1 min = 60 s) to obtain the average rotation frequency in rotations (cycles) per second, or hertz (Hz).
+
+14. Without altering the spring tension setting, remove the centripetal force apparatus from the rotor and suspend it from a support as shown in Figure 9.5. Suspend enough mass on the hanger to produce the same extension of the spring as when on the rotor (pointer aimed at the index screw position).
+
+Record this mass M' (includes mass of hanger) in the laboratory report below Data Table 1. Also record the mass of the cylinder m in the force apparatus (stamped on the end of the cylinder).
+
+Add the masses to find the total suspended mass, M = M' + m, and compute the direct measure of F = weight of total suspended mass = Mg.
+
+With the spring at the same tension setting and the apparatus still hanging from the support with the same mass M' suspended, use a vernier caliper to measure the distance r, or the radius of the circular rotational path, and record. This is the distance between the axis of rotation and the center of mass of the cylindrical mass.
+
+15. Using Eq. (9.3), compute the magnitude of the centripetal force. Compare this with the directly measured value given by the weight force required to produce the same extension of the spring by computing the percent difference.
+
+16. Change the spring tension to a maximum setting (about the 20 mark on the scale). Repeat the entire procedure (starting from step 9) for this new tension setting, recording all data in the appropriate tables.
+
+Scale above the threaded of rotation (line through the index screw) and the center of mass of the cylinder (see Fig. 9.4). Repeat Procedures 3 through 7, recording your results in Data Table 6. The distance is conveniently measured between a line scribed on the upper part of the force apparatus frame above the index screw and a line scribed on the center of the cylinder.
+
+## DATA TABLE
+
+Purpose: To determine period of revolution for computation of centripetal force.
+
+Mass of bob ___________________ Trial 1 Trial 2 Trial 3 Radius of circular path ___________________ Number of revolutions Average time per revolution ___________________ Total time ( )
+
+Average speed of bob (v) ___________________ Time/revolution ( )
+
+Computed value of centripetal force ___________________ Direct measurement of centripetal force ___________________ Computation of centripetal force (attach additional sheet)
+
+Percent difference ___________________
+
+## DATA TABLE
+
+Purpose: To observe the effect of varying mass.
+
+Mass of bob ___________________ Trial 1 Trial 2 Trial 3 Number of revolutions Radius of circular path ___________________ Total time ( ) Average time per revolution ___________________ Average speed of bob (v) ___________________ Time/revolution ( )
+
+Computed value of centripetal force ___________________ Direct measurement of centripetal force ___________________ Computation of centripetal force (attach additional sheet)
+
+Percent difference ___________________
+
+## DATA TABLE
+
+Purpose: To observe the effect of varying radius.
+
+Trial 1 Trial 2 Trial 3 Mass of bob ___________________ Number of revolutions Radius of circular path ___________________ Total time ( ) Average time per revolution ___________________ Average speed of bob (v) ___________________ Time/revolution ( )
+
+Computed value of centripetal force ___________________ Direct measurement of centripetal force ___________________ Computation of centripetal force (attach additional sheet)
+
+Percent difference ___________________
+
+DATA TABLE 4 (Optional)
+
+Purpose: To observe the effect of varying spring tension.
+
+Trial 1 Trial 2 Trial 3 Mass of bob ___________________ Number of revolutions Radius of circular path ___________________ Total time ( )
+
+Average time per revolution ___________________ Time/revolution ( ) Average speed of bob (v) ___________________ Computed value of centripetal force ___________________ Direct measurement of centripetal force ___________________ Computation of centripetal force (attach additional sheet)
+
+Percent difference ___________________
+
+## DATA TABLE
+
+Purpose: To determine rotational frequency for computation of centripetal force.
+
+Minimum spring tension: scale reading ________________________ Trial Counter readings Difference in readings Final Initial (rotations/min)
+
+Average Number of rotation N Computation of centripetal force (show work)
+
+Average rotational frequency (f = N/60) ___________________ Suspended mass M_r ___________________ Cylinder mass m ___________________ Total suspended mass (M = M_r + m) ___________________ Direct measure of F (F = Mg) ___________________ Radius of circular path r ___________________ Computed F ___________________ Percent difference ___________________ Don’t forget units
+
+## DATA TABLE
+
+Purpose: To determine rotational frequency for computation of centripetal force.
+
+Minimum spring tension: scale reading ________________________ Trial Counter readings Difference in readings Final Initial (rotations/min)
+
+Average Number of rotation N Computation of centripetal force (show work)
+
+Average rotational frequency (f = N/60) ___________________ Suspended mass M_r ___________________ Cylinder mass m ___________________ Total suspended mass (M = M_r + m) ___________________ Direct measure of F (F = Mg) ___________________ Radius of circular path r ___________________ Computed F ___________________ Percent difference ___________________
+
+## QUESTIONS
+
+1. How does the centripetal force vary with the radius of the circular path? Consider (a) constant frequency and (b) constant speed. Was this substantiated by experimental results?
+
+2. If the centripetal force on an object in uniform circular motion is increased, what is the effect on (a) the frequency of rotation f (with r constant) and (b) f and r when both are free to vary?
+
+3. Does the centripetal force acting on an object in uniform circular motion do work on the object? Explain.
+
+4. Figure 9.1 shows a student swinging a ball in a circle about his head. Show that the rope cannot be exactly horizontal. (Hint: Take the rope’s tension force T to be at an angle below the horizontal, and examine the components of T. Use a diagram to illustrate.)
+
+## EXPERIMENT
+
+Friction Advance Study Assignment Read the experiment and answer the following questions.
+
+## 1. State the three general empirical rules used to describe friction
+
+## 2. What is the normal force, and why is it used instead of the load?
+
+3. Why is it important to have the string parallel to the horizontal surface in the procedures where suspended weights are used?
+
+4. What is the coefficient of friction, and in what units is it expressed? Distinguish between μ and μ. Which is generally greater?
+
+5. Explain how graphs of weight versus normal force in Procedures A and B give the coefficients of friction.
+
+Advance Study Assignment Read the experiment and answer the following question.
+
+1. Under what conditions is the tension in the string pulling horizontally on the cart equal in magnitude to the frictional force?
+
+Friction
+
+## OVERVIEW
+
+Experiment 10 examines friction using complementary TI and CI approaches. The TI procedures are concerned with determination of the coefficients of friction, μ and μ, with an option of investigating the dependence of μ on various parameters, such as different materials, lubrication, and so on. The CI procedures extend the investigation by examining the effect of speed on sliding friction.
+
+## INTRODUCTION AND OBJECTIVES
+
+In general, the term friction refers to the force or resistance to motion between contacting material surfaces. (Internal friction occurs in liquids and gases.) The friction between unlubricated solids is a broad and complicated topic, because it depends on the contacting surfaces and the material properties of the solids. Three general empirical “rules” are often used to describe friction between solid surfaces. These are that the frictional force is 1. independent of the surface area of contact.
+
+2. directly proportional to the load, or the contact force that presses the surfaces together.
+
+3. independent of the sliding speed.
+
+Let’s take a look at each of these rules: 1. Intuitively, one would think that friction depends on the roughness or irregularities of the surfaces, and the greater the area of contact, the more friction. This would seem to contradict rule 1.
+
+2. However, the actual contact area of the surfaces should depend on the force that presses the surfaces together, or the load. Increasing this force should increase the amount of contact of the irregularities between the surfaces and, hence, the friction. Rule 2 then seems logical.
+
+## 3. Is it consistent that the friction between a sliding object and a
+
+tic friction. The normal force, N, which is the load. However, on an inclined plane, only a component of the weight contributes to the load, the component perpendicular to the surface. (See The Fig. 10.3, where the magnitude of the load is mg cos θ.) In order to take such differences into account, the frictional force f is commonly taken to be directly proportional to the normal force N, which is the force of the surface on the block—that is, f ∝ N (see The Fig. 10.1). In the absence of other perpendicular forces, the normal force is equal in magnitude to the load, N = mg in The Fig. 10.1 and N = mg cos θ in The Fig. 10.3, which avoids any confusion between weight and load.
+
+With f ∝ N, written in equation form: f = μN (The 10.1)
+
+where the Greek letter mu μ is a unitless constant of proportionality called the coefficient of friction. (Why does μ have no units?)
+
+When a force F is applied to the block parallel to the surface and no motion occurs, then the applied force is balanced by an opposite force of static friction. The maximum force of static friction is experimentally approximated by the smallest force applied parallel to the surface that will just set the block into motion. At the instant the applied force F becomes greater than f_s = μ_sN, however slightly, the block is set into motion, and the motion is opposed by the force of kinetic (sliding) friction f_k (The Fig. 10.1d), and f_k = μ_kN (The 10.3)
+
+(kinetic friction)
+
+where μ_k is the coefficient of kinetic (sliding) friction.
+
+The unbalanced force causes the block to accelerate (F - f_k = ma). However, if the applied force is reduced so that the block moves with a uniform velocity (a = 0), then F = f_k = μ_kN.
+
+Usually, for a given pair of surfaces, μ_k < μ_s. That is, it takes more force to overcome static friction (get an object moving) than to overcome kinetic friction (keep it moving). Both coefficients may be greater than 1, but they are usually less than 1. The actual values depend on the nature and roughness of the surfaces.
+
+*These conditions on f are sometimes written f ≤ μ_sN; that is f_s is less than or equal to the maximum value of μ_sN. As the applied force is increased, f_s increases and there is no motion until f_s max is reached.
+
+The Figure 10.1 Friction. The applied force is balanced by the force of static friction f_s, a_s = 0, and F - f_s = ma = 0. As the applied force increases, so does the force of static friction, until a maximum value is reached (f_s = μ_sN). A slightly greater force (d) sets the block into motion (F - f_k = ma), with the applied force being opposed by the force of kinetic friction, f_k.
+
+## EXPERIMENTAL PROCEDURE
+
+A. Determination of μ_s
+
+1.  Determine the mass of the wooden block on a laboratory balance, and record it in the laboratory report.
+
+2.  Clean the surfaces of the board and block so they are free from dust and other contaminants. Place the board with the pulley near the edge of the table so that the pulley projects over the table’s edge (● The Fig. 10.2). Attach one end of a length of string to the wooden block and the other end to a weight hanger. Place the block flat on the board, and run the string over the pulley so that the weight hanger is suspended over the end of the table. Be sure that the string is parallel to the board, otherwise there will be a vertical component of the force F.
+
+3.  With the rectangular block lying on one of its sides of larger area, add weights to the hanger until the block just begins to move. (Note: If the 50-g hanger causes the block to move, add some weights to the block and add this mass to the mass of the block, m_b.) Determine the required suspended mass within 1 g. Record the weight force (Mg) required to move the block in The Data Table 1. This is equal in magnitude to the frictional force, f_s max. (Friction of the pulley neglected.)
+
+4.  Repeat Procedure 3 with m = 100-, 200-, 300-, 400-, and 500-g masses, respectively, added to the block. Record the results in The Data Table 1.
+
+5.  Plot the weight force just required to move the block (or the maximum force of static friction, F = f_s) versus the normal force N of the surface on the block [N = (m_b + m_w)g]. Draw a straight line that best fits the data. Include the point (0, 0). (Why?) Since f_s = μ_sN, the slope of the straight line is μ_s. Determine the slope and record it in The Data Table 1.
+
+B. Determination of μ_k Horizontal Board
+
+6.  In the experimental setup in Fig. 10.2, when the block moves with a uniform (constant) speed, its acceleration is zero. The weight force F and the frictional force f_k are then equal and opposite (F - f_k = ma = 0, and F = f_k).
+
+7.  Using the larger side (surface area) of the block and the series of added masses as in Part A, add mass to the weight hanger until a slight push on the block will cause it to move with a uniform speed. It may be helpful to tape the weights to the block. The required weight force for the motion in each case should be less than that for the corresponding case in Part A. (Why?) Record the data in The Data Table 2.
+
+Suggested experimental technique: (a) Begin with the block at one end of the plane, and give it a push so that it slides across the entire plane.
+
+(b) Observe the behavior of the block in the same region as before, namely in the middle of the plane. This is where the block should be observed for constant speed.
+
+8.  Plot the weight force (or the force of kinetic friction, F = f_k) versus the normal force N for these data on the same graph as for Part A. Draw a straight line that best fits the data. Since f_k = μ_kN, the slope of the straight line is μ_k. Determine the slope and record it in The Data Table 2. Calculate the percent decrease of μ_k from the μ_s value.
+
+Elevated Board (Inclined Plane)
+
+9.  Elevate the pulley end of the board on a support to form an inclined plane (● The Fig. 10.3, see Fig. 11.3 for a similar setup). Note in Fig. 10.3 the magnitude of the normal force (perpendicular to the plane) is equal to a component of the weight force.
+
+With the block laying on a side of its larger surface area, determine the angle θ of incline that will allow the block to slide down the plane with a constant speed after being given a slight tap. (No suspended weight is used in this case.) Note: The maximum angle before slipping without tapping gives μ_s, whereas the angle of constant velocity with tapping gives μ_k.
+
+10. Using a protractor, measure the angle θ and record in The Data Table 3. Also, with a meter stick, measure the length L of the base (along the table) and the height h of the inclined plane. Record the ratio h/L in The Data Table 3.
+
+Suggested experimental technique: (a) Keep the block in the middle of the plane.
+
+(b) Lift the block, gently lower it onto the plane, restrain it from moving for a count of 5 (do not press it against the plane), and then release the block. If the block moves, the suspended mass M is too large; if it doesn’t move, M is too small; if the block moves about half the time, M is about right.
+
+11. Repeat this procedure for the block with the series of added masses as in the previous procedure for the horizontal board, and record in The Data Table 3. It may be helpful to tape the masses to the block.
+
+12. Using a calculator, find the tangents of the θ angles, and record. Compute the average of these values and the average of the ratios h/L. These averages should be similar. (Why?)
+
+13. Compare the average value of tan θ with the value of μ_k found in the procedure for the horizontal board. It can be shown theoretically that tan θ = μ_k in this case. Compute the percent difference of the experimental values.
+
+C. Dependences of μ (optional)*
+
+14. Use the inclined plane method to investigate the dependence of μ on area, material, velocity, rolling, and lubrication. The experimental setups are described in The Data Table 4. Answer the questions listed after the data table.
+
+*This experimental procedure and modifications were suggested by Professor I. L. Fischer, Bergen Community College, New Jersey.
+
+Name Section Date Lab Partner(s)
+
+T I
+
+## E X P E R I M E N T 1
+
+Friction Laboratory Report Note: Attach graphs to laboratory report
+
+Mass of block m_b ___________________
+
+A. Determination of μ_s
+
+## DATA TABLE
+
+Purpose: To investigate f_s = μ_sN, where N depends on m_b + m_w, by measuring μ_s on a level plane (see The Fig. 10.2).
+
+m_w N = (m_b + m_w)g* f_s = F = Mg * It is convenient to express the force in terms of mg, where g is left in symbol form [e.g., (0.250)g N], even when graphing.
+
+Calculations μ_s ___________________ (show work) (from graph)
+
+Don’t forget units
+
+(continued)
+
+E X P E R I M E N T 1 0 Friction Laboratory Report
+
+B. DETERMINATION OF μ_k
+
+## DATA TABLE
+
+Purpose: To investigate f_k = μ_kN, where N depends on m = m_b, by measuring μ_k on a level plane.
+
+m_w N = (m_b + m_w)g f_k = F = Mg
+
+Calculations μ_k ___________________ (show work) (from graph)
+
+Percent decrease of μ_k relative to μ_s ___________________
+
+## DATA TABLE
+
+Purpose: To investigate μ_k = tan θ, where θ is independent of m_b + m_w, by measuring μ_k by the inclined plane method (see The Fig. 10.3).
+
+m_w θ Average h/L tan θ
+
+Calculations Percent difference between (show work) tan θ = μ_k and μ_k from The Data Table 2 ___________________
+
+Name Section Date Lab Partner(s)
+
+E X P E R I M E N T 1 0 Friction Laboratory Report
+
+C. Dependences of μ (optional)
+
+## DATA TABLE
+
+Purpose: To investigate dependences of μ by various measurements using the inclined plane method and other materials (if available).
+
+No. Conditions μ = tan θ Wooden block on larger area, static Wooden block on smaller area, static Wooden block on smaller area, kinetic Other materials Plastic block Alumin...
+
+um block, moving slowly
+
+## 6. Aluminum block, moving faster
+
+## 7. Wheeled cart
+
+## 8. Aluminum block with dry lubricating powder
+
+## 9. Plastic block with dry lubricating powder
+
+Answer the following questions on a separate sheet of paper and attach it to the TI Laboratory Report.
+
+(a) Compare No. 1 with TI Data Table 1: Is the inclined plane method valid for μ?
+
+(b) Compare No. 2 with No. 1 and No. 3 with TI Data Table 4: Does μ depend on area?
+
+(c) Compare Nos. 3, 4, and 5: Does μ depend on material?
+
+(d) Compare No. 5 with No. 6: Does μ depend on velocity?
+
+(e) Compare No. 7 with anything: How does rolling friction compare with other types of friction?
+
+(f) Compare Nos. 8 and 9 with Nos. 5 and 4: What is the effect of adding the lubricant?
+
+## QUESTIONS
+
+## 1. Explain why f ≤ μN; that is, why is f less than or equal to μN?
+
+2. Speculate, in terms of the microscopic surface irregularities, about why μk < μs and what effect a lubricant has on the coefficient of friction.
+
+3. (a) Prove that tan θ is equal to μ when the block slides down the incline with a constant speed. (Use symbols, not numbers.)
+
+(b) If θ is the maximum angle of incline just before the block moves, what is μ in terms of θ?
+
+4. Suppose that the block were made to move up the inclined plane with a uniform speed by suspending masses on a string over the pulley. Derive an equation for the coefficient of kinetic friction for this case in terms of the suspended masses, the mass of the block, and the angle of decline. (Neglect any friction and mass effects of the pulley.)
+
+5. On the basis of your experimental results, draw and justify conclusions about the validity of the empirical rules for friction. What does this tell you about applying general rules to all materials and about the nature of friction?
+
+## EXPERIMENT
+
+Friction
+
+## EQUIPMENT NEEDED
+
+• 1 straight, smooth track (PASCO dynamics track)
+
+• 1 force sensor (PASCO CI-6537)
+
+• 1 wooden block (The block used in the TI procedure can be used here also. Another option is the “Friction Block” included in the PASCO Classic Dynamics System.)
+
+• 1 constant-speed motorized car (PASCO ME-9781)
+
+• Extra weights to load the sliding object (200-g or 500-g pieces will work fine) (The PASCO Classic Dynamics System includes mass bars that can be used in this part.)
+
+• Additional blocks as needed to make the string horizontal when connected to the force sensor (Two PASCO cars, ME–9430 or 9454, stacked upside down on top of each other and on top of the friction block will make a tower of the correct height.)
+
+• Graph paper
+
+## THEORY
+
+In this experiment, we will study two of the general empirical rules used to describe the friction between solid surfaces. In the first part, we will examine the relationship between friction and the normal force to verify that they are proportional to each other. In the second part, we will examine the effect of the speed of the object on the amount of frictional force. In both cases, a force sensor will be used to measure the frictional force between a sliding wooden block and a track.
+
+CI Fig. 10.1 illustrates the experimental situation. The sliding object is a wooden block. Other blocks are shown added as needed so that the string is horizontal when connected to a force sensor riding on a motorized car. As an alternative, the figure also shows the setup using the suggested PASCO equipment, where a stack of cars is used to make the object the correct height. Other alternatives include using a single 234 board with a nail that makes it possible to attach the string at the proper height (not pictured).
+
+CI Fig. 10.2 shows a free-body diagram of a block as it slides with constant speed along a level track. The horizontal forces are F, the tension of the string, and f, the frictional force provided by the track. With the speed constant, there is no acceleration. From Newton’s second law, we have ΣF = F2f = ma = 0 or F = f.
+
+CI Fig. 10.1 illustrates the experimental situation. In this experiment, the force sensor will directly measure F, the tension in the string. Notice that as long as the car moves at a constant speed, the magnitude of F is equal to the magnitude of the frictional force acting on the sliding block. On the other hand, the vertical forces balance each other out, so the magnitude of the normal force N can be determined as the magnitude of the weight of the object: N = mg.
+
+Note: The force sensor needs to be calibrated before use. Refer to the user’s manual for instructions on how to calibrate the sensor. The procedures described here assume that the force sensor has been properly calibrated.
+
+CI Figure 10.1 The experimental setup. A wooden block slides on a flat surface while being pulled by a motorized car that moves at a constant speed. Additional blocks can be added as necessary on top of the wooden block so that the string is horizontal when connected to the force sensor. The force sensor rides on the motorized car. As an alternative, PASCO dynamic cars can be stacked on top of a friction block to achieve the same effect. (Reprinted courtesy of PASCO Scientific.)
+
+CI Figure 10.2 Free-body diagram of the sliding block. The horizontal forces are F, the tension on the string, and f, the friction from the surface. The force sensor measures F. At constant speed, the horizontal force vectors are equal and opposite, and F = f. The force sensor readings can be taken to be the friction as long as the block slides at constant speed.
+
+## SETTING UP DATA STUDIO
+
+## 1. Open Data Studio and choose “Create Experiment.”
+
+2. The Experiment Setup window will open and you will see a picture of the Science Workshop interface. There are seven channels to choose from. (Digital channels 1, 2, 3 and 4 are the small buttons on the left; analog channels A, B and C are the larger buttons on the right, as shown in CI Figure 10.3.)
+
+3. Click on the channel A button in the picture. A window with a list of sensors will open.
+
+## 4. Choose the Force Sensor from the list and press OK
+
+5. Connect the sensor to channel A of the interface, as shown on the computer screen.
+
+6. The properties of the force sensor are shown directly under the picture of the interface. Set the sample rate to 200 Hz.
+
+7. Create a digits display by double-clicking on “Digits” in the displays list (lower left of the screen). A display window called Digits 1 will open. It will show the force readings from the sensor when data are collected.
+
+8. Double-click anywhere on the Digits 1 window. The Digits Setting window will open.
+
+9. Select the Statistics button from the Toolbar box and click OK. There will now be a drop menu with the sigma symbol on the Digits 1 window toolbar.
+
+10. Press the sigma symbol and choose “Mean.” This will show the average of a series of measurements on the display.
+
+11. The size of the display window can be adjusted for easier viewing, if needed. The bigger the screen, the more digits you will be able to see once data are collected. For the purpose of this experiment, keep the size such that only two decimal places are shown. (Wait until data are collected to adjust this. There have to be data on the display before any change can be noticed.)
+
+12. CI Figure 10.4 shows what the screen will look like after the setup is complete and data are taken.
+
+CI Figure 10.3 The Experiment Setup Window. The force sensor is connected to analog channel A. The sample rate is set to 200 Hz.
+
+CI Figure 10.4 Data Studio setup. A digits display will show the force reading of the sensor. Once data are collected, the size of the display window is adjusted to show two decimal places. (Data displayed using Data Studio Software. Reprinted courtesy of PASCO Scientific.)
+
+## EXPERIMENTAL PROCEDURE
+
+A. The Effect of the Load 1. Measure the mass of the wooden block and of any other block or car that will be placed on top of it to add height, as illustrated in CI Fig. 10.1. Record the total mass in Trial 1 of CI Data Table 1.
+
+2. Set up the equipment as shown in CI Fig. 10.1. It is important that the string connecting the force sensor to the pile of objects be horizontal. If using additional blocks instead of the PASCO cars, tape the blocks together so that they will not fall off.
+
+3. Set the motorized car for a medium speed, and do not change it during the experiment.
+
+## 4. Trial 1: The object with no extra load
+
+a. With the string slack, press the TARE button on the side of the force sensor to zero the sensor.
+
+b. Turn the motorized car on.
+
+c. Wait until the string tenses before pressing the START button to begin collecting data. Let the car move, pulling along the pile of blocks (the “object”), for about 20 cm, and then press the STOP button.
+
+d. Stop the car.
+
+e. Report the average fictional force reading in CI Data Table 1. Do not worry if the sensor reading is negative. That is a convention for direction (pull or push). In this experiment, we need only the magnitude.
+
+c. Repeat by continuing to add mass on top of the object until the table is complete.
+
+6. Calculate the normal force for each trial by determining the weight of the object plus load in each case. Record the results in CI Data Table 1.
+
+7. Use a full page of graph paper to make a plot of friction versus normal force. Determine the slope of the best-fitting line for the plot, and enter the result in the table. Attach the graph to the laboratory report.
+
+B. The Effect of the Speed 1. Set up the equipment as shown in CI Fig. 10.1. It is important that the string connecting the force sensor to the pile of objects be horizontal. If using additional blocks instead of the PASCO cars, tape the blocks together so that they will not fall off.
+
+## 2. Set the motorized car for a slow speed
+
+3. Turn on the motorized car. Wait until the string tenses before pressing the START button to begin collecting data.
+
+data. Let the car move, pulling along the block, for about 20 cm, and then press the STOP button.
+
+## 4. Stop the car
+
+## 5. Trials 2, 3, 4 and 5: The object with a load
+
+a. Place a load on top of the sliding object and record the new mass of the sliding object in CI Data Table 2.
+
+b. Repeat the data collection process as described in steps (a) to (e) for Trial 1.
+
+## 5. Report the average frictional force reading in CI Data Table 1
+
+6. Increase the speed of the motorized car, and measure the average frictional force again. Repeat by increasing the speed for each trial until the table is complete.
+
+## EXPERIMENT
+
+Friction Laboratory Report
+
+A. The Effect of the Load
+
+## DATA TABLE
+
+Purpose: To investigate the effect of changing the load on an object (and thus changing the normal force) on the magnitude of the frictional force.
+
+| Trial | Total mass of sliding object | Frictional force (sensor reading) | Normal force N5mg | |-------|-----------------------------|-----------------------------------|-------------------| | The object with no load | 1 | | | | The object with increasing load | | | |
+
+Slope of graph5__________________ Don’t forget units (continued)
+
+EXPERIMENT 10 Friction Laboratory Report
+
+B. The Effect of Speed on Friction
+
+## DATA TABLE
+
+Purpose: To investigate the effect of speed on the frictional force.
+
+| Different speed trials (from low speed to high) | Average frictional force | |------------------------------------------------|--------------------------| | | | | 10 | |
+
+EXPERIMENT 10 Friction Laboratory Report
+
+## QUESTIONS
+
+1. Is it true that the frictional force is directly proportional to the normal force? Discuss the experimental evidence.
+
+2. What is the physical significance of the slope of the graph of friction versus normal force?
+
+3. Is there a clear pattern for the frictional force as the speed of the object increases? (Compare to the pattern observed when increasing the load.) What can be concluded about the effect of the speed? Discuss.
+
+4. Why was it so important that the string connecting the sensor and the object remain horizontal during the experiment? Discuss what would happen if it did not.
+
+5. Refer to step 3 of the Experimental Procedure for Part A, which says, “Set the motorized car for a medium speed, and do not change it during the experiment.” Given the results of Part B of the experiment, discuss whether changing the speed would have made a difference in the results of Experiment A. (See your textbook for modern theories of friction between two surfaces.)
+
+## EXPERIMENT
+
+Work and Energy
+
+GL Figure 11.1 Going up. Work and energy considerations for Experimental Planning.
+
+Experimental Planning Work and energy are intimately related, like heat and temperature. By doing work on an object, it can gain energy. Conversely, when energy is expended, work may be done. This experiment demonstrates the work-energy relationship in the context of work done by friction.
+
+The work (W) done by a constant force (F) acting on an object and moving it through a parallel displacement (d) is given by the product of their magnitudes, W5Fd (a scalar quantity). Work then involves a force acting on an object and moving it through a distance.
+
+However, the constant force may not be acting parallel to the displacement. In this case, the magnitude of the component of the force parallel to the displacement is F cosθ, where θ is the angle between the force and displacement vectors. So in general, W5F(cosθ) d which is commonly written W5Fd cosθ (GL 11.1)
+
+In the case of friction, W 52f d, where f is the force of friction (assumed to be constant).
+
+* Explain why there is a (2) sign in this equation. (Consider the value of the angle θ). (continued)
+
+EXPERIMENT 11 Experimental Planning
+
+A common experimental setup is shown in GL Fig. 11.1 for a car moving up an inclined plane at a constant speed pulled by a descending mass suspended over a pulley. Free-body diagrams for the forces acting on each object are also shown.
+
+1. Write an equation for the sum of the forces acting on the car parallel to the plane and also for the sum of the forces acting on the descending mass. Note that the car and descending mass both move with constant velocities.
+
+2. If the mass of the connecting string is small compared to the other masses, F and T will be approximately equal. Use this result to combine the equations and solve for the force of friction f in terms of the masses and angle.
+
+Did your result include a sinθ term? Check with a classmate or the instructor to verify your result.
+
+3. Now consider the case of the car moving down the plane with a constant speed, pulling a smaller mass upward. Draw the free-body diagrams and repeat the process used above to obtain an expression for f in this case. (Use m for the ascending mass.) How does this result compare to the previous one?
+
+Note that W 5f d applies in both cases of the block moving up and down the plane, where d is the distance the block moves.
+
+EXPERIMENT 11 Experimental Planning
+
+4. Examine your equations for f and determine what experimental quantities need to be measured to determine the work done by friction.
+
+5. The previous strategy to calculate W was based on the definition of work (force-distance method). The work done by friction for this experimental setup can also be obtained by an energy method. Note in ● GL Fig. 11.1 that there is a decrease in potential energy of the descending mass (ΔUw) and an increase of the potential energy of the cart (ΔUc).
+
+Are these changes in potential energy equal in magnitude?
+
+6. Since a nonconservative force is present ( f ), some energy is used in the work done to overcome friction (W), and this energy is no longer available as potential energy. Write the conservation of energy equation for this case in terms of the potential energies, and solve for W. Why have the kinetic energy terms been omitted in this analysis?
+
+7. Check with a classmate or the instructor to verify your result. Then find a corresponding expression for W for the case of the car moving down the plane.
+
+You now have two ways of determining W, a force-distance method and an energy method. Both of these methods will be used in the Experimental Procedure that follows.
+
+## EXPERIMENT
+
+Work and Energy Advance Study Assignment
+
+Read the experiment and answer the following questions.
+
+1. Distinguish between the conservation of mechanical energy and the conservation of total energy.
+
+2. Is mechanical energy conserved in real situations? Is the total energy conserved? Explain.
+
+3. Discuss the relationship between work and energy for a car moving with a constant speed (a) up an incline and (b) down an incline.
+
+4. Under what conditions would the frictional forces be expected to be equal in magnitude for a car moving up an incline and a car moving down an incline? (continued)
+
+EXPERIMENT 11 Advance Study Assignment
+
+5. Is the force of friction the same for different angles of incline if all other parameters are equal? Explain by specifically considering the angles used in the experiment.
+
+6. What are possible sources of error in this experiment? Identify them as personal or systematic errors. (See Experiment 1.)
+
+## EXPERIMENT
+
+Work and Energy
+
+## INTRODUCTION AND OBJECTIVES
+
+The ever-present frictional forces and the work done against friction will be investigated and taken into account so as to provide a better understanding of the concept of work-energy. To simplify matters, experimental conditions with constant speeds will be used so that only the relationship between work and changes in gravitational potential energy will have to be considered.
+
+After performing this experiment and analyzing the data, you should be able to:
+
+## 1. Explain how work and energy are related
+
+2. Describe how frictional work can be determined experimentally using either force-distance or energy considerations.
+
+3. Better appreciate the nonconservative aspects of real situations and the difference between the conservation of mechanical energy and the conservation of total energy.
+
+## EQUIPMENT NEEDED
+
+• Inclined plane with a low-friction pulley and Hall’s carriage (car)
+
+• Weight hanger and slotted weights • String • Meter stick • Protractor (if plane not so equipped)
+
+• Laboratory balance
+
+## THEORY
+
+A. Work of Friction: Force-Distance Method
+
+Car Moving up the Plane The situation for a car moving up an inclined plane with a constant velocity is illustrated in GL Fig. 11.1. Since the car is not accelerating, the force up the plane (F) must be equal in magnitude to the sum of the forces down (parallel to) the plane, that is, f = μmg - mg sinθ (11.1) (car moving up)
+
+Car Moving Down the Plane The situation for a car moving down an inclined plane with the same constant speed is illustrated in ● Fig. 11.2. Again, since the car is not accelerating, the force up the plane (F) must be equal in magnitude to the sum of the forces down (parallel to) the plane, that is, f = μmg + mg sinθ (car moving down)

@@ -1,17 +1,8 @@
 # What s the Point of Math DK Z Library
 
-> 来源文件：pre_What_s_the_Point_of_Math_DK_Z_Library.txt
-> 字符数（约）：153409
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 WHAT ’ S T H E POINT OF MATH?
 
-US_001_US_Half_title.indd 1 13/08/2019 16:08 Project Editor Amanda Wyatt US Editor Kayla Dugger Lead Designer Joe Lawrence Development Editor Ben Morgan Development Designer Jacqui Swan Illustrator Clarisse Hassan Editors Edward Aves, Steven Carton, Alexandra di Falco Designer Sammi Richiardi Writers Ben Ffrancon Davis, Junaid Mubeen Mathematical Consultant Junaid Mubeen Historical Consultant Philip Parker Managing Editor Lisa Gillespie Managing Art Editor Owen Peyton Jones Producer, Pre-production Robert Dunn Senior Producer Meskerem Berhane Jacket Designer Akiko Kato Jacket Editor Emma Dawson First American Edition, 2020 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2020 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 20 21 22 23 24 10 9 8 7 6 5 4 3 2 1 001–310504–Jan/2020 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-8173-3 Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com US_002-003_US_Imprint_title.indd 2 13/08/2019 16:08 W H AT ’ S T H E P O I NT O F MATH?
 
 US_002-003_US_Imprint_title.indd 3 13/08/2019 16:08 CONTENTS 6 What’s the point of math? 36 WHAT’S THE POINT OF SHAPES AND MEASURING?
 

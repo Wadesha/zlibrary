@@ -1,6 +1,4 @@
-
 Jacques Dupont-Roc etc.) (Z-Library).
-
 
 ## --- Page 1 ---
 

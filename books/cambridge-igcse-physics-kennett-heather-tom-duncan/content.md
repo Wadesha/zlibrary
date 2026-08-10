@@ -1,13 +1,6 @@
 # Cambridge IGCSE Physics Kennett Heather Tom Duncan
 
-> 来源文件：pre_Cambridge_IGCSE_Physics_Kennett_Heather_Tom_Duncan.txt
-> 字符数（约）：848331
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Cambridge IGCSE™ Physics series consists of a Student’s Book, Boost eBook, Workbooks and Teacher’s Guide with Boost Subscription.
-
-Cambridge IGCSE™ Physics Fourth Edition 9781398310544 Cambridge IGCSE™ Physics Fourth Edition Boost eBook 9781398310841 Cambridge IGCSE™ Physics Workbook Third Edition 9781398310575 Cambridge IGCSE™ Physics Practical Skills Workbook 9781398310551 Cambridge IGCSE™ Physics Teacher’s Guide with Boost Subscription 9781398310568 To explore the entire series, visit www.hoddereducation.com/cambridge-igcse-science Cambridge IGCSE™ Physics Teacher’s Guide with Boost Subscription Created with teachers and students in schools across the globe, Boost is the next generation in digital learning for schools and colleges, bringing quality content and new technology together in one interactive website.
 
 The Teacher’s Guide includes a print handbook and a subscription to Boost, where you will find a range of online resources to support your teaching.
 
@@ -17,15 +10,11 @@ The Teacher’s Guide includes a print handbook and a subscription to Boost, whe
 
 ●	 Enhance learning: videos and animations on key concepts, mathematical skills and practicals plus audio of technical terms to support vocabulary flashcards.
 
-To purchase Cambridge IGCSE™ Physics Teacher’s Guide with Boost Subscription, visit www.hoddereducation.com/cambridge-igcse-science
-
 Cambridge IGCSE™ Physics Fourth Edition
 
 This page intentionally left blank
 
 Cambridge IGCSE™ Heather Kennett Tom Duncan Physics Fourth Edition
-
-Cambridge International copyright material in this publication is reproduced under licence and remains the intellectual property of Cambridge Assessment International Education. Past paper questions reproduced by permission of Cambridge Assessment International Education.
 
 Exam-style questions [and sample answers] have been written by the authors. In examinations, the way marks are awarded may be different. References to assessment and/or assessment preparation are the publisher’s interpretation of the syllabus requirements and may not fully reflect the approach of Cambridge Assessment International Education.
 
@@ -37,11 +26,7 @@ Third-party websites and resources referred to in this publication have not been
 
 We have carried out a health and safety check of this text and have attempted to identify all recognised hazards and suggest appropriate cautions. However, the Publishers and the authors accept no legal responsibility on any issue arising from this check; whilst every effort has been made to carefully check the instructions for practical work described in this book, it is still the duty and legal obligation of schools to carry out their own risk assessments for each practical in accordance with local health and safety requirements.
 
-For further health and safety information (e.g. Hazcards) please refer to CLEAPSS at www.cleapss.org.uk.
-
 Hachette UK’s policy is to use papers that are natural, renewable and recyclable products and made from wood grown in well-managed forests and other controlled sources. The logging and manufacturing processes are expected to conform to the environmental regulations of the country of origin.
-
-Orders: please contact Hachette UK Distribution, Hely Hutchinson Centre, Milton Road, Didcot, Oxfordshire, OX11 7HH. Telephone: +44 (0)1235 827827. Email education@hachette.co.uk Lines are open from 9 a.m. to 5 p.m., Monday to Friday. You can also order through our website: www.hoddereducation.com ISBN: 978 1 3983 1054 4 © Tom Duncan and Heather Kennett 2021 First published in 2002 Second edition published in 2009 Third edition published in 2014 This fourth edition published in 2021 by Hodder Education, An Hachette UK Company Carmelite House 50 Victoria Embankment London EC4Y 0DZ www.hoddereducation.com Impression number 10  9  8  7  6  5  4  3  2  1 Year 2024   2023   2022   2021 reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying and recording, or held within any information storage and retrieval system, without permission in writing from the publisher or under licence from the Copyright Licensing Agency Limited. Further details of such licences (for reprographic reproduction) may be obtained from the Copyright Licensing Agency Limited, www.cla.co.uk Cover photo © Zffoto – stock.adobe.com Illustrations by Fakenham Prepress Solutions, Wearset and Integra Software Services Pvt. Ltd., Pondicherry, India Typeset by Integra Software Services Pvt. Ltd., Pondicherry, India Printed in Slovenia A catalogue record for this title is available from the British Library.
 
 Contents How to use this book Scientific enquiry 1	Motion, forces and energy
 

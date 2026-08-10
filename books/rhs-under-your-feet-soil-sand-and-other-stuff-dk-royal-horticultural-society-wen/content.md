@@ -1,10 +1,5 @@
 # RHS 足底之下：土壤、沙子与其他东西（RHS Under Your Feet: Soil, Sand and Other Stuff） DK 英国皇家园艺学会（Royal Horticultural Society） 唐文佳（Wenjia Tang） Z-Library
 
-> 来源文件：pre_RHS_Under_Your_Feet_Soil_Sand_and_Other_Stuff_DK_Royal_Horticultural_Society_Wenjia_Tang_Z_Library.txt
-> 字符数（约）：54302
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 作者：Jackie Stroud 博士（英国皇家园艺学会作者及顾问）、Marc Redmile-Gordon 博士　插图：唐文佳（Wenjia Tang）
 
 我们为什么需要土壤？
@@ -17,11 +12,7 @@
 
 神奇的鼹鼠　掘洞者　无脊椎动物　蚂蚁王国　微小的生命　微生物在行动　遍布全球的土地　从土壤到沙子　月尘　植物能在火星上生长吗？
 
-成为土壤科学家　爱护土壤　词汇表　索引　致谢　2020 年首次在英国由多林金德斯利有限公司（Dorling Kindersley Limited）出版，地址：80 Strand, London, WC2R 0RL　版权所有 © 2020 Dorling Kindersley Limited，企鹅兰登书屋（Penguin Random House）旗下公司　印次：10 9 8 7 6 5 4 3 2 1　001–316657–2020 年 3 月　未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存入检索系统或传播本出版物的任何部分。
-
 大英图书馆（British Library）可提供本书的 CIP（编目在版）记录。
-
-ISBN：978-0-2414-1245-9　中国印刷　A WORLD OF IDEAS：SEE ALL THERE IS TO KNOW（ ideas 的世界：探索一切可知之物）　www.dk.com
 
 我们为什么需要土壤？
 
@@ -1072,4 +1063,3 @@ DK 谨此感谢：Katie Lawrence 的编辑帮助；Katie Knutton、Ashok Kumar�
 所有其他图片 © Dorling Kindersley。更多信息见：www.dkimages.com
 
 ## 致谢
-

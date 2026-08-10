@@ -1,10 +1,10 @@
 {
   "slug": "calculus-volume-2-gilbert-strang-edwin-jed-herman",
-  "title": "Calculus_Volume_2_Gilbert_Strang_Edwin_Jed_Herman",
+  "title": "Calculus, Volume 2 Gilbert Strang, Edwin “Jed” Herman",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]Calculus_Volume_2_Gilbert_Strang_Edwin_Jed_Herman_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "Calculus, Volume 2 (Gilbert Strang, Edwin “Jed” Herman) (Z-Library).md",
   "source_pdf": null,
-  "chars": 1214094,
+  "chars": 1257068,
   "has_fixed": false
 }

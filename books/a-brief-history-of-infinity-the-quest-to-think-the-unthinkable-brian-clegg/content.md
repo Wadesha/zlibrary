@@ -1,10 +1,5 @@
 # A Brief History of Infinity The Quest to Think the Unthinkable Brian Clegg Z Library
 
-> 来源文件：pre_A_Brief_History_of_Infinity_The_Quest_to_Think_the_Unthinkable_Brian_Clegg_Z_Library.txt
-> 字符数（约）：421975
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BRIAN CLEGG is the author of the highly acclaimed Light Years and The First Scientist (published by Constable, 2002). While working for British Airways he set up the Emerging Technologies Group, responsible for researching cutting-edge technologies. He currently runs his own creative consultancy business.
 
 Praise for Light Years ‘In this extraordinary book ... Clegg’s accessible writing style manages to encapsulate the lives of light’s disciples with humorous and interesting anecdotes ... quite awesome.’ New Scientist ‘A fascinating book on a fascinating subject.’ Sir Patrick Moore CBE
@@ -14,8 +9,6 @@ Praise for The First Scientist ‘This is both a fascinating biography and a viv
 Other titles in this series A Brief History of the Boxer Rebellion Diana Preston A Brief History of British Kings & Queens Mike Ashley A Brief History of the Celts Peter Berresford Ellis A Brief History of the Circumnavigators Derek Wilson A Brief History of Christianity Bamber Gascoigne A Brief History of the Druids Peter Berresford Ellis A Brief History of the Dynasties of China Bamber Gascoigne A Brief History of Fighting Ships David Davies A Brief History of the Great Modhuls Bamber Gascoigne A Brief History of the Hundred Years War Desmond Seward A Brief History of Napoleon in Russia Alan Palmer A Brief History of the Royal Flying Corps in WW1 Ralph Barker A Brief History of Science Thomas Crump A Brief History of the Tudor Age Jasper Ridley
 
 A BRIEF HISTORY OF INFINITY The Quest to Think the Unthinkable Brian Clegg ROBINSON London
-
-Constable & Robinson Ltd 55–56 Russell Square London WC1B 4HP www.constablerobinson.com First published in the UK by Robinson, an imprint of Constable & Robinson Ltd, 2003 Copyright © Brian Clegg 2003 The right of Brian Clegg to be identified as the author of this work has been asserted by him in accordance with the Copyright, Designs and Patents Act 1988 A copy of the British Library Cataloguing in Publication data is available from the British Library ISBN 978-1-84119-650-3 eISBN 978-1-47210-764-0 Printed and bound in the EU
 
 To Gillian, Rebecca and Chelsea, and also to Neil Sheldon at the Manchester Grammar School for having patience over the matter of frogs and lily-pads.
 

@@ -1,0 +1,10 @@
+{
+  "slug": "青天指南第九版",
+  "title": "青天指南第九版",
+  "language": "zh",
+  "pipeline": "native",
+  "source_file": "[MD]青天指南第九版.md",
+  "source_pdf": "青天指南第九版.pdf",
+  "chars": 220092,
+  "has_fixed": false
+}

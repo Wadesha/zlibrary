@@ -1,10 +1,10 @@
 {
   "slug": "dk-science-lab-dk-publishing",
-  "title": "DK_Science_Lab_DK_Publishing",
+  "title": "DK Science Lab DK Publishing",
   "language": "zh",
   "pipeline": "translated",
   "source_file": "[译]DK_Science_Lab_DK_Publishing_Z_Library.md",
   "source_pdf": null,
-  "chars": 49657,
+  "chars": 48631,
   "has_fixed": false
 }

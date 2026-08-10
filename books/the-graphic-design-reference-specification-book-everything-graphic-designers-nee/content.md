@@ -1,10 +1,5 @@
 # The Graphic Design Reference Specification Book Everything Graphic Designers Need to Know Every Day Aaris Sherin Irina Lee Poppy Evans Z Library
 
-> 来源文件：pre_The_Graphic_Design_Reference_Specification_Book_Everything_Graphic_Designers_Need_to_Know_Every_Day_Aaris_Sherin_Irina_Lee_Poppy_Evans_Z_Library.txt
-> 字符数（约）：181925
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Graphic Design Reference & Specification Book
 
 Poppy Evans and Aaris Sherin Updated Materials Provided by Irina Lee
@@ -12,8 +7,6 @@ Poppy Evans and Aaris Sherin Updated Materials Provided by Irina Lee
 Contents Introduction
 
 ## Chapter 1: Design Basics
-
-5 Types of Grids 8 Measurement Conversion Charts 8 Millimeters, Points, and Picas to Inches 8 Inch Decimals to Inch Fractions 9 Conversion Formulas 9 Metric to Imperial Equivalents 10 Copyright and Trademark Standards 10 Copyright 10 Public Domain 11 Transferring Rights 11 Creative Commons Licensing 12 Trademarks and Service Marks 13 Legal Resources 14 Proofreaders’ Symbols 15 Footnotes 15 Abbreviation Guide 18 Hyphenation Guide 18 Prime Marks and Quotation Marks Guide 20 Imaging and Color 22 Halftone Screens 25 Duotones 26 Trapping 27 Standard Ad Unit Guidelines 28 Type 28 Typography Terminology 29 Categories of Type Styles 31 Measuring Type 33 Type Guide 34 Ways to Identify Typefaces 35 Text Typefaces
 
 ## Chapter 2: Grid Design Basics
 
@@ -239,27 +232,9 @@ metric to imperial equivalents
 
 8 the graphic design reference & specification book
 
-## Chapter 2: Copyright and Trademark Standards
-
-copyright
-
-Copyright is defined as the exclusive legal right to reproduce, publish, and sell a literary, musical, or artistic work. Anything that is produced is a copyrighted piece of work as soon as it is produced if it falls under one of the above categories. In the United States, a work is under the protection of copyright from the moment it is created until seventy years after its author’s death. During that period, the owner of a copyrighted work owns the rights to its reproduction, display, distribution, and adaptation to derivative works. (Note that a “work” can be copyrighted, but not an idea. Ideas must be patented.) A copyright infringement occurs when somebody copies a copyright protected work owned by someone else or exercises an exclusive right without authorization.
-
-A copyright notice, strategically placed on literary, musical, or artistic work, serves as a warning to potential plagiarizers. A copyright notice consists of the word “Copyright” or its symbol, ©, the year the work was created or first published, and the full name of the copyright owner. Example: © 2013 John Doe. For HTML pages, use the HTML number code &#169; to insert a copyright notice. Example: <p>&#169; 2013 John Doe</p>.
-
-The copyright notice should be placed where it can be easily seen. Placing a copyright notice on a piece of work isn’t absolutely necessary to claim copyright infringement, but it is in the owner’s best interest to use this symbol as a warning. Original work can be further protected by registering it with the U.S. Copyright Office:
-
-U.S. Copyright Office 101 Independence Ave. S.E.
-
 Washington, D.C. 20559-6000 (202) 707-3000 or 1-877-476-0778 (toll free)
 
-www.copyright.gov
-
-Registering an artistic work requires filing an application with the Copyright Office and accompanying it with two visual representations, in printed or digital form, of the work being registered. There is a $65 (£40) nonrefundable fee for paper registration and a $35 (£21) non-refundable fee for electronic filing. Application forms can be found online at www.copyright.gov/forms. The work becomes registered on the date that all the required elements for registration are received by the U.S. Copyright Office.
-
 transferring rights
-
-Transferring a copyright means granting permission to another to use or publish the work on a temporary basis. Some common types of transfer rights include the following:
 
 First rights: The work is leased for one use where it is published for the first time.
 
@@ -273,19 +248,13 @@ Promotion rights: The leaser is given the right to use the
 
 creative commons licensing
 
-Creative Commons is a non-profit organization that provides free copyright licenses to help creative professionals give others the ability to share, use, or build upon the work they have created. A Creative Commons license gives designers the flexibility to share their work without relegating it to the public domain. The standardized Creative Commons license allows designers to set up copyright terms based on the conditions of their choice.
-
 What can Creative Commons do for designers?
 
 Designers can use Creative Commons to set up legal notices that permit others to use their content. For example, a designer can use a Creative Commons license to set specific conditions for use for an infographic designed as a personal project. By using a Creative Commons license, any person, or organization, can use that specific infographic, without permission, as long as the infographic is used in a manner that meets the conditions the designer outlined in the license.
 
 Creative Commons License Types:
 
-There are six major Creative Commons licenses that can be used when publishing work. At a minimum each license retains copyright, attributes authorship, applies worldwide and lasts for the duration of the work’s copyright.
-
 public domain
-
-Older artistic creations, which are no longer protected by copyright, fall into a category called “public domain,” and can be used by anyone without obtaining permission or paying a fee. Uncredited or anonymous works are no longer protected by copyright beyond 95 years after the date of their publication or 120 years after their creation. Works credited to an artist or author are no longer protected beyond 70 years after the creator’s death.
 
 Attribution (CC-BY)
 
@@ -293,33 +262,17 @@ The most accommodating license type, the Attribution license allows others to di
 
 10 the graphic design reference & specification book work for promotional purposes. Exclusive rights: The leaser retains the right to use or publish the work exclusively in their industry. This type of agreement is often tacked onto another rights contract. For instance, an agreement with a greeting card company to use an illustration on a greeting card would include a promotion rights clause giving the company the right to use the same illustration in its promotion of the card.
 
-Copyright and Trademark Standards
-
-When somebody copies a copyright protected work owned by someone else or exercises an exclusive right without authorization, infringement occurs. A copyright notice, strategically placed on literary, musical, or artistic work, serves as a warning to potential plagiarizers. A copyright notice consists of the word “Copyright” or its symbol, ©, the year the work was created or first published, and the full name of the copyright owner. Example: © 2013 John Doe. For HTML pages, use the HTML number code &#169; to insert a copyright notice. Example: <p>&#169; 2013 John Doe</p>. The copyright notice should be placed where it can be easily seen. Placing a copyright notice on a piece of work isn’t absolutely necessary to claim copyright infringement, but it is in the owner’s best interest to use this symbol as a warning. Original work can be further protected by registering it with the U.S. Copyright Office:
-
-U.S. Copyright Office 101 Independence Ave. S.E.
-
 Washington, D.C. 20559-6000 (202) 707-3000 or 1-877-476-0778 (toll free)
-
-www.copyright.gov
-
-Registering an artistic work requires filing an application with the Copyright Office and accompanying it with two visual representations, in printed or digital form, of the work being registered. There is a $65 (£40) nonrefundable fee for paper registration and a $35 (£21) non-refundable fee for electronic filing. Application forms can be found online at www.copyright.gov/forms. The work becomes registered on the date that all the required elements for registration are received by the U.S. Copyright Office.
 
 Public domain
 
-Older artistic creations, which are no longer protected by copyright, fall into a category called “public domain,” and can be used by anyone without obtaining permission or paying a fee. Uncredited or anonymous works are no longer protected by copyright beyond 95 years after the date of their publication or 120 years after their creation. Works credited to an artist or author are no longer protected beyond 70 years after the creator’s death.
-
 Creative Commons licensing
-
-Creative Commons is a non-profit organization that provides free copyright licenses to help creative professionals give others the ability to share, use, or build upon the work they have created. A Creative Commons license gives designers the flexibility to share their work without relegating it to the public domain. The standardized Creative Commons license allows designers to set up copyright terms based on the conditions of their choice.
 
 What can Creative Commons do for designers?
 
 Designers can use Creative Commons to set up legal notices that permit others to use their content. For example, a designer can use Creative Commons license to set specific conditions for use for an infographic designed as a personal project. By using a Creative Commons license, any person, or organization, can use that specific infographic, without permission, as long as the infographic is used in a manner that meets the conditions the designer outlined in the license.
 
 Creative Commons License Types:
-
-There are six major Creative Commons licenses that can be used when publishing work. At a minimum each license retains copyright, attributes authorship, applies worldwide and lasts for the duration of the work's copyright.
 
 Attribution (CC-BY): The most accommodating license type, the Attribution license allows others to distribute, edit, and improve a designer’s original work, even for commercial reasons, as long as the original designer is credited for the original work.
 
@@ -495,8 +448,6 @@ Hanging punctuation: also known as exdentation, is the proper way to treat quota
 
 Digital files can be saved in a number of file formats. For any type of file, the extension at the end (for example, “JohnDoePortrait.raw”) indicates the format in which your file has been saved. Each file format has a purpose. Refer to the chart below for saving and working with files—whether you want to use the files for editing, posting online, sharing via email or printing.
 
-Format Definition Advantage Disadvantage PDF or .pdf (Portable Document Format) Used for allowing documents to be viewed and printed independent of the application used to create them. Often used for transferring printed pages over the Web, either for downloading existing publications or for sending documents to commercial printers for output.
-
 TIFF or .tif (Tagged Image File Format) Used for placing images or graphics in documents created in word processing, page layout, or drawing programs. Supports rasterized data images in software like Photoshop. TIFFs retain color information while being much smaller than RAW. Can be saved with minimum compression making it ideal for printing large sized high-resolution images. TIFF supports layered files, which allows editing of images. Though smaller than RAW files, TIFF files are not small. Depending on the resolution of your camera, files can be in the 5 to 15MB file size range. TIFFs are not widely supported by Web browsers, which makes them a poor choice for online use.
 
 GIF or .gif (Graphics Interchange Format) An 8-bit, low-memory option for posting images online. GIF images are limited to 256 colors, making them unsuitable for most print applications. Ideally suited for the limited color display range of computer monitors. GIFs are well-suited for images containing large, flat areas of one color and are often used for graphics such as logos and line art. Commonly used for Web graphics with a limited color range rather than photographs. Because they use fewer colors, GIF file sizes are very small, which makes them perfect for online use. GIF files don't support as many colors as other types of file formats.
@@ -514,8 +465,6 @@ Digital files can be saved in a number of file formats. For any type of file, th
 Commonly used sharing through e-mail and over the Internet.
 
 ## Chapter 4: Imaging and Color
-
-Format Definition Advantage Disadvantage PDF or .pdf (Portable Document Format) Used for allowing documents to be viewed and printed independent of the application used to create them. Often used for transferring printed pages over the Web, either for downloading existing publications or for sending documents to commercial printers for output. Because they use fewer colors, GIF file sizes are very small, which makes them perfect for online use.
 
 EPS or .eps Used for placing images or graphics in documents created in word processing, page layout, or drawing programs. Supports both rasterized data and vectored data. EPS files can be cross-platformed, cropped, or edited.
 
@@ -547,10 +496,6 @@ Screen rulings affect the perception of a screen tint as well as how overprints 
 
 duotones
 
-A duotone is a halftone printed in two colors, usually black and a second color. One plate is made for the black, picking up the highlights and shadow areas; a second plate is made for the second color, picking up the middle tones. When combined, the two plates produce a monochromatic reproduction with a full range of tones.
-
-Red impression Black impression Duotone printed in red and black
-
 finding the best scanning resolution
 
 When you select a dpi for an image scan, you are designating the amount of image information your scanner will capture—the higher the dpi, the more image data, or potential for clarity your image file will have. Although scanning at a high dpi may ensure that every detail of your image will be captured, the large size of high-resolution image files makes them cumbersome to work with. Scanning at optimum resolution balances detail and file size.
@@ -576,8 +521,6 @@ Standard digital image sizes for web: When considering images for online use, no
 Standard ad unit guidelines: To prepare images for use in advertising units, consult the Ad Unit Guidelines developed by the IAB for standard sizes for banners, skyscrapers and buttons in various sizes. Advertising units come in three categories: Skyscrapers and verticals; horizontals and buttons; rectangles and squares.
 
 Interactive Advertising Bureau (IAB)
-
-116 East 27th Street, 7th Floor New York, New York 10016 (212) 380-4700 www.iab.net
 
 ## Chapter 5: Type
 

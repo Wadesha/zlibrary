@@ -1,10 +1,5 @@
 # A Students Guide to Atomic Physics Mark Fox Z Library
 
-> 来源文件：pre_A_Students_Guide_to_Atomic_Physics_Mark_Fox_Z_Library.txt
-> 字符数（约）：254454
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 A Student’s Guide to Atomic Physics This concise and accessible book provides a detailed introduction to the fundamental principles of atomic physics at an undergraduate level. Concepts are explained in an intuitive way, and the book assumes only a basic knowledge of quantum mechanics and electromagnetism. With a compact format specifically designed for students, the first part of the book covers the key principles of the subject, including quantum theory of the hydrogen atom, radiative transitions, the shell model of multi-electron atoms, spin–orbit coupling, and the effects of external fields. The second part provides an introduction to four key applications of atomic physics: lasers, cold atoms, solid-state spectroscopy, and astrophysics. This highly pedagogical text includes worked examples and end-of-chapter problems to allow students to test their knowledge, as well as numerous diagrams of key concepts, making it perfect for undergraduate students looking for a succinct primer on the concepts and applications of atomic physics.
 
 Mark Fox is Professor of Physics at the University of Sheffield. He is also a fellow of the Optical Society of America and the Institute of Physics. His research focuses on optics and photonics, and he specializes in solid-state atoms and quantum dots. He has authored two highly successful books: Optical Properties of Solids (2nd edition, 2010) and Quantum Optics: An Introduction (2005).
@@ -15,21 +10,13 @@ A Student’s Guide to Atomic Physics MARK FOX University of Sheffield Universit
 
 It furthers the University’s mission by disseminating knowledge in the pursuit of education, learning, and research at the highest international levels of excellence.
 
-www.cambridge.org Information on this title: www.cambridge.org/9781107188730 DOI:10.1017/9781316981337 © Mark Fox 2018 This publication is in copyright. Subject to statutory exception and to the provisions of relevant collective licensing agreements, no reproduction of any part may take place without the written permission of Cambridge University Press.
-
-First published 2018 Printed in the United Kingdom by TJ International Ltd. Padstow Cornwall A catalogue record for this publication is available from the British Library.
-
 Library of Congress Cataloging-in-Publication Data Names: Fox, Mark (Anthony Mark), author.
 
 Title: A student’s guide to atomic physics / Mark Fox (University of Sheffield).
 
 Description: Cambridge, United Kingdom; New York, NY: Cambridge University Press, 2018. | Includes bibliographical references and index.
 
-Identifiers: LCCN 2017051568 | ISBN 9781107188730 (hbk.) | ISBN 1107188733 (hbk.) | ISBN 9781108446310 (pbk.) | ISBN 1108446310 (pbk.)
-
 Subjects: LCSH: Nuclear physics. | Atomic theory.
-
-Classification: LCC QC173.F675 2018 | DDC 539.7–dc23 LC record available at https://lccn.loc.gov/2017051568 ISBN 978-1-107-18873-0 Hardback ISBN 978-1-108-44631-0 Paperback Additional resources for this publication at www.cambridge.org/9781107188730.
 
 Cambridge University Press has no responsibility for the persistence or accuracy of URLs for external or third-party internet websites referred to in this publication and does not guarantee that any content on such websites is, or will remain, accurate or appropriate.
 

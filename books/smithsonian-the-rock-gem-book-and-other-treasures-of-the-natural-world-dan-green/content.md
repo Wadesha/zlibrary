@@ -1,21 +1,12 @@
 # 史密森尼岩石与宝石书及自然世界的其他珍宝 丹·格林 Z Library
 
-> 来源文件：pre_Smithsonian_The_Rock_Gem_Book_And_Other_Treasures_of_the_Natural_World_Dan_Green_Z_Library.txt
-> 字符数（约）：224998
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 前言 我们的岩石星球 岩石 火成岩 花岗岩 火山岩 玄武岩 狂暴的地球 变质岩 大理石 沉积岩 砂岩 彩虹山 来自外太空的岩石 陨石坑 岩石循环 岩石 矿物与宝石 天然矿物 金 银 钻石 铜 巨型矿场 硫化物 黄铁矿 矿石矿物 氧化物 冰 冰层之下 荧光矿物 矿物与宝石 DK印度 高级编辑 Bharti Bedi 项目美术编辑 Pooja Pipil 编辑 Deeksha Saikia 美术编辑 Tanvi Sahu、Vikas Chauhan、Alpana Aditya、Sonali Rawat 助理美术编辑 Priyanka Bansal 高级排版设计 Harish Aggarwal 排版设计 Jaypal Chauhan、Nityanand Kumar 图片研究员 Nishwan Rasool 封面设计 Surabhi Wadhwa 制作统筹编辑 Saloni Singh 预制作经理 Balwant Singh 制作经理 Pankaj Sharma 图片研究经理 Taiyaba Khatoon 管理编辑 Kingshuk Ghoshal 管理美术编辑 Govind Mittal
 
 DK英国 高级编辑 Chris Hawkes 高级美术编辑 Rachael Grady 美国编辑 Christine Heilman 封面编辑 Claire Gell 封面设计 Mark Cavanagh 封面设计开发经理 Sophia MTT 预制作制作人 Gillian Reid 制作人 Vivienne Yong 管理美术编辑 Philip Letsu 出版人 Andrew Macintyre 艺术总监 Karen Self 副出版总监 Liz Wheeler 出版总监 Jonathan Metcalf
 
-美国初版，2016年 由DK Publishing出版于美国纽约州纽约市哈德逊街345号，邮编10014 版权所有 © 2016 Dorling Kindersley Limited DK，企鹅兰登书屋有限责任公司旗下部门 16 17 18 19 20  10 9 8 7 6 5 4 3 2 1 001–274737–2016年5月 版权保留如上，未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储或引入检索系统，或传播本出版物的任何部分。
-
 由英国多林·金德斯利有限公司（Dorling Kindersley Limited）出版于英国。
 
 本书的编目记录可向美国国会图书馆索取。
-
-ISBN：978–1–4654–5070–8 DK图书在批量采购用于促销、赠品、筹款或教育用途时享有特别折扣。详情请联系：DK Publishing Special Markets，纽约州纽约市哈德逊街345号，邮编10014，SpecialSales@dk.com 印刷并装订于中国 创意世界：探索尽在其中 www.dk.com
 
 化石 化石 远古海洋中的生命 化石鱼 植物化石 石化之树 最早的陆地动物 海洋爬行动物 飞行的爬行动物 肉食怪物 植食动物 恐龙鸟 小盗龙 早期哺乳动物 巨型动物与人类 冰期兽群 含水矿物 矿物盐 盐 碳酸盐与硼酸盐 壮观的泉 孔雀石 硫酸盐矿物 石膏 水晶洞 磷酸盐类矿物 硅酸盐 黄玉 玉 碧玉瀑布 红宝石与蓝宝石 祖母绿 长石 似矿物 琥珀 蛋白石 装饰石 贝壳 贝壳 芋螺、玉螺及近亲 法螺与宝螺 不寻常的移动者 钻螺、笋螺与塔螺 蛾螺及近亲 其他蜗牛 随波漂浮 蛤、鸟蛤及近亲 超大贝壳 牡蛎、扇贝及近亲 178 奇特的贝壳 自然的潜艇 词汇表 著名珍宝 索引 致谢
 
@@ -2578,4 +2569,3 @@ Getty Images: Print Collector (cla). 198-199 Getty Images: UniversalImagesGroup.
 所有其他图片 © Dorling Kindersley
 
 欲了解更多信息，请访问：www.dkimages.com
-

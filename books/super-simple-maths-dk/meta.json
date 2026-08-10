@@ -1,10 +1,10 @@
 {
   "slug": "super-simple-maths-dk",
-  "title": "Super_Simple_Maths_DK",
+  "title": "Super Simple Maths DK",
   "language": "en",
   "pipeline": "native",
   "source_file": "[MD]Super_Simple_Maths_DK_Z_Library.md",
   "source_pdf": null,
-  "chars": 501229,
+  "chars": 498880,
   "has_fixed": false
 }

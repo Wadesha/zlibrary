@@ -1,10 +1,10 @@
 {
   "slug": "book1-编程不难-生姜-drginger",
-  "title": "Book1_编程不难_生姜_DrGinger",
+  "title": "Book1-编程不难 生姜 DrGinger",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]Book1_编程不难_生姜_DrGinger_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "Book1-编程不难 (生姜 DrGinger) (Z-Library).md",
   "source_pdf": null,
-  "chars": 568804,
+  "chars": 575278,
   "has_fixed": false
 }

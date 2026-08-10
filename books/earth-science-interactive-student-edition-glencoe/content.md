@@ -1,10 +1,5 @@
 # Earth Science Interactive Student Edition Glencoe Z Library
 
-> 来源文件：pre_Earth_Science_Interactive_Student_Edition_Glencoe_Z_Library.txt
-> 字符数（约）：1746180
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 interactive student edition
 
 Earth Materials . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
@@ -1792,8 +1787,6 @@ Figure 3 This model of a helium atom shows two protons and two neutrons in the n
 John Evans
 
 ## SECTION 1 Atoms
-
-Counting Atomic Particles You now know where protons, neutrons, and electrons are located, but how many of each are in an atom? The number of protons in an atom depends on the element. All atoms of the same element have the same number of protons. For example, all iron atoms—whether in train tracks or breakfast cereal— contain 26 protons, and all atoms with 26 protons are iron atoms. The number of protons in an atom is equal to the atomic number of the element. This number can be found above the element symbol on the periodic table that is printed in the back of this book. Notice that as you go from left to right on the periodic table, the atomic number of the element increases by one.
 
 How many electrons? In a neutral atom, the number of protons is equal to the number of electrons. This makes the overall charge of the atom zero. Therefore, for a neutral atom: Atoms of an element can lose or gain electrons and still be the same element. When this happens, the atom is no longer neutral. Atoms with fewer electrons than protons have a positive charge, and atoms with more electrons than protons have a negative charge.
 

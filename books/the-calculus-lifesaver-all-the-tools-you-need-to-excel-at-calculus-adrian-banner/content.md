@@ -1,23 +1,8 @@
 # The Calculus Lifesaver All the Tools You Need to Excel at Calculus Adrian Banner Z Library
 
-> 来源文件：pre_The_Calculus_Lifesaver_All_the_Tools_You_Need_to_Excel_at_Calculus_Adrian_Banner_Z_Library.txt
-> 字符数（约）：1341897
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Calculus Lifesaver
 
 PRINCETON UNIVERSITY PRESS Princeton and Oxford
-
-Copyright c⃝2007 by Princeton University Press Published by Princeton University Press, 41 William Street, Princeton, New Jersey 08540 in the United Kingdom: Princeton University Press, 3 Market Place, Woodstock, Oxfordshire OX20 1SY All Rights Reserved Library of Congress Control Number: 2006939343 ISBN-13: 978-0-691-13153-5 (cloth)
-
-ISBN-10: 0-691-13153-8 (cloth)
-
-ISBN-13: 978-0-691-13088-0 (paper)
-
-ISBN-10: 0-691-13088-4 (paper)
-
-British Library Cataloging-in-Publication Data is available This book has been composed in Times Roman The publisher would like to acknowledge the author of this volume for providing the camera-ready copy from which this book was printed Printed on acid-free paper. ∞ pup.princeton.edu Printed in the United States of America 1 3 5 7 9 10 8 6 4 2
 
 To Yarry
 
@@ -405,8 +390,6 @@ Where do I start? The next three pages describe how to use this book to study fo
 
 • The topics are out of order! What do I do? There’s no standard order for learning calculus. The order I have chosen works, but you might have to search the table of contents to ﬁnd the topics you need and ignore
 
-How to Use This Book to Study for an Exam • xix the rest for now. I may also have missed out some topics too—why not try emailing me at adrian@calclifesaver.com and you never know, I just might write an extra section or chapter for you (and for the next edition, if there is one!).
-
 • Some of the methods you use are diﬀerent from the methods I learned. Who is right—my instructor or you? Hopefully we’re both right! If in doubt, ask your instructor what’s acceptable.
 
 • Where’s all the calculus history and fun facts in the margins?
@@ -416,8 +399,6 @@ Look, there’s a little bit of history in this book, but let’s not get too di
 After you get this stuﬀdown, read a book on the history of calculus. It’s interesting stuﬀ, and deserves more attention than a couple of sentences here and there.
 
 • Could my school use this book as a textbook? Paired with a good collection of exercises, this book could function as a textbook, as well as being a study guide. Your instructor might also ﬁnd the book useful to help prepare lectures, particularly in regard to problem-solving techniques.
-
-• What’s with these videos? You can ﬁnd videos of a year’s supply of my review sessions, which reference a lot (but not all!) of the sections and examples from this book, at this website: www.calclifesaver.com How to Use This Book to Study for an Exam There’s a good chance you have a test or exam coming up soon. I am sympa- thetic to your plight: you don’t have time to read the whole book! There’s a table on the next page that identiﬁes the main sections that will help you to review for the exam. Also, throughout the book, the following icons appear in the margin to allow you quickly to identify what’s relevant: • A worked-out example begins on this line.
 
 • Here’s something really important.
 

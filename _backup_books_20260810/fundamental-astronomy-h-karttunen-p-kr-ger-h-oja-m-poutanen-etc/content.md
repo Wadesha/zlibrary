@@ -1,0 +1,2400 @@
+# Fundamental Astronomy H Karttunen P Kr ger H Oja M Poutanen etc Z Library
+
+> 来源文件：pre_Fundamental_Astronomy_H_Karttunen_P_Kr_ger_H_Oja_M_Poutanen_etc_Z_Library.txt
+> 字符数（约）：235164
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Fundamental Astronomy H. Karttunen, P. Kröger, H. Oja, M. Poutanen, K.J. Donner (Eds.)
+
+Fifth Edition With 449 Illustrations Including 34 Colour Plates and 75 Exercises with Solutions
+
+Dr. Hannu Karttunen University of Turku, Tuorla Observatory, 21500 Piikkiö, Finland e-mail: hannu.karttunen@utu.fi
+
+Dr. Pekka Kröger Isonniitynkatu 9C 9, 00520 Helsinki, Finland e-mail: pekka.kroger@stadia.fi
+
+Dr. Heikki Oja Observatory, University of Helsinki, Tähtitorninmäki (PO Box 14), 00014 Helsinki, Finland e-mail: heikki.oja@helsinki.fi
+
+Dr. Markku Poutanen Finnish Geodetic Institute, Dept. Geodesy and Geodynamics, Geodeetinrinne 2, 02430 Masala, Finland e-mail: markku.poutanen@fgi.fi
+
+Dr. Karl Johan Donner Observatory, University of Helsinki, Tähtitorninmäki (PO Box 14), 00014 Helsinki, Finland e-mail: donner@astro.helsinki.fi
+
+ISBN 978-3-540-34143-7 5th Edition Springer Berlin Heidelberg New York This work is subject to copyright. All rights are reserved, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilm or in any other way, and storage in data banks. Duplication of this publication or parts thereof is permitted only under the provisions of the German Copyright Law of September 9, 1965, in its current version, and permission for use must always be obtained from Springer-Verlag. Violations are liable for prosecution under the German Copyright Law.
+
+Springer is a part Springer Science+Business Media Cover picture: The James Clerk Maxwell Telescope. Photo credit: Robin Phillips and Royal Observatory, Edinburgh. Image courtesy of www.springer.com the James Clerk Maxwell Telescope, Mauna Kea Observatory, Hawaii Frontispiece: The Horsehead Nebula, officially called Barnard 33, in the constellation of Orion, is a dense dust cloud on the edge of a bright HII region. The photograph was taken with the 8.2 meter Kueyen telescope (VLT2) at Paranal. (Photograph European Southern Observatory)
+
+© Springer-Verlag Berlin Heidelberg 1987, 1994, 1996, 2003, 2007 The use of general descriptive names, registered names, trademarks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
+
+Title of original Finnish edition: Tähtitieteen perusteet (Ursan julkaisuja 56)
+
+© Tähtitieteellinen yhdistys Ursa Helsinki 1984, 1995, 2003 Typesetting and Production: LE-TeX, Jelonek, Schmidt & Vöckler GbR, Leipzig Cover design: Erich Kirchner, Heidelberg/WMX Design, Heidelberg Layout: Schreiber VIS, Seeheim Sources for the illustrations are given in the captions and more fully at the end of the book. Most of the uncredited illustrations are © Ursa Astronomical Association, Raatimiehenkatu 3A2, 00140 Helsinki, Finland Printed on acid-free paper SPIN: 11685739 55/3180/YL 543210
+
+Preface to the Fifth Edition As the title suggests, this book is about fundamental things that one might expect to remain fairly the same. Yet astronomy has evolved enormously over the last few years, and only a few chapters of this book have been left unmodified.
+
+Cosmology has especially changed very rapidly from speculations to an exact empirical science and this process was happening when we were working with the previous edition. Therefore it is understandable that many readers wanted us to expand the chapters on extragalactic and cosmological matters. We hope that the current edition is more in this direction. There are also many revisions and additions to the chapters on the Milky Way, galaxies, and cosmology.
+
+While we were working on the new edition, the International Astronomical Union decided on a precise definition of a planet, which meant that the chapter on the solar system had to be completely restructured and partly rewritten.
+
+Over the last decade, many new exoplanets have also been discovered and this is one reason for the increasing interest in a new branch of science – astrobiology, which now has its own new chapter.
+
+In addition, several other chapters contain smaller revisions and many of the previous images have been replaced with newer ones.
+
+Helsinki, December 2006 The Editors
+
+Preface to the First Edition The main purpose of this book is to serve as a university textbook for a first course in astronomy. However, we believe that the audience will also include many serious amateurs, who often find the popular texts too trivial. The lack of a good handbook for amateurs has become a problem lately, as more and more people are buying personal computers and need exact, but comprehensible, mathematical formalism for their programs. The reader of this book is assumed to have only a standard high-school knowledge of mathematics and physics (as they are taught in Finland); everything more advanced is usually derived step by step from simple basic principles. The mathematical background needed includes plane trigonometry, basic differential and integral calculus, and (only in the chapter dealing with celestial mechanics) some vector calculus. Some mathematical concepts the reader may not be familiar with are briefly explained in the appendices or can be understood by studying the numerous exercises and examples. However, most of the book can be read with very little knowledge of mathematics, and even if the reader skips the mathematically more involved sections, (s)he should get a good overview of the field of astronomy.
+
+This book has evolved in the course of many years and through the work of several authors and editors. The first version consisted of lecture notes by one of the editors (Oja). These were later modified and augmented by the other editors and authors. Hannu Karttunen wrote the chapters on spherical astronomy and celestial mechanics; Vilppu Piirola added parts to the chapter on observational instruments, and Göran Sandell wrote the part about radio astronomy; chapters on magnitudes, radiation mechanisms and temperature were rewritten by the editors; Markku Poutanen wrote the chapter on the solar system; Juhani Kyröläinen expanded the chapter on stellar spectra; Timo Rahunen rewrote most of the chapters on stellar structure and evolution; Ilkka Tuominen revised the chapter on the Sun; Kalevi Mattila wrote the chapter on interstellar matter; Tapio Markkanen wrote the chapters on star clusters and the Milky Way; Karl Johan Donner wrote the major part of the chapter on galaxies; Mauri Valtonen wrote parts of the galaxy chapter, and, in collaboration with Pekka Teerikorpi, the chapter on cosmology. Finally, the resulting, somewhat inhomogeneous, material was made consistent by the editors.
+
+The English text was written by the editors, who translated parts of the original Finnish text, and rewrote other parts, updating the text and correcting errors found in the original edition. The parts of text set in smaller print are less important material that may still be of interest to the reader.
+
+For the illustrations, we received help from Veikko Sinkkonen, Mirva Vuori and several observatories and individuals mentioned in the figure captions. In the practical work, we were assisted by Arja Kyröläinen and Merja Karsma. A part of the translation was read and corrected by Brian Skiff. We want to express our warmest thanks to all of them.
+
+Financial support was given by the Finnish Ministry of Education and Suomalaisen kirjallisuuden edistämisvarojen valtuuskunta (a foundation promoting Finnish literature), to whom we express our gratitude.
+
+Helsinki, June 1987 The Editors
+
+Contents
+
+## 1. Introduction
+
+## 1.1 The Role of Astronomy
+
+## 1.2 Astronomical Objects of Research
+
+## 1.3 The Scale of the Universe
+
+## 2. Spherical Astronomy
+
+## 2.1 Spherical Trigonometry
+
+## 2.2 The Earth
+
+## 2.3 The Celestial Sphere
+
+## 2.4 The Horizontal System
+
+## 2.5 The Equatorial System
+
+## 2.6 Rising and Setting Times
+
+## 2.7 The Ecliptic System
+
+## 2.8 The Galactic Coordinates
+
+## 2.9 Perturbations of Coordinates
+
+## 2.10 Positional Astronomy
+
+## 2.11 Constellations
+
+## 2.12 Star Catalogues and Maps
+
+## 2.13 Sidereal and Solar Time
+
+## 2.14 Astronomical Time Systems
+
+## 2.15 Calendars
+
+## 2.16 Examples
+
+## 2.17 Exercises
+
+## 3. Observations and Instruments
+
+## 3.1 Observing Through the Atmosphere
+
+## 3.2 Optical Telescopes
+
+## 3.3 Detectors and Instruments
+
+## 3.4 Radio Telescopes
+
+## 3.5 Other Wavelength Regions
+
+## 3.6 Other Forms of Energy
+
+## 3.7 Examples
+
+## 3.8 Exercises
+
+## 4. Photometric Concepts and Magnitudes
+
+## 4.1 Intensity, Flux Density and Luminosity
+
+## 4.2 Apparent Magnitudes
+
+## 4.3 Magnitude Systems
+
+## 4.4 Absolute Magnitudes
+
+## 4.5 Extinction and Optical Thickness
+
+## 4.6 Examples
+
+## 4.7 Exercises
+
+## 5. Radiation Mechanisms
+
+## 5.1 Radiation of Atoms and Molecules
+
+## 5.2 The Hydrogen Atom
+
+## 5.3 Line Profiles
+
+## 5.4 Quantum Numbers, Selection Rules, Population Numbers
+
+## 5.5 Molecular Spectra
+
+## 5. Continuous Spectra
+
+## 5.1 Continuous Spectra
+
+## 5.2 Blackbody Radiation
+
+## 5.3 Temperatures
+
+## 5.4 Other Radiation Mechanisms
+
+## 5.5 Radiative Transfer
+
+## 5.6 Examples
+
+## 5.7 Exercises
+
+## 6. Celestial Mechanics
+
+## 6.1 Equations of Motion
+
+## 6.2 Solution of the Equation of Motion
+
+## 6.3 Equation of the Orbit and Kepler's First Law
+
+## 6.4 Orbital Elements
+
+## 6.5 Kepler's Second and Third Law
+
+## 6.6 Systems of Several Bodies
+
+## 6.7 Orbit Determination
+
+## 6.8 Position in the Orbit
+
+## 6.9 Escape Velocity
+
+## 6.10 Virial Theorem
+
+## 6.11 The Jeans Limit
+
+## 6.12 Examples
+
+## 6.13 Exercises
+
+## 7. The Solar System
+
+## 7.1 Planetary Configurations
+
+## 7.2 Orbit of the Earth and Visibility of the Sun
+
+## 7.3 The Orbit of the Moon
+
+## 7.4 Eclipses and Occultations
+
+## 7.5 The Structure and Surfaces of Planets
+
+## 7.6 Atmospheres and Magnetospheres
+
+## 7.7 Albedos
+
+## 7.8 Photometry, Polarimetry and Spectroscopy
+
+## 7.9 Thermal Radiation of the Planets
+
+## 7.10 Mercury
+
+## 7.11 Venus
+
+## 7.12 The Earth and the Moon
+
+## 7.13 Mars
+
+## 7.14 Jupiter
+
+## 7.15 Saturn
+
+## 7.16 Uranus and Neptune
+
+## 7.17 Minor Bodies of the Solar System
+
+## 7.18 Origin of the Solar System
+
+## 7.19 Examples
+
+## 7.20 Exercises
+
+## 8. Stellar Spectra
+
+## 8.1 Measuring Spectra
+
+## 8.2 The Harvard Spectral Classification
+
+## 8.3 The Yerkes Spectral Classification
+
+## 8.4 Peculiar Spectra
+
+## 8.5 The Hertzsprung-Russell Diagram
+
+## 8.6 Model Atmospheres
+
+## 8.7 What Do the Observations Tell Us?
+
+## 8.8 Exercise
+
+## 9. Binary Stars and Stellar Masses
+
+## 9.1 Visual Binaries
+
+## 9.2 Astrometric Binary Stars
+
+## 9.3 Spectroscopic Binaries
+
+## 9.4 Photometric Binary Stars
+
+## 9.5 Examples
+
+## 9.6 Exercises
+
+## 10. Stellar Structure
+
+## 10.1 Internal Equilibrium Conditions
+
+## 10.2 Physical State of the Gas
+
+## 10.3 Stellar Energy Sources
+
+## 10.4 Stellar Models
+
+## 10.5 Examples
+
+## 10.6 Exercises
+
+## 11. Stellar Evolution
+
+## 11.1 Evolutionary Time Scales
+
+## 11.2 The Contraction of Stars Towards the Main Sequence
+
+## 11.3 The Main Sequence Phase
+
+## 11.4 The Giant Phase
+
+## 11.5 The Final Stages of Evolution
+
+## 11.6 The Evolution of Close Binary Stars
+
+## 11.7 Comparison with Observations
+
+## 11.8 The Origin of the Elements
+
+## 11.9 Example
+
+## 11.10 Exercises
+
+## 12. The Sun
+
+## 12.1 Internal Structure
+
+## 12.2 The Atmosphere
+
+## 12.3 Solar Activity
+
+## 12.4 Example
+
+## 12.5 Exercises
+
+## 13. Variable Stars
+
+## 13.1 Classification
+
+## 13.2 Pulsating Variables
+
+## 13.3 Eruptive Variables
+
+## 13.4 Examples
+
+## 13.5 Exercises
+
+## 14. Compact Stars
+
+## 14.1 White Dwarfs
+
+## 14.2 Neutron Stars
+
+## 14.3 Black Holes
+
+## 14.4 X-ray Binaries
+
+## 14.5 Examples
+
+## 14.6 Exercises
+
+## 15. The Interstellar Medium
+
+## 15.1 Interstellar Dust
+
+## 15.2 Interstellar Gas
+
+## 15.3 Interstellar Molecules
+
+## 15.4 The Formation of Protostars
+
+## 15.5 Planetary Nebulae
+
+## 15.6 Supernova Remnants
+
+## 15.7 The Hot Corona of the Milky Way
+
+## 15.8 Cosmic Rays and the Interstellar Magnetic Field
+
+## 15.9 Examples
+
+## 15.10 Exercises
+
+## 16. Star Clusters and Associations
+
+## 16.1 Associations
+
+## 16.2 Open Star Clusters
+
+## 16.3 Globular Star Clusters
+
+## 16.4 Example
+
+## 16.5 Exercises
+
+## 17. The Milky Way
+
+## 17.1 Methods of Distance Measurement
+
+## 17.2 Stellar Statistics
+
+## 17.3 The Rotation of the Milky Way
+
+## 17.4 Structural Components of the Milky Way
+
+## 17.5 The Formation and Evolution of the Milky Way
+
+## 17.6 Examples
+
+## 17.7 Exercises
+
+## 18. Galaxies
+
+## 18.1 The Classification of Galaxies
+
+## 18.2 Luminosities and Masses
+
+## 18.3 Galactic Structures
+
+## 18.4 Dynamics of Galaxies
+
+## 18.5 Stellar Ages and Element Abundances in Galaxies
+
+## 18.6 Systems of Galaxies
+
+## 18.7 Active Galaxies and Quasars
+
+## 18.8 The Origin and Evolution of Galaxies
+
+## 18.9 Exercises
+
+## 19. Cosmology
+
+## 19.1 Cosmological Observations
+
+## 19.2 The Cosmological Principle
+
+## 19.3 Homogeneous and Isotropic Universes
+
+## 19.4 The Friedmann Models
+
+## 19.5 Cosmological Tests
+
+## 19.6 History of the Universe
+
+## 19.7 The Formation of Structure
+
+## 19.8 The Future of the Universe
+
+## 19.9 Examples
+
+## 19.10 Exercises
+
+## 20. Astrobiology
+
+## 20.1 What is life?
+
+## 20.2 Chemistry of life
+
+## 20.3 Prerequisites of life
+
+## 20.4 Hazards
+
+## 20.5 Origin of life
+
+## 20.6 Are we Martians?
+
+## 20.7 Life in the Solar system
+
+## 20.8 Exoplanets
+
+Contents XI
+
+## 20.9 Detecting life
+
+## 20.10 SETI—detecting intelligent life
+
+## 20.11 Number of civilizations
+
+## 20.12 Exercises
+
+Appendices 431 A. Mathematics 432 A.1 Geometry 432 A.2 Conic Sections 432 A.3 Taylor Series 434 A.4 Vector Calculus 434 A.5 Matrices 436 A.6 Multiple Integrals 438 A.7 Numerical Solution of an Equation 439 B. Theory of Relativity 441 B.1 Basic Concepts 441 B.2 Lorentz Transformation. Minkowski Space 442 B.3 General Relativity 443 B.4 Tests of General Relativity 443 C. Tables 445 Answers to Exercises 467 Further Reading 471 Photograph Credits 475 Name and Subject Index 477 Colour Supplement 491
+
+## 1. Introduction
+
+## 1.1 The Role of Astronomy
+
+On a dark, cloudless night, at a distant location far away from the city lights, the starry sky can be seen in all its splendour (Fig. 1.1). It is easy to understand how these thousands of lights in the sky have affected people throughout the ages. After the Sun, necessary to all life, the Moon, governing the night sky and continuously changing its phases, is the most conspicuous object in the sky. The stars seem to stay fixed. Only some relatively bright objects, the planets, move with respect to the stars.
+
+The phenomena of the sky aroused people’s interest a long time ago. The Cro Magnon people made bone engravings 30,000 years ago, which may depict the phases of the Moon. These calendars are the oldest astronomical documents, 25,000 years older than writing.
+
+Agriculture required a good knowledge of the seasons. Religious rituals and prognostication were based on the locations of the celestial bodies. Thus time reckoning became more and more accurate, and people learned to calculate the movements of celestial bodies in advance.
+
+During the rapid development of seafaring, when voyages extended farther and farther from home ports, position determination presented a problem for which astronomy offered a practical solution. Solving these problems of navigation were the most important tasks of astronomy in the 17th and 18th centuries, when the first precise tables on the movements of the planets and on other celestial phenomena were published.
+
+The basis for these developments was the discovery of the laws governing the motions of the planets by Copernicus, Tycho Brahe, Kepler, Galilei and Newton.
+
+Fig. 1.1. The North American nebula in the constellation of Cygnus. The brightest star on the right is α Cygni or Deneb. (Photo M. Poutanen and H. Virtanen)
+
+Astronomical research has changed man’s view of the world from geocentric, anthropocentric conceptions to the modern view of a vast universe where man and the Earth play an insignificant role. Astronomy has taught us the real scale of the nature surrounding us.
+
+Modern astronomy is fundamental science, motivated mainly by man’s curiosity, his wish to know more about Nature and the Universe. Astronomy has a central role in forming a scientific view of the world. “A scientific view of the world” means a model of the universe based on observations, thoroughly tested theories and logical reasoning. Observations are always the ultimate test of a model: if the model does not fit the observations, it has to be changed, and this process must not be limited by any philosophical, political or religious conceptions or beliefs.
+
+Fig. 1.2. Although space probes and satellites have gathered remarkable new information, a great majority of astronomical observations is still Earth-based. The most important observatories are usually located at high altitudes far from densely populated areas. One such observatory is on Mt Paranal in Chile, which houses the European VLT telescopes. (Photo ESO)
+
+## 1.2 Astronomical Objects of Research
+
+Modern astronomy explores the whole Universe and its different forms of matter and energy. Astronomers study the contents of the Universe from the level of elementary particles and molecules (with masses of 10−30 kg) to the largest superclusters of galaxies (with masses of 1050 kg).
+
+Astronomy can be divided into different branches in several ways. The division can be made according to either the methods or the objects of research.
+
+The Earth (Fig. 1.3) is of interest to astronomy for many reasons. Nearly all observations must be made through the atmosphere, and the phenomena of the upper atmosphere and magnetosphere reflect the state of interplanetary space. The Earth is also the most important object of comparison for planetologists.
+
+The Moon is still studied by astronomical methods, although spacecraft and astronauts have visited its surface and brought samples back to the Earth. To amateur astronomers, the Moon is an interesting and easy object for observations.
+
+In the study of the planets of the solar system, the situation in the 1980’s was the same as in lunar exploration 20 years earlier: the surfaces of the planets and their moons have been mapped by fly-bys of spacecraft or by orbiters, and spacecraft have soft-landed on Mars and Venus. This kind of exploration has tremendously added to our knowledge of the conditions on the planets. Continuous monitoring of the planets, however, can still only be made The masses and sizes of astronomical objects are usually enormously large. But to understand their properties, the smallest parts of matter, molecules, atoms and elementary particles, must be studied. The densities, temperatures and magnetic fields in the Universe vary within much larger limits than can be reached in laboratories on the Earth.
+
+The greatest natural density met on the Earth is 22,500 kg m⁻³ (osmium), while in neutron stars densities of the order of 10¹⁸ kg m⁻³ are possible. The density in the best vacuum achieved on the Earth is only 10⁻⁹ kg m⁻³, but in interstellar space the density of the gas may be 10⁻²¹ kg m⁻³ or even less. Modern accelerators can give particles energies of the order of 10¹² electronvolts (eV). Cosmic rays coming from the sky may have energies of over 10²⁰ eV.
+
+It has taken man a long time to grasp the vast dimensions of space. Already Hipparchos in the second century B.C. obtained a reasonably correct value for the distance of the Moon. The scale of the solar system was established together with the heliocentric system in the 17th century. The first measurements of stellar distances were made in the 1830’s, and the distances to the galaxies were determined only in the 1920’s.
+
+We can get some kind of picture of the distances involved (Fig.1.4) by considering the time required for light to travel from a source to the retina of the human eye. It takes 8 minutes for light to travel from the Sun, 11 hours from Pluto and 4 years from the nearest star. We cannot see the centre of the Milky Way, but the many globular clusters around the Milky Way are at approximately similar distances. It takes about 20,000 years for the light from the globular cluster of Fig.1.5 to reach the Earth. It takes 150,000 years to travel the distance from the nearest galaxy, the Magellanic Cloud seen on the southern sky (Fig.1.6). The photons that we see now started their voyage when Neanderthal Man lived on the Earth. The light coming from the Andromeda Galaxy in the northern sky originated 2 million years ago. Around the same time the first actual human using tools, Homo habilis, appeared. The most distant objects known, the quasars, are so far away that their radiation, seen on the Earth now, was emitted long before the Sun or the Earth were born.
+
+---
+
+**2. Spherical Astronomy**
+
+Spherical astronomy is a science studying astronomical coordinate frames, directions and apparent motions of celestial objects, determination of position from astronomical observations, observational errors, etc. We shall concentrate mainly on astronomical coordinates, apparent motions of stars and time reckoning. Also, some of the most important star catalogues will be introduced.
+
+**2.1 Spherical Trigonometry**
+
+For the coordinate transformations of spherical astronomy, we need some mathematical tools, which we present now.
+
+If a plane passes through the centre of a sphere, it will split the sphere into two identical hemispheres along a circle called a great circle (Fig.2.1). A line perpendicular to the plane and passing through the centre of the sphere intersects the sphere at the poles P and P'.
+
+If a sphere is intersected by a plane not containing the centre, the intersection curve is a small circle. There is exactly one great circle passing through two given points Q and Q' on a sphere (unless these points are antipodal, in which case all circles passing through both of them are great circles). The arc QQ' of this great circle is the shortest path on the surface of the sphere between these points.
+
+A spherical triangle is not just any three-cornered figure lying on a sphere; its sides must be arcs of great circles. The spherical triangle ABC in Fig.2.2 has the arcs AB, BC and AC as its sides. If the radius of the sphere is r, the length of the arc AB is
+
+|AB| = rc, [c] = rad,
+
+where c is the angle subtended by the arc AB as seen from the centre. This angle is called the central angle of the side AB. Because lengths of sides and central angles correspond to each other in a unique way, it is customary to give the central angles instead of the sides. In this way, the radius of the sphere does not enter into the equations of spherical trigonometry.
+
+An angle of a spherical triangle can be defined as the angle between the tangents of the two sides meeting at a vertex, or as the dihedral angle between the planes intersecting the sphere along these two sides. We denote the angles of a spherical triangle by capital letters (A, B, C) and the opposing sides, or, more correctly, the corresponding central angles, by lowercase letters (a, b, c).
+
+The sum of the angles of a spherical triangle is always greater than 180 degrees; the excess
+
+E = A + B + C − 180° (2.1)
+
+is called the spherical excess. It is not a constant, but depends on the triangle. Unlike in plane geometry, it is not enough to know two of the angles to determine the third one.
+
+The area of a spherical triangle is related to the spherical excess in a very simple way:
+
+Area = E r², [E] = rad. (2.2)
+
+This shows that the spherical excess equals the solid angle in steradians (see Appendix A.1), subtended by the triangle as seen from the centre.
+
+To prove (2.2), we extend all sides of the triangle Δ to great circles (Fig.2.3). These great circles will form another triangle Δ', congruent with Δ but antipodal to it. If the angle A is expressed in radians, the area of the slice S(A) bounded by the two sides of A (the shaded area in Fig.2.3) is obviously 2A/2π = A/π times the area of the sphere, 4πr². Similarly, the slices S(B) and S(C) cover fractions B/π and C/π of the whole sphere. Together, the three slices cover the whole surface of the sphere, the equal triangles Δ and Δ' belonging to every slice, and each point outside the triangles, to exactly one slice. Thus the area of the slices S(A), S(B) and S(C) equals the area of the sphere plus four times the area of Δ, A(Δ):
+
+4πr² = 4πr² + 4A(Δ),
+
+whence
+
+A(Δ) = (A + B + C − π) r² = E r².
+
+As in the case of plane triangles, we can derive relationships between the sides and angles of spherical triangles. The easiest way to do this is by inspecting certain coordinate transformations.
+
+Suppose we have two rectangular coordinate frames Oxyz and Ox'y'z' (Fig.2.4), such that the x'y'z' frame is obtained from the xyz frame by rotating it around the x axis by an angle χ.
+
+The position of a point P on a unit sphere is uniquely determined by giving two angles. The angle ψ is measured counterclockwise from the positive x axis along the xy plane; the other angle θ tells the angular distance from the xy plane. In an analogous way, we can define the angles ψ' and θ', which give the position of the point P in the x'y'z' frame. The rectangular coordinates of the point P as functions of these angles are:
+
+x = cos ψ cos θ,    x' = cos ψ' cos θ', y = sin ψ cos θ,    y' = sin ψ' cos θ', (2.3)
+
+z = sin θ,          z' = sin θ'.
+
+We also know that the dashed coordinates are obtained from the undashed ones by a rotation in the yz plane (Fig.2.5):
+
+x' = x, y' = y cos χ + z sin χ, (2.5)
+
+z' = z cos χ − y sin χ.
+
+To derive triangulation formulas for the spherical triangle ABC, the spherical coordinates ψ, θ, ψ' and θ' of the vertex C are expressed in terms of the sides and angles of the triangle:
+
+ψ = A − 90°,   θ = 90° − b, ψ' = 90° − B,  θ' = 90° − a, (2.6)
+
+χ = c.
+
+Substitution into (2.5) gives
+
+cos(90° − a) = cos(90° − b) cos c + sin(90° − b) sin c cos(A − 90°),
+
+which simplifies to
+
+sin a = sin b cos c + cos b sin c sin A.
+
+However, these equations are quite sufficient for all coordinate transformations we may encounter.
+
+cos(90°−a) = x, = cos(A−90°)cos(90°−b), = ycosχ + zsinχ, (2.4) = −ysinχ + zcosχ. sin(90°−B)cos(90°−a) = sin(A−90°)cos(90°−b)cosc + sin(90°−b)sinc, By substituting the expressions of the rectangular coordinates (2.3) into (2.4), we have cosψ' cosθ' = cosψcosθ, sin(90°−a) sinψ' cosθ' = sinψcosθcosχ + sinθsinχ, (2.5) = −sin(A−90°)cos(90°−b)sinc + sin(90°−b)cosc, sinθ' = −sinψcosθsinχ + sinθcosχ.
+
+## 2. Spherical Astronomy
+
+or sary, also a third coordinate, e.g. the distance from the centre, can be used. sinBsina = sinAsinb, The reference plane is the equatorial plane, perpendicular to the rotation axis and intersecting the surface of the Earth along the equator. Small circles parallel to the equator are called parallels of latitude. Semicircles from pole to pole are meridians. The geographical longitude cosBsina = −cosAsinbcosc + cosbsinc, (2.7) is the angle between the meridian and the zero meridian passing through Greenwich Observatory. We shall use positive values for longitudes east of Greenwich and cosa = cosAsinbsinc + cosbcosc. negative values west of Greenwich. Sign convention, however, varies, and negative longitudes are not used in Equations for other sides and angles are obtained by cyclic permutations of the sides a, b, c and the angles A, B, C. For instance, the first equation also yields maps; so it is usually better to say explicitly whether the longitude is east or west of Greenwich. sinCsinb = sinBsinc, sinAsinc = sinCsina. The latitude is usually supposed to mean the geographical latitude, which is the angle between the All these variations of the sine formula can be written in an easily remembered form: plumb line and the equatorial plane. The latitude is positive in the northern hemisphere and negative in sina sinb sinc = = . (2.8) the southern one. The geographical latitude can be determined by astronomical observations (Fig. 2.7): sinA sinB sinC the altitude of the celestial pole measured from the hori- If we take the limit, letting the sides a, b and c shrink zon equals the geographical latitude. (The celestial pole to zero, the spherical triangle becomes a plane trian- is the intersection of the rotation axis of the Earth and gle. If all angles are expressed in radians, we have the infinitely distant celestial sphere; we shall return to approximately these concepts a little later.) sina ≈ a, cosa ≈ 1 − a². Substituting these approximations into the sine formula, we get the familiar sine formula of plane geometry: a b c = = . sinA sinB sinC The second equation in (2.7) is the sine-cosine for- mula, and the corresponding plane formula is a trivial one: c = bcosA + acosB. This is obtained by substituting the approximations of sine and cosine into the sine-cosine formula and ignoring all quadratic and higher-order terms. In the same way we can use the third equation in (2.7), the cosine formula, to derive the planar cosine formula: a² = b² + c² − 2bccosA.
+
+## 2.2 The Earth
+
+A position on the Earth is usually given by two spherical coordinates (although in some calculations rectangular or other coordinates may be more convenient). If necessary, also a third coordinate, e.g. the distance from the centre, can be used. The reference plane is the equatorial plane, perpendicular to the rotation axis and intersecting the surface of the Earth along the equator. Small circles parallel to the equator are called parallels of latitude. Semicircles from pole to pole are meridians. The geographical longitude is the angle between the meridian and the zero meridian passing through Greenwich Observatory. We shall use positive values for longitudes east of Greenwich and negative values west of Greenwich. Sign convention, however, varies, and negative longitudes are not used in maps; so it is usually better to say explicitly whether the longitude is east or west of Greenwich. The latitude is usually supposed to mean the geographical latitude, which is the angle between the plumb line and the equatorial plane. The latitude is positive in the northern hemisphere and negative in the southern one. The geographical latitude can be determined by astronomical observations (Fig. 2.7): the altitude of the celestial pole measured from the horizon equals the geographical latitude. (The celestial pole is the intersection of the rotation axis of the Earth and the infinitely distant celestial sphere; we shall return to these concepts a little later.) Because the Earth is rotating, it is slightly flattened. The exact shape is rather complicated, but for most purposes it can by approximated by an oblate spheroid, the short axis of which coincides with the rotation axis (Sect. 7.5). In 1979 the International Union of Geodesy and Geophysics (IUGG) adopted the Geodetic Reference System 1980 (GRS-80), which is used when global reference frames fixed to the Earth are defined. The GRS-80 reference ellipsoid has the following dimensions: equatorial radius a = 6, 378, 137 m, polar radius b = 6, 356, 752 m, flattening f = (a − b)/a = 1/298.25722210. The shape defined by the surface of the oceans, called the geoid, differs from this spheroid at most by about 100 m. The angle between the equator and the normal to the ellipsoid approximating the true Earth is called the geodetic latitude. Because the surface of a liquid (like an ocean) is perpendicular to the plumb line, the geodetic and geographical latitudes are practically the same. Because of the flattening, the plumb line does not point to the centre of the Earth except at the poles and on the equator. An angle corresponding to the ordinary spherical coordinate (the angle between the equator and the line from the centre to a point on the surface), the geocentric latitude φ' is therefore a little smaller than the geographical latitude φ (Fig. 2.8). We now derive an equation between the geographical latitude φ and geocentric latitude φ', assuming the Earth is an oblate spheroid and the geographical and geodesic latitudes are equal. The equation of the meridional ellipse is x² y² a² + b² = 1. The direction of the normal to the ellipse at a point (x, y) is given by tanφ = − dx/dy = a² y / (b² x). The geocentric latitude is obtained from tanφ' = y/x. Hence tanφ' = b²/a² tanφ = (1 − e²) tanφ, (2.9) where e² = 1 − b²/a² is the eccentricity of the ellipse. The difference Δφ = φ − φ' has a maximum of 11.5′ at the latitude 45°. Since the coordinates of celestial bodies in astronomical almanacs are given with respect to the centre of the Earth, the coordinates of nearby objects must be corrected for the difference in the position of the observer, if high accuracy is required. This means that one has to calculate the topocentric coordinates, centered at the observer. The easiest way to do this is to use rectangular coordinates of the object and the observer (Example 2.5). One arc minute along a meridian is called a nautical mile. Since the radius of curvature varies with latitude, the length of the nautical mile so defined would depend on the latitude. Therefore one nautical mile has been defined to be equal to one minute of arc at φ = 45°, whence 1 nautical mile = 1852 m.
+
+## 2.3 The Celestial Sphere
+
+The ancient universe was confined within a finite spherical shell. The stars were fixed to this shell and thus were all equidistant from the Earth, which was at the centre of the spherical universe. This simple model is still in many ways as useful as it was in antiquity: it helps us to easily understand the diurnal and annual motions of stars, and, more important, to predict these motions in a relatively simple way. Therefore we will assume for the time being that all the stars are located on the surface of an enormous sphere and that we are at its centre. Because the radius of this celestial sphere is practically infinite, we can neglect the effects due to the changing position of the observer, caused by the rotation and orbital motion of the Earth. These effects will be considered later in Sects. 2.9 and 2.10. Since the distances of the stars are ignored, we need only two coordinates to specify their directions. Each coordinate frame has some fixed reference plane passing through the centre of the celestial sphere and dividing the sphere into two hemispheres along a great circle. One of the coordinates indicates the angular distance from this reference plane. There is exactly one great circle going through the object and intersecting this plane perpendicularly; the second coordinate gives the angle between that point of intersection and some fixed direction.
+
+## 2.4 The Horizontal System
+
+The most natural coordinate frame from the observer’s point of view is the horizontal frame (Fig. 2.9). Its reference plane is the tangent plane of the Earth passing through the observer; this horizontal plane intersects the celestial sphere along the horizon. The point just above the observer is called the zenith and the antipodal point below the observer is the nadir. (These two points are the poles corresponding to the horizon.) Great circles through the zenith are called verticals. All verticals intersect the horizon perpendicularly. One of the horizontal coordinates is the altitude or elevation, a, which is measured from the horizon along the vertical passing through the object. The altitude lies in the range [−90°, +90°]; it is positive for objects above the horizon and negative for the objects below the horizon. The zenith distance, or the angle between the object and the zenith, is obviously z = 90° − a. (2.10) The second coordinate is the azimuth, A; it is the angular distance of the vertical of the object from some fixed direction. Unfortunately, in different contexts, different fixed directions are used; thus it is always advisable to check which definition is employed. The azimuth is usually measured from the north or south, and though clockwise is the preferred direction, counterclockwise measurements are also occasionally made. In this book we have adopted a fairly common astronomical convention, measuring the azimuth clockwise from the south. Its values are usually normalized between 0° and 360°. In Fig. 2.9a we can see the altitude and azimuth of a star B at some instant. As the star moves along its daily track, both of its coordinates will change. Another difficulty with this coordinate frame is its local character. In Fig. 2.9b we have the same stars, but the observer is now further south. We can see that the coordinates of the same star at the same moment are different for different observers. Since the horizontal coordinates are time and position dependent, they cannot be used, for instance, in star catalogues.
+
+## 2.5 The Equatorial System
+
+The direction of the rotation axis of the Earth remains almost constant and so does the equatorial plane perpendicular to this axis. Therefore the equatorial plane is a suitable reference plane for a coordinate frame that has to be independent of the daily rotation of the Earth. The angular separation of a star from the equatorial plane is not affected by the rotation of the Earth. This 独立于时间和观测者位置的角度称为赤纬δ。
+
+天球与赤道平面的交线是一个大圆，称为天球赤道。天球北极是该大圆对应的两个极点之一。它也是北天中地球自转轴延长线与天球相交的点。天球北极距离较亮的恒星北极星约一度（相当于两个满月）。子午线总是经过北极；它被极点分为北子午线和南子午线。
+
+## 2. 球面天文学
+
+现在我们可以将第二坐标定义为从春分点γ沿赤道测量的角度。这个角度就是天体的赤经α（或R.A.），从γ逆时针测量。
+
+由于时角和恒星时以恒定速率随时间变化，用时间单位表示它们是实用的。密切相关的赤经也习惯用时间单位给出。因此24小时等于360度，1小时=15度，1时间分=15角分，依此类推。所有这些量都在范围[0h, 24h)内。
+
+由于赤纬和赤经独立于观测者的位置和地球的运动，它们可以用于星图和星表。正如后面将解释的，在许多望远镜中，一个轴（时角轴）与地球自转轴平行。另一个轴（赤纬轴）垂直于时角轴。赤纬可以直接从望远镜的赤纬刻度盘上读取。但由于地球的周日运动，赤经的零点似乎在天空中移动。因此，除非我们知道春分点的方向，否则不能用赤经来寻找天体。
+
+由于南子午线是天空中一条明确界定的线，我们用它来建立一个与赤经对应的地方坐标系。时角从子午线顺时针测量。一个天体的时角不是常数，而是由于地球的自转以稳定速率增长。春分点的时角称为恒星时Θ。图2.11显示对于任何天体，
+
+Θ = h + α, (2.11)
+
+其中h是天体的时角，α是其赤经。
+
+既然赤纬和赤经是独立的观测者位置和地球运动的，它们可以用于星图和星表。正如后面将解释的，在许多望远镜中，一个轴（时角轴）与地球自转轴平行。另一个轴（赤纬轴）垂直于时角轴。赤纬可以直接从望远镜的赤纬刻度盘上读取。但由于地球的周日运动，赤经的零点似乎在天空中移动。因此，除非我们知道春分点的方向，否则不能用赤经来寻找天体。
+
+既然南子午线是天空中一条明确界定的线，我们用它来建立一个与赤经对应的地方坐标系。时角从子午线顺时针测量。一个天体的时角不是常数，而是由于地球的自转以稳定速率增长。春分点的时角称为恒星时Θ。图2.11显示对于任何天体，
+
+Θ = h + α, (2.11)
+
+其中h是天体的时角，α是其赤经。
+
+由于时角和恒星时以恒定速率随时间变化，用时间单位表示它们是实用的。密切相关的赤经也习惯用时间单位给出。因此24小时等于360度，1小时=15度，1时间分=15角分，依此类推。所有这些量都在范围[0h, 24h)内。
+
+在实践中，恒星时可以通过将望远镜指向一颗容易识别的恒星并读取其时角刻度盘上的时角来轻松确定。然后在星表中找到的赤经加上时角，就给出了观测时刻的恒星时。对于任何其他时间，恒星时可以通过加上自观测以来经过的时间来计算。如果我们要精确，必须使用恒星钟来测量时间间隔。恒星钟与普通太阳时钟相比，每天快3分56.56秒：
+
+24小时太阳时间 = 24小时3分56.56秒恒星时。(2.12)
+
+原因是地球的轨道运动：恒星看起来比太阳在天空中移动得更快；因此，恒星钟必须运行得更快。（这在第2.13节进一步讨论。）
+
+地平系与赤道系之间的变换可以通过球面三角学轻松获得。比较图2.6和图2.12，我们发现必须将以下替换代入(2.5)：
+
+ψ = 90° - A, θ = a, ψ' = 90° - h, θ' = δ, χ = 90° - φ。(2.13)
+
+最后一个方程中的角φ是天极的高度角，或观测者的纬度。代入后，我们得到
+
+sin h cos δ = sin A cos a, cos h cos δ = cos A cos a sin φ + sin a cos φ, (2.14)
+
+sin δ = -cos A cos a cos φ + sin a sin φ.
+
+反变换通过代入获得：
+
+ψ = 90° - h, θ = δ, ψ' = 90° - A, θ' = a, χ = -(90° - φ), (2.15)
+
+由此得到
+
+sin A cos a = sin h cos δ, cos A cos a = cos h cos δ sin φ - sin δ cos φ, (2.16)
+
+sin a = cos h cos δ cos φ + sin δ sin φ.
+
+由于高度角a和赤纬δ的范围是[-90°, +90°]，只需知道其中一个角的正弦即可明确地确定该角。然而，方位角A和赤经α的值可以从0°到360°（或从0h到24h），因此要解出它们，必须同时知道正弦和余弦以选择正确的象限。
+
+天体的高度角在它位于南子午线上（经过天顶的大圆弧）时最大。在该时刻（称为上中天或经过），其时角为0h。当下中天时，时角为h=12h。当h=0h时，从(2.16)的最后一个方程我们得到
+
+sin a = cos δ cos φ + sin δ sin φ = cos(φ - δ) = sin(90° - φ + δ)。
+
+因此上中天时的高度角是
+
+a_max = 90° - φ + δ，如果天体在天顶以南中天, a_max = 90° + φ - δ，如果天体在天顶以北中天。(2.17)
+
+当h=12h时，我们有
+
+sin a = -cos δ cos φ + sin δ sin φ = -cos(δ + φ) = sin(δ + φ - 90°),
+
+而下中天时的高度角是
+
+a_min = δ + φ - 90°。(2.18)
+
+赤纬δ > 90° - φ的恒星永远不会落下。例如，在赫尔辛基（φ ≈ 60°），所有赤纬高于30°的恒星都是这样的拱极星。而赤纬低于-30°的恒星在那里永远无法被观测到。
+
+我们现在将简要研究如何通过观测建立(α, δ)坐标系。假设我们在拱极星的上中天和下中天对其进行观测（图2.13）。上中天时，其高度角为a_max = 90° - φ + δ，下中天时为a_min = δ + φ - 90°。
+
+消除纬度，我们得到
+
+δ = (a_max + a_min) / 2。(2.19)
+
+因此，我们得到相同的赤纬值，与观测者的位置无关。因此，我们可以将其用作绝对坐标之一。通过相同的观测，我们还可以确定天极的方向以及观测者的纬度。完成这些准备工作后，我们可以找到任何天体的赤纬，其所有点都距离极点90°。第二个坐标（赤经）的零点可以定义为太阳看起来从南向北穿过赤道的点。
+
+在实践中，情况更复杂，因为地球自转轴的方向由于摄动而改变。因此，赤道坐标系现在使用某些标准天体来定义，其位置已知非常精确。使用最遥远的天体，类星体（第18.7节），在很长的时间间隔内保持同一方向，可以获得最佳精度。
+
+## 2.6 升落时刻
+
+从最后一个方程(2.16)，我们找到天体在高度角为a时的时角h：
+
+sin a cosh = -tanδ tanφ + (cosδ cosφ)^{-1}。(2.20)
+
+该方程可用于计算升落时刻。然后令a=0，对应于升落时刻的时角由下式获得
+
+cosh = -tanδ tanφ。(2.21)
+
+如果赤经α已知，我们可以使用(2.11)计算恒星时Θ。（稍后，在第2.14节，我们将研究如何将恒星时转换为普通时间。）
+
+如果需要更高的精度，我们必须校正由地球大气引起的光折射（见第2.9节）。在那种情况下，我们必须在(2.20)中使用一个小的负值a。这个值，即地平折射，约为-34'。
+
+年历中给出的太阳升落时刻是指太阳盘面上边缘刚好接触地平线的时刻。要计算这些时间，我们必须设a = -50' (= -34' - 16')。
+
+对于月球，年历也给出其盘面上边缘的升落时刻。由于月球距离变化显著，我们不能使用任何恒定的月球半径值，而必须每次都单独计算。月球也如此接近，以至于由于地球的旋转，其相对于背景恒星的方向会发生变化。因此，月球的升落时刻被定义为月球高度角为
+
+-34' - s + π
+
+的时刻，其中s是视半径（平均15.5'），π是视差（平均57'）。后一数量在第2.9节解释。
+
+计算太阳、行星，特别是月球的升落时刻因其相对于恒星的运动而变得复杂。我们可以使用，例如，正午的坐标来计算升落时刻的估计值，然后可以用于插值更精确的升落时刻坐标。当使用这些坐标计算新时间时，可以获得相当好的精度。如果需要更高的精度，可以重复迭代。
+
+## 2.7 黄道坐标系
+
+地球的轨道平面，即黄道，是另一个重要坐标系的参考平面。黄道也可以定义为太阳在一年中在天球上描绘的大圆。这个坐标系主要用于行星和太阳系的其他天体。地球赤道平面的方位保持不变，不受周年运动的影响。在春季，太阳似乎从南半球移动到北半球（图2.14）。这一显著事件发生的时间以及此时太阳的方向被称为春分点。在春分点，太阳的赤经和赤纬为零。赤道坐标和黄道坐标
+
+图2.14. 黄道地心(λ, β)和日心(λ', β')坐标只有当距离非常远的天体时才相等。地心坐标也取决于地球在...的位置。
+
+## 2.9 Perturbations of Coordinates
+
+planes intersect along a straight line directed towards the vernal equinox. Thus we can use this direction as the zero point for both the equatorial and ecliptic coordinate frames. The point opposite the vernal equinox is the autumnal equinox, it is the point at which the Sun crosses the equator from north to south.
+
+The ecliptic latitude β is the angular distance from the ecliptic; it is in the range [−90◦,+90◦]. The other coordinate is the ecliptic longitude λ, measured counterclockwise from the vernal equinox. We can put the origin at the Sun. The galactic longitude l is measured counterclockwise (like right ascension) from the direction of the centre of the Milky Way (in Sagittarius, α=17h 45.7min, δ=−29◦00(cid:1)). The galactic latitude b is measured from the galactic plane, positive northwards and negative southwards. This definition was officially adopted only in 1959, when the direction of the galactic centre was determined from radio observations accurately enough. The old galactic coordinates lI and bI had the intersection of the equator and the galactic plane as their zero point.
+
+Transformation equations between the equatorial and ecliptic frames can be derived analogously to (2.14) and (2.16): sinλcosβ = sinδsinε + cosδcosεsinα, cosλcosβ = cosδcosα, (2.22)
+
+sinβ = sinδcosε − cosδsinεsinα, sinαcosδ = −sinβsinε + cosβcosεsinλ, cosαcosδ = cosλcosβ, (2.23)
+
+sinδ = sinβcosε + cosβsinεsinλ.
+
+The angle ε appearing in these equations is the obliquity of the ecliptic, or the angle between the equatorial and ecliptic planes. Its value is roughly 23◦26(cid:1) (a more accurate value is given in *Reduction of Coordinates, p.38).
+
+Depending on the problem to be solved, we may encounter heliocentric (origin at the Sun), geocentric (origin at the centre of the Earth) or topocentric (origin at the observer) coordinates. For very distant objects the differences are negligible, but not for bodies of the solar system. To transform heliocentric coordinates to geocentric coordinates or vice versa, we must also know the distance of the object. This transformation is most easily accomplished by computing the rectangular coordinates of the object and the new origin, then changing the origin and finally evaluating the new latitude and longitude from the rectangular coordinates (see Examples 2.4 and 2.5).
+
+## 2.8 The Galactic Coordinates
+
+For studies of the Milky Way Galaxy, the most natural reference plane is the plane of the Milky Way (Fig.2.15). Since the Sun lies very close to that plane, the galactic coordinates can be obtained from the equatorial ones with the transformation equations sin(l − lN)cosb = cosδsin(α−αP ), cos(l − lN)cosb = −cosδsinδP cos(α−αP ) + sinδcosδP , (2.24)
+
+sinb = cosδcosδP cos(α−αP ) + sinδsinδP , where the direction of the Galactic north pole is αP = 12h 51.4min, δP =27◦08(cid:1), and the galactic longitude of the celestial pole, lN =123.0◦.
+
+## 2.9 Perturbations of Coordinates
+
+Even if a star remains fixed with respect to the Sun, its coordinates can change, due to several disturbing effects. Naturally its altitude and azimuth change constantly because of the rotation of the Earth, but even its right ascension and declination are not quite free from perturbations.
+
+Precession. Since most of the members of the solar system orbit close to the ecliptic, they tend to pull the equatorial bulge of the Earth towards it. Most of this “flattening” torque is caused by the Moon and the Sun. But the Earth is rotating and therefore the torque cannot change the inclination of the equator relative to the ecliptic. Instead, the rotation axis turns in a direction perpendicular to the axis and the torque, thus describing a cone once in roughly 26,000 years. This slow turning of the rotation axis is called precession (Fig.2.16). Because of precession, the vernal equinox moves along the ecliptic clockwise about 50 seconds of arc every year, thus increasing the ecliptic longitudes of all objects at the same rate. At present the rotation axis points about one degree away from Polaris, but after 12,000 years, the celestial pole will be roughly in the direction of Vega. The changing ecliptic longitudes also affect the right ascension and declination. Thus we have to know the instant of time, or epoch, for which the coordinates are given.
+
+Currently most maps and catalogues use the epoch J2000.0, which means the beginning of the year 2000, or, to be exact, the noon of January 1, 2000, or the Julian date 2,451,545.0 (see Sect.2.15).
+
+Let us now derive expressions for the changes in right ascension and declination. Taking the last transformation equation in (2.23), sinδ = cosεsinβ + sinεcosβsinλ, and differentiating, we get cosδdδ = sinεcosβcosλdλ.
+
+Applying the second equation in (2.22) to the right-hand side, we have, for the change in declination, dδ = dλsinεcosα. (2.25)
+
+By differentiating the equation cosαcosδ = cosβcosλ, we get −sinαcosδdα − cosαsinδdδ = −cosβsinλdλ; and, by substituting the previously obtained expression for dδ and applying the first equation (2.22), we have sinαcosδdα = dλ(cosβsinλ − sinεcos2αsinδ)
+
+= dλ(sinδsinε + cosδcosεsinα − sinεcos2αsinδ).
+
+Simplifying this, we get dα = dλ(sinαsinεtanδ + cosε). (2.26)
+
+If dλ is the annual increment of the ecliptic longitude (about50(cid:1)(cid:1)), the precessional changes in right ascension and declination in one year are thus dδ = dλsinεcosα, (2.27)
+
+dα = dλ(sinεsinαtanδ + cosε).
+
+These expressions are usually written in the form dδ = ncosα, (2.28)
+
+dα = m + nsinαtanδ, where m = dλcosε, (2.29)
+
+n = dλsinε are the precession constants. Since the obliquity of the ecliptic is not exactly a constant but changes with time, m and n also vary slowly with time. However, this variation is so slow that usually we can regard m and n as constants unless the time interval is very long. The values of these constants for some epochs are given in Table2.1.
+
+Table2.1. Precession constants m and n. Here, “a” means a tropical year Epoch          m                n 1800          3.07048s/a        1.33703s/a=20.0554(cid:1)(cid:1)/a 1850          3.07141           1.33674           20.0511 1900          3.07234           1.33646           20.0468 1950          3.07327           1.33617           20.0426 2000          3.07419           1.33589           20.0383
+
+For intervals longer than a few decades a more rigorous method should be used. Its derivation exceeds the level of this book, but the necessary formulas are given in *Reduction of Coordinates (p.38).
+
+Nutation. The Moon’s orbit is inclined with respect to the ecliptic, resulting in precession of its orbital plane. One revolution takes 18.6 years, producing perturbations with the same period in the precession of the Earth. This effect, nutation, changes ecliptic longitudes as well as the obliquity of the ecliptic (Fig.2.16). Calculations are now much more complicated, but fortunately nutational perturbations are relatively small, only fractions of an arc minute.
+
+Parallax. If we observe an object from different points, we see it in different directions. The difference of the observed directions is called the parallax. Since the amount of parallax depends on the distance of the observer from the object, we can utilize the parallax to measure distances. Human stereoscopic vision is based (at least to some extent) on this effect. For astronomical purposes we need much longer baselines than the distance between our eyes (about7cm). Appropriately large and convenient baselines are the radius of the Earth and the radius of its orbit.
+
+Distances to the nearest stars can be determined from the annual parallax, which is the angle subtended by the radius of the Earth’s orbit (called the astronomical unit, AU) as seen from the star. (We shall discuss this further in Sect.2.10.)
+
+By diurnal parallax we mean the change of direction due to the daily rotation of the Earth. In addition to the distance of the object, the diurnal parallax also depends on the latitude of the observer. If we talk about the parallax of a body in our solar system, we always mean the angle subtended by the Earth’s equatorial radius (6378km) as seen from the object (Fig.2.17). This equals the apparent shift of the object with respect to the background stars seen by an observer at the equator if (s)he observes the object moving from the horizon to the zenith. The parallax of the Moon, for example, is about57(cid:1), and that of the Sun8.79(cid:1)(cid:1).
+
+In astronomy parallax may also refer to distance in general, even if it is not measured using the shift in the observed direction.
+
+Aberration. Because of the finite speed of light, an observer in motion sees an object shifted in the direction of her/his motion (Figs. 2.18 and 2.19). This change of apparent direction is called aberration. To derive the exact value we have to use the special theory of relativity, but for practical purposes it suffices to use the approximate value .
+
+a = (v/c) sinθ, [a]=rad, (2.30)
+
+where v is the velocity of the observer, c is the speed of light and θ is the angle between the true direction of the object and the velocity vector of the observer.
+
+The greatest possible value of the aberration due to the orbital motion of the Earth, v/c, called the aberration constant, is21(cid:1)(cid:1). The maximal shift due to the Earth’s rotation, the diurnal aberration constant, is much smaller, about0.3(cid:1)(cid:1).
+
+Refraction. Since light is refracted by the atmosphere, the true zenith distance be z and the apparent one, ζ. Using the notations of Fig.2.20, we obtain the following equations for the boundaries of the successive layers: sinzk = nksinzk+1, nksinzk = n1sinz1, n1sinz1 = n0sinζ, or sinz = n0sinζ. (2.31)
+
+When the refraction angle R=z−ζ is small and is expressed in radians, we have sinζ = sinz = sin(R+ζ) = sinRcosζ + cosRsinζ ≈ Rcosζ + sinζ, The direction of an object differs from the true direction by an amount depending on the atmospheric conditions along the line of sight. Since this refraction varies with atmospheric pressure and temperature, it is very difficult to predict it accurately. However, an approximation good enough for most practical purposes is easily derived. If the object is not too far from the zenith, the atmosphere between the object and the observer can be approximated by a stack of parallel planar layers, each of which has a certain index of refraction n_i. Outside the atmosphere, we have n=1.
+
+The index of refraction depends on the density of the air, which further depends on the pressure and temperature. When the altitude is over 15°, we can use an approximate formula R = P/(273+T) * 0.00452° * tan(90° - a), where a is the altitude in degrees, T temperature in degrees Celsius, and P the atmospheric pressure in hectopascals (or, equivalently, in millibars). At lower altitudes the curvature of the atmosphere must be taken into account. An approximate formula for the refraction is then R = P/(273+T) * (0.1594 + 0.0196a + 0.00002a^2) / (1 + 0.505a + 0.0845a^2).
+
+These formulas are widely used, although they are against the rules of dimensional analysis. To get correct values, all quantities must be expressed in correct units.
+
+Altitude is always (except very close to zenith) increased by refraction. On the horizon the change is about 34', which is slightly more than the diameter of the Sun. When the lower limb of the Sun just touches the horizon, the Sun has in reality already set.
+
+Light coming from the zenith is not refracted at all if the boundaries between the layers are horizontal. Under some climatic conditions, a boundary (e.g. between cold and warm layers) can be slanted, and in this case, there can be a small zenith refraction, which is of the order of a few arcseconds.
+
+The position of a star can be measured either with respect to some reference stars (relative astrometry) or with respect to a fixed coordinate frame (absolute astrometry).
+
+Stellar positions given in star catalogues are mean places, from which the effects of parallax, aberration and nutation have been removed. The mean place of the date (i.e. at the observing time) is obtained by correcting the mean place for the proper motion of the star and precession. The apparent place is obtained by correcting this place further for nutation, parallax and aberration. There is a catalogue published annually that gives the apparent places of certain reference stars at intervals of a few days. These positions have been corrected for precession, nutation, parallax and annual aberration. The effects of diurnal aberration and refraction are not included because they depend on the location of the observer.
+
+Absolute coordinates are usually determined using a meridian circle, which is a telescope that can be turned only in the meridional plane. It has only one axis, which is aligned exactly in the east-west direction. Since all stars cross the meridian in the course of a day, they all come to the field of the meridian circle at some time or other. When a star culminates, its altitude and the time of the transit are recorded. If the time is determined with a sidereal clock, the sidereal time immediately gives the right ascension of the star, since the hour angle is h=0h. The other coordinate, the declination δ, is obtained from the altitude: δ = a - (90° - φ), where a is the observed altitude and φ is the geographic latitude of the observatory.
+
+Relative coordinates are measured on photographic plates or CCD images containing some known reference stars. The scale of the plate as well as the orientation of the coordinate frame can be determined from the reference stars. After this has been done, the right ascension and declination of any object in the image can be calculated if its coordinates in the image are measured.
+
+All stars in a small field are almost equally affected by the dominant perturbations, precession, nutation, and aberration. The much smaller effect of parallax, on the other hand, changes the relative positions of the stars. The shift in the direction of a star with respect to distant background stars due to the annual motion of the Earth is called the trigonometric parallax of the star. It gives the distance of the star: the smaller the parallax, the farther away the star is. Trigonometric parallax is, in fact, the only direct method we currently have of measuring distances to stars. Later we shall be introduced to some other, indirect methods, which require certain assumptions on the motions or structure of stars. The same method of triangulation is employed to measure distances of earthly objects. To measure distances to stars, we have to use the longest baseline available, the diameter of the orbit of the Earth.
+
+During the course of one year, a star will appear to describe a circle if it is at the pole of the ecliptic, a segment of line if it is in the ecliptic, or an ellipse otherwise. The semimajor axis of this ellipse is called the parallax of the star. It is usually denoted by π. It equals the angle subtended by the radius of the Earth's orbit as seen from the star.
+
+The unit of distance used in astronomy is parsec (pc). At a distance of one parsec, one astronomical unit subtends an angle of one arc second. Since one radian is about 206,265'', 1pc equals 206,265AU. Furthermore, because 1AU=1.496×10^11m, 1pc≈3.086×10^16m. If the parallax is given in arcseconds, the distance is simply r=1/π, [r]=pc, [π] = ''.
+
+In popular astronomical texts, distances are usually given in light-years, one light-year being the distance light travels in one year, or 9.5×10^15m. Thus one parsec is about 3.26 light-years.
+
+The first parallax measurement was accomplished by Friedrich Wilhelm Bessel (1784–1846) in 1838. He found the parallax of 61 Cygni to be 0.3''. The nearest star Proxima Centauri has a parallax of 0.762'' and thus a distance of 1.31pc.
+
+In addition to the motion due to the annual parallax, many stars seem to move slowly in a direction that does not change with time. This effect is caused by the relative motion of the Sun and the stars through space; it is called the proper motion. The appearance of the sky and the shapes of the constellations are constantly, although extremely slowly, changed by the proper motions of the stars.
+
+The velocity of a star with respect to the Sun can be divided into two components, one of which is directed along the line of sight (the radial component or the radial velocity), and the other perpendicular to it (the tangential component). The tangential velocity results in the proper motion, which can be measured by taking plates at intervals of several years or decades. The proper motion µ has two components, one giving the change in declination µ_δ and the other, in right ascension, µ_αcosδ. The coefficient cosδ is used to correct the scale of right ascension: hour circles (the great circles with α=constant) approach each other towards the poles, so the coordinate difference must be multiplied by cosδ to obtain the true angular separation. The total proper motion is µ = sqrt(µ_α^2 cos^2δ + µ_δ^2).
+
+The greatest known proper motion belongs to Barnard's Star, which moves across the sky at the enormous speed of 10.3 arcseconds per year. It needs less than 200 years to travel the diameter of a full moon.
+
+In order to measure proper motions, we must observe stars for decades. The radial component, on the other hand, is readily obtained from a single observation, thanks to the Doppler effect. By the Doppler effect we mean the change in frequency and wavelength of radiation due to the radial velocity of the radiation source. The same effect can be observed, for example, in the sound of an ambulance, the pitch being higher when the ambulance is approaching and lower when it is receding.
+
+The formula for the Doppler effect for small velocities can be derived as follows. The source of radiation transmits electromagnetic waves, the period of one cycle being T. In time T, the radiation approaches the observer by a distance s=cT, where c is the speed of propagation. During the same time, the source moves with respect to the observer a distance s'=vT, where v is the speed of the source, positive for a receding source and negative for an approaching one. We find that the length of one cycle, the wavelength λ, equals λ = s + s' = cT + vT.
+
+If the source were at rest, the wavelength of its radiation would be λ_0 = cT. The motion of the source changes the wavelength by an amount Δλ = λ - λ_0 = cT + vT - cT = vT, and the relative change Δλ of the wavelength is Δλ/λ = v/c.
+
+The total velocity v of the star is then v = sqrt(v_r^2 + v_t^2).
+
+This is valid only when v << c. For very high velocities, we must use the relativistic formula: Δλ/λ = [(1+v/c)/(1−v/c)]^(1/2) − 1. (2.38)
+
+In astronomy the Doppler effect can be seen in stellar spectra, in which the spectral lines are often displaced towards the blue (shorter wavelengths) or red (longer wavelengths) end of the spectrum. A blueshift means that the star is approaching, while a redshift indicates that it is receding.
+
+The displacements due to the Doppler effect are usually very small. In order to measure them, a reference spectrum is exposed on the plate next to the stellar spectrum. Now that CCD-cameras have replaced photographic plates, separate calibration exposures of reference spectra are taken to determine the wavelength scale. The lines in the reference spectrum are produced by a light source at rest in the laboratory. If the reference spectrum contains some lines found also in the stellar spectrum, the displacements can be measured.
+
+Displacements of spectral lines give the radial velocity v_r of the star, and the proper motion µ can be measured from photographic plates or CCD images. To find the tangential velocity v_t, we have to know the distance r, obtainable from e.g. parallax measurements. Tangential velocity and proper motion are related by v_t = µr. (2.39)
+
+If µ is given in arcseconds per year and r in parsecs we have to make the following unit transformations to get v_t in km/s: 1 rad = 206,265'', 1 year = 3.156×10^7 s, 1 pc = 3.086×10^13 km.
+
+Hence v_t = 4.74µr, [v_t]=km/s, [µ]=''/a, [r]=pc. (2.40)
+
+## 2. Spherical Astronomy
+
+The sky (above the horizon). Under ideal conditions, the number of stars visible to the naked eye can be as high as 3000 on a hemisphere, or 6000 altogether. Some stars seem to form figures vaguely resembling something; they have been ascribed to various mythological and other animals. This grouping of stars into constellations is a product of human imagination without any physical basis. Different cultures have different constellations, depending on their mythology, history and environment. About half of the shapes and names of the constellations we are familiar with date back to Mediterranean antiquity. But the names and boundaries were far from unambiguous as late as the 19th century. Therefore the International Astronomical Union (IAU) confirmed fixed boundaries at its 1928 meeting.
+
+The official boundaries of the constellations were established along lines of constant right ascension and declination for the epoch 1875. During the time elapsed since then, precession has noticeably turned the equatorial frame. However, the boundaries remain fixed with respect to the stars. So a star belonging to a constellation will belong to it forever (unless it is moved across the boundary by its proper motion). The names of the 88 constellations confirmed by the IAU are given in Table C.21 at the end of the book. The table also gives the abbreviation of the Latin name, its genitive (needed for names of stars) and the English name.
+
+In his star atlas Uranometria (1603) Johannes Bayer started the current practice to denote the brightest stars of each constellation by Greek letters. The brightest star is usually α (alpha), e.g. Deneb in the constellation Cygnus is α Cygni, which is abbreviated as α Cyg. The second brightest star is β (beta), the next one γ (gamma) and so on. There are, however, several exceptions to this rule; for example, the stars of the Big Dipper are named in the order they appear in the constellation. After the Greek alphabet has been exhausted, Latin letters can be employed. Another method is to use numbers, which are assigned in the order of increasing right ascension; e.g. 30 Tau is a bright binary star in the constellation Taurus. Moreover, variable stars have their special identifiers (Sect. 13.1). About two hundred bright stars have a proper name; e.g. the bright α Aur is called also Capella.
+
+As telescopes evolved, more and more stars were seen and catalogued. It soon became impractical to continue this method of naming. Thus most of the stars are known only by their catalogue index numbers. One star may have many different numbers; e.g. the above-mentioned Capella (α Aur) is numbered BD +45°1077 in the Bonner Durchmusterung and HD 34029 in the Henry Draper catalogue.
+
+## 2.12 Star Catalogues and Maps
+
+Positions of stars in catalogues are measured with respect to certain comparison stars, the coordinates of which are known with high accuracy. The coordinates of these reference stars are published in fundamental catalogues. The first such catalogue was needed for the AGK catalogue; it was published in Germany in 1879. This Fundamental Katalog (FK1) gives the positions of over 500 stars.
+
+The first actual star catalogue was published by Ptolemy in the second century; this catalogue appeared in the book to be known later as Almagest (which is a Latin corruption of the name of the Arabic translation, Al-mijisti). It had 1025 entries; the positions of these bright stars had been measured by Hipparchos 250 years earlier. Ptolemy's catalogue was the only widely used one prior to the 17th century.
+
+The first catalogues still being used by astronomers were prepared under the direction of Friedrich Wilhelm August Argelander (1799–1875). Argelander worked in Turku and later served as professor of astronomy in Helsinki, but he made his major contributions in Bonn. Using a 72mm telescope, he and his assistants measured the positions and estimated the magnitudes of 320,000 stars. The catalogue, Bonner Durchmusterung, contains nearly all stars brighter than magnitude 9.5 between the north pole and declination −2°. (Magnitudes are further discussed in Chap. 4.) Argelander's work was later used as a model for two other large catalogues covering the whole sky. The total number of stars in these catalogues is close to one million.
+
+The purpose of these Durchmusterungen or general catalogues was to systematically list a great number of stars. In the zone catalogues, the main goal is to give the positions of stars as exactly as possible. A typical zone catalogue is the German Katalog der Astronomischen Gesellschaft (AGK). Twelve observatories, each measuring a certain region in the sky, contributed to this catalogue. The work was begun in the 1870's and completed at the turn of the century.
+
+General and zone catalogues were based on visual observations with a telescope. The evolution of photography made this kind of work unnecessary at the end of the 19th century. Photographic plates could be stored for future purposes, and measuring the positions of stars became easier and faster, making it possible to measure many more stars.
+
+A great international program was started at the end of the 19th century in order to photograph the entire sky. Eighteen observatories participated in this Carte du Ciel project, all using similar instruments and plates. The positions of stars were first measured with respect to a rectangular grid exposed on each plate (Fig. 2.23a). These coordinates could then be converted into declination and right ascension.
+
+The fundamental catalogues are usually revised every few decades. The fifth edition, the FK5, appeared in 1984. At the same time, a new system of astronomical constants was adopted. The catalogue contains 1535 fundamental and 3117 additional stars.
+
+A widely used catalogue is the SAO catalogue, published by the Smithsonian Astrophysical Observatory in the 1960's. It contains the exact positions, magnitudes, proper motions, spectral classifications, etc. of 258,997 stars brighter than magnitude 9. The catalogue was accompanied by a star map containing all the stars in the catalogue.
+
+In the 1990's a large astrometric catalogue, PPM (Positions and Proper Motions), was published to replace the AGK and SAO catalogues. It contained all stars brighter than 7.5 magnitudes, and was almost complete to magnitude 8.5. Altogether, the four volumes of the catalogue contained information on 378,910 stars.
+
+The PPM was effectively replaced by the Tycho catalogue from the Hipparcos satellite. Hipparcos was the first astrometric satellite, and was launched by the European Space Agency (ESA) in 1989. Although Hipparcos didn't reach the planned geosynchronous orbit, it gave exact positions of over a hundred thousand stars. The Hipparcos catalogue, based on the measurements of the satellite, contains astrometric and photometric data of 118,000 stars. The coordinates are precise to a couple of milliarcseconds. The less precise Tycho catalogue contains the data of about one million stars.
+
+In 1999 and 2000, the sixth version of the Fundamental Katalog, the FK6, was published. It combined the Hipparcos data and FK5 for 4150 fundamental stars. The typical mean error in proper motion was 0.35 milliarcseconds per year for the basic stars. With the advance of the Internet, the printed versions of star catalogues were discontinued in the first years of the new millennium, and the catalogues were moved to compact discs and the net.
+
+Most maps are based on star catalogues. Photography made it possible to produce star maps without the cataloguing stage. The most important of such maps is a photographic atlas the full name of which is The National Geographic Society – Palomar Observatory Sky Atlas. The plates for this atlas were taken with the 1.2m Schmidt camera on Mount Palomar. The Palomar Sky Atlas was completed in the 1950's. It consists of 935 pairs of photographs: each region has been photographed in red and blue light. The size of each plate is about 35cm × 35cm, covering an area of 6.6° × 6.6°. The prints are negatives (black stars on a light background), because in this way, fainter objects are visible. The limiting magnitude is about 19 in blue and 20 in red. The Palomar atlas covers the sky down to −30°.
+
+Work to map the rest of the sky was carried out later at two observatories in the southern hemisphere, at Siding Spring Observatory in Australia, and at the European Southern Observatory (ESO) in Chile.
+
+Star atlases were usually decorated with drawings of mythological figures. The Uranometria Nova (1843) by Argelander represents a transition towards modern maps: mythological figures are beginning to fade away. The map accompanying the Bonner Durchmusterung carried this evolution to its extreme. The sheets contain nothing but stars and coordinate lines.
+
+The instruments with the new media, the size of the star catalogues and the scale on the plates are similar to those used earlier for the Palomar plates, but the atlas is distributed on film transparencies instead of paper prints. The first Hubble Guide Star Catalog from the early 1990’s contained 18 million stars and the second Guide Star Catalog from the year 2001, nearly 500 million stars. It was surpassed by the U.S. Naval Observatory USNO-B1.0 Catalog, which contains entries for 1,024,618,261 stars and galaxies from digitized images of several photographic sky surveys. The catalogue presents right ascension and declination, proper motion and magnitude estimates. The next step in the accuracy of astrometry will be achieved in the 2010’s with a new European astrometric satellite. The Gaia satellite, planned to be launched in about 2014, is expected to improve the accuracy to about 10^-5 seconds of arc.
+
+Star maps have been published since ancient times, but the earliest maps were globes showing the celestial sphere as seen from the outside. At the beginning of the 17th century, a German, Johannes Bayer, published the first map showing the stars as seen from inside the celestial sphere, as we see them in the sky. For amateurs there are several star maps of various kinds. Some of them are mentioned in the references.
+
+## 2.13 Sidereal and Solar Time
+
+Time measurements can be based on the rotation of the Earth, orbital motion around the Sun, or on atomic clocks. The last-mentioned will be discussed in the next section. Here we consider the sidereal and solar times related to the rotation of the Earth.
+
+We defined the sidereal time as the hour angle of the vernal equinox. A good basic unit is a sidereal day, which is the time between two successive upper culminations of the vernal equinox. After one sidereal day the celestial sphere with all its stars has returned to its original position with respect to the observer. The flow of sidereal time is as constant as the rotation of the Earth. The rotation rate is slowly decreasing, and thus the length of the sidereal day is increasing. In addition to the smooth slowing down irregular variations of the order of one millisecond have been observed.
+
+Unfortunately, also the sidereal time comes in two varieties, apparent and mean. The apparent sidereal time is determined by the true vernal equinox, and so it is obtained directly from observations.
+
+Because of the precession the ecliptic longitude of the vernal equinox increases by about 50” a year. This motion is very smooth. Nutation causes more complicated wobbling. The mean equinox is the point where the vernal equinox would be if there were no nutation. The mean sidereal time is the hour angle of this mean equinox.
+
+The difference of the apparent and mean sidereal time is called the equation of equinoxes:
+
+Θ - Θ_M = Δψ cos ε, (2.42)
+
+where ε is the obliquity of the ecliptic at the instant of the observation, and Δψ, the nutation in longitude. This value is tabulated for each day e.g. in the Astronomical Almanac. It can also be computed from the formulae given in Reduction of Coordinates. It is at most about one second, so it has to be taken into account only in the most precise calculations.
+
+Figure 2.29 shows the Sun and the Earth at vernal equinox. When the Earth is at the point A, the Sun culminates and, at the same time, a new sidereal day begins in the city with the huge black arrow standing in its central square. After one sidereal day, the Earth has moved along its orbit almost one degree of arc to the point B. Therefore the Earth has to turn almost a degree further before the Sun will culminate. The solar or synodic day is therefore 3 min 56.56 s (sidereal time) longer than the sidereal day. This means that the beginning of the sidereal day will move around the clock during the course of one year. After one year, sidereal and solar time will again be in phase. The number of sidereal days in one year is one higher than the number of solar days.
+
+When we talk about rotational periods of planets, we usually mean sidereal periods. The length of day, on the other hand, means the rotation period with respect to the Sun. If the orbital period around the Sun is P, sidereal rotation period τ* and synodic day τ, we now know that the number of sidereal days in time P, P/τ*, is one higher than the number of synodic days, P/τ:
+
+P/τ - P/τ* = 1,
+
+or
+
+1/τ = 1/τ* + 1/P. (2.43)
+
+This holds for a planet rotating in the direction of its orbital motion (counterclockwise). If the sense of rotation is opposite, or retrograde, the number of sidereal days in one orbital period is one less than the number of synodic days, and the equation becomes
+
+1/τ = 1/τ* - 1/P. (2.44)
+
+For the Earth, we have P = 365.2564 d, and τ = 1 d, whence (2.43) gives τ* = 0.99727 d = 23 h 56 min 4 s solar time.
+
+Since our everyday life follows the alternation of day and night, it is more convenient to base our timekeeping on the apparent motion of the Sun rather than that of the stars. Unfortunately, solar time does not flow at a constant rate. There are two reasons for this. First, the orbit of the Earth is not exactly circular, but an ellipse, which means that the velocity of the Earth along its orbit is not constant. Second, the Sun moves along the ecliptic, not the equator. Thus its right ascension does not increase at a constant rate. The change is fastest at the end of December (4 min 27 s per day) and slowest in mid-September (3 min 35 s per day). As a consequence, the hour angle of the Sun (which determines the solar time) also grows at an uneven rate.
+
+To find a solar time flowing at a constant rate, we define a fictitious mean sun, which moves along the celestial equator with constant angular velocity, making a complete revolution in one year. By year we mean here the tropical year, which is the time it takes for the Sun to move from one vernal equinox to the next. In one tropical year, the right ascension of the Sun increases exactly 24 hours. The length of the tropical year is 365 d 5 h 48 min 46 s = 365.2422 d. Since the direction of the vernal equinox moves due to precession, the tropical year differs from the sidereal year, during which the Sun makes one revolution with respect to the background stars. One sidereal year is 365.2564 d.
+
+Using our artificial mean sun, we now define an evenly flowing solar time, the mean solar time (or simply mean time) T_M, which is equal to the hour angle h_M of the centre of the mean sun plus 12 hours (so that the date will change at midnight, to annoy astronomers):
+
+T_M = h_M + 12h. (2.45)
+
+The difference between the true solar time T and the mean time T_M is called the equation of time:
+
+E.T. = T - T_M. (2.46)
+
+(In spite of the identical abbreviation, this has nothing to do with a certain species of little green men.) The greatest positive value of E.T. is about 16 minutes and the greatest negative value about −14 minutes (see Fig. 2.30). This is also the difference between the true noon (the meridian transit of the Sun) and the mean noon.
+
+Both the true solar time and mean time are local times, depending on the hour angle of the Sun, real or artificial. If one observes the true solar time by direct measurement and computes the mean time from (2.46), a digital watch will probably be found to disagree with both of them. The reason for this is that we do not use local time in our everyday life; instead we use the zonal time of the nearest time zone.
+
+In the past, each city had its own local time. When travelling became faster and more popular, the great variety of local times became an inconvenience. At the end of the 19th century, the Earth was divided into 24 zones, the time of each zone differing from the neighboring ones by one hour. On the surface of the Earth, one hour in time corresponds to 15° in longitude; the time of each zone is determined by the local mean time at one of the longitudes 0°, 15°, ... , 345°.
+
+The time of the zero meridian going through Greenwich is used as an international reference, Universal Time. In most European countries, time is one hour ahead of this (Fig. 2.31).
+
+In summer, many countries switch to daylight saving time, during which time is one hour ahead of the ordinary time. The purpose of this is to make the time when people are awake coincide with daytime in order to save electricity, particularly in the evening, when people go to bed one hour earlier. During daylight saving time, the difference between the true solar time and the official time can grow even larger.
+
+In the EU countries the daylight saving time begins on the last Sunday of March, at 1 o’clock UTC in the morning, when the clocks are moved forward to read 2 AM, and ends on the last Sunday of October at 1 o’clock.
+
+## 2.14 Astronomical Time Systems
+
+Time can be defined using several different phenomena:
+
+## 1. The solar and sidereal times are based on the rotation of the Earth
+
+2. The standard unit of time in the current SI system, the second, is based on quantum mechanical atomic phenomena.
+
+3. Equations of physics like the ones describing the motions of celestial bodies involve a time variable corresponding to an ideal time running at a constant pace. The ephemeris time and dynamical time discussed a little later are such times.
+
+Observations give directly the apparent sidereal time as the hour angle of the true vernal equinox. From the apparent sidereal time the mean sidereal time can be calculated.
+
+Nowadays the SI unit of time, the second, is defined in a way that has nothing to do with celestial phenomena. Periods of quantum mechanical phenomena remain more stable than the motions of celestial bodies involving complicated perturbations.
+
+In 1967, one second was defined as 9,192,631,770 times the period of the light emitted by cesium 133 isotope in its ground state, transiting f From hyperfine level. The universal time UT is defined by the equation
+
+GMST(0UT) = 24,110.54841 s + T × 8,640,184.812866 s + T² × 0.093104 s - T³ × 0.0000062 s, (2.47)
+
+where GMST is the Greenwich mean sidereal time and T the Julian century. The latter is obtained from the Julian date J, which is a running number of the day (Sect. 2.15 and *Julian date, p. 41):
+
+T = (J - 2,451,545.0) / 36,525. (2.48)
+
+This gives the time elapsed since January 1, 2000, in Julian centuries. The unit of ephemeris time was the ephemeris second, which is the length of the tropical year 1900 divided by 31,556,925.9747. Ephemeris time was not known in advance. Only afterwards was it possible to determine the difference of ET and UT from observational data.
+
+Sidereal time and hence also UT are related to the rotation of the Earth, and thus contain perturbations due to the irregular variations, mainly slowing down, of the rotation. In (2.47) the constant 8,640,184.812866 shows how much sidereal time runs fast compared to the UT in a Julian century. As the rotation of the Earth is slowing down the solar day becomes longer. Since the Julian century T contains a fixed number of days, it will also become longer. This gives rise to the small correction terms in (2.47).
+
+Strictly speaking this universal time is the time denoted by UT1. Observations give UT0, which contains a small perturbation due to the wandering of the geographical pole, or polar variation. The direction of the axis with respect to the solid surface varies by about 0.1″ (a few metres on the surface) with a period of about 430 days (Chandler period). In addition to this, the polar motion contains a slow nonperiodic part. The z axis of the astronomical coordinates is aligned with the angular momentum vector of the Earth, but the terrestrial coordinates refer to the axis at the epoch 1903.5. In the most accurate calculations this has to be taken into account.
+
+## 2.14 Astronomical Time Systems
+
+The universal time UT is defined by the equation GMST(0UT) = 24,110.54841 s + T × 8,640,184.812866 s + T² × 0.093104 s - T³ × 0.0000062 s, (2.47) where GMST is the Greenwich mean sidereal time and T the Julian century. The latter is obtained from the Julian date J, which is a running number of the day (Sect. 2.15 and *Julian date, p. 41): T = (J - 2,451,545.0) / 36,525. (2.48) This gives the time elapsed since January 1, 2000, in Julian centuries. Sidereal time and hence also UT are related to the rotation of the Earth, and thus contain perturbations due to the irregular variations, mainly slowing down, of the rotation. In (2.47) the constant 8,640,184.812866 shows how much sidereal time runs fast compared to the UT in a Julian century. As the rotation of the Earth is slowing down the solar day becomes longer. Since the Julian century T contains a fixed number of days, it will also become longer. This gives rise to the small correction terms in (2.47). Strictly speaking this universal time is the time denoted by UT1. Observations give UT0, which contains a small perturbation due to the wandering of the geographical pole, or polar variation. The direction of the axis with respect to the solid surface varies by about 0.1″ (a few metres on the surface) with a period of about 430 days (Chandler period). In addition to this, the polar motion contains a slow nonperiodic part. The z axis of the astronomical coordinates is aligned with the angular momentum vector of the Earth, but the terrestrial coordinates refer to the axis at the epoch 1903.5. In the most accurate calculations this has to be taken into account.
+
+The international atomic time, TAI, was adopted as the basis of time signals in 1972. The time is maintained by the Bureau International des Poids et Mesures in Paris, and it is the average of several accurate atomic clocks. Even before atomic clocks there was a need for an ideal time proceeding at a perfectly constant rate, corresponding to the time variable in the equations of Newtonian mechanics. The ephemeris time was such a time. It was used e.g. for tabulating ephemerides. In 1984 ephemeris time was replaced by dynamical time. It comes in two varieties. The terrestrial dynamical time (TDT) corresponds to the proper time of an observer moving with the Earth. The time scale is affected by the relativistic time dilation due to the orbital speed of the Earth. The rotation velocity depends on the latitude, and thus in TDT it is assumed that the observer is not rotating with the Earth. The zero point of TDT was chosen so that the old ET changed without a jump to TDT.
+
+In 1991 a new standard time, the terrestrial time (TT), was adopted. Practically it is equivalent to TDT. TT (or TDT) is the time currently used for tabulating ephemerides of planets and other celestial bodies. For example, the Astronomical Almanac gives the coordinates of the planets for each day at 0 TT. The Astronomical Almanac also gives the difference
+
+ΔT = TDT - UT. (2.49)
+
+This is also tabulated in the Astronomical Almanac. For the present year and some future years a prediction extrapolated from the earlier years is given. Its accuracy is about 0.1 s. At the beginning of 1990 the difference was 56.7 s; it increases every year by an amount that is usually a little less than one second. The terrestrial time differs from the atomic time by a constant offset
+
+TT = TAI + 32.184 s. (2.50)
+
+TT is well suited for ephemerides of phenomena as seen from the Earth. The equations of motion of the solar system, however, are solved in a frame the origin of which is the centre of mass or barycentre of the solar system. The coordinate time of this frame is called the barycentric dynamical time, TDB. The unit of TDB is defined so that, on the average, it runs at the same rate as TT, the difference containing only periodic terms depending on the orbital motion of the Earth. The difference can usually be neglected, since it is at most about 0.002 seconds.
+
+Which of these many times should we use in our alarm-clocks? None of them. Yet another time is needed for that purpose. This official wall-clock time is called the coordinated universal time, UTC. The zonal time follows UTC but differs from it usually by an integral number of hours.
+
+UTC is defined so that it proceeds at the same rate as TAI, but differs from it by an integral number of seconds. These leap seconds are used to adjust UTC so that the difference from UT1 never exceeds 0.9 seconds. A leap second is added either at the beginning of a year or the night between June and July. The difference
+
+ΔAT = TAI - UTC (2.51)
+
+is also tabulated in the Astronomical Almanac. According to the definition of UTC the difference in seconds is always an integer. The difference cannot be predicted very far to the future. From (2.50) and (2.51) we get
+
+TT = UTC + 32.184 s + ΔAT, (2.52)
+
+which gives the terrestrial time TT corresponding to a given UTC. Table 2.2 gives this correction. The table is easy to extend to the future. When it is told in the news that a leap second will be added the difference will increase by one second. In case the number of leap seconds is not known, it can be approximated that a leap second will be added every 1.25 years. The unit of the coordinated universal time UTC, atomic time TAI and terrestrial time TT is the same second of the SI system. Hence all these times proceed at the same rate, the only difference being in their zero points. The difference of the TAI and TT is always the same, but due to the leap seconds the UTC will fall behind in a slightly irregular way. Culminations and rising and setting times of celestial bodies are related to the rotation of the Earth. Thus the sidereal time and hence the UT of such an event can be calculated precisely. The corresponding UTC cannot differ from the UT by more than 0.9 seconds, but the exact value is not known in advance. The future coordinates of the Sun, Moon and planets can be calculated as functions of the TT, but the corresponding UTC can only be estimated.
+
+Table 2.2. Differences of the atomic time and UTC (ΔAT) and the terrestrial time TT and UTC. The terrestrial time TT used in ephemerides is obtained by adding ΔAT + 32.184 s to the ordinary time UTC.
+
+| ΔAT | TT − UTC | | :--- | :--- | | 1.1.1972 – 30.6.1972 | 10 s | 42.184 s | | 1.7.1972 – 31.12.1972 | 11 s | 43.184 s | | 1.1.1973 – 31.12.1973 | 12 s | 44.184 s | | 1.1.1974 – 31.12.1974 | 13 s | 45.184 s | | 1.1.1975 – 31.12.1975 | 14 s | 46.184 s | | 1.1.1976 – 31.12.1976 | 15 s | 47.184 s | | 1.1.1977 – 31.12.1977 | 16 s | 48.184 s | | 1.1.1978 – 31.12.1978 | 17 s | 49.184 s | | 1.1.1979 – 31.12.1979 | 18 s | 50.184 s | | 1.1.1980 – 30.6.1981 | 19 s | 51.184 s | | 1.7.1981 – 30.6.1982 | 20 s | 52.184 s | | 1.7.1982 – 30.6.1983 | 21 s | 53.184 s | | 1.7.1983 – 30.6.1985 | 22 s | 54.184 s | | 1.7.1985 – 31.12.1987 | 23 s | 55.184 s | | 1.1.1988 – 31.12.1989 | 24 s | 56.184 s | | 1.1.1990 – 31.12.1990 | 25 s | 57.184 s | | 1.1.1991 – 30.6.1992 | 26 s | 58.184 s | | 1.7.1992 – 30.6.1993 | 27 s | 59.184 s | | 1.7.1993 – 30.6.1994 | 28 s | 60.184 s | | 1.7.1994 – 31.12.1995 | 29 s | 61.184 s | | 1.1.1996 – 31.6.1997 | 30 s | 62.184 s | | 1.7.1997 – 31.12.1998 | 31 s | 63.184 s | | 1.1.1999 – 31.12.2005 | 32 s | 64.184 s | | 1.1.2006 – | 33 s | 65.184 s |
+
+## 2.15 Calendars
+
+Our calendar is a result of long evolution. The main problem it must contend with is the incommensurability of the basic units, day, month and year: the numbers of days and months in a year are not integers. This makes it rather complicated to develop a calendar that takes correctly into account the alternation of seasons, day and night, and perhaps also the lunar phases.
+
+Our calendar has its origin in the Roman calendar, which, in its earliest form, was based on the phases of the Moon. From around 700 B.C. on, the length of the year has followed the apparent motion of the Sun; thus originated the division of the year into twelve months. One month, however, still had a length roughly equal to the lunar cycle. Hence one year was only 354 days long. To keep the year synchronised with the seasons, a leap month had to be added to every other year. Eventually the Roman calendar got mixed up. The mess was cleared by Julius Caesar in about 46 B.C., when the Julian calendar was developed upon his orders. The year had 365 days and a leap day was added to every fourth year.
+
+In the Julian calendar, the average length of one year is 365.25 days. In the Gregorian calendar a century year is a leap year only if the number of centuries is divisible by four. Thus 1900 was not a leap year, but 2000 was. The Gregorian calendar was adopted slowly, at different times in different countries. The transition period did not end before the 20th century. Even the Gregorian calendar is not perfect. The differences from the tropical year will accumulate to one day in about 3300 years.
+
+Since years and months of variable length make it difficult to compute time differences, especially astronomers have employed various methods to give each day a running number. The most widely used numbers are the Julian dates. In spite of their name, they are not related to the Julian calendar. The only connection is the length of a Julian century of 36,525 days, a quantity appearing in many formulas involving Julian dates. The Julian day number 0 dawned about 4700 B.C. The day number changes always at 12:00 UT. For example, the Julian day 2,451,545 began at noon in January 1, 2000. The Julian date can be computed using the formulas given in *Julian Date (p. 41).
+
+Julian dates are uncomfortably big numbers, and therefore modified Julian dates are often used. The zero point can be e.g. January 1, 2000. Sometimes 0.5 is subtracted from the date to make it to coincide with the date corresponding to the UTC. When using such dates, the zero point should always be mentioned.
+
+*Reduction of Coordinates
+
+Star catalogues give coordinates for some standard epoch. In the following we give the formulas needed to reduce the coordinates to a given date and time. The full reduction is rather laborious, but the following simplified version is sufficient for most practical purposes.
+
+We assume that the coordinates are given for the epoch J2000.0.
+
+## 1. First correct the place for proper motion unless it is negligible
+
+## 2. Precess the coordinates to the time of the observation
+
+n.is365d6h, but the tropical year is 11min14s shorter. First we use the coordinates of the standard epoch After 128 years, the Julian year begins almost one day (α, δ) to find a unit vector pointing in the direction too late. The difference was already 10 days in 1582, of the star: is ry le II In ar he Gr rs ria is r, er rt r p = ⎜⎝cosδ 0 sinα 0⎟⎠ .
+
+sinδ when a calendar reform was carried out by Pope Gre- cosδ cosα 0 gory XIII. In the Gregorian calendar, leap years are the years divisible by 4, except centennial years that are not divisible by 400. Of these, only the years divisible by 400 are leap years.
+
+## 2.15 Calendars
+
+Precession changes the ecliptic longitude of the The new coordinates are now obtained by multiplying object. The effect on right ascension and declination can the coordinates of the standard epoch by the be calculated as three rotations, given by three rotation matrices. By multiplying these matrices we get precession matrix: the combined precession matrix that maps the previous p = Pp .
+
+unit vector to its precessed equivalent. A similar matrix can be derived for the nutation. The transfor- This is the mean place at the given time and date. mations and constants given here are based on the If the standard epoch is not J2000.0, it is proba- system standardized by the IAU in 1976.
+
+bly easiest to first transform the given coordinates to The precession and nutation matrices contain sev- the epoch J2000.0. This can be done by computing the precession matrix for the given epoch and multi- eral quantities depending on time. The time variables appearing in their expressions are plying the coordinates by the inverse of this matrix. Inverting the precession matrix is easy: we just trans- t = J − 2,451,545.0, pose it, i.e. interchange its rows and columns. Thus T = J − 2,451,545.0 .
+
+coordinates given for some epoch can be precessed 36,525 to J2000.0 by multiplying them by Here J is the Julian date of the observation, t the P P P number of days since the epoch J2000.0 (i.e. noon P −1 = ⎜⎝ P12 P22 P32 ⎟⎠ .
+
+of January 1, 2000), and T the same interval of time P P P in Julian centuries. The following three angles are needed for the precession matrix In case the required accuracy is higher than about
+
+## 3. The full nutation correction is rather complicated
+
+one minute of arc, we have to do the following further corrections.
+
+ζ =2306.2181 (cid:1)(cid:1) T+0.30188 (cid:1)(cid:1) T2+0.017998 (cid:1)(cid:1) T3, The nutation used in astronomical almanacs involves z=2306.2181 (cid:1)(cid:1) T+1.09468 (cid:1)(cid:1) T2+0.018203 (cid:1)(cid:1) T3, series expansions containing over a hundred terms. Very often, though, the following simple form is suf- θ=2004.3109 (cid:1)(cid:1) T−0.42665 (cid:1)(cid:1) T2−0.041833 (cid:1)(cid:1) T3. ficient. We begin by finding the mean obliquity of The precession matrix is now the ecliptic at the observation time: ε =23◦26(cid:1)21.448 (cid:1)(cid:1)−46.8150 (cid:1)(cid:1) T P P P 0 P= ⎜⎝P11 P12 P13⎟⎠ . −0.00059 (cid:1)(cid:1) T2+0.001813 (cid:1)(cid:1) T3.
+
+21 22 23 P P P The mean obliquity means that periodic perturba- 31 32 33 tions have been omitted. The formula is valid a few The elements of this matrix in terms of the centuries before and after the year 2000.
+
+abovementioned angles are The true obliquity of the ecliptic, ε, is obtained by P = cosz cosθ cosζ − sinz sinζ , adding the nutation correction to the mean obliquity: 11 P = −cosz cosθ sinζ − sinz cosζ , ε = ε + ∆ε.
+
+12 0 P = −cosz sinθ, 13 The effect of the nutation on the ecliptic longitude P = sinz cosθ cosζ + cosz sinζ , (denoted usually by ∆ψ) and the obliquity of the 21 P = −sinz cosθ sinζ + cosz cosζ , ecliptic can be found from 22 P = −sinz sinθ, 23 C = 125◦ − 0.05295◦ t, P = sinθ cosζ , 31 C = 200.9◦ + 1.97129◦ t, P = −sinθ sinζ , 32 ∆ψ = −0.0048◦ sinC − 0.0004◦ sinC , P = cosθ.
+
+33 1 2 ∆ε = 0.0026◦ cosC + 0.0002◦ cosC .
+
+1 2
+
+## 2. Spherical Astronomy
+
+Since ∆ψ and ∆ε are very small angles, we have, The Julian date is J = 2,449,789.0, and thus for example, sin∆ψ ≈ ∆ψ and cos∆ψ ≈ 1, when t = −1756 and T = −0.04807666. The angles the angles are expressed in radians. Thus we get the of the precession matrix are ζ = −0.03079849◦, nutation matrix z = −0.03079798◦ and θ = −0.02676709◦. The pre- cession matrix is then 1 −∆ψ cosε −∆ψ sinε N= ⎜⎝∆ψ cosε 1 −∆ε ⎟⎠ .
+
+P= ⎜⎝−0.00107506 0.99999931 0.00107506 0.99999942 −0.00000025⎠ .
+
+∆ψ sinε ∆ε 1 This is a linearized version of the full transformation.
+
+−0.00046717 −0.00000025 0.99999989 The angles here must be in radians. The place in the The pressed unit vector is coordinate frame of the observing time is now −0.86390858 p = Np .
+
+2 1 p = ⎜⎝ 0.45880225 ⎟⎠ .
+
+4. The annual aberration can affect the place about as 0.20775577 much as the nutation. Approximate corrections are The angles needed for the nutation are ∆ψ = obtained from 0.00309516◦, ∆ε = −0.00186227◦, ε = 23.43805403◦, ∆α cosδ = −20.5(cid:1)(cid:1) sinα sinλ which give the nutation matrix −18.8(cid:1)(cid:1) cosα cosλ, N= ∆δ = 20.5(cid:1)(cid:1) cosα sinδ sinλ 1 −0.00004956 −0.00002149 +18.8(cid:1)(cid:1) sinα sinδ cosλ − 8.1(cid:1)(cid:1) cosδ cosλ, ⎜⎝0.00004956 1 0.00003250 ⎟⎠ .
+
+where λ is the ecliptic longitude of the Sun. Suf- 0.00002149 −0.00003250 1 ficiently accurate value for this purpose is given The place in the frame of the date is by −0.86393578 G = 357.528◦ + 0.985600◦ t, p 2 = ⎜⎝ 0.45876618 ⎟⎠ , λ = 280.460◦ + 0.985647◦ t 0.20772230 + 1.915◦ sinG + 0.020◦ sin2G. whence These reductions give the apparent place of the date α = 10.135390h, with an accuracy of a few seconds of arc. The effects δ = 11.988906◦. of parallax and diurnal aberration are even smaller. To correct for the aberration we first find the longi- Example. The coordinates of Regulus (α Leo) for the tude of the Sun: G = −1373.2◦ = 66.8◦, λ = −8.6◦. epoch J2000.0 are The correction terms are then α = 10h8min22.2s = 10.139500h, ∆α = 18.25(cid:1)(cid:1) = 0.0050◦ δ = 11◦58(cid:1)02(cid:1)(cid:1) = 11.967222◦. ∆δ = −5.46(cid:1)(cid:1) = −0.0015◦.
+
+Adding these to the previously obtained coordinates we Find the apparent place of Regulus on March 12, 1995. get the apparent place of Regulus on March 12, 1995: We start by finding the unit vector corresponding to α = 10.1357h = 10h8min8.5s, the catalogued place: δ = 11.9874◦ = 11◦59(cid:1)15(cid:1)(cid:1).
+
+Comparison with the places given in the catalogue Ap- −0.86449829 parent Places of Fundamental Stars shows that we p 0 = ⎜⎝ 0.45787318 ⎟⎠ . are within about 3(cid:1)(cid:1) of the correct place, which is 0.20735204 a satisfactory result.
+
+## 2.16 Examples
+
+*Julian Date Example. In the previous example we got J = 2,447,893. Let’s check this by calculating the There are several methods for finding the Julian date. corresponding calendar date: The following one, developed by Fliegel and Van Flan- dern in 1968, is well adapted for computer programs. a = 2,447,893 + 68,569 = 2,516,462, Let y be the year (with all four digits), m the month and b = (4 × 2,516,462)/146,097 = 68, d the day. The Julian date J at noon is then c = 2,516,462 − (146,097 × 68 + 3)/4 = 32,813, J = 367y − {7[y + (m + 9)/12]}/4 d = [4000(32,813 + 1)]/1,461,001 = 89, − 3{[y + (m − 9)/7]/100 + 1} /4 e = 32,813 − (1461 × 89)/4 + 31 = 337, + 275m/9 + d + 1721029.
+
+f = (80 × 337)/2447 = 11, The division here means an integer division, the decimal part being truncated: e.g. 7/3 = 2 and −7/3 = −2. day = 337 − (2447 × 11)/80 = 1, g = 11/11 = 1, Example. Find the Julian date on January 1, 1990. month = 11 + 2 − 12 × 1 = 1, Now y = 1990, m = 1 and d = 1. year = 100(68 − 49) + 89 + 1 = 1990.
+
+J = 367 × 1990 − 7 × [1990 + (1 + 9)/12]/4 Thus we arrived back to the original date.
+
+− 3 × {[1990 + (1 − 9)/7]/100 + 1}/4 Since the days of the week repeat in seven day + 275 × 1/9 + 1 + 1,721,029 cycles, the remainder of the division J/7 unambiguously = 730,330 − 3482 − 15 + 30 + 1 + 1,721,029 determines the day of the week. If J is the Julian date = 2,447,893. at noon, the remainder of J/7 tells the day of the week Astronomical tables usually give the Julian date at 0 UT. in the following way: In this case that would be 2,447,892.5. 0 = Monday, The inverse procedure is a little more complicated. . . In the following J is the Julian date at noon (so that it 5 = Saturday, will be an integer): 6 = Sunday.
+
+a = J + 68,569, Example. The Julian date corresponding to January 1, b = (4a)/146,097, 1990 was 2,447,893. Since 2,447,893 = 7 × 349,699, c = a − (146,097b + 3)/4, the remainder is zero, and the day was Monday. d = [4000(c + 1)]/1,461,001, 2.16 Examples e = c − (1461d)/4 + 31, Example 2.1 Trigonometric Functions in a Rectan- f = (80e)/2447, g = f/11, gular Spherical Triangle day = e − (2447f)/80, Let the angle A be a right angle. When the figure month = f + 2 − 12g, is a plane triangle, the trigonometric functions of the year = 100(b − 49) + d + g. angle B would be:
+
+## 2. Spherical Astronomy
+
+sinB = b/a, cosB = c/a, tanB = b/c.
+
+For the spherical triangle we have to use the equa- tions in (2.7), which are now simply: But if we use the third equation in (2.7), we get cosd = cos(α − α )
+
+sinB sina = sinb, 1 2 × sin(90◦ − δ ) sin(90◦ − δ )
+
+1 2 cosB sina + cos(90◦ − δ ) cos(90◦ − δ )
+
+= cosb sinc, 1 2 = cos(α − α ) cosδ cosδ cosa = cosbcosc. 1 2 1 2 + sinδ sinδ 1 2 = cos15◦ cos70◦ cos80◦ The first equation gives the sine of B: + sin70◦ sin80◦ sinB = sinb/sina.
+
+= 0.983, Dividing the second equation by the third one, we get which yields d = 10.6◦. The figure shows why the result the cosine of B: obtained from the Pythagorean theorem is so far from cosB = tanc/tana.
+
+being correct: hour circles (circles with α = constant) approach each other towards the poles and their angular And the tangent is obtained by dividing the first equa- separation becomes smaller, though the coordinate tion by the second one: difference remains the same.
+
+tanB = tanb/sinc.
+
+Example 2.4 Find the altitude and azimuth of the The third equation is the equivalent of the Pythagorean Moon in Helsinki at midnight at the beginning of 1996. theorem for rectangular triangles. The right ascension is α = 2h 55min 7s = 2.9186h and declination δ = 14◦42(cid:1) = 14.70◦, the sidereal Example 2.2 The Coordinates of New York City time is Θ = 6h 19min 26s = 6.3239h and latitude φ = 60.16◦.
+
+The geographic coordinates are 41◦ north and 74◦ west The hour angle is h = Θ − α = 3.4053h = 51.08◦. of Greenwich, or φ = +41◦, λ = −74◦. In time units, Next we apply the equations in (2.16): the longitude would be 74/15h = 4h 56min west of Greenwich. The geocentric latitude is obtained from sinA cosa = sin51.08◦ cos14.70◦ = 0.7526, b2 6,356,752 2 cosA cosa = cos51.08◦ cos14.70◦ sin60.16◦ tanφ(cid:1) = a2 tanφ = 6,378,137 tan41◦ − sin14.70◦ cos60.16◦ = 0.86347 ⇒ φ(cid:1) = 40◦48(cid:1)34(cid:1)(cid:1). = 0.4008, The geocentric latitude is 11(cid:1)26(cid:1)(cid:1) less than the sina = cos51.08◦ cos14.70◦ cos60.16◦ geographic latitude. + sin14.70◦ sin60.16◦ = 0.5225.
+
+The angular separation of two objects in the sky is quite different from their coordinate difference. Thus the altitude is a=31.5°. To find the azimuth we have to compute its sine and cosine: Suppose the coordinates of a star A are α₁=10h, δ₁=70° and those of another star B, α₂=11h, δ₂=80°.
+
+sinA=0.8827, cosA=0.4701.
+
+Using the Pythagorean theorem for plane triangles, Hence the azimuth is A=62.0°. The Moon is in the southwest, 31.5 degrees above the horizon. Actually, we would get this would be the direction if the Moon were infinitely d=√((15°)²+(10°)²)=18.0°.
+
+distant.
+
+Example 2.5 Find the topocentric place of the Moon in the case of the previous example.
+
+The geocentric distance of the Moon at that time is R=62.58 equatorial radii of the Earth. For simplicity, we can assume that the Earth is spherical.
+
+We set up a rectangular coordinate frame in such a way that the z axis points towards the celestial pole and the observing site is in the xz plane. When the radius of the Earth is used as the unit of distance, the radius vector of the observing site is r₀ = (cosφ, 0, sinφ)ᵀ = (0.4976, 0, 0.8674)ᵀ.
+
+The radius vector of the Moon is r = R(cosδ cosh, -cosδ sinh, sinδ)ᵀ = 62.58(0.6077, -0.7526, 0.2538)ᵀ.
+
+The topocentric place of the Moon is r' = r - r₀ = (37.53, -47.10, 15.02)ᵀ.
+
+We divide this vector by its length 62.07 to get the unit vector e pointing to the direction of the Moon. This can be expressed in terms of the topocentric coordinates δ' and h': e = (0.6047, -0.7588, 0.2420)ᵀ = (cosδ' cosh', -cosδ' sinh', sinδ')ᵀ, which gives δ'=14.00° and h'=51.45°. Next we can calculate the altitude and azimuth as in the previous example, and we get a=30.7°, A=61.9°.
+
+Another way to find the altitude is to take the scalar product of the vectors e and r₀, which gives the cosine of the zenith distance: cosz = e·r₀ = 0.6047×0.4976+0.2420×0.8674 = 0.5108, whence z=59.3° and a=90°−z=30.7°. We see that this is 0.8° less than the geocentric altitude; i.e. the difference is more than the apparent diameter of the Moon.
+
+Example 2.6 The coordinates of Arcturus are α=14h15.7min, δ=19°11'. Find the sidereal time at the moment Arcturus rises or sets in Boston (φ=42°19').
+
+Neglecting refraction, we get cosh = −tan19°11' tan42°19' = −0.348×0.910 = −0.317.
+
+Hence, h=±108.47°=7h14min. The more accurate result is cosh = (−tan19°11' tan42°19' − sin35') / (cos19°11' cos42°19') = −0.331, whence h=±109.35°=7h17min. The plus and minus signs correspond to setting and rising, respectively. When Arcturus rises, the sidereal time is Θ=α+h=14h16min−7h17min=6h59min and when it sets, the sidereal time is Θ=14h16min+7h17min=21h33min.
+
+Note that the result is independent of the date: a star rises and sets at the same sidereal time every day.
+
+Example 2.7 The parallax of Procyon is 0.286" and its proper motion is 1.25"/yr. The parallax of Sirius is 0.375" and the wavelength of light used is λ=440.5nm. The line of Sirius is displaced 0.079nm towards the red. What are the radial and tangential velocities and the total velocity?
+
+The radial velocity is found from Δλ/λ = v_r/c ⇒ v_r = (0.079/440.5)·3×10⁸m/s=5.4×10⁴m/s=54km/s.
+
+The tangential velocity is now given by (2.40), since μ and π are in correct units: v_t = 4.74μ/π = (4.74×0.20)/0.048 = 20km/s.
+
+The total velocity is v = √(v_r² + v_t²) = √(54²+20²)km/s = 58km/s.
+
+Example 2.8 Find the local time in Paris (longitude λ=2°) at 12:00.
+
+Local time coincides with the zonal time along the meridian 15° east of Greenwich. Longitude difference 15°−2°=13° equals (13°/15°)×60min=52 minutes. The local time is 52 minutes less than the official time, or 11:08. This is mean solar time. To find the true solar time, we must add the equation of time. In early February, E.T.=−14min and the true solar time is 11:08−14min=10:54. At the beginning of November, E.T.=+16min and the solar time would be 11:24. Since −14min and +16min are the extreme values of E.T., the true solar time is in the range 10:54–11:24, the exact time depending on the day of the year. During daylight saving time, we must still subtract one hour from these times.
+
+Example 2.9 Estimating Sidereal Time Since the sidereal time is the hour angle of the vernal equinox γ, it is 0h when γ culminates or transits the south meridian. At the moment of the vernal equinox, the Sun is in the direction of γ and thus culminates at the same time as γ, where T is the local solar time. This is accurate within a couple of minutes. Since the sidereal time runs about 4 minutes fast a day, the sidereal time, n days after the vernal equinox, is Θ≈T+12h+n×4min.
+
+At autumnal equinox γ culminates at 12h local solar time. So the sidereal time at 12:00 local solar time is 0:00, and at the time of the vernal equinox, we have Θ=T+12h, γ culminates at 0:00 local time, and sidereal and solar times are equal.
+
+Let us try to find the sidereal time in Paris on April 15 at 22:00, Central European standard time (=23:00 daylight saving time). The vernal equinox occurs on the average on March 21; thus the time elapsed since the equinox is 10+15=25 days. Neglecting the equation of time, the local time T is 52 minutes less than the zonal time. Hence Θ=T+12h+n×4min = 21h8min+12h+25×4min = 34h48min = 10h48min.
+
+The time of the vernal equinox can vary about one day in either direction from the average. Therefore the accuracy of the result is roughly 5min.
+
+Example 2.10 Find the rising time of Arcturus in Boston on January 10.
+
+In Example 2.6 we found the sidereal time of this event, Θ=6h59min. Since we do not know the year, we use the rough method of Example 2.9. The time between January 1 and vernal equinox (March 21) is about 70 days. Thus the sidereal time on January 1 is Θ≈T+12h−70×4min=T+7h20min, from which T = Θ−7h20min=6h59min−7h20min = 30h59min−7h20min=23h39min.
+
+The longitude of Boston is 71°W, and the Eastern standard time is (4°/15°)×60min=16 minutes less, or 23:23.
+
+Example 2.11 Find the sidereal time in Helsinki on April 15, 1982 at 20:00 UT.
+
+The Julian date is J=2,445,074.5 and T = (2,445,074.5−2,451,545.0)/36,525 = −0.1771526.
+
+Next, we use (2.47) to find the sidereal time at 0 UT: Θ₀ = −1,506,521.0s = −418h28min41s = 13h31min19s.
+
+Since the sidereal time runs 3min57s fast a day as compared to the solar time, the difference in 20 hours will be (20/24)×3min57s = 3min17s, and the sidereal time at 20 UT will be 13h31min19s+20h3min17s=33h34min36s=9h34min36s.
+
+At the same time (at 22:00 Finnish time, 23:00 daylight saving time) in Helsinki the sidereal time is ahead of this by the amount corresponding to the longitude of Helsinki, 25°, i.e. 1h40min00s. Thus the sidereal time is 11h14min36s.
+
+Exercise 2.1 Find the distance between Helsinki and Seattle along the shortest route. Where is the northernmost point of the route, and what is its distance from the North Pole? The longitude of Helsinki is 25°E and latitude 60°; the longitude of Seattle is 122°W and latitude 48°. Assume that the radius of the Earth is 6370km.
+
+Exercise 2.2 A star crosses the south meridian at an altitude of 85°, and the north meridian at 45°. Find the declination of the star and the latitude of the observer.
+
+Exercise 2.3 Where are the following statements true?
+
+a) Castor (αGem, declination δ=31°53') is circumpolar.
+
+b) Betelgeuze (αOri, δ=7°24') culminates at zenith.
+
+c) αCen (δ=−60°50') rises to an altitude of 30°.
+
+Exercise 2.4 In his Old Man and the Sea Hemingway wrote: It was dark now as it becomes dark quickly after the Sun sets in September. He lay against the worn wood of the bow and rested all that he could. The first stars were out. He did not know the name of Rigel but he saw it and knew soon they would all be out and he would have all his distant friends.
+
+How was Hemingway's astronomy?
+
+Exercise 2.5 The right ascension of the Sun on June 1, 1983, was 4h35min and declination 22°00'. Find the ecliptic longitude and latitude of the Sun and the Earth.
+
+Exercise 2.6 Show that on the Arctic Circle the Sun a) rises at the same sidereal time Θ₀ between December 22 and June 22, b) sets at the same sidereal time Θ between June 22 and December 22.
+
+What is Θ₀?
+
+Exercise 2.7 Derive the equations (2.24), which give the galactic coordinates as functions of the ecliptic coordinates.
+
+Exercise 2.8 The coordinates of Sirius for the epoch 1900.0 were α=6h40min45s, δ=−16°35', and the components of its proper motion were μ_α=−0.037s/a, μ_δ=−1.12"/a. Find the coordinates of Sirius for 2000.0. The precession must also be taken into account.
+
+Exercise 2.9 The parallax of Sirius is 0.375" and radial velocity −8km/s.
+
+a) What are the tangential and total velocities of Sirius? (See also the previous exercise.)
+
+b) When will Sirius be closest to the Sun?
+
+c) What will its proper motion and parallax be then?
+
+## 3. Observations and Instruments
+
+Up to the end of the Middle Ages, the most important means of observation in astronomy was the human eye. It was aided by various mechanical devices to measure the positions of celestial bodies in the sky. The telescope was invented in Holland at the beginning of the 17th century, and in 1609 Galileo Galilei made his first astronomical observations with this new instrument. Astronomical photography was introduced at the end of the 19th century, and during the last few decades many kinds of electronic detectors have been adopted for the study of electromagnetic radiation from space. The electromagnetic spectrum from the shortest gamma rays to long radio waves can now be used for astronomical observations.
+
+## 3.1 Observing through the Atmosphere
+
+With satellites and spacecraft, observations can be made outside the atmosphere. Yet, the great majority of astronomical observations are carried out from the surface of the Earth. In the preceding chapter, we discussed refraction, which changes the apparent altitudes of objects. The atmosphere affects observations in many other ways as well. The air is never quite steady, and there are layers with different temperatures and densities; this causes convection and turbulence. When the light from a star passes through the unsteady air, rapid changes in refraction cause the image to move and vary in brightness; this phenomenon is called seeing, and the size of the seeing disc may vary from less than an arc second to several tens of arcseconds. If the size of the seeing disc is small, we speak of good seeing. Seeing and scintillation both tend to blot out small details when one looks through a telescope, for example, at a planet.
+
+Some wavelength regions in the electromagnetic spectrum are strongly absorbed by the atmosphere. The most important transparent interval is the optical window from about 300 to 800nm. This interval coincides with the region of sensitivity of the human eye (about 400–700nm).
+
+At wavelengths under 300nm, absorption by atmospheric ozone prevents radiation from reaching the ground. The ozone is concentrated in a thin layer at a height of about 20–30km, and this layer protects the Earth from harmful ultraviolet radiation. At still shorter wavelengths, the main absorbers are O, N and free atoms. Nearly all of the radiation under 300nm is absorbed by the upper parts of the atmosphere.
+
+At wavelengths longer than visible light, in the near-infrared region, the atmosphere is fairly transparent up to 1.3µm. There are some absorption belts caused by water and molecular oxygen, but the atmosphere gets more opaque only at wavelengths of longer than 1.3µm. At these wavelengths, radiation reaches the lower parts of the atmosphere only in a few narrow windows. All wavelengths between 20µm and 1mm are totally absorbed. At wavelengths longer than 1mm, there is the radio window extending up to about 20m. At still longer wavelengths, the ionosphere in the upper parts of the atmosphere reflects all radiation (Fig.3.2). The exact upper limit of the radio window depends on the strength of the ionosphere, which varies during the day. (The structure of the atmosphere is described in Chap.7.)
+
+At optical wavelengths (300–800nm), light is scattered by the molecules and dust in the atmosphere, and the radiation is attenuated. Scattering and absorption together are called extinction. Extinction must be taken into account when one measures the brightness of celestial bodies (Chap.4).
+
+In the 19th century Lord Rayleigh succeeded in explaining why the sky is blue. Scattering caused by the molecules in the atmosphere is inversely proportional to the fourth power of the wavelength. Thus, blue light is scattered more than red light. The blue light we see all over the sky is scattered sunlight. The same phenomenon colours the setting sun red, because owing to the long, oblique path through the atmosphere, all the blue light has been scattered away.
+
+In astronomy one often has to observe very faint objects. Thus, it is important that the background sky be as dark as possible, and the atmosphere as transparent as possible. That is why the large observatories have been built on mountaintops far from the cities. The air above an observatory site must be very dry, the number of cloudy nights few, and the seeing good.
+
+Astronomers have looked all over the Earth for optimal conditions and have found some exceptional sites. In the 1970’s, several new major observatories were founded at these sites. Among the best sites in the world are: the extinguished volcano Mauna Kea on Hawaii, rising more than 4000m above the sea; the dry mountains in northern Chile; the Sonora desert in the U.S., near the border of Mexico; and the mountains on La Palma, in the Canary Islands. Many older observatories are severely plagued by the lights of nearby cities (Fig.3.3).
+
+In radio astronomy atmospheric conditions are not very critical except when observing at the shortest wavelengths. Constructors of radio telescopes have much greater freedom in choosing their sites than optical astronomers. Still, radio telescopes are also often constructed in uninhabited places to isolate them from disturbing radio and television broadcasts.
+
+The telescope fulfills three major tasks in astronomical observations: 1. It collects light from a large area, making it possible to study very faint sources.
+
+2. It increases the apparent angular diameter of the object and thus improves resolution.
+
+## 3. It is used to measure the positions of objects
+
+The light-collecting surface in a telescope is either a lens or a mirror. Thus, optical telescopes are divided into two types, lens telescopes or refractors and mirror telescopes or reflectors (Fig.3.4).
+
+Geometrical Optics. Refractors have two lenses, the objective which collects the incoming light and forms an image in the focal plane, and the eyepiece which is a small magnifying glass for looking at the image (Fig.3.5). The lenses are at the opposite ends of a tube which can be directed towards any desired point. The distance between the eyepiece and the focal plane can be adjusted to get the image into focus. The image formed by the objective lens can also be registered, e.g. on a photographic film, as in an ordinary camera.
+
+The diameter of the objective, D, is called the aperture of the telescope. The ratio of the aperture D to the focal length f, F=D/f, is called the aperture ratio. This quantity is used to characterize the light-gathering power of the telescope. If the aperture ratio is large, near unity, one has a powerful, “fast” telescope; this means that one can take photographs using short exposures, since the image is bright. A small aperture ratio (the focal length much greater than the aperture) means a “slow” telescope.
+
+In astronomy, as in photography, the aperture ratio is often denoted by f/n (e.g. f/8), where n is the focal length divided by the aperture. For fast telescopes this ratio can be f/1... f/3, but usually it is smaller, f/8... f/15.
+
+The scale of the image formed in the focal plane of a refractor can be geometrically determined from Fig.3.5. When the object is seen at the angle u, it forms an image of height s, s = f tan u ≈ f u, (3.1)
+
+since u is a very small angle. If the telescope has a focal length of, for instance, 343cm, one arc minute corresponds to s = 343cm × 1’ = 343cm × (1/60) × (π/180) = 1mm.
+
+The magnification ω is (from Fig.3.5)
+
+ω = u’/u ≈ f/f’, (3.2)
+
+where we have used the equation s = f u. Here, f is the focal length of the objective and f’ that of the eyepiece. For example, if f = 100cm and we use an eyepiece with f’ = 2cm, the magnification is 50-fold. The magnification is not an essential feature of a telescope, since it can be changed simply by changing the eyepiece.
+
+A more important characteristic, which depends on the aperture of the telescope, is the resolving power, which determines, for example, the minimum angular separation of the components of a binary star that can be seen as two separate stars. The theoretical limit for the resolution is set by the diffraction of light: The telescope does not form a point image of a star, but rather a small disc, since light “bends around the corner” like all radiation (Fig.3.6).
+
+The theoretical resolution of a telescope is often given in the form introduced by Rayleigh (see *Diffraction by a Circular Aperture, p.81)
+
+sin θ ≈ θ = 1.22 λ/D, [θ] = rad. (3.3)
+
+As a practical rule, we can say that two objects are seen as separate if the angular distance between them is θ = λ/D, [θ] = rad. (3.4)
+
+This formula can be applied to optical as well as radio telescopes. For example, if one makes observations at a typical yellow wavelength (λ = 550nm), the resolving power of a reflector with an aperture of 1m is about 0.2”. However, seeing spreads out the image to a diameter of typically one arc second. Thus, the theoretical diffraction limit cannot usually be reached on the surface of the Earth.
+
+In photography the image is further spread in the photographic plate, decreasing the resolution as compared with visual observations. The grain size of photographic emulsions is about 0.01–0.03mm, which is also the minimum size of the image. For a focal length of 1m, the scale is 1mm = 206”, and thus 0.01mm corresponds to about 2 arc seconds. This is similar to the theoretical resolution of a telescope with an aperture of 7cm in visual observations.
+
+In practice, the resolution of visual observations is determined by the ability of the eye to see details. In night vision (when the eye is perfectly adapted to darkness) the resolving capability of the human eye is about 2”.
+
+The maximum magnification ω_max is the largest magnification that is worth using in telescopic observations. Its value is obtained from the ratio of the resolving capability of the eye, e ≈ 2” = 5.8×10⁻⁴ rad, to the resolving power of the telescope, θ, ω_max = e/θ ≈ e D/λ = 5.8×10⁻⁴ D / (5.5×10⁻⁷ m) ≈ D/1mm. (3.5)
+
+From Fig.3.7 we obtain the exit pupil of the telescope, the small light spot that can be seen behind the eyepiece.
+
+L = D/ω. (3.6)
+
+Thus the condition L ≤ d means that ω ≥ D/d. (3.7)
+
+In the night, the diameter of the pupil of the human eye is about 6mm, and thus the minimum magnification of a 100mm telescope is about 17. If we use, for example, an objective with D = 100mm, the minimum magnification is ω_min = 100/6 ≈ 17. If we use a larger magnification, the image gets dimmer, since the same amount of light is spread over a larger area. Furthermore, the resolution is not improved, since it is already limited by the eye. A comfortable magnification is usually 5–10 times the aperture in millimetres. For a 100mm telescope this means 500–1000-fold magnification.
+
+with a diameter of 100 mm, the maximum magnification is about 100. The eye has no use for larger magnifications.
+
+The minimum magnification ω_min is the smallest magnification that is useful in visual observations. Its value is obtained from the condition that the diameter of the exit pupil L of the telescope must be smaller than or equal to the pupil of the eye.
+
+The exit pupil is the image of the objective lens (Fig. 3.7). The exit pupil L is the image of the objective lens formed by the eyepiece, through which the light from the objective lens passes.
+
+Refractors. In the first refractors, which had a simple objective lens, the observations were hampered by the chromatic aberration. Since glass refracts different colours by different amounts, all colours do not meet at the same focal point (Fig. 3.8), but the focal length increases with increasing wavelength. To remove this aberration, achromatic lenses consisting of two parts were developed in the 18th century. The colour dependence of the focal length is much smaller than in single lenses, and at some wavelength, λ_0, the focal length has an extremum (usually a minimum). Near this point the change of focal length with wavelength is very small (Fig. 3.9). If the telescope is intended for visual observations, we choose λ_0 = 550 nm, corresponding to the maximum sensitivity of the eye. Objectives for photographic refractors are usually constructed with λ_0 ≈ 425 nm, since normal photographic plates are most sensitive to the blue part of the spectrum.
+
+By combining three or even more lenses of different glasses in the objective, the chromatic aberration can be corrected still better (as in apochromatic objectives). Also, special glasses have been developed where the wavelength dependences of the refractive index cancel out so well that two lenses already give a very good correction of the chromatic aberration. They have, however, hardly been used in astronomy so far.
+
+The largest refractors in the world have an aperture of about one metre (102 cm in the Yerkes Observatory telescope (Fig. 3.10), finished in 1897, and 91 cm in the Lick Observatory telescope (1888)). The aperture ratio is typically f/10... f/20. The use of refractors is limited by their small field of view and awkwardly long structure. Refractors are used, e.g. for visual observations of binary stars and in various meridian telescopes for measuring the positions of stars. In photography they can be used for accurate position measurements, for example, to find parallaxes.
+
+A wider field of view is obtained by using more complex lens systems, and telescopes of this kind are called astrographs. Astrographs have an objective made up of typically 3–5 lenses and an aperture of less than 60 cm. The aperture ratio is f/5... f/7 and the field of view about 5°. Astrographs are used to photograph large areas of the sky, e.g. for proper motion studies and for statistical brightness studies of the stars.
+
+Reflectors. The most common telescope type in astrophysical research is the mirror telescope or reflector. As a light-collecting surface, it employs a mirror coated with a thin layer of aluminium. The form of the mirror is usually parabolic. A parabolic mirror reflects all light rays entering the telescope parallel to the main axis into the same focal point. The image formed at this point can be observed through an eyepiece or registered with a detector. One of the advantages of reflectors is the absence of chromatic aberration, since all wavelengths are reflected to the same point.
+
+In the very largest telescopes, the observer can sit with his instruments in a special cage at the primary focus (Fig. 3.11) without eclipsing too much of the incoming light. In smaller telescopes, this is not possible, and the image must be inspected from outside the telescope. In modern telescopes instruments are remotely controlled, and the observer must stay away from the telescope to reduce thermal turbulence.
+
+In 1663 James Gregory (1638–1675) described a reflector. The first practical reflector, however, was built by Isaac Newton. He guided the light perpendicularly out from the telescope with a small flat mirror. Therefore the focus of the image in such a system is called the Newton focus. A typical aperture ratio of a Newtonian telescope is f/3... f/10. Another possibility is to bore a hole at the centre of the primary mirror and reflect the rays through it with a small hyperbolic secondary mirror in the front end of the telescope. In such a design, the rays meet in the Cassegrain focus. Cassegrain systems have aperture ratios of f/8... f/15.
+
+The effective focal length (f_e) of a Cassegrain telescope is determined by the position and convexity of the secondary mirror. Using the notations of Fig. 3.12, we get
+
+f_e = f_p. (3.8)
+
+If we choose a > b, we have f_e > f_p. In this way one can construct short telescopes with long focal lengths. Cassegrain systems are especially well suited for spectrographic, photometric and other instruments, which can be mounted in the secondary focus, easily accessible to the observers. More complicated arrangements use several mirrors to guide the light through the declination axis of the telescope to a fixed coude focus (from the French word coudér, to bend), which can even be situated in a separate room near the telescope (Fig. 3.13). The focal length is thus very long and the aperture ratio f/30... f/40. The coude focus is used mainly for accurate spectroscopy, since the large spectrographs can be stationary and their temperature can be held accurately constant. A drawback is that much light is lost in the reflections in the several mirrors of the coude system. An aluminized mirror reflects about 80% of the light falling on it, and thus in a coude system of, e.g. five mirrors (including the primary and secondary mirrors), only 0.8^5 ≈ 30% of the light reaches the detector.
+
+The reflector has its own aberration, coma. It affects images displaced from the optical axis. Light rays do not converge at one point, but form a figure like a comet. Due to the coma, the classical reflector with a paraboloid mirror has a very small correct field of view. The coma limits the diameter of the useful field to 2–20 minutes of arc, depending on the aperture ratio of the telescope. The 5 m Palomar telescope, for instance, has a useful field of view of about 4', corresponding to about one-eighth of the diameter of the Moon. In practice, the small field of view can be enlarged by various correcting lenses.
+
+If the primary mirror were spherical, there would be no coma. However, this kind of mirror has its own error, spherical aberration: light rays from the centre and edges converge at different points. To remove the spherical aberration, the Estonian astronomer Bernhard Schmidt developed a thin correcting lens that is placed in the way of the incoming light. Schmidt cameras (Figs. 3.14 and 3.15) have a very wide (about 7°), nearly faultless field of view, and the correcting lens is so thin that it absorbs very the equatorial mounting. When the telescope is pointing to the south its weight causes a force perpendicular to the axis. When the telescope is tracking an object and turns westward, the bearings must take an increasing load parallel with the declination axis. In the azimuthal mounting, one of the axes is vertical, the other one horizontal. This mounting is easier to construct than the equatorial mounting and is more stable for very large telescopes. In order to follow the rotation of the sky, the telescope must be turned around both of the axes with changing velocities. The field of view will also rotate; this rotation must be compensated for when the telescope is used for photography. If an object goes close to the zenith, its azimuth will change 180◦ in a very short time. Therefore, around the zenith there is a small region where observations with an azimuthal telescope are not possible. The largest telescopes in the world were equatorially mounted until the development of computers made possible the more complicated guidance needed for azimuthal mountings. Most of the recently built large telescopes are already azimuthally mounted. Azimuthally mounted telescopes have two additional obvious places for foci, the Nasmyth foci at both ends of the horizontal axis. The Dobson mounting, used in many amateur telescopes, is azimuthal. The magnification of the Newtonian telescope is usually small, and the telescope rests on pieces of teflon, which make it very easy to move. Thus the object can easily be tracked manually. Another type of mounting is the coelostat, where rotating mirrors guide the light into a stationary telescope. This system is used especially in solar telescopes.
+
+To measure absolute positions of stars and accurate time, telescopes aligned with the north–south direction are used. They can be rotated around one axis only, the east–west horizontal axis. Meridian circles or transit instruments with this kind of mounting were widely constructed for different observatories during the 19th century. A few are still used for astrometry, but they are now highly automatic like the meridian circle on La Palma funded by the Carlsberg foundation.
+
+New Techniques. Detectors are already approaching the theoretical limit of efficiency, where all incident photons are registered. Ultimately, to detect even fainter objects the only solution is to increase the light gathering area, but also the mirrors are getting close to the practical maximum size. Thus, new technical solutions are needed. One new feature is active optics, used e.g. in the ESO 3.5 metre NTT telescope (New Technology Telescope) at La Silla, Chile. The mirror is very thin, but its shape is kept exactly correct by a computer controlled support mechanism. The weight and production cost of such a mirror are much smaller compared with a conventional thick mirror. Because of the smaller weight also the supporting structure can be made lighter. Developing the support mechanism further leads to adaptive optics. A reference star (or an artificial beam) is monitored constantly in order to obtain the shape of the seeing disk. The shape of the main mirror or a smaller auxiliary mirror is adjusted up to hundreds of times a second to keep the image as concentrated as possible. Adaptive optics has been taken into use in the largest telescopes of the world from about the year 2000 on.
+
+The mirrors of large telescopes need not be monolithic, but can be made of smaller pieces that are, e.g. hexagonal. These mosaic mirrors are very light and can be used to build up mirrors with diameters of several tens of metres (Fig. 3.19). Using active optics, the hexagons can be accurately focussed. The California Association for Research in Astronomy has constructed the William M. Keck telescope with a 10m mosaic mirror. It is located on Mauna Kea, and the last segment was installed in 1992. A second, similar telescope Keck II was completed in 1996, the pair forming a huge binocular telescope. The reflecting surface does not have to be continuous, but can consist of several separate mirrors. Such a telescope was operating on Mount Hopkins, Arizona, in 1979–1999. It was the Multiple-Mirror Telescope (MMT) with six 1.8m mirrors together corresponding to a single mirror having a diameter of 4.5m. In 2000 the six mirrors were replaced by one 6.5m mirror. The European Southern Observatory has constructed its own multi-mirror telescope. ESO’s Very Large Telescope (VLT) has four closely located mirrors (Fig. 3.18). The diameter of each mirror is eight metres, and the total area corresponds to one telescope with a 16m mirror. The resolution is even better, since the “aperture”, i.e. the maximum distance between the mirrors, is several tens of meters.
+
+An important astronomical instrument of the 20th century is the Hubble Space Telescope, launched in 1990 (Fig. 3.20). It has a mirror with a diameter of 2.4m. The resolution of the telescope (after the faulty optics was corrected) is near the theoretical diffraction limit, since there is no disturbing atmosphere. A second generation Space Telescope, now called the James Webb Space Telescope, with a mirror of about 6.5m is planned to be launched in about 2011. The Hubble Space Telescope was the first large optical telescope in Earth orbit. In the future, satellites will continue to be mainly used for those wavelength regions where the radiation is absorbed by the atmosphere. Due to budgetary reasons, the majority of astronomical observations will still be carried out on the Earth, and great attention will be given to improving ground-based observatories and detectors.
+
+Only a limited amount of information can be obtained by looking through a telescope with the unaided eye. Until the end of the 19th century this was the only way to make observations. The invention of photography in the middle of the 19th century brought a revolution in astronomy. The next important step forward in optical astronomy was the development of photoelectric photometry in the 1940’s and 1950’s. A new revolution, comparable to that caused by the invention of photography, took place in the middle of the 1970’s with the introduction of different semiconductor detectors. The sensitivity of detectors has grown so much that today, a 60cm telescope can be used for observations similar to those made with the Palomar 5m telescope when it was set in operation in the 1940’s. The Photographic Plate. Photography has long been one of the most common methods of observation in astronomy. In astronomical photography glass plates were used, rather than film, since they keep their shape better, but nowadays they are no more manufactured, and CCD-cameras have largely replaced photography. The sensitive layer on the surface of the film or plate can be used, e.g. for measuring the positions of stars (positional astronomy).
+
+d is made up of a silver halide, usually silver bromide, for mapping the sky.
+
+AgBr. A photon absorbed by the halide excites an electron that can move from one atom to another. A silver ion, Ag+, can catch the electron, becoming a neutral atom. When the necessary amount of silver atoms have been accumulated at one place, they form a latent image. The latent image can be made into a permanent negative by treating the plate after exposure with various chemicals, which transform the silver bromide crystals enclosing the latent image into silver (“development”), and remove the unexposed crystals (“fixing”).
+
+The photographic plate has many advantages over the human eye. The plate can register up to millions of stars (picture elements) at one time, while the eye can observe at most one or two objects at a time. The image on a plate is practically permanent – the picture can be studied at any time. In addition, the photographic plate is cheap and easy to use, as compared to many other detectors. The most important feature of a plate is its capability to collect light over an extended time: the longer exposures are used, the more silver atoms are formed on the plate (the plate darkens). By increasing the exposure times, fainter objects can be photographed. The eye has no such capacity: if a faint object does not show through a telescope, it cannot be seen, no matter how long one stares.
+
+One disadvantage of the photographic plate is its low sensitivity. Only one photon in a thousand causes a reaction leading to the formation of a silver grain. Thus the quantum efficiency of the plate is only 0.1%. Several chemical treatments can be used to sensitize the plate before exposure. This brings the quantum efficiency up to a few percent. Another disadvantage is the fact that a silver bromide crystal that has been exposed once does not register anything more, i.e. a saturation point is reached. On the other hand, a certain number of photons are needed to produce an image. Doubling the number of photons does not necessarily double the density (the ‘blackness’ of the image): the density of the plate depends nonlinearly on the amount of incoming light. The sensitivity of the plate is also strongly dependent on the wavelength of the light. For the reasons mentioned above the accuracy with which brightness can be measured on a photographic plate is usually worse than about 5%. Thus the photographic plate makes a poor detector.
+
+Photocathodes, Photomultipliers. A photocathode is a more effective detector than the photographic plate. It is based on the photoelectric effect. A light quantum, or photon, hits the photocathode and loosens an electron. The electron moves to the positive electrode, or anode, and gives rise to an electric current that can be measured. The quantum efficiency of a photocathode is about 10–20 times better than that of a photographic plate; optimally, an efficiency of 30% can be reached. A photocathode is also a linear detector: if the number of electrons is doubled, the outcoming current is also doubled.
+
+The photomultiplier is one of the most important applications of the photocathode. In this device, the electrons leaving the photocathode hit a dynode. For each electron hitting the dynode, several others are released. When there are several dynodes in a row, the original weak current can be intensified a millionfold. The photomultiplier measures all the light entering it, but does not form an image. Photomultipliers are mostly used in photometry, and an accuracy of 0.1–1% can be attained.
+
+Photometers, Polarimeters. A detector measuring brightness, a photometer, is usually located behind the telescope in the Cassegrain focus. In the focal plane there is a small hole, the diaphragm, which lets through light from the object under observation. In this way, light from other stars in the field of view can be prevented from entering the photometer. A field lens behind the diaphragm refracts the light rays onto a photocathode. The outcoming current is intensified further in a preamplifier. The photomultiplier needs a voltage of 1000–1500 volts.
+
+Observations are often made in a certain wavelength interval, instead of measuring all the radiation entering the detector. In this case a filter is used to prevent other wavelengths from reaching the photomultiplier. A photometer can also consist of several photomultipliers (Fig. 3.21), which measure simultaneously different wavelength bands. In such an instrument beam splitters or semitransparent mirrors split the light beam through fixed filters to the photomultipliers.
+
+In a device called the photopolarimeter, a polarizing filter is used, either alone or in combination with other filters. The degree and direction of polarization can be found by measuring the intensity of the radiation with different orientations of the polarizers.
+
+In practice, the diaphragm of a photometer will always also let through part of the background sky around the observed object. The measured brightness is in reality the combined brightness of the object and the sky. In order to find the brightness of the object, the background brightness must be measured separately and subtracted from the combined brightness. The accuracy of the measurements is decreased if long observation times are used and the background brightness undergoes fast changes. The problem can be solved by observing the brightness of the background sky and the object simultaneously.
+
+Photometric observations are often relative. If one is observing, e.g. a variable star, a reference star close to the actual target is observed at regular intervals. Using the observations of this reference star it is possible to derive a model for the slow changes in the atmospheric extinction (see Chap. 4) and remove their effect. The instrument can be calibrated by observing some standard stars, whose brightness is known very accurately.
+
+Image Intensifiers. Different image intensifiers based on the photocathode have been used since the 1960’s. In the intensifier the information about the starting point of the electron on the photocathode is preserved and the intensified image is formed on a fluorescent screen. The image can then be registered, e.g. with a CCD camera. One of the advantages of the image intensifier is that even faint objects can be imaged using relatively short exposures, and observations can be made at wavelengths where the detector is insensitive.
+
+Another common type of detector is based on the TV camera (Vidicon camera). The electrons released from the photocathode are accelerated with a voltage of a few kilovolts before they hit the electrode where they form an image in the form of an electric charge distribution. After exposure, the charge at different points of the electrode is read by scanning its surface with an electron beam row by row. This produces a video signal, which can be transformed into a visible image on a TV tube. The information can also be saved in digital form. In the most advanced systems, the scintillations caused by single electrons on the fluorescent screen of the image intensifier can be registered and stored in the memory of a computer. For each point in the image there is a memory location, called a picture element or pixel.
+
+Since the middle of the 1970’s, detectors using semiconductor techniques began to be used in increasing numbers. With semiconductor detectors a quantum efficiency of about 70–80% can be attained; thus, sensitivity cannot be improved much more. The wavelength regions suitable for these new detectors are much wider than in the case of the photographic plate. The detectors are also linear. Computers are used for collecting, saving and analyzing the output data available in digital form.
+
+CCD Camera. The most important new detector is the CCD camera (Charge Coupled Device). The detector consists of a surface made up of light sensitive silicon diodes, arranged in a rectangular array of image elements or pixels. The largest cameras can have as many as 4096×4096 pixels, although most are considerably smaller.
+
+A photon hitting the detector can release an electron, which will remain trapped inside a pixel. After the exposure varying potential differences are used to move the accumulated charges row by row to a readout buffer. In the buffer the charges are moved pixel by pixel to an analogy/digital converter, which transmits the digital value to a computer. Reading an image also clears the detector (Fig. 3.22). If the exposures are very short the readout times may take a substantial part of the observing time.
+
+The sensitivity of a CCD camera is much more sensitive than a photographic plate. The sensitivity is highest in the red wavelength range, about 600–800 nm, where the quantum efficiency can be 80–90% or even higher.
+
+The range of the camera extends far to the infrared. In the ultraviolet the sensitivity drops due to the absorption of the silicon very rapidly below about 500 nm. Two methods have been used to avoid this problem. One is to use a coating that absorbs the ultraviolet photons and emits light of longer wavelength. Another possibility is to turn the chip upside down and make it very thin to reduce the absorption.
+
+The thermal noise of the camera generates dark current even if the CCD相机在完全黑暗中工作。为了减少噪声，相机必须冷却。天文CCD相机通常使用液氮冷却，能有效去除大部分暗电流。然而，冷却相机时灵敏度也会降低，因此温度不能过低。必须保持恒定温度以获得一致的数据。对于业余爱好者，已有价格适中的电冷却CCD相机，许多即使在不需要极高灵敏度的情况下也足以用于科学工作。
+
+暗电流可以通过关闭快门拍摄曝光来测量。将此从观测图像中减去，即可得到因入射光而产生的真实电子数。
+
+单个像素的灵敏度可能略有不同。这可以通过拍摄均匀照明的场（如暮光天空）的图像来校正。该图像称为平场。当观测图像除以平场时，由不同像素引起的误差就被消除了。
+
+CCD相机非常稳定。因此，不需要非常频繁地重复暗电流和平场观测。通常这些校准曝光在傍晚和黎明时进行，就在实际观测之前和之后。
+
+宇宙射线是可以在CCD图像中产生额外亮斑的带电粒子。它们通常只限于一两个像素，很容易识别。通常，几分钟的短曝光中会有少量宇宙射线痕迹。与其进行单次长曝光，通常更好的做法是进行多次短曝光，在计算机上清理图像中的宇宙射线，然后叠加图像。
+
+一个更严重的问题是电子设备的读出噪声。在早期的相机中，每个像素的读出噪声可能高达几百个电子。在现代相机中，只有几个电子。这给出了可探测的最弱信号的极限：如果信号弱于读出噪声，它就无法与噪声区分开来。
+
+尽管CCD相机是非常灵敏的探测器，即使强光也不会损坏它。另一方面，光电倍增管如果进光过多则很容易损坏。然而，一个像素只能存储一定数量的电子，之后就会饱和。过度饱和会导致电荷溢出到相邻像素。如果相机严重饱和，可能需要多次读出才能完全清除电荷。
+
+最大的CCD相机相当昂贵，即使如此，与照相底片和胶片相比，它们仍然相当小。因此，摄影在记录延展天体方面仍有一定用途。
+
+光谱仪。最简单的光谱仪是放置在望远镜前面的棱镜。这种设备称为物镜棱镜光谱仪。棱镜将光的不同波长展开成可以记录的光谱。在曝光期间，望远镜通常垂直于光谱轻微移动，以增加光谱的宽度。使用物镜棱镜光谱仪，可以拍摄大量光谱，例如用于光谱分类。
+
+为了获得更精确的信息，必须使用狭缝光谱仪。它在望远镜的焦平面上有一个狭窄的狭缝。光线通过狭缝引导到准直镜，准直镜将所有光线反射或折射成平行光束。之后，光线通过棱镜色散成光谱，并用相机聚焦到探测器上，如今通常是CCD相机。比较光谱与恒星光谱一起曝光，以确定精确波长。在现代使用CCD相机的光谱仪中，比较光谱通常作为单独的图像曝光。大型狭缝光谱仪通常放置在库德或内斯密斯焦点。
+
+可以用衍射光栅代替棱镜来形成光谱。光栅有狭窄的凹槽，并排放置，通常每毫米几百条。当光被凹槽壁反射时，相邻光线相互干涉，产生不同级次的光谱。光栅有两种：反射光栅和透射光栅。在反射光栅中，没有光被玻璃吸收，不像棱镜或透射光栅。光栅通常具有更高的色散能力，或者展开光谱的能力，比棱镜更强。在狭缝光谱仪中，反射光栅最常用。
+
+干涉仪。大型望远镜的分辨率实际上受视宁度限制，因此增加口径并不一定能提高分辨率。为了接近衍射所设的理论分辨率极限，可以使用不同的干涉仪。
+
+有两种类型的光学干涉仪。一种使用现有的大望远镜；另一种使用两个或更多独立的望远镜系统。在这两种情况下，光线都被允许发生干涉。通过分析输出的干涉图案，可以研究密近双星的结构，测量恒星的视角直径等。
+
+最早的干涉仪之一是米歇尔逊干涉仪，于1920年前为当时最大的望远镜建造。在望远镜前面，六米长梁的两端装有将光反射到望远镜的平面镜。当镜子之间的距离变化时，干涉图案的形状也会改变。在实践中，干涉图案受到视宁度的干扰，该仪器只得到了一些积极的结果。
+
+超过30颗最亮恒星的直径已使用强度干涉仪测量。该装置由两个可以相互移动的独立望远镜组成。这种方法仅适用于最亮的天体。
+
+1970年，法国人安托万·拉贝里引入了斑点干涉测量法的原理。在传统成像中，长时间曝光的图片由大量瞬时图像“斑点”组成，这些斑点共同形成了视宁度盘。在斑点干涉测量中，使用极短曝光和大幅放大，拍摄数百张图片。当这些图片组合并分析（通常以数字形式）时，可以接近达到望远镜的实际分辨率。
+
+干涉测量技术的准确性在21世纪初得到提高。首次尝试将两台10米凯克望远镜用作一台干涉仪是在2001年。同样，欧洲南方天文台的甚大望远镜也将用作干涉仪。
+
+射电望远镜。射电天文学代表了一个相对新的天文学分支。它覆盖的频率范围从几兆赫（100米）到大约300 GHz（1毫米），从而将可观测的电磁谱扩展了许多个数量级。射电波段的低频极限由电离层的不透明度决定，而高频极限则是由于下层大气中氧气和水蒸气带的强烈吸收。这两个极限都不是非常严格，在有利条件下，射电天文学家可以在亚毫米区域工作，或者在太阳黑子极小期通过电离层空洞工作。
+
+20世纪初，人们尝试观测来自太阳的射电辐射。然而，这些实验失败了，原因是天线-接收机系统灵敏度低，以及在大多数实验进行的低频率下电离层的不透明性。首次宇宙射电辐射的观测是后来由美国工程师卡尔·G·詹斯基在1932年进行的，当时他正在研究20.5 MHz（14.6米）频率的雷暴无线电干扰。他发现了未知来源的射电辐射，其在24小时周期内变化。不久之后，他确定了该辐射源的方向是银河系中心。
+
+射电天文学的真正诞生可能要追溯到20世纪30年代末，当时格罗特·雷伯用他自制的9.5米抛物面天线开始了系统性的观测。此后，射电天文学发展相当迅速，极大地增进了我们对宇宙的了解。
+
+观测既在连续谱（宽带）中进行，也在谱线（射电光谱学）中进行。我们关于银河系结构的许多知识来自对中性氢21厘米线的射电观测，以及最近对碳一氧化物分子2.6毫米线的射电观测。射电天文学促成了许多重要发现；例如，脉冲星和类星体都是首次通过射电天文观测发现的。该领域的重要性也可以从诺贝尔物理学奖最近两次授予射电天文学家这一事实中看出。
+
+射电望远镜在孔径或天线中收集辐射，然后将其转换为电信号，这种信号由称为辐射计的接收机处理。该信号随后被放大、检测和积分，输出记录在某些记录设备上，现在通常是计算机。因为接收到的信号非常微弱，必须使用灵敏的接收机。这些接收机通常被冷却以最小化噪声，否则噪声可能会掩盖来自源的信号。由于射电波是电磁辐射，它们像普通光波一样被反射和折射。在射电天文学中，天线表面可以是金属网的形式。在高频下，表面必须是光滑的，在毫米-亚毫米范围，射电天文学家甚至使用大型光学望远镜，他们为其配备自己的辐射计。为了确保信号的相干放大，表面不规则性应小于所用波长的十分之一。
+
+射电望远镜与光学望远镜的主要区别在于信号的记录方式。
+
+However, mostly reflecting telescopes are used. Radio telescopes are not imaging telescopes (except for synthesis telescopes, which will be described later); instead, a feed horn, which is located at the antenna focus, transfers the signal to a receiver. The wavelength and phase information is, however, preserved.
+
+At low frequencies the antennas are usually dipoles (similar to those used for radio or TV), but in order to increase the collecting area and improve the resolution, one uses dipole arrays, where all dipole elements are connected to each other.
+
+The most common antenna type, however, is a parabolic reflector, which works exactly as an optical mirror telescope. At long wavelengths the reflecting surface does not need to be solid, because the long wavelength photons cannot see the holes in the reflector, and the antenna is therefore usually made in the form of a natural bowl.
+
+The resolving power of a radio telescope, θ, can be deduced from the same formula (3.4) as for optical telescopes, i.e. λ/D, where λ is the wavelength used and D is the diameter of the aperture. Since the wavelength ratio between radio and visible light is of the order of 10,000, radio antennas with diameters of several kilometres are needed in order to achieve the same resolution as for optical telescopes. In the early days of radio astronomy poor resolution was the biggest drawback for the development and recognition of radio astronomy. For example, the antenna used by Jansky had a fan beam with a resolution of about 30◦ in the narrower direction. Therefore radio observations could not be compared with optical observations. Neither was it possible to identify the radio sources with optical counterparts.
+
+The world’s biggest radio telescope is the Arecibo antenna in Puerto Rico, whose main reflector is fixed and built into a 305m diameter, natural round valley covered by a metal mesh (Fig.3.24). In the late 1970’s the antenna surface and receivers were upgraded, enabling the antenna to be used down to wavelengths of 5cm. The mirror of the Arecibo telescope is not parabolic but spherical, and the antenna is equipped with a movable feed system, which makes observations possible within a 20◦ radius around the zenith.
+
+The biggest completely steerable radio telescope is the Green Bank telescope in Virginia, U.S.A., dedicated at the end of 2000. It is slightly asymmetric with a diameter of 100×110m (Fig.3.25). Before the Green Bank telescope, for over two decades the largest telescope was the Effelsberg telescope in Germany. This antenna has a parabolic main reflector with a diameter of 100m. The inner 80m of the dish is made of solid aluminium panels, while the outmost portion of the disk is a metal mesh structure. By using only the inner portion of the telescope, it has been possible to observe down to wavelengths of 4mm. The oldest and perhaps best-known big radio telescope is the 76m antenna at Jodrell Bank in Britain, which was completed in the end of the 1950’s.
+
+The biggest telescopes are usually incapable of operating below wavelengths of 1cm, because the surface cannot be made accurate enough. However, the millimetre range has become more and more important. In this wavelength range there are many transitions of interstellar molecules, and one can achieve quite high angular resolution even with a single dish telescope. At present, the typical size of a mirror of a millimetre telescope is about 15m. The development of this field is rapid, and at present several big millimetre telescopes are in operation (Table C.24). Among them are the 40m Nobeyama telescope in Japan, which can be used down to 3mm, the 30m IRAM telescope at Pico Veleta in Spain, which is usable down to 1mm, and the 15m UK James Clerk Maxwell Telescope on Mauna Kea, Hawaii, operating down to 0.5mm (Fig.3.26). The largest project in the first decade of the 21st century is ALMA (Atacama Large Millimetre Array), which comprises of 50 telescopes with a diameter of 12m (Fig.3.27). It will be built as an international project by the United States, Europe and Japan.
+
+As already mentioned, the resolving power of a radio telescope is far poorer than that of an optical telescope. The biggest radio telescopes can at present reach a resolution of 5 arcseconds, and that only at the very highest frequencies. To improve the resolution by increasing the size is difficult, because the present telescopes are already close to the practical upper limit. However, by combining radio telescopes and interferometers, it is possible to achieve even better resolution than with optical telescopes.
+
+As early as 1891 Michelson used an interferometer for astronomical purposes. While the use of interferometers has proved to be quite difficult in the optical wavelength regime, interferometers are extremely useful in the radio region. To form an interferometer, one needs at least two antennas coupled together. The spacing between the antennas, D, is called the baseline. Let us first assume that the baseline is perpendicular to the line of sight (Fig.3.28). Then the radiation arrives at both antennas with the same phase, and the summed signal shows a maximum. However, due to the rotation of the Earth, the direction of the baseline changes, producing a phase difference between the two signals. The result is a sinusoidal interference pattern, in which minima occur when the phase difference is 180 degrees. The distance between the peaks is given by θD=λ, where θ is the angle the baseline has turned and λ is the wavelength of the received signal. The resolution of the interferometer is thus equal to that of an antenna with a linear size equal to D.
+
+If the source is not a point source, the radiation emitted from different parts of the source will have phase differences when it enters the antennas. In this case the minima of the interference pattern will not be zero, but will have some positive value Pmin. If we denote the maximum value of the interference pattern by Pmax, the ratio (Pmax - Pmin) / (Pmax + Pmin) gives a measure of the source size (fringe visibility).
+
+More accurate information about the source structure can be obtained by changing the spacing between the antennas, i.e. by moving the antennas with respect to each other. If this is done, interferometry is transformed into a technique called aperture synthesis.
+
+The theory and techniques of aperture synthesis were developed by the British astronomer Sir Martin Ryle. In Fig.3.29 the principle of aperture synthesis is illustrated. If the telescopes are located on an east–west track, the spacing between them, projected onto the sky, will describe a circle or an ellipse, depending on the position of the source as the the Earth rotates around its axis. If one varies the distance between the telescopes, one will get a series of circles or ellipses on the sky during a 12hour interval. As we can see from Fig.3.29, one does not have to cover all the spacings between the telescopes, because any antenna combination which has the same relative distance will describe the same path on the sky. In this way one can synthesize an antenna, a filled aperture, with a size equal to the maximum spacing between the telescopes. Interferometers working according to this principle are called aperture synthesis telescopes. If one covers all the spacings up to the maximum baseline, the result will be an accurate map of the source over the primary beam of an individual antenna element. Aperture synthesis telescopes therefore produce an image of the sky, i.e. a “radio photograph”.
+
+A typical aperture synthesis telescope consists of one fixed telescope and a number of movable telescopes, usually located on an east–west track, although T or Y configurations are also quite common. The number of telescopes used determines how fast one can synthesize a larger disk, because the number of possible antenna combinations increases as n(n−1), where n is the number of telescopes. It is also possible to synthesize a large telescope with only one fixed and one movable telescope by changing the spacing between the telescopes every 12 hours, but then a full aperture synthesis can require several months of observing time.
+
+For this technique to work, the source must be constant, i.e. the signal cannot be time variable during the observing session. Spacings are available. Usually, however, several antenna elements are movable, in which case a full aperture synthesis can take a long time before all spacings are filled in.
+
+The most efficient aperture synthesis telescope at present is the VLA (Very Large Array) in New Mexico, USA (Fig. 3.30). It consists of 27 paraboloid antennas, each with a diameter of 25m, which are located on a Y-shaped track. The Y-formation was chosen because it provides a full aperture synthesis in 8 hours. Each antenna can be moved by a specially built carrier, and the locations of the telescopes are chosen to give optimal spacings for each configuration. In the largest configuration each arm is about 21km long, thereby resulting in an antenna with an effective diameter of 35km. If the VLA is used in its largest configuration and at its highest frequency, 23GHz (1.3cm), the resolution achieved is 0.1 arcsecond, clearly superior to any optical telescope. Similar resolution can also be obtained with the British MERLIN telescope, where already existing telescopes have been coupled together by radio links. Other well-known synthesis telescopes are the Cambridge 5km array in Britain and the Westerbork array in the Netherlands, both located on east–west tracks.
+
+Even higher resolution can be obtained with an extension of the aperture synthesis technique, called VLBI (Very Long Baseline Interferometry). With the VLBI technique the spacing between the antennas is restricted only by the size of the Earth. VLBI uses existing antennas (often on different continents), which are all pointed towards the same source. In this case the signal is recorded together with accurate timing signals from atomic clocks. The data files are correlated against each other, resulting in maps similar to those obtained with a normal aperture synthesis telescope. With VLBI techniques it is possible to achieve resolutions of 0.0001″. Because interferometry is very sensitive to the distance between the telescopes, the VLBI technique also provides one of the most accurate methods to measure distances. Currently one can measure distances with an accuracy of a few centimetres on intercontinental baselines. This is utilized in geodetic VLBI experiments, which study continental drift and polar motion as a and in the wires. An X-ray quantum entering the box ionizes the gas, and the potential difference between the anode and cathode gives rise to a current of electrons and positive ions.
+
+## 3.6 Other Forms of Energy
+
+In the near-ultraviolet, telescopes can be made similar to optical telescopes and, equipped with a photometer or spectrometer, installed in a satellite orbiting the Earth.
+
+The most effective satellites in the UV have been the European TD-1, the American Orbiting Astronomical Observatories OAO 2 and 3 (Copernicus), the International Ultraviolet Explorer IUE and the Soviet Astron. The instruments of the TD-1 satellite included both a photometer and a spectrometer. The satellite measured the magnitudes of over 30,000 stars in four different spectral regions between 135 and 274 nm, and registered UV spectra from over 1000 stars. The OAO satellites were also used to measure magnitudes and spectra, and OAO 3 worked for over eight years.
+
+The IUE satellite, launched in 1978, was one of the most successful astronomical satellites. IUE had a 45 cm Ritchey-Chrétien telescope with an aperture ratio of f/15 and a field of view of 16 arc minutes. The satellite had two spectrographs to measure spectra of higher or lower resolution in wavelength intervals of 115–200 nm or 190–320 nm. For registration of the spectra, a Vidicon camera was used. IUE worked on the orbit for 20 years.
+
+Infrared Radiation. Radiation with longer wavelengths than visible light is called infrared radiation. This region extends from about 1 micrometre to 1 millimetre, where the radio region begins. Sometimes the near-infrared, at wavelengths below 5 m, and the submillimetre domain, at wavelengths between 0.1 and 1 mm, are considered separate wavelength regions.
+
+In infrared observations radiation is collected by a telescope, as in the optical region. The incoming radiation consists of radiation from the object, from the background and from the telescope itself. Both the source and the background must be continually measured, the difference giving the radiation from the object. The background measurements are usually made with a Cassegrain secondary mirror oscillating between the source and the background at a rate of, say, 100 oscillations per second, and thus the changing background can be eliminated. To register the measurements, semiconductor detectors are used. The detector must always be cooled to minimize its own thermal radiation. Sometimes the whole telescope is cooled.
+
+Infrared observatories have been built on high mountaintops, where most of the atmospheric water vapour remains below. Some favourable sites are, e.g. Mauna Kea on Hawaii, Mount Lemon in Arizona and Pico del Teide on Tenerife. For observations in the far-infrared these mountains are not high enough; these observations are carried out, e.g. on aeroplanes. One of the best-equipped planes is the Kuiper Airborne Observatory, named after the well-known planetary scientist Gerard Kuiper.
+
+Balloons and satellites are also used for infrared observations. The most successful infrared observatories so far have been the InfraRed Astronomy Satellite IRAS, the European Infrared Space Observatory ISO, and the present-day Spitzer (originally SIRTF, Space InfraRed Telescope Facility). A very successful satellite was the 1989 launched COBE (Cosmic Background Explorer), which mapped the background radiation in submillimetre and infrared wavelengths. The Microwave Anisotropy Probe (MAP) has continued the work of COBE, starting in 2001.
+
+## 3.6 Other Forms of Energy
+
+Besides electromagnetic radiation, energy arrives from space in other forms: particles (cosmic rays, neutrinos) and gravitational radiation.
+
+Neutrinos. Neutrinos are elementary particles with no electric charge and a mass equal to zero or, at any rate, less than 1/10,000 of the mass of the electron. Most neutrinos are produced in nuclear reactions within stars; since they react very weakly with other matter, they escape directly from the stellar interior.
+
+Neutrinos are very difficult to observe; the first method of detection was the radiochemical method. As a reactive agent, e.g. tetrachloroethene (C₂Cl₄) can be used. When a neutrino hits a chlorine atom, the chlorine is transformed into argon, and an electron is freed:
+
+³⁷Cl + ν → ³⁷Ar + e⁻.
+
+The argon atom is radioactive and can be observed. Instead of chlorine, lithium and gallium might be used to detect neutrinos. The first gallium detectors have been running in Italy and Russia from the end of the 1980’s.
+
+Another observation method is based on the Čerenkov radiation produced by neutrinos in extremely pure water. The flashes of light are registered with photomultipliers, and thus it is possible to find out the direction of the radiation. This method is used e.g. in the Japanese Kamiokande detector.
+
+Neutrino detectors must be located deep under the ground to protect them from the secondary radiation caused by cosmic rays.
+
+The detectors have observed neutrinos from the Sun, and the Supernova 1987A in the Large Magellanic Cloud was also observed in 1987.
+
+Cosmic Rays. Cosmic rays, consisting of electrons and totally ionized nuclei of atoms, are received in equal amounts from all directions. Their incoming directions do not reveal their origin, since cosmic rays are electrically charged; thus their paths are continually changed when they move through the magnetic fields of the Milky Way. The high energies of cosmic rays mean that they have to be produced by high-energy phenomena like supernova explosions. The majority of cosmic rays are protons (nearly 90%) and helium nuclei (10%), but some are heavier nuclei; their energies lie between 10⁸ and 10²⁰ eV.
+
+The most energetic cosmic rays give rise to secondary radiation when they hit molecules of the atmosphere. This secondary radiation can be observed from the ground, but primary cosmic rays can only be directly observed outside the atmosphere. The detectors used to observe cosmic rays are similar to those used in particle physics. Since Earth-based accelerators reach energies of only about 10¹² eV, cosmic rays offer an excellent “natural” laboratory for particle physics. Many satellites and spacecraft have detectors for cosmic rays.
+
+Gravitational Radiation. Gravitational astronomy is as young as neutrino astronomy. The first attempts to measure gravitational waves were made in the 1960’s. Gravitational radiation is emitted by accelerating masses, just as electromagnetic radiation is emitted by electric charges in accelerated motion. Detection of gravitational waves is very difficult, and they have yet to be directly observed.
+
+The first type of gravitational wave antenna was the Weber cylinder. It is an aluminium cylinder which starts vibrating at its proper frequency when hit by a gravitational pulse. The distance between the ends of the cylinder changes by about 10⁻¹⁷ m, and the changes in the length are studied by strain sensors welded to the side of the cylinder.
+
+Another type of modern gravity radiation detectors measures “spatial strain” induced by gravity waves and consists of two sets of mirrors in directions perpendicular to each other (Michelson interferometer), or one set of parallel mirrors (Fabry–Perot interferometer). The relative distances between the mirrors are monitored by laser interferometers. If a gravity pulse passes the detector, the distances change and the changes can be measured. The longest baseline between the mirrors is in the American LIGO (Laser Interferometer Gravitational-wave Observatory) system, about 25 km. LIGO made the first scientific observations in 2002.
+
+*Diffraction by a Circular Aperture
+
+Consider a circular hole of radius R in the xy plane. Coherent light enters the hole from the direction of the negative z axis (see figure). We consider light rays leaving the hole parallel to the xz plane forming an angle θ with the z axis. The light waves interfere on a screen far away. The phase difference between a wave through a point (x,y) and a wave going through the centre of the hole can be calculated from the different path lengths s = x sin θ:
+
+δ = (2π/λ) s = (2π/λ) x sin θ ≡ k x.
+
+Since sine is an odd function (sin(−kx) = − sin(kx)), we get zero when we integrate the second term. Cosine is an even function, and so
+
+a ∝ ∫ from x=−R to x=R (R² − x²)^(1/2) cos(kx) dx.
+
+We substitute x = R t and define p = kR = (2πR sin θ)/λ, thus getting
+
+a ∝ ∫ from t=−1 to t=1 (1 − t²)^(1/2) cos(p t) dt.
+
+The zero points of the intensity observed on the screen are obtained from the zero points of the amplitude,
+
+J(p) = ∫ from t=−1 to t=1 (1 − t²)^(1/2) cos(p t) dt = 0.
+
+Inspecting the function J(p), we see that the first zero is at p = 3.8317, or
+
+(2πR sin θ)/λ = 3.8317.
+
+The radius of the diffraction disc in angular units can be estimated from the condition
+
+sin θ = 3.8317λ/(2πR) ≈ 1.22λ/D,
+
+Example 3.2 A telescope has an objective with a diameter of 90 mm and focal length of 1200 mm.
+
+a) What is the focal length of an eyepiece, the exit pupil of which is 6 mm (about the size of the pupil of the eye)?
+
+b) What is the magnification of such an eyepiece?
+
+c) What is the angular diameter of the Moon seen through this telescope and eyepiece?
+
+a) From Fig. 3.7 we get ere D=2R is the diameter of the hole. In mirror telescopes diffraction is caused also by the support structure of the secondary mirror. If the aperture is more complex and only elementary mathematics is used calculations may become rather cumbersome. However, it can be shown that the diffraction pattern can be obtained as the Fourier transform of the aperture.
+
+## 3.7 Examples
+
+Example 3.1 The distance between the components of the binary star ζ Herculis is 1.38″. What should the diameter of a telescope be to resolve the binary? If the focal length of the objective is 80cm, what should the focal length of the eyepiece be to resolve the components, when the resolution of the eye is 2′?
+
+In the optical region, we can use the wavelength value of λ≈550nm. The diameter of the objective is obtained from the equation for the resolution (3.4), D ≈ λ / θ = 550×10⁻⁹ / ((1.38/3600)×(π/180)) m = 0.08m = 8cm.
+
+The required magnification is ω = 2′ / 1.38″ = 87.
+
+The magnification is given by ω = f / f', and, thus, the focal length of the eyepiece should be f' = f / ω = 80cm / 87 = 0.9cm.
+
+b) The magnification is ω = f/f' = 1200mm / 80mm = 15.
+
+c) Assuming the angular diameter of the Moon is α=31′=0.52°, its diameter through the telescope is ωα=7.8°.
+
+## 3.8 Exercises
+
+Exercise 3.1 The Moon was photographed with a telescope, the objective of which had a diameter of 20cm and focal length of 150cm. The exposure time was 0.1s.
+
+a) What should the exposure time be, if the diameter of the objective were 15cm and focal length 200cm?
+
+b) What is the size of the image of the Moon in both cases?
+
+c) Both telescopes are used to look at the Moon with an eyepiece the focal length of which is 25mm. What are the magnifications?
+
+Exercise 3.2 The radio telescopes at Amherst, Massachusetts, and Onsala, Sweden, are used as an interferometer, the baseline being 2900km.
+
+a) What is the resolution at 22GHz in the direction of the baseline?
+
+b) What should be the size of an optical telescope with the same resolution?
+
+## 4. Photometric Concepts and Magnitudes
+
+Most astronomical observations utilize electromagnetic radiation in one way or another. We can obtain information on the physical nature of a radiation source by studying the energy distribution of its radiation. We shall now introduce some basic concepts that characterize electromagnetic radiation.
+
+## 4.1 Intensity, Flux Density and Luminosity
+
+Let us assume we have some radiation passing through a surface element dA (Fig.4.1). Some of the radiation will leave dA within a solid angle dω; the angle between dω and the normal to the surface is denoted by θ. The amount of energy with frequency in the range [ν, ν+dν] entering this solid angle in time dt is dEν = Iν cosθ dA dν dω dt. (4.1)
+
+Here, the coefficient Iν is the specific intensity of the radiation at the frequency ν in the direction of the solid angle dω. Its dimension is W m⁻² Hz⁻¹ sterad⁻¹.
+
+When we are observing a radiation source, we in fact measure the energy collected by the detector during some period of time, which equals the flux density integrated over the radiation-collecting area of the instrument and the time interval.
+
+The flux density Fν at a frequency ν can be expressed in terms of the intensity as Fν = ∫ dEν / (dA dν dt) = ∫_S Iν cosθ dω, (4.2)
+
+where the integration is extended over all possible directions. Analogously, the total flux density is F = ∫_S I cosθ dω.
+
+For example, if the radiation is isotropic, i.e. if I is independent of the direction, we get F = ∫_S I cosθ dω = I ∫_S cosθ dω. (4.3)
+
+The solid angle element dω is equal to a surface element on a unit sphere. In spherical coordinates it is (Fig.4.2; also c.f. Appendix A.5): dω = sinθ dθ dφ.
+
+Substitution into (4.3) gives F = I ∫_{θ=0}^{π} ∫_{φ=0}^{2π} cosθ sinθ dθ dφ = 0, so there is no net flux of radiation. This means that there are equal amounts of radiation entering and leaving the surface. If we want to know the amount of radiation passing through the surface, we can find, for example, the radiation leaving the surface. For isotropic radiation this is F_l = I ∫_{θ=0}^{π/2} ∫_{φ=0}^{2π} cosθ sinθ dθ dφ = π I. (4.4)
+
+The projection of the surface element dA as seen from the direction θ is dA cosθ, which explains the factor cosθ. If the intensity does not depend on direction, the energy dEν is directly proportional to the surface element perpendicular to the direction of the radiation.
+
+The intensity including all possible frequencies is called the total intensity I, and is obtained by integrating Iν over all frequencies: I = ∫_0^∞ Iν dν.
+
+More important quantities from the observational point of view are the energy flux (Lν, L) or, briefly, the flux and the flux density (Fν, F). The flux density gives the power of radiation per unit area; hence its dimension is W m⁻² Hz⁻¹ or W m⁻², depending on whether we are talking about the flux density at a certain frequency or about the total flux density.
+
+Observed flux densities are usually rather small, and W m⁻² would be an inconveniently large unit. Therefore, especially in radio astronomy, flux densities are often expressed in Janskys; one Jansky (Jy) equals 10⁻²⁶ W m⁻² Hz⁻¹.
+
+The surface brightness is the flux density per unit solid angle (Fig.4.4). Now the observer is at the apex of the solid angle. The surface brightness is independent of distance, which can be understood in the following way. The flux density arriving from an area A is inversely proportional to the distance squared. But also the solid angle subtended by the area A is proportional to 1/r² (ω= A/r²). Thus the surface brightness B=F/ω remains constant.
+
+If the source (like a typical star) radiates isotropically, its radiation at a distance r is distributed evenly on a spherical surface whose area is 4πr² (Fig.4.3). If the flux density of the radiation passing through this surface is F, the total flux is L = 4π r² F. (4.5)
+
+In the astronomical literature, terms such as intensity and brightness are used rather vaguely. Flux density is hardly ever called flux density but intensity or (with luck) flux. Therefore the reader should always carefully check the meaning of these terms.
+
+Flux means the power going through some surface, expressed in watts. The flux emitted by a star into a solid angle ω is L=ω r² F, where F is the flux density observed at a distance r. Total flux is the flux passing through a closed surface encompassing the source. Astronomers usually call the total flux of a star the luminosity L. We can also talk about the luminosity Lν at a frequency ν ([Lν] = W Hz⁻¹). (This must not be confused with the luminous flux used in physics; the latter takes into account the sensitivity of the eye.)
+
+If we are outside the source, where radiation is not created or destroyed, the luminosity does not depend on distance. The flux density, on the other hand, falls off proportional to 1/r².
+
+For extended objects (as opposed to objects such as stars visible only as points) we can define the surface brightness as the flux density per unit solid angle (Fig.4.4). Now the observer is at the apex of the solid angle. The surface brightness is independent of distance, which can be understood in the following way. The flux density arriving from an area A is inversely proportional to the distance squared. But also the solid angle subtended by the area A is proportional to 1/r² (ω= A/r²). Thus the surface brightness B=F/ω remains constant.
+
+The energy density u of radiation is the amount of energy per unit volume (J m⁻³): u = ∫ I dω / c. (4.6)
+
+The energy density u of the radiation arriving from the solid angle dω is du = dE / dV = I dω / c, and the total energy density is obtained by integrating this over all directions. For isotropic radiation we get u = (4π / c) I. (4.7)
+
+## 4.2 Apparent Magnitudes
+
+As early as the second century B.C., Hipparchos divided the visible stars into six classes according to their apparent brightness. The first class contained the brightest stars and the sixth the faintest ones still visible to the naked eye.
+
+The response of the human eye to the brightness of light is not linear. If the flux densities of three stars are in the proportion 1:10:100, the brightness difference of the first and second star seems to be equal to the difference of the second and third star. Equal brightness ratios correspond to equal apparent brightness differences: the human perception of brightness is logarithmic.
+
+The rather vague classification of Hipparchos was replaced in 1856 by Norman R. Pogson. The new, more accurate classification followed the old one as closely as possible, resulting in another of those illogical definitions typical of astronomy. Since a star of the first class is about one hundred times brighter than a star of the sixth class, Pogson defined the ratio of the brightnesses of classes n and n+1 as √(100) = 2.512.
+
+The brightness class or magnitude can be defined accurately in terms of the observed flux density F ([F] = W m⁻²). We decide that the magnitude 0 corresponds to some preselected flux density F₀. All other magnitudes are then defined by the equation
+
+## 4.3 Magnitude Systems
+
+The apparent magnitude m, which we have just defined, depends on the instrument we use to measure it. The sensitivity of the detector is different at different wavelengths. Also, different instruments detect different wavelength ranges. Thus the flux measured by the instrument equals not the total flux, but only a fraction of it. Depending on the method of observation, we can define various magnitude systems. Different magnitudes have different zero points.
+
+s, i.e. they have different flux densities F corresponding to the magnitude 0. The zero points F0 m = -2.5 lg . (4.8) are usually defined by a few selected standard stars. In daylight the human eye is most sensitive to radiation with a wavelength of about 550 nm, the sensitivity decreasing towards red (longer wavelengths) and violet (shorter wavelengths). Note that the coefficient is exactly 2.5, not 2.512! Magnitudes are dimensionless quantities, but to remind us that a certain value is a magnitude, we can write it, for example, as 5 mag or 5 m. The magnitude corresponding to the sensitivity of the eye is called the visual magnitude m. It is easy to see that (4.8) is equivalent to Pogson’s definition. If the magnitudes of two stars are m and m+1 and their flux densities Fm and Fm+1, respectively, we have m−(m+1)=−2.5lg Fm F0 +2.5lg Fm+1 F0 =−2.5lg Fm Fm+1 , whence Fm Fm+1 = 5100. Photographic plates are usually most sensitive at blue and violet wavelengths, but they are also able to register radiation not visible to the human eye. Thus the photographic magnitude mpg usually differs from the visual magnitude. The sensitivity of the eye can be simulated by using a yellow filter and plates sensitised to yellow and green light. Magnitudes thus observed are called photovisual magnitudes mpv. In the same way we can show that the magnitudes m1 and m2 of two stars and the corresponding flux densities F1 and F2 are related by m1 −m2 =−2.5lg F1 F2 . (4.9) If, in ideal case, we were able to measure the radiation at all wavelengths, we would get the bolometric magnitude mbol. In practice this is very difficult, since part of the radiation is absorbed by the atmosphere; also, different wavelengths require different detectors. (In fact there is a gadget called the bolometer, which, however, is not a real bolometer but an infrared detector.) The bolometric magnitude can be derived from the visual magnitude if we know the bolometric correction BC: mbol = mv − BC. (4.10) By definition, the bolometric correction is zero for radiation of solar type stars (or, more precisely, stars of the spectral class F5). Although the visual and bolometric magnitudes can be equal, the flux density corresponding to the bolometric magnitude must always be higher. The reason of this apparent contradiction is in the different values of F0. The more the radiation distribution differs from that of the Sun, the higher the bolometric correction is. The correction is positive for stars both cooler or hotter than the Sun. Sometimes the correction is defined as mbol = mv + BC in which case BC ≤ 0 always. The chance for errors is, however, very small, since we must have mbol ≤ mv. Magnitudes extend both ways from the original six values. The magnitude of the brightest star, Sirius, is in fact negative -1.5. The magnitude of the Sun is -26.8 and that of a full moon -12.5. The magnitude of the faintest objects observed depends on the size of the telescope.
+
+## 4.3 Magnitude Systems
+
+The most accurate magnitude measurements are made using photoelectric photometers. Usually filters are used to allow only a certain wavelength band to enter the detector. One of the multicolour magnitude systems used widely in photoelectric photometry is the UBV system developed in the early 1950’s by Harold L. Johnson and William W. Morgan. Magnitudes are measured through three filters, U=ultraviolet, B=blue and V=visual. Figure 4.6 and Table 4.1 give the wavelength bands of these filters. The magnitudes observed through these filters are called U, B and V magnitudes, respectively.
+
+The UBV system was later augmented by adding more bands. One commonly used system is the five colour UBVRI system, which includes R=red and I=infrared filters. There are also other broad band systems, but they are not as well standardised as the UBV, which has been defined moderately well using a great number of standard stars all over the sky. The magnitude of an object is obtained by comparing it to the magnitudes of standard stars.
+
+In Strömgren’s four-colour or uvby system, the bands passed by the filters are much narrower than in the UBV system. The uvby system is also well standardized, but it is not quite as common as the UBV. Other narrow band systems exist as well. By adding more filters, more information on the radiation distribution can be obtained.
+
+In any multicolour system, we can define colour indices; a colour index is the difference of two magnitudes. By subtracting the B magnitude from U we get the colour index U−B, and so on. If the UBV system is used, it is common to give only the V magnitude and the colour indices U−B and B−V.
+
+The constants F0 in (4.8) for U, B and V magnitudes have been selected in such a way that the colour indices B−V and U−B are zero for stars of spectral type A0 (for spectral types, see Chap. 8). The surface temperature of such a star is about 10,000 K. For example, Vega (α Lyr, spectral class A0V) has V = 0.03, B−V = U−B = 0.00. The Sun has V = −26.8, B−V = 0.62 and U−B = 0.10.
+
+Before the UBV system was developed, a colour index C.I., defined as C.I. = mpg − mv, was used. Since mpg gives the magnitude in blue and mv in visual, this index is related to B−V. In fact, C.I. = (B−V) − 0.11.
+
+Table 4.1. Wavelength bands of the UBVRI and uvby filters and their effective (≈ average) wavelengths | Magnitude | Bandwidth [nm] | Effective wavelength [nm] | |-----------|----------------|--------------------------| | U         | ultraviolet    | 66                       | 367          | | B         | blue           | 94                       | 436          | | V         | visual         | 88                       | 545          | | R         | red            | 138                      | 638          | | I         | infrared       | 149                      | 797          | | u         | ultraviolet    | 30                       | 349          | | v         | violet         | 19                       | 411          | | b         | blue           | 18                       | 467          | | y         | yellow         | 23                       | 547          |
+
+Fig. 4.6. Relative transmission profiles of filters used in the UBVRI magnitude system. The maxima of the bands are normalized to unity. The R and I bands are based on the system of Johnson, Cousins and Glass, which includes also infrared bands J, H, K, L and M. Previously used R and I bands differ considerably from these.
+
+## 4. Photometric Concepts and Magnitudes
+
+## 4.4 Absolute Magnitudes
+
+Thus far we have discussed only apparent magnitudes. They do not tell us anything about the true brightness of stars, since the distances differ. A quantity measuring the intrinsic brightness of a star is the absolute magnitude. It is defined as the apparent magnitude at a distance of 10 parsecs from the star (Fig. 4.7).
+
+We shall now derive an equation which relates the apparent magnitude m, the absolute magnitude M and the distance r. Because the flux emanating from a star into a solid angle ω has, at a distance r, spread over an area ωr2, the flux density is inversely proportional to the distance squared. Therefore the ratio of the flux density at a distance r, F(r), to the flux density at a distance of 10 parsecs, F(10), is
+
+F(r)/F(10) = (10 pc / r)^2 .
+
+Thus the difference of magnitudes at r and 10 pc, or the distance modulus m−M, is
+
+m−M = -2.5 lg (F(r)/F(10)) = -2.5 lg ((10 pc / r)^2) ,
+
+or
+
+m−M = 5 lg (r / 10 pc) . (4.11)
+
+For historical reasons, this equation is almost always written as
+
+m−M = 5 lg r − 5, (4.12)
+
+which is valid only if the distance is expressed in parsecs. (The logarithm of a dimensional quantity is, in fact, physically absurd.) Sometimes the distance is given in kiloparsecs or megaparsecs, which require different constant terms in (4.12). To avoid confusion, we highly recommend the form (4.11).
+
+Absolute magnitudes are usually denoted by capital letters. Note, however, that the U, B and V magnitudes are apparent magnitudes. The corresponding absolute magnitudes are MU, MB and MV.
+
+The absolute bolometric magnitude can be expressed in terms of the luminosity. Let the total flux density at a distance r = 10 pc be F and let F⊙ be the equivalent quantity for the Sun. Since the luminosity is L = 4πr^2 F, we get
+
+Mbol − Mbol,⊙ = -2.5 lg (F / F⊙) = -2.5 lg (L / 4πr^2 / (L⊙ / 4πr⊙^2)),
+
+or
+
+Mbol − Mbol,⊙ = -2.5 lg (L / L⊙) . (4.13)
+
+The absolute bolometric magnitude Mbol = 0 corresponds to a luminosity L = 3.0×10^28 W.
+
+## 4.5 Extinction and Optical Thickness
+
+Equation (4.11) shows how the apparent magnitude increases (and brightness decreases!) with increasing distance. If the space between the radiation source and the observer is not completely empty, but contains some interstellar medium, (4.11) no longer holds, because part of the radiation is absorbed by the medium (and usually re-emitted at a different wavelength, which may be outside the band defining the magnitude), or scattered away from the line of sight. All these radiation losses are called the extinction.
+
+Now we want to find out how the extinction depends on the distance. Assume we have a star radiating a flux L0 into a solid angle ω in some wavelength range. Since the medium absorbs and scatters radiation, the flux L will now decrease with increasing distance r (Fig. 4.8). In a short distance interval [r, r+dr], the extinction dL is proportional to the flux L and the distance travelled in the medium:
+
+dL = -α L dr. (4.14)
+
+The factor α tells how effectively the medium can obscure radiation. It is called the opacity. From (4.14) we see that its dimension is [α] = m^{-1}. The opacity is zero for a perfect vacuum and approaches infinity when the substance becomes really murky. We can now define a dimensionless quantity, the optical thickness τ by
+
+dτ = α dr. (4.15)
+
+Substituting this into (4.14) we get
+
+dL/L = - dτ,
+
+from the source (where L = L0) to the observer:
+
+∫ dL / L = - ∫ dτ,
+
+which gives
+
+L = L0 e^{-τ} . (4.16)
+
+Here, τ is the optical thickness of the material between the source and the observer and L, the observed flux. Now, the flux L falls off exponentially with increasing optical thickness. Empty space is perfectly transparent, i.e. its opacity is α = 0; thus the optical thickness does not increase in empty space, and the flux remains constant.
+
+Let F0 be the flux density on the surface of a star and F(r), the flux density at a distance r. We can express the fluxes as L = ωr^2 F(r), L0 = ωR^2 F0, where R is the radius of the star. Substitution into (4.16) gives
+
+F(r) = F0 (R^2 / r^2) e^{-τ} .
+
+For the absolute magnitude we need the flux density at a distance of 10 parsecs, F(10), which is still evaluated without extinction:
+
+F(10) = F0 (R^2 / (10 pc)^2) .
+
+The distance modulus m−M is now
+
+m−M = -2.5 lg (F(r) / F(10))
+
+= 5 lg (r / 10 pc) - 2.5 lg e^{-τ} = 5 lg (r / 10 pc) + (2.5 lg e) τ
+
+or
+
+m−M = 5 lg (r / 10 pc) + A, (4.17)
+
+where A ≥ 0 is the extinction in magnitudes due to the entire medium between the star and the observer. If the opacity is constant along the line of sight, we have
+
+τ = α r,
+
+where A is the extinction in magnitudes due to the entire medium between the star and the observer. If the opacity is constant along the line of sight, we have
+
+Fig. 4.7. The flux density at a distance of 10 parsecs from the star defines its absolute magnitude.
+
+Fig. 4.8. The interstellar medium absorbs and scatters radiation; this usually reduces the energy flux L in the solid angle ω (dL ≤ 0).
+
+## 4. Photometric Concepts and Magnitudes
+
+Atmospheric Extinction. As we mentioned in Sect. 3.1, the Earth’s atmosphere also causes extinction. The observed magnitude m depends on the location of 观测者与天体的天顶距，因为这些因素决定了光在大气中传播的距离。为了比较不同的观测结果，我们必须首先对其进行归算，即设法消除大气的影响。由此得到的星等m可以与其他观测结果进行比较。
+
+公式(4.17)变为 m - M = 5 lg r + a r, (4.18)
+
+其中常数a = 2.5α lg e给出了单位距离上的星等消光值。
+
+**色余** 星际介质引起的另一个效应是星光的红化：蓝光比红光更容易被散射和吸收。因此色指数B - V增大。根据(4.17)，恒星的视星等为 V = M_V + 5 lg r / (10 pc) + A_V, (4.19)
+
+其中M_V是绝对目视星等，A_V是V波段的消光。类似地，对于蓝星等，有 B = M_B + 5 lg r / (10 pc) + A_B。
+
+观测到的色指数现在为 B - V = (M_B - M_V) + (A_B - A_V)， 或者 B - V = (B - V)_0 + E_{B-V}, (4.20)
+
+其中(B - V)_0 = M_B - M_V是恒星的本征色，E_{B-V} = (B - V) - (B - V)_0是色余。对星际介质的研究表明，对于所有恒星，目视消光A_V与色余E_{B-V}的比值几乎是常数： R = A_V / E_{B-V} ≈ 3.0。
+
+这使得如果已知色余，就可以求出目视消光： A_V ≈ 3.0 E_{B-V}. (4.21)
+
+当A_V已知时，如果知道V和M_V，就可以直接从(4.19)式求解距离。
+
+我们将在第15.1节（“星际尘埃”）中更详细地研究星际消光。
+
+**4.6 示例** 如果天顶距z不太大，我们可以将大气近似为一个厚度恒定的平面层（图4.9）。如果以大气的厚度为单位，则光线必须传播的距离为 X = 1 / cos z = sec z (4.22)
+
+在大气中。量X称为气团数。根据(4.18)，星等随距离X线性增加： m = m_0 + kX, (4.23)
+
+其中k是消光系数。
+
+消光系数可以通过在同一晚上以尽可能宽的天顶距范围多次观测同一光源来确定。将观测星等作为气团数X的函数绘制在图上。这些点位于一条直线上，其斜率即给出消光系数k。将这条线外推至X = 0，我们得到星等m_0，即大气外的视星等。
+
+在实践中，天顶距高于70°（或仰角低于20°）的观测不用于确定k和m_0，因为在低仰角处，大气的曲率开始使问题复杂化。消光系数k的值取决于观测地点和时间，也取决于波长，因为消光向短波长方向显著增加。
+
+**示例4.1 证明强度与距离无关** 假设有一些辐射从表面元dA以θ方向射出。在时间dt内进入立体角dω的能量为 dE = I cosθ dA dω dt， 其中I是强度。如果我们在距离r处有另一个表面元dA'，从方向θ'接收这个辐射，我们有 dω = dA' cosθ' / r²。
+
+强度的定义给出 dE = I' cosθ' dA' dω' dt， 其中I'是dA'处的强度，且 dω' = dA cosθ / r²。
+
+将dω和dω'代入dE的表达式，得到 dA' cosθ' I cosθ dθ dA dt = I' cosθ' dA' dt ⇒ I' = I。
+
+r²               r² 因此，在空无一物的太空中，强度保持不变。
+
+**示例4.2 太阳的表面亮度** 假设太阳各向同性辐射。设R为太阳半径，F_☉为太阳表面的辐射流量密度，F为距离r处的辐射流量密度。由于光度恒定， L = 4πR² F_☉ = 4πr² F， 因此辐射流量密度等于 F = F_☉ (R² / r²)。
+
+在距离r >> R处，太阳张开的立体角为 ω = A / r² = πR² / r²， 其中A = πR²是太阳的截面积。表面亮度B为 B = F_☉ ω / π。
+
+应用(4.4)我们得到 B = I_☉。
+
+因此，表面亮度与距离无关，并等于强度。我们为强度这个有些抽象的概念找到了一个简单的解释。
+
+太阳在地球上的辐射流量密度，即太阳常数，为S_☉ ≈ 1370 W m⁻²。太阳的角直径为α = 32'，由此得 R / r = α / 2 = 1/2 × 32' × π / (60 × 180) = 0.00465 rad。
+
+太阳张开的立体角为 ω = π (R² / r²) = π × 0.00465² = 6.81 × 10⁻⁵ sterad。
+
+我们可以通过(4.11)式求解距离r： m - M = 5 lg (r / (10 pc))， 代入(4.11)得 M = 6 - 5 lg (100) = 1。
+
+表面亮度 B = S_☉ / ω = 2.01 × 10⁷ W m⁻² sterad⁻¹。
+
+**示例4.3 双星的星等** 由于星等是对数单位，它们有时可能有些不便使用。例如，我们不能像辐射流量密度那样将星等相加。如果一个双星的两个子星的星等分别是1和2，总星等肯定不是3。要找到总星等，我们必须首先从 1 = -2.5 lg (F₁ / F₀), 2 = -2.5 lg (F₂ / F₀)
+
+求解辐射流量密度，得到 F₁ = F₀ × 10⁻⁰.⁴, F₂ = F₀ × 10⁻⁰.⁸。
+
+因此总辐射流量密度为 F = F₁ + F₂ = F₀ (10⁻⁰.⁴ + 10⁻⁰.⁸)， 总星等为 m = -2.5 lg (F / F₀) = -2.5 lg (10⁻⁰.⁴ + 10⁻⁰.⁸) = -2.5 lg 0.5566 = 0.64。
+
+**示例4.4 恒星的距离** 一颗恒星的距离为r = 100 pc，其视星等m = 6。它的绝对星等是多少？
+
+代入(4.11)
+
+m - M = 5 lg (r / (10 pc))， 得 M = 6 - 5 lg (100 / 10) = 1。
+
+**示例4.5 恒星的绝对星等** 一颗恒星的绝对星等M = -2，视星等m = 8。这颗恒星的距离是多少？
+
+距离可以通过(4.11)求解： r = 10 pc × 10^{(m - M)/5} = 10 × 10^{10/5} pc = 1000 pc = 1 kpc。
+
+**示例4.6 考虑消光的距离** 虽然星际消光的量在不同地方差异很大，但我们可以在银道面附近使用一个平均值，即2 mag/kpc。求示例4.5中恒星的距离，假设存在这种消光。
+
+现在距离必须从(4.18)式求解： 8 - (-2) = 5 lg (r / 10) + 0.002 r， 其中r的单位是秒差距。这个方程无法解析求解，但我们总是可以使用数值方法。我们尝试一个简单的迭代法（附录A.7），将方程改写为 r = 10 × 10^{2 - 0.0004 r}。
+
+先前求得的r = 1000 pc是一个很好的初始猜测： r₀ = 1000 r₁ = 10 × 10^{2 - 0.0004 × 1000} = 398 r₂ = 693 ...
+
+r₁₂ = r₁₃ = 584。
+
+距离约为r ≈ 580 pc，这远小于我们之前得到的1000 pc。这应该是显而易见的，因为由于消光，辐射现在减弱得比在真空中快得多。
+
+**示例4.7 雾层的光学厚度** 如果通过雾看到的太阳与晴朗天空中满月一样亮，那么一层雾的光学厚度是多少？
+
+太阳和月亮的视星等分别为-26.8和-12.5。因此云层中的总消光为A = 14.3。由于 A = (2.5 lg e) τ， 我们得到 τ = A / (2.5 lg e) = 14.3 / 1.086 = 13.2。
+
+雾的光学厚度为13.2。实际上，一部分光被多次散射，一些多次散射的光子沿着视线离开云层，减少了总消光。因此，光学厚度必须略高于我们的值。
+
+**示例4.8 观测的归算** 在一个晚上多次测量了一颗恒星的高度和星等。结果如下表所示。
+
+高度 天顶距 气团数 星等 50° 40° 1.31 0.90 35° 55° 1.74 0.98 25° 65° 2.37 1.07 20° 70° 2.92 1.17 通过将观测结果绘制在图中，我们可以确定消光系数k和大气外的星等m₀。这可以通过图形方式（如此处所示）或使用最小二乘拟合来完成。
+
+将气团数X外推至0得到m₀ = 0.68。直线的斜率给出k = 0.17。
+
+**4.7 练习** 练习4.1 一个三合星的总星等为0.0。其中两个子星的星等为1.0和2.0。第三个子星的星等是多少？
+
+练习4.2 仙女座星系（距离690 kpc）中一颗恒星的绝对星等为M = 5。它作为超新星爆发，亮度增加十亿（10⁹）倍。它的视星等是多少？
+
+练习4.3 假设所有恒星具有相同的绝对星等，且恒星在空间中均匀分布。设N(m)为亮于星等m的恒星数量。求比值N(m+1)/N(m)。
+
+练习4.4 一颗恒星的V星等为15.1，B-V = 1.6，绝对星等M_V = 1.3。在恒星方向上的视觉波段消光为a = 1 mag kpc⁻¹。这颗恒星的本征颜色是多少？
+
+练习4.5 通过一个三层窗户观测恒星。每个表面反射掉15%的入射光。
+
+a) 通过窗户看到的轩辕十四（M = 1.36）的星等是多少？
+
+b) 窗户的光学厚度是多少？
+
+×10^{-34} J s. radiation. Similarly, if the atom receives or absorbs a photon of frequency ν, its energy increases by ΔE = hν. The zero level of the energy states is usually chosen so that a bound electron has negative energy and a free electron positive energy (cf. the energy integral of planetary orbits, Chap. 6). If an electron with energy E < 0 receives more energy than |E|, it will leave the atom, which becomes an ion. In astrophysics ionization is often called a bound-free transition (Fig. 5.2). Unlike in excitation all values of energy (E > 0) are now possible. The extraneous part of the absorbed energy goes to the kinetic energy of the liberated electron. The inverse process, in which an atom captures a free electron, is the recombination or free–bound transition.
+
+When an electron scatters from a nucleus or an ion without being captured, the electromagnetic interaction can change the kinetic energy of the electron producing free–free radiation. In a very hot gas (T > 10^6 K) hydrogen is fully ionized, and the free–free radiation is the most important source of emission. It is then usually called thermal bremsstrahlung. The latter part of the name derives from the fact that decelerating electrons hitting the anode of an X-ray tube emit similar radiation. In an analogous way the absorption process can be called a bound–bound transition.
+
+Electromagnetic radiation is transverse wave motion; the electric and magnetic fields oscillate perpendicular to each other and also perpendicular to the direction of propagation. The light of an ordinary incandescent lamp has a random distribution of electric fields vibrating in all directions. If the directions of electric fields in the plane perpendicular to the direction of propagation are not evenly distributed, the radiation is polarized (Fig. 5.3). The direction of polarization of linearly polarized light means the plane determined by the electric vector and the direction of the light ray. If the electric vector describes a circle, the radiation is circularly polarized. If the amplitude of the electric field varies at the same time, the polarization is elliptic.
+
+## 5.2 The Hydrogen Atom
+
+n = the principal quantum number, n = 1, 2, 3, ..., ℏ = h/2π, h = the Planck constant.
+
+The quantum mechanical interpretation of Bohr's first postulate is obvious: the electron is represented as a standing wave, and the "length of the orbit" must be a multiple of the de Broglie wavelength, λ = ℏ/p = ℏ/mv.
+
+A charged particle in a circular orbit (and thus in accelerated motion) should emit electromagnetic radiation, losing energy, were it to obey the rules of classical electrodynamics. Therefore our electron should spiral down towards the nucleus. But obviously, Nature does not behave this way, and we have to accept Bohr's second postulate, which says that an electron moving in an allowed orbit around a nucleus does not radiate. Radiation is emitted only when the electron jumps from a higher energy state to a lower one. The emitted quantum has an energy hν, equal to the energy difference of these states:
+
+hν = E_{n2} - E_{n1}. (5.3)
+
+We shall now try to find the energy of an electron in the state E_n. Coulomb's law gives the force pulling the electron towards the proton:
+
+F = (1 / 4πε_0) * (e^2 / r_n^2), (5.4)
+
+where ε_0 = the vacuum permittivity = 8.85 × 10^{-12} N^{-1} m^{-2} C^2, e = the charge of the electron = 1.6 × 10^{-19} C, r_n = the distance between the electron and the proton.
+
+The acceleration of a particle moving in a circular orbit of radius r_n is a = v_n^2 / r_n, and applying Newton's second law (F = ma), we get mv_n^2 / r_n = (1 / 4πε_0) * (e^2 / r_n^2). (5.5)
+
+From (5.2) and (5.5) it follows that v_n = e^2 / (4πε_0 ℏ) * (1/n), r_n = (4πε_0 ℏ^2) / (m e^2) * n^2.
+
+The total energy of an electron in the orbit n is now E_n = T + V = (1/2) m v_n^2 - ( ΔxΔp ≈ ℏ
+
+profile (Fig. 5.5), which already describes most spectral lines quite well. The shapes of different profiles don’t seem very different; the most obvious consequence of the broadening is that the maximum depth decreases. A similar relation holds for other directions, too.
+
+Time and energy are also connected by an uncertainty relation,
+
+ΔEΔt ≈ ℏ.
+
+The natural width of spectral lines is a consequence of this Heisenberg uncertainty principle. If the average lifetime of an excitation state is T, the energy corresponding to the transition can only be determined with an accuracy of ΔE = ℏ/T = h/(2πT). From (5.1) it follows that Δν = ΔE/h. In fact, the uncertainty of the energy depends on the lifetimes of both the initial and final states. The natural width of a line is defined as
+
+γ = ΔE_i + ΔE_f / ℏ = 1/T_i + 1/T_f. (5.9)
+
+It can be shown that the corresponding line profile is
+
+I_ν = I / (2π) * γ / ((ν - ν_0)² + γ²/4), (5.10)
+
+where ν_0 is the frequency at the centre of the line and I the total intensity of the line. At the centre of the line the intensity per frequency unit is
+
+I_ν = 2I / (πγ).
+
+Fig. 5.5. Each spectral line has its characteristic natural width (solid line). Motions of particles broaden the line further due to the Doppler effect, resulting in the Voigt profile (dashed line). Both profiles have the same area.
+
+One way to describe the width of a line is to give its full width at half maximum (Fig. 5.6). Due to Doppler broadening this is usually greater than the natural width. The equivalent width is another measure of a line strength. It is the area of a rectangular line that has the same area as the line profile and that emits no light at all. The equivalent width can be used to describe the energy corresponding to a line independently of the shape of the line profile.
+
+Fig. 5.6. The full width at half maximum (FWHM) of a spectral line is the width at the depth where the intensity is half of the maximum. The equivalent width W is defined so that the line and the shaded rectangle have the same area in the picture. The two measures are not generally the same, although they usually are close to each other.
+
+## 5.4 Quantum Numbers, Selection Rules, Population Numbers
+
+Quantum Numbers. The Bohr model needs only one quantum number, n, to describe all the energy levels of the electron. This can explain only the coarse features of an atom with a single electron. Quantum mechanics describes the electron as a three dimensional wave, which only gives the probability of finding the electron in a certain place. Quantum mechanics has accurately predicted all the energy levels of hydrogen atoms. The energy levels of heavier atoms and molecules can also be computed; however, such calculations are very complicated. Also the existence of quantum numbers can be understood from the quantum mechanical point of view.
+
+The quantum mechanical description involves four quantum numbers, one of which is our n, the principal quantum number. The principal quantum number describes the quantized energy levels of the electron. The classical interpretation of discrete energy levels allows only certain orbits given by (5.6). The orbital angular momentum of the electron is also quantized. This is described by the angular momentum quantum number l. The angular momentum corresponding to a quantum number l is
+
+L = √(l(l+1)) ℏ.
+
+The classical analogy would be to allow some elliptic orbits. The quantum number l can take only the values
+
+l = 0, 1, ..., n - 1.
+
+For historical reasons, these are often denoted by the letters s, p, d, f, g, h, i, j. Although l determines the magnitude of the angular momentum, it does not give its direction. In a magnetic field this direction is important, since the orbiting electron also generates a tiny magnetic field. In any experiment, only one component of the angular momentum can be measured at a time. In a given direction z (e.g. in the direction of the applied magnetic field), the projection of the angular momentum can have only the values
+
+L_z = m_l ℏ,
+
+where m_l is the magnetic quantum number
+
+m_l = 0, ±1, ±2, ..., ±l.
+
+The magnetic quantum number is responsible for the splitting of spectral lines in strong magnetic fields, known as the Zeeman effect. For example, if l=1, m can have 2l+1=3 different values. Thus, the line arising from the transition l=1 → l=0 will split into three components in a magnetic field (Fig. 5.7).
+
+Fig. 5.7. The Zeeman effect. In strong magnetic fields each energy level of a hydrogen atom splits into (2l+1) separate levels, which correspond to different values of the magnetic quantum number m_l = l, l-1, ..., -l. The energy differences of the successive levels have the same constant value ΔE. For example the p state (l=1) splits into three and the d state (l=2) into five sublevels. The selection rules require that in electric dipole transitions Δm_l equals 0 or ±1, and only nine different transitions between p and d states are possible. Moreover, the transitions with the same Δm_l have the same energy difference. Thus the spectrum has only three separate lines.
+
+The fourth quantum number is the spin describing the intrinsic angular momentum of the electron. The spin of the electron is
+
+S = √(s(s+1)) ℏ,
+
+where the spin quantum number is s = 1/2. In a given direction z, the spin is
+
+S_z = m_s ℏ,
+
+where m_s can have one of the two values:
+
+m_s = ±1/2.
+
+All particles have a spin quantum number. Particles with an integral spin are called bosons (photon, mesons); particles with a half-integral spin are fermions (proton, neutron, electron, neutrino etc.). Classically, spin can be interpreted as the rotation of a particle; this analogy, however, should not be taken too literally.
+
+The total angular momentum J of an electron is the sum of its orbital and spin angular momentum:
+
+J = L + S.
+
+Depending on the mutual orientation of the vectors L and S the quantum number j of total angular momentum can have one of two possible values,
+
+j = l ± 1/2,
+
+(except if l=0, when j = 1/2). The z component of the total angular momentum can have the values
+
+m_j = 0, ±1, ±2, ..., ±j.
+
+Spin also gives rise to the fine structure of spectral lines. Lines appear as close pairs or doublets.
+
+Selection Rules. The state of an electron cannot change arbitrarily; transitions are restricted by selection rules, which follow from certain conservation laws. The selection rules express how the quantum numbers must change in a transition. Most probable are the electric dipole transitions, which make the atom behave like an oscillating dipole. The conservation laws require that in a transition we have
+
+Δl = ±1, Δm_l = 0, ±1,
+
+In terms of the total angular momentum the selection rules are
+
+Δl = ±1, Δj = 0, ±1, Δm_j = 0, ±1.
+
+The probabilities of all other transitions are much smaller, and they are called forbidden transitions; examples are magnetic dipole transitions and all quadrupole and higher multipole transitions. Spectral lines originating in forbidden transitions are called forbidden lines. The probability of such a transition is so low that under normal circumstances, the transition cannot take place before collisions force the electron to change state. Forbidden lines are possible only if the gas is extremely rarified (like in auroras and planetary nebulae).
+
+The spins of an electron and nucleus of a hydrogen atom can be either parallel or antiparallel (Fig. 5.8). The energy of the former state is 0.0000059 eV higher. But the selection rules make an electric dipole transition between these states impossible. The transition, which is a magnetic dipole transition, has a very low probability, A = 2.8 × 10⁻¹⁵ s⁻¹. This means that the average lifetime of the higher state is T = 1/A = 11 × 10⁶ years. Usually collisions change the state of the electron well before this period of time has elapsed. But in interstellar space the density of hydrogen is so low and the total amount of hydrogen so great that a considerable number of these transitions can take place. The wavelength of the radiation emitted by this transition is 21 cm, which is in the radio band of the spectrum. Extinction at radio wavelengths is very small, and we can observe more distant objects than by using optical wavelengths. The 21 cm radiation has been of crucial importance for surveys of interstellar hydrogen.
+
+Fig. 5.8. The origin of the hydrogen 21 cm line. The spins of the electron and the proton may be either parallel or opposite. The energy of the former state is slightly larger. The wavelength of a photon corresponding to a transition between these states is 21 cm.
+
+Population Numbers. The population number n of an energy state i means the number of atoms in that state per unit volume. In thermal equilibrium, the population numbers obey the Boltzmann distribution:
+
+n_i / n_0 = g_i / g_0 * e^{-ΔE/(kT)}, (5.11)
+
+where T is the temperature, k is the Boltzmann constant, ΔE = E_i - E_0 = hν is the energy difference between the excited and ground state, and g is the statistical weight of the level i (it is the number of different states with the same energy E_i). The subscript 0 always refers to the ground state. Often the population numbers differ from the values given by (5.11), but still we can define an excitation temperature T_exc in such a way that (5.11) gives correct population numbers, when T is replaced by T_exc. The excitation temperature may be different for different energy levels.
+
+## 5.5 Molecular Spectra
+
+The energy levels of an atom are determined by its electrons. In the case of a molecule, there are many more possibilities: atoms can vibrate around their equilibria and the molecule can rotate around some axis. Both vibrational and rotational states are quantized. Transitions between successive vibrational states typically involve photons in the infrared band, while transitions between rotational states involve photons in the microwave band. These combined with transitions of electrons produce a band spectrum, characteristic for molecules (Fig. 5.9). The spectrum has several narrow bands composed of a great number of lines.
+
+Fig. 5.9. Spectrum of carbon monoxide CO from 430 nm to 670 nm. The various bands correspond to different vibrational transitions. Each band is composed of numerous rotational lines. Near the right edge of each band the lines are so closely packed that they overlap and at this resolution, the spectrum looks continuous. (R.W.B. Pearse, A.G. Gaydon: The Identification of Molecular Spectra (Chapman & Hall Ltd., London 1976) p. 394)
+
+## 5.6 Continuous Spectra
+
+We have already mentioned some processes that produce continuous spectra. Continuous emission spectra can originate in recombinations and free–free transitions. In recombination, an atom captures a free electron whose energy is not quantized; in free–free transitions, both initial and final states
+
+## 5.7 Blackbody Radiation
+
+are unquantized. The intensity has the dimensions W m−2 Hz−1 sterad−1. Thus the emission line can have any frequency whatsoever. Similarly, ionizations and free–free transitions can give rise to a continuous absorption spectrum.
+
+Each spectrum contains a continuous component, or continuum, and spectral lines. Sometimes, however, the lines are so closely packed and so broad that they seem to form a nearly continuous spectrum.
+
+When the pressure of hot gas is increased, the spectral lines begin to broaden. At high pressure, atoms bump into each other more frequently, and the close neighbors disturb the energy levels. When the pressure is high enough, the lines begin to overlap. Thus the spectrum of hot gas at high pressure is continuous. Electric fields also broaden spectral lines (the Stark effect).
+
+In liquids and solids the atoms are more densely packed than in gaseous substances. Their mutual perturbations broaden the energy levels, producing a continuous spectrum.
+
+## 5.7 Blackbody Radiation
+
+A blackbody is defined as an object that does not reflect or scatter radiation shining upon it, but absorbs and re-emits it perfectly. The emission of a blackbody depends only on its temperature, being perfectly independent of its shape, material and internal constitution. The wavelength distribution of the radiation follows Planck’s law, which is a function of temperature only. The intensity at a frequency ν of a blackbody at temperature T is
+
+Bν (T)=B(ν;T)= 2h c2 ν3 ehν/(k T)−1 , (5.12)
+
+where h=thePlanckconstant=6.63×10 −34Js, c=thespeedoflight≈3×108ms −1, k=theBoltzmannconstant=1.38×10 −23JK −1.
+
+Blackbody radiation can be produced in a closed cavity whose walls absorb all radiation incident upon them (and coming from inside the cavity). The walls and the radiation in the cavity are in equilibrium; both are at the same temperature, and the walls emit all the energy they receive. Since radiation energy is constantly transformed into thermal energy of the atoms of the walls and back to radiation, the blackbody radiation is also called thermal radiation.
+
+The spectrum of a blackbody given by Planck’s law (5.12) is continuous. This is true if the size of the radiator is very large compared with the dominant wavelengths. In the case of the cavity, this can be understood by considering the radiation as standing waves trapped in the cavity. The number of different wavelengths is larger, the shorter the wavelengths are compared with the size of the cavity. We already mentioned that spectra of solid bodies are continuous; very often such spectra can be quite well approximated by Planck’s law.
+
+We can also write Planck’s law as a function of the wavelength. We require that Bνdν=−Bλdλ. The wavelength decreases with increasing frequency; hence the minus sign. Since ν=c/λ, we have
+
+dν c =− , (5.13)
+
+dλ λ2
+
+whence
+
+Bλ =−Bν dν dλ =Bνλ2 , (5.14)
+
+or
+
+Bλ (T)= c2 ehc/(λkT)−1 (5.15)
+
+[Bλ ]=Wm −2m −1sterad −1.
+
+The functions Bν and Bλ are defined in such a way that the total intensity can be obtained in the same way using either of them:
+
+B(T)= Bνdν= Bλdλ.
+
+0 0
+
+Let us now try to find the total intensity using the first of these integrals:
+
+B(T)= 2h c2 ν3dν ehν/(kT)−1
+
+We now change the integration variable to x=hν/(kT), whence dν=(kT/h)dx:
+
+B(T)= 2h k4 c2 h4 x3dx ex−1 T4.
+
+The definite integral in this expression is just a real number, independent of the temperature. Thus we find that
+
+B(T)= AT4, (5.16)
+
+where the constant A has the value
+
+A= 2k4 π4 c2h3 15 . (5.17)
+
+(In order to get the value of A we have to evaluate the integral. There is no elementary way to do that. We can tell those who are familiar with all the exotic functions so beloved by theoretical physicists, that the integral can rather easily be expressed as Γ(4)ζ(4), where ζ is the Riemann zeta function and Γ is the gamma function. For integral values, Γ(n) is simply the factorial (n−1)!. The difficult part is showing that ζ(4)=π4/90. This can be done by expanding x4−x2 as a Fourier-series and evaluating the series at x=π.)
+
+The flux density F for isotropic radiation of intensity B is (Sect. 4.1):
+
+F=πB
+
+or
+
+F=σT4. (5.18)
+
+This is the Stefan-Boltzmann law, and the constant σ (=πA) is the Stefan-Boltzmann constant,
+
+σ =5.67×10 −8Wm −2K −4.
+
+From the Stefan-Boltzmann law we get a relation between the luminosity and temperature of a star. If the radius of the star is R, its surface area is 4πR2, and if the flux density on the surface is F, we have
+
+L=4πR2F.
+
+If the star is assumed to radiate like a blackbody, we have F=σT4, which gives
+
+L=4πσR2T4. (5.19)
+
+In fact this defines the effective temperature of the star, discussed in more detail in the next section.
+
+The luminosity, radius and temperature of a star are interdependent quantities, as we can see from (5.19). They are also related to the absolute bolometric magnitude of the star. Equation (4.13) gives the difference of the absolute bolometric magnitude of the star and the Sun:
+
+M bol −M bol, =−2.5lg L . (5.20)
+
+But we can now use (5.19) to express the luminosities in terms of the radii and temperatures:
+
+R T M bol −M bol, =−5lg −10lg . (5.21)
+
+R T
+
+As we can see in Fig.5.10, the wavelength of the maximum intensity decreases with increasing total intensity (equal to the area below the curve). We can find the wavelength λmax corresponding to the maximum intensity by differentiating Planck’s function Bλ (T) with respect to λ and finding zero of the derivative. The result is the Wien displacement law:
+
+λmax T =b=const, (5.22)
+
+where the Wien displacement constant b is
+
+b=0.0028978Km.
+
+We can use the same procedure to find the maximum of Bν. But the frequency νmax thus obtained is different from νmax =c/λmax given by (5.22). The reason for this is the fact that the intensities are given per unit frequency or unit wavelength, and the dependence of frequency on wavelength is nonlinear.
+
+When the wavelength is near the maximum or much longer than λmax Planck’s function can be approximated by simpler expressions. When λ≈λmax (or hc/(λkT)≈1), we have
+
+ehc/(λkT)≈e.
+
+In this case we get the Wien approximation
+
+Bλ (T)≈ c2 e −hc/(λkT). (5.23)
+
+When hc/(λkT)≪1(λ≫λmax), we have
+
+ehc/λkT ≈1+hc/(λkT),
+
+which gives the Rayleigh–Jeans approximation
+
+Bλ (T)≈ 2ckT λ4 . (5.24)
+
+This is particularly useful in radio astronomy.
+
+Classical physics predicted only the Rayleigh–Jeans approximation. Were (5.24) true for all wavelengths, the intensity would grow beyond all limits when the wavelength approaches zero, contrary to observations. This contradiction was known as the ultraviolet catastrophe.
+
+## 5.8 Temperatures
+
+Temperatures of astronomical objects range from almost absolute zero to millions of degrees. Temperature can be defined in a variety of ways, and its numerical value depends on the specific definition used. All these different temperatures are needed to describe different physical phenomena, and often there is no unique ‘true’ temperature.
+
+Often the temperature is determined by comparing the object, a star for instance, with a blackbody. Although real stars do not radiate exactly like blackbodies, their spectra can usually be approximated by blackbody spectra after the effect of spectral lines has been eliminated. The resulting temperature depends on the exact criterion used to fit Planck’s function to observations.
+
+The most important quantity describing the surface temperature of a star is the effective temperature Te. It is defined as the temperature of a blackbody which radiates with the same total flux density as the star. Since the effective temperature depends only on the total radiation power integrated over all frequencies, it is well defined for all energy distributions even if they deviate far from Planck’s law.
+
+In the previous section we derived the Stefan-Boltzmann law, which gives the total flux density as a function of the temperature. If we now find a value T of the temperature such that the Stefan-Boltzmann law gives the correct flux density F on the surface of the star,
+
+F=σT4. (5.25)
+
+This T is then the effective temperature. The total flux is L=4πR2F, where R is the radius of the star, and the flux density at a distance r is
+
+F(λ)= R2 r2 F= σT 4πr2 , (5.26)
+
+where α=2R/r is the observed angular diameter of the star. For direct determination of the effective temperature, we have to measure the total flux density and the angular diameter of the star. This is possible only in the few cases in which the diameter has been found by interferometry.
+
+If we assume that at some wavelength λ the flux density Fλ on the surface of the star is obtained from Planck’s law, we get the brightness temperature Tb. In the isotropic case we have then Fλ =πBλ (Tb). If the radius of the star is R and distance from the Earth r, the observed flux density is
+
+F(λ)= R2 r2 Fλ.
+
+Again Fλ can be determined only if the angular diameter α is known. The brightness temperature Tb can then be solved from
+
+F(λ)= α2 πBλ (Tb). (5.27)
+
+Since the star does not radiate like a blackbody, its brightness temperature depends on the particular wavelength used in (5.27).
+
+In radio astronomy, brightness temperature is used to express the intensity (or surface brightness) of the source. If the intensity at frequency ν is Iν, the brightness temperature is obtained from
+
+Iν =Bν (Tb).
+
+Tb gives the temperature of a blackbody with the same intensity.
+
+The colour temperature Tc can be determined even if the angular diameter of the source is unknown (Fig.5.11). We only have to know the relative energy density as a function of wavelength. The observed flux density as a function of wavelength is compared with Planck’s function at different temperatures. The temperature giving the best fit is the colour temperature in the interval [λ1,λ2]. The colour temperature is usually different for different wavelength intervals, since the shape of the observed energy distribution may be quite different from the blackbody spectrum.
+
+A simple method for finding a colour temperature is the following. We measure the flux density F(λ) at two wavelengths λ1 and λ2. If we assume that the intensity distribution follows Planck’s law, we can solve for the temperature.
+
+普朗克定律指出，这些通量密度的比值必须与从表面亮度获得的观测源的比值相同。由于射电波长很长，瑞利-金斯近似的条件 hν ≪ kT 通常得到满足，因此在射电和亚毫米波段，我们可以使用普朗克定律的瑞利-金斯形式：
+
+B_λ(T) = B_λ(T) = (2hc^2 / λ^5) * [1 / (e^{hc/(λkT)} - 1)]。 (5.31)
+
+由这个方程解出的温度 T 称为色温度。观测到的通量密度对应于特定的星等 m_λ1 和 m_λ2。星等的定义给出：
+
+m_λ1 - m_λ2 = -2.5 lg (F_λ1 / F_λ2) + 常数，
+
+其中常数项是由于不同星等标尺的零点不同造成的。如果温度不是太高，我们可以使用维恩近似来处理光谱的光学部分：
+
+m_λ1 - m_λ2 = -2.5 lg [(λ2/λ1)^5 * (e^{hc/(λkT)} - 1)^{-1}] + 常数 ≈ -2.5 lg (λ2/λ1)^5 + 2.5 (hc / kT) * (1/λ1 - 1/λ2) + 常数。
+
+这可以写成： m_λ1 - m_λ2 = a + b/T， (5.32)
+
+其中 a 和 b 是常数。这表明两个星等之差与色温度之间存在简单关系。严格来说，(5.32) 中的星等是单色的，但同样的关系也可以用于宽带星等，如 B 和 V 星等。在这种情况下，两个波长本质上是 B 波段和 V 波段的有效波长。常数的选择使得对于光谱型为 A0 的恒星（见第 8 章），B-V = 0。因此，色指数 B-V 也给出一个色温度。运动学温度 T_k 与气体分子的平均速度有关。理想气体分子的动能作为温度的函数来自动理论：
+
+动能 = (1/2)mv^2 = (3/2)kT。
+
+解出 T_k 得到： T_k = mv^2 / (3k)， (5.33)
+
+其中 m 是分子质量，v 是其平均速度（更准确地说是其均方根速度，即 v^2 是速度平方的平均值），k 是玻尔兹曼常数。对于理想气体，压力与运动学温度成正比（参见“气体压力与辐射压力”，第 238 页）： P = nkT， (5.34)
+
+其中 n 是分子数密度（单位体积内的分子数）。我们之前将激发温度 T_exc 定义为一个温度，如果将其代入玻尔兹曼分布 (5.11)，则给出观测到的占据数。如果原子在不同能级上的分布仅是原子间相互碰撞的结果，那么激发温度等于动能温度 T_k。电离温度 T_i 是通过比较不同电离态的原子数量来找到的。由于恒星并非严格的黑体，激发温度和电离温度的值通常会变化，取决于用于确定温度的元素的光谱线。在热力学平衡中，所有这些不同的温度都是相等的。
+
+## 5.9 其他辐射机制
+
+微波激射和激光（图 5.12）。玻尔兹曼分布 (5.11) 显示，通常处于激发态的原子比处于基态的少。然而，有办法产生布居反转，即激发态包含的原子比基态多。这种反转对于微波激射和激光（通过受激辐射进行微波/光放大）至关重要。如果激发原子现在用能量等于激发能的光子照射，辐射将诱导向下的跃迁。发射的光子数大大超过吸收的光子数，辐射被放大。通常激发态是一个亚稳态，即一个具有很长平均寿命的状态，这意味着自发辐射的贡献可以忽略不计。因此，产生的辐射是相干的且单色的。已经在星际分子云和恒星周围的尘埃包层中发现了几个微波激射源。
+
+同步辐射。一个在加速运动中的自由电荷将发射电磁辐射。带电粒子在磁场中运动，会沿着磁场线螺旋前进。从场的方向看，运动是圆周运动，因此是加速的。运动的电荷将沿着场的方向辐射。
+
+## 5.10 辐射转移
+
+辐射转移理论是一个复杂的领域，细节过于复杂，无法在此详细讨论。然而，其基本方程很容易推导。假设我们有一个小圆柱体，其底面积为 dA，长度为 dr。令 I_ν 为垂直于底面并进入一个立体角 dω 的辐射强度（[I_ν] = W m^{-2} Hz^{-1} sterad^{-1}）。如果强度在距离 dr 内变化了 dI_ν，则能量在圆柱体中变化为：
+
+dE = dI_ν dA dν dω dt，
+
+这等于圆柱体中的发射减去吸收。吸收的能量为（参见 (4.14)）： dE_abs = α_ν I_ν dr dA dν dω dt， (5.35)
+
+其中 α_ν 是介质在频率 ν 处的不透明度。令单位体积、单位时间、每赫兹频率、单位立体角内辐射的能量为 j_ν（[j_ν] = W m^{-3} Hz^{-1} sterad^{-1}），这称为介质的发射系数。从圆柱体辐射到立体角 dω 的能量为： dE_em = j_ν dr dA dν dω dt。 (5.36)
+
+方程 dE = -dE_abs + dE_em 给出： dI_ν = -α_ν I_ν dr + j_ν dr
+
+或者 dI_ν/dr = -I_ν + j_ν/α_ν。 (5.37)
+
+我们将发射系数 j_ν 与吸收系数或不透明度 α_ν 的比值记为 S_ν： S_ν = j_ν / α_ν。 (5.38)
+
+S_ν 称为源函数。因为 α_ν dr = dτ_ν，其中 τ_ν 是频率 ν 处的光学厚度，所以 (5.37) 可以写成： dI_ν/dτ_ν = -I_ν + S_ν。 (5.39)
+
+方程 (5.39) 是辐射转移的基本方程。即使不求解该方程，我们也能看到：如果 I_ν < S_ν，那么 dI_ν/dτ_ν > 0，强度在传播方向上趋于增加。如果 I_ν > S_ν，那么 dI_ν/dτ_ν < 0，I_ν 将减小。在平衡态下，发射和吸收的能量相等，由 (5.35) 和 (5.36) 我们得到： I_ν = j_ν/α_ν = S_ν。 (5.40)
+
+将此代入 (5.39)，我们看到 dI_ν/dτ_ν = 0。在热力学平衡中，介质的辐射是黑体辐射，源函数由普朗克定律给出： S_ν = B_ν(T) = (2hν^3 / c^2) * [1 / (e^{hν/(kT)} - 1)]。
+
+即使系统不处于热力学平衡，也可能找到一个激发温度 T_exc，使得 B_ν(T_exc) = S_ν。这个温度可能依赖于频率。(5.39) 的一个形式解是： I_ν(τ_ν) = I_ν(0) e^{-τ_ν} + e^{-τ_ν} ∫_0^{τ_ν} S_ν(t) e^t dt。 (5.41)
+
+这里 I_ν(0) 是穿过介质（例如星际云）并指数衰减的背景辐射强度。第二项给出了介质中的发射。这个解只是形式上的，因为在一般情况下，源函数 S_ν 是未知的，必须与强度一起求解。如果 S_ν(τ_ν) 在云中是常数且忽略背景辐射，我们得到： I_ν(τ_ν) = S_ν e^{-τ_ν} ∫_0^{τ_ν} e^t dt = S_ν (1 - e^{-τ_ν})。 (5.42)
+
+如果云是光学厚的（τ_ν ≫ 1），我们有： I_ν = S_ν， (5.43)
+
+即强度等于源函数，发射和吸收过程处于平衡。辐射转移理论的一个重要应用领域是研究行星和恒星大气。在这种情况下，介质的性质可以很好地近似为仅在一个方向上变化，例如沿 z 轴。强度将仅取决于 z 和 θ，其中 θ 是 z 轴与光线之间的夹角。沿着光线的长度微元 dz 与沿着光线的长度微元 dr 的关系为： dz = dr cosθ。
+
+采用这些记号约定，(5.39) 现在给出： cosθ dI_ν/dz = I_ν - S_ν。 (5.44)
+
+这就是在恒星和行星大气研究中通常遇到的辐射转移方程的形式。大气出射强度的一个形式表达式可以通过从 τ_ν = ∞（我们假设大气底部在光学深度无穷远处）到 τ_ν = 0（对应于大气顶部）对方程 (5.44) 进行积分得到： I_ν(0, θ) = ∫_0^∞ S_ν e^{-τ_ν secθ} secθ dτ_ν。 (5.45)
+
+这个表达式将在后面第 8 章解释恒星光谱时使用。
+
+## 5.11 示例
+
+例 5.1 求氢原子从 n=110 跃迁到 n=109 时发射的光子的波长。方程 (5.8) 给出： 1/λ = R (1/n_1^2 - 1/n_2^2) = 1.097×10^7 m^{-1} * (1/109^2 - 1/110^2)
+
+= 16.71 m^{-1}，
+
+因此 λ = 0.060 m。这处于射电波段。这种辐射已被观测到。
+
+direction of propagation of the radiation for the first time in 1965 by an NRAO radio telescope. In applications to atmospheres it is customary to define the optical depth τν in the vertical direction as dτ = −αν dz.
+
+Conventionally z increases upwards and the optical depth inwards in the atmosphere. The vertical line el- Example 5.2 The effective temperature of a star is 12,000K and the absolute bolometric magnitude 0.0. Find the radius of the star, when the effective temperature of the Sun is 5000K and the absolute bolometric magnitude 4.7.
+
+We can apply (5.21): Mbol − Mbol,☉ = −5 log ( Re/ R☉ ) − 10 log ( Te/ T☉ )
+
+⇒ R = T e^2 * 10^{-0.2(−Mbol,☉)} Substituting x = hν/(kT) we get Bν(T) = (2hν³/c²) * 1/(eˣ − 1)
+
+Now we study the function f(x) = x³/(eˣ − 1): f’(x) = [3x²(eˣ − 1) − x³eˣ] / (eˣ − 1)² = x²eˣ / (eˣ − 1)² * (3 − 3e⁻ˣ − x).
+
+This vanishes, when 3 − 3e⁻ˣ − x = 0. The solution of this equation is x = 2.821. Hence cT / νmax = hc / kx = b’ = 5.100 × 10⁻³ Km or T / νmax = 1.701 × 10⁻¹¹ Ks.
+
+Note that the wavelength corresponding to νmax is different from λmax. The reason is that we have used two different forms of Planck’s function, one giving the intensity per unit wavelength, the other per unit frequency.
+
+Example 5.4 a) Find the fraction of radiation that a blackbody emits in the range [λ1, λ2], where λ1 and λ2 are given. b) How much energy does a 100W incandescent light bulb radiate in the radio wavelengths, λ ≥ 1cm? Assume the temperature is 2500K.
+
+Since the wavelengths are much longer than λmax we can use the Rayleigh–Jeans approximation Bλ(T) ≈ 2ckT/λ⁴. Then ∫[λ1 to λ2] Bλ(T) dλ ≈ 2ckT ∫[λ1 to λ2] λ⁻⁴ dλ = 2ckT/3 * (1/λ1³ − 1/λ2³), and hence B / Btot = (8/0.29) × 10⁻⁷ * 2500 / (0.01³)
+
+It is quite difficult to listen to the radio emission of a light bulb with an ordinary radio receiver.
+
+Example 5.5 Determination of Effective Temperature The observed flux density of Arcturus is Fer = 4.5 × 10⁻⁸ Wm⁻².
+
+From (5.26) we get Te = (4.5 × 10⁻⁸ / 4.85 × 10⁻⁸)^(1/4) × 5.669 × 10⁻⁸ K² = 4300K.
+
+Example 5.6 Flux densities at the wavelengths 440nm and 550nm are 1.30 and 1.00 Wm⁻²m⁻¹, respectively. Find the colour temperature.
+
+If the flux densities at the wavelengths λ1 and λ2 are F1 and F2, respectively, the colour temperature can be solved from the equation F1/F2 = [λ1⁻⁵ * (e^(hc/λ2kTc) − 1)] / [λ2⁻⁵ * (e^(hc/λ1kTc) − 1)]
+
+If we denote A = (F1/F2) * (λ2⁵/λ1⁵), B1 = hc/λ1k, B2 = hc/λ2k, we get the equation A = (e^{B2/Tc} − 1) / (e^{B1/Tc} − 1)
+
+for the colour temperature Tc. This equation must be solved numerically.
+
+In our example the constants have the following values: A = (1.00/1.30) * (550⁵/440⁵) = 2.348, B1 = 32,700K, B2 = 26,160K.
+
+By substituting different values for Tc, we find that Tc = 7545K satisfies our equation.
+
+## 5.12 Exercises
+
+Exercise 5.1 Show that in the Wien approximation the relative error of Bλ is erf = e^{−hc/(λkT)}.
+
+Exercise 5.2 If the transition of the hydrogen atom n+1 → n were to correspond to the wavelength 21.05cm, what would the quantum number n be? The interstellar medium emits strong radiation at this wavelength. Can this radiation be due to such transitions?
+
+Exercise 5.3 The space is filled with background radiation, remnant of the early age of the universe. Currently the distribution of this radiation is similar to the radiation of a blackbody at the temperature of 2.7K. What is λmax corresponding to this radiation? What is its total intensity? Compare the intensity of the background radiation to the intensity of the Sun at the visual band.
+
+Exercise 5.4 The temperature of a red giant is T = 2500K and radius 100 times the solar radius.
+
+a) Find the total luminosity of the star, and the luminosity in the visual band 400nm ≤ λ ≤ 700nm.
+
+b) Compare the star with a 100W lamp that radiates 5% of its energy in the visual band. What is the distance of the lamp if it looks as bright as the star?
+
+Exercise 5.5 The effective temperature of Sirius is 10,000K, apparent visual magnitude −1.5, distance 2.67kpc and bolometric correction 0.5. What is the radius of Sirius?
+
+Exercise 5.6 The observed flux density of the Sun at λ=300nm is 0.59Wm⁻²nm⁻¹. Find the brightness temperature of the Sun at this wavelength.
+
+Exercise 5.7 The colour temperature can be determined from two magnitudes corresponding to two different wavelengths. Show that for stars of the spectral class A0, the colour temperature of which is about 15,000K, Tc = 7000K / (B−V) + 0.47.
+
+The wavelengths of the B and V bands are 440nm and 548nm, respectively, and we assume that B=V for Exercise 5.8 The kinetic temperature of the plasma in the solar corona can reach 10⁶K. Find the average speed of the electrons in such a plasma.
+
+## 6. Celestial Mechanics
+
+Celestial mechanics, the study of motions of celestial bodies, together with spherical astronomy, was the main branch of astronomy until the end of the 19th century, when astrophysics began to evolve rapidly. The primary task of classical celestial mechanics was to explain and predict the motions of planets and their satellites. Several empirical models, like epicycles and Kepler’s laws, were employed to describe these motions. But none of these models explained why the planets moved the way they did. It was only in the 1680’s that a simple explanation was found for all these motions − Newton’s law of universal gravitation. In this chapter, we will derive some properties of orbital motion. The physics we need for this is simple indeed, just Newton’s laws. (For a review, see *Newton’s Laws, p.126)
+
+This chapter is mathematically slightly more involved than the rest of the book. We shall use some vector calculus to derive our results, which, however, can be easily understood with very elementary mathematics. A summary of the basic facts of vector calculus is given in Appendix A.4.
+
+## 6.1 Equations of Motion
+
+We shall concentrate on the systems of only two bodies. In fact, this is the most complicated case that allows a neat analytical solution. For simplicity, let us call the bodies the Sun and a planet, although they could quite as well be a planet and its moon, or the two components of a binary star.
+
+Let the masses of the two bodies be m1 and m2 and the radius vectors in some fixed inertial coordinate frame r1 and r2 (Fig.6.1). The position of the planet relative to the Sun is denoted by r = r2 − r1. According to Newton’s law of gravitation the planet feels a gravitational pull proportional to the masses m1 and m2 and inversely proportional to the square of the distance r. Since the force is directed towards the Sun, it can be expressed as F = G m1 m2 / r² = −G m1 m2 r / r³, (6.1)
+
+where G is the gravitational constant. (More about this in Sect.6.5.)
+
+Newton’s second law tells us that the acceleration r̈₂ of the planet is proportional to the applied force: F = m2 r̈₂. (6.2)
+
+Combining (6.1) and (6.2), we get the equation of motion of the planet m2 r̈₂ = −G m1 m2 r / r³. (6.3)
+
+Since the Sun feels the same gravitational pull, but in the opposite direction, we can immediately write the equation of motion of the Sun: m1 r̈₁ = +G m1 m2 r / r³. (6.4)
+
+We are mainly interested in the relative motion of the planet with respect to the Sun. To find the equation of the relative orbit, we cancel the masses appearing on both sides of (6.3) and (6.4), and subtract (6.4) from (6.3) to get r̈ = −µ r / r³, (6.5)
+
+where we have denoted µ = G(m1 + m2). (6.6)
+
+The solution of (6.5) now gives the relative orbit of the planet. The equation involves the radius vector and its second time derivative. In principle, the solution should yield the radius vector as a function of time, r = r(t). Unfortunately things are not this simple in practice; in fact, there is no way to express the radius vector as a function of time in a closed form (i.e. as a finite expression involving familiar elementary functions). Although there are several ways to solve the equation of motion, we must resort to mathematical manipulation in one form or another to figure out the essential properties of the orbit. Next we shall study one possible method.
+
+## 6.2 Solution of the Equation of Motion
+
+The equation of motion (6.5) is a second-order (i.e. contains second derivatives) vector valued differential equation. Therefore we need six integration constants or integrals for the complete solution. The Hannu Karttunen et al. (Eds.), Celestial Mechanics. In: Hannu Karttunen et al. (Eds.), Fundamental Astronomy, 5th Edition. pp. 113–130 (2007) DOI: 11685739_6 © Springer-Verlag Berlin Heidelberg 2007 latter term vanishes as a vector product of two parallel vectors. The former term contains r̈, which is given by the equation of motion: k̇ = r × (−µ r / r³) = −(µ/r³) r × r = 0.
+
+Thus k is a constant vector independent of time (as is L, of course).
+
+Since the angular momentum vector is always perpendicular to the motion (this follows from (6.8)), the motion is at all times restricted to the invariable plane perpendicular to k (Fig.6.2).
+
+To find another constant vector, we compute the vector product k × r̈: k × r̈ = (r × ṙ) × (−µ r / r³)
+
+= −1/r³ [ (r·r) ṙ − (r·ṙ) r ].
+
+The time derivative of the distance r is equal to the projection of ṙ in the direction of r (Fig.6.3); thus, using solution is the properties of the scalar product, we get
+
+ṙ = r·ṙ/r, (6.9)
+
+Hence,
+
+k × r̈ = −µ(ṙ/r − rṙ/r²) = (−µr/r).
+
+The vector product can also be expressed as
+
+d(k × ṙ)/dt = (k × r̈).
+
+Let us find the time derivative of this:
+
+k̇ = ṙ × r̈ + ṙ × ṙ = ṙ × r̈.
+
+since k is a constant vector. Combining this with the previous equation, we have
+
+d(k × ṙ + µr/r)/dt = 0
+
+and
+
+k × ṙ + µr/r = const = −µe. (6.10)
+
+Since k is perpendicular to the orbital plane, k × ṙ must lie in that plane. Thus, e is a linear combination of two vectors in the orbital plane; so e itself must be in the orbital plane. Later we shall see that it points to the direction where the planet is closest to the Sun in its orbit. This point is called the perihelion.
+
+One more constant is found by computing ṙ · r̈:
+
+ṙ · r̈ = −µṙ · r/r³ = −µrṙ/r³ = −µṙ/r² = d(µ/r)/dt.
+
+Since we also have
+
+d(ṙ · ṙ/2)/dt = ṙ · r̈,
+
+we get
+
+d(ṙ · ṙ/2 − µ/r)/dt = 0
+
+or
+
+v² − µ/r = const = h. (6.11)
+
+Here v is the speed of the planet relative to the Sun. The constant h is called the energy integral; the total energy of the planet is m h. We must not forget that energy and angular momentum depend on the coordinate frame used. Here we have used a heliocentric frame, which in fact is in accelerated motion.
+
+So far, we have found two constant vectors and one constant scalar. It looks as though we already have seven integrals, i.e. one too many. But not all of these constants are independent; specifically, the following two relations hold:
+
+k · e = 0, (6.12)
+
+µ²(e² − 1) = 2hk², (6.13)
+
+where e and k are the lengths of e and k. The first equation is obvious from the definitions of e and k. To prove (6.13), we square both sides of (6.10) to get
+
+µ²e² = (k × ṙ) · (k × ṙ) + µ²r²/r² + 2(k × ṙ) · (µr/r).
+
+Since k is perpendicular to ṙ, the length of k × ṙ is |k||ṙ| = kv and (k × ṙ) · (k × ṙ) = k²v². Thus, we have
+
+µ²e² = k²v² + µ² + (µ/k)(k × ṙ · r).
+
+The last term contains a scalar triple product, where we can exchange the dot and cross to get k · ṙ × r. Next we reverse the order of the two last factors. Because the vector product is anticommutative, we have to change the sign of the product:
+
+µ²(e² − 1) = k²v² − (µ/r)(k · r × ṙ) = k²v² − (µ/r)(−k²) = k²(v² + µ/r) = 2k²(v²/2 + µ/(2r)) = 2k²h.
+
+This completes the proof of (6.13).
+
+The relations (6.12) and (6.13) reduce the number of independent integrals by two, so we still need one more. The constants we have describe the size, shape and orientation of the orbit completely, but we do not yet know where the planet is! To fix its position in the orbit, we have to determine where the planet is at some given instant of time t = t₀, or alternatively, at what time it is in some given direction. We use the latter method by specifying the time of perihelion passage, the time of perihelion τ.
+
+But the product r·e can also be evaluated using the definition of e:
+
+r·e = −(1/µ)(r · (k × ṙ) + µr · r/r) = −(1/µ)(k · (ṙ × r) + µr) = −(1/µ)(−k² + µr) = (k²/µ) − r.
+
+Equating the two expressions of r·e we get
+
+r = (k²/µ) / (1 + e cos f). (6.14)
+
+This is the general equation of a conic section in polar coordinates. The magnitude of e gives the eccentricity of the conic:
+
+e = 0, circle, 0 < e < 1, ellipse, e = 1, parabola, e > 1, hyperbola.
+
+Inspecting (6.14), we find that r attains its minimum when f = 0, i.e. in the direction of the vector e. Thus, e indeed points to the direction of the perihelion.
+
+Starting with Newton’s laws, we have thus managed to prove Kepler’s first law:
+
+The orbit of a planet is an ellipse, one focus of which is in the Sun.
+
+Without any extra effort, we have shown that also other conic sections, the parabola and hyperbola, are possible orbits.
+
+We have derived a set of integrals convenient for studying the dynamics of orbital motion. We now turn to another collection of constants more appropriate for describing the geometry of the orbit. The following six quantities are called the orbital elements:
+
+– semimajor axis a, – eccentricity e, – inclination i (or ι), – longitude of the ascending node Ω, – argument of the perihelion ω, – time of the perihelion τ.
+
+The orientation of the orbit is determined by the directions of the two vectors k (perpendicular to the orbital plane) and e (pointing towards the perihelion). The three angles i, Ω and ω contain the same information.
+
+The inclination i gives the obliquity of the orbital plane relative to some fixed reference plane. For bodies in the solar system, the reference plane is usually the ecliptic. For objects moving in the usual fashion, i.e. counterclockwise, the inclination is in the interval [0°, 90°]; for retrograde orbits (clockwise motion), the inclination is in the range (90°, 180°]. For example, the inclination of Halley’s comet is 162°, which means that the motion is retrograde and the angle between its orbital plane and the ecliptic is 180° − 162° = 18°.
+
+The longitude of the ascending node, Ω, indicates where the object crosses the ecliptic from south to north. It is measured counterclockwise from the vernal equinox. The orbital elements i and Ω together determine the orientation of the orbital plane, and they correspond to the direction of k, i.e. the ratios of its components.
+
+The argument of the perihelion ω gives the direction of the perihelion, measured from the ascending node in the direction of motion. The same information is contained in the direction of e. Very often another angle, the longitude of the perihelion ϖ (pronounced as pi), is used instead of ω. It is defined as
+
+ϖ = Ω + ω. (6.17)
+
+This is a rather peculiar angle, as it is measured partly along the ecliptic, partly along the orbital plane. However, it is often more practical than the argument of perihelion, since it is well defined even when the inclination is close to zero in which case the direction of the ascending node becomes indeterminate.
+
+The eccentricity is obtained readily as the length of the vector e. From the equation of the orbit (6.14), we see that the parameter (or semilatus rectum) of the orbit is p = k²/µ. But the parameter of a conic section is always a|1 − e²|, which gives the semimajor axis, if e and k are known:
+
+a = (k²/µ) / |1 − e²|. (6.15)
+
+By applying (6.13), we get an important relation between the size of the orbit and the energy integral h:
+
+a = −µ/(2h), if the orbit is an ellipse, a = µ/(2h), if the orbit is a hyperbola. (6.16)
+
+For a bound system (elliptical orbit), the total energy and the energy integral are negative. For a hyperbolic orbit h is positive; the kinetic energy is so high that the particle can escape the system (or more correctly, recede without any limit). The parabola, with h = 0, is a limiting case between elliptical and hyperbolic orbits. In reality parabolic orbits do not exist, since hardly any object can have an energy integral exactly zero.
+
+However, if the eccentricity is very close to one (as with many comets), the orbit is usually considered parabolic to simplify calculations.
+
+We have assumed up to this point that each planet forms a separate two-body system with the Sun. In reality planets interfere with each other by disturbing each other’s orbits. Still their motions do not deviate very

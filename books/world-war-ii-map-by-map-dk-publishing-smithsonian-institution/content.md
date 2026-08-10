@@ -1,10 +1,5 @@
 # 二战地图全览 DK Publishing Smithsonian Institution Z Library
 
-> 来源文件：pre_World_War_II_Map_by_Map_DK_Publishing_Smithsonian_Institution_Z_Library.txt
-> 字符数（约）：814640
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 F O R E W O R D  B Y PETER SNOW S M I T H S O N I A N WORLD WAR II M A P  BY  M A P
 
 CONTENTS DK LONDON Senior Editor  Hugo Wilkinson Project Editors  Shashwati Tia Sarkar, Miezan van Zyl Editor  Polly Boyd US Editors  Megan Douglass, Lori Hand Editorial Assistant  Michael Clark Project Assistant  Briony Corbett Managing Editor  Angeles Gavira Guerrero Associate Publisher  Liz Wheeler Publishing Director  Jonathan Metcalf Lead Senior Art Editor  Duncan Turner Senior Art Editor  Sharon Spencer Project Art Editor  Steve Woosnam-Savage Cartographer  Ed Merritt Jacket Design Development Manager Sophia MTT Jacket Designer  Surabhi Wadhwa Jacket Editor  Emma Dawson Producer (Pre-production)  Rob Dunn Senior Producer  Meskerem Berhane Managing Art Editor  Michael Duffy Art Director  Karen Self Design Director  Phil Ormerod 战争的种子 一战的遗产 国际联盟 独裁者之欧洲 希特勒与纳粹德国 动荡中的中国 西班牙内战 中日战争 德国与意大利的扩张 水晶之夜 欧洲倒计时 欧洲战事 波兰的覆灭 虚假战争 拉普拉塔河海战 芬兰冬季战争 挪威之战 德国的西线攻势
@@ -33,13 +28,7 @@ on Moscow 莫斯科推进 东部的屠杀 100 莫斯科解围 COBALT ID Designer
 
 Gothic Line 哥特防线 168 潜艇的失败 170 密码破译 172 昼夜轰炸 施佩尔与战争工业 176 欧洲抵抗运动 178 库尔斯克会战 180 苏军横扫
 
-forward 向前 182 巴格拉基昂行动 184 华沙起义 186 诺曼底登陆 188 奥马哈海滩 190 诺曼底战役 192 V型武器 194 突破 196 刺杀希特勒的密谋 TURNING THE TIDE    1943–1944 First American Edition, 2019 Published in the United States by DK Publishing, 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2019 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 19 20 21 22 23 10 9 8 7 6 5 4 3 2 1 001-311581-Sep/2019 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
-
-DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 1450 Broadway, Suite 801, New York, NY 10018 SpecialSales@dk.com A catalog record for this book is available from the Library of Congress.
-
-ISBN: 978-1-4654-8179-5 Printed and bound in Malaysia A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com Dr. F. Robert van der Linden, Chairman, Aeronautics Department, National Air and Space Museum CURATOR SMITHSONIAN ENTERPRISES Product Development Manager Editorial Director Vice President, Consumer and Education Products Senior Vice President, Consumer and Education Products Kealy Gordon Ellen Nanney Brigid Ferraro Carol LeBlanc
 
 SMITHSONIAN 史密森尼学会成立于1846年，是世界上最大的博物馆与研究综合体，包括19座博物馆与美术馆以及国家动物园。史密森尼藏品中的文物、艺术品和标本总数估计达1.54亿件，其中绝大部分收藏在国家自然历史博物馆，该馆藏有超过1.26亿件标本和藏品。史密森尼是一所著名的研究中心，致力于公共教育、国家服务，以及艺术、科学和自然科学领域的学术研究。
 
@@ -11265,4 +11254,3 @@ W
 环衬页图片：封面：akg-images： 封底：akg-images：乌尔斯坦图片。
 
 所有其他图片 © 多林·金德斯利（Dorling Kindersley） 更多信息见：www.dkimages.com
-

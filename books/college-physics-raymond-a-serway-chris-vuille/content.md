@@ -1,47 +1,20 @@
 # College Physics Raymond A Serway Chris Vuille Z Library
 
-> 来源文件：pre_College_Physics_Raymond_A_Serway_Chris_Vuille_Z_Library.txt
-> 字符数（约）：3881828
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Raymond A. Serway
 
 Emeritus, James Madison University Chris Vuille
 
 Embry-Riddle Aeronautical University with ContRibutionS fRom John hughes
 
-Embry-Riddle Aeronautical University College Physics Australia  •  Brazil  •  Mexico  •  Singapore  •  United Kingdom  •  United States Edition Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 College Physics, Eleventh Edition Raymond A. Serway and Chris Vuille Product Director: Dawn Giovanniello Product Manager: Rebecca Berardy Schwartz Content Developers: Ed Dodd, Michael Jacobs, Ph.D.
 
 Product Assistant: Caitlin N. Ghegan Marketing Manager: Tom Ziolkowski Senior Content Project Manager: Tanya Nigh Digital Content Specialist: Justin Karr Senior Art Director: Cate Barr Manufacturing Planner: Doug Bertke Production Service and Compositor: Cenveo® Publisher Services Intellectual Property Project Manager: Nick Barrows Intellectual Property Analyst: Christine Myaskovsky Photo and Text Researcher: Lumina Datamatics, Ltd.
 
-Text Designer: Dare Porter Cover Designer: Liz Harasymczuk Cover Image: Jakataka/DigitalVision Vectors/ Getty Images © 2018, 2015, 2012 by Raymond A. Serway ALL RIGHTS RESERVED. No part of this work covered by the copyright herein may be reproduced or distributed in any form or by any means, except as permitted by U.S. copyright law, without the prior written permission of the copyright owner.
-
-Unless otherwise noted, all art is © Cengage Learning.
-
-Library of Congress Control Number: 2016952167 Student Edition: ISBN 978-1-305-95230-0 Loose-leaf Edition: ISBN 978-1-305-96536-2 Cengage Learning 20 Channel Center Street Boston, MA 02210 USA Cengage Learning is a leading provider of customized learning solutions with employees residing in nearly 40 different countries and sales in more than 125 countries around the world. Find your local representative at www.cengage.com.
-
 Cengage Learning products are represented in Canada by Nelson Education, Ltd.
-
-To learn more about Cengage Learning Solutions, visit www.cengage.com.
-
-Purchase any of our products at your local college store or at our preferred online store www.cengagebrain.com.
 
 For product information and technology assistance, contact us at Cengage Learning Customer & Sales Support, 1-800-354-9706.
 
-For permission to use material from this text or product, submit all requests online at www.cengage.com/permissions.
-
-Further permissions questions can be e-mailed to permissionrequest@cengage.com.
-
-Printed in the United States of America Print Number: 01   Print Year: 2016 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 We dedicate this book to our wives, children, grandchildren, relatives, and friends who have provided so much love, support, and understanding through the years, and to the students for whom this book was written.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## Part 1 Mechanics
 
@@ -74,8 +47,6 @@ topic 26 relativity 838 topic 27 Quantum Physics 864 topic 28 atomic Physics 886
 ## aPPENDIX C: Some Useful tables a.19
 
 ## aPPENDIX D: SI Units a.21
-
-aNSWErS: Quick Quizzes, Example Questions, and Odd-Numbered Conceptual Questions and Problems a.23 Index I.1 Contents overview Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Contents About the Authors viii engAging APPlicAtions xxi McAt test PrePArAtion guide xxiii
 
@@ -219,8 +190,6 @@ Summary topic 12 the Laws of thermodynamics
 
 ## 12.3 Thermal Processes in Gases
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 vi Contents
 
 ## 17.4 Resistance, Resistivity, and Ohm’s Law
@@ -344,8 +313,6 @@ Summary topic 17 Current and resistance
 ## 17.2 A Microscopic View: Current and Drift Speed
 
 ## 17.3 Current and Voltage Measurements In Circuits
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 27.7 The Wave Function
 
@@ -487,8 +454,6 @@ Summary topic 27 Quantum Physics
 
 ## 27.6 The Dual Nature of Light and Matter
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 About the Authors Raymond A. Serway received his doctorate at Illinois Institute of Technology and is Professor Emeritus at James Madison University. In 2011, he was awarded an honorary doctorate degree from his alma mater, Utica College. He received the 1990 Madison Scholar Award at James Madison University, where he taught for 17 years.
 
 Dr. Serway began his teaching career at Clarkson University, where he conducted research and taught from 1967 to 1980. He was the recipient of the Distinguished Teaching Award at Clarkson University in 1977 and the Alumni Achievement Award from Utica College in 1985. As Guest Scientist at the IBM Research Laboratory in Zurich, Switzerland, he worked with K. Alex Müller, 1987 Nobel Prize recipient.
@@ -498,8 +463,6 @@ Dr. Serway was also a visiting scientist at Argonne National Laboratory, where h
 Dr. Serway and his wife Elizabeth enjoy traveling, playing golf, fishing, gardening, singing in the church choir, and especially spending quality time with their four chil- dren, nine grandchildren, and a great grandson.
 
 Chris Vuille is an associate professor of physics at Embry-Riddle Aeronautical University (ERAU), Daytona Beach, Florida, the world’s premier institution for avia- tion higher education. He received his doctorate in physics at the University of Florida in 1989. While he has taught courses at all levels, including postgraduate, his primary interest and responsibility has been the teaching of introductory physics courses. He has received a number of awards for teaching excellence, including the Senior Class Appreciation Award (three times). He conducts research in general relativity, astro- physics, cosmology, and quantum theory, and was a participant in the JOVE program, a special three-year NASA grant program during which he studied neutron stars. His work has appeared in a number of scientific journals and in Analog Science Fiction/ Science Fact magazine. In addition to this textbook, he is the coauthor of Essentials of College Physics. Dr. Vuille enjoys playing tennis, swimming, yoga, playing classical piano, and writing science fiction; he is a former chess champion of St. Petersburg and Atlanta and the inventor of x-chess. His wife, Dianne Kowing, is Chief of Optometry at a local VA clinic. He has a daughter, Kira, and two sons, Christopher and James, all of whom love science.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface College Physics is written for a one-year course in introductory physics usually taken by students majoring in biology, the health professions, or other disciplines, including environmental, earth, and social sciences, and technical fields such as architecture. The mathematical techniques used in this book include algebra, geometry, and trigonometry, but not calculus. Drawing on positive feedback from users of the tenth edition, analytics gathered from both professors and students, as well as reviewers’ suggestions, we have refined the text to better meet the needs of students and teachers. In addition, the text now has a fully-integrated learning path in MindTap.
 
@@ -512,8 +475,6 @@ Changes to the Eleventh Edition The text has been carefully edited to improve cl
 Although the overall content and organization of the textbook are similar to the tenth edition, numerous changes and improvements have been made in preparing the eleventh edition. Some of the new features are based on our experiences and on current trends in science education. Other changes have been incorporated in response to comments and suggestions offered by users of the tenth edition. The features listed here represent the major changes made for the eleventh edition.
 
 Mindtap® for Physics MindTap for Physics is the digital learning solution that helps instructors engage and transform today’s students into critical thinkers. Through paths of dynamic assignments and applications that instructors can personalize, real-time course analytics, and an accessible reader, MindTap helps instructors turn cookie-cutter assignments into cutting-edge learning pathways and elevate student engagement beyond memorization into higher-level thinking.
-
-Developed and designed in response to years of research, MindTap leverages modern technology and a powerful answer evaluation system to address the unmet needs of students and educators. The MindTap Learning Path groups the most engaging digital learning assets and activities together by week and topic, including readings and automatically graded assessments, to help students master each learning objective. MindTap for Physics assessments incorporate assorted Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface just-in-time learning tools such as displayed solutions, solution videos for selected problems, targeted readings, and examples from the textbook. These just-in-time tools are embedded directly adjacent to each question to help students maintain focus while completing automatically graded assessments.
 
@@ -534,8 +495,6 @@ A revision to the discussion of Newton’s laws of motion will ease students’ 
 the System approach Extended to rotating Systems The most difficult problems in first-year physics are those involving both the second law of motion and the second law of motion for rotation. Following an insight by one of the authors (Vuille) while teaching an introductory class, it turns out that these problems, involving up to four equations and four unknowns, can often be easily solved with one equation and one unknown! Vuille has put this technique in Topic 8 (Rotational Equilibrium and Dynamics). Not found in any other first-year textbook, this technique greatly reduces the learning curve in that topic by turning the hardest problem type into one of the easiest.
 
 New Conceptual Questions One hundred and twenty-five of the conceptual questions in the text (25% of the total amount) are new to this edition; they have been developed to be more sys- tematic and clicker-friendly.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface New End-of-topic Problems Hundreds of new problems have been developed for this edition, taking into account statistics on problem usage by past users.
 
@@ -560,8 +519,6 @@ However, the x-component of the velocity, vx, remains constant in time, equal to
 vS vS vS g S v0x v0x v0x vy vy  0 v0x vy v0y v0y v0x y u0 u u u0 The y-component of velocity is zero at the peak of the path.
 
 The x-component of velocity remains constant in time.
-
-v0 S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface discussions. Answers to odd-numbered conceptual questions are included in the Answers section at the end of the book. Answers to even-numbered questions are in the Instructor’s Solutions Manual.
 
@@ -613,8 +570,6 @@ Question Each worked example features a conceptual question that promotes studen
 
 Exercise/Answer Every Question is followed immediately by an exercise with an answer. These exercises allow students to reinforce their understanding by working a similar or related problem, with the answers giving them instant feedback. At the option of the instructor, the exercises can also be assigned as homework. Students who work through these exercises on a regular basis will find the end-of-topic problems less intimidating.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Preface
 
 ■ Biomedical problems deal with applications to the life sciences and medicine.
@@ -632,8 +587,6 @@ An example of a quantitative/conceptual problem is provided here: 5.
 Starting from rest, a 5.00 - kg block slides 2.50 m down a rough 30.0° incline. The coefficient of kinetic friction between the block and the incline is mk 5 0.436. Determine (a) the work done by the force of gravity, (b) the work done by the friction force between block and incline, and (c) the work done by the normal force. (d) Qualitatively, how would the answers change if a shorter ramp at a steeper angle were used to span the same vertical height?
 
 ■ Guided problems help students break problems into steps. A physics problem typically asks for one physical quantity in a given context. Often, however, several concepts must be used and a number of calculations are required to get that final answer. Many students are not accustomed to this level of complexity and often don’t know where to start. A guided problem breaks a problem into smaller steps, enabling students to grasp all the concepts and strategies required to arrive at a correct solution. Unlike standard physics problems, guidance is often built into the problem statement. For example, the problem might say “Find the speed using conservation of energy” rather than asking only for the speed. In any given topic, there are usually two or three problem types that are particularly suited to this problem form. The problem must have a certain level of complexity, with a similar problem-solving strategy involved each time it appears. Guided problems are reminiscent of how a student might interact with a professor in an office visit.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface These problems help train students to break down complex problems into a series of simpler problems, an essential problem-solving skill. An example of a guided problem is provided here: 62.
 
@@ -671,8 +624,6 @@ should be taken from the vector equation and written individually. This usually 
 
 ## PROBLEM-SOLVING STRATEGY
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Preface This feature helps students identify the essential steps in solving problems and increases their skills as problem solvers.
 
 Biomedical applications  For biology and pre-med students, icons point the way to various practical and interesting applications of physical principles to biol- ogy and medicine. A list of these applications can be found on pages xxi-xxii.
@@ -699,8 +650,6 @@ Important Statements and Equations  Most important statements and defini- tions 
 
 Tip 4.3 newton’s second law is a Vector equation In applying Newton’s second law, add all of the forces on the object as vectors and then find the resultant vector acceleration by dividing by m. Don’t find the indi- vidual magnitudes of the forces and add them like scalars.
 
-b Newton’s third law APPlicAtion Diet Versus Exercise in Weight-loss Programs Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Preface Illustrations and tables  The readability and effectiveness of the text material, worked examples, and end-of-topic conceptual questions and problems are enhanced by the large number of figures, diagrams, photographs, and tables. Full color adds clarity to the artwork and makes illustrations as realistic as possible.
 
 Three-dimensional effects are rendered with the use of shaded and lightened areas where appropriate. Vectors are color coded, and curves in graphs are drawn in color. Color photographs have been carefully selected, and their accompany- ing captions have been written to serve as an added instructional tool. A complete description of the pedagogical use of color appears on the inside front cover.
@@ -717,31 +666,19 @@ Option A: If you choose to place more emphasis on contemporary topics in physics
 
 Option B: If you choose to place more emphasis on classical physics, you could omit all or parts of Part 6 of the textbook, which deals with special relativity and other topics in twentieth-century physics.
 
-CengageBrain.com To register or access your online learning solution or purchase materials for your course, visit www.cengagebrain.com.
-
 Lecture Presentation resources Cengage Learning testing Powered by Cognero is a flexible, online system that allows you to author, edit, and manage test bank content from multiple Cengage Learning solutions, create multiple test versions in an instant, and deliver tests from your LMS, your classroom, or wherever you want.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Preface Instructor resource Website for Serway/Vuille College Physics, Eleventh Edition The Instructor Resource Website contains a variety of resources to aid you in pre- paring and presenting text material in a manner that meets your personal prefer- ences and course needs. The posted Instructor’s Solutions Manual presents complete worked solutions for all end-of-chapter problems and even-numbered conceptual questions, answers for all even-numbered problems, and full answers with explana- tions for the Quick Quizzes. Robust PowerPoint lecture outlines that have been designed for an active classroom are available, with reading check questions and Think-Pair-Share questions as well as the traditional section-by-section outline.
 
 Images from the textbook can be used to customize your own presentations.
 
-Available online via www.cengage.com/login.
-
-Student resources To register or access your online learning solution or purchase materials for your course, visit www.cengagebrain.com.
-
 Physics Laboratory Manual, Fourth Edition  by David Loyd (Angelo State Univer- sity). Ideal for use with any introductory physics text, Loyd’s Physics Laboratory Man- ual is suitable for either calculus- or algebra/trigonometry-based physics courses.
-
-Designed to help students demonstrate a physical principle and teach techniques of careful measurement, Loyd’s Physics Laboratory Manual also emphasizes concep- tual understanding and includes a thorough discussion of physical theory to help students see the connection between the lab and the lecture. Many labs give stu- dents hands-on experience with statistical analysis, and now five computer-assisted data entry labs are included in the printed manual. The fourth edition maintains the minimum equipment requirements to allow for maximum flexibility and to make the most of preexisting lab equipment. For instructors interested in using some of Loyd’s experiments, a customized lab manual is another option available through the Cengage Learning Custom Solutions program. Now, you can select specific experiments from Loyd’s Physics Laboratory Manual, include your own original lab experiments, and create one affordable bound book. Contact your Cengage Learning representative for more information on our Custom Solutions program. Available with InfoTrac® Student Collections http://gocengage.com/ infotrac.
 
 Physics Laboratory Experiments, Eighth Edition by Jerry D. Wilson (Lander College) and Cecilia A. Hernández (American River College). This market-leading manual for the first-year physics laboratory course offers a wide range of class- tested experiments designed specifically for use in small to midsize lab programs.
 
 A series of integrated experiments emphasizes the use of computerized instru- mentation and includes a set of “computer-assisted experiments” to allow students and instructors to gain experience with modern equipment. It also lets instruc- tors determine the appropriate balance of traditional versus computer-based experiments for their courses. By analyzing data through two different methods, students gain a greater understanding of the concepts behind the experiments.
 
 The Eighth Edition is updated with four new economical labs to accommodate shrinking department budgets and thirty new Pre-Lab Demonstrations, designed to capture students’ interest prior to the lab and requiring only widely available materials and items.
-
-acknowledgments In preparing the eleventh edition of this textbook, we have been guided by the expertise of many people who have reviewed one or more parts of the manuscript Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 xviii Preface or provided suggestions. Prior to our work on this revision, we conducted a sur- vey of professors who teach the course; their collective feedback helped shape this revision, and we thank them: Brian Bucklein, Missouri Western State University Brian L. Cannon, Loyola University Chicago Kapila Clara Castoldi, Oakland University Daniel Costantino, The Pennsylvania State University John D. Cunningham, S.J., Loyola University Chicago Jing Gao, Kean University Awad Gerges, The University of North Carolina at Charlotte Lipika Ghosh, Virginia State University Bernard Hall, Kean University Marc L. Herbert, Hofstra University Dehui Hu, Rochester Institute of Technology Shyang Huang, Missouri State University Salomon Itza, University of the Ozarks Cecil Joseph, University of Massachusetts Lowell Bjorg Larson, Drew University Gen Long, St. John’s University Xihong Peng, Arizona State University Chandan Samantaray, Virginia State University Steven Summers, Arkansas State University—Newport We also wish to acknowledge the following reviewers of recent editions, and express our sincere appreciation for their helpful suggestions, criticism, and encouragement.
 
@@ -751,27 +688,15 @@ Bolland, The Ohio State University; Kevin R. Carter, School of Science and Engin
 
 Hart, Brigham Young University; Eugene Surdutovich, Oakland University; and Extanto Technology. Although responsibility for any remaining errors rests with us, we thank them for their dedication and vigilance.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Preface Gerd Kortemeyer and Randall Jones contributed several end-of-topic problems, especially those of interest to the life sciences. Edward F. Redish of the University of Maryland graciously allowed us to list some of his problems from the Activity Based Physics Project. Andy Sheikh of Colorado Mesa University regularly sends in suggestions for improvements, clarifications, or corrections.
 
 Special thanks and recognition go to the professional staff at Cengage Learning— in particular, Rebecca Berardy Schwartz, Ed Dodd, Susan Pashos, Michael Jacobs, Tanya Nigh, Janet del Mundo, Nicole Hurst, Maria Kilmek, Darlene Amidon-Brent, Cate Barr, and Caitlin Ghegan—for their fine work during the development, production, and promotion of this textbook. We recognize the skilled production service provided by Eve Malakoff-Klein and the staff at Cenveo® Publisher Services, and the dedicated permission research efforts of Ranjith Rajaram and Kanchana Vijayarangan at Lumina Datamatics.
 
 Finally, we are deeply indebted to our wives and children for their love, support, and long-term sacrifices.
 
-Raymond A. Serway St. Petersburg, Florida Chris Vuille Daytona Beach, Florida Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Hydraulic lifts, p. 274 Building the pyramids, p. 276 Decompression and injury to the lungs, p. 276 Measuring blood pressure, p. 277 Ballpoint pens, p. 277 Buoyancy control in fish, p. 279 Cerebrospinal fluid, p. 279 Testing your car’s antifreeze, pp. 279–280 Checking the battery charge, p. 280 Flight of a golf ball, pp. 289–290 “Atomizers” in perfume bottles and paint sprayers, p. 290 Vascular flutter and aneurysms, p. 290 Lift on aircraft wings, p. 290 Sailing upwind, p. 291 Home plumbing, p. 292 Rocket engines, p. 292 Air sac surface tension, p. 294 Walking on water, p. 294 Detergents and waterproofing agents, p. 295 Blood samples with capillary tubes, p. 296 Capillary action in plants, p. 296 Poiseuille’s law and blood flow, p. 298 A blood transfusion, p. 299 Turbulent flow of blood, pp. 299–300 Effect of osmosis on living cells, p. 301 Kidney function and dialysis, p. 301 Separating biological molecules with centrifugation, p. 304 Football injuries, pp. 307–308 Arch structures in buildings, p. 309 topic 10 Skin temperature, p. 325 Thermal expansion joints, p. 326 Pyrex glass, p. 327 Bimetallic strips and thermostats, p. 328 Rising sea levels, p. 330 Global warming and coastal flooding, pp. 330–331 The expansion of water on freezing and life on Earth, p. 332 Bursting pipes in winter, p. 332 Expansion and temperature, p. 342 topic 11 Working off breakfast, pp. 350–351 Physiology of exercise, p. 351 Sea breezes and thermals, p. 352 Conductive losses from the human body, p. 363 Minke whale temperature, p. 363 Home insulation, pp. 364–365 Engaging Applications Although physics is relevant to so much in our lives, it may not be obvious to students in an introductory course. In this eleventh edition of College Physics, we continue a design feature begun in the seventh edition. This feature makes the relevance of physics to everyday life more obvious by pointing out specific applications in the form of a marginal note. Some of these applications pertain to the life sciences and are marked with the icon. The list below is not intended to be a complete listing of all the applications of the principles of physics found in this textbook. Many other applications are to be found within the text and especially in the worked examples, conceptual questions, and end-of-topic problems.
 
-topic 3 Long jumping, p. 65 topic 4 Seat belts, p. 83 Helicopter flight, p. 90 Colliding vehicles, p. 91 Skydiving, p. 110 topic 5 Accident reconstruction, p. 142 Flagellar movement; bioluminescence, p. 143 Asteroid impact, p. 144 Shamu sprint (power generated by killer whale), p. 146 Energy and power in a vertical jump, pp. 147–149 Diet versus exercise in weight-loss programs, p. 148 Maximum power output from humans over various periods (table), p. 149 topic 6 Boxing and brain injury, p. 163 Injury to passengers in car collisions, p. 165 Conservation of momentum and squid propulsion, p. 167 Glaucoma testing, p. 170 Professor Goddard was right all along: Rockets work in space! p. 178 Multistage rockets, p. 179 topic 7 ESA launch sites, p. 196 Phonograph records and compact discs, p. 197 Artificial gravity, p. 202 Banked roadways, p. 204 Why is the Sun hot? p. 210 Geosynchronous orbit and telecommunications satellites, p. 215 topic 8 Locating your lab partner’s center of gravity, pp. 230–231 A weighted forearm, pp. 235–236 Bicycle gears, p. 240 Warming up, pp. 243–244 Figure skating, p. 249 Aerial somersaults, p. 249 Rotating neutron stars, p. 250 topic 9 Snowshoes, p. 270 Bed-of-nails trick, p. 271 A pain in the ear, p. 273 Construction and thermal insulation, pp. 365–366 Cooling automobile engines, p. 367 Algal blooms in ponds and lakes, p. 367 Body temperature, p. 368 Light-colored summer clothing, p. 369 Thermography, p. 369 Radiation thermometers for measuring body temperature, p. 369 Thermal radiation and night vision, p. 370 Polar bear club, pp. 370–371 Estimating planetary temperatures, pp. 371–372 Thermos bottles, p. 372 Global warming and greenhouse gases, pp. 372–374 topic 12 Refrigerators and heat pumps, pp. 401–403 “Perpetual motion” machines, p. 407 The direction of time, p. 410 Human metabolism, pp. 412–414 Fighting fat, p. 413 Physical fitness and efficiency of the human body as a machine, p. 414 topic 13 Archery, p. 428 Pistons and drive wheels, p. 431 Bungee jumping, p. 433 Pendulum clocks, p. 438 Use of pendulum in prospecting, p. 438 Shock absorbers, p. 440 Bass guitar strings, p. 446 topic 14 Medical uses of ultrasound, p. 458 Cavitron ultrasonic surgical aspirator, p. 459 High-intensity focused ultrasound (HIFU), p. 459 Ultrasonic ranging unit for cameras, p. 459 The sounds heard during a storm, pp. 460–461 OSHA noise-level regulations, p. 464 Out-of-tune speakers, p. 468 Sonic booms, p. 471 Connecting your stereo speakers, p. 472 Tuning a musical instrument, p. 475 Guitar fundamentals, pp. 475–476 Shattering goblets with the voice, p. 477 Structural integrity and resonance, p. 478 Oscillations in a harbor, p. 480 Why are instruments warmed up? p. 480 How do bugles work? p. 480 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Engaging Applications Using beats to tune a musical instrument, p. 482 Why does the professor sound like Donald Duck? p. 485 The ear, pp. 485–487 Cochlear implants, p. 487 topic 15 Measuring atmospheric electric fields, p. 509 Lightning rods, p. 511 Driver safety during electrical storms, p. 512 topic 16 Automobile batteries, p. 532 The electrostatic precipitator, p. 539 The electrostatic air cleaner, p. 540 Xerographic copiers, p. 540 Laser printers, p. 541 Camera flash attachments, p. 542 Computer keyboards, p. 542 Electrostatic confinement, p. 542 Defibrillators, p. 551 Stud finders, p. 554 topic 17 Dimming of aging lightbulbs, p. 574 Lightbulb failures, p. 578 Electrical activity in the heart, pp. 582–584 Electrocardiograms, p. 582 Cardiac pacemakers, p. 583 Implanted cardioverter defibrillators, p. 583 topic 18 Christmas lights in series, p. 592 Circuit breakers, p. 596 Three-way lightbulbs, p. 597 Timed windshield wipers, p. 603 Bacterial growth, p. 604 Roadway flashers, p. 604 Fuses and circuit breakers, p. 607 Third wire on consumer appliances, p. 608 Conduction of electrical signals by neurons, pp. 609–611 topic 19 Dusting for fingerprints, p. 621 Magnetic bacteria, p. 623 Labeling airport runways, p. 623 Compasses down under, p. 623 Mass spectrometers, p. 629 Loudspeaker operation, p. 631 Electromagnetic pumps for artificial hearts and kidneys, p. 631 Lightning strikes, p. 631 Electric motors, p. 634 topic 20 Ground fault interrupters (GFIs), p. 663 Electric guitar pickups, p. 663 Apnea monitors, p. 664 Space catapult, p. 666 Alternating-current generators, p. 668 Direct-current generators, p. 670 Motors, p. 671 topic 21 Electric fields and cancer treatment, p. 691 Shifting phase to deliver more power, p. 699 Tuning your radio, p. 700 Metal detectors at the courthouse, p. 700 Long-distance electric power transmission, p. 702 Radio-wave transmission, p. 706 Solar system dust, p. 709 A hot tin roof (solar-powered homes), pp. 709–710 Light and wound treatment, pp. 713–714 The sun and the evolution of the eye, p. 714 topic 22 Seeing the road on a rainy night, p. 725 Red eyes in flash photographs, p. 726 The colors of water ripples at sunset, p. 726 Double images, p. 726 Refraction of laser light in a digital video disc (DVD), p. 732 Identifying gases with a spectrometer, p. 733 The rainbow, p. 736 Submarine periscopes, p. 739 Fiber optics in medical diagnosis and surgery, p. 741 Fiber optics in telecommunications, p. 741 Design of an optical fiber, p. 741 topic 23 Day and night settings for rearview mirrors, p. 752 Illusionist’s trick, p. 752 Concave vs. convex, p. 757 Reversible waves, p. 757 Underwater vision, p. 761 Vision and diving masks, p. 767 topic 24 A smoky Young’s experiment, p. 786 Analog television signal interference, p. 786 Checking for imperfections in optical lenses, p. 789 Perfect mirrors, p. 792 The physics of CDs and DVDs, p. 792 Diffraction of sound waves, p. 796 Prism vs. grating, p. 798 Rainbows from a CD, p. 799 Tracking information on a CD, p. 799 Polarizing microwaves, p. 802 Polaroid sunglasses, p. 804 Finding the concentrations of solutions by means of their optical activity, p. 805 Liquid crystal displays (LCDs), p. 805 topic 25 The camera, pp. 814–815 The eye, pp. 815–819 Using optical lenses to correct for defects, p. 817 Prescribing a corrective lens for a farsighted patient, p. 818 A corrective lens for nearsightedness, p. 819 Vision of the invisible man, p. 819 Cat’s eyes, p. 827 topic 26 GPS, p. 857 Faster clocks in a “mile-high city,” p. 859 topic 27 Star colors, p. 865 Photocells, p. 869 Using x-rays to study the work of master painters, p. 871 Electron microscopes, p. 877 X-ray microscopes? p. 878 topic 28 Thermal or spectral? p. 888 Auroras, p. 888 Laser technology, p. 902 Laser eye surgery, p. 902 topic 29 Binding nucleons and electrons, p. 912 Energy and half-life, p. 917 Carbon dating, p. 919 Smoke detectors, p. 920 Radon pollution, p. 920 Should we report this skeleton to homicide?
-
-p. 921 Medical applications of radiation, pp. 924–927 Occupational radiation exposure limits, p. 925 Irradiation of food and medical equipment, p. 925 Radioactive tracers in medicine, p. 925 Magnetic resonance imaging (MRI), pp. 926–927 topic 30 Unstable products, p. 933 Nuclear reactor design, p. 935 Fusion reactors, p. 937 Positron-emission tomography (PET scanning), p. 940 Breaking conservation laws, p. 944 Conservation of meson number, p. 946 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Welcome to Your MCAT Test Preparation Guide The MCAT Test Preparation Guide makes your copy of College Physics, eleventh edition, the most comprehensive MCAT study tool and classroom resource in introductory physics. The MCAT was revised in 2015 (see www.aamc.
 
 org/students/applying/mcat/mcat2015 for more details); the test section that now includes problems related to physics is Chemical and Physical Foundations of Biological Systems. Of the ~65 test questions in this section, approximately 25% relate to introductory physics topics from the six content categories shown below: Content Category 4a: Translational motion, forces, work, energy, and equilibrium in living systems review Plan Motion j topic 1, Sections 1.1, 1.3, 1.5, and 1.9–1.10
 
@@ -862,8 +787,6 @@ Quick Quizzes 16.8–16.11
 Examples 16.6–16.12
 
 Topic problems 29–57
-
-■MCAT Test Preparation Guide Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ■ ■MCAT Test Preparation Guide j Topic 17, Sections 17.1 and 17.3–17.5
 
@@ -963,8 +886,6 @@ Quick Quizzes 12.1 and 12.4–12.5
 
 Examples 12.1–12.3, 12.10–12.12, and 12.14–12.16
 
-Topic problems 1–61, 73–74 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Topic 1.1 Standards of Length, Mass, and Time 1.2 The Building Blocks of Matter 1.3 Dimensional Analysis 1.4 Uncertainty in Measurement and Significant Figures 1.5 Unit Conversions for Physical Quantities 1.6 Estimates and Order-of- Magnitude Calculations 1.7 Coordinate Systems 1.8 Trigonometry Review 1.9 Vectors
 
 ## 1.10 Components of a Vector
@@ -991,8 +912,6 @@ This latest definition establishes the speed of light at 299 792 458 meters per 
 
 1.1.2 Mass The SI unit of mass, the kilogram, is defined as the mass of a specific platinum– iridium alloy cylinder kept at the International Bureau of Weights and Measures at Sèvres, France (similar to that shown in Fig. 1.1a). As we’ll see in Topic 4, mass is a Tip 1.1  No Commas in Numbers with Many Digits In science, numbers with more than three digits are written in groups of three digits separated by spaces rather than commas, so that 10 000 is the same as the common American notation 10,000. Similarly, p 5 3.14159265 is written as 3.141 592 65.
 
-b Definition of the meter b Definition of the kilogram Units, Trigonometry, and Vectors Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 1 | Units, Trigonometry, and Vectors quantity used to measure the resistance to a change in the motion of an object. It’s more difficult to cause a change in the motion of an object with a large mass than an object with a small mass.
 
 1.1.3 Time Before 1960, the time standard was defined in terms of the average length of a solar day in the year 1900. (A solar day is the time between successive appear- ances of the Sun at the highest point it reaches in the sky each day.) The basic unit of time, the second, was defined to be (1/60)(1/60)(1/24) 5 1/86 400 of the average solar day. In 1967 the second was redefined to take advantage of the high precision attainable with an atomic clock, which uses the characteristic fre- quency of the light emitted from the cesium-133 atom as its “reference clock.” The second is now defined as 9 192 631 700 times the period of oscillation of radiation from the cesium atom. The newest type of cesium atomic clock is shown in Figure 1.1b.
@@ -1018,8 +937,6 @@ Observable Universe 1 3 1052 Milky Way galaxy 7 3 1041 Sun 2 3 1030 Earth 6 3 10
 Time Interval (s)
 
 Age of Universe 5 3 1017 Age of Earth 1 3 1017 Age of college student 6 3 108 One year 3 3 107 One day 9 3 104 Heartbeat 8 3 1021 Audible sound wave perioda 1 3 1023 Typical radio wave perioda 1 3 1026 Visible light wave perioda 2 3 10215 Nuclear collision 1 3 10222 aA period is defined as the time required for one complete vibration.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 1.2 | The Building Blocks of Matter
 
@@ -1057,10 +974,6 @@ Inside the nucleus are protons (orange) and neutrons (gray).
 
 Protons and neutrons are composed of quarks. A proton consists of two up quarks and one down quark.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
-
 The up and down quarks are sufficient to describe all normal matter, so the existence of the other four quarks, indirectly observed in high-energy experiments, is something of a mystery. Despite strong indirect evidence, no isolated quark has ever been observed. Consequently, the possible existence of yet more fundamental particles remains purely speculative.
 
 ## 1.3 Dimensional Analysis
@@ -1086,8 +999,6 @@ Table 1.5  Dimensions and Some Units of Area, Volume, Velocity, and Acceleration
 Volume (L3)
 
 Velocity (L/T) Acceleration (L/T2)
-
-SI m2 m3 m/s m/s2 cgs cm2 cm3 cm/s cm/s2 U.S. customary ft2 ft3 ft/s ft/s2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 1.3 | Dimensional Analysis
 
@@ -1141,8 +1052,6 @@ A good technique sometimes introduced in calculus-based textbooks involves using
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 1 | Units, Trigonometry, and Vectors QUESTION 1.2  True or False: Replacing v by r/t in the final answer also gives a dimensionally correct equation.
 
 EXERCISE 1.2  In physics, energy E carries dimensions of mass times length squared divided by time squared. Use dimensional analysis to derive a relationship for energy in terms of mass m and speed v, up to a constant of proportionality. Set the speed equal to c, the speed of light, and the constant of proportionality equal to 1 to get the most famous equation in physics. (Note, however, that the first relationship is associated with energy of motion and the second with energy of mass. See Topic 26.)
@@ -1168,8 +1077,6 @@ Suppose we would like to find the area of the plate by multiplying the two mea- 
 (16.4 cm)(4.6 cm) 5 75.44 cm2. Claiming to know anything about the hundredths place, or even the tenths place, doesn’t make any sense, because it’s clear we can’t even be certain of the units place, whether it’s the 1 in 71, the 5 in 75, or some- where in between. The tenths and the hundredths places are clearly not signifi- cant. We have some information about the units place, so that number is significant.
 
 Multiplying the numbers at the middle of the uncertainty ranges gives (16.3 cm)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 1.4 | Uncertainty in Measurement and Significant Figures
 
@@ -1198,8 +1105,6 @@ To show why this rule should hold, we return to the first example in which we ad
 1Some prefer to round to the nearest even digit when the last dropped digit is 5, which has the advantage of round- ing 5 up half the time and down half the time. For example, 1.55 would round to 1.6, but 1.45 would round to 1.4.
 
 Because the final significant figure is only one representative of a range of values given by the uncertainty, this very slight refinement will not be used in this text.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 1 | Units, Trigonometry, and Vectors line up 123.xxx and 5.35x relative to the decimal point and perform the addition, using the rule that an unknown digit added to a known or unknown digit yields an unknown:
 
@@ -1263,8 +1168,6 @@ Sum all three answers without regard to significant figures:
 
 ## 1.10 3 102 m2 1 25 m2 1 100 m2 5 235
 
-The least accurate number is 100 m2, with one significant figure in the hundred’s decimal place: 235 m2 S   2 3 102 m2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.5 | Unit Conversions for Physical Quantities
 
 REMARKS  Notice that the final answer in part (d) has only one significant figure, in the hundred’s place, resulting in an answer that had to be rounded down by a sizable fraction of its total value. That’s the consequence of having insufficient information.
@@ -1290,8 +1193,6 @@ Conversion factors between the SI and U.S. customary systems for units of length
 1 m 5 39.37 in. 5 3.281 ft 1 in. 5 0.025 4 m 5 2.54 cm A more extensive list of conversion factors can be found on the front endsheets of this book. In all the given conversion equations, the “1” on the left is assumed to have the same number of significant figures as the quantity given on the right of the equation.
 
 Units can be treated as algebraic quantities that can “cancel” each other. We can make a fraction with the conversion that will cancel the units we don’t want, and Figure 1.3 The speed limit is given in both kilometers per hour and miles per hour on this road sign. How accurate is the conversion?
-
-istockphoto.com/JessieEldora Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 1 | Units, Trigonometry, and Vectors multiply that fraction by the quantity in question. For example, suppose we want to convert 15.0 in. to centimeters. Because 1 in. 5 2.54 cm, we find that
 
@@ -1351,8 +1252,6 @@ QUESTION 1.5  What time conversion factor or factors would be used to further co
 
 EXERCISE 1.5  Convert 4.50 3 103 kg/m3 to g/cm3.
 
-ANSWER  4.50 g/cm3 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.6 | Estimates and Order-of-Magnitude Calculations
 
 ## 1.6  Estimates and Order-of-
@@ -1387,8 +1286,6 @@ EXERCISE 1.6  Estimate the total number of cells in the human body.
 
 ANSWER  1014 (Answers may vary.)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 1 | Units, Trigonometry, and Vectors EXAMPLE 1.7 sTACk onE-doLLAr BILLs To ThE Moon GOAL  Estimate the number of stacked objects required to reach a given height.
 
 PROBLEM  How many one - dollar bills, stacked one on top of the other, would reach the Moon?
@@ -1417,11 +1314,7 @@ STRATEGY  From the known information, we can estimate the number of galaxies per
 
 Compute the approximate volume Vlg of the local group of galaxies: Vlg 5 4 3pr 3 , 1106 ly2 3 5 1018 ly3 Estimate the density of galaxies: density of galaxies 5 # of galaxies Vl g , 10 galaxies 1018 ly3 5 10217 galaxies ly3 Compute the approximate volume of the observable universe: Vu 5 4 3pr 3 , 11010 ly2 3 5 1030 ly3 Multiply the density of galaxies by Vu : # of galaxies , (density of galaxies)Vu 5 a10217 galaxies ly3 b 11030 ly32 5  1013 galaxies Figure 1.4  In this deep-space photo- graph, there are few stars—just galax- ies without end.
 
-NASA, ESA, S. Beckwith (STScI) and the HUDF Team Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.7 | Coordinate Systems
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 REMARKS  Notice the approximate nature of the com putation, which uses 4p/3 , 1 on two occasions and 14 , 10 for the num- ber of galaxies in the local group. This is completely justified: Using the actual numbers would be pointless, because the other assumptions in the problem—the size of the observable universe and the idea that the local galaxy density is representative of the density everywhere—are also very rough approximations. Further, there was nothing in the problem that required using volumes of spheres rather than volumes of cubes. Despite all these arbitrary choices, the answer still gives useful information, because it rules out a lot of reasonable possible answers. Before doing the calculation, a guess of a billion galaxies might have seemed plausible.
 
@@ -1460,10 +1353,6 @@ P O Figure 1.6  The plane polar coordi- nates of a point are represented by the 
 O (r, u)
 
 r u u 0
-
-Reference line Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 1.8 Trigonometry Review
 
@@ -1505,11 +1394,7 @@ r y (m)
 
 u Figure 1.8 (Example 1.9) Converting from Cartesian coordinates to polar coordinates.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.8 | Trigonometry Review
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 REMARKS  When we take up vectors in two dimensions in Topic 3, we will routinely use a similar process to find the direction and magnitude of a given vector from its components, or, conversely, to find the components from the vector’s magnitude and direction.
 
@@ -1561,8 +1446,6 @@ Solve for the height: Dy 5 (tan 39.0°)(46.0 m) 5 (0.810)(46.0 m) 5 37.3 m Add
 
 Use the Pythagorean theorem: r 5 "x 2 1 y 2 5 "137.3 m2 2 1 146.0 m2 2 5  59.2 m (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 1 | Units, Trigonometry, and Vectors REMARKS  In the next section, right-triangle trigonometry is often used when working with vectors.
 
 QUESTION 1.10  Could the distance traveled by the light beam be found without using the Pythagorean theorem? How?
@@ -1595,11 +1478,7 @@ Scalar Addition A
 
 S differs significantly from A 1 B 5 C. The first is a vec- tor sum, which must be handled graphically or with components, whereas the second is a simple arithmetic sum of numbers.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.9 | Vectors
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 direction is specified relative to a coordinate system. Then draw vector B S to the same scale with the tail of B S starting at the tip of A S, as in Figure 1.12a. Vector B S must be drawn along the direction that makes the proper angle relative to vector A S.
 
@@ -1695,10 +1574,6 @@ A S B S We would draw here if we were adding it to   .
 
 Adding     to is equivalent to subtracting from   .
 
-A S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 1.11 TAkInG A TrIP GOAL  Find the sum of two vectors by using a graph.
 
 PROBLEM  A car travels 20.0 km due north and then 35.0 km in a direction 60.0° west of north, as in Figure 1.15. Using a graph, find the magnitude and direction of a single vector that gives the net effect of the car’s trip. This vector is called the car’s resultant displacement.
@@ -1761,11 +1636,7 @@ Figure 1.16  Any vector A S lying in the xy - plane can be represented by its re
 
 y O u A S Ax Ay tan u Ax Ay Tip 1.5 x - and y - components Equation 1.4 for the x - and y  - components of a vector associ- ates cosine with the x - component and sine with the y - component, as in Figure 1.17a. This association is due solely to the fact that we chose to measure the angle u with respect to the positive x - axis. If the angle were measured with respect to the y - axis, as in Figure 1.17b, the components would be given by Ax 5 A sin u and Ay 5 A cos u.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.10 | Components of a Vector
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 To solve for the angle u, which is measured counterclockwise from the positive x - axis by convention, the inverse tangent can be taken of both sides of Equation 1.6: u 5 tan21a Ay Ax b This formula gives the right answer for u only half the time! The inverse tangent function returns values only from 290° to 190°, so the answer in your calcula- tor window will only be correct if the vector happens to lie in the first or fourth quadrant. If it lies in the second or third quadrant, adding 180° to the num- ber in the calculator window will always give the right answer. The angle in Equations 1.4 and 1.6 must be measured from the positive x - axis. Other choices of reference line are possible, but certain adjustments must then be made. (See Tip 1.5 and Fig. 1.17.)
 
@@ -1786,10 +1657,6 @@ Figure 1.17  The angle u need not always be defined from the positive x - axis.
 y Ay = A sin θ θ Ax = A cos θ y Ay = A cos θ θ Ax = A sin θ A S A S a b Figure 1.18  The components of vector B S in a tilted coordinate system.
 
 x′ y′ ′ By′ Bx′ O′ θ B S Figure 1.19  (Quick Quizzes 1.2 and 1.3)
-
-y B S A S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 1.12 hELP Is on ThE wAy!
 
@@ -1825,11 +1692,7 @@ Rx 5 Ax 1 Bx [1.7a]
 
 Ry 5 Ay 1 By [1.7b]
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.10 | Components of a Vector
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 So x - components are added only to x - components, and y - components only to y - components. The magnitude and direction of R S can subsequently be found with Equations 1.5 and 1.6.
 
@@ -1882,10 +1745,6 @@ Use the Pythagorean theorem to get the magnitude: R 5 "R x 2 1 R y 2 5 "137.7 km
 ## 37.7 kmb 5  24.1°
 
 REMARKS  Figure 1.21b shows a sketch of the components of R S and their directions in space. The magnitude and direction of the resultant can also be determined from such a sketch.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
 
 QUESTION 1.13  A second hiker follows the same path the first day, but then walks 15.0 km east on the second day before turn- ing and reaching the ranger’s tower. Is the second hiker’s resultant displacement vector the same as the first hiker’s, or different?
 
@@ -1959,11 +1818,7 @@ Equations are the tools of physics: To solve problems, you have to have them at 
 
 Figure 1.22  A guide to problem solving.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 1.11 | Problem-Solving Strategy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 what they mean and how to use them. Just as you can’t have a conversation without knowing the local language, you can’t solve physics problems without knowing and understanding the equations. This understanding grows as you study and apply the concepts and the equations relating them.
 
@@ -2006,10 +1861,6 @@ REMARKS  In checking (step 8), note that the units match and the answer seems re
 QUESTION 1.14  What are the answers if both distances in the problem statement are doubled but the directions are not changed?
 
 EXERCISE 1.14  Find the distance and direction from the shopper’s home to the restaurant if the store is located 7.00 km due east from home and the restaurant remains 5.00 km from the store in a direction 50.0° west of north.
-
-ANSWER  R 5 4.51 km, u 5 45.4° Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 1.1  standards of Length, Mass, and Time
 
@@ -2080,10 +1931,6 @@ A scalar quantity has a magnitude but no direction; a vector quantity has both m
 Figure 1.24 A point in the plane can be described with Cartesian coordinates (x, y) or with polar coordinates (r, u).
 
 y r (x, y)
-
-O u Figure 1.25 θ r y Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Conceptual Questions  25 vector located at the tip of the first. The resultant vector is the vector drawn from the tail of the first vector to the tip of the second.
 
@@ -2192,8 +2039,6 @@ S is added to A S, under what conditions does the resultant vector have a magnit
 that are equal in magnitude?
 
 Figure 1.26 A vector can be written in terms of components in the x - and y - directions.
-
-y O u A S Ax Ay tan u Ax Ay Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 1 | Units, Trigonometry, and Vectors
 
@@ -2308,10 +2153,6 @@ width measured more accurately than the length. Find the area, taking into accou
 ## PROBLEMS
 
 See the Preface for an explanation of the icons used in this problems set.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  27
 
@@ -2433,10 +2274,6 @@ length of the un known side, (b) the tangent of u, and (c) the sine of f?
 
 the ladder is inclined at an angle of 75.0° to the horizontal, what is the horizontal distance from the bottom of the ladder to the building?
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 1 | Units, Trigonometry, and Vectors Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Figure P1.53 u y
 
 ## 1.9  Vectors
@@ -2527,10 +2364,6 @@ following method: starting directly across from a tree on the opposite bank, he 
 
 How wide is the river?
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  29 force equal to zero. The forces are measured in units of newtons (N).
 
 Figure P1.70 y 60.0 75.0 F2
@@ -2613,8 +2446,6 @@ Three hours later the course of the hurricane suddenly shifts due north, and its
 
 ## 70. The helicopter view in Figure P1.70 shows two people pull-
 
-ing on a stubborn mule. Find (a) the single force that is equivalent to the two forces shown and (b) the force a third person would have to exert on the mule to make the net Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 1 | Units, Trigonometry, and Vectors
 
 ## 75. T  One gallon of paint (volume 5 3.79 3 1023 m3) covers
@@ -2644,8 +2475,6 @@ Estimate the worldwide number of sneezes happening in a time interval approximat
 ## 81. The nearest neutron star (a collapsed star made primarily of
 
 neutrons) is about 3.00 3 1018 m away from Earth. Given that the Milky Way galaxy (Fig. P1.81) is roughly a disk of diameter , 1021 m and thickness , 1019 m, estimate the number of neu- tron stars in the Milky Way to the nearest order of magnitude.
-
-Figure P1.81 Richard Payne/NASA Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 Topic
 
@@ -2685,10 +2514,6 @@ In 1609 he became one of the first to make astronomical observations with a tele
 
 ## 2.1  Displacement, Velocity,
 
-and Acceleration 2.1.1 Displacement Motion involves the displacement of an object from one place in space and time to another. Describing motion requires some convenient coordinate system and a specified origin. A frame of reference is a choice of coordinate axes that defines Motion in one Dimension Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
-
 the starting point for measuring any quantity–an essential first step in solving virtu- ally any problem in mechanics (Fig. 2.1). In Figure 2.2a, for example, a car moves along the x - axis. The coordinates of the car at any time describe its position in space and, more importantly, its displacement at some given time of interest.
 
 The displacement Dx of an object is defined as its change in position and is given by
@@ -2725,8 +2550,6 @@ x (m)
 
 t (s)
 
-B C D E F b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.1 | Displacement, Velocity, and Acceleration
 
 We use the Greek letter delta, D, to denote a change in any physical quantity. From the definition of displacement, we see that Dx (read “delta ex”) is positive if x f is greater than x i and negative if x f is less than x i. For example, if the car moves from point Ⓐ to point Ⓑ so that the initial position is x i 5 30 m and the final position is x f 5 52 m, the displacement is Dx 5 x f 2 x i 5 52 m 2 30 m 5 122 m. However, if the car moves from point Ⓒ to point Ⓕ, then the initial position is x i 5 38 m, the final position is x f 5 253 m, and the displacement is Dx 5 x f 2 x i 5 253 m 2 38 m 5 291 m. A positive answer indicates a displacement in the positive x - direction, whereas a negative answer indicates a displacement in the negative x - direction. Figure 2.2b displays the graph of the car’s position as a function of time.
@@ -2752,8 +2575,6 @@ b Definition of average speed Tip 2.3  Path Length vs.
 Distance Distance is the length of a straight line joining two points. Path length is the length of an actual path traversed between two points, including any retracing of steps or deviations from a straight line.
 
 Tip 2.1  Displacement and Distance Displacement is a change in posi- tion. Distance is the magnitude of the displacement.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 2 | Motion in One Dimension Unlike average speed, average velocity is a vector quantity, having both a magni- tude and a direction. Consider again the car of Figure 2.2, moving along the road (the x - axis). Let the car’s position be x i at some time t i and xf at a later time tf . In the time interval Dt 5 t f 2 t i , the displacement of the car is Dx 5 x f 2 x i .
 
@@ -2791,11 +2612,7 @@ QUESTION 2.1  Does a doubling of an object’s average speed always double the m
 
 EXERCISE 2.1  Estimate the average speed of the Apollo spacecraft in meters per second, given that the craft took five days to reach the Moon from Earth. (The Moon is 3.8 3 108 m from Earth.)
 
-ANSWER  , 900 m/s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.1 | Displacement, Velocity, and Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 As an example, we can use the data in Table 2.1 to find the average velocity in the time interval from point Ⓐ to point Ⓑ (assume two digits are significant): v 5 Dx Dt 5 52 m 2 30 m 10 s 2 0 s 5 2.2 m/s Aside from meters per second, other common units for average velocity are feet per second (ft/s) in the U.S. customary system and centimeters per second (cm/s)
 
@@ -2846,8 +2663,6 @@ A D E B C F The average velocity between any two points equals the slope of the 
 b Figure 2.5  (a) Position vs.
 
 time graph for the motion of a car moving along the x-axis at constant velocity. (b) Posi- tion vs. time graph for the motion of a car with chang- ing velocity, using the data in Table 2.1.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 2 | Motion in One Dimension a graph of the data in Table 2.1. Here, the position versus time graph is not a straight line because the velocity of the car is changing. Between any two points, however, we can draw a straight line just as in Figure 2.5a, and the slope of that line is the average velocity Dx/Dt in that time interval. In general, the average velocity of an object dur- ing the time interval Dt is equal to the slope of the straight line joining the initial and final points on a graph of the object’s position versus time.
 
@@ -2917,11 +2732,7 @@ v 1m/s2
 
 ## 1.00 to 1.01
 
-0.01 0.470 47.0 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.1 | Displacement, Velocity, and Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 approaches the instantaneous velocity. Using the final interval of only 0.010 0 s, we find that the average velocity is v 5 Dx/Dt 5 0.470 m/0.010 0 s 5 47.0 m/s.
 
@@ -2964,10 +2775,6 @@ O A A B B C x (m)
 t (s)
 
 O C a b (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (b) Find the average velocity during the first 4 seconds of the train’s motion.
 
@@ -3015,8 +2822,6 @@ For example, suppose the car shown in Figure 2.8 accelerates from an initial vel
 
 Definition of average c acceleration Figure 2.8  A car moving to the right accelerates from a velocity of vi to a velocity of vf in the time interval Dt 5 tf 2 ti .
 
-tf vf ti Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.1 | Displacement, Velocity, and Acceleration
 
 (Both velocities are toward the right, selected as the positive direction.) These values can be inserted into Equation 2.4 to find the average acceleration: a 5 Dv Dt 5 20 m/s 2 10 m/s 2 s 5 15 m/s2 Acceleration is a vector quantity having dimensions of length divided by the time squared. Common units of acceleration are meters per second per second ((m/s)/s, which is usually written m/s2) and feet per second per second (ft/s2). An average acceleration of 15 m/s2 means that, on average, the car increases its veloc- ity by 5 m/s every second in the positive x - direction.
@@ -3044,10 +2849,6 @@ Here again, the notation lim Dt S0means that the ratio Dv/Dt is evaluated for sm
 Tip 2.6  negative Acceleration Negative acceleration doesn’t nec- essarily mean an object is slowing down. If the acceleration is nega- tive and the velocity is also nega- tive, the object is speeding up!
 
 Tip 2.7  Deceleration The word deceleration means a reduction in speed, a slowing down. Some confuse it with a negative acceleration, which can speed something up. (See Tip 2.6.)
-
-b  Definition of instantaneous acceleration Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 2.3 CATChinG A FLy BALL GOAL  Apply the definition of instantaneous acceleration.
 
@@ -3093,11 +2894,7 @@ t (s)
 
 A B C C a b Figure 2.11  (a) (Example 2.3) (b) (Exercise 2.3)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.2 | Motion Diagrams
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 2.2 Motion Diagrams
 
@@ -3137,10 +2934,6 @@ This car has a constant acceleration in the direction of its velocity.
 
 This car has a constant acceleration in the direction opposite its velocity.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
-
 In Figure 2.12c, the car slows as it moves to the right because its displacement between adjacent positions decreases with time. In this case, the car moves initially to the right with a constant negative acceleration. The velocity vector decreases in time (the red arrows get shorter) and eventually reaches zero, as would happen when the brakes are applied. Note that the acceleration and velocity vectors are not in the same direction. The car is moving with a positive velocity, but with a negative acceleration.
 
 Try constructing your own diagrams for various problems involving kinematics.
@@ -3164,8 +2957,6 @@ Choose the correct graphs.
 t O + + t O – + t O a – a b Figure 2.15 A particle moving along the x-axis with constant acceleration a.
 
 (a) the acceleration vs. time graph, (b) the velocity vs. time graph, and (c) the position vs. time graph.
-
-t v0 v0 at t Slope   a t x0 Slope  v0 t Slope  v t a t Slope  0 a a b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 2.3 | One-Dimensional Motion with Constant Acceleration
 
@@ -3208,10 +2999,6 @@ v 2 5 v 0 2 1 2a Dx (for constant a)
 Equations 2.6 and 2.9 together can solve any problem in one - dimensional motion with constant acceleration, but Equations 2.7, 2.8, and, especially, 2.10 are sometimes convenient. The three most useful equations — Equations 2.6, 2.9, and 2.10 — are listed in Table 2.4.
 
 The best way to gain confidence in the use of these equations is to work a num- ber of problems. There is usually more than one way to solve a given problem, depending on which equations are selected and what quantities are given. The dif- ference lies mainly in the algebra.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ProBLEM-soLVinG sTrATEGy Motion in one Dimension at Constant Acceleration The following procedure is recommended for solving problems involving accelerated motion.
 
@@ -3257,11 +3044,7 @@ Write the kinematics equation for v 2 (step 4): v 2 5 v 0 2 1 2a Dx Figure 2.16 
 
 v = ?
 
-x = 0 v0 = 0 x = 30.5 m + x Solve for v, taking the positive square root because the car moves to the right (step 5): v 5 "v0 2 1 2a Dx Substitute v 0 5 0, a 5 5.00 m/s2, and Dx 5 30.5 m: v 5 "v0 2 1 2a Dx 5 "102 2 1 215.00 m/s22 130.5 m2 5  17.5 m/s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.3 | One-Dimensional Motion with Constant Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (b) How much time has elapsed?
 
@@ -3313,10 +3096,6 @@ Set x trooper 5 x car , and solve the quadratic equation. (The quadratic formula
 
 Only the positive root is meaningful.
 
-(1.50 m/s2)t 2 5 24.0 m 1 (24.0 m/s)t (1.50 m/s2)t 2 2 (24.0 m/s)t 2 24.0 m 5 0 t 5  16.9 s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
-
 REMARKS  The trooper, traveling about twice as fast as the car, must swerve or apply the brakes strongly to avoid a collision!
 
 This problem can also be solved graphically by plotting position vs. time for each vehicle on the same graph. The intersection of the two graphs corresponds to the time and position at which the trooper overtakes the car.
@@ -3359,11 +3138,7 @@ ANSWER  29.41 m/s2 Take a 5 24.47 m/s2 and v 0 5 71.5 m/s. The negative sign on 
 
 Dx braking 5 v 2 2 v0 2a 5 0 2 171.5 m/s2 2 2.00124.47 m/s22 5 572 m Sum the two results to find the total displacement: Dx coasting 1 Dx braking 5 71.5 m 1 572 m 5   644 m Figure 2.18  (Example 2.6) Coasting and braking distances for a landing jetliner.
 
-a Coasting distance Braking distance +x v0 = 71.5 m/s a = 0 t = 1.00 s v  = 71.5 m/s vf = 0 a = –4.47 m/s2 Origin Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.3 | One-Dimensional Motion with Constant Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 2.7 ThE ACELA: ThE PorsChE oF AMEriCAn TrAins GOAL  Find accelerations and displacements from a velocity vs. time graph.
 
@@ -3402,8 +3177,6 @@ PROBLEM  The sleek high-speed electric train known as the Acela (pronounced “a
 Note: Assume that all given quantities and estimates are good to two significant figures. (Estimates by different individuals may vary and result in slightly different answers.)
 
 STRATEGY  For part (a), remember that the slope of the tan- gent line at any point of the velocity vs. time graph gives the acceleration at that time. To find the peak acceleration in part (b), study the graph and locate the point at which the slope is steepest. In parts (c) through (e), estimating the area under the curve gives the displacement during a given period, with areas below the time axis, as in part (e), subtracted from the total. The average acceleration in part (d) can be obtained by substituting numbers taken from the graph into the definition of average acceleration, a 5 Dv/Dt.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 2 | Motion in One Dimension
 
@@ -3477,8 +3250,6 @@ Calculate the slope of the steepest tangent line, which connects the points (50 
 
 5   2.0 (mi/h)/s (b) Find the peak acceleration.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.4 | Freely Falling Objects
 
 Prior to that time, the teachings of the great philosopher Aristotle (384–322 BC)
@@ -3512,10 +3283,6 @@ Galileo Galilei Italian Physicist and Astronomer (1564–1642)
 Galileo formulated the laws that govern the motion of objects in free fall. He also investigated the motion of an object on an inclined plane, established the concept of relative motion, invented the thermometer, and discovered that the motion of a swinging pen- dulum could be used to measure time intervals. After designing and constructing his own telescope, he discovered four of Jupiter’s moons, found that our own Moon’s surface is rough, discovered sun- spots and the phases of Venus, and showed that the Milky Way consists of an enormous number of stars. Galileo publicly defended Nicolaus copernicus’s assertion that the Sun is at the center of the Universe (the heliocentric system).
 
 He published Dialogue Concerning Two New World Systems to sup- port the copernican model, a view the church declared to be hereti- cal. After being taken to Rome in 1633 on a charge of heresy, he was sentenced to life imprisonment and later was confined to his villa at Arcetri, near Florence, where he died in 1642.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 2.8 noT A BAD Throw For A rookiE!
 
@@ -3563,8 +3330,6 @@ Substitute the time t 5 2.04 s into Equation (2): y max 5 (20.0 m/s)(2.04 s) 2 (
 
 Set y 5 0 in Equation (2) and solve for t : 0 5 (20.0 m/s)t 2 (4.90 m/s2)t 2 5 t(20.0 m/s 2 (4.90 m/s2)t )
 
-t 5   4.08 s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 2.4 | Freely Falling Objects
 
 REMARKS  Notice how everything follows from the two kinematic equations. Once they are written down and the constants correctly identified as in Equations (1) and (2), the rest is relatively easy. If the ball were thrown downward, the initial velocity would have been negative.
@@ -3595,10 +3360,6 @@ Write the velocity kinematics equation: v 5 at 1 v 0 Move v 0 to the left side o
 
 Write the equation for the position y at any time: y 5 y0 1 v0t 1 1 2at 2 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
-
 REMARKS  Notice that g 5 19.8 m/s2, so the second term is positive overall. Equations (1)–(3) are much more useful than a numerical answer because the effect of changing one value can be seen immediately. For example, doubling the initial velocity v 0 quadruples the displacement above the point of release. Notice also that y max could be obtained more readily from the time- independent equation, v 2 2 v 0 2 5 2a Dy.
 
 QUESTION 2.9  By what factor would the maximum displacement above the rooftop be increased if the building were trans- ported to the Moon, where a 5 21 6 g?
@@ -3622,8 +3383,6 @@ STRATEGY  Take y 5 0 at the launch point and y positive upward, as in Figure 2.2
 Figure 2.21 (Example 2.10)
 
 Two linked phases of motion for a rocket that is launched, uses up its fuel, and crashes.
-
-y = 0 Launch Rocket crashes after falling from ymax Rocket fuel burns out +y Phase 1 a = 29.4 m/s2 Phase 2 a = –9.80 m/s2 Maximum height ymax v = 0 Write the velocity and position kinematic equations: (1) v 5 v 0 1 at (2) Dy 5 y 2 y0 5 v0t 1 1 2 at 2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 | Summary  53 REMARKS  You may think that it is more natural to break this problem into three phases, with the second phase ending at the maximum height and the third phase a free fall from maximum height to the ground. Although this approach gives the correct answer, it’s an unnecessary complication. Two phases are sufficient, one for each different acceleration.
 
@@ -3674,8 +3433,6 @@ v ; Dx Dt 5 xf 2 xi tf 2 ti
 The average velocity is equal to the slope of the straight line joining the initial and final points on a graph of the posi- tion of the object versus time.
 
 The slope of the line tangent to the position versus time curve at some point is equal to the instantaneous velocity at that time. The instantaneous speed of an object is defined as the magnitude of the instantaneous velocity.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 2 | Motion in One Dimension
 
@@ -3758,10 +3515,6 @@ The acceleration of the pin is zero. (d) The velocity of the pin is opposite its
 ## 12. A racing car starts from rest and reaches a final speed v in a
 
 time t. If the acceleration of the car is constant during this time, which of the following statements must be true? (a) The car travels a distance vt. (b) The average speed of the car is v/2. (c) The acceleration of the car is v/t. (d) The velocity of the car remains constant. (e) None of these.
-
-Figure CQ2.6 a b © Charles D. Winters/Cengage Learning Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  55
 
@@ -3874,10 +3627,6 @@ x (m)
 –6 –4 –2 Figure P2.8 x (m)
 
 t (s)
-
-–2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 2 | Motion in One Dimension Unless otherwise noted, all content on this page is © Cengage Learning.
 
 15g for a short time.) Compare your answer with the free-fall acceleration, 9.80 m/s2.
 
@@ -4003,8 +3752,6 @@ by firing a space capsule from a 220-m-long cannon with final speed of 10.97 km/
 
 t (s)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 | Problems  57
 
 ## 47. A certain freely falling object, released from rest, requires
@@ -4098,8 +3845,6 @@ a speed of 82.4 km/h. The engineer applies the brakes at a crossing, and later t
 ## 46. V  A ball is thrown directly downward with an initial speed
 
 of 8.00 m/s, from a height of 30.0 m. After what time interval does it strike the ground?
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 2 | Motion in One Dimension from a building 15 m high. After how long will the balls be at the same height?
 
@@ -4199,10 +3944,6 @@ An object is moving in the positive direction along the x - axis. Sketch plots o
 
 speed of 25 m/s; at the same instant, another ball is dropped Figure P2.56 (left) Col. John Stapp and his rocket sled are brought to rest in a very short time interval. (right) Stapp’s face is contorted by the stress of rapid negative acceleration.
 
-Courtesy U.S. Air Force Courtesy of the U.S. Air Force © Cengage Learning/George Semple Figure P2.67 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Topic
 
 ## 3.1 Displacement, Velocity,
@@ -4255,8 +3996,6 @@ y (xi, yi)
 
 Object’s actual path Figure 3.2 The displacement vector has components ∆x = xf 2 xi and ∆y 5 yf 2 yi.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 3 | Motion in Two Dimensions Because the displacement is a vector quantity and the time interval is a scalar quantity, we conclude that the average velocity is a vector quantity directed along Dr S. The x - and y - components of the average velocity are given by vav,x 5 Dx Dt  and vav,y 5 Dy Dt and express the rate at which an object’s position is changing along the x - and y - axes, respectively. Note that the magnitude of the average velocity is just the dis- tance between the endpoints divided by the elapsed time.
 
 An object’s instantaneous velocity v S is the limit of its average velocity as Dt goes to zero:
@@ -4291,11 +4030,7 @@ Quick Quiz 3.1  Which of the following objects can’t be accelerating? (a) An 
 
 The controls in this list that can cause an acceleration of the car are (a) all three con- trols, (b) the gas pedal and the brake, (c) only the brake, or (d) only the gas pedal.
 
-instantaneous velocity c Average acceleration c instantaneous acceleration c Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 3.2 | Two-Dimensional Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 In Topic 2, a distinction was made between average velocity and average speed in one dimension. That distinction remains important for two-dimensional motion.
 
@@ -4349,10 +4084,6 @@ x (m)
 
 Figure 3.6 A projectile launched from the origin with an initial speed of 50 m/s at various angles of projection.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 of various initial angles; note that complementary angles give the same horizon- tal range.
 
 Figure 3.7 is an experiment illustrating the independence of horizontal and ver- tical motion. The gun is aimed directly at the target ball and fired at the instant the target is released. In the absence of gravity, the projectile would hit the target because the target wouldn’t move. However, the projectile still hits the target in the presence of gravity. That means the projectile is falling through the same vertical displacement as the target despite its horizontal motion. The experiment also works when set up as in Figure 3.8, when the initial velocity has a vertical component.
@@ -4384,10 +4115,6 @@ Tip 3.1  Acceleration at the highest point The acceleration in the y - direction
 Target Line of sight y Point of collision Gun v0 S Figure 3.7  A ball is fired at a target at the same instant the target is released. Both fall vertically at the same rate and collide.
 
 The velocity of the projectile (red arrows) changes in direction and magnitude, but its acceleration (purple arrows) remains constant.
-
-© Charles D. Winters/Cengage Learning Figure 3.8  Multiflash photograph of the projectile–target demonstration. If the gun is aimed directly at the target and is fired at the same instant the target begins to fall, the projectile will hit the target.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 3.2 | Two-Dimensional Motion
 
@@ -4437,10 +4164,6 @@ STRATEGY  Use the diagram, estimating the acceleration of gravity as 210 m/s2. B
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 3.2 strAnDED EXPLorErs GOAL  Solve a two-dimensional projectile motion problem in which an object has an initial horizontal velocity.
 
 PROBLEM  An Alaskan rescue plane drops a package of emergency rations to stranded hikers, as shown in Figure 3.10. The plane is traveling horizontally at 40.0 m/s at a height of 1.00 3 102 m above the ground. Neglect air resistance. (a) Where does the package strike the ground relative to the point at which it was released? (b) What are the horizontal and vertical components of the velocity of the package just before it hits the ground? (c) What is the angle of the impact?
@@ -4481,11 +4204,7 @@ analyze the vertical motion of the projectile.
 
 vS a S y Figure 3.9  (Example 3.1) Motion diagram for a projectile.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 3.2 | Two-Dimensional Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 STRATEGY  Here, we’re just taking Equations 3.8 and 3.9, filling in known quantities, and solving for the remaining unknown quantities. Sketch the problem using a coordinate system as in Figure 3.10. In part (a), set the y - component of the displacement equations equal to 21.00 3 102 m—the ground level where the package lands—and solve for the time it takes the package to reach the ground. Substitute this time into the displace- ment equation for the x - component to find the range.
 
@@ -4525,8 +4244,6 @@ PROBLEM  A long jumper (Fig. 3.11) leaves the ground at an angle of 20.0° to th
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 3 | Motion in Two Dimensions STRATEGY  Again, we take the projectile equations, fill in the known quantities, and solve for the unknowns. At the maximum height, the velocity in the y - direction is zero, so setting Equation 3.9a equal to zero and solving gives the time it takes the jumper to reach his maximum height. By symmetry, given that his trajectory starts and ends at the same height, doubling this time gives the total time of the jump.
 
 iStockphoto.com/technotr Figure 3.11  (Example 3.3) This multiple-exposure shot of a long jumper shows that in reality, the jumper’s motion is not the equivalent of the motion of a particle. The cen- ter of mass of the jumper follows a parabola, but to extend the length of the jump before impact, the jumper pulls his feet up so he strikes the ground later than he otherwise would have.
@@ -4559,11 +4276,7 @@ Use Equation 3.9c, solving for Dy : vy 2 2 v0y 2 5 22g  Dy Dy 5 vy 2 2 v0y 22g S
 
 5   0.722 m REMARKS  Although modeling the long jumper’s motion as that of a projectile is an oversimplification, the values obtained are reasonable.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 3.2 | Two-Dimensional Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 QUESTION 3.3  True or False: Because the x - component of the displacement doesn’t depend explicitly on g, the horizontal distance traveled doesn’t depend on the acceleration of gravity.
 
@@ -4607,10 +4320,6 @@ Figure 3.12  (Example 3.5)
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## SOLUTION
 
 (a) Find the ball’s time of flight.
@@ -4645,8 +4354,6 @@ STRATEGY  Because the rocket maintains a horizontal orientation (say, through gy
 
 y 1.00  103 m Figure 3.13  (Example 3.6)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 3.3 | Relative Velocity
 
 of the velocity after the rocket falls 1.00 km. Then calculate the time of the fall and use that time to find the velocity in the x - direction.
@@ -4680,10 +4387,6 @@ ANSWERS  (a) 13.1 m/s2 (b) 202 m/s In a stunt similar to that described in Exerc
 ## 3.3 Relative Velocity
 
 Relative velocity is all about relating the measurements of two different observers, one moving with respect to the other. The measured velocity of an object depends on the velocity of the observer with respect to the object. On highways, for exam- ple, cars moving in the same direction are often moving at high speed relative to Earth, but relative to each other they hardly move at all. To an observer at rest at the side of the road, a car might be traveling at 60 mi/h, but to an observer in a truck traveling in the same direction at 50 mi/h, the car would appear to be travel- ing only 10 mi/h.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 So measurements of velocity depend on the reference frame of the observer.
 
@@ -4729,11 +4432,7 @@ PROBLEM  A train is traveling with a speed of 15 m/s relative to Earth. A passen
 
 STRATEGY  Solving these problems involves putting the proper subscripts on the velocities and arranging them as in Equation 3.11.
 
-In the first sentence of the problem statement, we are informed that the train travels at “15 m/s relative to Earth.” This quantity is Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 3.3 | Relative Velocity
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 S TE, with T for train and E for Earth. The passenger throws the baseball at “15 m/s relative to the train,” so this quantity is v S BT, where B stands for baseball. The second sentence asks for the velocity of the baseball relative to Earth, v S BE. The rest of the problem can be solved by identifying the correct components of the known quantities and solving for the unknowns, using an analog of Equation 3.11.
 
@@ -4766,10 +4465,6 @@ y - Component (km/h)
 vS BR 10.0 vS BE vy vS RE 5.00 (Continued)
 
 ## SOLUTION
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Find the x - component of velocity: 0 5 vx 2 5.00 km/h  S  vx 5 5.00 km/h Find the y - component of velocity:
 
@@ -4820,10 +4515,6 @@ The x - component of the relative velocity equation can be used to find u: 2(10.
 S v 5  8.66 km/h REMARKS  From Figure 3.16, we see that this problem can be solved with the Pythagorean theorem, because the problem involves a right triangle: the boat’s x - component of velocity exactly cancels the river’s velocity. When this is not the case, a more general technique is necessary, as shown in the following exercise. Notice that in the x - component of the relative velocity equa- tion a minus sign had to be included in the term 2(10.0 km/h)sin u because the x - component of the boat’s velocity with respect to the river is negative.
 
 ## SOLUTION
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Summary  73 QUESTION 3.9  The speeds in this example are the same as in Example 3.8. Why isn’t the angle the same as before?
 
@@ -4901,10 +4592,6 @@ vy 2 5 (v0 sin u0)2 2 2g Dy [3.9c]
 
 Problems are solved by algebraically manipulating one or more of these equations, which often reduces the system to two equations and two unknowns.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## CONCEPTUAL QUESTIONS
 
 ## 3.3  relative Velocity
@@ -4974,10 +4661,6 @@ spot a dolphin swimming due north away from them, relative to their moving boat.
 a constant velocity, one of its apples shakes loose and falls toward the bed of the truck. Of the curves shown in Figure CQ3.13, (i)
 
 which best describes the path followed by the apple as seen by a stationary observer on the ground, who observes the truck mov- ing from his left to his right? (ii) Which best describes the path as seen by an observer sitting in the truck?
-
-a b e Figure cq3.13 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  75 with time, using the coordinates in Figure P3.7. (e) How long after being released does the stone strike the beach below the cliff? (f) With what speed and angle of impact does the stone land?
 
@@ -5071,10 +4754,6 @@ x (m)
 
 ## 18.0 m/s
 
-S vS g S O Figure P3.7 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## 3.3  Relative Velocity
 
 ## 20. A cruise ship sails due north at 4.50 m/s while a Coast Guard
@@ -5142,10 +4821,6 @@ the street below (Fig. P3.19). The vertical wall of the building is h 5 7.00 m h
 (b) Find the vertical distance by which the ball clears the wall.
 
 (c) Find the horizontal distance from the wall to the point on the roof where the ball lands.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  77 statement, consider a ball thrown off the top of a building with a velocity v S at an angle u with respect to the horizontal. Let the building be 50.0 m tall, the initial horizontal velocity be
 
@@ -5218,10 +4893,6 @@ off the roof with a speed of 3.75 m/s. If the roof is pitched at 35.0° below th
 projectile motion problem. To demonstrate the truth of this
 
 ## 80.0 km
-
-40.0° A B L Figure P3.35 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 3 | Motion in Two Dimensions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 45. A quarterback throws a football toward a receiver with an ini-
 
@@ -5305,10 +4976,6 @@ with an initial speed of 25.0 m/s. A net is positioned a hori- zontal distance o
 
 the vertical do they make for a person jogging at 2.25 m/s?
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  79 53.
 
 A celebrated Mark Twain story has motivated contes- tants in the Calaveras County Jumping Frog Jubilee, where frog jumps as long as 2.2 m have been recorded. If a frog jumps 2.2 m and the launch angle is 45°, find (a) the frog’s launch speed and (b) the time the frog spends in the air.
@@ -5361,8 +5028,6 @@ Figure P3.59 v0
 
 ## 5.50 m/s
 
-Figure P3.58 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Topic ClassiCal meChaniCs desCribes the relationship between the motion of objects found in our everyday world and the forces acting on them. As long as the system under study doesn’t involve objects comparable in size to an atom or traveling close to the speed of light, classical mechanics provides an excellent description of nature.
 
 Topic 4 introduces Newton’s three laws of motion and his law of gravity. The three laws are simple and sensible. The first law states that a force must be applied to an object in order to change its velocity. Changing an object’s velocity means accelerating it, which implies a relationship between force and acceleration. This relationship, the second law, states that the net force on an object equals the object’s mass times its acceleration. Finally, the third law says that whenever we push on something, it pushes back with equal force in the opposite direc- tion. Those are the three laws in a nutshell.
@@ -5401,11 +5066,7 @@ laws
 
 Figure 4.1 A tennis player applies a contact force to the ball with her racket, accelerating and directing the ball toward the open court.
 
-Juergen Hasenkopf/Alamy Stock Photo Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.1 | Forces
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 hydrogen atom were the size of a ping pong ball, the electron would be the size of a bacterium, at most, and would orbit the nucleus at a distance of a kilometer.
 
@@ -5422,10 +5083,6 @@ Another common example of a field force is the electric force that one electric 
 The known fundamental forces in nature are all field forces. These are, in order of decreasing strength: (1) the strong nuclear force between subatomic particles; (2) the electromagnetic forces between electric charges; (3) the weak nuclear force, which arises in certain radioactive decay processes; and (4) the gravitational force between objects. The strong force keeps the nucleus of an atom from flying apart due to the repulsive electric force of the protons. The weak force is involved in most radioactive processes and plays an important role in the nuclear reactions b M Field forces q
 
 Q e Iron N S f Contact forces a Figure 4.2 Examples of forces applied to various objects. In each case, a force acts on the object sur- rounded by the dashed lines. Some- thing in the environment external to the boxed area exerts the force.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 that generate the Sun’s energy output. The strong and weak forces operate only on the nuclear scale, with a very short range on the order of 10215 m. Outside this range they have no influence. Classical physics, however, deals only with gravita- tional and electromagnetic forces, which have infinite range.
 
@@ -5455,11 +5112,7 @@ Figure 4.3 The first law of motion.
 
 In the absence of a net force, the book keeps moving at velocity vS.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.2 | The Laws of Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 its original state of motion (Fig. 4.4). This approach was later formalized as Newton’s first law of motion: An object moves with a velocity that is constant in magnitude and direction unless a nonzero net force acts on it.
 
@@ -5490,10 +5143,6 @@ Seat Belts ND/Roger-Viollet/The Image Works Figure 4.4 Unless acted on by an ext
 Pulley Rachet Pin connection Large block Seat belt Rod Pivot Tracks Figure 4.5 A mechanical arrangement for an automobile seat belt.
 
 Tip 4.1 Forces Cause Changes in motion Motion can occur even in the absence of forces. Forces cause changes in motion.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Mass also affects acceleration. Suppose you stack identical blocks of ice on top of each other while pushing the stack with constant force. If the force applied to one block produces an acceleration of 2 m/s2, then the acceleration drops to half that value, 1 m/s2, when two blocks are pushed, to one-third the initial value when three blocks are pushed, and so on. We conclude that the acceleration of an object is inversely proportional to its mass. These observations are summarized in Newton’s second law: The acceleration a S of an object is directly proportional to the net force acting on it and inversely proportional to its mass.
 
@@ -5535,11 +5184,7 @@ Newton was one of the most bril- liant scientists in history. Before he was 30, 
 
 As a consequence of his theories, Newton was able to explain the motions of the planets, the ebb and flow of the tides, and many special features of the motions of the Moon and Earth. He also interpreted many fundamental observations concerning the nature of light. His contributions to physi- cal theories dominated scientific thought for two centuries and remain important today.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.2 | The Laws of Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 4.1 AIrboAt GOAL Apply Newton’s second law in one dimension, together with the equations of kinematics.
 
@@ -5579,10 +5224,6 @@ PrObLem Two horses are pulling a barge with mass 2.00 3 103 kg along a canal, as
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 STrATeGy Using trigonometry, find the vec- tor force exerted by each horse on the barge.
 
 Add the x - components together to get the x - component of the resultant force, and then do the same with the y - components. Divide by the mass of the barge to get the accelerations in the x - and y - directions.
@@ -5613,11 +5254,7 @@ ANSwer 0.520 m/s2, 10.0° SOLuTION Compute the x - components of the forces exer
 
 the gravitational Force The gravitational force is the mutual force of attrac- tion between any two objects in the Universe. Although the gravitational force can be very strong between very large objects, it’s the weakest of the fundamental forces. A good demonstration of how weak it is can be carried out with a small balloon. Rubbing the balloon in your hair gives the balloon a tiny electric charge.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.2 | The Laws of Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Through electric forces, the balloon then adheres to a wall, resisting the gravita- tional pull of the entire Earth!
 
@@ -5657,8 +5294,6 @@ b  law of universal gravitation Fg Fg m1 m 2 r S S Figure 4.9 The gravitational 
 
 Figure 4.10 The life-support unit strapped to the back of astronaut Harrison Schmitt weighed 300 lb on Earth and had a mass of 136 kg. Dur- ing his training, a 50-lb mock-up with a mass of 23 kg was used. Although the mock-up had the same weight as the actual unit would have on the Moon, the smaller mass meant it also had a lower inertia. The weight of the unit is caused by the acceleration of the local gravity field, but the astro- naut must also accelerate anything he’s carrying in order to move it around. Consequently, the actual unit used on the Moon, with the same weight but greater inertia, was harder for the astronaut to handle than the mock-up unit on Earth.
 
-NASA/Eugene Cernan Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 4 | Newton’s Laws of Motion Quick Quiz 4.2 Which has greater value, a newton of gold on Earth or a newton of gold on the Moon? (a) The newton of gold on the Earth. (b) The newton of gold on the Moon.
 
 (c) The value is the same, regardless.
@@ -5695,8 +5330,6 @@ Write an expression for the difference in acceleration and substitute values: a 
 
 ## 70.0 kg
 
->  1 3 1026 m/s2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.2 | The Laws of Motion
 
 across the Earth, and those differences are greater for the Moon’s gravitational force because the Moon is much closer to Earth than the Sun.
@@ -5724,10 +5357,6 @@ b newton’s third law EXAMPLE 4.4 WEIgHt oN PLANEt X GOAL Understand the effect
 PrObLem An astronaut on a space mission lands on a planet with three times the mass and twice the radius of Earth. What is her weight wX on this planet as a multiple of her Earth weight wE?
 
 STrATeGy Write MX and rX  , the mass and radius of the planet, in terms of ME and RE  , the mass and radius of Earth, respectively, and substitute into the law of gravitation.
-
-SOLuTION Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 This law, which is illustrated in Figure 4.11b, states that a single isolated force can’t exist. The force F S 12 exerted by object 1 on object 2 is sometimes called the action force, and the force F S 21 exerted by object 2 on object 1 is called the reaction force. In reality, either force can be labeled the action or reaction force. The action force is equal in magnitude to the reaction force and opposite in direction. In all cases, the action and reaction forces act on different objects. For example, the force acting on a freely falling projectile is the force of gravity exerted by Earth on the projectile, F S g, and the magnitude of this force is its weight mg. The reaction to force F S g is the gravitational force exerted by the projectile on Earth, F S gr 5 2F S g.
 
@@ -5757,11 +5386,7 @@ Figure 4.11 Newton’s third law.
 
 Fhn S Fnh S a Jim Gillmoure/CORBIS F12 S F12 S F21 S
 
-F21 S b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.2 | The Laws of Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 monitor from falling through the table, and can have any value needed, up to the point of breaking the table. The reaction to n S is the force exerted by the monitor on the table, n Sr. Therefore, F S g 5 2 F S gr  and  n S 5 2 n Sr The forces n S and n Sr both have the same magnitude as F S g. Note that the forces acting on the monitor are F S g and n S, as shown in Figure 4.12b. The two reaction forces, F S gr and n Sr, are exerted by the monitor on objects other than the monitor.
 
@@ -5799,10 +5424,6 @@ Write the second law for the man: MaM 5 F Solve for the man’s acceleration and
 
 Apply Newton’s third law of motion, finding that the reaction force R acting on the woman has the same magnitude and opposite direction: R 5 2F 5  285.0 N (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## 4.3  the normal and Kinetic Friction
 
 Forces In two-dimensional second law problems, the y - component is often used to deter- mine the normal force acting on the object. This section introduces the most com- mon four cases. Effectively, knowledge of these four cases reduces many complex, two - dimensional second law problems to one - dimensional problems, because the normal force is known in advance. Generally, the normal force is used in the x - component of the second law to determine the kinetic friction force acting on the object.
@@ -5833,11 +5454,7 @@ Calculate the accelerations of (b) the astronaut, and (c) the satellite.
 
 ANSwerS (a) 2265 N (b) 21.79 m/s2 (c) 0.417 m/s2 Figure 4.13 (a) On a level surface, the normal force supports an object’s weight. (b) Free-body diagram.
 
-mg S n S mg S n S a b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.3 | The Normal and Kinetic Friction Forces
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 and an applied force, directed at a positive angle u. The y - component of the second law of motion yields:
 
@@ -5862,10 +5479,6 @@ As can be seen in Figure 4.16b, the magnitude of the normal force vector must eq
 a b mg S n S Fapp sin q Fapp cos q Fapp S q Fapp sin q mg S n S mg S n S Fapp S q Figure 4.15 (a) An applied force at a negative angle. (b) Free-body diagram. (c) The normal force must be equal in magnitude to the sum of the weight and the y - component of the applied force.
 
 a b mg S n S n S Fapp sin q Fapp cos q Fapp S q mg S Fapp S Fapp sin q n S mg S q Figure 4.16 (a) A block in an eleva- tor accelerating upward. (b) When the acceleration is upward, the nor- mal force must be equal in magni- tude to the magnitudes of the weight, mg, and the inertia, ma.
-
-a b mg S maS n S n S maS –mg S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 tilted, with the xr-axis running parallel to the slope and yr-axis perpendicular to the slope, as shown in Figure 4.17a. Using Figure 4.17b, the force due to gravity can then be broken into two components, F xr, grav 5 mg sin u and F yr, grav 5 2mg  cos u.
 
@@ -5893,11 +5506,7 @@ It depends on the materials the surfaces are made of, as well as how smooth they
 
 (b) In tilted coordinates, the gravity force splits into two components, one perpendicular to the slope and the other parallel to it. The component of the gravity force acting opposite the normal force is then given by Fyr, grav 5 2mg cos u, while the compo- nent acting down the slope is Fxr, grav 5 mg sin u.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.3 | The Normal and Kinetic Friction Forces
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 exerts on an object, the larger the kinetic friction force. For many purposes, all the interactions between the two surfaces can be modeled as being proportional to the normal force.
 
@@ -5920,10 +5529,6 @@ ms mk Steel on steel 0.74 0.57 Aluminum on steel 0.61 0.47 Copper on steel 0.53 
 0.15 0.06 Ice on ice 0.1 0.03 Tef lon on Teflon 0.04 0.04 Synovial joints in humans 0.01 0.003 aAll values are approximate.
 
 Figure 4.18 Kinetic friction acts opposite an object’s direction of motion.
-
-mg S maS n S Fapp sin q Fapp cos q Fapp S fk S q Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 4.4 Static Friction Forces
 
@@ -5955,11 +5560,7 @@ Fapp S a Fapp S n S fs = ms S n S fs < ms S b maS Fapp S n S fk = mk S Figure 4.
 
 Tip 4.6 The Static Friction Force Depends on Other Forces The equation fs, max 5 msn is used only to calculate the maximum possible static friction force. As long as that limit is not exceeded, the static friction force is actu- ally the negative of the sum of all other forces acting on an unmoving object.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.4 | Static Friction Forces
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 4.6 bLock oN A SLoPE GOAL Calculate the static friction force and the maximum possible static friction force on a block on a sloping surface and distinguish between them.
 
@@ -5998,10 +5599,6 @@ eXerCISe What angle must be exceeded so that the block will begin sliding? (Hint
 ANSwer 33.0° Quick Quiz 4.5 If you press a book flat against a vertical wall with your hand, in what direction is the friction force exerted by the wall on the book? (a) downward (b) upward (c) out from the wall (d) into the wall.
 
 (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 4.6 A crate is sitting in the center of a flatbed truck. As the truck accelerates to the east, the crate moves with it, and doesn’t slide on the bed of the truck. In what direction is the friction force exerted by the bed of the truck on the crate?
 
@@ -6045,11 +5642,7 @@ Figure 4.24 The tension in the string supports the block’s weight.
 
 mg S T S Figure 4.25 (a) A block hangs by a string in an elevator accelerating upward. (b) The tension supplies the acceleration of the block while sup- porting it against gravity.
 
-a b maS –mg S T S maS mg S T S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.5 | Tension Forces
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 4.5.3 case 3: two tension Forces at Symmetric Angles In this case, two tensions act on one object symmetrically, as illustrated in Figure 4.26. For this to work, naturally, the points of attachment must be chosen carefully, in which case the tensions will be equal. The y - component of each tension is given by T cos u . The second law then gives an expression for the tension T: may 5 oFy
 
@@ -6080,10 +5673,6 @@ T1 5 mg tan u This illustrates how to determine tensions when two such tensions 
 Figure 4.26 (a) A block supported by two symmetric strings. (b) Free- body diagram. (c) Components of the tension, T S.
 
 q q mg S T S T S T S q q T sin q T cos q q a b Figure 4.27 (a) A block held by two strings. (b) Free-body diagram.
-
-q mg S T2 S T1 S q a b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 4.6 Applications of Newton’s Laws
 
@@ -6121,11 +5710,7 @@ a b n S T S Fg S y Tip 4.7 Free-Body Diagrams The most important step in solving
 
 Tip 4.8 A Particle in Equilibrium A zero net force on a particle does not mean that the particle isn’t moving. It means that the particle isn’t accelerating. If the particle has a nonzero initial velocity and is acted upon by a zero net force, it continues to move with the same velocity.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.6 | Applications of Newton’s Laws
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 3. Label each force in the picture in a way that will bring to mind what physical quantity the label stands for (e.g., T for tension).
 
@@ -6175,10 +5760,6 @@ SOLuTION Find T3 from Figure 4.31b, using the condition of equilibrium: o Fy 5 0
 
 Fg S a b T2 T1 T3 53.0 37.0 53.0 37.0 y T S T S T S T S (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 remArkS It’s very easy to make sign errors in this kind of problem. One way to avoid them is to always measure the angle of a vector from the positive x - direction. The trigonometric functions of the angle will then automatically give the correct signs for the components. For example, T1 makes an angle of 180° 2 37° 5 143° with respect to the positive x - axis, and its x - component, T1 cos 143°, is negative, as it should be.
 
 QueSTION 4.7 How would the answers change if a second traffic light were attached beneath the first?
@@ -6219,11 +5800,7 @@ S 1 n
 
 ## S 1 F
 
-S g 5 0 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.6 | Applications of Newton’s Laws
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 remArkS Unlike its value on a horizontal surface, n is less than the weight of the sled when the sled is on the slope. This is because only part of the force of gravity (the x - component) is acting to pull the sled down the slope. The y - component of the force of gravity balances the normal force.
 
@@ -6263,10 +5840,6 @@ Find the mass of the system from the definition of weight, w 5 mg : m 5 w g 5 3.
 
 5 30.6 kg (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 remArkS Note that the constant applied force of 20.0 N is assumed to act on the system at all times during its motion. If the force were removed at some instant, the system would continue to move with constant velocity and hence zero acceleration. The rollers have an effect that was neglected, here.
 
 QueSTION 4.9 What effect does doubling the weight have on the acceleration and the displacement?
@@ -6301,11 +5874,7 @@ QueSTION 4.10 If the car is parked on a more gentle slope, how will the time req
 
 eXerCISe 4.10 Suppose a hockey puck slides down a frictionless ramp with an acceleration of 5.00 m/s2. (a) What angle does the ramp make with respect to the horizontal? (b) If the ramp has a length of 6.00 m, how long does it take the puck to reach the bottom? (c) Now suppose the mass of the puck is doubled. What’s the puck’s new acceleration down the ramp?
 
-ANSwer (a) 30.7° (b) 1.55 s (c) unchanged, 5.00 m/s2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.6 | Applications of Newton’s Laws
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 4.11 WEIgHINg A FISH IN AN ELEVAtor GOAL Explore the effect of acceleration on the apparent weight of an object.
 
@@ -6347,10 +5916,6 @@ QueSTION 4.11 Starting from rest, an elevator accelerates upward, reaching and m
 
 eXerCISe 4.11 Find the initial acceleration of a rocket if the astronauts on board experience eight times their normal weight during an initial vertical ascent. (Hint: In this exercise, the scale force is replaced by the normal force.)
 
-ANSwer 68.6 m/s2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 4.12 tHE SLIDINg HockEY PUck GOAL Apply the concept of kinetic friction.
 
 PrObLem The hockey puck in Figure 4.37, struck by a hockey stick, is given an ini- tial speed of 20.0 m/s on a frozen pond. The puck remains on the ice and slides 1.20 3 102  m, slowing down steadily until it comes to rest. Determine the coefficient of kinetic friction between the puck and the ice.
@@ -6385,11 +5950,7 @@ Newton’s second law of motion also applies to systems of objects. Previously, 
 
 Solving such two-body problems is a matter of writing the second law for both objects. In problems examined here, that can result in up to four equations and four unknown quantities. Symmetry can sometimes reduce the number of unknowns.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.7 | Two-Body Problems
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 4.13 AtWooD’S MAcHINE GOAL Use the second law to solve a simple two-body problem symbolically.
 
@@ -6413,10 +5974,6 @@ a F ext 5 a a mibasys [4.21]
 
 where Fext are forces external to the system. Internal forces, such as a tension force holding the system together, do not appear. Internal forces must be found by apply- ing the second law to individual bodies in the system. The system approach, natu- rally, can be extended to three or more bodies. Example 4.14 contrasts the two approaches to solving these problems.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 4.14 coNNEctED objEctS GOAL Use both the general method and the system approach to solve a connected two-body problem involving gravity and friction.
 
 PrObLem (a) A block with mass m1 5 4.00 kg and a ball with mass m 2 5 7.00 kg are connected by a light string that passes over a massless, fric- tionless pulley, as shown in Figure 4.39a. The coefficient of kinetic friction between the block and the surface is 0.300. Find the acceleration of the two objects and the tension in the string. (b) Check the answer for the accelera- tion by using the system approach.
@@ -6437,11 +5994,7 @@ T 2 m 2 g  5 2m 2a 1 Subtract Equation (2) from Equation (1), eliminating T and 
 
 5 5.17 m/s2 Substitute the value for a1 into Equation (1) to find the tension T : T 5  32.4 N (b) Find the acceleration using the system approach, where the system consists of the two blocks.
 
-Apply Newton’s second law to the system and solve for a : (m1 1 m 2)a 5 m 2g 2 mkn 5 m 2g 2 mkm 1g a 5 m 2g 2 mkm 1g m 1 1 m 2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 4.7 | Two-Body Problems
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 remArkS Although the system approach appears quick and easy, it can be applied only in special cases and can’t give any information about the internal forces, such as the tension. To find the tension, you must consider the free-body diagram of one of the blocks separately as was done in part (a) of Example 4.14.
 
@@ -6474,10 +6027,6 @@ Write the second law for the x - component of the force on the system: (m 1 M)a 
 ## 5.00 kg 1 10.0 kg 5  3.43 m/s2
 
 (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 APPLYINg PHYSIcS 4.1 cArS AND FrIctIoN Forces of friction are important in the analysis of the motion of cars and other wheeled vehicles. How do such forces both help and hinder the motion of a car?
 
@@ -6518,10 +6067,6 @@ remArkS Notice that the y - component for the 10.0-kg block wasn’t needed beca
 QueSTION 4.15 What would happen if the tension force exceeded 51.5 N?
 
 eXerCISe 4.15 Suppose instead the string is attached to the top block in Example 4.15 (see Fig. 4.40b). Find the maximum force that can be exerted by the string on the block without causing the top block to slip.
-
-ANSwer 25.7 N Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Summary  111 Air drag is also important in space travel. Without it, returning to Earth would require a considerable amount of fuel. Air drag helps slow capsules and spaceships, and aerocap- ture techniques have been proposed for trips to other planets.
 
@@ -6599,10 +6144,6 @@ mg S n S Fapp sin q Fapp cos q Fapp S q mg S maS n S Figure 4.49 The normal forc
 
 y x9 n S y9 mg sin q –mg cos q mg S q q Figure 4.48 The normal force provides the accelera- tion and compensates for the gravity force.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Case 3: Two tension forces at symmetric angles:
 
 T 5 mg 2cos u [4.18]
@@ -6672,8 +6213,6 @@ injured as the driver slammed on the brakes, causing a suit- case to come flying
 ## 2. A space explorer is moving through space far from any planet
 
 or star. He notices a large rock, taken as a specimen from an alien planet, floating around the cabin of the ship. Should he push it gently, or should he kick it toward the storage com- partment? Explain.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 | Conceptual Questions  113 following statements must be true about the magnitude of the frictional force that acts on the crate? (a) It is larger than the weight of the crate. (b) It is at least equal to the weight of the crate. (c) It is equal to msn. (d) It is greater than the compo- nent of the gravitational force acting down the ramp. (e) It is equal to the component of the gravitational force acting down the ramp.
 
@@ -6768,10 +6307,6 @@ Its speed increases and its accel eration remains constant.
 (d) Both its speed and accel eration decrease. (e) Its speed increases and its acceleration decreases.
 
 ## 16. A crate remains stationary after it has been placed on a
-
-ramp inclined at an angle with the horizontal. Which of the Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
 
 PrObLemS See the Preface for an explanation of the icons used in this problems set.
 
@@ -6877,10 +6412,6 @@ block in the following circumstances: (a) The block is resting on a level surfac
 
 rough, level surface. If the crate accelerates at 1.20 m/s2, what is the magnitude of the force of kinetic friction acting on the crate?
 
-Figure P4.12 400 N 450 N Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  115 exceeding 187 N and parallel to the slope is sufficient to cause the block to start moving, find the coefficient of static friction.
 
 ## 29. A dockworker loading crates on a ship finds that a 20.0-kg
@@ -6977,10 +6508,6 @@ tion of 25.0°. If pushing downhill on the block with a force just u F S Figure 
 
 ## 3.00 kg
 
-F S Figure P4.32 u u Figure P4.34 a S Figure P4.35 37.0 600 N Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## 42. V  A crate of mass 45.0 kg is being transported on the flatbed
 
 of a pickup truck. The coefficient of static friction between the crate and the truck’s flatbed is 0.350, and the coefficient of kinetic friction is 0.320. (a) The truck accelerates forward on level ground. What is the maximum acceleration the truck can have so that the crate does not slide relative to the truck’s flatbed? (b) The truck barely exceeds this acceleration and then moves with constant acceleration, with the crate sliding along its bed. What is the acceleration of the crate relative to the ground?
@@ -7038,10 +6565,6 @@ Figure P4.40 w1 40° α 110 N w2
 ## 41. V  A 276-kg glider is being pulled by a 1 950-kg jet along a
 
 horizontal runway with an acceleration of  a S 5 2.20 m/s2 to the right as in Figure P4.41. Find (a) the thrust provided by the jet’s engines and (b) the magnitude of the tension in the cable connecting the jet and glider.
-
-aS Figure P4.41 Figure P4.39 60° 30° Bird food Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  117 two tensions and determine which string would break first if a is made sufficiently large. (c) What are the tensions if the cable supporting the elevator breaks?
 
@@ -7137,10 +6660,6 @@ T1 T2 a S u 2m T1 T2 Figure P4.57
 
 ## 10.0 kg
 
-40.0 Figure P4.60 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 system is set in motion with m 2 moving downward, what will be the acceleration of the system?
 
 68.
@@ -7223,10 +6742,6 @@ of static friction between m1 and the horizontal surface is 0.50, and the coeffi
 
 ## 5.00 kg
 
-Figure P4.66 3m F S Figure P4.68 u m1 m2 Figure P4.70 Figure P4.73 m1 m2 m3 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  119 distance that the first sled traveled up the incline. (b) Deter- mine the initial speed of the second sled.
 
 ## 82. V
@@ -7305,10 +6820,6 @@ Figure P4.75 u Figure P4.76
 
 ## 3.00 kg
 
-Figure P4.78 Coin θ Physics Figure P4.82 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 4 | Newton’s Laws of Motion Unless otherwise noted, all content on this page is © Cengage Learning.
-
 the acceleration of the system is upward, and find its magni- tude. (b) Find the force the child exerts on the chair.
 
 ## 89. The parachute on a race car of weight 8 820 N opens at the
@@ -7346,10 +6857,6 @@ P4.87), going from rest to 30.0 m/s in 6.00 s. During the acceler- ation, a toy 
 The acceleration is such that the string remains perpendicular to the ceiling. Determine (a) the angle u and (b) the tension in the string.
 
 ## 88. An inventive child wants to
-
-reach an apple in a tree with- out climbing the tree. Sitting in a chair connected to a rope that passes over a fric- tionless pulley (Fig. P4.88), the child pulls on the loose end of the rope with such a force that the spring scale reads 250 N. The child’s true weight is 320 N, and the chair weighs 160 N. The child’s feet are not touching the ground. (a)  Show that u u Figure P4.87 Figure P4.88 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Topic
 
@@ -7399,10 +6906,6 @@ Figure 5.1 shows a block undergoing a displacement Dx S along a straight line wh
 
 F S S Figure 5.1  A constant force F S in the same direction as the displacement, Dx S, does work F Dx.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 The work W done on an object by a constant force F S during a linear displace- ment along the x - axis is
 
 W 5 Fx  Dx [5.2]
@@ -7433,11 +6936,7 @@ Work by a constant force at c an angle to the displacement Figure 5.2  A constan
 
 S u F S F cos u 1Actually, you do expend energy while doing isometric exercises because your muscles are continuously contracting and relaxing in the process. This internal muscular movement qualifies as work according to the physics definition.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.1 | Work
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The definition in Equation 5.3 can also be used more generally when the dis- placement is not specifically along the x - axis or any other axis.
 
@@ -7462,10 +6961,6 @@ g = m F S F S g S S Figure 5.4  The student does positive work when he lifts the
 g = m F S F S g S S Figure 5.5 (Quick Quiz 5.1) A force F S is exerted on an object that under- goes a displacement Dx S to the right.
 
 Both the magnitude of the force and the displacement are the same in all four cases.
-
-F S F S F S F S b a S S S S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 5.1 SLEdding Through ThE Yukon GOAL  Apply the basic definitions of work done by a constant force.
 
@@ -7501,8 +6996,6 @@ Use Equation 5.2, with Fx replaced by fk: W fric5 Fx Dx 5 fk(xf 2 xi)
 
 Substitute fk 5 245.0 N and the initial and final coordinate positions into xi and xf: W fric5 (245.0 N)(18.2 m 2 12.4 m) 5   2 2.6 3 102 J 5.1.1 Work and dissipative Forces Frictional work is extremely important in everyday life because doing almost any other kind of work is impossible without it. The man in the last example, for instance, depends on surface friction to pull his sled. Otherwise, the rope would slip in his hands and exert no force on the sled, while his feet slid out from under- neath him and he fell flat on his face. Cars wouldn’t work without friction, nor could conveyor belts, nor even our muscle tissue.
 
-The work done by pushing or pulling an object is the application of a single force. Friction, on the other hand, is a complex process caused by numerous Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.1 | Work
 
 microscopic interactions over the entire area of the surfaces in contact (Fig. 5.7).
@@ -7533,10 +7026,6 @@ First, find the normal force from the y - component of New- ton’s second law, 
 
 Find the normal force from the y - component of Newton’s second law: o Fy 5 n 2 mg 1 Fapp sin u 5 0 n 5 mg 2 Fapp sin u (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## 5.2  Kinetic Energy and
 
 the Work–Energy Theorem Solving problems using Newton’s second law can be difficult if the forces involved are complicated. An alternative is to relate the speed of an object to the net work done on it by external forces. If the net work can be calculated for a given displace- ment, the change in the object’s speed is easy to evaluate.
@@ -7563,11 +7052,7 @@ EXERCISE 5.2  The man pushes the same 50.0 - kg sled over level ground with a fo
 
 ANSWERS  (a) 0.306 (b) 0.270 Figure 5.8  An object undergoes a displacement and a change in veloc- ity under the action of a constant net force F S net.
 
-Fnet S Fnet S S v0 S S vf S S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.2 | Kinetic Energy and the Work–Energy Theorem
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The kinetic energy KE of an object of mass m moving with a speed v is
 
@@ -7594,10 +7079,6 @@ b Kinetic energy b Work– energy theorem Figure 5.9  The moving hammer has kine
 APPLYing PhYSiCS 5.1 Skid To A SToP Suppose a car traveling at a speed v skids a distance d after its brakes lock. Estimate how far it would skid if it were traveling at speed 2v when its brakes locked.
 
 EXPLANATION  Assume for simplicity that the force of kinetic friction between the car and the road surface is con- stant and the same at both speeds. From the work–energy theorem, the net force exerted on the car times the displace- ment of the car, Fnet Dx, is equal in magnitude to its initial kinetic energy, 1 2mv 2. When the speed is doubled, the kinetic energy of the car is quadrupled. So for a given applied fric- tion force, the distance traveled must increase fourfold when the initial speed is doubled, and the estimated distance the car skids is 4d.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXAMPLE 5.3 CoLLiSion AnALYSiS GOAL  Apply the work–energy theorem with a known force.
 
@@ -7635,11 +7116,7 @@ EXERCISE 5.3  A police investigator measures straight skid marks 27.0 m long in 
 
 ANSWER  20.8 m/s 5.2.1 Conservative and nonconservative Forces It turns out there are two general kinds of forces. The first is called a conservative force. Gravity is probably the best example of a conservative force. To understand the origin of the name, think of a diver climbing to the top of a 10 - meter platform.
 
-The diver has to do work against gravity in making the climb. Once at the top, however, she can recover the work as kinetic energy by taking a dive. Her speed Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.3 | Gravitational Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 just before hitting the water will give her a kinetic energy equal to the work she did against gravity in climbing to the top of the platform, minus the effect of some nonconservative forces, such as air drag and internal muscular friction.
 
@@ -7668,10 +7145,6 @@ Taking the frictionless slide gives the same result.
 Figure 5.12  Because friction is a nonconservative force, a book pushed along the three segments Ⓐ–Ⓑ, Ⓑ–Ⓒ, and Ⓒ–Ⓓ requires three times the work as pushing the book directly from Ⓐ to Ⓓ.
 
 A D B C Physics The work done in moving the book is greater along the rust-colored path than along the blue path.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 5.3.1 gravitational Work and Potential Energy Using the work–energy theorem in problems involving gravitation requires com- puting the work done by gravity. For most trajectories—say, for a ball traversing a parabolic arc—finding the gravitational work done on the ball requires sophisti- cated techniques from calculus. Fortunately, for conservative fields there’s a simple alternative: potential energy.
 
@@ -7713,11 +7186,7 @@ Gravitational potential c energy Figure 5.13  A book of mass m falls from a heig
 
 g S g S yi yf Physics Physics The work done by the gravitational force as the book falls equals mgyi  mgyf .
 
-yS Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.3 | Gravitational Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 So the gravitational potential energy associated with an object located near the surface of Earth is the object’s weight mg times its vertical position y above Earth.
 
@@ -7763,8 +7232,6 @@ STRATEGY  Follow the definition and be careful with signs. Ⓐ is the initial po
 
 B A Figure 5.15  (Example 5.4)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 5 | Energy
 
 ## SOLUTION
@@ -7797,11 +7264,7 @@ We denote the total mechanical energy by E 5 KE 1 PE, and say that the total mec
 
 To show how this concept works, think of tossing a rock off a cliff, ignoring the drag forces. As the rock falls, its speed increases, so its kinetic energy increases. As the rock approaches the ground, the potential energy of the rock – Earth system decreases. Whatever potential energy is lost as the rock moves downward appears Tip 5.4  Conservation Principles There are many conservation laws like the conservation of mechani- cal energy in isolated systems, as in Equation 5.14. For example, momentum, angular momen- tum, and electric charge are all conserved quantities, as will be seen later. Conserved quantities may change form during physical interactions, but their sum total for a system never changes.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.3 | Gravitational Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 as kinetic energy, and Equation 5.14 says that in the absence of nonconservative forces like air drag, the trading of energy is exactly even. This is true for all conser- vative forces, not just gravity.
 
@@ -7845,10 +7308,6 @@ As previously stated, it’s usually best to do the algebra with symbols rather 
 
 Figure 5.16 (Quick Quiz 5.3) A stu- dent throws three identical balls from the top of a building, each at the same initial speed but at a different initial angle.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 5.5 PLATForM diVEr GOAL  Use conservation of energy to calculate the speed of a body falling straight down in the presence of gravity.
 
 PROBLEM  A diver of mass m drops from a board 10.0 m above the water’s surface, as in Figure 5.17. Neglect air resistance. (a) Use con- servation of mechanical energy to find his speed 5.00 m above the water’s surface. (b) Find his speed as he hits the water.
@@ -7882,8 +7341,6 @@ PROBLEM  A powerful grasshopper launches itself at an angle of 45° above the ho
 STRATEGY  This problem can be solved with conservation of energy and the relation between the initial velocity and its x - component. Aside from the origin, the other point of interest is the maximum height y 5 1.00 m, where the grass- hopper has a velocity vx in the x - direction only. Energy conservation then gives one equation with two unknowns: the initial speed vi and speed at maximum height, vx. Because there are no forces in the x - direction, however, vx is the same as the x - component of the initial velocity.
 
 Figure 5.18  (Example 5.6)
-
-y vy = 0 ymax = h Zero level of gravitational potential energy 45° S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 5.4 | Gravity and Nonconservative Forces
 
@@ -7921,10 +7378,6 @@ Figure 5.19  (Example 5.7) If the slide is frictionless, the woman’s speed at 
 
 Wet’n Wild Orlando (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## SOLUTION
 
 (a) Find the woman’s speed at the bottom of the slide, assuming no friction.
@@ -7955,11 +7408,7 @@ Figure 5.20  (Example 5.8) The skier slides down the slope and onto a level surf
 
 h  20.0 m A B C u y (a) Find the skier’s speed at the bottom.
 
-Follow the procedure used in part (a) of the previous example as the skier moves from the top, point Ⓐ, to the bottom, point Ⓑ: vⒷ5 "2gh 5 "219.80 m/s22 120.0 m2 5   19.8 m/s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.5 | Spring Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 5.5 Spring Potential Energy
 
@@ -7995,8 +7444,6 @@ x  0 x  0 vS KEf =    mv2 PEs = 0 PEs =    kx2 KEi = 0 The spring force always
 
 For an equilibrium point at x  0, the spring potential energy is    kx2.
 
-a b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 5 | Energy the negative of the work done by the spring. It can also be considered stored energy arising from the work done to compress or stretch the spring.
 
 Consider a horizontal spring and mass at the equilibrium position. We deter- mine the work done by the spring when compressed by an applied force from equilibrium to a displacement x, as in Figure 5.21b. The spring force points in the direction opposite the motion, so we expect the work to be negative. When we studied the constant force of gravity near Earth’s surface, we found the work done on an object by multiplying the gravitational force by the vertical displace- ment of the object. However, this procedure can’t be used with a varying force such as the spring force. Instead, we use the average force, F :
@@ -8027,11 +7474,7 @@ It’s important to remember that the work done by gravity and springs in any gi
 
 Figure 5.21c shows how the stored elastic potential energy can be recovered.
 
-When the block is released, the spring snaps back to its original length, and the stored elastic potential energy is converted to kinetic energy of the block. The elas- tic potential energy stored in the spring is zero when the spring is in the equilib- rium position (x 5 0). As given by Equation 5.17, potential energy is also stored in the spring when it’s stretched. Further, the elastic potential energy is a maximum Spring potential energy c Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.5 | Spring Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 when the spring has reached its maximum compression or extension. Finally, because PEs is proportional to x 2, the potential energy is always positive when the spring is not in the equilibrium position.
 
@@ -8073,10 +7516,6 @@ Set vi 5 0 in Equation (1) and multiply by 2/m : kxi m 5 vf 2 1 kxf Figure 5.22 
 
 Fs S mg S fk S n S (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 5.10 CirCuS ACroBAT GOAL  Use conservation of mechanical energy to solve a one- dimensional problem involving gravitational potential energy and spring potential energy.
 
 PROBLEM  A 50.0 - kg circus acrobat drops from a height of
@@ -8117,11 +7556,7 @@ vf 5   0.230 m/s h a b Figure 5.23  (Example 5.10)
 
 An acrobat drops onto a spring- board, causing it to compress.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.5 | Spring Potential Energy
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## SOLUTION
 
@@ -8165,8 +7600,6 @@ Apply conservation of mechanical energy: 2mvi 2 1 mgyi 1 1 2kxi 2 5 1 2mvf 2 1 m
 
 Use energy conservation again: 2mvi 2 1 mgyi 1 1 2kxi 2 5 1 2mvf 2 1 mgyf 1 1 2kxf (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 5 | Energy APPLYing PhYSiCS 5.2 ACCidEnT rEConSTruCTion Take vi 5 0, yi 5 0, yf 5 1 2 h, and xf 5 0, yielding 2 kxi 2 5 1 2mvf 2 1 mg 1 1 2 h2 Multiply by 2/m and solve for vf  : k m xi 2 5 vf 2 1 gh vf 5 Å k m xi 2 2 gh 5 Å a625 N/m
 
 ## 0.500 kg b 120.100 m2 2 2 19.80 m/s22 10.640
@@ -8196,8 +7629,6 @@ EXPLANATION  The metal and plastic of an automobile acts much like a spring, abs
 At greater relative speeds there will be permanent damage to the vehicle. Despite the fact the structure of the car may not return to its original shape, a certain force per meter is still required to deform it, just as it takes a certain force per meter to compress a spring. The greater the original kinetic energy, the more the car is compressed during a collision, and the greater the damage. By using data obtained through crash tests, it’s possible to obtain effective spring constants for all the different models of cars and determine reliable estimates of the change in velocity of a given vehicle during an accident.
 
 Medical research has established the likelihood of spinal injury for a given change in velocity, and the estimated velocity change can be used to help reduce insurance fraud.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 5.6 | Systems and Energy Conservation
 
@@ -8236,8 +7667,6 @@ One example is the transformation of chemical energy to mechanical energy that c
 Flagellar Movement; Bioluminescence Figure 5.25  This small plant, found in warm southern waters, exhibits bioluminescence, a process in which chemical energy is converted to light.
 
 The red areas are chlorophyll, which fluoresce when irradiated with blue light.
-
-Jan Hinsch/Science Source Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 5 | Energy Quick Quiz 5.8  A book of mass m is projected with a speed v across a horizontal surface. The book slides until it stops due to the friction force between the book and the surface.
 
@@ -8283,11 +7712,7 @@ Figure 5.26 is an asteroid map of the inner solar system.
 
 More asteroids are being discovered every year.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.7 | Power
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 According to Equation 5.24, average power is a constant force times the average velocity. The force F is the component of force in the direction of the average velocity.
 
@@ -8328,8 +7753,6 @@ Figure 5.27  (Example 5.12) (a) The motor exerts an upward force T S on the elev
 T S g S f S
 
 Motor M a b (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 5 | Energy
 
@@ -8377,8 +7800,6 @@ EXERCISE 5.13  What minimum average power must a 35-kg human boy generate climbi
 
 ## ANSWER  97 W
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.7 | Power
 
 EXAMPLE 5.14 SPEEdBoAT PoWEr GOAL  Combine power, the work–energy theorem, and nonconservative forces with one - dimensional kinematics.
@@ -8423,10 +7844,6 @@ EXERCISE 5.14  What average power must be supplied to push a 5.00-kg block from 
 
 2For more information on this topic, see E. J. Offenbacher, American Journal of Physics (38): 829, 1969.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Because the body is an extended object and different parts move with different speeds, we describe the motion of the jumper in terms of the position and velocity of the center of mass (CM), which is the point in the body at which all the mass may be considered to be concentrated. Figure 5.28 shows the position and velocity of the CM at different stages of the jump.
 
 Using the principle of the conservation of mechanical energy, we can find H, the maximum increase in height of the CM, in terms of the velocity vCM of the CM at liftoff. Taking PE i , the gravitational potential energy of the jumper– Earth system just as the jumper lifts off from the ground to be zero, and noting that the kinetic energy KEf  of the jumper at the peak is zero, we have PEi 1 KEi 5 PEf 1 KEf 2mvCM 2 5 mgH  or  H 5 vCM 2g We can estimate vCM by assuming that the acceleration of the CM is constant during the extension phase. If the depth of the crouch is h and the time for extension is Dt, we find that vCM 5 2v 5 2h/Dt. Measurements on a group of male college stu- dents show typical values of h 5 0.40 m and Dt 5 0.25 s, the latter value being set by the fixed speed with which muscle can contract. Substituting, we obtain vCM 5 2(0.40 m)/(0.25 s) 5 3.2 m/s and H 5 vCM 2g 5
@@ -8447,11 +7864,7 @@ To relate the abstract concepts of energy, power, and efficiency to humans, it�
 
 Diet vs. Exercise in Weight-loss Programs Figure 5.28  Extension and free flight in the vertical jump.
 
-vCM = 0 CM h Extension Free ﬂight CM CM vCM vCM = 0 H Liftoff Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.8 | Work Done by a Varying Force
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 calories and one food calorie equal to 4 200 J. So the total energy supplied by the body as internal energy and kinetic energy in a vertical jump is only about one-third of a food calorie!
 
@@ -8500,10 +7913,6 @@ Fx Area  =  A = Fx x Fx xf Fx xf Work
 a b The sum of the areas of all the rectangles approximates the work done by the force Fx on the particle during its displacement from xi to xf.
 
 The area under the curve exactly equals the work done by the force Fx on the particle during its displacement from xi to xf.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 the number of terms in the sum increases without limit, but the value of the sum approaches a definite value equal to the area under the curve bounded by Fx and the x - axis in Figure 5.28b. In other words, the work done by a variable force acting on an object that undergoes a displacement is equal to the area under the graph of Fx versus x.
 
@@ -8557,11 +7966,7 @@ Compute the area of the large triangle and subtract the area of the smaller tria
 
 ## 2180.0 N/m2 10.070 0 m2 2 2 0.064 0 J
 
-5 0.196 J 2 0.064 0 J 5   0.132 J Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 5.8 | Work Done by a Varying Force
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 REMARKS  Only simple geometries (rectangles and triangles) can be solved exactly with this method. More complex shapes require calculus or the square - counting technique in the next worked example.
 
@@ -8624,10 +8029,6 @@ The work–energy theorem states that the net work done on an object of mass m i
 Work and energy of any kind carry units of joules. Solving problems involves finding the work done by each force acting S u F S F cos u Figure 5.33 A constant force F S applied during a displacement Dx S does work (F cos u) Dx.
 
 Fnet S Fnet S S v0 S S vf S S Figure 5.34 Work done by a net force F S net on an object changes the object’s velocity.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The work done by other forces, as when frictional forces are present, isn’t always zero. In that case, identify two points as before, calculate the work due to all other forces, and solve for the unknown in Equation 5.13.
 
@@ -8702,10 +8103,6 @@ Gravitational work and gravitational potential energy should not both appear in 
 To solve problems with this equation, identify two points in the system—one where information is known and the other where information is desired. Substitute and solve for the unknown quantity.
 
 yi yf g S g S yS Physics Physics Figure 5.35 The work done by the gravitational force as the book falls equals mg yi 2 mg yf.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Conceptual Questions  153 (a) a chicken scratching the ground, (b) a person studying, (c) a crane lifting a bucket of concrete, (d) the force of gravity on the bucket in part (c), (e) the leg muscles of a person in the act of sitting down.
 
@@ -8790,10 +8187,6 @@ Which force does (a) positive work? (b) negative work?
 ing agents and, if so, whether the work is positive or negative:
 
 ## CONCEPTUAL QUESTIONS
-
-Figure CQ5.6 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 velocity is decreased. (c) The velocity is unchanged. (d) The speed is unchanged. (e) More information is needed.
 
@@ -8895,10 +8288,6 @@ A 62.0 - kg cheetah accelerates from rest to its top speed of
 
 to reach its top speed? (b) One food Calorie equals 4 186 J.
 
-How many Calories of net work are required for the cheetah to reach its top speed? Note: Due to inefficiencies in converting chemical energy to mechanical energy, the amount calculated Figure P5.8 u F S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  155 block–spring system? (b) If the block is now released and the surface is frictionless, calculate the block’s speed after leaving the spring.
 
 22.
@@ -8985,10 +8374,6 @@ spring described by Hooke’s law, the spring stretches 2.76 cm.
 
 constant k 5 875 N/m and pushed so the spring compresses by 0.070  0 m. (a) What is the elastic potential energy of the Figure P5.24 k
 
-m1 m2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 31.
 
 A horizontal spring attached to a wall has a force con- stant of 850 N/m. A block of mass 1.00 kg is attached to the spring and oscillates freely on a horizontal, frictionless surface as in Figure 5.22. The initial goal of this problem is to find the velocity at the equilibrium point after the block is released.
@@ -9069,10 +8454,6 @@ Neglecting air friction, at the instant before the projectile hits the ground, f
 
 3 G. P. Pappas et al., “Nonuniform Shortening in the Biceps Brachii During Elbow Flexion,” Journal of Applied Physiology, 92(6): 2381– 2389, 2002.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  157 of the airplane after it has traveled 5.00 3 102 m. Assume the airplane is in level flight throughout the motion.
 
 ## 43. V  The system shown in Figure P5.43
@@ -9130,10 +8511,6 @@ An airplane of mass 1.50 3 104 kg is moving at 60.0 m/s.
 The pilot then increases the engine’s thrust to 7.50 3 104 N.
 
 The resistive force exerted by air on the airplane has a mag- nitude of 4.00 3 104 N. (a) Is the work done by the engine on the airplane equal to the change in the airplane’s kinetic energy after it travels through some distance through the air?
-
-Is mechanical energy conserved? Explain. (b) Find the speed Figure P5.38 m1 m2 h Figure P5.39 vS a b x  0 Figure P5.43 T1 T2 T3 F S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
 
 elevator motor during this period? (b) How does this amount of power compare with its power during an upward trip with constant speed?
 
@@ -9235,10 +8612,6 @@ to 18.0 m/s in 12.0 s. Assume that air resistance remains con- stant at 4.00 3 1
 
 ## 58. A 6.50 3 102 - kg elevator starts from rest and moves upward
 
-for 3.00 s with constant acceleration until it reaches its cruis- ing speed, 1.75 m/s. (a) What is the average power of the Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  159 (Fig. P5.71). Calculate (a) its gravitational potential energy at A relative to B, (b) its kinetic energy at B, (c) its speed at B, (d) its potential energy at C relative to B, and (e) its kinetic energy at C.
 
 Figure P5.71 Problems 71 and 72.
@@ -9325,10 +8698,6 @@ to an apartment 25.0 m above the street using a pulley sys- tem fastened to the 
 
 inside of a smooth hemispherical bowl of radius R 5 30.0 cm Figure P5.64 h k k a b Figure P5.69 h
 
-m1 m2 Figure P5.76 u F S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 5 | Energy Unless otherwise noted, all content on this page is © Cengage Learning.
-
 (a) What is the spring’s maximum compression? (b) If the scale reads in kilograms, what reading does it give when the spring is at its maximum compression?
 
 ## 83. T  A loaded ore car has a mass of 9.50 3 102 kg and rolls on
@@ -9391,8 +8760,6 @@ inside the scale compresses by 0.650 mm. Excited to see that he has lost 2.50 kg
 
 ## 0.300 m straight up into the air and lands directly on the scale
 
-Figure P5.77 A B C x1 x2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 Topic
 
 ## 6.1 Momentum and Impulse
@@ -9431,8 +8798,6 @@ The magnitude of the momentum p of an object of mass m can be related to its kin
 
 p2 2m [6.2]
 
-This relationship is easy to prove using the definitions of kinetic energy and momentum (see Problem 6) and is valid for objects traveling at speeds much less b linear momentum Momentum, impulse, and collisions Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 6 | Momentum, Impulse, and Collisions than the speed of light. Equation 6.2 is useful in grasping the interplay between the two concepts, as illustrated in Quick Quiz 6.1.
 
 Quick Quiz 6.1  Two masses m 1 and m 2, with m 1 , m 2, have equal kinetic energy. How do the mag nitudes of their momenta compare? (a) Not enough information is given.
@@ -9463,11 +8828,7 @@ In real-life situations, the force on an object is only rarely constant. For exa
 
 F S av Dt 5 Dp S [6.6]
 
-newton’s second law and c momentum Impulse–momentum c theorem Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.1 | Momentum and Impulse
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The magnitude of the impulse delivered by a force during the time interval Dt is equal to the area under the force versus time graph as in Figure 6.1a or, equiva- lently, to Fav Dt as shown in Figure 6.1b. The brief collision between a bullet and an apple is illustrated in Figure 6.2.
 
@@ -9500,10 +8861,6 @@ Estimate the distance the ball travels on the face of the club (about 2.0 cm, r
 Ted Kinsman/Science Source/photoresearcher Figure 6.3 (Example 6.1) During impact, the club head momentarily flattens the side of the golf ball.
 
 (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 REMARKS  This estimate shows just how large such contact forces can be. A good golfer achieves maximum momentum trans- fer by shifting weight from the back foot to the front foot, transmitting the body’s momentum through the shaft and head of the club. This timing, involving a short movement of the hips, is more effective than a shot powered exclusively by the arms and shoulders. Following through with the swing ensures that the motion isn’t slowed at the critical instant of impact.
 
@@ -9561,11 +8918,7 @@ Apply Equation 6.6, the impulse–momentum theorem: Fav 5 Dp Dt 5
 
 With a final momentum of zero, the car undergoes a smaller change in momentum.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.1 | Momentum and Impulse
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 QUESTION 6.2  When a person is involved in a car accident, why is the likelihood of injury greater in a head-on collision as opposed to being hit from behind? Answer using the concepts of relative velocity, momentum, and average force.
 
@@ -9607,10 +8960,6 @@ F (in units of 105 N)
 
 Figure 6.5  Force on a car vs. time for a typical collision.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Air bags also increase the collision time, absorb energy from the body as they rapidly deflate, and spread the contact force over an area of the body of about
 
 ## 0.5 m2, preventing penetration wounds and fractures. Air bags must deploy very
@@ -9641,11 +8990,7 @@ Figure 6.7 Before and after a head- on collision between two particles.
 
 The momentum of each object changes during the collision, but the total momentum of the system is constant. Notice that the magni- tude of the change of velocity of the lighter particle is greater than that of the heavier particle, which is true in general.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.2 | Conservation of Momentum
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 or m1vS 1f 2 m1vS 1i 5 21m 2vS 2f 2 m 2vS 2i2 after substituting the expressions obtained for F S 21 and F S
 
@@ -9682,10 +9027,6 @@ ExAMPLE 6.3 THE ArCHEr GOAL  Calculate recoil velocity using conservation of mom
 PROBLEM  An archer stands at rest on frictionless ice; his total mass including his bow and quiver of arrows is 60.00 kg. (See Fig. 6.10.) (a) If the archer fires a 0.030 0-kg arrow horizontally at 50.0 m/s in the positive x - direction, what is his subsequent veloc- ity across the ice? (b) He then fires a second identical arrow at the same speed relative to the ground but at an angle of 30.0° above the horizontal. Find his new speed. (c) Estimate the average normal force acting on the archer as the second arrow is accelerated by the bowstring. Assume a draw length of 0.800 m.
 
 (Continued)
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 STRATEGY  To solve part (a), set up the conservation of momentum equation in the x - direction and solve for the final velocity of the archer. The system of the archer (including the bow) and the arrow is not iso- lated, because the gravitational and normal forces act on it. Those forces, however, are perpendicular to the motion of the system during the release of the arrow, and in addition are equal in magnitude and opposite in direction. Consequently, they produce no impulse dur- ing the arrow's release and conservation of momentum can be used. In part (b), conservation of momentum can be applied again, neglecting the tiny effect of gravi- tation on the arrow during its release. This time there is a nonzero initial velocity. Part (c) requires using the impulse–momentum theorem and estimating the time, which can be carried out with simple ballistics.
 
@@ -9731,8 +9072,6 @@ Use kinematics in one dimension to  estimate the acceleration of the arrow: v 2 
 
 ## 1.56 3 103 m/s2 5 0.032 0 s
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.3 | Collisions in One Dimension
 
 REMARKS  The negative sign on v 1f indicates that the archer is moving opposite the arrow’s direction, in accordance with Newton’s third law. Because the archer is much more massive than the arrow, his acceleration and velocity are much smaller than the acceleration and velocity of the arrow. A technical point: the second arrow was fired at the same velocity relative to the ground, but because the archer was moving backwards at the time, it was traveling slightly faster than the first arrow relative to the archer. Velocities must always be given relative to a frame of reference.
@@ -9768,10 +9107,6 @@ more than sufficient to prevent sliding in response to such small recoils.
 QUESTION 6.3  Would firing a heavier arrow necessarily increase the recoil velocity? Explain, using the result of Quick Quiz 6.1.
 
 EXERCISE 6.3  A 70.0-kg man and a 55.0-kg woman hold- ing a 2.50-kg purse on ice skates stand facing each other. (a) If the woman pushes the man backwards so that his final speed is 1.50 m/s, with what average force did she push him, assum- ing they were in contact for 0.500 s? (b) What is the woman’s recoil speed? (c) If she now throws her 2.50-kg purse at him at a 20.0° angle above the horizontal and at 4.20 m/s relative to the ground, what is her subsequent speed?
-
-ANSWERS  (a) 2.10 3 102 N  (b) 1.83 m/s  (c) 2.09 m/s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 walls of a container at ordinary temperatures are highly elastic. Macroscopic col- lisions such as those between billiard balls are only approximately elastic, because some loss of kinetic energy takes place—for example, in the clicking sound when two balls strike each other. Perfectly elastic collisions do occur, however, between atomic and subatomic particles. Elastic and perfectly inelastic collisions are limiting cases; most actual collisions fall into a range in between them.
 
@@ -9811,11 +9146,7 @@ Before a perfectly inelastic collision the objects move independently.
 
 Figure 6.11 (a) Before and (b) after a perfectly inelastic head-on collision between two objects.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.3 | Collisions in One Dimension
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ExAMPLE 6.4 A TruCk VErSuS A CoMPACT GOAL  Apply conservation of momentum to a one-dimensional inelastic collision.
 
@@ -9857,15 +9188,9 @@ EXERCISE 6.4  Suppose the same two vehicles are both traveling eastward, the com
 
 The driver of the compact car slams on the brakes suddenly, slowing the vehicle to 6.00 m/s. If the pickup truck travel- ing at 18.0 m/s crashes into the compact car, find (a) the speed of the system right after the collision, assuming the two vehicles become entangled, (b) the change in velocity for both vehicles, and (c) the change in kinetic energy of the system, from the instant before impact (when the com- pact car is traveling at 6.00 m/s) to the instant right after the collision.
 
-ANSWERS  (a) 14.0 m/s (b) pickup truck: Dv1 5 24.0 m/s, compact car: Dv 2 5 8.0 m/s (c) 24.32 3 104 J Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ExAMPLE 6.5 THE BALLISTIC PENduLuM Figure 6.13  (Example 6.5)
 
 (a) Diagram of a ballistic pendulum. Note that v S sys is the velocity of the system just after the perfectly inelastic collision. (b) Multiflash photograph of a laboratory ballistic pendulum.
-
-m2 m1 1i m1  m2 h vS vsys S a b © Charles D. Winters/Cengage Learning
 
 ## SOLUTION
 
@@ -9897,11 +9222,7 @@ STRATEGY  Use conservation of energy to find the initial velocity of the block�
 
 requires the conservation of momentum equation, which can be solved for the initial velocity of the bullet, v 1i.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.3 | Collisions in One Dimension
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Quick Quiz 6.4  An object of mass m moves to the right with a speed v. It collides head-on with an object of mass 3m moving with speed v/3 in the opposite direction. If the two objects stick together, what is the speed of the combined object, of mass 4m, after the collision?
 
@@ -9955,8 +9276,6 @@ Before an elastic collision the two objects move independently.
 
 Figure 6.14 (a) Before and (b) after an elastic head - on collision between two hard spheres. Unlike an inelastic collision, both the total momentum and the total energy are conserved.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 6 | Momentum, Impulse, and Collisions the equation, imagine that you are riding along on one of the objects. As you measure the velocity of the other object from your vantage point, you will be measuring the relative velocity of the two objects. In your view of the collision, the other object comes toward you and bounces off, leaving the collision with the same speed, but in the opposite direction. This is just what Equation 6.15 states.
 
 ## PROBLEM-SOLVING STRATEGY
@@ -10007,11 +9326,7 @@ Substitute the answer for v2f into Equation (1):
 
 v 1f 5   220.0 cm/s REMARKS  Notice the balls exchanged velocities—almost as if they’d passed through each other. This is always the case when two objects of equal mass undergo an elastic head-on collision.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.3 | Collisions in One Dimension
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 QUESTION 6.6  In this example, is it possible to adjust the initial velocities of the balls so that both are at rest after the collision?
 
@@ -10047,10 +9362,6 @@ QUESTION 6.7  Is it possible for both blocks to come to rest while the spring is
 
 EXERCISE 6.7  Find (a) the velocity of block 1 and (b) the compression of the spring at the instant that block 2 is at rest.
 
-ANSWERS  (a) 0.719 m/s to the right (b) 0.251 m Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 Quick Quiz 6.7 A bowling ball onboard a space station is floating at rest relative to the station and an astronaut nudges a Ping-Pong ball toward it at speed v, initiating a perfectly elastic head-on collision. Which answer is closest to the Ping-Pong ball’s speed after the collision? (a) 0 (b) v/2 (c) v (d) 2v (e) 3v
 
 ## 6.4 Glancing Collisions
@@ -10073,11 +9384,7 @@ If the collision is inelastic, the kinetic energy of the system is not conserved
 
 m1 m2 v2f cos v1f cos v1f sin 2f sin θ φ φ φ θ θ a b v1i S v1f S v2f S y After the collision Before the collision Figure 6.16 A glancing collision between two objects.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.4 | Glancing Collisions
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## PROBLEM-SOLVING STRATEGY
 
@@ -10121,10 +9428,6 @@ Find the x - components of the initial and final total momenta: o pxi 5 mcarvcar
 
 5 5.00 3 104 kg ? m/s o pfy 5 (mcar 1 m truck)vf sin u 5 (4.00 3 103 kg)vf sin u Set the initial y - momentum equal to the final y - momentum: (2) 5.00 3 104 kg ? m/s 5 (4.00 3 103 kg)vf sin u (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 REMARKS  It’s also possible to first find the x - and y - components vfx and vfy of the resultant velocity. The magnitude and direc- tion of the resultant velocity can then be found with the Pythagorean theorem, vf 5 !vf x2 1 vf y2, and the inverse tangent func- tion u 5 tan21 (vfy/vfx). Setting up this alternate approach is a simple matter of substituting vfx 5 vf   cos u and vfy 5 vf   sin u into Equations (1) and (2).
 
 QUESTION 6.8  If the car and truck had identical mass and speed, what would the resultant angle have been?
@@ -10163,11 +9466,7 @@ An opening at the bottom of the chamber removes the downward reaction force, res
 
 a b Figure 6.18  A rocket reaction cham- ber containing a combusting gas works because it has a nozzle where gases can escape. The chamber wall acts on the expanding gas; the reaction force of the gas on the chamber wall pushes the rocket forward.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 6.5 | Rocket Propulsion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 This fuel is traveling at a speed v relative to, say, Earth, just like the rest of the rocket.
 
@@ -10215,8 +9514,6 @@ PROBLEM  A rocket has a total mass of 1.00 3 105 kg and a burnout mass of 1.00 3
 
 (c) What is the initial acceleration of the rocket if gravity is not neglected? (d) Estimate the speed at burnout if gravity isn’t neglected.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 6 | Momentum, Impulse, and Collisions STRATEGY  Although it sounds sophisticated, this problem is mainly a matter of substituting values into the appropriate equations. Part (a) requires substituting values into Equation
 
 ## 6.20 for the velocity. For part (b), divide the change in the
@@ -10258,10 +9555,6 @@ QUESTION 6.9  What initial normal force would be exerted on an astronaut of mass
 EXERCISE 6.9  A spaceship with a mass of 5.00 3 104 kg is traveling at 6.00 3 103 m/s relative to a space station. What mass will the ship have after it fires its engines in order to reach a relative speed of 8.00 3 103 m/s, traveling in the same direction? Assume an exhaust velocity of 4.50 3 103 m/s.
 
 ANSWER  3.21 3 104 kg second law, the force of gravity, and the result of (b), we can find the initial acceleration. For part (d), the acceleration of gravity is approximately constant over the few kilometers involved, so the velocity found in part (b) will be reduced by roughly Dvg 5 2g t. Add this loss to the result of part (a).
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Summary  181
 
@@ -10336,8 +9629,6 @@ where DM/Dt is the rate at which the rocket’s mass changes as fuel is burned.
 Collision and recoil problems typically require finding unknown velocities in one or two dimensions. Each vector component gives an equation, and the resulting equations are solved simultaneously.
 
 ## 6.3 Collisions in one dimension
-
-In an inelastic collision, the momentum of the system is conserved, but kinetic energy is not. In a perfectly inelastic Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 6 | Momentum, Impulse, and Collisions
 
@@ -10436,10 +9727,6 @@ following cases: (a) a proton with mass equal to 1.67 3 10227 kg, moving with a
 ## 5.98 3 1024 kg) moving with an orbital speed equal to 2.98
 
 104 m/s.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  183
 
@@ -10561,10 +9848,6 @@ Figure P6.16 Fx (N)
 
 t (s)
 
-–2 Figure P6.17 y u u Figure P6.18 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 assuming the boat is at rest before the package is thrown, find the velocity of the boat after the package is thrown.
 
 ## 27. V  A 65.0 - kg person throws a 0.045 0 - kg snowball forward
@@ -10675,10 +9958,6 @@ m 5 15 kg horizontally toward the right with a speed of vi 5
 
 ## 4.5 m/s as in Figure P6.26. Neglecting water resistance, and
 
-S Figure P6.26 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  185
 
 ## 40. V  Two shuffleboard disks of equal mass, one orange and the
@@ -10764,10 +10043,6 @@ The bullet becomes embedded in the block. If the bullet– block system compress
 an easterly direction crashes into the rear end of a 9 000-kg truck moving in the same direction at 20.0 m/s (Fig. P6.44).
 
 The velocity of the car right after the collision is 18.0 m/s to the east. (a) What is the velocity of the truck right after the collision? (b) How much mechanical energy is lost in the colli- sion? Account for this loss in energy.
-
-h M Figure P6.42 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 52. Two automobiles of equal mass approach an intersection
 
@@ -10867,10 +10142,6 @@ Twin A is carrying a backpack of mass 12.0 kg. She throws it horizontally at 3.0
 
 move as a unit after the collision, at an angle of 40.0° north of east and a speed of 5.22 m/s. Find the speed and direction of the 3.00 3 103-kg car before the collision.
 
-Figure P6.45 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  187 65.
 
 An amateur skater of mass M is trapped in the middle of an ice rink and is unable to return to the side where there is no ice. Every motion she makes causes her to slip on the ice and remain in the same spot. She decides to try to return to safety by removing her gloves of mass m and throwing them in the direction opposite the safe side. (a) She throws the gloves as hard as she can, and they leave her hand with a velocity v S gloves. Explain whether or not she moves. If she does move, calculate her velocity v S girl relative to the Earth after she throws the gloves. (b) Discuss her motion from the point of view of the forces acting on her.
@@ -10933,10 +10204,6 @@ head-on collision with a resting 1.0-g object. (a) Find the speed of each parti
 
 A bullet of mass m and speed v passes completely through a pen- dulum bob of mass M as shown in Figure P6.64. The bullet emerges with a speed of v/2. The pendulum bob is suspended by a stiff rod of length , and negligible mass. What is the minimum value of v such that the bob will barely swing through a complete vertical circle?
 
-M vS v/2 S Figure P6.64 h A B Figure P6.66 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 6 | Momentum, Impulse, and Collisions Unless otherwise noted, all content on this page is © Cengage Learning.
-
 initially unstretched and with force constant k 5
 
 ## 2.00 3 104 N/m, as in
@@ -10948,8 +10215,6 @@ Figure P6.75. The can- non fires a 2.00 3 102-kg projectile at a velocity of 125
 76.
 
 Two blocks collide on a frictionless surface. After the collision, the blocks stick together. Block A has a mass M and is initially moving to the right at speed v. Block B has a mass 2M and is initially at rest. System C is composed of both blocks. (a) Draw a force diagram for each block at an instant during the collision. (b) Rank the magnitudes of the horizon- tal forces in your diagram. Explain your reasoning. (c) Calcu- late the change in momentum of block A, block B, and system C. (d) Is kinetic energy conserved in this collision? Explain your answer. (This problem is courtesy of Edward F. Redish.
-
-For more such problems, visit http://www.physics.umd.edu/ perg.)
 
 77.
 
@@ -11005,10 +10270,6 @@ A car of mass m moving at a speed v 1 collides and couples with the back of a tr
 
 75.
 
-A cannon is rigidly attached to a carriage, which can move along horizontal rails, but is connected to a post by a large spring, 45.0° Figure P6.75 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  189 behind the driver. If she drops through a vertical displace- ment of 2.00 m, what is the subsequent velocity of the tobog- gan immediately after impact?
 
 81.
@@ -11036,10 +10297,6 @@ A wooden block of mass M rests on a table over a large hole as in Figure P6.84. 
 A 1.25-kg wooden block rests on a table over a large hole as in Figure P6.84. A 5.00-g bullet with an initial velocity vi is fired upward into the bottom of the block and remains in the block after the collision. The block and bullet rise to a maximum height of 22.0 cm. (a) Describe how you would find the initial velocity of the bullet using ideas you have learned in this topic. (b) Calculate the initial velocity of the bullet from the information provided.
 
 M S Figure P6.84 Problems 84 and 85.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Rotational motion is an impoRtant paRt of everyday life. The rotation of the Earth creates the cycle of day and night, the rotation of wheels enables easy vehicular motion, and modern technology depends on circular motion in a variety of contexts, from the tiny gears in a Swiss watch to the operation of lathes and other machinery. The concepts of angular velocity, angular acceleration, and centripetal acceleration are central to understand- ing the motions of a diverse range of phenomena, from a car moving around a circular race- track to clusters of galaxies orbiting a common center.
 
@@ -11079,11 +10336,7 @@ for Uniform Circular motion
 
 Rotational Motion and Gravitation Topic Figure 7.1  For a circle of radius r, one radian is the angle subtended by an arclength equal to r.
 
-y r s = r = 1 rad  57.3° θ θ Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.1 | Angular Velocity and Angular Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Armed with the concept of radian measure, we can now discuss angular con- cepts in physics. Consider Figure 7.2a, a top view of a rotating compact disc. Such a disk is an example of a “rigid body,” with each part of the body fixed in position relative to all other parts of the body. When a rigid body rotates through a given angle, all parts of the body rotate through the same angle at the same time. For the compact disc, the axis of rotation is at the center of the disc, O. A point P on the disc is at a distance r from the origin and moves about O in a circle of radius r.
 
@@ -11122,8 +10375,6 @@ b angular displacement b average angular velocity b  instantaneous angular veloc
 y B tf A ti r O fu u Figure 7.3  As a point on the com- pact disc moves from Ⓐ to Ⓑ, the disc rotates through the angle Du 5 uf 2 ui.
 
 Tip 7.1  Remember the Radian Equation 7.1 uses angles measured in radians. Angles expressed in terms of degrees must first be con- verted to radians. Also, be sure to check whether your calculator is in degree or radian mode when solv- ing problems involving rotation.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation The instantaneous angular speed of an object is defined as the magnitude of the instantaneous angular velocity. Instantaneous angular speed (or simply, “angular speed”) has no direction associated with it and carries no algebraic sign.
 
@@ -11167,11 +10418,7 @@ Apply Equation 7.3, noticing that Du 5 (26 rev)(2p rad/rev) 5 52p rad: vav 5 Du 
 
 5 45 rad/s (b) Find the arclength traced out by the tip of the blade.
 
-Multiply the angular velocity by the time to obtain the angular displacement: Du 5 vt 5 (33.5 rad/s)(3.00 3 102 s) 5 1.01 3 104 rad Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.1 | Angular Velocity and Angular Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Quick Quiz 7.1  A rigid body is rotating counterclockwise about a fixed axis. Each of the following pairs of quantities represents an initial angular position and a final angular position of the rigid body. Which of the sets can occur only if the rigid body rotates through more than 180°? (a) 3 rad, 6 rad; (b) 21 rad, 1 rad; (c) 1 rad, 5 rad.
 
@@ -11202,8 +10449,6 @@ This fact is what makes these variables so useful for describing rotational moti
 In contrast, the tangential velocity and acceleration of the object take different val- ues that depend on the distance from a given point to the axis of rotation.
 
 b average angular acceleration b  instantaneous angular acceleration Figure 7.4  An accelerating bicycle wheel rotates with (a) angular velocity vi at time ti and (b) angular velocity vf at time tf.
-
-tf f ti ω ω a b Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation
 
@@ -11247,11 +10492,7 @@ Use Equation 7.8, setting vi 5 2.00 rad/s, a 5 3.5 rad/s2, and t 5 2.00 s: Du 5 
 
 ## 213.50 rad/s22 12.00 s2
 
-5  11.0 rad Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.3 | Tangential Velocity, Tangential Acceleration, and Centripetal Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Convert radians to revolutions.
 
@@ -11274,8 +10515,6 @@ ANSWERS  (a) 10.8 rad (b) 12.5 rad/s (c) 15.6 rad/s
 acceleration, and Centripetal acceleration 7.3.1 tangential Velocity and Acceleration Angular variables are closely related to linear variables. Consider the arbitrarily shaped object in Figure 7.5 rotating about the z - axis through the point O. Assume the object rotates through the angle Du, and hence point P moves through the arclength Ds, in the interval Dt. We know from the defining equation for radian measure that Du 5 Ds r Dividing both sides of this equation by Dt, the time interval during which the rota- tion occurs, yields Du Dt 5 1 r Ds Dt When Dt is very small, the angle Du through which the object rotates is also small, and the ratio Du/Dt is close to the instantaneous angular velocity v. On the other side of the equation, similarly, the ratio Ds/Dt approaches the instantaneous linear speed v for small values of Dt. Hence, when Dt gets arbitrarily small, the preceding equation is equivalent to v 5 v r In Figure 7.5, the point P traverses a distance Ds along a circular arc during the time interval Dt at a linear speed of v. The direction of P’s velocity vector vS is Figure 7.5  Rotation of an object about an axis through O (the z-axis)
 
 that is perpendicular to the plane of the figure. Note that a point P on the object rotates in a circle of radius r centered at O.
-
-y P O r vS s u Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation tangent to the circular path. The angular component of vS is v 5 vt, called the tangen- tial velocity of a particle moving in a circular path, written
 
@@ -11306,8 +10545,6 @@ speed, Andrea’s tangential speed is (a) twice Chuck’s (b) the same as Chuck�
 tangential velocity c tangential acceleration c APPLying PhysiCs 7.1 EuroPEAn sPACE AgEnCy LAunCh sitE Why is the launch area for the European Space Agency in South America and not in Europe?
 
 EXPLANATION  Satellites are boosted into orbit on top of rockets, which provide the large tangential velocity necessary to achieve orbit. Due to its rotation, the surface of Earth is already traveling toward the east at a tangential velocity of nearly 1 700 m/s at the equator. This tangential velocity is steadily reduced farther north because the distance to the axis of rotation is decreasing. It finally goes to zero at the North Pole. Launching eastward from the equator gives the satellite a starting initial tangential velocity of 1 700 m/s, whereas a European launch provides roughly half that value (depending on the exact latitude).
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 ## 7.3 | Tangential Velocity, Tangential Acceleration, and Centripetal Acceleration
 
@@ -11350,8 +10587,6 @@ A phonograph record rotates at a constant angular speed. Popular angular speeds 
 CDs, on the other hand, are designed so that the disc moves under the laser pickup at a constant tangential speed. Because the pickup moves radially as it fol- lows the tracks of information, the angular speed of the CD must vary according to the radial position of the laser. Because the tangential speed is fixed, the informa- tion density (per length of track) anywhere on the disc is the same. Example 7.4 demonstrates numerical calculations for both CDs and phonograph records.
 
 ## APPLICATION
-
-Phonograph Records and Compact Discs Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation EXAMPLE 7.4 trACk LEngth oF A CoMPACt disC GOAL  Relate angular to linear variables.
 
@@ -11403,11 +10638,7 @@ multiplied by time gives the total distance.
 
 ## SOLUTION
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.3 | Tangential Velocity, Tangential Acceleration, and Centripetal Acceleration
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The numerator represents the difference between the velocity vectors vS f and vS i.
 
@@ -11444,10 +10675,6 @@ O vf qu Top view vS r a b B A S S O r r Figure 7.6  (a) Circular motion of a car
 u a b S S vf S vf qu B A S S O r r s Figure 7.7  (a) As the particle moves from Ⓐ to Ⓑ, the direction of its velocity vector changes from vS i to vS f.
 
 (b) The construction for determining the direction of the change in velocity DvS, which is toward the center of the circle.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
 
 The foregoing derivations concern circular motion at constant speed. When an object moves in a circle but is speeding up or slowing down, a tangential component of acceleration, at 5 ra, is also present. Because the tangential and centripetal com- ponents of acceleration are perpendicular to each other, we can find the magnitude of the total acceleration with the Pythagorean theorem:
 
@@ -11507,11 +10734,7 @@ Substitute into Equation 7.18: a 5 "at 2 1 ac 2 5 "14.00 m/s22 2 1 16.25 m/s22 2
 
 QUESTION 7.5  If the force causing the centripetal acceleration suddenly vanished, would the car (a) slide away along a radius, (b) proceed along a line tangent to the circular motion, or (c) proceed at an angle intermediate between the tangent and radius?
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.4 | Newton’s Second Law  for Uniform Circular Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 EXERCISE 7.5  Suppose the race car now slows down uniformly from 60.0 m/s to 30.0 m/s in 4.50 s to avoid an accident, while still traversing a circular path 4.00 3 102 m in radius. Calculate the car’s (a) centripetal acceleration, (b) angular velocity, (c) tangential acceleration, and (d) total acceleration when the speed is 40.0 m/s.
 
@@ -11543,10 +10766,6 @@ Figure 7.9  A puck attached to a string of length r rotates in a horizontal plan
 
 r Tension T is the centripetal force keeping the puck on a circular path.
 
-S T S vS Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
-
 APPLying PhysiCs 7.2 ArtiFiCiAL grAVity a centrifugal force. Sometimes an insufficient centripetal force is mistaken for the presence of a centrifugal force (see section 7.4.2 Fictitious Forces, page 206).
 
 A radial force is a vector and has a direction. The second law for uniform cir- cular motion involves forces that are directed either towards the center of a circle or away from it. A force acting towards the center of the circle is by convention negative. Examples include the gravity force on a satellite or the string tension of a whirling yo-yo. A force acting away from the center of the circle is positive. Exam- ples include the normal force on a car traveling over the circular crest of a hill or the force of repulsion between like electric charges. Similarly, the centripetal accel- eration is negative because it acts towards the center of the circle.
@@ -11571,11 +10790,7 @@ n S n S n S ProbLEM-soLVing strAtEgy Forces that Cause Centripetal Acceleration 
 
 2. Choose a coordinate system that has one axis perpendicular to the circular path followed by the object (the radial direction) and one axis tangent to the circular path (the tangential, or angular, direction). The normal direction, perpendicular to the plane of motion, is also often needed.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.4 | Newton’s Second Law for Uniform Circular Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 3. Find the net force Fc toward the center of the circular path, Fc 5 o Fr, where o Fr  is the sum of the radial components of the forces. This net radial force causes the centripetal acceleration.
 
@@ -11617,10 +10832,6 @@ QUESTION 7.6  If the static friction coefficient were increased, would the maxim
 
 EXERCISE 7.6  At what maximum speed can a car negotiate a turn on a wet road with coefficient of static friction 0.230 without sliding out of control? The radius of the turn is 25.0 m.
 
-ANSWER  7.51 m/s Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 7.7 dAytonA intErnAtionAL sPEEdWAy GOAL  Solve a centripetal force problem involving two dimensions.
 
 PROBLEM  The Daytona Interna- tional Speedway in Daytona Beach, Florida, is famous for its races, espe- cially the Daytona 500, held every February. Both of its courses feature four-story, 31.0° banked curves, with maximum radius of 316  m. If a car negotiates the curve too slowly, it tends to slip down the incline of the turn, whereas if it’s going too fast, it may begin to slide up the incline.
@@ -11647,11 +10858,7 @@ ANSWER  54.5°
 
 ## APPLICATION
 
-Banked Roadways Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.4 | Newton’s Second Law for Uniform Circular Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (a) Find the speed at the top of the loop.
 
@@ -11686,10 +10893,6 @@ Astronauts experience a similar force during space launches.
 QUESTION 7.8  Suppose the car subsequently goes over a rise with the same radius of curvature and at the same speed as part (a). What is the normal force in this case?
 
 EXERCISE 7.8  A jet traveling at a constant speed of 1.20 3 102 m/s executes a vertical loop with a radius of 5.00 3 102 m. (See Fig. 7.13b.) Find the magnitude of the force of the seat on a 70.0-kg pilot at (a) the top and (b) the bottom of the loop.
-
-ANSWERS  (a) 1.33 3 103 N (b) 2.70 3 103 N Solve for n: n 5 mg 1 m v 2 bot R 5 mg 1 m 5gR R 5   6mg Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
 
 7.4.2 Fictitious Forces Anyone who has ridden a merry-go-round as a child (or as a fun-loving grown-up)
 
@@ -11753,11 +10956,7 @@ m1 m2 r F21 S F12 S Table 7.1  Free-Fall acceleration g at Various altitudes Alt
 
 50 000 0.13 aAll figures are distances above Earth’s surface.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.5 | Newtonian Gravitation
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 7.9  A planet has two moons with identical mass. Moon 1 is in a circular orbit of radius r. Moon 2 is in a circular orbit of radius 2r. The magnitude of the gravitational force exerted by the planet on Moon 2 is (a) four times as large (b) twice as large (c) the same (d) half as large (e) one-fourth as large as the gravitational force exerted by the planet on Moon 1.
 
@@ -11817,8 +11016,6 @@ m2 m1 m3 u y F S F S F S
 
 F23 S f (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 TOPIC 7 | Rotational Motion and Gravitation (b) Find the components of the force of m2 on m3.
 
 First, compute the magnitude of F S 23:
@@ -11873,11 +11070,7 @@ Equate the weight of the rock on Ceres to the gravitational force acting on the 
 
 gCR C G 5   1.20 3 1021 kg (c) Calculate the acceleration of gravity at a height of 50.0 km above the surface of Ceres.
 
-Equate the weight at 50.0 km to the gravitational force: mg rC 5 G mMC r 2 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.5 | Newtonian Gravitation
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 7.5.2 gravitational Potential Energy revisited In Topic 5 we introduced the concept of gravitational potential energy and found that the potential energy associated with an object could be calculated from the equation PE 5 mgh, where h is the height of the object above or below some refer- ence level. This equation, however, is valid only when the object is near Earth’s sur- face. For objects high above Earth’s surface, such as a satellite, an alternative must be used because g varies with distance from the surface, as shown in Table 7.1.
 
@@ -11922,8 +11115,6 @@ EXAMPLE 7.11 A nEAr-EArth AstEroid GOAL  Use gravitational potential energy to c
 PROBLEM  An asteroid with mass m 5 1.00 3 109 kg comes from deep space, effectively from infinity, and falls toward Earth. (a) Find the change in potential energy when it reaches a point 4.00 3 108 m from the center of the Earth (just beyond the orbital radius of the Moon). In addition, find the work done by the force of gravity. (b) Calculate the asteroid’s speed at that point, assuming it was initially at rest when it was arbitrarily far away. (c)  How much work would have to be done on the asteroid by some other agent so the asteroid would be traveling at only half the speed found in (b) at the same point?
 
 STRATEGY  Part (a) requires simple substitution into the defi- nition of gravitational potential energy. To find the work done by the force of gravity, recall that the work done on an object by a conservative force is just the negative of the change in poten- tial energy. Part (b) can be solved with conservation of energy, and part (c) is an application of the work–energy theorem.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation
 
@@ -11971,11 +11162,7 @@ ANSWER  21.90 3 1015 J APPLying PhysiCs 7.3 Why is thE sun hot?
 
 EXPLANATION  The Sun formed when particles in a cloud of gas coalesced, due to gravitational attraction, into a mas- sive astronomical object. Before this occurred, the particles in the cloud were widely scattered, representing a large amount of gravitational potential energy. As the particles fell closer together, their kinetic energy increased, but the gravitational potential energy of the system decreased, as required by the conservation of energy. With further slow collapse, the cloud became more dense and the average kinetic energy of the particles increased. This kinetic energy is the internal energy of the cloud, which is proportional to the temperature. If enough particles come together, the temperature can rise to a point at which nuclear fusion occurs and the ball of gas becomes a star. Otherwise, the temperature may rise, but not enough to ignite fusion reactions, and the object becomes a brown dwarf (a failed star) or a planet.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.5 | Newtonian Gravitation
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 On inspecting Equation 7.22, some may wonder what happened to mgh, the gravitational potential energy expression introduced in Topic 5. That expression is still valid when h is small compared with Earth’s radius. To see this, we write the change in potential energy as an object is raised from the ground to height h, using the general form for gravitational potential energy (see Fig. 7.19):
 
@@ -12002,8 +11189,6 @@ E h r  RE h RE h PE2 G MEm MEm RE PE1 G Figure 7.19  Relating the general form 
 Table 7.2  Escape speeds for the planets and the moon Planet vesc (km/s)
 
 Mercury 4.3 Venus 10.3 Earth 11.2 Moon 2.3 Mars 5.0 Jupiter 60.0 Saturn 36.0 Uranus 22.0 Neptune 24.0 Plutoa 1.1 aIn August 2006, the International Astronomical Union adopted a definition of a planet that separates Pluto from the other eight planets. Pluto is now defined as a “dwarf planet” (like the asteroid Ceres).
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation world has an atmosphere and, if so, what the constituents of the atmosphere are.
 
@@ -12043,11 +11228,7 @@ vf 5  2.39 3 103 m/s (b) Find the acceleration through the cannon bore, assuming
 
 Use the time-independent kinematics equation: v2 2 v0 2 5 2a Dx (1.12 3 104 m/s)2 2 0 5 2a(1.00 3 103 m)
 
-a 5  6.27 3 104 m/s2 7.5.4 kepler’s Laws The movements of the planets, stars, and other celestial bodies have been observed for thousands of years. In early history scientists regarded Earth as the center of the Universe. This geocentric model was developed extensively by the Greek astrono- mer Claudius Ptolemy in the second century AD and was accepted for the next 1 400 years. In 1543 Polish astronomer Nicolaus Copernicus (1473–1543) showed Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 7.5 | Newtonian Gravitation
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 that Earth and the other planets revolve in circular orbits around the Sun (the heliocentric model).
 
@@ -12078,8 +11259,6 @@ kepler’s third Law The derivation of Kepler’s third law is simple enough to 
 (b) In the Solar System, the Sun is at one focus of the elliptical orbit of each planet and the other focus is empty.
 
 Focus Focus Planet Sun p q a b Figure 7.21  The two areas swept out by the planet in its elliptical orbit about the Sun are equal if the time interval between points Ⓐ and Ⓑ is equal to the time interval between points Ⓒ and Ⓓ.
-
-Sun D C A B S Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation The speed v of the planet in its orbit is equal to the circumference of the orbit divided by the time required for one revolution, T, called the period of the planet, so v 5 2pr/T. Substituting, the preceding expression becomes GMS r 2 12pr/T2 2 r
 
@@ -12211,8 +11390,6 @@ Mercury
 
 Pluto is now defined as a “dwarf planet” like the asteroid Ceres.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 | Summary  215 This equation can be easily checked: Earth has a semimajor axis of one astronomi- cal unit (by definition), and it takes one year to circle the Sun. This equation, of course, is valid only for the Sun and its planets, asteroids, and comets.
 
 Quick Quiz 7.10  Suppose an asteroid has a semimajor axis of 4 AU. How long does it take the asteroid to go around the Sun? (a) 2 years (b) 4 years (c) 6 years (d) 8 years EXAMPLE 7.13 gEosynChronous orbit And tELECoMMuniCAtions sAtELLitEs GOAL  Apply Kepler’s third law to an Earth satellite.
@@ -12256,10 +11433,6 @@ The average angular acceleration aav of a rotating object is defined as the rati
 aav ; vf 2 vi tf 2 ti 5 Dv Dt [7.5]
 
 where aav is in radians per second per second (rad/s2).
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
 
 is directly proportional to the product of their masses and inversely proportional to the square of the distance r between them:
 
@@ -12352,10 +11525,6 @@ Earth R E O GMEm PE r R E ME
 located on its rim and point B is located exactly halfway between the center and the rim. What is the ratio of (a) the angular velocity vA to that of vB, and (b) the tangential veloc- ity vA to that of vB?
 
 ## 2. Suppose an alien civilization has a space station in circular
-
-orbit around its home planet. The station’s orbital radius is twice the planet’s radius. (a) If an alien astronaut has weight w just before launch from the surface, will she be weightless when she reaches the station and floats inside of it? (b) If not, Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 | Problems  217 The purpose of their rotation is to simulate gravity for the inhabitants. Explain the concept behind this proposal.
 
@@ -12463,10 +11632,6 @@ eration of 1.60 rad/s2 for wheels that are 38.0 cm in radius.
 
 through in that time? (d) How far has the bicycle traveled?
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
-
 the arc ABC is 235 m, and the car completes the turn in 36.0 s.
 
 (a) Determine the car’s speed. (b) What is the magnitude and direction of the acceleration when the car is at point B?
@@ -12559,10 +11724,6 @@ stant negative angular acceleration of magnitude 2.00 rad/s2.
 
 eastward turns north by trav- eling in a circular path at uniform speed as shown in Figure P7.15. The length of Figure P7.8 Problems 8 and 69.
 
-h A Figure P7.15 y A O B C 35.0 Figure P7.19 u vS Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  219 energy), (b) the snowboarder’s centripetal acceleration at the bottom is ac 5 2g, and (c) the normal force on the snow- boarder at the bottom of the halfpipe has magnitude 3mg (Hint : Use Newton’s second law of motion).
 
 vS R Figure P7.28
@@ -12620,8 +11781,6 @@ to revolve in a circle of radius R 5 1.0 m on a frictionless hori- zontal table
 Figure P7.27 m1 m2 R vS 28.
 
 A snowboarder drops from rest into a halfpipe of radius R and slides down its frictionless surface to the bottom (Fig.
-
-P7.28). Show that (a) the snowboarder’s speed at the bot- tom of the halfpipe is v 5 "2gR (Hint: Use conservation of Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
 
 TOPIC 7 | Rotational Motion and Gravitation
 
@@ -12727,10 +11886,6 @@ circular, determine the mass of Mars.
 
 above Earth equal to Earth’s mean radius. Find (a) the satel- lite’s orbital speed, (b) the period of its revolution, and (c) the gravitational force acting on it.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  221 representation). Assuming a gun could launch a rock of mass m at twice the lunar escape speed, calculate the speed of the rock as it enters Earth’s atmosphere.
 
 ## 60. T  A model airplane of mass 0.750 kg flies with a speed of
@@ -12788,10 +11943,6 @@ A roller coaster travels in a circular path. (a)  Identify the forces on a pass
 Find the force exerted by the seat on a 70.0-kg passenger at the top of the loop. Then, assume the speed remains the same at the bottom of the loop and find the force exerted by the seat on the passenger at this point. Are your answers consis- tent with your choice of answers for parts (a) and (b)?
 
 ## 59. In Robert Heinlein’s The Moon Is a Harsh Mistress, the colo-
-
-nial inhabitants of the Moon threaten to launch rocks down onto Earth if they are not given independence (or at least Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 7 | Rotational Motion and Gravitation Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (a) Once the turntable starts to rotate, what force causes the centripetal acceleration when the coin is stationary relative to the turntable? Under what condi- tion does the coin begin to move rela- tive to the turntable? (b) After what period of time will the coin start to slip on the turntable?
 
@@ -12875,10 +12026,6 @@ Figure P7.65 vS Figure P7.69
 
 ## 3.00
 
-Figure P7.70 L Figure P7.72 θ FLsin θ θ θ FLcos M FL S gS Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
-
 | Problems  223 for the section of track between points A and B. Given that the coefficient of kinetic friction between the block and the track along AB is mk 5 0.30 and that the length of AB is 2.5 m, determine the minimum compression d of the spring that enables the block to just make it through the loop-the-loop at point C. Hint: The force exerted by the track on the block will be zero if the block barely makes it through the loop-the-loop.
 
 Figure P7.74 C R k B A k µ
@@ -12904,10 +12051,6 @@ The floor then drops away, leaving the riders suspended against the wall in a ve
 ## 74. A massless spring of constant k 5 78.4 N/m is fixed on the left
 
 side of a level track. A block of mass m 5 0.50 kg is pressed against the spring and compresses it a distance d, as in Fig- ure P7.74. The block (initially at rest) is then released and travels toward a circular loop-the-loop of radius R 5 1.5 m.
-
-The entire track and the loop-the-loop are frictionless, except Figure P7.73 r z θ Figure P7.75 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 In the study of lInear motIon, objects were treated as point particles without structure. It didn’t matter where a force was applied, only whether it was applied or not.
 
@@ -12951,11 +12094,7 @@ energy
 
 Topic Figure 8.1  A bird’s-eye view of a door hinged at O, with a force applied per- pendicular to the door.
 
-O Hinge F S rS Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.1 | Torque
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Let F S be a force acting on an object, and let rS be a position vector from a chosen point O to the point of application of the force, with F S perpendicular to rS. The magnitude of the torque t S exerted by the force F S is given by
 
@@ -12983,10 +12122,6 @@ Figure 8.3  (Example 8.1)
 
 F1 S F2 S r1 S r2 S t1 5 2r1F1 5 2(1.20 m)(625 N) 5 27.50 3 102 N ? m Calculate the torque exerted by the woman. A negative sign must be supplied because F S 1, if unopposed, would cause a clockwise rotation: (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
-
 The applied force isn’t always perpendicular to the position vector rS.
 
 Sup pose the force F S exerted on a door is directed away from the axis, as in Figure 8.4a, say, by someone’s grasping the doorknob and pushing to the right. Exerting the force in this direction couldn’t possibly open the door. However, if the applied force acts at an angle to the door as in Figure 8.4b, the component of the force perpendicular to the door will cause it to rotate. This figure shows that the component of the force per- pendicular to the door is F sin u, where u is the angle between the posi- tion vector rS and the force F S. When the force is directed away from the axis, u 5 0°, sin (0°) 5 0, and F sin (0°) 5 0. When the force is directed toward the axis, u 5 180° and F sin (180°) 5 0. The maximum absolute value of F sin u is attained only when F S is perpendicular to rS — that is, when u 5 90° or u 5 270°. These considerations motivate a more general definition of torque: Let F S be a force acting on an object, and let rS be a position vector from a chosen point O to the point of application of the force. The magnitude of the torque t S exerted by the force F S is
@@ -13013,11 +12148,7 @@ ANSWERS  (a) tboy 5 2456 N ? m, tman 5 403 N ? m (b) tnet 5 253 N ? m d  r sin 
 
 (c) An alternate interpretation of torque in terms of a lever arm d 5 r sin u.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.1 | Torque
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 It’s important to remember that the value of t depends on the chosen axis of rotation. Torques can be computed around any axis, regardless of whether there is some actual, physical rotation axis present. Once the point is chosen, however, it must be used consistently throughout a given problem.
 
@@ -13065,10 +12196,6 @@ a b Figure 8.7  (Example 8.2a)
 
 (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## SOLUTION
 
 (a) Compute the torque due to the applied force exerted at 60.0°.
@@ -13115,11 +12242,7 @@ O m3 y CG g S m2g S m1g S mg S Figure 8.8  The net gravitational torque on an ob
 
 The object will balance if supported at that point (or at any point along a vertical line above or below that point).
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.2 | Center of Mass and Its Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 and
 
@@ -13195,10 +12318,6 @@ xcg 5
 
 5  0.136 m (Continued)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
-
 EXAMPLE 8.4 LoCAting YouR LAB PARtnER’S CEntER oF gRAvitY GOAL  Use torque to find a center of gravity.
 
 PROBLEM  In this example we show how to find the location of a person’s center of gravity. Suppose your lab partner has a height L of 173 cm (5 ft, 8 in.) and a weight w of 715 N (160 lb).
@@ -13229,11 +12348,7 @@ Set the sum of the torques equal to zero: o ti 5 tn 1 tw 1 twb 1 tF 5 0 REMARKS 
 
 QUESTION 8.4  What would happen if a support is placed exactly at x 5 79 cm followed by the removal of the supports at the subject’s head and feet?
 
-Solve for xcg and substitute known values: xcg 5 FL 2 wb1L/22 w 1350 N2 1173 cm2 2 149 N2 186.5 cm2 715 N 5  79 cm Substitute expressions for the torques: 0 2 wxcg 2 wb(L/2) 1 FL 5 0 Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.2 | Center of Mass and Its Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (Continued)
 
@@ -13272,10 +12387,6 @@ EXERCISE 8.5 A man of mass M 5 75.0 kg is standing in a canoe of mass 40.0 kg th
 ANSWERS (a) 3.80 m (b) 3.10 m The center of mass (or of gravity) of an extended object can lie outside the object, as the next example shows.
 
 ExamplE 8.6 sysTEm of rods GoAl Find the center of mass of a continuous system of particles.
-
-PRoblEm A rod system with a uniform linear density of 5.00 kg/m is cast into an irregular, upside-down T-shape as in Figure 8.13a, with rod 1 the horizontal rod and rod 2 the vertical rod. Neglect the diameter of the rods. (a) Find the Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
 
 mass of each rod. (b) Determine the center of mass of each rod. (c) Calculate the center of mass of the system in the xy-plane.
 
@@ -13325,8 +12436,6 @@ ANSWER (1.80, 1.50) m 8.2.2 Center of Mass Motion Newton’s second law can be a
 
 Mtota S cm 5 a F S i 5 a F S ext 1 a F S int [8.4]
 
-where F S ext are external forces acting on the system and F S int are internal forces act- ing on the system. All internal forces come as action–reaction pairs, however, and because the vectors in those pairs have equal magnitudes and opposite directions, Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.2 | Center of Mass and Its Motion
 
 they cancel out. Therefore, the second law for the center of mass may be written without internal forces as
@@ -13360,10 +12469,6 @@ Now set x1 5 0 and t 5 1.00 s and solve for x2: 2x2 3 5 45.1 S x 2 5 67.7 m REMA
 QUESTION 8.7 Suppose that mass m1 hit the ground in less than 1.00 s. Would the answer for x2 be larger, smaller, or the same?
 
 EXERCISE 8.7 From the top of a building 75.0 m tall, a red ball of mass 1.00 kg is shot upward at 10.0 m/s. A blue ball of mass 3.00 kg is dropped at the same instant. Find (a) the initial velocity of the center of mass of the system and (b) the position of the system’s center of mass after 2.00 s.
-
-ANSWERS (a) 2.50 m/s (b) 60.4 m Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
 
 ## 8.3  torque and the two Conditions
 
@@ -13413,8 +12518,6 @@ PROBLEM  A woman of mass m 5 55.0 kg sits on the left end of a see- saw—a plan
 
 STRATEGY  In part (a), apply the second condition of equilibrium, ot 5 0, computing torques around the pivot point. The mass of the plank forming the seesaw is distributed evenly on either side of the pivot point, so the torque exerted by gravity on the plank, tplank, can be computed as if all the plank’s mass is concentrated at the pivot point. Then tplank is zero, as is the torque L n S M g S g S mplg S , Figure 8.15  (Example 8.8) The system consists of two people and a seesaw. Because the sum of the forces and the sum of the torques acting on the system are both zero, the system is said to be in equilibrium.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.3 | Torque and the Two Conditions for Equilibrium
 
 (Continued)
@@ -13452,10 +12555,6 @@ QUESTION 8.8  What happens if the woman now leans backwards?
 EXERCISE 8.8  Suppose a 30.0-kg child sits 1.50 m to the left of center on the same seesaw. A second child sits at the end on the opposite side, and the system is balanced. (a) Find the mass of the second child. (b) Find the normal force acting at the pivot point.
 
 ANSWERS  (a) 22.5 kg (b) 632 N EXAMPLE 8.9 A wEightED FoREARM GOAL  Apply the equilibrium conditions to the human body.
-
-PROBLEM  A 50.0-N (11-lb) bowling ball is held in a person’s hand with the forearm horizontal, as in Figure 8.16a. The biceps muscle is attached 0.030 0 m from the joint, and the ball is 0.350 m from the joint. Find the upward force F S exerted Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
 
 by the biceps on the forearm (the ulna) and the downward force R S exerted by the humerus on the forearm, acting at the joint. Neglect the weight of the forearm and slight deviation from the vertical of the biceps.
 
@@ -13505,11 +12604,7 @@ STRATEGY  Figure 8.17b is the force diagram for the ladder. The first condition 
 
 O 50 N P S d1 d2 O 50 N 50° 50° 10 m f S P S n S a b Figure 8.17  (Example 8.10) (a) A ladder leaning against a fric- tionless wall. (b) A force diagram of the ladder. (c) Lever arms for the force of gravity and P S.
 
-Apply the first condition of equilibrium to the ladder: (1) oFx 5 f 2 P 5 0 S f 5 P (2) oFy 5 n 2 50.0 N 5 0 S n 5 50.0 N Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.3 | Torque and the Two Conditions for Equilibrium
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 (Continued)
 
@@ -13557,10 +12652,6 @@ ANSWER  6.33 m Ry Rx T cos 53.0 T sin 53.0 R S T S a b 53.0 53.0
 
 (d) (Exercise 8.11)
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
-
 ## SOLUTION
 
 From Figure 8.18, the forces causing torques are the wall force R S, the gravity forces on the beam and the man, wB and wM, and the tension force T S. Apply the condition of rotational equilibrium (Step 3): o ti 5 tR 1 tB 1 tM 1 tT 5 0 Compute torques around the pin at O, so tR 5 0 (zero moment arm). The torque due to the beam’s weight acts at the beam’s center of gravity.
@@ -13587,11 +12678,7 @@ The system shown in Figure 8.19 consists of an object of mass m connected to a v
 
 Because there is no force to oppose this tangential force, the object undergoes a tangential acceleration at in accordance with Newton’s second law: Ft 5 mat Multiply both sides of this equation by r : Ftr 5 mrat O Ft S r S `S sS Figure 8.19  An object of mass m attached to a light rod of length r moves in a circular path on a fric- tionless horizontal surface while a tangential force F S t acts on it. The acceleration and torque vectors are perpendicular to both the radial and the force vectors.
 
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
 ## 8.4 | The Rotational Second Law of Motion
-
-Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Substituting the equation at 5 ra relating tangential and angular acceleration into the above expression gives
 
@@ -13622,10 +12709,6 @@ The moment of inertia has the SI units kg ? m2. Using this result in Equation 8.
 o t 5 Ia [8.13]
 
 b moment of inertia b  rotational analog of newton’s second law m3 m2 m1 r2 r3 r1 a b Figure 8.20  (a) A solid disk rotating about its axis. (b) The disk consists of many particles, all with the same angular acceleration.
-
-Copyright 2018 Cengage Learning. All Rights Reserved. May not be copied, scanned, or duplicated, in whole or in part.  WCN 02-200-203
-
-TOPIC 8 | Rotational Equilibrium and Dynamics Unless otherwise noted, all content on this page is © Cengage Learning.
 
 Equation 8.13 says that the angular acceleration of an extended rigid object is proportional to the net torque acting on it. This equation is the rotational ana- log of Newton’s second law of motion, with torque replacing force, moment of inertia replacing mass, and angular acceleration replacing linear acceleration.
 

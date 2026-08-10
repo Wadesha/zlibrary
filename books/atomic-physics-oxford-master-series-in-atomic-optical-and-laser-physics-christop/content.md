@@ -1,10 +1,5 @@
 # Atomic Physics Oxford Master Series in Atomic Optical and Laser Physics Christopher J Foot Z Library
 
-> 来源文件：pre_Atomic_Physics_Oxford_Master_Series_in_Atomic_Optical_and_Laser_Physics_Christopher_J_Foot_Z_Library.txt
-> 字符数（约）：229568
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Oxford Master Series is designed for final year undergraduate and beginning graduate students in physics and related disciplines. It has been driven by a perceived gap in the literature today. While basic undergraduate physics texts often show little or no connection with the huge explosion of research over the last two decades, more advanced and specialized texts tend to be rather daunting for students. In this series, all topics and their consequences are treated at a simple level, while pointers to recent developments are provided at various stages. The emphasis is on clear physical principles like symmetry, quantum mechanics, and electromagnetism which underlie the whole of physics. At the same time, the subjects are related to real measurements and to the experimental techniques and devices currently used by physicists in academe and industry. Books in this series are written as course books, and include ample tutorial material, examples, illustrations, revision points, and problem sets. They can likewise be used as preparation for students starting a doctorate in physics and related fields, or for recent graduates starting research in one of these fields in industry.
 
 Condensed Matter Physics
@@ -47,12 +42,6 @@ Atomic Physics C. J. Foot Department of Physics University of Oxford Great Clare
 
 Oxford University Press is a department of the University of Oxford. It furthers the University’s objective of excellence in research, scholarship, and education by publishing worldwide in Oxford New York Auckland Cape Town Dar es Salaam Hong Kong Karachi Kuala Lumpur Madrid Melbourne Mexico City Nairobi New Delhi Shanghai Taipei Toronto With offices in Argentina Austria Brazil Chile Czech Republic France Greece Guatemala Hungary Italy Japan South Korea Poland Portugal Singapore Switzerland Thailand Turkey Ukraine Vietnam
 
-Oxford is a registered trade mark of Oxford University Press in the UK and in certain other countries Published in the United States by Oxford University Press Inc., New York © Oxford University Press 2005 The moral rights of the author have been asserted Database right Oxford University Press (maker)
-
-First published 2005 Reprinted 2005 You must not circulate this book in any other binding or cover and you must impose this same condition on any acquirer A catalogue record for this title is available from the British Library Library of Congress Cataloging in Publication Data (Data available)
-
-ISBN-10: 0 19 850695 3 (Hbk) Ean code 978 0 19 850695 9 ISBN-10: 0 19 850696 1 (Pbk) Ean code 978 0 19 850696 6 10 9 8 7 6 5 4 3 2 Typeset by Julie M. Harris using LATEX Printed in Great Britain on acid-free paper by Antony Rowe, Chippenham
-
 Preface This book is primarily intended to accompany an undergraduate course in atomic physics. It covers the core material and a selection of more advanced topics that illustrate current research in this field. The first six chapters describe the basic principles of atomic structure, starting in Chapter 1 with a review of the classical ideas. Inevitably the discussion of the structure of hydrogen and helium in these early chapters has considerable overlap with introductory quantum mechanics courses, but an understanding of these simple systems provides the basis for the treatment of more complex atoms in later chapters. Chapter 7 on the interaction of radiation with atoms marks the transition between the earlier chapters on structure and the second half of the book which covers laser spectroscopy, laser cooling, Bose–Einstein condensation of dilute atomic vapours, matter-wave interferometry and ion trapping. The exciting new developments in laser cooling and trapping of atoms and Bose–Einstein condensation led to Nobel prizes in 1997 and 2001, respectively. Some of the other selected topics show the incredible precision that has been achieved by measurements in atomic physics experiments. This theme is taken up in the final chapter that looks at quantum information processing from an atomic physics perspective; the techniques developed for precision measurements on atoms and ions give exquisite control over these quantum systems and enable elegant new ideas from quantum computation to be implemented.
 
 The book assumes a knowledge of quantum mechanics equivalent to an introductory university course, e.g. the solution of the Schrödinger equation in three dimensions and perturbation theory. This initial knowledge will be reinforced by many examples in this book; topics generally regarded as difficult at the undergraduate level are explained in some detail, e.g. degenerate perturbation theory. The hierarchical structure of atoms is well described by perturbation theory since the different layers of structure within atoms have considerably different energies associated with them, and this is reflected in the names of the gross, fine and hyperfine structures. In the early chapters of this book, atomic physics may appear to be simply applied quantum mechanics, i.e. we write down the Hamiltonian for a given interaction and solve the Schrödinger equation with suitable approximations. I hope that the study of the more advanced material in the later chapters will lead to a more mature and deeper understanding of atomic physics. Throughout this book the experimental basis of atomic physics is emphasised and it is hoped that the reader will gain some factual knowledge of atomic spectra.
@@ -70,8 +59,6 @@ From The physical principles of the quantum theory, Werner Heisenberg (1930).
 The point of the excerpt is that quantum mechanics is essential for a proper description of atomic physics and there are many quantum mechanics textbooks that would serve as useful background reading for this book. The following short list includes those that the author found particularly relevant: Mandl (1992), Rae (1992) and Griffiths (1995). The book Atomic spectra by Softley (1994) provides a concise introduction to this field. The books Cohen-Tannoudji et al. (1977), Atkins (1983) and Basdevant and Dalibard (2000) are very useful for reference and contain many detailed examples of atomic physics. Angular-momentum theory is very important for dealing with complicated atomic structures, but it is beyond the intended level of this book. The classic book by Dirac (1981) still provides a very readable account of the addition of angular momenta in quantum mechanics. A more advanced treatment of atomic structure can be found in Condon and Odabasi (1980), Cowan (1981) and Sobelman (1996).
 
 Oxford C.J.F.
-
-Web site: http://www.physics.ox.ac.uk/users/foot This site has answers to some of the exercises, corrections and other supplementary information.
 
 Early atomic physics
 
@@ -416,8 +403,6 @@ Comment. We have found eqn 1.8 from the correspondence principle without conside
 (b) Calculate the frequency of the transition between the n′ = 51 and n = 50 shells of a neutral atom.
 
 (c) What is the size of an atom in these Rydberg states? Express your answer both in atomic units and in metres.
-
-Web site: http://www.physics.ox.ac.uk/users/foot This site has answers to some of the exercises, corrections and other supplementary information.
 
 The hydrogen atom
 

@@ -1,19 +1,8 @@
 # Glencoe Science Motion Forces and Energy Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Glencoe_Science_Motion_Forces_and_Energy_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：489479
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Gunter Marx Photography/CORBIS
 
 Motion, Forces, and Energy This kayaker battles the rapids on the Thompson River in British Columbia, Canada. A kayaker takes advantage of Newton’s third law. The paddle exerts a force on the water and the water exerts an equal, but opposite, force on the kayaker.
-
-Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus,OH 43240-4027 ISBN:0-07-861770-7 Printed in the United States of America.
-
-2 3 4 5 6 7 8 9 10  027/111  09 08 07 06 05 04 the United States Copyright Act,no part of this publication may be reproduced or distributed in any form or by any means,or stored in a database or retrieval system,without prior written permission of the publisher.
-
-The National Geographic features were designed and developed by the National Geographic Society’s Education Division.Copyright © National Geographic Society.The name “National Geographic Society” and the Yellow Border Rectangle are trademarks of the Society,and their use,without prior written permission,is strictly prohibited.
 
 The “Science and Society”and the “Science and History”features that appear in this book were designed and developed by TIME School Publishing,a division of TIME Magazine.TIME and the red Gunter Marx Photography/CORBIS
 

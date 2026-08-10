@@ -1,10 +1,5 @@
 # Mind of the Raven Investigations and Adventures with Wolf Birds Bernd Heinrich Z Library
 
-> 来源文件：pre_Mind_of_the_Raven_Investigations_and_Adventures_with_Wolf_Birds_Bernd_Heinrich_Z_Library.txt
-> 字符数（约）：708457
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Mind of the Raven INVESTIGATIONS AND ADVENTURES WITH WOLF-BIRDS Bernd Heinrich
 
 To Raven characters I have known, especially to Matt, Munster, Goliath, Whitefeather, Fuzz, Houdi, and Hook
@@ -82,8 +77,6 @@ Searchable Terms
 About the Author
 
 Other Books by Bernd Heinrich
-
-Copyright
 
 About the Publisher
 

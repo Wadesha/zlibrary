@@ -5,6 +5,6 @@
   "pipeline": "ocr_md",
   "source_file": "[OCR]Atom-Photon Interactions_fixed.md",
   "source_pdf": null,
-  "chars": 597445,
+  "chars": 597373,
   "has_fixed": true
 }

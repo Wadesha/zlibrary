@@ -1,10 +1,5 @@
 # Business and Personal Finance Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Business_and_Personal_Finance_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：1732477
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 interactive student edition
 
 Jack R. Kapoor Professor of Business and Economics Business and Services Division College of DuPage Glen Ellyn, Illinois Les R. Dlabay Professor of Business Department of Economics and Business Lake Forest College Lake Forest, Illinois Robert J. Hughes Professor of Business Dallas County Community Colleges Dallas, Texas William B. Hoyt Contributing Editor Wilton High School Wilton, Connecticut
@@ -12,16 +7,6 @@ Jack R. Kapoor Professor of Business and Economics Business and Services Divisio
 NOTICE: Information on featured companies, organizations, and their products and services is included for educational purposes only, and it does not present or imply endorsement of the Business and Personal Finance program.
 
 no part of this publication may be reproduced or distributed in any form or by any means, or stored in a database or retrieval system, without prior written permission of the publisher.
-
-Printed in the United States of America.
-
-Send all inquiries to: Glencoe/McGraw-Hill 21600 Oxnard Street, Suite 500 Woodland Hills, California 91367-4906 ISBN-13: 978-0-07-868712-9 (Student Text)
-
-ISBN-10: 0-07-868712-8 (Student Text)
-
-ISBN-13: 978-0-07-869846-0 (Teacher Annotated Edition)
-
-ISBN-10: 0-07-869846-4 (Teacher Annotated Edition)
 
 2 3 4 5 6 7 8 9  027  09 08 07 06 05 About the Authors Jack R. Kapoor Jack R. Kapoor is professor of business and economics in the Business and Services Division at College of DuPage, where he has taught since 1969. He received his Bachelor of Arts in Business Administration and Master of Science in International Business from San Francisco State College. He received his Doctor of Education from Northern Illinois University. Dr. Kapoor was awarded the Business and Services Division’s Outstanding Professor Award for l999–2000.
 
@@ -4009,12 +3994,6 @@ Reports issued by the media and independent testing organizations on the quality
 
 Web sites for companies, magazines, newspapers, and government agencies have product information and shopping suggestions.
 
-© 2005 Amazon.com, Inc.
-
-All Rights Reserved.
-
-Unit 1      Planning Personal Finances &ACT OR &ICTION 4HERE ARE SOME TYPICAL MYTHS THAT CONSUMERS BELIEVE ABOUT SALES  RETURNS  AND CREDIT (OW DO SUCH MYTHS AFFECT YOU AS A CONSUMER #OMMON #ONSUMER -YTHS &IGURE  3OURCE h4EN 4OP #ONSUMER ,AW @5RBAN -YTHS v .ATIONAL !SSOCIATION OF #ONSUMER !GENCY !DMINISTRATORS  4WO "RENTWOOD #OMMONS  3UITE    /LD (ICKORY "LVD  4.  	   OR  3!9 .!#!! 7EB SITE WWWNACAANET 4HE .ATIONAL !SSOCIATION OF #ONSUMER !GENCY !DMINISTRATORS RECENTLY IDENTIFIED A LIST OF COMMON CONSUMER MYTHS 4HESE INCLUDE h) CAN RETURN MY CAR WITHIN THREE DAYS OF PURCHASEv 7HILE MANY PEOPLE WOULD SAY THAT THIS STATEMENT IS TRUE  THERE IS NO SUCH TIME PERIOD h)T SAYS RIGHT HERE THAT )VE WON IT MUST BE TRUEv &AKE PRIZE NOTIFICATIONS CONTINUE TO BECOME MORE CONVINCING 3OME CONSUMERS ACTUALLY GO TO COMPANY OFFICES TO TRY TO PICK UP THEIR PRIZES h)F ) LOSE MY CREDIT CARDS  )M LIABLE FOR PURCHASESv &EDERAL LAWS LIMIT CHARGES ON LOST OR STOLEN CARDS TO  -OST MAJOR CREDIT CARD COMPANIES WILL NOT EVEN CHARGE YOU THE  IF YOU MAKE A REASONABLE EFFORT TO NOTIFY THE COMPANY QUICKLY OF LOST OR STOLEN CARDS h!N AUTO LEASE IS JUST LIKE A RENTAL IF ) HAVE PROBLEMS WITH THE CAR OR PROBLEMS PAYING  ) CAN JUST BRING IT BACKv -OST LEASES REQUIRE PAYMENTS FOR THE DURATION OF THE CONTRACT %ARLY TERMINATION OF THE CONTRACT CAN OFTEN RESULT IN VARIOUS ADDITIONAL CHARGES h9OU CANT REPOSSESS MY CAR ITS ON PRIVATE PROPERTYv 7HILE STATE LAWS VARY  THE GENERAL RULE IS THAT REPOSSESSION CANNOT OCCUR IF IT INVOLVES FORCE OR ENTRY INTO A DWELLING (OWEVER  VEHICLES IN DRIVEWAYS AND UNLOCKED GARAGES ARE USUALLY FAIR GAME
-
 ## Chapter 4      Consumer Purchasing and Protection
 
 Shopping for Clothes
@@ -4242,8 +4221,6 @@ This is our exclusive written warranty.
 Notes: 1. There may be variation in color fidelity between catalog images and actual plumbing fixtures.
 
 2. Free Flow reserves the right to make changes in product characteristics, packaging, or availability at any time without notice.
-
-Copyright © 2006.
 
 ## Chapter 4      Consumer Purchasing and Protection
 
@@ -11261,7 +11238,7 @@ LOSS FACTOR SEE 2)3+	 FROM PRETAX TOTAL RETURN #ATEGORY RATINGS ARE BASED ON R
 
 RETURNS OF THE FUNDS IN THAT CATEGORY 4HE RATINGS &5.$39-"/,                                           /6%2!,, 2!4).'                                                  #/-0!2%3 2)3+ !$*534%$ 0%2&/2-!.#%                                                            /& %!#( &5.$ !'!).34 !,, &5.$3	 !". !-2/ -)$ #!0 . #(448 "
 
-!". !-2/ 2%!, %34!4% . !2&#8 !
+!". !-2/ 2%!, %34!4% . !2 !
 
 !"! &)6% 34!2 ,!2'% #!0 ).34)454)/.!, !&"%8 # !&"! &)6% 34!2 53! ',/"!, ).34)454)/.!, !&',8 # !)- %.%2'9 ).6 &34%8 !	 !
 

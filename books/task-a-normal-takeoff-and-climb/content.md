@@ -1,10 +1,5 @@
 # task a normal takeoff and climb
 
-> 来源文件：pre_task_a_normal_takeoff_and_climb.txt
-> 字符数（约）：14587
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Normal Takeoff and Climb
 
 Objective To ensure the applicant learns the purpose of and can exhibit a clear understanding of normal takeoff and climb maneuver and how to perform the maneuver properly.
@@ -32,8 +27,6 @@ Instructor Actions ● Deliver the ground lesson (below).
 Completion Standards ● Ground: Student can explain the purpose of the maneuver and how to execute it properly. Can explain crabbing, sideslips, crosswind technique, Vx and Vy.
 
 ● Flight: Student can perform the maneuver to the applicable ACS standards. Configures airplane for takeoff, performs pre-takeoff checklist, and verifies takeoff runway. Makes appropriate crosswind corrections and rotates at Vr. Pitches for and maintains a climb at Vy (+10/-5 knots Private Pilot, +/-5 knots Commercial). See expanded Completion Standards below.
-
-References ● ERAU Special VFR - “Normal and Crosswind Takeoff and Climb” ○ YouTube - https://www.youtube.com/watch?v=l5ZxnVu-A1E ● FAA-H-8083-3C (Airplane Flying Handbook) - Chapter 6, Page 1-2 [Prior to Takeoff], Chapter 6, Page 3-6 [Normal Takeoff], Chapter 6, Page 6-10 [Crosswind Takeoff], Chapter 6, Page 14 [Rejected Takeoff/Engine Failure]
 
 ● FAA-H-8083-25C (Pilot’s Handbook of Aeronautical Knowledge) - Chapter 5, Page 9-10 [Avoiding Wake Turbulence], Chapter 5, Page 30-33 [Left Turning Tendencies], Chapter 11, Page 12-16 [Takeoff Performance], Chapter 11, Page 19-28 [Performance Charts]
 

@@ -1,10 +1,10 @@
 {
   "slug": "基于课程标准的stem教学设计-有趣有料有效的stem跨学科培养教学方案-美-826全美-美-826全美",
-  "title": "基于课程标准的STEM教学设计_有趣有料有效的STEM跨学科培养教学方案_美_826全美_美_826全美",
+  "title": "基于课程标准的STEM教学设计：有趣有料有效的STEM跨学科培养教学方案 （美）826全美 （美）826全美",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]基于课程标准的STEM教学设计_有趣有料有效的STEM跨学科培养教学方案_美_826全美_美_826全美_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "基于课程标准的STEM教学设计：有趣有料有效的STEM跨学科培养教学方案 (（美）826全美 [（美）826全美]) (Z-Library).md",
   "source_pdf": null,
-  "chars": 152994,
+  "chars": 172808,
   "has_fixed": false
 }

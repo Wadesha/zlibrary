@@ -1,10 +1,5 @@
 # Survival Guide The Book All Survivalist and Preppers Need Fredrick M Woods Z Library
 
-> 来源文件：pre_Survival_Guide_The_Book_All_Survivalist_and_Preppers_Need_Fredrick_M_Woods_Z_Library.txt
-> 字符数（约）：99689
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Survival Guide: The Book All Survivalist and Preppers Need (3 in 1)
 
 Book 1

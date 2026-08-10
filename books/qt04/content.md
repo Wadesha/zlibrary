@@ -1,10 +1,5 @@
 # qt04
 
-> 来源文件：pre_qt04.txt
-> 字符数（约）：20812
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ## Chapter
 
 Orbital angular momentum and the hydrogen atom

@@ -1,10 +1,5 @@
 # DK 完全的狗品种图鉴（DK Complete Dog Breed Book）
 
-> 来源文件：pre_DK_Complete_Dog_Breed_Book_DK_Publishing_Z_Library.txt
-> 字符数（约）：544662
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 本书特约编辑：金·丹尼斯-布莱恩博士（Dr. Kim Dennis-Bryan）｜特约摄影：特雷西·摩根（Tracy Morgan）
 
 ## 目录
@@ -19,11 +14,7 @@
 
 出版总监 Liz Wheeler｜艺术总监 Karen Self｜出版总监 Jonathan Metcalf｜特约编辑 Kim Dennis-Bryan｜撰稿人 Ann Baggaley, Adam Beral, Candida Frith-Macdonald, James Harrison｜高级编辑 Arani Sinha｜助理编辑 Ankita Gupta｜美术编辑 Anukriti Arora｜管理编辑 Soma B. Chowdhury｜高级管理美术编辑 Arunesh Talapatra｜助理图片研究员 Geetika Bhandari｜图片研究经理 Taiyaba Khatoon｜高级排版设计 Vishal Bhatia, Jagtar Singh｜制作经理 Pankaj Sharma｜前期制作经理 Balwant Singh｜高级封面设计师 Suhita Dharamjit
 
-本版于 2020 年出版，初版于 2012 年由英国伦敦多林金德斯利有限公司（Dorling Kindersley Limited, 80 Strand, London, WC2R 0RL）出版。版权 © 2012, 2020 Dorling Kindersley Limited，企鹅兰登书屋旗下公司。印次编号 10 9 8 7 6 5 4 3 2 1，001–316671–Feb/2020。未经版权所有者事先书面许可，不得以任何形式或任何方式（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 英国图书馆已收录本出版物 CIP 编目记录。
-
-ISBN：978-0-2414-1273-2｜香港印刷｜第二版｜DK 英国｜DK 印度｜"观念的世界：尽知尽见" www.dk.com
 
 原始犬｜工作犬｜斯皮茨型犬｜视觉猎犬｜嗅觉猎犬｜梗犬｜枪猎犬｜伴侣犬｜杂交犬
 
@@ -10692,4 +10683,3 @@ NHPA / Photoshot：Biosphoto / J.-L. Klein & M（br）。124 Getty Images：（c
 136 Getty Images：Jupiterimages（c）。148 Alamy Images：imagebroker（t）。149 Alamy Stock Photo：Ricant Images（br）。Dreamstime.com：Elisa Bistocchi（bl）。172 Animal Photography：Eva-Maria Kramer（b）。Photoshot：NHPA（t）。173 Animal Photography：Eva-Maria Kramer（tr, cl）。175 Animal Photography：Sally Anne Thompson（tr, cl）。186 Alamy Images：Juniors Bildarchiv（c）。194 Alamy Stock Photo：Iuliia Mashkova（cla）。Shutterstock：yykkaa（tr）。215 Getty Images：Mark Raycroft（br）。
 
 220 Getty Images：David Tipling（c）。224 Pamela O. Kadlec：（t）。247 SuperStock：Jean-Michel Labat / Pantheon（bc）。260 Alamy Images：RJT Photography（c）。263 Alamy Images：Farlap（tr）。280 123RF.com：Erik Lam（tr）。Alamy Stock Photo：Erik Lam Boats（cla）。282 Getty Images：Steve Dueck（c）。285 Dreamstime.com：Ian Mcglasham（bl, br）。287 Alamy Stock Photo：Bill Bachman（br）。Warren Photographic Limited：（clb）。292-293 Corbis：Ben Welsh / Design Pics 其他所有图片 © Dorling Kindersley 更多信息见：www.dkimages.com 致谢（续）
-

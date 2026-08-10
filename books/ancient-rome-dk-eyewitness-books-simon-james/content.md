@@ -17,15 +17,11 @@ Eyewitness 古罗马 作者：DR. SIMON JAMES DK 出版社 网纹玻璃描绘的
 
 伦敦、纽约、墨尔本、慕尼黑、德里 项目编辑 Susan McKeever 高级美术编辑 Julia Harris 执行编辑 Sophie Mitchell 特约摄影 Christi Graham 及大英博物馆的 Nick Nicholls 和 Karl Shone 本版编辑 Lorrie Mack、Sue Nicholson、Victoria Heywood-Dunne、Marianne Petrou 美术编辑 Rebecca Johns、David Ball 执行主编 Andrew Macintyre、Camilla Hallinan 美术主编 Jane Thomas、Martin Wilson 出版经理 Sunita Gahir 制作编辑 Siu Ho、Andy Hilliard 制作统筹 Jenny Jacoby、Pip Tinsley DK 图片库 Rose Horridge、Myriam Megharbi、Emma Shepherd 图片研究 Jo Haddon 美国编辑 Beth Hester、Beth Sutinis 美国设计与排版 Dirk Kaufman、Milos Orlovic 美国制作 Chris Avgherinos 本 Eyewitness® 指南由 Dorling Kindersley Limited 与 Editions Gallimard 共同构思
 
-本版于 2004 年、2008 年在美国由 DK 出版社出版，地址：纽约州纽约市哈得逊街 375 号，邮编 10014 版权所有 © 1990、© 2004、© 2008 Dorling Kindersley Limited
-
 08 09 10 11 12 10 9 8 7 6 5 4 3 2 1 ED629 – 01/08 未经版权所有者事先书面许可，不得对本出版物的任何部分进行复制、存入检索系统，或以任何形式或任何方式（电子、机械、影印、录音或其他方式）进行传播。
 
 由英国 Dorling Kindersley Limited 出版。
 
 本书的编目记录可向美国国会图书馆索取。
-
-ISBN 978-0-7566-3766-8（精装） 978-0-7566-0650-3（图书馆装订版）
 
 彩色制版：新加坡 Colourscan 印刷与装订：中国 Leo Paper Products Ltd 欲了解更多，请访问 浴场用青铜梳洗套装 献祭用的青铜野猪 青铜家神（拉尔）
 
@@ -1342,4 +1338,3 @@ All other images © Dorling Kindersley.
 在 www.dk.com 探索更多。4H4F8C=4BB 1>>:B 亲眼见证古罗马的非凡故事——从它庞大的帝国与惊人的工程壮举，到罗马晚宴的菜单，以及冷酷无情的角斗士搏斗。
 
 古罗马 西蒙·詹姆斯 观看军团士兵的剑与匕首 探索可折叠挂图与剪贴画光盘 $15.99 美国 $18.99 加拿大 了解罗马浴场为何如此受欢迎 探知“海战”如何在斗兽场中上演 中国印刷
-

@@ -1,10 +1,10 @@
 {
   "slug": "腹地的构建-华北内地的国家-社会和经济-1853-1937-彭慕兰",
-  "title": "腹地的构建_华北内地的国家_社会和经济_1853_1937_彭慕兰",
+  "title": "腹地的构建——华北内地的国家、社会和经济（1853—1937） 彭慕兰",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]腹地的构建_华北内地的国家_社会和经济_1853_1937_彭慕兰_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "腹地的构建——华北内地的国家、社会和经济（1853—1937） (彭慕兰) (Z-Library).md",
   "source_pdf": null,
-  "chars": 261208,
+  "chars": 290896,
   "has_fixed": false
 }

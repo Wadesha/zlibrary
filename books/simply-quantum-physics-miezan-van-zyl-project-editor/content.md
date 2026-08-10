@@ -1,21 +1,8 @@
 # Simply Quantum Physics Miezan van Zyl Project Editor Z Library
 
-> 来源文件：pre_Simply_Quantum_Physics_Miezan_van_Zyl_Project_Editor_Z_Library.txt
-> 字符数（约）：126831
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 QUANTUM PHYSICS S I M P L Y
 
-This book was made with Forest Stewardship Council ™ certified paper—one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge DK LONDON Project Editor Miezan van Zyl US Editor Karyn Gerhard Art Editor Mik Gates Designer Clare Joyce Managing Editor Angeles Gavira Managing Art Editor Michael Duffy Production Editor Gillian Reid Senior Production Controller Meskerem Berhane Jacket Design Development Manager Sophia M.T.T.
-
-Jacket Designer Akiko Kato Associate Publishing Director Liz Wheeler Art Director Karen Self Publishing Director Jonathan Metcalf First American Edition, 2021 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2021 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 21 22 23 24 25 10 9 8 7 6 5 4 3 2 1 001–322079–Feb/2021 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7440-2848-5 Printed and bound in China For the curious www.dk.com THE QUANTUM WORLD
 
 VANISHINGLY SMALL
 

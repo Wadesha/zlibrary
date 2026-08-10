@@ -1,10 +1,10 @@
 {
   "slug": "双光子激光的半经典理论1983-01-0036",
-  "title": "双光子激光的半经典理论1983_01_0036",
-  "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]双光子激光的半经典理论1983_01_0036.md",
+  "title": "双光子激光的半经典理论1983-01-0036",
+  "language": "en",
+  "pipeline": "ocr_md",
+  "source_file": "双光子激光的半经典理论1983-01-0036.md",
   "source_pdf": "双光子激光的半经典理论1983-01-0036.pdf",
-  "chars": 5569,
+  "chars": 4426,
   "has_fixed": false
 }

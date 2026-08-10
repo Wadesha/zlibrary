@@ -1,23 +1,12 @@
 # Chinese Bridges Living Architecture from China s Past Ronald G Knapp A Chester Ong photo Z Library
 
-> 来源文件：pre_Chinese_Bridges_Living_Architecture_from_China_s_Past_Ronald_G_Knapp_A_Chester_Ong_photo_Z_Library.txt
-> 字符数（约）：428476
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Chinese Bridges Living Architecture From China’s Past Ronald G. Knapp Photography by A. Chester Ong Foreword by Peter Bol T U T T L E  P U B L I S H I N G Tokyo • Rutland,Vermont • Singapore
 
 Published by Tuttle Publishing, an imprint of Periplus Editions (HK) Ltd, with editorial ofﬁces at 61 Tai Seng Avenue #02-12, Singapore 534167.
 
-Text © 2008 Ronald G. Knapp Photographs © 2008 A. Chester Ong and Periplus Editions (HK) Ltd.
-
 may be reproduced or utilized in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without prior written permission from the publisher.
 
 Library of Congress Control Number 2008923152 Distributed by: North America,Latin America & Europe Tuttle Publishing 364 Innovation Drive, North Clarendon,VT 05759-9436 U.S.A.
-
-Tel: 1 (802) 773-8930; Fax: 1 (802) 773-6993 info@tuttlepublishing.com www.tuttlepublishing.com Asia Paciﬁc Berkeley Books Pte Ltd 61 Tai Seng Avenue #02-12, Singapore 534167.
-
-Tel: (65) 6280 1330; Fax: (65) 6280 6290 inquiries@periplus.com.sg www.periplus.com Printed in Singapore 11  10  09  08 6  5  4  3  2  1 TUTTLE PUBLISHING® is a registered trademark of Tuttle Publishing, a division of Periplus Editions (HK) Ltd.
 
 Page 1: The Yudai (Jade Belt) Bridge,a steep single-arch humpbacked bridge built in 1750,is one of six spans along the western causeway in the Yihe Yuan or Summer Palace,Beijing.
 
@@ -26,8 +15,6 @@ Page 2: Constructed in the thirteenth century during the Yuan dynasty in what is
 Pages 4–5: Masked by a modern arched bridge in the craggy Cangyan Mountains of western Hebei province is the Qiaolou Hall,a temple perched on the span- ning Jingxing Bridge.
 
 Page 6: In the rugged mountains of northwestern Fujian province,covered bridges such as the 42.5-meter- long Yangmeizhou Bridge in Shouning county, have been important links in regional trade since at least the eighteenth century.
-
-ISBN: 978-1-4629-0586-7 (ebook)
 
 CONTENTS Jiemei Bridges Anxian, Sichuan Anlan Suspension Bridge Dujiangyan, Guanxian, and Sichuan Bridges in the Lower Yangzi  Watertowns Jiangsu, Shanghai, and Zhejiang Suzhou and Hangzhou Garden Bridges Jiangsu and Zhejiang Wuting Bridge Yangzhou, Jiangsu Baodai Bridge Suzhou, Jiangsu Huizhou Covered Bridges Anhui and Jiangxi Caihong Bridge Wuyuan, Jiangxi Bei’an Bridge Shexian, Anhui Megalithic Stone Beam Bridges Quanzhou, Fujian Covered Wooden Bridges Southern Zhejiang and Northern Fujian Dong “Wind-and-Rain” Bridges Sanjiang, Guangxi Bibliography Index Acknowledgments Foreword by Peter Bol Part One CHINA’S ANCIENT BRIDGE BUILDING TRADITIONS Part Two CHINESE BRIDGES AS LIVING ARCHITECTURE Part Three CHINA’S FINE HERITAGE BRIDGES Bridges of the Forbidden City Beijing Sea Palace Bridges Beijing “Garden of Gardens” Bridges Beijing Lugou Bridge Wanping, Beijing Zhaozhou Bridge Zhaoxian, Hebei Dulin Bridge and Shan Bridge Cangzhou, Hebei Jingxing Bridge Cangyan Mountains, Hebei Baling Bridge Weiyuan, Gansu Hongjun Bridge Qinglinkou, Sichuan
 
@@ -45,8 +32,6 @@ It ought to be obvious that aesthetic goals ﬁgured centrally in the constructi
 
 Many of the bridges depicted in this volume will be preserved, restored today as a memory of the past rather than for their practical utility. But many that are not here will be lost. This volume should inspire us, as we travel through China, to look for bridges, to photograph them, to draw attention to them, and perhaps to help preserve them.
 
-Peter Bol Harvard University Left: While imperial palaces appear to dominate this portrayal of the ﬁrst Portuguese ambas- sador presenting credentials in Beijing in the sixteenth century,the painting also highlights the bridges along the Outer and Inner Golden Streams of the Forbidden City.© The Trustees of the British Museum.
-
 CHINA’S ANCIENT BRIDGE BUILDING TRADITIONS Part One
 
 Architecture Over Water Unlike palaces and temples—even houses—that are noticeable because of their façades and proﬁles, bridges, on the other hand, are frequently overlooked as architectural artifacts. Born of necessity to span streams, valleys, and gorges, bridges are literally under- foot and often inconspicuous. Yet, while sometimes merely utilitarian and unnoticed, many of China’s bridges are indeed dramatic, even majestic and daring architectural structures that epitomize the reﬁned use of materials to span space. Joseph Needham, the great scholar of Chinese science and technology, asserted that China’s bridges combine “the rational with the romantic,” the workaday with the ethereal (1971: 4(3)
@@ -56,8 +41,6 @@ Architecture Over Water Unlike palaces and temples—even houses—that are noti
 Bridge building in China undeniably is much more than a mere footnote in the chronicle of China’s con- tributions to world architecture and engineering.
 
 Bridges sometimes are accidental conﬁgura- tions—a mere log or bamboo thrown over a channel as well as stones deposited by ﬂood across the breadth of a stream—but more often they represent purpose- ful efforts to tease strength from materials in order to overcome a gap in space. Until recent centuries, bridge building anywhere in the world was a more practical and empirical art than engineering science.
-
-Primitive responses using common materials such as wood, stone, and rope of many types progressed over ARCHITECTURE OVER WATER Left: Travelers follow a narrow road along a winding moun- tain stream before crossing a common bridge in this Daoist-inspired landscape of piled mountains infused with mist. Qing dynasty. © Freer Gallery of Art, Smithsonian Institution,Washington, DC.
 
 Right: Slender logs held together by iron staples and laid across a shallow running stream serve here not only as a tem- porary bridge but also as a convenient place to wash vegetables. Sanjiang region, Guangxi Zhuang Autono- mous Region.
 
@@ -131,11 +114,7 @@ Qinshihuang, the ﬁrst emperor of Qin who uni- ﬁed China in 221 BCE and is no
 
 During the Han dynasty that followed the Qin, at least two more large beam-type bridges and numer- ous smaller ones were built in the region around the Above: This rubbing from a carved brick from the Eastern Han period (CE 25–220) shows a horse-drawn carriage pass- ing over a stone and slab wood bridge.
 
-Below: Just outside the imposing gate of the walled city, as depicted in Zhang Zeduan’s twelfth-century painting, Qingming shanghe tu, is a moat crossed by a broad bridge. Probably made of stone and wood beams, it clearly had sufﬁcient strength and width to accommodate throngs of animals, humans, and carts. © Palace Museum, Beijing.
-
 Architecture Over Water Above: Shrouded in a misty atmo- sphere, this landscape paint- ing titled Waters Rise in Spring by Shitao (1642–1707) fea- tures a common beam bridge using a trestle-like structure of slim poles and crosspieces.
-
-© Shanghai Museum.
 
 Right and far right: Constructed of modular sets of supporting legs, cross- pieces, and wooden planks, long trestle bridges of this type are common in the villages of southern Anhui and northern Jiangxi.
 
@@ -152,8 +131,6 @@ About a third of the 700-kilometer-long Linking Cloud Road, which forms a signi�
 Stone beam bridges—most short but many com- prising multiple spans—eventually became the most Above: Timber plank trestle bridges called zhandao have long been common in western Sichuan.Their construction involves sinking wooden sub- structures into nearly vertical cliffs in order to support the plank paths laid on them.
 
 Right: The sprawling painting titled Emperor Minghuang’s Journey to Shichuan, a Ming copy after an original by Qiu Ying (1494– 1552), details the ﬂight of Emperor Xuanzong and the imperial concubine Yang Guifei from Chang’an, today’s Xi’an, southward along the Shudao or “Road to Sichuan” in order to escape the An Lushan Rebellion of 755.
-
-© Freer Gallery of Art, Smith- sonian Institution,Washing- ton, DC.
 
 China’s Ancient Bridge Building Traditions common and permanent bridge form in southern China. Resting atop piers of piled carved stone placed parallel to the ﬂow of the stream, many stone beam bridges are quite simple, while many also are quite complex in that they are supported by massive pier structures built up within midstream cofferdams.
 
@@ -252,8 +229,6 @@ Above left: Activities along as well as in the water beneath an arch bridge cros
 Left: Carved on the surface of a baked brick,this image depicts a horse-drawn carriage and a porter with a carrying pole crossing an arch bridge,which is reinforced with vertical sup- ports beneath.
 
 Below left: This tableaux of county scenes in Huizhou,found today in a temple near the Bei’an Bridge in southern Anhui province, includes a steep single-arch bridge with a pavilion atop it.
-
-Right: Although the scholars drinking in the wooded countryside are the main theme of Shitao’s early eighteenth-century Drunk in Autumn Woods,this virtuosic painting incorporates elements that could be found in a small park or garden,in- cluding a ﬁne bridge,pavilions, and paths.© The Metropolitan Museum of Art,New York.
 
 Below: Shown in this painting by a European is a somewhat fan- ciful bridge with billowing ornamentation above it that was clearly built so that large vessels,shown in the fore- ground,could pass easily beneath its soaring arch.
 
@@ -392,8 +367,6 @@ of the bustling markets of Kaifeng, the Song impe- rial capital. In recent decad
 It is noteworthy that more than a hundred vari- ations of covered rainbow bridges have been recently “discovered.” But it is a strange fact that no uncov- ered bridge with an underlying timber frame, like that shown in Zhang Zeduan’s scroll, has ever been located and documented.
 
 Local people refer to the bridges that seem to rear up abruptly from their abutments and then soar dra- matically cross steep chasms as “centipede bridges” because of their resemblance to the arch-like rise of a long arthropod’s body as it crawls. From a distance, these bridges appear to be supported by a type of wooden arch, but in actual fact it is an illusionary “arch” that emerges from the interlinking of a series of logs—long tree trunks—that function as interwoven chords or segments of the “arch.” Chinese engineers refer to such a structure as a “woven timber arch,” “combined beam timber arch,” and “woven timber arch-beam” to underscore the use of straight timber members tied together. The basic components are quite simple: two pairs of two layered sets of inclined tim- bers, with one set embedded in opposite abutments, stretch upward toward the middle of the stream. To ﬁll the gap between these inclined timber sets, two horizontally trending assemblages of timbers are attached. Transverse timbers tenoned to them and/or tied with rattan or rope hold each of the sets of timbers together. It is these warp and weft elements that give rise to the term “woven.” The downward pressure of the heavy logs com- presses all the components together into a tight and relatively stable composition with a signiﬁcant bearing Bottom: No “rainbow bridge”is more famous than the one depicted in Zhang Zeduan’s twelfth- century celebrated Qingming shanghe tu scroll,a section of which portrays an interlocked arch of piled beams permitting even large vessels to pass be- neath its humpbacked opening.
-
-Along the surface of the bridge as well as in nearby lanes are busy markets.© Palace Muse- um, Beijing.
 
 Architecture Over Water capacity, the equilibrium can be upset if forces from beneath—such as might come from torrential ﬂoods or typhoon winds—push upward. To further stabilize the underlying structure, additional weight is added by constructing an often elaborate building atop the bridge. Somewhat counter intuitively, the heavy tim- ber columns, beams, balustrades, and roof tiles add a substantial dead load that actually increases stability.
 

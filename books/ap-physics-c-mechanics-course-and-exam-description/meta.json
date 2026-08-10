@@ -1,10 +1,10 @@
 {
   "slug": "ap-physics-c-mechanics-course-and-exam-description",
-  "title": "ap_physics_c_mechanics_course_and_exam_description",
+  "title": "ap-physics-c-mechanics-course-and-exam-description",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]ap_physics_c_mechanics_course_and_exam_description.md",
+  "pipeline": "ocr_md",
+  "source_file": "ap-physics-c-mechanics-course-and-exam-description.md",
   "source_pdf": "ap-physics-c-mechanics-course-and-exam-description.pdf",
-  "chars": 240858,
+  "chars": 243908,
   "has_fixed": false
 }

@@ -1,10 +1,5 @@
 # In Praise of Simple Physics The Science and Mathematics behind Everyday Questions Paul J Nahin Z Library
 
-> 来源文件：pre_In_Praise_of_Simple_Physics_The_Science_and_Mathematics_behind_Everyday_Questions_Paul_J_Nahin_Z_Library.txt
-> 字符数（约）：273768
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 In Praise of Simple Physics Paul J. Nahin
 
 Oliver Heaviside (1988, 2002)
@@ -39,21 +34,13 @@ Holy Sci-Fi! (2014)
 
 Inside Interesting Integrals (2015)
 
-Copyright © 2016 by Princeton University Press Published by Princeton University Press, 41 William Street, Princeton, New Jersey 08540 In the United Kingdom: Princeton University Press, 6 Oxford Street, Woodstock, Oxfordshire OX20 1TR press.princeton.edu
-
 Jacket illustration by Anne Karetnikov
-
-All Rights Reserved
-
-Figure 14.1 on page 116 is from Darkness at Night: A Riddle of the Universe by Edward Harrison, Copyright © 1987 by Edward Harrison; by permission from Harvard University Press.
 
 Library of Congress Cataloging-in-Publication Data Nahin, Paul J., author.
 
 In praise of simple physics: the science and mathematics behind everyday questions / Paul J. Nahin.
 
 pages cm Includes bibliographical references and index.
-
-ISBN 978-0-691-16693-3 (hardcover: alk. paper)— ISBN 0-691-16693-5 (hardcover: alk. paper)
 
 ## 1. Physics
 
@@ -62,8 +49,6 @@ ISBN 978-0-691-16693-3 (hardcover: alk. paper)— ISBN 0-691-16693-5 (hardcover:
 QC21.3.N342016 530—dc23 2015031463
 
 British Library Cataloging-in-Publication Data is available
-
-This book has been composed in ITC New Baskerville Printed on acid-free paper. ∞ Typeset by Nova Techset Pvt Ltd, Bangalore, India Printed in the United States of America 13579108642
 
 For Patricia Ann
 
@@ -144,8 +129,6 @@ I really hated to eliminate variable-mass systems, because I planned to include 
 One of the main goals I had in writing this book was to rebut a commonly held yet completely erroneous belief: “math is just a bunch of theorems, proofs, and boring multiplication tables” (to paraphrase one very wrong-headed assertion I once overheard), and so it can’t possibly result in new knowledge but only in tautologies—tautology is just a fancy way of saying “going in a circle.” For example, if after a long and laborious analysis, all your equations reduce to declaring that 1=1, well, that isn’t wrong, but it also isn’t new or even interesting! I think you’ll find that every one of the chapters in this book is anything but a tautology.¹⁴
 
 The first chapter is specifically designed to be a quick check for you to see whether you have the math you’ll need for this book (there’s a lot of background physics in there, too), and you should read that chapter next to see how you do. But the following is a simple, quick test of your math. What’s your reaction to the following, once seen on a bumper sticker at a high school sporting event: “We’re number 10^(log 100) / 2”? If you’re puzzled, well then ..., but if you laughed, then you are probably all set for the rest of this book.¹⁵
-
-Notes 1. Mark Zemansky (1900–1981) was an American physics professor at the City College of New York. He was coauthor of the original University Physics, a fantastically successful book first published in 1949 and now in its 13th edition, that countless college freshman from the 1950s to the present day think of fondly (or, in some cases, fearfully).
 
 2. The mathematical physicist Sir George Darwin (1845–1912) was the son of Charles Darwin of evolution fame and a professor of astronomy at the University of Cambridge.
 
@@ -356,8 +339,6 @@ Notes 1. Sydney Smith (1771–1845), an English cleric, was a witty commentator 
 3. I’ve written N! in factorial notation, where, if n is a positive integer, then n! = (n)(n−1)(n−2)...(3)(2)(1). For example, 4! = 24. Less obviously, if we notice n! = n(n−1)!, then we can conclude that 0! = 1. Do you see this? (Try n=1.)
 
 4. Named after the Scottish mathematician James Stirling (1692–1770) but actually discovered (in 1733) by the French-born English mathematician Abraham de Moivre (1667–1754). The number e is, of course, one of the most important in mathematics, with the value 2.7182818.... An asymptotic approximation has the property that while the approximation has an unbounded absolute error, its relative error approaches zero. That’s why we use the ∼ symbol and not an equals sign. That is, if E(n) is an asymptotic approximation for some function f(n), then lim n→∞ |E(n) − f(n)| = ∞, but lim n→∞ |E(n) − f(n)|/|f(n)| = 0. You may say this is more than just arithmetic but, really, you can just look it up in any good book of math formulas and tables.
-
-5. I won’t ruin the story for you by revealing where Brown goes with this premise, but if you’re wondering, you can find “Expedition’’ reprinted in Fantasia Mathematica (Clifton Fadiman, ed.), Simon and Schuster, 1958. I have long wondered if Brown’s story was perhaps inspired by the 1954 hit tune “Thirteen Women and Only One Man in Town,’’ by the great Bill Haley and the Comets (a fantasy about the lone male survivor of a nuclear war).
 
 6. This vector description of the ray path can be thought of as the position vector of an individual photon in the ray.
 

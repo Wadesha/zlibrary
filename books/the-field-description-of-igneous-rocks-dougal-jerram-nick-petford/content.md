@@ -1,25 +1,6 @@
 # The Field Description of Igneous Rocks Dougal Jerram Nick Petford Z Library
 
-> 来源文件：pre_The_Field_Description_of_Igneous_Rocks_Dougal_Jerram_Nick_Petford_Z_Library.txt
-> 字符数（约）：347761
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-The Field Description of Igneous Rocks The Field Description of Igneous Rocks SECONDEDITION Dougal Jerram DurhamUniversity Nick Petford UniversityofNorthampton A John Wiley & Sons, Ltd., Publication The Geological Field Guide Series Barnes,J.W.andLisle,R.J.(2004)BasicGeologicalMapping,4thedn.ISBN: 978-0-470-84986-6,5thednpublishing(2011).ISBN:978-0-470-68634-8 Fry,N.(1991)TheFieldDescriptionofMetamorphicRocks.
-
-ISBN:978-0-471-93221-5 McClay,K.R.(1991)TheMappingofGeologicalStructures.
-
-ISBN:978-0-471-93243-7 Milsom,J.andEriksen,A.(2010)FieldGeophysics,4thedn.
-
-ISBN:978-0-470-74984-5 Tucker,M.E.(2011)SedimentaryRocksintheField,4thedn.
-
-ISBN:978-0-470-68916-5 Thiseditionfirstpublished20112011byJohnWiley&Sons,Ltd.
-
 Wiley-BlackwellisanimprintofJohnWiley&Sons,formedbythemergerofWiley’sglobalScientific, TechnicalandMedicalbusinesswithBlackwellPublishing.
-
-Registeredoffice: JohnWiley&Sons,Ltd,TheAtrium,SouthernGate,Chichester,WestSussex, PO198SQ,UK EditorialOffices: 9600GarsingtonRoad,Oxford,OX42DQ,UK TheAtrium,SouthernGate,Chichester,WestSussex,PO198SQ,UK 111RiverStreet,Hoboken,NJ07030-5774,USA Fordetailsofourglobaleditorialoffices,forcustomerservicesandforinformationabouthowtoapplyfor permissiontoreusethecopyrightmaterialinthisbookpleaseseeourwebsiteatwww.wiley.com/ wiley-blackwell Therightoftheauthortobeidentifiedastheauthorofthisworkhasbeenassertedinaccordancewiththe UKCopyright,DesignsandPatentsAct1988.
-
-Allrightsreserved.Nopartofthispublicationmaybereproduced,storedinaretrievalsystem,or transmitted,inanyformorbyanymeans,electronic,mechanical,photocopying,recordingorotherwise, exceptaspermittedbytheUKCopyright,DesignsandPatentsAct1988,withoutthepriorpermissionof thepublisher.
 
 Designationsusedbycompaniestodistinguishtheirproductsareoftenclaimedastrademarks.Allbrand namesandproductnamesusedinthisbookaretradenames,servicemarks,trademarksorregistered trademarksoftheirrespectiveowners.Thepublisherisnotassociatedwithanyproductorvendor mentionedinthisbook.Thispublicationisdesignedtoprovideaccurateandauthoritativeinformationin regardtothesubjectmattercovered.Itissoldontheunderstandingthatthepublisherisnotengagedin renderingprofessionalservices.Ifprofessionaladviceorotherexpertassistanceisrequired,theservicesof acompetentprofessionalshouldbesought.
 
@@ -32,8 +13,6 @@ p.cm.–(Geologicalfieldguide)
 Rev.ed.of:Thefielddescriptionofigneousrocks/R.S.ThorpeandG.C.Brown.Milton.Keynes [Buckinghamshire]:OpenUniversityPress;NewYork:Halsted,1985.
 
 Includesindex.
-
-ISBN978-0-470-02236-8(pbk.)
 
 ## 1. Igneousrocks–Identification.2. Geology–Fieldwork. I.Petford,N.(Nick)II.Title
 
@@ -206,8 +185,6 @@ DougalJerramandNickPetford April2010
 ## PREFACE
 
 MeettheAuthors DougaliscurrentlyattheDepart- ment of Earth Sciences, Durham University where he is involved in research and teaching, partic- ularly of field geology. His main expertise is in rock microstruc- tureandtexturalanalysis,2D–3D modelling of rock textures and volcanicbasins,volcanology,sed- imentology and field geology. In recognitionofhisearlysignificant contribution to Earth Sciences he wasawardedtheMurchison Fund oftheGeologicalSocietyin2006.
-
-Recently Dougal has developed a DougalJerram keeneyeforscienceoutreach,and hasappearedonnationalandinter- national TV (BBC, Discovery, National Geographic, History Channel, Chan- nel4)promotingaspectsoftheEarth,andhasdevelopedapopularwebpresence throughwww.dougalearth.com.
 
 Nickhaspublishedextensivelyon both field and theoretical aspects of igneous geology. After com- pletingaPhDonAndeanmagma- tismandgeochemistryheswitched to work more on the physical mechanisms governing the ascent andemplacementofgraniticmag- mas and magma rheology. Other researchthemesinclude meltseg- regationinmeteorites,thegeotech- nical properties of volcanic rocks NickPetford andvolcanotourismandeconomic regeneration. Nick began his research career as a Royal Society University Research Fellow and has worked at the Universities of Liverpool, Cambridge, KingstonandBournemouth.HewasawardedtheMurchisonFundoftheGeolog- icalSocietyin1999andhasheldvisitingprofessorialappointmentsinEurope, USA and Australia. Like Dougal he makes the occasional TV appearance. In 2010hewasappointedViceChancelloroftheUniversityofNorthampton.
 
@@ -420,8 +397,6 @@ Itshouldbenotedthatagoodigneousfieldgeologistshouldalsobeagoodfield geologisting
 Inthissectionwefocusonsomekeybasicfieldworkskillswhichcanbeapplied tocharacteriseigneousrockoutcrops.
 
 ## 2.1 Equipment
-
-When embarking on fieldwork studies the key to the correct equipment is to be prepared. As with any outdoor activity there is a likelihood of significant weather variation so a variety of clothing/footwear appropriate for the terrain andenvironmentisrequired.Takenoteofthegeologicalfieldworkcodewhich contains detailed information about field safety, sampling and general rules in the outdoors (see the Geologists’ Association http://www.geologists.org.uk/ downloads/GAfieldworkcode.pdf; also refer to Basic Geological mapping by Barnes&Lilse, from this geological field guide series). Regarding the equip- ment required to complete the fieldwork, again it is most important to be as fully prepared as possible. Some background preparation and thought to your fieldwork will help you to be best ready to deal with the variety of rock out- crops, scales of observation required and variety of geology and give you the bestopportunitytoflourishinthefield.
 
 Basicanddetailedgeologicalfieldworkshouldgohandinhandandsothekit listforthepreparedfieldscientistshouldincludethefollowing(seeFigure2.1): • General and detailed maps of the area of interest. This can also include, whereavailable,arielphotographs,satellitedataandevengeophysicalmaps whichcanhelpwithregionalinterpretations.
 

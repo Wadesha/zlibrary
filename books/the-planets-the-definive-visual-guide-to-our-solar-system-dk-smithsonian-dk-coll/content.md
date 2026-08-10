@@ -1,23 +1,10 @@
 # The Planets The Definive Visual Guide to our Solar System DK SMITHSONIAN DK collective Z Library
 
-> 来源文件：pre_The_Planets_The_Definive_Visual_Guide_to_our_Solar_System_DK_SMITHSONIAN_DK_collective_Z_Library.txt
-> 字符数（约）：484397
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 s m i t h s o n i a n
-
-CONTENTS Senior Editor  Ben Morgan Senior Designer  Smiljka Surla Project Editor  Lizzie Davey Editors  Ann Baggaley, Ruth O’Rourke-Jones, Steve Setford US Editor  Christine Heilman Designers  Kathy Gammon, Spencer Holbrook, Fiona Macdonald, Simon Murrell, Steve Woosnam-Savage Editorial Assistant  Olivia Stanford Illustrators  Peter Bull, Infomen, Maltings Partnership, Kees Veenenbos Managing Editor  Paula Regan Managing Art Editor  Owen Peyton Jones Producer, Pre-Production  Nikoleta Parasaki Senior Producer  Mary Slater DK Picture Library  Rob Nunn Jacket Editor  Maud Whatley Jacket Designer  Mark Cavanagh Jacket Design Development Manager  Sophia MTT Publisher  Sarah Larter Art Director  Phil Ormerod Associate Publishing Director  Liz Wheeler Publishing Director  Jonathan Metcalf First American Edition, 2014 Published in the United States by DK Publishing 4th floor, 345 Hudson Street New York, New York 10014 14 15 16 17 18   10 9 8 7 6 5 4 3 2 1 001—192970—Sept/2014 Copyright © 2014 Dorling Kindersley Limited Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of both the copyright owner and the above publisher of this book.
 
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN: 978-1-4654-2464-8 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use.
-
-For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Printed and bound in China by Leo Paper Products Discover more at www.dk.com LONDON, NEW YORK, MELBOURNE, MUNICH, AND DELHI Foreword FAMILY OF THE SUN Our place in space Around the Sun Birth of the solar system Formation of the planets Size and scale Our solar system OUR STAR The Sun Sun structure Storms on the Sun Sun rays The solar cycle Solar eclipses Story of the Sun Missions to the Sun ROCKY WORLDS Neighboring worlds Mercury Mercury structure Mercury up close Mercury mapped Destination Carnegie Rupes The winged messenger Missions to Mercury Venus Venus structure Venus up close Venus mapped Destination Maxwell Montes The planet of love Missions to Venus Earth Earth structure Tectonic Earth Earth’s changing surface Water and ice Life on Earth Earth from above Our planet The Moon Moon structure Earth’s companion Moon mapped Destination Hadley Rille Earthrise Lunar craters Highlands and plains Story of the Moon Missions to the Moon Apollo project Mars Mars structure Mars mapped Water on Mars Destination Valles Marineris Martian volcanoes Destination Olympus Mons Dunes of Mars Polar caps
 
 The moons of Mars The Red Planet Missions to Mars Roving on Mars Exploring Mars Asteroids The asteroid belt Near-Earth asteroids Missions to asteroids GAS GIANTS Realm of giants Jupiter Jupiter structure Jupiter up close The Jupiter system Io Europa Galilean moons Ganymede Callisto Destination Enki Catena King of the planets Missions to Jupiter Saturn Saturn structure Saturn’s rings Destination Saturn’s rings Saturn up close Saturn in the spotlight The Saturn system Saturn’s major moons Destination Ligeia Mare Cassini’s view Destination Enceladus Lord of the rings Missions to Saturn Uranus Uranus structure The Uranus system Destination Verona Rupes Neptune Neptune structure The Neptune system Destination Triton The blue planets Voyagers’ grand tour OUTER LIMITS The Kuiper belt Dwarf planets Comets Comet orbits Missions to comets Cosmic snowballs Prophets of doom Worlds beyond REFERENCE Solar system data Glossary Index Acknowledgments This trademark is owned by the Smithsonian Institution and is registered in the United States Patent and Trademark Office.
 
@@ -430,8 +417,6 @@ THE SUN Solar eclipse Comet Hale–Bopp SDO image of Sun Copernicus’s drawing 
 He believes the phenomenon is due to a form of eclipse. Today we know that sunspots are cooler regions of the Sun’s photosphere.
 
 Sun’s corona Byzantine historian Leo Diaconus gives the first reliable description of the Sun’s corona, as seen from Constantinople (now Istanbul)
-
-during a solar eclipse. He describes a “dim and feeble glow like a narrow band shining in a circle around the edge of the disk.” Center of the solar system Copernicus’s On the Revolutions of the Heavenly Spheres is printed in Nuremburg in modern-day Germany. Previously, Ptolemy’s view that Earth was at the center of the solar system prevailed. Copernicus’s work places the Sun at the heart of the solar system.
 
 First telescope view of sunspots The invention of the telescope leads to the first clear observations of sunspots by Italian scientist Galileo, German physicist Christoph Scheiner, and other astronomers. Galileo’s observations of Jupiter and Venus support Copernicus’s ideas about the solar system.
 

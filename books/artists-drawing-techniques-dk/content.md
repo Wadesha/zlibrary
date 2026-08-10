@@ -1,10 +1,5 @@
 # Artists Drawing Techniques DK Z Library
 
-> 来源文件：pre_Artists_Drawing_Techniques_DK_Z_Library.txt
-> 字符数（约）：424579
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 DRAWING ARTIST’S TECHNIQUES
 
 TECHNIQUES DRAWING ARTIST’S
@@ -49,13 +44,9 @@ Managing Art Editor   Marianne Markham
 
 Art Director Maxine Pedliham
 
-Publishing Director Mary-Clare Jerram First American Edition, 2017 Published in the United States by DK Publishing 345 Hudson Street, New York, New York 10014 Copyright © 2017 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 17 18 19 20 21 10 9 8 7 6 5 4 3 2 1 001—294124—Aug/2017 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-6174-2 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com The basics Getting started Aspects of drawing Drawing from observation and imagination Drawing inside and outside Composition Perspective and measuring Sketchbooks Vocabulary of color Choosing a medium
 
 Beginner techniques Basic mark-making Negative space Hatching and crosshatching Weight of line Showcase drawing Intermediate techniques
 
@@ -124,8 +115,6 @@ Different poses offer new and sometimes challenging viewpoints Loose lines give 
 PROS ■ ■Allows quick sketches ■ ■Offers good practice for gestural lines ■ ■A huge variety of locations ■ ■Potential for change of scale and medium CONS ■ ■Time constraints—often have to work fast to capture moving people and deal with weather ■ ■Requires commitment ■ ■Can be slightly intimidating to draw in public arenas Drawing from life—pros and cons THE BASICS
 
 Drawing from observation and imagination It’s easier to capture the furry texture while the cat is still, in the photo Ink works well as a medium to suggest softness PROS ■ ■Offers detailed information from sources not easily accessible (such as wild animals)
-
-■ ■The variety of images ■ ■ Widens range of subject matter CONS ■ ■Flat, less definition in print or photos ■ ■ Copyright issues, if a direct copy ■ ■ Can discourage personal investigation and going out and about Drawing from references—pros and cons DRAWING FROM SECONDARY SOURCES Using a camera to record details while you’re out and about or to capture a scene in a fast-moving situation is a bonus when you return to a drawing later on. Collecting together images that interest you—from photos, magazines, or online— is also a great way of solidifying inspiration and completing interesting drawings. Such a scrapbook can become a useful reference to work in conjunction with your sketchbooks (see pp.22–23). Do be aware that in some circumstances you may need to ask permission to take pictures.
 
 Drawing from photographs Using your own photos of memorable events, family members, or pets can be a great way to create unique drawings. Such photos can inform sketches drawn from life.
 

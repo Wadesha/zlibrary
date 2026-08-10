@@ -2,7 +2,6 @@
 
 Mattuck) (Z-Library).
 
-
 ## --- Page 1 ---
 
 ## A Guide to Feynman Diagrams
@@ -128,8 +127,6 @@ p cm.
 c1976.
 
 Includes bibliographical references and index.
-
-ISBN 0-486-67047-3 (pbk.
 
 Many-body problem.
 
@@ -993,10 +990,6 @@ etc. It deals rather with general methods applicable to all many-body systems.
 
 ## @ C
 
-## 6 8 © 0
-
-## ′ e… t)(9 ©0000
-
 ### Nucleons Electrons Atoms in oooo
 
 in nucleus in atom molecule Atoms in Solid
@@ -1004,8 +997,6 @@ in nucleus in atom molecule Atoms in Solid
 ## Angels on
 
 ## pinhead
-
-## Molecules 6 e © 91 Electrons
 
 in liquid.
 
@@ -2256,8 +2247,6 @@ The first-order process and its analogy are shown in Fig.
 The sequence may be drawn diagrammatically
 
 ## ```
-
-## @_v @ @® @ @ s
 
 ## (a) (6) (c)
 

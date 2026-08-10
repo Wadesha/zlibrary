@@ -1,25 +1,14 @@
 # DK Eyewitness Travel Guide New England DK Publishing Z Library
 
-> 来源文件：pre_DK_Eyewitness_Travel_Guide_New_England_DK_Publishing_Z_Library.txt
-> 字符数（约）：1117492
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 NEW ENGLAND EYEWITNESS TRAVEL
 
 NEW ENGLAND EYEWITNESS TRAVEL
 
 The information in this DK Eyewitness Travel Guide is checked regularly.
 
-Every effort has been made to ensure that this book is as up-to-date as possible at the time of going to press. Some details, however, such as telephone numbers, opening hours, prices, gallery hanging arrangements, and travel information are liable to change. The publishers cannot accept responsibility for any consequences arising from the use of this book, nor for any material on third party websites, and cannot guarantee that any website address in the book will be a suitable source of travel information. We value the views of our readers very highly. Please write to: Publisher, DK Eyewitness Travel Guides, Dorling Kindersley, 80 Strand, London WC2R 0RL, Great Britain, or email: travelguides@dk.com.
-
-Contents How to Use this Guide 6 Introducing New England Discovering New England 10 Putting New England on the Map 16 A Portrait of New England 18 New England Through the Year 36 The History of New England 40 Front cover main image: Farmhouse in the beautiful Vermont countryside Portland Head Lighthouse, Cape Elizabeth, Maine Vermont’s dazzling fall foliage Produced By St. Remy Media Inc., Montréal, Canada President Pierre Léveillé Vice President, Finance Natalie Watanabe Managing Editor Carolyn Jackson Managing Art Director Diane Denoncourt Production Manager Michelle Turbide Director, Business Development Christopher Jackson Editor Neale McDevitt Art Directors Michel Giguère, Anne-Marie Lemay Senior Research Editor Heather Mills Researchers Tal Ashkenazi, Jessica Braun, Genevieve Ring Picture Researcher Linda Castle Map Coordinator Peter Alec Fedun Senior Editor, Production Brian Parsons Indexer Linda Cardella Cournoyer Prepress Production Martin Francoeur, Jean Sirois Main Contributors Eleanor Berman, Patricia Brooks, Pierre Home-Douglas, Helga Loverseed Photographers Alan Briere, Ed Homonylo, David Lyon Illustrators Gilles Beauchemin, Martin Gagnon, Vincent Gagnon, Stéphane Jorisch, Patrick Jougla, Luc Normandin, Jean-François Vachon Maps Dimension DPR Printed and bound by South China Printing Co. Ltd., China First American Edition, 2001 14 15 16 17 10 9 8 7 6 5 4 3 2 1 Published in the United States by DK Publishing, 345 Hudson Street, New York, New York 10014 Reprinted with revisions 2003, 2004, 2005, 2006, 2007, 2009, 2010, 2012, 2014 Copyright 2001, 2014 © Dorling Kindersley Limited, London All Rights Reserved. Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of both the copyright owner and the above publisher of this book.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISSN 1542-1554 ISBN 978-1-46541-174-7
 
 Mark Twain House in Hartford, Connecticut Costumed interpreter at Plimoth Plantation, Plymouth, Massachusetts Mansion in Waterbury, Vermont West Quoddy Head Light, Maine Survival Guide Practical Information 366 Travel Information 374 General Index 380 Acknowledgments 399 New England Region by Region New England at a Glance 134 Massachusetts 136 Rhode Island 172 Connecticut 198 Vermont 230 New Hampshire 252 Maine 278 Travelers’ Needs Where to Stay 306 Where to Eat and Drink 320 Shopping 340 Entertainment 348 Outdoor Activities 356 Boston Introducing Boston 56 Beacon Hill and the Theater District 62 Old Boston and the Financial District 76 North End and the Waterfront 86 Back Bay and the South End 96 Farther Afield 106
 
@@ -665,8 +654,6 @@ Raccoons are commonly seen in wooded areas. They often pay visits to campsites, 
 
 National Wildlife Refuge With 150 million acres (61 million ha) under its control, the National Wildlife Refuge (NWR)
 
-offers protection for some of the country’s most ecologically rich areas. The NWR system began in 1903 when President Theodore Roosevelt (1858–1919) established Pelican Island in Florida as a refuge for birds. Thirty- five refuges are located in New England, including 11 in Massachusetts, 6 in Rhode Island, 4 in New Hampshire, 11 in Maine, 1 in Connecticut, and 2 in Vermont. They offer some of the best bird-watching in the region. See www.fws.gov/refuges for more information.
-
 Rachel Carson National Wildlife Refuge, a vast wetland stop for migratory birds Chipmunks are seen virtually throughout rural New England, especially in the forests.
 
 The pigeon hawk, also known as the merlin, can be found throughout New England, even in urban areas.
@@ -1110,8 +1097,6 @@ Festival of Trees and Traditions (early December), Hartford, CT.
 Hundreds of beautiful trees and Musicians in Boston’s St. Patrick’s Day Parade A traditional Thanksgiving dinner celebration N E W  E N G L A N D  T H R O U G H  T H E  Y E A R    3 9 Feb Jan Mar Apr May Jun Jul Aug Sep Oct Nov Dec Temperature Chart New England tempera- tures vary great ly through the year. In the summer, temperatures of 90° F (32° C) are quite frequent, while the thermometer can dip to 0° F (-18° C) or lower in winter. In general, it is warmer along the coast and in the southern section of New England.
 
 Average monthly temperature °F °C
-
-Map of the Northeast, printed in England a month after the Declaration of Independence was signed
 
 ## THE HISTORY OF NEW
 

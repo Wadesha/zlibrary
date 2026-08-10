@@ -1,21 +1,10 @@
 # Great Cities The Stories Behind the World s most Fascinating Places DK Z Library
 
-> 来源文件：pre_Great_Cities_The_Stories_Behind_the_World_s_most_Fascinating_Places_DK_Z_Library.txt
-> 字符数（约）：778672
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 G R E A T C I T I ES THE STORIES BEHIND THE WORLD’S MOST FASCINATING PLACES
 
 DK LONDON Senior Editor Dora Whitaker Senior Art Editor Jane Ewart Editors Edward Aves, James Smart, Polly Thomas, Monica Woods Designer Clare Shedden Managing Editor Christine Stroyan Managing Art Editor Anna Hall Production Editor Kavita Varma Production Controller Laura Andrews Creative Technical Support Sonia Charbonnier Jacket Design Development Manager Sophia M.T.T.
 
-Jacket Designer Surabhi Wadhwa Associate Publishing Director Liz Wheeler Publishing Director Jonathan Metcalf Art Director Karen Self DK DELHI Senior Art Editor Vikas Sachdeva Art Editors Shipra Jain, Noopur Dalal Assistant Art Editors Adhithi Priya, Ankita Das Senior Editor Janashree Singha Editors Nandini D. Tripathy, Devangana Ojha Assistant Editor Ankita Gupta Managing Editor Soma B. Chowdhury Senior Managing Art Editor Arunesh Talapatra Jacket Designer Tanya Mehrotra Jackets Editorial Coordinator Priyanka Sharma Senior DTP Designer Vishal Bhatia DTP Designers Rakesh Kumar, Nand Kishor Acharya Project Picture Researcher Aditya Katyal Picture Research Manager Taiyaba Khatoon Pre-Production Manager Balwant Singh Production Manager Pankaj Sharma Editorial Head Glenda Fernandes Design Head Malavika Talukder First published in Great Britain in 2021 by Dorling Kindersley Limited DK, One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW The authorised representative in the EEA is Dorling Kindersley Verlag GmbH. Arnulfstr. 124, 80636 Munich, Germany Copyright © 2021 Dorling Kindersley Limited A Penguin Random House Company 10 9 8 7 6 5 4 3 2 1 001-322067-Aug/2021 No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-2414-7115-9 Printed and bound in the UAE www.dk.com This book was made with Forest Stewardship Council ™ certified paper – one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge
 
 Peter Chrisp is a historian with a particular interest in the ancient world.
 

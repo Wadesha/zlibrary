@@ -1,21 +1,10 @@
 # 科学就是魔法（Science Is Magic）史蒂夫·莫尔德（Steve Mould）Z Library
 
-> 来源文件：pre_Science_Is_Magic_Steve_Mould_Z_Library.txt
-> 字符数（约）：78534
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 史蒂夫·莫尔德（Steve Mould）　《科学就是魔法》（Science Is Magic）　著
 
 著者：史蒂夫·莫尔德（Steve Mould）　顾问：莉萨·伯克（Lisa Burke）　高级编辑：菲尔·亨特（Phil Hunt）　项目美术编辑：艾玛·霍布森（Emma Hobson）　设计助理兼插画师：肖琳（Xiao Lin）　高级设计师：乔安妮·克拉克（Joanne Clark）　高级编辑：萨姆·普里迪（Sam Priddy）　美国编辑：明迪·菲希特（Mindy Fichter）、艾莉森·辛格（Allison Singer）　编辑助理：凯蒂·劳伦斯（Katie Lawrence）　护封设计师：乔安妮·克拉克（Joanne Clark）　护封协调员：伊西·沃尔什（Issy Walsh）　排版设计师：穆赫德·里兹万（Mohd Rizwan）　图片研究员：萨克希·萨卢贾（Sakshi Saluja）　执行编辑：劳拉·吉尔伯特（Laura Gilbert）　执行美术编辑：黛安·佩顿·琼斯（Diane Peyton Jones）　高级制片人：伊莎贝尔·沙尔特（Isabell Schart）　前期制作高级制片人：尼科莱塔·帕拉斯基（Nikoleta Parasaki）　创意总监：海伦·西尼尔（Helen Senior）　出版总监：萨拉·拉特（Sarah Larter）
 
-美国初版，2019 年，由 DK Publishing 出版于美国纽约州纽约市哈德逊街 345 号，邮编 10014。版权所有 © 2019 Dorling Kindersley Limited。DK 为企鹅兰登书屋（Penguin Random House LLC）旗下子公司。印刷批次：19 20 21 22 23 10 9 8 7 6 5 4 3 2 1　编号 001–311551–Mar/2019。在不限制上述所保留版权权利的前提下，未经版权所有者事先书面许可，不得以任何形式或通过任何方式（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 英国由 Dorling Kindersley Limited 出版。本书的编目记录可向美国国会图书馆索取。
-
-ISBN：978-1-4654-7880-1。DK 图书在批量采购用于销售促销、赠品、筹款或教育用途时享有特别折扣。详情请联系：DK Publishing Special Markets，纽约哈德逊街 345 号，纽约州，邮编 10014，SpecialSales@dk.com。印刷并装订于中国。
-
-观念的世界：探索一切可知　www.dk.com
 
 目录
 认识作者……如何阅读本书……莫比乌斯环魔法 10
@@ -1850,4 +1839,3 @@ Dreamstime.com：Ljupco（cb）。
 ## 第 54–55 页上隐藏的是什么图片？
 
 仔细看，你会看到星星（第54页）和一匹马（第55页）。如果你用同样的技巧看本书封面内页和封底内页上的图案，你可能会发现更多星星！
-

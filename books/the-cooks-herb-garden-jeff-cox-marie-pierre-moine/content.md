@@ -1,21 +1,8 @@
 # The Cooks Herb Garden Jeff Cox Marie Pierre Moine Z Library
 
-> 来源文件：pre_The_Cooks_Herb_Garden_Jeff_Cox_Marie_Pierre_Moine_Z_Library.txt
-> 字符数（约）：199684
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-THE COOK’S HERB GARDEN GROW • HARVEST • COOK JEFF COX • MARIE-PIERRE MOINE THE COOK’S HERB GARDEN Jeff Cox & Marie-Pierre Moine London, New York, Melbourne, Munich, and Delhi Editors Helena Caldon, Constance Novis Photographers William Reavell, Peter Anderson, Sarah Ashun Project Editor Andrew Roff US Editors Rebecca Warren, Shannon Beatty Project Designer Will Hicks Designer Elly King Managing Editors Dawn Henderson, Angela Wilkes Managing Art Editor Christine Keilty Senior Jacket Creative Nicola Powling Senior Production Editor Jennifer Murray Senior Production Controller Seyhan Esen Creative Technical Support Sonia Charbonnier First American Edition, 2010 Published in the United States by DK Publishing 375 Hudson Street New York, New York 10014 10 11 12 10 9 8 7 6 5 4 3 2 1 176546—March 2010 Copyright © 2010 Dorling Kindersley Limited Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of both the copyright owner and the above publisher of this book.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7566-5869-4 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 375 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Color reproduction by Colourscan, Singapore Printed and bound in China by Hing Hung Printing Discover more at www.dk.com DK would like to thank Petersham Nurseries for their beautiful planted pots and baskets.
-
-www.petershamnurseries.com CONTENTS 4 In 1 Juct.avn.s CHOOSE 7 I'IJ t~d Pots ~nd B~slceu '0 The Herb Catalog GROW 76 Cllm•te So Planning 84 Soli 8(, Ctowto& ftom Se~d 88 Ctowtog Young Plan<S 90 Propagating 92 Feeding and Watering 94 Weed Control 96 Improving your Harvest 98 r ..u too Diseases HARVEST AND STORAGE 104 Reaping the Harvest 108 Short-Term Storage 110 Freezing 114 Drying COOK 116 Intro 128 Flavorings 130 The Recipes 178 Herbal Teas 186 Planting Charts 190 Index 194 Acknowledgments 4 INTRODUCTIONS A NOTE FROM THE GARDENER JEFF COX I always think of culinary herbs as the champions of the kitchen garden. Their volatile oils—so attractive in teas and as flavors in our cooking—evolved as compounds plants use to defend themselves from insects and fungi. Both cooks and gardeners therefore benefit from an herb’s aromas, because you don’t need to use environmentally disruptive chemicals to protect them.
 
 As I work and live with herbs, I befriend them. The familiar perennials return year after year to greet me with each warming spring; while the new annual acquaintances, which need sowing every year, unfurl from their tiny seeds into replicas of herbs from last year. Every year and throughout the seasons, the herb garden returns this friendship with a feast for all the senses.
 

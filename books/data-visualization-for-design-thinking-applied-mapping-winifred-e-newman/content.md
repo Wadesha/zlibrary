@@ -1,10 +1,5 @@
 # Data Visualization For Design Thinking Applied Mapping Winifred E Newman Z Library
 
-> 来源文件：pre_Data_Visualization_For_Design_Thinking_Applied_Mapping_Winifred_E_Newman_Z_Library.txt
-> 字符数（约）：648126
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Data Visualization for Design Thinking helps designers make better maps. Treating maps as applied research, you will be able to understand how to map sites, places, ideas, and projects, revealing the complex relationships between representation, thinking, technology, culture, and aesthetic practices. More than 100 examples illustrated with over 200 color images show you how to visualize data through mapping. Includes five in-depth case studies and numerous examples throughout.
 
 Winifred E. Newman is professor and head of the department of architecture at the University of Arkansas in Fayetteville, Arkansas, USA.
@@ -13,17 +8,9 @@ DATA VISUAlIzATIon For DeSIgn ThInkIng
 
 DATA VISUAlIzATIon For DeSIgn ThInkIng Applied Mapping Winifred e. newman
 
-First published 2017 by routledge 711 Third Avenue, new York, nY 10017 and by routledge 2 Park Square, Milton Park, Abingdon, oxon oX14 4rn Routledge is an imprint of the Taylor & Francis Group, an informa business © 2017 Taylor & Francis The right of Winifred e. newman to be identified as author of this work has been asserted by her in accordance with sections 77 and 78 of the Copyright, Designs and Patents Act 1988.
-
 utilised in any form or by any electronic, mechanical, or other means, now known or hereafter invented, including photocopying and recording, or in any information storage or retrieval system, without permission in writing from the publishers.
 
 Trademark notice: Product or corporate names may be trademarks or registered trademarks, and are used only for identification and explanation without intent to infringe.
-
-Library of Congress Cataloging in Publication Data A catalog record for this book has been requested ISBn: 978-1-138-95834-0 (hbk)
-
-ISBn: 978-1-138-95835-7 (pbk)
-
-ISBn: 978-1-315-66127-8 (ebk)
 
 Acquisition editor: katharine Maller editorial Assistant: Trudy Varcianna Production editor: kevin Selmes Typeset in Univers by hWA Text and Data Management, london
 
@@ -75,10 +62,6 @@ Figure Credits Introduction 0.1: John nasmyth and James Carpenter, The Moon Cons
 
 Countway library of Medicine via Medical heritage library 0.5: Francis Crick and James Watson, photo courtesy/Science & Society Picture library 0.6, 0.7, 0.17, 0.18: ernst haeckel, Kunstformen der Natur (1904) [Public domain], Courtesy of WikiCommons 0.8: Image courtesy of Thunder Bay 2001, noAA-oer [Public domain]
 
-0.9: Student, University of Tennessee 0.10: Student, Washington University in St. louis 0.11: Charles howard hinton, The Fourth Dimension (1904) [Public domain], Courtesy of the Internet Archive, from Boston College library; blc; americana 0.12, 0.13: Étienne-Jules Marey [Public domain], © Cinémathèque française 0.14: C. lombroso, from L’Homme Criminal [Public domain], Courtesy of the Internet Archive 0.15: Joaquin Pineda, Florida International University 0.16: François Chauveau [Public domain], via Wikimedia Commons 0.19, 0.20: Patrick Abercrombie, London Plan: Social and Functional Analysis (1943) [Public domain]
-
-0.21: MArS group, Master Plan for London, courtesy of the rIBA 0.22, 0.23, 0.25, 0.26: Claude-nicolas ledoux, [Public domain], Courtesy of WikiCommons 0.24: Aerial photo, image © 2015 Digitalglobe [Public domain]
-
 Diagram 0.1: nicholas Wise, University of Arkansas
 
 ## Chapter
@@ -91,8 +74,6 @@ Diagram 0.1: nicholas Wise, University of Arkansas
 
 Figure Credits 1.5: robert Fludd [Public domain], via Wikimedia Commons 1.6, 1.7, 1.8, 1.9, 1.10, 1.11, 1.12: evan Barrett, Washington University in St. louis 1.13: Étienne-Jules Marey [Public domain], Paris, Cinémathèque 1.14: emanuel Ferro, Florida International University 1.15: Joaquin Pineda, Florida International University 1.16: Priscilla Pagan, Florida International University 1.17: elisa kim, Washington University in St. louis 1.18, 1.19, 1.20, 1.21: Samantha Stein, Washington University in St. louis 1.22: Colin Sieburg, harvard University 1.23: Anthony zephyr, Washington University in St. louis 1.24, 1.25: Mohammed hossain, harvard University 1.26: Map courtesy of the U.S. geological Survey [Public domain]
 
-1.27, 1.28, 1.29, 1.30, 1.31: Atlas Mar, Florida International University 1.32: Marsha McDonald, Florida International University 1.33: hernan guerero Applewhite, Florida International University 1.34: o. h. Bailey et al. The City of Boston 1879. Boston, 1879. Map retrieved from the library of Congress, https://www.loc.gov/item/75694555/ 1.35: Manuel lam, harvard University 1.36, 1.37: Valerie Michalek, Washington University in St. louis 1.38: Margaret Cooke, Washington University in St. louis
-
 ## Chapter
 
 2.1, 2.2: John Branigan (Azavea), North America in 8 Projections [Public domain]
@@ -103,8 +84,6 @@ Figure Credits 1.5: robert Fludd [Public domain], via Wikimedia Commons 1.6, 1.7
 
 2.6, 2.15, 2.16, 2.17, 2.22, Diagram 2.5: nicholas Wise, University of Arkansas 2.7: Domenico remps [Public domain], via Wikimedia Commons 2.8: Joan Blaeu [Public domain], via Wikimedia Commons 2.9: Student, Washington University in St. louis 2.10: Student, University of Tennessee 2.11, 2.12: Maria lorena reyes Bahamon and Jennifer Sandoval, Florida International University 2.13: eileen nunes koo and Aileen zeigen, Florida International University 2.14: Jean-Baptiste regnault [Public domain], via Wikimedia Commons 2.18: hans Vredeman de Vries, Perspektive, 1604 [Public domain]
 
-2.19: By YY (http://www.flickr.com/photos/kuyo/2284479415/) [CC BY 3.0 (http://creativecommons.org/licenses/by/3.0)], via Wikimedia Commons 2.20, 2.21: Andrew Butler, Washington University in St. louis 2.35: Image courtesy of eisenman Architects, house X Project, 1975 2.36: Photo courtesy Digital Image © The Museum of Modern Art/licensed by SCAlA / Art resource, nY
-
 Figure Credits 2.37, 2.38, 2.39: Charles Joseph Minard [Public domain], via Wikimedia Commons 2.40: eduardo garcia, Florida International University 2.41, 2.42: Taejun James kim, Washington University in St. louis 2.43: The Evolution of the Web by hyperakt [Public domain]
 
 2.44: Angelica Trevino, harvard University 2.45: hereford Mappa Mundi, courtesy of hereford Cathedral [Public domain]
@@ -113,15 +92,9 @@ Figure Credits 2.37, 2.38, 2.39: Charles Joseph Minard [Public domain], via Wiki
 
 ## Chapter
 
-3.1, 3.44, 3.45, 3.46: Betty ng, harvard University 3.2: Thomas More 3.3: Aerial photo, Image © 2015 Digitalglobe [Public domain]
-
-3.4: Angelica Trevino, harvard University 3.5: Yunhee Min, harvard University 3.6: Margaret Cooke, Washington University in St. louis 3.7, 3.8, 3.11: kosuke Bando, harvard University 3.9: o. h. Bailey et al. The City of Boston 1879. Boston, 1879. Map retrieved from the library of Congress, https://www.loc.gov/item/75694555/ 3.10: Constant nieuwenhuys (1920–2005), Symbolic representation of New Babylon, 1969, collage of city maps. 120 × 133 cm, Collection gemeentemuseum Den haag. Photo Tom haartsen for Fondation Constant 3.12: By Strebe (Mobile Traffic Monetization) [CC BY-SA 3.0 (http://creativecommons.org/ licenses/by-sa/3.0)], via Wikimedia Commons 3.13: By Strebe (own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by- sa/3.0)], via Wikimedia Commons 3.14, 3.15, 3.16, 3.18, 3.19, 3.20: Photo courtesy of Akio kawasumi 3.17: Banque d’Images, ADAgP / Art resource, nY 3.21: Aerial photo, Image © 2015 Digitalglobe 3.22: herman Mao, Washington University in St. louis 3.23: netherlands Institute for Art history, Archive Constant (0095), inv.nr. 488, Psychogeographic Map of g. e. Debord, Guide Pschogeographique de Paris. Use of map courtesy of Alice Debord 3.24, 3.43, Diagrams 3.1, 3.2: Author 3.25: Camouflage of lockheed Aircraft Company, Burbank, CA, c. 1945, Image courtesy of lockheed Martin Corp 3.26: Aerial image of lockheed Aircraft Company in camouflage, Burbank, CA, c. 1945
-
 Figure Credits 3.27: rocklea, (DAVA-USArmy) [Public domain]
 
 3.28: Faux-Paris, Adoc-photos / Art resource, nY 3.29: Bombing diagram [Public domain]
-
-3.30: By printmaker Frederick Birnie, after robert and henry Aston Barker [Public domain], via Wikimedia Commons 3.31: Aquatint by henry Aston Barker, after robert Barker (http://www.gac.culture.gov.uk/ work.aspx?obj=29586) [Public domain], via Wikimedia Commons 3.32: robert Mitchell, Plans and Views in Perspective (1801) [Public domain] via Stephen oetermann, The Panorama History of Mass Media, zone Books, new York, 1997: 104 3.33: Courtesy of British Museum [Public domain]
 
 3.34: Jeremy Bentham [Public domain], via Wikimedia Commons 3.35, 3.36, 3.37: erin Dorr, Washington University in St. louis 3.38: Carolina rivera and Jessica Dickinson, Florida International University 3.39: new Plan of rome interpreted by Piero Sartogo, Constantino Dardi, Antoine grumbach, James Stirling, Paolo Portoghesi, romaldo giurgola, robert Venturi, Colin rowe, Michael graves, robert krier, Also rossi, leon krier. Courtesy of MAXXI Museo nazionale delle arti del XXI secolo, rome. MAXXI Architettura Collection. roma Interrotta Archive 3.40: giovanni Battista nolli [Public domain]
 
@@ -133,8 +106,6 @@ Figure Credits 3.27: rocklea, (DAVA-USArmy) [Public domain]
 
 4.7: Sohee ryan, University of Arkansas (after Paronchi)
 
-4.8: Piazza della Signoria [Public domain], Photo courtesy of JoJan—own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=431779 4.9: Author (after evans)
-
 4.10, 4.11: Author (after kemp)
 
 4.12: Sohee ryan, University of Arkansas (after kemp)
@@ -145,13 +116,7 @@ Figure Credits 3.27: rocklea, (DAVA-USArmy) [Public domain]
 
 4.15: San Spirito, Florence, Photo courtesy of WgA
 
-Figure Credits 4.16: San Minato al Monte, © Vanni Archive / Art resource, nY 4.17: Sohee ryan, University of Arkansas 4.18, 4.19: nehemiah grew, Anatomy of Plants, 1682 [Public domain], Courtesy of Missouri Botanical garden via the Internet Archive 4.20: rené Descartes, ‘Vortices,’ from Principia Philosophiae, (1644) [Public domain]
-
-4.21: Author with Sarah kellerman 4.23: Digital Image © The Museum of Modern Art/licensed by SCAlA / Art resource, nY 4.24: erich lessing / Art resource, nY 4.25, 4.26: Sara Johnson, Washington University in St. louis 4.27: Auguste Choisy, Palatin [Public domain], Courtesy of Colloque Centenaire Auguste Choisy 4.28: Michael Schwartz, Washington University in St. louis 4.29, 4.30: lysa Janssen and Author, harvard University 4.31, 4.32: lysa Janssen, harvard University 4.33, 4.34: Daniel Alonso, Florida International University 4.35, 4.37, 4.38, 4.39: Siliang Fu, Washington University in St. louis 4.36: eric gaba, Dymaxion map [Public domain], Courtesy of Wikipedia Commons 4.40, 4.41, 4,42, 4.43, 4.44, 4.45, 4.46: gia Wolff, harvard University 4.47, 4.48, 4,49: raymond Chau and ruogu liu, Washington University in St. louis 4.50: Feixion Yu, Washington University in St. louis 4.51: Students, Florida International University 4.52, 4.53, 4.54, 4.55, 4.56: Vipavee kunavichayanont, harvard University 4.57: Maria Ines Aragon, Marsha McDonald, Veronica requeña, Florida International University 4.58: kristen Argalas, Viviana restrepo, Fannie Torres, Florida International University 4.59, 4.60: Brendan Willis, Washington University in St. louis 4.61: Tokaido dochu ezo byobu, a panorama of the Tokaido road from edo to kyoto to osaka, seventeenth century, courtesy of the C. V. Starr east Asian library University of California, Berkeley 4.62, 4.63: D. Appleyard, k. lynch and J. r. Myer, The View from the Road, drawings, © 1965 Massachusetts Institute of Technology, by permission of The MIT Press 4.64, 4.67, 4.68, 4.69, 4.70: Melissa Blair, Washington University in St. louis 4.65: Photographer not identified. official photograph [Public domain], via Wikimedia Commons, photograph Q 43387 Courtesy of the Imperial War Museums (collection no.
-
 2500-06)
-
-4.66: ‘Dazzle camouflage effect’ [Public domain], Diagram by Ian Alexander—own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=46167419
 
 Introduction not only is it easy to lie with maps, it’s essential.
 
@@ -441,8 +406,6 @@ Mappings: 225.
 
 24 k. Burke, ‘What are the signs of what? A theory of entitlement,’ Anthropological Linguistics 4 (June), 1–23, 1962.
 
-25 M. Dodge and r. kitchin, Atlas of Cyberspaces, accessed September 2016. http://www.
-
 kitchin.org/atlas/index.html. rob kitchin and Martin Dodge pushed the theory of maps to the limits of the ontology where maps aren’t treated as unified representations but constellations of ongoing processes.
 
 26 M. Dodge, r. kitchin, and C. r. Perkin, Rethinking Maps: New Frontiers in Cartographic Theory, routledge, london, 2009: 18–20.
@@ -491,8 +454,6 @@ Introduction Historical and Philosophical Problems Concerning the Use of Art in 
 
 46 hall, ‘The didactic and the elegant’: 11.
 
-47 Commens Dictionary of Peirce’s Terms under ‘Index,’ http://www.commens.org/dictionary/ term/index.
-
 48 Commens Dictionary of Peirce’s Terms under ‘Index’.
 
 49 T. W. Adorno, g. Adorno and r. Tiedemann, Aesthetic Theory, routledge and kegan Paul, london, 1984.
@@ -504,8 +465,6 @@ Introduction Historical and Philosophical Problems Concerning the Use of Art in 
 52 S. Toulmin, The Philosophy of Science: An Introduction, hutchinson’s University library, hutchinson, london, 1953, 111.
 
 53 J. l. Borges, ‘Travels of Praiseworthy Men (1658) by J. A. Suarez Miranda,’ in Jorge luis Borges and Adolfo Bioy Casares (eds), A Universal History of Infamy, Dutton, new York, 1972.
-
-54 Alfred korzybski introduces the expression in ‘A non-Aristotelian system and its necessity for rigor in mathematics and physics,’ presented to the American Mathematical Society at the American Association for the Advancement of Science, new orleans, lA, December 28,1931. reprinted in korzybski, Science and Sanity, 747–761.
 
 55 Baudrillard, Simulacra and Simulation: 1.
 
@@ -556,8 +515,6 @@ depicts a ‘synthetic continuity’ of motion similar to Duchamp’s work, but 
 78 l. gruson. ‘Claude nicolas ledoux, Visionary Architecture and Social Utopia,’ pages 299– 307, oct. 2009. International Conference of Territorial Intelligence, hAl Archives-ouvertes.
 
 fr. 303/653.
-
-79 D. Felluga, ‘Modules on Foucault: on power’. ‘Introductory guide to Critical Theory’ 2011, Purdue University accessed 14 June 2016. https://www.cla.purdue.edu/english/theory/ newhistoricism/modules/foucaultpower.html.
 
 Introduction 80 Foucault, Discipline and Punish: 221.
 

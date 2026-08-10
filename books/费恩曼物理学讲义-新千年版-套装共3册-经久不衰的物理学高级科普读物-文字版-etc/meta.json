@@ -1,10 +1,10 @@
 {
   "slug": "费恩曼物理学讲义-新千年版-套装共3册-经久不衰的物理学高级科普读物-文字版-etc",
-  "title": "费恩曼物理学讲义_新千年版_套装共3册_经久不衰的物理学高级科普读物_文字版_etc",
+  "title": "费恩曼物理学讲义（新千年版）（套装共3册）经久不衰的物理学高级科普读物【文字版】 etc.",
   "language": "zh",
-  "pipeline": "native",
-  "source_file": "[MD]费恩曼物理学讲义_新千年版_套装共3册_经久不衰的物理学高级科普读物_文字版_etc_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "费恩曼物理学讲义（新千年版）（套装共3册）经久不衰的物理学高级科普读物【文字版】 ( etc.) (Z-Library).md",
   "source_pdf": null,
-  "chars": 1455340,
+  "chars": 1645990,
   "has_fixed": false
 }

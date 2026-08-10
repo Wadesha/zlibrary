@@ -1,9 +1,4 @@
-﻿# 社会学之书·简明大观念（Big Ideas Simply Explained） Sarah Tomley Mitchell Hobbes Z Library
-
-> 来源文件：pre_The_Sociology_Book_Big_Ideas_Simply_Explained_Sarah_Tomley_Mitchell_Hobbes_Z_Library.txt
-> 字符数（约）：839375
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+# 社会学之书·简明大观念（Big Ideas Simply Explained） Sarah Tomley Mitchell Hobbes Z Library
 
 简明大观念 社会学之书 对自身地位的感知 婚姻契约即工作契约 地方视角 科学可用于建设更美好的世界 有些人犯罪是因为他们在回应某种社会情境 现代身份正在去中心化 性别是一种没有原件的模仿 技术如同艺术，是人类想象力的腾飞 放弃对总体性的希望吧，你这进入液态现代性世界的人 宗教是受压迫生灵的叹息 OBAL CITIES STRATEGIC SITES NEW TYPES OF PERATIONS 消费贵重物品是有闲绅士获取声望的手段
 
@@ -15,17 +10,9 @@ DK 伦敦 高级编辑 Sam Atkinson 高级美术编辑 Amy Child 编辑 Alexandr
 
 插图 James Graham DK 德里 封面设计师 Dhirendra Singh 高级排版设计师 Harish Aggarwal 执行封面编辑 Saloni Singh 原版由 STUDIO8 DESIGN 设计
 
-由 COBALT ID 为 DK 制作 美术编辑 Darren Bland、Paul Reid 编辑 Diana Loxley、Marek Walisiewicz、Christopher Westhorp 美国初版，2015 年由 DK Publishing 出版，地址：345 Hudson Street, New York, New York 10014 版权 © 2015 Dorling Kindersley Limited，企鹅兰登书屋旗下公司 15 16 17 18 19  10 9 8 7 6 5 4 3 2 1 001—282934—July/2015 在不限制上述版权保留权利的前提下，未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 由英国 Dorling Kindersley Limited 出版。
 
 本图书目录记录可由美国国会图书馆提供。
-
-ISBN：978-1-4654-3650-4 DK 图书在批量购买用于促销、奖品、筹款或教育用途时享有特别折扣。
-
-详情请联系：DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com 由中国 Leo Paper Products Ltd. 印刷并装订
-
- ideas 的世界：尽知尽见 www.dk.com
 
 CHRISTOPHER THORPE，顾问编辑 我们的联合顾问与撰稿人 Christopher Thorpe 是一位对社会理论、文化社会学以及英国对意大利的再现感兴趣的社会学家。他拥有苏格兰阿伯丁大学社会学博士学位，是《文化社会学》（Cultural Sociology）期刊的联合编辑、《社会理论邀约》（An Invitation to Social Theory，2012）的作者之一，并撰写过数篇学术文章。
 
@@ -799,7 +786,7 @@ Gemeinschaft 与 Gesellschaft 的两极存在于每个社会群体之中，程�
 
 马克斯·韦伯（1864–1920）
 
-## 
+##
 
 （原文 "THE IRON OF RATIONALITY" 与 "CAGE" 分行，即「理性的铁笼」）
 
@@ -8635,4 +8622,3 @@ H 哈拉维，唐娜（Haraway, Donna）338 哈贝马斯，尤尔根（Habermas,
 更多信息见：www.dkimages.com
 
 352 致谢
-

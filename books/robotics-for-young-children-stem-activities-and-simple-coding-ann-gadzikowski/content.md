@@ -1,25 +1,12 @@
 # Robotics for Young Children STEM Activities and Simple Coding Ann Gadzikowski Z Library
 
-> 来源文件：pre_Robotics_for_Young_Children_STEM_Activities_and_Simple_Coding_Ann_Gadzikowski_Z_Library.txt
-> 字符数（约）：260033
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Ann Gadzikowski Robotics for Young Children STEM Activities and Simple Coding
-
-Published by Redleaf Press 10 Yorkton Court St. Paul, MN 55117 www.redleafpress.org © 2018 by Ann Gadzikowski reproduced or transmitted in any form or by any means, electronic or mechanical, including photo­ copying, recording, or capturing on any information storage and retrieval system, without permission in writing from the publisher, except by a reviewer, who may quote brief passages in a critical article or review to be printed in a magazine or newspaper, or electronically transmitted on radio, television, or the Internet.
-
-First edition 2018 Cover design by Jim Handrigan Cover photograph by Monica Kass Rogers Interior design by Percolator Typeset in FF Tisa Pro Interior photography by Monica Kass Rogers and Ann Gadzikowski Printed in the United States of America Library of Congress Cataloging-in-Publication Data Names: Gadzikowski, Ann, author.
 
 Title: Robotics for young children : STEM activities and simple coding / Ann Gadzikowski.
 
 Description: First edition. | St. Paul, MN : Redleaf Press, 2017. | Includes bibliographical references.
 
-Identifiers: LCCN 2017023634 (print) | LCCN 2017041119 (ebook) | ISBN 9781605545455 (ebook) | ISBN 9781605545448 (paperback)
-
 Subjects: LCSH: Robotics—Study and teaching (Early childhood)—Activity programs. | BISAC: EDUCATION / Teaching Methods & Materials / Science & Technology. | EDUCATION / Preschool & Kindergarten. | EDUCATION / Teaching Methods & Materials / Mathematics. | EDUCATION / Computers & Technology.
-
-Classification: LCC TJ211.26 (ebook) | LCC TJ211.26 .G33 2017 (print) | DDC 372.35/8—dc23 LC record available at https://lccn.loc.gov/2017023634
 
 To Beth Dirkes and Leslie Morrison, my crackerjack teammates at the Center for Talent Development, in appreciation for your insights, encouragement, and inspiration
 
@@ -219,8 +206,6 @@ Give Me Back My Caps!
 
 When I began learning more about technology and how to teach young children computer science concepts, I was surprised to discover that I actually knew more than I thought I did. You too may find that you already know a lot about computer science, coding, and robotics. In my work training teachers to implement technol­ ogy programs, I’ve found that teachers, especially old-​school teachers like me, feel reassured when we can connect familiar classroom tools and activities with inno­ vations in robotics and computer science. I like to use the picture book Caps for Sale to demonstrate these connections.
 
-Caps for Sale, written by Esphyr Slobodkina and first published in 1940, is the story of a peddler who sells caps. Many early childhood teachers have fond associations with this book. They may remember it from their own childhoods or from reading it to children in class. When I am conducting a teacher workshop on the topic of technology and I pull out a worn copy of Caps for Sale, the teachers visibly relax. Here is something they know, something that feels familiar and comfortable.
-
 Before we review the story together, I ask the teachers, “How is the experience of the peddler similar to the experience of a computer programmer?” I ask them to take a moment to imagine a computer programmer at work. What does the
 
 ## INTRODUCTION
@@ -293,8 +278,6 @@ While some early childhood teachers may fear that introducing technology to youn
 
 What Is a Robot?
 
-The Important Thing about Robots The Important Book, written by Margaret Wise Brown and illustrated by Leonard Weisgard, was first published in 1949. The book describes the essential heart of everyday objects or experiences with poetic simplicity. “The important thing about a spoon is that you eat with it. It’s like a little shovel. . . . The important thing about rain is that it is wet” (Brown 1999, 1–4). If Margaret Wise Brown were writing The Important Book today, I think she might include something like this: “The impor­ tant thing about a robot is that you program it. It’s a machine that will do what you tell it to do. A robot might have a face or arms, but it’s not alive. You use a computer to tell the robot what to do. But the important thing about a robot is that you pro­ gram it.” The activities in this chapter help teachers observe and listen to children to gain some understanding of what children already know and believe about robots.
-
 These activities also promote children’s critical thinking about what makes a robot a robot and dispel some of the misconceptions about robots. One misconception both children and adults often hold is that robots might, at any moment, become crazed or evil, out of control, on the fritz. The image of the evil or dangerously malfunctioning robot has been a staple of stories in popular culture for a long time, especially since the creepy robotic computer HAL in Stanley Kubrick’s 1968 film 2001: A Space Odyssey. The image of the evil robot appears in children’s litera­ ture and media as well, from the out-​of-​control robot in Katie Van Camp’s picture book CookieBot! to the evil robots in the animated Transformers movies. Children and adults need to know that robots are machines invented and programmed by humans. We tell robots what to do by creating commands in the form of com­ puter code. Most of the activities in this chapter are open-​ended and give children
 
 ## CHAPTER
@@ -364,8 +347,6 @@ As you explore the personification of machines with children, here are some big 
 ▸▸Can a machine have a face?
 
 ▸▸What is a face? Why do people need faces?
-
-This activity may arise as a spontaneous teachable moment, when a conversa­ tion leads to the topic of faces. This could also be a planned activity or a discussion for circle time or a learning center. To prepare, collect images of machines with faces. Here are some sources you could use: •• www.technocrazed.com/amazing-​faces-​hidden-​in-​everyday-​objects -​photo-​gallery •• www.dailymail.co.uk/news/article-​2265793/Who-​looking-​Even -​mundane-​everyday-​objects-​reveal-​friendly-​face.html •• www.nydailynews.com/life-​style/hidden-​faces-​everyday-​objects -​gallery-​1.1248057 Visit these sites and prepare the photos in advance. Many websites have adver­ tisements that are not appropriate for young children to view.
 
 When you begin talking with children about robots, they may express the idea (based on what they’ve seen in movies or on TV) that robots share many physical characteristics with people. Many of the robot characters they’ve seen have arms, legs, and faces. This activity provides an opportunity to explore the idea that some robots and machines have faces or can be imagined with faces. It also provides an opportunity for children to compare robots to the machines they see in their own environment at school or at home.
 

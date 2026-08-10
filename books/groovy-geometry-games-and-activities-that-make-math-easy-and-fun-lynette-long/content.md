@@ -1,10 +1,5 @@
 # Groovy Geometry Games and Activities That Make Math Easy and Fun Lynette Long Z Library
 
-> 来源文件：pre_Groovy_Geometry_Games_and_Activities_That_Make_Math_Easy_and_Fun_Lynette_Long_Z_Library.txt
-> 字符数（约）：68925
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Magical Math ROOVY EO M E T R Y Games and Activities That Make Math Easy and Fun Lynette Long John Wiley & Sons, Inc.
 
 ROOVY EO M E T R Y
@@ -15,15 +10,9 @@ Magical Math ROOVY EO M E T R Y Games and Activities That Make Math Easy and Fun
 
 This book is printed on acid-free paper.
 
-Illustrations copyright © 2003 by Tina Cash-Walsh Published by John Wiley & Sons, Inc., Hoboken, New Jersey Published simultaneously in Canada Design and production by Navta Associates, Inc.
-
-No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, scanning, or otherwise, except as permitted under Section 107 or 108 of the 1976 United States Copyright Act, without either the prior written permission of the Publisher, or authorization through payment of the appropriate per-copy fee to the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923, (978) 750-8400, fax (978) 750-4470, or on the web at www.copyright.com. Requests to the Publisher for permission should be addressed to the Permissions Department, John Wiley & Sons, Inc., 111 River Street, Hoboken, NJ 07030, (201) 748-6011, fax (201) 748-6008, email: permcoordinator@wiley.com.
-
 The publisher and the author have made every reasonable effort to ensure that the experiments and activities in this book are safe when conducted as instructed but assume no responsibility for any damage caused or sustained while performing the experiments or activities in the book. Parents, guardians, and/or teachers should supervise young readers who undertake the experiments and activities in this book.
 
 For general information about our other products and services, please contact our Customer Care Department within the United States at (800) 762-2974, outside the United States at (317) 572-3993 or fax (317) 572-4002.
-
-Wiley also publishes its books in a variety of electronic formats. Some content that appears in print may not be available in electronic books. For more information about Wiley products, visit our Web site at www.wiley.com.
 
 Library of Congress Cataloging-in-Publication Data: Long, Lynette.
 
@@ -33,11 +22,7 @@ p. cm.
 
 Includes index.
 
-ISBN 0-471-21059-5 (pbk. : alk. paper)
-
 1. Geometry—Study and teaching (Elementary)—Activity programs. 2. Games in mathematics education. I. Title.
-
-QA462.2.G34 L36 2003 372.7—dc21 2002068996 Printed in the United States of America 10 9 8 7 6 5 4 3 2 1
 
 Contents I. The Magic of Geometry 1 II. Angles 3 1 Measure Up 5 2 Draw It! 8 3 Name Game 11 4 Angle Pairs 13 5 Color by Angles 15 6 Perpendicular Numbers 18 7 Right-Angle Scavenger Hunt 20 III. Triangles 23 8 Triangle Collage 25 9 Triangle Memory 27 10 Triangle Angles 29 11 Outside the Triangle 31 12 Triangle Area 35 13 Two the Same 39 14 How Tall? 42 15 Perfect Squares 45 16 Pythagorean Proof 49 IV. Quadrilaterals 53 17 Crazy about Quadrilaterals 55 18 Quadrilateral Angles 58 19 String Shapes 61 20 Doubt It! 62 21 Rectangle Race 64 22 Parallelogram Presto Change-O 66 23 Pattern Blocks 68 24 Shape Storybook 71 V. Circles 73 25 Around and Around 75 26 Finding Pi 77 27 Bicycle Odometer 80 28 Circle Area 81 29 Pizza Party 83 30 Central Angles 86 VI. Solids 89 31 Solid Shapes 91 32 Cereal Surfaces 94 33 Cylinder Surfaces 95 34 Cube Construction 97 35 Volume of a Cylinder 99 36 Building Blocks 101 VII. Odds and Ends 103 37 Shape Comparison 105 38 Bull’s Eye 107 39 Mystery Picture 110 40 Number Symmetry 112 Geometry Master Certificate 115
 

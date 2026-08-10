@@ -1,10 +1,5 @@
 # Game Theory Michael Maschler Shmuel Zamir Eilon Solan Z Library
 
-> 来源文件：pre_Game_Theory_Michael_Maschler_Shmuel_Zamir_Eilon_Solan_Z_Library.txt
-> 字符数（约）：264672
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Game Theory
 
 Covering both noncooperative and cooperative games, this comprehensive introduction to game theory also includes some advanced chapters on auctions, games with incomplete information, games with vector payoffs, stable matchings, and the bargaining set. Mathematically oriented, the book presents every theorem alongside a proof. The material is presented clearly and every concept is illustrated with concrete examples from a broad range of disciplines. With numerous exercises, the book is a thorough and extensive guide to game theory from undergraduate through graduate courses in economics, mathematics, computer science, engineering, and life sciences to being an authoritative reference for researchers.
@@ -15,10 +10,6 @@ Eilon Solan is a professor in the School of Mathematical Sciences at Tel Aviv Un
 
 Shmuel Zamir is a professor emeritus in the Department of Statistics and the Center for the Study of Rationality at the Hebrew University of Jerusalem in Israel. The main topics of his research are games with incomplete information and auction theory. He is the editor-in-chief of the International Journal of Game Theory.
 
-Game Theory MICHAEL MASCHLER EILON SOLAN SHMUEL ZAMIR Translated from Hebrew by Ziv Hellman English Editor Mike Borns cambridge university press Cambridge, New York, Melbourne, Madrid, Cape Town, Singapore, São Paulo, Delhi, Mexico City Cambridge University Press The Edinburgh Building, Cambridge CB2 8RU, UK Published in the United States of America by Cambridge University Press, New York www.cambridge.org Information on this title: www.cambridge.org/9781107005488 © The Estate of the late Michael Maschler, Eilon Solan and Shmuel Zamir 2013 This publication is in copyright. Subject to statutory exception and to the provisions of relevant collective licensing agreements, no reproduction of any part may take place without the written permission of Cambridge University Press.
-
-First published 2013 Printed in the United Kingdom at the University Press, Cambridge A catalog record for this publication is available from the British Library Library of Congress Cataloging in Publication data Zamir, Shmuel.
-
 [Toratha-mishakim. English]
 
 Game theory / Michael Maschler, Eilon Solan, Shmuel Zamir; translated from Hebrew by Ziv Hellman; English editor, Mike Borns.
@@ -27,11 +18,7 @@ pages cm Translation of: Toratha-mishakim / Shemu’el Zamir, Mikha’el Mashler
 
 Includes bibliographical references and index.
 
-ISBN 978-1-107-00548-8 (hardback)
-
 ## 1. Game theory. I. Maschler, Michael, 1927–2008. II. Solan, Eilon. III. Title
-
-QA269.Z3613 2013 519.3–dc23 2012050827 ISBN 978-1-107-00548-8 Hardback Cambridge University Press has no responsibility for the persistence or accuracy of URLs for external or third-party internet websites referred to in this publication, and does not guarantee that any content on such websites is, or will remain, accurate or appropriate.
 
 To Michael Maschler
 

@@ -1,25 +1,8 @@
 # Special Relativity and Classical Field Theory The Theoretical Minimum Leonard Susskind Art Friedman Z Library
 
-> 来源文件：pre_Special_Relativity_and_Classical_Field_Theory_The_Theoretical_Minimum_Leonard_Susskind_Art_Friedman_Z_Library.txt
-> 字符数（约）：283048
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Copyright Copyright © 2017 by Leonard Susskind and Art Friedman Hachette Book Group supports the right to free expression and the value of copyright. The purpose of copyright is to encourage writers and artists to produce the creative works that enrich our culture.
-
-The scanning, uploading, and distribution of this book without permission is a theft of the author’s intellectual property. If you would like permission to use material from the book (other than for review purposes), please contact permissions@hbgusa.com. Thank you for your support of the author’s rights.
-
-Basic Books Hachette Book Group 1290 Avenue of the Americas, New York, NY 10104 www.basicbooks.com First Edition: September 2017 Published by Basic Books, an imprint of Perseus Books, LLC, a subsidiary of Hachette Book Group, Inc.
-
-The Hachette Speakers Bureau provides a wide range of authors for speaking events. To find out more, go to www.hachettespeakersbureau.com or call (866) 376-6591.
-
 The publisher is not responsible for websites (or their content) that are not owned by the publisher.
 
-Library of Congress Control Number: 2017935228 ISBNs: 978-0-465-09334-2 (hardcover); 978-0-465-09335-9 (e-book)
-
 LSC-C E3-20170905-JV-PC
-
-Contents Cover Title Page Copyright Dedication Preface Introduction Lecture 1: The Lorentz Transformation Lecture 2: Velocities and 4-Vectors Lecture 3: Relativistic Laws of Motion Lecture 4: Classical Field Theory Lecture 5: Particles and Fields Interlude: Crazy Units Lecture 6: The Lorentz Force Law Lecture 7: Fundamental Principles and Gauge Invariance Lecture 8: Maxwell’s Equations Lecture 9: Physical Consequences of Maxwell’s Equations Lecture 10: Maxwell From Lagrange Lecture 11: Fields and Classical Mechanics About the Author Also by the Authors
 
 ## Appendix A: Magnetic Monopoles: Lenny Fools Art
 
@@ -30,8 +13,6 @@ Index
 To my father and my hero, a man of courage, Benjamin Susskind —LS To my wife, Maggie, and her parents, David and Barbara Sloan —AF
 
 This book is the third volume of the Theoretical Minimum series. The first volume, The Theoretical Minimum: What You Need to Know to Start Doing Physics, covered classical mechanics, which is the core of any physics education. We will refer to it from time to time simply as Volume I. The second book (Volume II) explains quantum mechanics and its relationship to classical mechanics. This third volume covers special relativity and classical field theory.
-
-The books in this series run parallel to Leonard Susskind’s videos, available on the Web through Stanford University (see www.theoreticalminimum.com for a listing). While covering the same general topics as the videos, the books contain additional details and topics that don’t appear in the videos.
 
 Preface This book is one of several that closely follow my Internet course series, The Theoretical Minimum. My coauthor, Art Friedman, was a student in these courses. The book benefited from the fact that Art was learning the subject and was therefore sensitive to the issues that might be confusing to the beginner. During the course of writing, we had a lot of fun, and we’ve tried to convey some of that spirit with a bit of humor. If you don’t get it, ignore it.
 

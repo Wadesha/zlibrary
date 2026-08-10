@@ -1,10 +1,5 @@
 # China Travel Guide Lonely Planet Z Library
 
-> 来源文件：pre_China_Travel_Guide_Lonely_Planet_Z_Library.txt
-> 字符数（约）：3497106
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 China Travel Guide Lonely Planet #1 best-selling guide to China Lonely Planet China is your passport to the most relevant, up-to- date advice on what to see and skip, and what hidden discoveries await you. Try dumplings in Beijing, visit the Great Wall or cruise down the Yangzi River; all with your trusted travel companion. Get to the heart of China and begin your journey now!
 
 Inside Lonely Planet China: Colour maps and images throughout Highlights and itineraries help you tailor your trip to your personal needs and interests Insider tips to save time and money and get around like a local, avoiding crowds and trouble spots Essential info at your fingertips - hours of operation, phone numbers, websites, transit tips, prices Honest reviews for all budgets - eating, sleeping, sight-seeing, going out, shopping, hidden gems that most guidebooks miss Cultural insights give you a richer, more rewarding travel experience - customs, history, art, religion, cinema, calligraphy, architecture, martial...
@@ -65,21 +60,13 @@ Follow your nose in China and you won't want to stop travelling.
 
 Diversity China is vast. Off-the-scale massive. A riveting jumble of wildly differing dialects and climatic and topographical extremes, it's like several different countries rolled into one. Take your pick from the tossed-salad ethnic mix of the southwest, the yak-butter-illuminated temples of Xiàhé, a journey along the dusty Silk Road, spending the night at Everest Base Camp or getting into your glad rags for a night on the Shànghǎi tiles. You're spoilt for choice: whether you’re an urban traveller, hiker, cyclist, explorer, backpacker, irrepressible museum-goer or faddish foodie, China’s diversity is second to none.
 
-Traditional dancers leaving the stage at the Summer Palace, Běijīng | MATT MUNRO/LONELY PLANET ©
-
 Why I Love China By Damian Harper, Writer A passion for Chinese martial arts saw me enrolling for a four-year degree in Chinese at university in London back in the 1990s. They were fun days, when travelling China was testing but exciting in equal measure. Hot spots like Píngyáo were unheard of and Shànghǎi’s Pǔdōng was a cocktail-free flatland. I could say it's the fantastic food, the awesome landscapes, the thrill of train travel, the delightful people or pitching up in a small town I’ve never been to before, and I wouldn’t be lying. But it’s the Chinese language I still love most of all.
 
 China's Top 30 Forbidden City Not a city and no longer forbidden, Běijīng’s enormous palace is the be-all-and-end-all of dynastic grandeur with its vast halls and splendid gates. No other place in China teems with so much history, legend and good old-fashioned imperial intrigue. You may get totally lost here but you’ll always find something to write about on the first postcard you can lay your hands on. The complex also heads the list with one of China’s most attractive admission prices and almost endless value- for-money sightseeing.
 
-SEAN PAVONE/SHUTTERSTOCK ©
-
 Top Experiences Great Wall Spotting it from space is both tough and pointless: the only place you can truly put the Great Wall under your feet is in China. Select the Great Wall according to taste: perfectly chiselled, dilapidated, stripped of its bricks, overrun with saplings, coiling splendidly into the hills or returning to dust. The fortification is a fitting symbol of those perennial Chinese traits: diligence, mass manpower, ambitious vision and engineering skill (coupled with a distrust of the neighbours).
 
-Bādálǐng Great Wall | FEIYUEZHANGJIE/SHUTTERSTOCK ©
-
 Top Experiences The Bund, Shànghǎi More than just a city, Shànghǎi is the country’s neon-lit beacon of change, opportunity and modernity. Its sights set squarely on the not- too-distant future, Shànghǎi offers a taste of all the superlatives China can dare to dream up, from the world’s highest observation deck to its fastest commercially operating train. Whether you’re just pulling in after an epic 44-hour train trip from Xīnjiāng or it’s your first stop, you’ll find plenty to indulge in here. Start with the Bund, Shànghǎi’s iconic riverfront area.
-
-SEAN PAVONE/SHUTTERSTOCK ©
 
 Top Experiences The Lí River & Cycling Yángshuò It’s hard to exaggerate the beauty of Yángshuò and the Lí River area, renowned for classic images of mossy-green jagged limestone peaks providing a backdrop for tall bamboo fronds leaning over bubbling streams, wallowing water buffaloes and farmers sowing rice paddies.
 
@@ -87,115 +74,65 @@ Ride a bamboo raft along the river and you’ll understand why this stunning rur
 
 Another popular way to appreciate the scenery is a bike tour along the Yùlóng River.
 
-Lí River, Guìlín | APHOTOSTORY/SHUTTERSTOCK © ©
-
 Top Experiences Dūnhuáng Where China starts transforming into a lunar desertscape in the far west, the handsome oasis town of Dūnhuáng is a natural staging post for dusty Silk Road explorers. Mountainous sand dunes swell outside town while Great Wall fragments lie scoured by abrasive desert winds, but it is the magnificent caves at Mògāo that truly dazzle. Mògāo is the cream of China’s crop of Buddhist caves, and its statues are ineffably sublime and some of the nation’s most priceless cultural treasures.
-
-Crescent Moon Lake | RAT007/SHUTTERSTOCK ©
 
 Top Experiences China’s Cuisine Say zàijiàn (goodbye) to that Chinatown schlock and nǐhǎo (hello) to a whole new world of food and flavour. For Peking duck and dumplings galore, Běijīng's a good place to start, but you don't have to travel far to find that China truly is your oyster, from the liquid fire of a Chóngqìng hotpot to the dainty dim sum of Hong Kong. You’ll see things you’ve never seen before, eat things you’ve never heard of and drink things that could lift a rocket into orbit.
 
-Dim sum, Hong Kong | NIPON LAICHAROENCHOKCHAI/SHUTTERSTOCK ©
-
 Top Experiences Hiking Lóngjĭ Rice Terraces After a bumpy bus ride to northern Guǎngxī, you’ll be dazzled by one of China’s most archetypal and photographed landscapes: the splendidly named Lóngjǐ (Dragon’s Backbone) Rice Terraces. A region that's a beguiling patchwork of minority villages and layers of waterlogged terraces climbing the hillsides, you’ll be enticed into a game of village-hopping. The most invigorating walk between Píng’ān and Dàzhài villages offers the most spine-tingling views. Visit after the summer rains when the fields are glistening with reflections.
-
-BIHAIBO/GETTY IMAGES © ©
 
 Top Experiences Terracotta Warriors Standing silent guard over their emperor for over two millennia, the terracotta warriors are one of the most extraordinary archaeological discoveries ever made. It’s not just that there are thousands of the life- sized figures lined up in battle formation; it’s the fact that no two of them are alike – each one is animated with a distinct expression. This is an army and one made up entirely of individuals. Gazing at these skilfully sculpted faces brings the past alive with a unique intensity.
 
-BULE SKY STUDIO/SHUTTERSTOCK ©
-
 Top Experiences Zhāngjiājiè Claimed by some to be the inspiration behind Pandora's floating mountains in the hit film Avatar, Zhāngjiājiè's otherworldly rock towers do indeed seem like they come from another planet. Rising from the misty subtropical forests of northwest Húnán, more than 3000 karst pinnacles form a landscape so surreal it is, arguably, unmatched by any other in China. Raft along a river, hike to your heart's content, walk along a petrifying glass walkway, or just spend hours filling up the memory card on your camera.
-
-LZF/GETTY IMAGES ©
 
 Top Experiences French Concession, Shànghǎi The French Concession is Shànghǎi sunny-side up, at its coolest, hippest and most alluring. Once home to the bulk of Shànghǎi’s adventurers, revolutionaries, gangsters, prostitutes and writers – though ironically many of them weren’t French – the former concession (also called Frenchtown) is the most graceful part of Pǔxī.
 
 The Paris of the East turns on its European charms to maximum effect here, where leafy streets and 1920s villas meet art deco apartment blocks, elegant restaurants and chic bars.
 
-GIFTOGRAPHY/SHUTTERSTOCK ©
-
 Top Experiences Huángshān & Hui Villages Shrouded in mist and light rain more than 200 days a year, and maddeningly crowded most of the time, Huángshān has an appeal that attracts millions of annual visitors. Perhaps it’s the barren landscape, or an otherworldly vibe on the mountain. Mist – a fickle mistress – rolls in and out at will; spindly bent pines stick out like lone pins across sheer craggy granite faces. Not far from the base are the perfectly preserved Hui villages including Xīdì and Hóngcūn. Unesco, Ang Lee and Zhang Yimou were captivated – you will be too.
-
-Mist on Huángshān | PAVEL ILYUKHIN/SHUTTERSTOCK ©
 
 Top Experiences Cruising up Victoria Harbour A buzzer sounds, you bolt for the gangplank. A whistle blows, your boat chugs forward. Beyond the waves, one of the world’s most famous views unfolds – Hong Kong’s skyscrapers in their steel and neon brilliance, against a backdrop of mountains. You’re on the Star Ferry, a legendary service that’s been carrying passengers between Hong Kong Island and Kowloon Peninsula since the 19th century. Ten minutes later, a hemp rope is cast, then a bell rings, and you alight. At only HK$2, this is possibly the world’s best-value cruise.
 
-COMEZORA/GETTY IMAGES ©
-
 Top Experiences Hiking in Jiǔzhàigōu National Park Exploring the forested valleys of Jiǔzhàigōu National Park – past bluer-than-blue lakes and small Tibetan villages, in the shadow of snow-brushed mountains – was always a highlight of any trip to Sìchuān province, but the excellent ecotourism scheme in the restricted Zhārú Valley means travellers can hike and camp their way around this stunning part of southwest China. Guides speak English and all camping equipment is provided, so all you need to bring is your sense of adventure and a spare set of camera batteries.
 
-DULYANUT SWDP/GETTY IMAGES ©
-
 Top Experiences Fènghuáng Houses perched precariously on stilts, ancestral halls, crumbling temples and gate towers set amid a warren of back alleys full of shops selling mysterious foods and medicines – it’s enough on its own to make the ancient town of Fènghuáng an essential stop. Add in the seductive setting on either side of the Tuó River and the chance to stay at an inn right by the water, and you have one of the most evocative towns in the land.
-
-KITCHAKRON/GETTY IMAGES ©
 
 Top Experiences The Silk Road There are other Silk Road cities in countries such as Uzbekistan and Turkmenistan, but an impressive length of the historic route runs through China, dotted with west and northwest China's pervasive Muslim heritage and fragments from earlier Buddhist civilisations along its trail. You may not be setting off on horse or camel-back from Xī'ān, but hopping on a bus still allows you to follow the route as ancient traders once did – mile by mile, town by town, dune by dune.
 
 Far-off Kashgar is the ultimate Silk Road town and remains a unique melting pot of peoples.
 
-Grand Sunday Bazaar, Kashgar | KEREN SU/GETTY IMAGES ©
-
 Top Experiences Píngyáo Time-warped Píngyáo is a true gem: an intact, walled Chinese town with an unbroken sense of continuity to its Qing dynasty heyday.
 
 Píngyáo ticks most of your China boxes with a flourish: imposing city walls, atmospheric alleys, ancient shopfronts, traditional courtyard houses, some excellent hotels, hospitable locals and all in a compact area. You can travel the length and breadth of China and not find another town like it. Step back in time and spend a few days here – it's unique.
 
-LMSPENCER/SHUTTERSTOCK ©
-
 Top Experiences Yúngāng Caves Buddhist art taken to sublime heights, these 5th-century caves house some of the most remarkable statues in all of China. Carved out of the harsh yellow earth of Shānxī and surrounded by superb frescoes, the statues inside the caves represent the highpoint of the Tuoba people’s culture and draw on influences from as far away as Greece and Persia. Marvel at how the pigment clinging to some of them has miraculously survived 1500-odd years, and admire how sacred the statuary remains to Buddhist worshippers today.
 
-CORLAFFRA/SHUTTERSTOCK ©
-
 Top Experiences Tiger Leaping Gorge Picture snowcapped mountains rising on either side of a gorge so deep that you can be 2km above the river rushing across the rocks far below. Then imagine winding up and down trails that pass through tiny farming villages, where you can rest while enjoying views so glorious they defy superlatives. Cutting through remote northwest Yúnnán for 16km, Tiger Leaping Gorge is a simply unmissable experience. Hikers returning from the gorge invariably give it glowing reviews.
-
-MARTINHO SMART/SHUTTERSTOCK ©
 
 Top Experiences Běijīng’s Hútòng To get under the skin of the capital, you need to get lost at least once in its enchanting, ancient alleyways. Hútòng are Běijīng’s heart and soul; it’s in these alleys that criss-cross the centre of the city that you’ll discover the capital’s unique street life. Despite its march into the 21st century, Běijīng’s true charms – heavenly courtyard architecture, pinched lanes and a strong sense of community – are not high-rise.
 
 It’s easy to find that out; just check into a courtyard hotel and true Běijīng will be right on your doorstep.
 
-MATT MUNRO/LONELY PLANET ©
-
 Top Experiences Karakoram Highway The Karakoram Highway is one of the most dramatic roads in the world, linking the ancient Silk Road city of Kashgar with Pakistan over the Khunjerab Pass. A trip here takes you past soaring snowcapped peaks, plate glass lakes backed by sand dunes and verdant valleys where yaks and horses graze and lonely yurts dot the horizon. Even if you don’t plan to continue into Pakistan, journeying to the town of Tashkurgan will easily rank as one of your most extraordinary experiences in China.
-
-BEIBAOKE/SHUTTERSTOCK ©
 
 Top Experiences Labrang Monastery If you can’t make it to Tibet, visit the Gānsù province town of Xiàhé, a more accessible part of the former Tibetan region of Amdo. One moment you are in Han China, the next you are virtually in Tibet.
 
 Here, Labrang Monastery attracts legions of suntanned Tibetan pilgrims who perambulate single-mindedly around the huge monastery’s prayer-wheel-lined kora (pilgrim path). As a strong source of spiritual power, the monastery casts its spell far and wide, and with great hiking opportunities plus an intriguing ethnic mix, it’s a fascinating corner of China.
 
-WARWICK KENT/GETTY IMAGES ©
-
 Top Experiences Yuányáng Rice Terraces Hewn out of hills that stretch off into the far distance, the rice terraces of Yuányáng are testimony to the wonderfully intimate relationship the local Hani people have with the sublime landscape they live in. Rising like giant steps, the intricate terraces are a stunning sight at any time of year. But when they are flooded in winter and the sun’s rays are dancing off the water at sunrise or sunset, they’re absolutely mesmerising and some of the most photogenic spectacles that China has to offer.
-
-ALEXGCS/GETTY IMAGES ©
 
 Top Experiences Grand Buddha, Lè Shān You can read all the stats you like about Lè Shān’s Grand Buddha statue – yes, its ears really are 7m long! – but until you descend the steps alongside the world’s tallest Buddha statue and stand beside its feet, with its toenails at the same level as your eyes, you can’t really comprehend just how vast it is. Still not impressed? Consider this, then: the huge stone statue was carved painstakingly into the riverside cliff face more than 1200 years ago.
 
-LMSPENCER/SHUTTERSTOCK ©
-
 Top Experiences Fújiàn's Tǔlóu Roundhouses Rising up in colonies from the hilly borderlands of Fújiàn and Guǎngdōng, the stupendous tǔlóu roundhouses house entire villages, even though occupant numbers are way down these days. The imposing and well-defended bastions of wood and earth – not all circular it must be added – can be most easily found in the Fújiàn counties of Nánjìng and Yǒngdìng. Do the right thing and spend the night in one: this is a vanishing way of life, the pastoral setting is quite superb and the architecture is unique.
 
-FOTOTRAV/GETTY IMAGES ©
-
 Top Experiences Mystic Tài Shān A visit to China just isn’t complete without scaling a sacred mountain or two, and antediluvian Tài Shān in Shāndōng province is the granddaddy of them all. Climb the Taoist mountain and you’ll live to 100, they say, even if you feel you are going to drop dead with exhaustion on the gruelling Path of 18 Bends (lightweights can hitch a ride on the cable car instead). The views are outstanding and with Tài Shān’s mountainous aspect in the east, summit sunrises are the order of the day.
-
-STRIPPED PIXEL/SHUTTERSTOCK ©
 
 Top Experiences Yangzi River Cruise Snow melting from the world’s ‘third pole’ – the high-altitude Tibet– Qīnghǎi plateau – is the source of China’s mighty, life-giving Yangzi.
 
 The country’s longest river, the Yangzi surges west–east across the nation before pouring into the Pacific Ocean. It reaches a crescendo with the Three Gorges, carved out through the millennia by the inexorable persistence of the powerful waters. The gorges are a magnificent spectacle and a Yangzi River cruise is a rare chance to hang up your travelling hat, take a seat and leisurely watch the drama unfold.
 
-JEJIM/SHUTTERSTOCK ©
-
 Top Experiences Diāolóu in Kāipíng If you only have time for one attraction in Guǎngdōng, Kāipíng’s diāolóu should be it. Approximately 1800 outlandishly designed watchtowers and fortified residences are scattered higgledy-piggledy in the farmland in Kāipíng, a town not far from Guǎngzhōu. These sturdy bastions built in the early 20th century may not be what you’d typically expect in the Middle Kingdom, but they inspire awe with their eccentric fusion of foreign and domestic architectural styles. Greek, Roman, Gothic, Byzantine and baroque – you name it, they’ve got it.
 
-SINO IMAGES/GETTY IMAGES ©
-
 Top Experiences Mt Kailash, Western Tibet Worshipped by more than a billion Buddhists and Hindus, Asia’s most sacred mountain rises from the Barkha plain like a giant four-sided 6714m-high chörten (stupa). Throw in stunning nearby Lake Manasarovar and a basin that forms the source of four of Asia’s greatest rivers, and it’s clear that this place is special. Travelling here to one of the world’s most beautiful and remote corners brings a bonus: the three-day pilgrim path around the mountain erases the sins of a lifetime.
-
-PHILIP YUAN/SHUTTERSTOCK ©
 
 Top Experiences Lhasa The holy city of Lhasa is the perfect introduction to Tibet, and just arriving here can make the hairs stand up on the back of your neck.
 
@@ -203,11 +140,7 @@ The spectacular prayer halls of the Potala Palace, the medieval Jokhang Temple a
 
 The whitewashed alleys of the old town hold the real heart of the Tibetan quarter, and you could spend hours here wandering around backstreet handicraft workshops, hidden temples and local teahouses.
 
-Potala Palace | HFZIMAGES/SHUTTERSTOCK ©
-
 Top Experiences Cycling Hǎinán The same blue skies and balmy weather that make China’s only tropical island ideal for a do-nothing holiday, make it superb for exploring on a bicycle. Hit the east for picturesque rice-growing valleys, spectacular bays and China's finest beaches. And don’t miss the sparsely populated central highlands, a densely forested region that’s home to the island’s original settlers, the Li and the Miao. Here, even the road more frequently taken is still not taken by many at all.
-
-Sānyà, Hǎinán | SHAN.SHIHAN/GETTY IMAGES ©
 
 Need to Know Currency yuán (元; ¥)
 
@@ -239,21 +172,9 @@ ADomestic tourism is at a low ebb, but things are busy and expensive for Chinese
 
 AWeather is bitterly cold in the north and at altitude, and only warm in the far south.
 
-Useful Websites Lonely Planet (www.lonelyplanet.com/china) Destination information, hotel bookings, traveller forum and more.
-
-Ctrip (www.english.ctrip.com) Hotel booking, air and train ticketing.
-
-Chinasmack (www.chinasmack.com) Human-interest stories and videos.
-
-Popupchinese (www.popupchinese.com) Excellent podcasts (great for learning Chinese).
-
-Far West China (www.farwestchina.com) Indispensable resource for Silk Roaders.
-
 Important Numbers Ambulance Fire Police Country code (China/Hong Kong/Macau)
 
 86/852/853 International access code Directory assistance Exchange Rates Australia A$1 ¥4.90 Canada C$1 ¥5.10
-
-Euro zone €1 ¥7.40 Hong Kong HK$1 ¥0.80 Japan ¥100 ¥6.30 New Zealand NZ$1 ¥4.70 UK UK£1 ¥9.70 US US$1 ¥6.60 For current exchange rates, see www.xe.com.
 
 Daily Costs Budget: Less than ¥200 ADorm bed: ¥40–60 AFood markets, street food: ¥40 ABike hire or other transport: ¥20 AFree museums Midrange: ¥200–1000 ADouble room in a midrange hotel: ¥200–600 ALunch and dinner in local restaurants: ¥80–100 ADrinks in a bar: ¥60 ATaxis: ¥60 Top end: More than ¥1000 ADouble room in a top-end hotel: ¥600 and up ALunch and dinner in excellent local or hotel restaurants: ¥300 AShopping at top-end shops: ¥300 ATwo tickets to Chinese opera: ¥300
 
@@ -268,8 +189,6 @@ Restaurants Open from around 10.30am to 11pm; some shut at around 2pm and reopen
 Bars Open in the late afternoon, shutting around midnight or later.
 
 Shops Open daily 10am to 10pm. Same for department stores and shopping malls.
-
-Arriving in China Běijīng Capital Airport (北京首都国际机场; Běijīng Shǒudū Guójì Jīchǎng, PEK %010 6454 1100; www.en.bcia.com.cn) Airport Express train services run every 10 minutes.
 
 The airport bus runs to central Běijīng every 10 to 20 minutes. A taxi will cost ¥90 to ¥120.
 
@@ -364,8 +283,6 @@ Imperial Palace Manchu splendour in Shěnyáng within the former Manchurian hear
 Xī’ān Shaanxi home of the Terracotta Warriors, an imposing Ming city wall and traces of the city’s astonishing Tang apogee.
 
 Chéngdé Summer bolt-hole of the Qing emperors, with palatial remains and a riveting brood of Tibetan-style temples.
-
-Summer Palace, Běijīng | HUNG CHUNG CHIH/SHUTTERSTOCK © The Great Wall The Wall most famously belongs to Běijīng, but fragments leave a ragged band across much of north China, trailing from the North Korean border to the wind-scoured deserts of China’s wild northwest.
 
 Jiànkòu Běijīng’s prime chunk of ruin, a sublime portrait of disintegrating brickwork, overgrown with saplings and immersed in a magnificent mountain panorama.
 
@@ -491,8 +408,6 @@ Kashgar Dusty Central Asian outpost and Uighur China’s most famous town, on th
 
 Bayanhot Easily reached just over the border from Níngxià, this town is a fascinating introduction to west Inner Mongolia and its awesome desertscapes.
 
-Woman in traditional Miao dress | MARK READ/LONELY PLANET ©
-
 Stunning Scenery You haven’t really experienced China until you’ve had your socks blown off by one of its scenic marvels. China’s constructed splendours give cities such as Shànghǎi head-turning cachet, but nature steals the show.
 
 Yángshuò You’ve probably seen the karst topography before in picture-perfect photographs; now see the real thing.
@@ -505,19 +420,13 @@ Chìshuǐ Trek past waterfalls and through ancient forests dating to the Jurassi
 
 Yuányáng Rice Terraces Be transfixed by the dazzling display of light and water.
 
-Yuányáng Rice Terraces | NUTEXZLES/GETTY IMAGES/MOMENT RF ©
-
 Month by Month TOP EVENTS Monlam Great Prayer Festival, February or March Naadam, July Bookworm International Literary Festival in Běijīng, March Spring Festival, January, February or March Luòyáng Peony Festival, April January North China is a deep freeze but the south is less bitter; preparations for the Lunar New Year get underway well in advance of the festival, which arrives any time between late January and March.
 
 z Spring Festival The Lunar New Year is family-focused, with dining on dumplings and gift- giving of hóngbāo (red envelopes stuffed with money). Most families feast together on New Year’s Eve, then China goes on a big week-long holiday.
 
 Expect fireworks, parades, temple fairs and lots of colour.
 
-Spring Festival decorations, Tàiyuán | MEIQIANBAO/SHUTTERSTOCKS © z Harbin Ice & Snow Festival Hēilóngjiāng’s good-looking capital Harbin is aglow with rainbow lights refracted through fanciful buildings and statues carved from blocks of ice.
-
 It’s peak season and outrageously cold.
-
-Ice & Snow Festival, Harbin | TONYV3112/SHUTTERSTOCK © 1 Yuányáng Rice Terraces The watery winter is the optimum season for the rice terraces’ spectacular combination of liquid and light. Don’t forget your camera, or your sense of wonder.
 
 February North China remains shockingly icy and dry but things are slowly warming up in Hong Kong and Macau. The Lunar New Year could well be underway, but sort out your tickets well in advance.
 
@@ -554,8 +463,6 @@ the fourth lunar month, usually in May.
 z Buddha's Birthday in Xiàhé A fascinating time to enjoy the Tibetan charms of Gānsù province's Xiàhé, when Buddhist monks make charitable handouts to beggars and the streets throng with pilgrims.
 
 z Circling the Mountain Festival On Pǎomǎ Shān, Kāngdìng’s famous festival celebrates the birthday of Sakyamuni, the historical Buddha, with a magnificent display of horse racing, wrestling and a street fair.
-
-2 Great Wall Marathon Experience the true meaning of pain. Not for the infirm or unfit. See www.great-wall-marathon.com for more details.
 
 June Most of China is hot and getting hotter. Once-frozen areas, such as Jílín’s Heaven Lake, are accessible – and nature springs instantly to life. The great China peak tourist season is cranking up.
 
@@ -737,8 +644,6 @@ Begin with mouth-numbing mápó dòufu (spicy beancurd dish), followed by the ce
 
 Chóngqìng Chóngqìng hotpot is ideal for banishing the bitter cold of a northern winter, while in its home town – one of China's 'three furnaces' on the Yangzi River – old folk devour the spiciest of hotpots in summer with little regard for the sweltering weather.
 
-Chóngqìng hotpot | YANG YIDONG/SHUTTERSTOCK © Xīnjiāng
-
 To sample the full range of Uighur food, make your way to Kashgar, where you'll have your pick of street food and night markets.
 
 Fruit is a big deal in Xīnjiāng, from Hāmì's tawuz (watermelon) to Turpan's uzum (grapes) and yimish (raisins). Market heave with fruit from July to September.
@@ -773,13 +678,7 @@ If you want to say ‘I am a vegetarian’ in Chinese, the phrase to use is 'wǒ
 
 COOKING COURSES Want to learn how to make Chinese cuisine while on your travels? Popular cooking classes can be found at The Hutong and Black Sesame Kitchen in Běijīng and the Kitchen At... in Shànghǎi.
 
-More options include: Chinese Cooking Workshop ( GOOGLE MAP  ; www.chinesecookingworkshop.com; 108-109, 2 Dongping Rd; 东平路2号 courses from ¥150-200; mHengshan Rd, Shanghai Library)
-
 Learn different Chinese cooking styles from dim sum to Sichuanese. It also offers market tours and courses for kids. In Shànghǎi.
-
-Home's Cooking (www.homescookingstudio.com; classes HK$600) This highly rated cooking class, run out of the owner's home, offers three-hour morning or afternoon sessions. Students cook a three-course Chinese meal: think spring rolls, lotus-leaf chicken and ginger pudding. Classes include a trip to a local wet market and lunch or dinner. In Hong Kong.
-
-Martha Sherpa ( GOOGLE MAP  ; %852 2381 0132; www.marthasherpa.com; Flat F, 14th fl, Wah Lai Mansion, 62-76 Marble Rd, North Point; courses HK$1680; mNorth Point, exit A2)
 
 Expert Cantonese home-cook Martha Sherpa (her last name comes from her Nepali husband) has taught the likes of former Australian PM Julia Gillard how to cook dim sum and Hong Kong favourites. Small group classes cover topics like wok cookery, dim sum and vegetarian Chinese.
 
@@ -847,10 +746,6 @@ was traditionally the most hazardous, where hidden shoals and reefs routinely ho
 
 Apart from the top-end luxury cruises, tour boats no longer pass through the monumental Three Gorges Dam, although many tours offer the option of a visit to the dam by bus. The passenger ferries and hydrofoils tend to finish (or begin) their journey at Tàipíng Creek Port (太平溪港; Tàipińgxī Gǎng), upstream from the dam. From here, two types of shuttle bus wait to take you into Yíchāng (one hour). One is free and takes you to the old ferry port (老码头; lǎo mǎtóu) in the centre of town. The other costs ¥10 and drops you at Yíchāng East Train Station (火车东站; Huǒchē Dōngzhàn). Ordinary tourist boats tend to use Máopíng Port (茅坪港; Máopíng Gǎng), from where you can at least see the dam, and which is also connected to Yíchāng via shuttle buses.
 
-Xīlíng Gorge | BLEAKSTAR/SHUTTERSTOCK ©
-
-Wū Gorge | CACAROOT/GETTY IMAGES ©
-
 EFFECTS OF THE THREE GORGES DAM The dwarfing chasms of rock, sculpted over aeons by the irresistible volume of water, are the Yangzi River’s most fabled stretch. Yet the construction of the controversial and record-breaking Three Gorges Dam (三峡大坝; Sānxiá Dàbà) cloaked the gorges in as much uncertainty as their famous mists: have the gorges been humbled or can they somehow shrug off the rising waters?
 
 In brief, the gorges have been undoubtedly affected by the rising waters.
@@ -866,12 +761,6 @@ Cabins have air-con, TV (perhaps satellite), fridge/minibar and sometimes more. 
 Top-end cruises feature daily buffet meals, generally including both Western and Chinese food. Seating is assigned, and meals are included in your ticket
 
 price. There will also be on-board bars and lounges, sometimes featuring cabaret shows and the like. Cabins are like comfy hotel rooms, complete with private balconies and daily maid service.
-
-BEST TOP-END CRUISES AViking River Cruises (www.vikingrivercruises.com; from US$3010) Very luxurious cruise, offering five-day cruises from Chóngqìng to Wǔhàn, as part of a larger 13-day tour of China.
-
-ACentury Cruises (www.centuryrivercruises.com; from US$450) Claims to be the most luxurious cruise service on the Yangzi. Ships are new, service is first class and facilities are top notch.
-
-AVictoria Cruises (www.victoriacruises.com; from US$550) Comfortable four-day trips between Chóngqìng and Yíchāng. Older boats than some other operators, but has excellent English-speaking guides.
 
 Tourist Boats 普通游轮 Typically departing from Chóngqìng around 9pm, ordinary tourist cruise ships (普通游轮; pǔtōng yóulún) usually take just under 40 hours to reach Yíchāng (including three nights on board). Some boats stop at all the sights; others stop at just a few. They are less professional than the luxury tour cruises and are squarely aimed at domestic travellers (Chinese food, little English spoken).
 
@@ -1061,13 +950,9 @@ Sadly, as Běijīng continues to evolve, it is slowly shedding its links to the 
 
 Preservation campaign groups have their work cut out to save what’s left.
 
-Forbidden City, Běijīng | BEN BRYANT/SHUTTERSTOCK © Language Fewer people than you think speak English in Běijīng, and most people speak none at all (taxi drivers, for example). However, many people who work in the tourist industry do speak at least some English (particularly in hotels and hostels), so, as a tourist, you'll be able to get by without speaking Chinese.
-
 That said, you'll enrich your experience here hugely, and gain the respect of the locals, if you make a stab at learning some Chinese before you come.
 
 B2 B6 B1 C6 C2 B1 B4 B3 C3 C4 B4 B3 B3 B2 B2 B5 C3 B2 B2 C6 B2 C3 C1 D4 Forbidden City 1 Top Sights 1 Forbidden City 2 Gate of Heavenly Peace 3 Jǐngshān Park 4 Workers Cultural Palace 1 Sights 5 Belvedere of Pleasant Sounds 6 Gate of Divine Prowess – exit only 7 Gate of Supreme Harmony 8 Hall of Central Harmony 9 Hall of Clocks & Watches 10 Hall of Literary Brilliance 11 Hall of Martial Valor 12 Hall of Preserving Harmony 13 Hall of Supreme Harmony 14 Hall of Union 15 Imperial Garden 16 Meridian Gate 17 Nine Dragon Screen 18 Palace of Earthly Tranquillity 19 Palace of Heavenly Purity 20 Sacrificial Hall 21 Shùnzhēn Gate 22 Treasure Gallery 2 Activities, Courses & Tours 23 Black Sesame Kitchen 5 Eating 24 Temple Restaurant Bites
-
-D1 HISTORIC SITE 6 Drinking & Nightlife 25 Oasis Cafe 1 Sights Forbidden City & Dōngchéng Central o Forbidden City (紫禁城, Zǐjìn Chéng MAP  GOOGLE MAP  ; %010 8500 7114; www.dpm.org.cn; Nov- Mar ¥40, Apr-Oct ¥60, Clock Exhibition Hall ¥10, Hall of Jewellery ¥10, audio guide ¥40; h8.30am-5pm Apr-Oct, to 4.30pm Nov-Mar, last entry 1hr prior to closing, closed Mon Sep-Jun; bLine 1 to Tian'anmen West or Tian'anmen East)
 
 Ringed by a 52m-wide moat at the very heart of Běijīng, the Forbidden City is China’s largest and best-preserved collection of ancient buildings, and the largest palace complex in the world. So called because it was off limits for 500 years, when it was steeped in stultifying ritual and Byzantine regal protocol, the other-worldly palace was the reclusive home to two dynasties of imperial rule until the Republic overthrew the last Qing emperor. It has been Unesco World Heritage–listed site since 1987.
 
@@ -1121,8 +1006,6 @@ Western & Eastern Palaces A dozen smaller palace courtyards lie to the west and 
 
 SQUARE o Tiān’ānmén Square (天安门广场, Tiān’ānmén Guǎngchǎng MAP  GOOGLE MAP  ; bLine 1 to Tian’anmen West, Tian’anmen East, or Line 2 to Qianmen)F Flanked by stern 1950s Soviet-style buildings and ringed by white perimeter fences, the world’s largest public square (440,000 sq metres) is an immense flatland of paving stones at the heart of Běijīng. If you get up early, you can watch the flag-raising ceremony at sunrise, performed by a troop of People’s Liberation Army (PLA) soldiers drilled to march at precisely 108 paces per minute, 75cm per pace. The soldiers emerge through the Gate of Heavenly Peace to goose-step impeccably across Chang’an Jie; all traffic is halted. The same ceremony in reverse is performed at sunset.
 
-MUSEUM o National Museum of China (中国国际博物馆, Zhōngguó Guójì Bówùguǎn MAP  GOOGLE MAP  ; http://en.chnmuseum.cn; Guangchangdongce Lu, Tiān’ānmén Sq; 天安门，广场东侧路 audio guide ¥30; h9am-5pm Tue-Sun, last entry 4pm; bLine 1 to Tian'anmen East, exit D)F Běijīng’s premier museum is housed in an immense 1950s communist-style building on the eastern side of Tiān’ānmén Sq, and is well worth visiting. The Ancient China exhibition on the basement floor is outstanding. You could easily spend a couple of hours in this exhibition alone. It contains dozens and dozens of stunning examples of ceramics, calligraphy jade and bronze pieces dating from prehistoric China through to the Qing dynasty. It's all displayed beautifully in modern, spacious, low-lit exhibition halls. You'll need your passport to gain entry.
-
 B7 Dōngchéng Central 1 Top Sights 1 Chairman Mao Memorial Hall
 
 B7 B8 B7 C7 B8 B7 G4 E4 D5 G5 C3 D5 C5 B2 E4 B3 C2 G7 E5 F2 D5 C8 C3 B8 C2 D6 F8 2 National Museum of China 3 Qianmen 4 Tiān'ānmén Square 1 Sights 5 Běijīng Police Museum 6 Běijīng Railway Museum 7 Former Foreign Legation Quarter 8 Galaxy Soho 9 Shǐjiā Hútòng Museum 10 St Joseph's Church 11 Zhìhuà Temple 2 Activities, Courses & Tours 12 Bike Běijīng 13 Mílún Kungfu School 4 Sleeping 14 Běijīng Feel Inn 15 City Walls Courtyard 16 Húlú Hotel 17 Jǐngshān Garden Hotel 18 Temple Hotel 19 W Běijīng 5 Eating 20 Běijīng Dàdǒng Roast Duck Restaurant 21 Crescent Moon Muslim Restaurant 22 Din Tai Fung 23 Lìqún Roast Duck Restaurant 24 Little Yúnnán 25 Lost Heaven 26 Temple Restaurant 27 Wángfǔjǐng Snack Street 28 Yīzhēn Yuán
@@ -1173,8 +1056,6 @@ This unusual former observatory is mounted on the battlements of a watchtower ly
 
 Kublai, like later Ming and Qing emperors, relied heavily on astrologers to plan military endeavours. The present observatory – the only surviving example of several constructed during the Jin, Yuan, Ming and Qing dynasties – was built between 1437 and 1446 to facilitate both astrological predictions and seafaring navigation.
 
-Poly Art Museum (保利艺术博物馆, Bǎolì Yìshù Bówùguǎn MAP  GOOGLE MAP  ; %010 6500 8117; www.polymuseum.com; 9th fl, Poly Plaza, 14 Dongzhimen Nandajie, 东直门南大街14号保利大厦9层 ¥20, audio guide ¥10; h9.30am-5pm, closed Sun; bLine 2 to Dongsi Shitiao, exit D)
-
 This small but exquisite museum displays a glorious array of ancient bronzes from the Shang and Zhou dynasties, a magnificent high-water mark for bronze production. Check out the intricate scaling on the ‘Zūn vessel in the shape of a Phoenix' (倗季凤鸟尊) or the ‘Yǒu with Divine Faces’ (神面卣), with its elephant head on the side of the vessel. The detailed animist patterns on the Gangbo You (棡柏卣) are similarly vivid and fascinating.
 
 Former Foreign Legation Quarter (租界区, Zūjiè Qū MAP  GOOGLE MAP  ; bLine 2 to Qianmen, exit A or Lines 2, 5 to Chongwenmen, exit A1)
@@ -1189,8 +1070,6 @@ Time your arrival for 11am or 2pm to see the clock performance in which choice t
 
 BĚIJĪNG MUSEUM PASS If you’re staying in the capital for a while, the Běijīng Museum Pass (博物馆
 
-HISTORIC SITE 通票; Bówùguǎn Tōngpiào %010 6222 3793; www.bowuguan.com.cn; annual pass ¥120) – website and phone service in Chinese only – is a decent investment that will save you both money and queuing for tickets. For ¥120 you get either complimentary access or discounted admission (typically 50%) to 112 tourist attractions, including some 61 museums, plus temples and tourist sights in and around Běijīng. Attractions covered include the Great Wall at Bādàlǐng, Front Gate, the Drum Tower, the Bell Tower, the Confucius Temple, the Botanic Gardens, the Railway Museum, Dōngyuè Temple, White Cloud Temple and Zhìhuà Temple. Not all the sights are worth visiting, but you only have to visit a small selection to make it worth the money. The pass comes in the form of a booklet (Chinese with minimal English), valid from 1 January to 31 December in any one year. The pass, which is harder to obtain as the year goes on, can be picked up from participating museums and most post offices; see its website for locations.
-
 Drum Tower & Dōngchéng North o Drum Tower (鼓楼, Gǔlóu MAP  GOOGLE MAP  ; Gulou Dongdajie, 鼓楼东大街 ¥20, both towers through ticket ¥30; h9am-5pm, last entry 4.40pm; bLine 8 to Shichahai, exit A2)
 
 Along with the older-looking Bell Tower, which stands behind it, the magnificent red-painted Drum Tower used to be the city’s official timekeeper, with drums and bells beaten and rung to mark the times of the day. Originally built in 1272, the Drum Tower was once the heart of the Mongol capital of Dàdū, as Běijīng was then known. It was destroyed in a fire before a replacement was built, slightly to the east of the original location, in 1420. The current structure is a Qing dynasty version of that 1420 tower.
@@ -1198,8 +1077,6 @@ Along with the older-looking Bell Tower, which stands behind it, the magnificent
 A4 A4 F3 E3 E2 E3 D3 Drum Tower & Dōngchéng North 1 Top Sights 1 Bell Tower 2 Drum Tower 3 Lama Temple 1 Sights 4 Arrow Factory 5 Běijīng Cultural & Art Centre 6 Confucius Temple & Imperial College 7 Fire God Temple
 
 F4 E2 F5 A3 E2 C5 F6 E3 B4 C5 D3 A4 G4 C4 B6 A5 D4 D2 B4 D5 D3 G4 F6 B5 F4 C6 2 Activities, Courses & Tours 8 Culture Yard 9 Natooke 10 The Hutong 4 Sleeping 11 Běijīng Drum Tower International Youth Hostel 12 Confucius International Youth Hostel 13 Courtyard 7 14 Dragon King Hostel 15 Nostalgia Hotel 16 Orchid 17 Peking Youth Hostel 18 Yo-Yo Hotel 5 Eating 19 4corners 20 Bǎihé Vegetarian Restaurant 21 Dàlǐ Courtyard 22 Georg 23 Kǎo Ròu Jì 24 Punk Rock Noodles 25 Stuff'd Toast 26 Zhāng Māma 6 Drinking & Nightlife 27 Cafe Confucius 28 Capital Spirits 29 Distillery 30 Great Leap Brewing 31 Panda Brew 32 Pass By Bar 3 Entertainment
-
-A5 D3 E2 E4 C6 C5 D2 A6 A5 BUDDHIST TEMPLE 33 East Shore Jazz Café 34 Hot Cat Club 35 School Bar 7 Shopping 36 Giant 37 Nanluogu Xiang 38 Plastered 8 39 Pottery Workshop 40 Three Stone Kite Shop 41 Yandai Xiejie o Lama Temple (雍和宫, Yōnghé Gōng MAP  GOOGLE MAP  ; www.yonghegong.cn; 12 Yonghegong Dajie, 北新桥雍和宫大街12号 ¥25, English audio guide ¥50; h9am-4.30pm; bLines 2, 5 to Yonghegong-Lama Temple, exit C)
 
 This exceptional temple is a glittering attraction in Běijīng’s Buddhist firmament. If you only have time for one temple (the Temple of Heaven isn’t really a temple) make it this one, where riveting roofs, fabulous frescoes, magnificent decorative arches, tapestries, eye-popping carpentry, Tibetan prayer wheels, tantric statues and a superb pair of Chinese lions mingle with dense clouds of incense.
 
@@ -1229,11 +1106,7 @@ On the site is a marvellous, glazed, three-gate, single-eaved decorative archway
 
 Some of Běijīng’s last remaining páilou (decorated archways) bravely survive in the tree-lined street outside (Guozijian Jie) and the entire area of hútòng here is now dotted with small cafes, cute restaurants and boutique shops, making it an ideal place to browse in low gear. At the western end of Guozijian Jie stands a diminutive Fire God Temple (火神庙; Huǒshén Miào MAP  GOOGLE MAP  ; Guozijian Jie; 国子监街 bLines 2, 5 to Yonghegong-Lama Temple, exit C), built in 1802 and now occupied by Běijīng residents.
 
-GALLERY GALLERY Běijīng Cultural & Art Centre (北京文化艺术中心, Běijīng Wénhuà Yìshù Zhōngxīn, BCAC MAP  GOOGLE MAP  ; %010 8408 4977; www.bcac.org.cn; 3 Wudaoying Hutong, 五道营胡同3号 ¥10; h10am- 8pm Tue-Sun; bLines 2, 5 to Yonghegong-Lama Temple, exit D)
-
 In a beautiful hútòng courtyard building along one of Beijing's coolest streets, this not-for-profit art gallery has three slick exhibition spaces that cover anything from contemporary and traditional arts to design, fashion and architecture. It generally shows a mix of local and international artists.
-
-Arrow Factory (箭厂空间, Jiànchǎng Kōngjiān MAP  GOOGLE MAP  ; www.arrowfactory.org.cn; 38 Jianchang Hutong, off Guozijian Jie, 国子监街，箭厂胡同38号 h24hr; bLines 2, 5 to Yonghegong Lama Temple or Line 2 to Andingmen)
 
 This tiny, 15-sq-metre, storefront gallery occupies a former vegetable shop and is now an independently run art space for avant-garde installations and modern-art projects designed to be viewed from the street, 24 hours a day, seven days a week. You can't enter the room, but its all-glass front means you can peer in whenever you walk past.
 
@@ -1250,8 +1123,6 @@ BĚIJĪNG IN...
 TWO DAYS Stroll around the incense smoke–filled courtyards of the Lama Temple before hopping over the road to the even more laid-back Confucius Temple. Grab a coffee and lunch at Cafe Confucius before walking through the hútòng (narrow alleyways) to the ancient Drum & Bell Towers and finishing off the day with a meal in Dàlǐ Courtyard.
 
 Get up early to enjoy the Temple of Heaven Park at its magical, early- morning best: filled with opera-singing locals rather than photo-snapping tourists. Make it juicy lamb kebabs for lunch at Yīzhēn Yuán before walking via Tiān’ānmén Sq to the Forbidden City. Finish the day by tucking into Běijīng’s signature dish – roast duck – at one of the city's most celebrated restaurants – Lìqún Roast Duck Restaurant.
-
-BĚIJĪNG | ZHAO JIAN KANG/SHUTTERSTOCK © FOUR DAYS Follow the itinerary above, but save plenty of energy for the trip of a lifetime on day three: your journey to the Great Wall. There are plenty of options,
 
 from a quick half-day jaunt at touristy Bādálǐng to a strenuous hike along wild, unrestored sections such as Gǔběikǒu or Jiànkòu. Mùtiányù makes a good option for families. Pack a picnic and don’t expect to get back to the city until nightfall.
 
@@ -1323,8 +1194,6 @@ PARK (前门大街 MAP  GOOGLE MAP  ; bQianmen)
 
 Restored to resemble a late Qing dynasty street scene and wildly popular with domestic visitors, this ancient thoroughfare (once known as Zhengyangmen Dajie, or Facing the Sun Gate St) is something of a tourist theme park. It is especially lively at its northern end, as more (overpriced) restaurants and shops open up, while the rebuilt Qiánmén Decorative Arch (the original was torn down in the 1950s) looks handsome.
 
-DAILY COSTS Budget: Less than ¥250 AHostel dorm: ¥60–80 AA meal in a local restaurant: ¥20–40 ASubway tickets: ¥3–8 Midrange: ¥250–800 AStandard private room: ¥260–500 AA meal in a midrange restaurant: ¥40–80 AShort taxi trip: ¥15 AAdmission to main sights: ¥20–60 Top end: More than ¥800 ALuxury accommodation: from ¥1000 AA meal at an international restaurant: from ¥100 ADrinks at cocktail bars: ¥60–80 AGuided tours: ¥200–1000 Běihǎi Park & Xīchéng North o Běihǎi Park (北海公园, Běihǎi Gōngyuán MAP  GOOGLE MAP  ; %010 6403 1102; www.beihaipark.com.cn/en; high/low season ¥10/5, through ticket ¥20/15, audio guide
-
 ¥60; h6am-9pm, sights to 5pm; bLine 6 to Beihai North or Nanluoguxiang, or Line 4 to Xisi)
 
 Běihǎi Park, northwest of the Forbidden City, is largely occupied by the North Sea (Běihǎi), a huge lake fringed by willows that freezes in winter and blooms with lotuses in summer. Old folk dance together outside temple halls and come twilight, young couples cuddle on benches. It’s a restful place to stroll around, rent a rowing boat in summer and watch calligraphers practising characters on paving slabs with fat brushes and water.
@@ -1358,8 +1227,6 @@ D3 D2
 Prince Gong’s Residence (恭王府, Gōngwáng Fǔ MAP  GOOGLE MAP  ; %010 8328 8149; 14 Liuyin Jie; ¥40, tours incl short opera show & tea ceremony ¥70; h8am-5pm Apr-Oct, 9am-4pm Nov-Mar; bLine 6 to Beihai North, exit B)
 
 The historic courtyard home of Prince Gong's (aka Prince Kung) mansion is one of Běijīng’s largest private residential compounds. It remains one of the capital’s more attractive retreats, decorated with rockeries, plants, pools, pavilions and elaborately carved gateways, although it can get very crowded with tour groups. It's reputed to be the model for Chinese writer Cáo Xuěqín’s 18th-century classic Dream of the Red Mansions.
-
-o Capital Museum (首都博物馆, Shǒudū Bówùguǎn GOOGLE MAP  ; %010 6339 3339; www.capitalmuseum.org.cn; 16 Fuxingmenwai Dajie, 复兴门外大街16号 h9am-5pm Tue- Sun, last entry 4pm; bLine 1 to Muxidi, exit C1)F Behind the riveting good looks of the sleek Capital Museum are some first-
 
 ## BUDDHIST TEMPLE
 
@@ -1431,27 +1298,9 @@ Dating back to the 10th century, this unique mosque blends traditional Chinese t
 
 ## RESOURCES
 
-ABeijinger (www.thebeijinger.com) Eating and entertainment listings, blog posts and forums.
-
-ATimeout Běijīng (www.timeoutbeijing.com) The best listings mag and a useful, well-designed website.
-
-ABěijīng Cream (http://beijingcream.com) Lighthearted Běijīng-based blog covering China-wide current affairs.
-
-ASinica Podcast (http://popupchinese.com) Popular, uncensored current-affairs podcast based in Běijīng.
-
-AAir Pollution (http://aqicn.org/city/beijing) Real-time Air Quality Index (AQI) for Běijīng (and other cities).
-
-ABěijīng Cultural Heritage Protection Center (www.bjchp.org) Info on protecting Běijīng’s hútòng (alleyways).
-
-AThorn Tree (www.lonelyplanet.com/thorntree) China branch of our long-standing travel forum includes plenty of Běijīng info.
-
-ALonely Planet (www.lonelyplanet.com/china/beijing) Destination
-
 ## ARCHITECTURE
 
 information, hotel bookings and more.
-
-Sānlǐtún & Cháoyáng Bird’s Nest (北京国家体育场, Běijīng Guójiā Tǐyùchǎng, Beijing National Stadium GOOGLE MAP  ; http://cyvu.org/english/; Beijing Olympic Park, 奥林匹克公园 ¥50; h9am-6.30pm Apr- Oct, to 5pm Nov-Mar,; bLine 8 to Olympic Sports Center, exit B2)
 
 The centerpiece from the 2008 Olympics is the National Stadium, known colloquially as the Bird’s Nest (鸟巢; Niǎocháo). It's one primarily for lovers of contemporary architecture, or those interested in sporting history.
 
@@ -1493,13 +1342,9 @@ also known as Dàshānzi (大山子), is Běijīng’s main concentration of con
 
 You could easily spend half a day wandering around the complex. There are signboards with English-language maps to guide you around.
 
-Some of the bigger galleries include the 798 Art Factory (798艺术工厂; 798 Yìshù Gōngchǎng GOOGLE MAP  ; %186 1132 2248; 4 Jiuxianqiao Lu, 798 Art District; 酒仙桥路4号大山子艺术区 h10am-6pm; bLine 14 to Jiangtai, exit A), a Bauhaus hangar-like space with its ceiling decorated in 1950s Maoist slogans, and original machinery scattered among changing art exhibitions by Chinese and foreign artists. The Danish gallery Faurschou Foundation Beijing (林冠基金会北京; Línguān Jījīn Huì Běijīng GOOGLE MAP  ; www.faurschou.com; 2 Jiuxuanquao Lu, 798 Art District; 酒仙桥路2号798艺术区 h10am-6pm; bLine 14 to Jiangtai, exit A) has exhibitions by internationally acclaimed artists, with past shows including the likes of Lucien Freud, Ai Wei Wei, Andy Warhol and Yoko Ono. Springs Centre of the Arts (泉空间; Quán Kōngjiān GOOGLE MAP  ; %010 5762 6373; www.springsart.com; 2 Jiuxianqiao Lu, 798 Art District; 酒仙桥路2号大山子艺术区 ¥10; h10am-6pm Tue- Sun; bLine 14 to Jiangtai, exit A) also exhibits headliner artists from both China and abroad. UCCA (Ullens Center for Contemporary Art; 尤伦斯当代艺术中心, Yóulúnsī Dāngdài Yìshù Zhōngxīn GOOGLE MAP  ; %010 5780 0200; http://ucca.org.cn/en/; 4 Jiuxianqiao Lu, 798 Art District; 酒仙桥路4号大山子艺术区 ¥10-60; h10am-7pm Tue-Sun; bLine 14 to Jiangtai, exit A) is another big- money gallery with immense, modern exhibition halls and the attached cool UCCA Design Store (尤伦斯当代艺术中心; Yóulúnsī Dāngdài Yìshù Zhōngxīn GOOGLE MAP  ; %010 5780 0224; http://ucca.org.cn/en/uccastore/; 4 Jiuxianqiao Lu, 798 Art District; 酒仙桥路4号798艺术区 h10am-6pm Tue-Sun; bLine 14 to Jiangtai, exit A).
-
 Other highlights include the Xin Dong Cheng Space for Contemporary Art (程昕东国际当代艺术空间; Chéngxīndōng Guójì Dāngdài Yìshù Kōngjiān GOOGLE MAP  ; 4 Jiuxianqiao Lu, 798 Art District; 酒仙桥路4号大山子艺术区 h10am-6.30pm Tue-Sun; bLine 14 to Jiangtai, exit A) which showcases young avant-garde Chinese artists in a lovely space; Zhu Bingren Art Museum (朱
 
 ## HISTORIC SITE
-
-炳仁美术博物馆; Zhūbǐngrén Měishù Bówùguǎn GOOGLE MAP  ; www.cu100.com; 798 Art District; 大山子艺术区 h10am-6pm; bLine 14 to Jiangtai, exit A) features the copper and bronze sculpture of renowned Shandong artist Zhu Bingren. Also check out the Pyongyang-based Mansudae Art Studio (万寿台创作社; Wànshòutái Chuàngzuò Shè GOOGLE MAP  ; %010 5978 9317; www.mansudaeartstudio.com; 2 Jiuxianqiao Lu, 798 Art District; 酒仙桥路 2号大山子艺术区 h10am-6pm Tue-Sun; bLine 14 to Jiangtai, exit A), which exhibits North Korean artists and sells DPRK collectibles.
 
 There are also plenty of quirky open-air sculptures scattered around the site. The caged dinosaurs out front of 798 Art Factory are popular, while original socialist realism sculptures in the southwest of the complex include a headless Chairman Mao statue. Nearby are shipping containers used as a canvas by graffiti artists. The area around 798 Live House is the best for stencils, murals and other street art.
 
@@ -1599,17 +1444,11 @@ At the time of writing it was expected that sometime in the future the subway wi
 
 ## MARTIAL ARTS
 
-C Courses o Black Sesame Kitchen (黑芝麻厨房, Hēi Zhīma Chúfáng MAP  GOOGLE MAP  ; %136 9147 4408; www.blacksesamekitchen.com; 28 Zhong Lao Hutong, 中老胡同28号 hcooking classes 11am Wed & Sun, dinner 7pm Tue & Fri; bLines 6, 8 to Nanluoguxiang, exit A)
-
 Runs popular cooking classes with a variety of recipes from across China.
 
 Booking is essential; walk-in guests are not encouraged as this is a residential courtyard. You can also eat here at one of its communal dinners (set menu ¥300 per person, including wine and beer) – it gets rave reviews – but again you must book.
 
-o The Hutong ( MAP  GOOGLE MAP  ; %159 0104 6127; www.thehutong.com; 1 Jiudaowan Zhongxiang Hutong, off Shique Hutong, 北新桥石雀胡同九道弯中巷胡同1号 classes for members/non-members ¥260/300; h9.30am-10pm; bLine 5 to Beixinqiao, exit C)
-
 Down a maze of narrow alleys, the Hutong is a highly recommended Chinese-culture centre, run by a group of extremely knowledgable locals and expats. Classes are held in a peaceful converted courtyard, and focus on cooking and guided tours. See its website for the schedule.
-
-Mílún Kungfu School (弥纶传统武术学校, Mílún Chuántǒng Wǔshù Xuéxiào MAP  GOOGLE MAP  ; %138 1170 6568; www.kungfuinchina.com; 36 Ganyu Hutong, 甘雨胡同36号 per class ¥150, 10- class card ¥1100; h7-8.30pm Mon & Wed; bLine 5 to Dengshikou, exit A)
 
 Runs classes in various forms of traditional Chinese martial arts (from Shàolín kung fu to kickboxing) in a historic courtyard near Wángfǔjǐng shopping district. In summer, typically in August, classes are held in Rìtán Park. Has set-time drop-in classes, but can arrange individual schedules too.
 
@@ -1625,17 +1464,11 @@ Instruction is in Chinese, but with an English translator. Taichi classes are
 
 also available.
 
-China Culture Center (Kent Center; MAP  GOOGLE MAP  ; %weekdays 010 6432 9341, weekends 010 8420 0671; www.chinaculturecenter.org; Victoria Gardens D4, Chaoyang Gongyuan Xilu, 朝阳公园西路, 维多利亚花园D4 bLine 14 to Zaoying or Line 10 to Tuanjiehu, exit C)
-
 Offers a range of cultural programs taught in English and aimed squarely at foreign visitors and expats. The club also conducts popular tours around Běijīng and expeditions to other parts of China.
-
-Culture Yard (天井越洋, Tiānjǐng Yuèyáng MAP  GOOGLE MAP  ; %010 8404 4166; www.cultureyard.net; 10 Shique Hutong, 石雀胡同10号 h9am-9pm Mon-Fri, 10am-4pm Sat; bLine 5 to Beixinqiao, exit C)
 
 Tucked away down a hútòng, this cultural centre focuses on Chinese classes.
 
 Its main program is a six-week course (¥4500), but you can tailor courses to suit your needs. Its 'Survival Chinese' course is ideal for tourists.
-
-2 Activities o Bike Běijīng (康多自行车租赁, Kāngduō Zìxíngchē Zūlìn MAP  GOOGLE MAP  ; %010 6526 5857; www.bikebeijing.com; 81 Beiheyan Dajie, 北河沿大街81号 h8am-8pm; bLines 6, 8 to Nanluoguxiang, exit B, or Line 5 to Zhangzizhonglu, exit D)
 
 Rents a range of good-quality bikes, offering mountain bikes (¥200), road bikes (¥400) and ordinary city bikes (¥100); helmets inclusive. It also runs popular guided bike tours around the city (half-day tours from ¥300 to ¥400 per person, depending on group size) and beyond, including bike-and-hike trips to the Great Wall (¥1800 per person, including hotel pick-up and lunch).
 
@@ -1645,15 +1478,9 @@ Koryo Tours
 
 ## MASSAGE
 
-( MAP  GOOGLE MAP  ; %Běijīng 010 6416 7544; www.koryogroup.com; 27 Beisanlitun Nan; bLine 2 to Dongsi Shitiao, exit C, or Line 10 to Tuanjiehu, exit A)
-
 Long-established and reputable outfit that organises highly rated tours to North Korea.
 
-Běijīng Hikers (%010 6432 2786; www.beijinghikers.com; Galaxy Building, bldg A, room 4012, 10 Jiuxianqiao Zhonglu, 星科大厦A座4012室, 酒仙桥中路10号 per person from ¥380; h9am-6pm)
-
 Long-established outfit that organises some breathtaking hikes out of town on weekends, with a focus on the Great Wall. It can also arrange private trips.
-
-Dragonfly Therapeutic Retreat ( MAP  GOOGLE MAP  ; %010 8529 6331; www.dragonfly.net.cn; Kerry Centre, 1 Guanghua Lu, 嘉里中心光华路1号 1hr massage from ¥188; h10am-11pm; bLine 10 to Jintaixizhao, exit A)
 
 Swish, professional operation located in the basement of the Kerry Centre.
 
@@ -1675,8 +1502,6 @@ Alternatively, any number of pedicab touts infest the roads around Hòuhǎi Lake
 
 You can book rooms directly through hotel websites, or over the phone.
 
-Forbidden City & Dōngchéng Central o City Walls Courtyard (城墙旅舍, Chéngqiáng Lǚshè MAP  GOOGLE MAP  ; %010 6402 7805; www.beijingcitywalls.com; 57 Nianzi Hutong, 碾子胡同57号 dm/s/tw ¥100/260/420; aiW; bLines 6, 8 to Nanluoguxiang, exit A)
-
 Hidden among a maze of hútòng is this attractive choice within a fabulous location – hidden away from more touristy areas in one of the city’s most historic neighbourhoods. Private rooms and dorms all have private bathrooms; spacious four-bed dorms are especially great value. The main selling point is its traditional courtyard decorated with eclectic knick-knacks, plants and couches to enjoy cheap large beers (¥4), ground coffee (¥10) and meals.
 
 It's led by the personable Rick, along with other friendly, helpful staff.
@@ -1695,17 +1520,11 @@ $
 
 $$ To get here, from Jingshan Houjie, look for the hútòng opening just east of Jǐngshān Table Tennis Park. Walk up the hútòng and follow it around to the right and then left; the hostel is on the left-hand side.
 
-Dragon King Hostel (万里路青年酒店东四九条店, Wànlǐlù Qīngnián Jiǔdiàn Dōngsì Jiǔtiáo Diàn MAP GOOGLE MAP  ; %010 8400 2660; www.9dragons.hostel.com; 78 Dongsi Jiutiao, 东四九条78号 dm ¥80-100, d ¥300; aW; bLine 5 to Zhangzizhonglu, exit C)
-
 Down a hútòng featuring some rowdy local restaurants, Dragon King is classic Běijīng with its historic building festooned with Chinese lanterns.
 
 There are rough edges, but the good outweighs the bad, especially its central location close to all the action. Dorm beds have curtains for privacy, while private rooms have plenty of space. Its cosy backpacker-style pub does cheap beer and food.
 
-Běijīng Feel Inn (非凡客栈, Fēifán Kèzhàn MAP  GOOGLE MAP  ; %010 6528 7418, 139 1040 9166; www.beijingfeelinn.com; 2 Ciqiku Hutong, off Nanheyan Dajie, 南河沿大街，磁器库胡同2 号 dm ¥50-60, r from ¥268; aiW; bLine 1 to Tian'anmen East, exit A)
-
 A small, understated hostel with a hidden, backstreet location, Feel Inn is tucked away among the hútòng containing the little-known Pǔdù Temple, and yet is just a short walk from big-hitters such as the Forbidden City, Tiān'ānmén Sq and the shops on Wangfujing Dajie. Has simple, clean rooms, a small bar-restaurant and wi-fi throughout. It rents bikes for ¥30 per day.
-
-o Jǐngshān Garden Hotel (景山花园酒店, Jǐngshān Huāyuán Jiǔdiàn MAP  GOOGLE MAP  ; %010 8404 7979; www.jingshangardenhotel.com; 68 Sanyanjing Hutong, off Jingshan Dongjie, 景山东街，三眼井胡同68号 r incl breakfast ¥550-650; aiW; bLines 6, 8 to Nanluoguxiang, exit A)
 
 This delightful, unfussy, two-storey guesthouse has bright, spacious rooms
 
@@ -1719,13 +1538,9 @@ $$$ surrounding a large, peaceful, flower-filled courtyard. First-floor rooms ar
 
 Walking down Sanyuanjing Hutong from the direction of Jǐngshān Park, turn right down the first alleyway, and the hotel is at the end.
 
-Húlú Hotel (壶庐宾馆, Húlú Bīnguǎn MAP  GOOGLE MAP  ; %010 6543 9229; www.thehuluhotel.com; 91 Yanyue Hutong, off Dongsi Nandajie, 东四南大街，演乐胡同91 号 r ¥718-900; bLine 5 to Dengshikou, exit A, or Lines 5, 6 to Dongsi, exit C)
-
 Hulu's converted hútòng space is minimalist throughout, with cool grey- painted wood beams, slate-tiled bathrooms and a cleverly renovated courtyard that combines its old-Běijīng roots with a modern, comfortable design. The atmosphere is laid-back, and the young staff speak excellent English. There are three grades of room (size increases with price), all of which have large double beds – no twins.
 
 There's a homely cafe at reception that does breakfast, coffee and bar drinks. The small, leafy rooftop terrace is just the place to relax.
-
-o W Běijīng (北京长安街 W 酒店 MAP  GOOGLE MAP  ; %010 6515 8855; www.whotels.com/beijing; 2 Jianguomennan Jie, 建国门南大街2号 r from ¥2000; bLines 1, 2 to Jianguomen, exit B)
 
 The W is all about flashy installations that feel more nightclub than hotel.
 
@@ -1747,11 +1562,7 @@ $
 
 $ several restaurants, including the Kitchen Table with outdoor patio, open kitchen and herb garden, or Yen, which specialises in Peking duck.
 
-o Temple Hotel (东景缘, Dōngjǐng Yuán MAP  GOOGLE MAP  ; %010 8401 5680; www.thetemplehotel.com; 23 Shatan Beijie, off Wusi Dajie, 五四大街，沙滩北街23号 d/ste from ¥2000/4500; aW; bLines 6, 8 to Nanluoguxiang, exit B or Lines 5, 6 to Dongsi, exit E)
-
 Unrivalled by anything else on the Běijīng hotel scene, this unique heritage hotel forms part of a renovation project that was recognised by Unesco for its conservation efforts. A team spent five years renovating what was left of Zhīzhù Sì (智珠寺; Temple of Wisdom), a part-abandoned, 250-year-old Buddhist temple, and slowly transformed it into one of the most alluring places to stay in the capital.
-
-Drum Tower & Dōngchéng North o Běijīng Drum Tower International Youth Hostel (鼓韵青年旅舍, Gǔyùn Qīngnián Lǚshè MAP  GOOGLE MAP  ; %010 8401 6565; www.24hostel.com; 51 Jiugulou Dajie, 旧鼓楼大街 51号 dm/d from ¥88/288; aiW; bLines 2, 8 to Guloudajie, exit G)
 
 A large, dependable hostel, the Drum's point of difference is its capsule bunk beds (from ¥88), which are equipped with lockable doors. They offer complete privacy so it's a step up from the usual dorms, but their cramped interior won't suit claustrophobes. Private rooms, on the other hand, are massive and have plenty of natural light.
 
@@ -1769,17 +1580,11 @@ $
 
 ## COURTYARD HOTEL
 
-$$ %010 6403 2288; www.nostalgiahotelbeijing.com; 46 Fangjia Hutong, 安定门内大街，方家胡同46号 r from ¥428; aiW; bLine 5 to Beixinqiao, exit A)
-
 A good-value option if you don't fancy staying in a youth hostel, this large, funky hotel is housed in a small arts zone on trendy Fangjia Hutong. Rooms live up to its name and are decorated with a Chinese retro theme and knick- knacks throughout. The bathrooms sparkle.
 
 Staff on reception speak English, and there's lift access. There's a breakfast room, but no restaurant. To find it, enter the small arts zone named after its address (46 Fangjia Hutong) and walk to the far left corner of the complex.
 
-Confucius International Youth Hostel (雍圣轩青年酒店, Yōngshèngxuān Qīngnián Jiǔdiàn MAP  GOOGLE MAP  ; %010 6402 2082; www.confucious.hostel.com; 38 Wudaoying Hutong, 雍和宫大街，五道营胡同38号 dm/s/d ¥80/180/238; bLines 2, 5 to Yonghegong-Lama Temple, exit D)
-
 One of the cheapest places that's open to foreigners in this area, Confucius is all about its awesome location along this ultra-hip strip. It has a handful of simple, no-frills rooms off a small, covered courtyard, but there's no restaurant, bar or place to hang out.
-
-Peking Youth Hostel (北平国际青年旅社, Běipíng Guójì Qīngnián Lǚshè MAP  GOOGLE MAP  ; %010 8403 9098, 010 6401 3961; www.peking.hostel.com; 113 Nanluogu Xiang, 南锣鼓巷113号 dm/tw from ¥180/500; aiW; bLines 6, 8 to Nanluoguxiang, exit E)
 
 Slick, colourful, but rather cramped rooms are located round the back of the flower-filled Peking Cafe, which opens out onto Nanluogu Xiang. Prices reflect the sought-after (though, these days, frenetic) location rather than the size or quality of the rooms.
 
@@ -1793,19 +1598,13 @@ $$
 
 ## HUTONG HOTEL
 
-$$$ (兰花宾馆, Lánhuā Bīnguǎn MAP  GOOGLE MAP  ; %010 5799 0806; www.theorchidbeijing.com; 65 Baochao Hutong, 鼓楼东大街宝钞胡同65号 d ¥805-1800; aiW; bLines 2, 8 to Guloudajie, exit F, or Line 8 to Shichahai, exit A2)
-
 Opened by a Canadian guy and a Tibetan girl, this place may lack the history of other courtyard hotels, but it’s been renovated into a beautiful space, with a peaceful courtyard and some rooftop seating with distant views of the Drum and Bell Towers. Rooms are doubles only, and are small, but are tastefully decorated and come with Apple TV home-entertainment systems, complimentary loan of mobile phones and bike rental.
 
 There are also self-contained apartments with cooking facilities, and it has the well-regarded Toast restaurant.
 
 It does Great Wall tours (from ¥1100 including lunch, admission and transport), and can organise taxis for city tours. Hard to spot, the Orchid is down an unnamed, shoulder-width alleyway opposite Mr Shi’s Dumplings.
 
-Yo-Yo Hotel ( MAP  GOOGLE MAP  ; %010 5703 7655, 134 6636 4309; yanjiao@yoyozhu.com; 187 Andingmennei Dajie, 安定门内大街187号 r from ¥309; aW; bLine 2 to Andingmen)
-
 Stumbling distance from all of Beijing's coolest hútòng bars, and many major sights, this budget hotel is an excellent choice location-wise. It has a Southeast Asia–backpacker-kinda vibe, so there are some rough edges, but it's comfortable with boutiquey touches, and there's a cafe-bar upstairs. No English.
-
-Courtyard 7 (四合院酒店, Sìhéyuàn Jiǔdiàn MAP  GOOGLE MAP  ; %010 6406 0777; www.courtyard7.com; 7 Qiangulouyuan Hutong, off Nanluogu Xiang, 鼓楼东大街南锣鼓巷前鼓楼苑胡同7号 r incl breakfast ¥900-1200; aW; bLines 6, 8 to Nanluoguxiang, exit E)
 
 Immaculate rooms, decorated in traditional Chinese furniture, face onto a series of different-sized, 400-year-old courtyards, which over the years have
 
@@ -1821,11 +1620,7 @@ $
 
 $$$ been home to government ministers, rich merchants and even an army general. Despite the historical narrative, rooms still come with modern comforts such as underfloor heating, wi-fi and cable TV. Standard rooms are less atmospheric so upgrade to the superior rooms surrounding the courtyard.
 
-Temple of Heaven Park & Dōngchéng South Emperor (皇家驿站, Huángjiā Yìzhàn MAP  GOOGLE MAP  ; %010 6701 7790; www.theemperor.com.cn; 87 Xianyukou St, Qianmen Commercial Centre, 前门商业区鲜鱼口街87号 r ¥700; aWs; bQianmen)
-
 Brand new, this modernist hotel comes with a spa and a rooftop pool that enables you to laze in the sun while enjoying fine views over nearby Tiān'ānmén Sq. The cool, all-white rooms aren't huge, but the price is reasonable for a hotel of this quality and the location is perfect. Service is attentive and the atmosphere laid-back.
-
-Sānlǐtún & Cháoyáng Yoyo Hotel (优优客酒店, Yōuyōu Kèjiǔdiàn MAP  GOOGLE MAP  ; %010 6417 3388; www.yoyohotel.cn; Bldg 10 Dongsanjie Erjie, 三里屯北路东三街二街中10楼 r ¥369-399; aiW; bLine 10 to Tuanjiehu, exit A)
 
 There's a boutique feel here, but the rooms, especially bathrooms, are tiny.
 
@@ -1839,15 +1634,9 @@ $$$
 
 ## HOSTEL
 
-$ www.rosewoodhotels.com/en/beijing; Jing Guang Centre, East 3rd Middle Ring Rd, 呼家楼京广中心 r from ¥2000; aWs; bLine 10 to Jintaixizhao, exit A, or Lines 6, 10 to Hujialou, exit D)
-
 The elegant Rosewood fits modern luxury within a traditional Chinese design that incorporates decorative arts and a subtle yin-and-yang theme throughout.
 
 Its entry gate leaves a striking first impression with two large Jiao Tu (Sons of Dragon) sculptures that guard the hotel. The art-filled rooms are massive, with designer furniture, TV mirrors and automatic blinds that open to views of the iconic CCTV building.
-
-As well as the Mei Bar (魅酒吧; Mèi Jiǔbā MAP  GOOGLE MAP  ; http://mei- bar.com; 5th fl, Rosewood Beijing, Jing Guang Centre; 呼家楼京广中心北京瑰丽酒店5层 h6pm-2am Mon-Sat, 5pm-midnight Sun; W; bLine 10 to Jintaixizhao, exit A or Lines 6, 10 to Hujialou, exit D), its classy Country Kitchen restaurant is acclaimed for its Peking duck. There's also its elegant Sense Spa, and a glassed-roof swimming pool, candlelit at night and surrounded by lush plants.
-
-o Opposite House Hotel (瑜舍, Yúshè MAP  GOOGLE MAP  ; %010 6417 6688; www.theoppositehouse.com; Bldg 1, Village, 11 Sanlitun Lu, 三里屯路11号院1号楼 r from ¥2500; naiWs; bLine 10 to Tuanjiehu, exit A, or Agricultural Exhibition Center, exit D2)
 
 With see-all open-plan bathrooms, American oak bath-tubs, lovely mood lighting, underfloor heating, sliding doors, complimentary beers, TVs on extendable arms and a metal basin swimming pool, this trendy Swire-owned boutique hotel is top-drawer chic. The location is ideal for shopping, restaurants and drinking. No obvious sign. Just walk into the striking green glass cube of a building and ask.
 
@@ -1859,13 +1648,7 @@ $$ HÚTÒNG HOTEL $$$ ¥450-700; bLine 4 to Xisi, exit A)
 
 Down an atmospheric hútòng, you'll definitely feel like you're in Běijīng at this wonderful little hostel full of traditional charm and character. Rooms are clean, beds are comfortable and dorms have their own bathrooms. Staff are super friendly and speak good English. To find it, walk north on Xisi Beidajie from Xisi metro; it’s two hútòng up on the left.
 
-o Graceland Yard (觉品酒店, Juepin Jiudian MAP  GOOGLE MAP  ; %010 8328 8366; www.graceland- yardhotel.com; 9 Zhengjue Hutong, 正觉胡同9号 s/d/ste ¥666/799/999; iW; bLine 2 to Jishuitan, exit C)
-
 Graceland is an exquisitely renovated courtyard hotel, housed within the grounds of the abandoned, 500-year-old Zhèngjué Temple. Each of the eight rooms is slightly different – there are singles, doubles, twins, a couple of fabulous loft rooms and a suite – but each is decorated with style, using traditional Buddhist-themed furnishings. There's no restaurant – not even breakfast – but you're not short of eateries in the surrounding hútòng.
-
-Shíchàhǎi Sandalwood Boutique Hotel (什刹海紫檀酒店, Shíchàhǎi Zǐtán Jiǔdiàn MAP  GOOGLE MAP  ; %010 8322 6686; www.sch-hotel.com; 42 Xinghua Hutong, 兴华胡同42号 r ¥600-1300; aW; bLine 6 to Beihai North, exit A)
-
-A five minute walk from its sister hotel Shíchàhǎi Shadow Art Hotel (什刹海皮影酒店; Shíchàhǎi Píyǐng Jiǔdiàn MAP  GOOGLE MAP  ; %010 8328 7847, 136 8303 2251; www.shichahaitour.com; 24 Songshu Jie; 松树街24号 tw & d incl breakfast ¥630-994; bLine 6 to Beihai North, exit A), the Sandalwood has an atmospheric hutong location and decor full of traditional charm. Good deals are available from online booking sites. Note the cheapest rooms don't have windows.
 
 Dashilar & Xīchéng South
 
@@ -1879,8 +1662,6 @@ $
 
 ## HOTEL
 
-$$ Qiánmén Hostel (前门客栈, Qiánmén Kèzhàn MAP  GOOGLE MAP  ; %010 6313 2369, 010 6313 2370; www.qianmenhostel.net; 33 Meishi Jie, 煤市街 33号 dm ¥60-80, r without/with bathroom ¥200/280; aiW; bLine 2 to Qianmen, exit B or C)
-
 A five-minute trot southwest of Tiān’ānmén Sq, this heritage hostel with a cool courtyard offers a relaxing environment with able staff. The rooms are simple and not big but, like the dorms, they are clean, as are the shared bathrooms. Despite the busy location, this is an easy place to switch off and appreciate the high ceilings, original woodwork and charming antique buildings.
 
 An affable old-hand, hostel owner Genghis Kane does his best to keep his standards high. Great Wall tours can be arranged.
@@ -1888,8 +1669,6 @@ An affable old-hand, hostel owner Genghis Kane does his best to keep his standar
 365 Inn ( MAP  GOOGLE MAP  ; %010 6308 5956; 55 Dazhalan Xijie, 大栅栏西街55号 dm ¥55- 100, d ¥200-250; aiW; bLine 2 to Qianmen, exit B or C)
 
 An old-school backpackers, 365 Inn has a social atmosphere with a downstairs pub that makes it one of Běijīng's best for meeting fellow travellers. It also scores points for its prime location that brings you walking distance to most sights. Dorms are your typical crammed-in bunk beds, though private rooms are surprisingly spacious. Reception's often understaffed, but the team are friendly and helpful.
-
-Qiánmén Jiànguó Hotel (前门建国饭店, Qiánmén Jiànguó Fàndiàn MAP  GOOGLE MAP  ; %010 6301 6688; www.hotelsjianguo.com/qianmenhotel; 175 Yong’an Lu, 永安路 175号 r from ¥800; naiW; bLine 7 to Hufangqiao, exit C)
 
 Elegant in parts and popular with tour groups, this refurbished hotel with a vague Peking-opera theme has pushed up its prices to reflect its makeover.
 
@@ -1900,8 +1679,6 @@ Business is brisk, so the staff are on their toes, and the rooms are spacious, b
 $$$ (up to 50% off). Some English spoken.
 
 You can find the Líyuán Theatre to the right of the domed atrium at the rear of the hotel.
-
-Summer Palace & Hǎidiàn o Aman at Summer Palace (颐和安缦, Yíhé Ānmàn MAP  GOOGLE MAP  ; %010 5987 9999; www.amanresorts.com; 1 Gongmen Qianjie, 宫门前街 1号 r ¥3000, courtyard r ¥4800, ste ¥5600-8400; naiWs; bXiyuan)
 
 Hard to fault this exquisite hotel, a candidate for best in Běijīng. It's located around the corner from the Summer Palace – parts of the hotel date to the 19th century and were used to house distinguished guests waiting for audiences with Empress Cixi. The big rooms are superbly appointed, and contained in a series of picture-perfect pavilions set around courtyards.
 
@@ -1969,13 +1746,7 @@ $$$
 
 ## PEKING DUCK
 
-$$$ Din Tai Fung (鼎泰丰, Dǐng Tài Fēng MAP  GOOGLE MAP  ; %010 6512 8019; www.dintaifung.com.cn; 6th fl, Beijing apm shopping mall, 138 Wangfujing Dajie, 王府井大街138号apm6楼 5/10 dumplings from ¥25/49; h11.30am-2.30pm & 5-10pm Mon-Thu, 11am-10pm Fri-Sun; aW; bLine 1 to Wangfujing, exit C2 or Line 5 to Dengshikou)
-
 One of several Běijīng branches of this world-famous Taiwainese dumpling house.
-
-o Temple Restaurant Bites (TRB; MAP  GOOGLE MAP  ; %010 8400 2232; www.trb-cn.com; 95 Donghuamen Dajie, 东华门大街95号 3/4/5 courses ¥198/258/298; h11.30am-10.30pm Mon-Fri, 10.30am- 10pm Sat & Sun; bLine 1 to Tian'anmen East, exit A)
-
-A peerless location, housed in a Qing dynasty building beside the Forbidden City moat, Ignace Lecleir's new offering is a more casual version of his upmarket Temple Restaurant (嵩祝寺餐厅; Sōngzhù Sì Cāntīng MAP GOOGLE MAP  ; %010 8400 2232; www.trb-cn.com; Sōngzhù Temple, 23 Shatanbei Jie, off Wusi Dajie; 五四大街沙滩北街23号, 嵩祝寺 3/4/5/6 courses ¥388/488/588/688; h11am-3pm & 5.30-11pm; aW; bLines 6, 8 to Nanluoguxiang, exit B or Lines 5, 6 to Dongsi, exit E). The service is flawless, and the contemporary European food – salmon, lobster, pigeon, veal – is sheer quality. Here you order by customising your own meals, picking three or more items from whatever section of the menu takes your fancy.
 
 Reservations are recommended, especially if you want a table overlooking the moat (the walls beside it are lit up in the evening). There's rooftop terrace seating in the warmer months.
 
@@ -2035,11 +1806,7 @@ $$ vegetarian menu (with English translations) includes imaginative mock-meat di
 
 With courteous service, this is one of Běijīng’s more soothing dining experiences. There’s also a separate and extensive tea menu – customers are welcome to come here just to sample the tea. To get here, walk north on Dongzhimen Beixiaojie from the junction with Ghost Street for 100m, then turn left into the first hútòng. The restaurant is on the right, although the sign is in Chinese only.
 
-Toast ( MAP  GOOGLE MAP  ; %010 5799 0806, 010 8404 4818; www.theorchidbeijing.com; 65 Baochao Hutong, Dulou Dongdajie, 鼓楼东大街宝钞胡同65号 mains from ¥88; h10am-2.30pm & 6-10pm Wed-Mon; bLines 2, 8 to Guloudajie, exit F or Line 8 to Shichahai, exit A2)
-
 Located at the boutique Orchid hotel is this stylish restaurant with a quality menu of Middle Eastern/North African/Indian–influenced cuisine. Dishes are shared plates and range from homemade bread and dips to poached egg kofte, roasted lamb ribs with hummus, and spicy clams. It's popular also for its quality breakfast and brunch menus, and rooftop cocktails when the sun's out.
-
-Stuff'd (塞, Sāi MAP  GOOGLE MAP  ; %010 6407 6308; www.stuff-d.com; 9 Jianchang Hutong, off Guozijian Jie, 国子监街，箭厂胡同9号 sausages from ¥30, pies ¥68, pizzas ¥68; h11.30am-midnight Sun-Thu, to 1am Fri & Sat; W; bLine 2 to Andingmen or Lines 2, 5 to Yonghegong-Lama Temple, exit D)
 
 Handmade sausages and home-brewed beer (¥40). What more could you want? Set up by Arrow Factory brewery (which has a taproom out the back), this rustic space has a warm, cosy feel; almost like an English pub, only housed within a restored Chinese píngfáng (bungalow). The menu is all about the sausages and ale, but there are also pies and pizza.
 
@@ -2049,13 +1816,9 @@ $$$
 
 ## YUNNAN
 
-$$$ o Georg ( MAP  GOOGLE MAP  ; %010 8408 5300; www.thegeorg.com/en; 45 Dongbuyaqiao Hutong, 东不压桥胡同45号 cafe mains ¥58-78, tasting plates from ¥130, set menu ¥450; hrestaurant 6.30-10.30pm Tue-Sun, cafe from 10.30am daily; aW; bLines 6, 8 to Nanluoguxiang, exit E, or Line 8 to Shichahai, exit C)
-
 In a city glaringly short on international fine dining, the Georg delivers with its gastronomic menu of fusion cuisine. It's an enterprise by Copenhagen designer Georg Jensen, creating a refined, intimate space with Danish design and heritage silverware. Tasting plates with a Scandinavian twist are creative and original.
 
 Descriptors on the menu are left vague for the diner to dissect tastes of its weekly rotating dishes. Given the work put into the menu, it is very good value for less than ¥450 a head. Its Living Room cafe is open during the day with a more casual menu of brisket sandwiches, home-cured duck prosciutto, cheesecake and high tea. The location along a picturesque river is a nice area to stroll.
-
-There's a Georg Jensen showroom on the 2nd floor with high-end silverware and jewellery. The Beijing Centre for the Arts (www.beijingcenterforthearts.com) gallery is next door.
 
 Dàlǐ Courtyard (大理, Dàlǐ MAP  GOOGLE MAP  ; %010 8404 1430; 67 Xiaojingchang Hutong, Gulou Dongdajie, 鼓楼东大街小经厂胡同67号 set menu ¥150; hnoon-2pm & 6-10pm; bLine 2 to Andingmen, exit D, or Line 5 to Beixinqiao, exit A)
 
@@ -2079,11 +1842,7 @@ Temple of Heaven Park & Dōngchéng South Yīzhēn Yuán (伊珍源饭庄 MAP  G
 
 A good spot for a lunch break in the area, this Muslim eatery offers juicy yángròu chuàn (羊肉串; lamb skewers, ¥5) and decent naan bread, as well as noodle and vegie dishes. No English spoken, but it does have a picture menu.
 
-o Lost Heaven (花马天堂, Huāmǎ Tiāntáng MAP  GOOGLE MAP  ; %010 8516 2698; www.lostheaven.com.cn; 23 Qianmen Dongdajie, 前门东大街23号 dishes ¥50-130; h11am-2pm & 5.30-10.30pm; bLine 2 to Qianmen, exit A)
-
 The Běijīng branch of the famed Shànghǎi restaurant, Lost Heaven specialises in the folk cuisine of Yúnnán province. While the spices have been toned down, the flavours remain subtle and light and are guaranteed to transport you to China’s balmy southwest. The location in the elegant former Legation Quarter is an added bonus, and there's an outside roof terrace for the summer.
-
-o Capital M (M餐厅, M Cāntīng MAP  GOOGLE MAP  ; %010 6702 2727; www.m- restaurantgroup.com/capitalm; 3rd fl, 2 Qianmen Dajie, 前门步行街2号 mains from ¥208; h11.30am-3pm & 5.30-10.30pm; W; bQianmen)
 
 The terrace of this swish but relaxed restaurant, with its unfussy menu of Mediterranean favourites, offers fine views over Qiánmén Gate and Tiān’ānmén Sq. The weekday lunch menu is decent value (¥188). It’s down the first turning on the left at the beginning of Qianmen Dajie; look for the ‘M’ hanging off the side of the building. Book ahead.
 
@@ -2121,15 +1880,11 @@ $$
 
 $$ A slick, modern space with blonde wood and designer furniture seems incongruous for a restaurant that specialises in cheap, old-school Húběi noodles, and it serves to make Morning all the cooler. Come for the traditional dry noodles, topped with pork mince and thick sesame paste that you'll need to stir through vigorously before you slurp it down.
 
-o Home Plate BBQ (本垒美式烤肉, Běnlěi Měishì Kǎoròu MAP  GOOGLE MAP  ; %400 096 7670; www.homeplatebbq.com; Lot 10, Courtyard 4, off Gongrentiyuchang Beilu, 三里屯机电院10 号 burgers from ¥45; h11am-1am; bLine 10 to Tuanjiehu, exit A or D)
-
 Serving up some of the finest southern American barbecue in town is this Texas-owned restaurant-bar that's all about slow-cooked meats, burgers and craft beer. Its charcoal-wood smoker sits proudly on display, loaded with fruit wood to cook bone-lickin' ribs, plates of barbecued pulled pork, smoky chicken and beef brisket cooked for 12 hours.
 
 o Jīngzūn Peking Duck (京尊烤鸭, Jīngzūn Kǎoyā MAP  GOOGLE MAP  ; %010 6417 4075; 6 Chunxiu Lu, 春秀路6号 mains ¥26-98; h11am-10pm; bLine 2 to Dongsi Shitiao, exit B)
 
 Very popular place to sample Běijīng’s signature dish. Not only is the Peking duck here extremely good value at ¥138/79 for a whole/half bird, but you can also sit outside on its atmospheric wooden-decked terrace decorated with red lanterns. Otherwise, head upstairs to its booth seating overlooking the leafy street. It has its own draft beer too.
-
-Bookworm (书虫, Shūchóng MAP  GOOGLE MAP  ; %010 6586 9507; www.beijingbookworm.com; Bldg 4, Nansanlitun Lu, 南三里屯路4号楼 mains from ¥60; h9am-midnight; W; bLine 10 to Tuanjiehu, exit A or D)
 
 A combination of a bar, cafe, restaurant, library and bookshop, the Bookworm is a Běijīng institution and one of the epicentres of the capital's
 
@@ -2148,8 +1903,6 @@ $$ cultural life. Much more than just an upmarket cafe, there are 16,000-plus bo
 Duck de Chine (全鸭季, Quányājì MAP  GOOGLE MAP  ; %010 6521 2221; Courtyard 4, 1949 Hidden City, off Gongrentiyuchang Beilu, 工体北路4号 mains ¥78-488; h11am-2pm & 5.30-10pm; bLine 10 to Tuanjiehu, exit A or D)
 
 Housed in a reconstructed industrial-style courtyard complex known as 1949, this very slick and stylish operation incorporates both Chinese and French duck-roasting methods to produce some stand-out duck dishes, including a leaner version of the classic Peking roast duck (¥268); no half serving available. The mix of expats and moneyed locals who flock here argue it's the best bird in town.
-
-Běihǎi Park & Xīchéng North o 4corners (四角餐厅, Sìjiǎo Cāntīng MAP  GOOGLE MAP  ; %010 6401 7797; http://these4corners.com; 27 Dashibei Hutong, 大石碑胡同27号 dishes from ¥40; h11am-late Tue-Sun; bLine 8 to Shichahai, exit A2)
 
 Given this hútòng bar-restaurant is run by a Canadian-Vietnamese expat, it makes total sense it's known for its phở and poutine. Everything is made from scratch, including the curds for its poutine and baked baguettes for the bánh mì, and everything is gluten-free. Its courtyard bar is also one of the area's best spots for a drink, with Běijīng craft beers on tap and quality cocktails.
 
@@ -2187,8 +1940,6 @@ $$
 
 $$ streets). Then there's the array of authentic Uighur dishes from far-off Xīnjiāng, such as salted beef rolls with sweet yam (¥46), as well as a selection of Halal choices.
 
-Summer Palace & Hǎidiàn Khan Baba (汗吧吧餐厅, Hàn Bābā Cāntīng GOOGLE MAP  ; %010 5692 7068; www.khanbababeijing.com; 2/f Jixin Plaza, Zhanchunyuanxi Lu, 展春园西路蓟鑫大厦北侧 2层 mains ¥42-58; h11.30am-3pm & 5.30-10.30pm; bWudaokou)
-
 Fine and friendly Pakistani-run restaurant with a loyal and ever-increasing following of both foreigners and locals. The large menu ranges across India too, with a good choice of both meat and vegie curries. The weekday lunchtime buffet (¥55) is an excellent deal, allowing you to sample any number of dishes. It has great kebabs too.
 
 Xiǎodiàolítāng (小吊梨汤 GOOGLE MAP  ; %010 6264 8616; 66 Baofusi, 保福寺66号 dishes from ¥22; h11am-3pm & 5-9pm; bZhichunli)
@@ -2209,11 +1960,7 @@ Oasis' award-winning owner/barista/coffee roaster, Duan, really knows his stuff.
 
 Its location just up from the Forbidden City makes it the ideal spot to take a break after a long day of sightseeing.
 
-o Slow Boat Brewery Taproom (悠航鲜啤, Yōuháng Xiānpí MAP  GOOGLE MAP  ; www.slowboatbrewery.com; 56-2 Dongsi Batiao, 东四八条56－2号 draft beer ¥25-55; h5pm-midnight Mon-Fri, 2pm-2am Sat, 11.30am-10pm Sun; W; bLine 5 to Zhangzizhonglu, exit C)
-
 One of the original breweries to get Běijīng's craft-beer scene kicking, Slow Boat continues to conjure up some of the city's finest. Well hidden away down a residential side street, it's a cool little bar in a converted hútòng house, with a selection of around 15 Slow Boat beers on tap. Get the critically acclaimed Fry Burger stuffed with fries.
-
-Signature beers include the Captain's Pale Ale and Monkey's Fist IPA, but there's a long list of core and seasonal North American–style beers to make your way through. Check the website for specials. Its flagship brewpub opened in Sānlǐtún ( MAP  GOOGLE MAP  ; www.slowboatbrewery.com; 6 Sanlitun
 
 ## CAFE
 
@@ -2221,11 +1968,7 @@ Signature beers include the Captain's Pale Ale and Monkey's Fist IPA, but there'
 
 Nanlu; bLine 10 to Tuanjiehu, exit A or D) in 2016.
 
-Biking Cafe (双行咖啡, Shuāngxíng Kāfēi MAP  GOOGLE MAP  ; %010 6455 3909; www.bikingcafe.com; 81 Beiheyan Dajie, 北河沿大街81号 coffee from ¥25; h8am-9pm; W; bLines 6, 8 to Nanluoguxiang, exit B or Line 5 to Zhangzizhonglu, exit D)
-
 Sharing space with Bike Beijing is this mellow cafe that does speciality hand- drip coffees, toasted sandwiches and breakfasts specifically designed for cyclists. There are Belgian beers waiting in the fridge upon your return. With its unhurried pace and abundance of power points, it's also well suited as a work space.
-
-Drum Tower & Dōngchéng North o Capital Spirits (首都酒坊, Shǒudū Jiǔfāng MAP  GOOGLE MAP  ; www.capitalspiritsbj.com; 3 Daju Hutong, 大菊胡同3号 cocktails from ¥40; h8pm-12.30am Tue-Sun; W; bLine 5 to Beixinqiao, exit C)
 
 Much maligned by non-Chinese drinkers, báijiǔ (白酒; literally ‘white alcohol’, a face-numbing spirit) is often compared to consuming paint stripper. However, that's until you sample some of the top-shelf stuff, and that's where Capital Spirits step in with an entire speakeasy bar dedicated to quality báijiǔs. On a mission to dispel its poor reputation, here pro bartenders mix up báijiǔ cocktails along with tasting flights of four varietals (¥40) from across China.
 
@@ -2241,13 +1984,9 @@ It's down a residential noncommerical hútòng within a nondescript
 
 building without signage and you can only enter from the back door; it's 20m from Dongzhimen Nanxiaojie. The tasting gift packs (¥260) make good souvenirs. Cash only.
 
-o Distillery ( MAP  GOOGLE MAP  ; www.capitalspiritsbj.com/#the-distillery; 23 Xinsi Hutong, 辛寺胡同23号 cocktails ¥40-60; h8pm-12.30am Mon-Sat; W; bLine 5 to Zhangzizhonglu, exit B)
-
 Down a residential hútòng alley, hidden behind a nondescript facade, is this fantastic bar that's so much your quintessential speakeasy that it even makes its own hooch. It's a classy dark-lit space, where they distill their own gin and vodka on-site, to go with a menu of original and classic cocktails.
 
 It's run by the same team as Capital Spirits, and a free rickshaw runs between the two on Friday and Saturdays evenings.
-
-o Great Leap Brewing (GLB #6, 大跃啤酒, Dàyuè Píjiǔ MAP  GOOGLE MAP  ; www.greatleapbrewing.com; 6 Doujiao Hutong, 豆角胡同6号 beer per pint ¥25-50; h2-11pm Sun-Thu, to midnight Fri & Sat; bLine 8 to Shichahai, exit C)
 
 Běijīng's original microbrewery, this refreshingly simple courtyard bar, set up by American beer enthusiast Carl Setzer, is housed in a hard-to-find, but beautifully renovated, 100-year-old Qing dynasty courtyard and serves up a wonderful selection of unique ales made largely from locally sourced ingredients. Sip on familiar favourites such as pale ales and porters, or choose from China-inspired tipples like Honey Ma, a brew made with lip-tingling Sìchuān peppercorns.
 
@@ -2265,11 +2004,7 @@ A revolution began in Běijīng in 2010. For once, it didn't concern politics.
 
 Instead, it was all about beer. When Great Leap Brewing and Slow Boat Brewery started making their own ales from 100% local ingredients, it marked the emergence of the capital's very own craft breweries. Now, at least five microbreweries are operating in Běijīng.
 
-Great Leap, Slow Boat Brewery, Jing A Brewing, and Arrow Factory Brewing (箭厂啤酒; Jiàn Píjiǔchǎng MAP  GOOGLE MAP  ; %010 8532 5335; www.arrowfactorybrewing.com; 1 Xindong Lu, on Liangmaqiao Lu; 新东路1号外交公寓亮马河南岸 h11.30am-midnight Tue-Thu, to 2am Fri & Sat; W; bLine 10 to Agricultural Exhibition Center) are by far the best of the North American expat brewers, but Chinese microbreweries such as NBeer and Panda Brew ( MAP  GOOGLE MAP  ; www.pandabrew.com.cn; 14 Dongsi Beidajie; 东四北大街14号 beers from ¥40; h10am-1am; W; bLine 5 to Beixinqiao, exit C), among others, have risen to the challenge and produce equally impressive ales.
-
 And with craft beers increasingly popular with both locals and foreigners, there are more and more places around town where you can sample their ales.
-
-Sānlǐtún & Cháoyáng o Jing A Brewing (京A Brewing Co. MAP  GOOGLE MAP  ; www.jingabrewing.com; Courtyard 4, 1949 Hidden City, off Gongrentiyuchang Beilu, 工体北路4号院 beers ¥40-60; h5pm-1am Mon- Thu, 4pm-2am Fri, 11am-2am Sat, 11am-midnight Sun; W; bLine 10 to Tuanjiehu, exit A or D)
 
 Though Jing A has been brewing in Běijīng at Big Smoke ( MAP GOOGLE MAP  ; %010 6416 5195; 1/F Lee World Bldg, Xingfucun Zhong Lu; 幸福村中路
 
@@ -2287,8 +2022,6 @@ Discretely positioned away from Sānlǐtún's main strip, Parlor aims to re- cre
 
 There's also upstairs seating, with jazz bands and swing classes on Sunday to Thursday nights.
 
-Běihǎi Park & Xīchéng North o NBeer Pub (牛啤堂, Niú Pí Táng MAP  GOOGLE MAP  ; %010 8328 8823; www.nbcraftbrewing.com; Huguo Xintiandi, 85 Huguosi Dajie, 护国寺大街85号护国新天地一层 bottles from ¥25, draft ¥35-50; h3pm-2am; W; bLines 4, 6 to Ping’anli, exit B)
-
 In a scene dominated by North American expats, NBeer is an all-Chinese affair that produces some of Běijīng's best beers. It has a massive 37 ales on tap behind a bar made from Lonely Planet guidebooks! The majority are brewed on-site and include a variety of IPAs, pale ales, stouts and European- style ales. It also boasts the biggest fridge of beers in Běijīng.
 
 The food is also good, including excellent cheeseburgers and enormous, juicy kebabs. Visit before 7pm for 30% discounts on all draft beers.
@@ -2302,8 +2035,6 @@ It's on the ground floor of a multifloor complex known as Xīntiāndì, at the w
 ## CONCERT VENUE
 
 3 Entertainment Běijīng is the cultural capital of China and by far the best place to be if you’re interested in seeing anything from ballet and contemporary dance, to jazz or punk bands. Then there are the traditional local pastimes such as Peking opera (jīngjù) and acrobatic shows, as well as movies, theatre and Běijīng’s various sports teams.
-
-o DDC (黄昏黎明俱乐部, Huánghūn Límíng Jùlèbù, Dusk Dawn Club MAP  GOOGLE MAP  ; %010 6407 8969; https://site.douban.com/237627; 14 Shanlao Hutong, 山老胡同14号 tickets free-¥60; hnoon-1am; bLines 6, 8 to Nanluoguxiang, exit B, or Line 5 to Zhangzizhonglu, exit D)
 
 One of the capital's current favourite spots to catch Chinese indie, punk and metal bands, DDC is an intimate space located down a nondescript hútòng.
 
@@ -2321,17 +2052,11 @@ o School Bar
 
 ## CLASSICAL MUSIC
 
-( MAP  GOOGLE MAP  ; %010 6402 8881; https://site.douban.com/school; 53 Wudaoying Hutong, 东城区五道营胡同53号 tickets around ¥50; h6pm-2am; bLines 2, 5 to Yonghegong-Lama Temple, exit D)
-
 Another reason why hip Wudaoying Hutong is too cool for school, this divey band venue is the best spot to tap into the capital's underground scene. Run by a couple of veteran Běijīng punks, it hosts quality gigs from local and touring punk, garage, indie and noise to hard-core and metal bands.
-
-National Centre for the Performing Arts (国家大剧院, Guójiā Dājùyuàn MAP  GOOGLE MAP  ; %010 6655 0000; www.chncpa.org/ens; 2 Xichang’an Jie, 西长安街2号 tickets ¥80-880; hperformances 7.30pm; bLine 1 to Tian'anmen West, exit C)
 
 Sometimes called the National Grand Theatre, this spectacular Paul Andreu– designed dome, known to Beijingers as the ‘Alien Egg’, attracts as many architectural tourists as it does music fans. But it’s the place to listen to classical music from home and abroad. You can also watch ballet, opera and classical Chinese dance here.
 
 ## PEKING OPERA
-
-National Centre for the Performing Arts, Běijīng | CHRIS LEE/500PX/GETTY IMAGES © Cháng’ān Grand Theatre (长安大戏院, Cháng’ān Dàxìyuàn MAP  GOOGLE MAP  ; %010 6510 1310; Chang’an Bldg, 7 Jianguomennei Dajie, 建国门内大街7号 tickets ¥50-800; hperformances 7.30pm; bLines 1, 2 to Jianguomen, exit A)
 
 This large theatre, with its distinctive model of a Peking-opera mask standing outside, offers a genuine experience, with the erudite audience chatting away knowledgably among themselves during the daily performances of Peking- opera classics – this is a place for connoisseurs, although there are usually English captions on a screen to one side of the stage.
 
@@ -2347,15 +2072,9 @@ Note, there are sometimes days, between a change of shows, when there are no per
 
 ## JAZZ
 
-Modernsky Lab ( MAP  GOOGLE MAP  ; %010 5876 0143; http://m.modernsky.com; basement fl, D 5- 108 Galaxy Soho, 朝阳门银河SOHO, D座B1层5-108 bLines 2, 6 to Chaoyangmen, exit G)
-
 One of Běijīng's newest venues, Modernsky is run by a local music label of the same name, and has shows by local indie, rock and electro bands. It's in the basement of the Galaxy Soho building.
 
-Cháoyáng Theatre (朝阳剧场, Cháoyáng Jùchǎng MAP  GOOGLE MAP  ; %010 6507 2421; www.bjcyjc.com/en; 36 Dongsanhuan Beilu, 东三环北路36号 tickets ¥200-880; hperformances 3.50pm, 5.30pm & 7pm; bLines 6, 10 to Hujialou, exit C1)
-
 The Cháoyáng Theatre hosts visiting acrobatic troupes from around China who fill the stage with plate spinning and hoop jumping. It's an accessible place for foreign visitors, and tickets are available from its box office, but often bookable through your hotel.
-
-Mei Lanfang Grand Theatre (梅兰芳大戏院, Méi Lánfāng Dàxìyuàn MAP  GOOGLE MAP  ; %010 5833 1288; www.bjmlfdjy.cn; 32 Ping’anli Xidajie, 平安里西大街32号 tickets ¥30-300; hperformances 7.30pm; bLines 2, 6 to Chegongzhuang, exit C)
 
 Named after China’s most famous practitioner of Peking opera, this theatre opened its doors in 2007 and has since become one of the most popular and versatile venues in town. Performances start at 7.30pm daily. Tickets have to be bought from the ticket office in the lobby between 9.30am and 8pm.
 
@@ -2375,11 +2094,7 @@ Líyuán Theatre (梨园剧场, Líyuán Jùchǎng MAP  GOOGLE MAP  ; %010 6301 
 
 This touristy theatre, in the lobby of the Qiánmén Jiànguó Hotel, has daily performances for Peking-opera newbies. If you want to, you can enjoy an overpriced tea ceremony while watching. The setting isn’t traditional: it resembles a cinema auditorium (the stage facade is the only authentic touch), but it’s a gentle introduction to the art form.
 
-Tiānqiáo Performing Arts Centre (天桥艺术中心, Tiānqiáo Yìshù Zhōngxīn MAP  GOOGLE MAP  ; %400 635 3355; www.tartscenter.com; 9 Tianqiao Nandajie, 天桥南大街9号 hbox office 9.30am-8.30pm; bLine 7 to Zhushikou)
-
 Officially opened in late 2015, Beijing's new modern performing-arts centre comprises four theatres that host both foreign (My Fair Lady, Phantom of the Opera) and Chinese musicals and productions.
-
-Lao She Teahouse (老舍茶馆, Lǎoshě Cháguǎn MAP  GOOGLE MAP  ; %010 6303 6830; www.laosheteahouse.com; 3rd fl, 3 Qianmen Xidajie, 前门西大街3号3层 evening tickets ¥180-580; hperformances 7.50pm; bLine 2 to Qianmen, exit C)
 
 Lao She Teahouse, named after the celebrated writer, has daily and nightly shows, mostly in Chinese, which blend any number of traditional Chinese performing arts. The evening performances of Peking opera, folk art and music, acrobatics and magic (7.50pm to 9.20pm) are the most popular. But there are also tea ceremonies, frequent folk-music performances and daily shadow-puppet shows.
 
@@ -2414,8 +2129,6 @@ Red Theatre (红剧场, Hóng Jùchǎng MAP  GOOGLE MAP  ; %010 6714 2473; 44 Xi
 The daily show is The Legend of Kung Fu, which follows one boy’s journey to becoming a warrior monk. Slick, high-energy fight scenes are interspersed with more soulful dance sequences, plus plenty of ‘how do they do that’ balancing on spears and other body-defying acts. To find the theatre, look for the all-red exterior set back from the road.
 
 ## GAY & LESBIAN TRAVELLERS
-
-Although the Chinese authorities take a dim view of homosexuality, which was officially classified as a mental disorder until 2001, a low-profile gay and lesbian scene exists in Běijīng. For an informative and up-to-date lowdown on the latest gay and lesbian hot spots in Běijīng, have a look at Utopia (www.utopia-asia.com). Another useful publication is the Spartacus International Gay Guide (Bruno Gmunder Verlag), a bestselling guide for gay travellers.
 
 7 Shopping Whether you’re a diehard shopaholic or a casual browser, you’ll be spoiled for choice in Běijīng. Join the locals in their favourite pastime at any number of shiny shopping malls, markets and specialist shopping streets. Then there are the pavement vendors and itinerant hawkers. All ensure that keeping your cash in your pocket is increasingly difficult.
 
@@ -2453,8 +2166,6 @@ At its northern end, Gulou Dongdajie has for a while now been a popular place fo
 
 Yonghegong Dajie, the road the Lama Temple is on, is chock-full of Buddhist-themed shops, selling prayer flags, incense sticks and Buddha figurines to a backdrop of Tibetan-mantra music.
 
-o Plastered 8 (创可贴T-恤, Chuàngkětiē Tìxù MAP  GOOGLE MAP  ; %010 5762 6146; www.plasteredtshirts.com; 61 Nanluogu Xiang, 南锣鼓巷61号 h9.30am-10.30pm; bLines 6, 8 to Nanluoguxiang, exit E)
-
 British-owned, this iconic Nanluogu Xiang T-shirt shop prints ironic takes on Chinese culture onto its good-quality T-shirts and tops (from ¥168). Also stocks decent smog masks (from ¥225).
 
 Opposite the entrance to the shop is a rare surviving (but very faded)
@@ -2479,8 +2190,6 @@ Sānlǐtún & Cháoyáng The Cháoyáng district has some of the swankiest malls
 
 Pānjiāyuán Market is on the edge of Cháoyáng and is the city’s premier souvenir market. 798 Art District is home to some boutique art stores that have some good shopping.
 
-o Shard Box Store (慎德阁, Shèndégé GOOGLE MAP  ; %010 5135 7638; shardboxs@hotmail.com; 2 Jiangtai Rd, 将台路2号 h9am-7pm; bLine 14 to Jiangtai)
-
 ANTIQUES, MARKET Using porcelain fragments from Ming- and Qing-dynasty vases that were destroyed during the Cultural Revolution, this fascinating family-run store creates beautiful and unique shard boxes, bottles and jewellery. The boxes range from the tiny (¥50), for storing rings or cufflinks, to the large (¥780). It also repairs and sells jewellery, both handmade and sourced from Tibet and Mongolia. Check out the photos of the former US presidents who've visited here.
 
 It's located behind the Holiday Inn Lido.
@@ -2504,8 +2213,6 @@ Běihǎi Park & Xīchéng North Yandai Xiejie (烟袋斜街 MAP  GOOGLE MAP  ; Y
 If nearby Nanluogu Xiang is too hectic for you, you can find some of the same here, on a smaller scale. It's still busy at weekends, but more manageable.
 
 Shops here, on this rebuilt 'old-Běijīng' hútòng, which leads down to the lakes, are almost exclusively souvenir shops – T-shirts, silk shawls, fabric slippers, paper fans, fake antiques etc – but it's more fun shopping for them here than in one of the city's big, multifloor souvenir markets. Walk south from the Drum Tower, along Di'anmenwai Dajie, and it's the first hútòng on the right.
-
-Three Stone Kite Shop (三石斋风筝, Sānshízhāi Fēngzhēng MAP  GOOGLE MAP  ; %010 8404 4505; www.cnkites.com; 25 Di'anmen Xidajie, 地安门西大街甲25号 h9am-9pm; bLines 6, 8 to Nanluoguxiang, exit F)
 
 The great-grandfather of the owner of this friendly store used to make the kites for the Chinese imperial household. Most of the kites here are handmade and hand-painted, although the selection is limited these days, now that the owner uses half his shop to display other, admittedly attractive, souvenirs.
 
@@ -2551,21 +2258,11 @@ Almost all hotels and guesthouses provide either wi-fi or broadband internet acc
 
 A consultation with a doctor in a private clinic will cost ¥500 and up, depending on where you go. It will cost ¥10 to ¥50 in a state hospital.
 
-Bayley & Jackson Medical Center (庇利积臣医疗中心; Bìlì Jīchén Yīliáo Zhōngxīn GOOGLE MAP  ; %010 8562 9998; www.bjhealthcare.com; 7 Ritan Donglu; hdental 9am-4pm Mon-Fri, medical 8.30am-6pm Mon-Sat; bLine 1 to Yonganli, exit A1 or Line 6 to Dongdaqiao, exit D) Full range of medical and dental services; attractively located in a courtyard next to Rìtán Park. Dental check-up ¥456; medical consultation ¥500.
-
-Běijīng Union Hospital (PUMCH; 协和医院; Xiéhé Yīyuàn GOOGLE MAP  ; %010 6915 6699, emergency 010 6915 9180; www.pumch.cn; 1 Shuaifuyuan; 东城区 王府井帅府园1号 h24hr; bLines 1, 5 to Dongdan, exit A) A recommended hospital, open 24 hours and with a full range of facilities for inpatient and outpatient care, plus a pharmacy. Head to International Medical Services, a wing reserved for foreigners which has English-speaking staff and telephone receptionists.
-
-Běijīng United Family Hospital (和睦家医疗; Hémùjiā Yīliáo GOOGLE MAP  ; %4008 919191, 24hr emergency hotline 010 5927 7120; http://beijing.ufh.com.cn; 2 Jiangtai Lu; 将台路2号 h24hr; bLine 14 to Jiangtai, exit A or B) Can provide alternative medical treatments, along with a comprehensive
-
 range of inpatient and outpatient care. There is a critical-care unit.
 
 Emergency room staffed by expat physicians.
 
-Hong Kong International Medical Clinic (北京香港国际医务诊所, Běijīng Xiānggǎng Guójì Yīwù Zhěnsuǒ GOOGLE MAP  ; %010 6553 2288; www.hkclinic.com/en; 9th fl, Office Tower, Hong Kong Macau Center, Swissôtel, 2 Chaoyangmen Beidajie; 朝阳门北大街2号 港澳中心-瑞士酒店办公楼9层, Cháoyáng h9am-9pm, dental 9am-7pm; bLine 2 to Dongsi Shitiao, exit C) Well-trusted dental and medical clinic with English-speaking staff. Includes obstetric and gynaecological services and facilities for ultrasonic scanning. Immunisations can also be performed. Prices are more reasonable than at International SOS.
-
 Full medical check-ups start from ¥3000 for men, ¥3500 for women and ¥2200 for children. Dental check-up ¥350; medical consultation ¥690. Has night staff on duty too, so you can call for advice round the clock.
-
-International SOS (国际SOS医务诊所; Guójì SOS Yīwù Zhěnsuǒ GOOGLE MAP ; %24hr alarm centre 010 6462 9100, clinic appointments 010 6462 9112, dental appointments 010 6462 0333; www.internationalsos.com; Suite 105, Wing 1, Kunsha Bldg, 16 Xinyuanli, off Xin Donglu, Cháoyáng; h8am-8pm; bLine 10 to Liangmaqiao, exit D)
 
 Offering 24-hour emergency medical care, with a high-quality clinic with English-speaking staff. Dental check-up ¥620; medical consultation ¥1320.
 
@@ -2586,8 +2283,6 @@ AAgricultural Bank of China (ABC; 中国农业银行, Zhōngguó Nóngyè Yính�
 ATM screens almost always offer the choice of English or Chinese operation. There are ATMs in the arrivals hall at Capital Airport, and in many large department stores and hotels.
 
 Banks Bank of China (中国银行; Zhōngguó Yínháng GOOGLE MAP  ; %010 6513 2214; 19 Dong’anmen Dajie, 东安门大街19号 ) One of dozens of branches around Běijīng with money-changing facilities.
-
-HSBC (汇丰银行; Huìfēng Yínháng GOOGLE MAP  ; www.hsbc.com.cn; 1st fl, Block A, COFCO Plaza, 8 Jianguomennei Dajie, Dōngchéng; h9am-5pm Mon-Fri, 10am-6pm Sat)
 
 One of 26 branches and ATMs in the capital.
 
@@ -2627,8 +2322,6 @@ Express Mail Service (EMS; 快递; kuàidì) is available for registered deliver
 
 ## PUBLIC SECURITY BUREAU
 
-PSB Main Office (北京公安局出入境管理处, Běijīngshì Gōng’ānjú Chūrùjìng Guǎnlǐchù GOOGLE MAP  ; %010 8402 0101, 010 8400 2101; www.bjgaj.gov.cn; 2 Andingmen Dongdajie, 东城区安定门东大街2号 h9am-5pm Mon-Sat; bLine 2, 5 to Yonghegong-Lama Temple, exit B)
-
 The Foreign Affairs Branch of the local PSB – the police force – handles visa extensions. The visa office is on the 2nd floor, accessed from the North 2nd Ring Rd. Allow around seven working days to get your visa extension. You can also apply for a residence permit here.
 
 ## TOURIST INFORMATION
@@ -2647,8 +2340,6 @@ If you are wheelchair-bound or have a mobility disability, Běijīng can be a ma
 
 Those with sight, hearing or mobility disabilities must be extremely cautious of the traffic, which almost never yields to pedestrians.
 
-Download Lonely Planet's free Accessible Travel guide from http://lptravel.to/AccessibleTravel.
-
 8 Getting There & Away Rail and air connections link the city to virtually every point in China, and fleets of buses head to abundant destinations from Běijīng. Most travellers coming from overseas fly into the city, arriving at Běijīng Capital International Airport. Using the nation's capital as a starting point to explore
 
 the rest of the country makes perfect sense.
@@ -2666,8 +2357,6 @@ feels more like a provincial bus station than an airport, but it does service qu
 The nearest major port is Tiānjīn International Cruise Home Port (天津国际游轮母港, Tiānjīn Guójì Yóulún Mǔgǎng). Express trains leave from Běijīng south train station to Tiānjīn every half-hour (¥54 to ¥93, 30 minutes). From there, take subway Line 9 to Citizen Plaza station (市民广场; Shìmín Guǎngchǎng; ¥12, one hour), then take bus 513 to the last stop (东疆游轮母港; Dōngjiāng Yóulún Mǔgǎng; ¥2, 40 minutes, 7am to 5pm).
 
 At the time of writing, ferry services to Dàlián (大连; ¥260 to ¥880, 12 hours, 8pm) in Liáoníng province were running only between June and October, but check as the service is frequently suspended. It leaves on even- numbered days (the return comes back on odd numbers). Boarding starts at 6pm and tickets can be bought on the day of travel. You can also catch a ferry from here to Incheon (¥888 to ¥1590, 24 hours) in South Korea. Ferries leave twice a week, on Sundays and Thursdays; departure times vary. Check
-
-www.jinchon.cn for more details.
 
 ## CAR & MOTORCYCLE
 
@@ -2837,10 +2526,6 @@ ARickshaw Foreigners are routinely overcharged and we do not recommend using the
 
 Cycling is the most enjoyable way of getting round Běijīng. The city is as flat as a mah-jong table and almost every road has a bike lane, even if cars invade them. The quiet, tree-lined hútòng (alleys) are particularly conducive to cycling.
 
-The following are good options for renting bicycles (租自行车; zū zìxíngchē): Bike Běijīng Giant (捷安特; Jié’āntè MAP  GOOGLE MAP  ; %010 6403 4537; www.giant.com.cn; 4-18 Jiaodaokou Dongdajie; 交道口东大街4-18号 h9am-7pm; bLine 5 to Beixinqiao, exit A)
-
-Natooke (耍 (自行车店), Shuǎ (Zìxíngchē Diàn) MAP  GOOGLE MAP  ; %010 8402 6925; www.natooke.com; 19-1 Wudaoying Hutong; 五道营胡同19－1号 h11am-7pm; bLines 2, 5 to Yonghegong-Lama Temple, exit D)
-
 Bike stands around the Hòuhái Lakes also rent bikes (per hour ¥10).
 
 Hostels typically charge ¥30 to ¥50 per day for a standard town bike.
@@ -2869,11 +2554,7 @@ A separate licence is needed to drive a motorbike and it is generally not possib
 
 Given the relatively low cost of hiring a car with a driver, or a taxi for the day, few visitors self-drive.
 
-Car Hire Miles Meng (137 1786 1403; www.beijingenglishdriver.com) Friendly, reliable, English-speaking driver. See his website for prices.
-
 Mr Sun (孙先生; Sūn Xiānsheng; 136 5109 3753) Only speaks Chinese but is dependable and can find other drivers if he’s busy. Round trips to the Great Wall from ¥600.
-
-Hertz (赫兹; Hèzī; 400 888 1336; www.hertz.cn; 8am to 8pm Monday to Friday, 9am to 6pm Saturday and Sunday) Has an office at Terminal 3 of Běijīng airport, as well as at 10 other locations around town. Self-drive hire cars (自驾; zìjià) from ¥279 per day. Car with driver (代驾; dàijià) from ¥1100 per day.
 
 ## TAXI
 
@@ -2890,8 +2571,6 @@ Most Běijīng taxi drivers are honest and use the meter (打表; dǎ biǎo). If
 beforehand.
 
 TRAIN (SUBWAY)
-
-Massive and getting bigger every year, with another 12 lines set to be in operation by 2021, the Běijīng subway system (地铁; Dìtiě www.bjsubway.com; per trip ¥3-8; h6am-11pm) is modern, safe, cheap and easy to use. It does get crowded, though. Fares are ¥3 to ¥8, depending on how far you are travelling. Get hold of a travel card (refundable deposit ¥20) if you don’t want to queue for tickets each time you travel. The travel card also gets you a 50% discount on all bus journeys within the municipality of Běijīng.
 
 To recognise a subway station (地铁站; dì tiě zhàn), look for the subway symbol, which is a blue English capital ‘D’ with a circle around it.
 
@@ -3077,17 +2756,7 @@ those run by ordinary hotels or general travel companies. Not only do they cater
 
 or a tiresome diversion to a gem factory or traditional Chinese medicine centre. The following reputable companies and associations run trips to the Wall that we like.
 
-Bespoke Běijīng (%010 6400 0133; www.bespoketravelcompany.com; B510, 107 Dongsi Beidajie; 东四北大街107号B510楼 h9am-6pm; bBeixinqiao) High-end trips and tours.
-
-Great Wall Hiking (www.greatwallhiking.com) Locally run hiking trips.
-
-China Hiking (%156 5220 0950; www.chinahiking.cn) Affordable hiking and camping trips run by a Chinese-Belgian couple.
-
 Běijīng Hikers Organises some breathtaking outings out of town.
-
-Bike Běijīng (%010 6526 5857; www.bikebeijing.com; 81 Beiheyan Jie; 北河沿大街81号 h8am-8pm; bNanluoguxiang) For cycling trips.
-
-Běijīng Sideways (%139 1133 4947; www.beijingsideways.com; Xingfu Cun Zhonglu, Jieizuo Dasha Xibian, Lishihongye Zhiyeyouxiangongsi Duimian; 幸福村中路杰座大厦西边利世鸿业置业有限公司对面 h9am-9pm; bDongsishitiao) For trips in a motorbike sidecar.
 
 You'll find places to stay at some parts of the Wall close to Běijīng – notably Mùtiányù – but most guesthouses and hotels cluster around the more remote sections, where staying overnight allows you to spend some proper time at the Wall. Gǔběikǒu, Jiànkòu, Zhuàngdàokǒu and Huánghuā Chéng all have reasonable sleeping options. Remember, that most places close from November to March.
 
@@ -3109,8 +2778,6 @@ $$ section of wall is largely a recently restored Ming dynasty structure that wa
 
 From the ticket office at Mùtiányù, shuttle buses (¥15 return, 7.20am to 7pm April to October, 8.20am to 6pm November to December) run the 3km to the wall, where there are three or four stepped pathways leading up to the wall itself, plus a cable car (缆车; Lǎn Chē 1 way/return ¥80/100, kids half-price), a chairlift (索道; Suǒdào combined ticket with toboggan ¥80), called a 'ropeway' on the signs here, and a toboggan ride (滑道; Huá Dào 1 way ¥80), making this ideal for those who can’t manage too many steps, or who have kids in tow.
 
-4 Sleeping & Eating Brickyard Eco Retreat (瓦厂, Wǎ Chǎng %010 6162 6506; www.brickyardatmutianyu.com; Běigōu Village, Huáiróu District, 怀柔区渤海镇北沟村 r incl breakfast ¥1040-4746; aW)S A 1960s glazed-tile factory renovated into a beautiful guesthouse, sporting lovingly restored rooms, each with views of the Great Wall. Rates include use of a spa, and shuttle services to the Wall and surrounding villages.
-
 Brickyard is in Běigōu Village (北沟村; Běigōu Cūn), about 2km from the Mùtiányù Great Wall. Reservations are essential.
 
 Yì Sōng Lóu Restaurant (翼松楼餐厅, Yì Sōng Lóu Cāntīng mains ¥22-80; h8.30am-5pm)
@@ -3129,11 +2796,7 @@ A taxi costs around ¥600 to ¥700 for a return day trip from Běijīng.
 
 ## TAXIS & CAR HIRE
 
-AMiles Meng (137 1786 1403; www.beijingenglishdriver.com) Friendly, reliable, English-speaking driver. See his website for prices.
-
 AMr Sun (孙先生; Sūn Xiānsheng; 136 5109 3753) Only speaks Chinese but is dependable and can find other drivers if he’s busy. Round trips to the Great Wall from ¥600.
-
-AHertz (赫兹; Hèzī; 400 888 1336; www.hertz.cn; 8am to 8pm Monday to Friday, 9am to 6pm Saturday and Sunday) Has an office at Terminal 3 of Běijīng airport, as well as at 10 other locations around town. Self-drive hire cars (自驾; zìjià) from ¥279 per day. Car with driver (代驾; dàijià) from ¥1100 per day.
 
 Gǔběikǒu 古北口 Location 130km from Běijīng
 
@@ -3148,8 +2811,6 @@ There are two main sections of Wall here: the Coiled Dragon (蟠龙; Pán Lóng)
 Most guesthouses in Gǔběikǒu, and their attached restaurants, shut down between November and March.
 
 4 Sleeping o Great Wall Box House
-
-(团园客栈, Tuán Yuán Kèzhàn %010 8105 1123; http://en.greatwallbox.com; No 18 Dongguan, Gǔběikǒu Village, 古北口镇东关甲18号 weekday/weekend incl dinner 6-bed dm ¥180/200, 4-bed ¥180/200, deluxe d ¥1200/1350; hmid-Mar–mid-Nov; nW)
 
 Run by the friendly, English-speaking Joe, this wonderful place is housed in a 100-year-old courtyard building that was an abandoned chessboard factory before being lovingly renovated. Rooms surround a long, well-tended garden- courtyard, and are large (the dorm is enormous), bright, comfortable and spotlessly clean. Incredibly, a small, overgrown section of the Great Wall runs along one side of the property.
 
@@ -3167,11 +2828,7 @@ Although, strictly speaking, camping on the Great Wall is not allowed, many peop
 
 There are plenty of places to buy camping equipment in Běijīng, but one
 
-of the best in terms of quality and choice is Sanfo (三夫户外; Sānfū Hùwài GOOGLE MAP  ; %010 6201 5550; www.sanfo.com/en; 3-4 Madian Nancun; 北三环中路马甸南村4之3－4号 h9am-9pm; bLine 10 to Jiandemen, exit D). There are branches across the city, but this location on a ​side road of the middle section of the North 3rd Ring Rd stands out because it has three outlets side by side, as well as a few smaller cheaper camping shops next door.
-
 Turn right out of Exit D of Jiandemen subway station (Line 10) and walk south for about 800m, then cross under the 3rd Ring Rd and the camping shops will be on your right.
-
-There’s a smaller, easier-to-get-to branch ( GOOGLE MAP  ; www.sanfo.com; 9-4 Fuchengmen Dajie; 阜城门大街9－4号 h10am-8.30pm; bLine 2 to Fuchengmen, exit C), about 200m south of Fuchengmen subway station.
 
 Jiànkòu 箭扣 Location 100km from Běijīng Price ¥25 Hours No official opening hours For stupefying hikes along perhaps Běijīng’s most incomparable section of ‘Wild Wall’, head to the rear section of the Jiànkòu Great Wall (后箭扣长城; Hòu Jiànkòu Chángchéng), accessible from Xīzhàzi village (西栅子村; Xīzhàzi Cūn), via the town of Huáiróu. Tantalising panoramic views of the Great Wall spread out in either direction from here, as the crumbling brickwork meanders dramatically along a mountain ridge; the setting is truly sublime. But this is completely unrestored wall, so it is both dangerous and, strictly speaking, illegal to hike along it. On summer weekends especially, crowds can render it even more risky. Footwear with very good grip is required, and never attempt to traverse this section in the rain, particularly during thunderstorms. When the weather is fine, the Jiànkòu (箭扣) area offers fabulous opportunities to hike and camp along the Wall.
 
@@ -3228,8 +2885,6 @@ Hiking (in either direction) on the restored section of the Wall here is straigh
 This stretch eventually leads to Gǔběikǒu (6½ hours), although you have to leave the Wall for an hour or two in order to walk around the boundary of a small military camp.
 
 ## CHINESE
-
-$$ Jīnshānlǐng Great Wall | SEAN PAVONE/SHUTTERSTOCK © 4 Sleeping & Eating Accommodation options are limited. There are a few guesthouses strung out along the road that runs between the east gate and west gate. A simple room with bathroom is ¥100 to ¥120. But be prepared for a walk to the ticket office.
 
 There are restaurants around the west gate, as well as on the road that leads from the east gate to the west gate. Most shut down from November to March. Mains cost from ¥20 to ¥80.
 
@@ -3325,8 +2980,6 @@ $ (中国长城博物馆, Zhōngguó Chángchéng Bówùguǎn included with tick
 
 This museum offers a comprehensive history of the Wall, from its origins as an earthen embankment in the far-off Qin dynasty (221–207 BC) to the Ming-era battlements you see today. There are decent English captions and it’s a good way to get a sense of just how astonishing and extensive a structure the Wall is. The museum is just south of the east car park.
 
-4 Sleeping & Eating Commune by the Great Wall (长城脚下的公社, Chángchéng Jiǎoxià de Gōngshè %010 8118 1888; www.communebythegreatwall.com; r from ¥2500; aiWs)
-
 Positioned at the Shuǐguān Great Wall off the Badaling Hwy, the Commune may have a proletarian name but the design and presentation are purely for the affluent. There is a kids club. Reservations are essential.
 
 Ātài Bāozi (阿泰包子 ¥20-32; h7am-4pm)
@@ -3406,8 +3059,6 @@ B7 B5 A2 B4
 ## MUSEUM
 
 24 31 Cups 25 Le Procope Lounge 7 Shopping 26 Ancient Culture Street 27 Shěnyángdào Antiques Market 1 Sights Tiānjīn has a growing number of first-rate cultural venues, though they are fairly spread out. Top on the list for visitors are the Wǔdàdào and Old Town neighbourhoods. The Tiānjīn Museum, though a bit far from the city centre, is also an excellent destination. Architecture buffs can stroll along Jiefang Beilu, the treaty port's former banking street.
-
-o Tiānjīn Museum (www.tjbwg.com; 62 Pingjiang Lu, 平江道62号 h9am-4.30 Tue-Sun)F Tiānjīn's premier cultural venue, this three-floor museum has over 200,000 pieces in its collection, ranging from oracle bones and an excellent inkstone exhibit to various artefacts and documents related specifically to the city's historical development. The 3rd floor, which focuses on Tiānjīn's development as a modern city from the Opium War onward, is a highlight.
 
 Part of a cultural complex that includes a handful of other museums, this area is located well south of the city centre. At the time of writing, the easiest way here was to take the metro to the Nanlou station (line 1) and then take a taxi (¥10). However, new lines 5 and 6 will both stop here once they are complete.
 
@@ -3507,8 +3158,6 @@ It consists of five roads in the south of the city – Machang Dao, Changde Dao,
 
 Filled with tiny cafes and boutiques, this is the most enjoyable part of the city for exploration on foot or by bike.
 
-z Festivals & Events Great Wall Marathon (www.great-wall-marathon.com; hMay)
-
 This certifiably insane adventure marathon includes 5164 steps along a gorgeous (and very steep) Huángyáguān stretch of the Great Wall, 150km from Tiānjīn. If you're not a glutton for punishment, no need to do the full thing: a half-marathon and 8.5km fun run are held on the same day.
 
 ## ERIC LIDDELL
@@ -3527,8 +3176,6 @@ While in Tiānjīn, he lived at 38 Cambridge Rd – now Chongqing Dao (李爱锐
 
 4 Sleeping Tiānjīn has a good selection of midrange and luxury hotels. Budget accommodation fills up fast, however – make reservations well in advance.
 
-o Three Brothers Youth Hostel (戈萨国际青年旅舍, Gēsà Guójì Qīngniánlǚshè MAP  GOOGLE MAP  ; %022 2723 9777; gesahostel@163.com; 141 Chongqing Dao, 重庆道141号 dm ¥60-100, d ¥238; aiW; g951 to Guilin Lu)
-
 Friendly hostel, with a laid-back atmosphere and a pleasant location right in the middle of historic Wǔdàdào. The small, covered front yard of the 90- year-old building has been turned into a cafe area; simple but clean rooms are upstairs at the back. Take bus 951 from the main train station and get off at Guilin Lu, which intersects Chongqing Dao.
 
 Cloudy Bay Hostel
@@ -3543,17 +3190,11 @@ $$$
 
 ## HOTEL
 
-$$$ (云雾之湾, Yúnwù Zhīwān MAP  GOOGLE MAP  ; %022 2723 0606; cloudybayhostel@hotmail.com; 120 Harbin Dao, 哈尔滨道120号 dm ¥60-100; mHeping Rd)
-
 Young and friendly, Cloudy Bay is housed in a four-storey building that's been renovated Greek-island-style: whitewashed walls, blue trim and splashes of mosaic tiling. The theme carries over into the cool rooftop terrace, although stops short of Mediterranean views. Apart from one private room (¥280), all rooms are dorms (six to eight beds), including a female-only dorm. English is limited.
-
-Orange Hotel (桔子酒店, Júzi Jiǔdiàn MAP  GOOGLE MAP  ; %022 2734 8333; www.orangehotel.com.cn; 7 Xing’an Lu, 兴安路7号 r from ¥338, with river view from ¥428; aW; mDongnanjiao)
 
 Good value with stylish, unfussy rooms, some of which have river views. It's a bit tricky to find: it's accessed from behind another building, via an alley running off Xing’an Lu. Convenient location next to the Dongnanjiao metro.
 
 Online discounts drop prices by ¥100.
-
-o Min Yuan 33 (民园三三, Mínyuán Sānsān MAP  GOOGLE MAP  ; %022 2331 1626; www.minyuan33.com; 31-33 Changde Dao, 常德道31-33号 r ¥910-1300; aW)
 
 Located in a beautifully renovated stretch of hundred-year-old town houses known as the Minyuan Terrace, this Tiānjīn trendsetter has minimalist, all- white rooms that feature stripped-wood furniture and flooring, and tons of space.
 
@@ -3563,13 +3204,9 @@ o Astor Hotel (利顺德大饭店, Lìshùndé Dàfàndiàn MAP  GOOGLE MAP  ; %
 
 ## HOTEL
 
-$$$ www.starwoodhotels.com; 33 Tai’erzhuang Lu, 台儿庄路33号 d from ¥780; naiWs)
-
 China's oldest foreign-run hotel, the Astor dates back to 1863, when it was opened by British missionary John Innocent. Although it's not as luxurious as some of the city's international chains, there’s an undeniable character to the place that's hard to find elsewhere.
 
 Make sure you reserve a room in the historic wing, rather than the modern wing – you'll be rewarded with a four-poster bed, parquet flooring and bundles of charm. The Astor House Museum (¥50; 11am to 8pm), with its attendant memorabilia, is free for guests.
-
-St Regis Tiānjīn (天津瑞吉金融街酒店, Tiānjīn Ruìjí Jīnróngjiē Jiǔdiàn MAP  GOOGLE MAP  ; %022 5830 9999; www.starwoodhotels.com; 158 Zhangzizhong Lu, 张自忠路158号 d from ¥817; naiWs; mHeping Rd)
 
 The last word in luxury in Tiānjīn, the St Regis has a prime riverside location, with alfresco seating on the back terrace – perfect for enjoying its signature Lapsang Souchong Bloody Mary. The heated pool, spa treatments and personal butler service promise serious R & R, while the staff are well attuned to the expectations of international visitors.
 
@@ -3693,15 +3330,7 @@ Located in the Sheraton, about 1km southeast of the Tianta metro station.
 
 Eight of China's 10 most polluted cities are in Héběi, though thankfully, besides Tiānjīn and Shíjiāzhuāng, most of them are not tourist destinations.
 
-Always check the air quality index (www.aqicn.org) before your trip to get a sense of what the current levels are like – this is of particular concern for children and anyone with respiratory issues (such as asthma). The two most harmful pollutants are fine particulate matter (PM2.5, which can be filtered with a quality mask) and ozone (which cannot be filtered – so stay inside).
-
-8 Getting There & Away AIR Tiānjīn Bīnhǎi International Airport (天津滨海国际机场, Tiānjīn Bīnhǎi Guójì Jīchǎng %022 96777; www.tbia.cn) is 15km east of the city centre and has flights to all major cities in China, plus a few international destinations, including Bangkok, Singapore, Tokyo and Seoul. Buy tickets through www.elong.net or www.english.ctrip.com.
-
 ## BOAT
-
-The nearest passenger port is the Tiānjīn International Cruise Home Port (天津国际邮轮母港; Tiānjīn Guójì Yóulún Mǔgǎng %022 2560 5128; www.tichp.com), 70km east of the city.
-
-This port is primarily for cruise passengers who are making a stopover in Tiānjīn or Běijīng (180km). Be aware that this is a very inconvenient place to disembark, with no easy way to get to either city from the port. The simplest way to get to Běijīng is to arrange for a private car or bus (eg through www.tour-beijing.com) to pick you up and take you directly there (three hours).
 
 There are two bullet trains per day between the nearby ghost city of Yújiābǎo and Běijīng South (于家堡; also written 'Yujiapu'; ¥75, one hour), but tickets can be hard to come by. Taxis charge ¥300 to get from the port to this station. There are also numerous bullet trains running from Tiānjīn and Tánggū (塘沽) to Běijīng; arrange for a private shuttle to take you directly to
 
@@ -3789,8 +3418,6 @@ More of a homestay with bunk beds than an actual hostel, this is the only budget
 
 Note that while it is within walking distance of the train station, it's not particularly easy to find. The Shuijing Licheng apartment block is located at the bottom of the station's northwest entrance ramp. Once you've found this, enter the complex, turn right at the second row of buildings, and go to the end. Door 3 is the last one on your left.
 
-o Holiday Inn (萬象天成假日酒店, Wànxiàng Tiānchéng Jiàrì Jiǔdiàn MAP  GOOGLE MAP  ; %0311 6779 9999; www.ihg.com; 15 Yuhua Xilu, 裕华西路15号 r from ¥373; naWs)
-
 Far and away the best-value hotel in Shíjiāzhuāng, the Holiday Inn offers supremely comfortable rooms in a swish downtown tower. Glass-walled bathrooms come with a rain shower and deep soaker tub. There's a pillow menu for those with allergies, a top-floor pool and gym, and staff speak decent English.
 
 Silver Spring Hotel (银泉酒家, Yínquán Jiǔjiā MAP  GOOGLE MAP  ; %0311 8598 5888; 12 Zhanqian Jie, 站前街12号 d from ¥288; aiW)
@@ -3804,8 +3431,6 @@ $$$
 ## HUNAN
 
 $ 卡; huìyuán kǎ) for ¥28.
-
-World Trade Plaza Hotel (世贸广场酒店, Shìmào Guǎngchǎng Jiǔdiàn MAP  GOOGLE MAP  ; %0311 8667 8888; www.wtphotels.com; 303 Zhongshan Donglu, 中山东路303号 d ¥600-900; naiW)
 
 Once Shíjiāzhuāng’s finest hotel, the World Trade Plaza is still plenty comfortable, if not quite at the same level as the newer competition. Rooms are big and spick and span, and some floors were entirely renovated in 2014.
 
@@ -4195,8 +3820,6 @@ Mountain Villa Hotel (山庄宾馆, Shānzhuāng Bīnguǎn MAP  GOOGLE MAP  ; %0
 
 This huge hotel offers pole position for a trip to Bìshǔ Shānzhuāng. The standard and deluxe rooms are comfortable enough, but like most of Chéngdé's hotels, they have begun to show some wear and tear. The cheapest rooms are in a building out the back, but are older and not great value. Some English is spoken here.
 
-o Qǐ Wàng Lóu (绮望楼 MAP  GOOGLE MAP  ; %0314 218 2288; www.qiwanglou.com; 1 Bifengmen Donglu, 碧峰门东路1号 r from ¥1280; nW)
-
 Qǐ Wàng Lóu boasts a serene setting alongside the Imperial Villa's walls, accentuated by lovely courtyard gardens. This is far and away the most tasteful hotel in town, with museum-quality reproduced Chinese masterpieces
 
 ## HOTEL
@@ -4335,8 +3958,6 @@ Jǐngshān Hotel (景山宾馆, Jǐngshān Bīnguǎn MAP  GOOGLE MAP  ; %0335 51
 
 Housed in a pleasant, reconstructed, two-storey courtyard complex, the Jǐngshān – the town's most agreeable hotel – is just steps from the First Pass Under Heaven. Rooms here are airy and comfortable, though don't expect anything too fancy – the hot-water pressure, for instance, ensures you won't be washing your hair here. Discounts can drop rates as low as ¥150. No English.
 
-Shānhǎi Holiday Hotel (山海假日酒店, Shānhǎi Jiàrì Jiǔdiàn MAP  GOOGLE MAP  ; %0335 535 2888; www.shanhai-holiday.com; Bei Madao, 北马道 d & tw ¥880; W)
-
 This traditional-style four-star hotel is housed in a large complex with several buildings, and is trying hard to impress, with staff dressed in traditional Manchu clothing. Unfortunately, the rooms we saw were in so-so condition – it's a bit of a let-down considering the exterior. Discounted rates hover around ¥268.
 
 ## DUMPLINGS
@@ -4456,8 +4077,6 @@ Jīmíngyì City Walls (城墙, Chéng Qiáng )
 Ascend the East Gate or West Gate and circle the walls for fine views of the town, the surrounding fields and Cock's Crow Mountain (鸡鸣山; Jīmíng Shān), standing to the northwest.
 
 Tàishān Temple (泰山行宫, Tàishān Xínggōng )
-
-This temple is dedicated to Bixia, the goddess of Tài Shān (泰山 www.taishangeopark.com; adult/student & senior Feb-Nov ¥127/60, Dec & Jan ¥102/50).
 
 The paintings here, Jīmíngyì's largest collection of Ming murals, depict the life of the goddess. They were whitewashed – some say for protection – during the Cultural Revolution. A professor from Qīnghuá University helped to uncover them; you can still see streaks of white in places.
 
@@ -4605,8 +4224,6 @@ The sleek industrial space resembles a modern museum, and the cleverly sectioned
 
 A taxi from the train station is ¥10.
 
-o Dàlián Noah's Ark Golden Beach Hostel (大连挪亚方舟国际青年旅舍, Dàlián Nuóyà Fāngzhōu Guójì Qīngnián Lǚshě GOOGLE MAP  ; %0411 3968 4088; www.yhachina.com/ls.php?id=339; 57 Binhai Xilu, 滨海西路57号 dm ¥60-80, tw ¥280; hclosed winter; iW)
-
 There's nothing remotely biblical about the hostel: the architecture, a whitewashed edifice built against a hill and facing the sea, evokes Santorini.
 
 Rooms are simple but charming: consider staying in a greenhouse-type glasshouse at the top of the compound! The 2nd-level lounge area is a great
@@ -4625,13 +4242,9 @@ $$$ spot to have a beer and stare out to sea. Room rates are 70% higher for non-
 
 Getting here is tough. Take bus 5 near the train station at Qīngníwā Qiáo (青泥洼桥) to the last stop. Walk ahead five minutes through a parking lot and down a slope towards Golden Sand Beach (金沙滩; Jīn Shā Tān), pay ¥2 entry and continue towards the seashore and follow it to the right. Pack light as it's a 1km walk. Note: you have to pay the ¥2 entry daily if you go in and out of the area.
 
-Dàlián South Mountain Youth Hostel (大连南山国际青年旅舍, Dàlián Nánshān Guójì Qīngnián Lǔshè GOOGLE MAP  ; %0411 8263 1189; dlnanshan@126.com; 114 Mingze Jie, 明泽街114号 dm ¥50-65, d/tw ¥168/188; aiW)
-
 Tucked away in a quiet hillside neighbourhood is this friendly little hostel with clean, comfortable dorms (but only two bathrooms!). Facilities include self-service laundry and kitchen, as well as computer use and wi-fi. The southwest coastline is a 15-minute bus ride away, numerous parks are within walking distance and the train station can be reached quickly by taxi (¥10).
 
 If you want to catch a bus here contact the hostel for directions.
-
-Ibis Dàlián Sanba Hotel (大连三八宜必思酒店, Dàlián Sānbā Yibìsī Jiǔdiàn GOOGLE MAP  ; %0411 3986 5555; www.ibishotel.com.cn; 49 Wuwu Lu, 中山区五五路49号 d & tw ¥229; ai)
 
 This business hotel is in a fantastic location surrounded by restaurants and markets, yet only a five-minute walk from parks and quiet tree-lined streets.
 
@@ -4642,8 +4255,6 @@ It's located just off Sanba Sq. A taxi from the train station here costs ¥12.
 o Aloft Dalian
 
 ## MARKET
-
-$ (大连雅乐轩酒店, Dàlián Yǎlèxuān Jiǔdiàn MAP  GOOGLE MAP  ; %0411 3907 1111; www.alofthotels.com/dalian; 18-1 Luxun Lu, 鲁迅路18-1号 r ¥1720-2220; aiW)
 
 This swish hotel is borne aloft thanks to a hip charisma lacking in other international chain hotels. Its colourfully decorated rooms are large with good views and plush beds, and the staff are friendly to a fault. The in-house restaurant and lounge area are good too. Discounts tame rack rates to a more reasonable ¥500 range.
 
@@ -4689,8 +4300,6 @@ We're not sure what locomotives have to do with duck, but the birds here are roa
 
 6 Drinking & Nightlife Dàlián has the most happening bar and club scene of any city in the northeast.
 
-Most of the action is on Wuwu Lu, which runs off Sanba Sq. Check out Focus on Dalian (www.focusondalian.com) for the latest.
-
 8 Information There are ATMs all around town. Zhongshan Sq has a number of large bank branches including a Bank of China (中国银行, Zhōngguó Yínháng GOOGLE MAP  ; 9 Zhongshan Sq), where you can change currency.
 
 The 72-Hour Visa-Free Transit policy allows passport holders of many countries a stopover in Dàlián without arranging a visa before arrival.
@@ -4706,8 +4315,6 @@ There are several daily boats to Yāntái (¥180 to ¥500, five to eight hours) 
 counters in front of the train station. To the ferry terminal, take bus 13 (¥1)
 
 from the southeast corner of Shengli Guangchang and Zhongshan Lu near the train station.
-
-BORDER CROSSING: DÀLIÁN TO SOUTH KOREA The Korean-run Da-in Ferry ( MAP  GOOGLE MAP  ; %Dàlián 0411 8270 5082, Incheon 032 891 7100, Seoul 822 3218 6500; www.dainferry.co.kr; 17th fl, 68 Renmin Lu; 人民路68号, 宏誉商业大厦17楼 ) to Incheon in South Korea departs from Dàlián on Monday, Wednesday and Friday at 4.30pm (¥980 to ¥1900, 16 hours).
 
 BUS Long-distance buses leave from various points around the train station. It can be tricky to find the correct ticket booths, and they do occasionally move.
 
@@ -4883,8 +4490,6 @@ Yālù Jiāng Park ( MAP  GOOGLE MAP  )
 
 For views of the border, stroll along the narrow riverfront Yālù Jiāng Park, which faces the North Korean city of Sinuiju. You can have your photo taken (¥10 each) in Korean costumes and sometimes catch locals dancing, playing music or singing.
 
-Museum to Commemorate US Aggression (抗美援朝纪念馆, Kàngměi Yuáncháo Jìniànguǎn %0415 215 0510; www.kmycjng.com; 68 Shanshang Jie, 山上街68号 h9am-4pm Tue-Sun)F With everything from statistics to shells, this comprehensive museum offers Chinese and North Korean perspectives – they take the view that they won it – on the war with the US-led UN forces (1950–53). There are good English captions here, which offer a thought-provoking alternative view to the West's.
-
 The adjacent North Korean War Memorial Column was built 53m high, symbolising the year the Korean War ended. A taxi to the museum costs ¥12 from downtown.
 
 T Tours Boat Cruise (观光船; Guānguāng Chuán MAP  GOOGLE MAP  ; boats ¥60, speedboats ¥80; h7am- 6pm)
@@ -4907,11 +4512,7 @@ Most tours to the DPRK start with a flight from Běijīng or Shěnyáng into Pyo
 
 and Japanese tourists.
 
-Explore North Korea (www.explorenorthkorea.com) Dāndōng-based agency.
-
 Koryo Tours Large, long-running Běijīng-based agency.
-
-Young Pioneer Tours (www.youngpioneertours.com) Offers alternative itineraries into Rason, Namyang, Hoeryong city and Onsong county.
 
 4 Sleeping There are many hotels in Dāndōng, most for around ¥200 a night. High- summer rates may be 30% to 50% more than the prices given here.
 
@@ -4941,11 +4542,7 @@ Lǜyuàn Bīnguǎn (绿苑宾馆 MAP  GOOGLE MAP  ; %0415 212 7777; fax 0415 210
 
 There are reasonable singles and three- and four-bed dorms at this long- running guesthouse on busy Shiwei Lu.
 
-Life's Business Hotel (莱弗仕商务快捷酒店, Láifúshì Shāngwù Kuàijié Jiǔdiàn MAP  GOOGLE MAP  ; %0415 213 9555; www.lifeshotel.com; 29 Liuwei Lu, 六纬路29号 r ¥168-298; aiW)
-
 Life's is a smart business hotel popular with North Korean businessmen and within walking distance of the riverfront, restaurants and a Tesco supermarket. Rooms are tidy and comfortable with the ones on higher floors affording river views. Cheaper rooms have no windows.
-
-Zhong Lian Hotel (中联大酒店, Zhōng Lián Dà Jiǔdiàn MAP  GOOGLE MAP  ; %0415 233 3333; www.zlhotel.com; 62 Binjiang Zhong Lu, 滨江中路62号 d/tw incl breakfast ¥478/598; aiW)
 
 ## CHINESE
 
@@ -4994,8 +4591,6 @@ ATōnghuà ¥84, seven hours, 6.30am and 8.50am
 ## TRAIN
 
 The train station is in the centre of town. A lofty Mao statue greets arriving passengers. There are much slower versions of the following trains, but the cost saving is minimal. The attendant at ticket window 1 speaks English.
-
-ADàlián (D/G) ¥109, two to 2½ hours, 10 daily AShěnyáng (D/G) ¥70, 1½ hours, every 30 minutes BORDER CROSSING: DĀNDŌNG TO SOUTH KOREA Dāndōng International Ferry Co (丹东国际航运有限公司, Dāndōng Guójì Hángyùn Yǒuxiàn Gōngsī GOOGLE MAP  ; %0411 315 2666; www.dandongferry.co.kr; cnr Xingwu Lu & Gangwan Lu; h8am-5pm) runs a boat to Incheon in South Korea on Tuesday and Thursday at 6pm and Sunday at 4pm (¥1110 to ¥1810, 16 hours). Buy tickets at the company’s office on Xingwu Lu. A bus to the ferry terminal leaves two hours before departure (¥20) on the respective departure days from the train station.
 
 Shěnyáng 沈阳 %024 / POP 6.25 MILLION The capital of Liáoníng province, prosperous Shěnyáng (沈阳) has made enormous strides in overcoming its reputation as a postindustrial 'rust-belt' city. True, Shěnyáng is still a sprawling metropolis, but the metro is easy to navigate, and there’s a buzz on the streets and in the designer malls as locals grow confident, positive and urbane.
 
@@ -5070,8 +4665,6 @@ Liáoníng Bīnguǎn (辽宁宾馆, Liaoning Hotel MAP  GOOGLE MAP  ; %024 2383 
 This grand dame dates back to 1927 and is perched across from Mao's statue at busy Zhongshan Sq. The Chairman himself stayed here and it retains many of its period details – the marbled lobby and central stairwell are particularly impressive. Rooms are comfortable but could use an update. The outdoor patio serves beer on sunny days. Discounts up to 50% available.
 
 ## HOTPOT
-
-$$ Shěnyáng, Liáoníng | APHOTOSTORY/SHUTTERSTOCK © 5 Eating Both the north and main train stations are cheap-restaurant zones. You’ll also find lots of reasonably priced restaurants around the Imperial Palace. Most have picture menus. For a kimchi fix head to Korea Town (西塔; Xītǎ MAP GOOGLE MAP  ; Xita Jie; 西塔街 ) on Xita Jie. There are supermarkets at the base of most malls, and a Carrefour Supermarket (家乐福; Jiālèfú MAP GOOGLE MAP  ; 39 Beizhan Yilu; 北站一路39号 h8.30am-9.30pm) is beside the long-distance bus station.
 
 o Měijīn Hotpot (美津火锅, Měijīn Huǒguō MAP  GOOGLE MAP  ; cnr Taiyuan Jie & Bei Sanma Lu, 太原街北三马路的路口 ingredients ¥3-22; h10.30am-2am)
 
@@ -5337,8 +4930,6 @@ visitors should be prepared for lower temperatures. It might be sunny and hot wh
 
 Though you can visit most of the year, the best time to see the crater (and be assured the roads are open) is from June to early September.
 
-Wanda Chángbái Shān International Resort (万达长白山国际度假区, Wàndá Chángbái Shān Guójì Dùjià Qū %0400 098 7666; www.wanda-group.com/2013/videos_0721/1.html; 455 Baiyun Lu, 白云路455号 )
-
 About 15km from the local airport, this resort has 20 runs over two mountains with some decent hiking in summer. Certainly, the skiing is superlative in the winter.
 
 Accommodation is widely available and most travellers stay in the scruffy gateway towns of Báihé and Sōngjiānghé.
@@ -5388,8 +4979,6 @@ Lying between the park entrance and transport junction, this verdant woodland ar
 4 Sleeping & Eating On your arrival at the train or bus station, touts for cheap guesthouses will likely approach. Many of these guesthouses can be found in the small lanes around town. Private rooms without bathroom go for ¥30 to ¥80. The more expensive rooms sometimes have their own computer.
 
 There are small restaurants in all areas of Báihé. Overpriced snacks are also sold inside the park on the Northern Slope, but there are no restaurants, so it pays to bring your own supplies.
-
-Woodland Youth Hostel (望松国际青年旅舍, Wàngsōng Guójì Qīngnián Lǚshě %0433 571 0800; cbs800@126.com; Wenhua Lu, 文化路 dm/tw ¥45/100; aiW)
 
 Set in a former hotel, the friendly Woodland offers same-sex dorms, clean twins and the usual hostel amenities such as a restaurant (dishes from ¥18 to ¥88), laundry, wi-fi and travel information. The hostel runs its own return shuttle to the North and Western slopes (¥30 and ¥70 respectively) and also sometimes offers overnight camping trips in the park.
 
@@ -5496,8 +5085,6 @@ $$$ return loop to the peak. The whole way is boardwalked, and the locals in all
 Green Tree Inn (格林豪泰时代广场酒店 %0433 253 2998; 56-1 Jiefang Lu, 解放路56-1号 d & tw ¥138- 258, tr ¥288; W)
 
 Occupying three high floors in the handy commercial district, this business hotel branch is a mixed bag with some tired but good-value rooms that face a shopping square and can get noisy from 8am to 9pm. Dearer rooms have small sitting rooms, newer furnishings and feel more professional.
-
-Baishan Hotel (白山大厦, Báishān Dàshà %0433 258 8888; www.baishan-hotel.com; 66 Youyi Lu, 友谊路66号 d & tw ¥888-1088; aiW)
 
 Just a stone's throw away from the river, the Baishan Hotel is an imposing piece of utilitarian architecture with large, comfortable rooms and friendly, efficient staff. The attached ground-floor restaurant has a large selection of excellent Korean and Chinese dishes (from ¥10). Ask for a river-facing room.
 
@@ -5645,11 +5232,7 @@ AÈrdào Báihé (via Tōnghuà) ¥98, six hours, 7.30am and 1.35pm AShěnyáng 
 
 ATōnghuà ¥35, two hours, hourly (5am to 5pm)
 
-Běidàhú Ski Resort 北大湖滑雪场 Běidàhú Ski Resort (Běidàhú Huáxuěchǎng, 北大湖滑雪场 www.beidahuski.com)
-
 Since it hosted the 2007 Asian Winter Games, Běidàhú has established itself as one of China’s premier ski resorts. Located in a tiny village 53km south of Jílín City, the resort has runs on two mountains ranging from beginner to advanced. Though it hasn’t turned a profit since 2009, Běidàhú has seen
-
-continual growth with new runs and the opening of China's second Club Med resort. For more on skiing in Běidàhú, including tour, transport and accommodation information, see China Ski Tours (www.chinaskitours.com).
 
 Chángchūn 长春 %0431 / POP 7.64 MILLION The Japanese capital of Manchukuo between 1933 and 1945, Chángchūn (长春) was also the centre of the Chinese film industry in the 1950s and '60s.
 
@@ -5722,8 +5305,6 @@ Sānyú Zhúyuàn (三俞竹苑 MAP  GOOGLE MAP  ; %0431 8802 8127; 2222 Tongzhi
 The decoration starts with the lovely faux-antique interior and continues with fistfuls of chilli adorning every platter – meat, seafood, even frog. In true Sìchuān style, mildly spicy can translate to very spicy. The picture English menu also contains lots of veg and nonspicy options.
 
 8 Information There are 24-hour ATMs all over town and in the north bus station.
-
-AChangchun Live (www.changchunlive.com) A useful site started by long- term expats.
 
 8 Getting There & Away AIR Chángchūn Lóngjiā International Airport (长春龙嘉国际机场; Chǎngchūn Lóngjiā Guójì Jīchǎng ) has daily flights to major cities, including Běijīng (¥900, two hours) and Shànghǎi (¥1000, 2½ hours) and also Chángbái Shān (¥1000, one hour).
 
@@ -5875,8 +5456,6 @@ Huángshān Jewish Cemetery (皇山公墓, Huángshān Gōngmù GOOGLE MAP  )
 
 Located in the far eastern suburbs of Harbin, this is the largest Jewish cemetery in East Asia. There are more than 600 graves here, all well maintained. A taxi here takes around 45 minutes and costs about ¥100.
 
-Japanese Germ Warfare Experimental Base (侵华日军第731部队遗址, Qīnhuá Rìjūn Dì 731 Bùduì Yízhǐ GOOGLE MAP  ; www.731yz.com; Xinjiang Dajie, 新疆大街 h9-11am & 1-3.30pm Tue-Sun)F This museum is set in the notorious Japanese Germ Warfare Experimental Base (Division 731). Between 1939 and 1945, prisoners of war and civilians were frozen alive, subjected to vivisection or infected with bubonic plague, syphilis and other virulent diseases. Three to four thousand people died here in the most gruesome fashion. The museum includes photos, sculptures and exhibits of the equipment used by the Japanese. There are extensive English captions and an audio guide is available for ¥15.
-
 The base is in the south of Harbin and takes an hour to get to by bus. In the alley beside the Kunlun Hotel on Tielu Jie, catch bus 338 or 343 (¥2). Get off at the stop called Xinjiang Dajie. Walk back 500m along Xinjiang Dajie and look for the base on the left-hand side of the road. If you get lost, just ask the locals the way to Qī Sān Yī (731). Note that Chinese people can be, understandably, uncomfortable talking about this museum.
 
 ## JEWISH HARBIN
@@ -5915,8 +5494,6 @@ Hàolín Business Hotel (昊琳商务连锁酒店, Hàolín Shāngwù Liánsuǒ 
 
 In the centre of Jewish Harbin, a neighbourhood now loaded with restaurants and barbecue stalls at night, is this business-style express hotel with surprisingly comfortable rooms sporting high ceilings, bright interiors and good modern bathrooms. It’s a two-minute walk to Zhongyang Dajie.
 
-Kazy International Youth Hostel (卡兹国际青年旅舍, Kǎzī Guójì Qīngnián Lǚshě MAP  GOOGLE MAP  ; %0451 8469 7113; kazyzcl@126.com; 27 Tongjiang Jie, 通将街27号 dm/s/tw without bathroom ¥40/60/80, d/tw with bathroom ¥180/120; W; g13)
-
 True, the cosy lounge area is a bit dark and grubby, but the friendly staff are a great source of travel information for the city and province. The eight-bed dorms are better value than the musty (some are windowless) private rooms.
 
 Popular with Chinese travellers, so book ahead. A taxi from Harbin station is ¥12.
@@ -5935,8 +5512,6 @@ $$$
 
 $$$ If you’re looking for a river view on the cheap, then this is the place. The owners are friendly, rooms are spacious and there are computers in the more expensive twins. To get to the hotel, turn right at the very end of Zhongyang Dajie. Discounts of up to 30% available.
 
-Ibis Hotel (宜必思酒店; Yíbìsī Jiǔdiàn MAP  GOOGLE MAP  ; %0451 8750 9999; www.ibis.com; 92 Zhaolin Jie; 兆麟街92号 d & tw ¥210; aiW)
-
 The spotless rooms and handy location, minutes up the road from the Church of St Sophia and Zhongyang Dajie, make up for the sometimes surly front- desk staff. Book online for deals with free (but unspectacular) breakfast.
 
 o Lungmen Grand Hotel (龙门贵宾楼酒店, Lóngmén Guìbīn Lóu Jiǔdiàn MAP  GOOGLE MAP  ; %0451 8317 7777; 85 Hongjun Jie, 红军街85号 d/tw ¥580/680; ai)
@@ -5944,8 +5519,6 @@ o Lungmen Grand Hotel (龙门贵宾楼酒店, Lóngmén Guìbīn Lóu Jiǔdiàn 
 With its turn-of-the-century old-world styling almost entirely intact (including marble staircase, dark wood-panelled hallways and copper revolving door), the Lungmen is one of the most atmospheric top-end options in town. Beds and rooms can feel a bit worn, however. Across from the train station, the hotel lobby opens onto Hongjun Jie and its rows of heritage buildings.
 
 A quick walk up the street’s wide pavements takes you into the shopping heart of Harbin. Discounts available.
-
-Modern Hotel (马迭尔宾馆, Mǎdié’ěr Bīnguǎn MAP  GOOGLE MAP  ; %0451 8488 4000; www.madieer.cn; 89 Zhongyang Dajie, 中央大街89号 r incl breakfast from ¥980; aiWs)
 
 While hardly 'modern', this 1906 construction impressively features some of its original marble, blond-wood accents and art nouveau touches. Spend some time checking out the lobby bar's display of hotel memorabilia before retiring
 
@@ -6063,8 +5636,6 @@ This travel agency offers one- and two-day ski trips to Yàbùlì and can handle
 
 ## VISAS
 
-The 72-Hour Visa-Free Transit policy allows passport-holders of many countries a stopover in Harbin without arranging a visa before arrival. This includes most European countries, the USA, Canada, Brazil, Mexico, Australia and Japan. You must have an onward ticket to a third country (ie not the country you arrived from). Inform your airline at check-in and seek the '72-hour Visa-Free Transit' counter on arrival. Check the website well before flying: http://english.gov.cn/services/visitchina.
-
 8 Getting There & Away AIR Harbin Taiping International Airport (哈尔滨太平国际机场; Hā'ěrbīn Tàipíng Guójì Jīchǎng ) has flights to Russia, Japan, South Korea and Taiwan, as well as domestic routes, including the following: ABěijīng ¥810, two hours ADàlián ¥1050, 1½ hours AMòhé ¥2100, 1¾ hours BUS The main long-distance bus station (长途客运站; Chángtú Kèyùn Zhàn MAP GOOGLE MAP  ) is directly opposite the train station. Buy tickets on the 2nd
 
 floor.
@@ -6088,8 +5659,6 @@ ABěijīng Hard seat/sleeper ¥159/293, 10 to 16 hours, eight daily ABěijīng (
 AMǔdānjiāng Hard seat/sleeper ¥52/110, five to six hours, regular AShěnyáng Hard seat/sleeper ¥75/151, six to seven hours AShěnyáng (D/G train) Seat ¥166/247, three/two hours, five daily BORDER CROSSING: GETTING TO RUSSIA Trains no longer depart from Harbin East Train Station to Vladivostok.
 
 Trains do run as far as Suífēnhé, however, from where you can make an onward connection to Vladivostok.
-
-Travellers on the Trans-Siberian Railway to or from Moscow can start or finish in Harbin (six days). Contact the Harbin Railway International Travel Service (哈尔滨铁道国际旅行社, Hā’ěrbīn Tiědào Guójì Lǚxíngshè MAP GOOGLE MAP  ; %0451 5361 6718; www.ancn.net; 7th fl, Kunlun Hotel, 8 Tielu Jie, 铁路街8号昆仑大厦 h9am-5pm) for information on travelling through to Russia.
 
 8 Getting Around A cable car ( MAP  GOOGLE MAP  ; 1-way ¥50, return ¥80) crosses Sōnghuā River from Tongjiang Jie to Sun Island.
 
@@ -6211,8 +5780,6 @@ Building slopes and resorts has been easy; maintaining them while a ski culture 
 
 another round of investment hit the industry. This time the focus would be on upping the luxury quotient, and also opening more runs and facilities for absolute beginners.
 
-In China’s north, the largest resorts are Jílín’s Běidàhú Ski Resort and Hēilóngjiāng’s Yàbùlì Ski Resort (亚布力滑雪中心, Yàbùlì Huáxuě Zhōngxīn www.yabuliski.com) 200km southeast of Harbin. Yàbùlì was China’s first destination ski resort, and remains the training centre for the Chinese Olympic ski team. Since 2009 the resort has expanded to cover two mountains and now has a good division of advanced, intermediate and beginner runs, as well as a four-star lodge that can reasonably cater to Western guests.
-
 The latest slopes to be developed in the region are at Chángbái Shān on the China–North Korean border located about 15km from the new airport.
 
 At the Wanda Chángbái Shān International Resort, you'll find 20 runs on two mountains as well as a luxury alpine village offering hotels, restaurants and private condos. Top-notch hotels in the area include the Sheraton and Westin chain of hotels. They offer guest pick-ups from the train station or airport.
@@ -6314,8 +5881,6 @@ The reserve comprises some 2100 sq km of wetlands that are on a bird migration p
 The best time to visit Zhālóng is in spring. In summer the mosquitoes can be more plentiful than the birds – take repellent! To get here, head to Qíqíhā’ěr and board bus 306 (¥20, 45 minutes, half-hourly) from Dàrùnfā (大润发). Birds are released at 9.30am, 11am, 2pm and 3.30pm.
 
 The Xiànghǎi National Nature Reserve (向海, Xiànghǎi Guójiā Zìrán Bǎohùqū), 310km west of Chángchūn in Jílín province, is on the migration path for Siberian cranes, and the rare red-crowned, white-naped and demoiselle cranes breed here. More than 160 bird species, including several of these cranes, have been identified at the Horqin National Nature Reserve (科尔沁, Kē’ěrqìn Guójiā Zìrán Bǎohùqū), which borders Xianghai in Inner Mongolia. The Mòmògé National Nature Reserve (莫莫格, Mòmògé Guójiā Zìrán Bǎohùqū) in northern Jílín province is also an important wetlands area and bird breeding site.
-
-For more information about China’s crane population and these nature reserves, contact the International Crane Foundation (www.savingcranes.org) or see the website of the Siberian Crane Wetland Project (www.scwp.info).
 
 ## VILLAGE
 
@@ -6477,10 +6042,6 @@ The oldest Buddha statues on Thousand Buddha Mountain are contained here, in thi
 
 Wángfǔ Pool (王府池子, Wángfǔ Chizi MAP  GOOGLE MAP  )F In a quiet alleyway off busy, walking street Furong Jie (turn right at the police stand), the neighbourhood comes to bathe and soak in this spring-fed pool. It's a brisk 18°C year-round, so indulge in frequent barbecue and beer breaks at one of the nearby stands.
 
-Shāndōng Museum (山东博物馆, Shāndōng Bówùguǎn %0531 8505 8201; www.sdmuseum.com; 11899 Jingshi Lu, 经十路11899号 audio tour ¥30; h9am-4pm Tue-Sun; g115, 202, 18)F The enormous provincial museum – a 7km slog east of the city centre – surveys local culture from the mesolithic age to the present. Its collection began as one of the first organised museums in China in 1904. On display are oracle bones, Qi and Lu kingdom pottery, Han tomb murals and clothing worn by the Kong clan (Confucius’ descendants).
-
-Jǐ’nán Museum (济南市博物馆, Jǐ’nán Shì Bówùguǎn MAP  GOOGLE MAP  ; %0531 8295 9204; www.jnmuseum.com; 30 Jing Shiyilu, 经十一路30号 audio tour ¥10; h8.30am-4pm Tue- Sun; gK51)F North of Thousand Buddha Mountain’s main entrance, the Jǐ’nán Museum
-
 ## MOUNTAIN
 
 ## PARK
@@ -6515,8 +6076,6 @@ These fun, open-air, motorised boats circle clockwise around the lovely Húchén
 
 4 Sleeping Jǐ’nán doesn't have much in the way of budget accommodation, but is reasonably well supplied in the midrange and top-end bracket. Budget hotels with rooms for around ¥160 to ¥180 are clustered around the main train station, though not all cater to foreigners and rooms vary greatly. It helps if you speak some Chinese too, but inspect the rooms first if you choose to stay here.
 
-Chéngběi Youth Hostel (城北国际青年旅舍, Chéngběi Guójì Qīngnián Lǚshě MAP  GOOGLE MAP  ; %0531 869 7661; w454488201@gmail.com; 111 Bianzhi Xiang, off Quancheng Lu, 鞭指巷111号 dm ¥35- 55, d ¥120; aW; g3, 5, K50)
-
 This youth hostel in a small, converted courtyard residence is your best option for a cheap bed. Dorms and common bathrooms are decent, but the one available double room is just a mattress on the ground. There's a small
 
 ## HOTEL
@@ -6532,8 +6091,6 @@ To get here, follow the flow of traffic, turn right off Quancheng Lu down Bianzh
 Silver Plaza Quancheng Hotel (银座泉城大酒店, Yínzùo Quánchéng Dàjiǔdiàn MAP  GOOGLE MAP  ; %0531 8692 1911; 2 Nanmen Dajie, 南门大街2号 d/tr ¥493/531; nai)
 
 You know this is a Chinese business hotel from the blinding Euro-style bling in the lobby. Professional staff and a prime spot overlooking Quancheng Sq make up for that and the compact rooms with stained tile ceilings. Shell out for an upgrade in the renovated B-wing.
-
-Sofitel Silver Plaza (索菲特银座大饭店, Suǒfēitè Yínzuò Dàfàndiàn MAP  GOOGLE MAP  ; %0531 8606 8888; www.sofitel.com; 66 Luoyuan Dajie, 泺源大街66号 r from ¥690, plus 10% service charge; nais)
 
 This five-star hotel in the commercial district is still an excellent option, though we wish standard rooms were as spacious as the lobby suggests.
 
@@ -6594,8 +6151,6 @@ A red-brick building on the corner of Wei Erlu.
 Public Security Bureau (PSB, 公安局, Gōng’ānjú %0531 8508 1000, visa inquiries ext 2459; 777 Shuhuaxi Lu, 舜华西路777号 h9am-noon & 2-4.40pm Mon-Fri)
 
 About 9km (a ¥18 taxi ride) east of the city centre.
-
-Shāndōng Provincial Qiānfó Shān Hospital International Clinic (千佛山医院国际医疗中心, Qiānfó Shān Yīyuàn Guójì Yīliáo Zhōngxīn GOOGLE MAP  ; %0531 8926 8018, 0531 8926 8017; www.sdhospital.com.cn; 16766 Jingshi Lu, 经十路16766号 h8-11am & 2-5.30pm Mon-Fri)
 
 English and Japanese spoken. Take bus K51 or K68 to the Nánkǒu (南口)
 
@@ -6737,8 +6292,6 @@ The main hall is the colossal Hall of Heavenly Blessing (天贶殿; Tiānkuàng 
 
 4 Sleeping Since you will need at least a full day to explore the mountain, spending the night in Tài’ān or at the summit is advised. It's cheaper and more comfortable to sleep in Tài’ān, and there's far more choice, although staying on the mountain naturally has its own appeal. There are many midrange options in town, mostly clustered around the Tàishān train station. Ask for discounts.
 
-o Hóngmén International Youth Hostel (红门国际青年旅舍, Hóngmén Guójì Qīngnián Lǚshě MAP  GOOGLE MAP  ; %0538 808 6188; www.yhachina.com; 89 Hongmen Lu, 红门路89号 dm ¥45-65, s & d ¥188, tr ¥218; W; gK3, K37)
-
 In a red courtyard building, and formerly part of the Taoist Guandi Temple next door, this fresh hostel offers the best of all worlds – the mountain within a few steps, a cafe-bar and bright rooms with all necessary conveniences including wi-fi. The very knowledgeable staff organise night climbs and advise about how to take in the sights to the fullest.
 
 Tàishān International Youth Hostel (泰山国际青年旅舍, Tàishān Guójì Qīngnián Lǚshè MAP  GOOGLE MAP  ; %0538 628 5196; 65 Tongtian Jie, 通天街65号 dm ¥40-60, s & d ¥100-188; aiW; g1, 4, 7, 8, 17)
@@ -6756,8 +6309,6 @@ $
 ## CHINESE
 
 $ Discounts get rooms down to around ¥128.
-
-Ramada Plaza Tài'ān (东尊华美达大酒店, Dōngzūn Huáměidá Dàjiǔdiàn MAP  GOOGLE MAP  ; %0538 836 8666; www.ramadaplazataian.com; 16 Yingsheng Donglu, 迎胜东路16号 s & d ¥1160-1400, ste ¥1960-3360; naWs; g8)
 
 This decent five-star choice in the northwest has all the usual comforts plus fantastic views of the main attraction, although service can be a bit below par.
 
@@ -6828,8 +6379,6 @@ Tourist information office at the train station.
 8 Getting There & Away Whether by road or track, most routes pass through Jǐ’nán, 80km north.
 
 Buses and trains are cheapest. Another option is picking up the airport shuttle ( MAP  GOOGLE MAP  ; %0538 850 2600; 26 Hongmen Lu; 红门路26号 adul ¥80; h5.30am, 8.30am, 10am, 1.30pm, 4.40pm) in front of the Taishan Hotel; it connects to Jǐ’nán’s Yáoqiáng airport, taking two hours.
-
-Buy train and plane tickets at the Hongmen Lu ticket office (红门火车票代售点 MAP  GOOGLE MAP  ; %0538 218 7989; 22 Hongmen Lu; 红门路22号 commission ¥5; h8am-6pm), or at the ticket office (火车票代售处,空售票处 MAP GOOGLE MAP  ; %plane 218 3333, train 0538 611 1111; 111 Qingnian Lu; 青年路111号 h8.30am-5.30pm) on Qingnian Lu. Hostels can also help and you can also purchases train tickets online at http://english.ctrip.com/trains. Tickets sell out quickly so book early. Bear in mind that bus and train agents sometimes
 
 refer to Tài’ān and Tài Shān interchangeably.
 
@@ -6938,8 +6487,6 @@ and views of Tiānzhú Peak – when it’s running. Call in advance.
 Peach Blossom Park Route This route to the summit passes through a scenic valley of striking geological formations and trees that explode with colour in early spring and fall. It makes for an especially pleasant descent.
 
 Near the South Gate to Heaven, take Peach Blossom Park cable car (桃花源索道; Táohuā Yuán suǒdào MAP  GOOGLE MAP  ; %0853 833 0763; one way/return ¥100/200; h7.30am-5pm) down to Peach Blossom Valley. This cable car operates infrequently, so call ahead. From the cable car drop-off it is another 9km on foot or by bus (one way ¥30, departs when full 6am to 6pm and midnight to 2am) to reach the park exit and bus 16 back into town.
-
-z Festivals & Events International Climbing Festival (www.zgjqdh.com/zt/tsgjdsj/index.shtml)
 
 Trail runners and stair steppers converge to race up the Central route for this festival every September.
 
@@ -7123,11 +6670,7 @@ Shangri-La Hotel
 
 ## HOTEL
 
-$$$ (香阁里拉大酒店 MAP  GOOGLE MAP  ; %0537 505 8888; www.shangri-la.com; 3 Chunqiu Lu,春秋路3号 incl breakfast r ¥805-1035, ste ¥2288; naW)
-
 The Shangri-La is a winning brand, with slick, top-end facilities, kids' activities and impressive buffets. Rooms are stylish and comfortable and service is always polite. It's just south of the old town of Qūfù.
-
-Quèlǐ Hotel (阙里宾舍, Quèlǐ Bīnshè MAP  GOOGLE MAP  ; %0537 486 6400; www.quelihotel.com; 15 Zhonglou Jie, 钟楼街15号 incl breakfast s ¥280-600, d ¥350-460, ste from ¥1000; aW)
 
 For many years the traditional-style four-star Quèlǐ was the fanciest hotel in Qūfù. It has been refurbed but some rooms are still nicer than others. Look at the rooms first. If you want a temple view room, it will cost sightly more.
 
@@ -7156,8 +6699,6 @@ A friendly Hui family runs this simple but convenient place behind the Confucius
 Qūfù Night Market (曲阜夜市, Qūfù Yèshì MAP  GOOGLE MAP  ; Wumaci Jie & Gulou Nanjie, 五马祠街鼓楼南街的路口 snacks from ¥3, dishes from ¥9; hfrom 5pm)
 
 The busy, aromatic and central night market cooks up lamb kebabs, noodles, húntún (wontons), tofu and many other dishes and street snacks.
-
-Yù Shū Fáng (御书房 MAP  GOOGLE MAP  ; %0537 441 9888; www.confuciusfood.com; 2nd fl, Houzuo Jie, 后作街2楼 banquet per person ¥138-500; h11am-2pm & 5-8.30pm)
 
 On dining, Confucius duly noted 'Food can never be too good, and cooking can never be done too carefully'. This restaurant of private rooms behind the Confucius Mansion takes this to heart, serving fine Iron Guanyin teas (铁观音; tiě guānyīn) from ¥40 per pot (壶) and Kong-family banquet meals (套餐; tào cān), for a never-ending succession of dishes.
 
@@ -7309,8 +6850,6 @@ E1 C3 B1 B2 A3 A2
 
 East of Shandong Lu rises the modern city, with the central business district (CBD) to the north and the latest in retail and dining in Dōngbù, closer to the water to the south. Further east still is the developing Láo Shān district (崂山区), anchored by the Municipal Museum, Grand Theatre and International Beer City (site of the annual International Beer Festival).
 
-o Han Dynasty Brick Museum (崇汉轩汉画像砖博物馆, Chóng Hànxuān Hàn Huàxiàng Zhuān Bówùguǎn %158 6552 0097, 0532 8861 6533; http://zhangxinkuan.com; Binhai Dadao Kutao, inside 409 Hospital, 滨海大道枯桃409医院院内 adult/student ¥40/free; h8-11.30am & 2-5.30pm)
-
 Thirty years ago, Zhang Xinkuan was a young army officer laying a road in Hénán province when he noticed the huge granite slabs they were smashing into gravel were covered in exquisite carvings. Thus began his life's pursuit to save more than 5000 Han dynasty relics, now housed in his truly unique, private museum at the southwestern foot of Láo Shān.
 
 ## NOTABLE BUILDING
@@ -7328,8 +6867,6 @@ Lit up at night, this graceful pavilion decorates the end of Zhàn Bridge poking
 Governor’s House Museum (青岛德国总督楼旧址博物馆, Qīngdǎo Déguó Zǒngdū Lóu Jiùzhǐ Bówùguǎn MAP GOOGLE MAP  ; %0532 8286 8838; 26 Longshan Lu, 龙山路26号 summer/winter ¥20/13, multilingual audio tour ¥10; h8.30am-5.30pm; g1, 221)
 
 This museum is one of Qīngdǎo’s best examples of concession-era architecture – the former German governor’s residence constructed in the style of a German palace. The building’s interior is characteristic of Jugendstil, the German arm of art nouveau, with some German and Chinese furnishings of the era.
-
-Tsingtao Beer Museum (青岛啤酒博物馆, Qīngdǎo Píjiǔ Bówùguǎn MAP  GOOGLE MAP  ; %0532 8383 3437; www.tsingtaomuseum.com; 56-1 Dengzhou Lu, 登州路56-1号 admission ¥60, English guide ¥60; h8.30am-6pm; g1, 205, 221, 307, 308)
 
 For a self-serving introduction to China’s iconic beer, head to the original and still-operating brewery. On view are old photos, preserved brewery equipment and statistics, but there are also a few fascinating glimpses of the modern factory line. The aroma of hops is everywhere. Thankfully, you get to sample brews along the way.
 
@@ -7362,12 +6899,6 @@ On a street of German buildings, this copper-capped beauty was designed by Curt 
 ## MUSEUM
 
 ## NOTABLE BUILDING
-
-Qīngdǎo City Art Museum (青岛市美术馆, Qīngdǎo Shì Měishùguǎn MAP  GOOGLE MAP  ; %0532 8288 8886; http://qdmsg.sdgw.com; 7 Daxue Lu, 大学路7号 h9am-5pm; g1, 25, 221, 367)F Contemporary works are on display in this compact museum housed in its own architectural masterpiece, a 1930s structure reflecting an eclectic mix of architectural styles from deco to Byzantine, Islamic and imperial Chinese.
-
-Qīngdǎo Municipal Museum (青岛市博物馆, Qīngdǎo Shì Bówùguǎn %0532 8889 6286; http://qingdaomuseum.com; 51 Meiling Lu, 梅岭路51号 h9am-5pm, closed Mon; g230, 321)F This massive collection of relics anchors the budding cultural zone about 13km east of Old Town in Láo Shān district. It has the usual broad span of exhibits expected in a big-city museum, ranging from the prehistoric to the industrial age. Collections of folk-art woodcuts and intriguing coins pressed with Kyrgyz script stand out.
-
-Chinese Navy Museum (中国海军博物馆, Zhōngguó Hǎijūn Bówùguǎn MAP  GOOGLE MAP  ; %0532 8286 6784; www.hjbwg.com; 8 Caiyang Lu, 菜阳路8号 ¥50; h8.30am-5.30pm; g26, 202, 501)
 
 Adjacent to Little Qīngdǎo lighthouse, this museum’s main attractions are the rusty submarine and destroyer anchored in the harbour. There are also, of course, displays on Chinese naval history.
 
@@ -7473,13 +7004,9 @@ z Festivals & Events Cherry Blossom Festival (hApr)
 
 The cherry blossoms explode with colour in Zhōngshān Park around April, bring splashes of colour to Qīngdǎo's oldest and largest park.
 
-o International Beer Festival (www.qdbeer.cn; 9am-3pm ¥10, 3-10.30pm ¥20; hAug)
-
 The city’s premier party draws more than three million tipplers every August.
 
 It's not just Tsingtao on the menu, so expect a galaxy of international and domestic brands.
-
-International Sailing Week (www.qdsailing.org; hAug/Sep)
 
 Watch (or join) the regattas and windsurfing by the Olympic Sailing Center every August/September.
 
@@ -7497,19 +7024,11 @@ $
 
 ## HOSTEL
 
-$$ 5450; kaiyuehostel@126.com; 31 Jining Lu, 济宁路31号 dm ¥55-75, r ¥100-300, without bathroom ¥70-150; aW)
-
 This spacious, sociable, friendly and helpful hostel in a historic church at Sifang Lu and Jining Lu has a lively congregation. They come to worship in the slick new bar and restaurant (Jinns' Café), which serves great pizza and desserts on the ground floor; there's a great movie room too. Rooms are good value for money. Live music kicks off in the bar.
-
-Héngshān No 5 Hostel (恒山路5号国际青年旅社 MAP  GOOGLE MAP  ; %0532 8288 9888; http://hengshan5.com; 5 Hengshan Lu, 恒山路5号 dm/r ¥60/175; ai)
 
 On a short street south of the Governor’s House Museum, this bright and cheery hostel in a white, three-storey mansion was once the servants' quarters. Beds and bunks in dorms and doubles are similar (tidy, pine frame, reasonably soft). In the garden, sunny Luka Garden Cafe & Bistro serves fantastic coffee and Kiwi fare, and feels like home on the patio.
 
-YHA Old Observatory (奥博维特国际青年旅舍, Àobówéitè Guójì Qīngnián Lǚshè MAP  GOOGLE MAP  ; %0532 8282 2626; www.hostelqingdao.com; 21 Guanxiang Erlu, 观象二路21号 dm ¥80- 90, r with/without bathroom from ¥428/380, discounted to ¥198/168; aiW)
-
 Perched on a hill in a working observatory, this quiet hostel has unbeatable views of the city and bay. Take them in with a drink in hand in the pleasant rooftop Sunset Lounge. Staff provide all the usual hostel services, plus they organise outings around town and Láo Shān. Comfort levels vary – some doubles have nicer bathrooms. Book in advance.
-
-Wheat Youth Hostel (麦子青年旅社, Màizi Qīngnián Lǚshè MAP  GOOGLE MAP  ; %0532 8285 2121; www.qdmaizi.com; 35 Hebei Lu, 河北路35号 dm ¥80-148, r with/without bathroom ¥385/355; aiW)
 
 ## HOTEL
 
@@ -7527,11 +7046,7 @@ Rooms are spotless with nostalgic details and creaky hardwood floors (if only th
 
 There's a modern library and entertainment lounge, plus a bar where you can pick up good travel advice. Discounts of 50%.
 
-o Shangri-La Hotel (香格里拉大酒店 GOOGLE MAP  ; %0532 8388 3838; www.shangri- la.com/qingdao/shangrila/; 9 Xianggang Zhonglu, 香港中路9号 d ¥1100-1500, ste ¥1800- 6000; naWs)
-
 The Shangri-La brand is a reliable symbol of excellence throughout China, and even more so in this outstanding hotel. We could point to the stylish and comfortable rooms, the dazzling 25m swimming pool or the panoply of fine dining choices and we would be right on the money. But it's the staff that make this place a clear cut above the rest.
-
-Sea View Garden Hotel (海景花园大酒店, Hǎijìng Huāyuán Dàjiǔdiàn %0532 8587 5777; http://seaviewgardenqingdao.com; 2 Zhanghua Lu, 彰化路2号 r ¥900-1700, ste from ¥1360; naiWs; g231, 232)
 
 Numerous five-star offerings have brought intense competition to the top bracket, but this hotel on the water distinguishes itself with beyond professional service. Refreshments, hot towels and even unsolicited delivery of homemade soup to ease a cough – we could get used to this, assuming our credit cards don’t max out. Fortunately, the service charge is already included and discounts up to 40% are available.
 
@@ -7542,8 +7057,6 @@ China Community Art & Culture
 $
 
 ## GRILL
-
-$ (老转村公社文华术酒店, Lǎozhuǎncūn Gōngshè Wénhuá Yìshù Jiǔdiàn GOOGLE MAP  ; %0532 8576 8776; www.chinagongshe.com; 8 Minjiang Sanlu, 闽江三路8号 s/d from ¥288/328, ste ¥1088; g228, 402, 604)
 
 With silk lanterns illuminating the hallways, ceramic bowls serving as sinks, wood-floor showers and antique furnishings, each sumptuously decorated room in this polished hotel in the heart of Dōngbù has the feel of a courtyard residence. There’s a fantastic restaurant on premises. Discounts of 10%.
 
@@ -7623,11 +7136,7 @@ The beer of choice in Chinese restaurants around the world, Tsingtao is one of C
 
 ## MALL
 
-3 Entertainment Qīngdǎo Grand Theatre (青岛大剧院, Qīngdǎo Dàjùyuàn %0352 8066 5555; www.qingdaograndtheatre.com; 5 Yunling Lu, 云岭路5号 g230, 321)
-
 North of Shílǎorén in the Láo Shān district, the city’s grand performing-arts centre puts world-class theatre, music, dance, comedy and kiddie acts on its three stages.
-
-Broadway Cinemas (百老汇影城, Bǎilǎohuì Yǐngchéng GOOGLE MAP  ; www.b-cinema.cn; 88 Aomen Lu, 澳门路88号 tickets from ¥90)
 
 Domestic and Hollywood blockbusters on the 3rd floor of Marina City shopping mall in the CBD.
 
@@ -7661,8 +7170,6 @@ Massive general store at Nanjing Lu and Xianggang Zhonglu, fantastic for food to
 
 8 Information Skip the travel agencies and consult with one of the city's excellent hostels for travel advice.
 
-Useful websites include That's Qingdao (www.thatsqingdao.com), with listings and news clips, and Red Star (www.myredstar.com), an online entertainment guide and monthly magazine available in hostels, bars and foreign restaurants.
-
 China Post offices are located on the west edge of Táidōng ( GOOGLE MAP  ; 23-1 Taidong Yilu; 台东一路23-1号 h8.30am-6pm), north of Old Town, and by the ICBC tower in the CBD ( GOOGLE MAP  ; 119 Nanjing Lu; 南京路119号 h9am-5pm
 
 ## POLICE
@@ -7684,10 +7191,6 @@ Qīngdǎo Municipal Hospital, International Clinic (青岛市立医院东院区�
 8 Getting There & Away A handy ticket office sells air, train and ferry tickets on the ground floor of the Xīn Tiānqiáo Hotel (青岛新天桥宾馆售票处; Qīngdǎo Xīn Tiānqiáo Bīnguān Shòupiàochù MAP  GOOGLE MAP  ; %air & boat 0532 8612 0222, train & bus 0532 8612 0111; 47 Feicheng Lu; 肥城路47号 usual commission ¥5; h7.30am-9pm), near the train station. Otherwise, hostels can help.
 
 AIR Qīngdǎo’s Líutíng International Airport (%booking & flight status 0532 8471
-
-5139, hotline 96567; www.qdairport.com) is 30km north of the city. There are flights to most large cities in China, including daily services to Běijīng (¥970, 1¼ hours), Shànghǎi (¥780, one hour 40 minutes) and Hong Kong (¥2500, return, three hours). International flights include daily flights to Seoul (¥1600 return) and Tokyo (¥7000 return).
-
-Book tickets online using www.english.ctrip.com or www.elong.net.
 
 BUS Among Qīngdǎo’s many bus stations, the long-distance bus station (长途汽车站; Chángtú Qìchēzhàn GOOGLE MAP  ; %400 691 6916; 2 Wenzhou Lu) in the Sìfāng district (四方区), north of most tourist sights, best serves most travellers. A limited number of buses also depart for provincial destinations, including Yāntái (¥84, four hours, hourly, 6am to 5.30pm), directly across from the train station.
 
@@ -7742,10 +7245,6 @@ BORDER CROSSINGS: QĪNGDǍO TO JAPAN & SOUTH
 ## KOREA
 
 International boats cross the Yellow Sea from Qīngdǎo’s Passenger Ferry Terminal (青岛港客运站; Qīngdǎogǎng Kèyùnzhàn GOOGLE MAP  ; %0532 8282 5001; 6 Xinjiang Lu; 新疆路6号 ), a kilometre north of Old Town along Xinjiang Lu.
-
-Orient Ferry (奥林汽船 GOOGLE MAP  ; %0532 8387 1160, 0532 8593 8919; www.orientferry.co.jp; Office, HiSense Plaza, 17 Donghai Xilu; 东海西路17号海信大厦 1410室 tickets from ¥1350) sails twice weekly for Shimonoseki, Japan (下关;
-
-36 hours, Monday and Thursday, check in by 3.30pm, departs 8pm), while Weidong Ferry Company (威东航运, Wēidōng Hángyùn GOOGLE MAP  ; %0532 8280 3574; www.weidong.com; 4 Xinjiang Lu, next to Qīngdǎo Passenger Ferry Terminal; 东海西路15号 tickets ¥750-1090) operates boats from Qīngdǎo to Incheon, South Korea (仁川; 18 hours, Monday, Wednesday and Friday, check in by 2pm, departs 4pm), as well as from Yāntái and Wēihǎi. The cheapest tickets are usually for spots on the floor in large carpeted rooms, so upgrade at least one level if you want privacy.
 
 Buy advance or same-day tickets at the passenger ferry terminal and from some ticket offices like the Xīn Tiānqiáo Hotel around town. The ferry terminal also exacts a ¥30 exit fee per passenger.
 
@@ -7913,8 +7412,6 @@ With Korean and Japanese restaurants, and an international ticketing office on t
 
 Discounts of up to 30%. Look for the 'SD MACH' sign on the rooftop.
 
-Waitinn (维特风尚酒店, Wéitè Fēngshàng Jiǔdiàn MAP  GOOGLE MAP  ; %0535 212 0909; www.waitinn.com; 73 Beima Lu, 北马路73号 tw & d ¥288-328, tr ¥358; ai)
-
 Opposite the train station, this refurbished hotel is a decent place to, as it were, wait in. Rooms are large, comfortable and equipped with flat-screen TVs. Add breakfast for ¥15 and ask for a discount. Another branch is right by
 
 ## HOTEL
@@ -8009,21 +7506,13 @@ Chinese-speaking only.
 
 8 Getting There & Away AIR
 
-Yāntái Pénglái International Airport (烟台蓬莱国际机场; Yāntái Pénglái Guójì Jīchǎng ) serves both Yāntái and Pénglái and is around 43km northwest of Yāntái. Book tickets online at www.english.ctrip.com.
-
 There are regular flights to Běijīng (¥690, one hour 20 minutes), Shànghǎi (¥940, one hour 50 minutes) and Guǎngzhōu (¥2050, three hours 10 minutes).
 
 ## BOAT
 
-Purchase tickets for ferries to Dàlián (seat ¥180, bed ¥210 to ¥1200, seven hours, nine daily 8am to 11.30pm) at the Yāntái Harbour Passenger Transit Terminal (烟台港客运站; Yāntáigǎng Kèyùnzhàn %0535 650 6666; www.bohaiferry.com; 155 Beima Lu; 北马路155号 ) or ticket offices east of the train station or in the bus station. There are also two boats to Lǚshùn (tickets from ¥100, 6½ hours) at 2.10pm and 10pm.
-
 BORDER CROSSING: SOUTH KOREA Shāndōng's coastline offers easy access to international cities across the Yellow Sea. Boats regularly depart from Yāntái’s Passenger Ferry Terminal (烟台港客运站; Yāntái Gǎng Kèyùnzhàn MAP  GOOGLE MAP  ; %0535 624 2715; 155 Beima Lu; 北马路155号 ) for Incheon (仁川) and Pyeongtaek (平泽), South Korea.
 
-Wēidōng Ferry Company (威东航运; Wēidōng Hángyùn MAP GOOGLE MAP  ; %0535 660 3721; www.weidong.com; 155 Beima Lu, next to Yāntái Passenger Ferry Terminal; 北马路155号 dm from ¥600, r ¥890-1370), next to Yāntái Passenger Ferry Terminal, sails three times a week from Yāntái (16 hours, Monday, Wednesday and Friday, departs 6.30pm). Tickets sell out, so book in advance by phone or at the ticket office next to the ferry terminal. Plan to check in early, generally before 3pm, as customs and other inspections are required. The cheapest tickets are usually for spots on the floor in large carpeted rooms, so upgrade at least one level if you need privacy.
-
 There are also boats (from ¥950, 6pm, 14½ hours) every Tuesday, Thursday and Sunday to Pyeongtaek in South Korea.
-
-Weidong Ferry (威东航运, Wēidōng Hángyùn %0631 522 6173; 48 Haibin Beilu; 海滨北路48号, Wēihǎi dm ¥750, r ¥890-1370) also sails from Wēihǎi (Tuesday, Thursday and Sunday, departs 7pm) from the passenger ferry terminal (威海港国际客运码头; Wēihǎi Gǎng Guójì Kèyùn Mǎtóu %0631 523 6799; www.whport.com.cn; 288 Shū Gǎng Lù; 疏港路288号, Wēihǎi ). Buses from Yāntái's long-distance main bus station (¥38) make the 70km drive to Wēihǎi's station every 10 minutes from 5.30am to 7pm, then you transfer to bus K01 for the 10km drive north to the ferry terminal.
 
 BUS From the long-distance main bus station (长途总汽车站; Chāngtú Zǒng Qìchē Zhàn MAP  GOOGLE MAP  ; %0535 666 6111; 86 Xi Dajie & Qingnian Lu; 西大街青年路的路口 ) there are buses to numerous destinations: ABěijīng ¥246, 10 hours, four daily (8.45am, 9.20am, 7pm and 7.10pm)
 
@@ -8293,8 +7782,6 @@ Nánjīng University (南京大学, Nánjīng Dàxué MAP  GOOGLE MAP  ; Hankou 
 
 This delightfully historic campus is worth a stroll to appreciate its traditional architecture, lovely trees and green spaces.
 
-Nánjīng Normal University (南京师范大学, Nánjīng Shīfàn Dàxué GOOGLE MAP  ; www.njnu.edu.cn; 122 Ninghai Lu, 宁海路122号 mZhujianglu)
-
 Established in 1902 and located in the centre of town; the lovely campus is well worth an exploration.
 
 Yangzi River Bridge (南京长江大桥, Nánjīng Chángjiāng Dàqiáo GOOGLE MAP  ; g67, mShangyuanmen)
@@ -8373,8 +7860,6 @@ Held yearly from the last Saturday of February to early March, this festival tak
 
 4 Sleeping Most of Nánjīng’s accommodation is midrange to top end in price and it's very hard to score a bargain. Cheaper guesthouses will not take foreigners, but you can try your luck. All places have wi-fi (signal strength can vary from room to room) and most places can also help to book air and train tickets. There are a couple of hostels of note, however, and at least one of excellent repute.
 
-o Nánjīng Time International Youth Hostel (南京时光国际青年旅舍, Nánjīng Shíguāng Guójì Qīngnián Lǚshè MAP  GOOGLE MAP  ; %025 8556 9053; www.yhachina.com; 6-5 Yongyuan, Méiyuán Xīncūn, 梅园新村雍园6-5 号 dm ¥60, r ¥180-220; ai; mXi'anmen)
-
 Time – for atmosphere alone it’s the best in town – is in a republican-era mansion not far from the Presidential Palace. The area is lovely: small, leafy alleys with period properties and some serious tranquillity. Dorms are very clean and rooms offer a simplistic charm. There are a lot of common areas, including a relaxing rooftop terrace and a fine ground-floor bar.
 
 The cheapest double rooms come without window. The salubrious –
@@ -8390,8 +7875,6 @@ $$$ central yet very quiet – neighbourhood guarantees you a good night's sleep
 The hostel is hidden away down an alley with lots of twists and turns in the Méiyuán Xīncūn district, north of Changjiang Lu. Download a map from the hostel website for directions.
 
 Orange Hotel (Dashiba)
-
-(桔子酒店, Júzi Jiǔdiàn MAP  GOOGLE MAP  ; %025 8696 8090; www.orangehotel.com.cn; 26 Dashiba Jie, 大石坝街26号 r ¥329-529; aiW; mFuzimiao or Wudingmen)
 
 In a great riverside location within walking distance to the Fūzǐ Temple area, this branch of the very popular chain has modern rooms, with good bedding and lighting and every gizmo and gadget your computer, tablet or mobile phone might ever need. It’s worth paying a few more bucks for the rooms with river-facing balconies. Other pluses include complimentary fruit and free use of the hotel’s bikes.
 
@@ -8465,8 +7948,6 @@ $$
 
 $$ English menu, but there's a picture menu outside.
 
-o Element Fresh (新元素, Xīnyuánsù MAP  GOOGLE MAP  ; www.elementfresh.com; 1st fl, IST Mall, 100 Zhongshan Nanlu, 中山南路100号艾尚天地1楼 mains from ¥48; h11am-10.30pm Mon- Thu, 11am-11pm Fri, 9am-11pm Sat & Sun; W; mXinjiekou)
-
 Ever-trendy Element Fresh gives the iffy Nánjīng cafe culture a good kick in the pants. The setting is smooth, the ambient tunes funky, the lines clean, the wholesome menu a delight and candles come on at night. Balk you may at paying ¥69 for homemade hummus, but it comes loaded with tons of pitta, tomatoes, carrots, cucumber, celery plus green and black olives.
 
 Motu ( MAP  GOOGLE MAP  ; %177 0159 8220; 107 Gutong Xiang, 箍桶巷107号 mains from ¥53; h10am-9pm; W; mWudingmen)S Down along spruced-up Laomen Dong, New Zealander–owned Motu does a brisk trade in fine burgers. Order at the till, take a numbered flag and try and grab one of the balcony seats overlooking Gutong Alley (Gutong Xiang).
@@ -8480,8 +7961,6 @@ This smartly attired Xīnjiāng restaurant is done up in lime green and cream, w
 Accompany the meal with a Xīnjiāng black beer (¥15).
 
 Wagas
-
-WESTERN, CAFE $$ BAR (沃歌斯, Wògēsī MAP  GOOGLE MAP  ; www.wagas.com.cn; A108, IST Mall, 100 Zhongshan Nanlu, 中山南路100号艾尚天地A108室 mains from ¥55; h10am-10pm Mon- Fri, 8am-10pm Sat & Sun; W; mXinjiekou)
 
 Wagas is everyone's darling. The setting is all industrial chic: concrete floor, patchy and distressed white painted grey brick, staff in snappy but casual black outfits and a relaxed, casual crowd. The menu is sandwiches, wraps, pasta, modern Asian dishes, brekkies and brunches. Good deals and offers abound, chalked up on the wall: express sandwiches are 50% off before 11am Monday to Friday.
 
@@ -8499,13 +7978,9 @@ BAR
 
 ## CHINESE OPERA
 
-( MAP  GOOGLE MAP  ; www.brewsells.com; 77-1 Shanghai Lu, 上海路77-1号 beers from ¥30; h5pm-2am; mZhujiang Lu)
-
 There's a great vibe at this enterprising bar with Vedett (¥38), La Chouffe (¥38) and Asahi (¥28) on tap, and Trappistes Rochefort, blue/red Chimay (¥40) and other Belgian brews cooling in the fridge. This small, specialist imported beer bar (named after 'Brussels') has expat ale fiends descending in droves for fine beer and a fun quiz night. It also does Belgian waffles.
 
 Asahi is ¥10 11am to 8pm; otherwise happy hour is 5pm to 8pm for premium drafts. The bar staff are friendly and speak good English.
-
-Behind the Wall (答案, Dá’àn MAP  GOOGLE MAP  ; www.behindthewall-nanjing.com; 150 Shanghai Lu, 上海路150号 pint ¥30; h6pm-1am; W; mGulou)
 
 Doubling as a Mexican restaurant, this atmospheric, recently repainted and dimly illuminated bar on the bar street of Shanghai Lu divides into many rooms and alcoves, with a terrace outside for warmer months. There's draught beer, sangria and hypnotising live Flamenco guitar performances on Friday and Saturday evenings from Louis 'wu el lobo' (who really is very good).
 
@@ -8533,11 +8008,7 @@ Foreign Languages Bookstore (外文书店, Wàiwén Shūdiàn MAP  GOOGLE MAP  ;
 
 There's a big collection of hardback and paperback novels on the 2nd floor, where there's also a small and very quiet cafe.
 
-8 Information Nanjing Expats (www.nanjingexpat.com) and Map (www.mapmagazine.com.cn) are handy expat listings magazines, available at restaurants and bars. Nanjing Expats comes in a handy pocket-size version.
-
 ## MEDICAL SERVICES
-
-Angel Flossy-Care Dental Center (天使福乐氏口腔, Tiānshǐ Fúlèshì Kǒuqiāng MAP  GOOGLE MAP  ; %025 8650 2567; www.tskq025.net; 4th fl, 10 Kexiang Xiang (Kexiang Alley), 科巷10号4楼 mDaxinggong)
 
 Courteous English-speaking staff and very professional treatment.
 
@@ -8552,8 +8023,6 @@ Courteous English-speaking staff and very professional treatment.
 Jiāngsū People’s Hospital (江苏省人民医院, Jiāngsū Shěng Rénmín Yīyuàn MAP  GOOGLE MAP  ; %025 8371 8836; 300 Guangzhou Lu, 广州路300号 h8am-noon & 2-5.30pm)
 
 Runs a clinic for expats and has English-speaking doctors available.
-
-Nánjīng International SOS Clinic (南京国际SOS 紧急救援诊所, Nánjīng Guójì SOS Jǐnjí Jiùyuán Zhěnsuǒ MAP GOOGLE MAP  ; %025 8480 2842; www.clinicsinchina.com; 319 Zhongshan Donglu, 中山东路319号 h9am-6pm Mon-Fri, 9am-noon Sat; mMinggugong)
 
 On the ground floor of the Grand Metropark Hotel.
 
@@ -8584,8 +8053,6 @@ Exit & Entry Administration Service Center (南京市公安局出入境办证服
 For visa extensions.
 
 8 Getting There & Away AIR Nánjīng Lùkǒu International Airport (南京禄口国际机场; Nánjīng Lùkǒu Guójì Jīchǎng ) has regular air connections to all major Chinese cities. The main office for the Civil Aviation Administration of China (CAAC; 中国民航; Zhōngguó Mínháng MAP  GOOGLE MAP  ; %025 8449 9378; 50 Ruijin Lu; 瑞金路50号 )
-
-is near the terminus of bus 37, but you can also buy tickets at most top-end hotels and also on www.english.ctrip.com. Dragonair (港龙航空; Gǎnglóng Hángkōng MAP  GOOGLE MAP  ; %025 8471 0181; room 751-53, World Trade Centre, 2 Hanzhong Lu; 汉中路2号 ) has daily flights to Hong Kong.
 
 BUS Of Nánjīng’s numerous long-distance bus stations, Nánjīng Long- Distance Bus Station (南京中央门长途汽车站; Nánjīng Zhōngyāng Chángtú Qìchēzhàn MAP  GOOGLE MAP  ; %025 8533 1288; 1 Jianning Lu; 建宁路1号 ), aka Zhōngyángmén long-distance station, is the largest. It is located southwest of the wide-bridged intersection with Zhongyang Lu. Regular buses departing from here include: AHángzhōu ¥128, four hours AHéféi ¥53 to ¥62, 2½ hours AShànghǎi ¥88, four hours
 
@@ -8841,8 +8308,6 @@ This well-run youth hostel has a fantastic location on Pingjiang Lu and a charmi
 
 Rooms are around ¥20 pricier on Friday and Saturday.
 
-Sūzhōu Watertown Youth Hostel (苏州浮生四季国际青年旅舍, Sūzhōu Fúshēngsìjì Qīngnián Lǚshè MAP  GOOGLE MAP %0512 6521 8885; www.watertownhostel.com; 27 Dashitou Xiang, Renmin Lu, 人民路大石头巷27号 6-/4-bed dm ¥50/60, s ¥160, d ¥130-220; aiW; mLeqiao)
-
 Tucked away down Dashitou Xiang (Big Stone Alley), a lane off Renmin Lu, this 200-year-old courtyard complex houses an OK hostel. Rooms on the 2nd
 
 ## HOTEL
@@ -8859,17 +8324,11 @@ $$$ floor are quieter while ground-floor rooms have better wi-fi reception. Dorm
 
 The cheapest twins and the triples are with shared shower. The airport bus station is just a stone’s throw away.
 
-o Garden Hotel (苏州南园宾馆, Sūzhōu Nányuán Bīnguǎn MAP  GOOGLE MAP  ; %0512 6778 6778; www.gardenhotelsuzhou.com; 99 Daichengqiao Lu, 带城桥路99号 r from ¥1558; nW)
-
 Within huge, green grounds, the very popular five-star Garden Hotel has elegant, spacious and attractively decorated rooms. Washed over with Chinese instrumental pípá music, the lobby is a picture of Sūzhōu, with a clear pond, grey bricks and white walls. Serene stuff and an oasis of calm. It's often possible to get a room here for under ¥800.
-
-Pan Pacific Sūzhōu (苏州吴宫泛太平洋酒店, Sūzhōu Wúgōng Fàntàipíngyáng Dàjiǔdiàn MAP GOOGLE MAP  ; %0512 6510 3388; www.panpacific.com/Suzhou; 259 Xinshi Lu, 新市路 259号 d ¥1880-2680, ste ¥3680; aW)
 
 There’s a kitschy feel to the exterior of this former Sheraton Hotel, which looks like a faux Forbidden City. But once you step into the lobby, you’ll know this is five-star luxury. The 500+ rooms are spacious and stylish, fitted with all the latest gadgets to make you happy. Service is polite and impeccable. Discounts of over 50% usually available.
 
 A bonus is guests get to enjoy free access to the adjacent Gán Gate Garden.
-
-Píngjiāng Lodge (苏州平江客栈, Sūzhōu Píngjiāng Kèzhàn MAP  GOOGLE MAP  ; %0512 6523 2888; www.pingjianglodge.com; 33 Niujia Xiang, 钮家巷33号 d ¥988-1588, ste ¥1888-2588; ai; mXiangmen or Lindun Lu)
 
 Capturing the canalside Sūzhōu aesthetic, this 17th-century traditional
 
@@ -8916,8 +8375,6 @@ Hidden in a quiet alley north of Lion’s Grove Garden, this lovely traditional 
 Try the ever-popular squirrel fish or the kung pao chicken (宮保雞丁; gōngbǎo jīdīng; spicy chicken with chilli and peanuts).
 
 6 Drinking & Nightlife There are stacks of trendy cafe-bars scattered along Pingjiang Lu. A gem or two survives, but the nightlife scene on Shiquan Jie has fizzled out as most of the expats’ watering holes have moved to the soulless Sūzhōu Industrial Park, 9km east of the centre of town (get there on the metro).
-
-o Bookworm (老书虫, Lǎo Shūchóng MAP  GOOGLE MAP  ; %0512 6526 4720; www.suzhoubookworm.com; 77 Gunxiu Fang, 滚绣坊77号 h11am-1am Mon-Fri, 10am-1am Sat & Sun)
 
 Běijīng’s excellent Bookworm wormed its way down to Sūzhōu, serving as a kind of comfy cultural hub, library, bookshop and cafe. The food is crowd- pleasing (lots of Western options) and the cold beers include Tsingtao and
 
@@ -8985,8 +8442,6 @@ Can help with emergencies and visa problems. The visa office is about 200m down 
 
 Sūzhōu Tourism Information Center (苏州旅游咨询中心; Sūzhōu Lǚyóu Zīxún Zhōngxīn GOOGLE MAP  ; %0512 6530 5887; 101 Daichengqiao Lu; 带城桥路101号 ) This branch is just north of the Garden Hotel; there are several other branches in town including at bus stations. Can help with booking accommodation and tours; English skills vary.
 
-8 Getting There & Away AIR Sūzhōu does not have an airport, but you can book flights out of Shànghǎi through www.english.ctrip.com. Buses leave Sūzhōu North Long-distance Bus Station frequently between 6am and 5.30pm for Hóngqiáo Airport (¥53)
-
 and Pǔdōng International Airport (¥84) in Shànghǎi.
 
 BUS Sūzhōu has three long-distance bus stations and the two listed here are the most useful. Tickets for all buses can also be bought at the Liánhé ticket centre.
@@ -9016,8 +8471,6 @@ Buses for Lùzhí leave from the Local Bus Stop ( GOOGLE MAP  ), just east of th
 Sūzhōu is on the Nánjīng–Shànghǎi express G line. Trains stop at either the more centrally located Sūzhōu Train Station (苏州站; Sūzhōu Zhàn) or the Sūzhōu North Train Station (苏州北站; Sūzhōu Běizhàn), 12km north of the city centre. Book train tickets on the 2nd floor of the Liánhé ticket centre (联合售票处; Liánhé Shòupiàochù MAP  GOOGLE MAP  ; %0512 6520 6681; 1606 Renmin Lu; 人民路1606号 hbus tickets 8.30-11.30am & 1-5pm, train tickets 7.30-11am & noon-5pm) or at the ticket office ( MAP  GOOGLE MAP  ; Guanqian Jie; 观前街 )
 
 along Guanqian Jie across from the Temple of Mystery; there's another office (8am-8pm) by the Confucian Temple. Yet another ticket office can be found on the other side of the road from the South Long-distance Bus Station.
-
-Tickets can be also be booked online at http://english.ctrip.com.
 
 Trains departing from the Sūzhōu North Train Station: ABěijīng South 1st/2nd class ¥884/524, five hours, 17 daily Trains departing from both stations: ANánjīng 1st/2nd class ¥160/100, one hour, frequent AShànghǎi 1st/2nd class ¥60/40, 26 to 46 minutes, frequent AWúxī 1st/2nd class ¥30/20, 15 minutes, frequent 8 Getting Around
 
@@ -9363,8 +8816,6 @@ The best way to get around the lake is by bike or on foot.
 
 ## BUDDHIST SITE
 
-West Lake, Hángzhōu, Zhèjiāng | ZHAO JIAN KANG/SHUTTERSTOCK © o Dragon Well Tea Village (龙井问茶, Lóngjǐng Wènchá GOOGLE MAP  ; h8am-5.30pm)
-
 The lush, green scenery around this tea village up in the hills southwest of West Lake makes for a wonderful break from the bustle of Hangzhou.
 
 Visitors can wander through the village and up into the tea plantations themselves. During the spring, which is the best time to visit, straw-hatted workers can be seen picking the tea leaves by hand in the fields, and baskets of the fresh leaves are left out to dry in the sun back in the village.
@@ -9409,8 +8860,6 @@ No 1 Park (一公园, Yī Gōngyuán MAP  GOOGLE MAP  ; Hubin Lu, 湖滨路 )
 
 Cruise boats across West Lake depart from here to Xiǎoyíng Island.
 
-Hángzhōu Botanical Garden (杭州植物园, Hángzhōu Zhíwùyuán GOOGLE MAP  ; www.hzbg.cn; 1 Taoyuan Ling, 桃源岭1号 ¥10; h7am-5pm)
-
 With huge tracts of towering bamboo, flowering magnolias and other delightful plants and trees, these vast gardens make for lovely walks to the northwest of West Lake. Sprawling over 245 hectares, they're just as well kept as you'd expect in a city that prides itself on its beautiful environment.
 
 Mid-Lake Pavilion (湖心亭, Húxīn Tíng MAP  GOOGLE MAP  )
@@ -9436,8 +8885,6 @@ Numerous well kept paths wind through the forest, taking you up steep slopes and
 Tàizǐwān Park (太子湾公园, Tàizǐwān Gōngyuán MAP  GOOGLE MAP  ; Nanshan Lu, 南山路 )
 
 This exquisite and serene park just south of the Sū Causeway off West Lake offers quiet walks among lush woodland, ponds, lakes, rose gardens and lawns along a wooden walkway. Just take off and explore. It’s heavenly in spring, with gorgeous beds of tulips and daffodils and flowering trees.
-
-China National Silk Museum (中国丝绸博物馆, Zhōngguó Sīchóu Bówùguǎn MAP  GOOGLE MAP  ; www.chinasilkmuseum.com; 73-1 Yuhuangshan Lu, 玉皇山路73-1号 h9am-5pm Tue-Sun, noon-5pm Mon)F This vast museum is devoted to all things silk, covering fashion, craftsmanship and the historic Silk Road in great depth. Extensive galleries showcase the evolution of the qípáo (Chinese dress) from the 1920s onward, as well as some fabulously ornate European gowns from the 1600-1800s.
 
 The history of the Chinese silk trade and its influence on the relationship between East and West is also explored in a series of exhibitions.
 
@@ -9531,19 +8978,13 @@ West Lake 7 Service Apartments (西湖柒号酒店公寓, Xīhú Qīhào Jiǔdi�
 
 These large and comfortable serviced apartments offer excellent value for money, with facilities including a washing machine, kitchen and surprisingly speedy wi-fi. The location is not bad, set right next to the Wushan Lu Night Market, and just a few blocks' walk from the West Lake.
 
-Crystal Orange Hotel (桔字水晶酒店, Júzi Shuǐjīng Jiǔdiàn MAP  GOOGLE MAP  ; %0571 2887 8988; www.orangehotel.com; 122 Qingbo Jie, 清波街122号 d from ¥408; aiW)
-
 Sleek chain hotel with a modern and stylish interior. Bold Warhol prints decorate the high lobby walls, and there's a glass lift to take you up the four floors. Sadly no views of West Lake from the neat rooms (some of which don't have windows), but this is reflected in the reasonable room rates.
-
-Tea Boutique Hotel (杭州天伦精品酒店, Hángzhōu Tiānlún Jīngpǐn Jiǔdiàn MAP  GOOGLE MAP  ; %0571 8799 9888; www.teaboutiquehotel.com; 124 Shuguang Lu, 曙光路124号 d incl breakfast ¥898; naiW)
 
 The simple but effective wood-sculpted foyer area with its sinuously shaped reception is a perfect introduction to the lovely accommodation at this hotel.
 
 ## HOTEL
 
 $$$ A Japanese-minimalist mood holds sway with celadon tea sets and tall, elegant stems of greenery artfully arranged. Muted colours and natural materials in the bedrooms create a zen atmosphere.
-
-Four Seasons Hotel Hángzhōu (杭州西子湖四季酒店, Hángzhōu Xīzihú Sìjì Jiǔdiàn MAP  GOOGLE MAP  ; %0571 8829 8888; www.fourseasons.com/hangzhou; 5 Lingyin Lu, 灵隐路5号 d ¥3500, ste from ¥6500; naiWs)
 
 More of a resort than a hotel, the fabulous 78-room, two-pool Four Seasons enjoys a seductive position in lush grounds next to West Lake. Low-rise buildings and three private villas echo traditional China, a sensation amplified by the osmanthus trees, ornamental shrubs, ponds and general tranquillity.
 
@@ -9651,8 +9092,6 @@ PUB back to enjoy the ride to Xiǎoyíng Island and Gushan Island. Both deserve 
 
 Take a morning hike into Hángzhōu's hills, stopping off to see the serene Bàopǔ Taoist Temple (抱朴道院; Bàopǔ Dàoyuàn MAP  GOOGLE MAP  ; ¥5; h6am-5pm) along the route. Coming back into town, take some time to stroll through one of Hángzhōu's green spaces, such as Qūyuàn Garden or Tàizǐwān Park before continuing to the noisy buzz of Qīnghéfāng Old Street for a spot of shopping. Walk to Zhongshan South Road Food Street to try everything from local delicacy Beggar's Chicken or squid on sticks to fresh seafood and juice. Once full, head to JZ Club or Midtown Brewery for great drinks, music and a taste of Hángzhōu's increasingly sophisticated nightlife.
 
-6 Drinking & Nightlife o JZ Club (黄楼, Huáng Lóu MAP  GOOGLE MAP  ; %0571 8702 8298; www.jzclub.cc; 6 Liuying Lu by 266 Nanshan Lu, 柳营路6号 h7pm-2.30am)
-
 The folk that brought you JZ Club in Shànghǎi have the live jazz scene sewn up in Hángzhōu with this neat three-floor venue in a historic building near West Lake. There are three live jazz sets nightly, with music kicking off at 9.15pm (until 12.30am). There's no admission charge, but you’ll need to reserve a seat on Fridays and Saturdays.
 
 Smokers get to go upstairs.
@@ -9718,8 +9157,6 @@ For a manageable and breezy trek into the forested hills above West Lake, walk u
 Hángzhōu is overall a safe, clean city. It's wise to take extra care on public holidays when crowds can be overwhelming.
 
 ## GAY & LESBIAN TRAVELLERS
-
-Local attitudes towards members of the LGBT community are mixed, but there are a handful of thriving gay bars in Hángzhōu. Check out local listings mag More Hangzhou (http://morehangzhou.com) for more info.
 
 ## INTERNET ACCESS
 
@@ -9817,8 +9254,6 @@ Hángzhōu’s airport is 30km from the city centre; taxi drivers ask around ¥1
 
 ## BICYCLE
 
-The best way to rent a bike is to use the Hángzhōu Bike Hire Scheme (%0571 8533 1122; www.hzzxc.com.cn; deposit ¥200, credit ¥100; h6.30am-9pm Apr- Oct, 6am-9pm Nov-Mar). Stations (2700 in total) are dotted in large numbers around the city, in what is one of the world’s largest networks. Apply at one of the booths at numerous bike stations near West Lake; you will need your passport as ID. Fill in a form and you will receive a swipe card, then swipe the pad at one of the docking stations till you get a steady green light, free a bike and Bob’s your uncle.
-
 Return bikes to any other station (ensure the bike is properly docked before leaving it). The first hour on each bike is free, so if you switch bikes within the hour, the rides are free. The second hour on the same bike is ¥1, the third is ¥2 and after that it’s ¥3 per hour. Your deposit and unused credit are refunded to you when you return your swipe card (check when it should be returned as this can vary). Note you cannot return bikes outside booth operating hours as the swipe units deactivate (you will be charged a whole night’s rental).
 
 BUS Hángzhōu has a clean, efficient bus system and getting around is easy (but
@@ -9877,8 +9312,6 @@ Many accommodations also offer excursions, such as picking tea leaves in the fie
 
 4 Sleeping Mògànshān is full of hotels of varying quality, many housed in former villas; room prices nearly double at weekends and some places require a two-night minimum booking. If you come in low season (eg early spring) you can expect good rates. Many hotels either shut up shop or close for renovation over the winter.
 
-Mògànshān Fleecity Resort (莫干山离城度假别墅, Mògànshān Líchéng Dùjià Biéshù %0188 5722 9640; www.moganshan395.com; Láolǐngcǔn Sānjiúwù, 劳岭村三九坞 d weekday/weekend from ¥599/799; pnaW)S
-
 ## BOUTIQUE HOTEL
 
 $$$
@@ -9886,10 +9319,6 @@ $$$
 ## HOTEL
 
 $$$ Fleecity is located halfway up the mountain (meaning you can stay here and dodge the entry fee), surrounded by bamboo (though construction sites inch ever nearer). There are only eight rooms; some have balconies while some have Japanese-style tatami floors. The best part is the food: dinners (¥80 per person) feature local produce, like wild mushrooms and bamboo, prepared home-style.
-
-o Le Passage Mohkan Shan (莫干山里法国山居, Mògànshānlǐ Fǎguóshānjū %0572 805 2958; www.lepassagemoganshan.com; Xiānrénkēng Tea Plantation, Zǐlǐng Village, 紫岭村仙人坑茶厂 weekday/weekend from ¥2680/3180; nWs)S Le Passage evokes the glamorous cosmopolitan history of Mògànshān perhaps better than the actually historic villas do. Ensconced within an organic tea plantation, the main house and five bungalows were designed by owners Christophe Peres and Pauline Lee to look like a classic colonial-era hill station, with high ceilings, a wood-burning stove in the salon and a spring-fed swimming pool.
-
-Mògànshān House 23 (莫干山杭疗23号, Mògànshān Hángliáo 23 Hào %0572 803 3822; www.moganshanhouse23.com; 23 Moganshan, 莫干山23号 d & tw weekday/weekend from ¥900/1200; naW)
 
 This restored, 100-year-old villa on top of the mountain has heaps of period charm. It’s also kid-friendly with a family room, baby chairs and swings in the garden. With only six rooms, book well in advance, especially for weekend stays (when it’s a minimum two-night stay). Staff speak English.
 
@@ -9900,8 +9329,6 @@ This restored, 100-year-old villa on top of the mountain has heaps of period cha
 $$
 
 ## BANK
-
-Mògànshān Lodge (马克的咖啡厅, Mǎkè de Kāfēitīng %0572 803 3011; www.moganshanlodge.com; Songliang Shanzhuang, off Yinshan Jie, 松粮山庄 h9am-9pm; Wvc)
 
 Grab a book from the shelves (there are many in English) and curl up in one of the vintage armchairs here with a pot of tea. Should you decide to stretch your legs, Mògànshān Lodge is your best source for advice and local maps.
 
@@ -9979,11 +9406,7 @@ $
 
 $$ restaurants and stalls stay open until 9pm or 10pm in Xīzhà.
 
-Wisteria Youth Hostel (紫藤国际青年旅社, Zǐténg Guójì Qīngnián Lǚshè %0573 8873 1332; wuzhenwisteria@163.com; 43 Sizuo Jie, 丝作街43号 4-/6-/8-bed dm ¥100/80/60, d from ¥350; W)
-
 At the far west end of Xīzhà, in a creaky wooden building within stumbling distance of the bar strip, this hostel has basic but clean rooms and a pleasant common area that opens on to a large square. The dorms are the best value you'll find on a budget in Wūzhèn but the double rooms are only worthwhile with a discount.
-
-Wūzhèn Guesthouse (乌镇民宿, Wūzhèn Mínsù %0573 8873 1088; wuzhen1@wuzhen.com.cn; 137 Xizha Dajie, 西栅大街137号 r from ¥340; a)
 
 Stretching the length of Xizha Dajie, in the Xīzhà scenic zone, is this loose collection of canalside, family-run B&Bs in old wooden homes with modern amenities. Prices rise for rooms with river views and verandahs, and those in the middle of town (rooms are numbered 1 to 65) are generally considered more desirable as they're away from the main gates.
 
@@ -10000,8 +9423,6 @@ Reserve in advance (through the visitor centre booking hotline) if you've got yo
 China Post (中国邮政, Zhōngguó Yóuzhèng 500 Xizha Dajie, 西栅大街500号 h8am-5pm)
 
 Midway down Xizha Dajie.
-
-Wūzhèn Visitor Centre (乌镇游客服务中心, Wūzhèn Yóukè Fúwù Zhōngxīn %0573 8873 1088; www.wuzhen.com.cn; Hongqiao Lu, 虹桥路 h8am-5.30pm)
 
 At the entrance to the Xīzhà scenic zone, with left luggage and an accommodation booking counter.
 
@@ -10071,15 +9492,11 @@ From here, the village is well signposted in English. Follow signs to gracefully
 
 Just past Běijiàn Bridge, at the far end of the village, is the Covered Bridge Culture Hall (廊桥文化展厅; Lángqiáo Wénhuà Zhǎntīng ), which has models and information (in English!) on other noteworthy bridges in the area. If you're feeling ambitious, you can hire one of the unofficial taxi drivers (¥150 to ¥400, depending on the route) who haunt the Nánxī bus stop to take you around. Make sure the driver understands where to go before setting out, as some might not know the location of all the bridges.
 
-This map (www.langqio.net/map.asp) comes in handy.
-
 ## GETTING THERE & AWAY
 
 To get to Sìxī you need to first get to Wēnzhōu (温州), which is serviced by frequent high-speed trains from Shànghǎi Hóngqiáo (¥178 to ¥226, four hours) and Hángzhōu East (¥129 to ¥153, three hours). High-speed trains arrive at Wēnzhōu South (温州火车南站; Wēnzhōu Huǒchē Nánzhàn), 15km from downtown, from where you'll need to take a taxi (¥40, 25 minutes) to Niúshān Transport Centre (牛山客运中心; Niúshān Kèyùn Zhōngxīn), Wēnzhōu's central bus station. The sleeper train from Shànghǎi South (soft/hard sleeper ¥186/288, 11 hours, 11.30pm) arrives at the more convenient main train station, from where you can catch local buses 21, 23 and 107 (¥2, 20 minutes, frequent) to Niúshān.
 
 At the bus station buy a ticket to Nánxī (南溪; ¥46, two hours, every 40 minutes 6.20am to 6.40pm) on the Tàishùn-bound bus. The last return bus leaves at 5pm; buy your ticket from the stall opposite the Nánxī bus stop, which has the timetable posted.
-
-If you find yourself overnighting in Wēnzhōu, the E-X Palm D'or Hotel (意杰金棕榈酒店; Yìjié Jīnzōnglǘ Jiǔdiàn %0577 8802 2222; www.expalmhotel.com; 23 Minhang Lu; 明航路23号 r from ¥600; pnaiW), 3km from the bus station (and 15km from the high-speed-train station), is a comfortable choice.
 
 Xīnyè 新叶 %0571 / POP 3000 Cut with sparkling streams, centred on placid ponds and embraced by silent hills, the picturesque village of Xīnyè (新叶; ¥68, 8am-4pm) is populated by families sharing the surname Ye (叶) and an abundance of free-roaming chickens. The village is laid out in accordance with the traditional five element (五行; wǔ xíng) theory, so it's a balanced exercise in feng shui aesthetics. During spring, the village is framed by fields of bright yellow rapeseed.
 
@@ -10114,8 +9531,6 @@ There are also signs in English directing you from nearby South Pond.
 Xīnyè also works as a convenient day trip from Zhūgě: buses to Xīnyè (¥4, 30 minutes) depart at 7.45am, 10.20am, 1.30pm and 5.15pm and return at 6.10am, 8.30am, noon and 3.20pm.
 
 To get to the village from the bus dropoff, turn right and follow the stone path for a few minutes. Note that to get an admission ticket covering the sights, you'll need to go to the tourist centre at the far northeast corner of the village.
-
-Zhūgě 诸葛 %0579 / POP 4000 Photogenic Zhūgě (诸葛; 7.30am-5pm summer, 8am-4.30pm winter; ¥100; www.zhugevillage.cn) is a fascinating composition of traditional Chinese village architecture and feng shui planning: the village was designed according to the bāguà (八卦; eight trigrams) of the I Ching. Included in Zhūgě's meticulous plans are numerous snaking cobblestone alleyways – some only wide enough for one person to pass – intentionally designed (for purposes of protection) for outsiders to get hopelessly lost. This is naturally one of the pleasures of visiting.
 
 Though Zhūgě is one of the most commercialised of the area villages, it remains visibly lived in. Residents are largely descendants of Zhuge Liang, who was a prime minister during the Three Kingdoms period.
 
@@ -10186,8 +9601,6 @@ The village is well signposted in English. While the halls are the most
 ## HOMESTAY
 
 $$ dramatic structures, many ordinary houses have fantastic carvings as well, depicting popular Chinese symbols of luck, upward mobility and prosperity.
-
-4 Sleeping Jīnhuá Homestay (www.jinhua-homestay.com; s/d incl 2 meals per person ¥128)
 
 The only accommodations in Sìpíng are the 15 homes open to guests through this program (the small number keeps the village uncrowded). While Sìpíng has plenty of heritage structures, the homes are modern (with modern amenities); bathrooms are shared. Host families are keen to have guests at their table and to take them around the village.
 
@@ -10341,8 +9754,6 @@ Less grand than the temples at sea level, hilltop Huìjì draws pilgrims who mak
 
 ## HOTEL
 
-$$ Pǔtuóshān, Zhèjiāng | XIA YUAN/GETTY IMAGES © 4 Sleeping Most hotels on Pǔtuóshān aim squarely at tour groups and holidaying Chinese, with prices to match. Room rates are generally discounted from Sunday to Thursday. Larger hotels have shuttle buses to and from the pier.
-
 As you leave the arrivals building, local hotel touts flapping plastic photo placards will descend; these rooms are generally at the cheaper end in a nearby village. You can do your own legwork in the villages of Xīshān Xīncūn (西山新村), a short walk over the hill to the west from the ferry terminal, and Lóngwān Cūn (龙湾村), around a 15-minute walk east of the ferry terminal. Look for the characters ‘内有住宿’, which means rooms are available. All the rooms are very similar, going for around ¥150 on a weekday, and double at weekends; bargain if you can.
 
 Chánzōng Rúshì Sea View Hotel
@@ -10366,8 +9777,6 @@ This very clean budget choice up the steps in Lóngwān Village and not far from
 There's no English spoken but the owners are hard-working and efficient.
 
 You're likely to get a discount during the week.
-
-Landison Pǔtuóshān Resort (雷迪森广场酒店, Léidísēn Guǎngchǎng Jiǔdiàn MAP  GOOGLE MAP  ; %0580 669 0666; www.landisonputuoshan.com; 115 Fayu Lu, 法雨路115号 tw with/without balcony ¥1588/2588; ais)
 
 One of the island's fanciest places to stay, the Landison adds little touches of serenity like bowls of floating orchid petals and Buddhist statuary, though the whole place could use freshening up. Rooms, spacious and with plenty of natural light, surround a courtyard with an 800-year-old camphor tree; some have balconies. Weekday discounts bring rooms down to ¥1000, plus a 15% service charge.
 

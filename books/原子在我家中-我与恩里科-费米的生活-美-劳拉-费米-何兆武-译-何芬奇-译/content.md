@@ -22,8 +22,6 @@ Pages: 324
 
 ## [美]劳拉·费米 著 何兆武 何芬奇 译
 
-http://rbook.
-
 ## net/bbs/
 
 ## 世纪出版集团 上海人民出版社
@@ -37,8 +35,6 @@ http://rbook.
 — 上海: 上海人民出版社, 2005
 
 ## (世纪人文系列丛书)
-
-## ISBN 7-208-05617-X
 
 G@ 〇 D费 .
 
@@ -65,8 +61,6 @@ K837.
 ## 何兆武 何芬奇 译
 
 ## 版 世纪出版集团 上海人民出版社
-
-(200001 上海福建中路193号 www.
 
 ewen.
 
@@ -100,17 +94,11 @@ ewen.
 
 ## by Laura Fermi
 
-Copyright © 1954 by The University of Chicago.
-
 ### Simplified Chinese translation
-
-copyright © 2005 by Horizon Media Co.
 
 , Ltd,
 
 a division of Century Publishing Group of Shanghai
-
-## ALL RIGHTS RESERVED
 
 ## --- Page 5 ---
 

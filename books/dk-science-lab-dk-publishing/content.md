@@ -1,17 +1,8 @@
 # DK 科学实验室（DK Publishing，Z Library）
 
-> 来源文件：pre_DK_Science_Lab_DK_Publishing_Z_Library.txt
-> 字符数（约）：149793
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 科学实验室
 
-高级设计师 Michelle Staples、Jacqui Swan 首席编辑 Amanda Wyatt 编辑 Steven Carton、Ben Morgan 设计师 Sean T. Ross、Chrissy Barnard、Alex Lloyd、Gregory McCarthy、Mary Sandberg 插画师 Gus Scott、Alex Lloyd、Sean T. Ross 执行编辑 Lisa Gillespie 执行美术编辑 Owen Peyton Jones 前期制作制作人 Gill Reid 高级制作人 Meskerem Berhane 护封设计师 Tanya Mehrotra、Surabhi Wadhwa-Gandhi 设计开发经理 Sophia MTT 护封编辑 Emma Dawson 护封执行编辑 Saloni Singh 护封编辑协调员 Priyanka Sharma 护封排版设计师 Rakesh Kumar 图片研究员 Rituraj Singh 出版人 Andrew Macintyre 副出版总监 Liz Wheeler 美术总监 Karen Self 出版总监 Jonathan Metcalf 作者兼顾问 Jack Challoner 摄影师 Dave King 2019 年首次由英国伦敦多林金德斯利有限公司（Dorling Kindersley Limited，80 Strand, London, WC2R 0RL）在英国出版 版权 © 2019 Dorling Kindersley Limited，企鹅兰登书屋（Penguin Random House）旗下公司 2 4 6 8 10 9 7 5 3 1 001–310501–February/2019 未经版权所有者事先书面许可，不得以任何形式或通过任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 本书的 CIP（图书馆编目数据）记录可由英国图书馆（British Library）提供。
-
-ISBN：978-0-2413-4349-4 中国印刷 思想的天地：探索尽在其中 www.dk.com
 
 献给年轻科学家的精彩活动 科学实验室 罗伯特·温斯顿（ROBERT WINSTON）
 
@@ -2774,4 +2765,3 @@ com: Elitsa Lambova (br). 149 Rex by Shutterstock: AP (bc). 157 Dreamstime.com: 
 ## 索引
 
 ## 致谢
-

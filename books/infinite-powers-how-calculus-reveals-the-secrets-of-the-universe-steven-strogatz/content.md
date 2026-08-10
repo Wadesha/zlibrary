@@ -1,10 +1,5 @@
 # Infinite Powers How Calculus Reveals the Secrets of the Universe Steven Strogatz Z Library
 
-> 来源文件：pre_Infinite_Powers_How_Calculus_Reveals_the_Secrets_of_the_Universe_Steven_Strogatz_Z_Library.txt
-> 字符数（约）：238199
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 STEVEN STROGATZ How CALCULUS Reveals the Secrets of the Universe Without calculus, we wouldn’t have cell phones, TV, GPS, or ultrasound.
 
 We wouldn’t have unraveled DNA or discovered Neptune or figured out how to put five thousand songs in your pocket.
@@ -19,19 +14,13 @@ STEVEN STROGATZ infinite powers praise for infinite powers STEVEN STROGATZ is th
 
 “Reading Infinite Powers, I was reminded why “If calculus is the language of the universe, Steve Strogatz is, at present, the best math- then Steven Strogatz is its Homer. With verve, ematician among writers and the best writer insight, and simplicity, he explains the deep among mathematicians.” ideas underlying one of humankind’s greatest — WILLIAM DUNHAM, Bryn Mawr College, intellectual achievements. Infinite Powers is an author of Journey Through Genius and incalculable pleasure.” The Calculus Gallery — DANIEL GILBERT, author of Stumbling on Happiness “Are you one of those people who always said you’d someday learn calculus? Well, someday is here, thanks to Steven Strogatz’s wide-ranging, humane, thoroughly readable take on one of the greatest ideas our species has ever produced.” —JORDAN ELLENBERG, author of How Not to Be Wrong “This is a glorious book. Steven Strogatz manages to unmask the true hidden wonder and delightful simplicity of calculus. Infinite Powers is a master class in accessible math writing and a perfect read for anyone who feels like they never quite understood what all the fuss was about. It had me leaping for joy.” —HANNAH FRY, author of Hello World “Warning: this book is dangerous. It will make you love mathematics. Even more, there is a nonzero risk it will turn you into a mathematician.” —NASSIM NICHOLAS TALEB, author of The Black Swan “This could be the most fascinating book I have ever read. If you have even the slightest curiosity about math and its role in this world, I implore you to read this amazing book. Every teacher, every student, and every citizen will be better for it.” —JO BOALER, author of Mathematical Mindsets, professor of mathematics education, Stanford University, and cofounder of youcubed.org “Steven Strogatz is a world-class mathematician and a world-class science writer. With a light touch and razor-sharp clarity, he brilliantly filters his deep knowledge of calculus into an engaging epic that tells the remarkable story of a mathematical breakthrough that changed the world — and continues to do so.” —ALEX BELLOS, author of Here’s Looking at Euclid and The Grapes of Math AN EAMON DOLAN BOOK
 
-Infinite Powers How Calculus Reveals the Secrets of the Universe STEVEN STROGATZ An Eamon Dolan Book Houghton Mifflin Harcourt Copyright © 2019 by Steven Strogatz Illustrations © 2019 by Margaret C. Nelson For information about permission to reproduce selections from this book, write to trade.permissions@hmhco.com or to Permissions, Houghton Mifflin Harcourt Publishing Company, 3 Park Avenue, 19th Floor, New York, New York 10016.
-
 hmhco.com Library of Congress Cataloging-in-Publication Data Names: Strogatz, Steven H. (Steven Henry), author.
 
 Title: Infinite powers : how calculus reveals the secrets of the universe / Steven Strogatz.
 
 Description: Boston : Houghton Mifflin Harcourt, 2019. | Includes bibliographical references and index.
 
-Identifiers: LCCN 2018042561 (print) | LCCN 2018049721 (ebook) | ISBN 9781328880017 (ebook) | ISBN 9781328879981 (hardcover)
-
 Subjects: LCSH: Calculus. | Calculus—History. | Archimedes. | Differential calculus.
-
-Classification: LCC QA303.2 ( ebook) | LCC QA303.2 .S78 2010 (print) | DDC 515—dc23 LC record available at https://lccn.loc.gov/2018042561 Book design by Christopher Granniss Printed in the United States of America DOC 10 9 8 7 6 5 4 3 2 1 Contents Introduction vii
 
 ## 1. Infinity
 

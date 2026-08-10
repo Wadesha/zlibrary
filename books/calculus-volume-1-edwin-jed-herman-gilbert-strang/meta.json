@@ -1,10 +1,10 @@
 {
   "slug": "calculus-volume-1-edwin-jed-herman-gilbert-strang",
-  "title": "Calculus_Volume_1_Edwin_Jed_Herman_Gilbert_Strang",
+  "title": "Calculus Volume 1 Edwin Jed Herman, Gilbert Strang",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]Calculus_Volume_1_Edwin_Jed_Herman_Gilbert_Strang_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "Calculus Volume 1 (Edwin Jed Herman, Gilbert Strang) (Z-Library).md",
   "source_pdf": null,
-  "chars": 1261342,
+  "chars": 1298326,
   "has_fixed": false
 }

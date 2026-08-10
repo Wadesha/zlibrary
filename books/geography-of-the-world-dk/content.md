@@ -1,10 +1,5 @@
 # Geography of the World DK Z Library
 
-> 来源文件：pre_Geography_of_the_World_DK_Z_Library.txt
-> 字符数（约）：1022242
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 WORLD GEOGRAPHY OF THE THE ESSENTIAL FAMILY GUIDE TO GEOGRAPHY AND CULTURE FULLY REVISED AND UPDATED
 
 GEOGRAPHY WORLD OF THE
@@ -15,15 +10,11 @@ MALAYSIA MONGOLIA KIRIBATI AUSTRALIA AZERBAIJAN TUVALU JAPAN BHUTAN MEXICO NEW Z
 
 GHANA SENEGAL INDONESIA THAILAND PHILIPPINES JAMAICA PANAMA SOUTH AFRICA CHILE GREECE KENYA ARGENTINA FRANCE GERMANY ITALY NORWAY PORTUGAL SPAIN SWEDEN BELGIUM NETHERLANDS KAZAKHSTAN CANADA BRUNEI PARAGUAY CHINA UNITED STATES OF AMERICA VENEZUELA SUDAN BAHAMAS RUSSIAN FEDERATION UNITED KINGDOM GEOGRAPHY WORLD OF THE
 
-U.S. Editor Camela Decaire Deputy Art Director Miranda Kennedy Deputy Editorial Director Sophie Mitchell Senior DTP designer Mathew Birch DTP designer Almudena Díaz     Cartography Jan Clark, Robin Giddings Picture research Rachel Leach, Jo Haddon     Research Robert Graham Special photography Andy Crawford     Production Catherine Semark, Louise Barratt Chief consultant Dr. David Green 2010 revised and updated edition Senior designer Spencer Holbrook Editor Steven Carton Production editor Andy Hilliard Consultants Dr. Kathy Baker, Professor Mark Blacksell, Dr. Tanya Bowyer-Bower, Dr. Robert Bradnock, Dr. Edward Brown, Dr. Brian Chalkley, Professor Roman Cybriwsky, Professor Dennis Dwyer, Professor Alan Gilbert, St. John Gould, Professor Ian Hamilton, Robert Headland, Dr. Michael Heffernan, Professor Eleanore Kofman, Keith Lye, Professor Robert Mason, Professor W.R. Mead, Professor William Morgan, Susan Murrell, Jenny Nemko, Dr. Rewi Newnham, Professor Robert Potter, Dr. Jonathan Rigg, Dr. David Simon, Dr. David Turnock, John Wright and Nicholas Awde, Dr. Ted Yates Authors Simon Adams, Anita Ganeri, Ann Kay Additional text by Ann Kramer, Claire Watts First published in the United States in 2006 This revised and updated paperback edition first published in 2010 by DK Publishing, Inc., 375 Hudson Street, New York, New York 10014 10 11 12 13 14 10 9 8 7 6 5 4 3 2 1 Copyright © 1996, 2003, 2006 Dorling Kindersley Limited No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 Distributed by Houghton Mifflin Company, Boston.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7566-1952-7 Color reproduction by Colourscan, Singapore Printed and bound by Toppan, Hong Kong Discover more at LONDON, NEW YORK, MELBOURNE, MUNICH, and DELHI Senior Art Editor Rachael Foster Senior Editor Susan Peach Art Editors Marcus James, Tina Robinson, Gillian Shaw, Jane Tetzlaff Editors Marie Greenwood, Fran Jones, Nic Kynaston, Veronica Pennycook
 
 How to Use This Book The Physical World Moving Continents Climate and Vegetation World Population The Political World NORTH AMERICA Peoples of North America Canada United States of America Mexico CENTRAL AND SOUTH AMERICA Peoples of Central and South America Central America and the Caribbean Guatemala and Belize Honduras, El Salvador, and Nicaragua Costa Rica and Panama Cuba and Jamaica The Bahamas, Puerto Rico, Haiti, and Dominican Republic Lesser Antilles Northern South America Venezuela, Guyana, Suriname, and French Guiana Colombia and Ecuador Peru and Bolivia Brazil Southern South America Uruguay, Paraguay, and Chile Argentina The Atlantic Ocean EUROPE Peoples of Europe Scandinavia and Finland Norway Denmark and Sweden Finland The British Isles United Kingdom Ireland The Low Countries Netherlands, Belgium, and Luxembourg CONTENTS
 
@@ -150,8 +141,6 @@ LUANDA GABORONE HARARE MAPUTO MBABANE PRETORIA WINDHOEK MASERU CAPE TOWN BLOEMFO
 Mt. Thabana- Ntlenyana Victoria Falls Cape of Good Hope C. Agulhas A T L A N T I C O C E A N I N D I A N O C E A N N A M I B D E S E R T D R A K E N S B E R G K A L A H A R I D E S E R T C O N G O A N G O L A B O T S WA N A Z I M B A B W E SWAZILAND M O Z A M B I Q U E M A L A W I Z A M B I A T A N Z A N I A N A M I B I A S O U T H A F R I C A LESOTHO C O N G O D E M .
 
 R E P.
-
-NAMIBIA ANGOLA LESOTHO BOTSWANA SOUTH AFRICA MOZAMBIQUE SWAZILAND ZIMBABWE N TROPIC OF CAPRI CORN EQUATOR TROPIC OF C ANCER AFRICA © SOUTHERN AFRICA THINGS TO LOOK FOR ON THE MAP Longest river: Zambezi, Mozambique/Zimbabwe/ Zambia/Namibia/Angola, 1,678 miles (2,700 km)
 
 Map J5 Highest point: Mt. Thabana- Ntlenyana, Lesotho, 11,424 ft (3,482 m) Map H10 Largest lake: L. Nyasa, Mozambique/Malawi/ Tanzania 11,000 sq miles (28,490 sq km) Map J4 Port Elizabeth, South Africa a Jan 70°F (21°C)
 

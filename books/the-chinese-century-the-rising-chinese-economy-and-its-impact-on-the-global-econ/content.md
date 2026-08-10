@@ -1,10 +1,5 @@
 # The Chinese Century The Rising Chinese Economy and Its Impact on the Global Economy the Balance of Power and Your Job Oded Shenkar Z Library
 
-> 来源文件：pre_The_Chinese_Century_The_Rising_Chinese_Economy_and_Its_Impact_on_the_Global_Economy_the_Balance_of_Power_and_Your_Job_Oded_Shenkar_Z_Library.txt
-> 字符数（约）：398703
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Chinese Century: The Rising Chinese Economy and Its Impact on the Global Economy, the Balance of Power, and Your Job Oded Shenkar
 
 PEARSON EDUCATION, INC.
@@ -29,11 +24,7 @@ A CIP record of this book can be obtained from the Library of Congress LOC Numbe
 
 Publisher: Tim Moore Editorial Assistant: Richard Winkler Marketing Manager: Martin Litkowski International Marketing Manager: Tim Galligan Managing Editor: Gina Kanouse Senior Project Editor: Sarah Kearns Copy Editor: Karen Gill Senior Compositor: Gloria Schurick Indexer: Julie Kawabata Proofreader: Andrew Wahnsiedler Cover Design: Chuti Prasertsith Manufacturing Buyer: Dan Uhrig
 
-© 2005 Pearson Education, Inc.
-
 Publishing as Wharton School Publishing Upper Saddle River, NJ 07458
-
-Wharton School Publishing offers discounts on this book when ordered in quantity for bulk purchases and special sales. For more information, please contact: U.S. Corporate and Government Sales (800) 382-3419 corpsales@pearsontechgroup.com For sales outside of the U.S., please contact: International Sales international@pearsoned.com
 
 Pearson Education Ltd.
 
@@ -173,8 +164,6 @@ The Naïve Trader (or the One with More to Lose)
 
 The United States is an open market, which many Americans (but not necessarily everyone else) believe has less tariff and nontariff barriers than those of its partners, and trade policies that Americans and many others would characterize as naïve (such as allowing relatively open access to American markets without insisting on reciprocity). In this view, the U.S. is being taken advantage of by its trade partners, especially China. China’s defenders point to the gradual opening of its markets and its World Trade Organization (WTO) commitments. They argue, not without justification, that many American firms have not invested the necessary time and energy in understanding the requirements of a rapidly opening Chinese market. Nicholas Lardy, a noted China scholar with the Institute for International Economics, observes that China’s ratio of imports to GDP likely reached 30 percent in 2004 compared to 8 percent in Japan and 14 percent in the United States.
 
-As a global leader in technology and innovation and a net technology exporter, the United States can be said to suffer more from China’s lax regime of intellectual property protection than other trade partners. Analogies are often drawn with Japan and the “four tigers” that started with disregard for property rights but later enhanced compliance though Chinese violations persist on a much grander scale and are tolerated, often supported and protected by powerful local interests. As China moves up the technology ladder, states the optimistic argument, it will be in its own interest to offer such protection. After all, in the nineteenth century, the United States was a major violator of intellectual property rights, as Charles Dickens, among others, learned to his dismay. The difference is that this time around, the share of research and development in product costs is much higher, and copyrighted products take up much more of the economic pie. We are also in a global economy, meaning that pirated and counterfeit products now find their ways to multiple markets. And, perhaps most worryingly, recent trends show a rise rather than a decline in the rate of violations.
-
 Follow the Curve In this explanation, the U.S.-China trade imbalance results from the different point of the two countries along the development curve. In the same way that the United States lost agricultural employment a century ago, it is now shedding low-end manufacturing jobs, replacing them with higher-end, knowledge-intensive manufacturing and service jobs. In so doing, China plays a positive role by relieving the United States to do what it does best: producing and implementing knowledge at the upper rung of the ladder.
 
 argument is understandably attractive to China’s defenders, who point out that China and the United States overlap only on a narrow range of products (10 percent according to the Council on U.S. China Trade). Naturally, the development curve story implies that the trade gap between the two countries will diminish once China progresses.
@@ -288,8 +277,6 @@ China’s Imperial past projects a strong shadow on the country today. First, it
 A third imprint of China’s Imperial past is the persistence of local interests that compete for power with each other and especially with the center. This implies the continuation of local fiefdoms that make their own rules and defend their own interests even when in conflict with Beijing. For instance, while the central leadership has designated three or four players to become its future “GM, Ford, and Chrysler,” local authorities defiantly protect their hundred plus automotive protégés, holding for a better deal in the eventual consolidation process. A fourth impact of China’s Imperial past is an ambivalence toward corruption, which is permitted yet periodically curbed when viewed as “overdone” to the point of signaling “dynastic decline.” A fifth imprint is the importance of ideological and historical legitimacy. During the Nationalist period, the Confucian analects were replaced by Sun Yat-sen’s Three Principles of the People. When the Communists came to power, it was the turn of Marxism-Leninism-Mao Zedong’s thought; and when the reforms came, it was the writings of Deng Xiaoping. The halfhearted attempts to market the writings of latter leaders signal not only the decline of charismatic leadership but also an unprecedented ideological vacuum. A final lesson of the Imperial period was that success in breeding innovation was of limited value unless combined with the ability to sustain and apply it in the real world. Bureaucracy and technology had to somehow meet, even if it meant a deviation from the golden age of years past.
 
 The Modern Era: China and the Foreign Powers
-
-China’s view of its more recent history during the nineteenth and early twentieth centuries is one of conflict and strife—both external and internal—and, most of all, humiliation. To China, the West represented the first-ever model of culture, society, and economy that presented an alternative to Chinese ideas and, by virtue of its technological and military prowess, one that threatened the very logic and perceived superiority of the Chinese model. Translated into military power, the overwhelming technological superiority of the West had become painfully clear, and the Chinese also discovered that unlike the Mongols and the Manchu before them, Western powers had no intention of settling into Chinese ways and being “peacefully absorbed.” That realization made the initial rejection of Western principles unsustainable and presented China with agonizing alternatives: imitate the West and risk losing its identity, or become its weak protectorate. A third and more appealing option was to find ways to adopt Western technology minus Western values, a recurring theme among successive C The request was rejected because it was considered high risk The request was rejected because it was considered high risk 4,000 2,000 1,000 575 China Western Europe 1 200 400 600 800 1000 1200 1400 1600 1800 2000Year Source: Figure 1 (p. 42): GDP per capita: China and Western Europe: 1–1998 A.D. in Maddison, Angus (2001), The World Economy: A Millennial Perspective OECD. Copyright, OECD 2001.
 
 Exhibit 2-1 GDP per Capita (in 2002 Dollars): China and Western Europe: 1-1998 A.D.
 

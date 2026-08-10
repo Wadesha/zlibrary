@@ -1,6 +1,4 @@
-
 Second Edition (Jakob Schwichtenberg) (Z-Library).
-
 
 ## --- Page 1 ---
 
@@ -74,11 +72,7 @@ books.
 
 First printing, September 2020
 
-### Copyright © 2020 Jakob Schwichtenberg
-
 ### With illustrations by Corina Wieber
-
-All rights reserved.
 
 No part of this publication may be reproduced
 
@@ -458,8 +452,6 @@ PS: I update the book regularly based on reader feedback.
 
 ### I would appreciate a short email to
 
-errors@jakobschwichtenberg.
-
 com.
 
 ## Acknowledgments
@@ -609,8 +601,6 @@ history in 40 moments.
 versity Press, Oxford England New
 
 York, 2011.
-
-## ISBN 978-0199566846
 
 ## --- Page 13 ---
 

@@ -1,21 +1,10 @@
 # 电影之书：极简大观念 DK出版社 Z-Library
 
-> 来源文件：pre_The_Movie_Book_Big_Ideas_Simply_Explained_DK_Publishing_Z_Library.txt
-> 字符数（约）：726062
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 电影之书 极简大观念 生活多美好 弗兰克·卡普拉 邦妮与克莱德 阿瑟·佩恩 低俗小说 昆汀·塔伦蒂诺 罗生门 黑泽明 绿野仙踪 维克多·弗莱明 午夜凶铃 中田秀夫 少年时代 理查德·林克莱特 肖申克的救赎 弗兰克·德拉邦特 迷魂记 阿尔弗雷德·希区柯克 第七封印 英格玛·伯格曼 大都会 弗里茨·朗 奇爱博士 斯坦利·库布里克 日落大道 比利·怀尔德 热情似火 比利·怀尔德
-
-DK 伦敦 高级编辑 Sam Atkinson、Georgina Palffy 项目艺术编辑 Saffron Stocker 编辑 Stuart Neilson、Helen Ridge 美国编辑 Margaret Parrish、Jane Perlmutter 设计师 Phil Gamble 执行主编 Gareth Jones 高级执行艺术编辑 Lee Griffiths 出版人 Liz Wheeler 副艺术总监 Karen Self 出版总监 Jonathan Metcalf 艺术总监 Phil Ormerod 高级封面设计师 Mark Cavanagh 封面协调 Claire Gell 封面设计开发经理 Sophia MTT 前期制作制作人 Dragana Puvacic 高级制作人 Mandy Inness 由 TALL TREE LTD 为 DK 制作 编辑 Rob Colson、Camilla Hallinan、David John、Kieran Macdonald 设计 Ben Ruocco、Ed Simkins DK 德里 项目编辑 Antara Moitra 高级艺术编辑 Chhaya Sajwan 助理编辑 Tejaswita Payal 艺术编辑 Tanvi Nathyal、Roohi Rais 助理艺术编辑 Meenal Goel、Priyansha Tuli 执行主编 Pakshalika Jayaprakash 执行艺术编辑 Arunesh Talapatra 前期制作经理 Balwant Singh DTP 设计师 Sachin Gupta 封面设计师 Dhirendra Singh 高级 DTP 设计师 Harish Aggarwal 执行封面编辑 Saloni Singh 原始造型由 STUDIO 8 设计 美国第一版，2016 年，由 DK Publishing 出版于美国纽约州纽约市哈得逊街 345 号，邮编 10014 版权 © 2016 Dorling Kindersley Limited，DK 为企鹅兰登书屋有限责任公司（Penguin Random House LLC）旗下部门 印刷批次 16 17 18 19 20 10 9 8 7 6 5 4 3 2 1 编号 001—274827—Jan/2016 在不限制上文所保留版权的前提下，未经本书版权所有人与上述出版商双方事先书面许可，不得以任何形式或任何手段（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本书任何部分。
 
 本书由英国 Dorling Kindersley Limited 出版。
 
 本书的编目记录可由美国国会图书馆提供。
-
-ISBN 978–1–4654–3799–0 DK 图书在批量采购用于促销、赠品、筹款或教育用途时可享受特别折扣。详情请联系：DK Publishing Special Markets，纽约州纽约市哈得逊街 345 号，邮编 10014，或发邮件至 SpecialSales@dk.com。
-
-在中国印刷装订 思想无界：尽览世间所知 www.dk.com
 
 DANNY LEIGH，顾问编辑 Danny Leigh 是一位记者，定期为《金融时报》和《卫报》撰写电影文章。自 2010 年起，他与他人共同主持 BBC 电视台的长期节目《电影》（Film），并为 BBC 电视与广播撰写并主持纪录片。他还从事过电影教育与策划工作。Danny 写过两部小说：《最伟大的礼物》（The Greatest Gift）和《格拉梅西公园的怪物》（The Monsters of Gramercy Park）。
 
@@ -1383,8 +1372,6 @@ F·W·茂瑙 导演 文化修养的人，茂瑙在 1926 年移居好莱坞前，
 1950 迪士尼以《灰姑娘》重拾格林童话。
 
 2013 迪士尼的《冰雪奇缘》大致取材于汉斯·克里斯蒂安·安徒生的《白雪皇后》，大获成功。
-
-© 1937 迪士尼 © 1937 迪士尼 白雪公主在小矮人的家中躲避邪恶的王后。她为他们做饭、打扫，还逼他们洗手。
 
 ## 我觉得我们
 
@@ -9635,4 +9622,3 @@ Dorling Kindersley（多林·金德斯利）与 Tall Tree（高树）谨此感�
 All other images © Dorling Kindersley.
 
 For more information see: www.dkimages.com
-

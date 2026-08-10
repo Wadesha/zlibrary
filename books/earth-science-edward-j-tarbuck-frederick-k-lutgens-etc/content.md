@@ -1,29 +1,12 @@
 # Earth Science Edward J Tarbuck Frederick K Lutgens etc Z Library
 
-> 来源文件：pre_Earth_Science_Edward_J_Tarbuck_Frederick_K_Lutgens_etc_Z_Library.txt
-> 字符数（约）：2498646
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Earth Science
 
 Edward J. Tarbuck Frederick K. Lutgens Illustrated by Dennis Tasa Thirteenth Edition Earth Science
 
-Acquisitions Editor: Andrew Dunaway Marketing Manager: Maureen McLaughlin Project Editor: Crissy Dudonis Assistant Editor: Sean Hale Editorial Assistant: Michelle White Marketing Assistant: Nicola Houston Managing Editor, Geosciences and Chemistry: Gina M. Cheselka Project Manager, Science: Maureen Pancza Art Director: Derek Bacchus Interior and Cover Design: Gary Hespenheide Art Project Manager: Connie Long Senior Operations Supervisor: Nick Sklitsis Operations Specialist: Maura Zaldivar Associate Media Producer: Tim Hainley Media Supervisor: Liz Winer Associate Media Project Managers: David Chavez, Katherine Foley Photo Research Manager: Elaine Soares Photo Researcher: Kristin Piljay Composition/Full Service: PineTree Laserwords Production Editor, Full Service: Patty Donovan Cover Photograph: Kayaker takes an early morning tour on Lake Moraine, Alberta, Canada; © Charlie Munsey/Corbis Credits and acknowledgments borrowed from other sources and reproduced, with permission, in this textbook appear on the appropriate page within the text.
-
-Copyright © 2012, 2009, 2006, 2003, 2000, 1997 Pearson Education, Inc., publishing as Pearson Prentice Hall, Upper Saddle River, New Jersey 07548.
-
-Earlier editions © 1994, 1991 by Macmillan Publishing Company, and © 1988, 1985, 1982, 1979, and 1976 by Merrill Publishing Company.
-
-Copyright and permission should be obtained from the publisher prior to any prohibited repro- duction, storage in a retrieval system, or transmission in any form or by any means, electronics, mechanical, photocopying, recording, or otherwise. To obtain permission(s) to use material from this work, please submit a written request to Pearson Education, Inc., Permissions Department, 1900 E. Lake Ave., Glenview, IL 60025. For information regarding permissions, call (847) 486-2635.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those deginations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
-
 Pearson Prentice Hall™ is a trademark, in the U.S. and /or other countries, of Pearson Education, Inc., or its affiliates.
 
 Library of Congress Cataloging-in-Publication Data CIP data available upon request.
-
-Printed in the United States 10 9 8 7 6 5 4 3 2 1 ISBN 13: 978-0-321-68850-7 ISBN 10: 0-321-68850-3
 
 To Our Grandchildren Shannon, Amy, Andy, Ali, and Michael Allison and Lauren Each is a bright promise for the future About Our Sustainability Initiatives This book is carefully crafted to minimize environmental impact. The materials used to manufacture this book originated from sources committed to responsible forestry practices. The paper is FSC® certified. The printing, binding, cover, and paper come from facilities that minimize waste, energy consumption, and the use of harmful chemicals.
 
@@ -164,8 +147,6 @@ B. Earthquakes
 ## 5. Earthquake Quiz
 
 C. Earth’s Interior a. Earth’s Layered Structure b. Earth’s Interior Quiz D. Volcanoes and Other Igneous Activity a. The Nature of Volcanic Eruptions b. Materials Extruded During an Eruption c. Volcanic Structures and Eruptive Styles d.
-
-Intrusive Igneous Activity e. Volcanoes Quiz E. Mountain Building a. Deformation b. Folds GEODe: Earth Science v.3 GEODe: Earth Science is now found within www.masteringgeology.com. This dynamic learning aid reinforces key concepts by using tutorials, animations, and interactive exercises. GEODe: Earth Science in MasteringGeology is easily assignable and student performance is easily assessed.
 
 c. Faults and Fractures d. Continental Collisions e. Crustal Fragments and Mountain Building f.
 
@@ -513,8 +494,6 @@ These questions and problems challenge learners by in- volving them in activitie
 
 • MasteringGeology™. Used by over one million science stu- dents each year, the Mastering platform is the most effective and widely used online homework, tutorial, and assessment system for the sciences. Earth Science, 13th Edition, is sup- ported by MasteringGeology assignable activities that in- clude geoscience animations, Encounter Earth Google Earth™ multimedia activities, and GEODe activities, as well as a robust student self Study Area with many digital re- sources including a Pearson eText version of Earth Science.
 
-www.masteringgeology.com.
-
 • A stronger art program. Dozens of figures are new or re- drawn. The result is art that is clearer and easier to under- stand. Numerous diagrams and maps are paired with photographs for greater effectiveness. Many new and re- vised art pieces also have additional labels that “narrate” the process being illustrated and/or “guide” students as they examine the figure.
 
 • More than 150 new, high-quality photos and satellite im- ages. New “Geologist’s Sketch” illustrations accompany many important photographs and satellite images. Each sketch, which resembles what a geologist or other Earth sci- entist might put in a field notebook, helps the student iden- tify important and sometimes subtle aspects of an image.
@@ -560,8 +539,6 @@ Many basic text discussions as well as a number of the special in- terest boxes 
 For the Instructor Pearson Prentice Hall continues to improve the instructor re- sources in this edition with the goal of saving you time in prepar- ing for your classes.
 
 MasteringGeology™ with Pearson eText Used by over one million science students, the Mastering plat- form is the most effective and widely used online tutorial, home- work, and assessment system for the sciences. Now available with Earth Science, 13th Edition, MasteringGeology™ offers: • Assignable activities that include geoscience animations, Encounter Earth Google Earth multimedia, and GEODe: Earth Science activities.
-
-• Additional Concept Check and Give It Some Thought ques- tions, Test Bank questions, and Reading Quizzes • A student Study Area with geoscience animations, GEODe: Earth Science activities, In the News RSS feeds, Self Study Quizzes, Web Links, Glossary, and Flashcards • Pearson eText for Earth Science, 13th Edition, which gives students access to the text whenever and wherever they can access the Internet, and includes powerful interactive and customization functions www.masteringgeology.com Instructor’s Resource Center (IRC) on DVD The IRC on DVD puts all of your lecture resources in one easy- to-reach place: • Three PowerPoint® presentations for each chapter • The Geoscience Animation Library • All of the line art, tables, and photos from the text in .jpg files • “Images of Earth” photo gallery • Instructor’s Manual in Microsoft Word • Test Bank in Microsoft Word • TestGen test generation and management software Preface
 
 PowerPoints® Found on the IRC are three PowerPoint files for each chapter. Cut down on your preparation time, no matter what your lecture needs.
 
@@ -1467,8 +1444,6 @@ Earth system might have been involved and/or influenced by the event depicted he
 
 examples of how you, in particular, influence one or more of Earth’s major spheres.
 
-Mastering Geology Looking for additional review and test prep materials? Visit the Self Study area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will aid in your under- standing of this chapter’s content. In MasteringGeology™you will find: • GEODe: Earth Science: An interactive visual walkthrough of key concepts • Geoscience Animation Library: More than 100 animations illuminating many difficult-to-understand Earth science concepts • In The News RSS Feeds: Current Earth science events and news articles are pulled into the site with assessment • Pearson eText • Optional Self Study Quizzes • Web Links • Glossary • Flashcards  Earth’s internal structure is divided into layers based on dif- ferences in chemical composition and on the basis of changes in physical properties. Compositionally, Earth is divided into a thin outer crust, a solid rocky mantle, and a dense core.
-
 Other layers, based on physical properties, include the lithosphere, asthenosphere, lower mantle, outer core, and inner core.
 
  Two principal divisions of Earth’s surface are the continents and ocean basins. A significant difference is their relative lev- els. The elevation differences between continents and ocean basins is primarily the result of differences in their respective densities and thicknesses.
@@ -2333,13 +2308,9 @@ Examining the Earth System
 
 ## 1. Perhaps one of the most significant interrelationships
 
-between humans and the Earth system involves the extrac- tion, refinement, and distribution of the planet’s mineral wealth. To help you understand these associations, begin by thoroughly researching a mineral commodity that is mined in your local region or state. (You might find useful the information at these United States Geological Survey [USGS] Websites: http://minerals.er.usgs.gov/minerals/ pubs/state/ and http://minerals.er.usgs.gov:80/ minerals/pubs/mcs/) What products are made from this mineral? Do you use any of these products? Describe the mining and refining of the mineral and the local impact these processes have on each of Earth’s spheres (atmos- phere, hydrosphere, solid Earth, and biosphere). Are any of the effects negative? If so, what, if anything, is being done to end or minimize the damage?
-
 ## 2. Referring to the mineral you described above, in your opin-
 
 ion does the environmental impact of extracting this mineral outweigh the benefits derived from its products?
-
-Mastering Geology Looking for additional review and test prep materials? Visit the Self Study area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will aid in your under- standing of this chapter’s content. In MasteringGeology™you will find: • GEODe: Earth Science: An interactive visual walkthrough of key concepts • Geoscience Animation Library: More than 100 animations illuminating many difficult-to-understand Earth science concepts • In The News RSS Feeds: Current Earth science events and news articles are pulled into the site with assessment • Pearson eText • Optional Self Study Quizzes • Web Links • Glossary • Flashcards
 
 Hiker amid the sculpted sedimentary rocks of Fisher Towers near Moab, Utah.
 
@@ -3289,8 +3260,6 @@ Detrital sedimentary rocks, which are classified by particle size, contain a var
 
  Nonmetallic mineral resources are mined for the nonmetallic elements they contain or for the physical and chemical properties they possess. The two groups of nonmetallic mineral resources are (1) building materials (e.g., limestone and gypsum) and (2) industrial minerals (e.g., fluorite and corundum).
 
-Mastering Geology Mastering Geology Looking for additional review and test prep materials? Visit the Self Study area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will aid in your under- standing of this chapter’s content. In MasteringGeology™you will find: • GEODe: Earth Science: An interactive visual walkthrough of key concepts Examining the Earth System
-
 ## 1. The sedimentary rocks coquina and shale have each
 
 formed in response to interactions among two or more of Earth’s spheres. List the spheres associated with the forma- tion of each of the rocks and write a short explanation for each of your choices.
@@ -3893,8 +3862,6 @@ FIGURE 4.22 Bauxite is the ore of aluminum and forms as a result of weathering p
 
 ## CHAPTER
 
-Weathering, Soil, and Mass Wasting FIGURE 4.23 On August 6, 2006, photographer Herb Dunn witnessed this rockfall along the Merced River in California’s Yosemite National Park. It appears to have been an event that had no discernible trigger. In the photo on the left, the impact of falling rock produces an explosion of dust and debris. In the photo on the right, the rockfall triggers a chain reaction. A debris avalanche moves down the slope knocking down trees along the way. (© DunnRight Photograph)
-
 Other Deposits Many copper and silver deposits result when weathering processes concentrate metals that are dispersed through a low- grade primary ore. Usually such enrichment occurs in deposits containing pyrite the most common and widespread sulfide mineral. Pyrite is important because when it chemically weathers, sulfuric acid forms, which enables percolating waters to dissolve the ore metals. Once dissolved, the metals gradually migrate downward through the primary ore body until they are precipitated. Deposition takes place because of changes that occur in the chemistry of the solution when it reaches the groundwater zone (the zone beneath the surface where all pore spaces are filled with water). In this manner, the small percentage of dispersed metal can be removed from a large volume of rock and redeposited as a higher-grade ore in a smaller volume of rock.
 
 (FeS2), Mass Wasting: The Work of Gravity Landslides are spectacular examples of a basic geologic process called mass wasting. Mass wasting refers to the downslope movement of rock, regolith, and soil under the direct influence of gravity. It is distinct from the erosional processes that are examined in subsequent chapters because mass wasting does not require a transporting medium such as water, wind, or glacial ice.
@@ -4305,13 +4272,9 @@ in the atmosphere has been increasing for more than a century. Should this incre
 
 ## 3. Many gases are emitted into the atmosphere as a result of
 
-human activities. List two gases other than carbon dioxide 1CO22 that create acids and therefore accelerate the rate of chemical weathering. Do these acids have other effects on the Earth system? You will find the information about acid rain at this Web site helpful: http://www.epa.gov/ acidrain
-
 ## 4. Discuss the interaction of the atmosphere, geosphere,
 
 biosphere, and hydrosphere in the formation of soil.
-
-Mastering Geology Looking for additional review and test prep materials? Visit the Self Study area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will aid in your under- standing of this chapter’s content. In MasteringGeology™you will find: • GEODe: Earth Science: An interactive visual walkthrough of key concepts • Geoscience Animation Library: More than 100 animations illuminating many difficult-to-understand Earth science concepts • In The News RSS Feeds: Current Earth science events and news articles are pulled into the site with assessment • Pearson eText • Optional Self Study Quizzes • Web Links • Glossary • Flashcards
 
 Sunrise along the Li River in China’s Guilin District. This part of southern China exhibits tower karst development in which ground- water has dissolved large volumes of limestone, leaving only these residual towers. For more about this landscape, see the section “Karst Topography” at the end of the chapter.
 
@@ -5490,8 +5453,6 @@ level does not drop. Why?
 ## 3. List at least three specific examples of interactions between
 
 humans and the hydrologic cycle (e.g., the construction of a dam). Briefly describe the consequence(s) of each of these interactions.
-
-Mastering Geology Looking for additional review and test prep materials? Visit the Self Study area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will aid in your under- standing of this chapter’s content. In MasteringGeology™you will find: • GEODe: Earth Science: An interactive visual walkthrough of key concepts • Geoscience Animation Library: More than 100 animations illuminating many difficult-to-understand Earth science concepts • In The News RSS Feeds: Current Earth science events and news articles are pulled into the site with assessment • Pearson eText • Optional Self Study Quizzes • Web Links • Glossary • Flashcards drilled into the zone of saturation, withdraw groundwater and create roughly conical depressions in the water table known as cones of depression. Artesian wells occur when water rises above the level at which it was initially encountered.
 
  When groundwater circulates at great depths, it becomes heated. If it rises, the water may emerge as a hot spring.
 

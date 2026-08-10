@@ -1,16 +1,5 @@
 # Modern Cosmology Scott Dodelson Z Library
 
-> 来源文件：pre_Modern_Cosmology_Scott_Dodelson_Z_Library.txt
-> 字符数（约）：879530
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-MODERN COSMOLOGY This Page Intentionally Left Blank MODERN COSMOLOGY Scott Dodelson Fermi National Accelerator Laboratory University of Chicago ACADEMIC PRESS An Imprint of Elsevier Amsterdam Boston London New York Oxford Paris San Diego San Francisco Singapore Sydney Tokyo Senior Publishing Editor Jeremy Hayhurst Senior Project Manager Julio Esperas Editorial Coordinator Nora Donaghy Cover Design Dick Hannus Copyeditor Kirstin Landon Printer The Maple-Vail Book Manufacturing Group This book is printed on acid-free paper. @ Copyright 2003, Elsevier No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopy, recording, or any information storage and retrieval system, without permission in writing from the publisher.
-
-Permissions may be sought directly from Elsevier's Science & Technology Rights Department in Oxford, UK: phone: (+44) 1865 843830, fax: (+44) 1865 853333, e-mail: permissions@elsevier.com.uk. You may also complete your request on-line via the Elsevier Science homepage (http://elsevier.com), by selecting "Customer Support" and then "Obtaining Permissions."
-
-On the cover: The distribution of galaxies in the universe as recorded by the Two Degree Field Galaxy Survey. Courtesy http://msowww.anu.edu.au/2dFGRS/ ACADEMIC PRESS An Imprint of Elsevier 525 B Street, Suite 1900, San Diego, California 92101-4495, USA http://www.academicpress.com Academic Press 84 Theobald's Road, London WCIX 8RR, UK http://www.academicpress.com Academic Press 200 Wheeler Road, Burlington, Massachusetts 01803, USA www.academicpressbooks.com Library of Congress Control Number: 2002117793 ISBN-13: 978-0-12-219141-1 ISBN-10: 0-12-219141-2 PRINTED IN THE UNITED STATES OF AMERICA 06 0 08 9 8 7 6 54 CONTENTS 1 The Standard Model and Beyond 1
-
 ## 1.1 The Expanding Universe
 
 ## 1.2 The Hubble Diagram
@@ -1777,8 +1766,6 @@ where ax is the Thomson cross-section. This is wrong, and it is wrong for two re
 
 Once we have assumed that \M\'^ is constant, we can multiply out the terms in brackets in Eq. (4.49) keeping only terms first order in energy transfer. Also, the q integral simply gives a factor of n^ (or rieVh for the term which has a factor of q/rrie). So, 98 THE BOLTZMANN EQUATIONS 27r^ne(7x f cfip' cim]
 
-x{/(p')-/(p)-p'^e(p')+P^©(p)} _ d5{p +(p- p') •Vb •P') (/(°)(P')-/'°'(P)) (4.51)
-
 dp' where Q^ is the sohd angle spanned by the unit vector p\ On the first Hne, I have broken up the difference f{p') — f{p) into a zero-order piece,"^ which doesn't contribute when multiplying S{p—p'), and a first-order part which can be neglected when multiplying the velocity term.
 
 There are only two terms in Eq. (4.51) which depend on p' and therefore which must be accounted for when integrating over solid angle fi'. First, there is the perturbation to the distribution function, Q{p')- It is convenient at this stage to introduce the notation eo(f,0 = — I dQ.'e{p',x,t). (4.52)
@@ -1812,8 +1799,6 @@ Thus Compton scattering produces a photon distribution which is extremely simple
 We can now collect the left- and right-hand sides of the Boltzmann equations from the previous two sections. A few more definitions will complete the first goal of this chapter, a linear equation for the perturbation to the photon distribution. Equating Eqs. (4.42) and (4.54) leads to At this point, it is convenient to reintroduce the conformal time ry, defined in Eq. (2.41), as our time variable. In terms of the conformal time, the Boltzmann equation becomes dQ . d<if ® ^^'a? ^ ^ "^^'^ ^ ''''^^'' [Go - 9 4-p • iTb]. (4.56)
 
 Here, and from now on, overdots represent derivatives with respect to conformal time.
-
-Equation (4.56) is a partial differential linear equation couphng © to other vari- ables $, ^, and v\y which also evolve linearly. If we Fourier transform all these variables, so that d/dx^ —> ki{= A:*), the resulting Fourier amplitudes obey ordi- nary differential equations, which are much simpler to solve. In the case of small perturbations around a smooth universe, there is an added benefit of Fourier trans- forming. Since the background is smooth, the only x dependence in Eq. (4.56) is hidden in the perturbation variables themselves. In general, an equation of the form aA{x) = bB{x) (4.57)
 
 gets transformed into aA{k) = bB{k). (4.58)
 

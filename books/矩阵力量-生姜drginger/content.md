@@ -1,23 +1,14 @@
 # 矩阵力量 生姜DrGinger Z Library
 
-> 来源文件：pre_矩阵力量_生姜DrGinger_Z_Library.txt
-> 字符数（约）：529889
-> 语言：zh
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Page 1  |  勘误表  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Errata 勘误表
 
 * 勘误表配合《矩阵力量》纸质版图书。勘误表不断更新，请大家注意下载最新版本。
 
 Page 1  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Preface 前言
 
 感谢首先感谢大家的信任。
 
@@ -49,8 +40,6 @@ Page 2  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 为了让大家学数学、用数学，甚至爱上数学，作者可谓颇费心机。在创作这套书时，作者尽量克服传统数学教材的各种弊端，让大家学习时有兴趣、看得懂、有思考、更自信、用得着。
-
 为此，丛书在内容创作上突出以下几个特点： ◄ 数学 + 艺术——全彩图解，极致可视化，让数学思想跃然纸上、生动有趣、一看就懂，同时提高大家的数据思维、几何想象力、艺术感； ◄ 零基础——从零开始学习Python 编程，从写第一行代码到搭建数据科学和机器学习应用； ◄ 知识网络——打破数学板块之间的壁垒，让大家看到数学代数、几何、线性代数、微积分、 概率统计等板块之间的联系，编织一张绵密的数学知识网络； ◄ 动手——授人以鱼不如授人以渔，和大家一起写代码、用Streamlit 创作数学动画、交互 App； ◄ 学习生态——构造自主探究式学习生态环境“微课视频 + 纸质图书 + 电子图书 + 代码文件 + 可视化工具 + 思维导图”，提供各种优质学习资源； ◄ 理论 + 实践——从加减乘除到机器学习，丛书内容安排由浅入深、螺旋上升，兼顾理论和实践；在编程中学习数学，学习数学时解决实际问题。
 
 虽然本书标榜“从加减乘除到机器学习”，但是建议读者朋友们至少具备高中数学知识。如果读者正在学习或曾经学过大学数学 (微积分、线性代数、概率统计)，这套书就更容易读了。
@@ -73,8 +62,6 @@ Page 3  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 骨、泥板、石板、竹简、木牍、纸草、羊皮卷、活字印刷、纸质书，到数字媒介，这一过程持续了数千年，至今绵延不息。
-
 数学是无穷无尽的想象力，是人类的好奇心，是自我挑战的毅力，是一个接着一个的问题， 是看似荒诞不经的猜想，是一次次胆大包天的批判性思考，是敢于站在前人的臂膀之上的勇气， 是孜孜不倦地延展人类认知边界的不懈努力。
 
 家园、诗、远方诺瓦利斯曾说：“哲学就是怀着一种乡愁的冲动到处去寻找家园。” 在纷繁复杂的尘世，数学纯粹的就像精神的世外桃源。数学是，一束光，一条巷，一团不灭的希望，一股磅礴的力量，一个值得寄托的避风港。
@@ -85,8 +72,6 @@ Page 4  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Acknowledgement 致谢
-
 To my parents.
 
 谨以此书献给我的母亲父亲
@@ -94,8 +79,6 @@ To my parents.
 Page 5  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com How to Use the Book 使用本书
 
 丛书资源本系列丛书提供的配套资源有以下几个： ◄ 纸质图书； ◄ PDF 文件，方便移动终端学习；请大家注意，纸质图书经过出版社五审五校修改，内容细节上会和PDF 文件有出入。
 
@@ -105,19 +88,13 @@ Page 5  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 引出本书或本系列其他图书相关内容提醒读者格外注意的知识点每章配套微课视频二维码配套Python代码完成核心计算和制图用Streamlit开发制作App应用介绍数学工具、机器学习之间联系数学家、科学家、 艺术家等语录代码中核心Python 库函数和讲解思维导图总结本章脉络和核心内容相关数学家生平贡献介绍每章结束总结或升华本章内容本书核心参考和推荐阅读文献
 
-微课视频本书配套微课视频均发布在B 站——生姜DrGinger： ◄ https://space.bilibili.com/513194466
-
 Page 6  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 微课视频是以“聊天”的方式，和大家探讨某个数学话题的重点内容，讲讲代码中可能遇到的难点，甚至侃侃历史、说说时事、聊聊生活。
-
 本书配套的微课视频目的是引导大家自主编程实践、探究式学习，并不是“照本宣科”。
 
 纸质图书上已经写得很清楚的内容，视频课程只会强调重点。需要说明的是，图书内容不是视频的“逐字稿”。
-
-代码文件本系列丛书的Python 代码文件下载地址为： ◄ https://github.com/Visualize-ML Python 代码文件会不定期修改，请大家注意更新。图书配套的PDF 文件和勘误也会上传到这个GitHub 账户。因此，建议大家注册GitHub 账户，给书稿文件夹标星 (star) 或分支克隆 (fork)。
 
 考虑再三，作者还是决定不把代码全文印在纸质书中，以便减少篇幅，节约用纸。
 
@@ -129,8 +106,6 @@ Streamlit 是个开源的Python 库，能够方便快捷搭建、部署交互型
 
 本书中很多App 设计都采用 Streamlit + Plotly 方案。此外，本书专门配套教学视频手把手和大家一起做App。
 
-大家可以参考如下页面，更多了解Streamlit： ◄ https://streamlit.io/gallery ◄ https://docs.streamlit.io/library/api-reference 实践平台本书作者编写代码时采用的IDE (integrated development environment) 是Spyder，目的是给大家提供简洁的Python 代码文件。
-
 但是，建议大家采用JupyterLab 或Jupyter notebook 作为本系列丛书配套学习工具。
 
 简单来说，Jupyter 集合“浏览器 + 编程 + 文档 + 绘图 + 多媒体 + 发布”众多功能与一身，非常适合探究式学习。
@@ -139,33 +114,23 @@ Page 7  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 运行Jupyter 无需IDE，只需要浏览器。Jupyter 容易分块执行代码。Jupyter 支持inline 打印结果，直接将结果图片打印在分块代码下方。Jupyter 还支持很多其他语言，比如R 和Julia。
-
 使用markdown 文档编辑功能，可以编程同时写笔记，不需要额外创建文档。Jupyter 中插入图片和视频链接都很方便。此外，还可以插入Latex 公式。对于长文档，可以用边栏目录查找特定内容。
 
 Jupyter 发布功能很友好，方便打印成HTML、PDF 等格式文件。
 
 Jupyter 也并不完美，目前尚待解决的问题有几个。Jupyter 中代码调试不方便，需要安装专门插件 (比如debugger)。Jupyter 没有variable explorer，要么inline 打印数据，要么将数据写到csv 或Excel 文件中再打开。图像结果不具有交互性，比如不能查看某个点的值，或者旋转3D 图形， 可以考虑安装 (jupyter-matplotlib)。注意，利用Altair 或Plotly 绘制的图像支持交互功能。对于自定义函数，目前没有快捷键直接跳转到其定义。但是，很多开发者针对这些问题都开发了插件， 请大家留意。
 
-大家可以下载安装Anaconda，JupyterLab、Spyder、PyCharm 等常用工具都集成在Anaconda 中。下载Anaconda 的地址为： ◄ https://www.anaconda.com/ 学习步骤大家可以根据自己的偏好制定学习步骤，本书推荐如下步骤。
-
 浏览本章思维导图， 把握核心脉络下载本章配套 Python代码文件观看微课视频，阅读本章正文内容用Jupyter创建笔记， 编程实践尝试开发数学动画、 机器学习App 翻阅本书推荐参考文献
 
 学完每章后，大家可以在平台上发布自己的Jupyter 笔记，进一步听取朋友们的意见，共同进步。这样做还可以提高自己学习的动力。
-
-意见建议欢迎大家对本系列丛书提意见和建议，丛书专属邮箱地址为： ◄ jiang.visualize.ml@gmail.com 也欢迎大家在B 站视频下方留言互动。
 
 Page 8  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Contents 目录
-
 Page 9  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 Introduction 绪论图解 + 编程 + 实践 + 数学板块融合
 
@@ -186,8 +151,6 @@ Introduction 绪论图解 + 编程 + 实践 + 数学板块融合
 Page 10  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 向量定义运算范数空间几何曲线曲面矩阵定义运算微积分多元微分拉格朗日乘子法数据矩阵力量向量空间矩阵分解各种分解 Cholesky分解特征值分解奇异值分解分块矩阵定义几何变换投影数据投影直线到超平面多元统计入门数据空间数据分解数据应用
 
 图 2. 《矩阵力量》板块布局
 
@@ -217,8 +180,6 @@ Page 11  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 矩阵分解 “矩阵分解”好比代数中的“因式分解”，矩阵分解也可以理解为特殊的矩阵乘法。矩阵分解是很多数据科学、机器学习算法的基础，因此本书分配了六章篇幅讲解矩阵分解。大家务必要掌握特征值分解 (第13、14 章) 和奇异值分解 (第15、16 章)。
-
 学习这六章的“诀窍”就是——几何视角！大家要从几何视角理解不同矩阵分解。本书之后还会介绍理解矩阵分解的其他视角，比如优化视角、空间视角、数据视角等等。
 
 微积分有了线性代数工具，我们可以轻松把微积分从一元推广到多元。本书第17 章主要讲解多元微分，请大家务必掌握梯度向量、方向性导数、多元泰勒展开这三个工具。
@@ -247,8 +208,6 @@ Page 12  |  正文前  |  Book 4《矩阵力量》  |  鸢尾花书：从加减�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com “图解 + 编程 + 机器学习应用”是丛书的核心特点，《矩阵力量》一册也当然不例外。本书在讲解线性代数工具时，会穿插介绍其在数据科学和机器学习领域应用场景，让大家学以致用。
-
 希望大家在学习《矩阵力量》时，能够体会到下面这几句话的意义。
 
 有数据的地方，必有矩阵！
@@ -267,8 +226,6 @@ Page 1  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Vector and More 不止向量一个有关向量的故事，从鸢尾花数据讲起
-
 科学的每一次巨大进步，都源于颠覆性的大胆想象。
 
 Every great advance in science has issued from a new audacity of imagination.
@@ -281,15 +238,11 @@ Page 2  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 不止向量有数据的地方，必有矩阵有矩阵的地方，更有向量有向量的地方，就有几何有几何的地方，皆有空间有数据的地方，定有统计
 
 Page 3  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 1.1 有数据的地方，必有矩阵
 
@@ -341,8 +294,6 @@ Page 4  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 鸢尾花四个特征被用作样本的定量分析，它们分别是花萼长度 (sepal length)、花萼宽度 (sepal width)、花瓣长度 (petal length) 和花瓣宽度 (petal width)。
-
 注意，本书用大写、粗体、斜体字母代表矩阵，比如X、A、Σ、Λ。特别地，本书用X 代表样本数据矩阵，用Σ 代表方差协方差矩阵 (variance covariance matrix)。本书用小写、粗体、斜体字母代表向量，比如x、x1、x(1)、v。
 
 如图 2 所示，本书常用热图 (heatmap) 可视化矩阵。不考虑鸢尾花分类标签，鸢尾花数据矩阵 X 有150 行、4 列，因此X 也常记做X150 × 4。
@@ -362,8 +313,6 @@ X 150 × 4 x(i)
 Page 5  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 数据矩阵其实无处不在。
 
 再举个例子，大家日常随手拍摄的照片实际上就是数据矩阵。图 3 为作者拍摄的一张鸢尾花照片。把这张照片做黑白处理后，它变成了形状为2990 × 2714 的矩阵，即2990 行、2714 列。
 
@@ -398,8 +347,6 @@ X 0.6692 0.6364 0.6165 0.5476       2990 × 2714
 Page 6  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 行向量x(1) 代表鸢尾花数据集编号为1 的样本。行向量x(1) 的四个元素依次代表花萼长度 (sepal length)、花萼宽度 (sepal width)、花瓣长度 (petal length) 和花瓣宽度 (petal width)。长、宽单位均为厘米cm。
 
 行向量x(1) 也可以视作1 行、4 列的矩阵，即形状为1 × 4。
 
@@ -441,8 +388,6 @@ Page 7  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 此外，大家熟悉的三原色光模式 (RGB color mode) 中每种颜色实际上也可以写成列向量，如所示图 5 的7 个颜色。在本书第7 章中，我们将用RGB 解释向量空间等概念。
-
 0.8 0.8 0.8           0.8           0.6 0.8 0.3           0.7 0.9           0.8           0.3 0.3                图 5. 7 个颜色对应的RGB 颜色向量不要被向量、矩阵这些名词吓到。矩阵就是一个表格，而这个表格可以划分成若干行、若干列，它们分别叫行向量、列向量。
 
 ## 1.3 有向量的地方，就有几何
@@ -464,8 +409,6 @@ X x1 x2 x3 x4
 Page 8  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 正交 (orthogonality) 是线性代数的概念，是垂直的推广。正交投影很好理解，即原数据点和投影点连线垂直于投影点所在直线或平面。打个比方，头顶正上方阳光将物体影子投影在地面， 而阳光光线垂直于地面。不特别强调的话，本书的投影均指正交投影。
 
 从集合视角来看，(5.0, 2.0) 属于平面 2 ，即( )
 
@@ -493,8 +436,6 @@ Page 9  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 投影到一条过原点的斜线你可能会问，是否可以将图 7 中所有点投影在一条斜线上？
-
 答案是肯定的。
 
 如图 9 所示，鸢尾花数据投影到一条斜线上，这条斜线通过原点和横轴夹角15°。观察图 9， 我们已经发现投影点似乎是x1和x2的某种组合。也就是说，x1和x2分别贡献v1x1和v2x2，两种成分合成v1x1 + v2x2就是投影点坐标。v1x1 + v2x2也叫线性组合 (linear combination)。
@@ -516,8 +457,6 @@ X x1 x2 x3 x4
 Page 10  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 图 10. 鸢尾花前三个特征数据散点图回顾本系列丛书《数学要素》一册介绍过的成对特征散点图，具体如图 11 所示。成对特征散点图不但可视化鸢尾花四个特征 (花萼长度、花萼宽度、花瓣长度和花瓣宽度)，通过散点颜色还可以展示鸢尾花三个类别 (山鸢尾、变色鸢尾、维吉尼亚鸢尾)。图 11 中的每一幅散点图相当于四维空间数据在不同平面上的投影结果。
 
 Sepal length (cm)
 
@@ -545,8 +484,6 @@ Page 11  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Sepal length (cm)
-
 Sepal width (cm)
 
 图 12. 向量起点为原点
@@ -569,8 +506,6 @@ Page 12  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 将图 13 整团数据云质心平移到原点，这个过程就是去均值过程，结果如图 14 所示。数据矩阵 X 去均值化得到的数据矩阵记做Xc，显然Xc的质心位于原点0。去均值并不影响数据的单位，图 14 横轴、纵轴的单位还都是厘米。
-
 观察图 11，我们发现，如果考虑数据标签的话，每一类标签样本数据都有自己质心，叫做分类质心，这是本书第22 章要讨论的话题。此外，本书最后三章——数据三步曲——会把数据、矩阵、向量、矩阵分解、空间、优化、统计等板块联结起来。
 
 X1 demeaned (cm)
@@ -590,8 +525,6 @@ Am×nxn×1 = bm×1也叫做线性方程组 (system of linear equations)。在本
 Page 13  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
  +  =         =         +  =        b A
 
@@ -627,8 +560,6 @@ Page 14  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 观察图 15 左图，整个直角坐标系整个方方正正的网格由 [e1, e2] 张成，就好比e1和e2是撑起这个二维空间的“骨架”。再看图 15 右图，[a1, a2] 同样张成了整个直角坐标系，不同的是网格为平行四边形。[e1, e2] 和 [a1, a2] 都叫做空间 2 的基底 (base)。
 
 将A 写成 [a1, a2]，展开 (4) 得到：
@@ -655,8 +586,6 @@ Page 15  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本书读者对特征值分解并不陌生。如图 17 所示，我们在本系列丛书《数学要素》鸡兔同笼三部“鸡兔互变”中简单聊过特征值分解，大家如果忘记了，建议回顾一下。
-
 0.7 0.2 0.3 0.8 0.7 0.3 0.2 0.8 T
 
 图 17. 鸡兔同笼三部曲中“鸡兔互变”，图片来自本系列丛书《数学要素》第25 章
@@ -679,8 +608,6 @@ Page 16  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 X x1 x2 x3 x4 U S VT = @ @
 
 图 19. 对矩阵X 进行SVD 分解
@@ -698,8 +625,6 @@ X x1 x2 x3 x4 µ1 = 5.843 σ1 = 0.825 µ2 = 3.057 σ2 = 0.434 µ3 = 3.758 σ3 = 
 Page 17  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 实际应用时，我们还会对原始数据进行处理，常见的操作有去均值 (demean)、标准化 (standardization) 等。
 
 对于多个特征之间的关系，我们可以采用格拉姆矩阵 (Gram matrix)、协方差矩阵 (covariance matrix)、相关性系数矩阵 (correlation matrix) 等矩阵来描述。
 
@@ -719,8 +644,6 @@ Page 18  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本章只配套一个代码文件，Streamlit_Bk4_Ch1_01.py。这段代码中，我们用Streamlit 和Plotly 分别绘制了鸢尾花数据集的热图、平面散点图、三维散点图、成对特征散点图。这四幅图都是可交互图像。
-
 本章以向量为主线，回顾了《数学要素》“鸡兔同笼三部曲”的主要内容，预告了本书核心话题。目前不需要大家理解本章提到所有术语，只希望大家记住以下几句话： 有数据的地方，必有矩阵！
 
 有矩阵的地方，更有向量！
@@ -731,13 +654,9 @@ Page 18  |  Chapter 1 不止向量  |  Book 4《矩阵力量》  |  鸢尾花书
 
 有数据的地方，定有统计！
 
-对线性代数概念感到困惑的读者，推荐大家看看3Blue1Brown 制作的视频。很多视频网站上都可以找到译制视频。如下为3Blue1Brown 线性代数部分网页入口： https://www.3blue1brown.com/topics/linear-algebra
-
 Page 1  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Vector Calculations 向量运算从几何和数据角度解释
 
 几何——指向真理之乡，创造哲学之魂。
 
@@ -751,15 +670,11 @@ Page 2  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 长度和正圆、正圆球体的关系单位向量：向量模为 1 加减法对应元素相加减几何角度：平行四边形法，三角形法标量乘法几何角度：向量比例缩放，同向反向非零向量方向上的单位向量向量内积对应元素相乘，再求和几何角度：夹角余弦值余弦定理和统计运算的联系向量夹角反余弦用极坐标证明向量内积取值范围正交基余弦相似度定义余弦距离向量外积方向：右手法则大小：平行四边形面积和行列式的关系逐项积对应元素相乘，结果形状不变张量积几何：张起网格面和矩阵乘法关系向量模，欧几里得范数，L2范数向量运算定义：既有长度又有方向的量分类：行向量，列向量几何：切向量，法向量向量场：多元函数的梯度向量介绍
 
 Page 3  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 2.1 向量：多面手
 
@@ -782,8 +697,6 @@ a Angle Terminal point, A Initial point, O
 Page 4  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 x1 x2 (c)
 
 (d)
 
@@ -817,8 +730,6 @@ Page 5  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 向量的元素也可以是未知量，比如x = [x1, x2]T、x = [x1, x2, …, xD]T。
-
 Bk4_Ch2_01.py 绘制图 3 (b) 所示向量。matplotlib.pyplot.quiver() 绘制箭头图。
 
 继续丰富向量几何内涵几何上，切线指的是一条刚好触碰到曲线上某一点的直线。曲线的法线则是垂直于曲线上一点的切线的直线。将向量引入切线、法线可以得到切向量 (tangent vector) 和法向量 (normal vector)。图 4 所示为直线和曲线某一点处的切向量和法向量，两个向量的起点都是切点 (point of tangency)。
@@ -849,8 +760,6 @@ Page 6  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 在求解优化问题中，梯度向量扮演重要角色。本书将在第17 章回顾偏导数，并讲解梯度向量。
-
 A B C (a)
 
 (b)
@@ -868,8 +777,6 @@ X
 Page 7  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 图 6. 观察数据矩阵的两个视角
 
 行向量：一行多列，一个样本数据点行向量将n 个元素排成一行，形状为 1 × n (代表1 行、n 列)。下式行向量a 为1 行4 列：
 
@@ -920,8 +827,6 @@ a = numpy.array([4, 3])[numpy.newaxis, :]
 Page 8  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -983,8 +888,6 @@ Page 9  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 x3 x4 X x1 x2 x3 x4
-
 图 9. 矩阵由一排列向量构造
 
 表 2 总结Numpy 构造列向量几种常见方法。
@@ -1020,8 +923,6 @@ reshape() 按某种形式重新排列数据；-1 自动获取数组元素个数n
 Page 10  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 代码numpy.ones((4,1)) 可以生成 4 × 1 全1 列向量。
 
 全1 列向量1 在矩阵乘法中有特殊的地位，本书第5、22 章将分别从矩阵乘法和统计两个角度讲解。
 
@@ -1069,8 +970,6 @@ Page 11  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 1a a = + a
 
 (12)
@@ -1107,8 +1006,6 @@ Page 12  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 1x = + =
 
 (15)
@@ -1140,8 +1037,6 @@ Bk4_Ch2_03.py 绘制图 11。
 Page 13  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 非0 向量a 除以自身的模得到a 方向上的单位向量 (unit vector in the direction of vector a)：
 
 ˆ = a a a (18)
 
@@ -1181,8 +1076,6 @@ Page 14  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 1 1 = + e e (22)
 
 从集合角度来看，  。
@@ -1212,8 +1105,6 @@ Page 14  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 Page 15  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 , 0 , ,          = = = =            e e e e
 
@@ -1248,8 +1139,6 @@ Page 15  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 Page 16  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 x1 x2 (a)
 
 (b)
 
@@ -1303,8 +1192,6 @@ Page 17  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 Bk4_Ch2_04.py 计算本节向量加减法示例。
 
 ## 2.5 标量乘法：向量缩放
@@ -1326,8 +1213,6 @@ Bk4_Ch2_05.py 完成图 15 中运算。
 Page 18  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -1373,8 +1258,6 @@ Page 19  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 a b θ cos a
-
 图 16. a 和b 两个平面向量
 
 Bk4_Ch2_06.py 计算上述向量内积。此外，还可以用numpy.dot() 计算向量内积。值得注意的是，如果输入为一维数组，numpy.dot() 输出结果为内积。
@@ -1410,8 +1293,6 @@ n n n n n n n x y x y x y x y = = =  = + + =  = + + =  = + + =   
 Page 20  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本书第5 章还会从矩阵乘法角度介绍更多求和运算。
 
 几何视角如图 16 所示，从几何角度看，向量内积相当于两个向量的模 (L2范数) 与它们之间夹角余弦值三者之积：
 
@@ -1453,8 +1334,6 @@ Page 21  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com θ cos(θ)
-
 θ = 0° θ = 120° θ = 60° θ = 30° θ = 90° θ = 150° θ = 180° θ = 0° θ = 60° θ = 30° θ = 90° θ = 120° θ = 180° θ = 150°
 
 图 17. 向量夹角
@@ -1486,8 +1365,6 @@ Page 21  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 Page 22  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 n n n a b a b = = =                   
 
@@ -1538,8 +1415,6 @@ a b θ c = a   b
 Page 23  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 cos  = a b a b
 
@@ -1625,8 +1500,6 @@ Page 24  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 ( )
 
 ( ) ( )
@@ -1670,8 +1543,6 @@ cos ,   sin cos ,   sin a a b b a a b b      = =   = 
 Page 25  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com θb θa a b θ
 
 图 19. 极坐标中解释向量夹角
 
@@ -1719,8 +1590,6 @@ Page 26  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本章前文介绍的平面直角坐标系中e1和e2分别代表为沿着横轴、纵轴的单位向量。它们相互正交，也就是向量内积为0：
-
 ,   = =  =   e e e e
 
 (72)
@@ -1749,8 +1618,6 @@ Page 27  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 x1 x2 (b)
-
 (a)
 
 Unit circle v1 v2 w1 w2
@@ -1778,8 +1645,6 @@ T , k  = = x q x q x q x q x q (74)
 Page 28  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 下面再介绍余弦距离 (cosine distance)。余弦距离定义基于余弦相似度，用d(x, q) 来表达x 和 q 两个列向量的余弦距离，具体定义如下：
 
 ( )
 
@@ -1853,8 +1718,6 @@ Page 29  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 可以发现，x(1) 和 x(2) 两朵同属于setosa 亚属的鸢尾花，余弦距离较近，也就是较为相似。
-
 x(1) 和 x(101) 分别属于setota 和virginica 亚属，余弦距离较远，也就是不相似。
 
 大家思考以下几个问题，鸢尾花数据有150 个数据点，任意两个数据点可以计算得到一个余弦相似度。因此成对余弦相似度有11175 个，大家想想该怎么便捷计算、存储这些数据呢？
@@ -1881,8 +1744,6 @@ Page 30  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 向量a 和b 以及a × b 三者关系可以用右手法则判断，如图 25 所示。图 25 这幅图中，我们可以看到a × b 和b × a 方向相反。
-
 Plane spanned by vectors of a and b b a a × b θ
 
 图 24. a × b 垂直于向量a 和b 构成平面
@@ -1908,8 +1769,6 @@ sin   = a b a b
 Page 31  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 a b θ ||b|| sinθ ||a|| Area = ||a × b||
 
 图 26. a × b 向量积的几何含义
 
@@ -1948,8 +1807,6 @@ e1 (i)
 Page 32  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -2031,8 +1888,6 @@ Page 33  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 ## 2.10 逐项积：对应元素分别相乘
 
 元素乘积 (element-wise multiplication)，也称为阿达玛乘积 (Hadamard product) 或逐项积 (piecewise product)。逐项积指的是两个形状相同的矩阵，对应元素相乘得到同样形状的矩阵。向量是一种特殊矩阵，阿达玛乘积也适用于向量。图 28 给出的是从数据角度看向量逐项积运算。
@@ -2066,8 +1921,6 @@ Bk4_Ch2_12.py 计算行向量逐项积。
 Page 34  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 T 1 1 1 2 2 1 T n n n n n n n m a b a b a b a b a b a b a b a b a b a b a b a b a b a b a b                                =  = = =                            a b ab
 
@@ -2117,8 +1970,6 @@ Page 35  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com a b a   b a   b a b a   b a b aib bja ai bj
-
 图 29. 从几何角度解释向量张量积
 
 举个例子给定列向量a 和b 分别为：
@@ -2138,8 +1989,6 @@ a b = a   b 6 × 1 4 × 1 6 × 4
 Page 36  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
   T T T n n b b b a a a   =        =         a b a a a b b a b b
 
@@ -2168,8 +2017,6 @@ b b = b   b 4 × 1 4 × 1 4 × 4 (a)
 Page 37  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Bk4_Ch2_13.py 绘制图 30、图 31、图 32。
 
 在Bk4_Ch2_13.py 的基础上，我们用Streamlit 和Plotly 制作了一个App，用来展示向量张量积。App 中，大家可以改变向量元素个数。向量是由随机数发生器产生，保留小数点后一位。请大家参考Streamlit_Bk4_Ch2_13.py。
 
@@ -2205,8 +2052,6 @@ Page 38  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 从几何角度，向量是既有长度又有方向的量。从数据角度，表格数据就是矩阵。而矩阵的每一行向量是一个样本点，每一列向量代表一个特征。
-
 ·
 
 图 34. 总结本章重要内容的四幅图
@@ -2223,13 +2068,9 @@ Page 38  |  Chapter 2 向量运算  |  Book 4《矩阵力量》  |  鸢尾花书
 
 几何视角下，张量积像是张起一个网格面。张量积在机器学习和数据科学算法中应用特别广泛，有关这个运算的性质我们会慢慢展开讲解。
 
-对于习惯MATLAB 或R 语言的读者，如果转用Python 感到不适应的话，推荐大家参考： http://mathesaurus.sourceforge.net/ 网站整理了常用MATLAB-R-Python 命令、函数之间关系。
-
 Page 1  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Vector Norm 向量范数欧几里得距离的延伸
 
 数学领域，遇到理解不了的概念别怕，用习惯就好了。
 
@@ -2243,15 +2084,11 @@ Page 2  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 Lp范数定义收敛性质几何角度和超椭圆关系 p = 2 0 < p < 1 * 不是范数不等式关系 L1范数定义等高线为旋转正方形城市街区距离 L2范数定义等高线为正圆形欧几里得距离不等式关系 L 范数定义等高线为正方形切比雪夫距离向量范数 p取值 p = 1 p
 
 Page 3  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 3.1 L
 
@@ -2319,8 +2156,6 @@ Page 4  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 向量x 的L3范数可以通过下式求得：
-
 ( )
 
 1 3 1 3 3.302 = + + = 
@@ -2354,8 +2189,6 @@ max 1 , 2 , 3 = =
 Page 5  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 白话说，Lp 范数丈量一个向量的“大小”。p 取值不同时，丈量的方式略有差别。比如，p = 1 时，我们用向量各个元素绝对值之和代表向量“大小”。p = 2 时，我们用欧氏距离代表向量“大小”。当p 趋向+∞时，我们仅仅用向量各个元素绝对值中最大值代表向量“大小”。
 
 在数据科学、机器学习算法中，Lp 范数扮演重要角色，比如距离度量、正则化 (regularization)。下一节开始，我们就从几何图像入手，深入分析Lp范数性质。
 
@@ -2419,8 +2252,6 @@ Page 6  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x1 x1 x1 x1 x1 (a) p = 0.05 (b) p = 0.2 (c) p = 0.5 (d) p = 1 (e) p = 1.5 (f) p = 2 (g) p = 4 (h) p = 8 (i) p = inf x2 x2 x2 x2 x2 x2 x2 x2 x2 x1 x1 x1
-
 图 3. p 取不同正数时，二元函数等高线。图中 p < 1 对应的等高线不是范数 x1 x2 p
 
 图 4. 随着p 增大，等高线一层层包裹。图中 p < 1 对应的等高线不是范数
@@ -2428,8 +2259,6 @@ Page 6  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书�
 Page 7  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 凸凹性 p ≥ 1 时，Lp 范数等高线形状为凸 (convex)。这是范数的一个重要性质——次可加性 (subadditivity)，也叫三角不等式 (triangle inequality)：
 
 p p p +  + y y
 
@@ -2453,8 +2282,6 @@ Page 8  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x1 x1 x1 x1 x1 x1 x1 x1 x2 x2 x2 x2 x2 x2 x2 x2 x2 (a) p =  0.05 (b) p =  0.2 (c) p =  0.5 (d) p =  1 (e) p =  1.5 (f) p =  2 (g) p =  4 (h) p =  8 (i) p =  inf
-
 图 6. p 取不同负数时，函数等高线变化
 
 ## 3.3 L
@@ -2474,8 +2301,6 @@ D j D j = = + = + + 
 Page 9  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com (19) 中L1范数等于1 时，得到解析式：
 
 + = (20)
 
@@ -2509,8 +2334,6 @@ Page 10  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com x1 x2 x1 x2 (a)
-
 (b)
 
 图 8. p = 1 时，Lp范数等高线图像
@@ -2532,8 +2355,6 @@ A B
 Page 11  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -2575,8 +2396,6 @@ Page 12  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com (a) p = 1 (b) p = 2
-
 图 11. p = 1、2，D = 3 时，Lp范数对应的几何体
 
 本系列丛书《数学要素》中简单讨论过向量范数在岭回归和套索回归的应用。岭回归引入的是L2正则项，套索回归引入L1正则项。
@@ -2592,8 +2411,6 @@ L1 regularizer b1 b2 L2 regularizer b2 b1 b2 b1
 Page 13  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 不等式相信大家都知道，三角形两边之和大于第三边。应用到向量L2范数，对应如下不等式：
 
 +  + u u
 
@@ -2642,8 +2459,6 @@ u + v 的L2范数为：
 Page 14  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 Bk4_Ch3_02.py 绘制图 13 图 11。
 
@@ -2697,8 +2512,6 @@ Page 15  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com −  − = ( )
-
 , f x x = − x1 x2
 
 图 14. 退化双曲线及不等式区域根据以上区域划分，改写 (37) 得到：
@@ -2724,8 +2537,6 @@ x1 x2
 Page 16  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -2764,8 +2575,6 @@ p − q
 Page 17  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便大家在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 欧氏距离 (Euclidean distance)
 
 ( ) ( )
 
@@ -2823,8 +2632,6 @@ Page 18  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 图 17 所示γ 对二元高斯核函数形状影响。γ 越大坡面越陡峭。
-
 (a) γ = 0.5 (b) γ = 1 (c) γ = 2 (d) γ = 3
 
 图 17. 高斯核曲面随γ 变化
@@ -2869,15 +2676,11 @@ Page 19  |  Chapter 3 向量范数  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 矩阵也有范数，这是本书第18 章要讨论的话题之一。
-
 图 18. 总结本章重要内容的四幅图，第一幅子图并非范数
 
 Page 1  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Matrix 矩阵所有矩阵运算都是重要数学工具，都有应用场景
 
 数字统治万物。
 
@@ -2893,15 +2696,11 @@ Page 2  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 矩阵基础行数、列数矩阵元素序号分割成列向量、行向量矩阵形状向量行向量列向量方阵对称矩阵对角矩阵单位矩阵上三角下三角长方形矩阵矩阵乘法乘法规则一般不满足交换律矩阵的幂两个视角标量积展开外积展开矩阵逆运算规则行列式值不为零，方阵存在逆其他运算转置迹逐项积行列式值矩阵基本运算加、减标量乘法
 
 Page 3  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 4.1 矩阵：一个不平凡的表格
 
@@ -2932,8 +2731,6 @@ n × D n rows D columns First row First column ith row jth column xi,j
 Page 4  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本系列丛书《数学要素》第1 章专门聊过为什么会选择n 和D 这两个字母，这里就不再重复。
 
 矩阵构造矩阵X 中，元素 (element) xi,j被称作 (i, j) 元素 (i j entry 或 i j element)。xi,j出现在i 行、j 列 (appears in row i and column j)。
 
@@ -2983,8 +2780,6 @@ Page 5  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
   1,1 1,2 1, 2,1 2,2 2, ,1 ,2 , D D n D D n n n D        = =         X
 
 (4)
@@ -3013,8 +2808,6 @@ Page 6  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Vector Row vector Column vector Multiple rows and columns Square Symmetric Diagonal Antidiagonal Triangular Lower triangular Upper triangular Rectangular Tall Wide Matrix
-
 图 3. 几种常见矩阵形状
 
 方阵方阵 (square matrix) 指的是行、列数相等的矩阵。n × n 矩阵被称作n 阶方阵 (n-square matrix)。
@@ -3032,8 +2825,6 @@ T = A A (6)
 Page 7  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Antidiagonal Main diagonal
 
 图 4. 主对角线和副对角线
 
@@ -3054,8 +2845,6 @@ n n n           =       Λ
 Page 8  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 图 6. 三种对角矩阵
 
@@ -3084,8 +2873,6 @@ n n        =       I
 Page 9  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 也有很多文献用E 代表单位矩阵。本书的E 专门用来代表标准正交基 (standard orthonormal basis)。本书第7 章会讲解标准正交基和其他类型基底。
 
 三角矩阵三角矩阵 (triangular matrix) 也是特殊的方阵。如果方阵对角线以下元素均为零，这个矩阵被称作上三角矩阵 (upper triangular matrix)：
 
@@ -3125,8 +2912,6 @@ Page 10  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com X XT X @ = XTX n × D n × n D × D X XT @ = XXT
-
 图 8. 将长方形矩阵变成方阵
 
 ## 4.3 基本运算：加减和标量乘法
@@ -3163,8 +2948,6 @@ Page 11  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 零矩阵具有以下性质：
-
 + = + = − = A O O A A A A O
 
 (14)
@@ -3199,8 +2982,6 @@ Page 12  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 矩阵和标量之和图 9 所示为，一个矩阵A 和标量k 之和，相当于矩阵A 的每一个元素加k。比如，
-
 + +                     + = + = + + =                     + +          
 
 (16)
@@ -3231,8 +3012,6 @@ Page 13  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 同理，当矩阵A 列数和行向量r 列数相同时，A 和r 可以利用广播原则相加减。如图 11 所示，矩阵A 和行向量r 相加，相当于A 的每一行和r 分别相加。
-
 另外一个视角，行向量r 首先自我复制，上下叠加得到和A 形状相同的矩阵，再和A 相加：
 
   2 1 4 1 6 1 + +                     + = + = + + =                     + +          
@@ -3260,8 +3039,6 @@ r + = + r r r r
 Page 14  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Bk4_Ch4_05.py 完成上述所示广播原则计算。此外，请大家把加号改成减号，验证广播原则在减法上的运算。
 
 ## 4.5 矩阵乘法：线性代数的运算核心
 
@@ -3296,8 +3073,6 @@ Page 14  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 Page 15  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 , ,1 1, ,2 2, , , ...
 
@@ -3340,8 +3115,6 @@ Bk4_Ch4_06.py 介绍如何借助Numpy 完成矩阵乘法运算。值得注意的
 Page 16  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 一般情况，矩阵乘法不满足交换律：
 
 AB BA 
 
@@ -3399,8 +3172,6 @@ Page 17  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 1,1 1,2 1,1 1,2 2,1 2,2 2,1 2,2 1,1 1,1 1,2 2,1 1,1 1,2 1,2 2,2 2,1 1,1 2,2 2,1 2,1 1,2 2,2 2,2 @ AB A B a a b b a a b b a b a b a b a b a b a b a b a b =    =       + +   =   + +  
 
 (30)
@@ -3430,8 +3201,6 @@ A 的第i 行a(i) 乘以B 的第j 列bj，得到乘积C 的 (i, j) 元素ci,j：
 Page 18  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -3476,8 +3245,6 @@ Page 18  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 Page 19  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com B = AT A = BT A B n × D D × n a1 a2 a3 a4 a1 T a2 T a3 T a4 T
 
 图 15. 矩阵转置
 
@@ -3528,8 +3295,6 @@ T = A A (37)
 Page 20  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ( )
 
@@ -3600,8 +3365,6 @@ B 叫做矩阵A 的逆 (inverse)，一般记做A−1。
 Page 21  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 请大家注意以下和矩阵逆有关的运算规则：
 
 ( )
 
@@ -3677,8 +3440,6 @@ Page 22  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 正交矩阵在本书有很重的戏份。本书第9、10 章将深入探讨正交矩阵的性质和应用，本节不做展开。
-
 Bk4_Ch4_11.py 展示用Numpy 库函数numpy.linalg.inv() 计算矩阵逆。注意，对于 numpy.matrix() 产生的矩阵A，可以通过A.I 计算矩阵A 的逆，比如Bk4_Ch4_12.py 给出的例子。但是，这一方法不能使用在numpy.array() 生成的矩阵。numpy.array() 生成的矩阵求逆，一般用numpy.linalg.inv()。
 
 ## 4.9 迹：主对角元素之和
@@ -3733,8 +3494,6 @@ Page 23  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 注意，上式假设AB 和BA 两个乘法都存在。
-
 如果x 和y 列向量行数相同，则如几个运算等价：
 
 ( )
@@ -3777,8 +3536,6 @@ Page 24  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 ## 4.10 逐项积：对应元素相乘
 
 在讲解向量运算时，我们介绍过元素乘积 (element-wise multiplication)，也称为阿达玛乘积 (Hadamard product) 或逐项积 (piecewise product)。
@@ -3810,8 +3567,6 @@ Bk4_Ch4_14.py 介绍如何计算逐项积。
 Page 25  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 a a =
 
@@ -3887,8 +3642,6 @@ Page 26  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 向量积本书前文介绍的向量积也可以通过行列式计算得到，比如：
 
 ( )
@@ -3939,8 +3692,6 @@ Page 27  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 a a   =     a a a   =     a a a a a +   + =   +   a a a a + a a + a21 a22 a11 a12
 
 图 18. 二阶矩阵的行列式的几何意义
@@ -3975,8 +3726,6 @@ Page 28  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 图 20. 求平行四边形面积
 
 Bk4_Ch4_15.py 介绍计算行列式值。
@@ -3996,8 +3745,6 @@ Bk4_Ch4_15.py 介绍计算行列式值。
 Page 29  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 1 = − ,   = =     a a
 
 3 =
 
@@ -4020,8 +3767,6 @@ Page 29  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 Page 30  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 如图 21 所示，上式代表三维空间中边长分别为1、2、3 的立方体，而行列式值为6 则说明立方体的体积为6。
 
 +x +y +z (1, 2, 3)
 
@@ -4048,8 +3793,6 @@ O (0, 0, 0)
 Page 31  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com (a)
 
 (b)
 
@@ -4091,8 +3834,6 @@ Page 32  |  Chapter 4 矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 和5——叫做特征值 (eigen value)。2 和5 是对角方阵的对角线元素。此外，值得大家注意的是图 23 中两个矩阵的迹相同，即3 + 4 = 2 + 5。
-
 Area = 10 Area = 10            
 
 图 23. 把平行四边形变成长方形类似地，如图 24 所示，通过神奇的“特征值分解”，我们可以把平行六面体变成长方体。特征值的奇妙用途还不止这些，请大家关注本书第13、14 章。
@@ -4105,13 +3846,9 @@ a1 a2 a3
 
 就像儿时背诵九九乘法表一样，矩阵乘法规则就是我们的“成人乘法表”——必须要熟练掌握！随着本书对线性代数知识抽丝剥茧，大家会由浅入深认识到矩阵乘法的伟力。
 
-强烈推荐大家参考Immersive Linear Algebra。这本书配套大量可交互动画展示线性代数概念。全册免费阅读，网址如下： http://immersivemath.com/ila/index.html
-
 Page 1  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Dive into Matrix Multiplication 矩阵乘法代数、几何、统计、数据交融的盛宴
 
 只要持续进步，千万别泼冷水，哪怕蜗行牛步。
 
@@ -4125,15 +3862,11 @@ Page 2  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 @ = = @ @ = 向量和向量矩阵和向量方阵相关对角阵长方阵矩阵乘法 @ @ = @ = @ = @ = @ = @ = @ @ = = @ @ @ = @ =
 
 Page 3  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 5.1 矩阵乘法：形态丰富多样
 
@@ -4179,8 +3912,6 @@ Page 4  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 ( )
 
 T T T T ,  =  = = = = = x y y x x y x y x y y x
@@ -4194,8 +3925,6 @@ T T T T ,  =  = = = = = x y y x x y x y x y y x
 图 1. 标量积
 
 全1 列向量全1 列向量1 是非常神奇的存在，多元统计离不开全1 列向量。下面举几个例子。
-
-如图 2 所示，全1 列向量1 乘行向量a，相当于对行向量a 进行复制、向下叠放。1@a 结果如下：
 
 @ @ n n m          = =       a a a a a
 
@@ -4212,8 +3941,6 @@ T T T T ,  =  = = = = = x y y x x y x y x y y x
 Page 5  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
   T T @ @    = =    b b b b b (5)
 
@@ -4250,8 +3977,6 @@ T T E n n n n n n n = + +  = = = = =  1 x 1 x x 1
 Page 6  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 T n n =  = = + + = x x x x
 
@@ -4321,8 +4046,6 @@ Page 7  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 整理以上不同等式都得到同一等式：
-
 n + + = (14)
 
 提醒大家注意，但凡遇到矩阵乘积结果为标量的情况，请考虑是否能从“距离”角度理解这个矩阵乘积。
@@ -4363,8 +4086,6 @@ Page 8  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书�
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 图 7 所示为 (19) 计算过程。
-
 xT @ = xxT
 
 =
@@ -4388,8 +4109,6 @@ y =
 Page 9  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 5.3 再聊全1 列向量
 
@@ -4425,8 +4144,6 @@ Page 10  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 ( )
 
 T T E D n          = = =       X X 1 μ X
@@ -4441,15 +4158,11 @@ T T E D n          = = =       X X 
 
 ( )
 
-T @E D D n n n D D n D n                     = =       1 1 X X
-
 (24)
 
 上式结果和数据矩阵X 形状一致，都是n × D。其中， T n n   1 1 相当于向量张量积 n n    ， 结果为n × n 全1 方阵。利用向量张量积，(24) 可以写成：
 
 ( )
-
-@E n n n D n      = 1 X X (25)
 
 上式相当于是X 向1 正交投影，这是本书第10 章要探讨的内容。
 
@@ -4470,8 +4183,6 @@ T T T n n n   − = − = −     11 X 11 X X IX I X (27)
 Page 11  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 如图 10 所示，从几何视角来看，去均值相当于将数据的质心平移到原点。为了方便，我们一般利用广播原则计算去均值矩阵Xc，即Xc = X – E(X)。
 
 Centralize
 
@@ -4496,8 +4207,6 @@ n  = −1 X X X (28)
 Page 12  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 1, 2, , D j j D j n D D j D n j j n D D D D =   = =            =                X
 
@@ -4524,8 +4233,6 @@ T ,1 ,2 , , n n n D n i D i j j = = = = =     = =  �
 Page 13  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com = n × D X 1T 1 × n @ @ D × 1
 
 图 12. 矩阵所有元素求和注意，上式中两个全1 列向量长度也不同，具体形状如图 12 所示。再强调一点，希望大家在看到代数式时，要联想可能的线性代数运算式。本章后续还会继续给出更多示例，以便强化代数和线性代数的联系。
 
@@ -4558,8 +4265,6 @@ x 为D 个未知量x1、x1 … xD构成的列向量，b 为n 个常数b1、b1 �
 Page 14  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 @ = b n × D D × 1 n × 1 A
 
@@ -4599,8 +4304,6 @@ Page 15  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本书前文反复提到，矩阵A 可以看做由一组列向量构造而成：
-
   n D D  = A a a a
 
 (38)
@@ -4639,8 +4342,6 @@ Page 16  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 An×DxD×1 = bn×1 n D xD×1 bn×1 b D × 1 n × 1 ?
 
 图 15. 线性映射几何视角如果2 维向量x = [x1, x2]T的模为1，x 的起点位于原点，终点则位于单位圆上。给定如下矩阵 S 和R：
@@ -4660,8 +4361,6 @@ An×DxD×1 = bn×1 n D xD×1 bn×1 b D × 1 n × 1 ?
 Page 17  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com xTx = 1 S R Sx RSx RS
 
 图 16. 几何变换视角向量模凡是向量就有自己的长度，即向量模、L2范数。bn×1的向量模、L2范数为：
 
@@ -4699,8 +4398,6 @@ Page 18  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 大家可能会好奇，该如何计算旋转椭圆的半长轴、半短轴的长度，以及长轴旋转角度等信息？本书第14 章将给出答案。
-
 b x   b: b = Ax b   x: x = A 1b
 
 图 17. 单位圆到旋转椭圆
@@ -4734,8 +4431,6 @@ T , , , D D D i i i i j i j j q x q x x q j = = = = + =    x Qx
 Page 19  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 观察上式，发现单项式变量的最高次数为2，这就是为什么xTQx 叫二次型的原因。
 
 举个例子比如x 和Q 分别为：
 
@@ -4772,8 +4467,6 @@ a b ax b c x x q     = + + + =       
 Page 20  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本书第21 章将探讨图 20 这些曲面和正定性、极值之间的联系。
 
 高斯分布二次型的应用无处不在。举个例子，二元正态分布的概率密度函数解析式如下：
 
@@ -4823,8 +4516,6 @@ Page 21  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Σ T @ @ D × D TΣvj 1 × D vj = D × 1
-
 图 21. viTΣvj矩阵运算二次型在多元微积分、正定性、多元正态分布、协方差矩阵、数据映射和优化方法中都有举足轻重的分量。本书后续将会深入探讨。
 
 ## 5.6 方阵乘方阵：矩阵分解
@@ -4846,8 +4537,6 @@ A @ @ B C D × D D × D D × D = D D × D A @ = B C D × D D × D D × D
 Page 22  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 我们会在本书统计部分和最小二乘法线性回归中再谈及幂等矩阵。此外，丛书每册均有涉及线性回归这个话题，本书采用的是线性代数和向量几何视角，《概率统计》则利用统计视角理解线性回归，而《数据科学》则是从数据分析视角介绍如何应用这个模型。
 
 ## 5.7 对角阵：批量缩放
 
@@ -4878,8 +4567,6 @@ D D D D D D D D       −         �
 Page 23  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com X @ = Λ XΛ D × D n × D n × D
 
 图 23. X 乘对角方阵Λ
 
@@ -4919,8 +4606,6 @@ Page 24  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 乘列向量类似地，n × n 对角阵Λ 乘列向量x，相当于对列向量每个元素以不同比例分别缩放：
-
 1 1 2 2 n n n n n n n n n n n                              = =                   Λ
 
 (65)
@@ -4944,8 +4629,6 @@ T T 1 1 2 2 D D D D D j j j D D D         =   �
 Page 25  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 图 26 所示为上述运算的示意图。
 
 xT @ @ Λ D × D 1 × D D × 1 = xTΛx
 
@@ -4984,8 +4667,6 @@ T 1 4       = + =            
 Page 26  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
     a a a a a a a a      =      
 
@@ -5036,8 +4717,6 @@ Page 26  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 Page 27  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 n D D n    = X z
 
@@ -5107,8 +4786,6 @@ Page 28  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 以鸢尾花数据为例为了方便理解，下面我们将给v 赋予具体数值来讲解。
 
 以鸢尾花数据为例，矩阵X 的4 列分别对应4 个特征——花萼长度、花萼宽度、花瓣长度、 花瓣宽度。Xv = z 结果只有1 列，相当于只有1 个特征。
@@ -5137,8 +4814,6 @@ Page 29  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 几何角度来看上式运算，(80) 相当于4 维空间的散点，被压缩到了一条轴上，具体如图 30。
-
 图 30 中4 维空间的散点仅仅是示意图而已。
 
 x1 x2 x3 x4
@@ -5162,8 +4837,6 @@ v1 @ = D × 2 v2 x3 x1 X x1 x2 x3 x4 [v1, v2]
 Page 30  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 看到这里，大家是否想到了本书第1 章的成对散点图？每幅散点图的背后实际上都有类似图 31 的矩阵乘法运算。
 
 x1 x2 x3 x4
 
@@ -5233,8 +4906,6 @@ Page 31  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com @ X V n × D D × D = Z n × D
-
 图 33. 一个D 维度空间X 数据映射到另一个D 维度空间
 
 列向量形式大家见到如下形式时，也不用慌张。如图 34 所示，这个也是上文介绍的映射，只不过x 为列向量：
@@ -5258,8 +4929,6 @@ V xT @ = D × D 1 × D zT 1 × D
 Page 32  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 ## 5.11 长方阵：奇异值分解、格拉姆矩阵、张量积
 
@@ -5290,8 +4959,6 @@ X = @ @ A B C n × D n × p p × p p × D
 Page 33  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com (86) 中的G 有自己的名字——格拉姆矩阵 (Gram matrix)。格拉姆矩阵在数据分析、机器学习算法中有重要作用。
 
 @ X XT XTX = n × D x2 ...
 
@@ -5324,8 +4991,6 @@ xD T D × D Tx,j
 Page 34  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 , , , , , , , , , D D D D D D D D D D D D                   = =                  x x x x x x G
 
@@ -5393,8 +5058,6 @@ Page 35  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本节前文的数据矩阵X 是细高的，它转置之后得到宽矮的矩阵XT。而XT也有自己的格拉姆矩阵，即矩阵X (n × D) 乘其转置XT (D × n)，得到一个 n × n 格拉姆矩阵：
-
   T T T T T T T 1 1 T D D D D D i=       =         = + + + = XX x x x x x x x x
 
 (92)
@@ -5431,8 +5094,6 @@ Page 36  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 本书后文还会在不同位置用到tr(AB) = tr(BA)，请大家格外注意。
-
 此外，向量的范数度量了向量的大小。任意向量L2范数的平方值，就是向量每个元素平方之和。而矩阵X 的所有元素的平方和实际上也度量了某种矩阵“大小”。一个矩阵的所有元素平方和、再开方叫做矩阵F-范数。本书第18 章将介绍常见矩阵范数。
 
 ## 5.12 爱因斯坦求和约定
@@ -5458,8 +5119,6 @@ jj k
 Page 37  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 表 1. 使用numpy.einsum()完成常见线性代数运算运算使用numpy.einsum()完成运算向量a 所有元素求和 (结果为标量)
 
 np.einsum('ij->',a)
 
@@ -5523,8 +5182,6 @@ Page 38  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 不满足交换律代数中，乘法满足交换律，比如ab = ba。
-
 但是，一般情况，矩阵乘法不满足交换律：
 
 AB BA 
@@ -5582,8 +5239,6 @@ T T T T T T T + + = + + = + + + A B A B A B A B AA AB BA BB (102)
 Page 39  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
 
 矩阵相等如果a ≠ 0，ab = ac 可以推导a(b – c) = 0，继而得到b = c。但是矩阵乘法中，如果A 不是零矩阵，即A ≠ O，并且：
 
@@ -5651,8 +5306,6 @@ Page 40  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com 注意顺序在多个矩阵连乘展开遇到求逆或置换时，大家需要格外注意调换顺序，比如：
-
 ( )
 
 ( )
@@ -5717,8 +5370,6 @@ Page 41  |  Chapter 5 矩阵乘法  |  Book 4《矩阵力量》  |  鸢尾花书
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
 
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com
-
 T T T T T T T T T T , , , x y x Ax x Ax x A QAx x x x x x Bx x A Ax (113)
 
 如果分子、分母上都出现同一个矩阵，绝不能消去。显然，(113) 中xT和x 都不能消去！最后一个分式中AT和A 也不能消去。
@@ -5738,8 +5389,6 @@ T T T T T T T T T T , , , x y x Ax x Ax x A QAx x x x x x Bx x A Ax (113)
 Page 1  |  Chapter 6 分块矩阵  |  Book 4《矩阵力量》  |  鸢尾花书：从加减乘除到机器学习本PDF 文件为作者草稿，发布目的为方便读者在移动终端学习，终稿内容以清华大学出版社纸质出版物为准。
 
 版权归清华大学出版社所有，请勿商用，引用请注明出处。
-
-代码及PDF 文件下载：https://github.com/Visualize-ML 本书配套微课视频均发布在B 站——生姜DrGinger：https://space.bilibili.com/513194466 欢迎大家批评指教，本书专属邮箱：jiang.visualize.ml@gmail.com Block Matrix 分块矩阵将大矩阵切成小块，简化运算
 
 数学的精髓在于自由。
 

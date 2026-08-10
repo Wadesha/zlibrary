@@ -1,10 +1,5 @@
 # 万物运作原理：所有科学定律与现象图解演示 Adam Dant、Brian Clegg 著 Z Library
 
-> 来源文件：pre_How_It_All_Works_All_scientific_Laws_And_Phenomena_Illustrated_Demonstrated_Adam_Dant_Brian_Clegg_Z_Library.txt
-> 字符数（约）：145731
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 万物运作原理
 
 万物运作原理：全部科学定律与现象 图解与演示 Adam Dant 与 Brian Clegg
@@ -2834,4 +2829,3 @@ Z 塞曼效应 127 零电阻 47 热力学第零定律 13 齐夫定律 73
 英国图书馆出版品编目数据 本书的编目记录可向英国图书馆（British Library）索取。
 
 ISBN：978-0-7112-5678-1 电子书 ISBN：978-0-7112-5679-8 出版人、概念与方向：David Breuer 设计与排版：Isambard Thomas 项目编辑：Caroline Earle 印刷地：中国 10 9 8 7 6 5 4 3 2 1
-

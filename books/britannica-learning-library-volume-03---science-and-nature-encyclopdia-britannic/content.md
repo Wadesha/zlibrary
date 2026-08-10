@@ -228,23 +228,13 @@ Dale H.
 
 Managing Editor and Director of Production
 
-© 2008 BY ENCYCLOPÆDIA BRITANNICA, INC.
-
 ## Cover photos (front)
-
-## © Lester Lefkowitz/Corbis
 
 ## (back)
 
-© Corbis.
-
 ## Cover insert photos (left)
 
-## © Jeff Vanuga/Corbis
-
 ## (right)
-
-© George B.
 
 ## Diebold/Corbis
 
@@ -272,8 +262,6 @@ Britannica.
 
 com may be accessed on the Internet at http
 
-//www.
-
 britannica.
 
 com.
@@ -283,8 +271,6 @@ com.
 Pat.
 
 Off.
-
-) Printed in U.
 
 ## Science and Nature
 
@@ -338,13 +324,7 @@ These articles are listed in the Table of Contents and appear on the Subject Tab
 
 Have a great trip!
 
-© 2008 Encyclopædia Britannica, Inc.
-
 A fallen maple leaf shows its autumn colors.
-
-## © Royalty-Free/Corbis
-
-© 2008 Encyclopædia Britannica, Inc.
 
 ## Science and Nature
 

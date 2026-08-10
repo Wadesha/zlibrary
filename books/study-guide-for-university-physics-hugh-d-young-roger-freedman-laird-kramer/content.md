@@ -1,10 +1,5 @@
 # Study Guide for University Physics Hugh D Young Roger Freedman Laird Kramer Z Library
 
-> 来源文件：pre_Study_Guide_for_University_Physics_Hugh_D_Young_Roger_Freedman_Laird_Kramer_Z_Library.txt
-> 字符数（约）：913107
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 .
 
 STUDY GUIDE YlOUNG AND FREEDMAN SEARS AND ZEMANSKY'S UN IlrE RS ITY PHYS ICS
@@ -22,16 +17,6 @@ ADDITIONAL HELP For homework, Mastering Physics ™ (included with this book if 
 educationally effective and widely used online physics tutorial and homework system in the world. Results have been demonstrated by gains in 1OOOs of student exam scores and independent tests.
 
 For self study, ActivPhysics Online ™ provides a suite of critically acclaimed interactive tutorials using visualization, simulation, and multiple representations. This library of open- access, web-based interactive tools and animations and the accompanying workbooks help you construct and test models, confront misconceptions, reason qualitatively about physical processes, and think critically.
-
-ActivePhysics Online Workbook, Second Edition, Volume 1: Mechanics· Thermal Physics· Oscillations & Waves 978-0-8053-9060-5 /0-8053-9060-X ActivPhysics Online Workbook, Second Edition, Volume 2: Electricity & Magnetism· Optics· 978-0-8053-9061-2/0-8053-9061-8 ,w Links for both MasteringPhysics and ActivPhysics Online study tools can be found at www.masteringphysia..com.
-
-Please visit us at www.aw-bc.com for more information. To order any of our products, contact our customer 5efYice department at (800) 824-7799 or (201) 767-5021 outside of the U.s., or visit your campus bookstore.
-
-A MESSAGE TO STUDENTS FROM THE TEXTBOOK PUBLISHER www.aw-bc.com You have decided to invest in your education, and we at Addison-Wesley ISBN·13: 978-0-321-50033-5 are committed to helping you make the most of your investment.
-
-ISBN-10: 0-321-50033-4 As a specialized science publisher, we go to great lengths to thoroughly 90 0 0 0 infuse our books with the latest research and pedagogy. This book is not just a great learning tool now but also a useful reference as you advance in PEARSON your academic career.
-
-The ultimate test of a textbook's value is not in whether or not you buy it but, rather, in how much you use it. So we encourage you to visit Addison www.etipsforAgrades.com to learn more about how to get the most out Wesley of your textbook investment.
 
 "The beautiful thing about learning is that no one can take it away from you."
 
@@ -51,37 +36,15 @@ Mastering Physics ™ (included with this book if your professor as a component 
 
 • For self study, ActivPhysics Online ™ provides a suite of critically acclaimed interactive tutorials using visualization, simulation, and mUltiple representations. This library of open- access, web-based interactive tools and animations and the accompanying workbooks help you construct and test models, confront misconceptions, reason qualitatively about physical processes, and think critically.
 
-ActivePhysics Online Workbook, Second Edition, Volume 1: Mechanics· Thermal Physics· Oscillations & Waves 978-0-8053-9060-5 /0-8053-9060-X ActivPhysics Online Workbook, Second Edition, Volume 2: Electricity & Magnetism· Optics· 978-0-8053-9061-2/0-8053-9061-8 Links for both MasteringPhysics and ActivPhysics Online study tools can be found at www.masteringphysics.com.
-
-Please visit us at www.aw-bc.com for more information. To order any of our products, contact our customer department at (800) 824-7799 or (201) 767-5021 outside of the U.s., or visit your campus bookstore.
-
-A MESSAGE TO STUDENTS FROM THE TEXTBOOK PUBLISHER www.aw-bc.com You have decided to invest in your education, and we at Addison-Wesley ISBN-13: 978-0-321-50037-3 are committed to helping you make the most of your investment.
-
-ISBN-10: 0-321-50037-7 As a specialized science publisher, we go to great lengths to thoroughly gOO 0 0 infuse our books with the latest research and pedagogy. This book is not just a great learning tool now but also a useful reference as you advance in PEARSON your academic career.
-
-The ultimate test of a textbook's value is not in whether or not you buy it but, rather, in how much you use it. So we encourage you to visit Addison www.etipsforAgrades.com to learn more about how to get the most out Wesley of your textbook investment.
-
 "The beautiful thing about learning is that no one can take it away from you."
 
 - B. B. KIN G
 
 STUDY GUIDE VOLUME 1: CHAPTERS 1-20 SEARS & ZEMANSKY'S UNIVERSITY PHYSICS 12TH EDITION YOUNG AND FREEDMAN LAIRD KRAMER FLORIDA INTERNATIONAL UNIVERSITY PEARSON ----­ Addison Wesley San Francisco Boston New York Cape Town Hong Kong London Madrid Mexico City Montreal Munich Paris Singapore Sydney Tokyo Toronto
 
-Publisher: Executive Editor: Editorial Manager: Associate Editor: Executive Marketing Manager: Managing Editor: Production Supervisor: Production Service: Illustrations: Cover Design: Cover and Text Printer: Cover Image: ISBN-13: 978-0-321-50033-5 ISBN-IO: 0-321-50033-4 Jim Smith Nancy Whilton Laura Kenney Chandrika Madhavan Scott Dustan Corinne Benson Nancy Tabor WestWords PMG Rolin Graphics Yvo Riezebos Design and Seventeenth Street Design Bind-Rite Graphics Jean-Philippe ArleslReuters/Corbis Copyright © 2008 Pearson Education, Inc., publishing as Pearson Addison-Wesley, 130 I Sansome St., San Francisco, CA 94111. All rights reserved. Manufactured in the United States of America. This publication is protected by Copyright and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please sub­ mit a written request to Pearson Education, Inc., Permissions Department, 1900 E. Lake Ave., Glenview, IL 60025. For information regarding permissions, call (847) 486-2635.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designa­ tions appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
-
-PEARSON ----­ Addison Wesley 1 2 3 4 5 6 7 8 9  IO-BR-IO 09 08 07 www.aw-bc.com
-
 STUDY GUIDE VOLUMES 2 AND 3: CHAPTERS 2 1-44 SEARS & ZEMANSKY'S UNIVERSITY PHYSICS 12TH EDITION YOUNG AND FREEDMAN LAIRD KRAMER FLORIDA INTERNATIONAL UNIVERSITY ...
 
 TT PEARSON Addison Wesley San Francisco Boston New York Cape Town Hong Kong London Madrid Mexico City Montreal Munich Paris Singapore Sydney Tokyo Toronto
-
-Publisher: Executive Editor: Editorial Manager: Associate Editor: Executive Marketing Manager: Managing Editor: Production Supervisor: Production Service: Illustrations: Cover Design: Cover and Text Printer: Cover Image: ISBN-13: 978-0-321-50037-3 ISBN-IO: 0-321-50037-7 Jim Smith Nancy Whilton Laura Kenney Chandrika Madhavan Scott Dustan Corinne Benson Nancy Tabor WestWords PMG Rolin Graphics Yvo Riezebos Design and Seventeenth Street Design Bind-Rite Graphics Jean-Philippe ArleslReuters/Corbis Copyright © 2008 Pearson Education, Inc., publishing as Pearson Addison-Wesley, 130 I Sansome St., San Francisco, CA 94111. All rights reserved. Manufactured in the United States of America. This publication is protected by Copyright and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please sub­ mit a written request to Pearson Education, Inc., Permissions Department, 1900 E. Lake Ave., Glenview, IL 60025. For information regarding permissions, call (847) 486-2635.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designa­ tions appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
-
-PEARSON ----­ Addison Wesley 1 2 3 4 5 6 7 8 9  IO-BR-IO 09 08 07 www.aw-bc.com
 
 CONTENTS
 
@@ -3484,8 +3447,6 @@ S ET U P  The free-body diagram of the mass is shown in Figure 5.28. Three force
 · An.xy coordi­ nate axis is included in the diagram.
 
 APPLYING N EWTON 'S LAWS mg Figure 5.29 Problem II free-body diagram.
-
-E X E C U T E  The mass undergoes centripetal acceleration in the horizontal direction and no net force in the vertical direction. Applying Newton's first law in the vertical direction gives @Fy = T] sin30° - T2sin30° - mg = O.
 
 Applying Newton's second law in the horizontal direction gives We can solve for T1 by multiplying the first equation by cos 30°, multiplying the second equation by sin 30°, and adding the two resulting equations. Doing this gives which reduces to Solving for T2 produces mg mv2 T] = + ---- 2sin30° 2Rcos30° -mg mv2 T2 = + ---- 2 sin 30° 2R cos 30° At the critical velocity, T2 is zero. Solving for v, we obtain mg 2sin30° 2Rcos30° ' fiR v= \j e = The critical velocity is 504 m/ s.
 

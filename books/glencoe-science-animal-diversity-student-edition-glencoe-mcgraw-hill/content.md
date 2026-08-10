@@ -1,10 +1,5 @@
 # Glencoe Science Animal Diversity Student Edition Glencoe McGraw Hill Z Library
 
-> 来源文件：pre_Glencoe_Science_Animal_Diversity_Student_Edition_Glencoe_McGraw_Hill_Z_Library.txt
-> 字符数（约）：441423
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Bill Bachmann/Rainbow
 
 Animal Diversity This Alaskan brown bear is catching a migrating salmon.
@@ -12,12 +7,6 @@ Animal Diversity This Alaskan brown bear is catching a migrating salmon.
 This species of bear is the largest carnivore in Alaska, growing up to nine feet tall and weighing up to 1,700 pounds.
 
 All Alaskan salmon hatch in freshwater, migrate to the sea, and then eventually return to where they hatched to reproduce.
-
-Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus,OH 43240-4027 ISBN:0-07-861740-5 Printed in the United States of America.
-
-2 3 4 5 6 7 8 9 10  027/055  09 08 07 06 05 04 the United States Copyright Act,no part of this publication may be reproduced or distributed in any form or by any means,or stored in a database or retrieval system,without prior written permission of the publisher.
-
-The National Geographic features were designed and developed by the National Geographic Society’s Education Division.Copyright © National Geographic Society.The name “National Geographic Society” and the Yellow Border Rectangle are trademarks of the Society,and their use,without prior written permission,is strictly prohibited.
 
 The “Science and Society”and the “Science and History”features that appear in this book were designed and developed by TIME School Publishing,a division of TIME Magazine.TIME and the red Bill Bachmann/Rainbow
 

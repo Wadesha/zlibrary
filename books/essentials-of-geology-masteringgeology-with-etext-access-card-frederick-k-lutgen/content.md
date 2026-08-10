@@ -1,17 +1,8 @@
 # Essentials of Geology Masteringgeology With Etext Access Card Frederick K Lutgens Edward J Tarbuck etc Z Library
 
-> 来源文件：pre_Essentials_of_Geology_Masteringgeology_With_Etext_Access_Card_Frederick_K_Lutgens_Edward_J_Tarbuck_etc_Z_Library.txt
-> 字符数（约）：2088697
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Boston   Columbus   Indianapolis   New York   San Francisco   Upper Saddle River Amsterdam   Cape Town   Dubai   London   Madrid   Milan   Munich   Paris   Montréal   Toronto Delhi   Mexico City   São Paulo   Sydney   Hong Kong   Seoul   Singapore   Taipei   Tokyo E s s e n t i a l s  o f g e o l o g y Frederick K. Lutgens Edward J. Tarbuck ILLUSTRATED BY Dennis Tasa 12e
 
-This publication is protected by Copyright, and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means: electronic, mechanical, photocopying, recording, or likewise.
-
 To obtain permission(s) to use material from this work, please submit a written request to Pearson Education, Inc., Permissions Depart- ment, One Lake Street, Upper Saddle River, New Jersey 07458.
-
-Many of the designations by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
 
 Library of Congress Cataloging-in-Publication Data Lutgens, Frederick K.
 
@@ -19,11 +10,7 @@ Essentials of geology/Frederick K. Lutgens, Edward J. Tarbuck; illustrated by De
 
 pages cm Includes index.
 
-ISBN-13: 978-0-321-94773-4 ISBN-10: 0-321-94773-8
-
 ## 1. Geology–Textbooks. I. Tarbuck, Edward J. II. Title
-
-QE26.3.L87 2015 550–dc23 2014043897 1 2 3 4 5 6 7 8 9 10—CKV—18 17 16 15 14 ISBN-10: 0-321-94773-8 ISBN-13: 978-0-321-94773-4 www.pearsonhighered.com Acquisitions Editor: Andrew Dunaway Senior Marketing Manager: Maureen McLaughlin Project Manager: Crissy Dudonis Project Management Team Lead: Gina M. Cheselka Executive Development Editor: Jonathan Cheney Director of Development: Jennifer Hart Content Producer: Timothy Hainley Project Manager, Instructor Media: Eddie Lee Editorial Assistant: Sarah Shefveland Senior Marketing Assistant: Nicola Houston Full Service/Composition: Cenveo® Publisher Services Project Manager, Full Service: Heidi Allgair Photo Manager: Maya Melenchuk Photo Researcher: Kristin Piljay Text Permissions Manager: Alison Bruckner Design Manager: Derek Bacchus Interior Design: Elise Lansdon Design Cover Design: Derek Bacchus Photo and Illustration Support: International Mapping Operations Specialist: Christy Hall Cover Image Credit: Michael Collier Page 6: Quote from Aristotle, translated by Adams, F.D., in The Birth and Development of the Geological Sciences, Dover Publications, 1954; Page 7: Quote from James Hutton, Theory of the Earth, 1785; Page 7:  Quote from William L. Stokes, Essentials of Earth History, Prentice Hall, Inc. 1973, p. 20; Page 8: Quote from James Hutton, Transactions of the Royal Society of Edinburgh, 1788; Page 10: Quote from Jacob Bronowski, The Common Sense of Science, p. 148, Har- vard University Press, 1953; Page 11: Quote from F. James Rutherford and Andrew Ahlgren, Science for All Americans (New York: Oxford University Press, 1990), p. 7; Page 11: Quote from Speech delivered at Douai on December 7, 1854 on the occasion of his formal inauguration to the Faculty of Letters of Douai and the Faculty of Sciences of Lille), reprinted in: Pasteur Vallery-Radot, ed., Oeuvres de Pasteur (Paris, France: Masson and Co., 1939), vol. 7, page 131; Page 37: Quote from Alfred Wegener, The Origin of Continents and Oceans, translated from the 4th revised German ed. of 1929 by J. Birman (London: Methuen, 1966); Page 38: R. T. Chamberlain, quoted from Hallam, A. (1973)
 
 A Revolution in the Earth Sciences. Clarendon Press, Oxford; Page 106: Quote from Lee Green, MD, an associate professor at the Univer- sity of Michigan Medical School; Page 170: Quote from Jack Eddy, “A Fragile Seam of Dark Blue Light,” in Proceedings of the Global Change Research Forum. U.S. Geological Survey Circular 1086, 1993, p. 15; Page 259: Quote from Walter Mooney, a USGS seismologist; Page 353: Quote from Exploration of the Colorado River of the West (Washington, DC: Smithsonian Institution, 1875), p. 203; Page 417: Quote from J. D. Hays, John Imbrie, and N. J. Shackelton, “Variations in the Earth’s Orbit: Pacemaker of the Ice Ages,” Science 194 (1976): 1121–32. p. 1131; Page 435: Quote from R. A. Bagnold, The Physics of Blown Sand and Desert Dunes, 2005; Page 476: Quote from James Hutton, Transactions of the Royal Society of Edinburgh, 1805; Page 486: Quote from B. Bryson, A Short History of Nearly Everything (Broadway Books, 2003); Page 545: Quote from IPCC, “Summary for Policy Makers.” In Climate Change 2013: The Physical Science Basis; Page 551: Quote from J. T. Overpeck, et al., “Arctic System on Trajec- tory to New, Seasonally Ice-Free States,” EOS, Transactions, American Geophysical Union, 86 (34): 309, August 23, 2005; Page 553: National Assessment Synthesis Team, Climate Change Impacts on the United States: The Potential Consequences of Climate Variability and Change (Washington, DC: U.S. Global Research Program, 2000), p. 19.
 
@@ -326,8 +313,6 @@ lobe-finned fish (p. 517)
 About Our Sustainability Initiatives Pearson recognizes the environmental challenges facing this planet and acknowledges our responsibility in making a difference. This book has been carefully crafted to minimize environmental impact. The binding, cover, and paper come from facilities that minimize waste, energy consumption, and the use of harmful chemicals.
 
 Pearson closes the loop by recycling every out-of-date text returned to our warehouse. Along with developing and exploring digital solutions to our market’s needs, Pearson has a strong commitment to achieving carbon neutral- ity. As of 2009, Pearson became the first carbon- and climate-neutral publishing company. Since then, Pearson remains strongly committed to measuring, reducing, and offsetting our carbon footprint.
-
-The future holds great promise for reducing our impact on Earth’s environment, and Pearson is proud to be leading the way. We strive to publish the best books with the most up-to-date and accurate content, and to do so in ways that minimize our impact on Earth. To learn more about our initiatives, please visit www.pearson.com/responsibility.
 
 Brief Contents
 
@@ -1173,8 +1158,6 @@ MasteringGeology from Pearson is an online homework, tutorial, and assessment pr
 
 • SmartFigures The Teaching and Learning Package For the Instructor Pearson continues to improve the instructor resources for this text, with the goal of providing dynamic teaching aids and sav- ing you time in preparing for your classes.
 
-MasteringGeology is an online homework, tutorial, and assess- ment product designed to improve results by helping students quickly master concepts. Students using MasteringGeology ben- efit from self-paced tutorials that feature specific wrong-answer feedback and hints to keep them engaged and on track. Mastering- GeologyTM offers: • Assignable activities, including Encounter Earth activities using Google EarthTM, SmartFigure activities, Mobile Field Trip activities GeoTutor activities, GigaPan® activities, Geoscience Animation activities, GEODe tutorials, and more • Additional Concept Check and Give It Some Thought questions, Test Bank questions, and Reading Quizzes • A student Study Area with Geoscience Animations, GEODe: Essentials of Geology activities, In the News RSS feeds, Self Study Quizzes, Web Links, Glossary, and Flashcards • Pearson eText for Essentials of Geology, 12th edition, which gives students access to the text whenever and wherever they can access the Internet and includes powerful interactive and customization functions See www.masteringgeology.com Learning Catalytics Learning Catalytics™ is a “bring your own device” student en- gagement, assessment, and classroom intelligence system. With Learning Catalytics you can: • Assess students in real time, using open-ended tasks to probe student understanding.
-
 • Understand immediately where students are and adjust your lecture accordingly.
 
 • Improve your students’ critical-thinking skills.
@@ -1184,8 +1167,6 @@ MasteringGeology is an online homework, tutorial, and assess- ment product desig
 • Add your own questions to make Learning Catalytics fit your course exactly.
 
 • Manage student interactions with intelligent grouping and timing.
-
-Learning Catalytics is a technology that has grown out of twenty years of cutting edge research, innovation, and imple- mentation of interactive teaching and peer instruction. Available integrated with MasteringGeology. www.learningcatalytics.com Instructor’s Resource DVD The IRDVD provides an integrated collection of resources designed to help instructors make efficient and effective use of their time. It features:
 
 Preface • Mobile Field Trips • Pearson eText • Optional Self Study Quizzes • Web Links • Glossary Acknowledgments Writing a college textbook requires the talents and cooperation of many people. It is truly a team effort, and the authors are fortu- nate to be part of an extraordinary team at Pearson Education. In addition to being great people to work with, all are committed to producing the best textbooks possible. Special thanks to our geol- ogy editor, Andy Dunaway, who invested a great deal of time, energy, and effort in this project. We appreciate his enthusiasm, hard work, and quest for excellence. We also appreciate our con- scientious project manager, Crissy Dudonis, whose job it was to keep track of all that was going on—and a lot was going on. The text’s new design and striking cover resulted from the creative talents of Derek Bacchus and his team. We think it is a job well done. As always, our marketing manager, Maureen McLaughlin, provided helpful advice and many good ideas. Essentials of Geol- ogy, 12th edition, was truly improved with the help of our devel- opmental editor Jonathan Cheney. Many thanks. It was the job of the production team, led by Heidi Allgair at Cenveo® Publisher Services, to turn our manuscript into a finished product. The team also included copyeditor Kitty Wilson, compositor Annamarie Boley, proofreader Heather Mann, and photo researcher Kristin Piljay. We think these talented people did great work. All are true professionals, with whom we are very fortunate to be associated.
 
@@ -1344,8 +1325,6 @@ The nature of our Earth—its materials and processes—has been a focus of stud
 Certainly the most influential Greek philosopher was Aristotle. Unfortunately, Aristotle’s explanations about the natural world were not based on keen observations and experiments. Instead, they were arbitrary pronouncements.
 
 He believed that rocks were created under the “influ- ence” of the stars and that earthquakes occurred when air crowded into the ground, was heated by central fires, and escaped explosively. When confronted with a fossil fish, he explained that “a great many fishes live in the earth motionless and are found when excavations are made.” Although Aristotle’s explanations may have been adequate for his day, they unfortunately continued to be viewed as authoritative for many centuries, thus inhibiting the accep- tance of more up-to-date ideas. After the Renaissance of the 1500s, however, more people became interested in finding answers to questions about Earth.
-
-Catastrophism In the mid-1600s, James Ussher, Anglican Archbishop of Armagh, Primate of all Ireland, published a major work that had immediate and profound influences. A respected scholar of the Bible, Ussher constructed a chronology of human and Earth history in which he calculated that Earth was only a few thousand years old, having been created in 4004 b.c. Ussher’s treatise earned widespread acceptance among Europe’s scientific and religious leaders, and his chronology was soon printed in the margins of the Bible itself.
 
 During the seventeenth and eighteenth centuries, Western thought about Earth’s features and processes was strongly influenced by Ussher’s calculation. The result was a guiding doctrine called catastrophism. Catastrophists
 
@@ -2320,8 +2299,6 @@ b.	 If you are flying in a commercial jet at an altitude of 12 kilom- eters (abo
 ④	 Making accurate measurements and observations is a basic part of scientific inquiry. Identify two images in this chapter that illustrate a way in which scientific data are gathered. Suggest an advantage that might be associated with the examples you select.
 
 ⑤	 This jet is cruising at an altitude of 10 kilometers (6.2 miles). Refer to the graph in Figure 1.12. What is the approximate air pressure at the altitude where the jet is flying? About what percentage of the atmosphere is below the jet (assuming that the pressure at the sur- face is 1000 millibars)?
-
-Give It Some Thought MasteringGeology www.masteringgeology.com Looking for additional review and test prep materials? Visit the Study Area in MasteringGeology to enhance your understanding of this chapter’s ­content by accessing a variety of resources, including Self-Study Quizzes, Geoscience Animations, SmartFigures, Mobile Field Trips, GEODe Tutorials, RSS feeds, flashcards, web links, and an optional Pearson eText.
 
 Michael Collier ⑦	 Refer to Figure 1.21. How does the rock cycle diagram, particularly the process arrows, support the fact that sedimentary rock is the most abundant rock type on the surface of Earth?
 
@@ -3449,8 +3426,6 @@ b.	 List the pair of cities that is moving closer as a result of plate motion.
 
 c.	 List the pair of cities that is presently not moving relative to each other.
 
-MasteringGeology www.masteringgeology.com Looking for additional review and test prep materials? Visit the Study Area in MasteringGeology to enhance your understanding of this chapter’s ­content by accessing a variety of resources, including Self-Study Quizzes, Geoscience Animations, SmartFigures, Mobile Field Trips, GEODe Tutorials, RSS feeds, flashcards, web links, and an optional Pearson eText.
-
 Matter and Minerals
 
 The Cave of Crystals, Chihuahua, Mexico, contains giant gypsum crystals, some of the largest natural crystals ever found. (Photo by Carsten Peter/Speleoresearch & Films/National Geographic Stock/Getty Images)
@@ -4495,8 +4470,6 @@ Give It Some Thought
 
 Give It Some Thought ⑩	 The accompanying diagram shows one of the several different arrangements for bonding silicon–oxygen tet- rahedra. List each arrange- ment and give an example of a mineral for each.
 
-MasteringGeology www.masteringgeology.com Looking for additional review and test prep materials? Visit the Study Area in MasteringGeology to enhance your understanding of this chapter’s ­content by accessing a variety of resources, including Self-Study Quizzes, Geoscience Animations, SmartFigures, Mobile Field Trips, GEODe Tutorials, RSS feeds, flashcards, web links, and an optional Pearson eText.
-
 ⑪	 Most states have designated a state mineral, rock, or gemstone to promote interest in the state’s natural resources. Describe your state mineral, rock, or gemstone and explain why it was selected. If your state does not have a state mineral, rock, or gemstone, complete the exercise by selecting one from a state adjacent to yours.
 
 Minerals such as muscovite (in the mica mineral group) exhibit a sheet-like structure with the sheets consisting of shared silicon-oxygen tetrahedra.
@@ -5497,8 +5470,6 @@ d.	 Describe the texture of this rock.
 
 a.	 A dome-shaped mountainous structure flanked by upturned layers of sedimentary rocks b.	 A vertical wall-like feature a few meters wide and hundreds of meters long c.	 A huge expanse of granitic rock forming a mountainous terrain tens of kilometers wide d.	 A relatively thin layer of basalt sandwiched between horizontal layers of sedimentary rocks exposed along the walls of a river valley ⑫	 Mount Whitney, the highest summit (4421 meters [14,505 feet]) in the contiguous United States, is located in the Sierra Nevada batho- lith. Based on its location, is Mount Whitney likely composed of granitic, andesitic, or basaltic rocks?
 
-Mastering Geology MasteringGeology www.masteringgeology.com Looking for additional review and test prep materials? Visit the Study Area in MasteringGeology to enhance your understanding of this chapter’s ­content by accessing a variety of resources, including Self-Study Quizzes, Geoscience Animations, SmartFigures, Mobile Field Trips, GEODe Tutorials, RSS feeds, flashcards, web links, and an optional Pearson eText.
-
 Mount Whitney Photo by Don Smith/Getty Images
 
 Volcanoes and Volcanic Hazards
@@ -6100,8 +6071,6 @@ Although tsunamis are usually caused by strong earth- Pompeii Herculaneum Vesuvi
 ## ITALY
 
 ## CAMPANIA
-
-Naples Bay of Naples Bay of Naples © Google Earth © Google Earth Olivier Goujon/Robert Harding Olivier Goujon/Robert Harding Leonard von Matt/Science Source Leonard von Matt/Science Source Pompeii was excavated nearly 17 centuries after the eruption of AD 79.
 
 Plaster cast of some of the victims of the eruption of Mount Vesuvius.
 

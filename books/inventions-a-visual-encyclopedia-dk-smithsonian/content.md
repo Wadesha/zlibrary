@@ -1,10 +1,5 @@
 # Inventions A Visual Encyclopedia DK Smithsonian Z Library
 
-> 来源文件：pre_Inventions_A_Visual_Encyclopedia_DK_Smithsonian_Z_Library.txt
-> 字符数（约）：483093
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Inventions a visual encyclopedia
 
 s m i t h s o n i a n Inventions a visual encyclopedia
@@ -12,14 +7,6 @@ s m i t h s o n i a n Inventions a visual encyclopedia
 Contents EARLY BREAKTHROUGHS Early tools Farming Inventing the wheel Traveling by road Sailing the seas Sailing ships Archimedes The beginnings of industry Early mechanical devices Designing the future The power of gunpowder Gunpowder weapons The printing revolution Writing and printing Zhang Heng MAKING THE MODERN WORLD
 
 Tools Tools workshop Feeding the world Working the land Construction Alfred Nobel Industrialization Smart production line Powering up Renewable energy Nicola Tesla Plastics Man-made materials Buying and selling Money Online superstore At the office 3-D printing Robots Helpful robots The robots are coming!
-
-GET MOVING Bicycle Two wheels Skating on air Motorcycles Cars for the masses Cars, cars, cars DK London Senior Editor  Carron Brown   Senior Art Editor  Rachael Grady US Editor  Megan Douglass   US Executive Editor  Lori Cates Hand Editorial team  Ann Baggaley, Ashwin Khurana, Camilla Hallinan, Jessica Cawthra, Sarah Edwards Art Editors  Chrissy Barnard, Louise Dick Jacket Designer  Surabhi Wadhwa-Gandhi   Jacket Editor  Claire Gell Jacket Design Development Manager  Sophia MTT Producer, Pre-production  Gillian Reid   Senior Producer  Angela Graef Managing Editor  Francesca Baines   Managing Art Editor  Philip Letsu Publisher  Andrew Macintyre Associate Publishing Director  Liz Wheeler Art Director  Karen Self   Design Director  Phil Ormerod Publishing Director  Jonathan Metcalf DK Delhi Senior Editor  Sreshtha Bhattacharya   Senior Art Editor  Ira Sharma Project Editor  Priyanka Kharbanda Editorial team  Ankona Das, Neha Ruth Samuel, Rupa Rao, Vatsal Verma Art Editors  Heena Sharma, Mansi Agrawal, Sachin Singh, Shailee Khurana Jacket Designer  Juhi Sheth   Jackets Editorial Coordinator  Priyanka Sharma Senior DTP Designer  Harish Aggarwal DTP Designers  Sachin Gupta, Mohd Rizwan, Vikram Singh, Bimlesh Tiwary Picture Researchers  Nishwan Rasool, Deepak Negi Managing Jackets Editor  Saloni Singh Picture Research Manager  Taiyaba Khatoon Pre-production Manager  Balwant Singh Production Manager  Pankaj Sharma Managing Editor  Kingshuk Ghoshal   Managing Art Editor  Govind Mittal Written by John Farndon, Jacob Field, Joe Fullman, Andrew Humphreys, and Giles Sparrow Consultant:  Roger Bridgman First American Edition, 2018 Published in the United States by DK Publishing 345 Hudson Street, New York, New York 10014 Copyright © 2018 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 18 19 20 21 22 10 9 8 7 6 5 4 3 2 1 001–308571–July/2018 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
-Published in Great Britain by Dorling Kindersley Limited A catalog record for this book is available from the Library of Congress ISBN: 978-1-4654-5838-4 (Hardcover)
-
-ISBN: 978-1-4654-7369-1 (Paperback)
-
-DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing, Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com Established in 1846, the Smithsonian—the world’s largest museum, education and research complex—includes 19 museums and galleries and the National Zoological Park.
 
 The total number of artifacts, works of art, and specimens in the Smithsonian’s collection is estimated at 154 million. The Smithsonian is a renowned research center, dedicated to public education, national service, and scholarship in the arts, sciences and history.
 
@@ -1396,8 +1383,6 @@ This shopper is paying using her credit card, but most machines will take cash, 
 ■ ■What?  Dollar ■ ■Who?  Bank of North America ■ ■Where and when?  US, 1785 In the period that followed American independence in 1776, the US had no one single currency. In 1785, delegates from the 13 colonies authorized the issue of a new currency called the “dollar.” In 1792, the US Congress confirmed the US dollar as the country’s standard unit of money. The word “dollar” comes from the German thaler, which was a silver coin used throughout Europe for almost 400 years.
 
 ■ ■What?  BankAmericard ■ ■Who?  Bank of America ■ ■Where and when?  US, 1958 ■ ■What?  American Express traveler’s check ■ ■Who?  Marcellus Flemming Berry ■ ■Where and when?  US, 1891 A traveler’s check is a bank-issued paper currency that allows the user to buy goods and services in a foreign country. In 1891, the president of American US dollar Credit card Traveler’s check Money People have been recording the exchange of goods since 30,000 bce. Gold and silver coins were circulating in 600 bce, while paper money emerged in China in the 11th century ce. In the modern era, new types of money and innovative methods of payment have been developed, from credit cards to contactless technology.
-
-Traveler’s check for use in Europe, 1990s Modern credit card ■ ■The largest denomination bill ever printed in the US was the $100,000 note, in 1934 and 1935.
 
 ■ ■Only 8 percent of all the money in the world is actual physical cash— the rest is digital money that exists only on computers.
 

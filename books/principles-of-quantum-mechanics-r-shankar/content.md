@@ -1,10 +1,5 @@
 # Principles of Quantum Mechanics R Shankar Z Library
 
-> 来源文件：pre_Principles_of_Quantum_Mechanics_R_Shankar_Z_Library.txt
-> 字符数（约）：259177
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Principles of Quantum Mechanics SECOND EDITION R. Shankar Yale University New Haven, Connecticut PLENUM PRESS NEW YORK AND LONDON
 
 Library of Congress Cataloging—in—Publication Data Shankar, Ramamurti.
@@ -15,15 +10,9 @@ p. cm.
 
 Includes bibliographical references and index.
 
-ISBN 0-306-44790-8
-
 ## 1. Quantum theory. I. Title
 
 QC174.12.S52 1994 530.1'2--dc20 94-26837 CIP
-
-## ISBN 0-306-44790-8
-
-©1994, 1980 Plenum Press, New York A Division of Plenum Publishing Corporation 233 Spring Street, New York, N.Y. 10013 No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, microfilming, recording, or otherwise, without written permission from the Publisher Printed in the United States of America
 
 To My Parents and to Uma, Umesh, Ajeet, Meera, and Maya
 

@@ -1,12 +1,5 @@
 # Naturalist Edward O Wilson Z Library
 
-> 来源文件：pre_Naturalist_Edward_O_Wilson_Z_Library.txt
-> 字符数（约）：272281
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Table of Contents Title Page Copyright Page Dedication Prelude
-
 ## PART I - DAYBREAK IN ALABAMA
 
 Chapter One - PARADISE BEACH Chapter Two - SEND US THE BOY Chapter Three - A LIGHT IN THE CORNER Chapter Four - A MAGIC KINGDOM Chapter Five - TO DO MY DUTY Chapter Six - ALABAMA DREAMING Chapter Seven - THE HUNTERS Chapter Eight - GOOD-BYE TO THE SOUTH Chapter Nine - ORIZABA STORYTELLER Chapter Ten - THE SOUTH PACIFIC Chapter Eleven - THE FORMS OF THINGS UNKNOWN Chapter Twelve - THE MOLECULAR WARS Chapter Thirteen - ISLANDS ARE THE KEY Chapter Fourteen - THE FLORIDA KEYS EXPERIMENT Chapter Fifteen - ANTS Chapter Sixteen - ATTAINING SOCIOBIOLOGY Chapter Seventeen - THE SOCIOBIOLOGY CONTROVERSY Chapter Eighteen - BIODIVERSITY BIOPHILIA

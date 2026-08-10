@@ -1,12 +1,5 @@
 # Game Theory Understanding the Mathematics of Life Brian Clegg Z Library
 
-> 来源文件：pre_Game_Theory_Understanding_the_Mathematics_of_Life_Brian_Clegg_Z_Library.txt
-> 字符数（约）：235223
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Contents Title Page Dedication Acknowledgements 1: Games and the real world 2: Place your bets 3: Von Neumann’s games 4: Reaching equilibrium 5: If at first you don’t succeed 6: Going once, going twice Further Reading Index About the Author Copyright
-
 Hot Science is a series exploring the cutting edge of science and technology. With topics from big data to rewilding, dark matter to gene editing, these are books for popular science readers who like to go that little bit deeper …
 
 AVAILABLE NOW AND COMING SOON: Destination Mars: The Story of Our Quest to Conquer the Red Planet Big Data: How the Information Revolution is Transforming Our Lives Gravitational Waves: How Einstein’s Spacetime Ripples Reveal the Secrets of the Universe The Graphene Revolution: The Weird Science of the Ultrathin CERN and the Higgs Boson: The Global Quest for the Building Blocks of Reality Cosmic Impact: Understanding the Threat to Earth from Asteroids and Comets Artificial Intelligence: Modern Magic or Dangerous Future?

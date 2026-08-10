@@ -1,12 +1,5 @@
 # An Introduction to Game Theory Martin J Osborne Z Library
 
-> 来源文件：pre_An_Introduction_to_Game_Theory_Martin_J_Osborne_Z_Library.txt
-> 字符数（约）：279926
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Selected chapters from draft of An Introduction to Game Theory by Martin J. Osborne. Please send comments to Martin J. Osborne, Department of Economics, 150 St. George Street, University of Toronto, Toronto, Canada M5S 3G7. Email: martin.osborne@utoronto.ca. This version: 2000/11/6.
-
 Contents 1 Introduction 1
 
 ## 1.1 What is game theory?
@@ -407,8 +400,6 @@ Example: a game that illustrates a game-theoretic point
 
 Illustration A game, or family of games, that shows how the theory can illuminate observed phenomena
 
-I maintain a website for the book. The current URL is http://www.economics.utoronto.ca/osborne/igt/.
-
 Introduction
 
 What is game theory?
@@ -470,8 +461,6 @@ Part II extends the models of a strategic game and an extensive game to situatio
 The chapters in Part III cover topics outside the basic theory. Chapters 11 and 12 examine two theories of the outcome in a strategic game that are alternatives to the theory of Nash equilibrium. Chapter 13 discusses how a variant of the notion of Nash equilibrium in a strategic game can be used to model behavior that is the outcome of evolutionary pressure rather than conscious choice. Chapters 14 and 15 use the model of an extensive game to study long-term relationships, in which the same group of players repeatedly interact. Finally, Chapter 16 uses strategic, extensive, and coalitional models to gain an understanding of the outcome of bargaining.
 
 Notes Von Neumann and Morgenstern (1944) established game theory as a field. The information about John von Neumann in the box on page 3 is drawn from Ulam (1958), Halmos (1973), Thompson (1987), Poundstone (1992), and Leonard (1995). Aumann (1985), on which I draw in the opening section, contains a very readable discussion of the aims and achievements of game theory. Two papers that discuss the limitations of rational choice theory are Rabin (1998) and Elster (1998).
-
-Draft chapter from An introduction to game theory by Martin J. Osborne Osborne@chass.utoronto.ca; www.economics.utoronto.ca/osborne Version: 00/11/6.
 
 2 Nash Equilibrium: Theory
 

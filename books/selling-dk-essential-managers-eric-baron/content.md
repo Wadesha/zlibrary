@@ -1,10 +1,5 @@
 # Selling DK Essential Managers Eric Baron Z Library
 
-> 来源文件：pre_Selling_DK_Essential_Managers_Eric_Baron_Z_Library.txt
-> 字符数（约）：89198
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ESSENTIAL MANAGERS Selling ERIC BARON
 
 Contents

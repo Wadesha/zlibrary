@@ -1,10 +1,5 @@
 # Introduction to Mineralogy etc Z Library
 
-> 来源文件：pre_Introduction_to_Mineralogy_etc_Z_Library.txt
-> 字符数（约）：1728477
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Introduction to Mineralogy
 
 Introduction to Mineralogy THIRD EDITION WILLIAM D. NESSE University of Northern Colorado New York    Oxford O X F OR D  U N I V E RS I T Y  P RE S S
@@ -13,8 +8,6 @@ Oxford University Press is a department of the University of Oxford. It furthers
 
 Published in the United States of America by Oxford University Press 198 Madison Avenue, New York, NY 10016, United States of America.
 
-© 2017, 2012, 2000 by Oxford University Press a retrieval system, or transmitted, in any form or by any means, without the prior permission in writing of Oxford University Press, or as expressly permitted by law, by license, or under terms agreed with the appropriate reproduction rights organization. Inquiries concerning reproduction outside the scope of the above should be sent to the Rights Department, Oxford University Press, at the address above.
-
 You must not circulate this work in any other form and you must impose this same condition on any acquirer.
 
 Library of Congress Cataloging-in-Publication Data Names: Nesse, William D.
@@ -22,10 +15,6 @@ Library of Congress Cataloging-in-Publication Data Names: Nesse, William D.
 Title: Introduction to mineralogy / William D. Nesse, University of Northern Colorado.
 
 Description: Third edition. | New York : Oxford University Press, [2017] | Includes indexes.
-
-Identifiers: LCCN 2016040693 (print) | LCCN 2016041133 (ebook) | ISBN 9780190618353 | ISBN 9780190618384 Subjects: LCSH: Mineralogy.
-
-Classification: LCC QE363.2 .N48 2018 (print) | LCC QE363.2 (ebook) | DDC 549—dc23 LC record available at https://lccn.loc.gov/2016040693 9 8 7 6 5 4 3 2 1 Printed by Edwards Brothers, United States of America For titles covered by Section 112 of the US Higher Education Opportunity Act, please visit www.oup.com/us/he for the latest information about pricing and alternate formats.
 
 PART ONE Crystallography and Crystal Chemistry • 1
 
@@ -3222,8 +3211,6 @@ Coccolithophores and foraminifera utilize biologi­ cally controlled mineralizat
 Coccolithophores are unicellular algae that have been abun­ dant in the oceans since the Jurassic and, in the Cretaceous, experienced a population explosion that was associated with worldwide accumulation of limestone. Coccolithophores grow microscopic coccoliths (Figure  5.29), which form micritic mud in limestone. Most species are planktonic, living in the photic zone in mid- to high-latitude coastal waters. Foraminifera are both planktonic and benthic (bot­ tom dwelling); they secrete beautiful shells that range in size from ~30 μm to >1 mm. They first appeared in the Cambrian and occupy a wide range of environments.
 
 Carbonate apatite (Chapter  17) is the biomineral of most importance to vertebrates (Pasteris and others, 2008) because it forms the mineral content of bones and teeth. It also forms the shells of inarticulate brachiopods.
-
-Figure  5.29  Coccoliths and foraminifera. (a) A combina­ tion coccosphere of the coccolithophore Calcidiscus leptoporus sp. quadriperforatus. Heterococcoliths and holococcoliths are formed during different phases of coccolithophore growth. Each of the individual plates in a heterococcolith consists of a single calcite crystal. Holococcoliths are made of numerous granules, each of which is a single calcite crystal. It is rare to find cocco­ spheres with both heterococcoliths and holococcoliths. Images © Jeremy Young and Markus Geisen, The Natural History Museum London, and used by permission. (b) The foraminifera Ammonia beccarii (Thomas and others, 2000).
 
 precipitation, sorption onto mineral particles, and uptake into plant tissue.
 

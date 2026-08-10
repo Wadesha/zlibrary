@@ -1,10 +1,10 @@
 {
   "slug": "book2--可视之美-鸢尾花书-从加减乘除到机器学习-生姜-drginger",
-  "title": "BOOK2-《可视之美》  鸢尾花书：从加减乘除到机器学习 (生姜 DrGinger)",
+  "title": "BOOK2-《可视之美》 鸢尾花书：从加减乘除到机器学习 生姜 DrGinger",
   "language": "zh",
   "pipeline": "ocr_md",
   "source_file": "BOOK2-《可视之美》  鸢尾花书：从加减乘除到机器学习 (生姜 DrGinger) (Z-Library).md",
   "source_pdf": null,
-  "chars": 321081,
+  "chars": 316198,
   "has_fixed": false
 }

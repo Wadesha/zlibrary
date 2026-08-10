@@ -1,10 +1,5 @@
 # 演讲技巧 DK精要管理者 DK 艾琳·平卡斯 Z Library
 
-> 来源文件：pre_Presenting_DK_Essential_Managers_DK_Aileen_Pincus_Z_Library.txt
-> 字符数（约）：82992
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 精要管理者 演讲 影响力 • 自信 • 结构 演练 • 视觉辅助
 
 艾琳·平卡斯
@@ -865,4 +860,3 @@ iStockphoto.com: Emilia Kun; 已尽一切努力追溯版权持有者。
 Alamy images: Swerve; 出版者为任何无意的遗漏致歉，并在此类情况下，乐意在本书未来版本中补登致谢。
 
 iStockphoto.com: bluestocking; iStockphoto.com: Rafa Irusta; iStockphoto.com: Tammy Bryngelson; iStockphoto.com: Valerie Loiseleux;
-

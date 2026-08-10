@@ -1,17 +1,8 @@
 # Basic Training in Mathematics A Fitness Program for Science Students R Shankar Z Library
 
-> 来源文件：pre_Basic_Training_in_Mathematics_A_Fitness_Program_for_Science_Students_R_Shankar_Z_Library.txt
-> 字符数（约）：656608
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Basic Training in Mathematics A Fitness Program for Science Students
 
 Basic Training in Mathematics A Fitness Program for Science Students R.SHANKAR Yale University New Haven, Connecticut SPRINGER SCIENCE+BUSINESS MEDIA, LLC
-
-Library of Congress Cataloging-in-Publication Data On file ISBN 978-0-306-45036-5 ISBN 978-1-4899-6798-5 (eBook)
-
-DOI 10.1007/978-1-4899-6798-5 © Springer Science+Business Media New York 1995 Originally published by Plenum Press, New York in 1995 Softcover reprint of the hardcover 1st edition 1995 1098765432 No part of this book may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, microfilming, recording, or otherwise, without written permission from the Publisher
 
 For UMA
 

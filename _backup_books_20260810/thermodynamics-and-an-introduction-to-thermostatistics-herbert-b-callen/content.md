@@ -1,0 +1,2260 @@
+# Thermodynamics and an Introduction to Thermostatistics Herbert B Callen Z Library
+
+> 来源文件：pre_Thermodynamics_and_an_Introduction_to_Thermostatistics_Herbert_B_Callen_Z_Library.txt
+> 字符数（约）：256170
+> 语言：mix
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+热力学与恒温统计学导论赫伯特·B·卡伦约翰·威利父子出版社纽约 奇切斯特 布里斯班 多伦多 新加坡
+
+版权所有 © 1985，约翰·威利父子公司保留所有权利。在加拿大同时出版未经版权持有者许可，不得复制或翻译本作品超过1976年美国版权法第107条和第108条允许的范围。请求许可或获取更多信息，请联系约翰·威利父子公司许可部。
+
+国会图书馆编目出版数据： 卡伦，赫伯特·B 热力学与恒温统计学导论 《热力学》的修订版，1960年参考文献见第485页包括索引。
+
+## 1. 热力学 2. 统计力学
+
+卡伦，赫伯特·B，热力学 II 标题 III 标题 恒温统计学 QC311.C25 1985 536'.7 85-6387 印刷于新加坡共和国 10 9 8 献给萨拉……以及吉尔、杰德、 扎卡里和杰西卡
+
+前言在完成《热力学》第一版二十五年后，我欣慰地看到，本书已成为物理学研究文献中最常被引用的热力学参考书，并且它所引入的公理化表述已被广泛接受。然而，以下几个方面的考虑促使我进行这次新版和扩展。
+
+首先，热力学在60年代和70年代取得了长足进展，主要在临界现象领域。尽管这些进展大多超出了本书的范围，但我已尝试至少描述问题的性质，并介绍表征二阶相变中热力学函数非解析行为的临界指数和标度函数。这部分的叙述是描述性和简单的。它取代了在第一版中许多学生认为最困难的部分——关于二级相变的相对复杂的理论。
+
+其次，我试图改进本书的教学属性，使其适用于从大三本科生到研究生一年级的课程，面向物理学家、工程科学家和化学家。这一目的得到了众多学生和教师有益建议的帮助。许多解释被简化，并且许多例题被明确求解。问题的数量增加了，其中许多提供了部分或完整的答案。
+
+第三，增加了统计力学原理导论。这里保持了第一版的精神；重点在于原理的内在简单性和核心逻辑脉络，而非多样化的应用。为此，并为了使文本易于高年级本科生理解，我避免了量子力学中显式的非对易性问题。唯一要求的是熟悉量子力学预测有限系统中存在离散能级这一事实。然而，该表述的设计确保了更高级的学生能够正确地解释非对易情况下的理论。
+
+第四，我长期对某些位于热力学基础的概念性问题感到困惑，这引导我对热力学的“意义”进行了一种诠释。在最后一章——作为正文的“诠释性尾声”——我提出了恒温统计学植根于物理基本定律的对称性，而非这些定律的定量内容的论点。讨论是定性和描述性的，旨在建立一个直观的框架，并鼓励学生将科学视为一个连贯的结构，热力学在其中扮演着自然而根本的角色。
+
+尽管本新版同时包含了统计力学和热力学，但我既未试图将它们完全分开，也未将其混合成现在流行的、被称为“热物理学”的未分化形式。我相信这两种极端选择都是误入歧途的。将热力学完全与其统计力学基础分离，会剥夺热力学的根本物理起源。缺乏对统计力学的洞察，科学家就仍然根植于十九世纪的宏观经验主义，与当代发展以及科学的整体视角隔绝。相反，将热力学和统计力学合并为未分化的“热物理学”，则倾向于掩盖热力学。统计力学的基础性和深刻性具有危险的诱惑力；“热物理学”课程几乎必然对宏观操作原理轻描淡写。*此外，热力学和统计力学的合并违背了“理论经济性原则”；即预测应从尽可能普遍且最不详细的假设中得出。统计力学中固有的模型，应在宏观热力学的通用方法足够时予以避免。这种思维习惯很难在热力学仅仅是附属条款的学科组织中得到培养。
+
+本书通过以下方式来平衡热科学的两个不同组成部分：在宏观层面引入主题；表述热力学，使其宏观公设精确且清晰地成为统计力学的定理；并对两个组成部分的相互关系进行频繁的解释性说明。然而，根据教师的意愿，统计力学的章节可以与热力学的章节交错安排，序列将在下文描述。但即使在这种综合选项中，在引入统计推理之前，热力学的基本宏观结构也已建立。这种主题的分隔和排序*维护并强调了科学的层次结构，将物理学组织成具有清晰且易于记忆的相互关系的连贯单元。类似地，经典力学最好被理解为一个自足的公理化结构，后来才被验证为量子力学的极限情况。
+
+两种主要的课程选项列在随后的“菜单”中。在一个选项中，按顺序跟随各章节（仅A列，或A列全部或部分后跟B列）。在“综合”选项中，菜单从上到下遵循。第15章是对熵的简短而基础的统计解释；它可以紧接在第1章、第4章或第7章之后插入。
+
+第一条点线以下列出的章节在顺序、或纳入或省略方面是自由灵活的。为了平衡具体章节与更深奥的部分，教师可以选择在各个阶段插入第13章（材料性质）的部分内容，或在课程中的任何点插入尾声（第21章，对称性与热力学概念基础）。
+
+针对大三本科生的最小课程将涉及前七章，时间允许的话，可选加入第15和16章。
+
+费城，宾夕法尼亚州 赫伯特·B·卡伦
+
+第四次印刷前言在此次第二版的第四次印刷中，出版社亲切地给予了我订正各种印刷错误和“次要”错误的机会。我深切地意识到，无论是数值还是文本的错误，对读者学生来说都不是次要的。因此，我深深感谢众多指出错误的读者，也感谢出版社允许在本次印刷中予以订正的宽容。
+
+1987年11月 赫伯特·卡伦
+
+目录
+
+## 第一部分 经典热力学的一般原理
+
+引言 热力学的本质与恒温统计学的基础
+
+## 1. 问题与公设
+
+## 2. 平衡条件
+
+## 3. 形式关系与样本系统
+
+## 4. 可逆过程；热机
+
+## 5. 勒让德变换
+
+## 6. 勒让德表示中的极值原理
+
+## 7. 麦克斯韦关系
+
+## 8. 稳定性
+
+## 9. 一阶相变
+
+## 10. 临界现象
+
+## 11. 能斯特
+
+## 12. 原理总结
+
+## 13. 材料性质
+
+## 14. 不可逆热力学
+
+## 第二部分
+
+## 15. 熵表示中的统计力学
+
+## 16. 正则形式
+
+## 17. 广义正则表述
+
+## 18. 量子流体
+
+## 19. 涨落
+
+## 20. 变分性质与平均场理论
+
+## 21. 尾声：对称性与热力学概念基础
+
+## 3.3 Summary of Formal Structure
+
+## 3.4 The Simple Ideal Gas and Multicomponent Simple Ideal Gases
+
+## 3.5 The "Ideal van der Waals Fluid"
+
+## 3.6 Electromagnetic Radiation
+
+## 3.7 The "Rubber Band"
+
+## 3.8 Unconstrainable Variables; Magnetic Systems
+
+## 3.9 Molar Heat Capacity and Other Derivatives
+
+4 REVERSIBLE PROCESSES AND THE MAXIMUM WORK THEOREM
+
+## 4.1 Possible and Impossible Processes
+
+## 4.2 Quasi-Static and Reversible Processes
+
+## 4.3 Relaxation Times and Irreversibility
+
+## 4.4 Heat Flow: Coupled Systems and Reversal of Processes
+
+## 4.5 The Maximum Work Theorem
+
+## 4.6 Coefficients of Engine, Refrigerator, and Heat Pump Performance
+
+## 4.7 The Carnot Cycle
+
+## 4.8 Measurability of the Temperature and of the Entropy
+
+4.9 Other Criteria of Engine Performance; Power Output and "Endo reversible Engines"
+
+## 4.10 Other Cyclic Processes
+
+5 ALTERNATIVE FORMULATIONS AND LEGENDRE TRANSFORMATIONS
+
+## 5.1 The Energy Minimum Principle
+
+## 5.2 Legendre Transformations
+
+## 5.3 Thermodynamic Potentials
+
+## 5.4 Generalized Massieu Functions
+
+6 THE EXTREMUM PRINCIPLE IN THE LEGENDRE TRANSFORMED REPRESENTATIONS
+
+## 6.1 The Minimum Principles for the Potentials
+
+## 6.2 The Helmholtz Potential
+
+## 6.3 The Enthalpy; The Joule-Thomson or "Throttling" Process
+
+## 6.4 The Gibbs Potential; Chemical Reactions
+
+## 6.5 Other Potentials
+
+## 6.6 Compilations of Empirical Data; The Enthalpy of Formation
+
+## 6.7 The Maximum Principles for the Massieu Functions
+
+7 MAXWELL RELATIONS
+
+## 7.1 The Maxwell Relations
+
+## 7.2 A Thermodynamic Mnemonic Diagram
+
+## 7.3 A Procedure for the Reduction of Derivatives in Single-Component Systems
+
+## 7.4 Some Simple Applications
+
+## 7.5 Generalizations: Magnetic Systems
+
+8 STABILITY OF THERMODYNAMIC SYSTEMS
+
+## 8.1 Intrinsic Stability of Thermodynamic Systems
+
+## 8.2 Stability Conditions for Thermodynamics Potentials
+
+## 8.3 Physical Consequences of Stability
+
+## 8.4 Le Chatelier's Principle; The Qualitative Effect of Fluctuations
+
+## 8.5 The Le Chatelier-Braun Principle
+
+9 FIRST-ORDER PHASE TRANSITIONS
+
+## 9.1 First-Order Phase Transitions in Single-Component Systems
+
+## 9.2 The Discontinuity in the Entropy-Latent Heat
+
+## 9.3 The Slope of Coexistence Curves; the Clapeyron Equation
+
+## 9.4 Unstable Isotherms and First-Order Phase Transitions
+
+## 9.5 General Attributes of First-Order Phase Transitions
+
+## 9.6 First-Order Phase Transitions in Multicomponent Systems-Gibbs Phase Rule
+
+## 9.7 Phase Diagrams for Binary Systems
+
+10 CRITICAL PHENOMENA
+
+## 10.1 Thermodynamics in the Neighborhood of the Critical Point
+
+## 10.2 Divergence and Stability
+
+## 10.3 Order Parameters and Critical Exponents
+
+## 10.4 Classical Theory in the Critical Region; Landau Theory
+
+## 10.5 Roots of the Critical Point Problem
+
+## 10.6 Scaling and Universality
+
+11 THE NERNST POSTULATE
+
+## 11.1 Nernst's Postulate, and the Principle of Thomsen and Bertholot
+
+## 11.2 Heat Capacities and Other Derivatives at Low Temperatures
+
+## 11.3 The "Unattainability" of Zero Temperature
+
+12 SUMMARY OF PRINCIPLES FOR GENERAL SYSTEMS
+
+## 12.1 General Systems
+
+## 12.2 The Postulates
+
+## 12.3 The Intensive Parameters
+
+## 12.4 Legendre Transforms
+
+## 12.5 Maxwell Relations
+
+## 12.6 Stability and Phase Transitions
+
+## 12.7 Critical Phenomena
+
+## 12.8 Properties at Zero Temperature
+
+13 PROPERTIES OF MATERIALS
+
+## 13.1 The General Ideal Gas
+
+## 13.2 Chemical Reactions in Ideal Gases
+
+## 13.3 Small Deviations from "Ideality" - The Virial Expansion
+
+## 13.4 The "Law of Corresponding States" for Gases
+
+## 13.5 Dilute Solutions: Osmotic Pressure and Vapor Pressure
+
+## 13.6 Solid Systems
+
+14 IRREVERSIBLE THERMODYNAMICS
+
+## 14.1 General Remarks
+
+## 14.2 Affinities and Fluxes
+
+## 14.3 "Purely-Resistive and Linear Systems
+
+## 14.4 The Theoretical Basis of the Onsager Reciprocity
+
+## 14.5 Thermoelectric Effects
+
+## 14.6 The Conductivities
+
+## 14.7 The Seebeck Effect and the Thermoelectric Power
+
+## 14.8 The Peltier Effect
+
+## 14.9 The Thomsen Effect
+
+## PART II STATISTICAL MECHANICS
+
+15 STATISTICAL MECHANICS IN THE ENTROPY REPRESENTATION: THE MICROCANONICAL FORMALISM
+
+## 15.1 Physical Significance of the Entropy for Closed Systems
+
+## 15.2 The Einstein Model of a Crystalline Solid
+
+## 15.3 The Two-State System
+
+## 15.4 A Polymer Model- The Rubber Band Revisited
+
+## 15.5 Counting Techniques and their Circumvention; High Dimensionality
+
+16 THE CANONICAL FORMALISM; STATISTICAL MECHANICS IN HELMHOLTZ REPRESENTATION
+
+## 16.1 The Probability Distribution
+
+## 16.2 Additive Energies and Factorizability of the Partition Sum
+
+## 16.3 Internal Modes in a Gas
+
+## 16.4 Probabilities in Factorizable Systems
+
+## 16.5 Statistical Mechanics of Small Systems: Ensembles
+
+## 16.6 Density of States and Density-of-Orbital States
+
+## 16.7 The Debye Model of Non-metallic Crystals
+
+## 16.8 Electromagnetic Radiation
+
+## 16.9 The Classical Density of States
+
+## 16.10 The Classical Ideal Gas
+
+## 16.11 High Temperature Properties-The Equipartition Theorem
+
+17 ENTROPY AND DISORDER; GENERALIZED CANONICAL FORMULATIONS
+
+## 17.1 Entropy as a Measure of Disorder
+
+## 17.2 Distributions of Maximal Disorder
+
+## 17.3 The Grand Canonical Formalism
+
+18 QUANTUM FLUIDS
+
+## 18.1 Quantum Particles; A "Fermion Pre-Gas Model"
+
+## 18.2 The Ideal Fermi Fluid
+
+## 18.3 The Classical Limit and the Quantum Criteria
+
+## 18.4 The Strong Quantum Regime; Electrons in a Metal
+
+## 18.5 The Ideal Bose Fluid
+
+## 18.6 Non-Conserved Ideal Bose Fluids; Electromagnetic Radiation Revisited
+
+## 18.7 Bose Condensation
+
+19 FLUCTUATIONS
+
+## 19.1 The Probability Distribution of Fluctuations
+
+## 19.2 Moments and The Energy Fluctuations
+
+## 19.3 General Moments and Correlation Moments
+
+20 VARIATIONAL PROPERTIES, PERTURBATION EXPANSIONS, AND MEAN FIELD THEORY
+
+## 20.1 The Bogoliubov Variational Theorem
+
+## 20.2 Mean Field Theory
+
+## 20.3 Mean Field Theory in Generalized Representation; the Binary Alloy
+
+## PART III FOUNDATIONS
+
+21 POSTLUDE: SYMMETRY AND THE CONCEPTUAL FOUNDATIONS OF THERMOSTATISTICS
+
+## 21.1 Statistics
+
+## 21.2 Symmetry
+
+## 21.3 Noether's Theorem
+
+21.4 Energy, Momentum and Angular Momentum; the Generalized "First Law" of Thermodynamics
+
+## 21.5 Broken Symmetry and Goldstone's Theorem
+
+## 21.6 Other Broken Symmetry Coordinates- Electric and Magnetic Moments
+
+## 21.7 Mole Numbers and Gauge Symmetry
+
+21.8 Time Reversal, the Equal Probability of Microstates, and the Entropy Principle
+
+## 21.9 Symmetry and Completeness
+
+## APPENDIX A SOME RELATIONS INVOLVING PARTIAL DERIVATIVES
+
+A.1 Partial Derivatives A.2 Taylor's Expansion A.3 Differentials A.4 Composite Functions A.5 Implicit Functions
+
+## APPENDIX B MAGNETIC SYSTEMS
+
+## GENERAL REFERENCES
+
+## INDEX
+
+PART GENERAL PRINCIPLES OF CLASSICAL THERMODYNAMICS 2 General Principles of Classical Thermodynamics
+
+## INTRODUCTION
+
+The Nature of Thermodynamics and the Basis of ThermoStatistics Whether we are physicists, chemists, biologists, or engineers, our primary interface with nature is through the properties of macroscopic matter. Those properties are subject to universal regularities and to stringent limitations. Subtle relationships exist among apparently unconnected properties.
+
+The existence of such an underlying order has far reaching implications. Physicists and chemists familiar with that order need not confront each new material as a virgin puzzle. Engineers are able to anticipate limitations to device designs predicated on creatively imagined (but yet undiscovered) materials with the requisite properties. And the specific form of the underlying order provides incisive clues to the structure of fundamental physical theory.
+
+Certain primal concepts of thermodynamics are intuitively familiar. A metallic block released from rest near the rim of a smoothly polished metallic bowl oscillates within the bowl, approximately conserving the sum of potential and kinetic energies. But the block eventually comes to rest at the bottom of the bowl. Although the mechanical energy appears to have vanished, an observable effect is wrought upon the material of the bowl and block; they are very slightly, but perceptibly, "warmer." Even before studying thermodynamics, we are qualitatively aware that the mechanical energy has merely been converted to another form, that the fundamental principle of energy conservation is preserved, and that the physiological sensation of "warmth" is associated with the thermodynamic concept of "temperature."
+
+Vague and undefined as these observations may be, they nevertheless reveal a notable dissimilarity between thermodynamics and the other branches of classical science. Two prototypes of the classical scientific paradigm are mechanics and electromagnetic theory. The former addresses itself to the dynamics of particles acted upon by forces, the latter to the dynamics of the fields that mediate those forces. In each of these cases a new "law" is formulated-for mechanics it is Newton's Law (or Lagrange or Hamilton's more sophisticated variants); for electromagnetism it is the Maxwell equations. In either case it remains only to explicate the consequences of the law.
+
+Thermodynamics is quite different. It neither claims a unique domain of systems over which it asserts primacy, nor does it introduce a new fundamental law analogous to Newton's or Maxwell's equations. In contrast to the specificity of mechanics and electromagnetism, the hallmark of thermodynamics is generality. Generality first in the sense that thermodynamics applies to all types of systems in macroscopic aggregation, and second in the sense that thermodynamics does not predict specific numerical values for observable quantities. Instead, thermodynamics sets limits (inequalities) on permissible physical processes, and it establishes relationships among apparently unrelated properties.
+
+The contrast between thermodynamics and its counterpart sciences raises fundamental qu Questions which we shall address directly only in the final chapter. There we shall see that whereas thermodynamics is not based on a new and particular law of nature, it instead reflects a commonality or universal feature of all laws. In brief, thermodynamics is the study of the restrictions on the possible properties of matter that follow from the symmetry properties of the fundamental laws of physics.
+
+The connection between the symmetry of fundamental laws and the macroscopic properties of matter is not trivially evident, and we do not attempt to derive the latter from the former. Instead we follow the postulatory formulation of thermodynamics developed in the first edition of this text, returning to an interpretive discussion of symmetry origins in Chapter 21. But even the preliminary assertion of this basis of thermodynamics may help to prepare the reader for the somewhat uncommon form of thermodynamic theory. Thermodynamics inherits its universality, its nonmetric nature, and its emphasis on relationships from its symmetry parentage.
+
+## THE PROBLEM AND THE POSTULATES
+
+1-1 THE TEMPORAL NATURE OF MACROSCOPIC MEASUREMENTS
+
+Perhaps the most striking feature of macroscopic matter is the incredible simplicity with which it can be characterized. We go to a pharmacy and request one liter of ethyl alcohol, and that meager specification is pragmatically sufficient. Yet from the atomistic point of view, we have specified remarkably little. A complete mathematical characterization of the system would entail the specification of coordinates and momenta for each molecule in the sample, plus sundry additional variables descriptive of the internal state of each molecule—altogether at least 10²³ numbers to describe the liter of alcohol! A computer printing one coordinate each microsecond would require 10 billion years—the age of the universe—to list the atomic coordinates. Somehow, among the 10²³ atomic coordinates, or linear combinations of them, all but a few are macroscopically irrelevant. The pertinent few emerge as macroscopic coordinates, or "thermodynamic coordinates."
+
+Like all sciences, thermodynamics is a description of the results to be obtained in particular types of measurements. The character of the contemplated measurements dictates the appropriate descriptive variables; these variables, in turn, ordain the scope and structure of thermodynamic theory.
+
+The key to the simplicity of macroscopic description, and the criterion for the choice of thermodynamic coordinates, lies in two attributes of macroscopic measurement. Macroscopic measurements are extremely slow on the atomic scale of time, and they are extremely coarse on the atomic scale of distance.
+
+While a macroscopic measurement is being made, the atoms of a system go through extremely rapid and complex motions. To measure the length of a bar of metal we might choose to calibrate it in terms of the wavelength of yellow light, devising some arrangement whereby reflection from the end of the bar produces interference fringes. These fringes are then to be photographed and counted. The duration of the measurement is determined by the shutter speed of the camera—typically on the order of one hundredth of a second. But the characteristic period of vibration of the atoms at the end of the bar is on the order of 10⁻¹⁵ seconds!
+
+A macroscopic observation cannot respond to those myriads of atomic coordinates which vary in time with typical atomic periods. Only those few particular combinations of atomic coordinates that are essentially time independent are macroscopically observable.
+
+The word essentially is an important qualification. In fact we are able to observe macroscopic processes that are almost, but not quite, time independent. With modest difficulty we might observe processes with time scales on the order of 10⁻⁷ s or less. Such observable processes are still enormously slow relative to the atomic scale of 10⁻¹⁵ s. It is rational then to first consider the limiting case and to erect a theory of time-independent phenomena. Such a theory is thermodynamics.
+
+By definition, suggested by the nature of macroscopic observations, thermodynamics describes only static states of macroscopic systems.
+
+Of all the 10²³ atomic coordinates, or combinations thereof, only a few are time independent.
+
+Quantities subject to conservation principles are the most obvious candidates as time-independent thermodynamic coordinates: the energy, each component of the total momentum, and each component of the total angular momentum of the system. But there are other time-independent thermodynamic coordinates, which we shall enumerate after exploring the spatial nature of macroscopic measurement.
+
+1-2 THE SPATIAL NATURE OF MACROSCOPIC MEASUREMENTS
+
+Macroscopic measurements are not only extremely slow on the atomic scale of time, but they are correspondingly coarse on the atomic scale of distance. We probe our system always with "blunt instruments." Thus an optical observation has a resolving power defined by the wavelength of light, which is on the order of 1000 interatomic distances. The smallest resolvable volume contains approximately 10⁹ atoms! Macroscopic observations sense only coarse spatial averages of atomic coordinates.
+
+The two types of averaging implicit in macroscopic observations together effect the enormous reduction in the number of pertinent variables, from the initial 10²³ atomic coordinates to the remarkably small number of thermodynamic coordinates. The manner of reduction can be illustrated schematically by considering a simple model system, as shown in Fig. 1.1. The model system consists not of 10²³ atoms, but of only 9. These atoms are spaced along a one-dimensional line, are constrained to move only along that line, and interact by linear forces (as if connected by springs).
+
+The motions of the individual atoms are strongly coupled, so the atoms tend to move in organized patterns called normal modes. Three such normal modes of motion are indicated schematically in Fig. 1.1. The arrows indicate the displacements of the atoms at a particular moment; the atoms oscillate back and forth, and half a cycle later all the arrows would be reversed.
+
+Rather than describe the atomic state of the system by specifying the position of each atom, it is more convenient (and mathematically equivalent) to specify the instantaneous amplitude of each normal mode. These amplitudes are called normal coordinates, and the number of normal coordinates is exactly equal to the number of atomic coordinates.
+
+In a "macroscopic" system composed of only nine atoms there is no precise distinction between "macroscopic" and "atomic" observations. For the purpose of illustration, however, we think of a macroscopic observation as a kind of "blurred" observation with low resolving power; the spatial coarseness of macroscopic measurements is qualitatively analogous to visual observation of the system through spectacles that are somewhat out of focus. Under such observation the fine structure of the first two modes in Fig. 1.1 is unresolvable, and these modes are rendered unobservable and macroscopically irrelevant. The third mode, however, corresponds to a relatively homogeneous net expansion (or contraction) of the whole system. Unlike the first two modes, it is easily observable through "blurring spectacles." The amplitude of this mode describes the length (or volume, in three dimensions) of the system. The length (or volume) remains as a thermodynamic variable, undestroyed by the spatial averaging, because of its spatially homogeneous (long wavelength) structure.
+
+The time averaging associated with macroscopic measurements augments these considerations. Each of the normal modes of the system has a characteristic frequency, the frequency being smaller for modes of longer wavelength. The frequency of the third normal mode in Fig. 1.1 is the lowest of those shown, and if we were to consider systems with very large numbers of atoms, the frequency of the longest wavelength mode would approach zero (for reasons to be explored more fully in Chapter 21). Thus all the short wavelength modes are lost in the time averaging, but the long wavelength mode corresponding to the "volume" is so slow that it survives the time averaging as well as the spatial averaging.
+
+This simple example illustrates a very general result. Of the enormous number of atomic coordinates, a very few, with unique symmetry properties, survive the statistical averaging associated with a transition to a macroscopic description. Certain of these surviving coordinates are mechanical in nature—they are volume, parameters descriptive of the shape (components of elastic strain), and the like. Other surviving coordinates are electrical in nature—they are electric dipole moments, magnetic dipole moments, various multipole moments, and the like. The study of mechanics (including elasticity) is the study of one set of surviving coordinates. The subject of electricity (including electrostatics, magnetostatics, and ferromagnetism) is the study of another set of surviving coordinates.
+
+Thermodynamics, in contrast, is concerned with the macroscopic consequences of the myriads of atomic coordinates that, by virtue of the coarseness of macroscopic observations, do not appear explicitly in a macroscopic description of a system.
+
+Among the many consequences of the "hidden" atomic modes of motion, the most evident is the ability of these modes to act as a repository for energy. Energy transferred via a "mechanical mode" (i.e., one associated with a mechanical macroscopic coordinate) is called mechanical.
+
+work. Energy transferred via an "electrical mode" is called electrical work. Mechanical work is typified by the term -P dV (P is pressure, V is volume), and electrical work is typified by the term -E·dg (E is electric field, g is electric dipole moment). These energy terms and various other mechanical and electrical work terms are treated fully in the standard mechanics and electricity references. But it is equally possible to transfer energy via the hidden atomic modes of motion as well as via those that happen to be macroscopically observable. An energy transfer via the hidden atomic modes is called heat. Of course this descriptive characterization of heat is not a sufficient basis for the formal development of thermodynamics, and we shall soon formulate an appropriate operational definition.
+
+With this contextual perspective we proceed to certain definitions and conventions needed for the theoretical development.
+
+1-3 THE COMPOSITION OF THERMODYNAMIC SYSTEMS
+
+Thermodynamics is a subject of great generality, applicable to systems of elaborate structure with all manner of complex mechanical, electrical, and thermal properties. We wish to focus our chief attention on the thermal properties. Therefore it is convenient to idealize and simplify the mechanical and electrical properties of the systems that we shall study initially. Similarly, in mechanics we consider uncharged and unpolarized systems; whereas in electricity we consider systems with no elastic compressibility or other mechanical attributes. The generality of either subject is not essentially reduced by this idealization, and after the separate content of each subject has been studied it is a simple matter to combine the theories to treat systems of simultaneously complicated electrical and mechanical properties. Similarly, in our study of thermodynamics we idealize our systems so that their mechanical and electrical properties are almost trivially simple. When the essential content of thermodynamics has thus been developed, it again is a simple matter to extend the analysis to systems with relatively complex mechanical and electrical structure. The essential point to be stressed is that the restrictions on the types of systems considered in the following several chapters are not basic limitations on the generality of thermodynamic theory but are adopted merely for simplicity of exposition.
+
+We (temporarily) restrict our attention to simple systems, defined as systems that are macroscopically homogeneous, isotropic, and uncharged, that are large enough so that surface effects can be neglected, and that are not acted on by electric, magnetic, or gravitational fields.
+
+For such a simple system there are no macroscopic electric coordinates whatsoever. The system is uncharged and has neither electric nor magnetic dipole, quadrupole, or higher-order moments. All elastic shear components and other such mechanical parameters are zero. The volume V does remain as a relevant mechanical parameter. Furthermore, a simple system has a definite chemical composition which must be described by an appropriate set of parameters. One reasonable set of composition parameters is the numbers of molecules in each of the chemically pure components of which the system is a mixture. Alternatively, to obtain numbers of more convenient size, we adopt the mole numbers, defined as the actual number of each type of molecule divided by Avogadro's number (NA = 6.02217 X 10²³).
+
+This definition of the mole number refers explicitly to the "number of molecules," and it therefore lies outside the boundary of purely macroscopic physics. An equivalent definition which avoids the reference to molecules simply designates 12 grams as the molar mass of the isotope ¹²C. The molar masses of other isotopes are then defined to stand in the same ratio as the conventional "atomic masses," a partial list of which is given in Table 1.1.
+
+TABLE 1.1 Atomic Masses (g) of Some Naturally Occurring Elements (Mixtures of Isotopes)
+
+H 1.0080  F 18.9984 Li 6.941   Na 22.9898 C 12.011   Al 26.9815 N 14.0067  S 32.06 O 15.9994  Cl 35.453
+
+a As adopted by the International Union of Pure and Applied Chemistry, 1969
+
+If a system is a mixture of r chemical components, the r ratios Nk/(Σ Nj) (k = 1, 2, ..., r) are called the mole fractions. The sum of all r mole fractions is unity. The quantity V/(Σ Nj) is called the molar volume.
+
+The macroscopic parameters V, N₁, N₂, ..., Nr have a common property that will prove to be quite significant. Suppose that we are given two identical systems and that we now regard these two systems taken together as a single system. The value of the volume for the composite system is then just twice the value of the volume for a single subsystem. Similarly, each of the mole numbers of the composite system is twice that for a single subsystem. Parameters that have values in a composite system equal to the sum of the values in each of the subsystems are called extensive parameters. Extensive parameters play a key role throughout thermodynamic theory.
+
+## PROBLEMS
+
+1.3-1. One tenth of a kilogram of NaCl and 0.15 kg of sugar (C₁₂H₂₂O₁₁) are dissolved in 0.50 kg of pure water. The volume of the resultant thermodynamic system is 0.55 X 10⁻³ m³. What are the mole numbers of the three components of the system? What are the mole fractions? What is the molar volume of the system? It is sufficient to carry the calculations only to two significant figures.
+
+Answer: Mole fraction of NaCl = 0.057; molar volume = 18 x 10⁻⁶ m³/mole.
+
+1.3-2. Naturally occurring boron has an atomic mass of 10.811 g. It is a mixture of the isotopes ¹⁰B with an atomic mass of 10.0129 g and ¹¹B with an atomic mass of 11.0093 g. What is the mole fraction of ¹⁰B in the mixture?
+
+1.3-3. Twenty cubic centimeters each of ethyl alcohol (C₂H₅OH; density = 0.79 g/cm³), methyl alcohol (CH₃OH; density= 0.81 g/cm³), and water (H₂O: density= 1 g/cm³) are mixed together. What are the mole numbers and mole fractions of the three components of the system?
+
+Answer: mole fractions= 0.17, 0.26, 0.57
+
+1.3-4. A 0.01 kg sample is composed of 50 molecular percent H₂, 30 molecular percent HD (hydrogen deuteride), and 20 molecular percent D₂. What additional mass of D₂ must be added if the mole fraction of D₂ in the final mixture is to be 0.3?
+
+1.3-5. A solution of sugar (C₁₂H₂₂O₁₁) in water is 20% sugar by weight. What is the mole fraction of sugar in the solution?
+
+1.3-6. An aqueous solution of an unidentified solute has a total mass of 0.1029 kg. The mole fraction of the solute is 0.1. The solution is diluted with 0.036 kg of water, after which the mole fraction of the solute is 0.07. What would be a reasonable guess as to the chemical identity of the solute?
+
+1.3-7. One tenth of a kg of an aqueous solution of HCl is poured into 0.2 kg of an aqueous solution of NaOH. The mole fraction of the HCl solution was 0.1, whereas that of the NaOH solution was 0.25. What are the mole fractions of each of the components in the solution after the chemical reaction has come to completion?
+
+Answer: XH₂O = NH₂O/N = 0.84
+
+1-4 THE INTERNAL ENERGY
+
+The development of the principle of conservation of energy has been one of the most significant achievements in the evolution of physics. The present form of the principle was not discovered in one magnificent stroke of insight but was slowly and laboriously developed over two and a half centuries. The first recognition of a conservation principle, by Leibniz in 1693, referred only to the sum of the kinetic energy (½mv²) and the potential energy (mgh) of a simple mechanical mass point in the terrestrial gravitational field. As additional types of systems were considered the established form of the conservation principle repeatedly failed, but in each case it was found possible to revive it by the addition of a new mathematical term—a "new kind of energy." Thus consideration of charged systems necessitated the addition of the Coulomb interaction energy (Q₁Q₂/r) and eventually of the energy of the electromagnetic field. In 1905 Einstein extended the principle to the relativistic region, adding such terms as the relativistic rest-mass energy. In the 1930s Enrico Fermi postulated the existence of the neutrino for the purpose of retaining the energy conservation principle in nuclear reactions. The principle of energy conservation is now seen as a reflection of the (presumed) fact that the fundamental laws of physics are the same today as they were eons ago, or as they will be in the remote future; the laws of physics are unaltered by a shift in the scale of time (t → t + constant). Of this basis for energy conservation we shall have more to say in Chapter 21. Now we simply note that the energy conservation principle is one of the most fundamental, general, and significant principles of physical theory.
+
+Viewing a macroscopic system as an agglomerate of an enormous number of electrons and nuclei, interacting with complex but definite forces to which the energy conservation principle applies, we conclude that macroscopic systems have definite and precise energies, subject to a definite conservation principle. That is, we now accept the existence of a well-defined energy of a thermodynamic system as a macroscopic manifestation of a conservation law, highly developed, tested to an extreme precision, and apparently of complete generality at the atomic level.
+
+The foregoing justification of the existence of a thermodynamic energy function is quite different from the historical thermodynamic method. Because thermodynamics was developed largely before the atomic hypothesis was accepted, the existence of a conservative macroscopic energy function had to be demonstrated by purely macroscopic means. A significant step in that direction was taken by Count Rumford in 1798 as he observed...
+
+certain thermal effects associated with the boring of brass cannons. Sir Humphry Davy, Sadi Carnot, Robert Mayer, and, finally (between 1840 and 1850), James Joule carried Rumford's initial efforts to their logical fruition. The history of the concept of heat as a form of energy transfer is unsurpassed as a case study in the tortuous development of scientific theory, as an illustration of the almost insuperable inertia presented by accepted physical doctrine, and as a superb tale of human ingenuity applied to a subtle and abstract problem. The interested reader is referred to The Early Development of the Concepts of Temperature and Heat by D. Roller (Harvard University Press, 1950) or to any standard work on the history of physics.
+
+Although we shall not have recourse explicitly to the experiments of Rumford and Joule in order to justify our postulate of the existence of an energy function, we make reference to them in Section 1.7 in our discussion of the measurability of the thermodynamic energy.
+
+Only differences of energy, rather than absolute values of the energy, have physical significance, either at the atomic level or in macroscopic systems. It is conventional therefore to adopt some particular state of a system as a fiducial state, the energy of which is arbitrarily taken as zero. The energy of a system in any other state, relative to the energy of the system in the fiducial state, is then called the thermodynamic internal energy of the system in that state and is denoted by the symbol U. Like the volume and the mole numbers, the internal energy is an extensive parameter.
+
+1-5 THERMODYNAMIC EQUILIBRIUM
+
+Macroscopic systems often exhibit some "memory" of their recent history. A stirred cup of tea continues to swirl within the cup. Cold-worked steel maintains an enhanced hardness imparted by its mechanical treatment. But memory eventually fades. Turbulences damp out, internal strains yield to plastic flow, concentration inhomogeneities diffuse to uniformity. Systems tend to subside to very simple states, independent of their specific history.
+
+In some cases the evolution toward simplicity is rapid; in other cases it can proceed with glacial slowness. But in all systems there is a tendency to evolve toward states in which the properties are determined by intrinsic factors and not by previously applied external influences. Such simple terminal states are, by definition, time independent. They are called equilibrium states.
+
+Thermodynamics seeks to describe these simple, static "equilibrium" states to which systems eventually evolve.
+
+To convert this statement to a formal and precise postulate we first recognize that an appropriate criterion of simplicity is the possibility of description in terms of a small number of variables. It therefore seems plausible to adopt the following postulate, suggested by experimental observation and formal simplicity, and to be verified ultimately by the success of the derived theory:
+
+Postulate I. There exist particular states (called equilibrium states) of simple systems that, macroscopically, are characterized completely by the internal energy U, the volume V, and the mole numbers N 1, N 2, •.. , N, of the chemical components.
+
+As we expand the generality of the systems to be considered, eventually permitting more complicated mechanical and electrical properties, the number of parameters required to characterize an equilibrium state increases to include, for example, the electric dipole moment and certain elastic strain parameters. These new variables play roles in the formalism which are completely analogous to the role of the volume V for a simple system.
+
+A persistent problem of the experimentalist is to determine somehow whether a given system actually is in an equilibrium state, to which thermodynamic analysis can be applied. He or she can, of course, observe whether the system is static and quiescent. But quiescence is not sufficient. As the state is assumed to be characterized completely by the extensive parameters, U, V, N 1, N 2, ••• , Nr, it follows that the properties of the system must be independent of the past history. This is hardly an operational prescription for the recognition of an equilibrium state, but in certain cases this independence of the past history is obviously not satisfied, and these cases give some insight into the significance of equilibrium. Thus two pieces of chemically identical commercial steel may have very different properties imparted by cold-working, heat treatment, quenching, and annealing in the manufacturing process. Such systems are clearly not in equilibrium. Similarly, the physical characteristics of glass depend upon the cooling rate and other details of its manufacture; hence glass is not in equilibrium.
+
+If a system that is not in equilibrium is analyzed on the basis of a thermodynamic formalism predicated on the supposition of equilibrium, inconsistencies appear in the formalism and predicted results are at variance with experimental observations. This failure of the theory is used by the experimentalist as an a posteriori criterion for the detection of nonequilibrium states.
+
+In those cases in which an unexpected inconsistency arises in the thermodynamic formalism a more incisive quantum statistical theory usually provides valid reasons for the failure of the system to attain equilibrium. The occasional theoretical discrepancies that arise are therefore of great heuristic value in that they call attention to some unsuspected complication in the molecular mechanisms of the system. Such circumstances led to the discovery of ortho- and parahydrogen, 1 and to the understanding of the molecular mechanism of conversion between the two forms.
+
+From the atomic point of view, the macroscopic equilibrium state is associated with incessant and rapid transitions among all the atomic states consistent with the given boundary conditions. If the transition mechanism among the atomic states is sufficiently effective, the system passes rapidly through all representative atomic states in the course of a macroscopic observation; such a system is in equilibrium. However, under certain unique conditions, the mechanism of atomic transition may be ineffective and the system may be trapped in a small subset of atypical atomic states. Or even if the system is not completely trapped the rate of transition may be so slow that a macroscopic measurement does not yield a proper average over all possible atomic states. In these cases the system is not in equilibrium. It is readily apparent that such situations are most likely to occur in solid rather than in fluid systems, for the comparatively high atomic mobility in fluid systems and the random nature of the interatomic collisions militate strongly against any restrictions of the atomic transition probabilities.
+
+In actuality, few systems are in absolute and true equilibrium. In absolute equilibrium all radioactive materials would have decayed completely and nuclear reactions would have transmuted all nuclei to the most stable of isotopes. Such processes, which would take cosmic times to complete, generally can be ignored. A system that has completed the relevant processes of spontaneous evolution, and that can be described by a reasonably small number of parameters, can be considered to be in metastable equilibrium. Such a limited equilibrium is sufficient for the application of thermodynamics.
+
+In practice the criterion for equilibrium is circular. Operationally, a system is in an equilibrium state if its properties are consistently described by thermodynamic theory!
+
+It is important to reflect upon the fact that the circular character of thermodynamics is not fundamentally different from that of mechanics. A particle of known mass in a known gravitational field might be expected to move in a specific trajectory; if it does not do so we do not reject the theory of mechanics, but we simply conclude that some additional force acts on the particle. Thus the existence of an electrical charge on the particle, and the associated relevance of an electrical force, cannot be known a priori. It is inferred only by circular reasoning, in that dynamical predictions are incorrect unless the electric contribution to the force is included. Our model of a mechanical system (including the assignment of its mass, moment of inertia, charge, dipole moment, etc.) is "correct" if it yields successful predictions.
+
+1-6 WALLS AND CONSTRAINTS
+
+A description of a thermodynamic system requires the specification of the "walls" that separate it from the surroundings and that provide its boundary conditions. It is by means of manipulations of the walls that the extensive parameters of the system are altered and processes are initiated.
+
+The processes arising by manipulations of the walls generally are associated with a redistribution of some quantity among various systems or among various portions of a single system. A formal classification of thermodynamic walls accordingly can be based on the property of the walls in permitting or preventing such redistributions. As a particular illustration, consider two systems separated by an internal piston within a closed, rigid cylinder. If the position of the piston is rigidly fixed the "wall" prevents the redistribution of volume between the two systems, but if the piston is left free such a redistribution is permitted. The cylinder and the rigidly fixed piston may be said to constitute...
+
+1 If the two nuclei in a H 2 molecule have parallel angular momentum, the molecule is called ortho-H 2; if antiparallel, para-H 2. The ratio of ortho-H 2 to para-H 2 in a gaseous H 2 system should have a definite value in equilibrium, but this ratio may not be obtained under certain conditions. The resultant failure of H 2 to satisfy certain thermodynamic equations motivated the investigations of the ortho- and para-forms of H 2.
+
+itute a wall restrictive with respect to the volume, whereas the cylinder and the movable piston may be said to constitute a wall nonrestrictive with respect to the volume. In general, a wall that constrains an extensive parameter of a system to have a definite and particular value is said to be restrictive with respect to that parameter, whereas a wall that permits the parameter to change freely is said to be nonrestrictive with respect to that parameter.
+
+A wall that is impermeable to a particular chemical component is restrictive with respect to the corresponding mole number; whereas a permeable membrane is nonrestrictive with respect to the mole number. Semipermeable membranes are restrictive with respect to certain mole numbers and nonrestrictive with respect to others. A wall with holes in it is nonrestrictive with respect to all mole numbers.
+
+The existence of walls that are restrictive with respect to the energy is associated with the larger problem of measurability of the energy, to which we now turn our attention.
+
+1-7 MEASURABILITY OF THE ENERGY
+
+On the basis of atomic considerations, we have been led to accept the existence of a macroscopic conservative energy function. In order that this energy function may be meaningful in a practical sense, however, we must convince ourselves that it is macroscopically controllable and measurable. We shall now show that practical methods of measurement of the energy do exist, and in doing so we shall also be led to a quantitative operational definition of heat.
+
+An essential prerequisite for the measurability of the energy is the existence of walls that do not permit the transfer of energy in the form of heat. We briefly examine a simple experimental situation that suggests that such walls do indeed exist.
+
+Consider a system of ice and water enclosed in a container. We find that the ice can be caused to melt rapidly by stirring the system vigorously. By stirring the system we are clearly transferring energy to it mechanically, so that we infer that the melting of the ice is associated with an input of energy to the system. If we now observe the system on a summer day, we find that the ice spontaneously melts despite the fact that no work is done on the system. It therefore seems plausible that energy is being transferred to the system in the form of heat. We further observe that the rate of melting of the ice is progressively decreased by changing the wall surrounding the system from thin metal sheet, to thick glass, and thence to a Dewar wall (consisting of two silvered glass sheets separated by an evacuated interspace). This observation strongly suggests that the metal, glass, and Dewar walls are progressively less permeable to the flow of heat. The ingenuity of experimentalists has produced walls that are able to reduce the melting rate of the ice to a negligible value, and such walls are correspondingly excellent approximations to the limiting idealization of a wall that is truly impermeable to the flow of heat.
+
+Measurability of the Energy
+
+It is conventional to refer to a wall that is impermeable to the flow of heat as adiabatic; whereas a wall that permits the flow of heat is termed diathermal. If a wall allows the flux of neither work nor heat, it is restrictive with respect to the energy. A system enclosed by a wall that is restrictive with respect to the energy, volume, and all the mole numbers is said to be closed.
+
+The existence of these several types of walls resolves the first of our concerns with the thermodynamic energy. That is, these walls demonstrate that the energy is macroscopically controllable. It can be trapped by restrictive walls and manipulated by diathermal walls. If the energy of a system is measured today, and if the system is enclosed by a wall restrictive with respect to the energy, we can be certain of the energy of the system tomorrow. Without such a wall the concept of a macroscopic thermodynamic energy would be purely academic.
+
+We can now proceed to our second concern—that of measurability of the energy. More accurately, we are concerned with the measurability of energy differences, which alone have physical significance. Again we invoke the existence of adiabatic walls, and we note that for a simple system enclosed by an impermeable adiabatic wall the only type of permissible energy transfer is in the form of work. The theory of mechanics provides us with quantitative formulas for its measurement. If the work is done by compression, displacing a piston in a cylinder, the work is the product of force times displacement; or if the work is done by stirring, it is the product of the torque times the angular rotation of the stirrer shaft. In either case, the work is well defined and measurable by the theory of mechanics. We conclude that we are able to measure the energy difference of two states provided that one state can be reached from the other by some mechanical process while the system is enclosed by an adiabatic impermeable wall.
+
+The entire matter of controllability and measurability of the energy can be succinctly stated as follows: There exist walls, called adiabatic, with the property that the work done in taking an adiabatically enclosed system between two given states is determined entirely by the states, independent of all external conditions. The work done is the difference in the internal energy of the two states.
+
+As a specific example suppose we are given an equilibrium system composed of ice and water enclosed in a rigid adiabatic impermeable wall. Through a small hole in this wall we pass a thin shaft carrying a propellor blade at the inner end and a crank handle at the outer end. By turning the crank handle we can do work on the system. The work done is equal to the angular rotation of the shaft multiplied by the viscous torque. After turning the shaft for a definite time the system is allowed to come to a new equilibrium state in which some definite amount of the ice is observed to have been melted. The difference in energy of the final and initial states is equal to the work that we have done in turning the crank.
+
+We now inquire about the possibility of starting with some arbitrary given state of a system, of enclosing the system in an adiabatic impermeable wall, and of then being able to contrive some mechanical process that will take the system to another arbitrarily specified state. To determine the existence of such processes, we must have recourse to experimental observation, and it is here that the great classical experiments of Joule are relevant. His work can be interpreted as demonstrating that for a system enclosed by an adiabatic impermeable wall any two equilibrium states with the same set of mole numbers N1, N2, ••• , Nn can be joined by some possible mechanical process. Joule discovered that if two states (say A and B) are specified it may not be possible to find a mechanical process (consistent with an adiabatic impermeable wall) to take the system from A to B but that it is always possible to find either a process to take the system from A to B or a process to take the system from B to A. That is, for any states A and B with equal mole numbers, either the adiabatic mechanical process A → B or B → A exists. For our purposes either of these processes is satisfactory. Experiment thus shows that the methods of mechanics permit us to measure the energy difference of any two states with equal mole numbers.
+
+Joule's observation that only one of the processes A → B or B → A may exist is of profound significance. This asymmetry of two given states is associated with the concept of irreversibility, with which we shall subsequently be much concerned.
+
+The only remaining limitation to the measurability of the energy difference of any two states is the requirement that the states must have equal mole numbers. This restriction is easily eliminated by the following observation. Consider two simple subsystems separated by an impermeable wall and assume that the energy of each subsystem is known (relative to appropriate fiducial states, of course). If the impermeable wall is removed, the subsystems will intermix, but the total energy of the composite system will remain constant. Therefore the energy of the final mixed system is known to be the sum of the energies of the original subsystems. This technique enables us to relate the energies of states with different mole numbers.
+
+In summary, we have seen that by employing adiabatic walls and by measuring only mechanical work, the energy of any thermodynamic system, relative to an appropriate reference state, can be measured.
+
+1-8 QUANTITATIVE DEFINITION OF HEAT-UNITS
+
+The fact that the energy difference of any two equilibrium states is measurable provides us directly with a quantitative definition of the heat: The heat flux to a system in any process (at constant mole numbers) is simply the difference in internal energy between the final and initial states, diminished by the work done in that process.
+
+Consider some specified process that takes a system from the initial state A to the final state B. We wish to know the amount of energy transferred to the system in the form of work and the amount transferred in the form of heat in that particular process. The work is easily measured by the method of mechanics. Furthermore, the total energy difference uB - uA is measurable by the procedures discussed in Section 1.7. Subtracting the work from the total energy difference gives us the heat flux in the specified process.
+
+It should be noted that the amount of work associated with different processes may be different, even though each of the processes initiates in the same state A and each terminates in the same final state B. This observation will lead to significant conclusions in subsequent discussions.
+
+The same state B. Similarly, the heat flux may be different for each of the processes. But the sum of the work and heat fluxes is just the total energy difference U_B - U_A and is the same for each of the processes. In referring to the total energy flux we therefore need specify only the initial and terminal states, but in referring to heat or work fluxes we must specify in detail the process considered.
+
+Restricting our attention to thermodynamic simple systems, the quasi-static work is associated with a change in volume and is given quantitatively by dW_M = -PdV (1.1)
+
+where P is the pressure. In recalling this equation from mechanics, we stress that the equation applies only to quasi-static processes. A precise definition of quasi-static processes will be given in Section 4.2, but now we merely indicate the essential qualitative idea of such processes. Let us suppose that we are discussing, as a particular system, a gas enclosed in a cylinder fitted with a moving piston. If the piston is pushed in very rapidly, the gas immediately behind the piston acquires kinetic energy and is set into turbulent motion and the pressure is not well defined. In such a case the work done on the system is not quasi-static and is not given by equation 1.1. If, however, the piston is pushed in at a vanishingly slow rate (quasi-statically), the system is at every moment in a quiescent equilibrium state, and equation 1.1 then applies. The "infinite slowness" of the process is, roughly, the essential feature of a quasi-static process.
+
+A second noteworthy feature of equation 1.1 is the sign convention. The work is taken to be positive if it increases the energy of the system. If the volume of the system is decreased, work is done on the system, increasing its energy; hence the negative sign in equation 1.1.
+
+With the quantitative expression dW_M = -P dV for the quasi-static work, we can now give a quantitative expression for the heat flux. In an infinitesimal quasi-static process at constant mole numbers the quasi-static heat dQ is defined by the equation dQ = dU - dW_M at constant mole numbers (1.2)
+
+or dQ = dU + P dV at constant mole numbers (1.3)
+
+It will be noted that we use the terms heat and heat flux interchangeably. Heat, like work, is only a form of energy transfer. Once energy is transferred to a system, either as heat or as work, it is indistinguishable from energy that might have been transferred differently. Thus, although dQ and dW add together to give dU, the energy U of a state cannot be considered as the sum of "work" and "heat" components. To avoid this implication we put a stroke through the symbol d: infinitesimals such as dW and dQ are called imperfect differentials. The integrals of dW_M and dQ for a particular process are the work and heat fluxes in that process; the sum is the energy difference ΔU, which alone is independent of the process.
+
+The concepts of heat, work, and energy may possibly be clarified in terms of a simple analogy. A certain farmer owns a pond, fed by one stream and drained by another. The pond also receives water from an occasional rainfall and loses it by evaporation, which we shall consider as "negative rain." In this analogy the pond is our system, the water within it is the internal energy, water transferred by the streams is work, and water transferred as rain is heat.
+
+The first thing to be noted is that no examination of the pond at any time can indicate how much of the water within it came by way of the stream and how much came by way of rain. The term rain refers only to a method of water transfer.
+
+Let us suppose that the owner of the pond wishes to measure the amount of water in the pond. He can purchase flow meters to be inserted in the streams, and with these flow meters he can measure the amount of stream water entering and leaving the pond. But he cannot purchase a rain meter. However, he can throw a tarpaulin over the pond, enclosing the pond in a wall impermeable to rain (an adiabatic wall). The pond owner consequently puts a vertical pole into the pond, covers the pond with his tarpaulin, and inserts his flow meters into the streams. By damming one stream and then the other, he varies the level in the pond at will, and by consulting his flow meters he is able to calibrate the pond level, as read on his vertical stick, with total water content (U). Thus, by carrying out processes on the system enclosed by an adiabatic wall, he is able to measure the total water content of any state of his pond.
+
+Our obliging pond owner now removes his tarpaulin to permit rain as well as stream water to enter and leave the pond. He is then asked to evaluate the amount of rain entering his pond during a particular day. He proceeds simply; he reads the difference in water content from his vertical stick, and from this he deducts the total flux of stream water as registered by his flow meters. The difference is a quantitative measure of the rain. The strict analogy of each of these procedures with its thermodynamic counterpart is evident.
+
+Since work and heat refer to particular modes of energy transfer, each is measured in energy units. In the cgs system the unit of energy, and hence of work and heat, is the erg. In the mks system the unit of energy is the joule, or 10^7 ergs.
+
+A practical unit of energy is the calorie, or 4.1858 J. Historically, the calorie was introduced for the measurement of heat flux before the relationship of heat and work was clear, and the prejudice toward the use of the calorie for heat and of the joule for work still persists. Nevertheless, the calorie and the joule are simply alternative units of energy, either of which is acceptable whether the energy flux is work, heat, or some combination of both.
+
+Other common units of energy are the British thermal unit (Btu), the liter-atmosphere, the foot-pound and the watt-hour. Conversion factors among energy units are given inside the back cover of this book.
+
+Example 1 A particular gas is enclosed in a cylinder with a moveable piston. It is observed that if the walls are adiabatic, a quasi-static increase in volume results in a decrease in pressure according to the equation P^3 V^5 = constant (for Q = 0)
+
+a) Find the quasi-static work done on the system and the net heat transfer to the system in each of the three processes (ADB, ACB, and the direct linear process AB) as shown in the figure.
+
+In the process ADB the gas is heated at constant pressure (P = 10^5 Pa) until its volume increases from its initial value of 10^{-3} m^3 to its final value of 8 × 10^{-3} m^3. The gas is then cooled at constant volume until its pressure decreases to 10^5 / 32 Pa. The other processes (ACB and AB) can be similarly interpreted, according to the figure.
+
+1 Nutritionists refer to a kilocalorie as a "Calorie" - presumably to spare calorie counters the trauma of large numbers. To compound the confusion the initial capital C is often dropped, so that a kilocalorie becomes a "calorie"!
+
+b) A small paddle is installed inside the system and is driven by an external motor (by means of a magnetic coupling through the cylinder wall). The motor exerts a torque, driving the paddle at an angular velocity ω, and the pressure of the gas (at constant volume) is observed to increase at a rate given by dP/dt = -(2/3) × (1/V) × torque × ω Show that the energy difference of any two states of equal volumes can be determined by this process. In particular, evaluate U_C - U_A and U_D - U_B. Explain why this process can proceed only in one direction (vertically upward rather than downward in the P- V plot).
+
+c) Show that any two states (any two points in the P-V plane) can be connected by a combination of the processes in (a) and (b). In particular, evaluate U_D - U_A.
+
+d) Calculate the work W_AD in the process A → D. Calculate the heat transfer Q_AD. Repeat for D → B, and for C → A. Are these results consistent with those of (a)?
+
+The reader should attempt to solve this problem before reading the following solution!
+
+Solution a) Given the equation of the "adiabat" (for which Q = 0 and ΔU = W), we find W = ∫ P dV = P_A V_A^{5/3} ( V_B^{-2/3} - V_A^{-2/3} )
+
+= 2(25 - 100) = -112.5 J
+
+Now consider process ADB: W_ADB = -∫ P dV = -10^5 × (8 × 10^{-3} - 10^{-3}) = -700 J But Q_ADB = -112.5 + 700 = 587.5 J
+
+Note that we are able to calculate Q_ADB, but not Q_AD and Q_DB separately, for we do not (yet) know U_D - U_A.
+
+Similarly we find W_ACB = -21.9 J and Q_ACB = -90.6 J. Also W_AB = -360.9 J and Q_AB = 248.4 J.
+
+b) As the motor exerts a torque, and turns through an angle dθ, it delivers an energy dU = torque × dθ to the system. But dθ = ω dt, so that dP = (2/3) × (1/V) × torque × ω dt = (2/3) × (1/V) dU or dU = (3/2) V dP
+
+This process is carried out at constant V and furthermore dU > 0 (and consequently dP > 0). The condition dU > 0 follows from dU = torque × dθ, for the sign of the rotation dθ is the same as the sign of the torque that induces that rotation. In particular U_A - U_C = (3/2) V (P_A - P_C) = (3/2) × 10^{-3} × (10^5 - 10^5/32) = 145.3 J and U_D - U_B = (3/2) V (P_D - P_B) = (3/2) × 8 × 10^{-3} × (10^5 - 10^5/32) = 1162.5 J
+
+c) To connect any two points in the plane we draw an adiabat through one and an isochor (V = constant) through the other. These two curves intersect, thereby connecting the two states. Thus we have found (using the adiabatic process) that U_B - U_A = -112.5 J and (using the irreversible stirrer process) that U_D - U_B = 1162.5 J. Therefore U_D - U_A = 1050 J. Equivalently, if we assign the value zero to U_A then U_A = 0, U_B = -112.5 J, U_C = -145.3 J, U_D = 1050 J and similarly every state can be assigned a value of U.
+
+d) Now having U_D - U_A and W_AD, we can calculate Q_AD.
+
+U_D - U_A = W_AD + Q_AD 1050 = -700 + Q_AD Q_AD = 1750 J
+
+Also for D → B: U_B - U_D = W_DB + Q_DB -1162.5 = 0 + Q_DB Q_DB = -1162.5 J
+
+And for C → A: U_A - U_C = W_CA + Q_CA
+
+## 145.3 = 0 + Q_CA
+
+Q_CA = 145.3 J
+
+To check, we note that Q_AD + Q_DB = 1750 - 1162.5 = 587.5 J, which is equal to Q_ADB as found in (a).
+
+Note that the energy output of the motor is delivered to the system.
+
+system as energy that cannot be classified either as work or as heat-it is a non-quasi-static transfer of energy.
+
+## PROBLEMS
+
+1.8-1. For the system considered in Example 1, calculate the energy of the state with P = 5 X 10⁴ Pa and V = 8 X 10⁻³ m³.
+
+1.8-2. Calculate the heat transferred to the system considered in Example I in the process in which it is taken in a straight line (on the P-V diagram) from the state A to the state referred to in the preceding problem.
+
+1.8-3. For a particular gaseous system it has been determined that the energy is given by U = 2.5PV + constant. The system is initially in the state P = 0.2 MPa (mega-Pascals), V = 0.01 m³; designated as point A in the figure. The system is taken through the cycle of three processes (A → B, B → C, and C → A) shown in the figure. Calculate Q and W for each of the three processes. Calculate Q and W for a process from A to B along the parabola P = 10⁵ + 10⁹ × (V - 0.02)².
+
+Answer: WBC = 7 X 10³ J; QBC = -9.5 X 10³ J 1.8-4. For the system of Problem 1.8-3 find the equation of the adiabats in the P- V plane (i.e., find the form of the curves P = P( V) such that dQ = 0 along the curves).
+
+Answer: V¹P⁵ = constant 1.8-5. The energy of a particular system, of one mole, is given by U = AP²V where A is a positive constant of dimensions [P]⁻¹. Find the equation of the adiabats in the P-V plane.
+
+1.8-6. For a particular system it is found that if the volume is kept constant at the value V₀ and the pressure is changed from P₀ to an arbitrary pressure P', the heat transfer to the system is Q' = A(P' - P₀) (A> 0). In addition it is known that the adiabats of the system are of the form PV⁻ᵞ = constant ( γ a positive constant). Find the energy U( P, V) for an arbitrary point in the P- V plane, expressing U(P, V) in terms of P₀, V₀, A, U₀ = U(P₀, V₀) and γ (as well as P and V).
+
+Answer: U - U₀ = A(P - P₀) + (PV/(γ - 1))(1 - r⁻ᵞ⁻¹) where r = V/V₀ 1.8-7. Two moles of a particular single-component system are found to have a dependence of internal energy U on pressure and volume given by U = APV² (for N = 2). Note that doubling the system doubles the volume, energy, and mole number, but leaves the pressure unaltered. Write the complete dependence of U on P, V, and N for arbitrary mole number.
+
+1-9 THE BASIC PROBLEM OF THERMODYNAMICS The preliminaries thus completed, we are prepared to formulate first the seminal problem of thermodynamics and then its solution.
+
+Surveying those preliminaries retrospectively, it is remarkable how far reaching and how potent have been the consequences of the mere choice of thermodynamic coordinates. Identifying the criteria for those coordinates revealed the role of measurement. The distinction between the macroscopic coordinates and the incoherent atomic coordinates suggested the distinction between work and heat. The completeness of the description by the thermodynamic coordinates defined equilibrium states. The thermodynamic coordinates will now provide the framework for the solution of the central problem of thermodynamics.
+
+There is, in fact, one central problem that defines the core of thermodynamic theory. All the results of thermodynamics propagate from its solution.
+
+The single, all-encompassing problem of thermodynamics is the determination of the equilibrium state that eventually results after the removal of internal constraints in a closed, composite system.
+
+Let us suppose that two simple systems are contained within a closed cylinder, separated from each other by an internal piston. Assume that the cylinder walls and the piston are rigid, impermeable to matter, and adiabatic and that the position of the piston is firmly fixed. Each of the systems is closed. If we now free the piston, it will, in general, seek some new position. Similarly, if the adiabatic coating is stripped from the fixed piston, so that heat can flow between the two systems, there will be a redistribution of energy between the two systems. Again, if holes are punched in the piston, there will be a redistribution of matter (and also of energy) between the two systems. The removal of a constraint in each case results in the onset of some spontaneous process, and when the systems finally settle into new equilibrium states they do so with new values of the parameters U⁽¹⁾, V⁽¹⁾, N⁽¹⁾, · · · and U⁽²⁾, V⁽²⁾, N⁽²⁾ · · · . The basic problem of thermodynamics is the calculation of the equilibrium values of these parameters.
+
+Before formulating the postulate that provides the means of solution of the problem, we rephrase the problem in a slightly more general form without reference to such special devices as cylinders and pistons. Given two or more simple systems, they may be considered as constituting a single composite system. The composite system is termed closed if it is surrounded by a wall that is restrictive with respect to the total energy, the total volume, and the total mole numbers of each component of the composite system. The individual simple systems within a closed composite system need not themselves be closed. Thus, in the particular example referred to, the composite system is closed even if the internal piston is free to move or has holes in it. Constraints that prevent the flow of energy, volume, or matter among the simple systems constituting the composite system are known as internal constraints. If a closed composite system is in equilibrium with respect to internal constraints, and if some of these constraints are then removed, certain previously disallowed processes become permissible. These processes bring the system to a new equilibrium state. Prediction of the new equilibrium state is the central problem of thermodynamics.
+
+## 1.10 THE ENTROPY MAXIMUM POSTULATES
+
+The induction from experimental observation of the central principle that provides the solution of the basic problem is subtle indeed. The historical method, culminating in the analysis of Caratheodory, is a tour de force of delicate and formal logic. The statistical mechanical approach pioneered by Josiah Willard Gibbs required a masterful stroke of inductive inspiration. The symmetry-based foundations to be developed in Chapter 21 will provide retrospective understanding and interpretation, but they are not yet formulated as a deductive basis. We therefore merely formulate the solution to the basic problem of thermodynamics in a set of postulates depending upon a posteriori rather than a priori justification. These postulates are, in fact, the most natural guess that we might make, providing the simplest imaginable formal solution to the basic problem. On this basis alone the problem might have been solved—the tentative postulation of the simplest formal solution of a problem is a conventional and frequently successful mode of procedure in theoretical physics.
+
+What then is the simplest criterion that reasonably can be imagined for the determination of the final equilibrium state? From our experience with many physical theories we might expect that the most economical form for the equilibrium criterion would be in terms of an extremum principle. That is, we might anticipate the values of the extensive parameters in the final equilibrium state to be simply those that maximize some function. And, straining our optimism to the limit, we might hope that this hypothetical function would have several particularly simple mathematical properties, designed to guarantee simplicity of the derived theory. We develop this proposed solution in a series of postulates.
+
+Postulate II. There exists a function (called the entropy S) of the extensive parameters of any composite system, defined for all equilibrium states and having the following property: The values assumed by the extensive parameters in the absence of an internal constraint are those that maximize the entropy over the manifold of constrained equilibrium states.
+
+It must be stressed that we postulate the existence of the entropy only for equilibrium states and that our postulate makes no reference whatsoever to nonequilibrium states. In the absence of a constraint the system is free to select any one of a number of states, each of which might also be realized in the presence of a suitable constraint. The entropy of each of these constrained equilibrium states is definite, and the entropy is largest in some particular state of the set. In the absence of the constraint this state of maximum entropy is selected by the system.
+
+(Or minimize the function, this being purely a matter of convention in the choice of the sign of the function, having no consequence whatever in the logical structure of the theory.)
+
+In the case of two systems separated by a diathermal wall we might wish to predict the manner in which the total energy U distributes between the two systems. We then consider the composite system with the internal diathermal wall replaced by an adiabatic wall and with particular values of U⁽¹⁾ and U⁽²⁾ (consistent, of course, with the restriction that U⁽¹⁾ + U⁽²⁾ = U). For each such constrained equilibrium state there is an entropy of the composite system, and for some particular values of U⁽¹⁾ and U⁽²⁾ this entropy is maximum. These, then, are the values of U⁽¹⁾ and U⁽²⁾ that obtain in the presence of the diathermal wall, or in the absence of the adiabatic constraint.
+
+All problems in thermodynamics are derivative from the basic problem formulated in Section 1.9. The basic problem can be completely solved with the aid of the extremum principle if the entropy of the system is known as a function of the extensive parameters. The relation that gives the entropy as a function of the extensive parameters is known as a fundamental relation. It therefore follows that if the fundamental relation of a particular system is known all conceivable thermodynamic information about the system is ascertainable from it. The importance of the foregoing statement cannot be overemphasized. The information contained in a fundamental relation is all-inclusive—it is equivalent to all conceivable numerical data, to all charts, and to all imaginable types of descriptions of thermodynamic properties. If the fundamental relation of a system is known, every thermodynamic attribute is completely and precisely determined.
+
+Postulate III. The entropy of a composite system is additive over the constituent subsystems. The entropy is continuous and differentiable and is a monotonically increasing function of the energy.
+
+Several mathematical consequences follow immediately. The additivity property states that the entropy S of the composite system is merely the sum of the entropies s^{(α)} of the constituent subsystems: (1.4) The entropy of each subsystem is a function of the extensive parameters of that subsystem alone (1.5) The additivity property applied to spatially separate subsystems requires the following property: The entropy of a simple system is a homogeneous first-order function of the extensive parameters. That is, if all the extensive parameters of a system are multiplied by a constant λ, the entropy is multiplied by this same constant. Or, omitting the superscript (a), The monotonic property postulated implies that the partial derivative (∂S/∂U)_{V,N} is a positive quantity, (1.7) As the theory develops in subsequent sections, we shall see that the reciprocal of this partial derivative is taken as the definition of the temperature. Thus the temperature is postulated to be nonnegative.⁶ The continuity, differentiability, and monotonic property imply that the entropy function can be inverted with respect to the energy and that the energy is a single-valued, continuous, and differentiable function of S, V, N₁, …, Nₙ. The function U = U(S, V, N₁, …, Nₙ) (1.8) can be solved uniquely for S in the form S = S(U, V, N₁, …, Nₙ) (1.9) Equations 1.8 and 1.9 are alternative forms of the fundamental relation, and each contains all thermodynamic information about the system. We note that the extensivity of the entropy permits us to scale the properties of a system of N moles from the properties of a system of 1 mole. The fundamental equation is subject to the identity S(λU, λV, λN₁, λN₂, …, λNₙ) = λS(U, V, N₁, N₂, …, Nₙ) (1.10) in which we have taken the scale factor λ of equation 1.6 to be equal to 1/N. For a single-component simple system, in particular, S(U, V, N) = NS(U/N, V/N, 1) (1.11) But U/N is the energy per mole, which we denote by u. u = U/N (1.12) Also, V/N is the volume per mole, which we denote by v. v = V/N (1.13) Thus S(U/N, V/N, 1) = S(u, v, 1) is the entropy of a system of a single mole, to be denoted by s(u, v). s(u, v) = S(u, v, 1) (1.14) Equation 1.11 now becomes S(U, V, N) = Ns(u, v) (1.15) Postulate IV. The entropy of any system vanishes in the state for which (∂U/∂S)_{V,N} = 0 (that is, at the zero of temperature). We shall see later that the vanishing of the derivative (∂U/∂S)_{V,N} is equivalent to the vanishing of the temperature, as indicated. Hence the fourth postulate is that zero temperature implies zero entropy. It should be noted that an immediate implication of postulate IV is that S (like U and N, but unlike V) has a uniquely defined zero. This postulate is an extension, due to Planck, of the so-called Nernst postulate or third law of thermodynamics. Historically, it was the latest of the postulates to be developed, being inconsistent with classical statistical mechanics and requiring the prior establishment of quantum statistics in order that it could be properly appreciated. The bulk of thermodynamics does not require this postulate, and I make no further reference to it until Chapter 10. Nevertheless, I have chosen to present the postulate at this point to close the postulatory basis. The foregoing postulates are the logical bases of our development of thermodynamics. In the light of these postulates, then, it may be wise to reiterate briefly the method of solution of the standard type of thermodynamic problem, as formulated in Section 1.9. We are given a composite system and we assume the fundamental equation of each of the constituent systems to be known in principle. These fundamental equations determine the individual entropies of the subsystems when these systems are in equilibrium. If the total composite system is in a constrained equilibrium state, with particular values of the extensive parameters of each constituent system, the total entropy is obtained by addition of the individual entropies. This total entropy is known as a function of the various extensive parameters of the subsystems. By straightforward differentiation we compute the extrema of the total entropy function, and then, on the basis of the sign of the second derivative, we classify these extrema as minima, maxima, or as horizontal inflections. In an appropriate physical terminology we first find the equilibrium states and we then classify them on the basis of stability. It should be noted that in the adoption of this conventional terminology we augment our previous definition of equilibrium; that which was previously termed equilibrium is now termed stable equilibrium, whereas unstable equilibrium states are newly defined in terms of extrema other than maxima. It is perhaps appropriate at this point to acknowledge that although all applications of thermodynamics are equivalent in principle to the procedure outlined, there are several alternative procedures that frequently prove more convenient. These alternate procedures are developed in subsequent chapters. Thus we shall see that under appropriate conditions the energy U(S, V, N₁, …) may be minimized rather than the entropy S(U, V, N₁, …) maximized. That these two procedures determine the same final state is analogous to the fact that a circle may be characterized either as the closed curve of minimum perimeter for a given area or as the closed curve of maximum area for a given perimeter. In later chapters we shall encounter several new functions, the minimization of which is logically equivalent to the minimization of the energy or to the maximization of the entropy. The inversion of the fundamental equation and the alternative statement of the basic extremum principle in terms of a minimum of the energy (rather than a maximum of the entropy) suggests another viewpoint from which the extremum postulate perhaps may appear plausible. In the theories of electricity and mechanics, ignoring thermal effects, the energy is a function of various mechanical parameters, and the condition of equilibrium is that the energy shall be a minimum. Thus a cone is stable lying on its side rather than standing on its point because the first position is of lower energy. If thermal effects are to be included the energy ceases to be a function simply of the mechanical parameters. According to the inverted fundamental equation, however, the energy is a function of the mechanical parameters and of one additional parameter (the entropy). By the introduction of this additional parameter the form of the energy minimum principle is extended to the domain of thermal effects as well as to pure mechanical phenomena. In this manner we obtain a sort of correspondence principle between thermodynamics and mechanics ensuring that the thermodynamic equilibrium principle reduces to the mechanical equilibrium principle when thermal effects can be neglected. We shall see that the mathematical condition that a maximum of S(U, V, N₁, …) implies a minimum of U(S, V, N₁, …) is that the derivative (∂S/∂U)_{V,N} be positive. The motivation for the introduction of this statement in postulate III may be understood in terms of our desire to ensure that the entropy-maximum principle will go over into an energy minimum principle on inversion of the fundamental equation. In Parts II and III the concept of the entropy will be more deeply explored, both in terms of its symmetry roots and in terms of its statistical mechanical interpretation. Pursuing those inquiries now would take us too far afield. In the classical spirit of thermodynamics we temporarily defer such interpretations while exploring the far-reaching consequences of our simple postulates. PROBLEMS 1.10-1. The following ten equations are purported to be fundamental equations of various thermodynamic systems. However, five are inconsistent with one or more of postulates II, III, and IV and consequently are not physically acceptable. In each case qualitatively sketch the fundamental relationship between S and U (with N and V constant). Find the five equations that are not physically permissible and indicate the postulates violated by each. The quantities V₀, α, and R are positive constants, and in all cases in which fractional exponents appear only the real positive root is to be taken. a) S = (R² / V₀α)¹/³ (NVU)¹/³ b) S = (α²/3) N¹/³ V¹/³ U²/³ c) S = (α/2) NU + R ln(1/V) d) S = (α/V₀)³/² V³/² NU e) S = (α/V₀²)¹/⁵ N² V U² f) S = NR ln( U V / N² R V₀ ) g) S = (α/N V₀)¹/² (NU)¹/² exp( - V² / 2 N² V₀ ) h) S = (R / α N V₀)¹/² (NU)¹/² exp( - V / N V₀ ) i) U = (N V₀ / α) exp( S / N R )
+
+1.10-2. For each of the five physically acceptable fundamental equations in problem 1.10-1 find U as a function of S, V, and N.
+
+1.10-3. The fundamental equation of system A is S = (R²/ν₀)^{1/3} (NVU)^{1/3} and similarly for system B. The two systems are separated by a rigid, impermeable, adiabatic wall. System A has a volume of 9 × 10⁻⁶ m³ and a mole number of 3 moles. System B has a volume of 4 × 10⁻⁶ m³ and a mole number of 2 moles. The total energy of the composite system is 80 J. Plot the entropy as a function of Uₐ/(Uₐ + U_B). If the internal wall is now made diathermal and the system is allowed to come to equilibrium, what are the internal energies of each of the individual systems? (As in Problem 1.10-1, the quantities ν₀, ξ, and R are positive constants.)
+
+2-1 INTENSIVE PARAMETERS
+
+By virtue of our interest in processes, and in the associated changes of the extensive parameters, we anticipate that we shall be concerned with the differential form of the fundamental equation. Writing the fundamental equation in the form U = U(S, V, N₁, N₂, ••• , Nₙ) (2.1) we compute the first differential: dU = (∂U/∂S)_{V,N} dS + (∂U/∂V)_{S,N} dV + Σⱼ (∂U/∂Nⱼ)_{S,V,...,N} dNⱼ (2.2) The various partial derivatives appearing in the foregoing equation recur so frequently that it is convenient to introduce special symbols for them. They are called intensive parameters, and the following notation is conventional: (∂U/∂S)_{V,N} ≡ T, the temperature (2.3) -(∂U/∂V)_{S,N} ≡ P, the pressure (2.4) (∂U/∂Nⱼ)_{S,V,...,N} ≡ µⱼ, the electrochemical potential of the jth component (2.5)
+
+With this notation, equation 2.2 becomes dU = TdS - PdV + Σⱼ µⱼ dNⱼ (2.6) The formal definition of the temperature soon will be shown to agree with our intuitive qualitative concept, based on the physiological sensations of "hot" and "cold." We certainly would be reluctant to adopt a definition of the temperature that would contradict such strongly entrenched although qualitative notions. For the moment, however, we merely introduce the concept of temperature by the formal definition (2.3). Similarly, we shall soon corroborate that the pressure defined by equation 2.4 agrees in every respect with the pressure defined in mechanics. With respect to the several electrochemical potentials, we have no prior definitions or concepts and we are free to adopt the definition (equation 2.5) forthwith. For brevity, the electrochemical potential is often referred to simply as the chemical potential, and we shall use these two terms interchangeably¹.
+
+The term -PdV in equation 2.6 is identified as the quasi-static work dWₘ, as given by equation 1.1. In the special case of constant mole numbers equation 2.6 can then be written as TdS = dU - dWₘ (2.7) Recalling the definition of the quasi-static heat, or comparing equation 2.7 with equation 1.2, we now recognize TdS as the quasi-static heat flux, dQ = TdS (2.8) A quasi-static flux of heat into a system is associated with an increase of entropy of that system. The remaining terms in equation 2.6 represent an increase of internal energy associated with the addition of matter to a system. This type of energy flux, although intuitively meaningful, is not frequently discussed outside thermodynamics and does not have a familiar distinctive name. We shall call Σⱼ µⱼ dNⱼ the quasi-static chemical work, dWc (2.9)
+
+¹ However it should be noted that occasionally, and particularly in the theory of solids, the "chemical potential" is defined as the electrochemical potential µ minus the molar electrostatic energy. Therefore dU = dQ + dWₘ + dWc (2.10) Each of the terms TdS, -PdV, Σⱼ µⱼ dNⱼ in equation 2.6 has the dimensions of energy. The matter of units will be considered in Section 2.6. We can observe here, however, that having not yet specified the units (nor even the dimensions) of entropy, the units and dimensions of temperature remain similarly undetermined. The units of µ are the same as those of energy (as the mole numbers are dimensionless). The units of pressure are familiar, and conversion factors are listed inside the back cover of this book.
+
+2-2 EQUATIONS OF STATE
+
+The temperature, pressure, and electrochemical potentials are partial derivatives of functions of S, V, N₁, ••• , Nₙ and consequently are also functions of S, V, N₁, ••• , Nₙ. We thus have a set of functional relationships T = T(S, V, N₁, ••• , Nₙ) (2.11) P = P(S, V, N₁, ••• , Nₙ) (2.12) µⱼ = µⱼ(S, V, N₁, ••• , Nₙ) (2.13) Such relationships, expressing intensive parameters in terms of the independent extensive parameters, are called equations of state. Knowledge of a single equation of state does not constitute complete knowledge of the thermodynamic properties of a system. We shall see, subsequently, that knowledge of all the equations of state of a system is equivalent to knowledge of the fundamental equation and consequently is thermodynamically complete.
+
+The fact that the fundamental equation must be homogeneous first order has direct implications for the functional form of the equations of state. It follows immediately that the equations of state are homogeneous zero order. That is, multiplication of each of the independent extensive parameters by a scalar λ leaves the function unchanged. T(S, V, Nⱼ) = T(λS, λV, λNⱼ) (2.14)
+
+It therefore follows that the temperature of a portion of a system is equal to the temperature of the whole system. This is certainly in agreement with the intuitive concept of temperature. The pressure and the electrochemical potentials also have the property (2.14), and together with the temperature are said to be intensive.
+
+To summarize the foregoing considerations it is convenient to adopt a condensed notation. We denote the extensive parameters V, N₁, ••• , Nₙ by the symbols X₁, X₂, ••• , Xₙ, so that the fundamental relation takes the form U = U(S, X₁, X₂, ••• , Xₙ) (2.15) The intensive parameters are denoted by (∂U/∂S)_{X₁,X₂,...} = T = T(S, X₁, X₂, ••• , Xₙ) (2.16) (∂U/∂Xⱼ)_{S,...} = -Pⱼ = -Pⱼ(S, X₁, X₂, ••• , Xₙ), j = 1, 2, ... , n (2.17) whence dU = TdS - Σⱼ Pⱼ dXⱼ (2.18)
+
+It should be noted that a negative sign appears in equation 2.4, but does not appear in equation 2.17. The formalism of thermodynamics is uniform if the negative pressure, -P, is considered as an intensive parameter analogous to T and µ₁, µ₂, ... Correspondingly one of the general intensive parameters -Pⱼ of equation 2.17 is -P.
+
+For single-component simple systems the energy differential is frequently written in terms of molar quantities. Analogous to equations 1.11 through 1.15, the fundamental equation per mole is u = u(s, v) (2.19) where s = S/N, v = V/N (2.20) and u(s, v) = (1/N) U(S, V, N) (2.21) Taking an infinitesimal variation of equation 2.19 du = (∂u/∂s)_v ds + (∂u/∂v)_s dv (2.22) However (∂u/∂s)_v = (1/N) (∂U/∂S)_{V,N} = T (2.23) and similarly (∂u/∂v)_s = (1/N) (∂U/∂V)_{S,N} = -P (2.24) Thus du = Tds - Pdv (2.25)
+
+## PROBLEMS
+
+2.2-1. Find the three equations of state for a system with the fundamental equation U = (v₀ξ/R²)^{1/3} (NVU)^{1/3}. Corroborate that the equations of state are homogeneous zero order (i.e., that T, P, and µ are intensive parameters). 2.2-2. For the system of problem 2.2-1 find µ as a function of T, V, and N. 2.2-3. Show by a diagram (drawn to arbitrary scale) the dependence of pressure on volume for fixed temperature for the system of problem 2.2-1. Draw two such "isotherms," corresponding to two values of the temperature, and indicate which isotherm corresponds to the higher temperature. 2.2-4. Find the three equations of state for a system with the fundamental equation U = (N²/ν₀) exp(-Nξ/V) and show that, for this system, µ = -u. 2.2-5. Express µ as a function of T and P for the system of problem 2.2-4. 2.2-6. Find the three equations of state for a system with the fundamental equation U = (1/2)kN(V/N)² [1 - (a(N/V)^{1/3})]. 2.2-7. A particular system obeys the relation u = A v² exp(s/R). N moles of this substance, initially at temperature T₀ and pressure P₀, are expanded isentropically (s = constant) until the pressure is halved. What is the final temperature? Answer: T = 0.63 T₀. 2.2-8. Show that, in analogy with equation 2.25, for a system with r components du = Tds - Pdv + Σⱼ₌₁ʳ (µⱼ - µ₀) dxⱼ where the x are the mole fractions (≡ Nⱼ/N). 2.2-9. Show that if a single-component system is such that PVᵏ is constant in an adiabatic process (k is a positive constant) the energy is u = f(S) v^(-(k-1)) + constant, where f is an arbitrary function. Hint: PVᵏ must be a function of S, so that (∂P/∂V)_S = g(S) · v^(-(k+1)) where g(S) is an unspecified function.
+
+2-3 ENTROPIC INTENSIVE PARAMETERS
+
+If, instead of considering the fundamental equation in the form U = U(S, X₁, ••• , Xₙ) with U as dependent, we had considered S as dependent, we could have carried out all the foregoing formalism in an inverted but equivalent fashion. Adopting the notation X₀ for U, we write S = S(X₀, X₁, ••• , Xₙ) (2.26) We take an infinitesimal variation to obtain dS = Σₖ₌₀ⁿ (∂S/∂Xₖ)_{X₁,...} dXₖ (2.27) The quantities (∂S/∂Xₖ) are denoted by Fₖ. (2.28) By carefully noting which variables are kept constant in the various partial derivatives (and by using the calculus of partial derivatives as reviewed in Appendix A) the reader can demonstrate that F₀ = T⁻¹, Fₖ = -F₀ (∂U/∂Xₖ)_{S,...} = T⁻¹ Pₖ (k = 1,2,3, ... ) (2.29) These equations also follow from solving equation 2.18 for dS and comparing with equation 2.27.
+
+Despite the close relationship between the Fₖ and the Pₖ, there is a very important difference in principle. Namely, the Pₖ are obtained by differentiating a function of S, X₁, ••• , Xₙ and are considered as functions of these variables, whereas the Fₖ are obtained by differentiating a function of U, X₁, ••• , Xₙ and are considered as functions of these latter variables. That is, in one case the entropy is a member of the set of independent parameters, and in the second case the energy is such a member. In performing formal manipulations in thermodynamics it is extremely important to make a definite commitment to one or the other of these choices and to adhere rigorously to that choice. A great deal of confusion results from a vacillation between these two alternatives within a single problem.
+
+If the entropy is considered dependent and the energy independent, as in S = S(U, ..., X_k, ...), we shall refer to the analysis as being in the entropy representation. If the energy is dependent and the entropy is independent, as in U = U(S, ..., X_k, ...), we shall refer to the analysis as being in the energy representation.
+
+The formal development of thermodynamics can be carried out in either the energy or entropy representations alone, but for the solution of a particular problem either one or the other representation may prove to be by far the more convenient. Accordingly, we shall develop the two representations in parallel, although a discussion presented in one representation generally requires only a brief outline in the alternate representation.
+
+The relation S = S(X_0, ..., X_1, ...) is said to be the entropic fundamental relation, the set of variables X_0, ..., X_1, ... is called the entropic extensive parameters, and the set of variables F_1, ..., F_n is called the entropic intensive parameters. Similarly, the relation U = U(S, X_1, ..., X_n) is said to be the energetic fundamental relation; the set of variables S, X_1, ..., X_n is called the energetic extensive parameters; and the set of variables T, P_1, ..., P_n is called the energetic intensive parameters.
+
+## PROBLEMS
+
+2.3-1. Find the three equations of state in the entropy representation for a system with the fundamental equation u = (d/20) s^5/l R^{3/2} v^{1/2}.
+
+Answer: 1/T = - (2/5) (s^{1/2}/l)^{-2/5} v^{1/5} / (R^{3/2} u^{3/5})
+
+P/T = - (1/5) (s^{1/2}/l)^{-2/5} u^{2/5} / (R^{3/2} v)
+
+2.3-2. Show by a diagram (drawn to arbitrary scale) the dependence of temperature on volume for fixed pressure for the system of problem 2.3-1. Draw two such "isobars" corresponding to two values of the pressure, and indicate which isobar corresponds to the higher pressure.
+
+2.3-3. Find the three equations of state in the entropy representation for a system with the fundamental equation u = (s ε - v, / v)~.
+
+2.3-4. Consider the fundamental equation S = A U^n v^m N^r, where A is a positive constant. Evaluate the permissible values of the three constants n, m, and r if the fundamental equation is to satisfy the thermodynamic postulates and if, in addition, we wish to have P increase with U/V, at constant N. (This latter condition is an intuitive substitute for stability requirements to be studied in Chapter 8.) For definiteness, the zero of energy is to be taken as the energy of the zero-temperature state.
+
+2.3-5. Find the three equations of state for a system with the fundamental relation. Show that the equations of state in entropy representation are homogeneous zero-order functions. Show that the temperature is intrinsically positive. Find the "mechanical equation of state" P = P(T, v). Find the form of the adiabats in the P-v plane. (An "adiabat" is a locus of constant entropy, or an "isentrope").
+
+2-4 THERMAL EQUILIBRIUM- TEMPERATURE
+
+We are now in a position to illustrate several interesting implications of the extremum principle which has been postulated for the entropy.
+
+Consider a closed composite system consisting of two simple systems separated by a wall that is rigid and impermeable to matter but that does allow the flow of heat. The volumes and mole numbers of each of the simple systems are fixed, but the energies u<1> and u<2> are free to change, subject to the conservation restriction
+
+u<1> + u<2> = constant (2.30)
+
+imposed by the closure of the composite system as a whole. Assuming that the system has come to equilibrium, we seek the values of u<1> and u<2>.
+
+According to the fundamental postulate, the values of u<1> and u<2> are such as to maximize the entropy. Therefore, by the usual mathematical condition for an extremum, it follows that in the equilibrium state a virtual infinitesimal transfer of energy from system I to system 2 will produce no change in the entropy of the whole system. That is,
+
+dS = 0 (2.31)
+
+The additivity of the entropy for the two subsystems gives the relation
+
+s = s<1>(u<1>, v<1>, ..., N<1>, ...) + s<2>(u<2>, v<2>, ..., N<2>, ...). (2.32)
+
+As u<1> and u<2> are changed by the virtual energy transfer, the entropy change is
+
+dS = (∂s<1>/∂u<1>_{v<1>, N<1>}) dU<1> + (∂s<2>/∂u<2>_{v<2>, N<2>}) dU<2> (2.33)
+
+or, employing the definition of the temperature
+
+dS = (1/T<1>) dU<1> + (1/T<2>) dU<2> (2.34)
+
+By the conservation condition (equation 2.30), we have
+
+dU<1> = -dU<2> (2.35)
+
+whence
+
+dS = (1/T<1> - 1/T<2>) dU<1> (2.36)
+
+The condition of equilibrium (equation 2.31) demands that dS vanish for arbitrary values of dU<1>, hence
+
+1/T<1> = 1/T<2> (2.37)
+
+This is the condition of equilibrium. If the fundamental equations of each of the subsystems were known, then 1/T<1> would be a known function of u<1> (and of v<1> and N<1>, ..., which, however, are merely constants). Similarly, 1/T<2> would be a known function of u<2>, and the equation 1/T<1> = 1/T<2> would be one equation in u<1> and u<2>. The conservation condition u<1> + u<2> = constant provides a second equation, and these two equations completely determine, in principle, the values of u<1> and u<2>. To proceed further and actually to obtain the values of u<1> and u<2> would require knowledge of the explicit forms of the fundamental equations of the systems. In thermodynamic theory, however, we accept the existence of the fundamental equations, but we do not assume explicit forms for them, and we therefore do not obtain explicit answers.
+
+In practical applications of thermodynamics the fundamental equations may be known, either by empirical observations (in terms of measurements to be described later) or on the basis of statistical mechanical calculations based on simple models. In this way applied thermodynamics is able to lead to explicit numerical answers.
+
+Equation 2.37 could also be written as T<1> = T<2>. We write it in the form 1/T<1> = 1/T<2> to stress the fact that the analysis is couched in the entropy representation. By writing 1/T<1>, we indicate a function of u<1>, v<1>, ..., whereas T<1> would imply a function of s<1>, v<1>, ... The physical significance of equation 2.37, however, remains the equality of the temperatures of the two subsystems.
+
+A second phase of the problem is the investigation of the stability of the predicted final state. In the solution given we have not exploited fully the basic postulate that the entropy is a maximum in equilibrium; rather, we merely have investigated the consequences of the fact that it is an extremum. The condition that it be a maximum requires, in addition to the condition dS = 0, that
+
+d²S < 0 (2.38)
+
+The consequences of this condition lead to considerations of stability, to which we shall give explicit attention in Chapter 8.
+
+2-5 AGREEMENT WITH INTUITIVE CONCEPT OF TEMPERATURE
+
+In the foregoing example we have seen that if two systems are separated by a diathermal wall, heat will flow until each of the system attains the same temperature. This prediction is in agreement with our intuitive notion of temperature, and it is the first of several observations that corroborate the plausibility of the formal definition of the temperature.
+
+Inquiring into the example in slightly more detail, we suppose that the two subsystems initially are separated by an adiabatic wall and that the temperatures of the two subsystems are almost, but not quite, equal. In particular we assume that
+
+T<1> > T<2> (2.39)
+
+The system is considered initially to be in equilibrium with respect to the internal adiabatic constraint. If the internal adiabatic constraint now is removed, the system is no longer in equilibrium, heat flows across the wall, and the entropy of the composite system increases. Finally the system comes to a new equilibrium state, determined by the condition that the final values of T<1> and T<2> are equal, and with the maximum possible value of the entropy that is consistent with the remaining constraints.
+
+Compare the initial and the final states. If ΔS denotes the entropy difference between the final and initial states
+
+ΔS > 0 (2.40)
+
+But, as in equation 2.36,
+
+ΔS ≈ (1/T<1> - 1/T<2>) ΔU<1> (2.41)
+
+where T<1> and T<2> are the initial values of the temperatures. By the condition that T<1> > T<2>, it follows that
+
+ΔU<1> < 0 (2.42)
+
+This means that the spontaneous process that occurred was one in which heat flowed from subsystem I to subsystem 2. We conclude therefore that heat tends to flow from a system with a high value of T to a system with a low value of T. This is again in agreement with the intuitive notion of temperature. It should be noted that these conclusions do not depend on the assumption that T<1> is approximately equal to T<2>; this assumption was made merely for the purpose of obtaining mathematical simplicity in equation 2.41, which otherwise would require a formulation in terms of integrals.
+
+If we now take stock of our intuitive notion of temperature, based on the physiological sensations of hot and cold, we realize that it is based upon two essential properties. First, we expect temperature to be an intensive parameter, having the same value in a part of a system as it has in the entire system. Second, we expect that heat should tend to flow from regions of high temperature toward regions of low temperature. These properties imply that thermal equilibrium is associated with equality and homogeneity of the temperature. Our formal definition of the temperature possesses each of these properties.
+
+2-6 TEMPERATURE UNITS
+
+The physical dimensions of temperature are those of energy divided by those of entropy. But we have not yet committed ourselves on the dimensions of entropy; in fact its dimensions can be selected quite arbitrarily. If the entropy is multiplied by any positive dimensional constant we obtain a new function of different dimensions but with exactly the same extremum properties—and therefore equally acceptable as the entropy. We summarily resolve the arbitrariness simply by adopting the convention that the entropy is dimensionless (from the more incisive viewpoint of statistical mechanics this is a physically reasonable choice). Consequently the dimensions of temperature are identical to those of energy. However, just as torque and work have the same dimensions, but are different types of quantities and are measured in different units (the meter-Newton and the joule, respectively), so the temperature and the energy should be carefully distinguished. The dimensions of both energy and temperature are [mass· (length)²/(time)²]. The units of energy are joules, ergs, calories, and the like. The units of temperature remain to be discussed.
+
+In our later discussion of thermodynamic “Carnot” engines, in Chapter 4, we shall find that the optimum performance of an engine in contact with two thermodynamic systems is completely determined by the ratio of the temperatures of those two systems. That is, the principles of thermodynamics provide an experimental procedure that unambiguously determines the ratio of the temperatures of any two given systems.
+
+The fact that the ratio of temperatures is measurable has immediate consequences. First the zero of temperature is uniquely determined and cannot be arbitrarily assigned or “shifted.” Second we are free to assign the value of unity (or some other value) to one arbitrary chosen state. All other temperatures are thereby determined.
+
+Equivalently, the single arbitrary aspect of the temperature scale is the size of the temperature unit, determined by assigning a specific temperature to some particular state of a standard system.
+
+The assignment of different temperature values to standard states leads to different thermodynamic temperature scales, but all thermodynamic temperature scales coincide at T = 0. Furthermore, according to equation 1.7 no system can have a temperature lower than zero. Needless to say, this essential positivity of the temperature is in full agreement with all measurements of thermodynamic temperatures.
+
+The Kelvin scale of temperature, which is the official Systeme International (SI) system, is defined by assigning the number 273.16 to the temperature of a mixture of pure ice, water, and water vapor in mutual equilibrium; a state which we show in our later discussion of “triple points” determines a unique temperature. The corresponding unit of temperature is called a kelvin, designated by the notation K.
+
+The ratio of the kelvin and the joule, two units with the same dimensions, is 1.3806 × 10⁻²³ joules/kelvin. This ratio is known as Boltzmann’s constant and is generally designated as k. Thus kT is an energy.
+
+The Rankine scale is obtained by assigning the temperature (9/5) × 273.16 = 491.688°R to the ice-water-water vapor system just referred to. The unit, denoted by °R, is called the degree Rankine. Rankine temperatures are merely 9/5 times the corresponding Kelvin temperature.
+
+Closely related to the “absolute” Kelvin scale of temperature is the International Kelvin scale, which is a “practical” scale, defined in terms of the properties of particular systems in various temperature ranges and contrived to coincide as closely as possible with the (absolute) Kelvin scale. The practical advantage of the International Kelvin scale is that it provides reproducible laboratory standards for temperature measurement throughout the temperature range. However, from the thermodynamic point of view, it is not a true temperature scale, and to the extent that it deviates from the absolute Kelvin scale it will not yield temperature ratios that are consistent with those demanded by the thermodynamic formalism.
+
+The values of the temperature of everyday experiences are large numbers on both the Kelvin and the Rankine scales. Room temperatures are in the region of 300 K, or 540°R. For common usage, therefore, two derivative scales are in common use. The Celsius scale is defined as
+
+T(°C) = T(K) - 273.15 (2.43)
+
+where T(°C) denotes the “Celsius temperature,” for which the unit is called the degree Celsius, denoted by °C. The zero of this scale is displaced relative to the true zero of temperature, so the Celsius temperature scale is not a thermodynamic temperature scale at all. Negative temperatures appear, the zero is incorrect, and ratios of temperatures are not in agreement with thermodynamic principles. Only temperature differences are correctly given.
+
+On the Celsius scale the “temperature” of the triple point (ice, water, and water vapor in mutual equilibrium) is 0.01 °C. The Celsius temperature of an equilibrium mixture of ice and water, maintained at a pressure of 1 atm, is even closer to 0°C, with the difference appearing only in the third decimal place. Also the Celsius temperature of boiling water at 1 atm pressure is very nearly 100°C. These near equalities reveal the historical origin of the Celsius scale; before it was recognized that the zero of temperature is unique it was thought that two points, rather than one, could be arbitrarily assigned and these were taken (by Anders Celsius, in 1742) as the 0°C and 100°C just described.
+
+The Fahrenheit scale is a similar “practical” scale. It is now defined by
+
+T(°F) = T(°R) - 459.67 = (9/5)T(°C) + 32 (2.44)
+
+The Fahrenheit temperature of ice and water at 1 atm pressure is roughly 32°F; the temperature of boiling water at 1 atm pressure is about 212°F; and room temperatures are in the vicinity of 70°F. More suggestive of the presumptive origins of this scale are the facts that ice, salt, and water coexist in equilibrium at 1 atm pressure at a temperature in the vicinity of 0°F, and that the body (i.e., rectal) temperature of a cow is roughly 100°F.
+
+Although we have defined the temperature formally in terms of a partial derivative of the fundamental relation, we briefly note the conventional method of introduction of the temperature concept, as developed by Kelvin and Caratheodory. The heat flux dQ is first defined very much as we have introduced it in connection with the energy conservation principle. From the consideration of certain cyclic processes it is then inferred that there exists an integrating factor (1/T) such that the product of this integrating factor with the imperfect differential dQ is a perfect differential (dS).
+
+dS = (1/T) dQ (2.45)
+
+The temperature and the entropy thereby are introduced by analysis of the existence of integrating factors in particular types of differential equations called Pfaffian forms.
+
+## PROBLEMS
+
+2.6-1. The temperature of a system composed of ice, water, and water vapor in mutual equilibrium has a temperature of exactly 273.16 K, by definition. The temperature of a system of ice and water at 1 atm of pressure is then measured as 273.15 K, with the third and later decimal places uncertain. The temperature of a system of water and water vapor (i.e., boiling water) at 1 atm is measured as 373.15 K ± 0.01 K. Compute the temperature of water-water vapor at 1 atm, with its probable error, on the Celsius, absolute Fahrenheit, and Fahrenheit scales.
+
+2.6-2. The “gas constant” R is defined as the product of Avogadro’s number (N_A = 6.0225 × 10²³/mole) and Boltzmann’s constant R = N_A k. Correspondingly R = 8.314 J/mole K. Since the size of the Celsius degree is the same as the size of Kelvin degree, it has the value 8.314 J/mole °C. Express R in units of J/mole °F.
+
+2.6-3. Two particular systems have the following equations of state:
+
+1/T^(1) = (3/2) (R N^(1) / U^(1))
+
+and
+
+1/T^(2) = (5/2) (R N^(2) / U^(2))
+
+where R is the gas constant (Problem 2.6-2). The mole number of the first system is N^(1) = 2 and that of the second is N^(2) = 3. The two systems are separated by a diathermal wall, and the total energy in the composite system is 2.5 × 10³ J. What is the internal energy of each system in equilibrium?
+
+Answer: U^(1) = 714.3 J
+
+2.6-4. Two systems with the equations of state given in Problem 2.6-3 are separated by a diathermal wall. The respective mole numbers are N^(1) = 2 and N^(2) = 3. The initial temperatures are T^(1) = 250 K and T^(2) = 350 K. What are the values of U^(1) and U^(2) after equilibrium has been established? What is the equilibrium temperature?
+
+2-7 MECHANICAL EQUILIBRIUM
+
+A second application of extremum principle for the entropy yields an even simpler result and therefore is useful in making the procedure clear. We consider a closed composite system consisting of two simple systems separated by a movable diathermal wall that is impervious to the flow of matter. The values of the mole numbers are fixed and constant, but the values of U^(1) and U^(2) can change, subject only to the closure condition
+
+U^(1) + U^(2) = constant (2.46)
+
+and the values of V^(1) and V^(2) can change, subject only to the closure condition
+
+V^(1) + V^(2) = constant (2.47)
+
+The extremum principle requires that no change in entropy result from infinitesimal virtual processes consisting of transfer of heat across the wall or of displacement of the wall.
+
+Then
+
+dS = 0 (2.48)
+
+where
+
+dS = [ (∂S/∂U)^(1)_{V^(1), N^(1)} - (∂S/∂U)^(2)_{V^(2), N^(2)} ] dU^(1) + [ (∂S/∂V)^(1)_{U^(1), N^(1)} - (∂S/∂V)^(2)_{U^(2), N^(2)} ] dV^(1) (2.49)
+
+By the closure conditions
+
+dU^(2) = -dU^(1) (2.50)
+
+and
+
+dV^(2) = -dV^(1) (2.51)
+
+whence
+
+dS = (1/T^(1) - 1/T^(2)) dU^(1) + (p^(1)/T^(1) - p^(2)/T^(2)) dV^(1) = 0 (2.52)
+
+As this expression must vanish for arbitrary and independent values of dU^(1) and dV^(1), we must have
+
+1/T^(1) = 1/T^(2) (2.53)
+
+and
+
+p^(1)/T^(1) = p^(2)/T^(2) (2.54)
+
+Although these two equations...
+
+conditions are the equilibrium conditions in the proper form appropriate to the entropy representation, we note that they imply the physical conditions of equality of both temperature and pressure.
+
+T(1) = T(2) (2.55)
+
+p(1) = p(2) (2.56)
+
+The equality of the temperatures is just our previous result for equilibrium with a diathermal wall. The equality of the pressures is the new feature introduced by the fact that the wall is movable. Of course, the equality of the pressures is precisely the result that we would expect on the basis of mechanics, and this result corroborates the identification of the function P as the mechanical pressure.
+
+Again we stress that this result is a formal solution of the given problem. In the entropy representation, σ(1) is a function of U(1), V(1), and N(1) (an entropic equation of state), so that equation 2.53 is formally a relationship among U(1), V(1), U(2), and V(2) (with N(1) and N(2) each held fixed). Similarly p(1); σ(1) is a function of U(1), V(1), and N(1), so that equation 2.54 is a second relationship among U(1), V(1), U(2), and V(2). The two conservation equations 2.46 and 2.47 complete the four equations required to determine the four sought-for variables. Again thermodynamics provides the methodology, which becomes explicit when applied to a concrete system with a definite fundamental relation, or with known equations of state.
+
+The case of a moveable adiabatic (rather than diathermal) wall presents a unique problem with subtleties that are best discussed after the formalism is developed more fully; we shall return to that case in Problem 2.7-3 and in Problem 5.1-2.
+
+Example 1 Three cylinders of identical cross-sectional areas are fitted with pistons, and each contains a gaseous system (not necessarily of the same composition). The pistons are connected to a rigid bar hinged on a fixed fulcrum, as indicated in Fig. 2.1. The "moment arms," or the distances from the fulcrum, are in the ratio of 1 : 2 : 3. The cylinders rest on a heat conductive table of negligible mass; the table makes no contribution to the physics of the problem except to ensure that the three cylinders are in diathermal contact. The entire system is isolated and no pressure acts on the external surfaces of the pistons. Find the ratio of pressures and of temperatures in the three cylinders.
+
+FIGURE 2.1 Three volume-coupled systems (Example 2.7-1).
+
+Solution The closure condition for the total energy is
+
+δU(1) + δU(2) + δU(3) = 0
+
+and the coupling of the pistons imposes the conditions that
+
+δV(2) = 2δV(1)
+
+and δV(3) = -3δV(1)
+
+Then the extremal property of the entropy is
+
+δσ = (1/T(1)) δU(1) + (1/T(2)) δU(2) + (1/T(3)) δU(3) + (p(1)/T(1)) δV(1) + (p(2)/T(2)) δV(2) + (p(3)/T(3)) δV(3) = 0
+
+Eliminating δU(3), δV(2), and δV(3)
+
+δσ = δU(1) [1/T(1) - 1/T(3)] + δU(2) [1/T(2) - 1/T(3)] + δV(1) [p(1)/T(1) + 2p(2)/T(2) - 3p(3)/T(3)] = 0
+
+The remaining three variations δU(1), δU(2), and δV(1) are arbitrary and unconstrained, so that the coefficient of each must vanish separately. From the coefficient of δU(1) we find T(1) = T(3), and from the coefficient of δU(2) we find T(2) = T(3). Hence all three systems come to a common final temperature. From the coefficient of δV(1), and using the equality of the temperatures, we find
+
+p(1) + 2p(2) = 3p(3)
+
+This is the expected result, embodying the familiar mechanical principle of the lever. Explicit knowledge of the equations of state would allow us to convert this into a solution for the volumes of the three systems.
+
+## PROBLEMS
+
+2.7-1. Three cylinders are fitted with four pistons, as shown in Fig. 2.2. The cross-sectional areas of the cylinders are in the ratio A1 : A2: A3 = 1 : 2: 3. Pairs of pistons are coupled so that their displacements (linear motions) are equal. The walls of the cylinders are diathermal and are connected by a heat conducting bar (crosshatched in the figure). The entire system is isolated (so that, for instance, there is no pressure exerted on the outer surfaces of the pistons). Find the ratios of pressures in the three cylinders.
+
+2.7-2. Two particular systems have the following equations of state:
+
+1/T(1) = (3/2) R N(1)/U(1), p(1)/T(1) = R N(1)/V(1)
+
+and
+
+1/T(2) = (5/2) R N(2)/U(2), p(2)/T(2) = R N(2)/V(2)
+
+The mole number of the first system is N(1) = 0.5 and that of the second is N(2) = 0.75. The two systems are contained in a closed cylinder, separated by a fixed, adiabatic, and impermeable piston. The initial temperatures are T(1) = 200 K and T(2) = 300 K, and the total volume is 20 liters. The "setscrew" which prevents the motion of the piston is then removed, and simultaneously the adiabatic insulation of the piston is stripped off, so that the piston becomes moveable, diathermal, and impermeable. What is the energy, volume, pressure, and temperature of each subsystem when equilibrium is established?
+
+It is sufficient to take R = 8.3 J/mole·K and to assume the external pressure to be zero.
+
+Answer: U(1) = 1700 J
+
+2.7-3. The hypothetical problem of equilibrium in a closed composite system with an internal moveable adiabatic wall is a unique indeterminate problem. Physically, release of the piston would lead it to perpetual oscillation in the absence of viscous damping. With viscous damping the piston would eventually come to rest at such a position that the pressures on either side would be equal, but the temperatures in each subsystem would then depend on the relative viscosity in each subsystem. The solution of this problem depends on dynamical considerations. Show that the application of the entropy maximum formalism is correspondingly indeterminate with respect to the temperatures (but determinate with respect to the pressures).
+
+Hint: First show that with dU(1) = -p(1)dV(1), and similarly for subsystem 2, energy conservation gives p(1) = p(2). Then show that the entropy maximum condition vanishes identically, giving no solution for T(1) or T(2).
+
+2-8 EQUILIBRIUM WITH RESPECT TO MATTER FLOW Consideration of the flow of matter provides insight into the nature of the chemical potential. We consider the equilibrium state of two simple systems connected by a rigid and diathermal wall, permeable to one type of material (N1) and impermeable to all others (N2, N3, ..., N). We seek the equilibrium values of U(1) and U(2) and of N1(1) and N1(2). The virtual change in entropy in the appropriate virtual process is
+
+dσ = -(1/T(1)) dU(1) - (μ1(1)/T(1)) dN1(1) + (1/T(2)) dU(2) - (μ1(2)/T(2)) dN1(2) (2.57)
+
+and the closure conditions demand
+
+dU(2) = -dU(1) (2.58)
+
+and dN1(2) = -dN1(1) (2.59)
+
+whence
+
+dσ = dU(1) [1/T(1) - 1/T(2)] - dN1(1) [μ1(1)/T(1) - μ1(2)/T(2)] (2.60)
+
+As dσ must vanish for arbitrary values of both dU(1) and dN1(1), we find as the conditions of equilibrium
+
+1/T(1) = 1/T(2) (2.61)
+
+and
+
+μ1(1)/T(1) = μ1(2)/T(2) (hence also μ1(1) = μ1(2)) (2.62)
+
+Thus, just as the temperature can be looked upon as a sort of "potential" for heat flux and the pressure can be looked upon as a sort of "potential" for volume changes, so the chemical potential can be looked upon as a sort of "potential" for matter flux. A difference in chemical potential provides a "generalized force" for matter flow.
+
+The direction of the matter flow can be analyzed by the same method used in Section 2.5 to analyze the direction of the heat flow. If we assume that the temperatures T(1) and T(2) are equal, equation 2.60 becomes
+
+dσ = -[μ1(1) - μ1(2)] dN1(1) (2.63)
+
+If μ1(1) is greater than μ1(2), dN1(1) will be negative, since dσ must be positive. Thus matter tends to flow from regions of high chemical potential to regions of low chemical potential.
+
+In later chapters we shall see that the chemical potential provides the generalized force not only for the flow of matter from point to point but also for its changes of phase and for chemical reactions. The chemical potential thus plays a dominant role in theoretical chemistry.
+
+The units of chemical potential are joules per mole (or any desired energy unit per mole).
+
+## PROBLEMS
+
+2.8-1. The fundamental equation of a particular type of two-component system is
+
+σ = NA + NR ln [(U^(5/2) V^(3/2) N) / (N1^(3/2) N2^(1/2))] - N1R ln N1 - N2R ln N2 N = N1 + N2
+
+where A is an unspecified constant. A closed rigid cylinder of total volume 10 liters is divided into two chambers of equal volume by a diathermal rigid membrane, permeable to the first component but impermeable to the second. In one chamber is placed a sample of the system with original parameters N1(1) = 0.5, N2(1) = 0.75, V(1) = 5 liters, and T(1) = 300 K. In the second chamber is placed a sample with original parameters N1(2) = 1, N2(2) = 0.5, V(2) = 5 liters, and T(2) = 250 K. After equilibrium is established, what are the values of N1(1), N1(2), T, p(1), and p(2)?
+
+Answer: T = 272.7 K
+
+2.8-2. A two-component gaseous system has a fundamental equation of the form
+
+σ = A U^(1/3) V^(1/3) N1^(1/3) + B N2, N = N1 + N2
+
+where A and B are positive constants. A closed cylinder of total volume 2V is separated into two equal subvolumes by a rigid diathermal partition permeable only to the first component. One mole of the first component, at a temperature TL, is introduced in the left-hand subvolume, and a mixture of 1/2 mole of each component, at a temperature TR, is introduced into the right-hand subvolume. Find the equilibrium temperature T, and the mole numbers in each subvolume when the system has come to equilibrium, assuming that TL = TR = 400 K and that 3^(7/2) B^2 = 100 A^3 V^0. Neglect the heat capacity of the walls of the container!
+
+Answer: N1L = 0.9
+
+2-9 CHEMICAL EQUILIBRIUM Systems that can undergo chemical reactions bear a strong formal similarity to the diffusional systems considered in the preceding section. Again they are governed by equilibrium conditions expressed in terms of the chemical potential μ — whence derives its name chemical potential. In a chemical reaction the mole numbers of the system change, some increasing at the expense of a decrease in others. The relationships am the changing mole numbers are governed by chemical reaction equations such as (2.64)
+
+or (2.65)
+
+The meaning of the first of these equations is that the changes in the mole numbers of hydrogen, oxygen, and water stand in the ratio of -2 : -1 : +2. More generally one writes a chemical reaction equation, for a system with r components, in the form (2.66)
+
+The ν are the "stoichiometric coefficients" (-2, -1, +2 for the reaction of hydrogen and oxygen to form water), and the A are the symbols for the chemical components (A₁ = H₂, A₂ = O₂, and A₃ = H₂O for the preceding reaction). If the reaction is viewed in the reverse sense (for instance, as the dissociation of water to hydrogen plus oxygen) the opposite signs would be assigned to each of the ν_i; this is a matter of arbitrary choice and only the relative signs of the ν are significant.
+
+Chemical Equilibrium The fundamental equation of the system is S = S(U, V, N₁, N₂, ••• , Nᵣ) (2.67)
+
+In the course of the chemical reaction both the total energy U and the total volume V remain fixed, the system being considered to be enclosed in an adiabatic and rigid "reaction vessel." This is not the most common boundary condition for chemical reactions, which are more often carried out in open vessels, free to interchange energy and volume with the ambient atmosphere; we shall return to these open boundary conditions in Section 6.4.
+
+The change in entropy in a virtual chemical process is then dS = Σ (-μ_j / T) dN_j (2.68)
+
+j=1 However, the changes in the mole numbers are proportional to the stoichiometric coefficients ν_j. Let the factor of proportionality be denoted by dξ, so that dN_j = ν_j dξ dS = (Σ (-μ_j ν_j) / T) dξ (2.69)
+
+j=1 Then the extremum principle dictates that, in equilibrium Σ μ_j ν_j = 0 (2.70)
+
+j=1 If the equations of state of the mixture are known, the equilibrium condition (2.70) permits explicit solution for the final mole numbers.
+
+It is of interest to examine this "solution in principle" in a slightly richer case. If hydrogen, oxygen, and carbon dioxide are introduced into a vessel the following chemical reactions may occur.
+
+H₂ + ½ O₂ → H₂O CO₂ + H₂ → CO + H₂O (2.71)
+
+CO + ½ O₂ → CO₂ In equilibrium we then have μ_H₂ + ½ μ_O₂ - μ_H₂O = 0 μ_CO₂ + μ_H₂ - μ_CO - μ_H₂O = 0 (2.72)
+
+μ_CO + ½ μ_O₂ - μ_CO₂ = 0 Conditions of Equilibrium These constitute two independent equations, for the first equation is simply the sum of the two following equations (just as the first chemical reaction is the net result of the two succeeding reactions). The amounts of hydrogen, oxygen, and carbon introduced into the system (in whatever chemical combinations) specify three additional constraints. There are thus five constraints, and there are precisely five mole numbers to be found (the quantities of H₂, O₂, H₂O, CO₂, and CO). The problem is thereby solved in principle.
+
+As we observed earlier, chemical reactions more typically occur in open vessels with only the final pressure and temperature determined. The number of variables is then increased by two (the energy and the volume) but the specification of T and P provides two additional constraints. Again the problem is determinate.
+
+We shall return to a more thorough discussion of chemical reactions in Section 6.4. For now it is sufficient to stress that the chemical potential plays a role in matter transfer or chemical reactions fully analogous to the role of temperature in heat transfer or pressure in volume transfer.
+
+## PROBLEMS
+
+2.9-1. The hydrogenation of propane (C₃H₈) to form methane (CH₄) proceeds by the reaction C₃H₈ + 2H₂ → 3CH₄ Find the relationship among the chemical potentials and show that both the problem and the solution are formally identical to Example 1 on mechanical equilibrium.
+
+3 SOME FORMAL RELATIONSHIPS, AND SAMPLE SYSTEMS 3-1 THE EULER EQUATION Having seen how the fundamental postulates lead to a solution of the equilibrium problem, we now pause to examine in somewhat greater detail the mathematical properties of fundamental equations.
+
+The homogeneous first-order property of the fundamental relation permits that equation to be written in a particularly convenient form, called the Euler form.
+
+From the definition of the homogeneous first-order property we have, for any λ U(λS, λX₁, ••• , λXᵣ) = λU(S, X₁, ... , Xᵣ) (3.1)
+
+Differentiating with respect to λ ∂U(λS, λX₁, ... ) / ∂(λS) * ∂(λS)/∂λ + Σ ∂U(λS, λX₁, ... ) / ∂(λX_k) * ∂(λX_k)/∂λ = U(S, X₁,... , Xᵣ) (3.2)
+
+or S * ∂U(λS, λX₁, ... ) / ∂(λS) + Σ X_k * ∂U(λS, λX₁, ... ) / ∂(λX_k) = U(S, X₁, ... , Xᵣ) (3.3)
+
+This equation is true for any λ and in particular for λ = 1, in which case it takes the form U = S(∂U/∂S) + Σ X_k (∂U/∂X_k) (3.4)
+
+or U = TS + Σ X_k P_k (3.5)
+
+Some Formal Relationships and Sample Systems For a simple system in particular we have U = TS - PV + Σ μ_j N_j (3.6)
+
+The relation 3.5 or 3.6 is the particularization to thermodynamics of the Euler theorem on homogeneous first-order forms. The foregoing development merely reproduces the standard mathematical derivation. We refer to equation 3.5 or 3.6 as the Euler relation.
+
+In the entropy representation the Euler relation takes the form S = (U/T) + Σ (X_k/T) P_k (3.7)
+
+or S = (1/T)(U + Σ X_k P_k) (3.8)
+
+## PROBLEMS
+
+3.1-1. Write each of the five physically acceptable fundamental equations of Problem 1.10-1 in the Euler form.
+
+3-2 THE GIBBS-DUHEM RELATION In Chapter 2 we arrived at equilibrium criteria involving the temperature, pressure, and chemical potentials. Each of the intensive parameters entered the theory in a similar way, and the formalism is, in fact, symmetric in the several intensive parameters. Despite this symmetry, however, the reader is apt to feel an intuitive response to the concepts of temperature and pressure, which is lacking, at least to some degree, in the case of the chemical potential. It is of interest, then, to note that the intensive parameters are not all independent. There is a relation among the intensive parameters, and for a single-component system μ is a function of T and P.
+
+The Gibbs-Duhem Relation The existence of a relationship among the various intensive parameters is a consequence of the homogeneous first-order property of the fundamental relation. For a single-component system this property permits the fundamental relation to be written in the form u = u(s, v), as in equation 2.19; each of the three intensive parameters is then also a function of s and v. Elimination of s and v from among the three equations of state yields a relation among T, P, and μ.
+
+The argument can easily be extended to the more general case, and it again consists of a straightforward counting of variables. Suppose we have a fundamental equation in (t + 1) extensive variables Φ = Φ(X₁, X₂, ... , X_{t+1}) (3.9)
+
+yielding, in turn, t + 1 equations of state P_k = ∂Φ/∂X_k (3.10)
+
+If we choose the parameter λ of equation 2.14 as λ= 1/X_k, we then have Φ = Σ X_k P_k (3.11)
+
+Thus each of the (t + 1) intensive parameters is a function of just t variables. Elimination of these t variables among the (t + 1) equations yields the desired relation among the intensive parameters.
+
+To find the explicit functional relationship that exists among the set of intensive parameters would require knowledge of the explicit fundamental equation of the system. That is, the analytic form of the relationship varies from system to system. Given the fundamental relation, the procedure is evident and follows the sequence of steps indicated by equations 3.9 through 3.11.
+
+A differential form of the relation among the intensive parameters can be obtained directly from the Euler relation and is known as the Gibbs-Duhem relation. Taking the infinitesimal variation of equation 3.5, we find dU = T dS + S dT + Σ P_k dX_k + Σ X_k dP_k (3.12)
+
+k=1 k=1 But, in accordance with equation 2.6, we certainly know that dU = T dS + Σ P_k dX_k (3.13)
+
+k=1 Some Formal Relationships and Sample Systems whence, by subtraction we find the Gibbs-Duhem relation S dT + Σ X_k dP_k = 0 (3.14)
+
+k=1 For a single-component simple system, in particular, we have S dT - V dP + N dμ = 0 (3.15)
+
+or dμ = -s dT + v dP (3.16)
+
+The variation in chemical potential is not independent of the variations in temperature and pressure, but the variation of any one can be computed in terms of the variations of the other two.
+
+The Gibbs-Duhem relation presents the relationship among the intensive parameters in differential form. Integration of this equation yields the relation in explicit form, and this is a procedure alternative to that presented in equations 3.9 through 3.11. In order to integrate the Gibbs-Duhem relation, one must know the equations of state that enable one to write the X_k's in terms of the P_k's, or vice versa.
+
+The number of intensive parameters capable of independent variation is called the number of thermodynamic degrees of freedom of a given system. A simple system of r components has r + I thermodynamic degrees of freedom.
+
+In the entropy representation the Gibbs-Duhem relation again states that the sum of products of the extensive parameters and the differentials of the corresponding intensive parameters vanishes.
+
+Σ X_k dP_k = 0 (3.17)
+
+or Σ P_k dX_k = 0 (3.18)
+
+## PROBLEMS
+
+3.2-1. Find the relation among T, P, and μ for the system with the fundamental equation U = (N^{5/3} V^{2/3}) / (R^{3/2})
+
+3-3 SUMMARY OF FORMAL STRUCTURE Summary of Formal Structure Let us now summarize the structure of the thermodynamic formalism in the energy representation. For the sake of clarity, and in order to be explicit, we consider a single-component simple system. The fundamental equation U = U(S, V, N) (3.19)
+
+contains all thermodynamic information about a system. With the definitions T = ∂U/∂S, and so forth, the fundamental equation implies three equations of state T = T( S, V, N) = T( s, v) (3.20)
+
+P= P(S,V,N) = P(s,v) (3.21)
+
+μ = μ(S, V, N) = μ(s,v) (3.22)
+
+If all three equations of state are known, they may be substituted into the Euler relation, thereby recovering the fundamental equation. Thus the totality of all three equations of state is equivalent to the fundamental equation and contains all thermodynamic information about a system.
+
+Any single equation of state contains less thermodynamic information than the fundamental equation.
+
+If two equations of state are known, the Gibbs-Duhem relation can be integrated to obtain the third. The equation of state so obtained will contain an undetermined integration constant. Thus two equations of state are sufficient to determine the fundamental equation, except for an undetermined constant.
+
+A logically equivalent but more direct and generally more convenient method of obtaining the fundamental equation when two equations of state are given is by direct integration of the molar relation du = Tds - Pdv (3.23). Clearly, knowledge of T = T(s, v) and P = P(s, v) yields a differential equation in the three 两个滑动壁连接在一起，使得它们之间的距离始终为圆柱体长度的一半（Vα = Vγ 且 Vβ = Vα）。最初，两个滑动壁分别位于左端和中央固定隔板处，因此 Vα = Vγ = 0。容积为 Vβ,0 的腔室充满了 N 摩尔的简单理想气体 A 和 N 摩尔的简单理想气体 B 的混合物。腔室 α 最初被抽空。整个系统维持在温度 T 下。
+
+左侧滑动壁允许组分 A 通过，但不允许组分 B 通过。固定隔板允许组分 B 通过，但不允许组分 A 通过。右侧滑动壁不允许任何组分通过。
+
+然后，将连接在一起的滑动壁缓慢地向右推，直到 Vβ = Vα = 0 且 Vα = Vγ = V0。此时，腔室 α 包含纯 A，腔室 γ 包含纯 B。体积为 V0 的初始混合物因此被分离成两个纯组分，每个体积为 V0。
+
+根据吉布斯定理，最终熵应等于初始熵，我们现在将直接看到这确实是正确的。
+
+我们首先注意到，方程 3.39 中的第二个方程指出能量仅是温度和摩尔数的函数，这确保了系统的最终能量等于其初始能量。因此，-TΔS 等于移动连接壁所做的功。
+
+关于组分 A 通过左侧壁的转移平衡条件是 μA,α = μA,β。问题 3.4-14 要求证明条件 μA,α = μA,β 和 μB,β = μB,γ 意味着 Pα = Pβ = Pγ。也就是说，作用在可移动的连接壁上的总力 (Pα + Pγ) 为零。因此，移动壁不做功，因此该过程不伴随熵变。在相同体积 V0 中的原始混合物 A 和 B 的熵，恰好等于各自在单独体积 V0 中的纯 A 和纯 B 的熵。这就是吉布斯定理。
+
+最后，我们注意到本节考虑的简单理想气体是一般理想气体的特例，后者涵盖了在低压或中等压力下非常广泛的真实气体类别。一般理想气体再次以机械状态方程 PV = NRT（方程 3.25）为特征，并且其能量同样是仅温度的函数——但不是简单的线性函数。一般理想气体将在第 13 章详细讨论，其基本方程的统计力学推导将在第 16 章出现。
+
+**习题**
+
+注意，问题 3.4-1、3.4-2、3.4-3 和 3.4-8 涉及“准静态过程”；此类过程不应解释为真实过程，而仅是平衡状态的轨迹。因此我们可以对这样的准静态“过程”应用热力学；在准静态体积变化（从 V1 到 V2）中所做的功为 W = -∫PdV，热量传递为 Q = ∫TdS。真实过程与这些理想化的“准静态过程”之间的关系将在第 4 章讨论。
+
+3.4-1. 一个“定容理想气体温度计”的构造如图 3.3 所示（示意图）。装有气体的灯泡由热膨胀系数可忽略不计的材料制成。点 A 是标记在灯泡柄上的参考点。灯泡通过一根柔性管连接到一个开放于大气的液态汞储槽。汞储槽被升高或降低，直到汞液面与参考点 A 重合。然后读取汞柱的高度 h。
+
+a) 证明气体的压力等于外部（大气）压力加上汞柱高度 h 乘以汞的单位体积重量（在相关温度下测量）。
+
+b) 利用理想气体的状态方程，解释如何评估气体的温度。
+
+c) 描述一个“定压理想气体温度计”（在其中直接测量定压下的变化体积）。
+
+3.4-2. 证明在经历准静态绝热压缩（dQ = T dS = 0，S = 常数）的单原子理想气体中，体积与压力之间的关系为： PV^(5/3) = (P0 V0^(5/3)) * exp(-S0/(3R)) * exp(2S/(3R)) = 常数在 P-V 图上绘制一系列这样的“绝热线”。求出简单理想气体的相应关系。
+
+3.4-3. 两摩尔单原子理想气体处于 0°C 和 45 升体积。气体被绝热（dQ = 0）且准静态地膨胀，直到其温度降至 -50°C。其初始和最终压力以及最终体积是多少？
+
+答案： P1 = 0.1 MPa, V2 = 61 × 10^-3 m^3
+
+3.4-4. 通过计算积分 ∫PdV，计算问题 3.4-3 中气体所做的功。同时计算初始和最终内能，并证实这些能量之差即为所做的功。
+
+3.4-5. 在一个特定发动机中，气体在活塞的初始行程中被压缩。在压缩过程中进行的瞬时温度测量显示，温度按照 T = T0 + k(V0 - V) 的规律增加，其中 T0 和 V0 是初始温度和体积，k 是一个常数。气体被压缩到体积 V1（其中 V1 < V0）。假设气体为单原子理想气体，且过程为准静态。
+
+a) 计算对气体做的功 W。
+
+b) 计算气体的内能变化 ΔU。
+
+c) 使用 (a) 和 (b) 的结果计算（通过气缸壁传递给气体的）热量传递 Q。
+
+d) 通过积分 dQ = T dS 直接计算热量传递 Q。
+
+e) 根据 (c) 或 (d) 的结果，对于什么 k 值有 Q = 0？证明对于这个 k 值，所遍历的轨迹与（在问题 3.4-2 中计算的）绝热线重合。
+
+3.4-6. 找出“简单理想气体”（方程 3.34）的三个状态方程。证明这些状态方程满足欧拉关系。
+
+3.4-7. 找出两种简单理想气体混合物的四个状态方程（方程 3.39）。证明这些状态方程满足欧拉关系。
+
+3.4-8. 如果允许单原子理想气体膨胀到一个真空区域，从而使其体积从 V 增加到 AV，且壁是刚性和绝热的，初始压力和最终压力的比值是多少？初始温度和最终温度的比值是多少？初始熵和最终熵的差是多少？
+
+3.4-9. 一个容器的体积为 0.1 m^3，装有压力为 5 × 10^6 Pa 的 He 气体。第二个容器的体积为 0.15 m^3，装有压力为 6 × 10^6 Pa 的 He 气体。打开连接两个容器的阀门。假设 He 是单原子理想气体，且容器壁是绝热和刚性的，求系统的最终压力。
+
+提示：注意内能是恒定的。
+
+答案： Pf = 5.6 × 10^6 Pa
+
+3.4-10.
+
+a) 如果问题 3.4-9 中两个容器在打开阀门之前的温度分别为 T = 300 K 和 350 K，最终温度会是多少？
+
+b) 如果第一个容器装有初始温度为 300 K 的 He，第二个容器装有 cv = 5/2 的双原子理想气体且初始温度为 350 K，最终温度会是多少？
+
+答案： a) Tf = 330 K b) Tf = 337 K
+
+3.4-11. 证明多组分简单理想气体的压力可以写成“分压” Pi 之和，其中 Pi = Ni RT / V。这些“分压”是纯形式量，无法通过实验观察到。（从动力学理论的机制观点来看，分压 Pi 是由组分 i 的分子轰击壁对总压力的贡献，这种区分只有在分子是非相互作用的时候才能进行，就像在理想气体中那样。）
+
+3.4-12. 证明多组分简单理想气体中第 i 组分的电化学势 μi 满足： μi = RT ln (VN, v0) + (T 的函数)
+
+并找出“T 的函数”的显式形式。
+
+证明 μi 可以用“分压”（问题 3.4-11）和温度来表示。
+
+3.4-13. 一个不透气、导热且刚性的隔板将容器分成两个子体积，每个体积为 V。子体积分别包含一摩尔 H2 和三摩尔 Ne。系统维持在恒定温度 T 下。隔板突然变得对 H2 可渗透，但对 Ne 不可渗透，并允许重新建立平衡。求摩尔数和压力。
+
+3.4-14. 利用问题 3.4-11 和 3.4-12 的结果，证明本节末尾吉布斯定理证明中的结果 Pα = P0 和 Pβ = 2P0。
+
+3.4-15. 一个不透气、导热且刚性的隔板将容器分成两个子体积，体积分别为 nV0 和 mV0。子体积分别包含 n 摩尔 H2 和 m 摩尔 Ne，均视为简单理想气体。系统维持在恒定温度 T 下。隔板突然破裂，并允许重新建立平衡。求每个子体积的初始压力和最终压力。求系统的熵变。这个结果与“混合熵”（方程 3.40 的最后一项）有何关系？
+
+**3-5 “理想范德华流体”**
+
+真实气体很少满足理想气体状态方程，除非在低密度极限下。1873 年，J. D. 范德华对机械状态方程 (3.28) 提出了改进。
+
+p = RT/(V - b) - a/V^2 (3.41)
+
+这里 a 和 b 是两个经验常数，是特定气体的特征。在严格的定量意义上，该方程的成功是适度的，并且对于详细的实践应用来说， 在许多应用场景中，范德华方程已被更复杂的经验方程（具有五个或更多经验常数）所取代。然而，范德华方程在定性描述真实流体（包括气-液相变）的特征方面却非常成功。
+
+支撑范德华方程的启发式推理在直觉上是合理且富有启发性的，尽管该推理超出了热力学的范畴。理想气体方程 P = RT / v 来自点分子模型，这些分子独立运动并与器壁碰撞以施加压力 P。对这一图景有两个简单的合理修正。第一个修正是认识到分子并非点粒子，而是每个都具有非零体积 b/NA。因此，理想气体方程中的体积 V 被替换为 V - Nb；即总体积减去分子本身占据的体积 Nb。
+
+第二个修正源于分子间力的存在。容器内部的分子受到各个方向的分子间力作用，这些力因此倾向于相互抵消。但是，一个靠近容器壁的分子会受到剩余分子的净向后吸引力，而这个力反过来又减少了该分子在与容器壁碰撞时施加的有效压力。压力的这种减少应与相互作用的分子对数成正比，或与单位体积内分子数的平方成正比 (1/v²)；这即是范德华方程中的第二项。
+
+统计力学为范德华方程提供了更定量和形式化的推导，但它也揭示出在方程3.41给出的修正之外，还存在无穷级数的高阶修正项。为了得到简单的范德华方程而截断高阶项，得到的方程具有适当的定性特征和合理（但非最优）的定量精度。
+
+范德华方程必须辅以一个热状态方程才能完全定义系统。不简单地诉诸实验，而是探究可以与范德华物态方程配对的最简单且合理的热状态方程，是富有启发性的。不幸的是，我们不能自由地采用理想气体的热状态方程，因为热力学形式论在两个状态方程之间施加了一个相容性条件。我们将被迫稍微修改理想气体方程。
+
+我们将范德华方程写为 P = RT/(v-b) - a/v²  (3.42)
+
+而待求的附加状态方程应具有形式 T = f(u, v) (3.43)
+
+这两个方程将允许我们对摩尔方程 dS = (1/T) du + (P/T) dv (3.44)
+
+进行积分以获得基本方程。然而，如果 dS 是一个全微分，则要求混合二阶偏导数相等： ∂/∂v (∂S/∂u) = ∂/∂u (∂S/∂v) (3.45)
+
+或 ∂/∂v (1/T) = ∂/∂u (P/T) (3.46)
+
+由此可得 - (1/T²) ∂T/∂v = (1/T) ∂(P/T)/∂u (3.47)
+
+这个条件可以写成 ∂(P/T)/∂u = - (1/T) ∂T/∂v (3.48)
+
+也就是说，函数 1/T 必须以某种方式依赖于变量 1/v 和 u/a，使得两个导数相等。实现这一点的一个可能方式是让 1/T 仅依赖于 (1/v + u/a) 之和。
+
+我们首先回忆，对于简单理想气体 1/T = cR/u；这表明与范德华方程相容的最简单改变是： 1/T = cR / (u + a/v) (3.49)
+
+在本文的阐述中，我们将把由范德华方程 (3.41) 和方程 3.49 所表征的假想系统称为“理想范德华流体”。
+
+我们应该注意，方程 3.41 虽然被称为“范德华物态方程”，但其形式并非适当的物态方程形式。然而，由方程 3.49 和 3.42 我们得到： P/T = R/(v-b) - acR / [T(uv² + av)] (3.50)
+
+实际上，由 3.49 和 3.42 可得： P/T = [R/(v-b)] - [a/(v² T)] = [R/(v-b)] - [a/(v²)] * [cR/(u + a/v)] = R/(v-b) - acR/[v²(u + a/v)] = R/(v-b) - acR/(uv² + av)
+
+所以方程应为： P/T = R/(v-b) - acR/(uv² + av) (3.50)
+
+前面两个方程是熵表示中的适当状态方程，将 1/T 和 P/T 表示为 u 和 v 的函数。
+
+有了这两个状态方程，我们现在就能得到基本关系。留给读者去证明： S = NR ln[(v - b)(u + a/v)^c] + N s₀ (3.51)
+
+其中 s₀ 是一个常数。与理想气体的情况一样，该基本方程不满足能斯特定理，并且在极低温度下无效。
+
+我们稍后（在第9章）将会看到，理想范德华流体在某些温度和压力区域是不稳定的，它会自发地分离成两相（“液体”和“气体”）。基本方程 (3.51) 对于说明热力学原理非常丰富。
+
+各种真实气体的范德华常数在表3.1中给出。常数 a 和 b 是通过经验拟合范德华等温线（在273 K附近）得到的；它们对于较远的等温线拟合较差。c 的值基于室温下的摩尔热容。
+
+表3.1 常见气体的范德华常数和摩尔热容
+
+| 气体 | a (Pa·m⁶) | b (10⁻⁶ m³) | c       | |------|-----------|-------------|---------| | He   | 0.00346   | 23.7        | 1.5     | | Ne   | 0.0215    | 17.1        | 1.5     | | H₂   | 0.0248    | 26.6        | 2.5     | | A    | 0.132     | 30.2        | 1.5     | | N₂   | 0.136     | 38.5        | 2.5     | | O₂   | 0.138     | 32.6        | 2.5     | | CO   | 0.151     | 39.9        | 2.5     | | CO₂  | 0.401     | 42.7        | 3.5     | | N₂O  | 0.384     | 44.2        | 3.5     | | H₂O  | 0.544     | 30.5        | 3.1     | | Cl₂  | 0.659     | 56.3        | 2.8     | | SO₂  | 0.680     | 56.4        | 3.5     |
+
+改编自 Paul S. Epstein, 《热力学教科书》, Wiley, New York, 1937.
+
+问题
+
+3.5-1. 以下列出的每对方程状态是否相容（回顾方程3.46）？如果是，求系统的基方程。
+
+a) u = aPv 且 Pv² = bT b) u = aPv² 且 Pv² = bT c) P = (u - c) / (v - a) + buv 且 T = (u - c) / (v - a) + buv
+
+3.5-2. 求理想范德华流体在准静态绝热膨胀（即等熵膨胀，dQ = T dS = 0，或 S = 常数）过程中体积与温度之间的关系。
+
+3.5-3. 对 CO₂ 重复问题 3.4-3，而非对单原子理想气体。假设 CO₂ 可由理想范德华流体表示，常数取自表3.1。
+
+在室温下，范德华物态方程中的项 ( - a/ v²) 大约在什么压力下会对压力产生10%的修正？
+
+答案：v⁻¹ = 0.091 m⁻³ (即 v ≈ 10.99 m³/kmol? 此处答案似乎有误或单位需确认，原文给出 v⁻¹ = 0.091 m³，应为单位体积的倒数？可能原文有误，保留原答案格式)
+
+3.5-4. 假设 μ = - ! (原文符号不清，保留原样) 且气体为理想范德华流体，重复问题 3.4-5 的 (a)、(b) 和 (c) 部分。
+
+证明你对 ΔU 和 W（从而对 Q）的结果在范德华常数 a 和 b 趋近于零且 c = f 时，约化为问题 3.4-5（对于 μ = - !）的结果。回忆对于小 x，ln(1 + x) ≈ x。
+
+3.5-5. 考虑装在问题3.4-1所述装置（即“定容气体温度计”）中的范德华气体。
+
+a) 假设预先已知气体服从范德华方程，证明两个参考温度的知识足以确定范德华常数 a 和 b。
+
+b) 已知常数 a 和 b，证明该装置可随后用作温度计来测量任何其他温度。
+
+c) 证明三个参考温度的知识足以确定气体是否满足范德华方程，并且如果满足，则可以测量任何其他温度。
+
+3.5-6. 一摩尔单原子理想气体和一摩尔 Cl₂ 被装在刚性圆筒中，并被一个可移动的内部活塞隔开。如果气体温度为 300 K，观察到活塞恰好位于圆筒中心。求每种气体的压力。将 Cl₂ 视为范德华气体（见表3.1）。
+
+答案：P = 3.5 × 10⁷ Pa
+
+3-6 电磁辐射
+
+如果将任何“空”容器的壁保持在温度 T，则发现该容器实际上是电磁能的储库。量子理论家可能将该容器视为包含光子，工程师可能将其视为支持电磁模式的谐振腔，而经典热力学家则可能避免任何此类机械模型。从任何观点看，这种电磁腔的经验状态方程是“斯特藩-玻尔兹曼定律” U = bV T⁴ (3.52)
+
+和 P = (1/3) b T⁴ (3.53)
+
+其中 b 是一个特定常数 (b = 7.56 × 10⁻¹⁶ J/m³ K⁴)，将在第16.8节从基本原理导出。需要注意的是，这些经验状态方程是 U 和 V 的函数，但不依赖于 N。这一观察提醒我们，在“空”腔中，不存在需要由参数 N 计数的守恒粒子。腔内的电磁辐射由形式为 S = S(U, V) 的基本方程支配，其中只有两个而非三个独立的广延参数！
+
+对于电磁辐射，两个已知的状态方程构成一个完备集，只需代入截断的欧拉关系 S = - (1/T) U + (P/T) V (3.54)
+
+即可提供基本关系。为此，我们将方程3.52和3.53改写为适当的熵状态方程形式： 1/T = b¹/⁴ U⁻³/⁴ V⁻¹/⁴ (3.55)
+
+和 P/T = (1/3) b¹/⁴ U¹/⁴ V⁻³/⁴ (3.56)
+
+因此，代入3.54后，基本关系变为： S = (4/3) b¹/⁴ U³/⁴ V¹/⁴ + s₀ (3.57)
+
+问题
+
+3.6-1. 宇宙学家认为宇宙是一个膨胀的电磁腔，其中的辐射目前温度为2.7 K。当宇宙体积膨胀到当前的两倍时，辐射的温度将是多少？假设膨胀是等熵的（这是宇宙学模型计算的一个非显然预测）。
+
+3.6-2. 假设填充宇宙的电磁辐射在 T = 2.7 K 处于平衡状态，与该辐射相关的压力是多少？分别用帕斯卡和大气压表示答案。
+
+The Formal Relationships and Sample Systems
+
+3.6-3. The density of matter (primarily hydrogen atoms) in intergalactic space is such that its contribution to the pressure is of the order of 10⁻²³ Pa.
+
+a) What is the approximate density of matter (in atoms/m³) in intergalactic space?
+
+b) What is the ratio of the kinetic energy of matter to the energy of radiation in intergalactic space? (Recall Problems 3.6-1 and 3.6-2.)
+
+c) What is the ratio of the total matter energy (i.e., the sum of the kinetic energy plus the relativistic energy mc²) to the energy of radiation in intergalactic space?
+
+3-7 THE "RUBBER BAND"
+
+A somewhat different utility of the thermodynamic formalism is illustrated by consideration of the physical properties of a rubber band; thermodynamics constrains and guides the construction of simple phenomenological models for physical systems.
+
+Let us suppose that we are interested in building a descriptive model for the properties of a rubber band. The rubber band consists of a bundle of long-chain polymer molecules. The quantities of macroscopic interest are the length L, the tension fr, the temperature T, and the energy U of the rubber band. The length plays a role analogous to the volume and the tension plays a role analogous to the negative pressure (fr = -P). An analogue of the mole number might be associated with the number of monomer units in the rubber band (but that number is not generally variable and it can be taken here as constant and suppressed in the analysis).
+
+A qualitative representation of experimental observations can be summarized in two properties. First, at constant length the tension increases with the temperature—a rather startling property which is in striking contrast to the behavior of a stretched metallic wire. Second, the energy is observed to be essentially independent of the length, at least for lengths shorter than the "elastic limit" of the rubber band (a length corresponding to the "unkinking" or straightening of the polymer chains).
+
+The simplest representation of the latter observation would be the equation U = cL (3.58)
+
+where c is a constant and L₀ (also constant) is the unstretched length of the rubber band. The linearity of the length with tension, between the unstretched length L₀ and the elastic limit length L₁ is represented by L - L₀ fr = bT (L - L₀), L₀ < L < L₁ (3.59)
+
+where b is a constant. The insertion of the factor T in this equation (rather than T² or some other function of T) is dictated by the thermodynamic condition of consistency of the two equations of state. That is, as in equation 3.46 ∂L/∂T = ∂/∂T (∂U/∂fr), (3.60)
+
+which dictates the linear factor T in equation (3.59). Then dU - fr dL = cL dT - bT L dL = c(L dT - T L dL/L) (3.61)
+
+and the fundamental equation correspondingly is S = c ln(T/T₀) + b(L₀ - L) (3.62)
+
+Although this fundamental equation has been constructed on the basis only of the most qualitative of information, it does represent empirical properties reasonably and, most important, consistently. The model illustrates the manner in which thermodynamics guides the scientist in elementary model building.
+
+A somewhat more sophisticated model of polymer elasticity will be derived by statistical mechanical methods in Chapter 15.
+
+## PROBLEMS
+
+3.7-1. For the rubber band model, calculate the fractional change in (L - L₀) that results from an increase δT in temperature, at constant tension. Express the result in terms of the length and the temperature.
+
+3.7-2. A rubber band is stretched by an amount dL, at constant T. Calculate the heat transfer dQ to the rubber band. Also calculate the work done. How are these related and why?
+
+3.7-3. If the energy of the unstretched rubber band were found to increase quadratically with T, so that equation 3.58 were to be replaced by U = cL T², would equation 3.59 require alteration? Again find the fundamental equation of the rubber band.
+
+3-8 UNCONSTRAINABLE VARIABLES; MAGNETIC SYSTEMS In the preceding sections we have seen examples of several specific systems, emphasizing the great diversity of types of systems to which thermodynamics applies and illustrating the constraints on analytic modeling of simple systems. In this section we give an example of a magnetic system. Here we have an additional purpose, for although the general structure of thermodynamics is represented by the examples already given, particular "idiosyncrasies" are associated with certain thermodynamic parameters. Magnetic systems are particularly prone to such individual peculiarities, and they well illustrate the special considerations that occasionally are required.
+
+In order to ensure magnetic homogeneity we focus attention on ellipsoidal samples in homogeneous external fields, with one symmetry axis of the sample parallel to the external field. For simplicity we assume no magnetocrystalline anisotropy, or, if such exists, that the "easy axis" lies parallel to the external field. Furthermore we initially consider only paramagnetic or diamagnetic systems—that is, systems in which the magnetization vanishes in the absence of an externally imposed magnetic field. In our eventual consideration of phase transitions we shall include the transition to the ferromagnetic phase, in which the system develops a spontaneous magnetization.
+
+As shown in Appendix B, the extensive parameter that characterizes the magnetic state is the magnetic dipole moment I of the system. The fundamental equation of the system is of the form U = U(S, V, I, N). In the more general case of an ellipsoidal sample that is not coaxial with the external field, the single parameter I would be replaced by the three cartesian coordinates of the magnetic moment: U(S, V, Iₓ, Iᵧ, I_z, N). The thermodynamic structure of the problem is most conveniently illustrated in the one-parameter case.
+
+The intensive parameter conjugate to the magnetic moment I is Bₑ, the external magnetic field that would exist in the absence of the system: Bₑ = (∂U/∂I)_{S,V,N} (3.63)
+
+The unit of Bₑ is the tesla (T), and the units of I are Joules/tesla (J/T).
+
+It is necessary to note a subtlety of definition implicit in these identifications of extensive and intensive parameters (see Appendix B). The energy U is here construed as the energy of the material system alone; in addition the "vacuum" occupied by the system must be assigned an energy ½μ₀B²ₑV, where μ₀, the permeability of free space, has the value μ₀ = 4π × 10⁻⁷ tesla-meters/ampere. Thus the total energy within the spatial region occupied by a system is U + ½μ₀B²ₑV. Whether the "vacuum term" in the energy is associated with the system or is treated separately (as we do) is a matter of arbitrary choice, but considerable confusion can arise if different conventions are not carefully distinguished. To repeat, the energy U is the change in energy within a particular region in the field when the material system is introduced; it excludes the energy ½μ₀B²ₑV of the region prior to the introduction of the system.
+
+The Euler relation for a magnetic system is now U = TS - PV + BₑI + μN (3.64)
+
+and the Gibbs-Duhem relation is S dT - V dP + I dBₑ + N dμ = 0 (3.65)
+
+An "idiosyncrasy" of magnetic systems becomes evident if we attempt to consider problems analogous to those of Sections 2.7 and 2.8—namely, the condition of equilibrium of two subsystems following the removal of a constraint. We soon discover that we do not have the capability of constraining the magnetic moment; in practice the magnetic moment is always unconstrained! We can specify and control the magnetic field applied to a sample (just as we can control the pressure), and we thereby can bring about a desired value of the magnetic moment. We can even hold that value of the magnetic moment constant by monitoring its value and by continually adjusting the magnetic field—again, just as we might keep the volume of a system constant by a feedback mechanism that continually adjusts the external pressure. But that is very different from simply enclosing the system in a restrictive wall. There exist no walls restrictive with respect to magnetic moment.
+
+Despite the fact that the magnetic moment is an unconstrainable variable, the over-all structure of thermodynamic theory still applies. The fundamental equation, the equations of state, the Gibbs-Duhem, and the Euler relations maintain their mutual relationships. The nonavailability of walls restrictive to magnetic moment can be viewed as a "mere experimental quirk," that does not significantly influence the applicability of thermodynamic theory.
+
+Finally, to anchor the discussion of magnetic systems in an explicit example, the fundamental equation of a simple paramagnetic model system is U = NR T [ln(sinh(I/N I₀)/(I/N I₀)) + (I/N I₀) coth(I/N I₀) - ln(N I₀)] + ½μ₀B²ₑV (3.66)
+
+where T₀ and I₀ are positive constants. This model does not describe any particular known system—it is devised to provide a simple, tractable model on which examples and problems can be based, and to illustrate characteristic thermomagnetic interactions. We shall leave it to the problems to explore some of these properties.
+
+With the magnetic case always in mind as a prototype for generalizations, we return to explicit consideration of simple systems.
+
+## PROBLEMS
+
+3.8-1. Calculate the three equations of state of the paramagnetic model of equation 3.66. That is, calculate T(S, I, N), Bₑ(S, I, N), and μ(S, I, N). (Note that the fundamental equation of this problem is independent of V, and that more generally there would be four equations of state.) Show that the three equations of state satisfy the Euler relation.
+
+3.8-2. Repeat Problem 3.8-1 for a system with the fundamental equation V = (N I²)/(2x) + N e^{2S/NR} where x and e are positive constants.
+
+3-9 MOLAR HEAT CAPACITY AND OTHER DERIVATIVES The first derivatives of the fundamental equation have been seen to have important physical significance. The 各种二阶导数描述了材料的性质，并且这些二阶导数通常是最直接的物理兴趣量。因此，我们展示了一些特别有用的二阶导数并说明其用途。在第7章中，我们将回头研究这类二阶导数的正式结构，证明只有少数是独立的，而所有其他的都可以通过一个系统的“简化方案”与这几个相关联。对于简单的非磁性系统，基本的导数集（许多其他导数可与之关联）只有三个。
+
+热膨胀系数定义为 (3.67)。热膨胀系数是在恒定压力（和恒定摩尔数）下，系统的体积相对于温度增加的分数变化率。
+
+等温压缩系数定义为 (3.68)。等温压缩系数是在恒定温度下，系统的体积相对于压力增加的分数减少率。
+
+恒压摩尔热容定义为 (3.69)。恒压摩尔热容是在恒定压力下，使系统的温度产生单位增加所需的准静态热流量（每摩尔）。
+
+对于恒定摩尔数的系统，所有其他的二阶导数都可以用这三个来表示，因此，这三个通常被列表为温度和压力的函数，适用于各种各样的材料。
+
+二阶导数之间关系的起源原则上在此时就可以理解，尽管我们将完整的探索推迟到第7章。也许最简单的关系是恒等式 (3.70)，它直接源自微积分的基本定理，即 U 对 V 和 S 的两个混合二阶偏导数相等：∂(∂U/∂V)_S / ∂S = ∂(∂U/∂S)_V / ∂V (3.71)。
+
+方程 (3.70) 中出现的两个量具有直接的物理意义，并且每个都可以被测量。(∂T/∂V)_S 量是与体积绝热膨胀相关的温度变化；(∂P/∂S)_V 量，当写为 T(∂P/∂Q)_V 时，是在恒定体积下向系统引入热量 dQ 所引起的压力变化与温度的乘积。这些明显不相关的量相等的预测是一个非平凡的结果；实际上是理论的第一个“胜利”。不用说，这个预测得到了实验证实。
+
+方程 3.70 在熵表示下的类比是 (3.72)，我们认识到这正是我们在方程 3.46 中寻找与范德华方程配对的热状态方程时所引用的恒等式。
+
+在第7章中，我们将相当详细地表明，这些等式是一类被称为麦克斯韦关系的普遍类比关系的原型。虽然麦克斯韦关系具有两个导数相等的简单形式，但它们本身是更一般定理的退化情况，该定理断言在任何四个导数之间必须存在一个关系。这些一般关系将允许在恒定 N 下的任何二阶导数用基本集 Cp, α 和 κ_T 来表示。
+
+为了说明这些预期的关系，我们首先引入两个具有实际意义的额外二阶导数；绝热压缩率 κ_S 和恒容摩尔热容 c_v。绝热压缩率定义为 κ_S = - (1/V) (∂V/∂P)_S = - (1/V) (∂V/∂P)_S (3.73)。这个量表征了与等熵压力增加（即系统绝热绝缘）相关的体积分数减少。
+
+恒容摩尔热容定义为 c_v = (∂U/∂T)_V = (∂Q/∂T)_V (3.74)，它测量在恒定体积下使系统的温度产生单位增加所需的准静态热流量（每摩尔）。
+
+在第7章中，我们将证明 (3.75) 和 TVα²/κ_T = Cp - c_v (3.76)。再次说明，我们这里的目的不是关注详细的 (3.75) 和 (3.76) 关系，而是引入 Cp, α 和 κ_T 的定义，提醒注意 Cp, α 和 κ_T 通常被列表为 T 和 P 的函数这一事实，并强调所有其他导数（如 c_v 和 κ_S）都可以与 Cp, α 和 κ_T 相关联。所有这些等式的系统性方法，以及在需要时回忆它们的记忆法，将在第7章中介绍。
+
+问题 3.9-6 特别推荐给学生。
+
+示例：对于某种特定材料，Cp, α 和 κ_T 被列表为 T 和 P 的函数。求摩尔体积 v 作为 T 和 P 的函数。
+
+解：我们考虑“T-P 平面”。量 Cp, α 和 κ_T 在平面上的所有点都是已知的，我们寻求在平面上的任意点计算 v(T, P)。那么 dv = (∂v/∂P)_T dP + (∂v/∂T)_P dT = -vκ_T dP + vα dT 或 dv/v = -κ_T dP + α dT。如果 (T₀, P₀) 是平面中选择的一个参考点，如果 (T', P') 是感兴趣的点，我们可以沿着所示路径（或任何其他方便的路径）进行积分。对于我们选择的路径，dT 项在路径的“水平”部分为零，dP 项在路径的“垂直”部分为零，因此 ∫v dv 从 v₀ 到 v' = ∫α(T, P₀) dT 从 T₀ 到 T' - ∫κ_T(T', P) dP 从 P₀ 到 P'，或 v'/v₀ = exp[∫α(T, P₀) dT 从 T₀ 到 T' - ∫κ_T(T', P) dP 从 P₀ 到 P']。参考点 (v₀) 处的摩尔体积值必须指定；然后我们才能将所有其他体积与这个体积相关联。
+
+习题
+
+3.9-1. a) 证明对于多组分简单理想气体，α = 1/T，κ_T = 1/P，κ_S = c_v / C_p，C_p = (c + 1)R。b) 对于单原子理想气体，c_v 的值是多少？c) 使用 (a) 中找到的值，验证方程 3.75 和 3.76。
+
+3.9-2. 为多组分简单理想气体验证方程 3.70，证明方程的左右两边都等于 -T/c_v（其中 c_v 在问题 3.9-1 中定义）。
+
+3.9-3. 对于具有范德华状态方程（方程 3.41）的系统，用 P 和 v 计算膨胀系数 α 和等温压缩率 κ_T。
+
+3.9-4. 对于问题 1.10-1(a) 中的系统，计算 C_p, c_v, κ_S 和 κ_T。用这些值验证方程 3.75 和 3.76 的有效性。
+
+3.9-5. 从方程 3.75 和 3.76 证明 C_p/c_v = κ_T/κ_S。
+
+3.9-6. 一个简单的基本方程，它展示了一些典型晶体固体的定性性质是：U = A exp[b(v - v₀)] S^{4/3} e^{-S/NR}，其中 A, b, v₀ 是正常数。a) 证明系统满足能斯特定理。b) 证明在低温下 c_v 与 T³ 成正比。这是通常观察到的（并且 P. Debye 通过统计力学分析进行了阐述，这将在第16章中发展）。c) 证明在高温下 c_v → 3k_B。这是“能量均分值”，在第16章中将通过统计力学分析进行论证。d) 证明在这个模型中，对于零压力，热膨胀系数消失——这是一个不正确的结果。提示：计算在 P = 0 时的 v 值。
+
+3.9-7. 汞在不同温度下的密度如下所示，单位为克/厘米³。-10°C: 13.6202，0°C: 13.5955，10°C: 13.5708，20°C: 13.5462，30°C: 13.5217，40°C: 13.4973，50°C: 13.4729，100°C: 13.3522，110°C: 13.3283，200°C: 13.1148，300°C: 12.8806，310°C: 12.8572。计算在 0°C、45°C、105°C 和 305°C 时的 α。如果玻璃的热膨胀系数被假定为严格恒定，汞玻璃温度计的茎部是否应该在相等的温度间隔处标记出相等的刻度？
+
+3.9-8. 对于某种特定材料，Cp, α 和 κ_T 可以在 T₀, P₀ 附近用幂级数经验表示如下：Cp = Cp⁰ + A_c' τ + B_c' τ² + D_cp p + E_cp p² + F_c' τp；α = α⁰ + A_α' τ + B_α' τ² + D_αp p + E_αp p² + F_α' τp；κ_T = κ⁰ + A_κ' τ + B_κ' τ² + D_κp p + E_κp p² + F_κ' τp，其中 τ = T - T₀；p = P - P₀。在 (T₀, P₀) 附近，将摩尔体积显式地表示为 T 和 P 的函数。
+
+3.9-9. 对于在 T₀ 附近的温度 T 和在 T₀ 附近的固定压力 P₀，计算摩尔熵 s(T, P₀)。假设 Cp, α 和 κ_T 在 (T₀, P₀) 附近如前一个问题中给出，并假设 s(T₀, P₀) 已知。
+
+3.9-10. 通过类比方程 3.70 和 3.71，证明对于顺磁系统，(∂T/∂B_e)_S = (∂M/∂S)_B_e，或者，反过来，T(∂M/∂T)_B_e = (∂S/∂B_e)_T。解释这种关系的物理意义。
+
+3.9-11. 通过类比方程 3.70 和 3.71，证明对于顺磁系统，(∂v/∂B_e)_S = - (∂M/∂P)_B_e。
+
+3.9-12. 摩尔热容 c_p 和 c_v 的磁类比是 c_B 和 c_M。计算方程 3.66 的顺磁模型的 c_B(T, B_e, N) 和 c_M(T, B_e, N)。（注意，对于这个模型，由于基本关系 (3.66) 中没有体积依赖性，不需要区分 c_M,V 和 c_M,P。一般来说，四种热容都存在且不同。）
+
+3.9-13. （等温）摩尔磁化率定义为 χ = (μ₀/N) (∂M/∂B_e)_T。证明方程 3.66 的顺磁模型的磁化率与温度成反比，并计算在 T ~ 1K 时 χ₀ 的值（定义为 χ 的值）。
+
+3.9-14. 计算绝热摩尔磁化率 χ_S = (μ₀/N) (∂M/∂B_e)_S，作为方程 3.66 的顺磁模型的 T 和 B_e 的函数。
+
+3.9-15. 对于具有基本方程 U = (1/2) N x B_e² + N e^{2S/NR} 的系统，计算问题 3.9-13 和 3.9-14 中定义的（等温和绝热）摩尔磁化率。这些量中的每一个如何与基本关系中出现的常数“x”相关联？
+
+3.9-16. 证明对于问题 3.8-2 的系统，(∂T/∂B_e)_S = (∂T/∂B_e)_P = (∂S/∂B_e)_P = (∂M/∂P)_B_e = 0。
+
+That is, there is no "coupling" between the thermal and magnetic properties. What is the (atypical) feature of the equation of state of this system that leads to these results?
+
+3.9-17. Calculate the heat transfer to a particular system if 1 mole is taken from (T₀, P₀) to (2T₀, 2P₀) along a straight line in the T-P plane. For this system it is known that: a(T, P) = a₀ * (P/P₀)^k, where a₀ is a constant cp(T, P) = ci, a constant Kr(T, P) = Ki, a constant Hint: Use the relation (∂a/∂P)T = -(∂v/∂T)P, analogous to equations 3.70 through 3.72 (and to be derived systematically in Chapter 7), to establish that dQ = Tds = cpdT - TvαdP.
+
+**REVERSIBLE PROCESSES AND THE MAXIMUM WORK THEOREM**
+
+**4-1 POSSIBLE AND IMPOSSIBLE PROCESSES**
+
+An engineer may confront the problem of designing a device to accomplish some specified task—perhaps to lift an elevator to the upper floors of a tall building. Accordingly the engineer contrives a linkage or "engine" that conditionally permits transfer of energy from a furnace to the elevator; if heat flows from the furnace then, by virtue of the interconnection of various pistons, levers, and cams, the elevator is required to rise. But "nature" (i.e., the laws of physics) exercises the crucial decision—will the proposition be accepted or will the device sit dormant and inactive, with no heat leaving the furnace and no rise in height of the elevator? The outcome is conditioned by two criteria. First, the engine must obey the laws of mechanics (including, of course, the conservation of energy). Second, the process must maximally increase the entropy.
+
+Patent registration offices are replete with failed inventions of impeccable conditional logic (if A occurs then B must occur)—ingenious devices that conform to all the laws of mechanics but that nevertheless sit stubbornly inert, in mute refusal to decrease the entropy. Others operate, but with unintended results, increasing the entropy more effectively than envisaged by the inventor.
+
+If, however, the net changes to be effected correspond to a maximal permissible increase in the total entropy, with no change in total energy, then no fundamental law precludes the existence of an appropriate process. It may require considerable ingenuity to devise the appropriate engine, but such an engine can be assumed to be permissible in principle.
+
+**Example 1** A particular system is constrained to constant mole number and volume, so that no work can be done on or by the system. Furthermore, the heat capacity of the system is C, a constant. The fundamental equation of the system, for constant volume, is S = S₀ + C ln(U/U₀), so U = CT.
+
+Two such systems, with equal heat capacities, have initial temperatures T₁₀ and T₂₀, with T₁₀ < T₂₀. An engine is to be designed to lift an elevator (i.e., to deliver work to a purely mechanical system), drawing energy from the two thermodynamic systems. What is the maximum work that can be so delivered?
+
+**Solution** The two thermal systems will be left at some common temperature T. The change in energy of the two thermal systems accordingly will be ΔU = 2CT - C(T₁₀ + T₂₀)
+
+and the work delivered to the mechanical system (the "elevator") will be W = -ΔU, or W = C(T₁₀ + T₂₀ - 2T)
+
+The change in total entropy will occur entirely in the two thermal systems, for which ΔS = C ln(T/T₁₀) + C ln(T/T₂₀) = 2C ln(T/√(T₁₀T₂₀))
+
+To maximize W we clearly wish to maximize T (cf. the second equation preceding), and by the third equation this dictates that we minimize ΔS. The minimum possible ΔS is zero, corresponding to a reversible process. Hence the optimum engine will be one for which T = √(T₁₀T₂₀)
+
+and W = C(T₁₀ + T₂₀ - 2√(T₁₀T₂₀))
+
+As a postscript, we note that the assumption that the two thermal systems are left at a common temperature is not necessary; W can be minimized with respect to T₁ and T₂ separately, with the same result. The simplifying assumption of a common temperature follows from a self-consistent argument, for if the final temperature were different we could obtain additional work by the method described.
+
+**Example 2** An interesting variant of Example 1 is one in which three bodies (each of the type described in Example 1, with U = CT) have initial temperatures of 300 K, 350 K, and 400 K, respectively. It is desired to raise one body to as high a temperature as possible, independent of the final temperatures of the other two (and without changing the state of any external system). What is the maximum achievable temperature of the single body?
+
+**Solution** Designate the three initial temperatures, measured in units of 100 K, as T₁, T₂, and T₃ (T₁ = 3, T₂ = 3.5, and T₃ = 4). Similarly, designate the high temperature achieved by one of the bodies (in the same units) as Tₕ. It is evident that the two remaining bodies will be left at the same temperature Tc (for if they were to be left at different temperatures we could extract work, as in Example 1, and insert it as heat to further raise the temperature of the hot body). Then energy conservation requires Tₕ + 2Tc = T₁ + T₂ + T₃ = 10.5
+
+The total entropy change is ΔS = C ln(T₁T₂T₃ / (Tc² Tₕ))
+
+and the requirement that this be positive implies Tc² Tₕ ≤ T₁T₂T₃ (= 42)
+
+Eliminating Tc by the energy conservation condition ( (10.5 - Tₕ)/2 )² Tₕ ≥ 42
+
+A plot of the left-hand side of this equation is shown. The plot is restricted to values of Tₕ between 0 and 10.5, the latter bound following from the energy conservation condition and the requirement that Tc be positive. The plot indicates that the maximum value of Tₕ, for which the ordinate is greater than 42, is Tₕ = 4.095 (or Tₕ = 409.5 K)
+
+and furthermore that this value satisfies the equality, and therefore corresponds to a reversible process.
+
+Another solution to this problem will be developed in Problem 4.6-7.
+
+**PROBLEMS**
+
+4.1-1. One mole of a monatomic ideal gas and one mole of an ideal van der Waals fluid (Section 3.5) with c = 3/2 are contained separately in vessels of fixed volumes v₁ and v₂. The temperature of the ideal gas is T₁ and that of the van der Waals fluid is T₂. It is desired to bring the ideal gas to temperature T₂, maintaining the total energy constant. What is the final temperature of the van der Waals fluid? What restrictions apply among the parameters (T₁, T₂, a, b, v₁, v₂) if it is to be possible to design an engine to accomplish this temperature inversion (assuming, as always, that no external system is to be altered in the process)?
+
+4.1-2. A rubber band (Section 3.7) is initially at temperature TB and length LB. One mole of a monatomic ideal gas is initially at temperature TC and volume VC. The ideal gas, maintained at constant volume V₀, is to be heated to a final temperature Tf. The energy required is to be supplied entirely by the rubber band. Need the length of the rubber band be changed, and, if so, by what amount?
+
+Answer: If ΔL = LB - Lf, ½(ΔL)² ≈ 2b⁻¹ ln(L/LB) + 2RTc⁻¹(TB - Tc) + 3Rb⁻¹(ΔL)/ln(Tc/Tf)
+
+4.1-3. Suppose the two systems in Example 1 were to have heat capacities of the form C(T) = DT^n, with n > 0: a) Show that for such systems U = U₀ + DT^(n+1)/(n + 1) and S = S₀ + DT^n/n. What is the fundamental equation of such a system?
+
+b) If the initial temperatures of the two systems were T₁₀ and T₂₀ what would be the maximum delivered work (leaving the two systems at a common temperature)?
+
+Answer: b) for n=2: W = (3D)^-1 [ T₁₀^(3/2) + T₂₀^(3/2) - ½^(3/2) (T₁₀ + T₂₀)^(3/2) ]
+
+**4-2 QUASI-STATIC AND REVERSIBLE PROCESSES**
+
+The central principle of entropy maximization spawns various theorems of more specific content when specialized to particular classes of processes. We shall turn our attention to such theorems after a preliminary refinement of the descriptions of states and of processes.
+
+To describe and characterize thermodynamic states, and then to describe possible processes, it is useful to define a thermodynamic configuration space. The thermodynamic configuration space of a simple system is an abstract space spanned by coordinate axes that correspond to the entropy S and to the extensive parameters U, V, N₁, …, Nr of the system. The fundamental equation of the system S = S(U, V, N₁, …, Nr) defines a surface in the thermodynamic configuration space, as indicated schematically in Fig. 4.1. It should be noted that the surface of Fig. 4.1 conforms to the requirements that (∂S/∂U)..., X... (= 1/T) be positive, and that U be a single valued function of S, ..., x, ....
+
+By definition, each point in the configuration space represents an equilibrium state. Representation of a nonequilibrium state would require a space of immensely greater dimension.
+
+The fundamental equation of a composite system can be represented by a surface in a thermodynamic configuration space with coordinate axes corresponding to the extensive parameters of all of the subsystems. For a composite system of two simple subsystems the coordinate axes can be associated with the total entropy S and the extensive parameters of the two subsystems. A more convenient choice is the total entropy S, the extensive parameters of the first subsystem (U⁽¹⁾, V⁽¹⁾, N₁⁽¹⁾, N₂⁽¹⁾, ...), and the extensive parameters of the composite system (U, V, N₁, N₂, ...). An appropriate section of the thermodynamic configuratio The state space of a composite system is sketched in Fig. 4.2.
+
+Consider an arbitrary curve drawn on the hypersurface of Fig. 4.3, from an initial state to a terminal state. Such a curve is known as a quasi-static locus or a quasi-static process. A quasi-static process is thus defined in terms of a dense succession of equilibrium states. It is to be stressed that a quasi-static process therefore is an idealized concept, quite distinct from a real physical process, for a real process always involves nonequilibrium intermediate states having no representation in the thermodynamic configuration space. Furthermore, a quasi-static process, in contrast to a real process, does not involve considerations of rates, velocities, or time. The quasi-static process simply is an ordered succession of equilibrium states, whereas a real process is a temporal succession of equilibrium and nonequilibrium states.
+
+Although no real process is identical to a quasi-static process, it is possible to contrive real processes that have a close relationship to quasi-static processes. In particular, it is possible to fit a system through a succession of states that coincides at any desired number of points with a given quasi-static locus. Thus consider a system originally in the state A of Fig. 4.3, and consider the quasi-static locus passing through the points A, B, C, ... , H. We remove a constraint which permits the system to proceed from A to B but not to points further along the locus. The system "disappears" from the point A and subsequently appears at B, having passed en route through nonrepresentable nonequilibrium states. If the constraint is further relaxed, making the state C accessible, the system disappears from B and subsequently reappears at C. Repetition of the operation leads the system to states D, E, ... , H. By such a succession of real processes we construct a process that is an approximation to the abstract quasi-static process shown in the figure. By spacing the points A, B, C, ... arbitrarily closely along the quasi-static locus we approximate the quasi-static locus arbitrarily closely.
+
+The identification of - P dV as the mechanical work and of T dS as the heat transfer is valid only for quasi-static processes.
+
+Consider a closed system that is to be led along the sequence of states A, B, C, ... , H approximating a quasi-static locus. The system is induced to go from A to B by the removal of some internal constraint. The closed system proceeds to B if (and only if) the state B has maximum entropy among all newly accessible states. In particular the state B must have higher entropy than the state A. Accordingly, the physical process joining states A and B in a closed system has unique directionality. It proceeds from the state A, of lower entropy, to the state B, of higher entropy, but not inversely. Such processes are irreversible.
+
+A quasi-static locus can be approximated by a real process in a closed system only if the entropy is monotonically nondecreasing along the quasi-static locus.
+
+The limiting case of a quasi-static process in which the increase in the entropy becomes vanishingly small is called a reversible process (Fig. 4.4). For such a process the final entropy is equal to the initial entropy, and the process can be traversed in either direction.
+
+## PROBLEMS
+
+4.2-1. Does every reversible process coincide with a quasi-static locus? Does every quasi-static locus coincide with a reversible process? For any real process starting in a state A and terminating in a state H, does there exist some quasi-static locus with the same two terminal states A and H? Does there exist some reversible process with the same two terminal states?
+
+4.2-2. Consider a monatomic ideal gas in a cylinder fitted with a piston. The walls of the cylinder and the piston are adiabatic. The system is initially in equilibrium, but the external pressure is slowly decreased. The energy change of the gas in the resultant expansion dV is dU = - P dV. Show, from equation 3.34, that dS = 0, so that the quasi-static adiabatic expansion is isentropic and reversible.
+
+4.2-3. A monatomic ideal gas is permitted to expand by a free expansion from V to V + dV (recall Problem 3.4-8). Show that dS = NR dV/V In a series of such infinitesimal free expansions, leading from V_i to V_f, show that Δs = NRln( V_f / V_i )
+
+Whether this atypical (and infamous) "continuous free expansion" process should be considered as quasi-static is a delicate point. On the positive side is the observation that the terminal states of the infinitesimal expansions can be spaced as closely as one wishes along the locus. On the negative side is the realization that the system necessarily passes through nonequilibrium states during each expansion; the irreversibility of the microexpansions is essential and irreducible. The fact that dS > 0 whereas dQ = 0 is inconsistent with the presumptive applicability of the relation dQ = T dS to all quasi-static processes. We define (by somewhat circular logic!) the continuous free expansion process as being "essentially irreversible" and non-quasi-static.
+
+4.2-4. In the temperature range of interest a system obeys the equations T = Av^(2/5)   P = -2Av ln(s/s_0)
+
+where A is a positive constant. The system undergoes a free expansion from v_0 to v_1 (with v_1 > v_0). Find the final temperature in terms of the initial temperature T_0, v_0, and v_1. Find the increase in molar entropy.
+
+4-3 RELAXATION TIMES AND IRREVERSIBILITY Consider a system that is to be led along the quasi-static locus of Fig. 4.3. The constraints are to be removed step by step, the system being permitted at each step to come to a new equilibrium state lying on the locus. After each slight relaxation of a constraint we must wait until the system fully achieves equilibrium, then we proceed with the next slight relaxation of the constraint and we wait again, and so forth. Although this is the theoretically prescribed procedure, the practical realization of the process seldom follows this prescription. In practice the constraints usually are relaxed continuously, at some "sufficiently slow" rate.
+
+The rate at which constraints can be relaxed as a system approximates a quasi-static locus is characterized by the relaxation time τ of the system. For a given system, with a given relaxation time τ, processes that occur in times short compared to τ are not quasi-static, whereas processes that occur in times long compared to τ can be approximately quasi-static.
+
+The physical considerations that determine the relaxation time can be illustrated by the adiabatic expansion of a gas (recall Problem 4.2-2). If the piston is permitted to move outward only extremely slowly the process is quasi-static (and reversible). If, however, the external pressure is decreased rapidly the resulting rapid motion of the piston is accompanied by turbulence and inhomogeneous flow within the cylinder (and by an entropy increase that "drives" these processes). The process is then neither quasi-static nor reversible. To estimate the relaxation time we first recognize that a slight outward motion of the piston reduces the density of the gas immediately adjacent to the piston. If the expansion is to be reversible this local "rarefaction" in the gas must be homogenized by hydrodynamic flow processes before the piston again moves appreciably. The rarefaction itself propagates through the gas with the velocity of sound, reflects from the walls of the cylinder, and gradually dissipates. The mechanism of dissipation involves both diffusive reflection from the walls and viscous damping within the gas. The simplest case would perhaps be that in which the cylinder walls are so rough that a single reflection would effectively dissipate the rarefaction pulse—admittedly not the common situation, but sufficient for our purely illustrative purposes. Then the relaxation time would be on the order of the time required for the rarefaction to propagate across the system, or τ ∼ V^(1/3) / c where the cube root of the volume is taken as a measure of the "length" of the system and c is the velocity of sound in the gas. If the adiabatic expansion of the gas in the cylinder is performed in times much longer than this relaxation time the expansion occurs reversibly and isentropically. If the expansion is performed in times comparable to or shorter than the relaxation time there is an irreversible increase in entropy within the system and the expansion, though adiabatic, is not isentropic.
+
+## PROBLEMS
+
+4.3-1. A cylinder of length L and cross-sectional area A is divided into two equal-volume chambers by a piston, held at the midpoint of the cylinder by a setscrew. One chamber of the cylinder contains N moles of a monatomic ideal gas at temperature T_0. This same chamber contains a spring connected to the piston and to the end-wall of the cylinder; the unstretched length of the spring is L/2, so that it exerts no force on the piston when the piston is at its initial midpoint position. The force constant of the spring is K_spring. The other chamber of the cylinder is evacuated. The setscrew is suddenly removed. Find the volume and temperature of the gas when equilibrium is achieved. Assume the walls and the piston to be adiabatic and the heat capacities of the spring, piston, and walls to be negligible.
+
+Discuss the nature of the processes that lead to the final equilibrium state. If there were gas in each chamber of the cylinder the problem as stated would be indeterminate! Why?
+
+4-4 HEAT FLOW: COUPLED SYSTEMS AND REVERSAL OF PROCESSES
+
+## REVERSAL OF PROCESSES
+
+Perhaps the most characteristic of all thermodynamic processes is the quasi-static transfer of heat between two systems, and it is instructive to examine this process with some care.
+
+In the simplest case we consider the transfer of heat dQ from one system at temperature T to another at the same temperature. Such a process is reversible, the increase in entropy of the recipient subsystem dQ/T being exactly counterbalanced by the decrease in entropy -dQ/T of the donor subsystem.
+
+In contrast, suppose that the two subsystems have different initial temperatures T10 and T20, with T10 < T20. Further, let the heat capacities (at constant volume) be C1(T) and C2(T). Then if a quantity of heat dQ is quasi-statically inserted into system I (at constant volume) the entropy increase is
+
+(4.1)
+
+and similarly for subsystem 2. If such infinitesimal transfers of heat from the hotter to the colder body continue until the two temperatures become equal, then energy conservation requires
+
+(4.2)
+
+which determines Tf. The resultant change in entropy is
+
+(4.3)
+
+In the particular case in which C1 and C2 are independent of T the energy conservation condition gives
+
+(4.4)
+
+and the entropy increase is
+
+(4.5)
+
+It is left to Problem 4.4-3 to demonstrate that this expression for ΔS is intrinsically positive.
+
+Several aspects of the heat transfer process deserve reflection.
+
+First, we note that the process, though quasi-static, is irreversible; it is represented in thermodynamic configuration space by a quasi-static locus of monotonically increasing S.
+
+Second, the process can be associated with the spontaneous flow of heat from a hot to a cold system providing (a) that the intermediate wall through which the heat flow occurs is thin enough that its mass (and hence its contribution to the thermodynamic properties of the system) is negligible, and (b) that the rate of heat flow is sufficiently slow (i.e., the thermal resistivity of the wall is sufficiently high) that the temperature remains spatially homogeneous within each subsystem.
+
+Third, we note that the entropy of one of the subsystems is decreased, whereas that of the other subsystem is increased. It is possible to decrease the entropy of any particular system, providing that this decrease is linked to an even greater entropy increase in some other system. In this sense an irreversible process within a given system can be "reversed"—with the hidden cost paid elsewhere.
+
+## PROBLEMS
+
+4.4-1. Each of two bodies has a heat capacity given, in the temperature range of interest, by C = A + BT where A = 8 J/K and B = 2 × 10^{-2} J/K^2. If the two bodies are initially at temperatures T10 = 400 K and T20 = 200 K, and if they are brought into thermal contact, what is the final temperature and what is the change in entropy?
+
+4.4-2. Consider again the system of Problem 4.4-1. Let a third body be available, with heat capacity C3 = BT and with an initial temperature of T30. Bodies 1 and 2 are separated, and body 3 is put into thermal contact with body 2. What must the initial temperature T30 be in order thereby to restore body 2 to its initial state? By how much is the entropy of body 2 decreased in this second process?
+
+4.4-3. Prove that the entropy change in a heat flow process, as given in equation 4.5, is intrinsically positive.
+
+4.4-4. Show that if two bodies have equal heat capacities, each of which is constant (independent of temperature), the equilibrium temperature achieved by direct thermal contact is the arithmetic average of the initial temperatures.
+
+4.4-5. Over a limited temperature range the heat capacity at constant volume of a particular type of system is inversely proportional to the temperature.
+
+a) What is the temperature dependence of the energy, at constant volume, for this type of system?
+
+b) If two such systems, at initial temperatures T10 and T20, are put into thermal contact what is the equilibrium temperature of the pair?
+
+4.4-6. A series of N + 1 large vats of water have temperatures T0, T1, T2, …, TN (with Tn > T_{n-1}). A small body with heat capacity C (and with a constant volume, independent of temperature) is initially in thermal equilibrium with the vat of temperature T0. The body is removed from this vat and immersed in the vat of temperature T1. The process is repeated until, after N steps, the body is in equilibrium with the vat of temperature TN. The sequence is then reversed, until the body is once again in the initial vat, at temperature T0. Assuming the ratio of temperatures of successive vats to be a constant, or T_{n}/T_{n-1} = constant, and neglecting the (small) change in temperature of any vat, calculate the change in total entropy as a) the body is successively taken "up the sequence" (from T0 to TN), and b) the body is brought back "down the sequence" (from TN to T0).
+
+What is the total change in entropy in the sum of the two sequences above?
+
+Calculate the leading nontrivial limit of these results as N → ∞, keeping T0 and TN constant. Note that for large N N(x^{1/N} - 1) ≈ ln x + (ln x)^2/(2N) + ···
+
+4-5 THE MAXIMUM WORK THEOREM
+
+The propensity of physical systems to increase their entropy can be channeled to deliver useful work. All such applications are governed by the maximum work theorem.
+
+Consider a system that is to be taken from a specified initial state to a specified final state. Also available are two auxiliary systems, into one of which work can be transferred, and into the other of which heat can be transferred. Then the maximum work theorem states that for all processes leading from the specified initial state to the specified final state of the primary system, the delivery of work is maximum (and the delivery of heat is minimum) for a reversible process. Furthermore the delivery of work (and of heat) is identical for every reversible process.
+
+The repository system into which work is delivered is called a "reversible work source." Reversible work sources are defined as systems enclosed by adiabatic impermeable walls and characterized by relaxation times sufficiently short that all processes within them are essentially quasi-static. From the thermodynamic point of view the "conservative" (nonfrictional) systems considered in the theory of mechanics are reversible work sources.
+
+The repository system into which heat is delivered is called a "reversible heat source." Reversible heat sources are defined as systems enclosed by rigid impermeable walls and characterized by relaxation times sufficiently short that all processes of interest within them are essentially quasi-static. If the temperature of the reversible heat source is T the transfer of heat dQ to the reversible heat source increases its entropy according to the quasi-static relationship dQ = T dS. The external interactions of a reversible heat source accordingly are fully described by its heat capacity C(T) (the definition of the reversible heat source implies that this heat capacity is at constant volume, but we shall not so indicate by an explicit subscript). The energy change of the reversible heat source is dU = dQ = C(T) dT and the entropy change is dS = [C(T)/T] dT. The various transfers envisaged in the maximum work theorem are indicated schematically in Fig. 4.5.
+
+The proof of the maximum work theorem is almost immediate. Consider two processes. Each leads to the same energy change ΔU and the same entropy change ΔS within the primary subsystem, for these are determined by the specified initial and final states. The two processes differ only in the apportionment of the energy difference (-ΔU) between the reversible work source and the reversible heat source (-ΔU = W_RWS + Q_RHS). But the process that delivers the maximum possible work to the reversible work source correspondingly delivers the least possible heat to the reversible heat source, and therefore leads to the least possible entropy increase of the reversible heat source (and thence of the entire system).
+
+The absolute minimum of ΔS_total, for all possible processes, is attained by any reversible process (for all of which ΔS_total = 0).
+
+To recapitulate, energy conservation requires ΔU + W_RWS + Q_RHS = 0. With ΔU fixed, to maximize W_RWS is to minimize Q_RHS. This is achieved by minimizing ΔS_RHS (since S_RHS increases monotonically with positive heat input Q_RHS). The minimum therefore is achieved by minimum ΔS_total, or by ΔS_total = 0.
+
+The foregoing "descriptive" proof can be cast into more formal language, and this is particularly revealing in the case in which the initial and final states of the subsystem are so close that all differences can be expressed as differentials. Then energy conservation requires dU + dQ_RHS + dW_RWS = 0 (4.6)
+
+whereas the entropy maximum principle requires dS = dS_total = dQ_RHS/T > 0 (4.7)
+
+It follows that (4.8)
+
+The quantities on the right-hand side are all specified. In particular dS and dU are the entropy and energy differences of the primary subsystem in the specified final and initial states. The maximum work transfer dW_RWS corresponds to the equality sign in equation 4.8, and therefore in equation 4.7 (dS_total = 0).
+
+It is useful to calculate the maximum delivered work which, from equation 4.8 and from the identity dU = dQ + dW, becomes dW_RWS (maximum) = (1 - T_RHS/T) dQ - dU = [1 - (T_RHS/T)](-dQ) + (-dW) (4.9)
+
+That is, i In an infinitesimal process, the maximum work that can be delivered to the reversible work source is the sum of: (a) the work (-dW) directly extracted from the subsystem, (b) a fraction (1 - TRHS/T) of the heat (-dQ) directly extracted from the subsystem.
+
+The fraction (1 - TRHS/T) of the extracted heat that can be "converted" to work in an infinitesimal process is called the thermodynamic engine efficiency, and we shall return to a discussion of that quantity in Section 4.5. However, it generally is preferable to solve maximum work problems in terms of an overall accounting of energy and entropy changes (rather than to integrate over the thermodynamic engine efficiency).
+
+Returning to the total (noninfinitesimal) process, the energy conservation condition becomes ΔUsubsystem + QRHS + WRWS = 0 (4.10)
+
+whereas the reversibility condition is ΔStotal = ΔSsubsystem + QRHS/TRHS = 0 (4.11)
+
+In order to evaluate the latter integral it is necessary to know the heat capacity CRHS(T) = dQRHS/dTRHS of the reversible heat source. Given CRHS(T) the integral can be evaluated, and one can then also infer the net heat transfer QRHS. Equation 4.10 in turn evaluates WRWS. Equations 4.10 and 4.11, evaluated as described, provide the solution of all problems based on the maximum work theorem.
+
+The problem is further simplified if the reversible heat source is a thermal reservoir. A thermal reservoir is defined as a reversible heat source that is so large that any heat transfer of interest does not alter the temperature of the thermal reservoir. Equivalently, a thermal reservoir is a reversible heat source characterized by a fixed and definite temperature. For such a system equation 4.11 reduces simply to ΔStotal = ΔSsubsystem + Qres/Tres = 0 (4.12)
+
+and Qres (= QRHS) can be eliminated between equations 4.10 and 4.12, giving WRWS = TresΔSsubsystem - ΔUsubsystem (4.13)
+
+Finally, it should be recognized that the specified final state of the subsystem may have a larger energy than the initial state. In that case the theorem remains formally true but the "delivered work" may be negative. This work which must be supplied to the subsystem will then be least (the delivered work remains algebraically maximum) for a reversible process.
+
+Example 1 One mole of an ideal van der Waals fluid is to be taken by an unspecified process from the state T0, v0 to the state T1, v1. A second system is constrained to have a fixed volume and its initial temperature is T20; its heat capacity is linear in the temperature C(T) = DT (D = constant)
+
+What is the maximum work that can be delivered to a reversible work source?
+
+Solution The solution parallels those of the problems in Section 4.1 despite the slightly different formulations. The second system is a reversible heat source; for it the dependence of energy on temperature is U(T) = ∫C(T)dT = (1/2)DT^2 + constant and the dependence of entropy on temperature is S(T) = ∫(C(T)/T)dT = D ln T + constant For the primary fluid system the dependence of energy and entropy on T and v is given in equations 3.49 and 3.51 from which we find ΔU = cR(T1 - T0) - a(1/v1 - 1/v0)
+
+ΔS = R ln((v1 - b)/(v0 - b)) + cR ln(T1/T0)
+
+The second system (the reversible heat source) changes temperature from T20 to some as yet unknown temperature T21, so that ΔU2 = (1/2)D(T21^2 - T20^2)
+
+and ΔS2 = D(T21 - T20)
+
+The value of T21 is determined by the reversibility condition ΔS1 + ΔS2 = R ln((v1 - b)/(v0 - b)) + cR ln(T1/T0) + D(T21 - T20) = 0 or T21 = T20 - (R/D) ln((v1 - b)/(v0 - b)) - (cR/D) ln(T1/T0)
+
+The conservation of energy then determines the work W delivered to the reversible work source W = -ΔU1 - ΔU2 whence W = -[(1/2)D(T21^2 - T20^2) + cR(T1 - T0) - a(1/v1 - 1/v0)]
+
+where we recall that T1 and v1 are given, whereas T21 has been found.
+
+An equivalent problem, but with a somewhat simpler system (a monatomic ideal gas and a thermal reservoir) is formulated in Problem 4.5-1.
+
+In each of these problems we do not commit ourselves to any specific process by which the result might be realized, but such a specific process is developed in Problem 4.5-2 (which, with 4.5-1, is strongly recommended to the reader).
+
+Example 2 Isotope Separation In the separation of U235 and U238 to produce enriched fuels for atomic power plants the naturally occurring uranium is reacted with fluorine to form uranium hexafluoride (UF6). The uranium hexafluoride is a gas at room temperature and atmospheric pressure. The naturally occurring mole fraction of U235 is 0.0072, or 0.72%. It is desired to process 10 moles of natural UF6 to produce 1 mole of 2% enriched material, leaving 9 moles of partially depleted material. The UF6 gas can be represented approximately as a polyatomic, multicomponent simple ideal gas with c = 7/2 (equation 3.40). Assuming the separation process to be carried out at a temperature of 300 K and a pressure of 1 atm, and assuming the ambient atmosphere (at 300 K) to act as a thermal reservoir, what is the minimum amount of work required to carry out the enrichment process? Where does this work (energy) ultimately reside?
+
+Solution The problem is an example of the maximum work theorem in which the minimum work required corresponds to the maximum work "delivered." The initial state of the system is 10 moles of natural UF6 at T = 300 K and P = 1 atm. The final state of the system is 1 mole of enriched gas and 9 moles of depleted gas at the same temperature and pressure. The cold reservoir is also at the same temperature.
+
+We find the changes of entropy and of energy of the system. From the fundamental equation (3.40) we find the equations of state to be the familiar forms U = 7/2 NRT PV = NRT These enable us to write the entropy as a function of T and Pt.
+
+S = Ns0 + NR ln(T/T0) - NR ln(P/P0) - NR Σxi ln xi This last term - the "entropy of mixing" as defined following equation 3.40 - is the significant term in the isotope separation process.
+
+We first calculate the mole fraction of U235 in the 9 moles of depleted material; this is found to be 0.578%. Accordingly the change in entropy is ΔS = -R[0.02 ln 0.02 + 0.98 ln 0.98] - 9R[0.00578 ln 0.00578 + 0.994 ln 0.994] + 10R[0.0072 ln 0.0072 + 0.9928 ln 0.9928]
+
+= -0.0081R = -0.067 J/K The gas ejects heat.
+
+There is no change in the energy of the gas, and all the energy supplied as work is transferred to the ambient atmosphere as heat. That work, or heat, is -WRWS = Qres = -TΔS = 300 × 0.067 = 20 J If there existed a semipermeable membrane, permeable to U235F6 but not to U238F6, the separation could be accomplished simply. Unfortunately no such membrane exists. The methods employed in practice are all dynamic (non-quasi-static) processes that exploit the small mass difference of the two isotopes - in ultracentrifuges, in mass spectrometers, or in gaseous diffusion.
+
+## PROBLEMS
+
+4.5-1. One mole of a monatomic ideal gas is contained in a cylinder of volume 10^-3 m^3 at a temperature of 400 K. The gas is to be brought to a final state of volume 2 × 10^-3 m^3 and temperature 400 K. A thermal reservoir of temperature 300 K is available, as is a reversible work source. What is the maximum work that can be delivered to the reversible work source?
+
+Answer: WRWS = 300 R ln 2 4.5-2. Consider the following process for the system of Problem 4.5-1. The ideal gas is first expanded adiabatically (and isentropically) until its temperature falls to 300 K; the gas does work on the reversible work source in this expansion. The gas is then expanded while in thermal contact with the thermal reservoir. And finally the gas is compressed adiabatically until its volume and temperature reach the specified values (2 × 10^-3 m^3 and 400 K).
+
+a) Draw the three steps of this process on a T-V diagram, giving the equation of each curve and labelling the numerical coordinates of the vertices.
+
+b) To what volume must the gas be expanded in the second step so that the third (adiabatic) compression leads to the desired final state?
+
+c) Calculate the work and heat transfers in each step of the process and show that the overall results are identical to those obtained by the general approach of Example 1.
+
+4.5-3. Describe how the gas of the preceding two problems could be brought to the desired final state by a free expansion. What are the work and heat transfers in this case? Are these results consistent with the maximum work theorem?
+
+4.5-4. The gaseous system of Problem 4.5-1 is to be restored to its initial state. Both states have temperature 400 K, and the energies of the two states are equal (U = 600 R). Need any work be supplied, and if so, what is the minimum supplied work? Note that the thermal reservoir of temperature 300 K remains accessible.
+
+4.5-5. If the thermal reservoir of Problem 4.5-1 were to be replaced by a reversible heat source having a heat capacity of the form C(T) = DT and an initial temperature of TRHS,0 = 300 K, again calculate the maximum delivered work.
+
+Before doing the calculation, would you expect the delivered work to be greater, equal to, or smaller than that calculated in Prob. 4.5-1? Why?
+
+4.5-6. A system can be taken from state A to state B (where SB = SA) either (a) directly along the adiabat S = constant, or (b) along the isochore AC and the isobar CB. The difference in the work done by the system is the area enclosed between the two paths in a P-V diagram. Does this contravene the statement that the work delivered to a reversible work source is the same for every reversible process? Explain!
+
+4.5-7. Consider the maximum work theorem in the case in which the specified final state of the subsystem has lower energy than the initial state. Then the essential logic of the theorem can be summarized as follows: "Extraction of heat from the subsystem decreases its entropy. Consequently a portion of the extracted heat must be sacrificed to a reversible heat source to effect a net increase in entropy; otherwise the process will not proceed."
+
+ceed. The remainder of the extracted heat is available as work." Similarly summarize the essential logic of the theorem in the case in which the final state of the subsystem has larger energy and larger entropy than the initial state.
+
+4.5-8. If SB < SA and VB > VA does this imply that the delivered work is negative? Prove your assertion assuming the reversible heat source to be a thermal reservoir. Does postulate III, which states that S is a monotonically increasing function of V, disbar the conditions assumed here? Explain.
+
+4.5-9. Two identical bodies each have constant and equal heat capacities (C = C = C, a constant). In addition a reversible work source is available. The initial temperatures of the two bodies are T10 and T20. What is the maximum work that can be delivered to the reversible work source, leaving the two bodies in thermal equilibrium? What is the corresponding equilibrium temperature? Is this the minimum attainable equilibrium temperature, and if so, why? What is the maximum attainable equilibrium temperature? For C = 8 J/K, T10= 100°C and T20 = 0°C calculate the maximum delivered work and the possible range of final equilibrium temperature.
+
+Answer: Tmin = 46°C, Tmax = 50°C, Wmax = C[~ - ~]2 = 62.2J
+
+4.5-10. Two identical bodies each have heat capacities (at constant volume) of C(T) = a/T. The initial temperatures are T10 and T20, with T20 > T10. The two bodies are to be brought to thermal equilibrium with each other (maintaining both volumes constant) while delivering as much work as possible to a reversible work source. What is the final equilibrium temperature and what is the maximum work delivered to the reversible work source? Evaluate your answer for T10 = T10 and for T10 = 2T10. Answer: W = a ln(9/8) if T20 = 2T10
+
+4.5-11. Two bodies have heat capacities (at constant volume) of C = aT, C = 2bT. The initial temperatures are T10 and T20, with T20 > T10. The two bodies are to be brought to thermal equilibrium (maintaining both volumes constant) while delivering as much work as possible to a reversible work source. What is the final equilibrium temperature and what is the (maximum) work delivered to the reversible work source?
+
+4.5-12. One mole of an ideal van der Waals fluid is contained in a cylinder fitted with a piston. The initial temperature of the gas is T, and the initial volume is v. A reversible heat source with a constant heat capacity C and with an initial temperature T is available. The gas is to be compressed to a volume of v0 and brought into thermal equilibrium with the reversible heat source. What is the maximum work that can be delivered to the reversible heat source and what is the final temperature?
+
+Answer: = [(~)R]1/(cR+C), cR, 1/v-b T,T0, 'f
+
+4.5-13. A system has a temperature-independent heat capacity C. The system is initially at temperature T, and a heat reservoir is available, at temperature T0, (with T0 < T). Find the maximum work recoverable as the system is cooled to the temperature of the reservoir.
+
+4.5-14. If the temperature of the atmosphere is 5°C on a winter day and if 1 kg of water at 90°C is available, how much work can be obtained as the water is cooled to the ambient temperature? Assume that the volume of the water is constant, and assume that the molar heat capacity at constant volume is 75 J/mole K and is independent of temperature. Answer: 45 X 10^3 J
+
+4.5-15. A rigid cylinder contains an internal adiabatic piston separating it into two chambers, of volumes V10 and V20. The first chamber contains one mole of a monatomic ideal gas at temperature T10. The second chamber contains one mole of a simple diatomic ideal gas (c = 5/2) at temperature T20. In addition a thermal reservoir at temperature T∞ is available. What is the maximum work that can be delivered to a reversible work source, and what are the corresponding volumes and temperatures of the two subsystems?
+
+4.5-16. Each of three identical bodies has a temperature-independent heat capacity C. The three bodies have initial temperatures T3 > T2 > T1. What is the maximum amount of work that can be extracted leaving the three bodies at a common final temperature?
+
+4.5-17. Each of two bodies has a heat capacity given by C = A + 2BT, where A = 8 J/K and B = 2 x 10^-2 J/K^2. If the bodies are initially at temperatures of 200 K and 400 K, and if a reversible work source is available, what is the minimum final common temperature to which the two bodies can be brought? If no work can be extracted from the reversible work source what is the maximum final common temperature to which the two bodies can be brought? What is the maximum amount of work that can be transferred to the reversible work source? Answer: Tmin= 293K
+
+4.5-18. A particular system has the equations of state T = As/v^(1/2) and P = T^2/(4Av), where A is a constant. One mole of this system is initially at a temperature T and volume V1. It is desired to cool the system to a temperature T2 while compressing it to volume Vf (Tf < T1; Vf < V1). A second system is available. It is initially at a temperature T0 (T0 < T2). Its volume is kept constant throughout, and its heat capacity is Cv = BT^(1/2) (B = constant). What is the minimum amount of work that must be supplied by an external agent to accomplish this goal?
+
+4.5-19. A particular type of system obeys the equations T = b/v and P = avT, where a and b are constants. Two such systems, each of 1 mole, are initially at temperatures T1 and T2 (with Ti > T1) and each has a volume v0. The systems are to be brought to a common temperature Tf, with each at the same final volume v1. The process is to be such as to deliver maximum work to a reversible work source. Coefficients of Engine, Refrigerator and Heat Pump Performance a) What is the final temperature Tf?
+
+b) How much work can be delivered? Express the result in terms of Ti, T2, v0, v1, and the constants a and b.
+
+4.5-20. Suppose that we have a system in some initial state (we may think of a tank of hot, compressed gas as an example) and we wish to use it as a source of work. Practical considerations require that the system be left finally at atmospheric temperature and pressure, in equilibrium with the ambient atmosphere. Show, first, that the system does work on the atmosphere, and that the work actually available for useful purposes is therefore less than that calculated by a straightforward application of the maximum work theorem. In engineering parlance this net available work is called the "availability".
+
+a) Show that the availability is given by Availability = {U + PatrV0 - TatmS0} - {Uf + PalmVf - TamSf}, where the subscript f denotes the final state, in which the pressure is Palm and the temperature is Tam.
+
+b) If the original system were to undergo an internal chemical reaction during the process considered, would that invalidate this formula for the availability?
+
+4.5-21. An antarctic meteorological station suddenly loses all of its fuel. It has N moles of an inert "ideal van der Waals fluid" at a high temperature Th and a high pressure Ph. The (constant) temperature of the environment is T0 and the atmospheric pressure is P0. If operation of the station requires a continuous power ℘, what is the longest conceivable time, tmax, that the station can operate? Calculate tmax in terms of Th, T0, Ph, P0, ℘, N and the van der Waals constants a, b, and c. Note that this is a problem in availability, as defined and discussed in Problem 4.5-20. In giving the solution it is not required that the molar volume vh be solved explicitly in terms of Th and Ph; it is sufficient simply to designate it as vh(Th, Ph) and similarly for v0(T0, P0).
+
+4.5-22. A "geothermal" power source is available to drive an oxygen production plant. The geothermal source is simply a well containing 10^3 m^3 of water, initially at 100°C; nearby there is a huge ("infinite") lake at 5°C. The oxygen is to be separated from air, the separation being carried out at 1 atm of pressure and at 20°C. Assume air to be 1/5 oxygen and 4/5 nitrogen (in mole fractions), and assume that it can be treated as a mixture of ideal gases. How many moles of O2 can be produced in principle (i.e., assuming perfect thermodynamic efficiency) before exhausting the power source?
+
+4-6 COEFFICIENTS OF ENGINE, REFRIGERATOR, AND HEAT PUMP PERFORMANCE As we saw in equations 4.6 and 4.7, in an infinitesimal reversible process involving a "hot" subsystem, a "cold" reversible heat source, and a reversible work source (dQh + dWh) + dQC + dWRWS= 0 (4.14) and ds + a T Q C= o (4.15), where we now indicate the "hot" system by the subscript h and the "cold" reversible heat source by the subscript c. In such a process the delivered work dWRws is algebraically maximum. This fact leads to criteria for the operation of various types of useful devices. The most immediately evident system of interest is a thermodynamic engine. Here the "hot subsystem" may be a furnace or a steam boiler whereas the "cold" reversible heat source may be the ambient atmosphere; or, for a large power plant, a river or lake. The measure of performance is the fraction of the heat (-dQh) withdrawn from the hot system that is converted to work dWRws. Taking aWh = 0 in equation 4.14 (it is simply additive to the delivered work in equation 4.9) we find the thermodynamic engine efficiency Ee. (4.16) The relationship of the various energy exchanges is indicated in Fig. 4.6a. For a subsystem of given temperature Th, the thermodynamic engine efficiency increases as Tc decreases. That is, the lower the temperature of the cold system (to which heat is delivered), the higher the engine efficiency. The maximum possible efficiency, Ee= 1, occurs if the temperature of the cold heat source is equal to zero. If a reservoir at zero temperature were available as a heat repository, heat could be freely and fully converted into work (and the world "energy shortage" would not exist!
+
+A refrigerator is simply a thermodynamic engine operated in reverse (Fig. 4.7b). The purpose of the device is to extract heat from the cold system and, with the input of the minimum amount of work, to eject that heat into the comparatively hot ambient atmosphere. Equations 4.14 and 4.15 remain true, but the coefficient of refrigerator performance represents the appropriate criterion for this device- the ratio of the heat removed from the refrigerator (the cold system) to the work that must be purchased from the power company. That is
+
+Er = (-dQc) / (-dWRws)    (4.17)
+
+If the temperatures Th and Tc are equal, the coefficient of refrigerator performance becomes infinite: no work is then required to transfer heat from one system to the other. The coefficient of performance becomes progressively smaller as the temperature Tc decreases relative to Th. And if the temperature Tc approaches zero, the coefficient of performance also approaches zero (assuming Th fixed). It therefore requires huge amounts of work to extract even trivially small quantities of heat from a system near Tc = 0.
+
+We now turn our attention to the heat pump. In this case we are interested in heating a warm system, extracting some heat from a cold system, and extracting some work from a reversible work source. In a practical case the warm system may be the interior of a home in winter, the cold system is the outdoors, and the reversible work source is again the power company. In effect, we heat the home by removing the door of a refrigerator and pushing it up to an open window. The inside of the refrigerator is exposed to the outdoors, and the refrigerator attempts (with negligible success) further to cool the outdoors. The heat extracted from this huge reservoir, together with the energy purchased from the power company, is ejected directly into the room from the cooling coils in the back of the refrigerator.
+
+The coefficient of heat pump performance EP is the ratio of the heat delivered to the hot system to the work extracted from the reversible work source.
+
+EP = dQh / (-dWRws)    (4.18)
+
+4.6-1. A temperature of 0.001 K is accessible in low temperature laboratories with moderate effort. If the price of energy purchased from the electric utility company is 15¢ /kW h what would be the minimum cost of extraction of one watt-hour of heat from a system at 0.001 K? The "warm reservoir" is the ambient atmosphere at 300 K.
+
+Answer: $45
+
+4.6-2. A home is to be maintained at 70°F, and the external temperature is 50°F. One method of heating the home is to purchase work from the power company and to convert it directly into heat: This is the method used in common electric room heaters. Alternatively, the purchased work can be used to operate a heat pump. What is the ratio of the costs if the heat pump attains the ideal thermodynamic coefficient of performance?
+
+4.6-3. A household refrigerator is maintained at a temperature of 35°F. Every time the door is opened, warm material is placed inside, introducing an average of 50 kcal, but making only a small change in the temperature of the refrigerator. The door is opened 15 times a day, and the refrigerator operates at 15% of the ideal coefficient of performance. The cost of work is 15¢ /kW h. What is the monthly bill for operating this refrigerator?
+
+4.6-4. Heat is extracted from a bath of liquid helium at a temperature of 4.2 K. The high-temperature reservoir is a bath of liquid nitrogen at a temperature of 77.3 K. How many Joules of heat are introduced into the nitrogen bath for each Joule extracted from the helium bath?
+
+4.6-5. Assume that a particular body has the equation of state U = NCT with NC= 10 J/K and assume that this equation of state is valid throughout the temperature range from 0.5 K to room temperature. How much work must be expended to cool this body from room temperature (300 K) to 0.5 K, using the ambient atmosphere as the hot reservoir?
+
+Answer: 16.2 kJ.
+
+4.6-6. One mole of a monatomic ideal gas is allowed to expand isothermally from an initial volume of 10 liters to a final volume of 15 liters, the temperature being maintained at 400 K. The work delivered is used to drive a thermodynamic refrigerator operating between reservoirs of temperatures 200 and 300 K. What is the maximum amount of heat withdrawn from the low-temperature reservoir?
+
+4.6-7. Give a "constructive solution" of Example 2 of Section 4.1. Your solution may be based on the following procedure for achieving maximum temperature of the hot body. A thermodynamic engine is operated between the two cooler bodies, extracting work until the two cooler bodies reach a common temperature. This work is then used as the input to a heat pump, extracting heat from the cooler pair and heating the hot body. Show that this procedure leads to the same result as was obtained in the example.
+
+4.6-8. Assume that 1 mole of an ideal van der Waals fluid is expanded isothermally, at temperature Th, from an initial volume Vi to a final volume Vf. A thermal reservoir at temperature Tc is available. Apply equation 4.9 to a differential process and integrate to calculate the work delivered to a reversible work source. Corroborate by overall energy and entropy conservation.
+
+Hint: Remember to add the direct work transfer P dV to obtain the total work delivered to the reversible work source (as in equation 4.9).
+
+4.6-9. Two moles of a monatomic ideal gas are to be taken from an initial state (Pi, Vi) to a final state (Pf = BPi, Vf = Vi/B), where B is a constant. A reversible work source and a thermal reservoir of temperature Tc are available. Find the maximum work that can be delivered to the reversible work source.
+
+Given values of B, Pi, and Tc, for what values of Vi is the maximum delivered work positive?
+
+4.6-10. Assume the process in Problem 4.6-9 to occur along the locus P = BV², where B = PVi². Apply the thermodynamic engine efficiency to a differential process and integrate to corroborate the result obtained in Problem 4.6-9. Recall the hint given in Problem 4.6-8.
+
+4.6-11. Assume the process in Problem 4.6-9 to occur along a straight-line locus in the T-V plane. Integrate along this locus and again corroborate the results of Problems 4.6-9 and 4.6-10.
+
+4-7 THE CARNOT CYCLE
+
+Throughout this chapter we have given little attention to specific processes, purposefully stressing that the delivery of maximum work is a general attribute of all reversible processes. It is useful nevertheless to consider briefly one particular type of process-the "Carnot cycle" -both because it elucidates certain general features and because this process has played a critically important role in the historical development of thermodynamic theory.
+
+A system is to be taken from a particular initial state to a given final state while exchanging heat and work with reversible heat and work sources. To describe a particular process it is not sufficient merely to describe the path of the system in its thermodynamic configuration space. The critical features of the process concern the manner in which the extracted heat and work are conveyed to the reversible heat and work sources. For that purpose auxiliary systems may be employed. The auxiliary systems are the "tool" or "devices" used to accomplish the task at hand, or, in a common terminology, they constitute the physical engines by which the process is effected.
+
+Any thermodynamic system-a gas in a cylinder and piston, a magnetic substance in a controllable magnetic field, or certain chemical systems-can be employed as the auxiliary system. It is only required that the auxiliary system be restored, at the end of the process, to its initial state; the auxiliary system must not enter into the overall energy or entropy accounting. It is this cyclic nature of the process within the auxiliary system that is reflected in the name of the Carnot "cycle."
+
+For clarity we temporarily assume that the primary system and the reversible heat source are each thermal reservoirs, the primary system being a "hot reservoir" and the reversible heat source being a "cold reservoir"; this restriction merely permits us to consider finite heat and work transfers rather than infinitesimal transfers.
+
+The Carnot cycle is accomplished in four steps, and the changes of the temperature and the entropy of the auxiliary system are plotted for each of these steps in Fig. 4.7.
+
+1. The auxiliary system, originally at the same temperature as the primary system (the hot reservoir), is placed in contact with that reservoir and with the reversible work source. The auxili A auxiliary system is then caused to undergo an isothermal process by changing some convenient extensive parameter; if the auxiliary system is a gas it may be caused to expand isothermally, if it is a magnetic system its magnetic moment may be decreased isothermally, and so forth. In this process a flux of heat occurs from the hot reservoir to the auxiliary system, and a transfer of work (∫P dV or its magnetic or other analogue) occurs from the auxiliary system to the reversible work source. This is the isothermal step A→B, in Fig. 4.7.
+
+2. The auxiliary system, now in contact only with the reversible work source, is adiabatically expanded (or adiabatically demagnetized, etc.) until its temperature falls to that of the cold reservoir. A further transfer of work occurs from the auxiliary system to the reversible work source. The quasi-static adiabatic process occurs at constant entropy of the auxiliary system, as in B→C of Fig. 4.7.
+
+3. The auxiliary system is isothermally compressed while in contact with the cold reservoir and the reversible work source. This compression is continued until the entropy of the auxiliary system attains its initial value. During this process there is a transfer of work from the reversible work source to the auxiliary system, and a transfer of heat from the auxiliary system to the cold reservoir. This is the step C→D, in Fig. 4.7.
+
+4. The auxiliary system is adiabatically compressed and receives work from the reversible work source. The compression brings the auxiliary system to its initial state and completes the cycle. Again the entropy of the auxiliary system is constant, from D to A in Fig. 4.7.
+
+The heat withdrawn from the primary system (the hot reservoir) in process 1 is ThΔS, and the heat transferred to the cold reservoir in process 3 is TcΔS. The difference (Th - Tc)ΔS is the net work transferred to the reversible work source in the complete cycle. On the T-S diagram of Fig. 4.7 the heat ThΔS withdrawn from the primary system is represented by the area bounded by the four points labeled ABs_Bs_A, the heat ejected to the cold reservoir is represented by the area CDs_Ds_C and the net work delivered is represented by the area ABCD. The coefficient of performance is the ratio of the area ABCD to the area ABs_Bs_A or (Th - Tc)/Tc.
+
+The Carnot cycle can be represented on any of a number of other diagrams, such as a P-V diagram or a T-V diagram. The representation on a P-V diagram is indicated in Fig. 4.7. The precise form of the curve BC, representing the dependence of P on V in an adiabatic (isentropic) process, would follow from the equation of state P = P(S, V, N) of the auxiliary system.
+
+If the hot and cold systems are merely reversible heat sources, rather than reservoirs, the Carnot cycle must be carried out in infinitesimal steps. The heat withdrawn from the primary (hot) system in process 1 is then Th dS rather than ThΔS, and similarly for the other steps. There is clearly no difference in the essential results, although Th and Tc are continually changing variables and the net evaluation of the process requires an integration over the differential steps.
+
+It should be noted that real engines never attain ideal thermodynamic efficiency. Because of mechanical friction, and because they cannot be operated so slowly as to be truly quasi-static, they seldom attain more than 30 or 40% thermodynamic efficiency. Nevertheless, the upper limit on the efficiency, set by basic thermodynamic principles, is an important factor in engineering design. There are other factors as well, to which we shall return in Section 4.9.
+
+Example N moles of a monatomic ideal gas are to be employed as the auxiliary system in a Carnot cycle. The ideal gas is initially in contact with the hot reservoir, and in the first stage of the cycle it is expanded from volume VA to volume VB.4 Calculate the work and heat transfers in each of the four steps of the cycle, in terms of Th, Tc, VA, VB, and N. Directly corroborate that the efficiency of the cycle is the Carnot efficiency.
+
+Solution The data are given in terms of T and V; we therefore express the entropy and energy as functions of T, V, and N.
+
+S = N s0 + NR ln( (T/T0)^(3/2) (V0/V) )
+
+U = (3/2) N R T
+
+Then in the isothermal expansion at temperature Th ΔSAB = SB - SA = NR ln( VB/VA ) and ΔUAB = 0 whence QAB = Th ΔSAB = NR Th ln( VB/VA )
+
+and WAB = - NR Th ln( VB/VA )
+
+In the second step of the cycle the gas is expanded adiabatically until the temperature falls to Tc, the volume meanwhile increasing to VC. From the equation for S, we see that T V^(2/3) = constant, and VA^(2/3) Th = VC^(2/3) Tc and QBC = 0 WBC = ΔUBC = (3/2) N R (Tc - Th)
+
+In the third step the gas is isothermally compressed to a volume VD. This volume must be such that it lies on the same adiabat as VA (see Fig. 4.7), so that VD^(2/3) Tc = VA^(2/3) Th Then, as in step 1, QCD = Tc ΔSCD = Tc NR ln( VD/VC )
+
+and WCD = - Tc NR ln( VD/VC )
+
+Finally, in the adiabatic compression QDA = 0 and WDA = ΔUDA = (3/2) N R (Th - Tc)
+
+From these results we obtain η = (|WAB| + |WCD|) / (|WAB| + |WBC| + |WCD| + |WDA|) = 1 - Tc/Th which is the expected Carnot efficiency.
+
+## PROBLEMS
+
+4.7-1. Repeat the calculation of Example 5 assuming the "working substance" of the auxiliary system to be 1 mole of an ideal van der Waals fluid rather than of a monatomic ideal gas (recall Section 3.5).
+
+4.7-2. Calculate the work and heat transfers in each stage of the Carnot cycle for the auxiliary system being an "empty" cylinder (containing only electromagnetic radiation). The first step of the cycle is again specified to be an expansion from VA to VB. All results are to be expressed in terms of VA, VB, Th, and Tc. Show that the ratio of the total work transfer to the first-stage heat transfer agrees with the Carnot efficiency.
+
+4.7-3. A "primary subsystem" in the initial state A is to be brought reversibly to a specified final state B. A reversible work source and a thermal reservoir at temperature Tr are available, but no "auxiliary system" is to be employed. Is it possible to devise such a process? Prove your answer. Discuss Problem 4.5-2 in this context.
+
+4.7-4. The fundamental equation of a particular fluid is UN: V, = A(S - R)³, where A = 2 × 10⁻² (K³m³/J³). Two moles of this fluid are used as the auxiliary system in a Carnot cycle, operating between two thermal reservoirs at temperature 100°C and 0°C. In the first isothermal expansion 10⁶ J is extracted from the high-temperature reservoir. Find the heat transfer and the work transfer for each of the four processes in the Carnot cycle. Calculate the efficiency of the cycle directly from the work and heat transfers just computed. Does this efficiency agree with the theoretical Carnot efficiency? Hint: Carnot cycle problems generally are best discussed in terms of a T-S diagram for the auxiliary system.
+
+4.7-5. One mole of the "simple paramagnetic model system" of equation 3.66 is to be used as the auxiliary system of a Carnot cycle operating between reservoirs of temperature Th and Tc. The auxiliary system initially has a magnetic moment I, and is at temperature Th. By decreasing the external field while the system is in contact with the high temperature reservoir, a quantity of heat Q1 is absorbed from the reservoir; the system meanwhile does work (-W1) on the reversible work source (i.e., on the external system that creates the magnetic field and thereby induces the magnetic moment). Describe each step in the Carnot cycle and calculate the work and heat transfer in each step, expressing each in terms of Th, Tc, Q1, and the parameters T0 and I0 appearing in the fundamental equation.
+
+4.7-6. Repeat Problem 4.7-4 using the "rubber band" model of Section 3.7 as the auxiliary system.
+
+MEASURABILITY OF THE TEMPERATURE AND OF THE ENTROPY 4-8 MEASURABILITY OF THE TEMPERATURE AND OF THE ENTROPY
+
+The Carnot cycle not only illustrates the general principle of reversible processes as maximum work processes, but it provides us with an operational method for measurements of temperature. We recall that the entropy was introduced merely as an abstract function, the maxima of which determine the equilibrium states. The temperature was then defined in terms of a partial derivative of this function. It is clear that such a definition does not provide a direct recipe for an operational measurement of the temperature and that it is necessary therefore for such a procedure to be formulated explicitly.
+
+In our discussion of the efficiency of thermodynamic engines we have seen that the efficiency of an engine working by reversible processes between two systems, of temperatures Th and Tc, is η = (Th - Tc) / Th The thermodynamic engine efficiency is defined in terms of fluxes of heat and work and is consequently operationally measurable. Thus a Carnot cycle provides us with an operational method of measuring the ratio of two temperatures.
+
+Unfortunately, real processes are never truly quasi-static, so that real engines never quite exhibit the theoretical engine efficiency. Therefore, the ratio of two given temperatures must actually be determined in terms of the limiting maximum efficiency of all real engines, but this is a difficulty of practice rather than of principle.
+
+The statement that the ratio of temperatures is a measurable quantity is tantamount to the statement that the scale of temperature is determined within an arbitrary multiplicative constant. The temperature of some arbitrarily chosen standard system may be assigned at will, and the temperatures of all other systems are then uniquely determined, with values directly proportional to the chosen temperature of the fiducial system.
+
+The choice of a standard system, and the arbitrary assignment of some definite temperature to it, has been discussed in Section 2.6. We recall that the assignment of the number 273.16 to a system of ice, water, and vapor in mutual equilibrium leads to the absolute Kelvin scale of temperature. A Carnot cycle operating between this system and another system determines the ratio of the second temperature to 273.16 K and consequently determines the second temperature on the absolute Kelvin scale. Having demonstrated that the temperature is operationally measurable we are able almost trivially to corroborate that the entropy too is measurable. The ability to measure the entropy underlies the utility of the entire thermodynamic formalism. It is also of particular interest because of the somewhat abstract nature of the entropy concept.
+
+The method of measurement to be described yields only entropy differences, or relative entropies—these differences are then converted to absolute entropies by Postulate IV—the "Nernst postulate" (Section 1.10).
+
+Consider a reversible process in a composite system, of which the system of interest is a subsystem. The subsystem is taken from some reference state (T0, P0) to the state of interest (T1, P1) by some path in the plane. The change in entropy is (4.20)
+
+∫[(∂s/∂P)_T dT + (∂s/∂T)_P dP]
+
+= ∫[ (1/T)(∂P/∂T)_s ] dT + (1/T) dP (4.21)
+
+from (T0,P0) to (T1,P1)
+
+Equation 4.21 follows from the elementary identity A.22 of Appendix A. Equation 4.22 is less obvious, though the general methods to be developed in Chapter 7 will reduce such transformations to a straightforward procedure; an elementary but relatively cumbersome procedure is suggested in Problem 4.8-1.
+
+Now each of the factors in the integrand is directly measurable; the factor (∂P/∂T)_s requires only a measurement of pressure and temperature changes for a system enclosed by an adiabatic wall. Thus, the entropy difference of the two arbitrary states (T0, P0) and (T1, P1) is obtainable by numerical integration of measurable data.
+
+## PROBLEMS
+
+4.8-1. To corroborate equation 4.22 show that (∂s/∂v)_T = (∂P/∂T)_v First consider the right-hand side, and write generally that dT = u ds + u_v dv so that (∂T/∂v)_s = - (∂T/∂s)_v (∂P/∂T)_v Similarly show that (∂s/∂v)_T = (∂P/∂T)_v, establishing the required identity.
+
+4-9 OTHER CRITERIA OF ENGINE PERFORMANCE; POWER OUTPUT AND "ENDOREVERSIBLE ENGINES"
+
+As we have remarked earlier, maximum efficiency is not necessarily the primary concern in design of a real engine. Power output, simplicity, low initial cost, and various other considerations are also of importance, and, of course, these are generally in conflict. An informative perspective on the criteria of real engine performance is afforded by the "endoreversible engine problem." 5
+
+Let us suppose once again that two thermal reservoirs exist, at temperatures Th and Tc, and that we wish to remove heat from the high-temperature reservoir, delivering work to a reversible work source. We now know that the maximum possible efficiency is obtained by any reversible engine. However, considerations of the operation of such an engine immediately reveals that its power output (work delivered per unit time) is atrocious. Consider the very first stage of the process, in which heat is transferred to the system from the hot reservoir. If the working fluid of the engine is at the same temperature as the reservoir no heat will flow; whereas if it is at a lower temperature the heat flow process (and hence the entire cycle) becomes irreversible. In the Carnot engine the temperature difference is made "infinitely small," resulting in an "infinitely slow" process and an "infinitely small" power output.
+
+To obtain a nonzero power output the extraction of heat from the high-temperature reservoir and the insertion of heat into the low-temperature reservoir must each be done irreversibly.
+
+An endoreversible engine is defined as one in which the two processes of heat transfer (from and to the heat reservoirs) are the only irreversible processes in the cycle.
+
+To analyze such an engine we assume, as usual, a high-temperature thermal reservoir at temperature Th, a low-temperature thermal reservoir at temperature Tc, and a reversible work source. We assume the isothermal strokes of the engine cycle to be at Tw (w designating "warm") and Tt (t designating "tepid"), with Th > Tw > Tt > Tc. Thus heat flows from the high-temperature reservoir to the working fluid across a temperature difference of Th - Tw, as indicated schematically in Fig. 4.8. Similarly, in the heat rejection stroke of the cycle the heat flows across the temperature difference Tt - Tc.
+
+5F. L. Curzon and B. Ahlborn, Amer. J. Phys 43, 22 (1975). See also M. H. Rubin, Phys Rev A19, 1272 and 1279 (1979) (and references therein) for a sophisticated analysis and for further generalization of the theorem.
+
+FIGURE 4.8 The endoreversible engine cycle.
+
+Let us now suppose that the rate of heat flow from the high-temperature reservoir to the system is proportional to the temperature difference Th - Tw. If th is the time required to transfer an amount Qh of energy, then Qh = σh (Th - Tw) th (4.23)
+
+where σh is the conductance (the product of the thermal conductivity times the area divided by the thickness of the wall between the hot reservoir and the working fluid). A similar law holds for the rate of heat flow to the cold reservoir. Therefore the time required for the two isothermal strokes of the engine is t = Qh / [σh (Th - Tw)] + Qc / [σc (Tt - Tc)]
+
+(4.24)
+
+We assume the time required for the two adiabatic strokes of the engine to be negligible relative to (th + tc), as these times are limited by relatively rapid relaxation times within the working fluid itself. Furthermore the relaxation times within the working fluid can be shortened by appropriate design of the piston and cylinder dimensions, internal baffles, and the like.
+
+Now Qh, Qc, and the delivered work W are related by the Carnot efficiency of an engine working between the temperatures Tw and Tt, so that equation 4.24 becomes t = W / [σh (Th - Tw) (Tw/Tt - 1) ] + W / [σc (Tt - Tc) (1 - Tt/Tw) ]
+
+(4.25)
+
+The power output of the engine is W / t, and this quantity is to be maximized with respect to the two as yet undetermined temperatures Tw and Tt. The optimum intermediate temperatures are then found to be Tw = c (Th)^1/2 Tt = c (Tc)^1/2 (4.26)
+
+where c = [ (σh Th)^1/2 + (σc Tc)^1/2 ] / [σh^{1/2} + σc^{1/2}]
+
+(4.27)
+
+and the optimum power delivered by the engine is W_max = σ σ (Th^{1/2} - Tc^{1/2})^2 (4.28)
+
+Let E_erp denote the efficiency of such an "endoreversible engine maximized for power"; for which we find E_erp = 1 - (Tc/Th)^{1/2} (4.29)
+
+Remarkably, the engine efficiency is not dependent on the conductances σh and σc!
+
+Large power plants are evidently operated close to the criterion for maximum power output, as Curzon and Ahlborn demonstrate by data on three power plants, as shown in Table 4.1.
+
+TABLE 4.1 Efficiencies of Power Plants as Compared with the Carnot Efficiency and with the Efficiency of an Endoreversible Engine Maximized for Power Output (E_erp). 6
+
+Power Plant | Tc (°C) | Th (°C) | E (Carnot) | E (observed) | E_erp --- | --- | --- | --- | --- | --- West Thurrock (U.K.) coal fired steam plant | 25 | 565 | 0.64 | 0.40 | 0.36 CANDU (Canada) PHW nuclear reactor | 25 | 300 | 0.48 | 0.28 | 0.30 Larderello (Italy) geothermal steam plant | 80 | 250 | 0.32 | 0.175 | 0.16
+
+6 From Curzon and Ahlborn.
+
+## PROBLEMS
+
+4.9-1. Show that the efficiency of an endoreversible engine, maximized for power output, is always less than E_Carnot. Plot the former efficiency as a function of the Carnot efficiency.
+
+4.9-2. Suppose the conductance σh ( = σc) to be such that 1 kW is transferred to the system (as heat flux) if its temperature is 50 K below that of the high-temperature reservoir. Assuming Th= 800 K and Tc = 300 K, calculate the maximum power obtainable from an endoreversible engine, and find the temperatures Tw and Tt for which such an engine should be designed.
+
+4.9-3. Consider an endoreversible engine for which the high-temperature reservoir is boiling water (100°C) and the cold reservoir is at room temperature (taken as 20°C). Assuming the engine is operated at maximum power, what is the ratio of the amount of heat withdrawn from the high-temperature reservoir (per kilowatt hour of delivered work) to that withdrawn by a Carnot engine? How much heat is withdrawn by each engine per kilowatt hour of delivered work?
+
+Answer: Ratio= 1.9
+
+4.9-4. Assume that one cycle of the engine of Problem 4.9-3 takes 20 s and that the conductance σh= σc = 100 W /K. How much work is delivered per cycle? Assuming the "control volume" (i.e., the auxiliary system) is a gas, driven through a Carnot cycle, plot a T-S diagram of the gas during the cycle. Indicate numerical values for each vertex of the diagram (note that one value of the entropy can be assigned arbitrarily).
+
+4-10 OTHER CYCLIC PROCESSES
+
+In addition to Carnot and endoreversible engines, various other engines are of interest as they conform more or less closely to the actual operation of commonplace practical engines.
+
+The Otto cycle (or, more precisely, the "air-standard Otto cycle") is a rough approximation to the operation of a gasoline engine. The cycle is shown in Fig. 4.9 in a V-S diagram. The working fluid (a mixture of air and gasoline vapor in the gasoline engine) is first compressed adiabatically (A - B). It is then heated at constant volume (B - C); this step crudely describes the combustion of the gasoline in the gasoline engine. In the third step of the cycle the working fluid is expanded adiabatically in the "power stroke" (C - D). Finally the working fluid is cooled isochorically to its initial state A.
+
+FIGURE 4.9 The Otto cycle.
+
+In a real gasoline engine the working fluid chemically reacts ("burns") during the process B - C; so that its mole number changes—an effect not represented in the Otto cycle. Furthermore the initial adiabatic compression is not quasi-static and therefore is certainly not isentropic. Nevertheless the idealized air-standard Otto cycle does provide a rough perspective for the analysis of gasoline eng In contrast to the Carnot cycle, the absorption of heat in step B-C of the idealized Otto cycle does not occur at constant temperature. Therefore the ideal engine efficiency is different for each infinitesimal step, and the over-all efficiency of the cycle must be computed by integration of the Carnot efficiency over the changing temperature. It follows that the efficiency of the Otto cycle depends upon the particular properties of the working fluid. It is left to the reader to corroborate that for an ideal gas with temperature independent heat capacities, the Otto cycle efficiency is (4.30)
+
+The ratio VA/V is called the compression ratio of the engine.
+
+The Brayton or Joule cycle consists of two isentropic and two isobaric steps. It is shown on a P-S diagram in Fig. 4.10. In a working engine air (and fuel) is compressed adiabatically (A-B), heated by fuel combustion at constant pressure (B-C), expanded (C-D), and rejected to the atmosphere. The process D-A occurs outside the engine, and a fresh charge of air is taken in to repeat the cycle. If the working gas is an ideal gas, with temperature independent heat capacities, the efficiency of a Brayton cycle is Ee=] (4.31)
+
+The air-standard diesel cycle consists of two isentropic processes, alternating with isochoric and isobaric steps. The cycle is represented in Fig. 4.11. After compression of the air and fuel mixture (A -> B), the fuel combustion occurs at constant pressure (B -> C). The gas is adiabatically expanded (C -> D) and then cooled at constant volume (D -> A).
+
+## PROBLEMS
+
+4.10-1. Assuming that the working gas is a monatomic ideal gas, plot a T-S diagram for the Otto cycle.
+
+4.10-2. Assuming that the working gas is a simple ideal gas (with temperature independent heat capacities), show that the engine efficiency of the Otto cycle is given by equation 4.30.
+
+4.10-3. Assuming that the working gas is a simple ideal gas (with temperature independent heat capacities), show that the engine efficiency of the Brayton cycle is given by equation 4.31.
+
+4.10-4. Assuming that the working gas is a monatomic ideal gas, plot a T-S diagram of the Brayton cycle.
+
+4.10-5. Assuming that the working gas is a monatomic ideal gas, plot a T-S diagram of the air-standard diesel cycle.
+
+ALTERNATIVE FORMULATIONS AND LEGENDRE TRANSFORMATIONS 5-1 THE ENERGY MINIMUM PRINCIPLE In the preceding chapters we have inferred some of the most evident and immediate consequences of the principle of maximum entropy. Further consequences will lead to a wide range of other useful and fundamental results. But to facilitate those developments it proves to be useful now to reconsider the formal aspects of the theory and to note that the same content can be reformulated in several equivalent mathematical forms.
+
+Each of these alternative formulations is particularly convenient in particular types of problems, and the art of thermodynamic calculations lies largely in the selection of the particular theoretical formulation that most incisively "fits" the given problem. In the appropriate formulation thermodynamic problems tend to be remarkably simple; the converse is that they tend to be remarkably complicated in an inappropriate formalism!
+
+Multiple equivalent formulations also appear in mechanics—Newtonian, Lagrangian, and Hamiltonian formalisms are tautologically equivalent. Again certain problems are much more tractable in a Lagrangian formalism than in a Newtonian formalism, or vice versa. But the difference in convenience of different formalisms is enormously greater in thermodynamics. It is for this reason that the general theory of transformation among equivalent representations is here incorporated as a fundamental aspect of thermostatistical theory.
+
+In fact we have already considered two equivalent representations—the energy representation and the entropy representation. But the basic extremum principle has been formulated only in the entropy representation. If these two representations are to play parallel roles in the theory we must find an extremum principle in the energy representation, analogous to the entropy maximum principle. There is, indeed, such an extremum principle; the principle of maximum entropy is equivalent to, and can be replaced by, a principle of minimum energy. Whereas the entropy maximum principle characterizes the equilibrium state as having maximum entropy for given total energy, the energy minimum principle characterizes the equilibrium state as having minimum energy for given total entropy.
+
+Figure 5.1 shows a section of the thermodynamic configuration space for a composite system, as discussed in Section 4.1. The axes labeled S and U correspond to the total entropy and energy of the composite system, and the axis labeled X<1> corresponds to a particular extensive parameter of the first subsystem. Other axes, not shown explicitly in the figure, are u<1>, X1, and other pairs xk, Xk.
+
+The total energy of the composite system is a constant determined by the closure condition. The geometrical representation of this closure condition is the requirement that the state of the system lie on the plane U = U in Fig. 5.1. The fundamental equation of the system is represented by the surface shown, and the representative point of the system therefore must be on the curve of intersection of the plane and the surface. If the parameter X<1> is unconstrained, the equilibrium state is the particular state that maximizes the entropy along the permitted curve; the state labeled A in Fig. 5.1.
+
+The alternative representation of the equilibrium state A as a state of minimum energy for given entropy is illustrated in Fig. 5.2. Through the equilibrium point A is passed the plane S = S0, which determines a curve of intersection with the fundamental surface. This curve consists of a family of states of constant entropy, and the equilibrium state A is the state that minimizes the energy along this curve.
+
+The equivalence of the entropy maximum and the energy minimum principles clearly depends upon the fact that the geometrical form of the fundamental surface is generally as shown in Fig. 5.1 and 5.2. As discussed in Section 4.1, the form of the surface shown in the figures is determined by the postulates that (∂S/∂U) > 0 and that U is a single-valued continuous function of S; these analytic postulates accordingly are the underlying conditions for the equivalence of the two principles.
+
+To recapitulate, we have made plausible, though we have not yet proved, that the following two principles are equivalent: Entropy Maximum Principle. The equilibrium value of any unconstrained internal parameter is such as to maximize the entropy for the given value of the total internal energy.
+
+Energy Minimum Principle. The equilibrium value of any unconstrained internal parameter is such as to minimize the energy for the given value of the total entropy.
+
+The proof of the equivalence of the two extremum criteria can be formulated either as a physical argument or as a mathematical exercise. We turn first to the physical argument, to demonstrate that if the energy were not minimum the entropy could not be maximum in equilibrium, and inversely.
+
+Assume, then, that the system is in equilibrium but that the energy does not have its smallest possible value consistent with the given entropy. We could then withdraw energy from the system (in the form of work) maintaining the entropy constant, and we could thereafter return this energy to the system in the form of heat. The entropy of the system would increase (dQ = T dS), and the system would be restored to its original energy but with an increased entropy. This is inconsistent with the principle that the initial equilibrium state is the state of maximum entropy! Hence we are forced to conclude that the original equilibrium state must have had minimum energy consistent with the prescribed entropy.
+
+The inverse argument, that minimum energy implies maximum entropy, is similarly constructed (see Problem 5.1-1).
+
+In a more formal demonstration we assume the entropy maximum principle (∂S/∂X)_U = 0 and ∂²X < 0 (5.1)
+
+where, for clarity, we have written X for X<1> and where it is implicit that all other X's are held constant throughout. Also, for clarity, we temporarily denote the first derivative (∂U/∂X)_S by P. Then (by equation A.22 of Appendix A)
+
+-T(∂S/∂X)_U = (5.2)
+
+We conclude that U has an extremum. To classify that extremum as a maximum, a minimum, or a point of inflection we must study the sign of the second derivative (∂²U/∂X²)_S = (∂P/∂X)_S. But considering P as a function of U and X we have (∂P/∂X)_S = (∂/∂X)[(∂U/∂X)_S] = (∂/∂X)[(∂U/∂X)_U + (∂U/∂S)_X (∂S/∂X)_U]
+
+(5.3)
+
+at P = 0 (5.4)
+
+-(∂/∂X)[(∂U/∂S)_X] = (5.5)
+
+(∂S/∂U)_X (∂²U/∂X²)_S - (∂S/∂X)_U (∂²U/∂X∂S) = - (∂/∂X)[(∂S/∂U)_X] / (∂S/∂U)_X = - (∂/∂X)[(∂S/∂U)_X] / (1/T) = -T (∂/∂X)[(∂S/∂U)_X] (5.6)
+
+(∂U/∂X)_S = (∂U/∂S)_X (∂S/∂X)_U = T (∂S/∂X)_U = 0 at (∂S/∂X)_U = 0 (5.7)
+
+so that U is a minimum. The inverse argument is identical in form.
+
+As already indicated, the fact that precisely the same situation is described by the two extremal criteria is analogous to the isoperimetric problem in geometry. Thus a circle may be characterized either as the two-dimensional figure of maximum area for given perimeter or, alternatively, as the two-dimensional figure of minimum perimeter for given area. The two alternative extremal criteria that characterize a circle are completely equivalent, and each applies to every circle. Yet they suggest two different ent ways of generating a circle. Suppose we are given a square and we wish to distort it continuously to generate a circle. We may keep its area constant and allow its bounding curve to contract as if it were a rubber band. We thereby generate a circle as the figure of minimum perimeter for the given area. Alternatively we might keep the perimeter of the given square constant and allow the area to increase, thereby obtaining a (different) circle, as the figure of maximum area for the given perimeter. However, after each of these circles is obtained each satisfies both extremal conditions for its final values of area and perimeter.
+
+The physical situation pertaining to a thermodynamic system is very closely analogous to the geometrical situation described. Again, any equilibrium state can be characterized either as a state of maximum entropy for given energy or as a state of minimum energy for given entropy. But these two criteria nevertheless suggest two different ways of attaining equilibrium. As a specific illustration of these two approaches to equilibrium, consider a piston originally fixed at some point in a closed cylinder. We are interested in bringing the system to equilibrium without the constraint on the position of the piston. We can simply remove the constraint and allow the equilibrium to establish itself spontaneously; the entropy increases and the energy is maintained constant by the closure condition. This is the process suggested by the entropy maximum principle. Alternatively, we can permit the piston to move very slowly, reversibly doing work on an external agent until it has moved to the position that equalizes the pressure on the two sides. During this process energy is withdrawn from the system, but its entropy remains constant (the process is reversible and no heat flows). This is the process suggested by the energy minimum principle. The vital fact we wish to stress, however, is that independent of whether the equilibrium is brought about by either of these two processes, or by any other process, the final equilibrium state in each case satisfies both extremal conditions.
+
+Finally, we illustrate the energy minimum principle by using it in place of the entropy maximum principle to solve the problem of thermal equilibrium, as treated in Section 2.4. We consider a closed composite system with an internal wall that is rigid, impermeable, and diathermal. Heat is free to flow between the two subsystems, and we wish to find the equilibrium state. The fundamental equation in the energy representation is All volume and mole number parameters are constant and known. The variables that must be computed are s<1 > and S(2). Now, despite the fact that the system is actually closed and that the total energy is fixed, the equilibrium state can be characterized as the state that would minimize the energy if energy changes were permitted. The virtual change in total energy associated with virtual heat fluxes in the two systems is dU = r<1>d s<1> + r< 2>d s<2> (5.9)
+
+The energy minimum condition states that dU = 0, subject to the condition of fixed total entropy: + = Constant (5.10)
+
+S(l) S(l)
+
+whence dU = (r<1> - r<2>)ds<1 > = 0 (5.11)
+
+and we conclude that r<1>= r<2> (5.12)
+
+The energy minimum principle thus provides us with the same condition of thermal equilibrium as we previously found by using the entropy maximum principle.
+
+Equation 5.12 is one equation in s<1> and s<2>. The second equation is most conveniently taken as equation 5.8, in which the total energy U is known and which consequently involves only the two unknown quantities s< 1> and S(2). Equations 5.8 and 5.12, in principle, permit a fully explicit solution of the problem.
+
+In a precisely analogous fashion the equilibrium condition for a closed composite system with an internal moveable adiabatic wall is found to be equality of the pressure. This conclusion is straightforward in the energy representation but, as was observed in the last paragraph of Section 2.7, it is relatively delicate in the entropy representation.
+
+## PROBLEMS
+
+5.1-1. Formulate a proof that the energy minimum principle implies the entropy maximum principle-the "inverse argument" referred to after equation 5.7. That is, show that if the entropy were not maximum at constant energy then the energy could not be minimum at constant entropy.
+
+Hint: First show that the permissible increase in entropy in the system can be exploited to extract heat from a reversible heat source (initially at the same temperature as the system) and to deposit it in a reversible work source. The reversible heat source is thereby cooled. Continue the argument.
+
+5.1-2. An adiabatic, impermeable and fixed piston separates a cylinder into two chambers of volumes V/4 and 3V/4. Each chamber contains 1 mole of a monatomic ideal gas. The temperatures are T,; and ~. the subscripts s and I referring to the small and large chambers, respectively.
+
+a) The piston is made thermally conductive and moveable, and the system relaxes to a new equilibrium state, maximizing its entropy while conserving its total energy. Find this new equilibrium state.
+
+b) Consider a small virtual change in the energy of the system, maintaining the entropy at the value attained in part (a). To accomplish this physically we can reimpose the adiabatic constraint and quasistatically displace the piston by imposition of an external force. Show that the external source of this force must do work on the system in order to displace the piston in either direction. Hence the state attained in part (a) is a state of minimum energy at constant entropy.
+
+c) Reconsider the initial state and specify how equilibrium can be established by decreasing the energy at constant entropy. Find this equilibrium state.
+
+d) Describe an operation that demonstrates that the equilibrium state attained in ( c) is a state of maximum entropy at constant energy.
+
+5-2 LEGENDRE TRANSFORMATIONS In both the energy and entropy representations the extensive parameters play the roles of mathematically independent variables, whereas the intensive parameters arise as derived concepts. This situation is in direct contrast to the practical situation dictated by convenience in the laboratory. The experimenter frequently finds that the intensive parameters are the more easily measured and controlled and therefore is likely to think of the intensive parameters as operationally independent variables and of the extensive parameters as operationally derived quantities. The extreme instance of this situation is provided by the conjugate variables entropy and temperature. No practical instruments exist for the measurement and control of entropy, whereas thermometers and thermostats, for the measurement and control of the temperature, are common laboratory equipment. The question therefore arises as to the possibility of recasting the mathematical formalism in such a way that intensive parameters will replace extensive parameters as mathematically independent variables. We shall see that such a reformulation is, in fact, possible and that it leads to various other thermodynamic representations.
+
+It is, perhaps, superfluous at this point to stress again that thermodynamics is logically complete and self-contained within either the entropy or the energy representations and that the introduction of the transformed representations is purely a matter of convenience. This is, admittedly, a convenience without which thermodynamics would be almost unusably awkward, but in principle it is still only a luxury rather than a logical necessity.
+
+The purely formal aspects of the problem are as follows. We are given an equation (the fundamental relation) of the form Y = Y(X 0, X., ... , Xi) (5.13)
+
+and it is desired to find a method whereby the derivatives (5.14)
+
+can be considered as independent variables without sacrificing any of the informational content of the given fundamental relation(5.13).This formal problem has its counterpart in geometry and in several other fields of physics. The solution of the problem, employing the mathematical technique of Legendre transformations, is most intuitive when given its geometrical interpretation; and it is this geometrical interpretation that we shall develop in this Section.
+
+For simplicity, we first consider the mathematical case in which the fundamental relation is a function of only a single independent variable X.
+
+Y = Y(X) (5.15)
+
+Geometrically, the fundamental relation is represented by a curve in a X FIGURE 5.3 space (Fig. 5.3) with cartesian coordinates X and Y, and the derivative (5.16)
+
+is the slope of this curve. Now, if we desire to consider P as an independent variable in place of X, our first impulse might be simply to eliminate X between equations 5.15 and 5.16, thereby obtaining Y as a function of P Y = Y(P) (5.17)
+
+A moment's reflection indicates, however, that we would sacrifice some of the mathematical content of the given fundamental relation (5.15) for, from the geometrical point of view, it is clear that knowledge of Y as a function of the slope dY / dX would not permit us to reconstruct the curve Y = Y( X). In fact, each of the displaced curves shown in Fig. 5.4 corresponds equally well to the relation Y = Y( P). From the analytical point of view the relation Y = Y( P) is a first-order differential equation, and its integration gives Y = Y( X) only to within an undetermined integration constant. Therefore we see that acceptance of Y = Y(P) as a basic equation in place of Y = Y( X) would involve the sacrifice of some information originally contained in the fundamental relation. Despite the X FIGURE 5.4 FIGURE 5.5 desirability of having P as a mathematically independent variable, this sacrifice of the informational content o f the formalism would be completely unacceptable.
+
+The practicable solution to the problem is supplied by the duality between conventional point geometry and the Pluecker line geometry. The essential concept in line geometry is that a given curve can be represented equally well either (a) as the envelope of a family of tangent lines (Fig. 5.5), or (b) as the locus of points satisfying the relation Y = Y(X). Any equation that enables us to construct the family of tangent lines therefore determines the curve equally as well as the relation Y = Y(X).
+
+Just as every point in the plane is described by the two numbers X and Y, so every straight line in the plane can be described by the two numbers P and ψ, where P is the slope of the line and ψ is its intercept along the Y-axis. Then just as a relation Y = Y(X) selects a subset of all possible points (X, Y), a relation ψ = ψ(P) selects a subset of all possible lines (P, ψ). A knowledge of the intercepts ψ of the tangent lines as a function of the slopes P enables us to construct the family of tangent lines and thence the curve of which they are the envelope. Thus the relation
+
+ψ = ψ(P) (5.18)
+
+is completely equivalent to the fundamental relation Y = Y(X). In this relation the independent variable is P, so that equation 5.18 provides a complete and satisfactory solution to the problem. As the relation ψ = ψ(P) is mathematically equivalent to the relation Y = Y(X), it can also be considered a fundamental relation; Y = Y(X) is a fundamental relation in the "Y-representation"; whereas ψ = ψ(P) is a fundamental relation in the "ψ-representation."
+
+The reader is urged at this point actually to draw a reasonable number of straight lines, of various slopes P and of various Y-intercepts ψ = -P². The relation ψ = -P² thereby will be seen to characterize a parabola (which is more conventionally described as Y = ¼X²). In ψ-representation the fundamental equation of the parabola is ψ = -P², whereas in Y-representation the fundamental equation of this same parabola is Y = ¼X².
+
+The question now arises as to how we can compute the relation ψ = ψ(P) if we are given the relation Y = Y(X). The appropriate mathematical operation is known as a Legendre transformation. We consider a tangent line that goes through the point (X, Y) and has a slope P. If the intercept is ψ, we have (see Fig. 5.6)
+
+(Y - ψ) / (X - 0) = P (5.19)
+
+or
+
+ψ = Y - PX (5.20)
+
+Let us now suppose that we are given the equation
+
+Y = Y(X) (5.21)
+
+and by differentiation we find
+
+P = P(X) (5.22)
+
+Then by elimination¹ of X and Y among equations 5.20, 5.21, and 5.22 we obtain the desired relation between ψ and P. The basic identity of the Legendre transformation is equation 5.20, and this equation can be taken as the analytic definition of the function ψ. The function ψ is referred to as a Legendre transform of Y.
+
+The inverse problem is that of recovering the relation Y = Y(X) if the relation ψ = ψ(P) is given. We shall see here that the relationship between (X, Y) and (P, ψ) is symmetrical with its inverse, except for a sign in the equation of the Legendre transformation. Taking the differential of equation 5.20 and recalling that dY = P dX, we find
+
+dψ = dY - PdX - XdP = -XdP (5.23)
+
+or
+
+-X = dψ / dP (5.24)
+
+If the two variables ψ and P are eliminated² from the given equation ψ = ψ(P) and from equations 5.24 and 5.20, we recover the relation Y = Y(X). The symmetry between the Legendre transformation and its inverse is indicated by the following schematic comparison:
+
+Y = Y(X) | ψ = ψ(P)
+
+P = dY / dX | -X = dψ / dP ψ = -PX + Y | Y = XP + ψ Elimination of X and Y yields | Elimination of P and ψ yields ψ = ψ(P) | Y = Y(X)
+
+The generalization of the Legendre transformation to functions of more than a single independent variable is simple and straightforward. In three dimensions Y is a function of X₀ and X₁ and the fundamental equation
+
+Y = Y(X₀, X₁) (5.25)
+
+represents a surface. This surface can be considered as the locus of points satisfying the fundamental equation Y = Y(X₀, X₁), or it can be considered as the envelope of tangent planes. A plane can be characterized by its intercept ψ₀ on the Y-axis and by the slopes P₀ and P₁ of its traces on the Y-X₀ and Y-X₁ planes. The fundamental equation then selects from all possible planes a subset described by ψ = ψ(P₀, P₁).
+
+In general the given fundamental relation
+
+Y = Y(X₀, X₁, ..., Xₙ) (5.25)
+
+represents a hypersurface in a (n + 2)-dimensional space with cartesian coordinates Y, X₀, X₁, ..., Xₙ. The derivative
+
+Pₖ = ∂Y / ∂Xₖ (5.26)
+
+is the partial slope of this hypersurface. The hypersurface may be equally well represented as the locus of points satisfying equation 5.25 or as the envelope of the tangent hyperplanes. The family of tangent hyperplanes can be characterized by giving the intercept of a hyperplane, ψ, as a function of the slopes P₀, P₁, ..., Pₙ. Then
+
+ψ = ψ(P₀, P₁, ..., Pₙ) (5.27)
+
+Taking the differential of this equation, we find
+
+dψ = Σₖ (∂ψ/∂Pₖ) dPₖ (5.28)
+
+whence
+
+-Xₖ = ∂ψ/∂Pₖ (5.29)
+
+A Legendre transformation is effected by eliminating Y and the Xₖ from Y = Y(X₀, X₁, ..., Xₙ), the set of equations 5.26, and equation 5.27. The inverse transformation is effected by eliminating ψ and the Pₖ from ψ = ψ(P₀, P₁, ..., Pₙ), the set of equations 5.29, and equation 5.27.
+
+Finally, a Legendre transformation may be made only in some (n + 2)-dimensional subspace of the full (n + 2)-dimensional space of the relation Y = Y(X₀, X₁, ..., Xₙ). Of course the subspace must contain the Y-coordinate but may involve any choice of n + 1 coordinates from the set X₀, X₁, ..., Xₙ. For convenience of notation, we order the coordinates so that the Legendre transformation is made in the subspace of the first n + 1 coordinates (and of Y); the coordinates Xₙ₊₁, Xₙ₊₂, ..., Xₘ are left untransformed. Such a partial Legendre transformation is effected merely by considering the variables Xₙ₊₁, Xₙ₊₂, ..., Xₘ as constants in the transformation. The resulting Legendre transform must be denoted by some explicit notation that indicates which of the independent variables have participated in the transformation. We employ the notation
+
+Y[P₀, P₁, ..., Pₙ]
+
+to denote the function obtained by making a Legendre transformation with respect to X₀, X₁, ..., Xₙ on the function Y(X₀, X₁, ..., Xₙ). Thus Y[P₀, P₁, ..., Pₙ] is a function of the independent variables P₀, P₁, ..., Pₙ, Xₙ₊₁, ..., Xₘ. The various relations involved in a partial Legendre transformation and its inverse are indicated in the following table.
+
+Y = Y(X₀, X₁, ..., Xₙ) | Y[P₀, P₁, ..., Pₙ] = function of P₀, P₁, ..., Pₙ, Xₙ₊₁, ..., Xₘ (5.30) | (5.30)
+
+-∂Y / ∂Xₖ = ∂Y[P₀, ..., Pₙ] / ∂Pₖ (k ≤ n) | (5.31)
+
+∂Y / ∂Xₖ = ∂Y[P₀, ..., Pₙ] / ∂Xₖ (k > n) | (5.31)
+
+The partial differentiation on the left denotes constancy of all the natural variables of Y other than Xₖ (i.e., of all Xⱼ with j ≠ k) that with respect to which the differentiation is being carried out. The partial differentiation on the right denotes constancy of all the natural variables of Y(P₀, ..., Pₙ) other than that with respect to which the differentiation is being carried out.
+
+dY[P₀, ..., Pₙ] = Σₖ₌₀ⁿ Xₖ dPₖ + Σₖ₌ₙ₊₁ᵐ Pₖ dXₖ | (5.32)
+
+(5.33) | (5.33)
+
+Y[P₀, ..., Pₙ] = Y - Σₖ₌₀ⁿ PₖXₖ | Y = Y[P₀, ..., Pₙ] + Σₖ₌₀ⁿ PₖXₖ
+
+Elimination of Y and X₀, X₁, ..., Xₙ from equations 5.30, 5.33, and the first n + 1 equations of 5.31 yields the transformed fundamental relation. | Elimination of Y[P₀, ..., Pₙ] and P₀, P₁, ..., Pₙ from equations 5.30, 5.33, and the first n + 1 equations of 5.31 yields the original fundamental relation.
+
+In this section we have divorced the mathematical aspects of Legendre transformations from the physical applications. Before proceeding to the thermodynamic applications in the succeeding sections of this chapter, it may be of interest to indicate very briefly the application of the formalism to Lagrangian and Hamiltonian mechanics, which perhaps may be a more familiar field of physics than thermodynamics. The Lagrangian principle guarantees that a particular function, the Lagrangian, completely characterizes the dynamics of a mechanical system. The Lagrangian is a function of 2r variables, r of which are generalized coordinates and r of which are generalized velocities. Thus the equation
+
+L = L(q₁, ..., qᵣ, q̇₁, ..., q̇ᵣ) (5.34)
+
+plays the role of a fundamental relation. The generalized momenta are defined as derivatives of the Lagrangian function
+
+pₖ = ∂L / ∂q̇ₖ (5.35)
+
+If it is desired to replace the velocities by the momenta as independent variables, we must make a partial Legendre transformation with respect to the velocities. We thereby introduce a new function, called the Hamiltonian, defined by³
+
+H = Σₖ pₖq̇ₖ - L (5.36)
+
+A complete dynamical formalism can then be based on the new fundamental relation
+
+H = H(q₁, ..., qᵣ, p₁, ..., pᵣ) (5.37)
+
+Furthermore, by equation 5.31 the derivative of H with respect to pₖ is the velocity q̇ₖ, which is one of the Hamiltonian dynamical equations. Thus, if an equation of the form 5.34 is considered as a dynamical fundamental equation in the Lagrangian representation, the Hamiltonian equation (5.37) is the equivalent fundamental equation expressed in the Hamiltonian representation.
+
+## PROBLEMS
+
+5.2-1. The equation y = x²/10 describes a parabola.
+
+a) Find the equation of this parabola in the "line geometry representation", ψ = ψ(P).
+
+b) On a sheet of graph paper (covering the range roughly from x = -15 to x = +15 and from y = -25 to y = +25) draw straight lines with slopes P = 0, 1, 2, 3. Show that these lines are tangent to the parabola.
+
+¹This elimination is possible if P is not independent of X, that is, if d²Y/dX² ≠ 0. In the thermodynamic application this criterion will turn out to be identical to the criterion of stability. The criterion fails only at the "critical points," which are discussed in detail in Chapter 10.
+
+²The condition that this be possible is that d²ψ/dP² ≠ 0, which will, in the thermodynamic application, be guaranteed by the stability of the system under consideration.
+
+³In our usage the Legendre transform of L with respect to the velocities is H, so that H is a function of the q's and the p's.

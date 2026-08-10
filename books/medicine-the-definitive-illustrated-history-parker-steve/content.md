@@ -1,19 +1,10 @@
 # Medicine The Definitive Illustrated History Parker Steve Z Library
 
-> 来源文件：pre_Medicine_The_Definitive_Illustrated_History_Parker_Steve_Z_Library.txt
-> 字符数（约）：861367
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 THE DEFINITIVE ILLUSTRATED HISTORY MEDICINE
 
 THE DEFINITIVE ILLUSTRATED HISTORY MEDICINE STEVE PARKER
 
-First American Edition, 2016 Published in the United States by DK Publishing 345 Hudson Street, New York, New York 10014 Copyright © 2016 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 16 17 18 19 20 10 9 8 7 6 5 4 3 2 1 001—283277—Oct/16 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner. Published in Great Britain by Dorling Kindersley Limited.
-
 A catalog record for this book is available from the Library of Congress.
-
-ISBN: 978-1-4654-5341-9 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com Printed in Hong Kong A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com Senior Editors Dharini Ganesh, Bharti Bedi, Anita Kakar Senior Art Editor Mahua Sharma Project Art Editor Shreya Anand Editors Arpita Dasgupta, Priyaneet Singh Art Editor Anjali Sachar Senior Editorial Manager Rohan Sinha Managing Art Editors Sudakshina Basu, Anjana Nair Jacket Designer Suhita Dharamjit Managing Jackets Editor Saloni Singh Picture Researcher Aditya Katyal Manager Picture Research Taiyaba Khatoon DTP Designers Vijay Kandwal, Pawan Kumar Senior DTP Designers Harish Aggarwal, Sachin Singh Pre-production Manager Balwant Singh Production Manager Pankaj Sharma DK DELHI Senior Editor Kathryn Hennessy Senior Art Editor Helen Spencer Editors Alexandra Beeden, Polly Boyd, Anna Cheifetz, Jemima Dunne, Georgina Palffy, Esther Ripley US Editor Jill Hamilton Managing Editor Gareth Jones Senior Managing Art Editor Lee Griffiths Senior Jacket Designer Mark Cavanagh Jacket Design Development Manager Sophia MTT Jacket Editor Claire Gell Pre-production Producer Nadine King Producer Mandy Inness Associate Publishing Director Liz Wheeler Publishing Director Jonathan Metcalf Art Director Karen Self DK LONDON Steve Parker CONSULTANT Alexandra Black, Philip Parker, Sally Regan, Marcus Weeks CONTRIBUTORS TREATING A GLADIATOR 22 Secrets of Mummies 24  Medicine in Ancient Mesopotamia 26  Early Chinese Medicine 28 Acupuncture 30  Ayurveda 32  Medicine in Ancient Greece 34  The Four Humors 36 Hippocrates 38  Medicine in Ancient Rome CONTENTS ANCIENT WISDOM TO 700 12  Timeline 14  Healers and Herbalists 16  Early Surgery 18 Shamanism 20  Medicine in Ancient Egypt ANCIENT EGYPTIAN SURGICAL INSTRUMENTS
 
 TREATING BATTLEFIELD CASUALTIES INOCULATING A PATIENT 40 Galen 42  Roman Surgical Tools 56  Medieval Medicine 60 Anatomy Restored 62  Apothecary Store 64 Alchemy 66  The Black Death 68  Preventing Plagues 70  Alchemy, Chemistry, and Medicine 72  The Anatomy Revolution 76 Barber-surgeons 78 Ambroise Paré 80   Repair and Reconstruction 82 Discovering the Circulation 84 The Circulation
 
@@ -702,8 +693,6 @@ It was not until the 16th century that challenges by Andreas Vesalius (see pp.72
 ■193 Becomes physician to the new Emperor Septimius Severus. Although Galen starts fading from the spotlight, his writings continue to be widely circulated and remain immensely popular.
 
 ■c.216 Dies in Rome, although some authorities say Pergamon or Sicily and put this date earlier, at around 200 CE.
-
-TIMELINE A 1561 EDITION OF GALEN’S WORK PRINTED IN BASEL, SWITZERLAND “In order to diagnose, one must observe and reason.” MOTTO OF CLAUDIUS GALEN ▽ Treating a gladiator This artwork from the 19th-century book, Vies des Savants Illustres, shows Galen treating a gladiator in Pergamon. As a physician, he studied human internal anatomy and regarded the physical body as a “vessel for the soul.”
 
 AN CIE NT  WISDOM  T O  7 0 0 Roman Surgical Tools Roman surgeons performed a range of operations, including eye, nose, and ear surgery, extraction of gallstones, and removal of tonsils.
 

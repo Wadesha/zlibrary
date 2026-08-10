@@ -1,27 +1,16 @@
 # Beautiful Visualization Looking at Data through the Eyes of Experts Julie Steele Noah Iliinsky Z Library
 
-> 来源文件：pre_Beautiful_Visualization_Looking_at_Data_through_the_Eyes_of_Experts_Julie_Steele_Noah_Iliinsky_Z_Library.txt
-> 字符数（约）：705523
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Beautiful Visualization
 
 Beautiful Visualization Edited by Julie Steele and Noah Iliinsky Beijing · Cambridge · Farnham · Köln · Sebastopol · Taipei · Tokyo
 
 Beautiful Visualization Edited by Julie Steele and Noah Iliinsky Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
 
-O’Reilly books may be purchased for educational, business, or sales promotional use. Online editions are also available for most titles (http://my.safaribooksonline.com). For more information, contact our corporate/institutional sales department: (800) 998-9938 or corporate@oreilly.com.
-
 Editor: Julie Steele Production Editor: Rachel Monaghan Copyeditor: Rachel Head Proofreader: Rachel Monaghan Indexer: Julie Hawks Cover Designer: Karen Montgomery Interior Designer: Ron Bilodeau Illustrator: Robert Romano The O’Reilly logo is a registered trademark of O’Reilly Media, Inc. Beautiful Visualization, the cover image, and related trade dress are trademarks of O’Reilly Media, Inc.
 
 Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and O’Reilly Media, Inc.
 
-was aware of a trademark claim, the designations have been printed in caps or initial caps.
-
 While every precaution has been taken in the preparation of this book, the publisher and au- thors assume no responsibility for errors or omissions, or for damages resulting from the use of the information contained herein.
-
-ISBN: 978-1-449-37987-2
 
 C o n t e n t s Preface. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,8 +86,6 @@ Particularly intriguing when assembling a list of potential contributors was how
 
 We hope you will be as delighted as we are by the diversity of backgrounds, projects, and approaches represented in this book. Different as they are, the chapters do offer some themes to the thoughtful and observant. Look for ideas about storytelling, color use, levels of granularity in the data, and user exploration woven throughout the book. Tug on these threads, and see where they take you in your own work.
 
-preface The royalties for this book are being donated to Architecture for Humanity (http://www.
-
 architectureforhumanity.org), an organization dedicated to making the world better by bringing design, construction, and development services to the places where they are most critically needed. We hope you’ll consider how your own design processes shape the world.
 
 How This Book Is Organized Here’s a preview of what you’ll find in this book:
@@ -155,8 +142,6 @@ Constant width italic Shows text that should be replaced with user-supplied valu
 
 Using Code Examples This book is here to help you get your job done. In general, you may use the code in this book in your programs and documentation. You do not need to contact us for permission unless you’re reproducing a significant portion of the code. For example, writing a program that uses several chunks of code from this book does not require permission. Selling or distributing a CD-ROM of examples from O’Reilly books does require permission. Answering a question by citing this book and quoting example code does not require permission. Incorporating a significant amount of example code from this book into your product’s documentation does require permission.
 
-We appreciate, but do not require, attribution. An attribution usually includes the title, author, publisher, and ISBN. For example: “Beautiful Visualization, edited by Julie Steele and Noah Iliinsky. Copyright 2010 O’Reilly Media, Inc., 978-1-449-37987-2.” If you feel your use of code examples falls outside fair use or the permission given above, feel free to contact us at permissions@oreilly.com.
-
 preface How to Contact Us Please address comments and questions concerning this book to the publisher: O’Reilly Media, Inc.
 
 1005 Gravenstein Highway North Sebastopol, CA 95472 800-998-9938 (in the United States or Canada)
@@ -165,11 +150,7 @@ preface How to Contact Us Please address comments and questions concerning this 
 
 707-829-0104 (fax)
 
-We have a web page for this book, where we list errata, examples, and any additional information. You can access this page at: http://www.oreilly.com/catalog/0636920000617 To comment or ask technical questions about this book, send email to: bookquestions@oreilly.com For more information about our books, conferences, Resource Centers, and the O’Reilly Network, see our website at: http://www.oreilly.com Safari® Books Online Safari Books Online is an on-demand digital library that lets you easily search over 7,500 technology and creative reference books and videos to find the answers you need quickly.
-
 With a subscription, you can read any page and watch any video from our library online. Read books on your cell phone and mobile devices. Access new titles before they are available for print, and get exclusive access to manuscripts in development and post feedback for the authors. Copy and paste code samples, organize your favor- ites, download chapters, bookmark key sections, create notes, print out pages, and benefit from tons of other time-saving features.
-
-O’Reilly Media has uploaded this book to the Safari Books Online service. To have full digital access to this book and others on similar topics from O’Reilly and other publish- ers, sign up for free at http://my.safaribooksonline.com.
 
 preface Acknowledgments First and foremost, we both wish to thank the contributors who gave of their time and expertise to share their wisdom with us. Their collective vision and experience is impressive, and has been an inspiration in our own work.
 
@@ -223,11 +204,7 @@ Beck’s background was in drafting electrical circuits: he was used to drawing 
 
 That freed the map of any attachment to accurate representation of geography and led to an abstracted visual style that more simply reflected the realities of subway travel: once you’re in the system, what matters most is your logical relationship to the rest of the subway system. Other maps that accurately show the geography can help you figure out what to do on the surface, but while you’re underground the only surface features that are accessible are the subway stations.
 
-Figure 1-2.  The London Underground (“Tube”) map;  2007 London Tube Map © TfL from the London Transport Museum collection (used with permission)
-
 The London Underground map highlighted the most relevant information and stripped away much of the irrelevant information, making the pertinent data more eas- ily accessible. It was executed with a distinctive and unique graphical style that has become iconic. It is widely recognized as a masterpiece and is undoubtedly a beautiful visualization.
-
-Other Subway Maps and Periodic Tables Are Weak Imitations Due to the success of the periodic table and the London Underground map, their formats are often mimicked for representations of other data. There are periodic tables of just about everything you can imagine: foods, drinks, animals, hobbies, and, sadly, visualization methods.* These all miss the point. Similarly, Underground-style *	See http://www.visual-literacy.org/periodic_table/periodic_table.html.
 
 Beautiful Visualization maps have been used to represent movies of different genres,* relationships among technology companies,† corporate acquisition timelines,‡ and the subway systems of cities other than London.
 
@@ -244,12 +221,6 @@ Step Outside Default Formats The first requirement of a beautiful visualization 
 Standard formats and conventions do have their benefits: they are easy to create, familiar to most readers, and usually don’t need to be explained. Most of the time, these conventions should be respected and leveraged. However, the necessary spark of novelty is difficult to achieve when using utilitarian formats in typical ways; defaults are useful, but they are also limiting. Defaults should be set aside for a better, more powerful solution only with informed intent, rather than merely to provide variety for the sake of variety.
 
 Default presentations can also have hidden pitfalls when used in ways that don’t suit the situation. One example that I encountered was on a manufacturer’s website, where its retailers were listed alphabetically in one column, with their cities and states in a second column. This system surely made perfect sense to whoever designed it, but the design didn’t take into account how that list would be used. Had I already known the names of the retailers in my area, an alphabetical list of them would have been useful.
-
-*	See http://blog.vodkaster.com/2009/06/25/the-top-250-best-movies-of-all-time-map/.
-
-†	See http://informationarchitects.jp/wtm4/.
-
-‡	See http://www.meettheboss.com/google-acquisitions-and-investments.html.
 
 ## chapter 1: on beauty
 
@@ -311,8 +282,6 @@ Putting It Into Practice Let’s look at one more example of a successful, data-
 
 Figure 1-3.  A geographically accurate electoral vote results map of the United States New Jersey (that peanut-shaped state east of Pennsylvania and south of New York that’s too small for a label) has an area of a little more than 8,700 square miles. The total combined areas of the states of Idaho, Montana, Wyoming, North Dakota, and South Dakota is a bit more than 476,000 square miles, about 55 times the area of New Jersey, as shown in Figure 1-4. If we were interested in accurate geography and the shape, size, and position of the states, this would be a fine map indeed. However, in the context of a presidential election, what we care about is relative influence based on the electoral vote counts of each state. In fact, the combined total of those five states is just 16 electoral votes, only one more than New Jersey’s 15 votes. The geographically accurate map is actually a very inaccurate map of electoral influence.
 
-*	Source: http://elections.nytimes.com/2008/president/whos-ahead/key-states/map.html.
-
 Beautiful Visualization Figure 1-4.  Relative size of five states versus New Jersey The surface area of a state has nothing to do with its electoral influence; in this con- text, an entirely different sort of visualization is needed to accurately represent the relevant data and meet the goal of the visualization. To this end, the Times also created an alternate view of the map (Figure 1-5), in which each state is made up of a number of squares equivalent to its electoral vote value. This electorally proportionate view has lost all geographic accuracy regarding state size, and almost all of it regarding shape.
 
 The relative positions of the states are largely retained, though, allowing readers to find particular states in which they may have interest and to examine regional trends.
@@ -359,8 +328,6 @@ The full context is only revealed if the user clicks on the question mark in the
 
 Returning to the questions listed previously, we now know what data we’re looking at and what the time frame is. This visualization is interactive: if the user presses the “Play” button at the top, dots along the timeline pop out to reveal important events that may have influenced the data one way or another (Figure 2-2).
 
-*	See http://tr.im/I2Gb.
-
 Beautiful Visualization Figure 2-2.  The visual draws attention to important events that may have influenced the perceived newsworthiness of the candidates In addition to these cues, the user can draw on his knowledge of the presidential race to supply additional context to the data. He may recall that in the Democratic party there was a knock-down, drag-out primary contest between Hillary Clinton and Barack Obama, which is reflected in the fact that they maintained a high level of newsworthiness into April and May of 2008, while John McCain (who secured the Republican nomination in early March) lagged behind them both.
 
 From the question “How often did the New York Times mention each candidate dur- ing the course of the 2008 presidential campaign?,” a story emerges. This visualiza- tion provides an engaging visual component to that story and helps the user relive the drama of the two-year presidential campaign in the space of a minute.
@@ -388,14 +355,6 @@ When asking a question for the purposes of creating an information visualization
 Be especially careful if you find your question starts with “why.” This is a good sign that you are moving from a more formal portrayal of data into data analysis.
 
 Gather the Data Finding exactly the data you want can be a difficult task. Often, instead of trying to gather your own data, you’re better off taking data that is already available and trying to find a way to portray it. That is, it may be better to start (as mentioned earlier) with a dataset and construct a question as you find patterns in the data. If you’re creating a data visualization for a purpose other than as a hobby or out of pure curiosity, it is likely that you already have a dataset to work from. However, there are still several datasets available that may inspire or inform some aspect of your work.
-
-There are many good places to start looking at data. One of the largest and most diverse repositories can be found at Data.gov (http://www.data.gov). This site houses an enormous collection of data, from migratory patterns of birds to patent bibliographies to Treasury rate statistics and federal budget data.
-
-Other excellent sources of data include: •	 The Census Bureau (http://www.census.gov) for a wide variety of demographic and geographic data
-
-Beautiful Visualization •	 The Bureau of Labor Statistics (http://www.bls.gov) for extensive data on employ- ment in the United States (click on the “Databases and Tables” tab and scroll down to the Historical News Release Tables for the easiest access to the data)
-
-•	 The New York Times APIs (http://developer.nytimes.com) for easy API access to huge sets of data including congressional votes, bestseller lists, article searches, movie reviews, real estate listings and sales in New York City, and more Once you have the raw data, you may want parse it, organize it, group it, or otherwise alter it so that you can identify patterns or extract the specific information you wish to portray. This process is known as “data munging” and is usually an ad hoc attempt to “play around” with the data until interesting patterns emerge. If this process sounds a little opaque or nonspecific, don’t worry; we’ll walk through an example of data munging in the hands-on tutorial in the next section.
 
 Apply a Visual Representation Now that we have the data, we come to the task of deciding how to portray it. This means making decisions about what kind of visual representation of the data will aid viewers in understanding it.
 
@@ -429,8 +388,6 @@ As an example, let’s assume a dataset with a range between 1 and 100 and a col
 
 Figure 2-5.  Color image representing the difference between 45% and 55% in a color visualization If you’re creating a visualization in which it is important for viewers to be able to dis- tinguish between data points at 45% and 55%, you may need to alter the points at which the colors change or steer away from using color as your primary representa- tion method.
 
-A word should also be put in for those who suffer from colorblindness, which affects nearly 1 out of 10 individuals. If you need your visualization to reach the largest pos- sible audience, you may want to consider using ranges like black-to-white instead of green-to-red. For more information about design and colorblindness, consider visiting We Are Colorblind (http://wearecolorblind.com), a website devoted to designing in a way that is accessible to the colorblind.
-
 Location A location representation method attaches data to some kind of map or visual element corresponding to a real or virtual place. An everyday example of a locative visual- ization is when we are presented with a simple outline of an airplane or a theater in order to choose a seat.
 
 In Figure 2-6, we see the county-by-county crime rates for 1996 and 2008 rendered onto a map of Florida.
@@ -453,11 +410,7 @@ Pressing the “Play” button in the top-left corner starts the animation, and 
 
 This visualization gives users a series of helpful contextual clues along the timeline indicating when major events happened in the game. By doing this, the authors pro- vide valuable context and relieve the users from the task of remembering how the game played out. Instead, they can focus on the words being used in tweets across the country and let the application alert them when a key event is driving the data.
 
-*	See http://www.nytimes.com/interactive/2009/02/02/sports/20090202_superbowl_twitter.html.
-
 ## chapter 2: once upon a stacked time series
-
-Figure 2-8.  New York Times visualization of commonly used words in 2009 Super Bowl–related tweets Using multiple visual presentation methods Many excellent information visualizations use more than one of these visual presenta- tion methods to give a full picture of the data. In the online application NameVoyager (http://www.babynamewizard.com/voyager), users can type in the first few letters of a name and see a history of how many people have given their child a name beginning with those letters (Figure 2-9).
 
 Figure 2-9.  The NameVoyager baby name explorer charts name frequency by year
 
@@ -476,8 +429,6 @@ In order to replicate the process as closely as possible, I’ll walk through th
 Data Tasks When constructing this tutorial visualization, I started out messing around with the data and formulated the question as the shape of the information became clear.
 
 Because the process of sifting through data is often very ad hoc, I’ll simply describe my discovery in general terms. We’ll walk through the details later in this section.
-
-Gathering the data I decided to use easily accessible, publicly available data for this tutorial, so I started looking at a number of pieces of data collected by the U.S. government and placed online in the interest of transparency. I settled on data about vehicles traded in and purchased via the Car Allowance Rebate System (CARS), commonly referred to as the “Cash for Clunkers” program. The data I used is available in two separate Excel files at http://www.cars.gov/carsreport. It is also available in CSV or MDB format.
 
 Sorting the data: The discovery version When we’re done with this visualization, we want to feel like it provides some kind of insight into the individual transactions that make up this dataset. We can imagine someone driving in a beat-up clunker thinking to herself that she will soon be able to rid herself of her old, inefficient vehicle and replace it with a beautiful new one.
 
@@ -621,8 +572,6 @@ Finally, the audience is accustomed to seeing these different countries in the c
 
 Having decided that we should use countries instead of circles, we need to find visual representations of the countries on our list. Our best bet on that count is to search for a country name along with the .svg file extension. SVG stands for scalable vector graphics and is an open standard for vector images maintained by the World Wide Web Consortium (W3C). It is a popular vector image standard, particularly for free images and maps, and many vector manipulation applications support it.
 
-Wikimedia Commons (http://commons.wikimedia.org) has a number of free, high- quality maps in vector format. These maps scale very well and are excellent for this kind of project. Some of the countries that are hard to find can also be pulled from vector maps of the world that are available on Wikimedia Commons. These files can be opened as editable vector files in Adobe Illustrator or Inkscape (http://www.inkscape.org)
-
 or as bitmaps in GIMP. From Illustrator, the vector objects can be copied and pasted directly into Photoshop.
 
 In the interest of simplicity, we’ll display only countries responsible for a certain minimum (1,000+ vehicles) of either the traded-in or purchased cars. This means we should have maps for the United States, Japan, South Korea, Germany, Sweden, and the United Kingdom.
@@ -655,21 +604,13 @@ Despite the variety of fields that inform the visualization creation process, th
 
 C h a p t e r  T h r e e Wordle Jonathan Feinberg Figure 3-1.  A Wordle of this chapter By now, even people who have never heard of “information visualization” are familiar with the colorful word collage known as Wordle, “the gateway drug to textual analysis.”* Like any such drug, Wordle was designed for pleasure, although its roots lie in the utilitarian tag clouds popularized by such sites as del.icio.us and Flickr.
 
-*	See http://www.profhacker.com/2009/10/21/wordles-or-the-gateway-drug-to-textual-analysis/.
-
 Beautiful Visualization Wordle’s Origins In 2004, my colleague Bernard Kerr and I made a social bookmarking application, which Bernard named “dogear” (Millen, Feinberg, and Kerr, 2006). Any application that lets users tag content is bound to provide a tag cloud, a vaguely rectangular collec- tion of clickable keywords. So, when we designed dogear, we made sure to feature a prominent tag cloud on every page (see Figure 3-2).
 
 Figure 3-2.  The author’s tags as they appeared in dogear I never found tag clouds to be particularly interesting or satisfying, visually. There’s not much evidence that they’re all that useful for navigation or for other interaction tasks, either.* But when blogger Matt Jones† posted his del.icio.us tags as a beautiful, typo- graphically lively image (see Figure 3-3), I was thrilled. I thought that there was no reason why a computer program couldn’t create something similar. At the very least, I wanted to end up with something that could—like Jones’s cloud—put the dot of an “i” into the lower counter of a “g”, something well beyond what tag clouds could do at the time.
 
-*	See http://doi.acm.org/10.1145/1240624.1240775.
-
-†	See http://magicalnihilism.com/2004/07/04/my-delicious-tags-july-2004/.
-
 ## chapter 3: wordle
 
 Figure 3-3.  Matt Jones’s typographically aware tag cloud I spent a week or so creating the code for what I called the “tag explorer” (see Figure 3-4), a Java applet that permitted users to navigate through dogear by clicking on tags related to the current context.
-
-Figure 3-4.  The dogear tag explorer* *	See http://www.flickr.com/photos/koranteng/526642309/in/set-72157600300569893.
 
 Beautiful Visualization It was immediately clear that the tag explorer was useful as a portrait of a person’s interests, as when a number of my fellow IBMers used screenshots of the tag explorer to illustrate their résumés and email signatures (see Figure 3-5).
 
@@ -681,8 +622,6 @@ This led to the idea of simply counting words. Once I had decided to build a sys
 
 Figure 3-6.  Wordle’s text-analytics user interface Since Wordle (as it was now called) was meant to be pleasing, I had to give some thought to the expressive qualities of fonts and color palettes (see Figure 3-7).
 
-*	See http://www-01.ibm.com/software/lotus/products/connections/bookmarks.html.
-
 ## chapter 3: wordle
 
 Figure 3-7.  Wordle provides varied palettes, fonts, and layouts I believe that my efforts to simplify Wordle, and to emphasize pleasure over business, have been paid for many times over. Wordle has been used in ways I’d never antici- pated, by far more people than I’d dared to expect. Some of Wordle’s success is due to the design of the web application itself, with its one-paste/one-click instant grati- fication. However, to the extent that the design of the Wordle visualization itself has contributed to its ubiquity, it might be worth looking at what Wordle is not before we examine in detail what it is and how it works.
@@ -691,21 +630,11 @@ Anatomy of a Tag Cloud The typical tag cloud is organized around lines of text.*
 
 Figure 3-8.  Lost in White Space† One way to mitigate the ragged whitespace caused by such extreme contrasts in size is to squash different word weights into a small number of bins, as del.icio.us does. In Figure 3-9, the “programming” tag has been used 55 times and “scripting” only once, but the font for the more frequently used word is only 50% larger. Notice also the use of font weight (boldness) to enhance the contrast between different word weights.
 
-*	For a thorough survey of tag cloud designs, with thoughtful commentary, see http://www.smashing- magazine.com/2007/11/07/tag-clouds-gallery-examples-and-good-practices/.
-
-†	See http://manyeyes.alphaworks.ibm.com/manyeyes/page/Tag_Cloud.html.
-
 Beautiful Visualization Figure 3-9.  Squashing the scale of differences between word weights In effect, del.icio.us is scaling the word weights—roughly—by logarithm. It’s sensi- ble to scale weights using logarithms or square roots when the source data follows a power-law distribution, as tags seem to do.* Somewhere between these earnest, useful designs and the fanciful world that Wordle inhabits, there are other, more experimental interfaces. The WP-Cumulus† blog plug- in, for example, provides a rotating, three-dimensional sphere of tags (see Figure 3-10).
 
 Figure 3-10.  WP-Cumulus: can’t…quite…click on “tag cloud”… The desire to combine navigation with visualization imposes certain constraints on the design of a word cloud. But once we are liberated from any pretense of “utility”—once we’re no longer providing navigation—we can start to play with space.
 
 Filling a Two-Dimensional Space There are lots of computer science PhDs to be garnered in finding incremental improvements to so-called bin-packing problems.‡ Luckily, the easy way has a respect- able name: a randomized greedy algorithm. It’s randomized in that you throw stuff on the screen somewhere near where you want it to be, and if that stuff intersects with other stuff, you try again. It’s greedy in that big words get first pick.
-
-*	See http://www.citeulike.org/user/andreacapocci/article/1326856.
-
-†	See http://wordpress.org/extend/plugins/wp-cumulus/.
-
-‡	See http://en.wikipedia.org/wiki/Bin_packing_problem.
 
 ## chapter 3: wordle
 
@@ -715,11 +644,7 @@ For example, you can use a randomized greedy strategy to fill almost any region 
 
 Figure 3-11.  Do not underestimate the power of the randomized greedy algorithm Consider Jared Tarbell’s exquisite Emotion Fractal* (see Figure 3-12), which recur- sively subdivides a space into ever-smaller random rectangles, filling the space with ever-smaller words. This effect depends on a large set of candidate words, chosen at random, with arbitrary weights.
 
-*	See http://levitated.net/daily/levEmotionFractal.html.
-
 Beautiful Visualization Figure 3-12.  Jared Tarbell’s Emotion Fractal If you don’t mind distorting your fonts by elongating or squashing the words as needed, other effects are possible. For example, Figure 3-13 shows a variation on the venerable treemap,* which uses text, rather than rectangles, to fill space. Each word fills an area proportional to its frequency; each rectangular area contains words strongly associated with each other in the source text.
-
-Figure 3-13.  Word treemap of an Obama speech *	See http://www.cs.umd.edu/hcil/treemap-history/.
 
 ## chapter 3: wordle
 
@@ -744,8 +669,6 @@ Finding words Wordle is in the business of drawing pictures of words, each havin
 Wordle builds a regular expression (regex) that recognizes what it considers to be words in a variety of scripts, and then iteratively applies that regex to the given text, as illustrated in Example 3-1. The result is a list of words.
 
 Example 3-1.  How to recognize “words” private static final String LETTER = "[@+\\p{javaLetter}\\p{javaDigit}]"; private static final String JOINER = "[-.:/''\\p{M}\\u2032\\u00A0\\u200C\\u200D~]"; /* A word is: one or more "letters" followed by zero or more sections of one or more "joiners" followed by one or more "letters"
-
-*/ private static final Pattern WORD = Pattern.compile(LETTER + "+(" + JOINER + "+" + LETTER + "+)*"); *	See http://github.com/vcl/cue.language.
 
 †	For an illuminating demonstration of this craft, see Peter Norvig’s chapter on natural-language processing in the sister O’Reilly book Beautiful Data.
 
@@ -776,8 +699,6 @@ A coded character set uniquely assigns an integer—a code point—to each chara
 Coded characters are organized according to the scripts in which they appear, and scripts are further organized into blocks of strongly related characters. For example, the Latin script (in which most European languages are written) is given in such blocks as Basic Latin (con- taining sufficient characters to represent Latin and English), Latin-1 Supplement (containing certain diacritics and combining controls), Latin Extended A, Latin Extended B, and so on.
 
 When it comes time to actually put pixels onto a screen, a computer program interprets a sequence of characters and uses a font to generate glyphs in the order and location demanded by the context.
-
-*	See http://unicode.org.
 
 Guessing the language and removing stop words It would be neither interesting nor surprising to see that your text consists mostly of the words “the,” “it,” and “to.” To avoid a universe of boring Wordles, all alike, such stop words need to be removed for each recognized language. To know which list of stop words to remove for a given text, though, we have to guess what language that text is in.
 
@@ -875,8 +796,6 @@ Beautiful Visualization There are plenty of statistical measures that one may ap
 
 I explored this idea in an analysis of every presidential inaugural address,* in which each speech was compared to the 5 speeches nearest to it in time, the 10 nearest speeches, and all other inaugural addresses. Such an analysis has the advantage of revealing the unexpected absence of certain words. For example, Figure 3-20 is a visu- alization of Harry Truman’s 1948 inaugural address. On the left is a Wordle-like repre- sentation of the words he used, and on the right are the words that his contemporaries used more than he did. This visualization reveals Truman’s emphasis on foreign policy.
 
-Figure 3-20.  Harry Truman’s 1948 inaugural address: the words in red were conspicuously absent from Harry Truman’s speech, relative to those of his contemporaries *	See http://researchweb.watson.ibm.com/visual/inaugurals/.
-
 ## chapter 3: wordle
 
 How Wordle Is Actually Used Wordle was not designed for visualization experts, text analysis experts, or even expe- rienced computer users. I tried to make Wordle as appliance-like as possible.
@@ -895,19 +814,11 @@ Beautiful Visualization Using Wordle for Traditional Infovis Notwithstanding Wor
 
 Still more advanced use is possible through the “Word Cloud Generator” console application, available through IBM’s alphaWorks website.* The ManyEyes collaborative data visualization site also provides Wordle as a text- visualization option beside its innovative Phrase Net and Word Tree visualizations (and a more traditional tag cloud).† Conclusion People often want to preserve and share the Wordles they make; they use Wordles to communicate. A beautiful visualization gives pleasure as it reveals something essential.
 
-Acknowledgments I would like to thank Martin Wattenberg and Irene Greif at IBM CUE for making pos- sible my participation in this book. I am very grateful to Ben Fry, Katherine McVety, Fernanda Viégas, and Martin Wattenberg, who each read this chapter with great care and suggested many improvements. Please see http://www.wordle.net/credits for informa- tion about the many people who have helped me create and improve Wordle.
-
 References Ericson, Christer. 2005. Real-Time Collision Detection. San Francisco, CA: Morgan Kaufmann.
-
-Millen, D. R., J. Feinberg, and B. Kerr. 2006. “Dogear: Social bookmark- ing in the enterprise.” Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (Montréal, Québec, Canada, April 22–27, 2006). http://doi.acm.
 
 org/10.1145/1124772.1124792.
 
 Viégas, Fernanda B., Martin Wattenberg, and Jonathan Feinberg. 2009. “Participatory visualization with Wordle.” IEEE Transactions on Visualization and Computer Graphics 15, no. 6 (Nov/Dec 2009): 1137–1144. doi:10.1109/TVCG.2009.171.
-
-*	See http://www.alphaworks.ibm.com/tech/wordcloud.
-
-†	See http://manyeyes.alphaworks.ibm.com/manyeyes/page/Visualization_Options.html.
 
 C h a p t e r  F o u r Color: The Cinderella of Data Visualization Michael Driscoll Avoiding catastrophe becomes the first principle in bringing color to information: Above all, do no harm.
 
@@ -958,8 +869,6 @@ Beautiful Visualization x position y position –15 –10 –5 –5 –5 changeu
 In Figure 4-4, I’ve used color as a means of encoding a fourth dimension of our pitch- ing data: the speed of pitches thrown. The palette I’ve chosen is a divergent palette that moves along one dimension (think of it as the “redness-blueness” dimension) in the Lab color space,* while maintaining a constant level of luminosity.
 
 x position y position –15 –10 –5 –5                                             –5                                                                                                                                                            –5                    –5                                                                                  71 speed (mph)
-
-changeup fastball sinker slider Figure 4-4.  Location and pitch type, with pitch velocity indicated by a one-dimensional color palette *	See http://en.wikipedia.org/wiki/CIELUV_color_space.
 
 ## chapter 4: color: the cinderella of data visualization
 
@@ -1019,8 +928,6 @@ Methods All of the visualizations here were developed using the R programming la
 
 ## returns a matrix of the hex RGB values makePalette <- function(col1,col2,lum1,lum2,m,n,...) { C <- matrix(data=NA,ncol=m,nrow=n)
 
-*	See http://processing.org.
-
 Beautiful Visualization alpha <- seq(0,1,length.out=m)
 
 ## for each luminosity level (rows)
@@ -1067,11 +974,7 @@ plotPalette(C, xlab='speed', ylab='density'
 
 ## chapter 4: color: the cinderella of data visualization
 
-Conclusion As this example has demonstrated, color—used thoughtfully and responsibly—can be an incredibly valuable tool in visualizing high-dimensional data. The final product— five-dimensional pitch plots for all available data for the 2008 season—can be explored via the PitchFX Django-driven web tool at Dataspora labs (http://labs.dataspora.com/ gameday/).
-
 References and Further Reading Few, Stephen. 2006. Information Dashboard Design, Chapter 4. Sebastopol, CA: O’Reilly Media.
-
-Ihaka, Ross. Lectures 12–14 on Information Visualization. Department of Statistics, University of Auckland. http://www.stat.auckland.ac.nz/~ihaka/120/lectures.html.
 
 Sarkar, Deepayan. 2008. Lattice: Multivariate Data Visualization with R. New York: Springer-Verlag.
 
@@ -1085,13 +988,9 @@ The Need for a Better Tool I was born in Queens and raised in Brooklyn. The firs
 
 *	 I now know that map was an early version of the Salomon map. Years later, when I was doing research for the creation of the KickMap, I got to appreciate the beauty of the design of this map.
 
-Beautiful Visualization Figure 5-1.  The 1958 New York City Subway map designed by George Salomon. 1958 New York City Subway Map © MTA New York City Transit. Used with permission.
-
 ## chapter 5: mapping information: redesigning the new york city subway map
 
 London Calling In college I majored in design, and I spent half a year studying at the University of London. I was all on my own in a huge city I had never been to before. I quickly learned that the London Underground was the way to get around and that the “Tube map” was the key to understanding it. That map (which of course is the acclaimed Beck map seen in Figure 5-2) was brilliantly friendly: simple, bright, functionally col- orful, designed to help users easily understand connections between lines, and physi- cally tiny. Folded, it fit easily into my pocket, to be whipped out at a second’s notice for immediate reference (which I did often!).
-
-Figure 5-2.  Harry Beck’s map of the London Underground makes a complex system appear simple and elegant. 1933 London Tube Map © TfL from the London Transport Museum collection. Used with permission.
 
 London was a medieval city, and therefore its street pattern is random. You cross a crooked intersection and the name of the street you’re on changes. There’s no num- bered grid to provide a frame of reference (like in New York), and moving through the city can be a disorienting experience. The genius of the Beck map is that it makes order out of this random complexity, with the River Thames as the only visual (and geographic) point of reference to the aboveground world. And for that reason, the map’s layout is iconic: when you think of London, you probably think of that Tube map. But even as a design student, I didn’t think much about the form of it at the time—it was just so simple and easy to use that travel felt effortless.
 
@@ -1121,8 +1020,6 @@ Size Is Only One Factor When I decided to try making a new map as a weekend proj
 
 First, I took a paper version of the official Metropolitan Transit Authority (MTA) map (a version of which is shown in Figure 5-3), cut it up with scissors, and put it back together in a more efficient way (literally with Scotch® tape), just to see the possibili- ties. I was encouraged as I managed to reduce the area by more then half. Gone were the 56 bus pop-up boxes and other nonsubway information! Then came the labori- ous task of creating an actual map. I entered all the station names and lines into an Illustrator document, and in two months, voilà! I had my very own smaller map! I folded it and easily put it in my wallet, and I carried it around and showed it to all my friends. They liked its size, but of course nobody wanted to actually use it, because it still had many of the major design issues that made the MTA map difficult to use.
 
-Beautiful Visualization Figure 5-3.  The 2004 version of the MTA New York City subway map, based on a design by Michael Hertz. Besides its visual complexity, incomplete information missing on the map itself forces the the user to rely on the complex charts in the lower right section—right where sitting people block its view in the subway cars—and in the stations where this information, displayed on large posters, is also difficult to read since it is often less than 18 inches off the ground. New York City Subway Map © Metropolitan Transportation Authority. Used with permission.
-
 ## chapter 5: mapping information: redesigning the new york city subway map
 
 It was one thing to reduce the size, but another thing to realize that the way the data was presented was not the best way to present it. So I asked myself: how would I present all this data?
@@ -1138,8 +1035,6 @@ Looking Back to Look Forward I did a research dive, and I started buying old tra
 Of course, in addition to the map designed by George Salomon that had been my father’s subway map, I studied carefully the map designed by Massimo Vignelli (see Figure 5-4), which the MTA used from 1972 until 1979, when it was replaced by the Tauranac-Hertz MTA map (which, 30 years later, still prevails). Vignelli’s map appealed to me immediately because, although big, it took obvious inspiration from Beck’s Tube map, with its 90- and 45-degree angles, explicit station connections, and the use of color to denote individual lines. There were also some smart aspects of the current MTA map that I wanted to keep, despite finding it on the whole unwieldy because there is so much information crammed onto it. In addition, I borrowed liberally from other past efforts that had been discarded or forgotten.
 
 Beautiful Visualization Figure 5-4.  The 1972 MTA New York City subway map designed by Massimo Vignelli.
-
-Confusingly distorted geography for style’s sake—yet a stunning design icon. 1972 New York City Subway Map © MTA New York City Transit. Used with permission.
 
 ## chapter 5: mapping information: redesigning the new york city subway map
 
@@ -1277,8 +1172,6 @@ All of the choices I made were aimed at trying to make the user experience as se
 
 C h a p t e r  S i x Flight Patterns: A Deep Dive Aaron Koblin with Valdean Klump There are roads in the sky. We can’t see them, but they are there: distinct, sharply defined avenues, traversed by thousands of airplanes every day. As individ- ual observers we might never guess this was the case, but plotting the raw flight data shows us otherwise (Figure 6-1).
 
-Flight Patterns is a project I started in 2005 that visualizes civilian air traffic in the United States and Canada. It exists in two mediums: still imagery, which traces aircraft arriving and departing from U.S. and Canadian airports over a 24-hour period, and video imagery, which depicts the same data in motion. In this chapter, I’ll show you some of these images and talk about the techniques I used to render them. I’ll also share some thoughts on why I find this project so compelling, and why I hope you will as well.* *	All of the images in this chapter are available in high resolution online, so if you find them intrigu- ing, I recommend that you visit my website to get a better look at them: http://www.aaronkoblin.
-
 com/work/flightpatterns/. On the site, you may zoom in to the visualizations as well as view them in colors indicating aircraft altitude, model, and manufacturer. You may also view videos of the flight data in motion.
 
 Beautiful Visualization Figure 6-1.  Flight Patterns, a visualization of aircraft location data for airplanes arriving at and departing from U.S. and Canadian airports To begin with, I want to draw your attention to what I believe are the two most strik- ing features of the visualization. The first is the tendency of airplanes to follow the exact same flight paths as other planes. When I originally rendered the data, I expected to see tight groupings of planes close to airports and a vast dispersion between them.
@@ -1307,13 +1200,9 @@ My initial visualization was a contribution to the Celestial Mechanics project c
 
 The initial dataset I worked with was from March 19–20, 2005, and includes 141,029 flights, sampled every 3 minutes, for a total of 6,871,383 data points. Three years later, in 2008, I worked with Wired magazine to obtain another dataset. This data came from August 12–13, 2008, and includes 205,514 flights, sampled every minute, for a total of 26,552,304 data points.
 
-The data I received that was derived from the ASDI feed included the following infor- mation for each data point: *	See http://processing.org.
-
 †	“Civilian” means all nonmilitary commercial and private flights tracked by the FAA.
 
 ## chapter 6: flight patterns: a deep dive
-
-•	 Latitude •	 Longitude •	 Altitude •	 Aircraft manufacturer •	 Aircraft model •	 Timestamp •	 Flight number If you are interested in seeing some of the data yourself, the FAA presently provides a sample of the ASDI feed in XML format at http://www.fly.faa.gov/ASDI/asdi.html.
 
 Color Flight Patterns does not use any complex mapmaking techniques: simply plotting the data speaks for itself. However, color plays an important role in telling different stories using the same flight paths. Figures 6-4 through 6-9 show some examples.
 

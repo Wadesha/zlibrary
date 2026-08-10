@@ -1,6 +1,4 @@
-
 ) (Z-Library).
-
 
 ## --- Page 1 ---
 
@@ -70,13 +68,7 @@ By arrangement with Western Printing Hachette International
 
 ## Genève
 
-(©) Copyright 1964, 1966 by W.
-
 , Geneve
-
-English translation (C) Copyright 1966 by Paul Hamlyn Ltd
-
-Printed in Italy by Arnoldo Mondadori Editore - Verona
 
 ## --- Page 5 ---
 
@@ -1197,8 +1189,6 @@ scientific names also indicate relationships
 ly similar species are included in the same genus.
 
 The scientific name is followed by the initials or abbre-
-
-viated name of the botanist who first published a cor-
 
 rect description of that particular species
 

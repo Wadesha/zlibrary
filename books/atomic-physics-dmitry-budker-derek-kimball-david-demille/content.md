@@ -1,25 +1,16 @@
 # Atomic Physics Dmitry Budker Derek Kimball David DeMille Z Library
 
-> 来源文件：pre_Atomic_Physics_Dmitry_Budker_Derek_Kimball_David_DeMille_Z_Library.txt
-> 字符数（约）：891842
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ATOMIC PHYSICS An Exploration through Problems and Solutions
 
 ATOMIC PHYSICS An Exploration through Problems and Solutions Second Edition Dmitry Budker Department of Physics, University of California, Berkeley, USA Derek F. Kimball Department of Physics, California State University, East Bay, USA David P. DeMille Department of Physics, Yale University, New Haven, USA OXFORD UNIVERSITY PRESS
 
 OXFORD UNIVERSITY PRESS Great Clarendon Street, Oxford OX2 6DP Oxford University Press is a department of the University of Oxford.
 
-It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide in Ox ford New York Auckland Cape Town Dar cs Salaam Hong Kong Karachi Kuala Lumpur Madrid Melbourne Mexico City Nairobi New Delhi Shanghai Taipei Toronto With offices in Argentina Austria Brazil Chile Czech Republic France Greece Guatemala Hungary Italy Japan South Korea Poland Portugal Singapore Switzerland Thailand Turkey Ukraine Vietnam Oxford is a registered trade mark of Oxford University Press in the UK and in certain other countries Published in the United States by Oxford University Press Inc .. New York © Oxford University Press 2008 The moral rights of the author have been asserted Database right Oxford University Press (maker)
-
 Reprinted with corrections 201 O stored in a retrieval system, or transmitted, in any form or by any means.
 
 without the prior permission in writing of Oxford University Press.
 
 or as expressly permitted by law, or under terms agreed with the appropriate reprographics rights organization. Enquiries concerning reproduction outside the scope of the above should be sent to the Rights Department.
-
-Oxford University Press. at the address above You must not circulate this book in any other binding or cover And you must impose this same condition on any acquirer ISBN 978-0-19-953241-4 Printed in the United Kingdom by Lightning Source UK Ltd .. Milton Keynes
 
 To our teachers
 
@@ -158,12 +149,6 @@ For a while after the book appeared, we were pleasantly surprised with the relat
 The second edition, presently offered to the reader, has been prepared by two of the three authors of the original Atomic Physics, for which "error correction"
 
 is one, but not the only motivation. New teaching and research experiences have stimulated us to come up with significant amount (over 70 pages) of new material: about twenty additional problems in various chapters, and a new Appendix. All the new material has been placed at the end of appropriate chapters, so the numbering of problems and appendices is compatible with the first edition.
-
-As we have done with the first edition, we plan to keep a record of errors on one of the author's web page: http://budker.berkeley.edu/ We greatly appreciate further feedback from our readers!
-
-Dmitry Budker and (budker@berkeley.edu)
-
-Berkeley, California November 2007 Derek F. Kimball ( derek.jacksonkimball@csueastbay.edu)
 
 PREFACE TO THE FIRST EDITION We have found that usually the best way to learn something new is to ask concrete questions and try to work out the answers. Often some of the simplest questions have surprising and unexpected answers, and some seemingly complex problems can be solved in a simple way. In this book we have collected some of these prob- lems and our solutions to them. The book encompasses many issues we faced as we ourselves made the transition from undergraduate students to practicing exper- imental atomic physicists and instructors. However, the text is not intended to be comprehensive, but rather addresses various aspects of atomic physics which we have found interesting and important.
 

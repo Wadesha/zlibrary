@@ -1,10 +1,5 @@
 # Optically Pumped Atoms William Happer Yuan Yu Jau Thad Walker Z Library
 
-> 来源文件：pre_Optically_Pumped_Atoms_William_Happer_Yuan_Yu_Jau_Thad_Walker_Z_Library.txt
-> 字符数（约）：402299
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Optically Pumped Atoms
 
 William Happer, Yuan-Yu Jau, and Thad Walker
@@ -15,19 +10,11 @@ Related Titles
 
 Hill, W.T., Lee, C.
 
-Light-Matter Interaction Atoms and Molecules in External Fields and Nonlinear Optics ISBN 978-3-527-40661-6
-
 Riehle, F.
-
-Frequency Standards Basics and Applications ISBN 978-3-527-40230-4
 
 Stolze, J., Suter, D.
 
-Quantum Computing A Short Course from Theory to Experiment ISBN 978-3-527-40438-4
-
 Cohen-Tannoudji, C., Dupont-Roc, J., Grynberg, G.
-
-Atom-Photon Interactions Basic Processes and Applications ISBN 978-0-471-62556-8
 
 William Happer, Yuan-Yu Jau, and Thad Walker Optically Pumped Atoms WILEY-VCH Verlag GmbH & Co. KGaA
 
@@ -42,14 +29,6 @@ Prof. Thad Walker Department of Physics University of Wisconsin Madison, USA
 Library of Congress Card No.: applied for
 
 British Library Cataloguing-in-Publication Data: A catalogue record for this book is available from the British Library.
-
-Bibliographic information published by the Deutsche Nationalbibliothek The Deutsche Nationalbibliothek lists this publication in the Deutsche Nationalbibliografie; detailed bibliographic data are available on the Internet at http://dnb.d-nb.de.
-
-© 2010 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim
-
-Cover Design Adam-Design, Weinheim Typesetting le-tex publishing services GmbH, Leipzig Printing and Binding Strauss GmbH, Mörlenbach Printed in the Federal Republic of Germany Printed on acid-free paper
-
-ISBN 978-3-527-40707-1
 
 Contents
 
@@ -253,8 +232,6 @@ Preface The authors of this book have done experimental work in many areas relat
 
 Throughout the book, the presentation is structured to allow translation of the key formulas into practical, concise, and readable computer codes. Included are many examples of practical computer codes that have been used with success in our research. With minor changes, these codes can be modified to model very sophisticated modern experiments using optically pumped atoms.
 
-For the convenience of the readers, we have set up an open-source Web site (http://minds.wisconsin.edu/handle/1793/35675) to archive the computer codes contained in this book. Also included are additional codes that can be used to model a wide range of optical-pumping and spin-relaxation phenomena.
-
 We are grateful to our families for patience and support while we were writing this book. Special thanks are due to Prof. Kiyoshi Ishikawa and Mr. Ben Olsen for reading drafts of the book and for providing many helpful suggestions. We thank Princeton University and the University of Wisconsin for giving us the opportunity to complete this book. We hope that the book falls into the traditional three missions of universities, the creation, transmission, and preservation of knowledge. Special thanks are due to the University of Wisconsin for maintaining the permanent Web site. Finally, we could not have acquired the background knowledge to write this book without the generous, long-term support of the Air Force Office of Scientific Research, the Army Research Office, the Defense Advance Research Projects Agency, the National Science Foundation, the Department of Energy, and the National Institutes of Health.
 
 Princeton and Madison, October 2009 William Happer Yuan-Yu Jau Thad G. Walker S. 30 3.3: Dot product of matrices. 30 3.4: Clebsch-Gordan coefficients. 31 3.5: Delta symbol. 31 3.6: Zero-field energies. 32 4.1: Projection operators. 38 4.2: Liouville energy basis states and transposition operator. 39 4.3: Flat matrices. 46 4.4: Sharp matrices. 46 5.1: 6-j symbols. 55 5.2: Spherical and Cartesian components of dimensionless dipole operator. 56 5.3: Energy basis matrices. 57 5.4: Coupling matrix for spontaneous emission. 58 5.5: Light-atom interaction matrix. 60 5.6: Resonant frequency shift matrices. 65 5.7: Uniform relaxation matrix and damping operator. 67 5.8: Transient response of Optical Bloch Equations. 68 5.9: Evaluate and plot steady-state populations. 69 5.10: State populations vs detuning. 70 6.1: Transients and steady state of high pressure optical pumping. 85 6.2: Cross product of matrices. 86 6.3: Fadeeva function. 90 7.1: Sublevel populations for microwave magnetic resonance. 103 7.2: Sublevel populations for Zeeman magnetic resonance. 105 7.3: Sublevel populations for push-pull pumping. 107 8.1: Absorption cross sections for unpolarized atoms. 113 9.1: Matrices for quasi-steady-state analysis of a MOT. 128 9.2: MOT sublevel populations and forces. 129 9.3: MOT forces including repumper. 131 9.4: Matrices assuming perfect repumping, cycling transition. 136 9.5: Momentum and azimuthal labels for compactified momentum space. 144 9.6: Left and right momentum and spin quantum numbers. 144 9.7: Coupling coefficients for momentum space optical pumping. 145 9.8: Optical pumping matrix for momentum space. 145 9.9: Steady-state of momentum space optical pumping. 146 9.10: Momentum-space displays. 147 9.11: Pointing probability plot. 149 9.12: Momentum diffusion coefficients. 157
@@ -266,8 +243,6 @@ and various spin-relaxation processes. To make most effective use of contemporar
 Optically Pumped Atoms. William Happer, Yuan-Yu Jau, and Thad Walker
 
 1 Introduction Liouville space has long been used, either explicitly or implicitly, to analyze physics like that of optical pumping. A good general introduction to Liouville space from a viewpoint similar to ours can be found in the book Principles of Magnetic Resonance in One and Two Dimensions, by Ernst et al. [6]. Another good introduction with more emphasis on lasers is The Liouville Space Formalism in Atomic Spectroscopy, by Schuller [7]. The focus of our book on aspects of Liouville space that are particularly well adapted to computer programming appears to be unique.
-
-To make the discussion of the book less abstract, we have illustrated key points with sections of MATLAB code, which can be assembled to generate fairly sophisticated programs. We have tried to write the codes for brevity and maximum clarity, not for maximum speed. Many sections of code will run much faster with minor modifications. Analogous code can be written for other scientific-computing software, for example, Mathematica. Some familiarity with scientific-computing software would be helpful to a reader interested in writing specialized programs based on these illustrative codes. The codes can be downloaded from http://minds.wisconsin.edu/handle/1793/35675
 
 Wherever possible, we have tried to use traditional symbols for familiar physical quantities. Regrettably, this means that we use the same symbols to represent quite different physical quantities, for example, E for the energy or for the amplitude of the electric field, ρ for electric charge density or for the density matrix of quantum mechanics, and S for the electric spin quantum number or for the Poynting vector (electromagnetic energy flux). Wherever the context is sufficient to make the meaning of the symbol clear, we have avoided introducing new fonts, superscripts, or subscripts to resolve the ambiguity.
 
@@ -449,10 +424,6 @@ The energy-level structure of a typical alkali-metal atom (Rb) is shown in Figur
 
 *Optically Pumped Atoms. William Happer, Yuan-Yu Jau, and Thad Walker.
 
-Copyright © 2010 WILEY-VCH Verlag GmbH & Co. KGaA, Weinheim.
-
-ISBN: 978-3-527-40707-1* F = I - 1/2 Figure 2.1 Atomic structure of an alkali-metal atom with nuclear spin I = 3/2.
-
 The primary parameters needed to describe the electronic structure of the alkali-metal atoms are summarized in Table 2.1. The electronic energies of an alkali-metal atom where only the valence electron is excited are well described by the quantum defect formula (in atomic units or hartrees): \[ E_{nl} = -\frac{1}{2n^{*2}}. \tag{2.1} \]
 
 Here \(n = 1, 2, \dots\) corresponds to the principal quantum number of an electron in a hydrogen atom, and \(l = 0, 1, 2\) is the orbital angular momentum quantum number. The effective principal quantum number, \[ n^{*} = n - \mu_{nl}, \tag{2.2} \]
@@ -572,8 +543,6 @@ For the 2S1/2 ground states of alkali-metal atoms, we denote the electron spin b
 4 . . 5 4 . . 5 0 0
 
 3.1.1 KroneckerProducts We can expand the total wave function of a 2S1/2 atom on the uncoupled basis states, jm m iDjm i˝jm i. (3.2)
-
-S I I S OpticallyPumpedAtoms.WilliamHapper,Yuan-YuJau,andThadWalker Copyright©2010WILEY-VCHVerlagGmbH&Co.KGaA,Weinheim ISBN:978-3-527-40707-1 26 3 WaveFunctionsandSchrödingerSpace
 
 Recall that the Kronecker product of a matrix A of m rows and n columns with a matrix B is defined to be the block matrix 2 3 A B (cid:7)(cid:7)(cid:7) A B 11 1n A˝B D 6 4 . . . . . . . . . 7 5. (3.3)
 

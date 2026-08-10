@@ -1,10 +1,5 @@
 # Ken Schultzs Field Guide to Freshwater Fish Ken Schultz Z Library
 
-> 来源文件：pre_Ken_Schultzs_Field_Guide_to_Freshwater_Fish_Ken_Schultz_Z_Library.txt
-> 字符数（约）：223113
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 This guide is derived from the widely praised and award-winning volume Ken Schultz’s Fishing Encyclopedia. Weighing nearly 10 pounds and containing 1,916 pages of information in an 8.5- by 11-inch format, it is hardly a book that can be taken afield or casually perused. Among the many virtues of the encyclopedia is its detailed information about prey and predator species worldwide, which many people—including numerous lure designers, scientific researchers, and anglers—find very valuable and which is available nowhere else. To make it easier for people interested in the major North American fish species to reference this subject matter, that portion of the encyclopedia was excerpted into two compact and portable guides, Ken Schultz’s Field Guide to Freshwater Fish and Ken Schultz’s Field Guide to Saltwater Fish.
 
 These books are primarily intended for the angler, placing major emphasis on gamefish species (nearly 260) sought in the fresh- and saltwaters of Canada, the United States, and Mexico, and on the prey species that most gamefish use for forage. Although many hundreds of species are included here, such compact books lack room for detailed information about many of the lesser species; however, they are well represented in the information that exists under certain groupings. For example, there are more than 300 species of “minnows” in North America, and much of what is said about them as a group in the freshwater guide pertains to the majority of individuals. Profiles are provided, nonetheless, of some of the more prominent members of this group.

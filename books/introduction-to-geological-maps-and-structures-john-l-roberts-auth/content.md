@@ -1,10 +1,5 @@
 # Introduction to Geological Maps and Structures John L Roberts Auth Z Library
 
-> 来源文件：pre_Introduction_to_Geological_Maps_and_Structures_John_L_Roberts_Auth_Z_Library.txt
-> 字符数（约）：240687
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Other Related Pergamon Titles of Interest
 
 Books ALLUM: Photogeology and Regional Mapping ANDERSON & OWEN: The Structure of the British Isles, 2nd edition ANDERSON: The Structure of Western Europe BARBER & WIRYOSU The Solid and Drift Edition shows the distribution of the superficial deposits by means of colouring. The solid rocks are only coloured on these maps where they are not overlain by superficial deposits. The older maps of this type were termed drift maps, simply because most of the superficial deposits in Great Britain are formed by glacial drift. The Solid Edition of the same maps does not show the superficial deposits by means of colouring. Instead, the solid rocks are coloured even where they are overlain by superficial deposits. Symbols printed on the map are used to show the nature of the superficial deposits. However, such maps often show the more widespread areas of river alluvium and wind-blown sand by means of colouring.

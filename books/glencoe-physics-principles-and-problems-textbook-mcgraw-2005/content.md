@@ -1,10 +1,5 @@
 # Glencoe Physics Principles and Problems textbook McGraw 2005
 
-> 来源文件：pre_Glencoe_Physics_Principles_and_Problems_textbook_McGraw_2005.txt
-> 字符数（约）：2517432
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 interactive student edition
 
 A Glencoe Program Visit the Physics Web site physicspp.com You’ll find: Problem of the Week, Standardized Test Practice, Section Self-Check Quizzes, Chapter Review Tests, Online Student Edition, Web Links, Internet Physics Labs, Alternate CBL™ Lab Instructions, Vocabulary PuzzleMaker, In the News, Textbook Updates, Teacher Forum, Teaching Today—Professional Development and much more!
@@ -14,10 +9,6 @@ Cover Images Each cover image features a major concept taught in physics. The ru
 In addition, the spheres demonstrate the conservation of momentum.
 
 Fire represents thermodynamics—the study of thermal energy—and lightning, which is composed of negative electric charges, represents electricity and magnetism.
-
-Except as permitted under the United States Copyright Act, no part of this publication may be reproduced or distributed in any form or by any means, or stored in a database retrieval system, without prior written permission of the publisher. The term CBL 2 is a trademark of Texas Instruments, Inc.
-
-Send all inquiries to: Glencoe/McGraw-Hill 8787 Orion Place Columbus, OH 43240-4027 ISBN: 0-07-845813-7 Printed in the United States of America.
 
 2 3 4 5 6 7 8 9 10  055/027  10 09 08 07 06 05 04
 
@@ -1146,8 +1137,6 @@ Evaluate the Answer • Are the units correct? 1 volt  1 ampere-ohm, so the ans
 Math Handbook Isolating a Variable page 845 ■Figure 1-1 Physicists use mathematics to represent many different phenomena—a trait sometimes spoofed in cartoons.
 
 Mathematics in Physics Physics uses mathematics as a powerful language. As illustrated in Figure 1-1, this use of mathematics often is spoofed in cartoons. In physics, equations are important tools for modeling observations and for making predictions. Physicists rely on theories and experiments with numerical results to support their conclusions. For example, think back to the Launch Lab. You can predict that if you drop a penny, it will fall. But how fast? Different models of falling objects give different answers to how the speed of the object changes, or on what the speed depends, or which objects will fall. By measuring how an object falls, you can compare the experimen- tal data with the results predicted by different models. This tests the models, allowing you to pick the best one, or to develop a new model.
-
-©1998 Bill Amend/Dist. by Universal Press Syndicate
 
 For each problem, give the rewritten equation you would use and the answer.
 

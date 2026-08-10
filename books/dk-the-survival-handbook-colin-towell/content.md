@@ -1,23 +1,12 @@
 # DK The Survival Handbook Colin Towell Z Library
 
-> 来源文件：pre_DK_The_Survival_Handbook_Colin_Towell_Z_Library.txt
-> 字符数（约）：852662
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 COLIN TOWELL ESSENTIAL SKILLS FOR OUTDOOR ADVENTURE SURVIVAL THEHANDBOOK
 
 Introduction BEFORE YOU GO Introduction: Prepare Yourself Getting into Shape Mental Preparation Planning Your Journey Emergency Plan of Action Introduction: Know Your Environment Temperate Environments Tropical Environments Mountain Environments Desert Environments Cold Environments Marine Environments Introduction: Get the Right Gear Choosing Your Gear Choosing a Backpack Dressing for the Outdoors Extreme Survival—In the Wilderness Sleeping Systems Eating on the Trail Camping Stoves Your Survival Kit IMPORTANT NOTICE Some of the techniques described in this book should be used only in dire emergencies, when the survival of individuals depends upon them. The publisher cannot be held responsible for any injuries, damage, loss, or prosecutions resulting from the use or misuse of the information in this book. Do not practice these techniques on private land without the owner’s permission, and obey all laws relating to the protection of land, property, plants, and animals.
 
-FOURTH EDITION DK London Designer  Daksheeta Pattni Project Editor  Rose Blackard-Ord US Editor  Jennette ElNaggar US Executive Editor  Lori Cates Hand Managing Editor  Gareth Jones Senior Managing Art Editor  Lee Griffiths Producer, Pre-Production  Robert Dunn Senior Producer  Rachel Ng Jacket Design Development Manager  Sophia MTT Associate Publishing Director  Liz Wheeler Art Director  Karen Self Publishing Director  Jonathan Metcalf DK Delhi Senior Editor  Shatarupa Chaudhuri Senior Art Editor  Vikas Chauhan Assistant Editor  Sai Prasanna Managing Editor  Kingshuk Ghoshal Managing Art Editor  Govind Mittal DTP Designer  Bimlesh Tiwary Jacket Designer Tanya Mehrotra THIRD EDITION DK London Senior Editors  Nicky Munro, Richard Gilbert Senior Art Editors  Michael Duffy, Gillian Andrews Editors  Kate Taylor, Bob Bridle, Chris Hawkes, Philip Morgan, Gill Pitts, Clare Weber Art Editors  Renata Latipova, Sarah-Anne Arnold, Katie Eke, Phil Gamble, Sharon Spencer Lead Illustrator  Mike Garland Assisting Illustrators  Darren Awuah, Phil Gamble, Peter Liddiard, Tim Loughead, Mark Walker DK Delhi Editor  Nishtha Kapil Assistant Art Editor  Sonakshi Singh Pre-Production Producer  Bimlesh Tiwary Managing Editor  Rohan Sinha Deputy Managing Art Editor  Anjana Nair Pre-Production Manager  Balwant Singh Jacket Designer  Surabhi Wadhwa Senior DTP Designer  Harish Aggarwal Managing Jackets Editor  Saloni Singh This American Edition, 2020 First American Edition, 2009 Published in the United States by DK Publishing 1450 Broadway, Suite 801, New York, NY 10018 Copyright © 2009, 2012, 2016, 2020 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 20 21 22 23 24 10 9 8 7 6 5 4 3 2 1 001–318462–Mar/2020 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-0-7440-2181-3 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use.
-
-For details, contact: DK Publishing Special Markets, 1450 Broadway, Suite 801, New York, NY 10018 SpecialSales@dk.com Printed and bound in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com CONTENTS
 
 ON THE TRAIL Introduction: Find Your Way Maps and Map Reading Get Your Bearings Route Finding Navigating without a Compass Natural Navigation How Weather Works Weather Phenomena Understanding Local Weather Introduction: Make a Move Traveling on Foot Crossing Rivers Scrambling and Climbing Extreme Survival—In the Mountains Moving over Snow Using Pack Animals 100 Four-Wheel Driving 104 Kayaking and Canoeing 106 Building a Raft 108 Swimming CAMP CRAFT Introduction: Camp Essentials Organizing Your Site 116  Staying Clean Making Fire 120 The Elements of Fire Char Cloth and Fire Can Types of Fires Making Sparks and Flames Extreme Survival—In the Desert 130  Fire by Friction 134 Introduction: Manual Skills 136 Man-Made Cordage 138 Natural Cordage Tying Knots 146 Using Cutting Tools
 
@@ -519,11 +508,7 @@ JHY280771culv Expires: 12/28/2028 Languages spoken (fluent/basic): English—nat
 
 Weight:  168 pounds (76 kg)
 
-Hair colour: Brown Swimmer: Strong swimmer Outdoor skills/experience: Attended basic military survival training Attended basic bushcraft course Experienced in living outdoors Allergies: Penicillin Next of kin 1: Father Timothy Culver 1018 Furlong Avenue Brunswick, Maine, 04555 USA Next of kin 2: Mother Lindsey Culver 1018 Furlong Avenue Brunswick, Maine, 04555 USA Tel: (001) 515 555 2356 Tel : (0044) (0)155 555 2357 Email: timothyculver@internet.com Email: lindseyculver@internet.com Trip details: Campsite 1 = Grid ST456654 Campsite 2 = Grid ST654987 Vehicles: Landrover 1 = white, reg MH55 555 Landrover 2 = blue, reg MH56 555 Group = Ben Jones, Kim Smith, and myself Day 1: Park Landrover 2 at Campsite 2, and drive in Landrover 1 to Campsite 1 Day 2: Follow well-defined path along the Derwent Line Trail, aiming to camp overnight at Grid 4561559 Day 3: Continue along the Derwent Line Trail, aiming to be at Campsite 2 by midafternoon. Camp overnight at Campsite 2 Day 4: Travel in Landrover 2 to campsite 1 and retrieve Landrover 1 Foreseeable problems/intentions: Day 1: None Day 2: None but will use Ranger Station 18, grid 555555 (Tel. 666 6666) as an emergency rendezvous point Day 3: None but will use Ranger Station 19, grid 666666 (Tel. 555 5555) as an emergency rendezvous point Day 4: None Communications plan: Will speak to Dad on the morning of Day 1 and try to call during the trek but am unsure of cell reception once on the trail so don’t worry if you hear nothing.
-
 Will call Dad again when we reach campsite 2 on Day 3.
-
-Date:  November 23, 2020 My cell:  07979 555555 My email:  travisculver@internet.com Alt. No: Timothy 05555 555555 Alt. No: Lindsey 05555 555555 Alt. No: Campsite  1 555 555 55555 Alt. No: Campsite 2 555 555 55555
 
 ## EMERGENCY PLAN OF ACTION FORM
 

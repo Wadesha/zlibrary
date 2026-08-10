@@ -1,10 +1,5 @@
 # Great City Maps DK Z Library
 
-> 来源文件：pre_Great_City_Maps_DK_Z_Library.txt
-> 字符数（约）：361821
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 s m i t h s o n i a n CITYMAPS GREAT A historical journey through maps, plans, and paintings
 
 GREAT CITYMAPS
@@ -17,15 +12,9 @@ Amsterdam, 1770 Jan Mol and Company Ghent, 1534 Unknown artist Marseille, 1754 J
 
 Established in 1846, the Smithsonian—the world’s largest museum and research complex— includes 19 museums and galleries and the National Zoological Park. The total number of artifacts, works of art, and specimens in the Smithsonian’s collections is estimated at 138 million, much of which is contained in the National Museum of Natural History, which holds more than 126 million specimens and objects. The Smithsonian is a renowned research center, dedicated to public education, national service, and scholarship in the arts, sciences, and history.
 
-First American Edition, 2016 First published in the United States by DK Publishing, 345 Hudson Street, New York, New York 10014 Copyright © 2016 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 16 17 18 19 20   10 9 8 7 6 5 4 3 2 1 001–288647–Sept/2016 Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN 978-1-4654-5358-7 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Printed and bound in China For further information see: www.dkimages.com A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com
 
 Vienna, 1529 Niklas Meldemann Vienna, 1769–73 Joseph Daniel Huber Beijing, c.1800 Unknown artist Beijing, 1936 Frank Dorn Madrid, 1656 Pedro Teixeira Albernaz Madrid, 1861 Francisco Pérez Baquero Kyoto, c.900–1100 Unknown artist Kyoto, 1863 Unknown artist Berlin, 1688 Unknown artist Seoul, undated Unknown artist Prague, 1820 Joseph Jüttner Moscow, 1617 Georg Braun and Franz Hogenberg Moscow, 1739 Ivan Fyodorovich Michurin Washington, 1792 Samuel Hill Washington, 1880 C. R. Parsons Cairo, 1521–26 Piri Reis Paris, 1615 Matthäus Merian Paris, 1739 Louis Bretez Rio de Janeiro, 1867 E. & H. Laemmert Rio de Janeiro, 1929 Arthur Duarte Ribeiro Shanghai, 1935 Carl Crow and V. V. Kovalsky New Amsterdam, 1660 John Wolcott Adams and Isaac Newton Phelps Stokes Paris, 1878 Edouard Dumas-Vorzet Edinburgh, 1804 John Ainslie St. Petersburg, c.1721 Johann Baptist Homann St. Petersburg, 1885 A. Ilyin Cartographic Company Baghdad, 1533 Matrakçi Nasuh New York, 1767 Bernard Ratzer New York, 1875 Parsons & Atwater New York, 1963 Hermann Bollmann New York, 2013 Maxwell Roberts Tokyo, 2014 Sohei Nishino INDEX
 
@@ -373,8 +362,6 @@ Jerusalem, c.1716 DANIEL STOOPENDAAL    HAND-COLORED COPPERPLATE ENGRAVING  �
 
 ## MAP OF JERUSALEM
 
-1 SOURCE MATERIAL  Villalpando’s 1604 plan of Jerusalem was the basis for many later maps of the city. It was first printed in black and white in a commentary on the Book of Ezekiel from the Old Testament, so Villalpando was eager to show Jerusalem as it was before the time of Christ. However, he made many incorrect assumptions about the imposition of Roman architectural tenets on the city at this time.
-
 ## SCALE
 
 ## ANCIENT CITIES
@@ -578,8 +565,6 @@ Settlement had shrunk to a small area of ragged and irregular buildings, and maz
 ## ANCIENT CITIES
 
 When Hernán Cortés’s 600-strong force of Spanish soldiers first laid eyes on the Aztec capital city of Tenochtitlan (the site of current-day Mexico City) in November 1519, they were amazed. Although their three-month trek into the interior had shown them that the Aztecs were by no means unsophisticated savages, the city that confronted them, ingeniously constructed across part of a lake surrounded by steep volcanic cones, was unlike any they had seen before.
-
-Cortés, the leader of the expeditionary force of soldiers (known as conquistadores) that would eventually overthrow the Aztecs, sent regular despatches describing the marvels of the city back to Charles I of Spain, including detailed colored woodcut maps, largely drawn up by Aztec artists under the guidance of Spanish friars. This particular map, first published with Cortés’s letters in Nuremberg, Germany, in 1524, also features a map of the Gulf Coast to the left of Tenochtitlan. The city plan itself has many inaccuracies, such as the city’s relation to Lake Texcoco—in reality it only occupied a small area of the lake system. Nevertheless, the map does include valuable details, such as the layout of the lake-bound center, linked to the mainland by defendable causeways, and the multistoried buildings organized around a huge governmental and ceremonial temple complex.
 
 Tenochtitlan, 1524 UNKNOWN ARTIST    HAND-COLORED WOODCUT ON PAPER    NEW YORK PUBLIC LIBRARY, NEW YORK, USA
 

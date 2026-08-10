@@ -1,7 +1,7 @@
 # Macroeconomics, 6th Edition (English Version) — N. Gregory Mankiw
 
-> **Source file:** （英文版）曼昆宏观经济学第六版.txt  
-> **Approx. characters:** 242,680  
+> **Source file:** （英文版）曼昆宏观经济学第六版.txt
+> **Approx. characters:** 242,680
 > **Language:** mixed zh + en (hybrid source extraction; all substantive content preserved verbatim)
 
 ## 宏观经济学导论

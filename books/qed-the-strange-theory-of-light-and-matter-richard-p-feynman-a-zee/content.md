@@ -1,27 +1,12 @@
 # QED The Strange Theory of Light and Matter Richard P Feynman A Zee Z Library
 
-> 来源文件：pre_QED_The_Strange_Theory_of_Light_and_Matter_Richard_P_Feynman_A_Zee_Z_Library.txt
-> 字符数（约）：238788
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 QED
 
 ALIX G. MAUTNER MEMORIAL LECTURES
 
 QED: THE STRANGE THEORY OF LIGHT AND MATTER RICHARD P. FEYNMAN With a new introduction by A. Zee PRINCETON UNIVERSITY PRESS PRINCETON AND OXFORD
 
-Copyright © 1985 by Richard P. Feynman New introduction by A. Zee Copyright © 2006 by Princeton University Press Requests for permission to reproduce material from this work should be sent to Permissions, Princeton University Press Published by Princeton University Press, 41 William Street, Princeton, New Jersey 08540 In the United Kingdom: Princeton University Press, 3 Market Place, Woodstock, Oxfordshire OX20 1SY All Rights Reserved First printing, 1985 First Princeton Science Library Edition, 1988 Expanded Princeton Science Library Edition, with a new introduction by A. Zee, 2006 Library of Congress Control Number 2005934342 ISBN-13: 978-0-691-12575-6 (paperback)
-
-ISBN-10: 0-691-12575-9 (paperback)
-
-ISBN-13: 978-0-691-12717-0 (cloth)
-
-ISBN-10: 0-691-12717-4 (cloth)
-
 This book has been composed in Linotron Baskerville Printed on acid-free paper.
-
-pup.princeton.edu Printed in the United States of America
 
 Contents
 

@@ -1,10 +1,5 @@
 # Science Year by Year A Visual History From Stone Tools to Space Travel DK Z Library
 
-> 来源文件：pre_Science_Year_by_Year_A_Visual_History_From_Stone_Tools_to_Space_Travel_DK_Z_Library.txt
-> 字符数（约）：596066
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Y E A R B Y  Y E A R Science
 
 1545–1790 62 1545–1570 64 Measuring things 66 1570–1590 68 Galileo Galilei 70 1590–1610 72 Paths in the sky 74 1610–1630 76 Healing people 78 1630–1650 80 Telling the time 82 1650–1670 84 Looking closely 86 1670–1690 88 Isaac Newton 90 1690–1710 92 Traveling the world 94 1710–1730 96 Celestial atlas 98 1730–1750 100 1750–1770 102 Studying weather 104 The Little Ice Age 106 1770–1790 The age of discovery 800–1545 34 800–945 36 Anatomy 38 945–1045 40 Medieval medicine 42 1045–1145 44 Astronomy 46 1145–1245 48 Roger Bacon 50 1245–1345 52 History of gunpowder 54 1345–1445 56 1445–1545 58 Leonardo da Vinci New ideas 3 mya–8000 bce 10 Farming begins 12 8000–3000 bce 14 Cave art 16 3000–2000 bce 18 Metalworking 20 2000–1000 bce 22 Stonehenge 24 1000 bce–1 ce 26 Ancient architecture 28 1–800 ce 30 Aristotle 3 mya–800 ce Before science began Contents Traveling through time The earliest events in this book took place a very long time ago.

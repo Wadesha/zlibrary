@@ -1,10 +1,5 @@
 # Calculus Graphical Numerical Algebraic Ross L Finney Franklin D Demana etc Z Library
 
-> 来源文件：pre_Calculus_Graphical_Numerical_Algebraic_Ross_L_Finney_Franklin_D_Demana_etc_Z_Library.txt
-> 字符数（约）：1762331
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Calculus Graphical, Numerical, Algebraic F i F t h  E d i t i o n AP® Edition
 
 Calculus Graphical, Numerical, Algebraic F i F t h  E d i t i o n Ross L. Finney Franklin D. Demana
@@ -16,10 +11,6 @@ The OhiO STATe UNiverSiTy Daniel Kennedy
 BAylOr SchOOl David M. Bressoud
 
 MAcAleSTer cOlleGe AP® edition Boston Columbus Hoboken Indianapolis New York San Francisco Amsterdam Cape Town Dubai London Madrid Milan Munich Paris Montreal Toronto Delhi Mexico City São Paulo Sydney Hong Kong Seoul Singapore Taipei Tokyo
-
-www.pearsonschool.com/advanced Editor in Chief Anne Kelly Manager, Product Management and Marketing Jackie Flynn Assistant Editor Judith Garber Program Manager Danielle Miller Project Manager Mary Sanger Program Management Team Lead Marianne Stepanian Project Management Team Lead Christina Lepre Media Producer Jean Choe MathXL Content Developer Kristina Evans Senior Author Support/ Technology Specialist Joe Vetere Rights and Permissions Project Manager Maureen Griffin Procurement Specialist Carol Melville Associate Director of Design Andrea Nix Program Design Lead Beth Paquin Text Design, Composition, Illustrations, Production Coordination Cenveo® Publisher Services Cover Design Cenveo® Publisher Services Cover Image Jule Berlin/Shutterstock Copyright © 2016, 2012, 2010 by Pearson Education, Inc. All Rights Reserved. Printed in the United States of America. This publication is protected by copyright, and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise. For information regarding permissions, request forms and the appropriate contacts within the Pearson Education Global Rights & Permissions department, please visit www.pearsoned.com/permissions/.
-
-Acknowledgments of third-party content appear following the Subject Index on pp. 684–685, which constitute an extension of this copyright page.
 
 PEARSON and ALWAYS LEARNING are exclusive trademarks in the U.S. and/or other countries owned by Pearson Education, Inc. or its affiliates.
 
@@ -33,13 +24,7 @@ Calculus : graphical, numerical, algebraic / Ross L. Finney, Franklin D. Demana,
 
 Bressoud. – 5th edition.
 
-pages cm ISBN 0-13-331161-9 – ISBN 0-13-331162-7 1. Calculus–Textbooks. I. Demana, Franklin D., 1938- author. II. Waits, Bert K., author. III.
-
 Kennedy, Daniel, 1946- author. IV. Title.
-
-QA303.2.F547 2016 515–dc23 2014031803 1 2 3 4 5 6 7 8 9 10—CRK— 19 18 17 16 15 ISBN 13:  978-0-13-331161-7 (high school binding)
-
-ISBN 10: 0-13-331161-9 (high school binding)
 
 This fifth edition of our calculus book is dedicated to the memory of our friend and coauthor, Bert K. (Hank) Waits, whose larger-than-life personality and infectious enthusiasm for mathematics education inspired two generations of teachers and, through them, millions of mathematics students.
 
@@ -507,8 +492,6 @@ exercise sets The exercise sets were updated for this edition, including many ne
 
 Each exercise set begins with the Quick Review feature, which can be used to introduce lessons, support Examples, and review prerequisite skills. The exercises that follow are graded from routine to challenging. Some exercises are also designed to be solved with- out a calculator; these exercises have numbers printed within a gray oval. Students are urged to support the answers to these (and all) exercises graphically or numerically, but only after they have solved them with pencil and paper. An additional block of exercises, Extending the Ideas, may be used in a variety of ways, including group work. We also provide Review Exercises and AP Examination Preparation at the end of each chapter.
 
-For the Student The following supplements are available for purchase: AP* Test Prep Series: AP* Calculus (ISBN: 0133314588)
-
 • Introduction to the AP AB and BC Calculus Exams • Precalculus Review of Calculus Prerequisites • Review of AP Calculus AB and Calculus BC Topics • Practice Exams • Answers and Solutions For the Teacher The following supplements are available to qualified adopters: Annotated Teacher’s Edition • Answers included on the same page as the problem appears, for most exercises. All answers included in the back of the book.
 
 • Solutions to Chapter Opening Problems, Teaching Notes, Common Errors, Notes on Examples and Exploration Extensions, and Assignment Guide included at the beginning of the book.
@@ -517,15 +500,7 @@ Solutions Manual • Complete solutions for Quick Reviews, Exercises, Exploratio
 
 To the Teacher xxiii The Fifth Edition of Finney, Demana, Waits, Kennedy, Bressoud Calculus is accompanied by an extensive range of technology resources designed to support students in practicing and learning the material, and to assist teachers in managing and delivering their courses.
 
-MathXL® for School (optional, for purchase only)—access code required, www.mathxlforschool.com MathXL for School is a powerful online homework, tutorial, and assessment supplement that aligns to Pearson Education’s textbooks in mathematics or statistics. With MathXL for School, teachers can: • Create, edit, and assign auto-graded online homework and tests correlated at the objec- tive level to the textbook • Utilize automatic grading to rapidly assess student understanding • Track both student and group performance in an online gradebook • Prepare students for high-stakes testing, including aligning assignments to state and Common Core State Standards, where available • Deliver quality, effective instruction regardless of experience level With MathXL for School, students can: • Do their homework and receive immediate feedback • Get self-paced assistance on problems in a variety of ways (guided solutions, step-by- step examples, video clips, animations)
-
-• Have a large number of practice problems to choose from, helping them master a topic • Receive personalized study plans and homework based on test results For more information and to purchase student access codes after the first year, visit our Web site at www.mathxlforschool.com, or contact your Pearson Account General Manager.
-
-MyMathLab® Online Course (optional, for purchase only)—access code required, www.mymathlab.com MyMathLab is a text-specific, easily customizable, online course that integrates interac- tive multimedia instruction with textbook content. MyMathLab gives you the tools you need to deliver all or a portion of your course online.
-
 Technology Resources
-
-To the Teacher MyMathLab features include: • Interactive eText, including highlighting and note taking tools, and links to videos and exercises • Rich and flexible course management, communication, and teacher support tools • Online homework and assessment, and personalized study plans • Complete multimedia library to enhance learning • All teacher resources in one convenient location For more information, visit www.mymathlabforschool.com or contact your Pearson Account General Manager.
 
 Video Resources These video lessons feature an engaging team of mathematics teachers who present comprehensive coverage of each section of the text. The lecturers’ presentations include examples and exercises from the text and support an approach that emphasizes visualiza- tion and problem solving. Available in MyMathLab for School.
 
@@ -831,8 +806,6 @@ Thus, the surface area is approximated by the Riemann sum a n k=1 2pƒ1xk221 + 1
 
 x-axis to form a solid. Find the surface area of the solid.
 
-Exploration 2 Surface Area For exercises designed to be solved without a calculator the numbers of these exer- cises are printed in a grey oval. We encourage you to support the answers to exercises graphically or numerically when you can, but only after you have solved them with pencil and paper.
-
 Along with the standard types of exercises, including skill-based, application, writ- ing, exploration, and extension questions, each exercise set includes a group of Standardized Test Questions. Each group includes two true-false with justifications and four multiple-choice questions, with instructions about the permitted use of your graphing calculator.
 
 To the AP Student Each chapter concludes with a list of Key Terms, with references back to where they are covered in the chapter, as well as Chapter Review Exercises to check your comprehension of the chapter material.
@@ -974,8 +947,6 @@ in the following table for the area under the graph of y = 1>x from x = 1 to x =
 An AP* Examination Preparation section appears at the end of each set of Chapter Review Exercises and includes three free-response questions of the AP type. This set of questions, which also may or may not permit the use of your graphing calculator, gives you additional opportunity to practice skills and problem-solving techniques needed for the AP Calculus Exam.
 
 In addition to this text, Pearson Education AP* Test Prep Series: AP* Calculus, written by experienced AP teachers, is also available to help you prepare for the AP Calculus Exam. What does it include?
-
-• Text-specific correlations between key AP test topics and Calculus: Graphical, Numerical, Algebraic • Reinforcement of the important connections between what you’ll learn and what you’ll be tested on in May • 2 full sample AB exams & 2 sample BC exams, including answers and explanation • Test-taking strategies You can order Pearson Education AP* Test Prep Series: AP* Calculus by going online to PearsonSchool.com or calling 1-800-848-9500 and requesting ISBN 0-13-331458-8.
 
 Quick Quiz: Sections 7.4 and 7.5 You may use a graphing calculator to solve the following problems.
 
@@ -3773,15 +3744,11 @@ In Exercises 41 and 42, evaluate the expression.
 
 peratures in Chattanooga, TN, range from a low of 40.5°F in January to a high of 80.0°F in July. Setting January as month 0 and December as month 11, the temperature cycle can be nicely modeled by a sinusoid with equation y = A cos 1Bx2 + C, as shown in the graph below. Find the values of A, B, and C.
 
-[Source: www.weatherbase.com]
-
 ## 44. Rocky Mountain Highs The average monthly high tempera-
 
 tures in Steamboat Springs, CO, are shown in Table 1.6 below.
 
 Setting January as month 0 and December as month 11, con- struct a sinusoid with equation y = A cos 1Bx2 + C that mod- els the temperature cycle in Steamboat Springs. Support your answer with a graph and a scatter plot on your calculator.
-
-[Source: www.weatherbase.com]
 
 7 8 9 1 2 3 4 5 6 Average Monthly Temperature (°F)
 
@@ -4474,10 +4441,6 @@ Now Try Exercise 35.
 Figure 2.4 The graph of ƒ1x2 = 1x 3 - 12>1x - 22.
 
 (Example 6)
-
-One-Sided and two-Sided Limits Sometimes we need to distinguish between what happens to the function just to the right of c and just to the left. To do this, we call the limit of ƒ as x approaches c from the right the right-hand limit of ƒ at c and the limit as x approaches c from the left the left-hand limit of ƒ at c. Here is the notation we use: right@hand: xSc + ƒ1x2     The limit of f as x approaches c from the right.
-
-left@hand: xSc- ƒ1x2 The limit of f as x approaches c from the left.
 
 ## Chapter 2 Limits and Continuity
 

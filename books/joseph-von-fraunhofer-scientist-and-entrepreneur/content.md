@@ -1,10 +1,5 @@
 # Joseph von Fraunhofer Scientist and Entrepreneur
 
-> 来源文件：pre_Joseph_von_Fraunhofer_Scientist_and_Entrepreneur.txt
-> 字符数（约）：12352
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 JOSEPH VON FRAUNHOFER SCIENTIST AND ENTREPRENEUR
 
 JOSEPH VON FRAUNHOFER: FROM APPRENTICE TO DISTINGUISHED SCHOLAR

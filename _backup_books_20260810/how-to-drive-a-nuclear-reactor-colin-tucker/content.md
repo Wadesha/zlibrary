@@ -1,0 +1,1762 @@
+# How to Drive a Nuclear Reactor Colin Tucker Z Library
+
+> 来源文件：pre_How_to_Drive_a_Nuclear_Reactor_Colin_Tucker_Z_Library.txt
+> 字符数（约）：252650
+> 语言：en
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+How to Drive a Nuclear Reactor
+
+Colin Tucker
+
+How to Drive a Nuclear Reactor
+
+Colin Tucker Wickham Market, Suffolk, UK
+
+© Springer Nature Switzerland AG 2019 This work is subject to copyright. All rights are reserved by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.
+
+The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
+
+The publisher, the authors, and the editors are safe to assume that the advice and information in this book are believed to be true and accurate at the date of publication. Neither the publisher nor the authors or the editors give a warranty, expressed or implied, with respect to the material contained herein or for any errors or omissions that may have been made. The publisher remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+This Springer imprint is published by the registered company Springer Nature Switzerland AG.
+
+The registered company address is: Gewerbestrasse 11, 6330 Cham, Switzerland
+
+To Lynette
+
+Preface and Acknowledgements
+
+Have you ever wondered how a nuclear power station works? This book will show you, by asking you to imagine that you’re a trainee reactor operator on a Pressurised Water Reactor (PWR), the most common type of nuclear reactor in the world. It’ll take you on a journey from the science behind nuclear reactors, through their start-up, operation and shutdown. Along the way, it covers a bit of the engineering, reactor history, different kinds of reactors and what can go wrong with them. This book will show you how reactors are kept safe, and what it feels like to drive one.
+
+So what inspired me to write this book? It was a conversation about a book entitled How to Drive a Steam Locomotive (by Brian Hollingsworth). I was describing to a friend how the author puts the reader on the footplate of a locomotive and then gradually introduces them to the controls in front of them; what they each do; and what might go wrong. By the end of the book, it felt like you were really there. The conversation ended with me complaining about the lack of any similar book describing nuclear reactors. I have searched for such a book, but have found that most concentrate on energy policy or on nuclear accidents, with only a few short chapters on reactor operation. My experience is that often people want to know more.
+
+So I decided to write this book. I hope you enjoy reading it as much as I enjoyed writing it. (I’ll let you be the judge of whether or not it matches up to the original.)
+
+As with many industries, nuclear power stations use a lot of jargon. Hopefully, you won’t find this too off-putting—there is an Index at the back, which may help. Different kinds of reactors use different jargon (of course!) and you’ll see that this book is heavily PWR-biased, though other reactors do make an appearance. Confusingly—especially for people new to the industry—it’s not uncommon for power station equipment to have two or more different names, often used interchangeably, especially if that equipment can have different functions at different times. Examples include using the word ‘Containment’ instead of ‘Reactor Building’, ‘Reactor Coolant System’ for ‘Primary Circuit’, ‘Fuel Rod’ for ‘Fuel Pin’, etc. I’ve tried very hard to only use single terms in this book. To my ear, and perhaps to others who work at PWRs, that makes some of the text feel a little clumsy. Hopefully, to everyone else it will make things clearer. My advice to anyone reading this book is not to get too hung up on the jargon; it’s the safe operation of the reactor that matters, not the labelling.
+
+I want to start my acknowledgements by thanking my wife, Lynette, for encouraging me and helping me find the space and time to devote to writing this book. It’s not easy to fit this sort of thing into your spare time without other things being displaced. I also need to thank my first readers, Nicholas Butt and Kevin Martin, who provided both technical and non-technical review comments which have (mostly) been addressed. It can’t have been easy to read drafts of chapters when you don’t have a clear idea of how it’s all supposed to fit together. Their patience and perseverance were much appreciated.
+
+I owe an enormous debt of gratitude to the staff of the UK’s Sizewell ‘B’ nuclear power station. This has been my base for nearly 25 years, primarily working in the field of nuclear safety. Most of my experience of PWRs is Sizewell-based, and I accept that there are risks in this for an author; not every PWR is the same. I hope I’ve been flexible enough in what I’ve written for those at other PWRs (and indeed, at other reactor designs) not to feel excluded. Sizewell has a marvellously ‘open’ culture where I’ve found that I can ask questions on anything to fill gaps in my knowledge. Beyond this, I’d especially mention the support from the Management Team and from EDF Energy Corporate staff with this project. Their enthusiasm for it from the outset, without interfering in any way with its content, has made it so much more achievable.
+
+Finally, I should mention the ‘Nuclear Safety Group’ at Sizewell B. Their depth of knowledge, experience, willingness to challenge, patience and rigour go a long way to keeping Sizewell ‘B’ as safe as it is. Their humour makes it enjoyable! This book, though ostensibly concerned with reactor operation, probably comes closest to a view of the world as it’s seen from the Nuclear Safety Group. Make of that what you will… The majority of the content of this book is my own. Where opinions are expressed—and there are a few—they are also mine, and do not in any way reflect the views or policies of EDF Energy or of any other company. That, of course, means that any errors that you find must also be mine. For these, I apologise and say ‘well done!’ if you’ve spotted one.
+
+Personally, I find nuclear reactors fascinating. I hope you will too.
+
+Suffolk, UK Colin Tucker September 2019
+
+Contents
+
+1 One Man and His Dog
+
+## 1.1 Reading This Book Won’t Qualify You to Drive a Nuclear Reactor
+
+## 1.2 What This Book Covers
+
+## 1.3 The Three Key Concepts
+
+## 1.4 And Finally…
+
+2 Physics Is Phun!
+
+## 2.1 Atoms and Nuclei
+
+## 2.2 Fission
+
+## 2.3 Fast and Slow Neutrons
+
+## 2.4 Chain Reactions
+
+3 Being Friendly to Neutrons
+
+## 3.1 Introducing Reactivity
+
+## 3.2 Niles and milliNiles…
+
+## 3.3 Your Reactor’s Fuel
+
+## 3.4 Your Control Rods
+
+## 3.5 The Boiling ‘Point’ of Water
+
+4 Criticality Is Not as Bad as It Sounds
+
+## 4.1 Criticality: One of Science-Fiction’s Biggest Mistakes
+
+## 4.2 Starting Subcritical: A Shutdown Reactor
+
+## 4.3 Approaching Criticality
+
+## 4.4 Supercriticality: Also Not a Problem
+
+## 4.5 Prompt and Delayed Neutrons
+
+## 4.6 Chicago Pile 1 (CP-1)
+
+5 What Makes Nuclear Special?
+
+## 5.1 A Compact Source of Energy
+
+## 5.2 Fission Products
+
+## 5.3 Decay Heat
+
+## 5.4 The Worst That Could Happen
+
+6 The Thing You Put Your Reactor in…
+
+## 6.1 The Reactor Pressure Vessel
+
+## 6.2 The Steam Generators
+
+## 6.3 The Reactor Coolant Pumps
+
+## 6.4 The Pressuriser
+
+## 6.5 Putting It All Together
+
+## 6.6 Inside the ‘Can’
+
+## 6.7 A Sense of Scale
+
+7 Pull the Rods Out and Stand Back
+
+## 7.1 Where Do You Start?
+
+## 7.2 Are You Protected?
+
+## 7.3 Predicting Criticality
+
+## 7.4 Changing Boron
+
+## 7.5 First Steps
+
+## 7.6 Approach to Criticality
+
+## 7.7 Waiting for Criticality…
+
+## 7.8 Doubling Time and Start-Up Rate
+
+## 7.9 Where to Next…?
+
+8 Watt Power?
+
+## 8.1 Three Problems with Flux
+
+## 8.2 Nitrogen-16
+
+## 8.3 Using Heat (Primary Circuit)
+
+## 8.4 Using Heat (Secondary Circuit)
+
+## 8.5 What Doesn’t Work
+
+## 8.6 Back to Fissions
+
+9 Your Reactor Is Stable (Part One)
+
+## 9.1 Fuel Temperature
+
+## 9.2 Moderator Temperature
+
+## 9.3 It’s a PWR, so It’s Stable
+
+## 9.4 Another Coefficient
+
+## 9.5 Chernobyl Reactor Number 4, 26th April
+
+## 9.6 Remember That You Have a PWR
+
+10 You’ve Got to Do Something with All that Steam
+
+## 10.1 Steam Generators: Viewed from the Other Side…
+
+## 10.2 Main Steam Lines
+
+## 10.3 Steam Turbines
+
+## 10.4 The High Pressure Turbine
+
+## 10.5 Re-using the Steam
+
+## 10.6 The Condensers
+
+## 10.7 The Way Back
+
+## 10.8 The Generator
+
+## 10.9 The Big View of the Power Station Cooling Circuits
+
+11 The Big Red Button…
+
+## 11.1 What Next?
+
+## 11.2 Trips and Scrams…
+
+## 11.3 What Makes a Good Control Room?
+
+## 11.4 How Many Reactors?
+
+12 Your Reactor Is Stable (Part Two)
+
+## 12.1 Steam Generator Conditions
+
+## 12.2 Heat Transfer
+
+## 12.3 A Practical Example: A Small Change in Electrical Power
+
+## 12.4 Keeping on Program
+
+## 12.5 Steam Dumping
+
+## 12.6 And Finally… Boron
+
+## 12.7 Routine Dilutions
+
+13 Putting a Spin on It
+
+## 13.1 Stable at Low Power
+
+## 13.2 Supporting Your Turbine
+
+## 13.3 Spinning-Up
+
+## 13.4 Synchronising
+
+## 13.5 Turbine Power Raising
+
+14 Going Up!
+
+## 14.1 Reactor Power Raising
+
+## 14.2 Power Defect
+
+## 14.3 Power Shape
+
+## 14.4 Iodine and Xenon
+
+## 14.5 Xenon Build-Up
+
+## 14.6 Xenon After a Trip
+
+## 14.7 January Sales
+
+15 Power, and How to Change It
+
+## 15.1 The Toolkit
+
+15.2 2 Practical Example: A Significant Power Reduction
+
+## 15.3 What You Really Do
+
+## 15.4 Controlling Axial Power Shape
+
+## 15.5 And Xenon
+
+## 15.6 Flexible Operation
+
+## 15.7 Load Following
+
+## 15.8 Taking the Long View
+
+16 Steady Power with Nothing to Do?
+
+## 16.1 The ‘Q’ Word?
+
+## 16.2 Burning-Up
+
+## 16.3 Primary Circuit
+
+## 16.4 Steam Generators
+
+## 16.5 Steam Demand
+
+## 16.6 What Else Might You Be Doing?
+
+## 16.7 Predicting Criticality
+
+17 It’s All About Safety
+
+## 17.1 The Interview
+
+## 17.2 Building a Bridge
+
+## 17.3 Safety Cases
+
+## 17.4 What Can Go Wrong with Your PWR?
+
+## 17.5 The Three ‘C’s
+
+## 17.6 Automatic Protection
+
+## 17.7 Engineered Safety Features
+
+## 17.8 How Safe Is ‘Safe Enough’?
+
+## 17.9 The Windscale Fire
+
+## 17.10 International Perspectives
+
+## 17.11 Tolerable Risk
+
+## 17.12 Just a Small One…
+
+18 What Can Go Wrong (and What You Can Do About It)
+
+## 18.1 Can You Cope?
+
+## 18.2 Fault 1: A Loss of Grid
+
+## 18.3 Natural Circulation
+
+## 18.4 Batteries and Back-Up Generators
+
+## 18.5 Pumps etc
+
+## 18.6 Recovering from a Loss of Grid
+
+## 18.7 Fault 2: A Large Break Loss of Coolant Accident (LB LOCA)
+
+## 18.8 Safety Injection (SI)
+
+19 Smaller Isn’t Always Easier
+
+## 19.1 Fault 3: A Small Loss of Coolant Accident
+
+## 19.2 The Operator’s Choice
+
+## 19.3 Finding a Balance
+
+## 19.4 Moving On, Moving Down
+
+## 19.5 Small LOCA, Big Problem
+
+## 19.6 Fault 4: Steam Generator Tube Leak (SGTL)
+
+## 19.7 How Is That Acceptable?
+
+20 What Else Can Go Wrong?
+
+## 20.1 Fault 5: Main Steam Line Break (MSLB)
+
+## 20.2 Fault 6: Severe Accidents
+
+## 20.3 Fukushima Daiichi
+
+## 20.4 In the Longer Term
+
+## 20.5 The Best Way to Deal with a Severe Accident…
+
+21 When You Run Out of Oomph
+
+## 21.1 Coast-Down
+
+## 21.2 Shutting Down
+
+## 21.3 Cooling Down
+
+## 21.4 Reactor Coolant Pumps
+
+## 21.5 Boron
+
+## 21.6 The Chemists Are in Charge
+
+## 21.7 Cooling When Cooled Down
+
+## 21.8 Lifting the Lid
+
+## 21.9 Defuelling, Shuffling, Refuelling
+
+## 21.10 The Way Back
+
+## 21.11 Physics Testing
+
+## 21.12 Afterwards
+
+22 Other Reactor Designs Are Available
+
+## 22.1 A Little Bit of History
+
+## 22.2 Pressurised Water Reactors (PWRs)
+
+## 22.3 Boiling Water Reactors
+
+## 22.4 CANDU Reactors
+
+## 22.5 MAGNOX Reactors
+
+## 22.6 Advanced Gas-Cooled Reactors (AGRs)
+
+## 22.7 RBMK Reactors
+
+## 22.8 Fast Reactors
+
+## 22.9 Thorium
+
+## 22.10 The Paper Reactors
+
+## 22.11 And the Winner Is?
+
+## 22.12 Don’t Just Take My Word for It…
+
+23 How to Build Your Own Reactor
+
+## 23.1 First the Fuel
+
+## 23.2 Plutonium
+
+## 23.3 Enriched Uranium
+
+## 23.4 The Nuclear Non-Proliferation Treaty (NNPT)
+
+## 23.5 Natural Uranium
+
+## 23.6 It’s Not Going to Happen
+
+## 23.7 Has Anyone Ever Tried?
+
+24 And There’s More…
+
+## 24.1 One Small Book
+
+## 24.2 Not Just Operations
+
+## 24.3 Spent Fuel…
+
+## 24.4 …and Radioactive Wastes
+
+## 24.5 At the End of the Day
+
+## 24.6 Off the Grid?
+
+## 24.7 Books, Accidents and Weapons
+
+## 24.8 The Politics and the Campaigning
+
+25 Conclusion Picture Credits and Sources Index
+
+One Man and His Dog I’ve heard it said that a modern nuclear power station could be operated by one man and a dog. The man would be there to feed the dog, and the dog would be there to bite the man if he touched any of the controls… If only.
+
+## 1.1 Reading This Book Won’t Qualify You to Drive a Nuclear Reactor
+
+The idea of this book is to explain how a nuclear reactor works and how it can be operated to produce power for the electricity grid. This book won’t qualify you to drive a nuclear reactor. That takes a couple of years of training, including hundreds of hours in a simulator. On the other hand, this book will probably give you a much better idea of what is involved in driving one.
+
+So, in starting this book, let’s imagine that you’ve passed all the entrance tests for a job in the ‘main control room’ of a modern nuclear power station, like the one in Fig. 1.1, and you’re ready to learn how it all works. Now your supervisor suggests you change reactor power. Do you have any idea what to do? Or perhaps the computer system displays an alarm. What does it mean? Which of the quarter of a million or so different items of equipment—depending on how you count them—does this alarm refer to? Is it a problem? Will you respond using one of the few hundred controls and indications in the control room or will someone have to be sent to look at the equipment locally? Could something more significant be going on? Will you have to get ready to shut down the plant. There’ll be tens of thousands of possible alarms on a modern station, and just as many procedures to follow.
+
+As a trained reactor operator, you’ll need to be able to decide when to act quickly and when to act in a more measured way. Safety is your overriding priority as it is for anyone who drives a reactor or works at a nuclear power station. After safety, you can think about what’s best for the people and the plant, but safety comes first. Despite this, you’ll understand that your power station is just a factory for making electricity. Unnecessary shutdowns are going to be expensive.
+
+I’ve never seen an individual book (including this one) that covers everything you’ll need to know. After all, an operator has very many controls at their fingertips. This book won’t take you through the function of each one, but it will show you how a competent operator works in partnership with both the physics of the reactor and with the automatic systems out on the plant.
+
+So what would make you a successful (and safe) person to drive a nuclear reactor? Well, you’re probably going to need some kind of science or engineering background; but this needn’t mean a university degree. It could be from an apprenticeship, for example. You’ll need the ability to learn a lot about a lot of different things, without necessarily becoming an expert in any of them. You’ll need to be rigorous in following procedures, but not blindly—if something doesn’t feel right, you should be the first person to stop and ask the question ‘Is this OK?’ You’ll need to be able to move from inactivity to high-speed action very quickly, without getting bored or complacent when things are quiet. On top of all this, you’ll need to be able to communicate well and work within a team.
+
+Does all of that sound impossible to learn? It’s not. There are more than 400 operating nuclear power stations in the world, and each one of them has dozens of trained operators. Think of it as being like learning to fly a passenger aircraft—it takes a lot of time (and money) to train a pilot, but there’s always one there when you get on a plane. Well, usually.
+
+## 1.2 What This Book Covers
+
+This is very deliberately not a textbook. It does cover some physics—quite a lot actually, I enjoy physics—but without the maths. In the real world, we usually let the computers do the maths! As a reactor operator, it’s the concepts that are going to be relevant to you, i.e. what happens to the reactor, when and why. The book includes more than a hundred diagrams and photos; these should help you understand the more complicated bits. There are a few definitions, but I hope that doesn’t put you off; every industry that I know of has ‘jargon’, and the nuclear industry is no exception. I’ve included an index of all the essential terms at the back of the book, just in case you need to remind yourself of anything as you go along.
+
+The majority of the reactors in the world, whether generating electricity or powering ships and submarines, are of a particular kind: Pressurised Water Reactors (PWRs), or the similar Boiling Water Reactors (BWRs). This isn’t true of the UK where most of the current electricity-generating reactors are of a different type. However, the UK has operated one very successful commercial PWR (Sizewell B) since the 1990s, and is building more e.g. Hinkley Point ‘C’, and the reactors planned for Sizewell ‘C’ and Bradwell ‘B’. For this reason, and because that is the author’s bias, this book is based around PWR operation and technology.
+
+I’m going to use this book to explain how a PWR reactor works—what makes it run. I’ll describe how, if you were a reactor operator, you’d start-up a reactor, change power levels and shut the reactor down. Once you grasp the three key concepts (see below), you’ll find that this is all much easier than you might imagine. Along the way, this book is going to introduce you to some of the history of nuclear reactors and power stations. I’ve always found this interesting, but I also think that it makes it easier to remember the things that affect the operation of the reactor.
+
+I’ll explain how a PWR reactor is refuelled and how you tell that the reactor is ready for it. I’m also going to cover several possible faults that could happen to a PWR and what you, as a reactor operator, would do about them. Safety comes first, remember? Faults are going to be a big part of an operator’s training, however unlikely they may be.
+
+## 1.3 The Three Key Concepts
+
+Driving a nuclear reactor is not as complicated as you might think, neither is it entirely intuitive. I’m going to suggest that there are three key concepts to understanding the operation of a PWR: • Reactivity, or how the conditions inside the reactor affect the fission chain reaction.
+
+• Reactor stability, the feedback mechanisms that hold it steady.
+
+• Plant stability, what happens when you connect your reactor to the rest of the plant (and beyond).
+
+If this book helps you to grasp these three key concepts, you’ll find it easy to understand the behaviour of a PWR both in its day-to-day operation and during more challenging events.
+
+## 1.4 And Finally…
+
+If you’re thinking of (or have recently started on) a career in the nuclear industry then I wish you good luck, and I hope that you’ll find this book useful. If you’re just keen on science and engineering, or perhaps you live near to a nuclear reactor, then I hope you’ll find this book informative and entertaining.
+
+If you want to read about energy policy and arguments for and against nuclear power stations then find another book; there are plenty out there on the politics of nuclear power. Similarly, this book contains only a brief history of nuclear power stations, and of the significant accidents that have shaped the industry. Once again, there are very many good books on these subjects already written. Instead, this book starts from the fact that hundreds of nuclear reactors already exist and are successfully generating electricity. Dozens more are currently under construction and will be running in a few years’ time. I’m not going to try to defend these reactors in this book; I’m just going to try to explain how to drive one.
+
+Physics Is Phun!
+
+If you’re reading this book, I expect it’s because you have an interest in science and engineering. That’s great, but the problem for me is that I don’t know how much you already know. If I guess too low, you’re going to feel insulted by what you read. If I guess too high, what I’m saying isn’t going to make sense, and you’ll lose interest.
+
+So here’s the deal: I’m going to start with some physics that I expect you’ll clearly remember from school science. I’m going to use that to explain how a nuclear reactor works, and from that starting point, I’ll be able to describe how to drive one… feel free to skip anything that you’re already familiar with (at your own risk).
+
+## 2.1 Atoms and Nuclei
+
+You’ll probably remember being told that an atom has a (small) positively charged ‘nucleus’ in the middle, with negatively charged electrons going around it—a bit like planets orbiting the sun. Things are a bit more complicated in the real world, but it’s a good enough model for our purposes.
+
+As an example, Fig. 2.1 is an illustration of a helium atom. Helium is one of the simplest of the chemical elements:
+
+Helium has two positively charged particles (called protons, shown in red) in the central bit (the nucleus) and two negatively charged particles (electrons, shown in light blue) going around the outside. The two protons tell a physicist (or a chemist) that this is helium. One proton would make it hydrogen, three would mean it was lithium, four beryllium, and so on through the more than a hundred chemical elements that have been found or manufactured. The number of electrons is usually matched to the number of protons, and it’s the number of electrons and how they are arranged that determines an element’s chemical behaviour.
+
+The two protons in our helium nucleus are positively charged so you’d expect them to push away from each other (like-charges repel, remember?). Because of this, there are also two uncharged particles (called neutrons, shown in dark blue) included in the nucleus to help glue it together. The total number of neutrons and protons is 2 + 2 = 4, so we’d call this helium-4. You can find helium atoms with only one neutron (helium-3), but they are relatively scarce on earth.
+
+Atoms are small. Really small. You could put 100 million of them in a line, and they’d only stretch one centimetre. But atoms are enormous when you compare them to the size of the nucleus. This drawing of a helium-4 atom here is not to scale as the nucleus of a real helium atom is roughly 100,000 times smaller than the size of the whole atom. This book is mostly about what happens in the nuclei of large atoms such as uranium (‘nuclei’ is the plural of ‘nucleus’). It’s a book about nuclear physics, not chemistry, so from now on, we’ll barely mention electrons. All of the drawings of atoms you see from now on will be of atomic nuclei rather than whole atoms because that’s the bit that’s interesting to us. If I’m lazy and call these ‘atoms’, don’t worry about it….
+
+So let’s look at some nuclei—Fig. 2.2 shows hydrogen-1, helium-4, oxygen-16, iron-56 and uranium-235:
+
+Hydrogen-1 is a single proton with no neutrons. Helium-4 and oxygen-16 have 2 and 8 protons respectively, i.e. they have the same number of neutrons as they have protons. Iron-56 has 26 protons and 30 neutrons (a few more neutrons than protons). By the time you get all the way out to uranium-235 with 92 protons, you find that there are 143 neutrons. This just shows that the more protons you have in a nucleus, the progressively more neutrons you need to stick it together (this becomes important in Chap. 5 when we talk about radioactive fission products).
+
+By the way, the chemical symbol for uranium is ‘U’, so I’m going to use ‘U-235’ instead of uranium-235 from now on; it’ll be easier to read.
+
+## 2.2 Fission
+
+U-235 is not a happy atom… (OK, I mean nucleus, but that doesn’t sound as good, does it?)
+
+If you can find a way to give a U-235 nucleus just a bit more energy, it’ll probably give up and split into two smaller nuclei. In physics, there are ways of doing this. For a nucleus, a simple way is to drop in another neutron—we could call this process ‘neutron capture’, if we wanted to be technical about it. The neutron itself won’t be carrying a lot of energy, but it will release energy when it joins with the nucleus—think of the noise you get when you snap a magnet onto a block of iron, and you’ll get the idea.
+
+That extra energy makes the U-235 nucleus pretty unstable. One way to imagine this is to think of the U-235 nucleus as a large water droplet in a weightless environment such as on a space station. If you’ve seen any videos of these, you’ll have seen how a droplet can start out spherical but if it’s poked it can get squashed, stretched and even split into two droplets. If this were to happen, the two new smaller water droplets would probably just sit (float?) there. But that doesn’t happen with nuclei as they are each made up of a large number of positively charged protons along with the neutrons—the electrons are a very long way away on this scale and don’t really get involved. The two smaller positively charged nuclei will be pushed away from each other very strongly, accelerating to reach tremendous speed before eventually bumping into other atoms and slowing down. Their speed energy will then have been converted into heat. Most of the energy from the splitting of a U-235 atom is carried away by these smaller nuclei.
+
+This splitting process is called fission and is shown in Fig. 2.3. The smaller nuclei left behind are usually known as ‘fission products’. If a neutron happens to encounter a U-235 nucleus and is travelling slowly enough to be captured, it’s then very likely that fission will occur. It’s a quick process—for an individual U-235 atom it’s all over in around a millionth of a millionth of a second. But the energy released by even a single fission event is enormous on an atomic scale. It’s roughly 2.5 million times the energy that you get from ‘burning’ a carbon atom to make carbon dioxide.
+
+That much energy could probably be quite useful if we could just find a way of encouraging these fission events to happen more often…? Helpfully, U-235 does this for us, because with every fission event we also get two or three spare neutrons. In theory, these could go on to cause more fissions, giving us a ‘chain reaction’. In practice, it’s a little more complicated.
+
+Most uranium dug up out of the ground (natural uranium) isn’t U-235; it’s U-238 (it has three more neutrons). It’s much less likely that U-238 will fission if it captures a neutron—it’s a more stable nucleus. Unfortunately, only around 0.7% of natural Uranium is U-235. You can increase the proportion of U-235 through a process called enrichment, but that’s expensive, so most enrichment plants stop at around 4–5% U-235. (If you enrich too far the politics get tricky as you’d effectively be making the raw material for nuclear weapons; let’s not go there). That means that you’re still stuck with a lot of U-238 in your fuel, which won’t fission but can affect the reactor in other ways (as you’ll see in later chapters).
+
+At this point, you might be wondering where all this extra energy actually comes from? Here’s the trick: if you add-up the masses (weights) of the fission products and neutrons after the fission, you find that they weigh a little less than the U-235, plus the extra neutron, that you started with. The fission process has converted some of the original mass into energy in line with Einstein’s famous equation Energy equals Mass times the Speed of Light Squared (E = mc2). It only takes a little bit of lost mass to give a lot of energy as c2 is such a large number, whatever units you use. Another way to think of it is that the fission products are more tightly stuck together than the original U-235 nucleus because they are smaller nuclei and the attractive forces work better over short distances. In squeezing the nuclei together a bit tighter, a bit of spare energy is released. If you want to know more, go online and look up the physics of ‘binding energy’.
+
+## 2.3 Fast and Slow Neutrons
+
+Neutrons released during and after a fission event are moving at around ten thousand miles per second. Even Physicists are happy to call them ‘fast neutrons’. This matters because it makes them far less likely to be captured by a U-235 nucleus. It’d be like shooting a steel ball-bearing past a magnet at very high speed; it’s not liable to be stopped. On the other hand, throw a ball bearing slowly towards a magnet, and it’ll stop dead. So to encourage further fissions, we need to design a reactor that slows down its neutrons. An excellent way to slow down fast neutrons is to let them bounce around in some material, giving up a bit of their energy (speed) with each collision. After enough collisions, the fast neutrons will have become ‘slow neutrons’. Slow neutrons are sometimes called ‘thermal’ neutrons. This is because they will be travelling at the same speed as the atoms of the material around them, so to a physicist, they are ‘in thermal equilibrium’ with it.
+
+Physics has fancy names for this process of slowing-down neutrons: it’s called ‘moderation’, and we call the material in which the neutrons slow-down a ‘moderator’. In a ‘Pressurised Water Reactor’ (PWR) water is used as the moderating material. Physics tells us that more energy is lost in each collision if the atoms that the neutrons collide with are of a similar size (mass) to the neutrons themselves. The hydrogen atoms in water molecules—being individual protons—make water an effective moderator. The other reactors currently in the UK actually use graphite (carbon, another relatively light atom) as a moderator. Chapter 22 briefly covers different designs of reactors, where you can see this.
+
+Incidentally, this is one of the most frequent errors that people make when they talk about nuclear reactors: they’ll describe ‘control rods’ as ‘moderating’ the reaction. To a reactor operator, the moderator is what makes your reactor run! This error makes me wince every time I hear it, but I’m probably a little over-sensitive…
+
+## 2.4 Chain Reactions
+
+Once the neutrons released by the fission have been slowed to thermal energy, they are very likely to go on to cause another fission, if they encounter another U-235 atom. But, as you’ve seen, most of the uranium in a typical reactor is U-238 and, unfortunately, it’s pretty good at capturing neutrons as they slow down through intermediate speeds (between fast and slow). In practice, this means that if you simply take uranium and a moderating material and mix them together, nothing will happen. The U-238 will steal all the neutrons before they’ve had a chance to slow down.
+
+The trick to overcoming this is to use a bit of geometry: deliberately separate the uranium fuel and the moderator. This means that fast neutrons can be produced in the fuel, will escape the fuel into the moderator, where they will then slow down before bouncing back into the fuel, finding a fresh U-235 atom and causing another fission. It all sounds a bit unlikely, but it works! This is the ‘chain reaction’ that powers your nuclear reactor—it’s what makes it a ‘reactor’—as you can see in Fig. 2.4. Understanding what affects this chain reaction is the key to understanding the physics of reactors.
+
+At this point, you might be a little bit worried? I said earlier that two or three neutrons are released during or after each fission of U-235 (the average is around 2.4, but you’ll never see 0.4 of a neutron). If there’s a chain reaction going on and two or three neutrons are produced each time a U-235 atom fissions, then isn’t the chain reaction going to snowball very quickly? The answer is ‘No’. You’re going to waste the majority of your neutrons.
+
+Neutrons bounce around at random in the moderator so sometimes fall back into the fuel before they’ve sufficiently slowed down. If that happens, there’s a good chance that they’re going to get captured by a U-238 atom and so be lost from the chain reaction. Neutrons are lost in other ways. Some of them are captured by hydrogen-1 nuclei in the water to make hydrogen-2 (also known as heavy hydrogen or deuterium). Others will get captured by the engineering materials, usually metals, which are used to make the structures inside the reactor, such as the cladding that holds the fuel or the ‘control rods’ (both described in the next chapter). Some neutrons are lost simply because they leak out of the edges of the reactor (an infinite reactor would avoid this, but infinite reactors typically exceed your budget…).
+
+If the reactor is well designed, each fission will produce just enough neutrons for only one of them to go on to cause another fission. A steady number of fissions per second gives a constant rate of energy being released in the reactor. In other words, a stable power level. How many fissions? Well in a full-scale nuclear power station generating, say, 1200 megawatts of electricity, the heat output from the reactor will have to be around 3500 megawatts (1 megawatt is a million watts and is usually abbreviated to MW). The big difference between 3500 and 1200 will be explained in Chap. 10. To produce 3500 MW of heat takes 100 million million million fissions every second. That’s a lot of fissions (with no chips).
+
+Being Friendly to Neutrons
+
+You can probably already see that you could influence the ‘chain reaction’ in your Pressurised Water Reactor (PWR):
+
+• You could push control rods into the reactor. Control rods are made of materials that capture (or steal) neutrons. The more they capture, the fewer will be available to sustain a chain reaction.
+
+• A similar effect to using control rods could be achieved by dissolving something in the moderator that captures neutrons. On a PWR this is typically boron, dissolved in the form of boric-acid.
+
+• You could change the temperature of the reactor; this actually produces several different effects so we’ll come back to this when we think about stability in later chapters.
+
+• You could also replace some of the fuel with fresh fuel containing more uranium-235, though you’ll have to shut down the reactor first!
+
+It’s not very useful to only consider whether the changes we are making are helping the chain reaction or hindering it. What we really want is some way to measure the effect. The concept that we use is one of the three key concepts in this book. We call it ‘Reactivity’.
+
+## 3.1 Introducing Reactivity
+
+Imagine that you are counting all of the fissions taking place in a reactor. By doing this, you will be able to see if the number of fissions taking place (per second, say), goes up, stays the same, or goes down. The number of fissions taking place per second is going to be directly related to the reactor power. If this number is going up, we’ll say that the reactor has positive reactivity, and if it’s going down, we’ll say that it has a negative reactivity. This means that a reactor with a steady number of fissions per second (at constant power) must have a reactivity between the two, i.e. equal to zero. I once met a lecturer in ‘reactor physics’ from what was then Czechoslovakia. He told me that he taught his students that ‘Reactivity is a measure of how friendly a reactor is to neutrons’; which fits quite well with our rough definition.
+
+Reactivity is a nice concept, but how do you make it useful? You’ll find that there’s very little mathematics in this book, but if you’re interested, there a little bit coming-up:
+
+In the paragraph above, I’ve asked you to think about the number of fissions occurring per second in a reactor. Let’s think of this a different way. If we look carefully at a reactor, we could measure the average ‘lifetime’ of a neutron from the time it is released in a fission event, to the time it is captured by another uranium-235 nucleus, causing a further fission to occur. For reasons I’ll explain later, this is quite a long time in nuclear physics terms, at around 1/10th of a second; it’s ages on an atomic scale! You can think of this as the time between ‘generations’ of neutrons (it’s all really happening to different neutrons at different times, but the maths still works if you think of it the way I’m suggesting).
+
+Next, we can choose to look at the ratio of the number of neutrons (and hence fissions) in one generation, to the number in the previous generation. If this ratio (usually called ‘k’) is greater than one, then the number of neutrons in the reactor is rising and so is the reactor power. If it’s less than one, then the power is falling. If it’s precisely one, the power level is constant. This is similar to our idea of reactivity earlier but, annoyingly, it’s centred on one rather than zero.
+
+k = number of neutrons in one generation / number of neutrons in the previous generation
+
+Zero is more convenient as we like the positive/negative definition we started with, so to change ‘k’ into reactivity, we pull a mathematical trick and define:
+
+Reactivity = (k − 1) / k
+
+(The division by ‘k’ is to keep the maths straight, don’t worry about it for now).
+
+‘k − 1’ would also be called ‘delta k’ by mathematicians (delta being the Greek letter Δ) and reactivity is usually given the Greek letter rho (ρ), so our definition of reactivity becomes the rather neat looking:
+
+ρ = ∆k / k
+
+This is better than our first definition because it’s quantifiable and measurable. The rate at which the number of neutrons is rising or falling, together with the average neutron lifetime, will give us a numerical value for reactivity rather than just a positive or negative idea. So what sort of numbers are typical for a PWR?
+
+Actually, they are surprisingly small. You’ll usually be changing power very slowly in your reactor (except in a fast shutdown or ‘trip’), so reactivity can’t be moving very far from zero. Put another way, even a change in reactivity as small as 1% (0.01) would be considered a vast change in reactivity on a PWR. In contrast, I was once told that a nuclear weapon might go as high in reactivity as +4% (+0.04), though I’ve never seen this written down.
+
+## 3.2 Niles and milliNiles…
+
+Physicists do occasionally make jokes, and there’s one to uncover here. The people first working on this subject in the UK got as far as the definition of reactivity written above. Strictly speaking, it is only a ratio so shouldn’t have a name (or a ‘unit’, as we say in physics). The people who dreamt it up didn’t like that, so decided to give it one anyway. They chose to call a 1% change in reactivity a ‘Nile’. Why? Because a 1% change is a very large delta (k) and what else has a very large delta? The river Nile.
+
+I’ll be honest. It’s not a very good joke, and the Nile isn’t an internationally recognised unit. The Navy use something called a ‘Derby’ and the Americans use ‘Dollars/Cents’ which are defined differently. The French simply use per cent. However, the civil nuclear industry in the UK is very attached to the Nile, so you’ll have to get used to me using it in this book.
+
+Inserting all of the control rods in your PWR might reduce its reactivity by 0.08, or 8 Niles. But in day-to-day operation, reactivity will probably only move by a few thousandths of a Nile (known as milliNiles) away from zero, in either the positive or negative direction. So, in most instances in this book, I’ll be using milliNiles when I’m talking about reactivity.
+
+The clever thing about this definition of reactivity (actually because of the division by ‘k’, I mentioned earlier) is that it allows individual contributions to reactivity to be added-up without any complicated mathematics. So you can work out the reactivity of your fuel (positive) and subtract the reactivity change from inserting control rods (negative). All the other ways in which the chain reaction can be affected can be added and subtracted in the same way to get an overall reactivity for your reactor. Reactor physics is much simpler than it looks!
+
+## 3.3 Your Reactor’s Fuel
+
+This is probably a good time to show you the fuel that goes into your reactor. Figure 3.1 shows how a ‘Fuel Assembly’ is put together. There’s just under 200 of these fuel assemblies in your reactor’s ‘Core’ and very little else.
+
+On the right-hand side of Fig. 3.1 is a diagram of a fuel pin (or fuel ‘rod’, the terms are interchangeable). Each fuel pin in your PWR is approximately 12 mm wide and contains 400 or so uranium dioxide pellets. The pellets are roughly 10 mm tall by 10 mm wide, but cylindrical to fit inside the fuel pin. The pellets have slightly dished ends to allow for expansion. At the top of the fuel pin is a space with a spring inside. The spring pushes down on the pellets to stop them moving, and the space created by the spring is somewhere where radioactive gases (from fission products) can accumulate without over-pressurising the pin. The fuel pins themselves are made of an alloy of Zirconium (‘Zircaloy’) which looks like stainless steel but captures far fewer neutrons than steel. It also has excellent chemical properties meaning that it can withstand years of operation inside your reactor.
+
+The fuel pins are positioned in a ‘Skeleton’ that is illustrated on the left of Fig. 3.1. The fuel assembly skeleton consists of a ‘Top Nozzle’, a ‘Bottom Nozzle’ and several ‘Guide Tubes’ (also sometimes called ‘Thimble Tubes’), joining them together. ‘Gridstraps’ are attached to the guide tubes providing holes into which fuel pins are pushed. A fuel assembly arranged like the one in Fig. 3.1 has a 17 × 17 grid of holes in the gridstraps, 25 of which are taken up by guide tubes. This leaves room for 264 individual fuel pins. The fuel pins are packed close together, with just a 3 mm separation at their nearest points. That leaves just enough space between the pins for water to flow. When the reactor is operating the ‘Hold-Down Springs’ on the top nozzles will be compressed by the weight of the reactor pressure vessel’s ‘Upper Internals’ (see Chap. 6) and so will keep the fuel assemblies firmly in position in the reactor.
+
+Figure 3.2 shows you how one of you fuel assemblies looks before it is loaded into the reactor. It’s clearly a long square bundle of fuel pins, but you can also see the gridstraps and the top and bottom nozzles in the picture. Each of these fuel assemblies weighs around 600 kg and costs… more than half a million pounds.
+
+Fig. 3.2 A PWR fuel assembly
+
+## 3.4 Your Control Rods
+
+I’m going to explain how you’ll be using control rods—or not—a bit later in the book. In the meantime, it’s worth knowing that PWR control rods are each really a cluster of control rods—we call them ‘Rod Cluster Control Assemblies’ (RCCAs). You can imagine an RCCA as being a bit like a 24-legged spider, with the body of the spider being at the top, and each of the legs being nearly 4 m long. This means that an RCCA can slide into the guide tubes of a Fuel Assembly skeleton (which is why they are called ‘Guide’ tubes), leaving one spare guide tube for other purposes such as power shape measurement.
+
+Figure 3.3 illustrates the RCCA design, and also shows the round holes in the top nozzle of a fuel assembly, each of which leads to a guide tube. If you’re observant, you’ll also have seen a much smaller hole above the central guide tube, right in the middle of the Top Nozzle. This allows a slight flow of water up the central guide tube. There is a similar hole in the bottom nozzle (not shown) for each of the other guide tubes. If these holes weren’t present and the water in the guide tubes was stagnant, it would be heated to boiling by the neutrons bouncing around inside it. It’s an essential principle for anyone designing PWRs that you can’t have stagnant water anywhere near the core.
+
+The individual rodlets of the RCCA are stainless steel tubes filled with an expensive alloy—80% silver (Ag), 15% indium (In), 5% cadmium (Cd). Why? Because this alloy is especially good at capturing neutrons over a wide range of neutron energies (speeds). This means that you’ll get a very rapid shutdown of your reactor if the rods were to fall in. Other control rod materials are available, but Ag-In-Cd is one of the most commonly used in PWRs.
+
+Each RCCA is coupled to a drive shaft which lines up with a penetration in the reactor pressure vessel head (Chap. 6). Above these are hollow tubes and ‘Control Rod Drive Mechanisms’ (CRDMs). The CRDMs include magnetic grippers that can grab hold of (and move) the driveshafts, and hence move the RCCAs in and out of the reactor.
+
+## 3.5 The Boiling ‘Point’ of Water
+
+Apologies if you’re already familiar with this little bit of physics; but it’s relevant to what comes next…
+
+Go into a classroom (or a pub) and ask people the temperature at which water boils. The chances are that the answer you’ll get is ‘100 °C’ (or ‘212 °F’ if any of them are American). Now ask them at what temperature water boils on the top of Everest. You’ll probably get the same answer, or you’ll hear confusion as to whether the boiling temperature might be higher or lower. The answer is 71 °C, because the air pressure at the top of Everest is just 1/3 of what it is at ground level, and physics says that a lower air pressure lowers the boiling point of water. As another example, astronauts and high altitude pilots sometimes talk about the ‘Armstrong Line’—the altitude at which air pressure is low enough for water to boil at normal body temperature. It’s around 19 km (60,000 feet) above sea level.
+
+This works the other way around as well. Increase the pressure and the boiling point rises. You could go into a classroom and talk about pressure-cookers if you thought that the kids would have any idea what a pressure-cooker was (they all know about microwaves, but that doesn’t help). So, back to the Pub, where people remember such things: in a pressure cooker, the pressure is allowed to rise up to around twice that of normal air. This raises the boiling point of the water inside to about 120 °C, so food cooks more quickly.
+
+I’ll just mention that there are a whole set of different units that you could use for measuring pressure. In the UK it’s quite common to use ‘bar’; where 1 bar is 100,000 Pascals (an SI Unit) and is roughly equal to the normal atmospheric pressure at sea level—it’s why the weathermen use millibars in their forecasts. In America, they more typically use pounds per square inch (psi), where 1 bar is 14.5 psi. In France, MegaPascals are used, with 1 MegaPascal being equal to 10 bar. I’m going to stick with the ‘bar’ in this book as I think it’s a convenient unit for the pressures I’m going to be talking about.
+
+Figure 3.4 shows how the boiling point of water varies with pressure—sometimes called the ‘Saturation Curve’. You can see that it boils at 100 °C at 1 bar (atmospheric pressure), and right over the other side of the graph, it boils at 345 °C at 155 bar. 155 bar is the pressure that your PWR ‘Primary Circuit’ runs at, and this is why it is called a ‘Pressurised Water Reactor (PWR)’. You can also probably see how steep the graph is getting at 345 °C—you’d have to go much higher in pressure to drive the boiling point any higher—a challenge for the materials and for the engineers! This is why you won’t see many PWRs running at a significantly higher temperature; most are within just a few degrees of each other. It’s a shame, as higher temperatures would give better steam conditions, as you’ll see later, but you can’t change the laws of physics.
+
+I’ve also marked the temperature and pressure of the ‘Pressuriser’, ‘Hot Leg’ and ‘Cold Leg’ on Fig. 3.4. We’ll meet these terms when we talk about your ‘Primary Circuit’ in Chap. 6, but for the moment, this just gives you an idea of where your PWR will be operating.
+
+Fig. 3.4 The boiling point of water changing with pressure (saturation curve)
+
+Criticality Is Not as Bad as It Sounds
+
+## 4.1 Criticality: One of Science-Fiction’s Biggest Mistakes
+
+You’ll probably be able to think of a science-fiction film or TV series where one of the characters warns another “The reactor’s going to go Critical!” Panic, heroic actions and saving-the-day in the nick-of-time usually follows. There’s just one thing: a reactor going critical Criticality isn’t a problem at all… In the last couple of chapters, we looked at how a U-235 atom can be split into two smaller atoms (fission products) releasing energy and two or three fast neutrons. Some of these neutrons might be successfully slowed-down in the moderator and go on to cause fissions in more U-235 atoms. This is the chain reaction that powers your Pressurised Water Reactor (PWR). When running at full power, your reactor undergoes millions of fissions every second. But what’s going on inside a reactor that’s shutdown?
+
+## 4.2 Starting Subcritical: A Shutdown Reactor
+
+Imagine that you’ve built your PWR. It’s hot and pressurised and ready to run; it also has to be at a low enough concentration of boric acid in the moderator, but we’ll discuss that later. The only thing stopping it from working is that all of the control rods are fully inserted into the reactor. This means that it has a very negative reactivity. We’ll say that the reactor is ‘Subcritical’—you’ll see why in a minute.
+
+So, now a bit more physics: it turns out that both U-235 and U-238 atoms occasionally undergo fission without being provoked by a neutron. We call this ‘Spontaneous fission’, but on an atomic scale, it is pretty infrequent—in a kilogram of U-238, just 5 atoms will do this every second. A kilogram of U-238 contains more than 2 million million million million atoms, so this really is a rare event, and for U-235 it’s a thousand times rarer still! This probably seems insignificant, but it isn’t. It shows that in your reactor, there will always be a few neutrons being released by natural processes. In fact, many fission products also emit neutrons as part of their radioactive decay (see Chap. 5), so there are going to be even more neutrons flying around in your reactor if it contains anything other than fresh fuel.
+
+What happens to these natural neutrons? Well, they’re no different from the ones that we’ve been talking about when we’ve been considering the fission chain reaction. They’ll have a range of speeds (energies); some fast, some slow. This means that there is always a chance that a neutron will leave the fuel (where it’s been produced), be slowed by the moderator, and then find its way back into the fuel to cause fission in another U-235 atom.
+
+This won’t be very likely for an individual neutron as all of the control rods are in. Many neutrons will be captured and be unable to cause another fission, but this will sometimes happen, giving short ‘chains’ of fissions. Any chains of fissions that do occur will each quickly die away—this is consistent with our idea of a reactor being shut down, i.e. ‘k’ is less than one, reactivity is negative. But, new (short) chains will be being started all the time. So, there are still a few neutrons being produced and moving around—we call it the neutron ‘flux’—even in a shutdown reactor. This inevitably means that some neutrons will leak out the edges and you can count them with ‘neutron detectors’.
+
+I admit that this may seem at odds with how we defined ‘k’ (the ratio of the number of neutrons in one generation to that in the previous generation) as that might have led you to expect the number of neutrons to always die away to zero for a shutdown reactor (k less than one). But in a real reactor, the definitions are a little more complicated than the ones in this book. In a shutdown reactor, none of the neutrons from spontaneous fission is going to lead to a self-sustaining chain reaction, but some of them will cause short fission chains that then die out. If you add all of these small chains together at any particular time, you’ll have a measurable (low) neutron flux.
+
+## 4.3 Approaching Criticality
+
+Here’s the clever bit: if you start pulling control rods out of the core, you increase its reactivity (reactivity becomes less negative). It’s then more likely that an individual neutron will go on to cause another fission. The chains will still die-out, but on average, they will get longer. There will be more active chains at any one time. This is going to increase the neutron flux. It’s like pouring water into a cup with lots of small holes, you’ll be losing all the water you pour in (through the holes) but the faster you pour the water in, the higher the level of water in the cup will tend to be. In your reactor, the more you pull the control rods out, the less negative the overall reactivity will be, and the higher the neutron flux.
+
+The physics is very helpful here. If you model these effects mathematically, you find that if you halve ‘how negative the reactivity is’ (say, from minus 8 Niles to minus 4 Niles), then the neutron flux will double. It means you can get a clear idea of what’s going on in the reactor, just by watching the neutron counters. You can see this in Fig. 4.1.
+
+Where does this take us? If you keep withdrawing the control rods, you’ll eventually reach a point where reactivity is no longer negative. Once reactivity reaches zero, the fission chains (on average) don’t die out. This has a particular name: it’s called ‘Criticality’. Your reactor will have reached a self-sustaining chain reaction. That’s all a reactor going ‘Critical’ means—a reactivity of zero. Practically, you can think of it as ‘turning-on’ the reactor. The word ‘Critical’ tells you nothing about a reactor’s power level, other than that it is steady power; it could be at 1 watt or 3500 megawatts (MW), and it would still be critical. Before we reached criticality, the reactor was ‘Subcritical’, which just meant that the overall reactivity was negative.
+
+Unfortunately, the closer you get to criticality, the longer it takes for the neutron flux to settle down to a constant value, so it gets progressively harder to see how close you’re getting! Physics is sometimes like that. But, if you drive the reactor through criticality by pulling the control rods out just a little bit more than you need to, then you’ll see something different happen. Rather than the neutron flux detectors showing a gradually steadying neutron flux, you’ll see it rise with a very distinctive curve that we call ‘exponential’. This is known as ‘Supercriticality’, and it’s illustrated in Fig. 4.2. Overall reactivity will now be positive, and the power you are getting from fission chain reactions is increasing (exponentially, for those of you interested in the maths).
+
+## 4.4 Supercriticality: Also Not a Problem
+
+What next? Does your reactor suddenly leap up to producing 3000 MW of heat? No. Typically, criticality first occurs with a rate of fissions equivalent to just a few kilowatts of power. Now, bear in mind that the pumps circulating water through your reactor (described in Chap. 6) are adding around 20 MW of heat, and that fission product decay might be responsible for another 10 MW or so. You can see that you’re not going to be able to detect the heat (a few kilowatts) from a ‘just critical’ reactor. But you will be able to see that you’ve achieved supercriticality because the neutron flux (measured by neutrons leaking out of the reactor) won’t settle down to a steady level, but instead, will keep increasing.
+
+To get from a few kilowatts of heat at criticality, up to 3500 MW of heat (for your power station to usefully turn into electricity), you’ll need to raise power by roughly a factor of a million. That’s going to need the reactor to be supercritical for some time. But don’t worry. You’ll see in the later chapters on stability, that supercritical does not mean unstable. Once you’ve reached your intended power level, you can make a small adjustment to reactivity (e.g. by pushing the control rods back into the core a little) and power will steady-out. You’ll have returned the reactor to criticality but at a different power level from when you first took it critical.
+
+You can see now what the science fiction writers keep getting wrong, though admittedly, “Captain, the reactor’s going critical; but don’t worry, that’s harmless, and it’s what we want to happen anyway to get anything useful out of it…” doesn’t have quite the same impact, does it?
+
+## 4.5 Prompt and Delayed Neutrons
+
+There is one more bit of Physics that’s useful here, and that’s the distinction between ‘Prompt’ and ‘Delayed’ neutrons. In Chap. 2, I told you that each U-235 fission usually produces 2 or 3 neutrons. What I neglected to mention was that they don’t all appear at the time of the fission. Most do; these are the ‘prompt’ neutrons. However, a small fraction (less than 1%) are ‘delayed’ and are thrown out by some of the fission products a little later. How much ‘later’ varies a bit, but broadly-speaking, the delayed neutrons can appear anything from a few tenths of a second after fission, out to a few minutes, depending on which fission product they’ve been released from, and how it decays.
+
+Perhaps surprisingly, the delayed neutrons are really important to designing a reactor.
+
+Power changes in the reactor by about a factor of a hundred. This ensures that reactors are controllable. If you could add enough positive reactivity to your reactor, you could (in theory) reach a point where it was critical on prompt neutrons alone, i.e. ‘Prompt Critical’. Such a reactor would be very difficult to control as power level could move very, very quickly. For a PWR that would mean adding around 0.7 Niles (700 milliNiles) beyond the point where criticality occurs. For reasons that will become clear later in this book, that’s really difficult to do. Prompt criticality is easier to achieve in some other reactor designs and was a significant contributor to the Chernobyl event, discussed in Chap. 9.
+
+In the meantime demand on the UK electricity grid varies from say, 20,000 MW on warm summer weekends to around 50,000 MW on cold winter weekdays. It varies quite a bit during each day as well, as you can see in Fig. 5.1. On average, 1200 MW is 3% of demand. So one reactor is satisfying 3% of the country’s homes, factories, trains and everything else that’s powered by electricity; and it’s doing that on just 25 tonnes of uranium fuel per year.
+
+Fig. 5.1 UK electricity demand in summer and winter
+
+Let’s say you want to replace the electricity from your PWR with a coal-fired station. How much coal would you need to generate the same amount of electricity? The answer is around 2 million tonnes. That’s a pile of coal 150 m high and three times that in width. Remember, that’s just for 1 year’s generation. The UK is not building any more large coal-fired stations because of their greenhouse gas and acid-rain emissions, but if it was, the sensible place to build them is (and was) next to coal mines, so that you don’t have to transport millions of tonnes of coal across the country. In the UK, we still generate more than 40% of our electricity from burning natural gas—but that’s easier to transport. However, 25 tonnes of uranium fuel fits on just a few lorries per year. You can build your nuclear power station wherever it’s convenient, without having to worry about transporting the fuel.
+
+What about wind power? Well, most large wind turbines are capable of generating about 3 MW of electricity, but the wind is fickle, even in the UK where we have lots of wind! The wind industry will tell you that an average output for an offshore wind turbine is 30% of its rating. So to match 1200 MW, you’re going to need to build more than a 1000 large wind turbines. You’re also going to want to build them in different places so that they’re not all becalmed at the same time—though that might still happen sometimes. I’m not against wind generation—it has a vital role to play as part of a low-carbon energy mix—but it’s essential to understand the difference in scale between the output of the few large wind turbines you might see from a beach and the size of the demand on the UK grid.
+
+I said at the start of this book that I’m not going to try to defend the existence of the nuclear power stations; they exist. Hopefully, the paragraphs above will have given you an idea of just how different they are in terms of energy output, compared with other forms of generation. This is one of the things that makes them ‘special’. If you’re driving a modern PWR at steady output, you’ll have as much power at your fingertips as forty fully laden 747 aircraft taking off simultaneously. Just think about that.
+
+## 5.2 Fission Products
+
+In Chaps. 2 and 3, we looked at the fission process and chain reaction, especially in U-235. In most instances, a U-235 nucleus undergoing fission will split into two pieces, not including any free neutrons that are released. These are the ‘fission products’. So what are they?
+
+They’re smaller nuclei. You might think that splitting a U-235 nucleus occurs more or less at random, and if you’re interested in maths or science, this might lead you to imagine that you’d see a ‘normal’ distribution of fission products. It turns out that the internal structure of U-235 is a bit more complicated, and what tends to happen is that one of the fission products will be substantially heavier, one lighter. A near-even split is far less likely to occur than you’d expect. Figure 5.2 shows you the distribution of fission products from U-235 arranged by weight, i.e. the number of neutrons and protons added together. A typical fission would give you one fission product from the left-hand side of this graph, and one from the right.
+
+Fig. 5.2 Fission products from U-235 fissions
+
+As you’ve already seen, being positively charged, fission product nuclei will initially repel each other very strongly. They will leave the fission carrying most of the available energy. After that they will bounce around a bit inside the fuel, slowing down, giving off this energy as heat. Once they’ve slowed down enough, they’ll be able to pick up some stray electrons and become electrically neutral atoms.
+
+But there’s a downside. Do you remember that U-235 has 92 protons and 143 neutrons? Nuclei need progressively more neutrons to stay together, the more protons they have. So, having split into two smaller fragments, each is likely to have more neutrons than it needs. In many cases (not quite all), this is going to make the fission products unstable, leading to ‘radioactive decay’. You’d think the obvious way for a fission product to ‘decay’ if it has too many neutrons, would be to emit a neutron? A few of them do, including those responsible for the delayed neutrons mentioned in Chap. 4. However, nuclear physics is complex, and there are other ways in which fission product decay occurs. You might remember some of this from school science lessons (there are other, more obscure decay mechanisms, but we won’t deal with them here):
+
+• Alpha decay is a process that emits a small group of two protons and two neutrons as a fast-moving ‘alpha particle’. In reality, this is just a very fast helium nucleus and will slow down pretty quickly. If it is produced within your fuel, it is unlikely to escape it. Emitting an alpha particle doesn’t really help with having too many neutrons, so it’s an unlikely decay mechanism for a fission product, but alpha particles can sometimes be produced during the fission process itself, e.g. if the U-235 atom splits into three pieces rather than two.
+
+• Much more common for fission products is ‘beta decay’. In beta decay, a neutron changes into a proton and an electron. Clearly, this helps reduce the number of neutrons. The electron (beta particle) comes out of the process moving very fast. Beta particles will usually manage to leave the fuel and interact with whatever is outside it. Beta decay also produces exotic-sounding particles called anti-neutrinos. We won’t worry about those in this book as they’ll leave your reactor (and probably the planet) without interacting with anything.
+
+• Gamma decay occurs either on its own or in combination with alpha or beta decay. Gamma radiation is a higher energy version of an X-ray, so it is very penetrating.
+
+As an example, consider the fission product iodine-131 (I-131). I-131 is produced in approximately 3% of all U-235 fissions—so it’s pretty commonplace in a running reactor. Iodine 131 decays with a ‘half-life’ of 8 days—meaning that if you have some I-131 and you wait 8 days, half of the I-131 will have decayed. Wait another 8 days, and half of what you have left will have decayed. And so on…
+
+As you can see in Fig. 5.3, iodine-131 decays by beta decay to xenon-131. Remember that beta decay increases the number of protons by one, so changes the chemical element. It also reduces the number of neutrons by one, keeping the total number of protons and neutrons the same. Shortly afterwards, the xenon-131 nucleus will emit a gamma ray as it’ll have too much energy. So I-131 is both a beta and a gamma emitter.
+
+You can get very close to fuel assemblies before they’ve been used in a reactor as they will be only very mildly radioactive. In contrast, a fuel assembly that’s spent up to 5 years producing heat in a reactor (‘irradiated fuel’) will contain a lot of radioactive fission products. In fact, it will be lethally radioactive. Everything that you do with a fuel assembly after it leaves the reactor must be done with this in mind.
+
+Fig. 5.3 Decay of iodine-131
+
+## 5.3 Decay Heat
+
+We haven’t finished with radioactive fission products just yet. They are important to driving a nuclear reactor in another way. We call it ‘decay heat’. Put simply, radioactive decay releases energy. If there’s enough radioactive decay, we’ll see this energy as heat. Nuclear reactors containing irradiated fuel can produce megawatts of heat, even after they’ve been shut down. These decays all go on at different rates, and that means that total decay heat falls very quickly immediately after the reactor has shut down, then levels right off. This is because some of the fission products decay very quickly, and others much more slowly. To a mathematician, the decay heat curve is a ‘sum of exponentials’.
+
+Figure 5.4 shows a typical decay heat curve:
+
+It’s worth thinking about the numbers on this graph. At the instant of reactor shutdown, decay heat is equivalent to about 6.5% of your reactor power. After 1 min that’s dropped to 3% and after an hour to about 1%. See how the horizontal scale on the graph is stretched; it starts with seconds and goes all the way out to days. But hang on… If we’ve started with a reactor running at 3500 MW, 1% power is 35 MW. This graph is telling us that even an hour after shutdown your reactor will be producing 35 MW of heat! After 10 days, it will still be producing around 10 MW (0.3% power). If we don’t have adequate equipment to remove this heat, the reactor will overheat, and the fuel will be damaged, even though it is already shutdown.
+
+Fig. 5.4 Decay heat as a fraction of reactor power
+
+Decay Heat is one of the things that makes nuclear reactors special. In everyday life, when you shut something down, it stops producing heat and just cools down. You can turn off a coal station or a wind turbine and walk away. Radioactive decay of fission products means that nuclear reactors are different, and that’s something we’ll have to recognise if we drive one.
+
+## 5.4 The Worst That Could Happen
+
+The world is naturally (and artificially) radioactive. Whether you’re thinking of the radioactivity coming from the rocks around you and the food you eat, or the radioactivity left over from the atmospheric nuclear bomb tests in the last century, you live in a radioactive environment.
+
+From the perspective of someone who operates a nuclear power station, the worst thing that could happen would be a large uncontrolled release of radioactive fission products; that is, an event that could significantly increase the risk to the public from radioactivity. This risk only really exists because of the fission products, and that’s why I’m mentioning it here. The good news is that the vast majority of the fission products are locked-up within the structure of the fuel so it would take a dramatic event to release any fraction of them. We’ll return to the subject of things that could go wrong with your reactor in a later chapter.
+
+The Thing You Put Your Reactor in…
+
+It’s time for some engineering… for a Pressurised Water Reactor (PWR) that ‘thing you put your reactor in’ is called the ‘Primary Circuit’. It’s sometimes also called the ‘Reactor Coolant System’ because that’s what it does—it contains the cooling water that transports heat away from the reactor.
+
+In this chapter, I’m going to guide you through each of the components of the primary circuit in turn, with diagrams and photographs to help. As a reactor operator, it’s going to be essential that you have a good grasp of how this equipment is all put together. It’s the only way to really understand how it behaves and what you can do to control it.
+
+Let me start with the layout of the primary circuit, as shown in Fig. 6.1. This is the PWR cooling loop. To understand it, start at the piece of pipe labelled ‘Cold Leg’. On this diagram, the water inside the primary circuit flows from left to right then jumps from the right-hand side back to the left-hand side. I say ‘Cold’, but this water in this leg is at just over 290 °C. From the cold leg, the water flows into the ‘Reactor Pressure Vessel (RPV)’. The water flows downwards to the bottom of the RPV then back up through the ‘Core’. The core is where the fuel assemblies are located, so that is where all of the nuclear heat is being produced. The now hotter water leaves the RPV travelling into the ‘Hot Leg’. To give you an idea of scale, the hot and cold legs are probably around 0.7 m in diameter—you could crawl along one (I know someone who has!).
+
+In a PWR, the temperature rise of the water as it moves up through the core is surprisingly small, just 30 °C, or so. So the water in the hot leg is probably at about 325 °C. However, 20 tonnes of water flow through the core every second, so this small temperature rise represents an awful lot of heat energy.
+
+From the hot leg, the water flows up into the ‘Steam Generator (SG)’. This contains more than 5000 individual tubes, each like an inverted ‘U’ in shape. On the outside of the ‘U’ tubes, there is a separate circuit of water into which the primary circuit water can give up its heat. The function of the steam generator is to remove heat from the primary circuit and use it to boil secondary circuit water into steam. The primary circuit water flowing out of the steam generator will be back at the cold leg temperature (about 290 °C). From the steam generator, the primary circuit water flows into pipework (here called the ‘Crossover Leg’) that takes it to the ‘Reactor Coolant Pump (RCP)’. The electrically driven reactor coolant pump pushes the water back out into the cold leg so that it can travel around the circuit all over again.
+
+You’ll see that attached to the hot leg is something called the ‘Pressuriser’. I’ll come back to this, but first, I need to explain that PWRs are rarely built with just a single cooling loop, as shown in Fig. 6.1. Two, three or four Loops are standard; each connected to the same RPV and with a single pressuriser connected to one of the hot legs. Your PWR is a four-loop plant, as shown in Fig. 6.2.
+
+So, your PWR has one reactor held inside its reactor pressure vessel (RPV). This is connected by four hot legs to the four steam generators (SGs). A crossover leg leads from each of the steam generators to the reactor coolant pumps (again, four of these) and then four cold legs connect the RCPs back to the RPV. A single pressuriser is connected by a long pipe to one of the hot legs. It’s not the only way of arranging the pipework for a PWR, but it’s probably the most common.
+
+The water in the different loops of your primary circuit mixes in the RPV so will be at the same pressure in each of the loops—that’s why you only need one pressuriser. Why have more than one loop? Because each loop you add to your design allows you to extract more power (heat) from your reactor. The alternative would be to have fewer loops but have much larger steam generators and pumps—but you’d struggle to transport them from the factory if they got much bigger!
+
+Compared to some other designs of reactor, your PWR primary circuit is quite simple. There are no valves to operate in the primary circuit and no complex pipework. The reactor coolant pumps even run at a fixed speed, giving a (nearly) constant flow of water. There’s very little to ‘adjust’ or ‘control’ except the reactor itself. But don’t worry; you’ll see that there’ll be enough to keep you occupied as you work through this book.
+
+## 6.1 The Reactor Pressure Vessel
+
+The reactor pressure vessel (RPV) is the container that holds your nuclear core. In most PWRs (including yours) it’s actually two containers in one. The outer container is the RPV-proper, the pressure-retaining vessel that has most of the structural strength. Inside are the ‘Lower Internals’ and ‘Upper Internals’. These are the inner container, forming the structure in which the fuel assemblies and control rods are arranged. The upper and lower Internals are hung from the ledge at the top of the RPV (the ‘Core Support’).
+
+Figure 6.3 shows a cutaway diagram of the RPV. Your fuel assemblies (the core) are 4 m long, and the complete RPV is 14 m tall. This diagram shows one cold leg on the left and one hot leg on the right. In reality, the number of Hot and cold legs will correspond to the number of cooling loops, so your four-loop PWR will have four of each. The diagram clearly shows the water flow path with water entering from a cold leg and then hitting the side of the lower internals. It’s only available flow path is downwards towards the bottom of the RPV, then back up through the fuel. After this, it enters the upper internals and is free to leave into the hot leg.
+
+On Fig. 6.3, you can see that the RPV Head is bolted down so that it can be unbolted and removed for refuelling. The ‘Control Rod Drive Mechanisms (CRDMs)’ are attached to the RPV head with the drive shafts for the control rods being guided by the tubes in the upper internals. At the bottom of your PWR, there is a structure called the ‘Secondary Core Support’, that’s intended to catch the lower internals should the core support fail in a fault. This structure can also be used to guide neutron detectors into the core to routinely measure the reactor’s power shape, though not every PWR has this capability.
+
+Figure 6.4 gives you an idea of the scale of a real RPV. This is one being installed at a power station under construction. This RPV weighs 435 tonnes, including the RPV head. It was forged from mild steel sections (for strength) and is internally lined with stainless steel, for chemical protection over its long life.
+
+## 6.2 The Steam Generators
+
+Apart from the RPV, the largest components in the primary circuit are the steam generators (SGs). In your PWR there is one steam generator in each of the four cooling Loops. This is where the primary and secondary circuits meet, and the secondary side of the SGs will be described in a bit more detail in a later chapter.
+
+After entering the bottom of the SGs from the hot legs, the primary circuit water passes through holes in the ‘Tubeplate’ and into the ‘SG Tubes’. There are more than five thousand thin-walled tubes in each of your SGs. The thin walls allow for the excellent transfer of heat to the secondary circuit water. You can see from Figs. 6.1 and 6.5 that the tubes form a thick bundle of inverted ‘U’ shapes. In reality, there is still sufficient space between the tubes for secondary circuit water to flow up through the tube bundle, boiling as it does so. Two kinds of mechanical ‘Steam Driers’ sit above the tube bundle and these will be described in a later chapter. Meanwhile, the now cooler primary circuit water flows out of the steam generators and into the crossover legs.
+
+Figure 6.6 shows a steam generator being delivered to a power station under construction. This model of steam generator is more than 20 m tall and 4.5 m across. An empty steam generator weighs 300 tonnes, so it’s not uncommon to see large items of equipment such as SGs being delivered along a river or by sea during power station construction. Road transport of such large items wouldn’t be easy.
+
+## 6.3 The Reactor Coolant Pumps
+
+The reactor coolant pump has a large electric motor, driving a vertical shaft. At the other end of the shaft is a small pump impeller sitting inside a curved pump casing. As the impeller spins, water in the primary circuit is pushed from the crossover leg out into the cold leg—as illustrated in Fig. 6.7.
+
+The motor in your PWR is designed to spin at just under half the speed (frequency) of its electrical supply. So in the UK, where the electricity Grid frequency is 50 Hertz (3000 rpm), this motor is going to turn around 1500 times every minute. Other fractions of Grid frequency (such as a 1/4) are possible depending on how the motor is wound. Typically, each RCP will 5 MW of power, and they really are large motors, weighing in at about 50 tonnes each, as you can see in Fig. 6.8.
+
+The shaft transfers the speed of the motor down to the impeller (a bit like a propeller, it’s the bit that pushes the water). But here’s the challenge… the impeller is inside the primary circuit, so it is sitting in water at 155 bar and 290 °C. The motor is inside the ‘Reactor Building’ but outside the primary circuit. That means that the spinning shaft passes through the primary circuit’s pressure boundary. How are you going to seal it so that primary circuit water doesn’t come out around the shaft? This is difficult as there’s no simple mechanical sealing arrangement that’s going to do the job. Instead, the technique that your PWR, and most others, have adopted is to inject clean water at a higher pressure than 155 bar into the sealing package. Some of this water flows down into the primary circuit, and some flows back up the shaft to be collected and returned later. In other words, the RCPs rely on ‘Seal Injection’ to maintain their seals and keep the primary circuit water inside the primary circuit.
+
+## 6.4 The Pressuriser
+
+The pressuriser is used to control the pressure in the primary circuit. It’s what gets it to 155 bar, and keeps it there. On your PWR the pressuriser is a sizeable tube-shaped tank, mounted vertically. It’s got around 2 MW of electric heaters in the bottom and a few smaller connections at the top. If you turn the heaters on—something you can do from the control room—you’ll heat-up the water inside. Once this starts boiling you’ll get a bubble of steam in the top. The more steam you get, the higher the pressure will rise (as it pushes down on the water) and that will shift the boiling point of the water along the saturation curve that you’ll remember from Chap. 3. Eventually, the pressuriser will reach 345 °C and 155 bar. You can turn the heaters right down when you get there; as that’s the pressure you want to be at when running your PWR.
+
+The bottom of the pressuriser is connected with a long piece of pipe to one of the hot legs. Through this pipe (the pressuriser ‘Surge Line’), the pressure from the pressuriser steam bubble is shared with the rest of the primary circuit. The surge line is also a route for primary circuit water to enter or leave the pressuriser as the water expands and contracts with temperature. The long line is used to reduce temperature cycling at the bottom of the pressuriser; as that could shorten its life through fatigue.
+
+If at any time you want to raise the pressure in the primary circuit, just increase the pressuriser heating power. If you want to lower the pressure, turn the heaters down a bit. If you need to drop the pressure more quickly, you can open a valve that lets colder water flow through spray nozzles at the top of the pressuriser. Designs vary, but on your PWR this spray water comes from one of the cold legs, so it’s more than 50 °C colder than the steam bubble. If you use the sprays, it’ll cause some of the steam to condense, and the pressure will drop quickly. It’s also quite common to fit ‘Pressure Relief Valves’ to the top of the pressuriser. These valves protect the primary circuit from overpressurisation if the sprays can’t cope or can’t be used.
+
+Figure 6.9 shows a cutaway diagram of your pressuriser, clearly showing the electric heaters, the surge line connection and the spray nozzles. This example is more than 15 m tall and weighs nearly 100 tonnes even when empty.
+
+## 6.5 Putting It All Together
+
+It’s worth reflecting on how much engineering goes into designing, manufacturing and assembling the components of the primary circuit. It needs to be made of very high-quality materials, rigorously forged and welded together with very many quality checks along the way. The various components then need to be delivered to your construction site and welded together within your reactor building, before testing and commissioning of your plant can begin.
+
+Figure 6.10 shows an example. In the picture, you should be able to identify the four steam generators covered in mirror-finish insulation to reduce heat losses. If you look up from the tops of the steam generators, you’ll be able to see the main steam lines which are heavily buttressed against steam forces and earthquakes. Between the steam generators is the ‘Refuelling Cavity’ and in this, in day-to-day operation, sits the RPV head with more mirror-finish insulation covering its base. The reactor pressure vessel itself, together with the core, are below the level of the refuelling cavity floor so can’t be seen in this picture. The reactor coolant pumps are hidden beneath the concrete floors on either side (here boarded out for construction work). The big cooling fans (the light grey cones) are directly above the RCPs. Finally, you can just see the top of the pressuriser in the concrete box on the far left… and lots of cranes!
+
+## 6.6 Inside the ‘Can’
+
+The reactor building is ‘the thing you put your primary circuit in’. Those built for modern PWRs (like the one in Fig. 6.10) are both large and strong. The walls of your reactor building will be made of concrete, more than a metre thick. The concrete will be heavily re-enforced and made even stronger by steel cables running through tubes in the concrete pulled into tension after the building is complete—concrete gets stronger when it’s compressed in this way.
+
+It doesn’t stop there. The inside wall of the reactor building will be lined with welded steel. Every pipe or cable going in or out of the building will be welded or fixed to the steel liner. When people tell you that they are ‘going into the can’ you’ll understand that they say this because they are visiting the steel-lined reactor building.
+
+The combination of concrete walls and steel liner mean that the building is immensely strong and also air-tight. You could pressurise the whole building up to more than 3 bar, with steam from a broken pipe, say, and it won’t leak. The building will also be able to withstand impacts from outside and cope with earthquakes. This is why reactor buildings are sometimes called ‘Containment’ buildings. Nevertheless, it’s not uncommon for modern PWRs to have a second reactor building built around the first one, just in case the inner one suffers from leaks. In these designs you have both a ‘Primary Containment’ and a ‘Secondary Containment’ building, though, perhaps confusingly, these names have nothing to do with the primary and secondary circuits of your PWR.
+
+## 6.7 A Sense of Scale
+
+• Your primary circuit is operating at 300 °C and 155 bar.
+
+• Your reactor is producing 3500 MW of heat.
+
+• The water flow around your primary circuit is around 20 tonnes per second.
+
+• Your reactor coolant pumps are spinning 1500 times every minute, driven by 50-tonne electric motors.
+
+• And it will operate reliably for 1–2 years at a time, without a break.
+
+That’s why you need engineers!
+
+Pull the Rods Out and Stand Back Now that you understand what powers your PWR—both in terms of the physics and the engineering—it’s probably time to get behind the controls and have a go at driving it. You’re going to begin with a reactor start-up; think of it as pulling away from the curb…
+
+## 7.1 Where Do You Start?
+
+You might imagine that we’d start this chapter with the reactor cold and depressurised. In fact, you’re going to begin the reactor start-up procedure with your reactor already sat at ‘Normal Operating Pressure’ and ‘Normal Operating Temperature’ (NOP/NOT). As a reminder, the normal operating pressure is around 155 bar, and normal operating temperature is with a cold leg temperature (known as ‘Tcold’) of about 290 °C. With the reactor shutdown, the temperature in the hot legs (‘Thot’) will be very close to Tcold.
+
+There are a couple of reasons for starting this chapter at NOP/NOT. Firstly, if your reactor has just shutdown in an unplanned way, then NOP/NOT is where your control systems will have stabilised the plant. This will have avoided an unplanned cooldown or a loss of pressure that could have led to boiling in the core. Secondly, to start-up the reactor, you’ll need supplies to your control rods. You’ll only have these if the plant hasn’t ‘tripped’. As with many other PWRs, you will have a trip if your primary circuit temperature or pressure is outside of the normal range for a running reactor. In other words, it’s not possible to start-up your reactor (at least not using standard procedures) unless you’re starting from pretty close to NOP/NOT. We’ll talk about moving the plant from a cold state to NOP/NOT when we discuss refuelling shutdowns in Chap. 21.
+
+The conditions for starting-up the plant are even more restrictive than you might imagine. At your plant, to keep things simple, it’s not permitted to run the reactor with anything less than all four cooling loops in service. This means that you need to have all four reactor coolant pumps running and a practical water level in each steam generator. You’ll need a way of removing heat from the primary circuit—both decay heat and heat added by the reactor coolant pumps—and that will involve dumping steam. Typically, you’ll be dumping steam to the ‘Turbine Condensers’ (see Chap. 12), and that will require you to be running the large pumps that circulate seawater through the condenser tubing.
+
+Chemistry control is going to be vital so as to avoid damaging the plant, so you may well already be running ‘Main Feed Feewater Pumps’ (also in Chap. 10); not to feed the steam generators, but instead to circulate secondary circuit water through chemical clean-up systems. Added to this you’ll have the usual computers, instrumentation, Heating, Ventilation Air Conditioning (HVAC), lighting and plant cooling systems in service.
+
+An overview of your Start-up Procedure is shown in the flowchart in Fig. 7.1. You can see that the first step in your procedure is the one that ensures that you meet all of the requirements I’ve described above—and probably a few others. Let’s assume that goes well, and move to the next step.
+
+## 7.2 Are You Protected?
+
+You’ll be starting-up from a ‘tripped’ state. This means that the circuit breakers between the control rod drive mechanisms (CRDMs) and their power supplies will all be open. This stops you from moving any control rods so you’ll clearly need to close these breakers before you can start-up. In fact, to close the breakers you’ll also need to reset any ‘trips’ that your ‘Reactor Protection System’ has applied otherwise the breakers won’t close, but don’t worry about that for now; we’ll talk about protection systems in more detail in Chap. 17.
+
+In terms of nuclear safety, closing the circuit breakers gives you more than just the ability to move the control rods. It also means that the protection system can automatically shut down the reactor at any time by re-opening the circuit breakers and dropping the control rods back in. Closing the breakers ‘arms’ the control-rod-tripping part of the protection system, making it a bit safer to do other things such as changing the boron concentration in the primary circuit.
+
+## 7.3 Predicting Criticality
+
+One of the things that make PWRs different from some other kinds of reactors is that there are two ways in which the operator can intentionally change the reactivity: control rods and boron. Arguably, changing temperature is a third way of adjusting reactivity (as you’ll see later), but it’s not really relevant here, as we’ve said you’re starting from stable conditions at NOP/NOT.
+
+The higher the boron concentration, the less reactivity the core will have. This would mean that you’d have to pull the control rods out further to achieve criticality. Conversely, if you reduce the boron concentration, you’ll be able to go critical with the control rods more deeply inserted. If you move the boron far enough, your PWR might go critical with all of the control rods fully inserted; or not go critical at all, with all the control rods fully withdrawn! Clearly, you’re going to want to think about this carefully before you begin to change anything.
+
+In a later chapter, you’ll see all of the steps that go into predicting criticality, i.e. the combination of boron concentration and rod withdrawal that will give you the criticality that you want, when you want it. For now, just accept that you’ll be given a prediction by someone who has already done the calculations. Once you have that, you’re ready to move on.
+
+## 7.4 Changing Boron
+
+There are more than 250 tonnes of water circulating around your primary circuit, so you might be wondering how you go about changing its boron concentration? The answer is to use a system called the Chemical and Volume Control System (CVCS). There’s a diagram of your CVCS in Fig. 7.2, with the flow of water running clockwise from the top left.
+
+Let’s start with the ‘Letdown Orifices’. These are connected to one of the crossover legs on your PWR, and they provide a high-resistance flow path for water leaving the primary circuit. Each ‘orifice’ is actually a plate with many small holes drilled in it. It takes a lot of pressure to drive the water through these holes, and that in turn causes a pressure drop, so that the water downstream of the orifices is at a much lower pressure than that on the primary circuit side.
+
+If we simply dropped the pressure through the letdown orifices, we’d see the water flashing off to steam as it would be above the boiling point for the new (lower) pressure. Because of this, we also need to cool the water that is being ‘let-down’ into the CVCS. This begins upstream of the orifices in the ‘Regenerative Heat Exchanger’—with colder water being ‘charged’ back to the primary circuit being used to cool the water that’s letdown. This is followed by a more conventional ‘Non-Regenerative’ heat exchanger cooled by a separate cooling system (the ‘Component Cooling Water System’, see Chap. 21). Once the water is cooled and depressurised, we can use filters and chemical resin beds (a fine filter made-up of chemically coated plastic beads) to clean up the primary circuit water and remove any impurities that have dissolved in it, for example, from corrosion.
+
+The water falls into a large tank (the ‘Volume Control Tank (VCT)’) where radioactive gases can be removed. Hydrogen is present within this tank, keeping the oxygen level in the water very low to reduce corrosion of the primary circuit. You’ll also see connections here to the ‘Reactor Make-up Water System’. This is where you can add pure water or borated water (water with boron in it). Each of these is kept in tanks and can be pumped into the CVCS, separately, or as a ‘blended mix’ if you’re trying to add water at a specific boron concentration. Adding fresh water ‘dilutes’ the primary circuit. Adding boron ‘borates’ it. You’ll also see these operations described as performing ‘dilutions’ and ‘borations’.
+
+Obviously, you can’t just keep adding water to the primary circuit as sooner or later you’ll have too much water! The other feature you can see on the figure is a path off to your radioactive waste plant. This is how the CVCS is used to ‘divert’ excess water, thereby removing it from the primary circuit.
+
+Finally, you’ll see that the water leaves the VCT and enters the ‘Charging Pumps’. These are very high pressure pumps (discharging at around 190 bar) and are used to push the water back into one of the cold legs on the primary circuit. They also provide the reactor coolant pump seal injection flow that we met in the last chapter. The ‘Charging Flow Control Valve’ downstream of the charging pumps provides the overall control for the amount of water going back into the primary circuit. If this valve opens up, the pressuriser water level will rise and the VCT level will fall; and vice versa if the valve closes in.
+
+Let’s put some numbers on this: as you’ve already seen the primary circuit flow is around 20 tonnes per second, i.e. that’s how much water flows through the core every second. In contrast, the CVCS flow is approximately 20 tonnes per hour, so is thousands of times less. Using the CVCS, it’s possible to increase or decrease the primary circuit boron concentration by a few 100 ppm (parts per million) within an hour or so. That doesn’t sound a lot, but typically, when running at full power, you’ll only need to change the boron by 2 or 3 ppm in a whole day.
+
+A reactor start-up is a bit different from day-to-day operations. You may well find that you’ll want to change the boron by a few 100 ppm to match the criticality prediction you’ve been given. You do this before you start to move control rods, so that you’re only affecting reactivity in one way at a time, with less chance of getting it wrong. You’ll then need to be prepared to change the boron concentration by hundreds of ppm as you raise power. All of this is going to take a few hours, and your plans will have to allow for that.
+
+You could do these things in a different order, but on this particular start-up, I’m going to assume that you’ll use the CVCS to achieve your target boron concentration before moving any of the control rods. It does also work the other way around, as you’ll see in a later chapter.
+
+## 7.5 First Steps
+
+You’re not usually going to move rods individually—there’s more than 50 so that would take a while. Instead, the rods are divided into ‘Banks’ each containing several rods, arranged symmetrically in the core. You’ll only plan to move whole banks at a time. This will help to keep the power in the reactor symmetric, i.e. you won’t have all the power on just one side of the reactor.
+
+Although all of your control rods are identical, for practical purposes, they are divided into two sets—the ‘Shutdown Banks’ and the ‘Control Banks’. The shutdown banks are either fully in—when your reactor is shutdown—or fully out (when it is running). They play no part in controlling your reactor other than in shutting it down and keeping it shut down. It’s the control banks that are the groups of rods that are used to control reactivity as you approach and drive through criticality. When the reactor is running at full power you’ll have very few rods inserted, in your case less than half a dozen from the control banks; and they’ll only be inserted 20 cm or so into the top of the reactor. We’ll explain why this is, a bit later.
+
+Control Rod Drive Mechanisms (CRDMs) move the control rods in steps—these relate to the spacing of the rings on the control rod drive shafts (the bits that the grippers grab hold of). Typically, these steps might be 15 mm or so apart, so there’ll be more than 200 steps separating a rod that’s fully inserted into the core, from one that is fully withdrawn.
+
+On your particular PWR, there are half a dozen shutdown banks and three control banks.
+
+a selector switch for you to choose each bank in turn, but the control rods are actually moved by you pushing or pulling a simple joystick (Fig. 7.3). Driving a nuclear reactor can sometimes be that easy! Having achieved the appropriate boron concentration, you’re going to move the shutdown banks, one at a time, from fully inserted to fully withdrawn. The CRDMs allow you to do this at around 50 steps per minute, so to fully withdraw a bank is about 5 min work. Withdrawing your six shutdown banks ought to only take 30 min, or so. Seems fast? Well, remember that the core is only 4 m tall, so you’re not moving the rods very far.
+
+In your control room, you’re going to want to move things a little slower than this: What if your prediction of criticality were wrong? Or you had an incorrect boron concentration indicated on your instruments? It makes sense to monitor your reactor carefully as you withdraw each shutdown bank, just to be sure that you don’t reach criticality unexpectedly. How do you ‘monitor’ the reactor? By watching what happens to the number of neutrons leaking out of the edges of the reactor (the neutron flux) as the rods are withdrawn. The more neutrons that are flying around in the reactor, the more will leak out of the edges and reach your neutron counters (flux instruments).
+
+## 7.6 Approach to Criticality
+
+OK, now the significant bit. On the one hand, I’ve told you that criticality is not something to be afraid of; that it is the normal state of a running reactor. Now I’m going to say that despite this, it’s something that you need to approach very cautiously. The problem is that moving the control rods can add a lot of positive reactivity very quickly. If your prediction of the estimated point of criticality is wrong, or you’re not paying attention, you could take the reactor significantly supercritical before you realise what’s happening. If the reactor is very supercritical, the rate that the power would be increasing would be too high, and you’d be relying on the protection system to automatically shut down the reactor. At best, you’d have to begin your start-up all over again. At worst you might have damaged some of the fuel.
+
+Your problem is how neutron flux rises as you approach criticality. There’s no visible line that you’ll cross when you get there. The level of flux you measure at criticality will depend on the burn-up of the fuel, the boron concentration, control rod insertions and the calibration of your neutron counters. So how can you cautiously approach something you can’t see?
+
+Do you remember that in Chap. 3, when we were looking at how the neutron flux changes in a subcritical reactor, I said that if you halve ‘how negative the reactivity is’, the neutron counter signal will double? It turns out we can use this to our advantage. What we’re going to do is to plot a graph of how 1/counts (1 divided by the counts) changes as we pull the control banks out of the reactor. Actually, to make the vertical scale simpler, let’s plot initial counts divided by current counts as we go along, as that will start from a value of 1. This is called the ‘Inverse Count Rate Ratio’ or ICRR. You can see an ICRR plot in Fig. 7.4.
+
+An ICRR plot always starts at a value of 1 (seen here on the right-hand scale). As the Control Banks are withdrawn the reactivity increases as does the neutron flux, with the count rate shown here on the left-hand scale. As the distance from criticality reduces, the ICRR graph falls towards zero. More usefully, as the distance to criticality halves, the value of the ICRR will also halve (as the flux has doubled). If you draw a line extending from the graph down to the x-axis (the control rod withdrawal), this will give you a prediction of criticality before you get there. So by plotting an ICRR graph as you withdraw the control banks, you can ensure that you don’t blindly go through the point of criticality.
+
+You might also notice that the ICRR plot isn’t a straight line; it curves quite markedly at the start (left-hand side) of the graph. This is because the amount of reactivity added to the core by each step of control rod movement is not constant. Less reactivity is added when the rods are only slightly (or very deeply) inserted than when they are in the middle of the core, and that’s what gives the ICRR plot this characteristic shape.
+
+## 7.7 Waiting for Criticality…
+
+One of the most common errors that new reactor operators make—though usually in a simulator—is to try to balance the reactor precisely at the point of initial criticality. Why is this an error? Because it takes forever…! You might also remember from Chap. 3 that the closer you get to criticality, the longer it takes for the neutron flux to settle down to a constant value, so to achieve this so you’d have to wait longer and longer to be sure that you haven’t yet reached it. It’s pointless, but it’s easy to waste an hour or two doing this. It’s dull.
+
+On the other hand, if the ICRR plot is showing you approximately where criticality lies, why not just step the control rods out a little bit more so that you know you’re just past this point. You should then be able to see a persistently rising flux in your (now) slightly supercritical reactor. At such low power, a small amount of positive reactivity is not a problem, and you can stop the power rise at any point just by driving the control rods back in a few steps.
+
+What would be the desired stabilisation point? A low flux level, but one at which you’re sure could only be achieved on a critical reactor. I’m going to get you to stop the power rise at one ten-thousandth of one percent power. That’s around 3 kW of nuclear power, so it’s a minimal heat input compared with the decay heat and the heat from the RCPs. It’s a chance to look around at all of your indications and check nothing is amiss before going any further. In particular, it’s a chance to confirm how accurate your criticality prediction was. If criticality occurred a long way away from your prediction that could indicate a bigger problem. Perhaps you’ve left a control rod behind, or maybe you have an issue with your boron measurements? You’d definitely want to investigate before going any further.
+
+## 7.8 Doubling Time and Start-Up Rate
+
+Now that your reactor is critical at low power, you’re going to want to increase power up to a more useful level. This is easy. Pull the control rods out a few steps. The reactor will be supercritical, so power will rise exponentially. How fast the reactor power increases will depend on how far supercritical the reactor is. So how far supercritical should it be and how do we measure the rate of increase?
+
+One traditional way of measuring how fast the power is rising in a reactor is using ‘doubling time’. It’s sounds a simple concept: the doubling time is just the time it takes for the reactor power to double. While it’s simple, it’s not very easy to use. The doubling time approaches zero for a reactor where the power is rising very quickly, and it’s infinitely long for a reactor with very stable power. Even worse, a falling power level will have a negative doubling time—approaching negative infinity as it stabilises. I find it hard to visualise…
+
+PWRs typically use a more straightforward measure of how reactor power is changing; it’s called the ‘Start-Up Rate (SUR)’, and it’s measured in units of ‘Decades Per Minute’ (DPM). A reactor that is at stable power has a zero value of SUR. If the power is rising by a factor of 10 every minute, it’s said to have a SUR of plus one DPM. If power is falling by a factor of 10 every minute, its SUR will be minus one DPM. A SUR of plus one (with power rising by a factor of 10 every minute) would be a ridiculous place to be for a reactor running at full power. But if you’re starting at a ten-thousandth of one percent reactor power, a SUR of plus one means that your reactor would take 4 whole minutes to even reach 1% power. That’s plenty of time to step the control rods back in. A limit of plus one DPM is what we’ll use now as we raise reactor power towards a few percent of full power.
+
+So, pull the rods out (a few steps) and stand-back.
+
+## 7.9 Where to Next…?
+
+In this chapter, you’ve been starting-up your reactor. You’ve driven it up to a few percent power (say, a couple of 100 MW). From initial criticality and very low power, you’ll have achieved this by withdrawing control rods to give a positive SUR.
+
+But…as power rises through a few percent of full power you’ll start to see other things happen on your plant:
+
+• Thot will begin to increase above Tcold—perhaps that isn’t so strange? Your reactor is now producing many megawatts of heat which is being transferred to the cooling water in the primary circuit.
+
+• The rate at which you’re dumping steam will increase, and you’ll need to increase feedwater flow to maintain steam generator water levels; again there’s more heat to get rid of, so this isn’t surprising.
+
+But then there’s these two:
+
+• The level of water in the pressuriser will rise
+
+• The SUR will drop back towards zero, without you moving the control rods.
+
+All of these effects are due to reaching what we’ll call ‘the point of adding heat,’ i.e. they are related to temperature. They actually make it easy to stabilise the reactor at just a few percent power. We’ll come back to the these effects in later chapters. But first, we need to think about how we’re going to measure reactor power.
+
+Watt Power?
+
+Knowing your reactor’s power level is going to be essential; much as you need to know the speed of any car that you drive. In a car, the speedometer works by counting how many times the wheels go around, but how do you measure the power of your reactor?
+
+You’ll remember that as you watched your reactor approach criticality, you could estimate its reactivity by co Counting the neutrons that were leaking out of the sides of the reactor. Is there anything stopping us from using this technique to measure the reactor power?
+
+In theory, no. The higher the reactor power, the more the neutrons will leak out of the sides. There’s a practical problem, though. The speedometer in your car could measure your speed from a few miles per hour up to, say, a couple of 100 miles per hour. It might not be very good at measuring 1 mph, or 1/10th of a mile an hour? I’m guessing that it would utterly fail to measure 1000 mph? So its highest accurate speed measurement is about 100 times its lowest accurate speed measurement. A measurement range of times a hundred. That’s good enough for a car.
+
+What about your reactor? We saw that it went critical at just a few kilowatts of power, but at full power, it’ll be running at 3500 megawatts (MW). That means that the highest power is roughly a million times the lowest power we want to measure. If neutron leakage rises in proportion to power level that tells us that we’ll be looking to measure neutron leakage over a similar ‘times a million’ range. I’ll be honest. No single instrument is going to do that with any sensible accuracy.
+
+There’s a simple answer to this problem—and it’s quite common across reactors worldwide. Install more than one instrument and switch between them. In the case of neutron leakage, we can arrange to have some very sensitive instruments able to measure the low leakage as your reactor is taken critical. We can have another set of instruments that measure from criticality up to part power (perhaps a few tens of percent power) and a final set of instruments that measure from there all the way up to full power, and a bit beyond. This is illustrated in Fig. 8.1.
+
+You’ll notice how the ranges of the instruments overlap. That way, no matter the power level, you’ll always have at least one set of accurate instruments to measure your reactor power. Reactor operators tend to refer to these instruments as ‘Flux’ measurements as they measure the number of neutrons that are leaking from the reactor (you’ll remember we used the same word for the number of neutrons moving around inside the reactor). Common terms for the three ranges of instruments are ‘Source Range’ for the lowest, ‘Power Range’ for the highest and ‘Intermediate Range’ for the one in between. The number of ranges and what they are called might vary from plant to plant, but the principle is the same.
+
+## 8.1 Three Problems with Flux
+
+So, that’s it, problem solved. We’ll simply use neutron flux instruments to measure the reactor power? Unfortunately, there are a few problems….
+
+Neutron flux instruments are great things to use on a minute-to-minute, hour-to-hour basis. They’ll respond very quickly to reactor power changes because neutrons travel very fast. Modern instruments are also very reliable, which is good because it wouldn’t be straightforward to change one while it’s installed next to a running reactor!
+
+But they drift… by which I mean that in a few days or so they will slowly have lost accuracy and they’ll be telling you an incorrect power level. This isn’t because there’s something fundamentally wrong with the instruments; it’s because of changes that are going on inside the reactor.
+
+After you’ve loaded a reactor with fresh fuel, or a mixture of fresh and irradiated fuel, the chances are that the power shape is going to be concentrated towards the middle of the core. This is because neutrons produced near the edges are likely to leak out of the core so there’ll be a natural tendency for the number of neutrons and hence the power level (number of fissions) to be lower towards the edges of the core than in the centre. I’ve tried to show this in Fig. 8.2.
+
+Remember that your flux instruments measure leakage from the edges of the reactor—neutrons don’t travel very far in water so these instruments can’t ‘see’ the centre. This means that the power level they are recording is from quite a low level of neutron leakage. Strictly, I include the top and bottom of the core when I talk about ‘edges’, but you probably won’t have any flux instruments in those directions, so we could just say ‘sides’ instead.
+
+Now think about what’s happening in the fuel. As fissions take place, you will be using up U-235 atoms and building-up fission products, some of which capture neutrons. This will be happening faster in the centre of the core because that’s where the most power is. Over time—days-week-months—this will reduce the reactivity of the centre of the core compared to the edges, and the power shape will change. There will be a slow movement (‘redistribution’) of the power from the centre of the core to the edges, increasing neutron leakage, as you can see in Fig. 8.3. Your total reactor power hasn’t changed, just its distribution within the core.
+
+If you compare Fig. 8.3 with Fig. 8.2, you’ll see that the leakage of neutrons has significantly increased. Your flux instruments will now see more neutrons and if you don’t find a way of recalibrating the instruments you’ll be over-estimating your reactor power. You have limits on reactor power (in a rule book), so practically this will prompt you to slowly wind-down the power output. That’ll mean your power station is producing less electricity and for no good reason!
+
+That’s only one of the problems. Now let’s talk about Plutonium.
+
+Plutonium-239 (Pu-239) is a better fuel than U-235. It produces more energy from each fission and tends to provide a few more neutrons. ‘But…’, you’ll be saying ‘… we haven’t put any plutonium in our reactor. We loaded uranium fuel?’ Yes, that’s true, but there’s a process going on in your reactor that manufactures Pu-239.
+
+As you’ll have seen in the earlier chapters of this book, most neutrons do not go on to cause another fission—only one does (on average) out of the two or three produced by each U-235 fission. Some of the others leak from the reactor, some are captured by control rods or dissolved boron, and some are captured by the U-238 that makes up around 95% of your fuel. A U-238 atom capturing a neutron becomes U-239. This is unstable and often decays by beta decay (a neutron turning into a proton and an electron) becoming neptunium-239. Neptunium-239 is also unstable and can decay by beta decay to plutonium-239. So the U-238 atoms, which don’t readily undergo fission, are actually the source of Pu-239 in a running reactor. This is shown in Fig. 8.4.
+
+All U-235/U-238 fuelled reactors make plutonium, and of course, that’s the purpose for which they were initially designed as Pu-239 can be used to make nuclear weapons without enrichment technology. Plutonium can be chemically separated from uranium if you have a huge and very well-shielded chemical plant to do it in.
+
+In a PWR, fresh fuel usually contains no plutonium (though it is used in some plants mixed with uranium as Mixed Oxide Fuel). On the other hand, irradiated fuel will contain some Pu-239, and some of the reactor power will be coming from this plutonium. It is both produced in the reactor (from U-238) and fissioned by slow neutrons, just like U-235. There will be a balance between these two processes but, on average, the amount of Pu-239 in the core will rise with fuel burn-up—the longer you run the reactor between refuellings, the more Pu-239 it will contain and the more power you’ll be getting from this fuel that you’ve made yourself!
+
+So why have I talked about Pu-239 production in a chapter on measuring reactor power? Because, on average, fast neutrons produced from Pu-239 fissions will be travelling faster (have higher energy) than neutrons produced from U-235 fissions. The physicists call this effect ‘flux hardening’, as a faster neutron will hit you ‘harder’. Faster neutrons will also travel further in water before slowing down, so are more likely to leak from the reactor. You can probably see the problem now? The more plutonium you make (and fission) in the reactor, the higher the neutron leakage. So just like the redistribution of reactor power, flux hardening will fool your instruments into thinking that your reactor is running at a higher power than it really is.
+
+Incidentally, if you are intent on making nuclear weapons from plutonium, you’re only going to be running your PWR for short periods between refuelling shutdowns. Pu-239 sometimes captures a neutron without causing a fission, turning it into Pu-240. This process can carry on into Pu-241, Pu-242 etc. The higher the burn-up of the fuel, the more of these heavier plutonium nuclei will be present. I’ve been told that they make nuclear weapons behave in unpredictable ways (!), which is why high burn-up irradiated fuel from commercial PWRs is rarely involved in weapons programmes.
+
+There’s more, but this one takes a bit of thinking about.
+
+When you start-up your PWR for the first time, your fuel is a mixture of a few percent U-235 and lots of U-238. As it runs, it produces Pu-239, but not enough to offset the number of U-235 atoms that are being fissioned. The reactor will be producing radioactive fission products, some of which will capture neutrons. Overall the reactor will be becoming less reactive the longer it runs. This is a significant effect; a drop in reactivity of around 20,000 milliNiles (20 Niles) between refuellings—see Chap. 3 if you want a reminder of what a milliNile is.
+
+Now, imagine you’re a neutron recently produced by a fission and successfully slowed down in the moderator. You find your way back into the fuel. If it’s fresh fuel, then around 1 in 20 of the ura 铀原子中，你会遇到的大多是铀-235。如果是辐照过的燃料，这个比例会低得多（即使考虑了钚-239的积累），而且你还需要应对中子俘获产生的裂变产物。总的来说，你引发另一次裂变的可能性更小。
+
+如果你想深入研究，物理学家称这个过程为“宏观裂变截面的下降”。其结果是，为了获得每秒相同次数的裂变（相同的功率水平），你需要有更多的中子在四处运动（即更高的中子通量）。在你的压水堆中，你可以通过缓慢降低一回路中溶解硼的浓度来实现这一点，从而允许更多的中子被成功慢化。用反应性术语来说，我们将减少硼提供的负反应性。这意味着我们可以在功率水平保持不变的情况下使反应堆保持临界，即使我们正在烧掉燃料。
+
+不幸的是，随着更多中子在反应堆内运动，会有更多的中子从边缘泄漏出去。我们再次遇到一个问题，这将导致你的通量仪表读数缓慢上升。
+
+此时值得停下来盘点一下。我们已经看到，测量通量（即从反应堆泄漏出来的中子）在短期内是反应堆功率的良好指标，但它存在三个长期问题： * 因燃料燃耗导致的功率重新分布 * 来自钚-239的通量硬化 * 因宏观裂变截面下降导致的通量上升也许我们需要寻找另一种测量功率的方法？
+
+8 瓦特功率？ 75
+
+## 8.2 氮-16
+
+像压水堆这样的水冷反应堆有一种替代的功率测量技术——它们可以使用氮-16。
+
+这里有一点奇特的物理学：水是H₂O，因此，如果每秒有20吨水流过反应堆，我们可以确信有大量的氧原子穿过堆芯。氧主要是氧-16（O-16），由8个质子和8个中子组成。事实证明，如果一个O-16原子核被一个快中子击中，它有很小的机会捕获该中子并抛出一个质子——我说这很奇特。这就将氧-16变成了氮-16，拥有7个质子和9个中子。氮-16非常不稳定，会通过β衰变衰变回O-16，半衰期仅为7秒。在此过程中，它会发射出特定能量的伽马射线。这个过程如图8.5所示。
+
+此时，值得注意的是N-16伽马射线是运行中的水冷反应堆（如压水堆或沸水堆）的主要危害之一。伽马射线从一回路中的任何位置（对于沸水堆来说包括蒸汽系统）的水中发射出来。如果反应堆正在运行，即使反应堆本身有良好的屏蔽，你也无法站在环路管道旁边。另一方面，短半衰期意味着在关闭反应堆后几分钟内，它就完全消失了。
+
+N-16很有用。你的压水堆（像许多其他反应堆一样）在热段管道上安装了伽马射线探测器，专门用于探测N-16伽马射线。反应堆中的功率越高，产生的N-16就越多，因为会有更多的快中子。无论在反应堆的哪个位置产生功率，这都无关紧要，因为所有水都流经热段，无论它流经的是反应堆的边缘还是中心。
+
+但是（总有一个“但是”），N-16的产生同时受到“通量硬化”和“宏观裂变截面下降”的影响。随着堆芯燃耗，中子的数量必须增加以维持相同的功率，因此一个O-16原子被中子击中的可能性更高。类似地，图8.5 氮-16的产生和衰变 76 C. Tucker
+
+事实证明，O-16到N-16的反应更容易与更快的中子发生，而随着堆芯中钚-239含量的增加，我们会得到更快的中子。因此，尽管N-16伽马射线不受功率分布的影响，但它往往会随着燃耗而向上漂移，就像通量仪表一样。
+
+## 8.3 利用热量（一次回路）
+
+核物理似乎让我们失望了，所以让我们尝试一些更基本的东西。停下来看看图8.6中的压水堆。
+
+我们有较冷的水进入（Tcold），较热的水流出（Thot）。我们可以测量流过环路的水流流量，从而知道总流量。我们可以查表知道将水的温度升高一度所需的热量（“比热容”），因此反应堆产生的总热量（其功率水平）可以简单地计算为： 功率 = (Thot - Tcold) × 流量 × 比热容这被称为“一次热量计算”——“一次”因为它是一次回路状态的计算，“热量计算”意为“热测量”。这是一个快速、简单的计算。但它不适用。
+
+嗯，这不完全正确。它是适用的；只是不太准确。看看计算中的各个项。比热容的精度很好，因为成千上万的实验已经用于测量水的性质。图8.6 一次热量计算的输入参数 8 瓦特功率？ 77
+
+流量可以用连接到环路的简单仪器以合理的精度测量，这些仪器可以使用超声波等先进技术进行校准。
+
+你会认为Thot和Tcold的测量会是最好的，因为有很多仪器可用于获得精确的温度测量。在冷段，有一个高速旋转的泵，彻底混合了流经它的所有水。你在冷段的任何地方放一个温度测量设备，你都会得到一个能代表该管道中所有水流的温度读数。
+
+问题在于：这对于热段来说根本不是事实。水从堆芯流出时，温度各不相同，取决于它流过的燃料组件的功率。水流向热段时，在堆芯上方几乎没有混合。一旦进入热段，水往往会“分层”，较暖的水在管道顶部，较冷的水在底部，但这种情况不稳定。各层会旋转、扭曲和移动。结果是，你无法确信任何特定的Thot测量真正代表了热段的水。
+
+这很重要，因为热段和冷段之间的温差只有30°C。如果你的测量即使偏差1°C，也会引入3%的功率误差。一次热量计算是反应堆功率的一个粗略指示，但你不会想用它来校准你的通量和N-16仪表。
+
+## 8.4 利用热量（二次回路）
+
+还有另一种方法：“二次热量计算”。换句话说，一种基于二次回路（特别是蒸汽发生器）发生情况的热量计算。在稳定运行时，堆芯产生的所有热量最终都会进入蒸汽发生器，因此原则上，我们可以利用蒸汽发生器中发生的情况来间接测量反应堆功率。
+
+图8.7给出了一个蒸汽发生器的简图。
+
+让我们假设你能对给水温度和流量进行合理的测量——管道比热段细，而且水被给水泵充分混合了，所以这是合理的。现在让我们测量蒸汽压力；同样，很容易获得具有代表性的测量值，因为蒸汽确实不会分层。我们不需要知道蒸汽温度（Tsteam）——它由压力决定（如第10章所示），如果我们假设所有进入蒸汽发生器的水都变成了蒸汽，也不需要知道流量。
+
+78 C. Tucker 图8.7 二次热量计算的输入参数
+
+要进行实际计算，我们必须使用水/蒸汽的一个称为“焓”的性质。焓是物理学家和化学家用来描述物质中所含总热量的词语。它比仅仅使用温度要复杂一些，但同样我们可以查表得到水和蒸汽的焓值，因为它已经被测量了数千次。单个蒸汽发生器的二次热量计算变为： 蒸汽发生器功率 = (蒸汽焓 - 给水焓) × 给水流量我们可以将四个蒸汽发生器的功率相加，并进行一些简单的修正——例如减去反应堆冷却剂泵添加到一次回路的热量。然后，只要反应堆在稳定功率下运行，从蒸汽发生器取出的功率就与反应堆产生的功率相匹配。也许令人惊讶的是，这种二次热量计算，由计算机使用几分钟的平均数据连续进行，结果证明是测量反应堆功率最准确的方法，总体精度在±1%左右。现在，你可以用你的二次热量计算器来操作反应堆，并且可以将其驱动到你规程中规定的功率极限（该极限已考虑了计算的精度）。
+
+二次热量计算对于保护目的来说太慢了，但我们有可以用于此目的的通量和N-16仪表。我们可以利用二次热量计算的结果每天左右检查和调整它们的校准，以确保它们正常工作。这意味着通量和N-16仪表可用于告诉保护系统在故障发生后几秒钟内自动关闭反应堆，并且你可以确信它们不会过早或过晚地执行此操作。
+
+## 8.5 不适用的方法
+
+作为一名反应堆操作员，如果你与某人谈论测量反应堆功率，你可能会被问到：“为什么不直接用汽轮发电机的电输出来告诉你们功率？”这个问题的答案是，电站的输出很大程度上取决于二次回路中发生的情况。
+
+it. You only need one valve to be passing (leaking), or a feed heater level controller to be playing-up and you’ll find that the electrical output will shift by a few megawatts. For this reason, it’s pretty unreliable as a measure of reactor power. On the other hand, if your secondary calorimetric is working well, you might spot small changes in overall efficiency that’ll point you towards just this sort of problem with the turbine.
+
+## 8.6 Back to Fissions
+
+Now that we’re confident about measuring your reactor power, we can answer the question: How many U-235 fissions does it take to run the reactor at full power? I gave you a number at the start of this book, now I can show you where it comes from.
+
+According to the nuclear physicists, each fission of U-235 releases around 200 MeV of energy. This number includes the energy that you’re getting from the decay of radioactive fission products, which is around 6.5% of the total heat from your reactor. If you’ve not studied physics or chemistry, you might not have seen the MeV before. It stands for Mega-electron-volt, an electron-volt being a standard unit used to measure energy on an atomic scale. 200 MeV is 32 millionths of a millionth of a joule (or 3.2 × 10−11 J), which doesn’t sound a lot but is staggering compared to the sorts of energy you get from chemical reactions.
+
+Your PWR runs at a full power of 3500 MW, so all we have to do is to divide the total power by the energy per fission, and we get: 3,500,000,000W / 3.2×10−11J = 1.1×1020 (fissions) per second That’s just over 100 million million million fissions per second. Maybe your PWR has 50,000 fuel pins in a core made of around 200 fuel elements. Each fuel pin could contain 400 fuel pellets. That’s 20 million fuel pellets in your reactor. At full power (on average) every pellet will be responsible for five trillion fissions per second. That’s where the real power is coming from; however you choose to measure it.
+
+Your Reactor Is Stable (Part One)
+
+This chapter is about ‘Reactor Stability’. This is the second of the three key concepts that I mentioned at the beginning of the book.
+
+Let me put it simply: Your PWR Reactor is stable.
+
+What do I mean by that? I mean that, for example, if the reactor power goes up a little bit, the reactor temperature will go up. If the temperature goes up, the effects on reactivity will tend to drive the reactor power back down to where it started. The same happens in reverse if the reactor power falls. You can imagine it like driving a car with springs attached to the steering wheel. The car will keep trying to travel in a straight line, even if you nudge the wheel a little.
+
+For most of the time, this stability makes driving a reactor much easier. It will tend to keep your reactor running at a constant power unless you deliberately change its running conditions. Just occasionally, you’ll need to fight against this inherent stability to get your reactor to do what you want. In our car analogy, what would you do if you wanted to turn a corner?
+
+In this chapter, I’m going to explain the two bits of physics that keep your reactor stable in its day-to-day operation and beyond. I’ll also reveal a third reason for your reactor’s stability that is present in a PWR but is absent in a few other reactor designs (and that contributed to the accident at Chernobyl in 1986).
+
+## 9.1 Fuel Temperature
+
+When we were discussing the fission chain reaction, you might remember that many neutrons are lost because they are captured by U-238 atoms. U-238 makes up 95% of the fuel, so it might be surprising that a chain reaction can happen at all. The explanation for this is that U-238 nuclei only have a good chance of capturing neutrons if they arrive at particular speeds, or energies. This is illustrated in Fig. 9.1—you can see how as neutron energy falls from right to left (the neutrons are ‘moderated’) there is an overall rise in the likelihood that they will be captured by U-238. However, there’s a much more dramatic effect at specific energies where capture is very likely indeed. We call these ‘resonance capture peaks’, and they can steal neutrons from the chain reaction if the neutrons re-enter the fuel during the moderation process.
+
+The peaks in Fig. 9.1 look dramatic, but they’re even more impressive when you realise that each mark on the axes of this graph represents an increase of a factor of ten in the likelihood of capture (it’s what the mathematicians would call a ‘log-log’ graph).
+
+Now for a bit more obscure physics. Atoms don’t stay still. They vibrate and the hotter they are, the more they vibrate. If an atom is vibrating, then its nucleus must be moving. So, if a neutron is moving towards it at a speed (energy) just off to the side of one of these resonance capture peaks, then there is a chance that the nucleus’s movement and the neutron’s incoming speed, added together, might just hit the peak. This would dramatically increase the likelihood that the neutron will be captured.
+
+With lots of U-238 atoms vibrating and lots of neutrons going into the fuel with a whole range of speeds, the resonance capture peaks shown in Fig. 9.1 will each appear to get wider as fuel pellet temperature increases. In other words, the hotter the fuel pellets, the more neutrons will be lost. This effect (for a single resonance capture peak) is shown in Fig. 9.2. Strictly speaking, the peaks also get shorter, but that is not a noticeable effect when there are so many U-238 atoms in the fuel.
+
+You might sometimes hear this called the ‘Doppler Broadening’ effect. This is because it is caused by the ‘relative speeds’ of the U-238 nucleus and the incoming neutron—in much the same way that the Doppler effect changes the sound from a moving vehicle; higher-pitched coming towards you, lower as it moves away.
+
+If you think about the effect this has on the fission chain reaction, you’ll see that it reduces reactivity with rising temperature. The hotter the fuel, the more negative the effect. For typical conditions in a PWR, this effect is worth around minus 4 milli-bucks for every 1 °C that fuel temperature increases. The reactor physicists call it the ‘Fuel Temperature Coefficient’, or FTC.
+
+Minus 4 milli-bucks per °C doesn’t sound like a significant effect, but that’s because we really haven’t thought about fuel temperatures yet. You’ll remember from Chap. 6 that the water flowing through the reactor rises in temperature from about 290 °C at the bottom, to about 325 °C at the top. So what temperature is the fuel? Well, it’s immersed in the water, so the fuel cladding can’t be very much hotter than the water. However, the heat isn’t being produced in the cladding. It’s being produced by fission in the fuel pellets. These must be running hotter than the cladding to drive the heat out (giving what the physicists call a ‘temperature gradient’, down which the heat can flow).
+
+The fuel pellets are made from uranium oxide—a ceramic material which is very poor at conducting heat. This means that there has to be a very high temperature in the centre of each fuel pellet to drive out the heat—in other words, there’ll be a steep temperature gradient across each pellet. At full power, you’ll probably have pellets in the reactor whose centres are running at more than 1200 °C. Even if you were to look at an average of the fuel pellet temperature you’d probably still have a value above 600 °C. This is shown in Fig. 9.3, where the red line indicates the temperature measured across a fuel rod at the position shown by the yellow dashed line.
+
+So, if the reactor power rises from just critical to 100% power, the average temperature in the fuel pellets might increase by 300 °C, even though Thot will only have risen by around 30 °C. The overall negative effect on reactivity from the FTC will be significant, and you’ll have to compensate for this as you raise power, either by withdrawing control rods or reducing the concentration of boron in the primary circuit.
+
+This sounds a bit of a nuisance, but it’s great for safety. If anything unpleasant happens and fuel temperatures start to rise, the core’s overall reactivity will go strongly negative, and reactor power will rapidly fall. Isn’t this just what you’d want to happen?
+
+## 9.2 Moderator Temperature
+
+The water flowing through your reactor serves two functions. It removes the heat from the core—so you can do something useful with it—and it acts as the ‘Moderator’ in which fast neutrons can bounce around, slow down and become thermal neutrons. Without the water, you wouldn’t have a running reactor.
+
+In common with most chemicals, water expands as it gets hotter. The physics is actually a little more complicated because water goes through its highest-density at just 4 °C, and solid water (ice) is less dense than the liquid, but none of that matters to us at 300 °C. So, let’s just assume that the water in your reactor gets less dense as it gets hotter. What does this do the reactivity?
+
+Here’s where there’s a clever bit of design in most PWRs.
+
+Your reactor is designed with the fuel rods too close together. Yes, really. If you wanted a better reactor that used neutrons more efficiently and had higher reactivity, you could have one simply by moving the fuel rods further apart. With the fuel rods closer together than in an ideal reactor, the neutrons are, on average, less well slowed-down than they should be. The physicists would describe your reactor as being ‘under-moderated’. If you think back to Chap. 6, you might remember that I described the control rod material (Silver-Indium-Cadmium) as being able to capt ure neutrons over a wide range of speeds (energies). Now you can see why that’s important. One of the consequences of an under-moderated reactor is that you’ll have more neutrons moving around that aren’t fully slowed-down.
+
+There’s a good reason to deliberately design a PWR to be under-moderated; that’s stability. When the reactor is running, imagine what happens if the power rises. More heat will be transferred to the water, the water will get hotter, and it will expand. If the water expands, there will be fewer water molecules between the fuel pins, so the water will be less effective at slowing down the neutrons. Starting from an under-moderated position, a heat-up will always give an even less well-moderated reactor. The upshot is that rising water temperature will reduce reactivity, as you can see in Fig. 9.4 (note that the distance between the fuel pins has been exaggerated in this diagram).
+
+This is a strong effect. In pure water, the Moderator Temperature Coefficient (MTC) can be as substantial as minus 60 milliNiles per °C. If the reactor were designed closer to an ‘ideal’ reactor, with the rods further apart, you couldn’t guarantee this effect in all circumstances.
+
+I’ll admit that there is a complication with the moderator temperature coefficient. I gave you an MTC value for ‘pure water’, but the reactor coolant water has boron dissolved in it. Boron is added to the water to capture neutrons and is used to control the reactivity, a bit like a control rod. In Fig. 9.4, you can see that when the water gets hotter, it gets less dense. But as well as there being fewer water molecules between the fuel pins, there will also be fewer boron atoms. By removing boron you are removing something that captures neutrons. This has an effect on reactivity that is opposite to that of removing moderating water molecules, so it makes the MTC less negative.
+
+At the start of an operating cycle, with lots of fresh fuel in the reactor, there’s a need for lots of boron. As the fuel is used up and the core becomes less reactive, the level of dissolved boron is reduced to compensate. This is covered in a bit more detail in a later chapter. What you need to know is with typically high boron at the start of a cycle, the MTC almost disappears; at low boron at the end of a cycle, it’s very negative. It changes through an operating cycle, becoming progressively more negative, so you’re going to need to know where you are in the cycle to calculate the MTC’s effect.
+
+## 9.3 It’s a PWR, so It’s Stable
+
+Both the Fuel Temperature Coefficient (FTC) and the Moderator Temperature Coefficient (MTC) have negative values. In other words, they both cause reactivity to fall if the core temperature rises. The FTC is usually the smaller effect of the two, but it is fast-acting and will respond quickly to any rapid change in fuel temperature. The MTC is slower as it takes time for heat to reach the water from the inside of the fuel, but it can be a more significant effect on reactivity as it can be very much more negative than the FTC. (I know that this looks obvious as the MTC is a lot more negative than the FTC but remember that average fuel temperatures move much more than water temperatures.)
+
+If reactivity reduces as temperature rises, then power will fall. This will have the effect of lowering temperature, which will, in turn, bring reactivity back towards zero. For a temperature fall, the reactivity will rise, the power will increase, and temperatures will return to their initial warmer values. This will also return reactivity to zero.
+
+This is a system with ‘negative feedback’. It is self-stabilising. Your PWR will be able to run at steady power for days on end with no control rod movement, simply held stable by these temperature effects.
+
+At this point, I should probably point out that there are quite a few reactors built with positive moderator temperature coefficients, including most of the UK’s other reactors, the graphite-moderated AGRs (see Chap. 22). This is quite manageable if the moderator takes a long time to heat-up or cool-down, and the coolant has little moderating effect of its own. Reactors built in this way tend to be stable in the short term (because of their negative FTC) and unstable in the longer term (because of their positive MTC), giving time for control systems and operators to intervene.
+
+## 9.4 Another Coefficient
+
+Reactor physicists like coefficients. There’s quite a few more. I’m not going to worry about most of the others here as they don’t really affect how you drive your reactor. There’s just one that I’m going to explain because it played an important role in the Chernobyl reactor accident.
+
+We know that water becomes less dense as it gets hotter. The most extreme example of this is ‘boiling’. If water turns to steam, its density drops by something like a factor of a 1000. Compared with water, steam is a rubbish moderator and is useless as capturing neutrons, so you might expect some significant effects on reactivity if the water in your core starts to boil.
+
+The measure of how much the reactivity changes in a PWR core with boiling is known as the ‘Void Coefficient’. Its units are a little different from MTC and FTC, and you’ll often see it written down as ‘milliNiles per %’ where the ‘%’ measures how much of the water has turned to steam (the ‘voidage’). In a PWR the void coefficient is strongly negative, usually more than minus 100 milliNiles per % voidage. Let’s put it another way: If you get significant boiling in your PWR reactor while it’s running, its power is going to drop like a brick. I find that quite reassuring.
+
+Incidentally, this is such a strong effect that it can be quite deliberately used to control the power level in a Boiling Water Reactor (BWR). You’ll meet BWRs in Chap. 22. In contrast, AGR reactors use carbon-dioxide gas as a coolant. As the carbon-dioxide is already a gas with very little effect on neutron moderation or capture, AGRs don’t have a void coefficient.
+
+## 9.5 Chernobyl Reactor Number 4, 26th April
+
+Some of the details in the brief description of the accident that follows are ‘best-guesses’; based on subsequent modelling and operational experience from other similar reactors (known as RBMKs). There are many books already written about Chernobyl, together with documentaries and dramas—each with a different point of view and sometimes disagreeing on the details. For this reason, I’m not going to try to retell the whole Chernobyl story here, but I am going to point out a link to the physics that you’ve seen in this chapter. Specifically, the Chernobyl reactor’s positive void coefficient was the single most important thing that caused the accident.
+
+You read that correctly. The Chernobyl reactor could have a substantially positive void coefficient if it were operated at low power, with control rods mostly withdrawn.
+
+Why?
+
+As you’ll see in Chap. 22, the Chernobyl design of reactor had a boiling water coolant and a graphite moderator, with the fuel and coolant water being separated from the graphite inside pressure tubes. In practice, this meant that it would be possible (in theory) to remove all of the coolant water and still have a viable (if uncooled) reactor. Removing the water removes a significant amount of neutron capture without affecting the graphite moderator.
+
+So… if at low power, an RBMK reactor contains a lot of water that is just below boiling point, a small increase in power and temperature will increase the boiling. This will reduce neutron capture and give the reactor positive reactivity. This will cause power to rise, increasing temperature and giving more boiling. This is a positive feedback mechanism—a positive void coefficient.
+
+On the morning of the accident, a test on Chernobyl reactor number 4 caused just this scenario. Power had been reduced before the test to a point where boiling effectively stopped. The negative reactivity from reducing the steam bubbles (voids) in the coolant effectively ‘stalled’ the reactor. To compensate for this, and to try to raise reactor power back up to a level at which the planned testing could take place, the operators withdrew far more of the control rods than was usually allowed.
+
+The planned testing involved tripping the turbine associated with the reactor and using its speed while slowing-down to power the pumps circulating coolant through the core. Unfortunately, when this test was initiated at such low power, the reduced flow of cooling water (compared with normal operation) caused an immediate increase in boiling in the core. Reactor power rose very rapidly due to the strongly positive void coefficient. Operators tried to insert control rods to counteract the power rise, but this may have only made things worse as RBMK control rods move quite slowly and had ‘graphite followers’ hanging beneath them. Inserting control rods from so far withdrawn actually increased the amount of moderator available to the reaction, by pushing the graphite followers into the centre of the core.
+
+The very rapid rise in reactor power caused fuel pins to burst and hot uranium oxide to enter the cooling water. This caused even more boiling. The reactivity increase was so enormous that the reactor easily reached and exceeded ‘Prompt-Criticality’ (Chap. 4). It’s been estimated that the reactor power reached 30,000 MW. That’s ten times its designed full power level.
+
+So much steam was produced so quickly that the 1000 tonne lid of the reactor structure was blown off. This ‘steam explosion’ was followed shortly afterwards by a second explosion, possibly caused by the ignition of hydrogen produced by chemical reactions between the hot fuel and the steam. The exposed hot graphite and fuel then caught fire, spreading large amounts of radioactive fission products out into the environment—a leg acy of radioactive contamination that will take many years to fully address.
+
+## 9.6 Remember That You Have a PWR
+
+This can’t happen to your PWR. Your PWR is inherently stable with a strongly negative void coefficient. Any significant boiling in your PWR rapidly reduces reactor power, rather than increasing it.
+
+10 You’ve Got to Do Something with All that Steam I’m going to explain the ‘Secondary Circuit’—and how you use it to do something useful with the heat that you’re taking from the primary circuit. This chapter includes a fair bit of engineering, but you need to understand where all your steam is going. As you’ll see later, it can have a surprisingly strong influence on your reactor. Figure 10.1 illustrates the secondary circuit by showing the path from the steam generators, through the ‘Turbine’ and ‘Feedwater Pumps’ then back to the steam generators.
+
+## 10.1 Steam Generators: Viewed from the Other Side…
+
+Let’s start by having another look at the steam generators (SGs). When you learnt about the primary circuit, you concentrated on the SG tubes through which the primary circuit water flowed. You’ll remember that on the secondary side, water flows up over the tubes, boiling to produce steam. It can do this because it is at a lower pressure than the water in the primary circuit. At full power, the secondary side of the steam generators contains water and steam at around 69 bar and 285 °C (known as ‘Tsteam’). This is about 7 °C colder than the lowest water temperature (Tcold) on the primary side, and it’s this temperature difference that drives the heat across the tubing. A reminder of the steam generator layout is shown in Fig. 10.2.
+
+The secondary side of the SG contains a mixture of water and steam. At the bottom of the tubing (the ‘tubeplate’) it’s mostly water. By the time it reaches the outside of the top of the tubes it’s around 25% steam mixed with 75% water. This is only possible because the water and steam can exist together on the saturation (boiling) curve that you saw in Chap. 2. We’ll come back to this when we look again at reactor stability because it’s surprisingly relevant to how your PWR behaves.
+
+A common mistake here is to think that you are pumping water around the outside of your steam generator tubes. You’re not. The water flowing in the secondary side of the SGs does so solely through natural convection. It is hotter and less dense within the tube bundle (especially when it contains steam bubbles) so moves upwards relative to the colder water flowing down around the outside. To make this circulation more efficient, the tube bundle is surrounded by a ‘Wrapper’ that separates the upwards (warmer) and downward (colder) flows.
+
+A 75% water/25% steam mixture isn’t what we need for our turbine (we just want the steam), so the next job your SG needs to perform is to separate and dry the steam. In some power stations, this could be done with more heating, but in your SGs the process is mechanical as shown in Fig. 10.2.
+
+Firstly the steam/water mixture passes up through ‘Swirl Vane Separators’. These look like fixed propeller blades mounted within vertical pipes. As the steam/water passes through the pipes it is made to swirl by the vanes. The water droplets within the steam will naturally spin-out towards the sides of the pipes from where they can drain back down to join the colder water flowing outside the wrapper.
+
+Meanwhile, the now drier steam will carry on up into the ‘Chevron Plate driers’. Here the steam is forced to repeatedly change direction by the zig-zag nature of the plates. Any remaining water droplets will tend to be captured at the zig-zags, and drier steam will pass through.
+
+It doesn’t sound like it would be a very effective process, but it is. Starting from a mixture that is 75% water, we end-up with steam leaving the chevron plates containing less than 0.5% water. Looked at another way, on average, any ‘bit’ of water will tend to circulate around the SG four times before emerging as steam.
+
+Taking a lot of steam from your SGs could dry them out pretty quickly, so you need to be topping them-up continuously with feedwater. At low powers this might be cold water straight from storage tanks, and delivered to the SGs by ‘Auxiliary Feedwater Pumps’. In contrast, at full power the feedwater will be preheated and will be supplied by the ‘Main Feedwater Pumps’ (more about that later). How much feedwater? Well, at full power each SG will be boiling around half a tonne of water into steam every second. So your feedwater system has to be able to top-up the four SGs with a total of about 2 tonnes per second, just to keep water levels stable.
+
+Feedwater is pumped in above the wrapper through ‘J’ shaped nozzles (‘J Nozzles’) so that it is evenly distributed—but remember this feedwater flow is small compared with the natural circulation flow that is already taking place within the SG. Perhaps it’s also worth noting that it’s not easy to measure a water level in the steam and water mixture surrounding the SG tubes, so don’t try. Instead, when we talk about SG water level we’ll measure it in the (colder) water outside and above the wrapper. I’ve marked a normal water level for the SGs in Fig. 10.2 so that you can see what I mean.
+
+## 10.2 Main Steam Lines
+
+Now that you understand how steam generators produce steam, you’ll want to know where it goes. The steam leaves your SGs through nozzles in their tops then travels along the ‘Main Steam Lines’—at full power, the steam will be moving at more than 60 mph. The main steam lines leave the reactor building through carefully engineered penetrations in the building walls. I say carefully because these steam lines are sat at around 285 °C (Tsteam) and you couldn’t let them come into direct contact with the walls of the building without damaging the concrete. An example of a main steam line is shown in Fig. 10.3.
+
+In the early days of steam engines, a few rather nasty events occurred when boilers containing steam reached too high a pressure and exploded. These explosions released a lot of steam, but more importantly, they tended to throw bits of boiler very far and very fast; often resulting in fatalities. Such events led to the universal adoption of ‘Safety Valves’ which open automatically to release steam if the boiler pressure gets too high. Your PWR is protected in the same way. On the primary circuit, safety relief valves of several different designs can be attached to the nozzles on the top of the pressuriser. On the secondary circuit, the safety relief valves (known as ‘Main Steam Safety Valves’, MSSVs) are attached to each of the main steam lines, outside of the reactor building. As there are no valves that can be closed in the main steam lines between the steam generators and these MSSVs, they will always be able to prevent the secondary side of the steam generators from being over-pressurised.
+
+Being outside of the reactor building, the MSSVs can discharge steam through vent pipes, directly to the atmosphere.
+
+Your PWR has two different kinds of relief valves on the main steam lines. There are around half a dozen MSSVs on each main steam line, with a single ‘Power Operated Relief Valve (PORV)’. Each of the MSSVs is held closed by a large spring and will only open if the steam pressure is high enough to overcome the spring force. These valves probably weigh 1/3 of a tonne each, so the springs really are ‘large’. Typically, the MSSVs won’t lift unless steam pressures rise above 80 bar, though each valve spring is set a little differently from its neighbours. Why this complexity? Well, it ensures that the minimum number of MSSVs lift in any over-pressure event, reducing the risk that one might then stick open. Also, by having multiple smaller valves rather than one large valve, the cooldown effect of a stuck open valve would be reduced.
+
+The PORV is a bit different from the MSSVs. There’s just one per main steam line, but rather than a spring, the valve can be opened by the operator at a pressure that can be varied. It is usually set to lift at a lower pressure than the set pressure of the first MSSV. You’ll see why the PORV is essential when we talk about steam dumping and cooling-down the primary circuit, later on.
+
+The final thing to see in this bit of the main steam line is the main steam isolating valve (MSIV). If you think about it, you’ll realise that closing all four of the MSIVs will isolate each of the steam generators from the others. This is why each main steam line has to have its own set of MSSVs and a PORV. If you like, the MSIV marks the end of the ‘nuclear’ bit of each line. After this point, the steam lines are really just the same as the conventional pipework that you’d find in a non-nuclear power station.
+
+## 10.3 Steam Turbines
+
+This isn’t a book about steam turbines. There’s lots of material out there if you want to research the subject in more detail (for example, look-up the steamship ‘Turbinia’; you’ll be glad you did). Instead, I’m going to give you an overview of how your turbine will be working for you.
+
+Your PWR has a single large Turbine-Generator set. The turbine is the bit that the steam drives; the attached generator produces the electricity. Smaller turbines (say, those producing less than 700 MW of electricity) will be synchronised with the grid and spin at the same speed. In other words, if, as in the UK, your grid uses alternating current at 50 Hz (50 cycles per second), then the turbine generator will be spinning 50 times per second, or 3000 revolutions per minute (rpm). That’s pretty impressive when the s spinning bits weigh more than 300 tonnes and has blades (see below) travelling at twice the speed of sound. It’s even more impressive when you discover that they can do this for a couple of years at a time, with no shutdowns in between. Steam turbines have been around for more than 130 years and are very reliable machines, if they are looked after. There are practical limits to how big turbines can be made. A 1200 MW turbine spinning at 3000 rpm would be very expensive to build. The forces acting on the turbine blades would be much higher than in a 600–700 MW machine so the engineering would have to be considerably more robust. Instead, large turbines—including yours—typically spin at half the frequency of the grid—in the UK that would be 25 Hz or 1500 rpm. The generator is wound differently, with twice as many magnetic ‘poles’ compared to a 3000 rpm machine, so the result is that the generator still produces electricity at 50 Hz. Usually, when you hear about a turbine you are told that it’s like rows of propeller blades on a shaft. If you let steam in at one end, it’s going to push on each row of propellers in turn, so spinning the shaft. The inventors of early steam turbines realised that things weren’t quite this simple… The first row of blades causes the steam to spin along with the blades; so the second row of blades gets hardly any push. To get useful power from all the rows of blades, you need to straighten out the steam flow in between the rows of moving blades. This is done by introducing ‘fixed’ blades that are attached to the casing and don’t spin, in between the rows of moving blades attached to the shaft. Next, you have to remember that as steam gives up its energy to the spinning shaft, it’s going to lose temperature and pressure. As its pressure drops, it will expand. This means that your turbine casing will need to be shaped like a cone, with blades getting bigger in each subsequent row, to be able to make use of the expanded steam. Figure 10.4 shows a cutaway of a steam turbine that has been built with the above ideas in mind. You can see the shaft, the moving blades and the fixed blades—in this case, two sets of each. You’ve probably realised that there will need to be some kind of sealing arrangement around the shaft; otherwise the steam would escape without pushing on the blades. In Fig. 10.4, in common with most large turbines this sealing is provided by a ‘gland’ into which steam is supplied—some flows in, some out, sealing the turbine in the process (a bit like the seal injection flow supplied to your reactor coolant pump shafts). Finally, it’s worth noting that as the steam pushes on the blades to make the shaft spin, it also pushes along the shaft. You could build a turbine like the one shown in Fig. 10.4, but you’d need a substantial bearing behind the blades to absorb this lengthways thrust. Instead, a more typical design for powerful steam turbines is to have two sets of blades mounted opposite to each other. Unlike the turbine shown in Fig. 10.4, the steam would then enter at the middle and expand (push) in both directions, so balancing out the thrust. This is how your real ‘High Pressure (HP) Turbine’ is constructed. 10.4 The High Pressure Turbine Steam travels along the main steam lines and then through a set of valves (known as ‘Stop’ and ‘Governor’ valves) after which it can pass into the blades of the HP turbine. The governor valves are designed to throttle the amount of steam going through; the stop valves are fast-closing valves that are only used when you want to isolate the turbine from the incoming steam, such as when you’re shutting the turbine down. Figure 10.5 shows an example of a set of moving HP blades being lifted from a typical (600 MW) turbine during overhaul. You can get an idea of its size by looking at the handrails on the left of the picture. Your HP turbine is bigger than this but has a very similar shape. Remember, the steam enters this turbine at the middle and expands (pushes) in both directions, causing the shaft to spin, so balancing out the thrust. 10.5 Re-using the Steam After passing through the HP turbine, your steam will be colder, lower in pressure and much wetter. In theory, you could send this steam straight into another (much bigger) steam turbine… but it wouldn’t last very long. All of those water droplets hitting blades spinning at 1500 rpm would do a lot of damage. What we really need is to heat the used steam up a bit, drying it out. Sending the steam back into the steam generators to be re-heated would involve some complicated pipework, so your PWR takes an easier route. A small amount of the steam from the main steam lines (known as ‘Live Steam’) is diverted to heating coils that are used to reheat the steam exhausted from the HP turbine. In fact, to make this even more effective, it’s a two-stage process with some steam ‘bled’ from partway along the HP turbine, before being sent to another (cooler) stage of heating coils. Both sets of coils are held in a tank, with HP exhaust flowing over the coils after flowing through a second set of chevron plate driers, as you can see in Fig. 10.6. This is called a ‘Moisture Separator Reheater’, and it is common-place on PWRs which produce lots of (relatively) low temperature and pressure steam. Now that your steam has been reheated it passes through a new set of stop and governor valves before entering a much larger ‘Low Pressure (LP) Turbine’ (Fig. 10.7). The LP turbines are much larger than the HP turbine as the steam has expanded while passing through the HP. In practice, it’s usual to have more than one LP turbine, attached to the same shaft as the HP turbine, just to cope with the volume of the steam. Once again, the steam passes through rows of fixed and moving blades, pushing the shaft around as it does so. 10.6 The Condensers On smaller steam turbines, the steam is sometimes exhausted straight to the atmosphere after passing through an LP turbine. On a larger turbine, this would give us two problems. Firstly, we’d be wasting water, and this water will have been cleaned and treated to minimise corrosion in the secondary circuit, so that would be expensive. Secondly, it would limit the amount by which the steam can expand as it passes through the LP turbine. It couldn’t expand to a pressure below 1 bar (atmospheric pressure) as this would prevent it from being exhausted to the atmosphere. This would seriously affect the amount of energy we could take from the steam. Instead, large turbines such as yours include a ‘Condenser’. In engineering terms, this is just a colossal bank of cooling tubes (tens of thousands of them) arranged underneath, or to the side of, the LP turbines. Steam leaves the final row of LP blades and is then directed into the condenser. There, the steam condenses on the cold surface of the tubes. By condensing the steam back into water, you’ve made it much easier to pump. Like many other PWRs, your condenser is cooled by pumping seawater (‘Circulating Water’), at say 10–20 °C, through the tubes. The clever bit is that if you first attach a vacuum pump (an ‘Air Extraction Pump’) to the condenser to remove all of the air from the space around the tubes, the pressure in the condenser will fall to the boiling pressure of water at the temperature of seawater. In pressure terms, this is anywhere from 10 to 50 millibars, or less than 1/20th of atmospheric pressure. I say that’s the clever bit because it means that the steam can expand all the way to this very low pressure, so you can extract much more useful energy from the steam to turn into electricity. Your condensers really do ‘suck’ (and that’s a good thing). To give long life and corrosion resistance, modern condenser tubes tend to be made from titanium. They aren’t cheap, but they are resilient and will probably still have a high scrap value even at the end of your station’s life. Of course, you need lots of seawater to be pumped through the condenser tubes to remove all the heat from the steam—a few million tonnes per day, and that’s going to mean large circulating water pumps. 10.7 The Way Back To get the water (condensed steam) back to the steam generators requires two things: pumps and heaters. Often there’s more than one stage of pumping, but however your feedwater pumps are arranged, you’ll need to achieve a flow of around 2 tonnes of water per second, travelling back to the SGs at SG pressure (70–80 bar). To give you an idea of scale, your PWR might be using 25 MW of electricity just to run the feedpumps. You’ll see in Fig. 10.1 that there are several sets of ‘Feedheaters’ in the path back to the SGs. Heating the feedwater reduces the stresses on the metal components inside of the SGs as you won’t be continually cycling their temperatures. More importantly for you, it makes a huge difference to the overall efficiency of the power station. Perhaps surprisingly, heating the feedwater before it is sent back to the steam generators actually improves how heat is used in your power station (the ‘thermal efficiency’). The reasons why are a bit beyond this book, but if you’re interested, do some research into ‘Steam Cycles’. Your feedheaters use steam bled from the LP and HP turbines in the same way as the moisture separator reheater used steam bled from the HP. The ‘drains’ (condensed steam) from the bled-steam side of each heater are cunningly connected to one another to recover as much useful heat as possible (e.g. drains from hot heaters assist in heating earlier (colder) heaters). The ‘Deaerator’ (shown in Fig. 10.1) is a special feedheater whose her role is to remove dissolved gases from the feedwater. Height is important here. The deaerator is mounted high up in the turbine hall to provide a raised pressure at the inlet to the ‘Main Feed Pumps’. That means that water has to be pushed up to the deaerator by the ‘Condensate Extraction Pumps’, which are all the way down in the basement, at the bottom of the condensers.
+
+Compared with, say, a coal-fired power station, your PWR runs at relatively low temperatures. Physics says that the maximum theoretical efficiency of a process using heat is related to how far apart its highest and lowest temperatures are. For a coal station, this temperature difference might be 600 °C. For a PWR it’s nearer 300 °C. The maximum theoretical thermal efficiency for a PWR would be just 50%, i.e. you could turn 50% of the energy you produce in the reactor into useful work. In reality, there are losses in the process, and the best you’ll achieve is around 35% or a little less. Put another way, roughly two-thirds of your reactor heat is dumped into the seawater when you are running your PWR at full power. There’s nothing you can do about it… you can’t change the laws of physics (Captain?)!
+
+Finally, before reaching the SGs, the feedwater passes through ‘Feed Regulating Valves’ which are used to control the flow of water. These are discussed in more detail in Chap. 16.
+
+## 10.8 The Generator
+
+You’ll have noticed that so far all we’ve achieved is to turn the turbine shaft—admittedly very quickly. At the other end of the shaft from the HP turbine is a large electrical generator. At your station, the outside of the generator (called the ‘Stator’ because it doesn’t spin) is wired through a big switch (a circuit breaker) and then via transformers to the electrical grid. As the grid uses alternating current (AC), this has the effect of creating a magnetic field within the stator that spins around synchronised with the grid.
+
+The turbine-generator shaft, spinning because of the steam expanding through the turbines, passes through the stator. Here the shaft is known as the ‘Rotor’, and it is wired to produce a magnetic field of its own. How do you create a magnetic field in the rotor? By putting a smaller generator, usually called an ‘Exciter’, on the same shaft. Sometimes the exciter even has its own smaller generator known as the ‘Pilot Exciter’.
+
+Fig. 10.8 600 MW turbine generators
+
+To illustrate this arrangement, Fig. 10.8 shows two large (600 MW) turbine generators side-by-side. The small HP turbines would be on the left-hand side of the LP turbines but are hidden by the pipework. Remember, your single turbine is larger than these, but the layout of equipment is very similar.
+
+Your power station puts its energy into the electricity grid by aligning (synchronising) the magnetic field of the rotor with that of the stator and then trying to push against the stator’s field to make the alternating current cycle at a higher frequency in the grid (see Chap. 13). This interaction with the grid has important implications for how you run your reactor, as you’ll see later.
+
+## 10.9 The Big View of the Power Station Cooling Circuits
+
+You’ll now understand that your PWR Power Station has three main ‘circuits’, for moving heat.
+
+• The primary circuit pumps push water through the reactor core and into the steam generator tubes before returning it to the reactor. It is a ‘closed-loop’ system, using the same water over-and-over again, albeit with some adjustments from the CVCS. This keeps potentially radioactively contaminated water separate from the non-nuclear bits of the power station.
+
+• The secondary circuit takes steam from the steam generators, expands it through turbines, condenses it back into water, reheats it and pumps it into the steam generators where it is boiled all over again. This is also a ‘closed-loop’ system, keeping water that has been expensively treated and dosed from simply being thrown away.
+
+• The third cooling system, known as the circulating water system, is the ‘open’ one. It’s the system that pumps the seawater through the condenser tubes and back out to sea, perhaps 10 °C warmer than when it came into the station.
+
+Around 1/3 of the energy your reactor produces is turned into electricity sent out onto the grid. The other 2/3 leaves the power station as waste heat in the seawater. Never mind.
+
+11 The Big Red Button… It won’t always be red, nor will it always be very big, but every control room will have one: a ‘Reactor Trip’ button. Figure 11.1 shows an example—note that a key is needed to reset this one, not to use it!
+
+Remember that the control rods are held out of the reactor by electromagnetic grippers, needing an electric current to hold onto them. The reactor trip button is connected to switches—known as ‘breakers’—that interrupt that electric current. If you push the button, the breakers will open. There are usually multiple breakers, arranged so that no single breaker sticking closed could allow the current to keep flowing.
+
+Opening the control rod grippers allows the rods to fall into the reactor under gravity. This sounds crude, but it takes less than 2 s for the control rods to fall from fully withdrawn to fully inserted as they only have a few metres to fall. We have to allow a little time for the breakers and grippers to open but even so, from the time you push the reactor trip button to the time that the control rods are fully inserted is probably only 3 to 4 s.
+
+By the time you look up from the button, you’ll see that reactor power has already fallen to around one per cent of what it was before you tripped; and it’ll continue falling. Of course, the reactor will still be producing a lot of heat (decay heat), but the fission chain reaction has effectively stopped. In other words, the insertion of the control rods has taken the reactor deeply sub-critical.
+
+Fig. 11.1 The Reactor Trip Button
+
+## 11.1 What Next?
+
+Whether you’ve tripped the reactor by pressing the trip button, or it tripped automatically because the protection systems decided it should be shut down, you’re going to have to go through the same ‘post-trip actions’. You and the automatic systems will both be focussed on stabilising the plant. Once it’s stable, you’ll have time to step back and think about what you’re going to do next, e.g. sort out whatever problem caused you to press the big red button in the first place! But for now your role is to check that the plant is stabilising and to intervene if you see any problems. You’re going to need to learn how to do this quickly, and from memory, before you open any procedures.
+
+The first things to check are: • Check that all of the control rods are fully inserted.
+
+• Check that the reactor power is very low and falling.
+
+If there’s a problem, you’ll need to find other ways of reducing reactivity, such as quickly adding boron to the primary circuit.
+
+Next: • Check that the turbine generator has also ‘tripped.’
+
+A turbine trip will have been sent to the turbine control system when you tripped the reactor. A turbine trip causes the stop and governor valves on the turbine to close. These valves are held open by a hydraulic system, acting against mechanical springs. A turbine trip signal works by releasing the hydraulic pressure, so allowing the springs to close the valves very quickly.
+
+Why does tripping the turbine matter? Because, if the turbine isn’t tripped, your reactor will be shut down, but your turbine will continue taking steam from the plant. This will cause a rapid cooldown, increasing reactivity, and could even take the reactor back to criticality. Remember, you’re trying to stabilise the plant, so if the turbine hasn’t successfully tripped you’ll be closing alternative steam isolation valves (such as the MSIVs) to stop the cooldown.
+
+Just a few seconds after the turbine trip—time for any steam already in the turbine to flow through to the condenser—the main generator will be automatically disconnected from the grid, and the turbine will begin to slow-down. Again, if there’s a problem with this, you’ll be choosing alternative electrical switches to open. If you leave the generator connected to the grid it could act as an electric motor and keep the turbine spinning, possibly causing damage by overheating.
+
+Now: • Check that primary circuit temperature and pressure are both stabilising.
+
+Actually, primary circuit pressure will have dropped significantly when the reactor tripped. This is only to be expected. When you stopped producing power in the core, Thot fell to pretty close to Tcold (decay heat is only a few per cent of full power, so doesn’t make a big difference). In other words, the average temperature in the primary circuit has dropped by around 15 °C. This caused the water in the primary circuit to contract, and so the pressuriser water level suddenly dropped. The pressuriser steam bubble has expanded to fill the gap, and its pressure, along with that of the rest of the primary circuit has fallen.
+
+So, what you expect to see after a trip is a primary circuit pressure drop and all of the pressuriser heaters turning-on automatically to restore normal pressure.
+
+Perhaps surprisingly, the steam pressure will have risen after the trip (yes, really). If you think back to what you learnt earlier about heat flow from the primary circuit to the secondary circuit, you’ll remember that the temperature difference between the two (around 7 °C at full power) is necessary to drive the heat across the steam generator tubes. After the trip, the heat being produced in the reactor drops away, so this temperature difference can shrink to just a few tenths of a degree. In practice this means that the steam temperature rises, from its full power value.
+
+at 285 °C, to almost match Tcold. If you’re not sure why the steam temperature rises, remember that with the turbine tripped, hardly any steam is now flowing from the tops of the steam generators. It makes sense that the steam pressure would build-up—taking steam generator temperature with it.
+
+Here’s the clever bit… the steam dumps (or PORVs, see Chap. 12) will now open taking a small amount of steam away and controlling steam pressure at this higher value. That removes heat from the system and stops both the steam temperature and Tcold from rising any further.
+
+If there’s any sign that pressure and temperature are not stabilising, then you’ll need to step in and perform some of these operations manually.
+
+And relax:
+
+Once things have settled down, and decay heat is reducing, you’ll be changing over to lower-flow auxiliary feedwater pumps. You’ll also have to check that you have enough boron in the primary circuit to keep the reactor subcritical in the longer term. Then it’s just a matter of either getting ready to re-start the reactor and turbine, or preparing to cooldown and depressurise the plant. Which you do will be dependent on why it tripped, and that means you’re probably going to need support from the rest of the organisation to move forward.
+
+## 11.2 Trips and Scrams…
+
+Incidentally, in the UK we use the word ‘trip’ for a rapid shutdown of the reactor or turbine, perhaps because in electrical systems, opening a breaker or switch is also often referred to as ‘tripping’. In the USA, especially at Boiling Water Reactors, you might hear the term ‘Scram’ instead of ‘trip’.
+
+There is a story that the word ‘Scram’ was originally an acronym used at Chicago Pile 1 (the world’s first man-made reactor that you met in Chap. 4). One of the physicists, present for the first start-up of CP-1, was positioned with an axe, ready to cut a rope that would release control rods quickly into the core. This was just in case the reactor couldn’t be controlled. He was allegedly known as the ‘Safety Control Rod Axe-Man’ or ‘Scram’ man, and it’s possible that this term then became more widely used to denote any emergency shutdown. It’s also possible that this term was back-fitted to the history of CP-1 and the truth is instead that ‘Scram’ was used in the more traditional context of ‘run away!’
+
+In France, a ‘trip The water removes the heat from the fuel and shields the people above from the radioactivity. The ‘OPAL’ reactor in Australia is an example of a modern pool-type research and medical nuclei production reactor, and (in 2019) is Australia’s only operational reactor. And there’s more… PWRs arose from the idea that a compact nuclear reactor could be used to power submarines. This is still the case, and the concept has been extended to large warships such as aircraft carriers, which might have up to eight individual reactors, though one or two is more common. One estimate of the number of nuclear reactor-powered ships and submarines currently in service worldwide is around 140 vessels, powered by about 180 reactors. That’s nearly 900 operational reactors worldwide. It’s not exactly a niche industry, is it? (I admit, there are some even more obscure reactors that I haven’t counted… small, fast reactors used as space power sources; a reactor temporarily installed at an American base on Antarctica; a few possibly fitted to aircraft or missiles etc. I’m not going to worry about them here.)
+
+Your Reactor Is Stable (Part Two)
+
+In earlier chapters, I introduced the first two key concepts that help you understand the behaviour of your PWR. The first was the concept of reactivity; the second was the stability of your reactor, especially in response to changing temperatures within the core. In this chapter, I’m going to explain the third key concept—how the design of the steam generators re-enforces the stability of the plant, and how it dictates what your reactor will do in response to events in the outside world. I’ll admit that this aspect of a PWR’s behaviour can sometimes be a bit of a struggle to make sense of. Don’t worry; it’s easier than it looks. Put simply, a PWR reactor follows the steam demand.
+
+## 12.1 Steam Generator Conditions
+
+Figure 12.1 is a repeat of the water boiling curve (the ‘saturation curve’) from Chap. 3. This time I’ve marked the approximate range of temperature and pressure on the secondary side of the steam generators. What you’ll notice straight-away is that the SG secondary side always sits somewhere on the saturation curve. Having seen the design of the SGs, this should make sense. There is nothing in the design of the SGs that could move their conditions off to the right as that would require something that could superheat the steam. On the other hand, the SGs can’t exist to the left of the saturation curve as that would stop them from boiling, and they wouldn’t produce any steam.
+
+Fig. 12.1 Saturation curve for water At the heart of the third key concept is simply this: whatever you do to the steam generators, they are only able to move up or down the saturation curve. For example, if you take more steam by opening the turbine governor valves, the steam pressure will fall. This will cause the steam and water temperature within the SGs to fall because they have to stay on the saturation curve. Conversely, if you take less steam, the steam pressure and temperature will rise to stay on the same curve. In all but the most extreme faults, the SGs staying on the saturation curve doesn’t change, so it provides a sort of fixed point (or line) around which the behaviour of the secondary circuit is constrained. This matters because the temperature of the primary circuit water inside the SG tubes (returning to the reactor as Tcold) is closely linked to the temperature outside the tubes (in the secondary circuit). So now we have a link between the steam conditions (Tsteam) and Tcold—remembering that from our second key concept, if Tcold changes, so do reactivity and reactor power.
+
+## 12.2 Heat Transfer
+
+It’s worth stopping and thinking about just how strongly Tcold is linked to the steam generator temperature, Tsteam. There are more than five thousand tubes in each SG. Together they form an immense surface area over which heat can be transferred. You have fast-moving water inside the tubes and at least 75% water (in a mixture with steam) bubbling away on the outside of the tubes—I say at least because there will be less steam at the bottom of the tube bundle than at the top, where it’s roughly 25% steam. The tubes are thin—only 1 mm thick—and are made of a metal which is excellent at conducting heat. With such good conditions for heat transfer, it’s not surprising that there is only a 7 °C temperature difference between Tcold and Tsteam even at full power. That’s with nearly 900 MW of heat passing across a single SG’s tubes from the primary to the secondary side.
+
+You might be wondering why I’m talking about Tcold rather than Thot—if Thot is hotter, why isn’t Tsteam closer to Thot? The answer is in the inverted ‘U’ tube design of the SG tubes. In your PWR there is no separation on the secondary side between the hotter side of the tubes, where primary side water enters at Thot and the colder side of the tubes where it leaves at Tcold. This means that Tsteam is going to naturally end-up colder than both Thot and Tcold. If you think about it, you’ll see that if this wasn’t the case, heat would flow in the wrong direction, from the secondary to the primary sides across the tubes next to where water is leaving the SG.
+
+## 12.3 A Practical Example: A Small Change in Electrical Power
+
+Imagine your reactor is running near to full power and you decide to raise your electrical generation just a little, say by a few Megawatts (MW). You’re going to do this by opening-up the turbine governor valves to admit a bit more steam to the turbine. This will push the blades and the shaft more strongly, which in turn will put more MW of electrical power into the grid. Now let’s think about what is happening to your secondary circuit. As you open-up the governor valves, the path that the steam is taking becomes a little less restricted. This will increase its flow and reduce its pressure—a bit like moving your thumb off the end of a garden hose. This pressure drop propagates backwards along the main steam lines all the way to the SGs whose secondary side pressures will fall. If steam pressure falls, so will Tsteam (to stay on the saturation curve). If Tsteam falls, Tcold will fall. So the first effect you’ll see in the primary circuit, from an increase in steam demand—opening the turbine governor valves—is a (small) drop in Tcold.
+
+Incidentally, if I then ask you to tell me what will happen to water levels within the SGs, what would you say? I think that most people realise that they will be taking more water out of the SGs (as steam) than they are putting in (as feedwater) so the SG water levels will fall, won’t they? Actually, to begin with, they go up! Remember that you SG water is really a mixture of steam and water? Well, you’ve just dropped the pressure so all the steam bubbles in the mixture will rapidly expand causing the water level to go up. But only to begin with. After that, the SG water level will start to fall just as you’d expect, so the feedwater control system has to be intelligent enough to recognise what’s going on and increase feed to maintain a steady level, despite this seemingly contrary change in level.
+
+What’s happening to your reactor? For now, let’s assume that the control rods aren’t moving so we’ll just look at the physics. As Tcold falls the average temperature of the moderator will fall. Average fuel temperatures will fall by a similar amount. From Chap. 9 you’ll know that this will cause an increase in reactivity from both the Fuel and Moderator temperature coefficients (FTC and MTC). This will, in turn, cause an increase in power until a new equilibrium is reached, i.e. the increase in power causes a fuel and moderator temperature rise which will pull reactivity back down to zero and so stop the power increase. All of this happens pretty quickly, perhaps a few tens of seconds and it’s sensitive enough to respond to changes in Tcold of just a few hundredths of a °C.
+
+What you’ve just seen is ‘the reactor follows steam demand’ effect, which is fundamental to the behaviour of a PWR. Once critical, a PWR will change its power level to match whatever steam demand you present it with. There are a few conclusions you can draw from this: • It doesn’t matter to the reactor if the steam demand is coming from steam flow through the turbines, steam flow through a Safety Relief Valve or even steam flow through a broken pipe. If it’s there and it affects Tcold, the core will match it.
+
+• Any problem that leads to a drop in Tcold, even if it’s only on one SG, will lead to a reactor power rise.
+
+• Any problem that leads to an increase in Tcold will lead to a power drop.
+
+• If you can hold your steam demand steady, your reactor power will be steady.
+
+• If you need to change your steam demand quickly in response to a problem on your turbine or on the electrical grid, your reactor will follow you.
+
+## 12.4 Keeping on Program
+
+There’s a downside to the reactor following the steam demand: changes in temperature. As I’ve described it, the reason why the reactor will follow steam demand is because of variations in Tcold. Unfortunately, your PWR is designed to operate at a particular temperature. For example, if you increase steam demand and both Tsteam and Tcold fall without being corrected, the effect of the lower temperature steam on the secondary circuit will be to reduce overall thermal efficiency—lower temperature steam isn’t as effective in the turbine. Conversely, if you allow Tcold to rise too far as steam demand is reduced, you’ll be eating into your margin-to-boiling on the primary circuit. What you need is a way of tweaking reactivity to bring Tcold back to its programmed (designed) value. You can do this in either of two ways; with control rods.
+
+or with boron. Moving control rods inwards a few steps or slightly increasing the primary circuit boron concentration (using the CVCS) will cause Tcold to fall to recover 'lost' reactivity. Conversely, a few steps out of your control rods, or a small boron dilution, will allow Tcold to rise to correct the surplus of reactivity. Moving control rods is fast but can have undesirable effects on the power shape in the reactor if you go too far, so there are limits on control rod insertion. Changing the boron concentration in the primary circuit (using the CVCS) gives a more uniform effect but is slower and isn't generally automated.
+
+Fig. 12.2 A small increase in electrical power
+
+On your PWR the control rods have an automatic control system known as the 'Reactor Temperature Control System' (RTCS, see Chap. 16) which will step the control rods in and out to keep the reactor at its designed temperature—hence the name! The complete picture for a small increase in electrical power is then given in Fig. 12.2.
+
+From this, I'll leave you to work out for yourself what happens during a power decrease…
+
+Your PWR doesn't actually have just a single value of Tcold. Instead, the programmed value of Tcold is dependent on power. I've already said that there is a 7 °C temperature difference between Tcold and Tsteam at full power. At half-power, with only half as much heat to transfer across the SG tubes, this temperature difference is only 3.5 °C. At zero power Tcold and Tsteam are practically the same temperature. This explains why your steam pressure is highest when your reactor is at the lowest power; that's when Tsteam is closest to Tcold.
+
+It would be better for efficiency to keep steam pressure and temperature higher, but we can't move Tcold too far as we raise power or Thot will end-up too close to boiling. However, we can let Tcold rise just a little bit—say a couple of degrees C—as we raise power. This won't entirely stop the fall in Tsteam, but it will help, as you can see if you compare Fig. 12.3a, b. Your RCTS will have this variation of Tcold built-in as part of its temperature programme, so this should happen automatically as power changes.
+
+In this chapter, I've focused on how steam demand affects the stability of your reactor—the reactor will always match the steam demand from the turbine. But what do you do to control Tcold at low reactor power before the turbine is providing this stabilising steam demand?
+
+## 12.5 Steam Dumping
+
+The answer is 'Steam Dumping' (Fig. 12.4). First, imagine that your reactor is subcritical with all four reactor coolant pumps in service. Even though the reactor is shut down, it'll still be producing decay heat. If you haven't been shut down for long, this might be more than 10 MW. Added to this, most of the electrical power that goes into running the reactor coolant pumps ends-up as heat in the primary circuit, so in total you might have more than 30 MW to deal with. You'll be using your steam generators to remove this heat as steam, and you won't be able to use it in a turbine (because that won't be up and running yet). So how do you get rid of the steam?
+
+You could simply dump the steam to the atmosphere through the power operated relief valves (PORVs) that we met earlier. In fact, although you have a PORV on each of the main steam lines, you'd only have to operate one PORV to remove all of the heat you're currently producing. They're big valves. You'll remember that the PORVs have a pressure setpoint that you can control from the main control room? So if you drop the setpoint of one of the PORVs to lower than your current steam pressure, it will open and bring the SG pressure down to that value, and hold it there.
+
+The clever bit here is that the PORV setpoint pressure (which you control) corresponds to the pressure that you are going to end up with inside the associated SG (the steam pressure). This also fixes the temperature (Tsteam), which in turn fixes Tcold. In other words, by varying the setpoint of the PORV, you are controlling Tcold. The four SGs are connected via the primary circuit water flowing through them and through the core, so if you cool one SG and reduce its Tcold, the other SGs will follow, even if you aren't actively using their PORVs to dump steam.
+
+Using the PORVs in this way is simple but wasteful—your carefully treated water is being dumped to the atmosphere. It's also pretty noisy, so your neighbours won't like it… There is another way: rather than using the PORVs, you can dump steam directly to the condenser of your turbine, without it passing through the turbine blades. This is known as 'Turbine Bypass'. Each part of your turbine's condenser has its own set of dump valves, and these are opened by an automatic control system either to maintain a set steam pressure or a fixed value of Tcold, depending on how you are using the system.
+
+The advantage of the turbine bypass system is that the water is not being wasted; it can be pumped out of the condenser and then be re-used as feedwater. Turbine bypass will require your condenser to be under vacuum, and several turbine systems have to be up and running before it will work, so at your PWR this isn't considered to be a system with a true nuclear safety role, such as in responding to a fault. You might have to use the PORVs for that.
+
+As you take your reactor critical and increase the heat input to the primary circuit, you'd expect to see the rate at which you are dumping steam increase to control Tcold: you have more heat to get rid of. To increase steam dumping requires either the PORVs or the turbine bypass valves to progressively open. You'll see later how the transition is made from steam dumping to running a turbine, but you should already be able to appreciate that the reactor is hardly going to notice—it won't know where the steam is going!
+
+## 12.6 And Finally… Boron
+
+I've mentioned boron quite a few times in this book. Boron is a light element, with just 5 protons. A fifth of naturally occurring boron exists as boron-10 (with 5 neutrons), and the rest is boron-11 (with 6 neutrons). We won't worry too much about boron-11 here, but boron-10 is interesting because it fiercely captures thermal neutrons.
+
+You can use boron to 'balance' the reactivity of the core as conditions within it change. Most importantly, by adding lots of boron to the primary circuit at the start of an operating 'Cycle', you can compensate for the very high reactivity of all of that new fuel. As the fuel is burnt up and its reactivity falls, you can slowly reduce (dilute) the dissolved boron so keeping reactivity balanced, and the reactor critical at the programmed temperature. Figure 12.5 shows how the concentration of boron dissolved in the primary circuit is reduced over time (here in an 18-month Cycle). It's called the 'Boron Letdown Curve' because the dilution is performed gradually using the letdown flow of the CVCS.
+
+Figure 12.5 is more of a curve than a straight line. This curve emerges for several reasons. Firstly the negative reactivity worth of each bit of boron is not the same—the more boron that is present in the primary circuit, the less affect a small change will have. Each part per million (ppm) of your dissolved boron might be worth around minus 6 milliNiles at the start of a cycle, rising to minus 8 milliNiles per ppm at the end of a cycle. Secondly, the change in core reactivity with burn-up is complicated by changes in power shape within the core.
+
+The most dramatic deviation from a straight line is at the start of the cycle. It's caused by a deliberate poisoning of new fuel pellets with a material that captures neutrons: Gadolinium. In effect, your core designers are nobbling the fuel early in an operating cycle to reduce its starting reactivity. This might seem an odd thing to do, but it avoids very high boron concentrations, keeping the moderator temperature coefficient (MTC) from going positive. Reducing the boron at the start of a cycle also improves the chemistry in the primary circuit. Boron in the primary circuit will be in the form of boric acid (H3BO3). This is what the chemists call a 'weak' acid, but even so, they'll need to add a small amount of alkaline, typically lithium hydroxide (LiOH), to balance the pH. If you had no gadolinium and even more boron, you'd need more LiOH added to the primary circuit. But, a very high level of dissolved lithium has been linked to corrosion processes in stainless steel pipework, so is best avoided.
+
+Gadolinium is a 'burnable poison'. In other words it's used-up as it captures neutrons. This means that it only has a significant effect on the reactor in the first part of the cycle—it doesn't cause a long-term reduction in your core's reactivity.
+
+## 12.7 Routine Dilutions
+
+Typically, you're going to be diluting the boron concentration by 2–3 ppm (parts per million) every day over the length of the cycle. How do you know when to do it? Well, think about what's happening in the reactor. As you burn-up the core from minute to minute and hour to hour, its reactivity will naturally fall giving a downward pressure on reactor power. But the reactor is following the steam demand. So it has to supply enough steam to match whatever the turbines are demanding and to do this it has to stay critical.
+
+In practice, reactor temperature will fall slightly if more power is taken by the turbine than the reactor is providing. This temperature reduction will increase reactivity (through the MTC and FTC) and bring reactor power back-up to match the turbine but at a lower temperature. Over a few hours the reactor temperature, measured at, say, Tcold, will slowly drift downwards, perhaps by a few tenths of a degree C. If you 如果你在监视Tcold，你会注意到这一点，并且知道是时候对硼浓度进行小幅调整了。如果不采取任何措施，控制棒最终会自动（自动地）向外移动一两步以恢复Tcold到其设定值；这是提醒你需要进行小幅稀释的另一种方式。我说的小幅是什么意思？也许是每天添加几十升除盐水到一回路中，在循环初期每天两到三次，到循环末期每次增加到几百升。随着硼浓度下降，你将不得不添加越来越多的新鲜水来实现相同的硼浓度变化（ppm变化）。如果这一点不清楚，想象一个一回路在1000ppm：如果你用新鲜水替换十分之一的水，硼浓度会下降100ppm。如果你从500ppm开始，同样量的新鲜水只会让你硼浓度降低50ppm，大约是反应性增加的一半。
+
+改变硼浓度在控制反应堆的其他方面也很重要。硼可用于关闭反应堆，或在冷却电厂时保持其关闭状态。如果你添加大量的硼，那么无论怎么冷却，都不会使反应堆重新达到临界状态，尽管存在负温度系数。换句话说，你可以利用硼来提供足够的“停堆裕度”。硼也可用于补偿功率变化后引起的大型、缓慢的反应性变化，特别是由氙-135引起的变化，我们将在后面的章节中介绍。
+
+你可能会问，当硼全部从一回路稀释掉时该怎么办？那时你就需要关闭反应堆：这是“换料停堆”的提示。我们将在第21章中带你经历一次这样的操作。
+
+13 让它转起来回到第7章，我引导你将压水堆提升至临界并把功率提高到满功率的百分之几。你会明白你的反应堆现在产生的蒸汽正在被“排放”；你还没有用它做任何有用的事情……在这一章中，你将驱动你的反应堆更努力一些，并开始发电。
+
+## 13.1 低功率稳定性
+
+记住，当你把电厂提升到低功率时，有几件事情发生了。让我们再次回顾一下： • Thot已经上升到高于Tcold。这表明你向流经堆芯的水添加了足够的热量，从而看到从底部到顶部的温度升高。
+
+• 你排放蒸汽的速度已经增加，并且你不得不增加给水流量以维持正常的蒸汽发生器水位。你向一回路中输入的热量越多，蒸汽发生器产生的蒸汽就越多，你也需要向蒸汽发生器中添加更多的水来补充蒸汽。
+
+• 稳压器中的水位将上升。这一点更为微妙。在你开始提升功率和温度之前，一回路中的平均温度与Tcold几乎相同。随着你增加功率，Thot上升，因此一回路中的平均温度（大约是Thot和Tcold之和的一半）也会上升。到你达到满功率时，平均温度将上升约16°C。即使平均温度的微小变化也会影响一回路中水的密度——它变得密度更小，因此占据更大的体积。密度更小的水唯一能移动进入的地方，以容纳这种体积的增加，就是沿着波动管进入稳压器。这意味着随着你提高功率，稳压器的水位将会上升。
+
+你的压水堆有一个足够大的稳压器，可以应对直到满功率的所有水密度变化。这意味着在改变功率时，你不必向一回路中添加或移除水。
+
+• 启动速率（SUR）将回落到接近零，而你无需移动控制棒。如果你回想一下描述反应堆稳定性的章节，你会看到随着你增加功率，燃料和慢化剂的温度都会上升。这种温度升高带来的负反应性效应将减少你的（SUR），直到它回到零。如果你不增加功率，温度和反应性将平衡——它们会找到自己的平衡点。
+
+## 13.2 支持你的汽轮机
+
+到目前为止，你的蒸汽发生器产生的蒸汽一直被“排放”。这可能是排放到大气中（通过动力操作的泄压阀，PORVs），但更可能你一直在使用汽轮机旁路系统将蒸汽排放到汽轮机冷凝器。这样安静得多……而且这意味着你可以回收水并将其作为给水重复使用。
+
+为了将蒸汽排放到汽轮机冷凝器，你不得不启动许多通常支持汽轮机在功率下运行的系统。正如我已经提到的，冷凝器需要在真空状态下，以便在有效的低温下冷凝蒸汽。实际上，是蒸汽的冷凝维持了那个真空，但你仍然必须首先抽出空气，因此需要使用“空气抽除泵”（真空泵）。
+
+你的汽轮机需要润滑，因此预计会看到一些油泵和油冷却器投入运行。你还需要一种方法密封汽轮机轴与其外壳边缘的接缝，以免失去蒸汽或真空。你的汽轮机，像大多数其他汽轮机一样，通过向轴周围的特殊密封件注入少量蒸汽来实现——工程师们称之为“汽封”。这与我们在一回路上看到的反应堆冷却剂泵密封水布置没什么不同——一些蒸汽通过汽封进入汽轮机，一些出来，但效果是维持了轴周围的密封。
+
+汽封只有在汽轮机轴转动时才有效工作，因此你的汽轮机包括一个小电动机，能够以低速转动轴；称为“盘车装置”。不幸的是，如果你只是试图使用盘车装置启动汽轮机旋转，什么也不会发生。带有所有叶片的汽轮机轴重达几百吨，即使有润滑油系统投入运行，它也不会很容易移动。大型汽轮机的设计者对此有一个答案：“顶轴油”。顶轴油系统以高压将油（与润滑油相同的油）泵送到汽轮机轴下方。这会将轴从其轴承上抬起，然后盘车装置可以以每分钟几十转的速度启动它转动。顶轴油效果惊人。如果在维护期间汽轮机的盖子被打开，你打开顶轴油（轴承仍然完好），你可以用手转动整个汽轮机！
+
+通过蒸汽发生器和汽轮机冷凝器循环蒸汽和给水，使你能够控制其化学性质。例如，当蒸汽进入冷凝器时，溶解的气体将被释放，然后被空气抽除泵抽走。同样，你可以向给水中添加氨水和肼等化学物质；使其保持管道和蒸汽发生器腐蚀最小化的状态。
+
+在轴的末端，你有一个发电机。你可以稍后更仔细地查看这个，但现在，我只提一下大型发电机通常用氢气冷却，你的发电机有一个“密封油”系统需要投入运行，以保持氢气在发电机内部。
+
+最后，有一个单独的汽轮机油系统用于打开液压截止阀和调节阀。由于这些阀运行温度非常高，它们必须使用特殊的油，通常称为“耐火液（FRF）”。图13.1显示了所有需要在准备用蒸汽启动汽轮机之前投入运行的汽轮机支持系统。如果幸运的话，这在你将反应堆驱动到低功率时就已经完成了，所以它会等着你……
+
+## 13.3 升速
+
+随着你的汽轮机轴缓慢旋转并且其支持系统现已投入运行，你只需要完全打开汽轮机上的截止阀，然后稍微打开调节阀即可。向汽轮机输入不到满功率百分之零点五的蒸汽就足以看到它加速。你需要将其从盘车速度（每分钟几十转）提升到其正常速度1500转/分。当你这样做时，你可能会看到蒸汽排放阀稍微关闭一些，因为你会将一些蒸汽通过汽轮机叶片，但这对反应堆几乎没有影响。
+
+你可以每分钟将汽轮机转速提高几百转，但当蒸汽通过叶片时，汽轮机将会升温，这可能会引起振动问题以及汽轮机内部间隙减小。这些都是巨大的机器，通常会有一些转速范围你需要慢慢通过，而另一些你可以更快通过——遵循你的程序！
+
+一旦你将汽轮机提升到全速，并且如果你有一段时间没有运行汽轮机，你可能会被要求执行“超速试验”。如果你再将汽轮机转速提高一点（比如说，再提高10%左右），汽轮机应该会“跳闸”，截止阀和调节阀快速关闭，以避免汽轮机因转速过快而损坏。汽轮机的超速跳闸非常重要：如果它突然与电网断开，但截止阀和调节阀仍然打开，它会加速直到损坏——可能是灾难性的。超速跳闸会防止这种情况发生。
+
+当你完成了超速试验，你可以复位跳闸，打开截止阀和调节阀…… Governor valves (just a little), then spin the turbine back up to 1500 rpm.
+
+## 13.4 Synchronising
+
+You're still not generating any electricity, so now's the time to look a bit more carefully at the generator. As I've already mentioned, your generator is in two main parts: the 'Stator' (because it doesn't spin, i.e. stationary) and the 'Rotor' (the bit that spins). Both of these are wrapped with copper bars in a complicated arrangement. The stator will have water flowing in between some of the copper bars to provide cooling. This isn't possible on the rotor, so hydrogen gas is blown over the rotor then through coolers, to take away any heat. Why hydrogen? Because its physical properties are great for removing heat, and it's cheap. Helium would be good for this too, especially as it's non-flammable, but it's far too expensive.
+
+The rotor has an electrical current running through it that produces a magnetic field. This current is produced in a smaller generator—known as an 'Exciter'—attached to the same turbine shaft. Typically on larger turbines like yours, two stages of exciter are needed: a small permanent-magnet generator (the 'Pilot Exciter') generates a magnetic field for a more substantial 'Main Exciter', which in turn generates the current for the generator rotor.
+
+All of this makes the generator rotor both complicated and large. In Fig. 13.2, you can see an example of a generator rotor (from a 600 MW turbine), being inspected before being lifted into the Generator. This one weighs 70 tonnes.
+
+So, to recap: you now have turbine blades spinning at 1500 rpm. These are coupled to your generator rotor, so it is also spinning. When you turn-on your exciter, your rotor will see a large electrical current and from this will form a spinning magnetic field. However, your stator is not yet connected to the grid, so you can't be sending any power offsite.
+
+There's a fast-acting switch ('Circuit Breaker') between your generator stator and the transformers leading to the grid, but if you simply close it, things are likely to go very badly. The chances are that your turbine speed and the grid frequency won't be quite the same. Even if they are, they may not be aligned ('in-phase'). Remember, your generator produces 3-phase AC electricity at 50 Hz, and at around 20,000 V. If you managed to close the generator circuit breaker out of phase or at a different frequency from the grid, the electrical forces acting on the shaft would be enormous—there's every chance that your turbine would be wrecked… along with the building it's sitting in.
+
+To avoid this, you're going to use a synchroscope. It's a simple device: it measures the frequency and alignment (phase) of the current being produced in the generator rotor, together with the frequency and phase of the incoming grid supply, measured on the grid side of the circuit breaker. The synchroscope displays the difference between the two on a spinning dial (Fig. 13.3). It won't let you close the circuit breaker until this all matches, so you need to keep adjusting the turbine speed and phase (by changing how much steam passes through the blades) until you get a good fit—shown by the dial being stationary and (usually) pointing straight up. Once you're at the correct speed and in-phase with the grid, the circuit breaker switch can be closed to connect the generator stator to the Grid.
+
+From now on your turbine will always stay electrically locked to the grid. If the grid speed (frequency) changes, even by a little, your turbine speed will do the same. The magnetic field produced by the rotor and the one in the stator push against one another and won't allow your turbine generator to move at a different frequency from the grid, nor to slip out of phase with it. This means that you can't simply speed up your turbine to generate more electricity. So how do you put more energy (electricity) into the grid?
+
+You do it by allowing more steam to pass through the turbine blades trying to push the shaft and the rotor around faster. What you'll actually be doing is increasing the torque on the shaft leading to the generator rotor. The magnetic field produced by the rotor will then push against the magnetic field in the stator, and that will push against the grid, to try to make all of the other generators and equipment attached to the grid spin just a little bit faster. It's a big grid, so you'll not see any measurable change, but you will be putting energy in, just by trying.
+
+Incidentally, this is also true of almost every other generator on the grid. All the other turbines, all over the country, will be spinning virtually in phase with yours and at the same speed (or a multiple of it, depending on how they are wired). Most designs of wind turbines spin synchronised to the grid; which is why when you look at a wind farm, all of the turbines are spinning at the same speed, with the blades in the same positions (any that aren't are probably not connected to the grid). Just like your turbine, the wind turbines are locked to the grid frequency and in-phase with it because of the magnetic fields in their generators.
+
+If all of the generators on the grid are putting too much energy in, compared with the electricity demand, the grid frequency will rise. If they put too little in, the grid frequency will drop. It's the job of the grid controllers to balance the supply from the generators with the total demand on the grid, to keep the frequency close to 50 Hz at all times—it's not an easy job, as you saw how variable the electricity demand can be in a previous chapter.
+
+## 13.5 Turbine Power Raising
+
+When you first synchronised your turbine to the grid, the governor valves will have allowed just enough steam into the turbine to generate a few tens of MW of electricity. It's not a lot compared with your full power of 1200 MW, but it will ensure that your turbine is continuously pushing against the grid. If you didn't do this, the grid could drive the generator as if it was an electric motor—and this could lead to overheating.
+
+Your steam dump valves will have closed a little to compensate for the steam that's now being used to drive the turbine, but you're probably still dumping steam. To close the dump valves, raise turbine power (by opening the governor valves a bit) until all of the steam being produced in your SGs is being used to drive the turbine. Your dump valves will have closed. Now your reactor and turbine are balanced at low power, and you're finally getting paid (a little) for electricity.
+
+The next step is to raise both reactor power and turbine power up to your full power limits. This isn't quick. Just as when you were spinning your turbine up to 1500 rpm, your turbine could be damaged if you try to change its power output too quickly. Some turbines are better at faster power changes than others. Yours is typical, able to increase power at just a few MW per minute. This means it's going to take you somewhere between 5 and 10 h to reach full power, assuming that there aren't any limits on the reactor that would force you to move more slowly.
+
+Modern turbine governor valves are controlled by computers. Once the turbine is synchronised to the grid, you only need to type in a target load (in MW) and a rate at which you want to get there, and the computer will do the rest, monitoring vibrations, expansions and any other concerns as it goes along.
+
+You've already learnt that your PWR will follow steam demand, so it looks like all you have to do to raise the power on the reactor is to tell the computer operating the turbine to increase its output? Unfortunately, it's a bit more complicated than that, as you'll see in the next chapter.
+
+## 14.1 Reactor Power Raising
+
+Let's remind ourselves what happens when you open the governor valves on your turbine. You admit more steam into the turbine, so you're going to be pushing the blades, shaft and generator rotor a little bit harder. This will push against the grid frequency, so you'll be putting more energy (electricity) into the grid. All well and good, that's probably what you wanted. But what's happened to your reactor?
+
+By taking more steam from your SGs, you will have caused a drop in steam pressure. This creates a drop in steam temperature (Tsteam) which in turn causes a reduction in the temperature of the water heading back to the reactor (Tcold). A decrease in Tcold reduces both fuel and moderator temperature, resulting in positive reactivity feedback. The reactor power will start to rise until it matches the steam demand at which point a new balance in power and temperature will have been achieved. As the reactor driver, you haven't needed to do anything.
+
+But your reactor is now operating at the 'wrong' temperature. It's off-programme. In this scenario, it will have ended up colder than you want it. Your steam temperature and pressure won't be at their designed values, and that will prevent the turbine from working quite so efficiently. What you need to do is to raise the reactor temperature up a little, and you can do that by withdrawing your control rods a few steps. This increases reactivity, allowing temperatures to rise (negative reactivity feedback) to achieve a new balance—this time at the right temperature. You can let the control systems do this automatically, or step in and do it manually, using the control rod controls in front of you.
+
+more substantial changes, such as moving from very low power all the way up to full power? The answer is that control rods aren’t the way to control such a large change in power.
+
+On a PWR, you will always lose reactivity if you increase power. What I mean is this: if you increase power, both fuel and moderator temperatures will rise. Each of these will result in negative reactivity, as you’ve seen in earlier chapters that described the Moderator Temperature Coefficient (MTC) and Fuel Temperature Coefficient (FTC). You can plot a graph of these two effects added together. It’s called a ‘Power Defect’ graph (Fig. 14.1).
+
+Figure 14.1 shows how much reactivity you will lose as you increase power from zero power up to full power, assuming that you keep the reactor on the correct temperature programme. As you’ve already seen, the MTC depends on the boron concentration in the primary circuit, which depends on how far your PWR is through its operating cycle. So in reality, there’s a different power defect graph, for each point in the cycle. Figure 14.1 is a graph for about mid-way through. You can see that it’s made-up of contributions from both the MTC and the FTC, with the FTC contributing a little more at this time. By the end of the cycle, the MTC’s contribution will be the larger of the two.
+
+Fig. 14.1 Mid-cycle power defect
+
+Look at the scale of Fig. 14.1. It’s in Niles (see Chap. 3), so the power defect has a significant effect on reactivity. All of the control rods added together are stronger than this (around 8 Niles), but this wouldn’t be true if you just considered the control banks. Remember that the shutdown banks are only used in shutting down the reactor; they will be fully withdrawn with your reactor critical, so you can’t vary their position. Withdrawing the control banks on their own couldn’t add enough reactivity to overcome the power defect unless they were very deeply inserted at low power. But there’s problem with that idea: control rods distort the shape of the power in the reactor.
+
+## 14.3 Power Shape
+
+Figure 14.2a shows a full-power shape for the power in your PWR (top to bottom). This power shape is for part-way through an operating cycle, with your control rods nearly all out of the reactor. The dips in the trace show you where the gridstraps are on your fuel assemblies (Chap. 3), as gridstraps capture neutrons. There’s a slight bias in the power shape towards the bottom of the core. This is because the lower half of the reactor is colder—and therefore more reactive—than the top. The reactor physicists use two terms to describe this, the ‘Axial Offset’, or the ‘Axial Flux Difference (AFD)’, but both of them are simply measures of the percentage difference in power between the top and bottom halves of the core.
+
+Fig. 14.2 Axial power shapes with control rods out, and with control rods inserted
+
+Compare Fig. 14.2a with Fig. 14.2b. In Fig. 14.2b, the control banks are more deeply inserted into the reactor (from the top). Reactivity has been balanced by a change in boron concentration, so your reactor is running at the same power level, but look how much more the power shape is biased towards the bottom of the core. Pushing the rods in distorts the power shape, even though the overall power level is unchanged. This means that some of your fuel pellets (in the lower part of the core) are now producing much more power than they were with an undistorted power shape, so will be burnt-up faster. More significantly, it also means that the decay heat will be biased towards those same fuel pellets.
+
+Concentrating the power in one part of the core makes fuel failure more likely if a reactor fault were then to occur. This is why you try to run your PWR ‘Rods Out’, with an AFD near zero, reflecting an even spread of power between the top and bottom of the core.
+
+So, practically, how do you raise power if you can’t use control rods to compensate for the power defect? You dilute, reducing the boron concentration in the primary circuit. As soon as you start raising the power on the turbine (or even a little before), you start adding fresh (unborated) water to the primary circuit. This compensates for the reactivity you’re losing through the power defect as reactor power rises. You continue to dilute throughout the power raise, either by monitoring Tcold and AFD or by following a dilution plan provided by a computer model of the core.
+
+As you add fresh water through the Chemical and Volume Control System (CVCS), excess primary circuit water will be diverted to your ‘Radioactive Waste’ plant for processing. You could work out how much of a dilution you need using tables and graphs if you know enough about your core, but you can probably see that the computer will be quicker and more reliable. You aim to reach full power, on the designed temperature programme, with the control rods nearly fully withdrawn—and that may require an overall dilution of tens of tonnes of unborated water.
+
+Once you’ve achieved full reactor and turbine power, everything should be stable?
+
+Well no, unfortunately not. There’s one more significant bit of reactor physics that you need to understand to successfully drive your reactor. It’s due to xenon, and it’s a doozy…
+
+## 14.4 Iodine and Xenon
+
+Around 6% of fissions of uranium-235 result in the fission product iodine-135 (I-135). Iodine-135 decays (by beta decay) to xenon-135 (Xe-135). Normally, Xe-135 would decay to caesium-135, which is nearly stable. Aside from the radiation released, this is pretty dull, and none of this is going to have a direct effect on your reactor. However, Xe-135 is also voracious as far as neutron capture is concerned. It captures lots of them! So sometimes a Xe-135 atom will capture a neutron (forming stable Xenon-136), rather than decaying.
+
+This is shown pictorially in Fig. 14.3:
+
+Any xenon-135 you have in your reactor will capture some of your neutrons so will clearly give you a negative reactivity contribution. Xenon-135 is a reactor ‘poison’. But it’s xenon’s behaviour during power changes that makes it important and interesting to you, as you drive your PWR. I-135 has a half-life of six and a half hours. For Xe-135 it’s just over 9 h. These timescales are short enough to have a visible effect on how you drive your reactor, without being so short that they’d only be of interest to physicists.
+
+## 14.5 Xenon Build-Up
+
+Let’s start with a reactor that’s been shut down for a few days. During that time, all of the I-135 and Xe-135 that might have been produced in previous operation will have decayed away. Your reactor is xenon-free. Now you start-up your reactor… you’ll begin producing I-135 as a fission product. Over the next few hours some of the I-135 will decay to Xe-135. As you raise power the rate at which you produce I-135 will increase, followed by an increase in the rate of Xe-135 production. But remember, both I-135 and Xe-135 will decay away with time, so you’re going to reach an equilibrium level for each, where the production matches the decay. In fact, things are a little more complicated for Xe-135, as its removal is made up partly from decay and partly from neutron capture (to Xe-136). We’ll come back to that later.
+
+Figure 14.4 shows you a graph of how iodine-135 and xenon-135 concentrations in your reactor change with time following an unrealistically fast (!) increase in power from zero to full power. You’ll see that both I-135 and Xe-135 reach stable levels with the Xe-135 lagging behind the I-135.
+
+Remember: it’s only the Xe-135 that has an effect on reactivity so what Fig. 14.4 is telling you is that even after you’ve reached a stable power level in your reactor, the reactivity will still be changing. As xenon builds-in over the next 2–3 days, you are going to have to continue to dilute (albeit at a lesser rate than when you were power raising) to offset the negative reactivity appearing from the xenon.
+
+Fig. 14.4 Xenon-135 build-up
+
+## 14.6 Xenon After a Trip
+
+Xenon’s behaviour after a trip is even more of a problem. You might imagine that when you trip, xenon will simply decay away but that’s not what happens. It actually increases! At the moment you trip your reactor, your equilibrium level of Iodine-135 corresponds to the reactor power you had before you tripped. I-135 will decay away from this level with a simple 6.5-h half-life. However, this decay is the production route for xenon-135. So, to begin with, you’ll be producing Xe-135 at the same rate as you were before the trip.
+
+Now think about the processes that remove Xe-135. The natural decay to caesium-135 will continue as before, but this was only half the picture. Your equilibrium Xe-135 level was also due to the removal of Xe-135 by neutron capture. But there aren’t any (or hardly any) neutrons any more as you’ve just tripped your reactor, so this removal mechanism has stopped. Your reactor is now producing more Xe-135 than it is losing, so the level of Xe-135 and its negative effect on reactivity goes up.
+
+This is shown in Fig. 14.5. You can see that the result is dramatic, significantly increasing the negative reactivity effect from the Xe-135. It also lasts a while, your reactor won’t be back to where it started (in terms of Xe-135 negative reactivity) for around 20 h, after which you’ll gradually see an improvement as the Xe-135 decays away.
+
+Fig. 14.5 Xenon-135 after a reactor trip
+
+On early reactors such as the MAGNOX plants (Chap. 22), the build-up of xenon after a trip meant that you couldn’t achieve criticality for around 24 h post-trip, even with all of the control rods fully withdrawn. On a PWR, for most of an operating cycle, you can recover reactivity by reducing the boron concentration in the primary circuit. Even so, if you’re trying to start-up your reactor within a few days of a trip, predicting the point of criticality has to t Take the xenon-135 transient into account. It’s going to be a moving target.
+
+## 14.7 January Sales
+
+Some people struggle with the behaviour of xenon when they start working with reactors—I know I did! I’ve seen several attempts at explaining it, for example, with diagrams of interconnected bathtubs—none of which really worked for me. So, let me try something completely different…
+
+Imagine a West End store during January Sales. There are hundreds of people walking around the store, and more queued up outside. Some of the people inside get fed-up and walk out without buying anything. Others find a bargain, buy it, and then leave. This can all balance out quite nicely, with the people coming in matching those leaving. In this analogy, the people in the store are your Xenon-135. The people outside in the queue are the iodine-135, and the bargains represent the neutron flux (power) of your reactor.
+
+So what happens if you trip? In our analogy, it’s as if all of the bargains suddenly disappear from the shelves, so no-one will be able to buy anything. People will still leave the store, but some of them will still be wandering around looking for those elusive bargains, so their leaving won’t speed-up appreciably. It also takes time for the message about the missing bargains to reach the queue outside. So to begin with, people will still be flooding into the store just as if it were fully stocked. Just like in your reactor, even though the bargains have disappeared (the flux has gone to zero), the number of people in the store (the xenon-135) will actually go up.
+
+Eventually, the story about the missing bargains will spread, and people will stop joining the queue outside (no more iodine produced). As the pressure in the queue falls, the number of people entering the store will drop below the number leaving, and the total number of people (xenon-135) will fall, reaching zero when everyone’s finally gone home.
+
+You can use the same analogy for smaller decreases or increases in power (changes in the supply of bargains). For example, if the number of bargains on the shelves suddenly increases (power increase) the number of people buying and then leaving will also increase. However, the people in the queue take time to realise the change, so won’t initially be trying to get into the store any quicker. This will mean more people leaving than entering and an overall fall in the total people in the store (xenon-135). And so on…
+
+It’s not physics, but it might help?
+
+15 Power, and How to Change It
+
+## 15.1 The Toolkit
+
+You’ve now been introduced to all of the tools you need to drive your reactor. To begin with, you needed to understand the concept of reactivity (“how friendly your reactor is to neutrons”).
+
+This enabled you to see how changes in fuel and moderator temperature in a Pressurised Water Reactor (PWR) feed-back as changes in reactivity and power. As this is negative feedback, you’ve seen how this keeps a PWR reactor stable with little or no intervention from you, the operator.
+
+Along the way, you’ve seen how reactor power is measured (or calculated), and how quickly your reactor can be shut down; although you can’t just turn off the ‘decay heat’.
+
+As part of the start-up procedure, you’ve seen what happens when you connect your PWR to its turbine. Again, negative feedback effects—in this case, due to changes in steam generator pressure and temperature—have a strong stabilising effect on the plant and allow the reactor to follow the steam-demand.
+
+Finally, you’ve seen the effects on reactivity from dissolved boron, control rods, power defect and xenon-135. The first two of these are under your direct control; the other two are a consequence of what you do with reactor power.
+
+## 15.2 Practical Example: A Significant Power Reduction
+
+Imagine you’ve been running your reactor at full power for some weeks. You’re in the middle of an operating cycle. Everything is stable, there is little or no control rod movement and you just need to do the occasional dilution of the primary circuit to keep Tcold on its programme.
+
+Then you get a phone call: “There’s a problem with the turbine; you need to drop to 75% power?” What do you do?
+
+Well clearly the big red button isn’t going to help you—that would shut down the plant completely. You might be tempted to rush to the reactor control panels and start driving in the control rods. But by now you’ll probably appreciate that driving the rods into the core will only cause a temporary drop in power, as you’ll still be taking full steam for the turbine. The plant would cool-down, and power would simply return to 100%—but well off its intended temperature program.
+
+So let’s be sensible. If you need to reduce plant power, you need to start at the turbine. Use the computer that controls the turbine governor valves to slowly close them in. As you do this, less steam is admitted to the turbine, and the electrical output will fall. Ideally, you’d do this at just a few MW per minute, but if you’re in a hurry, you can reduce output by tens of MW per minute if you’re not making too big a change in power overall.
+
+As the governor valves start to close in, the steam flow path becomes more restricted so the upstream steam pressure will rise. This means that the steam generator steam pressure will increase, taking the secondary side temperature and then Tcold along with it. Now reactor power will start to fall as the fuel and moderator temperature coefficients (or the power defect, if you prefer) reduce reactivity. Your reactor will follow the turbine as the turbine power is reduced. As Tcold moves away from its programme, your control rods will step in, providing additional negative reactivity and ensuring that Tcold doesn’t rise too far.
+
+You’re now driving your reactor by moving your turbine power. You’ve already seen this in Chap. 12, but there’s a problem. While these feedback mechanisms work fine for a small change in power, you’ve been asked for a whole 25% reduction. If you drove your plant that far just using the turbine, you’d end up with the rods very deeply inserted in the core. This distorts the power shape so probably isn’t allowed by your procedures. On some plants, there are even limits built into the automatic rod control system that would prevent the rods from driving in that far, in which case you’d reach a very high Tcold as power was reduced.
+
+I expect you’ve already guessed that you can overcome these problems by adjusting the amount of boron in the primary circuit. So let’s go back to that phone call…
+
+## 15.3 What You Really Do
+
+Instead of reaching for the turbine controls straightaway, have a look at the example power defect graph in the last chapter. If you’re dropping power from 100% to 75%, the Power defect will change by about 0.4 Niles (i.e. from −1.6 Niles to −1.2 Niles), or plus 400 milliNiles. Remember that Power Defect is always a negative contribution to reactivity, so if it is reducing in size, that means that overall core reactivity is increasing. If you want to offset this positive change in reactivity by changing the level of dissolved boron, you’re going to need to increase the boron by around 60 ppm (roughly minus 400 milliNiles divided by minus 7 milliNiles per ppm—the reactivity worth of each ppm of boron).
+
+So here’s what you really do: • Go to the control panel for the Chemical and Volume Control System (CVCS) and dial in a ‘boration’ (adding boron) equivalent to a boron increase of 60 ppm; your procedure will tell you how to calculate this for your plant at the current burn-up. Now, set-up the CVCS controls so that this boration happens gradually over the same timescale in which you want your power reduction. • Set-up the power-reduction on the turbine governor controls but don’t start the valves moving just yet. The pipework from the CVCS to the primary circuit is quite long, so wait a few minutes until you see Tcold just start to fall—telling you that the primary circuit boron has started to increase—then begin the turbine power reduction.
+
+What you will now see is that the reactor and turbine power will reduce together, with Tcold staying on programme and rods hardly moving at all.
+
+## 15.4 Controlling Axial Power Shape
+
+You can’t leave things entirely to the automatic systems though. As you reduce the power the top of the core cools down a bit more than the bottom of the core, increasing the reactivity in the top relative to that in the bottom. This causes the power shape to naturally shift upwards, giving you a more positive Axial Flux Difference (AFD). There are tight procedural limits on AFD at most stations, so this positive movement in AFD can’t be left unchecked.
+
+As the power reduction proceeds, keep an eye on AFD. If it’s moving too far positive, pause the boration for a few minutes. With less boron being added to the primary circuit, temperatures will rise as turbine power falls. As Tcold rises, your control rods will automatically drive inwards to hold Tcold on target. As the rods drive in, the axial power shape (and hence AFD) is pushed downwards—more negative. If you’re lucky, you’ll have a computer program telling you how much of a pause in boration you need in order to keep AFD within limits. If not, you’ll just have to carefully monitor the plant. Lots of practice on the simulator will help—and don’t worry, your training department will have simulators!
+
+## 15.5 And Xenon
+
+Once you’ve achieved 75% power on both your reactor and turbine, the job’s all done? No, unfortunately not. The change in reactor power will kick-off a transient change in your xenon-135 level. If you drop reactor power, it’s a bit like a mini-trip, as you can see from Fig. 15.1.
+
+Just like after a trip, if you reduce reactor power, your equilibrium level of iodine-135 corre sponds to the reactor power you had just before the reduc- tion. I-135 will decay away from this level towards a new (lower) equilibrium level, but its 6.5-h half-life means that this isn’t an instant change. Once again, the decay of I-135 is the production route for xenon-135. So, to begin with, you’ll be producing Xe-135 at the same rate as you were before the reduction.
+
+The natural decay of Xe-135 will continue as before, but there are now fewer (only 75%) of the neutrons flying around compared with being at 100% power. This means that the removal of Xe-135 by neutron capture will reduce. So just like after a trip, your reactor will be producing more Xe-135 than it is losing, and the level of Xe-135 and its negative effect on reactivity initially goes up.
+
+15 Power, and How to Change It 149 Fig. 15.1 Xenon-135 change for a power reduction Unlike a reactor trip, this isn’t the end of the story. The Xe-135 will fall and settle out at a newer lower level. How long this takes, and how far Xe-135 will have initially risen, will depend on how fast and how substantial the power reduction was. As the reactor operator, you’re going to have to ride-out this ‘Xenon Transient’ over the 10’s of hours following the power reduction. In practice, that means that as soon as you’ve finished borating for the power reduction, you’ll have to start diluting for the rising xenon. A few hours later, and you’ll be borating again until everything levels out.
+
+And you’ll have to go through the whole thing again, in reverse, when it comes to going back to 100% power, this time with an initial fall in xenon (production being less than removal as power rises), followed by a longer-term rise (Fig. 15.2).
+
+150 C. Tucker Fig. 15.2 Xenon-135 change for a power increase
+
+## 15.6 Flexible Operation
+
+Your PWR is easiest to drive if you run at steady full power. Most PWRs in the world operate in this way (as ‘baseload’ generators) because they are embedded in electricity grids where they contribute only a small part of the supply. This allows other types of power station that can more easily change their output—such as coal, hydroelectric and combined cycle gas turbines— to be used to match the supply and demand on the grid, from minute to minute and hour to hour.
+
+In the UK, with only the occasional exception, the nuclear stations have always operated as baseload generators. This comfortable position (for the nuclear reactor operators) is threatened by recent changes in generators attached to the UK grid. Many of the large coal-fired generators have shut down permanently, and the remainder have limited lives. Gas has become more expensive, and there are now significantly more renewable, but less con- trollable, generating plants on the system (i.e. wind and solar). This could 15 Power, and How to Change It 151 mean that nuclear plants will be forced—either physically or commercially— to operate more flexibly, rather than as baseload generators.
+
+Luckily, there’s a strong precedent for this: France. France has more than 50 PWRs, generating nearly 80% of its electricity. While they can export lots of electricity to their neighbours (including the UK), they can’t keep all of their stations running at full power all of the time. Some of them have to oper- ate flexibly.
+
+At the simplest level, this means that some of the PWRs in France will be asked by their grid control to reduce power, perhaps by 50%, for a few hours at a time each day (or more probably overnight). The manoeuvre they will follow to achieve this would be the same one you’ve just been through in the text above. More drastically, perhaps at weekends when electricity demand is at its lowest, some of the French plants may be asked to shut down entirely for a couple of days, then restart. None of this is difficult on a PWR, especially if a few hours’ notice is given. However, it will increase radioactive waste arisings (due to the extra borations and dilutions), and there will be more wear-and- tear on the plant as it undergoes temperature and pressure changes.
+
+PWR power changes tend to be more difficult at the very start or end of an operating cycle. At the beginning of a cycle, the fuel will not have settled down, so it will be more prone to failure if power is changed rapidly. At the end of a cycle, relatively large volumes of water are needed for dilutions (the same change in ppm of boron takes more water when boron is starting from a lower level). However, if your fleet of PWRs is large enough (as in France), the operators can choose which of the plants to operate flexibly and which to use as baseload generators, thereby avoiding these problems.
+
+Some of the French PWRs have a design feature that facilitates flexible operation: ‘Grey Rods’. I’ve described how the control rods (RCCAs) in your PWR are made from a mixture of silver, indium and cadmium (Ag-In-Cd).
+
+This, together with their size and geometry, gives them the appearance of a ‘black absorber’ as far as neutrons are concerned. In other words, any neutron that enters into one of these control rods will be captured (the analogy being a ‘black’ surface, capturing, or absorbing light).
+
+On some of the French PWRs, a proportion of the control rods have the Ag-In-Cd in some of their rodlets replaced with stainless steel. As far as neu- trons are concerned, these rodlets are only ‘grey’, allowing some neutrons to escape. Why would you design control rods like this? Because they can be inserted deeply into the core quickly and easily, reducing reactivity to an extent, but without significantly distorting the power shape. In other words, grey rods can be used in power changes instead of—or to reduce—dilutions and borations.
+
+152 C. Tucker Fig. 15.3 Turbine baseload and load follow operation
+
+## 15.7 Load Following
+
+In the UK, Sizewell B has no grey rods, so it can only change power levels using its black rods and boron changes as described above. However, limited flexible operation of Sizewell B is designed-in through ‘Load-Follow’ control in the turbine governors. If requested, these will respond to small changes in grid frequency, with reactor power following turbine power over a (relatively)
+
+low range. As frequency rises, the governor valves close-in a little, as it falls, they open-up. Turbine power is then changing in a way that tends to flatten out the grid frequency on a minute-to-minute timescale (Fig. 15.3). The lim- ited range means that there is no significant wear-and-tear on the plant.
+
+The more modern PWRs being constructed in the UK—such as those at Hinkley Point ‘C’—will typically include grey rods to more easily offer flexi- ble generation as the mix of generators on the grid continues to change.
+
+## 15.8 Taking the Long View
+
+Operating flexibly, changing power, or shutting down and starting up the plant more frequently will all make your job as a reactor operator that much busier. The need to do any of these things will come from outside; from changes in the mixture of generators on modern-day electricity grids, or from 15 Power, and How to Change It 153 commercial pressures. A trainee reactor operator 20 years ago probably didn’t expect to be doing very much of this. The lesson here is that if you’re planning to run your PWR for 60–80 years, you can’t expect everything to remain the same, or be used in the same way, as the day you designed it.
+
+Let me give you an example: At the MAGNOX stations (Chap. 22) it was common practice to shut down the reactors, from nearly full-power, by press- ing the reactor trip buttons. At each station these were probably used once or twice per year (I was once allowed to trip a reactor from 900 MW, in just this way). But not long ago, I met one of the designers of the MAGNOX plants who asked me whether the ‘Emergency Shut Down Buttons’ had ever been used…? He was a bit surprised when I explained.
+
+Steady Power with Nothing to Do?
+
+## 16.1 The ‘Q’ Word?
+
+So, your reactor is running at full power. Temperatures are on target, and xenon has reached equilibrium. Your power station is producing more than 1200 MW of electricity; that’s about 3% of UK average demand.
+
+Just how quiet is it in the control room?
+
+Let’s take a moment to think about how much automation is likely to be involved in driving your reactor.
+
+Firstly, as you’ve already seen, your PWR is inherently stable due to tem- perature feedback effects. This leads to the ‘reactor following the steam demand’. So, if the steam taken by your turbine is constant, then that will hold your reactor power at a constant value; I’ll come back to this, as it’s not as simple as it sounds, but your first guess might be that you’re not going to need much automation at all.
+
+## 16.2 Burning-Up
+
+Your reactor is changing minute-to-minute, hour-to-hour as you’re burning- up your fuel. Uranium-235 will be being lost from the reactor as it fissions.
+
+Some plutonium-239 will be being created, but some of that will fission too, so the number of fissionable nuclei will be falling. More significantly, your fuel pellets will be accumulating fission products, some of which (such as xenon-135) capture neutrons. When you consider all of these effects it should be clear that the reactivity of the fuel will be falling with time, but the reactor © Springer Nature Switzerland AG 2019 155 C. Tucker, How to Drive a Nuclear Reactor, Springer Praxis Books, https://doi.org/10.1007/978-3-030-33876-3_16 156 C. Tucker is still critical—it’s running at full power to match the steam demand—so what else is changing to keep reactivity from going negative overall? The answer is temperature. If you do nothing, the reactor temperature (Tcold and Thot) will slowly fall. This slow temperature reduction gives you back some reactivity—just enough to keep the plant running—and I do mean slow; over a day, the drop in temperature might be less than one degree.
+
+Your reactor and the rest of the power station are designed to operate at a specific set of temperatures and pressures for maximum efficiency. Your PWR has an a Automatic system to correct this fall in temperature; it'll move the control rods. If the control banks are withdrawn just a step or two, reactivity will be added to the core and temperatures will return to their programmed values. For you, the operator, the control rod movement—probably indicated by an alarm or some other audible or visual clue—will be the indication that reactivity has shifted.
+
+The automatic movement of the control rods—the system that you could call a 'Reactor Temperature Control System (RTCS)'—is the first of the automated control systems that make your life as an operator that little bit easier (Fig. 16.1). But remember, the RTCS will operate during transients and faults as well as at steady power. For some faults this reduces their severity, in others, the RTCS can make things worse!
+
+Unfortunately, a movement of rods out of the core will also result in a shift of power towards the top of the core. Axial Flux Difference (AFD) will become more positive and might eventually move outside of limits. There's also the problem that you're probably starting with the control rods pretty much out of the core anyway, so there's not much scope for further withdrawal. You need another way of gaining some positive reactivity, and of course you have it in the ability to reduce the amount of boron dissolved in the primary circuit.
+
+Calculate Measure Compare with Programmed Reactor Power Actual Tcold Tcold Calculate Rod Repeat Move Control Speed and Banks* Direction * NB: Control Rods move OUT if Tcold is below programmed value, and IN if Tcold is above. Fig. 16.1 Reactor temperature control system (RTCS)
+
+This is done through the chemical and volume control system (CVCS) as you've seen in earlier chapters.
+
+The boron 'letdown curve' in Chap. 12 showed you how boron is reduced through an operating cycle to compensate for the falling reactivity of the fuel. An average reduction in boron of 2–3 ppm per day is typical, with the operator initiating dilutions a few times per day. This increases towards the end of the cycle when progressively more fresh water needs to be added to reduce an already low boron concentration.
+
+Typically, CVCS systems are only semi-automated at PWRs. If they were fully automated and then malfunctioned, there'd be a significant risk of them causing a large, unwanted reactivity change and a plant trip. Instead, to dilute out some of the boron in the primary circuit, you'll need to set-up a desired volume (or 'batch') of fresh water for the CVCS to inject, then set it running, while monitoring that pumps and valves all work as intended. As the water is pumped into the primary circuit you'll see temperatures recover, and you'll be able to check that the dilution stops when it's supposed to.
+
+## 16.3 Primary Circuit
+
+There are two other primary circuit parameters that you'll be responsible for as an operator: pressure and water level.
+
+You'll remember that in the pressuriser there's a steam bubble, with a level of water below that. So what determines the height of this water level? Many people guess (wrongly) that it's affected by the primary circuit pressure. As it happens, liquid water is pretty close to being incompressible, even at these temperatures and pressures, so small variations in primary circuit pressure won't show up as water-level changes. Instead, there are two other things that determine how the level behaves—primary circuit temperature and the CVCS flow balance.
+
+The temperature of the water in the pressuriser itself is pretty constant at around 345 °C; the boiling temperature of water at 155 bar. But the temperature of the water in the rest of the Primary Circuit is linked very closely with reactor power. At zero power, with just decay heat in the core, the average water temperature in the primary circuit will be little more than 290 °C. On the other hand, at full reactor power with a Tcold of around 290 °C and a Thot of 325 °C, the average temperature will have risen to nearly 310 °C. While water is almost incompressible with pressure, it will still expand and contract with temperature changes. Where does it expand to as you raise temperature? It pushes up into the pressuriser (travelling along the surge line). So the pressuriser water level will naturally increase as you raise power and fall as you lower power (or trip). This is a significant effect, perhaps changing water level over half the height of your pressuriser, depending on its size.
+
+I said that the second thing affecting the pressuriser water level is the CVCS flow balance—the balance between water being 'letdown' into the CVCS, and water being pumped back in via the charging flow and reactor coolant pump seals. (Have a look back at Chap. 7 if you need a reminder of the CVCS). On your PWR, there is an automatic control system that varies the Target Power Level with Water Level Water Level Changes Target Level Move Calculate Valve Repeat Adjust Feed Feedwater Movement Pump Speed Regulating and Direction Valves* * NB: Valve selection depends on reactor power. Fig. 16.4 Steam generator level control system (for one SG)
+
+Your turbine will be operating under automatic control (‘baseload’). All you have to do is set a desired output, in Megawatts, and the governor valves that admit steam to the turbine will be controlled to maintain a constant electrical output into the grid.
+
+But, the grid isn’t quite the fixed target that we’d like it to be. Grid frequency moves around. Not by much (usually by less than 0.1 Hz) but even those small changes will have an effect on your plant. As grid frequency changes, the speed of your turbine will change, as will the speed of all of your big pumps, including main seawater pumps, your feedwater pumps and even your reactor coolant pumps—each of these affecting the overall efficiency of the power station. Just to complicate things a little further, as the feedwater flow through the feed heaters varies, so does the amount of ‘bled steam’ that’s needed to heat the water. This will affect the amount of steam left over, going through the turbine, to generate electricity, so that’ll have another effect on efficiency!
+
+In the control room, to maintain steady reactor power, you’ll often find yourself having to adjust turbine output by a few MW either way. You’ll notice this most often when the total demand on the grid is low (such as at night, when there’s less connected equipment holding the frequency steady) or when demand is changing quickly. This is something that you have no control over, so you’ll just have to get used to it.
+
+## 16.6 What Else Might You Be Doing?
+
+As you can see, you have many automatic control systems at your disposal, so you might think that you have lots of spare time? But you’re running a power station with perhaps 200,000 items of equipment. Much of it is safety equipment that has no role in generating electricity, so will be on standby, rather than being in service. The only way to make sure that it will work when you need it is to test it. Much of your time will be spent in test-running pumps, valves, cooling equipment and protection systems. And of course you don’t just test run it; you’ll be measuring its performance, recording what you find and alerting the engineers to anything that looks like a problem.
+
+There’s a balance to be struck here. Too little testing and you’ll have no confidence that the equipment will work when needed. On the other hand, too much testing can wear out equipment on its own and errors are sometimes made during testing leaving equipment unavailable without the operators’ knowledge. Testing isn’t without risk. You will probably find that the rules your station has agreed with your regulators will include some kind of testing schedule. So, as an operator, you won’t have a choice but to do the testing on the agreed schedule or else shut down.
+
+It doesn’t stop at testing equipment. You have automatic systems that protect your plant and will shut it down if it moves outside its intended envelope. But, you don’t want this to happen! So, you’re going to be spending a lot of your time monitoring the plant and correcting anything that looks like it might be trending the wrong way. A good operator keeps the plant operating both safely and steadily, so avoiding transients and costly shutdowns.
+
+Oh and things breakdown. There’ll never be a day when something in that list of 200,000 plant items doesn’t break. That’s why you have two or four (or more) of each plant item—so, you can (nearly) always afford to have one breakdown, without it being a problem. Of course, much of this equipment will have planned maintenance routines, as well. You service your car regularly, to reduce the likelihood of it breaking down, and it’s no different for the equipment at your power station. You don’t just work with other operators; you need maintainers, and engineers, and planners and designers to replace obsolete equipment over the life of the station; physicists, chemists, radiation protection specialists, security guards and many others. There might only be a few people in the control room at any time, and it may not always be very busy, but there will be hundreds of people keeping your plant running safely.
+
+Just stop and think for a moment about how much is involved in setting up the processes, procedures and training of personnel to make all of those activities happen in the right way. When people in the industry or outside it talk about a ‘credible operator’ they mean one that can do all of this. It’s one of the reasons why countries often take many years to get a nuclear industry up and running, even when they’ve made a clear decision to go ahead with nuclear power.
+
+## 16.7 Predicting Criticality
+
+Imagine you’re running your plant at full power… and it trips. It happens occasionally and, as you saw in Chap. 11, you need to know what to do next. In this instance, let’s assume that the cause of the trip is found and corrected quite quickly, so now you’re getting ready to restart your reactor. One of the things you saw earlier is that you’ll be provided with a prediction, in terms of primary circuit boron, control rod withdrawal (and perhaps time) for when criticality would be reached. I could simply tell you that this is worked out by a computer, but a good operator can do the calculations for themselves!
+
+If you’ve been monitoring your reactor closely, then just before the trip you’ll know (or have recorded): • The reactor power level • The primary circuit boron concentration • The control rod positions All you then need to know is the time of the trip and the time at which you’ll be ready to take the reactor critical again.
+
+The thing you know for sure, though it’s not in the list above, is that immediately before you tripped, the reactor was critical. In other words, all of the contributions to reactivity, before you tripped, must have balanced-out to give zero. If you can work out what’s changed since just before the trip, you’ll be half-way to predicting the next criticality.
+
+So what’s changed?
+
+Firstly, you tripped! That means that all of the control rods fell in under gravity, so the contribution of the control rods to reactivity went from a small negative number (say, minus 20 milliNiles) to a very large negative number (perhaps minus 8000 milliNiles).
+
+Next, you’ll remember from Chap. 14 that there are reactivity changes associated with the temperature changes in moving up and down in power—the power defect. As you raise power, the power defect becomes progressively more negative as a reactivity contribution. If you trip, you get all of that reactivity back, as a positive contribution of around 1500 milliNiles (dependent on core burn-up due to changes in the value of the MTC).
+
+The other significant change will be happening due to the post-trip xenon transient (Chap. 14), and that’s what makes your criticality prediction time-dependent—at least to begin with. If you’re not going to be ready to start-up for 3 days or more then you can assume that all of the pre-trip xenon will have decayed away. This will add around 2000 milliNiles of reactivity to your core and would make the calculation more straightforward, i.e. the xenon contribution would stop changing.
+
+You’ll likely be trying to start-up more quickly than this. If you take the reactor critical before around 20 h after the trip, xenon will be higher than before the trip so will give you a negative change in reactivity, after this it will be decaying away, and you’ll have a positive change—in each case, it’ll be varying with time, so you’ll have a moving prediction!
+
+You can see all of these effects in Fig. 16.5. On the left-hand side are the reactivity contributions immediately after the trip. On the right-hand side, the same contributions at the time you want to go critical—assuming here that we’re past the 20-h point so that xenon is decaying away from its pre-trip value. For simplicity I’ve also assumed that the boron concentration is unchanged from the time of the trip.
+
+[Fig. 16.5 Predicting criticality]
+
+With this diagram in front of you, you could simply pull the control rods until you achieve criticality. Unfortunately, this would probably take the control rods to a position that will adversely affect Axial Flux Distribution (AFD) as you raise power. From experience at your PWR, you’ll be able to pick a control rod position for criticality that you know won’t give you an AFD problem later on. This is your chosen point of criticality as far as rods are concerned.
+
+Of course, a PWR gives you another way to control reactivity: boron. Look at the ‘gap’ on the figure with the green dashed line. I’ve shown it as a negative gap—meaning that your core is less reactive at the planned time of criticality than you want it to be. You can calculate how much of a change in primary circuit boron you need to make to bring the core back to zero reactivity (in this case a dilution).
+
+If the gap were, say, minus 100 milliNiles, then that would be telling you that your core will be 100 milliNiles less reactive than you need. If you decrease the boron to give a change in reactivity of plus 100 milliNiles (about minus 15 ppm of boron), then the ‘gap’ will disappear, and you’ll be able to hit your target. The ‘gap’ could be in the other direction: positive, shown by the orange dashed line. This would be telling you that you have too much reactivity and you’d have to borate to compensate.
+
+transients is such that you could have a positive or a negative 'gap', but in either case, once you've performed the calculation, you adjust the boron, pull the rods and off you go!
+
+Of course, if you don't have good records of the conditions before the trip, or the xenon was already in a complicated transient, then you may not be able to do the calculation by hand. You'd have to rely on the computer. In either case, as you've seen you'll always be approaching criticality cautiously, just in case the prediction is wrong.
+
+It's All About Safety
+
+## 17.1 The Interview
+
+If you ever find yourself interviewing staff to join your power station, you might want to try this question:
+
+"Is it Safe?"—Just that, nothing else.
+
+Expect a pause while the interviewee struggles with how honest to be. Both 'Yes' and 'No' are unsatisfactory answers to the question. If they say 'Yes' it's either because they've failed to do any research, or because they think that's what you want to hear. If they think the answer's a simple 'No', then why on earth would they want the job?!
+
+A better answer would be one that starts with "Yes, but…."
+
+Nuclear power stations, including your PWR, are designed with safety as the paramount feature, but that does not mean they are entirely without risk. People who work at nuclear power stations are open and honest about both safety and risk. In this chapter and the ones that follow, you're going to see how important this behaviour is for someone who drives a reactor. But first I need to introduce the concept of a 'Safety Case'.
+
+## 17.2 Building a Bridge
+
+Imagine you've been given the job of designing a road-bridge. There are clearly a few design decisions to be made at the outset:
+
+• How long/tall is it going to be? How many lanes of traffic will it carry?
+
+• What are you going to build it from—Steel? Concrete? Wood?
+
+• What basic design will you use—Arch? Box Girder? Suspension? Cable-Stayed?
+
+Now I need you to think of some practicalities:
+
+• How robust will your bridge be? Are you designing it to cope with being filled with stationary cars? What about 40-tonne lorries? What about being filled with stationary lorries?
+
+• What about abnormal loads? Could your bridge cope with a 150-tonne electrical transformer being carried across it, or will this need to find another route?
+
+• How deep will your foundations need to be to support the bridge? What's the rock/soil like where you need to dig these foundations?
+
+Then there's the environment to consider:
+
+• Concrete and Steel behave differently as temperature changes, so what's the maximum temperature that your bridge structure is designed to cope with? What's the minimum temperature? What happens if the weather is worse than this?!?!
+
+• Would the design of your bridge be affected by excessive amounts of rain or snow?
+
+• How strong a wind are you going to design your bridge to withstand? Does its direction matter? Is your bridge going to be able to cope with a higher wind speed if only cars are permitted to cross?
+
+• What does the bridge span? If it's a river or an estuary, could the foundations be eroded? Are tidal waves or storm surges a concern? If it crosses over a railway line, how would you cope with a derailed train striking the bridge?
+
+• Now imagine a high wind, low temperature, abnormal load and a train derailment all happening at the same time… • What about Earthquakes? How big? How frequent?
+
+• Avalanche? Asteroid impact? Attack from the 'Death Star'?
+
+I'll stop there; I'm sure you get the idea.
+
+## 17.3 Safety Cases
+
+As you can see, before you start building the bridge, there are a whole lot of decisions to be made and justifications to be presented. You'll no doubt be writing this all down, and the suite of documents you produce will be your 'Safety Case' for the bridge (Fig. 17.1). The safety case argues why what you've designed is 'safe enough' in terms of materials used, construction methods, engineering standards etc. It'll cover what can go wrong and how your bridge will cope with it. A good safety case will also clearly show the boundary of what you are designing your bridge for; asteroid impact and 'Death Star' attack will probably be on the other side of this boundary so will be outside the 'Design Basis' for your bridge.
+
+Bear in mind that there may be promises in your safety case—such as closing the bridge to lorries in high winds. That means you'll need to implement real-world restrictions; someone will need to monitor the wind speed and be able to close the bridge, or there's no point in writing it in your safety case! These promises on how you'll operate the bridge become a set of 'Operating Rules' which you must stay within. If you don't follow the rules, you're outside the safety case.
+
+The idea of writing all of this down is that you'll then be able to present it to your regulators (planners etc.) when you apply to build. It's also a permanent record of what was agreed when the bridge was designed and helps future engineers to understand the path that you've chosen.
+
+After considering all of that for a bridge, stop and think about how you'd do the same exercise when designing your PWR. For your PWR you'll have the same questions to answer on material selection, engineering standards and environmental hazards. But you've got a few differences to contend with. For a bridge, the 'risk' is the bridge falling down; for a nuclear power station, the 'risk' is an uncontrolled release of radioactive fission products to the environment (a 'radiological release'). In both instances, the key concern is avoiding harm to people, but there may be other concerns such as economic loss or damage to the environment. In your favour, there are more than 450 running nuclear power stations in the world and more being constructed. There are established 'Design Codes' for nuclear power stations, to which you can refer. I've never seen a bridge's safety case, but I'd be surprised if it contained more than a couple of hundred documents. A nuclear power station's safety case will be held in tens of thousands of different documents, each covering just one aspect of the design. It typically takes 5–10 years, and hundreds of people, to design a nuclear station while developing its first safety case in parallel.
+
+## 17.4 What Can Go Wrong with Your PWR?
+
+You'll probably already be able to think of a few things that could wrong with your PWR (Fig. 17.2). It could shutdown (trip) spuriously, with the control rods falling in. It might develop a leak from the primary or secondary circuit. Perhaps the control rods could move unintentionally, or a reactor coolant pump fails? Or maybe you suddenly lose your connection to the electricity grid?
+
+You're going to learn to recognise and deal with some of these faults in the next chapters, but for now, I'm just going to get you to assume that one or more of them could happen at any time. I'm not saying that any of these things are likely, though some will be more likely than others. I'm merely saying that none of them is impossible, so they'll probably each be within the 'design basis' for your PWR.
+
+Your plant's design basis will have to encompass any fault or problem that is deemed by you (or your regulator) to be 'credible'. 'Incredible' faults will be those that are so unlikely that they can be discounted, provided that you can also show that they can't be easily mitigated by changing your design. Even so, some 'incredible' fault combinations might still end up within your design basis—it's sometimes less work to include things than to argue that they can't happen!
+
+## 17.5 The Three 'C's
+
+There are just three things that you need to do to avoid the release of radioactive fission products to the environment. These three 'C's could be considered to be the pillars of nuclear safety:
+
+• Criticality; strictly speaking, it's sub-criticality, i.e. shut down the reactor!
+
+• Cooling; remove the decay heat from the core to stop it being damaged.
+
+• Containment; maintaining the integrity of the fuel (clad and fuel pellets), the primary circuit and the reactor building. These three form the three barriers to fission product release. Any one of these, on its own, would be sufficient to prevent a release, so protecting them is ultimately the key to the safety of the people who live around the station.
+
+## 17.6 Automatic Protection
+
+Do you think people are serious about speed limits in your country? I'm not sure that they are. Our cars and other vehicles rarely include devices that control our speed to keep us within limits (I'm ignoring 'Cruise Control' as its use is optional). What if I suggested fitting something to your car that would automatically shut down the engine if you went above the speed limit? After grinding slowly to a halt, you'd have to start it and pull away all over again; presumably a bit more carefully.
+
+Perhaps there are good reasons for not doing this in cars (it could cause collisions?), but this is the mental model you need when driving your PWR. The system that does this for you is known as the 'Reactor Protection System (RPS)'. On your PWR the RPS continuously monitors the status of your reactor and connected equipment. If the signals that it is monitoring move outside of predetermined limits ('setpoints') it will shut down the reactor. As an operator in the main control room, you cannot override this. It is a built-in feature of the plant and will be relied upon heavily in your safety case. So, the only way you have of avoiding an automatic shutdown (trip), is to drive your reactor within limits! That might sound difficult but, with practice, it's not unusual for a modern PWR to run for 5–10 years without an automatic trip. You'll see in the next chapter how you do this.

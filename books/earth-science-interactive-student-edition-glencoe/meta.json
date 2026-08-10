@@ -1,10 +1,10 @@
 {
   "slug": "earth-science-interactive-student-edition-glencoe",
-  "title": "Earth_Science_Interactive_Student_Edition_Glencoe",
+  "title": "Earth Science Interactive Student Edition Glencoe",
   "language": "en",
   "pipeline": "native",
   "source_file": "[MD]Earth_Science_Interactive_Student_Edition_Glencoe_Z_Library.md",
   "source_pdf": null,
-  "chars": 1819119,
+  "chars": 1818256,
   "has_fixed": false
 }

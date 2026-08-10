@@ -1,29 +1,10 @@
 # American Geological Institute Laboratory Manual in Physical Geology Woods K M Ed Z Library
 
-> 来源文件：pre_American_Geological_Institute_Laboratory_Manual_in_Physical_Geology_Woods_K_M_Ed_Z_Library.txt
-> 字符数（约）：761352
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-LABORATORY MANUAL IN PHYSICAL GEOLOGY PRODUCED UNDER THE AUSPICES OF THE A M E R I C A N  G E O L O G I C A L  I N S T I T U T E www.agiweb.org AND THE N AT I O N A L  A S S O C I AT I O N O F  G E O S C I E N C E  T E A C H E R S www.nagt.org RICHARD M. BUSCH, EDITOR WEST CHESTER UNIVERSITY OF PENNSYLVANIA ILLUSTRATED BY DENNIS TASA • TASA GRAPHIC ARTS, INC.
-
 NINTH EDITION
-
-Acquisitions Editor: Andrew Dunaway Marketing Manager: Maureen McLaughlin Editorial Project Manager: Crissy Dudonis Assistant Editor: Sean Hale Editorial Assistant: Michelle White Marketing Assistant: Nicola Houston Managing Editor, Geosciences and Chemistry: Gina M. Cheselka Senior Project Manager, Production: Beth Sweeten Production Supervision/Composition: PreMedia Global Senior Technical Art Specialist: Connie Long Illustrations: Dennis Tasa Art Director: Marilyn Perry Interior and Cover Design: Tom Nery Senior Operations Supervisor: Nick Sklitsis Operations Specialist: Maura Zaldivar Cover Photo Credit: © Dave Schumaker © 2011, 2009, 2007, 2003, 2000, 1997 by American Geological Institute Published by Pearson Prentice Hall Pearson Education, Inc.
-
-Upper Saddle River, New Jersey 07458 Third edition © 1993 by American Geological Institute, published by Macmillan Publishing Company.
-
-Second edition © 1990 by Macmillan Publishing Company.
-
-First edition © 1986 by Merrill Publishing Company.
-
-Photographs © Richard M. Busch, unless otherwise noted. Used with permission.
 
 without permission from the publisher.
 
 Pearson Prentice Hall™ is a trademark of Pearson Education, Inc.
-
-ISBN-10: 0-321-68957-7 ISBN-13: 978-0-321-68957-3 Printed in the United States of America 10 9 8 7 6 5 4 3 2 1
 
 THOMAS H. ANDERSON University of Pittsburgh HAROLD E. ANDREWS Wellesley College JAMES R. BESANCON Wellesley College JANE L. BOGER SUNY–College at Geneseo PHILLIP D. BOGER SUNY–College at Geneseo CLAUDE BOLZE Tulsa Community College JONATHAN BUSHEE Northern Kentucky University ROSEANN J. CARLSON Tidewater Community College CYNTHIA FISHER West Chester University of Pennsylvania CHARLES I. FRYE Northwest Missouri State University PAMELA J.W. GORE Georgia Perimeter College ANNE M. HALL Emory University EDWARD A. HAY De Anza College CHARLES G. HIGGINS University of California, Davis MICHAEL F. HOCHELLA, JR.
 
@@ -51,15 +32,11 @@ Activity 10.3: Geologic Mapping in Colorado (Topo Map Base)
 
 Activity 10.4: Cardboard Model Analysis and Interpretation Activity 10.5: Block Diagram Analysis and Interpretation Activity 10.6: Appalachian Mountains Geologic Map Activity 10.7: Geologic Map of Colorado National Monument LABORATORY ELEVEN Stream Processes, Landscapes, Mass Wastage, and Flood Hazards Activity 11.1: Introduction to Stream Processes and Landscapes Activity 11.2: Meander Evolution on the Rio Grande Activity 11.3: Mass Wastage at Niagara Falls Activity 11.4: Flood Hazard Mapping, Assessment, and Risks LABORATORY TWELVE Groundwater Processes, Resources, and Risks Activity 12.1: Karst Processes and Topography Activity 12.2: Floridan Limestone Aquifer Activity 12.3: Land Subsidence from Groundwater Withdrawal LABORATORY THIRTEEN Glacial Processes, Landforms, and Indicators of Climate Change Activity 13.1: Mountain Glaciers and Glacial Landforms Activity 13.2: Continental Glaciation of North America Activity 13.3: Glacier National Park Investigation Activity 13.4: Nisqually Glacier Response to Climate Change Activity 13.5: Thawing Permafrost in Alaska LABORATORY FOURTEEN Dryland Landforms, Hazards, and Risks Activity 14.1: Death Valley, California
 
-Activity 14.2: Sand Seas of Nebraska and the Arabian Peninsula Activity 14.3: Dryland Lakes of Utah LABORATORY FIFTEEN Coastal Processes, Landforms, Hazards, and Risks Activity 15.1: Introduction to Shorelines Activity 15.2: Shoreline Modification at Ocean City, Maryland Activity 15.3: The Threat of Rising Seas LABORATORY SIXTEEN Earthquake Hazards and Human Risks Activity 16.1: Simulate Earthquake Hazards and Infer Risks Activity 16.2: How Seismic Waves Travel Through Earth Activity 16.3: Locate the Epicenter of an Earthquake Activity 16.4: San Andreas Fault Analysis at Wallace Creek Activity 16.5: New Madrid Blind Fault Zone vi • Contents About our Sustainability Initiatives This book is carefully crafted to minimize environmental impact. The materials used to manufacture this book originated from sources committed to responsible forestry practices. The paper is Forest Stewardship Council™ (FSC®) certified. The printing, binding, cover, and paper come from facilities that minimize waste, energy consumption, and the use of harmful chemicals.
-
 Pearson closes the loop by recycling every out-of-date text returned to our warehouse. We pulp the books, and the pulp is used to produce items such as paper coffee cups and shopping bags. In addition, Pearson aims to become the first climate neutral educational publishing company.
 
 The future holds great promise for reducing our impact on Earth’s environment, and Pearson is proud to be leading the way. We strive to publish the best books with the most up-to-date and accurate content, and to do so in ways that minimize our impact on Earth.
 
 Laboratory Manual in Physical Geology is the most widely adopted, user-friendly manual available for teaching laboratories in introductory geology and geoscience. The manual has been produced under the auspices of the American Geological Institute (AGI)
-
-and the National Association of Geoscience Teachers (NAGT). It is backed up by a premium web site at www.mygeoscienceplace.com, GeoTools (ruler, protractor, UTM grids, sediment grain size scale, etc.), an Instructor Resource Guide, and resources on the Instructor Resource Center (IRC) on DVD.
 
 The idea for this jointly sponsored laboratory manual was proffered by Robert W. Ridky (past pres- ident of NAGT and a member of the AGI Education Advisory Committee), who envisioned a manual made up of the “best laboratory investigations writ- ten by geology teachers.” To that end, this product is the 25-year evolution of the cumulative ideas of more than 200 contributing authors, faculty peer review- ers, and students and faculty who have used past editions.
 
@@ -83,8 +60,6 @@ OUTSTANDING FEATURES This edition contains the strengths of eight past editions 
 
 Enhanced Pedagogy for Diverse Styles/ Preferences of Learning Hands-on multisensory-oriented activities with sam- ples, cardboard models, and GeoTools appeal to concrete/kinesthetic learners. High quality images, maps, charts, diagrams, PowerPointsTM, cardboard models, and visualizations appeal to visual/spatial learners. Activity sheets, charts, lists, supporting text, and opportunities for discourse appeal to linguistic/ verbal/read-write learners. PowerPointsTM and video clips appeal to auditory/aural learners. Numerical data, mathematics, models, graphs, systems, and opportu- nities for discourse appeal to logical/abstract learners.
 
-Terminology of the American Geological Institute Federation All terms are consistent with AGI’s latest Glossary of Ge- ology, which was developed by the AGI federation of 47 geoscientific and professional associations. The glossary is available in print online for a 30-day free trial period, or as an App for the iPhone, iPod, and iPad from the App Store. See http://www.agiweb.org/pubs/glossary.
-
 Opportunities for Scientific Discourse Discourse (exchange of questions, data, experience, and ideas) is encouraged in several forms. Class discourse can be centered around introductory or summary PowerPointTM presentations and reviews of safety and procedural issues and expectations.
 
 Collaborative discourse occurs when pairs or small groups of premium students work together to discuss questions and problems, pose hypotheses, gather and interpret data, and formulate inferences. Individual discourse occurs when students write/draw their ideas on their personal activity worksheets that are submit- ted for grading.
@@ -94,8 +69,6 @@ Materials Laboratories are based on samples and equipment normally housed in exi
 Emphasis on the Process of Geologic Inquiry Students visualize Earth materials and processes of change and infer how the geologic record is similar in some ways, yet different in others, from a book of Earth history to be “read.” They explore ways that geology is a logical, testable process of scientific inquiry, “ground truthed” with data obtained by direct observation, investigation, and measurement in the field and laboratory. Activities are designed for students to build conceptual knowledge, develop skills and scientific dispositions, and apply their skills and knowledge to analyze and evaluate (samples, data, maps, and models), record/graph data, and make inferences.
 
 GeoTools, GPS, and UTM There are rulers, protractors, a sediment grain size scale, UTM grids, and other laboratory tools to cut from transparent sheets at the back of the manual. No other manual provides these abundant supporting tools! Students are introduced to GPS and UTM and their application in mapping. UTM grids are provided for most scales of U.S. and Canadian maps.
-
-Additional Resources at www.mygeoscienceplace.com The premium web site supports all labs with additional information and links listed by laboratory topic or by state/province.
 
 On the site you will find a list of learning objectives and their associated Activities, related web links for further student exploration, and virtual field trips students can embark on.
 
@@ -112,8 +85,6 @@ We thank the following individuals for their con- structive criticisms and sugge
 Maps, map data, aerial photographs, and satellite imagery have been used courtesy of the U.S. Geologi- cal Survey; Canadian Department of Energy, Mines, and Resources; Surveys and Resource Mapping Branch, Ministry of Environment, Government of British Columbia; NASA; NOAA; and the U.S./Japan ASTER Science Team.
 
 The continued success of this laboratory manual de- pends on criticisms, suggestions, and new contributions from persons who use it. We sincerely thank everyone who contributed to this project by voicing criticisms, suggesting changes, and conducting field tests.
-
-Unsolicited reactions to the manual are especially welcomed as a barometer for quality control and the basis for many changes and new initiatives that keep the manual current. Please continue to submit your frank criticisms and input directly to the editor: Rich Busch, Department of Geology and Astronomy, Boucher Building, West Chester University, West Chester, PA 19383 (rbusch@wcupa.edu).
 
 P. Patrick Leahy, Executive Director, AGI Ann Benbow, Director of Education, AGI Christopher M. Keane, Director of Technology and Communications, AGI Richard M. Busch, Editor
 
@@ -371,10 +342,6 @@ LABORATORY EQUIPMENT Acid bottle Hand lens Crucible tongs Beaker tongs Wash bott
 
 photo courtesy of AGI The American Geological Institute’s GEOSCIENCE HANDBOOK AGI Data Sheets Fourth Edition, revised J. Douglas Walker, Harvey A. Cohen One of the best-kept secrets in geology is this handy compilation of geological information. It offers a substantial amount of useful information such as geologic map symbols, physical criteria graphs and charts, projection nets, checklists, and informa- tion on topics useful for the field, lab, and office geologist. Newly updated in 2009, the Geoscience Handbook: Data Sheets Fourth Edition is larger in size (5" x 8") and contains color photos and graph- ics, as well as new sections covering topics such as hydrology, GPS, and more. Each book comes with a handy fieldwork ruler and a grain-size scale, both supplied courtesy of the Society for Sedimentary Geology (SEPM.)
 
-A THE AMERICAN GEOLOGICAL INSTITUTE GI SERVING THE GEOSCIENCES WORLDWIDE The Geoscience Handbook is a spiral bound paperback with a laminated cover. 5" x 8", 310 pages, $49.95 + shipping and handling. Bulk purchase discounts are available. Please order online at www.agiweb.org/pubs or phone: (703) 379-2480; fax: (703) 379-7563; e-mail: pubs@agiweb.org.
-
-Copyright © Marli Miller, University of Oregon From the AGI Image Bank
-
 Find all the specimens, collections, activities and more at wardsci.com. For questions on Ward's specimens, call our in-house Geology Technicians at 1-800-962-2660.
 
 Natural Science TM Serious About Science Since 1862 wardsci.com • 800-962-2660 Wis your expert source for superior specimens W AGI/NAGT Laboratory Mineral Set Improve student understanding of mineral properties and uses with this comprehensive set of important rock- forming and ore minerals customized to complement the testing activities found in your AGI/NAGT Laboratory Manual in Physical Geology. These high-quality samples display excellent consistency and uniformity. Housed in a compartmented collection box, the set also comes with an identification list.
@@ -474,10 +441,6 @@ The index to this book of geologic history is called the geologic time scale (Fi
 Processes and Cycles of Change Earth is characterized by energy flow and processes of change at every spatial and temporal scale of observation. Earth’s surface is energized by geother- mal energy (from inside the planet) and solar energy (from outside the planet). The energy flows from sources to sinks (materials that store or convert energy) and drives processes of change like the examples in Figure 1.4. Most of these processes involve organic (biological; parts of living or once living organisms) and inorganic (non-biological)
 
 materials in solid, liquid, and gaseous states, or phases (Figure 1.5). Note that many of the processes have opposites depending on the flow of energy to or from a material: melting and freezing, evaporation Observing and Measuring Earth Materials and Processes • 3
-
-FIGURE 1.3 The geologic time scale. Absolute ages of Phanerozoic boundaries on this chart are used courtesy of the Inter- national Commission on Stratigraphy (ICS, 2010) of the International Union of Geological Sciences (http://www.iugs.org/).
-
-Get the latest International Stratigraphic Chart and ICS publications and information from the IUGS Subcommission for Stratigraphic Information website (https://engineering.purdue.edu/Stratigraphy/).
 
 ## THE GEOLOGIC TIME SCALE
 
@@ -896,8 +859,6 @@ Mt. Etna, Sicily: Europe’s largest and most active volcano, shown in true colo
 A Plume from Sicily’s Mt. Etna Volcano as recorded by the MODIS imaging instrument aboard the Aqua satellite on October 28, 2002.
 
 Mt. Etna Sicily Mediterranean Sea Europe Africa Miles Africa Mt. Etna 12 • Laboratory One
-
-FIGURE 1.10 Escondida open pit copper mining region, northern Chile, as imaged by ASTER. Refer to Figure 1.8 to review what kind of EM radiation is detected by each of the ASTER bands. (Images courtesy of NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team: asterweb.jpl.nasa.gov; photograph courtesy of Rio Tinto: www.riotinto.com)
 
 A B C Open pit Open pit Open pit Open pit Old pits Old pits Old pits Old pits ASTER Satellite Images: Escondida Open Pit Copper Mines, Chile 10 km 10 mi
 

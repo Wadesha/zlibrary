@@ -1,10 +1,5 @@
 # 数字中的世界：奇妙事实百科全书（DK Z-Library）
 
-> 来源文件：pre_Our_World_in_Numbers_An_Encyclopedia_of_Fantastic_Facts_DK_Z_Library.txt
-> 字符数（约）：202558
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 t e s
 
 MA Y
@@ -29,13 +24,7 @@ t r o n k p h .
 
 t r e s % ,2 km o n
 
-太空 地球 神秘的宇宙 壮观的恒星 地球的月球 行星 探索太空 十大：最大的运载火箭 太空生活 数字世界 蓝色星球 岩石与宝石 十大：最高的山峰 地震与火山 自然奇观 树木与森林 十大：最长的河流 海洋 沙漠 两极 气候与天气 目录 DK 伦敦 项目编辑 Kelsie Besaw、Selina Wood 美术编辑 Gregory McCarthy 文字编辑 Bharti Bedi、Priyanka Kharbanda、Vicky Richards 设计师 Jim Green、Beth Johnston、Renata Latipova、Anthony Limerick、Lynne Moulding 图片研究员 Nick Dean、Jo Walton 执行编辑 Francesca Baines 执行美术编辑 Philip Letsu 制作编辑 Jacqueline Street-Elkayam 制作统筹 Sian Cheung 高级封面设计师 Suhita Dharamjit、Akiko Kato 封面设计师 Tanya Mehrotra 封面设计研发经理 Sophia MTT 高级排版设计师 Harish Aggarwal 高级封面协调员 Priyanka Sharma-Saddi 封面执行编辑 Saloni Singh 出版人 Andrew Mcintyre 艺术总监 Karen Self 副出版总监 Liz Wheeler 出版总监 Jonathan Metcalf 2022 年由英国多林金德斯利有限公司（Dorling Kindersley Limited）首次在英国出版 DK，One Embassy Gardens，8 Viaduct Gardens，London，SW11 7BW 其欧洲经济区授权代表为 Dorling Kindersley Verlag GmbH，Arnulfstr. 124，80636 Munich，Germany 版权所有 © 2022 Dorling Kindersley Limited 企鹅兰登书屋旗下公司 10 9 8 7 6 5 4 3 2 1 001–322075–Mar/2022 未经版权所有者事先书面许可，本书任何部分不得以任何形式或任何方式（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播。
-
 本书的 CIP 目录记录可向大英图书馆查询。
-
-ISBN：978-0-2414-7118-0 印制并装订于中国 www.dk.com 本书采用森林管理委员会®（Forest Stewardship Council®）认证纸张印制——这是 DK 迈向可持续未来承诺的一小步。
-
-欲了解更多信息，请访问 www.dk.com/our-green-pledge
 
 史前生物 微观生命 奇妙植物 蜘蛛、虫与小昆虫 奇妙的鱼 鳐鱼与鲨鱼 鳞片爬行动物 十大：最长的蛇 神奇的两栖动物 鸟类世界 不可思议的大型猫科动物 壮丽的鲸 强壮的熊 灵长类动物 十大：最重陆地动物 你非凡的身体 超级感官 人类的大脑 臭烘烘的便便与黏液 人口世界 地球各大洲 世界各国 繁忙的首都 十大：人口最多的世界城市 语言 飘扬的旗帜 世界宗教 十大：最高的雕像 惊人的艺术 聆听音乐 在舞台上 在电影院 个人运动 团队运动 十大：奥运健儿 文字 美味食物 关于宠物 古埃及 古罗马 中华帝国 阿兹特克与印加 堡垒与城堡 伊斯兰世界 中世纪非洲王国 十大：在位时间最长的君主 变化的时尚 投入战斗 基本元素 声与光 能量与力 冷热中的能量 发电 日常材料 巧妙发明 超级建筑 十大：最高的桥 轮式车辆 水上航行 了不起的火车 飞向天空 十大：最快的飞机 数字化时代 多才多艺的机器人 词汇表 索引 致谢 自然 历史 科学与技术 人文与文化 注：本书中的事实与统计数据在付印时均为准确。
 
@@ -4426,4 +4415,3 @@ iStock：natthanim（背景）。154-155 AWL Images：ClickAlps。156-157 iStock
 Shutterstock.com：UfaBizPhoto。
 
 182-183 Getty Images：Oli Scarff 封面图片：正面：123RF.com：bolina tr；© The Trustees of the British Dreamstime.com：Chernetskiy tl；Shutterstock.com：Dirk Ercken bl；背面：123RF.com：leonello calvetti tc；Alamy Stock Photo：ZUMA Press bl；Dreamstime.com：Valentyn75 br；书脊：Shutterstock.com：Dirk Ercken 其余所有图片 © Dorling Kindersley 更多信息请见：www.dkimages.com
-

@@ -1,14 +1,5 @@
 # Dice World Science and Life in a Random Universe Brian Clegg Z Library
 
-> 来源文件：pre_Dice_World_Science_and_Life_in_a_Random_Universe_Brian_Clegg_Z_Library.txt
-> 字符数（约）：383537
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Printed edition published in the UK in 2013 by Icon Books Ltd, Omnibus Business Centre, 39–41 North Road, London N7 9DP email: info@iconbooks.net www.iconbooks.net This electronic edition published in 2013 by Icon Books Ltd ISBN: 978-184831-564-8 (ePub format) ISBN: 978-184831-565-5 (Adobe ebook format) Text copyright © 2013 Brian Clegg The author has asserted his moral rights. No part of this book may be reproduced in any form, or by any means, without prior permission in writing from the publisher. Typeset by Marie Doherty
-
-Contents Title page Copyright information Acknowledgements
-
 ## Chapter 0: Alea jacta est
 
 ## Chapter 1: Improbable world

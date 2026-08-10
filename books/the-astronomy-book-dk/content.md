@@ -1,19 +1,10 @@
 # The Astronomy Book DK Z Library
 
-> 来源文件：pre_The_Astronomy_Book_DK_Z_Library.txt
-> 字符数（约）：783974
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 BIG IDEAS SIMPLY EXPLAINED GRAVITY EXPLAINS THE MOTIONS OF THE PLANETS FINALLY WE SHALL PLACE THE SUN HIMSELF AT THE CENTER OF THE UNIVERSE THE MOST TRUE PATH OF THE PLANET IS AN ELLIPSE AN EXACT SOLUTION TO RELATIVITY PREDICTS BLACK HOLES COSMIC EXPANSION IS ACCELERATING THE UNIVERSE IS EXPANDING IN ALL DIRECTIONS THE WAY TO THE STARS IS OPEN STARS ARE FACTORIES FOR THE CHEMICAL ELEMENTS THE SEARCH FOR EXTRATERRESTRIAL INTELLIGENCE IS A SEARCH FOR OURSELVES ASTRONOMY THE BOOK THE UNMOVING STARS GO UNIFORMLY WESTWARD RIPPLES THROUGH SPACETIME I FOUND THAT IT IS A COMET, FOR IT HAS CHANGED ITS PLACE A SLOW PROCESS OF ANNIHILATION OF MATTER
-
-DK LONDON SENIOR EDITOR Victoria Heyworth-Dunne US EDITOR Margaret Parrish SENIOR ART EDITORS Gillian Andrews, Nicola Rodway MANAGING EDITOR Gareth Jones SENIOR MANAGING ART EDITOR Lee Griffiths ART DIRECTOR Karen Self ASSOCIATE PUBLISHING DIRECTOR Liz Wheeler PUBLISHING DIRECTOR Jonathan Metcalf SENIOR JACKET DESIGNER Mark Cavanagh JACKET EDITOR Claire Gell JACKETS DESIGN DEVELOPMENT MANAGER Sophia MTT First American Edition, 2017 Published in the United States by DK Publishing, 345 Hudson Street, New York, New York 10014 Copyright © 2017 Dorling Kindersley Limited DK, a Division of Penguin Random House LLC 17 18 19 20 21  10 9 8 7 6 5 4 3 2 1 001—283974—Sep/2017 Without limiting the rights under the copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
 
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN:  978-1-4654-6418-7 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 SpecialSales@dk.com Printed in China A WORLD OF IDEAS: SEE ALL THERE IS TO KNOW www.dk.com PRE-PRODUCTION PRODUCER Jacqueline Street-Elkayam SENIOR PRODUCER Mandy Inness DK DELHI JACKET DESIGNER Suhita Dharamjit EDITORIAL COORDINATOR Priyanka Sharma SENIOR DTP DESIGNER Harish Aggarwal MANAGING JACKETS EDITOR Saloni Singh produced for DK by TALL TREE LTD.
 
 EDITORS Rob Colson, David John DESIGN Ben Ruocco ILLUSTRATIONS James Graham original styling by STUDIO 8
 

@@ -1,0 +1,1864 @@
+# Solid State Physics Ashcroft Mermin Z Library
+
+> 来源文件：pre_Solid_State_Physics_Ashcroft_Mermin_Z_Library.txt
+> 字符数（约）：262538
+> 语言：mix
+> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
+
+Solid State Physics
+
+Neil W. Ashcroft N. David Mermin
+
+Cornell University
+
+BROOKS/COLE THOMSON LEARNING
+
+Copyright © 1976 by Harcourt, Inc.
+
+Requests for permission to make copies of any part of the work should be mailed to: Permissions Department, Harcourt, Inc., 6277 Sea Harbor Drive, Orlando, FL 32887-6777.
+
+This book was set in Times Roman.
+
+Designer: Scott Chelius Editor: Dorothy Garbose Crane Drawings: Eric G. Hieber Associates, Inc.
+
+Library of Congress Cataloging in Publication Data Ashcroft, Neil W.
+
+Solid state physics.
+
+I. Solids. I. Mermin, N. David, joint author. II. Title. QC176.A835 30.4'174-9772 ISBN 0-03-083993-9 (College Edition)
+
+Printed in the United States of America
+
+SOLID STATE PHYSICS ISBN # 0-03-083993-9 (College Edition)
+
+0123456789076353433323130292827
+
+for Elizabeth, Jonathan, Robert, and Ian
+
+Preface
+
+We began this project in 1968 to fill a gap we each felt acutely after several years of teaching introductory solid state physics to Cornell students of physics, chemistry, engineering, and materials science. In both undergraduate and graduate courses we had to resort to a patchwork array of reading assignments, assembled from some half dozen texts and treatises. This was only partly because of the great diversity of the subject; the main problem lay in its dual nature. On the one hand an introduction to solid state physics must describe in some detail the vast range of real solids, with an emphasis on representative data and illustrative examples. On the other hand there is now a well-established basic theory of solids, with which any seriously interested student must become familiar.
+
+Rather to our surprise, it has taken us seven years to produce what we needed: a single introductory text presenting both aspects of the subject, descriptive and analytical. Our aim has been to explore the variety of phenomena associated with the major forms of crystalline matter, while laying the foundation for a working understanding of solids through clear, detailed, and elementary treatments of fundamental theoretical concepts.
+
+Our book is designed for introductory courses at either the undergraduate or graduate level. Statistical mechanics and the quantum theory lie at the heart of solid state physics. Although these subjects are used as needed, we have tried, especially in the more elementary chapters, to recognize that many readers, particularly undergraduates, will not yet have acquired expertise. When it is natural to do so, we have clearly separated topics based entirely on classical methods from those demanding a quantum treatment. In the latter case, and in applications of statistical mechanics, we have proceeded carefully from explicitly stated first principles. The book is therefore self-contained for students with the background of a standard introductory course in quantum mechanics.
+
+**Periodic Table of Elements**
+
+| Number | Symbol | Name        | Atomic Mass (u) | Density (g/cm³) | Crystal Structure | Lattice Constants (Å) | |--------|--------|-------------|-----------------|-----------------|-------------------|-----------------------| | 1      | H      | Hydrogen    | 1.008           | 0.0899          | hcp               | a=3.75, c=6.12        | | 2      | He     | Helium      | 4.003           | 0.1785          | hcp               | a=3.64, c=5.94        | | 3      | Li     | Lithium     | 6.941           | 0.534           | bcc               | a=3.49                | | 4      | Be     | Beryllium   | 9.012           | 1.85            | hcp               | a=2.29, c=3.58        | | 5      | B      | Boron       | 10.81           | 2.34            | rhombohedral      |                       | | 6      | C      | Carbon      | 12.01           | 2.26 (graphite) | hexagonal         | a=2.46, c=6.70        | | 7      | N      | Nitrogen    | 14.01           | 0.00125         | gas               |                       | | 8      | O      | Oxygen      | 16.00           | 0.00143         | gas               |                       | | 9      | F      | Fluorine    | 19.00           | 0.00170         | gas               |                       | | 10     | Ne     | Neon        | 20.18           | 0.00090         | fcc               | a=4.43                | | 11     | Na     | Sodium      | 22.99           | 0.97            | bcc               | a=4.23                | | 12     | Mg     | Magnesium   | 24.31           | 1.74            | hcp               | a=3.21, c=5.21        | | 13     | Al     | Aluminum    | 26.98           | 2.70            | fcc               | a=4.05                | | 14     | Si     | Silicon     | 28.09           | 2.33            | diamond           | a=5.43                | | 15     | P      | Phosphorus  | 30.97           | 1.82            | cubic             | a=7.18                | | 16     | S      | Sulfur      | 32.07           | 2.07            | orthorhombic      |                       | | 17     | Cl     | Chlorine    | 35.45           | 0.00321         | gas               |                       | | 18     | Ar     | Argon       | 39.95           | 0.00178         | fcc               | a=5.26                | | 19     | K      | Potassium   | 39.10           | 0.86            | bcc               | a=5.23                | | 20     | Ca     | Calcium     | 40.08           | 1.55            | fcc               | a=5.56                | | 21     | Sc     | Scandium    | 44.96           | 2.99            | hcp               | a=3.31, c=5.27        | | 22     | Ti     | Titanium    | 47.87           | 4.54            | hcp               | a=2.95, c=4.68        | | 23     | V      | Vanadium    | 50.94           | 6.11            | bcc               | a=3.02                | | 24     | Cr     | Chromium    | 52.00           | 7.19            | bcc               | a=2.88                | | 25     | Mn     | Manganese   | 54.94           | 7.43            | complex cubic     | a=8.89                | | 26     | Fe     | Iron        | 55.85           | 7.87            | bcc               | a=2.87                | | 27     | Co     | Cobalt      | 58.93           | 8.90            | hcp               | a=2.51, c=4.07        | | 28     | Ni     | Nickel      | 58.69           | 8.90            | fcc               | a=3.52                | | 29     | Cu     | Copper      | 63.55           | 8.96            | fcc               | a=3.61                | | 30     | Zn     | Zinc        | 65.38           | 7.14            | hcp               | a=2.66, c=4.94        | | 31     | Ga     | Gallium     | 69.72           | 5.91            | orthorhombic      |                       | | 32     | Ge     | Germanium   | 72.64           | 5.32            | diamond           | a=5.66                | | 33     | As     | Arsenic     | 74.92           | 5.73            | rhombohedral      | a=4.13                | | 34     | Se     | Selenium    | 78.96           | 4.79            | hexagonal         | a=4.36, c=4.96        | | 35     | Br     | Bromine     | 79.90           | 3.12 (liquid)   | liquid            |                       | | 36     | Kr     | Krypton     | 83.80           | 0.00375         | fcc               | a=5.64                | | 37     | Rb     | Rubidium    | 85.47           | 1.53            | bcc               | a=5.59                | | 38     | Sr     | Strontium   | 87.62           | 2.64            | fcc               | a=6.08                | | 39     | Y      | Yttrium     | 88.91           | 4.47            | hcp               | a=3.65, c=5.73        | | 40     | Zr     | Zirconium   | 91.22           | 6.51            | hcp               | a=3.23, c=5.15        | | 41     | Nb     | Niobium     | 92.91           | 8.57            | bcc               | a=3.30                | | 42     | Mo     | Molybdenum  | 95.94           | 10.22           | bcc               | a=3.15                | | 43     | Tc     | Technetium  | (98)            | 11.50           | hcp               | a=2.74, c=4.40        | | 44     | Ru     | Ruthenium   | 101.1           | 12.37           | hcp               | a=2.70, c=4.28        | | 45     | Rh     | Rhodium     | 102.9           | 12.41           | fcc               | a=3.80                | | 46     | Pd     | Palladium   | 106.4           | 12.02           | fcc               | a=3.89                | | 47     | Ag     | Silver      | 107.9           | 10.50           | fcc               | a=4.09                | | 48     | Cd     | Cadmium     | 112.4           | 8.65            | hcp               | a=2.98, c=5.62        | | 49     | In     | Indium      | 114.8           | 7.31            | tetragonal        | a=3.25, c=4.95        | | 50     | Sn     | Tin         | 118.7           | 5.75 (white)    | tetragonal (white)| a=5.83, c=3.18        | | 51     | Sb     | Antimony    | 121.8           | 6.68            | rhombohedral      | a=4.51                | | 52     | Te     | Tellurium   | 127.6           | 6.24            | hexagonal         | a=4.45, c=5.93        | | 53     | I      | Iodine      | 126.9           | 4.93            | orthorhombic      |                       | | 54     | Xe     | Xenon       | 131.3           | 0.00589         | fcc               | a=6.13                | | 55     | Cs     | Cesium      | 132.9           | 1.87            | bcc               | a=6.05                | | 56     | Ba     | Barium      | 137.3           | 3.51            | bcc               | a=5.02                | | 57     | La     | Lanthanum   | 138.9           | 6.15            | hcp               | a=3.75, c=6.07        | | 58-71  |        | Lanthanides |                 |                 |                   |                       | | 72     | Hf     | Hafnium     | 178.5           | 13.31           | hcp               | a=3.20, c=5.05        | | 73     | Ta     | Tantalum    | 180.9           | 16.65           | bcc               | a=3.31                | | 74     | W      | Tungsten    | 183.8           | 19.35           | bcc               | a=3.16                | | 75     | Re     | Rhenium     | 186.2           | 21.02           | hcp               | a=2.76, c=4.46        | | 76     | Os     | Osmium      | 190.2           | 22.59           | hcp               | a=2.74, c=4.22        | | 77     | Ir     | Iridium     | 192.2           | 22.56           | fcc               | a=3.84                | | 78     | Pt     | Platinum    | 195.1           | 21.45           | fcc               | a=3.92                | | 79     | Au     | Gold        | 197.0           | 19.32           | fcc               | a=4.08                | | 80     | Hg     | Mercury     | 200.6           | 13.55 (liquid)  | liquid            |                       | | 81     | Tl     | Thallium    | 204.4           | 11.85           | hcp               | a=3.45, c=5.53        | | 82     | Pb     | Lead        | 207.2           | 11.34           | fcc               | a=4.95                | | 83     | Bi     | Bismuth     | 209.0           | 9.80            | rhombohedral      | a=4.75                | | 84     | Po     | Polonium    | (209)           | 9.32            | simple cubic      | a=3.34                | | 85     | At     | Astatine    | (210)           | (solid)         |                   |                       | | 86     | Rn     | Radon       | (222)           | 0.00973         | gas               |                       | | 87     | Fr     | Francium    | (223)           | (solid)         |                   |                       | | 88     | Ra     | Radium      | (226)           | 5.00            | bcc               | a=5.15                | | 89-103 |        | Actinides   |                 |                 |                   |                       |
+
+Note: Values in parentheses are for most stable isotopes. Some physical properties are for the most common crystalline form at room temperature and standard pressure. Crystal structures: hcp (hexagonal close-packed), fcc (face-centered cubic), bcc (body-centered cubic), diamond (diamond cubic).
+
+适用于与量子理论和统计力学首修课程同时开设的入门课程。仅在更高级的章节和附录中，我们才假定读者具备更丰富的经验。
+
+每章之后的问题与正文内容联系紧密，主要分为三类：（a）分析推导中的一些常规步骤有时被布置为问题，部分是为了避免正文充斥着无实质意义的公式，但更重要的是，这类步骤由读者借助提示和建议来完成，能被更好地理解；（b）作为问题呈现的章节延伸内容（原本因担心篇幅会变成两卷本而未能纳入正文），如果其性质适合此类表述形式；（c）进一步的数值和解析应用作为问题给出，目的是传递额外信息或锻炼新掌握的技能。因此，即使读者不打算尝试解答，也应查看这些问题。
+
+¹ 关于如何在不同长度和水平的课程中使用本书的建议，见第xvii-xix页。
+
+尽管我们遵循了“一图胜千言”的古训，但也意识到一幅信息量不大的插图，虽然有装饰性，却占用了本可有效填充几百字内容的空间。因此，读者会遇到大段未配插图的阐述性文字（当不需要图时），以及一些仅通过查看插图及其说明就能有效理解的部分。
+
+我们预计本书将用于不同水平和不同重点领域的课程。特定课程不太可能完全按照本书呈现的章节顺序（甚至选定章节）进行，我们编写它们的方式允许轻松的选择和重新排列。² 我们选择的顺序遵循从该主题首次基础阐述到其更高级方面的几条主线，并尽可能减少离题内容。
+
+我们以金属自由电子理论的经典[1]和量子[2]入门方面开始本书，因为这需要最少的背景知识，并能立即通过一系列具体实例，引入绝缘体、半导体和金属理论必须解决的几乎所有现象。这样，读者就不会留下这样的印象：只有在掌握了大量深奥的定义（关于周期性结构）和复杂的量子力学探索（关于周期性系统）之后，才能理解任何东西。
+
+周期性结构仅在考察[3]了那些无需研究周期性后果就能理解（或不能理解）的金属性质之后才引入。我们试图通过以下方式减轻初次接触周期性系统语言的枯燥感：（a）将纯粹平移对称性[4, 5]的非常重要结果与其余但不太本质的旋转方面[7]分开；（b）将普通空间中的描述[4]与较不熟悉的倒易空间中的描述[5]分开；（c）将周期性的抽象和描述性处理与其在X射线衍射[6]中的初步应用分开。
+
+掌握了周期性系统的术语后，读者可以深入探究金属自由电子模型中困难的解决方案，或者直接开始研究晶格振动。本书遵循第一条路径。
+
+布洛赫定理[8]被描述并对其含义进行了概括性探讨，以强调其结果超越了近自由电子[9]和紧束缚[10]这两个具有说明性和非常重要的实际案例。这两章的大部分内容，以及接下来的计算真实能带结构方法概述[11]，都适合更高级的课程。半经典力学这一卓越的主题被引入并给出初步应用[12]，之后才被纳入更精细的输运半经典理论[13]。描述测量费米面方法[14]的部分可能更适合高级读者，但对实际金属能带结构的许多概述[15]很容易融入初级课程。
+
+² 第xvii-xix页的表格列出了每章的先修知识，主要对那些对主题某一特定方面感兴趣的人，或偏好不同呈现顺序的人有帮助。
+
+³ 章节编号引用见方括号。
+
+除屏蔽效应的讨论外，初级课程也可能略过关于弛豫时间近似[16]和忽略电子-电子相互作用[17]所遗漏内容的论述。
+
+功函数及其他表面性质[18]，可在讨论实空间中的平移对称性之后的任何时间点学习。我们对传统固体分类[19]的描述与内聚能分析[20]是分开的。两者都被置于能带结构介绍之后，因为正是依据电子结构，这些类别才得到最清晰的区分。
+
+为激发对晶格振动的研究（读者选择在第5章之后的任何时间点开始该主题），一份摘要[21]列出了那些若不考虑晶格振动就无法理解的固体性质。晶格动力学给出了初步介绍，简谐晶体的经典[22]和量子[23]方面被分别处理。声子谱的测量方法[24]、非简谐性的后果[25]，以及金属[26]和离子晶体[27]中声子的特殊问题在基础层面进行了概述，尽管这最后四章的某些部分更适合更高级的课程。关于晶格振动的所有章节都不依赖使用正则模产生和湮灭算符；这些算符在多个附录中有所描述，供希望获得更高级处理的读者使用。
+
+均匀[28]和非均匀[29]半导体，可在引入布洛赫定理和半经典力学初步讨论之后的任何时间点学习。晶体缺陷[30]一旦晶体本身被引入就可以学习，尽管有时会参考早期章节的部分内容。
+
+在回顾了原子磁性之后，我们考察了它在固体环境[31]中如何被修正，探讨了交换及其他磁相互作用[32]，并将所得模型应用于磁有序[33]。这个磁学的简短介绍以及关于超导电性[34]的结语很大程度上是自包含的。它们被放在书末，以便这些现象可以从抽象模型的角度，而更作为真实固体的惊人特性来审视。
+
+令我们沮丧的是，在一个历时七年的项目结束时（不仅在康奈尔大学，还在剑桥、伦敦、罗马、惠灵顿和于利希的长期停留期间完成），我们发现已无法记起所有学生、博士后研究员、访问学者和同事们给予我们宝贵批评、建议和指导的所有场合。我们特别感谢 V. Ambegaokar, B. W. Batterman, D. Beaglehole, R. Bowers, A. B. Bringer, C. di Castro, R. G. Chambers, G. V. Chester, R. M. Cotts, R. A. Cowley, G. Eilenberger, D. B. Fitchen, C. Friedli, V. Heine, R. L. Henderson, D. F. Holcomb, R. O. Jones, B. D. Josephson, J. A. Krumhansl, C. A. Kukkonen, D. C. Langreth, W. L. McLean, H. Mahr, B. W. Maxfield, R. Monnier, L. G. Parratt, O. Penrose, R. O. Pohl, J. J. Quinn, J. J. Rehr, M. V. Romerio, A. L. Ruoff, G. Russakoff, H. S. Sack, W. L. Schaich, J. R. Schrieffer, J. W. Serene, A. J. Sievers, J. Silcox, R. H. Silsbee, J. P. Straley, D. M. Straus, D. Stroud, K. Sturm, and J. W. Wilkins.
+
+然而，有一个人对几乎每一章都产生了影响——Michael E. Fisher，化学、物理和数学的Horace White教授，朋友和邻居，爱发牢骚的吟游诗人，六年前就开始阅读手稿，并从此紧随我们的脚步，时而深入章节，时而介入修订和再修订，揪出含糊之处，谴责不诚实，批评遗漏，标明重点，纠正拼写错误，重绘插图，还常常因其不懈坚持认为我们可以更文雅、准确、易懂和透彻，而让我们的生活变得非常艰难。我们希望他会因看到许多他难以辨认的红色页边批注已进入我们的正文而感到欣喜，并期待听到他关于那些尚未采纳的批注的意见。
+
+我们中的一位（NDM）极其感谢Alfred P. Sloan基金会和John Simon Guggenheim基金会在这个项目关键阶段的慷慨支持，以及伦敦帝国理工学院和“G. Marconi”物理研究所的朋友们，本书的部分内容是在那里写成的。他也深表感谢 R. E. Peierls，是他的讲座让他转变观点，认识到固体物理学是一门优美、清晰而连贯的学科。另一位（NWA）从 J. M. Ziman 和 A. B. Pippard 学习了这门学科，从未需要这种转变。他也希望感谢于利希核研究中心、惠灵顿维多利亚大学以及剑桥卡文迪许实验室和克莱尔霍尔的盛情与款待。
+
+伊萨卡 N.W.Ashcroft 1975年6月 N.D.Mermin
+
+目录前言 vii 重要表格 xv 使用本书的建议 xvi
+
+## 1. 金属的德鲁德理论
+
+## 2. 金属的索末菲理论
+
+## 3. 自由电子模型的失败
+
+## 4. 晶体点阵
+
+## 5. 倒易点阵
+
+## 6. 通过X射线衍射测定晶体结构
+
+## 7. 布拉维点阵和晶体结构的分类
+
+## 8. 周期势中的电子能级：一般性质
+
+## 9. 弱周期势中的电子
+
+## 10. 紧束缚方法
+
+## 11. 计算能带结构的其他方法
+
+## 12. 电子动力学的半经典模型
+
+## 13. 金属导电的半经典理论
+
+## 14. 测量费米面
+
+xii 目录
+
+## 15. 选定金属的能带结构
+
+## 16. 超越R
+
+Relaxation-Time Approximation 119
+
+## 17. Beyond the Independent Electron Approximation
+
+## 18. Surface Effects
+
+## 19. Classification of Solids
+
+## 20. Cohesive Energy
+
+## 21. Failures of the Static Lattice Model
+
+## 22. Classical Theory of the Harmonic Crystal
+
+## 23. Quantum Theory of the Harmonic Crystal
+
+## 24. Measuring Phonon Dispersion Relations
+
+## 25. Anharmonic Effects in Crystals
+
+## 26. Phonons in Metals
+
+## 27. Dielectric Properties of Insulators
+
+## 28. Homogeneous Semiconductors
+
+## 29. Inhomogeneous Semiconductors
+
+## 30. Defects in Crystals
+
+## 31. Diamagnetism and Paramagnetism
+
+## 32. Electron Interactions and Magnetic Structure
+
+## 33. Magnetic Ordering
+
+## 34. Superconductivity
+
+## APPENDICES
+
+A. Summary of Important Numerical Relations in the Free Electron Theory of Metals 201
+
+B. The Chemical Potential 203
+
+C. The Sommerfeld Expansion 204
+
+D. Plane-Wave Expansions of Periodic Functions in More Than One Dimension 206
+
+E. The Velocity and Effective Mass of Bloch Electrons 209
+
+F. Some Identities Related to Fourier Analysis of Periodic Systems 211
+
+G. The Variational Principle for Schrödinger’s Equation 213
+
+H. Hamiltonian Formulation of the Semiclassical Equations of Motion, and Liouville’s Theorem 215
+
+I. Green’s Theorem for Periodic Functions 216
+
+J. Conditions for the Absence of Interband Transitions in Uniform Electric or Magnetic Fields 217
+
+K. Optical Properties of Solids 220
+
+L. Quantum Theory of the Harmonic Crystal 224
+
+M. Conservation of Crystal Momentum 228
+
+N. Theory of the Scattering of Neutrons by a Crystal 234
+
+O. Anharmonic Terms and n-Phonon Processes 240
+
+P. Evaluation of the Landé g-Factor 241
+
+Important Tables
+
+The more important tables of data or theoretical results are listed below. To aid the reader in hunting down a particular table we have grouped them into several broad categories. Theoretical results are listed only under that heading, and data on magnetic and superconducting metals are listed under magnetism and superconductivity, rather than under metals. Accurate values of the fundamental constants are given in the endpaper and on page 757.
+
+Theoretical Results
+
+The noncubic crystallographic point groups 86
+
+Comparison of properties of Sommerfeld and Bloch electrons 106
+
+Crystal Structure
+
+The face-centered cubic elements 62
+
+The body-centered cubic elements 62
+
+Metals
+
+Free electron densities and r_s = a 5
+
+Electrical resistivities 8
+
+The data in the tables are presented with the aim of giving the reader an appreciation for orders of magnitude and relative sizes. We have therefore been content to quote numbers to one or two significant places and have not made special efforts to give the most precise values. Readers requiring data for fundamental research should consult the appropriate sources.
+
+Suggestions for Using the Book
+
+It is in the nature of books that chapters must be linearly ordered. We have tried to select a sequence that at least obscures several interwoven lines of development. The accompanying Table (pp. xvii–xix) is designed to help readers with special interests (in lattice vibrations, semiconductors, or metals, for example) or teachers of courses with particular constraints on time or level.
+
+The prerequisites for each chapter are given in the Table according to the following conventions: (a) If “M” is listed after Chapter N, then the contents of Chapter M (as well, of course, as its essential prerequisites) are essential for understanding much or all of Chapter N; (b) If “(M)” appears after Chapter N, then Chapter M is not an essential prerequisite: either a small part of Chapter N is based on Chapter M, or a few parts of Chapter M may be of some help in reading Chapter N; (c) The absence of “M” or “(M)” after Chapter N does not mean that no reference back to Chapter M is made; however, such references as may occur are primarily because N illuminates the subject of M, rather than because M aids in the development of N.
+
+The rest of the Table indicates how the book might be used in a one semester (40 to 50 lectures) or two-semester (80 to 100 lectures) introductory undergraduate course. Chapters (or selections from a chapter) are listed for reading if they are almost entirely descriptive, or, alternatively, if we felt that an introductory course should at least make students aware of a topic, even if time was not available for its careful exploration. The order of presentation is, of course, flexible. For example although a two-semester course could follow the order of the book, one might well prefer to follow the pattern of the one-semester course for the first term, filling in the more advanced topics in the second.
+
+An introductory course at the graduate level, or a graduate course following a one-semester undergraduate survey, would probably make use of sections omitted in the two-semester undergraduate course, as well as many of the sixteen appendices.
+
+1 Thus to proceed to Chapter 12 with a minimum of digression it is necessary to read Chapters 8, 5, 4, 2 and 1.
+
+2 Students would presumably be asked to read the chapters bearing on the lectures as well.
+
+| Chapter | Prerequisites | One-Semester Introduction | One-Semester Introduction | Two-Semester Introduction | Two-Semester Introduction | | :--- | :--- | :--- | :--- | :--- | :--- | | | | READING | LECTURES | READING | LECTURES | | 1. The Drude Theory of Metals | None | All | All | All | All | | 2. The Sommerfeld Theory of Metals | All | All | All | All | All | | 3. Failures of the Free-Electron Model | All | All | All | All | All | | 4. Crystal Lattices | None | All | All | All | All | | 5. Reciprocal Lattice | All | All | All | All | All | | 6. Diffraction of X-Rays by Crystals | All | All | All | All | All | | 7. Crystal Symmetries | All | All | All | All | All | | 8. Bloch’s Theorem | All | All | All | All | All | | 9. Nearly Free Electrons | All | All | All | All | All | | 10. Tight Binding | All | All | All | All | All | | 11. Computational Band Structure | All | All | All | All | All | | 12. Semiclassical Dynamics | All | All | All | All | All | | 13. Semiclassical Transport | All | All | All | All | All | | 14. Measuring the Fermi Surface | All | 14 | 14 | All | All | | 15. Band Structures of Metals | All | 9, 10, 12 | 15, 16 | All | 13, 16 | | 16. Beyond the Relaxation-Time Approximation | All | 15, 16 | 23, 24 | 33–40 | 23–27, 29 | | 17. Beyond the Independent Electron Approximation | All | 33–44 | 23–24 | All | All | | 18. Surface Effects | All | All | All | All | All | | 19. Classification of Solids | All | All | All | All | All | | 20. Cohesive Energy | All | All | All | All | All | | 21. Failures of the Static Lattice Model | All | All | All | All | All | | 22. Classical Theory of the Harmonic Crystal | All | All | All | All | All | | 23. Quantum Theory of the Harmonic Crystal | All | All | All | All | All | | 24. Measuring Phonon Dispersion Relations | All | 23, 32 | All | All | All | | 25. Anharmonic Effects in Crystals | All | All | All | All | All | | 26. Phonons in Metals | All | 15, 16, 31 | 215–257 | All | 215–295 | | 27. Dielectric Properties of Insulators | All | 325–353 | 543–572 | All | All | | 28. Homogeneous Semiconductors | All | All | All | All | All | | 29. Inhomogeneous Semiconductors | All | All | All | All | All | | 30. Defects | All | 12, 18, 29 | 228, 289, 292 | All | All | | 31. Diamagnetism, Paramagnetism | All | All | All | All | All | | 32. Magnetic Interactions | All | 8, 10, 17 | All | All | All | | 33. Magnetic Ordering | All | All | All | All | All | | 34. Superconductivity | All | All | All | All | All |
+
+The Drude Theory of Metals
+
+Basic Assumptions of the Model Collision or Relaxation Time DC Electrical Conductivity Hall Effect and Magnetoresistance AC Electrical Conductivity Dielectric Function and Plasma Resonance Thermal Conductivity Thermoelectric Effects
+
+2 Chapter 1 The Drude Theory of Metals
+
+Metals occupy a rather special position in the study of solids, sharing a variety of striking properties that other solids (such as quartz, sulfur, or common salt) lack. There are excellent conductors of heat and electricity, are ductile and malleable, and display a striking luster on freshly exposed surfaces. The challenge of accounting for these metallic features gave the starting impetus to the modern theory of solids.
+
+Although the majority of commonly encountered solids are nonmetallic, metals have continued to play a prominent role in the theory of solids from the late nineteenth century to the present day. Indeed, the metallic state has proved to be one of the fundamental states of matter. The elements, for example, definitely favor the metallic state: over two-thirds are metals. Even to understand nonmetals one must also understand metals, for in explaining why copper conducts so well one begins to learn why common salt does not.
+
+During the last hundred years physicists have tried to construct simple models of the metallic state that account in a qualitative, and even quantitative, way for the characteristic metallic properties. In the course of this search brilliant successes have appeared hand in hand with apparently hopeless failures, time and again. Even earliest models, though strikingly wrong in some respects, remain, when properly used, of immense value to solid-state physicists today.
+
+In this chapter we shall examine the theory of metallic conduction put forth by P. Drude at the turn of the century. The successes of the Drude model were considerable, and it is still used today as a quick practical way to form simple pictures and rough estimates of properties whose more precise comprehension may require analysis of considerable complexity. The failures of the Drude model to account for some experiments, and the conceptual puzzles it raised, defined the problems with which the theory of metals was to grapple over the next quarter century. These found their resolution only in the rich and subtle structure of the quantum theory of solids.
+
+## BASIC ASSUMPTIONS OF THE DRUDE MODEL
+
+J. J. Thomson’s discovery of the electron in 1897 had a vast and immediate impact on theories of the structure of matter, and suggested an obvious mechanism for conduction in metals. Three years after Thomson’s discovery Drude constructed his theory of electrical and thermal conduction by applying the highly successful kinetic theory of gases to a metal, considered as a gas of electrons.
+
+In its simplest form kinetic theory treats the molecules of a gas as identical solid spheres, which move in straight lines until they collide with one another. The time taken up by a single collision is assumed to be negligible, and, except for the force coming momentarily into play during each collision, no other forces are assumed to act between the particles.
+
+Although there is only one kind of particle present in the simplest gases, in a metal there must be at least two, for the electrons are negatively charged, yet the metal is electrically neutral. Drude assumed that the compensating positive charge was attached to much heavier particles.
+
+1 Annalen der Physik 1, 566 and 3, 369 (1900).
+
+2 Or with the walls of the vessel containing them, a possibility generally ignored in discussing metals unless one is interested in very fine wires, thin sheets, or effects...
+
+ts at the surface.
+
+Basic Assumptions of the Drude Model
+
+Figure 1.1 (a) Schematic picture of an isolated atom (not to scale). (b) In a metal the nucleus and ion core retain their configuration in the free atom, but the valence electrons leave the atom to form the electron gas.
+
+The solution to this problem is one of the fundamental achievements of the modern quantum theory of solids. In this discussion of the Drude model, however, we shall simply assume (and in many metals this assumption can be justified) that when atoms of a metallic element are brought together to form a metal, the valence electrons become detached and wander freely through the metal, while the metallic ions remain intact and play the role of the immobile positive particles in Drude's theory. This model is indicated schematically in Figure 1.1. A single isolated atom of the metallic element has a nucleus of charge eZ_a, where Z_a is the atomic number and e is the magnitude of the electronic charge: e = 4.80 × 10^{-10} electrostatic units (esu) = 1.60 × 10^{-19} coulombs. Surrounding the nucleus are Z_a electrons of total charge -eZ_a. A few of these, Z, are the relatively weakly bound valence electrons. The remaining Z_a - Z electrons are relatively tightly bound to the nucleus, play much less of a role in chemical reactions, and are known as the core electrons. In the metal the core electrons remain bound to the nucleus to form the metallic ion, but the valence electrons are allowed to wander far away from their parent atoms. In the metallic context they are called conduction electrons.
+
+Drude applied kinetic theory to this "gas" of conduction electrons of mass m, which (in contrast to the molecules of an ordinary gas) move against a background of heavy immobile ions. The density of electron gas can be calculated as follows:
+
+A metallic element contains 0.6022 × 10^{24} atoms per mole (Avogadro's number) and ρ/A moles per cm^3, where ρ is the mass density (in grams per cubic centimeter) and A is the atomic mass of the element. Since each atom contributes Z electrons, the number of electrons per cubic centimeter, n = N/V, is:
+
+n = (0.6022 × 10^{24} × Z × ρ) / A
+
+Table 1.1 shows the conduction densities for some selected metals. They are typically of order 10^{22} conduction electrons per cubic centimeter, varying from 0.91 × 10^{22} for cesium up to 24.7 × 10^{22} for beryllium. Also listed in Table 1.1 is a widely used measure of the electronic density, r_s, defined as the radius of a sphere whose volume is equal to the volume per conduction electron. Thus
+
+N/V = 1 = 4πr_s^3/3, giving r_s = (3/(4πn))^{1/3}
+
+Table 1.1 lists r_s both in angstroms (10^{-8} cm) and in units of the Bohr radius a_0 = ℏ^2/(me^2) = 0.529 × 10^{-8} cm; the latter length, being a measure of the radius of a hydrogen atom in its ground state, is often used as a scale for measuring atomic distances. Note that r_s/a_0 is between 2 and 3 in most cases, although it ranges between 3 and 6 in the alkali metals (and can be as large as 10 in some metallic compounds).
+
+These densities are typically a thousand times greater than those of a classical gas at normal temperatures and pressures. In spite of this and in spite of the strong electron-electron and electron-ion electromagnetic interactions, the Drude model boldly treats the dense metallic electron gas by the methods of the kinetic theory of a neutral dilute gas, with only slight modifications. The basic assumptions are these:
+
+1. Between collisions the interaction of a given electron, both with the others and with the ions, is neglected. Thus in the absence of externally applied electromagnetic fields each electron is taken to move uniformly in a straight line. In the presence of externally applied fields each electron is taken to move as determined by Newton's laws of motion in the presence of those external fields, but neglecting the additional complicated fields produced by the other electrons and ions. The neglect of electron-electron interactions between collisions is known as the independent electron approximation. The corresponding neglect of electron-ion interactions is known as the free electron approximation. We shall find in subsequent chapters that although the independent electron approximation is in many contexts surprisingly good, the free electron approximation must be abandoned if one is to arrive at even a qualitative understanding of much of metallic behavior.
+
+2. Collisions in the Drude model, as in kinetic theory, are instantaneous events that abruptly alter the velocity of an electron. Drude attributed them to the electrons bouncing off the impenetrable ion cores (rather than to electron-electron collisions, the analogue of the predominant collision mechanism in an ordinary gas). We shall find later that electron-electron scattering is indeed one of the least important of the several scattering mechanisms in a metal, except under unusual conditions. However, the simple mechanical picture (Figure 1.2) of an electron bumping along from ion to ion is very far off the mark. Fortunately, this does not matter for many purposes: a qualitative (and often a quantitative) understanding of metallic conduction can be achieved by simply assuming that there is some scattering mechanism, without inquiring too closely into just what that mechanism might be. By appealing, in our analysis, to only a few general effects of the collision process, we can avoid committing ourselves to any specific picture of how electron scattering actually takes place. These broad features are described in the following two assumptions.
+
+Figure 1.2 Trajectory of a conduction electron scattering off the ions, according to the naive picture of Drude.
+
+3. We shall assume that an electron experiences a collision (i.e., suffers an abrupt change in its velocity) with probability per unit time 1/τ. We mean by this that the probability of an electron undergoing a collision in any infinitesimal time interval of length dt is just dt/τ. The time τ is variously known as the relaxation time, the collision time, or the mean free time, and it plays a fundamental role in the theory of metallic conduction. It follows from this assumption that an electron picked at random at a given moment will, on the average, travel for a time before its next collision, and will, on the average, have been traveling for a time τ since its last collision. In the simplest applications of the Drude model the collision time τ is taken to be independent of an electron's position and velocity. We shall see later that this turns out to be a surprisingly good assumption for many (but by no means all) applications.
+
+4. Electrons are assumed to achieve thermal equilibrium with their surroundings only through collisions. These collisions are assumed to maintain local thermodynamic equilibrium in a particularly simple way: immediately after each collision an electron is taken to emerge with a velocity that is not related to its velocity just before the collision, but randomly directed and with a speed appropriate to the temperature prevailing at the place where the collision occurred. Thus the hotter the region in which a collision occurs, the faster a typical electron will emerge from the collision.
+
+In the rest of this chapter we shall illustrate these notions through their most important applications, noting the extent to which they succeed or fail to describe the observed phenomena.
+
+## DC ELECTRICAL CONDUCTIVITY OF A METAL
+
+According to Ohm's law, the current I flowing in a wire is proportional to the potential drop V along the wire: V = IR, where R, the resistance of the wire, depends on its dimensions, but is independent of the size of the current or potential drop.
+
+The Drude model accounts for this behavior and provides an estimate of the size of the resistance. One generally eliminates the dependence of R on the shape of the wire by introducing a quantity characteristic only of the metal of which the wire is composed. The resistivity ρ is defined to be the proportionality constant between the electric field E at a point in the metal and the current density j that it induces 10: In general, E and j need not be parallel. One then defines a resistivity tensor. See Chapters 12 and 13.
+
+The current density j is a vector parallel to the flow of charge, whose magnitude is the amount of charge per unit time crossing a unit area perpendicular to the flow. Thus if a uniform current I flows through a wire of length L and cross-sectional area A, the current density will be j = I/A. Since the potential drop along the wire will be V = E L, Eq. (1.3) gives V = I ρ L / A, and hence R = ρ L / A.
+
+If n electrons per unit volume all move with velocity v, then the current density they give rise to will be parallel to v. Furthermore, in a time dt the electrons will advance by a distance v dt in the direction of v, so that n v dt / A electrons will cross an area A perpendicular to the direction of flow. Since each electron carries a charge e, the charge crossing A in the time dt will be n e v A dt, and hence the current density is j = n e v. (1.4)
+
+At any point in a metal, electrons are always moving in a variety of directions with a variety of thermal energies. The net current density is thus given by (1.4), where v is the average electronic velocity. In the absence of an electric field, electrons are as likely to be moving in any one direction as in any other, v averages to zero, and, as expected, there is no net electric current density. In the presence of a field E, however, there will be a mean electronic velocity directed opposite to the field (the electronic charge being negative), which we can compute as follows: Consider a typical electron at time zero. Let t be the time elapsed since its last collision. Its velocity at time zero will be its velocity v immediately after that collision plus the additional velocity e E t / m it has subsequently acquired. Since we assume that an electron emerges from a collision in a random direction, there will be no contribution from v to the average electronic velocity, which must therefore be given entirely by the average of e E t / m. However, the average of t is the relaxation time τ. Therefore, v_avg = e E τ / m, and j = n e^2 τ E / m. (1.5)
+
+This result is usually stated in terms of the inverse of the resistivity, the conductivity σ = 1/ρ: j = σ E, where σ = n e^2 τ / m. (1.6)
+
+This establishes the linear dependence of j on E and gives an estimate of the conductivity σ in terms of quantities that are all known except for the relaxation time τ. We may therefore use (1.6) and the observed resistivities to estimate the size of the relaxation time: τ = 1 / (ρ n e^2). (1.7)
+
+Table 1.2 gives the resistivities of several representative metals at several temperatures. Note the strong temperature dependence. At room temperature the resistivity is roughly linear in T, but it falls away much more steeply as low temperatures are reached. Room temperature resistivities are typically of the order of microhm centimeters (µΩ cm) or, in atomic units, of order 10^{-18} statohm cm. 11 If ρ is the resistivity in microhm centimeters, then a convenient way of expressing the relaxation time implied by (1.7) is τ = (0.22 / ρ) × (r_s / a_0) × 3 × 10^{-14} s. (1.8)
+
+Table 1.2 Electrical Resistivities of Selected Elements a (ρ in µΩ cm)
+
+ELEMENT 77K 273K 373K ρ(373K)/ρ(273K)
+
+Li 1.04 8.55 12.4 1.06 Na 0.8 4.2 Melted K 1.38 6.1 Melted Rb 2.2 11.0 Melted Cs 4.5 18.8 Melted Cu 0.2 1.56 2.24 1.05 Ag 0.3 1.51 2.13 1.03 Au 0.5 2.04 2.84 1.02 Be 2.8 5.3 1.39 Mg 0.62 3.9 5.6 1.05 Ca 3.43 5.0 1.07 Sr 7 23 Ba 17 60 Nb 3.0 15.2 19.2 0.92 Fe 0.66 8.9 14.7 1.21 Zn 1.1 5.5 7.8 1.04 Cd 1.6 6.8 Hg 5.8 Melted Melted Al 0.3 2.45 3.55 1.06 Ga 2.75 13.6 Melted In 1.8 8.0 12.1 1.11 Tl 3.7 15 22.8 1.11 Sn 2.1 10.6 15.8 1.09 Pb 4.7 19.0 27.0 1.04 Bi 35 107 156 1.07 Sb 8 39 59 1.11 a Resistivities in microhm centimeters are given at 77K (the boiling point of liquid nitrogen at atmospheric pressure), 273K, and 373K. The last column gives the ratio of ρ(373K)/ρ(273K) to display the approximate linear temperature dependence of the resistivity near room temperature. Source: G. W. C. Kaye and T. H. Laby, Table of Physical and Chemical Constants, Longmans Green, London, 1966.
+
+To convert resistivities from microhm centimeters to statohm centimeters note that a resistivity of 1 µΩ cm yields an electric field of 10^{-6} V cm^{-1} in the presence of a current of 1 A cm^{-2}. Since 1 ampere is 3 × 10^9 esu s^{-1}, and 1 volt is 1 statvolt, a resistivity of 1 µΩ cm yields a field of 1 statvolt cm^{-1} when the current density is 0.1 esu cm^{-2} s^{-1}. The statohm-centimeter is the electrostatic unit of resistivity, and therefore gives 1 statvolt cm^{-1} with a current density of only 1 esu cm^{-2} s^{-1}. Thus 1 µΩ cm is equivalent to 1 × 10^{-17} statohm cm. To avoid using the statohm-centimeter, one may evaluate (1.7) taking ρ in ohm meters, m in kilograms, n in electrons per cubic meter, and e in coulombs. (Note: The most important formulas, constants, and conversion factors from Chapters 1 and 2 are summarized in Appendix A.)
+
+Relaxation times calculated from (1.8) and the resistivities in Table 1.2 are displayed in Table 1.3. Note that at room temperatures τ is typically 10^{-14} to 10^{-15} s. In considering whether this is a reasonable number, it is is only of the order of O(dt/2). To see this, first note that such electrons constitute a fraction dt/τ of the total number of electrons. Furthermore, since the electronic velocity (and momentum) is randomly directed immediately after a collision, each such electron will contribute to the average momentum p(t+dt) only to the extent that it has acquired momentum from the force f since its last collision. Such momentum is acquired over a time no longer than dt, and is therefore of order f·dt. Thus the correction to (1.10) is of order (dt/τ)/f·dt, and does not affect the terms of linear order in dt. We may therefore write:
+
+p(t+dt) = p(t) – (p(t)/τ) dt + f·dt + O(dt²)  (1.11)
+
+where the contribution of all electrons to p(t+dt) is accounted for. Dividing this by dt and taking the limit as dt → 0, we find
+
+dp(t)/dt = – p(t)/τ + f(t)  (1.12)
+
+This simply states that the effect of individual electron collisions is to introduce a frictional damping term into the equation of motion for the momentum per electron.
+
+We now apply (1.12) to several cases of interest.
+
+## HALL EFFECT AND MAGNETORESISTANCE
+
+In 1879 E. H. Hall tried to determine whether the force experienced by a current carrying wire in a magnetic field was exerted on the whole wire or only upon (what we would now call) the moving electrons in the wire. He suspected it was the latter, and his experiment was based on the argument that “if the current of electricity in a fixed conductor is itself attracted by a magnet, the current should be drawn to one side of the wire, and therefore the resistance experienced should be increased.” 14 His efforts to detect this extra resistance were unsuccessful, 15 but Hall did not regard this as conclusive: “The magnet may tend to deflect the current without being able to do so. It is evident that in this case there would exist a state of stress in the conductor, the electricity pressing, as it were, toward one side of the wire.” This state of stress should appear as a transverse voltage (known today as the Hall voltage), which Hall was able to observe.
+
+Hall’s experiment is depicted in Figure 1.3. An electric field E_x is applied to a wire extending in the x-direction and a current density j_x flows in the wire. In addition, a magnetic field H points in the positive z-direction. As a result the Lorentz force 16
+
+f = – (e/c) v × H  (1.13)
+
+acts to deflect electrons in the negative y-direction (an electron’s drift velocity is opposite to the current flow). However the electrons cannot move very far in the y-direction before running up against the sides of the wire. As they accumulate there, an electric field builds up in the y-direction that opposes their motion and their further accumulation. In equilibrium this transverse field (or Hall field) E_y will balance the Lorentz force, and current will flow only in the x-direction.
+
+There are two quantities of interest. One is the ratio of the field along the wire E_x to the current density j_x:
+
+ρ(H) = E_x / j_x  (1.14)
+
+This is the magnetoresistance, 17 which Hall found to be field-independent. The other is the size of the transverse field E_y. Since it balances the Lorentz force, one might expect it to be proportional both to the applied field H and to the current along the wire j_x. One therefore defines a quantity known as the Hall coefficient by
+
+R = E_y / (j_x H)  (1.15)
+
+Note that since the Hall field is in the negative y-direction (Figure 1.3), R should be negative. If, on the other hand, the charge carriers were positive, then the sign of their x-velocity would be reversed, and the Lorentz force would therefore be unchanged. As a consequence the Hall field would be opposite to the direction it has for negatively charged carriers. This is of great importance, for it means that a measurement of the Hall field determines the sign of the charge carriers. Hall’s original data agreed with the sign of the electronic charge later determined by Thomson. One of the remarkable aspects of the Hall effect, however, is that in some metals the Hall coefficient is positive, suggesting that the carriers have a charge opposite to that of the electron. This is another mystery whose solution had to await the full quantum theory of solids.
+
+In this chapter we shall consider only the simple Drude model analysis, which though incapable of accounting for positive Hall coefficients, is often in fairly good agreement with experiment.
+
+To calculate the Hall coefficient and magnetoresistance we first find the current densities j_x and j_y in the presence of an electric field with arbitrary components E_x and E_y; and in the presence of a magnetic field H along the z-axis. The (position independent) force acting on each electron is f = e (E + v × H/c), and therefore Eq. (1.12) for the momentum per electron becomes 18
+
+dp/dt = – p/τ + e (E + (p/m) × H/c)  (1.16)
+
+In the steady state the current is independent of time, and therefore p_x and p_y will satisfy
+
+0 = – eE_x – (ωτ/c) p_y – p_x/τ 0 = – eE_y + (ωτ/c) p_x – p_y/τ  (1.17)
+
+where
+
+ω_c := eH / (mc)  (1.18)
+
+We multiply these equations by ne²τ/m and introduce the current density components through (1.4) to find
+
+0 = σ_0 E_x + ω_c τ j_y – j_x 0 = σ_0 E_y – ω_c τ j_x – j_y  (1.19)
+
+where σ_0 is just the Drude model DC conductivity in the absence of a magnetic field, given by (1.6).
+
+The Hall field E_y is determined by the requirement that there be no transverse current j_y. Setting j_y to zero in the second equation of (1.19) we find that
+
+E_y = j_x (ω_c τ / σ_0) = j_x (H / (nec))  (1.20)
+
+Therefore the Hall coefficient (1.15) is
+
+R = – 1 / (nec)  (1.21)
+
+This is a very striking result, for it asserts that the Hall coefficient depends on no parameters of the metal except the density of carriers. Since we have already calculated n assuming that the atomic valence electrons become the metallic conduction electrons, a measurement of the Hall constant provides a direct test of the validity of this assumption.
+
+In trying to extract the electron density n from measured Hall coefficients one is faced with the problem that, contrary to the prediction of (1.21), they generally do depend on magnetic field. Furthermore, they depend on temperature and on the care with which the sample has been prepared. This result is somewhat unexpected, since the relaxation time τ, which can depend strongly on temperature and the condition of the sample, does not appear in (1.21). However, at very low temperatures in very pure, carefully prepared samples at very high fields, the measured Hall constants do appear to approach a limiting value. The more elaborate theory of Chapters 12 and 13 predicts that for many (but not all) metals this limiting value is precisely the simple Drude result (1.21).
+
+Some Hall coefficients at high and moderate fields are listed in Table 1.4. Note the occurrence of cases in which R is actually positive, apparently corresponding to carriers with a positive charge. A striking example of observed field dependence totally unexplained by Drude theory is shown in Figure 1.4.
+
+The Drude result confirms Hall’s observation that the resistance does not depend on field, for when j_y = 0 (as is the case in the steady state when the Hall field has been established), the first equation of (1.19) reduces to j_x = σ_0 E_x, the expected result for the conductivity in zero magnetic field. However, more careful experiments on a variety of metals have revealed that there is a magnetic field dependence to the resistance, which can be quite dramatic in some cases. Here again the quantum theory of solids is needed to explain why the Drude result applies in some metals and to account for some truly extraordinary deviations from it in others.
+
+Before leaving the subject of DC phenomena in a uniform magnetic field, we note for future applications that the quantity ω_c τ is an important, dimensionless measure of the strength of a magnetic field. When ω_c τ is small, Eq. (1.19) gives j very nearly parallel to E, as in the absence of a magnetic field.
+
+14 Am. J. Math. 2, 287 (1879).
+
+15 The increase in resistance (known as the magnetoresistance) does occur, as we shall see in Chapters 12 and 13. The Drude model, however, predicts Hall’s null result.
+
+16 When dealing with nonmagnetic (or weakly magnetic) materials, we shall always call the field H, the difference between B and H being extremely small.
+
+17 More precisely, it is the transverse magnetoresistance. There is also a longitudinal magnetoresistance, measured with the magnetic field parallel to the current.
+
+18 Note that the Lorentz force is not the same for each electron since it depends on the electronic velocity v. Therefore the force f in (1.12) is to be taken as the average force per electron (see Footnote 13). Because, however, the force depends on the electron on which it acts only through a term linear in the electron’s velocity, the average force is obtained simply by replacing that velocity by the average velocity, p/m.
+
+Table 1.4 HALL COEFFICIENTS OF SELECTED ELEMENTS IN MODERATE TO HIGH FIELDS a METAL  VALENCE   1/(R·n·e·c)
+
+Li      1       0.8 Na      1       1.2 K       1       1.1 Rb      1       1.0 Cs      1       0.9 Cu      1       1.5 Ag      1       1.3 Au      1       1.5 Be      2      –0.2 Mg      2      –0.4 In      3      –0.3 Al      3      –0.3 a These are roughly the limiting values assumed by R_H as the field becomes very large (of order 10^4 G), and the temperature very low, in carefully prepared specimens. The data are quoted in the form n_0/n, where n_0 is the density for which the Drude form (1.21) agrees with the measured R_H; n_0 = –1/(R_H·e·c). Evidently the alkali metals obey the Drude result reasonably well, the noble metals (Cu, Ag, Au) less well, and the remaining entries, not at all.
+
+Figure 1.4 The quantity n_0/n = –1/(R_H·n·e·c), for aluminum, as a function of ω_c τ. The free electron density n is based on a nominal chemical valence of 3. The high field value approaches –1.
+
+Figure suggests only one carrier per primitive cell, with a positive charge. (From R. Lück, Phys. Stat. Sol. 18, 49 (1966).)
+
+of a magnetic field. In general, however, j is at an angle θ (known as the Hall angle) to E, where (1.19) gives tan θ = ωτ. The quantity, known as the cyclotron frequency, is simply the angular frequency of revolution¹⁹ of a free electron in the magnetic field H. Thus ωτ will be small if electrons can complete only a small part of a revolution between collisions, and large if they can complete many revolutions. Alternatively, when ωτ is small the magnetic field deforms the electronic orbits only slightly, but when ωτ is comparable to unity or larger, the effect of the magnetic field on the electronic orbits is quite drastic. A useful numerical evaluation of the cyclotron frequency is ω_c = 1.6 × 10⁹ Hz/ (H/kilogauss)   (1.22)
+
+19In a uniform magnetic field the orbit of an electron is a spiral along the field whose projection in a plane perpendicular to the field is a circle. The angular frequency ω_c is determined by the condition that the centripetal acceleration ω_c² r be provided by the Lorentz force, (e/c) ω_c r H.
+
+## AC Electrical Conductivity of a Metal
+
+To calculate the current induced in a metal by a time-dependent electric field, we write the field in the form E(t) = Re E(ω) e^{-iωt}   (1.23)
+
+The equation of motion (1.12) for the momentum per electron becomes dp/dt = -eE - p/τ   (1.24)
+
+We seek a steady-state solution of the form p(t) = Re p(ω) e^{-iωt}   (1.25)
+
+Substituting the complex p and E into (1.24), which must be satisfied by both the real and imaginary parts of any complex solution, we find that p(ω) must satisfy -iω p(ω) = -eE(ω) - p(ω)/τ   (1.26)
+
+Since j = -nep/m, the current density is just j(t) = Re j(ω) e^{-iωt}   (1.27)
+
+j(ω) = -ne p(ω)/m = (ne²/m) E(ω) / (1/τ - iω)
+
+One customarily writes this result as j(ω) = σ(ω) E(ω)   (1.28)
+
+where σ(ω), known as the frequency-dependent (or AC) conductivity, is given by σ(ω) = (ne²τ/m) / (1 - iωτ)   (1.29)
+
+Note that this correctly reduces to the DC Drude result (1.6) at zero frequency.
+
+The most important application of this result is to the propagation of electromagnetic radiation in a metal. It might appear that the assumptions we made to derive (1.29) would render it inapplicable to this case, since (a) the E field in an electromagnetic wave is accompanied by a perpendicular magnetic field H of the same magnitude,²⁰ which we have not included in (1.24), and (b) the fields in an electromagnetic wave vary in space as well as time, whereas Eq. (1.12) was derived by assuming a spatially uniform force.
+
+The first complication can always be ignored. It leads to an additional term (e p/mc) H in (1.24) which is smaller than the term in E by a factor v/c, where v is the magnitude of the mean electronic velocity. But even in a current as large as 1 amp/mm², v = j/ne is only of order 0.1 cm/sec. Hence the term in the magnetic field is typically 10⁻¹⁰ of the term in the electric field and can quite correctly be ignored.
+
+The second point raises more serious questions. Equation (1.12) was derived by assuming that at any time the same force acts on each electron, which is not the case if the electric field varies in space. Note, however, that the current density at point r is entirely determined by what the electric field has done to each electron at r since its last collision. This last collision, in the overwhelming majority of cases, takes place no more than a few mean free paths away from r. Therefore if the field does not vary appreciably over distances comparable to the electronic mean free path, we may correctly calculate j(r; t), the current density at point r, by taking the field everywhere in space to be given by its value E(r; t) at the point r. The result, j(r; ω) = σ(ω) E(r; ω)   (1.30)
+
+is therefore valid whenever the wavelength λ of the field is large compared to the electronic mean free path l. This is ordinarily satisfied in a metal by visible light (whose wavelength is of the order of 10³ to 10⁴ Å). When it is not satisfied, one must resort to so-called nonlocal theories, of greater complexity.
+
+Assuming, then, that the wavelength is large compared to the mean free path, we may proceed as follows: in the presence of a specified current density j we may write Maxwell’s equations as²¹ ∇ × E = - (1/c) ∂H/∂t ∇ × H = (4π/c) j + (1/c) ∂E/∂t ∇ · E = 0 ∇ · H = 0   (1.31)
+
+We look for a solution with time dependence e^{-iωt}, noting that in a metal we can write j in terms of E via (1.28). We then find ∇ × (∇ × E) = (iω/c) ∇ × H = (iω/c) (4πσ E/c + iω E/c)
+
+or -∇² E = (4πiσω/c²) E + (ω²/c²) E   (1.32)
+
+or -∇² E = (ω²/c²) (1 + 4πiσ/ω) E   (1.33)
+
+This has the form of the usual wave equation, -∇² E = (ω²/c²) ε(ω) E   (1.34)
+
+with a complex dielectric constant given by ε(ω) = 1 + 4πiσ/ω   (1.35)
+
+If we are at frequencies high enough to satisfy ωτ >> 1   (1.36)
+
+then, to a first approximation, Eqs. (1.35) and (1.29) give ε(ω) = 1 - ω_p²/ω²   (1.37)
+
+where ω_p, known as the plasma frequency, is given by ω_p² = 4πne²/m   (1.38)
+
+When ε is real and negative (ω < ω_p) the solutions to (1.34) decay exponentially in space; i.e., no radiation can propagate. However, when ε is positive (ω > ω_p) the solutions to (1.34) become oscillatory, radiation can propagate, and the metal should become transparent. This conclusion is only valid, of course, if our high-frequency assumption (1.36) is satisfied in the neighborhood of ω = ω_p. If we express τ in terms of the resistivity through Eq. (1.8) then from Eq. (1.8) we can use the definition (1.38) of the plasma frequency to compute that ωτ = 1.6 × 10² (ρ_s / a₀) (1/ω_p)³/²   (1.39)
+
+Since the resistivity in microhm-centimeters, ρ_s, is of the order of unity or less, and since r_s/a₀ is in the range from 2 to 6, the high-frequency condition (1.36) will be well satisfied at the plasma frequency.
+
+The alkali metals have, in fact, been observed to become transparent in the ultraviolet. A numerical evaluation of (1.38) gives the frequency at which transparency should set in as ω_p/2π = 11.4 (ρ_s / a₀)⁻³/² × 10¹⁵ Hz   (1.40)
+
+or λ_c = 0.26 (ρ_s / a₀)³/² × 10³ Å   (1.41)
+
+In Table 1.5 we list the threshold wavelengths calculated from (1.41), along with the observed thresholds. The agreement between theory and experiment is rather good. As we shall see, the actual dielectric constant of a metal is far more complicated than (1.37) and it is to some extent a piece of good fortune that the alkali metals so strikingly display this Drude behavior. In other metals different contributions to the dielectric constant compete quite substantially with the “Drude term” (1.37).
+
+A second important consequence of (1.37) is that the electron gas can sustain charge density oscillations. By this we mean a disturbance in which the electric charge density²² has an oscillatory time dependence e^{-iωt}. From the equation of continuity, ∇ · j = - ∂ρ/∂t → ∇ · j(ω Nevertheless, the possibility of their excitation in the course of other electronic processes must always be borne in mind.
+
+## THERMAL CONDUCTIVITY OF A METAL
+
+The most impressive success of the Drude model at the time it was proposed was its explanation of the empirical law of Wiedemann and Franz (1853). The Wiedemann-Franz law states that the ratio, κ/σ, of the thermal to the electrical conductivity of a great number of metals is directly proportional to the temperature, with a proportionality constant which is to a fair accuracy the same for all metals. This remarkable regularity can be seen in Table 1.6, where measured thermal conductivities are given for several metals at 273K and 373K, along with the ratio κ/σT (known as the Lorenz number) at the two temperatures.
+
+In accounting for this the Drude model assumes that the bulk of the thermal current in a metal is carried by the conduction electrons. This assumption is based on the empirical observation that metals conduct heat much better than insulators do. Thus thermal conduction by the ions (present in both metals and insulators) is much less important than thermal conduction by the conduction electrons (present only in metals).
+
+To define and estimate the thermal conductivity, consider a metal bar along which the temperature varies slowly. If there were no sources and sinks of heat at the ends of the bar to maintain the temperature gradient, then the hot end would cool and the cool end would warm, i.e., thermal energy would flow in a sense opposite to the temperature gradient. By supplying heat to the hot end as fast as it flows away, one can produce a steady state in which both a temperature gradient and a uniform flow of thermal energy are present. We define the thermal current density j_q to be a vector parallel to the direction of heat flow, whose magnitude gives the thermal energy per unit time crossing a unit area perpendicular to the flow. For small temperature gradients the thermal current is observed to be proportional to ∇T (Fourier's law):
+
+j_q = -κ ∇T (1.47)
+
+The proportionality constant κ is known as the thermal conductivity, and is positive, since the thermal current flows opposite to the direction of the temperature gradient.
+
+As a concrete example let us examine a case where the temperature drop is uniform in the positive x-direction. In the steady state the thermal current will also flow in the x-direction and have a magnitude j_q = -κ dT/dx. To calculate the thermal current we note (assumption 4, page 6) that after each collision an electron emerges with a speed appropriate to the local temperature; the hotter the place of the collision, the more energetic the emerging electron. Consequently, even though the mean electronic velocity at a point may vanish (in contrast to the case when an electric current flows) electrons arriving at the point from the high-temperature side will have higher energies than those arriving from the low-temperature side leading to a net flow of thermal energy toward the low-temperature side (Figure 1.6).
+
+To extract a quantitative estimate of the thermal conductivity from this picture, consider first an oversimplified "one-dimensional" model, in which the electrons can only move along the x-axis, so that at a point x half the electrons come from the high-temperature side of x, and half from the low. If E(T)/ is the thermal energy per electron in a metal in equilibrium at temperature T, then an electron whose last collision was at x will, on the average, have a thermal energy E(T(x - vτ))/. The electrons arriving at x from the high-temperature side will, on the average, have had their last collision at x - vτ; and will therefore carry a thermal energy per electron of size E(T(x - vτ))/. Their contribution to the thermal current density at x will therefore be the number of such electrons per unit volume, n/2, times their velocity, v, times this energy, or (n/2) v E(T(x - vτ))/. The electrons arriving at x from the low-temperature side, on the other hand, will contribute (n/2) (-v) (E(T(x + vτ))/, since they have come from the positive x-direction and are moving toward negative x. Adding these together gives
+
+j_q = (n/2) v [E(T(x - vτ)) - E(T(x + vτ))] (1.48)
+
+Provided that the variation in temperature over a mean free path is very small, we may expand this about the point x to find:
+
+j_q = - n v^2 τ (dE/dT) (dT/dx) (1.49)
+
+To go from this to the three-dimensional case we need only replace v by the x-component v_x of the electronic velocity v, and average over all directions. Since <v_x^2> = <v_y^2> = <v_z^2> = (1/3) <v^2>, and since n dE/dT = (N/V) dE/dT = (dE/dT)/V = c_v, the electronic specific heat, we have:
+
+j_q = -(1/3) v^2 τ c_v ∇T (1.50)
+
+or
+
+κ = (1/3) v^2 τ c_v = (1/3) v l c_v (1.51)
+
+where v^2 is the mean square electronic speed.
+
+We emphasize the roughness of this argument. We have spoken rather glibly about the thermal energy per electron carried by a particular group of electrons, a quantity one might be hard pressed to define with precision. We have also been quite careless about replacing quantities, at various stages of the calculation, by their thermal averages. One might object, for example, that if the thermal energy per electron depends on the direction the electrons come from, so will their average speed, since this too depends on the temperature at the place of their last collision. We shall note below that this last oversight is canceled by yet another oversight, and in Chapter 13 we shall find by a more rigorous argument that the result (1.51) is quite close to (and, in special circumstances, precisely) the correct one.
+
+Given the estimate (1.51), we can derive another result independent of the mysteries buried in the relaxation time τ, by dividing the thermal conductivity by the electrical conductivity (1.6):
+
+κ/σ = (1/3) v^2 τ c_v / (n e^2 τ) = (1/3) (m v^2 / n e^2) (c_v / m) (1.52)
+
+It was natural for Drude to apply the classical ideal gas laws in evaluating the electronic specific heat and mean square velocity. He therefore in effect took c_v to be (3/2) n k and (1/2) m v^2 to be (3/2) k T, where k is Boltzmann's constant, 1.38 x 10^-16 erg K^-1. This leads to the result
+
+κ/σ = (3/2) (k/e)^2 T (1.53)
+
+The right side of (1.53) is proportional to T and depends only on the universal constants k and e, in complete agreement with the law of Wiedemann and Franz. Equation (1.53) gives a Lorenz number
+
+κ/σT = (3/2) (k/e)^2 = 1.24 x 10^-13 (erg/esu K)^2 = 1.11 x 10^-8 W Ω K^-2 (1.54)
+
+which is about half the typical value given in Table 1.6. In his original calculation of the electrical conductivity, Drude erroneously found half the correct result (1.6), as a result of which he found a value κ/σT = 2.22 x 10^-8 W Ω K^-2, in extraordinary agreement with experiment.
+
+This success, though wholly fortuitous, was so impressive as to spur further investigations with the model. It was, however, quite puzzling, since no electronic contribution to the specific heat remotely comparable to (3/2) n k was ever observed. Indeed, at room temperature there appeared to be no electronic contribution to the specific heat measured at all. In Chapter 2 we shall find that the classical ideal gas laws cannot be applied to the electron gas in a metal. Drude's impressive success, aside from his factor-of-two mistake, is a consequence of two errors of about 100 that cancel: at room temperature the actual electronic contribution to the specific heat is about 100 times smaller than the classical prediction, but the mean square electronic speed is about 100 times larger.
+
+We shall examine the correct theory of the equilibrium thermal properties of the free electron gas in Chapter 2, and shall return to a more correct analysis of the thermal conductivity of a metal in Chapter 13. Before leaving the subject of thermal transport, however, we should correct one oversimplification in our analysis that obscures an important physical phenomenon:
+
+We calculated the thermal conductivity by ignoring all manifest interpretations of the temperature gradient except for the fact that the thermal energy carried by a group of electrons depends on the temperature at the place of their last collision. But if electrons emerge from a collision with higher energies when the temperature is higher, they will also have higher speeds. It would therefore appear that we should let the electron’s speed v as well as its contribution to the thermal energy depend on the place of the last collision. As it turns out such an additional term only alters the result by a factor of the order of unity, but we were in fact quite right to ignore such a correction. It is true that immediately after the temperature gradient is applied there will be a nonvanishing mean electronic velocity directed toward the low-temperature region. Since the electrons are charged, however, this velocity will result in an electric current. But thermal conductivity measurements are performed under open-circuit conditions, in which no electric current can flow. Therefore the electric current can continue only until enough charge has accumulated at the surface of the sample to build up a retarding electric field that opposes the further accumulation of charge, and hence precisely cancels the effect of the temperature gradient on the electronic mean velocity.32 When the steady state is reached there will be no electric current flow, and we were therefore correct in assuming that the mean electronic velocity at a point vanished.
+
+In this way we are led to consider another physical effect: A temperature gradient in a long, thin bar should be accompanied by an electric field directed opposite to the temperature gradient. The existence of such a field, known as the thermoelectric field, has been known for some time (the Seebeck effect). The field is conventionally written as
+
+E Q ∇T (1.55)
+
+and the proportionality constant Q is known as the thermopower. To estimate the thermopower note that in our “one-dimensional” model the mean electronic velocity at a point x due to the temperature gradient is
+
+v = (1/2)[v(x) - v(x)] = v(x) - v(x) ∝ (v_x)
+
+d v_x²
+
+∝ (d/dx) (1.56)
+
+We can again generalize to three dimensions33 by letting v² = ⟨v_x²⟩, and noting that ⟨v_x²⟩ = ⟨v_y²⟩ = ⟨v_z²⟩ = (1/3)⟨v²⟩, so that
+
+v ∝ (1/6) (dv²/dT) ∇T (1.57)
+
+The mean velocity due to the electric field is34
+
+v = - (eEτ/m) (1.58)
+
+To have v = 0, we require that
+
+Q = E / ∇T
+
+= -(1/3e) d(m v²)/dT = -c_v / (3ne) (1.59)
+
+This result is also independent of the relaxation time. Drude evaluated it by another inappropriate application of classical statistical mechanics, setting c_v equal to 3/2 nk to find that
+
+Q = -(3/2e) (k_B) ≈ -0.43 × 10^-4 V K^-1 (1.60)
+
+Observed metallic thermopowers at room temperature are of the order of microvolts per degree, a factor of 100 smaller. This is the same error of 100 that appeared twice in Drude’s derivation of the Wiedemann-Franz law, but being now uncompensated, it offers unambiguous evidence of the inadequacy of classical statistical mechanics in describing the metallic electron gas.
+
+With the use of quantum statistical mechanics one removes this discrepancy. However, in some metals the sign of the thermopower—the direction of the thermoelectric field—is opposite to what the Drude model predicts. This is as mysterious as the discrepancies in the sign of the Hall coefficient. The quantum theory of solids can account for a sign reversal in the thermopower as well, but one’s sense of triumph is somewhat tempered in this case, for a really quantitative theory of the thermoelectric field is still lacking. We shall note in later discussions some of the peculiarities of this phenomenon that make it particularly difficult to calculate with precision.
+
+These last examples have made it clear that we cannot proceed very far with a free electron theory without a proper use of quantum statistics. This is the subject of Chapter 2.
+
+## PROBLEMS
+
+## 1. Poisson Distribution
+
+In the Drude model the probability of an electron suffering a collision in any infinitesimal interval dt is just dt/τ.
+
+(a) Show that an electron picked at random at a given moment had no collision during the preceding t seconds with probability e^(-t/τ). Show that it will have no collision during the next t seconds with the same probability.
+
+(b) Show that the probability that the time interval between two successive collisions of an electron falls in the range between t and t+dt is (dt/τ) e^(-t/τ).
+
+(c) Show as a consequence of (a) that at any moment the mean time back to the last collision (or up to the next collision) averaged over all electrons is τ.
+
+(d) Show as a consequence of (b) that the mean time between successive collisions of an electron is τ.
+
+(e) Part (c) implies that at any moment the time T between the last and next collision averaged over all electrons is 2τ. Explain why this is not inconsistent with the result in (d). (A thorough explanation should include a derivation of the probability distribution for T.) A failure to appreciate this subtlety led Drude to a conductivity only half of (1.6). He did not make the same mistake in the thermal conductivity, whence the factor of two in his calculation of the Lorenz number (see page 22).
+
+## 2. Joule Heating
+
+Consider a metal at uniform temperature in a static uniform electric field E. An electron experiences a collision, and then, after a time t, a second collision. In the Drude model, energy is not conserved in collisions, for the mean speed of an electron emerging from a collision does not depend on the energy that the electron acquired from the field since the time of the preceding collision (assumption 4, page 6).
+
+(a) Show that the average energy lost to the ions in the second of two collisions separated by a time t is (eEt)²/(2m). (The average is over all directions in which the electron emerged from the first collision.)
+
+(b) Show, using the result of Problem 1(b), that the average energy loss to the ions per electron per collision is (eEτ)²/(2m), and hence that the average loss per cubic centimeter per second is (ne²τ/m)E² ≡ σE². Deduce that the power loss in a wire of length L and cross section A is I²R, where I is the current flowing and R is the resistance of the wire.
+
+## 3. Thomson Effect
+
+Suppose that in addition to the applied electric field in Problem 2 there is also a uniform temperature gradient ∇T in the metal. Since an electron emerges from a collision at an energy determined by the local temperature, the energy lost in collisions will depend on how far down the temperature gradient the electron travels between collisions, as well as on how much energy it has gained from the electric field. Consequently the power lost will contain a term proportional to E·(∇T) (which is easily isolated from other terms since it is the only term in the second-order energy loss that changes sign when the sign of E is reversed). Show that this contribution is given in the Drude model by a term of order (neτ/m)(dE/dT)(E·∇T), where E is the mean thermal energy per electron. (Calculate the energy lost by a typical electron colliding at r, which made its last collision at r-d. Assuming a fixed (that is, energy-independent) relaxation time τ; d can be found to linear order in the field and temperature gradient by simple kinematic arguments, which is enough to give the energy loss to second order.)
+
+## 4. Helicon Waves
+
+Suppose that a metal is placed in a uniform magnetic field H along the z-axis. Let an AC electric field E e^{-iωt} be applied perpendicular to H.
+
+(a) If the electric field is circularly polarized (E_y = iE_x), show that Eq. (1.28) must be generalized to
+
+j_x = [σ / (1 - iωτ)] E_x; j_y = -i j_x; j_z = 0. (1.61)
+
+(b) Show that, in conjunction with (1.61), Maxwell’s equations (1.31) have a solution
+
+E_x = E_0 e^{i(kz - ωt)}; E_y = iE_x; E_z = 0; (1.62)
+
+provided that k²c² = ε(ω)ω², where
+
+ε(ω) = 1 - (ω_p² / ω²) [1 / (1 - i/ωτ)]. (1.63)
+
+(c) Sketch ε(ω) for ω > 0 (choosing the polarization E_y = iE_x) and demonstrate that solutions to k²c² = ε(ω)ω² exist for arbitrary k at frequencies ω > ω_p and ω < ω_p. (Assume the high field condition ωτ ≫ 1, and note that even for hundreds of kilogauss, ω_c/ω_p << 1.)
+
+(d) Show that when ω << ω_c the relation between k and ω for the low-frequency solution is
+
+k²c² ≈ ω_p² ω_c / ω. (1.64)
+
+This low-frequency wave, known as a helicon, has been observed in many metals.35 Estimate the helicon frequency if the wavelength is 1cm and the field is 10 kilogauss, at typical metallic densities.
+
+## 5. Surface Plasmons
+
+An electromagnetic wave that can propagate along the surface of a metal complicates the observation of ordinary (bulk) plasmons. Let the metal be contained in the half space z > 0; z < 0 being vacuum. Assume that the electric charge density ρ appearing in Maxwell’s equations vanishes both inside and outside the metal. (This does not preclude a surface charge density concentrated in the plane z = 0.) The surface plasmon is a solution to Maxwell’s equations of the form:
+
+E_x = A e^{i(qx - ωt)} e^{-Kz}; E_y = 0; E_z = B e^{i(qx - ωt)} e^{-Kz}; z > 0 E_x = C e^{i(qx - ωt)} e^{K₀z}; E_y = 0; E_z = D e^{i(qx - ωt)} e^{K₀z}; z < 0 (1.65)
+
+q, K, K₀ real; K, K₀ positive.
+
+(a) Assuming the usual boundary conditions (E tangential continuous, ∂(εE_z)/∂z continuous) and using the Drude results (1.35) and (1.29) find three equations relating q, K, and K₀ as functions of ω.
+
+(b) Assuming that ωτ ≫ 1, plot q²c² as a function of ω².
+
+(c) In the limit as q → ∞, show that there is a solution at frequency ω = ω_p/√2. Show from an examination of K and K₀ that the wave is confined to the surface. Describe its polarization. This wave is known as a surface plasmon.
+
+35R. Bowers et al., Phys. Rev. Letters 7, 339 (1961).
+
+In Drude's time, and for many years thereafter, it seemed reasonable to assume that the electronic velocity distribution, like that of an ordinary classical gas of density n = N/V, was given in equilibrium at temperature T by the Maxwell-Boltzmann distribution. This gives the numbers of electrons per unit volume with velocities in the range dv about v as f(v)dv, where
+
+f(v) = n (m / (2π kT))^{3/2} exp( - (mv^2) / (2kT) )  (2.1)
+
+We saw in Chapter 1 that in conjunction with the Drude model this leads to good order of magnitude agreement with the Wiedemann-Franz law, but also predicts a contribution to the specific heat of a metal of 3k_B/2 per electron that was not observed.2
+
+This paradox cast a shadow over the Drude model for a quarter of a century, which was only removed by the advent of the quantum theory and the recognition that for electrons3 the Pauli exclusion principle requires the replacement of the Maxwell-Boltzmann distribution (2.1) with the Fermi-Dirac distribution:
+
+f(v) = 1 / ( 4π^3 ħ^3 exp( (1/2 mv^2 - μ) / kT ) + 1 )  (2.2)
+
+Here ħ is Planck's constant divided by 2π, and μ is a chemical potential that is determined by the normalization condition4
+
+∫ n dv f(v) = n  (2.3)
+
+and is typically tens of thousands of degrees. At temperatures of interest (that is, less than 10^3 K) the Maxwell-Boltzmann and Fermi-Dirac distributions are spectacularly different at metallic electronic densities (Figure 2.1).
+
+In this chapter we shall describe the theory underlying the Fermi-Dirac distribution (2.2) and survey the consequences of Fermi-Dirac statistics for metallic electron gas.
+
+Shortly after the discovery that the Pauli exclusion principle was needed to account for the bound electronic states of atoms, Sommerfeld applied the same principle to the free electron gas of metals, and thereby resolved the most flagrant thermal anomalies of the early Drude model. In most applications Sommerfeld's model is nothing more than Drude's classical electron gas with the single modification that the electronic velocity distribution is taken to be the quantum Fermi-Dirac distribution rather than the classical Maxwell-Boltzmann distribution. To justify both use of the Fermi-Dirac distribution and its bold grafting onto an otherwise classical theory, we must examine the quantum theory of electron gas.5
+
+For simplicity we shall examine the ground state (i.e., T = 0) of the electron gas before studying it at nonzero temperatures. As it turns out the properties of the ground state are of considerable interest in themselves: we shall find that room temperature, for the electron gas at metallic densities, is a very low temperature indeed, for many purposes indistinguishable from T = 0. Thus many (though not all) of the electronic properties of a metal hardly differ from their values at T = 0, even at room temperature.
+
+GROUND-STATE PROPERTIES OF THE ELECTRON GAS
+
+We must calculate the ground-state properties of N electrons confined to a volume V. Because the electrons do not interact with one another (independent electron approximation) we can find the ground state of the N electron system by first finding the energy levels of a single electron in the volume V, and then filling these levels up in a manner consistent with the Pauli exclusion principle, which permits at most one electron to occupy any single electron level.6
+
+A single electron can be described by a wave function ψ(r) and the specification of which of two possible orientations its spin possesses. If the electron has no interactions, the one-electron wave function associated with a level of energy E satisfies the time-independent Schrödinger equation7:
+
+-ħ^2/(2m) (∂^2/∂x^2 + ∂^2/∂y^2 + ∂^2/∂z^2) ψ(r) = -ħ^2/(2m) ∇^2 ψ(r) = E ψ(r)  (2.4)
+
+We shall represent the confinement of the electron (by the attraction of the ions) to the volume V by a boundary condition on (2.4). The choice of boundary condition, whenever one is dealing with problems that are not explicitly concerned with effects of the metallic surface, is to a considerable degree at one's disposal and can be determined by mathematical convenience, for if the metal is sufficiently large we should expect its bulk properties to be unaffected by the detailed configuration of its surface.8 In this spirit we first select the shape of the metal to suit our analytic convenience. The time-honored choice is a cube9 of side L = V^{1/3}.
+
+Next we must append a boundary condition to the Schrödinger equation (2.4), reflecting the fact that the electron is confined to this cube. We also make this choice in the belief that it will not affect calculated bulk properties. One possibility is to require the wave function ψ(r) to vanish whenever r is on the surface of the cube. This, however, is often unsatisfactory, for it leads to standing-wave solutions of (2.4), while the transport of charge and energy by the electrons is far more conveniently discussed in terms of running waves. A more satisfactory choice is to emphasize the inconsequence of the surface by disposing of it altogether. We can do this by imagining each face of the cube to be joined to the face opposite it, so that an electron coming to the surface is not reflected back in, but leaves the metal, simultaneously reentering at a corresponding point on the opposite surface. Thus, if our metal were one-dimensional, we would simply replace the line from 0 to L to which the electron were confined, by a circle of circumference L. In three dimensions the geometrical embodiment of the boundary condition, in which the three pairs of opposite faces on the cube are joined, becomes topologically impossible to construct in three-dimensional space. Nevertheless, the analytic form of the boundary condition is easily generalized. In one dimension the circular model of a metal results in the boundary condition ψ(x + L) = ψ(x), and the generalization to a three-dimensional cube is evidently
+
+ψ(x + L, y, z) = ψ(x, y, z)
+
+ψ(x, y + L, z) = ψ(x, y, z)  (2.5)
+
+ψ(x, y, z + L) = ψ(x, y, z)
+
+Equation (2.5) is known as the Born-von Karman (or periodic) boundary condition. We shall encounter it often (sometimes in a slightly generalized form).
+
+We now solve (2.4) subject to the boundary condition (2.5). One can verify by differentiation that a solution, neglecting the boundary condition, is
+
+ψ_k(r) = e^{i k · r} / √V  (2.6)
+
+with energy
+
+E(k) = ħ^2 k^2 / (2m)  (2.7)
+
+where k is any position-independent vector. We have picked the normalization constant in (2.6) so that the probability of finding the electron somewhere in the whole volume V is unity:
+
+∫ |ψ(r)|^2 dr = 1  (2.8)
+
+To see the significance of the vector k, note that the level ψ(r) is an eigenstate of the momentum operator
+
+p = -i ħ ∇; p_x = -i ħ ∂/∂x; etc.  (2.9)
+
+with eigenvalue p = ħ k:
+
+-i ħ ∇ e^{i k · r} = ħ k e^{i k · r}  (2.10)
+
+Since a particle in an eigenstate of an operator has a definite value of the corresponding observable given by the eigenvalue, an electron in the level ψ(r) has a definite momentum proportional to k:
+
+p = ħ k  (2.11)
+
+and a velocity v = p/m of
+
+v = ħ k / m  (2.12)
+
+In view of this the energy (2.7) can be written in the familiar classical form:
+
+E = p^2 / (2m) = r = constant) and it is periodic along lines parallel to k with wavelength $\lambda = 2\pi / |k|$ (2.14)
+
+known as the de Broglie wavelength.
+
+We now invoke the boundary condition (2.5). This permits only certain discrete values of k, since (2.5) will be satisfied by the general wave function (2.6) only if $e^{ik_x L} e^{ik_y L} e^{ik_z L} = 1$ (2.15)
+
+Since $e^{i\theta} = 1$ only if $\theta = 2\pi i n$, where n is an integer,¹⁰ the components of the wave vector k must be of the form: $k_x = 2\pi n_x / L; \quad k_y = 2\pi n_y / L; \quad k_z = 2\pi n_z / L; \quad n_x, n_y, n_z \text{ integers}$ (2.16)
+
+Thus in a three-dimensional space with Cartesian axes $k_x$, $k_y$ and $k_z$ (known as k-space) the allowed wave vectors are those whose coordinates along the three axes are given by integral multiples of $2\pi/L$. This is illustrated (in two dimensions) in Figure 2.2.
+
+Generally the only practical use one makes of the quantization condition (2.16) is this: One often needs to know how many allowed values of k are contained in a region of k-space that is enormous on the scale of $2\pi/L$, and that therefore contains a vast number of allowed points. If the region is very large,¹¹ then to an excellent approximation the number of allowed points is just the volume of k-space contained within the region, divided by the volume of k-space per point in the network of allowed values of k. That latter volume (see Figure 2.2) is just $(2\pi/L)^3$. We therefore conclude that a region of k-space of volume $\Omega$ will contain $\frac{\Omega}{(2\pi/L)^3} = \frac{\Omega V}{8\pi^3}$ (2.17)
+
+allowed values of k, or, equivalently, that the number of allowed k-values per unit volume of k-space (also known as the k-space density of levels) is just $1 / (8\pi^3 / V) = V / 8\pi^3$ (2.18)
+
+In practice we shall deal with k-space regions so large ($\gtrsim 10^{22}$ points) and so regular (typical spheres) that to all intents and purposes (2.17) and (2.18) can be regarded as exact. We shall
+
+¹⁰ We shall always use the word "integer" to mean the negative integers and zero, as well as the positive integers.
+
+¹¹ And not too irregularly shaped: only a negligible fraction of the points should be within $O(2\pi/L)$ of the surface.
+
+Figure 2.2 Points in a two-dimensional k-space of the form $k_x = 2\pi n_x / L; k_y = 2\pi n_y / L$. Note that the area per point is just $(2\pi/L)^2$. In d dimensions the volume per point is $(2\pi/L)^d$.
+
+begin to apply these important counting formulas shortly.
+
+Because we assume the electrons are noninteracting we can build up the N-electron ground state by placing electrons into the allowed one-electron levels we have just found. The Pauli exclusion principle plays a vital role in this construction (as it does in building up the states of many electron atoms): we may place at most one electron in each single electron level. The one-electron levels are specified by the wave vectors k and by the projection of the electron's spin along an arbitrary axis, which can take either of the two values $\hbar/2$ or $-\hbar/2$. Therefore associated with each allowed wave vector k are two electronic levels, one for each direction of the electron's spin.
+
+Thus in building up the N-electron ground state we begin by placing two electrons in the one-electron level k = 0, which has the lowest possible one-electron energy E = 0. We then continue to add electrons, successively filling the one-electron levels of lowest energy that are not already occupied. Since the energy of a one-electron level is directly proportional to the square of its wave vector (see (2.7)), when N is enormous the occupied region will be indistinguishable from a sphere.¹² The radius of this sphere is called $k_F$ (F for Fermi), and its volume $\Omega$ is $4\pi k_F^3/3$. According to (2.17) the number of allowed values of k within the sphere is $\frac{4\pi k_F^3/3}{8\pi^3 / V} = V \frac{k_F^3}{6\pi^2}$ (2.19)
+
+Since each allowed k-value leads to two one-electron levels (one for each spin value), in order to accommodate N electrons we must have $N = 2 \times V \frac{k_F^3}{6\pi^2} = V \frac{k_F^3}{3\pi^2}$ (2.20)
+
+Thus if we have N electrons in a volume V (i.e., an electron density n = N/V), then the ground state of the N-electron system is formed by occupying all single-particle levels with k less than $k_F$, and leaving all those with k greater than $k_F$ unoccupied, where $k_F$ is given by the condition: $n = \frac{k_F^3}{3\pi^2}$ (2.21)
+
+¹² If it were not spherical it would not be the ground state, for we could then construct a state of lower energy by moving the electrons in the levels farthest away from k = 0 into unoccupied levels close to the origin.
+
+This free and independent electron ground state is described by some rather unimaginative nomenclature: The sphere of radius $k_F$ (the Fermi wave vector) containing the occupied one-electron levels is called the Fermi sphere.
+
+The surface of the Fermi sphere, which separates the occupied from the unoccupied levels is called the Fermi surface. (We shall see, starting with Chapter 8, that the Fermi surface is one of the fundamental constructions in the modern theory of metals; in general it is not spherical.)
+
+The momentum $p_F = \hbar k_F$ of the occupied one-electron levels of highest energy is known as the Fermi momentum; their energy, $E_F = \hbar^2 k_F^2 / 2m$ is the Fermi energy; and their velocity, $v_F = p_F / m$, is the Fermi velocity. The Fermi velocity plays a role in the theory of metals comparable to the thermal velocity, $v_{th} \sim (3k_B T / m)^{1/2}$, in a classical gas.
+
+All these quantities can be evaluated in terms of the conduction electron density, via Eq. (2.21). For estimating them numerically it is often more convenient to express them in terms of the dimensionless parameter $r_s = a / a_0$ (see page 4), which varies from about 2 to 6 in the metallic elements. Taken together, Eqs. (1.2) and (2.21) give $k_F = (9\pi/4)^{1/3} / r_s \approx 1.92 / r_s$ (2.22)
+
+or $k_F \approx 3.63 / (r_s = a_0) \, \text{Å}^{-1}$ (2.23)
+
+Since the Fermi wave vector is of the order of inverse angstroms, the de Broglie wavelength of the most energetic electrons is of the order of angstroms.
+
+The Fermi velocity is $v_F = \hbar k_F / m \approx 4.20 / (r_s = a_0) \times 10^8 \, \text{cm/sec}$ (2.24)
+
+This is a substantial velocity (about 1 percent of the velocity of light). From the viewpoint of classical statistical mechanics this is quite a surprising result, for we are describing the ground state (T = 0), and all particles in a classical gas have zero velocity at T = 0. Even at room temperature the thermal (i.e., average) velocity for a classical particle with the electronic mass is only of order $10^7$ cm s$^{-1}$.
+
+The Fermi energy is conveniently written in the form (since $a = \hbar^2 / me^2$)
+
+$E_F = \frac{\hbar^2 k_F^2}{2m} = \frac{e^2}{2a} (k_F a_0)^2$ (2.25)
+
+Here $e^2 / 2a_0$, known as the rydberg (Ry), is the ground-state binding energy of the hydrogen atom, 13.6 eV.¹³ The rydberg is as convenient a unit of atomic energies as the Bohr radius is of atomic distances. Since $k_F a_0$ is of the order of unity, (2.25) demonstrates that the Fermi energy has the magnitude of a typical atomic binding energy. Using (2.23) and $a_0 = 0.529 \times 10^{-8}$ cm, we find the explicit numerical form: $E_F = \frac{50.1 \, \text{eV}}{(r_s / a_0)^2}$ (2.26)
+
+indicating a range of Fermi energies for the densities of metallic elements between 1.5 and 15 eV. Table 2.1 lists the Fermi energy, velocity, and wave vector for the metals whose conduction electron densities are given in Table 1.1.
+
+To calculate the ground-state energy of N electrons in a volume V we must add up the energies of all the one-electron levels inside the Fermi sphere¹⁴: $E = 2 \sum_{k<k_F} \frac{\hbar^2 k^2}{2m}$ (2.27)
+
+Quite generally, in summing any smooth function F(k) over all allowed values of k, one may proceed as follows: Because the volume of k-space per allowed k is $\Delta k = 8\pi^3 / V$ (see (2.18)) it is convenient to write $\sum_k F(k) = \sum_k F(k) \Delta k \frac{1}{8\pi^3}$ (2.28)
+
+or in the limit as $\Delta k \to 0$ (i.e., $V \to \infty$) the sum $F(k) \Delta k$ approaches the integral $\int dk F(k)$, provided only that F(k) does not vary appreciably¹⁵ over distances in k-space of order $2\pi/L$. We may therefore rearrange (2.28) and write $\lim_{V \to \infty} \frac{1}{V} \sum_k F(k) = \frac{1}{8\pi^3} \int dk F(k)$ (2.29)
+
+In applying (2.29) to finite, but macroscopically large, systems one always assumes that $(1/V) \sum_k F(k)$ differs negligibly from its infinite volume limit (for example, one assumes that the electronic energy per unit volume in a 1 cm cube of copper is the same as in a 2 cm cube).
+
+Using (2.29) to evaluate (2.27), we find that the energy density of the electron gas is: $\frac{E}{V} = \frac{1}{4\pi^3} \int_{k<k_F} dk \frac{\hbar^2 k^2}{2m} = \frac{\hbar^2}{\pi^2 10m} k_F^5$ (2.30)
+
+To find the energy per electron, E/N, in the ground state, we must divide this by N/V = $k_F^3 / 3\pi^2$, which gives $\frac{E}{N} = \frac{3}{10} \frac{\hbar^2 k_F^2}{m} = \frac{3}{5} E_F$ (2.31)
+
+We can also write this result as $\frac{E}{N} = \frac{3}{5} k_B T_F$ (2.32)
+
+¹⁴ The factor of 2 is for the two spin levels allowed for each k.
+
+¹⁵ The most celebrated case in which F fails to satisfy this condition is the condensation of the ideal Bose gas. In applications to metals the problem never arises.
+
+where $T_F$, the Fermi temperature, is $T_F = \frac{E_F}{k_B} = \frac{58.2 \times 10^4 \, \text{K}}{(r_s / a_0)^2}$ (2.33)
+
+Note, in contrast to this, that the energy per electron in a classical ideal gas, $\frac{3}{2} k_B T$, vanishes at T = 0 and achieves as large as (2.32) only at $T = \frac{2}{5} T_F \sim 10^4$ K.
+
+Given the ground-state energy E, one can calculate the pressure exerted by the electron gas from the relation $P = -(\partial E / \partial V)_N$. Since $E = \frac{3}{5} N E_F$ and $E_F$ is proportional to $k_F^2$, which depends on V only through a factor $n^{2/3} = (N/V)^{2/3}$, it follows that¹⁶ $P = \frac{2E}{3V}$ (2.34)
+
+¹⁶ See footnote on page 35.
+
+Table 2.1 FERMI ENERGIES, FERMI TEMPERATURES, FERMI WAVE VECTORS, AND FERMI VELOCITIES FOR REPRESENTATIVE METALSᵃ | ELEMENT | $r_s / a_0$ | $E_F$ (eV) | $T_F$ ($10^4$ K) | $k_F$ ($10^8$ cm$^{-1}$) | $v_F$ ($10^8$ cm s$^{-1}$) | | :--- | :--- | :--- | :--- | :--- | :--- | | Li | 3.25 | 4.74 | 5.51 | 1.12 | 1.29 | | Na | 3.93 | 3.24 | 3.77 | 0.92 | 1.07 | | K | 4.86 | 2.12 | 2.46 | 0.75 | 0.86 | | Rb | 5.20 | 1.85 | 2.15 | 0.70 | 0.81 | | Cs | 5.62 | 1.59 | 1.84 | 0.65 | 0.75 | | Cu | 2.67 | 7.00 | 8.16 | 1.36 | 1.57 | | Ag | 3.02 | 5.49 | 6.38 | 1.20 | 1.39 | | Au | 3.01 | 5.53 | 6.42 | 1.21 | 1.40 | | Be | 1.87 | 14.3 | 16.6 | 1.94 | 2.25 | | Mg | 2.66 | 7.08 | 8.23 | 1.36 | 1.58 | | Ca | 3.27 | 4.69 | 5.44 | 1.11 | 1.28 | | Sr | 3.57 | 3.93 | 4.57 | 1.02 | 1.18 | | Ba | 3.71 | 3.64 | 4.23 | 0.98 | 1.13 | | Nb | 3.07 | 5.32 | 6.18 | 1.18 | 1.37 | | Fe | 2.12 | 11.0 | 12.8 | 1.71 | 1.98 |
+
+ᵃ Values for the polyvalent elements are based on the density of conduction electrons given in Table 1.1. For the transition elements this includes only the s electrons.
+
+11:1 13:0 1:71 1:98 Mn 2.14 10:9 12:7 1:70 1:96 Zn 2.30 9:47 11:0 1:58 1:83 Cd 2.59 7:47 8:68 1:40 1:62 Hg 2.65 7:13 8:29 1:37 1:58 Al 2.07 11:7 13:6 1:75 2:03 Ga 2.19 10:4 12:1 1:66 1:92 In 2.41 8:63 10:0 1:51 1:74 Tl 2.48 8:15 9:46 1:46 1:69 Sn 2.22 10:2 11:8 1:64 1:90 Pb 2.30 9:47 11:0 1:58 1:83 Bi 2.25 9:90 11:5 1:61 1:87 Sb 2.14 10:9 12:7 1:70 1:96
+
+The table entries are calculated from the values of r = a₀ given in Table 1.1 using m = 9.11 × 10⁻²⁸ g.
+
+At non-zero temperature the pressure and energy density continue to obey this relation. See (2.101).
+
+Table 2.2 BULK MODULI IN 10¹⁰ DYNES CM⁻² FOR SOME TYPICAL METALS<sup>a</sup>
+
+## METAL FREE ELECTRON B MEASURED B
+
+Li 23.9 11.5 Na 9.23 6.42 K 3.19 2.81 Rb 2.28 1.92 Cs 1.54 1.43 Cu 63.8 134.3 Ag 34.5 99.9 Al 228 76.0 <sup>a</sup> The free electron value is that for a free electron gas at the observed density of the metal, as calculated from Eq. (2.37).
+
+One can also calculate the compressibility, K, or bulk modulus, B = 1/K, defined by: B = -V (∂P/∂V) (2.35)
+
+Since E is proportional to V⁻²/₃, Eq. (2.34) shows that P varies as V⁻⁵/₃, and therefore B = -5/3 P = 10E/9V = 2/3 nE (2.36)
+
+or B = (6.13 / r = a₀)²/³ × 10¹⁰ dynes cm⁻² (2.37)
+
+In Table 2.2 we compare the free electron bulk moduli (2.37) calculated from r = a₀, with the measured bulk moduli, for several metals. The agreement for the heavier alkali metals is fortuitously good, but even when (2.37) is substantially off, as it is in the noble metals, it is still of about the right order of magnitude (though it varies from three times too large to three times too small, through the table). It is absurd to expect that the free electron gas pressure alone should completely determine the resistance of a metal to compression, but Table 2.2 demonstrates that this pressure is at least as important as any other effects.
+
+THERMAL PROPERTIES OF THE FREE ELECTRON GAS: THE FERMI-DIRAC DISTRIBUTION When the temperature is not zero it is necessary to examine the excited states of the N-electron system as well as its ground state, for according to the basic principles of statistical mechanics, if an N-particle system is in thermal equilibrium at temperature T, then its properties should be calculated by averaging over all N-particle stationary states, assigning to each state of energy E<sub>N</sub> a weight P(E<sub>N</sub>) proportional to e<sup>-E<sub>N</sub>/k<sub>B</sub>T</sup>: P(E<sub>N</sub>) = e<sup>-E<sub>N</sub>/k<sub>B</sub>T</sup> / Σ<sub>ℵ</sub> e<sup>-E<sub>ℵ</sub>/k<sub>B</sub>T</sup> (2.38)
+
+(Here E<sub>ℵ</sub> is the energy of the ℵth stationary state of the N-electron system, the sum being over all such states.)
+
+The denominator of (2.38) is known as the partition function, and is related to the Helmholtz free energy, F = U - TS (where U is the internal energy and S, the entropy) by Σ<sub>ℵ</sub> e<sup>-E<sub>ℵ</sub>/k<sub>B</sub>T</sup> = e<sup>-F<sub>N</sub>/k<sub>B</sub>T</sup> (2.39)
+
+We can therefore write (2.38) more compactly as: P(E<sub>N</sub>) = e<sup>-(E<sub>N</sub> - F<sub>N</sub>)/k<sub>B</sub>T</sup> (2.40)
+
+Because of the exclusion principle, to construct an N-electron state one must fill N different one-electron levels. Thus each N-electron stationary state can be specified by listing which of the N one-electron levels are filled in that state. A very useful quantity to know is f<sub>N</sub><sup>i</sup>, the probability of there being an electron in the particular one-electron level i, when the N-electron system is in thermal equilibrium.<sup>17</sup> This probability is simply the sum of the independent probabilities of finding the N-electron system in any one of those N-electron states in which the ith level is occupied: f<sub>N</sub><sup>i</sup> = Σ<sub>ℵ</sub> (summation over all N-electron states ℵ in which there is an electron in the one-electron level i) P(E<sub>N</sub><sup>ℵ</sup>) (2.41)
+
+We can evaluate f<sub>N</sub><sup>i</sup> by the following three observations: 1. Since the probability of an electron being in the level i is just one minus the probability of no electron being in the level i (those being the only two possibilities allowed by the exclusion principle) we could equally well write (2.41) as f<sub>N</sub><sup>i</sup> = 1 - Σ<sub>ℵ</sub> (summation over all N-electron states ℵ in which there is no electron in the one-electron level i) P(E<sub>N</sub><sup>ℵ</sup>) (2.42)
+
+2. By taking any (N-1)-electron state in which there is an electron in the one-electron level i, we can construct an N-electron state in which there is no electron in the level i, by simply removing the electron in the i th level, leaving the occupation of all the other levels unaltered. Furthermore, any N-electron state with no electron in the one-electron level i can be so constructed from just one (N-1)-electron state with an electron in the level i.<sup>18</sup> Evidently the energies of any N-electron state and the corresponding (N-1)-electron state differ by just ε<sub>i</sub>, the energy of the only one-electron level whose occupation is different in the two states. Thus the set of energies of all N-electron states with the level i unoccupied is the same as the set of energies of all (N-1)-electron states with the level i occupied, provided that each energy in the latter set is reduced by ε<sub>i</sub>. We can therefore rewrite (2.42) in the peculiar form f<sub>N</sub><sup>i</sup> = 1 - e<sup>-(ε<sub>i</sub> - μ)/k<sub>B</sub>T</sup> Σ<sub>ℵ</sub> (summation over all (N-1)-electron states ℵ in which there is an electron in the one-electron level i) P(E<sub>N-1</sub><sup>ℵ</sup>) (2.46)
+
+But Eq. (2.40) permits us to write the summand as P(E<sub>N-1</sub><sup>ℵ</sup>) = e<sup>-(ε<sub>i</sub> - μ)/k<sub>B</sub>T</sup> P(E<sub>N-1</sub><sup>ℵ</sup>) (2.44)
+
+where μ, known as the chemical potential, is given at temperature T by μ = F<sub>N+1</sub> - F<sub>N</sub> (2.45)
+
+Comparing the summation in (2.46) with that in (2.41) one finds that (2.46) simply asserts that f<sub>N</sub><sup>i</sup> = e<sup>-(ε<sub>i</sub> - μ)/k<sub>B</sub>T</sup> f<sub>N-1</sub><sup>i</sup> (2.47)
+
+3. Equation (2.47) gives an exact relation between the probability of the one-electron level i being occupied at temperature T in an N-electron system, and in an (N-1)-electron system. When N is very large (and we are typically interested in N of the order of 10<sup>22</sup>) it is absurd to imagine that by the addition of a single extra electron we could appreciably alter this probability for more than an insignificant handful of one-electron levels.<sup>19</sup> We may therefore replace f<sub>N-1</sub><sup>i</sup> by f<sub>N</sub><sup>i</sup> in (2.47), which makes it possible to solve for f<sub>N</sub><sup>i</sup>: f<sub>N</sub><sup>i</sup> = 1 / [e<sup>(ε<sub>i</sub> - μ)/k<sub>B</sub>T</sup> + 1] (2.48)
+
+In subsequent formulas we shall drop the explicit reference to the N dependence of f<sub>i</sub>, which is, in any event, carried through the chemical potential μ; see (2.45). The value of N can always be computed, given the f<sub>i</sub>, by noting that f<sub>i</sub> is the mean number of electrons in the one-electron level i<sup>20</sup>. Since the total number of electrons N is just the sum over all levels of the mean number in each level, N = Σ<sub>i</sub> f<sub>i</sub> = Σ<sub>i</sub> 1 / [e<sup>(ε<sub>i</sub> - μ)/k<sub>B</sub>T</sup> + 1] (2.49)
+
+which determines N as a function of the temperature T and chemical potential μ. In many applications, however, it is the temperature and N (or rather the density, n = N/V) that are given. In such cases (2.49) is used to determine the chemical potential μ as a function of n and T, permitting it to be eliminated from subsequent formulas in favor of the temperature and density. However the chemical potential is of considerable thermodynamic interest in its own right. Some of its important properties are summarized in Appendix B.<sup>21</sup>
+
+THERMAL PROPERTIES OF THE FREE ELECTRON GAS: APPLICATIONS OF THE FERMI-DIRAC DISTRIBUTION In a gas of free and independent electrons the one-electron levels are specified by the wave vector k and spin quantum numbers, with energies that are independent of s (in the absence of a magnetic field) and given by Eq. (2.7); i.e., ε(k) = ħ²k² / 2m (2.50)
+
+We first verify that the distribution function (2.49) is consistent with the ground-state (T = 0) properties derived above. In the ground state those and only those levels are occupied with ε(k) ≤ E; so the ground-state distribution function must be f<sub>ks</sub> = 1; ε(k) < E 0; ε(k) > E (2.51)
+
+On the other hand, as T → 0, the limiting form of the Fermi-Dirac distribution (2.48) is lim<sub>T→0</sub> f<sub>ks</sub> = 1; ε(k) < μ 0; ε(k) > μ (2.52)
+
+For these to be consistent it is necessary that lim<sub>T→0</sub> μ = E (2.53)
+
+We shall see shortly that for metals the chemical potential remains equal to the Fermi energy to a high degree of precision, all the way up to room temperature. As a result, people frequently fail to make any distinction between the two when dealing with metals. This, however, can be dangerously misleading. In precise calculations it is essential to keep track of the extent to which μ, the chemical potential, differs from its zero temperature value, E.
+
+The most important single application of Fermi-Dirac statistics is the calculation of the electronic contribution to the constant-volume specific heat of a metal, c<sub>v</sub> = (1/V) (dS/dT)<sub>V</sub> = (∂u/∂T)<sub>V</sub> = U/V (2.54)
+
+In the independent electron approximation the internal energy U is just the sum over one-electron levels of ε(k) times the mean number of electrons in the level<sup>22</sup>: U = 2 Σ<sub>k</sub> ε(k)f(ε(k)) (2.55)
+
+We have introduced the Fermi function f(ε) to emphasize that f depends on k only through the electronic energy ε(k): f(ε) = 1 / [e<sup>(ε - μ)/k<sub>B</sub>T</sup> + 1] (2.56)
+
+If we divide both sides of (2.5 5) by the volume V, then (2.29) permits us to write the energy density
+
+22 As usual, the factor of 2 reflects the fact that each k-level can contain two electrons of opposite spin orientations.
+
+\( u = \frac{U}{V} = \int \frac{d^3k}{4\pi^3} \, \mathcal{E}(k) f(\mathcal{E}(k)) \)   (2.57)
+
+If we also divide both sides of (2.49) by V, then we can supplement (2.57) by an equation for the electronic density \( n = N/V \), and use it to eliminate the chemical potential:
+
+\( n = \int \frac{d^3k}{4\pi^3} \, f(\mathcal{E}(k)) \)   (2.58)
+
+In evaluating integrals like (2.57) and (2.58) of the form
+
+\( \int \frac{d^3k}{4\pi^3} \, \mathcal{F}(\mathcal{E}(k)) \)   (2.59)
+
+one often exploits the fact that the integrand depends on k only through the electronic energy \( \mathcal{E} = k^2 / 2m \), by evaluating the integral in spherical coordinates and changing variables from \( \mathcal{E} \) to E:
+
+\( \int \frac{d^3k}{4\pi^3} \, \mathcal{F}(\mathcal{E}(k)) = \frac{1}{\pi^2} \int_0^\infty k^2 dk \, \mathcal{F}(\mathcal{E}(k)) = \frac{1}{2\pi^2} \int_0^\infty (2mE)^{1/2} \, \mathcal{F}(E) \, g(E) \, dE \)   (2.60)
+
+Here
+
+\( g(E) = \begin{cases} \frac{(2m)^{3/2}}{2\pi^2} E^{1/2}, & E > 0 \\ 0, & E < 0.
+
+\end{cases} \)   (2.61)
+
+Since the integral (2.59) is an evaluation of \( (1/V) \int d^3k \, \mathcal{F}(\mathcal{E}(k)) \), the form in (2.60) shows that
+
+\( g(E) \, dE = \frac{1}{V} \times (\text{the number of one-electron levels in the energy range from E to } E + dE) \)   (2.62)
+
+For this reason \( g(E) \) is known as the density of levels per unit volume (or often simply as the density of levels). A dimensionally more transparent way of writing \( g(E) \) is
+
+\( g(E) = \begin{cases} \frac{3}{2} \frac{n}{E_F} \left( \frac{E}{E_F} \right)^{1/2}, & E > 0 \\ 0, & E < 0, \end{cases} \)   (2.63)
+
+where \( E_F \) and \( k_F \) are defined by the zero-temperature equations (2.21) and (2.25). A quantity of particular numerical importance is the density of levels at the Fermi energy, which (2.61) and (2.63) give in either of the two equivalent forms:
+
+\( g(E_F) = \frac{m k_F}{2\pi^2} \)   (2.64)
+
+or
+
+\( g(E_F) = \frac{3}{2} \frac{n}{E_F} \)   (2.65)
+
+Using this notation, we rewrite (2.57) and (2.58) as:
+
+\( u = \int_{-\infty}^\infty dE \, g(E) \, E \, f(E) \)   (2.66)
+
+and
+
+\( n = \int_{-\infty}^\infty dE \, g(E) \, f(E) \)   (2.67)
+
+We do this both for notational simplicity and because in this form the free electron approximation enters only through the particular evaluation (2.60) or (2.63) of the density of levels \( g(E) \). We can define a density of levels, via (2.62), in terms of which (2.66) and (2.67) remain valid for any set of noninteracting (that is, independent) electrons.23 Thus we shall later be able to apply results deduced from (2.66) and (2.67) to considerably more sophisticated models of independent electrons in metals.
+
+In general, the integrals (2.66) and (2.67) have a rather complex structure. There is, however, a simple systematic expansion that exploits the fact that at almost all temperatures of interest in metals, T is very much smaller than the Fermi temperature \( T_F \) (2.63). In Figure 2.3 the Fermi function \( f(E) \) is plotted at T = 0 and at room temperature for typical metallic densities (\( k_BT/E_F \approx 0.01 \)). Evidently f differs from its zero temperature form only in a small region about \( E_F \) of width a few \( k_BT \). Thus the way in which integrals of the form \( \int_{-\infty}^\infty H(E) f(E) dE \) differ from their zero temperature values, \( \int_{-\infty}^{E_F} H(E) dE \), will be entirely determined by the form of \( H(E) \) near \( E_F \). If \( H(E) \) does not vary rapidly in the energy range of the order of \( k_BT \) about \( E_F \), the temperature dependence of the integral should be given quite accurately by replacing \( H(E) \) by the first few terms in its Taylor expansion about \( E_F \):
+
+\( H(E) = \sum_{n=0}^\infty \frac{(E - E_F)^n}{n!} \left. \frac{d^n H}{dE^n} \right|_{E=E_F} \)   (2.68)
+
+This procedure is carried out in Appendix C. The result is a series of the form:
+
+\( \int_{-\infty}^\infty H(E) f(E) dE = \int_{-\infty}^{E_F} H(E) dE + \sum_{n=1}^\infty \frac{1}{n!} a_n (k_B T)^{2n} \left. \frac{d^{2n-1} H}{dE^{2n-1}} \right|_{E=E_F} \)   (2.69)
+
+which is known as the Sommerfeld expansion.24 The \( a_n \) are dimensionless constants of the order of unity. The functions \( H \) one typically encounters have major variations on an energy scale of the order of \( E_F \), and generally \( |d^n H / dE^n| \) is of the order of \( |H(E_F)| / E_F^n \). When this is the case, successive terms in the Sommerfeld expansion are smaller by \( O((k_BT/E_F)^2) \), which is \( O(10^{-4}) \) at room temperature. Consequently, in actual calculations only the first and (very occasionally) the second terms are retained in the sum in (2.69). The explicit form for these is (Appendix C):
+
+\( \int_{-\infty}^\infty H(E) f(E) dE = \int_{-\infty}^{E_F} H(E) dE + \frac{\pi^2}{6} (k_BT)^2 H'(E_F) + \frac{7\pi^4}{360} (k_BT)^4 H'''(E_F) + O\left( \left( \frac{k_BT}{E_F} \right)^6 \right) \)   (2.70)
+
+To evaluate the specific heat of a metal at temperatures small compared with \( T_F \) we apply the Sommerfeld expansion (2.70) to the electronic energy and number densities (Eqs. (2.66) and (2.67)):
+
+\( u = \int_0^\mu g(E) \, E \, dE + \frac{\pi^2}{6} (k_BT)^2 \left[ 2 \mu g'(\mu) + g(\mu) \right] + O(T^4); \)   (2.71)
+
+\( n = \int_0^\mu g(E) \, dE + \frac{\pi^2}{6} (k_BT)^2 g'(\mu) + O(T^4); \)   (2.72)
+
+Equation (2.72) as we shall presently see in detail, implies that \( \mu \) differs from its T = 0 value, \( E_F \), by terms of order \( T^2 \). Thus, correctly to order \( T^2 \), we may write
+
+\( \int_0^\mu H(E) dE = \int_0^{E_F} H(E) dE + (\mu - E_F) H(E_F) \)   (2.73)
+
+If we apply this expansion to the integrals in (2.71) and (2.72), and replace \( \mu \) by \( E_F \) in the terms already of order \( T^2 \) in these equations, we find
+
+\( u = \int_0^{E_F} g(E) \, E \, dE + (\mu - E_F) \, g(E_F) \, E_F + \frac{\pi^2}{6} (k_BT)^2 g'(E_F) E_F \)
+
+\( + \frac{\pi^2}{6} (k_BT)^2 g(E_F) + O(T^4); \)   (2.74)
+
+\( n = \int_0^{E_F} g(E) \, dE + (\mu - E_F) \, g(E_F) + \frac{\pi^2}{6} (k_BT)^2 g'(E_F) + O(T^4). \)   (2.75)
+
+The temperature-independent first terms on the right sides of (2.74) and (2.75) are just the values of u and n in the ground state. Since we are calculating the specific heat at constant density, n is independent of temperature, and (2.75) reduces to
+
+\( 0 = (\mu - E_F) g(E_F) + \frac{\pi^2}{6} (k_BT)^2 g'(E_F) \)   (2.76)
+
+which determines the deviation of the chemical potential from \( E_F \):
+
+\( \mu = E_F - \frac{\pi^2}{6} (k_BT)^2 \frac{g'(E_F)}{g(E_F)} \)   (2.77)
+
+Since for free electrons \( g(E) \) varies as \( E^{1/2} \) (see Eq. (2.63)), this gives
+
+\( \mu = E_F \left[ 1 - \frac{1}{3} \left( \frac{\pi k_B T}{2 E_F} \right)^2 \right] \)   (2.78)
+
+which is, as we asserted above, a shift of the order of \( T^2 \) and typically only about 0.01 percent, even at room temperature.
+
+Equation (2.76) sets the term in braces in (2.74) equal to zero, thereby simplifying the form of the thermal energy density at constant electronic density:
+
+\( u = u_0 + \frac{\pi^2}{6} (k_BT)^2 g(E_F) \)   (2.79)
+
+where \( u_0 \) is the energy density in the ground state. The specific heat of the electron gas is therefore
+
+\( c_v = \left( \frac{\partial u}{\partial T} \right) = \frac{\pi^2}{3} k_B^2 T g(E_F) \)   (2.80)
+
+or, for free electrons (see (2.65)),
+
+\( c_v = \frac{\pi^2}{2} n k_B \left( \frac{k_B T}{E_F} \right) \)   (2.81)
+
+Comparing this with the classical result for an ideal gas, \( c_v = 3nk_B/2 \), we see that the effect of Fermi-Dirac statistics is to depress the specific heat by a factor of \( (\pi^2/3)(k_BT/E_F) \), which is proportional to the temperature, and even at room temperature is only of order \( 10^{-2} \). This explains the absence of any observable contribution of the electronic degrees of freedom to the specific heat of a metal at room temperature.
+
+If one is willing to dispense with the precise numerical coefficient, one can understand this behavior of the specific heat quite simply from the temperature dependence of the Fermi function itself. The increase in energy of the electrons when the temperature is raised from T = 0 comes about entirely because some electrons with energies within \( O(k_BT) \) below \( E_F \) (the darkly shaded region of Figure 2.4) have been excited to an energy range of \( O(k_BT) \) above \( E_F \) (the lightly shaded region of Figure 2.4). The number of electrons per unit volume that have been so excited is the width, \( k_BT \), of the energy interval times the density of levels per unit volume \( g(E_F) \). Furthermore, the excitation energy is of order \( k_BT \), and hence the total thermal energy density is of order \( g(E_F)(k_BT)^2 \) above the ground-state energy. This misses the precise result (2.79) by a factor of \( \pi^2/6 \), but it gives a simple physical picture, and is useful for rough estimates.
+
+The prediction of a linear specific heat is one of the most important consequences of Fermi-Dirac statistics, and provides a further simple test of the electron gas theory of a metal, provided one can be sure that degrees of freedom other than the electronic ones do not make comparable or even bigger contributions. As it happens, the ionic degrees of freedom completely dominate the specific heat at room temperature. This can be seen from Table 2.3, which compares the measured electronic specific heat coefficient \( \gamma \) with the value predicted by the simple free electron theory. For most metals the ratio of the measured \( \gamma \) to the free electron value is of order unity (and almost always less than 3). For the transition metals, however, the measured values can exceed the free electron values by an order of magnitude or more.
+
+the index entries under “effective mass.”) the specific heat at high temperatures. However, well below room temperature their contribution falls off as the cube of the temperature (Chapter 23), and at very low temperatures it drops below the electronic contribution, which only decreases linearly with T. In order to separate out these Figure 2.4 f The Fermi function at nonzero T. The distribu- 1:0 tion differs from its T 0 form because some electrons just below E (darkly shaded region) have been excited to levels just above E (lightly shaded region). .(cid:129)E(cid:25)kBT/ 46 Chapter2 The Sommerfeld Theory of Metals two contributions it has become the practice to plot c =T against T2, for if the electronic and ionic contributions together result in the low-temperature form, c (cid:13)T AT3 (2.82) D C then v (cid:13) AT2 (2.83) T D C One can thus find (cid:13) by extrapolating the c =T curve linearly down to T2 0, and noting where it intercepts the c =T-axis. Measured metallic specific heats typically contain a linear term that becomes comparable to the cubic one at a few degrees Kelvin.25 Specific heat data are usually quoted in joules (or calories) per mole per degree Kelvin. since a mole of free electron metal contains ZN conduction electrons (where Z is the valence and N is Avogadro’s number) and occupies a volume ZN =n, we must multiply the heat capacity per unit volume, c by ZN =n, in order to get the heat capacity per mole, C: v A A (cid:25)2 k T𝑔.E / B F C ZR (2.84) D 3 n where R k N 8:314 J mol 1 1:99 calories mol 1 K 1. Using the free electron density B A (cid:0) (cid:0) (cid:0) D D D of levels (2.65) and the evaluation (2.33) of E =k , we find a free electron contribution to the F B heat capacity per mole of C (cid:13)T, where (cid:13) 1 (cid:25)2R Z 0:169Z (cid:18)r s (cid:19) 2 10 4 calmol 1 K 2 (2.85) (cid:0) (cid:0) (cid:0) D 2 T D a (cid:2) F 0 Some rough, measured values of (cid:13) are displayed in Table 2.3, together with the free electron value implied by (2.85) and the values of r =a in Table 1.1. Note that the alkali metals continue s 0 to be reasonably well described by free electron theory, as do the noble metals (Cu, Ag, Au). Note also, however, the striking disparities in Fe and Mn (experiment of the order of 10 times theory) as well as those in Bi and Sb (experiment of the order of 0:1 times the theory). These large deviations are now qualitatively understood on fairly general grounds, and we shall return to them in Chapter 15. THE SOMMERFELD THEORY OF CONDUCTION IN METALS To find the velocity distribution for electrons in metals, consider a small26 volume element of k-space about a point k, of volume dk. Allowing for the twofold spin degeneracy, the number of one-electron levels in this volume element is (see (2.18)) (cid:18) V (cid:19) dk (2.86) 4(cid:25)3 25 Since constant density is hard to arrange experimentally, one generally measures the specific heat at constant pressure, c p. However, one can show (Problem 2) that for the metallic free electron gas at room temperature and below, c p =c v 1 O..k B T=E F /2/. Thus at temperatures where the electronic contribution to the specific heat D C becomes observable (a few degrees Kelvin) the two specific heats differ by a negligible amount. 26 Small enough that the Fermi function and other functions of physical interest vary negligibly throughout the volume element, but large enough that it contains very many one-electron levels. The Sommerfeld Theory of Conduction in Metals 47 The probability of each level being occupied is just f.E.k//, and therefore the total number of electrons in the k-space volume element is V 2k2 f.E.k//dk; E.k/ fl (2.87) 4(cid:25)3 D 2m Since the velocity of a free electron with wave vector k is v k=m (Eq. (2.12)) the number D fl of electrons in an element of volume dv about v is the same as the number in an element of volume dk .m= /3 dv about k mv= : Consequently the total number of electrons per unit D fl D fl volume of real space in a velocity space element of volume dv about v is f.v/dv (2.88) where .m=h/3 1 f.v/ (2.89) D 4(cid:25)3 exp(cid:2)(cid:0) 1mv2 (cid:22)(cid:1)=k T(cid:3) 1 2 (cid:0) B C Sommerfeld reexamined the Drude model, replacing the classical Maxwell-Boltzmann velocity distribution (2.1) by the Fermi-Dirac distribution (2.89). Using a velocity distribution constructed from quantum-mechanical arguments in an otherwise classical theory requires some justification.27 One can describe the motion of an electron classically if one can specify its position and momentum as accurately as necessary, without violating the uncertainty principle.28 A typical electron in a metal has a momentum of the order of k , so the uncertainty in fl its momentum, (cid:129)p, must be small compared with k for a good classical description. Since, fl from (2.22), k 1=r , the uncertainty in position must satisfy F s (cid:24) (cid:129)x fl r (2.90) (cid:24) (cid:129)p (cid:29) k (cid:24) where, from (1.2), r is of the order of the mean interelectronic distance—i.e., angstroms. Thus a classical description is impossible if one has to consider electrons localized to within atomic distances (also of the order of angstroms). However, the conduction electrons in a metal are not bound to particular ions, but can wander freely through the volume of the metal. In a macroscopic specimen, for most purposes there is no need to specify their position to an accuracy of 10 8 cm. (cid:0) The Drude model assumes a knowledge of the position of an electron primarily in only the two following contexts: 1. When spatially varying electromagnetic fields or temperature gradients are applied, one must be able to specify the position of an electron on a scale small compared with the distance (cid:21) over which the fields or temperature gradients vary. For most applications the applied fields or temperature gradients do not vary appreciably on the scale of angstroms, 27 A detailed analytical justification is fairly complicated to construct, just as it is a fairly subtle matter to specify with generality and precision when the quantum theory can be replaced by its classical limit. The underlying physics, however, is straightforward. 28 There is also a somewhat more specialized limitation on the use of classical mechanics in describing conduction electrons. The energy of motion of an electron in the plane perpendicular to a uniform applied magnetic field is quantized in multiples of ! c (Chapter 14). Even for fields as large as 104 gauss, this is a very small energy, fl but in suitably prepared samples at temperatures of a few degrees Kelvin, these quantum effects become observable, and are, in fact, of great practical importance. 48 Chapter2 The Sommerfeld Theory of Metals and the necessary precision of definition in the electron’s position need not lead to an unacceptably large uncertainty in its momentum. For example, the electric field associated with visible light varies appreciably only over a distance of order 103 Å. If, however, the wave length is very much shorter than this (for example, X rays), one must use quantum mechanics to describe the electronic motion induced by the field. 2. There is also an implicit assumption in the Drude model that one can localize an electron to within substantially less than a mean free path ‘, and one should therefore be suspicious of classical arguments when mean free paths much shorter than tens of angstroms occur. Fortunately, as we shall see below, mean free paths in metals are of the order of 103 Å at room temperature, and become longer still as the temperature drops. There is thus a wide range of phenomena in which the behavior of a metallic electron is well described by classical mechanics. It is not, however, immediately evident from this that the behavior of N such electrons can be described by classical mechanics. Since the Pauli exclusion principle so profoundly affects the statistics of N electrons, why should it not have similarly drastic effects on their dynamics? That it does not follows from an elementary theorem, which we state without proof, since the proof, though simple, is notationally rather cumbersome: Consider a system of N electrons whose interactions with one another are ignored, and which are exposed to an arbitrary space- and time-dependent electromagnetic field. Let the N-electron state at time 0 be formed by occupying a particular group of N one-electron levels, .0/;:::; .0/. Let .t/ be the level .0/ would evolve into in time t under the influence of 1 N j j the electromagnetic field if there were only a single electron present, which was in the level .0/ at time zero. Then the correct N-electron state at time t will be the one formed by occupying the set of N one-electron levels .t/;:::; .t/. 1 N Thus the dynamical behavior of N noninteracting electrons is completely determined by considering N independent one-electron problems. In particular, if the classical approximation is valid for each of these one-electron problems, it will also be valid for the whole N-electron system.29 The use of Fermi-Dirac statistics affects only those predictions of the Drude model that require some knowledge of the electronic velocity distribution for their evaluation. If the rate 1=(cid:28) at which an electron experiences collisions does not depend on its energy, then only our estimate of the electronic mean free path and our calculation of the thermal conductivity and thermopower are at all affected by a change in the equilibrium distribution function. Mean Free Path Using v (Eq. (2.24)) as a measure of the typical electronic speed, we can evaluate the mean free path ‘ v (cid:28) from Eq. (1.8) as follows: .r =a /2 s 0 ‘ 92 Å (2.91) D (cid:26) (cid:2) (cid:22) 29 Note that this implies that any classical configuration consistent with the exclusion principle at time t 0 (i.e., having less than one electron of each spin per unit volume, in any momentum space region of volume dp .2(cid:25) /3=V) will remain consistent with the exclusion principle at all future times. This result can also D fl be proved by purely classical reasoning as a direct corollary of Liouville’ s theorem. See Chapter 12. The Sommerfeld Theory of Conduction in Metals 49 Since the resistivity in microhm centimeters, (cid:26) , is typically 1 to 100 at room temperature, and (cid:22) since r =a is typically 2 to 6, mean free paths of order a hundred angstroms long are possible s 0 even at room temperature.30 Thermal Conductivity We continue to estimate the thermal conductivity by Eq. (1.51): (cid:20) v2(cid:28)c (2.92) D 3 The correct specific heat (2.81) is smaller than the classical guess of Drude by a factor of ord The correct estimate of \(v^2\) is not the classical thermal mean square velocity of order \(k_B T / m\), but \(v^2 \sim 2E_F / m\), which is larger than the classical value by a factor of order \(E_F / k_B T\).
+
+Inserting these values in (2.92) and eliminating the relaxation time in favor of the conductivity through (1.6), we find \[ 2.44 \times 10^{-8} \text{ watt ohm} = K^2 \left( \frac{k_B}{3e} \right)^2 \frac{T_D}{D^2} \tag{2.93} \]
+
+This is remarkably close to Drude’s fortuitously good value, thanks to the two compensating corrections of order \(k_B T / E_F\) and is in excellent agreement with the data in Table 1.6. We shall see (Chapter 13) that this value of the Lorenz number is a far better one than the very rough derivation of (2.93) would suggest.
+
+**Thermopower** Drude’s overestimate of the thermopower is also resolved by the use of Fermi-Dirac statistics. Substituting the specific heat, from Eq. (2.81), into Eq. (1.59) we find \[ Q \sim \frac{2k_B}{6e} \left( \frac{k_B T}{E_F} \right) \sim 1.42 \left( \frac{k_B T}{E_F} \right) \times 10^{-4} \text{ volt/K} \tag{2.94} \]
+
+which is smaller than Drude’s estimate (Eq. (1.60)) by \(O(k_B T / E_F) \sim 0.01\) at room temperature.
+
+**Other Properties** Since the form of the electronic velocity distribution did not play a role in the calculation of the DC or AC conductivities, the Hall coefficient, or the magnetoresistance, the estimates given in Chapter 1 remain the same whether one uses Maxwell-Boltzmann or Fermi-Dirac statistics.
+
+This is not the case, however, if one uses an energy-dependent relaxation time. If, for example, one thought the electrons collided with fixed scattering centers, then it would be natural to take an energy-independent mean free path, and hence a relaxation time \(\tau \sim l / v \sim E^{-1/2}\).
+
+Shortly after Drude set forth the electron gas model of a metal, H. A. Lorentz showed, using the classical Maxwell-Boltzmann velocity distribution, that an energy-dependent relaxation time would lead to temperature dependence in the DC and AC conductivities, as well as to a nonvanishing magnetoresistance and a field- and temperature-dependent Hall coefficient. As one might now expect from the inappropriateness of the classical velocity distribution, none of these corrections were in any way able to bring the discrepancies of the Drude model into better alignment with the observed facts about metals.31 Furthermore, we shall see (Chapter 13) that when the correct Fermi-Dirac velocity distribution is used, adding an energy dependence to the relaxation time has little significant effect on most of the quantities of interest in a metal.32 If one calculates the DC or AC conductivities, the magnetoresistance, or the Hall coefficient assuming an energy-dependent \(\tau(E)\), the results one finds are the same as those one would have calculated assuming an energy-independent \(\tau\), equal to \(\tau(E_F)\). In metals these quantities are determined almost entirely by the way in which electrons near the Fermi level are scattered.33 This is another very important consequence of the Pauli exclusion principle, the justification of which will be given in Chapter 13.
+
+31 The Lorentz model is, however, of considerable importance in the description of semiconductors (Chapter 29).
+
+32 The thermopower is a notable exception.
+
+33 These assertions are correct to leading order in \(k_B T / E_F\), but in metals this is always a good expansion parameter.
+
+**PROBLEMS** **1. The Free and Independent Electron Gas in Two Dimensions** (a) What is the relation between \(n\) and \(k_F\) in two dimensions?
+
+(b) What is the relation between \(k_F\) and \(r_s\) in two dimensions?
+
+(c) Prove that in two dimensions the free electron density of levels \(g(E)\) is a constant independent of \(E\) for \(E > 0\), and 0 for \(E < 0\). What is the constant?
+
+(d) Show that because \(g(E)\) is constant, every term in the Sommerfeld expansion for \(n\) vanishes except the \(T=0\) term. Deduce that \(\mu = E_F\) at any temperature.
+
+(e) Deduce from (2.67) that when \(g(E)\) is as in (c), then \[ \mu = k_B T \ln\left(e^{E_F / k_B T} - 1\right)
+
+\tag{2.95} \]
+
+(f) Estimate from (2.95) the amount by which \(\mu\) differs from \(E_F\). Comment on the numerical significance of this "failure" of the Sommerfeld expansion, and on the mathematical reason for the "failure."
+
+**2. Thermodynamics of the Free and Independent Electron Gas** (a) Deduce from the thermodynamic identities \[ c_V = T \left( \frac{\partial s}{\partial T} \right)_n \tag{2.96} \]
+
+from Eqs. (2.56) and (2.57), and from the third law of thermodynamics (\(s \to 0\) as \(T \to 0\)) that the entropy density, \(s \equiv S/V\) is given by: \[ s = k \int \frac{dk}{4\pi^3} \left[ f \ln f + (1-f) \ln (1-f) \right]
+
+\tag{2.97} \]
+
+where \(f(E(k))\) is the Fermi function (Eq. (2.56)).
+
+(b) Since the pressure \(P\) satisfies Eq. (B.5) in Appendix B, \(P = u - Ts - \mu n\), deduce from (2.97) that \[ P = k T \int \frac{dk}{4\pi^3} \ln \left[ 1 + \exp \left( \frac{\mu - (2k^2/2m)}{k_B T} \right) \right]
+
+\tag{2.98} \]
+
+Show that (2.98) implies that \(P\) is a homogeneous function of \(\mu\) and \(T\) of degree 5/2; that is, \[ P(\lambda \mu, \lambda T) = \lambda^{5/2} P(\mu, T)
+
+\tag{2.99} \]
+
+for any constant \(\lambda\).
+
+(c) Deduce from the thermodynamic relations in Appendix B that \[ \left( \frac{\partial P}{\partial \mu} \right)_T = n, \quad \left( \frac{\partial P}{\partial T} \right)_\mu = s.
+
+\tag{2.100} \]
+
+(d) By differentiating (2.99) with respect to \(\lambda\) show that the ground-state relation (2.34) holds at any temperature, in the form \[ P = \frac{u}{3} \tag{2.101} \]
+
+(e) Show that when \(k_B T \ll E_F\), the ratio of the constant-pressure to constant-volume specific heats satisfies \[ \frac{c_p}{c_V} = 1 + O\left( \frac{\pi^2}{3} \left( \frac{k_B T}{E_F} \right)^2 - \frac{\pi^4}{45} \left( \frac{k_B T}{E_F} \right)^4 \right)
+
+\]
+
+(f) Show, by retaining further terms in the Sommerfeld expansions of \(u\) and \(n\), that correct to order \(T^3\) the electronic heat capacity is given by \[ c_V = \frac{\pi^2}{3} k_B^2 T g(E_F) - \frac{\pi^4}{90} k_B^4 T^3 g(E_F) \left[ \frac{15}{4} \left( \frac{g'(E_F)}{g(E_F)} \right)^2 - \frac{21}{2} \frac{g''(E_F)}{g(E_F)} \right]
+
+\tag{2.102} \]
+
+**3. The Classical Limit of Fermi-Dirac Statistics** The Fermi-Dirac distribution reduces to the Maxwell-Boltzmann distribution, provided that the Fermi function (2.56) is much less than unity for every positive \(E\), for in that case we must have \[ f(E) = e^{-(E - \mu)/k_B T} \tag{2.103} \]
+
+The necessary and sufficient condition for (2.103) to hold for all positive \(E\) is \[ e^{-\mu / k_B T} \ll 1 \tag{2.104} \]
+
+(a) Assuming that (2.104) holds, show that \[ r_s = \left[ \frac{3}{4\pi} \frac{(2m k_B T)^{3/2}}{n \hbar^3} \right]^{1/3} \]
+
+In conjunction with (2.104) this requires that \[ r_s \gg \left( \frac{\hbar^2}{2m k_B T} \right)^{1/2} \tag{2.106} \]
+
+which can also be taken as the condition for the validity of classical statistics.
+
+(b) What is the significance of the length \(r_s\) must exceed?
+
+(c) Show that (2.106) leads to the numerical condition \[ a \gg \left( \frac{105 \text{ K}}{T} \right)^{1/2} \tag{2.107} \]
+
+(d) Show that the normalization constant \(m^3 / 4\pi^3 \hbar^3\) appearing in the Fermi-Dirac velocity distribution (2.2) can also be written as \((3n / 4) (m / 2\pi \hbar^2 k_B T_F)^{3/2}\) so that \(f(0) = f_F(0) \cdot (4 / 3\sqrt{\pi}) (T / T_F)^{3/2}\).
+
+**4. Insensitivity of the Distribution Function to Small Changes in the Total Number of Electrons** In deriving the Fermi distribution (page 38) we argued that the probability of a given level being occupied should not change appreciably when the total number of electrons is changed by one. Verify that the Fermi function (2.56) is compatible with this assumption as follows: (a) Show, when \(k_B T \ll E_F\), that when the number of electrons changes by one at fixed temperature, the chemical potential changes by \[ \delta \mu = \frac{1}{V g(E_F)} \tag{2.108} \]
+
+where \(g(E)\) is the density of levels.
+
+(b) Show, as a consequence of this, that the most the probability of any level being occupied can change by is \[ \delta f \sim \frac{E_F}{6 k_B T N} \tag{2.109} \]
+
+[Use the free electron evaluation (2.65) of \(g(E_F)\).] Although temperatures of millidegrees Kelvin can be reached, at which \(E_F / k_B T \sim 10^8\), when \(N\) is of order \(10^{22}\) then \(\delta f\) is still negligibly small.
+
+**Failures of the Free Electron Model** Free electron theory successfully accounts for a wide range of metallic properties. In the form originally put forth by Drude the most striking deficiencies of the model were due to the use of classical statistical mechanics in describing the conduction electrons. As a result, predicted thermoelectric fields and heat capacities were hundreds of times too large, even at room temperature. The difficulty was obscured by the fact that classical statistics fortuitously gave a form for the Wiedemann-Franz law that was not in such gross error. Sommerfeld’s application of Fermi-Dirac statistics to the conduction electrons eliminated this class of difficulties while retaining all of the other basic assumptions of the free electron model.
+
+However, the Sommerfeld free electron model still makes many quantitative predictions that are quite unambiguously contradicted by observation, and leaves many fundamental questions of principle unresolved. We list below those inadequacies of the free electron model that have emerged from the applications made in the preceding two chapters.1
+
+**DIFFICULTIES WITH THE FREE ELECTRON MODEL** **1. Inadequacies in the Free Electron Transport Coefficients** (a) The Hall Coefficient Free electron theory predicts a Hall coefficient which at metallic densities of electrons has the constant value \(R = -1/nec\), independent of the temperature, the relaxation time, or the strength of the magnetic field. Although observed Hall coefficients have this order of magnitude, generally speaking they depend on both the magnetic field strength and the temperature (and presumably on the relaxation time, which is rather harder to control experimentally). Often this dependence is quite dramatic. In aluminum, for example, \(R\) (see Figure 1.4) never gets within a factor of three of the free electron value, depends strongly on the strength of the field, and at high fields does not even have the sign predicted by free electron theory. Such cases are not atypical. Only the Hall coefficients of the alkali metals come even close to behaving in accordance with the predictions of free electron theory.
+
+(b) The Magnetoresistance Free electron theory p redicts that the resistance of a wire perpendicular to a uniform magnetic field should not depend on the strength of the field. In almost all cases it does. In some cases (notably the noble metals, copper, silver, and gold) it can be made to increase apparently without limit as the field increases. In most metals the behavior of the resistance in a field depends quite drastically on the manner in which the metallic specimen is prepared and, for suitable specimens, on the orientation of the specimen with respect to the field.
+
+(c) The Thermoelectric Field The sign of the thermoelectric field, like the sign of the Hall constant, is not always what free electron theory predicts it should be. Only the order of magnitude is right.
+
+1 These examples and the remarks making up the rest of this brief chapter are not intended to give a detailed picture of the limitations of the free electron model. That will emerge in the chapters that follow, together with the solutions to the difficulties posed by the model. Our purpose in this chapter is only to emphasize how varied and extensive the shortcomings are, thereby indicating why one must resort to a considerably more elaborate analysis.
+
+(d) The Wiedemann-Franz Law That great triumph of free electron theory, the Wiedemann-Franz law, is obeyed beautifully at high (room) temperatures and also quite probably at very low (a few degrees K) temperatures. At intermediate temperatures it fails, and σ/κT depends on the temperature.
+
+(e) Temperature Dependence of the DC Electrical Conductivity Nothing in free electron theory can account for the temperature dependence of the DC conductivity (revealed, for example, in Table 1.2). It has to be mechanically inserted into the theory as an ad hoc temperature dependence in the relaxation time τ.
+
+(f) Directional Dependence of the DC Electrical Conductivity In some (but by no means all) metals the DC conductivity depends on the orientation of the specimen (if suitably prepared) with respect to the field. In such specimens the current j need not even be parallel to the field.
+
+(g) AC Conductivity There is a far more subtle frequency dependence to the optical properties of metals than the simple free electron dielectric constant can hope to produce. Even sodium, in other respects a fairly good free electron metal, appears to fail this test in the detailed frequency dependence of its reflectivity. In other metals the situation is far worse. We cannot begin to explain the colors of copper and gold in terms of reflectivities calculated from the free electron dielectric constant.
+
+## 2. Inadequacies in the Static Thermodynamic Predictions
+
+(a) Linear Term in the Specific Heat The Sommerfeld theory accounts reasonably well for the size of the term linear in T in the low-temperature specific heat of the alkali metals, rather less well for the noble metals, and very poorly indeed for transition metals such as iron and manganese (much too small a prediction) as well as for bismuth and antimony (much too large a prediction).
+
+(b) Cubic Term in the Specific Heat There is nothing in the free electron model to explain why the low-temperature specific heat should be dominated by the electronic contribution. However, it is evident from experiment that the T^3 correction to the linear term is very definitely dominated by something else, since the simple Sommerfeld theory for the electronic contribution to the T^3 term has the wrong sign and is millions of times too small.
+
+(c) The Compressibility of Metals Although free electron theory does miraculously well in estimating the bulk moduli (or compressibilities) of many metals, it is clear that more attention must be paid to the ions and to electron-electron interactions if one is to achieve a more accurate estimate of the equation of state of a metal.
+
+## 3. Fundamental Mysteries
+
+(a) What Determines the Number of Conduction Electrons? We have assumed the all valence electrons become conduction electrons, while the others remain bound to the ions. We have given no thought to the question of why this should be, or how it is to be interpreted in the case of elements, like iron, that display more than one chemical valence.
+
+(b) Why Are Some Elements Nonmetals? A more acute inadequacy of our rule of thumb for determining the number of conduction electrons is posed by the existence of insulators. Why, for example, is boron an insulator while its vertical neighbor in the periodic table, aluminum, an excellent metal? Why is carbon an insulator when in the form of diamond and a conductor when in the form of graphite? Why are bismuth and antimony such very poor conductors?
+
+## REVIEW OF BASIC ASSUMPTIONS
+
+To make further progress with any of these problems we must reexamine the basic assumptions on which free electron theory rests. The most notable are these:
+
+1. Free Electron Approximation^2 The metallic ions play a very minor role. In between collisions they have no effect at all on the motion of an electron, and though Drude invoked them as a source of collisions, the quantitative information we have been able to extract about the collision rate has made no sense when interpreted in terms of electrons colliding with fixed ions. The only thing the ions really seem to do properly in the models of Drude and Sommerfeld is to maintain overall charge neutrality.
+
+2. Independent Electron Approximation^3 The interactions of the electrons with one another are ignored.
+
+3. Relaxation-Time Approximation^4 The outcome of a collision is assumed not to depend on the configuration of the electrons at the moment of collision.
+
+All these oversimplifications must be abandoned if we are to achieve an accurate model of a solid. However, a remarkable amount of progress can be made by first concentrating entirely on improving some aspects of the free electron approximation while continuing to use the independent electron and relaxation time approximations. We shall return to a critical examination of these last two approximations in Chapters 16 and 17, limiting ourselves here to the following general observations:
+
+There is a surprisingly wide range of circumstances in which the independent electron approximation does not drastically diminish the validity of the analysis. In resolving the problems of free electron theory listed above, improving on the independent electron approximation plays a major role only in the calculation of metallic compressibilities (2c).^5,^6 An indication of why we apparently ignore electron-electron interactions is given in Chapter 17, together with further examples in which electron-electron interactions do play a direct and crucial role.
+
+As for the relaxation time approximation, even in Drude’s time there were methods in kinetic theory for correcting this oversimplification. They lead to a much more complex analysis and in many cases are primarily important in understanding metallic phenomena with greater precision. Of the difficulties described previously, only the problem of the Wiedemann-Franz law at intermediate temperatures (1d) has a resolution that requires abandoning the relaxation time approximation even at the most gross qualitative level of explanation.^7 In Chapter 16 we shall describe the form a theory must take if it is to go beyond the relaxation time approximation, together with further examples of problems requiring such a theory for their resolution.
+
+The free electron approximation is the major source of the difficulties in the theories of Drude and Sommerfeld. It makes several simplifications:
+
+(i) The effect of the ions on the dynamics of an electron between collisions is ignored.
+
+(ii) What role the ions play as a source of collisions is left unspecified.
+
+(iii) The possibility that the ions themselves, as independent dynamical entities, contribute to physical phenomena (such as the specific heat or thermal conductivity) is ignored.
+
+The failures of assumptions (ii) and (iii) play an essential role in accounting for deviations from the Wiedemann-Franz law at intermediate temperatures (1d) and the temperature dependence of the electrical conductivity (1e). The failure of assumption (iii) accounts for the cubic term in the specific heat (2b). Relaxing these two assumptions is also essential in accounting for a variety of phenomena yet to be discussed. Such phenomena are briefly described in Chapter 21, and the consequences of abandoning assumptions (ii) and (iii) are explored in detail in Chapters 22 to 26.
+
+It is assumption (i), that the ions have no significant effect on the motion of electrons between collisions, that is responsible for most of the deficiencies of the Drude and Sommerfeld theories described above. The reader may well be perplexed at how one can distinguish between assumptions (i) and (ii), for it is far from clear that the effect of the ions on the electrons can be unambiguously resolved into “collisional” and “noncollisional” aspects. We shall find, however (especially in Chapters 8 and 12), that a theory that takes into account the detailed field produced by an appropriate static array of ions but ignores the possibility of ionic motion (the “static ion approximation”) reduces under a wide range of circumstances to a relatively simple modification of the Drude and Sommerfeld free electron theories, in which collisions are entirely absent! It is only when one allows for ionic motion that their role as a source of collisions can be properly understood.
+
+We shall therefore relax the free electron approximation in two stages. First we shall examine the wealth of new structure and the subsequent elucidation that emerges when the electrons are considered to move not in empty space, but in the presence of a specified static potential due to a fixed array of stationary ions. Only after that (from Chapter 21 onward) will we examine the consequences of the dynamical deviations of the ionic positions from that static array.
+
+The single most important fact about the ions is that they are not distributed at random, but are arranged in a regular periodic array, or “lattice.” This was first suggested by the macroscopic crystalline forms assumed by many solids (including metals), fir It was directly confirmed by X-ray diffraction experiments (Chapter 6) and subsequently reconfirmed by neutron diffraction, electron microscopy, and many other direct measurements.
+
+The existence of a periodic lattice of ions lies at the heart of modern solid state physics. It provides the basis for the entire analytic framework of the subject, and without it comparatively little progress would have been made. If there is one reason why the theory of solids is so much more highly developed than the theory of liquids, even though both forms of matter have comparable densities, it is that the ions are arranged periodically in the solid state but are spatially disordered in liquids. It is the lack of a periodic array of ions that has left the subject of amorphous solids in so primitive a state compared with the highly developed theory of crystalline solids.
+
+To make further progress in the theory of solids, whether metallic or insulating, we must therefore turn to the subject of periodic arrays. The fundamental properties of such arrays are developed in Chapters 4, 5 and 7, without regard to particular physical applications. In Chapter 6 these concepts are applied to an elementary discussion of X-ray diffraction, which provides a direct demonstration of the periodicity of solids and is a paradigm for the wide variety of other wave phenomena in solids we shall subsequently encounter. Chapters 8 to 11 explore the direct consequences of the periodicity of the array of ions on the electronic structure of any solid, whether insulating or metallic. In Chapters 12 to 15 the resulting theory is used to reexplore the properties of metals described in Chapters 1 and 2. Many of the anomalies of free electron theory are thereby removed, and its mysteries are in large part resolved.
+
+Although there has been a great burst of interest in amorphous solids (starting in the late 1960s), the subject has yet to develop any unifying principles of a power even remotely comparable to that provided by the consequences of a periodic array of ions. Many of the concepts used in the theory of amorphous solids are borrowed, with little if any justification, from the theory of crystalline solids, even though they are only well understood as consequences of lattice periodicity. Indeed, the term "solid state physics," if defined as the subject matter of solid state physics textbooks (including this one) is currently confined almost entirely to the theory of crystalline solids. This is in large part because the normal condition of solid matter is crystalline, and also because in its present form the subject of amorphous solids still lacks the kind of broad basic principles suitable for inclusion in an elementary text.
+
+Crystal Lattices Bravais Lattice and Primitive Vectors Simple, Body-Centered, and Face-Centered Cubic Lattices Primitive Unit Cell, Wigner-Seitz Cell, and Conventional Cell Crystal Structures and Lattices with Bases Hexagonal Close-Packed and Diamond Structures Sodium Chloride, Cesium Chloride, and Zincblende Structures
+
+Those who have not wandered amidst the mineralogical departments of natural history museums are often surprised to learn that metals, like most other solids, are crystalline, for although one is used to the very obvious crystalline features of quartz, diamond, and rock salt, the characteristic plane faces at sharp angles with one another are absent from metals in their most commonly encountered forms. However, those metals that occur naturally in the metallic state are quite often found in crystalline forms, which are completely disguised in finished metal products by the great malleability of metals, which permits them to be fashioned into whatever macroscopic shape one wishes.
+
+The true test of crystallinity is not the superficial appearance of a large specimen, but whether on the microscopic level the ions are arranged in a periodic array. This underlying microscopic regularity of crystalline matter was long hypothesized as the obvious way to account for the simple geometric regularities of macroscopic crystals, in which plane faces make only certain definite angles with each other. It received direct experimental confirmation in 1913 through the work of W. and L. Bragg, who founded the subject of X-ray crystallography and began the investigation of how atoms are arranged in solids.
+
+Before we describe how the microscopic structure of solids is determined by X-ray diffraction and how the periodic structures so revealed affect fundamental physical properties, it is useful to survey some of the most important geometrical properties of periodic arrays in three-dimensional space. These purely geometrical considerations are implicit in almost all the analysis one encounters throughout solid state physics, and shall be pursued in this chapter and in Chapters 5 and 7. The first of many applications of these concepts will be made to X-ray diffraction in Chapter 6.
+
+## BRAVAIS LATTICE
+
+A fundamental concept in the description of any crystalline solid is that of the Bravais lattice, which specifies the periodic array in which the repeated units of the crystal are arranged. The units themselves may be single atoms, groups of atoms, molecules, ions, etc, but the Bravais lattice summarizes only the geometry of the underlying periodic structure, regardless of what the actual units may be. We give two equivalent definitions of a Bravais lattice:
+
+(a) A Bravais lattice is an infinite array of discrete points with an arrangement and orientation that appears exactly the same, from whichever of the points the array is viewed.
+
+(b) A (three-dimensional) Bravais lattice consists of all points with position vectors R of the form R = n1 a1 + n2 a2 + n3 a3 (4.1)
+
+where a1, a2, and a3 are any three vectors not all in the same plane, and n1, n2, and n3 range through all integral values. Thus the point n1 a1 is reached by moving n1 steps of length a1 in the direction of a1 for i = 1, 2, and 3.
+
+The vectors a appearing in definition (b) of a Bravais lattice are called primitive vectors and are said to generate or span the lattice.
+
+It takes some thought to see that the two definitions of a Bravais lattice are equivalent. That any array satisfying (b) also satisfies (a) becomes evident as soon as both definitions are understood. The argument that any array satisfying definition (a) can be generated by an appropriate set of three vectors is not as obvious. The proof consists of an explicit recipe for constructing three primitive vectors. The construction is given in Problem 8a.
+
+Figure 4.1 shows a portion of a two-dimensional Bravais lattice. Clearly definition (a) is satisfied, and the primitive vectors a1 and a2 required by definition (b) are indicated in the figure. Figure 4.2 shows one of the most familiar of three-dimensional Bravais lattices, the simple cubic. It owes its special structure to the fact that it can be spanned by three mutually perpendicular primitive vectors of equal length.
+
+## INFINITE LATTICES AND FINITE CRYSTALS
+
+Since all points are equivalent, the Bravais lattice must be infinite in extent. Actual crystals are, of course, finite, but if they are large enough the vast majority of points will be so far from the surface as to be unaffected by its existence. The fiction of an infinite system is thus a very useful idealization. If surface effects are of interest the notion of a Bravais lattice is still relevant, but now one must think of the physical crystal as filling up only a finite portion of the ideal Bravais lattice.
+
+Frequently one considers finite crystals, not because surface effects are important, but simply for conceptual convenience, just as in Chapter 2 we placed the electron gas in a cubical box of volume V = L^3. One then generally picks the finite region of the Bravais lattice to have the simplest possible form. Given three primitive vectors a1, a2, and a3, one usually considers the finite lattice of N sites to be the set of points of the form R = n1 a1 + n2 a2 + n3 a3, where 0 ≤ n1 < N1, 0 ≤ n2 < N2, 0 ≤ n3 < N3, and N = N1 N2 N3. This artifact is closely connected with the generalization to the description of crystalline systems of the periodic boundary condition we used in Chapter 2.
+
+FURTHER ILLUSTRATIONS AND IMPORTANT EXAMPLES Of the two definitions of a Bravais lattice, definition (b) is mathematically more precise and is the obvious starting point for any analytic work. It has, however, two minor shortcomings. First, for any given Bravais lattice the set of primitive vectors is not unique—indeed, there are infinitely many nonequivalent choices—and it is distasteful (and sometimes misleading) to rely too heavily on a definition that emphasizes a particular choice. Second, when presented with a particular array of points one usually can tell at a glance whether the 元素 a.Å/ 元素 a.Å/ Ba 5.02 Li 3.49(78K) Ta 3.31 Cr 2.88 Mo 3.15 Tl 3.88 Cs 6.05(78K) Na 4.23(5K) V 3.02 Fe 2.87 Nb 3.30 W 3.16 K 5.23(5K) Rb 5.59(5K)
+
+表 4.3：ALongLongLongLongLongLongLongTable Head Head Head Head Head Head Alpha Beta Gamma Epsilon Zetaa Eta Iota Kappa(cid:142) Lambda Nu Xi Omicron Foot Foot Foot a It is the first footnote.
+
+(cid:142) It is the second long long long long long long footnote.
+
+注：Some general note. Some general note. Some general note.
+
+来源：Made up by myself. Made up by myself. Made up by myself.
+
+倒易晶格
+
+定义与例子第一布里渊区晶面与米勒指数
+
+倒易晶格在周期性结构的大多数分析研究中扮演着基本角色。人们从不同的途径走向它，例如晶体衍射理论、对具有布拉菲晶格周期性的函数的抽象研究，或者关于当自由空间的完整平移对称性约化为周期势的对称性时，动量守恒定律还有多少可以保留的问题。在本简短章节中，我们将从不与任何特定应用挂钩的一般角度，描述倒易晶格的一些重要基本特征。
+
+晶体结构的X射线衍射测定布拉格与冯·劳厄表述劳厄条件与厄瓦耳德作图实验方法：劳厄法、旋转晶体法、粉末法几何结构因子原子形状因子
+
+固态中的典型原子间距离大约为1埃（10⁻⁸厘米）。因此，探测固态微观结构的电磁探针的波长至少要这么短，对应于约 hc/λ ≈ 12.3×10³ eV (6.1)
+
+的能量，其中 λ ≈ 10⁻⁸厘米。像这样几千电子伏特（千伏或keV）的能量是特征X射线能量。
+
+在本章中，我们将描述刚性、周期性离子阵列散射的X射线如何揭示该结构中离子的位置。由于布拉格和冯·劳厄，有两种等价的方式来看待X射线在完美周期结构上的散射。这两种观点至今仍被广泛使用。利用倒易晶格的冯·劳厄方法更接近现代固体物理学的精神，但布拉格方法仍被X射线晶体学家广泛使用。下文将描述这两种方法，并证明它们的等价性。
+
+晶体X射线衍射的布拉格表述 1913年，W.H.和W.L.布拉格发现，宏观形式为晶体的物质会产生非常特征的反射X辐射图案，与液体产生的完全不同。在晶体材料中，对于特定波长和入射方向，观察到强烈的散射辐射峰（现在称为布拉格峰）。
+
+W.L.布拉格通过将晶体视为由平行离子平面构成、间距为d（即第5章描述的晶格面）来解释这一点。产生尖锐散射辐射峰的条件是：(1) X射线应被任一平面中的离子镜面反射；(2) 来自连续平面的反射射线应发生相长干涉。从相邻平面镜面反射的射线如图6.1所示。两条射线之间的光程差为2d sin(θ)，其中θ是入射角。为使射线相长干涉，该光程差必须是波长的整数倍，由此得到著名的布拉格条件： nλ = 2d sin(θ) (6.2)
+
+整数n被称为相应反射的级数。对于包含一系列不同波长（“白光辐射”）的X射线束，会观察到许多不同的反射。不仅可以从给定的一组晶格面产生高阶反射，而且还必须认识到，将晶体切割成平面的方式有许多种，每种方式本身都会产生进一步的反射（例如，参见??或图6.3）。
+
+晶体X射线衍射的冯·劳厄表述冯·劳厄方法与布拉格方法的不同之处在于，没有特别挑选出将晶体切割成晶格面的某种方式，也没有临时假设镜面反射。相反，将晶体视为由相同的微观对象（离子或原子组）放置在布拉菲晶格的R位置构成，每个对象都可以向所有方向再辐射入射辐射。只有在方向和波长使得来自所有晶格点的散射射线相长干涉时，才会观察到尖锐的峰。
+
+为找到相长干涉的条件，首先考虑仅有两个散射体，间距为位移矢量d（图6.4）。设一束X射线从很远的地方沿方向n入射，波长为λ，波矢量k = 2πn/λ。将在方向n'观察到散射射线，波长为λ，波矢量k' = 2πn'/λ，条件是每个离子散射的射线之间的光程差是波长的整数倍。从图6.4可以看出，该光程差为： d cos(θ') - d cos(θ) = d·(n' - n) (6.3)
+
+因此，相长干涉的条件是： d·(n' - n) = mλ (6.4)
+
+其中m为整数。将(6.4)式两边乘以2π/λ，得到对入射和散射波矢量的条件： d·(k' - k) = 2πm (6.5)
+
+其中m为整数。
+
+接下来，我们考虑的不仅是两个散射体，而是位于布拉菲晶格格点上的一系列散射体。由于晶格点之间通过布拉菲晶格矢量R位移，所有散射射线相长干涉的条件是条件(6.5)对于所有作为布拉菲晶格矢量的d值同时成立： R·(k' - k) = 2πm，对于所有布拉菲晶格矢量R (6.6)
+
+其中m为整数。
+
+这可以写成等价形式： e^(i(k' - k)·R) = 1，对于所有布拉菲晶格矢量R (6.7)
+
+将此条件与倒易晶格的定义(??)相比较，我们得到劳厄条件：如果波矢量的变化K = k' - k是倒易晶格矢量，则发生相长干涉。
+
+有时方便用完全基于入射波矢量k的劳厄条件的另一种表述。首先注意到，因为倒易晶格是布拉菲晶格，如果k' - k是倒易晶格矢量，那么k - k'也是。称后者为矢量K，则k和k'具有相同大小的条件是： k = |k' - K| (6.8)
+
+将(6.8)式两边平方得到条件： k·K = K²/2 (6.9)
+
+即入射波矢量在波矢量变化上的分量...
+
+The incident wave vector k along the reciprocal lattice vector K must be half the length of K. Thus an incident wave vector k will satisfy the Laue condition if and only if the tip of the vector lies in a plane that is the perpendicular bisector of a line joining the origin of k-space to a reciprocal lattice point K (Figure 6.5). Such k-space planes are called Bragg planes.
+
+Figure 6.5: The Laue condition. If the sum of k and k' is a vector K, and if k and k' have the same length, then the tip of the vector k is equidistant from the origin O and the tip of the vector K, and therefore it lies in the plane bisecting the line joining the origin to the tip of K.
+
+It is a consequence of the equivalence of the Bragg and von Laue points of view, demonstrated in the following section, that the k-space Bragg plane associated with a particular diffraction peak in the Laue formulation is parallel to the family of direct lattice planes responsible for the peak in the Bragg formulation.
+
+EQUIVALENCE OF THE BRAGG AND VON LAUE FORMULATIONS
+
+The equivalence of these two criteria for constructive interference of X rays by a crystal follows from the relation between vectors of the reciprocal lattice and families of direct lattice planes (see Chapter 5). Suppose the incident and scattered wave vectors, k and k', satisfy the Laue condition that K = k' - k be a reciprocal lattice vector. Because the incident and scattered waves have the same wavelength, k and k' have the same magnitudes. It follows (see Figure 6.6) that k and k' make the same angle θ with the plane perpendicular to K. Therefore the scattering can be viewed as a Bragg reflection, with Bragg angle θ, from the family of direct lattice planes perpendicular to the reciprocal lattice vector K.
+
+Figure 6.6: The plane of the paper contains the incident wave vector k, the reflected wave vector k', and their difference K satisfying the Laue condition. Since the scattering is elastic (|k| = |k'|), the direction of K bisects the angle between k and k'. The dashed line is the intersection of the plane perpendicular to K with the plane of the paper.
+
+To demonstrate that this reflection satisfies the Bragg condition (6.2), note that the vector K is an integral multiple n of the shortest reciprocal lattice vector K parallel to K. According to the theorem on page 90, the magnitude of K is just 2π/d, where d is the distance between successive planes in the family perpendicular to K or to K. Thus
+
+K = 2πn / d (6.10)
+
+On the other hand, it follows from Figure 6.6 that K = 2k sin θ, and thus
+
+k sin θ = πn / d (6.11)
+
+Since k = 2π/λ, Eq. (6.11) implies that the wavelength satisfies the Bragg condition (6.2). Thus a Laue diffraction peak corresponding to a change in wave vector given by the reciprocal lattice vector K corresponds to a Bragg reflection from the family of direct lattice planes perpendicular to K. The order, n, of the Bragg reflection is just the length of K divided by the length of the shortest reciprocal lattice vector parallel to K.
+
+Since the reciprocal lattice associated with a given Bravais lattice is far more easily visualized than the set of all possible planes into which the Bravais lattice can be resolved, the Laue condition for diffraction peaks is far more simple to work with than the Bragg condition. In the rest of this chapter we shall apply the Laue condition to a description of three of the most important ways in which X-ray crystallographic analyses of real samples are performed, and to a discussion of how one can extract information not only about the underlying Bravais lattice, but also about the arrangement of ions within the primitive cell.
+
+EXPERIMENTAL GEOMETRIES SUGGESTED BY THE LAUE CONDITION
+
+An incident wave vector k will lead to a diffraction peak (or "Bragg reflection") if and only if the tip of the wave vector lies on a k-space Bragg plane. Since the set of all Bragg planes is a discrete family of planes, it cannot begin to fill up three-dimensional k-space, and in general the tip of k will not lie on a Bragg plane. Thus for a fixed incident wave vector—i.e., for a fixed X-ray wavelength and fixed incident direction relative to the crystal axes—there will in general be no diffraction peaks at all.
+
+If one wishes to search experimentally for Bragg peaks one must therefore relax the constraint of fixed k, either varying the magnitude of k (i.e., varying the wavelength of the incident beam) or varying its direction (in practice, varying the orientation of the crystal with respect to the incident direction).
+
+Classification of Bravais Lattices and Crystal Structures
+
+Symmetry Operations and the Classification of Bravais Lattices
+
+The Seven Crystal Systems and Fourteen Bravais Lattices
+
+Crystallographic Point Groups and Space Groups
+
+Schoenflies and International Notations
+
+Examples from the Elements
+
+In Chapters 4 and 5, only the translational symmetries of Bravais lattices were described and exploited. For example, the existence and basic properties of the reciprocal lattice depend only on the existence of three primitive direct lattice vectors a, and not on any special relations that may hold among them. The translational symmetries are by far the most important for the general theory of solids. It is nevertheless clear from examples already described that Bravais lattices do fall naturally into categories on the basis of symmetries other than translational. Simple hexagonal Bravais lattices, for example, regardless of the c/a ratio, bear a closer resemblance to one another than they do to any of the three types of cubic Bravais lattice we have described.
+
+It is the subject of crystallography to make such distinctions systematic and precise. Here we shall only indicate the basis for the rather elaborate crystallographic classifications, giving some of the major categories and the language by which they are described. In most applications what matters are the features of particular cases, rather than a systematic general theory, so few solid state physicists need master the full analysis of crystallography. Indeed, the reader with little taste for the subject can skip this chapter entirely with little loss in understanding what follows, referring back to it on occasion for the elucidation of arcane terms.
+
+## THE CLASSIFICATION OF BRAVAIS LATTICES
+
+The problem of classifying all possible crystal structures is too complex to approach directly, and we first consider only the classification of Bravais lattices. From the point of view of symmetry, a Bravais lattice is characterized by the specification of all rigid operations that take the lattice into itself. This set of operations is known as the symmetry group or space group of the Bravais lattice.
+
+The operations in the symmetry group of a Bravais lattice include all translations through lattice vectors. In addition, however, there will in general be rotations, reflections, and inversions that take the lattice into itself. A cubic Bravais lattice, for example, is taken into itself by a rotation through 90° about a line of lattice points in a [100] direction, a rotation through 120° about a line of lattice points in a [111] direction, reflection of all points in a {100} lattice plane, etc.; a simple hexagonal Bravais lattice is taken into itself by a rotation through 60° about a line of lattice points parallel to the c-axis, reflection in a lattice plane perpendicular to the c-axis, etc.
+
+Any symmetry operation of a Bravais lattice can be compounded out of a translation T through a lattice vector R and a rigid operation leaving at least one lattice point fixed. This is not immediately obvious. A simple cubic Bravais lattice, for example, is left fixed by a rotation through 90° about a [100] axis that passes through the center of a cubic primitive cell with lattice points at the eight vertices of the cube. This is a rigid operation that leaves no lattice point fixed. However, it can be compounded out of a translation through a Bravais lattice vector and a rotation about a line of lattice points, as illustrated in Figure 7.1. That such a representation is always possible can be seen as follows:
+
+Consider a symmetry operation S that leaves no lattice point fixed. Suppose it takes the origin of the lattice O into the point R. Consider next the operation one gets by first applying S, and then applying a translation through -R, which we denote by T_{-R}. The composite operation, which we call T_{-R} S, is also a symmetry of the lattice, but it leaves the origin fixed, since S transports the origin to R while T_{-R} carries R back to the origin. Thus T_{-R} S is an operation that leaves at least one lattice point (namely the origin) fixed. If, however, after performing the operation T we then perform the operation T, the result is equivalent to the operation S alone, since the final application of T just undoes the preceding application of T. Therefore S R can be compounded out of T S, which leaves a point fixed, and T, which is a pure translation.
+
+Note that translation through a lattice vector (other than O) leaves no point fixed.
+
+78 Chapter 7 Classification of Bravais Lattices and Crystal Structures Thus the full symmetry group of a Bravais lattice contains only operations of the following form:
+
+## 1. Translations through Bravais lattice vectors;
+
+## 2. Operations that leave a particular point of the lattice fixed;
+
+3. Operations that can be constructed by successive applications of the operations of type (1)
+
+or (2).
+
+The Seven Crystal Systems When examining nontranslational symmetries, one often considers not the entire space group of a Bravais lattice, but only those operations that leave a particular point fixed (i.e., the operations in category (2) above). This subset of the full symmetry group of the Bravais lattice is called the point group of the Bravais lattice.
+
+There turn out to be only seven distinct point groups that a Bravais lattice can have. Any crystal structure belongs to one of seven crystal systems, depending on which of these seven point groups is the point group of its underlying Bravais lattice. The seven crystal systems are enumerated in the next section.
+
+(a) (b)
+
+Figure 7.2 (a) Every symmetry operation of a cube is also a symmetry operation of a regular octahedron, and vice versa. Thus the cubic group is identical to the octahedral group. (b) Not every symmetry operation of a cube is a symmetry operation of a regular tetrahedron. For example, rotation through 90 about the indicated vertical axis takes the cube into itself, but not the tetrahedron.
+
+We shall see below that a general crystal structure can have additional symmetry operations that are not of types (1), (2), or (3). They are known as "screw axes" and "glide planes."
+
+Two point groups are identical if they contain precisely the same operations. For example, the set of all symmetry operations of a cube is identical to the set of all symmetry operations of a regular octahedron, as can readily be seen by inscribing the octahedron suitably in the cube (Figure 7.2a). On the other hand, the symmetry group of the cube is not equivalent to the symmetry group of the regular tetrahedron. The cube has more symmetry operations (Figure 7.2b).
+
+The Classification of Bravais Lattices 79 The Fourteen Bravais Lattices When one relaxes the restriction to point operations and considers the full symmetry group of the Bravais lattice, there turn out to be fourteen distinct space groups that a Bravais lattice can have. Thus, from the point of view of symmetry, there are fourteen different kinds of Bravais lattice. This enumeration was first done by M. L. Frankenheim (1842). Frankenheim miscounted, however, reporting fifteen possibilities. A. Bravais (1845) was the first to count the categories correctly.
+
+Enumeration of the Seven Crystal Systems and Fourteen Bravais Lattices We list below the seven crystal systems and the Bravais lattices belonging to each. The number of Bravais lattices in a system is given in parentheses after the name of the system: Cubic (3) The cubic system contains those Bravais lattices whose point group is just the symmetry group of a cube (Figure 7.3a). Three Bravais lattices with nonequivalent space groups all have the cubic point group. They are the simple cubic, body-centered cubic, and face-centered cubic. All three have been described in Chapter 4.
+
+Tetragonal (2) One can reduce the symmetry of a cube by pulling on two opposite faces to stretch it into a rectangular prism with a square base, but a height not equal to the sides of the square (Figure 7.3b). The symmetry group of such an object is the tetragonal group. By so stretching the simple cubic Bravais lattice one constructs the simple tetragonal Bravais lattice, which can be characterized as a Bravais lattice generated by three mutually perpendicular primitive vectors, only two of which are of equal length. The third axis is called the c-axis. By similarly stretching the body-centered and face-centered cubic lattices only one more Bravais lattice of the tetragonal system is constructed, the centered tetragonal.
+
+To see why there is no distinction between body-centered and face-centered tetragonal, consider Figure 7.4a, which is a representation of a centered tetragonal Bravais lattice viewed along the c-axis. The points 2 lie in a lattice plane a distance c/2 from the lattice plane containing the points 1. If c = a, the structure is nothing but a body-centered cubic Bravais lattice, and for general c it can evidently be viewed as the result of stretching the bcc lattice along the c-axis.
+
+The equivalence of two Bravais lattice space groups is a somewhat more subtle notion than the equivalence of two point groups (although both reduce to the concept of "isomorphism" in abstract group theory). It is no longer enough to say that two space groups are equivalent if they have the same operations, for the operations of identical space groups can differ in inconsequential ways. For example, two simple cubic Bravais lattices with different lattice constants, a and a', are considered to have the same space group even though the translations in one are in steps of a, whereas the translations in the other are in steps of a'. Similarly, we would like to regard all simple hexagonal Bravais lattices as having identical space groups, regardless of the value of c/a, which is clearly irrelevant to the total symmetry of the structure.
+
+We can get around this problem by noting that in such cases one can continuously deform a structure of a given type into another of the same type without ever losing any of the symmetry operations along the way. Thus one can uniformly expand the cube axes from a to a', always maintaining the simple cubic symmetry, or one can stretch (or shrink) the c-axis (or a-axis), always maintaining the simple hexagonal symmetry. Therefore two Bravais lattices can be said to have the same space group if it is possible continuously to transform one into the other in such a way that every symmetry operation of the first is continuously transformed into a symmetry operation of the second, and there are no additional symmetry operations of the second not so obtained from symmetry operations of the first.
+
+80 Chapter 7 Classification of Bravais Lattices and Crystal Structures Figure 7.3 Objects whose symmetries are the point-group symmetries of Bravais lattices belonging to the seven crystal systems: (a) cubic; (b) tetragonal; (c) orthorhombic; (d) monoclinic; (e) triclinic; (f) trigonal; (g) hexagonal.
+
+(a) (b) (c) (d) (e) (f) (g)
+
+However, precisely the same lattice can also be viewed along the c-axis, as in Figure 7.4b, with the lattice planes regarded as centered square arrays of side a/√2. If c/a = √2, the structure is nothing but a face-centered cubic Bravais lattice, and for general c it can therefore be viewed as the result of stretching the fcc lattice along the c-axis.
+
+Putting it the other way around, face-centered cubic and body-centered cubic are both special cases of centered tetragonal, in which the particular value of the c/a ratio introduces extra symmetries that are revealed most clearly when one views the lattice as in Figure 7.4a (bcc) or Figure 7.4b (fcc).
+
+Orthorhombic (4) Continuing to still less symmetric deformations of the cube, one can reduce tetragonal symmetry by deforming the square faces of the object in Figure 7.3b into rectangles, producing an object with mutually perpendicular sides of three unequal lengths (Figure 7.3c). The orthorhombic group is the symmetry group of such an object. By stretching a simple tetragonal lattice along one of the a-axes (Figure 7.5a and b), one produces the simple orthorhombic Bravais lattice. However, by stretching the simple tetragonal lattice along a square diagonal (Figure 7.5c and d) one produces a second Bravais lattice of orthorhombic point group symmetry, the base-centered orthorhombic.
+
+In the same way, one can reduce the point symmetry of the centered tetragonal lattice to orthorhombic in two ways, stretching either along one set of parallel lines drawn in Figure 7.4a to The Classification of Bravais Lattices 81 produce body-centered orthorhombic, or along one set of parallel lines in Figure 7.4b, producing face-centered orthorhombic.
+
+These four Bravais lattices exhaust the orthorhombic system.
+
+Monoclinic (2) One can reduce orthorhombic symmetry by distorting the rectangular faces perpendicular to the c-axis in Figure 7.3c into general parallelograms. The symmetry group of the resulting object (Figure 7.3d) is the monoclinic group. By so distorting the simple orthorhombic Bravais lattice one produces the simple monoclinic Bravais lattice, which has no symmetries other than those required by the fact that it can be generated by three primitive vectors, one of which is perpendicular to the plane of the other two. Similarly, distorting the base-centered orthorhombic Bravais lattice produces a lattice with the same simple monoclinic space group. However, so distorting either the face-centered or body-centered orthorhombic Bravais lattices produces the centered monoclinic Bravais lattice (Figure 7.6).
+
+Figure 7.6: View along the c-axis of a centered monoclinic Bravais lattice. The points labeled 1 1 1 / 2 2 2 lie in a lattice plane perpendicular to the c-axis. The points labeled 2 lie in a parallel lattice plane a distance c/2 away, and are directly above the centers of the parallelograms formed by the points 1.
+
+Note that the two monoclinic Bravais lattices correspond to the two tetragonal ones. The doubling in the orthorhombic case reflects the fact that a rectangular net and a centered rectangular net have distinct two-dimensional symmetry groups, while a square net and centered square net are not distinct, nor are a parallelogram net and centered parallelogram net.
+
+Triclinic (1) The destruction of the cube is completed by tilting the c-axis in Figure 7.3d so that it is no longer perpendicular to the other two, resulting in the object pictured in Figure 7.3e, upon which there are no restrictions except that pairs of opposite faces are parallel. By so distorting either monoclinic Bravais lattice one constructs the triclinic Bravais lattice. This is the Bravais lattice generated by three primitive vectors with no special relationships to one another, and is therefore the Bravais lattice of minimum symmetry. The triclinic point group is not, however, the group of an object without any symmetry, since any Bravais lattice is invariant under an inversion in a lattice point. That, however, is the only symmetry required by the general definition of a Bravais lattice, and therefore the only operation other than the identity in the triclinic point group.
+
+By so torturing a cube we have arrived at twelve of the fourteen Bravais lattices and five of the seven crystal systems. We can find the thirteenth and sixth by returning to the original cube and distorting it differently:
+
+11 Other than the identity operation (which leaves the lattice where it is), which is always counted among the members of a symmetry group.
+
+Trigonal (1) The trigonal point group describes the symmetry of the object one produces by stretching a cube along a body diagonal (Figure 7.3f). The lattice made by so distorting any of the three cubic Bravais lattices is the rhombohedral (or trigonal) Bravais lattice. It is generated by three primitive vectors of equal length that make equal angles with one another.12
+
+Finally, unrelated to the cube, is:
+
+Hexagonal (1) The hexagonal point group is the symmetry group of a right prism with a regular hexagon as base (Figure 7.3g). The simple hexagonal Bravais lattice (described in Chapter 4) has the hexagonal point group and is the only Bravais lattice in the hexagonal system.13
+
+The seven crystal systems and fourteen Bravais lattices described above exhaust the possibilities. This is far from obvious (or the lattices would have been known as Frankenheim lattices). However, it is of no practical importance to understand why these are the only distinct cases. It is enough to know why the categories exist, and what they are.
+
+THE CRYSTALLOGRAPHIC POINT GROUPS AND SPACE GROUPS
+
+We next describe the results of a similar analysis, applied not to Bravais lattices but to general crystal structures. We consider the structure obtained by translating an arbitrary object through the vectors of any Bravais lattice, and try to classify the symmetry groups of the arrays so obtained. These depend both on the symmetry of the object and the symmetry of the Bravais lattice. Because the objects are no longer required to have maximum (e.g., spherical) symmetry, the number of symmetry groups is greatly increased: there turn out to be 230 different symmetry groups that a lattice with a basis can have, known as the 230 space groups. (This is to be compared with the fourteen space groups that result when the basis is required to be completely symmetric.)
+
+The possible point groups of a general crystal structure have also been enumerated. These describe the symmetry operations that take the crystal structure into itself while leaving one point fixed (i.e., the nontranslational symmetries). There are thirty-two distinct point groups that a crystal structure can have, known as the thirty-two crystallographic point groups. (This is to be compared with the seven point groups one can have when the basis is required to have full symmetry.)
+
+These various numbers and their relations to one another are summarized in Table 7.1.
+
+The thirty-two crystallographic point groups can be constructed out of the seven Bravais lattice point groups by systematically considering all possible ways of reducing the symmetry of the objects (Figure 7.3) characterized by these groups.
+
+Each of the twenty-five new groups constructed in this way is associated with one of the seven crystal systems according to the following rule: Any group constructed by reducing the symmetry of an object characterized by a particular crystal system continues to belong to that system until the symmetry has been reduced so far that all of the remaining symmetry operations of the object are also found in a less symmetrical crystal system; when this happens the symmetry group of the object is assigned to the less symmetrical system. Thus the crystal system of a crystallographic point group is that of the least symmetric14 of the seven Bravais lattice point groups containing every symmetry operation of the crystallographic group.
+
+Figure 7.7: The hierarchy of symmetries among the seven crystal systems. Each Bravais lattice point group contains all those that can be reached from it by moving in the direction of the arrows.
+
+Objects with the symmetries of the five crystallographic point groups in the cubic system are pictured in Table 7.2. Objects with the symmetries of the twenty-seven noncubic crystallographic groups are shown in Table 7.3.
+
+Crystallographic point groups may contain the following kinds of symmetry operations:
+
+1. Rotations through Integral Multiples of 2π/n about Some Axis. The axis is called an n-fold rotation axis. It is easily shown (Problem 6) that a Bravais lattice can contain only 2-, 3-, 4-, or 6-fold axes. Since the crystallographic point groups are contained in the Bravais lattice point groups, they too can only have these axes.
+
+2. Rotation-Reflections. Even when a rotation through 2π/n is not a symmetry element, sometimes such a rotation followed by a reflection in a plane perpendicular to the axis may be. The axis is then called an n-fold rotation-reflection axis. For example, the groups S6 and S4 (Table 7.3) have 6- and 4-fold rotation-reflection axes.
+
+3. Rotation-Inversions. Similarly, sometimes a rotation through 2π/n followed by an inversion in a point lying on the rotation axis is a symmetry element, even though such a rotation by itself is not. The axis is then called an n-fold rotation-inversion axis. The axis in S4 (Table 7.3), for example, is also a 4-fold rotation-inversion axis. However, the axis in S6 is only a 3-fold rotation-inversion axis.
+
+4. Reflections. A reflection takes every point into its mirror image in a plane, known as a mirror plane.
+
+5. Inversions. An inversion has a single fixed point. If that point is taken as the origin, then every other point r is taken into -r.
+
+14 The notion of a hierarchy of crystal system symmetries needs some elaboration. In Figure 7.7 each crystal system is more symmetric than any that can be reached from it by moving along arrows; i.e., the corresponding Bravais lattice point group has no operations that are not also in the groups from which it can be so reached. There appears to be some ambiguity in this scheme since the four pairs cubic-hexagonal, tetragonal-hexagonal, tetragonal-trigonal, and orthorhombic-trigonal are not ordered by the arrows. Thus one might imagine an object all of whose symmetry operations belonged to both the tetragonal and trigonal groups but to no group lower than both of these. The symmetry group of such an object could be said to belong to either the tetragonal or trigonal systems, since there would be no unique system of lowest symmetry. It turns out, however, both in this and the other three ambiguous cases, that all symmetry elements common to both groups in a pair also belong to a group that is lower than both in the hierarchy. (For example, any element common to both the tetragonal and the trigonal groups also belongs to the monoclinic group.) There is therefore always a unique group of lowest symmetry.
+
+ational type. Note that the Schoenflies categories (given on the extreme left of the table) divide up the groups somewhat differently from the international categories (given on the extreme right). In most (but not all) cases the representative objects have been made by simply decorating in the appropriate symmetry reducing manner the faces of the objects used to represent the crystal systems (Bravais lattice point groups) in Figure 7.3. Exceptions are the trigonal groups and two of the hexagonal groups, where the figures have been changed to emphasize the similarity within the (horizontal) Schoenflies categories. For a representation of the trigonal groups by decorations of the object in Figure 7.3f, see Problem 4.
+
+Point-Group Nomenclature Two nomenclatural systems, the Schönflies and the international, are in wide use. Both designations are given in Tables 7.2 and 7.3.
+
+Schoenflies Notation for the Noncubic Crystallographic Point Groups The Schoenflies categories are illustrated by grouping the rows in Table 7.3 according to the labels given on the left side. They are 15 C_n: These groups contain only an n-fold rotation axis. C_nv: In addition to the n-fold axis, these groups have a mirror plane that contains the axis of rotation, plus as many additional mirror planes as the existence of the n-fold axis requires. C_nh: These groups contain in addition to the n-fold axis, a single mirror plane that is perpendicular to the axis. S_n: These groups contain only an n-fold rotation-reflection axis. D_n: In addition to an n-fold rotation axis, these groups contain a 2-fold axis perpendicular to the n-fold axis, plus as many additional 2-fold axes as are required by the existence of the n-fold axis. D_nh: These (the most symmetric of the groups) contain all the elements of D_n plus a mirror plane perpendicular to the n-fold axis. D_nd: These contain the elements of D_n plus mirror planes containing the n-fold axis, which bisect the angles between the 2-fold axes.
+
+It is instructive to verify that the objects shown in Table 7.3 do indeed have the symmetries required by their Schoenflies names.
+
+International Notation for the Noncubic Crystallographic Point Groups The international categories are illustrated by grouping the rows in Table 7.3 according to the labels given on the right side. Three categories are identical to the Schoenflies categories: n is the same as C_n. nmm is the same as C_nv. The two m's refer to two distinct types of mirror planes containing the n-fold axis. What they are is evident from the objects illustrating 6mm, 4mm, and 2mm. These demonstrate that a 2j-fold axis takes a vertical mirror plane into j mirror planes, but in addition j others automatically appear, bisecting the angles between adjacent planes in the first set. However, a 2j+1-fold axis takes a mirror plane into 2j+1 equivalent ones, and therefore 16 C_3v is only called 3m.
+
+C stands for “cyclic,” D for “dihedral,” and S for “Spiegel” (mirror). The subscripts h, v, and d stand for “horizontal,” “vertical,” and “diagonal,” and refer to the placement of the mirror planes with respect to the n-fold axis, considered to be vertical. (The “diagonal” planes in D_nd are vertical and bisect the angles between the 2-fold axes.)
+
+Table 7.4 ELEMENTS WITH ORTHORHOMBIC BRAVAIS LATTICES^a
+
+| ELEMENT      | a (Å) | b (Å) | c (Å) | |--------------|-------|-------|-------| | Ga           | 4.511 | 4.517 | 7.645 | | P (black)    | 3.31  | 4.38  | 10.50 | | Cl (113 K)   | 6.24  | 8.26  | 4.48  | | Br (123 K)   | 6.67  | 8.72  | 4.48  | | I            | 7.27  | 9.79  | 4.79  | | S (rhombic)  | 10.47 | 12.87 | 24.49 |
+
+^a The lengths of the three mutually perpendicular primitive vectors are a, b, and c.
+
+The structure of rhombic sulfur is complex, with 128 atoms per unit cell. The others can be described in terms of an eight-atom unit cell. For details the reader is referred to Wyckoff.
+
+Density of Levels One must often calculate quantities that are weighted sums over the electronic levels of various one-electron properties. Such quantities are of the form q = 2 ∑_n ∑_k Q_n(k)   (8.2)
+
+where for each n the sum is over all allowed k giving physically distinct levels, i.e., all k of the form (??) lying in a single primitive cell.
+
+In the limit of a large crystal the allowed values (??) of k get very close together, and the sum may be replaced with an integral. Since the volume of k-space per allowed k (??) has the same value as in the free electron case, the prescription derived in the free electron case (Eq. (2.29)) remains valid, and we find that q = lim_{V→∞} 1/V ∑_n ∫ dk Q_n(k) / (2π)^3   (8.3)
+
+where the integral is over a primitive cell.
+
+If, as is often the case, Q_n(k) depends on n and k only through the energy E_n(k), then in further analogy to the free electron case one can define a density of levels per unit volume (or “density of levels” for short) g(E) so that q has the form (cf. (2.60)): q = ∫ dE g(E) Q(E)   (8.4)
+
+Comparing (8.3) and (8.4) we find that g(E) = ∑_n g_n(E)   (8.5)
+
+where g_n(E), the density of levels in the nth band, is given by g_n(E) = ∫ dk δ(E - E_n(k)) / 4π^3   (8.6)
+
+where the integral is over any primitive cell.
+
+Electrons in a Weak Periodic Potential One can gain substantial insight into the structure imposed on the electronic energy levels by a periodic potential, if that potential is very weak. This approach might once have been regarded as an instructive, but academic, exercise. We now know, however, that in many cases this apparently unrealistic assumption gives results surprisingly close to the mark. Modern theoretical and experimental studies of the metals found in groups I, II, III, and IV of the periodic table (i.e., metals whose atomic structure consists of s and p electrons outside of a closed-shell noble gas configuration) indicate that the conduction electrons can be described as moving in what amounts to an almost constant potential. These elements are often referred to as “nearly free electron” metals, because the starting point for their description is the Sommerfeld free electron gas, modified by the presence of a weak periodic potential. In this chapter we shall examine some of the broad general features of band structure from the almost free electron point of view. Applications to particular metals will be examined in Chapter 15.
+
+It is by no means obvious why the conduction bands of these metals should be so free-electron-like. There are two fundamental reasons why the strong interactions of the conduction electrons with each other and with the positive ions can have the net effect of a very weak potential.
+
+1. The electron-ion interaction is strongest at small separations, but the conduction electrons are forbidden (by the Pauli principle) from entering the immediate neighborhood of the ions because this region is already occupied by the core electrons.
+
+In the region in which the conduction electrons are allowed, their mobility further diminishes the net potential any single electron experiences, for they can screen the fields of positively charged ions, diminishing the total effective potential.
+
+These remarks offer only the barest indication of why the following discussion has extensive practical application. We shall return later to the problem of justifying the nearly free electron approach, taking up point 1 in Chapter 11 and point 2 in Chapter 17.
+
+The Tight-Binding Method Linear Combinations of Atomic Orbitals Application to Bands from s-Levels General Features of Tight-Binding Levels Wannier Functions
+
+In Chapter 9 we calculated electronic levels in a metal by viewing it as a gas of nearly free conduction electrons, only weakly perturbed by the periodic potential of the ions. We can also take a very different point of view, regarding a solid (metal or insulator) as a collection of weakly interacting neutral atoms. As an extreme example of this, imagine assembling a group of sodium atoms into a body-centered cubic array with a lattice constant of the order of centimeters rather than angstroms. All electrons would then be in atomic levels localized at lattice sites, bearing no resemblance to the linear combinations of a few plane waves described in Chapter 9.
+
+If we were to shrink the artificially large lattice constant of our array of sodium atoms, at some point before the actual lattice constant of metallic sodium was reached we would have to modify our identification of the electronic levels of the array with the atomic levels of isolated sodium atoms. This would become necessary for a particular atomic level, when the interatomic spacing became comparable to the spatial extent of its wavefunction, for an electron in that level would then feel the presence of the neighboring atoms.
+
+The actual state of affairs for the 1s, 2s, 2p and 3s levels of atomic sodium is shown in Figure 10.1. The atomic wave functions for these levels are drawn about two nuclei separated by 3.7 Å, the nearest-neighbor distance in metallic sodium. The overlap of the 1s wavefunctions centered on the two sites is utterly negligible, indicating that these atomic levels are essentially unaltered in metallic sodium. The overlap of the 2s- and 2p-levels is exceedingly small, and one might hope to find levels in the metal very closely related to these. However, the overlap of the 3s-levels (which hold the atomic valence electrons) is substantial, and there is no reason to expect the actual electronic levels of the metal to resemble these atomic levels.
+
+The tight-binding approximation deals with the case in which the overlap of atomic wave functions is enough to require corrections to the picture of isolated atoms, but not so much as to render the atomic description completely irrelevant. The approximation is most useful for describing the energy bands that arise from the partially filled d-shells of transition metal atoms and for describing the electronic structure of insulators.
+
+Quite apart from its practical utility, the tight-binding approximation provides an instructive way of viewing Bloch levels complementary to that of the nearly free electron picture, permitting a reconciliation between the apparently contradictory features of localized atomic levels on the one hand, and free electron-like plane-wave levels on the other.
+
+Figure 10.1 Calculated electron wavefunctions for the levels of atomic sodium, plotted about two nuclei separated by the nearest-neighbor distance in metallic sodium, 3.7 Å. The solid curves are r R(r) for the 1s, 2s, and 3s levels. The dashed curve is r times the radial wavefunction for the 2p levels. Note how the 3s curves overlap extensively, the 2s and 2p curves overlap only a little, and the 1s curves have essentially no overlap. The curves are taken from calculations by D. R. Hartree and W. Hartree, Proc. Roy. Soc. A193, 299 (1948). The scale on the r-axis is in angstroms.
+
+Other Methods for Calculating Band Structure Independent Electron Approximation General Features of Valence Band Wave Functions Cellular Method Muffin-Tin Potentials Augmented Plane Wave (APW) Method Green's Function (KKR) Method Orthogonalized Plane Wave (OPW) Method Pseudopotentials
+
+In Chapters 9 and 10 we explored approximate solutions to the one-electron Schrödinger equation in the limiting cases of nearly free electrons, and tight binding. In most cases of interest the tight-binding approximation (at least in the simple form outlined in Chapter 10) is suitable only for the representation of bands arising from the ion core levels, while the nearly free electron approximation cannot be directly applied to any real solid.1 The purpose of this chapter is therefore to describe some of the more common methods actually used in the calculation of real band structures.
+
+We remarked in Chapter 8 that in merely writing down a separate Schrödinger equation2
+
+[(-ħ²/2m)∇² + U(r)] ψ_k(r) = E_n(k) ψ_k(r)   (11.1)
+
+for each electron we are already enormously simplifying the actual problem of many interacting electrons in a periodic potential. In an exact treatment each electron cannot be described by a wave function determined by a single-particle Schrödinger equation, independent of all the others.
+
+The independent electron approximation does not in fact entirely neglect electron-electron interactions. Rather it assumes that most of their important effects can be taken into account with a sufficiently clever choice for the periodic potential U(r) appearing in the one-electron Schrödinger equation. Thus U(r) contains not only the periodic potential due to the ions alone, but also periodic effects due to the interaction of the electron (whose wave function appears in (11.1)) with all the other electrons. The latter interaction depends on the configuration of the other electrons; i.e., it depends on their individual wave functions, which are also determined by a Schrödinger equation of the form (11.1). Thus to know the potential appearing in (11.1), one must first know all the solutions to (11.1). Since, however, to know the solutions one must know the potential, one is in for some difficult mathematical efforts.
+
+The simplest (and often the most practical) procedure is to start with a shrewd guess, U_0(r), for U(r), calculate from (11.1) the wave functions for the occupied electronic levels, and from these recompute U(r). If the new potential, U_1(r) is the same as (or very close to) U_0(r), one says that self-consistency has been achieved and takes U = U_1 for the actual potential. If U_1 differs from U_0, one repeats the procedure starting with U_1, taking U_2 as the actual potential if it is very close to U_1, and otherwise continuing on to the calculation of U_3. The hope is that this procedure will converge, eventually yielding a self-consistent potential that reproduces itself.3
+
+We shall assume in this chapter (as in Chapters 8–10) that the potential U(r) is a given function; i.e., that we are either engaged in the first step of this iterative procedure or, by a fortunate guess, are able to work with a reasonably self-consistent U(r) from the start. The reliability of the methods we are about to describe is limited not only by the accuracy of the computed solutions to (11.1), which can be quite high, but also by the accuracy with which we have been able to estimate the potential U(r). The resulting E_n(k) display a disconcerting sensitivity to errors in the construction of the potential, and it is often the case that the final accuracy of the computed band structure is limited more by the problem of finding the potential than by the difficulties in solving the Schrödinger equation (11.1) for a given U. This is strikingly illustrated in Figure 11.1.
+
+Figure 11.1 Energy bands for vanadium, calculated for two possible choices of crystal potential U(r). Vanadium is body-centered cubic and the bands are plotted along the [100] direction from the origin to the Brillouin zone boundary. The atomic structure of vanadium is five electrons around a closed-shell argon configuration. The bands displayed are the 3d and 4s derived bands (and higher bands). (a) The bands are shown as calculated in a U(r) derived from an assumed 3d3 4s2 configuration for atomic vanadium. (b) The bands are shown based on an assumed 3d4 4s1 atomic configuration. (From L. F. Matheiss, Phys. Rev. A97, 0134, (1964).)
+
+Another point to emphasize at the start is that none of the methods we shall describe can be carried through analytically, except in the simplest one-dimensional examples. All require modern, high-speed computers for their execution. Progress in the theoretical calculation of energy bands has kept close pace with development of larger and faster computers, and the kinds of approximations one is likely to consider are influenced by available computational techniques.4
+
+GENERAL FEATURES OF VALENCE-BAND WAVE FUNCTIONS
+
+Since the low-lying core levels are well described by tight-binding wave functions, calculational methods aim at the higher-lying bands (which may be either filled, partially filled, or empty). These bands are referred to in this context, in contrast to the tight-binding core bands, as the valence bands.5 The valence bands determine the electronic behavior of a solid in a variety of circumstances, electrons in the core levels being inert for many purposes.
+
+The essential difficulty in practical calculations of the valence-band wave functions and energies is revealed when one asks why the nearly free electron approximation of Chapter 9 cannot be applied to the valence bands in an actual solid. A simple, but superficial, reason is
+
+1 However, more sophisticated techniques often yield an analysis very much like the nearly free electron approximation in a suitably modified potential, known as the pseudopotential (see below).
+
+2 We continue to drop explicit reference to the band index n, except when this would lead to ambiguity.
+
+3 One must remember, however, that even the self-consistent solution is still only an approximate solution to the vastly more complex many-body problem.
+
+4 See, for example, Computational Methods in Band Theory, P. M. Marcus, J. F. Janak 5 ... (text continues)
+
+,and A. R. Williams, eds., Plenum Press, New York, 1971; and Methods in Computational Physics: Energy Bands in Solids, Vol. 8, B. Alder, S. Fernbach, and M. Rotenberg, eds., Academic Press, New York, 1968.
+
+5Unfortunately the same term, “valence band,” is used in the theory of semiconductors with a rather more narrow meaning. See Chapter 28.
+
+that the potential is not small. Very roughly we might estimate that, at least well within the ion core, U(r) has the Coulombic form
+
+$$-\frac{Ze^2}{r}; \quad (11.2)$$
+
+where Z is the atomic number. The contribution of (11.2) to the Fourier components $U_{\mathbf{K}}$ in ?? will be (see p. 167 and ??):
+
+$$U_{\mathbf{K}} = -\frac{4\pi Z a e^2}{K^2 v}; \quad (11.3)$$
+
+If we write this as
+
+$$|U_{\mathbf{K}}| = \frac{e^2}{2a} \left( \frac{8\pi Z a^3}{v} \right) \frac{1}{(aK)^2} \simeq \frac{13.6 \text{ eV}}{(aK)^2}; \quad (11.4)$$
+
+we see that $U_{\mathbf{K}}$ can be of the order of several electron volts for a very large number of reciprocal lattice vectors $\mathbf{K}$ and is therefore comparable to the kinetic energies appearing in ??. Thus the assumption that $U$ is small compared to these kinetic energies is not permissible.
+
+A deeper insight into this failure is afforded by considering the nature of the core and valence wave functions. The core wave functions are appreciable only within the immediate vicinity of the ion, where they have the characteristic oscillatory form of atomic wave functions (Figure 11.2a). These oscillations are a manifestation of the high electronic kinetic energy within the core,^6 which, in combination with the high negative potential energy, produces the total energy of the core levels. Since valence levels have higher total energies than core levels, within the core region, where they experience the same large and negative potential energy as the core electrons, the valence electrons must have even higher kinetic energies. Thus within the core region the valence wave functions must be even more oscillatory than the core wave functions.
+
+This conclusion can also be reached by an apparently different argument: Eigenstates of the same Hamiltonian with different eigenvalues must be orthogonal. In particular any valence wave function $\psi_{\mathbf{k}}(\mathbf{r})$ and any core wave function $\phi_c(\mathbf{r})$ must satisfy:
+
+$$\int d\mathbf{r} \, \phi_c^*(\mathbf{r}) \psi_{\mathbf{k}}(\mathbf{r}) = 0. \quad (11.5)$$
+
+Core wave functions are appreciable only within the immediate vicinity of the ion, so the main contribution of this integral must come from the core region. It is enough to consider the contribution to (11.5) from the core region of a single ion, since Bloch's theorem (??) requires the integrand to be the same from cell to cell. Within this core region $\psi_{\mathbf{k}}(\mathbf{r})$ must have oscillations that carefully interlace with those of all the $\phi_c(\mathbf{r})$ in order to cause the integrals (11.5) to vanish for all core levels.
+
+Either of these arguments leads to the conclusion that a valence wave function should have the form pictured in Figure 11.2b. If, however, the valence wave functions have an oscillatory structure on the scale of the core region, a Fourier expansion such as (??) must contain many short wavelength plane waves, i.e., many terms with large wave vectors. Thus the nearly free electron method, which leads to an approximate wave function composed of a very small number of plane waves, must be untenable.
+
+In one way or another, all of the calculational methods now in use are attempts to come to grips with the necessity for reproducing this detailed, atomic-like structure of the valence wave functions in the core region, while facing the fact that the valence levels are not of the tight-binding type, and therefore have appreciable wave functions in the interstitial regions.
+
+---
+
+## 12 The Semiclassical Model of Electron Dynamics
+
+Wave Packets of Bloch Electrons Semiclassical Mechanics General Features of the Semiclassical Model Static Electric Fields The General Theory of Holes Uniform Static Magnetic Fields Hall Effect and Magnetoresistance
+
+The Bloch theory (Chapter 8) extends the equilibrium free electron theory of Sommerfeld (Chapter 2) to the case in which a (nonconstant) periodic potential is present. In Table 12.1 we compare the major features of the two theories. To discuss conduction we had to extend Sommerfeld’s equilibrium theory to nonequilibrium cases. We argued in Chapter 2 that one could calculate the dynamic behavior of the free electron gas using ordinary classical mechanics, provided that there was no need to localize an electron on a scale comparable to the interelectronic distance. Thus the trajectory of each electron between collisions was calculated according to the usual classical equations of motion for a particle of momentum $\hbar\mathbf{k}$:
+
+$$\hbar\dot{\mathbf{k}} = -e\left( \mathbf{E} + \frac{\mathbf{v}}{c} \times \mathbf{H} \right). \quad (12.1)$$
+
+If pressed to justify this procedure from a quantum-mechanical point of view we would argue that (12.1) actually describes the behavior of a wave packet of free electron levels,
+
+$$\psi(\mathbf{r};t) = \int_{k>k_0} d\mathbf{k} \, g(\mathbf{k}) \exp \left\{ i \left[ \mathbf{k} \cdot \mathbf{r} - \frac{\hbar k^2}{2m} t \right] \right\} \quad (12.2)$$
+
+where $\mathbf{r}$ and $\hbar\mathbf{k}$ are the mean position and momentum about which the wave packet is localized (to within the limitation $\Delta x \Delta k \gtrsim 1$ imposed by the uncertainty principle).
+
+This approach has a simple and elegant generalization to electrons in a general periodic potential, which is known as the semiclassical model. Justifying the semiclassical model in detail is a formidable task, considerably more difficult than justifying the ordinary classical limit for free electrons. In this book we shall not offer a systematic derivation. Our emphasis instead will be on how the semiclassical model is used. We shall therefore simply describe the model, state the limitations on its validity, and extract some of its major physical consequences.^1
+
+The reader who is dissatisfied with the very incomplete and merely suggestive bases we shall offer for the semiclassical model is urged to examine the broad array of mysteries and anomalies of free electron theory that the model resolves. Perhaps a suitable attitude to take is this: If there were no underlying microscopic quantum theory of electrons in solids, one could still imagine a semiclassical mechanics (guessed by some late nineteenth-century Newton of crystalline space) that was brilliantly confirmed by its account of observed electronic behavior, just as classical mechanics was confirmed by its accounting for planetary motion, and only very much later given a more fundamental derivation as a limiting form of quantum mechanics.
+
+As with free electrons, two questions arise in discussing conduction by Bloch electrons^2: (a) What is the nature of the collisions? (b) How do Bloch electrons move between collisions? The semiclassical model deals entirely with the second question, but the Bloch theory also critically affects the first. Drude assumed that the electrons collided with the fixed heavy ions. This assumption cannot be reconciled with the very long mean free paths possible in metals, and fails to account for their observed temperature dependence.^3 The Bloch theory excludes it on theoretical grounds as well. Bloch levels are stationary solutions to the Schrödinger equation in the presence of the full periodic potential of the ions. If an electron in the level $\psi_{n\mathbf{k}}$ has a nonvanishing mean velocity (as it does unless $\partial E_n(\mathbf{k}) / \partial \mathbf{k}$ happens to vanish), then that velocity persists forever.^4 One cannot appeal to collisions with static ions as a mechanism to degrade the velocity, because the interaction of the electron with the fixed periodic array of ions has been fully taken into account ab initio in the Schrödinger equation solved by the Bloch wave function. Thus the conductivity of a perfect periodic crystal is infinite.
+
+^1 For one of the more recent efforts at a systematic derivation see J. Zak, Phys. Rev. 168, 686 (1968). References to much of the earlier work are given therein. A very appealing treatment of Bloch electrons in a magnetic field (perhaps the most difficult area in which to derive the semiclassical model) is given by R. G. Chambers, Proc. Phys. Soc. 89, 695 (1966), who explicitly constructs a time-dependent wave packet whose center moves along the orbit determined by the semiclassical equations of motion.
+
+^2 We shall use the term “Bloch electrons” to mean “electrons in a general periodic potential.” ^3 Page 9.
+
+^4 See page 141.
+
+This result, so disconcerting to one’s classical inclination to picture the electrons as...
+
+suffering current degrading bumps with individual ions, can be understood as a simple manifestation of the wave nature of electrons. In a periodic array of scatterers a wave can propagate without attenuation because of the coherent constructive interference of the scattered waves.5
+
+Metals have an electrical resistance because no real solid is a perfect crystal: There are always impurities, missing ions, or other imperfections that can scatter electrons, and at very low temperatures it is these that limit conduction. Even if imperfections could be entirely eliminated, however, the conductivity would remain finite because of thermal vibrations of the ions, which produce temperature-dependent distortions from perfect periodicity in the potential the electrons experience. These deviations from periodicity are capable of scattering electrons, and are the source of the temperature dependence of the electronic relaxation time that was noted in Chapter 1. We defer a full discussion of the actual scattering mechanisms to Chapters 16 and 26. Here we only note that the Bloch theory now forces us to abandon Drude’s naive picture of electron-ion scattering. We shall nevertheless continue to extract consequences that follow from the simple assumption that some scattering mechanism exists, irrespective of its detailed features.
+
+Thus the main problem we face is how to describe the motion of Bloch electrons between collisions. The fact that the mean velocity of an electron in a definite Bloch level is6 v_n(k) = (1/ℏ) ∂E_n(k)/∂k (12.3)
+
+is very suggestive. Consider a wave packet of Bloch levels from a given band, constructed in analogy to the free electron wave packet (12.2): ψ(r;t) = Σ_k g_n(k - k0) u_nk(r) exp[-iE_n(k)t/ℏ]; g_n(k - k0) ≠ 0 only for |k - k0| < Δk (12.4)
+
+Let the spread in wave vector Δk be small compared with the dimensions of the Brillouin zone, so that E_n(k) varies little over all levels appearing in the wave packet. The formula for the velocity (12.3) can then be viewed as the familiar assertion that the group velocity of a wave packet is ∂ω/∂k = (1/ℏ) ∂E/∂k.
+
+The semiclassical model describes such wave packets when it is unnecessary to specify the position of an electron on a scale comparable with the spread of the packet.
+
+Let us estimate how broad the wave packet (12.4) must be when the spread in wave vector is small compared with the dimensions of the Brillouin zone. We examine the wave packet at points separated by a Bravais lattice vector. Setting r = r0 + R, and using the basic property (?) of the Bloch function, we can write (12.4) as ψ(r0 + R;t) = Σ_k [g_n(k - k0) u_nk(r0)] exp[i(k·R - E_n(k)t/ℏ)]. (12.5)
+
+Viewed as a function of R for fixed r0, this is just a superposition of plane waves, of the form 5 For a unified view of a variety of such phenomena, see L. Brillouin, Wave Propagation in Periodic Structures, Dover, New York, 1953.
+
+6 See page 141. The result is proved in Appendix E.
+
+(12.2), with a weight function G_n(k) ≡ g_n(k - k0) u_nk(r0). Thus if Δk measures the region within which G_n (and hence u_nk) is appreciable,7 then ψ(r0 + R), in accordance with the usual rules for wave packets, should be appreciable within a region of dimensions ΔR ~ 1/Δk. Since Δk is small compared with the zone dimensions, which are of the order of the inverse lattice constant 1/a, it follows that ΔR must be large compared with a. This conclusion is independent of the particular value of r0, and we therefore conclude that a wave packet of Bloch levels with a wave vector that is well defined on the scale of the Brillouin zone must be spread in real space over many primitive cells.
+
+The semiclassical model describes the response of the electrons to externally applied electric and magnetic fields that vary slowly over the dimensions of such a wave packet (Figure 12.1) and therefore exceedingly slowly over a few primitive cells.
+
+In the semiclassical model such fields give rise to ordinary classical forces in an equation of motion describing the evolution of the position and wave vector of the packet. The subtlety of the semiclassical model that makes it more complicated than the ordinary classical limit of free electrons, is that the periodic potential of the lattice varies over dimensions that are small compared with the spread of the wave packet, and therefore cannot be treated classically. Thus the semiclassical model is a partial classical limit: The externally applied fields are treated classically, but the periodic field of the ions is not.
+
+The semiclassical model predicts how, in the absence of collisions, the position r and wave vector k of each electron8 evolve in the presence of externally applied electric and magnetic fields. This prediction is based entirely upon a knowledge of the band structure of the metal, i.e., upon the forms of the functions E_n(k), and upon no other explicit information about the periodic potential of the ions. The model takes the E_n(k) as given functions, and says nothing about how to compute them. The aim of the model is to relate the band structure to the transport properties, i.e., the response of the electrons to applied fields or temperature gradients. One uses the model both to deduce transport properties from a given (calculated) band structure and to deduce features of the band structure from the observed transport properties.
+
+Given the functions E_n(k), the semiclassical model associates with each electron a position r, a wave vector k, and a band index n. In the course of time and in the presence of external electric and magnetic fields E(r;t) and H(r;t) the position, wave vector, and band index are taken to evolve according to the following rules:
+
+1.  The band index n is a constant of the motion. The semiclassical model ignores the possibility of “interband transitions”.
+
+2.  The time evolution of the position and wave vector of an electron with band index n are determined by the equations of motion: ℏ dr/dt = ∂E_n(k)/∂k (12.6a)
+
+ℏ dk/dt = -e[E(r;t) + (1/c) v_n(k) × H(r;t)] (12.6b)
+
+3.  (This rule simply restates those features of the full quantum mechanical Bloch theory that are retained in the semiclassical model.) The wave vector of an electron is only defined to within an additive reciprocal lattice vector K. One cannot have two distinct electrons with the same band index n and position r, whose wave vectors k and k' differ by a reciprocal lattice vector K; the labels n, r, k and n, r, k' + K are completely equivalent ways of describing the same electron.9 All distinct wave vectors for a single band therefore lie in a single primitive cell of the reciprocal lattice. In thermal equilibrium the contribution to the electronic density from those electrons in the nth band with wave vectors in the infinitesimal volume element dk of k-space is given by the usual Fermi distribution (2.56):10 f_n(E_n(k)) dk = dk / {4π³ [1 + exp((E_n(k) - μ)/k_B T)]} (12.7)
+
+Because the applied fields are assumed to cause no interband transitions, one can consider each band to contain a fixed number of electrons of a particular type. The properties of these types may differ considerably from band to band, since the kind of motion electrons with band index n can undergo depends on the particular form of E_n(k). In (or near) equilibrium, bands with all energies many k_B T above the Fermi energy E_F will be unoccupied. Thus one need not consider infinitely many carrier types, but only those in bands with energies within a few k_B T of, or lower than, E_F. Furthermore, we shall see below that bands in which all energies are many k_B T less than E_F—i.e., bands that are completely filled in equilibrium—can also be ignored! As a result, only a small number of bands (or carrier types) need be considered in the description of a real metal or semiconductor.
+
+Note that within each band the equations of motion (12.6) are the same as the free electron equations (12.1) except that E_n(k) appears instead of the free electron energy ℏ²k²/2m. Nevertheless, the crystal momentum ℏk is not the momentum of a Bloch electron, as emphasized in Chapter 8. The rate of change of an electron’s momentum is given by the total force on the electron, but the rate of change of an electron’s crystal momentum is given by Eq. (12.6), in which forces are exerted only by the external fields and not by the periodic field of the lattice.11
+
+In the limit of zero periodic potential the semiclassical model must break down, for in that limit the electron will be a free electron. In a uniform electric field a free electron can continually increase its kinetic energy at the expense of electrostatic potential energy. However, the semiclassical model forbids interband transitions, and therefore requires that the energy of any electron remains confined within the limits of the band in which the electron originally found itself.
+
+Thus there must be some minimum strength to a periodic potential before the semiclassical model can be applied. Such restrictions are not easy to derive, but have a very simple form, which we state here without proof.13 At a given point in k-space the semiclassical equations will be valid for electrons in the nth band provided that the amplitudes of the slowly varying external electric and magnetic fields satisfy
+
+E · k/² gap eEa ; (12.8)
+
+c  E
+
+E · k/² gap ! : (12.9)
+
+c  E
+
+In these inequalities the length a is of the order of a lattice constant, E gap(k/) is the difference between E n(k/) and the nearest energy E n(k/) at the same point in k-space but in a different band, and ! is the angular cyclotron frequency (Eq. (1.18)).
+
+Condition (12.8) is never close to being violated in a metal. Even with a current density as large as 10² A/cm² and a resistivity as large as 100 µΩ·cm, the field
+
+11 Although the periodic lattice potential does play a crucial role in the semiclassical equations (through the structure of the function E n(k/) determined by that potential), the role cannot be that of a position-dependent force. To probe a force with the periodicity of the lattice one would have to localize an electron within a single primitive cell. Such a localization is inconsistent with the structure of the wave packets underlying the semiclassical model (see Figure 12.1), which are spread over many lattice sites.
+
+12 This requirement is violated every time the free electron wave vector crosses a Bragg plane, since the electron then jumps from the lower free electron band to the higher one.
+
+13 A rough justification is given in Appendix J.
+
+13 The Semiclassical Theory of Conduction in Metals
+
+The Relaxation-Time Approximation General Form of the Nonequilibrium Distribution Function DC Electrical Conductivity AC Electrical Conductivity Thermal Conductivity Thermoelectric Effects Conductivity in a Magnetic Field
+
+114 Chapter 13 The Semiclassical Theory of Conduction in Metals
+
+Our discussion of electronic conduction in Chapters 1, 2 and 12 was often somewhat qualitative and frequently depended on simplifying features of the particular case being examined. In this chapter we describe a more systematic method of calculating conductivities, applicable to general semiclassical motion in the presence of space- and time-dependent perturbing fields and temperature gradients. The physical approximations underlying this analysis are no more rigorous or sophisticated than those used in Chapter 12, merely more precisely stated. However, the method by which the currents are calculated from the basic physical assumptions is more general and systematic, and of such a form that comparison with more accurate theories can easily be made (Chapter 16).
+
+The description of conduction in this chapter will employ a nonequilibrium distribution function 𝑔 𝑛(𝐫; 𝐤; 𝑡) defined so that 𝑔 𝑛(𝐫; 𝐤; 𝑡) 𝑑𝐫 𝑑𝐤/4𝜋³ is the number of electrons in the nth band at time 𝑡 in the semiclassical phase space volume 𝑑𝐫 𝑑𝐤 about the point 𝐫; 𝐤. In equilibrium it reduces to the Fermi function,
+
+𝑔 𝑛(𝐫; 𝐤; 𝑡) = 𝑓 (𝐸 𝑛(𝐤))
+
+𝑓(𝐸) = ─────────────── e^( (𝐸 - 𝜇) / 𝑘_B𝑇 ) + 1 (13.1)
+
+but in the presence of applied fields and/or temperature gradients it will differ from its equilibrium form.
+
+In this chapter we shall derive a closed expression for , based on (a) the assumption that between collisions the electronic motion is determined by the semiclassical equations (12.6), and (b) a particularly simple treatment of collisions, known as the relaxation-time approximation, that gives a precise content to the qualitative view of collisions we have put forth in earlier chapters. We shall then use the nonequilibrium distribution function to calculate the electric and thermal currents in several cases of interest beyond those considered in Chapter 12.
+
+14 Measuring the Fermi Surface
+
+The de Haas-van Alphen Effect Other Oscillatory Galvanomagnetic Effects Free Electron Landau Levels Bloch Electrons Landau Levels Physical Origin of Oscillatory Phenomena Effects of Electron Spin Magnetoacoustic Effect Ultrasonic Attenuation Anomalous Skin Effect Cyclotron Resonance Size Effects
+
+116 Chapter 14 Measuring the Fermi Surface
+
+There is a class of measurable quantities valued primarily because they contain detailed information about the geometric structure of the Fermi surface. Such quantities depend only on universal constants (e; ℏ; c, or m), experimentally controlled variables (such as temperature, frequency, magnetic field strength, crystal orientation), and information about the electronic band structure that is entirely determined by the shape of the Fermi surface.
+
+We have already encountered one such quantity, the high-field Hall constant, which (in uncompensated metals with no open orbits for the given field direction) is entirely determined by the k-space volume enclosed by the hole-like and particle-like branches of the Fermi surface. Quantities yielding such Fermi surface information have a place of special importance in metals physics. Their measurement almost always requires single crystals of very pure substances at very low temperatures (to eliminate dependence on the relaxation time) and is frequently performed in very strong magnetic fields (to force the electrons to sample the Fermi surface geometry in the course of their semiclassical motion in k-space).
+
+The importance of determining the Fermi surface of metals is clear: The shape of the Fermi surface is intimately involved in the transport coefficients of a metal (as discussed in Chapters 12 and 13) as well as in the equilibrium and optical properties (as will be illustrated in Chapter 15). An experimentally measured Fermi surface provides a target at which a first-principles band structure calculation can aim. It can also be used to provide data for fitting parameters in a phenomenological crystal potential, which can then be used to calculate other phenomena. If nothing else, Fermi surface measurements are of interest as a further test of the validity of the one-electron semiclassical theory, since there are now many independent ways of extracting Fermi surface information.
+
+Of the techniques used to deduce the geometry of the Fermi surface, one has proved far and away the most powerful: the de Haas-van Alphen effect (and a group of closely related effects based on the same underlying physical mechanism). This phenomenon is almost entirely responsible for the vast and growing body of precise knowledge of the Fermi surfaces of a great number of metals. No other technique approaches it in power or simplicity. For this reason the bulk of this chapter is devoted to an exposition of the de Haas-van Alphen effect. We shall conclude with brief discussions of a selection of other effects which have been used to provide supplementary geometrical information.
+
+15 Band Structure of Selected Metals
+
+Alkali Metals Noble Metals Divalent Simple Metals Trivalent Simple Metals Tetravalent Simple Metals Semimetals Transition Metals Rare Earth Metals Alloys
+
+118 Chapter 15 Band Structure of Selected Metals
+
+In this chapter we describe some of the better understood features of the band structures of specific metals, as deduced from experiment through techniques such as those described in Chapter 14. Our primary aim is simply to illustrate the great range and variety of band structures possessed by the metallic elements. When, however, a particular feature of its band structure is strikingly reflected in the physical properties of a metal, we shall point this out. In particular, we shall note examples of Fermi surfaces that afford clear-cut illustrations of the influence of band structure on transport properties, as discussed in Chapters 12 and 13, as well as noting some of the more straightforward examples of how band structure can affect specific heats and optical properties.
+
+16 Beyond the Relaxation-Time Approximation
+
+Sources of Electronic Scattering Scattering Probability and Relaxation Time General Description of Collisions The Boltzmann Equation Impurity Scattering Wiedemann-Franz Law Matthiessen’s Rule Scattering in Isotropic Materials
+
+120 Chapter 16 Beyond the Relaxation-Time Approximation
+
+The general semiclassical theory of conduction in Chapter 13 (as well as the arguments in Chapters 1 and 2) described electronic collisions as random, uncorrelated events that could be treated in a relaxation-time approximation. This approximation assumes that the form of the nonequilibrium electronic distribution function has no effect either on the rate at which a given electron experiences collisions or on the distribution of electrons emerging from collisions.1
+
+No attempt was made to justify these assumptions. They are only used because they give the simplest representation of the fact that collisions do take place and are ultimately responsible for thermal equilibrium. Indeed, in detail the assumptions are certainly wrong. The rate at which an electron collides depends critically on the distribution of the other electrons, even in an independent electron approximation, because the Pauli exclusion principle allows an electron to be scattered only into empty electronic levels. Furthermore, the distribution of electrons that emerge from collisions does depend on the electronic distribution function, not only because the exclusion principle limits the available final levels, but also because the net output from collisions depends on the form of the input, which is determined by the distribution function.
+
+Thus considerable restraint must be exercised in drawing conclusions from calculations based on the relaxation-time approximation. In general, such results can be used with confidence only when details of the collision process are clearly of little consequence. For example, the high-frequency (𝜔𝜏 >> 1) conductivity and the high-field (𝜔𝜏 >> 1) Hall coefficient are left unchanged by improvements in the relaxation-time approximation, since they describe limiting cases in which the number of collisions per cycle, or per period of revolution in the magnetic field, is vanishingly small.
+
+Results whose validity transcends the relaxation-time approximation usually involve quantities that are independent of 𝜏. The high-field Hall coefficient, for example, is R = 1/𝑛𝑒𝑐. However, one should not assume uncritically that all expressions in which 𝜏 fails to appear are valid beyond the relaxation-time approximation. A noteworthy counterexample...
+
+The Wiedemann-Franz law predicts the universal ratio σ/κ = e²/3k for the ratio of thermal to electrical conductivities of a metal, independent of the functional form of τ(k). Nevertheless, when the relaxation-time approximation is not made, we shall see that the law holds only when the energy of each electron is conserved in each collision.
+
+When specific features of the collision process are of importance, the relaxation-time approximation can still be highly informative, provided that the features are gross properties rather than fine details. Thus in describing semiconductors one often assigns different relaxation times to electrons and holes; i.e., one uses a τ that depends on the band index but not on the wave vector. If there is reason to believe that scattering processes are much more common in one band than the other, then such a simplification may be quite valuable in working out the general implications of such a disparity.
+
+However, results that are sensitive to detailed features of the functional form of τ(k) are to be viewed with suspicion. If, for example, one attempts to deduce τ(k) for a given band from a set of data and a theory based on the relaxation-time approximation, there is no reason to expect that different kinds of experimental determinations of τ(k) will not yield entirely different functions. The relaxation-time approximation overlooks the fact that the nature of the scattering does depend on the nonequilibrium electronic distribution function, which in general will differ from one experimental situation to another.
+
+In this chapter we shall describe, and contrast to the relaxation-time approximation, the more accurate description of collisions used (except in the cases noted above) for anything more accurate than a rough, qualitative description of conduction.
+
+Beyond the Independent Electron Approximation The Hartree Equations The Hartree-Fock Equations Correlation Screening: The Dielectric Function Thomas-Fermi and Lindhard Theory Frequency-Dependent Lindhard Screening Screening the Hartree-Fock Approximation Fermi Liquid Theory
+
+The proper choice of the potential U(r) appearing in the one-electron Schrödinger equation
+
+-ħ²/2m ∇²ψ(r) + U(r)ψ(r) = Eψ(r)   (17.1)
+
+is a subtle problem. Underlying this problem is the question of how best to represent the effects of electron-electron interactions, a subject we have so far altogether ignored by working in the independent electron approximation.
+
+From a fundamental point of view it is impossible to describe electrons in a metal correctly by so elementary an equation as (17.1), however ingenious the choice of U(r), because of the enormously complicating effects of the interactions between electrons. A more accurate calculation of the electronic properties of a metal should start with the Schrödinger equation for the N-particle wave function of all N electrons in the metal, Ψ(r₁σ₁, r₂σ₂, ..., r_Nσ_N):
+
+HΨ = [∑ᵢ (-ħ²/2m ∇ᵢ² - Ze²/|rᵢ - R|) + ∑ᵢ<ⱼ e²/|rᵢ - rⱼ|] Ψ = EΨ   (17.2)
+
+Here the negative potential-energy term represents the attractive electrostatic potentials of the bare nuclei fixed at the points R of the Bravais lattice, and the last term represents the interactions of the electrons with each other.
+
+One has no hope of solving an equation such as (17.2). Further progress requires some simplifying physical idea. One such idea is suggested by asking what choice of U(r) would make the one-electron equation (17.1) least unreasonable. Evidently U(r) should include the potentials of the ions:
+
+U_ion(r) = -∑_R Ze²/|r - R|   (17.3)
+
+In addition, however, we should like U(r) to incorporate (at least approximately) the fact that the electron feels the electric fields of all the other electrons. If we treated the remaining electrons as a smooth distribution of negative charge with charge density ρ, the potential energy of the given electron in their field would be
+
+U_el(r) = -e∫ dr' ρ(r')/|r - r'|   (17.4)
+
+Furthermore, if we persisted in an independent electron picture, the contribution of an electron in the level i to the charge density would be
+
+ρ_i(r) = -e|ψ_i(r)|²   (17.5)
+
+The total electronic charge density would then be
+
+ρ(r) = -e∑_i |ψ_i(r)|²   (17.6)
+
+where the sum extends over all occupied one-electron levels in the metal. Placing (17.6) in (17.4) and letting U = U_ion + U_el we arrive at the one-electron equation:
+
+[-ħ²/2m ∇² + U_ion(r)]ψ_i(r) + e²∫ dr' [∑_j |ψ_j(r')|²] ψ_i(r)/|r - r'| = E_i ψ_i(r)   (17.7)
+
+The set of equations (17.7) (there is one for each occupied one-electron level ψ_i(r)) is known as the Hartree equations. These nonlinear equations for the one-electron wave functions and energies are solved, in practice, by iteration: A form is guessed for U_el (the term in brackets in (17.7)) on the basis of which the equations are solved. A new U_el is then computed from the resulting wave functions, ψ_i(r), and a new Schrödinger equation is solved. Ideally, the procedure is continued until further iterations do not materially alter the potential.
+
+The Hartree approximation fails to represent the way in which the particular (as opposed to the average) configuration of the other N-1 electrons affects the electron under consideration, for Eq. (17.7) describes the electron as interacting only with the field obtained by averaging over the positions of the remaining electrons (with a weight determined by their wave functions). As crude an approximation as this is to the full Schrödinger equation (17.2), it still leads to a mathematical task of considerable numerical complexity. To improve upon the Hartree approximation is quite difficult. There are, however, certain other important physical features of electron-electron interactions that cannot be treated in a simple self-consistent field approximation, but are nevertheless fairly well understood. In this chapter we shall survey the following:
+
+1. The extension of the self-consistent field equations to include what is known as "exchange."
+
+2. The phenomenon of "screening," which is of importance in developing a still more accurate theory of electron-electron interactions, and in accounting for the response of metallic electrons to charged particles such as ions, impurities, or other electrons.
+
+3. The Fermi liquid theory of Landau, which provides a phenomenological way of predicting the qualitative effects of electron-electron interactions on the electronic properties of metals, as well as offering an explanation for the quite extraordinary success the independent electron approximation has had.
+
+We shall not discuss any of the many attempts to develop a really systematic way of treating electron-electron interactions. Such efforts come under the general heading of "many-body problems," and have been dealt with, in recent years, through "field theoretic" or "Green's function" methods.
+
+EXCHANGE: THE HARTREE-FOCK APPROXIMATION
+
+The Hartree equations (17.7) have a fundamental inadequacy that is not at all evident from the derivation we gave. The defect emerges if we return to the exact N-electron Schrödinger equation and cast it into the equivalent variational form, which asserts that a solution to HΨ = EΨ is given by any state Ψ that makes stationary the quantity:
+
+⟨Ψ|H|Ψ⟩ / ⟨Ψ|Ψ⟩ = H_eff   (17.8)
+
+where
+
+⟨Ψ|Φ⟩ = ∫ dr₁...dr_N Ψ*(r₁σ₁,..., r_Nσ_N) Φ(r₁σ₁,..., r_Nσ_N)   (17.9)
+
+In particular, the ground-state wave function is that Ψ that minimizes (17.8). This property of the ground state is frequently exploited to construct approximate ground states by minimizing (17.8) not over all Ψ, but over a limited class of wave functions chosen to have a more tractable form.
+
+It can be shown that the Hartree equations (17.7) follow from minimizing (17.8) over all Ψ of the form:
+
+Ψ(r₁σ₁, r₂σ₂, ..., r_Nσ_N) = ψ₁(r₁σ₁) ψ₂(r₂σ₂) ... ψ_N(r_Nσ_N)   (17.10)
+
+where the ψᵢ are a set of N orthonormal one-electron wave functions. Thus the Hartree equations give the best approximation to the full N-electron wave function that can be represented as a simple product of one-electron levels.
+
+The wave function (17.10), however, is incompatible with the Pauli principle, which requires the sign of Ψ to change when any two of its arguments are interchanged:
+
+Ψ(r₁σ₁, ..., r_iσ_i, ..., r_jσ_j, ..., r_Nσ_N) = -Ψ(r₁σ₁, ..., r_jσ_j, ..., r_iσ_i, ..., r_Nσ_N)   (17.11)
+
+Equation (17.11) cannot be satisfied for the product form (17.10) unless Ψ vanishes identically.
+
+The simplest generalization of the Hartree approximation that incorporates the antisymmetry requirement (17.11) is to replace the trial wave function (17.10) by a Slater determinant of one-electron wave functions. This is a linear combination of the product (17.10) and all other products obtainable from it by permutation of the r_jσ_j among themselves, added together with weights +1 or -1 so as to guarantee condition (17.11):
+
+Ψ(r₁σ₁, ..., r_Nσ_N) = det | ψ₁(r₁σ₁) ... ψ_N(r_Nσ_N) | = ψ₁(r₁σ₁) ... ψ_N(r_Nσ_N) - ψ₂(r₁σ₁) ... ψ_N(r_Nσ_N) + ...   (17.12)
+
+This antisymmetrized product can be written compactly as the determinant of an N x N matrix.
+
+or the one-electron Schrödinger equation, but the general case is, if anything, simpler.
+
+We leave this as a straightforward exercise (Problem 1) for the reader.
+
+The antisymmetry of the N-electron wave function is the fundamental manifestation of the Pauli principle. The alternative statement of the principle, that no one-electron level can be multiply occupied, can only be formulated in an independent electron approximation. There it follows directly from the fact that (17.13) must vanish if any i = j. The Hartree state (17.10) is consistent (though not, like (17.13), automatically so) with the prohibition on multiple occupation, provided that no two i are the same. However, it fails the more fundamental test of antisymmetry.
+
+With a little bookkeeping (Problem 2) it can be shown that if the energy (17.8) is evaluated in a state of the form (17.13), with orthonormal single electron wave functions ... , then 1 N the result is:
+
+Notice that the last term in (17.14) is negative and involves the product in place i* i' of the usual one-electron combination . Minimizing (17.14) with respect to the i* (Problem 2) leads to a generalization of the Hartree equations known as the Hartree-Fock equations:
+
+where Uel is defined in (17.4) and (17.6). These equations differ from the Hartree equations (17.7) by an additional term on the left side, known as the exchange term. The complexity introduced by the exchange term is considerable. Like the self-consistent field Uel (often referred to as the direct term) it is nonlinear i∫n, but unlike the direct term it is not of the form V(r) . Instead, it has the structure V(r; r') dr' —i.e., it is an integral operator. As a result, the Hartree-Fock equations are in general quite intractable. The one exception is the free electron gas. When the periodic potential is zero (or constant) the Hartree-Fock equations can be solved exactly by choosing the to be a set of orthonormal plane waves. Although the case of free electrons has dubious bearing on the problem of electrons in a real metal, the free electron solution suggests a further approximation that makes the Hartree-Fock equations in a periodic potential more manageable. We therefore comment briefly on the free electron case.
+
+Since a determinant changes sign when any two columns are interchanged, this insures that the condition (17.11) holds.
+
+More complicated solutions, known as spin density waves, are also possible (Chapter 32).
+
+## HARTREE-FOCK THEORY OF FREE ELECTRONS
+
+The familiar set of free electron plane waves,
+
+with each wave vector less than k occur twice (once for each spin orientation) in the Slater determinant, gives a solution to the Hartree-Fock equation for free electrons. For if plane waves are indeed solutions, then the electronic charge density that determines Uel will be uniform. However, in the free electron gas the ions are represented by a uniform distribution of positive charge with the same density as the electronic charge. Hence the potential of the ions is precisely canceled by the direct term: Uion + Uel = 0. Only the exchange term survives, which is easily evaluated by writing the Coulomb interaction in terms of its Fourier transform:
+
+If (17.17) is substituted into the exchange term in (17.15) and the are all taken to be plane waves of the form (17.16), then the left side of (17.15) assumes the form
+
+where
+
+This shows that plane waves do indeed solve (17.15), and that the energy of the one-electron level with wave vector k is given by (17.19). The function F(x) is plotted in Figure 17.1a, and the energy E(k) in Figure 17.1b.
+
+Several features of the energy (17.19) deserve comment:
+
+1. Although the Hartree-Fock one-electron levels continue to be plane waves, the energy of an electron in the level is now given by 2k²/2m plus a term describing the effects of the electron-electron interaction. To compute the contribution of these interactions to the total energy of the N-electron system, we must sum this correction over all k < k, multiply by 2 (for the two spin levels that are occupied for each k), and divide by 2 (because, in summing the interaction energy of a given electron over all electrons, we are counting each electron pair twice).
+
+In this way we find that
+
+We have already evaluated the first term in Chapter 2 (Eq. (2.31)). If we transform the second term into an integral, it can be evaluated to give:
+
+This result is conventionally written in terms of the rydberg (e²/2a₀ = 1 Ry ≡ 13.6 eV) and the parameter rₛ = a₀ (page 4):
+
+Since rₛ / a₀ in metals is in the range from 2 to 6, the second term in (17.23) is quite comparable to the first in size, and indicates that electron-electron interactions cannot be overlooked in any free electron estimate of the electronic energy of a metal.
+
+2. With much labor the exact leading terms in a high-density (i.e., small rₛ / a₀) expansion of the ground-state energy of the electron gas have been calculated:
+
+Note that the first two terms are just the Hartree-Fock result (17.23). Since rₛ / a₀ is not small in metals, this expansion is of doubtful relevance, but its derivation marked one of the first systematic attempts to work out a more accurate theory of electron-electron interactions. The next two terms in (17.24) and all other corrections to the Hartree-Fock result are conventionally referred to as the correlation energy. Note that the correlation energy is not a quantity with physical significance; it merely represents the error incurred in making a fairly crude first-order approximation.
+
+3. The average change in the energy of an electron from 2k²/2m due to exchange is just the second term in E/N; i.e.,
+
+This form led Slater to suggest that in nonuniform systems and, in particular, in the presence of the periodic potential of the lattice, one could simplify the Hartree-Fock equations by replacing the exchange term in (17.15) by a local energy given by twice (17.25) with k evaluated at the local density; i.e., he proposed an equation in which the effect of exchange was taken into account by merely adding to the Hartree term Uel(r) an additional potential Uexchg(r), given by
+
+This procedure, gross and ad hoc though it is, is actually followed in many band structure calculations. There have been some controversies over whether it is better to average the free electron exchange over all k or to evaluate it at k = k, but the crude nature of the approximation makes the dispute one of limited content. It is hard to say more for this simplification than that to exclude the exchange contribution, containing only further corrections beyond that provided by Hartree-Fock theory.
+
+15 J.C. Slater, Phys. Rev. 81, 385 (1951); 82, 538 (1951); 91, 528 (1953).
+
+16 See, for example, W. Kohn and L.J. Sham, Phys. Rev., 140, A1193 (1965), and R. Gaspar, Acta. Phys. Acad. Sci. Hung. 3, 263 (1954).
+
+it approximates the effects of exchange by introducing a potential that favors regions of high density, in a way that roughly mimics the density dependence of the exchange term in the free electron energy density.
+
+4. Equation (17.19) has one rather alarming feature: The derivative ∂E/∂k becomes logarithmically infinite17 at k = kF. Since 1/∂E/∂k is precisely the velocity of those electrons most important for metallic properties, this is an unsettling result. A singularity at k = kF in the one-electron energies makes the Sommerfeld expansion (2.70) invalid, and leads in this case to an electronic heat capacity at low temperatures going not as T, but as T / ln T.
+
+17 See Figure 17.1.
+
+The singularity does not occur for a general noncoulombic potential, but can be traced back to the divergence of the Fourier transform 4πe²/k² of the interaction e²/r, at k = 0. This in turn reflects the very long range of the inverse square force. If the Coulomb interaction were replaced, for example, by one of the form e²(e^{-k0 r}/r), then its Fourier transform18 would be 4πe²/(k² + k0²), the k = 0 divergence would be eliminated, and the unphysical singularity of the Hartree-Fock energies removed. It can be argued (see below) that the potential appearing in the exchange term should be modified in just this way to take into account the fields of electrons other than the two at r and r', which rearrange themselves so as partially to cancel the fields the two electrons exert on one another. This effect, known as “screening,” is of fundamental importance not only for its effects on the electron-electron interaction energy, but, more generally, in determining the behavior of any charge-carrying disturbance in a metal.19 18 Problem 3.
+
+19 The ions in a metal are an important case and will be referred to in the context of dynamic screening in Chapter 26.
+
+Surface Effects The Work Function Contact Potentials Thermionic Emission Low-Energy Electron Diffraction Field Ion Microscopy Electronic Surface Levels
+
+Because we have been interested primarily in bulk properties, we have ignored surfaces, working with the idealized model of an infinitely extended solid.1 Our justification for this was that of the 10²⁴ atoms in a macroscopic crystal of typically 10⁸ atoms on a side, only about one in 10⁸ reside near the surface.
+
+1 For mathematical convenience, we have also generally replaced the infinite solid with the periodically repeated solid portrayed by Born-von Karman boundary conditions.
+
+In limiting ourselves to bulk properties we are neglecting the increasingly important field of surface physics, which deals with phenomena such as catalysis or crystal growth, which are entirely determined by the interaction of surface atoms with atoms impinging on the crystal. Since the microscopic structure of the surfaces of most specimens tends to be irregular and difficult to ascertain, the field of surface physics is quite complex, with nothing like the variety of simple and experimentally verifiable models available in the physics of bulk solids. We shall have nothing to say, even in this chapter, about such surface phenomena, limiting ourselves to a description of some of the important tools for determining surface structure.
+
+However, even if we are interested only in bulk properties, we are still forced to deal with the surface whenever a measurement (e.g., the application of a voltmeter) removes an electron from the solid. The energy required to extract an electron, although it originates deep in the interior, is determined by surface as well as bulk conditions. This is because there are distortions in the electronic charge distribution near the surface that, because of the long range of the Coulomb potential, affect the energies of levels far inside. Such effects are crucial to the understanding of contact potentials (see below), thermionic emission (the boiling of electrons out of a metal at high temperatures), the photoelectric effect (the ejection of electrons by incident photons), or any other phenomena in which electrons are removed from a solid or pass from one solid to another.
+
+In describing such phenomena a crucial role is played by the work function, defined as the minimum energy required to remove an electron from the interior of a solid to a position just outside. "Just outside" means a distance from the surface that is large on the atomic scale, but small compared with the linear dimensions of the crystal and will be given a more detailed specification in the discussion below.
+
+EFFECT OF THE SURFACE ON THE BINDING ENERGY OF AN ELECTRON: THE WORK FUNCTION To illustrate how the surface affects the energy required to remove an electron, let us compare the periodic potential Uinf(r) of an idealized infinite crystal, with the potential Ufin(r) appearing in the one-electron Schrödinger equation for a finite specimen of the same substance. For simplicity we consider only crystals from the cubic system that possess inversion symmetry. In the infinite (or periodically extended crystal) we can represent Uinf as a sum of contributions from primitive Wigner-Seitz cells about each lattice point: Uinf(r) = Σ v(r - R)  (18.1)
+
+R where v(r) = ∫_C dr' ρ(r') / |r - r'|  (18.2)
+
+The integration in (18.2) is over a Wigner-Seitz cell C centered at the origin; ρ(r) is the total charge density, electronic and ionic.2 2 The one-electron Schrödinger equation we have in mind is therefore the self-consistent Hartree equation discussed in ???.
+
+At distances from the cell that are large compared with its dimensions we can make the multipole expansion of electrostatics, writing 1 / |r - r'| = 1/r - (1/r²)r̂·r' + (1/r³)[ (3/2)(r̂·r')² - (1/2)r'² ] + O(1/r⁴);  (18.3)
+
+to find that v(r) = eQ/r - e p·r̂ / r² + O(1/r³)  (18.4)
+
+where Q = ∫_C dr' ρ(r')  (18.5)
+
+is the total charge of the cell, and p = ∫_C dr' r' ρ(r')  (18.6)
+
+is its total dipole moment.
+
+Since the crystal is electrically neutral and ρ(r) has the periodicity of the Bravais lattice, each primitive cell must be electrically neutral: Q = 0. Furthermore, in a crystal with inversion symmetry the contribution of the Wigner-Seitz cell to the dipole moment vanishes. As a consequence of cubic symmetry the coefficient of the 1/r³ term (the quadrupole potential) will also vanish,3 and since inversion symmetry also requires the coefficient of 1/r⁴ to vanish, we can conclude that the contribution of a Wigner-Seitz cell to v(r) decreases as 1/r⁵ —i.e., quite rapidly– at large distances from the cell.
+
+3 This follows from the fact that ∫_C dr' r'_i r'_j ρ(r') must vanish when i ≠ j, and must equal its average value, (1/3) ∫_C dr' r'² ρ(r') δ_ij, when i = j. Consequently the first term in "3(r r')² - r² r'²" in Eq. (18.3) must cancel the second. If the crystal does not have cubic symmetry our general conclusions are unaffected, but considerable care must be exercised in dealing with the quadrupole term. A 1/r³ dependence by itself does not diminish quite rapidly enough with distance to insure that remote cells are without mutual influence, and the angular dependence of the quadrupole potential must also be taken into account. This makes the discussion much more technical, and is not, for our purposes, worth the trouble.
+
+Thus the contribution to Uinf(r) from cells far (on the atomic scale) from the point r is negligibly small, and Uinf(r) is very well approximated by the contribution from cells within a few lattice constants of r.
+
+Now consider a finite crystal. Suppose that we could represent the ionic configuration by simply occupying some finite region V of the Bravais lattice occupied in the infinite crystal. Suppose, furthermore, that the electronic charge density in the Wigner-Seitz cell about each ion remained completely undistorted from the form it takes in the infinite crystal, even in cells near the surface (Figure 18.1a). Under these assumptions each occupied cell would continue to contribute v(r - R) to the potential, and we would have: Ufin(r) = Σ v(r - R)  (18.8)
+
+R in V Figure 18.1 (a) The electric charge density near the surface of a finite crystal if there were no distortion in cells near the surface. The density is plotted along a line of ions. Vertical dashed lines indicate cell boundaries. (b) The form of the crystal potential U (or the electrostatic potential U = -eφ) determined by the charge density in (a), along the same line. Far from the crystal U and φ drop to zero. The (negative) Fermi energy is indicated on the vertical axis. The shading below EF is meant to suggest the filled electronic levels in the metal. Since the lowest electronic levels outside the metal have zero energy, an energy W = -EF must be supplied to remove an electron.
+
+If (18.8) were correct, then at points r far inside the crystal on the atomic scale, Ufin would differ from Uinf only because the finite crystal lacked cells at sites R far from r. Since such cells make a negligible contribution to the potential at r; Ufin(r) would be indistinguishable from Uinf(r) when r was more than a few lattice constants inside the crystal. Furthermore, when r was more than a few lattice constants outside of the crystal, Ufin(r) would be dominated by the fifth-power dependence of the contribution to Ufin from each occupied cell of the cubic crystal (Figure 18.1b).
+
+As a result, the energy of the highest occupied electronic level well within the crystal would still be EF, where EF is the Fermi energy calculated for the ideal infinite crystal with the periodic potential Uinf. Furthermore the lowest energy of an electronic level outside of the crystal would be zero (since Ufin would approach zero outside of the crystal, and the kinetic energy of a free electron can be made arbitrarily small).
+
+19 Classification Classification of Solids The Spatial Distribution of Valence Electrons Covalent, Molecular, and Ionic Crystals The Alkali Halides Ionic Radii II-VI and III-V Compounds Covalent Crystals Molecular Crystals Metals Hydrogen-Bonded Solids
+
+In Chapter 7 we discussed the classification of solids on the basis of the symmetry of their crystal structures. The categories described there are very important, but are based entirely on a single aspect of the solid: its geometrical symmetries. Such a classification scheme is blind to important structural aspects of a solid that affect its physical (even if not its purely geometrical) properties. Thus within each of these seven crystal systems one can find solids exhibiting the full range of electrical, mechanical, and optical properties.
+
+In this chapter we describe another, less rigorous, classification scheme, which is not based on symmetry, but emphasizes physical properties. The scheme is based on the configuration of the valence electrons.1
+
+The most important distinction determined by the valence electrons is that between metals and insulators. As we have seen (Chapter 8) the difference between metals and insulators depends on whether there are (metals) or are not (insulators) any partially filled energy bands.2 In perfect crystals at zero temperature, provided that the independent electron approximation is valid, this is a completely rigorous criterion, leading to two unambiguous categories.3
+
+The basis for these two categories is the distribution of electrons, not in real space, but in wavevector space. Nowhere near as rigorous a criterion can be found to distinguish metals from insulators based on the distribution of electrons in real space. One can only make the qualitative observation that the electronic distribution in metals is generally not nearly so concentrated in the vicinity of the ion cores as it is in insulators. This is illustrated in Figure 19.1, where the wave functions of the occupied electronic levels in atomic sodium and atomic neon are plotted about two centers whose separation is equal to the nearest-neighbor separation in the solid. The electronic density in sodium remains appreciable even midway between the atoms, but it is quite small in neon. If one tried to construct from this an argument that solid neon should be insulating and solid sodium conducting, the chain of thought would be something like this: Appreciable overlap of atomic wave functions suggests—from the point of view of tight-binding theory (Chapter 10)—the presence of broad bands, which in turn leads to the possibility of considerable band overlap, and, hence, metallic properties. One is thus led rather quickly back to k-space, where the only really satisfactory criterion can be given.
+
+1 As elsewhere in this book, we take the view that solids are composed of ion cores (i.e., nuclei and those electrons so strongly bound as to be negligibly perturbed from their atomic configurations by their environment in the solid) and valence electrons (i.e., those electrons whose configuration in the solid may differ significantly from that in the isolated atom.) As emphasized earlier, the distinction between core and valence electrons is one of convenience. In metals—especially in simple metals—it is frequently enough to consider only the conduction electrons as valence electrons, including all others in the rigid ion core. In transition metals, however, it may be of considerable importance to consider the electrons in the highest J-shells as valence rather than core electrons. In saying that the classification scheme is based on the valence electrons, we mean only that it depends on those aspects of the atomic electronic configuration that are significantly altered when the atoms are assembled together into the solid.
+
+2 The distinction also depends on the validity of the independent electron approximation (or, less stringently, on the validity of the quasiparticle picture (Chapter 17)).
+
+3 At nonzero temperatures the distinction may be blurred in insulators with small energy gaps, because of thermal excitation of electrons into the conduction band. Such solids are known as intrinsic semiconductors. Impurities in an otherwise insulating solid may also contribute electrons that are easily thermally excited into the conduction band, leading to extrinsic semiconductors. The characteristic properties of semiconductors are discussed in Chapter 28. From the point of view of this chapter (which is concerned only with perfect crystals at T = 0), all semiconductors are insulators.
+
+Figure 19.1 The calculated radial atomic wave functions r ψ(r) for (a) neon [1s²2s²2p⁶] and (b) sodium [1s²2s²2p⁶3s¹]. The wave functions are drawn about two centers whose separation is taken to be the observed nearest-neighbor distance in the solid (neon, 3.1 Å; sodium, 3.7 Å.) There is a very small overlap of the 2s and 2p orbitals in neon. The 2s and 2p orbitals overlap considerably less in sodium, but there is enormous overlap of the 3s wave functions. (Curves are from calculations by D. R. Hartree and W. Hartree, Proc. Roy. Soc. A193, 299 (1948).)
+
+The Noble Gases: The Lennard-Jones Potential Density, Cohesive Energy, and Bulk Modulus of the Solid Noble Gases Ionic Crystals: The Madelung Constant Density, Cohesive Energy, and Bulk Modulus of the Alkali Halides Cohesion in Covalent Crystals Cohesion in Metals
+
+The cohesive energy of a solid is the energy required to disassemble it into its constituent parts—i.e., its binding energy.1 This energy depends, of course, on what the constituent parts are considered to be. They are generally taken to be the individual atoms of the chemical elements out of which the solid is composed, but other conventions are sometimes used. For example, it might be convenient to define the cohesive energy of solid nitrogen as that required to separate it into a set of isolated nitrogen molecules, rather than atoms. Knowing the binding energy of an isolated nitrogen molecule, one can easily convert from one definition to the other. Similarly, in the alkali halide crystals we shall discuss the energy necessary to separate the solid into isolated ions, rather than atoms. The link between the two energies is provided by the first ionization potential of the alkali metal atom and the electron affinity of the halogen atom.
+
+In the early days of solid state physics much effort was devoted to computing cohesive energies, and the subject pervaded the theory of solids much more than it does today. Older discussions of the classification of solids, for example, rely heavily on the nature of the cohesion, rather than emphasizing (as in Chapter 19) the (closely related) spatial electronic arrangement. The importance of the cohesive energy is that it is the ground-state energy of the solid; its sign, for example, determines whether the solid will be stable at all. Indeed, its generalization to nonzero temperatures, the Helmholtz free energy, if known as a function of volume and temperature, contains all equilibrium thermodynamic information about the solid. However, solid state physics has come to focus more and more on nonequilibrium properties (e.g., transport properties and optical properties) and the study of cohesion no longer plays the dominant role it once did.
+
+In this chapter we shall discuss some elementary facts about cohesive energies at zero temperature. We shall calculate these energies for an externally imposed lattice constant, and shall therefore be considering solids under external pressure. By calculating the rate of change of cohesive energy with lattice constant we can find the pressure necessary to maintain a given volume, and therefore determine the equilibrium lattice constant as that requiring zero pressure2 for its maintenance. In the same way we can calculate the compressibility of the solid—i.e., the change in volume produced by a given change in pressure. This is more accessible to physical measurement than the cohesive energy itself, since it does not require dismantling of the solid into its constituents.
+
+Throughout this chapter we shall treat the ion cores as classical particles, which can be perfectly localized with zero kinetic energy at the sites of a lattice. This is incorrect, for it violates the uncertainty principle. If an ion core is confined to a region of linear dimensions Δx, the uncertainty in its momentum will be of order ħ/Δx. It will therefore have a kinetic energy of order ħ²/2M(Δx)², known as the zero-point kinetic energy, whose contribution to the energy of the solid must be taken into account. Furthermore, since the ions are not perfectly localized (for that would imply infinite zero-point kinetic energy), the deviations in their potential energy from that of classical particles fixed at lattice sites must be allowed for. We shall not be able to do this in any but the crudest way (Problem 1) until Chapter 23, where we describe the theory of lattice vibrations. For now we only note that the lighter the ionic mass, the larger is the zero-point kinetic energy, and the more suspect the approximation of perfectly localized ions. We shall see some simple evidence for the importance of zero-point motion in the lighter noble gases in our discussion below.3 In most other cases the errors introduced by the neglect of zero-point motion are of the order of 1 percent or less.
+
+1 It is frequently given in kilocalories per mole. A useful conversion factor is 23.05 kcal/mole = 1 eV/molecule.
+
+2 More correctly, atmospheric pressure. However, the difference in size between a solid at atmospheric pressure and one in vacuum is negligible at the level of accuracy of our analysis.
+
+Having noted this oversimplification, we turn to the other, generally more important, factors contributing to the binding energy of the various types of solids.4 We start with the molecular solids (the crude theory of which is particularly simple) treating them as atoms held together by the short-range fluctuating dipole interaction, and prevented from coming close together by the still shorter-range core-core repulsion.5 On a similar level of sophistication, ionic crystals are somewhat more subtle, because the basic building blocks are now electrically charged ions, and problems arise connected with the very long range of the interionic force. On the other hand, the electrostatic interaction energy of the ions is so large that it completely dominates all other sources of attraction.6 In this respect the crude theory...

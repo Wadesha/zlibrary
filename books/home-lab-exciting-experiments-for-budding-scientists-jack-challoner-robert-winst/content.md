@@ -1,17 +1,8 @@
 # 家庭实验室：给未来科学家的精彩实验（Home Lab: Exciting Experiments for Budding Scientists），作者 Jack Challoner、Robert Winston（Z-Library）
 
-> 来源文件：pre_Home_Lab_Exciting_Experiments_for_Budding_Scientists_Jack_Challoner_Robert_Winston_Z_Library.txt
-> 字符数（约）：160330
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 给未来科学家的精彩实验 家庭实验室
 
-项目美术编辑 Laura Gardner 项目编辑 Ashwin Khurana 设计 Nicola Erdpresser 设计助理 Sean Ross 编辑 Ann Baggaley 执行编辑 Lisa Gillespie 执行美术编辑 Owen Peyton Jones 前期制作主管 Gillian Reid 制作 Mary Slater 护封设计开发经理 Sophia MTT 护封执行编辑 Saloni Singh 护封编辑 Claire Gell 高级护封设计师 Mark Cavanagh 护封设计师 Suhita Dharamjit 图片研究员 Myriam Megharbi 出版人 Andrew Macintyre 副出版总监 Liz Wheeler 艺术总监 Karen Self 设计总监 Phil Ormerod 出版总监 Jonathan Metcalf 撰稿及顾问 Jack Challoner 摄影 Dave King 2016 年首次在英国由 Dorling Kindersley Limited（80 Strand, London, WC2R 0RL）出版 版权所有 © 2016 Dorling Kindersley Limited，企鹅兰登书屋（Penguin Random House）旗下公司 印数 2 4 6 8 10 9 7 5 3 1 编号 001–282970–July/2016 未经版权所有者事先书面许可，不得以任何形式或任何方式（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播本出版物的任何部分。
-
 本书的 CIP（在版编目）目录记录可向大英图书馆（British Library）索取。
-
-ISBN：978-0-2412-2844-9 中国印刷 一个 Ideas 的世界：探索所有可知之事 www.dk.com
 
 罗伯特·温斯顿（ROBERT WINSTON） 家庭实验室 给未来科学家的精彩实验
 
@@ -2788,4 +2779,3 @@ com: Lyudmila6304 (clb). 147 Press Association Images: Pablo Martinez Monsivais 
 All other images © Dorling Kindersley For further information see: www.dkimages.com
 
 ## 索引
-

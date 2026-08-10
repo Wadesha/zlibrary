@@ -1,10 +1,5 @@
 # Birds of East Asia Eastern China Taiwan Korea Japan Eastern Russia Brazil Mark Z Library
 
-> 来源文件：pre_Birds_of_East_Asia_Eastern_China_Taiwan_Korea_Japan_Eastern_Russia_Brazil_Mark_Z_Library.txt
-> 字符数（约）：1602669
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 H e l m  F i e l d  G u i d e S Mark Brazil Eastern China • Taiwan • Korea Japan • Eastern Russia Birds of East Asia
 
 A L E U TI A N I S L AN D S
@@ -28,14 +23,6 @@ J a n g JIANGSU SHANDONG MAGADAN
 Accentors Albatrosses Avocets Auks 103–107 Babblers 169–178 Barbets Barn owls Bee-eaters Bitterns 34–35 Boobies Bulbuls 153–155 Buntings 227–233 Bustards Buttonquails Buzzards 53–54 Cisticolas Cormorants Coursers Cranes 61–62 Crests Crows 138–141 Cuckoos 113–115 Cuckoo-shrikes 131–133 Curlews 74–75 Dippers Divers Dowitchers Drongos Ducks 11–21 Eagles 49, 54–55 Egrets 38–39 Falcons 44–46 Finches 219–224 Flowerpeckers Flycatchers 202–207 Forktails Frigatebirds Fulvettas Geese 7–9 Godwits Grebes Grouse 1–2 Gulls 86–94 Harriers 50–51 Herons 36–38 Hoopoe Hummingbirds Ibisbill Ibises Jacanas Kites Kingfishers 123–124 Larks 149–151 Laughingthrushes 171–173 Leafbirds Long-tailed tits Minivets 132–133 Monarchs Munias 211–212 Mynas New World blackbirds New World sparrows	 233–235 New World warblers Nightjars Noddies Nuthatches Orioles 135–136 Owls 116–120 Oystercatchers Painted-snipe Paradise flycatchers Paradise whydahs Parrotbills 177–178 Parrots Partridges 2–4 Pelicans Petrels 24–26, 29 Penduline tits Phalaropes Pheasants 4–6 Pigeons & doves 108–111 Pipits 216–218 Pittas Plovers 64–68 Pratincoles Prinias Quails Rails & crakes 57–60 Redstarts 195–197 Robins 193–196 Rollers Sandgrouse Sandpipers 75–84 Sea Eagles 47–48 Shrikes 133–135 Shearwaters 27–28 Shrike-flycatchers Shortwings Snipe 70–71 Sparrowhawks 52–53 Sparrows Skuas 101–102 Spoonbills Stilts Storks Storm-petrels 29–30 Starlings 181–184 Stonechats Sunbirds Swallows & martins	146–148 Swans Swifts 121–122 Terns 95–100 Thrushes 184–191 Tits 142–145 Treecreepers Trogons Tropicbirds Turnstones Vultures 48–49 Wagtails 214-215 Warblers 156–169 Waxbills Waxwings Weavers Wheatears White-eyes Woodcocks Woodpeckers 126–130 Woodswallows Wrens Yuhinas Quick index to the main groups of birds in this book Figures in bold refer to plate numbers.
 
 Christopher Helm London Field Guide to the Birds of East Asia Eastern China, Taiwan, Korea, Japan and Eastern Russia Mark Brazil Illustrated by Dave Nurney Per Alström, Carl D’Silva, Martin Elliott, Kim Franklin, Alan Harris, Ren Hathway, Hans Larsson, Derek Onley, Christopher Schmidt, Brian Small, Laurel Tucker, Tim Worfolk and Bill Zetterström
-
-Published 2009 by Christopher Helm, an imprint of A&C Black Publishers Ltd,36 Soho Square, London W1D 3QY Electronic edition 2010 Copyright © 2009 text Mark Brazil Copyright © 2009 illustrations: Dave Nurney 1–6, 10, 22, 31, 36, 57–60, 63–85, 103–111, 113–149, 151 (part), 152–155, 162–184, 202–192–200, 202–209, 211–215, 219–235; Per Alström 216–218; Carl D’Silva 7–9, 11–15, 21 (part), 32–35, 37–39, 61–62; Martin Elliott 101–102; Kim Franklin 49 (part); Alan Harris 16, 19, 40–43, 44, 45, 46, 47 (part), 48 (part), 49 (part), 50, 51–53, 54 (part), 56 (p), 112, 210, 236; Ren Hathway 185–191, 201; Hans Larsson 86–94; Derek Onley 23–30; Christopher Schmidt 95–100; Brian Small 155 (part), 156–161; Laurel Tucker 17–18, 20, 21 (part); Tim Worfolk 47 (part), 48 (part) 49 (part), 54 (part), 55, 56 (part); Bill Zetterström 149 (part)–151 (part).
-
-The right of Mark Brazil to be identified as the author of this work has been asserted in accordance with the Copyright, Design and Patents Act 1988.
-
-ISBN (print) 978-0-7136-7040-0 ISBN (e-pub) 978-1-4081-0874-1 ISBN (e-pdf) 978-1-4081-3873-1 ACIP catalogue record for this book is available from the British Library form or by anymeans – photographic, electronic or mechanical, including photo- copying, recording, taping or information storage or retrieval systems – without permission of the publishers.
-
-Commissioning Editor: Nigel Redman Project Editor: Jim Martin Design by Fluke Art, Cornwall Maps by Fergus Crystal, Julie Dando and Mark Brazil Visit www.acblack.com/naturalhistory to find out more about our authors and their books. You will find extracts, author interviews and our blog, and you can sign up for newsletters to be the first to hear about our latest releases and special offers.
 
 Front cover: Steller’s Sea Eagle (Alan Harris)
 
@@ -606,8 +593,6 @@ Robson, C. 2000. A Guide to the Birds of Southeast Asia. New Holland, London.
 Sibley, D. A. 2000. The North American Bird Guide. Christopher Helm, London.
 
 Svensson, L. Grant, P. J., Mullarney, K. & Zetterström, D. 1999. Collins Bird Guide. HarperCollins, London.
-
-Extensive glossary and bibliography sections are available online at http://sites.google.com/site/birdsofeastasia Finches (Fringillidae) 24/168 219–224 A large, almost worldwide group of small to medium-sized seed-eating birds. They are typically large- headed with conical (often stout or stout-based) bills. Territorial when breeding, they are highly social and gregarious outside the breeding season, forming large flocks at food sources or roost sites. They are somewhat akin to buntings, but their bodies are generally stockier and their tails shorter, often with a clear notch at the tip. The wings are longish and pointed, and flight is undulating.
 
 New World warblers (Parulidae) 4/112 A large family of small, active birds confined to the New World (with the exception of vagrancy to Europe and northeast Asia). With fine bills they are largely insectivorous; some species specialise in canopy niches and are generally brightly coloured, others prefer the shrub layer or are semi-terrestrial (and are generally drably coloured). They show considerable sexual dimorphism and age-related plumage variation.
 

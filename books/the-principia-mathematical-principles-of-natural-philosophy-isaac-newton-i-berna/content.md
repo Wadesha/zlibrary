@@ -1,10 +1,5 @@
 # The Principia Mathematical Principles of Natural Philosophy Isaac Newton I Bernard Cohen Anne Whitman etc Z Library
 
-> 来源文件：pre_The_Principia_Mathematical_Principles_of_Natural_Philosophy_Isaac_Newton_I_Bernard_Cohen_Anne_Whitman_etc_Z_Library.txt
-> 字符数（约）：2295044
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ISAAC NEWTON THE PRINCIPIA Mathematical Principles of Natural Philosophy A New Translation by I. Bernard Cohen and Anne Whitman assisted by Julia Budenz Preceded by A GUIDE TO NEWTON'S PRINCIPIA by I. Bernard Cohen U N I V E R S I T Y OF C A L I F O R N I A PRESS Berkeley Los Angeles London
 
 THE PRINCIPIA
@@ -29,8 +24,6 @@ David Gregory first made contact with Newton in the early 1690s, and although th
 
 Mathematical Principles of Natural Philosophy A New Translation by I. Bernard Cohen and Anne Whitman assisted by Julia Budenz Preceded by A GUIDE TO NEWTON'S PRINCIPIA by I. Bernard Cohen U N I V E R S I T Y OF C A L I F O R N I A PRESS Berkeley Los Angeles London
 
-University of California Press Berkeley and Los Angeles, California University of California Press London, England Copyright © 1999 by The Regents of the University of California Library of Congress Cataloging-in-Publication Data Newton, Isaac, Sir, 1642-1727.
-
 [Principia. English]
 
 The Principia : mathematical principles of natural philosophy / Isaac Newton ; a new translation by I. Bernard Cohen and Anne Whitman assisted by Julia Budenz ; preceded by a guide to Newton's Principia by I. Bernard Cohen, p.
@@ -39,15 +32,11 @@ cm.
 
 Includes bibliographical references and index.
 
-ISBN 978-0-520-08816-0 (alk. paper).—ISBN 978-0-520-08817-7 (alk. paper)
-
 ## 1. Newton, Isaac, Sir, 1642-1727. Principia. 2. Mechanics—Early
 
 works to 1800. 3. Celestial mechanics—Early works to 1800.
 
 I. Cohen, I. Bernard, 1914- . II. Whitman, Anne Miller, 1937-1984. III. Title.
-
-QA803.N413 531—dc21 99-10278 CIP Printed in the United States of America The paper used in this publication meets the minimum requirements of ANSI/NISO Z39.48-1992 (R 1997) (Permanence of Paper). @
 
 This translation is dedicated to D. T. W H I T E S I D E with respect and affection
 
@@ -72,8 +61,6 @@ Xii
 in its own right. Such a plan was announced in our Latin edition, and we even prepared a special interleaved copy of the facsimile of the 1729 edition to serve as our working text.* After the Latin edition appeared, however, many colleagues and some review- ers of that edition insisted that it was now our obligation to produce a completely new translation of the Principia, rather than confine our attentions to Motte's older pioneering work. We were at first reluctant to accept this assignment, not only because of the difficulty and enormous labor involved, but also because of our awareness that we ourselves would thereby become responsible for interpretations of Newton's thought for a long period of time.
 
 Goaded by our colleagues and friendly critics, Anne Whitman and I finally agreed to produce a wholly new version of the Principia. We were fortunate in ob- taining a grant from the National Science Foundation to support our efforts. Many scholars offered good advice, chief among them our good friends D. T. Whiteside and R. S. Westfall. In particular, Whiteside stressed for us that we should pay no attention to any existing translation, not even consulting any other version on occasions when we might be puzzled, until after our own assignment had been fully completed. Anyone who has had to translate a technical text will appreciate the importance of this advice, since it is all too easy to be influenced by other translations, even to the extent of unconsciously repeating their errors. Accord- ingly, during the first two or three rounds of translation and revision, we recorded puzzling or doubtful passages, and passages for which we hoped to produce a final version that would be less awkward than our preliminary efforts, reserving for some later time a possible comparison of our version with others. It should be noted that in the final two rounds of our revision, while checking some difficult passages and comparing some of our renditions with others, the most useful works for such purpose were Whiteside's own translation of an early draft of what corre- sponds to most of book 1 of the Principia and the French translation made in the *An Index Verborum of the Latin edition of the Principia has been produced by Anne Whitman and I. Bernard Cohen in association with Owen Gingerich and Barbara Welther. This index includes the complete text of the third edition (1726) and also the variant readings as given in the Latin edition of the Principia (edited by Alexandre Koyre, I. Bernard Cohen, and Anne Whitman), published in 1972 by the Harvard University Press and the Cambridge University Press. Thus the Index includes the complete text of the three authorized Latin editions (1687, 1713, 1726) as well as the MS annotations in both Newton's "annotated" and "interleaved" personal copies of the first and second editions. The Index is on deposit in the Burndy Library of the Dibner Institute (Cambridge, Mass.), where it may be consulted. Microfilm copies can be purchased.
-
-Very useful tools for scholars and students are the planned Octavo editions of the first and third Latin editions of Newton's Principia; the latter will include this English translation. The high-resolution facsimiles on CD-ROM allow readers to view the original book and search the complete Latin texts and translation. For publication information, see the Octavo web site: www.octavo.com.
 
 mid-eighteenth century by the marquise du Chatelet. On some difficult points, we also profited from the exegeses and explanations in the Le Seur and Jacquier Latin edition and the Krylov Russian edition. While neither Anne Whitman nor I could read Russian, we did have the good fortune to have two former students, Richard Kotz and Dennis Brezina, able and willing to translate a number of Krylov's notes for us.
 
@@ -453,8 +440,6 @@ A careful reading of the documents in question shows that sometime in the 1660s,
 
 in Background, pp. 130—131.
 
-11. This celebrated autobiographical document was first printed in A Catalogue of the Portsmouth Collection of Boo^s and Papers Written by or Belonging to Sir Isaac Newton, the Scientific Portion of Which Has Been Presented by the Earl of Portsmouth to the University of Cambridge, ed. H. R. Luard et al.
-
 (Cambridge: Cambridge University Press, 1888), and has been reprinted many times since. A corrected version, taken from the manuscript in the Cambridge University Library (ULC MS Add. 3968, §41, fol. 85) may be found in my Introduction, pp. 290—292.
 
 ## GUIDE
@@ -482,8 +467,6 @@ G U I D E : CHAPTER i along the tangent to the curve and a motion of falling inw
 Newton told Hooke that he had never heard of this "hypothesis."16 In the course of their letters, Hooke urged Newton to explore the consequences of his hypothesis, advancing the opinion or guess that in combination with the supposition of an inverse-square law of solar-planetary force, it would lead to the true planetary motions.1 Hooke also wrote that the inverse-square law would lead to a rule for orbital speed being inversely proportional to the distance of a planet from the sun.18 Stimulated by Hooke, Newton apparently then proved that the solar- planetary force is as the inverse square of the distance, a first step toward the eventual Principia.
 
 We cannot be absolutely certain of exactly how Newton proceeded to solve the problem of motion in elliptical orbits, but most scholars agree that he more or less followed the path set forth in the tract De Motu which he wrote after Halley's visit a few years later in 1684.19 Essentially, this is the path from props. 1 and 2 of book 1 to prop. 4, through prop. 6, to props. 10 and 11. Being secretive by nature, Newton didn't tell Hooke of his achievement. In any event, he would hardly have announced so major a discovery to a jealous professional rival, nor in a private letter. What may seem astonishing, in retrospect, is not that Newton did not reveal his discovery to Hooke, but that Newton was not at once galvanized into expanding his discovery into the eventual Principia.
-
-Several aspects of the Hooke-Newton exchange deserve to be noted. First, Hooke was unable to solve the problem that arose from his guess or his intuition; he simply did not have sufficient skill in mathematics to be able to find the orbit produced by an inverse-square force. A few years later, Wren and Halley were equally baffled by this problem. Newton's solution was, as Westfall has noted, to invert the problem, to assume the path to be an ellipse and find the force rather 16. The Newton-Hooke correspondence during 1679/80 is to be found in Corresp., vol. 2. See, in this regard, Alexandre Koyre, "An Unpublished Letter of Robert Hooke to Isaac Newton," his 43 (1952): 312-337, reprinted in Koyre's Newtonian Studies (Cambridge, Mass.: Harvard University Press, 1965), pp.
 
 221-260. Also J. A. Lohne, "Hooke versus Newton: An Analysis of the Documents in the Case of Free Fall and Planetary Motion," Centaurus 7 (1960): 6-52.
 
@@ -591,8 +574,6 @@ Within a decade of publication of the Prindpia, Newton was busy with a number of
 
 40. Or. the alterations in the poem in successive editions of the Prindpia, see our Latin edition, cited in n. 45 below.
 
-41. Philosophical Transactions 16, no. 186 (Jan.-Feb.-March 1687): 291-297, reprinted in Isaac Newton's Papers and Letters on Natural Philosophy, ed. I. B. Cohen and Robert E. Schofield, 2d ed. (Cambridge, Mass.: Harvard University Press, 1978), pp. 405-411.
-
 ## 42. See my Introduction, chap. 7, and esp. Math. Papers, vol. 6
 
 ## 43. Introduction, p. 193
@@ -659,8 +640,6 @@ It is one of the oddities of history that Andrew Motte should have learned of Ne
 
 Translating the Principia 2.1 Translations of the Principia: English Versions by Andrew Motte (1729), Henry Pemberton (1729-?), and Thomas Thorp (1777)
 
-Newton's Principia has been translated in full, in large part, or in close para- phrase into many languages, including Chinese, Dutch, English, French, Ger- man, Italian, Japanese, Mongolian, Portuguese, Romanian, Russian, Spanish, and Swedish.1 The whole treatise has been more or less continuously available in an English version, from 1729 to the present, in a translation made by Andrew Motte and modernized more than a half-century ago. In addition, a new version of book 1 by Thomas Thorp was published in 1777.2 Motte's translation of 1729 was reprinted in London in 1803 "carefully revised and corrected by W. Davis" and with "a short comment on, and defence of, the Principia, by W. Emerson."3 This edition was reissued in London in 1819. Motte's text also served as the basis for the "first American edition, carefully revised and corrected, with a life of the author, by N. W. Chittenden," apparently published in New York in 1848, with a copyright date of 1846. There were a number of further New York printings.4 1. Most of these versions are listed in our Latin edition with variant readings (§1.3, n. 45 above),
-
 ## appendix 8
 
 2. Isaac Newton, Mathematical Principles of Natural Philosophy, trans. Robert Thorp, vol. 1 (London: W. Strahan and T. Cadell, 1777; reprint, with introd. by I. Bernard Cohen, London: Dawsons of Pall Mall, 1969).
@@ -700,8 +679,6 @@ Motte's translation has additional problems. Some phrases and passages are based
 ## 9. These are listed in the article cited in n. 8 above
 
 10. On Motte's insertion of the words "electric and elastic," see §2.3 and §9.3 below.
-
-T R A N S L A T I N G  T H E  P R I N C I P I A  2 9 The Motte-Cajori Version; The Need for a New Translation 2.3 In 1934 the University of California Press published a handsome English ver- sion of the Principia. The trade edition was presented in a half-leather binding, in a large-size format with an elegant typeface and a title page printed in two colors.
 
 This version was presented as a revision of Motte's translation, which, the title page declared, was "revised, and supplied with an historical and explanatory appendix, by Florian Cajori." The Motte-Cajori version has become widely used as a result of several hardback reprints and a great many further reprints in a two-volume paperback edition. This text has become "enshrined" in the various editions and reprints of the Encyclopaedia Britannica's "Great Books of the Western World."
 
@@ -825,8 +802,6 @@ Pemberton M.D. seorsum invenerunt.
 
 Motte translated this unambiguous sentence correctly, but he abbreviated Machin's title, Gresham Professor of Astronomy (or Professor of Astronomy in Gresham College), so as to read "Astron. Prof. Gresh." His text reads as follows: Mr. Machin Astron. Prof. Gresh. and Dr. Henry Pemberton separately found out the motion of the nodes by a different method. (2:288)
 
-The names Machin and Henry Pemberton were printed in italics.
-
 Someone evidently decided that Motte's "Prof. Gresh." must refer to a third astronomer, not recognizing that these words were simply an abbreviated form of Machin's title. Assuming that Motte or the printer had forgotten to put this astronomer's name in italics, the reviser remedied the supposed error, with the result that—for more than half a century—this statement has been made to read: Mr. Machin, Professor Gresham, and Dr. Henry Pemberton, separately found out the motion of the moon by a different method. (P. 463)
 
 These examples leave no doubt that the Motte-Cajori version cannot be ac- cepted as an authentic presentation of Newton's Prindpia. It was the discovery 26. In a preliminary version of this passage, in the long series of definitions that Newton wrote out after De Motu and just before composing the Prindpia, there is a final paragraph mentioning this very issue. Newton's statement of his position may be translated as follows: "Moreover, it has been necessary to distinguish absolute and relative quantities carefully from each other because all phenomena may depend on absolute quantities, but ordinary people who do not know how to abstract their thoughts from the senses always speak of relative quantities, to such an extent that it would be absurd for either scholars or even Prophets to speak otherwise in relation to them. Thus both Sacred Scripture and the writings of Theologians must always be understood as referring to relative quantities, and a person would be laboring under a crass prejudice if on this basis he stirred up arguments about absolute [changed to philosophical]
@@ -852,8 +827,6 @@ There is ample evidence that at the time of the Principia and later, Newton— w
 27. On this score, Gildersleeve and Lodge (§2130) declare that transitive verbs "are often used in- transitively, in which case they serve simply to characterize the agent," a feature that "is true especially of verbs of movement.'" This particular usage is said to be "found at all periods." Although the examples given include the verbs "movere" and "vertere" (but not "revolvere"), this particular usage ("to character- ize the agent") clearly does not occur in Newton's propositions concerning motion, since their goal is to characterize the motion produced and not the agent producing the motion.
 
 3 7
-
-4005, fols. 45-49), first published by A. Rupert Hall and Marie Boas Hall. Here we find "Phaenom. 7": "The Planets Mercury & Venus revolve about the Sun ac- cording to the order of the twelve signes." Similarly, "Phaenom. 8," "Phaenom. 9,"
 
 and "Phaenom. 10" declare, respectively, that each of the superior planets—Mars, Jupiter, and Saturn—"revolves about the Sun."28 A second document in English that uses the active rather than the passive voice is Newton's essay on planetary motion in ellipses, sent to the philosopher John Locke a few years after the publication of the first edition of the Principia29 In prop. 2, a body is said to "revolve in the circumference of the Ellipsis," while in prop. 3 a body is said "to revolve in the Perimeter of the Ellipsis."
 
@@ -1020,8 +993,6 @@ and so he had "altered it to this, De Motu corporum libri duo." Then he had "sec
 "the Book of Principles," and "Mathematical Principles."
 
 13. Philosophical Transactions 29, no. 342 (Jan.-Feb. 1715): 173-224, esp. 206. See §5.8, n. 25 below.
-
-This document is reprinted in facsimile in Hall, Philosophers at War (§1.3, n. 56 above).
 
 14. John Clarke, A Demonstration of Some of the Principal Sections of Sir Isaac Newton's "Principles of Natural Philosophy" (London: printed for James and John Knapton, 1730; facsimile reprint, with introd.
 
@@ -1205,8 +1176,6 @@ The mature Newton put forward and maintained a sharp distinction between "experi
 
 It is a fact that the Principia can be read as a work in physics, as has been done successfully for three centuries, without taking cognizance of what—to mod- ern eyes—will seem to be extrascientific considerations. Even Newton's discussion of absolute space, in the scholium following the Definitions, can be passed over without preventing an understanding of Newton's exposition of rational mechan- ics and the system of the world—all the more so since throughout most of the Principia, Newton makes use of relative rather than absolute space. In the first edition, there was a possibly alchemical overtone to hypothesis 3 at the beginning of book 3, in which Newton mentioned the transformation of matter into matter of any other kind. But there was only one single reference to this "hypothesis"
 
-in the Principia, and by the time of the second edition this "hypothesis" and the reference to it had been eliminated.52 Of course, the concluding General Scholium , first printed in the second edition, did introduce questions about the being and 52. It is curious that in "hypothesis 3," writing as an alchemist, Newton referred to matter being "transformed," while in sees. 4 and 5 of book 1, writing as a mathematician, he referred to the transfor- mation of geometric figures (as by projection) in terms of "transmutation."
-
 5 9
 
 attributes of God, along with some aspects of an "electric and elastic spirit," but this was clearly a theologico-philosophical appendix and was never considered to be an integral part of the Principia.
@@ -1268,8 +1237,6 @@ There are several documents that shed light on Newton's actual research into pro
 This statement refers to Newton's basic conceptual framework and not to the mathematical results he achieved. Indeed, in such an example we may gain an insight into the gulf that separates our present viewpoint (essentially Newton's ma- ture viewpoint) from the mid-seventeenth-century manner of conceiving dynamical problems (essentially that of Newton's young manhood).
 
 The calculations to which Newton referred in his autobiographical memo- randum are found in two documents. One of them, called the Waste Book, is a large bound volume belonging to his stepfather, Barnabas Smith, who had been compiling a kind of theological glossary. Newton used the blank spaces on the pages for notes and calculations. Here, indeed, on the first page, Newton—as he said—estimated the force with which a globe "revolving within a sphere presses the surface of the sphere." He recorded his discovery (independently of Huygens)
-
-that in uniform motion at speed v in a circle of radius r, the centrifugal endeavor is measured by —,58 56. First published in the Catalogue of the Portsmouth Collection (§1.2, n. 11 above). A more complete and accurate version is available, along with similar documents, in my Introduction^ suppl. 1.
 
 57. Cajori, "Newton's Twenty Years' Delay in Announcing the Law of Gravitation" (§1.2, n. 15 above).
 
@@ -1362,8 +1329,6 @@ acts continually.73 In this early document, Newton does not demonstrate that the
 The parabolic approximation appears in a document on circular motion writ- ten in 1669.74 In this analysis, a body moves along a circle under the action of some force F, directed from some central point C toward any point P on the curve. New- ton considers the action of the force in a very small (actually infinitesimal) region around the point P. Because the region is so small, the force may be considered to be constant. The body has two components of motion. One, uniform and linear, along the tangent, has been given to the body at the start of the motion. The other is an inward accelerated motion produced by the force F. Newton knew, from Galileo's work, that the effect of a constant force is to produce a constant acceler- ation. Thus, in the region under consideration, the situation is formally identical with the conditions of projectile motion studied by Galileo. Hence the body's tra- jectory in the neighborhood of P will be in the form of a parabola. This mode of analysis readily yields the force in circular motion and appears in the Principia in book 1, prop. 4, and the previous version in De Motu. This method also appears in the Principia in book 1, prop. 6, and in props. 10 and 11, and elsewhere, and also in their anticipations in De Motu. In these later examples, the method is extended from considerations of motion in a circle to motion along any curved path.
 
 73. The issue of the mathematical rigor in Newton's analysis has been, and still remains, a subject of debate among scholars. It has been argued, for example (by Michel Blay among others), that even if the limit of the polygon can legitimately be taken to be a continuous curve, the limit of a series of impulsive blows cannot be a continually acting force. On the question of mathematical rigor in Newton's argument, see D. T. Whiteside's discussion in Math. Papers 6:6 n. 12; 35-39 n. 19; 41 n. 29; Aiton, "Parabolas and Polygons" (§2.5, n. 38 above). See, further, my "Newton's Second Law and the Concept of Force in the Principia" in The Annus Mirabilis of Sir Isaac Newton, 1666-1966, ed. Robert Palter (Cambridge, Mass., and London: MIT Press, 1970), pp. 143-185.
-
-74. This document and the method of parabolic analysis were first published by Hall, "Newton on the Calculation of Central Forces." A lengthy discussion of this document and its significance is given by Brackenridge in his Key to Newton's Dynamics; see also Herivel, Background, pp. 192-198. An important analysis by Whiteside appears in Math. Papers 1:297-303.
 
 v² v² v² r r r
 
@@ -1698,8 +1663,6 @@ On at least two occasions, Newton himself gave a simple statement of the relatio
 ## 13. Unpubl. Sci. Papers, pp. 89-157
 
 G U I D E : CHAPTER 4 an amplification of his explanation of def. 1. He would now make an explicit statement of the proportionality of mass and the product of density and volume.
-
-In a list of manuscript errata and emendata, which he wrote out in one of his personal copies of the Principia, he would amplify his discussion by saying: "For this quantity, if the density is given, is as the volume and, if the volume is given, is as the density; and, therefore, if neither is given, is as the product of both." In the end, he rejected this emendation, deciding not to make a statement that would seem to interpret the definition as a proportion. He evidently wanted the definition itself to stand as he had first published it, not as a definition in the usual sense, and without an express statement of the ratio which the rule in the second part of the definition implied.
 
 4.5 Newton's Concept of Density In Newton's day, as has been mentioned, density was not given in terms of some particular set of units, but rather as a relative number, in comparison with the density of water or of some other substance or body. Thus, in the Principia, Newton compared the density of the moon with the density of the earth, but did not evaluate either density on some numerical scale. Since den- sities were given as ratios, they were indistinguishable in practice from specific gravities. Indeed, density could even be considered as a quantitative property of substances (or of bodies) found directly by experimental determinations of specific gravity.
 
@@ -2850,8 +2813,6 @@ Here the line Ah passes through the lower intersection of the two curves, so tha
 (Grace K. Babson Collection, Burndy Library)
 
 and another NAA. Consequently, some repair was needed. Rather than altering the diagram to fit the text, however, someone changed Newton's text so as to have it be in accord with the diagram. Accordingly, in the text of the 1760 edition, Newton's two points "H, H" and two angles "NAH, NAH" have become two points "H, A" and two angles "NAH, NA/f."
-
-The Le Seur and Jacquier edition was twice reprinted in the nineteenth cen- tury (Glasgow, 1822, 1833), edited by John M. Wright. A prefatory note alleges that the two early printings (1740, 1760) had "been carefully collated ... so as to bring to light any errors and discrepancies." Wright, it is declared, "threw out in one fell swoop" the "faults which had lain hidden in the former editions." In fact, in both of these two Glasgow reprints, all of the diagrams are of the form in which the two curves and the line Ah meet in a single triple intersection marked h\ the accompanying text is not Newton's but the text of the 1760 edition with its reference to two points "H, h" and two angles "NAH, NAA."
 
 In the nineteenth-century American editions of Motte's translation, Newton's text is altered as in the second edition of Le Seur and Jacquier. Thus it reads, "from the two intersections H, h, there arise two angles NAH, NAA." But the diagram is essentially the same as the one that appears in the third Latin edition. Close inspection shows that the point h is not one of "the two intersections" of the curves, but rather the intersection of the straight line Ah and the outer curve. Hence the
 

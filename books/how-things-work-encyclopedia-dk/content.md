@@ -1,19 +1,10 @@
 # 事物如何运作百科全书（DK Z Library）
 
-> 来源文件：pre_How_Things_Work_Encyclopedia_DK_Z_Library.txt
-> 字符数（约）：185612
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 How Things Work Encyclopedia Machines Biology
 
 Technology Robots
 
-A first reference guide for inquisitive minds How Things Work Encyclopedia DK PUBLISHING LONDON, NEW YORK, Contents MELBOURNE, MUNICH, and DELHI Senior Editors Carrie Love, Penny Smith Senior Designer Rachael Grady Design team Lauren Rosier, Pamela Shiels, Karen Hood, Hedi Gutt, Mary Sandberg, Sadie Thomas, Claire Patane, Laura Roberts-Jensen, and Poppy Joslin Editorial team Lorrie Mack, Elinor Greenwood, Alexander Cox, Fleur Star, Caroline Bingham, Wendy Horobin, and Ben Morgan Picture Researcher Myriam Megharbi Proofreader Anneka Wahlhaus Consultant Roger Bridgman Publishing Manager Bridget Giles Art Director Rachael Foster Category Publisher Mary Ling Production Editor Sean Daly Production Controller Claire Pearson Jacket Designer Natalie Godwin Technology Jacket Editor Mariza O’Keeffe 4–5 Inventions US Editor Margaret Parrish 6–7 Better by design First published in the United States in 2010 by 8–9 Early inventions DK Publishing 375 Hudson Street 10–11 Modern technology New York, New York 10014 12–13 Technology all around us Copyright © 2010 Dorling Kindersley Limited Hard at work 10 11 12 13 14 10 9 8 7 6 5 4 3 2 1 175932—11/09 14–15 Simple machines Conventions. No part of this publication may be reproduced, stored 18–19 Construction work in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without 20–21 Moving stuff the prior written permission of the copyright owner. Published in Great Britain by Dorling Kindersley Limited.
-
 Getting around A catalog record for this book 22–23 Getting around is available from the Library of Congress.
-
-24–25 Wheels and axles ISBN 978-0-7566-5835-9 26–27 Pedal power Color reproduction by MDP, UK 28–29 Holding the road Printed and bound by Toppan, China 30–31 Piston power Discover more at www.dk.com There is a question at the bottom of each page...
 
 32–33 Engines of fire Bits and bytes 34–35 Race cars 94–95 Bits and bytes 36–37 Up to speed 96–97 Inside a laptop 38–39 Powering up 98–99 Binary code 40–41 Trains and tracks 100–101 Sharing data 102–103 Cell phones Air and water 104–105 Digital photography 42–43 Gases and liquids 106–107 Radio and TV 44–45 How fluids work 108–109 Bar codes 46–47 Float that boat 110–111 The Internet 48–49 Floating balloons 112–113 Search engines 50–51 Roller coaster 114–115 Robots 52–53 How do planes fly?
 
@@ -3101,4 +3092,3 @@ Dorling Kindersley 还要感谢 Francis Bate、Greg Foot、Leon Gray、Jennifer 
 并感谢南安普顿大学 ECS 的 Robert Spanton 与 Klaus-Peter Zauner 提供的关于 Formica 机器人的相关资料。
 
 欲了解更多信息，请访问：www.dkimages.com
-

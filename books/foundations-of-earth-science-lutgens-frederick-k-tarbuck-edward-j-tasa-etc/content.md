@@ -1,10 +1,5 @@
 # Foundations of earth science Lutgens Frederick K Tarbuck Edward J Tasa etc Z Library
 
-> 来源文件：pre_Foundations_of_earth_science_Lutgens_Frederick_K_Tarbuck_Edward_J_Tasa_etc_Z_Library.txt
-> 字符数（约）：1931296
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Foundations of EARTH SCIENCE E i g h t h  e d i t i o n
 
 This page intentionally left blank
@@ -13,19 +8,11 @@ FOUNDATIONS OF EARTH SCIENCE E i g h t h  e d i t i o n FREDERICK K. LUTGENS EDW
 
 Credits and acknowledgments for materials borrowed from other sources and reproduced, with permission, in this textbook appear on the appropriate page within the book.
 
-Manufactured in the United States of America. This publication is protected by Copyright, and permission should be obtained from the publisher prior to any prohibited reproduction, storage in a retrieval system, or transmission in any form or by any means: electronic, mechanical, photocopying, recording, or likewise. To obtain permission(s) to use material from this work, please submit a written request to Pearson Education, Inc., Permissions Department, 1 Lake Street, Department 1G, Upper Saddle River, NJ 07458.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.
-
 Library of Congress Cataloging-in-Publication Data Names: Lutgens, Frederick K., author. | Tarbuck, Edward J., author.
 
 Title: Foundations of earth science/Frederick K. Lutgens, Edward J. Tarbuck; illustrated by Dennis Tasa.
 
 Description: Eighth edition. | Boston: Pearson, 2016. | Includes index.
-
-Identifiers: LCCN 2015043673 | ISBN 9780134184814 | ISBN 0134184815 Subjects: LCSH: Earth sciences--Textbooks.
-
-Classification: LCC QE28 .L96 2016 | DDC 550--dc23 LC record available at hgp://lccn.loc.gov/2015043673 Editor-in-Chief:  Beth Wilbur Senior Marketing Manager: Mary Salzman Senior Acquisitions Editor: Andrew Dunaway Executive Marketing Manager: Neena Bali Senior Project Manager: Nicole Antonio Director of Development: Jennifer Hart Development Editor: Margot Otway Senior Content Producer: Timothy Hainley Program Manager: Sarah Shefveland Editorial Assistant: Michelle Koski Marketing Assistant: Ami Sampat Team Lead, Project Management: David Zielonka Team Lead, Program Management: Kristen Flathman Project Manager, Instructor Media: Kyle Doctor Full Service/Composition: Cenveo® Publisher Services Full Service Project Manager: Heidi Allgair/Cenveo® Publisher Services Design Manager: Derek Bacchus Cover and Interior Design: Jeff Puda Design Photo and Illustration Support: International Mapping Permissions Project Manager: Maya Gómez Photo Research: Kristin Piljay Photo Permissions: Jillian Santos, QBS Learning Text Permissions Research: Jillian Santos, QBS Learning Procurement Specialist: Maura Zaldivar-Garcia Cover Image Credit: © Michael Collier 1  2  3  4  5  6  7  8  9  10—V0N4—17  16  15  14  13 Student Edition ISBN-10: 0-134-18481-5 ISBN-13: 978-0-134-18481-4 Instructor’s Review Copy ISBN-10: 0-134-24076-6 ISBN-13: 978-0-134-24076-3 www.pearsonhighered.com
 
 To Our Grandchildren Allison and Lauren Shannon, Amy, Andy, Ali, and Michael Each is a bright promise for the future.
 
@@ -1149,8 +1136,6 @@ The Teaching and Learning Package with Pearson eText Used by more than 1 million
 
 MasteringGeology Student Study Area also provides students with self-study materials including all of the SmartFigures, geoscience animations, GEODe: Earth Science tutorials, In the News RSS feeds, Self Study Quizzes, Web Links, Glossary, and Flashcards.
 
-For more information or access to MasteringGeology, please visit www.masteringgeology.com.
-
 Instructor’s Resource Materials (Download Only)
 
 The authors and publisher have been pleased to work with a number of talented people who have produced an excellent supplements package.
@@ -1233,8 +1218,6 @@ Augmented Reality Enhances the Reading Experience, Bringing the Textbook to Life
 
 BouncePages’ augmented reality technology transforms textbooks into convenient digital platforms, breathes life into your learning experience, and helps you grasp difficult academic concepts. Learning geology from a textbook will never be the same.
 
-https://itunes.apple.com/us/app/pearson -bouncepages/id659370955?mt=8 https://play.google.com/store/apps/details?id=com .layar.bouncepages&hl=en By scanning figures associated with the BouncePages icon, students will be immediately connected to the digital world and will deepen their learning experience with the printed text.
-
 In a depositional environment, as conﬁning pressure increases, rocks deform by decreasing in volume.
 
 During mountain building, rocks subjected to differential stress are shortened in the direction of maximum stress and lengthened in the direction of minimum stress.
@@ -1254,8 +1237,6 @@ Scattered throughout this new edition of Foundations of Earth Science are 24 vid
 xxvii Visualize Processes and Tough Topics NEW! SmartFigure: Animations are brief videos, many created by text illustrator Dennis Tasa, that animate a process or concept depicted in the textbook’s figures. This technology allows students to view moving figures rather than static art to depict how a geologic process actually changes through time. The videos can be accessed using Pearson’s BouncePages app for use on mobile devices, and will also be available via MasteringGeology.
 
 Callan Bentley, SmartFigure Tutorial author, is a Chancellor’s Commonwealth Professor of Geology at Northern Virginia Community College (NOVA) in Annandale, Virginia. Trained as a structural geologist, Callan teaches introductory level geology at NOVA, including field-based and hybrid courses. Callan writes a popular geology blog called Mountain Beltway, contributes cartoons, travel articles, and book reviews to EARTH magazine, and is a digital education leader in the two-year college geoscience community.
-
-SmartFigure: Tutorials bring key chapter illustrations to life! Found ­throughout the book, these Tutorials are sophisticated, annotated illustra- tions that are also narrated videos. They are accessible on mobile devices via scannable BouncePages printed in the text and through the Study Area in MasteringGeology.
 
 xxviii Concepts in Review, a fresh approach to the typical end- of-chapter material, provides students with a structured and highly visual review of each chapter. Consistent with the Focus on Concepts and Concept Checks, the Concepts in Review is structured around the section title and the corresponding learning objective for each section.
 
@@ -1527,8 +1508,6 @@ Sometimes they lead to the formation of major features at the surface.
 
 (Photo by Stuart Westmoreland/ Cultura/ Getty Images)
 
-Mobile Field Trip SmartFigure I.2  Arizona’s Grand Canyon  The erosional work of the Colorado River along with other external processes created this natural wonder. For someone studying historical geology, hiking down the South Kaibab Trail in Grand Canyon National Park is a trip through time. These rock layers hold clues to millions of years of Earth history. (Photo by Michael Collier) (http://goo.gl/7KwQLk)
-
 Introduction Introduction to Earth Science about the other members of our solar system. Moreover, it is helpful to view the solar system as a part of the great assemblage of stars that comprise our galaxy, which is but one of many galaxies.
 
 Scales of Space and Time in Earth Science When we study Earth, we must contend with a broad array of space and time scales (Figure I.3). Some phenom- ena are relatively easy for us to imagine, such as the size and duration of an afternoon thunderstorm or the dimen- sions of a sand dune. Other phenomena are so vast or so small that they are difficult to imagine. The number of stars and distances in our galaxy (and beyond!) or the internal arrangement of atoms in a mineral crystal are examples of such phenomena.
@@ -1641,8 +1620,6 @@ Turn of the millennium PR EC AM
 
 ## BRIA
 
-N SmartFigure I.4 Magnitude of geologic time (https://goo.gl/odwyUE)
-
 Tutorial
 
 I.1 What Is Earth Science?
@@ -1752,8 +1729,6 @@ A. Tropical rain forests are teeming with life and occur in the vicinity of the 
 Tubeworms Deep-sea vent A. Tropical rain forests are characterized by hundreds of different species per square kilometer.
 
 B. Microorganisms are nourished by hot, mineral-rich ﬂuids spewing from vents on the deep-ocean ﬂoor. The microbes support larger organisms such as tube worms.
-
-SmartFigure I.10 Earth’s layers  Structure of Earth’s interior, based on chemical composition and physical properties. (https:// goo.gl/70au1N)
 
 Tutorial
 
@@ -2181,8 +2156,6 @@ wall switch, but the ceiling light does not come on. Formulate at least three hy
 
 Once you have formulated your hypoth- eses, what should be your next step?
 
-www.masteringgeology.com    Looking for additional review and test prep materials? With individualized coaching on the toughest topics of the course, MasteringGeology offers a wide variety of ways for you to move beyond memorization to begin thinking like a geologist. Visit the Study Area in www.masteringgeology .com to find practice quizzes, study tools, and multimedia that will improve your understanding of this chapter’s content. Sign in today to enjoy the following features: Self Study Quizzes, SmartFigure: Tutorials/Animations/Condor Videos/Mobile Field Trips, Geoscience Animation Library, GEODe, RSS Feeds, Digital Study Modules, and an optional Pearson eText.
-
 ## 7.	 The accompanying photo provides an example of interactions among
 
 different parts of the Earth system. It is a view of a mudflow that was triggered by extraordinary rains. Which of Earth’s four “spheres” were involved in this natural disaster that buried a small town on the Philip- pine island of Leyte? Describe how each contributed to the mudflow.
@@ -2302,8 +2275,6 @@ In addition, some rocks are composed of non- mineral matter. These include the v
 (Photo by Dennis Tasa)
 
 SmartFigure 1.3  Most rocks are aggregates of minerals  Shown here is a hand sample of the igne- ous rock granite and three of its major constituent minerals. (Photos by E. J.
-
-Tarbuck) (https://goo.gl/7cZXyr)
 
 Tutorial
 
@@ -2551,11 +2522,7 @@ List and describe the properties used in mineral identification.
 
 Figure 1.10  Metallic versus submetallic luster  (Photo courtesy of E. J. Tarbuck)
 
-SmartFigure 1.12  Streak (https://goo.gl/ULVLM4)
-
 SmartFigure 1.11  Color variations in miner- als  Some minerals, such as fluorite and quartz, exhibit a variety of colors.
-
-(Photo by E. J. Tarbuck) (https:// goo.gl/wznOpk)
 
 Tutorial Although the color of a mineral is not always helpful in identiﬁcation, the streak, which is the color of the powdered mineral, can be very useful.
 
@@ -2609,8 +2576,6 @@ Diamonds, hardest of all, scratch anything, including other diamonds.
 
 Figure 1.13  Common crystal shapes of pyrite SmartFigure 1.14 Some common crystal habits  A. Thin, rounded crystals that break into fibers. B. Elongated crys- tals that are flattened in one direction. C. Minerals that have stripes or bands of different color or tex- ture. D. Groups of crystals that are cube shaped.
 
-(https://goo.gl/IBw40J)
-
 Tutorial A. Fibrous B. Bladed C. Banded D. Cubic crystals Dennis Tasa E.J. Tarbuck Dennis Tasa Dennis Tasa
 
 Did You Know?
@@ -2661,11 +2626,7 @@ Diamond Corundum Quartz Orthoclase Apatite Fluorite Calcite Gypsum
 
 A. Mohs scale (Relative hardness)
 
-B. Comparison of Mohs scale and an absolute scale SmartFigure 1.15  Hardness scales  A. The Mohs scale of hardness, with the hard- nesses of some common objects. B. Relationship between the Mohs relative hardness scale and an abso- lute hardness scale. (https:// goo.gl/ZN0DAG)
-
 Tutorial SmartFigure 1.16  Micas exhibit perfect cleavage The thin sheets shown here exhibit one plane of cleavage. (Photo by Chip Clark/Fundamental Photographs)
-
-(https://goo.gl/JYClSi)
 
 Knife blade Strong bonds Weak bonds Did You Know?
 
@@ -2688,8 +2649,6 @@ Most common minerals have a specific grav- ity between 2 and 3. For example, qua
 With a little practice, you can estimate the spe- cific gravity of a mineral by hefting it in your hand.
 
 Does this mineral feel about as “heavy” as similarly sized rocks you have handled? If the answer is “yes,” the specific gravity of the sample will likely be between 2.5 and 3.
-
-Other Properties of Minerals In addition to the properties discussed thus far, some minerals can be recognized by other distinctive prop- erties. For example, halite is ordinary salt, so it can be SmartFigure 1.17  Cleavage directions exhibited by min- erals  (Photos by E. J. Tarbuck and Dennis Tasa) (https://goo.
 
 gl/5Ikkd6)
 
@@ -2722,8 +2681,6 @@ Moreover, some minerals exhibit special optical properties. For example, when a 
 (Photo by Chip Clark/Fundamental Photographs)
 
 SmartFigure 1.20  Calcite reacting with a weak acid  (Photo by Chip Clark/ Fundamental Photographs)
-
-(https://goo.gl/pnGkML)
 
 ## 1.5 	Mineral Groups
 
@@ -2816,8 +2773,6 @@ The names of precious gems often differ from the names of parent minerals. For e
 ## Chapter
 
 Matter and Minerals SmartFigure 1.23  Common silicate minerals  Note that the complexity of the sili- cate structure increases from the top of the chart to the bottom. (Photos by Dennis Tasa and E. J. Tarbuck)
-
-(https://goo.gl/xpaEPC)
 
 relatively hard (6 on the Mohs scale). The only reliable way to physically differentiate the feldspars is to look for striations (lines) that are present on some cleavage sur- faces of plagioclase feldspar (see Figure 1.24D) but do not appear in potassium feldspar.
 
@@ -3103,8 +3058,6 @@ E.
 
 Dennis Tasa Cleaved sample
 
-Give It Some Thought www.masteringgeology.com     Looking for additional review and test prep materials?  With individualized coaching on the tough- est topics of the course, MasteringGeology offers a wide variety of ways for you to move beyond memorization to begin thinking like a geologist. Visit the Study Area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will improve your understanding of this chapter’s content. Sign in today to enjoy the following features: Self Study Quizzes, SmartFigure: Tutori- als/Animations/Condor Videos/Mobile Field Trips, Geosci- ence Animation Library, GEODe, RSS Feeds, Digital Study ­Modules, and an optional Pearson eText.
-
 ## EARTH MATERIALS
 
 ## UNIT
@@ -3193,8 +3146,6 @@ tra nsp ort, de pos iti on Me lti ng Me ta mo rp hi sm (c om pa cti on, ce me nt
 
 We ath eri ng, Co oli ng , c ry st all iz ati on SmartFigure 2.1  The rock cycle  The rock cycle helps us understand the origins of the three basic rock groups.
 
-Arrows represent processes that link each group to the others. (https://goo.gl/dYWRsL)
-
 Tutorial
 
 ## Chapter
@@ -3269,8 +3220,6 @@ Ultramaﬁc (Maﬁc)
 
 Basaltic Increasing silica (SiO2)
 
-Increasing iron, magnesium and calcium Temperature at which melting begins Increasing potassium and sodium 75% 40% 1250°C 650°C Light-colo red nera ls Da rk- col ored mine rals Coarse-grained Fine-grained SmartFigure 2.3 Composition of common igneous rocks  (After Dietrich, Daily, and Larsen) (https://goo.gl/ vST3z8)
-
 Tutorial
 
 ## Chapter
@@ -3304,8 +3253,6 @@ E. Pyroclastic (fragmental) texture  Produced by the consolidation of fragments 
 B. Porphyritic texture  Composed of two distinctly different crystal sizes.
 
 SmartFigure 2.4  Igneous rock textures  (Photos courtesy of E. J. Tarbuck and Dennis Tasa)
-
-((https://goo.gl/U00Ix8))
 
 Tutorial
 
@@ -3357,8 +3304,6 @@ Fine-grained rocks are volcanic, or solidify as shallow, thin rock bodies.
 
 Ultramafic rocks are dark, dense rocks, composed almost entirely of miner- als containing iron and magnesium. Although relatively rare on Earth’s surface, ultramafic rocks are major constituents of the upper mantle. (Photos by E. J. Tarbuck and Dennis Tasa)
 
-(https://goo.gl/WiyTul)
-
 Tutorial 0% to 25% 25% to 45% 45% to 85% Uncommon Uncommon Uncommon Less common Less common Most fragments < 4mm Most fragments > 4mm Most fragments < 4mm Most fragments > 4mm Uncommon Quartz Potassium feldspar 85% to 100% Amphibole Plagioclase feldspar Pyroxene Plagioclase feldspar Olivine Pyroxene Plagioclase feldspar Pyroxene Biotite Amphibole Olivine Plagioclase feldspar Amphibole Muscovite Biotite Dominant Minerals Accessory Minerals Glassy
 
 ## T E X T U R E
@@ -3400,8 +3345,6 @@ Granitic (Felsic) Rocks  Granite is a coarse-grained igneous rock that forms w
 Granite is perhaps the best-known igneous rock, in part because of its natural beauty, which is enhanced when polished, and partly because of its abundance.
 
 Slabs of polished granite are commonly used for tomb- stones, monuments, and countertops.
-
-Rhyolite is the extrusive equivalent of granite (same chemical composition but different texture) and, likewise, Granite Cory Rich/Aurora/Getty Images Michael Collier Dennis Tasa SmartFigure 2.8 Rocks contain informa- tion about the processes that formed them  This massive granitic monolith (El Capitan) located in Yosemite National Park was once a molten mass deep within Earth. (http:// goo.gl/z8XJ1i)
 
 Mobile Field Trip Figure 2.9  Obsidian, a natural glass  Native Americans used obsidian to make arrowheads and cutting tools. (Photo by Jeffrey Scovil)
 
@@ -3545,8 +3488,6 @@ The bottle breaks because water has the unique property of expand- ing about 9 p
 
 You might also expect this same process to fracture rocks in na- ture. This is, in fact, the basis for the traditional explanation of frost wedging. After water works its way into the cracks in rock, the freezing water enlarges the cracks, and angular fragments are eventually produced (Figure 2.16).
 
-SmartFigure 2.14 Mechanical weathering increases surface area Mechanical weathering adds to the effectiveness of chemical weathering because chemical weath- ering occurs mainly on exposed surfaces. (https:// goo.gl/XkBfd2)
-
 Tutorial
 
 ## 2.3 Weathering of Rocks to Form Sediment
@@ -3562,8 +3503,6 @@ Figure 2.15  Ice breaks bottle  The bottle broke because water expands about
 Chillmaid/Science Source)
 
 SmartFigure 2.16  Frost wedging  In mountainous areas frost wedging cre- ates angular rock frag- ments that accumulate to form steep rocky slopes.
-
-(Photo by Marli Miller) (https://goo.
 
 gl/5uqnS1)
 
@@ -3584,8 +3523,6 @@ Biological Activity  The activities of organisms, includ- ing plants, burrowin
 Chemical Weathering In the preceding discussion you learned that breaking rock into smaller pieces aids chemical weathering by increasing the surface area available for chemical attack.
 
 It should also be pointed out that chemical weather- ing contributes to mechanical weathering. It does so by weakening the outer portions of some rocks, which, in turn, makes them more susceptible to being broken by mechanical weathering processes.
-
-Chemical weathering involves the complex pro- cesses that alter the internal structures of minerals by re- moving and/or adding elements. During this transforma- tion, the original rock decomposes into substances that are stable in the surface environment. Consequently, the SmartFigure 2.17 Unloading leads to sheet- ing  Sheeting leads to the formation of an exfoliation dome. (Photo by Gary Moon/ AGE Fotostock) (https://goo.gl/ k4N2o3)
 
 Tutorial Deep pluton Conﬁning pressure Joints Uplift Expansion and sheeting B. As erosion removes the overlying bedrock (unloading), the outer parts of the igneous mass expand. Joints form parallel to the surface. Continued weathering causes thin slabs to separate and fall off.
 
@@ -3662,8 +3599,6 @@ If you sampled the rocks exposed at Earth’s surface, you would find that the g
 ## 2.4 	Sedimentary Rocks: Compacted and Cemented Sediment
 
 List and describe the different categories of sedimentary rocks and discuss the processes that change sediment into sedimentary rock.
-
-SmartFigure 2.19 Sedimentary rocks exposed along the Waterpocket Fold, Capitol Reef National Park, Utah  About 75 per- cent of all rock exposures on continents consist of sedimentary rocks. (Photo by Michael Collier) (http://goo.gl/ eeryMM)
 
 Mobile Field Trip
 
@@ -3775,8 +3710,6 @@ SmartFigure 2.25 Bonneville Salt Flats  This well-known Utah site was once a l
 
 (Photo by Jupiter Images/Getty Images; satellite image by NASA)
 
-(https://goo.gl/mhgwN3)
-
 Tutorial A. Flint B. Jasper C. Chert arrowhead D. Petriﬁed wood Salt Lake City Bonneville Salt Flats Great Salt Lake This extensive evaporite deposit is a 30,000-acre expanse of hard white salt that in places is nearly 2 meters thick.
 
 Did You Know?
@@ -3820,8 +3753,6 @@ Over time, the cement precipitates onto the sediment grains, fills the open spac
 Calcite cement will effervesce (fizz) in contact with dilute hydrochloric acid. Silica is the hard- est cement and thus produces the hardest sedi- mentary rocks. An orange or red color in a sedimen- tary rock usually means iron oxide is present.
 
 SmartFigure 2.26  From plants to coal  Successive stages in the formation of coal. (Photos by E. J. Tarbuck)
-
-(https://goo.gl/EHKyKU)
 
 Figure 2.27  Compaction and cementation Tutorial Pressure Water ﬁlled pore spaces Loosely packed clay size particles (magniﬁed)
 
@@ -3909,8 +3840,6 @@ Loosely packed clay minerals Randomly oriented minerals Deformed layers of segre
 
 (Photo by Pearson Education, Inc.)
 
-(https://goo.gl/kkykbZ)
-
 rock gradually changes until it reaches a state of equilibrium with the new environment.
 
 Most metamorphic changes occur at the elevated tempera- tures and pressures that exist in the zone beginning a few ki- lometers below Earth’s surface and extending into the mantle.
@@ -3965,8 +3894,6 @@ Confining Pressure and Differential Stress as Metamorphic Agents  Pressure, li
 
 The deeper you go in the ocean, the greater the confin- ing pressure. The same is true for buried rock. Confin- ing pressure causes the spaces between mineral grains to close, producing a more compact rock that has greater density. Further, at great depths, confining pressure may cause minerals to recrys- tallize into new minerals that display more com- pact crystalline forms.
 
-During episodes of mountain building, large rock bodies become highly crumpled and metamor- phosed (Figure 2.31B). Unlike confining pressure, which SmartFigure 2.31  Confining pressure and differential stress (https://goo.gl/GbqzMz)
-
 Tutorial Did You Know?
 
 Some low-grade meta- morphic rocks actually contain fossils. When fossils are present in metamorphic rocks, they provide useful clues for determining the original rock type and its depo- sitional environment. In addition, fossils whose shapes have been distorted during meta- morphism provide insight about the extent to which the rock has been deformed.
@@ -3990,8 +3917,6 @@ When two mineral grains are squeezed together, the parts of their crystalline st
 When hot fluids circulate freely through rocks, ionic exchange may occur between adjacent rock layers, or ions may migrate great distances before they are finally deposited. The latter situation is particularly common when we consider hot fluids that escape during the crys- tallization of an intrusive mass of magma. If the rocks surrounding the magma differ markedly in composition from the invading fluids, there may be a substantial ex- change of ions between the fluids and host rocks. When this occurs, the overall composition of the surrounding rock changes.
 
 SmartFigure 2.32  Rotation of platy and elongated mineral grains to produce foliated texture  When subjected to differential stress during metamor- phism, some mineral grains become reoriented and aligned at right angles to the stress. The result- ing orientation of mineral grains gives the rock a foli- ated (layered) texture. If the coarse-grained igneous rock (granite) on the left underwent intense meta- morphism, it could end up closely resembling the metamorphic rock on the right (gneiss). (Photos by E. J.
-
-Tarbuck) (https://goo.gl/vaWv6I)
 
 Animation Before metamorphism (Conﬁning pressure)
 
@@ -4114,8 +4039,6 @@ gneiss from quartzite and marble?
 the igneous and sedimentary rocks from which they formed?
 
 Close-up SmartFigure 2.36  Garnet- mica schist  The dark red garnet crystals are embed- ded in a matrix of fine- grained micas. (Photo by E. J.
-
-Tarbuck) (http://goo.gl/KrkufS)
 
 Mobile Field Trip
 
@@ -4244,10 +4167,6 @@ B.
 C.
 
 A. Inner Gorge of the Grand Canyon B. Close up of Vishnu Schist (dark color)
-
-Inner Gorge Inner Gorge Dennis Tasa Dennis Tasa www.masteringgeology.com Looking for additional review and test prep materials? With individualized coaching on the toughest top- ics of the course, MasteringGeology offers a wide variety of ways for you to move beyond memorization to begin thinking like a geologist.
-
-Visit the Study Area in www.masteringgeology.com to find practice quizzes, study tools, and multimedia that will improve your under- standing of this chapter’s content. Sign in today to enjoy the following features: Self Study Quizzes, SmartFigure: Tutorials/­Animations/ Condor Videos/Mobile Field Trips, Geoscience Animation Library, GEODe, RSS Feeds, Digital Study Modules, and an optional Pearson eText.
 
 ## 8.	 One of the accompanying photos shows an outcrop of metamorphic
 
@@ -4393,8 +4312,6 @@ SmartFigure 3.2  Types of mass wasting  The four processes illustrated here 
 
 The animation illustrates the sliding movement of a slump. By contrast, when material moves like a thick fluid, it is described as a flow. Debris flow and earthflow are examples.
 
-(https://goo.gl/Y604zh)
-
 A. Slump: Downward sliding of a mass of rock or unconsolidated material moving as a unit along a curved surface.
 
 B. Rockslide: Blocks of bedrock break loose and slide very rapidly downslope.
@@ -4418,10 +4335,6 @@ Landscapes Fashioned by Water Colorado River (Figure 3.3). Although there may be
 If streams alone were responsible for creating the val- leys in which they flow, valleys would be very narrow fea- tures. However, the fact that most river valleys are much wider than they are deep is a strong indication of the sig- nificance of mass-wasting processes in supplying material to streams. The walls of a canyon extend far from the river because of the transfer of weathered debris downslope to the river and its tributaries by mass-wasting processes. In this manner, streams and mass wasting combine to modify and sculpt the surface. Of course, glaciers, groundwater, waves, and wind are also important agents in shaping land- forms and developing landscapes.
 
 Slopes Change Through Time  Most rapid and spectac- ular mass-wasting events occur in areas of rugged, geo- logically young mountains. Newly formed mountains are rapidly eroded by rivers and glaciers into regions charac- terized by steep and unstable slopes. It is in such settings that massive destructive landslides occur. As mountain Tutorial SmartFigure 3.3 Excavating the Grand Canyon  The walls of the canyon extend far from the channel of the Colorado River. This results primarily from the transfer of weathered debris downslope to the river and its tributaries by mass- wasting processes. (Photo by Bryan Brazil/Shutterstock)
-
-(https://goo.gl/9geHci)
-
-SmartFigure 3.4  Debris flow in the Colorado Front Range  During the week of September 9–13, 2013, residents in and near Boulder, Colorado, received a harsh reminder of the dangers posed by debris flows. During that 5-day span, nearly continu- ous rainfall triggered numerous flash floods and more than 1100 debris flows in an area covering more than 3400 square kilome- ters (1300 square miles). Most occurred on slopes steeper than 25 degrees. (Photo by Rick Wilking/Reuters) (http://goo.gl/M7j5H6)
 
 Did You Know?
 
@@ -4513,8 +4426,6 @@ SmartFigure 3.6   The hydrologic cycle  The primary movement of water throug
 
 Numbers refer to the annual amount of water taking a particular path.
 
-(https://goo.gl/8IRwFJ)
-
 Tutorial Did You Know?
 
 According to the Ameri- can Water Works As- sociation, daily indoor per capita water use in an average American home is 69.3 gallons. Toilets (18.5 gallons), clothes washers (15 gallons), and showers and baths (13 gallons) are the top three uses. Leaks account for more than 9 gallons per home per day.
@@ -4546,8 +4457,6 @@ M t s .
 B g h o r n
 
 R e r
-
-SmartFigure 3.8 Mississippi River drainage basin  The drainage basin of the Mississippi River forms a funnel that stretches from Montana and southern Canada in the west to New York State in the east and runs down to a spout in Louisiana. It consists of many smaller drainage basins. The drainage basin of the Yellowstone River is one of many that contribute water to the Missouri River, which, in turn, is one of many that make up the drainage basin of the Mississippi River. (https:// goo.gl/z6epSn)
 
 Tutorial
 
@@ -4633,8 +4542,6 @@ B.
 
 SmartFigure 3.11  The Mighty Mississippi near Helena, Arkansas  The Mississippi is North America’s largest river.
 
-From head to mouth, it is nearly 3900 kilometers (2400 miles) long. Its watershed encompasses about 40 percent of the lower 48 states and includes all or parts of 31 states and 2 Canadian provinces. Average discharge at its mouth is about 16,800 cubic meters (593,000 cubic feet) per second. (Photo by Michael Collier) (http://goo.gl/ LkgZXX)
-
 Did You Know?
 
 The Amazon River is responsible for about 15 percent of all the fresh- water reaching the ocean via rivers. The Amazon’s discharge is more than 12 times that of the Missis- sippi River!
@@ -4646,8 +4553,6 @@ Mobile Field Trip
 Landscapes Fashioned by Water or during spring snowmelt, and it is lowest during the dry season or during periods when high temperatures increase water losses through evaporation. Streams also sometimes dry up. Streams that exhibit flow only during wet periods are referred to as intermittent streams. In arid climates, many streams carry water only occasionally after a heavy rainstorm; these are called ephemeral streams.
 
 SmartFigure 3.13  Channel changes from head to mouth  Although the gra- dient decreases toward the mouth of a stream, increases in discharge and channel size and decreases in rough- ness more than offset the decrease in slope.
-
-Consequently, flow velocity usually increases toward the mouth. (https://goo.
 
 gl/6srX2s)
 
@@ -4759,8 +4664,6 @@ Suspended load (silt, clay)
 
 Sliding SmartFigure 3.16 Transport of sediment Streams transport their load of sediment in three ways. The dissolved and suspended loads are carried in the general flow.
 
-The bed load includes coarse sand, gravel, and boulders that move by rolling, sliding, and saltation. (https://goo.gl/F9TOv1)
-
 Animation This river’s muddy appearance is a result of suspended sediment.
 
 Figure 3.17  Suspended load  An aerial view of the Colorado River in the Grand Canyon. Heavy rains washed sediment into the river. (Photo by Michael Collier)
@@ -4849,8 +4752,6 @@ Erosion of cut bank Michael Collier
 
 ## USGS
 
-SmartFigure 3.18 Formation of cut banks and point bars  By eroding its outer bank and depositing material on the inside of the bend, a stream is able to shift its channel. (https:// goo.gl/4bXxsu)
-
 Tutorial
 
 ## 3.7 Stream Channels
@@ -4858,8 +4759,6 @@ Tutorial
 SmartFigure 3.19  Formation of an oxbow lake  Oxbow lakes occupy abandoned meanders.
 
 Aerial view of an oxbow lake cre- ated by the meandering Green River near Bronx, Wyoming.
-
-(Photo by Michael Collier) (https://goo.gl/ J1KomF)
 
 Animation Figure 3.20  Braided stream  The Knik River is a classic braided stream with multiple channels separated by migrating gravel bars. The Knik is choked with sediment from four melting glaciers in the Chugach Mountains north of Anchorage, Alaska. (Photo by Michael Collier)
 
@@ -4927,8 +4826,6 @@ Blakeslee/AGE Fotostock)
 
 SmartFigure 3.23 Development of an erosional floodplain  Continuous side-to-side erosion by shifting meanders gradually produces a broad, flat valley floor. Alluvium deposited during floods covers the valley floor.
 
-(https://goo.gl/WNfY8s)
-
 Narrow V-shaped valley Well developed ﬂoodplain Site of erosion T I M E Site of deposition Resistant beds create rapids by acting as a temporary base level upstream while allowing downcutting to continue down- stream. In time, erosion usually eliminates the resistant rock. Waterfalls are places where the stream makes an abrupt vertical drop.
 
 Valley Widening Once a stream has cut its channel closer to base level, downward erosion becomes less dominant. At this point, the stream’s channel takes on a meandering pattern, and more of the stream’s energy is directed from side to side. The result is a widening of the valley as the river cuts away first at one bank and then at the other (Figure 3.23). The continuous lateral erosion caused by shifting of the stream’s meanders produces an increasingly broad, flat valley floor covered with alluvium. This feature, called a floodplain, is appropriately named be- cause when a river overflows its banks during flood stage, it inundates the floodplain.
@@ -4981,8 +4878,6 @@ Because of a relative drop in base level, the river erodes downward through prev
 
 Stream meandering on its ﬂoodplain Floodplain Terrace Terrace SmartFigure 3.24  Stream terraces  Terraces result when a stream adjusts to a relative drop in base level.
 
-(https://goo.gl/6cDynS)
-
 ## 3.9 	Depositional Landforms
 
 Discuss the formation of deltas and natural levees.
@@ -5014,8 +4909,6 @@ R .
 Figure 3.26  Growth of the Mississippi River delta  During the past 6000 years, the river has built a series of seven coalescing subdeltas. The numbers indicate the order in which the subdeltas were deposited. The pres- ent bird-foot delta (number 7) represents the activity of the past 500 years. The left inset shows the point where the Mississippi may sometime break through (arrow) and the shorter path it would take to the Gulf of Mexico. (Image cour- tesy of JPL/Cal Tech/NASA)
 
 Valley wall Coarse sediments Fine sediments Yazoo tributary Natural levees Back swamp Coarse sediments Fine sediments Coarse sediments Fine sediments Natural levees Natural levees Natural levee after numerous ﬂoods Floodstage Post ﬂood Floodstage Floodplain Floodplain SmartFigure 3.27 Formation of a natural levee  These gently sloping structures that parallel a river channel are created by repeated floods.
-
-Because the ground next to the channel is higher than the adjacent floodplain, back swamps and yazoo tributaries may develop. (https://goo.gl/7ZcsYJ)
 
 Animation illustration shows the main chan- nel dividing into several smaller ones, called distributaries. Most deltas are characterized by these shifting channels that act in an op- posite way to that of tributaries.
 
@@ -5289,13 +5182,9 @@ Such wells are abundant in the Artois region of northern France, and so we call 
 
 The term artesian is applied to any situation in which groundwater under pressure rises above the level of the aquifer. For an artesian system to exist, two conditions usually are met (Figure 3.37): (1) Water is confined to an aquifer that is inclined so that one end can receive water, Wells serve as small reservoirs into which groundwa- ter migrates and from which it can be pumped to the surface. The use of wells dates back many centuries and continues to be an important method of obtaining water.
 
-The water-table level may fluctuate considerably dur- ing the course of a year, dropping during dry seasons and rising following periods of precipitation. Therefore, to en- sure a continuous supply of water, a well must penetrate below the water table. Whenever a substantial amount of water is withdrawn from a well, the water table around SmartFigure 3.36  Cone of depression  For most small domestic wells, the cone of depression is negligible. When wells are heavily pumped, the cone of depression can be large and may lower the water table such that nearby shallower wells may be left dry. (https://goo.gl/nupO6m)
-
 Animation Pressure surface Recharge area Pressure surface Nonﬂowing artesian well Flowing artesian well Recharge area Pressure surface Nonﬂowing artesian well (water must be pumped from pressure surface to land surface)
 
 Flowing artesian well #1 #2 #1 #2 Aquitard Aquitard Conﬁned aquifer SmartFigure 3.37  Artesian systems  These groundwa- ter systems occur where an inclined aquifer is surrounded by imperme- able beds (aquitards).
-
-Such aquifers are called confined aquifers. The photo shows a flowing artesian well. (Photo by James E. Patterson, courtesy of Fred Lutgens) (https://goo.gl/yVJhLE)
 
 Tutorial
 
@@ -5434,8 +5323,6 @@ polluted groundwater: one consisting of coarse gravel, sand, or cavernous limest
 Explain the formation of caverns and the development of karst topography.
 
 SmartFigure 3.43 Kentucky’s Mammoth Cave area  Portions of Kentucky are underlain by limestone. Dissolution by groundwater has created a landscape characterized by caves and sinkholes.
-
-(Photo by Michael Collier) (http:// goo.gl/jsqQfh)
 
 Groundwater can dissolve rock. This fact is key to under- standing how caverns and sinkholes form. Because soluble rocks, especially limestone, underlie millions of square kilometers of Earth’s surface, it is here that groundwater carries on its important role as an erosional agent (Figure 3.43). Limestone is nearly insoluble in pure water but is quite easily dissolved by water containing small quanti- ties of carbonic acid, and most groundwater contains this acid. It forms because rainwater readily dissolves carbon dioxide from the air and from decaying plants. Therefore, when groundwater comes in contact with limestone, the carbonic acid reacts with calcite (calcium carbonate) in the rocks to form calcium bicarbonate, a soluble material that is then carried away in solution.
 
@@ -5749,8 +5636,6 @@ land in the Texas panhandle. His intention is to continue growing crops on the l
 
 bottled water. Some brands promote the fact that their product is ar- tesian. Other brands boast that their water comes from a spring. Your friend asks, “Is artesian water or spring water necessarily better than water from other sources?” How would you reply?
 
-www.masteringgeology.com    Looking for additional review and test prep materials? With individualized coaching on the toughest topics of the course, MasteringGeology offers a wide variety of ways for you to move beyond memorization to begin thinking like a geologist. Visit the Study Area in www.masteringgeology.
-
 com to find practice quizzes, study tools, and multimedia that will improve your understanding of this chapter’s content. Sign in today to enjoy the following features: Self Study Quizzes, SmartFigure: Tutorials/Animations/Condor Videos/Mobile Field Trips, Geoscience Animation Library, GEODe, RSS Feeds, Digital Study Modules, and an optional Pearson eText.
 
 ## 9.	 A glance at the map shows that the drainage basin of the Republican
@@ -5855,15 +5740,11 @@ Ice Age Ice Sheets  About 18,000 years ago, glacial ice not only covered Green
 
 Throughout the Quaternary period ice sheets formed, advanced over broad areas, and then melted away. These alternating glacial and interglacial periods occurred over and over again.
 
-Greenland and Antarctica  Some people mistakenly think that the North Pole is covered by glacial ice, but this is not the case. The ice that covers the Arctic Ocean SmartFigure 4.1  Valley glacier  Johns Hopkins Glacier in Alaska’s Glacier Bay National Park is still eroding the Alaskan landscape. The dark stripes of sediment within this glacier are called medial moraines. This moving mass of ice. is one path through the hydrologic cycle. The transport and deposition of sediment make glaciers a part of the rock cycle. (Photo by Michael Collier) (http://goo.gl/jkqqPA)
-
 Mobile Field Trip A nt a r ct C ir e A r ct
 
 C ir e Greenland Antarctica North Pole South Pole Ross Ice Shelf Ronne-Filchner Ice Shelf Larsen B Ice Shelf The area of the Antarctic Ice Sheet is almost 14 million square kilometers (5,460,000 square miles). Ice shelves occupy an additional 1.4 million square kilometers (546,000 square miles).
 
 Greenland's ice sheet occupies 1.7 million square kilometers (663,000 square miles), about 80 percent of the island.
-
-SmartFigure 4.2  Ice sheets  The only present- day ice sheets are those covering Greenland and Antarctica. Their com- bined areas represent almost 10 percent of Earth’s land area. (https:// goo.gl/JdyThn)
 
 Video
 
@@ -5872,8 +5753,6 @@ Did You Know?
 The annual mean temper- ature at Amundsen–Scott Station at the South Pole is −56.9°F. By contrast, the annual mean at Mc- Murdo Station along the Antarctic coast adjacent to the Ronne–Filchner Ice Shelf is a “balmy” 1.6°F.
 
 ## Chapter
-
-Glacial and Arid Landscapes SmartFigure 4.3  Iceland’s Vatnajökull ice cap  In 1996 the Grímsvötn Volcano erupted beneath this ice cap, an event that triggered melting and floods. (NASA) (http://goo.gl/ RsbHWM)
 
 Mobile Field Trip Ice caps completely bury the underlying terrain but are much smaller than ice sheets.
 
@@ -5951,8 +5830,6 @@ Terminus of glacier in 1874 Terminus in 1878 Terminus in 1878 Terminus in 1882 1
 
 Also notice that even though the ice front was retreating, the ice within the glacier was advancing.
 
-(https://goo.gl/JoKPM3)
-
 Animation
 
 Did You Know?
@@ -5980,8 +5857,6 @@ Glaciers in Retreat: Unbalanced Glacial Bud- gets  Because glaciers are sensit
 More snow falls each winter than melts each summer
 
 ## ZONE OF WASTAGE
-
-All the snow from the previous winter melts along with some glacial ice SmartFigure 4.7  Zones of a glacier  The snowline separates the zone of accumulation and the zone of wastage. Whether the ice front advances, retreats, or remains sta- tionary depends on the balance or lack of balance between accumulation and wastage. (https://goo.
 
 gl/25XUcw)
 
@@ -6071,8 +5946,6 @@ Glacial abrasion created the scratches and grooves in this bedrock.
 
 Glacially polished granite in California’s Yosemite National Park.
 
-Hanging valley A. Unglaciated topography V-shaped valley B. Region during period of maximum glaciation Arête Horn Cirques T I M E Medial moraine Main glacier C. Glaciated topography Hanging valley Arête Horn Tarn Pater noster lakes Cirques Glacial trough Cirque Arête SmartFigure 4.12  Erosional landforms created by alpine glaciers  The unglaciated landscape in part A is modified by valley glaciers in part B. After the ice recedes, in part C, the terrain looks very differ- ent than it looked before glaciation. (Arête photo by James E. Patterson courtesy of F. Lutgens; cirque photo by Marli Miller; hanging valley photo by John Warden/SuperStock) (https://goo.
-
 gl/XPgbvY)
 
 Tutorial the debris. After the glacier has melted away, the cirque basin is often occupied by a small lake called a tarn.
@@ -6145,8 +6018,6 @@ A close examination of glacial till often reveals cobbles that have been scratch
 
 Glacial till is an unsorted mixture of many different sediment sizes.
 
-SmartFigure 4.16  Glacial erratic  This large glacially transported boulder, called Doane Rock, is a promi- nent feature near Nauset Bay on Cape Cod. Such boulders are called glacial erratics. (Photo by Michael Collier) (http://goo.gl/MfwH34)
-
 Mobile Field Trip
 
 ## Chapter
@@ -6164,8 +6035,6 @@ Terminal and recessional moraines are essentially alike; the only difference be-
 End moraines deposited by the most recent major stage of Ice Age glaciation stripes within a large alpine glacier because one will form each time a tributary glacier joins the main valley (Figure 4.17).
 
 End Moraines and Ground Moraines  An end mo- raine is a ridge of till that accumulates at the terminus of a glacier. These relatively common landforms are de- posited when a state of equilibrium is attained between wastage and ice accumulation. That is, the end moraine forms when the ice is melting near the end of the glacier at a rate equal to the forward advance of the glacier from Figure 4.17  Formation of a medial moraine  Kennicott Glacier is a 43-kilometer- (27-mile-) long val- ley glacier that is sculpting the mountains in Alaska’s Wrangell– St. Elias National Park. The dark stripes of sediment are medial moraines. The geologist’s sketch shows how lateral moraines of merging glaciers create a medial moraine. (Photo by Michael Collier)
-
-150mi 150km End moraines of the most recent glacial advance Extent of most recent glacial advance SmartFigure 4.18  End moraines of the Great Lakes region  End moraines deposited during the most recent stage of glaciation are prominent features in many parts of this region. (https://goo.gl/ QNwbma)
 
 Animation
 

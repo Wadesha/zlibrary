@@ -1,10 +1,5 @@
 # The Britannica Guide to the Brain Steven Rose Z Library
 
-> 来源文件：pre_The_Britannica_Guide_to_the_Brain_Steven_Rose_Z_Library.txt
-> 字符数（约）：2576448
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 (cid:1)(cid:2)(cid:3)(cid:4)(cid:3)(cid:5)(cid:6)(cid:7)(cid:8)(cid:9)(cid:10)(cid:11)(cid:12)(cid:13)(cid:10)(cid:14)(cid:11)(cid:2)(cid:2)(cid:10)(cid:3)(cid:11)(cid:15)(cid:16)(cid:2)(cid:3)(cid:17)(cid:1)(cid:2)(cid:3)(cid:4)(cid:5)(cid:6)(cid:4)(cid:7)(cid:6)(cid:8)(cid:2)(cid:9)(cid:8)(cid:6)(cid:10)(cid:6)(cid:8)(cid:6)(cid:9)(cid:11)(cid:6)(cid:4)(cid:9)(cid:7)(cid:6)(cid:7)(cid:12)(cid:11)(cid:4)(cid:13)
 
 (cid:14)(cid:2)(cid:15)(cid:9) (cid:16)(cid:12)(cid:17)(cid:5)(cid:2)(cid:3)(cid:18)(cid:2)(cid:9)(cid:19) (cid:20)(cid:18)(cid:15)(cid:3)(cid:6) (cid:16)(cid:8)(cid:15)(cid:7)(cid:12)(cid:11)(cid:14)(cid:3) (cid:11)(cid:4)(cid:9) (cid:17)(cid:6) (cid:10)(cid:15)(cid:12)(cid:9)(cid:7) (cid:2)(cid:9) (cid:21)(cid:4)(cid:9)(cid:22) (cid:21)(cid:6)(cid:7)(cid:2)(cid:4)(cid:1)
@@ -13,15 +8,9 @@
 
 (cid:6)(cid:5)(cid:6)(cid:11)(cid:14)(cid:8)(cid:15)(cid:9)(cid:2)(cid:11) (cid:16)(cid:12)(cid:17)(cid: Encyclopædia Britannica, Inc.
 
-www.britannica.com First print edition published in the UK by Robinson, an imprint of Constable & Robinson Ltd, 2008 Text © 2008 Encyclopædia Britannica, Inc.
-
-Introduction © 2008 Cordelia Fine The right of Encyclopædia Britannica, Inc. and Cordelia Fine to be identified as the authors of this work has been asserted by them in accordance with the Copyright, Designs & Patents Act, 1988.
-
 Britannica, Encyclopædia Britannica, and the Thistle logo are registered trademarks of Encyclopædia Britannica, Inc.
 
 This eBook edition published by Encyclopædia Britannica, Inc.
-
-ISBN 978-1-59339-226-0 No part of this work may be produced or utilized in any form or by any means, electronic or mechanical, including photocopying, recording, or by any information storage and retrieval system, without permission in writing from the publisher.
 
 17)(cid:22) 0(cid:15)(cid:8)(cid:7)(cid:6)(cid:5)(cid:2)(cid:4) >(cid:2)(cid:9)(cid:6) (cid:2), )(cid:4)(cid:8)(cid:14) (cid:27) ;(cid:18)(cid:4)(cid:14) (cid:2)(cid:3) (cid:14)(cid:18)(cid:6) (cid:31)(cid:8)(cid:4)(cid:2)(cid:9)C (cid:27) +(cid:18)(cid:6) (cid:31)(cid:8)(cid:4)(cid:2)(cid:9)9 (cid:26) :(cid:12)(cid:2)(cid:7)(cid:6)(cid:7) +(cid:15)(cid:12)(cid:8) = 7 8(cid:15)(cid:20) (cid:14)(cid:18)(cid:6) (cid:31)(cid:8)(cid:4)(cid:2)(cid:9) ;(cid:15)(cid:8)(cid:24)(cid:3) 7% = 2(cid:15)(cid:15)(cid:24)(cid:2)(cid:9)(cid:19) (cid:4)(cid:14) (cid:14)(cid:18)(cid:6) (cid:31)(cid:8)(cid:4)(cid:2)(cid:9) $= ;(cid:18)(cid:4)(cid:14) (cid:2)(cid:3) )(cid:3)(cid:22)(cid:11)(cid:18)(cid:15)(cid:5)(cid:15)(cid:19)(cid:22)C (cid:29)$ )(cid:4)(cid:8)(cid:14) 7 /(cid:6)(cid:21)(cid:15)(cid:8)(cid:22)(cid:1) (cid:23)(cid:9)(cid:14)(cid:6)(cid:5)(cid:5)(cid:2)(cid:19)(cid:6)(cid:9)(cid:11)(cid:6)(cid:1) (cid:4)(cid:9)(cid:7) (cid:14)(cid:18)(cid:6) /(cid:2)(cid:9)(cid:7)
 
@@ -340,8 +329,6 @@ the document is a valuable resource for anyone interested in the topic. it provi
 the document is available in both print and electronic formats. the electronic version is searchable and can be accessed from any device with an internet connection.
 
 the document is updated regularly to reflect new developments in the field. the latest version can be downloaded from the publisher's website.
-
-the document is protected by copyright and may not be reproduced without permission. however, short excerpts may be quoted for educational or research purposes.
 
 the document is a testament to the hard work and dedication of the authors. it is a significant contribution to the field and will be of interest to a wide audience.
 
@@ -2720,8 +2707,6 @@ K ! 5,6 A 8 25 23 26 3) ! (cid:16)(cid:3)(cid:22)(cid:11)(cid:18)(cid:15)(cid:5)
 (cid:7)(cid:6)(cid:19)(cid:8)(cid:6)(cid:6) (cid:15)(cid:10) (cid:11)(cid:15)(cid:8)(cid:8)(cid:6)(cid:3)(cid:16)(cid:15)(cid:9)(cid:7)(cid:6)(cid:9)(cid:11)(cid:6) (cid:17)(cid:6)(cid:14)(cid:20)(cid:6)(cid:6)(cid:9) (cid:16)(cid:6)(cid:8)(cid:11)(cid:6)(cid:16)(cid:14)(cid:3) (cid:4)(cid:9)(cid:7) (cid:14)(cid:18)(cid:6) (cid:16)(cid:18)(cid:22)(cid:3)(cid:2)(cid:11)(cid:4)(cid:5)
 
 (cid:15)(cid:17)@(cid:6)(cid:11)(cid:14)(cid:3) (cid:14)(cid:15) (cid:20)(cid:18)(cid:2)(cid:11)(cid:18) (cid:14)(cid:18)(cid:6)(cid:22) (cid:15)(cid:8)(cid:7)(cid:2)(cid:9)(cid:4)(cid:8)(cid:2)(cid:5)(cid:22) (cid:8)(cid:6)(cid:5)(cid:4)(cid:14)(cid:6)(cid:25) 8(cid:15)(cid:20) (cid:4)(cid:11)(cid:11)(cid:12)(cid:8)(cid:4)(cid:14)(cid:6)(cid:5)(cid:22)(cid:1) (cid:10)(cid: 15)
-
-6,4:1656176314186!23124552216681162!6732*61510491517@611142141411182143 161822321145 32*6 43 2164312867 56251925 2021418 4 22487314211246C M12631421593 1510 14186 54141468 315814 2216522 1418414 166811616141245 6,1668213 69116314221621145522184!66,146894586106869143497141841414186224862164913 291910125522 15819492*671 2115314 15101469 43 1517@61114325 /6492919101251517@6111431 3121118431486631104116311715152431141756314977151931486915821455223669 84141868141849361648414652216681162!67431418671514315296311551512831497 15141868656216914315102018211181418622486115216153672523914186549191241961510 :63144514 1632211181551519231431 2216724146 18121149 6,1668269116 23 1510 15813 19492*67 201815563 5"2109192492141 91514 1510 1155611421593 1510 656216914325 >34520165 24123710% 26214@158191545 1510:6314451414186158222914186142069142614181169141282220431415 316611210221418617842916815116336314184142121918144111512914101581418615819492*413 142159 1510 16681161614215925 :63144514 14186158231431 1182610 4215919 1418621 (cid:14)(cid:18)(cid:6)
 
 :(cid:6)(cid:8)(cid:21)(cid:4)(cid:9)<(cid:26)(cid:21)(cid:6)(cid:8)(cid:2)(cid:11)(cid:4)(cid:9) (cid:16)(cid:3)(cid:22)(cid:11)(cid:18)(cid:15)(cid:5)(cid:15)(cid:19)(cid:2)(cid:3)(cid:14) (cid:4)(cid:9)(cid:7) (cid:16)(cid:18)(cid:2)(cid:5)(cid:15)(cid:3)(cid:15)(cid:16)(cid:18)(cid:6)(cid:8)(cid:1) (cid:14)(cid:18)(cid:6) (cid:10)(cid:15)(cid:12)(cid:9)(cid:7)(cid:6)(cid:8)
 

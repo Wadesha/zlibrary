@@ -1,0 +1,4555 @@
+# 9 Foundations for Financial Economics
+
+FOUNDATIONS FOR FINANCIAL ECONOMICS Sloan School of Management Massachusetts Institute of Technology Robert H. Litzenberger The Wharton School University of Pennsylvania ^ PRENTICE HALL, Englewood Cliffs, New Jersey 07632
+
+Huang, Chi-fu.
+
+Foundations for financial economics / Chi-fu Huang, Robert H.
+
+Litzenberger.
+
+p.
+
+cn.
+
+Reprint. Originally published New York . North-Holland. ~1988.
+
+Includes index.
+
+I S B N  0-13-500653-8 1.
+
+Investments--Mathematical models.
+
+## 2. F i n a n c e ~ M a t h e n a t i e a
+
+l o d a l s .
+
+I. Litzenberger, Robert H.
+
+## 11. Title
+
+HG4615.1-183 332--dc20 93-990 CIP @ 1988 by Prentice-Hall, hc.
+
+A Simon & Schuster Company Englewood Cliffs, New Jersey 07632 be reproduced, in any form or by any means, without pcr~+sion in writing from the publisher.
+
+"
+
+.
+
+.
+
+" "
+
+To Our Families
+
+Preface
+
+## TABLE OF CONTENTS
+
+Preferences Representation and Risk Aversion Stochastic Dominance Mathematics of the Portfolio Frontier Two Fund Separation and Linear Valuation Allocat ive Efficiency and the Valuation of St ate Contingent Securities Valuation of Complex Securities and Options with Preference Restrict ions Multiperiod Securities Markets I: Equilibrium Valuation
+
+9.
+
+Financial Markets with Differential Informat ion I 10.
+
+Econometric Issues in Testing the Capital Asset Pricing Model Index
+
+## PREFACE
+
+This book evolved from lecture notes we have used to teach in- troductory PhD courses in financial economics at the Massachusetts Institute of Technology, Stanford University, and the University of Pennsylvania. Its purpose is to provide the foundations for the study of modern financial economics. Rather than giving a superficial cov- erage of a wide range of topics, we have chosen to concentrate our discussion on individuals' consumption and portfolio decisions under uncertainty and their implications for the valuation of securities.
+
+Chapters 1 through 6 discuss two-period models, where the consumption and portfolio decisions are made only once at the initial date of the economies. Chapter 1 analyzes an individual's behavior under uncertainty. This chapter also shows the comparative statics of an individual's optimal portfolio choice in an economywith one riskless and one risky asset when his initial wealth or attitude toward risk changes. Moreover, we provide sufficient conditions for these comparative statics to apply to economies with three or more assets.
+
+In Chapter 2, we discuss three concepts of stochastic dominance.
+
+The concepts of stochastic dominance identify conditions that allow risky assets to be ranked based on limited knowledge of individuals' preferences. Chapter 3 shows mathematical properties of a portfolio frontier - the collection of portfolios that have the minimum variance
+
+Preface for different levels of expected rates of return. In Chapter 4, we give distributional conditions on the rates of return on assets so that individuals will optimally choose to hold portfolios on the portfolio frontier. As a consequence, expected rate of return on an asset is linearly related to its beta, which measures the contribution of the s e t  to the risk of a well-diversified portfolio. This is the Capital Aaaet Pricing Model. We also discuss in this chapter the Arbitrage Pricing Theory, which relates the expected rate of return of an asset to a number of random factors.
+
+## Chapter 5 begins our description of a state contingent security
+
+and its equilibrium valuation. A state contingent security pays one unit of consumption in one state of nature and nothing otherwise.
+
+Markets are said to be complete if there is a state contingent secu- rity for every state of nature. An allocation of consumption among individuals is said to be a Pareto optimal allocation if there is no other allocation that increasfa an individual's satisfaction without decreasing some other individual's satisfaction. We show how Pareto optimal allocations can be achieved in complete markets as well as in various other market structures. The allocational role of options, in particular, is demonstrated. This chapter also provides the neces- sary and sufficient conditions on individuals' utility functions for all Pareto optimal allocations to be achievable by holding the portfolio of all assets and borrowing or lending and discusses the relation- ship between these conditions and an aggregation resplt in securities markets. In Chapter 6, we present general pricing rules for secu- rities that pay off in more than one state of nature and specialize these rules with additional preference restrictions. In particular, we derive a closed form solution for a call option written on a com- mon stock when the random payoffs of the common stock and the aggregate consumption are jointly lognormally distributed and in- dividuals' preferences are represented by power functions with the same exponent.
+
+We discuss in Chapter 7 how multiperiod dynamic economies can be modeled. A multiperiod dynamic economy differs from a two- period static economy in that trading can take place at more than one date and individuals' expectations about future prices are there- fore essential in an equilibrium specification. This leads to a notion Preface of a rational expectations equilibrium. The general equilibrium val- uation principles in a multiperiod dynamic economy are essentially the same as those in a two-period static economy. An important feature of a multiperiod economy demonstrated in detail is that a Pareto optimal allocation can be achieved by trading dynamically in a limited number of long-lived securities. Chapter 8 continues our discussion of a multiperiod economy with emphasis on valuation by arbitrage. We show the connection between an arbitrage-free price system and martingales. This connection allows us to compute prices of a derivative security in a simple way when the derivative security can be priced by arbitrage. As an example, we price a call option written on a stock when the stock price follows a binomial random walk.
+
+A common feature of the economies in Chapters 1 through 8 is that individuals are endowed with the same information. In Chap ter 9 we discuss economies in which individuals have differential in- formation. We demonstrate that equilibrium properties can be very different from those in economies without differential information.
+
+## Chapter 10 examines econometric issues of testing the Capital Asset
+
+Pricing Model. Some test statistics are given geometric interpreta- tions in the context of Chapter 3.
+
+Applications of information economics to financial markets have gained significant importance in recent years. Our coverage in Chap- ter 9 is limiteckin scope. Chapter 10 concentrates on econometric issues in testing the Capital Asset Pricing Model. Empirical aspects of many other theories developed in this book also deserve attention.
+
+Separate books can be written on the general topic areas of Chapters 9 and 10. Our selection of subjects covered in these two chapters is intended to be an introduction.
+
+6%.
+
+Besides providing material for introductory PhD courses in fi- nancial economics, this book can be used for a graduateladvanced undergraduate course in the economics of uncertainty. When supple- mented with articles, this book can form the basis for a two semester course. Chapters 1 through 4 and Chapter 10 are recommended for the first semester, while Chapters 5 through 9 are recommended for the second semester. Although the level of presentation is rigorous in general, the necessary prerequisites are only intermediate level
+
+microeconomics, introductory econometrics, matrix algebra, and el- ementary calculus.
+
+We owe a substantial debt to our academic colleagues who have contributed to the strong theoretical foundations of asset choice and valuation under uncertainty and to the empirical methodology for examining testable implications of the theory. This book presents and interprets materials in the existing literature and does not make original contributions of its own. In the end of each chapter, we try to give a brief attribution of the materials covered. But, undoubt- edly, our attribution cannot be complete. Many of our colleagues provided either helpful comments on early drafts or encouragement throughout the years that this book was under preparation. Among them, special thanks go to Sudipto Bhattacharya and John Cox, from whom we have received continuous encouragement and invalu- able suggestions on the selection of topics; and to Michael Gibbons and Craig MacKinlay, who have helped clarify some questions we had on the materials in Chapter 10. Many of our students have provided helpful comments and suggestions. Among them, special apprecia- tions go to Ayman Hindy, who read through every chapter in detail and pointed out numerous mistakes in notation and derivations; to Caterina Nelsen, whose editorial help has proved indispensible; and to Ajay Dravid and Tomas Philipson, who gave helpful comments in terms of style and topic selection.
+
+This book was completed when the first author was on a fel- lowship provided by Batterymarch Financial Management, whose generous support is greatly appreciated. The entire book is typeset by T)i$ designed by Professor Donald Knuth of Stanford University.
+
+Manjul Dravid helped us typeset some parts of this book. Our con- versation with Hal Varian improved our understanding of some fine points of Tpy., for which we are thankful. Last, but by no means least, we are grateful to our families for their encouragement and help.
+
+Chi-fu Huang Robert H. Litzenberger
+
+## FOUNDATIONS
+
+## FOR FINANCIAL
+
+## ECONOMICS
+
+## CHAPTER
+
+## PREFERENCES REPRESENTATION
+
+## AND RISK AVERSION
+
+1.1. As we mentioned in the preface, the main focus of this book is on individuals' consumption and investment decisions under uncertainty and their implications for the valuation of securities. In- dividuals' consumption and investment decisions under uncertainty are undoubtedly influenced by many considerations. A commonly accepted theory of asset choice under uncertainty that provides the underpinnings for the analysis of asset demands uses the expected util- ity hypothesis. Under this hypothesis, each individual's consumption and investment decision is characterized as if he determines the prob- abilities of possible asset payoffs, assigns an index to each possible consumption outcome, and chooses the consumption and investment policy to maximize the expected value of the index. More formally, an individual's preferences have an expected utility representation if there exists a function u such that random consumption iZ is preferred to random consumption if and only if Eb(x)} 2 E[u(i)l, where E[-] is the expectation under the individual's probability belief.
+
+Foundations for Financial Economics In the first half of this chapter we give behavioral conditions that are necessary and sufficient for an individual's preferences to have an expected utility representation. We then go on to discuss the necessary and sufficient condition for an individual's preferences to exhibit risk aversion under the expected utility representation as- sumption. Different measures of risk aversion will be proposed and used to analyze the comparative statics of an individual's portfolio behavior when faced with one risky asset and one riskless asset. Fi- nally, we will discuss sufficient conditions for the comparative statics for the one risky and one riskless asset case to generalize to the case of multiple risky assets and a riskless asset.
+
+Before we proceed, we note that throughout this book we will use positive, negative, greater than, smaller than, increasing, decreasing, and etc. to mean weak relations. When a relation is strict, we will emphasize it by using a "strictly" to modify it, for example, by using "strictly positive."
+
+## 1.2 Suppose for now that there are two dates, time 0 and time
+
+1, and there is a single consumption good available for consumption only at time 1. Uncertainty in the economy is modeled by uncertain states of nature to be realized at time 1. A state of nature is a complete description of the uncertain environment from time 0 to time 1. We denote the collection of all the possible states of nature by f! and denote an element of 0 by w .  At time 0, individuals know that the true state of nature is an element of 0 but do not know which state will occur at time 1. A consumption plan is then a specification of the number of units of the single consumption good in different states of nature. Let a; be a consumption plan. We will use xw to denote the number of units of the consumption good in state w specified by x. When there are five states of nature denoted by wl, . . . , W E .  Table 1.2.1 tabulates a consumption plan x, which has 2 units of consumption in state wl, 3 units of consumption in states w2, etc. As we defined above, a consumption plan is a vector specifying units of consumption in different states of nature. Since the time 1 realized consumption is uncertain, a consumption plan x can also be viewed as a random variable and we will use 2 to denote it when we use the "random variable" aspect of a consumption plan.
+
+Preferences Represen tation and Risk Aversion Table 1.2.1: A Consumption Plan An individual is represented by his preference relation >_ de- fined on a collection of consumption plans. We will formally define a reference relation shortly. Roughly, a preference relation is a mech- anism that allows an individual to compare different consumption plans. For example, given two consumption plans, x and x', a pref- erence relation enables an individual to tell whether he prefers x to x' or x1 to x. For concreteness, we would like an individual's pref- erences to be represented by a utility function, or H, in the sense that the individual prefers x to x' if and only if H(x) > H(xl). We will see later in this chapter that, under some regularity conditions, a preference relation can always be represented this way.
+
+When the number of states is very large, a consumption plan x is a vector of large dimension and the function H will be complicated to analyze. It would be more convenient if there existed a function u that allowed comparison among consumption plans that are certain and a probability P that gave the relative likelihood of states of nature such that the preference relation can be represented as an expected utility in the sense that consumption plan x is preferred to consumption plan x' if and only if the expected utility of x is greater than the expected utility of x', that is, Denoting the expectation operator under P by E\'\, (1.2.1) can be equivalently written as where we have used the random variable aspect of x and x'. No$ that a consumption plan is certain if the number of units of consumption does not vary across different states of nature. Note also that in the above expected utility representation, if x and x' are both certain or sure things, that is xw = z  and x k =  z' Vw e 0,
+
+Foundations for Financial Economics for some constants z and z', then E[u(Â£) = ufz) and E[u(~')] = u(zl). In this sense, u compares consumption plans that are certain.
+
+Certainly not all preference relations have an expected utility representation. Indeed, we have to put a fair amount of structure on a preference relation to achieve this purpose. In general, there are two approaches for a preference relation to have an expected utility representation, depending on whether one treats the probabilities of the states of nature as objective or subjective. The former approach was introduced by von Neumann and Morgenstern (1953) and the re- sulting function u is thus called the won Neumann-Morgenstern util- ity function. The latter approach was taken by Savage (1972), who views probability assessments as an integral part of an investor's pref- erences and thus purely subjective. However, the distinction between subjective and objective probability assessments is inconsequential to our purpose in this book. Hence for the analysis to follow, we will not distinguish between them and always call the function u defined on sure things a von Neumann-Morgenstern utility function.
+
+Before discussing the representation of a preference relation by an expected utility, in the next section, we give a definition of a preference relation and discuss conditions under which a preference relation can be represented by a utility function H.
+
+1.3. Formally, let X be the collection of consumption plans under consideration. A binary relation 2 on X is a collection of pairs of consumption plans (x, y). If (x, y) is in the relation, we write x > y and say x is preferred to y. If (x, y) is not in the relation, then we write x V: y and say x is not preferred to y.
+
+A binary relation is transitive if x > y and y > v imply x > v; that is, if x is preferred to y and y is preferred to v, then x is preferred to v .  A binary relation is said to be complete if for any two consumption plans x and y, we either have x >_ y or y >_ x; that is, any two consumption plans can always be compared.
+
+A preference relation is a binary relation that is transitive and complete. We can also define an indifference relation and a strict preference relation. Formally, given a preference relation 2, two consumption plans x and y are said to be indifferent to each other if x > y and y >. x, denoted by x - y. The consumption plan x is said to be strictly preferred to y, denoted by x + y, if x > y and y 2 X. Note that a strict binary relation and an indifference relation can also be similarly defined for any given binary relation.
+
+1.4. When X has a finite number of elements, a preference relation > can always be represented by a utility function. This assertion can be proved in a straightforward manner. The readers are asked to furnish a proof in Exercise 1.1. Here we shall give an example to demonstrate the essential idea.
+
+Suppose that there are three consumption plans in X, denoted by xi, x2, and xi. Pick any consumption plan, say xs, and define , where b is an arbitrary constant. Next take xi. Since a preference relation is complete, xl and xs can be compared. We define That is, compare xl and xs. If xl is strictly preferred to xs, we assign a value strictly larger than b to H(xl); and similarly for other cases. Without loss of generality, suppose that xi > xs. Finally, we compare x2 with xl and xs, and define Here we compare x2 with xl and xs and assign values to H(x2) in a natural way. It should now be transparent that H(xn) > H(xm) ifandonlyif X n > X m , n,m=1,2,3.
+
+That is, H as defined above represents the preference relation >-.
+
+When X has a countable number of elements, the above idea can be carried out -in a similar way to conclude that a preference relation can always be represented by a utility function.
+
+1.5. Matters are not as simple when an individual expresses his preferences on an uncountably infinite number of consumption plans. In such event, there exist well-known examples of preference relations that cannot be represented by utility functions. The so- called Lexicographic preference relation is one such example; we refer readers to Exercise 1.2 for a brief description. Thus, for general X, additional conditions on a preference relation will be needed for an expected utility representation to exist. It turns out that the additional condition needed is purely technical in nature and is stated in Exercise 1.2. Interested readers should consult Debreu (1954) and Fishburn (1970) for details.
+
+1.6. Now we turn to the representation of a preference rela- tion by an expected utility. Let P be a probability defined on the state space 0, which can be either objective or subjective. (For the technically inclined readers, we are a bit informal here. When 0 has uncountably infinite elements, a probability is actually defined not on f2 but rather on a collection of subsets of 0 that satisfies a certain structure.) A consumption plan is a random variable, whose probabilistic characteristics are specified by P. We can define the distribution function for a consumption plan x as follows: &(z) =P{w ? 0 : Xu < z}.
+
+If a preference relation > has an expected utility representation with a utility function u on sure things, the expected utility derived from X is +oo E[u(x)} = From the above relation, we see that if two consumption plans x and x' have the same distribution function, they will yield the same expected utility and are indifferent to each other. This demonstrates that the primitive objects on which an individual expresses his or her preferences are probability distributions of consumption. Note that two consumption plans having the same distribution function can have very different consumption patterns across states of nature.
+
+Preferences Representation and Risk Aversion 1.7.
+
+To simplify matters, we shall assume that an individual only expresses his preferences on probability distributions defined on a finite set 2. In other words, the collection of consumption plans X on which an individual expresses his or her preferences must have the property that For example, if Z = {1,2,3}, then the units of consumption in any state can only be 1, 2, or 3. This assumption can be justified, for example, when the consumption commodity is not perfectly divisible and the supply of the commodity is finite. In this case, we can represent a consumption plan x by a function p(-) defined on 2, where p(z) is the probability that x is equal to z. Thus p(z) > 0 for all z 6 Z and Eaezp(z) = 1. The distribution function for the consumption plan x discussed in Section 1.6 is then and One can also think of a consumption plan as a lottery with prizes in
+
+## 2. The probability of getting a prize z is ~ ( z )
+
+We denote the space of probabilities on Z by P and its elements by p, q, and r. If p 6 P, the probability of z under p is ~ ( z ) .
+
+1.8. The following three behavioral axioms are necessary and sufficient for a binary relation defined on P to have an expected utility representation.
+
+Axiom 1. > is a preference relation on P.
+
+Axiom 2. For all p,q,r 6 P and a E (0,1\, p > q implies up + (1 - a)r + aq + (1 - a)r.
+
+Foundations for FjnanciaJ Economics \ Preferences Representation and Risk A version This axiom is commonly called the substitution axiom or the inde- pendence axiom. Think of p, q, r as lotteries and up + (1 - a)r as a compound lottery: First an experiment with two outcomes (say head and tail) is carried out, where the probability of a head is a. If a head shows up, the lottery p is performed. If a tail shows up, the lottery r is performed. The motivation for this axiom is the following: The difference between up+ (1 - a)r and aq+ (1 - a)r is what happens if a head shows up, so how an individual feels about ap+ (1 - a)r versus aq + (1 - a)r should be determined by how he feels about p versus q.
+
+In other words, satisfaction of consumption in a given event does not depend on what the consumption would have been if another event had occurred.
+
+Axiom 3. For all p, q, r E P, if p + q > r then there exists a, b E (0,l)
+
+such that up + (1 - a)r > q > bp + (1 - b)r.
+
+This is called the Archimedean axiom. It roughly says that there is no consumption plan p so good that for q > r a small probability b of p and a large probability (1 - b) of r is never worse than q.
+
+Similarly, there is no consumption plan r so bad that for p >- q a large probability a of p and a small probability (1 - a) of r is never preferred to q. It is called an Archimedean axiom because of the resemblance to Archimedes' principle: No matter how small z > 0 is and how big z' is, there is an integer k such that kz > z'.
+
+When p, q, and r are sure things, say when p(z) = 1, q(zl) = 1, and r(zl') = 1, the Archimedean axiom says that there exists a lottery awarding z with a probability a and awarding z" with a probability (I-a) which is strictly preferred to the sure consumption level z'; and there exists a lottery awarding z with a probability b and awarding z"
+
+with a probability (1 - b) so that the sure consumption z' is strictly preferred to this lottery.
+
+1.9. We will show in the following section that a binary relation >- on P has an expected utility representation if and only if it satisfies the above three axioms. Before we do that, we will first record some very intuitive properties of a binary relation when the three axioms are satisfied. Their proofs are straightforward, and we leave them for the readers as Exercise 1.3 at the end of this chapter.
+
+We will need the following notation. For z E 2, let Pz be the probability distribution degenerate at z in that That is, P, represents the sure consumption plan that has z units of consumption in every state.
+
+Suppose henceforth that >- is a binary relation on P that satisfies the above three axioms. Then 1. p > q and 0 < a < b < 1 imply that bp+ (1 - b)q > up+ (1 - a)q.
+
+2. p > q >! r and p > r imply that there exists a unique a* E [O, 11 such that q - a*p + (1 - a*)r.
+
+3. p > q and r > s and a ? [O,l] imply that up + (1 - a)r + aq + (1 - a)s.
+
+4. p - q and a <= [O, 11 imply that p - up + (1 - a)q.
+
+5. p - q and a E [O, 11 imply that up + (1 - a)r - aq + (1 - a)r, for all r E P.
+
+## 6. There exist zO, z0 E Z such that P,o > p > Pzo
+
+for all p E P.
+
+The first property says that if p is strictly preferred to q, then any compound lottery on p and q with a strictly higher weight for p is strictly preferred to a compound lottery with a lower weight for p. The last property can be seen as follows. Suppose that > always prefers more to less. Since Z has only a finite number of elements, there exist a maximum zO and a minimum zo. A sure consumption plan PZo is certainly preferred to any other consumption plan, and conversely for Pzo . Other properties can be interpreted similarly.
+
+1.10. Now we will prove that >: has an expected utility repre- sentation. We take cases.
+
+Case 1. Pzo - Pan.
+
+Then p - q for all p, q <= P. Therefore any u(z) = k for a constant k will be a utility function for sure things.
+
+Case 2. Pzo + Ph. For p ? P, define H(p) = a, where a is a number in [0, l] such that UP* + (1 - a\Pxo - p. That is, we
+
+Foundations for Financial Economics define H ( p )  to be the weight a compound lottery on Pz0 and Ph assigns to Pzo to make it indifferent to p. We know from property 2 of the previous section that a is unique. So H ( p )  is well defined for all p E P. Note that by the definition of H and property 1 of the previous section, we have H(p) > H(q) if and only if hence, if and only if p > q. Therefore, H is a utility function that represents >. This is not good enough, however. We want to show that there exists a function u defined on Z such that We will achieve this by construction.
+
+First, repeated use of property 5 of the previous section implies that, for all p, q E P and a E [O, 11, Note that by the definition of H we know that H ( p )  and H(q) are greater than 0 and less than 1. Hence, a H  (p} + ( 1  - a )  H ( q )  is between 0 and 1 and the right-hand side of the second indifference relation of (1.10.1) is a well-defined compound lottery. Since H represents >, it follows that where the second equality follows again from the definition of H .  We thus conclude that H must be linear in that Next we define a function u on Z by We claim that this function is a von Neumann-Morgenstern utility function. Before we prove our claim, we remark that the above defi- nition of u is a natural one. The von Neumann-Morgenstern utility function u is a function on sure things. Thus we define u ( z )  to be the utility, according to H ,  for the sure consumption plan Pz. Here is the proof for our claim. Let p ? P. It is easily seen that ",J!
+
+zâ‚ Since H represents >, where the second equality follows from the repeated use of the lin- earity of H ,  and the third equality follows from the definition of u .
+
+Thus any binary relation on P satisfying the three axioms has an ex- pected utility representation. Finally, it can be shown that u is only determined up to a strictly positive linear transformation in that if C is also a von Neumann-Morgenstern utility function, then there exist two constants c > 0 and d such that G = cu + d. You will be asked to provide a proof of this in Exercise 1.4.
+
+Conversely, it is easily verified that if a binary relation >- has an - expected utility representation in that there exists u such that, for P.9 p, p >, if and only if u(z)p(z) 2 u(z)q(z) , sse-z zâ‚ then >Â¥ satisfies the three axioms of Section 1.8. We leave the proof of this assertion to the readers in Exercise 1.4.
+
+Foundations for Financial Economics 1.11. We proved the expected utility representation theorem for the case where Z is a finite set. When Z is an infinite set, for example when Z contains all the positive real numbers, the representation theorem is no longer true. We need a fourth axiom called the sure thing principle. In words, it basically says that if the consumption plan p is concentrated on a set B ?E Z such that every point in B is at least as good as q, then p must be at least as good as q. With this fourth axiom as well as some technical conditions, we have a representation theorem for general Z. We refer interested readers to Fishburn (1970) for details.
+
+1.12. When consumption occurs at more than one date, say at times t = 0,1,. . . , T, our previous discussion can be generalized in a straightforward manner. Let Z be a collection of T+1-tuples z = (20, . , . , zT) , where zt denotes the number of units of consumption at time t for sure. Suppose that Z is a finite set. A probability p on Z is a mapping with the following properties: 1. p(z) E [O, l] Vz E Z; and 2- EzEz P(%) = 1- An individual expresses his preferences over the probabilities defined on Z, or, equivalently, an individual expresses his preferences on lot- teries whose prizes are consumption at times t = 0,1,. . . , T. Denote the collection of probabilities on Z by P. Now mimic the analysis of Sections 1.8 to 1.10 to conclude that the binary relation >- is a prefer- ence relation satisfying the Substitution axiom and the Archimedean axiom if and only if there exists a von Neumann-Morgenstern utility function u on sure things such that for all p, q ? P, p >- q if and only if where p(z = 20,. . . ,zT) is the probability that consumption from time 0 to time T is (zo,. . . , zT).
+
+For tractability, most analysis of the equilibrium valuation of risky assets in later chapters uses von Neumann-Morgenstern utility functions that are time-additive. That is, there exist functions uÃ§(- such that T This is a rather strong assumption. It basically says that what an individual consumes at one time will not have any effect on his desire to consume at any other time. For example, it says that having a big lunch will not affect one's appetite for a seven course dinner. So, readers should be cautioned to note that results reported there are colored by this time-additivity assumption.
+
+1.13. One implication of the expected utility theory is that a von Neumann-Morgenstern utility function is necessarily bounded when probability distributions of consumption involve unbounded consumption levels. This is a consequence of the Archimedean ax- iom. To see this, suppose that u is unbounded. Without loss of generality, let u be unbounded from above, and let Z contain all positive levels of consumption. Then there exists a sequence of con- sumption levels {zn}% such that zn + oo and u(zn) > 2". NOW consider a consumption plan p such that p(zn) = &, n = 1,2,. . ..
+
+This consumption plan has unbounded consumption levels. The ex- pected utility of this consumption plan is Now let q, r E P be such that p > q > r. We know immediately that the expected utilities associated with q and r must be finite. It is then easily seen that the Archimedean axiom can not be satisfied.
+
+The boundedness of a utility function is somewhat discomfort- ing since many utility functions used in economic applications are unbounded. For example, the log utility function is unbounded from above and from below. Any power function, u(z) = z l ,  is bounded from below and unbounded from above if b < 1 and bounded from above and unbounded from below if b > 1. There are, however, ways to get around this kind of difficulty. For example, if we only consider consumption plans that concentrate on a finite number of consump- tion levels, then the above problem certainly will not arise. This will
+
+Preferences Representation and Risk Aversion be the case in many of our discussions in the subsequent chapters.
+
+There we usually take the state space fl to have finite elements. Then a consumption plan naturally takes a finite number of consumption levels. The number of consumption levels is at most equal to the number of states of nature! In such an event, the consumption levels are certainly bounded.
+
+Another possible resolution when Z contains all the positive consumption levels is to use a preference relation that exhibits risk aversion and consider consumption plans that have finite expecta- tions. We will see in later sections of this chapter that risk aversion in this case implies that u is concave. Being a concave function, u is differentiable at some point, say b > 0. It then follows that u(z) <u(b) + uf(b) ( z  - b) Vz, (1.13.1)
+
+where ul(b) denotes the derivative of u at b. Now let x be a consump- tion plan having a finite expectation. Then the expected utility of x is E[u(x)] <: u(b) + ul(b)(E[x] - b) < 00, where we have used (1.13.1). That is, if u is concave, expected util- ities ~ n s u m p t i o n plans having finite expectations will be finite even when u is unbounded! Thus in applications, we can comfort- ably use unbounded utility functions as long as they are concave and random consumption plans considered all have finite expectations.
+
+When Z is composed of units of consumption at more than one date, the above analysis applies easily to the time-additive utility func- tions of (1.12.1) when U( is concave and the random consumption at each time t has a finite expectation.
+
+1.14. Among the three axioms of Section 1.8, the one that is often violated in empirical experiments is the Substitution or In- dependence axiom. The best known example of this is the Allais Paradox. Consider the two pairs of lotteries in Figure 1.14.1. Lot- tery pi gives $1 million for sure. Lottery pg pays $5 million with
+
+## 0.1 probability, $1 million with 0.89 probability, and $0 with 0.01
+
+probability. Lotteries p3 and p4 of the second pair are interpreted similarly.
+
+Figure 1.14.1: The Allais Paradox Most individuals choose lottery pi over p2 when faced with the rst pair of lotteries. They prefer $1 million for sure to a high prob- bility of getting $1 million coupled with low probabilities of getting 5 million and $0. On the other hand, most individuals choose p3 er p4 when faced with the second pair of the lotteries. This behav- r, however, is a violation of the Substitution axiom. To see this, e first note that, pi - O.ll($lm) + 0.89($lm)
+
+@ and Transitivity implies that ,', O.ll($lm) + 0.89($lm) 1- 0.11 (Ã‘($Om + -($5m)) + 0.89($lm).
+
+y;', f '  ,-, (1.14.3)
+
+We claim that
+
+Foundations for Financial Economics Suppose otherwise. That is, - ($Om) + ($5m) i: pi.
+
+Then the Substitution axiom implies a contradiction to (1.14.3).
+
+By the Substitution axiom, (1.14.4) implies that This is equivalent to P4 > P3, a contradiction to the experimental results. Thus the behavior of choosing pi over p2 and choosing p3 over p4 is inconsistent with the Substitution axiom.
+
+1.15. The experimental violation of the Substitution axiom makes one cautious in using expected utility analysis for descriptive purposes, as we will do in later chapters in drawing conclusions about reflations among equilibrium prices of risky assets by assuming that individuals are expected utility maximizers. The ultimate test of the "reasonablenessn of the descriptive conclusions, however, is whether the descriptive conclusions, to the extent that they are empirically testable, conform with the observable data. This is a subject to be discussed in Chapter 10.
+
+The expected utility analysis can also be defended at another level by drawing on the work of Machina (1982). It is shown there that the basic concepts, tools, and results of expected utility analysis can be carried over to cases where the Substitution axiom is violated provided that the following condition is satisfied: An individual's preferences can be represented by a utility function H as discussed in Sections 1.4 and 1.5 and H is differentiable in a certain sense.
+
+Details of Machina's work, to which we refer interested readers, will not be discussed here.
+
+1.16. Throughout the rest of this chapter, we will assume that individuals are expected utility maximizers. For brevity, whenever we say a utility function, we mean a von Neumann-Morgenstern utility function unless otherwise specified.
+
+As we are dealing with economies under uncertainty, it is im- portant to characterize an individual's behavior when he is facing risk. The following section gives necessary and sufficient conditions r a utility function to exhibit behaviors that exhibit risk aversion ehavior. Moreover, in order to discuss the comparative statics of n individual's behavior when his attitude towards risk changes, we eed to have measures of risk aversion. These are the subjects to hich we now turn.
+
+1.17. An individual is said to be risk averse if he is unwilling to cept or is indifferent to any actuarially fair gamble. An individual s said to be strictly risk averse if he is unwilling to accept any actu- ially fair gamble. Consider the gamble that has a positive return, 1, with probability p and a negative return, h2, with probability - PI.
+
+The gamble is actuarially fair when its expected payoff is zero, phi + (1 - p)ht = 0.
+
+(1.17.1)
+
+t u(-) be the utility function of an individual. From the definition (strict) risk aversion, we have: ? where Wo denotes the individual's initial wealth.
+
+lation (1.17.2) may be rewritten as The above relations demonstrate that risk aversion implies a concave utility function and that strict risk aversion implies a strictly concave utility function. A reversal of the above steps demonstrates that a concave utility function implies risk aversion and that a strictly concave utility function implies strict risk aversion.
+
+Figure 1.17.1 illustrates the fact that the expected utility of gamble is strictly less than the utility of its expected payoff if and only if utility function is strictly concave.
+
+Thus the individual's choice problem is We assume that there exists a solution to (1.18.1). Since u is Mi 1 oncave, the first order necessary conditions are also sufficient. They E[U'(~')(;, - rf)] = 0 Vj.
+
+(1.18.2)
+
+Figure 1.17.1: A Concave Utility Function 1.18. Consider a portfolio choice problem of a risk averse in- dividual who strictly prefers more to less (has a strictly increasing utility function). If the individual invests a, dollars in the j-th risky asset and (Wo - x, a,) dollars in the risk free asset, his uncertain end of period wealth; W, would be or equivalently ?ote that, since u is strictly increasing, (1.18.2) implies that the probability that f, - rf > 0 must lie in (0,l).
+
+1.19. An individual who is risk averse and who strictly prefers hpre to less will undertake risky investments if and only if the rate .return on at least one risky asset exceeds the risk-free interest ftte. To see this, we note the following. For the individual to invest Mhing in or even short sell the risky assets as an optimal choice, bit is necessary that the first order conditions evaluated at no risky nvestments be nonnositive: E[uf(Wo(l+rf))(6 -rf)}<O V j .
+
+assumption the individual strictly prefers more to less, therefore, *) > 0, and the above condition is equivalent to <.
+
+a, < 0 V  j onlyifE[c-rf] < 0  V j.
+
+W = WO(I+ rf) + a,(;, - rf), Thus an individual with a strictly increasing and concave utility func- tion will avoid any positive risky investment only if none of the risky where Wn Ã init.ia1 w~alth assets has a strictly positive risk premium. When one or more risky assets have strictly positive risk premiums, the individual will take , , " - .
+
+.
+
+a .
+
+".- .. ------,
+
+## part in some risky investments. That is
+
+r, = the riskless interest rate, 6 = the random rate of return on the j-th risky asset, 3 j, such that a, > 0 if 3 j' such that E[fj, - rf] > 0.
+
+a, = the dollar investment in the j-th asset.
+
+Note that j' may not equal j ,  because when there is more than where RA(-) = -ul'(-)/ul(-) is the measure of absolute risk aversion one risky asset, E[G - rf] > 0 does not necessarily imply aj > defined by Arrow (1970) and Pratt (1964). Note that for small risks,
+
+## 0. However, when there is only one risky asset, condition (1.19.1)
+
+absolute risk aversion is a measure of the intensity of an individual's indicates that a positive risk premium implies positive investment in to risk. From (1.20.1), the higher an individual's absolute risk aversion, the higher the minimum risk premium required to in- duce full investment in the risky asset. Intuitively, the curvature of 1.20. Henceforth until specified otherwise, consider a strictly an individual's utility function would be related to the minimum risk risk averse individual who prefers more to less in an economy where remiurn required to induce full investment in the risky asset. The there is only one risky asset and one riskless asset and where the bsolute risk aversion is a measure of the curvature of an individ- risk premium of the risky asset is strictly positive. (Here we note that this individual will strictly prefer more to less.) Note that Sec- actions are only unique up to a strictly positive affine transforma- tion 1.19 demonstrates that a strictly positive risk premium would induce a strictly positive risky investment. This section examines scalar). Therefore, the second derivative alone cannot be used to the minimum risk premium that is required to induce the individual characterize the intensity of risk averse behavior. The Arrow-Pratt to invest all of his wealth in the risky asset. Let ? and a denote the measure of absolute risk aversion is invariant to a strictly positive rate of return of the single risky asset and the amount invested in it, affine transformation of the individual's utility function.
+
+respectively. For an individual to invest all his wealth in the risky asset it must be that 1.21. The characteristics of an individual's absolute risk aver- E[u'(Wo (1 + ?)) (? - r /)] > 0.
+
+ood when choosing between a single risky asset and a riskless asset.
+
+Taking a first order Taylor series expansion of uf[W0(l + q)]
+
+An individual's utility function displays decreasing absolute risk around uf[Wo(l + rj)], multiplying both sides by the risk premium, version when RA(-) is a strictly decreasing function.
+
+Similarly, and taking expectations gives R~(z)/dz = 0 Vz implies increasing absolute risk aversion, and a onstant dRA(z)/dz Vz implies constant absolute risk aversion.
+
+E[ul(Wo(l + ?))(? - rf)] = uf(wO(l + rf))E[? - rf]
+
+Obviously, a single utility function may display more than one of + u"(wo(1 + rj))E[(? - r j ) 2 ] ~ ~ the above characteristics over different parts of its domain. Several + o(E[(? - r/)21), interesting behavioral properties of utility functions that display the same sign of dR~(z)/dz over the entire domain of RA('} were derived where ~(E[(?-r/)~l)
+
+denotes terms of smaller magnitude than E[(?- by Arrow (1970). Arrow showed that decreasing absolute risk aver- sion over the entire domain of RA(*) implies that the risky asset is a Risk is said to be small when E[(? - rf)2] is small and terms normal good; i.e., the (dollar) demand for the risky asset increases as involving E[(? - rf)'] and higher orders can be ignored. Ignoring the individual's wealth increases. Increasing absolute risk aversion the remainder term, the minimum risk premium required to induce implies that the risky asset is an inferior good, and constant absolute full investment in the risky asset may be determined by setting the risk aversion implies that the individual's demand for the risky asset right-hand side of the above relation to 0 and getting is invariant with respect to his initial wealth. That is E[F - rf\ 2 RA (Wo(l+ rf )) WOE[(? - r/l21,
+
+The proof for only the decreasing absolute risk aversion case is presented as the proofs for the other two cases follow the same structure.
+
+At an optimum, we have: The change in the individual's optimal risky asset investment with respect to a change in initial wealth can be determined by:
+
+## 1. Differentiating the first order condition for an optimum (that is
+
+determined for a given initial wealth level) with respect to his or her initial wealth;
+
+## 2. Setting the first derivative equal to zero to move along the indi-
+
+vidual's optimal portfolio path; and
+
+## 3. Solving for the implicit relationship between the change in risky
+
+asset investment and the change in initial wealth that would move the individual's risky asset investment along an optimal path as his initial wealth changes.
+
+This process is referred to as implicit differentiation of a with respect to Wo and gives where as usual I@ = Wo(l + rf) + a(F - rf) denotes the individual's end of period (random) wealth. The denominator is positive because strict risk aversion implies ul1(@) < 0; therefore, sign (da/dWo) = sign { E[u'I(@)(F - rf)]}.
+
+Under decreasing absolute risk aversion, in the event that ? > rf, we have w > Wo(l +rf) since the amount invested in the risky asset is strictly positive. Thus RA(*) 5 R~(wo(1 + rf)).
+
+(1.21.2a)
+
+Similarly, in the event that F < rf, we have V@ < Wo(l + rf) and thus RA(W) > R ~ ( w o ( l +  rf)).
+
+(1.21.26)
+
+Multiplying both sides of (1.21.2a) and (1.21.2b) by - u ' ( m  - ri\ gives "(*)(? - rf) > -RA(WO(~ i- rf))u1(*)(; - rf)
+
+(1.21.3~)
+
+'Sf in the event that ? > 9, and / If(@)(? - rf) > -RA(WO(I + rf))ul(@)(f - rf)
+
+(1.21.36)
+
+in the event that F < rf. Relations (1.21.3a) and (1.21.3b) imply where we recall from Section 1.18 that the probability that F > rf must lie in (0,l) for an optimal solution to exist. Substituting the first order condition E[UI(W)(F - ry)] = 0 into (1.21.4) gives the desired result.
+
+Note that the property of non-increasing absolute risk aversion implies that the third derivative of the individual's utility function is strictly positive: where we have used u"' to denote the third derivative of u. This follows because ul(z) > 0 and [ ~ " ( z ) ] ~ > 0. Thus dR~(z)/dz < 0 implies ul"(z) > 0.
+
+1.22. The property of decreasing absolute risk aversion is re- lated to the dollar demand for the risky asset. Thus, an individual having a utility function displaying decreasing absolute risk aversion may actually increase, hold constant, or decrease the proportion of his wealth invested in the risky asset as his wealth increases. The Arrow-Pratt measure of relative risk aversion is RR(z) = RA(z)z.
+
+Under increasing relative risk aversion, that is, when dRR(z)/dz > 0 -
+
+Vz, the wealth elasticity of the individual's demand for the risky asset is strictly less than unity. That is, the proportion of the individual's initial wealth invested in the risky asset will decline as his wealth increases. Under constant relative risk aversion, dRR(z)/dz = 0 Vz, the wealth elasticity of demand for the risky asset would be unity, and under decreasing relative risk aversion, dRn(z)/dz < 0 Vz, the wealth elasticity of the demand for the risky asset would be strictly greater than unity.
+
+The wealth elasticity of the demand for the risky asset, q, may be expressed as Substituting the right-hand side of (1.21.1) for (da/dWo) into the right-hand side of relation (1.22.1) and rearranging terms gives Note that the numerator of the second term on the right-hand side of the above relation may be expressed as Thus, the elasticity coefficient may be expressed as The denominator of the second term on the right-hand side of (1.22.2)
+
+is positive because uM(z) < 0. Whether the demand elasticity for the risky asset is elastic, q > 1, unitary elastic, q = 1, or inelastic, q < 1, depends on the sign of the numerator. That is sign (q - 1) = sign {~[u"(@)W(r - rf)]}.
+
+Under increasing relative risk aversion, 2 R R ( W ~ ( ~ + rf)) in the event ? > rf, RÃ§(wo(l+r { < RRIWo(l + r I]
+
+in the event ? < rf.
+
+7.t I Multiplying both sides of the above relations by -u'(w)(F - r,) re- ,+ duces the relations to t ( u"{W) W(r- rf) < - R ~ ( w o ( l +  rf))u'(W)(? - rf)
+
+(1.22.3~~)
+
+in the event that ? > rf, and in the event that F < rf. Relations (1.22.3a), (1.22.3b)) and the fact that at a portfolio optimum ~[u'{W)(r - rf)] = 0 give E[~"(W)W(F - rf)] < 0.
+
+(1.22.4)
+
+Thus, under increasing relative risk aversion the wealth elasticity f demand for the risky asset is less than unity. If an individual were to have a utility function displaying increasing relative risk aversion, he fraction of his initial wealth that he invests in the risky asset Id decline as his initial wealth increased. Using a similar deriva- , the properties of decreasing and constant relative risk aversion be shown to imply wealth elastic and wealth unitary demands respectively, as you are asked to do in Exercise 1.6.
+
+1.23. The following utility functions are commonly used in nance to illustrate the properties of risk aversion that were discussed First, consider a concave quadratic utility function (which is ufficient for the demand for risky assets to be only a function of the can and variance of portfolio returns): ul(z) = 1 - bz; u"(z) = -b.
+
+For the marginal utility to be non-negative, z has to be less than l i b .  The quadratic utility function is graphed in Figure 1.23.1. The & quadratic utility function displays increasing absolute risk aversion:
+
+Â Figure 1.23.1: A Quadratic Utility Function Thus, a quadratic utility function implies that the risky asset is an Consider next the negative exponential utility function: U ( Z ) = - ~ - ~ ' ,  6 2 0 ; ul(z) =be-^ > 0; urr(z) = - b2e-*' < 0.
+
+and is bounded from above, which implies a finite utility level for infinite wealth: lim u(z) = 0.
+
+z+oo This utility function displays constant absolute risk aversion: Thus, the negative exponential utility function implies that the de- mand for risky assets is unaffected by changes in initial wealth, with riskless borrowing and lending absorbing all changes in initial wealth.
+
+Preferences Representation and Risk Aversion I t r Figure 1.23.2: A Negative Exponential Utility Func- t ion 4 f I' Next, consider a narrow power utility function: I1
+
+ur(z) = 2-*, u (2) = --2-B- .
+
+B Note the following: and .. .
+
+Thus, for an individual having a narrow power utility function the proportion of wealth invested in the risky asset is invariant with re- spect to changes in his initial wealth level.
+
+Finally, consider an extended power utilitu function:
+
+Foundations for Financial Economics Direct computation yields dRR(Z)
+
+> 0 if and only if A > 0; -- - = 0 if and only if A = 0; dz < 0 if and only if A < 0.
+
+Extended power utility functions exhibit decreasing or increas- ing relative risk aversion depending upon whether A is negative or positive. Note that when A = 0 an extended power reduces to a narrow power utility function.
+
+Finally, we remark that the exponent of a (extended) power function is equal to the coefficient of z in the above examples. This is just for convenience in writing the derivatives. They do not have to be equal.
+
+1.24. The analysis in Section 1.20 is essentially a local analysis.
+
+When risk is small, the higher the individual's absolute risk aversion at Wo(l + rf}, the higher the risk premium which is required for him to invest all his wealth in the risky asset. Thus, in a sense, RA(-) is a local measure of risk aversion. Pratt (1964) showed that RA(-) is also a measure of risk aversion in a global sense. That is, if there are two individuals Ã and k with E'Z) > ~ 2 % )
+
+V z, then individual Ã will pay a larger insurance premium than k to insure against a (not necessarily small) random loss. Individual Ã is then said to be more risk averse than individual k. In the framework of Section 1.20, it will be demonstrated below that if individual Ã is more risk averse than individual k and they are endowed with the same initial wealth, then the risk premium required for individual Ã to invest all his wealth in the risky asset is larger than that required by individual k. The above statement is valid in a global sense where risk does not have to be small.
+
+Suppose that where %(-) denotes individual k's utility function. Relation (1.24.1)
+
+is a necessary and sufficient condition for E[rÃ‘Tf to be the minimum risk premium that induces individual k to put all his wealth into the risky asset. If we can show that where ui(-) is individual Ãˆ' utility function, then we are done. Re- lation (1.24.2) implies that individual Ãˆ' optimal investment in the risky asset is less than or equal to Wo. This in turn implies that the required risk premium for Ãˆ to invest all his wealth into the risky asset is greater than that required by k.
+
+1.25. We will first prove a useful relation between ui and ui;.
+
+We claim that there exists a strictly increasing and concave function G such that t ~ i  = G(uk)
+
+(1.25.1)
+
+and only if %(z) > R*), Vz. We will prove the necessity part rst. Since ui; is strictly increasing, we define G(y) = U W ( ~ ) ) , here u p  denotes the inverse of uk. Substituting y = uk(z) into the efinition, we immediately have (1.25.1). We still have to show that (.) is strictly increasing and concave. Differentiating (1.25.1) once ves U: (2) = G ' ( u ~ (z)) u#).
+
+(1.25.2)
+
+By the fact that u[(z) > 0 and uzz) > 0, G must be strictly increas- ing in the domain of its definition.
+
+Now differentiating (1.25.2) with respect to z gives uy (z) = G" (u i; (z)) (u; (2)) + G'(u~ (2))
+
+U: (2).
+
+Dividing (1.25.2) into (1.25.3) gives * ', By the hypothesis that a)
+
+> R\{z) Vz, (1.25.4) implies that G is concave. This completes the proof for the necessity part.
+
+Foundations for Financial Economics Next suppose that there exists a strictly increasing and con- cave function G such that (1.25.1) holds. By differentiation we have (1.25.2) and (1.25.3). Dividing (1.25.2) into (1.25.3) gives (1.25.4).
+
+Since G is strictly increasing and concave, we immediately conclude that R:(Z)
+
+> R*), Vz, which concludes the proof for the sufficiency part.
+
+1.26. Now we are ready to show that if ui = G(uk), the mini- mum risk premium required for i to invest all his wealth in the risky asset is higher than that for k. We will first fix some notation. Let 2 and ? be two random variables. We use E[*? > 01 to denote the conditional expectation of 2 given that ? > 0; similarly for E[X\Y < 01. Then we have by definition, where P(? > 0) denotes the probability that ? > 0 and similarly for P(? < 0). Using the above relation we can write When F - rf > 0, we have Wo(1 + ?) > Wo(l+ rf). By the mono- tonicity of ui and the concavity of G, we get When + - rf < 0, along the same line of argument, we get ~[G'(uk(Wo(l+ F))) u'k(Wo(l+ ?))(? - rf)lF - rf < 01 < G ' { U ~ ( W ~ ( ~ + rf))) E[u'k(Wo(l + r))(r - rf)lr - rf < 01 Using the fact that ui = G (uk) and summing the above two relations, we get Preferences Representation and Risk Aversion 3 1 where the equality follows from (1.24.1). Therefore, the more risk averse an individual is, the larger the risk premium required for him to invest all his wealth in the risky asset.
+
+1.27. The comparative statics we demonstrated in the previous few sections depend upon the fact that there are only two assets, one risky and one riskless. When there is more than one risky asset, in general we cannot say, for example, that the wealth elasticities of the demands for risky assets are greater than unity when an individual exhibits decreasing relative risk aversion. When an investor's initial wealth increases, he may want to change his portfolio composition of the risky assets such that the investment in one risky asset increases while the investment in another decreases.
+
+Obviously, if an individual always chooses to hold the same port- folio of risky assets and only change the mix between that portfolio and the riskless asset for differing levels of initial wealth, then the comparative statics for the two asset case will be valid in a multi- asset world. In such event, the individual's optimal portfolios for differing levels of initial wealth are always linear combinations of the riskless asset and a risky asset mutual fund. This phenomenon is termed two fund monetary separation.
+
+Cass and Stiglitz (1970) have demonstrated that a necessary and sufficient condition on utility functions for two fund monetary separation is that marginal utility satisfy where B > O,C < 0, and z > max[O, -(A/B)], or A > 0, B < O,C > 0 and 0 < z < -(A/B) for (1.27.1) and where A > 0, B < 0 and z > 0 for (1.27.2). The conditions on A, B and C are to insure that the utility functions are strictly concave and increasing.
+
+The proof for necessity of (1.27.1) or (1.27.2) is tedious and we refer interested readers to Cass and Stiglitz's treatment. In what follows, we shall demonstrate the sufficiency of (1.27.1) or (1.27.2).
+
+Foundations for Financial Economics 1.28. Let a denote the proportion of initial wealth, W o ,  invested in the riskless asset, and let b, denote the proportion of the remainder W o ( l  - a) invested in the j-th risky asset. A risk averse individual solves the following programming problem: max L = E[u(l@)] + A(l - x b,), {a,b,,\} where SL denotes the Lagrangian, and The necessary and sufficient conditions for an interior optimum are: and Substituting (1.28.1) into (1.28.2) and using (1.28.3) gives, V j , Now suppose that (1.27.1) is true. Then (1.28.4) implies, Vj, Consider the same individual with a different initial wealth W:. Let a', bi be the individual's optimal portfolio decisions with respect to WA. Note that, by the strict concavity of the utility function, a' and b1 are uniquely determined.
+
+We must have, Vj, We claim that a, b, and a', 6; are related by W ~ l - ~ . = A + B w i { l + r f ) ~ o ( l - a ) b j V j .
+
+(1.28.7)
+
+A + B W o ( l +  r f )
+
+To see this, we substitute (1.28.7) into either (1.28.5) or (1.28.6) and ; check that the equality is satisfied.
+
+Summing (1.28.7) over all j and using (1.28.3) we get w,#-a')= A + B W  1 ^wOtl - a ) .
+
+A + B W o ( l +  r f )
+
+Now substituting (1.28.8) into (1.28.7)) we have I bj = bj V j, $ which was to be shown.
+
+Along the same line of argument, it is easily checked that (1.27.2)
+
+also implies two fund monetary separation.
+
+f 1.29. The solutions of (1.27.1) include extended power utility I functions: and log utility functions: u ( z )  = ln(A + B z ) .
+
+The solutions of (1.27.2) are exponential utility functions: Narrow power utility functions ( A  = 0 )  and log utility func- tions exhibit constant relative risk aversion. Thus, the proportions invested in the riskless asset a and in the risky asset mutual fund ( 1  - a} are invariant to different levels of initial wealth.
+
+The exponential utility functions exhibit increasing relative risk aversion. Thus as initial wealth increases, the proportion invested in the risky asset mutual fund will decrease.
+
+Other comparative statics can be derived. Their analysis is a direct corollary of the comparative statics in the two asset case, there- fore we leave them for interested readers.
+
+Exercises 1.1. Suppose that X has a countable number of elements. Show that a binary relation on X is a preference relation if and only if it can be represented as a real-valued function.
+
+1.2. Suppose that >: is a binary relation. A subset Y of X is said to be a >--order dense subset of X if for all a;, x' E X such that x > x', there exists y C? Y such that a; >: y >: x'. In words, given any two consumption plans that are in the binary relation >, and can be strictly compared, there always exists an element of Y that lies between the two. The set Y is a countable >-order dense subset of X if it is a border dense subset of X and has a countable number of elements. A representation theorem for arbitrary X is as follows: The binary relation > can be represented by a utility function H if and only if > is a preference relation and there is a countable >--order dense subset Y of X.
+
+Now let X = [o, 11 x [O, 11 and define (xl, 3-2) > (yl, y2) if xi > yi or if XI = yl and x2 > y2.
+
+1.2.1. Verify that > is a preference relation. (This is the so-called Lexicographic preference relation .)
+
+1.2.2. Show that if (xi, x2) > (yl, y2) and (yl, y2) >: (xl, x2) then xi = yl and a;z = y2.
+
+1.2.3. Demonstrate that > cannot be represented by a real-valued function. (Hint: Show that there does not exist a counter ?-order dense set and use the representation theorem above for arbitrary X.)
+
+1.3. Prove the properties of Section 1.9.
+
+1.4. Show that a von Neumann-Morgenstern utility function is de- termined up to a strictly positive linear transformation. Show also that if a binary relation > has an expected utility represen- tation in that there exists u such that, for p, q ? P, p q if and only if u(z)p(z) 2 u(z) q(z), zez zâ‚ then > satisfies the three axioms of Section 1.8.
+
+1.5. Prove that dRA(z}/dz > 0 implies that da/dWO < 0 VWo and dRA{z)/dz = 0 implies that da/dWo = 0 VWo in the context of
+
+## Section 1.21
+
+1.6. Show that dRR(z)/dz < 0 Vz ? 5R implies r] > 1 and that dRn{z}/dz = 0 Vz E 5K implies q = 1, where q is the wealth elasticity of demand for the risky asset defined in (1.22.1).
+
+1.7. Define absolute risk tolerance to be the inverse of the Arrow- Pratt measure of absolute risk aversion. Show that solutions to (1.27.1) and (1.27.2) all exhibit linear absolute risk tolerance.
+
+1.8. Fix an individual with an increasing and strictly concave util- ity function u and consider the gamble of (1.17.1). Define the insurance premium z to be the maximum amount of money the individual is willing to pay to avoid the gamble. That is, z is the solution to the following u(Wo - z) = pu(Wo + hi) + (1 - p)u(Wo + h-i}.
+
+Obviously, z depends upon the initial wealth, Wo, and we will denote this dependence by z(Wo). Show that, when the risk is small, 1.9. Show that utility functions of (1.27.2) imply two fund monetary I S separation.
+
+Remarks. Discussions in Sections 1.3 to 1.15 are adapted from Kreps (1981). For discussions of a continuous preference relation and its representation by a continuous real-valued function, see Debreu (1964). For representation of a preference relation by a continuous von Neumann-Morgenstern utility function, see Granmont (1972).
+
+The example of the unbounded expected utility of Section 1.13 is a generalization of the so-called St. Petersburg Paradox. Arrow (1970) is an excellent source for a discussion of this and other related issues. Nielsen (1985, 1986) develops a set of axioms under which a preference relation can be represented by a possibly unbounded expected utility function.
+
+Discussions of Sections 1.17 through 1.22 are freely borrowed from Arrow (1970). Some of the results of Sections 1.24 and 1.25 are contained in Pratt (1964). The sufficiency proof of Section 1.28 is adapted from Rubinstein (1974).
+
+We will discuss a stronger measure of risk aversion in Chapter 2 that gives some intuitively appealing comparative statics in a port- folio problem with two risky assets. Readers interested in different measures of risk aversion should see Pratt and Zeckhauser (1987).
+
+Machina (1982) discusses measures of risk aversion when an individ- ual's preferences can be represented by expected utility only locally.
+
+For some negative results on the comparative statics for portfolio choice problems when there are many assets see Hart (1975).
+
+References Allais, M. 1953. Le comportement de l'homme rationnel devant le risque, critique des postulates et axioms de l'ecole Americaine.
+
+Econometrica 21:503-546.
+
+Arrow, K. 1970. Essays in the Theory of Risk-Bearing. Amsterdam: North-Holland.
+
+Bernoulli, D. 1954. Exposition of a new theory on the measurement of risk (translation from the 1730 version). Econometrica 22:23- 36.
+
+Preferences Represen tation a& Risk Aversion Cass, D., and J. Stiglitz. 1970, The structure of investor prefer- ences and asset returns, and separability in portfolio allocation: A contribution to the pure theory of mutual funds. Journal of Economic Theory 2:122-160.
+
+Debreu, G. 1954. Representation of a preference ordering by a nu- merical function. In Decision Processes. Edited by R. Thrall, C.
+
+Coombs, and R. Davis. John Wiley & Sons, New York.
+
+Debreu, G. 1964. Continuity properties of paretian utility. Interna- tional Economic Review 5 :285-293.
+
+Fishburn, P. 1970. Utility Theory for Decision Making. John Wiley & Sons. New York.
+
+Granmont, J. 1972. Continuity properties of a von Neumann Mor- genstern utility. Journal of Economic Theory 4:45-57.
+
+Hart, 0. 1975. Some negative results on the existence of comparative statics results in portfolio theory. Review of Economic Studies 42:615-621.
+
+Kreps, D. 1981. Single Person Decision Theory. Lecture Notes.
+
+Graduate School of Business, Stanford University. Stanford, Cal- ifornia.
+
+Machina, M. 1982. Expected utility analysis without the indepen- dence axiom. Econometrica 50:277-323.
+
+Nielsen, L. 1985. Unbounded expected utility and continuity. Math- ematical Social Sciences 8:201-2 16.
+
+Nielsen, L. 1986. Corrigendum. Mimeo. Economics Department, University of Texas at Austin.
+
+Pratt, J. 1964. Risk aversion in the small and in the large. Econo- metrica 32:122-136.
+
+Pratt, J., and R. Zeckhauser. 1987. Proper risk aversion. Econo- metrica 55:143-154.
+
+Rubinstein, M. 1974. An aggregation theorem for securities markets.
+
+Journal of Financial Economics 1:225-244.
+
+Savage, L. 1972. Foundations of Statistics. Dover. New York.
+
+Von Neumann, J., and 0. Morgenstern. 1953. Theory of Games and Economic Behavior, Princeton University Press. Princeton, New Jersey.
+
+## CHAPTER
+
+## STOCHASTIC DOMINANCE
+
+2.1.
+
+In Chapter 1, we discussed the relationship between the k premium and Arrow-Pratt measures of risk aversion in a context here there are only two securities, one riskless and one risky. The t part of this chapter addresses the following question: Suppose t there are two risky securities. Under what conditions can we ambiguously say that an individual will prefer one risky asset to other when the only information we have about this individual is her that he is nonsatiable or that he is risk averse? To answer this estion, we will introduce two concepts of stochastic dominance.
+
+ne concept turns out to be useful in comparing the riskiness of isky assets. This concept, however, does not allow us to compare any two risky assets, and in the terminology of Section 1.3, it does not define a complete order among risky assets. We will analyze the comparative statics of an individual's problem with a portfolio of one risky and one riskless asset when the riskiness of the risky asset increases. These comparative statics depends upon Arrow- Pratt measures of risk aversion in a complicated way. We will also demonstrate through an example that the Arrow-Pratt measures of risk aversion are too weak to study the comparative statics of
+
+Foundations for Financid Econ O ~ ~ C S an individual's portfolio problem when faced with two risky assets.
+
+A stronger measure of risk aversion that gives intuitively appealing comparative statics is then discussed.
+
+2.2. We will say that risky asset A dominates risky asset B in the sense of First Degree Stochastic Dominance, denoted by A P&J B, if all individuals having utility functions in wealth that are increasing and continuous either prefer A to B or are indifferent between A and B. Intuition suggests that if the probability of asset A's rate of return exceeding any given level is not smaller than that of asset B's rate of return exceeding the same level, then any nonsatiable individual will prefer A to B. It turns out that this condition is not only sufficient but also necessary. Here we note that an individual is nonsatiable if and only if his utility function is strictly increasing.
+
+For ease of exposition, we shall assume that the rates of return on A and B lie in the interval [O, 11 throughout this chapter. However, the results to be shown are valid in more general contexts when some regularity conditions are satisfied.
+
+Let FA(-) and Fa(-) denote cumulative distribution functions of the rates of return on A and B respectively. Suppose that: Since FA(.) and F a ( - )  are cumulative distribution functions, they are continuous from the right and FA(l) = Fa (1) = 1. However, FA(0)
+
+may not be equal to FB(0) since FA(-) and Fa(.) can have different masses at zero.
+
+Relation (2.2.1) is graphed in Figure 2.2.1. For any z, the prob- ability that the rate of return on asset A is less than z is less than that for asset B. Putting it differently, the probability that the rate of return on asset A is greater than z is greater than that for asset B. Note that (2.2.1) does not mean that asset A has a realized rate of return that is always greater than that of asset B. The follow- ing example illustrates this point. Suppose that rates of return on assets A and B can only take on three ~ossible values: 0, 1/2, and 1 with cumulative probabilities described in Table 2.2.1. It is easily seen that condition (2.2.1) is satisfied. Ex post, when asset A has a Stochastic Dominance A - @ / Figure realized rate of return 0, asset B can have a realized rate of return
+
+## 1. If the rates of return on A and B were independent, then the
+
+probability that the rate of return on A is 0 and the rate of return on B is 1 would be 0.05.
+
+2.3. Let u ( - )  be any continuous and increasing utility function representing a nonsatiable individual's preferences and assume with- out loss of generality that this individual has unit initial wealth. If the individual invests in asset A, his expected utility is E [ u ( l  + G)]
+
+and similarly for asset B, where we use FA and TB to denote the rates of return on asset A and asset B, respectively. We want to show that I z First Degree Stochastic Dominance Table 2.2.1: An Example of First Degree Stochastic Dominance
+
+(2.2.1) implies that E[u(l + FA)] > E[u(l + FB)], or equivalently, where and similarly for the integral on the right side.
+
+Integration by parts gives: Since  FA(^) = FB (1) = 1, we get Now by the hypothesis that FA(z) - Fa(%) < 0 and the fact that u(-)
+
+is increasing, the sign of (2.3.1) is nonnegative. Therefore (2.2.1) is sufficient for A FSD B.
+
+Next we establish that (2.2.1) is also a necessary condition for
+
+## A &D
+
+B. Suppose that A F?D B, and FA(%) > FB(x) for some x E [O, 1). Note that x # 1, as FA(l) = FB(l) = 1. Since cumulative distribution functions, are increasing and right continuous, there must exist an interval [x, c] E [O, 11 such that: Figure 2.3.1: Relation (2.3.2)
+
+we put s(y) = F^y) - FB(y), then (2.3.2) can be depicted in ncreases only on [l + x, 1 + c], then (2.3.1) would have a negative sign, which contradicts the hypothesis that A F& B. This can be accomplished by defining 4 1  + 2) = lz ~[I+z,I+c](~+ t) dt v 2 E [o, 11, (2.3.3)
+
+where l[z,cl(t) equals 1 if t E [x, c] and 0 elsewhere. It is quickly checked that u(-) is increasing and continuous. Moreover, 1 if 1 + z â [l + x, 1 + c], (2.3.4)
+
+"71 + 4 = l[l+z,l+c](l+ 4 = {,, otherwke , that is, the marginal utility is equal to 1 on [l + x, 1 + c] and 0 elsewhere, as graphed in Figure 2.3.2.
+
+--
+
+Foundations for Financial Economics Figure 2.3.2: Relation (2.3.4)
+
+Now using (2.3.1) and (2.3.2), we get which contradicts A P S D  B. Thus we must have A necessary and sufficient condition for A FSD B is thus estab- lished to be FA(z)<FB(z)
+
+VzG[o,l].
+
+2.4.
+
+Another characterization of FSD is available. It can easily be seen that if asset A 's rate of return is equal in distribution to asset B's rate of return plus a positive random variable, say a, then all individuals with increasing utility functions will prefer A to B, E[u(l+ ?A)] = E[u(l + TB + a)]
+
+2 E[u(l+ TB)], for all increasing u(-). The inequality of the last expression follows from the positivity of & and the monotonicity of u(-). One can also hat is, if A F ~ D
+
+B, then there exists a positive random variable 6 ch that &SFB + 5. Since this characterization is quite intuitive; d its proof is technical, we omit its proof.
+
+Combining the results of this section and Section 2.3, we thus ve the equivalence of the following three statements:
+
+## 2. FA(z) 5 FB(z) VZ E [O, 11;
+
+From 3 above, if A P% B, then asset A must have at least as an expected rate of return as asset B. The converse is not true, 2.5.
+
+Suppose now that the only information we have about individual is that he is risk averse. Under what conditions can We will say that risky asset A dominates risky asset B in the ense of Second Degree Stochastic Dominance, denoted by A S$D B, if all risk averse individuals having utility functions whose first deriva- tives are continuous except on a countable subset of [I, 21 prefer A to B. We claim that A S ~ D
+
+B if and only if E[fA\ = E [FBI (2.5.1)
+
+S(Y) = f ' ( ~ A ( z )  - F A Z ) ) ~ ~  0 VY e [o, 11.
+
+Foundations for Financial Economics Y z Figure 2.5.1: An Example of S ( y )
+
+and Fa(-) are as drawn in Figure 2.5.1, then S ( y )  is th ie sum of the two shaded areas, and the signs of the areas are as indicated.
+
+2.6. We will prove the sufficiency part first. From (2.3.1), we have '10.11 u ( l +  2 )  ~ [ F A ( z )  - FB ( z ) ]  = - / [ F f i )  - FB (z)] du(1 + 2 ) .
+
+Integration by parts gives -r [FA(z) - FB ( z ) ]  du(1 + z )  = - ul(l + z) dS(z)
+
+Ll (2.6.1)
+
+= - u l ( l  + Z ) S ( Z ) ~ ^ S(z)dul(l + z ) .
+
+Since * here the last equality follows from (2.5.l), (2.6.1) can be written as u ( l + z )  d [ ~ ~ ( z ) - FB(z)] =/ S ( z ) d u l ( l + z )  2 0 ,  (2.6.3)
+
+ere the inequality follows from (2.5.2) and the fact that u1 is de- asing. We have proved the sufficiency part.
+
+2.7.
+
+Now we prove the necessity part. Suppose first that $D B. Since linear utility functions are admissible, we can take mear strictly increasing utility function and a linear strictly de- easing utility function. Using the definition of A s h  B, 'l0.11 z dFA(z) = , d F ~ ( z ) , , equivalently, E[f^] = E[TB\, which is (2.5.1). Next repeating e integration by parts done in Section 2.6, we get the equality of We claim that S('}, which is continuous, is negative. Suppose this is not the case. It then follows from the continuity of S ( - )  that there must exist an interval [a, 61 with a # b such that S ( z ) > O V z < ~ [ a , b ] .
+
+If we can find a concave utility function whose first derivative is continuous except possibly on a countable set and strictly decreases
+
+b - a a b z Figure 2.7.1: Relation (2.7.3)
+
+only on [I + a, 1 + b], then the inequality of (2.6.3) will be violated and thus the hypothesis that A s S D  B will be contradicted. We can accomplish this by defining which is continuously differentiable and concave with ~ ' ( 1  + z) = l[i+a,i+b] (1 + t)dt- (2.7.3)
+
+This derivative is graphed in Figure 2.7.1.
+
+Thus, This contradicts the hypothesis that A s^o B, Therefore, A s& B implies (2.5.2). We have therefore demonstrated that (2.5.1) and (2.5.2) are necessary and sufficient for A s$ B.
+
+> tion of s*.
+
+They show that A s S D  B if and only if: F~ =FA+?, with E[?IFA] =0.
+
+That is, the rate of return on asset B is equal, in distribution, to the rate of return on asset A plus a noise term. The sufficiency part is easy. Let u(-) be a concave function. Then: E[u(rB}\ = E [ u ( f ~  + e)]
+
+= E [E[u(?A + e)lF~]]
+
+< E[~(;A)], i where the first equality follows from the fact that FB and + E have the same distribution, the second equality follows from the law of iterative expectations, and the inequality follows from the conditional Jensen's inequality. The necessity part is much more difficult, and we refer interested readers to Rothschild and Stiglitz (1970) for details.
+
+We have, therefore, three equivalent statements:
+
+## 1. A s^s B;
+
+'
+
+## 2. E[rA\=E[TB\ andS(z)<O V z ~ [ O , l ] ; a n
+
+3. ?B%A + ?, with E[qFA] = 0.
+
+Denoting by Var(-) the variance of a random variable and by Cov(-,-) the covariance of two random variables, one direct con- sequence of statement (3) above is that Var(FB) 2 Var(FA), since E[ejFA] = 0 implies Cov(FA, Z) = 0. Thus if AS$D B, it must then be the case that E[r^\ = E[rs} and Var(FA) < Var(FB). However, the converse does not hold.
+
+Henceforth, whenever one of the above three conditions is satis- fied, we say that asset B is more risky than asset A.
+
+2.9. We shall say that risky asset A dominates B in the sense of > M second degree stochastic monotonic dominance denoted by SSD if all I risk averse and nonsatiable individuals prefer A to B. Given earlier discussions on first degree and second degree stochastic dominance, it can be verified that the following three statements are equivalent:
+
+r M Foundations for Financial 'Economics
+
+## 1. A:;
+
+B; / Stochastic Dornin ance 5 1 Given (2.10.3) and the hypothesis that A sfo B, a sufficient
+
+## 2. E[TA] > E[rB\ and S(z) 5 0 V z E [0,1];
+
+condition for (2.10.4) is that V ( z )  = ul((l + r f )  + a(z - r f ) ) ( z  - r f )
+
+is a concave function of z. Differentiating V ( t )  twice and denoting
+
+## 3. FB=TA + ?, with E[?\FA] < 0
+
+1 + rf + a(z - r f )  by za, we get livalence of the 1.
+
+~ " ( t )
+
+= a[ul"{za) a(z - r f )  + 2u1'(za)]
+
+We will not provide detailed proofs for the eqi above relations. They are minor extensions of the earner results.
+
+2.10, Rothschild and Stiglitz (1971) present an application of the concepts developed above. Consider a risk averse individual with unit initial wealth to be invested in a risky asset A with a rate of return 6 and a riskless asset with a rate of return r f .  The necessary and sufficient condition for a to be an optimal amount invested in the risky asset is: where u(-) is the individual's utility function.
+
+Imagine the following situation. There is another risky asset B that is more risky than asset A in that A SSD B. We ask the following question. If the same individual is to invest in risky asset B and the riskless asset, is he going to invest less in the risky asset because now the risky asset is more risky? We can render a yes to this question if we have Relation (2.10.2) indicates that the individual's utility will be im- proved upon if the amount he invests in the risky asset is less than a.
+
+We shall transform relations (2.10.1) and (2.10.2) to be more in line with the notation of this chapter. Let FA(-) and FB(-) be the distribution functions for FA and b with a commo , ' = a{[l - RR (Za) + RA (%a)] uIt(za) + [Ri (&a) - & (za)]ul(^a)
+
+- a'" (%a) rf} (2.10.5)
+
+where we recall that RA(-) and RR('} are the Arrow-Pratt measures ,of absolute and relative risk aversion. When a > 0, a set of sufficient ;conditions for V(-) to be concave is that the relative risk aversion ' is less than one and increasing and that the absolute risk aversion is decreasing. Here we recall from Section 1.21 that nonincreasing absolute risk aversion implies u'" > 0.
+
+It is clear from (2.10.5) that V(-) may not be concave. Thus when the riskiness of the risky asset increases, a risk averse individual 'may well increase his investment in the risky asset!
+
+2.11. In Section 1.26, it is demonstrated that a more risk averse individual will require a higher risk premium on the risky asset for him to invest all his wealth in it than will a less risk averse individual, when there are two assets: one risky and one riskless. Equivalently, a more risk averse individual will never invest more in the risky asset than a less risk averse individual. Recall that individual i is said -- - ln support [0,1].
+
+to be more risk averse than individual k if R\(z) > R ~ ( z )
+
+V z.
+
+Then relations (2.10.1) and (2.10.2) can be written as: I Unfortunately, this result does not extend to a setting where the two traded assets are both risky. This is illustrated by the example ul[(l + r f )  + a(z - r f ) ] ( z  - r f )  ~ F A ( % )
+
+= 0 (2.10.3)
+
+presented below, which is adapted from Ross (1981).
+
+Consider a two asset portfolio problem where FA and TB denote and the rates of returns on the two risky assets. Denoting i = TA - h, we assume that, for every realization of fg, EIZIFB] > 0. This implies that asset A is more risky than asset B and also has a higher expected
+
+Foundations for Financial 'Economics rate of return. In particular, we assume for the time being that 2 and ?B are independent with with probability !j, '-= { - 1 with probability 1; with probability !j, with probability 1.
+
+Let uk(-) be an increasing concave utility function for individual k with Also let G(-) be a concave function with Now define uj = G ( u ~ ) .
+
+From Section 1.25, we know that individual i with utility function u; is more risk averse than individual k. Assume without loss of generality that both individuals have unit initial wealth. It is easily verified that a = 1/4 satisfies the following relation That is, individual k optimally invests 114 units of his wealth in asset A. However This implies that individual i's utility will be increased if he invests strictly more' than 114 units of wealth in asset A. Even though indi- vidual i is more risk averse in the Arrow-Pratt sense than individual k, he will not take a less risky position.
+
+2.12. ROSS (1981) proposes another measure of risk aversion.
+
+Individual i is said to be strongly more risk averse than individual k u"(z)
+
+u'A4 inf Ã‘*Ã > sup - 2 ut(z) - 2 uL(z), Relation (2.12.1) implies that for arbitrary z, we have Rearranging gives u;'(z)
+
+u'.(z)
+
+-- > -- u'.(z) - u,{zYe which implies that individual i is more risk averse than individual k in the sense of Arrow-Pratt. The following example shows that (2.12.1) is strictly stronger than (2.12.2).
+
+Let uj(z) = - e a z  and uk(z) = - e b z ,  with a > b. It is easily verified that i is more risk averse in the sense of Arrow-Pratt than k. However, u;' (z2)
+
+u'. (zl)
+
+<-tÃ ~'.(^2)
+
+~ $ 1 )
+
+contradicting (2.12.1). Thus the strong measure of risk aversion is strictly stronger than the Arrow-Pratt measure.
+
+2.13.
+
+Now we recall from Section 1.25 that if individual i is {.
+
+more risk averse in the sense of Arrow-Pratt than individual k, then there exists a monotone concave function G such that ui = G(uk).
+
+When individual i is strongly more risk averse than individual k, we have a similar characterization.
+
+We claim that i is strongly more risk averse than k if and only if there exists a decreasing concave function G and a strictly positive constant A such that Then a is the amount individual k should optimally invest in asset A. Using (2.13.1) and (2.14.1), we obtain %(z) = Auk(%) + G ( z )  Vz.
+
+(2.13.1)
+
+Consider the sufficiency part. Differentiate (2.13.1) to get and u 3 z )  = Auaz) + GU(z) < Au';(z) Vz, where the inequalities follow from the fact that G is decreasing and concave. The above two relations imply It is easily seen that (2.13.2) implies (2.12.1). Conversely, let i be strongly more risk averse than k. By the definition of the strong measure of risk aversion, there exists A > 0 such that (2.13.2) holds.
+
+Define G by (2.13.1). Differentiating we get and G"(Z) = q z )  - AU;(Z) < 0, where the inequalities follow from (2.13.2). Thus we have proved our claim that i is strongly more risk averse than k if and only if (2.13.1)
+
+holds.
+
+2.14.
+
+Now let us again consider the two risky asset portfolio problem of Section 2.11. Assume that (2.12.1) holds and that indi- vidual i is strongly more risk averse than individual k. Let a be such that ~ [ u i ( l + TB + a m  = 0.
+
+(2.14.1)
+
+E[u:(l+ fa + a2)2} = E[\ u 3 l +  TB + a2)i + ~ ' ( l + TB + ai)2?]
+
+= E [ G ' ( ~  + FB + a2)z}.
+
+sing iterative expectations and the definition of covariance, we can ewrite the above relation as: E[G'(I + TB + a2)z} = E [E[G'(~ + TB + ~ Z ) Z I F B ] ]
+
+= E C O V ( G ' ( ~  + IB + a;), ;IFs)
+
++ E[G'(I + TB + a : i ) \ f ~ ]
+
+E[~\F~\\ EICov(Gt(l + TB + aZ),z\rB)] <. 0, re the first inequality follows from the hypothesis that E[.?[TB] 2 d the fact that G' < 0, and the second inequality follows from concavity of G .  This implies that individual i's utility can be eased by investing an amount smaller than a in asset A. That t will optimally choose a less risky portfolio. Thus the stronger asure of risk aversion gives the right comparative statics.
+
+Exercises
+
+## 1. A risky asset A is said to third degree stochastically dominate
+
+risky asset B if all investors exhibiting decreasing absolute risk aversion prefer A to B, denoted by A T% B. Provide a suffi- cient condition strictly weaker than that for the second degree stochastic dominance on the distribution functions for A T S D  B.
+
+2.2. Suppose that there are two risky assets with rates of return Fi and fi, which are independent and identically distributed. Show that the equally weighted portfolio is an optimal choice for any risk averse investor.
+
+2.3. Suppose that there are five states of nature denoted by ~n n = 1,2,. . . ,5, all of which are of equal probability. Consider two risky assets with rates of returns and FB as follows:
+
+Explain which asset a risk averse investor will choose.
+
+2.4. Suppose that there are two risky assets with random rates of returns ?A and TB, respectively. Assume that FA and TB are independent and have the same mean. We know further that Â FB=h d + Z and that and Z are independent. Does this imply fc b .
+
+I that TB dominates FA in the sense of second degree stochastic MI dominance? Show that if these are the only assets available to a risk averse expected "utility-maximizing individual, this indi- vidual will invest more in asset A than in asset B.
+
+Remarks. Machina (1982) generalized some of the Ross (1981)
+
+results on the stronger measure of risk aversion. R&ll (1983) showed state W l '4 u s 0:4 W6 0.5 0.5 0.7 0.7 0.7 0.9 0.8 0.4 f 0.3 0.7 that the comparative statics of Section 2.14. cannot be gen > to a multi-assets case. The sufficiency proofs of PSD and provided to us by Richard Khilstrom.
+
+References eralized s S D  are adapted from Hadar and Russel (1969). For a bibliography on the subject of stochastic dominance, see Bawa fl9811. Exercise 2.4 was Bawa, V. 1981. Stochastic dominance: A research bibliography. Bell Laboratories Economics Discussion Paper #196.
+
+Hadar, J., and W. Russell. 1969. Rules for ordering uncertain prospects, American Economic Review 59:25-34.
+
+ochas tic Dominance Hanoch, G., and C. Levy. 1969. Efficiency analysis of choices involv- ing risk. Review of Economic Studies 36:335-346.
+
+Machina, M. 1982. A stronger characterization of declining risk aver- sion. Econometrica 50:1069-1079.
+
+Roell, A. 1983. Risk aversion and wealth effects on portfolios with many independent assets. Mimeo. Johns Hopkins University.
+
+Baltimore, Maryland.
+
+ROBS, S. 1981. Some stronger measures of risk aversion in the small and large with applications. Econometrics 49:621-638.
+
+~othschild, M., and J. Stiglitz. 1970. Increasing risk I: A definition.
+
+Journal of Economic Theory 2:225-243.
+
+ftothschild, M., and J. Stiglitz. 1971. Increasing risk 11: Its economic , consequences. Journal of Economic Theory, 3:66-84.
+
+## CHAPTER
+
+H 3.1. In Chapter 2 we demonstrated that when risky asset A second degree stochastically dominates risky asset B, risky asset A must have the same expected rate of return as risky asset B and a lower variance. When there are more than two assets and when port- folios can be formed without restrictions, if there exists a portfolio of assets that second degree stochastically dominates all the portfo- lios which have the same expected rate of return as it has, then this dominant portfolio must have the minimum variance among all the portfolios. This observation is one of the motivations to characterize those portfolios which have the minimum variance for various levels of expected rate of return.
+
+3.2. The mean-variance model of asset choice has been used extensively in finance since its development by Markowitz (1952)
+
+more than two decades ago. A preference for expected return and an aversion to variance is implied by monotonicity and strict concavity
+
+Foundations for A ~ A C ~
+
+&onomics of an individual's utility function. However, for arbitrary distribu- tions and utility functions, expected utility cannot be defined over just the expected returns and variances. Nevertheless, the mean- variance model of asset choice is popular because of its analytical tractability and its rich empirical implications. Two technical moti- vations, besides the one stated in Section 3.1, exist and are briefly reviewed below.
+
+3.3. An individual's utility function may be expanded as a Taylor series around his expected end of period wealth, where and where denotes the n-th derivative of u.
+
+Assuming that the Taylor series converges and that the expecta- tion and summation operations are interchangeable, the individual's expected utility may be expressed as where no - and where mn(6') denotes the n-th central moment of 6'.
+
+Relation (3.3.1) indicates a preference for expected wealth and an aversion to variance of wealth for an individual having an increas- ing and strictly concave utility function. However, relation (3.3.2)
+
+illustrates that expected utility cannot be defined solely over the ex- pected value and variance of wealth for arbitrary distributions and preferences, as indicated by the remainder term which involves higher order moments.
+
+athematics of the Portfolio Frontier 6 1 3.4. For arbitrary distributions, the mean-variance model can be motivated by assuming quadratic utility. Under quadratic util- ity, the third and higher order derivatives are zero and, therefore.
+
+E[R3]
+
+= 0 for arbitrary distributions. Hence, an individual's ex- pected utility is defined over the first two central moments of his end of period wealth, @, Thus, when expected rates of return and variances are finite, quadratic utility is sufficient for asset choice to be completely de- scribed in terms of a preference relation defined over the mean and variance of expected returns. Unfortunately, quadratic utility dis- plays the undesirable properties of satiation and increasing absolute risk aversion. The satiation property implies that an increase in wealth beyond the satiation point decreases utility. Increasing abso- lute risk aversion implies that risky assets are inferior goods. Thus, economic conclusions based on the assumption of quadratic utility function are often counter intuitive and are not applicable to indi- viduals who always prefer more wealth to less and who treat risky investments as normal goods.
+
+3.5. For arbitrary preferences, the mean-variance model can be motivated by assuming that rates of return on risky assets are multivariate normally distributed. The normal distribution is com- pletely described by its mean and variance. Under normality, the third and higher order moments involved in E[R3]
+
+can be expressed as functions of the first two moments, and E[R3]
+
+is, therefore, solely a function of the mean and variance. Normal distributions are also stable under addition; i.e., the rate of return on a portfolio made up of assets having returns that are multivariate normally distributed is also normally distributed. The lognormal distribution is also com- pletely described by its mean and variance; however, it is not sta- ble under addition. That is, a portfolio made up of assets having returns that are multivariate lognormally distributed is n o t  lognor- mally distributed. Thus, for utility functions that are defined over a
+
+Foundations for Financial Economics normally distributed end of period wealth, the assumption that asset returns are multivariate normally distributed implies that demands for risky assets are defined over the mean and variance of portfolio rates of return. However, for other classes of utility functions such as u(z) = ln(z), expected utility is not defined over non-positive wealth levels. Unfortunately, the normal distribution is unbounded from below, which is inconsistent with limited liability and with eco- nomic theory, which attributes no meaning to negative consumption.
+
+Fortunately, multivariate normality is only a sufficient distributional condition for all individuals to choose mean-variance efficient port- folios, not a necessary condition.
+
+3.6. Based on the above, the mean-variance model is not a general model of asset choice. Its central role in financial theory can be attributed to its analytical tractability and the richness of its empirical predictions. This chapter develops the analytical relations between the means and the variances of rates of return on feasible portfolios. This will provide the basis for the development of more general conditions for mean-variance asset choice and mean-variance asset pricing models in Chapter 4.
+
+3.7. We suppose that there are N > 2 risky assets traded in a frictionless economy where unlimited short selling is allowed and that the rates of return on these assets have finite variances and unequal expectations, unless otherwise mentioned. It is also assumed that the random rate of return on any asset cannot be expressed as a linear combination of the rates of return on other assets. Under this assumption, asset returns are said to be linearly independent and their variance covariance matrix V is nonsingular. The variance- covariance matrix is also symmetric because Cov($, ri) = Cov(Fj, c), for all i, j. Such a symmetric matrix is said to be positive definite if for arbitrary N-vector of constants w ,  with w # 0, w T V w  > 0, where denotes "transpose" and where w # 0 means there is at least one element of w that is not zero. V is a positive definite matrix because w T V w  is a portfolio variance even when the portfolio weights do not sum to unity and because variances of risky portfolios thematics of the Portfolio Frontier are strictly positive.
+
+3.8. A portfolio is a frontier portfolio if it has the minimum variance among portfolios that have the same expected rate of return.
+
+A portfolio p is a frontier portfolio if and only if wp, the N-vector portfolio weights of p, is the solution to the quadratic program: min - w T v w (3.8.1)
+
+tw} 2 wTe = E[&] and wTl = 1, where e denotes the N-vector of expected rates of return on the N risky assets, E[Fp] denotes the expected rate of return on portfolio p, and 1 is an IV-vector of ones.
+
+The programming problem given in (3.8.1) minimizes the port- folio variance subject to the constraint that the portfolio expected rate of return is equal to E[rp] and that the portfolio weights sum to unity. Note that short sales (i.e., negative portfolio weights) are permitted. Therefore, the range of expected returns on feasible port- folios is unbounded. (This follows from the assumption that assets do not have identical expected rates of return.)
+
+Forming the Lagrangian, wp is the solution to the following: min L = - w T v w  + A(E[rp] - wTe) + 7(1 - w T l ) , (3.8.2)
+
+{w,A,-r} where A and 7 are two positive constants. The first order conditions are where 0 is a N vector of zeros. Since V is a positive definite matrix, it follows that the first order conditions are necessary and sufficient for a global optimum.
+
+Foundations for Financial Economics 3.9. Solving (3.8.3a) for wn gives Premultiplying both sides of relation (3.9.1) by eT and using (3.8.3b)
+
+gives -le) + 7(eTV-ll}.
+
+(3.9.2~)
+
+Premultiplying both sides of relation (3.9.1) by lT and using (3.8.3~)
+
+gives 1 = \(lTv-le)
+
++ 7(lTV-ll).
+
+(3.9.26)
+
+Solving (3.9.2a) and (3.9.2b) for A and 7 gives where B = e^V-le, C = lTv-ll, D = BC - /i2.
+
+Since the inverse of a positive definite matrix is positive definite, B > 0 and C > 0. We claim that D > 0. To see this, we note that The left-hand side of the above relation is strictly positive, since V 1 is positive definite. Hence the right-hand side is strictly positive. By the fact that B > 0, we have BC - /i2 > 0, or, equivalently, D > 0.
+
+Substituting for A and 7 in relation (3.9.1) gives the unique set of portfolio weights for the frontier portfolio having an expected rate of return of E[Fp]: wp = g + hE[Fp]
+
+(3.9.4)
+
+where and Mathematics of the Portfolio Frontier Note that relations (3.8.3a), (3.8.3b), and (3.8.3~)
+
+are necessary and sufficient conditions for wp to be the frontier portfolio having an ex- pected rate of return equal to E[Fp}. Therefore, any frontier portfolio can be represented by (3.9.4). On the other hand, any portfolio that can be represented by (3.9.4) is a frontier portfolio. The set of all frontier portfolios is called the portfolio frontier.
+
+Now we claim that g is the vector of portfolio weights corre- sponding to a frontier portfolio having a zero expected rate of return is the vector of portfolio weights of a frontier portfo- lio having an expected rate of return equal to 1. To see this, we first substitute zero for E[Fp] of relation (3.9.4) to get and then substitute 1 for E[Fp] of (3.9.4) to get Next we claim that the entire portfolio frontier can be generated by forming portfolios of the two frontier portfolios g and g + be a frontier portfolio having an expected rate of return E[rg}. From (3.9.4), we know that Consider the following portfolio weights on g and g + h : {I - E[Fq], E[r'q]}, whose portfolio weights on risky assets are That is, the portfolio {l - E[fg}, E[Fq]) on g and g + the frontier portfolio q. Since the portfolio q is arbitrarily chosen, we have shown that the entire portfol frontier can be generated by the two frontier portfolios g and g + 3.10. Note that the arguments in the last section showing that the portfolio frontier is generated by g and g + h only use the fact
+
+Foundations for Financial Economics that the two frontier portfolios g and g + do not have identical expected rates of return. The following much stronger statement is in fact valid: The portfolio frontier can be generated by any two distinct frontier portfolios. To see this, let pi and p2 be two distinct frontier portfolios, and let g be any frontier portfolio. We want to show that g is a portfolio generated by p\ and pi. Since E[cl]
+
+is not equal to E[Ãˆp2] there exists a unique real number a such that E[fq] = aE[rp,}+ (1- a)E[Ãˆp2]
+
+(3.10.1)
+
+Now consider a portfolio of pi and pa with weights {a, (1 - a)}.
+
+We have where the first equality follows from the fact that pi and p; are frontier portfolios, the third equality follows from (3.10.1), and the fourth equality follows from the fact that the weights for a frontier portfolio are uniquely determined. Thus, we have demonstrated that the portfolio frontier can be generated by any two distinct frontier portfolios.
+
+3.11. The covariance between the rates of return on any two frontier portfolios p and g is where we have used the definition of covariance and the portfolio weights for a frontier portfolio given in relation (3.9.4).
+
+The definition of the variance of the rate of return of a portfolio and (3.1 1.1) give Mathematics of the Portfolio Frontier Figure 3.11.1: Portfolio Frontier in the o(?)-E[r]
+
+space which is a hyperbola in the standard deviation-expected rate of re- turn spacewith center (0, A/C) and asymptotes E[fp\ = A/C k /D/Co(fp), where o2(Ãˆp and o(Fp) denote the variance and the standard deviation of the rate of return on the portfolio p, respec- tively. 'Relation (3.11.2a) can equivalently be written as which is a parabola in variance-expected rate of return space with vertex (l/C, A/C). The portfolio frontier in mean-standard devia- tion space is graphed in Figure 3.11.1, and the portfolio frontier in mean-variance space is graphed in Figure 3.11.2. The portfolio hav- ing the minimum variance of all possible portfolios, or the minimum variance portfolio, is at (^/1/C, A/C) in Figure 3.11.1. This follows directly from (3.11.2a).
+
+3.12. The minimum variance portfolio, denoted henceforth by mvp, has a special property: The covariance of the rate of return on
+
+Foundations for Financial Economics I igure 3.11.2: Portfolio Frontier in the u2(F)-E[F]
+
+Space the minimum variance portfolio and that on any portfolio (not only those on the frontier) is always equal to the variance of the rate of return on the minimum variance portfolio. To see this, let p be any portfolio. We shall demonstrate below that COV (Fp Fmvp) = Var (Fmup).
+
+(3.12.1)
+
+We consider a portfolio of p and mvp with weights a and I - a and with minimum variance. Then, a must be the solution to the following program: The first order necessary and sufficient condition for a to be the solution is: Since mvp is the minimum variance portfolio, a = 0 must satisfy relation (3.12.2). Thus we have relation (3.12.1). In words, the co- variance between the rate of return on any portfolio and that on the atbematics of the Portfolio Frontier minimum variance portfolio is equal to the variance of the rate of return on the minimum variance portfolio. Note that in the argu- ments proving that relation (3.12.1) holds for any portfolio p, the assumption that risky assets do not have identical expected rates of return is never used. Thus relation (3.12.1) holds even when risky assets have identical expected rates of return.
+
+3.13. Those frontier portfolios which have expected rates of return strictly higher than that of the minimum variance portfolio, A/C, are called efficient portfolios. Portfolios that are on the portfo- lio frontier but are neither efficient nor minimum variance are called inefficient portfolios. For each inefficient portfolio there exists an efficient one having the same variance but a higher expected rate of return.
+
+Let wi, i = 1,2,. . . ,m, be m frontier portfolios and a,, i = 1,2,. . . , m, be real numbers such that ^El a, = 1. Then denoting the expected rate of return on portfolio i by E[fi] for i = 1,2,. . . , m, we have i= Recalling (3.9.4)) the second line of the above expression is a frontier portfolio having an expected rate of return equal to ^El aiE[Fi].
+
+Thus any linear combination of frontier portfolios is on the frontier.
+
+If portfolios i = 1,2,. . . , m are efficient portfolios, and if a;, i = 1, 2, . . . , m are nonnegative, then Formally stated, any convex combination of efficient portfolios will be an efficient portfolio. The set of efficient portfolios is thus a convex set.
+
+3.14. One important property of the portfolio frontier is that for any portfolio p on the frontier, except for the minimum variance
+
+Foundations for Financial Economics portfolio, there exists a unique frontier portfolio, denoted by zc(p), which has a zero covariance with p.
+
+Setting the covariance between two frontier portfolios p and zc(p}, given in relation (3.11.1), equal to zero: cov(fP, L(,)) = ((Â£[?, - A / c ) ( E [ ~ , ~ ~ ) ]
+
+- A/C) + D/c2) = 0 (3.14.1)
+
+. .
+
+and solving for the expected rate of return on zc(p), we get: In fact, (3.14.2) defines zc(p). The uniqueness assertion follows from the fact that (3.14.2) defines E[Ltp)]
+
+uniquely, which in turn deter- mines zc(p) uniquely by (3.9.4). It is also easily seen from (3.11.1)
+
+that the covariance of the minimum variance portfolio and any other frontier portfolio is equal to 1/C, which is strictly positive. There- fore, there does not exist a frontier portfolio that has zero covariance with the minimum variance portfolio.
+
+3.15. Equation (3.14.2) gives us a clue to the location of zc(p)
+
+for p other than the minimum variance portfolio. If p is an efficient portfolio, then (3.14.2) implies that thus zc(p) is an inefficient portfolio, and vice versa.
+
+Geometrically zc(p) can be located by the following fact: The intercept on the expected rate of return axis of the line tangent to the portfolio frontier in the standard deviation-expected rate of return space at the point associated with any frontier portfolio p (except the minimum variance portfolio) is E[Gp)].
+
+Alternatively, in the variance-expected rate of return space, the intercept on the E[r} axis of the line joining any frontier portfolio p and the mvp is equal to E[<c(p)].
+
+To see these, we first differentiate (3.11.2a) totally with respect to u(Fp) and E[fp] to obtain Mathematics of the Portfolio Frontier a Figure 3.15.1: The Location of a Zero Covariance Portfolio in the a(?)-E[r\ Space which is the slope of the portfolio frontier at the point (u(FP), E[Fp]).
+
+The expected rate of return axis intercept of the tangent line is where the second equality follows from (3.11.2a), and the third equal- ity follows from (3.14.2). The geometric picture of relation (3.15.2)
+
+can be seen in Figure 3.15.1.
+
+Next, it is easily seen that the line joining a frontier portfolio p and the mvp, in the u2(F)-~[r} plane, can be expressed as
+
+Foundations for Financial Economics / Figure 3.15.2: The Location of a Zero Covariance Portfolio in the u2(3-~[;] Space Substituting u2(+) = 0 into (3.15.3); we have that the intercept of the line on the expected rate of return axis is equal to E[Lb\\. This result is presented in Figure 3.15.2.
+
+Finally, let p be a portfolio which is not on the portfolio frontier as depicted in Figure 3.15.3, which we note is in the u2(F)-E[F] plane.
+
+We claim that the intercept on the expected rate of return axis of the line joining p and mvp is equal to the expected rate of return on a portfolio, q, that has zero covariance with p and the minimum variance among all the zero covariance portfolios with p. To see this, we note that wn is the solution to the following program: min -w:vwq w, 2 s.t. w;vwp = 0, (3.15.4)
+
+Mathematics of the Portfolio Frontier Using the Lagrangian method, we can easily verify that where wmup denotes the vector of portfolio weights of the minimum variance portfolio. That is, the minimum variance zero covariance portfolio of p is a linear combination of p and mvp. Since u2(Fp) > 1/C, q is constructed by short selling portfolio p and buying the minimum variance portfolio. The expected rate of return of q is fin, i v  ft\ which is easily verified to be the intercept on the expected rate of return axis of the line joining p and mvp in the u2(F)-E[f\ plane.
+
+In Exercise 3.6 we ask the reader to show that the portfolio frontier generated by two assets or portfolios having distinct expected rates of return passes through these two assets or portfolios. Consider the portfolio frontier generated by p and mvp, which is demonstrated graphically in Figure 3.15.3. Note that this portfolio frontier lies inside the portfolio frontier of all assets and touches it at a single point, the mvp. Since any linear combination of two frontier port- folios is on the frontier, any linear combination of p and mvp is on the portfolio frontier generated by p and mvp. It follows that the portfolio q is on the portfolio frontier generated by p and mvp as it is a linear combination of p and mvp by (3.15.5).
+
+3.16. We have demonstrated the existence of a zero covariance portfolio for any frontier portfolio other than the minimum vari- ance portfolio. A characterization of the relationship between the expected rate of return on any portfolio q, not necessarily on the frontier, and those of the frontier portfolios is given below.
+
+Foundations for Financial Economics Figure 3.15.3: Minimum Variance Zero Covariance Portfolio of a Non-frontier Portfolio Let p be a frontier portfolio other than the minimum variance portfolio, and let q be any portfolio. The covariance of Fp and fq is where the second equality follows from the fact that p is a frontier portfolio and relation (3.9.1), and where the fourth equality follows from the definition of E[Fq] and the fact that wq is a vector of port- folio weights. Substituting (3.9.3a) and (3.9.3b) for \ and 7, respec- tively, into (3.16.1) we get Mathematics of the Portfolio Frontier where. we have used (3.11.2a) in the second equality, where Pqp = cov(Wp)/a^(rp), and where the fourth equality follows from rela- tion (3.15.2). The expected rate of return on any portfolio q can be written as a linear combination of the expected rates of return on p and on its zero covariance portfolio, with weights Pap and 1 - Pap.
+
+Note that since z ~ ( z c ( ~ ) )
+
+= p for any frontier portfolio p other than the mvp, we can also write (3.16.2) as From the fact that E[fp] # E[Qp)], there exists a unique number, say a, such that E[fq\ = aE[rp]+(l-a)E[kip)}.
+
+Therefore, relations (3.16.2) and (3.16.3) imply that and we can write Relations (3.16.2), (3.16.3)) and (3 .l6.5) are equivalent relations.
+
+3.17. The relationship among the three random variables Fq, Fp and &(p) can always be written as Fq = Po + Plccfp)
+
++ /?2Fp + Zq (3.17.1)
+
+with Cov(Fp,2,) = C O V ( L ( ~ ) , Z ~ )
+
+= E[Zq] = 0, where (/?o,/31,/?2) are coefficients from the "multiple regression" of fq on Fp and fz(pl. Since FP and GCi^) are uncorrelated, we have PI = Pqzc(p)
+
+Pi = Pqp- (3.17.2)
+
+Foundations for Financial Economics en follows from. (3.16.5) that j3o = 0, and thus we can always write the return on a portfolio q as: fy = (1 - ^qp)fzc(p) + u p
+
++ & (3.17.3)
+
+with COV(?~,Â£~ = COV(<~(~),Â£, = E[ey} = 0. This relation will be particularly useful in Chapter 4.
+
+3.18. In previous sections, we have characterized properties of the frontier portfolio when a riskless asset does not exist. When a riskless asset does exist, some simple results follow.
+
+Let p be a frontier portfolio of all N+ 1 assets, and let wp denote the N-vector portfolio weights of p on risky assets. Then w p  is the solution to the following program: where we still use e to denote the N-vector of expected rates of return on risky assets, and rf is the rate of return on the riskless asset. Forming the Lagrangian, we know that wp is the solution to the following: T min - W ~ V W + A ( E [ ? ~ ] - W  e -  (1-wT1)rf).
+
+{w,A} The first order necessary and sufficient conditions for wP to be the solution are Vwn = A(e - l r f )
+
+and r^ wT^ - l r f )  = E[rp\.
+
+Solving for wp , we have Mathematics of the Portfolio Frontier Figure 3.18.1: A Portfolio Frontier when rf < A/C where H = (e- ~ r ~ ) ~ V - l ( e - - l r f )  = B -  2Arf + C r f 2  and A, B, and C are defined as in Section 3.9. It is easily checked that H > 0 as A2 - BC < 0. The variance of the rate of return on portfolio p is where the second equality follows from substituting relation (3.18.1).
+
+Equivalently, we can write that is, the portfolio frontier of all assets is composed of two half- lines emanating from the point (0, rf) in the u ( 5 )  - E[Fp] plane with slopes ^/H and -@, respectively.
+
+We now consider some special cases.
+
+and the portfolio frontier of all risky assets. To verify this, we only
+
+Foundations for Financial Economics Figure 3.18.2: A Portfolio Frontier when rf > A/C that is, we use the result in Section 3.15 to conclude that E[Fxi^] = r f .  Now using relations (3.11.2a) and (3.18.4), we get which is to be shown.
+
+Any portfolio on the line segment r/e is a convex combination of portfolio e and the riskless asset. Any portfolio on the half line r f  + \/ff(r(fp) other than those on r/e involves short-selling the riskless asset and investing the proceeds in portfolio e. It can also easily be checked that any portfolio on the half line rf - involves short-selling portfolio e and investing the proceeds in the riskless asset.
+
+Mathematics of the Portfolio Frontier \ Figure 3.18.3: A Portfolio Frontier when rf = A/C Case 2. rf > A/C. The story here is a little different) The port- folio frontier of all assets is graphed in Figure 3.18.2. Any portfolio on the half-line rf + involves short-selling portfolio e' and investing the proceeds in the riskless asset. On the other hand, any portfolio on the half-line rf - fiu(rp) involves a long position in portfolio e'.
+
+Case 3. rf = A/C. In this case, Recall that E[fp] = A/C& ^D/Cu(fp) are the two asymptotes of the portfolio frontier of risky assets. The portfolio frontier of all assets is graphed in Figure 3.18.3.
+
+In the previous two cases it is very clear how the portfolio fron- tiers of all assets are generated from looking at the figures. Portfolio frontiers are generated by the riskless asset and the "tangency" port- folios e and er, respectively. In the present case, there is no tangency
+
+Foundations for Financial Economics portfolio. Therefore the portfolio frontier of all assets is not gener- ated by the riskless asset and a portfolio on the portfolio frontier of risky assets. The question is how the portfolio frontier of all assets is generated.
+
+Substituting r, = A/C into relation (3.18.1) and premultiplying wp by lT, we get Therefore any portfolio on the portfolio frontier of all assets involves investing everything in the riskless asset and holding an arbitrage portfolio of risky assets - a portfolio whose weights sum to zero.
+
+. When there exists a riskless asset, a relation similar to (3.17.2) can be derived. Let q be any portfolio, with wq the portfolio weights on the risky assets. Also, let p be a frontier portfolio, with wp the portfolio weights on risky assets. We assume that E[Fp] # r,.
+
+Then cov(rq, rP) = w;vwP Using (3.18.2), we obtain This relation holds independent of the relationship between r, and A/C.
+
+Given (3.19.1) and Section 3.17, we can readily write with Cov(Fp,Cqp) = E[Zqp] = 0, for any portfolio q and any frontier portfolio p other than the riskless asset.
+
+athematics of the Portfolio Frontier Exercises 3.1. Let there be two securities with rates of return Fj and F;. Sup- pose that these two securities have identical expected rates of return and identical variances. The correlation coefficient be- tween $ and F; is p. Show that the equally weighted portfolio achieves the minimum variance independently of p.
+
+3.2. Suppose that the riskless borrowing rate is higher than the risk- less lending rate. Graphically demonstrate the portfolio fron- tier of all assets. Next suppose that borrowing is not allowed.
+
+Graphically demonstrate the portfolio frontier of all assets.
+
+3.3. Let p be a frontier portfolio, and let q be any portfolio having the same expected rate of return. Show that Cov(Fp,Yq) = Var(Ãˆp and, as a consequence, the correlation coefficient of Fp and fÃ lies in (0, I].
+
+3.4. Let fj, j = 1,2,. . . , n, be efficient frontier portfolios. Show that if E[rp} = Ey=l wiE[Ffj], where EGl wj = 1, then E[Lip)} # Gl wj EIFzc(fjl]., unless all f, are the same.
+
+3.5. Let fj, j = 1,2,. . . , n, be efficient frontier portfolios, and let A j be the Lagrangian multiplier of (3.8.2) that is associated with Â£[?,,I Show that if E[fp] = Ey=l wi E[Q], where Ey=l wj = 1, then E[FÃ£(,) = $ Eysi wjAjEIFzc(fjl\ where Ap is the La- grangian multiplier of (3.8.2) that is associated with E[fp}, where w, 2 0.
+
+3.6. Show that the portfolio frontier generated by two assets or port- folios having distinct expected rates of return passes through these two assets or portfolios.
+
+s. Most of the discussions in Sections 3.8 through 3.17 are freely adapted from Gonzalez-Gaverra (1973) and Merton (1972).
+
+Many results of Gonzalez-Gaverra (1973) were later independently derived by Roll (1977).
+
+Chamberlain (1983) characterizes the complete family of distri- butions that are necessary and sufficient for the expected utility of final wealth to be a function only of the mean and variance of fi- nal wealth or for mean-variance utility functions. Epstein (1985)
+
+shows that mean-variance utility functions are implied by a set of
+
+8 2 Foundations for Financial Economics decreasing absolute risk aversion postulates.
+
+References Chamberlain, G. 1983. A characterization of the distributions that imply mean-variance utility functions. Journal of Economic The- ory 29:185-201.
+
+Epstein, L. 1985. Decreasing risk aversion and mean-variance anal- ysis. Econometrics 53 :945-962.
+
+Gonzalez-Gaverra, N. 1973. Inflation and capital asset market prices: Theory and tests. Unpublished PhD dissertation, Stanford Uni- versity.
+
+Markowha, H. 1952. Portfolio Selection. Journal ofFinance 7:77-91.
+
+Merton, R. 1972. An analytical derivation of the efficient portfolio frontier. Journal of Financial and Quantitative Analysis 7:1851- 1872.
+
+Roll, R. 1977. A critique of the asset pricing theory's tests. Journal of Financial Economics 4: 129-176.
+
+4.1. In Section 3.10 we saw that all portfolios on the portfo- lio frontier can be generated by any two distinct frontier portfolios.
+
+Thus, if individuals prefer frontier portfolios, they can simply hold a linear combination of two frontier portfolios or mutual funds. In that case, given any feasible portfolio, there exists a portfolio of two mutual funds such that individuals prefer at least as much as the original portfolio. This phenomenon is termed two (mutual) fund separation.
+
+In the first part of this chapter, we develop conditions on as- set returns that are necessary and sufficient for two fund separation given that individuals are risk averse and that variances of asset re- turns exist. When asset returns exhibit two fund separation, it turns out that the two separating mutual funds must be on the portfo- lio frontier. It then follows that an individual's optimal portfolio is a frontier portfolio. In equilibrium, markets have to clear. Thus, the market portfolio, a convex combination of individuals' optimal portfolios, is also on the portfolio frontier. As long as the market
+
+Foundations for Financial Economics portfolio is not the minimum variance portfolio, Section 3.16 implies that there exists a linear relation among the expected asset returns with the expected return on the market portfolio as the pivotal vari- able. This is the Capital Asset Pricing Model - the subject of the second part of this chapter.
+
+Finally, we will turn to the Arbitrage Pricing Model, where a linear relation among expected asset returns holds approximately for most of the assets in an economy with a large number of assets, when, roughly, there are no arbitrage opportunities (in the limit).
+
+4.2.
+
+We start our formal discussion by giving a definition. A vector of asset rate of returns E = (Fj)L is said to exhibit two fund separation if there exist two mutual funds 0:1 and a 2  such that for any portfolio q there exists a scalar A such that for all concave u(-).
+
+We shall assume that all assets are risky, until specified other- wise. Moreover, we assume that asset returns have finite second mo- ments and that no two asset returns are perfectly correlated, which imply that the variance-covariance matrix of asset returns exists and is positive definite. Then portfolio frontier exists, and every fron- tier portfolio is uniquely determined in that there is a unique set of portfolio weights associated with each frontier portfolio. The above points were discussed in Chapter 3.
+
+Now suppose that the vector of asset rates of return, E, exhibits two fund separation. We first claim that the separating mutual funds o;i and a 2  must be frontier portfolios. To see this, we note that by the definition of two fund separation, for any portfolio q there must exist a scalar A such that for all concave u(-). This is equivalent to T w o  Fund Separation and Linear Valuation From Section 2.8 we must then have and Var[AFa1 + (1 - A)Fa3] < Var(Fq).
+
+(4.2.5)
+
+That is, the dominating portfolio A a l  + (1 - A)a2 must have the same expected rate of return as q and a smaller variance. Suppose, for example, that a 2  is not a frontier portfolio. Then there must exist a portfolio & that has a variance strictly smaller than that of any portfolio formed by a\ and a 2 .  This contradicts the hypothesis that a1 and a 2  are separating portfolios. Hence a1 and a 2  must be on the portfolio frontier.
+
+4.3. Next we observe that because a1 and cq are frontier port- folios, any linear combination of them is also on the frontier. Hence, for any portfolio q, the dominating portfolio formed from two sepa- rating portfolios is the frontier portfolio that has the same expected rate of return as portfolio q. As the portfolio weights of any fron- tier portfolio are uniquely determined and any two distinct frontier portfolios span the whole portfolio frontier, whenever two fund sep- aration obtains, it must be that any two distinct frontier portfolios can be separating portfolios. In particular, we can pick any frontier portfolio, p # mvp and its zero covariance portfolio, zc(p), to be the separating portfolios. Sections 3.16 and 3.17 allow us to write, for any portfolio q, where (Sqp = c ~ v ( ? ~ , ? ~ ) / v a r ( ~ ~ )
+
+and Zqp is such that E(ZqP) = 0. Note that 5 (1 - /ÃˆÃ£)&c( + &?p, (4.3.2)
+
+is the rate of return of the dominating portfolio. Next we claim that the necessary and sufficient condition for two fund separation is
+
+Foundations for Financial Economics 4.4. First we will demonstrate the necessity of (4.3.3) for two fund separation. We note that as Q(pqp) is the return on the domi- nating portfolio, a = 0 is a solution of the following program: A necessary condition for a = 0 to be a solution is E[u'(Q (pqp))Â£yp}= V concave u(-) .
+
+(4.4.1)
+
+Suppose (4.3.3) does not hold for some q. We denote ~ [ ? ~ ~ \ Q [ f 3 ~ ~ ) ]
+
+by mq(& and the cumulative distribution function of <9(hp)
+
+by F(-).
+
+As E[Fqp] = 0, it follows that there must exist a real number z such that This can be seen as follows. First, the two sides of the equality of (4.4.2) can not be zero for all z, as this will contradict the hypothesis that (4.3.3) does not hold for some q. Second, if the equality of (4.4.2)
+
+does not hold for all z ,  that is, then which contradicts the fact that E[ZqP] = 0. Now consider a concave utility function that is piecewise linear: Two Fund Separation and Linear Valuation 8 7 Figure 4.4.1: The Utility Function Defined in (4.4.3)
+
+where Kl > K2 are strictly positive constants. This utility function is graphed in Figure 4.4.1. Then which contradicts (4.4.1). Thus (4.3.3) is a necessary condition for two fund separation.
+
+4.5. Now we will show that (4.3.3) is also sufficient for two fund separation. The separating portfolios are p and its zero covariance portfolio. If q is a portfolio, then the dominating portfolio is (1 - ,k$p)Fzcfpl +/^pfp. To see this, let u(-) be any concave utility function.
+
+8 8 Foundations for Financial Economics = E[E[~(Q(/?~J + ~ p )
+
+IQ(/?~P)II 5 ~[u(Q(/?qp))I, e inequality follows from Jensen's inequality because u(.) is concave. Thus, (4.3.3) is sufficient for two fund separation. As we observed earlier, in this case, any two distinct frontier portfolios can be separating portfolios.
+
+Note that the condition for two fund separation can be summa- rized in words based on (4.3.1) and (4.3.3). The rate of return on any feasible portfolio is equal to the rate of return on a particular portfo- lio plus a random noise term that has a zero conditional expectation given the rate of return on the particular portfolio. This particular portfolio has the same expected rate of return as the given feasible portfolio and is formed from two fixed mutual funds. As expected rates of return on the two fixed mutual funds are different, portfolios formed from them can have any expected rate of return desired.
+
+4.6. We will say that a vector of asset returns F exhibits one fund separation if there exists a (feasible) portfolio a such that every risk averse individual prefers a to any other feasible portfolio. That is, when one fund separation obtains, there must exist a mutual fund a such that for any portfolio q, we have, for all concave ti(-}, This implies E[Ta\ = E[Fq]
+
+and Var(Fa) < Var(Pq)
+
+by way of second degree stochastic dominance. As q is arbitrary and a is fixed, all assets must have the same expected rate of return.
+
+Furthermore, the separating portfolio must be the minimum variance portfolio. Otherwise, pick q to be the minimum variance portfolio.
+
+Then var(Fq) < var(Fa), Two h
+
+Separation and Linear Vduation which violates implications of second degree stoc We can, therefore, write 6==fa+Fq Vq, (4.6.1)
+
+with E[Zq] = 0. We claim that the necessary and sufficient condition for one fund separation is EIZqlFa}=O Vq.
+
+(4.6.2)
+
+The necessity part can easily be demonstrated by reproducing the necessity proof for (4.3.3). Suppose (4.6.2) is not true. We can construct a piecewise linear and concave utility function to show a contradiction. The sufficiency proof is exactly the same as in the two fund separation case.
+
+One fund separation can be viewed as a degenerate case of two fund separation. When all assets have the same expected rate of return, the portfolio frontier degenerates to a single point, the mini- mum variance portfolio. The portfolio frontier is thus trivially gen- erated by a single mutual fund. A necessary and sufficient condition for one fund separation is given by (4.3.3) with pqp = 1.
+
+4.7. In this section, we shall give concrete examples ofdistribu- tions of rates of return that exhibit two fund and one fund separation, respectively.
+
+Let the vector of rates of return be multivariate normally dis- tributed. Suppose that the expected rates of return of risky assets are not identical. We claim that two fund separation obtains. Let p be any frontier portfolio and zc(p) its zero covariance portfolio. As any linear combination of normal random variables is itself normal, it follows that fp and are bivariate normal random variables.
+
+Let q be any portfolio. Relation (4.3.1) implies that Fqp is also a normal random variable. Recall the following from Section 3.17: Cov (eqp, fp) = Cov(FqP, ?n(p)) = E[Fqp] = 0.
+
+(4.7.1)
+
+That is, Fqm Fp and L(p)
+
+are uncorrelated. Multivariate normality then implies that Fqp, fp and ?zc(p) are independent. Consequently, ZqP and <3(pqp) are independent, and thus ~ [ z q p l 6 & p ) ]  = E[&pI = 0.
+
+(4.7.2)
+
+Foundations for Financial Economics e have thus shown that two fund separation obtains.
+
+Next, let us suppose that rates of return on assets not only are multivariate normally distributed but also have identical expecta- tions. Let fmvp denote the return on the minimum variance portfolio.
+
+For any feasible portfolio q, we can always write The hypothesis that all assets have identical expected rates of return implies that E[e,} = 0.
+
+From Section 3.12, we know Hence we know Cov(Za, Fmvp) = 0.
+
+ultivariate normality of Fg, fmvp and Zq then yields This establishes that one fund separation obtains.
+
+In summary, if rates of return are multivariate normally dis- tributed and have nonidentical expectations, two fund separation obtains. On the other hand, when returns have identical expecta- tions, multivariate normality implies one fund separation.
+
+4.8. In the above discussion, we derived the necessary and suffi- cient condition for two fund separation. In this and the next section, we will show that when two fund separation obtains and markets for risky assets are in equilibrium, a simple linear restriction on asset returns is in effect. That is, the equilibrium relation among asset returns is linear.
+
+We first give a definition of a market portfolio. Let ~ f ,
+
+> 0 be individual i's initial wealth, and let wij be the proportion of the initial wealth invested in the j-th security by individual i. The total wealth in the economy is wmo s x w;,, Two Fund Separation and Linear Valuation where I is the total number of individuals in the economy. In equi- librium, the total wealth Wmo is equal to the total value of securities.
+
+Let wmj denote the proportion of the total wealth contributed by the total value of the j-th security. We will call the wmj's the portfolio weights of the market portfolio. For markets to clear, we must have Dividing both sides of (4.8.1) by Wmo, we have That is, the market portfolio weights are a convex combination of the portfolio weights for individuals.
+
+4.9. We claim that when two fund separation obtains, the mar- ket portfolio is a frontier portfolio. We have shown in Section 4.2 that when two fund separation holds, the separating portfolios must be frontier portfolios and, indeed, any two distinct frontier portfolios can be the separating portfolios. In that case, each individual will hold a linear combination of the two separating portfolios. Section 3.13 demonstrated that any linear combination of frontier portfolios is on the frontier, which implies that each individual holds a frontier portfolio. Section 4.8 showed that in market equilibrium, the market portfolio is a convex combination of individuals' portfolios. Thus the market portfolio is a convex, and therefore linear, combination of frontier portfolios and is itself on the frontier.
+
+Next we recall from Section 3.16 that if p is a frontier portfo- lio other than the minimum variance portfolio and q is any feasible portfolio, we have We have demonstrated above that when two fund separation obtains, the market portfolio is on the portfolio frontier in equilibrium. Hence, if the market portfolio is not the minimum variance portfolio, we get
+
+Foundations for Financial Economics where is the rate of return on the market portfolio, and Since any risky asset is itself a feasible portfolio, relation (4.9.1)
+
+implies that for all?'= 1,2 ,..., N.
+
+Note that relation (4.9.1), which holds for all frontier portfolios p other than the minimum variance portfolio, is a mathematical fact that follows from the portfolio frontier mathematics without using economic reasoning. Two fund separation plus market clearing allows us, however, to identify that the market portfolio is on the portfolio frontier. If the market portfolio is not of minimum variance, then relation (4.9.3) follows, which places a linear restriction on expected asset returns in equilibrium. Thus the economic content of (4.9.3)
+
+lies in the conclusion that the market portfolio is on the portfolio frontier.
+
+Let us rewrite relation (4.9.3) in the following form: Suppose that the market portfolio is an efficient portfolio. Then E[rm\ - E[Qm)] > 0, since zc(m) is inefficient. Relation (4.10.1) is drawn in Figure 4.10.1. The higher the fim for asset j, the higher its equilibrium expected rate of return. The equilibrium expected rate of return on a risky asset depends upon the covariability of its rate of return with the rate of return on the market portfolio. The expected rates of return on all risky assets and on all feasible portfolios lie Two Fund Separation and Linear Valuation I Figure 4.10.1: A Security Market Line along a line, which is termed the security market line, as shown in Figure 4.10.1.
+
+When the market portfolio is an inefficient portfolio, we still have a linear relation between E[fj\ and Pjm. However, the slope of the line in the E[fj] - Pjm plane is negative. In this case, the higher the covariability between an asset's rate of return with that on the market portfolio, the lower its equilibrium expected rate of return.
+
+We can rewrite (4.10.1) as follows: Then the higher a risky asset return's covariability with the zero covariance portfolio with respect to the market portfolio, the higher its equilibrium expected rate of return will be. Figure 4.10.2 graphs relation (4.10.2) when E[Fm] - E [ L ( m ) ]  < 0.
+
+4.11. In the previous two sections, we derived a linear restric- tion on equilibrium expected rates of return on risky assets when two fund separation obtains. In the analysis, it was assumed that the market portfolio was not the minimum variance portfolio. In
+
+Foundations for Financial Economics Figure 4.10.2: A Security Market Line this section, we shall analyze a special case of two fund separation and show that the market portfolio is an efficient portfolio. Thus a relation like (4.10.1) is valid in equilibrium.
+
+Let us assume that individuals' utility functions are increasing and strictly concave. Note that monotonicity and strict concavity imply strict monotonicity. In addition, we assume that the rates of return on assets are multivariate normally distributed. We show first that, under these conditions, each individual will choose to hold an efficient portfolio. We have observed in Section 4.7 that a linear combination of multivariate normal random variables is a normal random variable. Thus the rate of return on any portfolio chosen by an individual is normally distributed. Let p denote the portfolio chosen by individual I. The expected utility of individual i's choice is E [ u W { l +  Fp))] = E [u; (w; (1 + E [rp] + a{rp)2))], (4.11.1)
+
+where 2 denotes a standard normal random variable. It is clear from relation (4.11.1) that an individual's expected utility can be parame- terized by the expected rate of return and standard deviation of the portfolio he chooses to hold. In other word, individuals' preferences Two Fund Separation and Linear Valuation can be completely specified by their preferences for expected rates of return and standard deviations of feasible portfolios.
+
+Now we show that strict monotonicity of an individual's utility function implies that he prefers a higher expected rate of return, ceteris paribus. Defining V,(E[rp],a(rp)] =: E[ui(w;(l + E[fp] + a(rp)2))]
+
+and partially differentiating V, with respect to E[fp\ gives: where ml + E IFp] + w)
+
+(4.11.3)
+
+and where the strict inequality follows from the strict monotonicity of ui (-). That is, individual i prefers a higher expected rate of return, ceteris paribus.
+
+Next we claim that the strict concavity of an individual's utility function implies that he prefers a portfolio with a lower standard deviation, ceteris paribus. To see this, we partially differentiate Vj with respect to o(rp) to get = w; cov (U'. ( W )
+
+,2), where we have used the definition of covariance to write the second equality. Note that 6" is perfectly correlated with 2. By the strict concavity of tii(-), we know that ti;(-) is strictly decreasing. Hence it follows that and 2 are strictly negatively correlated, and ~ov(u:(@'),l) < 0. So a strictly risk averse individual prefers a portfolio with a lower standard deviation, ceteris paribus.
+
+Now we are ready to show that under the conditions postu- lated above, individuals will choose to hold efficient portfolios. We first demonstrate that individuals' indifference curves in the mean- standard deviation plane are positively sloped. Totally differentiat- ing V; with respect to E[fp] and ff[fp) and setting the result equal to zero, we get
+
+Foundations for Financial Economics.
+
+\ Figure 4.11.1: Indifference Curves when Asset Re- turns Are Normally Distributed which was to be shown.
+
+Finally, that individuals will choose to hold efficient portfolios is demonstrated in Figure 4.11.1. The hyperbola in Figure 4.11.1 is the portfolio frontier. The three positively sloped curves are indif- ference curves. The indifference curves further toward the northwest represent higher utility levels. This follows from the signs of rela- tions (4.11.2) and (4.11.4). Thus an individual will choose to hold a portfolio that is represented by the point of tangency between his indifference curve and the portfolio frontier. Then his strictly posi- tively sloped indifference curves imply that he will choose an efficient portfolio.
+
+Applying the above argument to all individuals, we know that all individuals hold efficient portfolios. Therefore, the market portfolio is an efficient portfolio, since it is a convex combination of individuals' portfolios. Furthermore, we have for any feasible portfolio Two Fund Separation and Linear Valuation The equilibrium relations among expected rates of return on assets are as described in Figure 4.10.1. Relations (4.11.6) and (4.11.7)
+
+are known as the Zero-Beta Capital Asset Pricing Model which was developed by Black (1972) and Lintner (1969).
+
+4.12. In carrying out the above analyses, we have assumed that there is no riskless asset. These next three sections are devoted to the case where there is a riskless asset.
+
+Suppose first that the expected rate of return on the minimum variance portfolio exceeds the riskless rate, i.e., rf < A/C. Let e be the tangent portfolio of Figure 3.18.1. From (3.19.2), we know that the rate of return on any feasible portfolio q can be expressed as: with Cov(fe, Ge) = E[he] = 0. We claim that is a necessary and sufficient condition for rf } to exhibit two fund separation. , We prove the necessity part first. Suppose that two fund sep- aration holds. Along the line of arguments of Section 4.2, the two separating portfolios must be frontier portfolios and can be chosen to be portfolio e and the riskless asset. Therefore, when there ex- ists a riskless asset and two fund separation holds, we have two fund monetary separation. Arguments similar to those of Section 4.3 then show that E[Ge\{l - Pqe)rf + Pqefe] = 0, (4.12.3)
+
+for all portfolios q. As rf is nonstochastic and we can always pick q to be any risky asset j, it follows that is implied by two fund separation when a riskless asset exists.
+
+The sufficiency part follows easily from the arguments of Sec- tion 4.4 and the fact that (4.12.2) implies (4.12.3). Thus, E[Ge\re] = 0 implies two fund separation when a riskless asset exists.
+
+Foundations for Financial Economics Similar arguments also show that when rf > A/C is a necessary and sufficient condition for two fund separation, where (Zjet)gl are such that with Cov(rei, Â£jet = E[Zjei\ = 0 and Pjei = Cov(fj, Fet)/n2 (re').
+
+4.13. We shall assume throughout this section that two fund separation holds. When rf # A/C and risky assets are in strictly positive supply, the tangent portfolios of Figures 3.18.1 and 3.18.2 must be the market portfolios of risky assets in equilibrium. There- fore, in those two cases, the market portfolios of risky assets are on the portfolio frontier. Hence, using (3.19.1), we know for any portfolio q in the market equilibrium. This is the tradi- tional Capital Asset Pricing Model (CAPM) independently derived by Lintner (1965), Mossin (1965), and Sharpe (1964).
+
+When rf = A/C, the story is a little different. If this is an equilibrium, we claim that the riskless asset is in strictly positive supply and the risky assets are in zero net supply. To see this we recall that when two fund separation holds, individuals hold frontier portfolios. In addition, Section 3.18 says that when rf = A/C, an individual puts all his wealth into the riskless asset and holds a self- financing portfolio. For markets to clear, it is then necessary that the riskless asset be in strictly positive supply and the risky assets be in zero net supply.
+
+As for equilibrium relations among asset returns, we cannot say much beyond (3.19.1).
+
+4.14. In Section 4.13, we were not able to sign the risk premium of the market portfolio in the presence of two fund separation. We Two Fund Separation and Linear Valuation will show in this section that when investors have strictly increasing utility functions, the risk premium of the market portfolio must be strictly positive when the risky assets are in strictly positive supply and (4.12.2) holds.
+
+We first claim that an investor will never choose to hold a port- folio whose expected rate of return is strictly lower than the riskless rate when his utility function u(-) is strictly increasing and concave.
+
+Let F be the random return of a portfolio chosen by u(-) such that Note that E[u(Wo(l + ?))I 5 u(E[Wo(l + F)])
+
+(4.14.2)
+
+< u(Wo(l+ re)), where the first inequality follows from the Jensen's inequality and the second inequality follows from the strict monotonicity of u. Relation (4.14.2) contradicts the hypothesis that the individual chooses to hold the portfolio with a random rate of return f.
+
+Given that (4.12.2) holds and risky assets are in strictly positive supply, we know from Section 4.13 that rf # A/C. Suppose that rf > A/C. Then no investor holds a strictly positive amount of the market portfolio. This is inconsistent with market clearing. Thus in equilibrium, it must be the case that rf < A/C and the risk premium of the market portfolio is strictly positive. In this event, no individuals hold inefficient portfolios and the half line in the standard deviation-expected rate of return space composed of efficient frontier portfolios and the riskless asset is termed the Capital Market Line in the literature.
+
+Before we leave this section, we note that in the above proof when there exists a riskless asset, an investor will never choose to hold a portfolio having an expected rate of return strictly less than the riskless rate we only used the fact that an investor can always invest all his money in the riskless asset. Hence the conclusion holds even when borrowing is not allowed. We ask the reader to show in Exercise 4.6 that in such event, when investors choose to hold efficient frontier portfolios and the riskless asset is in strictly positive supply, (4.11.6) and (4.11.7) are valid and E[?m(m)\ 2 rf. That is,
+
+Foundations for Financial Economics for any feasible portfolio and We also ask the reader to work out a similar conclusion when the riskless borrowing is allowed at a rate strictly higher than the riskless lending rate in Exercise 4.7. In that case, we have for any feasible portfolio and where r~ and r;, denote the riskless lending rate and borrowing rate, respectively. The versions of the Capital Asset Pricing Model of (4.14.3) and (4.14.4) and (4.14.5) and (4.14.6) will be termed the constrained borrowing versions of the CAPM. The constrained bor- rowing versions of the CAPM are the main subjects of discussion in Chapter 10 when econometrics issues in testing the CAPM are discussed.
+
+4.15. In the above analysis, we derived the traditional CAPM and the zero-beta CAPM by way of two fund separation. The risk premiums of risky assets are related to the risk premium of the mar- ket portfolio in a linear fashion. In this and the next section, we will discuss two simple situations where we can explicitly write down how the risk premium of the market portfolio is related to investors' optimal portfolio decisions.
+
+First, suppose that there exists a riskless asset with a rate of return rf and that the rates of return of risky assets are multivariate normally distributed. Let Wi denote the optimally invested random time-1 wealth for individual i. Section 1.18 shows that E [ u W [ f ,  - rf)] = 0 Vi, j, (4.15.1)
+
+where N W, = w;(l+ rf + - rf)).
+
+j=1 Two Fund Separation and Linear Valuation Using the definition of a covariance, (4.15.1) can be written as Note that 6'. and 5 are bivariate normally distributed. We will employ the following mathematical result: Let ? and %be bivariate normally distributed. Then we have provided that g is differentiable and satisfies some regularity condi- tions. This mathematical result is called the Stein's lemma. Assum- ing that u; is twice differentiable and applying the Stein's lemma to (4.15.2), we have Defining the i-th investor's global absolute risk aversion dividing both sides of (4.15.3) by E[u"(tyi)], summing across i, and rearranging gives: where I Note that I(E:=~ 9,l)"l is the harmonic mean of individuals' global absolute risk aversion. We can interpret ~ ~ ~ ( g = ~
+
+0 , l ) l  to be the aggregate relative risk aversion of the economy in equilibrium.
+
+Foundations for Financial Economics Relation (4.15.4) implies that I E[Fm - rf] = (r O , F ~ ) - ~ M ' ~ ~ V ~ ~ ( F ~ ) ; (4.15.5)
+
+i=1 that is, the risk premium on the market portfolio is proportional to the aggregate relative risk aversion of the economy. Thus, the risk premium of the market portfolio is strictly positive when investors' utility functions are increasing and strictly concave. For example, when investors' utility functions are negative exponential, uj(z) = exp{-aiz}, with a. > 0, ai a strictly positive constant.
+
+Substituting (4.15.4) into (4.15.3) gives the familiar CAP lation (4.13.1). However, in the present situation, we have a relation for the market risk premium (4*15.5).
+
+4.16. Now assume instead that utility functions are quadratic: ui(z) = aiz - 5%' a;, bj > 0.
+
+(4.16.1)
+
+Note that individual i reaches satiation when z > a&.
+
+We therefore assume that the rates of return of assets and the initial wealth are such that satiation will not be attained.
+
+Substituting (4.16.1) into (4.15.1) and rearranging gives where we have used the definition of covariance. Note that (2 - is equal to 4, the global risk aversion of investor i with a quadratic utility function. This result does not require the as- sumption that asset returns are multivariate normally distributed.
+
+Summing (4.16.2) over i gives Two F u n d  Separation and Linear Vduation where Relation (4.16.3) implies that Substituting (4.16.4) into (4.16.3) gives the CAPM relation (4.13.1).
+
+4.17. In the context of the CAPM, a risky asset's beta with respect to the market portfolio is a sufficient statistic for its contri- bution to the the riskiness of an individual's portfolio. Risky assets whose payoffs are positively correlated with those of the market port- folio have positive risk premiums. In such event, the higher the asset beta, the higher the risk premium. The intuition of this relationship can be understood as follows. Consider two assets A and B. Asset A and asset B have the same expected time-1 payoffs. However, asset A's payoffs are positively correlated with the payoffs of the market portfolio, while asset B's payoffs are negatively correlated with that of the market portfolio. That is, asset A has high payoffs when the economy is in relatively prosperous states, while asset B has high payoffs when the economy is in relatively poor states. One unit of the payoff is more valuable in a relatively poor state than in a relative abundant state. Therefore, asset B is more desirable, and its time4 price will be higher than that of asset A. Since assets A and B have the same expected payoffs, the expected rate of return of asset A will be higher than that for asset B. In other words, asset A's payoff structure is not as attractive as that of asset B. Therefore, it has to yield a higher expected rate of return than asset B to make itself as attractive as asset B in equilibrium.
+
+4.18. Recall from previous analyses that if the rates of return of risky assets satisfy (4.12 .I) and (4.12.2), two fund separation implies that there exists a linear relation among expected returns of assets.
+
+In equilibrium, the coefficients of the linear relation are identified to
+
+Foundations for Financial Economics be related to the beta's of asset returns with respect to the return on the market portfolio.
+
+Relations (4.12.1) and (4.12.2) may be loosely interpreted as saying that the rate of return on an risky asset is generated by a "one factor model" plus a random noise whose conditional expectation given the factor is identically zero. Note however that the residuals from this "one factor model" are not uncorrelated across states. Also, the factor happens to be the rate of return on a portfolio. In such event, the set of portfolios that will be chosen by some risk averse investor is spanned by the riskless asset and the factor. We have identified this set to be just the portfolio frontier!
+
+Suppose that (4.12.2) does not hold, but, instead, the Ge's are uncorrelated. Intuitively, the above mentioned spanning property may still be true approximately, as long as there are a large num- ber of assets such that the can be diversified away by forming well-diversified portfolios. Then it may follow that a linear rela- tion among expected asset returns will be valid approximately. The following analyses formalize this intuition and show that a linear re- lation among expected asset returns will hold for most of the assets approximately if there is no arbitrage opportunity (in the limit) and there are a large number of assets.
+
+4.19. We consider a sequence of economies with increasing num- bers of assets. In the n-th economy, there are n risky assets and a riskless asset. The rates of return on risky assets are generated by a K-factor model: where and Two Fund Separation and Linear Valuation where B' is a fixed strictly positive real number and /% are real num- bers. We also assume that the gc's are rates of return on portfolios.
+
+Using matrix notation, we can write (4.19.1) as where a" is an N x 1 vector of Bn is an n x K matrix whose - elements are /%, j = 1,2, ..., n, k = 1,2, ..., K ,  and 5" is a K-vector of &'s.
+
+To avoid degenerate cases, we will only be interested in economies with more than K risky assets. That is, an implicit assumption to be made henceforth is that n > K.
+
+4.30. We first note that if then there exists an exact linear relation among expected rates of return on assets in the n-th economy, if one cannot create something out of nothing. This follows since the returns on risky assets are completely spanned by the K factors (portfolios) and the riskless asset.
+
+Formally, consider a portfolio of the K factors and the riskless asset, yy, with K where y$ is the proportion invested in the riskless asset and y$ is the proportion invested in the k-th factor. The rate of return on this portfolio is K K Note that the factor components of the rate of return on yy replicate those of asset j.
+
+Foundations for Financial Economics We claim that a",h be equal to (1 - zfal (%)r /. We shall show that if this is not the case, something can be created out of nothing. Suppose that We establish a portfolio by investing one dollar in y," and shorting one dollar's worth of security j. This portfolio costs nothing. Its rate of return, however, is which is riskless and strictly positive. Hence something has been created out of nothing, or there exists a free lunch.
+
+Barring free lunches and reversing the above arguments for the case a," > (1 - zEl (%)r,, we thus have K a," = (1 - E % ) r , .
+
+(4.20.2)
+
+k= 1 Substituting (4.20.2) into (4.19.5) and taking expectations, we get E[Fn] = B~ E[P - rfln], (4.20.3)
+
+where 1" is an n x 1 vector of ones. That is, there exists an exact linear relation among expected asset returns.
+
+4.21. When the T's are not zeros, the story is a little compli- cated. Formally, in economy n, a portfolio of the n risky assets and the riskless asset is an arbitrage portfolio if it costs nothing. An ar- bitrage opportunity (in the limit) is a sequence of arbitrage portfolios whose expected rates of return are bounded below away from zero, while their variances converge to zero.
+
+Roughly, an arbitrage opportunity is a costless portfolio in an economy with a large number of assets such that its expected rate of Two Fund Separation and Linear Valuation return is bounded below away from zero while its variance is negli- gible. That is, it is almost a free lunch.
+
+We wish to show that if there is no arbitrage opportunity, then a linear relation among expected asset returns will hold approximately for most of the assets in a large economy.
+
+We first claim that, for most of the asset in large economies, where Ã denotes approxi- mately equal to. To see this, we fix e > 0, however small. Let N(n)
+
+be the number of assets in the n-th economy such that the absolute value of the difference between the two sides of (4.21.1) is greater than e .  Without loss of generality, assume that If we can show that there exists N < oo such that N(n) < N for all n, we are done. This follows since there will be at most N assets that satisfy (4.21.2) for arbitrarily large n and e can be arbitrarily small. We shall proceed by contraposition.
+
+Suppose that there does not exist a finite fi such that N(n) < iV for all n. Then there must exist a subsequence of {n = K + 2, K + 3,. . . ,}, denoted by, {ni}, such that N(n;) 4 CQ as n; 4 CQ.
+
+We construct a sequence of arbitrage portfolios as follows. First, construct N(n;) arbitrage portfolios that have no factor risk as we did in Section 4.20 for risky assets j = 1,2,. . . , N(n;) in economy n;.
+
+The rate of return for the j-th arbitrage portfolio is K a)"' - (1 - Ep;*)rfl +ST?, (4.21.3)
+
+k = l where if a,"' - (1 - EfBl ffl) > 0; s" ' if a,"' - (1 - Efslffi)
+
+< 0.
+
+and (4.19.1), we know for all but at most N risky assets in any economy. Thus, for economies with the number of assets much larger than N, a linear relation among expected asset returns holds approximately for most of the assets. This relation is the Arbitrage Pricing Theory (APT) origi- nated by Ross (1976).
+
+Foundations for Financial Economics Next, form a portfolio of these arbitrage portfolios with a con- stant weight, l/N(n;), on each. The resulting portfolio is still an arbitrage portfolio with an expected rate of return and a variance where we have used (4.19.2), (4.19.3), and (4.19.4).
+
+Since N(nd -+ oo as I 4 oo, the variances of the sequence of arbitrage portfolios converge to zero, while their expected rates of return are bounded below away from zero by e. Thus there exists an arbitrage opportunity, a contradiction. We hence conclude that there must exists a finite N such that N{n) < N for all n.
+
+4.22. Now using the fact proven above that for a given e' > 0, however small, there exist at most N risky assets such that Two Fund Separation and Linear Valuation 4.23. In the above derivation of the APT, a linear relation among the expected rates of return on the risky assets hoi imately for most of the assets when the economy is large. On t other hand, for any given asset, the deviation of its expected rate return from the APT relation might be very large. For the APT to make predictions in an economy with a finite number of assets, we would like to bound the deviation from the APT linear relation for any asset. To achieve this goal, we will make assumptions on the structure of the returns on risky assets that are somewhat different than those used in the above derivation of APT. Equilibrium rather than arbitrage arguments will be used in the following derivation.
+
+The resulting relationship among risky assets is sometimes called equilibrium, A P T .
+
+Suppose that there are N risky assets in the economy, indexed by j = 1,2,. . . , N, and a riskless asset. These risky strictly positive supply. The rate of return on the riskless asset is r f , and the rates of return on risky assets are generated by a K-factor model like (4.19.1): with E[e.}=Q and?-Â¥>-1 (4.23.2)
+
+We also assume that the random variables are independent and that ik are rates of return on portfolios.
+
+Note that in Section 4.19 we only required that Zj and el be uncorrelated if j # I .  Here a stronger independence assumption is used. Also, since we are not considering a sequence of economies, we do not need an assumption like (4.19.4).
+
+Agents in the economy have utility functions that are increasing, strictly concave, and three timescontinuous1y differentiable, We also assume that agents' Arrow-Pratt measure of absolute risk aversion Ai(z)
+
+-u^[z)/ul(z) is bounded from above by a constant A for all !' and that uy > 0.
+
+Foundations for Financial Economics Recall from Section 4.20 that, when Â£ ZE 0, Our purpose here is to bound the deviation of E[r.} from the right- hand side of (4.23.3), in market equilibrium, when ?, is not identically zero.
+
+4.24. Consider a portfolio of the K factors and the riskless asset having a rate of return This portfolio is constructed in the same way as Section 4.20. Next form an arbitrage portfolio by investing one dollar in the above port- folio and shorting one dollar's worth of risky asset j. This arbitrage portfolio has a rate of return Let Wio be individual i's initial wealth, and let & be individual i's time-1 random wealth. Then a = 0 is the unique solution to the following problem: max Ct ~ [ u i ( W ~ + a?)}, as 6'. + aF is a feasible random wealth for individual i. The first order necessary condition for a = 0 to be an optimum is Two Fund Separation and Linear Valuation Ill Using the definition of covariance, the fact that E\e-\ = 0, and (4.24.1), the above relation can be written as Now we claim that, for all j such that 9 + 0, To see this, we note that risky assets are in strictly positive supply.
+
+Therefore, in equilibrium, a risky asset st be held by some indi- vidual. Suppose risky asset j with Zj # 0 is held in a strictly positive amount in equilibrium by individual i. By the strict concavity of ui and the assumption that 5 is independent of all the other random variables, we know that Then (4.24.3) holds for j by the fact that u: > 0. The above argu- ments can be applied to all j such that 5 # 0. Thus we have that (4.24.3) holds for all such j's.
+
+As a consequence of the above analysis, we can also conclude that if 5 # 0, then asset j is held in a strictly positive amount by all individuals. To see this, we note that (4.24.2) holds for all assets and all individuals. If 6 # 0, we must have (4.24.3), which in turn implies that (4.24.4) must hold for all i. This is possible only if every individual holds a strictly positive amount of asset j, as ?j is independent of all the other random variables by assumption.
+
+4.25. Now fix risky asset j with 5 # 0. Let a,, be the dollar amount invested in risky asset j by individual i. From Section 4.24, we know that a,, > 0. Define
+
+Foundations for Financial Economics The Lagrange remainder form of Taylor's expansion gives = ajjE[U;(~)z;], where the second equality follows from the assumption that 6 and all the other random variables are independent and where { is a random variable whose value lies between % and q.
+
+By the assumption that 5 >. -1, we know herefore, lE[u;'(t)Â£;] < E[ sup [u;'(z)l~;].
+
+(4.25.2)
+
+We claim that To see this, we first note that since -u%)/u#)
+
+< A, (4.25.4)
+
+$A sup u',(z)<Au',(*:-a,,), where the second inequality follows from the concavity of ui. Next, we observe that Two Fund Separation and Linear Valuation Therefore, u f i  - on,} u ~ ( ~ ~ ) e A a i j .
+
+(4.25.5)
+
+Relations (4.25.4) and (4.25.5) imply (4.25.3).
+
+Now substituting (4.25.3) into (4.25.2) gives Note also that, since uy >. 00, by the law of iterative expectations and the conditional Jensen's inequality, we have Finally, substituting (4.25.1), (4.25.6), and (4.25.7) into (4.24.2)
+
+gives K laj - (1 - r n k ) r f 1  5 ~ t - ' ~ i j ~ a r ( t j )
+
+a,,; k= 1 or equivalently, Let the total market value of asset j be denoted by Sj. We claim that in equilibrium there exists an i such that ajj 5 Sj/I, where I is the number of individuals in the economy. Suppose that this is not true, that is ajj > S,/I for all i. Then we must have a contradiction. Since (4.25.8) holds for all i, we thus have
+
+Foundations for Financial Economics Relation (4.25.9) gives an explicit bound of the deviation of E[Fj]
+
+from the APT relation. The bound is small when Sj/I, A, or Var(Zj)
+
+is small, ceteris paribus. This bound can be improved by tightening the lower bound of 5, which readers are asked to do in Exercise 4.9.
+
+Exercises 4.1. Derive the zero-beta CAPM under the assumption that asset returns are multivariate normally distributed. Also derive the zero-beta CAPM under the assumption that investors' utility functions are quadratic.
+
+4.2. Let the random time-1 payoff of a risky security be G, and let S., be its time 0 equilibrium price. Suppose that the CAPM h01ds and let the security's beta be denoted by Prim. Show that where * - E[rm\ - rf 4 = e m )
+
+and 4.3. Suppose that the CAPM holds. Let 5 and 2 be the random time 1 payoffs of two securities with time 0 prices S., and Sz, respec- tively. Show that the equilibrium price for a security having a time 1 payoff + 2 is equal to S., + Sz.
+
+4.4. Consider an economy with N risky assets having independent and identically distributed rates of return. Show that there is one fund separation.
+
+4.5. Suppose that there are five state of the nature denoted by wn n = 1,2,. . . ,5, each of which is of equal probability. Consider two risky assets with rates of returns FA and & as follows: Two Fund Separation and Linear Valuation Suppose that assets A and B are the only two assets in the economy. Do we have one fund separation? Explain your answer in detail. If your answer is no, how could the numbers in the above table be rearranged to get one fund separation?
+
+4.6. Suppose that there is a riskless asset in strictly positive supply and investors prefer to hold efficient frontier portfolios. Borrow- ing at the riskless rate rf is prohibited. Show that (4.11.6) and (4.11.7) hold and E[Gm)]
+
+> rf.
+
+4.7. Suppose that investors in the economy would like to hold efficient frontier portfolios and that the riskless borrowing rate is strictly higher than the riskless lending rate, that is rb > r ~ .
+
+Describe the viable positions of r;,, TL, and E[rmup]
+
+in equilibrium. S that (4.11.6) and (4.11.7) hold and rb 2 E[Fzc(m)] > r ~ .
+
+4.8. Let K = 1 in (4.23.1). Under the independence assumption made there, does two fund separation exist?
+
+4.9. In the context of Sections 4.23-4.25, assume instead that Zj > -l/Sj, where Sj denotes the total market value of asset j. Show that emarks. For discussions on K-fund separation in general see Ross (1978). Our treatment of two fund separation is taken from Litzen- berger and Ramaswamy (1979). Note that (4.3.3) is in general weaker than ^IP^P, Fzc(p)l = 0.
+
+Nielsen (1986) has shown that they are equivalent under certain reg- ularity conditions. For the existence of a general equilibrium of the CAPM sort, we refer readers to Nielsen (1985). The discussion in
+
+## Section 4.14 is adapted from Merton (1982). For a derivation of the
+
+Foundations for Financial Economics Stein's 1emma and its original application to finance? see Rubinstein (1976).
+
+The derivation of the arbitrage pricing relation is different from made a simplifying assumption that the factors themselves are portfolios. Also, our definition for an arbitrage op- portunity is slightly weaker. Huberman (1983) has a very nice proof of the APT when factors are not portfolios, to which we refer in- terested readers. For more recent developments of the APT, see Chamberlain and Rothschild (1983), Chamberlain (1983), and Reis- man (1987a, 1987b, 1987~). Connor (1984) is the first to discuss APT relation using equilibrium arguments. The discussions on the explicit bound of the pricing deviation in finite economies are a com- bination of Dybvig (1983) and Grinblatt and Titman (1983). For a review of recent developments of APT, see Connor (1987).
+
+Black, F. 1972. Capital market equilibrium with restricted borrow- ing. Journal of Business Chamberlain, G. 1983. Funds, factors, and diversification in arbi- trage pricing models. Econometrics 50:1305-1324.
+
+Chamberlain, G., and M. Rothschild. 1983. Arbitrage, factor struc- ture, and mean-variance analysis on large asset markets. Econo- metrica 50:1281-1304.
+
+Connor, G. 1984. A unified beta pricing theory. Journal of Economic Theory 34:13-31.
+
+Connor, G. 1987. Notes on the arbitrage pricing theory. In Fron- tiers of Financial Theory. Edited by G. Constantinides and S.
+
+Bhattacharya. Rowman and Littlefield. Totowa, New Jersey.
+
+Dybvig, P. 1983. An explicit bound on individual assets' deviations from APT pricing in a finite economy. Journal of Financial Eco- nomics 12:483496.
+
+Grinblatt, M., and S. Titman. 1983. Factor pricing in a finite econ- omy. Journal of Financial Economics 12:497-507.
+
+Two Fund Separation and Linear Valuation Huberman, G. 1983. A simplified app to arbitrage pricing the- ory. Journal of Economic Theory Lintner, J. 1965. The valuation of risk assets and the selection of risky investments in stock portfolios and capital budgets. Review of Economics and Statistics 47: 13-37.
+
+Lintner, J. 1969. The aggregation of investor's diverse judgements and preferences in purely competitive markets. Journal of Fi- nancial and Quantitative Analysis 4:346-382.
+
+Litzenberger, R., and K. Ramaswamy. 1979. On distributional re- strictions for two fund separation. TIMS Studies in the Manage- ment Science 11:99-107.
+
+Merton, R. 1982. On the microeconomic theory of investment un- der uncertainty. In Handbook of Ma aticd Economics, Vo].
+
+II:601-669. Edited by K. Arrow and Mossin, J. 1966. Equilibrium in a capital asset market. Econometrics.
+
+35:768-783.
+
+Nielsen, L. 1985. Risk-taking and capital market equilibrium, Un- published Ph.D. thesis, Harvard University.
+
+Nielsen, L. 1986.
+
+utual fund separation, factor structure and ro- bustness, unpublished manuscript, Department of Economics, University of Texas at Austin.
+
+Reisman, H. 1987a. A general approach to the arbitrage pricing the- ory. Mimeo. Department of Finance, University of Minnesota.
+
+Reisman, H. 1987b. The arbitrage pricing theory with conditional information. Mimeo. Department of Finance, University of Min- nesota.
+
+Reisman, H. 1987c. Intertemporal arbitrage pricing theory. Mimeo.
+
+Department of Finance, University of Minnesota.
+
+Ross, S. 1976. Arbitrage theory of capital asset pricing. Journal of Economic Theory 13:341-360.
+
+Ross, S. 1978. Mutual fund separation in financial theory: The sep- aration distributions. Journal of Economic Theory 17:254-286.
+
+Rubinstein, M. 1974. An aggregation theorem for securities markets.
+
+Journal of Financial Economics 1:225-244.
+
+Sharpe, W. 1964. Capital asset prices: A theory of capital market equilibrium under conditions of risk. Journal of Finance 19:425- 442.
+
+## ALLOCATIV
+
+## AND THE VA
+
+## STATE CONT
+
+5.1. In Chapter 4, uncertainty in the economy was character- ized by distributions of returns on assets. However, it was noted in
+
+## Chapter 1 that the primitive source of uncertainty is the uncertain
+
+states of nature, the collection of which is denoted by f2 with generic elements w. Recall that a state of nature is a complete description of a possible realization of the exogenous uncertain environment.
+
+Very generally, an individual's primitive objects of preference are consumption in different states of nature. A state contingent consumption claim is a security that pays one unit of the consump- tion good when one particular state of the world occurs and nothing otherwise. A state contingent claim is an elementary claim. Exist- ing assets, however, may be viewed as complex bundles of elementary claims. For example, a riskless asset is a bundle of one of each state contingent claim. In a pure exchange single good economy, the ag- gregate endowment of the consumption commodity is also a complex bundle of elementary claims. The first part of this chapter examines
+
+Foundations for Financial Economics the role of financial markets in allocating resources among individuals and the types of securities needed to achieve an efficient allocation.
+
+In allocationally efficient financial markets, security prices may be described in a simple way. We will show that when the alloca- tion of state contingent claims is efficient and individuals have time- additive state-independent utility functions, prices in the economy are determined as if there were a single individual in the economy endowed with the aggregate endowment. This representative agent has a time-additive state-independent utility function. The utility function of the representative agent will in general depend upon the distribution of the initial wealth of individuals. As a consequence, the prices in the economy will in general depend on the distribution of the initial wealth among individuals. This chapter also examines the necessary and sufficient conditions on individuals' utility func- tions for the prices in the economy to be determined independently of the distribution of initial wealth. Utility functions that exhibit this property are said to have the aggregation property.
+
+5.2. Consider a two-period pure exchange economy under un- certainty with a single perishable consumption good in both periods.
+
+Individuals choose their consumption for today, say time 0, and state contingent claims on consumption for tomorrow, say time 1. There is uncertainty about which state of the world will occur at time 1.
+
+Assume that individuals have utility functions for the consumption good that are strictly increasing, strictly concave, and differentiable.
+
+Without loss of generality, the single consumption good is used as the numeraire throughout.
+
+5.3. An allocation of state contingent consumption among in- dividuals, denoted by { ( ~ ; ~ , c ~ ~ , w E n);; = 1,2,. . . ,I}, is feasible if and Valuation of State Contingent Securities where cia denotes individual i's time4 consumption allocation, ciw denotes individual Ãˆ' time-1 consumption allocation in state w, Co denotes the aggregate time4 consumption available, and Cw denotes the aggregate time-1 consumption available in state w.
+
+An allocation of state contingent consumption claims is said to be Pareto optimalor Pareto efficient if it is feasible and if there do not exist other allocations which are feasible and can strictly increase at least one individual's utility without decreasing the utilities of others.
+
+For example, an allocation that gives a single individual all the consumption available and others nothing is a Pareto optimal allo- cation. This example illustrates that Pareto optima1ity is a weak criterion and does not provide a framework for addressing many so- cial choice issues.
+
+5.4. From the classical second welfare theorem (see, e.g., Varian (1978)), we know that corresponding to every Pareto optimal allo- cation, there exist a set of non-negative numbers, {&}L, such that the same allocation can be achieved by a social planner maximizing a linear combination of individuals' utility functions using {Ai}:=, as weights, subject to resource constraints: and where viw is the i-th individual's subjective probability assessment about the occurrence of state w and uiw(-,-) is the i-th individual's
+
+Foundations for Financial Economics utility function for time4 consumption and for time-1 state* con- sumption. We will only be interested in Pareto optimal allocations that correspond to strictly positive weightings A,, so all the 4 ' s  to appear are strictly positive.
+
+Forming the Lagrangian gives By the assumption that utility functions are strictly concave and the fact that the weights, {A,}L, are strictly positive, the first order conditions for the above programming problem are necessary and sufficient for a global optimum. They are and cio = co.
+
+(5.4.4)
+
+Substituting relation (5.4.2) into relation (5.4.1) for the same indi- vidual gives It follows from (5.4.5) that a feasible allocation of state contin- gent consumption is Pareto optimal if and only if, for each state, marginal rates of substitution between present consumption and fu- ture state contingent consumption are equal across individuals.
+
+Valuation of State Contingent Securities 5.5. A Pareto optimal allocation can be attained in a com- petitive economy if there exist a complete set of state contingent consumption claims. To see this, let A,, denote the price at time 0 of state contingent claim that pays one unit of consumption at time 1 if and only if state a; is the true state.
+
+An individual's problem is where e.0 and ejw denote individual i's endowments for time-0 con- sumption and for time-1 state-a; consumption, respectively. We as- sume that an individual's endowment is such that his wealth at time 0 is strictly positive.
+
+Forming the Lagrangian gives The first order conditions, which are necessary and sufficient for an optimum are and the budget constraint for which 6. is a shadow price. Note that 8; > 0, as an individual's utility functions are strictly increasing.
+
+Now substituting (5.5.1) into (5.5.2), we get In market equilibrium, (5.4.3) and (5.4.4) are satisfied. Now set to be 1 and A, to be 8 ,  as in Section 5.4. It follows that an allocation in
+
+Foundations for nancial Economics a competitive economy with a complete set of state contingent claims (and a spot market for time-0 consumption) satisfies (5.4.1)-(5.4.4)
+
+and thus is Pareto optimal. Conversely, to achieve a Pareto optimal allocation corresponding to a competitive equilibrium allocation, the utility weight that the social planner assigns to individual i, A,, is equal to > 0.
+
+When we have a complete set of state contingent claim markets, we say that the markets are complete. We sometimes refer to those elementary claim prices to be state prices. For example, (bw is the state price for state m.
+
+.
+
+In actual securities markets, we do not observe state contingent claims but rather a number of complex securities such as common stocks of firms. A complex security is a bundle of state contingent claims. The efficiency of an equilibrium in this case for ar- bitrary preferences depends on whether or not the number of linearly independent securities equals the number of states.
+
+Suppose that we have an economy with one unit each of N (com- plex) securities indexed by j = 1,2,. . . , N. Security j pays off xiw units of the consumption good at time 1 in state w E f2. We will sometimes simply use xj to denote the random time-1 payoffs of se- curity j. Individuals have utility functions as in Sections 5.4 and 5.5, and their endowments are in the form of securities and time-0 con- sumption. We assume that individual i is endowed with Sy number of shares of security j and eio unit of time-0 consumption. An in- dividual buys the time4 consumption good in the spot commodity market and buys future state contingent consumption through the securities markets. We will henceforth refer to this kind of economy as a securities markets economy.
+
+Letting a,, and S j  denote the number of shares of security j held by individual i in equilibrium and the price for security j at time 0, respectively, { a i j ;  j = 1,2,. . . , N} is the solution to the following Valuation of State Contingent Securities program: The first order conditions, which are necessary an individual i's portfolio problem, are where we have used the fact that Each individual i will adjust his time-0 consumption and security holdings such that (5.6.2) is valid. This does not, however, indicate that marginal rates of substitution between present consumption and state contingent consumption are identical across individuals as re- quired for a Pareto optima1 allocation.
+
+5.7. If the number of linearly independent securities is equal to the number of states of nature, then markets are complete because any state contingent claim can be created by forming portfolios of existing securities. To illustrate this, let 101 denote the number of states of nature. Relation (5.6.2) may be written in matrix notation:
+
+Foundations for Financial Economics If the number of linearly independent securities is equal to the number of states of nature and we include only linearly independent securities in (5.7.1)) then the first matrix on the left-hand-side of relation (5.7.1) is invertible. We can therefore invert it and solve for the ratios of marginal utilities between time-1 state* and t i m e 4 consumption. Note that the matrix being inverted and the vector on the right-hand-side of (5.7.1) are both independent of individual indices; therefore: for some constants mu, w E n. The relations in (5.7.2) are the nec- essary and sufficient conditions for a feasible allocation to be Pareto optimal. Also, it follows from (5.5.3) that mu must be equal to (f>^, the state price for state w. Moreover, state contingent claims can be created by forming portfolios of the complex securities. For example, the state contingent claim that pays one unit of consumption in the first state wl and nothing otherwise is formed by holding a, shares of security j with X l w l )  x l ~ 2 >  . . . 9 xlwlnI X2w1, X2w2, + , x2aiinI (&I, &2,. . . ,Q~N)
+
+= (LO,. . . ,o)
+
+X N w l ,  X N W ~ )  . * , X N W ~ ~ ~
+
+(5.7.3)
+
+The cost of the above portfolio should just be the state price for state 1, which can be easily verified.
+
+From the previous analyses, it should be clear that securities markets in which the number of linearly independent securities is equal to the number of states are complete markets and a Pareto Optimal allocation of state contingent claims is achieved with indi- viduals trading complex securities.
+
+5.8. A common feature of complete markets economies and securities markets economies is that the values of securities are addi- tive. That is, if xu, yw, and zw are state-dependent payoffs of three complex securities with zw = xu + yw, then the value of z is equal to Valuation of State Contingent Securities the sum of the values of x and y. To see this, we note that when there exists a complete set of state contingent claims, a complex security having payoffs xu can be viewed as a portfolio of state contingent claims consisting of xu shares of the state contingent claim that pays off in state w. Thus the market value of that security must be equal to the cost of the portfolio that offers the identical state contingent payoffs, which is y *.XU.
+
+(5.8.1)
+
+wen If relation (5.8.1) were not satisfied, it would be possible to create something out of nothing, which is inconsistent with an economic equilibrium. For example, if the market value of the security were strictly greater than (5.8.1), an individual could short sell the security and purchase xw shares of state contingent claim for state w, for all w E 0. The payoff of this strategy is identically zero at time 1, while its cost at time 0 is strictly negative! That is, something has been created from nothing. As a consequence, nonsatiated individuals will take unbounded positions in the strategy, and markets cannot clear.
+
+Relation (5.8.1) implies that security values are additive. That is, if xu and zw are state-dependent payoffs for two complex securi- ties, then the value for zW = xu + yw is equal to the sum of values for x and z: y ^YW wen wen wen Next consider a securities markets economy. Let x, y, and z be three complex securities traded with zw = xw + yw. Relation (5.6.2)
+
+implies that the value of z, denoted by S,, is
+
+undations for Financial Economics where we have used 5', and Su to denote the value of xw9s and yw2s9 respectively. Hence, values are also additive.
+
+The additivity of values is a consequence of the requirement that in a competitive equilibrium something cannot be created from nothing. If Sz is not equal to S,; + Su, say Sz > Sz + Su, then one can buy complex securities xw and yw and short sell complex security zw. The cost of this investment is equal to Ssc + Su - Sz, which is strictly negative. However the time-1 payoffs of this investment are uniformly zero. Hence something has been created from nothing, which is inconsistent with an economic equilibrium.
+
+An important application of the above idea is the Modigliani and Miller theorem - the values of firms in the same risk class are determined independently of their capital structure in a frictionless market. Two firms are said to be in the same risk class if their time- 1 random payoffs are proportional across states of nature. To see this, consider two firms with time-1 payoffs xi and x2) respectively.
+
+Assume that there exists an a > 0 such that axlw = xzW, Vw 0.
+
+Firm 1 is 100 percent equity financed and firm 2 is partly financed by, say, debt. We claim that the value of firm 2 is a times the value of firm 1 independent of the capital structure of firm 2. Let the time-1 payoff of the equity of firm 2 be denoted by y and that of the debt be denoted z. We have The value of firm 2 is just the sum of its equity value and its debt value. It then follows from the arguments of previous paragraphs that & = S2 = Su + SZ. Thus the values of firm 1 and firm 2 are proportional - independent of the capitalization of the firms.
+
+Here we note that the Modigliani and Miller theorem does not say that the value of a firm will be unchanged after a recapitalization.
+
+For example, when markets are incomplete and when a recapitaliza- tion of a firm increases the number of linearly independent securities in the economy, the original equilibrium may be upset and new equi- librium prices will form. Under the new set of equilibrium prices, the value of the firm may be different. Even when the recapitalization does not increase the number of linearly independent securities, it Valuation of State Contingent Securities may involve buying back some of the existing outstanding equities, This will cause individuals to rebalance their portfolio less there exists a unique equilibrium, the equilibrium prices after the recapitalization may be different and the value of the firm may also be different.
+
+5.10. One can see, by casual empiricism, that in actual securi- ties markets the number of corporate securities is less than the num- ber of the states of nature. Hence we would not in general be able to create a complete set of state contingent claims by forming portfolios of existing corporate securities. Thus, the markets for corporate se- curities are unlikely to span all state contingent claims. Under some conditions, the corporate securities markets together with markets of options written on corporate securities are sufficient for reaching allocational efficiency for arbitrary preferences.
+
+A European call option written on a common stock is a financial security that gives its holder the right to purchase the underlying stock at a prespecified price on a prespecified date. Similarly, an European put option gives the right to sell the underlying G e t  at a prespecified price on a prespecified date. The prespecified price is called the strike price or the exercise price; and the prespecified date is the expiration date or maturity date.
+
+Assume, for the time being, that there exists a portfolio of cor- porate securities whose time-1 payoffs, {xu; u) E $21, are strictly pos- itive and separate states in that xw # xwi if w # d.
+
+This portfolio will henceforth be referred to as a state index portfolio.
+
+For ease of exposition, we assume that xui < xwi if i < j. Since the holder of a call option is not required to exercise, he will do so if and only if the stock price at time 1 is greater than the exercise price. Now consider the payoff matrix of the state index portfolio and 101 - 1 European call options written on it with exercise prices
+
+Foundations for Financial Economics equal to xui, xw2,. . ., X W - ~ : where the first row is the payoff structure of the state index portfolio and the n-th row is the payoff structure of the call option with an exercise price xW__, . This matrix is of full rank by the fact that xwl is nonzero. Hence the common stock and the If21 - 1 European call options are If21 linearly independent securities, and the markets are complete.
+
+Similar analysis applies to a common stock and European put options with exercise prices xw2, xw3,. . ., x u , , .  The payoff structure of an European stock call/put option with a nontrivial exercise price is a nonlinear function of the payoff of its underlying stock and hence is linearly independent of that of its underlying stock.
+
+When xwl = 0, we simply replace the state index portfolio by an European put option with an exercise price equal to any of xw2, xw3,. . ., x w , ,  in the above payoff matrix to make it of full rank.
+
+5.11. The discussions of Section 5.10 on the optimality of an allocation appear to be very general. Individuals may have different probability beliefs about the states of nature and may have state- dependent and non-time-additive utility functions. To achieve a Pareto optimal allocation for arbitrary preferences and beliefs through securities markets with options, it suffices to have a state index port- folio. The existence of such a portfolio amounts to saying that the realization of the portfolio's time-1 payoff allows us to know the re- alized payoff of any complex security. This is so, because the realized payoff of the state index portfolio reveals the true state of nature.
+
+Equivalently, the existence of a state index portfolio implies that the time-1 payoff of any complex security is a function only of that of the state index portfolio. This, however, is unlikely in actual securities markets.
+
+muation of State Contingent Securities 13 1 In the following sections, we will restrict our attention to econ- omies where individuals have homogeneous beliefs, {ww;w E i2}, and state-independent time-additive utility functions for life-time con- sumption ~w (GO, ci^) = ~ i o (c~o) + ui (ciw ) , where uio(-) and ui(-) are increasing, strictly concave, and twice dif- ferentiable. We will show that a Pareto optimal allocation may be reached without complete markets and without a state index portfo- lio in this case.
+
+5.12. Fix a Pareto optimal allocation of time-0 consumption, {cia; i = 1,2,. . . ,I}, and time-1 consumption {ciw; w E f2,i = 1,2,. . . , I} and let X,, i = 1,2,. . . , I, be the set of strictly posi- tive weights associated with the allocation. A; individuals' utility functions are additive across time and states, relations (5.
+
+(5.4.2) become As individuals' beliefs are homogeneous, (5.12.1) and (5.12.2) imply kuio(ci0) = Akuucko) vi, k, (5.12.3)
+
+and Aiu;(ciu) = .W& (ckW) vi, k, (5.12.4)
+
+respectively. Let two states w and w' be such that Cw > & I .
+
+We claim that ciW > C ; ~ I  for all i. That is, if the aggregate consumption in state w is strictly greater than the aggregate consumption in state w', then the optimal allocation of consumption in state w for an individual i is strictly greater than that in state w'. To see this, we note that since Cw > CWi, there must exist an individual k such that ckW > ckWl. By the strict concavity of utility functions, we have Relation (5.12.4) then implies that
+
+Foundations for Financial Economics By the strict concavity of u,, ciW > ciWi VI. ence, for given weights A, > 0, there exists a one-to-one relation between the aggregate consumption in a state and the optimal allocation for an individual in that state. Also, since utility functions are state independent, this one-to-one relation is state independent. In symbols, there are real-valued functions fi such that we can write where for brevity we have used c; and for individual i's time-1 random consumption and for time-1 random aggregate endowment, respectively. Note that fi is strictly increasing. Similar analysis can be carried out for the optimal allocation for t i m e 4  aggregate consumption to show that there exist strictly increasing functions fro such that cia = fio(Co).
+
+The existence of functions /,(a)
+
+implies that a Pareto optimal allocation must have the characteristic that in states where the ag- gregate consumption is the same, the allocations are identical. The functions fioYs and fi's prescribe the Pareto optimal allocation of time-O and time-1 aggregate consumption to different individuals.
+
+They are called the Pareto optimal sharing rules. In the following several sections, we will concentrate on the Pareto optimal sharing rules for time-1 consumption and refer to them as simply the Pareto optimal sharing rules.
+
+5.13. The preceding analysis implies that spot market for time- 0 consumption and elementary claims on time-1 aggregate consump- tion span the set of Pareto optimal allocations. Therefore, a compet- itive equilibrium allocation in a securities markets economy where markets are complete with respect to the aggregate consumption states will be Pareto optimal. When corporate securities do not span all the time-1 aggregate consumption states, call options written on the time-1 aggregate consumption can be added in the manner dis- cussed in Section 5.10 to complete the markets with respect to the time-1 aggregate consumption states.
+
+In Section 5.12, the Pareto optimal sharing rules were shown to be strictly monotonically increasing. They can be nonlinear func- tions of the time-1 aggregate consumption. When Pareto optimal Valuation of State Contingent Securities sharing rules are linear, however, a competitive equilibrium alloca- tion in a securities markets economy is always Pareto e exists a riskless asset. This is so, because from Section 5.6, in a se- curities markets economy, individuals are only endowed with t i m e 4 consumption and traded complex securities. To see this, consider a Pareto optimal allocation where individual consumption allocations are linearly related to the aggregate consumption: In a competitive securities markets economy, an individual can first sell his endowments and then allocate his initial wealth according to the following. To achieve the constant term a,, individual i can purchase a; shares of the unit riskless discount bond at time 0. The market portfolio of existing securities pays exactly e. Hence the stochastic term b ~
+
+can be achieved by purchasing a 6, fraction of the market portfolio. The remaining initial wealth will then be used for consumption at time 0. (Note that the existence of a riskless asset can easily be ensured by creating a riskless borrowing and lending opportunity.)
+
+The following section gives the necessary and sufficient condition on utility functions for Pareto optimal sharing rules to be linear for all strictly positive weightings A,'s and for all distributions of aggregate consumption.
+
+5.14. Suppose that Pareto optimal sharing rules are linear for all weightings A = (Ai)!=,: where is the time-1 aggregate consumption/endowment and where Zi(A) denotes the random time-1 Pareto optimal consumption allo- cation for individual i associated with the weightings A. Note that the optimal sharing rules depend upon the weightings and thus the dependence of a, and bi on A. From (5.12.4)) we know Differentiating (5.14.2), with respect to e gives a condition that is necessary for a linear sharing rule to be optimal for a given set of
+
+Foundations for Financial Economics weightings A: Differentiating (5.14.2) with respect to A, gives a condition that is necessary for a linear sharing rule to be Pareto optimal for any ar- bitrary set of positive weights: where ^.(A) and bki(A) denote <9ak(A)/<9Ai and <9bk(A)/<9AiJ respec- tively.
+
+Substituting (5.14.3) into (5.14.4) and using (5.14.1) gives - u ; . ( W ) )  = A, (A) + B. ( A )  ci (A), u"(c,(A))
+
+Since this is true for all distributions of aggregation consumption, fixing A and letting the distribution of C to vary gives a differential equation - u',(z)/u,"(z)
+
+=A,(\) + B,(A)z Since the left-hand side is independent of A, the right-hand side must also be so. Thus Ai(A) = A ,  and BAA) = B, for some constants A, and B,. Now we claim that Bi = Bi, for all i, k. This follows from the second part of Exercise 5.6. Therefore, we have proved that (5.14.5) with Bi = B for all i is necessary for all Pareto optimal sharing rules to be linear. Note that (5.14.5) must be satisfied for arbitrary weights A. Therefore, (5.14.5) with B, = B for all i is equivalent to a differ- ential equation: The left-hand side of (5.14.6) is the inverse of the Arrow-Pratt mea- sure of absolute risk aversion and is termed the (Arrow-Pratt mea- sure of absolute) risk tolerance, which we denote Ti(%). The deriva- tive of Ti(%)
+
+with respect to z is termed the cautiousness at z .  Using the above terminology, (5.14.6) says that utility functions exhibit linear risk tolerance with identical cautiousness B. Note that A; and B will be appropriately chosen so that the utility functions are increasing and concave. When B # 0, (5.14.6) is equivalent to Valuation of State Contingent Securities for some strictly positive constant p,. When B = 0, however, (5.14.6)
+
+is equivalent to for some strictly positive constant p,. We can interpret pi to be individual i's time preference parameter.
+
+5.15. Now we will prove that (5.14.6) is also sufficient for all the Pareto optimal sharing rules to be linear. We take cases. Case 1: B # 0. Using (5.12.4) and (5.14.7) we have Summing (5.15.1) over k and rearranging gives which is clearly linear in 6. Case 2: B = 0. Relation (5.12.3) and (5.14.8) imply which is also linear in 6. Hence (5.14.6) is sufficient for Pareto optimal sharing rules to be linear for all weightings.
+
+Note that when utility functions for time-1 consumption satisfy (5.14.6) and when there exists a riskless security in zero net supply, an equilibrium in a securities markets economy involves two fund separation in that an individual in equilibrium holds a fraction of the market portfolio and certain amount of the riskless asset. Readers can compare the results reported here and those of Sections 1.27 and 1.28. There we discussed necessary and sufficient conditions on utility functions for an individual's optimal portfolios, for all levels of initial wealth, to be composed of linear combinations of two funds.
+
+Those necessary and sufficient conditions are identical to (5.14.6)
+
+Foundations for Financial Economics except that B is allowed to vary across different individuals. Here changing weights is equivalent to varying initial wealth as in Sections
+
+## 1.27 and 1.28. For individuals to hold the same risky fund) we also
+
+require here that Bi be equal for all i. Finally, the resource constraint that the sharing rules must satisfy necessitates that the separating risky fund is the market portfolio.
+
+5.16. As a consequence of the fact that a Pareto optimal alloca- tion does not vary across states in which the aggregate consumption is the same, the state prices in complete markets have a special struc- ture. This special structure enables us to value risky payoffs without knowing a complete set of state prices.
+
+First we shall fix some notation. Let denote the subset of f2 such that Ci., = k if o> E fk, let $(k) denote the price at time 0 of an elementary claim on aggregate time-1 consumption ,.
+
+that pays one unit of the consumption at time 1 if and only if C = k, and let r(k) be the probability that 6 = k. The time-additivity and state-independence of utility functions simplify (5.5.3) to be To rule out arbitrage, we must have where the second equality follows from (5.12.5) and the third equality follows from the definition of v(k).
+
+Now let x be the random payoff of a complex security. Its value Valuation of State Contingent Securities at time zero, denoted by Sy, is 4wxw wen k wE0.k where the third equality follows from (5.12.5) and (5.16.1), the fourth equality follows from (5.16.2), and the fifth equality follows from the definition of conditional expectation, and E[-\ denotes the expecta- tion with respect to nu's.
+
+From (5.16.3), the price of any complex security can be com- puted using just its expected payoffs conditional on aggregate con- sumption states and the prices for the elementary claims on aggregate consumption.
+
+5.17. Recall from Section 5.10 that state prices can be com- puted from prices of put and call options on a state index portfolio. It then follows that elementary claim prices for the aggregate consump- tion states can be computed from put and call option prices on the time-1 aggregate consumption. Or equivalently, elementary claims on aggregate consumption states can be manufactured by forming portfolios of put and call options written on time-1 aggregate con- sumption.
+
+Under certain conditions on the possible values of time-1 aggre- gate consumption, we will show in Section 5.18 that an elementary claim on an aggregate consumption state can be constructed by a butterfly spread of call options. When the time-1 aggregate con- sumption has a continuous distribution and when the price for a call option on aggregate consumption is twice differentiable with respect to its exercise price, the price for an elementary claim on aggregate consumption states is related to the second derivative of the option's price with respect to its exercise price.
+
+Foundations for Financial Economics Table 5.18.1: Payoffs for Call Options on the Ag- gregate Consumption 5.18. Initially, suppose that time-1 aggregate consumption has possible values: 1, 2,. . ., L. Denote the vector of payoffs of an Euro- pean call option on aggregate consumption with one period to ma- turity and an exercise price of k as x(k); its time-0 price will be denoted by p(k). For calls with exercise prices of 0, 1, and 2 units of consumption, the state-contingent payoffs x(k) are as shown in Table 5.18.1.
+
+Note that as the exercise price of a call option is increased from k to k + 1, two changes in the payoff vector occur: (1) the payoff in the set of states with 8 = k + 1 becomes zero, and (2) the payoffs in all states with 8 > k + 2 are reduced by the change in the exercise price. Therefore, in this example, x(k) - x(k + 1) gives a payoff of one unit of consumption in every state with 8 > k + 1, and x(k + 1) - x(k + 2) gives a payoff of one unit consumption in every state for which 6 > k + 2.
+
+A security having a payoff of one unit consumption if and only if 8 = 1 may be constructed as ( ~ ( 0 )  - x(l)] - [x(l) - x(2)], since this combination of calls would have a payoff vector of An elementary claim for any given level of time-1 aggregate consumption can be constructed in a similar manner. Given the call Valuation of State Contingent Securities prices, p(k), prices of elementary claims on aggregate consumption must be those computed from the replicating portfolio of call options.
+
+The portfolio yielding one unit of consumption if and only if time- 1 aggregate consumption is k consists of buying one call with an exercise price k - 1, buying one call with an exercise price k + 1, and selling two calls with an exercise price k, which is a butterfly spread. For example, if L = 3 and the prices of calls are p(0) = 1.7, p(1) = 0.8, and p(2) = 0.1, then the respective prices for elementary- claims on aggregate consumption are <^(I) = 0.2, 4(2) = 0.6, and 4(3) = 0.1. Note that p(3) = 0 because L = 3. The price of a one period riskless discount bond paying one unit of consumption in all states would be $(l) + 4(2) + 4(3) = 0.9. The riskless rate of interest would be 11.1%; i.e. 11.9 - 1 = 0.111.
+
+5.19. In general, if the step size between potential levels of aggregate consumption is A, then, letting k be a possible value of the time-1 aggregate consumption, x(k) -x(k+A) has a payoff vector with zeroes for aggregate consumption 8 < k, and A for all levels of aggregate consumption greater than or equal to k + A. Therefore, the portfolio of call options that produces a payment of one unit of consumption if the aggregate consumption is k and zero otherwise is: -(x(k A - A) - x(k)) - (x(k) - x(k + A)), where the coefficient of x(k) in this expression is the number of calls with exercise price of k that should be held in the portfolio.
+
+Since the portfolio of calls gives a payoff of 1 if 8 = k in period 1, the cost of the call portfolio is <f>(k).
+
+Now note the following: With step size of A, $(k) divided by the step size may be written as Suppose that the time-1 aggregate consumption has a continuous distribution and that the prices for call options on the time-1 ag- gregate consumption are twice differentiable with respect to their
+
+Foundations for Financial Economics exercise prices. Then as A approaches zero in (5.19.1)) we get From differential calculus, the finiteness of a2p(k)/Qk'1 implies that the elementary claim price for any particular level of the time-1 aggregate consumption is zero. We thus interpret (5.19.2) to be the pricing density for elementary claims on aggregate consumption states in that a complex security that pays one unit of consumption if and only if the time-1 aggregate consumption lies in a subset A of the real line has a price: Moreover, as a generalization of (5.16.3), the price for a complex security having payoffs x is Hence (5.19.1) gives the pricing function for an elementary claim on 6 maturing in one period in the discrete case, and (5.19.2) gives a 2 p ( k )
+
+the pricing density when has a continuous distribution and .,,2 exists and is finite. Note from (5.19.2) that the positivity of elemen- tary claim prices implies strict convexity of call option's price in its exercise price.
+
+5.20. The economies considered in this chapter are two pe- riod economies. By the strict monotonicity of their utility functions, individuals will consume all their wealth at time 1. As the single consumption good is the numeraire, by the market clearing condi- tion in an economic equilibrium, the aggregate time-1 wealth is the aggregate time-1 consumption which in turn is the aggregate time- 1 endowment. Note that the aggregate wealth is just the market Valuation of State Contingent Securities portfolio that we discussed in detail in Chapter 4. Thus all the con- clusions above about time-1 aggregate consumption apply to the market portfolio. For instance, 4(k) can be computed from prices for put and call options written on the market portfolio maturing at time 1. Also, (5.16.3) can be written as 4(k) E[~\M = k], k where, as usual, we have used M to denote the time-1 value of the market portfolio.
+
+Note that the equivalence of time-1 aggregate consumption and aggregate wealth holds true only in a two period economy.
+
+the economy lasts for more than two periods, say times 0, , time-1 aggregate consumption is only a fraction of the aggregate wealth at that time. The aggregate wealth at time 1 is composed not only of the aggregate time-1 consumption/endowment but also of the value of the time-2 aggregate consumption/endowment. We will come back to this point later in Chapter 7.
+
+5.21. Now let {&,; u> E fi} be the state prices in a competitive economy with complete markets where individuals have homogeneous beliefs and time-additive, state-independent utility functions that are increasing, strictly concave, and differentiable. We claim that {4w; ul E fi} will be the state prices in an otherwise identical economy except that there is only one representative agent who is endowed with the aggregate endowment (Co, Cu; w E 0).
+
+claim through construction - construct a representative agent, endow him with (Co,CW; u> E fi), and show that equilibrium prices for state contingent claims are G W ; w E fi}.
+
+5.22. Consider the competitive complete markets economy equi- librium prices of elementary claims {4>w; w E 0) and equilibrium al- location {c~o, ciW;w E fi, i = l,. . . ,I} in Section 5.5. Let A, be the inverse of the Lagrangian multiplier of individual i's maximization problem, that is, A; = 6 , l ,  where we recall that the di'a are strictly
+
+Foundations for Financial Economics positive. Now define functions UQ and ul as follows: and . t .  y zi = z.
+
+i= 1 It can be verified that uo and ul are increasing and strictly concave.
+
+An immediate consequence of the definitions of uo and ul is that and where we have used the resources constraints and Valuation of State Contingent Securities to conclude that and 5.23.
+
+Now consider an economy with a representative agent, whose time-additive and state-independent utility functions are uo and MI, whose probability beliefs are {v^;w E 0}, and whose en- dowments of time4 and time-1 consumptions are (Co, Cw; w E tl}.
+
+We claim that the prices for elementary consumption claims in this economy, using the single consumption good as the numeraire, must be {4w;w E tl}.
+
+Observe that in this single individual economy, for the markets to clear, the prices must be set so that the representative individual's optimal consumption choice is to hold his endowment. Therefore, using the time-0 consumption good as the numeraire, the state price for state w must be equal to the representative individual's marginal rate of substitution between time-0 consumption and time-1 state-w consumption, which is 5I"W"'i(CW)
+
+u'o (Co Substituting (5.22.3) and (5.22.4) into (5.23.1)
+
+(5.23.1) gives Thus, for the market to clear, it is necessary that the price for state- w contingent claim be #^. It is also straightforward to show that {#+,,;w ? 0} are indeed equilibrium prices in the economy with the representative agent.
+
+Foundations for Financial Economics .24. The utility functions for the representative individual we constructed in Section 5.22 depend on the weightings A,.
+
+The representative individual's utility functions will be affected when we change the relative magnitudes of those weightings. Recall from Sec- tion 5.5 that the A. is just the inverse of individual i's Lagrangian multiplier in his maximization and depends upon his initial endow- ment. Therefore, the relative magnitudes of the A;'s are determined by the distribution of initial endowments of individuals. As a conse- quence, the prices in the economy will be affected by the distribution of initial endowments across individuals.
+
+We say that an economy with heterogeneous agents satisfies the aggregation property if the equilibrium prices are determined inde- pendently of the distribution of initial endowments. We will demon- strate below that a sufficient condition for the aggregation property is that utility functions of individuals exhibit linear risk tolerance with identical cautiousness and have the same time preferences. Note that this condition is a little stronger than (5.14.6)' the necessary and suf- ficient condition for all Pareto optimal sharing rules to be linear. For (5.14.6) to hold, it is not necessary that individuals' time preference parameters be identical.
+
+The solutions of (5.14.6) include power functions ui (z) = - (Ai + Bz)l-B 5 - 1 and negative exponential functions: where we understand the power function to be ln(Ai + Bz) when B =  1.
+
+5.25. Suppose first that individuals' utility functions are power functions with B # 1 and the same time preference p: Valuation of State Contingent Securities Fix a set of weightings (A,). Define UQ and MI as in (5.22.1)
+
+and (5.22.2). We can compute UQ and u1 explicitly. The first order conditions for (5.22.1) are where 9 is the Lagrangian multiplier for the resource constraint. Now raising (5.25.1) to the -B power and summing over i gives Solving for 6 from (5.25.3) and substituting it into (5.25.1) gives Summing the above relation over i gives Similarly, for ul we have
+
+Foundations for Financial Economics From (5.23.2)) the prices for elementary securities are which are independent of the weightings! Prices are determined in- dependently of the distribution of initial endowments.
+
+We leave verification of the aggregation property when B = 1 for readers in Exercise 5.4.
+
+5.26. When the utility functions are negative exponential, we can prove a bit more. In the above construction of a representative individual, we assumed that individuals have homogeneous beliefs and time preferences. The representative individual naturally inher- its these beliefs and time preferences. In the negative exponential case, we can allow heterogeneous beliefs and time preferences in the construction of the representative agent, and his beliefs and time preference will be composites of individuals' beliefs and time prefer- ences.
+
+Consider the following maximization: I -Yiw max niw (-Ai ~ X P {-I)
+
+{~,~;wen,t=i,2 ,..., I} i=i wen Ai I (5.26.1)
+
+The first order necessary and sufficient conditions are (5.26.3)
+
+i=1 where Ow is the Lagrangian multiplier for the resource constraint in state U. The first order conditions imply Valuation of State Contingent Securities where fJ is the product sign. It then follows from (5.26.2) and (5.26.4) that the maximand of (5.26.1) is We interpret i=1 to be the time preference of the representative individual, i=1 to be his probability beliefs, and to be his utility function for time-1 consumption. Here let us note that (5.26.7) may not be probabilities as they may not sum to one.
+
+That constitutes no problem, as we can always normalize to get prob- abilities.
+
+Taking fi = 1 and niw = 1 in (5.26.5), we get The prices for elementary claims in an economy with this representa- tive individual and with aggregate endowments (Coy Cw; u E 0 )  are, VU â 0,
+
+Foundations for Financial Economics which are independent of the weightings. We will ask you to verify in Exercise 5.5 that (5.26.10) gives prices for elementary claims in a complete markets economy with individuals having negative expo- nential utility functions. Hence negative exponential utility functions are sufficient for aggregation, Exercises
+
+## 1. Verify that the UQ and ui defined in (5.22.1) and (5.22.2)
+
+strictly increasing and concave.
+
+are 5.2. Solve (5.14.6) to verify that the solutions include power func- tions and negative exponential functions.
+
+5.3. Verify that negative exponential utility functions imply linear Pareto optimal sharing rules.
+
+5.4. Derive equilibrium prices for elementary claims in a complete markets economy when individuals have log utility functions.
+
+5.5. Verify that (5.26.10) gives equilibrium prices for elementary claims in a complete markets economy where individuals have nega- tive exponential utility functions with different coefficients of the Arrow-Pratt measure of absolute risk aversion.
+
+5.6. Fix a Pareto optimal allocation and the sharing rules for this allocation, ji. Let Ti(z) = -uxz)/u"(z) be the risk tolerance function for individual i. Show that The cautiousness for individual i at z, denoted by ui(z), is T,!(z).
+
+Show that for the jiqs to be linear, it is necessary and sufficient That is, individuals' cautiousness must be identical along the optimal schedule, although their cautiousness may not be a con- stant across individuals.
+
+Valuation of s a t e  Con tingent Securities 5.7. Let fa and fi be Pareto op i for a set of weightings A.
+
+ne &(z) = A:uUffo(z)) and ui(z) = Aiu;(fi(z)). Show that UQ and ui are strictly increasing and concave and can be utility functions for a representative agent as discussed in Section 5.22 and Section 5.23.
+
+5.8. Suppose that all the individuals' utility functions exhibit de- creasing absolute risk aversion. Show that the representative agent's utility functions as defined in Section 5.22 also exhibit decreasing absolute risk aversion.
+
+emarks. The general framework of this chapter is due to Ar- row (1964) and ebreu (1959). For more discussion on the issues related to recapitalization and the Modigliani and Miller theorem, see Litzenberger and Sosin (1977). The discussions on the alloca- tional role of stock options follow Breeden and Litzenberger (1978)
+
+and Ross (1976). The construction of a representative agent is taken from Breeden and Litzenberger (1978), Constantinides (1982), and Wilson (1968). The discussions on the aggregation property of prices and the Pareto optimal sharing rules are freely adapted from Amer- shi and Stoeckenius (19839, Rubinstein (1974)) and Wilson (1968).
+
+For an extensive review of the literature on equilibrium under un- certainty, see Radner (1982). Exercise 5.8 is taken from Kraus and Litzenberger (1983).
+
+Foundations for Financial Economics Amershi, A., and J. Stoeckenius. 1983. The theory of syndicates and linear sharing rules. Econometrics 51:1407-1416.
+
+Arrow, K. 1964. The role of securities in the optimal allocation of risk-bearing. Review of Economic Studies 31:91-96.
+
+Breeden, D., and R. Litzenberger. 1978. State contingent prices implicit in option prices, Journal of Business 51:621-651.
+
+Constantinides, G. 1982. Intertemporal asset pricing with heteroge- neous consumers and without demand aggregation. Journal of Business 55:253-267.
+
+Debreu, G. 1959. Theory of Value. Yale University Press, New Haven.
+
+Kraus, A., and R. Litzenberger. 1983. On the distributional condi- tions for a consumption-oriented three moment CAP of Finance 38:1381-1391.
+
+Litzenberger, R., and H. Sosin. 1977. The theory of recapitaliza- tions and the evidence of dual purpose funds. Journal of Finance 32:1433-1455.
+
+Modigliani, F., and . Miller. 1958. The cost of capital, corpo- rate finance and the theory of corporation finance. American Economic Review 48:261-297.
+
+Radner, R. 1982. Equilibrium under uncertainty. In Handbook of Mathematical Economics, Vol 77:923-1006. Edited by K. Arrow and M. Intriligator. North-Holland Publishing Co, New York.
+
+Ross, S. 1976. Options and efficiency. Quarterly Journal of Eco- nomics 90:75-89.
+
+Rubinstein, M. 1974. An aggregation theorem for securities markets.
+
+Journal of Financial Economics 1:225-244.
+
+Varian, H. 1978. Microeconomic Analysis. W. W. Norton & Com- pany, Inc., New York.
+
+Wilson, R. 1968. The theory of syndicates, Econometrica 36:119- 131.
+
+## WITH PREFERENCE R
+
+6.1. In Chapter 4, we made assumptions on the return distri- butions in order to derive linear valuation relations. In this chapter, we will first discuss valuation principles for complex securities in the framework of Chapter 5 without special assumptions on either the return distributions or individuals' utility functions. We will then de- rive explicit valuation expressions for risky assets under preference and distribution restrictions. In particular, the price of a European call option written on a stock when individuals9 utility functions ex- hibit constant relative risk aversion and the option's underlying asset has a payoff structure that is jointly lognormally distributed with the aggregate consumption is explicitly computed. We also apply the pricing formula for a European call option to study the pricing of risky corporate debt. In the last section of this chapter, we derive a pricing relation similar to the CAPM for a particular class of risky assets.
+
+The pricing relations derived in this chapter provide additional 15 1
+
+Foundations for Financial Economics testable propositions concerning the pricing of complex securities such as common stocks and options. Some of these propositions will be empirically examined in Chapter 10.
+
+6.2. Assume that individuals have homogeneous beliefs vu and utility functions that are time-additive and state-independent, de- noted by U ~ Q  and ui, and assume that these utility functions are increasing, strictly concave, and differentiable. There are N + 1 securities traded, indexed by j = 0,1,. . . , N. Individuals' time4 endowments are units of time-0 consumption good and shares of traded securities. Security j is represented by its state dependent payoff structure xi^,. The 0-th security is a riskless discount bond with xou = 1 for all w ? 0.
+
+We assume that the equilibrium allocation is Pareto optimal.
+
+We recall from Chapter 5 that under this condition, a representative agent with increasing and strictly concave utility functions uo and UI can be constructed, and the price of a primitive state contingent claim can be expressed as where <f>u is the state price for state w .  A complex security may be viewed as a portfolio of elementary state contingent claims. Thus the price for security j is Substituting (6.2.1) into (6.2.2) for & gives where we have used Zi to denote the random time-1 payoff of se- curity j. For the case of a riskless unit discount bond - a complex security that pays one unit of consumption at time 1 in all states, we have Valuation of Complex Securities with Preference Restrictions As So is the price of a unit discount bond, the risldess interest rate Tf IS *Â¥ = - - I e (6.2.5)
+
+s o By the strict monotonicity of the utility functions, & > 0. This implies that rf > -1. Substituting (6.2.5) into (6.2.4) gives Dividing both sides of (6.2.3) by S, and using the definition of covariance, we can write where 5 = Z,/Sj - 1 is the rate of return of security j. Substituting (6.2.6) into (6.2.7) gives an equilibrium relation for the risk premiums on securities: By the fact that ui is strictly concave, the risk premium of a secu- rity is positive if and only if its random payoff at time 1 is positively correlated with the time-1 aggregate consumption. Note that in a two-period (period 0 and period 1) economy, by the strict mono- ., tonicity of utility functions, the time-1 aggregate consumption C is equal to the time-1 aggregate endowment, which in turn is equal to time-1 aggregate wealth M. Therefore, (6.2.8) can be written as That is, the risk premium of a security is positive if and only if its time-1 random payoff is positively correlated with the time-1 aggregate wealth. The intuition behind this result is the same as that of the Capital Asset Pricing Model. One unit of consumption in a state where the aggregate resource is abundant is less valuable than one unit of consumption in a state where the aggregate resource
+
+Foundations for Financial Economics is scarce. Therefore, a security that pays more in states where the aggregate consumption/wealth is low is more valuable than a security that pays more in states where the aggregate consumption/wealth is high, ceteris paribus. As a result, the price for the former will be higher than that for the latter, and the rate of return on the former will be lower than that on the latter.
+
+The market portfolio is a portfolio of traded securities. Thus its rate of return fm must also satisfy (6.2.9): Relation (6.2.10) implies that the risk premium on the market portfo- lio must be strictly positive, as r j  > -1 and u\ is strictly decreasing so that cov(fm, u \ ( ~ ) )
+
+is strictly negative. (Readers should com- pare this with the result of Section 4.14.) Substituting (6.2.10) into (6.2.9) gives cov ($, ui (M))
+
+E[?j - r,\ = E[fm - rj].
+
+(6.2.11)
+
+C O V ( ? ~ , U\ (M))
+
+In equilibrium, the risk premium of security j is proportional to that of the market portfolio. The proportionality is equal to the ratio of the covariance of 5 and u',(fi) and the covariance of Fm and u',(M).
+
+6.3. We will now specialize the pricing relation of (6.2.11) by considering a class of utility functions. Assume that individuals' utility functions for time-1 consumption are power functions: and that there is a riskless asset. Note that B is assumed to be con- stant across individuals. We also assume that the ui's are increasing and strictly concave over the relevant region. Recall from Chapter 5 that the Pareto optimal sharing rules for time-1 consumption are linear in this case and can be attained if there is a riskless asset and if all assets are traded. Therefore, by the assumption that individ- uals are endowed only with holdings of shares of traded securities Valuation of Complex Securities with Preference Restrictions and time-0 consumption good in a securities markets economy, the equilibrium allocation is Pareto optimal. Moreover, Chapter 5 also shows that there exists a representative agent whose utility function for time-1 consumption is a power function with the same B: where A = Ezi A;. Hence (6.2.11) becomes Note that when B = -1, individuals' utility functions are quadratic and (6.3.3) becomes the familiar CAPM relation. When B = -112, the representative agent's utility function for time-1 consumption is a cubic function: ul(z) = --(A - - z ) ~ .
+
+The marginal utility in this case is u', (z) = (Aa- -z}\ so ul is increasing and strictly concave for z < 2A. Thus if M < 2A, (6.3.3) becomes (6.3.4)
+
+where Wmo is the time-0 total value of traded securities. From (6.3.4)
+
+we notice that the risk premium of risky asset j depends not only upon the covariance of its return with the return on the market port- folio but also upon Covff , c), 1 hich we term coskewness. The risk premium on asset j is higher the higher the covariance Cov(c,rm)
+
+and the lower the coskewness with the market portfolio. The latter of these two effects is a consequence of the fact that a cubic utility
+
+Foundations for Financial Economics function exhibits preference towards the skewness of time-1 random consumption. The higher the coskewness of a security's return with that of the market portfolio, the more attractive it is to the individu- als, ceteris paribus. Therefore, it will sell for a higher price and thus will have a lower expected rate of return.
+
+.4. Chapter 5 showed that call options help to achieve nonlin- ear sharing rules. Moreover, the prices of call options on aggregate consumption are sufficient to price any complex security in an al- locationally efficient securities market where individuals' preferences are represented by time-additive, increasing, and strictly concave von Neumann-Morgenstern utility functions. In Sections 6.5 through 6.8, we will discuss certain properties of option prices that can be estab- lished by using purely arbitrage arguments. Section 6.9 gives some comparative statics of option prices as functions of their underlying asset prices and exercise prices. In later sections, an option pric- ing formula will be derived under the assumption that the payoff of the option's underlying asset and time-1 aggregate consumption are jointly lognormally distributed and that the representative agent's utility functions exhibit constant relative risk aversion.
+
+.5. Recall that a European call option is a security that gives its holder the right to purchase a share of its underlying security at a fixed exercise price on the maturity date of the option. Let Zj(k)
+
+be the time-1 payoff from a European call on one share of the j- th security maturing at time 1 with an exercise price of k, and let pj[Sj, k) be the price of this call at time 0 when its underlying stock price is Sj. Since an option gives its holder the right but not the obligation to exercise on the maturity date, {,-k i f % - - k > 0 , Ej(k) = otherwise, where 6 is the random payoff of a share of the j-th security.
+
+We claim that Valuation of Complex Securities with Preference Restrictions independent of individuals' utility functions and payoff distributions.
+
+The inequality will be strict if the probability that the option will be exercised is strictly between 0 and I.
+
+will prove now the strict inequality. Consider the following strategy: short sell one share of security j ,  buy one European call written on security j with an exercise price k maturing at time 1 and lend k/[l+ rf) dollars at the riskless rate. This strategy has an initial cost equal to pj(Sj3 k) - Sj + k/(l + Ãˆ f )  and has a time-1 payoff: The time-1 payoff of this strategy is nonnegative and is strictly pos- itive with a strictly positive probability, since there is a strictly pos- itive probability that X j  < k. Therefore, its initial cost must be strictly positive to prevent something being created from not That is, we must have which is equivalent to Lastly, since a holder of the option only has the right and not the obligation to buy a share of its underlying security at the exercise price, the price of the option must be nonnegative. Moreover, by assumption there exists a strictly positive probability that the option will be exercised. Therefore, pj(Sj, k) > 0. This observation together with (6.5.2) gives which was to be shown. The intuition behind this inequality is as follows. The present value of an obligation to buy a share of security j at time 1 at a price k is Sj - k/(l+ rf). When there exists a strictly positive probability that Ej will be strictly less than k, the option not to buy has a strictly positive value. Thus the call option must be worth strictly more than Sj - k/(l + rf). On the other hand, there
+
+Foundations for Financial Economics exists a strictly positive probability that the option will be exercised.
+
+Hence, pj(Sj, k) > 0.
+
+6.6. In Section 5.19, by assuming that an option price is a twice differentiable function of its exercise price, we showed that an option price is a convex function of its exercise price. This property, as it turns out, holds more generally.
+
+We want to show that where k = ak + (1 - a)fc and dc E (0,l). Consider the strategy of buying a shares of the call option with an exercise price k and (1 - a) shares of the call option with an exercise price k, and short selling a share of call option with an exercise price k.
+
+of generality, assume that k > k. The time-1 payoff of this strategy which is nonnegative. Thus, which is just (6.6.1). When there is a strictly positive probability that E j  E (k, k], the weak inequality becomes a strict inequality.
+
+You are asked to prove in Exercise 6.2 that pj(Sj, k) is a de- creasing function of k. Hence pj(Sj,k) is a decreasing and convex function of its exercise price.
+
+In a frictionless market, buying an option on two shares of se- curity j with an exercise 2k should be equal to buying two options with an exercise price k on security j. To see this, we simply note that the random payoffs of the former are identical to those of the latter.
+
+6.7. An option on a positively weighted portfolio of securities with an exercise price k is less valuable than a positively weighted Valuation of Complex Securities with Preference Restrictions portfolio of options with equal exercise prices k. Consider a positively weighted portfolio of securities with weights aj, j = 1,. . . , N, where a, denotes the portfolio weight on security j. Note that The time-0 cost and time-1 random payoff of this portfolio are and PI respectively. Let p*(S*,k) be the price of a European call written on the portfolio of securities with an exercise price k that expires at time 1. The time-1 random payoff of this option is Since max[z, 01 is a convex function of z, by the Jensen's inequality we have Note that the right-hand side of the inequality is the time-1 ran- dom payoff of a portfolio of call options on individual securities with identical exercise prices k. Thus where the inequality is strict if and only if there exist some j and j' such that 2ij < k < ii?ji with a strictly positive probability. Suppose
+
+Foundations for Financial Economics that all securities have payoffs such that all individual options with an exercise price k will be optimally exercised simultaneously. Then a positively weighted portfolio of options on individual securities with an exercise price k will be worth just as much as an option on a portfolio of securities with the same exercise price and using the same weights. Suppose on the other hand that some options on individual securities will not be optimally exercised simultaneously.
+
+A portfolio of options, unlike an option on a portfolio of securities, gives its holder an "option" to exercise different options individually.
+
+Thus a positively weighted portfolio of call options is strictly more valuable than a call option on a portfolio of securities with the same weights.
+
+The holder of a European put option has the right to sell its underlying security at the exercise price on the maturity date. Let Pj(Sj, k) be the time-0 price of a European put written on security j with exercise price k and maturity date 1, when the current price of security j is S,. The time-1 payoff of this put option is The price of a European put can be computed from the prices of its underlying security and its European call counterpart through a relation called put-call parity.
+
+We claim that Pj(Sj,k) = k/(l+rf)-Sj+pj(Sj,k).
+
+To see this, consider the following strategy: lend k/(l + rf) at the riskless rate, short sell one share of security j, and buy one share of the European call with exercise price k. The time-1 payoff of this strategy is k - Xj if Xj < k, if k < Xi, which is clearly the payoff of a European put with exercise price k.
+
+To rule out arbitrage opportunities, two packages of financial assets having the same payoffs must sell for the same price. Hence our assertion follows. It is easy to see that Pj(Sj,k) is an increasing function of k. Also, using arguments similar to those of Section 6.5, we can get Pj(Sj, k) > max[k/(l+ rf) - Sj,O].
+
+Valuation of Complex Securities with Preference Restric tioaa You will be asked to verify these two relations in Exercise 6.3.
+
+Given put-call parity and the facts that the price of a call is a decreasing function of its exercise price and that the is an increasing function of its exercise price, we have when pj(Sj, k) and Pj(Sj, k) are differentiable functions of k.
+
+over, Pj(Sj, k) is also a convex function of k by put-call parity.
+
+6.9. In the previous two sections, we have seen that a call price is a decreasing and convex function of its exercise price. We will show in this section that, fixing a return distribution on the underlying as- set, the price of a call option is an increasing and convex the price of its underlying asset. Readers are cautioned to note that this relation is a comparative statics result and is not an arbitrage relation, since different stock prices can not prevail contemporane- ously.
+
+Consider pj(Sj, k). Assume the distribution of Zj/% is invariant with respect to changes in Sj. For example, if we increase S,- to Sj, then Xj changes to S'-Z./Sj. We claim first that pj(Sj,k) is increasing in Sj and is strictly so if the probability that Xj > k is strictly positive. By the assumption that return distribution is held fixed, we have Relation (6.9.1) follows since, given that the return distribution is invariant to changes in Sj, the time-1 payoff of a call on security-j with an exercise price k when security-j's price is S; is equivalent to the time-1 payoff of S F j  shares of call options with an exercise price kSj/Sj when security j's price is Sj. Note that (6.9.1) amounts to saying that the function pj(Sj, k) is homogeneous of degree one in Sj and k. The first inequality of (6.9.2) follows since the call option
+
+Foundations for Financial Economics price is a decreasing function of its exercise price. Finally, the second inequality of (6.9.2) follows because S F j  > 1 by assumption and pj(Sj, k) > 0. The second inequality of (6.9.2) is strict if there is a strictly positive probability that Ej > k, as then pj(Sj, k) > 0.
+
+Next we want to show that pj(Sj, k) is a convex function of Sj.
+
+Let $ = 4 + (1 - a ) S j  where a E (0,l).
+
+To prove convexity, we must show that From the fact that pj(Sj, k) is a convex function of k for all possible Sj , where k3 z 7k1 + (1 - 7)k2. Now take 7 = asj/Sj, kl z k/Sj, and k2 = k/S; Multiplying both sides of (6.9.3) by Sj and recalling from (6.9.1) that pj(Sj, k) is homogeneous of degree one in Sj and k, Using the definitions of 7, kl, k2, and k3, this inequality can be written as The weak inequality of (6.9.4) will be strict if that of (6.9.3) is strict.
+
+From Section 6.6, we know that (6.9.3) is a strict inequality if there exists a strictly positive probability that Z j  lies between kl and k2 or equivalently between k/Sj and k/Sj.
+
+Figure 6.9.1 illustrates the general shape that a call option price should have as a function of its underlying security price and its exercise price, while holding constant the return distribution of its underlying asset. Note that we have used (6.5.1) in Figure 6.9.1.
+
+6.10. In this section, a pricing formula for a European call is derived under conditions on individuals' preferences and on the joint Valuation of Complex Securities with Preference Restrictions Figure 6.9.1: Call Option Price as a Function of Its Underlying Stock Price distribution of the time-1 aggregate consumption and the payoffs of the option's underlying asset.
+
+Consider a two-period securities markets economy.
+
+Individ- uals' utility functions are time-additive extended power functions with identical cautiousness as in (6.3.1). Moreover, assume that zl A; = 0. Recall that in a securities markets economy, an in- dividual is endowed with time-0 consumption and shares of traded securities. From Sections 5.14 and 5.15, we know that the equilib- rium allocation will be Pareto optimal, since optimal sharing rules are linear. Thus, a representative agent can be constructed with power utility functions: where p is the time preference parameter. Then (6.2.3) implies that
+
+Foundations for Financial Economics We will further assume that Â£ and 6 are bivariate lognormally distributed, that is, In E j  and In 6 are bivariate normally distributed with means (jlj7 jIc) and variance-covariance matrix: where K is the correlation coefficient of In Z j  and ln 6. This assump- tion implies that ln(Zj/Sj) and ln p ( 6 / ~ ~ ) - ~ are bivariate normally distributed with means and variance-covariance matrix Given the above distributional assumption, (6.10.1) can be writ- ten as +00 +00 ,,(Sj, k) = S, f f (e' - k/Sj)e"(z, y)dzdy, (6.10.2)
+
+ln(k/Sj)
+
+where f (z, y) is the joint density function for 5 = ln(Â£,/Sj and EZ l n p ( 6 / ~ ~ ) ~ .
+
+Relation (6.10.2) may be rewritten as the difference between two integrals In the next section the two integrals are evaluated and the following relations are obtained: Valuation of Complex Securities with Preference Restrictions and r r e2+. / (z, ,)dzdy where N(-} is the distribution function of a standard normal random variable: N(z) = - r e-va/2d~, and is the standard normal density function. By setting a = ln(k/Sj), (6.10.4) may be used to evaluate the second integral on the right- hand side of (6.10.3), and (6.10.5) may be used to evaluate the first integral on the right side of (6.10.3) by setting a = ln(k/Sj).
+
+It is easily verified that and that The left-hand side of (6.10.6) is equal to (1 + r f I 1 ,  since it gives the present value of one unit of time-1 consumption in all states. Hence, Also, (6.2.3) implies that the left-hand side of (6.10.7) is equal to 1.
+
+Thus e~j+~c+($+2fWjOc+^)/t - - 1.
+
+(6.10.9)
+
+Now substituting (6.10.4), (6.10.5), (6.10.8), and (6.10.9) into (6.10.3) gives
+
+Foundations for Financial Economics where Relations (6.10.8) and (6-10.9) also imply that Thus (6.10.11) can be written as Relations (6.10.10) and (6.10.13) are the well known Black-Scholes option pricing formula that was originally derived by an arbitrage argument in a continuous time economy under the assumption that the stock price follows a geometric rownian Motion and the instan- taneous riskless interest rate is a known constant. Here we derived this formula in a discrete time economy by making joint conditions on the distributions as well as on the individuals' preferences.
+
+6.11. The derivations of (6.10.4) and (6.10.5) will be presented in this section, which are adapted from the appendix of Rubinstein (1976). Readers can skip this section without loss of continuity. The derivations of these relations require evaluations of other indefinite integrals over the marginal and conditional normal density functions.
+
+The first relation to be derived is where f (z) is the marginal density function for ln(iZj/Sj). The first step in deriving relation (6.11.1) involves converting f (z) into stan- dard normal density function and exchanging the limits of integra- tion, which is a valid procedure since the density function of a stan- dard normal random variable is symmetric around zero: Valuation of Complex Securities with Preference Restrictions The second evaluation is =(eW+07/2)N(-a + + aj).
+
+The third evaluation is where f (y\z) is the conditional density of I ~ ~ ( C / C ~ ) ~ given that ln(Ej/Sj) = z. Note that the conditional distribution of In p ( 6 / ~ ~ ) - ~ given that ln(Ej/Sj) = z is a normal distribution with mean pc + K,^ac/aj)(z- pj) and variance (1 - ~ ~ ) a z .
+
+Then the evaluation of the left-hand side of (6.11.3) is equivalent to that of (6.11.2) by taking a = -00 and by appropriate parameter change.
+
+Now we are prepared to derive (6.10.4). From (6.11.3) we can write where f (z) is the marginal density function for ln (Ej/Sj). Relation (6.10.4) follows by converting the density in the integral on the right- hand side of the third equality to a standard normal density and changing the limits of integration accordingly.
+
+Foundations for Financial Economics Finally, we are prepared to derive relation (6.10.5). From (6.11.3)
+
+dz.
+
+Relation (6.10.5) is then obtained by converting the density in the integral on the right-hand side of the third equality into a standard normal density and changing the limits of the integration accordingly.
+
+6.12. The option pricing formula in Section 6.10 is derived in an economy where individuals' utility functions exhibit linear risk taler- ance with identical cautiousness and where individuals are only en- dowed with traded securities. In equilibrium, every individual holds a linear combination of the market portfolio and the riskless asset and a Pareto optimal allocation is achieved. Therefore, if a call option written on a security is introduced into the economy, no individual will demand it in equilibrium. Equivalently, if the economy is in equilibrium when a call option is introduced, as long as the option is priced according to (6.10.10) and (6.10.13)) the original equilibrium will not be upset. The option is priced so that no individual will de- mand it in equilibrium. In this context, an option has no allocational role in equilibrium and is sometimes said to be a redundant asset.
+
+Note that the above discussion applies not only to options but also to any financial asset that is in zero net supply.
+
+6.13. From (6.10.10) and (6.10.13)) pj(Sj, k] depends upon the time-0 price of its underlying asset 9, the exercise price k, the risk- less interest rate r / ,  and the variance of ln(Zj/Sj). It does not de- pend upon the mean of ln(Zj/Sj), however. You will be asked in Exercise 6.4 to verify the following comparative statics of pj(Sj, k)
+
+with respect to Sj, k, rf, and o,: Valuation of Complex Securities with Preference Restrictions Relations (6.13.1) and (6.13.2) are confirmations of the general discussions in Sections 6.6 and 6.9. Note that in computing (6.13.2), we have assumed that the distribution of ln(Zj/Sj) is unchanged when we vary Sj. Relation (6.13.3) says that the higher the variance of ln(Zj/Sj), the more valuable the option is. This is so because an option holder does not have an obligation to exercise - he only has the right to do so. Hence, a higher (T, allows a higher upside potential for an option. Finally, the higher the riskless interest rate, the lower the present value of the exercise price in the event of exercising at time 1, thus the more valuable the option is.
+
+From (6.13.1), we can also get That is, pj(Sj) k) is a convex function of the exercise price, which is a general property of call options proved earlier using an arbitrage argument. From Section 5.19, we can interpret the right-hand side of (6.13.5) to be the price density for a security that pays one unit of consumption at time 1 if and only if the payoff of security j is equal to k at that time. This price density is always strictly positive.
+
+6.14. The option pricing formula derived above can be applied to study the pricing of risky corporate debt. Consider the economy in Section 6.10. Suppose that firm j has one share of common stock and a discount bond with face value k outstanding, with prices Sj and Dj, respectively. The discount bond matures at time 1. The total time-1 earning of firm j is Zj, which is assumed to be joint lognormally distributed with e, the time-1 aggregate consumption, with parameters as in Section 6.10. The present value of XJ is the total value of the firm at time 0 and is denoted by Vj. Note that
+
+Foundations for Financial Economics Vj = Si + Dj. The time-1 random payoff of the discount bond is min[Ei,k]. When the firm is solvent at time 1, that is, when x} -> k, the bond holders receive the face value of the discount bond; otherwise, the firm goes bankrupt, and the bond holders take over the firm and get Xi. One way to compute Dj is to use (6.2.3): We can, however, use the Black-Scholes option pricing formula to compute Dj in a direct and straightforward way. Note that the time-1 payoff to the equity holders is max[Zj - k, 01. When the firm is solvent at time 1, the equity holders pay off the bond holders and get the residual value of the firm, which is - k; otherwise, the bond holders take over the firm, and the equity holders get zero. Therefore, the equity holders are holding a European call on the total value of the firm with an exercise price k maturing at time 1. The value of the equity is 5, = V,N(Zk + uj) - (1 + r f ) - ' k ~ ( z k )
+
+ln(Vj/k) + ln(1 + rf)
+
+(6.14.2)
+
+where Zk - F - From the comparative statics of Section 6.13, we know that, ceteris paribus, the value of the equity decreases as the face value of the bond increases, and increases as uj increases, that is, as the total time-1 earning of the firm becomes more volatile. When the total value of the firm Vj is fixed, the increase in a, shifts value from the debt holders to the equity holders.
+
+The value of the discount bond is It increases as its face value increases and decreases as the earnings of the firm become more volatile.
+
+We give two interpretations of a risky debt. The time-1 random payoff of the debt can be written as min[Ej, k] = Ej - maxiÂ£ - k,0]
+
+(6.14.4)
+
+= k - max[k - Ej,O].
+
+(6.14.5)
+
+Valuation of Complex Securities with Preference Restrictions Using (6.14.4), the bond holders can be viewed as holding the firm while selling a European call option on the value of the firm with an exercise price equal to the face value of the debt to the equity holders.
+
+We used this interpretation to compute (6.14.3). On the other hand, (6.14.5) implies that the bond holders are holding a riskless discount bond with a face value k, while at the same time selling a European put option on the value of the firm with an exercise price k. In the event that the firm's time-1 earnings are strictly less than k , the equity holders will sell the firm to the bond holders at a price k. Since Ej is lognormally distributed and there, therefore, exists a strictly positive probability that the firm will default on the debt, the put option of (6.14.5) is not worthless, and the debt is risky.
+
+Therefore, the discount bond will sell at a price strictly less than k/(l + rf) and has a strictly positive risk premium.
+
+6.15. Not all securities in strictly positive supply can have payoffs that are jointly lognormally distributed with time-1 aggre- gate consumption, since the sum of lognormally distributed random variables is not lognormally distributed. Under the conditions of Sec- tion 6.10, however, we can always use (6.10.10) and (6.10.13) to price European call options on the aggregate consumption/wealth. Recall from Section 5.19 that these option prices can, in turn, be used to price any complex securities.
+
+Let pc(k) denote the price of a European call on aggregate con- sumption with an exercise price k maturing at time 1. Then where 2 = ~ a r (ln ((7)) , and is the present value of the time-1 aggregate consumption.
+
+Foundations for Financial Economics The price for one unit of consumption paid in states where the time 1 aggregate consumption is equal to k is Since the probability that time-1 aggregate consumption will be equal to any fixed k is formally equal to zero, Qc(k) is equal to zero. (Mathematically, dk is treated as zero.) The pricing density c(k)/dk, is strictly positive, however.
+
+We can do a comparative statics analysis of dC(k). The elas- ticity of dc(k) with respect to an increase in the value of fie is ana- lyzed holding the distribution ,., of (C/Sc) constant thereby implying a proportional change in C. The resulting increase in probabilities of "high" levels of 6 and decrease in probability of "low" levels of 6 increase and decrease, respectively, their elementary claim prices"
+
+This elasticity is Qlndc(k) _ - -5 8 ln Sc ffc .
+
+Note that Zk is a strictly decreasing function of k and Therefore, (6.15.6) is positive for high k and negative for low k.
+
+The elasticity of dc(k) with respect to the standard deviation, This elasticity will be positive for very large and very small k and will be negative for k near E(C), because an increase in variance increases the probability of extreme observations relative to the probability of central observations.
+
+The elasticity of the elementary claim price with respect to the riskless bond price, (1 + q)', is Thus, an increase in the riskless bond price lowers the prices of claims that pay off when the level of 6 is high and raise the prices of claims Valuation of Complex Securities with Preference Restrictions that pay off when the level of 6 is low. However, since (1 + rfY-' = f:OO &(k)dk, an increase in (1 + r f ) '  must increase the average elementary claim price. From (6.10.6) and (6.10.8), a change in the bond price may be associated with either a change in the expected growth rate of aggregate consumption and/or a change in relative risk aversion. Both these possibilities would provide an intuitive explanation for the resulting impact on elementary claim prices 6.16. We analyzed the comparative statics of ~ $ ~ ( k )
+
+with re- spect to the parameters of the economy in the previous section. We can also extract some information on the structure of dc(k) for dif- ferent levels of k. The elasticity of dc(k) with respect to the level of consumption on which it is contingent is For levels of k far below E(C), the elasticity will be positive be- cause the probability density for e increases as k increases. For k well above E(C), the elasticity will be negative due to the combined effects of the decreasing probability density of the level of consump- tion on which the elementary claim is contingent and of decreasing marginal utility of consumption.
+
+6.17. Previous analyses demonstrated that lognormally dis- tributed aggregate time-1 consumption and constant relative risk aversion utility functions for the representative agent are sufficient conditions for the Black-Scholes option pricing formula to price Eu- ropean options on aggregate consumption correctly. Given that time- 1 aggregate consumption is lognormally distributed, a constant rel- ative risk aversion utility function for time-1 consumption for the representative agent turns out to be also necessary for the Black- Scholes formula to price European options correctly. Recall that the pricing density of an elementary claim on aggregate consump- tion divided by the probability density of occurrence of that level of aggregate consumption is the marginal rate of substitution between present consumption and future consumption for the representative
+
+Foundations for Financial Economics agent. The elasticity of this ratio with respect to aggregate consump- tion is constant if and only if the representative agent's utility func- tion for time-1 consumption exhibits constant relative risk aversion.
+
+The probability density of a given level of aggregate consumption k, given Sc, is Therefore, the price density of an elementary claim on aggregate consumption divided by the probability density of the occurrence of that level of aggregate consumption is The elasticity of (6.17.2) with respect to k is which is a constant. Exercise 6.5 will ask the reader to show that the negative of the above elasticity is the coefficient of relative risk aversion for the representative agent's utility function for time 1 con- sumption. Thus, using the Black-Scholes formula to price options on aggregate consumption is implicitly assuming that individuals' util- ity functions for time-1 consumption aggregate to a constant relative risk aversion utility function.
+
+Exercises 6.1. Derive a pricing relation similar to (6.3.3) when individuals have log utility functions.
+
+Valuation of Complex Securities with Preference Restrictions 6.2. Show that the price of a European call option is a decreasing function of its exercise price, and find the conditions under whic it is a strictly decreasing function of its exercise price.
+
+6.3. Let Pj(Sj, k) be the price of a European put on security j with an exercise price k maturing at time 1. Show that Pj is an increasing function of k and that, when the probability that Zj < k lies strictly between 0 and 1, 6.4. Verify relations (6.13.1) to (6.13.5).
+
+6.5. Prove that (6.17.3) is the relative risk aversion of the represen- tative agent's utility function for time-1 consumption.
+
+6.6. We derived t e Black-Scholes option pricing formula by assum- ing that the representative agent's utility functions for t i m e 4 as well as for time-1 consumption are of constant relative risk aversion. Derive a similar pricing formula by assuming only that the representative agent's utility function for time-1 consump- tion exhibits constant relative risk aversion.
+
+Remarks. The discussion on skewness preferences follows Kraus and Litzenberger (1976, 1983). Discussions in Sections 6.5-6.9 are taken from Merton (1973), in which readers can also find a host of related subjects. Our derivation of the Black-Scholes option pricing formula is from Rubinstein (1976). Unlike the original Black-Scholes deriva- tion, Rubinstein's derivation uses equilibrium arguments. Black and Scholes (1973) use arbitrage arguments and derive their formula in a continuous time economy. Merton (1973) formalizes and extends the Black-Scholes results. Cox, Ross, and Rubinstein (1979) also use arbitrage arguments to derive an option pricing formula in a discrete time economy by assuming that risky stock prices follow a binomial random walk. This subject is covered in Chapter 8. They show that their formula converges to the Black-Scholes formula when the
+
+undations for Financial Economics trading intervals shrink to zero and when appropriate limits of their price system are taken. The application of the Black-Scholes op- tion pricing formula to the pricing of corporate risky debt is adapted from Merton (1974). The discussions in Sections 6.15-6.18 are taken from Breeden and Litzenberger (1978). An option pricing formula under the assumptions that individuals have negative exponential utility functions and that asset returns are multivariate normally distributed is derived by Brennan (1979). For a review of the recent developments in option pricing theory and its applications see Cox and Huang (1987).
+
+Black, I?., and M. Scholes. 1973. The pricing of options and corpo- rate liabilities. Journal of Political Economy 81:637-654.
+
+Breeden, D., and R. Litzenberger. 1978. Prices of state-contingent claims implicit in option prices. Journal of Business 5 1:621-651.
+
+Brennan, M. 1979. The pricing of contingent claims in discrete time models. Journal of Finance 34:53-68.
+
+Cox, J., and C. Huang. 1987. Option pricing theory and its applica- tions. In Frontiers of Financial Theory. Edited by G, Constan- tinides and S. Bhattacharya. Rowman and Littlefield. Totowa, New Jersey.
+
+Cox, J., S. Ross, and M. Rubinstein. 1979. Option pricing: A sim- plified approach. Journal of Financial Economics 7:229-263.
+
+Kraus. A., and R. Litzenberger. 1976. Skewness preference and the valuation of risk assets. Journal of Finance 31:1085-1100.
+
+Kraus, A., and R. Litzenberger. 1983. On the distributional condi- tions for a consumption-oriented three moment CAPM. Journal of Finance 38:1381-1391.
+
+Merton, R. 1973. Theory of rational option pricing. Bell Journal of Economics and Management Science 4:141-183.
+
+Valuation of Complex Securities with Preference RestrictionflT7 erton, R. 1974. On the pricing of corporate debt: The risk struc- ture of interest rates. Journal of Finance Rubinstein, M. 1976. The valuation of uncertai the pricing of options. Bell Journal of Economics 7:407-425.
+
+Foundations for Financial Economics Black, F., and M. Scholes. 1973. The pricing of options and corpo- rate liabilities. Journal of Political Economy 81:637-654.
+
+Breeden, D., and R. Litzenberger. 1978. Prices of state-contingent claims implicit in option prices. Journal of Business 51:621-651.
+
+Brennan, M. 1979. The pricing of contingent claims in discrete time models. Journal of Finance 34:53-68.
+
+Cox, J., and C. Huang. 1987. Option pricing theory and its applica- tions. In Frontiers of Financial Theory. Edited by G. Constan- tinides and S. Bhattacharya. Rowman and Littlefield. Totowa, New Jersey.
+
+Cox, J., S. Ross, and M. Rubinstein. 1979. Option pricing: A sim- plified approach. Journal of Financial Economics Kraus, A., and R. Litzenberger. 1976. Skewness preference and the valuation of risk assets. Journal of Finance 31:1085-1100.
+
+Kraus, A., and R. Litzenberger. 1983. On the distributional condi- tions for a consumption-oriented three moment CAPM. Journal of Finance 38:1381-1391.
+
+Merton, R. 1973. Theory of rational option pricing. Bell Journal of Economics and Management Science 4:141-183.
+
+Merton, R. 1974. On the pricing of corporate debt: The risk struc- ture of interest rates. Journal of Finance 29:449-470.
+
+Rubinstein, M. 1976. The valuation of uncertain income streams and the pricing of options. Bell Journal of Economics 7:407-425.
+
+7.1. In Chapters 5 and 6, we discussed allocational efficiency and general pricing principles in two period economies. Most of the results there can be generalized in a straightforward manner to economies with more than two periods. In two-period economies with a single consumption good, individuals trade only at time 0. In a multiperiod economy with reconvening markets, there exists the possibility of trade after time 0. Therefore, individuals' expectations of future prices become an indispensable part of an economic equilib- rium. This leads to the notion of a rational expectations equilibrium, in which individuals' ex ante expectations about future prices are ful- filled ex post. One of the most important features of a multiperiod economy is that the number of securities needed to complete the markets is in general much smaller than the number of states, since individuals can revise their portfolio compositions at each trading date. That is, all the state contingent claims can be manufactured dynamically by trading in a limited number of long-lived complex
+
+ations for Financial securities - securities that are available for trading at every trading rium allocation will be areto optimal. In can then follow the ar- construct a representative agent for pricing urposes. The sign of the risk premium of a risky security depends upon the covariability of its return with the aggregate consumption process. Only in very special cases can the aggregate wealth process, or the market portfolio, play the role of the aggregate consumption e the subjects to which we now turn.
+
+. Consider a multiperiod pure exchange economy under un- certainty that has T + 1 trading dates indexed by t = 0,1,. . . , T .
+
+There is a single perishable consumption good available for con- mption at each trading date.
+
+uncertain environ state of nature and is denoted b before use 0 to denote the collection of all possible states of nature. In a two-period econ- omy with time 0 and time 1, individuals at time 0 only know that the true state of nature is one of 0, which will be revealed at time 1. In a multiperiod economy, will assume that the true state of nature is partially revealed to individuals over time and is completely revealed at the final date of the economy, T .  The revelation of the true state of nature over time is best represented by an event tree, which we will term an information structure. Figure 7.2.1 illustrates an informa- tion structure when there are five possible states and three trading dates. The five possible states are denoted by wi,. . . , w ~ .
+
+At time 0, the only information is that the true state is one of {wi,. . , ,u5}. At time 1, individuals learn that the true state of nature is either one of {wi,w2,ws} or one of {w4,u5}. At time 2, the true state of nature is revealed. For example, suppose that the true state of nature is ws.
+
+Then at time 1, it will be learned that the true state is one among the first three possible states and is neither w4 nor WQ. At time 2, state ws is-wn to be the true state.
+
+Before we proceed, we first fix some terminology and notation.
+
+n event is a subset of 0 .  For example, {wi, w2, w3} is an event. In igure 7.2.1, this event simply says that the true state is one member of {fyi,w2,w3}. Two events are said to be disjoint if they have an 1: An Information Structure empty intersection, that is, if we know the true state is in one event, it cannot be in another. A partittort of 0 is a collection of events {AI,. . . , An,} such that the union of these events is equal to 0 and the pairwise intersections of these events are empty. A given partition is said to be finer than another if any event in the latter partition is a union of some events in the former. In Figure forms a partition at time 0- At time 1, the two e and {w4,ws} form a partition. At time 2, the five individual states form a partition. The information revelation represented by an event tree can be described by a family of partitions of 0, indexed by time, = 0,1,. . . , T }  to denote the information structure with which individuals are endowe ition of 0 with the property that will always assume that 5 = { 0 }  and 5 is the partition generated by all the individual states. This simply means that individuals know at time 0 that the true state is in 0 and they learn the true state by time T .
+
+A time-event contingent claim is a security that pays one unit of consumption at a trading date t > 1 in an event at E ft and nothing
+
+Foundations for Financial Economics otherwise.
+
+There are I individuals in the economy indexed by i = 1.2,. . . , I.
+
+To simplify notation, we assume that individuals have homogeneous beliefs about the possible states of nature denoted by vw, m 6 f2. As usual, we assume also that vw > 0, Vo; E f2. These probabilities in- duce probabilities about events. For an event at ? %, the probability of its occurrence is Individual i has preferences for time-event contingent claims that are represented by time-additive and state independent von Neumann- Morgenstern utility functions that are increasing, strictly concave, and differentiable: Implicit in the assumption that an individual's preferences are de- fined on the time-event contingent claims is the requirement that he can not consume different amounts of consumption across the states that comprise the event at E 7( at time t. This is a natural infor- mational constraint - as an individual at time t cannot distinguish among different states in any at ? 3, his consumption choice cannot therefore depend upon different states in an event in & We also assume that an individual has a nonnegative endowment of t i m e 4 consumption and time-event contingent claims denoted by To avoid degeneracy, we assume that there exists a t and an event at E 5 such that ei, > 0.
+
+Before we leave this section, we remark that the conclusions of Sections 7.3 to 7.14 are valid when individuals have heterogeneous probability beliefs, as long as their probability beliefs all assign a strictly positive probability to each state a; E f2. Readers can draw on the analogy between the discussions of Sections 5.4 to 5.10 and those of Sections 7.3 to 7.14. The former do not depend upon individuals ultiperiod Securities ets I: Equilibrium Valuation having homogeneous probability beliefs.
+
+leave it for intereste readers to show that the latter do not either.
+
+7.3. An allocation of time-0 consumption an the time-event contingent claims is said to be Pareto optimal if there does not exist another allocation that increases at least one individual's expected utility without decreasing any other individual's expected utility. As in Chapter 5, a Pareto optimal allocation is the solution to the following maximization problem for a set of positive weightings (A&: z : ~  = e:t Vat E 5 Vt.
+
+We shall be interested only in Pareto optimal allocations that cor- respond to strictly positive A;'s. The first order conditions that are necessary and sufficient for (c^y c', at ? 5, t = 1,. . . , T),L, to be a solution to (7.3.1) with strictly positive A's are for some strictly positive constants do and (bat and the resource con- straint of (7.3.1), where <f>o and &, are Lagrangian multipliers for the resource constraints at time 0 and for event at at time t, respectively.
+
+Substituting (7.3.2) into (7.3.3) gives
+
+nancial Economics Note that the right-hand side of (7.3.4) is independent of i, the index of individuals. That is, in a areto optimal allocation, the ratios of marginal utilities between any event-at consumption and time4 consumption are equalized across individuals.
+
+A Pareto optimal allocation can be achieved in a competitive economy with a spot market of time-0 consumption and a complete set of time-event contingent claims markets. To see this, let <br\ and $at be the prices at time 0 for the time-0 consumption good and for a share of the time-event contingent claim paying off at time t in event at. Suppose also that markets for these time-event contingent claims are open only at time 0. In such an economy, individual Ãˆ' equilibrium allocation {ci,c;} must be a solution to the following program: .
+
+The first order necessary conditions for {ci, c*} to be a solution to (7.3.5) are for some strictly positive constant x, and the budget constraint, for which 'Y, is the Lagrangian multiplier. In equilibrium, we also know that markets must clear: !it = E tit Vat E 5, Vt.
+
+Comparing (7.3.6), (7.3.7), and (7.3.8) with (7.3.2), (7.3.3), and the resource constraints of (7.3.1), one can easily see that the solutions to (7.3.5) for all individuals correspond to the solution to ( when we take Ai = "if l .  Therefore, the equilibrium allocation corre- areto optimal allocation if there exists a complete set of time-event contingent claims or when markets are complete. An equilibrium of this kind will henceforth be referred to as a complete markets competitive equilibrium.
+
+,4. Note that we have assumed in the competitive economy tion 7.3 that markets for the time-event contingent claims do not reopen after time 0. Therefore, in the specification of an equi- librium there are no prices for the trading dates t = 1, no expectations about these prices held by individuals.
+
+kets for the time-event contingent claims open at each an equilibrium requires a specification of individua about prices for securities in each event at each tr market clearing condition will have to hold for each trading date.
+
+An equilibrium is a rational expectations equilibrium if individuals9 expectations are fulfilled ex post.
+
+In the following section, we will show that a rational expecta- tions equilibrium exists and has th ame allocation as a complete markets competitive equilibrium.
+
+reover, although markets re- open after time 0, there is no trading in equilibrium after time 0.
+
+7.5. We will first introduce some notation. Let qha,{at) be the ex-dividend (ex-payoff) price at time t in the event at for the time- event contingent claim paying off at time s in event a,. It is clear that in any equilibrium we must have When t = s, the first case follows since prices are ex-dividend. If t < s and a, at, in event at, it will be learned that event a, will not occur. Thus, the time-event contingent security paying o event a, will be worthless.
+
+For t < s9 let xa,(at) be the probability of event as when at time
+
+Foundations for Financial Economics t event at occurs. By ayes rule, we have will now construct a rational expectations equilibrium. De- fine &.(at) according to (7.5.1) and We claim that the prices defined in (7.5.1) and (7.5.3) and the com- plete markets competitive equilibrium allocation {c& c k  at E ?i,Vt = 1,. . . , T} are a rational expectations equilibrium in which trading takes place only at time 0. Individuals have rational expectations in the sense that they believe that prices will evolve according to (7.5.1)
+
+and (7.5.3).
+
+To prove our claim, it suffices to show that at any time t and in any event at E 3, {ci,,a, E 7a,a, C at,$ > t} is a solution to the program: That is, at each trading date t, given his expectations of future prices, an individual is content to hold his competitive equilibrium alloca- tion of the time-event contingent claims. First note that { c i ,  a, E 7,,aa C at} is feasible for (7.5.4)) because the budget constraint is satisfied. Next, from the Lagrangian theory, as utility functions are concave, it is sufficient to demonstrate the existence of a constant the Lagrangian multiplier for the budget constraint of (7.5.4), such that uÃ‡(c'at = 7it (7.5.5)
+
+^ao (at)u'i^,)
+
+= 7:. +a. (at), ultiperiod Securities for all as E E ,  as c a t ,  and s > t, for {ci,as E %,as C at} to be a solution to (7.5.4). Now let where 7, is the Lagrangian multiplier for the program (7.3.5). Substi- tuting (7.5.6) into (7.3.6) and (7.3.7), and using (7.5.2) and (7.5.3), we immediately get (7.5.5). That is, there exists a constant as defined in (7.5.6)) such that (7.5.5.) is satisfied.
+
+that individual i will be content to hold his allocation in a competi- tive complete markets equilibrium at any time t and in any event at even when he has the opportunity to retrade. Therefore, there ex- ists a rational expectations equilibrium with complete markets such that the equilibrium allo~at~ion is identical to that in a complete mar- ket competitive equilibrium. Note that in this rational expectations equilibrium, trading only occurs at time 0.
+
+. An individual's optimal consumption and portfolio deci- sions in a multiperiod economy are simple when he has rational ex- pectations and when there exists a complete set of time-event contin- gent claims markets at time 0. This is so because he only has to solve (7.3.5) at time 0. After time 0, there is no need to adjust portfolio holdings of the time-event contingent claims; and, as a consequence, there is no value in markets reopening after time 0.
+
+does not exist a complete set of the time-event contingent securities, however, there may be value for the markets to remain open after time 0, and an individual's optimal consumption and portfolio prob- lem becomes more complicated. The following several sections are devoted to an analysis of multiperiod securities markets which lack a complete set of time-event contingent claims. The most important lesson to be learned is that, with reconvening markets, the markets can be completed by dynamically managing a portfolio of long-lived securities, in number far fewer than the number of time-events.
+
+7.7. Before we proceed, we will first revise some definitions which were used before in two-period economies. A complex security
+
+Foundations for Financial is composed of units of time4 time-event contingent claims an 7t,t=l,... ,TI, are the dividends paid at time 0 and at time t in event an, respectively, in units of the consumption good. A long-lived security is a complex security that is available for trading at all trading ates. A real world example of a long- lived security is a commo stock traded on a stock exchange. A multiperiod securities markets economy or simply a securities markets economy is composed of a finite number of long-lived securities in strictly positive supply represented by their dividend processes x,, j = 0,1,. . . , N, and a finite number of individuals indexed by i = 1,2,. . . , I. Assume that the dividend process x, is nonnegative and is strictly positive at some time t in some event at ? 3. Instead of eing endowed with the ime-0 consumption good and time-event con,tingent claims, indivi al i is endowed with shares of the long- lived securities. Let enote the numbers of shares of security j with which individual i is endowed. To avoid degeneracy, assume th , for every i, there exists some j such that 3(0) > also assume without loss of generality that the total number of shares of each security is one. Thus i=1 As the total supply of a long-lived security is one share, the numbe of shares held by an individual can be interpreted as the proportio of the total supply held.
+
+The ex-dividend price of security j at time t is a random va denoted by S j ( t ) .  It is natural to require that S j ( T )  = 0, for Being a random variable, realizations of S j ( t )  depend on the stat of nature. So, formally, a realization of S,(t) can be denoted b Sj[w,t). As individuals at time t cannot distinguish among state of nature in an event Q G & a natural informational constraint S j ( t )  is that its realizations not vary across states in an event at E In mathematical terminology, this property is usually termed t measurability of S j ( t )  with respect to 3. Individuals are assumed to have rational expectations in that they agree on the mappings dtiperiod Securities A process is a collection of random variables indexed by t. For example, Sj is a process. If S3(t) is measurable wit for all t ,  then we say that the price process S, is a this terminology, a ng-lived security is represen process adapted to As there does not exist a complete set of the time-event con- tingent securities, individuals may not be able to trade to a Pareto optimal allocation at time 0. As a consequence, there may exist in- centives for them to trade after time 0. Therefore, we must have a way of describing the manner in which individuals' portfolio compo- sitions are adjusted over time. To this end, we introduce the notion of a trading strategy.
+
+A trading strategy 8 is an N + I-dimensional process j(t) is the number of shares of security j held from time t - to t before trading takes place at time t .  Therefore, the values of are determined at time t - 1, and a natural informational constraint is that Oj(t) be measurable with respect to 3-i. In mathematical terminology, the process 8. is then said to be predictable with respect , or simply predictable when there is no ambiguity about the mation structure F. Note that a predictable process is certainly adapted.
+
+We shall denote ( (t) , . . . , (t))"' by 8 ( t )  , where as before "' denotes the transpose.
+
+A consumption plan c is a process adapted to IF: where eft) is the random consumption at time t, in units of the single consumption good. A trading strategy 8 is said to be admissible if it is ~redictable and there exists a consumption plan c such that, V t , where S(t) = (So ( t ) ,  . . . ^N^, and X(t} = (xo ( t ) ,  . . . , 3;&))"', Note that in (7.7.1), we have used the convention that when t = T ,
+
+Foundations for Financial Economics the left-hand side is 0, since S,(T} = 0 for all j. Thus, at t = T, (7.7.1) is just Relation (7.7.1) is a natural budget constraint. The left-hand side of (7.7.1) is the value of the portfolio at time t after trading and consumption, while the right-hand side is the value of the portfolio at time t before trading plus dividends received net of consumption.
+
+At the final date of the economy, consumption is equal to the total value of the dividends, which is natural because of the assumption that utility functions are strictly increasing. The consumption plan of (7.7.1) is said to be financed by the trading strategy 0. The space of admissible strategies will be denoted by H .
+
+Individual i's problem is to maximize his expected utility of con- sumption by choosing a consumption plan financed by an admissible strategy. Formally, individual i9s problem is s.t. 0(0) = e'(0)
+
+and {c(t)} is financed by 0.
+
+A rational expectations equilibrium for the securities markets is composed of I pairs of admissible strategies and consumption plan {<)*, cl; i = 1,2,. . . , I} and price processes for the long-lived securitie {S(t); t = 0,1,. . . ,T} such that 0; solves (7.7.3), ci is financed by 0', and markets clear at all times: 1=1 for all t = 1,2, . . . , T and all j = 0,. . . , N.
+
+In a securities markets economy, the source of consumption is t dividends paid by long-lived securities, in units of the consumptio good. Therefore, in equilibrium, Walras law implies that, for all ultiperiod Securities ets I: Equilibrium Valuation 19 1 In the above definition of a rational expectations equi- librium, each individual maximizes his life-time expected utility of consumption at time 0. As markets are open and individuals are able to retrade at each trading date, for the above definition to make sense, it must be an equilibrium property that at each trading time t, there does not exist another consumption plan financed by a trading strategy admissible from t onward that strictly improves the welfare of any individual. We prove this property by contraposition. The idea is that if there exists such an improvement at time t >_ 1, then the expected utility of life-time consumption computed at time 0 can be strictly improved upon. This is a contradiction.
+
+Formally, suppose that there exists a trading date t with 0 < t < T, an event at E Yf, a trading strategy 0, and a consumption plan c starting at time t such that, for every state in the event at andVk= 1,2 ,..., T - t , 0{t + k + 1ITs(t + k) = 0{t + klT(s(t + k) + X(t + k)) - c(t + k), (7.8.1)
+
+and Define a trading strategy and a consumption plan starting at time 0: ei(s) if s <t; ei(s) if s > t and in the events a, at; 0(s)
+
+if s > t and in the events a, C ac, c!(s)
+
+i f s < t ; ct(s) if s >_ t and in the events as <Z a.t; c(s)
+
+if s >_ t and in the events a8 C at.
+
+It is easily verified that 6 is an admissible trading strategy and finances the consumption plan t. We claim that the consumption plan Z yields a strictly higher expected utility at time 0 than does c*.
+
+Denoting the conditional expectation at time t by E[-131, relation
+
+inancia] Economics igure 7-8*1: Conditional Expectation of a Random Variable (7.8.2) implies that with the strict inequality holding in the event at. Here we note that the conditional expectation at each time t > 0 is a random variable measurable with respect to 5. For example, consider the information structure depicted in Figure 7.2.1 and redrawn here in Figure 7.8.1.
+
+The numbers at time t = 2 are possible realizations of a random variable y. Assume that each branch is equally likely. Then the expectation of y conditional on 5 is a random variable: if the true state is a member of {wi,w~,w~};
+
+## 4.5 if the true state is a member of {w4,w5}
+
+That is, at time 1, if the upper node is realized, the conditional expectation of y is equal to 2; while if the lower node realizes, the conditional expectation of y is equal to 4.5. These two numbers are recorded in Figure 7.8.1 on the nodes at time 1.
+
+rkets I: Equilibrium Valuation Taking expectation on By the definition oft, we know that Adding (7.8.4) and (7.8.5) yields This contradicts the fact that ci is a solution to (7.7.3). Therefore, in a rational expectations equilibrium, there is no incentive for indi- viduals to deviate from the strategies chosen at time 0.
+
+. Optimal consumption policies and trading strategies in a multiperiod securities markets economy are tr itionally character- ized by dynamic programming. This procedure starts at time T -  1 with one period remaining. For notational simplicity, we will drop individual indices in this section and Section 7.10 and use w(-)
+
+to denote the utility function for some individual at time t. Naturally, at(-)
+
+is increasing, strictly concave, and differentiable. The problem faced by the individual at time T - 1 is max ur-I (c(T - 1)) + E[UT (c(T))
+
+1 TT-I]
+
+{c(T-I),@(T)} and c(T) = ~ ( T ) ~ x ( T ) , where 9(T - 1) is the vector of shares of long-lived securities that are held from T - 2 to T - 1 and is ?r-2 measurable.
+
+undations for Financial Economics c(T - 1) and 8 are random variables measurable with respect to - 1 .
+
+Denote the maximand of (7.9.1) by V(0(T-1); J r - i ) ,  which we term the indirect utility function at time T - 1. Embodied in this notation is the fact that, given 0(T-1) and &, the individual's maximization problem is well-defined and thus so is V (O(T-1); TT-l).
+
+Given TT-i, the individual knows at which "node" along the event tree representing F he is at time T - 1 and thus has "correct" expec- tations about the X(T) to be realized at time T .  Knowing 0(T- I ) , the portfolio that the individual holds from time T - 2 to time T - 1, allows him to know the value of his portfolio and to meet his budget constraint at time T - 1.
+
+Now go to time T - 2. The problem facing the individual is T Illax ~ ~ - 2 ( c ( T - 2 ) )
+
++ E[ ~ t ( ~ ( t ) ) l ? ~ - 2 ]
+
+t=T-1 (7.9.2)
+
+~ . t .
+
+~ ( t - 1 )  + ~ ( t ) ~ s ( t - ~ )
+
+= e ( t - m S ( t - 1 )  + X ( t - I ) ) ,  t = T - 1 , T , and C(T) = B ( T ) ~ x ( T ) .
+
+We similarly define the maximand of (7.9.2) to be V(0(T-2); Y T - ~ ) , the indirect utility function at time T - 2. Using the arguments of
+
+## Section 7.8, it is easily seen that the optimal consumption plan and
+
+trading strategy chosen at time T - 2 must remain optimal at time T - 1 .  This implies that once decisions about c(T - 2) and B(T - 1 )
+
+are made, the maximal expected utility at time T - 1 (for future consumption) conditional on TT-i is V (0(T - 1 ) ;  7T-1).
+
+Thus (7.9.2)
+
+is equivalent to In general, at any time t = 0 , 1 , .  . . , T - 1 ,  the individual solves ultiperiod Securities ets I: Equilibrium Valuation the following program: where V(O(t + 1 ) ; is the indirect utility function at time t +
+
+## 1. That is, the dynamic problem the individual faces is equivalent
+
+to a sequence of two-period problems: At every time t < T, the individual chooses a consumption c(t) and a portfolio strategy e(t+l)
+
+to maximize his consumption preferences for c(t) and his preferences for the random wealth at time t + 1. Note that the random wealth at time t + 1 can be computed if we know B(t + 1 )  and S(t + 1).
+
+Moreover, an individual has rational expectations, therefore, he has the correct expectation about Â§( + 1 )  given 7f This explains the dependence of V on 9(t + 1) and 7f The preferences for the time t + 1 random wealth are represented by the indirect utility function V(0(t + 1); which represents the maximal expected utility for future consumption conditional on when the random wealth at time t + l  is equal to ~ ( t + l ) ~ ( S ( t + ! )
+
++ X ( t + l ) ) .
+
+7.10. Now we derive a property of an optimal consumption plan which will be useful later in this chapter. Suppose throughout this section that (c,0) is optimal. As mentioned in Section 7.9, the wealth of the individual at time t is It is clear from (7.9.1) and (7.9.2) that, at any time t ,  the role of 0(t)
+
+is to allow the individual to satisfy his or her budget constraint: Therefore, the indirect utility function at time t can equally well be written as V ( W ( t ) ;  3). Then (7.9.4) implies that, along the optimal solution,
+
+unda tions for Financial Economics asks the reader to show that V (W (t); 5) is increasing and strictly concave in W (t). We shall assume that V is differentiable Differentiating both sides of (7.10.3) with respect to W{t} while noting (7.10.2) gives Vw(W(t); 5) = u't(c(t)), where Vw denotes the partial derivative of V with respect to W(t).
+
+That is, along the optimal solution and at any time t, the marginal utility of wealth must be equal to the marginal utility of consumption - this is the so-called envelope condition. By strict concavity, u[ and Vw are strictly decreasing. Thus, there exists a function g, depending on 3, such that c(t) = g(RT(t); 5)
+
+(7.10.5)
+
+and g is strictly increasing in W(t). The dependence of g on 3 sig- nifies the possibility that c(t) is not a deterministic function of W(t)
+
+and may well depend also on the events in 5 Relation (7.10.5) for- malizes the intuitive notion that the higher the wealth an individual has at any time, the higher the consumption chosen at that time will be, ceteris paribus.
+
+## 1. In the complete market rational expectations equilibrium
+
+discussed in Section 7.5, the number of time-event contingent claims available for trading at time 0 is equal to where #{7t} is the number of disjoint events in Tf. This number is equal to the total number of nodes, excluding the node at zero, in the event tree that represents the information structure F. With these time-event contingent claims, the equilibrium allocation is Pareto optimal.
+
+In the securities markets of Sections 7.6 and 7.7, there does not exist a complete set of time-event contingent securities. Thus, the markets are not complete at time 0, and individuals may not achieve ultiperiod Securities . EquI1Ibrium Valuation t = 0 t = I t = Z . An Example of a Securities Market their optimal allocation of time-event contingent consumption by simply trading once at time 0. However, the opportunity to trade af- ter time 0 may allow individuals to reach a Pareto optimal allocation even without a complete set of the time-event contingent securities.
+
+Helped by the discussion of Section 5.7 about market completion by complex securities in a two-period economy, our intuition suggests that markets can be completed by dynamic trading in long-lived securities if, at every node on the event tree representing the infor- mation structure, the markets are complete for the subsequent nodes.
+
+In a two-period economy, market completion by complex securities can be ensured by having complex securities, equal in number to the number of states of nature, that have linearly independent time- 1 random payoffs. In a multiperiod economy, however, the market completion of a two-period sub-economy will depend upon the en- dogenous prices of the long-lived securities. This is a major dis- tinction between a two-period economy and a multiperiod economy.
+
+This point will be made clear by the example discussed in the next section.
+
+7.12. Consider the event tree in Figure 7.12.1.
+
+Foundations for Financial Economics specify probabilities for different states of nature except that each state is of a strictly positive probability. The following analysis is valid for all probability specifications that assign a strictly positive probability to every state.
+
+Excluding the node at time 0, there are seven nodes. That is, in a complete markets competitive equilibrium, we need seven time-event contingent securities. Suppose now that in a securities markets economy, there are three long-lived securities that do not pay dividends until time 2. Security 0 pays one unit of consumption at time 2 in all states and has unit price before time 2. Securities j = 1,2 are risky, and their prices at each time-event before time 2 and their dividends paid at time 2 are listed along the event tree.
+
+For example, if the true state is one of {wl,wi,ws} at time 1, the price for security 1 is 5 and that for security 2 is 3. The prices and dividends specified are certainly adapted to the information structure represented by the event tree.
+
+One question immediately comes to mind. Are the prices spec- ified for the long-lived securities reasonable? For example, do they admit arbitrage opportunities? We will have a complete answer to this question in Chapter 8. For now, we just say that these prices do not admit any arbitrage opportunities and withhold the reasoning until Chapter 8.
+
+We claim that any time-event contingent claim can be created by dynamically managing a portfolio of the three long-lived secu- rities. We shall demonstrate how to design a trading strategy to replicate the payoff of the time-event contingent security that pays one unit of consumption at time 2 if and only if wl is the true state.
+
+Other time-event contingent claims can be replicated by analogy. We use the idea of dynamic programming and work backwards. Suppose that the true state is one of {wl,w2,w3}. Then we will be at the upper node at time 1. The task to be accomplished is to design a portfolio having a payoff equal to 1 at time 2 if wl is the true state and nothing otherwise. Let x be the number of shares of the riskless asset held, and let yj be the number of shares of security j = 1,2 held to create a payoff of 1 at time 2 if and only if wi is the true ultiperiod Securities state. Then (a:, y1, y2) must satisfy the following: The unique solution of (7.12.1) is That is, buying 813 shares of the riskless asset, 113 shares of security 1, and short selling 413 shares of security 2 at time 1 if the upper node is reached creates a payoff of 1 at time 2 if wl is the true state and nothing otherwise. If, on the other hand, the true state is either w4 or wj, at time 1, we will be at the lower node. Since the payoff we are replicating is the time-event contingent security that pays o only at time 2 in state q, we do nothing at the lower node. Thus, the payoff at time 2 will be zero in states w4 and w5.
+
+We go back one period to time 0. From the previous calculation, we learn that to replicate the time-event contingent claim paying off at time 2 in state wi, at time 1 we need to follow the strategy specified in (7.12.2) at the upper node and take no position in the securities at the lower node. To implement this strategy at time 1, we need 113 units of the consumption good at the upper node and 0 units of the consumption good at the lower node. Thus the question at time 0 is what portfolio to purchase in order to have, at time 1, a payoff of 113 at the upper node and 0 at the lower node. Again let (x, y1, y2)
+
+denote the number of shares of long-lived securities. We must solve There exist many solutions to (7.12.3). One of the solutions is The cost of this strategy at time 0 is
+
+Foundations for Financial Economics One can also verify that all solutions of (7.12.3) have t Now we are ready to state the trading strategy that replicates the time-event contingent claim under consideration. At time 0.
+
+purchase 716 shares of the ris less security and short sell 116 shares of security 1. This costs 116 units of the consumption good. At time 1, if we are at the upper node, the portfolio constructed at time 0 will have a value equal to 113 units of the consumption good. We adjust our portfolio composition according to (7.12.2), which costs exactly 113. The portfolio of (7.12.2) has a payoff of 1 at time 2 if and only if is the true state. If the lower node is realized at time 1, the portfolio purchased at time 0 is worthless and we close out our position and do nothing. The dynamic strategy specified in (7.12.2) and (7.12.4) replicates the time-event contingent claim that pays off at time 2 in state q.
+
+. In the example considered in the previous section, the number of time-event contingent claims is equal to seven - the total number of nodes in the event tree of Figure 7.12.1, excluding the node at time 0. However, markets can be completed in a securi- ties markets economy by dynamically trading only three long-lived securities. Note that the three long-lived securities of Section 7.11 dynamically complete the markets; because, for every node on the event tree of Figure 7.12.1, the prices of the three securities at the subsequent nodes form a matrix whose rank is equal to the number of subsequent nodes. That is, markets are complete for every one period sub-economy. For example, if the true state is o>i, we will be at the upper node at time 1. The prices for the three long-lived securities at the subsequent three nodes form a 3 x 3 matrix which is of rank 3.
+
+Certainly, dynamic completion of mar ets depends on the price processes of the three long-lived securiti . Consider a trivial ex- ample in which all long-lived securities have proportional dividend processes. Their prices at every node will simply be proportional, u1tiperiod Securities rkets I: Equilibrium Vduatio oes not provide the investors wi han does trading once at time 0. On the ot s to be dynamically complete, the number o rities traded must be no less than the maximum number of branches leaving each node on the event tree representing the information structure. In the example presented in Figure 7.12.1, this number is three. Suppose that the number of traded long-lived securities is strictly less than three. If the upper node is realiz spanning property fails for the subsequent nodes, b ber of securities is strictly less than the number of states that will possibly be realized at time 2.
+
+Therefore, the number of long-lived securities being no less than the maximum number of branches leaving each node is a necessary but not sufficient condition for the dynamic completion of markets.
+
+It is a sufficient condition in a generic sense, however. This is the subject to which we now turn.
+
+7.14. In the rational expectations complete mar of Section 7.5, the arguments of Section 5.8 can be used to show that the ex-dividend price of a complex security or a long-lived security x at time t in event a; 6 7( is where the third equality follows from the definition of &(at+l, Recall that r a ( a t )  is the conditional probability of time t given that the true state is in at. Let S&) denote ex-dividend price for the complex security x at time t. Then (7.14.2)
+
+undations for Financial Economics 4.3) can be rewritten as where x(t) is the random dividend paid by security x at timet.
+
+A securities markets rational expectations equilibrium is said to implement a complete market rational expectations equilibrium if the following three conditions are met: First, the prices for the long- lived securities in the securities markets equilibrium are the same as those in the rational expectations complete markets equilibrium determined according to (7.14.4) and (7.14.5). Second, the markets are dynamically complete in the securities markets rational expecta- tions equilibrium. Third, the equilibrium allocations under the two market structures are identical.
+
+Now let N be the maximum number of branches leaving each node of the event tree representing the information structure, and let X denote the collection of all the possible long-lived securities. The generic sense of sufficiency referred to at the end of Section 7.13. is as follows: Fix a complete market rational expectations equilibrium.
+
+If we randomly pick N long-lived securities from X and assign their prices at each node using the time-event prices of the complete mar- kets rational expectations equilibrium, then, with probability one, the N long-lived securities dynamically complete the markets. In this probability one event, it is easily verified that there exists a se- curities markets rational expectations equilibrium having the same equilibrium allocation as the complete markets rational expectations equilibrium. That is, with probability one, a complete markets ra- tional expectations equilibrium can be implemented in a securities markets rational expectations equilibrium by randomly selecting N long-lived securities. Conversely, it is also easily seen that every se- curities markets rational expectations equilibrium with dynamically complete markets corresponds to a complete markets rational ex- pectations equilibrium, as the complete set of time-event contingent claims can be manufactured by dynamic trading of the long-lived securities.
+
+ultiperiod Securities rkets I: Equilibrium Valuation The proof for the above generic implementabd nical, and we refer interested readers to Kreps (1 details.
+
+7.15. From the previous discussion, the number of long-lived securities required to complete the markets dynamically in a secu- rities markets equilibrium is no larger than the number of distinct time-events and may be much smaller. The minimum number of long-lived securities needed is determined completely by the way information is revealed over time or by the temporal resolution of uncertainty. If uncertainty is resolved gradually, that is, there are few branches leaving each node and thus the amount of informa- tion to be revealed the next period is small, the minimum number of long-lived securities needed is small. On the other node, the amount of information to be revealed is large, the mini- mum number of long-lived securities needed is large.
+
+each node, for every possible independent source of uncertainty to be resolved the next period, there should be a security or a portfolio of securities having payoffs contingent upon that uncertainty.
+
+Here we note that the ideas discussed in Sections 5.10-5.19 can be generalized in a straightforward manner to multiperiod economies.
+
+For example, since we have assumed in this chapter that individuals have time-additive state-independent utility functions and homoge- neous beliefs, it can be shown that an individual's Pareto optimal al- location of time-t consumption is a strictly increasing function of the time-t aggregate consumption/endowment. Thus as long as securi- ties markets are dynamically complete with respect to the aggregate consumption "events", a Pareto optimal allocation will be achieved.
+
+Other generalizations are left for the readers.
+
+Henceforth, we will only consider securities markets economies with dynamically complete markets unless we specify otherwise.
+
+7.16. Recall from Sections 5.21 and 5.23 that in a two-period competitive equilibrium with complete markets, when individuals have homogeneous beliefs and state-independent and time-additive
+
+Foundations for Financial Economics ns, a representative agent wit the same probability be- a state-independent and tim additive utility function can be constructed to support equilibrium prices by consuming the aggregate endowment. In our securities markets economy, the same conclusion holds. That is, a representative agent can be constructed in equilibrium so that equilibrium price processes can be supported by this representative agent endowed with all the long-lived securi- ties. The optimal trading strategy of this representative agent is to old the aggregate supply of long-lived securities throughout with- out trading, and the optimal consumption plan is simply to consume the aggregate dividends paid at each date and in each event.
+
+The representative agent's utility function can be constructed as follows. First we note that, as markets are dynamically complete in equilibrium, we can compute the complete set of time-event con- ent claim prices, denoted by &, . The equilibrium consumption plan of individual i) ca, must be a solution to (7.3.5). Let 7, be the Lagrangian multiplier for the budget constraint. Putting A, = 'y,l, we define I Ã§ (z) = max Ai in (zi)
+
+(zi9:=1 j=l I (7.16.1)
+
+for all t = 0,1,. . . ,T. Using the same arguments as in Section 5.22, it is straightforward to show that equilibrium prices in the securities markets economy are supported by an agent with the utility functions defined in (7.16.1)) probability beliefs ~ a , ,  and endowment of the total supply of long-lived securities.
+
+Employing (7.14.5), the price process for a long-lived security j can then be written as where ultiperiod Securities is the random aggregate consumption at time t. De the rate of return for holding one share of security j from time t - '.
+
+to time t, (7.16.2) implies that , -) denotes the conditional covariance operator given the information at time t.
+
+To facilitate our analysis, we will assume that the 0-th long- lived security is riskless in that it does not pay dividends until time T and its price at time t < T is where r f y  is the riskless interest rate from time s - 1 to time s. Note that rft can be stochastic, provided that the value of rft is known at time t - 1. The dividend paid at time T by security 0 is Then (7.16.2) implies Now we can proceed as in Section 6.2 by substituting (7.1 (7.16.3) to get
+
+Foundations for Financial Economics In equilibrium, the risk premium of security j at time t - 1 is positive if its resale value plus its dividend at time t is positively correlated with the time t aggregate consumption, and vice versa. The intuition for (7.16.5) is the same as for (6.2.8).
+
+Note that in Section 6.2, we used the observation that in a two- period economy, time-1 aggregate consumption is equal to time-1 aggregate wealth to substitute aggregate wealth for aggregate con- sumption in a relation like (7.16.5). In a multiperiod securities mar- kets economy, there are more than two dates in the economy. Hence, the above observation is only valid at the final date of the economy.
+
+At any time before time T, aggregate consumption is only a fraction of the aggregate wealth. The aggregate wealth at any time t is com- posed of the aggregate consumption or the aggregate dividends at that time and the ex-dividend values of all the long-lived securities.
+
+As long as the aggregate ex-dividend value of long-lived securities is not zero, aggregate consumption will not be equal to aggregate wealth.
+
+Even though aggregate consumption is not equal to aggregate wealth, there exists a functional relation between the two. Con- sider the representative agent in the dynamic programming context of Sections 7.9 and 7.10. Relation (7.10.5) implies that there exists a function g(-; 3 )  such that where Aft denotes aggregate wealth at time t. Substituting (7.16.6)
+
+into (7.16.5) gives As g may not be a deterministic function of just M and t, the sign of the covariance of (7.16.7) may not be determined by just the sign of C O V ~ _ ~ ( Q ~ , Aft). Hence, there may not be a market-based pricing relation. Under a set of very restrictive conditions, however, the relationship between Cf and Mf is deterministic - independent of the events in 5. As a consequence, a market-based asset pricing relation holds. This is the subject to be covered in Section 7.22.
+
+ultiperiod Securities rkets I: Equilibrium Valuation .17. Explicit pricing formulae can be derive sumptions on individuals' utility functions, as in Sec lizing (7.16.5). For example, suppose that the representative agent's utility functions are quadratic where p represents the time preference. As in Section 4.16, we note that individual t reaches satiation at time t when z > CQ /bt.
+
+We therefore assume that aggregate consumption at all times is such that satiation will not be attained. Substituting (7.17.1) into (7.16.5), we get w-11 - T f t In the arguments in Sections 4.16 and 6.2, we also utilized the fact that in a two period securities markets economy there exists a portfolio of securities whose time-1 payoff is perfectly correlated with that of the aggregate consumption/wealth, namely the market portfolio itself. Therefore, the risk premia of risky securities can be expressed in terms of their betas with respect to the market portfolio and the risk premium on the market portfolio. In a multiperiod se- curities markets economy, however, there is no guarantee that there exists a portfolio of securities whose payoff is perfectly correlated with the aggregate consumption process. We therefore choose a dy- namically rebalanced portfolio of securities whose rates of return over time are most highly correlated with the aggregate consumption pro- cess. Denote the rate of return of this portfolio at time t by Fcg. As fct is the rate of return on a feasible portfolio, it must also satisfy (7.17.2):
+
+undations for Financial Economics Now define the consumption beta at time t - 1 of security j to be where Vart(-) is the conditional variance at time t. ~ividingVar~-~(C'~)
+
+into the numerator and the denominator of the right-hand side of (7.17.4) gives This is the Consump n Capital Asset Pricing Model, abbreviated henceforth as CCAP Other pricing relations for different utility functions can be derived. We leave them to readers.
+
+## 8. As a historical note, a consumption-based asset pricing
+
+model of the form (7.16.5) was first derived by Rubinstein (1976) in a discrete time single agent economy. Later, Breeden and Litzenberger (1978) derived a similar relation in a complete markets competitive equilibrium with many heterogeneous individuals. Breeden (1979)
+
+shows that the CCAPM relation (7.17.6) is valid in general in a con- tinuous time securities markets economy where local changes of the securities and the optimal individual consump- will give a heuristic derivation of Breeden's result.
+
+Recall from calculus that if ~c*(t')
+
+is small, where Using (7.14.5) and the arguments used in deriving (7.18.2)
+
+where ?jt and rft now denote the rate of return on security j and the riskless rate from time t - A to time t, respectively. Substituting (7.18.1) into (7.18.2) gives where the second equality follows because ci(t - A) is known at time t -  A.
+
+Dividing both sides of (7.18.3) by - ~ ~ ~ ( c ' ( t - ~ ) ) / u ~ ~ ( c ' ( t - ~ ) )
+
+and summing across i gives where I A C ~ ~c'(t) = C, - CtVA i= 1 w and the equality follows from the facts that Cf = Ct-A + AC*~ and that C~_A is known at time t - A. Let the rate of return from time t - A to t of a portfolio of securities whose rate of return is most highly correlated with the aggregate consumption be denoted by fct- This rate of return must also satisfy (7.18.4):
+
+2 10 nanciai Economics ., ubstituting (7.18.5) into (7.18.4) and dividing by brt-A(C't), we That is, the CCAPM holds approximately over the short time inter- val [t - A,^]. Note that in the above derivation, we require neither that markets be (dynamically) complete nor that utility functions be quadratic.
+
+Breeden (1979) shows that (7.18.6) holds exactly in a continu- ous time economy. His derivation uses stochastic calculus, which is outside the scope of this book. Interested readers should consult his paper for details.
+
+in Section 7.16, we ar ued that in a multiperiod econ- ggregate consumption is ot equal to the aggregate wealth except at the final date of the economy. Therefore, asset pricing relations depend upon the aggregate consumption process except at T - 1. At any time t < T - 1, however, there should be some relation between consumption and wealth. If this relation is nonstochastic and one-to-one, then consumption at any time can be expressed as a nonstochastic function of wealth. As a consequence. we can have a pricing relation that gives the risk premia of risky securities in terms of the stochastic properties of the market portfolio.
+
+In the remaining sections of this chapter, we will formalize the ideas in the previous paragraph and give sufficient conditions under which there exists a one-to-one nonstochastic relation between con- sumption and wealth at each trading date. As the reader will see, these sufficient conditions essentially make a multiperiod problem into a sequence of almost disconnected single period problems. Th only connections between adjacent periods are the wealth dynamics.
+
+Thus, there exists a nonstochastic relation between consumption and wealth when the multiperiod economy essentially lacks any intertem- poral flavor. As an interim result, we will also derive an approximate multi-beta asset pricing relation in Section 7.21.
+
+## 0. To avoid technical complexity, we will assume that ther
+
+is a single representative individual in the multiperiod securities markets economy with utility functions ut(z) for time i consump- tion, which are increasing, strictly concave, and Yit\ denote an M-vector of random variables that are observable at time t. A possible realization of this vector of random variables from time 0 to time t is a state of nature, or an OJ in the state space f!.
+
+Thus, an observation of the realization of Y from time 0 to any time t tells us which states are possible and which states are not. When Y (t)
+
+can only take a finite number of values, as we will assume, all the possible realizations of Y from time 0 to any time t generate a parti- tion, 5 ,  of the state space. The sequence { 5; t = 0,1, . . . , T} is then an information structure. We assume that the single individual is endowed with the information structure constructed above. We will call the vector Y the vector of state variables and Y(t) the vector of state variables at time t. We also assume that Y(0) is a vector of known constants, so that 7o is just {n}.
+
+To begin with, we will put some mild structure on Y. Fix t < T. Let z be a random variable, whose value depends upon {Y[t + I), . . . , Y (T)}. We assume that That is, the conditional expectation of z given the information con- veyed by {Y(0), . . . , Y(t)} is equivalent to the expectation at time t of z conditional only upon Y(t). That is, the historical realizations of Y strictly before time t are irrelevant for the conditional expectation of a random variable whose value depends only upon the possible realizations of Y after t. This kind of memorylessness property is known as the Markov property.
+
+Assume that the dividend paid by long-lived security j at time t depends only on Y (t) and t. That is, xj(t) = zj(Y (t), t). The total supply of any long-lived security is one share. The single individual is endowed with the total supply of long-lived securities. The aggregate consumption at time t is thus
+
+ations for Financial Econ n this single individual economy, it is straightforward to identify a rational expectations equilibrium for the securities markets. Define where the second equality follows from the are asked in Exercise 7.6 to verify that the prices defined in (7.20.
+
+the consumption plan C(Y (t), t), and trading strategy 4 ( t )  = 1 for all j comprise a rational expectations equilibrium for the securities markets.
+
+'21. In the rational expectations equilibrium established in
+
+## Section 7.20, (7.16.5) is certainly valid. Thus, a consumption-based
+
+asset pricing relation holds approximately in the framework of Sec- tion 7.18. With a Markov structure, however, another linear asset icing relation also holds approximately. This relation has more an one "beta."
+
+Formally, we assume that aggregate consumption, C(Y (t), t ) ,  is a differentiable function of Y ( t )  and t. We will denote the partial derivatives of C(Y(t), t )  with respect to Y ( t )  and t by Cy (t) and G$), respectively. Note the C y  is an M-dimensional vector. Cal- culus implies that C(t) w C(t-A) + C ^ ( t - ~ ) ~ ~ l ' ( t )
+
++ C t - ~ ( t - A ) A ~ , (7.21 .l)
+
+and u@(t)) Ã u'((c(t-A)) + <(C(t-A))AC(~), (7.
+
+when A C ( ~ ) , AY (t), and A& are small, where Now substituting (7.21.3) into (7.1 property gives u ' i { C ( t - ~ ) ) C ~ ( t - ~ ) ~ s-3 - (1 + rft)
+
+C o v t _ ~ (rjt, AY (t)) , VJ.
+
+4 - A  (C(t - 0 iting (7.21.4) in matrix notation is an N-vector of 1's. Ft is an IV-vector of asset returns e t - A  to t, and V ^ ( ~ - A )
+
+is the N x variance-covariance matrix of& and Y (t), conditional on Y (t - A).
+
+Next, let Pzd denote the rate of return, from time t-A to t ,  on a portfolio whose rates of return over time are most highly correlated with yk, the A-th state variable. We denote (Pat,. . . , b)T by fat.
+
+Each fzke satisfies (7.21.4), an in matrix notation we have Ã - + ' j t )  u!(C(t-A))
+
+(7.21.6)
+
+UL(C(t-- A ) )  V Z v ( t - ~ ) C y (t- A), where Vzy(t - A) denotes the At x At variance-covariance matrix of SZt and Y (t), conditional on Y (t - A). Substituting (
+
+Foundations for Financial (7.21.5) gives , ( t - A )  denotes the M x M variance-covariance matrix of Y ( t )  conditional on Y (t-A) and ~ y y ( t - A ) '  denotes the inverse of Vyy (t - A). Note that the j-th row of Bxv(t - A) and the the k t h row of &(t-A)
+
+contain the "multiple regression coefficients" of r.( and kt on Y ( t )  conditional on Y (t-A) , respectively. That is, as an approximation, expected rates of return on risky assets are related to the rates of returns on M portfolios in a linear way.
+
+Merton (1973) derives an exact multi-beta asset pricing relation in a continuous time economy. Relation (7.21.7) is an approximation.
+
+7.22. The wealth of the single individual at time t is denoted by W ( t ) .  It is equal to the sum of the ex-dividend values of the long-lived securities and the total dividends, at time t: The right-hand side of (7.22.1) depends only on Y ( t )  and t .  Thus we can write W (t) = W (Y ( t ) ,  t ) .  Defining That is, at each time t ,  the equilibrium consumption is a stochas- tic fraction of the wealth, which depends on the realization of the ultiperiod Securities Ma state variables. Note that (7.22.2) is just a special case of (7.10.5).
+
+Substituting (7.22.2) into (7.16.5) gives (7.22.3).
+
+so the wealth W ( t )  does appear in the pricing relation. Unfortu- nately, the dependence of ~ ( t )
+
+on Y ( t )  may be nontrivial. Thus the covariance term on the right-hand side of (7.22.3) may depend not only on W ( t )  but also on some part of Y ( t ) ,  and the covariability between the rate of return on a security and that on the market portfolio alone cannot determine the sign of the risk Now we will provide a sufficient condition for each time to be a nonstochastic function of wealth variability between r,( and W ( t )  alone determines the sign of the risk premium for security J' at time t - 1. Let us assume that { y  ( I ) ,  y (2), . . . , y (T)} is a sequence of ind ndent random vari..
+
+ables, that is, any partial observation of the uence has no effect on the probabilities of its future realizations.
+
+a random variable whose value depends upon {Y (t + I ) ,  . . . , Y ( T ) } .
+
+Then Using this independence assumption, (7.20.2) becomes Note that the numerator of (7.22.4) depends only on the calendar time t .  The denominator, however, is a strictly decreasing function of C ( t ) ,  because utility functions are strictly concave. Therefore, we can write Sj(t) = Sj(C(t), t ) .  oreover, we know that S,(C(t),t) is
+
+Foundations for inancia1 Economics a strictly increasing function of C(t). Rewrite (7.22.1) as It is easily seen that the wealth at time t can be written as W ( t )  = W ( C ( t ) , t )  and is a strictly increasing function of C ( t ) .  As a con- sequence, there exists a function g such that g(W(t),t) = C ( t )  and g is strictly increasing W{t). Substituting at) = g(W(t), t )  into (7.16.5) and using the arkov property gives Risky security j has a positive risk premium at time t - 1 if an only if its rate of return at time t is positively correlated with W ( t the aggregate wealth at t ,  and vice versa. We have thus recovered single period result by making an assumption strong enough to make a multiperiod problem into, essentially, a sequence of disconnected single period problems in the sense that the realization of the state variables before time t conveys no information about the stochastic properties of Y after t .  Moreover, using a local approximation argu- ment on (7.22.5) as in Section 7.21, we will get a single-beta linear asset pricing relation with the rate of return on the market portfolio as the pivotal variable. We leave this for the reader in Exercise 7.10.
+
+ultiperiod Securities rkets I: Equilibrium VaIuation Exercises 7 . .  Let the consumption plan c be finance by a trading strategy 9.
+
+Show that 7.2. Show that if (7.5.3) is violated, there exists an arbitrage oppor- tunity in a rational expectations competitive economy.
+
+7.3. Show that the indirect utility function of Section 7.10 is increas- ing and striciily concave in wealth.
+
+7.4. Consider a multiperiod securities markets economy with dynam- ically complete markets. Show that the indirect utility function, as a function of wealth for an individual with time-additive util- ity functions; t 1 ~ t ( % )
+
+= P - 1 - 6 ' has the following form, where / and h are possibly stochastic functions depending on events in 5.
+
+7.5. Show in the context of Exercise 7.4 that when ut(z) = pt lnz, the indirect utility function has the form V ( W ( t ) ;  5) = f ( t )  ln W ( t )  + h(t; ^, where we note that f is a deterministic function of time.
+
+7.6. In Figure 7.12.1, we listed prices for two long-live along the event tree. Besides these two securities, there also ex- ists a riskless security as described in Section 7.12. Show that the prices of these three long-lived securities do not admit arbitrage opportunities. That is, there do not exist trading strategies that
+
+Foundations for Financial Economics cost nothing at time 0 and finance consumption plans that are nonnegative and strictly positive at at least one node on the event tree.
+
+7.7. In the context of Section 7.11, determine the price of a complex security that pays $5 at time 1 if and only if the upper node is realized and pays $10 at time 2 if and only if 015 is the true state. Also, describe the dynamic strategy that manufactures this complex security.
+
+7.8. Show that the utility functions defined in (7.16.11 are utility functions for a representative agent in the sense of Chapter 5.
+
+7.9. Verify that the prices defined in (7.20.2) can be supported in a rational expectations equilibrium for the securities markets considered in Section 7.20.
+
+7.10. Use alocal approximation argument on (7.22.5) as in Section 7.21 to get a single-beta linear asset pricing relation with the rate of return on the market portfolio as the pivotal variable.
+
+s. Sections 7.2 to 7.5 are freely adapted from Arrow (1964)
+
+and Debreu (1959). Note that if individuals do not have rational ex- pectations and if markets remain open after time 0, there may exist speculation. A good reference for this is Svensson (1981). When util- ity functions are not time-additive, there exist situations where there are incentives to trade after time 0 in a complete markets competitive economy. Interested readers should consult Donaldson, Rossman and Selden (1980) and Donaldson and Selden (1981). The discussions on the issues relating to dynamically completing markets are borrowed from Kreps (1982). Our heuristic derivation of the CCAPM in con- tinuous time is from Bhattacharya (1980). Interested readers should consult Breeden's (1979) derivation. Recently, Duffie and Zam (1987)
+
+rederived the CCAPM more rigorously. There now exists a growing literature on the existence of an equilibrium when there are an in- finite number of states of nature. Interested readers can consult Mas-Cole11 (1986), Mas-Cole11 and Richard (1987), and Zam (1987), for example.
+
+Duffie and Huang (1985) discuss dynamic spanning when there are infinitely many states of nature in continuous time economies.
+
+arkov economy constructed in Section 7.19 is adapted from Lucas (1978) and Prescott and Mehra (1980), although the method of analysis is different. For generalizations of Lucas' model in ex- change as well a.s production economies, see Brock (1982), Cox, In- gersoll, and Ross (1985) and Huang (1987). Constantinides (19803 1982) gives various conditions under which a single market beta asset pricing model is valid in exchange as well as production economies.
+
+Chamberlain (1987) derives a single market beta asset pricing model under conditions more general than those in Section 7.22. Hansen and Richard (1987) discuss the role of conditioning information in dynamic asset pricing models. For a recent overview of asset pricing theories, see Constantinides (1987).
+
+In many places in this and earlier chapters, we assert without proof that Cov ( f ( ~ ) , Y) and COV(X, Y) have opposite signs when f(.) is positive and monotone decreasing. This is in general not true. It is true, however, when^= a + F +  K with Fand K independent. For example, (4.24.4) on p.
+
+Ill is true.
+
+Arrow, K. 1964. The role of securities in the optimal allocation of risk-bearing. Review of Economic Studies 3 Bhattacharya, S. 1981. Notes on multiperiod valuation and the pric- ing of options. Journal of Finance 36:163-180.
+
+Breeden, D. 1979. An intertemporal capital pricing model with stochastic investment opportunities. Journal of Financial Eco- nomics 7: 265-296- Breeden, D., and R. Litzenberger. 1978. State contingent prices implicit in option prices, Journal of Business 51:621-651.
+
+Brock, W. 1982. Asset prices in a production economy. In The Economics of Uncertainty and Information. Edited by J. McCaIl.
+
+University of Chicago Press. Chicago.
+
+Chamberlain, G. 1987. Asset pricing in multiperiod securities mar- kets. Mimeo. Department of Economics, University of Wisconsin- Madison.
+
+Constantinides, G . 1980. Admissible uncertainty in the intertempo- ral asset pricing model. Journal of Financial Economics 8:71-86.
+
+Constantinides, G. 1982. Intertemporal asset pricing with heteroge- neous consumers and without demand aggregation. Journal of Business 55:253-267.
+
+Constantinides, G. 1987. Theory of valuation: Overview and recent
+
+Foundations for Financial Economics developments. In Frontiers of Financial Theory. Edited by G.
+
+Constantinides an hattacharya. Rowman and Littlefield.
+
+Totowa, New Jersey.
+
+Cox, J., J. Ingersoll, and S. Ross. 1985. An intertemporal general equilibrium model of asset prices. Econometrica 53:363-384.
+
+Debreu, G. 1959. Theory of Value. Yale University Press, New Haven and London.
+
+. Rossman, and L. Selden. 1980. On the need to re- vise dynamic consumption strategies in the presence of unchang- ing Arrow-Debreu preferences. Mimeo. Columbia University.
+
+Donaldson, J., and L. Selden. 1981. Arrow-Debreu preferences and the reopening of contingent claims markets. Economic Letters :209-216.
+
+Duffie, D., and C. Huang. 1985. Implementing Arrow-Debreu equi- libria by continuous trading of few long-lived securities. Ecoao-
+
+## 87. The consumption-based capital asset
+
+pricing model. GSB Research Paper #922, Stanford University.
+
+Hansen, L., and S. Richard. 1987. The role of conditioning informa- tion in deducing testable restrictions implied by dynamic asset pricing models. Econometrica 55:587-614.
+
+Huang, C. 1987. An intertemporal general equilibrium asset pricing model: The case of diffusion information. Econometrica 55: 117- 142.
+
+Kreps, D. 1982. Multiperiod securities and the efficient allocation of risk: A comment on the Black-Scholes option pricing model.
+
+In The Economics of Uncertainty and Information. Edited by J.
+
+cCall. University of Chicago Press. Chicago.
+
+Lucas, R. 1978. Asset prices in an exchange economy. Econometrics 6: 1426-1446.
+
+as-Colell, A. 1986. The price equilibrium existence problem in topological vector lattices. Econometrica 54:1039-1053.
+
+as-Colell, A., and S. Richard. 1987. A new approach to the exis- tence of equilibria in vector lattices. Mimeo. Economics Depart- ment, Harvard University.
+
+erton, R. 1973. An intertemporal capital asset pricing model.
+
+Econometrica 412367-887.
+
+ultiperiod Securities ets I: Equilibrium Valuation Prescott, E., and R.
+
+ursive competitive equi- librium: The case useholds. Econometrics.
+
+:1365-1379.
+
+r, R. 1972. Existence of equilibrium of plans, prices an expectations in a sequence of markets. Econometrica 303.
+
+Svensson, L. 1981. Efficiency and speculation in a model wit contingent contracts. Econometrica 49131-151.
+
+Rubinstein, M. 1976. The valuation of uncertain inc the pricing of options. Bell Journal of Economi Zam, W. 1985. Competitive equilibria in production economies wit an infinite dimensional commodity space.
+
+imeo. Department of Mathematics, State University of New York at Buffalo.
+
+8.1. In Chapter 7, we discussed equilibrium asset valuations in multiperiod economies. In this chapter, we will focus our attention on issues related to the pricing of derivative securities. Derivative securities are long-lived securities whose payoffs depend on the price processes of other long-lived securities. For example, a call option written on a common stock is a derivative security. In many situa- tions, pricing of derivative securities does not rely on equilibrium ar- guments - a derivative security may be priced by arbitrage arguments in the sense that if securities markets do not admit arbitrage oppor- tunities, the price of the derivative security can be determined com- pletely by the price processes of other long-lived securities. When we price by arbitrage, we normally take the price processes of a set of long-lived securities as given and price derivative assets. There is one question that naturally needs to be resolved, namely how do we know that the price processes we take as given do not admit any arbitrage opportunities?
+
+Foundations for Financial Economics e necessary and sufficient cond on for price processes not to admit arbitrage opportunities is that t y are related to martingales, to be defined, through a normalization and change of probability.
+
+This martingale connection also provides a direct way to compute price processes of derivative assets that can be priced by arbitrage.
+
+As an application, we use this method to price a call option when the price process of the underlying stock follows a binomial random walk.
+
+-2. In this chapter we consider a multiperiod securities markets economy with a single perishable consumption good. We fix, until further notice, a state space 0 with a finite number of states of nature and an information structure F = {7t\ t == 0,1, . . . , T}. As in Chapter 7, we assume that the true state will be learned by time T and TQ = {fl}.
+
+There are N + 1 long-lived securities traded, indexed by j = 091,. . . , N .  As in Chapter 7, long-lived security j is characterized by its dividend process xj = {xj (t); t = 0,1,2, . . . , T}, where xj(t) is the random dividend paid at time t, in units of t consumption good. Dividend processes are adapted to P. To simplify the analyses that follow, we assume that the 0-th long-lived security does not pay dividends until time T, at which time it pays one unit of the consumption good in all states. The 0-th long-lived security is just a T-period discount bond with a face value equal to one unit of the consumption good.
+
+We depart a little from the notation and setup used in Chap- ter 7. The ex-dividend price of the 0-th security at time t is denoted by B(t); while the ex-dividend price of security j > 1 at time t is denoted by Sj(t). As the price processes are ex-dividend, Sj(T) = 0 and B(T) = 0. Naturally, B(t), and Sj (t) are random variables mea- surable with respect to 7f Since only relative prices are determined in an economic equilibrium, we assume without loss of generality that prices of long-lived securities are in units of the single con- sumption good. That is, the spot price of the consumption good is unity throughout.
+
+Individuals in the economy, indexed by i = 1,2,. . . , I, have time-additive von Neumann-Morgenstern utility functions %(-) that ultiperiod Securities Markets II: Valuation by -Arbiirage are increasing, strictly concave, and di sition, we assume that u;((O) = oo. T always choose strictly positive consumption, which is a plausible eco- nomic condition. Individual i is endowed with a probability belief TT' = {xi;&; 6 0) about the states of nature and with shares of long-lived securities (ai (0) , ^8 (0)). Since B (t) and S (t) are random variables and depend on the states of nature, so they are functions of w and t. We assume that individuals have rational expectations in that they agree on the mappings B(w, t) and S,(% t). We assume that, for every i, TT' assigns a strictly positive probability to every state.
+
+A trading strategy is denoted by {a(% B(t) = (+(t))gi}, where a(t) and +(t) are the random number of shares of the 0-th and the J'-th security, respectively, held from time t - 1 to time t, before trading occurs at time 1. A trading strategy is a predictable process.
+
+A consumption plan c = {c(t); t = 0,1,. . . , T} is a process adapted to F, where c(t) denotes the random units of time-t consumption.
+
+A trading strategy (a, ) is said to be admissible if there exists a consumption plan c sue a ( t  + l)B(t) + B(t + m)
+
+= a(t)B(t) + 8 ( t ) T ( ~ ( t )  + X(t)) - c(t), (8.2.1)
+
+where S(t) = (Si(t), . . . , S N ( ~ ) ) ~ , X(t) = (xl(t), . . . , x j ~ ( t ) ) ~ , and B(t) = (41 (t), . . . , B N ( ~ ) ) ~ .
+
+Note that in (8.2.1) we have used the convention that the left-hand side is identically equal to 0 when t = T. Thus, at t = T, (8.2.1) becomes The consumption plan of (8.2.1) is then said to be financed by (a, Alternatively, a consumption plan is said to be marketed if it is nanced by an admissible trading strategy.
+
+Note that the definition of a marketed consumption plan does not depend upon any of the individuals' probability beliefs TT*. They will certainly agree whether a consumption plan is marketed and whether a consumption plan is financed by an admissible trading strategy.
+
+Foundations for Financial Economics 8.3. As we mentioned in Section 8.1, one of the major purposes of this chapter is to price derivative securities while taking a price system ( B ,  S )  as given. Therefore, our first order of business is to give conditions on (B, S )  such that it forms a "reasonable" price system.
+
+As the weaker our requirement of reasonableness is, the stronger the implications of our requirement will be, we would like to impose as weak a condition on (B, S )  as possible. Ideally, the requirement should be a necessary condition for any equilibrium price system so that its implications would apply to all equilibrium price systems.
+
+As individuals in the economy strictly prefer more to less, it fol- lows that a necessary condition for a price system to be an equilib- rium price system is that it cannot admit the possibility of something being created from nothing, or admit the existence of arbitrage op- portunities. This necessary condition of an equilibrium price system will be our requirement for a reasonable price system.
+
+Formally, an arbitrage opportunity is a consumption plan c fi- nanced by an admissible trading strategy (a, 0) with the following properties: c is nonnegative and there at least exists a t and an event a; E 3 such that c(at,t) is strictly positive, and a(O)B(O) + 0(0)~(S(0) + X(0)) < 0, where c(at,t) denotes consumption at time t in event at. That is, an arbitrage opportunity is a consumption plan that is nonnegative always and strictly positive in at least one event, and has a nonpositive initial cost. A price system that admits arbitrage opportunities can never be an equilibrium price system, because nonsatiated individuals will take unbounded positions in an arbitrage opportunity so that markets cannot clear. Here we remark that the definition of an arbitrage opportunity does not involve any of the individuals' possibly diverse probability beliefs wi's.
+
+We will show in Sections 8.4 and 8.5 that when no arbitrage opportunities are present, a long-lived security price process and its accumulated dividends, in units of the 0-th long-lived security, have the property that at any time t, the conditional expectation of their sum at any future date must be equal to the sum of their values at time t, where the expectation is taken under a (pseudo)
+
+probability v* = {v^,;u E f2} not necessarily equal to any of the individuals' endowed beliefs xi's. Equivalently, the price of a long- lived security plus its accumulated dividends, in units of the 0-th ultiperiod Securities ets 11: Valuation long-lived security, must form a martingale under a probability w*.
+
+Like all of the v"s, this probability v* also assigns a strictly positive probability to every state u E f2. Since the absence of arbitrage opportunities is a necessary condition for an economic equilibrium, it then follows that every equilibrium price system must have this martingale property. It turns out that this martingale property is also sufficient for a price system not to admit any arbitrage opportunities.
+
+Before we leave this section, we will give a formal definition of a martingale. A process Y = {Y (t); t = 0,1,. . . , T} is a martingale adapted to F under a probability w if E[Y(s)\Tt]=Y(t) V s > t , where E[-l.T't] is the expectation under v conditional on 5. All the martingales will be adapted to F.
+
+will prove first that the no arbitrage condition implies the martingale property. Suppose that (B, S )  admits no arbitrage opportunities. Note that an individual i in this economy solves the following problem: Tl s.t. c is financed by (a, 0)
+
+and (a(0) , 0 (0)) = (ai(0), 0'(0)), where Ej[-] denotes the expectation under v*. As there are only a fi- nite number of time-events, there are no arbitrage opportunities, and individuals only choose nonnegative consumption plans, mathemat- ical arguments show that there always exists a solution to (8.4.1), denoted by ( a ' , ~ ~ ) .
+
+Let c* be the consumption plan financed by (a', 0'). The reader is asked in Exercise 8.1 to show that, Vt < T , As uat(cl(t)) is known at time t, relation (8.4.2) is equivalent to
+
+Foundations for Financial Economics Relation (8.4.3) can be understood as follows. The left-hand side of (8.4.3) is the marginal utility at time t of one fewer share of security j, and the right-hand side is the marginal utility at time t of one additional share of security j. In the optimal solution, there should be no incentive to deviate. Thus it is necessary that the left-hand side of (8.4.3) be equal to the right-hand side. The reader should compare (8.4.2) with (5.6.2) and (7.14.5).
+
+The discount bond prices satisfy a relation similar to (8.4.2): By repeated substitution of the above relation into itself, we have Price processes of long-lived securities are in general not mar- tingales under any of the TT"S, as is evident from (8.4.2) and (8.4.4).
+
+One sufficient condition for price processes plus accumulated divi- dends to be martingales under some individual's probability belief is that there exists at least one risk neutral individual who does not exhibit any time preference. In such an event, (8.4.2) must apply for this risk neutral individual under his probability belief, say TT. Since he is risk neutral and does not have any time preference, uL(ci(s)) = dt (ci(t)) = constant Vs, t .
+
+Thus (8.4.2) and (8.4.4) become, Vt < T , where we have used E[-l7t\ to denote the expectation under TT condi- tional on & From (8.4.6), interest rates are zero throughout.
+
+ultiperiod Securities Markets II: Valuation by Arbitrage Define the accumulated dividend process for security jf to be Now adding D j ( t )  to both sides of (8.4.5) gives where (8.4.8) follows from repeated substitution of (8.4.7) into itself.
+
+Thus prices plus accumulated dividends are martingales under TT.
+
+When no individual is risk neutral, prices of long-lived securi- ties plus accumulated dividends are still connected to martingales through a normalization and change of probability. The process of normalization makes interest rates in units of a long-lived security equal to zero throughout. The change of probability subsumes risk aversion. This is the subject to which we now turn.
+
+.5. We proceed by first defining a normalized or discounted price system and accumulated dividend processes, where We note here that B ( t )  must be strictly positive for all t < T ,  or else there is an arbitrage opportunity which is buying the bond when its price reaches zero and holding it to time T.
+
+Foundations for Financial Economics Next, define a probability v* as follows To verify that TT* is a probability defined on f2 we have to check two defining properties of a probability: <, > 0 and EwEn <, = 1. The first property follows from the fact that utility functions are strictly increasing, B(0) > 0, and the assumption that v i  > 0, Vw. Infact, > 0, Vw. Next note that where the third equality follows from (8.4.4).
+
+Now we want to show that S; + D i  is a martingale under v*.
+
+First we observe that the conditional probability under v* of an event as E 7, given an event at â 3 with s > t, denoted by < ( a t ) ,  is Similarly, we can define v\(at), the probability under v' of a, con- ditional on at. When a, s at, we have where ci(at,t) denotes individual i's optimal consumption at time t in event at, and 4 is the probability of at under va. Relation (8.4.4)
+
+implies that ultiperiod Securities rkets II: Valuation by Arbitrage where B(at,t) denotes the bond price at time t in event at. Substi- tuting (8.5.4) into (8.5.3) gives We are now ready to prove the first main result of this chapter.
+
+Substituting (8.5.5) into (8.4.2) gives, for all t < T - 1, where E*[-\a is the expectation operator with respect to w* condi- tional on & Rearranging (8.5.6) gives, for all t < T - 1, The reader should compare (8.5.7) with (8.4.5). These two relations have the same form, except that one is in units of the consumption good and the expectation is taken with respect to v and one is in units of the discount bond and the expectation is taken with respect to v*. Following the same line of arguments used in deriving (8.4.7)
+
+from (8.4.5), we easily get S g t )  + D*,(t) = E* [S* (s) + D i  (s)l7(] Vs > t, (8.5.8)
+
+= Ee[Di(T)1Tt}.
+
+That is, S* + Di is a martingale under v*. As for the discount bond, B*(t) + D:(t) = 1, Vt, and is certainly a martingale under v*.
+
+In summary, we have proved that if a price system admits no arbitrage opportunities, then, after a normalization, there must exist a probability v* that assigns a strictly positive probability to every state of nature such that price processes plus the accumulated div- idends are martingales under v*. A probability having the above property is termed an equivalent martingale measure.
+
+Foundations for Financial Economics efore we leave this section, we make one remark.
+
+con- structed an equivalent martingale measure by using an individual's probability belief a-' and his marginal utilities. Under the martingale measure, however, the normalized price processes plus normalized accumulated dividends form martingales for all individuals.
+
+now proceed to prove the converse part of the mar- ty: if B(t) > 0 for all t < T and if there exists an equivalent martingale measure, w * ,  for + q, then ( B , S )  admits no arbitrage opportunities.
+
+will prove the assertion by contraposition. Let there be an arbitrage opportunity c financed by an admissible trading strategy (a, 8). That is, c 2 0, c # , and ~ ( O ) + ~ ( O ) ~ ( S ( O ) + X ( O ) )
+
+5 0.
+
+Recall from Exercise -1 that if c is financed by (a, 8), we have .l) follows from the self-financing budget constraint.
+
+The left-hand side of (8.6.1) is the value of the strategy (a, 8) at time T .  The right-hand side of (8.6.1) is the initial value of the strategy plus accumulated gains or losses from trading in the long-lived se- curities from time 0 to time T minus the accumulated consumption withdrawals from time 0 to time T - 1.
+
+Similar arguments show that in discounted units, where X*(t) = ( x z t ) ,  . . . , ~ ( t ) ) ' and ultiperiod Securities Denoting (D: (t), . . . , D J ^ ~ ) ) ~ by D* (t), we have ( t )  - D*(t - l).
+
+8.6.3)
+
+Substituting (8.6.3) into (8.6'21, noting that and rearranging gives Recall that 4(t) is predictable and its value is t time t - 1. It follows that where the third equality follows from the hypothesis that S* + D* is a martingale under K*.
+
+Now we the take expectation of (8.6.4) under K* and use the law of iterative expectations to obtain
+
+Foundations for Financial Economics t = o t = l t = 2 Figure 8.7.1: An Example of a Securities Market where the third equality follows from (8.6.5).
+
+Note the following. If c is an arbitrage opportunity, it must be nonnegative and be strictly positive in at least one event at E 3. By the assumption that B(t) > 0, c* (at, t) > 0. The probability v* is an equivalent martingale measure and thus assigns a strictly positive probability to at. It follows that the left-hand side of (8.6.6) must be strictly positive. On the other hand, because c is financed by (a, 0)
+
+and is an arbitrage opportunity, As B(0) > 0, this implies that which is a contradiction to (8.6.6). Therefore, there are no arbitrage opportunities. We have thus shown that the existence of an equiv- alent martingale measure is a necessary and sufficient condition for (B, S )  not to admit any arbitrage opportunities.
+
+Multiperiod Securities rkets II: Valuation by Arbitrage .T. As a sufficient condition, the martingale property makes it convenient to make sure that a given price system admits no arbitrage opportunities. For example, the prices and dividends for the t long-lived securities considered in Section 7.12, s own here again in Figure 8.7.1, admit no arbitrage opportunities, because there exists an equivalent martingale measure. (Recall that these three securities do not pay dividends until time 3 and the numbers shown at that time are the dividends paid. Also, every branch in the event tree is of a strictly positive probability.) To see this, we will construct an equivalent martingale measure explicitly. We do this recursively by dynamic programming.
+
+At time 1 at the upper node, let pi, pz and ps be the conditional probabilities for q, u-i, and us, respectively. As the price process plus accumulated dividends for the 0-th security is unity throughout, the discounted price system is equivalent to the original price system.
+
+If there exists a martingale measure, then pi, pi, and p3 must satisfy the following linear equations: The unique solution to (8.7.1) is and is written along the three top branches in Figure 8.7.1. Repeat- ing the above procedure, we solve for all the conditional probabilities and write them along the branches. The reader can verify that those conditional probabilities are the unique set that makes prices plus accumulated dividends a vector of martingales. Note that the con- ditional probabilities are all strictly positive.
+
+Given the conditional probabilities written along the branches, it is then straightforward to compute the martingale measure v * ,  which is simply the unconditional probabilities implied by the conditional
+
+ujtiperiod Securities ets II: Vahation by Arbitrage Figure 8.7.2: An Arbitrage Opportunity probabilities: which is equivalent to v. Thus there are no arbitrage opportunities.
+
+Conversely, the failure of the martingale property at any node implies that an arbitrage opportunity can be constructed there. To see this, we change the prices at time 1 at the upper node to be those written on the event tree in Figure 8.7.2. The price at that node for security 2 is changed to 3. It is easily seen that there does not exist an equivalent martingale measure. The unique conditional probability that makes the prices plus accumulated dividends for security 2 a martingale assigns probability one to state w i  and probability zero to states wz and w3. Any unconditional probability implied by this conditional probability cannot assign a strictly positive probability to every branch. Moreover, this conditional probability does not make the martingale property hold for security 3. A casual observation immediately reveals why an equivalent martingale measure does not exist and where the arbitrage opportunity is. The price for the secon security at time t = 1 at the upper node is equal to 3, while its dividends in the three possible states at time 2 are all greater than
+
+## 3. Indeed, the dividends in state w2 and w3 are strictly greater than 3
+
+At this node, the second long-lived security dominates the riskless security and the third long-lived security in that its total returns in all states following the upper node are greater than those of the other two securities and are strictly greater in at least one state. An arbitrage opportunity is, for example, short selling security 1 and buying in security 2 .  The reader will be asked in ~xercise 8.2 to supply the details in constructing an arbitrage opportunity.
+
+8 .  Besides pinpointing the existence of arbitrage opportuni- ties, the martingale property as a necessary condition, tank implications. It allows us to compute the prices of a complex long-lived security over time in a simple way, when the price of the complex security is well-defined over time. Recall that a long-lived security is characterized by its payoffs in each time-event. Thus, a long-lived security is equivalent to a consumption plan and we will use these two terms interchangeably. We will show in this section that when there are no arbitrage opportunities, it is precisely those marketed consumption plans/long-lived securities that have well- defined prices over time. A derivative security is just a consumption plan/long-lived security, so it has well-defined prices over time when it is marketed and when no arbitrage opportunities exist. In such an event, we say that a derivative security is priced by arbitrage.
+
+We now show that a consumption plan has well defined prices over time when it is marketed and there are no arbitrage opportuni- ties. First, we show that a marketed consumption plan has a unique cum-dividend price at time 0. Let c be marketed and financed by 0 1 , O ) .  From (8.2.1), we see that an initial cost for c, by dynamic trading, is a(0)B(O) + 0 ( 0 ) ~ ( ~ ( 0 )
+
++ X(0)).
+
+This is a cum-dividend price for c at time 0.
+
+claim that when there are no arbitrage opportunities, this price is unique. Suppose this is not the case. Then there must exist another admissible trading
+
+Foundations for Financial Economics strategy (&, 6) that finances c with a different initial cost. Without loss of generality, assume that It can be verified that (& - a, 6 - 4) is an admissible trading strat- egy that finances a consumption plan which is zero throughout and has a strictly negative initial cost. It is then easy to turn this into an arbitrage opportunity and a contradiction. The reader will be asked to provide a construction of an arbitrage opportunity in Exer- cise 8.4. Therefore, the cum-dividend price at time 0 for any mar- keted consumption plan is unique. This conclusion also extends to the ex-dividend price at time 0 by subtraction of the time 0 divi- dend/consumption from the cum-dividend price.
+
+Next, we want to show that any marketed consumption plan has a unique price at any time t .  we will work with the ex-dividend prices. An ex-dividend price for a marketed consumption plan at any time t is the number of units of time-t consumption good needed to begin a dynamic strategy that replicates the consumption plan after time t. From (8.2.1), we know that if c is financed by (a2d) then a price for {c(s); s = t + 1,. . . , T} at time t is The fact that this cost is unique when there are no arbitrage op- portunities follows from the same arguments as above. We can thus define unambiguously the exdividend price of the consumption plan c at time t as Similarly, we define the discounted prices over time for c as follows where the last equality follows from (8.2.1). Let r* be an equiva- lent martingale measure, which we know exists because (I?, Â§ does ultiperiod Securities rkets 11: Vduakion by Arbitrage not admit arbitrage opportunities by assumption. We claim t Â§l(i! + xi=o c*(s) is a martingale under the equivalent martingale measure r*. This claim foIlows from arguments similar to those used in deriving (8.6.6). To see this, we know from Exercise 7.1 and from (8.8.2) that (8.8.3)
+
+Substituting (8.8.3) into (8.6.4) gives Taking expectations of both sides of (8.8.4) with respect to r* con- ditional on 3 and using the law of iterative expectations gives = + 1) + e(t + ~ ) ~ s * ( t )
+
+= s:(t).
+
+(8.8.5)
+
+That is, the discounted ex-dividend price for the consumption plan c at time i!
+
+is the conditional expectation under r* of the sum of discounted future consumption.
+
+Note that adding x:=o c*(s) to both sides of (8.8.5) immediately yields
+
+Foundations for Financial Economics which is equivalent to saying that S:(t) + ztzo c*(s) is a martingale under T * ;  because by the law of iterative expectations, Y s  2 t, = s; (t) + c* (s).
+
+]lave thus shawr~ tlmt if (B:S) admits no arbikrage oppor- tunities) not only the prices of the long-lived securities but also the prices of marketed consumption plans have the martingale property.
+
+Given an equivalent martingale measure) the prices over time of any marketed consumption plan can be computed by evaluating a condi- tional expectation under this martingale measure. Although individ- uals) probability beliefs about the states of nature may differ) they nevertheless agree on the price processes of marketed consumption plans. This follows since the price processes of marketed consump- tion plans are determined by the no arbitrage condition and since the definition of an arbitrage opportunity does not involve any of the individuals' probabilities ni)s, 8.9. Consider the price system for the three long-lived securi- ties represented in Figure 8.7.1. The unique equivalent martingale measure is defined in (8.7.2): and the implied conditional probabil- ities are recorded along the branches in Figure 8.7.1. The three trading/consumption dates are t = 0) 1) 2. The first security is a dis- count bond. As its price is unity at time 0 and time 1, the interest rate is zero throughout. Recall from Sections '7.12 and 7.13 that the securities market with the three long-lived securities is dynamically complete. Therefore) any consumption plan can be manufactured dynamically, or is marketed, and has well-defined prices over time.
+
+Mu1 tiperiod Securities Markets 11: Valuation by Arbikrage 24 1 t = Q t =  I t = % .I: An Example of a Consumption Plan Now consider the consumption plan c depicted in Figure 8.9.1.
+
+In this consumption plan, individuals consume only at time 2. The prices for this consumption plan before time 2 can be determined by finding a trading strategy that replicates it through dynamic trad- ing as we did in Section 7.12. Alternatively, because an equivalent martingale measure has been computed, we can use (8.8.6) to com- pute the prices in a straightforward fashion. Note first that because B(t) = 1) Yt 5 T - 1, the discounted price system is equivalent to the undiscounted one. Thus
+
+undations for Financial Economics In Exercise 8.5, the reader will be asked to verify the prices computed in (8.9.1) by constructing a replicating strategy.
+
+Before we discuss an application of the martingale prop- erty in pricing stock options, we digress slightly on some aspects of the theory developed here as they relate to Chapter 7- In Chapter 7, we discussed dynamically complete markets. A necessary and sufficient condition for markets to be dynamically com- plete is that at every node on the event tree representing the infor- mation structure, the number of long-lived securities having linearly independent random returns the next period is equal to the number of branches leaving the node. We will show in this section that, given a price system that admits no arbitrage opportunities, markets are dynamically complete if and only if there exists a unique equivalent martingale measure. We will see that this conclusion follows easily from elementary algebra.
+
+We fix price system (B, S )  that admits no arbitrage opportuni- ties, so that there exists an equivalent martingale measure r*. Let at-1 E 5-1 for some t 5 T and let {asl,. . . ,as,,,} be such that ask E 5, ask C at-1 for k = 1,2 ,..., m, and lJr=lask = at-1. Note that rn is the number of branches leaving the node at-1. Consider the following system of linear equations: The unknowns in this system are p G {pack, k = 1,2,. . . , m}. A strictly positive solution to the system is a conditional probability for {ask; k = 1,. . . , m} given the event at-1, because the first linear ultiperiod Securities Markets Vduation by Arbitrage equation in the system requires that the solutions3 pLHks, sum to one. The other linear equations will simply turn S' + martingale from the node at-1 to its subsequent nodes under the conditional probability {pank ; k = I, . . . , m).
+
+Note that we have rn unknowns and N + 1 linear equations in the system, where m is the number of branches leaving node at-1.
+
+By the hypothesis that there exists an equivalent martingale measure r*, there exists a strictly positive solution to (8.10.1). This strictly positive solution is the conditional probability induced by n-* condi- tional on at-1. lf the matrix on the left-hand side of (8.10.1) has rn linearly independent rows, the solution induced by r* is unique.
+
+We can carry out the above analysis for ach node in tbe event tree representing the information structure and conclude that if there are as many linearly independent long-lived securities at each node as the number of branches leaving the node., that is> if mmkets are dynamically complete, there exists a unique equivalent martin- gale measure.
+
+Conversely, suppose that the conditional probability induced by r* on at-1 is the unique strictly positive solution to (8.10.11. We claim that the matrix on the left-hand side of (8.10.1) must have rn linearly independent rows. Here we note that rn is the maximum number of linearly independent rows the matrix can have, because it has m columns. Suppose this is not the case, that is, the number of linearly independent rows is strictly less than m. By the hypothesis that (B2S) admits no arbitrage opportunities9 we know that there exists a strictly positive solution, p, to (8.10.1). From linear algebra, we then know that there exists a continuum of solutions to (8.10.1)
+
+but not all solutions to (8.10.1) will be strictly positive. Now take any solution p' = {pLel >. . . ,p;#,,,}.
+
+As p is strictly positive9 there exists A E [0, I] such that j E Ap + (I - A)pl is strictly positive- It is easily checked that j is also a solution to (8.10.1). Thus r' is not the unique equivalent martingale measure, a contradiction. It then follows that at every node, the number of long-lived securities that have linearly independent returns in the subsequent nodes must be equal to the number of branches leaving that node. 'This implies that the markets are dynamically complete. We have thus shown that the uniqueness of an equivalent martingale measure is equivalent to
+
+et completeness.
+
+efore we end this section, we make one final remark. The equiv- alent martingale measure of (8.5.1) is constructed by using an indi- vidual's ratios of marginal utilities weighted by his probability belief hen markets are dynamically complete, those ratios weighted by x<'s are equal across individuals! and thus the equivalent martin- gale measure is unique.
+
+Recall from Chapter '7 that for every equilibrium in a competitive economy with a complete set of time-event contingent claims where mqkets open only at time O> there exists a rational ex- pectations equilibrium with reconvening securities markets that has the same allocation, when a set of long-lived securities is appropri- ately chosen. With the aid of the discussion in Sectio prove a very general converse of the above statement.
+
+that for every price system (B, $1 admittin no arbitrage opportu- nities, there exists a competitive economy ere markets open only at time 0 such that every individual optimally trades, in this static setting, to his allocation in the rational expectations long-lived se- curities markets economy. The price system (B, 5') does not have to be an equilibrium price system, and the markets are not necessar- oreover, any solution to an individual's maximization problem in the static economy is also a solution in the dynamic econ- omy.
+
+Formally, let (B, 3 )  be a price system that does not admit arbi- trage opportunities, and let & be the space of marketed consumption plans. From (8.8.6) we know that where the expectation is taken under an equivalent martingale mea- sure. Take any individual in the economyy say individual i. Let ci be his optimal consumption plan in the dynamic economy. Consider This static problem can be understood as follows. At t h e  0, individ- ual i can choose a consumption plan from those that are marketed.
+
+The price of a marketed consumption plan is exactly equal to its initial cost in a dynamic long-lived securities markets economy.
+
+We claim that ci is also a solution to (8.11. ). To see this, we note that because ci is a solution in the dynami economy, it must Thus5 ci is budget feasible for (8.11.2). Suppose that ci is not a solution to (8.11.2). Then5 there must exist a 2 CZ l4 satisfyin budget constraint of (8.11.2) such that 2 E & and has an initial cost equal to ai(0)B(O) i- X(O)), it must also be feasible for individual i in the dynamic econ- omy. This contradicts the fact that ci is a solution in the dynamic economy.
+
+Conversely, let ci be a solution to (8.11.2).
+
+it is also a solution in the dynamic economy. First, c' is feasible in the dynamic economy because it is marketed and has an initial cost equal to &'(0)B(0) + # i ( ~ ) T ( ~ ( ~ )
+
++X(O)). Suppose that ci is not a solution in the dynamic economy. Then there must exist a consumption plan 2 E ht financed by (a,@)
+
+with (a(O),@(O)) = (ai(0), (8.11.4) is true. Relation (8.8.6) implies that satis
+
+Foundations for Financid Economics is thus feasible for (8.11.2). This contradicts the hypothesis that ci is a solution to (8.11.2).
+
+Finally we note that, using the same arguments as in Section 7.8, we can show that in the dynamic economy, an individual has no incentive to deviate from the consumption plan that is optimal in the static economy.
+
+8.12.
+
+The correspondence between a dynamic economy and a static economy makes some analyses in a dynamic economy easier.
+
+We will give an example here. In the remarks at the end of this chapter, the reader can find references for other applications. The power of this correspondence is most pronounced in a continuous time continuous state model.
+
+We consider the consumption-portfolio problem for an individ- ual i posed in (8.4.1). Suppose that (El, S) admits a unique equivalent martingale measure T*. From Section 8.10, we know that markets are dynamically complete, Thus the space of marketed consumption plans Jvt is composed of all the possible consumption plans. Then (8.11.2) becomes where E* [-I is the expectation under T* . Standard mathematical ar- guments show that there always exists a solution to (8.12.1), because there is a finite number of states of nature and U;~(O) = m. Denote this solution by ci. It then follows from Section 8.11 that there exists a solution to the dynamic problem.
+
+Next we want to characterize the optimal consumption and port- folio policies. We can rewrite the budget constraint in (8.12.1) as ul tiperiod Securities 24'7 = Ei c(t)
+
+El(t) + Do (t)
+
+where if*/%i denotes the random ratio of T:/T;, and Forming the Lagrangian yields where ~i is a strictly positive Lagrangian multiplier. The first or- der conditions, which are necessary and sufficient for ci to be an optimum, are and the budget constraint. Relation (8.12.3) can be written more explicitly as
+
+Fom dations for Financial Economics The reader is asked in Exercise 8.6 to verify that is the time-0 price of a time-event contingent claim for the time- event (t, at). Then (8.12.3) corresponds to (7.3.7).
+
+Relation (8.12.3) completely characterizes the optimal consump- tion policy. The one remaining task is to compute the optimal port- folio strategy. As we know the optimal consumption plan already, this is then a standard practice of finding a replicating strategy as demonstrated in Section 7.12.
+
+Utilizing the correspondence between a static economy and a dynamic economy allows us to decompose an individual's optimal consumption and portfolio problem into two parts. First, End an optimal consumption plan in a static economy through the standard Lagrangian method. Second, implement this optimal consumption plan in the dynamic economy through a replicating strategy.
+
+.13. In the rest of this chapter, we will use the martingale property developed in the earlier parts to discuss a discrete time option pricing theory due to Cox, Ross, and Rubinstein (1979).
+
+Consider a multiperiod securities market with two long-lived securities, a risky common stock and a riskless bond. The economy has a long time horizon. However, we only look at a piece of it, say the trading dates t = 0,1,. . . ,T. The risky asset does not pay dividends from time 0 to time T and has prices over time following the binomial random walk depicted in Figure 8.13.1. At time 0, the stock price is S(0) > 0. At time 1, the stock price will be either uS(0) or dÂ§(O) with u > 4 and so on and so forth. That is, at every trading date, the return on the common stock next period will either be u or d. We will assume that u > 1 and d < 1 and interpret the stock price movement from S(t) to uS(t) to be moving up and that to dÂ§(t to be moving down. Note that if S(0) > 0, the stock price will never reach zero. The riskless asset, the bond, does not pay dividends and earns a constant return R. Equivalently, let the bond price at time t be l?.
+
+ultiperiod Securities rkets II: Valuation by Arbitrage : A Binomial Random We assume that the information structure an individual has is the information generated by the stock price.
+
+y this we mean that a state of nature is a complete realization of the risky stock price from time 0 to time T. For example, when T = 3, a possible complete realization of the stock price is In this realization, the stock price moves up at time 1, moves down at time 2, and moves up again at time 3. Thus the state space 0 is composed of all the possible complete realizations of the stock price from time 0 to time T. The event tree representing the information structure is just that depicted in Figure 8.13.1. At time 0, an indi- vidual knows that the state of nature is one complete realization of the stock price from time 0 to time T. Thus To = {a}.
+
+At time 1, the partition 7\ has two events. The first (second) event is composed of all the realizations of stock prices from 0 to T such that the stock moves up (down) at time 1. The other 5's can be understood sim- ilarly. Note that, for every node on the event tree of Figure 8.13.1 before time T, there are only two branches leaving the node. More formally, for every at E 5 with t < T, there are two elements of %+I
+
+Foundations for Financial Economics that are subsets of at. Note also that the information an individual has at time t is simply the historical price realizations of the common stock. The riskless asset does not generate any information, because its return is purely deterministic over time.
+
+Finally, we assume that individuals' possibly heterogeneous prob- ability beliefs assign strictly positive probabilities to all states.
+
+. Now we want to make sure that the prices presented in
+
+## Section 8.13 do not admit arbitrage opportunities. We recall from
+
+Sections 8.5 and 8.6 that a necessary and sufficient condition for no arbitrage opportunities is that there exists an equivalent martingale measure.
+
+As usual, we define want to find a probability that assigns to every state of nature a strictly positive probability such that As S*(t) is strictly positive, (8.14.1) is equivalent to That is, under the martingale measure, the risky stock is expected to earn a rate of return, in number of the bond, equal to zero. Given the price dynamics, there are two branches leaving each node before time T; and, on the two subsequent nodes, S*(t+l)/S* (t) has values u R 1 and d B 1 ,  which we note are two constants independent of time t and of the node at time t. For (8.14.2) to hold, the conditional probabilities at any node on the event tree at time t < T for the subsequent two nodes, induced by the equivalent martingale measure, denoted by a" and I - a" must solve the following linear equation: ultiperiod Securities ets II: Valuation by Arbitrage 25 1 \ d35i(0)
+
+Figure 8.14.1: The Equivalent Martingale The unique solution to (8.14.3) is As w and 1 - w are conditional probabilities induced by an equivalent martingale measure, w must lie in (0,l). The necessary and sufficient condition for w to be in (0,l) is Let us assume henceforth that (8.14.5) is true. Then there exists an equivalent martingale measure. Moreover, since v is the unique solution to (8.14.3), the equivalent martingale measure is unique.
+
+The conditional probability induced by the equivalent martingale measure at each node for time t < T assigns probability a" to the stock's subsequent upward move and probability 1 - w to the stock's subsequent downward move; see Figure 8.14.1. It is easily seen that the probability, under the martingale measure, for a state of nature is completely determined by the number of upward moves of the stock price. For example, the probability, under the martingale measure,
+
+for a complete realization of the stock prices that has n upward moves is v v -  w)'".
+
+Two complete realizations that have the same number of upward moves but differ in the timing of those upward moves are of the same probability under the martingale measure.
+
+By simple combinatorial mathematics, there are number of complete realizations that have exactly n upward moves.
+
+In addition, the final stock price for each of these complete realiza- tions is equal to S(0)tPcFn. Similarly, given S(t) at time t, the con- ditional probability, under the equivalent martingale measure, that there will be n < T - t upward moves in the future and, therefore, e stock price at time T is i ^ f t ) ~ ~ d ~ - ~ - "
+
+Is
+
+## 5. Now we are ready to price an European call option written
+
+on the common stock. First, we note that because there exists a unique equivalent martingale measure, the markets are dynamically complete. Thus any consumption plan is marketed and has well- defined prices over time or is priced by arbitrage.
+
+Consider a European call option written on the common stock with exercise price k and expiration date T. The payoff at time T of this call option is max[S(T) - k,0].
+
+om (8.8.6) and (8.14.6)) we know that the price of this call option at time t is T-t vn(l - v)T-t-n n max [S (t)
+
+- k,0\.
+
+n=o (8.15.1)
+
+ultiperiod Securities ets II: Valuation by Ar is clearly depends only on S(t), the exercise price t. Thus we can write the option price at time t as pf Let j be the minimum number of upward move That is, j is the minimum positive integer such that Then (8.15.1) becomes (8.15.3)
+
+where we have used the convention that if j > T - t, the summation is equal to zero.
+
+Now note the following: In a series of T - t independent trials of an experiment whose success rate is v and whose failure rate is 1 - v, the probability that there will be at least j > 0 successes is T-t $(j;T - t,v) = ( ) " ( I  - v)'Â¥-'-"
+
+(8.15.4)
+
+n= j This is termed the complementary binomial distribution function with parameters j, T - t, and w .  The binomial distribution func- tion is equal to 1 minus the complementary binomial distribution function, and gives the probability that the number of successes is
+
+Foundations for Financial Economics strictly less than j. The trials are termed Bernoulli trials. Substi- tuting (8.15.4) into (8.15.3) gives where j is defined in (8.15.2) and where This is the binomial option pricing formula due to Cox, Ross, and Rubinstein (1979).
+
+Finally, we note that as the number of independent trials in- creases to infinity, the central limit theorem from probability the- ory shows that the binomial distribution function converges to the standard normal distribution function after a suitable normalization.
+
+Cox, Ross, and Rubinstein make use of this observation and show that if we allow trading to occur more and more frequently while keeping the time interval [0,T] fixed, then the binomial option pric- ing formula converges to the Black-Scholes formula if we choose ap- propriate parameters of the price processes in the process of taking limits. The limiting formula is and the two constants r and u are the continuously compounded riskless interest rate per unit time and the standard deviation of the rate of return on the common stock per unit time, respectively. To use this formula, we first fix the unit of measure of time. Suppose that t is in units of a month, for example. R is one plus the monthly riskless interest rate, define r =. lnR, and take u to be the standard deviation of the monthly return on the stock.
+
+We will not present here the limiting procedure mentioned above.
+
+Cox and Rubinstein (1985, pp.196-208) is an excellent source for this procedure, which we encourage the reader to consult.
+
+ultiperiod Securities rkets II: Valuation by Arbitrage Exercises 8.1. Prove relation (8.4.2).
+
+8.2. Given the prices depicted in Figure 8.7.2, demonstrate an arbi- trage opportunity.
+
+8.3. Suppose that the 0-th long-lived security also pays dividends xo(t) > 0, Vt. Prove that the martingale property is still true with a suitable normalization.
+
+8.4. Show that if a consumption plan is financed by two admissi- ble trading strategies with different initial costs, there exists an arbitrage opportunity.
+
+8.5. Verify the prices computed in (8.9.1) by constructing a dynamic replicating strategy.
+
+8.6. Verify that, in the context of Section 8.1 ""'a, ^ , t)
+
+B (at, t) + Do (at, t)
+
+is the time-0 price of a time-event contingent claim for the time- event (t, at).
+
+8.7. In the context of the binomial model, price a security that gives the right to its holder to purchase at time T a share of the common stock at the minimum price that the stock has reached from time 0 to time T.
+
+Remarks. The martingale characterization of a price system that admits no arbitrage opportunities was pioneered by Harrison and Kreps (1979). Their paper, in turn, was motivated by an observa- tion made by Cox and Ross (1976) in an option pricing context. In deriving the martingale property, we assume that individuals' pref- erences have expected utility representations. This is far more re- strictive than necessary. In a finite state model, the only condition needed is that individuals' preferences are strictly increasing. In an infinite states model, some other technical conditions are needed; see Kreps (1981). The martingale property assumes its full power in a continuous time continuous-states model. Interested readers should
+
+Foundations for Financial e and Huang (M), Duffie (W), Harrison and Pliska uang (1985a, 1985b).
+
+eference for the correspondence between a dynamic d a static economy is Kreps (1979). Cox and Huang (1986, 1987), ages (19871, and Pliska (1986) apply this idea to solve an optimal consumption and portfolio problem in a continuous time model. Our brief discussion on the convergence of the binomial option pricing lack-Scholes formula is taken directly from Cox and Rubinstein (1985).
+
+. Scholes. 1973. The pricing of options and corpo- rate liabilities. Journal of Political Economy Cox, J., and C. Huang. 1986. A variational problem arising in finan- mics with an application to a portfolio turnpike theo- king Paper #1751-86.
+
+Sloan School of Management, Massachusetts Institute of Technology.
+
+Cox, J., and C. Huang. 1987. Optimal consumption and portfolio policies when asset prices follow a diffusion process. Working Paper #1926-87.
+
+Sloan School of management, Massachusetts Institute of Technology.
+
+Cox, J., and S. Ross. 1976. The valuation of options for alternative stochastic processes. Journal of Financial Economics 3,145-166.
+
+Cox, J., S. Ross, and M. Rubinstein. 1979. Option pricing: A sim- plified approach. Journal of Financial Economics 7:229-263.
+
+Cox, J., and M. Rubinstein. 1985. Options Markets. Prentice-Hall, Inc., New Jersey.
+
+Duffie, D., and C. Huang. 1985. Implementing Arrow-Debreu equi- libria by continuous trading of few long-lived securities. Econo- metrica 53, 1337-1356.
+
+Duffie, D. 1985. Stochastic equilibria: Existence, spanning number, and the "no expected gain from trade" hypothesis. Ecoaometrica 54:1161-1184.
+
+., and D. Kreps. 1979. Martingales and arbitrage in od securities markets. Journal of Economic Theory Securities Markets II: Valuation by Arbitrage 381-408.
+
+. and S. Pliska. 1981.
+
+stochastic the theory of co astic Processes and Their Applications 11, Huang, C .  1985a. Information s Journal of Economic The Huang, C. 1985b. Informati d viable price systems.
+
+thematical Economics 13, 215- hree essays on capital markets.
+
+School of Business, Stanford University.
+
+Kreps, D. 1981. Arbitrage and equilibrium in economies with in- finitely many commodities. Journal of th edica] Economics 8, 15-35.
+
+Pages, H. 1987. Optimal consumption and portfolio policies when markets are incomplete.
+
+rKng Paper #1#j3-860 S I Q ~ ~ s c h ~ o l assachusetts Institute of Technology.
+
+Pliska, S. 1986. A stochastic calculus model of continuous trad- ing: Optimal portfolios.
+
+thematics of Operations Research 11, 371-382.
+
+## FINANCIAL
+
+DI 9.1.
+
+In our previous discussions, it was assumed either im- plicitly or explicitly that individuals had homogeneous information.
+
+Differential information among individuals is, however, an impor- tant aspect of financial markets. Regulations on insider trading pro- vide evidence for this claim. Many mutual fund managers claim to trade on the basis of superior information. In addition, the exis- tence of active markets for information, such as advisory services and newsletters, signifies the possibility that individuals are differ- entially informed a priori. The first part of this chapter will develop a model of financial markets that incorporates the heterogeneity of information among individuals. The focus of this discussion will be on how private information of individuals gets transmitted to the public through prices and on the appropriate equilibrium concepts.
+
+The idea that individuals may be differentially informed is plau- sible, and it is even more plausible that the managers of a firm have private information about the firm that is not shared with outside investors. In the the second part of this chapter, we consider an
+
+Foundations for Financial Economics entrepreneur seeking outside investors to finance his project. The entrepreneur is privately informed about the quality of the project, which he can only credibly reveal by taking some observable action.
+
+This action is termed a signal. We will introduce the notion of a sig- nailing equilibrium, in which an entrepreneur takes certain actions that would not have been taken were there not information asymme- try.
+
+.2. We will first discuss in general how differential information among individuals can be modeled. In the course of this discussion, we will make extensive use of certain set theoretic notions developed in Section 7.2.
+
+Our attention will be limited to two-period economies where r at time 0 and consumption of a single good occurs at assume that before trading occurs at time 0, each in- dividual receives a piece of private signal conveying to him some information about the state of nature that will be realized at time 1.
+
+Recall from Chapters 7 and 8 that information revelation over time can be modeled by finer and finer partitions of the possible states of nature. In this context, it is natural to say that two individuals are differentially informed if their information structures are not identi- cal. In a two period economy, we can therefore model a signal that an individual receives before trading to be a partition of the state space.
+
+Formally, we fix a state space fl, each element, w, of which is a possible state of nature. Assume for now that f2 has a finite number of elements. Individuals are endowed with a common information structure at time 0, denoted by F = {&,Ti}, where To and T\ are partitions of fl. Assume that To = {a} and that 7\ is the partition in which each state is an event. Recall that the latter condition simply says that the true state of nature will be revealed at time 1 to all individuals. Individuals' prior beliefs are such that every state of nature is of strictly positive probability. Before trading at time 0, however, individual i receives a private signal represented by a  arti it ion 7:. For example, suppose that fl = {wl, . . . , w5} and that 7: = {{wl, w2, w3}, {w4, w5}}. If, for example, w3 is the state of nature that will be realized at time 1, then individual i learns from Financial Markets with Differential Information 26 1 his signal that the state to be realized at time 1 is one of { w ~ , w ~ , w ~ } .
+
+Equivalently, a private signal for individual i can also be represented by a random variable fi defined on fl. For instance, the random variable y, (w) = 1 i f w { ~ 1 , ~ 2 , ~ 3 } , 2 if w â {w4,w5}, conveys the same information as the partition Tf, of the example above, where we note that X(w) is the realization of when the state of nature is w. If = 1, individual i learns that the true state of nature is one of {wl, w2,w3}, and if? = 2, individual i learns that the true state of nature is one of {w4, w5}. That is, a realization of tells individual i whether the true state is one of {wl, wz9w3} or one of {w4,w5}. In this sense, we can say that fi generates the partition G.
+
+As usual, we assume throughout that individuals strictly prefer more to less. Now we claim that in the current context, there does not exist a competitive equilibrium with complete markets when there exist some nonsatiated individuals i and k such that # $. (Here we remark that prices in a competitive equilibrium have only one function, namely to determine an individual's budget constraint.)
+
+To see this, it suffices to consider an example. We take the state space and individual i's signal to be the same as those considered in the last paragraph. Let there be another individual k with signal represented as 2 = {{wl, w2}, {w3,w4, w5}}. Suppose to begin with that either wl or w2 is the state that will be realized at time 1. Then, after receiving his signal, individual i learns that the true state is one of {wl,w2,w3}. On the other hand, individual k learns that the true state of nature is one of {wl,w2}.
+
+Since markets are complete, a competitive equilibrium must assign a price to each state contingent claim. Consider the state contingent claim that pays off in state w3. After receiving his signal, individual k learns that w3 is not the true state. However, even after receiving his signal, individual i still believes that ws may be the true state. If the state contingent price for state w3 is strictly positive, by the hypothesis that utility functions are strictly increasing, indi- vidual k will short sell an infinite amount of the state-w3 contingent claim and use the proceeds to buy state contingent claims paying off
+
+Foundations for Financial Economics in states oh and 012. As a consequence, the market for the state* contingent claim cannot clear. On the other hand, if the state con- tingent price for state 013 is nonpositive, individual i will purchase an infinite amount and the market for it cannot clear. Thus, there does not exist a competitive equilibrium when the true state is either 011 or 012.
+
+Arguments similar to those in the last paragraph show that there cannot exist a competitive equilibrium with complete markets if the true state is any of {mi,. . . , u5}. Thus, there does not exist a com- petitive equilibrium with complete markets.
+
+9.3. A casual examination of the nonexistence result of the last section reveals the reason why an equilibrium does not exist: the in- dividuals do not learn from observing prices. For example, when wl is the true state, a zero price for the state contingent claim paying off in state 013 would be the equilibrium price if individual i con- cluded that the true state must not be state 013 when he observed that the price for state 013 was 0. In this case, an equilibrium can be constructed as follows when individuals i and k are the only two individuals in the economy: Use Bayes rule to compute the two indi- viduals' posterior probability assessments about the states of nature conditional upon the knowledge that the true state is one of {wl,u2}.
+
+There exists, under standard conditions, a competitive equilibrium given these posterior probability assessments. The competitive equi- librium price system must assign zero prices to states 013,014, and 015.
+
+This competitive equilibrium price system is an equilibrium price sys- tem for our economy with differential information, when individuals learn from observing equilibrium prices and the true state is either 011 or 012. Note that in this equilibrium, both individuals know that the true state is one of {ul,u2} and do not know which is the true state. That is, the difference in the information conveyed by the signals they received is symmetrized by the equilibrium prices.
+
+One can apply the same arguments to cases where the true state of nature is any of {u3,u4,u5} and determine that the conclusion reached in the last paragraph is valid in all cases. Moreover, this conclusion is not limited to the special case of two individuals and five states considered and is valid in general. The reader will be Financial Markets with Differential Information asked to show in Exercise 9.1 that, in fact, a necessary characteristic for a price system to be an equilibrium price system when markets are complete and individuals learn from observing the price system is that the price system symmetrizes information among individuals.
+
+9.4. Note that in the construction of an equilibrium in Sec- tion 9.3, unlike in a competitive equilibrium, a price system has two roles: first, determining an individual's budget constraint as in a competitive equilibrium; second, conveying information. An equilib- rium where a price system plays these two roles will be termed a rational expectations equilibrium. This term is the same as was used in Chapters 7 and 8 but applies in a different context. In Chapters 7 and 8, individuals are endowed with the same information struc- ture. They are said to have rational expectations if they agree on the mapping from (01, t )  to the price system S{u, t). Here, individuals are endowed with different information structures. We will not give a general definition of a rational expectations equilibrium, because it would involve some mathematical concepts that are unnecessary for our purposes here. We will examine, however, a class of models with differential information among individuals and give a formal defini- tion of a rational expectations equilibrium in this context. Readers interested in general discussions of rational expectations equilibria can find references in the remarks at the end of this chapter.
+
+Analyses in previous sections and Exercise 9.1 show that when markets are complete and individuals have differential information before trading occurs, it is necessary that individuals have rational expectations for an equilibrium to exist. In addition, in any ratio- nal expectations equilibrium with complete markets, the price system must symmetrize the difference in information among individuals. In such event, the price system is said to be fully revealing. Moreover, a fully revealing rational expectations equilibrium with complete mar- kets always exists under standard conditions. Thus, observationally, there is no distinction between a rational expectations equilibrium and a competitive equilibrium in a corresponding artificial economy that is identical in every aspect except that individuals are endowed with the common information held in the rational expectations equi- librium.
+
+Foundations for Financial Economics Note that although our previous discussion is based on an econ- omy with a finite number of states of nature, all our conclusions hold, with some additional regularity conditions, in economies with infinitely many states of nature.
+
+9.5. Now we turn our attention to economies with incomplete markets. Unlike the complete markets case, a rational expectations equilibrium need not exist and a competitive equilibrium can exist.
+
+We will present an example to show the former result in this section and present another example to demonstrate the latter result in the next two sections.
+
+We consider an economy with two groups of individuals which are equal in number, the informed and the uninformed. The state space is denoted by f2. There is a single consumption good avail- able only at time 1, whose spot price at time 1 is a random variable denoted by f, which we assume to be normally distributed. An in- dividual, informed or uninformed, has a negative exponential utility function defined on time-1 random wealth, - exp{-a*}.
+
+At time 0, an individual can trade on the futures contract of the single consump- tion commodity, whose unit price, the futures price, is denoted by F. Note that a futures contract is a financial asset that promises to deliver a unit of the consumption good at time 1 for a price F, the futures price, determined at time 0. No resources need be committed at time 0 for the purchase of a futures contract. The accounts are settled at time 1.
+
+The markets are obviously incomplete, since there exist infinitely many states and only one security, the futures contract. Note that the structure of this economy is a little different from our usual setup.
+
+The single consumption good is not taken to be the numeraire, and the utility function is defined on wealth rather than on consumption.
+
+The reader can think of our model here as only a "slice" of an econ- omy with multiple consumption goods where the numeraire is not the consumption good discussed in the "slice."
+
+Before trading at time 0, an informed individual receives a pri- vate signal denoted by ?. This private signal takes on two possible ts with Differential Information values where {fZi, fZz} is a partition of fL Assume that fli and fly, are of ., equal probability. Conditional on Y = n, n = 1,2, is normally distributed with mean mn and variance cr2. Assume that mi # my.
+
+- Conditional on Y = n, an uninformed individual is endowed with kn > 0 units of time-1 consumption, with n = 1,2. Assume that # k<i. An informed individual, however, is endowed with a constant k > 0 units of time-1 consumption. An uninformed indi- vidual does not receive any private signal before trading takes place at time 0 and his prior beliefs about are, therefore, an even mix- ture of two normal random variables, which is generally not a normal random variable.
+
+The price at time 0 of the futures contract F may depend upon the realization of the signal received by the informed individuals. If F(Y = 1) is not equal to F(? = 2), an uninformed individual can infer the private signal received by an informed individual from the futures price. In such event, the equilibrium price for the futures contract is fully revealing.
+
+Conditional on ? = n, an informed individual i solves the. fol- lowing problem: max El- exp{-aW}\Y = n]
+
+fli ~ . t .  w = e,(q- F) + gk, where 0, is the number of futures contracts purchased by individual i at time 0. Conditional on ? = n, 6' is normally distributed with mean and variance: E\W\Y = n ]  = (di+k)rnn-9,F, Note that the conditional variance is independent of the realization of ?, which is a general property of normal random variables. The distribution of exp{-a6'} conditional on ? = n is lognormal. Direct computation yields
+
+Foundations for Financial Economics As an exponential function is strictly increasing in its exponent, (9.5.1) becomes max a[(Ãˆ + k)m, - SiF\ - ,a2(Ãˆ + k)'u2.
+
+(9.5.2)
+
+Ã ‡ This is a strictly concave program, and its unique solution is charac- terized by the first order condition: Suppose there exists a rational expectations equilibrium with a price functional F(YY We first claim that F(?) must be fully revealing. Suppose this is not the case. That is, there exists a ra- tional expectations equilibrium price functional F(Y) with F(Y = 1) = F(?=2).
+
+From (9.5.3)) we know that the optimal .-, demand for the futures contract for an informed individual when Y = 1 is dif- ferent from that when ?==2, since mi # m2. By the hypothesis that the futures price does not vary across two possible realizations of an informed individual's private signal, an uninformed individual max- imizes expected utility according to his prior beliefs about i. Thus his optimal demand for the futures contract does not vary across the realizations of ?. It then follows that the markets for the futures contract cannot clear so that a rational expectations equilibrium, when one exists, must be fully revealing.
+
+Next let F(Y) be a price functional for the futures contract such that F(? = 1) # F(V = 2). Facing the price functional F(Y), an uninformed individual learns the realization of? received by an informed individual. Conditional on ? = n, an uninformed individ- ual j's optimal demand for the futures contract is a solution to the following problem max E[- exp{-&}I?
+
+= n]
+
+OY where O j  denotes the number of futures contracts purchased by indi- vidual 3. Using identical arguments as in the analysis of (9.5.1) we - get, conditional on Y = n, Financial Markets with Differential Information * The equilibrium futures price, conditional on Y = n, is deter- mined by the market clearing condition Consider the following data: ml = 3, m2 = 4, a = 1, 0 2  = 1, k = 2, kl = 3, and k2 = 5. Then This contradicts the fact that F(?) is fully revealing. Thus there does not exist a rational expectations equilibrium!
+
+Note that the above example is not robust in that with a slight change of data there can exist a rational expectations equilibrium.
+
+For example, consider the same data as above except that n - i ~  = 5.
+
+Then and is a fully revealing rational expectations equilibrium price func- tional. The crux of the matter, however, is that a rational expec- tations equilibrium may not exist for a given specification of the parameters of the economy.
+
+9.6. In the previous section, we discussed an example of nonex- istence of a rational expectations equilibrium when markets are in- complete. Recall from Section 9.2 that when markets are complete and individuals are asymmetrically informed, there does not exist a competitive equilibrium. We now demonstrate, through an exam- ple, that there can exist a competitive equilibrium when markets are incomplete. In this competitive equilibrium, however, individuals ignore the informational content of a price system.
+
+Consider the following model of financial markets. There are two periods, time 0 and time 1. At time 0, individuals trade in one risky and one riskless asset. At time 1, individuals consume and the economy ends. One share of the risky asset pays 2 units of the
+
+Foundations for Financial Economics * single consumption good at time 1, where X is a random variable.
+
+The risky asset has a total supply of one share. The riskless asset is in zero net supply and pays one unit of the single consumption good for sure at time 1. There are I individuals in the economy, indexed by i = 1 2 , .  . . , I. Individual i is characterized by his utility function ui(z) = - exp{-aiz} on time 1 consumption and his endowment of a number of shares of the risky asset, denoted by gf. Individuals are not endowed with the riskless asset. All individuals have a common probability belief P, under which 2 is normally distributed with mean % and variance 02.
+
+Before trading takes place, individual i receives a private signal Y,, where -X" and (?&^ are mutually independent and normally dis- tributed and E[Zi] = 0, W. The variance of 2, is denoted by a:.
+
+Implicit in the above setup is a state space 0, on which all the random variables are defined. This state space has infinitely many elements, because the random variables are normally distributed.
+
+Each realization of fi, denoted simply by y;, tells individual i that some states are possible and some are not. Individual i then updates - his probability assessments about X according to Bayes rule.
+
+If the realization of his private signal is yj, individual i's problem is max E 1- exp {- aiWi}\Y, = yi]
+
+%,9i where we have normalized the price of the riskless asset at time 0 to be 1, Sz is the price of the risky asset at time 0, and 8, is the number of shares of the risky asset individual i' chooses to hold. With the time-0 price of the riskless asset normalized to be 1, the rate of return on the riskless asset is zero. Note that, conditional on fi = yi, 2 is normally distributed with mean and variance as follows: where Financial Markets with Differential Information Note that the conditional mean of 2 given % = yi is equal to the unconditional mean of 2, mx, plus the "beta" of -X" on $, denoted by /3xy,, times .-, the deviation of yi from mx. Similarly, the conditional variance of X given Yi = yi is equal to the unconditional variance, 02, minus /3zyi times 02. As we noted before, the conditional variance of (9.6.4) is independent of the realizations of c. Arguments similar to those used in deriving (9.5.3) and (9.5.5) show that where & is the return on the risky asset, and substituting this ex- pression into (9.6.5) gives Relation (9.6.5) says that individual i will invest in the risky asset if and only if he expects, conditional on his signal, that the time-1 payoff of the risky asset will be strictly greater than its time-0 price.
+
+His demand for the risky asset is a decreasing function of its price.
+
+On the other hand, (9.6.6) implies that the dollar demand for the risky asset is strictly positive if and only if the risk premium is strictly positive. (Recall that the riskless interest rate is zero.) In addition, the more risk averse individual i is ( or the larger a;), the smaller the absolute values of 6, and 6;Sz are. These results are consistent with our analysis in Chapter 1. Note also that (9.6.5) and (9.6.6)
+
+are independent of individual i's endowment, #,-, because negative exponential utility functions exhibit constant absolute risk aversion and there is no wealth effect.
+
+.7. Having computed individuals' demands for risky assets, we are now ready to construct a competitive equilibrium. As we
+
+Foundations for Financial Economics have normalized the price of the riskless asset to be equal to one, a competitive equilibrium is composed of a price, Sz, for the risky asset at time 0 such that the market for the risky asset clears. By Walras law, once the market for the risky asset clears, the market for the riskless asset clears also. Our task, therefore, is to find Sz such that I Ye, = 1.
+
+(9.7.1)
+
+,=I We can accomplish this by summing (9.6.5) across individuals and equating it to 1: Solving for Sz gives Relation (9.7.2) gives a competitive equilibrium price for the risky asset. This equilibrium price for the risky asset is equal to the certainty equivalent of its time-1 payoff. The certainty equivalent is a weighted average of individuals' expectations of 2 given the signals they received minus a risk adjustment factor. The weight for individual i's conditional expectation of 2 is * ..
+
+which is larger the smaller a, and Var(XlY,- = yi) are, ceteris paribus.
+
+That is, the less risk averse individual i and the more precise the signal Y, (as captured by a smaller ~ar(XlY, = y,)) are, the more highly weighted individual i's estimate about 2 is in the equilibrium Financial Markets with Differential Information price. Similarly, the risk adjustment factor will be smaller when individuals are less risk averse and their signals are more precise.
+
+The competitive equilibrium constructed above makes a great deal of intuitive sense. The comparative statics discussed all seem to go the right direction. Unfortunately, this competitive equilibrium is not stable in the following sense. Note that the price of the risky asset in the competitive equilibrium is a linear function of individ- uals' signals. To see this, we simply substitute (9.6.4) into (9.7.2)
+
+and observe that var(zlC = yi) is independent of the realization of Y,. In order to trade, individuals must know the equilibrium price of the risky asset, since their demands as characterized in (9.6.5)
+
+depend on that price. If they understand the relationship between the price and the signals (PI,. . . ,?I), as would happen if, for exam- ple, the economy were repeated and individuals learned from history, they would realize that the risky asset price contained valuable in- formation about the payoff of the risky asset. In such event, after observing the equilibrium price in the competitive equilibrium, indi- viduals would acquire extra information and form their demands for the risky asset using their new posterior beliefs. It then follows that the competitive equilibrium price may fail to clear the market and the competitive equilibrium may break down.
+
+Suppose instead that there is a price function which gives prices for the risky asset for all possible realizations of the joint signal, (PI,. . . ,?I), in that, for a given realization of the joint signal, (yl, . . . , yI), Sz(yl,. . . , yI) is the price for the risky asset.
+
+Moreover, the functional relationship between Sz and the joint signal is k n o w n  to individuals in that for every realization (y1,. . ., yl) of (?I, . . . , fi), an individual i calculates his optimal demand for the risky asset using the posterior belief conditional on his own signal $ = yi and the price 5 ' 6 , .  . . ,?I) = Sz(yi,. . . , yI) and the market clears. Then the price functional gives an equilibrium price for the risky asset for all possible realizations of the joint signal. This equi- librium is stable in the sense that it will not break down even after many repetitions of the economy, because individuals k n o w  the func- tional relation between the equilibrium price and the joint signal and
+
+Foundations for Financial Economics have already taken it into consideration in calculating their optimal demands. This equilibrium is a rational expectations equilibrium.
+
+Individuals are said to have rational expectations if, in equilibrium, they understand the functional relation between the equilibrium price (of the risky asset) and the joint signal. In a rational expectations equilibrium, all individuals have rational expectations.
+
+8 .  We will show that there exists a rational expectations equilibrium in the economy constructed in Section 9.6, when we add the assumptions that uzi = uz, VI. The proof is by construction: construct a price functional and show that it is indeed a rational expectations equilibrium price functional. Before proving this asser- tion, however, we discuss some results in probability theory that will be useful.
+
+Let 5 be a random variable, let a denote its realization, and let fi(yi,z\x) be the joint density of fi and 2 conditional on 2. The random variable 2 is a sufficient statistic for ft(yÃˆ zlx) if there exist functions gl(-) and g2(.) such that for all yi and z, If 2 is a sufficient statistic for fi(yi, zlx), the conditional density of 2 given fi and 2, denoted by h(x\yi, z), is independent of fi. To see this, we note that by Bayes rule, where g(-) is the density function for 2. As 5 is a sufficient statistic for fi(yi,ax), we substitute (9.8.1) into (9.8.2) to get The right-hand side of (93.3) is independent of yi, which was to be proved.
+
+inancial Markets with Differential Information Now we claim that is a sufficient statistic for fi(yi,ij1x), the joint density of and F conditional on 2, where ij is a realization of 7.
+
+Intuitively, this follows because, with the additional assumptions about the distribu- tions of ZÃ individuals are getting signals that are independent and identically distributed conditional on 2.
+
+Thus the mean of the sig- nals is more informative than any individual c. More formally, we want to show that (9.8.1) holds when we take 2 to be p. Gondi- tional on 2 = x, fi is normally distributed with mean x and variance 4, and is normally distributed with mean x and variance aÂ£/I - ., Conditional on X = x, the covariance off, and is e/J. Thus con- ditional on 2 = x, (w)
+
+are bivariate normal with a mean vector (x, x) and a variance-covariance matrix Therefore, x exp u2/I a2/!
+
+g - x Define and Then fi (yi, g\x) = gl (yÃˆ g)g2 (g, x), and we have proved our assertion.
+
+Foundations for Financial Economics As is a sufficient statistic for fi(yi, ylx), the density of 2 conditional on Yi = yj and 7 = y, h(xyi, g), is independent of yj.
+
+As a consequence, where is the "beta" of 2 on 7. The interpretation of (9.8.4) is similar to that for (9.6.3) and (9.6.4).
+
+Using similar arguments, we can show that is a sufficient statistic for the joint density of (Vl,. . . ,?'I, 7 )  conditional on 2 and, thus, 9.9. Now we are ready to construct a rational expectations equi- librium. First we note from (9.7.2) that if every individual received a signal equal to 7, the competitive equilibrium price functional would be a linear function of 7 .  This functional will be our candidate for a rational expectations equilibrium price functional. The reasoning is as follows: As individuals have rational expectations, once they see the equilibrium price announced by the auctioneer, they can invert the price to solve for the realization of 7. Knowing F, which is a sufficient statistic for f;(yi, ylx), a rational individual's optimal de- mand for the risky asset will be independent of his own signal. In fact, individuals' optimal demands are equal to those in an artifi- cial economy where all individuals received the signal 7. Thus our Financial Markets with Differential Information price functional clears the market for the risky asset and is a rational expectations equilibrium price functional.
+
+Formally, consider an artificial economy identical to t currently being analyzed except that all individuals receive a signal equal to 7. As there is no differential information among individuals in this artificial economy, we simply look for a competitive equilib- rium. Given a realization ij of Y , the optimal demands for the risky asset are and the competitive equilibrium price for the risky asset is where we have used (9.7.2) and (9.8.4). Observe that Sz is a linear function of y with fixed coefficients in (9.9.2). We will use SZ(y)
+
+to denote the value of this linear functional when 7 = y. Note that there is a one-to-one correspondence between fj and SZ(y), and Sx(Y) is therefore invertible.
+
+The price functional of (9.9.2) is intuitively appealing. The price of the risky asset is higher the higher the realized average signal g, ceteris paribus. For a given change of y, the response of Sz is proportional to &, which lies in (0,l) by the definition given in (9.8.4). The proportional increase of Sz is higher the smaller o-2 is, or equivalently the more precise the signals are. Also, ceteris paribus, the more risk averse individuals are, the lower the price for the risky asset, since they require a higher risk premium to hold the risky asset. The comparative statics of Sz with respect to and a2 are left for the reader.
+
+Note that the competitive price functional of (9.9.2) is also an equilibrium price in another artificial economy where individuals share their signals before trading, that is, where individuals observe
+
+Foundations for Financial Economics the joint signal (PI,. . . , Yi} before trading. T is is so, because is also a sufficient statistic for the joint density of (YI,. . . , Yi, Y) given
+
+## 2. The reader will be asked to prove this claim in Exercise 9.2
+
+Now we claim t e price functional of (9.9.2) is a rational expectations price functional. Given this price functional, individual i's rational expectations demand for the risky asset is ei = ~[Xly.
+
+= yi, Sz(F) = Ss(g)] - Sfi)
+
+a2var(X1$ = yi, ~ ~ ( 7 )
+
+= :SZ(g))
+
+where the first equality follows from the fact that S3;(g) is an invert- ible function of g, and the second equality follows from (9.8.4) and the fact that Y is a sufficient statistic for fi(yi,jj[x). Note that the right-hand side of the third equality is identical to the right-hand side of (9.9.1) when we take Sz to be Sz(g). Thus a rational individ- ual's optimal demand when faced with the price functional Sz(Y) is identical to that in the artificial economy. We know that the price functional clears the market in the artificial economy. Thus the price functional clears the market in the rational expectations economy and is a rational expectations equilibrium price functional.
+
+9.10. The rational expectations equilibrium constructed in Sec- tion 9.9 has the following properties. First, the information conveyed by the equilibrium price is superior to any private signal in the sense that the price information is a sufficient statistic. Thus, given the equilibrium price, private information becomes redundant. Second, the rational expectations equilibrium is identical to a competitive equilibrium in an artificial economy where individuals share their private information. These two properties amount to saying that the rational expectations equilibrium price system symmetrizes the differences in information among individuals and thus is a fully re- vealing price system. A rational expectations equilibrium with a Financial Markets with Differential Information fully revealing price system is said to be a fully revealing rations expectations equilibrium.
+
+A fully revealing rational expectations equilibrium seems eco- nomically attractive. The equilibrium price system aggregates di- verse private information among individuals efficiently in that it re- veals a sufficient statistic for the diverse information. Moreover, the equilibrium allocation cannot be improved on by a social planner who has access to the joint private signals.
+
+A fully revealing rational expectations equilibrium, however, has the following problems. As the equilibrium price system conveys in- formation that is superior to an individual's private signal, the op- timal demand for the risky asset is independent of the individual's private signal! The optimal demand depends only upon the equilib- rium price. If an individual's optimal demand is independent of his or her private signal, how can the equilibrium price sysiiem aggregate individuals' diverse private signals? In addition, an individual will not have an incentive to collect private information if it is costly to do so - a fully revealing equilibrium price system renders the informa- tion collection activity an unprofitable proposition. It then follows that if no individuals collect private information, certainly there is no diverse private information to aggregate. These are the paradoxes associated with a fully revealing price system.
+
+The paradoxes can be resolved if the price system aggregates in- formation only partially in the sense that the price information is not a sufficient statistic for an individual's private signal. In such event, the optimal demand of an individual for the risky asset will depend not only upon the price information but also upon his own private signal. This solves the first paradox. Since the optimal demands for the risky asset depend upon individuals' private signals, individuals have incentives to collect private information even at a cost. This solves the second paradox.
+
+Now the question is under what scenario will a price system be partially revealing? Note that in the fully revealing rational ex- pectations equilibrium considered earlier, there is only one source of uncertainty, namely the time-1 payoff of the risky asset 2. Individu- als receive private signals about 2, and the equilibrium price system reveals a sufficient statistic about individuals' private signals. The
+
+Foundations for Financial Economics price system is fully revealing, because it is a nontrivial linear func- tion of the sufficient statistic and is thus invertible. When the price of the risky asset increases, individuals can infer that this occurs be- cause the demand for the risky asset increases, which is in turn due to more optimistic private signals, on average.
+
+Suppose instead that there is an additional source of uncertainty in the economy, for example, the aggregate supply of the risky asset.
+
+Then when the price of the risky asset increases, individuals may not be able to tell for sure whether it is because the private signals are more optimistic or because the aggregate supply is smaller. In such an event, the price system does not provide information that is superior to an individual's private signal and is not fully revealing.
+
+e will show in the next section that such an equilibrium exists.
+
+Note that the assumption of an uncertain aggregate supply is not the most natural. For example, in a stock market economy, the total supply of a common stock is the number of shares outstanding and is common knowledge. This somewhat contrived assumption, however, provides tractability to our analysis.
+
+9.11. Consider again the economy constructed in Section 9.6.
+
+Assume that individuals have rational expectations and the same co- efficient of absolute risk aversion. Assume in addition that individual i's endowment of shares of the risky asset is a draw of a normally dis- tributed random variable c. The random variables (GI,. . . , Vi} are independent and identically distributed with mean zero and variance a^,. The zero mean assumption is made for convenience and can be relaxed easily. A realization of 6 is denoted by vi. It follows that the total supply of the risky asset is a realization of the random variable which is normally distributed with mean zero and variance 14, where we recall that I is the total number of individuals. A real- ization of j is denoted by z. We also assume that % fi, and the 2,'s are mutually independent and Fi has mean zero and variance a:, which is constant across individuals. Given that a realization Fin an cial Markets with Differen tial Information of (GI,. . . ,Vi) is (vi, . . . ,vI), the market clearing condition for the risky asset is I I We want to show that there exists a partially revealing rational expectations equilibrium. As in the fully revealing case, our proof will be by construction.
+
+9.12. We first conjecture that the equilibrium price system is a linear function of the sufficient statistic Y and the aggregate supply 27: where 7, bl > 0, and b2 > 0 are some unknown constants. This price functional is an increasing function of and a decreasing function of the aggregate supply 5.
+
+Given this conjectured price functional, we can compute an individual's optima1 demand conditional on a real- ization of the price functional, his private signal, and his endowment of shares of the risky asset. We then ask what the values of 7, blf and b2 should be such that the optimal demands of individuals clear the market.
+
+Given that the realizations of Y{, and 5 are vi, y;, and 2, respectively, and given the price functional of (9.12.19, individual i's optimal demand for the risky asset is The derivation of (9.12.2) is identical to that for (9.6.59, except that now individual i forms expectations about 2 conditional on his own private signal as well as on his endowment of shares of the risky asset and the realized price of the risky asset. As (9.12.1) is a linear func- tion of normally distributed random variables, s.(Y& is normally distributed with mean and variance:
+
+Foundations for Financial Economics Therefore, (z,%, O Z ( i , Y ) )  are multivariate normally distributed with a mean vector and a variance-covariance matrix where Vn = o-2, Viz is a 1 x 3 vector, V2i is a 3 x 1 vector, and VZ2 is a 3 x 3 matrix.
+
+The conditional expectation and conditional variance of rela- tion (9.12.2) can be explicitly computed using multivariate normal distribution theory. They are and ets with Differential Information where Note that (ft), . . . , (4) are nonlinear functions of 61 and b2 and are independent of individual indices and that the conditional vari- ance is independent of the realizations of V,, &, and individual indices. To simplify our notation, we denote the conditional variance of (9.12.3) by H I ,  which we note is a nonlinear function of and
+
+## 62. H is the inverse of the conditional variance and is usually termed
+
+the precision of the information contained in fi, 6, and S, 9.13. The optimal demands for the risky asset of individuals derived in (9.12.2) and (9.12.3) are based on a conjectured price functional (9.12.1). For the conjectured price functional to be a rational expectations equilibrium price functional, it must be that the optimal demands clear the market for the risky asset. That is, we must have for every possible realization of 'ki9 3, F, and 2'. As 2' is independent of F, for (9.13.1) to hold for every possible realization of and 2, we must have $ 0 - 7 = 0 $2 + $3 - b1 = 0 (9.13.2)
+
+I$4 + $1 - I b 2  = OH"', Recall that (c0,. . . , c4) and H 1  are all nonlinear functions of bl and b2. Thus, (9.13.2) is a system of three nonlinear equations in as many unknowns (7, bl, b2).
+
+Foundations for Financial Economics One can verify that a (unique) solution to (9.13.2) is It is then easily verified that the values of 7, bl, and b2 in (9.13.3)
+
+are not only necessary but also sufficient for a rational expectations equilibrium. That is, there exists a rational expectations equilibrium with the price functional where 7, bl, and b2 are defined in (9.13.3).
+
+Note that in this equilibrium, bl > 0 and by > 0. Thus, the equilibrium price for the risky asset is an increasing function - of F, the sufficient statistic, and a decreasing function of 2, the aggre- gate supply of the risky asset. Because the aggregate supply of the risky asset is also a random variable, there is no one-to-one relation- ship between the price of the risky asset and the sufficient statistic F. When the risky asset price increases, an individual is uncertain whether it is because on average everybody is getting a better sig- nal or because the aggregate supply of the risky asset is smaller.
+
+Therefore, an individual's optimal demand for the risky asset de- pends on the information conveyed by the price of the risky asset, on his private signal, and on his own endowment of the risky asset.
+
+This resolves the paradox that if a price system is fully revealing, an individual's optimal demand is independent of his own private signal and the price system cannot, therefore, aggregate diverse pri- vate information among individuals. Moreover, as the price system aggregates diverse private information only partially, there exists an incentive to collect information even when it is costly to do so. This resolves the paradox associated with costly information discussed in
+
+## Section 9.10
+
+Financial Markets with Differential Information 9.14. From previous discussions, we learned that fully reveal- ing rational expectations equilibria are not very interesting as they are not likely to arise - recall the paradoxes associated with fully re- vealing equilibria. We have constructed a partially revealing rational expectations equilibrium in Section 9.13 for a very special economy - one with negative exponential utility functions and normally dis- tributed returns and private signals. Unfortunately, little is known about partially revealing rational expectations equilibria outside the special case discussed. The combined effects of negative exponential utility functions and multivariate normally distributed returns and private signals make a linear price functional a feasible solution to the equilibrium problem. This gives tractability to an inherently very difficult problem. On the other hand, the tractability is not with- out cost. The normally distributed return on the risky asset implies unlimited liability and negative consumption in equilibrium.
+
+We also know very little about rational expectations equilibria in multiperiod economies. Even in the special case discussed above, the multiperiod extension is a formidable task. This extension, when successful, will give rise to a much richer model. Questions such as to what extent historical prices contain information about future prices and whether historical volumes of trade play any informational role can only be answered in models of a multiperiod economy.
+
+9.15. We concentrated our discussion in earlier sections on securities markets equilibrium when individual traders possess di- verse private information about the return on the risky asset. In the remainder of this chapter, we will consider situations where en- trepreneurs possess inside information about projects for which they seek financing. Outside investors would benefit from knowing the true characteristics of the projects. However, the entrepreneurs can- not be expected to convey truthfully their inside information to the outside investors, as there may be substantial rewards for exagger- ating positive qualities of their projects.
+
+If the qualities of projects can be verified ex post, financing contracts between the entrepreneurs and the outside investors can be written with terms dependent upon the ex post verifiable qualities.
+
+On the other hand, if the qualities of projects cannot be verified
+
+Foundations for Financial Economics ex post, the markets for financing may break down and projects with good qualities cannot be carried out resulting in inefficiency.
+
+To see this, we consider the financing of a family of projects whose quality is highly variable. While the entrepreneurs know the quality of their own projects, the outside investors do not. Therefore, the financing cost must reflect some average quality. For entrepreneurs with projects having above average quality, the financing cost may be too high to justify undertaking the projects. As a consequence, the high quality projects are withdrawn from the financing markets, and the average quality of projects seeking financing is lowered. This process may continue until the only projects seeking financing are of the lowest quality. This is the so-called the lemon's problem or the problem of adverse selection.
+
+For projects of good quality to be financed, the private infor- mation possessed by entrepreneurs m t  be tra,nsferred to the out- side investors when ex post verifiability of the quality of projects is lacking. This can be done by observable actions taken by the en- trepreneurs. One such action, observable because of disclosure rules, is the willingness of the entrepreneurs to retain the ownership of the projects. The larger the proportion of a project retained by an entrepreneur, the less diversified his portfolio is. The cost of a non- diversified portfolio is smaller for entrepreneurs having good quality projects, because they will be compensated by, for example, higher expected returns on their projects. Outside investors can then infer the quality of the project from the proportion of a project retained by an entrepreneur. From the entrepreneurs' perspective, they use their actions to signal the outside investors about the qualities of their projects.
+
+Outside investors can announce a schedule of financing cost de- pending on the proportion of the project retained by an entrepreneur.
+
+Through choosing financing from the schedule, an entrepreneur will reveal his or her private information about the project quality. This is called screening by the outside investors. Clearly, signalling and screening are two sides of a coin.
+
+In the subsequent sections, we will develop a simple model of financial markets in which entrepreneurs seeking financing possess private information about the quality of their projects. A signalling Financial Markets with Differential Information equilibrium will be established. This equilibrium differs in important ways from models without asymmetric information.
+
+9.16. Consider a family of investment projects indexe "quality", p. Â [^,^I.
+
+All investments require a capital outlay of K at time 0. An investment project with quality p has a time-1 cash flow 2 = p. + 2, where p. is the expected future cash flow and Z is a normally distributed random variable with mean zero and vari- ance 02. Each investment project is accessible to an entrepreneur, who plans to hold a proportion of the equity, raising the remainder of the equity from outside investors, once he decides to undertake the project. A project will be 100% equity financed.
+
+An entrepreneur has private information and knows the true value of u. Outside investors do not know the true value of however, are informed that p. has a strictly positive density function on \n,ji]. The ex post realization of 2, observable to both an en- - trepreneur and the outside investors, does not allow outside investors to tell the value of p. with certainty. However, outside investors will respond to a signal sent by an entrepreneur about the true value of p., if they believe that it is in an entrepreneur's best interest to send such a signal. The signal we will examine here is the proportion a of the equity retained by an entrepreneur. Outside investors believe that there exists a functional relation between p. and a and make inferences about p. from the observed a .  A signalling equilibrium is a situation where outside investors' beliefs about the functional rela- tion between a and p. are indeed correct. A signalling equilibrium is said to be a separating equilibrium if the functional relation between a and p. is strictly monotone. In such an event, the true p will be learned in equilibrium. We will only be interested in separating equi- libria and will therefore use the term signalling equilibria to refer to separating equilibria.
+
+Suppose that outside investors infer the value of p. according to the schedule g(oc), in that when a is observed, they conclude that p. = g ( a ) .  We assume that the value of equity is determined by the CAPM relation:
+
+Foundations for Financial Economics where where Fm denotes the normally distributed rate of return on the market portfolio, and ~2 is the variance of fm- We assume that That is, the lowest quality project has a strictly negative net present value.
+
+In addition to investing in his own project, an entrepreneur can invest in the market portfolio and borrow and lend on personal ac- count at the riskless rate r / .  Assume that he has a negative expo- nential utility function. We shall also make the perfect competition assumption that an entrepreneur's decision about undertaking the project has no effect on the return on the market portfolio. An en- trepreneur's problem is to decide whether to undertake the project and, if he decides to do so, to choose the proportion to retain of his project, a ,  the dollar amount invested in the market portfolio, a, and the dollar amount invested in the riskless asset, b, to maximize his expected utility: max E [- exp{-W}]
+
+aâ‚¬[O,l],a where Wo is an entrepreneur's initial wealth. The left-hand side of the second constraint of (9.16.4) is the cash outlay for an en- trepreneur at time 0, while the right-hand side is the cash available after selling a (1 - a )  proportion of the project. The value an en- trepreneur can get from selling part of the project, (1 - a)V(a), depends on the proportion he is selling.
+
+Financial Markets with Differential Information 9.17. Substituting (9.16.1) and the second constraint of (9.16.4)
+
+into the first constraint of (9.16.4) to eliminate b gives W = f f ( p + ~ - g { f f ) + A ) + a { r m - r f ) + ( W o - K ) ( 1 + r f ) + g [ a ] - A .
+
+(9.17.1)
+
+Note that F@ is normally distributed, because fm and 2 are.
+
+Using (9.17.1) and the arguments used in deriving (9.5.2), we know that (9.16.4) is equivalent to - (9.17.2)
+
+Note that b, the dollar amount invested in the riskless asset does not appear in the maximization. K will be determined by the second constraint of (9.16.4) after a and a are determined. We will assume that there exists a solution a E (0,l) and proceed to characterize that solution.
+
+The first order necessary conditions are Substituting (9.16.2) and (9.17.4) into (9.17.3) for A and a, respec- tively, gives /i - g(a) + (1 - a)gl(a) - a7 = 0, (9.17.5)
+
+where a, am - (Cov (2, Fm))
+
+7 G ,r 2 It is easily verified that 7 > 0. We will assume that 7 > 0. Relation (9.17.5) must be satisfied by a, given that outside investors infer p using the functional g(a) when a is observed.
+
+The second order necessary conditions are
+
+undations for Financial Economics here g' and g" denote the first and second derivatives of g, respec- tively.
+
+Now we turn to analyze the problem of the outside investors.
+
+## 18. As mentioned in Section 9.15, the outside investors' prob-
+
+lem is to screen entrepreneurs. That is, they want to announce a schedule g(-) to determine the quality of projects seeking financing as a function of a, the proportion retained. The schedule should have the property that an entrepreneur, knowing the value p, will optimally choose an a(^) such that when faced with the schedule g(-). In other words, given the sched- e gr), the optimal behavior of an entrepreneur is to tell the truth.
+
+Equivalently, entrepreneurs reveal their true types by self-selection.
+
+Relations (9.17.5) and (9.18.1) together characterize a signalling equi- librium.
+
+Now we turn to closed form solutions of signalling equilibria.
+
+Substituting (9.18.1) into (9.17.5) gives There exists a family of solutions to (9.18.2) parameterized by an arbitrary constant C: Any member of (9.18.3) is a candidate for an equilibrium schedule and makes the program of (9.17.2) a strictly concave program, for which the second order conditions are automatically satisfied. Thus the first order conditions are also sufficient for a unique optimum in this case. Note that every member of (9.18.3) is strictly increasing and strictly convex in (0,l). As CY approaches 1, g(a) asymptotically approaches infinity: lim g(a) = +w.
+
+a-+l If a member of (9.18.3) is a signalling equilibrium, its relevant domain may be a subinterval of f0,l). To see this, we first note a Q - .I: Solutions to (9.18.2)
+
+that an entrepreneur with p. < .A + (1 + ff) will not undertake the project and seek outside financing, as, in eq ibrium, the project has a strictly negative net present value. The project th even in equilibrium has a quality /i = A + (1 + r f )
+
+relevant domain of an equilibrium schedule is the inverse image of the qualities of projects that have a positive net present value. Three members of (9.18.3) are depicted in Fig- ure 9.18.1. According to (9.18.4), the relevant domains of A and A' are [O, 1), while the relevant domain of A" is la, I), where a is the solution to where C" is the constant that corresponds to A"* Not every member of (9.18.3), in its relevant domain, is an op- timal solution to the outside investors' problem, however. Consider the schedule A' in Figure 9.18.1. The constant Cbssociated with this schedule is strictly greater than A + (I + + According to this
+
+foundations for Fin ancia1 Economics schedule, if an entrepreneur retains no equity, outside investors will conclude that p=g(O) =c' > A +  ( l + r ) K .
+
+Thus, an entrepreneur with p < C' will find it profitable to undertake his project by investing K and choosing a = 0 to sell the project for By doing so, he makes a strictly positive profit of V(0) - K. Thus, all the entrepreneurs with a p < C' will undertake the project and choose a signal level of a = 0. This violates (9.18.1), and outside investors incur losses. (Recall that, by (9.16.3), there exists a strictly positive proportion of entrepreneurs having p < A + (1 - rf)K.)
+
+In Exercise 9.4, the reader will be asked to show that the problem associated with schedule A' cannot be avoided by requiring a min- imum level of strictly positive retained equity, since entrepreneurs with a p smaller than but arbitrarily close to the minimum level will find it profitable to undertake the project and retain the minimum level. This violates (9.18.1). Thus we must have Next, consider the schedule A in Figure 9.18.1. The constant C that corresponds to A is equal to A + (1 + rf)K. Similar problems arise. An entrepreneur having fi < A + (1 + r f ) K  can undertake the project and retain no equity. He just breaks even in this transaction and is indifferent as to whether or not to undertake the project. This again violates (9.18.1) at a = 0. In Exercise 9.4, the reader is also asked to show that, if we require a > 0, then entrepreneurs with p < A + (1 + r f ) K  will find it sub-optimal to undertake the project.
+
+Hence schedule A on the domain (0,l) satisfies (9.18.1) and is a signalling equilibrium.
+
+Next, we consider schedule A" in Figure 9.18.1, which corre- sponds to a constant C" < A + (1 + rf) K .  The kind of problem associated with schedules A and A' does not arise. One can show Financial Markets with Differential Information that entrepreneurs with p < A + (1 + rf ) K  will find it unprofitable to undertake their projects and retain a strictly positive proportion of the equity. Thus A" with a domain [cx, 1) is a signalling equilibrium schedule. The same arguments apply to any member of the family (9.18.3) with a constant strictly less than X+(l+rf)K on its relevant domain. Hence there exists a continuum of signalling equilibria.
+
+9.19. We identified a continuum of signalling equilibria in Sec- tion 9.18. In each equilibrium, an entrepreneur who chooses to un- dertake his project will get the desired financing by revealing the true quality of the project. However, all equilibria but one are inefficient in two senses.
+
+First, we note that the proportion of equity retained can be viewed as an indication of the signalling cost. To see this, we note that, for a project having positive net present value, if there were no information asymmetry, the first order conditions of an entrepreneur's problem would be These imply that a = 0. That is, without information asymme- try, the optimal solution involves no retained equity. In signalling equilibria where an entrepreneur chooses to retain a strictly posi- tive proportion, his expected utility will be strictly lower than what would be attained without information asymmetry. Moreover, for a fixed p, it is easily seen that the expected utility attained for a low a is higher than that which can be attained for a higher a. As a consequence, the proportion retained is a proxy for the cost paid for obtaining outside financing. For a fixed proportion, a ,  the sig- nalling cost to an entrepreneur with a high p is less than that to another with a low p. This is the reason an entrepreneur with a high p will optimally choose a high signal - he or she can better afford it! Among the continuum of signalling equilibria, the one that has the least signalling cost is schedule A in Figure 9.18.1. Compare schedules A and A", for example. For a given level of p, schedule A"
+
+requires a strictly higher retained proportion. Thus A is the most efficient in the sense that the signalling costs in equilibrium are the
+
+Foundations for Financial Economics lowest. In fact, schedule A is the only equilibrium which is competi- tive in that if schedule A were offered by some investors while some others were offering a different schedule, all entrepreneurs would do business with the investors offering schedule A.
+
+Schedule A is the only equilibrium schedule under which all projects with a strictly positive net present value are undertaken.
+
+To see this, we note that an entrepreneur with a p which yields a zero net present value is indifferent between undertaking his project and remaining at his status quo when facing schedule A. He will find it sub-optimal to undertake his project if he has to retain a strictly positive proportion. On the other hand, it can be shown that an en- trepreneur with a p that yields a strictly positive net present value finds it optimal to undertake his project when faced with schedule A. Thus all projects with a strictly positive net present value will be undertaken. On the other hand, when facing the schedule A", an en- trepreneur with a p equal to A +  (l+rf)K will find it sub-optimal to undertake his project, because he has to retain a proportion a. This is so, because he is just indifferent between accepting the project and remaining at his status quo when no proportion must be retained.
+
+When a strictly positive proportion must be retained, he will cer- tainly find it sub-optimal to undertake his project. By a continuity argument, one can show that an entrepreneur with a p strictly above but close to A + (1 + i'f}K will also find it sub-optimal to undertake his project. Thus, in equilibrium, some projects having a strictly positive net present value will not be undertaken. This is clearly inefficient relative to schedule A.
+
+We have thus identified a unique efficient signalling equilibrium.
+
+Although efficient among all the signalling equilibria, it results in an expected utility loss for the entrepreneur compared to the case without information asymmetry.
+
+9.20. In the previous discussions of this chapter, we only touched upon very limited aspects of informational issues related to financial markets. Readers interested in the general area of information eco- nomics as applied to financial markets will find Bhattacharya (1987)
+
+useful reading.
+
+Among the subjects not discussed previously, the moral hazard Financial Markets with Differential Information problem is perhaps the most important.
+
+oral hazard usually arises in a gaming situation where some players involved can ta observable action that affects the payoffs to be shared. A classical moral hazard problem arises in the context of insurance. The prob- ability of, say, a fire can be influenced by the care exerted by the insured. There is no incentive for an individual who is fully insured to exert any care. Thus the insurance premium should vary for differ- ent levels of coverage. Arrow (1970) contains the original discussion of moral hazard issues in the context of health insurance.
+
+In the entrepreneurs/outside investors example discussed in Sec- tions 9.16 to 9.19, there is no moral hazard problem, as the quality of a project is outside an entrepreneur's control. It is, however, more reasonable to think that the quality of a project depends on some effort on the part of an entrepreneur. For example, we can think of u, as a function of an action taken by an entrepreneur. When fche action taken by an entrepreneur is not observable and not ex post verifiable, the problem of moral hazard arises. The outside investors' problem is then not only to screen entrepreneurs who have exerted different levels of efforts but also to design a compensation scheme to provide the right incentives. Spence and Zeckhauser (1971)~ Holm- strom (1979), and Mirrlees (1976) are early discussions of general moral hazardlincentive problems, to which we refer interested read- ers. Recent discussioris on this subject in the context of financial markets are Allen (1985) and Bhattacharya and Pfleiderer (1985).
+
+Exercises 9.1. Consider a complete markets two-period economy, where trad- ing occurs at time 0, and the consumption of a single consump- tion good occurs at time 1. Show that a necessary characteris- tic for an equilibrium price system when individuals learn from observing the system is that it symmetrize the differences in information among individuals.
+
+Foundations for Financial Economics 9.2. Consider an economy identical to the artificial economy of Sec- tion 9.9 except that individuals observe the joint signal (Y1,. . . , Yf)
+
+before trading. Show that (9.9.2) also gives the competitive equilibrium price for the risky asset.
+
+9.3. Consider an economy identical to the one constructed in Section
+
+## 9.11 except that the coefficients of absolute risk aversion are not
+
+equal across individuals. Conjecture that the price functional for the risky asset is Show that if (bo, . . . , bI) is a solution to a system of nonlinear equation in as many unknowns, then there exists a rational ex- pectations equilibrium with the conjectured price functional.
+
+9.4. Show that the problem associated with schedule A' discussed in
+
+## Section 9.18 cannot be avoided by requiring a minimum level
+
+of retained equity > 0. Also show that the similar problem associated with schedule A in Figure 9.18.1 disappears when we require that a > 0.
+
+Remarks. The example of nonexistence in Section 9.5 is due to Kreps (1977). The competitive equilibrium of Sections 9.6 and 9.7 is taken from Lintner (1969). Discussions in Sections 9.8 to 9.10 are freely borrowed from Grossman (1976) and Grossman and Stiglitz (1980). The closed form solution of the noisy rational expectations equilibrium of Sections 9.11 to 9.13 is taken from Diamond and Ver- recchia (1981). The signalling model of Sections 9.15 to 9.19 is due to Leland and Pyle (1977). In the same context as Exercise 9.3, Hellwig (1980) shows the existence of a noisy rational expectations equilibrium. He obtains a closed form solution when the number of individuals in the economy increases to infinity.
+
+Our discussion in this chapter on some applications of informa- tion economics to financial markets is very limited in scope. Readers interested in rational expectations equilibrium should consult Jordon and Radner (1982) and the references therein. Admati (1987) has Financial Markets with Differential Information a more recent summary account of the literature including applied work. Pfleiderer (1984) studies comparative statics on volumes of trade in a rational expectations model. Kyle (1985) uses monopolis- tic competition to model speculation and information transmission through prices.
+
+Signalling models began with Akerlof (1970) and Spence (1973).
+
+Riley (1975) and Rothschild and Stiglitz (1975) also made important contributions. For a more recent discussion on signalling equilibria, see Cho and Kreps (1987). Early applications of signalling models to financial economics include Bhattacharya (1976, 1980) and Ross (1977). Bhattacharya and Hitter (1983) is the first to consider models where a signal to financial markets is also observed by competitors in the product markets. Gertner, Gibbons, and Scharfstein (1987) also model this situation. Readers interested in this class of models as well as applications of other ideas in information economics to finan- cial markets should consult Bhattacharya (1987) and the references therein.
+
+References Akerlof, G. 1970. The market for "lemons." Quarterly Journal of Economics 89, 488-500.
+
+Admati, A. 1985. A noisy rational expectations equilibrium for multi-asset securities markets. Econometrics Admati, A. 1987. Information in financial markets: The rational expectations approach. In Frontiers of Financial Theory. Edited by G. Constantinides and S. Bhattacharya. Rowman and Little- field. Totowa, New Jersey.
+
+Allen, F. 1985. Contracts to sell information. Mimeo. Wharton School, University of Pennsylvania.
+
+Arrow, K. 1970. Essays in the Theory of Risk-Bearing.
+
+North- Holland. Amsterdam.
+
+Bhattacharya, S. 1976. Imperfect information, dividend policy, and the "bird in the hand" fallacy. Bell Journal of Economics 10:259- 270.
+
+Foundations for Financial Economics Bhattacharya, S. 1980. Nondissipative signalling structures and div- idend policy. Quarterly Journal of Economics 95:l-24.
+
+Bhattacharya, S. 1987. Financial markets and incomplete informa- tion: A review of some recent developments. In Frontiers of Financial Theory. Edited by G. Constantinides and S. Bhat- tacharya. Rowman and Littlefield. Totowa, New Jersey.
+
+Bhattacharya, S., and P. Pfleiderer. 1985. Delegated portfolio man- agement. Journal of Economic Theory 36:l-25.
+
+Bhattacharya, S., and J. Ritter. 1983. Innovation and communi- cation: Signalling with partial disclosure, Review of Economic Studies 50:331-346.
+
+Cho, I.-K., and D. Kreps. 1987. Signalling games and stable equi- libria. Quarterly Journal of Economics 52: 179-221.
+
+Diamond, D., and R. Verrecchia. 1981. Information aggregation in a noisy rational expectations economy. Journal of Financial Economics 9, 221-235.
+
+Gertner, R., R. Gibbons, and D. Scharfstein. 1987. Simultaneous signalling to the capital and product markets. Mimeo. Sloan School of Management, Massachusetts Institute of Technology.
+
+Cambridge, Massachusetts.
+
+Grossman, S. 1976. On the efficiency of competitive stock markets when agents have diverse information. Journal of Finance 31, 573-585.
+
+Grossman, S., and J. Stiglitz. 1980. On the impossibility of in- formationally efficient markets. American Economic Review 70, 393-408.
+
+Hellwig, M. 1980. On the aggregation of information in competitive markets. Journal of Economic Theory 22, 477-498.
+
+Holmstrom, B. 1979. Moral hazard and observability. Bell Journal of Economics 10:74-91.
+
+Jordon, J., and R. Radner. 1982. Rational expectations in microe- conomic models: An overview. Journal of Economic Theory 201-223.
+
+Kreps, D. 1977. A note on fulfilled expectations equilibria. Journal of Economic Theory 44, 32-43.
+
+Kyle, A. 1985. Informed speculation with imperfect competition.
+
+Working Paper, Woodrow Wilson School, Princeton University.
+
+ets with Differential Information rinceton, New Jersey, Leland, H., and D. Pyle. 1977. Informational asymmetries, cia1 structure, and financial intermediation. Journal o f F Lintner, J. 1969. The aggregation of investors' diverse judgement and preferences in purely competitive security markets. Journal of Financial and Quantitative Analysis 4:103-124.
+
+Mirrlees, J. 1976. The optimal structure of incentives and authority within an organization. Bell Journal of Economics 7:105-131.
+
+Pfleiderer, P. 1984. Private information, price variability and trading volume. Mimeo. Graduate School of Business, Stanford Univer- sity. Stanford, California.
+
+Riley, J. 1975. Competitive signalling. Journal of Economic Theory 0:174-186.
+
+Ross, S. 1977. The determination of financial structu signalling approach. Bell Journal of Economics Rothschild, M., and J. Stiglitz. 1975. Equilibrium in competitive insurance markets: An essay on the economics of imperfect in- formation. Quarterly Journal of Economics 90:812-824.
+
+Spence, M. 1973. Job market signalling. Quarterly Journal of Eco- nomics 87, 355-379.
+
+Spence, M., and R. Zeckhauser. 1971. Insurance, information, and individual action. American Economic Review 6
+
+10.1. In this chapter, econometric issues related to testing the Capital Asset Pricing Model (CAPM) will be discussed.
+
+statistics will be given interpretations in the framework of Chapter 3.
+
+To provide a conceptual basis for interpreting these econometric is- sues, we shall first briefly discuss the testable implications of the CAPM. Throughout our discussion, we will assume that there exists a riskless lending opportunity.
+
+. In Chapter 3, we examined the mathematics of the port- folio frontier. There we derived the first order condition necessary and sufficient for a portfolio to be on the frontier and proved that any portfolio that is a linear combination of frontier portfolios is it- self a frontier portfolio. In Chapter 4, we provided conditions on the distributions of asset returns necessary and sufficient for individ- uals' optimal portfolios to be frontier portfolios. In such an event,
+
+Foundations for Financial Economics e market clearing condition implies that t a convex combination of ind a frontier portfolio. The C immediately cxwx the tfolio is identified to be on the portfolio frontier. Thus, is merely the combination of the first order conditions for a portfolio to be on the portfolio frontier and the market clearing condition.
+
+Using time-series sample means, variances, and covari- ances we can construct a portfolio frontier, referred to as an ex p s t frontier. A portfolio on an ex. post portfolio frontier is an ontier portfolio. An ex post frontier portfolio could be con- ven if means, variances, and covariances were generated randomly. If the betas on individual assets are measured relative st frontier portfolio, it follows from the mathematics of o frontier that the average realized rates of returns on these assets would have an exact linear relation to these betas. This is a mathematical fact and has nothing to do with an equilibrium pricing relation. Thus, it is tautological to say that there exists a single "factor" that will "explain" rates of return. In addition, such a frontier portfolio may have large negative weights for many assets.
+
+Thus, without an underlying valuation theory, we cannot predict, a priori, that there is a positive association between average realized rates of return and betas measured relative to a prespecified market proxy portfolio that is well-diversified and has positive weights for all assets. This observation also relates to an important conceptual problem in testing the Arbitrage Pricing Theory that does not pre- entify the "factorsn based on economic models of portfolio choice.
+
+or example, if factor analysis is used to determine the set of fac- tors "explaining" ninety-five percent of the variation of the rates of returns on individual assets, a linear combination of these factors may closely approximate the rate of return on an ex post frontier portfolio. A test of the proposition that these factors are the sole determinants of risk premiums might fail to be rejected even if the returns were generated randomly.
+
+Econometric Issues in Testing the CAP 30 1 cia1 theories provide internally consistent mo t have testable implications. A positive theor isky assets should not be judge by the realism . Indeed, incorrect assumptio are sometimes necessary to abstract from the complex and detailed circumst and to build a model that focuses on more important aspects example, although we are well aware of the fact that many individuals have different probability beliefs, we abstract from this consideration by assuming homogeneous probability beliefs. This assumption and qually implausible assumptions permit the derivation of the . A long and detailed list of realistic assumptions that are impossible to model is merely an institutional description and has in itself no predictive value. The correct test of a positive theory of asset pricing is the accuracy of its redictions concerning security returns and/or security prices. If t assumptions used to derive a theory abstract from the most critical considerations, then the theory's predictions would very likely prove inaccurate. The more general are the assumptions necessary to derive a given t less precise its predictions will be. For example, allowi possibility that orrowing is either prohibited or is done at a rate strictly higher t the lending rate is more general than assuming unconstrained borrowing, or equivalently, unlimited borrowing and lending at the same rate. Recall from Section 4.14 that the CAP based on unconstrained borrowing predicts a proportional relation between risk premiums (with respect to the riskless rate) and betas.
+
+The more general model that allows for constraints on borrowing merely predicts a linear relation between risk premiums and betas with a positive intercept.
+
+Positive theories have stron predictions and weak dictions. A strong prediction a prediction whose validity is implied by and implies the underlyin theory. Thus, strong predictions are equivalent to necessary and sufficient co tions for the underlying theory. A strong prediction of the CA is two fund separation.
+
+Two fund separation may be refuted by the finding that an individ- ual's optimal portfolio is not spanned by the optimal port other individuals. While to the best of our knowledge n
+
+Foundations for financia1 Economics a prediction seriously, another strong prediction that the rtfolio is on the portfolio frontier has been subjected to extensive testing. Since meaningful positive theories are often based on unrealistic assumptions, their strong predictions are unlikely to be perfectly accurate. Indeed, failure to reject statistically a strong prediction of a positive theory is usually due to a lack of power of the statistical test. Strong predictions of positive theories, like two fund separation, are not often examined because their rejection is usually obvious a priori.
+
+In contrast, a weak prediction is a prediction whose validity is "broadly" implied by but does not imply the underlying theory. An example of a weak prediction of the CAPM is that ex post betas measured relative to a broadly based market index are positively related to the average ex post realized returns. This weak prediction does not imply an exact linear relation between ex ante expected rates of return and betas. For example, ex ante expected returns may be related to betas and a second variable that is in of the betas. Under stationarity conditions, ex post betas would en be related to ex post average returns. Empirically verified weak predictions have, however, yielded useful applications in financial economics.
+
+0.6. In its most general form, the CAPM implies the following cross-sectional relation between ex ante risk premiums and betas, when there exists a riskless asset: where Fj is the excess rate of return on security j, Fm is the excess rate of return on the market portfolio of all assets, ?4m1 is the excess rate of return on the frontier portfolio having a zero covariance with respect to the market portfolio, Pjm is Cov(6, Fm)/Var(Fm), the "beta" of security j (with respect to the market portfolio), and E\-\ is the expectation operator. Here we caution the reader to note that, for notational simplicity, we have used 5 to denote the "excess"
+
+rate of return on asset j with respect to the riskless lending rate in contrast to the notation used in earlier chapters, and likewise for fm Econometric Issues in Testing' t and Lim).
+
+In empirical work, one often uses the treasury bill rate as the short term riskless lendin 10.7. When there are unlimited borrowing and lending oppor- tunities at a constant riskless interest rate, the traditional version of the CAPM predicts that the expected rate of return on zc(m)
+
+is equal to the riskless rate, or, equivalently, that risk premiums on assets are proportional to their market betas. In this case, holds with E{r^m)] = 0 and E L ]  > 0.
+
+(10.7.1)
+
+The constrained borrowing version of the CAP makes the less pre- cise prediction that the risk premium on zc(rn) is positive and th the difference between the risk premium on the market portfolio an the risk premium on zc(m) is strictly positive. In this case, (10.6.1)
+
+holds with Thus, the predictions of the constrained borrowing version of the CAPM are somewhat less precise than those oft of the model. It should, therefore, come as n empirical tests are more consistent with the constrained borrowing version of the model.
+
+10.8. There are, in general, three major conceptual problems associated with the testing of the CAPM. First, the CAP relationships concerning ex ante risk premiums and betas, which are not directly observable. Second, empirical tests use time-series data to calculate mean excess rates of return and betas; however, it is unlikely, that risk premiums and betas on individual assets are stationary over time. When time-series data are used to calculate betas and mean rates of return on assets, it is implicitly assumed that the CAPM holds period by period, since the CAPM is a two period model. Third, many assets are not marketable and tests of the CAPM are invariably based on proxies for the market portfolio that exclude major classes of assets such as human capital (the ca value of wage and salary income), private businesses, and private real
+
+undations for Fin estate. Different approac es for dealing wit een taken in the literature.
+
+. Concerning the first conceptual probl ability of ex ante expected returns and betas, the tional expectations is implicitly made. Under ruti the realized rates of return on assets in a ings from the ex ante probability distri of returns on those assets. Here we remind the reader that the definition of rational expectations can be found in Section 7.7.
+
+As for the second problem, th nstationarity of risk as on individual assets, to assume that the risk premiums on t on the market port- folio, and on zc(m) are stationary over time. Note that constant risk premiums are consistent with equal percentage point changes in the riskless interest rate and in the expected rates of return on risky assets. The second approach is to interpret the tests in terms of the distributions of asset returns conditional on a coarser info and assume that these distribution are time-stationary.
+
+risk premiums and betas conditional on information sets available to investors over time are nonstationary, they can be stationary con- ditional on a coarser information set.
+
+will discuss this second approach in detail below.
+
+As mentioned in Section 10 empirical testing of the CAPM implicitly assumes that the CA holds period by period. In par- ticular, we assume that, at each time t - 1, an individual i maximizes expected utility of time t random wealth conditional on the informa- tion that he has at time t - 1. The first order condition for his time t random wealth, I@}, to be optimal is here tiit(-) denotes individual i9s utility function for time t wealth, Ffi denotes the rate of return on asset j from time t - 1 to time t , Econometric Issues in Testing the CAPM tes the rate of return on the zero covariance port to the market portfolio from time t - 1 to time t, Ft-i denotes the information possessed by individuals at time t - I.
+
+Talcing expectations on both sides of (10.10.1) conditional on the aggregate wealth at time t - 1 gives , denotes the time t - 1 aggregate wealth. Assume that distri- I@;, t,, and Fm,^ are multivariate normal conditional on Using the definition of covariance, the Stein's Lemma, and the line of argument used in deriving (4.15.31, and assuming that A?, and F,,,,,,,, are uncorrelated conditional on , we can rewrite (10.10.2) as ^-l(~I^~~t-ll-^z,,m),l^t-!])
+
+= cov(IV;, r,, - ?,c^),~lcf,-l), (10.10.3)
+
+where is the i-th individual's global absolute risk aversion for the time t utility function on wealth conditional on time f. - 1 total wealth.
+
+Sum* (10.10.3) across i and using the market clearing condition gives where
+
+undations for Financial Economics e rate of return on the market portfolio from time t - 1 to t.
+
+Relation (10.10.4) certainly holds when we take asset j to be the market portfolio and thus Substituting (10.10.5) into (10.10.4) gives - is the time t beta of assets j conditional on M-1. Note that in (10.10.6) the expected returns and betas are measured a with respect to the distribution of asset returns conditional on When the distributions of asset returns conditional on aggregate wealth are independent of a gregate wealth, (10.10.6) becomes where is the unconditional beta for asset j. Note that (10.10.7) is specified under the unconditional distribution and is thus termed the uncon- ditional CAPM . If the unconditional distributions of asset returns are stationary over time, Rjmt of (10.10.7) is a constant independent of time. It then follows that even though risk premiums and betas conditional on the information set available to investors may be non- stationary, a time-series of returns on assets may be used to test the unconditional CAPM.
+
+Also note that (10.10.2) does not imply (10.10.1). This is be- cause a zero conditional expectation conditional on an information Econometric Issues in Testing the CAP partition does not imply that the expectation conditional on information partition will be identically zero. Alon ment used in deriving (10.10.6), (10.
+
+normality of the rates of return on a that where the random variable is the conditional beta of asset j at time t .  Relation ( the conditional C . The validity of t oes not imply the the market portfolio being on the portfolio frontier based on the unconditional distributions of asset returns should be viewed as a weak prediction of the conditional form of the prediction of the unconditional form of the C tests of the CAP and our discussion which follows focus on the unconditional form of the model.
+
+10.11. Concerning the third conceptual problem, the unobserv- ability of the true market portfolio, three related approaches have been taken. The first approach ignores the problem by implicitly as- suming that the disturbance terms from regressing the asset returns on the return on the market proxy portfolio are uncorrelated with the true market portfolio and that the proxy portfolio has a unit beta.
+
+If the market proxy is a portfolio constructed from the individual assets or portfolios contained in the test sample, this assumption is equivalent to assuming that the market proxy is the minimum vari- ance unit beta portfolio of the set of all feasible portfolios constructed from the assets in the test sample. This implicit assumption will be discussed in more detail in Section 10.12.
+
+The second approach merely interprets the test as a test of whether the market proxy is on the portfolio frontier. The third
+
+a test of a single factor APT with irically indistinguishable
+
+## 2. Now we will demonstrate explicitly the implicit assump-
+
+e when the unobservability of the true market portfolio is ignored. Suppose that the arket Proxy, A, has unit beta and that the disturbance terms in t with the true market, where is the "beta" of asset j with respect to the market proxy.
+
+tion, the true beta of asset j is Substituting (10.12.1) into (10.12.3) gives where we have used the hypothesis that Zj is uncorrelated with ?m- e market proxy has unit beta, we know that Cov (FA, Fm) = 1.
+
+Var (rm)
+
+Substituthg this into (10.
+
+that is, the beta with respect to the market proxy is equal to that with respect to the true market portfolio. Thus, even though the true market portfolio is not observable, the true betas can be estimated if Econometric Issues in Testing t the market proxy has unit beta and the distur with the true market portfolio.
+
+Next we show that if the proxy, $a, is constructed from the in- ividual assets or portfolios contained in the test sample and is the unit beta minimum variance portfolio among all the portfolios con- structed from the test sample, the betas measure with respect to are equal to the true betas. Cons er a set of risky assets which is a proper subset of the set of assets. Let V be the uncondi- nal variance-covariance matrix of their tea of return, w be the x 1 vector of the weights of a portfolio, be a N x 1 vector of betas measured relative to the true market portfolio, and N x 1 vector of betas measured relative to the rate of retur minimum variance unit beta portfolio.
+
+Let WA be the portfolio weights on risky assets for the minimum variance unit beta portfolio. Since covari ces are additive, the beha of A is a weighted average of betas of individual assets, that is, /3m = m m .  Then w,?i is a solution to the following problem, The weights on risky assets in (10.12.6) are not constrained to sum to unity because the portfolio weights can be later rescaled with a riskless asset without changing the beta or the variance.
+
+rn is the unique solution to (10.12.6) and satisfies the following first order conditions: and (10.12.8)
+
+where A is the Lagrangian multiplier for the constraint of (10.12.6).
+
+Relations (10.12.7) and (10.12.8) imply that
+
+3 10 un dations for Financial Economics where the second equality follows from (10.12.7), and the third equal- ity follows from (10.12.9).
+
+Relation (10.12.10) demonstrates that the betas of all assets in this proper subset of assets with respect to the minimum variance unit beta portfolio (constructed from the same subset of assets) are identical to their betas with respect to the true market portfolio.
+
+Thus, even if the market portfolio is not observable, the betas can still be estimated when an appropriate market proxy is used. In xercise 10.1 we ask the reader to solve (10.12.6) by replacing the constraint with wTBm = p for some constant p # 0. The solution is a portfolio with a beta equal to p that has a minimum variance.
+
+Denoting this solution still by h, the reader is also asked to show that SA = Sm/p.
+
+10.13. Most tests of the CAPM have used a time-series of monthly rates of return on common stocks listed on the New York Stock Exchange (NYSE). The CAPM suggests three related empiri- cal models. The rst is a cross-sectional regression model involving average monthly excess rates of return, 5 (average realized rate of re- turn in excess of the short term lending rate). and betas with respect to the NYSE index, denoted by ,9j&. This model is The second is a series of monthly cross-sectional regressions of the realized excess rates of return on the betas. That is. for all Econometric Issues in Testing the CA where we have used fjt, Fa and ?zc(m)t to denote the random excess rates of return at time t on security j, the NYSE index, h, and the minimum variance zero covariance portfolio with respect to the NYSE index, respectively.
+
+The third is a series of time-series regressions for each asset or portfolio in the sample: V j  = 1,2,. . . , N, In this model, the expected excess rate of return on zc(m) and the betas are assumed to be constant over time.
+
+Note that the ,9jm's are treated as a xed independent vari- able in the cross-sectional regression model given in (10.13.1) and (10.13.2), while they are parameters to be estimated in series regression model given in (10.13.3). Note also t above model specifications, we have used a tilde on top and ujt to signify the fact that they are random variables.
+
+same symbols appear without a tilde, they represe random variables or the observations in a sample.
+
+the Gj, Cjt, and %t of (10.13.1), (10.13.2), and (10.13.3), respectively, as disturbance terms. In later sections, when they appear without a tilde, the same symbols represent "residuals" from a fitted linear model.
+
+10.14. An example of the type of test of (10.13.1) is Blume and Friend (1973). The focus of their study was on a weak prediction of the traditional CAPM. Specifically, they tested the predictions that a = 0 and 6 > 0. Thus, they were testing whether E[fzc(fi)]
+
+= 0 and
+
+Foundations for z m / r = 0  and x b t / ~ > 0 when return distributions are stationary over time. Thus, like Blume and Friend they were essentially testing whether EIFzc(fil] = 0  and E[Fd - E[rzc[&)\ > 0. They found that the means of both At and If were significantly strictly positive, where & and bt denote estimates of q and 6(, respectively.
+
+An example of the third type of test is lack 9 JaX3en and (1972)) who tested the weak prediction that quivalently, they were testing whether E[Ccp)] = 0, which they rejected.
+
+er example of the third type of test is Gibbons (1982), who tested whether The Gibbons' test was a test of whether or not the market proxy portfolio was on the portfolio frontier of the assets included in his sample.
+
+The tests discussed above are closely related. Before discussing them in detail, we will first develop a general framework for analyzing the methods used by these authors.
+
+.15. In addition to the conceptual problems associated with testing the CAP , there are three major econometric problems.
+
+1 be briefly discussed in this and the next two etric Issues in Testing the CA their detailed solutions will The first major econometric problem terms of (10.13.1) and (10.13.2) are heter across assets, because variances of rates of and asset returns are correlated. Therefo (OLS) estimators of a and b and a,t and bt variances) relative to generalized le indicates that tests based on OLS estimators would be less powerful than tests based on GLS estimators. The lower power means that there is a higher probability of failing to at E[?sc(m)} = 0  and E[?m} - E[fsc(n)\ > hypotheses that E[fzco} > 0  and E[rm} Therefore, empirical findings that reject t be attributed to a lack of power in the teat estimates of the variances of the regressio standard formula for the OLS estimators the (-statistic given by "canned" OLS regr Note, however, that if the /3&s are obser tors of a and b and at and b4 are ossible solutions to the first problem are to use GLS estima- tors or to use OLS estimators and to calculate the correct variances of the coefficients. The former approach was taken by Litzenberger and Ramaswamy (1978) based on a rest cted variance covariance matrix. The latter approach was adopt (1972), Black, Jensen and Scholes (1972), and Kraus and Litzen- berger (1976). These solutions, however, require estimation of the variance-covariance matrix.
+
+iscuss these estimation proce- dures in considerable detail in later sections.
+
+The second major econo ric problem is t erve the true betas but rather measurement errors. Under of a and b and a1 and bt are and inconsistent. There a possible solutions to this problem. First, use group the variances of the measurement errors in betas. S strumental variables approach. Third, use an adjust
+
+es account of the van nsen and Scholes (1972)
+
+Litzenberger (1976) among others.
+
+by Rosenberg and Marathe (1979).
+
+d by Litzenberger and Ramaswamy (1979). This problem and alternative solutions will be discussed in considerable detail later in this chapter.
+
+.17. The third major econometric problem is that the CAP implies a non-linear constraint on the return generating process as expressed in relation (10.13.3). In testing whether or not a mar- ver, the constraint itself depends upon be estimated. This problem can be so mum likelihood estimation t at takes these int This approach was developed by Gibbons (1982) and later extended by Stambaugh (1982), Jobson and Korkie (1982), Kandel (19841, Shanken (1985), and MacKinlay (1987).
+
+## 18. In order to focus on the problems of heteroscedasticity
+
+relation of the disturbance terms, assume until further no- the betas are fixed known independent variables observable without error. Also assume that our test sample consists of N assets having linearly independent realized monthly rates of return. When the variance-covarhce matrix is estimated using realized monthly rates of return, we require that the number of observations in the sample exceed the number of assets. Under these conditions, the variance-covariance matrix is non-singular. Furthermore, as vari- ances are strictly positive even when portfolio weights do not sum to unity, the variance-covariance matrix is positive definite. We will consider a pooled cross-sectional time-series regression of realized monthly excess rates of return on betas and other independent vari- ables. The other independent variables that have been examined in the literature include residual risk (see Fama and Macbeth (1973)), Econometric Issues in Testing dividend yield (see Blade an maswamy (1979, 1982), and size (see Banz (1981), Rein ewness (see Kraus and Westerfield (1980)).
+
+10.19. To consider tests of extended forms of the CA involve more than one independent variable, the econometric model is expressed as: where F is a TN x I vector of monthly random excess rates of return, , T is the number of months, N is the number of zeros. The firs olumn of Its, the second column contains the column contains the (k-1)-th Mependent variable. Note that the betas are allowed to differ each month and that we have used ffjiht to denote the beta of asset j with respect to the market proxy in month t. This is consistent with many studies that use different estimates of betas for each monthly cross-sectional re ression. However, betas being constant is consistent with a stationary multivariate distribution of asset returns, and this case will be considered in detail later.
+
+lance-covariance matrix of the disturbance terms is If V is known, the GLS estimator of
+
+variance-covariance matrix of the estimator 10.19.3)
+
+The OLS estimator of (10.19.4)
+
+.19.2) reduces to the OLS estimator of e disturbance terms that for some cr: > 0 is satisfied, where N is the TN x identity atrix. It can be veri J9.6) is not true, then the iagonal elements of Var ater than the corresponding diagonal elements of Var to GLS estimators.
+
+For expositional purposes, the analysis in most of this chapter will be done under the assumption that there are two independent variables so that is a 3 x 1 vector and X is a T N  x 3 matrix whose second and third column are vectors of the two independent variables.
+
+The second independent variable will henceforth be referred to as the dividend yield, for convenience, and the dividend yield for security j at time t will be denoted by djf In this case, we can write Our discussion will not be changed if the second independent variable isk, the log of firm size, or systematic skewness.
+
+at in practice the true variance-covariance matrix is un- ts elements are estimate using realized excess rates of Econometric Issues in Testin return. In small samples, GLS estimators based on an estimate variance-covariance atrix are not necessarily more efficient than ators. However, as the nu a), the estimates based on time-series data approach the true variances and covari- ances. Thus, GLS estimators based on time-series estimates of vari- ances and covariances are said to be asymptoticall that asymptotic efficiency is achieved as the numb approaches infinity, not as the number of assets a As the number of months in the sample increa sample distribution of asset returns approaches distribution.
+
+will assume that excess rates of return are serially ich is consistent with oat empirical work. There- lc diagonal matrix, and its inverse, v ' ,  may be expressed as v-1 = where v,' denotes the inverse of the period t variance-covariance matrix of asset returns. The element in the J'-th row and t is the covariance of the excess rates of return on and k-th asset at time t .  Because is block diagonal, separate GLS regressions may be run cross-sectionally using data in each period, and the pooled time-series cross-sectional GLS estimates that are based on a combined sample of monthly observations for all months and on model (10.19.1) are weighted averages of the individual pe- riod estimates. The weights are proportional to the variances of the individual period estimates.
+
+Formally, consider the period t sub-mode of the two indepen- dent variable version of (10.19.1):
+
+undations for Financial Economics The GLS estimator of bt, denoted by bt(GLs), is The variance-covariance matrix of the estimator is Note that, similar to the discussion in Section 10.19, when for some a: > 0, where If/ is the N x N identity matrix, the GLS estimator of (10.20.2) reduces to an OLS estimator. Note also that when Vt is stationary over time, its elements can be estimated by the time-series variances and covariances of the excess rates of return on assets.
+
+,.
+
+LS) the k-th element ~ f b ~ ( ~ ~ ~ )
+
+and by bk(GLs)
+
+(GU), it is easily verified that where Â¥ The variance of bk(GLS), denoted by can be verified to be T Note that the wt9s of (10.20.5) are the positive weights on the bkt(Gts)'s that minimize the variance of the linear combination of the ues in Testing the CAPM bktiGLqYs on the right-hand side of (10.20.4). Note als ~ a r ( b ~ ~ ( ~ ~ ~ ) )
+
+is a constant over time, wt = I/T an of the pooled model of (10.19.1) are simple averages monthly estimates. That is, Moreover, we have in this case, Note from (10.20.3) that Var( is a constant over time i t are time stationary. Indeed, t is will be the case in Exercises 10.6.2-10.6.4.
+
+Blume and Friend (1973) applied OLS to the cross-sectional re- lation between time-series average excess rates of return and betas of (10.13.1) but relied on a "canned" OLS program to generate the variances. Thus, they obtained estimates of a and b which would be unbiased in the absence of measurement error but obtained bi- ased t-statistics.
+
+In contrast, Fama and Macbeth (1973) applied OLS to monthly excess rates of return and betas by using (10.13.2)
+
+for each month. They then calculated the time-series means of the regression coefficients and their time-series variances. Except for small monthly differences in betas, the average of the estimates of at's and bt's would be identical to the estimates of a and 6 of Blume and Friend (1973). However, the estimators of the variances of the OLS estimators of 6 in Fama and Macbeth (1973) take account of the full variance-covariance matrix. Although emphasizing a time- series based interpretation, Black, Jensen and Scholes (1972) also ob- tained OLS estimates of at9s and calculated their time-series mean and variance. They found that a was strictly positive and statisti- cally significant. In Exercise 10.2, the reader is asked to verify that the Black, Jensen and Scholes estimator of the intercept term a is identical to that given in (10.20.6) and that their estimator of its variance is identical to that given in (10.20.7).
+
+undations for Financial Economics between portfolio theory 1 in interpreting tests of edure is identical to a portfolio prob- lem. This follows as any linear estimator is a linear combination of the observations of the dependent variable. Since the dependent variable is the excess rate of return, a GLS estimator of a regression cient is the excess rate of return on a portfolio (whose weights sum to either zero or unity depending on the parameters estimated).
+
+nown that GLS estimators are BLUE (for Best Linear Un- imators). The "best" means that a GLS estimator has the ariance among all the linear unbiased estimators. Thus3 ient in (10.20.1) is estimated as the linear combination of the securities excess rates of return that has minimum variance subject to the unbiasedness condition. The unbiasedness condition is thai the expectec1 value of t.Le eatiznator be equal to the true value cient of interest.
+
+The estimator for bkt is identical to the rate of return on a port- folio obtained by solving the following portfolio problem in month t: where wit denotes the portfolio weight on asset j at time t and a,lt denotes the covariance at time t of excess rates of return on securities j and I.
+
+Using the two independent variables model of Section 10.19 and the definition of a linear estimator, the unbiasedness constraints for cients of the two independent variables are implemented as follows: First, we note that Econometric Issues in Teatin The unbiasedness constraint on t e coefficient for betas is or, equivalently, where we have used the fact that the disturbance term expectations. For (10.21.3) to hold for arbitrary betas a yields, it is necessary and su 1V far Therefore, (10.21.1) is equivalent to minimizing the same objective function as in (10.21.1) subject to the constraints of (10.
+
+N that %_,wit = 0 implies that the "portfolio" is a self-financing portfolio; zl = 1 implies that the "port beta with respect to the proxy; and xgl wit+ = 0 i "portfolio" has a zero dividend yield. Of all feasibl portfolios meeting these conditions, the portfolio wi variance would be the one that meets the efficient GLS estimator. The corresponding unbiasedness co coefficient on the dividend yield are The corresponding unbiasedness conditions for
+
+322 .
+
+Foundations for Financial Economics e GLS estimate of by is the excess rate of return on a self-financing portfolio that has zero beta and unit dividend yield and that of bOt is the excess rate of return on a "normal" portfolio that has zero beta and zero dividend yield. The standard deviations of the rates of return on these portfolios are, of course, the standard deviations of the estimated coefficients.
+
+To understand the intuition behind the analogy between the rocedure and a portfolio problem recall that the GLS estima- tors are the best linear unbiased estimators. Since we have no prior knowledge of the betas and the dividend yields, unbiasedness can only be assured by the constraints of (10.21.4)-(10.21.6). The best linear unbiased estimator is the excess rate of return on the minimum variance portfolio that meets those constraints.
+
+In the GLS procedure discussed above, it was assume that V t  is known. In practice, the variance-covariance matrix of asset returns is not known and must be estimated. To simplify this estimation, it can be assumed that the variance-covariance matrix has a certain special structure and the GLS estimation is then said to be based on a restricted variance-covariance matrix. In this section, we discuss a special structure of the variances and covariances of asset returns - the single index model.
+
+We will assume, throughout this section, that betas, variances, and covariances are stationary over time so we will drop their time subscripts. Assume also that excess rates of return on assets satisfy Note that < is independent of t. Under the assumption of the single index model, the covariances among individual asset returns are explained by their common covariances with the market index: where u& is the time stationary variance of the rate of return on etric Issues in Testing the CAP the market proxy.
+
+om (10.22.21, we can see that the variance- matrix is completely s The single index model is an overly simplified model of the re- turn generating process. If f% is a linear combination of the w, this linear combination will not have a disturbance term. That is, a linear combination of the +tqs will be identically equal to zero.
+
+This means that covariances of asset returns cannot all be zero and contradicts (10.20.1). However, this assumption greatly reduces the amount of information required in the estimation process. An al- ternative procedure is to use a multiple index model incorporating industry specific indices in addition to the market index.
+
+The variance of a linear estimator in the context of t index mode1 may be expressed as Thus, the problem of minimizing the variance of an estimator re- duces to the minimization of ~ ~ L
+
+W ~ ~ U ~ ,
+
+because the unbiasedness condition necessitates that wjt/!Ijrfl = 1 or 0 depending on the coefficient being estimated. Note that when the assumption of a single index model is not made, an additional term involving the covariance of the disturbance terms, must be added, where Uqek denotes the time stationary covariance of i$t and Ekt. When t e assumption that a t  = uz, a constant, is made, a GLS estimator reduces to an OLS estimator. This is the case considered by Black and Scholes (1972), where the independent variables are betas and dividend yields.
+
+have discussed the estimation procedure for r general Vt. When Vt is a diagonal matrix,
+
+Foundations for Financial estimators for the model (10.20.1) may be obtained by making a simple heteroscedasticity correction and using OLS. This is accom- plished by deflating the excess rate of return, beta, and dividend yield of an asset by the standard deviation of its disturbance term, ow Note that this involves an OLS regression with the constant term suppressed. This procedure is a weighted least squares regres- sion (WLS), where the weights are the standard deviations of the disturbance term of each asset. When nuit is constant across assets, this estimator is, of course, identical to the OLS estimator with the undeflated variable and a constant term. The WLS estimators are where Note that in this case where as usual IN denotes the N x N identity matrix.
+
+Note also that by the definition of and 6 and the assumption t is diagonal, we have Recall the left-hand side of (10.23.2) is the GLS estimator of bt given in (10.20.2), and the left-hand side is the WLS estimator of Tb( given in (10.23.1). Thus, the WLS estimator are identical to the GLS estimator when the variance-covariance matrix is restricted to be diagonal.
+
+Econometric Issues in Testing the CA 4* The previous analysis treated the betas as a t variable observable without error. In actuality, mates of the true betas are available. Even i are unbiased, the resulting OLS or GLS estim would be biased.
+
+oreover, the OLS or GLS estimators are incon- sistent. These problems will be discussed in the following sections.
+
+. Consider the case of a single independent varia the cross-sectional model we desire to estimate fo t is rjt = at + btPjmt + G j t )
+
+-2, ...) N.
+
+However, instead of using the unobservable true beta, fUjmt, we use an unbiased estimate, Pjmt. To simplify the discussion, assume that an assets used in the test is used as &lie market proxy and that (10.25.1) satisfies the OLS assumption t 13[iitUL] = n:IN throughout our discussion about the measure errors.
+
+The equally weighted average of the excess rates of return on these N assets would obviously equal the excess rate of return on N the market index, that is, rjt/N = rht. Furthermore, covariances are additive, the equally weighted average of the betas (both true and estimated) of the N assets used in the test is equal to unity, that is, xL/3jAt/N = 1. The case of a value weighted market index would not change the conclusions substantively.
+
+The OLS estimate of bt is The estimated beta, fSj% may be expressed as the true beta, Pifit, plus a measurement error, Gjt , Since Rjmt is unbiased,
+
+foundations for Financial Before we proceed, substitute the right hand side of (10.25.3) for jjht in (10.25.2) to get (10.25.5)
+
+Our purpose now is to show that even under a set of plausible as- sumptions about the measurement errors, bt(OLsl is inconsistent. We will take probability limit of (10.25.5) when the number of assets in- cluded in the sample goes to infinity. Note that as the number of assets in the sample increases, the equally weighted index and the corresponding asset betas will change. We will not, however, denote this dependence for notational simplicity.
+
+We will make the following plausible assum Note that 8; and 8% are upper bounds of Var(Gjt) and Var(Gjt)
+
+across assets, respectively. Relations (10.25.6) and (10.25.7) basically say that measurement errors are cross sectionally uncorrelated and are uncorrelated with the disturbance terms. We will further assume that That is, the sum of the squares of true betas increases more slowly than the square of the sample size as the sample size goes to infinity.
+
+Note that a sufficient condition for (10.25.9) is that the true betas are uniformly bounded as the the number of assets in the sample goes to infinity.
+
+In Exercise 10.3, we ask the reader to demonstrate that relations (10.25.4) and (10.25.6)-(10.25.9) imply N E jsl(fjt - *jt plim N = 0, N+m Econometric Issues in Testing' t N Ej=l ftjmfijt plim - - = 0.
+
+and respectively. Now define the asymptotic sample variation of the true betas. We assume that - the probability limit of (10.25.5) by usin (10.25.10)-(10.25.13) gives where ..
+
+Thus, bt/oLSl is not a consistent estimator of bt. From (10.25.15), we see that the magnitude of inconsistency can be improved either when is small or =(@() is large.
+
+The OLS estimator of at is A Moreover, since bt(oLs) is not consistent, fltfOLS) is not either.
+
+10.26. There are at least three approaches to the problem of measurement errors in the betas. The first approach grou into portfolios. Under the assumption that the measurement errors are uncorrelated across assets, the variance of the measurement er- rors for the portfolio betas would approach zero
+
+undations for Financial Economics assets in each portfolio increases. The second approach is an instru- ental variables approach, in which an instrumental variable that is highly correlated with the true beta but uncorrelated with the easurement errors is used to obtain consistent estimators of and it. The third approach estimates the variances of the measurement errors and subtracts the average variance of the measurement er- ror from the cross-sectional sample variation of the estimated betas.
+
+These approaches will be developed in Sections 10.27 to 10.32.
+
+## 7. The most frequently used approach to the problem of
+
+measurement errors in variables is grouping assets into portfolios. If the measurement errors associated with the betas satisfy (10.25.5)
+
+and are uncorrelated with the criterion used to group the assets into portfolios, the variance of the measurement errors associated with es zero as the nu er of assets in t portfolios increases. It then follows from (10.25.15) that 6t(oLsl will be consistent. To see this, note that the variance of the measurement error of the beta for portfolio g consisting of L assets is Then lim !Jar(;,,() < lim - = 0.
+
+L+m L+m L However, when measurement errors associated with beta esti- mates are correlated, grouping would only asymptotically reduce the variance of the measurement error of the group beta and cannot eliminate it even in the limit. Empirically, the esti ates of betas for large portfolios of assets have non-trivial variances. This indicates that grouping cannot make OLS estimators of (10.25.1) consistent estimators. It can only reduce the magnitude of inconsistency of OLS estimators.
+
+10.28. The grouping procedure discussed in Section 10.27 re- duces the magnitude of inconsistency resulting from measurement errors. It, however, causes a loss of efficiency of the estimators. To Econometric Issues in Testing the CAPM see this, assume that the N assets are divided into G mutually exclu- sive groups with L assets in each group. Let g be an index denoting the group to which an asset belongs. The group excess rate of return.
+
+Tyt. is a simple average of those of the individual assets contained in the group, j=l Since covariances are additive, the beta. of a group is also equal to the average of betas of the individual assets contained in the group, and similarly for the estimate of a group beta, L n The OLS estimator of bt based on individual (ungrouped) data and estimates of betas is and the variance of koLS)
+
+(under the OLS assumption ofhomoscedas- ticity and uncorrelated disturbance terms) is where 0 2  is the variance of iijt for all j. Note that the variance of the estimator is inversely proportional to the total cross-sectional variation in the estimated betas.
+
+Now consider the OLS estimator of bt based on the group returns and estimated group betas,
+
+Foundations for financial where ftgmt is an estimate of ftgmt. Note that under the assumption A of uncorrelated disturbance terms for individual assets, the variance of the disturbance term of fyt is inversely proportional to the number of assets in each group. Therefore, the variance of the OLS estimator of bf based on the group returns and estimated group betas is Thus, the relative efficiency of the OLS estimators based on grouped and ungrouped observations is equal to the ratio of the be- tween group variation in estimated betas to the total variation in estimated betas: This ratio is less than unity, because the total variation in estimated betas is equal to the sum of the between group variation and the within group variation in the estimated betas: where the first term on the right-hand side is the between group variation and the second term is the within group variation. It follows that grouping always results in a loss of efficiency.
+
+Assuming a given group size, the loss of efficiency is minimized by using a criterion for placing the assets into groups that maximizes the between group variation. Note that random assignment of the assets into groups may minimize the between group variation and result in the greatest loss of efficiency. Forming groups by ranking assets using the independent variable, the true beta, would minimize the within group variation and thereby maximize the between group variation and minimize the loss of efficiency. For example, rank assets Econometric Issues in Testin 33 1 according to betas and divide em into ten groups. T is composed of assets having tas among the top 10%, the tenth group is composed of assets h g betas among the lowest lo%, etc.
+
+However, the true betas are unobservable and the estimates of betas contain measurement errors. Rankings of assets based on estimated betas will be correlated with measurement errors, and the variance of the measurement errors will not go to zero as the number of assets in each group approaches infinity. For instance, consider the extreme case where the true betas were equal, then the rankings based on estimated betas would be perfectly correlated with the measurement errors.
+
+The ideal way to rank assets is to use a criterion that is highly correlated with the true betas but uncorrelated with the measure- ment errors. The use of a criterion that is highly correlated with the true betas will result in substantial between group variation in ihe true betas. The use of a criterion that is uncorrelated with the mea- surement errors in estimated betas will result in the within group measurement errors being uncorrelated across assets and the vari- ance of the measurement error of the group beta approaching zero when the number of assets in the group approaches infinity. Non- contemporaneous estimates of betas calculated using time-series of individual asset returns that do not overlap with the time-series of returns used to calculate the estimated group betas are an ideal in- strument for ranking assets into groups.
+
+calculated over non-overlapping periods should be uncorrelated, be- cause asset returns are serially uncorrelated. Empirically, estimated betas calculated from non-overlapping periods have a statistically significant correlation, which is consistent with a stationary distri- bution of asset returns. The grouping procedures used by Blume and Friend (1973), Fama and Macbeth (1973), and Black and Jensen and Scholes (1973) were based on non-contemporaneous beta estimates.
+
+This procedure is consistent with the assumption of stationary un- conditional betas. The loss of efficiency through grouping based on historical bet as is quite small.
+
+. The errors in variables problem when there are two or
+
+nancial Economics ore independent variables but only one of them is subject to mea- surement error is quite similar to the single independent variable case. However, previous statements concerning the cross-sectional sample variation in the independent variable relate instead to the cross-sectional sample variation in a given independent variable that is orthogonal to (uncorrelated with) the cross-sectional sample vari- in the other independent variables. That is, the regression cient on a given independent variable in an OLS multiple re- gression is equal to the regression coefficient in a simple OLS re- gression on the same independent variable orthogonalized using the other independent variables. Consider the case of two independent variables, estimated betas and dividend yields. Only the estimated betas are subject to measurement error. The orthogonalization of the estimated betas and the dividend yields can be accomplished b the following cross-sectional OLS regressions of estimate betas on dividend yields and of dividend yields on estimated betas, respectively, t.
+
+ftjmt = Tot + Tltdjt + e^ , and where 9ot, qlt9 &Ot9 and &it are OLS regression coefficients and where e- and edit are residuals. The residuals, eoim's and edit's, are the Pjmt orthogonalized betas and the orthogonalized dividend yields, respec- tively.
+
+Then the multiple OLS regression coe cients in the following cross-sectional regression may be expressed as where dmt is the time t dividend yield for the market proxy and where we have used the fact that that is, the sum of the residuals is equal to zero. This observation and (10.28.2) imply that the e ciency of an estimator of a given coefficient is inversely proportional to that part oft tion in that independent variable which is not explained by the other independent variables. Grouping by only one independent variable and doing a multiple regression may maximize the 10s of the estimator of the coefficient on the other indepen interest. For example, if the dividend yield is the variable of inter- est, maximizing the between group variation in dividend yield that is uncorrelated with the cross-sectional variation in betas woul appropriate.
+
+One possible procedure is to group the assets by betas into groups and to rank the assets in each beta group into L dividen yield sub-groups. The resulting L x L gro should have substan..
+
+tial orthogonal variation in dividend yields.
+
+ck and &-holes (1974)
+
+ranked assets into quintiles based on the dividend yields and then into subquintiles based on the betas, thereby achieving substantial orthogonal variation in betas and some orthogonal variation in the dividend yields. They found the coefficient on the betas to be strictly positive and statistically significant, but the coe idend yields to be insignificantly different from tive approach is to form separate groups based on each independent variable and combine all the groups. When there are only two in- dependent variables, this procedure should also result in significant ogonal variation in each of the independent variables. This ap- proach was used by Kraus and Litzenberger (1978), who found t the coefficients on both beta and coskewness were signi though the betas and the coskewnesses of the correlated.
+
+Foundations for Financial Economics . An instrumental variable approach to the problem of er- rors in variables is closely related to the previously discussed grouping approach. An ideal instrumental variable would be uncorrelated with both the measurement errors in betas and the disturbance terms but have a high correlation with the true betas. To simplify our expo- sition, in this section and Sections 10.31 and 10.32, we will consider the single independent variable model of (10.25.1): fjt = a,t + btpjmt + Ujt, j= I,â€˜. ,..., N.
+
+Let Zit, j = 1,2,. . . , N, denote an instrumental variable with the properties that and N plim '3""(Z" - = a nonzero constant, (10.30.3)
+
+N^oo j=1 N where Zmt denotes the cross-sectional mean of the instrumental vari- able Zjt. Note that, as usual, we did not denote the dependence of the betas and the cross-sectional mean of the Imt's on the the number of assets in a sample. Sufficient conditions for (10.30.1) and (10.30.2)
+
+include the uncorrelatedness of Zit and Ã§<; and Gt and Gkt, for all j, k. The instrumental variable estimator of bt is Taking the probability limit of and using (l0.30.1)-(10.30.3)
+
+gives Econometric Issues in Testing' the CA Thus the instrumental variable estimator is consistent.
+
+The ~reviously discussed estimates based on gr be interpreted as instrumental variable estimators.
+
+membership is constant over the periods in which the betas are es- timated, the estimators based on grouped data are identical to the instrumental variable estimators based on the ungrouped data with the group rank of each asset being used as the instrument (See John- ston (19841, pp. 430-432).
+
+10.31. Two stage least squares (TSLS) is a special case of the instrumental variables approach. In the first stage, the independent variable that has measurement errors is regressed on a number of variables including the other independent variables and at least one other exogenous variable. In the single independent variable model of (10.25.1), we regress, cross-sectionally, the estimated bet number of variables not included in the model to be estimated. The first stage model is The variables ykjt's are usually termed as descriptors and can be accounting variables, for example. Let the fitted values of (10.31.1)
+
+be denoted by &^'s.
+
+That is, where we remind the reader that uh's are without a tilde and thus denote the residuals from (10.31.1). By the fact that uitYs are resid- uals, we also know that that is, the uh's are cross-sectionally uncorrelated with 13jmt, and
+
+Foundations for Relations (10.31.2) and Moreover, (10.31.4) and the fact that the market proxy is an equally weighted index imply Now we consider the second sta e regression. In this stage, we e following model The OLS estimator of the of (10.31.7) is the two stage least squares estimator of bt of (10.25.1), denoted by We know where we have used (10.31.6). We claim that btiTSLS) is equivalent to kt(lNST)
+
+of (10.30.4) when the instrumental variable is ftjmt. To see this, we first substitute (10.25.1) and (10.31.5) into t side of (10.31.8) to get - - Efs1 / W P j w i t  - l)/w + Ef=i vjt (&wit - Note that the right-hand side of the second equality of (1 identical to the right-hand side of (10.30.4) when we substitute for zjt, and we have proved our claim.
+
+Econometric Issues in Testing t used OLS in the above TSLS regression for ease of expo- sition. A two sta by Rosenberg and variables model of accounting variabl lusion of the dividend yields was e first stage were uncorrelated cr Ids. The coefficients of the fitted betas and dividend yields in e second stage were found to be strictly positive and statistically significant.
+
+. The third approach to the problem of errors in mea- surement in beta estimates is to take account of the impact of measurement errors on the sample variation in estimated betas.
+
+assume that the measurement errors satisfy (10.2 the /twit's satisfy (10.25. ). Define an adjusted 0 of (10.25.1) as follows: Relations (10.25.10)-(10.25.13) t and the adjusted OLS estimator of (10.32.1) is consistent. The ad- justed OLS estimator of at is naturally ,.
+
+Since bt(A-OLS)
+
+is consistent, $A-OLS)
+
+is consistent.
+
+Alternatively viewed in the context of 10.21, &(A-oLS) is t excess rate of return on an asymptotic portfolio whose beta with re- spect to t% is equal to zero, and bt(A-OLS) is the excess rate of return on a self-financing asymptotic portfolio whose beta with respect to ere are very few instances in economics where the econome- trician has knowledge of the variances of measurement errors in an
+
+undations for Financia1 Economics independent variable. However, betas are generally estimated based on a time-series OLS regression of the rate of return on an asset on the rate of return on the market proxy. Then a cross-sectional model of (10.25.1) is estimated. We know that Thus the estimate of the variance of an OLS estimator of j3jmt is an estimate of the variance of measurement error Gjt. The estimate of the variance of a time-series estimate of a beta is easily calculated.
+
+Consider the time-series regression over, say, the sixty months prior to month t that satisfies the assumption of a stationary beta and the O M  assumption on the disturbance term: The variance of the OLS estimator of beta is where a\ is the variance of the disturbance term and Fat is the time-series mean of the rhr7s. Then is a consistent estimator of bt of (10.25.1) and similarly is a consistent estimator for a< of (10.25.1). When o - 2  of (10.32.4) is unknown, we replace it by an estimate where we note that there is no tilde on top of the +s of (10.32.5)
+
+and they represent the "residuals" from the time-series regression Econometric Issues in Testing the CAPM model of (10.32.3). It is well-known that (10.3 .5) is a consistent estimator of < and thus is a consistent estimator for ~ar(/?j&)
+
+and for Var(6jt).
+
+10.33. In Section 10.32, we discussed the adjustment that can be made to bt(OLS) to make it a consistent estimator of bf when the disturbance terms of (10.25.1) satisfies the OLS conditions. In this section, we will show that the same principle applies to the GLS estimator in the case where Vt is a diagonal matrix.
+
+Recall from Section 10.23 that when Vt is diagonal, GLS esti- mators can be obtained from an OLS estimator applied to the de- pendent and independent variables, including the unit vector for the intercept, deflated by aW. This estimator was termed a WLS es- timator in Section 10.23. This estimator is, however, inconsistent in the presence of measurement errors. Moreover, <rtj is unknown.
+
+A consistent estimator of o& is (10.32.5) when the residuals of the time-series model of (10.32.3) are used. We denote this estimator by &kt.
+
+Thus a consistent estimator of Var(Gjt) is Note that ~ar(6jt) is proportional to <.
+
+Thus we can deflate the dependent and independent variables by Var(u,O in a WLS esti- T mator instead of by In this case, the WLS estimator is where
+
+This estimator is inconsistent, however.
+
+asurement errors.
+
+Note that a consistent estimate of the variance of the measure- by A/Var(y,o is equal to one. In Exercise 10.4, show that consistent S estimators of the ) can be obtained by =acting N from t ated betas, that is, is a consistent estimator of coefficients of (10.25.1) un ularity conditions. This was the approach used by Litzenberger an Ramaswamy (1978) in the more general model of (10.20.1) with two independent variable and the div yields. They found that the coefficients on kP&as and div yields were strictly ositive and signi ous discussion of econometric problems in test- d on the cross-sectional tests of the weak pre- that ex ante expected rates of return have a positive correlation with betas. Note that the estimates of betas, variances, and covariances were not constrained by the ex ante lation between expected returns and betas implied by the CAP The estimates of variances and covariances that are based solely on ex post realized rates of return will be termed unconstrained esti- mates of variances and covariances. The relationship between ex ante expected rates of return and betas that is implied by the mar- ket proxy being on the portfolio frontier may be used to estimate betas, variances, and covariances. Consider the time-series model of (10.13.3): ; Ã £ = ( Ã § , + h ? , Ã ˆ , t = 1 , 2  ,..., T, j = l , 2  ,..., N. (10.34.1)
+
+The market proxy throughout the discussion to follow will be a port- folio constructed from assets in the test sample. Under the null hypothesis that h is on the ex ante portfolio frontier, it follows from the mathematics of the portfolio frontier that Econometric Issues in Testin 34 1 excess rate of return on the minimum va& tfolio with respect to the market proxy. Re- lation (10.34.2) is a now-]in r constraint on the parameters to be estimated. The alternative pothesis bere is that t roxy is not on the ex ante portfolio frontier. We isturbance terms of (10.34.1) are multivariate nor and will use a maximum likeli Under the null hypothes that the market p ante portfolio frontier, the non-linear cons of (10.34.2) has to be taken into account in estimating the co .35. To understand the impact on estimating betas, vari- nd covariances of the non-linear constraint of (10.34.2), we relatively simpler case of fhe traditional version der this version the risk premium on a zero portfolio is zero. Thus a = 0 in (10.34.2), and nditioning on this constraint implies a proportional relationship ween excess rates of return and betas. Note that in this case, the non-linear constraint reduces to the linear constraint that a, = 0, Q. Assuming that the disturbance terms of (10.34.1) are serially uncorrelated in that and have a time-stationary distribution, betas, variances, and co- variances can be estimated with the linear constraint by using t following procedure: First, obtain an estimate of beta for each o f t N assets by an OLS regression of the asset's monthly excess ra of return on the market proxy's monthly excess rates of return, wi the intercept terms suppressed. Formally, the model is Let & denote the beta estimate for asset j, where the superscript c signifies the fact that this estimate is based on the constraint that the intercept terms are zero. Next, the time-stationary cross-sectional variance-covariance matrix of the disturbance terms of flO.35.1 estimated as (10.35.2)
+
+t= l
+
+inancia1 Economics here is the Tv-vector of time t residuals for the Tv assets in the sample.
+
+Note also that the OLS estimates of betas are identical to the es- timates obtained by using the seemingly unrelated regression (SUR)
+
+technique which takes account of the estimated variance-covariance matrix, since the pooled time-series and cross-sectional model of (10.34.1) has the same independent variable for every asset equation, namely the excess rates of return on the market proxy portfolio.
+
+The unconstrained estimates of betas, variances, and covariances can also be obtained by a procedure similar to that discussed above except that the intercept terms are not constrained to be zero. Let the unconstrained estimates of betas and the variance-covariance matrix of the residuals be denoted by /3j^n. and ve, respectively.
+
+10.36. We discussed the constrained and unconstrained esti- mation of fSjrh, and the variance-covariance matrix in Section 10.35.
+
+e will now consider the test statistic of the null hypothesis that t% is on the ex ante portfolio frontier. The log of the likelihood func- tion of rjt's using unconstrained estimates of betas, variances, and covariances is where denotes the determinant of ee and et is the N vector of residuals at time t from the unconstrained time-series model of (10.34.1) for the N assets. The log of the likelihood function using the constrained estimates of betas, variances, and covariances is where 1 ~ ~
+
+denotes the determinant of Vz. The reader can verify Econometric Issues in Testing the CA - Figure 10.36.1: A graphical demonstration of the test statistic of (10.36.4) and (10.36.5)
+
+that Note that since &, jj^n., e, and Ve are maximum likelihood estimates, they maximize their respective likelihood functions. Since LC is the maximand with an additional constraint, In LC - In L < 0.
+
+A test statistic for the null hypothesis that the market proxy is on the ez ante portfolio frontier is where we have used (10.36.3). When the market proxy is on the ex ante portfolio frontier, we will likely find that LC is close to L, the test statistic is close to zero, and we will fail to reject the null hypoth- esis. Gibbons (1982) showed that this test statistic is asymptotically distributed according to X&-l when T -+ m.
+
+Foundations for Financial Econ The test statistic of 36.4) was shown by Gibbonss Ross, and intuitively appealin @ ~ ~ n o m i c interpre- tation. First5 using the unconstrained estimates of variances and co- variances and the time-series means of the rates of return on assets, one can construct an ex post portfolio frontier. Call this an uncon- strained portfolio frontier. This frontier is a half line since there is a riskless asset. This frontier is shown in Figure 10.36.1. Note that un- gures in Chapter 3, the vertical axis of Figure 10.36.1 is the time-series mean of the excess rate of return and the horizontal axis is the standard deviation of asset (portfolio) excess rates of return using unconstrained estimates. The riskless asset is at the origin.
+
+denote the portfolio having the highest reward to variabil- ity ratio (mean excess rate of return to standard deviation) using the unconstrained estimates. Any portfolio on the unconstrained portfo- lio frontier can be h. The tan at portfolio of Figure 10.36.1 is such a portfolio. Let (ffh, i'h) be the coordinate of the tangent portfolio in Figure 10.36.1. It can be shown that Hence (10.36.4) can be rewritten as -2111 QnLe - lnL)= Tln (10.36.6)
+
+denote the time-series mean and standard devi- ation of the market proxy. Since the market proxy is a portfolio constructed by the assets in the test sample, (urn., i'm} must b the tangent line in Figure 10.36.1.
+
+om (10.36.6), we see t test may be interpreted as a test of whether there is a statistically significant difference between the reward to variability ratio for the market proxy and the highest reward to variability ratio using the unconstrained estimates. If the market proxy were on the ex ante ortfolio frontier, it uld likely be close to the constrained fr e test statistic wo thus likely be close to zero, and we wo Econometric Issues in Testia to reject the null portfolio frontier.
+
+is rather lengthy.
+
+ders to Gibbons, (1986).
+
+er the case of the constrai s case, the non-linear const near constraint. The con likelihood estimates of betas, variances, and covaria the following model: Unlike the case of the traditional CAPM, where a = 0, the a needs to be estimated. To illustrate the interactions involved in esti ing a, 0., and the variance-covariance matrix, Gibbons (1982) has presented the following algorithm:
+
+## 1. Use OLS to estimate cq and /3jA of the time-series mo
+
+(10.34.l) for every j without the constraint. Note that since the same independent variable is used in the N time-series regres- sions, the OLS estimators are identical to the seemingly unre- lated regression estimators.
+
+uals from the N time-series regression equations in step 1 to compute the unconstrained estimate of t covariance matrix of N assets, denoted by t, as and calculate the unconstrained estimates of the expected excess rates of return, the 5's. Note that 5 is simply the time-series sample mean of rjt.
+
+## 3. Use Ve and the 9's to obtain the GLS estimate of a. That
+
+is, solve for the portfolio weights that minimize the portfolio variance subject to the constraint that the portfolio has a zero covariance with respect to the market proxy. The solution to this problem is derived in Section 3.15. The GLS estimate of a is then computed by applying these portfolio weights to the 5's.
+
+## 4. Use the GLS estimate of a obtained in step 3 to re-esti
+
+Foundations for Financial Economics e /3,h9s using (10.37.1) and OLS. The residuals from this con- strained regression are then used to estimate the variance co- variance matrix as in (10.35.2). We can also compute t strained estimates of the expected excess rates of returns on assets by r j 4 - 6 + f i ~ A ( ~ f i - 6 ) , = 1m j =  1,2 ,..., N, where the & are the OLS estimates of betas obtained in this A step, and 2 denotes the GLS estimate of a in step 3.
+
+## 5. Use the expected excess rates of returns and the variance covari-
+
+ance matrix estimated in step 4 to obtain a new GLS estimator of a as in step 3. Then carry out step 4. Continue iterating this process until a satisfactory level of convergence is achieved.
+
+. While the algorithm presented in Section 10.37 is useful to illustrate the impact of the non-linear constraint of (10.34.2)) the estimate of a may be obtained directly as follows: First, maximize the likelihood function to choose the maximum likelihood estimators for the N x N variance-covariance matrix of the N assets in the sample and the betas conditional on a given estimate a' of a. Denote these estimators by Ve(al) and fijfi(al). Next, substitute W a f )  and jjm(a1) into the original likelihood function to produce the concen- trated likelihood function as a function of only a'. Finally, maximize the concentrated likelihood function with respect to a' to produce a maximum likelihood estimator of a. Kandel (1984) showed that the maximum likelihood estimator of a is a solution to the following quadratic equation in x: where F = -1, -@-Cr^+l*h G = A-Cfm I A$; + A F ~ - F,,, - Bffi H = A A ?
+
+A - Crh Econometric Issues in Testing the CA F denotes the N-vector of q's, the time-series means of the excess rates of return on assets, V denotes the unconstrained variance- covariance matrix of the excess rates of return on assets as defined in Exercise 10.6.3, Ipf denotes the N-vector of l's, an the time-series variance of the excess rates of return on the market proxy. Note that A, h, and 6 are simply the unconstrained estimates of the A, B, and C defined in Section 3.9. There are two solutions to (10.38.1), denoted by a;l and x2. Assume without loss of generality that xi < x2. Denoting by O(MLE) the maximum likelihood estimate of a, Kandel (1984) showed that 1. if F~ > A/C, then st1 < (A/&) < FA < xi and = *I; 2. if FA < A/&, then x i  < h < (A/&) < a12 and = t 2 .
+
+10.39. In fact, 6(MLE) is a GLS estimator based on the con- strained estimates of the expected excess rates of return on assets and of the variance-covariance matrix of the excess rates of return on assets. To see this, note that we can use CLIMLE)
+
+to estimate the constrained betas as in Step 4 in the algorithm presented in Sec- tion 10.38. The constrained estimates of expected excess rates of return and covariances are The constrained estimates in (10.39.1) can then be used to construct the constrained portfolio frontier. Alternatively viewed, is the estimated expected excess rate of return on z c e )  using the con- strained estimates in (10.39.1). It is a GLS estimate because it is based on a full variance-covariance matrix and has a minimum vari- ance among all estimates whose expected value is equal to E[FZc(&)].
+
+r Financial Econ : Geometric interpretation of a/MLE)
+
+d on constrained estimates of means, variances, and covariances of excess rates of return Note that & will be on the constrained portfolio frontier. Thus, it follows from Section 3.15 that the geometric position of termined by drawing, in mean-variance space, a straight the market proxy, fh, through the the minimum variance -c portfolio on the constrained portfolio frontier, denoted by mvp . The intersection of that line with the estimated expected excess rate of s aiMLE). The geometric position of is demon- Next we will demonstrate the geometric representation of the GLS estimator of a based on the unconstrained estimates of the variance-covariance matrix and the expected excess rates of return as discussed in Step 3 of the algorithm of Section 10.37. We will denote this GLS estimate of a by The portfolio frontier of risky assets in Figure 10.39.2 is the frontier based on the uncon- strained estimates as defined in Exercise 10.6.3. Consider the port- folio frontier formed by the market proxy and the minimum variance portfolio based on the unconstrained estimates. As we discussed Econometric Issues in Testing : Geometric interpretation of based on unconstrained estimates of means, variances, and covariances of excess rates of return in Section 3.15, this frontier lies inside of and touches the uncon- strained portfolio frontier of all risky assets at the single point % the global minimum variance portfolio on the unconstrained fron- tier. Recall also from Section 3.15 that the minimum variance zero covariance portfolio with respect to the market proxy, based on t unconstrained estimates, will be on the parabola generated by t% and fiii$. The coordinate of this portfolio along the estimated expected excess rate of return axis is b).
+
+The geometric position of ffl(GLs)
+
+can be identified by drawing a line from fh through 6Gi@. This is demonstrated in Figure 10.39.2.
+
+Note that if h were on the unconstrained portfolio frontier, t constraint of (10.34.2) would not be binding, and the constrained and unconstrained portfolio frontiers would be identical. Suppose that this is not true and FÃ£ > F-, where r- denotes the unconstrained W P m P estimate of the excess rate of return on m v p .  Then one can show that the constrained portfolio frontier lies inside the unconstrained portfolio frontier and is tangent to it at a single ~ o i n t .  Moreover, the constrained estimate of the excess rate of return on mTpc is strictly
+
+Foundations for Finacid Economics Figure 10.39.3: Geometric comparison of -1 and &(G^S)
+
+lower than the unconstrained estimate of that on m. We will not prove these statements here but refer the reader to Kandel (1984)
+
+for details.
+
+Figure 10.39.3 graphs the constrained and unconstrained port- folio frontier together. Note that the constrained and unconstrained estimates of the expected excess rate of return and variance on fh agree. They are simply the time-series mean and variance of rht.
+
+Thus, the position of fh in the variance-mean space is invariant with respect to whether the constrained or unconstrained frontier is graphed. It then follows from the relative position of 6@' and fF$p that a/cLS) > ^(MLE).
+
+10.40. Kandel (1984) showed that the test statistic of the like- lihood ratio test of the null hypothesis that the market proxy is on the ex ante portfolio frontier can be written as where and f- are the constrained a m v P m u P mates of the expected excess rate of return minimum vmi- ance portfolio, respectively, and &'LC an &2Ã‘ are the constraine W P
+
+~ V P
+
+and unconstrained estimates of the variance of the minimum vari- ance portfolio, respectively. Under the null hypothesis, this statistic is asymptotically distributed as X&-r The test statistic of (10.40.1) has a very intuitive interpreta- tion. If the market proxy is on the ex ante portfolio frontier, then the constrained and unconstrained portfolio frontiers would be likely to be close. Contrast the slope of the line connecting and 6@pC with the slope of the line connecting &(MLE) and m p .  If the two frontiers were close, the slopes of these two lines would be close.
+
+In this case, the test statistic would be close to zero and we would fail to reject the null hypothesis that the market proxy is on the ex ante portfolio frontier. If t e slopes were signi equivalently, the constrained and the unconstrained portfolio fron- tier frontiers were significantly different, the test statistic would be significantly different from zero and the null hypothesis would be re- jected. The geometry of the test statistic of (10.40.1) is demonstrated in Figure 10.40.1.
+
+Foundations for : Geometric interpretation of the like- lihood ratio test statistic Exercises 0 . .  Show that the betas of assets in a proper subset of all assets respect to a portfolio, constructe from the same proper subset of assets, that has a given "true" beta with respect to the market portfolio and a minimum variance, are equal to the true betas times a scalar.
+
+10.2. Read Black, Jensen, and Scholes (1972) and show that their estimator of the intercept term a discussed in Section 10.20 is identical to that given in (10.20.2) and that their estimator of its variance is identical to that given in (10.20.3).
+
+(10.25.4) and (10.25.6)-(10.25.9) imply (10.25.10 10.4. Give sufficient conditions, in the context of Section 10.33. for to give consistent estimators of coefficients of (10.25.1).
+
+Econometric Issues in Testing the CA ariance zero covariance portfolio y in the context of Section 10.22.
+
+Show that the excess rate of return on this portfol LS estimator of the intercept term of (10 10.6. This exercise uses a data set consisting of mo of return on the ten beta decile portfolios. T derived from the data file maintained by the Chicago Center for Security Prices (CRS ) to which a large number of universities subscribe. For indivi als at universities subscribing to CRSP but where beta decile portfolios are not readily available, the authors will provide the data if they are sent a 5 i  inc disk with a stamped self- ressed disk envelope. Note ten befa decile portfolios constructed by grouping i assets into ten groups according to estimated betas as discussed in Section 10.28. The market proxy portfolio in the following exercises can be taken to be the equally weig the ten beta decile portfolios.
+
+10.6.1. Use the monthly excess returns on the ten beta decile folios from January 1931 through December 1983 to com- pute the estimates of the betas of the ten beta lios and their standard errors by using the time (10.13.2). Do an OLS regression using the model of (10.13.1) and calculate the standa OLS estimators of a and b based on t e sample variance- covariance matrix of the mean excess rates of return. Note that the sample covariance of the excess rates of return on assets j and I is Compare these standard errors with the stan based on the OLS assumption that
+
+undations for Financial Economics 10.6.2. Do an OLS regression of the monthly excess rates of return on the ten decile portfolios on the betas estimates for each month from 1931 through 1983 using the model of (10.13.2).
+
+Calculate the time-series means and standard deviations of t ( O L S 9  and ^tfOLS9. Compare these means and standard deviations with those calculated in Exercise 10.6.1.
+
+10.6.3. Do a GLS regression of the monthly excess rates of return on the ten decile portfolios on the betas estimates for each month from 1931 through 1983 using the model of (10.13.2)
+
+and the sample variance-covariance matrix. Note that the sample covariance of excess rates of return on asset j and 1 Ca1cu1ate the time-series means and standard deviations of (iftGLs) and bt(GLS). Compare these standard deviations with those of the OLS estimators in Exercise 10.6.2.
+
+10.6.4. Do a WLS regression of the monthly excess rates of return on the ten decile portfolios on the betas estimates for each month from 1931 through 1983 using the model of (10.13.2)
+
+and the sample variance-covariance matrix. As in Exer- cise 10.6.3, the sample covariance of excess rates of return on asset j and 1 is Calculate the A time-series means and standard deviations of iit(wLS) and bt(WLS). Compare these standard deviations with those of the OLS estimators in Exercise 10.6.2 and those of the GLS estimators in Exercise 10.6.3.
+
+10.6.5. Use a maximum likelihood method to test whether the equally weighted market proxy is on the ex ante portfo- lio frontier generated by the ten beta decile portfolios using monthly data from 1931 to 1983.
+
+10.6.6. Use monthly returns for the ten beta decile portfolios from 1931-1983 to estimate the parameters of the unconstrained ex post portfolio frontier and plot this portfolio frontier in Econometric Issues in Testing the CA mean-variance space. Demonstrate on t e graph the p s i - tion of aiGLS) relative to the plotted ex post portfolio fron- tier.
+
+10.6.7. Constrain the equally weighted market proxy to be on the ex ante portfolio frontier to estimate the parameters of the constrained frontier. Plot the unconstrained and con- strained frontier on the same graph. Show the tangency of the two frontiers and the relationship between the GLS and MLE estimators of a on the graph.
+
+Remarks. For a general discussion of linear estimators see John- ston (1984, pp. 28-29 and pp.31-32). The discussion of the role of assumptions in the development of a positive theory of the valuation sets in Section 10.4 is inspire by Friedman (195 discussion in Sections 10.3 and 10.5 is stimulated by the critique of CAPM tests contained in Roll (1977). The discussion of the uncon- ditional form of the CAPM in Section 10.10 and the discussion of the minimum variance unit beta portfolio in Section 10.12 are adapted from Breeden, Gibbons and Litzenberger (1986). The derivation of linear estimators as portfolio returns discussed in Section 10.21 first appeared in Black and Scholes (1974). The discussion of weighted least square estimators and generalized least square estimators in
+
+## Section 10.23 and the discussion of the third approach to errors in
+
+variables in Section 10.33 are adapted from Litzenberger and Ra- maswamy (1979). The discussion of an iterative maximum likelihood approach in Section 10.36 is adapted from Gibbons (1982). Gibbons used seemingly unrelated regression in step 4 of the algorithm pre- sented in Section 10.37, rather than OLS as described above. The estimates from the two procedures coincide. The discussion of the geometric interpretation of the likelihood ratio test and the GLS and MLE estimators of a in Section 10.39 and Section 10.40 is based on Kandel (1984).
+
+This chapter focused on the econometric procedures used in test- ing the CAPM rather than the actual test results. The intent of this
+
+## chapter is to provide a discussion of econometric issues that will
+
+Foundations for nanciai Economics the reader's understanding of the empirical literature on test- . It is not intende as a substitute for reading the . Our discussion is not exhaustive, however. For a discussion of the power and small sample bias of tests based on asymptotic distributions in the context of Sections 10.36-10.39 see acKinlay (1987), Amsler and Schmidt (1985), and Jobson and Ko- ie (1982). For the development of tests that do not implicitly assume that the market proxy is the minimum variance unit beta portfolio, see Shanken (1987) and Kandel and Stambaugh (1987).
+
+This chapter emphasizes tests involving only a single indepen- dent variable, the beta.
+
+hile other independent variables are briefly discussed, the econome problem related to the measurement of these independent variables is not discus . For a dialogue concern- ing econometric issues associated with testing of an after-tax that includes a div yield term see Litzenberger and Ra- maswamy (1979, 1982) an er and Scholes (1982).
+
+did not discuss tests of other asset pricing models. For pioneering work on testing of the APT, see Roll and Ross (1980). For a test of the Consumption-Oriented CAPM, see Breeden, Gibbons and Litzenberger (1986). For an important paper using the method of moments for testing non-linear pricing models, see Hansen and Singleton (1982). See Gibbons and Person (1985) for a test of the conditional form of the CAPM. Readers interested in the problems associated with seasonality in the relation between risk and return should consult Time and West (1984).
+
+Amsler, C., and P. Schmidt. 1985.
+
+onte Carlo investigation of the accuracy of multivariate C ests. Journal of Financial Economics 14359-376.
+
+anz, R. 1981. The relationship between return and market value of common stocks. Journal of Financial Economics 9-3-18.
+
+Black, F. 1972. Capital market equilibrium with restricted borrow- ing. Journal of Business 45:444-454.
+
+Econometric Issues in Testing t , Scholes, 1972. The Capital Asset 1: Some empirical tests.
+
+Theory of Capital Markets, York.
+
+. Scholes. 1974. The effects of dividend yield dividend policy on common stock, prices and returns. Journ Financial Economics I. Friend. 1973. A new look at the Capital Asset Breeden, D. 1979. An intertemporal asset pricing model with stochas- tic consumption and investment opportunities. Journal ofFinan- cia1 Economics 7265-296.
+
+Breeden, D., M. Gibbons, and R. Litzenberger. 1986, Tests of the consumption oriented Capital Asset ford University.
+
+h. 1973. Risk, return al of Political Economy ethodology of positive economics. In Es- says in Positive Economics. University of Chicago Press. Chicago.
+
+Friend, I., and R. Westerfield. 1980, Co-skewness and Capital Asset Pricing. Journal of Finance 35:897-913.
+
+ultivariate tests of financial models: A new . Journal of Financial Economics 1 , and W. Ferson. 1985. Testing asset pricing models with changing expectations and an unobservable market portfo- lio. Journal of Financial Economics 14-217-236.
+
+Gibbons, M., S. ROSS, and J. S anken. 1986. A test of the efficiency of a given portfolio. Research Paper #853. Graduate School of Business, Stanford University.
+
+ansen, L., and K. Singleton. 1982. Generalized instrumental vari- ables estimation of non-linear rational expectations models. Eco- nometrica 50:1269-1286.
+
+Jobson, J., and R. Korkie. 1982. Potential performance and tests of portfolio efficiency. Journal of Financial Economics Johnston, J. 1984. Econometric Methods. McGraw-Hill. New York.
+
+Kandel, S. 1984. The likelihood ratio test statistic of mean-variance efficiency without a riskless asset. Journal of Financial Eco- nomics 13:575-592.
+
+Foundations for Financial Economics Kandel, S., and R. Stambaugh. 1987. On correlations and the sen- sitivity of inferences about mean-variance efficiency. Journal of Financial Economics 18:61-90.
+
+Kraus, A., and R. Litzenberger. 1976, Skewness preference and the valuation of risk assets. Journal of Finance 31:1085-1100.
+
+Lintner, J. 1965. The valuation of risk assets and the selection of risky investment in stock portfolios and capital budgets. Review of Economics and Statistics 47:13-37.
+
+Litzenberger, R., and K. Ramaswamy. 1979. The effect of personal taxes and dividends on capital asset prices. Journal of Financial Economics 7:163-195.
+
+Litzenberger, R., and K. Ramaswamy. 1982. The effects of dividends on common stock prices: Tax effects or information effects? Jour- nal of Finance 37:429-443.
+
+MacKinlay, A. 1987. On multivariate tests oft Financial Econ omics erton, R. 1973. An inte pita1 asset pricing model. Eco- . 1982. Dividends and taxes: Some em- pirical evidence. Journal of Political Economy 90:1118-1141.
+
+Reinganum, M. 1983. Misspecification of capital asset pricing: Em- pirical anomalies based on earnings yields and market values.
+
+Journal of Financial Economics 9: 19-46.
+
+Roll, R. 1977. A critique of the asset pricing theory's tests - Part 1: On past and potential testability of the theory. Journal of Financial Economics 4: 129-176.
+
+Roll, R., and S. A. Ross. 1980. An empirical investigation of the arbitrage pricing hypothesis. Journal of Finance 35:1073-1104.
+
+Rosenberg, B., and V. Marathe. 1979. Tests of capital asset pricing hypothesis. Research in Finance 1:115-223.
+
+Ross, S. 1976. The arbitrage theory of capital asset pricing. Journal of Economic Theory 13 341-360.
+
+Schwert, G. 1983. Size and stock returns and other empirical regu- larities. Journal of Financial Economics 12:3-12.
+
+Shanken, J. 1985. Multivariate tests of the zero-beta CAPM. Journal of Financial Economics 14:32-348.
+
+Shanken, J. 1987. Proxies and asset pricing relations: Living with Econometric Issues in Testing the OA the Roll critique. Journal of Financial Economics 1 Sharpe, W. 1964. Capital asset prices: A theory of m rium under conditions of risk. Journal of Finance Tinic, S., and R. West. 1984. Risk and return: January vs. the rest of the Year. Journal of Financial Economics 1
+
+>:-order dense, 34.
+
+countable >:-order dense, 34.
+
+absolute risk aversion, 21, 28, 35; see also global absolute risk aversion.
+
+constant absolute risk aver- sion, 24-26, 33.
+
+decreasing absolute risk aver- sion, 21-23.
+
+increasing absolute risk aver- sion, 21, 23, 25, 34, 61.
+
+adapted, 224.
+
+Admati, A., 294.
+
+admissible trading strategy, 1 o n aggregation property, 120, 144, 146, 149.
+
+~kerlof, G., 295.
+
+Allais Paradox, 14.
+
+Amershi, A., 149.
+
+Amsler, C., 356.
+
+arbitrage opportunities, 84, 223, 226.
+
+arbitrage portfolio, 80, 106- 108, 110.
+
+Arbitrage Pricing Theory, 84, 108-109, 114, 116, 300, 308.
+
+Archimedean axiom, 12.
+
+Arrow-Pratt measure of risk aversion, 20, 39, 51, 109.
+
+Arrow, K., 21, 36, 149, artificial economy, 263, 274- 275.
+
+asymptotic efficiency, 317.
+
+Banz, R., 315.
+
+Bawa, V., 56.
+
+Bayes rule, 186.
+
+Bernoulli. D.. 254.
+
+, , best linear unbiased estimator, 322.
+
+Bhattacharya, S., 218, 295.
+
+binomial distribution function, 253.
+
+binomial option pricing for- mula, 254.
+
+Black, F., 97, 312-315, 319, 323; 331, 333, 335.
+
+Black-Scholes formula, 166, 170, 173, 174, 176-177.
+
+Brennan, M., 177.
+
+rock, W., 219.
+
+butterfly spread, 137, 139.
+
+call option, 129-130, 132, 137- 141, 151, 156-161, 168-169, 171, 176.
+
+Capital Asset Pricing Model, 84, 98, 100, 102-103, 114- 115, 151, 153, 155, 174, 176, 299, 301-303, 310, 314-315, 320, 340, 345, 355.
+
+conditional Capital Asset Pricing Model, 306-307.
+
+constrained borrowing ver- sions, 100, 303, 345.
+
+unconditional Capital Asset Pricing Model, 306-307.
+
+Zero-Beta Capital Asset Pric- ing Model, 97, 100.
+
+Cass, D., 31.
+
+cautiousness, 134.
+
+central limit theorem, 254.
+
+certainty equivalent, 270.
+
+Chamberlain, G., 81, 116, 219.
+
+Cho, I., 295.
+
+competitive equilibrium, 261.
+
+complementary binomial distri- bution function, 253.
+
+complete markets competitive equilibrium, 185.
+
+complete markets, 124, 126, 131, 136, 141, 148.
+
+complete markets rational expectations equilibrium, 196, 202.
+
+complete order, 39.
+
+complex securities, 124, 171, 187.
+
+compound lottery, 10.
+
+concentrated likelihood func- tion, 346.
+
+Connor, G., 116.
+
+consistency of estimators, 340.
+
+Constantinides, G., 149, 219.
+
+constrained estimates of the variances and covariances, 342.
+
+constrained portfolio frontier, 347-351.
+
+consumption beta, 208.
+
+Foundations for Financial Economics Consumption Capital Asset Pricing Model, 208.
+
+consumption plan, 2, 189.
+
+financed by a trading strat- egy, 190.
+
+coskewness, 155, 333.
+
+Cox, J., 177, 219, 254-256.
+
+Debreu, G., 36, 149, 218.
+
+Diamond, D., 294.
+
+discounted price system, 229, 235.
+
+dividend yield, 315.
+
+Donaldson, J., 218.
+
+Duffie, D., 218, 256.
+
+Dybvig, P., 116.
+
+dynamic programming, 193.
+
+dynamically complete markets, 200-201, 242-243, 252.
+
+efficient portfolio, 69, 96.
+
+efficiency of estimators, 316.
+
+elementary claim, 119, 124, 132, 136-141, 147-148.
+
+Epstein, L., 81.
+
+equivalent martingale measure, 231, 242.
+
+event, 180.
+
+event tree, 180, 196.
+
+ex ante portfolio frontier, 343- 344, 350-351.
+
+ex post frontier portfolio, 300.
+
+ex post portfolio frontier, 300.
+
+exercise price, 129; see also strike price.
+
+expected utility hypothesis, 1.
+
+expected utility representation, 1.
+
+expiration date, 129; see also maturity date.
+
+Fama, E., 312-314, 319, 331.
+
+Person, W., 356.
+
+Fishburn, P., 6.
+
+Friedman, M., 355.
+
+Friend, I., 311, 314-315, 319, 331.
+
+frontier portfolio, 63, 73, 84- 85.
+
+fully revealing price system, 277.
+
+Index fully revealing rational expec- tations equilibrium, 277.
+
+generalized least square, 313, 316-318, 322, 324, 339, 345- 347.
+
+adjusted generalized least bquare,313.
+
+Gertner, R., 295.
+
+Gibbons, M., 312, 314, 343- 345, 355-356.
+
+Gibbons, R., 295.
+
+global absolute risk aversion, 101, 305.
+
+Gonzalez-Gaverra, N., 81.
+
+Granmont, J., 36.
+
+Grinblatt, M., 116.
+
+Grossman, S., 294.
+
+grouping procedure, 327-328.
+
+loss of efficiency from group- ing, 328, 330.
+
+Hadar, J., 56.
+
+Hansen, L., 356.
+
+Harrison, J., 255-256.
+
+Hart, O., 36.
+
+Hellwig, M., 294.
+
+heteroscedasticity, 313, 324.
+
+Holmstrom, B., 295.
+
+homogeneous information, 259.
+
+homogeneous of degree one, 161.
+
+homoscedasticity, 329.
+
+Huang, C., 177, 218-219, 256.
+
+Huberman, G., 116.
+
+hyperbola, 96.
+
+inconsistency of estimators, 325, 328.
+
+independence axiom, 8, 14.
+
+indirect utility function, 194- 195.
+
+inefficient portfolio, 69, 70.
+
+information structure, 180, 196, 211. 224. 242.
+
+, Ingersoll, J., 219.
+
+instrumental variable, 313, 334.
+
+Jensen, M., 312-314, 319, 331, 355.
+
+Jobson, J., 314, 356.
+
+Jordon, J., 294.
+
+Kandel, S., 314, 355.
+
+Khilstrom, R., 56.
+
+Korkie, R., 314, 356.
+
+eps, D., 36, 218, 255-256, 294-295.
+
+Kyle, A., 295.
+
+Leland, H., 294.
+
+Lexicographic preference rela- tion, 6, 34.
+
+likelihooh function, 342.
+
+likelihood ratio test, 350.
+
+linear Pareto optimal sharing rules, 135.
+
+Lintner, J., 97-98, 294.
+
+Litzenberger, R., 115, 149, 177, 208, 313-315, 333, 340, 355- 356.
+
+long-lived securities, 179, 187- 188, 211, 223.
+
+331.
+
+Machina, M., 36, 56.
+
+MacKinlay, A., 314, 356.
+
+Marathe, V., 314, 337.
+
+market portfolio, 83-84, 90, 92-93, 96, 98-99, 100, 102- 104, 140-141, 300, 302-310.
+
+proxy of the market portfo- lio, 304, 307, 340-344, 348, 350-351.
+
+Markov property, 211.
+
+martingale property, 227, 232, 242.
+
+martingale, 227-231.
+
+Mas-Colell, A., 218.
+
+maturity date, 129; see also expiration date.
+
+maximum likelihood estima- tion, 314, 341, 346.
+
+measurability, 189.
+
+measurement errors, 313, 325, 328, 331-332, 338, 340.
+
+Mehra, R., 219.
+
+memorylessness, 211; see also Markov property.
+
+Merton, R., 81, 115, 177.
+
+undations for Financial Economics Miller, M., 149, 315, 356.
+
+minimum variance portfolio, 67, 68, 70, 73, 84, 97.
+
+irrlees, J., 295.
+
+128.
+
+Modigliani, F., 149.
+
+moral hazard, 292.
+
+more risk averse, 28.
+
+more risky, 49.
+
+Mossin, J., 98.
+
+multiperiod securities markets economy, 188.
+
+Nielsen, L., 36, 115.
+
+nonlinear sharing rules, 156.
+
+objective probability, 4.
+
+one fund separation, 88, 90.
+
+ordinary least squares, 313, 316, 324-325, 338-339, 341, 345.
+
+adjusted ordinary least square, 337.
+
+Pages, H., 256.
+
+Pareto efficient, 121, 133; see also Pareto optimal.
+
+Pareto optimal, 121-126, 130- 136, 144, 148-149, 152, 155, 163, 168, 185, 196.
+
+Pareto optimal allocation.
+
+Pareto optimal sharing rule, 132-133, 135, 154; see also linear Pareto optimal shar- ing rules.
+
+partially revealing rational ex- pectations equilibrium, 279.
+
+partition, 181, 211.
+
+ner partition, 181.
+
+Pfleiderer, P., 295.
+
+Pliska, S., 256.
+
+portfolio frontier, 65, 77, 83, 293, 302, 340, 348.
+
+Pratt, J., 21, 36.
+
+predictable process, 225.
+
+preference relation, 4.
+
+Prescott, E., 219.
+
+price process, 189.
+
+priced by arbitrage, 237, 252.
+
+pricing density, 140, 172.
+
+private signal, 260.
+
+put option, 130.
+
+put-call parity, 160, 161.
+
+Pyle, D., 294.
+
+Radner, R., 149, 294.
+
+Ramaswamy, K., 115, 313-315, 340, 355-356.
+
+rational expectations, 225, 304.
+
+rational expectations equilib- rium, 179, 185, 190, 212, 263, 272, 274, 276.
+
+redundant asset, 168.
+
+Reinganum, M., 315.
+
+Reisman, H., 116.
+
+relative risk aversion, 23, 24.
+
+representative agent, 120, 143, 146, 149, 155; see also repre- sentative individual.
+
+representative individual, 144, 146, 147.
+
+residual risk, 314.
+
+reward to variability ratio, 344.
+
+Richard, S., 218.
+
+Riley, J., 295.
+
+risk aversion, 2, 14, 17; see also absolute risk aversion, global absolute risk aversion, and relative risk aversion.
+
+risk tolerance, 134.
+
+risky corporate debt, 169.
+
+Ritter, J., 295.
+
+Rozll, A., 56.
+
+Roll, R., 81.
+
+Rosenberg, B., 314, 337.
+
+Ross, S., 51, 53, 56, 108, 115- 116, 149, 177, 219, 255, 295, 344-345.
+
+Rossman, M., 218.
+
+Rothschild, M., 49, 50, 116, 295.
+
+Rubinstein, M., 36, 116, 149, 177, 208, 254, 256.
+
+Russel, W., 56.
+
+Scharfstein, D., 295.
+
+Schmidt, P., 355.
+
+Scholes, M., 177, 256, 312-315, 319, 323, 331, 333, 356.
+
+Schwert, W., 315.
+
+screening, 284, 288; see also Index self-selection.
+
+second welfare theorem. 121.
+
+securities markets economy, 124, 127, 132-133, 188.
+
+securities markets rational ex- pectations equilibrium, 202.
+
+security market line. 93.
+
+seemingly unrelated regression, 342, 345.
+
+Selden, L., 218.
+
+separating mutual funds, 83- 84.
+
+separating portfolios, 85, 97.
+
+Shanken, J., 314, 344-345, 356.
+
+Sharpe, W., 98.
+
+signal, 260.
+
+signalling cost, 291.
+
+signalling equilibrium, 260.
+
+284-285, 288, 190.
+
+single index model, 322.
+
+Singleton, K., 356.
+
+Sosin, H., 149.
+
+Spence, hf., 295.
+
+St. Petersburg Paradox, 36.
+
+Stambaugh, R., 314, 356.
+
+state contingent claim, 119- 120, 123-127, 129, 141.
+
+state index portfolio, 129, 130.
+
+state of nature, 211.
+
+state prices, 124.
+
+state space, 211.
+
+Stiglitz, 31, 49, 50, 294.
+
+stochastic calculus, 210.
+
+stochastic dominance, 39.
+
+first degree stochastic domi- nance, 40.
+
+second degree stochastic dom- inance, 45, 59.
+
+second degree stochastic monotonic dominance, 49.
+
+third degree stochastic domi- nance, 55.
+
+Stoeckenius, J., 149.
+
+strike price, 129; see also exer- cise price.
+
+strong measure of risk aversion, 53.
+
+strong prediction, 307.
+
+subjective probability, 4.
+
+substitution axiom, 4, 12.
+
+sure thing principle, 12.
+
+sure things, 3.
+
+Svensson, L., 218.
+
+systematic skewness, 315.
+
+temporal resolution of uncer- tainty, 203.
+
+time-event contingent claim, 181, 196.
+
+Tinic, S., 356.
+
+Titman, S., 116.
+
+trading strategy, 189.
+
+transitive, 4.
+
+treasury bill, 303.
+
+two fund separation, 83-85, 87, 90-91, 97-98, 100, 103, 115, 117, 135, 301.
+
+two fund monetary separa- tion, 31, 33, 97.
+
+two stage least square, 335.
+
+unbiasedness, 320.
+
+unconstrained estimates of variances and covariances, 340, 342-343, 345, 348.
+
+unconstrained portfolio fron- tier, 343, 348-351, 351.
+
+utility function, 3.
+
+value additivity, 126, 128.
+
+Varian, H., 121.
+
+Verrecchia, R., 294.
+
+weak prediction, 307.
+
+weighted least squares regres- sion, 324.
+
+West, Westerfield, R., 356.
+
+R., 315.
+
+Wilson, R., 149.
+
+Zam, Zeckhauser, W., 218.
+
+R., 36, 295.
+
+zero covariance portfolio, 70, 73, 85.

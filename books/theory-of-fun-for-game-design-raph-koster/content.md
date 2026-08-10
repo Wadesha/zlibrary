@@ -1,29 +1,14 @@
 # Theory of Fun for Game Design Raph Koster Z Library
 
-> 来源文件：pre_Theory_of_Fun_for_Game_Design_Raph_Koster_Z_Library.txt
-> 字符数（约）：292620
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 A THEORY OF FUN for Game Design By Raph Koster
-
-A Theory of Fun for Game Design Printed in the United States of America.
 
 Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
 
 O’Reilly books may be purchased for educational, business, or sales promotional use.
 
-Online editions are also available for most titles (http://my.safaribooksonline.com). For more information, contact our corporate/ institutional sales department: 800-998-9938 or corporate@oreilly.com.
-
-Editor: Rachel Roumeliotis Production Editor: Christopher Hearse Proofreader: Jilly Gagnon Cover Designer: Kris Sotelo Interior Designer: Ron Bilodeau Illustrator and Cover Artist:  Raph Koster November 2004:  First Edition October 2013: Second Edition Revision History for the Second Edition: 2013-10-30: First Release See http://oreilly.com/catalog/errata.csp?isbn=0636920029236 for release details.
-
 The O’Reilly logo is a registered trademark of O’Reilly Media, Inc. Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks.
 
-Where those designations appear in this book, and O’Reilly Media, Inc., was aware of a trademark claim, the designations have been printed in caps or initial caps.
-
 While every precaution has been taken in the preparation of this book, the publisher and author assume no responsibility for errors or omissions, or for damages resulting from the use of the information contained herein.
-
-ISBN: 978-1-449-36321-5 [TI]
 
 “The best game design book I have ever read.” —David Jaffe, creative director of God of War “Does for games what Understanding Comics did for sequential art. Non-gamers: Buy this for the gamer in your life. Gamers: Buy this for the non- gamer in your life. You’ll never look at fun the same way again.”
 
@@ -144,8 +129,6 @@ Koster is widely recognized as one of the world’s top thinkers about game desi
 He was born in 1971, has lived in four countries and over a half-dozen different states, and is married with two kids. He holds a bachelor’s degree from Washington College in English/creative writing and in Spanish, and a Master of Fine Arts degree in creative writing from the University of Alabama. While in college, he also spent time studying most everything in the humanities, including music theory and composition and studio art. He is a past member of the famed Turkey City science fiction writing workshop. His music has been featured on television, and he has released one album, After the Flood.
 
 In 2012, he was named an Online Game Legend at the Game Developers Conference Online. This award recognizes the career and achievements of one particular creator who has made an indelible impact on the craft of online game development.
-
-Visit his website at http://www.raphkoster.com, or this book’s website at http://www.theoryoffun.com.
 
 This book is dedicated to my kids, without whom I never would have written it, and to Kristen, because I always promised my first book would be for her.
 

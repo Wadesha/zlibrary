@@ -1,10 +1,5 @@
 # 发明 DK 目击者丛书 莱昂内尔·本德 Z Library
 
-> 来源文件：pre_Invention_DK_Eyewitness_Books_Lionel_Bender_Z_Library.txt
-> 字符数（约）：138892
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 与《目击者》丛书联合出版
 
 目击者丛书·发明
@@ -13,13 +8,7 @@
 
 《目击者丛书·发明》　作者：莱昂内尔·本德（LIONEL BENDER）　达盖尔相机镜头　古埃及砝码　罗马横梁天平　斯莫尔（Small）的木犁　1940年代的圆珠笔（原子笔）　“纳皮尔算筹”（Napier's bones），17世纪的计算装置　DK 出版公司（DK Publishing, Inc.）
 
-LONDON, NEW YORK, MUNICH, MELBOURNE, and DELHI 项目编辑　Phil Wilkinson　设计　Matthewson Bull　高级编辑　Helen Parker　高级美术编辑　Jacquie Gulliver、Julia Harris　制作　Louise Barratt　图片研究　Kathy Lockley　特约摄影　Dave King　补充文字　Peter Lafferty　编辑顾问　伦敦科学博物馆（Science Museum）工作人员　修订版　执行主编　Linda Esposito、Andrew Macintyre　执行美术编辑　Jane Thomas　分类出版人　Linda Martin　艺术总监　Simon Webb　编辑兼资料编纂　Clare Hibbert　美术编辑　Joanna Pocock　顾问　Roger Bridgman　制作　Jenny Jacoby　图片研究　Celia Dearing　桌面排版设计　Siu Yin Ho　美国编辑　Elizabeth Hester、John Searcy　出版总监　Beth Sutinis　艺术总监　Dirk Kaufman　美国桌面排版设计　Milos Orlovic　美国制作　Chris Avgherinos、Ivor Parker 本《目击者》指南由 Dorling Kindersley Limited 与 Editions Gallimard 共同构思。本版于2005年在美国首次出版，由 DK Publishing 出版，地址：纽约哈得逊街375号，NY 10014。08 09 10 9 8 7 6 5 版权 © 1991, © 2005, Dorling Kindersley Limited 保留所有权利。未经版权所有者事先书面许可，不得以任何形式或通过任何方式（电子、机械、影印、录音或其他方式）复制、存储在检索系统中或传播。
-
 由英国 Dorling Kindersley Limited 出版。本书的编目记录可向美国国会图书馆索取。
-
-ISBN-13: 978-0-7566-1075-3 (PLC)
-
-ISBN-13: 978-0-7566-1076-0 (ALB)
 
 彩色复制由新加坡 Colourscan 公司完成。由中国 Toppan 公司（Toppan Co.）印刷。
 
@@ -762,7 +751,6 @@ Quer——用熟铁制成的锄类工具
 ## 字模
 
 模被放在像这样的模具底部。然后关闭模具，熔融金属从顶部倒入。打开侧面以释放字。
-
 
 金属刀片　模具插入此处
 
@@ -2030,4 +2018,3 @@ Jacket credits Front: Tcl: Science Museum, UK; Tcr: Design Museum, UK; Tr: Scien
 With the exception of the items listed above, and the objects on pages 8–9, 61, and 64–71, all the photographs in this book are of objects in the collections of the Science Museum, London.
 
 Acknowledgments
-

@@ -1,10 +1,5 @@
 # Feynman Richard Six Easy Pieces Basic 2011
 
-> 来源文件：pre_Feynman_Richard_Six_Easy_Pieces_Basic_2011.txt
-> 字符数（约）：284532
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 SIX EASY PIECES
 
 Also by Richard P. Feynman The Character of Physical Law Elementary Particles and the Laws of Physics: The 1986 Dirac Memorial Lectures (with Steven Weinberg)
@@ -22,12 +17,6 @@ Six Not-So-Easy Pieces: Einstein’s Relativity, Symmetry, and Space Time Statis
 The Theory of Fundamental Processes What Do You Care What Other People Think? Further Adventures of a Curious Character (with Ralph Leighton)
 
 SIX EASY PIECES Essentials of Physics Explained by Its Most Brilliant Teacher RICHARD P. FEYNMAN with Robert B. Leighton and Matthew Sands Introduction by Paul Davies A Member of the Perseus Books Group New York
-
-Copyright © 1963, 1989, 1995, 2011 by the California Institute of Technology Published by Basic Books, A Member of the Perseus Books Group All text and cover photographs are courtesy of the Archives, California Institute of Technology.
-
-Books published by Basic Books are available at special discounts for bulk purchases in the United States by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 2300 Chestnut Street, Suite 200, Philadelphia, PA 19103, or call (800) 810-4145, ext. 5000, or e-mail special.markets@perseusbooks.com.
-
-Library of Congress Control Number: 2010941330 ISBN: 978-0-465-02527-5 E-book ISBN: 978-0-465-02529-9 10 9 8 7 6 5 4 3 2 1
 
 CONTENTS Publisher’s Note vii Introduction by Paul Davies ix Special Preface xix Feynman’s Preface xxv ONE: Atoms in Motion 1 Introduction 1 Matter is made of atoms 4 Atomic processes 10 Chemical reactions 15 TWO: Basic Physics 23 Introduction 23 Physics before 1920 27 Quantum physics 33 Nuclei and particles 38 THREE: The Relation of Physics to Other Sciences 47 Introduction 47 Chemistry 48 Biology 49 Astronomy 59 Geology 61 Psychology 63 How did it get that way? 64 FOUR: Conservation of Energy 69 What is energy? 69 Gravitational potential energy 72 Kinetic energy 80 Other forms of energy 81 FIVE: The Theory of Gravitation 89 Planetary motions 89 Kepler’s laws 90 Development of dynamics 92 Newton’s law of gravitation 94 Universal gravitation 98 Cavendish’s experiment 104 What is gravity? 107 Gravity and relativity 112 SIX: Quantum Behavior 115 Atomic mechanics 115 An experiment with bullets 117 An experiment with waves 120 An experiment with electrons 122 The interference of electron waves 124 Watching the electrons 127 First principles of quantum mechanics 133 The uncertainty principle 136
 

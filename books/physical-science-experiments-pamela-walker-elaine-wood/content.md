@@ -1,29 +1,16 @@
 # Physical science experiments Pamela Walker Elaine Wood Z Library
 
-> 来源文件：pre_Physical_science_experiments_Pamela_Walker_Elaine_Wood_Z_Library.txt
-> 字符数（约）：182761
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Facts On File Science Experiments: Physical Science Experiments by Pamela Walker and Elaine Wood
-
-Text and artwork copyright © 2010 by Infobase Publishing Editor: Frank K. Darmstadt Copy Editor for A Good Thing, Inc.: Betsy Feist Project Coordination: Aaron Richman Art Director: Howard Petlack Production: Victoria Kessler Illustrations: Hadel Studios
 
 Facts On File, Inc.
 
 An imprint of Infobase Publishing 132 West 31st Street New York NY 10001
-
-THE COPYRIGHT HOLDER AND PUBLISHER GRANT PERMISSION FOR THE PHOTOCOPY REPRODUCTION OF THE TEXT AND ILLUSTRATIONS IN THIS WORK ONLY FOR NONPROFIT EDUCATIONAL USE. THE TEXT AND ILLUSTRATIONS MAY NOT BE USED IN A PROFIT-MAKING VENTURE WITHOUT THE EXPRESS WRITTEN PERMISSION OF THE PUBLISHER.
 
 Library of Congress Cataloging-in-Publication Data Walker, Pam, 1958- Physical science experiments / Pamela Walker, Elaine Wood.
 
 p. cm.—(Facts on File science experiments)
 
 Includes bibliographical references and index.
-
-ISBN 978-0-8160-7807-3 (hardcover)
-
-ISBN 978-1-4381-2908-2 (e-book)
 
 1. Physical sciences–Experiments–Juvenile literature. 2. Physical sciences–Study and teaching (Middle school)–Activity programs. 3. Physical sciences–Study and teaching (Secondary)–Activity programs. I. Wood, Elaine, 1950- II. Title.
 
@@ -32,8 +19,6 @@ Wood, Elaine, 1950- . Title.
 Q164.W23 2010 500.2078–dc22 2009023673
 
 Facts On File books are available at special discounts when purchased in bulk quantities for businesses, associations, institutions, or sales promotions. Please call our Special Sales Department in New York at 212/967-8800 or 800/322-8755.
-
-You can find Facts On File on the World Wide Web at http://www.factsonfile.com Printed in the United States of America
 
 ## IBT AGT 10 9 8 7 6 5 4 3 2
 
@@ -88,8 +73,6 @@ Safety Precautions
 Each experiment includes special safety precautions that are relevant to that particular project. These do not include all the basic safety precautions that are necessary whenever you are working on a scientific experiment. For this reason, it is absolutely necessary that you read and remain mindful of the General Safety Precautions that follow. Experimental science can be dangerous and good laboratory procedure always includes following basic safety rules. Things can happen quickly while you are performing an experiment—for example, materials can spill, break, or even catch on fire.
 
 There will not be time after the fact to protect yourself. Always prepare for unexpected dangers by following the basic safety guidelines during the entire experiment, whether or not something seems dangerous to you at a given moment.
-
-We have been quite sparing in prescribing safety precautions for the individual experiments. For one reason, we want you to take very seriously the safety precautions that are printed in this book. If you see it written here, you can be sure that it is here because it is absolutely critical. Read the safety precautions here and at the beginning of each experiment before performing each lab activity. It is difficult to remember a long set of general rules. By rereading these general precautions every time you set up an experiment, you will be reminding yourself that lab safety is critically important. In addition, use your good judgment and pay close attention when performing potentially dangerous procedures. Just because the book does not say “Be careful with hot liquids” or “Don’t cut yourself with a knife” does not mean that you can be careless when boiling water or using a knife to punch holes in plastic bottles. Notes in the text are special precautions to which you must pay special attention.
 
 ## GENERAL SAFETY PRECAUTIONS
 
@@ -325,12 +308,6 @@ Newton’s second law of motion states that every object in motion will continue
 
 **进一步阅读**
 
-Matthews, Michael. “The International Pendulum Project: An Overview.” 可在线访问。网址：http://www.arts.unsw.edu.au/pendulum/about.html。访问于2008年12月18日。该网页探讨了摆锤运动研究的历史。
-
-Neuman, Erik. “My Physics Lab: Simple Pendulum.” 可在线访问。网址：http://www.myphysicslab.com/pendulum1.html。访问于2009年3月16日。Neuman提供了一个Java小程序和对摆锤物理学的详细解释。
-
-Physclips. “The Foucault Pendulum.” 澳大利亚学习与教学委员会。可在线访问。网址：http://www.physclips.unsw.edu.au/jw/foucault_pendulum.html。访问于2008年12月18日。该网页展示了一个运动的傅科摆并解释了其行为。
-
 **3. 电磁铁中的金属**
 
 **主题**
@@ -419,14 +396,6 @@ Physclips. “The Foucault Pendulum.” 澳大利亚学习与教学委员会。�
 
 **进一步阅读**
 
-Brain, Marshall. “How Compasses Work,” HowStuffWorks, 2009. 可在线访问。网址：http://www.howstuffworks.com/compass.htm。访问于2009年7月7日。在这篇文章中，Brian解释了指南针如何利用磁场找到北极，并讲述了指南针的制造和工作原理。
-
-Brain, Marshall. “How Electromagnets Work,” HowStuffWorks, 2009. 可在线访问。网址：http://science.howstuffworks.com/electromagnet2.htm。访问于2009年1月1日。Brain解释了电流如何产生磁场并提供了一个动画。
-
-Cornell University. “Getting down to the core of electromagnets,” June 12, 2002. 可在线访问。网址：http://www.ccmr.cornell.edu/education/ask/index.html?quid=635。访问于2008年12月19日。康奈尔大学的科学家回答了关于电磁铁及相关主题的问题。
-
-Stern, David P. “The Self-Sustaining Dynamo in the Earth’s Core, Origin of The Earth’s Magnetism,” February 23, 2008. 可在线访问。网址：http://www.phy6.org/earthmag/dynamos2.htm。访问于2008年12月19日。Stern对地球磁场进行了详细的解释。
-
 **4. 保鲜膜防止蒸发的效果**
 
 **主题**
@@ -514,12 +483,6 @@ Want to Know More?
 See appendix for Our Findings.
 
 Further Reading WALKER/WOOD Bk 5 Phy. Sci. Exp. Figure 2-(5-5-2)
-
-Battery Education. "How Do Batteries Work?" August 24, 2006. Available online. URL: http://www.batteryeducation.com/2006/08/how_do_batterie.html. Accessed January 8, 2009. Battery Education provides basic information on battery technology, battery uses, and the technical aspects of batteries.
-
-British Broadcasting Cooperation. "The Open University." Available online. URL: http://www.open2.net/science/. Accessed January 8, 2009. Supported by the BBC, this Web site provides information on batteries and other topics in science.
-
-Green-Planet-Solar-Energy.com, "How Do Batteries Work?" January 4, 2009. Available online. URL: http://www.green-planet-solar-energy.com/how-do-batteries-work.html. Accessed January 8, 2009. This Web site discusses lead acid, nickel cadmium, and nickel hybrid batteries.
 
 ## 6. Do All Carbonated Beverages Go Flat at the Same Rate?
 

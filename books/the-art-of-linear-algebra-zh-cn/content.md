@@ -1,10 +1,5 @@
 # The Art of Linear Algebra zh CN
 
-> 来源文件：pre_The_Art_of_Linear_Algebra_zh_CN.txt
-> 字符数（约）：6142
-> 语言：zh
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 The Art of Linear Algebra – Graphic Notes on “Linear Algebra for Everyone” – Kenji Hiranabe ∗ with the kindest help of Gilbert Strang † translator: Kefang Liu ‡
 
 Abstract 我尝试为 Gilbert Strang 在书籍“Linear Algebra for Everyone”中介绍的矩阵的重要概念进行可视化图释,以促进从矩阵分解的角度对向量、矩阵计算和算法的理解. 1 它们包括矩阵分解(Column-Row, CR)、高斯消去法(Gaussian Elimination, LU)、格拉姆-施密特正交化(Gram-Schmidt Orthogonalization, QR)、特征值和对角化(Eigenvalues and Diagonalization, QΛQT)、和奇异值分解(Singular Value Decomposition, UΣVT).

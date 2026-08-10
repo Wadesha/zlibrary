@@ -3,21 +3,17 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>mathematics_for_machine_learning_mml_book</title>
+<title>mathematics for machine learning mml book</title>
 <link rel="stylesheet" href="../../assets/style.css">
 </head>
 <body>
 <header class="bookhead">
   <p class="crumb"><a href="../../index.html">← 书架</a></p>
-  <h1>mathematics_for_machine_learning_mml_book</h1>
-  <p class="meta">[English] 来源：native · 864,810 字 · 校对：否</p>
+  <h1>mathematics for machine learning mml book</h1>
+  <p class="meta">[English] 来源：native · 844,147 字符 · 校对：否</p>
 </header>
 <main class="reading">
 <h1>mathematics for machine learning mml book</h1>
-<blockquote>来源文件：pre_mathematics_for_machine_learning_mml_book.txt</blockquote>
-<blockquote>字符数（约）：837468</blockquote>
-<blockquote>语言：en</blockquote>
-<blockquote>处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。</blockquote>
 <p>MATHEMATICS FOR MACHINE LEAR NING Marc Peter Deisenroth A. Aldo Faisal Cheng Soon Ong DEISENROTH ET AL.</p>
 <p>MATHEMATICS FOR MACHINE LEARNING The fundamental mathematical tools needed to understand machine learning include linear algebra, analytic geometry, matrix decompositions, vector calculus, optimization, probability and statistics. These topics are traditionally taught in disparate courses, making it hard for data science or computer science students, or professionals, to effi ciently learn the mathematics. This self-contained textbook bridges the gap between mathematical and machine learning texts, introducing the mathematical concepts with a minimum of prerequisites. It uses these concepts to derive four central machine learning methods: linear regression, principal component analysis, Gaussian mixture models and support vector machines.</p>
 <p>For students and others with a mathematical background, these derivations provide a starting point to machine learning texts. For those learning the mathematics for the fi rst time, the methods help build intuition and practical experience with applying mathematical concepts. Every chapter includes worked examples and exercises to test understanding. Programming tutorials are offered on the book’s web site.</p>
@@ -56,7 +52,6 @@
 <p>Exercises 96 4 MatrixDecompositions 98</p>
 <h2>4.1 DeterminantandTrace</h2>
 <p>ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <p>ii Contents</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <h2>4.3 CholeskyDecomposition</h2>
@@ -97,7 +92,6 @@
 <h2>8.3 ParameterEstimation</h2>
 <h2>8.4 ProbabilisticModelingandInference</h2>
 <h2>8.5 DirectedGraphicalModels</h2>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>8.6 ModelSelection</h2>
 <p>9 LinearRegression 289</p>
 <h2>9.1 ProblemFormulation</h2>
@@ -127,52 +121,40 @@
 <h2>12.4 Kernels</h2>
 <h2>12.5 NumericalSolution</h2>
 <h2>12.6 FurtherReading</h2>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>Foreword Machine learning is the latest in a long line of attempts to distill human knowledgeandreasoningintoaformthatissuitableforconstructingma- chinesandengineeringautomatedsystems.Asmachinelearningbecomes moreubiquitousanditssoftwarepackagesbecomeeasiertouse,itisnat- uralanddesirablethatthelow-leveltechnicaldetailsareabstractedaway and hidden from the practitioner. However, this brings with it the danger that a practitioner becomes unaware of the design decisions and, hence, thelimitsofmachinelearningalgorithms.</p>
 <p>The enthusiastic practitioner who is interested to learn more about the magic behind successful machine learning algorithms currently faces a dauntingsetofpre-requisiteknowledge: Programminglanguagesanddataanalysistools Large-scalecomputationandtheassociatedframeworks Mathematicsandstatisticsandhowmachinelearningbuildsonit At universities, introductory courses on machine learning tend to spend earlypartsofthecoursecoveringsomeofthesepre-requisites.Forhistori- calreasons,coursesinmachinelearningtendtobetaughtinthecomputer sciencedepartment,wherestudentsareoftentrainedinthefirsttwoareas ofknowledge,butnotsomuchinmathematicsandstatistics.</p>
 <p>Current machine learning textbooks primarily focus on machine learn- ing algorithms and methodologies and assume that the reader is com- petent in mathematics and statistics. Therefore, these books only spend one or two chapters on background mathematics, either at the beginning of the book or as appendices. We have found many people who want to delve into the foundations of basic machine learning methods who strug- glewiththemathematicalknowledgerequiredtoreadamachinelearning textbook.Havingtaughtundergraduateandgraduatecoursesatuniversi- ties,wefindthatthegapbetweenhighschoolmathematicsandthemath- ematicslevelrequiredtoreadastandardmachinelearningtextbookistoo bigformanypeople.</p>
 <p>Thisbookbringsthemathematicalfoundationsofbasicmachinelearn- ing concepts to the fore and collects the information in a single place so thatthisskillsgapisnarrowedorevenclosed.</p>
 <p>ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <p>2 Foreword Why Another Book on Machine Learning?</p>
 <p>Machine learning builds upon the language of mathematics to express concepts that seem intuitively obvious but that are surprisingly difficult toformalize.Onceformalizedproperly,wecangaininsightsintothetask we want to solve. One common complaint of students of mathematics around the globe is that the topics covered seem to have little relevance topracticalproblems.Webelievethatmachinelearningisanobviousand directmotivationforpeopletolearnmathematics.</p>
 <p>This book is intended to be a guidebook to the vast mathematical lit- “Mathislinkedin erature that forms the foundations of modern machine learning. We mo- thepopularmind tivate the need for mathematical concepts by directly pointing out their withphobiaand usefulness in the context of fundamental machine learning problems. In anxiety.You’dthink the interest of keeping the book short, many details and more advanced we’rediscussing spiders.”(Strogatz, concepts have been left out. Equipped with the basic concepts presented 2014,page281) here, and how they fit into the larger context of machine learning, the readercanfindnumerousresourcesforfurtherstudy,whichweprovideat theendoftherespectivechapters.Forreaderswithamathematicalback- ground,thisbookprovidesabriefbutpreciselystatedglimpseofmachine learning. In contrast to other books that focus on methods and models of machine learning (MacKay, 2003; Bishop, 2006; Alpaydin, 2010; Bar- ber, 2012; Murphy, 2012; Shalev-Shwartz and Ben-David, 2014; Rogers andGirolami,2016)orprogrammaticaspectsofmachinelearning(Mu¨ller andGuido,2016;RaschkaandMirjalili,2017;CholletandAllaire,2018), we provide only four representative examples of machine learning algo- rithms.Instead,wefocusonthemathematicalconceptsbehindthemodels themselves.Wehopethatreaderswillbeabletogainadeeperunderstand- ingofthebasicquestionsinmachinelearningandconnectpracticalques- tions arising from the use of machine learning with fundamental choices inthemathematicalmodel.</p>
 <p>We do not aim to write a classical machine learning book. Instead, our intentionistoprovidethemathematicalbackground,appliedtofourcen- tral machine learning problems, to make it easier to read other machine learningtextbooks.</p>
 <p>Who Is the Target Audience?</p>
 <p>As applications of machine learning become widespread in society, we believethateverybodyshouldhavesomeunderstandingofitsunderlying principles.Thisbookiswritteninanacademicmathematicalstyle,which enables us to be precise about the concepts behind machine learning. We encourage readers unfamiliar with this seemingly terse style to persevere and to keep the goals of each topic in mind. We sprinkle comments and remarks throughout the text, in the hope that it provides useful guidance withrespecttothebigpicture.</p>
-<p>The book assumes the reader to have mathematical knowledge commonly Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Foreword 3 covered in high school mathematics and physics. For example, the reader should have seen derivatives and integrals before, and geometric vectors intwoorthreedimensions.Startingfromthere,wegeneralizethesecon- cepts. Therefore, the target audience of the book includes undergraduate university students, evening learners and learners participating in online machinelearningcourses.</p>
 <p>In analogy to music, there are three types of interaction that people havewithmachinelearning: AstuteListener Thedemocratizationofmachinelearningbythepro- vision of open-source software, online tutorials and cloud-based tools al- lowsuserstonotworryaboutthespecificsofpipelines.Userscanfocuson extracting insights from data using off-the-shelf tools. This enables non- tech-savvy domain experts to benefit from machine learning. This is sim- ilar to listening to music; the user is able to choose and discern between different types of machine learning, and benefits from it. More experi- enced users are like music critics, asking important questions about the applicationofmachinelearninginsocietysuchasethics,fairness,andpri- vacy of the individual. We hope that this book provides a foundation for thinkingaboutthecertificationandriskmanagementofmachinelearning systems, and allows them to use their domain expertise to build better machinelearningsystems.</p>
 <p>ExperiencedArtist Skilledpractitionersofmachinelearningcanplug andplaydifferenttoolsandlibrariesintoananalysispipeline.Thestereo- typicalpractitionerwouldbeadatascientistorengineerwhounderstands machine learning interfaces and their use cases, and is able to perform wonderfulfeatsofpredictionfromdata.Thisissimilartoavirtuosoplay- ing music, where highly skilled practitioners can bring existing instru- ments to life and bring enjoyment to their audience. Using the mathe- matics presented here as a primer, practitioners would be able to under- stand the benefits and limits of their favorite method, and to extend and generalize existing machine learning algorithms. We hope that this book provides the impetus for more rigorous and principled development of machinelearningmethods.</p>
 <p>FledglingComposer Asmachinelearningisappliedtonewdomains, developersofmachinelearningneedtodevelopnewmethodsandextend existing algorithms. They are often researchers who need to understand themathematicalbasisofmachinelearninganduncoverrelationshipsbe- tween different tasks. This is similar to composers of music who, within therulesandstructureofmusicaltheory,createnewandamazingpieces.</p>
 <p>Wehopethisbookprovidesahigh-leveloverviewofothertechnicalbooks for people who want to become composers of machine learning. There is a great need in society for new researchers who are able to propose and explore novel approaches for attacking the many challenges of learning fromdata.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>4 Foreword Acknowledgments We are grateful to many people who looked at early drafts of the book and suffered through painful expositions of concepts. We tried to imple- ment their ideas that we did not vehemently disagree with. We would like to especially acknowledge Christfried Webers for his careful reading of many parts of the book, and his detailed suggestions on structure and presentation. Many friends and colleagues have also been kind enough to provide their time and energy on different versions of each chapter.</p>
-<p>We have been lucky to benefit from the generosity of the online commu- nity,whohavesuggestedimprovementsviahttps://github.com,which greatlyimprovedthebook.</p>
-<p>Thefollowingpeoplehavefoundbugs,proposedclarificationsandsug- gested relevant literature, either via https://github.com or personal communication.Theirnamesaresortedalphabetically.</p>
-<p>Abdul-GaniyUsman EllenBroad AdamGaier FengkuangtianZhu AdeleJackson FionaCondon AdityaMenon GeorgiosTheodorou AlasdairTran HeXin AleksandarKrnjaic IreneRaissaKameni AlexanderMakrigiorgos JakubNabaglo AlfredoCanziani JamesHensman AliShafti JamieLiu AmrKhalifa JeanKaddour AndrewTanggara Jean-PaulEbejer AngusGruen JerryQiang AntalA.Buss JiteshSindhare AntoineToisoulLeCann JohnLloyd AregSarvazyan JonasNgnawe ArtemArtemev JonMartin ArtyomStepanov JustinHsi BillKromydas KaiArulkumaran BobWilliamson KamilDreczkowski BoonPingLim LilyWang ChaoQu LionelTondjiNgoupeyou ChengLi LydiaKnu¨fing ChrisSherlock MahmoudAslan ChristopherGray MarkHartenstein DanielMcNamara MarkvanderWilk DanielWood MarkusHegland DarrenSiegel MartinHewing DavidJohnston MatthewAlger DaweiChen MatthewLee Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Foreword 5 MaximusMcCann ShakirMohamed MengyanZhang ShawnBerry MichaelBennett SheikhAbdulRaheemAli MichaelPedersen ShengXue MinjeongShin SridharThiagarajan MohammadMalekzadeh SyedNoumanHasany NaveenKumar SzymonBrych NicoMontali ThomasBu¨hler OscarArmas TimurSharapov PatrickHenriksen TomMelamed PatrickWieschollek VincentAdam PattarawatChormai VincentDutordoir PaulKelly VuMinh PetrosChristodoulou WasimAftab PiotrJanuszewski WenZhi PranavSubramani WojciechStokowiec QuyuKong XiaonanChong RagibZaman XiaoweiZhang RuiZhang YazhouHao Ryan-RhysGriffiths YichengLuo SalomonKabongo SamuelOgunmola YoungLee SandeepMavadia YuLu SarveshNikumbh YunCheng SebastianRaschka YuxiaoHuang SenanayakSeshKumarKarri ZacCranko Seung-HeonBaek ZijianCao ShahbazChaudhary ZoeNolan ContributorsthroughGitHub,whoserealnameswerenotlistedontheir GitHubprofile,are: SamDataMad insad empet bumptiousmonkey HorizonP victorBigand idoamihai cs-maillist 17SKYE deepakiim kudo23 jessjing1995 WearealsoverygratefultoParameswaranRamanandthemanyanony- mous reviewers, organized by Cambridge University Press, who read one ormorechaptersofearlierversionsofthemanuscript,andprovidedcon- structive criticism that led to considerable improvements. A special men- tiongoestoDineshSinghNegi,ourLATEXsupport,fordetailedandprompt advice about LATEX-related issues. Last but not least, we are very grateful to our editor Lauren Cowles, who has been patiently guiding us through thegestationprocessofthisbook.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>6 Foreword Table of Symbols Symbol Typicalmeaning a,b,c,α,β,γ Scalarsarelowercase x,y,z Vectorsareboldlowercase A,B,C Matricesarebolduppercase x⊤,A⊤ Transposeofavectorormatrix A−1 Inverseofamatrix x,y Innerproductofxandy ⟨ ⟩ x⊤y Dotproductofxandy B = (b ,b ,b ) (Ordered)tuple 1 2 3 B = [b ,b ,b ] Matrixofcolumnvectorsstackedhorizontally 1 2 3 = b ,b ,b Setofvectors(unordered)</p>
 <p>1 2 3 ZB ,N{ } Integersandnaturalnumbers,respectively R,C Realandcomplexnumbers,respectively Rn n-dimensionalvectorspaceofrealnumbers x Universalquantifier:forallx x Existentialquantifier:thereexistsx a := b aisdefinedasb a =: b bisdefinedasa a b aisproportionaltob,i.e.,a = constant b ∝ · g f Functioncomposition:“g afterf” Ifandonlyif ⇐⇒ = Implies , Sets A C a aisanelementofset ∈ A A Emptyset without :thesetofelementsin butnotin A\B A B A B D Numberofdimensions;indexedbyd = 1,...,D N Numberofdatapoints;indexedbyn = 1,...,N I Identitymatrixofsizem m 0 Matrixofzerosofsizem n m,n 1 Matrixofonesofsizem n m,n e Standard/canonicalvector(whereiisthecomponentthatis1)</p>
 <p>dim Dimensionalityofvectorspace rk(A) RankofmatrixA Im(Φ) ImageoflinearmappingΦ ker(Φ) Kernel(nullspace)ofalinearmappingΦ span[b ] Span(generatingset)ofb 1 1 tr(A) TraceofA det(A) DeterminantofA Absolutevalueordeterminant(dependingoncontext)</p>
-<p>|·| Norm;Euclidean,unlessspecified ∥·∥ λ EigenvalueorLagrangemultiplier E Eigenspacecorrespondingtoeigenvalueλ Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Foreword 7 Symbol Typicalmeaning x y Vectorsxandy areorthogonal V Vectorspace V⊥ OrthogonalcomplementofvectorspaceV (cid:80)N x Sumofthex :x +...+x n=1 n n 1 N (cid:81)N x Productofthex :x ... x n=1 n n 1 · · N θ Parametervector ∂f Partialderivativeoff withrespecttox ∂x df Totalderivativeoff withrespecttox Gradient f = min f(x) Thesmallestfunctionvalueoff ∗ x x argmin f(x) Thevaluex thatminimizesf (note:argminreturnsasetofvalues)</p>
 <p>∗ x ∗ L Lagrangian Negativelog-likelihood L(cid:0)n(cid:1)</p>
 <p>Binomialcoefficient,nchoosek V [x] VarianceofxwithrespecttotherandomvariableX E [x] ExpectationofxwithrespecttotherandomvariableX Cov [x,y] Covariancebetweenxandy.</p>
 <p>X,Y X Y Z X isconditionallyindependentofY givenZ ⊥⊥ | X p RandomvariableX isdistributedaccordingtop (cid:0)∼ (cid:1)</p>
 <p>µ, Σ GaussiandistributionwithmeanµandcovarianceΣ Ber(µ) Bernoullidistributionwithparameterµ Bin(N,µ) BinomialdistributionwithparametersN,µ Beta(α,β) Betadistributionwithparametersα,β Table of Abbreviations and Acronyms Acronym Meaning e.g. Exempligratia(Latin:forexample)</p>
 <p>GMM Gaussianmixturemodel i.e. Idest(Latin:thismeans)</p>
-<p>i.i.d. Independent,identicallydistributed MAP Maximumaposteriori MLE Maximumlikelihoodestimation/estimator ONB Orthonormalbasis PCA Principalcomponentanalysis PPCA Probabilisticprincipalcomponentanalysis REF Row-echelonform SPD Symmetric,positivedefinite SVM Supportvectormachine ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <h2>Part I</h2>
 <p>Mathematical Foundations ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <p>Introduction and Motivation Machinelearningisaboutdesigningalgorithmsthatautomaticallyextract valuableinformationfromdata.Theemphasishereison“automatic”,i.e., machinelearningisconcernedaboutgeneral-purposemethodologiesthat canbeappliedtomanydatasets,whileproducingsomethingthatismean- ingful. There are three concepts that are at the core of machine learning: data,amodel,andlearning.</p>
 <p>Since machine learning is inherently data driven, data is at the core data of machine learning. The goal of machine learning is to design general- purpose methodologies to extract valuable patterns from data, ideally withoutmuchdomain-specificexpertise.Forexample,givenalargecorpus of documents (e.g., books in many libraries), machine learning methods can be used to automatically find relevant topics that are shared across documents (Hoffman et al., 2010). To achieve this goal, we design mod- els that are typically related to the process that generates data, similar to model the dataset we are given. For example, in a regression setting, the model would describe a function that maps inputs to real-valued outputs. To paraphrase Mitchell (1997): A model is said to learn from data if its per- formance on a given task improves after the data is taken into account.</p>
 <p>The goal is to find good models that generalize well to yet unseen data, which we may care about in the future. Learning can be understood as a learning waytoautomaticallyfindpatternsandstructureindatabyoptimizingthe parametersofthemodel.</p>
 <p>While machine learning has seen many success stories, and software is readily available to design and train rich and flexible machine learning systems, we believe that the mathematical foundations of machine learn- ing are important in order to understand fundamental principles upon whichmorecomplicatedmachinelearningsystemsarebuilt.Understand- ingtheseprinciplescanfacilitatecreatingnewmachinelearningsolutions, understandinganddebuggingexistingapproaches,andlearningaboutthe inherent assumptions and limitations of the methodologies we are work- ingwith.</p>
 <p>ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <p>12 IntroductionandMotivation</p>
 <h2>1.1 Finding Words for Intuitions</h2>
 <p>A challenge we face regularly in machine learning is that concepts and words are slippery, and a particular component of the machine learning systemcanbeabstractedtodifferentmathematicalconcepts.Forexample, the word “algorithm” is used in at least two different senses in the con- text of machine learning. In the first sense, we use the phrase “machine learningalgorithm”tomeanasystemthatmakespredictionsbasedonin- predictor put data. We refer to these algorithms as predictors. In the second sense, we use the exact same phrase “machine learning algorithm” to mean a system that adapts some internal parameters of the predictor so that it performs well on future unseen input data. Here we refer to this adapta- training tionastrainingasystem.</p>
@@ -182,7 +164,6 @@
 <p>model Amodelistypicallyusedtodescribeaprocessforgeneratingdata,sim- ilar to the dataset at hand. Therefore, good models can also be thought of as simplified versions of the real (unknown) data-generating process, capturing aspects that are relevant for modeling the data and extracting hidden patterns from it. A good model can then be used to predict what would happen in the real world without performing real-world experi- ments.</p>
 <p>learning We now come to the crux of the matter, the learning component of machine learning. Assume we are given a dataset and a suitable model.</p>
 <p>Training the model means to use the data available to optimize some pa- rametersofthemodelwithrespecttoautilityfunctionthatevaluateshow well the model predicts the training data. Most training methods can be thought of as an approach analogous to climbing a hill to reach its peak.</p>
-<p>In this analogy, the peak of the hill corresponds to a maximum of some Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>1.2 TwoWaystoReadThisBook</h2>
 <p>desired performance measure. However, in practice, we are interested in the model to perform well on unseen data. Performing well on data that we have already seen (training data) may only mean that we found a goodwaytomemorizethedata.However,thismaynotgeneralizewellto unseen data, and, in practical applications, we often need to expose our machinelearningsystemtosituationsthatithasnotencounteredbefore.</p>
 <p>Letussummarizethemainconceptsofmachinelearningthatwecover inthisbook: Werepresentdataasvectors.</p>
@@ -191,7 +172,6 @@
 <h2>1.2 Two Ways to Read This Book</h2>
 <p>We can consider two strategies for understanding the mathematics for machinelearning: Bottom-up: Building up the concepts from foundational to more ad- vanced. This is often the preferred approach in more technical fields, such as mathematics. This strategy has the advantage that the reader at all times is able to rely on their previously learned concepts. Unfor- tunately, for a practitioner many of the foundational concepts are not particularlyinterestingbythemselves,andthelackofmotivationmeans thatmostfoundationaldefinitionsarequicklyforgotten.</p>
 <p>Top-down: Drilling down from practical needs to more basic require- ments. This goal-driven approach has the advantage that the readers know at all times why they need to work on a particular concept, and thereisaclearpathofrequiredknowledge.Thedownsideofthisstrat- egyisthattheknowledgeisbuiltonpotentiallyshakyfoundations,and thereadershavetorememberasetofwordsthattheydonothaveany wayofunderstanding.</p>
-<p>We decided to write this book in a modular way to separate foundational (mathematical) concepts from applications so that this book can be read inbothways.Thebookissplitintotwoparts,wherePartIlaysthemath- ematical foundations and Part II applies the concepts from Part I to a set of fundamental machine learning problems, which form four pillars of machine learning as illustrated in Figure 1.1: regression, dimensionality reduction,densityestimation,andclassification.ChaptersinPartImostly builduponthepreviousones,butitispossibletoskipachapterandwork backward if necessary. Chapters in Part II are only loosely coupled and canbereadinanyorder.Therearemanypointersforwardandbackward ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>14 IntroductionandMotivation Figure1.1 The foundationsand fourpillarsof Machine Learning machinelearning.</p>
 <p>R e gr e s si o n Di m e n si o n alit R e d u cti o n D e n sit y E sti m ati o n Cl a s si fi c ati o n Vector Calculus Probability &amp; Distributions Optimization Linear Algebra Analytic Geometry Matrix Decomposition between the two parts of the book to link mathematical concepts with machinelearningalgorithms.</p>
 <p>Of course there are more than two ways to read this book. Most readers learnusingacombinationoftop-downandbottom-upapproaches,some- times building up basic mathematical skills before attempting more com- plex concepts, but also choosing topics based on applications of machine learning.</p>
@@ -201,7 +181,6 @@
 <p>We represent numerical data as vectors and represent a table of such dataasamatrix.Thestudyofvectorsandmatricesiscalledlinearalgebra, linearalgebra which we introduce in Chapter 2. The collection of vectors as a matrix is alsodescribedthere.</p>
 <p>Given two vectors representing two objects in the real world, we want to make statements about their similarity. The idea is that vectors that are similar should be predicted to have similar outputs by our machine learning algorithm (our predictor). To formalize the idea of similarity be- tween vectors, we need to introduce operations that take two vectors as inputandreturnanumericalvaluerepresentingtheirsimilarity.Thecon- analyticgeometry struction of similarity and distances is central to analytic geometry and is discussedinChapter3.</p>
 <p>In Chapter 4, we introduce some fundamental concepts about matri- matrix cesandmatrixdecomposition.Someoperationsonmatricesareextremely decomposition useful in machine learning, and they allow for an intuitive interpretation ofthedataandmoreefficientlearning.</p>
-<p>We often consider data to be noisy observations of some true underly- ingsignal.Wehopethatbyapplyingmachinelearningwecanidentifythe signal from the noise. This requires us to have a language for quantify- ing what “noise” means. We often would also like to have predictors that Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>1.2 TwoWaystoReadThisBook</h2>
 <p>allow us to express some sort of uncertainty, e.g., to quantify the confi- dence we have about the value of the prediction at a particular test data point. Quantification of uncertainty is the realm of probability theory and probabilitytheory iscoveredinChapter6.</p>
 <p>To train machine learning models, we typically find parameters that maximize some performance measure. Many optimization techniques re- quire the concept of a gradient, which tells us the direction in which to search for a solution. Chapter 5 is about vector calculus and details the vectorcalculus concept of gradients, which we subsequently use in Chapter 7, where we talkaboutoptimizationtofindmaxima/minimaoffunctions. optimization</p>
@@ -212,13 +191,10 @@
 <p>In Chapter 9, we will have a close look at linear regression, where our linearregression objectiveistofindfunctionsthatmapinputsx RD tocorrespondingob- servedfunctionvaluesy R,whichwecanint ∈ erpretasthelabelsoftheir respective inputs. We will discuss classical model fitting (parameter esti- mation) via maximum likelihood and maximum a posteriori estimation, as well as Bayesian linear regression, where we integrate the parameters outinsteadofoptimizingthem.</p>
 <p>Chapter10focusesondimensionalityreduction,thesecondpillarinFig- dimensionality ure 1.1, using principal component analysis. The key objective of dimen- reduction sionalityreductionistofindacompact,lower-dimensionalrepresentation of high-dimensional data x RD, which is often easier to analyze than theoriginaldata.Unlikeregression,dimensionalityreductionisonlycon- cerned about modeling the data – there are no labels associated with a datapointx.</p>
 <p>In Chapter 11, we will move to our third pillar: density estimation. The densityestimation objectiveofdensityestimationistofindaprobabilitydistributionthatde- scribesagivendataset.WewillfocusonGaussianmixturemodelsforthis purpose,andwewilldiscussaniterativeschemetofindtheparametersof this model. As in dimensionality reduction, there are no labels associated withthedatapointsx RD.However,wedonotseekalow-dimensional representation of the data. Instead, we are interested in a density model thatdescribesthedata.</p>
-<p>Chapter12concludesthebookwithanin-depthdiscussionofthefourth ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>16 IntroductionandMotivation classification pillar:classification.Wewilldiscussclassificationinthecontextofsupport vectormachines.Similartoregression(Chapter9),wehaveinputsxand correspondinglabelsy.However,unlikeregression,wherethelabelswere real-valued,thelabelsinclassificationareintegers,whichrequiresspecial care.</p>
 <h2>1.3 Exercises and Feedback</h2>
 <p>WeprovidesomeexercisesinPartI,whichcanbedonemostlybypenand paper. For Part II, we provide programming tutorials (jupyter notebooks)</p>
 <p>toexploresomepropertiesofthemachinelearningalgorithmswediscuss inthisbook.</p>
-<p>We appreciate that Cambridge University Press strongly supports our aim to democratize education and learning by making this book freely availablefordownloadat https://mml-book.com where tutorials, errata, and additional materials can be found. Mistakes canbereportedandfeedbackprovidedusingtheprecedingURL.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Linear Algebra Whenformalizingintuitiveconcepts,acommonapproachistoconstructa setofobjects(symbols)andasetofrulestomanipulatetheseobjects.This is known as an algebra. Linear algebra is the study of vectors and certain algebra rulestomanipulatevectors.Thevectorsmanyofusknowfromschoolare called “geometric vectors”, which are usually denoted by a small arrow above the letter, e.g., x and y. In this book, we discuss more general →− →− conceptsofvectorsanduseaboldlettertorepresentthem,e.g.,xandy.</p>
 <p>In general, vectors are special objects that can be added together and multiplied by scalars to produce another object of the same kind. From an abstract mathematical viewpoint, any object that satisfies these two properties can be considered a vector. Here are some examples of such vectorobjects:</p>
 <h2>1. Geometricvectors.Thisexampleofavectormaybefamiliarfromhigh</h2>
@@ -229,7 +205,6 @@
 <p>− 2 0 2 − x (a)Geometricvectors.</p>
 <p>(b)Polynomials.</p>
 <p>ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <p>18 LinearAlgebra be added together, which results in another polynomial; and they can be multiplied by a scalar λ R, and the result is a polynomial as well.Therefore,polynomialsare(ratherunusual)instancesofvectors.</p>
 <p>Notethatpolynomialsareverydifferentfromgeometricvectors.While geometric vectors are concrete “drawings”, polynomials are abstract concepts. However, they are both vectors in the sense previously de- scribed.</p>
 <h2>3. Audio signals are vectors. Audio signals are represented as a series of</h2>
@@ -240,10 +215,7 @@
 <p>is an example of a triplet of numbers. Adding two vectors a,b Rn component-wise resultsin anothervector: a+b = c Rn. More ∈ over, multiplying a Rn by λ R results in a scaled v ∈ ector λa Rn.</p>
 <p>Becarefultocheck Considering vec ∈ tors as elem ∈ ents of Rn has an additional benefi ∈ t that whetherarray it loosely corresponds to arrays of real numbers on a computer. Many operationsactually programminglanguagessupportarrayoperations,whichallowforcon- performvector venientimplementationofalgorithmsthatinvolvevectoroperations.</p>
 <p>operationswhen implementingona computer. Linear algebra focuses on the similarities between these vector concepts.</p>
-<p>We can add them together and multiply them by scalars. We will largely PavelGrinfeld’s focus on vectors in Rn since most algorithms in linear algebra are for- seriesonlinear algebra: mulated in Rn. We will see in Chapter 8 that we often consider data to http://tinyurl. be represented as vectors in Rn. In this book, we will focus on finite- com/nahclwm dimensional vector spaces, in which case there is a 1:1 correspondence GilbertStrang’s between any kind of vector and Rn. When it is convenient, we will use courseonlinear algebra: intuitionsaboutgeometricvectorsandconsiderarray-basedalgorithms.</p>
-<p>http://tinyurl. Onemajorideainmathematicsistheideaof“closure”.Thisistheques- com/bdfbu8s5 tion: What is the set of all things that can result from my proposed oper- 3Blue1Brownseries ations?Inthecaseofvectors:Whatisthesetofvectorsthatcanresultby onlinearalgebra: starting with a small set of vectors, and adding them to each other and https://tinyurl.</p>
 <p>com/h5g4kps scaling them? This results in a vector space (Section 2.4). The concept of a vector space and its properties underlie much of machine learning. The conceptsintroducedinthischapteraresummarizedinFigure2.2.</p>
-<p>ThischapterismostlybasedonthelecturenotesandbooksbyDrumm and Weil (2001), Strang (2003), Hogben (2013), Liesen and Mehrmann (2015), as well as Pavel Grinfeld’s Linear Algebra series. Other excellent Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.1 SystemsofLinearEquations</h2>
 <p>Figure2.2 Amind Vector mapoftheconcepts mposes introducedinthis co chapter,alongwith wheretheyareused Chapter5 Vectorcalculus Matrix inotherpartsofthe Vectorspace Group inde L p i e n n e d ar ence book.</p>
 <p>Systemof linearequations Linear/affine mapping Basis Matrix inverse Gaussian elimination Chapter3 Chapter12 Chapter10 Analyticgeometry Classification Dimensionality reduction closure Abelian represents re re se with+ ts solvedby propertyof solves maximalset resourcesareGilbertStrang’sLinearAlgebracourseatMITandtheLinear AlgebraSeriesby3Blue1Brown.</p>
@@ -252,7 +224,6 @@
 <p>Systems of linear equations play a central part of linear algebra. Many problems can be formulated as systems of linear equations, and linear algebragivesusthetoolsforsolvingthem.</p>
 <p>Example 2.1 A company produces products N ,...,N for which resources 1 n R ,...,R are required. To produce a unit of product N , a units of 1 m j ij resourceR areneeded,wherei = 1,...,mandj = 1,...,n.</p>
 <p>The objective is to find an optimal production plan, i.e., a plan of how many units x of product N should be produced if a total of b units of j j i resourceR areavailableand(ideally)noresourcesareleftover.</p>
-<p>If we produce x ,...,x units of the corresponding products, we need 1 n ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>20 LinearAlgebra atotalof a x + +a x (2.2)</p>
 <p>i1 1 in n ··· manyunitsofresourceR .Anoptimalproductionplan(x ,...,x ) Rn, i 1 n therefore,hastosatisfythefollowingsystemofequations: a x + +a x = b 11 1 1n n 1 ··· . . , (2.3)</p>
 <p>a x + +a x = b m1 1 mn n m ··· wherea Randb R.</p>
@@ -271,7 +242,6 @@
 <p>1 2 3 2x + 3x = 5 (3)</p>
 <p>1 3 Since (1)+(2)=(3), we can omit the third equation (redundancy). From (1)and(2),weget2x = 5 3x and2x = 1+x .Wedefinex = a R 1 3 2 3 3 − ∈ asafreevariable,suchthatanytriplet (cid:18) (cid:19)</p>
 <p>5 3 1 1 a, + a,a , a R (2.7)</p>
-<p>2 − 2 2 2 ∈ Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.1 SystemsofLinearEquations</h2>
 <p>Figure2.3 The x 2 solutionspaceofa systemoftwolinear equationswithtwo 4x +4x =5 1 2 variablescanbe geometrically 2x 1 −4x 2 =1 interpretedasthe intersectionoftwo lines.Everylinear equationrepresents aline.</p>
 <p>is a solution of the system of linear equations, i.e., we obtain a solution setthatcontainsinfinitelymany solutions.</p>
@@ -281,7 +251,6 @@
 <p>2x 4x = 1 1 2 wherethesolutionspaceisthepoint(x ,x ) = (1, 1).Similarly,forthree 1 2 4 variables, each linear equation determines a plane in three-dimensional space. When we intersect these planes, i.e., satisfy all linear equations at thesametime,wecanobtainasolutionsetthatisaplane,aline,apoint orempty(whentheplaneshavenocommonintersection).</p>
 <p>For a systematic approach to solving systems of linear equations, we will introduce a useful compact notation. We collect the coefficients a ij intovectorsandcollectthevectorsintomatrices.Inotherwords,wewrite thesystemfrom(2.3)inthefollowingform:         a a a b 11 12 1n 1 . . . .</p>
 <p>  . .   x 1 +  . .   x 2 + ··· +  . .   x n =   . .   (2.9)</p>
-<p>a a a b m1 m2 mn m ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>22 LinearAlgebra      a a x b 11 1n 1 1 ··· . . . .</p>
 <p>⇐⇒   . . . .     . .   =   . .   . (2.10)</p>
 <p>a a x b m1 mn n m ··· In the following, we will have a close look at these matrices and de- fine computation rules. We will return to solving linear equations in Sec- tion2.3.</p>
@@ -293,7 +262,6 @@
 <p>columns,amatrixA canberepresented asalongvectora.</p>
 <p>2.2.1 Matrix Addition and Multiplication A R4×2 a R8 ∈ ∈ ThesumoftwomatricesA Rm×n,B Rm×nisdefinedastheelement- ∈ ∈ re-shape wisesum,i.e.,   a +b a +b 11 11 1n 1n ··· A+B :=   . . . . . .   ∈ Rm×n. (2.12)</p>
 <p>a +b a +b m1 m1 mn mn ··· Notethesizeofthe For matrices A Rm×n, B Rn×k, the elements c ij of the product matrices. C = AB Rm×k ∈ arecomputed ∈ as C = ∈ np.einsum(’il, (cid:88) n lj’, A, B) c ij = a il b lj , i = 1,...,m, j = 1,...,k. (2.13)</p>
-<p>l=1 Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.2 Matrices</h2>
 <p>This means, to compute element c ij we multiply the elements of the ith Therearencolumns rowofAwiththejthcolumnofBandsumthemup.LaterinSection3.2, inAandnrowsin Bsothatwecan we will call this the dot product of the corresponding row and column. In cases,whereweneedtobeexplicitthatweareperformingmultiplication, computea il b lj for l=1,...,n.</p>
 <p>we use the notation A B to denote multiplication (explicitly showing Commonly,thedot “ ”). productbetween twovectorsa,bis Remark. Matricescanonlybemultipliediftheir“neighboring”dimensions denotedbya⊤bor match. For instance, an n k-matrix A can be multiplied with a k m- ⟨a,b⟩.</p>
@@ -316,7 +284,6 @@
 <p>. .</p>
 <p>... . .</p>
 <p>... . .</p>
-<p>identitymatrix 0 0 0 1 ··· ··· ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>24 LinearAlgebra asthen n-matrixcontaining1onthediagonaland0everywhereelse.</p>
 <p>Now that we defined matrix multiplication, matrix addition and the identitymatrix,letushavealookatsomepropertiesofmatrices: associativity Associativity: A Rm×n,B Rn×p,C Rp×q : (AB)C = A(BC) (2.18)</p>
 <p>∀ ∈ ∈ ∈ distributivity Distributivity: A,B Rm×n,C,D Rn×p :(A+B)C = AC +BC (2.19a)</p>
@@ -335,7 +302,6 @@
 <p>0 a 11 a 22 a 12 a 21 11 22 − 12 21 (2.23)</p>
 <p>Therefore, (cid:20) (cid:21)</p>
 <p>1 a a A−1 = 22 − 12 (2.24)</p>
-<p>a a a a a a 11 22 − 12 21 − 21 11 ifandonlyifa a a a = 0.InSection4.1,wewillseethata a 11 22 12 21 11 22 − ̸ − Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.2 Matrices</h2>
 <p>a a isthedeterminantofa2 2-matrix.Furthermore,wecangenerally 12 21 usethedeterminanttocheckwhetheramatrixisinvertible.</p>
 <p>Example 2.4 (Inverse Matrix)</p>
@@ -349,7 +315,6 @@
 <p>Remark (Sum and Product of Symmetric Matrices). The sum of symmet- ric matrices A,B Rn×n is always symmetric. However, although their productisalwaysdefined,itisgenerallynotsymmetric: (cid:20) (cid:21)(cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>1 0 1 1 1 1 = . (2.32)</p>
 <p>0 0 1 1 0 0 2.2.3 Multiplication by a Scalar Let us look at what happens to matrices when they are multiplied by a scalar λ R. Let A Rm×n and λ R. Then λA = K, K = λa .</p>
-<p>ij ij Practicall ∈ y,λscalesea ∈ chelementofA ∈ .Forλ,ψ R,thefollowingholds: ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>26 LinearAlgebra associativity Associativity: (λψ)C = λ(ψC), C Rm×n λ(BC) = (λB)C = B(λC) = (BC)λ, B Rm×n,C Rn×k.</p>
 <p>∈ ∈ Notethatthisallowsustomovescalarvaluesaround.</p>
 <p>(λC)⊤ = C⊤λ⊤ = C⊤λ = λC⊤ sinceλ = λ⊤ forallλ R.</p>
@@ -365,7 +330,6 @@
 <p>− − 9 5 3 x 2 Note that x scales the first column, x the second one, and x the third 1 2 3 one.</p>
 <p>Generally,asystemoflinearequationscanbecompactlyrepresentedin their matrix form as Ax = b; see (2.3), and the product Ax is a (linear)</p>
 <p>combination of the columns of A. We will discuss linear combinations in moredetailinSection2.5.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.3 SolvingSystemsofLinearEquations</h2>
 <h2>2.3 Solving Systems of Linear Equations</h2>
 <p>In(2.3),weintroducedthegeneralformofanequationsystem,i.e., a x + +a x = b 11 1 1n n 1 ··· . (2.37)</p>
@@ -377,7 +341,6 @@
 <p>8 0 1 Therefore, a solution is [42,8,0,0]⊤. This solution is called a particular particularsolution solution or special solution. However, this is not the only solution of this specialsolution system of linear equations. To capture all the other solutions, we need to be creative in generating 0 in a non-trivial way using the columns of the matrix: Adding 0 to our special solution does not change the special solution.Todoso,weexpressthethirdcolumnusingthefirsttwocolumns (whichareofthisverysimpleform)</p>
 <p>(cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>8 1 0 = 8 +2 (2.40)</p>
-<p>2 0 1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>28 LinearAlgebra so that 0 = 8c +2c 1c +0c and (x ,x ,x ,x ) = (8,2, 1,0). In 1 2 3 4 1 2 3 4 fact,anyscalingofthis − solutionbyλ Rproducesthe0vecto − r,i.e.,    (cid:20) (cid:21)</p>
 <p>1 0 8 4   2  0 1 2 − 12   λ 1  1     = λ 1 (8c 1 +2c 2 − c 3 ) = 0. (2.41)</p>
 <p>Followingthesamelineofreasoning,weexpressthefourthcolumnofthe matrix in (2.38) using the first two columns and generate another set of non-trivialversionsof0as    (cid:20) (cid:21) − 1 0 8 4  12 0 1 2 − 12   λ 2  0     = λ 2 ( − 4c 1 +12c 2 − c 4 ) = 0 (2.42)</p>
@@ -389,7 +352,6 @@
 <p>Neitherthegeneralnortheparticularsolutionisunique.</p>
 <p>The system of linear equations in the preceding example was easy to solve because the matrix in (2.38) has this particularly convenient form, which allowed us to find the particular and the general solution by in- spection. However, general equation systems are not of this simple form.</p>
 <p>Fortunately, there exists a constructive algorithmic way of transforming anysystemoflinearequationsintothisparticularlysimpleform:Gaussian elimination. Key to Gaussian elimination are elementary transformations of systems of linear equations, which transform the equation system into asimpleform.Then,wecanapplythethreestepstothesimpleformthat wejustdiscussedinthecontextoftheexamplein(2.38).</p>
-<p>2.3.2 Elementary Transformations elementary Keytosolvingasystemoflinearequationsareelementarytransformations transformations thatkeepthesolutionsetthesame,butthattransformtheequationsystem intoasimplerform: Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.3 SolvingSystemsofLinearEquations</h2>
 <p>Exchangeoftwoequations(rowsinthematrixrepresentingthesystem ofequations)</p>
 <p>Multiplicationofanequation(row)withaconstantλ R 0 ∈ \{ } Additionoftwoequations(rows)</p>
@@ -400,7 +362,6 @@
 <p>SwappingRows1and3leadsto matrix A|b compactly   1 2 1 1 1 0 representsthe   4 − − 8 3 − − 3 1 2   − 4R 1 s e y q s u t a e t m io o n f s l A in x ea = r b.</p>
 <p> 2 4 2 1 4 3  +2R 1 − − − − 1 2 0 3 4 a R − − − When we now apply the indicated transformations (e.g., subtract Row 1 fourtimesfromRow2),weobtain   1 2 1 1 1 0 − −  0 0 1 1 3 2   − −   0 0 0 3 6 3  − − 0 0 1 2 3 a R R 2 3 − − − −   1 2 1 1 1 0 − − ⇝  0 0 1 1 3 2  ( 1)</p>
 <p> − −  · −  0 0 0 3 6 3  ( 1)</p>
-<p>− − · −3 0 0 0 0 0 a+1   1 2 1 1 1 0 − − ⇝  0 0 1 1 3 2   − −   0 0 0 1 2 1  0 0 0 0 0 a+1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>30 LinearAlgebra row-echelonform This (augmented) matrix is in a convenient form, the row-echelon form (REF).Revertingthiscompactnotationbackintotheexplicitnotationwith thevariablesweseek,weobtain x 2x + x x + x = 0 1 2 3 4 5 − − x x + 3x = 2 3 − 4 5 − . (2.45)</p>
 <p>x 2x = 1 4 5 0 = a+1 particularsolution Onlyfora = 1thissystemcanbesolved.Aparticularsolution is     x 2 x 2  0      x 3 =  1 . (2.46)</p>
 <p>  −  x 4  1  x 0 generalsolution Thegeneralsolution, whichcapturesthesetofallpossiblesolutions,is         2 2 2        0  1  0      x R5 : x =   1  +λ 1  0  +λ 2   1   , λ 1 ,λ 2 R . (2.47)</p>
@@ -409,7 +370,6 @@
 <p>row-echelonform Definition 2.6 (Row-EchelonForm). Amatrixisinrow-echelonformif All rows that contain only zeros are at the bottom of the matrix; corre- spondingly, all rows that contain at least one nonzero element are on topofrowsthatcontainonlyzeros.</p>
 <p>Looking at nonzero rows only, the first nonzero number from the left pivot (also called the pivot or the leading coefficient) is always strictly to the leadingcoefficient rightofthepivotoftherowaboveit.</p>
 <p>Inothertexts,itis Remark (Basic and Free Variables). The variables corresponding to the sometimesrequired thatthepivotis1. pivots in the row-echelon form are called basic variables and the other basicvariable variables are free variables. For example, in (2.45), x 1 ,x 3 ,x 4 are basic freevariable variables,whereasx ,x arefreevariables.</p>
-<p>2 5 Remark (Obtaining a Particular Solution). The row-echelon form makes Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.3 SolvingSystemsofLinearEquations</h2>
 <p>our lives easier when we need to determine a particular solution. To do this,weexpresstheright-handsideoftheequationsystemusingthepivot columns, such that b = (cid:80)P λ p , where p , i = 1,...,P, are the pivot i=1 i i i columns.Theλ aredeterminedeasiestifwestartwiththerightmostpivot columnandworkourwaytotheleft.</p>
 <p>Inthepreviousexample,wewouldtrytofindλ ,λ ,λ sothat 1 2 3         1 1 1 0 0 1  1  2 λ 1 0 +λ 2 0 +λ 3 =  . (2.48)</p>
@@ -421,7 +381,6 @@
 <p>Gaussian Remark(GaussianElimination). Gaussianeliminationisanalgorithmthat elimination performselementarytransformationstobringasystemoflinearequations intoreducedrow-echelonform.</p>
 <p>Example 2.7 (Reduced Row Echelon Form)</p>
 <p>Verifythatthefollowingmatrixisinreducedrow-echelonform(thepivots areinbold):   1 3 0 0 3 A = 0 0 1 0 9  . (2.49)</p>
-<p>0 0 0 1 4 The key idea for finding the solutions of Ax = 0 is to look at the non- pivotcolumns,whichwewillneedtoexpressasa(linear)combinationof the pivot columns. The reduced row echelon form makes this relatively straightforward, and we express the non-pivot columns in terms of sums and multiples of the pivot columns that are on their left: The second col- umn is 3 times the first column (we can ignore the pivot columns on the right of the second column). Therefore, to obtain 0, we need to subtract ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>32 LinearAlgebra thesecondcolumnfromthreetimesthefirstcolumn.Now,welookatthe fifthcolumn,whichisoursecondnon-pivotcolumn.Thefifthcolumncan be expressed as 3 times the first pivot column, 9 times the second pivot column, and 4 times the third pivot column. We need to keep track of theindicesofthepivotcolumnsandtranslatethisinto3timesthefirstcol- umn, 0 times the second column (which is a non-pivot column), 9 times the third column (which is our second pivot column), and 4 times the fourthcolumn(whichisthethirdpivotcolumn).Thenweneedtosubtract thefifthcolumntoobtain0.Intheend,wearestillsolvingahomogeneous equationsystem.</p>
 <p>Tosummarize,allsolutionsofAx = 0,x R5 aregivenby       3 3        1  0     x R5 : x = λ 1   − 0  +λ 2   9   , λ 1 ,λ 2 R  . (2.50)</p>
 <p>   ∈   0     4   ∈      0 − 1   2.3.3 The Minus-1 Trick In the following, we introduce a practical trick for reading out the solu- tions x of a homogeneous system of linear equations Ax = 0, where A Rk×n,x Rn.</p>
@@ -431,7 +390,6 @@
 <p>where canbeanarbitraryrealnumber,withtheconstraintsthatthefirst nonzeroentryperrowmustbe1andallotherentriesinthecorresponding column must be 0. The columns j ,...,j with the pivots (marked in 1 k bold)arethestandardunitvectorse ,...,e Rk.Weextendthismatrix 1 k toann n-matrixA˜ byaddingn k rowso ∈ ftheform × − (cid:2) (cid:3)</p>
 <p>0 0 1 0 0 (2.52)</p>
 <p>··· − ··· so that the diagonal of the augmented matrix A˜ contains either 1 or 1.</p>
-<p>Then, the columns of A˜ that contain the 1 as pivots are solutions − of Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.3 SolvingSystemsofLinearEquations</h2>
 <p>the homogeneous equation system Ax = 0. To be more precise, these columns form a basis (Section 2.6.1) of the solution space of Ax = 0, whichwewilllatercallthekernelornullspace(seeSection2.7.3). kernel nullspace Example 2.8 (Minus-1 Trick)</p>
 <p>Letusrevisitthematrixin(2.49),whichisalreadyinreducedREF:   1 3 0 0 3 A = 0 0 1 0 9  . (2.53)</p>
@@ -440,14 +398,12 @@
 <p>   ∈   0     4   ∈      0 − 1   whichisidenticaltothesolutionin(2.50)thatweobtainedby“insight”.</p>
 <p>Calculating the Inverse To compute the inverse A−1 of A Rn×n, we need to find a matrix X that satisfies AX = I . Then, X ∈ = A−1. We can write this down as a set of simultaneous linear equations AX = I , where we solve for X = [x x ]. We use the augmented matrix notation for a compact 1 n |···| representationofthissetofsystemsoflinearequationsandobtain (cid:2) A I (cid:3) ⇝ ⇝ (cid:2) I A−1(cid:3) . (2.56)</p>
 <p>n n | ··· | This means that if we bring the augmented equation system into reduced row-echelon form, we can read out the inverse on the right-hand side of theequationsystem.Hence,determiningtheinverseofamatrixisequiv- alenttosolvingsystemsoflinearequations.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>34 LinearAlgebra Example2.9(CalculatinganInverseMatrixbyGaussianElimination)</p>
 <p>Todeterminetheinverseof   1 0 2 0 1 1 0 0 A =   (2.57)</p>
 <p>1 2 0 1 1 1 1 1 wewritedowntheaugmentedmatrix   1 0 2 0 1 0 0 0  1 1 0 0 0 1 0 0     1 2 0 1 0 0 1 0  1 1 1 1 0 0 0 1 anduseGaussianeliminationtobringitintoreducedrow-echelonform   1 0 0 0 1 2 2 2 − −  0 1 0 0 1 1 2 2  − − ,  0 0 1 0 1 1 1 1 − − 0 0 0 1 1 0 1 2 − − suchthatthedesiredinverseisgivenasitsright-handside:   1 2 2 2 − − A−1 =   1 − 1 2 − 2  . (2.58)</p>
 <p> 1 1 1 1 − − 1 0 1 2 − − We can verify that (2.58) is indeed the inverse by performing the multi- plicationAA−1 andobservingthatwerecoverI .</p>
 <p>2.3.4 Algorithms for Solving a System of Linear Equations In the following, we briefly discuss approaches to solving a system of lin- ear equations of the form Ax = b. We make the assumption that a solu- tionexists.Shouldtherebenosolution,weneedtoresorttoapproximate solutions,whichwedonotcoverinthischapter.Onewaytosolvetheap- proximate problem is using the approach of linear regression, which we discussindetailinChapter9.</p>
 <p>In special cases, we may be able to determine the inverse A−1, such that the solution of Ax = b is given as x = A−1b. However, this is onlypossibleifAisasquarematrixandinvertible,whichisoftennotthe case. Otherwise, under mild assumptions (i.e., A needs to have linearly independentcolumns)wecanusethetransformation Ax = b A⊤Ax = A⊤b x = (A⊤A)−1A⊤b (2.59)</p>
-<p>⇐⇒ ⇐⇒ Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.4 VectorSpaces</h2>
 <p>and use the Moore-Penrose pseudo-inverse (A⊤A)−1A⊤ to determine the Moore-Penrose solution (2.59) that solves Ax = b, which also corresponds to the mini- pseudo-inverse mumnormleast-squaressolution.Adisadvantageofthisapproachisthat itrequiresmanycomputationsforthematrix-matrixproductandcomput- ing the inverse of A⊤A. Moreover, for reasons of numerical precision it is generally not recommended to compute the inverse or pseudo-inverse.</p>
 <p>In the following, we therefore briefly discuss alternative approaches to solvingsystemsoflinearequations.</p>
@@ -458,7 +414,6 @@
 <h2>2.4 Vector Spaces</h2>
 <p>Thus far, we have looked at systems of linear equations and how to solve them (Section 2.3). We saw that systems of linear equations can be com- pactly represented using matrix-vector notation (2.10). In the following, wewillhaveacloserlookatvectorspaces,i.e.,astructuredspaceinwhich vectorslive.</p>
 <p>Inthebeginningofthischapter,weinformallycharacterizedvectorsas objects that can be added together and multiplied by a scalar, and they remain objects of the same type. Now, we are ready to formalize this, and we will start by introducing the concept of a group, which is a set of elements and an operation defined on these elements that keeps some structureofthesetintact.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>36 LinearAlgebra 2.4.1 Groups Groups play an important role in computer science. Besides providing a fundamental framework for operations on sets, they are heavily used in cryptography,codingtheory,andgraphics.</p>
 <p>Definition2.7(Group). Consideraset andanoperation : G ⊗ G×G → G group definedon .ThenG := ( , )iscalledagroupifthefollowinghold: G G ⊗ closure</p>
 <h2>1. Closureof under : x,y : x y</h2>
@@ -483,7 +438,6 @@
 <p>Letushaveacloserlookat(Rn×n, ),i.e.,thesetofn n-matriceswith · × matrixmultiplicationasdefinedin(2.13).</p>
 <p>– Closureandassociativityfollowdirectlyfromthedefinitionofmatrix multiplication.</p>
 <p>– Neutral element: The identity matrix I is the neutral element with respecttomatrixmultiplication“ ”in(Rn×n, ).</p>
-<p>· · Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.4 VectorSpaces</h2>
 <p>– Inverse element: If the inverse exists (A is regular), then A−1 is the inverse element of A Rn×n, and in exactly this case (Rn×n, ) is a ∈ · group,calledthegenerallineargroup.</p>
 <p>Definition 2.8 (General Linear Group). The set of regular (invertible)</p>
@@ -497,7 +451,6 @@
 <h2>3. Associativity(outeroperation): λ,ψ R,x : λ (ψ x) = (λψ)</h2>
 <p>∀ ∈ ∈ V · · ·</p>
 <h2>4. Neutralelementwithrespecttotheouteroperation: x : 1 x =</h2>
-<p>∀ ∈ V · The elements x V are called vectors. The neutral element of ( ,+) is vector ∈ V thezerovector0 = [0,...,0]⊤,andtheinneroperation+iscalledvector vectoraddition addition. The elements λ R are called scalars and the outer operation scalar is a multiplication by scalars. Note that a scalar product is something multiplicationby different,andwewillgettothisinSection3.2. scalars Remark. A “vector multiplication” ab, a,b Rn, is not defined. Theoret- ically, we could define an element-wise multiplication, such that c = ab with c = a b . This “array multiplication” is common to many program- j j j ming languages but makes mathematically limited sense using the stan- dardrulesformatrixmultiplication:Bytreatingvectorsasn 1matrices ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>38 LinearAlgebra (which we usually do), we can use the matrix multiplication as defined in(2.13).However,thenthedimensionsofthevectorsdonotmatch.Only outerproduct the following multiplications for vectors are defined: ab⊤ Rn×n (outer product),a⊤b R(inner/scalar/dotproduct). ∈ ∈ ♢ Example 2.11 (Vector Spaces)</p>
 <p>Letushavealookatsomeimportantexamples: = Rn,n Nisavectorspacewithoperationsdefinedasfollows: V ∈ – Addition:x+y = (x ,...,x )+(y ,...,y ) = (x +y ,...,x +y )</p>
 <p>1 n 1 n 1 1 n n forallx,y Rn – Multiplication by scalars: λx = λ(x ,...,x ) = (λx ,...,λx ) for 1 n 1 n allλ R,x Rn ∈ ∈ = Rm×n,m,n Nisavectorspacewith V ∈   a +b a +b 11 11 1n 1n ··· . .</p>
@@ -508,7 +461,6 @@
 <p>Moreover, we will use the notation x V for vectors in to simplify ∈ V notation.</p>
 <p>Remark. The vector spaces Rn,Rn×1,R1×n are only different in the way wewritevectors.Inthefollowing,wewillnotmakeadistinctionbetween columnvector Rn andRn×1,whichallowsustowriten-tuplesascolumnvectors   x =   . .   . (2.64)</p>
 <p>This simplifies the notation regarding vector space operations. However, rowvector wedodistinguishbetweenRn×1 andR1×n (therowvectors)toavoidcon- fusion with matrix multiplication. By default, we write x to denote a col- transpose umnvector,andarowvectorisdenotedbyx⊤,thetransposeofx.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.4 VectorSpaces</h2>
 <p>2.4.3 Vector Subspaces In the following, we will introduce vector subspaces. Intuitively, they are sets contained in the original vector space with the property that when weperformvectorspaceoperationsonelementswithinthissubspace,we willneverleaveit.Inthissense,theyare“closed”.Vectorsubspacesarea keyideainmachinelearning.Forexample,Chapter10demonstrateshow tousevectorsubspacesfordimensionalityreduction.</p>
 <p>Definition 2.10 (Vector Subspace). Let V = ( ,+, ) be a vector space V · and , = . Then U = ( ,+, ) is called vector subspace of V (or vectorsubspace U ⊆ V U ̸ ∅ U · linear subspace) if U is a vector space with the vector space operations + linearsubspace and restrictedto andR .WewriteU V todenoteasubspace · U×U ×U ⊆ U ofV.</p>
@@ -523,7 +475,6 @@
 <p>1 n The solution of an inhomogeneous system of linear equations Ax = b, b = 0isnotasubspaceofRn.</p>
 <p>Theintersectionofarbitrarilymanysubspacesisasubspaceitself.</p>
 <p>B Figure2.6 Notall A subsetsofR2are subspaces.InAand C,theclosure 0 0 0 0 C propertyisviolated; Bdoesnotcontain 0.OnlyDisa subspace.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>40 LinearAlgebra Remark. Every subspace U (Rn,+, ) is the solution space of a homo- geneoussystemoflinearequ ⊆ ationsAx · = 0forx Rn.</p>
 <p>∈ ♢</p>
 <h2>2.5 Linear Independence</h2>
@@ -535,7 +486,6 @@
 <p>Definition 2.12 (Linear (In)dependence). Let us consider a vector space V with k N and x ,...,x V. If there is a non-trivial linear com- 1 k bination, s uch that 0 = (cid:80)k x with at least one λ = 0, the vectors i=1 i i i ̸ linearlydependent x 1 ,...,x k are linearly dependent. If only the trivial solution exists, i.e., linearly λ 1 = ... = λ k = 0thevectorsx 1 ,...,x k arelinearlyindependent.</p>
 <p>independent Linear independence is one of the most important concepts in linear algebra.Intuitively,asetoflinearlyindependentvectorsconsistsofvectors that have no redundancy, i.e., if we remove any of those vectors from the set, we will lose something. Throughout the next sections, we will formalizethisintuitionmore.</p>
 <p>Example 2.13 (Linearly Dependent Vectors)</p>
-<p>A geographic example may help to clarify the concept of linear indepen- dence. A person in Nairobi (Kenya) describing where Kigali (Rwanda) is mightsay,“YoucangettoKigalibyfirstgoing506kmNorthwesttoKam- pala(Uganda)andthen374kmSouthwest.”.Thisissufficientinformation Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.5 LinearIndependence</h2>
 <p>to describe the location of Kigali because the geographic coordinate sys- temmaybeconsideredatwo-dimensionalvectorspace(ignoringaltitude and the Earth’s curved surface). The person may add, “It is about 751km West of here.” Although this last statement is true, it is not necessary to find Kigali given the previous information (see Figure 2.7 for an illus- tration). In this example, the “506km Northwest” vector (blue) and the “374kmSouthwest”vector(purple)arelinearlyindependent.Thismeans the Southwest vector cannot be described in terms of the Northwest vec- tor, and vice versa. However, the third “751km West” vector (black) is a linear combination of the other two vectors, and it makes the set of vec- tors linearly dependent. Equivalently, given “751km West” and “374km Southwest”canbelinearlycombinedtoobtain“506kmNorthwest”.</p>
 <p>Kampala Figure2.7 w e t 506 km (w eo it ra cr example h N S o t orthw est ca ir ti ti s)</p>
@@ -543,7 +493,6 @@
 <p>Kigali t Remark. The following properties are useful to find out whether vectors arelinearlyindependent: k vectors are either linearly dependent or linearly independent. There isnothirdoption.</p>
 <p>If at least one of the vectors x ,...,x is 0 then they are linearly de- 1 k pendent.Thesameholdsiftwovectorsareidentical.</p>
 <p>The vectors x ,...,x : x = 0,i = 1,...,k , k ⩾ 2, are linearly 1 k i { ̸ } dependent if and only if (at least) one of them is a linear combination oftheothers.Inparticular,ifonevectorisamultipleofanothervector, i.e., x = λx , λ R then the set x ,...,x : x = 0,i = 1,...,k i j 1 k i ∈ { ̸ } islinearlydependent.</p>
-<p>Apracticalwayofcheckingwhethervectorsx ,...,x V arelinearly 1 k independentistouseGaussianelimination:Writeallvectorsascolumns of a matrix A and perform Gaussian elimination until the matrix is in rowechelonform(thereducedrow-echelonformisunnecessaryhere): ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>42 LinearAlgebra – The pivot columns indicate the vectors, which are linearly indepen- dent of the vectors on the left. Note that there is an ordering of vec- torswhenthematrixisbuilt.</p>
 <p>– The non-pivot columns can be expressed as linear combinations of thepivotcolumnsontheirleft.Forinstance,therow-echelonform (cid:20) (cid:21)</p>
 <p>1 3 0 (2.66)</p>
@@ -553,7 +502,6 @@
 <p>4 2 1 To check whether they are linearly dependent, we follow the general ap- proachandsolve       1 1 1  2  1  2 λ 1 x 1 +λ 2 x 2 +λ 3 x 3 = λ 1  3   +λ 2 0   +λ 3  − 1   = 0 (2.68)</p>
 <p>4 2 1 for λ ,...,λ . We write the vectors x , i = 1,2,3, as the columns of a 1 3 i matrix and apply elementary row operations until we identify the pivot columns:     1 1 1 1 1 1 − −   2 1 − 2  ⇝ ⇝   0 1 0   . (2.69)</p>
 <p> 3 0 1  ··· 0 0 1  4 2 1 0 0 0 Here,everycolumnofthematrixisapivotcolumn.Therefore,thereisno non-trivial solution, and we require λ = 0,λ = 0,λ = 0 to solve the 1 2 3 equationsystem.Hence,thevectorsx ,x ,x arelinearlyindependent.</p>
-<p>1 2 3 Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.5 LinearIndependence</h2>
 <p>Remark. Consider a vector space V with k linearly independent vectors b ,...,b andmlinearcombinations 1 k (cid:88)</p>
 <p>x = λ b , 1 i1 i i=1 . . (2.70)</p>
@@ -568,7 +516,6 @@
 <p>1 m { } Remark. InavectorspaceV,mlinearcombinationsofkvectorsx ,...,x 1 k arelinearlydependentifm &gt; k.</p>
 <p>Example 2.15 Considerasetoflinearlyindependentvectorsb ,b ,b ,b Rn and 1 2 3 4 x = b 2b + b b 1 1 2 3 4 − − x = 4b 2b + 4b 2 − 1 − 2 4 . (2.73)</p>
 <p>x = 2b + 3b b 3b 3 1 2 3 4 − − x = 17b 10b + 11b + b 4 1 2 3 4 Are the vectors x ,...,x Rn linearly independent? To answer this 1 4 question,weinvestigatewhetherthecolumnvectors         1 4 2 17   −     2  2  3   10  − ,− , ,−  (2.74)</p>
-<p> 1   0   1  11    1 4 − 3 1   − − ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>44 LinearAlgebra are linearly independent. The reduced row-echelon form of the corre- spondinglinearequationsystemwithcoefficientmatrix   1 4 2 17  2 2 3 10 A = − − −  (2.75)</p>
 <p> 1 0 1 11  1 4 3 1 − − isgivenas   1 0 0 7 0 1 0 15  −  . (2.76)</p>
 <p>0 0 1 18 0 0 0 0 Weseethatthecorrespondinglinearequationsystemisnon-triviallysolv- able:Thelastcolumnisnotapivotcolumn,andx = 7x 15x 18x .</p>
@@ -581,7 +528,6 @@
 <p>orV = span[x ,...,x ].</p>
 <p>1 k Generating sets are sets of vectors that span vector (sub)spaces, i.e., every vector can be represented as a linear combination of the vectors in the generating set. Now, we will be more specific and characterize the smallestgeneratingsetthatspansavector(sub)space.</p>
 <p>Definition 2.14 (Basis). Consider a vector space V = ( ,+, ) and V · A ⊆ minimal . A generating set of V is called minimal if there exists no smaller set V˜⊊ thatspa nsV.EverylinearlyindependentgeneratingsetofV A A ⊆ V basis isminimalandiscalledabasisofV.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.6 BasisandRank</h2>
 <p>Let V = ( ,+, ) be a vector space and , = . Then, the V · B ⊆ V B ̸ ∅ followingstatementsareequivalent: Abasisisaminimal generatingsetanda isabasisofV. maximallinearly isaminimalgeneratingset. independentsetof B vectors.</p>
 <p>isamaximallinearlyindependentsetofvectorsinV,i.e.,addingany othervectortothissetwillmakeitlinearlydependent.</p>
@@ -592,7 +538,6 @@
 <p>B  0 0 1  DifferentbasesinR3 are             1 1 1 0.5 1.8 2.2    −  = 0,1,1 , = 0.8,0.3, 1.3 . (2.79)</p>
 <p>B  0 0 1  B  0.4 0.3 − 3.5  Theset       1 2 1      2  1  1   =  ,− ,  (2.80)</p>
 <p>A 3  0   0     4 2 4  is linearly independent, but not a generating set (and no basis) of R4: Forinstance,thevector[1,0,0,0]⊤ cannotbeobtainedbyalinearcom- binationofelementsin .</p>
-<p>Remark. Every vector space V possesses a basis . The preceding exam- ples show that there can be many bases of a vector space V, i.e., there is nouniquebasis.However,allbasespossessthesamenumberofelements, thebasisvectors. basisvector We only consider finite-dimensional vector spaces V. In this case, the dimensionofV isthenumberofbasisvectorsofV,andwewritedim(V). dimension If U V is a subspace of V, then dim(U) ⩽ dim(V) and dim(U) = ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>46 LinearAlgebra dim(V) if and only if U = V. Intuitively, the dimension of a vector space can be thought of as the number of independent directions in this vector Thedimensionofa space.</p>
 <p>vectorspace Remark. The dimension of a vector space is not necessarily the number correspondstothe (cid:20) (cid:21)</p>
 <p>numberofitsbasis of elements in a vector. For instance, the vector space V = span[ ] is vectors. 1 one-dimensional,althoughthebasisvectorpossessestwoelements.</p>
@@ -609,7 +554,6 @@
 <p>λ x = 0, (2.82)</p>
 <p>i i i=1 whichleadstoahomogeneoussystemofequationswithmatrix   1 2 3 1  2 1 4 8  (cid:2) (cid:3)  − −  x 1 ,x 2 ,x 3 ,x 4 =  1 1 3 5. (2.83)</p>
 <p>− −   1 2 5 6 − − 1 2 3 1 − − − With the basic transformation rules for systems of linear equations, we obtaintherow-echelonform     1 2 3 1 1 2 3 1 − −  2 1 4 8   0 1 2 2    1 − 1 − 3 5   ⇝ ⇝   0 0 0 − 1   .</p>
-<p>− −  ···    1 2 5 6   0 0 0 0  − − 1 2 3 1 0 0 0 0 − − − Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.6 BasisandRank</h2>
 <p>Since the pivot columns indicate which set of vectors is linearly indepen- dent, we see from the row-echelon form that x ,x ,x are linearly inde- 1 2 4 pendent(becausethesystemoflinearequationsλ x +λ x +λ x = 0 1 1 2 2 4 4 can only be solved with λ = λ = λ = 0). Therefore, x ,x ,x is a 1 2 4 1 2 4 { } basisofU.</p>
 <p>2.6.2 Rank The number of linearly independent columns of a matrix A Rm×n equals the number of linearly independent rows and is called the rank rank ofAandisdenotedbyrk(A).</p>
@@ -622,7 +566,6 @@
 <p>Example 2.18 (Rank)</p>
 <p>  1 0 1 A = 0 1 1.</p>
 <p>0 0 0 Ahastwolinearlyindependentrows/columnssothatrk(A) = 2.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>48 LinearAlgebra   1 2 1 A =  2 3 1.</p>
 <p>− − 3 5 0 WeuseGaussianeliminationtodeterminetherank:     1 2 1 1 2 1  2 3 1 ⇝ ⇝ 0 1 3 . (2.84)</p>
 <p>− − ··· 3 5 0 0 0 0 Here,weseethatthenumberoflinearlyindependentrowsandcolumns is2,suchthatrk(A) = 2.</p>
@@ -635,7 +578,6 @@
 <p>Definition 2.16 (Injective,Surjective,Bijective). ConsideramappingΦ : ,where , canbearbitrarysets.ThenΦiscalled V → W V W injective Injectiveif x,y : Φ(x) = Φ(y) = x = y.</p>
 <p>surjective ∀ ∈ V ⇒ Surjectiveif Φ( ) = .</p>
 <p>bijective V W Bijectiveifitisinjectiveandsurjective.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>If Φ is surjective, then every element in can be “reached” from W V using Φ. A bijective Φ can be “undone”, i.e., there exists a mapping Ψ : so that Ψ Φ(x) = x. This mapping Ψ is then called the inverse W → V ◦ ofΦandnormallydenotedbyΦ−1.</p>
 <p>Withthesedefinitions,weintroducethefollowingspecialcasesoflinear mappingsbetweenvectorspacesV andW: isomorphism Isomorphism:Φ : V W linearandbijective endomorphism Endomorphism:Φ : V V linear automorphism Automorphism:Φ : V V linearandbijective We define id V : V V, x x as the identity mapping or identity identitymapping → (cid:55)→ automorphisminV. identity automorphism Example 2.19 (Homomorphism)</p>
@@ -650,7 +592,6 @@
 <p>Theorem 2.17 also gives us the justification to treat Rm×n (the vector space of m n-matrices) and Rmn (the vector space of vectors of length mn) the same, as their dimensions are mn, and there exists a linear, bi- jectivemappingthattransformsoneintotheother.</p>
 <p>Remark. ConsidervectorspacesV,W,X.Then: For linear mappings Φ : V W and Ψ : W X, the mapping → → Ψ Φ : V X isalsolinear.</p>
 <p>◦ → If Φ : V W is an isomorphism, then Φ−1 : W V is an isomor- → → phism,too.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>50 LinearAlgebra Figure2.8 Two differentcoordinate systemsdefinedby twosetsofbasis vectors.Avectorx hasdifferent coordinate x x representations b dependingonwhich coordinatesystemis e 2 chosen.</p>
 <p>IfΦ : V W, Ψ : V W arelinear,thenΦ+ΨandλΦ, λ R,are → → ∈ linear,too.</p>
 <p>2.7.1 Matrix Representation of Linear Mappings Any n-dimensional vector space is isomorphic to Rn (Theorem 2.17). We consider a basis b ,...,b of an n-dimensional vector space V. In the 1 n { } following, the order of the basis vectors will be important. Therefore, we write B = (b ,...,b ) (2.89)</p>
@@ -661,7 +602,6 @@
 <p>x = α b +...+α b (2.90)</p>
 <p>1 1 n n coordinate of x with respect to B. Then α 1 ,...,α n are the coordinates of x with respecttoB,andthevector   α =   . . .   ∈ Rn (2.91)</p>
 <p>coordinatevector is the coordinate vector/coordinate representation of x with respect to the coordinate orderedbasisB.</p>
-<p>representation Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>Abasiseffectivelydefinesacoordinatesystem.Wearefamiliarwiththe Cartesian coordinate system in two dimensions, which is spanned by the canonical basis vectors e ,e . In this coordinate system, a vector x R2 1 2 has a representation that tells us how to linearly combine e and e to 1 2 obtain x. However, any basis of R2 defines a valid coordinate system, and the same vector x from before may have a different coordinate rep- resentation in the (b ,b ) basis. In Figure 2.8, the coordinates of x with 1 2 respect to the standard basis (e ,e ) is [2,2]⊤. However, with respect to 1 2 the basis (b ,b ) the same vector x is represented as [1.09,0.72]⊤, i.e., 1 2 x = 1.09b +0.72b . In the following sections, we will discover how to 1 2 obtainthisrepresentation.</p>
 <p>Example 2.20 Let us have a look at a geometric vector x R2 with coordinates [2,3]⊤ Figure2.9 withrespecttothestandardbasis(e ,e )of ∈R2.Thismeans,wecanwrite Differentcoordinate 1 2 x = 2e +3e . However, we do not have to choose the standard basis to representationsofa 1 2 vectorx,depending representthisvector.Ifweusethebasisvectorsb = [1, 1]⊤,b = [1,1]⊤ 1 − 2 onthechoiceof wewillobtainthecoordinates 1[ 1,5]⊤torepresentthesamevectorwith basis.</p>
@@ -672,7 +612,6 @@
 <p>1 n 1 m Moreover,weconsideralinearmappingΦ : V W.Forj 1,...,n , → ∈ { } (cid:88)</p>
 <p>Φ(b ) = α c + +α c = α c (2.92)</p>
 <p>j 1j 1 mj m ij i ··· i=1 istheuniquerepresentationofΦ(b )withrespecttoC.Then,wecallthe m n-matrixA ,whoseelementsaregivenby A (i,j) = α , (2.93)</p>
-<p>Φ ij the transformation matrix of Φ (with respect to the ordered bases B of V transformation andC ofW). matrix The coordinates of Φ(b ) with respect to the ordered basis C of W are the j-th column of A . Consider (finite-dimensional) vector spaces V,W with ordered bases B,C and a linear mapping Φ : V W with ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>52 LinearAlgebra transformation matrix A . If xˆ is the coordinate vector of x V with respect to B and yˆ the coordinate vector of y = Φ(x) W with respect toC,then yˆ = A xˆ. (2.94)</p>
 <p>Thismeansthatthetransformationmatrixcanbeusedtomapcoordinates with respect to an ordered basis in V to coordinates with respect to an orderedbasisinW.</p>
 <p>Example 2.21 (Transformation Matrix)</p>
@@ -684,7 +623,6 @@
 <p>(d)Combinationof reflection,rotation We consider three linear transformations of a set of vectors in R2 with andstretching.</p>
 <p>thetransformationmatrices (cid:20) cos(π) sin(π) (cid:21) (cid:20) 2 0 (cid:21) 1 (cid:20) 3 1 (cid:21)</p>
 <p>A = 4 − 4 , A = , A = − . (2.97)</p>
-<p>1 sin(π) cos(π) 2 0 1 3 2 1 1 4 4 − Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>Figure2.10givesthreeexamplesoflineartransformationsofasetofvec- tors.Figure2.10(a)shows400vectorsinR2,eachofwhichisrepresented by a dot at the corresponding (x ,x )-coordinates. The vectors are ar- 1 2 rangedinasquare.WhenweusematrixA in(2.97)tolinearlytransform eachofthesevectors,weobtaintherotatedsquareinFigure2.10(b).Ifwe apply the linear mapping represented by A , we obtain the rectangle in Figure2.10(c)whereeachx -coordinateisstretchedby2.Figure2.10(d)</p>
 <p>showstheoriginalsquarefromFigure2.10(a)whenlinearlytransformed usingA ,whichisacombinationofareflection,arotation,andastretch.</p>
@@ -698,7 +636,6 @@
 <p>2 1 A = (2.100)</p>
 <p>1 2 withrespecttothecanonicalbasisinR2.Ifwedefineanewbasis (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>1 1 B = ( , ) (2.101)</p>
-<p>1 1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>54 LinearAlgebra weobtainadiagonaltransformationmatrix (cid:20) (cid:21)</p>
 <p>3 0 A˜ = (2.102)</p>
 <p>0 1 withrespecttoB,whichiseasiertoworkwiththanA.</p>
@@ -711,7 +648,6 @@
 <p>b˜ = s b + +s b = s b , j = 1,...,n. (2.106)</p>
 <p>j 1j 1 nj n ij i ··· i=1 Similarly, we write the new basis vectors C˜ of W as a linear combination ofthebasisvectorsofC,whichyields (cid:88)</p>
 <p>c˜ = t c + +t c = t c , k = 1,...,m. (2.107)</p>
-<p>k 1k 1 mk m lk l ··· l=1 We define S = ((s )) Rn×n as the transformation matrix that maps ij coordinates with respect to B˜ onto coordinates with respect to B and T = ((t )) Rm×m as the transformation matrix that maps coordinates lk withrespect ∈ toC˜ ontocoordinateswithrespecttoC.Inparticular,thejth column of S is the coordinate representation of b˜ with respect to B and Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>thekthcolumnofT isthecoordinaterepresentationofc˜ withrespectto C.NotethatbothS andT areregular.</p>
 <p>WearegoingtolookatΦ(b˜ )fromtwoperspectives.First,applyingthe mappingΦ,wegetthatforallj = 1,...,n (cid:32) (cid:33)</p>
@@ -729,7 +665,6 @@
 <p>Φ Φ suchthat A˜ = T−1A S, (2.112)</p>
 <p>Φ Φ whichprovesTheorem2.20.</p>
 <p>Theorem2.20tellsusthatwithabasischangeinV (B isreplacedwith B˜) and W (C is replaced with C˜), the transformation matrix A of a linearmappingΦ : V W isreplacedbyanequivalentmatrixA˜ with A˜ = T−1A S. (2.113)</p>
-<p>Φ Φ Figure 2.11 illustrates this relation: Consider a homomorphism Φ : V W and ordered bases B,B˜ of V and C,C˜ of W. The mapping Φ is a → n CB instantiation of Φ and maps basis vectors of B onto linear combinations ofbasisvectorsofC.AssumethatweknowthetransformationmatrixA ofΦ withrespectto theorderedbasesB,C.Whenwe performabasis CB change from B to B˜ in V and from C to C˜ in W, we can determine the ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>56 LinearAlgebra Figure2.11 Fora Φ Φ Vectorspaces V W V W homomorphism Φ:V →W and B Φ CB C B Φ CB C orderedbasesB,B˜ A Φ A Φ ofV andC,C˜ofW Orderedbases Ψ BB˜ S T Ξ CC˜ Ψ BB˜ S T−1 Ξ C˜C =Ξ− CC 1 ˜ (markedinblue), A˜ A˜ B˜ Φ C˜ B˜ Φ C˜ wecanexpressthe Φ C˜B˜ Φ C˜B˜ mappingΦ C˜B˜ with respecttothebases B˜,C˜equivalentlyas correspondingtransformationmatrixA˜ asfollows:First,wefindthema- acompositionofthe trixrepresentationofthelinearmappingΨ : V V thatmapscoordi- h Φ o C˜ m B˜ om = orphisms nateswithrespecttothenewbasisB˜ onto B th B˜ e(un → ique)coordinateswith Ξ C˜C ◦ΦCB◦Ψ BB˜ respect to the “old” basis B (in V). Then, we use the transformation ma- withrespecttothe trix A of Φ : V W to map these coordinates onto the coordinates Φ CB basesinthe → with respect to C in W. Finally, we use a linear mapping Ξ : W W subscripts.The C˜C → tomapthecoordinateswithrespecttoC ontocoordinateswithrespectto corresponding transformation C˜.Therefore,wecanexpressthelinearmappingΦ C˜B˜ asacompositionof matricesareinred. linearmappingsthatinvolvethe“old”basis: Φ = Ξ Φ Ψ = Ξ−1 Φ Ψ . (2.114)</p>
 <p>C˜B˜ C˜C ◦ CB ◦ BB˜ CC˜ ◦ CB ◦ BB˜ Concretely,weuseΨ = id andΞ = id ,i.e.,theidentitymappings BB˜ V CC˜ W thatmapvectorsontothemselves,butwithrespecttoadifferentbasis.</p>
 <p>equivalent Definition2.21(Equivalence). TwomatricesA,A˜ Rm×nareequivalent if there exist regular matrices S Rn×n and T ∈ Rm×m, such that A˜ = T−1AS. ∈ ∈ similar Definition 2.22 (Similarity). Two matrices A,A˜ Rn×n are similar if thereexistsaregularmatrixS Rn×n withA˜ = S ∈−1AS Remark. Similarmatricesarealwaysequivalent.However,equivalentma- tricesarenotnecessarilysimilar.</p>
@@ -737,7 +672,6 @@
 <p>Ψ◦Φ Ψ Φ In light of this remark, we can look at basis changes from the perspec- tiveofcomposinglinearmappings: A is the transformation matrix of a linear mapping Φ : V W Φ CB withrespecttothebasesB,C.</p>
 <p>A˜ is the transformation matrix of the linear mapping Φ : V W wi threspecttothebasesB˜,C˜.</p>
 <p>C˜B˜ S is the transformation matrix of a linear mapping Ψ : V V (automorphism)thatrepresentsB˜ intermsofB.Norma B ll B˜ y,Ψ = i → d is theidentitymappinginV.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>T is the transformation matrix of a linear mapping Ξ : W W (automorphism)thatrepresentsC˜ intermsofC.Norm C al C˜ ly,Ξ = i → d is theidentitymappinginW.</p>
 <p>If we (informally) write down the transformations just in terms of bases, then A : B C, A˜ : B˜ C˜, S : B˜ B, T : C˜ C and Φ Φ T−1 : C C˜,a → nd → → → B˜ C˜ = B˜ B C C˜ (2.115)</p>
@@ -748,7 +682,6 @@
 <p>1 2 4 withrespecttothestandardbases               1 0 0 0 1 0 0 0 1 0 0 B = (0,1,0), C = ( , , , ). (2.118)</p>
 <p>0 0 1 0 0 0 1 0 0 0 1 WeseekthetransformationmatrixA˜ ofΦwithrespecttothenewbases               1 1 0 1 1 0 1 B˜ = (1,1,0) R3, C˜ = (   1 ,   0 ,   1 ,   0 ). (2.119)</p>
 <p>∈ 0 1 1 0 0 1 1 0 0 0 1 Then,     1 1 0 1 1 0 1 1 0 1 0 S = 1 1 0, T =   , (2.120)</p>
-<p>0 1 1 0 0 1 1 0 0 0 1 where the ith column of S is the coordinate representation of b˜ in terms of the basis vectors of B. Since B is the standard basis, the co- ordinate representation is straightforward to find. For a general basis B, we would need to solve a linear equation system to find the λ such that ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>58 LinearAlgebra (cid:80)3 λ b = b˜ ,j = 1,...,3.Similarly,thejthcolumnofT isthecoordi- i=1 i i j naterepresentationofc˜ intermsofthebasisvectorsofC.</p>
 <p>Therefore,weobtain    1 1 1 1 3 2 1 − − A˜ Φ = T−1A Φ S = 2 1    1 1 − 1 1 1 1 − 1 1     1 0 0 4 8 2 4    (2.121a)</p>
 <p>0 0 0 2 1 6 3   4 4 2 − − −  6 0 0  =  . (2.121b)</p>
@@ -764,7 +697,6 @@
 <h2>V W V</h2>
 <p>particular,thenullspaceisneverempty.</p>
 <p>Im(Φ) W isasubspaceofW,andker(Φ) V isasubspaceofV.</p>
-<p>⊆ ⊆ Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.7 LinearMappings</h2>
 <p>Φ:V W Figure2.12 Kernel V → W andimageofa linearmapping Φ:V →W.</p>
 <p>ker(Φ) Im(Φ)</p>
@@ -781,7 +713,6 @@
 <p>Example 2.25 (Image and Kernel of a Linear Mapping)</p>
 <p>Themapping     x x 1 1 (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>Φ : R4 R2,   x 2  1 2 − 1 0   x 2  = x 1 +2x 2 − x 3 → x 3 (cid:55)→ 1 0 0 1 x 3 x 1 +x 4 x x 4 4 (2.125a)</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>60 LinearAlgebra (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>1 2 1 0 = x +x +x − +x (2.125b)</p>
 <p>1 1 2 0 3 0 4 1 islinear.TodetermineIm(Φ),wecantakethespanofthecolumnsofthe transformationmatrixandobtain (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21)</p>
@@ -794,7 +725,6 @@
 <p>fundamental Therank-nullitytheoremisalsoreferredtoasthefundamentaltheorem theoremoflinear of linear mappings (Axler, 2015, theorem 3.22). The following are direct mappings consequencesofTheorem2.24: If dim(Im(Φ)) &lt; dim(V), then ker(Φ) is non-trivial, i.e., the kernel containsmorethan0 anddim(ker(Φ)) ⩾ 1.</p>
 <p>IfA isthetransformationmatrixofΦwithrespecttoanorderedbasis anddim(Im(Φ)) &lt; dim(V),thenthesystemoflinearequationsA x = 0hasinfinitelymanysolutions.</p>
 <p>Ifdim(V) = dim(W),thenthethree-wayequivalence Φisinjective Φissurjective Φisbijective ⇐⇒ ⇐⇒ holdssinceIm(Φ) W.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.8 AffineSpaces</h2>
 <h2>2.8 Affine Spaces</h2>
 <p>In the following, we will take a closer look at spaces that are offset from the origin, i.e., spaces that are no longer vector subspaces. Moreover, we will briefly discuss properties of mappings between these affine spaces, whichresemblelinearmappings.</p>
@@ -807,14 +737,12 @@
 <p>0 0 ⊆ ⊆ − ∈ Affinesubspacesareoftendescribedbyparameters:Considerak-dimen- sionalaffinespaceL = x +U ofV.If(b ,...,b )isanorderedbasisof 0 1 k U,theneveryelementx Lcanbeuniquelydescribedas x = x +λ b +...+λ b , (2.131)</p>
 <p>0 1 1 k k where λ 1 ,...,λ k R. This representation is called parametric equation parametricequation ofLwithdirectionalvectorsb 1 ,...,b k andparametersλ 1 ,...,λ k . parameters Example 2.26 (Affine Subspaces)</p>
 <p>One-dimensional affine subspaces are called lines and can be written line as y = x + λb , where λ R and U = span[b ] Rn is a one- 0 1 1 dimensionalsubspaceofRn.T ∈ hismeansthatalineisd ⊆ efinedbyasup- portpointx andavectorb thatdefinesthedirection.SeeFigure2.13 0 1 foranillustration.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>62 LinearAlgebra plane Two-dimensional affine subspaces of Rn are called planes. The para- metric equation for planes is y = x +λ b +λ b , where λ ,λ R 0 1 1 2 2 1 2 and U = span[b ,b ] Rn. This means that a plane is defined b ∈ y a 1 2 support point x and two linearly independent vectors b ,b that span 0 1 2 thedirectionspace.</p>
 <p>hyperplane InRn,the(n 1)-dimensionalaffinesubspacesarecalledhyperplanes, and the corre sponding parametric equation is y = x + (cid:80)n−1λ b , 0 i=1 i i where b ,...,b form a basis of an (n 1)-dimensional subspace 1 n−1 U of Rn. This means that a hyperplane is − defined by a support point x and (n 1) linearly independent vectors b ,...,b that span the 0 1 n−1 directionsp − ace.InR2,alineisalsoahyperplane.InR3,aplaneisalso ahyperplane.</p>
 <p>ar ig fin .1 ub es. L=x 0 +λb Vectorsyonaline x0+λb1lieinan y affinesubspaceL withsupportpoint x 0 x0anddirectionb1. b Remark(Inhomogeneoussystemsoflinearequationsandaffinesubspaces).</p>
 <p>For A Rm×n and x Rm, the solution of the system of linear equa- tions A ∈ λ = x is eithe ∈ r the empty set or an affine subspace of Rn of dimension n rk(A). In particular, the solution of the linear equation λ b +...+λ b = x, where (λ ,...,λ ) = (0,...,0), is a hyperplane 1 1 n n 1 n inRn. ̸ In Rn, every k-dimensional affine subspace is the solution of an inho- mogeneous system of linear equations Ax = b, where A Rm×n,b Rm and rk(A) = n k. Recall that for homogeneous equa ∈ tion system ∈ s Ax = 0 the solution was a vector subspace, which we can also think of asaspecialaffinespacewithsupportpointx = 0.</p>
 <p>2.8.2 Affine Mappings Similar to linear mappings between vector spaces, which we discussed in Section 2.7, we can define affine mappings between two affine spaces.</p>
 <p>Linearandaffinemappingsarecloselyrelated.Therefore,manyproperties thatwealreadyknowfromlinearmappings,e.g.,thatthecompositionof linearmappingsisalinearmapping,alsoholdforaffinemappings.</p>
-<p>Definition 2.26 (Affine Mapping). For two vector spaces V,W, a linear Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>2.9 FurtherReading</h2>
 <p>mappingΦ : V W,anda W,themapping → ∈ ϕ : V W (2.132)</p>
 <p>x a+Φ(x) (2.133)</p>
@@ -825,7 +753,6 @@
 <h2>2.9 Further Reading</h2>
 <p>There are many resources for learning linear algebra, including the text- books by Strang (2003), Golan (2007), Axler (2015), and Liesen and Mehrmann (2015). There are also several online resources that we men- tionedintheintroductiontothischapter.WeonlycoveredGaussianelim- ination here, but there are many other approaches for solving systems of linear equations, and we refer to numerical linear algebra textbooks by Stoer and Burlirsch (2002), Golub and Van Loan (2012), and Horn and Johnson(2013)foranin-depthdiscussion.</p>
 <p>In this book, we distinguish between the topics of linear algebra (e.g., vectors, matrices, linear independence, basis) and topics related to the geometry of a vector space. In Chapter 3, we will introduce the inner product,whichinducesanorm.Theseconceptsallowustodefineangles, lengths and distances, which we will use for orthogonal projections. Pro- jections turn out to be key in many machine learning algorithms, such as linearregressionandprincipalcomponentanalysis,bothofwhichwewill coverinChapters9and10,respectively.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>64 LinearAlgebra Exercises</p>
 <h2>2.1 Weconsider(R\{−1},⋆),where</h2>
 <p>a⋆b:=ab+a+b, a,b∈R\{−1} (2.134)</p>
@@ -845,7 +772,6 @@
 <p>  (cid:12)  G =   1 0 x 1 y z ∈R3×3 (cid:12) (cid:12) (cid:12)x,y,z∈R   0 0 1 (cid:12) (cid:12)  Wedefine·asthestandardmatrixmultiplication.</p>
 <p>Is(G,·)agroup?Ifyes,isitAbelian?Justifyyouranswer.</p>
 <h2>2.4 Computethefollowingmatrixproducts,ifpossible:</h2>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Exercises 65 a.</p>
 <p>   1 2 1 1 0 4 50 1 1 7 8 1 0 1 b.</p>
 <p>   1 2 3 1 1 0 4 5 60 1 1 7 8 9 1 0 1 c.</p>
@@ -860,7 +786,6 @@
 <p>    1 −1 0 0 1 3  1 1 0 −3 0   6  A=  , b=   2 −1 0 1 −1  5  −1 2 0 −2 −1 −1</p>
 <h2>2.6 Using Gaussian elimination, find all solutions of the inhomogeneous equa-</h2>
 <p>tionsystemAx=bwith     0 1 0 0 1 0 2 A=0 0 0 1 1 0 , b=−1 .</p>
-<p>0 1 0 0 0 1 1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>66 LinearAlgebra  </p>
 <h2>2.7 Find all solutions in x = x 2 ∈ R3 of the equation system Ax = 12x,</h2>
 <p>where   6 4 3 A=6 0 9 0 8 0 and (cid:80)3 x =1.</p>
@@ -877,7 +802,6 @@
 <p>      2 1 3 x 1 =−1 , x 2 = 1  , x 3 =−3 3 −2 8 b.</p>
 <p>      1 1 1 2 1 0       =1 , x =0 , x =0       0 1 1 0 1 1</p>
 <h2>2.11 Write</h2>
-<p>  y=−2 aslinearcombinationof       1 1 2 =1 , x =2 , x =−1 1 3 1 Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Exercises 67</p>
 <h2>2.12 ConsidertwosubspacesofR4:</h2>
 <p>            1 2 −1 −1 2 −3  1  −1  1  −2 −2  6  U 1 =span[  ,  , ], U 2 =span[  ,  , ].</p>
@@ -901,7 +825,6 @@
 <p>Φ:L1([a,b])→R (cid:90) b f (cid:55)→Φ(f)= f(x)dx, whereL1([a,b])denotesthesetofintegrablefunctionson[a,b].</p>
 <p>b.</p>
 <p>Φ:C1 →C0 f (cid:55)→Φ(f)=f′, where for k ⩾ 1, Ck denotes the set of k times continuously differen- tiablefunctions,andC0 denotesthesetofcontinuousfunctions.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>68 LinearAlgebra c.</p>
 <p>Φ:R→R x(cid:55)→Φ(x)=cos(x)</p>
 <p>d.</p>
@@ -922,7 +845,6 @@
 <h2>2.20 Letusconsiderb ,b ,b′,b′,4vectorsofR2expressedinthestandardbasis</h2>
 <p>1 2 1 2 ofR2 as (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>2 −1 2 1 b = , b = , b′ = , b′ = 1 1 2 −1 1 −2 2 1 andletusdefinetwoorderedbasesB =(b ,b )andB′ =(b′,b′)ofR2.</p>
-<p>1 2 1 2 Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Exercises 69 a. ShowthatB andB′ aretwobasesofR2 anddrawthosebasisvectors.</p>
 <p>b. ComputethematrixP thatperformsabasischangefromB′ toB.</p>
 <p>c. Weconsiderc ,c ,c ,threevectorsofR3 definedinthestandardbasis 1 2 3 ofR3 as       1 0 1 c 1 = 2 , c 2 =−1, c 3 = 0  −1 2 −1 andwedefineC =(c ,c ,c ).</p>
@@ -937,12 +859,10 @@
 <p>(ii) Basedonthat,computethecoordinatesofΦ(x)expressedinC.</p>
 <p>(iii) Then,writeΦ(x)intermsofc′,c′,c′.</p>
 <p>1 2 3 (iv) Use the representation of x in B′ and the matrix A′ to find this resultdirectly.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>Analytic Geometry In Chapter 2, we studied vectors, vector spaces, and linear mappings at a general but abstract level. In this chapter, we will add some geomet- ric interpretation and intuition to all of these concepts. In particular, we will look at geometric vectors and compute their lengths and distances or angles between two vectors. To be able to do this, we equip the vec- tor space with an inner product that induces the geometry of the vector space.Innerproductsandtheircorrespondingnormsandmetricscapture the intuitive notions of similarity and distances, which we use to develop the support vector machine in Chapter 12. We will then use the concepts of lengths and angles between vectors to discuss orthogonal projections, whichwillplayacentralrolewhenwediscussprincipalcomponentanal- ysis in Chapter 10 and regression via maximum likelihood estimation in</p>
 <h2>Chapter 9. Figure 3.1 gives an overview of how concepts in this chapter</h2>
 <p>arerelatedandhowtheyareconnectedtootherchaptersofthebook.</p>
 <p>Figure3.1 Amind Innerproduct mapoftheconcepts r, ce lo hi th induces whentheyareused inotherpartsofthe Chapter12 book. Norm Classification Orthogonal Lengths Angles Rotations projection Chapter9 Chapter4 Chapter10 Regression Matrix Dimensionality decomposition reduction ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <h2>3.1 Norms</h2>
 <p>(cid:107)x(cid:107) =1 (cid:107)x(cid:107) =1 Figure3.3 For 1 1 1 2 differentnorms,the redlinesindicate thesetofvectors withnorm1.Left: 1 1 Manhattannorm; Right:Euclidean distance.</p>
 <h2>3.1 Norms</h2>
@@ -956,7 +876,6 @@
 <p>The ManhattannormonRn isdefinedforx Rn as Manhattannorm (cid:88)</p>
 <p>x := x , (3.3)</p>
 <p>1 i ∥ ∥ | | i=1 where is the absolute value. The left panel of Figure 3.3 shows all vectors | x · | R2 with 1 = 1. The Manhattan norm is also called ℓ 1 ℓ1norm norm.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>72 AnalyticGeometry Example 3.2 (Euclidean Norm)</p>
 <p>Euclideannorm The Euclideannormofx Rn isdefinedas (cid:118)</p>
 <p>(cid:117) n (cid:117)(cid:88)</p>
@@ -971,7 +890,6 @@
 <p>3.2.2 General Inner Products Recall the linear mapping from Section 2.7, where we can rearrange the bilinearmapping mapping with respect to addition and multiplication with a scalar. A bi- linear mapping Ω is a mapping with two arguments, and it is linear in each argument, i.e., when we look at a vector space V then it holds that forallx,y,z V, λ,ψ Rthat ∈ ∈ Ω(λx+ψy,z) = λΩ(x,z)+ψΩ(y,z) (3.6)</p>
 <p>Ω(x,λy+ψz) = λΩ(x,y)+ψΩ(x,z). (3.7)</p>
 <p>Here,(3.6)assertsthatΩislinearinthefirstargument,and(3.7)asserts thatΩislinearinthesecondargument(seealso(2.87)).</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.2 InnerProducts</h2>
 <p>Definition3.2. LetV beavectorspaceandΩ : V V Rbeabilinear × → mappingthattakestwovectorsandmapsthemontoarealnumber.Then Ω is called symmetric if Ω(x,y) = Ω(y,x) for all x,y V, i.e., the symmetric orderoftheargumentsdoesnotmatter.</p>
 <p>Ωiscalledpositivedefiniteif positivedefinite x V 0 : Ω(x,x) &gt; 0, Ω(0,0) = 0. (3.8)</p>
@@ -982,7 +900,6 @@
 <p>Considerann-dimensionalvectorspaceV withaninnerproduct , : V V R(seeDefinition3.3)andanorderedbasisB = (b ,...,b ⟨· ) ·⟩ of 1 n × → V. Recall from Section 2.6.1 that any vectors x,y V can be written as linear combinations of the basis vectors so that x = ∈ (cid:80)n ψ b V and y = (cid:80)n λ b V for suitable ψ ,λ R. Due to the i b = i 1 lin i ea i ri ∈ ty of the j=1 j j ∈ i j ∈ innerproduct,itholdsforallx,y V that (cid:42) (cid:43)</p>
 <p>n n n n (cid:88) (cid:88) (cid:88)(cid:88)</p>
 <p>x,y = ψ b , λ b = ψ b ,b λ = xˆ⊤Ayˆ, (3.10)</p>
-<p>i i j j i i j j ⟨ ⟩ ⟨ ⟩ i=1 j=1 i=1 j=1 whereA := b ,b andxˆ,yˆ arethecoordinatesofxandywithrespect ij i j ⟨ ⟩ to the basis B. This implies that the inner product , is uniquely deter- ⟨· ·⟩ mined through A. The symmetry of the inner product also means that A ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>74 AnalyticGeometry is symmetric. Furthermore, the positive definiteness of the inner product impliesthat x V 0 : x⊤Ax &gt; 0. (3.11)</p>
 <p>∀ ∈ \{ } Definition3.4(Symmetric,PositiveDefiniteMatrix). Asymmetricmatrix symmetric,positive A Rn×n that satisfies (3.11) is called symmetric, positive definite, or definite just ∈ positivedefinite.Ifonly⩾holdsin(3.11),thenAiscalledsymmetric, positivedefinite positivesemidefinite.</p>
 <p>symmetric,positive semidefinite Example 3.4 (Symmetric, Positive Definite Matrices)</p>
@@ -997,7 +914,6 @@
 <p>Theorem 3.5. For a real-valued, finite-dimensional vector space V and an orderedbasisB ofV,itholdsthat , : V V Risaninnerproductif andonlyifthereexistsasymmetric ⟨ , · po ·⟩ sitive × defin → itematrixA Rn×n with x,y = xˆ⊤Ayˆ. (3.15)</p>
 <p>⟨ ⟩ The following properties hold if A Rn×n is symmetric and positive definite: The null space (kernel) of A consists only of 0 because x⊤Ax &gt; 0 for allx = 0.ThisimpliesthatAx = 0ifx = 0.</p>
 <p≯ ̸ ̸ The diagonal elements a of A are positive because a = e⊤Ae &gt; 0, ii ii i i wheree istheithvectorofthestandardbasisinRn.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.3 LengthsandDistances</h2>
 <h2>3.3 Lengths and Distances</h2>
 <p>In Section 3.1, we already discussed norms that we can use to compute thelengthofavector.Innerproductsandnormsarecloselyrelatedinthe sensethatanyinnerproductinducesanorm Innerproducts (cid:113) inducenorms.</p>
@@ -1013,7 +929,6 @@
 <p>⟨ ⟩ 1− 1 2 2 − ⇒ ∥ ∥ suchthatxis“shorter”withthisinnerproductthanwiththedotproduct.</p>
 <p>Definition 3.6 (Distance and Metric). Consider an inner product space (V, , ).Then ⟨· ·⟩ (cid:113)</p>
 <p>d(x,y) := x y = x y,x y (3.21)</p>
-<p>∥ − ∥ ⟨ − − ⟩ is called the distance between x and y for x,y V. If we use the dot distance productastheinnerproduct,thenthedistanceiscalledEuclideandistance. Euclideandistance ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>76 AnalyticGeometry Themapping d : V V R (3.22)</p>
 <p>× → (x,y) d(x,y) (3.23)</p>
 <p>(cid:55)→ metric iscalledametric.</p>
@@ -1030,7 +945,6 @@
 <p>− 0 π/2 π )ω(soc In addition to enabling the definition of lengths of vectors, as well as the distance between two vectors, inner products also capture the geometry of a vector space by defining the angle ω between two vectors. We use the Cauchy-Schwarz inequality (3.17) to define angles ω in inner prod- uct spaces between two vectors x,y, and this notion coincides with our intuitioninR2 andR3.Assumethatx = 0,y = 0.Then ̸ ̸ x,y 1 ⩽ ⟨ ⟩ ⩽ 1. (3.24)</p>
 <p>− x y ∥ ∥∥ ∥ Therefore,thereexistsauniqueω [0,π],illustratedinFigure3.4,with x,y cosω = ⟨ ⟩ . (3.25)</p>
 <p>x y ∥ ∥∥ ∥ angle The number ω is the angle between the vectors x and y. Intuitively, the angle between two vectors tells us how similar their orientations are. For example, using the dot product, the angle between x and y = 4x, i.e., y isascaledversionofx,is0:Theirorientationisthesame.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.4 AnglesandOrthogonality</h2>
 <p>Example 3.6 (Angle between Vectors)</p>
 <p>Letuscomputetheanglebetweenx = [1,1]⊤ R2 andy = [1,2]⊤ R2; Figure3.5 The ∈ ∈ see Figure 3.5, where we use the dot product as the inner product. Then angleωbetween weget twovectorsx,yis computedusingthe x,y x⊤y 3 innerproduct.</p>
@@ -1045,7 +959,6 @@
 <p>−1 0 1 Consider two vectors x = [1,1]⊤,y = [ 1,1]⊤ R2; see Figure 3.6.</p>
 <p>− ∈ We are interested in determining the angle ω between them using two differentinnerproducts.Usingthedotproductastheinnerproductyields an angle ω between x and y of 90◦, such that x y. However, if we choosetheinnerproduct (cid:20) (cid:21)</p>
 <p>2 0 x,y = x⊤ y, (3.27)</p>
-<p>⟨ ⟩ 0 1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>78 AnalyticGeometry wegetthattheangleω betweenxandy isgivenby x,y 1 cosω = ⟨ ⟩ = = ω 1.91rad 109.5◦, (3.28)</p>
 <p>x y −3 ⇒ ≈ ≈ ∥ ∥∥ ∥ and x and y are not orthogonal. Therefore, vectors that are orthogonal with respect to one inner product do not have to be orthogonal with re- specttoadifferentinnerproduct.</p>
 <p>Definition 3.8 (Orthogonal Matrix). A square matrix A Rn×n is an orthogonalmatrix orthogonalmatrix ifandonlyifitscolumnsareorthonormalsothat AA⊤ = I = A⊤A, (3.29)</p>
@@ -1058,7 +971,6 @@
 <p>Ax ∥∥ Ay x⊤A⊤Axy⊤A⊤Ay ∥∥ which gives exactly the angle between x and y. This means that orthog- onal matrices A with A⊤ = A−1 preserve both angles and distances. It turns out that orthogonal matrices define transformations that are rota- tions (with the possibility of flips). In Section 3.9, we will discuss more detailsaboutrotations.</p>
 <h2>3.5 Orthonormal Basis</h2>
 <p>In Section 2.6.1, we characterized properties of basis vectors and found that in an n-dimensional vector space, we need n basis vectors, i.e., n vectors that are linearly independent. In Sections 3.3 and 3.4, we used inner products to compute the length of vectors and the angle between vectors. In the following, we will discuss the special case where the basis vectors are orthogonal to each other and where the length of each basis vectoris1.Wewillcallthisbasisthenanorthonormalbasis.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.6 OrthogonalComplement</h2>
 <p>Letusintroducethismoreformally.</p>
 <p>Definition 3.9 (Orthonormal Basis). Consider an n-dimensional vector spaceV andabasis b ,...,b ofV.If 1 n { } b ,b = 0 fori = j (3.33)</p>
@@ -1074,7 +986,6 @@
 <p>ponentanalysis.</p>
 <h2>3.6 Orthogonal Complement</h2>
 <p>Having defined orthogonality, we will now look at vector spaces that are orthogonal to each other. This will play an important role in Chapter 10, when we discuss linear dimensionality reduction from a geometric per- spective.</p>
-<p>Consider a D-dimensional vector space V and an M-dimensional sub- spaceU V.ThenitsorthogonalcomplementU⊥isa(D M)-dimensional orthogonal ⊆ − subspace of V and contains all vectors in V that are orthogonal to every complement vectorinU.Furthermore,U U⊥ = 0 sothatanyvectorx V canbe ∩ { } ∈ ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>80 AnalyticGeometry Figure3.7 Aplane U ina 3 three-dimensional vectorspacecanbe w describedbyits normalvector, whichspansits 2 orthogonal complementU⊥.</p>
 <p>uniquelydecomposedinto M D−M (cid:88) (cid:88)</p>
 <p>x = λ b + ψ b⊥, λ , ψ R, (3.36)</p>
@@ -1086,7 +997,6 @@
 <p>Thus far, we looked at properties of inner products to compute lengths, angles and distances. We focused on inner products of finite-dimensional vectors. In the following, we will look at an example of inner products of adifferenttypeofvectors:innerproductsoffunctions.</p>
 <p>The inner products we discussed so far were defined for vectors with a finite number of entries. We can think of a vector x Rn as a function withnfunctionvalues.Theconceptofaninnerproductcanbegeneralized tovectorswith aninfinitenumberofentries(countably infinite)andalso continuous-valued functions (uncountably infinite). Then the sum over individual components of vectors (see Equation (3.5) for example) turns intoanintegral.</p>
 <p>An inner product of two functions u : R R and v : R R can be → → definedasthedefiniteintegral (cid:90) b u,v := u(x)v(x)dx (3.37)</p>
-<p>⟨ ⟩ Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.8 OrthogonalProjections</h2>
 <p>forlowerandupperlimitsa,b &lt; ,respectively.Aswithourusualinner product, we can define norms and orthogonality by looking at the inner product.If(3.37)evaluatesto0,thefunctionsuandv areorthogonal.To maketheprecedinginnerproductmathematicallyprecise,weneedtotake careofmeasuresandthedefinitionofintegrals,leadingtothedefinitionof aHilbertspace.Furthermore,unlikeinnerproductsonfinite-dimensional vectors,innerproductsonfunctionsmaydiverge(haveinfinitevalue).All thisrequiresdivingintosomemoreintricatedetailsofrealandfunctional analysis,whichwedonotcoverinthisbook.</p>
 <p>Example 3.9 (Inner Product of Functions)</p>
@@ -1097,7 +1007,6 @@
 <p>InSection6.4.6,wewillhavealookatasecondtypeofunconventional innerproducts:theinnerproductofrandomvariables.</p>
 <h2>3.8 Orthogonal Projections</h2>
 <p>Projectionsareanimportantclassoflineartransformations(besidesrota- tions and reflections) and play an important role in graphics, coding the- ory, statistics and machine learning. In machine learning, we often deal with data that is high-dimensional. High-dimensional data is often hard to analyze or visualize. However, high-dimensional data quite often pos- sessesthepropertythatonlyafewdimensionscontainmostinformation, and most other dimensions are not essential to describe key properties of the data. When we compress or visualize high-dimensional data, we will lose information. To minimize this compression loss, we ideally find the most informative dimensions in the data. As discussed in Chapter 1, “Feature”isa data can be represented as vectors, and in this chapter, we will discuss commonexpression fordata someofthefundamentaltoolsfordatacompression.Morespecifically,we representation.</p>
-<p>can project the original high-dimensional data onto a lower-dimensional feature space and work in this lower-dimensional space to learn more about the dataset and extract relevant patterns. For example, machine ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>82 AnalyticGeometry Figure3.9 Orthogonal projection(orange dots)ofa two-dimensional dataset(bluedots)</p>
 <p>ontoa one-dimensional subspace(straight − line). 2 4 2 0 2 4 − − x x 2 learningalgorithms,suchasprincipalcomponentanalysis(PCA)byPear- son (1901) and Hotelling (1933) and deep neural networks (e.g., deep auto-encoders(Dengetal.,2010)),heavilyexploittheideaofdimension- ality reduction. In the following, we will focus on orthogonal projections, which we will use in Chapter 10 for linear dimensionality reduction and in Chapter 12 for classification. Even linear regression, which we discuss inChapter9,canbeinterpretedusingorthogonalprojections.Foragiven lower-dimensional subspace, orthogonal projections of high-dimensional dataretainasmuchinformationaspossibleandminimizethedifference/ error between the original data and the corresponding projection. An il- lustration of such an orthogonal projection is given in Figure 3.9. Before we detail how to obtain these projections, let us define what a projection actuallyis.</p>
 <p>Definition 3.10 (Projection). Let V be a vector space and U V a projection subspace of V. A linear mapping π : V U is called a projection if π2 = π π = π.</p>
@@ -1106,7 +1015,6 @@
 <p>projectionmatrix of transformation matrices, the projection matrices P π , which exhibit the propertythatP2 = P .</p>
 <p>π π Inthefollowing,wewillderiveorthogonalprojectionsofvectorsinthe inner product space (Rn, , ) onto subspaces. We will start with one- ⟨· ·⟩ line dimensional subspaces, which are also called lines. If not mentioned oth- erwise,weassumethedotproduct x,y = x⊤y astheinnerproduct.</p>
 <p>⟨ ⟩ 3.8.1 Projection onto One-Dimensional Subspaces (Lines)</p>
-<p>Assume we are given a line (one-dimensional subspace) through the ori- gin with basis vector b Rn. The line is a one-dimensional subspace U Rn spanned by b. W ∈ hen we project x Rn onto U, we seek the ⊆ ∈ vector π (x) U that is closest to x. Using geometric arguments, let Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.8 OrthogonalProjections</h2>
 <p>Figure3.10 x Examplesof projectionsonto one-dimensional subspaces.</p>
 <p>b x π (x)</p>
@@ -1123,7 +1031,6 @@
 <p>⟨ ⟩− ⟨ ⟩ ⇐⇒ b,b b 2 ∥b∥=1.</p>
 <p>⟨ ⟩ ∥ ∥ In the last step, we exploited the fact that inner products are symmet- ric.Ifwechoose , tobethedotproduct,weobtain ⟨· ·⟩ b⊤x b⊤x λ = = . (3.41)</p>
 <p>b⊤b b 2 ∥ ∥ If b = 1,thenthecoordinateλoftheprojectionisgivenbyb⊤x.</p>
-<p>∥ ∥ ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>84 AnalyticGeometry</p>
 <h2>2. Findingtheprojectionpointπ (x) U.Sinceπ (x) = λb,weimme-</h2>
 <p>U U diatelyobtainwith(3.40)that x,b b⊤x π (x) = λb = ⟨ ⟩b = b, (3.42)</p>
@@ -1138,7 +1045,6 @@
 <p>π b 2 ∥ ∥ Projectionmatrices Note that bb⊤ (and, consequently, P π ) is a symmetric matrix (of rank arealways 1),and b 2 = b,b isascalar.</p>
 <p>symmetric. ∥ ∥ ⟨ ⟩ TheprojectionmatrixP projectsanyvectorx Rnontothelinethrough theoriginwithdirectionb(equivalently,thesubspaceU spannedbyb).</p>
 <p>Remark. The projection π (x) Rn is still an n-dimensional vector and notascalar.However,wenolongerrequirencoordinatestorepresentthe projection, but only a single one if we want to express it with respect to thebasisvectorbthatspansthesubspaceU:λ.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.8 OrthogonalProjections</h2>
 <p>x Figure3.11 Projectionontoa two-dimensional subspaceU with basisb1,b2.The x π (x)</p>
 <p>projectionπU(x)of − U x∈R3ontoU can beexpressedasa linearcombination ofb1,b2andthe displacementvector π (x)</p>
@@ -1152,7 +1058,6 @@
 <p>3.8.2 Projection onto General Subspaces IfU isgivenbyaset In the following, we look at orthogonal projections of vectors x Rn ofspanningvectors, onto lower-dimensional subspaces U Rn with dim(U) = m ⩾∈ 1. An whicharenota ⊆ basis,makesure illustrationisgiveninFigure3.11.</p>
 <p>youdeterminea Assumethat(b ,...,b )isanorderedbasisofU.Anyprojectionπ (x)</p>
 <p>1 m U basisb1,...,bm ontoU isnecessarilyanelementofU.Therefore,theycanberepresented beforeproceeding.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>86 AnalyticGeometry as linear combinations of the basis vectors b ,...,b of U, such that 1 m Thebasisvectors π U (x) = (cid:80)m i=1 λ i b i .</p>
 <p>formthecolumnsof As in the 1D case, we follow a three-step procedure to find the projec- B∈Rn×m,where tionπ (x)andtheprojectionmatrixP : B=[b1,...,bm]. U π</p>
 <h2>1. Find the coordinates λ ,...,λ of the projection (with respect to the</h2>
@@ -1167,7 +1072,6 @@
 <p>m − suchthatweobtainahomogeneouslinearequationsystem  b⊤     . . .   x − Bλ = 0 ⇐⇒ B⊤(x − Bλ) = 0 (3.55)</p>
 <p>b⊤ B⊤Bλ = B⊤x. (3.56)</p>
 <p>⇐⇒ normalequation The last expression is called normal equation. Since b 1 ,...,b m are a basisofU and,therefore,linearlyindependent,B⊤B Rm×m isreg- ular and can be inverted. This allows us to solve for the coefficients/ coordinates λ = (B⊤B)−1B⊤x. (3.57)</p>
-<p>pseudo-inverse The matrix (B⊤B)−1B⊤ is also called the pseudo-inverse of B, which canbecomputedfornon-squarematricesB.ItonlyrequiresthatB⊤B is positive definite, which is the case if B is full rank. In practical ap- plications (e.g., linear regression), we often add a “jitter term” ϵI to Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.8 OrthogonalProjections</h2>
 <p>B⊤B toguaranteeincreasednumericalstabilityandpositivedefinite- ness. This “ridge” can be rigorously derived using Bayesian inference.</p>
 <p>SeeChapter9fordetails.</p>
@@ -1187,7 +1091,6 @@
 <p>Third,wesolvethenormalequationB⊤Bλ = B⊤xtofindλ: (cid:20) (cid:21)(cid:20) (cid:21) (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>3 3 λ 6 5 1 = λ = . (3.61)</p>
 <p>3 5 λ 2 0 ⇐⇒ 3 Fourth,theprojectionπ (x)ofxontoU,i.e.,intothecolumnspaceof B,canbedirectlycomputedvia   π U (x) = Bλ =  2  . (3.62)</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>88 AnalyticGeometry projectionerror The corresponding projection error is the norm of the difference vector Theprojectionerror betweentheoriginalvectoranditsprojectionontoU,i.e., isalsocalledthe (cid:13) (cid:13)</p>
 <p>reconstructionerror. x π (x) = (cid:13)(cid:2) 1 2 1 (cid:3)⊤(cid:13) = √6. (3.63)</p>
 <p>U (cid:13) (cid:13)</p>
@@ -1201,7 +1104,6 @@
 <p>1 k { } aresatisfied,theprojectionequation(3.58)simplifiesgreatlyto π (x) = BB⊤x (3.65)</p>
 <p>sinceB⊤B = I withcoordinates λ = B⊤x. (3.66)</p>
 <p>This means that we no longer have to compute the inverse from (3.58), whichsavescomputationtime.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.8 OrthogonalProjections</h2>
 <p>3.8.3 Gram-Schmidt Orthogonalization Projections are at the core of the Gram-Schmidt method that allows us to constructivelytransformanybasis(b ,...,b )ofann-dimensionalvector 1 n space V into an orthogonal/orthonormal basis (u ,...,u ) of V. This 1 n basisalwaysexists(LiesenandMehrmann,2015)andspan[b ,...,b ] = 1 n span[u 1 ,...,u n ].TheGram-Schmidtorthogonalizationmethoditeratively Gram-Schmidt constructsanorthogonalbasis(u ,...,u )fromanybasis(b ,...,b )of orthogonalization 1 n 1 n V asfollows: u := b (3.67)</p>
 <p>1 1 u := b π (b ), k = 2,...,n. (3.68)</p>
@@ -1217,7 +1119,6 @@
 <p>1 1 0 u u⊤ (cid:20) 1 (cid:21) (cid:20) 1 0 (cid:21)(cid:20) 1 (cid:21) (cid:20) 0 (cid:21)</p>
 <p>u := b π (b ) (3 = .45) b 1 1 b = = .</p>
 <p>2 2 − span[u1] 2 2 − u 2 2 1 − 0 0 1 1 ∥ ∥ (3.71)</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>90 AnalyticGeometry Figure3.13 x x Projectionontoan affinespace.</p>
 <p>(a)originalsetting; ( b b y ) − se x t 0 tin so g t s h h a if t ted L x − x 0 π L (x) L x x x−x0canbe 0 0 projectedontothe b b U =L x b directionspaceU; 2 2 − 0 2 π (x x )</p>
 <p>(c)projectionis U − 0 translatedbackto 0 b 0 b 0 b 1 1 1 x0+πU(x−x0), (a)Setting. (b) Reduce problem to pro- (c)Addsupportpointbackin whichgivesthefinal jection πU onto vector sub- togetaffineprojectionπL.</p>
@@ -1233,7 +1134,6 @@
 <h2>L 0 U</h2>
 <p>∥ − ∥ ∥ − − ∥ = d(x x ,π (x x )) = d(x x ,U). (3.73b)</p>
 <p>0 U 0 0 − − − Wewilluseprojectionsontoanaffinesubspacetoderivetheconceptof aseparatinghyperplaneinSection12.1.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.9 Rotations</h2>
 <p>Figure3.14 A rotationrotates objectsinaplane abouttheorigin.If Original therotationangleis Rotatedby112.5◦ positive,werotate counterclockwise.</p>
 <p>Figure3.15 The roboticarmneedsto rotateitsjointsin ordertopickup objectsortoplace themcorrectly.</p>
@@ -1245,7 +1145,6 @@
 <p>R = − − . (3.74)</p>
 <h2>0.92 0.38</h2>
 <p>Important application areas of rotations include computer graphics and robotics. For example, in robotics, it is often important to know how to rotate the joints of a robotic arm in order to pick up or place an object, seeFigure3.15.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>92 AnalyticGeometry Figure3.16 Φ(e )=[ sinθ,cosθ]⊤ Rotationofthe 2 − cosθ standardbasisinR2 byanangleθ. e 2 Φ(e )=[cosθ,sinθ]⊤ sinθ sinθ e cosθ − 1 3.9.1 Rotations in R2 (cid:26) (cid:20) (cid:21) (cid:20) (cid:21)(cid:27)</p>
 <p>1 0 Consider the standard basis e = , e = of R2, which defines 1 0 2 1 the standard coordinate system in R2. We aim to rotate this coordinate system by an angle θ as illustrated in Figure 3.16. Note that the rotated vectorsarestilllinearlyindependentand,therefore,areabasisofR2.This meansthattherotationperformsabasischange.</p>
 <p>Rotations Φ are linear mappings so that we can express them by a rotationmatrix rotation matrix R(θ). Trigonometry (see Figure 3.16) allows us to de- terminethecoordinatesoftherotatedaxes(theimageofΦ)withrespect tothestandardbasisinR2.Weobtain (cid:20) (cid:21) (cid:20) (cid:21)</p>
@@ -1254,7 +1153,6 @@
 <p>(cid:2) (cid:3) cosθ sinθ R(θ) = Φ(e 1 ) Φ(e 2 ) = sinθ − cosθ . (3.76)</p>
 <p>3.9.2 Rotations in R3 IncontrasttotheR2 case,inR3 wecanrotateanytwo-dimensionalplane aboutaone-dimensionalaxis.Theeasiestwaytospecifythegeneralrota- tionmatrixistospecifyhowtheimagesofthestandardbasise ,e ,e are 1 2 3 supposedtoberotated,andmakingsuretheseimagesRe ,Re ,Re are 1 2 3 orthonormal to each other. We can then obtain a general rotation matrix Rbycombiningtheimagesofthestandardbasis.</p>
 <p>To have a meaningful rotation angle, we have to define what “coun- terclockwise” means when we operate in more than two dimensions. We use the convention that a “counterclockwise” (planar) rotation about an axis refers to a rotation about an axis when we look at the axis “head on, fromtheendtowardtheorigin”.InR3,therearethereforethree(planar)</p>
-<p>rotationsaboutthethreestandardbasisvectors(seeFigure3.17): Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.9 Rotations</h2>
 <p>e Figure3.17 Rotationofavector (gray)inR3byan angleθaboutthe e3-axis.Therotated vectorisshownin blue.</p>
 <p>θ 1 Rotationaboutthee -axis   1 0 0 (cid:2) (cid:3)</p>
@@ -1265,7 +1163,6 @@
 <p>Rotationaboutthee -axis   cosθ sinθ 0 (θ) = sinθ cosθ 0 . (3.79)</p>
 <p>0 0 1 Figure3.17illustratesthis.</p>
 <p>3.9.3 Rotations in n Dimensions The generalization of rotations from 2D and 3D to n-dimensional Eu- clidean vector spaces can be intuitively described as fixing n 2 dimen- sionsandrestricttherotationtoatwo-dimensionalplaneinthen-dimen- sional space. As in the three-dimensional case, we can rotate any plane (two-dimensionalsubspaceofRn).</p>
-<p>Definition 3.11 (GivensRotation). LetV beann-dimensionalEuclidean vector space and Φ : V V an automorphism with transformation ma- ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>94 AnalyticGeometry trix  </p>
 <h2>I 0</h2>
 <p>i−1 ··· ···  0 cosθ 0 sinθ 0  R ij (θ) :=   0 0 I j−i−1 − 0 0   Rn×n, (3.80)</p>
@@ -1279,13 +1176,11 @@
 <p>Inthischapter,wegaveabriefoverviewofsomeoftheimportantconcepts of analytic geometry, which we will use in later chapters of the book.</p>
 <p>For a broader and more in-depth overview of some of the concepts we presented, we refer to the following excellent books: Axler (2015) and BoydandVandenberghe(2018).</p>
 <p>Innerproductsallowustodeterminespecificbasesofvector(sub)spaces, whereeachvectorisorthogonaltoallothers(orthogonalbases)usingthe Gram-Schmidt method. These bases are important in optimization and numerical algorithms for solving linear equation systems. For instance, Krylov subspace methods, such as conjugate gradients or the generalized minimal residual method (GMRES), minimize residual errors that are or- thogonaltoeachother(StoerandBurlirsch,2002).</p>
-<p>In machine learning, inner products are important in the context of Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>3.10 FurtherReading</h2>
 <p>kernelmethods(Scho¨lkopfandSmola,2002).Kernelmethodsexploitthe fact that many linear algorithms can be expressed purely by inner prod- uct computations. Then, the “kernel trick” allows us to compute these inner products implicitly in a (potentially infinite-dimensional) feature space,withoutevenknowingthisfeaturespaceexplicitly.Thisallowedthe “non-linearization”ofmanyalgorithmsusedinmachinelearning,suchas kernel-PCA (Scho¨lkopf et al., 1997) for dimensionality reduction. Gaus- sianprocesses(RasmussenandWilliams,2006)alsofallintothecategory of kernel methods and are the current state of the art in probabilistic re- gression (fitting curves to data points). The idea of kernels is explored furtherinChapter12.</p>
 <p>Projectionsareoftenusedincomputergraphics,e.g.,togenerateshad- ows.Inoptimization,orthogonalprojectionsareoftenusedto(iteratively)</p>
 <p>minimize residual errors. This also has applications in machine learning, e.g., in linear regression where we want to find a (linear) function that minimizes the residual errors, i.e., the lengths of the orthogonal projec- tions of the data onto the linear function (Bishop, 2006). We will investi- gate this further in Chapter 9. PCA (Pearson, 1901; Hotelling, 1933) also uses projections to reduce the dimensionality of high-dimensional data.</p>
 <p>WewilldiscussthisinmoredetailinChapter10.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>96 AnalyticGeometry Exercises</p>
 <h2>3.1 Showthat⟨·,·⟩definedforallx=[x ,x ]⊤ ∈R2 andy=[y ,y ]⊤ ∈R2 by</h2>
 <p>1 2 1 2 ⟨x,y⟩:=x y −(x y +x y )+2(x y )</p>
@@ -1307,7 +1202,6 @@
 <h2>3.6 ConsiderR3 withtheinnerproduct</h2>
 <p>  2 1 0 ⟨x,y⟩:=x⊤ 1 2 −1y.</p>
 <p>0 −1 2 Furthermore,wedefinee ,e ,e asthestandard/canonicalbasisinR3.</p>
-<p>1 2 3 Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <p>Exercises 97 a. Determinetheorthogonalprojectionπ (e )ofe onto</p>
 <h2>U 2</h2>
 <p>U =span[e ,e ].</p>
@@ -1327,12 +1221,10 @@
 <h2>3.10 Rotatethevectors</h2>
 <p>(cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>2 0 x := , x := 1 2 3 −1 by30◦.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>Matrix Decompositions InChapters2and3,westudiedwaystomanipulateandmeasurevectors, projections of vectors, and linear mappings. Mappings and transforma- tionsofvectorscanbeconvenientlydescribedasoperationsperformedby matrices.Moreover,dataisoftenrepresentedinmatrixformaswell,e.g., where the rows of the matrix represent different people and the columns describedifferentfeaturesofthepeople,suchasweight,height,andsocio- economicstatus.Inthischapter,wepresentthreeaspectsofmatrices:how tosummarizematrices,howmatricescanbedecomposed,andhowthese decompositionscanbeusedformatrixapproximations.</p>
 <p>We first consider methods that allow us to describe matrices with just a few numbers that characterize the overall properties of matrices. We will do this in the sections on determinants (Section 4.1) and eigenval- ues(Section4.2)fortheimportantspecialcaseofsquarematrices.These characteristic numbers have important mathematical consequences and allow us to quickly grasp what useful properties a matrix has. From here we will proceed to matrix decomposition methods: An analogy for ma- trix decomposition is the factoring of numbers, such as the factoring of 21 into prime numbers 7 3. For this reason matrix decomposition is also matrixfactorization often referred to as matrix factorization. Matrix decompositions are used to describe a matrix by means of a different representation using factors ofinterpretablematrices.</p>
 <p>We will first cover a square-root-like operation for symmetric, positive definite matrices, the Cholesky decomposition (Section 4.3). From here we will look at two related methods for factorizing matrices into canoni- cal forms. The first one is known as matrix diagonalization (Section 4.4), which allows us to represent the linear mapping using a diagonal trans- formation matrix if we choose an appropriate basis. The second method, singular value decomposition (Section 4.5), extends this factorization to non-squarematrices,anditisconsideredoneofthefundamentalconcepts inlinearalgebra.Thesedecompositionsarehelpful,asmatricesrepresent- ingnumericaldataareoftenverylargeandhardtoanalyze.Weconclude the chapter with a systematic overview of the types of matrices and the characteristicpropertiesthatdistinguishthemintheformofamatrixtax- onomy(Section4.7).</p>
 <p>The methods that we cover in this chapter will become important in ThismaterialispublishedbyCambridgeUniversityPressasMathematicsforMachineLearningby MarcPeterDeisenroth,A.AldoFaisal,andChengSoonOng(2020).Thisversionisfreetoview anddownloadforpersonaluseonly.Notforre-distribution,re-sale,oruseinderivativeworks.</p>
-<p>©byM.P.Deisenroth,A.A.Faisal,andC.S.Ong,2024.https://mml-book.com.</p>
 <h2>4.1 DeterminantandTrace</h2>
 <p>tests usedin Figure4.1 Amind Determinant Invertibility Cholesky mapoftheconcepts introducedinthis chapter,alongwith wheretheyareused inotherpartsofthe book.</p>
 <p>Eigenvalues Chapter6 Probability &amp;distributions Eigenvectors Orthogonalmatrix Diagonalization SVD Chapter10 Dimensionality reduction usedin determines usedin usedin constructs usedin usedin u n se d e d in us usedin both subsequent mathematical chapters, such as Chapter 6, but also in appliedchapters,suchasdimensionalityreductioninChapters10orden- sity estimation in Chapter 11. This chapter’s overall structure is depicted inthemindmapofFigure4.1.</p>
@@ -1351,7 +1243,6 @@
 <p>. (4.1)</p>
 <p>(cid:12) (cid:12)</p>
 <p>(cid:12) a a ... a (cid:12)</p>
-<p>n1 n2 nn The determinant of a square matrix A Rn×n is a function that maps A determinant ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>100 MatrixDecompositions onto a real number. Before providing a definition of the determinant for general n n matrices, let us have a look at some motivating examples, anddefinedeterminantsforsomespecialmatrices.</p>
 <p>Example 4.1 (Testing for Matrix Invertibility)</p>
 <p>Let us begin with exploring if a square matrix A is invertible (see Sec- tion 2.2.2). For the smallest cases, we already know when a matrix is invertible. If A is a 1 1 matrix, i.e., it is a scalar number, then A = a = A−1 = 1.Thu × sa 1 = 1holds,ifandonlyifa = 0.</p>
@@ -1374,7 +1265,6 @@
 <p>(cid:12) (cid:12)</p>
 <p>(cid:12)a a a (cid:12)</p>
 <p>31 32 33 a a a a a a a a a .</p>
-<p>31 22 13 11 32 23 21 12 33 − − − Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.1 DeterminantandTrace</h2>
 <p>For a memory aid of the product terms in Sarrus’ rule, try tracing the elementsofthetripleproductsinthematrix.</p>
 <p>We call a square matrix T an upper-triangular matrix if T ij = 0 for upper-triangular i &gt; j,i.e.,thematrixiszerobelowitsdiagonal.Analogously,wedefinea matrix lower-triangularmatrixasamatrixwithzerosaboveitsdiagonal.Foratri- lower-triangular angularmatrixT Rn×n,thedeterminantistheproductofthediagonal matrix elements,i.e., (cid:89)</p>
@@ -1388,7 +1278,6 @@
 <p>g (cid:12)0 g(cid:12) − r,b,gis |det([r,b,g])|.</p>
 <p>The sign of the determinant indicates the orientation of the spanning vectors b,g with respect to the standard basis (e ,e ). In our figure, flip- 1 2 pingtheordertog,bswapsthecolumnsofAandreversestheorientation of the shaded area. This becomes the familiar formula: area = height length. This intuition extends to higher dimensions. In R3, we conside × r b three vectors r,b,g R3 spanning the edges of a parallelepiped, i.e., a r ∈ g solidwithfacesthatareparallelparallelograms(seeFigure4.3). Theab- Thesignofthe solutevalueofthedeterminantofthe3 3matrix[r, b, g]isthevolume determinant × indicatesthe of the solid. Thus, the determinant acts as a function that measures the orientationofthe signedvolumeformedbycolumnvectorscomposedinamatrix. spanningvectors.</p>
 <p>Considerthethreelinearlyindependentvectorsr,g,b R3 givenas       2 6 1 r =  0 , g = 1, b =  4  . (4.9)</p>
-<p>8 0 1 − − ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>102 MatrixDecompositions Writingthesevectorsasthecolumnsofamatrix   2 6 1 A = [r, g, b] =  0 1 4  (4.10)</p>
 <p>8 0 1 − − allowsustocomputethedesiredvolumeas V = det(A) = 186. (4.11)</p>
 <p>| | Computingthedeterminantofann nmatrixrequiresageneralalgo- rithmtosolvethecasesforn &gt; 3,whichwearegoingtoexploreinthefol- lowing. Theorem 4.2 below reduces the problem of computing the deter- minantofann nmatrixtocomputingthedeterminantof(n 1) (n 1)</p>
@@ -1411,7 +1300,6 @@
 <p>(cid:12)3 2(cid:12) (cid:12)3 1(cid:12)</p>
 <p>+( 1)1+2 2(cid:12) (cid:12)+( 1)1+3 3(cid:12) (cid:12) .</p>
 <p>− · (cid:12)0 1(cid:12) − · (cid:12)0 0(cid:12)</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.1 DeterminantandTrace</h2>
 <p>Weuse(4.6)tocomputethedeterminantsofall2 2matricesandobtain det(A) = 1(1 0) 2(3 0)+3(0 0) = 5. (4.16)</p>
 <p>− − − − − Forcompletenesswecancomparethisresulttocomputingthedetermi- nantusingSarrus’rule(4.7): det(A) = 1 1 1+3 0 3+0 2 2 0 1 3 1 0 2 3 2 1 = 1 6 = 5. (4.17)</p>
@@ -1429,7 +1317,6 @@
 <p>Theorem 4.3. A square matrix A Rn×n has det(A) = 0 if and only if ∈ ̸ rk(A) = n.Inotherwords,Aisinvertibleifandonlyifitisfullrank.</p>
 <p>When mathematics was mainly performed by hand, the determinant calculation was considered an essential way to analyze matrix invertibil- ity. However, contemporary approaches in machine learning use direct numerical methods that superseded the explicit calculation of the deter- minant. For example, in Chapter 2, we learned that inverse matrices can be computed by Gaussian elimination. Gaussian elimination can thus be usedtocomputethedeterminantofamatrix.</p>
 <p>Determinants will play an important theoretical role for the following sections, especially when we learn about eigenvalues and eigenvectors (Section4.2)throughthecharacteristicpolynomial.</p>
-<p>Definition 4.4. ThetraceofasquarematrixA Rn×n isdefinedas trace ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>104 MatrixDecompositions (cid:88)</p>
 <p>tr(A) := a , (4.18)</p>
 <p>i=1 i.e.,thetraceisthesumofthediagonalelementsofA.</p>
@@ -1441,7 +1328,6 @@
 <p>In this section, we covered determinants and traces as functions char- acterizingasquarematrix.Takingtogetherourunderstandingofdetermi- nants and traces we can now define an important equation describing a matrix A in terms of a polynomial, which we will use extensively in the followingsections.</p>
 <p>Definition 4.5 (Characteristic Polynomial). For λ R and a square ma- trixA Rn×n ∈ p (λ) := det(A λI) (4.22a)</p>
 <p>= c +c λ+c λ2+ +c λn−1+( 1)nλn, (4.22b)</p>
-<p>0 1 2 n−1 ··· − characteristic c 0 ,...,c n−1 R,isthecharacteristicpolynomialofA.Inparticular, polynomial Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <p>c = det(A), (4.23)</p>
 <p>c = ( 1)n−1tr(A). (4.24)</p>
@@ -1457,7 +1343,6 @@
 <p>det(A λI ) = 0.</p>
 <p>Definition 4.7 (Collinearity and Codirection). Two vectors that point in the same direction are called codirected. Two vectors are collinear if they codirected pointinthesameortheoppositedirection. collinear Remark (Non-uniqueness of eigenvectors). If x is an eigenvector of A associated with eigenvalue λ, then for any c R 0 it holds that cx is ∈ \{ } aneigenvectorofAwiththesameeigenvaluesince A(cx) = cAx = cλx = λ(cx). (4.26)</p>
 <p>Thus,allvectorsthatarecollineartoxarealsoeigenvectorsofA.</p>
-<p>©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>106 MatrixDecompositions Theorem 4.8. λ R is an eigenvalue of A Rn×n if and only if λ is a ∈ ∈ rootofthecharacteristicpolynomialp (λ)ofA.</p>
 <p>algebraic Definition4.9. LetasquarematrixAhaveaneigenvalueλ i .Thealgebraic multiplicity multiplicityofλ isthenumberoftimestherootappearsinthecharacter- isticpolynomial.</p>
 <p>Definition 4.10 (EigenspaceandEigenspectrum). ForA Rn×n,theset ofalleigenvectorsofAassociatedwithaneigenvalueλspansasubspace eigenspace ofRn,whichiscalledtheeigenspaceofAwithrespecttoλandisdenoted eigenspectrum by E λ . The set of all eigenvalues of A is called the eigenspectrum, or just spectrum spectrum,ofA.</p>
@@ -1472,7 +1357,6 @@
 <p>⇐⇒ − ⇐⇒ ∈ − Similar matrices (see Definition 2.22) possess the same eigenvalues.</p>
 <p>Therefore,alinearmappingΦhaseigenvaluesthatareindependentof thechoiceofbasisofitstransformationmatrix.Thismakeseigenvalues, together with the determinant and the trace, key characteristic param- etersofalinearmappingastheyareallinvariantunderbasischange.</p>
 <p>Symmetric, positive definite matrices always have positive, real eigen- values.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <p>Example 4.5 (Computing Eigenvalues, Eigenvectors, and Eigenspaces)</p>
 <p>Letusfindtheeigenvaluesandeigenvectorsofthe2 2matrix (cid:20) (cid:21)</p>
@@ -1495,7 +1379,6 @@
 <p>5 1 Thiseigenspaceisone-dimensionalasitpossessesasinglebasisvector.</p>
 <p>Analogously, we find the eigenvector for λ = 2 by solving the homoge- neoussystemofequations (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>4 2 2 2 2 − x = x = 0. (4.34)</p>
-<p>1 3 2 1 1 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>108 MatrixDecompositions (cid:20) (cid:21) (cid:20) (cid:21)</p>
 <p>x 1 This means any vector x = 1 , where x = x , such as , is an x 2 2 − 1 1 eigenvectorwitheigenvalue2.Thecorrespondingeigenspaceisgivenas (cid:20) (cid:21)</p>
 <p>E = span[ ]. (4.35)</p>
@@ -1507,7 +1390,6 @@
 <p>uniteigenvectorx = and,thus,geometricmultiplicity1.</p>
 <p>1 0 Graphical Intuition in Two Dimensions Let us gain some intuition for determinants, eigenvectors, and eigenval- uesusingdifferentlinearmappings.Figure4.4depictsfivetransformation matricesA ,...,A andtheirimpactonasquaregridofpoints,centered 1 5 Ingeometry,the attheorigin: area-preserving (cid:20)1 (cid:21)</p>
 <p>propertiesofthis A = 2 . The direction of the two eigenvectors correspond to the typeofshearing 1 0 2 paralleltoanaxisis canonicalbasisvectorsinR2,i.e.,totwocardinalaxes.Theverticalaxis alsoknownas isextendedbyafactorof2(eigenvalueλ = 2),andthehorizontalaxis Cavalieri’sprinciple 1 is compressed by factor 1 (eigenvalue λ = 1). The mapping is area ofequalareasfor 2 2 2 p (K a a ra tz ll , e 2 lo 0 g 0 r 4 a ) m . s preserv (cid:20) in 1 g( 1 d (cid:21) et(A 1 ) = 1 = 2 · 1 2 ).</p>
-<p>A = 2 corresponds to a shearing mapping , i.e., it shears the 2 0 1 points along the horizontal axis to the right if they are on the positive Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <p>Figure4.4 Determinantsand eigenspaces.</p>
 <p>Overviewoffive λ1=2.0 linearmappingsand λ2=0.5 theirassociated det(A)=1.0 transformation matrices Ai∈R2×2 projecting400 color-codedpoints x∈R2(left λ1=1.0 column)ontotarget λ2=1.0 det(A)=1.0 pointsAix(right column).The centralcolumn depictsthefirst eigenvector, stretchedbyits λ1=(0.87-0.5j) associated λ2=(0.87+0.5j) eigenvalueλ1,and det(A)=1.0 thesecond eigenvector stretchedbyits eigenvalueλ2.Each rowdepictsthe effectofoneoffive λ1=0.0 transformation λ2=2.0 det(A)=0.0 matricesAiwith respecttothe standardbasis.</p>
@@ -1515,7 +1397,6 @@
 <p>(cid:20) cos(π) sin(π) (cid:21) (cid:20)√3 1 (cid:21)</p>
 <p>A = 6 − 6 = 1 − The matrix A rotates the 3 sin(π) cos(π) 2 1 √3 3 6 6 points by π rad = 30◦ counter-clockwise and has only complex eigen- values,reflectingthatthemappingisarotation(hence,noeigenvectors are drawn). A rotation has to be volume preserving, and so the deter- minantis1.Formoredetailsonrotations,werefertoSection3.9.</p>
 <p>(cid:20) (cid:21)</p>
-<p>1 1 A = − represents a mapping in the standard basis that col- 4 1 1 lapsesatwo-dimensionaldomainontoonedimension.Sinceoneeigen- ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>110 MatrixDecompositions valueis0,thespaceindirectionofthe(blue)eigenvectorcorresponding to λ = 0 collapses, while the orthogonal (red) eigenvector stretches spacebyafactorλ = 2.Therefore,theareaoftheimageis0.</p>
 <p>(cid:20)</p>
 <p>1(cid:21)</p>
@@ -1527,7 +1408,6 @@
 <p>eulavnegie (b)Eigenspectrum.</p>
 <p>Methods to analyze and learn from network data are an essential com- ponentofmachinelearningmethods.Thekeytounderstandingnetworks is the connectivity between network nodes, especially if two nodes are connected to each other or not. In data science applications, it is often usefultostudythematrixthatcapturesthisconnectivitydata.</p>
 <p>Webuildaconnectivity/adjacencymatrixA R277×277ofthecomplete neural network of the worm C.Elegans. Each row/column represents one of the 277 neurons of this worm’s brain. The connectivity matrix A has a value of a = 1 if neuron i talks to neuron j through a synapse, and ij a = 0 otherwise. The connectivity matrix is not symmetric, which im- ij plies that eigenvalues may not be real valued. Therefore, we compute a symmetrizedversionoftheconnectivitymatrixasA := A+A⊤.This sym newmatrixA isshowninFigure4.5(a)andhasanonzerovaluea if sym ij and only if two neurons are connected (white pixels), irrespective of the direction of the connection. In Figure 4.5(b), we show the correspond- ing eigenspectrum of A . The horizontal axis shows the index of the sym eigenvalues,sortedindescendingorder.Theverticalaxisshowsthecorre- spondingeigenvalue.TheS-likeshapeofthiseigenspectrumistypicalfor many biological neural networks. The underlying mechanism responsible forthisisanareaofactiveneuroscienceresearch.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <p>Theorem 4.12. Theeigenvectorsx ,...,x ofamatrixA Rn×n withn 1 n distincteigenvaluesλ ,...,λ arelinearlyindependent.</p>
 <p>1 n This theorem states that eigenvectors of a matrix with n distinct eigen- valuesformabasisofRn.</p>
@@ -1540,7 +1420,6 @@
 <p>spectraltheorem Theorem 4.15 (Spectral Theorem). If A Rn×n is symmetric, there ex- ists an orthonormal basis of the corresponding vector space V consisting of eigenvectorsofA,andeacheigenvalueisreal.</p>
 <p>A direct implication of the spectral theorem is that the eigendecompo- sition of a symmetric matrix A exists (with real eigenvalues), and that we can find an ONB of eigenvectors so that A = PDP⊤, where D is diagonalandthecolumnsofP containtheeigenvectors.</p>
 <p>Example 4.8 Considerthematrix   3 2 2 A = 2 3 2 . (4.37)</p>
-<p>2 2 3 ©2024M.P.Deisenroth,A.A.Faisal,C.S.Ong.PublishedbyCambridgeUniversityPress(2020).</p>
 <p>112 MatrixDecompositions ThecharacteristicpolynomialofAis p (λ) = (λ 1)2(λ 7), (4.38)</p>
 <p>− − − so that we obtain the eigenvalues λ = 1 and λ = 7, where λ is a 1 2 1 repeated eigenvalue. Following our standard procedure for computing eigenvectors,weobtaintheeigenspaces       1 1 1 − − = span[ 1 , 0 ], E = span[1]. (4.39)</p>
 <p>0 1 1 (cid:124) (cid:123)(cid:122) (cid:125) (cid:124) (cid:123)(cid:122) (cid:125) (cid:124)(cid:123)(cid:122)(cid:125)</p>
@@ -1553,7 +1432,6 @@
 <p>Theorem 4.16. The determinant of a matrix A Rn×n is the product of itseigenvalues,i.e., (cid:89)</p>
 <p>det(A) = λ , (4.42)</p>
 <p>i=1 whereλ Care(possiblyrepeated)eigenvaluesofA.</p>
-<p>Draft(2024-01-15)of“MathematicsforMachineLearning”.Feedback:https://mml-book.com.</p>
 <h2>4.2 EigenvaluesandEigenvectors</h2>
 <p>Figure4.6 Geometric x A interpretationof eigenvalues.The 2 eigenvectorsofA x v getstretchedbythe 1 1 corresponding eigenvalues.The Theorem 4.17. The trace of a matrix A Rn×n is the sum of its eigenval- areaoftheunit ∈ squarechangesby ues,i.e., |λ1λ2|,the n perimeterchanges (cid:88)</p>
 <p>tr(A) = λ , (4.43) byafactorof i=1 (|λ1|+|λ2|).</p>

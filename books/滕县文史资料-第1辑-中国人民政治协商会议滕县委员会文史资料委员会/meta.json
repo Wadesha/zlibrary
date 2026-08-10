@@ -1,10 +1,10 @@
 {
   "slug": "滕县文史资料-第1辑-中国人民政治协商会议滕县委员会文史资料委员会",
-  "title": "滕县文史资料 第1辑 (中国人民政治协商会议滕县委员会文史资料委员会)",
+  "title": "滕县文史资料 第1辑 中国人民政治协商会议滕县委员会文史资料委员会",
   "language": "zh",
   "pipeline": "ocr_md",
   "source_file": "[OCR]滕县文史资料 第1辑 (中国人民政治协商会议滕县委员会文史资料委员会) (Z-Library).md",
   "source_pdf": null,
-  "chars": 38111,
+  "chars": 38109,
   "has_fixed": false
 }

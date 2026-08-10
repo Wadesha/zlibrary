@@ -1,10 +1,5 @@
 # Physics principles with applications Douglas C Giancoli Z Library
 
-> 来源文件：pre_Physics_principles_with_applications_Douglas_C_Giancoli_Z_Library.txt
-> 字符数（约）：3827981
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 S E V E N T H
 
 E D I T I O N 0 s
@@ -21,19 +16,7 @@ E D I T I O N Boston  Columbus  Indianapolis  New York  San Francisco  Hoboken D
 
 President, Science, Business and Technology: Paul Corey Publisher: Jim Smith Executive Development Editor: Karen Karlin Production Project Manager: Elisa Mandelbaum / Laura Ross Head of Learning Asset Acquisition, Global Edition: Laura Dent Senior Acquisitions Editor, Global Edition: Priyanka Ahuja Assistant Project Editor, Global Edition:Amrita Kar Manager, Media Production, Global Edition: M Vikram Kumar Senior Manufacturing Controller, Global Edition:Trudy Kimber Marketing Manager:Will Moore Senior Managing Editor: Corinne Benson Managing Development Editor: Cathy Murphy Copyeditor: Joanna Dinsmore Proofreaders: Susan Fisher, Donna Young Interior Designer: Mark Ong Cover Designer: Derek Bacchus Photo Permissions Management: Maya Melenchuk Photo Research Manager: Eric Schrader Photo Researcher: Mary Teresa Giancoli Senior Administrative Assistant: Cathy Glenn Senior Administrative Coordinator:Trisha Tarricone Text Permissions Project Manager: Joseph Croscup Editorial Media Producer: Kelly Reed Manufacturing Buyer: Jeffrey Sargent Indexer: Carol Reitz Illustrations: Precision Graphics Cover Photo Credit: North Peak, California (D. Giancoli); Insets: left, analog to digital (page 488); right, electron microscope image—retina of human eye with cones artificially colored green, rods beige (page 785).
 
-Pearson Education Limited Edinburgh Gate Harlow Essex CM20 2JE England and Associated Companies throughout the world Visit us on the World Wide Web at: www.pearsonglobaleditions.com Copyright © 2016 by Douglas C. Giancoli The rights of Douglas C. Giancoli to be identified as the author of this work have been asserted by him in accordance with the Copyright, Designs and Patents Act 1988.
-
-Authorized adaptation from the United States edition, entitled Physics: Principles with Applications, 7th edition, ISBN 978-0-321-62592-2, by Douglas C. Giancoli, published by Pearson Education, Inc., publishing as Pearson Prentice Hall © 2015.
-
-any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without either the prior written permission of the publisher or a license permitting restricted copying in the United Kingdom issued by the Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks.Where those designations appear in this book, and the publisher was aware of a trademark claim, the designations have been printed in initial caps or all caps.All trademarks used herein are the property of their respective owners.The use of any trademark in this text does not vest in the author or publisher any trademark ownership rights in such trademarks, nor does the use of such trademarks imply any affiliation with or endorsement of this book by such owners.
-
 Credits and acknowledgments for materials borrowed from other sources and reproduced, with permission, in this textbook appear on page A-69.
-
-ISBN 10: 1-292-05712-2 ISBN 13: 978-1-292-05712-5  (Print)
-
-British Library Cataloguing-in-Publication Data A catalogue record for this book is available from the British Library 10 9 8 7 6 5 4 3 2 1 Typeset in Times Ten by codeMantra Printed and bound by Courier Kendallville in The United States of America ISBN 13: 978-1-292-06685-1  (PDF)
 
 Applications List Preface To Students xviii Use of Color INTRODUCTION, MEASUREMENT, ESTIMATING The Nature of Science Physics and its Relation to Other Fields Models, Theories, and Laws Measurement and Uncertainty; Significant Figures Units, Standards, and the SI System Converting Units Order of Magnitude: Rapid Estimating * Dimensions and Dimensional Analysis Questions, MisConceptual Questions 17 Problems, Search and Learn 18–20 DESCRIBING MOTION: KINEMATICS IN ONE DIMENSION Reference Frames and Displacement Average Velocity Instantaneous Velocity Acceleration Motion at Constant Acceleration Solving Problems Freely Falling Objects Graphical Analysis of Linear Motion Questions, MisConceptual Questions 41–42 Problems, Search and Learn 43–48 2 – 8 2 – 7 2 – 6 2 – 5 2 – 4 2 – 3 2 – 2 2 – 1 1 – 8 1 – 7 1 – 6 1 – 5 1 – 4 1 – 3 1 – 2 1 – 1 KINEMATICS IN TWO DIMENSIONS; VECTORS Vectors and Scalars Addition of Vectors—Graphical Methods 50 Subtraction of Vectors, and Multiplication of a Vector by a Scalar Adding Vectors by Components Projectile Motion Solving Projectile Motion Problems * Projectile Motion Is Parabolic Relative Velocity Questions, MisConceptual Questions 67–68 Problems, Search and Learn 68–74 DYNAMICS: NEWTON’S LAWS OF MOTION Force Newton’s First Law of Motion Mass Newton’s Second Law of Motion Newton’s Third Law of Motion Weight—the Force of Gravity; and the Normal Force Solving Problems with Newton’s Laws: Free-Body Diagrams Problems Involving Friction, Inclines Questions, MisConceptual Questions 98–100 Problems, Search and Learn 101–8 CIRCULAR MOTION; GRAVITATION Kinematics of Uniform Circular Motion Dynamics of Uniform Circular Motion Highway Curves: Banked and Unbanked * Nonuniform Circular Motion Newton’s Law of Universal Gravitation Gravity Near the Earth’s Surface Satellites and “Weightlessness” Planets, Kepler’s Laws, and Newton’s Synthesis Moon Rises an Hour Later Each Day Types of Forces in Nature Questions, MisConceptual Questions 130–32 Problems, Search and Learn 132–37 5–10 5 – 9 5 – 8 5 – 7 5 – 6 5 – 5 5 – 4 5 – 3 5 – 2 5 – 1 4 – 8 4 – 7 4 – 6 4 – 5 4 – 4 4 – 3 4 – 2 4 – 1 3 – 8 3 – 7 3 – 6 3 – 5 3 – 4 3 – 3 3 – 2 3 – 1 Contents
 
@@ -321,11 +304,7 @@ Antimatter 925–26, 941
 
 Stars and galaxies 947, 948–51 Black holes 956, 962–63 Big Bang 966, 967–70 Evolution of universe 970–73 Dark matter and dark energy 975–77
 
-Student Supplements • MasteringPhysics™ (www.masteringphysics.com) is a homework, tutorial, and assessment system based on years of research into how students work physics problems and precisely where they need help. Studies show that students who use MasteringPhysics significantly increase their final scores compared to hand-written homework. Mastering- Physics achieves this improvement by providing students with instantaneous feedback specific to their wrong answers, simpler sub-problems upon request when they get stuck, and partial credit for their method(s) used. This individualized, 24/7 Socratic tutoring is recommended by nine out of ten students to their peers as the most effective and time-efficient way to study.
-
 • Pearson eText is available through MasteringPhysics. Allow- ing students access to the text wherever they have access to the Internet, Pearson eText comprises the full text, including figures that can be enlarged for better viewing. Within eText, students are also able to pop up definitions and terms to help with vocabulary and the reading of the material. Students can also take notes in eText using the annotation feature at the top of each page.
-
-• ActivPhysics OnLine™ (accessed through the Self Study area within www.masteringphysics.com) provides students with a group of highly regarded applet-based tutorials.
 
 Preface What’s New?
 
@@ -472,8 +451,6 @@ Finally, I am grateful to the many people at Pearson Education with whom I worke
 The final responsibility for all errors lies with me. I welcome comments, correc- tions, and suggestions as soon as possible to benefit students for the next reprint.
 
 D.C.G.
-
-email: Jim.Smith@Pearson.com Post: Jim Smith 1301 Sansome Street San Francisco, CA 94111 About the Author Douglas C. Giancoli obtained his BA in physics (summa cum laude) from UC Berkeley, his MS in physics at MIT, and his PhD in elementary particle physics back at UC Berkeley. He spent 2 years as a post-doctoral fellow at UC Berkeley’s Virus lab developing skills in molecular biology and biophysics. His mentors include Nobel winners Emilio Segrè and Donald Glaser.
 
 He has taught a wide range of undergraduate courses, traditional as well as innovative ones, and continues to update his textbooks meticulously, seeking ways to better provide an understanding of physics for students.
 
@@ -5517,8 +5494,6 @@ C H A P T E R Dynamics: Newton’s Laws of Motion A space shuttle is carried out
 
 According to Newton’s third law, these ejected gases exert an equal and opposite force on the rockets in the forward direction. It is this “reaction” force exerted on the rockets by the gases, labeled that accelerates the rockets forward.
 
-F B RG, F B GR ©F B = ma B.
-
 ## CONTENTS
 
 4–1 Force 4–2 Newton’s First Law of Motion 4–3 Mass 4–4 Newton’s Second Law of Motion 4–5 Newton’s Third Law of Motion 4–6 Weight—the Force of Gravity; and the Normal Force 4–7 Solving Problems with Newton’s Laws: Free-Body Diagrams 4–8 Problems Involving Friction, Inclines RG RG F B GR F B CHAPTER-OPENING QUESTIONS—Guess now!
@@ -5661,8 +5636,6 @@ One newton is the force required to impart an acceleration of to a mass of 1 kg.
 
 It is very important that only one set of units be used in a given calculation or Problem, with the SI being what we almost always use. If the force is given in, say, newtons, and the mass in grams, then before attempting to solve for the acceleration in SI units, we must change the mass to kilograms. For example, if the force is given as 2.0 N along the x axis and the mass is 500 g, we change the latter to 0.50 kg, and the acceleration will then automatically come out in when Newton’s second law is used: where we set .
 
-1 N = 1 kgms2 ax = ©Fx =
-
 ## 2.0 N
 
 ## 0.50 kg
@@ -5682,14 +5655,6 @@ It is very important that only one set of units be used in a given calculation o
 1 cm = 10–2 m, 1 g = 10–3 kg 1 dyne = 1 gcms2.
 
 1 cms2 1 N = 1 kgms2.
-
-1 ms2 Fnet = ma Fnet , ©F ©F ©F = ma.
-
-©Fx = max,  ©Fy = may,  ©Fz = maz.
-
-F B ©F B = ma B.
-
-©F B F B © ©F B a B a B = ©F B ,
 
 ## SECTION 4–4
 
@@ -5725,13 +5690,9 @@ SOLUTION (a) The car’s acceleration is We use Newton’s second law to get the
 
 APPROACH We use Newton’s second law, to determine the force, but first we need to calculate the acceleration a. We assume the acceleration is constant so that we can use the kinematic equations, Eqs. 2–11, to calculate it.
 
-©F = ma, 100 kmh EXAMPLE 4;3 ©F = ma  L   (0.2 kg)A5 ms2B = 1 N.
-
 m = 200 g = 0.2 kg,
 
 ## 4.45 Nlb
-
-©F = ma  L (1000 kg)A5 ms2B = 5000 N.
 
 a = 1 2 g = 1 2 A9.8 ms2B L 5 ms2.
 
@@ -5756,10 +5717,6 @@ EXERCISE A Suppose you watch a cup slide on the (smooth) dashboard of an acceler
 a
 
 ## B Z
-
-©F B = 0, ©F B = ma B 11,000 N.
-
-©F = ma = (1500 kg)A –7.0 ms2B = –1.1 * 104 N, a = v2 - v0 2(x - x0)
 
 = 0 - (27.8 ms)2 2(55 m)
 
@@ -5829,8 +5786,6 @@ and have the same magnitude (Newton’s third law), and the minus sign reminds u
 
 Note carefully that the two forces shown in Fig. 4–11 act on different objects—to emphasize this we used slightly different colors for the vector arrows representing these forces. These two forces would never appear together in a sum of forces in Newton’s second law, Why not? Because they act on different objects: is the acceleration of one particular object, and must include only the forces on that one object.
 
-©F B a B ©F B = ma B.
-
 F B PG F B GP F B GP = –F B PG.
 
 F B GP.
@@ -5874,8 +5829,6 @@ EXERCISE D If you push on a heavy desk, does it always push back on you? (a) No.
 (b) Yes. (c) Not unless someone else also pushes on it. (d) Yes, if it is out in space.
 
 (e) A desk never pushes to start with.
-
-F B SG F B SA F B AS, F B AG, F B AS F B AG a B ©F B ©F B = ma B, CONCEPTUAL EXAMPLE 4;5
 
 ## SECTION 4–5
 
@@ -5967,15 +5920,9 @@ Recall that the normal force is elastic in origin (the table in Fig. 4–15 sags
 
 FN = mg - 40.0 N = 98.0 N - 40.0 N = 58.0 N.
 
-©Fy = FN - mg + 40.0 N = 0, a = 0, FN = mg + 40.0 N = 98.0 N + 40.0 N = 138.0 N, ©Fy = FN - mg - 40.0 N = 0.
-
 (a = 0).
 
-©Fy = FN - mg - 40.0 N, mg = 98.0 N.
-
 FN = mg.
-
-FN - mg = 0, ©Fy = may ay = 0 ©Fy = may, ©Fy = FN - mg; ©Fy mg = (10.0 kg)A9.80 ms2B = 98.0 N, EXAMPLE 4;6
 
 ## SECTION 4–6
 
@@ -6015,15 +5962,9 @@ SOLUTION The net force on the box is and if we set this equal to zero (thinking 
 
 What really happens here is that the box accelerates upward ( ) because the net force is not zero. The net force (setting the normal force ) is upward. See Fig. 4–16. We apply Newton’s second law and see that the box moves upward with an acceleration = 0.20 ms2 .
 
-ay = ©Fy =
-
 ## 2.0 N
 
 ## 10.0 kg
-
-= 2.0 N ©Fy = FP - mg = 100.0 N - 98.0 N FN = 0 a Z 0 FN FN FN = –2.0 N.
-
-= FN - 98.0 N + 100.0 N, ©Fy = FN - mg + FP FP = 100.0 N EXAMPLE 4;7
 
 ## CHAPTER
 
@@ -6048,8 +5989,6 @@ mg - FN = 0 a = 0, 0.80m = 52 kg.
 mg = (65 kg)A9.8 ms2B = 640 N.
 
 FN œ = 0.80mg F B N = 0.80mg, FN = mg - 0.20mg FN : mg - FN = m(0.20g).
-
-©F = ma
 
 ## 2.0 ms?
 
@@ -6151,8 +6090,6 @@ x and y components separately. That is, the x compo- nent of the net force on th
 
 Put in numerical values only at the end, and keep track of units.
 
-©Fx = max, ©F B = ma B P R O B L E M
-
 S O L V I N G Newton’s Laws; Free-Body Diagrams
 
 ## 1. Draw a sketch of the situation, after carefully reading
@@ -6203,8 +6140,6 @@ EXERCISE F A 10.0-kg box is dragged on a horizontal frictionless surface by a ho
 
 Tension in a Flexible Cord When a flexible cord pulls on an object, the cord is said to be under tension, and the force it exerts on the object is the tension If the cord has negligible mass, the force exerted at one end is transmitted undiminished to each adjacent piece of cord along the entire length to the other end. Why? Because for the cord if the cord’s mass m is zero (or negligible) no matter what is. Hence the forces pulling on the cord at its two ends must add up to zero ( and ). Note that flexible cords and strings can only pull. They can’t push because they bend.
 
-–FT FT a B ©F B = ma B = 0 FT .
-
 FN FN = 78.0 N.
 
 FN - 98.0 N + 20.0 N = 0, ay = 0.
@@ -6212,8 +6147,6 @@ FN - 98.0 N + 20.0 N = 0, ay = 0.
 FPy 6 mg, FPy = 20.0 N.
 
 mg = (10.0 kg)A9.80 ms2B = 98.0 N FN - mg + FPy = may.
-
-©Fy = may FN.
 
 ## 3.46 ms2
 
@@ -6313,12 +6246,6 @@ mB = 12.0 kg.
 
 mA = 10.0 kg aA = aB = a.
 
-©Fx = FT = mB aB.
-
-FT, ©Fx = FP - FT = mA aA.
-
-©Fx = max F B BN.
-
 F B T, mB g B, FT F B AN mA g B FT FT FP FP EXAMPLE 4;12
 
 ## CHAPTER
@@ -6326,8 +6253,6 @@ F B T, mB g B, FT F B AN mA g B FT FT FP FP EXAMPLE 4;12
 Dynamics: Newton’s Laws of Motion
 
 ## C A U T I O N
-
-For any object, use only the forces on that object in calculating ©F = ma FIGURE 4;22 Example 4–12. (a) Two boxes, A and B, are connected by a cord. A person pulls horizontally on box A with force (b) Free-body diagram for box A. (c) Free-body diagram for box B.
 
 FP = 40.0 N.
 
@@ -6345,13 +6270,9 @@ a = g, AmE Z 0B mC = 0 a = 0, AmE = mCB, = 1000 kg A9.80 ms2 + 0.68 ms2B = 10,
 
 = 1150 kg A9.80 ms2 - 0.68 ms2B = 10,500 N, FT = mE g - mE a = mE(g - a)
 
-a = 0.070g = 0.68 ms2 ©F = ma FT a = 0.070g = 0.68 ms2.
-
 mC AmEB a = mE - mC mE + mC g = 1150 kg - 1000 kg 1150 kg + 1000 kg g = 0.070g = 0.68 ms2.
 
 AmE - mCBg = AmE + mCBa, FT - mC g = mC aC = ±mC a.
-
-FT - mE g = mE aE = –mE a mE aE = –a mC aC = a ©F = ma, FT FT mE FT m E g = (1150 kg)A9.80 ms2B = 11,300 N, mC FT mC g = (1000 kg)A9.80 ms2B = 9800 N, AmCB.
 
 AmEB F B T .
 
@@ -6491,8 +6412,6 @@ SOLUTION The free-body diagram of the box is shown in Fig. 4–27. In the vertic
 
 (e) A force of 40 N will start the box moving since it exceeds the maximum force of static friction, Instead of static friction, we now have kinetic friction, and its magnitude is There is now a net (horizontal) force on the box of magnitude so the box will accelerate at a rate as long as the applied force is 40 N. Figure 4–28 shows a graph that summarizes this Example.
 
-ax = ©F = 11 N
-
 ## 10.0 kg
 
 = 1.1 ms2 F = 40 N - 29 N = 11 N, Ffr = mk FN = (0.30)(98.0 N) = 29 N.
@@ -6501,15 +6420,11 @@ ms FN = (0.40)(98 N) = 39 N.
 
 Ffr = 20 N Ffr = 10 N.
 
-©Fx = FA - Ffr = 0, FA = 10 N, ms FN = (0.40)(98.0 N) = 39 N.
-
 Ffr = 0.
 
 FA = 0 FN = mg = (10.0 kg)A9.80 ms2B = 98.0 N.
 
 FN - mg = 0.
-
-©Fy = may = 0, F B fr, F B A, F B N, mg B, FA FA Ffr, mk = 0.30.
 
 ms = 0.40 EXAMPLE 4;16 mk ms Ffr  ms FN.
 
@@ -6603,13 +6518,7 @@ FT a = mB g - Ffr mA + mB =
 
 FT = Ffr + mA a, FT : FT, mB g.
 
-FT a Z 0, ©FBy = mB g - FT = mB a.
-
 FT.
-
-mB g = (2.0 kg)A9.8 ms2B = 19.6 N ©FAx = FT - Ffr = mA a.
-
-aAx = a ©FAx = mA ax, Ffr = mk FN = (0.20)(49 N) = 9.8 N.
 
 FT, FN = mA g = (5.0 kg)A9.8 ms2B = 49 N.
 
@@ -6669,8 +6578,6 @@ a = (0.41)A9.8 ms2B = 4.0 ms2.
 
 ax = g sin 30° - mk g cos 30° mk = 0.10 u = 30° mg sin u - mkAmg cos uB = max.
 
-max : FN = mg cos u FN : ay = 0 FN - mg cos u = may = 0 ©Fy = may FN FN ax, –x ±x mg sin u - mk FN = max ©Fx = max ax, FGy FGy = –mg cos u FGx = mg sin u, u F B G, F B G = mg B, EXAMPLE 4;21
-
 ## SECTION 4–8
 
 30° F B (a)
@@ -6716,8 +6623,6 @@ Newton’s third law states that whenever one object exerts a force on a second 
 where is the force on object B exerted by object A.
 
 The tendency of an object to resist a change in its motion is called inertia. Mass is a measure of the inertia of an object.
-
-F B BA F B AB = –F B BA ©F B = ma B.
 
 Weight refers to the gravitational force on an object, and is equal to the product of the object’s mass m and the acceleration of gravity (4;3)
 
@@ -7717,10 +7622,6 @@ But be aware that “centripetal force” does not indicate some new kind of for
 
 The term “centripetal force” merely describes the direction of the net force needed to provide a circular path: the net force is directed toward the circle’s center. The force must be applied by other objects. For example, to swing a ball in a circle on the end of a string, you pull on the string and the string exerts the force on the ball. (Try it.) Here, the “centripetal force” that provides the centripetal accelera- tion is tension in the string. In other cases it can be gravity (on the Moon, for example), a normal force, or even an electric force.
 
-aR, (v = constant), ©FR = maR = m v2 r .
-
-©FR aR = v2r, aR ©FR = maR, A©F B = ma BB, aR = 2.78 * 10–4 g, L  0.0003 g.
-
 aR = 2.72 * 10–3 ms2 a g
 
 ## 9.80 ms2 b
@@ -7766,8 +7667,6 @@ mg = (0.150 kg)A9.80 ms2B = 1.5 N, = (0.150 kg) (7.54 ms)2 (0.600 m)
 L   14 N.
 
 FT = m v2 r v = 2prT = 2p(0.600 m)(0.500 s) = 7.54 ms.
-
-aR = v2r (©F)R = maR, F B T f L 0 F B T mg B (T = 0.500 s), EXAMPLE 5;3
 
 ## ESTIMATE
 
@@ -7819,8 +7718,6 @@ FT 2 = m v2 r + mg FT 2 :
 
 v2 FT 2 - mg = m v2 r .
 
-(©F)R = maR mg B,
-
 ## FT
 
 = 3.283 ms L  3.28 ms.
@@ -7834,8 +7731,6 @@ FT 1 = 0 v1 v1
 ## FT
 
 FT 1 + mg = m v1 r .
-
-(©F)R = maR aR.
 
 F B T 1 , mg B, (aR = v2r)
 
@@ -7895,8 +7790,6 @@ with one axis along the acceleration direction.
 
 [radial direction]
 
-©FR = maR = m v2 r .
-
 aR = v2r.
 
 P R O B L E M
@@ -7927,13 +7820,9 @@ AFfrBmax = ms FN = (0.25)(9800 N) = 2450 N.
 
 AFfrBmax = ms FN = (0.60)(9800 N) = 5880 N.
 
-Ffr  ms FN ms = 0.60, (©F)R = maR = m v2 r = (1000 kg) (15 ms)2 (50 m)
-
 = 4500 N.
 
 FN = mg = (1000 kg)A9.80 ms2B = 9800 N.
-
-0 = ©Fy = FN - mg FN FN ms = 0.25.
 
 ms = 0.60; 15 ms (54 kmh).
 
@@ -7990,8 +7879,6 @@ tan u = (14 ms)2 (50 m)A9.8 ms2B = 0.40,  14 ms v = 50 kmh r = 50 m u: tan 
 mg cos u sin u = m v2 r FN sin u = m v2 r , FN cos u  1.
 
 FN  mg FN = mg cos u .
-
-FN cos u - mg = 0 ©Fy = may ay = 0 FN FN aR, 50 kmh?
 
 EXAMPLE 5;7
 
@@ -8205,8 +8092,6 @@ where m is the mass of the satellite. This equation relates the distance of the 
 
 Note that only one force—gravity—is acting on the satellite, and that r is the sum of the Earth’s radius plus the satellite’s height h above the Earth: r = rE + h.
 
-rE G mmE r2 = m v2 r , ©FR = maR v2r.
-
 27,000 km/h (circular orbit)
 
 30,000 km/h (elliptical orbit)
@@ -8288,8 +8173,6 @@ w = mg + mA1 2 gB 2 g a B B [a is + upward]
 w = mg + ma.
 
 w - mg = ma.
-
-©F = ma, w = mg, w - mg = 0, ©F = ma (a = 0),
 
 ## CHAPTER
 
@@ -8395,8 +8278,6 @@ sMS,
 
 (687 d365 d) = 1.88 yr EXAMPLE 5;13 Kepler’s Third Law Derived, Sun’s Mass, Perturbations We will derive Kepler’s third law for the special case of a circular orbit, in which case the mean distance s is the radius r of the circle. (Most planetary orbits are close to a circle.) First, we write Newton’s second law of motion, For F we use the law of universal gravitation (Eq. 5–4) for the force between the Sun and a planet of mass and for a the centripetal acceleration, We v2r.
 
-m1 , ©F = ma.
-
 ## SECTION 5–8
 
 Kepler’s third law assume the mass of the Sun is much greater than the mass of its planets, so we ignore the effects of the planets on each other. Then Here is the mass of a particular planet, its distance from the Sun, and its speed in orbit; is the mass of the Sun, since it is the gravitational attraction of the Sun that keeps each planet in its orbit. The period of the planet is the time required for one complete orbit, which is a distance equal to the circum- ference of a circle. Thus We substitute this formula for into the previous equation: We rearrange this to get (5;7a)
@@ -8412,8 +8293,6 @@ G m1 MS r1 = m1 4p2r1 T1 2 .
 v1 v1 = 2pr1 T1 .
 
 2pr1 , T1 MS v1 r1 m1 G m1 MS r1 = m1 v1 r1 .
-
-©F = ma MS The Sun’s mass determined. Determine the mass of the Sun given the Earth’s distance from the Sun as APPROACH Equation 5–7a relates the mass of the Sun to the period and distance of any planet. We use the Earth.
 
 SOLUTION The Earth’s period is We solve Eq. 5–7a for MS = 4p2rES GTE = 4p2 A1.5 * 1011 mB A6.67 * 10–11 Nm2kg2BA3.16 * 107 sB2 = 2.0 * 1030 kg.
 
@@ -8510,8 +8389,6 @@ In the twentieth century, physicists came to recognize four fundamental forces i
 Physicists have been working on theories that would unify these four forces— that is, to consider some or all of these forces as different manifestations of the same basic force. So far, the electromagnetic and weak nuclear forces have been theoretically united to form electroweak theory, in which the electromagnetic and weak forces are seen as two aspects of a single electroweak force. Attempts to further unify the forces, such as in grand unified theories (GUT), are hot research topics today.
 
 But where do everyday forces fit? Ordinary forces, other than gravity, such as pushes, pulls, and other contact forces like the normal force and friction, are today considered to be due to the electromagnetic force acting at the atomic level. For example, the force your fingers exert on a pencil is the result of electrical repulsion between the outer electrons of the atoms of your finger and those of the pencil.
-
-©F B = ma B, L = =
 
 ## CHAPTER
 
@@ -9407,8 +9284,6 @@ WH = FH(d cos u), u FH = mg = (15.0 kg)A9.80 ms2B = 147 N.
 
 FH - mg = 0.
 
-©Fy = may ay = 0 F B H, mg B, h = 10.0 m, EXAMPLE 6;2
-
 ## P R O B L E M  S O L V I N G
 
 Work done by gravity depends on height of hill (not on angle)
@@ -10287,8 +10162,6 @@ g = (2000 N)(30.6 ms) = 6.1 * 104 W = 61 kW = 82 hp.
 
 g = F v, = 1300 N + 700 N = 2000 N.
 
-= (1400 kg)A0.93 ms2B + 700 N F = max + FR F: max = ©Fx = F - FR.
-
 ax = (30.6 ms - 25.0 ms)
 
 ## 6.0 s
@@ -11149,13 +11022,7 @@ where is the net force applied to the object (the vector sum of all forces actin
 
 Equation 7–2 is a more general statement of Newton’s second law than the more familiar version because it includes the situation in which the mass may change. A change in mass occurs in certain circumstances, such as for rockets which lose mass as they expel burnt fuel.
 
-A©F B = ma BB ©F B = ma B.
-
 a B = ¢v B¢t, = m ¢v B ¢t .
-
-©F B = ¢p B ¢t = B 2 - mv B ¢t = m Av B 2 - v B 1B ¢t ¢t B B ©F B = ma B, ¢t.
-
-¢p B ©F B ©F B = ¢p B ¢t , kgms.
 
 mass * velocity, p = mv.
 
@@ -11170,8 +11037,6 @@ Momentum and Its Relation to Force NEWTON’S SECOND LAW
 ## C A U T I O N
 
 The change in the momentum vector is in the direction of the net force NEWTON’S SECOND LAW †Normally we think of as being a small time interval. If it is not small, then Eq. 7–2 is valid if is constant during that time interval, or if is the average net force during that time interval.
-
-©F B ©F B ¢t
 
 EXERCISE B If the water splashes back from the car in Example 7–2, would the force on the car be larger or smaller?
 
@@ -11265,8 +11130,6 @@ F B = ¢p B B ¢t = p Bœ B - p B B ¢t ¢t F B –F B.
 
 F B.
 
-p B B œ p B A œ p B B  A  = mB v B BB p B A  A  = mA v B AB mB mA C ©  F B ext = 0D mA v B A + mB v B B = mA v B A œ + mB v B B œ .
-
 momentum before = momentum after mA v B A œ + mB v B B œ .
 
 mB v B B œ .
@@ -11288,10 +11151,6 @@ By a system, we simply mean a set of objects that we choose, and which may inter
 forces are those between the objects in the system. The sum of all these “internal” forces within the system will be zero because of Newton’s third law. If there are external forces—by which we mean forces exerted by objects outside the system— and they don’t add up to zero, then the total momentum of the system won’t be conserved. However, if the system can be redefined so as to include the other objects exerting these forces, then the conservation of momentum principle can apply. For example, if we take as our system a falling rock, it does not conserve momentum because an external force, the force of gravity exerted by the Earth, accelerates the rock and changes its momentum. However, if we include the Earth in the system, the total momentum of rock plus Earth is conserved. (This means that the Earth comes up to meet the rock. But the Earth’s mass is so great, its upward velocity is very tiny.)
 
 Although the law of conservation of momentum follows from Newton’s second law, as we have seen, it is in fact more general than Newton’s laws. In the tiny world of the atom, Newton’s laws fail, but the great conservation laws— those of energy, momentum, angular momentum, and electric charge—have been found to hold in every experimental situation tested. It is for this reason that the conservation laws are considered more basic than Newton’s laws.
-
-¢p B = ©F B ¢t = 0, F B + (–F B) = 0 ©F B p B = mA v B A + mB v B B.
-
-(©F B = ¢p B¢t)
 
 p B p B B œ .
 
@@ -11432,8 +11291,6 @@ is chosen so that the area shown shaded in Fig. 7–10 (equal to ) is equal to t
 f * ¢t f ¢t, f Impulse = F B ¢t.
 
 ¢t F B F B ¢t = ¢p B.
-
-¢t, ©F B F B F B = ¢p B ¢t .
 
 EXERCISE F Suppose Fig. 7–9 shows the force on a golf ball vs. time during the time interval when the ball hits a wall. How would the shape of this curve change if a softer rubber ball with the same mass and speed hit the same wall?
 
@@ -12000,8 +11857,6 @@ where is the average force acting during the (usually very short) time interval 
 Total momentum is conserved in any collision as long as any net external force is zero or negligible. If and are the momenta of two objects before the collision and mA v B A œ mB v B B mA v B A Impulse = F B ¢t = ¢p B.
 
 ¢t.
-
-F B Impulse = F B ¢t, ©F B = ¢p B ¢t .
 
 p B = mv B.
 
@@ -12817,10 +12672,6 @@ vA œ = a mA - mB mA + mB bvA, vB œ vA œ mB AvB = 0B vA mA –x
 
 ## 6.5 ms
 
-±x ©F B ext ¢t = ¢p B.
-
-©p B i = ©p B f, ©F B ext = 0 ©F B ext = ¢p B¢t.
-
 ## 4. The gravitational slingshot effect. Figure 7–45 shows the
 
 planet Saturn moving in the negative x direction at its orbital speed (with respect to the Sun) of The mass of Saturn is A spacecraft with mass 825 kg approaches Saturn. When far from Saturn, it moves in the direction at The gravitational attrac- tion of Saturn (a conservative force) acting on the spacecraft causes it to swing around the planet (orbit shown as dashed line) and head off in the opposite direction. Estimate the final speed of the spacecraft after it is far enough away to be considered free of Saturn’s gravitational pull.
@@ -13439,15 +13290,7 @@ t = mr2a.
 
 t = rF = r(mra), = mra.
 
-F = ma atan = ra, ©F = ma, t = rF.
-
-©F = ma.
-
-a r ©t a = ©Fm a r ©F.
-
 a.
-
-©t a r  ©t.
 
 t a F B ⊥ F B ∑∑ * u a FB, FA, F B B FA = 30 N FB = 20 N
 
@@ -13481,15 +13324,7 @@ SOLUTION (a) Both weights are the same distance, 2.0 m, from the axis of rota- t
 
 = 1.3 kgm2 + 142 kgm2 = 143 kgm2.
 
-I = ©mr2 = (5.0 kg)(0.50 m)2 + (7.0 kg)(4.5 m)2 = 20 kgm2 + 28 kgm2 = 48 kgm2.
-
-I = ©mr2 = (5.0 kg)(2.0 m)2 + (7.0 kg)(2.0 m)2 EXAMPLE 8;9 a ©t = Ia.
-
-I = ©mr2 = m1 r1 2 + m2 r2 2 + p .
-
 m1 r1 2 + m2 r2 2 + m3 r3 2 + p .
-
-©mr2 = (1,  2,  3, p ), ©mr2 a ©t = A©mr2Ba ©t,
 
 ## SECTION 8–5
 
@@ -13528,8 +13363,6 @@ For most ordinary objects, the mass is distributed continuously, and the calcu- 
 When calculation is difficult, I can be determined experimentally by measuring the angular acceleration about a fixed axis due to a known net torque, and applying Newton’s second law, Eq. 8–14.
 
 8–6 Solving Problems in Rotational Dynamics When working with torque and angular acceleration (Eq. 8–14), it is important to use a consistent set of units, which in SI is: in in and the moment of inertia, I, in kgm2.
-
-mN; t rads2; a I = ©ta, ©t, a ©mr2 = (©m)R2 = MR2, ©mr2,
 
 ## CHAPTER
 
@@ -13574,10 +13407,6 @@ and other laws or principles as needed.
 ## 8. Do a rough estimate to determine if your answer is
 
 reasonable.
-
-©F B = ma B, kgm2.
-
-mN; t rads2; a ©t = Ia.
 
 P R O B L E M
 
@@ -13629,25 +13458,17 @@ assuming the pulley is a uniform cylinder and using Fig. 8–20c: This is the sa
 
 2 MR2 = 2 (4.00 kg)(0.330 m)2 = 0.218 kgm2.
 
-I = ©t a =
-
 ## 3.85 mN
 
 ## 10.0 rads2
 
 = 0.385 kgm2.
 
-I = ©ta.
-
-©t = Ia, a = ¢v ¢t =
-
 ## 30.0 rads -
 
 ## 3.00 s
 
 = 10.0 rads2.
-
-v = 30.0 rads: a ©t = RFT - tfr = (0.330 m)(15.0 N) - 1.10 mN = 3.85 mN.
 
 tfr = 1.10 mN; RFT F B T F B fr F B T tfr = 1.10 mN
 
@@ -13697,8 +13518,6 @@ tfr = 1.10 mN I = 0.385 kgm2 (m = 1.53 kg)
 
 mg = 15.0 N AI + mR2B AmgR - tfrB a = mgR - tfr I + mR2 .
 
-a: a Ia = ©t = RFT - tfr = R(mg - mRa) - tfr = mgR - mR2a - tfr .
-
 FT = mg - ma = mg - mRa atan = a = Ra.
 
 a, FT = mg - ma.
@@ -13708,12 +13527,6 @@ FT 6 mg.
 (= mg = 15.0 N).
 
 FT, mg - FT = ma.
-
-©F = ma, FT Ia = ©t = RFT - tfr .
-
-FT FT ©F = ma.
-
-©t = Ia, tfr = 1.10 mN a m = wg = 1.53 kg w = 15.0 N EXAMPLE 8;11
 
 ## CHAPTER
 
@@ -13758,10 +13571,6 @@ v = vR Icm = 2 5 MR2, 0 + 0 + MgH = 2 Mv2 + 1 2 Icmv2 + 0.
 Etop = Ebottom (y = 0): v = 0)
 
 v = 0, (y = H, E = 2 Mv2 + 1 2 Icm v2 + Mgy, EXAMPLE 8;12 Icm ke = 2 Mvcm + 1 2 Icm v2, rotational ke = 2 Iv2.
-
-©mr2 = I, v2 = 2 A©mr2Bv2.
-
-ke = ©  A1 2 mv2B = ©  A1 2 mr2v2B v = rv.
 
 ## SECTION 8–7
 
@@ -13833,14 +13642,6 @@ The parts of the object may alter their positions relative to one another, so th
 
 Iv (t = 0), v0 I0 Iv = I0 v0 = constant.
 
-¢L = 0, ¢L¢t ©t ©t = ¢L ¢t = Iv - Iv0 ¢t = I Av - v0B ¢t = I ¢v ¢t = Ia, a = ¢v ¢t = v - v0 ¢t .
-
-¢t, t = 0, v0 ©t = Ia, ¢t.
-
-¢L ©t ©t = ¢L ¢t , ©t = Ia, ©F = ¢p¢t.
-
-©F = ma kgm2s, L = Iv, p = mv, 2 mv2.
-
 2 Iv2,
 
 ## SECTION 8–8
@@ -13856,8 +13657,6 @@ Angular Momentum and Its Conservation NEWTON’S SECOND LAW
 Many interesting phenomena can be understood on the basis of conservation of angular momentum. Consider a skater doing a spin on the tips of her skates, Fig. 8–27. She rotates at a relatively low speed when her arms are outstretched; when she brings her arms in close to her body, she suddenly spins much faster.
 
 From the definition of moment of inertia, it is clear that when she pulls her arms in closer to the axis of rotation, r is reduced for the arms so her moment of inertia is reduced. Since the angular momentum remains constant (we ignore the small torque due to friction), if I decreases, then the angular velocity must increase. If the skater reduces her moment of inertia by a factor of 2, she will then rotate with twice the angular velocity.
-
-Iv I = ©mr2,
 
 ## CHAPTER
 
@@ -14059,15 +13858,9 @@ quantities, comparing them to their translational analogs.
 
 Translation Rotation Connection a I F [*Angular velocity, angular acceleration, and angular momentum are vectors. For a rigid object rotating about a fixed axis, the vectors , and point along the rotation axis. The direction of or is given by the right-hand rule.]
 
-L B V B L B A B V B , ©t = ¢L ¢t ©F = ¢p ¢t ©t = Ia ©F = ma W = tu W = Fd L = Iv p = mv 2 Iv2 ke = 1 2 mv2 t = rF sin u t I = ©mr2 atan = ra a v = rv x = ru u L = constant.
-
-¢L¢t = 0, ©t = ¢L ¢t .
-
 L = Iv.
 
 ke = 2 Mvcm + 1 2 Icm v2 ke = 2 Iv2.
-
-5 MR2, I = 1 2 MR2 I = ©mr2 ©t = Ia, Summary
 
 ## 14. We claim that momentum and angular momentum are
 
@@ -14999,8 +14792,6 @@ We will mainly be dealing with forces that act in a plane, so we usually need on
 
 We saw in Chapter 4 that to solve Problems involving forces, we need to draw a free-body diagram, indicating all the forces on a given object (see Section  4–7).
 
-©Fx = 0,    ©Fy = 0,    ©Fz = 0.
-
 ## CHAPTER
 
 F B F B FIGURE 9–5 Although the net force on it is zero, the ruler will move (rotate). A pair of equal forces acting in opposite directions but at different points on an object (as shown here) is referred to as a couple.
@@ -15027,15 +14818,7 @@ The Second Condition for Equilibrium Although Eqs. 9–1 are a necessary conditi
 
 F B FA F B B F B A FB = FA cos 60° = (231 kg)(g)(0.500) = (115 kg)g = 1130 N.
 
-©Fx = FB - FA cos 60° = 0.
-
-©Fx = 0, FA = (200 kg)g sin 60° = (231 kg)g = (231 kg)(9.80 ms2) = 2260 N.
-
-©Fy = 0 FA sin 60° - (200 kg)(g) = 0 F B A mg = (200 kg)(g), F B B FAy = FA sin 60°.
-
 FAx = –FA cos 60° FA, F B A FB .
-
-FA F B B F B A ©Fy = 0, ©Fx = 0 F B B, F B A , F B B F B A mg = (200 kg)A9.80 ms2B = 1960 N.
 
 F B B F B A EXAMPLE 9;2
 
@@ -15065,10 +14848,6 @@ Rr FP.
 
 r R = FP mg .
 
-mgr = FP R FP Rr FP FP CONCEPTUAL EXAMPLE 9;3 ©t = 0 (v = 0), a, ©t = 0.
-
-©t = Ia,
-
 ## SECTION 9–2
 
 Solving Statics Problems
@@ -15078,8 +14857,6 @@ Solving Statics Problems
 Axis choice for is arbitrary.
 
 All torques must be calculated about the same axis.
-
-©t = 0 r R FP B mg B FIGURE 9–6 Example 9–3. A lever can “multiply” your force.
 
 ## P H Y S I C S  A P P L I E D
 
@@ -15103,8 +14880,6 @@ choose any axis perpendicular to the xy plane that might make the calculation ea
 
 tions allow a maximum of three unknowns to be solved for. They can be forces, distances, or even angles.
 
-– ± ©t = 0, P R O B L E M
-
 S O L V I N G Statics
 
 ## 1. Choose one object at a time for consideration. Make
@@ -15118,8 +14893,6 @@ the forces into their components.
 ## 3. Using letters to represent unknowns, write down the
 
 equilibrium equations for the forces: and assuming all the forces act in a plane.
-
-©Fy = 0, ©Fx = 0
 
 ## P H Y S I C S  A P P L I E D
 
@@ -15155,8 +14928,6 @@ horizontal to the right, with origin at the pivot.
 
 where and .
 
-FB = mB g FA = mA g ©Fy = 0 FN - mA g - mB g - Mg = 0, A= Mg BB F B N, F B B, F B A M = 4.0 kg EXAMPLE 9;4
-
 ## 4. Torque equation. Let us calculate the torque about an axis through the board
 
 at the pivot point, P. Then the lever arms for and for the weight of the board are zero, and they will contribute zero torque about point P. Thus the torque equation will involve only the forces and which are equal to the weights of the children. The torque exerted by each child will be mg times the appropriate lever arm, which here is the distance of each child from the pivot point.
@@ -15179,17 +14950,7 @@ APPROACH We analyze the forces on the beam (the force the beam exerts on each co
 
 F B A F B A FA = –3000 N FB = 15,000 N mg = 12,000 N, FA FB , FA F B B, F B A FA = (4500 kg)g = 44,100 N.
 
-FB = (12,000 kg)g, ©Fy = FA - (1500 kg)g - (15,000 kg)g + FB = 0.
-
-±y ©Fy = 0, FA, FB = (12,000 kg)g = 118,000 N.
-
-FB, ©t = –(10.0 m)(1500 kg)g - (15.0 m)(15,000 kg)g + (20.0 m)FB = 0.
-
-©t = 0 FB.
-
 F B A F B A F B B F B A EXAMPLE 9;5 x = mA mB (2.5 m) = 30 kg 25 kg (2.5 m) = 3.0 m.
-
-mA g(2.5 m) - mB gx = 0, mA g(2.5 m) - mB gx + Mg(0 m) + FN(0 m) = 0 ©t = 0 (–)
 
 F B B (±)
 
@@ -15333,15 +15094,7 @@ tan u = FTyFTx, (u = 30.0°), F B T FHy = a 1.10 m
 
 = 123 N.
 
-FHy : ©t = 0 – AFHyB(2.20 m) + mg(1.10 m) = 0.
-
 FHx Mg B F B T, FHy, Mg B F B T FHx - FTx = 0.
-
-©Fx = 0 FHy + FTy - mg - Mg = 0.
-
-©Fy = 0 ©t = 0.
-
-©Fy = 0, ©Fx = 0, u FT FHy, FHx, F B H.
 
 F B T FT F B H M = 28.0 kg u = 30.0°.
 
@@ -15375,23 +15128,11 @@ FW = (1.5 m)(12.0 kg)A9.8 ms2B
 
 = 44 N.
 
-©t = (4.0 m)FW - (1.5 m)mg = 0.
-
-FW c2 = a2 + b2 x0 = 2(5.0 m)2 - (4.0 m)2 = 3.0 m F B C , FW , FCx ©Fx = FCx - FW = 0.
-
 FCy = mg = 118 N.
-
-©Fy = FCy - mg = 0, FCy FCx, FW , ©t = 0.
-
-©Fy = 0, ©Fx = 0, mg = (12.0 kg)A9.80 ms2B = 118 N FCy FCx F B C F B W.
 
 m = 12.0 kg.
 
-EXAMPLE 9;7 * ©t = 0 FTy = 2  g + Mg = (12.5 kg + 28.0 kg)A9.80 ms2B = 397 N.
-
 FTy –mg(1.10 m) - Mg(2.20 m) + FTy(2.20 m) = 0.
-
-(©t = 0)
 
 FH
 
@@ -15433,8 +15174,6 @@ acts as a fulcrum for this bending position. The “erector spinae” muscles in
 
 FJ = FM - (2.0 kg)g - (5.0 kg)g = 330 N.
 
-©Fy = 0 (= mg = 49 N).
-
 FM = 400 N.
 
 cos 45° FM = (0.15 m)(2.0 kg)g + (0.35 m)(5.0 kg)g
@@ -15444,8 +15183,6 @@ cos 45° FM = (0.15 m)(2.0 kg)g + (0.35 m)(5.0 kg)g
 = (41 kg)g = 400 N.
 
 FM : (0.050 m)FM - (0.15 m)(2.0 kg)g - (0.35 m)(5.0 kg)g = 0.
-
-©t = 0 F B J F B J F B M, F B J F B M EXAMPLE 9;8
 
 ## CHAPTER
 
@@ -15505,15 +15242,11 @@ FV 0.34w wA 2 1 u = 32°.
 
 FVyFVx = 0.61, tan u = FV u FV = 2F2 Vx + F2 Vy = 2.6w.
 
-FVx = 2.25w L  2.3w, ©Fx = FVx - FM cos 18° = 0 FVy = 1.38w L  1.4w, ©Fy = FVy - FM sin 18° - wH - wA - wT = 0 30° - 12° = 18° F B V FM = (0.72 m)(0.07w) + (0.48 m)(0.12w) + (0.36 m)(0.46w)
-
 (0.48 m)(sin 12°)
 
 (sin 60°)
 
 = 2.37w L  2.4w, wT wA, wH, FM – (0.48 m)(sin 60°)AwAB - (0.36 m)(sin 60°)AwTB = 0.
-
-(0.48 m)(sin 12°)AFMB - (0.72 m)(sin 60°)AwHB ©t = 0 w B T w B A, w B H, FM sin 60°.
 
 w B T w B A, w B H, sin 12°, F B M, FV, FM F B V EXAMPLE 9;9 1 : 2 : 3 w B T w B A, w B H, F B V, F B M,
 
@@ -15889,8 +15622,6 @@ FH = 1.5 * 104 N –(2.0 m)A6.0 * 104 NB + (4.0 m)A6.0 * 104 NB - (8.0 m)AFHB = 
 
 FH = 3.0 * 104 N –(2.0 m)A6.0 * 104 NB + (4.0 m)A6.0 * 104 NB - (4.0 m)AFHB = 0.
 
-FH, FV (©t = 0)
-
 FH,
 
 ## 6.0 * 104 N
@@ -15924,8 +15655,6 @@ The two necessary conditions for an object to be in equi- librium are (1) the ve
 It is important when doing statics problems to apply the equilibrium conditions to only one object at a time.
 
 An object in static equilibrium is said to be in (a) stable, (b) unstable, or (c) neutral equilibrium, depending on whether a slight displacement leads to (a) a return to the original position, (b) further movement away from the original position, or (c) rest in the new position. An object in stable equilibrium is also said to be in balance.
-
-Hooke’s law applies to many elastic solids, and states that the change in length of an object is proportional to the ©Fx = 0,  ©Fy = 0,    ©t = 0.
 
 applied force: (9;3)
 

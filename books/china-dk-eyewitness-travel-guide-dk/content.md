@@ -1,25 +1,12 @@
 # China DK Eyewitness Travel Guide DK Z Library
 
-> 来源文件：pre_China_DK_Eyewitness_Travel_Guide_DK_Z_Library.txt
-> 字符数（约）：1652865
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 CHINA EYEWITNESS TRAVEL
 
 CHINA EYEWITNESS TRAVEL
-
-Project Editors  Hugh Thompson, Kathryn Lane Project Art Editor  Gadi Farfour Editor  Vandana Mohindra Designers  Mathew Kurien, Maite Lantaron, Pallavi Narain, Rebecca Milner Picture Researcher  Ellen Root Research Assistant  Monica Yue Hua Ma Map Co-ordinators  Uma Bhattacharya, Casper Morris DTP Designer Jason Little Main Contributors Donald Bedford, Deh-Ta Hsiung, Christopher Knowles, David Leffman, Simon Lewis, Peter Neville-Hadley, Andrew Stone Consultants Christopher Knowles, Peter Neville-Hadley Photographers Demetrio Carrasco, Ian Cumming, Eddie Gerald, Nigel Hicks, Colin Sinclair, Chris Stowers, Linda Whitwham Illustrators Richard Bonson, Stephen Conlin, Gary Cross, Richard Draper, Kevin Goold, Paul Guest, Claire Littlejohn, John Mullany, Chris Orr, Arun Pottirayil Printed in Malaysia by Vivar Printing Sdn. Bhd.
-
-First American Edition, 2005 14 15 16 17 10 9 8 7 6 5 4 3 2 1 Published in the United States by DK Publishing, 345 Hudson Street, New York, New York 10014 Reprinted with revisions 2008, 2010, 2012, 2014 Copyright © 2005, 2014 Dorling Kindersley Limited, London no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of both the copyright owner and the above publisher of this book.
 
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record of this book is available from the Library of Congress.
-
-ISSN 1542-1554 ISBN 978-1-4654-1182-2 Floors are referred to throughout in accordance with American usage; ie the “first floor” is at ground floor level The information in this DK Eyewitness Travel Guide is checked regularly Every effort has been made to ensure that this book is as up-to-date as possible at the time of going to press. Some details, however, such as telephone numbers, opening hours, prices, gallery hanging arrangements and travel information are liable to change. The publishers cannot accept responsibility for any consequences arising from the use of this book, nor for any material on third party websites, and cannot guarantee that any website address in this book will be a suitable source of travel information. We value the views and suggestions of our readers very highly.
-
-Please write to: Publisher, DK Eyewitness Travel Guides, Dorling Kindersley, 80 Strand, London, WC2R 0RL, UK, or email: travelguides@dk.com.
 
 The external boundaries of China as shown in this book are neither correct nor authentic.
 

@@ -1,12 +1,5 @@
 # 光 DK Eyewitness David Burnie Z Library
 
-> 来源文件：pre_Light_DK_Eyewitness_David_Burnie_Z_Library.txt
-> 字符数（约）：170407
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-光 Eyewitness © 2011 Dorling Kindersley Inc 版权所有
-
 Eyewitness 光 ( )
 
 窥视镜（约1780年），用于观看剧场中的观众 格里高利望远镜（约1760年） 蜂蜡蜡烛与19世纪末黄铜烛台 角质镜框铁框眼镜（约1750年） 魔术幻灯（约1895年），用于投射彩色影像 现代彩色幻灯片 原始燃油贝壳灯 19世纪末用于点燃雪茄的“fusees”（引火线） ( )
@@ -16,8 +9,6 @@ Eyewitness 光 ( )
 光盘 用于照明的盖斯勒管 Barton 纽扣（约1830年） Coronet 微型相机（1934年） 原色与间色 剖面折射望远镜 反射式猫眼 DK Publishing, Inc.
 
 ( )
-
-项目编辑 Stephanie Jackson 设计 Gurinder Purewall 设计助理 Marianna Papachrysanthou 排版经理 Joanna Figg-Latham 制作 Eunice Paterson 执行编辑 Josephine Buchanan 资深美术编辑 Neville Graham 特约摄影 Dave King 美国编辑 Charles A. Wills 美国顾问 Harvey B. Loomis 本 Eyewitness® 图书由 Dorling Kindersley Limited 与 Editions Gallimard 共同构思 © 1992 Dorling Kindersley Limited 本版 © 2000 Dorling Kindersley Limited 美国初版，1999年 由 Dorling Kindersley Publishing, Inc. 在美国出版
 
 375 Hudson Street, New York, NY 10014 8 10 9 未经版权所有者事先书面许可，本出版物的任何部分不得以任何形式或通过任何方式（电子、机械、影印、录音或其他方式）复制、存储于检索系统或传播。由 Dorling Kindersley Limited 在英国出版。
 
@@ -40,8 +31,6 @@ I. 书名。II. 丛书。
 QC360.B87   2000   535—dc20 92-7661
 
 CIP
-
-AC ISBN 978-0-7894-4885-9（PLC）   ISBN 978-0-7894-6709-6（ALB）
 
 由新加坡 Colourscan 进行色彩复制 由中国深圳 Toppan Printing Co.（凸版印刷）印制
 
@@ -1930,4 +1919,3 @@ Ann Ronan 图片库 8cl；8bc；10cb；22tr；48cr；62cl。Scala 19c。
 除上面列出的物品，以及第6—7页c、10—11页cr和tr、12—13页c、14tr、26—27页c、38—39页（牛顿环除外）、40—41、42—43、45t、46—47、60—61、62—63页上的物品外，本书中所有照片均为伦敦科学博物馆藏品中的物品。
 
 致谢 （ ）
-

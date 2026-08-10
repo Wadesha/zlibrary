@@ -1,10 +1,10 @@
 {
   "slug": "cambridge-igcse-physics-coursebook",
-  "title": "Cambridge_IGCSE_Physics_Coursebook",
+  "title": "Cambridge IGCSE Physics Coursebook",
   "language": "en",
   "pipeline": "native",
   "source_file": "[MD]Cambridge_IGCSE_Physics_Coursebook.md",
   "source_pdf": "Cambridge IGCSE Physics Coursebook.pdf",
-  "chars": 416413,
+  "chars": 416272,
   "has_fixed": false
 }

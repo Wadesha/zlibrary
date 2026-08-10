@@ -1,23 +1,11 @@
 # 化石（DK 目击者丛书）
 
-> 来源文件：pre_Fossil_DK_Eyewitness_Paul_D_Taylor_Z_Library.txt
-> 字数（约）：151,352
-> 语言：英文
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 ## 关于本书（扉页与目录）
 
 《目击者·化石》（*Eyewitness Fossil*）
 作者：保罗·D·泰勒 博士（Dr. Paul D. Taylor）
 
 本书图片与标本涵盖：始新世鱼类、更新世人类头骨、始新世腹足类、白垩纪恐龙指骨、三叠纪游泳爬行动物、白垩纪锥体（已剖切抛光）；奥陶纪鹦鹉螺类、侏罗纪蛇尾（已抛光成形）；侏罗纪海胆、白垩纪锥体、更新世珊瑚、石炭纪木贼、始新世马尾；现代珊瑚、上新世扇贝、更新世珊瑚；白垩纪蛋白石化的腹足类、白垩纪蜘蛛、蛋白石化的双壳类、恐龙牙、侏罗纪海胆、更新世菊石；白垩纪蠕虫管、苔藓动物；中新世珊瑚、侏罗纪珊瑚（剖切抛光）；石炭纪苔藓动物薄片；现代玉兰花……等等。
-
-出版信息：DK 出版公司（DK Publishing, Inc.），伦敦、纽约、墨尔本、慕尼黑、德里。
-修订版主编：Linda Esposito、Andrew Macintyre；艺术主编：Jane Thomas；类目出版人：Linda Martin；艺术总监：Simon Webb；编辑与资料编纂：Clare Hibbert；艺术编辑：Joanna Pocock；顾问：Kim Bryan。
-摄影：Colin Keates（伦敦自然历史博物馆）。
-本书由 Dorling Kindersley Limited 与 Editions Gallimard 共同构思；美国版于 2004 年由 DK Publishing, Inc.（纽约哈德逊街 375 号，NY 10014）首次出版。
-ISBN 13：978-0-7566-0682-4（精装）；978-0-7566-0681-7（平装）。
-英文版权 © 1990, © 2003 Dorling Kindersley Limited。
 
 目录（Contents）：
 - 化石：真与假
@@ -970,4 +958,3 @@ ISBN 13：978-0-7566-0682-4（精装）；978-0-7566-0681-7（平装）。
 - xenarthran 异关节类
 - Yellowstone 黄石；yolk 卵黄
 - Zanthopsis 黄虾；Zebra 斑马；Zinjanthropus 东非人
-

@@ -5,6 +5,6 @@
   "pipeline": "ocr_md",
   "source_file": "[OCR]华章数学译丛41托马斯大学微积分(Z-Library)_fixed.md",
   "source_pdf": null,
-  "chars": 125200,
+  "chars": 125156,
   "has_fixed": true
 }

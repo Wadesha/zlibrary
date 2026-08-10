@@ -1,10 +1,5 @@
 # DK Eyewitness 瑞士（DK Eyewitness Switzerland）｜Z-Library
 
-> 来源文件：pre_DK_Eyewitness_Switzerland_DK_Eyewitness_Z_Library.txt
-> 字符数（约）：525198
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 瑞士 目击者旅游指南（SWITZERLAND EYEWITNESS）
 
 目录（CONTENTS）
@@ -296,15 +291,6 @@
 从日内瓦的喷泉（Jet d'Eau，第 124 页）出发，向北漫步进入老城，在主广场喝咖啡。拐角处是圣皮埃尔大教堂（Cathédrale Saint-Pierre，第 120 页），登北塔者将获得一览无余的景色作为回报。
 
 下午
-在帕蓬咖啡馆（Café Papon，www.cafepapon.ch）午餐后，乘电车参观红十字国际委员会与红十字红新月博物馆（第 126 页）。
-
-傍晚
-在谢·格雷瓜尔（Chez Grégoire，www.chez-gregoire.ch）享用当代瑞士美食，并在调酒师俱乐部工作室（Atelier Cocktail Club，第 125 页）考验调酒师的技艺。
-
-第 2 天 上午
-乘火车前往洛桑（Lausanne，第 134 页），探索市场（周三和周六，每周）。登上中世纪的市场台阶，参观美丽的教堂（第 132 页）。在 L'Évêché（www.leveche.ch）午餐休息。
-
-下午
 乘 M2 地铁下行至乌希（Ouchy，第 139 页）和引人入胜的奥林匹克博物馆展品（第 138 页）。从那里，轻松漫步至季节性酒吧 La Jetée de la Compagnie（第 139 页）享用开胃酒（apéro）。
 
 傍晚
@@ -327,9 +313,6 @@
 下午
 乘船及时返回蒙特勒午餐，然后经 55 分钟的齿轨铁路登上罗什德奈（Rochers-de-Naye）顶峰，俯瞰日内瓦湖（第 142 页）的绝美景色。
 
-傍晚
-在蒙特勒爵士咖啡馆（Montreux Jazz Café，www.fairmont.com）享用晚餐与饮品。
-
 第 5 天 上午
 乘火车前往制酪小镇格吕耶尔（Gruyères，第 152 页）。品尝其著名奶酪，并在格吕耶尔之家（La Maison du Gruyère）了解其制作过程。然后上山进入中世纪中心。
 
@@ -337,13 +320,6 @@
 午餐享用一份勒格吕耶尔（Le Gruyère）奶酪火锅，并以新鲜的蛋白酥皮和奶油——一道当地特色——收尾。
 
 探索超现实主义艺术家 H R 吉格尔（H R Giger）的博物馆（专为其作品而设）。
-
-傍晚
-返回日内瓦，在热闹的开放式餐厅 L'Adresse（www.ladress.ch）享用清淡晚餐。
-
-西瑞士 5 天游
-第 1 天
-在巴塞尔（第 178 页）乘火车，飞速掠过乡野前往施维茨（Schwyz，第 228 页）——现代瑞士的发源地，中途在楚格（Zug）停留午餐。一到施维茨，入住白玫瑰酒店（Wysses Rössli，wysses-roessli-schwyz.ch），一家俯瞰主广场、陈设传统的 17 世纪酒店。然后找家咖啡馆来一杯提神的樱桃白兰地（Kirsch，樱桃烧酒）；该地区以此闻名。之后，在家族经营的餐厅 Schwyzer-Stübli（www.schwyzer-stubli.ch）享用时令现代菜肴。
 
 第 2 天
 在瑞士宪章博物馆（Museum of the Swiss Charters）待上几小时，那里收藏着瑞士联邦最早的文献。拐角处是瑞士国家博物馆（Schweizerisches Nationalmuseum），有关于 1300 至 1600 年施维茨生活的有趣多媒体展示。乘罗伦弗勒-米滕地区（Rolenflue-Mythenregion）缆车上行（再上行）进行宜人的山中漫步。返回镇上，享用由 Sbrinz（该地区典型奶酪）制成的 Älplermagronen（通心粉和奶酪）晚餐。
@@ -359,19 +335,10 @@
 探索（DISCOVER）　瑞士行程推荐
 中部瑞士 8 天游
 
-第 5 天
-乘蒸汽动力明轮船前往菲茨瑙（Vitznau），登上欧洲第一条齿轨铁路前往里吉山（Mont Rigi，第 226 页）。在瑞士第一间山间客栈里吉库尔姆酒店（Rigi Kulm-Hotel，www.rigikulm.ch）午餐歇脚，享受该地区的众多步行之一。
-
 沿阿尔特-戈尔道（Arth-Goldau）下山乘火车返回卢塞恩。
-
-第 6 天
-乘哥达全景快车（Gotthard Panorama Express）前往弗吕伦（Flüelen），再乘火车到贝林佐纳（第 224 页）参观大城堡（Castelgrande）、科尔巴罗堡（Sasso Corbaro）和蒙特贝罗堡（Montebello）。在蒙特贝罗饥饿时，品尝一些萨拉米——一道当地特色。探索这座宜人的历史名镇，然后短途前往洛迦诺观看马焦雷湖（Lake Maggiore）上的日落。入住华丽的贝尔维德雷酒店（Belvedere，www.belvedere-locarno.com）。
 
 第 7 天
 乘南向火车前往卢加诺（第 220 页），在其美丽的鹅卵石街道间漫步。在卡萨雷特（Cassarete）乘缆车登上布雷山（Monte Brè），远眺卢加诺湖（第 218 页）和远处白雪皑皑的群山。无论什么季节，找一家带露台的餐厅午餐——气温骤降时有舒适的毯子可用。返回市中心，打车前往小镇蒙塔诺拉（Montanola），在 Grotto del Cavic（第 231 页）享用干腌猪肉和一碗葡萄酒——瑞士作家赫尔曼·黑塞（Hermann Hesse）常去之地。
-
-第 8 天
-在 Café a Porter（www.cafe-a-porter.ch）以意大利糕点和利落一口浓缩咖啡补充能量，然后上午参观前维斯孔蒂家族（Visconti）中世纪宫殿中的皮亚扎城堡博物馆（Piazza Castello museum）。搭乘瑞士风景最优美的铁路旅程之一——百谷（Centovalli）线。这条窄轨线路通往多莫多索拉（Domodóssola），在令人心惊的桥梁和高架桥上跨越众多山谷，在数百英尺下的河流上方穿行于树林间。在多莫多索拉换乘，返回苏黎世或巴塞尔。
 
 1  排列在巴塞尔街道上的漂亮房屋。
 
@@ -388,12 +355,6 @@
 第 1 天
 从日内瓦乘火车前往日内瓦湖畔的罗讷河谷（Rhône Valley），可欣赏法国阿尔卑斯山和拉沃葡萄园梯田的绝佳景色。火车擦过希永城堡（第 146 页）——拜伦勋爵（Lord Byron）诗作《希永的囚徒》（The Prisoner of Chillon）的背景。在马蒂尼（Martigny，第 106 页）下车，参观令人印象深刻的皮埃尔·吉纳达基金会（Fondation Pierre Gianadda），那里举办不断更替的世界级艺术展览。入夜，看夕阳在罗马圆形剧场的废墟上落下，然后享用传统的柴火烤拉克莱特（raclettes）。
 
-第 2 天
-早餐后，从马蒂尼乘支线铁路前往勒沙布莱（Le Châble），再乘缆车前往著名滑雪度假地韦尔比耶（Verbier，第 106 页）。若想更壮观的景色，挑战欧洲最大的缆车前往蒙特福尔（Mont Fort）。冬季在初学者坡和巨大雪丘上考验自己，歇息时来杯热气腾腾的热巧克力。天气转暖时，该地区同样以优质的徒步小径和自行车道闻名。返回马蒂尼，沿罗讷河谷东行前往洛伊克（Leuk）。从那里邮政巴士会带你沿蜿蜒的山路前往洛伊克巴德（Leukerbad，第 113 页）的温泉之一，如阿尔卑斯之源（Les Sources des Alpes，www.sourcesdesalpes.ch）。
-
-第 3 天
-在温泉中慵懒地上午疗养，然后漫步历史村落。在小酒馆享用上好的熟肉制品（charcuterie），之后在通往盖米山口（Gemmipass）的旧贸易路线上检验体能，这条路之字形上山，视野愈发开阔。山顶是历史悠久的施瓦岑巴赫山间酒店（Berghotel Schwarzenbach，www.schwarenbach.ch），它启发了居伊·德·莫泊桑（Guy Maupassant）的短篇小说《L'Auberge》。返回酒店，晚餐前在温泉泳池中快速畅游一下。
-
 第 4 天
 继续东行前往菲斯普（Visp），乘便捷的窄轨铁路上行至无车度假地采尔马特（第 90 页）及其标志性山峰马特洪峰。引人入胜的
 
@@ -402,15 +363,8 @@
 
 马特洪峰博物馆（Matterhorn Museum）讲述了 1865 年首次登顶周围的传奇故事，并描述这座山峰独特的轮廓如何变得如此闻名。从采尔马特镇出发最好的步行之一，是前往施瓦茨湖（Schwarzee）及其小教堂的马特洪峰步道（Matterhorn Trail），途经茨穆特（Zmutt）村，那里的餐厅供应瓦莱（Valaisian）特色菜。在蒙特罗萨酒店（Monte Rosa hotel，第 105 页）喝一杯（或住下）——著名登山家爱德华·怀伯尔（Edward Whymper）在命运般的马特洪峰攀登前曾下榻于此。
 
-第 5 天
-早起乘戈尔内格拉特铁路（Gornergratbahn）观看马特洪峰最精美观景点的黎明破晓，并在戈尔内格拉特库尔姆酒店（Kulmhotel Gornergrat，www.gornergrat-kulm.ch）快速早餐。踏上 360 步道（360 Trail）欣赏蒙特罗萨峰群（Monte Rosa massif，第 112 页）和 29 座山峰的全景，或者，若你精力充沛，尝试更长的五湖步行（Five Lakes Walk）。之后，从采尔马特乘火车到莫雷尔（Morel），再乘缆车上行至里德阿尔普（Riederalp），阿莱奇冰川（第 94 页）的门户。
-
 第 6 天
 早餐后，乘缆车前往穆奥斯弗卢（Moosfluh），开始壮观的阿莱奇全景步道（Aletsch Panoramaweg），一条 12 公里（7 英里）的步行道，沿着 23 公里（14 英里）的阿莱奇冰川——阿莱奇竞技场世界遗产（Aletsch Arena World Heritage Site）的核心。在里德尔富尔卡（Riederfurka）上方的里德阿尔普（Riederalp）的卡塞尔别墅（Villa Cassel）享用提神的下午茶；温斯顿·丘吉尔爵士曾是欧内斯特·卡塞尔爵士（Sir Ernest Cassel）度假居所的常客。
-
-回到里德阿尔普，在 Derby 餐厅和酒吧（www.derby-riederalp.ch）享用美味的当地火锅（chinoise，涮锅）和拉克莱特（raclettes），然后在整个滑雪季现场演奏的音乐中尽情摇摆。
-
-在瑞士阿尔卑斯俱乐部（www.sac-cas.ch）散布于该地区的木屋之一过夜。
 
 第 7 天
 前往莫雷尔乘火车返回日内瓦。或者，花悠闲的一天经安德马特和穿过风景如画的谢伦嫩峡谷（Schöllenen Gorge）前往 Göschenen 的风景路线，沿旧哥达主线（old Gotthard main line）前往苏黎世。
@@ -510,8 +464,6 @@
 主题公园（Theme Parks）
 拥有如此大规模的风景，瑞士对小孩子来说可能令人生畏。
 
-在瑞士微缩公园（Swissminiatur）——卢加诺湖（第 218 页）畔一座露天公园，有袖珍的纪念碑和国家标志模型，以及膝高景致间穿梭的小火车——他们毫无问题。在格劳宾登，孩子们可以回到过去，在海蒂村（Heididorf，www.heididorf.ch）重演瑞士最小的探险家海蒂的冒险。
-
 内部贴士（INSIDER TIP）
 高海拔的婴儿（Babies at High Altitude）
 在瑞士带着小朋友旅行比你想象的容易。六岁以下儿童免费乘火车，而且常有放置婴儿车的空间。度假小镇的旅游办事处有婴儿车友好步道的信息，若背娃不可行。换尿布设施很常见，一些餐厅提供高脚椅。
@@ -530,10 +482,6 @@
 你知道吗？（Did You Know?）
 
 巧克力是瑞士人的主要财富来源；著名品牌包括雀巢（Nestlé）、瑞士莲（Lindt）和三角（Toblerone）。
-
-迈松·卡耶（Maison Cailler）著名工厂的巧克力工坊
-巧克力之死（Death by Chocolate）
-瑞士人不会让你忘记牛奶巧克力是 1880 年代在瑞士发明的，而且可以参观全国数十家工厂和手工巧克力店，了解他们如何做到。在格吕耶尔附近的迈松·卡耶历史性的布罗克（Broc）巧克力工厂（www.cailler.ch）发掘甜蜜的历史，或参观弗拉维尔（Flawil）的迈斯特拉尼巧克力园（Chocolarium of Maestrani，www.chocolarium.ch）；它是瑞士唯一让你进入生产车间的巧克力工厂。
 
 为健康生活欢呼（A Hosanna to Healthy Living）
 由著名瑞士医生比尔克-本纳（Dr Bircher-Benner）博士创立，比尔克穆斯利（Birchermuesli）迅速改变了世界的早餐方式。这简单的餐食由磨碎的苹果、肉桂、燕麦片、种子、坚果和团块酸奶制成——旨在通过对更好饮食对抗结核病的不良影响——可在每家酒店自助餐找到。奇怪的是，它其实从未打算作为早餐，而是作为每餐的开胃菜。
@@ -568,10 +516,6 @@ Food Zürich，五月　十天，150 多场餐饮活动，从滋滋作响的街�
 
 达达主义诞生地（Birthplace of Dadaism）
 苏黎世最著名的艺术时刻出现在第一次世界大战期间，当时一场聚焦反战政治和反资产阶级伦理的反文化运动兴起。它被称为达达主义（Dadaism），其零点今日是伏尔泰酒馆（Cabaret Voltaire，第 171 页）——瑞士最具活力的前卫艺术空间之一和爵士酒吧。
-
-内部贴士（INSIDER TIP）
-漫画收藏（Comic Collection）
-巴塞尔的卡通博物馆（Cartoon Museum，www.cartoonmuseum.ch）庆祝叙事性绘画，拥有欧洲最多彩的漫画、连环画和图像小说收藏之一。2005 年，这座古怪的博物馆由瑞士建筑师赫尔佐格与德梅隆（Herzog & de Meuron）扩建和重新设计。
 
 苏黎世艺术夜总会伏尔泰酒馆的表演艺术
 访客在巴塞尔艺术博物馆欣赏理查德·朗（Richard Long）的《Stone Line》（1977）
@@ -667,8 +611,6 @@ Food Zürich，五月　十天，150 多场餐饮活动，从滋滋作响的街�
 冒险在召唤（Adventure Awaits）
 结合徒步、攀爬、游泳和速降（abseiling）的最佳元素，溪降（canyoning）是一项令人心跳加速的活动。有时，它也是进入这个国家隐秘角落的唯一方式。
 
-瑞士顶级的溪降点包括 Valle Verzasca（第 230 页）和附近的 Valle Maggia（第 231 页），那里的 Val Grande 溪降路线涵盖岩石水潭和瀑布。瑞士河流探险（Swiss River Adventures，www.swissriveradventures.ch）向初学者传授诀窍。
-
 你知道吗？（Did You Know?）
 
 滑翔伞者利用太阳辐射产生的上升气流升空，这种技术称为"热气流飞行"（thermalling）。
@@ -762,9 +704,6 @@ J R R 托尔金与劳特布龙嫩（Tolkien and Lauterbrunnen）
 
 然后是《黄金眼》（1995）中跨越 Contra 大坝的惊人一跃。
 
-玛丽·雪莱与日内瓦（Mary Shelley and Geneva）
-哥特作家玛丽·雪莱在 1816 年于日内瓦湖畔停留的一个黑暗暴风雨之夜，被挑起写一则鬼故事，由此诞生了受诅咒（且被追猎）的科学家维克多·弗兰肯斯坦。结果便是 instant 恐怖经典《弗兰肯斯坦》，它已在整个瑞士西端被纪念。参观日内瓦的 Plainpalais 地区观看弗兰肯斯坦怪物的雕像；雪莱最初萌生念头的私人迪奥达蒂别墅（Villa Diodati）的庭院；以及马丁·博德默基金会（Martin Bodmer Foundation，www.fondationbodmer.ch），它收藏了与这本书创作相关的档案。
-
 Piz Gloria 的露台，俯瞰阿尔卑斯山的壮丽山景
 内部贴士（INSIDER TIP）
 执照去 chill（Licence to Chill）
@@ -774,13 +713,6 @@ Piz Gloria 的露台，俯瞰阿尔卑斯山的壮丽山景
 你知道吗？（Did You Know?）
 
 邦德制作团队出资完成了 Piz Gloria，换取拍摄权。
-
-探索（DISCOVER）　瑞士随心游
-登机呼叫（Boarding Call）
-滑雪是瑞士的首选运动，然而，也有一些度假地偏爱单板滑雪者。凭借四座雪场公园、一条自由式斜坡和欧洲最大的半管（half-pipe），Flims Laax Falera 是为单板者而建。在展示你的动作前，与 LAAX 学校（www.laaxschool.com）上一课。少女峰地区的格林德尔瓦尔德（第 102 页）是新手骑士的最佳选择之一。
-
-酷跑（Cool Runnings）
-肾上腺素成瘾者？游览圣莫里茨的克雷斯塔跑道（Cresta Run），那里举办了首次竞技无舵雪橇和雪橇比赛，试试你的钢架雪车（skeleton bobsledding，www.cresta-run.com）。
 
 如果你想要更温和些，租一辆平底雪橇或 velogemel。
 
@@ -2061,8 +1993,6 @@ Lötschberg
 
 ## 因特拉肯（INTERLAKEN）
 
-! C4–D4   ⌂ 伯尔尼（Bern）   £ 因特拉肯东站（Interlaken Ost）、因特拉肯西站（Interlaken West） n 因特拉肯：Marktgasse 1；www.interlaken.ch 因特拉肯坐落于图恩湖（Thunersee，见第86页）与布里恩茨湖（Brienzersee，见第88页）之间一块狭长的土地上，其名源于12世纪在此建立的修道院，名为"Inter Lacus"，拉丁语意为"湖之间"。如今作为热门度假地，该镇是冬季滑雪者、夏季登山者与徒步者，以及希望充分利用周边湖泊的游客的理想基地。
-
 ## 绝佳视野
 
 高处 从俯瞰因特拉肯的哈德库尔姆（Harder Kulm）山顶，可见艾格尔、门希（Mönch）与少女峰（Jungfrau）。双湖桥（Two Lakes Bridge）从玻璃地板平台提供 stunning 视野。
@@ -2206,8 +2136,6 @@ S S E Reformierte Kirche Tourismuseum Heimwehfluh Kunsthaus Interlaken Bödeliba
 图恩迷人的木屋，簇拥在图恩湖畔
 
 ## 图恩与图恩湖（THUN AND THUNERSEE）
-
-! C4–D4   ⌂ 伯尔尼（Bern）   £  g   n 火车站（Bahnhof）；www.thun-tourismus.ch 图恩湖（Thunersee）以其绿松石般的湖水闻名，是环绕因特拉肯的两座湖泊中较大的一座，提供包括帆船与潜水在内的众多水上运动。其北端、阿勒河畔坐落着集市城镇图恩，其起源可上溯至1191年，当时扎林根（Zähringen）公爵贝托尔德五世在此建造了一座山顶城堡。
 
 您知道吗？
 
@@ -2367,8 +2295,6 @@ S E
 
 除1865年首次成功登顶的复原场景外，还有未能成功的一些登山者的个人物品。收藏还向您展示19世纪的登山探险如何改变了这座城镇。
 
-! C5   ⌂ 瓦莱（Valais）   £   n Bahnhofplatz, Zermatt；www.zermatt.ch 海拔4,478米（14,692英尺）的马特宏峰是瑞士最著名的山峰。位于其脚下的田园小村采尔马特（Zermatt），在19世纪末迅速发展，以服务攀登这座山峰的登山者。
-
 如今，它是一座重要的滑雪度假地，拥有欧洲最大的雪道网络。攀登、徒步、冰川滑雪与单板滑雪的机会也比比皆是。
 
 ## 行家贴士
@@ -2485,8 +2411,6 @@ S E
 
 ## 阿莱奇冰川（ALETSCH GLACIER）
 
-! D5   ⌂ 瓦莱（Valais）   £ 少女峰山口（Jungfraujoch）   n Bahnhofstrasse 7, Riederalp；www.aletsch.ch 这条广阔的冰河从少女峰地区延伸逾23公里（14英里）直至马萨峡谷（Massa Gorge），是阿尔卑斯山最长的冰川，也是瑞士所有永恒冰原中最壮观的。
-
 体验  中部高原、伯尔尼高地与瓦莱
 
 ## 气候变化（CLIMATE CHANGE）
@@ -2525,13 +2449,9 @@ S E
 
 在令人惊叹的雪峰背景下于厄施宁湖波光粼粼的水面上泛舟 必看
 
-奥尔滕（Olten） ! D3–D4   ⌂ 索洛图恩（Solothurn）   £ @ n Frohburgstrasse 1；www.oltentourismus.ch 小镇奥尔滕坐落于阿勒河畔如画的位置。
-
 通往城镇老区的步行通道由阿尔特桥（Alte Brücke）提供——一座可追溯至1802年的廊桥。
 
 老城以一座在19世纪被拆除的教堂的高耸哥特式钟楼为主导。镇上有许多精美的历史建筑，尤其在上主街（Hauptgasse）与老城河岸一带。同样值得关注的是17世纪的修道院教堂与新古典主义的市教堂（Stadtkirche），后者建于1806–12年，装饰有绘图师兼漫画家马丁·迪斯特利（Martin Disteli）的精细画作。这位本地艺术家的许多作品，以及19、20世纪的绘画、装置与雕塑，在艺术博物馆（Kunstmuseum）中展出。
-
-艺术博物馆 "   ⌂ Kirchgasse 8 # 周二至周五 2–5pm，周六及周日 10am–5pm   ∑ kunst-museum-olten.ch 索洛图恩（Solothurn） ! C3   ⌂ 索洛图恩（Solothurn）   £ @ n Hauptgasse 69；www.solothurn-city.ch 索洛图恩被誉为瑞士最美丽的巴洛克城市，由凯尔特人建立，后来成为阿尔卑斯山以北第二大的罗马城镇。从这里我们出发前往比尔/比安（Biel/Bienne）的船只，探索阿勒河一段格外风景如画的河段。
 
 索洛图恩气势恢宏的新古典主义圣乌尔森大教堂（St Ursen Kathedrale）建于1763至1773年，两侧是描绘城市守护圣徒乌尔苏斯（Ursus）与维克多（Victor）的浮雕——他们被罗马人殉道。地下墓室的宝库仅对导览游开放。攀登钟楼值得一游，可俯瞰屋顶与周边乡村的辽阔景色。
 
@@ -2540,8 +2460,6 @@ S E
 镇上小型美术馆艺术博物馆（Kunstmuseum）藏有一些精美的老大师作品，包括小汉斯·霍尔拜因（Hans Holbein the Younger）1522年的《索洛图恩圣母》（Madonna of Solothurn）。
 
 费迪南·霍德勒1897年绘制的威廉·泰尔（William Tell）从云中现身、极具戏剧性的画作堪称标志性。
-
-圣乌尔森大教堂 '   ⌂ Hauptgasse   § 032 626 46 46   # 教堂：每日 8am–6:30pm；钟楼：4月–10月：周一至周六 9:30am–5:30pm，周日 noon–5:30pm 老军械库 "   ⌂ Zeughausplatz 1 # 周二至周六 1–5pm，周日 10am–5pm   ∑ museum-alteszeughaus.so.ch 艺术博物馆 "   ⌂ Werkhofstrasse 30 # 周二至周日 11am–5pm，周六及周日 10am–5pm ∑ kunstmuseum-so.ch 魏森施泰因（Weissenstein） ! C3   ⌂ 索洛图恩（Solothurn）   v 从奥伯多夫（Oberdorf）出发   n Hauptgasse 69 Solothurn；www.solothurn-city.ch 中部高原最壮观的一些景色可从魏森施泰因山顶欣赏——这是汝拉山脉的一道山脊，如城墙般隆起，高
 
 ## 更多体验（EXPERIENCE MORE）
 
@@ -2554,8 +2472,6 @@ S E
 可经公路或铁路抵达奥伯多夫，从那里您既可徒步登顶，也可乘坐缆索车厢（周一、周二关闭）。
 
 山脊上是 newly 翻修的魏森施泰因库尔豪斯酒店（Kurhaus Weissenstein），设有餐厅。这是夏季徒步、攀岩与滑翔伞，以及冬季雪橇的好基地。该地区的其他景点还包括一座植物园与尼德洛赫（Nidleloch）石灰岩洞穴。
-
-比尔/比安（Biel/Bienne） ! C3   ⌂ 伯尔尼（Bern）   £ @ g n Bözingenfeld/Champ；www.biel-seeland.ch 比尔（法语称 Bienne）是伯尔尼州第二大的城镇。
 
 它建于13世纪，受巴塞尔主教统治直至19世纪。比尔/比安的主要产业是制表，其工厂生产一些世界领先品牌，如欧米茄（Omega）与劳力士（Rolex）。它是瑞士最大的双语城镇：五分之三的居民说法语，其余说德语。
 
@@ -5247,7 +5163,7 @@ ZSG ⌂ Mythenquai 333   ∑ zsg.ch
 
 斯帕伦门 Spalentor ⌂ Spalenvorstadt   v 3 @ 30、33 这座纪念碑式的哥特式城门矗立在巴塞尔河畔老城的入口处，俯临大教堂的雄伟身姿。
 
-1 \ - = 
+1 \ - =
 
 ## 巴塞尔 BASEL
 
@@ -10178,4 +10094,3 @@ Shutterstock.com：Eva Bocek 101br。
 请通过 travelguides@dk.com 与我们联系。
 
 本版更新者 撰稿人 Craig Turp 高级编辑 Alison McGill 高级设计师 Stuti Tiwari Bhatia, Laura O'Brien, Ben Hinks 项目编辑 Dipika Dasgupta, Rebecca Flynn 项目艺术编辑 Ankita Sharma 编辑 Nayan Keshan, Arushi Mathur, Anuroop Sanwalia, Manjari Thakur 图片研究经理 Taiyaba Khatoon 图片研究助理 Vagisha Pushp 封面协调 Bella Talbot 封面设计 Jordan Lambley 制图 Ashif 制图经理 Suresh Kumar 高级制图师 Subhashree Bharati 高级DTP设计 Tanveer Zaidi 高级制作编辑 Jason Little 制作控制 Kariss Ainsworth 副主编 Beverly Smart 主编 Shikha Kulkarni, Hollie Teague 艺术主编 Bess Daly 高级艺术主编 Priyanka Thakur 艺术总监 Maxine Pedliham 出版总监 Georgina Dee
-

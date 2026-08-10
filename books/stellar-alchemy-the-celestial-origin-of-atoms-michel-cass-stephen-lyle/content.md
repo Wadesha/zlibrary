@@ -1,10 +1,5 @@
 # Stellar alchemy the celestial origin of atoms Michel Cass Stephen Lyle Z Library
 
-> 来源文件：pre_Stellar_alchemy_the_celestial_origin_of_atoms_Michel_Cass_Stephen_Lyle_Z_Library.txt
-> 字符数（约）：504881
-> 语言：mix
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Stellar Alchemy The Celestial Origin of Atoms
 
 Why do the stars shine? What messages can we read in the light they send to us from the depths of the night? Nuclear astrophysics is a fascinating discipline, and enables connections to be made between atoms, stars and human beings. Through modern astronomy, scientists have managed to unravel the full history of the chemical elements, and to understand how they originated and evolved into all the elements that compose our surroundings today. The transformation of metals into gold, something once dreamed of by alchemists, is a process commonly occurring in the cores of massive stars. But the most exciting revelation is the intimate connection that humanity itself has with the debris of exploded stars. This engaging account of nucleosynthesis in stars, and the associated chemical evolution of the Universe, is suitable for the general reader.

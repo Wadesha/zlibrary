@@ -1,17 +1,6 @@
 # Maths Lab Exciting Projects for Budding Mathematicians Dorling Kindersley Z Library
 
-> 来源文件：pre_Maths_Lab_Exciting_Projects_for_Budding_Mathematicians_Dorling_Kindersley_Z_Library.txt
-> 字符数（约）：155133
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-Senior editors Michelle Crane, Sam Kennedy Senior designer Stefan Podhorodecki Editor Rachel Thompson Designers Mik Gates, Jim Green Illustrator Simon Tegg Managing editor Fran Baines Managing art editor Phil Letsu Production editor Kavita Varma Senior production controller Samantha Cross Jacket designer Tanya Mehrotra Design development manager Sophia MTT Managing jackets editor Saloni Singh Jackets editorial coordinator Priyanka Sharma Jacket DTP designer Rakesh Kumar Picture researcher Myriam Megharbi Publisher Andrew Macintyre Associate publishing director Liz Wheeler Art director Karen Self Publishing director Jonathan Metcalf Consultant Branka Surla Photographers Stefan Podhorodecki, Michael Wicks First published in Great Britain in 2021 by Dorling Kindersley Limited DK, One Embassy Gardens, 8 Viaduct Gardens, London, SW11 7BW The authorised representative in the EEA is Dorling Kindersley Verlag GmbH. Arnulfstr. 124, 80636 Munich, Germany Copyright © 2021 Dorling Kindersley Limited A Penguin Random House Company 10  9  8  7  6  5  4  3  2  1 001–318165–June/2021 No part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner.
-
 A CIP catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-2414-3232-7 Printed and bound in China For the curious www.dk.com This book was made with Forest Stewardship Council ™ certified paper – one small step in DK’s commitment to a sustainable future.
-
-For more information go to www.dk.com/our-green-pledge
 
 EXCITING PROJECTS FOR BUDDING MATHEMATICIANS LAB LAB MATHS MATHS
 

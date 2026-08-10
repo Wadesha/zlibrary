@@ -1,10 +1,5 @@
 # Quantum Mechanics The Theoretical Minimum Leonard Susskind Art Friedman Z Library
 
-> 来源文件：pre_Quantum_Mechanics_The_Theoretical_Minimum_Leonard_Susskind_Art_Friedman_Z_Library.txt
-> 字符数（约）：363536
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 QUANTUM MECHANICS The Theoretical Minimum LEONARD SUSSKIND and ART FRIEDMAN
 
 From the bestselling author of The Theoretical Minimum, a DIY introduction to the math and science of quantum mechanics.
@@ -27,21 +22,13 @@ Leonard Susskind has been the Felix Bloch Professor in Theoretical Physics at St
 
 Art Friedman is a data consultant who previously spent fifteen years at Hewlett-Packard as a software engineer. A lifelong student of physics, he lives in Mountain View, California.
 
-This book is the second volume of the Theoretical Minimum series. The first volume, The Theoretical Minimum: What You Need to Know to Start Doing Physics, covered classical mechanics, which is the core of any physics education. We will refer to it from time to time simply as Volume I. This second book explains quantum mechanics and its relationship to classical mechanics. The books in this series run parallel to Leonard Susskind’s videos, available on the Web through Stanford University (see www.theoreticalminimum.com for a listing). While covering the same general topics as the videos, the books contain additional details, and topics that don’t appear in the videos.
-
 Also by Leonard Susskind The Theoretical Minimum: What You Need To Know to Start Doing Physics (with George Hrabovsky)
 
 The Black Hole War The Cosmic Landscape
 
-Copyright © 2014 by Leonard Susskind and Art Friedman Published by Basic Books, A Member of the Perseus Books Group Books published by Basic Books are available at special discounts for bulk purchases in the United States by corporations, institutions, and other organizations. For more information, please contact the Special Markets Department at the Perseus Books Group, 2300 Chestnut Street, Suite 200, Philadelphia, PA 19103, or call (800) 810–4145, ext. 5000, or e-mail special.markets@perseusbooks.com.
-
-ISBN 978-0-465-03667-7 A Member of the Perseus Books Group www.basicbooks.com s.com.
-
 Designed by Art Friedman and Leonard Susskind Hilbert’s Place drawings were created by Margaret Sloan.
 
 A CIP catalog record for this book is available from the Library of Congress.
-
-ISBN (hardcover): 978-0-465-03667-7 ISBN (ebook): 978-0-465-08061-8 10 9 8 7 6 5 4 3 2 1 For our parents, who made it all possible: Irene and Benjamin Susskind George and Trudy Friedman Contents Prologue xv Introduction xix 1 Systems and Experiments 1 2 Quantum States 35 3 Principles of Quantum Mechanics 51 4 Time and Change 93 5 Uncertainty and Time Dependence 129 6 Combining Systems: Entanglement 149 7 More on Entanglement 183 8 Particles and Waves 235 9 Particle Dynamics 273 10 The Harmonic Oscillator 311
 
 ## Appendix
 

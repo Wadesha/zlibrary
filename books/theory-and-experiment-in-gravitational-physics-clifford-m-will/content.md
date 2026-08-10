@@ -1,10 +1,5 @@
 # Theory and Experiment in Gravitational Physics Clifford M Will Z Library
 
-> 来源文件：pre_Theory_and_Experiment_in_Gravitational_Physics_Clifford_M_Will_Z_Library.txt
-> 字符数（约）：267812
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Theory and Experiment in Gravitational Physics
 
 The 2015 centenary of the publication of Einstein’s general theory of relativity and the first detection of gravitational waves have focused renewed attention on the question of whether Einstein was right.

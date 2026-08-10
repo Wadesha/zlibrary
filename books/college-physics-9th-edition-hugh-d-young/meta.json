@@ -1,10 +1,10 @@
 {
   "slug": "college-physics-9th-edition-hugh-d-young",
-  "title": "College_Physics_9th_Edition_Hugh_D_Young",
+  "title": "College Physics 9th Edition Hugh D. Young",
   "language": "en",
-  "pipeline": "native",
-  "source_file": "[MD]College_Physics_9th_Edition_Hugh_D_Young_Z_Library.md",
+  "pipeline": "ocr_md",
+  "source_file": "College Physics (9th Edition) (Hugh D. Young) (Z-Library).md",
   "source_pdf": null,
-  "chars": 4273585,
+  "chars": 4419767,
   "has_fixed": false
 }

@@ -1,10 +1,10 @@
 {
   "slug": "china-through-time-a-2-500-year-journey-along-the-worlds-greatest-canal-du-fei",
-  "title": "China_Through_Time_A_2_500_Year_Journey_along_the_Worlds_Greatest_Canal_Du_Fei",
-  "language": "zh",
-  "pipeline": "translated",
-  "source_file": "[译]China_Through_Time_A_2_500_Year_Journey_along_the_Worlds_Greatest_Canal_Du_Fei_Z_Library.md",
+  "title": "China Through Time A 2,500 Year Journey along the Worlds Greatest Canal Du Fei",
+  "language": "en",
+  "pipeline": "ocr_md",
+  "source_file": "China Through Time  A 2,500 Year Journey along the Worlds Greatest Canal (Du Fei) (Z-Library).md",
   "source_pdf": null,
-  "chars": 12117,
+  "chars": 35417,
   "has_fixed": false
 }

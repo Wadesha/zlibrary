@@ -1,10 +1,5 @@
 # Physics Experiments with Arduino and Smartphones Giovanni Organtini Z Library
 
-> 来源文件：pre_Physics_Experiments_with_Arduino_and_Smartphones_Giovanni_Organtini_Z_Library.txt
-> 字符数（约）：276556
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Undergraduate Texts in Physics Giovanni Organtini Physics Experiments with Arduino and Smartphones
 
 Undergraduate Texts in Physics Series Editors Kurt H. Becker, NYU Polytechnic School of Engineering, Brooklyn, NY, USA Jean-Marc Di Meglio, Matière et Systèmes Complexes, Université Paris Diderot, Bâtiment Condorcet, Paris, France Sadri D. Hassani, Department of Physics, Loomis Laboratory, University of Illinois at Urbana-Champaign, Urbana, IL, USA Morten Hjorth-Jensen, Department of Physics, Blindern, University of Oslo, Oslo, Norway Michael Inglis, Patchogue, NY, USA Bill Munro, NTT Basic Research Laboratories, Optical Science Laboratories, Atsugi, Kanagawa, Japan Susan Scott, Department of Quantum Science, Australian National University, Acton, ACT, Australia Martin Stutzmann, Walter Schottky Institute, Technical University of Munich, Garching, Bayern, Germany
@@ -13,17 +8,11 @@ Undergraduate Texts in Physics (UTP) publishes authoritative texts covering topi
 
 UTP books will be ideal candidates for course adoption, providing lecturers with a firm basis for development of lecture series, and students with an essential reference for their studies and beyond.
 
-More information about this series at http://www.springer.com/series/15593
-
 Giovanni Organtini Physics Experiments with Arduino and Smartphones
 
 Giovanni Organtini Sapienza Università di Roma Rome, Italy
 
 ISSN 2510-411X ISSN 2510-4128 (electronic)
-
-Undergraduate Texts in Physics ISBN 978-3-030-65139-8 ISBN 978-3-030-65140-4 (eBook)
-
-https://doi.org/10.1007/978-3-030-65140-4 © The Editor(s) (if applicable) and The Author(s), under exclusive license to Springer Nature Switzerland AG 2021 This work is subject to copyright. All rights are solely and exclusively licensed by the Publisher, whether the whole or part of the material is concerned, specifically the rights of translation, reprinting, reuse of illustrations, recitation, broadcasting, reproduction on microfilms or in any other physical way, and transmission or information storage and retrieval, electronic adaptation, computer software, or by similar or dissimilar methodology now known or hereafter developed.
 
 The use of general descriptive names, registered names, trademarks, service marks, etc. in this publication does not imply, even in the absence of a specific statement, that such names are exempt from the relevant protective laws and regulations and therefore free for general use.
 
@@ -435,8 +424,6 @@ Contents
 
 ## 2.3 Systems of Units –
 
-© The Author(s), under exclusive license to Springer Nature Switzerland AG 2021 G. Organtini, Physics Experiments with Arduino and Smartphones, Undergraduate Texts in Physics, https://doi.org/10.1007/978-3-030-65140-4_2
-
 12 Chapter 2 · Establishing a System of Units
 
 When we try to take a measurement, i.e., to attach a number to a physical quantity, we need a unit. A unit is a standard to which the quantity compares. We always use units without many formalities. For example, the height of a person is oftengivenincentimetresorfeet,dependingonthe country;ageisgiveninyears(exceptforveryyoungbabies, forwhomitiscustomarytogiveitinmonths);foodisoften soldinunitsofweight,etc.Inthischapter,weanalysethe problemofdefiningaunitproperlyandwelearnthebasics ofthesystemsofunitsusedinphysics.
@@ -505,8 +492,6 @@ Temperaturescales TheGermanphysicistGabrielFahrenheitproposedatemperaturescalein
 
 Jean-Pierre Cristin subsequently proposed [2] inverting the Celsius scale and called it the Centigrade scale. Nowadays, Celsius and Centigrade are, in practice, synonyms.
 
-Converting between units is made extremely simple through use of the Google search engine (https://www.google.com/). Simply typing the requested conversion into the search input box will result in the proper value, e.g., typing “3.2 miles to km” shows something like “5.15 km”. Conversions between units are easy with Google.
-
 Some computer operating systems also include such a feature. Note that having an easy-to-use tool for effecting conversions does not mean that you can ignore how to do them yourself. This is a general rule: throughout this book, we make use of various automatic tools. However, we always give details about how these tools are implemented. Physicists need to know how their tools work.
 
 Even if tools exist to provide an easy answer to problems, you need to learn how to solve them without their help.
@@ -518,8 +503,6 @@ Even if tools exist to provide an easy answer to problems, you need to learn how
 From the example above, it is clear that defining a unit is not as straightforward as it may appear at first sight. The definition of the units must be stable and independent on as many manufacturing details as possible, however, it is always subject to improvement and, if needed, can be redefined. Units must be agreed upon by everybody working in the field and their definition has been assigned to an international body called the Bureau International des Poidset Mesures (BIPM), based in Sèvres (France) following the first adoption of the metric system in 1799, after the French Revolution. The metric system was first introduced in order to define units based on natural dimensions. For example, the unit of length, the meter (symbol: m), was initially defined as one ten-millionth of the distance between the equator and the North Pole, measured along a great circle.
 
 The BIPM (Bureau International des Poidset Mesures) is in charge of the precise definition of units.
-
-If possible, units are defined in terms of fundamental constants. Since then, researchers have tried to define fundamental units in terms of universal constants. The meter, for example, is now defined as “the length of the path travelled by light in vacuum during a time interval with duration of 1/299792458 of a second”, as stated on the BIPM website at https://www.bipm.org/.
 
 The International System of units, abbreviated as SI (from its French name Système International), comprises seven fundamental units, namely, the second (s) for time, the meter (m) for length, the kilogram (kg) for mass, the ampère (A) for electrical current, the kelvin (K) for temperature, the mole (mol) for the quantity of matter and the candela (cd) for luminous intensity. It is worth noting that the symbol for the second is just s, not sec, as is often found, and that the unit for temperature is the kelvin, not the “degree kelvin”.
 
@@ -567,8 +550,6 @@ Despite the existence of tools that can provide answers to more or less complex 
 
 A system of units comprises a set of units arbitrarily chosen as base or fundamental units.
 
-The Bureau International des Poidset Mesures (BIPM - https://www.bipm.org/) is the organism responsible for the definition and maintenance of the International System of units (SI).
-
 Fundamental units in SI are the second (s) for time, the meter (m) for length, the kilogram (kg) for mass, the ampère (A) for electrical current, the kelvin (K) for temperature, the mole (mol) for the quantity of matter and the candela (cd) for luminous intensity. Visit the website for definitions.
 
 Units that are fundamental in one system may not be so in another system. For example, lengths are measured in units of time in the natural system of units in which the speed of light c = 1.
@@ -592,8 +573,6 @@ References 1. Celsius, Anders (1742) "Observationer om tvänne beständiga grade
 ## 3.7 Understanding Arduino Programming–35
 
 ## 3.8 Python Data Collection–37
-
-© The Author(s), under exclusive license to Springer Nature Switzerland AG 2021 G. Organtini, Physics Experiments with Arduino and Smartphones, Undergraduate Texts in Physics, https://doi.org/10.1007/978-3-030-65140-4_3
 
 It is now time to start taking some serious measurements. We will avoid boring you with trivial measurements that nobody is interested in. Apart from a few very basic ones, most modern apparatuses for taking measurements are based on electromagnetic phenomena and usually display the results on digital screens. Advanced experiments profit from the ability of computers to interface with external devices so as to control data acquisition, filter that data and provide intermediate results before storing the raw data on files for further analysis. As you are still not used to taking measurements, the problems with which you are presented at this point should be simple ones, however, we will mimic more complex experiments using instruments that work similarly to professional ones.
 
@@ -636,8 +615,6 @@ Both Arduino and phyphox are open source projects. In the case of Arduino, even 
 The open source movement originated in the software realm. The source code of open source software, also called free software, can be inspected, modified and redistributed. This practice has been extended to hardware, in which the construction plans of a device can also be inspected, modified and redistributed. A frequent misconception about open source is that products released under this license are free, in the sense that users do not have to pay to use them (whatever “to use” means). The best definition of what it means for software to be free is given on the GNU project website:
 
 “Free software” means software that respects users’ freedom and community. Roughly, it means that the users have the freedom to run, copy, distribute, study, change and improve the software. Thus, “free software” is a matter of liberty, not price. To understand the concept, you should think of “free” as in “free speech”, not as in “free beer”.
-
-The most common open source licenses are the General Public License or GPL (https://www.gnu.org/) and the Creative Commons or CC (https://creativecommons.org/).
 
 Open source is a great opportunity for learning. Copying source code is encouraged in this course, provided you understand what you are doing and you learn from it. Using the techniques developed in this book, you are going to learn much more than just how to conduct good physical experiments. Our goal is to develop your skills in computing and programming, critical thinking, design and communication.
 

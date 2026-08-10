@@ -98,8 +98,6 @@ Jerry A.
 
 California Natural History Guides No. 111University of California Press Oakland
 
-California© 2020 by Th e Regents of the University of CaliforniaLibrary of Congress Cataloging-in-Publication DataNames
-
 Will, Kipling
 
 1964– author.
@@ -154,10 +152,6 @@ Description: Second edition.
 
 ## Identifi ers
 
-LCCN 2020016309 (print) | LCCN 2020016310 (ebook) | ISBN 9780520288737
-
-(cloth) | ISBN 9780520288744 (paperback) | ISBN 9780520963573 (ebook)
-
 Subjects: LCSH: Insects—California.
 
 Classifi cation: LCC QL475.
@@ -169,8 +163,6 @@ C2 W55 2020 (print) | LCC QL475.
 595.
 
 ## 709794—dc23
-
-LC record available at https://lccn.
 
 loc.
 
@@ -3427,8 +3419,6 @@ Mourning Cloak Butterfly is Nymphalis antiopa (619)
 ## is Nymphalis
 
 californica (618) .
-
-The names are Latinized and are usually printed in ital -
 
 ics.
 

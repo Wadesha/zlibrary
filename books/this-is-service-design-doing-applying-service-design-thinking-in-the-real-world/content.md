@@ -1,23 +1,8 @@
 # This Is Service Design Doing Applying Service Design Thinking in the Real World Stickdorn Marc Hormess Markus Edgar etc Z Library
 
-> 来源文件：pre_This_Is_Service_Design_Doing_Applying_Service_Design_Thinking_in_the_Real_World_Stickdorn_Marc_Hormess_Markus_Edgar_etc_Z_Library.txt
-> 字符数（约）：1143243
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
-This is Service Design Doing EDITED/COLLECTED/WRITTEN/DESIGNED BY: MARC STICKDORN ADAM LAWRENCE MARKUS HORMESS JAKOB SCHNEIDER WITH GENEROUS SUPPORT FROM THE GLOBAL SERVICE DESIGN COMMUNITY This is Service Design Doing APPLYING SERVICE DESIGN THINKING IN THE REAL WORLD A PRACTITIONERS’ HANDBOOK THIS IS SERVICE DESIGN DOING by Marc Stickdorn, Markus Hormess, Adam Lawrence, Jakob Schneider Copyright © 2018 Marc Stickdorn, Markus Hormess, Adam Lawrence. All rights reserved.
-
-Printed in Canada.
-
 Published by O’Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
 
-O’Reilly books may be purchased for educational, business, or sales promotional use. Online editions are also available for most titles (oreilly.com/safari). For more information, contact our corporate/institutional sales department: (800) 998-9938 or corporate@oreilly.com.
-
-Acquisitions Editor: Mary Treseler Developmental Editor: Angela Rufino Production Editor: Melanie Yarbrough Copyeditor: Jasmine Kwityn Proofreader: Rachel Head Indexer: Lucie Haskins Cover Designer: Jakob Schneider Interior Designer: Jakob Schneider Illustrator: Ellie Volckhausen Compositor: Melanie Yarbrough Revision History for the First Edition: 2017-11-30 First release 2018-01-26 Second release 2018-02-23 Third release 2018-08-03 Fourth release See http://oreilly.com/catalog/errata.csp?isbn=0636920040354 for release details.
-
 The O’Reilly logo is a registered trademark of O’Reilly Media, Inc. This is Service Design Doing, the cover image, and related trade dress are trademarks of O’Reilly Media, Inc.
-
-Many of the designations used by manufacturers and sellers to distinguish their products are claimed as trademarks. Where those designations appear in this book, and O’Reilly Media, Inc., was aware of a trademark claim, the designations have been printed in caps or initial caps.
 
 Although the publisher and authors have used reasonable care in preparing this book, the information it contains is distributed “as is” and without warranties of any kind. This book is not intended as legal or financial advice, and not all of the recommendations may be suitable for your situation.
 
@@ -30,8 +15,6 @@ Neither the publisher nor the authors shall be liable for any costs, expenses, o
 KPIs 4 Editors 1 12 Chapters 33 Cases 2 54 Methods online 3 96 Co-authors 4 105 Expert tips and comments 5 205 Contributors 6 547 Footnotes 7 1 The four editors, Marc, Adam, Markus, and Jakob, are also the main authors and the designers of this book. All text that does not name a specific author was written by us. However, we were not alone. More than 300 people helped us to create this book. Besides the co-authors and contributors, many others had important roles. Have a look at the end of the book to find all of them.
 
 2 The 33 case studies describe how service design is used in various industries. They include many photos and key takeaways. Sometimes, we reference a specific case in a footnote as an example of how a specific tool or subject matter is used in practice.
-
-3 Detailed hands-on descriptions of all of the service design methods included in this book are freely available online at href="http://www.thisisservicedesigndoing.com">www.thisisservicedesigndoing.com. You’ll also find short descriptions of the methods at the ends of Chapter 5, Research; Chapter 6, Ideation,
 
 ## Chapter 7; Prototyping; and Chapter 10, Facilitating workshops
 
@@ -55,8 +38,6 @@ This book includes short descriptions of some of the core service design methods
 
 Besides these short method introductions, you can download detailed step- by-step descriptions including hands-on tips, method variants, and examples from the book’s website.
 
-Watch out for this icon: www.tisdd.com Hello There! Preface Where we come from: This book’s predecessor Back in 2010, our book This is Service Design Thinking captured the state of the art. Marc was looking for a comprehensive resource to teach service design to his students, but could only give them URLs and articles spread around the web. So he teamed up with Jakob to create the resource himself.
-
 At the very start, it wasn’t even clear that the result would become a book, but it was clear that the project should be based on a real service design process – we wanted to practice what we preached.
 
 So, we invited 23 co-authors and over 150 online contributors to create the most complete collection of basics, tools, and case studies possible. It soon became clear that only printed matter could inspire the perception of a standard reference. Even more importantly, it would be a snapshot, as we openly acknowledged that service design was and is an evolving field.
@@ -74,8 +55,6 @@ This book now takes that idea of a toolbox further.
 This is Service Design Doing is a handbook of service design – a toolbox, a description of methods, a facilitation guide, packed with cases and examples – giving a clear picture of how you can put all those pieces together. It is a book for “doers,” for people who want to improve customer experience as well as employee experience and the systems that connect all these stakeholders in an organization.
 
 It is also a book that helps you pave the way to doing with both business and design audiences. It gives you enough theory and examples to explain why this approach actually works and how you can tie it into your organization.
-
-The book you have in your hand concentrates on the bigger picture of setting up and running a service design initiative, and the details of facilitating both the project and the room. Many of the individual methods and tools involved – from visualization tools to specific research, ideation, or prototyping methods – are well known or already described in many other books and online resources. Instead of charging you for these “commodities,” we have made the best descriptions we can, added plenty of expert tips, and put them online for free. If you need them, download them from www.thisisservicedesigndoing.com 1 and share the worksheets with your colleagues.
 
 We may call it service design, but many organizations we work with call it something else. This book is not about labels, but about how to get stuff done. How to have an impact on employees, customers, citizens, all of us.
 
@@ -202,8 +181,6 @@ Want to be part of the future.
 My mission is to coach 1 billion people in Design Thinking.
 
 Keep the revolution going! Cheers!
-
-1 Or simply www.tisdd.com.
 
 ## Chapter 1. Why Service Design?
 
@@ -351,13 +328,9 @@ Service design’s borrowed toolset and pragmatic iterative approach uses resear
 
 2 The term “products” describes anything a company offers – no matter if this is tangible or not. In academia, products are often divided into goods and services. However, products are usually bundles of services and physical/digital products. As “goods” is colloquially understood as referring to something tangible, we prefer to speak of physical/digital products. Read more on this in the textbox on Service design and service-dominant logic in 2.5.
 
-3 This six-level model is the authors’ adaptation of Swisscom’s 5 Step Model. See, for example, Oberholzer, G. (2011, May 05). “ Customer Experience – wie vermittle ich das meinen Mitarbeitenden? – CEN-Xchange Mai,” at https://stimmt.ch.
-
 4 Frampton S., Gilpin L., & Charmel P., eds. (2003). “National Patient Satisfaction Data for 2003.” In Putting Patients First: Designing and Practicing Patient-Centered Care. San Francisco, CA: Jossey-Bass.
 
 5 This phenomenon has been well documented and researched since the 1960s – e.g., Herzberg’s theory on motivators and hygiene factors: hygiene factors only contribute to dissatisfaction if they are missing, but do not contribute to satisfaction if they are present, while motivators contribute to satisfaction if hygiene factors are fulfilled. Source: Herzberg, F. (1964). “The Motivation-Hygiene Concept and Problems of Manpower.” Personnel Administration, 27, 3–7. See also the textbox The Kano model in 6.3.
-
-6 Burger and bank examples both from Tincher, J. (2012, May 31). “The First Key to Creating a Great Customer-Inspired Experience,” at https://heartofthecustomer.com.
 
 7 See the textbox on Service-dominant logic in 2.1. See also Vargo, S. L., & Lusch, R. F. (2004).
 
@@ -366,16 +339,6 @@ Service design’s borrowed toolset and pragmatic iterative approach uses resear
 8 See Christensen, C. M., Anthony, S. D., Berstell, G., & Nitterhouse, D. (2007). “Finding the Right Job for Your Product.” MIT Sloan Management Review, 48(3), 38.
 
 9 This was already pinpointed in The Cluetrain Manifesto back in 1999. See Levine, R., Locke, C., Searls, D., & Weinberger, D. (2010). The Cluetrain Manifesto. Basic Books.
-
-10Implisit, reported for example in eMarketer. “Referrals Fuel Highest B2B Conversion Rates.” (2015, February 10) at https://www.emarketer.com.
-
-11See, for example, “The Cost of Poor Customer Service: The Economic Impact of the Customer Experience and Engagement in 16 Key Economies” (September 2009) Genesys, e.g., at www.ancoralearning.com.au.
-
-12See, for example: Watermark (2015). “The Customer Experience ROI Study.” Retrieved from http://www.watermarkconsult.net/docs/Watermark-Customer-Experience-ROI-Study.pdf.
-
-13See, for example, Temkin Group (2012). “The ROI of Customer Experience.” Retrieved from https://temkingroup.com/research-reports/the-roi-of-customer-experience/.
-
-14See, for example, RightNow/Oracle (2011). “Customer Experience Impact Report.” Retrieved from www.oracle.com.
 
 15Research findings support the conclusion that customers have lost their faith in business practices.
 
@@ -396,8 +359,6 @@ In their book Marketing 3.0, Philip Kotler et al. describe the development of ma
 21White, A.C. (2015, July 6). “Free Hotel Wi-Fi Is Increasingly on Travelers’ Must-Have List.” New York Times.
 
 22See the textbox on The Kano model in 6.3.
-
-23Sorofman, J. (2014, October 23): “Gartner Surveys Confirm Customer Experience Is the New Battlefield,” at www.blogs.gartner.com.
 
 24Reichheld, F. F. (2003). “The One Number You Need to Grow.” Harvard Business Review, 81(12), 46-55.
 
@@ -637,17 +598,7 @@ You can apply service design to anything – services, digital and physical prod
 
 1 Moritz, S. (2005). Service Design: Practical Access to an Evolving Field. Köln.
 
-2 live|work (2010). “Service Design.” Retrieved 10 August 2010 from http://www.livework.co.uk.
-
-3 UK Design Council (2010). “What Is Service Design?” Retrieved 10 August 2010 from http://www.designcouncil.org.uk/about-design/types-of-design/service-design/what-is-service- design/.
-
-4 See for example “Meet Birgit Mager, President of the Service Design Network.” Retrieved 3 August 2017 from https://www.service-design-network.org.
-
 5 servicedesign.org is no longer accessible, but see Clatworthy, S. (2011). “Service Innovation through Touch-points: Development of an Innovation Toolkit for the First Stages of New Service Development. International Journal of Design, 5(2), 15–28.
-
-6 See 31Volts, “Service Design” (original quote from 2008 extended in 2016). Retrieved 3 August 2017 from http://www.31volts.com/en/service-design/.
-
-7 Miller, M. E. (2015, December 14). “How Many Service Designers Does It Take to Define Service Design?” at https://blog.practicalservicedesign.com.
 
 8 See the textbox Boundary objects in 3.2.
 
@@ -661,8 +612,6 @@ You can apply service design to anything – services, digital and physical prod
 
 Brandon Schauer, presentation at SDN conference San Francisco 2011 and available at Schauer, B.
 
-(2014). “The Business Case for (or Against) Service Design,” at https://www.slideshare.net.
-
 14From the point of view of service-dominant logic, it’s basically everything.
 
 15Ask Adam about the term “service design” and he will say, “I hate-hate-hate the term. It’s made up of two simple words which most people misunderstand. ‘Service,’ they think, is being nice to customers, or fixing stuff. And ‘design,’ of course, is making things look nice. So ‘service design,’ they think, must be ... something which involves being nice to customers and making things look nice. So they smile, and nod, and walk away.” 16Stickdorn, M., & Schneider, J. (2010): This is Service Design Thinking, Amsterdam: BIS Publishers.
@@ -670,8 +619,6 @@ Brandon Schauer, presentation at SDN conference San Francisco 2011 and available
 17Many designers use the terms “co-creation” and “co-design” interchangeably. If in doubt, it’s best to ask for more detail.
 
 18See the textbox Steps, touchpoints, and moments of truth in 3.3.
-
-19The Global Service Jam (http://www.globalservicejam.org), an international volunteer-run design event that takes place in around 100 cities each year, has played an important part in disseminating the service design approach worldwide.
 
 20While we often refer to service-dominant logic in this book, we do not understand this as a school of thought superseding other theories, but rather as a valuable component within a growing, changing, and patchy body of knowledge. As Achrol and Kotler say: “Some philosophers like Popper, Feyerabend, and Lakatos forcefully argue for theoretical diversity and against dominant paradigms [...]. Popper (1959) points out that because we never know for certain that our theories are correct, we should proliferate our theories as much as possible to encourage the growth of scientific knowledge.” Achrol, R. S., & Kotler, P. (2006). “The Service-Dominant Logic for Marketing: A Critique.” In R. F. Lusch & S. L. Vargo (eds.), The Service-Dominant Logic of Marketing: Dialog, Debate, and Directions (pp. 320-333). M.E. Sharpe, p. 331.
 
@@ -1193,8 +1140,6 @@ The block Value propositions is connected with: — Journey maps: Customer journ
 
 2 Customer segments Customer segments describes the different market segments a company identifies as its core target groups. These target groups are normally marked by similar needs and attributes, and their respective size can be estimated.
 
-Figure 3-9. Template: Strategyzer AG. The Business Model Canvas template is available from http://strategyzer.com/canvas/business-model-canvas and licensed under the Creative Commons Attribution-Share Alike 3.0 Unported License.
-
 The block Customer segments is connected with: — Personas: Personas make customer segments less abstract and more tangible. They help a team to empathize with customers and users.
 
 — System maps: System maps can be used to visualize customer segments and their relationships and interdependencies, such as in stakeholder maps or value network maps.
@@ -1218,8 +1163,6 @@ The block Key activities is connected to: — Service blueprints: Service bluepr
 — Journey maps: Journey maps can include information about which internal stakeholders are involved in certain steps of the journey, particularly when a journey map includes employees or additional perspectives on backstage processes or stakeholders.
 
 — Prototypes: Prototypes can be used to identify and test key internal activities and human–human, human–machine, as well as machine–machine interactions that happen internally and externally.
-
-6 Key resources Key resources summarizes what a company needs to sustain and support the business, such as physical, intellectual (brand patents, copyrights, data), human, or financial assets. In a business model, key resources often include decisions regarding make-or-buy or in-/outsourcing.
 
 The block Key resources is connected to: — System maps: System maps can include detailed information on the involved internal stakeholders (stakeholder maps or value network maps) as well as other key resources (ecosystem maps).
 
@@ -1278,8 +1221,6 @@ WOW! BOOOOM!!!: James Bond, Miss Marple and Dramatic Arcs in Services.” Touchp
 17Often this is visualized through an additional Job-to-be-done or User/customer jobs lane in a journey map.
 
 18One often-cited scholarly publication on service blueprints is Stostack, G. L. (1984). “Designing Services That Deliver.” Harvard Business Review, 62(1), 133–139. Another is Bitner, M.J., Ostrom, A. L., & Morgan, F. N. (2008), “Service Blueprinting: A Practical Technique for Service Innovation,” California Management Review, 50(3), 66–94. For an example of a service blueprint, see 5.4.1, Case: Applying ethnography to gain actionable insights.
-
-19The term “touchpoint” has been used in branding literature since the early nineties to describe any point of contact between a customer and a brand. In a literature review on service design, Jeff Howard summarizes when the term was first used and how it developed in service design. Read more on this in Howard, J. (2008). “On the Origin of Touchpoints,” at http://designforservice.wordpress.com.
 
 20Note that our definition of “moments of truth” differs from its original meaning. The term was originally coined by Richard Normann in the 1980s and later popularized by Jan Carlson see Carlson, J. (1987). Moments of Truth: New Strategies for Today’s Customer-Driven Economy.
 
@@ -1464,12 +1405,6 @@ Design Council (2007). “11 Lessons: Managing Design in 11 Global Brands,” UK
 11Dark Horse Innovation (2016). Digital Innovation Playbook. Murmann Publishers.
 
 12Stickdorn, M., & Schneider, J. (2010). This is Service Design Thinking. BIS Publishers.
-
-13Overview and broken-down stages of Engine’s service design process. See Engine (n.d.). “Our Process.” Retrieved December 27, 2012, from http://www.enginegroup.co.uk/service_design/our_process.
-
-14Reason, B. (2009). “Service Thinking for Health Services” [slides]. Retrieved from http://liveworkstudio.com.
-
-15DesignThinkers Academy (2009). “DesignThinkers Service Design Method” [slides]. Retrieved from http://www.slideshare.net/designthinkers/designthinkers-service-design-method.
 
 16This leads to a discussion about the difference between goods, services, products, and experiences.
 
@@ -1762,8 +1697,6 @@ Are you in the problem space trying to understand someone’s problem in more de
 Of course, a design team will have many ideas during research activities and it would be a shame to lose them. If ideas come up during research, capture them on an idea wall 24 and then let go.
 
 Or, you might want to see the idea as a hypothesis and rephrase it into its underlying assumptions – this feeds into your next research iteration as a new research question. Also, you might want to brief your team before the next steps of the design process, such as ideation activities that might follow your research.
-
-Methods Read more on methods and tools in our free online resources at: www.tisdd.com Methods of Data Collection This section provides a wide selection of potential research methods to collect data in service design research. Many more methods exist, and often the same method has several inconsistent names. We can only give a very brief introduction for each method, but if you want to dig deeper, there is plenty of literature – and for some methods, even whole books – with detailed descriptions and examples. 25 The research methods are structured in five categories: → Desk research: Preparatory research, secondary research → Self-ethnographic approaches: Autoethnography, online ethnography → Participant approaches: Participant observation, contextual interviews, in-depth interviews, focus groups → Non-participant approaches: Non-participant observation, mobile ethnography, cultural probes → Co-creative workshops: Creating personas, journey mapping, system mapping These categories are not an academic standard, and as there are many variations and names for each research method, the boundaries between the categories might be rather fluid. However, as a rule of thumb, we suggest you use at least one method from each category in your research to give better method triangulation.
 
 1. “Prep” research often includes an online search for certain keywords, companies, and competitors as well as searching for scholarly research on specific topics.
 

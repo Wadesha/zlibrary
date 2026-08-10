@@ -1,10 +1,5 @@
 # Collins complete guide to British trees Paul Sterry Z Library
 
-> 来源文件：pre_Collins_complete_guide_to_British_trees_Paul_Sterry_Z_Library.txt
-> 字符数（约）：496414
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 •~n invaluaole guicle fo r.
 
 countrY, c:lwellers ancl occasional visitor.s' iTlie F.iela
@@ -23,13 +18,7 @@ This book is dedicated to the memory of Bramley Frith.
 
 HarperCollins Publishers Ltd.
 
-77-85 Fulham Palace Road London W6 8JB www.collins.co.uk Collins is a registered trademark of HarperCollinsPublishers Ltd.
-
-First published in 2007 Text© Paul Sterry 2007 Photographs© Individual photographers indicated in the picture credits 14 13 109876 The author asserts his moral right to be identified as the author of this work. All rights reserved. No parts of this publication may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, without the prior permission of the publishers.
-
 A catalogue record for this book is available from the British Library.
-
-ISBN: 978-0-00-723685-5 Collins uses papers that are natural, renewable and recyclable products made from wood grown in sustainable forests. The manufacturing processes conform to the environmental regulations of the country of origin.
 
 Colour reproduction by Nature Photographers Ltd.
 

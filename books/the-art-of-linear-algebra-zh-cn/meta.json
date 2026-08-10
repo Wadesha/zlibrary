@@ -1,10 +1,10 @@
 {
   "slug": "the-art-of-linear-algebra-zh-cn",
-  "title": "The_Art_of_Linear_Algebra_zh_CN",
+  "title": "The Art of Linear Algebra zh CN",
   "language": "zh",
   "pipeline": "native",
   "source_file": "[MD]The_Art_of_Linear_Algebra_zh_CN.md",
   "source_pdf": "The-Art-of-Linear-Algebra-zh-CN.pdf",
-  "chars": 6598,
+  "chars": 6462,
   "has_fixed": false
 }

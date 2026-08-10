@@ -1,13 +1,6 @@
 # Illustrated Special Relativity Through Its Paradoxes Standard Edition A Fusion of Linear Algebra Graphics and Reality John de Pillis Jose Wudka Z Library
 
-> 来源文件：pre_Illustrated_Special_Relativity_Through_Its_Paradoxes_Standard_Edition_A_Fusion_of_Linear_Algebra_Graphics_and_Reality_John_de_Pillis_Jose_Wudka_Z_Library.txt
-> 字符数（约）：241382
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Illustrated Special Relativity Through Its Paradoxes: A Fusion of Linear Algebra, Graphics, and Reality
-
-© 2013 by the Mathematical Association of America, Inc. Library of Congress Catalog Card Number 2013956313 Electronic edition ISBN: 978-1-61444-517-3
 
 John de Pillis, Professor of Mathematics, University of California, Riverside and José Wudka, Professor of Physics, University of California, Riverside. Illustrations and animations by John de Pillis.
 

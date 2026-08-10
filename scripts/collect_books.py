@@ -26,30 +26,22 @@ import os
 import re
 import json
 import glob
+import shutil
 
 import config
 
 
-# 非书籍的内部/笔记文件，归集时跳过
-SKIP_RE = re.compile(
-    r"^(process[-_]?log|candidates|clean[-_]?candidates|wave\d+[-_]plan|sync[-_]?test|"
-    r"批次完成报告|todo|readme|notes?)",
-    re.IGNORECASE,
-)
+def prose_of(text: str) -> int:
+    """剔除 # 标题行与空白行后的正文字数（识别纯目录/大纲 stub 用）。"""
+    return sum(
+        len(ln) for ln in text.split("\n")
+        if ln.strip() and not ln.lstrip().startswith("#")
+    )
 
 
 def is_book_file(raw_name):
-    """过滤掉明显的非书籍文件（以下划线开头的内部笔记等）。"""
-    name = raw_name
-    for ext in (".md", ".txt"):
-        if name.lower().endswith(ext):
-            name = name[: -len(ext)]
-            break
-    if name.startswith("_"):
-        return False
-    if SKIP_RE.match(name):
-        return False
-    return True
+    """过滤掉非书籍文件（内部笔记/流程/大纲/习题/单章等）。"""
+    return not config.is_excluded(raw_name)
 
 
 def list_source_files():
@@ -63,7 +55,8 @@ def list_source_files():
             # 只取 [OCR] 前缀，避免把脚本/日志算进来
             for f in os.listdir(path):
                 if f.startswith("[OCR]") and (f.endswith(".txt") or f.endswith(".md")):
-                    out.append((os.path.join(path, f), pipeline, priority))
+                    if is_book_file(f):
+                        out.append((os.path.join(path, f), pipeline, priority))
         else:
             for pat in patterns:
                 for f in glob.glob(os.path.join(path, pat)):
@@ -82,10 +75,8 @@ def score(path, pipeline, base_priority):
 
 
 def detect_lang(text):
-    """粗略判断语言：CJK 占比高 → zh，否则 en。"""
-    cjk = len(re.findall(r"[一-鿿]", text))
-    total = max(1, len(text))
-    return "zh" if cjk / total > 0.15 else "en"
+    """语言判断委托给 config（取文档中部采样，避免扉页英文版权块干扰）。"""
+    return config.detect_lang(text)
 
 
 def strip_yaml_frontmatter(text):
@@ -112,7 +103,7 @@ def main():
     files = list_source_files()
     print(f"扫描到源文件：{len(files)}", flush=True)
 
-    # 按 slug 分组
+    # 1) 按 slug 分组，选每 slug 最佳版本
     groups = {}
     for path, pipeline, priority in files:
         raw = os.path.basename(path)
@@ -124,73 +115,95 @@ def main():
             continue
         groups.setdefault(slug, []).append((path, pipeline, priority, title))
 
-    print(f"去重后书目：{len(groups)}", flush=True)
-
-    manifest = []
-    for slug, items in sorted(groups.items()):
-        # 选最佳版本
+    best_per_slug = {}
+    for slug, items in groups.items():
         best = max(items, key=lambda it: score(it[0], it[1], it[2]))
-        best_path, best_pipeline, _, best_title = best
+        best_per_slug[slug] = best
 
-        with open(best_path, "r", encoding="utf-8", errors="ignore") as fh:
-            content = fh.read()
-
-        # 清理：去掉 YAML frontmatter（OCR md 顶部噪声）
-        content = strip_yaml_frontmatter(content)
-        # OCR 产物去掉顶部 "# OCR:" / "# Pages:" 噪声行
-        if best_pipeline in ("ocr_md", "root_ocr"):
-            content = "\n".join(
-                ln for ln in content.split("\n")
+    # 2) 跨 slug 去重（同一本书的不同文件名变体合并，保留字数更多者）
+    records = {}          # dedup_key -> (slug, item, content, clen)
+    merged = []           # (被并标题, 保留slug)
+    for slug, item in best_per_slug.items():
+        path, pipeline, priority, title = item
+        with open(path, "r", encoding="utf-8", errors="ignore") as fh:
+            raw_text = fh.read()
+        # 去 YAML frontmatter / OCR 头
+        raw_text = strip_yaml_frontmatter(raw_text)
+        if pipeline in ("ocr_md", "root_ocr"):
+            raw_text = "\n".join(
+                ln for ln in raw_text.split("\n")
                 if not re.match(r"^#\s*OCR:", ln)
                 and not re.match(r"^#\s*Pages:", ln)
             )
+        content = config.clean_content(raw_text)
+        clen = len(content)
+        # 散文字数（剔除 # 标题行与空白行后的正文），用于识别纯目录/大纲 stub
+        prose = sum(
+            len(ln) for ln in content.split("\n")
+            if ln.strip() and not ln.lstrip().startswith("#")
+        )
+        key = config.dedup_key(title) or slug
+        if key in records:
+            prev = records[key]
+            if clen > prev[3]:
+                merged.append((title, slug))
+                records[key] = (slug, item, content, clen)
+            else:
+                merged.append((title, prev[0]))
+        else:
+            records[key] = (slug, item, content, clen)
 
-        lang = detect_lang(content)
-        src_pdf = find_source_pdf(best_title, slug)
-
+    # 3) 写入 books/<slug>/，跳过空书
+    manifest = []
+    skipped_empty = 0
+    for key, (slug, item, content, clen) in records.items():
+        if clen < config.MIN_CHARS or prose_of(content) < config.MIN_PROSE_CHARS:
+            skipped_empty += 1
+            continue
+        _, pipeline, _, title = item
         book_dir = os.path.join(config.BOOKS_DIR, slug)
         os.makedirs(book_dir, exist_ok=True)
         with open(os.path.join(book_dir, "content.md"), "w", encoding="utf-8") as fh:
             fh.write(content)
-
+        lang = detect_lang(content)
+        src_pdf = find_source_pdf(title, slug)
         meta = {
             "slug": slug,
-            "title": best_title,
+            "title": title,
             "language": lang,
-            "pipeline": best_pipeline,
-            "source_file": os.path.basename(best_path),
+            "pipeline": pipeline,
+            "source_file": os.path.basename(item[0]),
             "source_pdf": src_pdf,
-            "chars": len(content),
-            "has_fixed": "_fixed" in os.path.basename(best_path),
+            "chars": clen,
+            "has_fixed": "_fixed" in os.path.basename(item[0]),
         }
         with open(os.path.join(book_dir, "meta.json"), "w", encoding="utf-8") as fh:
             json.dump(meta, fh, ensure_ascii=False, indent=2)
-
         manifest.append(meta)
 
     # 写总清单
     with open(config.BOOKS_MANIFEST, "w", encoding="utf-8") as fh:
-        json.dump({
-            "count": len(manifest),
-            "books": manifest,
-        }, fh, ensure_ascii=False, indent=2)
+        json.dump({"count": len(manifest), "books": manifest}, fh,
+                  ensure_ascii=False, indent=2)
 
     # 清理上次遗留的失效书目目录
     keep = {m["slug"] for m in manifest}
     for d in os.listdir(config.BOOKS_DIR):
         dp = os.path.join(config.BOOKS_DIR, d)
         if os.path.isdir(dp) and d not in keep:
-            import shutil
             shutil.rmtree(dp)
 
     # 统计
-    by_lang = {}
-    by_pipe = {}
+    by_lang, by_pipe = {}, {}
     for m in manifest:
         by_lang[m["language"]] = by_lang.get(m["language"], 0) + 1
         by_pipe[m["pipeline"]] = by_pipe.get(m["pipeline"], 0) + 1
     print("归集完成。", flush=True)
     print("  书目总数：", len(manifest), flush=True)
+    print("  去重合并：", len(merged), " 对", flush=True)
+    for t, kept in merged:
+        print(f"    - 合并：{t}  →  保留 {kept}", flush=True)
+    print("  跳过空书（< %d 字）：" % config.MIN_CHARS, skipped_empty, flush=True)
     print("  语言分布：", by_lang, flush=True)
     print("  管线分布：", by_pipe, flush=True)
 

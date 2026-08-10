@@ -1,10 +1,5 @@
 # Whats That Rock or Mineral DK Tom Jackson Z Library
 
-> 来源文件：pre_Whats_That_Rock_or_Mineral_DK_Tom_Jackson_Z_Library.txt
-> 字符数（约）：90007
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 Tom Jackson rock or MINErAL?
 
 What’s that
@@ -13,15 +8,9 @@ ABOUT THE AUTHOR Tom Jackson is a science writer based in the UK.
 
 He began his career as a conservation worker and zoologist, surveying the jungles of Vietnam, capturing buffaloes in Zimbabwe, and working in UK zoos. He has written more than 100 books on science, technology, and nature, and contributed to many more. Tom lives in Bristol, England. His past books include DK Eyewitness Books: Science, Animal, Endangered Animal, Spot the Bug, and Help Your Kids with Science (with Carol Vordeman).
 
-LONDON, NEW YORK, MUNICH, MELBOURNE, aND DELHI First American Edition, 2014 Published in the United States by DK Publishing 4th floor, 345 Hudson Street New York, New York 10014 14 15 16 17 18  10 9 8 7 6 5 4 2 1 001–256805–Mar/2014 Copyright © 2014 Dorling Kindersley Limited Without limiting the rights under copyright reserved above, no part of this publication may be reproduced, stored in or introduced into a retrieval system, or transmitted, in any form, or by any means (electronic, mechanical, photocopying, recording, or otherwise), without the prior written permission of the copyright owner and the above publisher of this book.
-
 Published in Great Britain by Dorling Kindersley Limited.
 
 A catalog record for this book is available from the Library of Congress.
-
-ISBN  978-1-4654-1592-9 DK books are available at special discounts when purchased in bulk for sales promotions, premiums, fund-raising, or educational use. For details, contact: DK Publishing Special Markets, 345 Hudson Street, New York, New York 10014 or SpecialSales@dk.com.
-
-Printed and bound by South China Printing Co. Ltd, China Discover more at www.dk.com DK LONDON Senior Editor  Peter Frances Editor  Lili Bryant US Editor  Jill Hamilton Project Art Editor  Francis Wong Pre-production Producer Adam Stoneham Producer  Linda Dare Jacket Designer  Mark Cavanagh Jacket Design Development Manager  Sophia MTT Managing Editor Angeles Gavira Guerrero Managing Art Editor  Michelle Baxter Publisher  Sarah Larter Art director  Philip Ormerod Associate Publishing Director  Liz Wheeler Publishing Director  Jonathan Metcalf DK DELHI Senior Editor  Anita Kakar Editors  Susmita Dey, Himani Khatreja Art Editors  Divya P R, Vaibhav Rastogi DTP Designers  Sachin Gupta, Nityanand Kumar Managing Editor  Rohan Sinha Deputy Managing Art Editor  Sudakshina Basu Production Manager  Pankaj Sharma Pre-production Manager  Balwant Singh Picture Researcher  Aditya Katyal
 
 Contents ROCK AND MINERAL PROFILES ROCK GALLERY MINERAL GALLERY COARSE-GRAINED ROCKS MEDIUM-GRAINED ROCKS FINE-GRAINED ROCKS 4 MINERALS Introduction ........................................................................ 6 Identifying Rocks and Minerals ............................................ 8
 

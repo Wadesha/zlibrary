@@ -1,10 +1,5 @@
 # Space A Visual Encyclopedia DK Z Library
 
-> 来源文件：pre_Space_A_Visual_Encyclopedia_DK_Z_Library.txt
-> 字符数（约）：444057
-> 语言：en
-> 处理说明：确定性忠实结构化（无 LLM 改写）。仅检测显式章节标记、合并被换行打断的段落、剔除页码噪声；未改动任何实质性内容。
-
 featuring the latest imagery from nasa SPACE a visual encyclopedia
 
 DK PUBLISHING Space: A Visual Encyclopedia
@@ -15,11 +10,7 @@ Our place in space A circle of stars Early ideas Telescopes Giant telescopes See
 
 Birth of the universe 100 billion galaxies Galaxy formation A sombrero in space The Milky Way The Magellanic Clouds The Local Group The heart of the Milky Way When galaxies collide… Active galaxies Dark matter LIFTOFF!
 
-How rockets work 3, 2, 1… The space shuttle Launch centers Launching Ariane 5 Artificial satellites Satellites in orbit Satellite shot Space probes Space debris LONDON, NEW YORK, MELBOURNE, MUNICH, and DELHI Consultant  Peter Bond Project editor  Wendy Horobin Project designer  Pamela Shiels Editors  Fleur Star, Holly Beaumont, Lee Wilson, and Susan Malyan Designers  Rachael Grady, Lauren Rosier, Gemma Fletcher, Karen Hood, Clare Marshall, Mary Sandberg, and Sadie Thomas US editor Margaret Parrish Indexer  Chris Bernstein Picture researchers  Ria Jones, Harriet Mills, and Rebecca Sodergren Production editor  Sean Daly Jacket designer  Natalie Godwin Jacket editor  Matilda Gollon Publishing manager  Bridget Giles Art director  Martin Wilson Packaging services supplied by Bookwork First published in the United States in 2010 by DK Publishing 375 Hudson Street, New York, New York 10014 Copyright © 2010 Dorling Kindersley Limited 10 11 12 13 14  10 9 8 7 6 5 4 3 2 1 175938—05/10 Copyright Conventions. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording, or otherwise, without the prior written permission of the copyright owner. Published in Great Britain by Dorling Kindersley Limited.
-
 A catalog record for this book is available from the Library of Congress.
-
-ISBN: 978-0-7566-6277-6 Color reproduction by Media Development and Printing Limited, United Kingdom Printed and bound by Toppan, China Discover more at www.dk.com
 
 Space nations Super spacecraft HUMANS IN SPACE Space pioneers Becoming an astronaut Space walking Living in space Animals in space Extending the house The first space stations The International Space Station Science in space Space tourism Future flyers Reaching for the stars SOLAR SYSTEM Birth of the solar system The Sun’s family Mercury Venus Views of Venus Mars Missions to Mars Martian sand art Asteroids Jupiter Jupiter’s moons Voyager 1 & 2 Saturn Saturn’s moons Saturn by sunlight Uranus Neptune Pluto and beyond Comets Comet missions Meteors Meteorites Life on other worlds EARTH The unique Earth The perfect planet Earth’s seasons On the surface Up in the sky Life on Earth THE MOON Earth’s companion Eclipses The lunar surface Destination Moon Man on the Moon Splashdown!
 
