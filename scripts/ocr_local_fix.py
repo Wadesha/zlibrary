@@ -96,6 +96,12 @@ def fix_cjk_spacing(text: str) -> str:
     # 去除中文标点外侧多余空格
     text = re.sub(rf"\s+(?=[\u3000-\u303f\uff00-\uffef])", "", text)
     text = re.sub(rf"(?<=[\u3000-\u303f\uff00-\uffef])\s+", "", text)
+    # 数字与中文之间的空格（如 "1979 年" -> "1979年"、"吨 12" -> "吨12"）
+    zh = r"[\u4e00-\u9fff]"
+    text = re.sub(rf"(\d) ({zh})", r"\1\2", text)
+    text = re.sub(rf"({zh}) (\d)", r"\1\2", text)
+    # 小数点后的空格（"20. 9" -> "20.9"）
+    text = re.sub(r"(?<=\.) (\d)", "", text)
     return text
 
 
@@ -170,8 +176,15 @@ def main():
 
     config.ensure_dirs()
     manifest = json.load(open(config.BOOKS_MANIFEST, encoding="utf-8"))
+    SKIP = {
+        "清华出版社物理难题150例086890-01",
+        "电动力学南京大学ch0-0",
+        "给孩子讲量子力学-李淼-1",
+        "温州乡土建筑-丁俊清-肖健雄著-ding-junqing-xiao-jianxiong-丁俊清-etc",
+    }
     targets = [b for b in manifest["books"]
                if b["pipeline"] in ("ocr_md", "hy3")
+               and (args.slug is not None or b["slug"] not in SKIP)
                and (args.slug is None or b["slug"] == args.slug)]
 
     print(f"待处理 OCR 书：{len(targets)}", flush=True)

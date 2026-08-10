@@ -1,6 +1,6 @@
 # Dynamic Asset Pricing Theory
 
-> hy3 忠实校订
+> hy3忠实校订
 
 # THIRD EDITION
 
@@ -41,7 +41,7 @@ PART I: DISCRETE-TIME MODELS
 2 The Basic Multiperiod Model
 
 # 2.A Uncertainty 2.2... ee ee ee eee
-# 2.B Security Markets... 2 ee eee
+# 2.B Security Markets... ee eee
 # 2.C Arbitrage, State Prices, and Martingales
 # 2.D Individual Agent Optimality
 # 2.E Equilibrium and Pareto Optimality
@@ -59,8 +59,7 @@ PART I: DISCRETE-TIME MODELS
 
 4 Markov Asset Pricing # 4.A Security Pricing by Markov Control # 4.B Markov Arbitrage-Free Valuation # 4.C Early Exercise and Optimal Stopping
 
-5 The Infinite-Horizon Setting # 5.A Markov Dynamic Programming # 5.B Dynamic Programming and Equilibrium # 5.C Arbitrage and State Prices 0 0 ee # 5.D Optimality and State Prices
-# 5.E Method-of-Moments Estimation
+5 The Infinite-Horizon Setting # 5.A Markov Dynamic Programming # 5.B Dynamic Programming and Equilibrium # 5.C Arbitrage and State Prices 0 0 ee # 5.D Optimality and State Prices # 5.E Method-of-Moments Estimation
 
 --
 
@@ -92,8 +91,7 @@ PART II: CONTINUOUS-TIME MODELS
 # Exercises
 # Notes
 
-8 Term-Structure Models # 8.A The Term Structure # 8.B One-Factor Term-Structure Models # 8.C The Gaussian Single-Factor Models # 8.D The Cox-Ingersoll-Ross Model
-# 8.E The Affine Single-Factor Models
+8 Term-Structure Models # 8.A The Term Structure # 8.B One-Factor Term-Structure Models # 8.C The Gaussian Single-Factor Models # 8.D The Cox-Ingersoll-Ross Model # 8.E The Affine Single-Factor Models
 # 8.F Term-Structure Derivatives
 # 8.G The Fundamental Solution
 # 8.H Multifactor Models
@@ -103,8 +101,7 @@ PART II: CONTINUOUS-TIME MODELS
 # Exercises
 # Notes
 
-9 Derivative Pricing # 9.A Martingale Measures in a Black Box # 9.B Forward Prices # 9.C Futures and Continuous Resettlement # 9.D Arbitrage-Free Futures Prices
-# 9.E Stochastic Volatility
+9 Derivative Pricing # 9.A Martingale Measures in a Black Box # 9.B Forward Prices # 9.C Futures and Continuous Resettlement # 9.D Arbitrage-Free Futures Prices # 9.E Stochastic Volatility
 # 9.F Option Valuation by Transform Analysis
 # 9.G American Security Valuation
 # 9.H American Exercise Boundaries
@@ -112,16 +109,14 @@ PART II: CONTINUOUS-TIME MODELS
 # Exercises
 # Notes
 
-10 Portfolio and Consumption Choice ....-...-.--.-.-.-++ # 10.A Stochastic Control # 10.B Merton’s Problem # 10.C Solution to Merton’s Problem # 10.D The Infinite-Horizon Case
-# 10.E The Martingale Formulation
+10 Portfolio and Consumption Choice ....-...-.--.-.-.-++ # 10.A Stochastic Control # 10.B Merton’s Problem # 10.C Solution to Merton’s Problem # 10.D The Infinite-Horizon Case # 10.E The Martingale Formulation
 # 10.F Martingale Solution
 # 10.G A Generalization
 # 10.H The Utility-Gradient Approach
 # Exercises
 # Notes
 
-11 Equilibrium # 11.A The Primitives # 11.B Security-Spot Market Equilibrium # 11.C Arrow-Debreu Equilibrium # 11.D Implementing Arrow-Debreu Equilibrium
-# 11.E Real Security Prices
+11 Equilibrium # 11.A The Primitives # 11.B Security-Spot Market Equilibrium # 11.C Arrow-Debreu Equilibrium # 11.D Implementing Arrow-Debreu Equilibrium # 11.E Real Security Prices
 # 11.F Optimality with Additive Utility
 # 11.G Equilibrium with Additive Utility
 # 11.H The Consumption-Based CAPM
@@ -130,12 +125,11 @@ PART II: CONTINUOUS-TIME MODELS
 # Exercises
 # Notes
 
-12 Corporate Securities # 12.A The Black-Scholes-Merton Model # 12.B Endogenous Default Timing # 12.C Example: Brownian Dividend Growth # 12.D Taxes and Bankruptcy Costs
-# 12.E Endogenous Capital Structure
+12 Corporate Securities # 12.A The Black-Scholes-Merton Model # 12.B Endogenous Default Timing # 12.C Example: Brownian Dividend Growth # 12.D Taxes and Bankruptcy Costs # 12.E Endogenous Capital Structure
 # 12.F Technology Choice
 # 12.G Other Market Imperfections
 # 12.H Intensity-Based Modeling of Default
-# 12.I Risk-Neutral Intensity Process . 2... 0.22222 0s
+# 12.I Risk-Neutral Intensity Process .....22222 0s
 # 12.J Zero-Recovery Bond Pricing
 # 12.K Pricing with Recovery at Default
 # 12.L Default-Adjusted Short Rate
@@ -5035,8 +5029,8 @@ the accuracy and stability of this and other finite-difference schemes to Source
 
 12. Numerical Methods
 
-— \(N\) 一一万一万国 A 一十一上 — + 广 1
-一 - 一一一 [ 屋 hy  Finag+t 皇 , Try VRon iz。T Tras Taya - 3 | ( - 2 十 _l_ 1 [ 一 T | “ 9 1 2 3 7 at M T=MΔt
+— \(N\) 一一万一万国 A 一十一上 — + 广1
+一 - 一一一 [ 屋 hy  Finag+t 皇 , Try VRon iz。T Tras Taya - 3 | ( - 2十 _l_ 1 [ 一 T | “ 9 1 2 3 7 at M T=MΔt
 
 Figure 12.1. Finite-Difference Grid
 
@@ -6080,9 +6074,9 @@ Araujo, A., P. Monteiro, and M. Pascoa. (1996). “Infinite Horizon Incomplete M
 
 Arntzen, H. (1994). “Solution to a Class of Stochastic Investment Problems Involving Finite Variation Controls.” Working Paper, Mathematics Institute, University of Oslo.
 
-Arrow, K. (1951). “An Extension of the Basic Theorems of Classical Welfare Economics.” In J. Neyman (Ed.), Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability, pp. 507-532. Berkeley: University of California Press.
+Arrow, K. (1951). “An Extension of the Basic Theorems of Classical Welfare Economics.” In J. Neyman (Ed.), Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability, pp.07-532. Berkeley: University of California Press.
 
-Arrow, K. (1953). “Le Rôle des Valeurs Boursières pour la Répartition la Meilleure des Risques.” Économétrie. Colloq. Internat. Centre National de la Recherche Scientifique 40 (Paris 1952), pp. 41-47; discussion, pp. 47-48, C.N.R.S. (Paris 1953). English Translation in Review of Economic Studies 31 (1964): 91-96.
+Arrow, K. (1953). “Le Rôle des Valeurs Boursières pour la Répartition la Meilleure des Risques.” Économétrie. Colloq. Internat. Centre National de la Recherche Scientifique 40 (Paris 1952), pp.1-47; discussion, pp.7-48, C.N.R.S. (Paris 1953). English Translation in Review of Economic Studies 31 (1964): 91-96.
 
 Arrow, K. (1970). Essays in the Theory of Risk Bearing. London: North-Holland.
 
@@ -6117,7 +6111,7 @@ Avellaneda, M., and P. Laurence. (2000). Financial Models and Derivative Securit
 Babbs, S. (1991). “A Family of Ito Process Models for the Term Structure of Interest Rates.” Working Paper, Financial Options Research Centre, University of Warwick.
 Babbs, S., and M. Selby. (1996). “Pricing by Arbitrage in Incomplete Mathematical Finance 8: 163-168.
 Babbs, S., and N. Webber. (1994). “A Theory of the Term Structure with an Official Short Rate.” Working Paper, Midland Global Markets and University of Warwick.
-Bachelier, L. (1900). “Théorie de la Spéculation.” Annales Scientifiques de L'École Normale Supérieure 3d ser., 17: 21-88. Translation in The Random Character of Stock Market Prices, ed. Paul Cootner, pp. 17-79. Cambridge, MA: MIT Press, 1964.
+Bachelier, L. (1900). “Théorie de la Spéculation.” Annales Scientifiques de L'École Normale Supérieure 3d ser., 17: 21-88. Translation in The Random Character of Stock Market Prices, ed. Paul Cootner, pp.7-79. Cambridge, MA: MIT Press, 1964.
 Back, K. (1986). “Securities Market Equilibrium without Bankruptcy: Contingent Claim Valuation and the Martingale Property.” Working Paper, Center for Mathematical Studies in Economics and Management Science, Northwestern University.
 Back, K. (1994). “Option Pricing for General Processes.” Journal of Mathematical Economics 20: 396.
 Back, K. (1996). “Yield Curve Models: A Mathematical Review.” Working Paper, Olin School of Business, Washington University in St. Louis, St. Louis.
@@ -6186,7 +6180,7 @@ Barles, G., C. Daher, and M. Romano. (1992). “Convergence of Numerical Schemes
 Parabolic Equations Arising in Finance Theory.” Working Paper, Cahier 9244, CEREMADE, Université de Paris.
 
 Barles, G., and E. Lesigne. (1997). “SDE, BSDE and PDE.” In N. El Karoui and L. Mazliak
-(Eds.), *Backward Stochastic Differential Equations*, pp. 47-80. Essex: Addison Wesley Longman Ltd.
+(Eds.), *Backward Stochastic Differential Equations*, pp.7-80. Essex: Addison Wesley Longman Ltd.
 
 Barles, G., M. Romano, and N. Touzi. (1993). “Contingent Claims and Market Completeness in a Stochastic Volatility Model.” Working Paper, Département de Mathématiques, Université de Tours, France.
 
@@ -6246,7 +6240,7 @@ Beibel, M., and H. Lerche. (1997). “A New Look at Optimal Stopping Problems Re
 Mathematical Finance.” *Statistica Sinica* 7: 93-108.
 Bellman, R. (1957). *Dynamic Programming*. Princeton, NJ.: Princeton University Press.
 Bensoussan, A. (1983). “Lectures on Stochastic Control.” In S. Mitter and A. Moro (Eds.),
-*Nonlinear Filtering and Stochastic Control*, Lecture Notes in Mathematics 972, pp. 1-62. New York: Springer-Verlag.
+*Nonlinear Filtering and Stochastic Control*, Lecture Notes in Mathematics 972, pp.-62. New York: Springer-Verlag.
 Bensoussan, A. (1984). “On the Theory of Option Pricing.” *Acta Applicandae Mathematicae* 2: 139-158.
 Bensoussan, A., M. Crouhy, and D. Galai. (1995a). “Black-Scholes Approximation of Complex Option Values: The Cases of European Compound Call Options and Equity
 Warrants.” Working Paper, Université Paris Dauphine and INRIA, France.
@@ -6461,9 +6455,9 @@ Broadie, M., P. Glasserman, and S. Kou. (1997). “A Continuity Correction for D
 Broadie, M., P. Glasserman, and S. Kou. (1999). “Connecting Discrete and Continuous PathDependent Options.” Finance and Stochastics 3: 55-82.
 
 Brock, W. (1979). “An Integration of Stochastic Growth Theory and the Theory of Finance,
-Part J: The Growth Model.” In J. Green and J. Scheinkman (Eds.), General Equilibrium, Growth, and Trade, pp. 165-192. New York: Academic Press.
+Part J: The Growth Model.” In J. Green and J. Scheinkman (Eds.), General Equilibrium, Growth, and Trade, pp.65-192. New York: Academic Press.
 
-Brock, W. (1982). “Asset Prices in a Production Economy.” In J. McCall (Ed.), The Economics of Information and Uncertainty, pp. 1-46. Chicago: University of Chicago Press.
+Brock, W. (1982). “Asset Prices in a Production Economy.” In J. McCall (Ed.), The Economics of Information and Uncertainty, pp.-46. Chicago: University of Chicago Press.
 
 Brown, D., P. DeMarzo, and C. Eaves. (1996a). “Computing Equilibria when Asset Markets are Incomplete.” Econometrica 64: 1-27.
 
@@ -6572,9 +6566,9 @@ Carverhill, A., and K. Pang. (1995). “Efficient and Flexible Bond Option Valua
 
 Cass, D. (1984). “Competitive Equilibria in Incomplete Financial Markets.” Working Paper, Center for Analytic Research in Economics and the Social Sciences, University of Pennsylvania.
 
-Cass, D. (1989). “Sunspots and Incomplete Financial Markets: The Leading Example.” In G. Feiwel (Ed.), The Economics of Imperfect Competition and Employment: Joan Robinson and Beyond, pp. 677-693. London: Macmillan.
+Cass, D. (1989). “Sunspots and Incomplete Financial Markets: The Leading Example.” In G. Feiwel (Ed.), The Economics of Imperfect Competition and Employment: Joan Robinson and Beyond, pp.77-693. London: Macmillan.
 
-Cass, D. (1991). “Incomplete Financial Markets and Indeterminacy of Financial Equilibrium.” In J.J. Laffont (Ed.), Advances in Economic Theory, pp. 263-288. Cambridge: Cambridge University Press.
+Cass, D. (1991). “Incomplete Financial Markets and Indeterminacy of Financial Equilibrium.” In J.J. Laffont (Ed.), Advances in Economic Theory, pp.63-288. Cambridge: Cambridge University Press.
 
 Cassese, G. (1996). “An Elementary Remark on Martingale Equivalence and the Fundamental Theorem of Asset Pricing.” Working Paper, Istituto di Economia Politica, Universita Commerciale “Luigi Bocconi,” Milan.
 
@@ -6644,7 +6638,7 @@ Chew, S.-H. (1983). “A Generalization of the Quasilinear Mean with Application
 
 Chew, S.-H. (1989). “Axiomatic Utility Theories with the Betweenness Property.” Annals of Operations Research 19: 273-298.
 
-Chew, S-H., and L. Epstein. (1991). “Recursive Utility under Uncertainty.” In A. Khan and N. Yannelis (Eds.), Equilibrium Theory with an Infinite Number of Commodities, pp. 353-369. New York: Springer-Verlag.
+Chew, S-H., and L. Epstein. (1991). “Recursive Utility under Uncertainty.” In A. Khan and N. Yannelis (Eds.), Equilibrium Theory with an Infinite Number of Commodities, pp.53-369. New York: Springer-Verlag.
 
 Cheyette, O. (1995). “Markov Representation of the Heath-Jarrow-Morton Model.” Working Paper, BARRA Inc., Berkeley, California.
 
@@ -6768,7 +6762,7 @@ Cutland, N., P. Kopp, and W. Willinger. (1993b). “Stock Price Returns and the 
 Fractional Version of the Black-Scholes Model.” Working Paper, School of Mathematics, University of Hull, England.
 
 Cvitanić, J. (1995). “Nonlinear Financial Markets: Hedging and Portfolio Optimization.” In
-Mathematics of Derivative Securities, pp. 227-254. Cambridge: Cambridge University Press.
+Mathematics of Derivative Securities, pp.27-254. Cambridge: Cambridge University Press.
 
 Cvitanić, J. (1997). Optimal Trading under Constraints. Lecture Notes in Mathematics 1656.
 New York: Springer-Verlag.
@@ -6872,7 +6866,7 @@ Swaps.” Working Paper, Research and Product Development, Tokyo-Mitsubishi Inte
 
 Davis, M., and A. Norman. (1990). “Portfolio Selection with Transaction Costs.” Mathematics of Operations Research 15: 676-713.
 
-Davis, M., and V. Panas. (1991). “European Option Pricing with Transaction Costs.” Proceedings of the Thirtieth IEEE Conference on Decision and Control, Brighton, December, pp. 1299-1304.
+Davis, M., and V. Panas. (1991). “European Option Pricing with Transaction Costs.” Proceedings of the Thirtieth IEEE Conference on Decision and Control, Brighton, December, pp.299-1304.
 
 Davis, M., A. Panas, and T. Zariphopoulou. (1993). “European Option Pricing with Transaction Costs.” SIAM Journal of Control and Optimization 31: 470-493.
 
@@ -6896,7 +6890,7 @@ Debreu, G. (1959). Theory of Value. Cowles Foundation Monograph 17. New Haven, C
 Debreu, G. (1972). “Smooth Preferences.” Econometrica 40: 603-615; Corrigendum 44 (1976): 831-832.
 
 Debreu, G. (1982). “Existence of Competitive Equilibrium.” In K. Arrow and M. Intriligator
-(Eds.), Handbook of Mathematical Economics, Volume II, pp. 697-743. Amsterdam: North-Holland.
+(Eds.), Handbook of Mathematical Economics, Volume II, pp.97-743. Amsterdam: North-Holland.
 
 Décamps, J.-P., and A. Faure-Grimaud. (1998). “Pricing the Gamble for Resurrection and the
 Consequences of Renegotiation and Debt Design.” Working Paper, University of Toulouse.
@@ -7068,7 +7062,7 @@ Edirisinghe, C., V. Naik, and R. Uppal. (1993). “Optimal Replication of Option
 Ekern, S. (1993). “Entry and Exit Decisions with Restricted Reversibility.” Working Paper, Norwegian School of Economics, Bergen.
 
 El Karoui, N. (1997). “Backward Stochastic Differential Equations: A General Introduction.”
-In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp. 7-26. Essex: Addison Wesley Longman Ltd.
+In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp.-26. Essex: Addison Wesley Longman Ltd.
 
 El Karoui, N., A. Frachot, and H. Geman. (1997). “On the Behavior of Long Zero Coupon
 Rates in a No Arbitrage Framework.” Review of Derivatives Research 1: 351-369.
@@ -7077,7 +7071,7 @@ El Karoui, N., and H. Geman. (1994). “A Probabilistic Approach to the Valuatio
 Floating-Rate Notes with an Application to Interest Rate Swaps.” Advances in Futures and Options Research 7: 47-63.
 
 El Karoui, N., and S.J. Huang. (1997). “A General Result of Existence and Uniqueness of Backward Stochastic Differential Equations.” In N. El Karoui and L. Mazliak
-(Eds.), Backward Stochastic Differential Equations, pp. 27-36. Essex: Addison Wesley Longman Ltd.
+(Eds.), Backward Stochastic Differential Equations, pp.7-36. Essex: Addison Wesley Longman Ltd.
 
 El Karoui, N., and M. Jeanblanc. (1998). “Optimization of Consumption with Labor Income.”
 Finance and Stochastics 2: 409-440.
@@ -7119,7 +7113,7 @@ Engle, R.(1982). “Autoregressive Conditional Heteroskedasticity with Estimates
 Epstein, L. (1988). “Risk Aversion and Asset Prices.” Journal of Monetary Economics 22: 179-192.
 
 Epstein, L. (1992). “Behavior under Risk: Recent Developments in Theory and Application.”
-In J. Laffont (Ed.), Advances in Economic Theory, pp. 1-63. Cambridge: Cambridge University Press.
+In J. Laffont (Ed.), Advances in Economic Theory, pp.-63. Cambridge: Cambridge University Press.
 
 Epstein, L., and A. Melino. (1995). “A Revealed Preference Analysis of Asset Pricing under
 Recursive Utility.” Review of Economic Studies 62: 597-618.
@@ -7202,13 +7196,13 @@ Foldes, L. (1992). “Existence and Uniqueness of an Optimum in the Infinite-Hor
 
 Foldes, L. (1996). “The Optimal Consumption Function in a Brownian Model of Accumulation, Part A: The Consumption Function as Solution of a Boundary Value Problem.” Working Paper, London School of Economics and Political Science.
 
-Föllmer, H. (1981). “Calcul d’Ito Sans Probabilities.” In J. Azéma and M. Yor (Eds.), Séminaire de Probabilités XV. Lecture Notes in Mathematics, pp. 143-150. Berlin: Springer-Verlag.
+Föllmer, H. (1981). “Calcul d’Ito Sans Probabilities.” In J. Azéma and M. Yor (Eds.), Séminaire de Probabilités XV. Lecture Notes in Mathematics, pp.43-150. Berlin: Springer-Verlag.
 
 Föllmer, H. (1993). “A Microeconomic Approach to Diffusion Models for Stock Prices.” Mathematical Finance 3: 1-23.
 
-Föllmer, H., and M. Schweizer. (1990). “Hedging of Contingent Claims under Incomplete Information.” In M. Davis and R. Elliott (Eds.), Applied Stochastic Analysis, pp. 389-414. London: Gordon and Breach.
+Föllmer, H., and M. Schweizer. (1990). “Hedging of Contingent Claims under Incomplete Information.” In M. Davis and R. Elliott (Eds.), Applied Stochastic Analysis, pp.89-414. London: Gordon and Breach.
 
-Föllmer, H., and D. Sondermann. (1986). “Hedging of Non-Redundant Contingent Claims.” In W. Hildenbrand and A. Mas-Colell (Eds.), Contributions to Mathematical Economics, pp. 205-224. Amsterdam: North-Holland.
+Föllmer, H., and D. Sondermann. (1986). “Hedging of Non-Redundant Contingent Claims.” In W. Hildenbrand and A. Mas-Colell (Eds.), Contributions to Mathematical Economics, pp.05-224. Amsterdam: North-Holland.
 
 Fournié, E. (1993). “Statistiques des Diffusions Ergodiques avec Applications en Finance.” Working Paper, Université de Nice-Sophia Antipolis.
 
@@ -7253,7 +7247,7 @@ Geanakoplos, J. (1990). “An Introduction to General Equilibrium with Incomplet
 
 Geanakoplos, J., and A. Mas-Colell. (1989). “Real Indeterminacy with Financial Assets.” Journal of Economic Theory 47: 22-38.
 
-Geanakoplos, J., and H. Polemarchakis. (1986). “Existence, Regularity, and Constrained Suboptimality of Competitive Allocations when the Asset Market is Incomplete.” In W. Heller and D. Starrett (Eds.), Essays in Honor of Kenneth J. Arrow, Volume III, pp. 65-96. Cambridge: Cambridge University Press.
+Geanakoplos, J., and H. Polemarchakis. (1986). “Existence, Regularity, and Constrained Suboptimality of Competitive Allocations when the Asset Market is Incomplete.” In W. Heller and D. Starrett (Eds.), Essays in Honor of Kenneth J. Arrow, Volume III, pp.5-96. Cambridge: Cambridge University Press.
 
 Geanakoplos, J., and W. Shafer. (1990). “Solving Systems of Simultaneous Equations in Economics.” Journal of Mathematical Economics 19: 69-94.
 
@@ -7404,7 +7398,7 @@ Haan, W. D. (1996). “Heterogeneity, Aggregate Uncertainty, and the Short-Term 
 
 Hahn, F. (1994). “On Economies with Arrow Securities.” Working Paper, Department of Economics, Cambridge University.
 
-Hahn, F. (1999). “A Remark on Incomplete Markets Equilibrium.” In G. Chichilnisky (Ed.), Markets, Information and Uncertainty, pp. 67-71. New York: Cambridge University Press.
+Hahn, F. (1999). “A Remark on Incomplete Markets Equilibrium.” In G. Chichilnisky (Ed.), Markets, Information and Uncertainty, pp.7-71. New York: Cambridge University Press.
 
 Hakansson, N. (1970). “Optimal Investment and Consumption Strategies under Risk for a Class of Utility Functions.” Econometrica 38: 587-607.
 
@@ -7537,7 +7531,7 @@ Hobson, D., and L. Rogers. (1998). “Complete Models with Stochastic Volatility
 
 Hodges, S., and A. Carverhill. (1992). “The Characterization of Economic Equilibria which Support Black-Scholes Options Pricing.” Working Paper, Financial Options Research Centre, University of Warwick.
 
-Hodges, S., and M. Selby. (1996). “The Risk Premium in Trading Equilibria Which Support Black-Scholes Option Pricing.” In M. A. H. Dempster and S. R. Pliska (Eds.), Mathematics of Derivative Securities, pp. 41-52. Cambridge: Cambridge University Press.
+Hodges, S., and M. Selby. (1996). “The Risk Premium in Trading Equilibria Which Support Black-Scholes Option Pricing.” In M. A. H. Dempster and S. R. Pliska (Eds.), Mathematics of Derivative Securities, pp.1-52. Cambridge: Cambridge University Press.
 
 Hofmann, N., E. Platen, and M. Schweizer. (1992). “Option Pricing Under Incompleteness and Stochastic Volatility.” Mathematical Finance 2: 153-187.
 
@@ -7673,7 +7667,7 @@ Karatzas, I. (1997). Lectures on the Mathematics of Finance, Providence: America
 
 Karatzas, I., and S.-G. Kou. (1998). “Hedging American Contingent Claims with Constrained Portfolios.” Finance and Stochastics 2: 215-258.
 
-Karatzas, I., P. Lakner, J. Lehoczky, and S. Shreve. (1991). “Equilibrium in a Simplified Dynamic, Stochastic Economy with Heterogeneous Agents.” In E. Mayer-Wolf, A. Schwartz, and O. Zeitouni (Eds.), Stochastic Analysis: Liber Amicorum for Moshe Zakai, pp. 245-272. New York: Academic Press.
+Karatzas, I., P. Lakner, J. Lehoczky, and S. Shreve. (1991). “Equilibrium in a Simplified Dynamic, Stochastic Economy with Heterogeneous Agents.” In E. Mayer-Wolf, A. Schwartz, and O. Zeitouni (Eds.), Stochastic Analysis: Liber Amicorum for Moshe Zakai, pp.45-272. New York: Academic Press.
 
 Karatzas, I., J. Lehoczky, S. Sethi, and S. Shreve. (1986). “Explicit Solution of a General Consumption/Investment Problem.” Mathematics of Operations Research 11: 261-294.
 
@@ -7747,7 +7741,7 @@ Kreps, D. (1979). “Three Essays on Capital Markets.” Working Paper, Institut
 
 Kreps, D. (1981). “Arbitrage and Equilibrium in Economies with Infinitely Many Commodities.” Journal of Mathematical Economics 8: 15-35.
 
-Kreps, D. (1982). “Multiperiod Securities and the Efficient Allocation of Risk: A Comment on the Black-Scholes Option Pricing Model.” In J. McCall (Ed.), The Economics of Uncertainty and Information, pp. 203-232. Chicago: University of Chicago Press.
+Kreps, D. (1982). “Multiperiod Securities and the Efficient Allocation of Risk: A Comment on the Black-Scholes Option Pricing Model.” In J. McCall (Ed.), The Economics of Uncertainty and Information, pp.03-232. Chicago: University of Chicago Press.
 
 Kreps, D. (1988). Notes on the Theory of Choice. Boulder, CO, and London: Westview Press.
 
@@ -7767,7 +7761,7 @@ Kurz, M. (1993). “General Equilibrium with Endogenous Uncertainty.” Working 
 
 Kurz, M. (1997). “Asset Prices with Rational Beliefs.” In M. Kurz (Ed.), Endogenous Economic Fluctuations: Studies in the Theory of Rational Beliefs. New York: Springer Verlag.
 
-Kurz, M. (1998). “Social States of Belief and the Determinants of the Equity Risk Premium in a Rational Belief Equilibrium.” In E. A. Y. A. Abramovich and N. Yannelis (Eds.), Functional Analysis and Economic Theory, pp. 171-220. New York: Springer Verlag.
+Kurz, M. (1998). “Social States of Belief and the Determinants of the Equity Risk Premium in a Rational Belief Equilibrium.” In E. A. Y. A. Abramovich and N. Yannelis (Eds.), Functional Analysis and Economic Theory, pp.71-220. New York: Springer Verlag.
 
 Kurz, M., and A. Beltratti. (1996). “The Equity Premium is No Puzzle.” Working Paper, Department of Economics, Stanford University.
 
@@ -7904,7 +7898,7 @@ Magill, M., and M. Quinzii. (1996b). Theory of Incomplete Markets. Cambridge, MA
 Magill, M., and W. Shafer. (1990). “Characterization of Generically Complete Real Asset
 Structures.” Journal of Mathematical Economics 19: 167-194.
 
-Magill, M., and W. Shafer. (1991). “Incomplete Markets.” In Handbook of Mathematical Economics, Volume 4, pp. 1523-1614. Amsterdam: North-Holland.
+Magill, M., and W. Shafer. (1991). “Incomplete Markets.” In Handbook of Mathematical Economics, Volume 4, pp.523-1614. Amsterdam: North-Holland.
 
 Mankiw, G. (1986). “The Equity Premium and the Concentration of Aggregate Shocks.”
 Journal of Financial Economics 17: 211-219.
@@ -7933,7 +7927,7 @@ Cambridge: Cambridge University Press.
 Mas-Colell, A. (1986a). “The Price Equilibrium Existence Problem in Topological Vector Lattices.” Econometrica 54: 1039-1054.
 
 Mas-Colell, A. (1986b). “Valuation Equilibrium and Pareto Optimum Revisited.” In W
-Hildenbrand and A. Mas-Colell (Eds.), Contributions to Mathematical Economics, pp. 317-332. Amsterdam: North-Holland.
+Hildenbrand and A. Mas-Colell (Eds.), Contributions to Mathematical Economics, pp.17-332. Amsterdam: North-Holland.
 
 Mas-Colell, A. (1987). “An Observation on Geanakoplos and Polemarchakis.” Working Paper, Department of Economics, Harvard University.
 
@@ -7943,7 +7937,7 @@ Mas-Colell, A., and P. Monteiro. (1996). “Self-Fulfilling Equilibria: An Exist
 
 Mas-Colell, A., and W. Zame. (1992). “Equilibrium Theory in Infinite Dimensional Spaces.”
 In W. Hildenbrand and H. Sonnenschein (Eds.), Handbook of Mathematical
-Economics, Volume 4, pp. 1835-1898. Amsterdam: North-Holland.
+Economics, Volume 4, pp.835-1898. Amsterdam: North-Holland.
 
 McConnell, J., and E. Schwartz. (1986). “LYON Taming.” Journal of Finance 41: 561-576.
 
@@ -8017,7 +8011,7 @@ Miltersen, K., and E. Schwartz. (1998). “Pricing of Options on Commodity Futur
 Stochastic Term Structures of Convenience Yields and Interest Rates.” Journal of Financial and Quantitative Analysis 33: 33-59.
 
 Mirrlees, J. (1974). “Optimal Accumulation under Uncertainty: The Case of Stationary
-Returns to Investment.” In J. Dréze (Ed.), Allocation under Uncertainty: Equilibrium and Optimality, pp. 36-50. New York: Wiley.
+Returns to Investment.” In J. Dréze (Ed.), Allocation under Uncertainty: Equilibrium and Optimality, pp.6-50. New York: Wiley.
 
 Mitchell, A., and D. Griffiths. (1980). The Finite Difference Method in Partial Differential Equations. New York: John Wiley.
 
@@ -8045,7 +8039,7 @@ SIAM Journal of Scientific Computing 15: 1251-1279.
 Morokoff, W., and R. Caflisch. (1995). “Quasi-Monte Carlo Integration.” Journal of Computational Physics 122: 218-230.
 
 Moskowitz, B., and R. Caflisch. (1994). “Smoothness and Dimension Reduction in QuasiMonte Carlo Methods.” Working Paper, Department of Mathematics, University of California, Los Angeles.Miller, S. (1985). Arbitrage Pricing of Contingent Claims. Lecture Notes in Economics and
-Mathematical Systems, vol. 254. New York: Springer-Verlag.
+Mathematical Systems, vol.54. New York: Springer-Verlag.
 
 Munk, C. (1997). “No-Arbitrage Bounds on Contingent Claims Prices with Convex Constraints on the Dollar Investments of the Hedge Portfolio.” Working Paper,
 Department of Management, Odense University, Denmark.
@@ -8165,7 +8159,7 @@ Working Paper, Financial Options Research Center, Warwick Business School, Unive
 Pappalardo, L. (1996). “Option Pricing and Smile Effect when Underlying Stock Prices are
 Driven by a Jump Process.” Working Paper, Financial Options Research Centre, University of Warwick.
 
-Pardoux, E. (1997). “Generalized Discontinuous Backward Stochastic Differential Equations.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp. 207-220. Essex: Addison Wesley Longman Ltd.
+Pardoux, E. (1997). “Generalized Discontinuous Backward Stochastic Differential Equations.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp.07-220. Essex: Addison Wesley Longman Ltd.
 
 Pardoux, E., and S. Peng. (1990). “Adapted Solution of a Backward Stochastic Differential Equation.” Systems and Control Letters 14: 55-61.
 
@@ -8216,7 +8210,7 @@ Platen, I. (1994). “Non-linear General Equilibrium Models of the Term Structur
 
 Pliska, S. (1986). “A Stochastic Calculus Model of Continuous Trading: Optimal Portfolios.” Mathematics of Operations Research 11: 371-382.
 
-Pliska, S., and M. Selby. (1994). “On a Free Boundary Problem that Arises in Portfolio Management.” Philosophical Transactions of the Royal Society of London. Series A. 347: 555-561.
+Pliska, S., and M. Selby. (1994). “On a Free Boundary Problem that Arises in Portfolio Management.” Philosophical Transactions of the Royal Society of London. Series A.47: 555-561.
 
 Polemarchakis, H., and B. Ku. (1990). “Options and Equilibrium.” Journal of Mathematical Economics 19: 107-112.
 
@@ -8224,7 +8218,7 @@ Polemarchakis, H., and P. Siconolfi. (1993). “Competitive Equilibria without F
 
 Pollard, D. (1984). Convergence of Stochastic Processes. New York: Springer-Verlag.
 
-Pontier, M. (1997). “Solutions of Forward-Backward Stochastic Differential Equations.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp. 39-46. Essex: Addison Wesley Longman Ltd.
+Pontier, M. (1997). “Solutions of Forward-Backward Stochastic Differential Equations.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp.9-46. Essex: Addison Wesley Longman Ltd.
 
 Poteshman, A. M. (1998). “Estimating a General Stochastic Variance Model from Options Prices.” Working Paper, Graduate School of Business, University of Chicago.
 
@@ -8256,7 +8250,7 @@ Pye, G. (1974). “Gauging the Default Premium.” Financial Analysts Journal (J
 
 Quenez, M.-C. (1992). “Méthodes de Controle Stochastique en Finance.” Working Paper, Ph.D. diss., Laboratoires de Probabilités, Université de Paris VI.
 
-Quenez, M.-C. (1997). “Stochastic Control and BSDEs.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp. 83-100. Essex: Addison Wesley Longman Ltd.
+Quenez, M.-C. (1997). “Stochastic Control and BSDEs.” In N. El Karoui and L. Mazliak (Eds.), Backward Stochastic Differential Equations, pp.3-100. Essex: Addison Wesley Longman Ltd.
 
 Radner, R. (1967). “Equilibre des Marchés a Terme et au Comptant en Cas d’Incertitude.” Cahiers d'Econométrie 4: 35-52.
 
@@ -8416,7 +8410,7 @@ Schaefer, S., and E. Schwartz. (1984). “A Two-Factor Model of the Term Structu
 Approximate Analytical Solution.” Journal of Financial and Quantitative Analysis 19: 413-423.
 
 Scheinkman, J. (1989). “Market Incompleteness and the Equilibrium Valuation of Assets.”
-In S. Bhattacharya and G. Constantinides (Eds.), Theory of Valuation, pp. 45-51.
+In S. Bhattacharya and G. Constantinides (Eds.), Theory of Valuation, pp.5-51.
 Totowa, NJ: Rowman and Littlefield.Scheinkman, J., and L. Weiss. (1986). “Borrowing Constraints and Aggregate Economic Activity.” Econometrica 54: 23-45.
 
 Schoenmakers, J., and A. Heemink. (1996). “Fast Valuation of Financial Derivatives.” Working Paper, Delft University of Technology, The Netherlands.

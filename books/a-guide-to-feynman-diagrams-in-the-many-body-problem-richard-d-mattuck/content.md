@@ -944,9 +944,9 @@ xii CONTENTS
 
 Ground State Energy and the Vacuum Amplitude or ‘No-particle Propagator’ 101
 
-# 5.1 Meaning of the vacuum amplitude. 01
+# 5.1 Meaning of the vacuum amplitude.1
 
-# 5.2 The pinball machine vacuum amplitude. 103
+# 5.2 The pinball machine vacuum amplitude.03
 
 3 Quantum vacuum amplitude for one-particle system.
 
@@ -954,7 +954,7 @@ Ground State Energy and the Vacuum Amplitude or ‘No-particle Propagator’ 101
 
 5 Finding the ground state energy in one-particle system.
 
-# 5.6 The many-body case. 115
+# 5.6 The many-body case.15
 
 Bird’s-Eye View of Diagram Methods in the Many-Body Problem 118
 
@@ -964,13 +964,13 @@ Occupation Number Formalism (Second Quantization) 123
 
 2 Many-body wave function in occupation number formalism.
 
-# 7.3 Operators in occupation number formalism. 128
+# 7.3 Operators in occupation number formalism.28
 
 4 Hamiltonian and Schrödinger equation in occupation number
 
 formalism.
 
-# 7.5 Particle-hole formalism. 136
+# 7.5 Particle-hole formalism.36
 
 6 Occupation number formalism based on ‘single-particle position
 
@@ -6254,9 +6254,9 @@ thus:
 
 x
 
-m 贺 91B!
+m 贺91B!
 
-p3UJ2104 283 带_灬
+p3UJ2104 283带_灬
 
 ‘< 75netpauuolut dog3 ip J 4
 
@@ -6264,25 +6264,25 @@ u > w 巳
 
 2 0 snap ? 口 ((9b'b) “(zb"p) 308)
 
-"Ai— 10 7 一 1 烽
+"Ai— 10 7一1烽
 
-1 4 “ I q i 一 30 ′-_-"蔓潍~_
+1 4 “ I q i 一30 ′-_-"蔓潍~_
 
-fo rojdwexg [ot :alduuex3【一 Jo Jologd【一 30 101983
+fo rojdwexg [ot :alduuex3【一 Jo Jologd【一30 101983
 
 “dool uoftuuaj dog3 “dool aoltuaj yorg
 
 一 a = 网 E 4
 
-二 4<lal 0 二 4<lal 0 =
+二4<lal 0二4<lal 0 =
 
-八 0 Q Wl Tt = Geo ~ 2 2 4y>|q] ‘1 = @—4 W201
+八0 Q Wl Tt = Geo ~ 2 2 4y>|q] ‘1 = @—4 W201
 
 q SuneSedoid-uon 4 :Bunededoid-u0on
 
 ‘ 一奶一口口 af see = (m'9) 291 a uct -2 9 — = G-% ‘9°91
 
-加一 17
+加一17
 
 oF { gene = ( 叨知 !
 
@@ -6294,9 +6294,9 @@ oF { gene = ( 叨知 !
 
 elSefC elSef pron,
 
-aouds-(m 切 ) aogds-(1 史
+aouds-(m 切 ) aogds-(1史
 
-(pogyzatx auorspjon) jonuatod ousasxa ou yim waisds uopusaf-Auou 3U112D421L4 J0/dlpttO1121P wossvig 5 个 3198L
+(pogyzatx auorspjon) jonuatod ousasxa ou yim waisds uopusaf-Auou 3U112D421L4 J0/dlpttO1121P wossvig 5个3198L
 
 --- Page 103 ---
 
@@ -7754,7 +7754,7 @@ operators each of which acts separately on one particle.
 
 (the proof is difficult—see Dirac (1947)
 
-pp. 230
+pp.30
 
 251) that (7.
 
@@ -8040,13 +8040,13 @@ that (c_k c_l^ dagger + c_l^ dagger c_k)|0 rangle = 0
 
 etc.).
 
-4 Write out the Hamiltonian in second quantized form for the system described in Ch. 3
+4 Write out the Hamiltonian in second quantized form for the system described in Ch.
 
 Choose the states phi_i(x) as the single-particle eigenstates.
 
-5 The system of Ch. 3, Ex.
+5 The system of Ch., Ex.
 
-1, is subjected to the perturbation of Ch. 3
+1, is subjected to the perturbation of Ch.
 
 Find the form of the perturbation in occupation number formalism.
 
@@ -9250,7 +9250,7 @@ Ie
 
 ¢) itself—see Schrieffer
 
-(1964), pp. 108-9.
+(1964), pp.08-9.
 
 ) Hence the integral over the intermediate frequency ω gives
 
@@ -9986,7 +9986,7 @@ result is
 
 司 dq (3 : 1
 
-一一 1P4 —27 ee 肉月 ECssranmgeesmomearg
+一一1P4 —27 ee 肉月 ECssranmgeesmomearg
 
 世一圭 al Nos On!
 
@@ -10008,7 +10008,7 @@ we find for the other term
 
 2 dq dl
 
-三一 178 =(-2πi) | 一一 [ 一一一
+三一178 =(-2πi) | 一一 [ 一一一
 
 f= 亿合 =( 2′)丨′(2′′′).
 
@@ -10092,7 +10092,7 @@ We now consider the imaginary part.
 
 variables q=η−l, l=l, “ee
 
-4 二一 2 一 6 一 5
+4二一2一6一5
 
 η>k_F, l<k_F, 阮
 
@@ -10142,9 +10142,9 @@ Hence we have (let {Ω stand for angular variables)
 
 (hp +Cn/kp (o-ep)) dn hp dl
 
-4 二一一一 ——
+4二一一一 ——
 
-Im 友 27 _丨′ Qn } One f dΩ, x
+Im 友27 _丨′ Qn } One f dΩ, x
 
 kr (kp -(n/kpoo-ep))
 
@@ -10216,15 +10216,15 @@ Fetter and Walecka (1971), chap.
 
 Pines (1961), chap.
 
-2, pp. 26-34, 48-51.
+2, pp.6-34, 48-51.
 
 Schultz (1964), chap.
 
-3, pp. 13-62.
+3, pp.3-62.
 
 Schrieffer (1964a), chap.
 
-5, pp. 103-36 (includes phonons).
+5, pp.03-36 (includes phonons).
 
 Thouless (1972).
 
@@ -10238,7 +10238,7 @@ Noziéres (1964), chap.
 
 Anderson (1963), chap.
 
-3, pp. 104-12.
+3, pp.04-12.
 
 Abrikosov (1965),
 
@@ -10612,7 +10612,7 @@ self-energy part h~©) and got
 
 Examples:
 
-4 心 Fone “ (10.3)
+4心 Fone “ (10.3)
 
 In (4.
 
@@ -11360,17 +11360,17 @@ are known as Friedel oscillations and have been observed experimentally.
 
 Fetter and Walecka (1971), chap.
 
-3, pp. 105–111; chap.
+3, pp.05–111; chap.
 
 Schultz (1964), chap.
 
-3, pp. 62–68, 91–105.
+3, pp.2–68, 91–105.
 
 Pines (1961), chap.
 
-2, pp. 52–54; chap.
+2, pp.2–54; chap.
 
-3, pp. 55–69.
+3, pp.5–69.
 
 Pines (1963), chap.
 
@@ -11382,7 +11382,7 @@ Abrikosov (1965), chap.
 
 Schrieffer (1964a), chap.
 
-6, pp. 137–48.
+6, pp.37–48.
 
 Klein (1962).
 
@@ -11394,7 +11394,7 @@ Bjorken (1965), p.
 
 Renormalization in quantum electrodynamics.
 
-Schweber (1961), pp. 557 ff.
+Schweber (1961), pp.57 ff.
 
 — basic definitions.
 
@@ -11442,7 +11442,7 @@ RPA.
 
 potential of the form Uδ(r1–r2).
 
-Using the result of Ch. 7, Ex.
+Using the result of Ch., Ex.
 
 6, find an
 
@@ -12506,7 +12506,7 @@ Interaction: -1
 
 Dotted line:
 
-| _ _ | ------------- _ ; i 丨 7
+| _ _ | ------------- _ ; i 丨7
 
 interaction: ane
 
@@ -14240,7 +14240,7 @@ Let us first draw the pair-bubble and translate it with the aid of Table 14.
 
 (note that there is a factor (— 1) difference between our pair-bubble and that in
 
-Fetter and Walecka (1971), pp. 271-75):
+Fetter and Walecka (1971), pp.71-75):
 
 k+q,
 
@@ -14248,7 +14248,7 @@ k+q,
 
 W, + Ww,
 
-一 .丨′′/3| 1 尹 1 1
+一 .丨′′/3| 1尹1 1
 
 (2m)^2 B <2 u 一 (er- 用 betg + bs — (Eng HD
 
@@ -14322,7 +14322,7 @@ w — plane
 
 Cc’
 
-仪 =E1 一仁 @ = (er+g 一川 — fw;
+仪 =E1一仁 @ = (er+g 一川 — fw;
 
 Fig.
 
@@ -14420,7 +14420,7 @@ Toque) = 2 J 砂川一刀+′)[[一 ——_|.
 
 (14.
 
-Naui 一 6 十 El+g lwp ey gt ey
+Naui 一6十 El+g lwp ey gt ey
 
 Expression (14.
 
@@ -14504,7 +14504,7 @@ written in the form
 
 Tg, w) = 2 en 14.
 
-8 团 ) (2′′′)3[【I′_晕'′′{_餐′+′'一童8【′.
+8团 ) (2′′′)3[【I′_晕'′′{_餐′+′'一童8【′.
 
 |_霉′′{ˇ+E′-{'′8丨 ‘ )
 
@@ -15094,9 +15094,9 @@ In matrix form (15.
 
 1 0 0 1 1 A 14 Ay
 
-2ε⟨0 1 0 一(1 l) ψ⟩=′… 4) (15.
+2ε⟨0 1 0一(1 l) ψ⟩=′… 4) (15.
 
-001 11 1 小 Mda Ay
+001 11 1小 Mda Ay
 
 which has the eigen-solutions
 
@@ -15192,7 +15192,7 @@ where N(0) is the density of states at the Fermi surface.
 
 y
 
-砂 2
+砂2
 
 &
 
@@ -15534,7 +15534,7 @@ the same procedure as in Problem 10.
 
 1+ N(0) {an
 
-+i 2 的 -e Poel
++i 2的 -e Poel
 
 We now make use of some results in appendix L.
 
@@ -16012,7 +16012,7 @@ out, we get (15.
 
 of G^0.
 
-See Schrieffer (1964a), pp. 174-5.
+See Schrieffer (1964a), pp.74-5.
 
 ) Thus, in terms of the spinor
 
@@ -16358,7 +16358,7 @@ Such a computation using the retarded interaction has been carried out by
 
 Schrieffer et al (Schrieffer (1964a)
 
-pp. 180-93)
+pp.80-93)
 
 and it yields a frequency-
 
@@ -16398,7 +16398,7 @@ Evaluating the frequency sum by the same method as in §14.
 
 u = Vip lie y [LP y, Bare)" (s6o)
 
-(2727p “ 26 一 frou
+(2727p “ 26一 frou
 
 # Analytically continuing iw
 
@@ -16590,7 +16590,7 @@ tules:
 
 29), show that
 
-(Pol Hreal o> 二 2 五 e 院一井 Vane tee Vi Ver
+(Pol Hreal o> 二2五 e 院一井 Vane tee Vi Ver
 
 0 E
 
@@ -20436,7 +20436,7 @@ The sum over ωₙ is carried out as in §14.
 
 赋享_
 
-一一一一一 2
+一一一一一2
 
 iω_n—3+2—iω, (N2)
 
@@ -20498,7 +20498,7 @@ where, using (3.
 
 oF = 7 {F(z+iδ)— F(z)}
 
-一 RUl,2,3) 1 一 1
+一 RUl,2,3) 1一1
 
 2 142-—3-z-iδ 142-3-z+iδ
 
@@ -20558,7 +20558,7 @@ conservation.
 
 consider the self-energy diagram given by
 
-卫小 8 一丿十 1 一 1
+卫小8一丿十1一1
 
 2Zo (ns 丿 =(-1)^zP ∫∫∫∫∫ f(1,2,3,4,5)
 
@@ -20572,13 +20572,13 @@ F(1,2,3
 
 4,5) = 五》- 一「五》< 一一一一一一
 
-i 辉亭二5 婶辜二2_.
+i 辉亭二5婶辜二2_.
 
 ' I—s—n+l ©
 
 1 1
 
-5 户一 . 一一一 . N.10
+5户一 . 一一一 . N.10
 
 yer 3-t—n+l (N.
 
@@ -20654,7 +20654,7 @@ we find
 
 ; R(z;1,.
 
-| a 2 扎李刑 BaTIz+MWG-4T3rzT 玖 N12)
+| a 2扎李刑 BaTIz+MWG-4T3rzT 玖 N12)
 
 where |
 
@@ -20864,7 +20864,7 @@ F2
 
 r r
 
-园门 2 2
+园门2 2
 
 巳 + + + + + +
 
@@ -20968,11 +20968,11 @@ G*(n, w) = ′
 
 se (3.
 
-吴 9 Gee :
+吴9 Gee :
 
 (iQ) G5(s) G8(k) 三 G5(r) G3(q) C5(p)
 
-OX 历 0 Woe Wie We = E > else ep-k) Ry
+OX 历0 Woe Wie We = E > else ep-k) Ry
 
 dp dq
 
@@ -20988,13 +20988,13 @@ iosaey (% y B 丿 G GSO) n Way Wire Wop Bae
 
 # 4.2 (a) 0.
 
-传班 18.
+传班18.
 
 (9 cfe,11111000.
 
 >=]11111000.
 
->, for k < kp, and 二 0, for k> kp.
+>, for k < kp, and 二0, for k> kp.
 
 Hence 5 e, cf. cy]1 1111000.
 
@@ -21052,7 +21052,7 @@ I-A] 2 Go(w) + > cain)
 
 t>kp m<kp
 
-or G*(q,p,ω) = G5(p,w) 5 十
+or G*(q,p,ω) = G5(p,w) 5十
 
 ) AfpSa Go (P,)
 
@@ -21060,7 +21060,7 @@ I-A] 5 Gio) f7+ > cut
 
 1>hkF m<kp
 
-(b) G*(q,p,ω) = G3 (pw) 5 十
+(b) G*(q,p,ω) = G3 (pw) 5十
 
 # Chapter 5
 
@@ -21180,7 +21180,7 @@ Using appendix (K.
 
 # Hence
 
-S2°=4 五 88,.
+S2°=4五88,.
 
 cet = 45 Ick, Cy teh Cay).
 
@@ -21244,7 +21244,7 @@ c improper.
 
 ka i i @ o
 
-# 10.2 山一一山十
+# 10.2山一一山十
 
 ky
 
@@ -21274,15 +21274,15 @@ as can be verified by substitution in (10.
 
 a is proper, d improper.
 
-k 心 9
+k 心9
 
-7 心一
+7心一
 
 # Onde
 
 B+w * eq
 
-7 十人
+7十人
 
 K(q,w) = a[t-ai = Go(p, -) Gi(q-p, w -o|
 
@@ -21362,7 +21362,7 @@ For q>2: Vq areane) a3 a |
 
 atg = 2: - +
 
-g 一 2: 一一二十心
+g 一2: 一一二十心
 
 dq
 
@@ -21388,7 +21388,7 @@ second diagram on the right of (11.
 
 Z _ r sgn a(1- 切 - 门 B[a(1- 小 -
 
-x 二 (1 一 te.
+x 二 (1一 te.
 
 G 切
 
@@ -21398,7 +21398,7 @@ now) SPV, if dp gion
 
 =-1 want Hie —
 
-1B | 心 2a Pel +i(B—p)5
+1B | 心2a Pel +i(B—p)5
 
 Poles are at w= };—i(¢;—j)5.
 
@@ -21432,13 +21432,13 @@ q
 
 =(-' > at oA
 
-P (Ek 十 5 一 Ek+a 一 <ie)
+P (Ek 十5一 Ek+a 一 <ie)
 
 The diagram with n bubbles contains the factor in brackets to the nth power.
 
 Hence we have a geometric series which may be summed to yield
 
-一王 12 v2
+一王12 v2
 
 é= ory | are i
 
@@ -21448,7 +21448,7 @@ where 月二二 Vimim-
 
 网一 k
 
-(ex 十 < 一 Ek+a 一 5iLa)
+(ex 十 < 一 Ek+a 一5iLa)
 
 # Chapter 13
 
@@ -21484,7 +21484,7 @@ which may immediately be translated into the zeroth-order diagrams of (13.
 
 # 14.1【菩〕丿丶′′馨-螭【屡'-′二萱 inZ
 
-= erento 3 一
+= erento 3一
 
 # 14.2 By (14.12), inZ = h In (1+e),
 
@@ -21512,7 +21512,7 @@ k, wn > > iDok—G, w,—€n)
 
 士 + <m
 
-x( 一 2
+x( 一2
 
 --- Page 427 ---
 
@@ -21526,9 +21526,9 @@ bb, |%o> = 23 ne Chy Cay Ching Cg lens Meg one Ming (= h 仪小
 
 - 23 Mey M4 y| Pod
 
-= 2D emg |Po> (Since nx1 = ny, 二 0 or 1)
+= 2D emg |Po> (Since nx1 = ny, 二0 or 1)
 
-人怡票 Ek | 东 02.
+人怡票 Ek | 东02.
 
 2 [ogy of] = ty e[cect 吴刀一砂 pe[ceh c 一 .
 
@@ -21552,17 +21552,17 @@ ae - 口爬门崛m)Tr[r，x 懈(kg…′)〕倒灬'
 
 F(k,0*) 二 —i<Polcxy c-24|Yo>
 
-XV 1—v3<$|¢> = Y1 一垮
+XV 1—v3<$|¢> = Y1一垮
 
 where |4>=I] (uu+Db1)|02
 
 # In normal state
 
-Dx==1 一 0 so F=0.
+Dx==1一0 so F=0.
 
 # In super-
 
-conducting state F 八 0.
+conducting state F 八0.
 
 # Chapter 17
 
@@ -21596,7 +21596,7 @@ b, ImhV (a
 
 ImhV(@
 
-0,) 7 乡 ] 十万 adc [FU]
+0,) 7乡 ] 十万 adc [FU]
 
 - 顶 ^/ '二′青 My, u]+ 殆 Y 石矶 [&o Ue.
 
@@ -21620,7 +21620,7 @@ tess Onn.
 
 6 Five phonons.
 
-7 下二二一 hw, + 2hw,,+ 3hw,,.
+7下二二一 hw, + 2hw,,+ 3hw,,.
 
 # Appendix C
 
@@ -21656,7 +21656,7 @@ co kt 7
 
 广一 k.
 
-忍 ( 一 1J <0, br, BE BE ah, 10) = ty OO
+忍 ( 一1J <0, br, BE BE ah, 10) = ty OO
 
 1 kk n
 
@@ -21664,15 +21664,15 @@ co kt 7
 
 # Appendix H
 
-H3 闹
+H3闹
 
-(@) un 二 55 ey [ 吴 + 尽十砂 ],(m = 0.
+(@) un 二55 ey [ 吴 + 尽十砂 ],(m = 0.
 
 1,2,.
 
 (b) 4E = WP /2m* L?
 
-, f (build-up) 二 2m*L7/h
+, f (build-up) 二2m*L7/h
 
 --- Page 429 ---
 
@@ -21910,7 +21910,7 @@ Mottelson)
 
 # Nuclear Structure
 
-vol. 1
+vol.
 
 # Benjamin
 
@@ -22648,7 +22648,7 @@ de Phys.
 
 , Supplement to
 
-vol. 32, P.
+vol.2, P.
 
 C1-432 (1971).
 
@@ -23228,7 +23228,7 @@ angels on pinhead problem, |
 
 anomalous diagrams, 162, 215, 245
 
-anomalous propagators, 268, 293 仁
+anomalous propagators, 268, 293仁
 
 antisymmetry, 125, 130
 
@@ -23922,7 +23922,7 @@ much more.
 
 Numerous drawings.
 
-240pp. 5⅜ x 8.
+240pp.⅜ x 8.
 
 24895-X Pa.
 
@@ -23938,7 +23938,7 @@ and without the intervention of determinants.
 
 Includes exercises.
 
-237pp. 5⅜ x 8%.
+237pp.⅜ x 8%.
 
 66810-X Pa.
 
@@ -23958,7 +23958,7 @@ Chadwick's study of the neutron, Hertz on electromagnetic waves, more.
 
 Original accounts clearly annotated.
 
-370pp. 5⅜ x 8%.
+370pp.⅜ x 8%.
 
 25346-5 Pa.
 
@@ -23976,7 +23976,7 @@ differential equations applied to common problems in engineering and the
 
 physical sciences, Problems and answers.
 
-416pp. 5⅜ x 8%.
+416pp.⅜ x 8%.
 
 65251-3 Pa.
 
@@ -24024,7 +24024,7 @@ more.
 
 Problems.
 
-884pp. 5⅜ x 8%.
+884pp.⅜ x 8%.
 
 65456-7 Pa.
 
@@ -24048,7 +24048,7 @@ micrometers, spectroscopes, more.
 
 189 illustrations.
 
-576pp. 5⅜ x 8¼.
+576pp.⅜ x 8¼.
 
 (USO) 24034-7 Pa.
 
@@ -24070,7 +24070,7 @@ to specific problems of physics and engineering.
 
 38 figures.
 
-308pp. 5⅜ x 8%.
+308pp.⅜ x 8%.
 
 60624-4 Pa.
 
@@ -24096,9 +24096,9 @@ variables
 
 binaries
 
-etc. 39 illustrations.
+etc.9 illustrations.
 
-384pp. 5⅜ x 8%.
+384pp.⅜ x 8%.
 
 (Available in U.
 
@@ -24122,7 +24122,7 @@ Exercises.
 
 Bibliography.
 
-238pp. 5⅜ x 8%.
+238pp.⅜ x 8%.
 
 64828-1 Pa.
 
@@ -24138,7 +24138,7 @@ mable aid for locating and identifying nearly 4
 
 77 illustrations.
 
-645pp. 5⅜ x 8%.
+645pp.⅜ x 8%.
 
 20917-2, 20918-0 Pa.
 
@@ -24160,7 +24160,7 @@ to the existing literature.
 
 "—Math Reviews.
 
-490pp. 5⅜ x 8% 64232-1 Pa.
+490pp.⅜ x 8% 64232-1 Pa.
 
 # FUNDAMENTALS OF ASTRODYNAMICS
 
@@ -24178,7 +24178,7 @@ exercises.
 
 Numerous illustrations.
 
-455pp. 5⅜ x 8%.
+455pp.⅜ x 8%.
 
 60061-0 Pa.
 
@@ -24202,7 +24202,7 @@ Exercises with solutions.
 
 Undergraduate level.
 
-416pp. 5⅜ x 8%.
+416pp.⅜ x 8%.
 
 65191-6 Pa.
 
@@ -24264,7 +24264,7 @@ observational techniques
 
 much more.
 
-708pp. 5⅜ x 8%.
+708pp.⅜ x 8%.
 
 65646-2 Pa.
 
@@ -24292,7 +24292,7 @@ other topics.
 
 Problems.
 
-240pp. 5⅜ x 8%.
+240pp.⅜ x 8%.
 
 65609-8 Pa.
 
@@ -24314,7 +24314,7 @@ Originally prepared for NASA.
 
 537 figures.
 
-640pp. 6¾ x 9%.
+640pp.¾ x 9%.
 
 64647-5 Pa.
 
@@ -24336,7 +24336,7 @@ Exercises.
 
 62 figures.
 
-378pp. 5⅜ x 8%.
+378pp.⅜ x 8%.
 
 63433-7 Pa.
 
@@ -24364,7 +24364,7 @@ Bibliography.
 
 Index.
 
-352pp. 5⅜ x 8%.
+352pp.⅜ x 8%.
 
 6513-4 Pa.
 
@@ -24382,7 +24382,7 @@ new developments.
 
 Includes numerous problems.
 
-192pp. 5⅜ x 8%.
+192pp.⅜ x 8%.
 
 64998-9 Pa.
 
@@ -24424,7 +24424,7 @@ Set theory and logic seen as tools for conceptual
 
 understanding of real number system.
 
-496pp. 5⅜ x 8¼.
+496pp.⅜ x 8¼.
 
 63829-4 Pa.
 
@@ -24448,7 +24448,7 @@ Contributions of ancient Greeks,
 
 many others.
 
-667 pp. 5⅜ x 8%.
+667 pp.⅜ x 8%.
 
 65632-2 Pa.
 
@@ -24498,7 +24498,7 @@ Index.
 
 Preface.
 
-436pp. 5⅜ x 8%.
+436pp.⅜ x 8%.
 
 64785-4 Pa.
 
@@ -24540,7 +24540,7 @@ theories of elasticity and structure.
 
 245 figures.
 
-452pp. 5⅜ x 8%.
+452pp.⅜ x 8%.
 
 61187-6 Pa.
 
@@ -24562,7 +24562,7 @@ the Moebius transformation
 
 and two-dimensional non-Euclidean geometries.
 
-200pp. 5⅜ x 8¼.
+200pp.⅜ x 8¼.
 
 63830-8 Pa.
 
@@ -24580,9 +24580,9 @@ loaded
 
 beams and cables
 
-etc. 334 answered problems.
+etc.34 answered problems.
 
-462pp. 5⅜ x 8%.
+462pp.⅜ x 8%.
 
 60754-2 Pa.
 
@@ -24610,7 +24610,7 @@ Bibliography.
 
 Index.
 
-384pp. 5½ x 8½.
+384pp.½ x 8½.
 
 65676-4 Pa.
 
@@ -24632,7 +24632,7 @@ methods, applications.
 
 350 answered problems.
 
-323pp. 5½ x 8½.
+323pp.½ x 8½.
 
 60755-0 Pa.
 
@@ -24648,7 +24648,7 @@ concepts of topology are useful in math and physics.
 
 25 figures.
 
-57pp. 5½ x 8½.
+57pp.½ x 8½.
 
 60747-X Pa.
 
@@ -24670,7 +24670,7 @@ more.
 
 Many problems and answers.
 
-388pp. 5½ X 8½.
+388pp.½ X 8½.
 
 65407-9 Pa.
 
@@ -24688,7 +24688,7 @@ recursive functions.
 
 New preface and appendix.
 
-288pp. 5½ x 8½.
+288pp.½ x 8½.
 
 61471-9 Pa.
 
@@ -24708,7 +24708,7 @@ thermodynamics correlated with descriptive chemistry.
 
 Problems.
 
-992pp. 5½ x 8½.
+992pp.½ x 8½.
 
 65622-5 Pa.
 
@@ -24738,7 +24738,7 @@ engineering.
 
 Problems.
 
-164pp. 5½ x 8½.
+164pp.½ x 8½.
 
 65077-4 Pa.
 
@@ -24756,7 +24756,7 @@ not individual biography.
 
 coherent set of chemical laws.
 
-260pp. 5½ x 8½.
+260pp.½ x 8½.
 
 61053-5 Pa.
 
@@ -24784,7 +24784,7 @@ dices.
 
 Index.
 
-198pp. 5½ x 8½.
+198pp.½ x 8½.
 
 25048-2 Pa.
 
@@ -24812,7 +24812,7 @@ Indices.
 
 Appendices.
 
-851 pp. 5½ x 8.
+851 pp.½ x 8.
 
 64235-6 Pa.
 
@@ -24848,7 +24848,7 @@ Index.
 
 figures.
 
-228pp. 5½ x 8½.
+228pp.½ x 8½.
 
 65092-8 Pa.
 
@@ -24898,7 +24898,7 @@ much more.
 
 Bibliographies.
 
-322pp. 5½ x 8½.
+322pp.½ x 8½.
 
 65252-1 Pa.
 
@@ -24928,7 +24928,7 @@ Bibliography.
 
 Indices.
 
-820pp. 5½ x 8½.
+820pp.½ x 8½.
 
 64575-4 Pa.
 
@@ -24946,7 +24946,7 @@ dependent events
 
 etc. Translation by Richard Silverman.
 
-148pp. 5½ x 8½,
+148pp.½ x 8½,
 
 63544-9 Pa.
 
@@ -24968,7 +24968,7 @@ Index.
 
 97 illustrations.
 
-640pp. 6 x 9.
+640pp. x 9.
 
 65096-0 Pa.
 
@@ -24988,7 +24988,7 @@ Stress on use.
 
 Basics of statistics assumed.
 
-288pp. 5½ x 8½.
+288pp.½ x 8½.
 
 60599-X Pa.
 
@@ -25010,7 +25010,7 @@ nonparametric tests
 
 much more.
 
-208pp. 5½ x 8½.
+208pp.½ x 8½.
 
 66796-0 Pa.
 
@@ -25030,7 +25030,7 @@ agriculture
 
 other areas.
 
-192pp. 5½ x 8½.
+192pp.½ x 8½.
 
 65232-7 Pa.
 
@@ -25050,7 +25050,7 @@ hydrothermal
 
 melting, more.
 
-288pp. 6½ x 9½.
+288pp.½ x 9½.
 
 65389-7 Pa.
 
@@ -25102,7 +25102,7 @@ modern times (1556).
 
 All 289 original woodcuts.
 
-638pp. 6½ x 11.
+638pp.½ x 11.
 
 60006-8 Pa.
 
@@ -25126,7 +25126,7 @@ tables.
 
 90 figures.
 
-xvii + 602pp. 5½ x 8½.
+xvii + 602pp.½ x 8½.
 
 64684-X Pa.
 
@@ -25148,7 +25148,7 @@ cranes
 
 more.
 
-608pp. 9 x 12.
+608pp. x 12.
 
 (EBE)
 
@@ -25174,7 +25174,7 @@ Game theory, modern welfare
 
 economics, Leontief input-output, more.
 
-525pp. 5½ X 8½.
+525pp.½ X 8½.
 
 65491-5 Pa.
 
@@ -25196,7 +25196,7 @@ much more.
 
 Exercises.
 
-364pp. 5½ x 8½.
+364pp.½ x 8½.
 
 65218-1 Pa.
 
@@ -25220,7 +25220,7 @@ Prefaces.
 
 Appendices.
 
-268pp. 5½ x 8½.
+268pp.½ x 8½.
 
 25101-2 Pa.
 
@@ -25252,7 +25252,7 @@ Exercises.
 
 Bibliography.
 
-448pp. 5½ x 8½.
+448pp.½ x 8½.
 
 65703-5 Pa.
 
@@ -25276,7 +25276,7 @@ geometry, much more.
 
 Abundant explanations, examples.
 
-416pp. 5½ x 8½.
+416pp.½ x 8½.
 
 65685-3 Pa.
 
@@ -25290,7 +25290,7 @@ Great 20th-century mathematician's classic work on material
 
 necessary for mathematical grasp of theory of relativity.
 
-452pp. 5½ x 8½.
+452pp.½ x 8½.
 
 63401-9 Pa.
 
@@ -25310,7 +25310,7 @@ solutions
 
 exer-cises
 
-257pp. 5½ x 8½.
+257pp.½ x 8½.
 
 63833-2 Pa.
 
@@ -25332,7 +25332,7 @@ basic operations in Riemannian space
 
 non-Riemannian
 
-spaces, etc. 324pp. 5½ x 8½.
+spaces, etc.24pp.½ x 8½.
 
 63612-7 Pa.
 
@@ -25352,7 +25352,7 @@ Near East to 19th century.
 
 41 illustrations.
 
-195pp. 5½ x 8½.
+195pp.½ x 8½.
 
 60255-9 Pa.
 
@@ -25376,7 +25376,7 @@ cians through 19th-century figures such as Grassman
 
 edition.
 
-522pp. 5½ x 8½.
+522pp.½ x 8½.
 
 20630-0 Pa.
 
@@ -25426,7 +25426,7 @@ Descartes’ own diagrams
 
 together with definitive Smith-Latham translation.
 
-244pp. 5½ x 8½.
+244pp.½ x 8½.
 
 60068-8 Pa.
 
@@ -25452,7 +25452,7 @@ contributions of Newton
 
 more.
 
-304pp. 5½ x 8½.
+304pp.½ x 8½.
 
 (Available in U.
 
@@ -25474,7 +25474,7 @@ Newton, Leibniz, rigorous formulation.
 
 Treatment is verbal.
 
-346pp. 5½ x 8½.
+346pp.½ x 8½.
 
 60509-4 Pa.
 
@@ -25494,7 +25494,7 @@ linguistic notes, mathematical analysis.
 
 abridged.
 
-1414pp. 5½ x 8½.
+1414pp.½ x 8½.
 
 60088-2, 60089-0, 60090-4 Pa.
 
@@ -25524,7 +25524,7 @@ decision-making, much more.
 
 Bibliography.
 
-509pp. 5½ x 8½.
+509pp.½ x 8½.
 
 65943-7 Pa.
 
@@ -25550,7 +25550,7 @@ geometry and number systems derived from ancient
 
 civilizations.
 
-320pp. 5½ x 8½.
+320pp.½ x 8½.
 
 25563-8 Pa.
 
@@ -25564,7 +25564,7 @@ important aspects of integral and differential calculus via 756 questions.
 
 problems, most answered.
 
-431 pp. 5½ x 8½.
+431 pp.½ x 8½.
 
 20370-0 Pa.
 
@@ -25596,7 +25596,7 @@ polygons, many other topics.
 
 Solutions.
 
-Total of 445pp. 5½ x 8½.
+Total of 445pp.½ x 8½.
 
 Two-vol. set.
 
@@ -25622,7 +25622,7 @@ elementary and advanced aspects of probability.
 
 Detailed solutions.
 
-88pp. 5½ x 8½.
+88pp.½ x 8½.
 
 65355-2 Pa.
 
@@ -25650,7 +25650,7 @@ clarity and wit.
 
 43 figures.
 
-210pp. 5½ x 8½.
+210pp.½ x 8½.
 
 25933-1 Pa.
 
@@ -25670,7 +25670,7 @@ Only high school geometry needed.
 
 Bibliography.
 
-128pp. 6½ x 9½.
+128pp.½ x 9½.
 
 25965-X Pa.
 
@@ -25690,7 +25690,7 @@ problems (with answers).
 
 Index.
 
-304pp. 5½ x 8½.
+304pp.½ x 8½.
 
 65942-9 Pa.
 
@@ -25710,7 +25710,7 @@ problems.
 
 Answers and notes.
 
-416pp. 5½ x 8½.
+416pp.½ x 8½.
 
 65973-9 Pa.
 
@@ -25740,7 +25740,7 @@ Rigorous proofs.
 
 Bibliography.
 
-240pp. 5½ x 8½.
+240pp.½ x 8½.
 
 65952-6 Pa.
 
@@ -25760,7 +25760,7 @@ groups, theory of rings, much more.
 
 exercises.
 
-247 pp. 5½ x 8½. 65940-2 Pa. $6.95
+247 pp.½ x 8½.5940-2 Pa. $6.95
 
 Prices subject to change without notice.
 

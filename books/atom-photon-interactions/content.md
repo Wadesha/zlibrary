@@ -408,11 +408,11 @@ Lamb-Dicke Effect.
 
 cece cece eee nen
 
-. Rayleigh Scattering . 0.1... ec cece eee ene ee
+. Rayleigh Scattering ..1... ec cece eee ene ee
 
 . Thomson Scattering 0.0.2... ccc cece eects
 
-. Resonant Scattering... 0... ccc cee cece tenes
+. Resonant Scattering...... ccc cee cece tenes
 
 Optical Detection of a Level Crossing between Two Excited
 
@@ -24963,7 +24963,7 @@ and b.
 
 --- Page 537 ---
 
-516 Exercises Ex. 1
+516 Exercises Ex.
 
 b) Calculate the commutator [r
 
@@ -25175,7 +25175,7 @@ where a₀ is the Bohr radius.
 
 --- Page 539 ---
 
-518 Exercises Ex. 2
+518 Exercises Ex.
 
 # In the hydrogen atom
 
@@ -25569,7 +25569,7 @@ slightly more difficult.
 
 # There is no direct coupling
 
-530 Exercises Ex. 5
+530 Exercises Ex.
 
 between |ψ_i⟩ and |ψ_f⟩ and F_{ai} is equal
 
@@ -25905,7 +25905,7 @@ Rev.
 
 --- Page 555 ---
 
-534 Exercises Ex. 6
+534 Exercises Ex.
 
 # Energy
 
@@ -26053,7 +26053,7 @@ in the solid angle dΩ, about kⱼ is
 
 --- Page 557 ---
 
-536 Exercises Ex. 6
+536 Exercises Ex.
 
 α) By replacing σ by its expression (9)
 
@@ -26877,7 +26877,7 @@ vector potential evaluated at .
 
 --- Page 611 ---
 
-590 Exercises Ex. 15
+590 Exercises Ex.5
 
 a) The particle + radiation system is initially in the state
 
@@ -27189,7 +27189,7 @@ It allows us to show that the interference between the 7!
 
 --- Page 617 ---
 
-596 Exercises Ex. 16
+596 Exercises Ex.6
 
 amplitudes corresponding to the n!
 
@@ -27411,7 +27411,7 @@ A, 12, 1919 (1975).
 
 --- Page 619 ---
 
-598 Exercises Ex. 17
+598 Exercises Ex.7
 
 a) Consider the unitary operator
 
@@ -27997,7 +27997,7 @@ elements g_{ij}^{(N)} proportional to ε’ e^{iφ’} whose time dependence is 
 
 --- Page 631 ---
 
-610 Exercises Ex. 20
+610 Exercises Ex.0
 
 e) Calculate the component of <d₋> evolving as ε’ e^{-iω’t}.
 
@@ -28143,7 +28143,7 @@ deduce from this result that
 
 --- Page 633 ---
 
-612 Exercises Ex. 20
+612 Exercises Ex.0
 
 j) Formula (7.
 
@@ -28426,7 +28426,7 @@ the velocity groups that make an important contribution to (α) are such that th
 
 --- Page 635 ---
 
-614 Exercises Ex. 20
+614 Exercises Ex.0
 
 # Remark
 
@@ -28586,7 +28586,7 @@ s^4 1 25656 6456 2
 
 --- Page 638 ---
 
-618 Exercises Ex. 20
+618 Exercises Ex.0
 
 i) According to (6.
 
@@ -28814,7 +28814,7 @@ instead of (34.
 
 --- Page 641 ---
 
-620 Exercises Ex. 20
+620 Exercises Ex.0
 
 To find the behavior at δ
 
@@ -28986,7 +28986,7 @@ presentation.
 
 --- Page 643 ---
 
-622 Appendix App. 1
+622 Appendix App.
 
 where the charge density ρ(r
 
@@ -29068,7 +29068,7 @@ cursive or italic letter.
 
 --- Page 644 ---
 
-App. 1 Appendix 623
+App. Appendix 623
 
 independent variables for the field.
 
@@ -29174,7 +29174,7 @@ particle a) with the magnetic field B(r).
 
 --- Page 651 ---
 
-630 Appendix App. 3
+630 Appendix App.
 
 # The third term
 
@@ -29240,7 +29240,7 @@ P = Σ_a p_a + P_tr.
 
 --- Page 652 ---
 
-App. 3 Appendix 631
+App. Appendix 631
 
 The first term represents the momentum of the particles and the momentum of the longitudinal field associated with them
 
@@ -29300,7 +29300,7 @@ H_RR = Σ_{kλ} ℏω_k a_{kλ}† a_{kλ}.
 
 --- Page 653 ---
 
-632 Appendix App. 3
+632 Appendix App.
 
 # For systems of bound particles
 
@@ -29400,7 +29400,7 @@ However, in the
 
 --- Page 654 ---
 
-App. 4 Appendix 633
+App. Appendix 633
 
 absence of particles
 
@@ -29482,7 +29482,7 @@ E_tr = ⊗_{kλ} E_{kλ}.
 
 --- Page 655 ---
 
-634 Appendix App. 4
+634 Appendix App.
 
 We now consider E_{kλ} in more detail.
 
@@ -29544,7 +29544,7 @@ eigenvalue α_{kλ},
 
 --- Page 656 ---
 
-App. 5 Appendix 635
+App. Appendix 635
 
 and its expansion onto the basis {|n_{kλ}⟩} is given by
 
@@ -33018,7 +33018,7 @@ John Wiley & Sons, Inc.
 
 Professional, Reference and Trade Group
 
-605 Third Avenue, New York, N.Y. 10158-0012
+605 Third Avenue, New York, N.Y.0158-0012
 
 New York • Chichester • Weinheim
 
@@ -33912,7 +33912,7 @@ John Wiley & Sons, Inc.
 
 Professional, Reference and Trade Group
 
-605 Third Avenue, New York, N.Y. 10158-0012
+605 Third Avenue, New York, N.Y.0158-0012
 
 New York • Chichester • Weinheim
 

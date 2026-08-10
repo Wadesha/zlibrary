@@ -13150,7 +13150,7 @@ The proof may be found in Shiryayev (1984
 
 # Theorem 2
 
-pp. 247-249)
+pp.47-249)
 
 Neveu (1965
 
@@ -13160,7 +13160,7 @@ sect.
 
 # Theorem 3
 
-pp. 81-82).
+pp.1-82).
 
 Our discussion of stochastic kernels in Section 8.
 
@@ -16912,9 +16912,9 @@ the transition matrix Π takes the (almost block diagonal) form
 
 R_{0M}
 
-0 R_{11} 0 ... 0
+0 R_{11} 0 ...
 
-0 0 R_{22} ... 0
+0 0 R_{22} ...
 
 : : : : :
 
@@ -18476,7 +18476,7 @@ where the last line uses Theorem 7.
 
 (ε)} is a decreas-
 
-ing sequence with n 忌 1Exs) = 0.
+ing sequence with n 忌1Exs) = 0.
 
 Since this holds for every s > 0 not in
 
@@ -20224,7 +20224,7 @@ Set, with its Borel subsets f
 
 let C(S) be the space of bounded continuous functions
 
-与 8 一 Ri
+与8一 Ri
 
 and let ®(S
 
@@ -20248,7 +20248,7 @@ see Royden (1968
 
 # Theorem 8
 
-pp. 310-
+pp.10-
 
 311).
 
@@ -25634,7 +25634,7 @@ Berkeley: Uni-
 
 versity of California Press
 
-pp. 507-532.
+pp.07-532.
 
 Reprinted in Arrow (1983)
 
@@ -25650,7 +25650,7 @@ Econometrie.
 
 Paris: Centre National de la Recherche Scienti-
 
-fique, pp. 41-48.
+fique, pp.1-48.
 
 Translated as “The role of securities in the optimal
 
@@ -25764,7 +25764,7 @@ Behnke, Heinrich, et al. (eds.
 
 1974.
 
-Fundamentals of Mathematics, vol. 3.
+Fundamentals of Mathematics, vol..
 
 Cambridge, Mass.
 
@@ -26014,7 +26014,7 @@ McCall.
 
 Chicago: University of
 
-Chicago Press, pp. 1-43.
+Chicago Press, pp.-43.
 
 Brock, William A.
 
@@ -26080,7 +26080,7 @@ Feiwel.
 
 # New York University Press
 
-pp. 591-
+pp.91-
 
 622.
 
@@ -26314,7 +26314,7 @@ Proceedings of the National Academy of Sciences 40
 
 588–592.
 
-Reprinted in Debreu (1983), pp. 98–104.
+Reprinted in Debreu (1983), pp.8–104.
 
 1959.
 
@@ -26382,7 +26382,7 @@ Dynkin, E.
 
 1965.
 
-Markov Processes, vol. 1.
+Markov Processes, vol..
 
 Berlin: Springer-Verlag.
 
@@ -26456,7 +26456,7 @@ Feller, William.
 
 An Introduction to Probability Theory and Its Applications
 
-vol. 2
+vol.
 
 Second Edition.
 
@@ -26634,7 +26634,7 @@ Prescott.
 
 Invariant distributions for monotone Markov processes.
 
-Federal Reserve Bank of Minneapolis Working Paper No. 299
+Federal Reserve Bank of Minneapolis Working Paper No.99
 
 # Minneapolis
 
@@ -26706,7 +26706,7 @@ Hugo F.
 
 Sonnenschein.
 
-Berlin: Springer-Verlag, pp. 184–205.
+Berlin: Springer-Verlag, pp.84–205.
 
 Jones, Larry E.
 
@@ -26796,7 +26796,7 @@ Kemeny, John G.
 
 Laurie Snell, and Anthony W.
 
-Knapp. 1976.
+Knapp.976.
 
 # Denumerable Markov Chains
 
@@ -26956,7 +26956,7 @@ Journal of Political Economy 91:39–69.
 
 Lucas, Robert E.
 
-, Jr. 1967a.
+, Jr.967a.
 
 Optimal investment policy and the flexible accelerator.
 
@@ -27126,7 +27126,7 @@ Valuation equilibrium and Pareto optimum revisited.
 
 Andreu Mas-Colell.
 
-Amsterdam: North-Holland, pp. 317-331.
+Amsterdam: North-Holland, pp.17-331.
 
 McCall, John J.
 
@@ -27156,7 +27156,7 @@ Cambridge, Mass.
 
 : Harvard University
 
-Press, pp. 16-50.
+Press, pp.6-50.
 
 McKenzie, Lionel W.
 
@@ -27172,7 +27172,7 @@ John Eatwell, Murray Milgate, and Peter
 
 Newman.
 
-New York: Stockton Press, pp. 712-720.
+New York: Stockton Press, pp.12-720.
 
 Mehra, Rajnish, and Edward C.
 
@@ -27238,7 +27238,7 @@ Phelps et al. Microeconomic Foundations of Employment and
 
 Inflation Theory.
 
-New York: Norton, pp. 167-211.
+New York: Norton, pp.67-211.
 
 1973.
 
@@ -27326,7 +27326,7 @@ Wesley.
 
 Pontryagin, L.
 
-, et al. 1962.
+, et al.962.
 
 The Mathematical Theory of Optimal Processes.
 
@@ -27358,7 +27358,7 @@ Prescott, Edward C.
 
 , and Robert E.
 
-Lucas, Jr. 1972.
+Lucas, Jr.972.
 
 # Price systems in infinite
 
@@ -27670,7 +27670,7 @@ rium Analysis
 
 Essays in Honor of Kenneth J.
 
-Arrow, vol. 2, ed.
+Arrow, vol., ed.
 
 Walter P.
 
@@ -27680,7 +27680,7 @@ Starr, and David Starrett.
 
 Cambridge: Cambridge Uni-
 
-versity Press, pp. 81-104.
+versity Press, pp.1-104.
 
 Strauch, Ralph E.
 

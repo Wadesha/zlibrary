@@ -6348,7 +6348,7 @@ ali* is then
 
 tol, + ik
 
-W) = 一 50 [ik x (ik x of 月土月 (B.
+W) = 一50 [ik x (ik x of 月土月 (B.
 
 which is finally, using (B.
 
@@ -6554,7 +6554,7 @@ where
 
 r
 
-dr 二 dt 1 一五 (B.
+dr 二 dt 1一五 (B.
 
 c
 
@@ -6594,7 +6594,7 @@ it appears possible to introduce a fully relativistic
 
 zt
 
-二井一万 u c 儿 1 一羞十誓_[(i…r〔】重`′z(r) 一 02 B(r)] +
+二井一万 u c 儿1一羞十誓_[(i…r〔】重`′z(r) 一02 B(r)] +
 
 十丁 [g:h “ Al) 一 g: U(rJ】(B.33)
 
@@ -6694,7 +6694,7 @@ by
 
 A(t, 0) = A(t, ) 十 F(r 1) (B.
 
-U(r) = U(r 0 一 £ F(r 1) (B.
+U(r) = U(r 0一 £ F(r 1) (B.
 
 --- Page 137 ---
 
@@ -9770,7 +9770,7 @@ w₁(r) = |6|² + |7|², (26)
 
 212 Quantum Electrodynamics in the Coulomb Gauge A.
 
-w₂(r,r') = 2| { 咤广 | 咤 1 x
+w₂(r,r') = 2| { 咤广 | 咤1 x
 
 X{1 + ½{e^{i[.
 
@@ -11136,13 +11136,13 @@ the convolution of Py and the Gaussian distribution.
 
 h) Starting with the form
 
-一 1 «ND etezas? texas) Exe) ”
+一1 «ND etezas? texas) Exe) ”
 
 gotten from (16) of Exercise 4
 
 we calculate (a |p|)
 
-国 1 N 2 万 2
+国1 N 2万2
 
 CyP) = pS E (Teeny) ||
 
@@ -11156,7 +11156,7 @@ from which we get
 
 P(x 2 = !
 
-1 上 Gl
+1上 Gl
 
 m+ CON) PTE CNY
 
@@ -11546,7 +11546,7 @@ Now we calculate Δaj:
 
 1 :、夏〈灾_膘Z十″脊 +aa* +atalx>—- x3
 
-1。二刁〈〕〔【′z十(z`′ 十 2a7Q 十 112》一咖二互(】〔z诽-Q〔薯【_十Z蠢〔罐皙【」「_)′〕【鼻
+1。二刁〈〕〔【′z十(z`′ 十2a7Q 十112》一咖二互(】〔z诽-Q〔薯【_十Z蠢〔罐皙【」「_)′〕【鼻
 
 1 1
 
@@ -11858,7 +11858,7 @@ Ta_pT* = T(a_p)T* = (1/√2)(TaT* + Ta* T*) = b_p = a_p e^r (13)
 
 --- Page 277 ---
 
-248 Exercises Din. 8
+248 Exercises Din.
 
 and likewise
 
@@ -15824,7 +15824,7 @@ final times for the transit of the wave packet (see Figure 1).
 
 4 >!
 
-一丁 2 0 T/2 1
+一丁2 0 T/2 1
 
 Figure 1.
 
@@ -16396,7 +16396,7 @@ A 20, 1553 (1979).
 
 --- Page 356 ---
 
-Ch. 3 One-Photon and Two-Photon Processes 327
+Ch. One-Photon and Two-Photon Processes 327
 
 # Another important
 
@@ -16488,7 +16488,7 @@ A, 8, 2835 (1973).
 
 --- Page 357 ---
 
-328 Other Equivalent Formulations of Electrodynamics Ch. 1
+328 Other Equivalent Formulations of Electrodynamics Ch.
 
 COMPLEMENT C,y
 
@@ -21342,7 +21342,7 @@ tions of the operators C and B* by using the expression (44) for the
 
 spinors uσ and vσ):
 
-一 1 D 工
+一1 D 工
 
 ϕσ(r) = LTB Coo cx 万 ) (50.
 
@@ -21486,7 +21486,7 @@ where
 
 H+ = V | ϕ†resϕeColelo> − [fy − 呱山卟 χF (1) (56.
 
-H− = [erage cColelo′) − [#9 一呱灬〕ϕ.
+H− = [erage cColelo′) − [#9一呱灬〕ϕ.
 
 (0 , (56.
 
@@ -21602,7 +21602,7 @@ The expression for A is made up of two terms
 
 A@) = Het H
 
-一 1
+一1
 
 2 me
 
@@ -21692,7 +21692,7 @@ and a constant which we will henceforth neglect
 
 2 2 2
 
-A”) 1421 十 4 (2) (64)
+A”) 1421十4 (2) (64)
 
 where
 
@@ -21740,7 +21740,7 @@ factor +i:
 
 U 二 co+[p + qA(r)] (67)
 
-1p 土 2 = 干门 p 土》.
+1p 土2 = 干门 p 土》.
 
 (68)
 
@@ -23758,7 +23758,7 @@ OF CHARGES FROM THE POWER-ZIENAU- WOOLLEY
 
 d
 
-# 1. Notation... 0... te eee
+# 1. Notation...... te eee
 
 # 2. The Hamiltonian
 
@@ -24062,7 +24062,7 @@ IN THE COULOMB GAUGE STARTING FROM RELATIVISTIC
 
 # QUANTUM ELECTRODYNAMICS
 
-Introduction 林吴 424
+Introduction 林吴424
 
 Transition from the Lorentz Gauge to the Coulomb Gauge in Relativistic
 

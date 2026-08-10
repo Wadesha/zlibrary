@@ -12292,7 +12292,7 @@ Why is u-substitution referred to as change of
 
 variable ?
 
-# 255. 2. If f=g∘h,when reversing the chain rule,
+# 255.. If f=g∘h,when reversing the chain rule,
 
 d
 
@@ -76982,7 +76982,7 @@ x2+2 ata= 0
 
 x+2 ata= 1
 
-# 181. 2x−x2ata= 1 (Hint:
+# 181.x−x2ata= 1 (Hint:
 
 2x−x2= 1−(x−1)2)
 
@@ -90294,9 +90294,9 @@ i= 36
 
 2i= 23+24+25+26= 120
 
-# 1.2. 15,550
+# 1.2.5,550
 
-# 1.3. 440
+# 1.3.40
 
 The left-endpoint approximation is 0.
 
@@ -90314,13 +90314,13 @@ Upper sum = 8.
 
 A≈ 1.
 
-# 1.7. 6
+# 1.7.
 
-# 1.8. 18 square units
+# 1.8.8 square units
 
-# 1.9. 6
+# 1.9.
 
-# 1.10 . 18
+# 1.10 .8
 
 # 1.11 .6∫
 
@@ -90336,7 +90336,7 @@ xdx−⌠
 
 # 1.12 . −7
 
-# 1.13 . 3
+# 1.13 .
 
 # 1.14 .Average value = 1.5 ;c= 3Answer Key 711
 
@@ -90376,7 +90376,7 @@ but Kathy skates 29.
 
 740 m
 
-# 1.23 . 17.5 mi
+# 1.23 .7.5 mi
 
 # 1.24 .64
 
@@ -90682,7 +90682,7 @@ i= 125⎛
 
 # 39. Add the numbers to get 8.1-in. net increase.
 
-# 41. 309,389,957
+# 41.09,389,957
 
 L8= 3+2+1+2+3+4+5+4 = 24
 
@@ -91762,7 +91762,7 @@ The total daily power consumption is estimated as the sum of the hourly power ra
 
 or 911 gW-h.
 
-# 235. 17 kJ
+# 235.7 kJ
 
 237.
 
@@ -91798,7 +91798,7 @@ In wet conditions, if
 
 v0= 30,andD= 180 and ifv0= 25,D= 125.
 
-# 241. 225 cal
+# 241.25 cal
 
 243.
 
@@ -92478,7 +92478,7 @@ b⎞
 
 1/b1/adxx
 
-# 381. 23
+# 381.3
 
 # 383. We may assume that x> 1, so1x< 1.Then,∫
 
@@ -92826,7 +92826,7 @@ L4= 5.
 
 447.
 
-# 449. 1
+# 449.
 
 451.
 
@@ -93232,7 +93232,7 @@ $33,333.
 
 π−32
 
-# 63. 8 units3
+# 63. units3
 
 3 2units3
 
@@ -94090,7 +94090,7 @@ y=1ccosh(cx)
 
 ⎠
 
-# 457. 11:02 a.m.
+# 457.1:02 a.m.
 
 459.
 
@@ -94218,7 +94218,7 @@ x2+4+Fx+G
 
 # 3.23 .17
 
-# 3.24 . 0.0074, 1.1%
+# 3.24 ..0074, 1.1%
 
 # 3.25 .1
 
@@ -94322,7 +94322,7 @@ x2+x·sec−1x⎞
 
 4e2
 
-# 41. 2
+# 41.
 
 −2+π
 
@@ -94358,7 +94358,7 @@ Choose uto beu= 3x3+2 and the integral can be put into the form ∫sin(u)du.
 
 # 59. The area under graph is 0.39535.
 
-# 63. 2.05
+# 63..05
 
 cos2x748 Answer Key
 
@@ -94432,19 +94432,19 @@ sin3(ax)
 
 101.
 
-# 103. 0
+# 103.
 
-# 105. 0
+# 105.
 
-# 107. 0
+# 107.
 
 # 109. Approximately 0.239
 
 111.
 
-# 113. 1.0
+# 113..0
 
-# 115. 0
+# 115.
 
 117.
 
@@ -94626,7 +94626,7 @@ Use trigonometric substitution.
 
 Let x= sec(θ).
 
-# 173. 4.367
+# 173..367
 
 175.
 
@@ -94638,7 +94638,7 @@ Let x= sec(θ).
 
 x−8|+3
 
-# 179. 24.6 m3
+# 179.4.6 m3
 
 181.
 
@@ -94856,7 +94856,7 @@ arctan⎡
 
 6ln|1−x+x2|+C
 
-# 241. 2.0 in.2
+# 241..0 in.2
 
 243.
 
@@ -94984,7 +94984,7 @@ arcsin⎛
 
 # 273.0.5 =1
 
-# 275. 8.0
+# 275..0
 
 277.
 
@@ -95040,9 +95040,9 @@ ln|x+ 16+x2|+C
 
 2arctan10
 
-# 291. 1276.14
+# 291.276.14
 
-# 293. 7.21
+# 293..21
 
 295.
 
@@ -95054,27 +95054,27 @@ ln|x+ 16+x2|+C
 
 3arctan(3)≈ 0.
 
-# 299. 0.696
+# 299..696
 
-# 301. 9.279
+# 301..279
 
-# 303. 0.5000
+# 303..5000
 
 305.
 
 T4= 18.
 
-# 307. 0.500
+# 307..500
 
-# 309. 1.1614
+# 309..1614
 
-# 311. 0.6577
+# 311..6577
 
-# 313. 0.0213
+# 313..0213
 
-# 315. 1.5629
+# 315..5629
 
-# 317. 1.9133
+# 317..9133
 
 319.
 
@@ -95088,7 +95088,7 @@ This OpenStax book is available for free at http
 
 org/content/col11965/1.
 
-# 321. 1.0
+# 321..0
 
 # 323. Approximate error is 0.000325.
 
@@ -95098,17 +95098,17 @@ org/content/col11965/1.
 
 25, 000
 
-# 329. 475
+# 329.75
 
-# 331. 174
+# 331.74
 
-# 333. 0.1544
+# 333..1544
 
-# 335. 6.2807
+# 335..2807
 
-# 337. 4.606
+# 337..606
 
-# 339. 3.41 ft
+# 339..41 ft
 
 341.
 
@@ -95138,7 +95138,7 @@ T16= 100.
 
 # 363. diverges
 
-# 365. 1.5
+# 365..5
 
 # 367. diverges
 
@@ -95154,11 +95154,11 @@ T16= 100.
 
 379.
 
-# 381. 0.0
+# 381..0
 
-# 383. 0.0
+# 383..0
 
-# 385. 6.0
+# 385..0
 
 387.
 
@@ -95172,7 +95172,7 @@ T16= 100.
 
 −1+2
 
-# 395. 7.0
+# 395..0
 
 397.
 
@@ -95188,7 +95188,7 @@ s2+4,s> 0
 
 # 405. Answers will vary.
 
-# 407. 0.8775
+# 407..8775
 
 # Review Exercises
 
@@ -97918,7 +97918,7 @@ p1(x)= 2+1
 
 015625
 
-# 6.13 . 0.96593
+# 6.13 ..96593
 
 # 6.14 .1
 
@@ -100392,7 +100392,7 @@ x2+y2= 4;domain:x∈ [−2, 2].
 
 # Answer Key 799
 
-# 55. 22,092 meters at approximately 51 seconds.
+# 55.2,092 meters at approximately 51 seconds.
 
 # 61.800 Answer Key
 
@@ -100402,7 +100402,7 @@ This OpenStax book is available for free at http
 
 org/content/col11965/1.
 
-# 63. 0
+# 63.
 
 Slope = 0 ;y= 8.
 
@@ -100460,15 +100460,15 @@ Vertical tangents at (1, 0), (−1, 0).
 
 # 91. Horizontal (0, −9);vertical(±2, −6).
 
-# 93. 1
+# 93.
 
-# 95. 0
+# 95.
 
-# 97. 4
+# 97.
 
 # 99. Concave up on t> 0.
 
-# 101. 1
+# 101.
 
 103.
 
@@ -100498,7 +100498,7 @@ Vertical tangents at (1, 0), (−1, 0).
 
 ⎠
 
-# 121. 59.101
+# 121.9.101
 
 123.
 
@@ -100798,7 +100798,7 @@ eθdθ
 
 ⎠
 
-# 221. 32810 Answer Key
+# 221.2810 Answer Key
 
 This OpenStax book is available for free at http
 
@@ -100806,11 +100806,11 @@ This OpenStax book is available for free at http
 
 org/content/col11965/1.
 
-# 223. 6.238
+# 223..238
 
-# 225. 2
+# 225.
 
-# 227. 4.39
+# 227..39
 
 229.
 
@@ -101042,7 +101042,7 @@ org/content/col11965/1.
 
 # 313. At the point 2.25 feet above the vertex.
 
-# 315. 0.5625 feet
+# 315..5625 feet
 
 317.
 

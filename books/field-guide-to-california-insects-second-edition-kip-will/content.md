@@ -96,7 +96,7 @@ Jerry A.
 
 # UNIVERSITY OF CALIFORNIA PRESS
 
-California Natural History Guides No. 111University of California Press Oakland
+California Natural History Guides No.11University of California Press Oakland
 
 Will, Kipling
 
@@ -230,7 +230,7 @@ Gross.
 
 # Accounts
 
-pp. 36–37
+pp.6–37
 
 Common Snakefl y (Agulla sp.
 
@@ -1544,7 +1544,7 @@ the complexity of their distributions.
 
 # Based on A Manual of California
 
-Vegetation (Sawyer et al. 2009)
+Vegetation (Sawyer et al.009)
 
 there are now nearly 500 alliances so
 
@@ -57356,7 +57356,7 @@ enthusiast a start to their own exploration of the literature.
 
 Arnett, R.
 
-, Jr. 2000.
+, Jr.000.
 
 # American Insects
 
@@ -57590,7 +57590,7 @@ to the Study of Insects .
 
 Belmont, CA: Thompson Brooks/Cole,
 
-# 2005. 864 pp.
+# 2005.64 pp.
 
 # Group Specific
 
@@ -58124,7 +58124,7 @@ Manual of Nearctic Diptera .
 
 # Volume
 
-# 3. Research Branch Agriculture Canada. 1333–1581.
+# 3. Research Branch Agriculture Canada.333–1581.
 
 Middlekauff, W.
 
@@ -59000,7 +59000,7 @@ Anabrus simplex (Fig.
 
 Anajapyx hermosus , 38
 
-498 IndexAnasa tristis (Fig. 153), 126–27
+498 IndexAnasa tristis (Fig.53), 126–27
 
 Anastrangalia laetifica (Fig.
 
@@ -59688,7 +59688,7 @@ Blue-winged Olive (Fig.
 
 20), 48–49
 
-500 IndexBogus Yucca Moth (Fig. 520), 349, 351
+500 IndexBogus Yucca Moth (Fig.20), 349, 351
 
 Boisea rubrolineata (Fig.
 
@@ -61612,7 +61612,7 @@ European Wool Carder Bee (Fig.
 
 469–70
 
-506 IndexEurygaster sp. (Fig. 151), 125, 127
+506 IndexEurygaster sp. (Fig.51), 125, 127
 
 Euscelis variegatus (Fig.
 
@@ -63560,7 +63560,7 @@ Nut and Acorn Weevil (Fig.
 
 Nuttall’s Sheep Moth, 393
 
-512 IndexNyctoporis carinata (Fig. 345), 244–45
+512 IndexNyctoporis carinata (Fig.45), 244–45
 
 Nymphalidae, 410
 
@@ -64230,7 +64230,7 @@ Pluto’s Leafhopper (Fig.
 
 208), 157–58
 
-514 IndexPodabrus pruinosus (Fig. 317), 227, 229
+514 IndexPodabrus pruinosus (Fig.17), 227, 229
 
 Pogonomyrmex californicus (Fig.
 
@@ -65516,7 +65516,7 @@ melinus (Fig.
 
 608), 408–9
 
-518 IndexStumpstabber (Fig. 647), 437, 439
+518 IndexStumpstabber (Fig.47), 437, 439
 
 Stylopidae, 189
 
@@ -66152,7 +66152,7 @@ Weedfield Sable (Fig.
 
 Western Equine Encephalitis, 280
 
-520 IndexWheat Stem Sawfly (Fig. 635), 428–29
+520 IndexWheat Stem Sawfly (Fig.35), 428–29
 
 Whirligig Beetle, Common (Fig.
 

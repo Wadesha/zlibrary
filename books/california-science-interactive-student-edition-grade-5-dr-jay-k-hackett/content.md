@@ -3260,7 +3260,7 @@ can carr y out the basic
 
 processes o f life.
 
-(pp. 26–27 )
+(pp.6–27 )
 
 # Animal cells and plant
 
@@ -3276,7 +3276,7 @@ different structures than
 
 animal cells.
 
-( pp. 28–31 )
+( pp.8–31 )
 
 # Microscope s magnify
 
@@ -4048,7 +4048,7 @@ within one cell.
 
 has specialized cells to carry out life processes.
 
-(pp. 38–39)
+(pp.8–39)
 
 # A tissue is a group of
 
@@ -4064,7 +4064,7 @@ together and form organ systems .
 
 systems make up the organism
 
-. (pp. 40–41)
+. (pp.0–41)
 
 Plants and animals have many different organ systems to carry
 
@@ -5264,7 +5264,7 @@ can be vascu lar or
 
 nonvascular.
 
-( pp. 48-53 )
+( pp.8-53 )
 
 # Fungi absorb food
 
@@ -5284,7 +5284,7 @@ two groups, ancient
 
 and true.
 
-( pp. 54-55 )
+( pp.4-55 )
 
 # Protists can be
 
@@ -5760,7 +5760,7 @@ made of cells.
 
 Cells are the smallest units that can carry out life processes.
 
-(pp. 24–33)
+(pp.4–33)
 
 # Cells make up tissues
 
@@ -5768,11 +5768,11 @@ which make up organs
 
 which make up organ systems.
 
-(pp. 36–43)
+(pp.6–43)
 
 Living things are classified in kingdoms so they can be studied.
 
-(pp. 46–57)
+(pp.6–57)
 
 # Make a
 
@@ -7078,7 +7078,7 @@ spores or seeds, and
 
 flowers or no flowers.
 
-(pp. 72–73)
+(pp.2–73)
 
 # Some plants grow from
 
@@ -7088,7 +7088,7 @@ spores.
 
 from seeds.
 
-(pp. 74–75)
+(pp.4–75)
 
 # Flowersare
 
@@ -8002,7 +8002,7 @@ up of roots, stems, and
 
 leaves.
 
-(pp. 82–83)
+(pp.2–83)
 
 # Xylem carries wat er
 
@@ -8016,7 +8016,7 @@ from the leaves to the
 
 rest of the plant.
 
-(pp. 84–85)
+(pp.4–85)
 
 # Different plants have
 
@@ -8986,7 +8986,7 @@ the energy of the sun
 
 to make food through photosynthesis.
 
-(pp. 92–93)
+(pp.2–93)
 
 # Photosynthesis uses
 
@@ -8998,7 +8998,7 @@ and water to produce oxygen and sugar.
 
 Sugar is used for food in plants.
 
-(pp. 94–95)
+(pp.4–95)
 
 # Cellular respiration
 
@@ -9454,13 +9454,13 @@ classified as seedless and seed plants.
 
 Most seed plants have flowers.
 
-(pp. 70–77)
+(pp.0–77)
 
 Vascular plants have special structures for the transport of materials such as sugar
 
 water, and minerals.
 
-(pp. 80–87)
+(pp.0–87)
 
 Plants use carbon dioxide and sunlight to build sugar and release oxygen.
 
@@ -9470,7 +9470,7 @@ carbon dioxide
 
 and water.
 
-(pp. 90–97)
+(pp.0–97)
 
 # Make a
 
@@ -10814,7 +10814,7 @@ it to carr y out
 
 life processes.
 
-(pp. 112–113) .
+(pp.12–113) .
 
 # Each organ system has
 
@@ -10822,7 +10822,7 @@ a specific structureand
 
 functio n.
 
-(pp. 114–115 )
+(pp.14–115 )
 
 # Your organ transport
 
@@ -11936,7 +11936,7 @@ your body can use.
 
 It begins in the mouth.
 
-(pp. 122–125)
+(pp.22–125)
 
 # Most of the chemical
 
@@ -11944,7 +11944,7 @@ breakdown of food occurs in the stomach .
 
 Absorption takes place in the small intestine .
 
-(pp. 126–127)
+(pp.26–127)
 
 # Water and minerals
 
@@ -12886,7 +12886,7 @@ passes the air you
 
 breathe into the lungs for gas exchange.
 
-(pp. 134–135)
+(pp.34–135)
 
 # Oxygen and carbon
 
@@ -12894,7 +12894,7 @@ dioxide are transferred between the alveoli
 
 and red blood cells during gas exchange .
 
-(pp. 136–137)
+(pp.36–137)
 
 # Cells get their energy
 
@@ -14134,7 +14134,7 @@ blood vessels, and
 
 blood.
 
-(pp. 144–47 )
+(pp.44–47 )
 
 # Blood is made u p of
 
@@ -14144,7 +14144,7 @@ white blood cells, an d
 
 platelets.
 
-( pp. 148–149)
+( pp.48–149)
 
 # The circulator y and the
 
@@ -15112,7 +15112,7 @@ kidneys filter waste
 
 from the blood.
 
-(pp. 156–159)
+(pp.56–159)
 
 # Urine is stored in the
 
@@ -15124,7 +15124,7 @@ the body through the urethra.
 
 waste that is removed through the skin.
 
-(pp. 160–161)
+(pp.60–161)
 
 # Dialysis is a treatment
 
@@ -15394,7 +15394,7 @@ comSummarize the Main Ideas
 
 organ systems to transport materials and information so you can do your life processes.
 
-(pp. 110–117)
+(pp.10–117)
 
 # The digestive system includes the mouth
 
@@ -15408,23 +15408,23 @@ large intestine
 
 and colon.
 
-(pp. 120–129)
+(pp.20–129)
 
 Carbon dioxide and oxygen are exchanged in the lungs and in body cells.
 
-(pp. 132–139)
+(pp.32–139)
 
 Materials needed by the cells are carried in the blood
 
 which is pumped through the body by the heart.
 
-(pp. 142–151)
+(pp.42–151)
 
 The kidneys remove waste from the blood and produce urine
 
 which is stored in the bladder.
 
-(pp. 154–163)
+(pp.54–163)
 
 # Make a
 
@@ -17076,7 +17076,7 @@ of the water on Earth is
 
 salt wate r.
 
-(pp. 180–181)
+(pp.80–181)
 
 Flowing wate r,waves
 
@@ -17088,7 +17088,7 @@ ocean add salt t o the
 
 ocean.
 
-( pp. 182–183)
+( pp.82–183)
 
 # Most of thefresh wat er
 
@@ -18152,7 +18152,7 @@ millimeters (0.
 
 2 inc hes) an d
 
-75 millimeters (3 inches) in diameter. 321
+75 millimeters (3 inches) in diameter.21
 
 4 Stron g winds move
 
@@ -18338,13 +18338,13 @@ changes from a liquid
 
 to a gas.
 
-(pp. 190–195)
+(pp.90–195)
 
 # Precipitation falls as
 
 rain, sleet, hail, or snow .
 
-(pp. 196–197 )
+(pp.96–197 )
 
 # Water chan ges form
 
@@ -19316,7 +19316,7 @@ water, stan ding water,
 
 and groundwater .
 
-(pp. 204–205 )
+(pp.04–205 )
 
 # Fresh wat er from
 
@@ -19330,7 +19330,7 @@ buildin gs, and roads
 
 all affect this flow.
 
-(pp. 206–207 )
+(pp.06–207 )
 
 # Fresh watercan
 
@@ -19346,7 +19346,7 @@ and cleaned in wat er
 
 treatment p lants.
 
-(pp. 208–210 )
+(pp.08–210 )
 
 # Make a
 
@@ -20574,7 +20574,7 @@ precipitation falls
 
 in th e north.
 
-(pp. 216–217)
+(pp.16–217)
 
 # A system o f
 
@@ -20586,7 +20586,7 @@ supply dry areas of
 
 California with water.
 
-(pp. 218–219 )
+(pp.18–219 )
 
 # Water conservat ion
 
@@ -20752,7 +20752,7 @@ comSummarize the Main Ideas
 
 Earth’s surface.
 
-(pp. 178–185)
+(pp.78–185)
 
 Liquid water can evaporate and turn into water vapor.
 
@@ -20764,7 +20764,7 @@ hail, sleet
 
 and snow.
 
-(pp. 188–199)
+(pp.88–199)
 
 There is only so much fresh water on Earth.
 
@@ -20772,7 +20772,7 @@ To keep the supply of fresh water available to people
 
 fresh water must be stored and recycled.
 
-(pp. 202–211)
+(pp.02–211)
 
 The fresh water you use comes either from running water
 
@@ -20780,7 +20780,7 @@ standing water
 
 or groundwater.
 
-(pp. 214–221) aqueduct , p.
+(pp.14–221) aqueduct , p.
 
 condensation , p.
 
@@ -22164,7 +22164,7 @@ are that it has weight,
 
 takes up space, and exerts pressure.
 
-(pp. 234–235)
+(pp.34–235)
 
 Changes in volume,
 
@@ -22174,7 +22174,7 @@ humidity
 
 or altitude can change air pressure .
 
-(pp. 236–237)
+(pp.36–237)
 
 # Two types of
 
@@ -23192,7 +23192,7 @@ The Sun heats Earth’s
 
 atmosp hereunequa lly.
 
-(pp. 244–245 )
+(pp.44–245 )
 
 # Air m oves from an ar ea
 
@@ -23200,7 +23200,7 @@ ofhighpressur e to an
 
 area of low pressure .
 
-(pp. 246–247 )
+(pp.46–247 )
 
 # Global wind s are
 
@@ -24474,7 +24474,7 @@ Earth’ stempera tures
 
 moderate.
 
-(pp. 254–255 )
+(pp.54–255 )
 
 # Ocean currents move
 
@@ -24482,7 +24482,7 @@ heat and water around
 
 the Eart h.
 
-(pp. 256–257 )
+(pp.56–257 )
 
 AnEl Niñ o can cause
 
@@ -25928,7 +25928,7 @@ air pressure that can
 
 lead to thunderstorms .
 
-(pp. 264–267 )
+(pp.64–267 )
 
 Cyclone s, such
 
@@ -25944,7 +25944,7 @@ circular pattern of
 
 winds to form.
 
-(pp. 268–271 )
+(pp.68–271 )
 
 # Other types o f severe
 
@@ -27164,7 +27164,7 @@ at a specific point in time.
 
 of air with different pressures bring changes in weather .
 
-(pp. 280–283)
+(pp.80–283)
 
 # Weather data comes
 
@@ -27476,7 +27476,7 @@ and presses on all the
 
 objects it surrounds .
 
-(pp. 232–239)
+(pp.32–239)
 
 # When air is heated
 
@@ -27486,7 +27486,7 @@ around, causin g
 
 wind and air currents .
 
-(pp. 242–249 )
+(pp.42–249 )
 
 # Ocean water hel ps
 
@@ -27496,7 +27496,7 @@ weather and climate
 
 of nearby land.
 
-(pp. 252–259)
+(pp.52–259)
 
 # Storms ar e caused
 
@@ -27508,7 +27508,7 @@ different temperatures
 
 and humiditi es.
 
-(pp. 262–273 )baromete r, p.
+(pp.62–273 )baromete r, p.
 
 climat e, p.
 
@@ -27588,7 +27588,7 @@ and help you pre dict
 
 the weather.
 
-(pp. 276–285 )5 ES 4.
+(pp.76–285 )5 ES 4.
 
 5 ES 4.e
 
@@ -28916,7 +28916,7 @@ the largest object
 
 in the solar system.
 
-(pp. 298–299 )
+(pp.98–299 )
 
 # The Sun produces
 
@@ -28926,7 +28926,7 @@ combines to form
 
 helium and energy .
 
-(pp. 300–302)
+(pp.00–302)
 
 -Review Summaries an d quizze sonline@www.
 
@@ -29934,7 +29934,7 @@ moons make up the
 
 solar system.
 
-(pp. 308–309)
+(pp.08–309)
 
 # Many of the planets
 
@@ -31020,7 +31020,7 @@ the distance between
 
 them.
 
-( pp. 318–319 )
+( pp.18–319 )
 
 # An object stays in orbit
 
@@ -31030,7 +31030,7 @@ gravity is balanced by
 
 its forward motion.
 
-(pp. 320–321 )
+(pp.20–321 )
 
 # Tides are cause d by
 
@@ -31426,7 +31426,7 @@ of hydrogen and helium.
 
 of the solar system and is its largest object.
 
-(pp. 296–303)
+(pp.96–303)
 
 # The solar system is made up of the Sun
 
@@ -31434,7 +31434,7 @@ planets and their moons,
 
 comets, asteroids, and meteoroids.
 
-(pp. 306–313)
+(pp.06–313)
 
 The force of gravity keeps the planets in
 
@@ -31442,7 +31442,7 @@ their orbits around
 
 the Sun.
 
-(pp. 316–323) asteroid , p.
+(pp.16–323) asteroid , p.
 
 comet , p.
 
@@ -33360,7 +33360,7 @@ weightare physical
 
 properties o f matter.
 
-(pp. 342–343 )
+(pp.42–343 )
 
 # The three states of
 
@@ -33368,7 +33368,7 @@ matter are solid , liquid ,
 
 and gas.
 
-(pp. 344–347 )
+(pp.44–347 )
 
 # Density determines
 
@@ -34384,7 +34384,7 @@ elements .
 
 are mad e of atoms.
 
-(pp. 354–355)
+(pp.54–355)
 
 Water, air, and Earth’s
 
@@ -34392,7 +34392,7 @@ crust are most ly made
 
 of eight elements.
 
-(pp. 356–357 )
+(pp.56–357 )
 
 # Living thin gs are
 
@@ -35818,7 +35818,7 @@ of one kind of atom.
 
 atoms or molecules.
 
-(pp. 364–365 )
+(pp.64–365 )
 
 # Elements are organize d
 
@@ -35828,7 +35828,7 @@ according to t heir
 
 properties.
 
-(pp. 368–369 )
+(pp.68–369 )
 
 # Microsco pes allow
 
@@ -35836,7 +35836,7 @@ scientists to “see”
 
 and touc h atoms.
 
-(pp. 370–372 )
+(pp.70–372 )
 
 -Review Summaries an d quizze sonline@www.
 
@@ -37164,7 +37164,7 @@ filtration, magnetism,
 
 density, or solubility.
 
-(pp. 382–383 )
+(pp.82–383 )
 
 -Review Summaries an d quizze sonline@www.
 
@@ -38268,7 +38268,7 @@ B waterC chlorineD heliumSummarize the Main Idea
 
 formed and broken down by chemical changes.
 
-(pp. 390–391)
+(pp.90–391)
 
 # Chemical formulas
 
@@ -38276,7 +38276,7 @@ show the composition of compounds.
 
 Compounds can be identified by their properties.
 
-(pp. 392–395)
+(pp.92–395)
 
 # Hydrocarbons
 
@@ -38548,19 +38548,19 @@ mass, weight
 
 and density.
 
-(pp. 342–349)
+(pp.42–349)
 
 # Matter is made of elements
 
 which are made of atoms.
 
-(pp. 352–359)
+(pp.52–359)
 
 Each element is made of a different kind of atom.
 
 Elements are organized by their properties.
 
-(pp. 362–373) atom , p.
+(pp.62–373) atom , p.
 
 compound , p.
 
@@ -38620,11 +38620,11 @@ Salt in the ocean is a(n) .
 
 Mixtures are physical combinations of substances.
 
-(pp. 376–385)
+(pp.76–385)
 
 Chemical combinations produce compounds that can be identified by their properties.
 
-(pp. 388–397)5 PS 1.
+(pp.88–397)5 PS 1.
 
 5 PS 1.g
 
@@ -40154,7 +40154,7 @@ atoms rearrange to
 
 form new substances.
 
-(pp. 410-411)
+(pp.10-411)
 
 # The most reactive
 
@@ -40164,7 +40164,7 @@ metals
 
 and the most reactive nonmetals are the halogens.
 
-(pp. 412–413)
+(pp.12–413)
 
 # The signs of a
 
@@ -40178,7 +40178,7 @@ the release of energy
 
 and a color change.
 
-(pp. 414–416)
+(pp.14–416)
 
 # EVALUATE
 
@@ -41466,7 +41466,7 @@ D corrosion.
 
 range of useful properties.
 
-(pp. 422–427)
+(pp.22–427)
 
 # Pure metals are
 
@@ -41474,7 +41474,7 @@ generally soft,
 
 malleable and ductile.
 
-(pp. 426–427)
+(pp.26–427)
 
 # Corrosion turns metals
 
@@ -41484,7 +41484,7 @@ into compounds .
 
 mixtures are alloys.
 
-(pp. 428–429)
+(pp.28–429)
 
 # Make a
 
@@ -42646,7 +42646,7 @@ brittle
 
 and conduct electricity when dissolved.
 
-(pp. 436–437)
+(pp.36–437)
 
 # Salts are made when a
 
@@ -42654,13 +42654,13 @@ metal and a nonmetal combine
 
 or when strong acids react with strong bases.
 
-(pp. 436–439)
+(pp.36–439)
 
 # The acidity of a
 
 solution is measured using the pH scale .
 
-(pp. 440–441)Summarize the Main Idea
+(pp.40–441)Summarize the Main Idea
 
 # Make a
 
@@ -43124,7 +43124,7 @@ In chemical changes,
 
 atoms are rearranged into new combinations.
 
-(pp. 408–417)
+(pp.08–417)
 
 Metals share some properties.
 
@@ -43132,13 +43132,13 @@ Metals share some properties.
 
 some are mixtures.
 
-(pp. 420–431)
+(pp.20–431)
 
 Salts are compounds made of metallic and nonmetallic elements.
 
 A salt may be formed by an acid reacting with a base.
 
-(pp. 434–445) acid , p.
+(pp.34–445) acid , p.
 
 alloy , p.
 
@@ -45782,17 +45782,17 @@ The table shows what you find.
 
 78Time Temperature (°C)
 
-6 A.M. 4
+6 A.M.
 
-7 A.M. 6
+7 A.M.
 
-8 A.M. 8
+8 A.M.
 
-9 A.M. 10
+9 A.M.0
 
-10 A.M. 12
+10 A.M.2
 
-11 A.M. 14
+11 A.M.4
 
 You can organize this information into a line graph.
 
@@ -47048,7 +47048,7 @@ inside plant cells that turn sunli ght into
 
 food.
 
-(pp. 31, 92 ) Chloroplasts contain t he
+(pp.1, 92 ) Chloroplasts contain t he
 
 chemical chlorophyll.
 
@@ -47650,7 +47650,7 @@ families fall
 
 between orders and genera.
 
-(pp. 48, 369)
+(pp.8, 369)
 
 I
 
@@ -47932,7 +47932,7 @@ halogen (haºlә jә n ) An element in the
 
 most reactive family of nonmetals.
 
-(pp. 367, 413) Fluorine and chlorine are
+(pp.67, 413) Fluorine and chlorine are
 
 both halogens.
 
@@ -48246,7 +48246,7 @@ produces digestive juices an d breaks down
 
 harmful substan ces in th e blood.
 
-(pp. 127,
+(pp.27,
 
 158) The liver is part o f both the di gestive
 
@@ -48326,7 +48326,7 @@ mass (mas) The amount of matter in an
 
 object.
 
-(pp. 299, 342) Mass is measured in
+(pp.99, 342) Mass is measured in
 
 units called grams (g).
 
@@ -48378,7 +48378,7 @@ metal (metºә l) A substance that conducts
 
 heat and electricity.
 
-(pp. 366, 422) Metals,
+(pp.66, 422) Metals,
 
 s
 

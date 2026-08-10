@@ -17952,7 +17952,7 @@ system is undermining our world.
 
 boundaries approach to make agriculture sustainable.
 
-Food as the No. 1 killer
+Food as the No. killer
 
 Food is destroying our health and shortening our lives.
 

@@ -690,11 +690,11 @@ tum Mechanics
 
 2 Essential Quantum Features 33
 
-# 2.1 The Heart of Quantum Mechanics .......... 33
+# 2.1 The Heart of Quantum Mechanics ..........3
 
-# 2.2 What Does "Quantum" Mean? ............ 38
+# 2.2 What Does "Quantum" Mean? ............8
 
-# 2.3. Uncertainty .............0 00000000. 43
+# 2.3. Uncertainty .............0 00000000.3
 
 3 The Quantum Framework 47
 
@@ -710,9 +710,9 @@ tum Mechanics
 
 005.
 
-# 3.4.1 Intermezzo: Symmetries............ 67
+# 3.4.1 Intermezzo: Symmetries............7
 
-# 3.4.2. The Most Important Quantum Operators .. 71
+# 3.4.2. The Most Important Quantum Operators ..1
 
 3-5 How Operators Influence Each Other .
 
@@ -732,7 +732,7 @@ Eigenvectors and Eigenvalues .
 
 eee 85
 
-# 3.11 Quantum Numbers................-4. 91
+# 3.11 Quantum Numbers................-4.1
 
 4 The Classical Limit 95
 

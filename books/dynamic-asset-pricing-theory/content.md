@@ -24904,7 +24904,7 @@ Sources cited in the Notes.
 
 A 一十一上
 
-— + 广 1
+— + 广1
 
 一 - 一一一
 
@@ -24916,7 +24916,7 @@ A 一十一上
 
 3 | ( -
 
-2 十 _l_
+2十 _l_
 
 1 [ 一
 
@@ -29134,7 +29134,7 @@ Neyman (Ed.
 
 ), Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability
 
-pp. 507-532.
+pp.07-532.
 
 # Berkeley
 
@@ -29154,11 +29154,11 @@ Internat.
 
 Centre National de la Recherche Scientifique 40 (Paris 1952)
 
-pp. 41-47
+pp.1-47
 
 discussion
 
-pp. 47-48
+pp.7-48
 
 (Paris 1953).
 
@@ -29426,7 +29426,7 @@ Bachelier, L.
 
 Translation in The Random Character of Stock Market Prices
 
-Paul Cootner, pp. 17-79.
+Paul Cootner, pp.7-79.
 
 Cambridge, MA: MIT Press, 1964.
 
@@ -30020,7 +30020,7 @@ El Karoui and L.
 
 ), *Backward Stochastic Differential Equations*
 
-pp. 47-80.
+pp.7-80.
 
 Essex: Addison Wesley
 
@@ -30372,7 +30372,7 @@ Moro (Eds.
 
 # Lecture Notes in Mathematics 972
 
-pp. 1-62.
+pp.-62.
 
 New York: Springer-Verlag.
 
@@ -31858,7 +31858,7 @@ Scheinkman (Eds.
 
 ), General Equi-
 
-librium, Growth, and Trade, pp. 165-192.
+librium, Growth, and Trade, pp.65-192.
 
 New York: Academic Press.
 
@@ -31876,7 +31876,7 @@ McCall (Ed.
 
 of Information and Uncertainty
 
-pp. 1-46.
+pp.-46.
 
 Chicago: University of Chicago Press.
 
@@ -32596,7 +32596,7 @@ Feiwel (Ed.
 
 # Joan Robinson and Beyond
 
-pp. 677-693.
+pp.77-693.
 
 London: Macmillan.
 
@@ -32612,7 +32612,7 @@ Laffont (Ed.
 
 ), Advances in Economic Theory
 
-pp. 263-288.
+pp.63-288.
 
 Cambridge: Cambridge University Press.
 
@@ -33100,7 +33100,7 @@ Yannelis (Eds.
 
 ), Equilibrium Theory with an Infinite Number of Commodities
 
-pp. 353-369.
+pp.53-369.
 
 New York: Springer-Verlag.
 
@@ -33840,7 +33840,7 @@ Hedging and Portfolio Optimization.
 
 # Mathematics of Derivative Securities
 
-pp. 227-254.
+pp.27-254.
 
 Cambridge: Cambridge University
 
@@ -34482,7 +34482,7 @@ ceedings of the Thirtieth IEEE Conference on Decision and Control
 
 # Brighton
 
-December, pp. 1299-1304.
+December, pp.299-1304.
 
 Davis, M.
 
@@ -34628,7 +34628,7 @@ Arrow and M.
 
 # Volume II
 
-pp. 697-743.
+pp.97-743.
 
 Amsterdam:
 
@@ -35688,7 +35688,7 @@ Mazliak (Eds.
 
 ), Backward Stochastic Differential Equations
 
-pp. 7-26.
+pp.-26.
 
 Essex: Addison Wesley Longman Ltd.
 
@@ -35748,7 +35748,7 @@ El Karoui and L.
 
 ), Backward Stochastic Differential Equations
 
-pp. 27-36.
+pp.7-36.
 
 Essex: Addison Wesley
 
@@ -36034,7 +36034,7 @@ Laffont (Ed.
 
 ), Advances in Economic Theory
 
-pp. 1-63.
+pp.-63.
 
 Cambridge: Cambridge
 
@@ -36574,7 +36574,7 @@ Yor (Eds.
 
 # Lecture Notes in Mathematics
 
-pp. 143-150.
+pp.43-150.
 
 Berlin: Springer-Verlag.
 
@@ -36604,7 +36604,7 @@ Elliott (Eds.
 
 ), Applied Stochastic Analysis
 
-pp. 389-414.
+pp.89-414.
 
 London: Gordon and Breach.
 
@@ -36626,7 +36626,7 @@ Mas-Colell (Eds.
 
 ), Contributions to Mathematical Economics
 
-pp. 205-224.
+pp.05-224.
 
 Amsterdam: North-Holland.
 
@@ -37080,7 +37080,7 @@ Starrett (Eds.
 
 ), Essays in Honor of Kenneth J.
 
-Arrow, Volume III, pp. 65-96.
+Arrow, Volume III, pp.5-96.
 
 Cambridge: Cambridge University Press.
 
@@ -38072,7 +38072,7 @@ Chichilnisky (Ed.
 
 # Information and Uncertainty
 
-pp. 67-71.
+pp.7-71.
 
 New York: Cambridge University Press.
 
@@ -39006,7 +39006,7 @@ Pliska (Eds.
 
 ), Mathematics of Derivative Securities
 
-pp. 41-52.
+pp.1-52.
 
 Cambridge: Cambridge University Press.
 
@@ -39918,7 +39918,7 @@ Zeitouni (Eds.
 
 # Liber Amicorum for Moshe Zakai
 
-pp. 245-272.
+pp.45-272.
 
 New York: Academic Press.
 
@@ -40402,7 +40402,7 @@ McCall (Ed.
 
 ), The Economics of Uncertainty and Information
 
-pp. 203-232.
+pp.03-232.
 
 Chicago: University of Chicago Press.
 
@@ -40532,7 +40532,7 @@ Yannelis (Eds.
 
 ), Functional Analysis and Economic Theory
 
-pp. 171-220.
+pp.71-220.
 
 New York: Springer Verlag.
 
@@ -41376,7 +41376,7 @@ Shafer.
 
 ” In Handbook of Mathematical Eco-
 
-nomics, Volume 4, pp. 1523-1614.
+nomics, Volume 4, pp.523-1614.
 
 Amsterdam: North-Holland.
 
@@ -41538,7 +41538,7 @@ Mas-Colell (Eds.
 
 ), Contributions to Mathematical Economics
 
-pp. 317-332.
+pp.17-332.
 
 Amsterdam: North-Holland.
 
@@ -41604,7 +41604,7 @@ Sonnenschein (Eds.
 
 ), Handbook of Mathematical
 
-Economics, Volume 4, pp. 1835-1898.
+Economics, Volume 4, pp.835-1898.
 
 Amsterdam: North-Holland.
 
@@ -42010,7 +42010,7 @@ Dréze (Ed.
 
 # Equilibrium
 
-and Optimality, pp. 36-50.
+and Optimality, pp.6-50.
 
 New York: Wiley.
 
@@ -42188,7 +42188,7 @@ Arbitrage Pricing of Contingent Claims.
 
 # Lecture Notes in Economics and
 
-Mathematical Systems, vol. 254.
+Mathematical Systems, vol.54.
 
 New York: Springer-Verlag.
 
@@ -42840,7 +42840,7 @@ Mazliak (Eds.
 
 ), Backward Stochastic Differential Equa-
 
-tions, pp. 207-220.
+tions, pp.07-220.
 
 Essex: Addison Wesley Longman Ltd.
 
@@ -43232,7 +43232,7 @@ Mazliak (Eds.
 
 ), Backward Stochastic Differential Equations
 
-pp. 39-46.
+pp.9-46.
 
 Essex: Addison Wesley Longman Ltd.
 
@@ -43450,7 +43450,7 @@ Mazliak (Eds.
 
 ), Backward Stochastic Differential Equations
 
-pp. 83-100.
+pp.3-100.
 
 Essex: Addison Wesley Longman Ltd.
 
@@ -44306,7 +44306,7 @@ Bhattacharya and G.
 
 Constantinides (Eds.
 
-), Theory of Valuation, pp. 45-51.
+), Theory of Valuation, pp.5-51.
 
 Totowa, NJ: Rowman and Littlefield.
 

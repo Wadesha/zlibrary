@@ -498,7 +498,7 @@ is called “air pressure.
 
 # Ice Funnel water drink bottle Bowl
 
-# 1. 2. 3.
+# 1...
 
 Stand the bottle upright Screw the cap on the bottle.
 
@@ -558,7 +558,7 @@ must have no
 
 chips in it.
 
-# 1. 2. 3.
+# 1...
 
 Hold the glass over a sink Place the card on the glass.
 
@@ -604,7 +604,7 @@ air is really quite heavy.
 
 # Two tacks Rubber band Pencil Thread
 
-# 1. 2. 3.
+# 1...
 
 Use the ruler to find the Push a tack into each side Tie the thread to the middle
 
@@ -626,7 +626,7 @@ balance, attach modeling
 
 clay to the higher end.
 
-# 4. 5.
+# 4..
 
 Attach the loops of the rubber band Tape one of the balloons to one end of the wood.
 
@@ -742,7 +742,7 @@ gas in the jar.
 
 mainly nitrogen.
 
-# 1. 2.
+# 1..
 
 Put the candle in the holder Ask an adult to light
 
@@ -812,7 +812,7 @@ soda water and carbonated drinks.
 
 # Vinegar bicarbonate Funnel bottle
 
-# 1. 2. 3.
+# 1...
 
 # Pour some vinegar into Using the funnel
 
@@ -924,7 +924,7 @@ works like a real one.
 
 Large dish or tray Funnel Red food coloring Sand and gravel
 
-# 1. 2.
+# 1..
 
 # Add red food Using the
 
@@ -1042,7 +1042,7 @@ Tape Sharp pencil Hair dryer Scissors Light
 
 stiff paper
 
-# 1. 2. 3.
+# 1...
 
 Fold the paper in two.
 
@@ -1058,7 +1058,7 @@ wing shape.
 
 above the other.
 
-# 4. 5. 6.
+# 4...
 
 Cut a piece of drinking Push the straw through the Feed the thread through the
 
@@ -1146,7 +1146,7 @@ as this experiment shows.
 
 # Ruler Modeling clay Pen card Cork board
 
-# 1. 2. 3.
+# 1...
 
 Draw a scale on the white Push a pin through a straw Press some modeling clay into
 
@@ -1264,7 +1264,7 @@ Make sure the pot and pencil.
 
 holds the pencil firmly.
 
-# 1. 2.
+# 1..
 
 Use the pencil to make a hole in the middle Cut out four small triangles and two large
 
@@ -1288,7 +1288,7 @@ four directions.
 
 make the wind vane’s tail.
 
-# 3. 4.
+# 3..
 
 Glue each of the four small triangles to the Cut short slits in both ends of the straw.
 
@@ -1318,7 +1318,7 @@ modeling clay.
 
 the wind vane steady.
 
-# 5. 6.
+# 5..
 
 Carefully push the tack all the way Make a ring of modeling clay and push
 
@@ -1576,7 +1576,7 @@ of rain that falls over a certain time.
 
 marker pen cup plastic bottle Scissors
 
-# 1. 2. 3.
+# 1...
 
 Cut off the tops of both Fill the cup to a quarter full.
 
@@ -1700,7 +1700,7 @@ felt, rubber,
 
 plastic Rubber bands Five jars Paintbrush
 
-# 1. 2. 3.
+# 1...
 
 Draw a circle that’s wider Place the circle of material over Paint a face on the jar.
 
@@ -1840,7 +1840,7 @@ buoyancy and helps you float.
 
 # Lime Peeler glass of water
 
-# 1. 2.
+# 1..
 
 # Place a lime into Peel the lime
 
@@ -1898,7 +1898,7 @@ but not enough to
 
 make them float.
 
-# 1. 2. 3.
+# 1...
 
 Drop marbles into the water.
 
@@ -1944,7 +1944,7 @@ boat, making it float.
 
 low in the water and could sink.
 
-# 4. 5. Marks on a ship’s side show
+# 4.. Marks on a ship’s side show
 
 Now the clay floats!
 
@@ -1986,7 +1986,7 @@ Kitchen scale Pitcher of water Big glass jar glass jar Large dish
 
 to the brim.
 
-# 1. 2. 3.
+# 1...
 
 Remove the pan from the Float the small jar in the big Carefully remove the big jar
 
@@ -2036,7 +2036,7 @@ against your body and supports
 
 it so you do not sink.
 
-# 4. 5.
+# 4..
 
 Write down the weight of the Now weigh the small jar that
 
@@ -2096,7 +2096,7 @@ the pen cap.
 
 makes it float.
 
-# 1. 2. 3.
+# 1...
 
 Make your toy diver Put the diver in a glass of Fill the bottle to the top with
 
@@ -2152,7 +2152,7 @@ pen cap.
 
 once more.
 
-# 4. 5.
+# 4..
 
 Squeeze the sides of the bottle.
 
@@ -2190,7 +2190,7 @@ and send up a huge plume of “smoke.
 
 Small bottle cold water coloring String glass jar
 
-# 1. 2. 3.
+# 1...
 
 Cut a long piece of string.
 
@@ -2204,7 +2204,7 @@ of the same bottle to make a loop.
 
 three-quarters full.
 
-# 4. 5.
+# 4..
 
 Fill the bottle with hot Hold the bottle by the loop of
 
@@ -2274,7 +2274,7 @@ a liquid more dense than itself.
 
 # Selection of objects to float container
 
-# 1. 2. 3.
+# 1...
 
 Carefully pour syrup into the Slowly pour the same amount The three liquids separate into
 
@@ -2370,7 +2370,7 @@ what happens to the color in water.
 
 coloring Glass beaker Dropper Pitcher of water Cooking oil
 
-# 1. 2. 3.
+# 1...
 
 Pour some water into the Carefully add a few drops Using a spoon
 
@@ -2426,7 +2426,7 @@ clear liquid soap
 
 syrup, and vinegar marbles
 
-# 1. 2.
+# 1..
 
 Fill the jars with different liquids.
 
@@ -2466,7 +2466,7 @@ grow one in less than a week!
 
 of yarn warm water Dish Two jars soda
 
-# 1. 2.
+# 1..
 
 # Fill both the jars Attach paper clips
 
@@ -2572,7 +2572,7 @@ the faucets in your house is hard.
 
 # Tap water jars open jar water soap
 
-# 1. 2. 3.
+# 1...
 
 Mix liquid soap with some Pour distilled water into one Put a drop of liquid soap
 
@@ -2666,7 +2666,7 @@ Dishwashing Large, clean, plastic
 
 Colored card soap Scissors bowl of water
 
-# 1. 2. 3.
+# 1...
 
 Draw the shape of your Carefully cut out your boat Squeeze a small drop of the
 
@@ -2750,7 +2750,7 @@ and into its leaves and flowers.
 
 Four glasses inks or food coloring Scissors
 
-# 1. 2. 3.
+# 1...
 
 Pour a little food coloring Trim the stems of the Put a flower in each glass
 
@@ -2990,7 +2990,7 @@ Card Scissors water coloring markers bottle
 
 be airtight.
 
-# 1. 2. 3.
+# 1...
 
 Pour cold water into the bottle Put a straw in the bottle Blow gently into the straw.
 
@@ -3032,7 +3032,7 @@ water up the straw.
 
 the straw.
 
-# 4. 5. 6.
+# 4...
 
 # Cut two Put the Put the
 
@@ -3128,7 +3128,7 @@ spreads by convection.
 
 Heatproof glass dish Candle Food coloring Cooking oil
 
-# 1. 3.
+# 1..
 
 # Put the Warm currents
 
@@ -3196,7 +3196,7 @@ during the
 
 experiment.
 
-# 1. 2. 3.
+# 1...
 
 Do this experiment on a sunny Cover the can in the dish with Leave the flowerpot to stand
 
@@ -3326,7 +3326,7 @@ through the cork and the
 
 air in the large jar.
 
-# 1. 2. 3.
+# 1...
 
 Wrap two layers of foil tightly Pour warm water into the Place the cork in the bottom of
 
@@ -3436,7 +3436,7 @@ lower than the
 
 top of the dish.
 
-# 1. 2. 3.
+# 1...
 
 # Using the modeling clay
 
@@ -3474,7 +3474,7 @@ flame.
 
 from the air.
 
-# 4. 5.
+# 4..
 
 Add some vinegar.
 
@@ -3544,7 +3544,7 @@ wire tightly together.
 
 fork cannot move.
 
-# 1. 2. 3.
+# 1...
 
 Tape the fork to the table edge.
 
@@ -3556,7 +3556,7 @@ it securely to the bottle.
 
 of foil on the fork.
 
-# 4. 5.
+# 4..
 
 Loop the Slowly,
 
@@ -3640,7 +3640,7 @@ It still works well.
 
 Ice cubes Dish towel Tablespoon Glass Milk
 
-# 1. 2. 3.
+# 1...
 
 # Mix one spoon of chocolate
 
@@ -3682,7 +3682,7 @@ melt.
 
 makes it colder.
 
-# 4. 5.
+# 4..
 
 Build up more layers of ice Place the dish towel over the
 
@@ -3826,7 +3826,7 @@ an object blocks the light.
 
 Thin sticks Bright flashlight Tracing paper
 
-# 1. 2. 3.
+# 1...
 
 Trace patterns of ghosts from Transfer your ghost patterns Carefully cut out the ghost
 
@@ -3918,7 +3918,7 @@ to reflect rays of light.
 
 # Triangular card Scissors Pen
 
-# 1. 2.
+# 1..
 
 # Use the Carefully cut a
 
@@ -3932,7 +3932,7 @@ lines on one side mirrors to fit into.
 
 of the carton.
 
-# 3. 4.
+# 3..
 
 # Draw Carefully push
 
@@ -3974,7 +3974,7 @@ faces upward.
 
 # Light
 
-# 5. 6.
+# 5..
 
 # Draw a Make a small
 
@@ -4098,7 +4098,7 @@ Tape Beads Scissors tracing paper mirrors
 
 sides go inside.
 
-# 1. 2. 3.
+# 1...
 
 Tape the three mirrors Draw around the mirrors Cut out the triangle.
 
@@ -4112,7 +4112,7 @@ pencil to make a hole in the middle
 
 of it.
 
-# 4. 5. 6.
+# 4...
 
 Tape the triangle to one end of Stretch the tracing paper over Drop some beads through
 
@@ -4196,7 +4196,7 @@ button reach your eyes,
 
 so you see it twice.
 
-# 1. 2. 3.
+# 1...
 
 Put the button into the glass.
 
@@ -4262,7 +4262,7 @@ have no cap.
 
 # Holes
 
-# 1. 2.
+# 1..
 
 Cut off the top of the bottle.
 
@@ -4292,7 +4292,7 @@ wires cannot
 
 come loose.
 
-# 3. 4. 5.
+# 3...
 
 # Using the screwdriver
 
@@ -4322,7 +4322,7 @@ firmly in
 
 place.
 
-# 6. 7. 8.
+# 6...
 
 Thread the wire from the Thread the wire from the bulb- Place the bulb-holder on the
 
@@ -4424,7 +4424,7 @@ lens in a real camera does.
 
 Tracing paper Cardboard tube Pen Scissors
 
-# 1. 2. 3.
+# 1...
 
 # Hold Push the
 
@@ -4444,7 +4444,7 @@ around it.
 
 tissue box.
 
-# 4. 5.
+# 4..
 
 # Tape the Tape the
 
@@ -4550,7 +4550,7 @@ the path of a light beam.
 
 books straw Pliers Flashlight of water Glass dish bottle
 
-# 1. 2. 3.
+# 1...
 
 Paint one vertical half of the Ask an adult to make a hole Push the end of a flexible straw
 
@@ -4610,7 +4610,7 @@ the sides of the glass threads.
 
 sides.
 
-# 4. 5.
+# 4..
 
 Fill the bottle with water.
 
@@ -4746,7 +4746,7 @@ light into these colors.
 
 Mirror Jar of water Bright flashlight Shallow dish White card
 
-# 1. 2. 3.
+# 1...
 
 Pour water into the shallow Put the mirror in the dish.
 
@@ -4836,7 +4836,7 @@ a glass of milky water.
 
 Milk Glass beaker of water Flashlight Spoon
 
-# 1. 2. 3.
+# 1...
 
 Shine the flashlight through Pour a little milk into the Stir the water gently
 
@@ -4918,7 +4918,7 @@ in dark liquids!
 
 food coloring Blotting paper Small jars rod
 
-# 1. 2.
+# 1..
 
 In each jar, make Tear the blotting
 
@@ -5006,7 +5006,7 @@ and red plastic sheets
 
 # Orange square
 
-# 1. 2. 3.
+# 1...
 
 Cut the plastic sheets into Place yellow and blue strips Add a red strip to begin a
 
@@ -5092,7 +5092,7 @@ orange
 
 and red paints Sharp pencil Water for paint
 
-# 1. 2.
+# 1..
 
 # Cut out Make a hole in Spinning
 
@@ -5246,7 +5246,7 @@ Red cabbage, knife, or purified
 
 Sieve and chopping board Spoon Four small jars water
 
-# 1. 2. 3.
+# 1...
 
 Carefully chop the red Heat some distilled water in Let the cabbage water cool
 
@@ -5268,7 +5268,7 @@ jars and test various substances.
 
 # Cream of tartar Distilled water
 
-# 5. 6.
+# 5..
 
 # Color varieties Test lemon juice
 
@@ -5304,7 +5304,7 @@ if the soil is alkaline.
 
 # Tap water Baking soda
 
-# 7. 8.
+# 7..
 
 Test sodium bicarbonate.
 
@@ -5344,7 +5344,7 @@ at the same time!
 
 (glycerin) liquid Flashlight of water Plate Spoon
 
-# 1. 2. 3.
+# 1...
 
 Stir four spoons of dish-washing Pour some of the solution Carefully remove the straw
 
@@ -5440,7 +5440,7 @@ pictures are printed in books.
 
 # Palette oil Thick paper Dish of water
 
-# 1. 2.
+# 1..
 
 Put some poster paints on the palette.
 
@@ -5448,7 +5448,7 @@ Mix a little linseed oil with each color
 
 on the palette.
 
-# 3. 4.
+# 3..
 
 Put one color from the palette on the Add another color.
 
@@ -5460,7 +5460,7 @@ with the brush to make a pattern.
 
 # Color
 
-# 5. 6.
+# 5..
 
 Gently lay a sheet of the paper on the water
 
@@ -5626,7 +5626,7 @@ the air, and warmth.
 
 Paper towels Mung bean seeds Three deep saucers
 
-# 1. 2. 3.
+# 1...
 
 Place the beans in the bowl Put paper towels in the saucers.
 
@@ -5638,7 +5638,7 @@ saucer to moisten the towel.
 
 overnight.
 
-# 4. 5.
+# 4..
 
 # Place some Pour enough Keep the beans
 
@@ -5758,7 +5758,7 @@ so add water when necessary.
 
 it uses light to make food.
 
-# 1. 2. 3.
+# 1...
 
 Roll up the blotting paper After a few days
 
@@ -5844,7 +5844,7 @@ themselves.
 
 Two pieces of card Pitcher of water Pot of soil Long cardboard box
 
-# 1. 2. 3.
+# 1...
 
 # Cut a Cut Plant
 
@@ -5868,7 +5868,7 @@ a day before
 
 planting it.
 
-# 4. 5. 6.
+# 4...
 
 # Fit a Put Insert
 
@@ -5944,7 +5944,7 @@ Each one grows its own roots.
 
 Clear plastic bag Pruners Pot of moist soil mix Geranium plant
 
-# 1. 2. 3.
+# 1...
 
 Ask an adult Plant Over several weeks,
 
@@ -5992,7 +5992,7 @@ as nothing can live without it.
 
 Wide jar Bowl of water Pond weed Test tube
 
-# 1. 2.
+# 1..
 
 # Submerge the jar
 
@@ -6080,7 +6080,7 @@ all its starch and
 
 makes no more.
 
-# 1. 2.
+# 1..
 
 Tape plastic around some leaves.
 
@@ -6462,7 +6462,7 @@ to see how your ears do this.
 
 # Piece of card band clay Sheet of paper
 
-# 1. 2.
+# 1..
 
 Stretch the The plastic must Roll the sheet
 
@@ -6482,7 +6482,7 @@ it with the it does not unroll.
 
 rubber band.
 
-# 3. 4.
+# 3..
 
 # Push the Stand the
 
@@ -6592,7 +6592,7 @@ an image of a human figure.
 
 Card Magnifying glass Scissors Flashlight of water
 
-# 1. 2. 3.
+# 1...
 
 Tape the tissue paper to the Fix the magnifying glass in front Fold the card and cut out
 
@@ -6698,7 +6698,7 @@ on television and in the movies.
 
 # Scissors Compass markers White card
 
-# 1. 2. 3.
+# 1...
 
 # Make a circle on the card
 
@@ -6714,7 +6714,7 @@ Make two holes, one on each side.
 
 a cross on the other side.
 
-# 4. 5.
+# 4..
 
 Thread a rubber band through each Twist the bands by holding them
 
@@ -6812,7 +6812,7 @@ and bulb Modeling clay Tape Battery Screwdriver
 
 into several curves.
 
-# 1. 2. 3.
+# 1...
 
 Use modeling clay to attach the Using one piece of covered Connect the second piece
 
@@ -6854,7 +6854,7 @@ prey it is hunting.
 
 # Like the
 
-# 4. 5.
+# 4..
 
 Take the last piece of Place the loop around the stiff owl
 
@@ -6936,7 +6936,7 @@ our ears to hear.
 
 # These sounds
 
-# 1. 2.
+# 1..
 
 Attach each tube to a Ask a friend to walk by
 
@@ -6994,7 +6994,7 @@ out between tastings.
 
 flavors.
 
-# 1. 2.
+# 1..
 
 # Ask a friend Hold your
 
@@ -7036,7 +7036,7 @@ how much you can feel.
 
 # Thick card Compass Scissors Ruler
 
-# 1. 2.
+# 1..
 
 Use the ruler and Cut out the large circle
 
@@ -7066,7 +7066,7 @@ zones of your touch tester.
 
 # Outer zone
 
-# 3. 4.
+# 3..
 
 # Ask a friend Your friend should
 
@@ -7152,7 +7152,7 @@ you really are.
 
 Colored markers White paper 12-in (30-cm) ruler
 
-# 1. 2.
+# 1..
 
 Draw around the ruler on the paper.
 
@@ -7162,7 +7162,7 @@ Cut out the strip and mark six equal bands.
 
 to the ruler.
 
-# 3. 4.
+# 3..
 
 Ask a friend to Suddenly,
 
@@ -7356,7 +7356,7 @@ Show how sounds make the air shake.
 
 tightly as you can.
 
-# 1. 2. 3.
+# 1...
 
 Cut a piece of plastic Stretch the plastic over the Tape the edges of the plastic
 
@@ -7380,7 +7380,7 @@ air and make the
 
 plastic vibrate.
 
-# 4. 5.
+# 4..
 
 Sprinkle a few grains of the Hold the saucepan near the plastic.
 
@@ -7450,7 +7450,7 @@ target and making it shake.
 
 Thin plastic Cardboard tube Stiff paper Sharp pencil Tape
 
-# 1. 2. 3.
+# 1...
 
 Draw around the tube to Cut out the circle from Use the sharp end of the
 
@@ -7462,7 +7462,7 @@ pencil to make a small hole in
 
 the center of the circle.
 
-# 4. 5. 6.
+# 4...
 
 Tape the circle to one end Using the rubber band
 
@@ -7568,7 +7568,7 @@ slide them to opposite
 
 corners of the hanger.
 
-# 1. 2.
+# 1..
 
 Measure out and cut Wind one thread around
 
@@ -7658,7 +7658,7 @@ check that
 
 it ticks.
 
-# 1. 2.
+# 1..
 
 # Build two piles of books
 
@@ -7756,7 +7756,7 @@ you hear it as a bang.
 
 # Fold here First fold
 
-# 1. 2. 3.
+# 1...
 
 Fold the longer edges of Fold the corners into Fold the paper in half along
 
@@ -7774,7 +7774,7 @@ again, lengthways.
 
 # Sharp corner Second fold
 
-# 4. 5. 6.
+# 4...
 
 Open out the second fold.
 
@@ -7854,7 +7854,7 @@ flowerpots
 
 of thin cord tassels tape
 
-# 1. 2. 3.
+# 1...
 
 Decorate the tin with colored Cut off the balloon’s neck.
 
@@ -7880,7 +7880,7 @@ the holes are
 
 evenly spaced.
 
-# 4. 5. 6.
+# 4...
 
 Cover the pots with colored Cut out the large circles Fold in and glue the flaps of
 
@@ -7900,7 +7900,7 @@ as far as the second circle.
 
 # Sound and music
 
-# 7. 8. 9.
+# 7...
 
 Thread thin cord through the Zigzag the rest of the cord Spread glue over each circle.
 
@@ -8002,7 +8002,7 @@ made with pencils.
 
 # Ruler
 
-# 1. 2.
+# 1..
 
 Use the shapes below to Use the sharpener to shorten
 
@@ -8064,7 +8064,7 @@ Colored About 5 ft (1.
 
 tapes of plastic pipe ribbon Modeling clay
 
-# 1. 2.
+# 1..
 
 # Cut the Tape the
 
@@ -8140,7 +8140,7 @@ air inside the horn vibrate.
 
 tassels of hose Pencil tape
 
-# 1. 2. 3.
+# 1...
 
 Decorate the funnel with tape.
 
@@ -8234,7 +8234,7 @@ Round, plastic tacks screws Glue
 
 ice-cream tub Clear glaze
 
-# 1. 2. 3.
+# 1...
 
 Cut two “I” shapes under Bend the flaps of the “I” shapes Paint and glaze the wood
 
@@ -8258,7 +8258,7 @@ to the wood.
 
 lines across the wood.
 
-# 4. 5. 6.
+# 4...
 
 Cut off the neck of the Partly screw four eyelet screws Make two triangular bridges
 
@@ -8282,7 +8282,7 @@ other three times as wide.
 
 # Sound and music
 
-# 7. 8. 9.
+# 7...
 
 Make four strings by Insert the two bridges under Decorate the banjo by fixing
 
@@ -8488,7 +8488,7 @@ and Tape Colored
 
 magnets a pencil Glue felt
 
-# 1. 2. 3.
+# 1...
 
 Copy the snake pattern Tie a short length of thread Tape a magnet to the
 
@@ -8578,7 +8578,7 @@ combinations of magnets.
 
 bands plastic lid pen Paper clip beaker of water
 
-# 1. 2. 3.
+# 1...
 
 Place an upright bar magnet Add water to the glass beaker Rest the wooden skewers
 
@@ -8604,7 +8604,7 @@ water’s surface, so that it floats.
 
 positioned over the plastic lid.
 
-# 5. 6.
+# 5..
 
 # Mark the water level on the This time
 
@@ -8690,7 +8690,7 @@ facing each other.
 
 # Scissors Tape Card Compass
 
-# 1. 2. 3.
+# 1...
 
 Firmly tape one of the Cut the straw in two pieces.
 
@@ -8710,7 +8710,7 @@ clay over the
 
 sharp points.
 
-# 4. 5.
+# 4..
 
 # Using the compass
 
@@ -8774,7 +8774,7 @@ plastic containers Syrup horseshoe magnets filings wrap
 
 a way you can see it.
 
-# 1. 2. 3.
+# 1...
 
 Pour a dessert spoon of iron Place two bar magnets Fill the third container
 
@@ -8900,7 +8900,7 @@ and the other is not.
 
 Plate of iron filings Magnet Plate of sand
 
-# 1. 2. 3.
+# 1...
 
 Tip the plate of iron filings so Keep stirring until the sand Bring a magnet close to the
 
@@ -8950,7 +8950,7 @@ becomes
 
 a magnet.
 
-# 1. 2. 3.
+# 1...
 
 Use the compass to draw Stick a blob of modeling clay Stroke one end of the magnet
 
@@ -9060,7 +9060,7 @@ Switch 4.
 
 Scissors (see experiment 87) battery paper clips coated wire
 
-# 1. 2. 3.
+# 1...
 
 Cut a long piece of wire.
 
@@ -9204,7 +9204,7 @@ vibrate to and fro
 
 several times.
 
-# 1. 2.
+# 1..
 
 Strip both ends of the wire.
 
@@ -9230,7 +9230,7 @@ from getting to the
 
 electromagnet.
 
-# 3. 4.
+# 3..
 
 # With the scissors
 
@@ -9254,7 +9254,7 @@ the scraped part
 
 of the can.
 
-# 5. 6.
+# 5..
 
 Cut two wires and strip the ends.
 
@@ -9472,7 +9472,7 @@ woollen, like
 
 a sweater.
 
-# 1. 2. 3.
+# 1...
 
 Pump up the balloon.
 
@@ -9520,7 +9520,7 @@ around like a
 
 propeller!
 
-# 1. 2.
+# 1..
 
 Tie some thread around the Rub one end of each pen
 
@@ -9560,7 +9560,7 @@ repel objects as well as attract them.
 
 Scissors Balloon Balloon pump Stiff paper
 
-# 1. 2. 3.
+# 1...
 
 Draw some small people Carefully cut them out.
 
@@ -9668,7 +9668,7 @@ makes them dance for you.
 
 plastic bowl cake decoration LP record handkerchief
 
-# 1. 2.
+# 1..
 
 Rub the record Immediately,
 
@@ -9774,7 +9774,7 @@ how the charge can move.
 
 Round card Thread Plastic comb Tape Glass jar
 
-# 1. 2.
+# 1..
 
 Ask an adult to push the nail about two-thirds Tie the middle of a piece of thread tightly near
 
@@ -9790,7 +9790,7 @@ charge detector.
 
 pieces of tape.
 
-# 3. 4.
+# 3..
 
 Cut two strips of foil and tape them to the Place the card on the jar
 
@@ -9830,7 +9830,7 @@ the strips repel
 
 each other.
 
-# 5. 6. 7.
+# 5...
 
 Run the comb quickly through Run the comb along the Touch the top of the nail.
 
@@ -9908,7 +9908,7 @@ wire
 
 # 1.5 bulb battery Scissors Bulb-holder paper clip
 
-# 1. 2. 3.
+# 1...
 
 Cut two pieces of wire.
 
@@ -9928,7 +9928,7 @@ the terminal.
 
 a circuit and the bulb lights up.
 
-# 4. 5. 6.
+# 4...
 
 Screw the bulb into the Break the circuit by removing Cut a third piece of wire.
 
@@ -9952,7 +9952,7 @@ in step 1.
 
 # Electricity
 
-# 7. 8. 9.
+# 7...
 
 Fix one end of the third piece Cut out a piece of card Wind the end of the wire from
 
@@ -10086,7 +10086,7 @@ of the wires.
 
 3-in (8-cm) wire
 
-# 1. 2. 3.
+# 1...
 
 Tape the top of one battery Cut lengths of wire 10
 
@@ -10134,7 +10134,7 @@ the batteries.
 
 batteries and wires to make a bug.
 
-# 5. 5-in (12-cm) wire
+# 5.-in (12-cm) wire
 
 # Touch the foil balls on
 
@@ -10190,7 +10190,7 @@ Warm, salty
 
 Paper towels Scissors Aluminum foil water Earphones
 
-# 1. 2. 3.
+# 1...
 
 Draw and cut out six coin- Tape one wire to a coin
 
@@ -10214,7 +10214,7 @@ terminals at the top and
 
 bottom of the battery.
 
-# 4. 5.
+# 4..
 
 Put the foil circle with the wire Build up more layers of foil
 
@@ -10350,7 +10350,7 @@ paper
 
 # Eagle pattern Swallow pattern
 
-# 1. 2. 3.
+# 1...
 
 Cut three pieces of wire Connect the three wires to Roll a strip of paper around
 
@@ -10376,7 +10376,7 @@ center of one of the cotton spools.
 
 # Electricity
 
-# 4. 5. 6.
+# 4...
 
 Glue the spool to the bottom of Stretch the large rubber band Make frames for six birds to
 
@@ -10400,7 +10400,7 @@ spool on the needle.
 
 and wings of each bird.
 
-# 7. 8. 9.
+# 7...
 
 Trace the eagle and swallow Using pipe cleaners and tape
 
@@ -10582,7 +10582,7 @@ force you use to move things.
 
 Plastic bag spool Card Shoe box Scissors
 
-# 1. 2. 3.
+# 1...
 
 Put the stones in the bag Cut the card to the same Tape the lengths of wood
 
@@ -10640,7 +10640,7 @@ form a lever that tilts
 
 around the wheel.
 
-# 5. 6.
+# 5..
 
 Put the bag of stones in the Move the bag of stones to the front of the barrow.
 
@@ -10680,7 +10680,7 @@ from the balloon.
 
 thread is tight.
 
-# 1. 2. 3.
+# 1...
 
 Feed the thread through the Stretch the thread across Blow up the balloon.
 
@@ -10812,7 +10812,7 @@ screws Protractor Ruler of card sandpaper
 
 and card
 
-# 1. 2. 3.
+# 1...
 
 Screw the hinge to the Using the protractor and ruler
 
@@ -10892,7 +10892,7 @@ weight is the
 
 centripetal force.
 
-# 1. 2. 3.
+# 1...
 
 Drill a hole through the Tie the other end of the string Hold the thread spool.
 
@@ -10936,7 +10936,7 @@ Try making some gears of your own.
 
 spools lids Thick card Sandpaper
 
-# 1. 2. 3.
+# 1...
 
 Glue sandpaper strips Push nails through the card.
 
@@ -10984,7 +10984,7 @@ on its own!
 
 Scissors Glue Tape Modeling clay Big and small marbles
 
-# 1. 2.
+# 1..
 
 # Two
 
@@ -11016,7 +11016,7 @@ of the long box.
 
 openings of clay
 
-# 3. 4.
+# 3..
 
 # Make channels Stick two
 
@@ -11136,7 +11136,7 @@ middle of the lid and
 
 the other near the edge.
 
-# 1. 2.
+# 1..
 
 Ask an adult to make two holes in the front Using the tack
 
@@ -11164,7 +11164,7 @@ and the second hole in the box.
 
 The handle should turn easily.
 
-# 3. 4.
+# 3..
 
 Attach the handle to the box with the Ask an adult to cut four evenly spaced slits
 
@@ -11176,7 +11176,7 @@ Now two corks are in use.
 
 # Motion and machines
 
-# 5. 6.
+# 5..
 
 Cut four long strips from the plastic.
 
@@ -11316,7 +11316,7 @@ still used today.
 
 blades fit tightly.
 
-# 1. 2. 3.
+# 1...
 
 Use the knife to cut four Cut out four pieces of stiff Fit the pieces of plastic into
 
@@ -11332,7 +11332,7 @@ out evenly.
 
 length as the cork.
 
-# 4. 5. 6.
+# 4...
 
 # Using the nail
 
@@ -11350,7 +11350,7 @@ is straight so the bottle can one hole in the bottle.
 
 stand upright.
 
-# 7. 8.
+# 7..
 
 # Push the Push the
 
@@ -11484,7 +11484,7 @@ Pitcher of water Balloon Scissors Funnel Can
 
 the force that they produce.
 
-# 1. 2. 3.
+# 1...
 
 Fit the neck of the balloon Cut the top off the bottle.
 
@@ -11500,7 +11500,7 @@ tightly with tape.
 
 base of the bottle.
 
-# 4. 5.
+# 4..
 
 # Tape the Place the
 
@@ -11662,7 +11662,7 @@ that lifts
 
 the load.
 
-# 6. 7.
+# 6..
 
 Bend the paper clip to Place the book on the box.
 

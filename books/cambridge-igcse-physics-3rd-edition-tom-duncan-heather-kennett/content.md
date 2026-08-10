@@ -956,7 +956,7 @@ from the Hubble Space Telescope is providing new
 
 evidence which confirms Einstein’s ideas.
 
-investigations, pp. 283–84).
+investigations, pp.83–84).
 
 Many other scientific theories have had to wait
 
@@ -1966,7 +1966,7 @@ shaft of the gauge
 
 this is usually 1 mm
 
-i.e. 0.
+i.e..
 
 05 cm.
 
@@ -2246,7 +2246,7 @@ km/h, m/s.
 
 The speed of the club-head as it hits the ball is about
 
-200 km/h. 6000m
+200 km/h.000m
 
 60km/h = =17m/s
 
@@ -2432,7 +2432,7 @@ per 1 s or 60 cm/s.
 
 Motion sensors use the ultrasonic echo technique 5
 
-5 tenticks, i.e. 1 second, the change of speed is
+5 tenticks, i.e. second, the change of speed is
 
 (see p.
 
@@ -4498,7 +4498,7 @@ k, of a spring is the force
 
 needed to cause unit extension
 
-i.e. 1 m.
+i.e. m.
 
 # If a force F
 
@@ -4886,7 +4886,7 @@ Complete the parallelogram OACB.
 
 Measure the diagonal OC;
 
-if it is equal in size (i.e. 9.
+if it is equal in size (i.e..
 
 8 cm) and opposite in direction to W
 
@@ -8528,7 +8528,7 @@ power = = (2)
 
 force equal to the weight of the body
 
-i.e. 30 N time taken timme taken
+i.e.0 N time taken timme taken
 
 (approximately) and the work done is 30 N × 2 m =
 
@@ -8540,7 +8540,7 @@ direction in which the force acts.
 
 of working of 1 joule per second
 
-i.e. 1 W =
+i.e. W =
 
 1 J/s. Larger units are the kilowatt (kW) and the
 
@@ -10634,7 +10634,7 @@ Pressure is the force (or thrust) acting on unit similar holes all round it at t
 
 # Water
 
-area (i.e. 1 m2) and is calculated from comes out equally fast and spurts equally far from
+area (i.e. m2) and is calculated from comes out equally fast and spurts equally far from
 
 each hole.
 
@@ -14318,7 +14318,7 @@ To correct for heat transferred from the surroundings
 
 collect the
 
-melted ice in a beaker for time t (e.g. 4 minutes)
+melted ice in a beaker for time t (e.g. minutes)
 
 weigh the beaker Again
 
@@ -15694,7 +15694,7 @@ then the total power needed to maintain a certain a near the top
 
 b near the bottom,
 
-temperature (e.g. 20 ºC) in the building is 8 kW.
+temperature (e.g.0 ºC) in the building is 8 kW.
 
 of a tank of water?
 
@@ -16470,7 +16470,7 @@ appear at rest.
 
 from P of three wavelengths
 
-i.e. 3 × 20 = 60 cm.
+i.e. × 20 = 60 cm.
 
 speed of the wave is v = 60 cm per second (60 cm/s)
 
@@ -23594,7 +23594,7 @@ and there is just one path for the current to follow.
 
 You should have found in the previous experiment
 
-that the reading on the ammeter (e.g. 0.
+that the reading on the ammeter (e.g..
 
 2 A) when in
 
@@ -24914,7 +24914,7 @@ Record in a table, with
 
 potential three columns
 
-five values of I (e.g. 0.
+five values of I (e.g..
 
 10, 0.
 
@@ -24936,11 +24936,11 @@ rheostat pair of readings.
 
 but instead of the wire use (i) a lamp
 
-(e.g. 2.
+(e.g..
 
 5 V, 0.
 
-3 A), (ii) a semiconductor diode (e.g. 1 N4001)
+3 A), (ii) a semiconductor diode (e.g. N4001)
 
 connected first one way then the other way round
 
@@ -28002,7 +28002,7 @@ In use an LED must have a suitable resistor R in
 
 optional
 
-series with it (e.g. 300 Ω on a 5 V supply) to limit
+series with it (e.g.00 Ω on a 5 V supply) to limit
 
 the current (typically 10 mA).
 
@@ -28686,7 +28686,7 @@ current in the relay coil) and
 
 because of its low forward Figure 41.
 
-resistance (e.g. 1 Ω)
+resistance (e.g. Ω)
 
 offers an easy path for the current
 
@@ -28832,7 +28832,7 @@ voltages have only one of two
 
 values
 
-either ‘high’ (e.g. 5 V) or ‘low’ (e.g. near
+either ‘high’ (e.g. V) or ‘low’ (e.g. near
 
 0 V), as shown in Figure 42.1b. They include
 
@@ -28890,7 +28890,7 @@ computers and other electronic systems.
 
 i.e. a
 
-signal (e.g. 5 V)
+signal (e.g. V)
 
 depending on the combination
 
@@ -30192,7 +30192,7 @@ is the number of complete cycles it makes each
 
 second and is measured in hertz (Hz)
 
-i.e. 1 cycle
+i.e. cycle
 
 per second = 1 Hz.
 
@@ -30322,7 +30322,7 @@ Figure 43.
 
 The large p.
 
-s and currents (e.g. 25 kV at several
+s and currents (e.g.5 kV at several
 
 thousand amps) induced in the stator are led away
 
@@ -31134,7 +31134,7 @@ be transferred to heat if the power is transmitted
 
 at the lower current and higher voltage
 
-i.e. 1 A at
+i.e. A at
 
 400 000 V.
 
@@ -41870,7 +41870,7 @@ c v = 5/0.
 
 x x x
 
-8 Change the subject in v2 = u2 + 2as to a. 1 2 3
+8 Change the subject in v2 = u2 + 2as to a. 2 3
 
 or
 
@@ -48042,7 +48042,7 @@ bl © Glenn Bo/IStockphoto/Thinkstock
 
 r © Fogstock Lond.
 
-A104, pp. 1-24 (1923); p.
+A104, pp.-24 (1923); p.
 
 233 © Lawrence Berkeley Laboratory/
 

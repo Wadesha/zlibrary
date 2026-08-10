@@ -6678,11 +6678,11 @@ The Kew Series, Eyre
 
 Abies alba .
 
-36 一 nootkatensis 30
+36一 nootkatensis 30
 
 — cephalonica .
 
-37 一 pisifera .
+37一 pisifera .
 
 — concolor .
 
@@ -6698,7 +6698,7 @@ Abies alba .
 
 — nordmannia .
 
-88 一 macrocarpa , 31
+88一 macrocarpa , 31
 
 — numidica , 38 = sempervirens.
 
@@ -6710,13 +6710,13 @@ Araucaria araucana .
 
 , , 24 Juniperus communis ,。Cedrus atlantica .
 
-53 一 echiniformis .
+53一 echiniformis .
 
-一 deodara ..... 53 一 hibernica .. 32
+一 deodara .....3一 hibernica ..2
 
 — lebani.
 
-53 一 S808 , 27
+53一 S808 , 27
 
 Chamaecyparis lawsoniana 30 Larix decidua .
 
@@ -6746,7 +6746,7 @@ Couterf eo.
 
 一 /ambertjana
 
-一 0g0 Vis! Bas
+一0g0 Vis! Bas
 
 — nigra .
 
@@ -6802,19 +6802,19 @@ Common Yew .
 
 — ponderosa .
 
-一 radiata vv iii. 8
+一 radiata vv iii.
 
 es HIGHS.
 
 1 47
 
-一 sabiniana ..... 4
+一 sabiniana .....
 
 — strobus .
 
 656 6 ee 51
 
-一 sylvestris. ... 4% 40
+一 sylvestris. ...% 40
 
 — virginiana .
 

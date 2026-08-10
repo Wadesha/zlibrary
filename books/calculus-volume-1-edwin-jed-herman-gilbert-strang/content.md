@@ -16308,13 +16308,13 @@ Round your solutions to four decimal places.
 
 x f(x) x f(x)
 
-# 0.9 a. 1.1 e.
+# 0.9 a..1 e.
 
-# 0.99 b. 1.01 f.
+# 0.99 b..01 f.
 
-# 0.999 c. 1.001 g.
+# 0.999 c..001 g.
 
-# 0.9999 d. 1.0001 h.
+# 0.9999 d..0001 h.
 
 What do your results in the preceding exercise indicate
 
@@ -16464,25 +16464,25 @@ x2+x−6xx2−4
 
 x2+x−6
 
-# 1.9 a. 2.1 e.
+# 1.9 a..1 e.
 
-# 1.99 b. 2.01 f.
+# 1.99 b..01 f.
 
-# 1.999 c. 2.001 g.
+# 1.999 c..001 g.
 
-# 1.9999 d. 2.0001 h.
+# 1.9999 d..0001 h.
 
 limx→ 1(1−2x)
 
 x 1−2x x 1−2x
 
-# 0.9 a. 1.1 e.
+# 0.9 a..1 e.
 
-# 0.99 b. 1.01 f.
+# 0.99 b..01 f.
 
-# 0.999 c. 1.001 g.
+# 0.999 c..001 g.
 
-# 0.9999 d. 1.0001 h.
+# 0.9999 d..0001 h.
 
 limx→ 05
 
@@ -16562,13 +16562,13 @@ x2−4x1−2x
 
 x2−4
 
-# 1.9 a. 2.1 e.
+# 1.9 a..1 e.
 
-# 1.99 b. 2.01 f.
+# 1.99 b..01 f.
 
-# 1.999 c. 2.001 g.
+# 1.999 c..001 g.
 
-# 1.9999 d. 2.0001 h.
+# 1.9999 d..0001 h.
 
 [T]In the following exercises
 
@@ -66676,7 +66676,7 @@ Why is u-substitution referred to as change of
 
 variable ?
 
-# 255. 2. If f=g∘h,when reversing the chain rule,
+# 255.. If f=g∘h,when reversing the chain rule,
 
 d
 
@@ -87814,9 +87814,9 @@ Domain = {3
 
 Yes, a function
 
-# 7. a.−2b. 3 c. 13 d. −5x−2 e.5a−2 f.5a+5h−2
+# 7. a.−2b. c.3 d. −5x−2 e.5a−2 f.5a+5h−2
 
-# 9. a. Undefined b. 2 c.2
+# 9. a. Undefined b. c.2
 
 −2xe2af.
 
@@ -87824,7 +87824,7 @@ a+h
 
 # 11. a.5b.11c.23d.−6x+5 e.6a+5 f.6a+6h+5
 
-# 13. a. 9 b. 9 c. 9 d. 9 e. 9 f. 9
+# 13. a. b. c. d. e. f.
 
 8;y≥ 0;x=1
 
@@ -87938,7 +87938,7 @@ No Symmetry h.
 
 x+1;x≠ −1, 3
 
-# 41. a.6+2x;x≠ 0 b. 6;x≠ 0 c.6x+1
+# 41. a.6+2x;x≠ 0 b.;x≠ 0 c.6x+1
 
 x2;x≠ 0 d.
 
@@ -88038,11 +88038,11 @@ S(x)= 8.
 
 # 59. a. −1 b. Decreasing
 
-# 61. a. 3/4 b. Increasing
+# 61. a./4 b. Increasing
 
-# 63. a. 4/3 b. Increasing
+# 63. a./3 b. Increasing
 
-# 65. a. 0 b. Horizontal
+# 65. a. b. Horizontal
 
 y= −6x+9
 
@@ -88064,7 +88064,7 @@ y= −6x+9
 
 3,b= 2⎞
 
-# 83. a. 2 b.5
+# 83. a. b.5
 
 2, −1; c.
 
@@ -88148,7 +88148,7 @@ In approximately 6.
 
 4 years
 
-# 105. a.C= 0.75x+125 b. $245 c. 167 cupcakes
+# 105. a.C= 0.75x+125 b. $245 c.67 cupcakes
 
 107.
 
@@ -88162,7 +88162,7 @@ the value of the car is $20
 
 # 109. $30,337.50
 
-# 111. 96% of the total capacity
+# 111.6% of the total capacity
 
 113.
 
@@ -88336,7 +88336,7 @@ y= 4sin⎛
 
 y= cos(2πx)
 
-# 167. a. 1 b. 2πc.π
+# 167. a. b.πc.π
 
 4units to the right
 
@@ -88346,7 +88346,7 @@ y= cos(2πx)
 
 # No phase shift
 
-# 171. a. 3 b. 2c.2πunits to the left
+# 171. a. b.c.2πunits to the left
 
 # 173. Approximately 42 in.
 
@@ -88442,7 +88442,7 @@ blood is flowing with velocity V.
 
 17 cm
 
-# 219. a. 66,667, $107,143 b.⎛
+# 219. a.6,667, $107,143 b.⎛
 
 ⎝p=85C
 
@@ -88492,9 +88492,9 @@ cos−1(cos(2.
 
 1 is in the restricted domain of cosx.
 
-# 229. a. 125 b. 2.24 c. 9.74
+# 229. a.25 b..24 c..74
 
-# 231. a. 0.01 b. 10,000 c. 46.42
+# 231. a..01 b.0,000 c.6.42
 
 # 233. d
 
@@ -88756,7 +88756,7 @@ cos(2x)or1
 
 0, ±2π
 
-# 325. 4
+# 325.
 
 327.
 
@@ -88778,7 +88778,7 @@ x≥ −3
 
 24y−7
 
-# 331. a.C(x) = 300+7 xb. 100 shirts
+# 331. a.C(x) = 300+7 xb.00 shirts
 
 333.
 
@@ -88788,17 +88788,17 @@ x≥ −3
 
 000 from May 29 through August
 
-# 335. 78.51%
+# 335.8.51%
 
 # Chapter 2
 
 # Checkpoint
 
-# 2.1. 2.25
+# 2.1..25
 
-# 2.2. 12.006001
+# 2.2.2.006001
 
-# 2.3. 16 unit2
+# 2.3.6 unit2
 
 limx→ 11x−1
 
@@ -88876,9 +88876,9 @@ x→ −1−f(x)= −1
 
 # 2.18 . +∞
 
-# 2.19 . 0
+# 2.19 .
 
-# 2.20 . 0
+# 2.20 .
 
 21 .
 
@@ -88890,7 +88890,7 @@ fis not continuous at 1 becausef(1)= 2 ≠ 3 = limx→ 1f(x).
 
 # 2.24 .[−3, +∞)
 
-# 2.25 . 0
+# 2.25 .
 
 26 .
 
@@ -88956,7 +88956,7 @@ Therefore,limx→ 23x−2 = 4.
 
 y= 2x
 
-# 5. 3
+# 5.
 
 0248457; b.
 
@@ -89040,11 +89040,11 @@ This OpenStax book is available for free at http
 
 org/content/col11964/1.
 
-# 19. 5.2 m/sec
+# 19..2 m/sec
 
 # 21. −9.8 m/sec
 
-# 23. 6 m/sec
+# 23. m/sec
 
 Under, 1 unit2; over: 4 unit2.
 
@@ -89204,31 +89204,31 @@ x→ 6−f(x)= 2andlim
 
 x→ 6+f(x)= 5.
 
-# 51. 2
+# 51.
 
-# 53. 1
+# 53.
 
-# 55. 1
+# 55.
 
 # 57. DNE
 
-# 59. 0
+# 59.
 
 # 61. DNE
 
-# 63. 2
+# 63.
 
-# 65. 3
+# 65.
 
 # 67. DNE
 
-# 69. 0Answer Key 791
+# 69.Answer Key 791
 
 # 71. −2
 
 # 73. DNE
 
-# 75. 0
+# 75.
 
 # 77. Answers may vary.
 
@@ -89272,9 +89272,9 @@ x→ −2⎛
 
 ⎠= 19
 
-# 87. 49
+# 87.9
 
-# 89. 1
+# 89.
 
 x→ 4x2−16
 
@@ -89682,11 +89682,11 @@ N,thenf(x)=3
 
 (x+1)2>N.
 
-# 199. 0.033 cm, ε= 8,δ= 0.33,a= 12,L= 144
+# 199..033 cm, ε= 8,δ= 0.33,a= 12,L= 144
 
 # 201. Answers may vary.
 
-# 203. 0
+# 203.
 
 205.
 
@@ -89704,7 +89704,7 @@ False.
 
 A removable discontinuity is possible.
 
-# 213. 5796 Answer Key
+# 213.796 Answer Key
 
 This OpenStax book is available for free at http
 
@@ -89760,7 +89760,7 @@ f″(x)= 2
 
 # 3.10 .a(t)= 6t
 
-# 3.11 . 0
+# 3.11 .
 
 # 3.12 .4x3
 
@@ -89794,7 +89794,7 @@ f″(x)= 2
 
 # 3.22 . left to right
 
-# 3.23 . 3,300
+# 3.23 .,300
 
 # 3.24 . $2
 
@@ -89908,7 +89908,7 @@ sec2y−2y
 
 # 3.50 .h′(x)=e2x+2xe2x
 
-# 3.51 . 996
+# 3.51 .96
 
 # 3.52 .f′(x)=15
 
@@ -90318,11 +90318,11 @@ h′(x)=3f′(x)⎛
 
 # 129. Undefined
 
-# 131. a.2,b. does not exist, c. 2.5
+# 131. a.2,b. does not exist, c..5
 
-# 133. a. 23, b. y= 23x−28
+# 133. a.3, b. y= 23x−28
 
-# 135. a. 3, b. y= 3x+2Answer Key 805
+# 135. a., b. y= 3x+2Answer Key 805
 
 137.
 
@@ -90384,9 +90384,9 @@ speeds up (2, 2.
 
 # 153. a.464ft/s2b.−32ft/s2
 
-# 155. a. 5 ft/s b. 9 ft/s
+# 155. a. ft/s b. ft/s
 
-# 157. a. 84 ft/s, −84 ft/s b. 84 ft/s c.25
+# 157. a.4 ft/s, −84 ft/s b.4 ft/s c.25
 
 8sd.
 
@@ -90850,7 +90850,7 @@ y=−1
 
 x= ± 6
 
-# 245. 10
+# 245.0
 
 247.
 
@@ -90902,7 +90902,7 @@ The volume is decreasing at a rate of −π
 
 ⎠′(1)~ −1/ 3
 
-# 265. a. 6, b. x=f−1(y)=⎛
+# 265. a., b. x=f−1(y)=⎛
 
 ⎝y+3
 
@@ -91402,7 +91402,7 @@ The volume measurement is accurate to within 21.
 
 6cm3.
 
-# 4.11 . 7.6%
+# 4.11 ..6%
 
 # 4.12 .x= −2
 
@@ -91686,7 +91686,7 @@ L(x) = 1
 
 L(x) = 0
 
-# 57. 0.02
+# 57..02
 
 9996875
 
@@ -91938,9 +91938,9 @@ org/content/col11964/1.
 
 (−∞, −2),(2, ∞)
 
-# 157. 2 points
+# 157. points
 
-# 159. 5 points
+# 159. points
 
 161.
 
@@ -92940,9 +92940,9 @@ i= 36
 
 2i= 23+24+25+26= 120
 
-# 5.2. 15,550
+# 5.2.5,550
 
-# 5.3. 440
+# 5.3.40
 
 The left-endpoint approximation is 0.
 
@@ -92968,13 +92968,13 @@ Upper sum = 8.
 
 A≈ 1.
 
-# 5.7. 6
+# 5.7.
 
-# 5.8. 18 square units
+# 5.8.8 square units
 
-# 5.9. 6
+# 5.9.
 
-# 5.10 . 18
+# 5.10 .8
 
 # 5.11 .6∫
 
@@ -92990,7 +92990,7 @@ xdx−⌠
 
 # 5.12 . −7
 
-# 5.13 . 3
+# 5.13 .
 
 # 5.14 .Average value = 1.5 ;c= 3
 
@@ -93032,7 +93032,7 @@ but Kathy skates 29.
 
 740 m
 
-# 5.23 . 17.5 mi
+# 5.23 .7.5 mi
 
 # 5.24 .64
 
@@ -93336,7 +93336,7 @@ i= 125⎛
 
 # 39. Add the numbers to get 8.1-in. net increase.
 
-# 41. 309,389,957
+# 41.09,389,957
 
 L8= 3+2+1+2+3+4+5+4 = 24
 
@@ -94422,7 +94422,7 @@ The total daily power consumption is estimated as the sum of the hourly power ra
 
 or 911 gW-h.
 
-# 235. 17 kJ
+# 235.7 kJ
 
 237.
 
@@ -94450,7 +94450,7 @@ In wet conditions, if
 
 v0= 30,andD= 180 and ifv0= 25,D= 125.
 
-# 241. 225 cal
+# 241.25 cal
 
 243.
 
@@ -95138,7 +95138,7 @@ b⎞
 
 1/b1/adxx
 
-# 381. 23
+# 381.3
 
 # 383. We may assume that x> 1, so1x< 1.Then,∫
 
@@ -95486,7 +95486,7 @@ L4= 5.
 
 447.
 
-# 449. 1
+# 449.
 
 451.
 
@@ -95892,7 +95892,7 @@ $33,333.
 
 π−32
 
-# 63. 8 units3
+# 63. units3
 
 3 2units3
 
@@ -96750,7 +96750,7 @@ y=1ccosh(cx)
 
 ⎠
 
-# 457. 11:02 a.m.
+# 457.1:02 a.m.
 
 459.
 

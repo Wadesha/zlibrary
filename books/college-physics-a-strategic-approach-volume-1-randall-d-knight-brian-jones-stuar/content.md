@@ -4808,9 +4808,9 @@ is a descending rocket slowing to make a soft 3.
 
 landing on Mars?
 
-# 4. 3.
+# 4..
 
-# 5. 5· 5. FIGURE 1.4 Simplifying a motion diagram
+# 5.· 5. FIGURE 1.4 Simplifying a motion diagram
 
 using the particle model.
 
@@ -9748,7 +9748,7 @@ I The earth formed 4.
 
 seconds?
 
-# 28. A. 1.67 X 1012 s
+# 28. A..67 X 1012 s
 
 40 X 10" S B.
 
@@ -9952,7 +9952,7 @@ numbers have?
 
 I Compute the following numbers to 3 significant figures.
 
-# 22. a. 33.3 X 25.4 b. 33.3 -25.4
+# 22. a.3.3 X 25.4 b.3.3 -25.4
 
 V3D d.
 
@@ -18302,7 +18302,7 @@ negative, zero
 
 positive, zero
 
-# 17. 1 Figure 02.17 shows an x(m)
+# 17. Figure 02.17 shows an x(m)
 
 object's position-versus-time
 
@@ -18826,7 +18826,7 @@ Section 2.
 
 3 Instantaneou s Velocity
 
-# 17. 1 Figure P2.17 shows the x (m)
+# 17. Figure P2.17 shows the x (m)
 
 position graph of a particle.
 
@@ -19924,7 +19924,7 @@ large role
 
 and the flca will not reach this height.
 
-# 60. 1II Certain insects can achieve
+# 60.II Certain insects can achieve
 
 BID seemingly impossible accel­
 
@@ -23528,7 +23528,7 @@ measure the velocity of the runner.
 
 velocities are shown relative to Amy.
 
-. a. 5m/s
+. a.m/s
 
 BillC!
 
@@ -24380,7 +24380,7 @@ When Ihe p.
 
 # U1icle rclums
 
-10 its initial hcight. 1', is
+10 its initial hcight.', is
 
 oppositc its initial value.
 
@@ -27020,7 +27020,7 @@ what is the component of the can­
 
 nonball's velocity parallel to the ground?
 
-# 10. 11 a. What are the x-and y-components of vec­
+# 10.1 a. What are the x-and y-components of vec­
 
 tor if.
 
@@ -27674,7 +27674,7 @@ direction.
 
 FIGURE P3.
 
-# 46. II Let A = (3.0 m. 20° south of east).
+# 46. II Let A = (3.0 m.0° south of east).
 
 jj = (2.
 
@@ -30766,7 +30766,7 @@ both a nom, .
 
 friction force.
 
-. ................... 0 Name and bbel long-range
+. ................... Name and bbel long-range
 
 forces.
 
@@ -33472,7 +33472,7 @@ State your reasoning,
 
 -F-:D~-2> e"D~-2> ~D~- 2>
 
-# 80. 80.
+# 80.0.
 
 FIGURE 04.
 
@@ -34044,7 +34044,7 @@ to remain at rest.
 
 # Label the new force Fl'
 
-# 4. 5. II r _-1"
+# 4.. II r _-1"
 
 FIGURE P4.
 
@@ -34350,7 +34350,7 @@ ples 4.
 
 5 as models of what a description should be like.
 
-# 26. I" 27. 1 y
+# 26. I" 27. y
 
 F,IJru~
 
@@ -41656,7 +41656,7 @@ and the pulleys are
 
 Frictionless.
 
-# 17. 18. __ ~-.I
+# 17.8. __ ~-.I
 
 FIGURE 05.
 
@@ -41862,7 +41862,7 @@ vator that is accelerat ing downward at 1.
 
 approximate reading on the scale?
 
-# 30. A. 0 N B . 400 N C. 500 N D. 600 N
+# 30. A. N B .00 N C.00 N D.00 N
 
 I The two bJocks in Figure Q5.
 
@@ -51340,7 +51340,7 @@ find that the free-fall acceleration is 12.
 
 masses of (a) the planet and (b) the star?
 
-# 69. 11111 Europa, a satellite of Jupiter,
+# 69.1111 Europa, a satellite of Jupiter,
 
 # BID is believed to have a liquid
 
@@ -51388,7 +51388,7 @@ given.
 
 Finish the solution of the problem.
 
-# 70. 60 N ~ (0.30 kg)w'(0.50 m)
+# 70.0 N ~ (0.30 kg)w'(0.50 m)
 
 (1500 kg)(9.
 
@@ -51444,7 +51444,7 @@ m'/kg')( 1.
 
 90 x 1027 kg)
 
-# 72. 11 r'
+# 72.1 r'
 
 67 x 10-" N· m'lkg')(5.
 
@@ -57782,7 +57782,7 @@ is 15.
 
 and the horizontal beam is
 
-# 25.0 kg and 2.00 111 long. 1.00 III
+# 25.0 kg and 2.00 111 long..00 III
 
 Find the center of grav-FIGURE P7.
 
@@ -58282,7 +58282,7 @@ while the cylinder turns one complete revolution.
 
 long does it take for the elevator to stop?
 
-# 49. 1111 The 20-cm-d iameter disk y
+# 49.111 The 20-cm-d iameter disk y
 
 in Figure P7.
 
@@ -58296,7 +58296,7 @@ the axle?
 
 --+=----<~ 30 N
 
-# 50. 1111 A combination lock has a
+# 50.111 A combination lock has a
 
 INT I.
 
@@ -63992,7 +63992,7 @@ By how much is the column compressed?
 
 # General Problems
 
-# 35. 1111 A 3.0-m-long rigid beam
+# 35.111 A 3.0-m-long rigid beam
 
 with a mass of 100 kg is
 
@@ -64286,7 +64286,7 @@ With what net force do they push back on the
 
 block?
 
-# 49. 2.5cm c:=
+# 49..5cm c:=
 
 = 5.
 
@@ -71172,7 +71172,7 @@ the mass of the second ball?
 
 67 kg
 
-# 8. 2.0 kg
+# 8..0 kg
 
 7 kg
 
@@ -93228,7 +93228,7 @@ The pressure at the higher tempera­
 
 ture is
 
-. 303 K .
+.03 K .
 
 Pr ~ 44.
 
@@ -109414,7 +109414,7 @@ What reasonable assumption can YOll make about
 
 the gas volume?
 
-# 62. 11111 Figure P13.62 shows a
+# 62.1111 Figure P13.62 shows a
 
 section of a long tube that
 
@@ -115568,7 +115568,7 @@ For instance:
 
 y has decreased
 
-.. 1037% of ils
+..037% of ils
 
 Ale - - - - - - I .
 
@@ -118232,7 +118232,7 @@ through its edge is I = 2MR2.
 
 of the hoop?
 
-# 34. 1111 An elephant's legs have a
+# 34.111 An elephant's legs have a
 
 BID reasonably uniform cross sec­
 
@@ -118796,7 +118796,7 @@ If so, how?
 
 If not, why not?
 
-# 57. 1111 Figure P14.57 shows two
+# 57.111 Figure P14.57 shows two
 
 springs, each with spring
 
@@ -137120,33 +137120,33 @@ begins
 
 # 5. -22 In
 
-# 7. 800 rn cast of starting point
+# 7.00 rn cast of starting point
 
 # 9. Bike, balL cat, toy car
 
 # 11. -1.0 m/s
 
-# 13. 15 s
+# 13.5 s
 
-# 15. a. 0.20 rn b. 20 m/s c. 27 mls
+# 15. a..20 rn b.0 m/s c.7 mls
 
 # 17. I km/ks < I em/ms < I rnmilLs
 
-# 19. a. 3 b. 4 c. 5 d. 3
+# 19. a. b. c. d.
 
-# 21. 3.81 X 102 In
+# 21..81 X 102 In
 
-# 23. 4.2 X 10-1> mls
+# 23..2 X 10-1> mls
 
-# 25. 1.2 X 10-9 mls or 4.4 /Lrn/h
+# 25..2 X 10-9 mls or 4.4 /Lrn/h
 
-# 27. 3.3 km
+# 27..3 km
 
-# 29. 10 In
+# 29.0 In
 
-# 31. 38km
+# 31.8km
 
-# 33. 50 yd at 320 SlOPS
+# 33.0 yd at 320 SlOPS
 
 BO:lrds bus
 
@@ -137196,13 +137196,13 @@ x
 
 "-----~ .
 
-# 47. 12 inlns
+# 47.2 inlns
 
-# 49. 43 mph
+# 49.3 mph
 
-# 51. 3.0x IOlms
+# 51..0x IOlms
 
-# 53. 40 ms
+# 53.0 ms
 
 # 55. a.
 
@@ -137216,9 +137216,9 @@ A_
 
 # 57. a. AB and CD b. All segments c. AB and CD
 
-# 59. 30m
+# 59.0m
 
-# 61. 12 min
+# 61.2 min
 
 # 63. B
 
@@ -137254,7 +137254,7 @@ x (rn)
 
 0 2 4 6 8 10
 
-# 5. a. 8 s
+# 5. a. s
 
 Ix (m/s)
 
@@ -137270,15 +137270,15 @@ Ix (m/s)
 
 0 2 4 6 8 10
 
-# 9. 2.5 mIs, 0 In/S. -10 m/s
+# 9..5 mIs, 0 In/S. -10 m/s
 
 Beth b.
 
 20 min
 
-# 13. 4.3 min
+# 13..3 min
 
-# 15. a. 15m b. 90m
+# 15. a.5m b.0m
 
 # 17. U. v.I' (mts)
 
@@ -137302,9 +137302,9 @@ Yes, at I = 2 s 19.
 
 # 33. Yes I I
 
-# 35. u. 5 Tn b. 22 m/s
+# 35. u. Tn b.2 m/s
 
-# 37. 10.0s
+# 37.0.0s
 
 # 39.0.31 m
 
@@ -137312,7 +137312,7 @@ Both magnitudes and directions arc equal b.
 
 # Equal
 
-# 43. u. 33 m b. 25 mts
+# 43. u.3 m b.5 mts
 
 0s b.
 
@@ -137336,7 +137336,7 @@ x
 
 C
 
-# 49. 57 mph
+# 49.7 mph
 
 # 51. b. x (m)
 
@@ -137366,27 +137366,27 @@ C
 
 -2m/s2
 
-# 53. ". 180 mph b. 2.3 m/52 c. 35 s d.
+# 53. ".80 mph b..3 m/52 c.5 s d.
 
-# 55. 8.7 Y
+# 55..7 Y
 
-# 57. a. ;:,:1.0cm b. 35 m/s! c. 0.84 mls
+# 57. a. ;:,:1.0cm b.5 m/s! c..84 mls
 
-# 59. a. 1000 mig! b. 1.0 illS c. 5.1 em
+# 59. a.000 mig! b..0 illS c..1 em
 
-# 61. 33 mig!
+# 61.3 mig!
 
-# 63. u. 24 m/s b. 4.5 s
+# 63. u.4 m/s b..5 s
 
-# 65. 12 mls
+# 65.2 mls
 
-# 67. 110m
+# 67.10m
 
-# 69. a. 4.1 s b.
+# 69. a..1 s b.
 
-# 71. u. 4.05 b.
+# 71. u..05 b.
 
-# 73. a. 100m
+# 73. a.00m
 
 x (m)
 
@@ -137426,9 +137426,9 @@ Answers to odd-numbered multiple-choice questions
 
 # Answers to odd-numbered problems
 
-# 7. 12m/s
+# 7.2m/s
 
-# 9. 87 mls
+# 9.7 mls
 
 dx = 71 Ill, dy = -71 In b.
 
@@ -137450,27 +137450,27 @@ v = 45 mIs, = 63° b.
 
 , 0 = 2SSC
 
-# 15. 5.0 km. 24° COUnlcrclockwisc from + x-axis
+# 15..0 km.4° COUnlcrclockwisc from + x-axis
 
-# 17. 530rn
+# 17.30rn
 
-# 19. 1.3 s
+# 19..3 s
 
 # 21. BallI: 5 m/s; Ba112: -15 m/s
 
-# 23. 2.0 km/h
+# 23..0 km/h
 
-# 25. a. 22° b. 400 III
+# 25. a.2° b.00 III
 
 # 27. a.
 
 20m
 
-# 29. 71 In ~ = (5, 0 mIs, horizontal) -
+# 29.1 In ~ = (5, 0 mIs, horizontal) -
 
 10m
 
-# 31. a. 64 illS b. 780 m/s
+# 31. a.4 illS b.80 m/s
 
 15 s b.
 
@@ -137484,9 +137484,9 @@ v = 45 mIs, = 63° b.
 
 # II illS
 
-# 37. a. 170 rev/s; 6.0 illS b. 63 m/s c. 6,700 g
+# 37. a.70 rev/s; 6.0 illS b.3 m/s c.,700 g
 
-# 39. a. 4.0 m/s2 b. 32 m/s2
+# 39. a..0 m/s2 b.2 m/s2
 
 27m Answers
 
@@ -137502,21 +137502,21 @@ B~2 !
 
 2,e ~ 1350
 
-# 47. a. 4.3 III b. 5.5 III
+# 47. a..3 III b..5 III
 
-# 49. 7.5 III
+# 49..5 III
 
-# 51. 46 min
+# 51.6 min
 
-# 53. a. 64m b. 7.1 s
+# 53. a.4m b..1 s
 
 # 55. No
 
-# 57. t1. 39 mi b. 20 mph
+# 57. t1.9 mi b.0 mph
 
-# 59. 4 J a south or wcst
+# 59. J a south or wcst
 
-# 61. a. 7°southorcast b.2h.29m in
+# 61. a.°southorcast b.2h.29m in
 
 # 63. t1. (1' ... )0 = 2.0 m/s (v .. )o = 4.0 m/s
 
@@ -137598,9 +137598,9 @@ Weight, nonnal force by ground.
 
 kinetic friction force by ground
 
-# 13. 1111 = 0.08 kg and IIIJ = 0.50 kg
+# 13.111 = 0.08 kg and IIIJ = 0.50 kg
 
-# 15. t1. 2.4 m/s2 b. 0.60 m/s2
+# 15. t1..4 m/s2 b..60 m/s2
 
 16 m/s~ b.
 
@@ -137610,13 +137610,13 @@ kinetic friction force by ground
 
 32 rn/s2
 
-# 19. 2.5 m/s2
+# 19..5 m/s2
 
-2 I. 0.25 kg
+2 I..25 kg
 
-# 23. 7.5 X 10' N
+# 23..5 X 10' N
 
-# 25. 0.02 m/s2
+# 25..02 m/s2
 
 # 29. Forcc idcntification
 
@@ -137660,7 +137660,7 @@ w -Fllel -a
 
 ......... -Fllel
 
-......... 0 Fthrust ,/ Fnel
+......... Fthrust ,/ Fnel
 
 /0
 
@@ -137738,9 +137738,9 @@ w 29.
 
 # 3. liON
 
-# 5. 270 N
+# 5.70 N
 
-# 7. 170kg
+# 7.70kg
 
 # 9. ax (m/s2)
 
@@ -137754,21 +137754,21 @@ ax = [.
 
 0 m/s2
 
-# 13. a. a.ON b. a.ON c. 250N
+# 13. a. a.ON b. a.ON c.50N
 
 9800 N, toward the rear
 
-# 17. ,. 539 N b. 89.1 N, 55.0 kg
+# 17. ,.39 N b.9.1 N, 55.0 kg
 
-# 19. ,. 780N b. 1600N
+# 19. ,.80N b.600N
 
-# 21. a. 780N b. [lOON
+# 21. a.80N b. [lOON
 
-# 23. u. 5.9N b. 5.1 N
+# 23. u..9N b..1 N
 
-# 25. 0.25
+# 25..25
 
-# 27. 140 rn
+# 27.40 rn
 
 # 29. u. y
 
@@ -137776,21 +137776,21 @@ ax = [.
 
 Fnet=O
 
-# 31. a. 68 N b.610N
+# 31. a.8 N b.610N
 
-# 33. 170 m/s
+# 33.70 m/s
 
 0N b.
 
-# 37. a. 20 N b. 21 N
+# 37. a.0 N b.1 N
 
-# 39. u. I.ON b. 50 N
+# 39. u. I.ON b.0 N
 
-# 41. ,. 530 N b. 5300 N
+# 41. ,.30 N b.300 N
 
 # 43. Fnc,( Is) = 8 N FnN( 4 s} = 0 N
 
-# 45. a. 490 N b. 740 N 7,
+# 45. a.90 N b.40 N 7,
 
 # Direction
 
@@ -137814,13 +137814,13 @@ FM(7s)=-12N
 
 Forehead no, cheek yes
 
-# 49. a. 230 N b. 0.20 m/s
+# 49. a.30 N b..20 m/s
 
-# 51. a. 3.96 N b. 2.32 N
+# 51. a..96 N b..32 N
 
-# 53. a. 1.3 m/s! b. 2.0 m/s2
+# 53. a..3 m/s! b..0 m/s2
 
-# 55. 60 rn
+# 55.0 rn
 
 8 m/s2 b.
 
@@ -137832,21 +137832,21 @@ Forehead no, cheek yes
 
 31 em
 
-# 59. a. 17 mls b. 230 III
+# 59. a.7 mls b.30 III
 
 # 61. Stay at rest
 
-# 63. 1.9 X 10' N
+# 63..9 X 10' N
 
 # 65. ~ = 17 N ~ = 27 N
 
-# 67. 27°
+# 67.7°
 
-# 69. ,. -Sg b. 3g
+# 69. ,. -Sg b.g
 
-# 71. 0.93 m/s2, down
+# 71..93 m/s2, down
 
-# 73. 3.7 em
+# 73..7 em
 
 # 81. A
 
@@ -137876,75 +137876,75 @@ Answers to odd-numbered multiple-choice questions
 
 0 = 411/3
 
-# 3. 1.7 X 10-3 rad/s
+# 3..7 X 10-3 rad/s
 
-# 5. a. 1.3 rad, 72° b. 4 X 10-5 rad/s
+# 5. a..3 rad, 72° b. X 10-5 rad/s
 
-# 7. 3.0 rad
+# 7..0 rad
 
-# 9. a. 25 rad b. -5 rad/s
+# 9. a.5 rad b. -5 rad/s
 
 9m/s
 
-# 13. a. 20 s b. 2.5 m/s
+# 13. a.0 s b..5 m/s
 
 # 15. v=5.7rn/s (1= IIOrn/s2
 
-# 17. 7j>~ =T4>Ti
+# 17.j>~ =T4>Ti
 
-# 19. 9400 N, toward center, static friction
+# 19.400 N, toward center, static friction
 
-# 21. a. 1700 m/s2 b. 240 N
+# 21. a.700 m/s2 b.40 N
 
-# 23. 12 m/s
+# 23.2 m/s
 
-# 25. 20 rn/s
+# 25.0 rn/s
 
-# 27. 1.6 m/s2
+# 27..6 m/s2
 
-# 29. 1/2
+# 29./2
 
-# 31. 6.00 X 10-4 Answers
+# 31..00 X 10-4 Answers
 
-# 33. a. 3.53 X [022 N b. 1.99 X 1021) N c. 0.564%
+# 33. a..53 X [022 N b..99 X 1021) N c..564%
 
 l600d
 
-# 37. 92 min, 7700 m/s
+# 37.2 min, 7700 m/s
 
-# 39. 4.2 h
+# 39..2 h
 
 # 43. North pole, by 2.5 N
 
-# 45. 5.5 m/s
+# 45..5 m/s
 
 # 47. a. Two; upward nonna[ force and inward
 
-# 49. a. 5.0 N b. 30 rpm
+# 49. a..0 N b.0 rpm
 
 4m/s
 
-# 53. 22 m/s
+# 53.2 m/s
 
-# 55. a. 1.7 m/s2, upward b. 0.24 N
+# 55. a..7 m/s2, upward b..24 N
 
 12 mN, upward d.
 
 8 mN, upward
 
-# 57. 54 N
+# 57.4 N
 
-# 59. 2.400 m
+# 59..400 m
 
-# 61. a. 3.0 X 1024 kg b. 0.89 m/s2
+# 61. a..0 X 1024 kg b..89 m/s2
 
-# 63. a. 3.77 rn/s2 b. 1.6 m/s
+# 63. a..77 rn/s2 b..6 m/s
 
 (12cm,Ocm)
 
-# 67. 6.5 x 1023 kg
+# 67..5 x 1023 kg
 
-# 69. 0.48 m/s
+# 69..48 m/s
 
 # 71. b. v = 19.8 m/s
 
@@ -137970,7 +137970,7 @@ Answers to odd-numbered multiple-cho ice questions
 
 II rn/s
 
-# 3. a. 160 rad/s2 b. 50 rev
+# 3. a.60 rad/s2 b.0 rev
 
 # 5.71 < 72=73<74
 
@@ -137978,55 +137978,55 @@ II rn/s
 
 # A-14 Answers
 
-# 9. 5.7 N
+# 9..7 N
 
 0363 N· rn b.
 
 # I04N'm
 
-# 13. 5.5 N'm
+# 13..5 N'm
 
-# 15. a. 1.1 m b. 1.2 m
+# 15. a..1 m b..2 m
 
-# 17. 12N'm
+# 17.2N'm
 
 # 19. -2.1 N'm
 
-# 21. a. 34 N . m b. 24 N . III
+# 21. a.4 N . m b.4 N . III
 
-# 23. a. 1.70m b.833N·111
+# 23. a..70m b.833N·111
 
-# 25. 7.2 X 10-7 kg' ml
+# 25..2 X 10-7 kg' ml
 
-# 27. 120kg'm'2
+# 27.20kg'm'2
 
-# 29. 1.8 kg
+# 29..8 kg
 
-# 31. t1. 6.9kg ·m~ b.O.75rad/s2
+# 31. t1..9kg ·m~ b.O.75rad/s2
 
-# 33. 1.6 kg· m'
+# 33..6 kg· m'
 
-# 35. 0.047 N· m
+# 35..047 N· m
 
-# 47. 55 rotations
+# 47.5 rotations
 
 # 49. -0.94 N· III
 
-# 51. 7.5 em
+# 51..5 em
 
 # 53. a. xq! = 6.0 em, y~£ = 8.2 em
 
 # 55. O.GI8kg·m2
 
-# 57. a. 1.4 kg· Ill! b. Increase
+# 57. a..4 kg· Ill! b. Increase
 
-# 59. 3.5 rad/s2
+# 59..5 rad/s2
 
 # 61. -0.28 N· III
 
 # 63. !.Is
 
-# 65. 9.9N
+# 65..9N
 
 # 67. B
 
@@ -138052,57 +138052,57 @@ Answers to odd-numbered multiple-choice questions
 
 # 3. IScm
 
-# 5. 140N
+# 5.40N
 
 # 7. No, there is a net torque
 
-# 9. 590N
+# 9.90N
 
-# 13. 8.90
+# 13..90
 
 # 15. IS.Oem
 
-# 17. 830 N/m
+# 17.30 N/m
 
-# 19. a. 13cm b. 8em
+# 19. a.3cm b.em
 
-# 21. 18cm
+# 21.8cm
 
-# 23. 1.5 m/s!
+# 23..5 m/s!
 
-# 25. a. 2.0mm b. 0.25 mm
+# 25. a..0mm b..25 mm
 
-# 27. 7900N
+# 27.900N
 
-# 29. a. 4000 N b. 4.0mm 31. [Scm
+# 29. a.000 N b..0mm 31. [Scm
 
-# 33. 0.0078%
+# 33..0078%
 
 # 35. FI = 750N Fl = [OOON
 
-# 37. 860N
+# 37.60N
 
-# 39. a. 2000 N b. 2200 N
+# 39. a.000 N b.200 N
 
-# 41. 350 N
+# 41.50 N
 
-# 43. 1.0 tTl
+# 43..0 tTl
 
-# 45. a. 49 N b. 1500 N/m c. 3.4 em
+# 45. a.9 N b.500 N/m c..4 em
 
-# 47. 17.4 N
+# 47.7.4 N
 
-# 49. a. I.Oem b. 4.5 N to Ihe left
+# 49. a. I.Oem b..5 N to Ihe left
 
-# 51. 3lcm
+# 51.lcm
 
-# 53. a. 8.2 mls to the right b. 30 N
+# 53. a..2 mls to the right b.0 N
 
-# 55. 8[ em
+# 55.[ em
 
-# 57. 2.5 x 10-5
+# 57..5 x 10-5
 
-# 59. a. 4.8 X [0-21112 b. 70000 kg c. 14%
+# 59. a..8 X [0-21112 b.0000 kg c.4%
 
 # 61. B
 
@@ -138132,79 +138132,79 @@ Answers to odd-numbered multiple-choice questions
 
 75 m/s
 
-# 3. 6.0 N
+# 3..0 N
 
-# 5. 80 N· s
+# 5.0 N· s
 
-# 7. a. 1.5 mls 0 the right
+# 7. a..5 mls 0 the right
 
 # 9. -liON
 
 19 kN
 
-# 13. 0.205 m/s
+# 13..205 m/s
 
-# 15. 0.31 m/s
+# 15..31 m/s
 
-# 17. 1.43 m/s
+# 17..43 m/s
 
-# 19. 0.048 m/s
+# 19..048 m/s
 
-# 21. 4.8 m/s
+# 21..8 m/s
 
-# 23. 2.3 m/s
+# 23..3 m/s
 
-# 25. 1.0 kg b. 300 kN b. 0.5 m/s to the right
+# 25..0 kg b.00 kN b..5 m/s to the right
 
-# 27. (-2 kg' m/s. 4 kg' m/s)
+# 27. (-2 kg' m/s. kg' m/s)
 
-# 29. 14 m/s. 45° north of east
+# 29.4 m/s.5° north of east
 
-# 31. 510kg'1112/s
+# 31.10kg'1112/s
 
-# 33. 0.025 kg' 1112/s
+# 33..025 kg' 1112/s
 
-# 35. 1.3 rcv/s
+# 35..3 rcv/s
 
-# 37. 0.2 s
+# 37..2 s
 
-# 39. 930 N
+# 39.30 N
 
 9m/s
 
-# 43. 13 N . s; left, 15° above the horizontal
+# 43.3 N . s; left, 15° above the horizontal
 
-# 45. 7.5x 10-ION's
+# 45..5x 10-ION's
 
-# 47. a. 6A m/s b. 360 N
+# 47. a.A m/s b.60 N
 
-# 49. 3.6 m/s
+# 49..6 m/s
 
-# 51. 1.1 m/s
+# 51..1 m/s
 
-# 53. 2.0 m/s
+# 53..0 m/s
 
-# 55. a. 6.7 X 10-8 m/s b. 2.2 x 10-10%
+# 55. a..7 X 10-8 m/s b..2 x 10-10%
 
-# 57. 13 s
+# 57.3 s
 
-# 59. 440 m/s
+# 59.40 m/s
 
 # 61. -20.0 m/s
 
-# 63. 196m/s
+# 63.96m/s
 
 # 65. Forward, 1.5 X 107 m/s
 
-# 67. 0.85 mls, -72°
+# 67..85 mls, -72°
 
-# 69. 4.5 rpm
+# 69..5 rpm
 
-# 71. a. 2.8 m/s b. 2.2 m/s. 25 cm
+# 71. a..8 m/s b..2 m/s.5 cm
 
 # 73. -0.90 md/s
 
-# 75. 18 revis, clockwise
+# 75.8 revis, clockwise
 
 # 79. C
 
@@ -138222,33 +138222,33 @@ Answers to odd-numbered multiple-choice questions
 
 # 3. r;" = 12.5 kJ, Wi, = -7.92 kJ, Wi, = -4.58 kJ
 
-# 5. a. OJ b. 2.6 kJ c. -2.6 kJ
+# 5. a. OJ b..6 kJ c. -2.6 kJ
 
 # 7. The bullct
 
-# 9. a. 14 m/s b. Factor of 4
+# 9. a.4 m/s b. Factor of 4
 
-# 13. 1.8 kg' m!
+# 13..8 kg' m!
 
-# 15. u. 6.8 X lOs J b. 46 m c. No
+# 15. u..8 X lOs J b.6 m c. No
 
-# 17. 63 kJ
+# 17.3 kJ
 
-# 19. 0.63 m
+# 19..63 m
 
-# 21. 9.7 J
+# 21..7 J
 
-# 23. 470J
+# 23.70J
 
-# 25. 1.0 X 102 N
+# 25..0 X 102 N
 
-# 27. a. 13 m/s b. 14 m/s
+# 27. a.3 m/s b.4 m/s
 
-# 29. 31 m/s
+# 29.1 m/s
 
 0m/s
 
-# 33. 17 m/s
+# 33.7 m/s
 
 The child's gravitational potential energy will be changing into
 
@@ -138256,49 +138256,49 @@ kinetic energy and thennal energy.
 
 550 J
 
-# 37. 0.86 Ill/s and 2.9 m/s
+# 37..86 Ill/s and 2.9 m/s
 
-# 39. 112
+# 39.12
 
-# 41. u. 1.8 X 102 J b.59W
+# 41. u..8 X 102 J b.59W
 
-# 43. 45 kW
+# 43.5 kW
 
-# 45. a. 30 N b. 45 W
+# 45. a.0 N b.5 W
 
-# 47. 2.0 X 104W
+# 47..0 X 104W
 
-# 49. u. 7.7 mls b. 6.6 mls
+# 49. u..7 mls b..6 mls
 
-# 51. 2.3 m/s
+# 51..3 m/s
 
-# 53. a. 0.20 kJ b. 98 N c. 2.0 m d. 0.20 kJ
+# 53. a..20 kJ b.8 N c..0 m d..20 kJ
 
-# 55. 15 m/s
+# 55.5 m/s
 
-# 57. 51 em
+# 57.1 em
 
-# 59. 3.8 m, not dependen t on mass
+# 59..8 m, not dependen t on mass
 
 J(m M)kd2 ,
 
-# 61. a. ~ b. 2.0 X 10-m/s
+# 61. a. ~ b..0 X 10-m/s
 
 m~
 
 8% kinetic energy transformed to thermal energy
 
-# 63. 1.6 Illls
+# 63..6 Illls
 
-# 65. 8.0 m/s
+# 65..0 m/s
 
 # 67. OA9 m
 
-# 69. a. O.048v, b. 95% Answers A-15
+# 69. a. O.048v, b.5% Answers A-15
 
-# 71. a. lOON b. 0.20 kW c. 1.2kW
+# 71. a. lOON b..20 kW c..2kW
 
-# 73. 5.5X 10~L
+# 73..5X 10~L
 
 # 75. B
 
@@ -138326,21 +138326,21 @@ Answers to odd-numbered multiple-choice questions
 
 7 MJ
 
-# 3. 3.3%
+# 3..3%
 
-# 5. 4.2 MJ
+# 5..2 MJ
 
-# 7. 230,000 J = 54,000 cal = 54 Cal
+# 7.30,000 J = 54,000 cal = 54 Cal
 
 # 9. IAkm
 
 710m or 260 nights
 
-# 13. a. 200 J b. 16.000 J/day c. 0.0094 donuts
+# 13. a.00 J b.6.000 J/day c..0094 donuts
 
-# 15. 313°C
+# 15.13°C
 
-# 17. 4.8°C
+# 17..8°C
 
 # 19. -700 J
 
@@ -138364,11 +138364,11 @@ Answers to odd-numbered multiple-choice questions
 
 # 35. <I. (b) only b. (a) only
 
-# 37. 13%
+# 37.3%
 
-# 39. 0.80 burritos
+# 39..80 burritos
 
-# 41. <I. 1.4MJ b. IAMJ c. Cycling
+# 41. <I..4MJ b. IAMJ c. Cycling
 
 190kJ b.
 
@@ -138380,29 +138380,29 @@ Answers to odd-numbered multiple-choice questions
 
 1200W
 
-# 45. 490W
+# 45.90W
 
-# 47. a. 300W b. 1.1 MJ=260Cal
+# 47. a.00W b..1 MJ=260Cal
 
-# 49. <I. 10000 Cal b.490W;390Wmore
+# 49. <I.0000 Cal b.490W;390Wmore
 
-# 51. <I. 2600 Cal b. 1.1 kg
+# 51. <I.600 Cal b..1 kg
 
-# 53. 7.2 X 1022 aloms
+# 53..2 X 1022 aloms
 
-# 55. a. 40% b. 220°C
+# 55. a.0% b.20°C
 
-# 57. 230 K
+# 57.30 K
 
-# 59. a. 60J b. -23°C
+# 59. a.0J b. -23°C
 
-# 61. 95.000
+# 61.5.000
 
-# 63. a. 47% b. 35%
+# 63. a.7% b.5%
 
-# 65. a. 880 N b. 4A kW c. 18%
+# 65. a.80 N b.A kW c.8%
 
-# 67. 8.0%
+# 67..0%
 
 # 69. C
 
@@ -138434,9 +138434,9 @@ Answers to odd-numbered multiple-choice questions
 
 # 21. D
 
-# 23. 0.22 m/s 10 the west
+# 23..22 m/s 10 the west
 
-# 25. a. 3.0 Ill/s b. 480 N c. 60J
+# 25. a..0 Ill/s b.80 N c.0J
 
 # Chapter 12
 
@@ -138456,101 +138456,101 @@ Answers to odd-numbered multiple-choice questions
 
 # Carbon
 
-# 3. 3.5 X 1024
+# 3..5 X 1024
 
-# 5. 0.024 m3 = 24 L
+# 5..024 m3 = 24 L
 
-# 7. 49.7 psi
+# 7.9.7 psi
 
-# 9. 1.1 N
+# 9..1 N
 
 -140°C b.
 
 7 X [0-21 J
 
-# 13. 1900 kPa
+# 13.900 kPa
 
-# 15. 17 L
+# 15.7 L
 
-# 17. u. 7f= T, b.p[=4I',
+# 17. u.f= T, b.p[=4I',
 
-# 19. a. 98 em)
+# 19. a.8 em)
 
-# 21. a. Isochoric b. 910 K. 300 K
+# 21. a. Isochoric b.10 K.00 K
 
-# 23. a. Isobaric h. 120ae c. 0.0094 mol
+# 23. a. Isobaric h.20ae c..0094 mol
 
-# 25. 16"e
+# 25.6"e
 
-# 27. 0.30 aIm
+# 27..30 aIm
 
-# 29. 4.7 III
+# 29..7 III
 
-# 31. 0.83%
+# 31..83%
 
-# 33. 6.9 kl
+# 33..9 kl
 
-# 35. 2300 W
+# 35.300 W
 
-# 37. 250 Cal/day, 12 W
+# 37.50 Cal/day, 12 W
 
-# 39. 260 kJ
+# 39.60 kJ
 
 218kg
 
 # 43. Iron
 
-# 45. 91 g
+# 45.1 g
 
-# 47. a. 31 J b.60°C
+# 47. a.1 J b.60°C
 
-# 49. 0.080 K
+# 49..080 K
 
-# 51. 41 1
+# 51.1 1
 
-# 53. 830 W
+# 53.30 W
 
-# 55. 24 W
+# 55.4 W
 
-# 57. 6.0 W
+# 57..0 W
 
-# 59. 4.7 cm2
+# 59..7 cm2
 
-# 61. a. 50 L b. 1.3 aim
+# 61. a.0 L b..3 aim
 
-# 63. a. 5.4 X 1023 b. 3.6 g
+# 63. a..4 X 1023 b..6 g
 
-# 65. a. 140 J b. 0.4 L
+# 65. a.40 J b..4 L
 
-# 67. 35 psi
+# 67.5 psi
 
-# 71. a. 0.73 atm b. 0.52 aim
+# 71. a..73 atm b..52 aim
 
-# 73. 601
+# 73.01
 
-# 75. a. 0.51 aim b. 160 K
+# 75. a..51 aim b.60 K
 
-# 77. 8.7 h
+# 77..7 h
 
-# 79. 561
+# 79.61
 
-# 81. 2.4 X 106 kg/min
+# 81..4 X 106 kg/min
 
-# 83. 60 K
+# 83.0 K
 
-# 85. 0.023 K, no
+# 85..023 K, no
 
-# 87. u. 83 J1kg· K b. 200 kl/kg
+# 87. u.3 J1kg· K b.00 kl/kg
 
-# 89. 970 g
+# 89.70 g
 
-# 91. 60g
+# 91.0g
 
-# 93. a. 3.1 aim b. 9.8 L
+# 93. a..1 aim b..8 L
 
-# 95. a. 150J b. -91 J 77 97. 0.026 W/m' K
+# 95. a.50J b. -91 J 77 97..026 W/m' K
 
-# 99. 2
+# 99.
 
 # 101. A
 
@@ -138576,17 +138576,17 @@ Answers to odd-numbered multiple-choice questions
 
 # 3. II kg/m.l
 
-# 5. a. 810 kg/m3 b. 840 kg/Ill]
+# 5. a.10 kg/m3 b.40 kg/Ill]
 
-# 7. 8.0%
+# 7..0%
 
-# 9. u. 6.3 m3 b. 1.2 X 105 Pa
+# 9. u..3 m3 b..2 X 105 Pa
 
 210N
 
-# 13. 3.2 km
+# 13..2 km
 
-# 15. a. 2.9x I04N b. 30 foothall players
+# 15. a..9x I04N b.0 foothall players
 
 17 a.
 
@@ -138594,47 +138594,47 @@ Answers to odd-numbered multiple-choice questions
 
 4400 Pa for both A-B and A-C
 
-# 19. 3.68 mm
+# 19..68 mm
 
-# 21. 89 mm
+# 21.9 mm
 
-# 23. 0.82 m
+# 23..82 m
 
-# 25. 1.9 N
+# 25..9 N
 
 ~O'{,t, 27.
 
 46 kg
 
-# 29. 1.0 m/s
+# 29..0 m/s
 
-# 31. 97 min
+# 31.7 min
 
-# 33. 110 kPa eel . 35. 3.0 m/s
+# 33.10 kPa eel .5..0 m/s
 
-# 37. 260Pa ~O 39. 2.17 em
+# 37.60Pa ~O 39..17 em
 
-# 41. 4.8 x 1023 aloms 'I) 43. 27 em
+# 41..8 x 1023 aloms 'I) 43.7 em
 
-# 45. a. 5800 N b. 6000N
+# 45. a.800 N b.000N
 
-# 47. 1.8 em
+# 47..8 em
 
-# 49. 750 kg/m3
+# 49.50 kg/m3
 
-# 51. 44N
+# 51.4N
 
-# 53. a. 0.38 N b. 20 m/s
+# 53. a..38 N b.0 m/s
 
-# 55. 2 X 10-3 m/s
+# 55. X 10-3 m/s
 
 # 57. a. J'a]n,,,, b.4.6m
 
-# 59. 4.4 em
+# 59..4 em
 
 # 61. -2ScC
 
-# 63. 13 mm Hg
+# 63.3 mm Hg
 
 # 65. B
 
@@ -138658,15 +138658,15 @@ Answers to odd-numbered multiple-choice questions
 
 # 17. A
 
-# 19. 300N
+# 19.00N
 
-# 21. a. 0.071 mol b. 6.7 X 10-4 mJ c. 0.019 mol
+# 21. a..071 mol b..7 X 10-4 mJ c..019 mol
 
 # Chapter 14
 
 Answers to odd-numbered multiple-choice questions
 
-# 23. a. 8 b. C c. B d. B e. B
+# 23. a. b. C c. B d. B e. B
 
 # 25. B
 
@@ -138676,13 +138676,13 @@ Answers to odd-numbered multiple-choice questions
 
 3 illS
 
-# 3. 0.80 s, 1.3 Hz
+# 3..80 s, 1.3 Hz
 
-# 5. 40N
+# 5.0N
 
-# 7. a. 13 ern b. 9.0 em
+# 7. a.3 ern b..0 em
 
-# 9. a. 20cI11 b. 0.25 Hz
+# 9. a.0cI11 b..25 Hz
 
 30 rn b.
 
@@ -138690,11 +138690,11 @@ Answers to odd-numbered multiple-choice questions
 
 17 m/s2
 
-# 13. a. 3.0 mtn b. 0.024 m/s
+# 13. a..0 mtn b..024 m/s
 
 # 15. a. U~ 1/4E K~ 3/4£ b. a.707A
 
-# 17. a. 2.83s b. lAls c.2.oos d.I.4ls
+# 17. a..83s b. lAls c.2.oos d.I.4ls
 
 0 em b.
 
@@ -138708,9 +138708,9 @@ Answers to odd-numbered multiple-choice questions
 
 15 cm/g
 
-# 21. a. 1.00s b.0.628111/s c.O.lOO J
+# 21. a..00s b.0.628111/s c.O.lOO J
 
-# 23. a. 4.00 s b. 5.66 s c. 2.83 s d. 4.00 s
+# 23. a..00 s b..66 s c..83 s d..00 s
 
 10 rad b.
 
@@ -138720,45 +138720,45 @@ Answers to odd-numbered multiple-choice questions
 
 084 rad
 
-# 27. 33.1 em
+# 27.3.1 em
 
-# 29. 1.6 s
+# 29..6 s
 
-# 31. n. 0.124 rad b. 2.00 s c. 1.49 m
+# 31. n..124 rad b..00 s c..49 m
 
-# 33. 1.3 s
+# 33..3 s
 
-# 35. 10.Os
+# 35.0.Os
 
-# 37. a. 6.2 s b. 3.4 em
+# 37. a..2 s b..4 em
 
-# 39. 2.8 s
+# 39..8 s
 
-# 41. 250N/m
+# 41.50N/m
 
-# 43. 1.1 m/s
+# 43..1 m/s
 
-# 45. a. 0.169 kg b. 0.565 m/s
+# 45. a..169 kg b..565 m/s
 
-# 47. 5.86 m/s2
+# 47..86 m/s2
 
-# 49. a. 0.25 Hz. 3.0 s b. 6.0 s, 1.5 s c. 2.25
+# 49. a..25 Hz..0 s b..0 s, 1.5 s c..25
 
-# 51. a. 6.40 em b. 28.3 cm/s
+# 51. a..40 em b.8.3 cm/s
 
-# 53. a. 47.000N/ m b. 1.8Hz
+# 53. a.7.000N/ m b..8Hz
 
-# 55. 11 em, 1.7s
+# 55.1 em, 1.7s
 
-# 57. 0.64 Hz
+# 57..64 Hz
 
-# 59. 8.1 N/01
+# 59..1 N/01
 
-# 61. a. 2.00709 s b. 2.00721 s c. 4.6 h
+# 61. a..00709 s b..00721 s c..6 h
 
 # 63. ,. f(Hz) T (s)
 
-# 75. 24.8 em rod
+# 75.4.8 em rod
 
 # 38.8 em rod
 
@@ -138796,9 +138796,9 @@ Answers to odd-numbered multiple-choice questions
 
 280 m/s
 
-# 3. 140 m/s
+# 3.40 m/s
 
-# 5. 6000 m/s 7. H islOry graph at x = 6 m
+# 5.000 m/s 7. H islOry graph at x = 6 m
 
 y (em)
 
@@ -138818,7 +138818,7 @@ Snapshot graph at f = 1.
 
 10 m/s
 
-# 13. a. 8.6 nun b. 15 ms
+# 13. a..6 nun b.5 ms
 
 IIHz b.
 
@@ -138830,47 +138830,47 @@ lm c.
 
 # 19. II s
 
-# 21. 14.8mm 5
+# 21.4.8mm 5
 
-# 23. a. 1700 Hz b. 1.5 GHz c. 990 nm
+# 23. a.700 Hz b..5 GHz c.90 nm
 
-# 25. u. IOGHz b. 170,us
+# 25. u. IOGHz b.70,us
 
-# 27. 55 pJ
+# 27.5 pJ
 
 600k J
 
 # 31. II W
 
-# 33. a. 6.7 X 104 W b. 8.5 X 1010 W/m2
+# 33. a..7 X 104 W b..5 X 1010 W/m2
 
-# 35. 25 pW/012, 14 dB
+# 35.5 pW/012, 14 dB
 
-# 37. a. 3.2 X 10-3 W/O12 b. 95 dB
+# 37. a..2 X 10-3 W/O12 b.5 dB
 
 # 39. lOOdB
 
-# 41. a. 650 Hz b. 560 Hz
+# 41. a.50 Hz b.60 Hz
 
-# 43. 16 m/s away
+# 43.6 m/s away
 
-# 45. 4.5 m/s
+# 45..5 m/s
 
-# 47. 86 m
+# 47.6 m
 
-# 49. 790 m
+# 49.90 m
 
-# 51. 50 cm/s, 13 In/S2
+# 51.0 cm/s, 13 In/S2
 
-# 53. 890 g
+# 53.90 g
 
 # 55. L) = 2.3 m. L2 = 1.7 m
 
-# 57. a. 3.0037 m b. II,us c. 1.1 X 10-2
+# 57. a..0037 m b. II,us c..1 X 10-2
 
 # 59. O.069"C
 
-# 61. a. 3s b.901/s 6
+# 61. a.s b.901/s 6
 
 x (111)
 
@@ -138882,21 +138882,21 @@ y(x, t) = (5.
 
 125s
 
-# 65. b. 33 tn/s to the right
+# 65. b.3 tn/s to the right
 
-# 67. 6.8 cmls
+# 67..8 cmls
 
 20,uW/m2 Answers
 
 l (s)
 
-# 71. a. 50MW b.5.0W c. 6.4 X 1017W/m" d 5.SX 10)4
+# 71. a.0MW b.5.0W c..4 X 1017W/m" d 5.SX 10)4
 
 # 73. a. II0dB b.16km
 
-# 75. a. 1.9W/m2 b. 123dB c. 71 m
+# 75. a..9W/m2 b.23dB c.1 m
 
-# 77. 620 Hz, 580 Hz
+# 77.20 Hz, 580 Hz
 
 # 79. II0m/s
 
@@ -138986,13 +138986,13 @@ y (em) t = 6 s
 
 o 2 3 4 5 6 7 8 9 10
 
-# 3. 4s
+# 3.s
 
-# 5. 5.0 s
+# 5..0 s
 
-# 7. 60 Hz
+# 7.0 Hz
 
-# 9. 53 rnls
+# 9.3 rnls
 
 80 In.
 
@@ -139002,11 +139002,11 @@ o 2 3 4 5 6 7 8 9 10
 
 0 Hz
 
-# 13. u. 700 Hz b.56N
+# 13. u.00 Hz b.56N
 
-# 15. 2180 N
+# 15.180 N
 
-# 17. a. 16 Hz b. 3.18 III
+# 17. a.6 Hz b..18 III
 
 42rn.
 
@@ -139024,7 +139024,7 @@ andO.
 
 968 m
 
-# 21. 510Hz
+# 21.10Hz
 
 67 Hz b.
 
@@ -139032,49 +139032,49 @@ andO.
 
 The frequency will decrease.
 
-# 25. 671lO Hz
+# 25.71lO Hz
 
-# 27. 580 Hz and 4900 Hz
+# 27.80 Hz and 4900 Hz
 
-# 29. a. 40 em b. 60 em
+# 29. a.0 em b.0 em
 
-# 33. 203 Hz
+# 33.03 Hz
 
-# 35. 880 m/s
+# 35.80 m/s
 
-# 37. 1.2 III
+# 37..2 III
 
-# 39. 65 Hz
+# 39.5 Hz
 
-# 41. 270N 43. 12 kg
+# 41.70N 43.2 kg
 
-# 45. 8.2 m/s2
+# 45..2 m/s2
 
-# 47. 19 kN
+# 47.9 kN
 
 # 49. IScm
 
-# 51. b. 10.5. 13.5, 16.5. and 19.5 GHz
+# 51. b.0.5.3.5, 16.5. and 19.5 GHz
 
-# 53. a. 0.530 III b. 2.83 x lOs Hz c.
+# 53. a..530 III b..83 x lOs Hz c.
 
-# 55. 1210 Hz
+# 55.210 Hz
 
 # 57. IScm
 
-# 59. 141lO Hz
+# 59.41lO Hz
 
-# 61. a. 3.00 III b. Strong c. Weak
+# 61. a..00 III b. Strong c. Weak
 
-# 63. 20
+# 63.0
 
 2 Hz b.
 
 6S8 Hz
 
-# 69. 1750Hz
+# 69.750Hz
 
-# 71. 0.40 m/s
+# 71..40 m/s
 
 # 73. B
 
@@ -139108,7 +139108,7 @@ nd> "l<l1n:1Ini
 
 # 19. c
 
-# 21. 51lO
+# 21.1lO
 
 # Chapter 17
 
@@ -139126,11 +139126,11 @@ S X 20-11 S b.
 
 4 mm
 
-# 3. 0.40 os
+# 3..40 os
 
 670 ns
 
-# 7. 0.020 rad, I 10
+# 7..020 rad, I 10
 
 # 9. O.OSO rad
 
@@ -139142,31 +139142,31 @@ IS, 3.
 
 r, 6.
 
-# 17. 2211incsJmm
+# 17.211incsJmm
 
-# 19. a. 1.3m b.7
+# 19. a..3m b.7
 
-# 21. 2160m
+# 21.160m
 
-# 23. 8S.9 nm
+# 23.S.9 nm
 
 121 nm
 
-# 27. 97.8 nm
+# 27.7.8 nm
 
-# 29. 94 J.l.m
+# 29.4 J.l.m
 
-# 31. 610nm
+# 31.10nm
 
-# 33. 4.9 mill
+# 33..9 mill
 
 78 em
 
-# 37. 6.4 em
+# 37..4 em
 
 # 39. SOO nm
 
-# 41. 4S0nm
+# 41.S0nm
 
 # 43. Gmting Screen Y
 
@@ -139190,29 +139190,29 @@ Yl = 0.
 
 # 45. I,
 
-# 47. 43.2"
+# 47.3.2"
 
-# 49. 43 em <0, 51. 500 nm
+# 49.3 em <0, 51.00 nm
 
-# 53. 25 em
+# 53.5 em
 
 # 55. I.S ,um
 
-# 57. 500 11m ',0 59. 667.8 nm
+# 57.00 11m ',0 59.67.8 nm
 
-# 61. 410 nm, 690 nm, purple
+# 61.10 nm, 690 nm, purple
 
-# 61. 2.8"
+# 61..8"
 
-# 65. 7.6111
+# 65..6111
 
 # 67. O.IOmm
 
-# 69. a. Double b. 0.15mm
+# 69. a. Double b..15mm
 
-# 71. 0.1 mm
+# 71..1 mm
 
-# 73. a. Diffmction b. 0.044" e. 4.6 mm d. 1.5m
+# 73. a. Diffmction b..044" e..6 mm d..5m
 
 # 75. D
 
@@ -139242,19 +139242,19 @@ Answers to odd-numbered multiple-choice questions
 
 # 5. BandC
 
-# 7. 433 em
+# 7.33 em
 
-# 9. a. 3 b. 8=(4m, I m),C=(2m.5m), D=(4m,5m)
+# 9. a. b.=(4m, I m),C=(2m.5m), D=(4m,5m)
 
 o , , , , o 0
 
 , , , , , , , , , , II.
 
-# 13. 4.0 m
+# 13..0 m
 
-# 15. 76.7"
+# 15.6.7"
 
-# 17. 23 em
+# 17.3 em
 
 # 19. s' = 15 em, inverted and real
 
@@ -139276,27 +139276,27 @@ o , , , , o 0
 
 # 37. s' = -38 em, II' = 7.5 em
 
-# 39. 1.0 m
+# 39..0 m
 
-# 43. 60" Answers
+# 43.0" Answers
 
 Theangleofthebcam is32.
 
 lo from the nonnal.
 
-# 47. 82.8"
+# 47.2.8"
 
-# 51. 35"
+# 51.5"
 
-# 53. a. (3 = sin-{l1sin~) b. 1.58
+# 53. a. (3 = sin-{l1sin~) b..58
 
-# 55. 42°
+# 55.2°
 
-# 57. 5.7 m
+# 57..7 m
 
-# 59. 1.52
+# 59..52
 
-# 63. 2{
+# 63.{
 
 # 65. s' = 20 em, h' = 1.0 em
 
@@ -139306,7 +139306,7 @@ lo from the nonnal.
 
 # 71. f=44cm.67em
 
-# 73. a. 5.9 em b. 6.0 em
+# 73. a..9 em b..0 em
 
 # 75. A
 
@@ -139330,21 +139330,21 @@ S mm b.
 
 The object must be getting closer.
 
-# 3. 0.30 m
+# 3..30 m
 
-# 5. 1/30 s
+# 5./30 s
 
-# 7. 22 nun, 2.8 nun
+# 7.2 nun, 2.8 nun
 
-# 9. 2.0 D
+# 9..0 D
 
-# 13. a. Farsighted b. 00
+# 13. a. Farsighted b.0
 
-# 15. 2.1 m
+# 15..1 m
 
-# 17. 5,0 el11
+# 17.,0 el11
 
-# 19. a. 1.20em b. 1.67cm
+# 19. a..20em b..67cm
 
 # 21. II mm
 
@@ -139358,25 +139358,25 @@ h' = 1.
 
 tation as the object
 
-# 27. a. 0.058 D b. 17 mm
+# 27. a..058 D b.7 mm
 
-# 29. a. 14" b. 6.4 mm
+# 29. a.4" b..4 mm
 
-# 31. 0.28 mm, violet
+# 31..28 mm, violet
 
-# 33. 55 km
+# 33.5 km
 
-# 35. 2.7 mm
+# 35..7 mm
 
-# 39. 0.70 cm
+# 39..70 cm
 
 # 41. b. s"=-20em.h"=2.0em
 
 # A-20 Answers
 
-# 43. 5.0 mm
+# 43..0 mm
 
-# 45. 250
+# 45.50
 
 # 47. -4
 
@@ -139392,11 +139392,11 @@ M = -1.
 
 56 In
 
-# 51. 24cm
+# 51.4cm
 
-# 53. 2.8 x 10-7 rad
+# 53..8 x 10-7 rad
 
-# 55. 15 krn
+# 55.5 krn
 
 # 57. No
 
@@ -139420,7 +139420,7 @@ Part V Problems •
 
 # 15. Aberration s afC reduced.
 
-# 17. 7.2mnl, 0.069 W/m2
+# 17..2mnl, 0.069 W/m2
 
 # Chapter 20 77
 
@@ -139436,27 +139436,27 @@ Answers to odd-numbered multiple-choice questions
 
 # Answers to odd-numbered problems
 
-# 1. a. Electrons arc removed. b. 3.1 X 1010
+# 1. a. Electrons arc removed. b..1 X 1010
 
-# 3. 1.5 X I06C
+# 3..5 X I06C
 
-# 5. a. Electrons from sphere to rod b. 2.5 x rolO
+# 5. a. Electrons from sphere to rod b..5 x rolO
 
 # 7. Ahas-l60nC;BhasOC
 
-# 9. a. 9.0 mN b. 9.0 mm/s2
+# 9. a..0 mN b..0 mm/s2
 
 6 ern
 
 # 13. -IOnC
 
-# 15. 8.0 nC
+# 15..0 nC
 
 7 X 1014 m/s2, away from bead h.
 
 2 X 1017 m/52, toward bead
 
-# 19. 1.4 X IDs N/C, away from bead
+# 19..4 X IDs N/C, away from bead
 
 4 X 10-3 N/C.
 
@@ -139494,29 +139494,29 @@ B 25.
 
 6 X 10-11 N/C, downward
 
-# 29. a. 2 b. 1/4 C. 1
+# 29. a. b./4 C.
 
-# 31. 1.gem
+# 31..gem
 
-# 35. 7.2 X 10-15 N
+# 35..2 X 10-15 N
 
-# 37. a. 0 b. 5.6X IO-27N'm
+# 37. a. b..6X IO-27N'm
 
-# 39. 1.4 X 105 C
+# 39..4 X 105 C
 
-# 41. a. 500 N b. 3.0 X 1029 m/s2
+# 41. a.00 N b..0 X 1029 m/s2
 
-# 43. a. 0.45 N b. qA = 1.0 X 1O-6C
+# 43. a..45 N b. qA = 1.0 X 1O-6C
 
-# 45. 4(X)Q N/C, 9.30 above the horizontal
+# 45.(X)Q N/C, 9.30 above the horizontal
 
-# 47. 3.1 X 10-4 N, upward
+# 47..1 X 10-4 N, upward
 
-# 49. 0
+# 49.
 
-# 51. 1.1 X 10-5N. upward
+# 51..1 X 10-5N. upward
 
-# 53. 0.68 nC
+# 53..68 nC
 
 V2 KQq 55.
 
@@ -139524,21 +139524,21 @@ V2 KQq 55.
 
 L'
 
-# 57. 6.6 X 1015 rev/s
+# 57..6 X 1015 rev/s
 
 # 59. (-6.0 cm, 3.0 em)
 
-# 61. 5.9 X 105 N/C
+# 61..9 X 105 N/C
 
-# 63. 33 nC
+# 63.3 nC
 
-# 65. 180 nC
+# 65.80 nC
 
-# 67. 150nC
+# 67.50nC
 
-# 69. 1.3 em
+# 69..3 em
 
-# 71. b. 22 nC
+# 71. b.2 nC
 
 # 73. D
 
@@ -139564,13 +139564,13 @@ Answers to odd-numb ered multiple-choice questions
 
 0 JLC
 
-# 3. 530 Y
+# 3.30 Y
 
-# 5. a. 3000 Y b. 25 nC
+# 5. a.000 Y b.5 nC
 
-# 7. a. 1000cV b. 1.6 x 1O-16J e.438kmls
+# 7. a.000cV b..6 x 1O-16J e.438kmls
 
-# 9. a. Lower b. -0.712 Y c. 0.712eY
+# 9. a. Lower b. -0.712 Y c..712eY
 
 400Y
 
@@ -139582,27 +139582,27 @@ Vc=200Y b.
 
 Vc=4ODY
 
-# 15. a. 23 em, II em, 7.5 em, 5.6 em
+# 15. a.3 em, II em, 7.5 em, 5.6 em
 
 # 17. -5.8 kV
 
-# 19. a. 1.5 V b. 8.3 pC
+# 19. a..5 V b..3 pC
 
 # 21. -352 Y,
 
-# 23. 10 kY/rn, left
+# 23.0 kY/rn, left
 
 # 25. a. Positive b. Negative c. Positive
 
-# 27. a. 7.lpF b.710pC
+# 27. a..lpF b.710pC
 
-# 29. 4.8 em
+# 29..8 em
 
-# 31. 24 Y
+# 31.4 Y
 
-# 33. 151'C
+# 33.51'C
 
-# 35. 13 nF
+# 35.3 nF
 
 # 37. a. Q=5.0X 10-IOC,D.Vc=9.0V,£=9.0X 104Y/rn
 
@@ -139618,13 +139618,13 @@ Vc = 9.
 
 # 39. lAkY
 
-# 41. 1/2
+# 41./2
 
-# 43. 1.2 kV/m
+# 43..2 kV/m
 
-# 45. 321'J
+# 45.21'J
 
-# 47. a. 1.0 X 10-6 J b. -20 V
+# 47. a..0 X 10-6 J b. -20 V
 
 # 49. -2.2 X 10-19 J
 
@@ -139632,17 +139632,17 @@ Vc = 9.
 
 # 53. :t 12 em
 
-# 55. a. 103 V b. 5.39 X 104 N/C, along the +x-axis
+# 55. a.03 V b..39 X 104 N/C, along the +x-axis
 
-# 57. a. 27 V b. -4.3 X 10-1~ J
+# 57. a.7 V b. -4.3 X 10-1~ J
 
-# 59. a. 3100V b. 5.0X 1O-16J
+# 59. a.100V b..0X 1O-16J
 
-# 61. 10 kV/m
+# 61.0 kV/m
 
-# 63. 0.070cV, increase
+# 63..070cV, increase
 
-# 65. 140 km/s
+# 65.40 km/s
 
 # 67.71 km/s
 
@@ -139650,7 +139650,7 @@ Vc = 9.
 
 7 ' 10nC
 
-# 73. 4.0 X 107 m/s
+# 73..0 X 107 m/s
 
 1 nC, 3.
 
@@ -139666,13 +139666,13 @@ Smaller c.
 
 550 VIm, to the right
 
-# 79. t1. 0.80 mm b. 1.6mm
+# 79. t1..80 mm b..6mm
 
-# 81. 22 "F
+# 81.2 "F
 
-# 83. b. 1.7 X 106 m/s
+# 83. b..7 X 106 m/s
 
-# 85. b. 0.022 mrn
+# 85. b..022 mrn
 
 # 87. A
 
@@ -139692,39 +139692,39 @@ Answers to odd-numbered multiple-choice questions
 
 # Answers to odd-numbered problems
 
-. 3000 C, 1.9 x 1022
+.000 C, 1.9 x 1022
 
-# 3. 1.9 X 1020 electrons
+# 3..9 X 1020 electrons
 
-# 5. 9.4 X lOLl electrons
+# 5..4 X lOLl electrons
 
-# 7. 13A
+# 7.3A
 
-# 9. 120C
+# 9.20C
 
 # 11. IB = 5 A. Ie = -2 A
 
-# 13. 9.4 X 101~ ions
+# 13..4 X 101~ ions
 
-# 15. 12V
+# 15.2V
 
-# 17. 32
+# 17.2
 
-# 19. t1.6.0V,6.0A b. 6.0 V, 3.0 A c.6.0V,2.0A
+# 19. t1.6.0V,6.0A b..0 V, 3.0 A c.6.0V,2.0A
 
-# 21. 0.040 fl
+# 21..040 fl
 
-# 23. a. 0.087 n b. 0.0097 n
+# 23. a..087 n b..0097 n
 
-# 25. 4100fl
+# 25.100fl
 
-# 27. 13mV
+# 27.3mV
 
-# 29. t1. 50 m b. 1.0 A
+# 29. t1.0 m b..0 A
 
-# 31. 50 fl
+# 31.0 fl
 
-# 33. 3.0mV
+# 33..0mV
 
 # 35. a.
 
@@ -139760,35 +139760,35 @@ Connecting wire _______ ---.
 
 # 37. Yes; lhe hair dryer will draw 14A.
 
-# 39. a. 0.38 A b. 320 fl
+# 39. a..38 A b.20 fl
 
-# 41. 15 kJ
+# 41.5 kJ
 
-# 43. 23 mA
+# 43.3 mA
 
-# 45. 28 min
+# 45.8 min
 
-# 47. 20%
+# 47.0%
 
-# 49. 42 Gfl
+# 49.2 Gfl
 
-# 51. 33 h
+# 51.3 h
 
-# 53. 1.4 n . rn
+# 53..4 n . rn
 
-# 55. 1.9 V
+# 55..9 V
 
-# 57. a. 3,1 X 1014 b. 9.1 X 105N/C c.0.23W
+# 57. a.,1 X 1014 b..1 X 105N/C c.0.23W
 
-# 59. 0.62 mill
+# 59..62 mill
 
-6 . 28cm
+6 .8cm
 
-# 63. 8.4 X 10-8 n
+# 63..4 X 10-8 n
 
-# 65. a. 14C b. 27 J
+# 65. a.4C b.7 J
 
-# 67. <I, 0.24 rnA, no b. 120 rnA. yes
+# 67. <I, 0.24 rnA, no b.20 rnA. yes
 
 # 69. D
 
@@ -139850,7 +139850,7 @@ V:>3=- 3.
 
 V 34=OV
 
-# 7. t1. 0.17 A.left
+# 7. t1..17 A.left
 
 0 n b.
 
@@ -139868,7 +139868,7 @@ bination in series with the 3.
 
 0 n resistor
 
-# 17. 24 fl 12n
+# 17.4 fl 12n
 
 300fl b.
 
@@ -139932,19 +139932,19 @@ R, 0.
 
 6 rnA, 6.
 
-# 33. 3.0 "F
+# 33..0 "F
 
 # 35. [50 f..tF in series
 
-# 37. 8.9 JLF
+# 37..9 JLF
 
-# 39. a. 0.57 f..tF b. 6.9 f..tC
+# 39. a..57 f..tF b..9 f..tC
 
-# 43. 6.9 ms
+# 43..9 ms
 
-# 45. 7.8 MY/m, 4.4 MY/m
+# 45..8 MY/m, 4.4 MY/m
 
-# 47. 0.73 pF
+# 47..73 pF
 
 60 m/s b.
 
@@ -139952,9 +139952,9 @@ It neglects the time between th e stimulus and the peak of
 
 the action pOlential.
 
-5 1. 1.3 W, 1.7 W
+5 1..3 W, 1.7 W
 
-# 53. 93 W
+# 53.3 W
 
 25 0 = 0.
 
@@ -139974,9 +139974,9 @@ U(1=0.
 
 36 W
 
-# 57. 1.2 A
+# 57..2 A
 
-# 59. 500 fl 12fl
+# 59.00 fl 12fl
 
 t2 fl
 
@@ -139990,23 +139990,23 @@ one would be 3.
 
 0 V.
 
-# 65. a. 0.505 fl b. 0.500 fl
+# 65. a..505 fl b..500 fl
 
 # 69. Q,~Q,~QJ~750"C ~~~50V ~V,~25V
 
 ~,=25V
 
-# 71. 870n
+# 71.70n
 
-# 73. 18"F
+# 73.8"F
 
-# 75. a. 80 J.LC
+# 75. a.0 J.LC
 
 23 ms
 
-# 77. 6100
+# 77.100
 
-# 79. a. 4.8 pC b. 3.0 X 107
+# 79. a..8 pC b..0 X 107
 
 # 81. C
 
@@ -140042,7 +140042,7 @@ l",a~"N = 500
 
 000 A.
 
-# 3. a. 20A b. 1.6mm
+# 3. a.0A b..6mm
 
 81 = (6.
 
@@ -140060,17 +140060,17 @@ The fields from adjacent wires nearly cancel because
 
 the contributi ons will be in opposite directions.
 
-# 9. 750A
+# 9.50A
 
 6 kA
 
-# 13. 3.8 x 10-7 A
+# 13..8 x 10-7 A
 
-# 15. 4.1 X 10-4 T
+# 15..1 X 10-4 T
 
-# 17. 8.6"A
+# 17..6"A
 
-# 19. 13T
+# 19.3T
 
 0 X 1O-13N, -z-direction) b.
 
@@ -140106,11 +140106,11 @@ Fon3 = (2.
 
 # 33. (56 N, into p<lgc)
 
-# 35. a. 3.3 A b. 2.0 N c. 170 m/s2
+# 35. a..3 A b..0 N c.70 m/s2
 
-# 37. 7.5x IO-.lN·m
+# 37..5x IO-.lN·m
 
-# 39. 1.1 X 1010 A
+# 39..1 X 1010 A
 
 036mm
 
@@ -140120,21 +140120,21 @@ Immediately twists left, then
 
 deflection decreases as capacitor discharges.
 
-# 45. 3.0 fl
+# 45..0 fl
 
 # 47. (2.0m T~intopage)
 
-# 49. <I. 1400A b. 170N, right c.64m1s
+# 49. <I.400A b.70N, right c.64m1s
 
-# 51. <I. 6.0 X 10-21 N b. 38 mN/C c. 110.u V
+# 51. <I..0 X 10-21 N b.8 mN/C c.10.u V
 
-# 53. 0.20 A, axis of coil north-south
+# 53..20 A, axis of coil north-south
 
 Rapid switching doesn't allow the moments to align.
 
 # 57. loOT
 
-# 59. 8.6mT
+# 59..6mT
 
 7 ((~ ) 7,0
 
@@ -140180,9 +140180,9 @@ Answers to odd-numbered multiple-choice questions
 
 10 T, out of the page
 
-# 3. a. 4.0 m/s b. 2.2 T
+# 3. a..0 m/s b..2 T
 
-# 5. 9500 m/s
+# 5.500 m/s
 
 # 7. For 0 = 00
 
@@ -140194,7 +140194,7 @@ Answers to odd-numbered multiple-choice questions
 
 0X 10-1 Wb; forO= 90°,OWb
 
-# 9. a. 6.3 X 10-5 Wb b. 6.3 X 10-5 Wb
+# 9. a..3 X 10-5 Wb b..3 X 10-5 Wb
 
 7 X 10-4 Wb b.
 
@@ -140202,7 +140202,7 @@ Answers to odd-numbered multiple-choice questions
 
 # 13. IE,d > IE,I > IE"I > 1£,1 > IEcl·
 
-# 15. 3.1 V
+# 15..1 V
 
 # 17. O.44A
 
@@ -140212,21 +140212,21 @@ Answers to odd-numbered multiple-choice questions
 
 # 23. Eu = 9.6 X 105 VIm and 80 = 3.2 X 10-3 T
 
-# 25. u. 10.0 nm b. 3.00 X 1016 Hz c. 6.67 X 10-8 T
+# 25. u.0.0 nm b..00 X 1016 Hz c..67 X 10-8 T
 
-# 27. u. 2.2 X lO" Vim b. Eo/£ = 0.43
+# 27. u..2 X lO" Vim b. Eo/£ = 0.43
 
-# 29. a. 0.25 m b. 2500 m
+# 29. a..25 m b.500 m
 
-# 31. 60°
+# 31.0°
 
-# 33. 67%
+# 33.7%
 
-# 35. 1200eV 37. a. 250 keV b. 1.0 X [06 bonds
+# 35.200eV 37. a.50 keV b..0 X [06 bonds
 
-# 39. 1.2 X lOS J
+# 39..2 X lOS J
 
-# 41. 4.68 X 1021 photon/s
+# 41..68 X 1021 photon/s
 
 2Ioo°C
 
@@ -140236,15 +140236,15 @@ microlOmogrn [>h)' = 20 pm
 
 # 47. <Il = Ba/)
 
-# 49. 1.2 V
+# 49..2 V
 
-# 53. 42 mV
+# 53.2 mV
 
-# 55. 31mA
+# 55.1mA
 
-# 57. 8.7 Tis
+# 57..7 Tis
 
-# 59. a. 0.20A b. 4.0 X 10-3 N c. 11°C Answers A-23
+# 59. a..20A b..0 X 10-3 N c.1°C Answers A-23
 
 3x 1O-4N b.
 
@@ -140256,17 +140256,17 @@ microlOmogrn [>h)' = 20 pm
 
 # 63. E=550V/mandB = 1.8X [O--4T
 
-# 65. a. 8.3 X [0-26 W/m2 b. 7.9 X 10-12 Vim
+# 65. a..3 X [0-26 W/m2 b..9 X 10-12 Vim
 
 # 67. V2
 
-# 69. 10/8
+# 69.0/8
 
 # 71. J= 4.8 X Hy7 Hz and A = 6.2 X 1O-2u m
 
-# 73. a. 3.4 X [O-I~ J b. 1.8 X 1013 photons
+# 73. a..4 X [O-I~ J b..8 X 1013 photons
 
-# 75. 4.5 X 10-2 em
+# 75..5 X 10-2 em
 
 # 77. C
 
@@ -140286,25 +140286,25 @@ Answers to odd-numbered multiple-choice questions
 
 # 1. a. SOmA b. SOmA
 
-# 3. 22.4 V
+# 3.2.4 V
 
-# 5. a. 9.0 n b. 19A c. 3200W
+# 5. a..0 n b.9A c.200W
 
-# 7. 530A
+# 7.30A
 
-# 9. 0.50 A
+# 9..50 A
 
-# 11. 17mA
+# 11.7mA
 
-# 13. a. 47 tums b. 32 rnA
+# 13. a.7 tums b.2 rnA
 
-# 15. a. 12A b. 10 fl
+# 15. a.2A b.0 fl
 
 # 17. Yes
 
 # 19. $0.15
 
-# 21. 0.18 mAo no, no
+# 21..18 mAo no, no
 
 1000 V AC
 
@@ -140314,43 +140314,43 @@ Answers to odd-numbered multiple-choice questions
 
 500000 V DC
 
-# 25. 0.28 mV
+# 25..28 mV
 
-# 27. a. 1.9 mA b. 1.9 A
+# 27. a..9 mA b..9 A
 
-# 29. a. 20.0 mA b. 20.0 mA c. [0.0 mA
+# 29. a.0.0 mA b.0.0 mA c. [0.0 mA
 
-# 31. 81 nF
+# 31.1 nF
 
-# 33. 100 V
+# 33.00 V
 
-# 35. a. 5.00 mA b. 20.0 mA c. 40.0 mA
+# 35. a..00 mA b.0.0 mA c.0.0 mA
 
 # 37. l.4mH
 
-# 39. 7.8 min
+# 39..8 min
 
-# 41. 250 kHz 10 360 kHz
+# 41.50 kHz 10 360 kHz
 
-# 43. 0.13 pF
+# 43..13 pF
 
-# 45. 114
+# 45.14
 
-# 47. 10 mH
+# 47.0 mH
 
-# 49. a. 200 kHz b. 200 kHz
+# 49. a.00 kHz b.00 kHz
 
-# 51. 320mA
+# 51.20mA
 
-# 53. 5.8 mm
+# 53..8 mm
 
-# 55. a. -7.5 V b. 83 n c. I.4A
+# 55. a. -7.5 V b.3 n c. I.4A
 
-# 57. 0.63 ms
+# 57..63 ms
 
-# 59. a. 500 Hz b. l.OA
+# 59. a.00 Hz b. l.OA
 
-# 61. a. 35 mH b. 4.6A
+# 61. a.5 mH b..6A
 
 # 63. A
 
@@ -140376,7 +140376,7 @@ C 'Yr.
 
 t@ 19.
 
-# 21. 20 A, clockwise
+# 21.0 A, clockwise
 
 # Chapter 27
 
@@ -140392,13 +140392,13 @@ Answers to odd-numbered multiple-choice questions
 
 # 1. v""und = 345 mIs, v,pnnt.r = 15 m/s
 
-# 3. a. 15 mls b. 5 mls
+# 3. a.5 mls b. mls
 
-# 5. 30 s
+# 5.0 s
 
-# 7. 3.00 x [as m/s
+# 7..00 x [as m/s
 
-# 9. 3.00 X 108 m/s
+# 9..00 X 108 m/s
 
 'I = 1.
 
@@ -140410,13 +140410,13 @@ Answers to odd-numbered multiple-choice questions
 
 # 15. Barn 1.0 IlS before tree.
 
-# 17. 350 JLS
+# 17.50 JLS
 
-# 19. a. 5.0 yr b. 2.2 yr c. 9.5 yr
+# 19. a..0 yr b..2 yr c..5 yr
 
 # 21. D.SOc
 
-# 23. 1.5 km
+# 23..5 km
 
 (I -5 X 10-11)(, = D.
 
@@ -140426,27 +140426,27 @@ Answers to odd-numbered multiple-choice questions
 
 # 27. O.357c
 
-# 29. 0.36c
+# 29..36c
 
-# 31. 0.80c
+# 31..80c
 
 v'2 33.
 
 -c 2
 
-# 35. a. 1.8 X 1016 J b. 9.0 X 109
+# 35. a..8 X 1016 J b..0 X 109
 
 2v'2 37.
 
 -3-c
 
-# 39. 0.6Oc
+# 39..6Oc
 
-# 41. a. 90 III b. O.44c
+# 41. a.0 III b. O.44c
 
-# 43. a. 23,us b. 6.2 km
+# 43. a.3,us b..2 km
 
-# 45. 670 ps
+# 45.70 ps
 
 # 47. a. Less b. [4 ns
 
@@ -140454,27 +140454,27 @@ In the muon's frame, the atmosphere is only 1.
 
 5 km thick.
 
-# 51. 14005
+# 51.4005
 
-# 53. a. 0.99973c b. 7.6 X 1012 J c. 760 times
+# 53. a..99973c b..6 X 1012 J c.60 times
 
 # 55. D.71e
 
-# 57. 9.00 nm/s
+# 57..00 nm/s
 
-# 59. a. 0.52c b. I h, 40 min
+# 59. a..52c b. I h, 40 min
 
-# 61. a. v = (1 -4.9 X 1O-24)c b. 46 nrn
+# 61. a. v = (1 -4.9 X 1O-24)c b.6 nrn
 
-# 63. 0.31c
+# 63..31c
 
-# 65. 6.3 X 10-19 kg . mls
+# 65..3 X 10-19 kg . mls
 
-# 67. a. 6660 MeV b. 3.63 MeV
+# 67. a.660 MeV b..63 MeV
 
-# 69. 0.786c
+# 69..786c
 
-# 71. <I. 5.12 X 10-3 MeV b. 9.39 MeV
+# 71. <I..12 X 10-3 MeV b..39 MeV
 
 3 X 1017 kg b.
 
@@ -140482,7 +140482,7 @@ In the muon's frame, the atmosphere is only 1.
 
 5 X 1013 yr
 
-# 75. u. 3.6 X 10-12 J b. 0.6% 77. D
+# 75. u..6 X 10-12 J b..6% 77. D
 
 # 79. D
 
@@ -140502,21 +140502,21 @@ Answers to odd-numbered multiple-choice questions
 
 # Answers to odd-numbered problems
 
-# 1. 42"
+# 1.2"
 
-# 3. 69.30
+# 3.9.30
 
-# 5. 4
+# 5.
 
-# 7. 3.20 eV
+# 7..20 eV
 
-# 9. 1.8 eV
+# 9..8 eV
 
-# 11. u. 290 nm b. 3.7 X 105 m/s
+# 11. u.90 nm b..7 X 105 m/s
 
-# 13. u. 6.63 X lOS m/s b. 2.30eV
+# 13. u..63 X lOS m/s b..30eV
 
-# 15. 8.0 X 10-16 J
+# 15..0 X 10-16 J
 
 For A = 437 nm, E = 2.
 
@@ -140528,23 +140528,23 @@ A = 564 nm, E = 2.
 
 20 cV
 
-# 19. 0.57
+# 19..57
 
-# 21. 8.7 X 1031
+# 21..7 X 1031
 
-# 23. a. 2.3 eV b. 3 X 101M
+# 23. a..3 eV b. X 101M
 
-# 25. 9.5 X 10-7 W
+# 25..5 X 10-7 W
 
-# 27. a. 1.1 X 10-3~m b.I.7X)0-23m/s
+# 27. a..1 X 10-3~m b.I.7X)0-23m/s
 
-# 29. 1.5 cV
+# 29..5 cV
 
-# 31. 8.2 MeV
+# 31..2 MeV
 
-# 33. 6.0 X 10-6 V
+# 33..0 X 10-6 V
 
-# 35. 0.43 nm
+# 35..43 nm
 
 EI = 1.
 
@@ -140560,37 +140560,37 @@ A = 500 nm for the /I = 3 to /I = 2 transition
 
 A = 310 nm for the /I = 3 to /I = I transition
 
-# 41. 4
+# 41.
 
-# 43. 5.8,um
+# 43..8,um
 
 No, somcwherc in thc intcrval -6 m/s ~ v" ~ 6 m/s
 
-# 47. 0.15 nm
+# 47..15 nm
 
-# 49. a. 2.3 eV b. 240 nm
+# 49. a..3 eV b.40 nm
 
-# 53. a. 250 cV, x-ray region; b. 0.060 eV
+# 53. a.50 cV, x-ray region; b..060 eV
 
-# 55. 1.4
+# 55..4
 
-# 57. 4.3 X 1015 photon/s
+# 57..3 X 1015 photon/s
 
-# 59. a. 1.7 X IOI~ b. 1.7 X I026photons/s
+# 59. a..7 X IOI~ b..7 X I026photons/s
 
-# 61. 3.5 X 1028 photons
+# 61..5 X 1028 photons
 
-# 63. 12%
+# 63.2%
 
-# 65. 0.97 mm
+# 65..97 mm
 
-# 67. a. 3.88 X 10-12 III b. 3.71 X 10-12 m
+# 67. a..88 X 10-12 III b..71 X 10-12 m
 
-# 69. a. 2.0 X 10--63 J b. 1.2 X 10-30 Illis
+# 69. a..0 X 10--63 J b..2 X 10-30 Illis
 
 # 71. l.4nm
 
-# 73. 1.09X 10-9m
+# 73..09X 10-9m
 
 # 75. a. E min = h2/4mL 2
 
@@ -140614,9 +140614,9 @@ f = 3, and /I = 3
 
 f = 2
 
-# 77. 18rm
+# 77.8rm
 
-# 79. 19T
+# 79.9T
 
 # 81. C
 
@@ -140648,9 +140648,9 @@ Answers to odd-numbered multiple-choice questions
 
 1 nm
 
-# 3. 1876 nm. 1282 nm. 1094 nm, infrared
+# 3.876 nm.282 nm.094 nm, infrared
 
-# 5. n. 3 electrons, 4 protons, 5 neutrons
+# 5. n. electrons, 4 protons, 5 neutrons
 
 6 electrons.
 
@@ -140660,13 +140660,13 @@ Answers to odd-numbered multiple-choice questions
 
 7 prOlons, 8 neutrons
 
-# 7. u. ~Li b. 14C+
+# 7. u. ~Li b.4C+
 
-# 9. a. Yes b. 0.50 eV
+# 9. a. Yes b..50 eV
 
-# 11. 6.7X 105m/s, 1.1 X 106m/s
+# 11..7X 105m/s, 1.1 X 106m/s
 
-# 13. 3
+# 13.
 
 4'TT'€rfi2 -e2
 
@@ -140694,7 +140694,7 @@ me· 47TEo(2aa)
 
 476 nm»/3
 
-# 19. 97.26 nm. 486.3 nm. 1876 nm
+# 19.7.26 nm.86.3 nm.876 nm
 
 1/= 1:(1,0.
 
@@ -140746,17 +140746,17 @@ Can't have 3 electrons in an~'
 
 state
 
-# 33. 4.86 X 1<1' m/s
+# 33..86 X 1<1' m/s
 
-# 35. 330 nm
+# 35.30 nm
 
 # 37. a. Yes,2180nrn b. No. violates A/= I
 
-# 39. 690 nm
+# 39.90 nm
 
-# 41. 3.18x 1015
+# 41..18x 1015
 
-# 43. a. 1.7 X 1018 b. 1.7 X 1026 photons/s
+# 43. a..7 X 1018 b..7 X 1026 photons/s
 
 102.
 
@@ -140780,11 +140780,11 @@ infrared
 
 01 X 1013
 
-# 49. 0.00000000005 8%,99.999999999942%
+# 49..00000000005 8%,99.999999999942%
 
-# 51. n. 58 N b. 4.7 X 10-15 N, no
+# 51. n.8 N b..7 X 10-15 N, no
 
-# 53. 1.8 X 107 m/s
+# 53..8 X 107 m/s
 
 55 b.
 
@@ -140792,15 +140792,15 @@ fl = 200 nm AJI = 300 nm A21 = 500 nm A42 = 333 nm
 
 A43 = 600 nm A32 = 750 nm
 
-# 57. 10
+# 57.0
 
-# 59. 91.18 nm
+# 59.1.18 nm
 
-# 61. 1876nm 63. 44200 m/s
+# 61.876nm 63.4200 m/s
 
 # 65. w" Answers
 
-# 67. a. 6s-5p,6s-4p,6s-3p b. 7290nm, 1650nm,515nm
+# 67. a.s-5p,6s-4p,6s-3p b.290nm, 1650nm,515nm
 
 13Xl06m/s A-25
 
@@ -140826,7 +140826,7 @@ Wavelength b, Type c.
 
 4s __ 3p
 
-# 73. 2 X 1023 W/m!
+# 73. X 1023 W/m!
 
 # 75. A nc
 
@@ -140884,7 +140884,7 @@ I proton, 2 neutrons b.
 
 94 protons, 145 neutrons
 
-# 3. 6.94u
+# 3..94u
 
 3H: (otal is 8.
 
@@ -140898,7 +140898,7 @@ JHe: total is 7.
 
 57 MeV
 
-# 7. JHe: 2.57 MeV. 4He: 7.07 MeV, 4He
+# 7. JHe: 2.57 MeV.He: 7.07 MeV, 4He
 
 fN: 7.
 
@@ -140920,41 +140920,41 @@ fN: 7.
 
 # 13. lOS is stable
 
-# 15. 4Hc, I<c. 160
+# 15.Hc, I<c.60
 
 # 17. H1U
 
-# 19. a. 22'1'h b. 2u7TI c. 7Li d. 6°Ni
+# 19. a.2'1'h b.u7TI c.Li d.°Ni
 
-# 21. 5.52 MeV
+# 21..52 MeV
 
-# 23. 1.50 X 10-4 u
+# 23..50 X 10-4 u
 
-# 25. a. 8.8 X 109 b. 2.7 X 109 c. 1.8 X 104
+# 25. a..8 X 109 b..7 X 109 c..8 X 104
 
-# 27. a. 3.3 b. 6.6
+# 27. a..3 b..6
 
-# 29. 17,000yr
+# 29.7,000yr
 
-# 31. 80 d
+# 31.0 d
 
-# 33. 6.3 mCi
+# 33..3 mCi
 
-# 35. 4.0 mSv
+# 35..0 mSv
 
 600rad
 
-# 39. 450 h
+# 39.50 h
 
-# 41. 2.0 Gy
+# 41..0 Gy
 
-# 43. 0.51 MeV
+# 43..51 MeV
 
-# 45. 0.391 MeV
+# 45..391 MeV
 
 # 47. IH: 99.985%, 2H: 0.015"10
 
-# 49. 200 MeV
+# 49.00 MeV
 
 17N,170 b.
 
@@ -140962,21 +140962,21 @@ fN: 7.
 
 17N decays by beta-minus decay to 170.
 
-# 53. 2.7 x 1017
+# 53..7 x 1017
 
-# 55. u. 157 min b. 29.5 h
+# 55. u.57 min b.9.5 h
 
-# 57. 4.6 X 10')
+# 57..6 X 10')
 
 210million ycars
 
-# 61. 5.9 billion years
+# 61..9 billion years
 
-# 63. 0.47 rnSv
+# 63..47 rnSv
 
-# 65. u. 4.5 kJ b. 110 W c. 1.4 K
+# 65. u..5 kJ b.10 W c..4 K
 
-# 67. 3.33 X 10' Gy
+# 67..33 X 10' Gy
 
 # A-26 Answers
 
@@ -141000,7 +141000,7 @@ greater than background level
 
 # 3. A
 
-# 5. 0
+# 5.
 
 # 7. A
 
@@ -141008,9 +141008,9 @@ greater than background level
 
 # 13. B
 
-# 15. a. 1.1 x lOIS photons b. 0.093 Sv
+# 15. a..1 x lOIS photons b..093 Sv
 
-1 7. 0.000 1 8 V7 7j::)
+1 7..000 1 8 V7 7j::)
 
 c Credits
 
@@ -145520,7 +145520,7 @@ stored, 290, 330.
 
 699-701.
 
-# 10101. 290. 293. 306. 910, 912-913
+# 10101.90.93.06.10, 912-913
 
 Energy density, 701
 
@@ -147348,7 +147348,7 @@ atomic models.
 
 378-379, 396, 406,
 
-# 431. 438
+# 431.38
 
 elasticity of.
 
@@ -148922,7 +148922,7 @@ Restoring forces, 239-244, 247, 445.
 
 447-449.
 
-469 equilibrium and, 239-244. 247,445.
+469 equilibrium and, 239-244.47,445.
 
 447-449,469
 
@@ -150916,9 +150916,9 @@ w
 
 Notefor users afthe flVo-volume edition:
 
-Volume l (pp. 1-541) includes chapters 1-16.
+Volume l (pp.-541) includes chapters 1-16.
 
-Volume 2 (pp. 542-l027) includes chapters 17-30.
+Volume 2 (pp.42-l027) includes chapters 17-30.
 
 CHAPTER PROBLEM ·SOLVING STRATEGY
 

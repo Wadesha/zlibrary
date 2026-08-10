@@ -824,7 +824,7 @@
       "pipeline": "ocr_md",
       "source_file": "Breaking Boundaries  The Science of Our Planet (Johan Rockström Owen Gaffney) (Z-Library).md",
       "source_pdf": null,
-      "chars": 584061,
+      "chars": 584059,
       "has_fixed": false,
       "category": "艺术",
       "author": ""
@@ -2036,7 +2036,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Photons and Atoms Introduction to Quantum Electrodynamics (Wiley Professional) (Claude Cohen-Tannoudji, Jacques Dupont-Roc etc.) (Z-Library)_fixed.md",
       "source_pdf": "Photons and Atoms Introduction to Quantum Electrodynamics (Wiley Professional) (Claude Cohen-Tannoudji, Jacques Dupont-Roc etc.) (Z-Library).pdf",
-      "chars": 437026,
+      "chars": 436996,
       "has_fixed": true,
       "category": "物理",
       "author": ""
@@ -3320,7 +3320,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]国外建筑设计·绘画精品书架 徒手绘画及速写 () (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 23214,
+      "chars": 23140,
       "has_fixed": true,
       "category": "艺术",
       "author": ""
@@ -3404,7 +3404,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]山西洪洞广胜寺水神庙壁画 (金维诺) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 1399,
+      "chars": 1396,
       "has_fixed": true,
       "category": "艺术",
       "author": ""
@@ -3416,7 +3416,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]山西浑源永安寺壁画 (金维诺) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 2106,
+      "chars": 2038,
       "has_fixed": true,
       "category": "艺术",
       "author": ""
@@ -3704,7 +3704,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]温州乡土建筑 (丁俊清，肖健雄著, Ding, Junqing, Xiao, Jianxiong, 丁俊清 etc.) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 14779,
+      "chars": 14833,
       "has_fixed": true,
       "category": "建筑",
       "author": ""
@@ -3884,7 +3884,7 @@
       "pipeline": "ocr_md",
       "source_file": "给孩子讲量子力学 (李淼) (Z-Library) (1).md",
       "source_pdf": null,
-      "chars": 30657,
+      "chars": 30717,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4076,7 +4076,7 @@
       "pipeline": "ocr_md",
       "source_file": "101 Great Science Experiments (Neil Ardley) (Z-Library).md",
       "source_pdf": null,
-      "chars": 156018,
+      "chars": 155546,
       "has_fixed": false,
       "category": "艺术",
       "author": ""
@@ -4088,7 +4088,7 @@
       "pipeline": "ocr_md",
       "source_file": "5小时读懂快消品营销 中国快消品案例观察 (陈海超) (Z-Library).md",
       "source_pdf": null,
-      "chars": 94495,
+      "chars": 94477,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4100,7 +4100,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]A Guide to Feynman Diagrams in the Many-Body Problem (Richard D. Mattuck) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 419632,
+      "chars": 419342,
       "has_fixed": true,
       "category": "物理",
       "author": ""
@@ -4112,7 +4112,7 @@
       "pipeline": "ocr_md",
       "source_file": "A Pictorial History of Chinese Architecture A Study of the Development of Its Structural System and the Evolution of Its Types (Ssu-ch’eng Liang) (Z-Library).md",
       "source_pdf": null,
-      "chars": 284621,
+      "chars": 284271,
       "has_fixed": false,
       "category": "建筑",
       "author": ""
@@ -4136,7 +4136,7 @@
       "pipeline": "ocr_md",
       "source_file": "An Illustrated Guide to Relativity (2010) (Tatsu Takeuchi) (Z-Library).md",
       "source_pdf": null,
-      "chars": 193561,
+      "chars": 193541,
       "has_fixed": false,
       "category": "建筑",
       "author": ""
@@ -4160,7 +4160,7 @@
       "pipeline": "ocr_md",
       "source_file": "Barrons AP Physics 2 (Kenneth Rideout) (Z-Library).md",
       "source_pdf": null,
-      "chars": 183873,
+      "chars": 183804,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4184,7 +4184,7 @@
       "pipeline": "ocr_md",
       "source_file": "BOO3-数学要素 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 426537,
+      "chars": 423306,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4196,7 +4196,7 @@
       "pipeline": "ocr_md",
       "source_file": "Book1-编程不难 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 529108,
+      "chars": 526733,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4208,7 +4208,7 @@
       "pipeline": "ocr_md",
       "source_file": "BOOK2-《可视之美》  鸢尾花书：从加减乘除到机器学习 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 274293,
+      "chars": 272554,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4220,7 +4220,7 @@
       "pipeline": "ocr_md",
       "source_file": "BOOK5-统计至简 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 478079,
+      "chars": 474772,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4280,7 +4280,7 @@
       "pipeline": "ocr_md",
       "source_file": "Calculus Volume 1 (Edwin Jed Herman, Gilbert Strang) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1233286,
+      "chars": 1233086,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4292,7 +4292,7 @@
       "pipeline": "ocr_md",
       "source_file": "Calculus, Volume 2 (Gilbert Strang, Edwin “Jed” Herman) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1181522,
+      "chars": 1181390,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4304,7 +4304,7 @@
       "pipeline": "ocr_md",
       "source_file": "California Science, Interactive Student Edition, Grade 5 (Dr. Jay K. Hackett) (Z-Library).md",
       "source_pdf": null,
-      "chars": 756006,
+      "chars": 755790,
       "has_fixed": false,
       "category": "其他",
       "author": ""
@@ -4316,7 +4316,7 @@
       "pipeline": "ocr_md",
       "source_file": "Cambridge IGCSE Physics, 3rd edition (Tom Duncan, Heather Kennett) (Z-Library).md",
       "source_pdf": null,
-      "chars": 743437,
+      "chars": 743387,
       "has_fixed": false,
       "category": "其他",
       "author": ""
@@ -4340,7 +4340,7 @@
       "pipeline": "ocr_md",
       "source_file": "College Physics (9th Edition) (Hugh D. Young) (Z-Library).md",
       "source_pdf": null,
-      "chars": 4270897,
+      "chars": 4270549,
       "has_fixed": false,
       "category": "其他",
       "author": ""
@@ -4364,7 +4364,7 @@
       "pipeline": "ocr_md",
       "source_file": "College Physics A Strategic Approach Volume 1 (Randall D. Knight, Brian Jones, Stuart Field) (Z-Library).md",
       "source_pdf": "College Physics A Strategic Approach Volume 1 (Randall D. Knight, Brian Jones, Stuart Field) (Z-Library).pdf",
-      "chars": 2259421,
+      "chars": 2257467,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4388,7 +4388,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Atom-Photon Interactions_fixed.md",
       "source_pdf": null,
-      "chars": 579806,
+      "chars": 579756,
       "has_fixed": true,
       "category": "物理",
       "author": ""
@@ -4400,7 +4400,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Field Guide to California Insects Second Edition (Kip Will) (Z-Library).md",
       "source_pdf": null,
-      "chars": 986545,
+      "chars": 986519,
       "has_fixed": false,
       "category": "自然博物",
       "author": ""
@@ -4412,7 +4412,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Natural History The Ultimate Visual Guide to Everything on Earth (DK Publishing, David Burnie) (Z-Library).md",
       "source_pdf": null,
-      "chars": 245287,
+      "chars": 245281,
       "has_fixed": false,
       "category": "生物",
       "author": ""
@@ -4424,7 +4424,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg) (Z-Library)_fixed.md",
       "source_pdf": "No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg) (Z-Library).pdf",
-      "chars": 39767,
+      "chars": 39755,
       "has_fixed": true,
       "category": "物理",
       "author": ""
@@ -4436,7 +4436,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Trees - A Guide to the Trees of Great Britain and Europe (A Little Guide in Colour) (Bretaudeau, J.) (Z-Library)_fixed.md",
       "source_pdf": "Trees - A Guide to the Trees of Great Britain and Europe (A Little Guide in Colour) (Bretaudeau, J.) (Z-Library).pdf",
-      "chars": 112755,
+      "chars": 112738,
       "has_fixed": true,
       "category": "其他",
       "author": ""
@@ -4448,7 +4448,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【10】N. Stokey, R. Lucas - Recursive Methods in Economic Dynamics_fixed.md",
       "source_pdf": null,
-      "chars": 507598,
+      "chars": 507545,
       "has_fixed": true,
       "category": "数学",
       "author": ""
@@ -4460,7 +4460,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【16】Dynamic asset pricing theory_fixed.md",
       "source_pdf": null,
-      "chars": 712501,
+      "chars": 712429,
       "has_fixed": true,
       "category": "经济",
       "author": ""
@@ -4472,7 +4472,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【7】布兰查德、费希尔《宏观经济学(高级教程)》_fixed.md",
       "source_pdf": null,
-      "chars": 275286,
+      "chars": 274666,
       "has_fixed": true,
       "category": "经济",
       "author": ""
@@ -4484,7 +4484,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国区域历史地理 (李孝聪) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 175195,
+      "chars": 175093,
       "has_fixed": true,
       "category": "地球与环境",
       "author": ""
@@ -4496,7 +4496,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国古建筑文化之旅 山西、内蒙古 (张驭寰) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 19959,
+      "chars": 19826,
       "has_fixed": true,
       "category": "历史",
       "author": ""
@@ -4508,7 +4508,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]华章数学译丛41托马斯大学微积分(Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 104119,
+      "chars": 102613,
       "has_fixed": true,
       "category": "数学",
       "author": ""
@@ -4520,7 +4520,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]原子在我家中：我与恩里科·费米的生活 ([美]劳拉·费米 何兆武(译) 何芬奇(译)) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 55967,
+      "chars": 55928,
       "has_fixed": true,
       "category": "社会科学",
       "author": ""
@@ -4532,7 +4532,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]我的大脑敞开了：数学怪才爱多士(美)谢克特_fixed.md",
       "source_pdf": "我的大脑敞开了：数学怪才爱多士(美)谢克特.pdf",
-      "chars": 66378,
+      "chars": 66106,
       "has_fixed": true,
       "category": "历史",
       "author": ""
@@ -4544,7 +4544,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]数学与生活 (（日）远山启著；吕砚山，李诵雪，马杰等译) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 61440,
+      "chars": 60729,
       "has_fixed": true,
       "category": "数学",
       "author": ""
@@ -4556,7 +4556,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县商业志 (滕县商业志编纂委员会编) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 8941,
+      "chars": 8622,
       "has_fixed": true,
       "category": "计算机",
       "author": ""
@@ -4568,7 +4568,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县文史资料 第1辑 (中国人民政治协商会议滕县委员会文史资料委员会) (Z-Library).md",
       "source_pdf": null,
-      "chars": 18342,
+      "chars": 18327,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4580,7 +4580,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县续志稿（全）.pdf (历代地方志) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 68393,
+      "chars": 68040,
       "has_fixed": true,
       "category": "建筑",
       "author": ""
@@ -4592,7 +4592,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕州市经济和社会发展战略规划研究 1986-2000 (腾州市人民政府) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 65157,
+      "chars": 64906,
       "has_fixed": true,
       "category": "经济",
       "author": ""
@@ -4604,7 +4604,7 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]量子物理 (赵凯华) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 94655,
+      "chars": 93670,
       "has_fixed": true,
       "category": "物理",
       "author": ""
@@ -4616,7 +4616,7 @@
       "pipeline": "ocr_md",
       "source_file": "《张克群建筑杂话系列》（套装全5册）清华奶奶张克群解密木构建筑的前世今生 樊登、高晓松作序推荐 (张克群) (Z-Library).md",
       "source_pdf": null,
-      "chars": 281872,
+      "chars": 275669,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4628,7 +4628,7 @@
       "pipeline": "ocr_md",
       "source_file": "《科学美国人》精选系列(套装共4本)(《未来地球简史》《大美生命传奇》《极简量子大观》《极简宇宙新知》) (环球科学》杂志社, 外研社科学出版... (Z-Library).md",
       "source_pdf": null,
-      "chars": 330207,
+      "chars": 330118,
       "has_fixed": false,
       "category": "生物",
       "author": ""
@@ -4640,7 +4640,7 @@
       "pipeline": "ocr_md",
       "source_file": "【2】曼昆经济学原理微观分册(英)第五版(高清).md",
       "source_pdf": null,
-      "chars": 241554,
+      "chars": 241544,
       "has_fixed": false,
       "category": "经济",
       "author": ""
@@ -4652,7 +4652,7 @@
       "pipeline": "ocr_md",
       "source_file": "中国乡村：19世纪的帝国控制【豆瓣9.3高分推荐！著名历史学家和政治学家萧公权先生学术代表作之一！考察了19世纪清王朝统治中国乡村的政治体系... (Z-Library).md",
       "source_pdf": null,
-      "chars": 172454,
+      "chars": 172438,
       "has_fixed": false,
       "category": "历史",
       "author": ""
@@ -4664,7 +4664,7 @@
       "pipeline": "ocr_md",
       "source_file": "中国古建筑测绘十年 2000-2010清华大学建筑学院测绘图集 下 (王贵祥，贺从容，廖慧农主编) (Z-Library).md",
       "source_pdf": null,
-      "chars": 11672,
+      "chars": 11671,
       "has_fixed": false,
       "category": "建筑",
       "author": ""
@@ -4676,7 +4676,7 @@
       "pipeline": "ocr_md",
       "source_file": "双光子激光的半经典理论1983-01-0036.md",
       "source_pdf": "双光子激光的半经典理论1983-01-0036.pdf",
-      "chars": 4173,
+      "chars": 4148,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4700,7 +4700,7 @@
       "pipeline": "ocr_md",
       "source_file": "基于课程标准的STEM教学设计：有趣有料有效的STEM跨学科培养教学方案 (（美）826全美 [（美）826全美]) (Z-Library).md",
       "source_pdf": null,
-      "chars": 146580,
+      "chars": 146576,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4724,7 +4724,7 @@
       "pipeline": "ocr_md",
       "source_file": "巩义三庄园 (中国乡土建筑丛书) (毛葛) (Z-Library).md",
       "source_pdf": null,
-      "chars": 86695,
+      "chars": 86691,
       "has_fixed": false,
       "category": "地球与环境",
       "author": ""
@@ -4736,7 +4736,7 @@
       "pipeline": "ocr_md",
       "source_file": "快消品营销一位销售经理的工作心得2(全文电子版) (博瑞森管理丛书) (蒋军) (Z-Library).md",
       "source_pdf": null,
-      "chars": 63930,
+      "chars": 63925,
       "has_fixed": false,
       "category": "艺术",
       "author": ""
@@ -4748,7 +4748,7 @@
       "pipeline": "ocr_md",
       "source_file": "数学物理方法mmpbook_v3.6.md",
       "source_pdf": "数学物理方法mmpbook_v3.6.pdf",
-      "chars": 60904,
+      "chars": 60431,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4760,7 +4760,7 @@
       "pipeline": "ocr_md",
       "source_file": "数据有道 - 鸢尾花书系列 - 06 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 309299,
+      "chars": 307445,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4772,7 +4772,7 @@
       "pipeline": "ocr_md",
       "source_file": "文化、权力与国家1900——1942年的华北农村(杜赞奇(Z-Library).md",
       "source_pdf": null,
-      "chars": 107474,
+      "chars": 107470,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4784,7 +4784,7 @@
       "pipeline": "ocr_md",
       "source_file": "文化、权力与国家1900——1942年的华北农村(杜赞奇先生代表性作品。1989年度美国历史学会“费正清奖”。1990年度亚洲研究学会“列文森奖”。深度解... (Z-Library).md",
       "source_pdf": null,
-      "chars": 120349,
+      "chars": 120345,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4796,7 +4796,7 @@
       "pipeline": "ocr_md",
       "source_file": "普通地质学 (吴泰然, 何国琦) (Z-Library).md",
       "source_pdf": null,
-      "chars": 171181,
+      "chars": 170180,
       "has_fixed": false,
       "category": "地球与环境",
       "author": ""
@@ -4808,7 +4808,7 @@
       "pipeline": "ocr_md",
       "source_file": "清华出版社物理难题150例086890-01.md",
       "source_pdf": "清华出版社物理难题150例086890-01.pdf",
-      "chars": 4437,
+      "chars": 4788,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4820,7 +4820,7 @@
       "pipeline": "ocr_md",
       "source_file": "清华大学国际金融第六版090994-01.md",
       "source_pdf": "清华大学国际金融第六版090994-01.pdf",
-      "chars": 38972,
+      "chars": 38788,
       "has_fixed": false,
       "category": "经济",
       "author": ""
@@ -4832,7 +4832,7 @@
       "pipeline": "ocr_md",
       "source_file": "清华理解科学丛书（套装共10册） (卢昌海等) (Z-Library).md",
       "source_pdf": null,
-      "chars": 726796,
+      "chars": 726216,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4844,7 +4844,7 @@
       "pipeline": "ocr_md",
       "source_file": "电动力学南京大学Ch0-0.md",
       "source_pdf": "电动力学南京大学Ch0-0.pdf",
-      "chars": 8540,
+      "chars": 8796,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4856,7 +4856,7 @@
       "pipeline": "ocr_md",
       "source_file": "疯狂的科学实验（火爆全球的趣味科普！人类在探索科学的蒙昧阶段，经历了许多荒谬的实验和疯狂，才得来了今天的文明。5大门类75个实验，涉及... (Z-Library).md",
       "source_pdf": null,
-      "chars": 146094,
+      "chars": 146088,
       "has_fixed": false,
       "category": "生物",
       "author": ""
@@ -4868,7 +4868,7 @@
       "pipeline": "ocr_md",
       "source_file": "知识进化图解系列：太喜欢世界了（套装共5册）（独家首发！！各学科的敲门砖+给成年人的思维跃迁工具，人人需要掌握的极简学习方法，化繁为简... (Z-Library).md",
       "source_pdf": null,
-      "chars": 185231,
+      "chars": 184962,
       "has_fixed": false,
       "category": "生物",
       "author": ""
@@ -4880,7 +4880,7 @@
       "pipeline": "ocr_md",
       "source_file": "笔尖下的中国-钢笔画速写表现技法 (墨河 著绘) (Z-Library).md",
       "source_pdf": null,
-      "chars": 16081,
+      "chars": 16014,
       "has_fixed": false,
       "category": "建筑",
       "author": ""
@@ -4892,7 +4892,7 @@
       "pipeline": "ocr_md",
       "source_file": "第一推动丛书·量子探秘系列（量子科普不可多得的经典著作，五本书带你玩转量子！）（新版套装共5册：《量子之谜》《宇宙的琴弦》《不同的宇... (Z-Library).md",
       "source_pdf": null,
-      "chars": 996175,
+      "chars": 995937,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4904,7 +4904,7 @@
       "pipeline": "ocr_md",
       "source_file": "线性代数（第5版） (Gilbert Strang (吉尔伯特·斯特朗）) (Z-Library).md",
       "source_pdf": null,
-      "chars": 157559,
+      "chars": 154428,
       "has_fixed": false,
       "category": "数学",
       "author": ""
@@ -4916,7 +4916,7 @@
       "pipeline": "ocr_md",
       "source_file": "给所有人的物理入门课（天体物理、粒子物理、暗黑物理、脑洞科普，回顾物理学历史，1分钟get1个物理知识）（套装共6册） (中科院物理所 ) (Z-Library).md",
       "source_pdf": null,
-      "chars": 248335,
+      "chars": 248167,
       "has_fixed": false,
       "category": "天文",
       "author": ""
@@ -4928,7 +4928,7 @@
       "pipeline": "ocr_md",
       "source_file": "老板如何管营销高段位营销的16个关键点 (博瑞森管理丛书) (史贤龙) (Z-Library).md",
       "source_pdf": null,
-      "chars": 103762,
+      "chars": 103664,
       "has_fixed": false,
       "category": "生物",
       "author": ""
@@ -4940,7 +4940,7 @@
       "pipeline": "ocr_md",
       "source_file": "腹地的构建——华北内地的国家、社会和经济（1853—1937） (彭慕兰) (Z-Library).md",
       "source_pdf": null,
-      "chars": 256382,
+      "chars": 255972,
       "has_fixed": false,
       "category": "经济",
       "author": ""
@@ -4952,7 +4952,7 @@
       "pipeline": "ocr_md",
       "source_file": "袍哥：1940年代川西乡村的暴力与秩序（显微镜下透视袍哥江湖，再现民国秘密社会的传奇岁月。荣获《新周刊》年度图书、第四届单向街书店文学奖... (Z-Library).md",
       "source_pdf": null,
-      "chars": 141583,
+      "chars": 141566,
       "has_fixed": false,
       "category": "社会科学",
       "author": ""
@@ -4964,7 +4964,7 @@
       "pipeline": "ocr_md",
       "source_file": "费恩曼物理学讲义（新千年版）（套装共3册）经久不衰的物理学高级科普读物【文字版】 ( etc.) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1436390,
+      "chars": 1435529,
       "has_fixed": false,
       "category": "物理",
       "author": ""
@@ -4976,7 +4976,7 @@
       "pipeline": "hy3",
       "source_file": "[MD]16_Dynamic_asset_pricing_theory.md",
       "source_pdf": null,
-      "chars": 762645,
+      "chars": 762564,
       "has_fixed": false,
       "category": "计算机",
       "author": ""
@@ -4988,7 +4988,7 @@
       "pipeline": "hy3",
       "source_file": "[MD]7_布兰查德_费希尔_宏观经济学_高级教程.md",
       "source_pdf": null,
-      "chars": 50532,
+      "chars": 49878,
       "has_fixed": false,
       "category": "经济",
       "author": ""
@@ -5000,7 +5000,7 @@
       "pipeline": "hy3",
       "source_file": "[MD]滕县商业志.md",
       "source_pdf": null,
-      "chars": 29079,
+      "chars": 27619,
       "has_fixed": false,
       "category": "计算机",
       "author": ""
