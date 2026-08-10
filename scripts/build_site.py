@@ -110,11 +110,15 @@ def md_to_html(md: str) -> str:
 
 
 def inline(text: str) -> str:
+    # 极端长行（OCR 偶发无换行长段）直接 escape 输出，避免后续正则回溯卡死
+    if len(text) > 5000:
+        return html.escape(text)
     text = html.escape(text)
-    text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
-    text = re.sub(r"\*(.+?)\*", r"<em>\1</em>", text)
-    text = re.sub(r"`(.+?)`", r"<code>\1</code>", text)
-    text = re.sub(r"\[(.+?)\]\((.+?)\)", r'<a href="\2">\1</a>', text)
+    # 用排除字符集替代 .+?，避免灾难性回溯（如 [[[[[[...](...)
+    text = re.sub(r"\*\*([^*]+)\*\*", r"<strong>\1</strong>", text)
+    text = re.sub(r"\*([^*]+)\*", r"<em>\1</em>", text)
+    text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
+    text = re.sub(r"\[([^\]]+)\]\(([^)]+)\)", r'<a href="\2">\1</a>', text)
     return text
 
 
