@@ -1,0 +1,1272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg)</title>
+<link rel="stylesheet" href="../../assets/style.css">
+</head>
+<body>
+<header class="bookhead">
+  <p class="crumb"><a href="../../index.html">← 书架</a></p>
+  <h1>No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg)</h1>
+  <p class="meta">[English] 来源：ocr_md · 41,404 字 · 校对：是</p>
+</header>
+<main class="reading">
+<p>Second Edition (Jakob Schwichtenberg) (Z-Library).</p>
+<hr class="page"><span class="page-n">— Page 1 —</span>
+<h2>Jakob Schwichtenberg</h2>
+<h2>No-Nonsense</h2>
+<h2>Quantum</h2>
+<h2>Mechanics</h2>
+<h3>A Student-Friendly Introduction</h3>
+<h2>Second Edition *</h2>
+<p>FROM THE AUTHOR OF THE BESTSELLING TEXTBOOK</p>
+<h2>PHYSICS FROM SYMMETRY</h2>
+<hr class="page"><span class="page-n">— Page 2 —</span>
+<h2>WHEN THINGS GET TOUGH</h2>
+<h3>THERE ARE TWO THINGS THAT MAKE</h3>
+<h2>LIFE WORTH LIVING</h2>
+<h2>MOZART</h2>
+<p>AND QUANTUM MECHANICS.</p>
+<h2>VICTOR WEISSKOPF</h2>
+<p>IT IS OFTEN STATED THAT OF ALL THE THEORIES PROPOSED IN THIS</p>
+<p>CENTURY, THE SILLIEST IS QUANTUM THEORY.</p>
+<p>IN FACT, SOME SAY</p>
+<p>THAT THE ONLY THING THAT QUANTUM THEORY HAS GOING FOR IT</p>
+<p>IS THAT IT IS UNQUESTIONABLY CORRECT.</p>
+<h2>MICHIO KAKU</h2>
+<p>THE TRUTH ALWAYS TURNS OUT TO BE SIMPLER THAN YOU THOUGHT.</p>
+<h2>RICHARD FEYNMAN</h2>
+<hr class="page"><span class="page-n">— Page 3 —</span>
+<hr class="page"><span class="page-n">— Page 4 —</span>
+<h2>JAKOB SCHWICHTENBERG</h2>
+<h2>NO-NONSENSE</h2>
+<h2>QUANTUM</h2>
+<h2>MECHANICS</h2>
+<h2>NO-NONSENSE BOOKS</h2>
+<hr class="page"><span class="page-n">— Page 5 —</span>
+<h2>no-nonsense</h2>
+<p>books.</p>
+<h2>rete</h2>
+<p>First printing, September 2020</p>
+<h3>Copyright © 2020 Jakob Schwichtenberg</h3>
+<h3>With illustrations by Corina Wieber</h3>
+<p>All rights reserved.</p>
+<p>No part of this publication may be reproduced</p>
+<h2>stored in</h2>
+<h2>or introduced into</h2>
+<h2>a retrieval system</h2>
+<p>or transmitted in any form or by any means (electronic</p>
+<h2>mechanical</h2>
+<h2>photo-</h2>
+<h2>copying</h2>
+<h2>recording</h2>
+<p>or otherwise) without prior written permission.</p>
+<h2>UNIQUE ID</h2>
+<p>05B568174AF4CAA3587004553587D48385092COD28FABD618413FDEQ04C6F53F</p>
+<p>Each copy of No-Nonsense Quantum Mechanics has a unique ID which helps to prevent illegal sharing.</p>
+<p>BOOK EDITION: 2.</p>
+<hr class="page"><span class="page-n">— Page 6 —</span>
+<h2>Dedicated to my parents</h2>
+<hr class="page"><span class="page-n">— Page 7 —</span>
+<hr class="page"><span class="page-n">— Page 8 —</span>
+<h2>Preface</h2>
+<p>Quantum mechanics is nearly a century old and hundreds of</p>
+<p>books on the subject have already been written.</p>
+<h2>Despite the</h2>
+<h3>sheer volume of material on the subject</h3>
+<h2>quantum mechanics</h2>
+<p>unfortunately remains a challenging subject to learn.</p>
+<h3>When I first learned quantum mechanics</h3>
+<h2>I remember being</h2>
+<p>utterly lost.</p>
+<p>I struggled for months to understand even the</p>
+<p>easiest concepts.</p>
+<p>In some sense, this is entirely normal.</p>
+<p>For example, you may be</p>
+<p>familiar with the famous quote usually attributed to Niels Bohr</p>
+<p>&quot;If you are not completely confused by quantum mechanics,</p>
+<p>you do not understand it.</p>
+<h3>&quot; This sentiment is echoed by Roger</h3>
+<h2>Penrose</h2>
+<p>who explained that his &quot;general attitude&quot; to quantum</p>
+<p>mechanics is that &quot;it makes absolutely no sense!</p>
+<p>It follows that learning quantum mechanics is necessarily diffi-</p>
+<p>cult and confusing, right?</p>
+<p>I no longer believe this to be true.</p>
+<h2>This change of heart served</h2>
+<p>as my motivation to write this book.</p>
+<h2>To be clear</h2>
+<p>quantum mechanics is not an easy subject.</p>
+<h2>It takes</h2>
+<p>some time to get used to.</p>
+<h3>You need to learn a completely new</h3>
+<p>formalism.</p>
+<h2>However</h2>
+<p>this new formalism is not as difficult as</p>
+<h3>most authors would lead you to believe</h3>
+<h2>you don’t need to</h2>
+<p>spend months in a state of confusion.</p>
+<p>Also, rest reassured that</p>
+<hr class="page"><span class="page-n">— Page 9 —</span>
+<h3>* This is known as the “Curse of</h3>
+<p>Knowledge&quot;.</p>
+<p>my goal is not to promote some crackpot alternative to quan-</p>
+<p>tum mechanics in order to remove all &quot;quantum paradoxes&quot;</p>
+<p>and &quot;quantum mysteries&quot;.</p>
+<p>Instead, a large part of this book is</p>
+<p>devoted to topics which are covered by most other textbooks.</p>
+<h2>However</h2>
+<p>my goal is to introduce them as gently as possible</p>
+<p>and, in some sense</p>
+<p>I wrote the book I wished had existed when</p>
+<p>I started learning quantum mechanics.</p>
+<p>So what exactly makes this book different?</p>
+<h2>&gt; First</h2>
+<p>it wasn’t written by a professor.</p>
+<p>As a result, this book</p>
+<p>is by no means an authoritative reference.</p>
+<p>Instead, this book</p>
+<p>is written more like a casual conversation with a more expe-</p>
+<p>rienced student who shares with you everything he wished</p>
+<p>he had known earlier.</p>
+<h3>I’m convinced that someone who has</h3>
+<p>recently learned the topic can explain it much better than</p>
+<p>someone who learned it decades ago.</p>
+<h2>Many textbooks are</h2>
+<h2>hard to understand</h2>
+<h3>not because the subject is difficult</h3>
+<p>because the author can’t remember what it’s like to be a be-</p>
+<p>ginner’.</p>
+<h2>&gt; Second</h2>
+<p>this book focuses solely on the fundamentals and</p>
+<p>contains no fluff.</p>
+<h3>Most other books on quantum mechanics</h3>
+<p>bury the essential concepts behind tedious calculations and</p>
+<p>complicated formulas.</p>
+<h2>&gt; Third</h2>
+<p>this book is unique in that it contains lots of idiosyn-</p>
+<p>cratic hand-drawn illustrations.</p>
+<p>Usually, textbooks include</p>
+<p>very few pictures since drawing them is either a lot of work</p>
+<p>or expensive.</p>
+<h2>However</h2>
+<h3>drawing figures is only a lot of work</h3>
+<p>if you are a perfectionist.</p>
+<h3>The images in this book are not as</h3>
+<p>pretty as the pictures in a typical textbook since I firmly be-</p>
+<p>lieve that lots of non-perfect illustrations are much better than</p>
+<p>a few perfect ones.</p>
+<h2>The goal of this book</h2>
+<h2>after all</h2>
+<h2>is to help</h2>
+<p>you understand quantum mechanics and not to win prizes</p>
+<p>for my pretty illustrations.</p>
+<h2>&gt; Finally</h2>
+<p>my only goal was to write the most student-friendly</p>
+<h3>quantum mechanics book and not</h3>
+<h2>for example</h2>
+<h2>to build my</h2>
+<hr class="page"><span class="page-n">— Page 10 —</span>
+<p>reputation.</p>
+<p>Too many books are unnecessarily complicated</p>
+<h3>because if a book is hard to understand</h3>
+<h2>it makes the author</h2>
+<p>appear smarter.</p>
+<h2>” To give a concrete example</h2>
+<p>nothing in this ?</p>
+<p>To quote C.</p>
+<p>Lanczos: &quot;Many of</p>
+<h3>the scientific treatises of today</h3>
+<h3>. are formulated in a half-mystical</h3>
+<p>calculations are done step-by-step and are annotated to help language</p>
+<h2>as though to impress</h2>
+<p>you understand faster.</p>
+<h3>the reader with the uncomfortable</h3>
+<h3>feeling that he is in the permanent</h3>
+<p>presence of a superman.</p>
+<p>book is assumed to be &quot;obvious&quot; or &quot;easy to see&quot;.</p>
+<p>Moreover,</p>
+<h2>With that said</h2>
+<p>the actual content and structure of the book is</p>
+<p>also somewhat non-standard:</p>
+<h2>In the first part</h2>
+<p>we will talk about the essential features of</p>
+<p>quantum mechanics and how we can describe them mathemat-</p>
+<p>ically.</p>
+<p>We start with a &quot;Bird’s Eye View&quot; of quantum mechanics</p>
+<p>and then gradually refine our understanding.</p>
+<h2>Afterwards</h2>
+<p>we will discuss concrete examples and applica-</p>
+<p>tions.</p>
+<p>We will stick to the most fundamental examples that</p>
+<p>show how quantum mechanics works in practice.</p>
+<h2>In most more</h2>
+<h2>advanced examples</h2>
+<p>we don’t learn anything new.</p>
+<p>Instead, the</p>
+<p>same lessons are buried behind more complicated calculations.</p>
+<h2>I will</h2>
+<h2>however</h2>
+<p>comment on several important advanced exam-</p>
+<p>ples with which you should become familiar.</p>
+<p>Next, we will talk about alternative formulations of quantum</p>
+<p>mechanics.</p>
+<p>3 Most other textbooks focus solely on the wave 3 Again</p>
+<h2>Be reassured that I will</h2>
+<h3>not talk about crackpot theories but</h3>
+<p>we .</p>
+<h3>only well-established alternative</h3>
+<p>as it is worthwhile to learn both the Lagrangian and Hamilto- formulations like the path-integral</p>
+<p>nian formulations of classical mechanics</p>
+<p>learning these alterna- formulation.</p>
+<p>function formulation and ignore the alternatives.</p>
+<p>However, just</p>
+<p>tive formulations can be extremely beneficial.</p>
+<h2>This is especially</h2>
+<p>true when we try to understand what quantum mechanics really</p>
+<p>means, which is the topic of the penultimate chapter.</p>
+<h2>In the final chapter</h2>
+<p>we will discuss where you can learn more</p>
+<p>depending on what aspect of quantum mechanics interests you</p>
+<p>the most.</p>
+<p>So, without any further ado</p>
+<p>let’s begin.</p>
+<h2>I hope you enjoy read-</h2>
+<p>ing this book as much as I have enjoyed writing it.</p>
+<hr class="page"><span class="page-n">— Page 11 —</span>
+<h2>Karlsruhe</h2>
+<h3>June 2018 Jakob Schwichtenberg</h3>
+<p>PS: I update the book regularly based on reader feedback.</p>
+<h2>So if</h2>
+<h2>you find an error</h2>
+<h3>I would appreciate a short email to</h3>
+<p>errors@jakobschwichtenberg.</p>
+<p>com.</p>
+<h2>Acknowledgments</h2>
+<p>Many thanks are due to all readers of earlier versions of this</p>
+<h3>book who suggested improvements</h3>
+<h2>especially Florian Col-</h2>
+<h2>batzky</h2>
+<h2>Andreas Pargner</h2>
+<h2>Sean Tarzy</h2>
+<h2>Namkyu Park</h2>
+<h2>Robert</h2>
+<h2>Welters</h2>
+<h2>Ronnie Webb</h2>
+<h2>Jim Bagarazzi</h2>
+<h2>Jalen Cates</h2>
+<h2>Philip Lim</h2>
+<h2>Fabian Waetermans</h2>
+<h2>Kainen Utt</h2>
+<h2>Patrik Iannotti</h2>
+<h2>Corina Wieber</h2>
+<h2>Salvador Ortega</h2>
+<p>Bill Courtney and John D.</p>
+<p>Nelson.</p>
+<hr class="page"><span class="page-n">— Page 12 —</span>
+<h2>Before we dive in</h2>
+<p>we need to talk about two things.</p>
+<p>First, a</p>
+<p>crucial question:</p>
+<p>Why should you care about Quantum Mechan-</p>
+<p>ics?</p>
+<p>The strongest argument in favor of quantum mechanics is that</p>
+<p>it correctly predicts experimental observations.</p>
+<h2>Physicists and</h2>
+<p>philosophers can argue all day long about how beautiful some</p>
+<h2>theory is</h2>
+<p>but the only thing that matters in the end is that itagrees with experimental evidence.</p>
+<p>Just as classical mechanics describes a ball rolling down a ramp</p>
+<h2>quantum mechanics describes</h2>
+<p>for example the hydrogen atom.</p>
+<h2>In addition</h2>
+<p>quantum mechanics is the little brother of quantum</p>
+<p>field theory which is the best theory of the fundamental inter-</p>
+<p>actions that we have.</p>
+<p>And it is almost impossible to understand</p>
+<p>quantum field theory without learning the basic concepts in</p>
+<p>quantum mechanics first.</p>
+<p>Quantum mechanics is an essential tool in the repertoire of</p>
+<p>any competent physicist.</p>
+<h3>While it will not help you to describe</h3>
+<p>the ball that rolls down a ramp any better</p>
+<h2>it will allow you to</h2>
+<p>describe new physical systems which you can’t describe with</p>
+<p>classical mechanics.</p>
+<p>The second thing we need to talk about is the meaning of a few</p>
+<p>special symbols which we will use in the following chapters.</p>
+<h3>4 We will talk about lots of quantum.</h3>
+<p>systems in Part II.</p>
+<h3>5 That was quick. As promised I</h3>
+<p>tried my best to remove all fluff.</p>
+<h3>Most books discuss in the first few</h3>
+<h3>chapters how quantum mechanics</h3>
+<p>came about historically.</p>
+<h2>This story</h2>
+<p>is extremely interesting.</p>
+<h2>But this</h2>
+<h3>is not a history book and there are</h3>
+<h3>already lots of great books on the</h3>
+<p>history of quantum mechanics.</p>
+<p>See,</p>
+<p>for example,</p>
+<p>Baggott.</p>
+<p>The quantum story : a</p>
+<p>history in 40 moments.</p>
+<h2>Oxford Uni-</h2>
+<p>versity Press, Oxford England New</p>
+<p>York, 2011.</p>
+<h2>ISBN 978-0199566846</h2>
+<hr class="page"><span class="page-n">— Page 13 —</span>
+<h2>Notation</h2>
+<blockquote>Three horizontal lines = are used to indicate a definition.</blockquote>
+<blockquote>The most important equations and results are highlighted</blockquote>
+<p>like this:</p>
+<blockquote>We often use the shorthand notation ∂_i = 2 for the partial</blockquote>
+<p>derivative where i ∈ {x,y,z}.</p>
+<h2>(The symbol ∈ means that the</h2>
+<p>element to its left is contained in the set on its right.</p>
+<p>So here,</p>
+<p>iis either x, y, or Z.</p>
+<blockquote>It is conventional in quantum mechanics to denote opera-</blockquote>
+<p>tors using a hat: Ô.</p>
+<h3>This notation helps to make clear when</h3>
+<p>we are dealing with an operator and when with an ordinary</p>
+<p>number.</p>
+<h2>However</h2>
+<p>often it is clear from the context that we</p>
+<p>are dealing exclusively with quantum operators.</p>
+<h2>When the</h2>
+<h2>context is clear</h2>
+<p>we will neglect the hats to clean up the nota-</p>
+<p>tion.</p>
+<h2>&gt; Moreover</h2>
+<p>square brackets denote the commutator of two</p>
+<p>operators A and B: [A,B] = AB — BA.</p>
+<blockquote>εijk denotes the three dimensional Levi-Civita symbol</blockquote>
+<h2>which</h2>
+<p>is defined as follows:</p>
+<h3>1 if (i,j,k) ∈ {(1,2,3), (2,3,1), (3,1,2)}</h3>
+<h2>εijk 0 ifi=jorj=kork=i (2)</h2>
+<p>if (i,j,k) ∈ {(1,3,2), (3,2,1), (2,1,3)}</p>
+<blockquote>The absolute value of a quantity p is denoted by |p|.</blockquote>
+<p>That&#x27;s it.</p>
+<p>We are ready to dive in (after a short look at the table</p>
+<p>of contents).</p>
+<hr class="page"><span class="page-n">— Page 14 —</span>
+<hr class="page"><span class="page-n">— Page 15 —</span>
+<hr class="page"><span class="page-n">— Page 16 —</span>
+<h2>Contents</h2>
+<p>Part I What Everybody Ought to Know About Quan-</p>
+<h2>tum Mechanics</h2>
+<h3>1 Bird’s-Eye View of Quantum Mechanics 25</h3>
+<h3>2 Essential Quantum Features 33</h3>
+<h3>2.1 The Heart of Quantum Mechanics .......... 33</h3>
+<h3>2.2 What Does &quot;Quantum&quot; Mean? ............ 38</h3>
+<h3>2.3. Uncertainty .............0 00000000. 43</h3>
+<h2>3 The Quantum Framework 47</h2>
+<h3>1 Intermezzo: Essential Statistics .</h3>
+<h3>2 Statistical Tools in Quantum Mechanics .</h3>
+<p>3-3 Wave Functions .</p>
+<h2>00000000 60</h2>
+<p>3-4 Quantum Operators .</p>
+<p>005.</p>
+<h3>3.4.1 Intermezzo: Symmetries............ 67</h3>
+<h3>3.4.2. The Most Important Quantum Operators .. 71</h3>
+<p>3-5 How Operators Influence Each Other .</p>
+<h3>3.6 How Quantum Systems Change ........... v5)</h3>
+<p>3-7 Why Quantum Mechanics is About Waves .</p>
+<h2>8 Intermezzo</h2>
+<p>Eigenvectors and Eigenvalues .</p>
+<p>3-9 AngularMomentum .</p>
+<p>---.</p>
+<p>3-10 Spin.</p>
+<h2>eee 85</h2>
+<h3>3.11 Quantum Numbers................-4. 91</h3>
+<h2>4 The Classical Limit 95</h2>
+<h2>5 Summary 99</h2>
+<hr class="page"><span class="page-n">— Page 17 —</span>
+<p>Part II Essential Quantum Systems and Tools</p>
+<h3>6 Tricks and Ideas We Need All the Time</h3>
+<h3>6.1 Let’s Separate Time and Space ............</h3>
+<h3>6.2 Why Quantum Waves are Smooth ..........</h3>
+<h3>6.3. Classification of Solutions ...............</h3>
+<h2>7 Quantum Mechanics in a Box</h2>
+<p>7-1 TheInfiniteBox .</p>
+<h3>7.2 The FiniteBox.................2.000.</h3>
+<p>7-3 The Hydrogen Atom .</p>
+<h2>8 Scattering off a Box</h2>
+<h3>8.1 The Step Potential..............-..05.</h3>
+<h2>811 E&lt;U «1... ee eee</h2>
+<h2>81.2 E&gt;U .... eee ee eee</h2>
+<h3>8.2 The Box Potential .................0.0.</h3>
+<h2>9g Harmonic Quantum Mechanics</h2>
+<h3>9.1 The Magical Method ...............-5.</h3>
+<h2>10 Quantum Systems with Spin</h2>
+<h3>10.1 Spin Measurements... .............205.</h3>
+<h3>10.2 Spin Addition ................-0000.</h3>
+<h2>11 Further Systems</h2>
+<h2>12 When the Going Gets Tough</h2>
+<h2>the Tough Lower Their Stan-</h2>
+<h2>dards</h2>
+<h3>12.1 Perturbation Theory ..............-04,5</h3>
+<h3>12.1.1 General Perturbation Formulas........</h3>
+<h3>12.1.2 The Perturbed Infinite Box ..........</h3>
+<h3>12.2 What Other Tools Do We Have? ...........</h3>
+<p>Part III What Your Professor is Not Telling You About</p>
+<h2>Quantum Mechanics</h2>
+<h2>13 Mathematical Arenas</h2>
+<h3>14 The World Beyond Wave Functions</h3>
+<h3>14.1 The Pilot Wave Formulation..............</h3>
+<hr class="page"><span class="page-n">— Page 18 —</span>
+<h3>14.2 Path Integrals ...............-000005.</h3>
+<h3>14.2.1 The Origin of the Classical Path .......</h3>
+<h3>14.3 Phase Space Quantum Mechanics ..........</h3>
+<h3>14.4 Heisenberg Formulation ................</h3>
+<h3>14.5 Which Formulation Is The Best? ...........</h3>
+<h2>15 What Does It All Mean?</h2>
+<p>16 Get an Understanding of Quantum Mechanics You Can Be</p>
+<h2>Proud Of</h2>
+<h2>One Last Thing</h2>
+<h2>Part IV Appendices</h2>
+<h2>A Taylor Expansion</h2>
+<h2>B_ Fourier Transform</h2>
+<h2>C Delta Distribution</h2>
+<h2>Bibliography</h2>
+<h2>Index</h2>
+<hr class="page"><span class="page-n">— Page 19 —</span>
+<hr class="page"><span class="page-n">— Page 20 —</span>
+<h2>Part I</h2>
+<h3>What Everybody Ought to Know About</h3>
+<h2>Quantum Mechanics</h2>
+<p>&quot;The universe is full of magical things patiently waiting for our wits to</p>
+<p>grow sharper.</p>
+<h2>Eden Phillpotts</h2>
+<p>PS: You can discuss the content of Part I with other readers</p>
+<h2>find exercises to check your</h2>
+<p>understanding and give feedback at www.</p>
+<p>nononsensebooks .</p>
+<p>com/qm/part1.</p>
+<hr class="page"><span class="page-n">— Page 21 —</span>
+<hr class="page"><span class="page-n">— Page 22 —</span>
+<p>Now it’s time to get serious.</p>
+<h3>Our plan for the next chapters is</h3>
+<p>the following:®</p>
+<p>The first chapter in this part of the book is a bird’s-eye view of</p>
+<p>quantum mechanics.</p>
+<p>Our goal is not to understand everything</p>
+<p>immediately but to get an overview as quickly as possible.</p>
+<h2>terward</h2>
+<p>we will discuss all concepts in more detail.</p>
+<h2>We start</h2>
+<p>with a short discussion of the most famous quantum experi-</p>
+<p>ment which is known as the double slit experiment.</p>
+<h2>This exper-</h2>
+<p>iment tells us that we need waves to describe particles.</p>
+<h2>From</h2>
+<h2>this result</h2>
+<p>we can conclude that some fundamental quantities</p>
+<p>allow only a discrete set of values.</p>
+<p>We say they are quantized.</p>
+<p>The results of the double slit experiment additionally indicate</p>
+<p>that there is a fundamental uncertainty in quantum systems.</p>
+<h2>For example</h2>
+<p>it is impossible to measure the momentum and the</p>
+<p>location of a particle at the same time with arbitrary precision.</p>
+<p>Then we start to develop a framework that allows us to describe</p>
+<p>these features of quantum systems in mathematical terms.</p>
+<p>first essential ingredient is a new type of objects</p>
+<p>called &quot;kets&quot;.</p>
+<p>We use kets to describe the system in question.</p>
+<p>In addition, we</p>
+<h2>need operators that yield</h2>
+<h2>for example</h2>
+<h2>the momentum of the</h2>
+<p>system if we act with them on a given ket.</p>
+<h2>The quantum uncer-</h2>
+<p>tainty tells us that we need statistical tools and this observation</p>
+<h3>leads us to another type of objects</h3>
+<h2>called &quot;bras&quot;</h2>
+<h2>which are sim-</h2>
+<p>ply &quot;conjugated&quot; kets.</p>
+<h3>These new objects then also allow us to</h3>
+<p>understand that wave functions are merely a convenient way to</p>
+<p>write down the coefficients which we get if we expand a ket in</p>
+<p>the position basis.</p>
+<h2>Afterward</h2>
+<p>we will use group theory and Noether’s theorem</p>
+<p>to derive the explicit form of the fundamental quantum me-</p>
+<p>chanical operators.</p>
+<p>” The explicit form of the quantum operators</p>
+<p>allows us to derive the two most famous equations of quan-</p>
+<h2>tum mechanics</h2>
+<p>the canonical commutation relation and the</p>
+<p>Schrédinger equation.</p>
+<h3>The former encodes the quantum uncer-</h3>
+<p>tainty while the latter describes how quantum systems evolve in</p>
+<p>time.</p>
+<h2>Using these equations</h2>
+<h3>we can understand that the mea-</h3>
+<p>sured values for basic quantities (e.g.</p>
+<h2>momentum or energy)</h2>
+<h2>CONTENTS 21</h2>
+<p>° Don’t worry if most things heredon’t make sense to you at first</p>
+<p>glance.</p>
+<h2>The only goal in this chapter</h2>
+<h3>is to give you a general idea of what</h3>
+<p>we will do in this first part.</p>
+<h2>We will</h2>
+<h3>discuss all the concepts mentioned</h3>
+<h3>here in detail in the following</h3>
+<p>sections.</p>
+<h3>7 Group theory is the part of math-</h3>
+<h3>ematics that allows us to describe</h3>
+<p>symmetries.</p>
+<hr class="page"><span class="page-n">— Page 23 —</span>
+<h3>22 NO-NONSENSE QUANTUM MECHANICS</h3>
+<p>equate to the eigenvalues of the corresponding quantum op-</p>
+<p>erators.</p>
+<p>After a short general discussion of operators and their</p>
+<h2>eigenvalues</h2>
+<p>we will move on to another crucial physical quan-</p>
+<p>tity: angular momentum.</p>
+<p>In quantum mechanics, there are two</p>
+<p>kinds of angular momentum.</p>
+<h3>One kind encodes orbital angular</h3>
+<h2>momentum</h2>
+<p>which describes how two objects revolve around</p>
+<p>each other.</p>
+<h3>The second kind describes spin</h3>
+<h2>which a unique</h2>
+<p>quantum mechanical concept akin to internal angular momen-</p>
+<p>tum.</p>
+<h3>In the final chapter of this part</h3>
+<h2>we discuss the connection</h2>
+<p>between classical mechanics and quantum mechanics.</p>
+<p>The following diagram is our travel guide.</p>
+<h2>Whenever you feel</h2>
+<p>lost, come back here.</p>
+<p>It is not necessary to study it in detail at</p>
+<p>the moment —a short look will suffice for now.</p>
+<h2>Double Slit Experiment</h2>
+<h2>|</h2>
+<h2>Quantum Waves</h2>
+<h2>——</h2>
+<p>Quantization Statistical Tools Quantum Uncertainty</p>
+<h2>Oe Y</h2>
+<h2>The Quantum Framework</h2>
+<h2>~</h2>
+<h3>Group Theory + Noether’s Theorem</h3>
+<h2>Y s</h2>
+<h3>Wave Functions Quantum Operators</h3>
+<h2>oo Eigenvalues</h2>
+<h2>Y</h2>
+<p>Schrédinger Equation &lt;———&gt; Time Evolution Quantum Numbers</p>
+<h2>Classical Limit |</h2>
+<h3>Newton’s Second Law Angular Momentum</h3>
+<h2>Spin</h2>
+<hr class="page"><span class="page-n">— Page 24 —</span>
+<h2>CONTENTS</h2>
+<h2>The next chapter</h2>
+<h2>as promised above</h2>
+<h2>is a whirlwind tour of</h2>
+<p>quantum mechanics.</p>
+<p>We will talk about all fundamentally im-</p>
+<p>portant concepts in just a few pages.</p>
+<p>It will be quite a ride.</p>
+<h2>please</h2>
+<h2>get another cup of coffee</h2>
+<h2>take a deep breath and then</h2>
+<p>let’s dive in.</p>
+<hr class="page"><span class="page-n">— Page 25 —</span>
+<hr class="page"><span class="page-n">— Page 26 —</span>
+<h2>Bird’s-Eye View of Quantum</h2>
+<h2>Mechanics</h2>
+<h2>As mentioned in the preface</h2>
+<h3>quantum mechanics is quite sim-</h3>
+<p>ple at its heart.</p>
+<h2>Certain applications</h2>
+<h2>however</h2>
+<h2>can be extremely</h2>
+<p>difficult and complicated.</p>
+<h3>For this reason it’s easy to lose the</h3>
+<p>forest for the trees.</p>
+<h2>To prevent this</h2>
+<h2>we will start by putting</h2>
+<p>all fundamental concepts into context.</p>
+<p>Afterward, we will talk</p>
+<p>about the various concepts in more detail and gradually refine</p>
+<p>our understanding until we are ready for real-world applica-</p>
+<p>tions.</p>
+<p>Let’s start with a really broad categorization.</p>
+<p>There are three kinds of puzzle pieces that we need to master to</p>
+<p>develop a proper understanding of quantum mechanics</p>
+<p>Concepts (e.g.</p>
+<h2>state vectors</h2>
+<h2>operators</h2>
+<p>wave functions).</p>
+<p>Equations (e.g.</p>
+<h2>Schrödinger’s equation</h2>
+<h2>canonical commuta-</h2>
+<p>tion relations).</p>
+<p>Tools (e.g.</p>
+<h2>eigenfunctions</h2>
+<h2>eigenvalues</h2>
+<p>expectation values).</p>
+<hr class="page"><span class="page-n">— Page 27 —</span>
+<h3>26 NO-NONSENSE QUANTUM MECHANICS</h3>
+<h3>* We will discuss specific systems in</h3>
+<p>Part II.</p>
+<h3>Examples of measurable quantities</h3>
+<p>are: momentum p, energy E, and</p>
+<p>angular momentum L.</p>
+<h3>3 For example, p_x yields the momen-</h3>
+<h3>tum in the x-direction and z yields</h3>
+<p>the position on the z-axis.</p>
+<h2>There are</h2>
+<h2>of course</h2>
+<h3>many other concepts that are commonly</h3>
+<p>discussed in introductory quantum mechanics courses.</p>
+<h2>How-</h2>
+<p>ever, these are only important if we want to describe specific</p>
+<p>systems and not if we only want to understand the general</p>
+<p>structure of the theory.</p>
+<h2>Therefore</h2>
+<h2>in this overview chapter</h2>
+<h2>we focus solely on the fun-</h2>
+<p>damental concepts, tools, and equations.</p>
+<h2>Don’t worry if not</h2>
+<p>everything is immediately clear.</p>
+<h2>Our goal is only to get an</h2>
+<p>overview and each idea mentioned in this chapter will be dis-</p>
+<p>cussed in more detail later in the book.</p>
+<p>First, let’s talk about the various concepts that we need to de-</p>
+<p>scribe quantum mechanics.</p>
+<h2>In quantum mechanics</h2>
+<p>we describe a given system using a state</p>
+<p>vector |ψ⟩.</p>
+<p>Such a state vector is commonly called a ket.</p>
+<h2>In our quantum framework</h2>
+<h2>quantities we can measure are</h2>
+<p>represented by quantum operators Ô.</p>
+<h2>² This fact is encoded in</h2>
+<h3>canonical commutation relations like</h3>
+<p>Here, p_i denotes the momentum operator in the i-direction and</p>
+<p>q_j denotes the position operator in the j-direction.</p>
+<h2>³ The most</h2>
+<p>important point is that in quantum mechanics</p>
+<h2>quantities like</h2>
+<p>momentum and position are not represented by mere numbers.</p>
+<p>This is necessarily the case since numbers always commute (e.g.</p>
+<p>3×5-5×3=0).</p>
+<p>We act with these measurement operators on a given state vec-</p>
+<h2>tor and</h2>
+<h2>as a result</h2>
+<h3>obtain the value we would measure in an</h3>
+<p>experiment:</p>
+<p>Ô |ψ_spec⟩ = O_spec |ψ_spec⟩ , (1.</p>
+<p>where Ô is an operator and O_spec is a number.</p>
+<hr class="page"><span class="page-n">— Page 28 —</span>
+<h3>BIRD’S-EYE VIEW OF QUANTUM MECHANICS 27</h3>
+<h2>For example</h2>
+<p>let’s imagine that we have prepared an electron</p>
+<p>such that it has momentum 3.</p>
+<h2>21 kg m/s.</h2>
+<p>In our framework, we de-</p>
+<p>scribe the electron using the ket |3.</p>
+<h2>21 kg m/s⟩.</h2>
+<h2>By acting with the</h2>
+<h3>momentum operator p on our state vector</h3>
+<h2>we get the momen-</h2>
+<h2>tum of the system</h2>
+<p>p|3.</p>
+<h2>21 kg m/s⟩ = (3.</h2>
+<h2>21 kg m/s) |3.</h2>
+<h2>21 kg m/s⟩ (1.</h2>
+<h2>However</h2>
+<p>we only get such a simple result if our system is in an</p>
+<p>eigenstate of the operator in question.</p>
+<p>For each operator, there</p>
+<p>is a specific set of so-called eigenstates.</p>
+<h2>These eigenstates are the</h2>
+<p>basic building blocks of all state vectors that we use to describe</p>
+<p>quantum systems.</p>
+<h2>Formulated more technically</h2>
+<h2>we can use the</h2>
+<p>eigenstates of a given operator as basis vectors for the vector</p>
+<p>space which contains our state vectors.</p>
+<p>A state vector represents an eigenstate of a particular operator</p>
+<p>if measuring the associated quantity always yields the same</p>
+<p>result.</p>
+<h2>⁴ Mathematically</h2>
+<h3>this means that if we act with the op-</h3>
+<h2>erator on an eigenstate</h2>
+<h3>then we simply get the original state</h3>
+<p>vector multiplied by a number and not something more compli-</p>
+<p>cated.</p>
+<p>For example:</p>
+<p>operator × eigenstate = eigenvalue × eigenstate .</p>
+<h2>In contrast</h2>
+<p>our state vector is usually a linear combination of</p>
+<p>eigenstates.</p>
+<h2>For example</h2>
+<h3>we can expand |ψ⟩ in terms of its</h3>
+<h2>eigenstates {|φ_i⟩} as</h2>
+<p>where a_i ∈ ℂ are the probability amplitudes</p>
+<h2>which encode</h2>
+<p>the probability of measuring the corresponding value O_i.</p>
+<p>general relationship between a probability amplitude and the</p>
+<p>corresponding probability is:</p>
+<p>probability to measure O_i = |a_i|².</p>
+<h2>For example</h2>
+<p>the probability of measuring the value O_2 is |a_2|².</p>
+<p>This means that if we prepare our system in the same initial</p>
+<h3>state multiple times and then measure</h3>
+<p>say, the momentum</p>
+<h3>4 This may seem trivial, but in</h3>
+<h3>quantum mechanics it isn’t always</h3>
+<p>the case.</p>
+<h3>5 This is completely analogous to</h3>
+<h3>how we can write a general vector v</h3>
+<h2>in terms of basis vectors</h2>
+<p>v = v_x e_x + v_y e_y + v_z e_z.</p>
+<hr class="page"><span class="page-n">— Page 29 —</span>
+<h3>28 NO-NONSENSE QUANTUM MECHANICS</h3>
+<h3>° Hermitian conjugation means the</h3>
+<h3>combination of complex conjugation</h3>
+<p>and transposition.</p>
+<h2>Hermitian</h2>
+<h3>conjugation is denoted by a dagger</h3>
+<p>†, complex conjugation is indicated</p>
+<p>by a star *, and matrix transposition</p>
+<p>is denoted by a T.</p>
+<h3>7 Here δ_{ij} denotes the Kronecker</h3>
+<p>delta.</p>
+<p>Moreover, take note that we</p>
+<h3>only get the probability amplitudes</h3>
+<h3>if all eigenstates are properly</h3>
+<p>normalized.</p>
+<p>we will not always get the same result.</p>
+<p>Instead, we sometimes</p>
+<p>(with probability |a_i|²) measure the value p_i and sometimes</p>
+<p>other values like p_2.</p>
+<p>To make sense of a system which is not in an eigenstate</p>
+<p>need one additional tool known as conjugated state vectors or</p>
+<p>simply &quot;bras&quot; ⟨ψ|.</p>
+<p>A bra is a Hermitian conjugated ket:⁶</p>
+<h2>Using an eigenstate bra ⟨φ_i|</h2>
+<h3>we can project out the required</h3>
+<p>probability amplitude a_i from any ket directly</p>
+<h2>= Σ_j a_j ⟨φ_i|φ_j⟩</h2>
+<h2>= Σ_j a_j δ_{ij}</h2>
+<p>= a_i.</p>
+<p>This works because eigenstates are usually orthogonal</p>
+<h2>which</h2>
+<p>means that a product like ⟨φ_i|φ_j⟩ yields zero except for i = j.</p>
+<h2>Therefore</h2>
+<p>if we are interested in the probability of measuring a</p>
+<p>value of 3.</p>
+<h2>21 kg m/s for the momentum</h2>
+<h2>we multiply our general</h2>
+<p>ket with the corresponding eigenstate bra</p>
+<p>This tells us that the probability of obtaining such a value is</p>
+<p>|a_{3.</p>
+<p>21}|².</p>
+<h2>Additionally</h2>
+<p>we can use bras to calculate expectation values.</p>
+<p>An expectation value is the arithmetic mean of the values ob-tained from many trials of a given experiment.</p>
+<h2>In our frame-</h2>
+<p>work, we can calculate expectation values by &quot;sandwiching&quot; the</p>
+<p>corresponding operator between a bra and the corresponding</p>
+<hr class="page"><span class="page-n">— Page 30 —</span>
+<h3>BIRD’S-EYE VIEW OF QUANTUM MECHANICS 29</h3>
+<h3>ket which describes the system</h3>
+<p>expectation value = ⟨ψ|O|ψ⟩ .</p>
+<h2>Take note that here</h2>
+<p>we don’t have an eigenstate as a bra but</p>
+<p>instead the bra ⟨ψ| corresponding to the ket |ψ⟩.</p>
+<p>The main idea is that by calculating such a product we get a</p>
+<p>sum over all possible values times the corresponding probabili-</p>
+<p>ties:</p>
+<h2>= Σ a_i^* a_i ⟨o_i|O|o_i⟩</h2>
+<h2>= Σ |a_i|^2 o_i</h2>
+<h2>= Σ |a_i|^2 o_i</h2>
+<p>= Σ |a_i|^2 o_i.</p>
+<h2>In words</h2>
+<p>this means that we multiply each possible outcome</p>
+<h2>&gt; α_i and β_i are numbers</h2>
+<h3>&gt; the operator O acts on |o_i⟩</h3>
+<h2>&gt; o_i is a number</h2>
+<h2>&gt; ⟨o_j|o_i⟩ = δ_ij</h2>
+<p>o_i with the probability |a_i|^2 to measure this value and then sum</p>
+<p>over all these terms.</p>
+<p>Formulated differently, calculating the</p>
+<p>expectation value essentially yields a probability-weighted sum</p>
+<p>of all the possible values.</p>
+<h3>The result of such a weighted sum</h3>
+<p>helps us to understand what we will measure on average.</p>
+<p>Another important observation is that for each operator</p>
+<p>get a different set of eigenstates.</p>
+<h2>This means that we can also</h2>
+<p>expand a general state vector in terms of different eigenstates</p>
+<p>|ψ⟩ = Σ a_i |o_i⟩ (1.</p>
+<h3>5 Using the expansion of our general</h3>
+<p>ket in terms of eigenstates (Eq.</p>
+<h3>and the connection between bras</h3>
+<p>and kets (Eq.</p>
+<p>5), we can calcu-</p>
+<h3>late directly the expansion of the</h3>
+<p>corresponding bra:</p>
+<h2>⟨ψ| = (|ψ⟩)^†</h2>
+<h2>= (Σ a_i |o_i⟩)^†</h2>
+<h2>= Σ a_i^* ⟨o_i|</h2>
+<p>= Σ a_i^* ⟨o_i|,</p>
+<h3>where we used that for a number</h3>
+<h3>we have a_i^<em> = a_i^</em> since there are</h3>
+<h3>no rows or columns that could be</h3>
+<p>transposed.</p>
+<h3>6 Take note that for operators which</h3>
+<h2>commute</h2>
+<h2>AB - BA = 0</h2>
+<p>there is a common set of eigenstates.</p>
+<hr class="page"><span class="page-n">— Page 31 —</span>
+<h3>30 NO-NONSENSE QUANTUM MECHANICS</h3>
+<p>In some sense, an integral is</p>
+<h3>simply a sum over a continuous set</h3>
+<p>of values.</p>
+<h3>7 In principle, a vector is a little</h3>
+<p>arrow sitting somewhere in space.</p>
+<h3>Only by using a specific coordinate</h3>
+<h2>system and therefore specific</h2>
+<p>basis vectors like e_x, e_y, e_z, we can</p>
+<h3>describe the vector using concrete</h3>
+<p>numbers v = (3,2,3)^T.</p>
+<h2>Take</h2>
+<h3>note that for a different choice of</h3>
+<h3>coordinate system or a different set</h3>
+<p>of basis vectors (e.g., spherical basis</p>
+<p>vectors), we get different numbers.</p>
+<p>where |o⟩ are the eigenstates corresponding to a different oper-</p>
+<p>ator O.</p>
+<p>The key idea is that if we are interested in</p>
+<h2>for example</h2>
+<h2>momentum of the system</h2>
+<h3>we expand our general state vector</h3>
+<p>in terms of momentum eigenstates.</p>
+<h2>If we are instead interested</h2>
+<h2>in the energy of the system</h2>
+<h3>then we would expand the state</h3>
+<h3>vector in terms of energy eigenstates</h3>
+<p>and so on.</p>
+<h2>The numbers</h2>
+<p>a_i and b_i that we get by expanding a general state vector tell us</p>
+<p>directly the probability to measure a given result.</p>
+<h2>Formulated</h2>
+<h2>differently</h2>
+<p>expanding a general state vector in this manner</p>
+<p>yields coefficients (a_i or b_i) which are directly related to the</p>
+<p>probability of measuring a given value.</p>
+<p>The set of possible outcomes is not necessarily discrete.</p>
+<h2>In the</h2>
+<p>case of a continuous set of possible outcomes</p>
+<h2>we must replace</h2>
+<p>the sum in Eq.</p>
+<h2>9 with an integral:8</h2>
+<p>|ψ⟩ = ∫ a(o) |o⟩ do .</p>
+<p>Take note that our discrete coefficients a_i are replaced by a func-</p>
+<p>tion a(o).</p>
+<h2>However</h2>
+<p>the basic idea is still the same.</p>
+<h2>For each</h2>
+<h3>possible measurement outcome o</h3>
+<h2>we get a specific probabil-</h2>
+<p>ity amplitude a(o).</p>
+<p>The probability of measuring the value o is</p>
+<p>|a(o)|^2.</p>
+<p>The function ψ(x) that we get by expanding a state vector in</p>
+<h2>terms of position eigenstates</h2>
+<p>|ψ⟩ = ∫ dx ψ(x) |x⟩ (1.</p>
+<p>is usually called the wave function.</p>
+<p>Analogous to how we can describe a given vector v using the</p>
+<p>specific coefficients for some given basis</p>
+<h2>we can use ψ(x) to</h2>
+<p>describe the system.</p>
+<p>The time-evolution of quantum systems is described by the</p>
+<hr class="page"><span class="page-n">— Page 32 —</span>
+<h3>BIRD’S-EYE VIEW OF QUANTUM MECHANICS 31</h3>
+<p>Schrödinger equation:</p>
+<p>iħ ∂_t |ψ(t)⟩ = H |ψ(t)⟩ (1.</p>
+<h2>Formulated differently</h2>
+<p>the Schrödinger equation is the equation</p>
+<p>of motion for our state vectors and equivalently</p>
+<h2>for our wave</h2>
+<h2>functions</h2>
+<h2>iħ ∂_t ψ(x</h2>
+<h2>t) = - (ħ^2 / 2m) ∇^2 ψ(x</h2>
+<h2>t) + V(x) ψ(x</h2>
+<h2>With this equation at hand</h2>
+<h3>the main task in quantum mechan-</h3>
+<p>ics is to solve it for different systems (i.e.</p>
+<h2>different potentials</h2>
+<p>V(x)).</p>
+<h2>As a result</h2>
+<h2>we get wave functions ψ(x</h2>
+<h2>t) which describe</h2>
+<p>the quantum system in question.</p>
+<h2>The square of the absolute</h2>
+<p>value of such a wave function tells us where we can expect to</p>
+<p>find the particle in the system.</p>
+<p>For example:</p>
+<h2>Moreover</h2>
+<p>we can use it to calculate which energy levels are</p>
+<p>possible and which momenta we can expect to measure.</p>
+<h3>10 We will discuss how exactly this</h3>
+<p>works in Part II.</p>
+<h2>After this</h2>
+<h2>almost certainly overwhelming</h2>
+<h2>first glance at what</h2>
+<h3>quantum mechanics is all about</h3>
+<h3>let’s take a step back and talk</h3>
+<p>about these concepts in a bit more detail.</p>
+<hr class="page"><span class="page-n">— Page 33 —</span>
+<hr class="page"><span class="page-n">— Page 34 —</span>
+<h2>Essential Quantum Features</h2>
+<p>The underlying message to take away from this chapter is that</p>
+<p>nature works very differently at small scales than we would</p>
+<p>expect from our everyday experiences.</p>
+<p>We will start with a short discussion of the three most impor-</p>
+<p>tant features of quantum mechanics:</p>
+<h3>1. We need waves to describe particles.</h3>
+<h3>2. Some physical properties are quantized.</h3>
+<h3>3. Quantum systems have an inherent uncertainty.</h3>
+<h2>Afterward</h2>
+<p>we will talk about how we can describe these unin-</p>
+<p>tuitive features using an intuitive physical framework.</p>
+<h3>2.1 The Heart of Quantum Mechanics</h3>
+<p>Richard Feynman once remarked in his lectures that one specific</p>
+<p>experiment &quot;has in it the heart of quantum mechanics.</p>
+<p>In reality, it contains</p>
+<p>the only mystery&quot;.</p>
+<p><em>&lt;/think&gt;</em> Richard Feynman.</p>
+<h2>The Feynman</h2>
+<p>lectures on physics.</p>
+<p>Basic Books,</p>
+<h2>a member of the Perseus Books</h2>
+<p>Group, New York, 2011.</p>
+<h2>ISBN</h2>
+<p>978-0465025015</p>
+<hr class="page"><span class="page-n">— Page 35 —</span>
+<h3>34 NO-NONSENSE QUANTUM MECHANICS</h3>
+<p>The experiment he was referencing is astonishingly straight-</p>
+<p>forward.</p>
+<h3>All we need is a beam of electrons</h3>
+<h2>a wall with two</h2>
+<h2>little slits in it</h2>
+<p>and a screen behind the wall that detects the</p>
+<p>electrons.</p>
+<p>This experimental setup is known as the double slit</p>
+<p>experiment.</p>
+<p>Before we discuss the experiment with actual electrons</p>
+<h2>there</h2>
+<p>are a few preliminary things that we should talk about.</p>
+<p>First, if we shoot a beam of bullets (rather than electrons) to-</p>
+<p>wards a double slit and observe the pattern behind it</p>
+<h2>the re-</h2>
+<p>sult is rather dull:</p>
+<h2>‘bullet</h2>
+<h2>gun</h2>
+<p>Most bullets end up in the middle of the screen and progres-</p>
+<p>sively fewer if we move away from the middle.</p>
+<h2>We can under-</h2>
+<p>stand this pattern by considering the same experiment with just</p>
+<p>one slit:</p>
+<h2>OO siz</h2>
+<h2>bullet</h2>
+<h2>gun</h2>
+<hr class="page"><span class="page-n">— Page 36 —</span>
+<h2>ESSENTIAL QUANTUM FEATURES 35</h2>
+<p>The result of the double-slit experiment is simply a sum of the</p>
+<p>results obtained from each single-slit experiment.</p>
+<p>If we replace the bullet with a wave (e.g.</p>
+<h2>a water or sound</h2>
+<p>wave), the result shown on the observing screen is much more</p>
+<p>interesting:</p>
+<h2>% %</h2>
+<h2>Me Ky</h2>
+<h2>*</h2>
+<h2>SY</h2>
+<h2>% %</h2>
+<h2>Ce</h2>
+<p>o—=))) ,</p>
+<h2>wave generator</h2>
+<h2>interference</h2>
+<h2>pattern</h2>
+<p>The pattern we see on the screen is known as an interference</p>
+<p>pattern.</p>
+<p>This pattern arises because the wave goes through both</p>
+<p>slits and we can imagine that at each slit a new wave originates.</p>
+<h2>Behind the double slit</h2>
+<h3>the new waves propagate and overlap</h3>
+<p>resulting in the interference pattern observed on the screen.</p>
+<p>So, what does all this have to do with quantum mechanics?</p>
+<p>Well, we usually think of particles like electrons as analogous to</p>
+<p>very tiny bullets.</p>
+<h2>Therefore</h2>
+<h3>when we shoot electrons towards</h3>
+<hr class="page"><span class="page-n">— Page 37 —</span>
+<h3>36 NO-NONSENSE QUANTUM MECHANICS</h3>
+<h3>We will talk a bit about how we</h3>
+<h3>possibly can interpret this crazy</h3>
+<p>behavior in Chapter 15.</p>
+<h2>a double slit</h2>
+<p>we would expect results similar to those obtained</p>
+<p>using bullets.</p>
+<p>The crazy thing is that if we perform the double slit experiment</p>
+<h2>with electrons</h2>
+<p>we actually see an interference pattern on the</p>
+<p>screen!</p>
+<h2>0 32</h2>
+<h2>electron</h2>
+<h2>electron gun</h2>
+<h2>interference</h2>
+<h2>pattern</h2>
+<p>While for waves we measure the intensity (the height) of the</p>
+<p>waves, for electrons we count how many of them end up at each</p>
+<p>particular point on the screen.</p>
+<p>We measure discrete events on the screen (&#x27;click, click, click,.</p>
+<p>But if we plot how many electrons ended up at each location</p>
+<p>we see the same pattern that we observe for water waves.</p>
+<p>We can also observe the same behavior for light.</p>
+<h2>Since the</h2>
+<p>concept of electromagnetic waves is somewhat familiar</p>
+<h2>this</h2>
+<p>is maybe not so surprising.</p>
+<h2>However</h2>
+<p>the crucial point is that if we shoot a tiny amount</p>
+<h2>of light onto a double slit</h2>
+<h2>we observe discretized</h2>
+<h2>particle-</h2>
+<p>like &quot;packets&quot; of light on the screen.</p>
+<p>These light particles, or</p>
+<h2>photons</h2>
+<p>are particles precisely in the same sense as electrons.</p>
+<p>Physicists have experimentally observed this behavior</p>
+<h2>although</h2>
+<p>we still struggle to understand it.</p>
+<p>There is no problem, how-</p>
+<p>ever, in describing the phenomenon and this is what quantum</p>
+<p>mechanics is primarily about.</p>
+<h2>ESSENTIAL QUANTUM FEATURES 37</h2>
+<p>So the bottom line is:³</p>
+<p>While electrons as well as other elementary particles</p>
+<h2>are discrete objects</h2>
+<p>we need waves to describe them.</p>
+<h2>Before we move on</h2>
+<p>I want to warn you about one thing.</p>
+<h2>Many</h2>
+<p>textbooks include much discussion of things like the mysterious</p>
+<p>wave-particle duality.</p>
+<h3>Many people unfamiliar with quantum</h3>
+<p>mechanics may wonder how an electron could be a particle and</p>
+<p>a wave at the same time.</p>
+<p>Please ignore this kind of idle speculation.</p>
+<h2>The situation is not</h2>
+<p>as crazy as some would lead you to believe.</p>
+<p>Electrons, photons,</p>
+<p>and all other elementary particles are particles.</p>
+<p>Period.</p>
+<h2>This is</h2>
+<p>what every experiment tells us.</p>
+<p>Our detectors make &quot;click, click,</p>
+<p>click&quot;.</p>
+<p>Waves are merely one convenient mathematical tool for describing</p>
+<p>the behavior of these particles.</p>
+<h3>⁴ Since most people have experi-</h3>
+<h2>ence with waves</h2>
+<p>using them as a mathematical tool allows us to</p>
+<p>develop some intuition for the behavior of quantum systems.</p>
+<h2>However</h2>
+<p>this wave description is only a mathematical tool.</p>
+<p>is also possible to describe everything in quantum mechanics</p>
+<p>completely without using waves at all.</p>
+<p>⁵ So please, don’t let</p>
+<p>yourself get confused by such discussions.</p>
+<p>In the following two sections we will talk about the two most</p>
+<p>important features of quantum mechanics.</p>
+<h2>We can directly</h2>
+<p>understand both when we use waves to describe particles.</p>
+<p>³ This is not 100% correct.</p>
+<h2>Waves</h2>
+<h3>are the simplest way to get a first</h3>
+<h3>grasp on what quantum mechanics</h3>
+<p>is all about.</p>
+<h2>We will discuss in</h2>
+<p>Section 12.</p>
+<h2>2 how we can describe</h2>
+<p>quantum behaviour without waves.</p>
+<h3>⁴ These waves were historically</h3>
+<p>called &quot;matter waves&quot;, a term</p>
+<h3>introduced by French physicist</h3>
+<p>Louis de Broglie.</p>
+<h3>⁵ We will talk about this in detail in</h3>
+<p>Chapter 14.</p>
+<h3>38 NO-NONSENSE QUANTUM MECHANICS</h3>
+<h2>2. {ee</h2>
+<h2>cf gee</h2>
+<h2>ise</h2>
+<h2>“3e0°</h2>
+<h2>C</h2>
+<h2>43e</h2>
+<h3>7 A special type of speculative</h3>
+<h3>models known as “grand unified</h3>
+<h3>theories&quot; has been suggested as a</h3>
+<p>solution to this conundrum.</p>
+<h2>8 Something like is a huge</h2>
+<p>number:</p>
+<h2>2.2 What Does &quot;Quantum&quot; Mean?</h2>
+<h2>In classical mechanics</h2>
+<h3>we can measure for basic quantities</h3>
+<p>like energy or angular momentum any value we can imagine.</p>
+<p>This is not always the case for quantum mechanical systems.</p>
+<h2>many quantum systems</h2>
+<h3>basic quantities only arise in discrete</h3>
+<p>chunks, or quanta.</p>
+<h2>As such</h2>
+<h3>we say that these properties are</h3>
+<p>quantized.</p>
+<p>A famous example is electric charge.</p>
+<h2>Any measurement of</h2>
+<p>electric charge yields an integer multiple of the basic charge</p>
+<p>where is an integer and is the absolute value of the charge</p>
+<p>of an electron.</p>
+<h2>⁸ In particular</h2>
+<h2>this means that a measurement</h2>
+<p>of electric charge of some object in nature possibly yields</p>
+<p>or , but never something like or .</p>
+<p>In this sense,</p>
+<p>electric charge is quantized.</p>
+<h3>Why this happens is a different</h3>
+<h2>question and</h2>
+<h2>unfortunately</h2>
+<p>we don’t know the answer yet.</p>
+<p>But this is what makes quantum mechanics so interesting.</p>
+<h2>There</h2>
+<p>are still lots of fundamental things we do not understand.</p>
+<p>No theoretical physicist predicted the quantization of electric</p>
+<p>charge.</p>
+<p>It was also not immediately discovered when physicists</p>
+<p>were developing electrodynamics because the charges of macro-</p>
+<p>scopic objects (e.g.</p>
+<p>a metal sphere) are typically on the order of</p>
+<p>Compared to the charge of a single electron</p>
+<p>these macroscopic objects have a huge amount of charge.</p>
+<h2>As a result</h2>
+<p>it seems as if we can produce spheres with arbitrary</p>
+<p>charges.</p>
+<p>This is an illusion.</p>
+<h3>If we measure the electric charge</h3>
+<h2>of a macroscopic object very</h2>
+<h2>very precisely</h2>
+<h2>we notice that even</h2>
+<p>such macroscopic charges are integer multiples of</p>
+<h2>ESSENTIAL QUANTUM FEATURES 39</h2>
+<p>The fundamentally discrete chunks of electric charge are tiny</p>
+<p>compared to the charges of macroscopic objects.</p>
+<h2>When we</h2>
+<h2>change the charge of a sphere</h2>
+<h3>we get a discrete sequence like</h3>
+<p>If we are only concerned with the first four digits</p>
+<h2>we can con-</h2>
+<p>clude that we can produce any value of the charge that we like.</p>
+<p>It’s only when we measure the charge extremely precisely that</p>
+<p>we notice that changes occur in discrete steps.</p>
+<p>The same thing also happens for other fundamental physical</p>
+<p>quantities.</p>
+<h2>In many quantum systems</h2>
+<h2>we can no longer mea-</h2>
+<p>sure any arbitrary value for the energy or angular momentum.</p>
+<h2>Instead</h2>
+<p>they only appear in discrete chunks and are therefore</p>
+<p>quantized.</p>
+<p>A famous example of quantization can be found in the discrete</p>
+<p>energy levels populated by the electrons in an atom.</p>
+<h2>Nothing</h2>
+<p>in classical electrodynamics tells us otherwise.</p>
+<h2>In quantum</h2>
+<h2>mechanics</h2>
+<h2>however</h2>
+<p>only a discrete set of energy levels is al-</p>
+<p>lowed.</p>
+<p>We can observe this by measuring the radiation emitted</p>
+<p>whenever an electron jumps from one energy level to a lower</p>
+<p>one.</p>
+<p>The energy of the radiation is precisely the energy differ-</p>
+<p>ence between the energy levels.</p>
+<h3>The energy of the electron does</h3>
+<p>not change continuously from one value to another.</p>
+<p>Instead,</p>
+<p>it jumps directly.</p>
+<p>This is where the notion of quantum jumps</p>
+<p>comes from.</p>
+<p>Okay, what does all this have to do with the fact that we need</p>
+<p>waves to describe particles?</p>
+<h3>⁹ We can understand this quantiza-</h3>
+<h3>tion since when we charge a sphere</h3>
+<p>we add or remove electrons from it.</p>
+<h3>Each additional electron contributes</h3>
+<p>an additional charge .</p>
+<h2>This is why</h2>
+<p>we have discrete steps.</p>
+<p>However,</p>
+<p>a mystery is why, for example,</p>
+<h3>protons do not have some random</h3>
+<p>value of the charge, but exactly the</p>
+<p>charge .</p>
+<h3>¹⁰ In speculative theories like loop</h3>
+<p>quantum gravity, even space and</p>
+<p>time are quantized.</p>
+<h3>40 NO-NONSENSE QUANTUM MECHANICS</h3>
+<h3>¹¹ We will discuss this example in</h3>
+<p>detail in Chapter 7.</p>
+<h3>¹² This is a result of the boundary</h3>
+<h3>conditions imposed by the box and</h3>
+<h3>is completely analogous to what</h3>
+<h3>we have discussed for the rope</h3>
+<p>example.</p>
+<p>Well, waves naturally quantize physical properties!</p>
+<h2>To understand this</h2>
+<p>let’s consider a rope which we hold under</p>
+<p>constant tension:</p>
+<p>No matter how the two hands try to make the rope vibrate</p>
+<p>rope will only vibrate with a quantized set of modes.</p>
+<h2>The two</h2>
+<p>hands fix the rope at both ends.</p>
+<p>As a result of this constraint,</p>
+<p>the rope can only vibrate with fixed modes.</p>
+<p>It is physically impossible to make the rope vibrate with a mode</p>
+<p>outside of this fixed set.</p>
+<h2>Gb f RE</h2>
+<p>The same thing also happens when we describe particles using</p>
+<p>waves.</p>
+<h2>For example</h2>
+<p>let’s consider an electron confined in a</p>
+<p>box.</p>
+<p>If we describe the electron using a wave</p>
+<h2>we notice that only</h2>
+<h3>very particular wave shapes are allowed</h3>
+<h2>ESSENTIAL QUANTUM FEATURES 41</h2>
+<h2>n=d</h2>
+<h2>n=2</h2>
+<h2>n-=14</h2>
+<p>The frequency of the wave associated with a given particle is</p>
+<p>directly related to its energy as¹³ ¹³ We will discuss the origin of this</p>
+<p>formula later.</p>
+<p>For the moment,</p>
+<h3>we are only interested in the basic</h3>
+<h3>message and want to build some</h3>
+<p>intuition.</p>
+</main>
+<footer><a href="../../index.html">← 返回书架</a></footer>
+</body></html>

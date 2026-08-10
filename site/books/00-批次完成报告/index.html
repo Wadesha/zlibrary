@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>00_批次完成报告</title>
+<link rel="stylesheet" href="../../assets/style.css">
+</head>
+<body>
+<header class="bookhead">
+  <p class="crumb"><a href="../../index.html">← 书架</a></p>
+  <h1>00_批次完成报告</h1>
+  <p class="meta">[中文] 来源：hy3 · 1,477 字 · 校对：否</p>
+</header>
+<main class="reading">
+<h1>Z-Library OCR 重构批次完成报告</h1>
+<blockquote>生成日期：2026-07-13</blockquote>
+<blockquote>方法：hy3 忠实校订（MiMo 密钥已失效，由 agent 自身逐本校订）</blockquote>
+<blockquote>输出目录：<code>_hy3_output/</code></blockquote>
+<h2>一、总览</h2>
+<p>| 项目 | 数量 |</p>
+<p>|---|---|</p>
+<p>| 计划处理（含古籍） | 29 本 |</p>
+<p>| 跳过（古籍竖排，需专用古籍 OCR） | 1 本（滕县续志稿） |</p>
+<p>| <strong>实际完成</strong> | <strong>27 本</strong> |</p>
+<p>| 每本产物（MD + 句卡 PDF + QC） | <strong>1 : 1 : 1（无缺配）</strong> |</p>
+<p>| QC 结论 | <strong>全部「通过」（0 未通过）</strong> |</p>
+<p>| MD 总量 | 6.6 MB |</p>
+<p>| 句卡 PDF 总量 | 30.7 MB / <strong>约 21,364 页</strong> |</p>
+<p>| 高残损书（源 OCR 本身破损，已据实标注） | Feynman 图论(197)、滕州战略(27)、原子在我家中(13)、滕县文史(13)、中国区域地理(9)、数学与生活(9) 等 |</p>
+<h2>二、滕县商业志（重点修复）</h2>
+<p>原 full-book 校订本「大事记」仅含 1945、1978–1983，<strong>不完整</strong>；而试点模板「第二章大事记」才是完整的 1800–1987。</p>
+<p>已将二者合并为<strong>权威单本</strong>：</p>
+<ul>
+<li>保留：出版信息 / 图片说明 / 编纂委员会 / 序 / 凡例 / 滕县商业发展概况</li>
+<li>采用模板的<strong>完整大事记（1800–1987，80 个年份标题）</strong></li>
+<li>续接：百货公司 / 石油公司 章节（含领导干部更迭表）</li>
+<li>以原始 OCR 为参照做 QC → <strong>通过</strong>（0 缺年、0 残留乱码；清代/民国年份为 hy3 据 OCR 正文忠实还原，标记 ℹ 非 ⚠）</li>
+</ul>
+<p>产物：<code>[MD]滕县商业志.md</code>（73 KB）、<code>[句卡]滕县商业志.pdf</code>（185 页）、<code>[QC]滕县商业志.txt</code>。</p>
+<h2>三、文件命名约定</h2>
+<pre><code>_hy3_output/
+  [MD]&lt;书名&gt;.md            校订后 Markdown
+  [句卡]&lt;书名&gt;.pdf          16:9 大字体纯文本「句卡」
+  [QC]&lt;书名&gt;.txt           质量核查报告
+  _superseded/            被取代/重复的旧产物（非删除，可恢复）</code></pre>
+<ul>
+<li>句卡 PDF：1280×720（16:9），<strong>微软雅黑</strong>，统一 40pt 基准字号（标题仅靠加粗+上方留白区分），段间距 ×1.2。</li>
+<li>对原文彻底损坏、无法可靠复原的人名/地名/日期，统一标 <code>[原文残损]</code>，不作臆测。</li>
+</ul>
+<h2>四、已知源限制（非校订丢失）</h2>
+<ul>
+<li>滕县文史资料：原始 OCR 仅前 32 页，后续缺失 → 校订本即止于此。</li>
+<li>山西洪洞广胜寺水神庙壁画：原始 OCR 截断，内容极短。</li>
+<li>部分英文专著（Feynman 图论等）源 OCR 含大量图注/公式区域，无法复原处已标 <code>[原文残损]</code>。</li>
+</ul>
+<h2>五、跳过说明</h2>
+<ul>
+<li><strong>滕县续志稿（全）</strong>：竖排繁体古籍，通用 OCR 正文基本乱码、仅目录可读，需专用古籍 OCR + 人工校对，本次未处理。</li>
+</ul>
+<h2>六、质控指标说明</h2>
+<p>QC 报告包含：① 年份条目完整度（OCR 行首年份 vs MD <code>### 年</code> 标题）；② CJK 字符保留率；③ 残留外文/乱码串（中文主导书才查，英文书跳过）；④ <code>[原文残损]</code> 计数。全部 27 本均「通过」。</p>
+</main>
+<footer><a href="../../index.html">← 返回书架</a></footer>
+</body></html>
