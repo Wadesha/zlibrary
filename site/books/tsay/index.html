@@ -881,12 +881,12 @@
 <p>For a (standardized) Student-t distribution with v degrees of freedom, we have E(˜ε⁴_t) = 6/(v-4) + 3 if v &gt; 4. Therefore, the excess kurtosis of ˜ε_t is K_˜ε = 6/(v-4) for v &gt; 4. This is part of the reason that we used t in the chapter when the degrees of freedom of t distribution are prespecified. The excess kurtosis of a_t becomes K_a = [6 + (v+1) K_a^(g)] / [v - 4 - K_a^(g)] provided that 1 - 2α₁² (v-1)/(v-4) - (α₁ + β₁)² &gt; 0.</p>
 <h2>APPENDIX A. SOME RATS PROGRAMS FOR ESTIMATING VOLATILITY MODELS</h2>
 <p>The data file used in the illustration is “sp500.dat,” which contains the monthly excess returns of S&amp;P 500 index with 792 observations. Comments in a RATS program start with “*”.</p>
-<p>A. A Gaussian GARCH(1,1) Model with a Constant Mean Equation all 0 792:1 open data sp500.dat data(org=obs) / rt <strong><em> initialize the conditional variance function set h = 0.0 </strong></em> specify the parameters of the model nonlin mu a0 a1 b1 <strong><em> specify the mean equation frml at = rt(t)-mu </strong></em> specify the volatility equation frml gvar = a0+a1<em>at(t-1)</em><em>2+b1</em>h(t-1)</p>
-<p><strong><em> specify the log likelihood function frml garchln = -0.5</em>log(h(t)=gvar(t))-0.5*at(t)</strong>2/h(t)</p>
-<p><strong><em> sample period used in estimation smpl 2 792 </strong></em> initial estimates compute a0 = 0.01, a1 = 0.1, b1 = 0.5, mu = 0.1 maximize(method=bhhh,recursive,iterations=150) garchln set fv = gvar(t)</p>
+<p>A. A Gaussian GARCH(1,1) Model with a Constant Mean Equation all 0 792:1 open data sp500.dat data(org=obs) / rt <em><strong> initialize the conditional variance function set h = 0.0 </strong></em> specify the parameters of the model nonlin mu a0 a1 b1 <em><strong> specify the mean equation frml at = rt(t)-mu </strong></em> specify the volatility equation frml gvar = a0+a1<em>at(t-1)</em><em>2+b1</em>h(t-1)</p>
+<p>**<em> specify the log likelihood function frml garchln = -0.5</em>log(h(t)=gvar(t))-0.5<em>at(t)</em>*2/h(t)</p>
+<p><em><strong> sample period used in estimation smpl 2 792 </strong></em> initial estimates compute a0 = 0.01, a1 = 0.1, b1 = 0.5, mu = 0.1 maximize(method=bhhh,recursive,iterations=150) garchln set fv = gvar(t)</p>
 <p>set resid = at(t)/sqrt(fv(t))</p>
 <p>set residsq = resid(t)*resid(t)</p>
-<p><strong><em> Checking standardized residuals cor(qstats,number=20,span=10) resid </strong></em> Checking squared standardized residuals cor(qstats,number=20,span=10) residsq</p>
+<p><em><strong> Checking standardized residuals cor(qstats,number=20,span=10) resid </strong></em> Checking squared standardized residuals cor(qstats,number=20,span=10) residsq</p>
 <p>B. A GARCH(1,1) Model with Student-t Innovation all 0 792:1 open data sp500.dat data(org=obs) / rt set h = 0.0 nonlin mu a0 a1 b1 v frml at = rt(t)-mu frml gvar = a0+a1<em>at(t-1)</em><em>2+b1</em>h(t-1)</p>
 <p>frml tt = at(t)**2/(h(t)=gvar(t))</p>
 <p>frml tln = %LNGAMMA((v+1)/2.)-%LNGAMMA(v/2.)-0.5*log(v-2.)</p>
