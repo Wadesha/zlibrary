@@ -1,9 +1,11 @@
+🌐 在线阅读（GitHub Pages）：https://wadesha.github.io/zlibrary/
+
 # Z-Library 阅读站
 
 把 Z-Library 书库里的 PDF（扫描版 + 文字版）提取、整理成**纯静态阅读网站**，
 可双击打开，也可一键发布到 GitHub Pages。
 
-- 当前收录：**557 本**（中文 221 / 英文 336）
+- 当前收录：**420 本**（中文 171 / 英文 249）
 - 零运行时依赖：只有 HTML + CSS + 原生 JS
 - 文本版 PDF 直接提取，扫描版 PDF 用 Tesseract + LLM 校对识别
 
@@ -104,9 +106,12 @@ python scripts/build_site.py
 
 ## 发布到 GitHub Pages
 
-1. 把 `Z-Library-Web/` 作为独立仓库（或子目录）推到 GitHub
-2. 在 Actions 里加一步 `python scripts/build_site.py`，或直接提交 `site/`
-3. Settings → Pages → 选择分支与 `/`（或 `/site`）目录
+站点已就绪：`index.html`（仓库根）会自动跳转到 `site/index.html`，裸地址 `https://wadesha.github.io/zlibrary/` 即可访问。
+
+1. 把整个 `Z-Library-Web/` 推到 GitHub（含 `site/` 与根 `index.html`）
+2. 仓库 Settings → Pages → Source 选 **main** 分支、**`/ (root)`** 目录 → Save
+3. 初次部署约 1–2 分钟，之后每次 push 自动更新
+4. 若要改站点内容：本地改 `books/` 后重跑 `python scripts/build_site.py`，再 push
 
 ---
 

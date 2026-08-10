@@ -253,15 +253,22 @@ def main():
             md = fh.read()
         out_dir = os.path.join(config.SITE_BOOKS_DIR, slug)
         os.makedirs(out_dir, exist_ok=True)
-        with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as fh:
-            fh.write(render_book(b, md_to_html(md)))
-        ok += 1
+        try:
+            with open(os.path.join(out_dir, "index.html"), "w", encoding="utf-8") as fh:
+                fh.write(render_book(b, md_to_html(md)))
+            ok += 1
+        except (PermissionError, OSError) as e:
+            # WPS 云同步可能临时锁住文件，跳过该本继续，避免整站中断
+            print(f"  [跳过] 写入失败（文件被占用）：{slug} — {e}", flush=True)
 
-    # 清理 site/books 下的失效页面
+    # 清理 site/books 下的失效页面（目录不在当前清单里）
     import shutil
     for d in os.listdir(config.SITE_BOOKS_DIR):
         if d not in keep_slugs:
-            shutil.rmtree(os.path.join(config.SITE_BOOKS_DIR, d))
+            try:
+                shutil.rmtree(os.path.join(config.SITE_BOOKS_DIR, d))
+            except (PermissionError, OSError):
+                pass  # WPS 占用则下次构建再清
 
     print(f"站点生成完成：索引 1 页 + 阅读页 {ok} 页", flush=True)
     print(f"输出目录：{config.SITE_DIR}", flush=True)
