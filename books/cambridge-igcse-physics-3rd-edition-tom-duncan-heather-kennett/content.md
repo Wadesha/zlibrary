@@ -1,34 +1,34 @@
-## Cambridge
+# Cambridge
 
-## Ne
+Ne
 
-## or
+or
 
-## IGCSE®
+IGCSE®
 
-## Physics
+# Physics
 
-## Third Edition
+# Third Edition
 
 9781444176421_FM_00.
 
 indd 1 20/06/14 7:29 AM
 
-### This page intentionally left blank
+# This page intentionally left blank
 
-## N Cambridge
+# N Cambridge
 
-## IGCSE®
+IGCSE®
 
-## Physics
+# Physics
 
-## Third Edition
+# Third Edition
 
-## Tom Duncan
+# Tom Duncan
 
-## and Heather Kennett
+and Heather Kennett
 
-## iiiiii
+iiiiii
 
 9781444176421_FM_00.
 
@@ -40,7 +40,7 @@ The questions, example answers, marks
 
 awarded and/or comments that appear in this book/CD were written by the authors.
 
-## In examination the way marks
+# In examination the way marks
 
 would be awarded to answers like these may be different.
 
@@ -52,11 +52,11 @@ question papers which are contained in this publication.
 
 Although every effort has been made to ensure that website addresses are correct at time of going to press
 
-## Hodder
+# Hodder
 
 Education cannot be held responsible for the content of any website mentioned in this book.
 
-## It is sometimes possible to
+# It is sometimes possible to
 
 find a relocated web page by typing in the address of the home page for a website in the URL window of your browser.
 
@@ -70,13 +70,13 @@ The logging and manufacturing processes are expected to conform to the environme
 
 of the country of origin.
 
-## Orders
+# Orders
 
-## please contact Bookpoint Ltd
+please contact Bookpoint Ltd
 
-## 130 Milton Park
+130 Milton Park
 
-## Abingdon
+# Abingdon
 
 Oxon OX14 4SB.
 
@@ -94,29 +94,29 @@ with a 24-hour message answering service.
 
 hoddereducation.
 
-## Hodder Education
+# Hodder Education
 
-## an Hachette UK Company
+an Hachette UK Company
 
-## 338 Euston Road
+338 Euston Road
 
-## London NW1 3BH
+# London NW1 3BH
 
-### This third edition published 2014
+# This third edition published 2014
 
-## Impression number 5 4 3 2 1
+# Impression number 5 4 3 2 1
 
-## Year 2018 2017 2016 2015 2014
+# Year 2018 2017 2016 2015 2014
 
 no part of this publication may be reproduced
 
 or transmitted in any form or by any means
 
-## electronic or mechanical
+electronic or mechanical
 
-### including photocopying and recording
+including photocopying and recording
 
-## or held
+or held
 
 within any information storage and retrieval system
 
@@ -124,9 +124,9 @@ without permission in writing from the publisher or under licence
 
 Further details of such licences (for reprographic reproduction) may be
 
-## Saffron House
+# Saffron House
 
-## 6–10 Kirby Street
+6–10 Kirby Street
 
 London EC1N 8TS.
 
@@ -150,177 +150,177 @@ A catalogue record for this title is available from the British Library
 
 indd 4 20/06/14 7:29 AM
 
-## Contents
+# Contents
 
-## Preface vii
+# Preface vii
 
-## Physics and technology viii
+# Physics and technology viii
 
-## Scientific enquiry x
+# Scientific enquiry x
 
-## Section 1 General physics
+# Section 1 General physics
 
-## Measurements and motion
+# Measurements and motion
 
-## 1 Measurements 2
+1 Measurements 2
 
-### 2 Speed, velocity and acceleration 9
+2 Speed, velocity and acceleration 9
 
-## 3 Graphs of equations 13
+3 Graphs of equations 13
 
-## 4 Falling bodies 17
+4 Falling bodies 17
 
-## 5 Density 21
+5 Density 21
 
-## Forces and momentum
+# Forces and momentum
 
-## 6 Weight and stretching 24
+6 Weight and stretching 24
 
-## 7 Adding forces 27
+7 Adding forces 27
 
-## 8 Force and acceleration 30
+8 Force and acceleration 30
 
-## 9 Circular motion 35
+9 Circular motion 35
 
-## 10 Moments and levers 39
+10 Moments and levers 39
 
-## 11 Centres of mass 43
+11 Centres of mass 43
 
-## 12 Momentum 47
+12 Momentum 47
 
 Energy, work, power and pressure
 
-## 13 Energy transfer 50
+13 Energy transfer 50
 
-### 14 Kinetic and potential energy 56
+14 Kinetic and potential energy 56
 
-## 15 Energy sources 60
+15 Energy sources 60
 
-### 16 Pressure and liquid pressure 66
+16 Pressure and liquid pressure 66
 
-## Section 2 Thermal physics
+# Section 2 Thermal physics
 
 Simple kinetic molecular model of matter
 
-## 17 Molecules 72
+17 Molecules 72
 
-## 18 The gas laws 76
+18 The gas laws 76
 
-### Thermal properties and temperature
+# Thermal properties and temperature
 
-### 19 Expansion of solids, liquids and gases 81
+19 Expansion of solids, liquids and gases 81
 
-## 20 Thermometers 85
+20 Thermometers 85
 
-## 21 Specific heat capacity 88
+21 Specific heat capacity 88
 
-## 22 Specific latent heat 91
+22 Specific latent heat 91
 
-## Thermal processes
+# Thermal processes
 
-### 23 Conduction and convection 97
+23 Conduction and convection 97
 
-## 24 Radiation 102
+24 Radiation 102
 
 9781444176421_FM_00.
 
 indd 5 20/06/14 7:29 AM
 
-## Section 3 Properties of waves
+# Section 3 Properties of waves
 
-## General wave properties
+# General wave properties
 
-## 25 Mechanical waves 106
+25 Mechanical waves 106
 
-## Light
+# Light
 
-## 26 Light rays 113
+26 Light rays 113
 
-## 27 Reflection of light 116
+27 Reflection of light 116
 
-## 28 Plane mirrors 119
+28 Plane mirrors 119
 
-## 29 Refraction of light 122
+29 Refraction of light 122
 
-### 30 Total internal reflection 126
+30 Total internal reflection 126
 
-## 31 Lenses 129
+31 Lenses 129
 
-### 32 Electromagnetic radiation 135
+32 Electromagnetic radiation 135
 
-## Sound
+# Sound
 
-## 33 Sound waves 140
+33 Sound waves 140
 
-### Section 4 Electricity and magnetism
+# Section 4 Electricity and magnetism
 
-## Simple phenomena of magnetism
+# Simple phenomena of magnetism
 
-## 34 Magnetic fields 146
+34 Magnetic fields 146
 
-### Electrical quantities and circuits
+# Electrical quantities and circuits
 
-## 35 Static electricity 150
+35 Static electricity 150
 
-## 36 Electric current 157
+36 Electric current 157
 
-## 37 Potential difference 162
+37 Potential difference 162
 
-## 38 Resistance 167
+38 Resistance 167
 
-## 39 Capacitors 174
+39 Capacitors 174
 
-## 40 Electric power 177
+40 Electric power 177
 
-## 41 Electronic systems 185
+41 Electronic systems 185
 
-## 42 Digital electronics 193
+42 Digital electronics 193
 
-## Electromagnetic effects
+# Electromagnetic effects
 
-## 43 Generators 199
+43 Generators 199
 
-## 44 Transformers 204
+44 Transformers 204
 
-## 45 Electromagnets 209
+45 Electromagnets 209
 
-## 46 Electric motors 215
+46 Electric motors 215
 
-## 47 Electric meters 219
+47 Electric meters 219
 
-## 48 Electrons 222
+48 Electrons 222
 
-## Section 5 Atomic physics
+# Section 5 Atomic physics
 
-## 49 Radioactivity 230
+49 Radioactivity 230
 
-## 50 Atomic structure 238
+50 Atomic structure 238
 
-## Revision questions 245
+# Revision questions 245
 
-### Cambridge IGCSE exam questions 251
+# Cambridge IGCSE exam questions 251
 
-## Mathematics for physics 279
+# Mathematics for physics 279
 
-### Further experimental investigations 283
+# Further experimental investigations 283
 
-## Practical test questions 285
+# Practical test questions 285
 
 Alternative to practical test questions 291
 
-## Answers 299
+# Answers 299
 
-## Index 308
+# Index 308
 
-## Photo acknowledgements 315
+# Photo acknowledgements 315
 
-## vi
+vi
 
 9781444176421_FM_00.
 
 indd 6 20/06/14 7:29 AM
 
-## Preface
+# Preface
 
 IGCSE Physics Third Edition aims to provide an The book has been completely restructured to
 
@@ -328,7 +328,7 @@ up-to-date and comprehensive coverage of the Core align chapters and sections wi
 
 and Extended curriculum in Physics specifi ed in IGCSE syllabus.
 
-## A new chapter on momentum has
+# A new chapter on momentum has
 
 the current Cambridge International Examinations been included and the checklists at the end of each
 
@@ -336,11 +336,11 @@ IGCSE syllabus.
 
 chapter are all aligned more closely with the syllabus
 
-## As you read through the book
+# As you read through the book
 
 you will notice four requirements.
 
-### New questions from recent exam
+# New questions from recent exam
 
 sorts of shaded area in the text.
 
@@ -364,15 +364,15 @@ The accompanying Revision CD-ROM provides
 
 Areas highlighted in yellow contain material that invaluable exam preparation and practice.
 
-## Interactive
+# Interactive
 
 is not part of the Cambridge IGCSE syllabus.
 
-## It is tests
+# It is tests
 
-## organised by syllabus topic
+organised by syllabus topic
 
-## cover both the
+cover both the
 
 extension work and will not be examined.
 
@@ -384,19 +384,19 @@ Areas highlighted in blue contain important facts.
 
 Questions are highlighted by a box like this.
 
-## vii
+vii
 
 9781444176421_FM_00.
 
 indd 7 20/06/14 7:29 AM
 
-## Physics and technology
+# Physics and technology
 
 Physicists explore the Universe.
 
 Their investigations energy production and electronics.
 
-## Figure 2 shows
+# Figure 2 shows
 
 range from particles that are smaller than atoms to some examples.
 
@@ -410,7 +410,7 @@ as shown in Figures 1a and 1b.
 
 As well as having to find the facts by observation is given at the end of the book along with suggested
 
-## and experiment
+and experiment
 
 physicists also must try to discover methods for solving physics problems.
 
@@ -418,33 +418,33 @@ the laws that summarise these facts (often as
 
 mathematical equations).
 
-## They then have to
+# They then have to
 
 make sense of the laws by thinking up and testing
 
 theories (thought-models) to explain the laws.
 
-## reward
+reward
 
-### apart from satisfied curiosity
+apart from satisfied curiosity
 
-## is a better
+is a better
 
 understanding of the physical world.
 
-## Engineers
+# Engineers
 
 and technologists use physics to solve practical
 
-### problems for the benefit of people
+problems for the benefit of people
 
-## though
+though
 
-## solving them
+solving them
 
-## social
+social
 
-## environmental and other
+environmental and other
 
 problems may arise.
 
@@ -452,13 +452,13 @@ In this book we will study the behaviour of matter
 
 (the stuff things are made of) and the different kinds
 
-## of energy (such as light
+of energy (such as light
 
 sound, heat
 
 electricity).
 
-## Figure 1a This image
+# Figure 1a This image
 
 produced by a scanning tunnelling microscope
 
@@ -466,15 +466,15 @@ We will also consider the applications of physics in
 
 shows an aggregate of gold just three atoms thick on a graphite
 
-## the home
+the home
 
-## in transport
+in transport
 
-## medicine
+medicine
 
-## research
+research
 
-## industry
+industry
 
 substrate.
 
@@ -486,7 +486,7 @@ of which the fundamental questions in science
 
 i.e. the age and scale of the Universe
 
-## Sun is just one
+# Sun is just one
 
 are grouped in huge galaxies.
 
@@ -498,13 +498,13 @@ possible with ground-based telescopes.
 
 This orbiting telescope is enabling astronomers to tackle one of the most
 
-## viii
+viii
 
 9781444176421_FM_00.
 
 indd 8 20/06/14 7:29 AM
 
-## Physics and technology
+# Physics and technology
 
 Figure 2a The modern technology of laser surgery enables very Figure 2c The manned exploration of space is such an expensive
 
@@ -512,13 +512,13 @@ delicate operations to be performed.
 
 Here the surgeon is removing operation that international co-operation is seen as the way forward.
 
-## This
+# This
 
 thin sheets of tissue from the surface of the patient’s cornea
 
-### in is the International Space Station
+in is the International Space Station
 
-### built module by module in orbit around
+built module by module in orbit around
 
 order to alter its shape and correct severe short-sightedness.
 
@@ -528,11 +528,11 @@ It is operated as a joint venture by the USA and Russia.
 
 Figure 2b Mobile phones provide us with the convenience Figure 2d In the search for alternative energy sources
 
-## ‘wind farms’ of
+‘wind farms’ of
 
 of instant communication wherever we are – but does the 20 to 100 wind turbines have been set up in suitable locations
 
-## such as
+such as
 
 electromagnetic radiation they use pose a hidden risk to our this one in North Wales
 
@@ -542,13 +542,13 @@ health?
 
 local community.
 
-## ix
+ix
 
 9781444176421_FM_00.
 
 indd 9 20/06/14 7:29 AM
 
-## Scientific enquiry
+# Scientific enquiry
 
 During your course you will have to carry out a few A written report of the investigation would normally
 
@@ -568,9 +568,9 @@ Simple experiments may be designed to measure
 
 the smallest division of the scale of each measuring
 
-## for example
+for example
 
-### the temperature of a liquid or the
+the temperature of a liquid or the
 
 device.
 
@@ -578,79 +578,79 @@ For example, the smallest division on a
 
 electric current in a circuit.
 
-## Longer investigations
+# Longer investigations
 
 metre rule is 1 mm.
 
-## The scale of the rule can be
+# The scale of the rule can be
 
 may be designed to establish or verify a relationship
 
 read to the nearest mm.
 
-## So when used to measure
+# So when used to measure
 
 between two or more physical quantities.
 
 a length of 100 mm (0.
 
-## 1 m), the length is measured
+1 m), the length is measured
 
 Investigations may arise from the topic you are
 
-## to the nearest 1 mm
+to the nearest 1 mm
 
-## the degree of accuracy of the
+the degree of accuracy of the
 
-## currently studying in class
+currently studying in class
 
-## or your teacher may
+or your teacher may
 
 measurement being 1 part in 100.
 
-## When used to
+# When used to
 
 provide you with suggestions to choose from
 
-## or you
+or you
 
 measure 10 mm (0.
 
-## 01 m), the degree of accuracy
+01 m), the degree of accuracy
 
 may have your own ideas.
 
-## However an investigation
+# However an investigation
 
 of the measurement is 1 part in 10.
 
-## A thermometer
+# A thermometer
 
-## arises
+arises
 
 it will probably require at least one hour of
 
 is calibrated in degrees Celsius and may be read to
 
-## laboratory time
+laboratory time
 
-## but often longer
+but often longer
 
-## and will involve the
+and will involve the
 
 the nearest 1 °C.
 
-## A temperature may be measured
+# A temperature may be measured
 
 following four aspects.
 
 to the nearest 1 °C.
 
-## So when used to measure a
+# So when used to measure a
 
 1 Planning how you are going to set about finding temperature of 20 °C
 
-## the degree of accuracy is
+the degree of accuracy is
 
 answers to the questions the problem poses.
 
@@ -658,49 +658,49 @@ Making 1 part in 20 (this is 5 parts in 100).
 
 predictions and hypotheses (informed guesses) may l Details of procedures
 
-## observations and
+observations and
 
 help you to focus on what is required at this stage.
 
 measurements made.
 
-## A clearly labelled diagram
+# A clearly labelled diagram
 
 2 Obtaining the necessary experimental data will be helpful here
 
-## any difficulties encountered
+any difficulties encountered
 
 safely and accurately.
 
 You will have to decide or precautions taken to achieve accuracy should be
 
-## what equipment is needed
+what equipment is needed
 
 what observations mentioned.
 
 and measurements have to be made and what l Presentation of results and calculations.
 
-## If several
+# If several
 
 variable quantities need to be manipulated.
 
 Do not measurements of a quantity are made
 
-## draw up a
+draw up a
 
 dismantle the equipment until you have completed table in which to record your results.
 
-## Use the column
+# Use the column
 
 your analysis and you are sure you do not need to headings
 
-## or start of rows
+or start of rows
 
-## to name the measurement
+to name the measurement
 
 repeat any of the measurements!
 
-## and state its unit
+and state its unit
 
 for example ‘Mass of load/kg’.
 
@@ -708,17 +708,17 @@ for example ‘Mass of load/kg’.
 
 that enables any relationships between quantities to record each value in your table
 
-## then calculate an
+then calculate an
 
 be established.
 
 average value.
 
-### Numerical values should be given to
+# Numerical values should be given to
 
 4 Considering and evaluating the evidence by the number of significant figures appropriate to the
 
-## drawing conclusions
+drawing conclusions
 
 assessing the reliability of data measuring device (see Chapter 1).
 
@@ -728,9 +728,9 @@ If you decide to make a graph of your results you
 
 will need at least eight data points taken over as
 
-## large a range as possible
+large a range as possible
 
-## be sure to label each axis
+be sure to label each axis
 
 of a graph with the name and unit of the quantity
 
@@ -740,11 +740,11 @@ l Conclusions which can be drawn from the
 
 evidence.
 
-### These can take the form of a numerical
+# These can take the form of a numerical
 
-## value (and unit)
+value (and unit)
 
-## the statement of a known law
+the statement of a known law
 
 relationship between two quantities or a statement
 
@@ -760,19 +760,19 @@ should include:
 
 (ii) a comment on the reliability of the readings
 
-### Figure 3 Girls from Copthall School
+# Figure 3 Girls from Copthall School
 
-## London
+# London
 
-## with their winning entry
+with their winning entry
 
 especially in relation to the scale of the
 
-## for a contest to investigate
+for a contest to investigate
 
-### design and build the most efficient
+design and build the most efficient
 
-## elegant
+elegant
 
 and cost-effective windmill.
 
@@ -782,17 +782,17 @@ measuring apparatus,
 
 indd 10 20/06/14 7:29 AM
 
-## Ideas and evidence in science
+# Ideas and evidence in science
 
 (iii) a reference to any apparatus that was l●Ideas and evidence in
 
 unsuitable for the experiment,
 
-## science
+science
 
-### (iv) a comment on any graph drawn
+(iv) a comment on any graph drawn
 
-## its shape and
+its shape and
 
 whether the graph points lie on the line
 
@@ -800,9 +800,9 @@ In some of the investigations you perform in the
 
 (v) a comment on any trend in the readings
 
-## school laboratory
+school laboratory
 
-## you may find that you do not
+you may find that you do not
 
 usually shown by the graph,
 
@@ -812,9 +812,9 @@ interpret your data in the same way as your friends
 
 do; perhaps you will argue with them as to the best
 
-## give more reliable results
+give more reliable results
 
-## for example in an
+for example in an
 
 way to explain your results and try to convince them
 
@@ -822,7 +822,7 @@ electrical experiment by using an ammeter
 
 that your interpretation is right.
 
-## Scientific controversy
+# Scientific controversy
 
 with a more appropriate scale.
 
@@ -830,15 +830,15 @@ frequently arises through people interpreting
 
 evidence differently.
 
-## l●Suggestions for
+l●Suggestions for
 
 Observations of the heavens led the ancient Greek
 
 investigations philosophers to believe that the Earth was at the
 
-### centre of the planetary system
+centre of the planetary system
 
-## but a complex system
+but a complex system
 
 Investigations which extend the practical work or of rotation was needed to match observations of the
 
@@ -854,23 +854,23 @@ investigations.
 
 but around the Sun.
 
-### (His book On the Revolutions of
+(His book On the Revolutions of
 
 the Celestial Spheres gave us the modern usage of the
 
-### 1 Pitch of a note from a vibrating wire
+1 Pitch of a note from a vibrating wire
 
 word ‘revolution’.
 
-### ) It took time for his ideas to gain
+) It took time for his ideas to gain
 
 (Chapter 33).
 
 acceptance.
 
-### The careful astronomical observations
+# The careful astronomical observations
 
-### 2 Stretching of a rubber band (Chapter 6 and
+2 Stretching of a rubber band (Chapter 6 and
 
 of planetary motion documented by Tycho Brahe
 
@@ -878,9 +878,9 @@ Further experimental investigations, p.
 
 283).
 
-### were studied by Johannes Kepler
+were studied by Johannes Kepler
 
-## who realised that
+who realised that
 
 3 Stretching of a copper wire – wear safety glasses
 
@@ -890,7 +890,7 @@ the data could be explained if the planets moved
 
 in elliptical paths (not circular) with the Sun at one
 
-### 4 Toppling (Further experimental investigations,
+4 Toppling (Further experimental investigations,
 
 focus.
 
@@ -900,11 +900,11 @@ Galileo’s observations of the moons of Jupiter
 
 with the newly invented telescope led him to support
 
-### 5 Friction – factors affecting (Chapter 7).
+5 Friction – factors affecting (Chapter 7).
 
 this ‘Copernican view’ and to be imprisoned by the
 
-### 6 Energy values from burning fuel
+6 Energy values from burning fuel
 
 e.g. a firelighter
 
@@ -914,25 +914,25 @@ Catholic Church in 1633 for disseminating heretical
 
 views.
 
-## About 50 years later
+# About 50 years later
 
-## Isaac Newton introduced
+# Isaac Newton introduced
 
-### 7 Model wind turbine design (Chapter 15).
+7 Model wind turbine design (Chapter 15).
 
 the idea of gravity and was able to explain the motion
 
-### 8 Speed of a bicycle and its stopping distance
+8 Speed of a bicycle and its stopping distance
 
-## of all bodies
+of all bodies
 
-### whether on Earth or in the heavens
+whether on Earth or in the heavens
 
 (Chapter 14).
 
 which led to full acceptance of the Copernican
 
-### 9 Circular motion using a bung on a string
+9 Circular motion using a bung on a string
 
 model.
 
@@ -942,7 +942,7 @@ Newton’s mechanics were refined further at
 
 the beginning of the 20th century when Einstein
 
-### 10 Heat loss using different insulating materials
+10 Heat loss using different insulating materials
 
 developed his theories of relativity.
 
@@ -952,7 +952,7 @@ Even today, data
 
 from the Hubble Space Telescope is providing new
 
-### 11 Cooling and evaporation (Further experimental
+11 Cooling and evaporation (Further experimental
 
 evidence which confirms Einstein’s ideas.
 
@@ -962,17 +962,17 @@ Many other scientific theories have had to wait
 
 12 Variation of the resistance of a thermistor with
 
-## for new data
+for new data
 
-## technological inventions
+technological inventions
 
-## or time and
+or time and
 
 temperature (Chapter 38).
 
 the right social and intellectual climate for them to
 
-### 13 Variation of the resistance of a wire with
+13 Variation of the resistance of a wire with
 
 become accepted.
 
@@ -980,9 +980,9 @@ In the field of health and medicine,
 
 length (Further experimental investigations
 
-## for example
+for example
 
-### because cancer takes a long time to
+because cancer takes a long time to
 
 284).
 
@@ -992,23 +992,23 @@ develop it was several years before people recognised
 
 that X-rays and radioactive materials could be
 
-### 15 Strength of an electromagnet (Chapter 45).
+15 Strength of an electromagnet (Chapter 45).
 
 dangerous (Chapter 49).
 
-### 16 Efficiency of an electric motor (Chapter 46).
+16 Efficiency of an electric motor (Chapter 46).
 
-## xi
+xi
 
 9781444176421_FM_00.
 
 indd 11 20/06/14 7:29 AM
 
-## ScIentIfIc enquIry
+# ScIentIfIc enquIry
 
 At the beginning of the 20th century scientists reluctant to accept adverse findings
 
-## even if risks are
+even if risks are
 
 were trying to reconcile the wave theory and the made widely known in the press and on television.
 
@@ -1016,9 +1016,9 @@ particle theory of light by means of the new ideas of Although scientists can pr
 
 quantum mechanics.
 
-## evaluation of that evidence
+evaluation of that evidence
 
-## there may still be room
+there may still be room
 
 Today we are collecting evidence on possible for controversy and a reluctance to accept scientific
 
@@ -1030,97 +1030,97 @@ networks.
 
 The cheapness and popularity of mobile economic interests to contend with.
 
-## This is most
+# This is most
 
 phones may make the public and manufacturers clearly shown today in the issue of global warming.
 
-## xii
+xii
 
 9781444176421_FM_00.
 
 indd 12 20/06/14 7:29 AM
 
-## Section General physics
+# Section General physics
 
-### Chapters 8 Force and acceleration
+# Chapters 8 Force and acceleration
 
-## 9 Circular motion
+9 Circular motion
 
-## Measurements and motion
+# Measurements and motion
 
-## 10 Moments and levers
+10 Moments and levers
 
-## 1 Measurements
+1 Measurements
 
-## 11 Centres of mass
+11 Centres of mass
 
-### 2 Speed, velocity and acceleration
+2 Speed, velocity and acceleration
 
-## 12 Momentum
+12 Momentum
 
-## 3 Graphs of equations
+3 Graphs of equations
 
-### 4 Falling bodies Energy, work, power and pressure
+4 Falling bodies Energy, work, power and pressure
 
-## 5 Density 13 Energy transfer
+5 Density 13 Energy transfer
 
-### 14 Kinetic and potential energy
+14 Kinetic and potential energy
 
-## Forces and momentum
+# Forces and momentum
 
-## 15 Energy sources
+15 Energy sources
 
-## 6 Weight and stretching
+6 Weight and stretching
 
-### 16 Pressure and liquid pressure
+16 Pressure and liquid pressure
 
-## 7 Adding forces
+7 Adding forces
 
 9781444176421_Section_01.
 
 indd 1 20/06/14 7:30 AM
 
-## Measurements
+# Measurements
 
-### ● Units and basic quantities ● Mass
+● Units and basic quantities ● Mass
 
-### ● Powers of ten shorthand ● Time
+● Powers of ten shorthand ● Time
 
-## ● Length ● Systematic errors
+● Length ● Systematic errors
 
 ● Significant figures ● Vernier scales and micrometers
 
-## ● Area ● Practical work
+● Area ● Practical work
 
-## Period of a simple pendulum
+# Period of a simple pendulum
 
-## ● Volume
+● Volume
 
 ●●Units and basic 4000 = 4 × 10 × 10 × 10 = 4 × 103
 
-## 400 = 4 × 10 × 10 = 4 × 102
+400 = 4 × 10 × 10 = 4 × 102
 
-## quantities
+quantities
 
-## 40 = 4 × 10 = 4 × 101
+40 = 4 × 10 = 4 × 101
 
-## 4 = 4 × 1 = 4 × 100
+4 = 4 × 1 = 4 × 100
 
-### Before a measurement can be made
+# Before a measurement can be made
 
-## a standard or
+a standard or
 
-## 0.4 = 4/10 = 4/101 = 4 × 10−1
+# 0.4 = 4/10 = 4/101 = 4 × 10−1
 
 unit must be chosen.
 
-### The size of the quantity to be
+# The size of the quantity to be
 
-### 0.04 = 4/100 = 4/102 = 4 × 10−2
+# 0.04 = 4/100 = 4/102 = 4 × 10−2
 
 measured is then found with an instrument having a
 
-### 0.004 = 4/1000 = 4/103 = 4 × 10−3
+# 0.004 = 4/1000 = 4/103 = 4 × 10−3
 
 scale marked in the unit.
 
@@ -1128,7 +1128,7 @@ Three basic quantities we measure in physics are The small figures 1
 
 2, 3, etc.
 
-## are called powers of
+are called powers of
 
 length, mass and time.
 
@@ -1142,7 +1142,7 @@ The SI (Système International has to be multiplied by 10 if the power is greate
 
 d’Unités) system is a set of metric units now used in 0 or divided by 10 if the power is less than 0.
 
-## Note
+# Note
 
 many countries.
 
@@ -1154,7 +1154,7 @@ larger units.
 
 notation.
 
-## ●●Length
+●●Length
 
 The unit of length is the metre (m) and is the
 
@@ -1162,23 +1162,23 @@ distance travelled by light in a vacuum during
 
 a specific time interval.
 
-## At one time it was the
+# At one time it was the
 
 distance between two marks on a certain metal bar.
 
 Submultiples are:
 
-## 1 decimetre (dm) = 10−1 m
+1 decimetre (dm) = 10−1 m
 
-## 1 centimetre (cm) = 10−2 m
+1 centimetre (cm) = 10−2 m
 
-## 1 millimetre (mm) = 10−3 m
+1 millimetre (mm) = 10−3 m
 
-## 1 micrometre (µm) = 10−6 m
+1 micrometre (µm) = 10−6 m
 
-## 1 nanometre (nm) = 10−9 m
+1 nanometre (nm) = 10−9 m
 
-### A multiple for large distances is
+# A multiple for large distances is
 
 Figure 1.
 
@@ -1186,7 +1186,7 @@ Figure 1.
 
 provide the crew with information about the performance of the aircraft.
 
-### 1 kilometre (km) = 103 m (5 mile approx.)
+1 kilometre (km) = 103 m (5 mile approx.)
 
 Many length measurements are made with rulers
 
@@ -1194,11 +1194,11 @@ Many length measurements are made with rulers
 
 The reading is 76 mm or 7.
 
-## 6 cm.
+6 cm.
 
-## Your eye must be
+# Your eye must be
 
-### This is a neat way of writing numbers
+# This is a neat way of writing numbers
 
 especially if they are directly over the mark on the scale or the thickness of
 
@@ -1212,7 +1212,7 @@ the ruler causes a parallax error.
 
 indd 2 20/06/14 7:30 AM
 
-## Area
+# Area
 
 If a number is expressed in standard notation
 
@@ -1222,15 +1222,15 @@ before the power of ten.
 
 For example, 2.
 
-## 73 × 103 has
+73 × 103 has
 
 three significant figures.
 
-## ●●Area
+●●Area
 
-### 70 80 The area of the square in Figure 1.
+70 80 The area of the square in Figure 1.
 
-## 3a with sides 1 cm
+3a with sides 1 cm
 
 long is 1 square centimetre (1 cm2).
 
@@ -1242,27 +1242,27 @@ of 4 × 3 = 12 cm2 since it has the same area as twelve
 
 squares each of area 1 cm2.
 
-## The area of a square or
+# The area of a square or
 
-## rectangle is given by
+rectangle is given by
 
-### object area = length × breadth
+object area = length × breadth
 
 The SI unit of area is the square metre (m2) which is
 
 Figure 1.
 
-### 2 The correct way to measure with a ruler
+2 The correct way to measure with a ruler
 
 the area of a square with sides 1 m long.
 
-## Note that
+# Note that
 
 To obtain an average value for a small distance
 
-## 1 1 1
+1 1 1
 
-## 1cm2 = m × m= m2 =10−4m2
+1cm2 = m × m= m2 =10−4m2
 
 multiples can be measured.
 
@@ -1270,17 +1270,17 @@ For example, in ripple 100 100 10000
 
 tank experiments (Chapter 25) measure the distance
 
-## occupied by five waves
+occupied by five waves
 
-### then divide by 5 to obtain the
+then divide by 5 to obtain the
 
 average wavelength.
 
-## a 1cm
+a 1cm
 
-## ●●Significant figures 1cm
+●●Significant figures 1cm
 
-## 3cm
+3cm
 
 Every measurement of a quantity is an attempt to
 
@@ -1288,11 +1288,11 @@ find its true value and is subject to errors arising from
 
 limitations of the apparatus and the experimenter.
 
-## The number of figures
+# The number of figures
 
-## called significant figures
+called significant figures
 
-## b 4cm
+b 4cm
 
 given for a measurement indicates how accurate we Figure 1.
 
@@ -1304,17 +1304,17 @@ Sometimes we need to know the area of a triangle
 
 For example, a value of 4.
 
-### 5 for a measurement has (Chapter 3).
+5 for a measurement has (Chapter 3).
 
-## It is given by
+# It is given by
 
 two significant figures; 0.
 
 0385 has three significant area of triangle = 1 × base × height
 
-## figures
+figures
 
-### 3 being the most significant and 5 the least
+3 being the most significant and 5 the least
 
 i.e. it is the one we are least sure about since it might For example in Figure 1.
 
@@ -1326,9 +1326,9 @@ by the experimenter because the reading was between 2
 
 two marks on a scale.
 
-## = 1 × 4 cm × 6 cm = 12 cm2
+= 1 × 4 cm × 6 cm = 12 cm2
 
-## and
+and
 
 When doing a calculation your answer should
 
@@ -1344,7 +1344,7 @@ if your calculator gave an answer of 3.
 
 would be written as 3.
 
-## 4 if the measurements had R
+4 if the measurements had R
 
 two significant figures.
 
@@ -1352,9 +1352,9 @@ It would be written as 3.
 
 for three significant figures.
 
-## Note that in deciding
+# Note that in deciding
 
-## 6 cm
+6 cm
 
 the least significant figure you look at the next figure 4 cm
 
@@ -1364,17 +1364,17 @@ If it is less than 5 you leave the least 90°
 
 significant figure as it is (hence 3.
 
-## 41 becomes 3.
+41 becomes 3.
 
-## 4) but
+4) but
 
-## A 4 cm B P S Q
+# A 4 cm B P S Q
 
 if it equals or is greater than 5 you increase the least 5 cm
 
 significant figure by 1 (hence 3.
 
-## 418 becomes 3.
+418 becomes 3.
 
 42).
 
@@ -1384,7 +1384,7 @@ Figure 1.
 
 indd 3 20/06/14 7:31 AM
 
-## 1 MeAsureMents
+1 MeAsureMents
 
 The area of a circle of radius r is πr2 where The volume of a sphere of radius r is 4πr3 and that
 
@@ -1406,7 +1406,7 @@ Volume is the amount of space occupied.
 
 The unit of burette, Figure 1.
 
-## When making a reading both
+# When making a reading both
 
 volume is the cubic metre (m3) but as this is rather vessels must be upright and your eye must be level
 
@@ -1420,21 +1420,21 @@ The volume of a cube with 1 cm edges is meniscus.
 
 The meniscus formed by mercury is curved
 
-## 1 cm3.
+1 cm3.
 
 Note that oppositely to that of other liquids and the top is read.
 
 Liquid volumes are also expressed in litres (l)
 
-## 1 1 1
+1 1 1
 
-## 1cm3 = m × m × m
+1cm3 = m × m × m
 
-### 100 100 100 1 litre = 1000 cm3 = 1 dm3.
+100 100 100 1 litre = 1000 cm3 = 1 dm3.
 
 One millilitre (1 ml) = 1 cm3.
 
-## = m3 = 10−6m3
+= m3 = 10−6m3
 
 1000000
 
@@ -1442,31 +1442,31 @@ For a regularly shaped object such as a rectangular
 
 block, Figure 1.
 
-## 5 shows that
+5 shows that
 
-### volume = length × breadth × height
+volume = length × breadth × height
 
-## meniscus
+meniscus
 
-## 5 cm
+5 cm
 
-## a b
+a b
 
-## 3 cm
+3 cm
 
 Figure 1.
 
 6a A measuring cylinder; b a burette
 
-## ●●Mass
+●●Mass
 
-## 4 cm
+4 cm
 
 The mass of an object is the measure of the amount
 
 of matter in it.
 
-### The unit of mass is the kilogram (kg)
+The unit of mass is the kilogram (kg)
 
 and is the mass of a piece of platinum–iridium alloy
 
@@ -1476,7 +1476,7 @@ gram (g) is one-thousandth of a kilogram.
 
 1g = kg =10–3 kg=0.
 
-## 001kg
+001kg
 
 The term weight is often used when mass is really
 
@@ -1486,7 +1486,7 @@ In science the two ideas are distinct and have
 
 different units, as we shall see later.
 
-## The confusion is
+# The confusion is
 
 not helped by the fact that mass is found on a balance
 
@@ -1494,15 +1494,15 @@ by a process we unfortunately call ‘weighing’!
 
 There are several kinds of balance.
 
-## In the beam
+# In the beam
 
 balance the unknown mass in one pan is balanced
 
 against known masses in the other pan.
 
-## In the lever
+# In the lever
 
-## 3 4 5 cubes
+3 4 5 cubes
 
 Figure 1.
 
@@ -1512,7 +1512,7 @@ Figure 1.
 
 indd 4 20/06/14 7:31 AM
 
-## systematic errors
+systematic errors
 
 it is placed in the pan.
 
@@ -1522,9 +1522,9 @@ from the position on a scale of a pointer joined to
 
 the lever system.
 
-### A digital top-pan balance is shown
+# A digital top-pan balance is shown
 
-## Period of a simple pendulum
+# Period of a simple pendulum
 
 in Figure 1.
 
@@ -1536,9 +1536,9 @@ Attach a small metal ball (called a bob) to a piece of string
 
 suspend it as shown in Figure 1.
 
-## Pull the bob a small distance
+# Pull the bob a small distance
 
-## to one side
+to one side
 
 and then release it so that it oscillates to and fro
 
@@ -1548,19 +1548,19 @@ Find the time for the bob to make several complete oscillations
 
 one oscillation is from A to O to B to O to A (Figure 1.
 
-## Repeat
+# Repeat
 
 the timing a few times for the same number of oscillations
 
 and work out the average.
 
-### The time for one oscillation is the
+# The time for one oscillation is the
 
 period T.
 
 What is it for your system?
 
-## The frequency f of the
+# The frequency f of the
 
 oscillations is the number of complete oscillations per second and
 
@@ -1572,7 +1572,7 @@ How does the amplitude of the oscillations change with time?
 
 Investigate the effect on T of (i) a longer string
 
-## (ii) a heavier
+(ii) a heavier
 
 bob.
 
@@ -1580,21 +1580,21 @@ A motion sensor connected to a datalogger and computer
 
 Figure 1.
 
-## 7 A digital top-pan balance
+7 A digital top-pan balance
 
 (Chapter 2) could be used instead of a stopwatch for these
 
 investigations.
 
-## ●●Time
+●●Time
 
-## metal plates
+metal plates
 
 The unit of time is the second (s) which used to
 
-### be based on the length of a day
+be based on the length of a day
 
-## this being the time
+this being the time
 
 for the Earth to revolve once on its axis.
 
@@ -1612,23 +1612,23 @@ Time-measuring devices rely on some kind of
 
 constantly repeating oscillation.
 
-## In traditional clocks
+# In traditional clocks
 
 and watches a small wheel (the balance wheel)
 
-## oscillates to and fro
+oscillates to and fro
 
-### in digital clocks and watches the
+in digital clocks and watches the
 
 oscillations are produced by a tiny quartz crystal.
 
-## A pendulum
+# A pendulum
 
-## bob
+bob
 
 swinging pendulum controls a pendulum clock.
 
-## B A
+# B A
 
 To measure an interval of time in an experiment
 
@@ -1638,7 +1638,7 @@ the task.
 
 A stopwatch is adequate for finding the Figure 1.
 
-### period in seconds of a pendulum
+period in seconds of a pendulum
 
 see Figure 1.
 
@@ -1646,31 +1646,31 @@ but to measure the speed of sound (Chapter 33)
 
 a clock that can time in milliseconds is needed.
 
-## To ●●Systematic errors
+To ●●Systematic errors
 
-### measure very short time intervals
+measure very short time intervals
 
-## a digital clock that
+a digital clock that
 
 can be triggered to start and stop by an electronic Figure 1.
 
-### 9 shows a part of a rule used to measure the
+9 shows a part of a rule used to measure the
 
-## signal from a microphone
+signal from a microphone
 
 photogate or mechanical height of a point P above the bench.
 
-## The rule chosen
+# The rule chosen
 
 switch is useful.
 
 Tickertape timers or dataloggers are has a space before the zero of the scale.
 
-## This is shown
+# This is shown
 
 often used to record short time intervals in motion as the length x.
 
-### The height of the point P is given
+# The height of the point P is given
 
 experiments (Chapter 2).
 
@@ -1682,15 +1682,15 @@ intervals.
 
 Several oscillations (rather than just one) are
 
-## height = scale reading + x
+height = scale reading + x
 
 timed to find the period of a pendulum.
 
-## ‘Tenticks’
+‘Tenticks’
 
 height = 5.
 
-## 9 + x
+9 + x
 
 (rather than ‘ticks’) are used in tickertape timers.
 
@@ -1698,13 +1698,13 @@ height = 5.
 
 indd 5 20/06/14 7:31 AM
 
-## 1 MeAsureMents
+1 MeAsureMents
 
-## a) Vernier scale
+a) Vernier scale
 
 The calipers shown in Figure 1.
 
-## 10 use a vernier
+10 use a vernier
 
 scale.
 
@@ -1712,25 +1712,25 @@ The simplest type enables a length to be
 
 P• measured to 0.
 
-## 01 cm.
+01 cm.
 
-### It is a small sliding scale which
+# It is a small sliding scale which
 
 is 9 mm long but divided into 10 equal divisions
 
 (Figure 1.
 
-## 11a) so
+11a) so
 
-## 1 vernier division = mm
-
-= 0.
-
-## 9 mm
+1 vernier division = mm
 
 = 0.
 
-## 09 cm
+9 mm
+
+= 0.
+
+09 cm
 
 One end of the length to be measured is made to
 
@@ -1740,15 +1740,15 @@ the other end with the zero of the vernier scale.
 
 The length of the object in Figure 1.
 
-## 11b is between
+11b is between
 
-## bench
+bench
 
-## 3 cm and 1.
+3 cm and 1.
 
-## 4 cm.
+4 cm.
 
-### The reading to the second place
+# The reading to the second place
 
 Figure 1.
 
@@ -1760,97 +1760,97 @@ By itself the scale reading is not equal to the height.
 
 the millimetre scale.
 
-### In this case it is the 6th mark
+# In this case it is the 6th mark
 
 It is too small by the value of x.
 
 and the length is 1.
 
-## 36 cm, since
+36 cm, since
 
 This type of error is known as a systematic error.
 
 The error is introduced by the system.
 
-## A half-metre OA = OB – AB
+A half-metre OA = OB – AB
 
 rule has the zero at the end of the rule and so can be ∴ OA = (1.
 
-### 90 cm) – (6 vernier divisions)
+90 cm) – (6 vernier divisions)
 
 used without introducing a systematic error.
 
 = 1.
 
-## 90 cm – 6(0.
+90 cm – 6(0.
 
-## 09) cm
+09) cm
 
-### When using a rule to determine a height
+# When using a rule to determine a height
 
 the rule = (1.
 
-## 90 – 0.
+90 – 0.
 
-## 54) cm
+54) cm
 
 must be held so that it is vertical.
 
 If the rule is at an = 1.
 
-## 36 cm
+36 cm
 
-## angle to the vertical
+angle to the vertical
 
 a systematic error is introduced.
 
 Vernier scales are also used on barometers
 
-## travelling
+travelling
 
 microscopes and spectrometers.
 
-## ●●Vernier scales and
+●●Vernier scales and
 
-### micrometers vernier scale mm scale
+micrometers vernier scale mm scale
 
 Lengths can be measured with a ruler to an accuracy 5
 
 of about 1 mm.
 
-### Some investigations may need a
+# Some investigations may need a
 
-### more accurate measurement of length
+more accurate measurement of length
 
-## which can be
+which can be
 
-## 1 2
+1 2
 
-## mm
+mm
 
 achieved by using vernier calipers (Figure 1.
 
-## 10) or a
+10) or a
 
 micrometer screw gauge.
 
-## O object A B
+# O object A B
 
-## 5 10
+5 10
 
-## 1 2
+1 2
 
-## mm
+mm
 
 Figure 1.
 
-## 11 Vernier scale
+11 Vernier scale
 
-## b) Micrometer screw gauge
+b) Micrometer screw gauge
 
 This measures very small objects to 0.
 
-## 001 cm.
+001 cm.
 
 Figure 1.
 
@@ -1860,17 +1860,17 @@ Figure 1.
 
 indd 6 20/06/14 7:31 AM
 
-### Vernier scales and micrometers
+# Vernier scales and micrometers
 
 5 The pages of a book are numbered 1 to 200 and each
 
 leaf is 0.
 
-## 10 mm thick.
+10 mm thick.
 
 If each cover is 0.
 
-## 20 mm thick, what
+20 mm thick, what
 
 is the thickness of the book?
 
@@ -1880,29 +1880,29 @@ measurement of:
 
 a 2.
 
-## 5 cm, b 5.
+5 cm, b 5.
 
-## 32 cm, c 7.
+32 cm, c 7.
 
-## 180 cm, d 0.
+180 cm, d 0.
 
-## 042 cm?
+042 cm?
 
-### 7 A rectangular block measures 4.
+7 A rectangular block measures 4.
 
-## 1 cm by 2.
+1 cm by 2.
 
-## 8 cm by 2.
+8 cm by 2.
 
-## 1 cm.
+1 cm.
 
 Calculate its volume giving your answer to an appropriate
 
 number of signifi cant fi gures.
 
-### 8 A metal block measures 10 cm × 2 cm × 2 cm.
+8 A metal block measures 10 cm × 2 cm × 2 cm.
 
-## What is its
+# What is its
 
 volume?
 
@@ -1914,7 +1914,7 @@ the same total volume?
 
 can be stored in the compartment of a freezer measuring
 
-## 40 cm × 40 cm × 20 cm?
+40 cm × 40 cm × 20 cm?
 
 10 A Perspex container has a 6 cm square base and contains
 
@@ -1928,51 +1928,51 @@ b A stone is lowered into the water so as to be
 
 completely covered and the water rises to a height of
 
-### 9 cm. What is the volume of the stone?
+9 cm. What is the volume of the stone?
 
-## 7 cm
+7 cm
 
-## 6 cm
+6 cm
 
-## 6 cm
+6 cm
 
 Figure 1.
 
-### 11 What are the readings on the vernier scales in
+11 What are the readings on the vernier scales in
 
 Figures 1.
 
 14a and b?
 
-## 50 60
+50 60
 
-## mm scale
+mm scale
 
-## object vernier scale
+object vernier scale
 
-## 90 100
+90 100
 
-## mm scale
+mm scale
 
-## object vernier scale
+object vernier scale
 
 Figure 1.
 
-## ▲ ▲
+▲ ▲
 
 parallel jaws by one division on the scale on the
 
-## shaft of the gauge
+shaft of the gauge
 
-## this is usually 1 mm
+this is usually 1 mm
 
 i.e. 0.
 
-## 05 cm.
+05 cm.
 
 If the drum has a scale of 50 divisions round it
 
-## then
+then
 
 rotation of the drum by one division opens the jaws
 
@@ -1980,51 +1980,51 @@ by 0.
 
 05/50 = 0.
 
-## 001 cm (Figure 1.
+001 cm (Figure 1.
 
 12).
 
-## A friction
+# A friction
 
 clutch ensures that the jaws exert the same force
 
 when the object is gripped.
 
-## jaws shaft drum
+jaws shaft drum
 
-## 0 1 2 35
+0 1 2 35
 
-## mm
+mm
 
-## object friction
+object friction
 
-## clutch
+clutch
 
 Figure 1.
 
-## 12 Micrometer screw gauge
+12 Micrometer screw gauge
 
 The object shown in Figure 1.
 
-## 12 has a length of
+12 has a length of
 
-## 2.5 mm on the shaft scale +
+# 2.5 mm on the shaft scale +
 
-### 33 divisions on the drum scale
-
-= 0.
-
-## 25 cm + 33(0.
-
-## 001) cm
+33 divisions on the drum scale
 
 = 0.
 
-## 283 cm
+25 cm + 33(0.
 
-## Before making a measurement
+001) cm
 
-## check to ensure
+= 0.
+
+283 cm
+
+# Before making a measurement
+
+check to ensure
 
 that the reading is zero when the jaws are closed.
 
@@ -2032,17 +2032,17 @@ Otherwise the zero error must be allowed for when
 
 the reading is taken.
 
-## Questions
+# Questions
 
-### 1 How many millimetres are there in
+1 How many millimetres are there in
 
 a 1 cm, b 4 cm, c 0.
 
-## 5 cm, d 6.
+5 cm, d 6.
 
-## 7 cm, e 1 m?
+7 cm, e 1 m?
 
-### 2 What are these lengths in metres:
+2 What are these lengths in metres:
 
 a 300 cm, b 550 cm, c 870 cm,
 
@@ -2052,29 +2052,29 @@ d 43 cm, e 100 mm?
 
 before the decimal point:
 
-### 100 000 3500 428 000 000 504 27 056
+100 000 3500 428 000 000 504 27 056
 
 b Write out the following in full:
 
-### 103 2 × 106 6.92 × 104 1.34 × 102 109
+103 2 × 106 6.92 × 104 1.34 × 102 109
 
-### 4 a Write these fractions as powers of ten:
+4 a Write these fractions as powers of ten:
 
-### 1/1000 7/100 000 1/10 000 000 3/60 000
+1/1000 7/100 000 1/10 000 000 3/60 000
 
 b Express the following decimals as powers of ten with
 
 one fi gure before the decimal point:
 
-## 0.5 0.084 0.000 36 0.001 04
+# 0.5 0.084 0.000 36 0.001 04
 
 9781444176421_Section_01.
 
 indd 7 20/06/14 7:32 AM
 
-## 1 MeAsureMents
+1 MeAsureMents
 
-## Checklist
+# Checklist
 
 12 What are the readings on the micrometer screw gauges in
 
@@ -2098,11 +2098,11 @@ mm 30 • use a ruler to measure length so as to minimise errors
 
 fi gures,
 
-## • measure areas of squares
+• measure areas of squares
 
-## rectangles
+rectangles
 
-## triangles and circles
+triangles and circles
 
 • measure the volume of regular solids and of liquids
 
@@ -2112,11 +2112,11 @@ fi gures,
 
 • describe the use of clocks and devices
 
-## both analogue and
+both analogue and
 
-## 11 12 13 14 0 digital
+11 12 13 14 0 digital
 
-### for measuring an interval of time
+for measuring an interval of time
 
 • describe an experiment to fi nd the period of a pendulum
 
@@ -2130,15 +2130,15 @@ screw gauge.
 
 Figure 1.
 
-### 13 a Name the basic units of: length, mass, time.
+13 a Name the basic units of: length, mass, time.
 
 b What is the difference between two measurements of
 
 the same object with values of 3.
 
-## 4 and 3.
+4 and 3.
 
-## c Write expressions for
+c Write expressions for
 
 (i) the area of a circle,
 
@@ -2152,45 +2152,45 @@ indd 8 20/06/14 7:32 AM
 
 Speed, velocity and acceleration
 
-## ● Speed ● Timers
+● Speed ● Timers
 
-## ● Velocity ● Practical work
+● Velocity ● Practical work
 
-## Analysing motion
+# Analysing motion
 
-## ● Acceleration
+● Acceleration
 
-## ●●Speed ●●Velocity
+●●Speed ●●Velocity
 
 If a car travels 300 km from Liverpool to London Speed is the distance travelled in unit time
 
-## in fi ve hours
+in fi ve hours
 
 its average speed is 300 km/5 h = velocity is the distance travelled in unit time in
 
-## 60 km/h.
+60 km/h.
 
 The speedometer would certainly not a stated direction.
 
-### If two trains travel due north
+# If two trains travel due north
 
 read 60 km/h for the whole journey but might vary at 20 m/s
 
-### they have the same speed of 20 m/s
+they have the same speed of 20 m/s
 
 considerably from this value.
 
 That is why we state and the same velocity of 20 m/s due north.
 
-## If one
+# If one
 
 the average speed.
 
 If a car could travel at a constant travels north and the other south
 
-## their speeds
+their speeds
 
-### speed of 60 km/h for fi ve hours
+speed of 60 km/h for fi ve hours
 
 the distance covered are the same but not their velocities since their
 
@@ -2198,23 +2198,23 @@ would still be 300 km.
 
 It is always true that directions of motion are different.
 
-## Speed is a
+# Speed is a
 
 scalar quantity and velocity a vector quantity
 
 (see Chapter 7).
 
-## distancemoved
+distancemoved
 
-## average speed=
+average speed=
 
-## timetaken
+timetaken
 
-### distancemovedinastateddirecttion
+distancemovedinastateddirecttion
 
-## velocity=
+velocity=
 
-## timetaken
+timetaken
 
 To fi nd the actual speed at any instant we would need
 
@@ -2224,7 +2224,7 @@ to know the distance moved in a very short interval
 
 moves with a steady speed in a straight line.
 
-## It is not
+# It is not
 
 of time.
 
@@ -2236,7 +2236,7 @@ Why?
 
 In Figure 2.
 
-### 1 the golfer is photographed while a
+1 the golfer is photographed while a
 
 The units of speed and velocity are the same
 
@@ -2246,11 +2246,11 @@ km/h, m/s.
 
 The speed of the club-head as it hits the ball is about
 
-## 200 km/h. 6000m
+200 km/h. 6000m
 
-## 60km/h = =17m/s
+60km/h = =17m/s
 
-## 3600s
+3600s
 
 Distance moved in a stated direction is called the
 
@@ -2260,15 +2260,15 @@ It is a vector, unlike distance which is
 
 a scalar.
 
-### Velocity may also be defi ned as
+# Velocity may also be defi ned as
 
-## displacement
+displacement
 
-## velocity=
+velocity=
 
-## timetaken
+timetaken
 
-## ●●Acceleration
+●●Acceleration
 
 When the velocity of a body changes we say the body
 
@@ -2276,9 +2276,9 @@ accelerates.
 
 If a car starts from rest and moving due
 
-### north has velocity 2 m/s after 1 second
+north has velocity 2 m/s after 1 second
 
-## its velocity
+its velocity
 
 has increased by 2 m/s in 1 s and its acceleration is
 
@@ -2292,13 +2292,13 @@ We write this as 2 m/s2.
 
 indd 9 20/06/14 7:32 AM
 
-### 2 sPeed, VeloCity And ACCelerAtion
+2 sPeed, VeloCity And ACCelerAtion
 
 Acceleration is the change of velocity in unit vibrating tickertape 2V a.
 
 time, or marker
 
-## change of velocity
+change of velocity
 
 acceleration= time taken for cchange Blac U kbu N rn
 
@@ -2308,23 +2308,23 @@ ma 2 x.
 
 For a steady increase of velocity from 20 m/s to
 
-## 50 m/s in 5 s
+50 m/s in 5 s
 
-## TICKER
+# TICKER
 
-## TIMER
+# TIMER
 
-## (50−20)m/s
+(50−20)m/s
 
-## acceleration = = 6m/s2
+acceleration = = 6m/s2
 
-## 5s
+5s
 
 Acceleration is also a vector and both its magnitude
 
 Figure 2.
 
-## 2 Tickertape timer
+2 Tickertape timer
 
 and direction should be stated.
 
@@ -2352,19 +2352,19 @@ average speed of whatever is pulling the tape in
 
 say, cm per 1 s, i.e. cm per tick.
 
-## The ‘tentick’ (1 s)
+The ‘tentick’ (1 s)
 
-## 50 5
+50 5
 
 is also used as a unit of time.
 
-## Since ticks and tenticks
+# Since ticks and tenticks
 
-## Time/s 0 1 2 3 4 5 6
+Time/s 0 1 2 3 4 5 6
 
 are small we drop the ‘average’ and just refer to the
 
-## Speed/m/s 0 5 10 15 20 25 30
+Speed/m/s 0 5 10 15 20 25 30
 
 ‘speed’.
 
@@ -2372,13 +2372,13 @@ Tape charts are made by sticking successive strips
 
 The speed increases by 5 m/s every second and the
 
-## of tape
+of tape
 
-## usually tentick lengths
+usually tentick lengths
 
 side by side.
 
-## That in
+# That in
 
 acceleration of 5 m/s2 is said to be uniform.
 
@@ -2392,7 +2392,7 @@ speed since equal distances have been moved in each
 
 and negative if it decreases.
 
-## A negative acceleration is
+# A negative acceleration is
 
 tentick interval.
 
@@ -2400,19 +2400,19 @@ also called a deceleration or retardation.
 
 The chart in Figure 2.
 
-## 3b is for uniform
+3b is for uniform
 
-## acceleration
+acceleration
 
-### the ‘steps’ are of equal size showing
+the ‘steps’ are of equal size showing
 
-## ●●Timers
+●●Timers
 
 that the speed increased by the same amount in every
 
 tentick (1 s).
 
-### The acceleration (average) can be found
+The acceleration (average) can be found
 
 A number of different devices are useful for analysing
 
@@ -2424,15 +2424,15 @@ The speed during the fi rst tentick is 2 cm for every
 
 a) Motion sensors 1 s, or 10 cm/s.
 
-### During the sixth tentick it is 12 cm
+# During the sixth tentick it is 12 cm
 
 per 1 s or 60 cm/s.
 
-### And so during this interval of
+# And so during this interval of
 
 Motion sensors use the ultrasonic echo technique 5
 
-### 5 tenticks, i.e. 1 second, the change of speed is
+5 tenticks, i.e. 1 second, the change of speed is
 
 (see p.
 
@@ -2442,33 +2442,33 @@ Motion sensors use the ultrasonic echo technique 5
 
 from the sensor.
 
-### Connection of a datalogger and
+# Connection of a datalogger and
 
 computer to the motion sensor then enables a
 
-## change of speed
+change of speed
 
 distance–time graph to be plotted directly (see acceleration =
 
-## time taken
+time taken
 
 Figure 2.
 
-### Further data analysis by the computer
+# Further data analysis by the computer
 
 allows a velocity–time graph to be obtained
 
-## as in 50cm/s
+as in 50cm/s
 
 Figures 3.
 
-## 1 and 3.
+1 and 3.
 
 2, p.
 
 b) Tickertape timer: tape charts
 
-## =50cm/s2
+=50cm/s2
 
 A tickertape timer also enables us to measure speeds
 
@@ -2482,59 +2482,59 @@ One type, Figure 2.
 
 indd 10 20/06/14 7:33 AM
 
-## timers
+timers
 
-## ‘step’
+‘step’
 
-## 4 4
+4 4
 
-## 2 2
+2 2
 
-## 0 0
+0 0
 
-## 1 2 3 4 5 1 2 3 4 5 6
+1 2 3 4 5 1 2 3 4 5 6
 
-## time/tenticks 1s
+time/tenticks 1s
 
-## a b time/tenticks
+a b time/tenticks
 
-## mc
+mc
 
-## /ecnatsid
+/ecnatsid
 
-## mc
+mc
 
-## /ecnatsid
+/ecnatsid
 
-## Practical work
+# Practical work
 
-## Analysing motion
+# Analysing motion
 
-## tentick tape
+tentick tape
 
-## a) Your own motion
+a) Your own motion
 
 Pull a 2 m length of tape through a tickertape timer as you walk
 
-## away from it quickly
+away from it quickly
 
-## then slowly
+then slowly
 
-## then speeding up again and
+then speeding up again and
 
 finally stopping.
 
 Cut the tape into tentick lengths and make a tape chart.
 
-## Write
+# Write
 
 labels on it to show where you speeded up
 
-## slowed down
+slowed down
 
 etc.
 
-### b) Trolley on a sloping runway
+b) Trolley on a sloping runway
 
 Attach a length of tape to a trolley and release it at the top of a
 
@@ -2542,7 +2542,7 @@ runway (Figure 2.
 
 The dots will be very crowded at the start –
 
-## ignore those
+ignore those
 
 but beyond them cut the tape into tentick lengths.
 
@@ -2550,21 +2550,21 @@ Make a tape chart.
 
 Is the acceleration uniform?
 
-## What is its
+# What is its
 
 Figure 2.
 
-## 3 Tape charts
+3 Tape charts
 
-## a uniform speed
+a uniform speed
 
-## b uniform acceleration
+b uniform acceleration
 
 average value?
 
-## c) Photogate timer
+c) Photogate timer
 
-### tickertape timer runway trolley
+tickertape timer runway trolley
 
 Photogate timers may be used to record the
 
@@ -2574,13 +2574,13 @@ Figure 2.
 
 If the length of the ‘interrupt card’ on
 
-## the trolley is measured
+the trolley is measured
 
-## the velocity of the trolley
+the velocity of the trolley
 
 can then be calculated.
 
-## Photogates are most useful
+# Photogates are most useful
 
 in experiments where the velocity at only one or two
 
@@ -2588,17 +2588,17 @@ positions is needed.
 
 Figure 2.
 
-## c) Datalogging
+c) Datalogging
 
 Replace the tickertape timer with a motion sensor connected to
 
 a datalogger and computer (Figure 2.
 
-## Repeat the experiments
+# Repeat the experiments
 
 in a) and b) and obtain distance–time and velocity–time graphs
 
-## for each case
+for each case
 
 identify regions where you think the acceleration
 
@@ -2606,43 +2606,43 @@ changes or remains uniform.
 
 computer 0.
 
-## motion
+motion
 
 sensor datalogger 0.
 
-## 5 1.
+5 1.
 
-## 0 1.
+0 1.
 
-## 5 2.
+5 2.
 
-## Time/s
-
-Figure 2.
-
-## 4 Use of a photogate timer
-
-## ANALOG CBHANNELS C
-
-## MMOOTTIIOONNSSEENNSSOORRIIII
-
-## LOG1 DIGITAL CH 2 ANNELS ON
-
-## m/ecnatsiD
+Time/s
 
 Figure 2.
 
-## 6 Use of a motion sensor
+4 Use of a photogate timer
+
+# ANALOG CBHANNELS C
+
+# MMOOTTIIOONNSSEENNSSOORRIIII
+
+# LOG1 DIGITAL CH 2 ANNELS ON
+
+m/ecnatsiD
+
+Figure 2.
+
+6 Use of a motion sensor
 
 9781444176421_Section_01.
 
 indd 11 20/06/14 7:33 AM
 
-### 2 sPeed, VeloCity And ACCelerAtion
+2 sPeed, VeloCity And ACCelerAtion
 
-## Questions
+# Questions
 
-### 1 What is the average speed of
+1 What is the average speed of
 
 a a car that travels 400 m in 20 s,
 
@@ -2650,7 +2650,7 @@ b an athlete who runs 1500 m in 4 minutes?
 
 2 A train increases its speed steadily from 10 m/s to 20 m/s in
 
-## 1 minute.
+1 minute.
 
 a What is its average speed during this time
 
@@ -2662,9 +2662,9 @@ b How far does it travel while increasing its speed?
 
 after travelling with uniform acceleration for 3 s.
 
-## What is his
+# What is his
 
-## time
+time
 
 acceleration?
 
@@ -2672,11 +2672,11 @@ acceleration?
 
 at 10 km/h per second.
 
-## Taking the speed of sound as
+# Taking the speed of sound as
 
-### 1100 km/h at the aircraft’s altitude
+1100 km/h at the aircraft’s altitude
 
-## how long will it take to
+how long will it take to
 
 reach the ‘sound barrier’?
 
@@ -2684,7 +2684,7 @@ reach the ‘sound barrier’?
 
 a velocity of 4 m/s at a certain time.
 
-## What will its velocity be
+# What will its velocity be
 
 a 1 s later,
 
@@ -2692,17 +2692,17 @@ b 5 s later?
 
 6 If a bus travelling at 20 m/s is subject to a steady
 
-## deceleration of 5 m/s2
+deceleration of 5 m/s2
 
 how long will it take to come to rest?
 
-## 7 The tape in Figure 2.
+7 The tape in Figure 2.
 
-### 7 was pulled through a timer by a
+7 was pulled through a timer by a
 
 trolley travelling down a runway.
 
-## It was marked off in
+# It was marked off in
 
 tentick lengths.
 
@@ -2712,15 +2712,15 @@ b Find its acceleration in cm/s2.
 
 Figure 2.
 
-### 8 Each strip in the tape chart of Figure 2.
+8 Each strip in the tape chart of Figure 2.
 
-## 8 is for a time
+8 is for a time
 
 interval of 1 tentick.
 
-### a If the timer makes 50 dots per second
+a If the timer makes 50 dots per second
 
-## what time
+what time
 
 intervals are represented by OA and AB?
 
@@ -2734,11 +2734,11 @@ b What is the acceleration between O and A in
 
 c What is the acceleration between A and B?
 
-## mc/htgnel
+mc/htgnel
 
-## epat
+epat
 
-## O A B
+# O A B
 
 Figure 2.
 
@@ -2746,17 +2746,17 @@ Figure 2.
 
 below at successive intervals of 1 second.
 
-## Time/s 0 1 2 3 4
+Time/s 0 1 2 3 4
 
-## Speed/m/s 0 2 4 6 8
+Speed/m/s 0 2 4 6 8
 
-## The car travels
+# The car travels
 
-### 1 with an average velocity of 4 m/s
+1 with an average velocity of 4 m/s
 
-## 2 16 m in 4 s
+2 16 m in 4 s
 
-### 3 with a uniform acceleration of 2 m/s2.
+3 with a uniform acceleration of 2 m/s2.
 
 Which statement(s) is (are) correct?
 
@@ -2764,21 +2764,21 @@ A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 10 If a train travelling at 10 m/s starts to accelerate at 1 m/s2
 
-## for 15 s on a straight track
+for 15 s on a straight track
 
-## its fi nal velocity in m/s is
+its fi nal velocity in m/s is
 
-## A 5 B 10 C 15 D 20 E 25
+# A 5 B 10 C 15 D 20 E 25
 
-## 7cm
+7cm
 
-## 2 cm
+2 cm
 
-## 15 cm
+15 cm
 
-## 26 cm
+26 cm
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -2794,25 +2794,25 @@ tape charts and motion sensors.
 
 indd 12 20/06/14 7:33 AM
 
-## Graphs of equations
+# Graphs of equations
 
-## ●●Velocity–time graphs
+●●Velocity–time graphs
 
 If the velocity of a body is plotted against the time
 
 graph obtained is a velocity–time graph.
 
-## It provides
+# It provides
 
 a way of solving motion problems.
 
-## Tape charts are
+# Tape charts are
 
 crude velocity–time graphs that show the velocity
 
-### changing in jumps rather than smoothly
+changing in jumps rather than smoothly
 
-## as occurs in
+as occurs in
 
 practice.
 
@@ -2822,23 +2822,23 @@ The area under a velocity–time graph measures the distance
 
 travelled.
 
-## A B
+# A B
 
-## time/s
+time/s
 
-## s/m/yticolev
+s/m/yticolev
 
-## 40 Q
+40 Q
 
-## 20 R
+20 R
 
-## 1 2 3 45
+1 2 3 45
 
-## 1 2 3 4 5
+1 2 3 4 5
 
 Figure 3.
 
-## 1 Uniform velocity
+1 Uniform velocity
 
 In Figure 3.
 
@@ -2848,13 +2848,13 @@ body moving with a uniform velocity of 20 m/s.
 
 Since distance = average velocity × time
 
-## after 5 s it
+after 5 s it
 
 will have moved 20 m/s × 5 s = 100 m.
 
-## This is the
+# This is the
 
-## shaded area under the graph
+shaded area under the graph
 
 i.e. rectangle OABC.
 
@@ -2864,61 +2864,61 @@ In Figure 3.
 
 body moving with uniform acceleration.
 
-## At the start of
+# At the start of
 
 the timing the velocity is 20 m/s but it increases steadily
 
 to 40 m/s after 5 s.
 
-### If the distance covered equals the
+# If the distance covered equals the
 
-## area under PQ
+area under PQ
 
 i.e. the shaded area OPQS
 
-## then
+then
 
-### distance = area of rectangle OPRS
+distance = area of rectangle OPRS
 
-## + area of triangle PQR
++ area of triangle PQR
 
-## = OP × OS + 1 × PR × QR
+= OP × OS + 1 × PR × QR
 
-### (area of a triangle = 1base × height)
+(area of a triangle = 1base × height)
 
-### = 20 m/s × 5 s + 1 × 5 s × 20 m/s
+= 20 m/s × 5 s + 1 × 5 s × 20 m/s
 
-## = 100 m + 50 m = 150 m
+= 100 m + 50 m = 150 m
 
-## s/m/yticolev
+s/m/yticolev
 
-## time/s
+time/s
 
 Figure 3.
 
-## 2a Uniform acceleration
+2a Uniform acceleration
 
-## s/m/yticolev
+s/m/yticolev
 
 ● Velocity–time graphs ● Equations for uniform acceleration
 
-## ● Distance–time graphs
+● Distance–time graphs
 
-## 30 X
+30 X
 
-## 1 2 3 4 5
+1 2 3 4 5
 
-## time/s
+time/s
 
 Figure 3.
 
-## 2b Non-uniform acceleration
+2b Non-uniform acceleration
 
-## Notes
+# Notes
 
-### 1 When calculating the area from the graph
+1 When calculating the area from the graph
 
-## the unit
+the unit
 
 of time must be the same on both axes.
 
@@ -2944,7 +2944,7 @@ In Figure 3.
 
 2a, the slope of PQ is
 
-## QR/PR = 20/5 = 4
+QR/PR = 20/5 = 4
 
 the acceleration is 4 m/s2.
 
@@ -2958,31 +2958,31 @@ so does the acceleration.
 
 indd 13 20/06/14 7:34 AM
 
-## 3 grAPHs oF equAtions
+3 grAPHs oF equAtions
 
-## ●●Distance–time graphs
+●●Distance–time graphs
 
 A body travelling with uniform velocity covers
 
 equal distances in equal times.
 
-## Its distance–time
+Its distance–time
 
-## graph is a straight line
+graph is a straight line
 
 like OL in Figure 3.
 
 for a velocity of 10 m/s.
 
-## The slope of the graph is
+# The slope of the graph is
 
-## LM/OM = 40 m/4 s = 10 m/s
+LM/OM = 40 m/4 s = 10 m/s
 
-## which is the value
+which is the value
 
 of the velocity.
 
-### The following statement is true in
+# The following statement is true in
 
 general:
 
@@ -2990,15 +2990,15 @@ The slope or gradient of a distance–time graph represents the
 
 velocity of the body.
 
-## 1 2 3 4
+1 2 3 4
 
-## time/s
+time/s
 
-## m/ecnatsid
+m/ecnatsid
 
 Figure 3.
 
-## 3 Uniform velocity
+3 Uniform velocity
 
 When the velocity of the body is changing
 
@@ -3018,15 +3018,15 @@ The velocity at the instant corresponding to T is
 
 therefore 20 m/s.
 
-## 1 2 3 4
+1 2 3 4
 
-## time/s
+time/s
 
-## m/ecnatsid
+m/ecnatsid
 
-## ●●Equations for uniform
+●●Equations for uniform
 
-## acceleration
+acceleration
 
 Problems involving bodies moving with uniform
 
@@ -3034,25 +3034,25 @@ acceleration can often be solved quickly using the
 
 equations of motion.
 
-## First equation
+# First equation
 
 If a body is moving with uniform acceleration a and
 
 its velocity increases from u to v in time t
 
-## then
+then
 
-## changeof velocity v −u
+changeof velocity v −u
 
-## a = =
+a = =
 
-## timetaken t
+timetaken t
 
-## ∴ at = v − u
+∴ at = v − u
 
-## or
+or
 
-## v = u + at (1)
+v = u + at (1)
 
 Note that the initial velocity u and the fi nal velocity v
 
@@ -3060,91 +3060,91 @@ refer to the start and the fi nish of the timing and do
 
 not necessarily mean the start and fi nish of the motion.
 
-## Second equation
+# Second equation
 
 The velocity of a body moving with uniform
 
 acceleration increases steadily.
 
-## Its average velocity
+# Its average velocity
 
 therefore equals half the sum of its initial and fi nal
 
 velocities, that is,
 
-## u+v
+u+v
 
-## averagevelocity=
+averagevelocity=
 
-### If s is the distance moved in time t
+# If s is the distance moved in time t
 
-## then since
+then since
 
 average velocity = distance/time = s/t,
 
-## s u +v
+s u +v
 
-## t 2
+t 2
 
-## or
+or
 
-## (u+v)
+(u+v)
 
-## s = t (2)
+s = t (2)
 
-## Third equation
+# Third equation
 
 From equation (1), v = u + at
 
 From equation (2),
 
-## 5 s u+v
+5 s u+v
 
-## t 2
+t 2
 
 Figure 3.
 
-## 4 Non-uniform velocity
+4 Non-uniform velocity
 
 9781444176421_Section_01.
 
 indd 14 20/06/14 7:35 AM
 
-## Worked example
+# Worked example
 
-## s u+u+at 2u+at
+s u+u+at 2u+at
 
-## = =
+= =
 
-## t 2 2
+t 2 2
 
-## =u+ at
+=u+ at
 
-## and so
+and so
 
-## s = ut + at2 (3)
+s = ut + at2 (3)
 
-## Fourth equation
+# Fourth equation
 
 This is obtained by eliminating t from equations (1)
 
 and (3).
 
-## Squaring equation (1) we have
+Squaring equation (1) we have
 
-## v2 = (u + at)2
+v2 = (u + at)2
 
-## ∴ v2 = u2 + 2uat + a2t2
+∴ v2 = u2 + 2uat + a2t2
 
-## = u2 + 2a (ut + at2)
+= u2 + 2a (ut + at2)
 
-## But s = ut + at2
+But s = ut + at2
 
-## ∴ v2 = u2 + 2as
+∴ v2 = u2 + 2as
 
-## Questions
+# Questions
 
-## If we know any three of u
+# If we know any three of u
 
 v, a, s and t
 
@@ -3166,7 +3166,7 @@ A sprint cyclist starts from rest and accelerates at
 
 e How long did she stop for altogether?
 
-## 1 m/s2 for 20 seconds.
+1 m/s2 for 20 seconds.
 
 He then travels at a constant f What was her average speed excluding stops?
 
@@ -3176,85 +3176,85 @@ until he stops.
 
 Find his maximum speed in km/h when she travelled fastest?
 
-## Over which stage did
+# Over which stage did
 
 this happen?
 
 and the total distance covered in metres.
 
-## First stage
+# First stage
 
-## u = 0 a = 1 m/s2 t = 20 s
+u = 0 a = 1 m/s2 t = 20 s
 
-### We have v = u + at = 0 + 1 m/s2 × 20 s
+We have v = u + at = 0 + 1 m/s2 × 20 s
 
-## = 20 m/s
+= 20 m/s
 
-## = × 60× 60 = 72 km/h
+= × 60× 60 = 72 km/h
 
 The distance s moved in the fi rst stage is given by
 
-## 1 1
+1 1
 
 s = ut + at2 = 0 × 20 s + × 1 m/s2 × 202 s2 0
 
-## 2 2 1pm
+2 2 1pm
 
-## = × 1 m/s2 × 400 s2 = 200 m
+= × 1 m/s2 × 400 s2 = 200 m
 
-## mk/ecnatsid
+mk/ecnatsid
 
-## B C
+# B C
 
-## time of
+time of
 
-## 2pm 3pm 4pm 5pm 6pm day
+2pm 3pm 4pm 5pm 6pm day
 
 Figure 3.
 
-## 5 ▲ ▲
+5 ▲ ▲
 
-## Second stage
+# Second stage
 
-### u = 20 m/s (constant) t = 60 s
+u = 20 m/s (constant) t = 60 s
 
 distance moved = speed × time = 20 m/s × 60 s
 
-## = 1200 m
+= 1200 m
 
-## Third stage
+# Third stage
 
 u = 20 m/s v = 0 a = −2 m/s2 (a deceleration)
 
-## We have
+# We have
 
-## v2 = u2 + 2as
+v2 = u2 + 2as
 
-## v2 −u2 0− 202m2/s2 −400m2/s2
+v2 −u2 0− 202m2/s2 −400m2/s2
 
-## ∴ s = = =
+∴ s = = =
 
-## 2a 2×(−2) m/s2 −4m//s2
+2a 2×(−2) m/s2 −4m//s2
 
-## = 100 m
+= 100 m
 
-## Answers
+# Answers
 
-## Maximum speed = 72 km/h
+Maximum speed = 72 km/h
 
 Total distance covered = 200 m + 1200 m + 100 m
 
-## = 1500 m
+= 1500 m
 
 9781444176421_Section_01.
 
 indd 15 20/06/14 7:35 AM
 
-## 3 grAPHs oF equAtions
+3 grAPHs oF equAtions
 
-## 2 The graph in Figure 3.
+2 The graph in Figure 3.
 
-### 6 represents the distance travelled by
+6 represents the distance travelled by
 
 a car plotted against time.
 
@@ -3262,7 +3262,7 @@ a How far has the car travelled at the end of 5 seconds?
 
 b What is the speed of the car during the fi rst
 
-## 5 seconds?
+5 seconds?
 
 c What has happened to the car after A?
 
@@ -3272,9 +3272,9 @@ against time during the fi rst 5 seconds.
 
 Figure 3.
 
-## 3 Figure 3.
+3 Figure 3.
 
-### 7 shows an incomplete velocity–time graph for a
+7 shows an incomplete velocity–time graph for a
 
 boy running a distance of 100 m.
 
@@ -3282,25 +3282,25 @@ a What is his acceleration during the fi rst 4 seconds?
 
 b How far does the boy travel during (i) the fi rst
 
-### 4 seconds, (ii) the next 9 seconds?
+4 seconds, (ii) the next 9 seconds?
 
 c Copy and complete the graph showing clearly at what
 
 time he has covered the distance of 100 m.
 
-## Assume
+# Assume
 
 his speed remains constant at the value shown by the
 
 horizontal portion of the graph.
 
-## time/s
+time/s
 
-## s/m/yticolev
+s/m/yticolev
 
-## time/s
+time/s
 
-## 0 2 4 6 8 10 12 14
+0 2 4 6 8 10 12 14
 
 Figure 3.
 
@@ -3308,29 +3308,29 @@ Figure 3.
 
 journey is shown in Figure 3.
 
-## (There is a very quick driver
+(There is a very quick driver
 
 change midway to prevent driving fatigue!
 
-## m/ecnatsid
+m/ecnatsid
 
-### a State in which of the regions OA
+a State in which of the regions OA
 
 AB, BC
 
 CD, DE the
 
-## car is (i) accelerating
+car is (i) accelerating
 
-## (ii) decelerating
+(ii) decelerating
 
-## (iii) travelling
+(iii) travelling
 
 with uniform velocity.
 
 b Calculate the value of the acceleration
 
-## deceleration or
+deceleration or
 
 constant velocity in each region.
 
@@ -3340,25 +3340,25 @@ d What is the total distance travelled?
 
 e Calculate the average velocity for the whole journey.
 
-## 120 80
+120 80
 
-## 100 60
+100 60
 
-## 80 40
+80 40
 
-## 0 1 2 3 4 5
+0 1 2 3 4 5
 
-## 0 1 2 3 4 5 6
+0 1 2 3 4 5 6
 
-## )h/mk(/deeps
+)h/mk(/deeps
 
-## C D
+# C D
 
-## A B
+# A B
 
-## O E
+# O E
 
-## time/hours
+time/hours
 
 Figure 3.
 
@@ -3372,19 +3372,19 @@ b How far does the motorbike move in 30 seconds?
 
 c Calculate the speed.
 
-## 0 10 20 30
+0 10 20 30
 
-## m/ecnatsid
+m/ecnatsid
 
-## time/s
+time/s
 
 Figure 3.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
-## • draw
+• draw
 
 interpret and use velocity–time and distance–time
 
@@ -3394,23 +3394,23 @@ graphs to solve problems.
 
 indd 16 20/06/14 7:36 AM
 
-## Falling bodies
+# Falling bodies
 
 ● Acceleration of free fall ● Projectiles
 
-### ● Measuring g ● Practical work
+● Measuring g ● Practical work
 
-## Motion of a falling body
+# Motion of a falling body
 
-## ● Distance–time graphs
+● Distance–time graphs
 
-## In air
+# In air
 
 a coin falls faster than a small piece of paper.
 
-### In a vacuum they fall at the same rate
+# In a vacuum they fall at the same rate
 
-## as may
+as may
 
 be shown with the apparatus of Figure 4.
 
@@ -3424,17 +3424,17 @@ The air resistance to a light body is large
 
 when compared with the body’s weight.
 
-## With a
+# With a
 
 dense piece of metal the resistance is negligible at
 
 low speeds.
 
-## There is a story
+# There is a story
 
-## untrue we now think
+untrue we now think
 
-## that
+that
 
 in the 16th century the Italian scientist Galileo
 
@@ -3448,75 +3448,75 @@ And we are told that,
 
 to the surprise of onlookers who expected the
 
-## cannonball to arrive first
+cannonball to arrive first
 
-## they reached the ground
+they reached the ground
 
 almost simultaneously.
 
-## You will learn more about air
+# You will learn more about air
 
 resistance in Chapter 8.
 
-## rubber
+rubber
 
-## stopper
+stopper
 
-## Perspex or
+# Perspex or
 
-## Pyrex tube
+# Pyrex tube
 
-## paper
+paper
 
-## 5m coin
+5m coin
 
-## pressure
+pressure
 
-## tubing
+tubing
 
-## to vacuum
+to vacuum
 
-## pump
+pump
 
-## screw clip
-
-Figure 4.
-
-### 1 A coin and a piece of paper fall at the same
+screw clip
 
 Figure 4.
 
-## 2 The Leaning Tower of Pisa
+1 A coin and a piece of paper fall at the same
 
-## where Galileo is said to have
+Figure 4.
+
+2 The Leaning Tower of Pisa
+
+where Galileo is said to have
 
 rate in a vacuum.
 
-### experimented with falling objects
+experimented with falling objects
 
 9781444176421_Section_01.
 
 indd 17 20/06/14 7:36 AM
 
-## 4 FAlling bodies
+4 FAlling bodies
 
 Practical work (i.e. a = g = +10 m/s2) and a negative sign for rising
 
 bodies since they are decelerating (i.e. a = −g = –10 m/s2).
 
-## Motion of a falling body
+# Motion of a falling body
 
-## ●●Measuring g
+●●Measuring g
 
 Arrange things as shown in Figure 4.
 
-## 3 and investigate the motion
+3 and investigate the motion
 
 of a 100 g mass falling from a height of about 2 m.
 
 Using the arrangement in Figure 4.
 
-## 4 the time
+4 the time
 
 Construct a tape chart using one-tick lengths.
 
@@ -3528,21 +3528,21 @@ What does the tape measured by an electronic timer.
 
 chart tell you about the motion of the falling mass?
 
-## Repeat the
+# Repeat the
 
 When the two-way switch is changed to the
 
-## experiment with a 200 g mass
+experiment with a 200 g mass
 
 what do you notice?
 
-## ‘down’ position
+‘down’ position
 
-### the electromagnet releases the ball
+the electromagnet releases the ball
 
 and simultaneously the clock starts.
 
-## At the end of
+# At the end of
 
 2Va.
 
@@ -3552,59 +3552,59 @@ switch and the clock stops.
 
 The result is found from the third equation of
 
-## motion s = ut + 1 at2
+motion s = ut + 1 at2
 
-### where s is the distance fallen
+where s is the distance fallen
 
-## ticker (in m)
+ticker (in m)
 
-## t is the time taken (in s)
+t is the time taken (in s)
 
-## u = 0 (the ball
+u = 0 (the ball
 
-## timer
+timer
 
 starts from rest) and a = g (in m/s2).
 
-## Hence
+# Hence
 
-## s = gt2
+s = gt2
 
-## or
+or
 
-## g = 2s/t2
+g = 2s/t2
 
 Air resistance is negligible for a dense object such as
 
 tickertape retort a steel ball-bearing falling a short distance.
 
-## stand
+stand
 
-## electromagnet
+electromagnet
 
-## ball-
+ball-
 
-## bearing
+bearing
 
-## 100 g
+100 g
 
-## mass to floor
+mass to floor
 
 Figure 4.
 
-## electronic timer
+electronic timer
 
-## ●●Acceleration of free fall
+●●Acceleration of free fall
 
-## EXT
+# EXT
 
-## two-way
+two-way
 
-## COM
+# COM
 
 All bodies falling freely under the force of gravity switch
 
-## CLOCK
+# CLOCK
 
 do so with uniform acceleration if air resistance is OPERATING
 
@@ -3614,33 +3614,33 @@ practical work should all be equal).
 
 magnet 12 V a.
 
-## This acceleration
+# This acceleration
 
-### called the acceleration of free fall
+called the acceleration of free fall
 
-## adjustable
+adjustable
 
 is denoted by the italic letter g.
 
-## Its value varies slightly
+# Its value varies slightly
 
-## terminal
+terminal
 
 over the Earth but is constant in each place
 
-## in India
+in India
 
 for example, it is about 9.
 
-### 8 m/s2 or near enough 10 m/s2.
+8 m/s2 or near enough 10 m/s2.
 
-## hinge trap-door of
+hinge trap-door of
 
 The velocity of a free-falling body therefore increases impact switch
 
 by 10 m/s every second.
 
-## A ball shot straight upwards
+# A ball shot straight upwards
 
 with a velocity of 30 m/s decelerates by 10 m/s every
 
@@ -3656,15 +3656,15 @@ It is given a positive sign for falling bodies Figure 4.
 
 indd 18 20/06/14 7:36 AM
 
-## Projectiles
+# Projectiles
 
-## ●●Worked example
+●●Worked example
 
 A ball is projected vertically upwards with an initial
 
 velocity of 30 m/s.
 
-## Find a its maximum height and
+# Find a its maximum height and
 
 b the time taken to return to its starting point.
 
@@ -3678,101 +3678,101 @@ momentarily at rest at its highest point.
 
 Substituting in v2 = u2 + 2as,
 
-### 0 = 302 m2/s2 + 2(−10 m/s2) × s
+0 = 302 m2/s2 + 2(−10 m/s2) × s
 
-## or
+or
 
-## −900 m2/s2 = −s × 20 m/s2
+−900 m2/s2 = −s × 20 m/s2
 
-## −900m2/s2
+−900m2/s2
 
-## ∴ s = = 45m
+∴ s = = 45m
 
-## −20m/s2
+−20m/s2
 
 b If t is the time to reach the highest point
 
 have, from v = u + at,
 
-## 0 = 30 m/s + (−10 m/s2) × t
+0 = 30 m/s + (−10 m/s2) × t
 
-## or
+or
 
-## −30 m/s = −t × 10 m/s2
+−30 m/s = −t × 10 m/s2
 
-## −30m/s
+−30m/s
 
-## ∴ t = = 3s
+∴ t = = 3s
 
-## −10m/s2
+−10m/s2
 
 The downward trip takes exactly the same time as
 
 the upward one and so the answer is 6 s.
 
-## ●●Distance–time graphs
+●●Distance–time graphs
 
 For a body falling freely from rest we have
 
-## s = 1 gt2
+s = 1 gt2
 
 A graph of distance s against time t is shown in Figure
 
 5a and for s against t2 in Figure 4.
 
-## The second
+# The second
 
 graph is a straight line through the origin since s ∝ t2
 
 ( g being constant at one place).
 
-## time/s
+time/s
 
-## m/ecnatsid
+m/ecnatsid
 
-## (time)2/s2
+(time)2/s2
 
-## 0 1 2 3 4
+0 1 2 3 4
 
 Figure 4.
 
 5a A graph of distance against time for a body falling freely
 
-## from rest
+from rest
 
-## m/ecnatsid
+m/ecnatsid
 
-## 0 4 8 12 16
+0 4 8 12 16
 
 Figure 4.
 
 5b A graph of distance against (time)2 for a body falling freely
 
-## from rest
+from rest
 
-## ●●Projectiles
+●●Projectiles
 
 The photograph in Figure 4.
 
-## 6 was taken while a lamp
+6 was taken while a lamp
 
 emitted regular fl ashes of light.
 
-## One ball was dropped
+# One ball was dropped
 
-## from rest and the other
+from rest and the other
 
-## a ‘projectile’
+a ‘projectile’
 
-## was thrown
+was thrown
 
 sideways at the same time.
 
-## Their vertical accelerations
+# Their vertical accelerations
 
-## (due to gravity) are equal
+(due to gravity) are equal
 
-## showing that a projectile
+showing that a projectile
 
 falls like a body which is dropped from rest.
 
@@ -3786,29 +3786,29 @@ Figure 4.
 
 6 Comparing free fall and projectile motion using multifl ash
 
-## photography
+photography
 
 9781444176421_Section_01.
 
 indd 19 20/06/14 7:36 AM
 
-## 4 FAlling bodies
+4 FAlling bodies
 
-## Questions
+# Questions
 
 For example if a ball is thrown horizontally from
 
 the top of a cliff and takes 3 s to reach the beach 1 A stone falls from rest from the top of a high tower.
 
-## Ignore
+# Ignore
 
 below, we can calculate the height of the cliff by air resistance and take g = 10 m/s2.
 
-## a What is its velocity after
+a What is its velocity after
 
 considering the vertical motion only.
 
-## We have u = 0
+We have u = 0
 
 (i) 1 s,
 
@@ -3822,11 +3822,11 @@ The height s of the (iii) 3 s,
 
 cliff is given by (iv) 5 s?
 
-## b How far has it fallen after
+b How far has it fallen after
 
 s = ut + 1 at2 (i) 1 s,
 
-## 2 (ii) 2 s,
+2 (ii) 2 s,
 
 = 0 × 3 s + (+10 m/s2)32 s2 (iii) 3 s,
 
@@ -3836,17 +3836,17 @@ s = ut + 1 at2 (i) 1 s,
 
 ground at a speed of 30 m/s.
 
-## How long does it take the
+# How long does it take the
 
 Projectiles such as cricket balls and explosive shells object to reach the ground and how far does it fall?
 
-## Sketch
+# Sketch
 
 are projected from near ground level and at an a velocity–time graph for the object (ignore air resistance).
 
 angle.
 
-### The horizontal distance they travel
+# The horizontal distance they travel
 
 i.e. their
 
@@ -3854,7 +3854,7 @@ range, depends on
 
 (i) the speed of projection – the greater this is
 
-## Checklist
+# Checklist
 
 greater the range, and
 
@@ -3872,7 +3872,7 @@ maximum when the angle is 45º (Figure 4.
 
 Earth is constant.
 
-## 45°
+45°
 
 Figure 4.
 
@@ -3882,13 +3882,13 @@ Figure 4.
 
 indd 20 20/06/14 7:37 AM
 
-## Density
+# Density
 
-### ● Calculations ● Floating and sinking
+● Calculations ● Floating and sinking
 
-## ● Simple density measurements
+● Simple density measurements
 
-## In everyday language
+# In everyday language
 
 lead is said to be ‘heavier’ ●●Calculations
 
@@ -3898,31 +3898,31 @@ By this it is meant that a certain volume
 
 of lead is heavier than the same volume of wood.
 
-### Using the symbols ρ (rho) for density
+Using the symbols ρ (rho) for density
 
-## m for mass and
+m for mass and
 
 In science such comparisons are made by using the V for volume
 
-## the expression for density is
+the expression for density is
 
 term density.
 
-### This is the mass per unit volume of a
+# This is the mass per unit volume of a
 
-## ρ =
+ρ =
 
-### substance and is calculated from V
+substance and is calculated from V
 
-### Rearranging the expression gives
+# Rearranging the expression gives
 
-## mass
+mass
 
-## density=
+density=
 
-## volume
+volume
 
-## m = V ×ρ and V =
+m = V ×ρ and V =
 
 The density of lead is 11 grams per cubic centimetre
 
@@ -3932,21 +3932,21 @@ These are useful if ρ is known and m or V have
 
 volume 1 cm3 has mass 11 g.
 
-## A volume of 5 cm3
+# A volume of 5 cm3
 
 to be calculated.
 
-### If you do not see how they are
+# If you do not see how they are
 
 of lead would have mass 55 g.
 
-## If the density of a
+# If the density of a
 
 obtained refer to the Mathematics for physics section
 
-## substance is known
+substance is known
 
-## the mass of any volume of it
+the mass of any volume of it
 
 on p.
 
@@ -3954,23 +3954,23 @@ on p.
 
 The triangle in Figure 5.
 
-## 1 is an aid to
+1 is an aid to
 
 can be calculated.
 
-### This enables engineers to work
+# This enables engineers to work
 
 remembering them.
 
-## If you cover the quantity you
+# If you cover the quantity you
 
 out the weight of a structure if they know from the
 
-## want to know with a fi nger
+want to know with a fi nger
 
-## such as m
+such as m
 
-## it equals what
+it equals what
 
 plans the volumes of the materials to be used and
 
@@ -3980,7 +3980,7 @@ To fi nd V, cover V and
 
 their densities.
 
-### Strong enough foundations can then
+# Strong enough foundations can then
 
 you get V = m/ρ.
 
@@ -3994,19 +3994,19 @@ To convert a density from g/cm3,
 
 normally the most suitable unit for the size of
 
-## sample we use
+sample we use
 
-## to kg/m3
+to kg/m3
 
 we multiply by 103.
 
 For example the density of water is 1.
 
-## 0 g/cm3 or
+0 g/cm3 or
 
-## 1.0 × 103 kg/m3.
+# 1.0 × 103 kg/m3.
 
-## ρV
+ρV
 
 The approximate densities of some common
 
@@ -4016,85 +4016,85 @@ Figure 5.
 
 Table 5.
 
-### 1 Densities of some common substances
+1 Densities of some common substances
 
 Solids Density/g/cm3 Liquids Density/g/cm3
 
-## ●●Worked example
+●●Worked example
 
 aluminium 2.
 
-## 7 paraffi n 0.
+7 paraffi n 0.
 
 copper 8.
 
-## 9 petrol 0.
+9 petrol 0.
 
-### Taking the density of copper as 9 g/cm3
+Taking the density of copper as 9 g/cm3
 
-## fi nd a the
+fi nd a the
 
 mass of 5 cm3 and b the volume of 63 g.
 
 iron 7.
 
-## 9 pure water 1.
+9 pure water 1.
 
-## a ρ = 9 g/cm3
+a ρ = 9 g/cm3
 
 V = 5 cm3 and m is to be found.
 
 gold 19.
 
-## 3 mercury 13.
+3 mercury 13.
 
-### m = V × ρ = 5 cm3 × 9 g/cm3 = 45 g
+m = V × ρ = 5 cm3 × 9 g/cm3 = 45 g
 
 glass 2.
 
-## 5 Gases Density/kg/m3
+5 Gases Density/kg/m3
 
-## b ρ = 9 g/cm3
+b ρ = 9 g/cm3
 
 m = 63 g and V is to be found.
 
 wood (teak) 0.
 
-## 80 air 1.
+80 air 1.
 
-## m 63 g
+m 63 g
 
 ice 0.
 
-## 92 hydrogen 0.
+92 hydrogen 0.
 
-## 09 ∴ V = = = 7cm3
+09 ∴ V = = = 7cm3
 
-## ρ 9 g/cm3
+ρ 9 g/cm3
 
 polythene 0.
 
-## 90 carbon dioxide 2.
+90 carbon dioxide 2.
 
 9781444176421_Section_01.
 
 indd 21 20/06/14 7:37 AM
 
-## 5 density
+5 density
 
-## ●●Simple density water
+●●Simple density water
 
-## measurements
+measurements
 
 If the mass m and volume V of a substance are known
 
-## displacement can
+displacement can
 
 its density can be found from ρ = m/V.
 
-## (filled to over-
+(filled to over-
 
-## flowing before
+flowing before
 
 a) Regularly shaped solid solid inserted)
 
@@ -4104,13 +4104,13 @@ measuring its dimensions with a ruler.
 
 b) Irregularly shaped solid, such as a
 
-## measuring cylinder
+measuring cylinder
 
-## pebble or glass stopper
+pebble or glass stopper
 
 The mass of the solid is found on a balance.
 
-## solid
+solid
 
 volume is measured by one of the methods shown in
 
@@ -4120,7 +4120,7 @@ Figures 5.
 
 In Figure 5.
 
-## 2a the volume is the
+2a the volume is the
 
 difference between the first and second readings.
 
@@ -4130,17 +4130,17 @@ Figure 5.
 
 measuring cylinder.
 
-## water
+water
 
 Figure 5.
 
 2b Measuring the volume of an irregular solid
 
-## method 2
+method 2
 
-## c) Liquid
+c) Liquid
 
-## measuring cylinder
+measuring cylinder
 
 The mass of an empty beaker is found on a balance.
 
@@ -4152,33 +4152,33 @@ mass of the beaker plus liquid is found and the mass
 
 of liquid is obtained by subtraction.
 
-## 2nd reading
+2nd reading
 
-## d) Air
+d) Air
 
-## Using a balance
+# Using a balance
 
-## the mass of a 500 cm3 round-
+the mass of a 500 cm3 round-
 
-## 1st reading
+1st reading
 
 bottomed flask full of air is found and again after
 
-### removing the air with a vacuum pump
+removing the air with a vacuum pump
 
-## the difference
+the difference
 
 water gives the mass of air in the flask.
 
-## The volume of air
+# The volume of air
 
 is found by filling the flask with water and pouring it
 
 into a measuring cylinder.
 
-## solid
+solid
 
-## ●●Floating and sinking
+●●Floating and sinking
 
 An object sinks in a liquid of lower density than its
 
@@ -4186,27 +4186,27 @@ Figure 5.
 
 2a Measuring the volume of an irregular solid
 
-## method 1 own
+method 1 own
 
-## otherwise it floats
+otherwise it floats
 
 partly or wholly submerged.
 
-## For example
+# For example
 
 a piece of glass of density 2.
 
-## 5 g/cm3
+5 g/cm3
 
 sinks in water (density 1.
 
-## 0 g/cm3) but floats in
+0 g/cm3) but floats in
 
 mercury (density 13.
 
-## 6 g/cm3).
+6 g/cm3).
 
-## An iron nail sinks
+# An iron nail sinks
 
 in water but an iron ship floats because its average
 
@@ -4216,9 +4216,9 @@ density is less than that of water.
 
 indd 22 20/06/14 7:37 AM
 
-## Floating and sinking
+# Floating and sinking
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -4232,13 +4232,13 @@ liquids and air,
 
 Figure 5.
 
-### 3 Why is it easy to fl oat in the Dead Sea?
+3 Why is it easy to fl oat in the Dead Sea?
 
-## Questions
+# Questions
 
-### 1 a If the density of wood is 0.
+1 a If the density of wood is 0.
 
-## 5 g/cm3 what is the mass of
+5 g/cm3 what is the mass of
 
 (i) 1 cm3,
 
@@ -4246,7 +4246,7 @@ Figure 5.
 
 (iii) 10 cm3?
 
-### b What is the density of a substance of
+b What is the density of a substance of
 
 (i) mass 100 g and volume 10 cm3,
 
@@ -4254,7 +4254,7 @@ Figure 5.
 
 c The density of gold is 19 g/cm3.
 
-## Find the volume of
+# Find the volume of
 
 (i) 38 g,
 
@@ -4262,7 +4262,7 @@ c The density of gold is 19 g/cm3.
 
 2 A piece of steel has a volume of 12 cm3 and a mass of 96 g.
 
-## What is its density in
+# What is its density in
 
 a g/cm3,
 
@@ -4272,9 +4272,9 @@ b kg/m3?
 
 4 What is the mass of air in a room measuring 10 m × 5.
 
-## 0 m ×
+0 m ×
 
-### 2.0 m if the density of air is 1.3 kg/m3?
+# 2.0 m if the density of air is 1.3 kg/m3?
 
 5 When a golf ball is lowered into a measuring cylinder of
 
@@ -4282,51 +4282,51 @@ water, the water level rises by 30 cm3 when the ball is
 
 completely submerged.
 
-### If the ball weighs 33 g in air
+# If the ball weighs 33 g in air
 
-## fi nd its
+fi nd its
 
 density.
 
-### 6 Why does ice fl oat on water?
+6 Why does ice fl oat on water?
 
 9781444176421_Section_01.
 
 indd 23 20/06/14 7:37 AM
 
-## Weight and stretching
+# Weight and stretching
 
-## ● Force ● Hooke’s law
+● Force ● Hooke’s law
 
-## ● Weight ● Practical work
+● Weight ● Practical work
 
-## Stretching a spring
+# Stretching a spring
 
-## ● The newton
+● The newton
 
 ●●Force For a body above or on the Earth’s surface
 
-### nearer it is to the centre of the Earth
+nearer it is to the centre of the Earth
 
-## the more the
+the more the
 
 A force is a push or a pull.
 
 It can cause a body at Earth attracts it.
 
-### Since the Earth is not a perfect
+# Since the Earth is not a perfect
 
-## rest to move
+rest to move
 
 or if the body is already moving it can sphere but is fl atter at the poles
 
-## the weight of a body
+the weight of a body
 
 change its speed or direction of motion.
 
 A force can varies over the Earth’s surface.
 
-## It is greater at the
+# It is greater at the
 
 also change a body’s shape or size.
 
@@ -4342,31 +4342,31 @@ and the object on which it acts as there does when we
 
 push or pull something.
 
-## Other action-at-a-distance
+# Other action-at-a-distance
 
-## forces which
+forces which
 
-## like gravity
+like gravity
 
-## decrease with distance are
+decrease with distance are
 
 (i) magnetic forces between magnets, and
 
 (ii) electric forces between electric charges.
 
-## ●●The newton
+●●The newton
 
 The unit of force is the newton (N).
 
-## It will be defi ned
+# It will be defi ned
 
-## later (Chapter 8)
+later (Chapter 8)
 
-### the defi nition is based on the change
+the defi nition is based on the change
 
 of speed a force can produce in a body.
 
-## Weight is a
+# Weight is a
 
 force and therefore should be measured in newtons.
 
@@ -4378,21 +4378,21 @@ and letting the pull of gravity stretch the spring in
 
 the balance.
 
-## The greater the pull
+# The greater the pull
 
-## the more the spring
+the more the spring
 
 stretches.
 
-## 0 1 1 newton
+0 1 1 newton
 
-## 7 spring balance
+7 spring balance
 
 Figure 6.
 
 1 A weightlifter in action exerts fi rst a pull and then a push.
 
-## ●●Weight
+●●Weight
 
 We all constantly experience the force of gravity
 
@@ -4404,7 +4404,7 @@ in other words.
 
 the pull of the Earth.
 
-## It causes an
+# It causes an
 
 unsupported body to fall from rest to the ground.
 
@@ -4414,13 +4414,13 @@ The weight of a body is the force of gravity on it.
 
 The weight of a body of mass 1 kg is 9.
 
-## 8 N.
+8 N.
 
 9781444176421_Section_01.
 
 indd 24 20/06/14 7:38 AM
 
-## Hooke’s law
+Hooke’s law
 
 Often this is taken as 10 N.
 
@@ -4430,27 +4430,27 @@ A mass of 2 kg has a Using the sign for proportionality
 
 weight of 20 N, and so on.
 
-### The mass of a body is Hooke’s law as
+The mass of a body is Hooke’s law as
 
-## the same wherever it is and
+the same wherever it is and
 
-## unlike weight
+unlike weight
 
-## does not
+does not
 
 depend on the presence of the Earth.
 
-## extension ∝ stretching force
+extension ∝ stretching force
 
 Practical work It is true only if the elastic limit or ‘limit of
 
 proportionality’ of the spring is not exceeded.
 
-## other words
+other words
 
 the spring returns to its original length
 
-## Stretching a spring
+# Stretching a spring
 
 when the force is removed.
 
@@ -4458,13 +4458,13 @@ Arrange a steel spring as in Figure 6.
 
 Read the scale opposite The graph of Figure 6.
 
-## 4 is for a spring stretched
+4 is for a spring stretched
 
 the bottom of the hanger.
 
 Add 100 g loads one at a time (thereby beyond its elastic limit
 
-## OE is a straight line
+# OE is a straight line
 
 increasing the stretching force by steps of 1 N) and take the readings
 
@@ -4476,7 +4476,7 @@ Enter the readings in a table for loads up to 500 g.
 
 that Hooke’s law holds over this range.
 
-## If the force
+# If the force
 
 Note that at the head of columns (or rows) in data tables it is
 
@@ -4488,19 +4488,19 @@ the proportionality limit is passed and on removing
 
 the force some of the extension (OS) remains.
 
-## Over
+# Over
 
 Stretching force/N Scale reading/mm Total extension/mm which part of the graph does a spring balance work?
 
-## The force constant
+# The force constant
 
 k, of a spring is the force
 
-### needed to cause unit extension
+needed to cause unit extension
 
 i.e. 1 m.
 
-## If a force F
+# If a force F
 
 Do the results suggest any rule about how the spring behaves produces extension x then
 
@@ -4508,7 +4508,7 @@ when it is stretched?
 
 Sometimes it is easier to discover laws by displaying the results F
 
-## k =
+k =
 
 on a graph.
 
@@ -4520,11 +4520,11 @@ readings along the y-axis (vertical axis).
 
 Every pair of readings will Rearranging the equation gives
 
-## give a point
+give a point
 
 mark them by small crosses and draw a smooth line
 
-## F = kx
+F = kx
 
 through them.
 
@@ -4534,25 +4534,25 @@ This is the usual way of writing Hooke’s law in
 
 symbols.
 
-## steel
+steel
 
 Hooke’s law also holds when a force is applied
 
-## spring
+spring
 
 to a straight metal wire or an elastic band
 
-## provided
+provided
 
 they are not permanently stretched.
 
-## Force–extension
+Force–extension
 
 graphs similar to Figure 6.
 
-## 4 are obtained.
+4 are obtained.
 
-## You should
+# You should
 
 label each axis of your graph with the name of the
 
@@ -4560,39 +4560,39 @@ label each axis of your graph with the name of the
 
 shown in Figure 6.
 
-## hanger For a rubber band
+hanger For a rubber band
 
-## a small force causes a large
+a small force causes a large
 
 mm 30 extension.
 
-## scale
+scale
 
 Figure 6.
 
-## ●●Hooke’s law
+●●Hooke’s law
 
 Springs were investigated by Robert Hooke nearly
 
-### 350 years ago. He found that the extension was
+350 years ago. He found that the extension was
 
 proportional to the stretching force provided the
 
 spring was not permanently stretched.
 
-## This means O
+# This means O
 
 that doubling the force doubles the extension
 
-## total extension/mm
+total extension/mm
 
 trebling the force trebles the extension
 
 and so on.
 
-## N/ecrof
+N/ecrof
 
-## gnihcterts
+gnihcterts
 
 Figure 6.
 
@@ -4600,11 +4600,11 @@ Figure 6.
 
 indd 25 20/06/14 7:38 AM
 
-## 6 WeigHt And stretCHing
+6 WeigHt And stretCHing
 
-## Checklist
+# Checklist
 
-## ●●Worked example
+●●Worked example
 
 After studying this chapter you should be able to
 
@@ -4612,29 +4612,29 @@ A spring is stretched 10 mm (0.
 
 01 m) by a weight of • recall that a force can cause a change in the motion
 
-## size or
+size or
 
-## 0 N.
+0 N.
 
-## Calculate
+# Calculate
 
-## a the force constant k
+a the force constant k
 
-## and b the shape of a body
+and b the shape of a body
 
 weight W of an object that causes an extension of • recall that the weight of a body is the force of gravity on it
 
 • recall the unit of force and how force is measured
 
-## 80 mm (0.08 m).
+80 mm (0.08 m).
 
 • describe an experiment to study the relation between force
 
 F 2.
 
-### 0 N and extension for springs,
+0 N and extension for springs,
 
-## a k = = = 200 N/m
+a k = = = 200 N/m
 
 x 0.
 
@@ -4648,15 +4648,15 @@ b W = stretching force F • recognise the signifi cance of the term limit of
 
 = 200 N/m × 0.
 
-## 08 m
+08 m
 
-## = 16 N
+= 16 N
 
-## Questions
+# Questions
 
 1 A body of mass 1 kg has weight 10 N at a certain place.
 
-## What is the weight of
+# What is the weight of
 
 a 100 g,
 
@@ -4668,7 +4668,7 @@ c 50 g?
 
 that on the Earth.
 
-### What would a mass of 12 kg weigh
+# What would a mass of 12 kg weigh
 
 a on the Earth, and
 
@@ -4680,9 +4680,9 @@ a 2 mm by a force of 4 N,
 
 b 4 cm by a mass of 200 g?
 
-## 4 The spring in Figure 6.
+4 The spring in Figure 6.
 
-### 5 stretches from 10 cm to 22 cm
+5 stretches from 10 cm to 22 cm
 
 when a force of 4 N is applied.
 
@@ -4690,13 +4690,13 @@ If it obeys Hooke’s law, its
 
 total length in cm when a force of 6 N is applied is
 
-## A 28 B 42 C 50 D 56 E 100
+# A 28 B 42 C 50 D 56 E 100
 
-## 10 cm
+10 cm
 
-## 22 cm
+22 cm
 
-## 4N
+4N
 
 Figure 6.
 
@@ -4704,17 +4704,17 @@ Figure 6.
 
 indd 26 20/06/14 7:39 AM
 
-## Adding forces
+# Adding forces
 
-### ● Forces and resultants ● Friction
+● Forces and resultants ● Friction
 
 ● Examples of addition of forces ● Practical work
 
-## Parallelogram law
+# Parallelogram law
 
-## ● Vectors and scalars
+● Vectors and scalars
 
-## ●●Forces and resultants
+●●Forces and resultants
 
 Force has both magnitude (size) and direction.
 
@@ -4724,19 +4724,19 @@ arrow to show its direction of action.
 
 Usually more than one force acts on an object.
 
-## As a
+# As a
 
-## simple example
+simple example
 
-### an object resting on a table is pulled
+an object resting on a table is pulled
 
 downwards by its weight W and pushed upwards by
 
 a force R due to the table supporting it (Figure 7.
 
-## Since the object is at rest
+# Since the object is at rest
 
-## the forces must balance
+the forces must balance
 
 i.e. R = W.
 
@@ -4746,15 +4746,15 @@ Figure 7.
 
 understanding of the combination of many forces.
 
-## 3N
+3N
 
-## 1N 2N
+1N 2N
 
-## 1N
+1N
 
 Figure 7.
 
-## 2N 3N
+2N 3N
 
 In structures such as a giant oil platform (Figure 7.
 
@@ -4768,73 +4768,73 @@ It is found by addition or subtraction.
 
 then often useful for the design engineer to know
 
-## the value of the single force
+the value of the single force
 
 i.e. the resultant
 
-## which
+which
 
 has exactly the same effect as these forces.
 
-## If the
+# If the
 
-## Remove the paper and
+# Remove the paper and
 
-### using a scale of 1 cm to represent 1 N
+using a scale of 1 cm to represent 1 N
 
-### forces act in the same straight line
+forces act in the same straight line
 
-## the resultant is
+the resultant is
 
-## draw OA
+draw OA
 
 OB and OD to represent the three forces P
 
-## Q and W
+# Q and W
 
 found by simple addition or subtraction as shown in
 
 which act at O, as in Figure 7.
 
-## (W = weight of the 1 kg
+(W = weight of the 1 kg
 
 Figure 7.
 
 3; if they do not they are added by using the mass = 9.
 
-## 8 N; therefore OD = 9.
+8 N; therefore OD = 9.
 
-## 8 cm.
+8 cm.
 
 parallelogram law.
 
-## Practical work spring balance
+# Practical work spring balance
 
-## (0–10 N)
+(0–10 N)
 
-## string
+string
 
-## Parallelogram law
+# Parallelogram law
 
-## P Q
+# P Q
 
 Arrange the apparatus as in Figure 7.
 
-## 4a with a sheet of paper O
+4a with a sheet of paper O
 
 behind it on a vertical board.
 
-### We have to find the resultant of
+# We have to find the resultant of
 
 forces P and Q.
 
-## 1 kg
+1 kg
 
 Read the values of P and Q from the spring balances.
 
 Mark on Figure 7.
 
-## the paper the directions of P
+the paper the directions of P
 
 Q and W as shown by the strings.
 
@@ -4842,15 +4842,15 @@ Q and W as shown by the strings.
 
 indd 27 20/06/14 7:39 AM
 
-## 7 Adding ForCes
+7 Adding ForCes
 
-## mc
+mc
 
-## ●● Examples of addition
+●● Examples of addition
 
-## of forces
+of forces
 
-### 1 Two people carrying a heavy bucket. The
+1 Two people carrying a heavy bucket. The
 
 weight of the bucket is balanced by the force F
 
@@ -4858,7 +4858,7 @@ Use the scale 1 cm 1 N the resultant of F 1 and F 2 (Figure 7.
 
 6a).
 
-### 2 Two tugs pulling a ship. The resultant of T
+2 Two tugs pulling a ship. The resultant of T
 
 and T is forwards in direction (Figure 7.
 
@@ -4876,9 +4876,9 @@ of the sea and the wind).
 
 P and Q together are balanced by W and so their resultant must
 
-## F F F
+# F F F
 
-## 1 2
+1 2
 
 be a force equal and opposite to W.
 
@@ -4888,7 +4888,7 @@ Measure the diagonal OC;
 
 if it is equal in size (i.e. 9.
 
-### 8 cm) and opposite in direction to W
+8 cm) and opposite in direction to W
 
 then it represents the resultant of P and Q.
 
@@ -4898,7 +4898,7 @@ If two forces acting at a point are represented in size
 
 and direction by the sides of a parallelogram drawn
 
-## from the point
+from the point
 
 their resultant is represented in size and
 
@@ -4906,51 +4906,51 @@ direction by the diagonal of the parallelogram drawn from
 
 the point.
 
-## ●●Worked example 1
+●●Worked example 1
 
 Find the resultant of two forces of 4.
 
-## 0 N and 5.
+0 N and 5.
 
 acting at an angle of 45º to each other.
 
-## tugs
+tugs
 
 Using a scale of 1.
 
-## 0 cm = 1.
+0 cm = 1.
 
-## 0 N, draw
+0 N, draw
 
 parallelogram ABDC with AB = 5.
 
-## 0 cm, AC = 4.
+0 cm, AC = 4.
 
 and angle CAB = 45º (Figure 7.
 
-## By the
+# By the
 
 Figure 7.
 
-## parallelogram law
+parallelogram law
 
-### the diagonal AD represents the
+the diagonal AD represents the
 
-### resultant in magnitude and direction
+resultant in magnitude and direction
 
-## it measures
+it measures
 
-## ●●Vectors and scalars
+●●Vectors and scalars
 
-## 8.3 cm, and angle BAD = 20º.
+# 8.3 cm, and angle BAD = 20º.
 
 ∴ Resultant is a force of 8.
 
-## 3 N acting at an angle
+3 N acting at an angle
 
 of 20º to the force of 5.
 
-## 0 N.
+0 N.
 
 A vector quantity is one such as force which
 
@@ -4958,27 +4958,27 @@ is described completely only if both its size
 
 Scale: 1.
 
-## 0 cm 1.
+0 cm 1.
 
-### 0 N (magnitude) and direction are stated.
+0 N (magnitude) and direction are stated.
 
-## It is not
+# It is not
 
-## C D enough to say
+# C D enough to say
 
-## for example
+for example
 
-## a force of 10 N
+a force of 10 N
 
 rather a force of 10 N acting vertically downwards.
 
-## 4.0 N
+# 4.0 N
 
 A vector can be represented by a straight line
 
 whose length represents the magnitude of the
 
-## 45°
+45°
 
 quantity and whose direction gives its line of action.
 
@@ -4986,25 +4986,25 @@ quantity and whose direction gives its line of action.
 
 Figure 7.
 
-## 5 line it acts.
+5 line it acts.
 
 9781444176421_Section_01.
 
 indd 28 20/06/14 7:40 AM
 
-## Friction
+# Friction
 
 A scalar quantity has magnitude only.
 
-## Mass is a
+# Mass is a
 
-## Questions
+# Questions
 
 scalar and is completely described when its value is
 
-### 1 Jo, Daniel and Helen are pulling a metal ring.
+1 Jo, Daniel and Helen are pulling a metal ring.
 
-## Jo pulls with
+# Jo pulls with
 
 known.
 
@@ -5012,13 +5012,13 @@ Scalars are added by ordinary arithmetic
 
 a force of 100 N in one direction and Daniel with a force
 
-### vectors are added geometrically
+vectors are added geometrically
 
-## taking account of
+taking account of
 
 of 140 N in the opposite direction.
 
-## If the ring does not
+# If the ring does not
 
 their directions as well as their magnitudes.
 
@@ -5028,11 +5028,11 @@ direction as Jo?
 
 ●●Friction 2 A boy drags a suitcase along the ground with a force of
 
-## 100 N.
+100 N.
 
 If the frictional force opposing the motion of the
 
-## suitcase is 50 N
+suitcase is 50 N
 
 what is the resultant forward force on the
 
@@ -5042,11 +5042,11 @@ suitcase?
 
 or trying to move, over another.
 
-## It can be a help or a
+# It can be a help or a
 
-### 3 A picture is supported by two vertical strings
+3 A picture is supported by two vertical strings
 
-## if the weight
+if the weight
 
 hindrance.
 
@@ -5056,11 +5056,11 @@ between the soles of our shoes and the ground.
 
 string?
 
-## Our feet would slip backwards
+# Our feet would slip backwards
 
 as they tend to if 4 Using a scale of 1 cm to represent 10 N
 
-## fi nd the size and
+fi nd the size and
 
 direction of the resultant of forces of 30 N and 40 N acting
 
@@ -5076,7 +5076,7 @@ reduce friction to a minimum in the moving parts of
 
 machinery by using lubricating oils and ball-bearings.
 
-## acting
+acting
 
 When a gradually increasing force P is applied a in opposite directions to each other
 
@@ -5086,25 +5086,25 @@ through a spring balance to a block on a table b at 90° to each other.
 
 7), the block does not move at fi rst.
 
-## This is
+# This is
 
 because an equally increasing but opposing frictional
 
 force F acts where the block and table touch.
 
-## At any
+# At any
 
 instant P and F are equal and opposite.
 
-## Checklist
+# Checklist
 
-## If P is increased further
+# If P is increased further
 
 the block eventually After studying this chapter you should be able to
 
 moves; as it does so F has its maximum value
 
-## called
+called
 
 • combine forces acting along the same straight line to fi nd
 
@@ -5112,15 +5112,15 @@ starting or static friction.
 
 When the block is moving their resultant
 
-## at a steady speed
+at a steady speed
 
-### the balance reading is slightly less
+the balance reading is slightly less
 
 • add vectors graphically to determine a resultant
 
 than that for starting friction.
 
-## Sliding or dynamic
+# Sliding or dynamic
 
 • distinguish between vectors and scalars and give examples
 
@@ -5142,17 +5142,17 @@ When work is done against friction, the
 
 temperatures of the bodies in contact rise (as you can
 
-### test by rubbing your hands together)
+test by rubbing your hands together)
 
-## mechanical
+mechanical
 
 energy is being changed into heat energy (see
 
 Chapter 13).
 
-## block spring balance
+block spring balance
 
-## F P
+# F P
 
 Figure 7.
 
@@ -5162,23 +5162,23 @@ Figure 7.
 
 indd 29 20/06/14 7:40 AM
 
-## Force and acceleration
+# Force and acceleration
 
 ● Newton’s fi rst law ● Gravitational fi eld
 
-### ● Mass and inertia ● Newton’s third law
+● Mass and inertia ● Newton’s third law
 
-### ● Newton’s second law ● Air resistance
+● Newton’s second law ● Air resistance
 
-## terminal velocity
+terminal velocity
 
-### ● Weight and gravity ● Practical work
+● Weight and gravity ● Practical work
 
 Effect of force and mass on acceleration
 
-## ●●Newton’s fi rst law
+●●Newton’s fi rst law
 
-## ●●Mass and inertia
+●●Mass and inertia
 
 Friction and air resistance cause a car to come to rest
 
@@ -5186,21 +5186,21 @@ when the engine is switched off.
 
 If these forces were Newton’s fi rst law is another way of saying that all
 
-## absent we believe that a body
+absent we believe that a body
 
-## once set in motion
+once set in motion
 
 matter has a built-in opposition to being moved if
 
 would go on moving forever with a constant speed in it is at rest or
 
-## if it is moving
+if it is moving
 
-## to having its motion
+to having its motion
 
 a straight line.
 
-## That is
+# That is
 
 force is not needed to keep a changed.
 
@@ -5214,29 +5214,29 @@ Its effect is evident on the occupants of a car that
 
 This idea was proposed by Galileo and is summed stops suddenly
 
-### they lurch forwards in an attempt
+they lurch forwards in an attempt
 
-### up in Newton’s fi rst law of motion
+up in Newton’s fi rst law of motion
 
-## to continue moving
+to continue moving
 
-### and this is why seat belts are
+and this is why seat belts are
 
 needed.
 
 The reluctance of a stationary object to
 
-## A body stays at rest
+# A body stays at rest
 
 or if moving it continues to move with move can be shown by placing a large coin on a
 
-## uniform velocity
+uniform velocity
 
 unless an external force makes it behave
 
 piece of card on your fi nger (Figure 8.
 
-## If the card
+# If the card
 
 differently.
 
@@ -5248,7 +5248,7 @@ It seems that the question we should ask about a
 
 moving body is not ‘what keeps it moving’ but ‘what
 
-## coin
+coin
 
 changes or stops its motion’.
 
@@ -5272,25 +5272,25 @@ motion.
 
 Figure 8.
 
-## 2 Flick the card sharply
+2 Flick the card sharply
 
-## The larger the mass of a body
+# The larger the mass of a body
 
-## the greater is its
+the greater is its
 
-## inertia
+inertia
 
 i.e. the more diffi cult it is to move it
 
 when at rest and to stop it when in motion.
 
-## Because
+# Because
 
 of this we consider that the mass of a body
 
 measures its inertia.
 
-## This is a better defi nition
+# This is a better defi nition
 
 of mass than the one given earlier (Chapter 1) in
 
@@ -5300,41 +5300,41 @@ in a body.
 
 Figure 8.
 
-### 1 Friction is much reduced for an airboard.
+1 Friction is much reduced for an airboard.
 
 9781444176421_Section_01.
 
 indd 30 20/06/14 7:40 AM
 
-## newton’s second law
+newton’s second law
 
 Practical work Find the accelerations from the tape charts or computer
 
 plots and tabulate the results.
 
-### Do they suggest any relationship
+# Do they suggest any relationship
 
 between a and m?
 
-## Effect of force and mass on
+# Effect of force and mass on
 
 Mass (m)/(no.
 
-## of trolleys) 1 2 3
+of trolleys) 1 2 3
 
-## acceleration
+acceleration
 
-### Acceleration (a)/cm/tentick2 or m/s2
+Acceleration (a)/cm/tentick2 or m/s2
 
 The apparatus consists of a trolley to which a force is applied by a
 
 stretched length of elastic (Figure 8.
 
-## The velocity of the trolley
+# The velocity of the trolley
 
 is found from a tickertape timer or a motion sensor
 
-## datalogger
+datalogger
 
 and computer (see Figure 2.
 
@@ -5350,15 +5350,15 @@ the trolley runs down with uniform velocity when given a push.
 
 The dots on the tickertape should be equally spaced
 
-## or a
+or a
 
 The previous experiment should show roughly that
 
 horizontal trace obtained on a velocity–time graph.
 
-## There is now
+# There is now
 
-## the acceleration a is
+the acceleration a is
 
 no resultant force on the trolley and any acceleration produced
 
@@ -5384,57 +5384,57 @@ keeping the same stretch on the elastic.
 
 After a few trials you Combining the results into one equation
 
-## we get
+we get
 
 should be able to produce a steady accelerating force.
 
-## a ∝ or F ∝ ma
+a ∝ or F ∝ ma
 
 tickertape timer trolley stretched elastic
 
-## (or motion sensor) Therefore
+(or motion sensor) Therefore
 
-## F = kma
+F = kma
 
 where k is the constant of proportionality.
 
 One newton is defi ned as the force which gives a mass of 1 kg
 
-## an acceleration of 1 m/s2
+an acceleration of 1 m/s2
 
 i.e., 1 N = 1 kg m/s2.
 
-## So if m = 1 kg and a = 1 m/s2
+So if m = 1 kg and a = 1 m/s2
 
 then F = 1 N.
 
 Figure 8.
 
-## Substituting in F = kma
+Substituting in F = kma
 
-## we get k = 1 and so we
+we get k = 1 and so we
 
-## can write
+can write
 
 Repeat using fi rst two and then three identical pieces of elastic
 
 stretched side by side by the same amount
 
-## to give two and three
+to give two and three
 
 units of force.
 
-## F = ma
+F = ma
 
-## If you are using tickertape
+# If you are using tickertape
 
-### make a tape chart for each force and
+make a tape chart for each force and
 
 use it to fi nd the acceleration produced in cm/tentick2 (see Chapter
 
 Ignore the start of the tape (where the dots are too close) and This is Newton’s second law of motion.
 
-## When
+# When
 
 the end (where the force may not be steady).
 
@@ -5454,7 +5454,7 @@ Second, F must be in newtons, m
 
 Does a steady force cause a steady acceleration?
 
-## Put the
+# Put the
 
 in kilograms and a in metres per second squared
 
@@ -5466,7 +5466,7 @@ acceleration, a, and force F?
 
 otherwise k is not 1.
 
-## The law shows that a will be
+# The law shows that a will be
 
 largest when F is large and m small.
 
@@ -5476,31 +5476,31 @@ of pieces of elastic) 1 2 3 You should now appreciate that when the forces
 
 acting on a body do not balance there is a net
 
-### Acceleration (a)/cm/tentick2 or m/s2
+Acceleration (a)/cm/tentick2 or m/s2
 
 (resultant) force which causes a change of motion
 
 i.e. the body accelerates or decelerates.
 
-## If the forces
+# If the forces
 
 b) Mass and acceleration (force constant)
 
-## balance
+balance
 
 there is no change in the motion of the body.
 
 Do the experiment as in a) using two pieces of elastic (i.e.
 
-## However
+# However
 
-### there may be a change of shape
+there may be a change of shape
 
-## in which
+in which
 
 constant F ) to accelerate fi rst one trolley
 
-## then two (stacked
+then two (stacked
 
 one above the other) and fi nally three.
 
@@ -5514,19 +5514,19 @@ neighbouring atoms) balance the external forces.
 
 indd 31 20/06/14 7:40 AM
 
-## 8 ForCe And ACCelerAtion
+8 ForCe And ACCelerAtion
 
-### ●●Worked example ●●Gravitational fi eld
+●●Worked example ●●Gravitational fi eld
 
 A block of mass 2 kg has a constant velocity when it The force of gravity acts through space and can
 
 is pushed along a table by a force of 5 N.
 
-## When the cause a body
+# When the cause a body
 
-## not in contact with the Earth
+not in contact with the Earth
 
-## to fall
+to fall
 
 push is increased to 9 N what is to the ground.
 
@@ -5550,7 +5550,7 @@ When the block moves with constant velocity the magnetic and electric fi elds wi
 
 forces acting on it are balanced.
 
-## The force of friction
+# The force of friction
 
 opposing its motion must therefore be 5 N.
 
@@ -5564,57 +5564,57 @@ a When the push is increased to 9 N the resultant
 
 Measurement shows that on the Earth’s surface a
 
-### 4 N (since the frictional force is still 5 N).
+4 N (since the frictional force is still 5 N).
 
 mass of 1 kg experiences a force of 9.
 
-## 8 N, i.e. its
+8 N, i.e. its
 
 b The acceleration a is obtained from F = ma where
 
 weight is 9.
 
-## 8 N.
+8 N.
 
-### The strength of the Earth’s fi eld
+The strength of the Earth’s fi eld
 
 F = 4 N and m = 2 kg.
 
 is therefore 9.
 
-## 8 N/kg (near enough 10 N/kg).
+8 N/kg (near enough 10 N/kg).
 
-## is denoted by g
+is denoted by g
 
-### the letter also used to denote the
+the letter also used to denote the
 
 F 4N 4kg m/s2 acceleration of free fall.
 
-## Hence
+# Hence
 
-## ∴ a = = = = 2m/s2
+∴ a = = = = 2m/s2
 
-## m 2kg 2kg
+m 2kg 2kg
 
 g = 9.
 
-## 8 N/kg = 9.
+8 N/kg = 9.
 
-## 8 m/s2
+8 m/s2
 
 ●●Weight and gravity We now have two ways of regarding g.
 
-## When
+# When
 
-### considering bodies falling freely
+considering bodies falling freely
 
-## we can think of
+we can think of
 
 The weight W of a body is the force of gravity acting it as an acceleration of 9.
 
-## 8 m/s2.
+8 m/s2.
 
-## When a body of
+# When a body of
 
 on it which gives it an acceleration g when it is falling known mass is at rest and we wish to know the force
 
@@ -5626,31 +5626,31 @@ m, then W can be calculated from F = ma.
 
 We put Earth’s gravitational fi eld strength of 9.
 
-## 8 N/kg.
+8 N/kg.
 
-## F = W and a = g to give
+F = W and a = g to give
 
-## W = mg ●●Newton’s third law
+W = mg ●●Newton’s third law
 
 Taking g = 9.
 
-## 8 m/s2 and m = 1 kg
+8 m/s2 and m = 1 kg
 
 this gives If a body A exerts a force on body B
 
-## then body B exerts an
+then body B exerts an
 
 equal but opposite force on body A.
 
 W = 9.
 
-### 8 N, i.e. a body of mass 1 kg has weight
+8 N, i.e. a body of mass 1 kg has weight
 
-### 9.8 N, or near enough 10 N. Similarly a body of
+# 9.8 N, or near enough 10 N. Similarly a body of
 
 This is Newton’s third law of motion and states
 
-### mass 2 kg has weight of about 20 N
+mass 2 kg has weight of about 20 N
 
 and so on.
 
@@ -5662,37 +5662,37 @@ as a result of the action between two bodies.
 
 weight varies depending on the value of g.
 
-## On the
+# On the
 
-## example
+example
 
-### when you step forwards from rest your
+when you step forwards from rest your
 
 Moon the acceleration of free fall is only about
 
-### foot pushes backwards on the Earth
+foot pushes backwards on the Earth
 
-## and the Earth
+and the Earth
 
-## 6 m/s2
+6 m/s2
 
 and so a mass of 1 kg has a weight of just
 
 exerts an equal and opposite force forward on you.
 
-## 1.6 N there.
+# 1.6 N there.
 
 Two bodies and two forces are involved.
 
-## The small
+# The small
 
 The weight of a body is directly proportional
 
 force you exert on the large mass of the Earth gives
 
-## to its mass
+to its mass
 
-### which explains why g is the same
+which explains why g is the same
 
 no noticeable acceleration to the Earth but the
 
@@ -5712,11 +5712,11 @@ Note that the pair of equal and opposite forces do
 
 of its greater inertia (i.e. its greater resistance to
 
-## not act on the same body
+not act on the same body
 
-## if they did
+if they did
 
-## there could
+there could
 
 acceleration).
 
@@ -5728,11 +5728,11 @@ Air resistance: terminal velocity
 
 never be any resultant forces and acceleration would (because friction with the water is slight).
 
-## This
+# This
 
 be impossible.
 
-## For a book resting on a table
+# For a book resting on a table
 
 the reduces your forwards motion by the same amount –
 
@@ -5740,7 +5740,7 @@ book exerts a downward force on the table and the so you may fall in!
 
 table exerts an equal and opposite upward force on
 
-## the book
+the book
 
 this pair of forces act on different objects
 
@@ -5758,51 +5758,51 @@ An appreciation of the third law and the effect of
 
 friction is desirable when stepping from a rowing
 
-## NEWTON
+# NEWTON
 
-## III
+# III
 
 boat (Figure 8.
 
-### You push backwards on the boat
+# You push backwards on the boat
 
 and, although the boat pushes you forwards with
 
-## an equal force
+an equal force
 
 it is itself now moving backwards Figure 8.
 
 5 The boat moves backwards when you step forwards!
 
-## push of table
+push of table
 
-## on book
+on book
 
-## contact
+contact
 
-## force pair pull of Earth
+force pair pull of Earth
 
-## push of book
+push of book
 
-## on book
+on book
 
-## on table
+on table
 
-## gravitational
+gravitational
 
-## force pair
+force pair
 
-## pull of book
+pull of book
 
-## on Earth
+on Earth
 
 Figure 8.
 
-### 4 Forces between book and table
+4 Forces between book and table
 
 ●●Air resistance: terminal velocity
 
-## When an object falls in air
+# When an object falls in air
 
 the air resistance (fl uid Objects falling in liquids behave similarly to those
 
@@ -5816,73 +5816,73 @@ resistance acting upwards equals the weight of the
 
 object acting downwards.
 
-## The resultant force on the
+# The resultant force on the
 
 object is then zero since the gravitational force balances
 
 the frictional force.
 
-### The object falls at a constant
+# The object falls at a constant
 
-## velocity
+velocity
 
-## called its terminal velocity
+called its terminal velocity
 
-## whose value
+whose value
 
-## depends on the size
+depends on the size
 
 shape and weight of the object.
 
-## A small dense object
+# A small dense object
 
-## such as a steel ball-bearing
+such as a steel ball-bearing
 
 has a high terminal velocity and falls a considerable
 
 distance with a constant acceleration of 9.
 
-## 8 m/s2
+8 m/s2
 
 before air resistance equals its weight.
 
 A light object,
 
-## like a raindrop
+like a raindrop
 
-### or an object with a large surface area
+or an object with a large surface area
 
-## such as a parachute
+such as a parachute
 
-### has a low terminal velocity and
+has a low terminal velocity and
 
 only accelerates over a comparatively short distance
 
 before air resistance equals its weight.
 
-## A skydiver
+# A skydiver
 
 (Figure 8.
 
-### 6) has a terminal velocity of more than
+6) has a terminal velocity of more than
 
-### 50 m/s (180 km/h) before the parachute is opened.
+50 m/s (180 km/h) before the parachute is opened.
 
 Figure 8.
 
-## 6 Synchronised skydivers
+6 Synchronised skydivers
 
 9781444176421_Section_01.
 
 indd 33 20/06/14 7:40 AM
 
-## 8 ForCe And ACCelerAtion
+8 ForCe And ACCelerAtion
 
-## Questions
+# Questions
 
-### 7 A rocket has a mass of 500 kg.
+7 A rocket has a mass of 500 kg.
 
-### 1 Which one of the diagrams in Figure 8.
+1 Which one of the diagrams in Figure 8.
 
 7 shows the a What is its weight on Earth where g = 10 N/kg?
 
@@ -5890,7 +5890,7 @@ b At lift-off the rocket engine exerts an upward force of
 
 arrangement of forces that gives the block of mass M the
 
-## 25 000 N.
+25 000 N.
 
 What is the resultant force on the rocket?
 
@@ -5898,15 +5898,15 @@ greatest acceleration?
 
 What is its initial acceleration?
 
-## A B
+# A B
 
-## 8 Figure 8.
+8 Figure 8.
 
-### 9 shows the forces acting on a raindrop which is
+9 shows the forces acting on a raindrop which is
 
-### 10 N 12 N 2 N 4 N falling to the ground.
+10 N 12 N 2 N 4 N falling to the ground.
 
-## M M
+# M M
 
 a (i) A is the force which causes the raindrop to fall.
 
@@ -5914,7 +5914,7 @@ C D What is this force called?
 
 (ii) B is the total force opposing the motion of the
 
-## 20 N 40 N 20 N 30 N
+20 N 40 N 20 N 30 N
 
 M M drop.
 
@@ -5922,23 +5922,23 @@ State one possible cause of this force.
 
 b What happens to the drop when force A = force B?
 
-## 3 N 15 N B
+3 N 15 N B
 
-## raindrop
+raindrop
 
 Figure 8.
 
-## 2 In Figure 8.
+2 In Figure 8.
 
-### 8 if P is a force of 20 N and the object moves A
+8 if P is a force of 20 N and the object moves A
 
-## with constant velocity
+with constant velocity
 
 what is the value of the opposing Figure 8.
 
 force F ?
 
-### 9 Explain the following using F = ma.
+9 Explain the following using F = ma.
 
 P object F a A racing car has a powerful engine and is made of
 
@@ -5952,7 +5952,7 @@ Figure 8.
 
 in a car of mass 1000 kg?
 
-## Checklist
+# Checklist
 
 b What acceleration is produced in a mass of 2 kg by a
 
@@ -5968,7 +5968,7 @@ frictionless bench by a steady force F and travels 8 m in 2 s.
 
 between force, mass and acceleration,
 
-## Find
+# Find
 
 • state the unit of force,
 
@@ -5982,11 +5982,11 @@ b the value of F.
 
 problems,
 
-### 5 m/s in 10 s on her bicycle. Find
+5 m/s in 10 s on her bicycle. Find
 
-## a the acceleration
+a the acceleration
 
-### • recall and use the equation W = mg
+• recall and use the equation W = mg
 
 b the average speed during the 10 s,
 
@@ -5994,11 +5994,11 @@ b the average speed during the 10 s,
 
 c the distance she travels in 10 s.
 
-## Eventually
+# Eventually
 
 even though she is still pedalling as fast as • describe the motion of an object falling in air.
 
-## she can
+she can
 
 she stops accelerating and her speed reaches a
 
@@ -6008,63 +6008,63 @@ Explain in terms of the forces acting why
 
 this happens.
 
-### 6 What does an astronaut of mass 100 kg weigh
+6 What does an astronaut of mass 100 kg weigh
 
 a on Earth where the gravitational fi eld strength is
 
-## 10 N/kg,
+10 N/kg,
 
 b on the Moon where the gravitational fi eld strength is
 
-## 1.6 N/kg?
+# 1.6 N/kg?
 
 9781444176421_Section_01.
 
 indd 34 20/06/14 7:41 AM
 
-## Circular motion
+# Circular motion
 
-### ● Centripetal force ● Satellites
+● Centripetal force ● Satellites
 
-### ● Rounding a bend ● Practical work
+● Rounding a bend ● Practical work
 
-## Investigating circular motion
+# Investigating circular motion
 
-## ● Looping the loop
+● Looping the loop
 
 There are many examples of bodies moving in
 
-## ●●Centripetal force
+●●Centripetal force
 
-### circular paths – rides at a funfair
+circular paths – rides at a funfair
 
-## clothes being
+clothes being
 
-## spun dry in a washing machine
+spun dry in a washing machine
 
-## the planets going
+the planets going
 
 round the Sun and the Moon circling the Earth.
 
 In Figure 9.
 
-### 2 a ball attached to a string is being
+2 a ball attached to a string is being
 
 When a car turns a corner it may follow an arc of a whirled round in a horizontal circle.
 
-## Its direction of
+# Its direction of
 
 circle.
 
 ‘Throwing the hammer’ is a sport practised at motion is constantly changing.
 
-## At A it is along the
+# At A it is along the
 
 highland games in Scotland (Figure 9.
 
 1), in which tangent at A
 
-## shortly afterwards
+shortly afterwards
 
 at B, it is along the
 
@@ -6074,19 +6074,19 @@ and so on.
 
 released.
 
-### Velocity has both size and direction
+# Velocity has both size and direction
 
-## speed has
+speed has
 
 only size.
 
-### Velocity is speed in a stated direction
+# Velocity is speed in a stated direction
 
 and if the direction of a moving body changes
 
-## even if its speed does not
+even if its speed does not
 
-## then its velocity has
+then its velocity has
 
 changed.
 
@@ -6104,15 +6104,15 @@ accelerating then there must be a force acting on it
 
 to cause the acceleration.
 
-## In the case of the whirling
+# In the case of the whirling
 
 ball it is reasonable to say the force is provided
 
 by the string pulling inwards on the ball.
 
-## Like the
+# Like the
 
-## acceleration
+acceleration
 
 the force acts towards the centre of the
 
@@ -6120,7 +6120,7 @@ circle and keeps the body at a fi xed distance from
 
 the centre.
 
-## A larger force is needed if
+# A larger force is needed if
 
 (i) the speed v of the ball is increased
 
@@ -6128,61 +6128,61 @@ the centre.
 
 (iii) the mass m of the ball is increased.
 
-### The rate of change of direction
+# The rate of change of direction
 
-## and so the acceleration
+and so the acceleration
 
 a, is increased by (i) and (ii).
 
-## It can be shown that
+# It can be shown that
 
-## a = v2/r and so
+a = v2/r and so
 
-## from F = ma
+from F = ma
 
-## we can write
+we can write
 
-## mv2
+mv2
 
 Figure 9.
 
-## 1 ‘Throwing the hammer’ F =
+1 ‘Throwing the hammer’ F =
 
-## This force
+# This force
 
-### which acts towards the centre and
+which acts towards the centre and
 
-## string
+string
 
-### keeps a body moving in a circular path
+keeps a body moving in a circular path
 
-## is called the
+is called the
 
 centripetal force (centre-seeking force).
 
-## force in string pulls
+force in string pulls
 
 Should the force be greater than the string can
 
-## ball into a
+ball into a
 
-## circular path bear
+circular path bear
 
 the string breaks and the ball fl ies off with
 
 Figure 9.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_01.
 
 indd 35 20/06/14 7:41 AM
 
-## 9 CirCulAr Motion
+9 CirCulAr Motion
 
 steady speed in a straight line along the tangent
 
-## therefore
+therefore
 
 depends on the tyres and the road surface
 
@@ -6204,11 +6204,11 @@ In friction is achieved by ‘banking’ the road as in
 
 throwing the hammer it is the pull of the athlete’s Figure 9.
 
-### Some of the centripetal force is then
+# Some of the centripetal force is then
 
 arms acting on the hammer towards the centre of the supplied by the part of the contact force N
 
-## from
+from
 
 whirling path.
 
@@ -6218,9 +6218,9 @@ that acts horizontally.
 
 force is exerted inwards by the road on the car’s tyres.
 
-### A bend in a railway track is banked
+# A bend in a railway track is banked
 
-## so that the
+so that the
 
 outer rail is not strained by having to supply the
 
@@ -6228,17 +6228,17 @@ centripetal force by pushing inwards on the wheel
 
 flanges.
 
-## Practical work
+# Practical work
 
-## contact force N
+contact force N
 
-## horizontal effect
+horizontal effect
 
-## Investigating circular motion
+# Investigating circular motion
 
-## of N centripetal
+of N centripetal
 
-## friction force
+friction force
 
 Use the apparatus in Figure 9.
 
@@ -6246,7 +6246,7 @@ Use the apparatus in Figure 9.
 
 factors that affect circular motion.
 
-## Make sure the rubber
+# Make sure the rubber
 
 bung is tied securely to the string and that the area around
 
@@ -6254,19 +6254,19 @@ Figure 9.
 
 you is clear of other students.
 
-## The paper clip acts as an
+# The paper clip acts as an
 
 indicator to aid keeping the radius of the circular motion
 
 constant.
 
-## ●●Looping the loop
+●●Looping the loop
 
 Spin the rubber bung at a constant speed while adding more
 
-## weights to the holder
+weights to the holder
 
-### it will be found that the radius of the
+it will be found that the radius of the
 
 A pilot who is not strapped into his aircraft can still
 
@@ -6282,45 +6282,45 @@ constant.
 
 Are these findings in agreement with the formula given of the loop.
 
-### A bucket of water can be swung round
+# A bucket of water can be swung round
 
 on p.
 
-## 35 for the centripetal force
+35 for the centripetal force
 
 F = mv2/r ?
 
 in a vertical circle without spilling.
 
-## Some amusement
+# Some amusement
 
 park rides (Figure 9.
 
 5) give similar effects.
 
-## Can you
+# Can you
 
 suggest what provides the centripetal force for each
 
-## string
+string
 
 rubber bung of these three cases (i) at the top of the loop and (ii)
 
 at the bottom of the loop?
 
-## rubber tube
+rubber tube
 
-## glass tube
+glass tube
 
-### paper clip (indicator) ●●Satellites
+paper clip (indicator) ●●Satellites
 
-### hanger and 10 g slotted weights
+hanger and 10 g slotted weights
 
 For a satellite of mass m orbiting the Earth at
 
-## radius r with orbital speed v
+radius r with orbital speed v
 
-## the centripetal force
+the centripetal force
 
 Figure 9.
 
@@ -6332,17 +6332,17 @@ height above the Earth it must enter the orbit at the
 
 ●●Rounding a bend correct speed.
 
-## If it does not
+# If it does not
 
-## the force of gravity
+the force of gravity
 
-## which
+which
 
 decreases as height above the Earth increases
 
-## will not
+will not
 
-## When a car rounds a bend
+# When a car rounds a bend
 
 a frictional force is be equal to the centripetal force needed for the orbit.
 
@@ -6358,7 +6358,7 @@ in its curved path (Figure 9.
 
 Here friction (Figure 9.
 
-### If gravity did not pull it towards the
+# If gravity did not pull it towards the
 
 acts as an accelerating force (towards the centre centre of the Earth it would continue to travel
 
@@ -6368,7 +6368,7 @@ of the circle) rather than a retarding force (p.
 
 horizontally, taking path A.
 
-## In practice it might take
+# In practice it might take
 
 The successful negotiation of a bend on a flat road
 
@@ -6380,19 +6380,19 @@ A second shell fired faster might take path C
 
 indd 36 20/06/14 7:41 AM
 
-## satellites
+satellites
 
 The orbital period T (the time for one orbit)
 
 of a satellite = distance/velocity.
 
-## So for a
+# So for a
 
-## circular orbit
+circular orbit
 
-## 2πr
+2πr
 
-## T =
+T =
 
 Satellites in high orbits have longer periods than
 
@@ -6406,47 +6406,47 @@ Earth.
 
 It has an orbital period of 27 days.
 
-## a) Communication satellites
+a) Communication satellites
 
 These circle the Earth in orbits above the equator.
 
 Geostationary satellites have an orbit high above
 
-## the equator (36 000 km)
+the equator (36 000 km)
 
-## they travel with the
+they travel with the
 
-### same speed as the Earth rotates
+same speed as the Earth rotates
 
-## so appear to be
+so appear to be
 
 stationary at a particular point above the Earth’s
 
 surface – their orbital period is 24 hours.
 
-## They are
+# They are
 
-### used for transmitting television
+used for transmitting television
 
-## intercontinental
+intercontinental
 
 telephone and data signals.
 
-## Geostationary satellites
+# Geostationary satellites
 
 need to be well separated so that they do not
 
-## interfere with each other
+interfere with each other
 
-## there is room for
+there is room for
 
 about 400.
 
 Mobile phone networks use many satellites in
 
-## much lower equatorial orbits
+much lower equatorial orbits
 
-## they are slowed
+they are slowed
 
 by the Earth’s atmosphere and their orbit has to
 
@@ -6464,13 +6464,13 @@ it might never catch up with the rate at which the
 
 Earth’s surface is falling away.
 
-## It would remain at the
+# It would remain at the
 
-## b) Monitoring satellites
+b) Monitoring satellites
 
 same height above the Earth (path D) and return to
 
-## the mountain top
+the mountain top
 
 behaving like a satellite.
 
@@ -6478,17 +6478,17 @@ These circle the Earth rapidly in low polar orbits
 
 i.e. passing over both poles
 
-## at a height of 850 km
+at a height of 850 km
 
-## shell
+shell
 
 the orbital period is only 100 minutes.
 
-## The Earth
+# The Earth
 
 A rotates below them so they scan the whole surface
 
-## mountain B
+mountain B
 
 at short range in a 24-hour period and can be
 
@@ -6496,7 +6496,7 @@ used to map or monitor regions of the Earth’s
 
 surface which may be inaccessible by other means.
 
-## Earth
+# Earth
 
 They are widely used in weather forecasting to
 
@@ -6510,21 +6510,21 @@ picked up in turn by receiving stations around
 
 Figure 9.
 
-## 6 the world.
+6 the world.
 
-## ▲ ▲
+▲ ▲
 
 Figure 9.
 
-### 5 Looping the loop at an amusement park
+5 Looping the loop at an amusement park
 
 9781444176421_Section_01.
 
 indd 37 20/06/14 7:41 AM
 
-## 9 CirCulAr Motion
+9 CirCulAr Motion
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -6544,15 +6544,15 @@ a bend,
 
 Figure 9.
 
-### 7 Satellite image of cloud over Europe
+7 Satellite image of cloud over Europe
 
-## Questions
+# Questions
 
 1 An apple is whirled round in a horizontal circle on the end
 
 of a string which is tied to the stalk.
 
-## It is whirled faster and
+# It is whirled faster and
 
 faster and at a certain speed the apple is torn from the
 
@@ -6574,13 +6574,13 @@ b Is a larger or a smaller centripetal force required if
 
 3 Racing cars are fi tted with tyres called ‘slicks’
 
-## which have
+which have
 
-## no tread pattern
+no tread pattern
 
-## for dry tracks
+for dry tracks
 
-## and with ‘tread’ tyres for
+and with ‘tread’ tyres for
 
 wet tracks.
 
@@ -6590,7 +6590,7 @@ Why?
 
 has an orbital speed of 8 km/s.
 
-### Taking the radius of the orbit
+# Taking the radius of the orbit
 
 as approximately equal to the Earth’s radius of 6400 km
 
@@ -6600,21 +6600,21 @@ calculate the time it takes to make one orbit.
 
 indd 38 20/06/14 7:41 AM
 
-## Moments and levers
+# Moments and levers
 
 ● Moment of a force ● Conditions for equilibrium
 
-### ● Balancing a beam ● Practical work
+● Balancing a beam ● Practical work
 
-## Law of moments
+# Law of moments
 
-## ● Levers
+● Levers
 
-### ●●Moment of a force ●●Balancing a beam
+●●Moment of a force ●●Balancing a beam
 
 The handle on a door is at the outside edge so that it To balance a beam about a pivot
 
-## like the ruler in
+like the ruler in
 
 opens and closes easily.
 
@@ -6638,13 +6638,13 @@ The turning effect of a force is called the m can be moved further from the pivo
 
 moment of the force.
 
-### It depends on both the turning effect
+# It depends on both the turning effect
 
-### alternatively m can be moved nearer to
+alternatively m can be moved nearer to
 
 size of the force and how far it is applied from the the pivot to reduce its turning effect.
 
-## What adjustment
+# What adjustment
 
 pivot or fulcrum.
 
@@ -6654,25 +6654,25 @@ force by the perpendicular distance of the line of beam if it is tending to swin
 
 action of the force from the fulcrum.
 
-## The unit is the
+# The unit is the
 
 newton metre (N m).
 
-## Practical work
+# Practical work
 
 moment of a force = force × perpendicular distance of the line
 
-### of action of the force from fulcrum
+of action of the force from fulcrum
 
-## Law of moments
+# Law of moments
 
 In Figure 10.
 
 1a, a force F acts on a gate at its edge
 
-## d d
+d d
 
-## 1 2
+1 2
 
 and in Figure 10.
 
@@ -6682,7 +6682,7 @@ In Figure 10.
 
 moment of F about O = 5 N × 3 m = 15 N m
 
-## fulcrum (nail through
+fulcrum (nail through
 
 In Figure 10.
 
@@ -6690,17 +6690,17 @@ In Figure 10.
 
 moment of F about O = 5 N × 1.
 
-## 5 m = 7.
+5 m = 7.
 
-## 5 N m Figure 10.
+5 N m Figure 10.
 
 The turning effect of F is greater in the fi rst case
 
-## this
+this
 
 Balance a half-metre ruler at its centre
 
-## adding Plasticine to one
+adding Plasticine to one
 
 agrees with the fact that a gate opens most easily when side or the other until it is horizontal.
 
@@ -6708,25 +6708,25 @@ pushed or pulled at the edge furthest from the hinge.
 
 Hang unequal loads m and m from either side of the fulcrum
 
-## 1 2
+1 2
 
 and alter their distances d and d from the centre until the ruler
 
-## 1 2
+1 2
 
 is again balanced (Figure 10.
 
-## Forces F and F are exerted by
+# Forces F and F are exerted by
 
-## 1 2
+1 2
 
-## 3 m
+3 m
 
-### gravity on m and m and so on the ruler
+gravity on m and m and so on the ruler
 
-## the force on 100 g
+the force on 100 g
 
-## 1 2
+1 2
 
 hinge (fulcrum) is 1 N.
 
@@ -6734,77 +6734,77 @@ Record the results in a table and repeat for other loads
 
 O and distances.
 
-## gate
+gate
 
 m 1 /g F 1 /N d 1 /cm F 1 × d 1 m 2 /g F 2 /N d 2 /cm F 2 × d 2
 
-## F 5 N /N cm / N cm
+F 5 N /N cm / N cm
 
-## 1.5 m 1.5 m O F
+# 1.5 m 1.5 m O F
 
-## it
+it
 
-## s t
+s t
 
-## yin
+yin
 
-## n t
+n t
 
-## t u
+t u
 
-## is
+is
 
-## r n
+r n
 
-## t r
+t r
 
-## in
+in
 
-## r u
+r u
 
-## to
+to
 
-## le r
+le r
 
-## c a
+c a
 
-## ic l
+ic l
 
-## lo
+lo
 
-## ck
+ck
 
-## ck
+ck
 
-## is
+is
 
-## se
+se
 
-## r n
+r n
 
-## n d
+n d
 
-## is
+is
 
-## its
+its
 
 moment is F × d .
 
-## When the ruler is balanced or
+# When the ruler is balanced or
 
-## as we say
+as we say
 
-## 2 2
+2 2
 
-## equilibrium
+equilibrium
 
 the results should show that the anticlockwise
 
-## b F 5 N
+b F 5 N
 
 moment F × d equals the clockwise moment F × d .
 
-## 1 1 2 2
+1 1 2 2
 
 Figure 10.
 
@@ -6812,7 +6812,7 @@ Figure 10.
 
 indd 39 20/06/14 7:42 AM
 
-## 10 MoMents And leVers
+10 MoMents And leVers
 
 The law of moments (also called the law of the lever) is stated
 
@@ -6822,7 +6822,7 @@ can be calculated from the law of moments.
 
 the boulder just begins to move we can say
 
-## taking
+taking
 
 When a body is in equilibrium the sum of the clockwise
 
@@ -6836,13 +6836,13 @@ There is no net moment on a clockwise moment = anticlockwise moment
 
 body which is in equilibrium.
 
-### effort × 200 cm = 1000 N × 10 cm
+effort × 200 cm = 1000 N × 10 cm
 
-## 10000Ncm
+10000Ncm
 
-## effort = = 50N
+effort = = 50N
 
-## 200cm
+200cm
 
 ●●Worked example Examples of other levers are shown in Figure 10.
 
@@ -6854,69 +6854,69 @@ scissors and a spanner in Figures 10.
 
 The see-saw in Figure 10.
 
-## 3 balances when Shani of
+3 balances when Shani of
 
-## weight 320 N is at A
+weight 320 N is at A
 
-## Tom of weight 540 N is at B B
+# Tom of weight 540 N is at B B
 
 and Harry of weight W is at C.
 
 Find W.
 
-## OA 10 cm
+# OA 10 cm
 
-## OB 200 cm
+# OB 200 cm
 
-## 3m 3m effort
+3m 3m effort
 
-## A B O C
+# A B O C
 
-## pivot
+pivot
 
-## 1m
+1m
 
-## fulcrum
+fulcrum
 
-## 320 N 540 N W
+320 N 540 N W
 
 Figure 10.
 
-## 3 load
+3 load
 
-### Taking moments about the fulcrum
+# Taking moments about the fulcrum
 
 O: Figure 10.
 
-## 4 Crowbar
+4 Crowbar
 
 anticlockwise moment = (320 N × 3 m) + (540 N × 1 m) effort
 
-## = 960 N m + 540 N m
+= 960 N m + 540 N m
 
-## = 1500 N m
+= 1500 N m
 
-## clockwise moment = W × 3 m
+clockwise moment = W × 3 m
 
 By the law of moments,
 
 clockwise moments = anticlockwise moments
 
-## ∴ W × 3 m = 1500 N m fulcrum
+∴ W × 3 m = 1500 N m fulcrum
 
-## load
+load
 
-## 1500Nm
+1500Nm
 
-## ∴ W = = 500N
+∴ W = = 500N
 
-## 3m
+3m
 
 Figure 10.
 
-## 5a Wheelbarrow
+5a Wheelbarrow
 
-## ●●Levers
+●●Levers
 
 A lever is any device which can turn about a pivot.
 
@@ -6926,11 +6926,11 @@ to overcome a resisting force called the load.
 
 pivotal point is called the fulcrum.
 
-## biceps
+biceps
 
 If we use a crowbar to move a heavy boulder
 
-## muscle
+muscle
 
 (Figure 10.
 
@@ -6940,91 +6940,91 @@ end of the bar and the load is the force exerted
 
 by the boulder on the other end.
 
-## If distances
+# If distances
 
 from the fulcrum O are as shown and the load fulcrum load
 
 is 1000 N (i.e. the part of the weight of the
 
-### boulder supported by the crowbar)
+boulder supported by the crowbar)
 
 the effort Figure 10.
 
-## 5b Forearm
+5b Forearm
 
 9781444176421_Section_01.
 
 indd 40 20/06/14 7:42 AM
 
-## Conditions for equilibrium
+# Conditions for equilibrium
 
-## clockwise moment = P × 5 m
+clockwise moment = P × 5 m
 
-## fulcrum
+fulcrum
 
-### anticlockwise moment = 400 N × 2 m
+anticlockwise moment = 400 N × 2 m
 
-## = 800 N m
+= 800 N m
 
 effort Since the plank is in equilibrium we have from
 
 (ii) above:
 
-## P × 5 m = 800 N m
+P × 5 m = 800 N m
 
-## load
+load
 
-## 800Nm
+800Nm
 
-## P = = 160N
+P = = 160N
 
-## 5m
-
-Figure 10.
-
-## 5c Scissors From equation (1)
-
-## Q = 240 N
-
-## fulcrum
-
-## 1 m 1 m 2 m 1 m 1 m 2 m
-
-## P Q
-
-## A O B C
-
-## effort
-
-## plank trestle trestle
-
-## load
-
-## 500 N 400 N 700 N
+5m
 
 Figure 10.
 
+5c Scissors From equation (1)
+
+Q = 240 N
+
+fulcrum
+
+1 m 1 m 2 m 1 m 1 m 2 m
+
+# P Q
+
+# A O B C
+
+effort
+
+plank trestle trestle
+
+load
+
+500 N 400 N 700 N
+
 Figure 10.
 
-## 5d Spanner
+Figure 10.
 
-## Questions
+5d Spanner
 
-## ●●Conditions for
+# Questions
 
-### 1 The metre rule in Figure 10.
+●●Conditions for
 
-## 7 is pivoted at its centre.
+1 The metre rule in Figure 10.
 
-## If it balances
+7 is pivoted at its centre.
+
+# If it balances
 
 which of the following equations gives the
 
-## equilibrium
+equilibrium
 
 mass of M?
 
-## A M + 50 = 40 + 100
+A M + 50 = 40 + 100
 
 Sometimes a number of parallel forces act on a body B M × 40 = 100 × 50
 
@@ -7032,15 +7032,15 @@ so that it is in equilibrium.
 
 We can then say: C M/50 = 100/40
 
-## D M/50 = 40/100
+D M/50 = 40/100
 
-## E M × 50 = 100 × 40
+E M × 50 = 100 × 40
 
 (i) The sum of the forces in one direction equals the sum
 
 of the forces in the opposite direction.
 
-## 50 cm 40 cm
+50 cm 40 cm
 
 (ii) The law of moments must apply.
 
@@ -7048,7 +7048,7 @@ A body is in equilibrium when there is no resultant
 
 force and no resultant turning effect acting on it.
 
-## M 100 g
+# M 100 g
 
 As an example consider a heavy plank resting on
 
@@ -7068,37 +7068,37 @@ by the trestles on the plank (called reactions) then we
 
 have from (i) above:
 
-## P + Q = 400 N (1)
+P + Q = 400 N (1)
 
 Moments can be taken about any point but if we take
 
-## them about C
+them about C
 
 the moment due to force Q is zero.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_01.
 
 indd 41 20/06/14 7:43 AM
 
-## 10 MoMents And leVers
+10 MoMents And leVers
 
-## Checklist
+# Checklist
 
-## 2 Figure 10.
+2 Figure 10.
 
-### 8 shows three positions of the pedal on a bicycle
+8 shows three positions of the pedal on a bicycle
 
 which has a crank 0.
 
-## 20 m long.
+20 m long.
 
 If the cyclist exerts the same After studying this chapter you should be able to
 
 vertically downward push of 25 N with his foot
 
-## in which
+in which
 
 • defi ne the moment of a force about a point
 
@@ -7108,9 +7108,9 @@ case, A, B or C, is the turning effect
 
 (i) 25 × 0.
 
-## 2 = 5 N m,
+2 = 5 N m,
 
-## (ii) 0
+(ii) 0
 
 • describe an experiment to verify that there is no net
 
@@ -7128,11 +7128,11 @@ force • state the conditions for equilibrium when parallel forces act
 
 on a body.
 
-## chain
+chain
 
-## crank
+crank
 
-## A B
+# A B
 
 Figure 10.
 
@@ -7140,37 +7140,37 @@ Figure 10.
 
 indd 42 20/06/14 7:43 AM
 
-## C entres of mass
+# C entres of mass
 
-### ● Toppling ● Balancing tricks and toys
+● Toppling ● Balancing tricks and toys
 
-## ● Stability ● Practical work
+● Stability ● Practical work
 
-### Centre of mass using a plumb line
+# Centre of mass using a plumb line
 
 A body behaves as if its whole mass were
 
-## concentrated at one point
+concentrated at one point
 
-## called its centre of mass
+called its centre of mass
 
-## or centre of gravity
+or centre of gravity
 
-### even though the Earth attracts
+even though the Earth attracts
 
 every part of it.
 
-### The body’s weight can be considered
+The body’s weight can be considered
 
 to act at this point.
 
-### The centre of mass of a uniform
+# The centre of mass of a uniform
 
 ruler is at its centre and when supported there it can
 
 be balanced, as in Figure 11.
 
-## If it is supported at
+# If it is supported at
 
 any other point it topples because the moment of its
 
@@ -7178,11 +7178,11 @@ weight W about the point of support is not zero
 
 in Figure 11.
 
-## 0 50 100 0 50 100
+0 50 100 0 50 100
 
 Figure 11.
 
-### 3 A tightrope walker using a long pole
+3 A tightrope walker using a long pole
 
 ruler support The centre of mass of a regularly shaped body that
 
@@ -7192,7 +7192,7 @@ a b other cases it can be found by experiment.
 
 Figure 11.
 
-## Practical work
+# Practical work
 
 Your centre of mass is near the centre of your body
 
@@ -7202,7 +7202,7 @@ within the area enclosed by your feet or you will Centre of mass using a plumb l
 
 fall over.
 
-### You can test this by standing with one
+# You can test this by standing with one
 
 Suppose we have to find the centre of mass of an irregularly
 
@@ -7218,13 +7218,13 @@ Make a hole A in the lamina and hang it so that it can swing
 
 freely on a nail clamped in a stand.
 
-## It will come to rest with
+# It will come to rest with
 
 its centre of mass vertically below A.
 
-## To locate the vertical line
+# To locate the vertical line
 
-## through A
+through A
 
 tie a plumb line (a thread and a weight) to the nail
 
@@ -7232,27 +7232,27 @@ tie a plumb line (a thread and a weight) to the nail
 
 4), and mark its position AB on the lamina.
 
-## The centre
+# The centre
 
 of mass lies somewhere on AB.
 
-### Hang the lamina from another position
+# Hang the lamina from another position
 
 C, and mark the
 
 plumb line position CD.
 
-### The centre of mass lies on CD and must
+# The centre of mass lies on CD and must
 
 be at the point of intersection of AB and CD.
 
-## Check this by
+# Check this by
 
 hanging the lamina from a third hole.
 
-## Also try balancing it at its
+# Also try balancing it at its
 
-## raise this leg
+raise this leg
 
 centre of mass on the tip of your forefinger.
 
@@ -7262,27 +7262,27 @@ mass of a tripod.
 
 Figure 11.
 
-### 2 Can you do this without falling over?
+2 Can you do this without falling over?
 
-## hole A nail clamped
+hole A nail clamped
 
-## in stand
+in stand
 
 A tightrope walker has to keep his centre of mass lamina C
 
-## centre of mass
+centre of mass
 
 exactly above the rope.
 
-## Some carry a long pole to
+# Some carry a long pole to
 
 help them to balance (Figure 11.
 
-## The combined D B
+# The combined D B
 
 weight of the walker and pole is then spread out
 
-## plumb line
+plumb line
 
 more and if the walker begins to topple to one side
 
@@ -7294,7 +7294,7 @@ Figure 11.
 
 indd 43 20/06/14 7:43 AM
 
-## 11 Centres oF MAss
+11 Centres oF MAss
 
 ●●Toppling Racing cars have a low centre of mass and a wide
 
@@ -7304,13 +7304,13 @@ The position of the centre of mass of a body
 
 affects whether or not it topples over easily.
 
-## This is
+# This is
 
 important in the design of such things as tall vehicles
 
 (which tend to overturn when rounding a corner)
 
-## racing cars
+racing cars
 
 reading lamps and even drinking glasses.
 
@@ -7318,7 +7318,7 @@ A body topples when the vertical line through
 
 its centre of mass falls outside its base
 
-## as in
+as in
 
 Figure 11.
 
@@ -7328,17 +7328,17 @@ Figure 11.
 
 5b, where the body will not topple.
 
-## centre of
+centre of
 
-## mass
+mass
 
-## base
+base
 
 Figure 11.
 
 6a A tractor under test to find its centre of mass
 
-### a Topples b Will not topple (stable)
+a Topples b Will not topple (stable)
 
 Figure 11.
 
@@ -7348,11 +7348,11 @@ on a plank (with a rough surface to prevent slipping)
 
 which is slowly tilted.
 
-### The angle of tilt is noted when
+# The angle of tilt is noted when
 
 the can falls over.
 
-### This is repeated with a mass of 1 kg in
+# This is repeated with a mass of 1 kg in
 
 the can.
 
@@ -7376,7 +7376,7 @@ The stability of a body is therefore increased by
 
 In Figure 11.
 
-### 6a the centre of mass of a tractor is
+6a the centre of mass of a tractor is
 
 Figure 11.
 
@@ -7384,7 +7384,7 @@ Figure 11.
 
 being found.
 
-### It is necessary to do this when testing
+# It is necessary to do this when testing
 
 a new design since tractors are often driven over
 
@@ -7396,13 +7396,13 @@ The stability of double-decker buses is being Three terms are used in connection
 
 tested in Figure 11.
 
-## When the top deck only is
+# When the top deck only is
 
-## a) Stable equilibrium
+a) Stable equilibrium
 
 fully laden with passengers (represented by sand bags
 
-## in the test)
+in the test)
 
 it must not topple if tilted through an A body is in stable equilibrium if when slightly
 
@@ -7414,7 +7414,7 @@ displaced and then released it returns to its previous
 
 indd 44 20/06/14 7:44 AM
 
-## balancing tricks and toys
+balancing tricks and toys
 
 position.
 
@@ -7422,7 +7422,7 @@ The ball at the bottom of the dish in Figure ●●Balancing tricks and toys
 
 7a is an example.
 
-## Its centre of mass rises when
+# Its centre of mass rises when
 
 it is displaced.
 
@@ -7430,7 +7430,7 @@ It rolls back because its weight has Some tricks that you can try or toys you ca
 
 a moment about the point of contact that acts to are shown in Figure 11.
 
-## In each case the centre
+# In each case the centre
 
 reduce the displacement.
 
@@ -7438,11 +7438,11 @@ of mass is vertically below the point of support and
 
 equilibrium is stable.
 
-## b) Unstable equilibrium
+b) Unstable equilibrium
 
 A body is in unstable equilibrium if it moves
 
-## needle
+needle
 
 further away from its previous position when slightly
 
@@ -7450,13 +7450,13 @@ displaced and released.
 
 The ball in Figure 11.
 
-## 7b cork
+7b cork
 
 behaves in this way.
 
-### Its centre of mass falls when it is
+# Its centre of mass falls when it is
 
-## fork
+fork
 
 displaced slightly because there is a moment which
 
@@ -7466,9 +7466,9 @@ Similarly in Figure 11.
 
 43) the balanced ruler is in unstable equilibrium.
 
-## can
+can
 
-## c) Neutral equilibrium
+c) Neutral equilibrium
 
 A body is in neutral equilibrium if it stays in its new
 
@@ -7476,77 +7476,77 @@ position when displaced (Figure 11.
 
 7c).
 
-## Its centre of
+# Its centre of
 
-### a Balancing a needle on its point
+a Balancing a needle on its point
 
 mass does not rise or fall because there is no moment
 
 to increase or decrease the displacement.
 
-## dish ball
+dish ball
 
-## point of contact
+point of contact
 
-## card
+card
 
-## spar
+spar
 
-## centre weight
+centre weight
 
-## of mass
+of mass
 
-## bull-dog clip
+bull-dog clip
 
-## a Stable
+a Stable
 
-## centre of mass
+centre of mass
 
-## b The perched parrot
+b The perched parrot
 
-## card cork
+card cork
 
-## point of
+point of
 
-## contact
+contact
 
-## weight
+weight
 
-## thick
+thick
 
-## b Unstable wire
+b Unstable wire
 
-## matchsticks
+matchsticks
 
-## iron nut
+iron nut
 
-## bar
+bar
 
-## c Neutral c A rocking horse
+c Neutral c A rocking horse
 
 Figure 11.
 
-### 7 States of equilibrium Figure 11.
+7 States of equilibrium Figure 11.
 
-## 8 Balancing tricks
+8 Balancing tricks
 
 9781444176421_Section_01.
 
 indd 45 20/06/14 7:44 AM
 
-## 11 Centres oF MAss
+11 Centres oF MAss
 
 A self-righting toy (Figure 11.
 
-## 9) has a heavy
+9) has a heavy
 
-## Checklist
+# Checklist
 
-## base and
+base and
 
-## when tilted
+when tilted
 
-## the weight acting through
+the weight acting through
 
 After studying this chapter you should be able to
 
@@ -7574,17 +7574,17 @@ of mass.
 
 Figure 11.
 
-## 9 A self-righting toy
+9 A self-righting toy
 
-## Questions
+# Questions
 
-## 1 Figure 11.
+1 Figure 11.
 
-### 10 shows a Bunsen burner in three different
+10 shows a Bunsen burner in three different
 
 positions.
 
-### State in which position it is in
+# State in which position it is in
 
 a stable equilibrium,
 
@@ -7592,23 +7592,23 @@ b unstable equilibrium,
 
 c neutral equilibrium.
 
-## A B C
+# A B C
 
 Figure 11.
 
-### 2 The weight of the uniform bar in Figure 11.
+2 The weight of the uniform bar in Figure 11.
 
-## 11 is 10 N.
+11 is 10 N.
 
-## Does
+# Does
 
-## it balance
+it balance
 
 tip to the right or tip to the left?
 
-## 0 10 40 50 100
+0 10 40 50 100
 
-## 3N
+3N
 
 Figure 11.
 
@@ -7616,17 +7616,17 @@ Figure 11.
 
 indd 46 20/06/14 7:44 AM
 
-## Momentum
+# Momentum
 
 ● Conservation of momentum ● Force and momentum
 
-## ● Explosions ● Sport
+● Explosions ● Sport
 
-## impulse and collision time
+impulse and collision time
 
-### ● Rockets and jets ● Practical work
+● Rockets and jets ● Practical work
 
-## Collisions and momentum
+# Collisions and momentum
 
 Momentum is a useful quantity to consider when Repeat the experiment with another trolley stacked on top
 
@@ -7644,59 +7644,59 @@ its velocity and is measured in kilogram metre per
 
 second (kg m/s) or newton second (N s).
 
-## Before collision (m at rest)
+Before collision (m at rest)
 
-## Mass Velocity Momentum
+# Mass Velocity Momentum
 
-### momentum = mass × velocity m v/m/s m v
+momentum = mass × velocity m v/m/s m v
 
-## 1 1
+1 1
 
 (no.
 
-## of trolleys)
+of trolleys)
 
 A 2 kg mass moving at 10 m/s has momentum 1
 
-### 20 kg m/s, the same as the momentum of a 5 kg 2
+20 kg m/s, the same as the momentum of a 5 kg 2
 
 mass moving at 4 m/s.
 
-### After collision (m and m together)
+After collision (m and m together)
 
-## 1 2
+1 2
 
-## Mass Velocity Momentum
+# Mass Velocity Momentum
 
 Practical work m 1 + m 2 v 1 /m/s (m 1 + m 2 )v 1
 
 (no.
 
-## of trolleys)
+of trolleys)
 
-## Collisions and momentum
+# Collisions and momentum
 
 Figure 12.
 
-### 1 shows an arrangement which can be used to fi nd
+1 shows an arrangement which can be used to fi nd
 
 Do the results suggest any connection between the momentum
 
 the velocity of a trolley before and after a collision.
 
-## If a trolley
+# If a trolley
 
 before the collision and after it in each case?
 
 of length l takes time t to pass through a photogate
 
-## its velocity
+its velocity
 
 = distance/time = l/t.
 
 Two photogates are needed, placed each
 
-## side of the collision point
+side of the collision point
 
 to fi nd the velocities before and after
 
@@ -7706,21 +7706,21 @@ Set them up so that they will record the time taken
 
 for the passage of a trolley.
 
-## ●● Conservation of
+●● Conservation of
 
-## trolley with momentum
+trolley with momentum
 
-## ‘interrupt card’
+‘interrupt card’
 
-## photogate 1 photogate 2
+photogate 1 photogate 2
 
 When two or more bodies act on one another
 
-## as in a
+as in a
 
-## sloping to timer
+sloping to timer
 
-## runway collision
+runway collision
 
 the total momentum of the bodies remains constant
 
@@ -7730,7 +7730,7 @@ This statement is called the principle of
 
 conservation of momentum.
 
-## Experiments like
+# Experiments like
 
 those in the Practical work section show that it is
 
@@ -7738,15 +7738,15 @@ true for all types of collisions.
 
 Figure 12.
 
-## As an example
+# As an example
 
-## suppose a truck of mass 60 kg
+suppose a truck of mass 60 kg
 
-### A tickertape timer or motion sensor
+# A tickertape timer or motion sensor
 
 placed at the top end of the moving with velocity 3 m/s collides and couples
 
-## runway
+runway
 
 could be used instead of the photogates if preferred.
 
@@ -7768,7 +7768,7 @@ Chapter 8).
 
 Place one trolley at rest halfway down the runway and
 
-## another at the top
+another at the top
 
 give the top trolley a push.
 
@@ -7786,13 +7786,13 @@ calculate the velocity of the moving trolley before the collision and
 
 the common velocity of both trolleys after the collision.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_01.
 
 indd 47 20/06/14 7:44 AM
 
-## 12 MoMentuM
+12 MoMentuM
 
 Total momentum after is by burning fuel and leaves the exhaust with large
 
@@ -7800,25 +7800,25 @@ momentum.
 
 The rocket or jet engine itself acquires
 
-### (60 kg + 30 kg) × v = 90 kg × v
+(60 kg + 30 kg) × v = 90 kg × v
 
 an equal forward momentum.
 
-## Space rockets carry
+# Space rockets carry
 
 Since momentum is not lost their own oxygen supply
 
-## jet engines use the
+jet engines use the
 
 surrounding air.
 
-### 90 kg × v = 180 kg m/s or v = 2 m/s
+90 kg × v = 180 kg m/s or v = 2 m/s
 
-## 3m/s v
+3m/s v
 
-## at rest air balloon
+at rest air balloon
 
-## 60 kg 30 kg 60 kg 30 kg
+60 kg 30 kg 60 kg 30 kg
 
 Figure 12.
 
@@ -7828,15 +7828,15 @@ a Before b After or a jet engine.
 
 Figure 12.
 
-## ●●Force and momentum
+●●Force and momentum
 
-## ●●Explosions
+●●Explosions
 
 If a steady force F acting on a body of mass m
 
-## Momentum
+# Momentum
 
-## like velocity
+like velocity
 
 is a vector since it has both increases its velocity from u to v in time t
 
@@ -7846,23 +7846,23 @@ Vectors cannot be added acceleration a is given by
 
 by ordinary addition unless they act in the same
 
-### a = (v − u)/t (from v = u + at)
+a = (v − u)/t (from v = u + at)
 
 direction.
 
 If they act in exactly opposite directions
 
-## such as east and west
+such as east and west
 
 the smaller subtracts from the Substituting for a in F = ma
 
 greater, or if the same they cancel out.
 
-## m(v −u) mv −mu
+m(v −u) mv −mu
 
 Momentum is conserved in an explosion such as F = =
 
-## t t
+t t
 
 occurs when a rifl e is fi red.
 
@@ -7876,17 +7876,17 @@ During the fi ring the rifl e and bullet receive
 
 equal but opposite amounts of momentum so change of momentum rat e of change of
 
-## force = =
+force = =
 
 that the total momentum after fi ring is zero.
 
-## For time momentum
+# For time momentum
 
-## example
+example
 
 if a rifl e fi res a bullet of mass 0.
 
-## 01 kg with
+01 kg with
 
 a velocity of 300 m/s,
 
@@ -7896,31 +7896,31 @@ forward momentum of bullet = 0.
 
 01 kg × 300 m/s some problems it is more useful than F = ma.
 
-## = 3 kg m/s
+= 3 kg m/s
 
-## We also have
+# We also have
 
 ∴ backward momentum of rifl e = 3 kg m/s Ft = mv − mu
 
-## If the rifl e has mass m
+# If the rifl e has mass m
 
 it recoils (kicks back) with a where mv is the fi nal momentum
 
-## mu the initial
+mu the initial
 
 velocity v such that momentum and Ft is called the impulse.
 
-## mv = 3 kg m/s
+mv = 3 kg m/s
 
 ●● Sport: impulse and
 
 Taking m = 6 kg gives v = 3/6 m/s = 0.
 
-## 5 m/s.
+5 m/s.
 
-## collision time
+collision time
 
-## ●●Rockets and jets
+●●Rockets and jets
 
 The good cricketer or tennis player ‘follows
 
@@ -7932,15 +7932,15 @@ it fl ies off in the opposite direction to that of the the ball (Figure 12.
 
 4a).
 
-## The force applied then
+# The force applied then
 
 escaping air.
 
 In Figure 12.
 
-### 3 the air has momentum acts for a longer time
+3 the air has momentum acts for a longer time
 
-## the impulse is greater and
+the impulse is greater and
 
 to the left and the balloon moves to the right with so also is the gain of momentum (and velocity)
 
@@ -7954,9 +7954,9 @@ In When we want to stop a moving ball such as
 
 both, a high-velocity stream of hot gas is produced a cricket ball
 
-## however
+however
 
-## its momentum has to be
+its momentum has to be
 
 9781444176421_Section_01.
 
@@ -7966,7 +7966,7 @@ sport: impulse and collision time
 
 reduced to zero.
 
-### An impulse is then required in
+# An impulse is then required in
 
 the form of an opposing force acting for a certain
 
@@ -7974,9 +7974,9 @@ time.
 
 While any number of combinations of force
 
-### and time will give a particular impulse
+and time will give a particular impulse
 
-## the ‘sting’
+the ‘sting’
 
 can be removed from the catch by drawing back the
 
@@ -7984,7 +7984,7 @@ hands as the ball is caught (Figure 12.
 
 4b).
 
-## A smaller
+# A smaller
 
 average force is then applied for a longer time.
 
@@ -7992,7 +7992,7 @@ Figure 12.
 
 5 Sand reduces the athlete’s momentum more gently.
 
-## Questions
+# Questions
 
 1 What is the momentum in kg m/s of a 10 kg truck travelling at
 
@@ -8006,7 +8006,7 @@ c 36 km/h?
 
 collision with an identical ball Y at rest.
 
-## X stops and Y
+# X stops and Y
 
 moves off.
 
@@ -8016,15 +8016,15 @@ What is Y’s velocity?
 
 trolley travelling in the same direction at 1.
 
-## 5 m/s.
+5 m/s.
 
-## What is
+# What is
 
 their common velocity?
 
 4 A girl of mass 50 kg jumps out of a rowing boat of mass
 
-## 300 kg on to the bank
+300 kg on to the bank
 
 with a horizontal velocity of 3 m/s.
 
@@ -8046,7 +8046,7 @@ the collision if they move off together?
 
 6 The velocity of a body of mass 10 kg increases from 4 m/s to
 
-### 8 m/s when a force acts on it for 2 s.
+8 m/s when a force acts on it for 2 s.
 
 a What is the momentum before the force acts?
 
@@ -8056,17 +8056,17 @@ c What is the momentum gain per second?
 
 d What is the value of the force?
 
-### 7 A rocket of mass 10 000 kg uses 5.
+7 A rocket of mass 10 000 kg uses 5.
 
-## 0 kg of fuel and oxygen
+0 kg of fuel and oxygen
 
 to produce exhaust gases ejected at 5000 m/s.
 
-## Calculate the
+# Calculate the
 
 increase in its velocity.
 
-## Checklist
+# Checklist
 
 Figure 12.
 
@@ -8102,7 +8102,7 @@ using crumple zones (see Figure 14.
 
 58) and • state the relationship between force and rate of change
 
-## extensible seat belts
+extensible seat belts
 
 the average force needed to of momentum and use it to solve problems
 
@@ -8116,37 +8116,37 @@ should also be less.
 
 indd 49 20/06/14 7:45 AM
 
-## Energy transfer
+# Energy transfer
 
-### ● Forms of energy ● Energy of food
+● Forms of energy ● Energy of food
 
 ● Energy transfers ● Combustion of fuels
 
-### ● Energy measurements ● Practical work
+● Energy measurements ● Practical work
 
-## Measuring power
+# Measuring power
 
-## ● Energy conservation
+● Energy conservation
 
 Energy is a theme that pervades all branches of ●●Forms of energy
 
 science.
 
-### It links a wide range of phenomena and
+# It links a wide range of phenomena and
 
 enables us to explain them.
 
-## It exists in different forms
+# It exists in different forms
 
-## a) Chemical energy
+a) Chemical energy
 
-## and when something happens
+and when something happens
 
-## it is likely to be due to
+it is likely to be due to
 
-## Food and fuels
+# Food and fuels
 
-## like oil
+like oil
 
 gas, coal and wood
 
@@ -8156,17 +8156,17 @@ concentrated stores of chemical energy (see
 
 Energy transfer is needed to enable people
 
-## computers
+computers
 
 Chapter 15).
 
-### The energy of food is released by
+# The energy of food is released by
 
 machines and other devices to work and to enable
 
-### chemical reactions in our bodies
+chemical reactions in our bodies
 
-## and during the
+and during the
 
 processes and changes to occur.
 
@@ -8182,13 +8182,13 @@ boat if there is energy transfer in its engine from the
 
 an engine or a boiler.
 
-## Batteries are compact sources
+# Batteries are compact sources
 
 burning petrol to its rotating propeller.
 
-## of chemical energy
+of chemical energy
 
-### which in use is transferred to
+which in use is transferred to
 
 electrical energy.
 
@@ -8198,11 +8198,11 @@ This is the energy a body has because of its position or
 
 condition.
 
-### A body above the Earth’s surface
+A body above the Earth’s surface
 
-## like water
+like water
 
-## in a mountain reservoir
+in a mountain reservoir
 
 has potential energy (p.
 
@@ -8214,11 +8214,11 @@ spring or elastic material and energy is transferred
 
 to potential energy; the p.
 
-## is stored in the form of
+is stored in the form of
 
 strain energy (or elastic potential energy).
 
-## If the
+# If the
 
 catapult in Figure 13.
 
@@ -8230,47 +8230,47 @@ c) Kinetic energy (k.
 
 Any moving body has kinetic energy (k.
 
-## ) and the
+) and the
 
 faster it moves, the more k.
 
 it has.
 
-## As a hammer
+# As a hammer
 
-### drives a nail into a piece of wood
+drives a nail into a piece of wood
 
-## there is a transfer of
+there is a transfer of
 
 energy from the k.
 
-## of the moving hammer to other
+of the moving hammer to other
 
 forms of energy.
 
-## d) Electrical energy
+d) Electrical energy
 
 Electrical energy is produced by energy transfers at
 
 power stations and in batteries.
 
-## It is the commonest
+# It is the commonest
 
 form of energy used in homes and industry because of
 
 the ease of transmission and transfer to other forms.
 
-## e) Heat energy
+e) Heat energy
 
 This is also called thermal or internal energy and is
 
 the final fate of other forms of energy.
 
-## It is transferred
+# It is transferred
 
 Figure 13.
 
-### 1 Energy transfer in action by conduction
+1 Energy transfer in action by conduction
 
 convection or radiation.
 
@@ -8278,25 +8278,25 @@ convection or radiation.
 
 indd 50 20/06/14 7:45 AM
 
-## energy transfers
+energy transfers
 
-## f) Other forms
+f) Other forms
 
 These include light energy and other forms of
 
-## electromagnetic radiation
+electromagnetic radiation
 
-## sound and nuclear
+sound and nuclear
 
 energy.
 
-## ●●Energy transfers
+●●Energy transfers
 
-## a) Demonstration
+a) Demonstration
 
 The apparatus in Figure 13.
 
-## 2 can be used to show
+2 can be used to show
 
 a battery changing chemical energy to electrical
 
@@ -8304,73 +8304,73 @@ energy which becomes kinetic energy in the electric
 
 motor.
 
-## The motor raises a weight
+# The motor raises a weight
 
-## giving it potential
+giving it potential
 
-### a Potential energy to kinetic energy
+a Potential energy to kinetic energy
 
 energy.
 
 If the changeover switch is joined to the
 
-### lamp and the weight allowed to fall
+lamp and the weight allowed to fall
 
-## the motor acts
+the motor acts
 
 as a generator in which there is an energy transfer
 
 from kinetic energy to electrical energy.
 
-## When this
+# When this
 
-## is supplied to the lamp
+is supplied to the lamp
 
-### it produces a transfer to heat
+it produces a transfer to heat
 
 and light energy.
 
 lamp (1.
 
-## 25 V)
+25 V)
 
-## changeover
+changeover
 
-## switch
+switch
 
 b Electrical energy to heat and light energy
 
-## large motor/
+large motor/
 
-## generator
+generator
 
-## to 4 V battery
+to 4 V battery
 
-## line shaft
+line shaft
 
-## unit
+unit
 
 c Chemical energy (from muscles in the arm) to p.
 
-## (strain
+(strain
 
-## energy of catapult)
+energy of catapult)
 
-## weight
+weight
 
-## (500 g)
+(500 g)
 
 Figure 13.
 
-### 2 Demonstrating energy transfers
+2 Demonstrating energy transfers
 
-## b) Other examples
+b) Other examples
 
 Study the energy transfers shown in Figures
 
 3a to d.
 
-### Some devices have been invented to
+# Some devices have been invented to
 
 cause particular energy transfers.
 
@@ -8388,35 +8388,35 @@ parts, such as those in a bicycle.
 
 Figure 13.
 
-## 3 Some energy transfers
+3 Some energy transfers
 
 9781444176421_Section_01.
 
 indd 51 20/06/14 7:45 AM
 
-## 13 energy trAnsFer
+13 energy trAnsFer
 
-## ●●Energy measurements 3 kg
+●●Energy measurements 3 kg
 
-## a) Work
+a) Work
 
 In science the word work has a different
 
-## 2 m
+2 m
 
 meaning from its everyday use.
 
-## Work is done
+# Work is done
 
 when a force moves.
 
-## No work is done in the
+# No work is done in the
 
 scientifi c sense by someone standing still holding a
 
-## heavy pile of books
+heavy pile of books
 
-## an upward force is exerted
+an upward force is exerted
 
 no motion results.
 
@@ -8424,17 +8424,17 @@ Figure 13.
 
 If a building worker carries ten bricks up to the
 
-## fi rst fl oor of a building
+fi rst fl oor of a building
 
-## he does more work than if he
+he does more work than if he
 
-## b) Measuring energy transfers
+b) Measuring energy transfers
 
 carries only one brick because he has to exert a larger
 
 In an energy transfer, work is done.
 
-## The work
+# The work
 
 force.
 
@@ -8444,7 +8444,7 @@ done is a measure of the amount of energy
 
 ten bricks to the second fl oor.
 
-## The amount of work
+# The amount of work
 
 transferred.
 
@@ -8456,11 +8456,11 @@ an upward force of 10 N to raise a stone steadily
 
 distance it moves.
 
-## We therefore measure work by
+# We therefore measure work by
 
 through a vertical distance of 1.
 
-## 5 m, the work done
+5 m, the work done
 
 is 15 J.
 
@@ -8470,31 +8470,31 @@ work = force × distance moved in direction of force (1) transferred from your m
 
 the stone.
 
-## All forms of energy
+# All forms of energy
 
-## as well as work
+as well as work
 
 measured in joules.
 
-### The unit of work is the joule (J)
+The unit of work is the joule (J)
 
-## it is the work done
+it is the work done
 
 when a force of 1 newton (N) moves through 1 metre c) Power
 
 (m).
 
-## For example
+# For example
 
-### if you have to pull with a force
+if you have to pull with a force
 
-## The more powerful a car is
+# The more powerful a car is
 
-## the faster it can accelerate
+the faster it can accelerate
 
 of 50 N to move a crate steadily 3 m in the direction
 
-## or climb a hill
+or climb a hill
 
 i.e. the more rapidly it does work.
 
@@ -8504,15 +8504,15 @@ of the force (Figure 13.
 
 The power of a device is the work it does per second
 
-### 50 N × 3 m = 150 N m = 150 J. That is
+50 N × 3 m = 150 N m = 150 J. That is
 
 i.e. the rate at which it does work.
 
-## This is the same
+# This is the same
 
 as the rate at which it transfers energy from one
 
-## joules = newtons × metres
+joules = newtons × metres
 
 form to another.
 
@@ -8522,43 +8522,43 @@ If you lift a mass of 3 kg vertically through 2 m
 
 4b), you have to exert a vertically upward
 
-## work done energy transfer
+work done energy transfer
 
-## power = = (2)
+power = = (2)
 
-### force equal to the weight of the body
+force equal to the weight of the body
 
 i.e. 30 N time taken timme taken
 
 (approximately) and the work done is 30 N × 2 m =
 
-## 60 N m = 60 J.
+60 N m = 60 J.
 
 Note that we must always take the distance in the The unit of power is the watt (W) and is a rate
 
 direction in which the force acts.
 
-### of working of 1 joule per second
+of working of 1 joule per second
 
 i.e. 1 W =
 
-### 1 J/s. Larger units are the kilowatt (kW) and the
+1 J/s. Larger units are the kilowatt (kW) and the
 
 megawatt (MW):
 
-## 1 kW = 1000 W = 103 W
+1 kW = 1000 W = 103 W
 
-## 1 mW = 1 000 000 W = 106 W
+1 mW = 1 000 000 W = 106 W
 
-### 50 N If a machine does 500 J of work in 10 s
+50 N If a machine does 500 J of work in 10 s
 
-## its power is
+its power is
 
-## 500 J/10 s = 50 J/s = 50 W.
+500 J/10 s = 50 J/s = 50 W.
 
-## A small car develops a
+# A small car develops a
 
-## 3m
+3m
 
 maximum power of about 25 kW.
 
@@ -8568,25 +8568,25 @@ Figure 13.
 
 indd 52 20/06/14 7:46 AM
 
-## energy of food
+energy of food
 
-## Practical work
+# Practical work
 
-## useful energy output
+useful energy output
 
-## efficiency = ×100%
+efficiency = ×100%
 
-## total energy input
+total energy input
 
-## Measuring power
+# Measuring power
 
-## For example
+# For example
 
 for the lever shown in Figure 10.
 
-## 4 (p.
+4 (p.
 
-## a) Your own power
+a) Your own power
 
 Get someone with a stopwatch to time you running up a fl ight of
 
@@ -8594,9 +8594,9 @@ stairs, the more steps the better.
 
 Find your weight (in newtons).
 
-## work done on load
+work done on load
 
-## efficiency = ×100%
+efficiency = ×100%
 
 Calculate the total vertical height (in metres) you have climbed by work done by efffort
 
@@ -8610,7 +8610,7 @@ This will be less than 100% if there is friction in the
 
 the stairs is (your weight) × (vertical height of stairs).
 
-## Calculate
+# Calculate
 
 fulcrum.
 
@@ -8618,11 +8618,11 @@ your power (in watts) from equation (2).
 
 About 0.
 
-## 5 kW is good.
+5 kW is good.
 
 Table 13.
 
-### 1 lists the effi ciencies of some devices and
+1 lists the effi ciencies of some devices and
 
 b) Electric motor the energy transfers involved.
 
@@ -8630,19 +8630,19 @@ This experiment is described in Chapter 40.
 
 Table 13.
 
-### Device % Effi ciency Energy transfer
+Device % Effi ciency Energy transfer
 
-## ●●Energy conservation
+●●Energy conservation
 
 large electric motor 90 electrical to k.
 
 large electric generator 90 k.
 
-## to electrical
+to electrical
 
-### a) Principle of conservation of energy
+a) Principle of conservation of energy
 
-### domestic gas boiler 75 chemical to heat
+domestic gas boiler 75 chemical to heat
 
 This is one of the basic laws of physics and is stated as
 
@@ -8652,33 +8652,33 @@ compact fl uorescent lamp 50 electrical to light
 
 steam turbine 45 heat to k.
 
-### Energy cannot be created or destroyed
+# Energy cannot be created or destroyed
 
 it is always conserved.
 
 car engine 25 chemical to k.
 
-## However
+# However
 
-### energy is continually being transferred
+energy is continually being transferred
 
-### fi lament lamp 10 electrical to light
+fi lament lamp 10 electrical to light
 
 from one form to another.
 
 Some forms, such as
 
-### electrical and chemical energy
+electrical and chemical energy
 
-## are more easily
+are more easily
 
 A device is effi cient if it transfers energy mainly to
 
-## transferred than others
+transferred than others
 
-## such as heat
+such as heat
 
-## for which it is
+for which it is
 
 useful forms and the ‘lost’ energy is small.
 
@@ -8692,19 +8692,19 @@ work against friction) and the energy is wasted
 
 i.e.
 
-## ●●Energy of food
+●●Energy of food
 
 spread out and increasingly more diffi cult to use.
 
-## For example
+# For example
 
-### when a brick falls its potential energy
+when a brick falls its potential energy
 
 When food is eaten it reacts with the oxygen we
 
-## becomes kinetic energy
+becomes kinetic energy
 
-## as it hits the ground
+as it hits the ground
 
 breathe into our lungs and is slowly ‘burnt’.
 
@@ -8716,15 +8716,15 @@ If it seems in a transfer that some energy has
 
 thermal energy to warm the body and mechanical
 
-## disappeared
+disappeared
 
-### the ‘lost’ energy is often converted
+the ‘lost’ energy is often converted
 
 energy for muscular movement.
 
 into non-useful heat.
 
-### This appears to be the fate of
+# This appears to be the fate of
 
 all energy in the Universe and is one reason why
 
@@ -8738,11 +8738,11 @@ energy released when 1 kg is completely oxidised.
 
 b) Effi ciency of energy transfers Energy value is measured in J/kg.
 
-## The energy
+# The energy
 
 values of some foods are given in Figure 13.
 
-## 5 in
+5 in
 
 The effi ciency of a device is the percentage of the
 
@@ -8750,17 +8750,17 @@ megajoules per kilogram.
 
 energy supplied to it that is usefully transferred.
 
-## It is
+# It is
 
 calculated from the expression:
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_01.
 
 indd 53 20/06/14 7:46 AM
 
-## 13 energy trAnsFer
+13 energy trAnsFer
 
 cheese 21 A fuel for a space rocket (e.g. liquid hydrogen)
 
@@ -8770,61 +8770,61 @@ beef 10 expand rapidly and leave the rocket at high speed.
 
 The heating values of some fuels are given in
 
-### 26 BUTTER Table 13.2 in kilojoules per gram.
+26 BUTTER Table 13.2 in kilojoules per gram.
 
-## MARGARINE
+# MARGARINE
 
 Table 13.
 
-### 2 Heating values of fuels in kJ/g
+2 Heating values of fuels in kJ/g
 
-### Solids Value Liquids Value Gases Value
+# Solids Value Liquids Value Gases Value
 
-## FLOUR
+# FLOUR
 
 potatoes 4 wood 17 fuel oil 45 methane 55
 
-### 16 coal 25–33 paraffi n 48 butane 50
+16 coal 25–33 paraffi n 48 butane 50
 
 The thick dark liquid called petroleum or crude oil
 
-## M IL K
+# M IL K
 
 is the source of most liquid and gaseous fuels.
 
-## It is
+# It is
 
 obtained from underground deposits at oil wells in
 
 many parts of the world.
 
-## Natural gas (methane) is
+Natural gas (methane) is
 
 carrots 1.
 
-## 7 often found with it.
+7 often found with it.
 
-### In an oil refi nery different fuels
+# In an oil refi nery different fuels
 
-## are obtained from petroleum
+are obtained from petroleum
 
-## including fuel oil for
+including fuel oil for
 
-## industry
+industry
 
-## diesel oil for lorries
+diesel oil for lorries
 
-## paraffi n (kerosene)
+paraffi n (kerosene)
 
 apples 2.
 
-## 6 eggs 7
+6 eggs 7
 
-## for jet engines
+for jet engines
 
-## and petrol for cars
+and petrol for cars
 
-## as well as butane
+as well as butane
 
 Figure 13.
 
@@ -8834,13 +8834,13 @@ Foods with high values are ‘fattening’ and if more
 
 food is eaten than the body really needs
 
-## the extra
+the extra
 
 is stored as fat.
 
-### The average adult requires about
+# The average adult requires about
 
-## 10 MJ per day. Questions
+10 MJ per day. Questions
 
 Our muscles change chemical energy into 1 Name the energy transfers which occur when
 
@@ -8848,25 +8848,25 @@ mechanical energy when we exert a force – to a an electric bell rings
 
 lift a weight, for example.
 
-## Unfortunately
+# Unfortunately
 
-### they b someone speaks into a microphone
+they b someone speaks into a microphone
 
 c a ball is thrown upwards,
 
-### are not very good at doing this
+are not very good at doing this
 
-## of every 100 J of
+of every 100 J of
 
 d there is a picture on a television screen
 
-## chemical energy they use
+chemical energy they use
 
-## they can convert only
+they can convert only
 
 e a torch is on.
 
-### 25 J into mechanical energy – that is
+25 J into mechanical energy – that is
 
 they are only 2 Name the forms of energy represented by the letters A
 
@@ -8876,13 +8876,13 @@ mechanical energy.
 
 The other 75 J becomes thermal In a coal-fi red power station
 
-## the (A) energy of coal
+the (A) energy of coal
 
 becomes (B) energy which changes water into steam.
 
-## energy
+energy
 
-### much of which the body gets rid of by
+much of which the body gets rid of by
 
 The steam drives a turbine which drives a generator.
 
@@ -8894,9 +8894,9 @@ generator transfers (C) energy into (D) energy.
 
 ●●Combustion of fuels 30 N) is lifted vertically through 6 m?
 
-### 4 A hiker climbs a hill 300 m high.
+4 A hiker climbs a hill 300 m high.
 
-## If she has a mass of 50 kg
+# If she has a mass of 50 kg
 
 Fuels can be solids such as wood and coal
 
@@ -8904,9 +8904,9 @@ liquids calculate the work she does in lifting her body to the top of
 
 the hill.
 
-### such as fuel oil and paraffi n
+such as fuel oil and paraffi n
 
-## or gases such as
+or gases such as
 
 5 In loading a lorry a man lifts boxes each of weight 100 N
 
@@ -8914,19 +8914,19 @@ methane and butane.
 
 through a height of 1.
 
-## 5 m.
+5 m.
 
 Some fuels are better than others for certain jobs.
 
 a How much work does he do in lifting one box?
 
-## For example
+# For example
 
 fuels for cooking or keeping us warm b How much energy is transferred when one box is lifted?
 
-## should
+should
 
-## as well as being cheap
+as well as being cheap
 
 have a high heating c If he lifts four boxes per minute at what power is he
 
@@ -8948,15 +8948,15 @@ What is his average power?
 
 indd 54 20/06/14 7:46 AM
 
-## Combustion of fuels
+# Combustion of fuels
 
 7 a When the energy input to a gas-fi red power station is
 
-## 1000 MJ
+1000 MJ
 
 the electrical energy output is 300 MJ.
 
-## What
+# What
 
 is the effi ciency of the power station in changing the
 
@@ -8966,7 +8966,7 @@ b What form does the 700 MJ of ‘lost’ energy take?
 
 c What is the fate of the ‘lost’ energy?
 
-### 8 State what energy transfers occur in
+8 State what energy transfers occur in
 
 a a hairdryer,
 
@@ -8978,11 +8978,11 @@ c an audio system.
 
 a height of 5 m in one minute.
 
-## Find the power needed
+# Find the power needed
 
 to do this.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -9002,13 +9002,13 @@ calculate energy transfer,
 
 • relate power to work done and time taken
 
-## and give
+and give
 
 examples,
 
 • recall that power is the rate of energy transfer
 
-## give its unit
+give its unit
 
 and solve problems,
 
@@ -9018,23 +9018,23 @@ and solve problems,
 
 • understand qualitatively the meaning of effi ciency
 
-## • recall and use the equation
+• recall and use the equation
 
-## useful energy output
+useful energy output
 
-## efficiency = ××100%
+efficiency = ××100%
 
-## energy input
+energy input
 
 9781444176421_Section_01.
 
 indd 55 20/06/14 7:46 AM
 
-## Kinetic and potential energy
+# Kinetic and potential energy
 
 ● Kinetic energy (k.
 
-## ) ● Driving and car safety
+) ● Driving and car safety
 
 ● Potential energy (p.
 
@@ -9042,9 +9042,9 @@ indd 55 20/06/14 7:46 AM
 
 to k.
 
-## ● Conservation of energy
+● Conservation of energy
 
-### ● Elastic and inelastic collisions
+● Elastic and inelastic collisions
 
 Energy and its different forms were discussed earlier A body above the Earth’s surface is considered to
 
@@ -9060,19 +9060,19 @@ to the work that has been done against gravity by the
 
 force used to raise it.
 
-### To lift a body of mass m through
+# To lift a body of mass m through
 
 ●●Kinetic energy (k.
 
 ) a vertical height h at a place where the Earth’s
 
-### gravitational fi eld strength is g
+gravitational fi eld strength is g
 
-## needs a force equal
+needs a force equal
 
 and opposite to the weight mg of the body.
 
-## Hence
+# Hence
 
 Kinetic energy is the energy a body has because of its motion.
 
@@ -9080,59 +9080,59 @@ For a body of mass m travelling with velocity v
 
 work done by force = force × vertical height
 
-## = mg × h
+= mg × h
 
-## kineticenergy=E = mv2
+kineticenergy=E = mv2
 
-### k 2 ∴ potential energy = E = mgh
+k 2 ∴ potential energy = E = mgh
 
-## If m is in kg and v in m/s
+If m is in kg and v in m/s
 
-## then kinetic energy is
+then kinetic energy is
 
-## When m is in kg
+# When m is in kg
 
-### g in N/kg (or m/s2) and h in m
+g in N/kg (or m/s2) and h in m
 
 in J.
 
 For example, a football of mass 0.
 
-## 4 kg (400 g)
+4 kg (400 g)
 
 the potential energy is in J.
 
 For example, if
 
-### moving with velocity 20 m/s has
+moving with velocity 20 m/s has
 
-## g = 10 N/kg
+g = 10 N/kg
 
-### the potential energy gained by a
+the potential energy gained by a
 
-## 1 1
+1 1
 
 = mv2 = × 0.
 
-## 4 kg × (20)2 m2/s2 0.
+4 kg × (20)2 m2/s2 0.
 
-### 1 kg (100 g) mass raised vertically by 1 m is
+1 kg (100 g) mass raised vertically by 1 m is
 
-## 2 2
+2 2
 
 = 0.
 
-## 2 × 400 kg m/s2 × m 0.
+2 × 400 kg m/s2 × m 0.
 
-### 1 kg × 10 N/kg × 1 m = 1 N m = 1 J
+1 kg × 10 N/kg × 1 m = 1 N m = 1 J
 
-## = 80 N m = 80 J
+= 80 N m = 80 J
 
 Note Strictly speaking we are concerned with changes
 
 Since k.
 
-## depends on v2
+depends on v2
 
 a high-speed vehicle in potential energy from that which a body has at
 
@@ -9148,11 +9148,11 @@ it has at 100 km/h.
 
 The expression for potential energy is therefore more
 
-## correctly written
+correctly written
 
 ●●Potential energy (p.
 
-## ∆E = mgh
+∆E = mgh
 
 Potential energy is the energy a body has because of its position
 
@@ -9168,7 +9168,7 @@ Figure 14.
 
 indd 56 20/06/14 7:46 AM
 
-### elastic and inelastic collisions
+elastic and inelastic collisions
 
 Practical work p.
 
@@ -9180,27 +9180,27 @@ Friction-compensate a runway and arrange the apparatus as in m p.
 
 Figure 14.
 
-## 2 with the bottom of the 0.
+2 with the bottom of the 0.
 
-## 1 kg (100 g) mass 0.
+1 kg (100 g) mass 0.
 
-## 5 m h
+5 m h
 
 from the floor.
 
 Start the timer and release the trolley.
 
-## It will accelerate until the
+# It will accelerate until the
 
-### falling mass reaches the floor
+falling mass reaches the floor
 
-### after that it moves with constant
+after that it moves with constant
 
 velocity v.
 
 From your results calculate v in m/s (on the tickertape p.
 
-## 50 ticks = 1 s).
+50 ticks = 1 s).
 
 Find the mass of the trolley in kg.
 
@@ -9208,19 +9208,19 @@ Work out:
 
 Figure 14.
 
-## 3 Loss of p.
+3 Loss of p.
 
 = gain of k.
 
 gained by trolley and 0.
 
-## 1 kg mass = ___ J
+1 kg mass = ___ J
 
 lost by 0.
 
-## 1 kg mass = ___ J
+1 kg mass = ___ J
 
-### This is an example of the principle of
+# This is an example of the principle of
 
 Compare and comment on the results.
 
@@ -9234,51 +9234,51 @@ In the case of a pendulum (Figure 14.
 
 to tickertape trolley f r r u i n ct w io a n y -compensated and potential energy are interchanged continually.
 
-## timer (or
+timer (or
 
 The energy of the bob is all potential energy at the
 
-## motion sensor) thread pulley
+motion sensor) thread pulley
 
 end of the swing and all kinetic energy as it passes
 
 through its central position.
 
-## In other positions it has
+# In other positions it has
 
 both potential and kinetic energy.
 
-## Eventually all the
+# Eventually all the
 
 energy is changed to heat as a result of overcoming
 
 air resistance.
 
-## 100 g
+100 g
 
-## 0.5 m
+# 0.5 m
 
-## floor
+floor
 
 Figure 14.
 
-## 2 p.
+2 p.
 
 ●●Conservation of Figure 14.
 
-## 4 Interchange of p.
+4 Interchange of p.
 
 and k.
 
-## for a simple pendulum
+for a simple pendulum
 
-## energy
+energy
 
-## ●●Elastic and inelastic
+●●Elastic and inelastic
 
 A mass m at height h above the ground has potential
 
-## collisions
+collisions
 
 energy = mgh (Figure 14.
 
@@ -9290,15 +9290,15 @@ In all collisions (where no external force acts) there
 
 expense of its potential energy.
 
-## If it starts from rest
+# If it starts from rest
 
-### is normally a loss of kinetic energy
+is normally a loss of kinetic energy
 
-## usually to heat
+usually to heat
 
-### and air resistance is negligible
+and air resistance is negligible
 
-## its kinetic energy on
+its kinetic energy on
 
 energy and to a small extent to sound energy.
 
@@ -9306,53 +9306,53 @@ reaching the ground equals the potential energy lost
 
 greater the proportion of kinetic energy lost
 
-## the less
+the less
 
-## by the mass
+by the mass
 
-## 1 elastic is the collision
+1 elastic is the collision
 
 i.e. the more inelastic it is.
 
-## mv2 = mgh
+mv2 = mgh
 
-### 2 a perfectly elastic collision
+2 a perfectly elastic collision
 
 kinetic energy is conserved.
 
-## or
+or
 
 loss of p.
 
 = gain of k.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_01.
 
 indd 57 20/06/14 7:46 AM
 
-### 14 KinetiC And PotentiAl energy
+14 KinetiC And PotentiAl energy
 
 Table 14.
 
-## Speed/mph 20 40 60 80
+Speed/mph 20 40 60 80
 
-### Thinking distance/metres 6 12 18 24
+Thinking distance/metres 6 12 18 24
 
-### Braking distance/metres 6 24 54 96
+Braking distance/metres 6 24 54 96
 
 Total stopping distance/metres 12 36 72 120
 
-## b) Car design and safety
+b) Car design and safety
 
-### When a car stops rapidly in a collision
+# When a car stops rapidly in a collision
 
-## large forces
+large forces
 
 are produced on the car and its passengers
 
-## and their
+and their
 
 kinetic energy has to be dissipated.
 
@@ -9368,7 +9368,7 @@ and conservation of energy.
 
 gradually (Figure 14.
 
-## As we saw in Chapter 12
+# As we saw in Chapter 12
 
 this extends the collision time and reduces the
 
@@ -9378,19 +9378,19 @@ decelerating force and hence the potential for injury
 
 Extensible seat belts exert a backwards force (of
 
-## 10 000 N or so) over about 0.
+10 000 N or so) over about 0.
 
-## 5 m, which is roughly
+5 m, which is roughly
 
-## a) Braking distance and speed
+a) Braking distance and speed
 
 the distance between the front seat occupants and the
 
-## For a car moving with speed v
+# For a car moving with speed v
 
 the brakes must windscreen.
 
-### In a car travelling at 15 m/s (34 mph)
+In a car travelling at 15 m/s (34 mph)
 
 be applied over a braking distance s to bring the effect felt by anyone not using a seat belt is the same as
 
@@ -9398,7 +9398,7 @@ car to rest.
 
 The braking distance is directly that produced by jumping off a building 12 m high!
 
-### proportional to the square of the speed
+proportional to the square of the speed
 
 i.e. if v Air bags in some cars infl ate and protect the driver
 
@@ -9414,9 +9414,9 @@ the head goes forwards with the body and
 
 braking distance to obtain the overall stopping not backwards over the top of the seat.
 
-## This prevents
+# This prevents
 
-## distance
+distance
 
 in other words damage to the top of the spine.
 
@@ -9424,17 +9424,17 @@ All these are secondary safety devices which aid
 
 survival in the event of an accident.
 
-## Primary safety
+# Primary safety
 
 stopping distance = thinking distance + braking distance factors help to prevent accidents and depend on the
 
-## car’s roadholding
+car’s roadholding
 
-## brakes
+brakes
 
-## steering
+steering
 
-## handling and
+handling and
 
 above all on the driver since most accidents are due
 
@@ -9444,21 +9444,21 @@ to driver error.
 
 given in Table 14.
 
-## 1 for different speeds.
+1 for different speeds.
 
-## The greater
+# The greater
 
 The chance of being killed in an accident is
 
-## the speed
+the speed
 
-### the greater the stopping distance for
+the greater the stopping distance for
 
 about fi ve times less if seat belts are worn and head
 
 a given braking force.
 
-## (To stop the car in a given
+(To stop the car in a given
 
 restraints are installed.
 
@@ -9470,29 +9470,29 @@ Thinking distance depends on the driver’s
 
 reaction time – this will vary with factors such as the
 
-## driver’s degree of tiredness
+driver’s degree of tiredness
 
-## use of alcohol or drugs
+use of alcohol or drugs
 
 eyesight and the visibility of the hazard.
 
-## Braking
+# Braking
 
 distance varies with both the road conditions and
 
-## the state of the car
+the state of the car
 
-## it is longer when the road is
+it is longer when the road is
 
-## wet or icy
+wet or icy
 
-### when friction between the tyres and the
+when friction between the tyres and the
 
-## road is low
+road is low
 
 than when conditions are dry.
 
-## Effi cient
+# Effi cient
 
 brakes and deep tyre tread help to reduce the
 
@@ -9502,23 +9502,23 @@ Figure 14.
 
 braking distance.
 
-## crumple zone
+crumple zone
 
 9781444176421_Section_01.
 
 indd 58 20/06/14 7:47 AM
 
-## Worked example
+# Worked example
 
-## ●●Worked example Questions
+●●Worked example Questions
 
-## 1 Calculate the k.e. of
+1 Calculate the k.e. of
 
 A boulder of mass 4 kg rolls over a cliff and reaches a a 1 kg trolley travelling at 2 m/s
 
 b a 2 g (0.
 
-### 002 kg) bullet travelling at 400 m/s,
+002 kg) bullet travelling at 400 m/s,
 
 the beach below with a velocity of 20 m/s.
 
@@ -9528,7 +9528,7 @@ c a 500 kg car travelling at 72 km/h.
 
 the kinetic energy of the boulder as it lands
 
-## b the
+b the
 
 2 a What is the velocity of an object of mass 1 kg which has
 
@@ -9540,45 +9540,45 @@ b Calculate the p.
 
 of a 5 kg mass when it is (i) 3 m, (ii)
 
-### 6 m, above the ground. (g = 10 N/kg)
+6 m, above the ground. (g = 10 N/kg)
 
-## a Mass of boulder = m = 4 kg
+a Mass of boulder = m = 4 kg
 
-### 3 A 100 g steel ball falls from a height of 1.
+3 A 100 g steel ball falls from a height of 1.
 
-## 8 m on to a metal
+8 m on to a metal
 
 Velocity of boulder as it lands = v = 20 m/s plate and rebounds to a height of 1.
 
-## 25 m.
+25 m.
 
-## Find
+# Find
 
 a the p.
 
 of the ball before the fall (g = 10 m/s2)
 
-### 1 b its k.e. as it hits the plate,
+1 b its k.e. as it hits the plate,
 
 ∴ k.
 
-## of boulder as it lands = E
+of boulder as it lands = E
 
-## mv2
+mv2
 
 c its velocity on hitting the plate,
 
-## 1 d its k.
+1 d its k.
 
 as it leaves the plate on the rebound,
 
-## = × 4 kg ×(20)2m2/s2
+= × 4 kg ×(20)2m2/s2
 
-## 2 e its velocity of rebound.
+2 e its velocity of rebound.
 
 4 It is estimated that 7 × 106 kg of water pours over the
 
-## = 800 kg m/s2 × m
+= 800 kg m/s2 × m
 
 Niagara Falls every second.
 
@@ -9586,21 +9586,21 @@ If the falls are 50 m high, and if
 
 all the energy of the falling water could be harnessed
 
-## what
+what
 
-## = 800 N m
+= 800 N m
 
 power would be available?
 
-## (g = 10 N/kg)
+(g = 10 N/kg)
 
-## = 800 J
+= 800 J
 
 b Applying the principle of conservation of energy
 
 (and neglecting energy lost in overcoming air
 
-## Checklist
+# Checklist
 
 resistance),
 
@@ -9608,13 +9608,13 @@ After studying this chapter you should be able to
 
 of boulder on cliff = k.
 
-## as it lands
+as it lands
 
 • defi ne kinetic energy (k.
 
 ∴ ∆E p = E k = 800 J • perform calculations using E k = 2 1mv2
 
-### c If h is the height of the cliff
+c If h is the height of the cliff
 
 • defi ne potential energy (p.
 
@@ -9622,43 +9622,43 @@ of boulder on cliff = k.
 
 using ∆E = mgh,
 
-## p p
+p p
 
 ∆E p 800 J 800 N m • apply the principle of conservation of energy to simple
 
-## ∴ h = = = mechanical systems
+∴ h = = = mechanical systems
 
-## such as a pendulum
+such as a pendulum
 
-## mg 4 kg ×10 m/s2 40 kg mm/s2
+mg 4 kg ×10 m/s2 40 kg mm/s2
 
 • recall the effect of speed on the braking distance of a
 
 vehicle,
 
-## 800 kg m/s2 × m
+800 kg m/s2 × m
 
 = = 20 m • describe secondary safety devices in cars.
 
-## 40 kg m/s2
+40 kg m/s2
 
 9781444176421_Section_01.
 
 indd 59 20/06/14 7:47 AM
 
-## Energy sources
+# Energy sources
 
 ● Non-renewable energy sources ● Power stations
 
-### ● Renewable energy sources ● Economic
+● Renewable energy sources ● Economic
 
-### environmental and social issues
+environmental and social issues
 
-### Energy is needed to heat buildings
+# Energy is needed to heat buildings
 
 to make cars from the fuel before combustion
 
-## but these are both
+but these are both
 
 move, to provide artificial light
 
@@ -9672,7 +9672,7 @@ This ‘useful’ produced using these measures.
 
 energy needs to be produced in controllable energy
 
-## b) Nuclear fuels
+b) Nuclear fuels
 
 transfers (Chapter 13).
 
@@ -9684,25 +9684,25 @@ electricity is produced.
 
 The ‘raw materials’ for energy (Chapter 50) from uranium
 
-## found as an ore in the
+found as an ore in the
 
 production are energy sources.
 
-## These may be ground
+# These may be ground
 
 can be used to produce electricity.
 
-## Nuclear
+# Nuclear
 
 non-renewable or renewable.
 
-## Apart from nuclear
+# Apart from nuclear
 
 fuels do not pollute the atmosphere with carbon
 
-## geothermal
+geothermal
 
-## hydroelectric or tidal energy
+hydroelectric or tidal energy
 
 the Sun is dioxide or sulfur dioxide but they do generate
 
@@ -9710,21 +9710,21 @@ the source for all our energy resources.
 
 radioactive waste materials with very long half-lives
 
-## (Chapter 49)
+(Chapter 49)
 
-### safe ways of storing this waste for
+safe ways of storing this waste for
 
 ●●Non-renewable energy perhaps thousands of years must be found.
 
-## As long
+# As long
 
 as a reactor is operating normally it does not pose a
 
-## sources radiation risk
+sources radiation risk
 
-## but if an accident occurs
+but if an accident occurs
 
-## dangerous
+dangerous
 
 radioactive material can leak from the reactor and
 
@@ -9734,11 +9734,11 @@ spread over a large area.
 
 Two advantages of all non-renewable fuels are
 
-## a) Fossil fuels
+a) Fossil fuels
 
-## These include coal
+# These include coal
 
-## oil and natural gas
+oil and natural gas
 
 formed (i) their high energy density (i.e. they are
 
@@ -9760,15 +9760,15 @@ and on the future demands of a world population
 
 expected to increase from about 7000 million in
 
-## ●●Renewable energy
+●●Renewable energy
 
-### 2011 to at least 7600 million by the year 2050.
+2011 to at least 7600 million by the year 2050.
 
 Some estimates say oil and gas will run low early sources
 
 in the present century but coal should last for
 
-## 200 years or so.
+200 years or so.
 
 These cannot be exhausted and are generally non-
 
@@ -9776,11 +9776,11 @@ Burning fossil fuels in power stations and in polluting.
 
 cars pollutes the atmosphere with harmful gases
 
-## a) Solar energy
+a) Solar energy
 
 such as carbon dioxide and sulfur dioxide.
 
-## Carbon
+# Carbon
 
 dioxide emission aggravates the greenhouse effect The energy falling on the Earth from the Sun is
 
@@ -9796,7 +9796,7 @@ but Unfortunately its low energy density requires large
 
 less is produced by burning natural gas than by collecting devices and its availability varies.
 
-## burning oil or coal
+burning oil or coal
 
 burning coal produces most greatest potential use is as an energy source for low-
 
@@ -9804,17 +9804,17 @@ carbon dioxide for each unit of energy produced.
 
 temperature water heating.
 
-## This uses solar panels as
+# This uses solar panels as
 
 When coal and oil are burnt they also produce sulfur the energy transfer devices
 
-## which convert light into
+which convert light into
 
 dioxide which causes acid rain.
 
 The sulfur dioxide heat energy.
 
-### They are used increasingly to produce
+# They are used increasingly to produce
 
 can be extracted from the waste gases so it does not domestic hot water at about 70 ºC and to heat
 
@@ -9824,15 +9824,15 @@ enter the atmosphere or the sulfur can be removed swimming pools.
 
 indd 60 20/06/14 7:47 AM
 
-## renewable energy sources
+renewable energy sources
 
 Solar energy can also be used to produce high- b) Wind energy
 
-## temperature heating
+temperature heating
 
-## up to 3000 ºC or so
+up to 3000 ºC or so
 
-## if a large
+if a large
 
 Giant windmills called wind turbines with two or
 
@@ -9842,11 +9842,11 @@ three blades each up to 30 m long drive electrical
 
 rays on to a small area.
 
-## The energy can then be used
+# The energy can then be used
 
 generators.
 
-### ‘Wind farms’ of 20 to 100 turbines
+‘Wind farms’ of 20 to 100 turbines
 
 to turn water to steam for driving the turbine of an
 
@@ -9858,7 +9858,7 @@ electric generator in a power station.
 
 about 400 MW (enough electricity for 250 000
 
-### homes) in the UK and provide a useful
+homes) in the UK and provide a useful
 
 ‘top-up’ to the National Grid.
 
@@ -9866,13 +9866,13 @@ Wind turbines can be noisy and may be considered
 
 unsightly so there is some environmental objection
 
-## to wind farms
+to wind farms
 
 especially as the best sites are often in
 
 coastal or upland areas of great natural beauty.
 
-## c) Wave energy
+c) Wave energy
 
 The rise and fall of sea waves has to be transferred by
 
@@ -9880,33 +9880,33 @@ some kind of wave-energy converter into the rotary
 
 motion required to drive a generator.
 
-## It is a difficult
+# It is a difficult
 
 problem and the large-scale production of electricity
 
 Figure 15.
 
-### 1 Solar cells on a house provide electricity.
+1 Solar cells on a house provide electricity.
 
 by this means is unlikely in the near future
 
 small systems are being developed to supply island
 
-## Solar cells
+# Solar cells
 
-### made from semiconducting materials
+made from semiconducting materials
 
 communities with power.
 
 convert sunlight into electricity directly.
 
-## A number
+# A number
 
 of cells connected together can be used to supply d) Tidal and hydroelectric energy
 
 electricity to homes (Figure 15.
 
-## 1) and to the
+1) and to the
 
 The flow of water from a higher to a lower level from
 
@@ -9916,7 +9916,7 @@ behind a tidal barrage (barrier) or the dam of a
 
 other satellites.
 
-### They are also used for small-scale
+# They are also used for small-scale
 
 hydroelectric scheme is used to drive a water turbine
 
@@ -9926,7 +9926,7 @@ power generation in remote areas of developing
 
 countries where there is no electricity supply.
 
-## Recent
+# Recent
 
 One of the largest working tidal schemes is the La
 
@@ -9934,7 +9934,7 @@ developments have made large-scale generation
 
 Grande I project in Canada (Figure 15.
 
-## Feasibility
+# Feasibility
 
 more cost effective and there is now a large solar
 
@@ -9942,7 +9942,7 @@ studies have shown that a 10-mile-long barrage
 
 power plant in California.
 
-## There are many designs
+# There are many designs
 
 across the Severn Estuary could produce about 7% of
 
@@ -9956,29 +9956,29 @@ Wales.
 
 Such schemes have significant implications for
 
-## the environment
+the environment
 
-### as they may destroy wildlife habitats
+as they may destroy wildlife habitats
 
-## of wading birds for example
+of wading birds for example
 
-## and also for shipping
+and also for shipping
 
 routes.
 
-## In the UK
+# In the UK
 
-### hydroelectric power stations generate
+hydroelectric power stations generate
 
 about 2% of the electricity supply.
 
-## Most are located
+# Most are located
 
 in Scotland and Wales where the average rainfall is
 
 higher than in other areas.
 
-## With good management
+# With good management
 
 hydroelectric energy is a reliable energy source
 
@@ -9988,39 +9988,39 @@ dams, and a variety of problems may result from the
 
 impact of a dam on the environment.
 
-## Land previously
+# Land previously
 
 used for forestry or farming may have to be flooded.
 
 Figure 15.
 
-## 2 Solar-powered car
+2 Solar-powered car
 
 9781444176421_Section_01.
 
 indd 61 20/06/14 7:47 AM
 
-## 15 energy sourCes
+15 energy sourCes
 
 Figure 15.
 
-## 3 Tidal barrage in Canada
+3 Tidal barrage in Canada
 
 Figure 15.
 
-### 4 Filling up with biofuel in Brazil
+4 Filling up with biofuel in Brazil
 
-## e) Geothermal energy
+e) Geothermal energy
 
 If cold water is pumped down a shaft into hot rocks
 
-## below the Earth’s surface
+below the Earth’s surface
 
-## it may be forced up
+it may be forced up
 
 another shaft as steam.
 
-## This can be used to drive a
+# This can be used to drive a
 
 turbine and generate electricity or to heat buildings.
 
@@ -10034,7 +10034,7 @@ Geothermal power stations are in operation in
 
 the USA, New Zealand and Iceland.
 
-## f) Biomass (vegetable fuels)
+f) Biomass (vegetable fuels)
 
 These include cultivated crops (e.g. oilseed rape)
 
@@ -10042,7 +10042,7 @@ crop residues (e.g. cereal straw)
 
 natural vegetation Figure 15.
 
-### 5 Feeding a biogas digester in rural India
+5 Feeding a biogas digester in rural India
 
 (e.g. gorse)
 
@@ -10066,13 +10066,13 @@ biofuels can replace petrol (Figure 15.
 
 they have up to 50% less energy per litre
 
-## they are
+they are
 
-## a) Non-renewable sources
+a) Non-renewable sources
 
 lead- and sulfur-free and so cleaner.
 
-## Biogas is a
+# Biogas is a
 
 mix of methane and carbon dioxide with an energy These are used in thermal power stations to produce
 
@@ -10080,7 +10080,7 @@ content about two-thirds that of natural gas.
 
 In heat energy that turns water into steam.
 
-## The steam
+# The steam
 
 developing countries it is produced from animal and drives turbines which in turn drive the generators that
 
@@ -10096,21 +10096,21 @@ If fossil fuels are the energy source (usually coal but
 
 indd 62 20/06/14 7:48 AM
 
-## Power stations
+# Power stations
 
 natural gas is favoured in new stations)
 
 the steam is In gas-fired power stations
 
-## natural gas is burnt in a
+natural gas is burnt in a
 
 obtained from a boiler.
 
-## If nuclear fuel is used
+# If nuclear fuel is used
 
 such as gas turbine linked directly to an electricity generator.
 
-## uranium or plutonium
+uranium or plutonium
 
 the steam is produced in a The hot exhaust gases from the turbine are not
 
@@ -10120,7 +10120,7 @@ released into the atmosphere but used to produce
 
 The action of a steam turbine resembles that of steam in a boiler.
 
-### The steam is then used to generate
+# The steam is then used to generate
 
 a water wheel but moving steam not moving water more electricity from a steam turbine driving another
 
@@ -10144,7 +10144,7 @@ drives the electrical generator.
 
 The steam expands unburnt methane) is produced
 
-## and natural gas is
+and natural gas is
 
 as it passes through the turbine and the size of the almost sulfur-free so the environmental pollution
 
@@ -10152,19 +10152,19 @@ blades increases along the turbine to allow for this.
 
 caused is much less than for coal.
 
-## b) Renewable sources
+b) Renewable sources
 
 In most cases the renewable energy source is used to
 
-## drive turbines directly
+drive turbines directly
 
-### as explained earlier in the cases
+as explained earlier in the cases
 
-## of hydroelectric
+of hydroelectric
 
 wind, wave
 
-## tidal and geothermal
+tidal and geothermal
 
 schemes.
 
@@ -10174,7 +10174,7 @@ for a hydroelectric scheme like that in Figure 13.
 
 51) are shown in Figure 15.
 
-## The efficiency of
+# The efficiency of
 
 a large installation can be as high as 85–90% since
 
@@ -10182,45 +10182,45 @@ many of the causes of loss in thermal power stations
 
 (e.g. water cooling towers) are absent.
 
-## In some cases
+# In some cases
 
 the generating costs are half those of thermal stations.
 
 Figure 15.
 
-### 6 The rotor of a steam turbine
+6 The rotor of a steam turbine
 
-## high-level water
+high-level water
 
 The overall efficiency of thermal power stations is reservoir turbine generator
 
 only about 30%.
 
-### They require cooling towers to
+# They require cooling towers to
 
 condense steam from the turbine to water and this
 
 is a waste of energy.
 
-### A block diagram and an energy-
+# A block diagram and an energy-
 
 of k.
 
-## of electrical
+of electrical
 
 transfer diagram for a thermal power station are given of water falling rotating energy
 
 in Figure 15.
 
-## water turbine
+water turbine
 
-## boiler or
+boiler or
 
-## steam
+steam
 
 heat turbine generator heat and sound energy lost to surroundings
 
-## exchanger
+exchanger
 
 Figure 15.
 
@@ -10230,11 +10230,11 @@ A feature of some hydroelectric stations is pumped
 
 chemical heat k.
 
-## of electrical
+of electrical
 
 or nuclear energy rotating energy storage.
 
-### Electrical energy cannot be stored on a
+# Electrical energy cannot be stored on a
 
 energy of steam turbine large scale but must be used as it is generated.
 
@@ -10246,21 +10246,21 @@ demand varies with the time of day and the season
 
 electricity generated at off-peak periods is used to
 
-### heat energy lost to surroundings
+heat energy lost to surroundings
 
 and from cooling towers pump water back up from a low-level reservoir to
 
 a higher-level one.
 
-### It is easier to do this than to
+# It is easier to do this than to
 
 Figure 15.
 
-### 7 Energy transfers in a thermal power station
+7 Energy transfers in a thermal power station
 
 reduce the output of the generator.
 
-## At peak times
+# At peak times
 
 the potential energy of the water in the high-level
 
@@ -10268,7 +10268,7 @@ the potential energy of the water in the high-level
 
 indd 63 20/06/14 7:48 AM
 
-## 15 energy sourCes
+15 energy sourCes
 
 reservoir is converted back into electrical energy
 
@@ -10276,7 +10276,7 @@ three-quarters of the electrical energy that was used
 
 to pump the water is generated.
 
-## W/dnamed
+W/dnamed
 
 The cost for a nuclear power station is in excess of
 
@@ -10284,7 +10284,7 @@ The cost for a nuclear power station is in excess of
 
 Wind energy costs vary, depending upon
 
-## location
+location
 
 but are in the range 8p to 21p per unit.
 
@@ -10296,23 +10296,23 @@ coal and gas generation.
 
 as well as how easily production can be started up and
 
-## winter
+winter
 
 shut down as demand for electricity varies.
 
-## Natural gas
+# Natural gas
 
 power stations have a short start-up time
 
-## while coal
+while coal
 
 and then oil power stations take successively longer to
 
-## 3 start up
+3 start up
 
 nuclear power stations take longest.
 
-## They are
+# They are
 
 all reliable in that they can produce electricity at any
 
@@ -10320,7 +10320,7 @@ time of day and in any season of the year as long as
 
 summer fuel is available.
 
-### Hydroelectric power stations are also
+# Hydroelectric power stations are also
 
 very reliable and have a very short start-up time which
 
@@ -10328,71 +10328,71 @@ very reliable and have a very short start-up time which
 
 electricity peaks.
 
-### The electricity output of a tidal power
+# The electricity output of a tidal power
 
-## station
+station
 
-## although predictable
+although predictable
 
-## is not as reliable because
+is not as reliable because
 
 0 4h 8h 12h 16h 20h 24h it depends on the height of the tide which varies over
 
-## time of day daily
+time of day daily
 
 monthly and seasonal time scales.
 
-## The wind and
+# The wind and
 
 the Sun are even less reliable sources of energy since
 
 Figure 15.
 
-## 9 Variation in power demand
+9 Variation in power demand
 
 the output of a wind turbine changes with the strength
 
 of the wind and that of a solar cell with the intensity of
 
-## ●● Economic
+●● Economic
 
-### environmental light falling on it
+environmental light falling on it
 
-### the output may not be able to match
+the output may not be able to match
 
 the demand for electricity at a particular time.
 
-## and social issues
+and social issues
 
 Renewable sources are still only being used on
 
 a small scale globally.
 
-## The contribution of the
+# The contribution of the
 
 When considering the large-scale generation of
 
 main energy sources to the world’s total energy
 
-## electricity
+electricity
 
-### the economic and environmental costs
+the economic and environmental costs
 
 consumption at present is given in Table 15.
 
-## (The
+(The
 
 of using various energy sources have to be weighed
 
 use of biofuels is not well documented.
 
-## ) The pattern
+) The pattern
 
 against the benefits that electricity brings to society as
 
 in the UK is similar but France generates nearly
 
-## a ‘clean’
+a ‘clean’
 
 convenient and fairly ‘cheap’ energy supply.
 
@@ -10410,23 +10410,23 @@ were outlined when each was discussed previously.
 
 where interest in nuclear energy is growing most
 
-### Apart from people using less energy
+# Apart from people using less energy
 
-## how far
+how far
 
 dramatically.
 
 However, the great dependence on fossil
 
-## pollution can be reduced by
+pollution can be reduced by
 
-## for example
+for example
 
-## installing
+installing
 
 fuels worldwide is evident.
 
-## It is clear the world has an
+# It is clear the world has an
 
 desulfurisation processes in coal-fired power stations
 
@@ -10440,27 +10440,27 @@ Although there are no fuel costs associated with
 
 Table 15.
 
-## 1 World use of energy sources
+1 World use of energy sources
 
 electricity generation from renewable energy sources
 
-## such as wind power
+such as wind power
 
 the energy is so ‘dilute’ that the Oil Coal Gas Nuclear Hydroelectric
 
 capital costs of setting up the generating installation are
 
-## 36% 29% 23% 6% 6%
+36% 29% 23% 6% 6%
 
 high.
 
-## Similarly
+# Similarly
 
-### although fuel costs for nuclear power
+although fuel costs for nuclear power
 
-## stations are relatively low
+stations are relatively low
 
-## the costs of building the
+the costs of building the
 
 stations and of dismantling them at the end of their Consumption varies from one country to another
 
@@ -10472,7 +10472,7 @@ It has been estimated that currently it costs 42% of the world’s energy consum
 
 between 6p and 15p to produce a unit of electricity Table 15.
 
-### 2 shows approximate values for the annual
+2 shows approximate values for the annual
 
 in a gas- or coal-fired power station in the UK.
 
@@ -10482,19 +10482,19 @@ consumption per head of population for different areas.
 
 indd 64 20/06/14 7:48 AM
 
-## economic
+economic
 
-### environmental and social issues
+environmental and social issues
 
 These fi gures include the ‘hidden’ consumption in
 
-## Questions
+# Questions
 
 the manufacturing and transporting of goods.
 
 world average consumption is 69 × 109 J per head 1 The pie chart in Figure 15.
 
-### 11 shows the percentages of the
+11 shows the percentages of the
 
 per year.
 
@@ -10506,7 +10506,7 @@ b Which of the sources is/are renewable?
 
 Table 15.
 
-### 2 Energy consumption per head per year/J × 109
+2 Energy consumption per head per year/J × 109
 
 c What is meant by ‘renewable’?
 
@@ -10516,23 +10516,23 @@ America China Africa d Name two other renewable sources.
 
 e Why, if energy is always conserved
 
-## is it important to
+is it important to
 
-### 335 156 172 60 55 20 develop renewable sources?
+335 156 172 60 55 20 develop renewable sources?
 
-## natural
+natural
 
-## gas
+gas
 
-## oil 25%
+oil 25%
 
-## 40%
+40%
 
-## water 2%
+water 2%
 
-## coal nuclear 8%
+coal nuclear 8%
 
-## 25%
+25%
 
 Figure 15.
 
@@ -10556,7 +10556,7 @@ Figure 15.
 
 stock exchange traders.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -10574,7 +10574,7 @@ wind, wave
 
 tidal, hydroelectric
 
-## geothermal and biomass energy
+geothermal and biomass energy
 
 • describe the energy transfer processes in a thermal and a
 
@@ -10592,21 +10592,21 @@ production and consumption.
 
 indd 65 20/06/14 7:48 AM
 
-## Pressure and liquid pressure
+# Pressure and liquid pressure
 
-### ● Pressure ● Hydraulic machines
+● Pressure ● Hydraulic machines
 
 ● Liquid pressure ● Expression for liquid pressure
 
-### ● Water supply system ● Pressure gauges
+● Water supply system ● Pressure gauges
 
-## ●●Pressure ●●Liquid pressure
+●●Pressure ●●Liquid pressure
 
 To make sense of some effects in which a force acts 1 Pressure in a liquid increases with depth because
 
 on a body we have to consider not only the force but the further down you go
 
-## the greater the weight
+the greater the weight
 
 also the area on which it acts.
 
@@ -10614,7 +10614,7 @@ For example, wearing of liquid above.
 
 In Figure 16.
 
-## 2a water spurts out
+2a water spurts out
 
 skis prevents you sinking into soft snow because fastest and furthest from the lowest hole.
 
@@ -10628,51 +10628,51 @@ directions.
 
 The can of water in Figure 16.
 
-## 2b has
+2b has
 
 Pressure is the force (or thrust) acting on unit similar holes all round it at the same level.
 
-## Water
+# Water
 
 area (i.e. 1 m2) and is calculated from comes out equally fast and spurts equally far from
 
 each hole.
 
-### Hence the pressure exerted by the water
+# Hence the pressure exerted by the water
 
 at this depth is the same in all directions.
 
-## force
+force
 
-## pressure =
+pressure =
 
-## area
+area
 
-## water can
+water can
 
-### The unit of pressure is the pascal (Pa)
+The unit of pressure is the pascal (Pa)
 
-## it equals
+it equals
 
-### 1 newton per square metre (N/m2) and is quite a
+1 newton per square metre (N/m2) and is quite a
 
-## a b
+a b
 
 small pressure.
 
-### An apple in your hand exerts about
+# An apple in your hand exerts about
 
-## 1000 Pa. Figure 16.2
+1000 Pa. Figure 16.2
 
 The greater the area over which a force acts
 
-### 3 A liquid fi nds its own level. In the U-tube of
+3 A liquid fi nds its own level. In the U-tube of
 
 less the pressure.
 
 Figure 16.
 
-## 1 shows the pressure
+1 shows the pressure
 
 Figure 16.
 
@@ -10688,11 +10688,11 @@ end (Figure 16.
 
 1b).
 
-## This
+# This
 
 column is higher than the right-hand one.
 
-## When
+# When
 
 is why a tractor with wide wheels can move over soft
 
@@ -10710,13 +10710,13 @@ and this is why nails are made with sharp points.
 
 the liquid ‘fi nds its own level’.
 
-## Although the weight
+# Although the weight
 
 Walnuts can be broken in the hand by squeezing two
 
-### of liquid in Q is now greater than in P
+of liquid in Q is now greater than in P
 
-## it acts over
+it acts over
 
 together but not one.
 
@@ -10734,53 +10734,53 @@ liquid column depends only on the vertical depth of
 
 the liquid and not on the tube width or shape.
 
-## weight 24 N
+weight 24 N
 
-### 4 Pressure depends on the density of the liquid.
+4 Pressure depends on the density of the liquid.
 
-## 4m
+4m
 
-## The denser the liquid
+# The denser the liquid
 
-## the greater the pressure at
+the greater the pressure at
 
 2m any given depth.
 
-## 3m
+3m
 
-## 3m 2m 4m liquid
+3m 2m 4m liquid
 
-## a area 6m2 b area 12m2 clip
+a area 6m2 b area 12m2 clip
 
-## pressure
+pressure
 
-## 24 N
+24 N
 
-## pressure
+pressure
 
-## 24 N
+24 N
 
-## 6m2 12m2
+6m2 12m2
 
-## P Q
+# P Q
 
-## 4Pa 2Pa a b
+4Pa 2Pa a b
 
 Figure 16.
 
-## 1 Figure 16.
+1 Figure 16.
 
 9781444176421_Section_01.
 
 indd 66 20/06/14 7:48 AM
 
-## Hydraulic machines
+# Hydraulic machines
 
-## ●●Water supply system force f
+●●Water supply system force f
 
-## pressure = =
+pressure = =
 
-## area A
+area A
 
 A town’s water supply often comes from a reservoir
 
@@ -10790,19 +10790,19 @@ Water flows from it through pipes This pressure acts on a second piston of large
 
 to any tap or storage tank that is below the level of producing an upward force
 
-## F = pressure × area
+F = pressure × area
 
 water in the reservoir (Figure 16.
 
-## The lower the
+# The lower the
 
-## place supplied
+place supplied
 
 the greater the water pressure.
 
-## In very f
+# In very f
 
-## F = × A
+F = × A
 
 tall buildings it may be necessary first to pump the a
 
@@ -10812,15 +10812,15 @@ Reservoirs for water supply or for hydroelectric or
 
 power stations are often made in mountainous A
 
-## F = f ×
+F = f ×
 
 regions by building a dam at one end of a valley.
 
 dam must be thicker at the bottom than at the top
 
-## Since A is larger than a
+# Since A is larger than a
 
-## F must be larger than f
+# F must be larger than f
 
 due to the large water pressure at the bottom.
 
@@ -10828,33 +10828,33 @@ and the hydraulic system is a force multiplier
 
 multiplying factor is A/a.
 
-## reservoir For example
+reservoir For example
 
-## if f = 1 N
+if f = 1 N
 
-## a = 1 m2 and A = 1m2
+a = 1 m2 and A = 1m2
 
-## 100 2
+100 2
 
-## then
+then
 
-## pump m2
+pump m2
 
-## F = 1 N ×
+F = 1 N ×
 
-## m2
+m2
 
-## = 50 N
+= 50 N
 
 Figure 16.
 
-## 4 Water supply system.
+4 Water supply system.
 
-## Why is the pump needed in the
+# Why is the pump needed in the
 
 A force of 1 N could lift a load of 50 N
 
-## the hydraulic
+the hydraulic
 
 high-rise building?
 
@@ -10862,7 +10862,7 @@ system multiplies the force 50 times.
 
 A hydraulic jack (Figure 16.
 
-## 6) has a platform on
+6) has a platform on
 
 ●●Hydraulic machines top of piston B and is used in garages to lift cars.
 
@@ -10876,11 +10876,11 @@ cannot be reduced by squeezing) and they ‘pass on’
 
 repeatedly.
 
-### When steel is forged using a hydraulic
+# When steel is forged using a hydraulic
 
 any pressure applied to them.
 
-## Use is made of these
+# Use is made of these
 
 press there is a fixed plate above piston B and the
 
@@ -10888,31 +10888,31 @@ facts in hydraulic machines.
 
 Figure 16.
 
-## 5 shows the
+5 shows the
 
 sheets of steel are placed between B and the plate.
 
 principle on which they work.
 
-## F reservoir
+# F reservoir
 
-## piston
+piston
 
-## load
+load
 
-## piston piston
+piston piston
 
-## area a area A
+area a area A
 
-## liquid
+liquid
 
-## valves
+valves
 
 Figure 16.
 
-### 5 The hydraulic principle Figure 16.
+5 The hydraulic principle Figure 16.
 
-## 6 A hydraulic jack
+6 A hydraulic jack
 
 Suppose a downward force f acts on a piston of Hydraulic fork-lift trucks and similar machines such
 
@@ -10926,33 +10926,33 @@ The pressure transmitted through the liquid is as loaders (Figure 16.
 
 indd 67 20/06/14 7:49 AM
 
-### 16 Pressure And liquid Pressure
+16 Pressure And liquid Pressure
 
 liquid column of height h and cross-sectional area
 
 A above it.
 
-## Then
+# Then
 
-## volume of liquid column = hA
+volume of liquid column = hA
 
 Since mass = volume × density we can say
 
-## mass of liquid column = hAρ
+mass of liquid column = hAρ
 
 Taking a mass of 1 kg to have weight 10 N
 
-### weight of liquid column = 10hAρ
+weight of liquid column = 10hAρ
 
-## ∴ force on area A = 10hAρ
+∴ force on area A = 10hAρ
 
-## As
+As
 
-### pressure = force/area = 10hAρ/A
+pressure = force/area = 10hAρ/A
 
-## then
+then
 
-## pressure = 10hρ
+pressure = 10hρ
 
 Figure 16.
 
@@ -10960,13 +10960,13 @@ Figure 16.
 
 Hydraulic car brakes are shown in Figure 16.
 
-### pressure = depth × density × g
+pressure = depth × density × g
 
-### When the brake pedal is pushed
+# When the brake pedal is pushed
 
-## the piston in the
+the piston in the
 
-## = hρg
+= hρg
 
 master cylinder exerts a force on the brake fluid and
 
@@ -10976,23 +10976,23 @@ the resulting pressure is transmitted equally to eight
 
 other pistons (four are shown).
 
-## These force the brake
+# These force the brake
 
-## surface
+surface
 
 shoes or pads against the wheels and stop the car.
 
-## of liquid
+of liquid
 
-### ●●Expression for liquid liquid
+●●Expression for liquid liquid
 
-## density ρ
+density ρ
 
-## depth
+depth
 
-## pressure h
+pressure h
 
-## area
+area
 
 In designing a dam an engineer has to calculate the A
 
@@ -11010,51 +11010,51 @@ horizontal area A (Figure 16.
 
 The force acting and depends only on h and ρ.
 
-## Its value will be in Pa if
+# Its value will be in Pa if
 
 vertically downwards on A equals the weight of a h is in m and ρ in kg/m3.
 
-## REAR WHEEL
+# REAR WHEEL
 
-## brake drum
+brake drum
 
-## pistons
+pistons
 
-## brake shoe
+brake shoe
 
-## return
+return
 
-## spring
+spring
 
-## pad
+pad
 
-## pistons
+pistons
 
-## master
+master
 
-## cylinder
+cylinder
 
-## disc
+disc
 
-## FRONT WHEEL piston brake
+# FRONT WHEEL piston brake
 
-## fluid
+fluid
 
 Figure 16.
 
-## 8 Hydraulic car brakes
+8 Hydraulic car brakes
 
 9781444176421_Section_01.
 
 indd 68 20/06/14 7:49 AM
 
-## Pressure gauges
+# Pressure gauges
 
-### ●●Pressure gauges b) U-tube manometer
+●●Pressure gauges b) U-tube manometer
 
 In Figure 16.
 
-### 12a each surface of the liquid is acted
+12a each surface of the liquid is acted
 
 These measure the pressure exerted by a fluid
 
@@ -11064,9 +11064,9 @@ other words by a liquid or a gas.
 
 the same.
 
-## If one side is connected to
+# If one side is connected to
 
-## for example
+for example
 
 a) Bourdon gauge the gas supply (Figure 16.
 
@@ -11076,21 +11076,21 @@ pressure on surface A and level B rises until
 
 This works like the toy in Figure 16.
 
-## The harder
+# The harder
 
-## you blow into the paper tube
+you blow into the paper tube
 
 the more it uncurls.
 
-### pressure of gas = atmospheric pressure
+pressure of gas = atmospheric pressure
 
 In a Bourdon gauge (Figure 16.
 
 11), when a fluid + pressure due to liquid column BC
 
-## pressure is applied
+pressure is applied
 
-### the curved metal tube tries to
+the curved metal tube tries to
 
 The pressure of the liquid column BC therefore
 
@@ -11102,7 +11102,7 @@ oil-pressure gauges and the gauges on gas cylinders
 
 exceeds atmospheric pressure.
 
-## It equals hρg (in
+It equals hρg (in
 
 are of this type.
 
@@ -11112,55 +11112,55 @@ and ρ is the density of the liquid (in kg/m3).
 
 The height h is called the head of liquid and
 
-## sometimes
+sometimes
 
-### instead of stating a pressure in Pa
+instead of stating a pressure in Pa
 
 say that it is so many cm of water (or mercury for
 
 higher pressures).
 
-## atmospheric
+atmospheric
 
-## pressure
+pressure
 
-## to gas supply
+to gas supply
 
-## gas pressure
+gas pressure
 
-## C A
+# C A
 
-## a b
-
-Figure 16.
-
-## 10 The harder you blow
-
-### the greater the pressure and the
+a b
 
 Figure 16.
 
-## 12 A U-tube manometer
+10 The harder you blow
+
+the greater the pressure and the
+
+Figure 16.
+
+12 A U-tube manometer
 
 more it uncurls.
 
-## curved
+curved
 
-## c) Mercury barometer
+c) Mercury barometer
 
-## metal
+metal
 
-## tube
+tube
 
 A barometer is a manometer which measures
 
 atmospheric pressure.
 
-## A simple barometer is shown
+# A simple barometer is shown
 
 in Figure 16.
 
-### The pressure at X due to the weight
+# The pressure at X due to the weight
 
 of the column of mercury XY equals the atmospheric
 
@@ -11170,59 +11170,59 @@ The height XY measures the atmospheric pressure in
 
 mm of mercury (mmHg).
 
-### The vertical height of the column is
+# The vertical height of the column is
 
 unchanged if the tube is tilted.
 
-## Would it be
+# Would it be
 
 different with a wider tube?
 
-## The space above the
+# The space above the
 
 mercury in the tube is a vacuum (except for a
 
 little mercury vapour).
 
-## fluid
+fluid
 
-## pressure
+pressure
 
 Figure 16.
 
-## 11 A Bourdon gauge
+11 A Bourdon gauge
 
 9781444176421_Section_01.
 
 indd 69 20/06/14 7:49 AM
 
-### 16 Pressure And liquid Pressure
+16 Pressure And liquid Pressure
 
 6 Which of the following will damage a wood-block fl oor
 
 that can withstand a pressure of 2000 kPa (2000 kN/m2)?
 
-## mercury
+mercury
 
 1 A block weighing 2000 kN standing on an area of 2 m2.
 
 2 An elephant weighing 200 kN standing on an area of
 
-## 0.2 m2.
+# 0.2 m2.
 
-## 760 mm 3 A girl of weight 0.
+760 mm 3 A girl of weight 0.
 
-### 5 kN wearing stiletto-heeled shoes
+5 kN wearing stiletto-heeled shoes
 
 standing on an area of 0.
 
-## 0002 m2.
+0002 m2.
 
-## atmospheric
+atmospheric
 
 Use the answer code:
 
-## pressure
+pressure
 
 A 1, 2, 3
 
@@ -11230,15 +11230,15 @@ X B 1, 2
 
 C 2, 3
 
-## D 1
+# D 1
 
 Figure 16.
 
-## 13 Mercury barometer
+13 Mercury barometer
 
-## E 3
+# E 3
 
-### 7 The pressure at a point in a liquid
+7 The pressure at a point in a liquid
 
 Questions 1 increases as the depth increases
 
@@ -11250,21 +11250,21 @@ acts on an area of Which statement(s) is (are) correct?
 
 (i) 2.
 
-## 0 m2, A 1, 2, 3
+0 m2, A 1, 2, 3
 
 (ii) 100 m2, B 1, 2
 
 (iii) 0.
 
-## 50 m2?
+50 m2?
 
 C 2, 3
 
 b A pressure of 10 Pa acts on an area of 3.
 
-## 0 m2.
+0 m2.
 
-## What is D 1
+# What is D 1
 
 the force acting on the area?
 
@@ -11272,13 +11272,13 @@ the force acting on the area?
 
 area 0.
 
-## 20 m2.
+20 m2.
 
 The area of the other piston is 2.
 
-## 0 m2.
+0 m2.
 
-## What is
+# What is
 
 a the pressure transmitted through the liquid
 
@@ -11304,7 +11304,7 @@ of density 1150 kg/m3?
 
 • recall that pressure is transmitted through a liquid and use it
 
-### 5 Figure 16.14 shows a simple barometer.
+5 Figure 16.14 shows a simple barometer.
 
 to explain the hydraulic jack and hydraulic car brakes
 
@@ -11328,15 +11328,15 @@ Give a reason.
 
 • describe and use a simple mercury barometer.
 
-## A 2 cm
+# A 2 cm
 
-## 74 cm
+74 cm
 
-## mercury
+mercury
 
-## 1 cm
+1 cm
 
-## 1 cm
+1 cm
 
 Figure 16.
 
@@ -11344,37 +11344,37 @@ Figure 16.
 
 indd 70 20/06/14 7:49 AM
 
-## Section Thermal physics
+# Section Thermal physics
 
-### Chapters 21 Specifi c heat capacity
+# Chapters 21 Specifi c heat capacity
 
-## 22 Specifi c latent heat
+22 Specifi c latent heat
 
 Simple kinetic molecular model of matter
 
-### 17 Molecules Thermal processes
+17 Molecules Thermal processes
 
-### 18 The gas laws 23 Conduction and convection
+18 The gas laws 23 Conduction and convection
 
-## 24 Radiation
+24 Radiation
 
-### Thermal properties and temperature
+# Thermal properties and temperature
 
-### 19 Expansion of solids, liquids and gases
+19 Expansion of solids, liquids and gases
 
-## 20 Thermometers
+20 Thermometers
 
 9781444176421_Section_02.
 
 indd 71 20/06/14 7:31 AM
 
-## Molecules
+# Molecules
 
-### l Kinetic theory of matter l Diffusion
+l Kinetic theory of matter l Diffusion
 
-## l Crystals l Practical work
+l Crystals l Practical work
 
-## Brownian motion
+# Brownian motion
 
 Matter is made up of tiny particles or molecules
 
@@ -11382,39 +11382,39 @@ which are too small for us to see directly.
 
 they can be ‘seen’ by scientific ‘eyes’.
 
-## One of
+# One of
 
 these is the electron microscope.
 
 Figure 17.
 
-## 1 is a microscope
+1 is a microscope
 
 photograph taken with such an instrument showing window
 
 molecules of a protein.
 
-## Molecules consist of even
+# Molecules consist of even
 
 smaller particles called atoms and are in continuous
 
 motion.
 
-## lid
+lid
 
-## lamp
+lamp
 
-## smoke
+smoke
 
-## glass rod glass cell
+glass rod glass cell
 
-## glass plate
+glass plate
 
-## smoke
+smoke
 
-## burning match
+burning match
 
-## glass cell
+glass cell
 
 Figure 17.
 
@@ -11424,11 +11424,11 @@ dancing around haphazardly (Figure 17.
 
 2c).
 
-## The specks are
+# The specks are
 
-### smoke particles seen by reflected light
+smoke particles seen by reflected light
 
-## their random motion is
+their random motion is
 
 called Brownian motion.
 
@@ -11436,7 +11436,7 @@ It is due to collisions with fast-moving
 
 air molecules in the cell.
 
-### A smoke particle is massive compared
+# A smoke particle is massive compared
 
 with an air molecule but if there are more high-speed molecules
 
@@ -11444,35 +11444,35 @@ striking one side of it than the other at a given instant
 
 particle will move in the direction in which there is a net force.
 
-## The imbalance
+# The imbalance
 
 and hence the direction of the net force
 
-## changes
+changes
 
 rapidly in a random manner.
 
-## l●Kinetic theory of matter
+l●Kinetic theory of matter
 
 Figure 17.
 
-## 1 Protein molecules
+1 Protein molecules
 
-### As well as being in continuous motion
+# As well as being in continuous motion
 
-## molecules
+molecules
 
 also exert strong electric forces on one another when
 
 they are close together.
 
-### The forces are both attractive
+# The forces are both attractive
 
-## Practical work
+# Practical work
 
 and repulsive.
 
-### The former hold molecules together
+# The former hold molecules together
 
 and the latter cause matter to resist compression.
 
@@ -11482,21 +11482,21 @@ solid, liquid and gaseous states.
 
 The apparatus is shown in Figure 17.
 
-## First fill the glass cell
+# First fill the glass cell
 
 with smoke using a match (Figure 17.
 
 2b).
 
-## Replace the lid on the
+# Replace the lid on the
 
-## a) Solids
+a) Solids
 
 apparatus and set it on the microscope platform.
 
-## Connect the
+# Connect the
 
-## lamp to a 12 V supply
+lamp to a 12 V supply
 
 the glass rod acts as a lens and focuses The theory states that in solids the molecules are
 
@@ -11508,29 +11508,29 @@ close together and the attractive and repulsive forces
 
 indd 72 20/06/14 7:31 AM
 
-## Kinetic theory of matter
+# Kinetic theory of matter
 
 between neighbouring molecules balance.
 
-## Also each
+# Also each
 
 molecule vibrates to and fro about a fixed position.
 
-## It is just as if springs
+# It is just as if springs
 
-## representing the electric
+representing the electric
 
-## forces between molecules
+forces between molecules
 
-## hold the molecules
+hold the molecules
 
 together (Figure 17.
 
-## This enables the solid to
+# This enables the solid to
 
-### keep a definite shape and volume
+keep a definite shape and volume
 
-## while still allowing
+while still allowing
 
 the individual molecules to vibrate backwards and
 
@@ -11538,21 +11538,21 @@ forwards.
 
 The theory shows that the molecules in tilted
 
-## tray
+tray
 
-### a solid could be arranged in a regular
+a solid could be arranged in a regular
 
-## repeating
+repeating
 
 pattern like those formed by crystalline substances.
 
-## marbles
+marbles
 
 Figure 17.
 
-### 4 A model of molecular behaviour in a liquid
+4 A model of molecular behaviour in a liquid
 
-## c) Gases
+c) Gases
 
 The molecules in gases are much further apart than
 
@@ -11562,13 +11562,13 @@ much less dense and can be squeezed (compressed)
 
 into a smaller space.
 
-### The molecules dash around at very
+# The molecules dash around at very
 
 high speed (about 500 m/s for air molecules at 0 ºC) in
 
 all the space available.
 
-### It is only during the brief spells
+# It is only during the brief spells
 
 when they collide with other molecules or with the
 
@@ -11580,15 +11580,15 @@ represented by springs.
 
 A model of a gas is shown in Figure 17.
 
-## faster the vibrator works
+faster the vibrator works
 
-## the more often the ball-
+the more often the ball-
 
 b) Liquids bearings have collisions with the lid
 
-## the tube and with
+the tube and with
 
-## each other
+each other
 
 representing a gas at a higher temperature.
 
@@ -11600,31 +11600,31 @@ are slightly further apart than in solids but still close
 
 into a tyre; it increases the pressure.
 
-## If a polystyrene
+# If a polystyrene
 
 enough together to have a definite volume.
 
-## As well
+# As well
 
 ball (1 cm diameter) is dropped into the tube
 
-## as vibrating
+as vibrating
 
-### they can at the same time move rapidly
+they can at the same time move rapidly
 
 irregular motion represents Brownian motion.
 
-## over short distances
+over short distances
 
-### slipping past each other in all
+slipping past each other in all
 
 directions.
 
-### They are never near another molecule
+# They are never near another molecule
 
 long enough to get trapped in a regular pattern
 
-## lid
+lid
 
 which would stop them from flowing and from
 
@@ -11632,41 +11632,41 @@ taking the shape of the vessel containing them.
 
 A model to represent the liquid state can be
 
-## Perspex tube
+# Perspex tube
 
 made by covering about a third of a tilted tray
 
 with marbles (‘molecules’) (Figure 17.
 
-## It is then
+# It is then
 
 shaken to and fro and the motion of the marbles
 
-## ball-bearings
+ball-bearings
 
 observed.
 
-### They are able to move around but most
+# They are able to move around but most
 
-### stay in the lower half of the tray
+stay in the lower half of the tray
 
-## so the liquid
+so the liquid
 
 has a fairly definite volume.
 
-## A few energetic ones
+# A few energetic ones
 
 ‘escape’ from the ‘liquid’ into the space above.
 
-## They
+# They
 
-## rubber sheet
+rubber sheet
 
 represent molecules that have ‘evaporated’ from
 
 the ‘liquid’ surface and become ‘gas’ or ‘vapour’
 
-## vibrator driven
+vibrator driven
 
 molecules.
 
@@ -11676,55 +11676,55 @@ The thinning out of the marbles near the by motor
 
 Figure 17.
 
-### 5 A model of molecular behaviour in a gas
+5 A model of molecular behaviour in a gas
 
 9781444176421_Section_02.
 
 indd 73 20/06/14 7:31 AM
 
-## 17 Molecules
+17 Molecules
 
 l●Crystals These facts suggest that crystals are made of small
 
 particles (e.g. atoms) arranged in an orderly way in
 
-## Crystals have hard
+# Crystals have hard
 
 flat sides and straight edges.
 
 planes.
 
-### Metals have crystalline structures
+# Metals have crystalline structures
 
-## but many
+but many
 
-## Whatever their size
+# Whatever their size
 
 crystals of the same substance other common solids such as glass
 
-## plastics and wood
+plastics and wood
 
 have the same shape.
 
 This can be seen by observing, do not.
 
-## through a microscope
+through a microscope
 
-### very small cubic salt crystals
+very small cubic salt crystals
 
 growing as water evaporates from salt solution on a l●Diffusion
 
 glass slide (Figure 17.
 
-## Smells
+# Smells
 
-## pleasant or otherwise
+pleasant or otherwise
 
-## travel quickly and are
+travel quickly and are
 
 caused by rapidly moving molecules.
 
-## The spreading
+# The spreading
 
 of a substance of its own accord is called diffusion
 
@@ -11738,15 +11738,15 @@ of equal volumes of concentrated nitric acid and
 
 water onto copper turnings in a gas jar.
 
-## When the
+# When the
 
-## reaction has stopped
+reaction has stopped
 
-## a gas jar of air is inverted
+a gas jar of air is inverted
 
 over the bottom jar (Figure 17.
 
-## The brown
+# The brown
 
 colour spreads into the upper jar showing that
 
@@ -11754,17 +11754,17 @@ nitrogen dioxide molecules diffuse upwards
 
 against gravity.
 
-### Air molecules also diffuse into the
+# Air molecules also diffuse into the
 
 lower jar.
 
 Figure 17.
 
-### 6 Salt crystals viewed under a microscope with
+6 Salt crystals viewed under a microscope with
 
-## polarised light
+polarised light
 
-## air molecules
+air molecules
 
 A calcite crystal will split cleanly if a trimming knife
 
@@ -11772,15 +11772,15 @@ held exactly parallel to one side of the crystal
 
 struck by a hammer (Figure 17.
 
-## nitrogen dioxide
+nitrogen dioxide
 
-## molecules
+molecules
 
-## gas jar
+gas jar
 
 Figure 17.
 
-### 8 Demonstrating diffusion of a gas
+8 Demonstrating diffusion of a gas
 
 The speed of diffusion of a gas depends on the speed
 
@@ -11788,29 +11788,29 @@ of its molecules and is greater for light molecules.
 
 The apparatus of Figure 17.
 
-## 9 shows this.
+9 shows this.
 
-## When
+# When
 
-### hydrogen surrounds the porous pot
+hydrogen surrounds the porous pot
 
-## the liquid in the
+the liquid in the
 
 U-tube moves in the direction of the arrows.
 
-## This
+# This
 
-## is because the lighter
+is because the lighter
 
-## faster molecules of hydrogen
+faster molecules of hydrogen
 
 diffuse into the pot faster than the heavier
 
-## slower
+slower
 
 molecules of air diffuse out.
 
-## The opposite happens
+# The opposite happens
 
 when carbon dioxide surrounds the pot.
 
@@ -11818,23 +11818,23 @@ Why?
 
 Figure 17.
 
-## 7 Splitting a calcite crystal
+7 Splitting a calcite crystal
 
 9781444176421_Section_02.
 
 indd 74 20/06/14 7:32 AM
 
-## diffusion
+diffusion
 
-## beaker hydrogen
+beaker hydrogen
 
-## porous pot
+porous pot
 
 Figure 17.
 
 9 The speed of diffusion is greater for lighter molecules
 
-## Questions
+# Questions
 
 1 Which one of the following statements is not true?
 
@@ -11856,17 +11856,17 @@ much closer together than gas molecules.
 
 E The molecules of a gas occupy all the space available.
 
-### 2 Using what you know about the compressibility
+2 Using what you know about the compressibility
 
 (squeezability) of the different states of matter
 
-## explain why
+explain why
 
 a air is used to infl ate tyres,
 
 b steel is used to make railway lines.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -11882,29 +11882,29 @@ solids, liquids and gases.
 
 indd 75 20/06/14 7:32 AM
 
-## The gas laws
+# The gas laws
 
-### l Pressure of a gas l Practical work
+l Pressure of a gas l Practical work
 
-### Effect on volume of temperature
+# Effect on volume of temperature
 
 l Absolute zero Effect on pressure of temperature
 
-## Effect on
+# Effect on
 
-### l The gas laws volume of pressure
+l The gas laws volume of pressure
 
-### l Gases and the kinetic theory
+l Gases and the kinetic theory
 
-## l●Pressure of a gas
+l●Pressure of a gas
 
-## Practical work
+# Practical work
 
 The air forming the Earth’s atmosphere stretches
 
 upwards a long way.
 
-## Air has weight
+# Air has weight
 
 the air in Effect on volume of temperature
 
@@ -11912,11 +11912,11 @@ a normal room weighs about the same as you (pressure constant) – Charles’ la
 
 do, about 500 N.
 
-## Because of its weight the
+# Because of its weight the
 
 Arrange the apparatus as in Figure 18.
 
-## The index of
+# The index of
 
 atmosphere exerts a large pressure at sea level
 
@@ -11926,7 +11926,7 @@ about 100 000 N/m2 = 105 Pa (or 100 kPa).
 
 investigated and also dries it.
 
-## Adjust the capillary tube so
+# Adjust the capillary tube so
 
 This pressure acts equally in all directions.
 
@@ -11942,9 +11942,9 @@ a vacuum pump (Figure 18.
 
 1), the can collapses end of the index and the sealed end of the capillary tube)
 
-## at different temperatures but
+at different temperatures but
 
-## before taking a reading
+before taking a reading
 
 because the air pressure outside is greater than
 
@@ -11952,23 +11952,23 @@ stop heating and stir well to make sure that the air
 
 that inside.
 
-### A space from which all the air has been
+# A space from which all the air has been
 
 has reached the temperature of the water.
 
-## Put the results
+# Put the results
 
 removed is a vacuum.
 
 Alternatively the pressure in a in a table.
 
-## container can be increased
+container can be increased
 
 for example by pumping Plot a graph of volume (in cm
 
-## since the length of the air
+since the length of the air
 
-## more gas into the can
+more gas into the can
 
 a Bourdon gauge (p.
 
@@ -11984,39 +11984,39 @@ and equals atmospheric pressure plus the pressure of the
 
 acid index.
 
-## to vacuum
+to vacuum
 
-## pump
+pump
 
-## ruler
+ruler
 
-## can (30 cm) thermometer
+can (30 cm) thermometer
 
-## capillary can
+capillary can
 
-## tube
+tube
 
-## concentrated
+concentrated
 
-## air sulfuric acid
+air sulfuric acid
 
-## column index
+column index
 
-## rubber
+rubber
 
-## band
+band
 
-## water
+water
 
 Figure 18.
 
 1 Atmospheric pressure collapses the evacuated can.
 
-## heat
+heat
 
-## When a gas is heated
+# When a gas is heated
 
-## as air is in a jet engine
+as air is in a jet engine
 
 pressure as well as its volume may change.
 
@@ -12030,19 +12030,19 @@ must keep one fixed while the other is changed.
 
 indd 76 20/06/14 7:32 AM
 
-## absolute zero
+absolute zero
 
-## Practical work
+# Practical work
 
-## volume or pressure
+volume or pressure
 
-### Effect on pressure of temperature
+# Effect on pressure of temperature
 
-### (volume constant) – the Pressure law
+(volume constant) – the Pressure law
 
 The apparatus is shown in Figure 18.
 
-## The rubber tubing from
+# The rubber tubing from
 
 the fl ask to the pressure gauge should be as short as possible.
 
@@ -12052,15 +12052,15 @@ securely clamped to keep it off the bottom of the can.
 
 Record the pressure over a wide range of temperatures
 
-## before taking a reading
+before taking a reading
 
-## stop heating
+stop heating
 
-## stir and allow time for the
+stir and allow time for the
 
-### gauge reading to become steady
+gauge reading to become steady
 
-### the air in the fl ask will then be
+the air in the fl ask will then be
 
 at the temperature of the water.
 
@@ -12070,23 +12070,23 @@ Plot a graph of pressure on the y-axis and temperature on
 
 the x-axis.
 
-## 273°C 0°C temperature
+273°C 0°C temperature
 
-## 0K 273K
+0K 273K
 
-## rubber tubing Bourdon
+rubber tubing Bourdon
 
 Figure 18.
 
-## pressure
+pressure
 
-## gauge
+gauge
 
 The graphs do not pass through the Celsius
 
 temperature origin (0 ºC).
 
-## If they are produced
+# If they are produced
 
 backwards they cut the temperature axis at about
 
@@ -12102,7 +12102,7 @@ It is the zero of the absolute or Kelvin
 
 scale of temperature.
 
-## At absolute zero molecular
+# At absolute zero molecular
 
 thermometer motion ceases and a substance has no internal energy.
 
@@ -12110,9 +12110,9 @@ Degrees on this scale are called kelvins and are
 
 denoted by K.
 
-### They are exactly the same size as
+# They are exactly the same size as
 
-## can
+can
 
 Celsius degrees.
 
@@ -12120,49 +12120,49 @@ Since –273 ºC = 0 K, conversions
 
 from ºC to K are made by adding 273.
 
-## For example
+# For example
 
-## water
+water
 
-## 0 ºC = 273 K
+0 ºC = 273 K
 
-## 15 ºC = 273 + 15 = 288 K
+15 ºC = 273 + 15 = 288 K
 
-### flask 100 ºC = 273 + 100 = 373 K
+flask 100 ºC = 273 + 100 = 373 K
 
-## (250 cm3)
+(250 cm3)
 
 Kelvin or absolute temperatures are represented by
 
-## the letter T
+the letter T
 
 and if θ (Greek letter ‘theta’) stands for
 
-### a Celsius scale temperature then
+a Celsius scale temperature then
 
-## in general
+in general
 
 Figure 18.
 
-## 3 T = 273 + θ
+3 T = 273 + θ
 
 Near absolute zero strange things occur.
 
-## Liquid
+# Liquid
 
 helium becomes a superfl uid.
 
-## It cannot be kept in
+# It cannot be kept in
 
-## l●Absolute zero
+l●Absolute zero
 
 an open vessel because it fl ows up the inside of the
 
-## vessel
+vessel
 
 over the edge and down the outside.
 
-## Some
+# Some
 
 The volume–temperature and pressure–temperature
 
@@ -12178,13 +12178,13 @@ fl ows forever, without a battery.
 
 Figure 18.
 
-## 5 shows
+5 shows
 
-### temperature as measured on a mercury
+temperature as measured on a mercury
 
 research equipment that is being used to create
 
-## thermometer
+thermometer
 
 i.e. equal temperature increases cause
 
@@ -12194,13 +12194,13 @@ equal volume or pressure increases.
 
 higher temperatures, such as –23 ºC.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_02.
 
 indd 77 20/06/14 7:32 AM
 
-## 18 The Gas laWs
+18 The Gas laWs
 
 If a graph of pressure against volume is plotted using the
 
@@ -12208,41 +12208,41 @@ results, a curve like that in Figure 18.
 
 7a is obtained.
 
-## Close
+# Close
 
 examination of the graph shows that if p is doubled
 
 V is halved.
 
-## That is
+# That is
 
 p is inversely proportional to V.
 
-## In symbols
+# In symbols
 
-## 1 1
+1 1
 
-## p∝ or p = constant×
+p∝ or p = constant×
 
-## V V
+# V V
 
-## ∴ pV = constant
+∴ pV = constant
 
-## If several pairs of readings
+# If several pairs of readings
 
-## p and V
+p and V
 
-## p and V
+p and V
 
 etc. are taken
 
-## 1 1 2 2
+1 1 2 2
 
 then it can be confi rmed that p V = p V = constant.
 
-## This is
+# This is
 
-## 1 1 2 2
+1 1 2 2
 
 Boyle’s law, which is stated as follows:
 
@@ -12250,29 +12250,29 @@ The pressure of a fi xed mass of gas is inversely proportional to
 
 its volume if its temperature is kept constant.
 
-## 0 0 glass tube
+0 0 glass tube
 
-## 10 10 air
+10 10 air
 
-## Bourdon gauge
+# Bourdon gauge
 
-## 20 20
+20 20
 
-## 30 30
+30 30
 
-## 40 40
+40 40
 
-## 50 50 to foot
+50 50 to foot
 
-## pump
+pump
 
-## oil
+oil
 
-## reservoir
+reservoir
 
 Figure 18.
 
-## p p
+p p
 
 Figure 18.
 
@@ -12282,33 +12282,33 @@ composite materials that are superconducting at temperatures far p
 
 above absolute zero.
 
-## doubled
+doubled
 
-## halved
+halved
 
-## Practical work 0 V 0 1
+# Practical work 0 V 0 1
 
-## a b
+a b
 
-## Effect on volume of pressure
+# Effect on volume of pressure
 
 Figure 18.
 
-### (temperature constant) – Boyle’s law
+(temperature constant) – Boyle’s law
 
-### Since p is inversely proportional to V
+# Since p is inversely proportional to V
 
-## then p is directly
+then p is directly
 
 Changes in the volume of a gas due to pressure changes can
 
 proportional to 1/V.
 
-### A graph of p against 1/V is therefore a
+A graph of p against 1/V is therefore a
 
 be studied using the apparatus in Figure 18.
 
-## The volume V of
+# The volume V of
 
 straight line through the origin (Figure 18.
 
@@ -12320,11 +12320,11 @@ pressure is altered by pumping air from a foot pump into the
 
 space above the oil reservoir.
 
-### This forces more oil into the glass
+# This forces more oil into the glass
 
 tube and increases the pressure p on the air in it
 
-## p is measured
+p is measured
 
 by the Bourdon gauge.
 
@@ -12332,49 +12332,49 @@ by the Bourdon gauge.
 
 indd 78 20/06/14 7:33 AM
 
-## Gases and the kinetic theory
+# Gases and the kinetic theory
 
-### l●The gas laws For cases in which p
+l●The gas laws For cases in which p
 
-## V and T all change from
+# V and T all change from
 
 say,
 
 p , V and T to p , V and T , then
 
-## 1 1 1 2 2 2
+1 1 1 2 2 2
 
-## Using absolute temperatures
+# Using absolute temperatures
 
-## the gas laws can be
+the gas laws can be
 
 stated in a convenient form for calculations.
 
-## pV pV
+pV pV
 
-### a) Charles’ law T 11 = T 2 2 (4)
+a) Charles’ law T 11 = T 2 2 (4)
 
-## 1 2
+1 2
 
 In Figure 18.
 
-## 4 (p.
+4 (p.
 
-## 77) the volume–temperature
+77) the volume–temperature
 
 graph passes through the origin if temperatures are
 
-## l●Worked example
+l●Worked example
 
-## measured on the Kelvin scale
+measured on the Kelvin scale
 
-## that is
+that is
 
-## if we take 0 K
+if we take 0 K
 
 as the origin.
 
-### We can then say that the volume V is
+# We can then say that the volume V is
 
 A bicycle pump contains 50 cm3 of air at 17 ºC and
 
@@ -12382,9 +12382,9 @@ directly proportional to the absolute temperature T
 
 at 1.
 
-## 0 atmosphere pressure.
+0 atmosphere pressure.
 
-## Find the pressure when
+# Find the pressure when
 
 i.e. doubling T doubles V
 
@@ -12394,37 +12394,37 @@ the air is compressed to 10 cm3 and its temperature
 
 rises to 27 ºC.
 
-## V ∝ T or V = constant × T
+V ∝ T or V = constant × T
 
-## We have
+# We have
 
-## or
+or
 
 p = 1.
 
-## 0 atm p = ?
+0 atm p = ?
 
-## V 1 2
+# V 1 2
 
-### = constant (1) V = 50 cm3 V = 10 cm3
+= constant (1) V = 50 cm3 V = 10 cm3
 
-## T 1 2
+# T 1 2
 
 T = 273 + 17 = 290 K T = 273 + 27 = 300 K
 
-## 1 2
+1 2
 
 Charles’ law may be stated as follows.
 
-## From equation (4) we get
+From equation (4) we get
 
 T a h b e so v lu o t lu e m te e m o p f e a r a fi t x u e re d i m f t a h s e s o p f r e g s a su s r i e s d is i r k e e c p tl t y c p o r n o s p t o a r n t t io .
 
 nal to its p 2 = p 1 × V V 1 2 × T T 1 2 = 1× 1 5 0 0 × 3 2 0 9 0 0 = 5.
 
-## 2 atm
+2 atm
 
-## Notes
+# Notes
 
 b) Pressure law 1 All temperatures must be in K.
 
@@ -12440,15 +12440,15 @@ p ∝ T or p = constant × T be found at standard temperature and pressure
 
 or or ‘s.
 
-### This is temperature 0 ºC and pressure
+This is temperature 0 ºC and pressure
 
-### 1 atmosphere (1 atm = 105 Pa).
+1 atmosphere (1 atm = 105 Pa).
 
-## = constant (2)
+= constant (2)
 
 The Pressure law may be stated as follows.
 
-## l●Gases and the kinetic
+l●Gases and the kinetic
 
 The pressure of a fi xed mass of gas is directly proportional to theory
 
@@ -12456,19 +12456,19 @@ its absolute temperature if the volume is kept constant.
 
 The kinetic theory can explain the behaviour of gases.
 
-## a) Cause of gas pressure
+a) Cause of gas pressure
 
-## c) Boyle’s law
+c) Boyle’s law
 
 All the molecules in a gas are in rapid random
 
 For a fi xed mass of gas at constant temperature
 
-## motion
+motion
 
-## with a wide range of speeds
+with a wide range of speeds
 
-## and repeatedly
+and repeatedly
 
 pV = constant (3) hit and rebound from the walls of the container
 
@@ -12476,7 +12476,7 @@ in huge numbers per second.
 
 At each rebound, a
 
-## d) Combining the laws
+d) Combining the laws
 
 gas molecule undergoes a change of momentum
 
@@ -12484,9 +12484,9 @@ The three equations can be combined giving which produces a force on the walls o
 
 (see Chapter 12).
 
-### The average force and hence the
+# The average force and hence the
 
-## pV
+pV
 
 = constant pressure they exert on the walls is constant since
 
@@ -12496,11 +12496,11 @@ pressure is force on unit area.
 
 indd 79 20/06/14 7:33 AM
 
-## 18 The Gas laWs
+18 The Gas laWs
 
-## b) Boyle’s law
+b) Boyle’s law
 
-## Question
+# Question
 
 If the volume of a fi xed mass of gas is halved by
 
@@ -12510,13 +12510,13 @@ halving the volume of the container (Figure 18.
 
 8), the
 
-## pressure of 1 × 105 Pa
+pressure of 1 × 105 Pa
 
-## what is its volume when the
+what is its volume when the
 
 number of molecules per cm3 will be doubled.
 
-## There pressure is
+# There pressure is
 
 will be twice as many collisions per second with the a 2 × 105 Pa
 
@@ -12528,21 +12528,21 @@ b 5 × 105 Pa?
 
 Assume the temperature remains constant.
 
-## piston
+piston
 
-## Checklist
+# Checklist
 
 cylinder After studying this chapter you should be able to
 
 2 • describe experiments to study the relationships between the
 
-## pressure
+pressure
 
-### volume and temperature of a gas
+volume and temperature of a gas
 
 Figure 18.
 
-### 8 Halving the volume doubles the pressure.
+8 Halving the volume doubles the pressure.
 
 • explain the establishment of the Kelvin (absolute)
 
@@ -12550,9 +12550,9 @@ temperature scale from graphs of pressure or volume
 
 against temperature and recall the equation connecting
 
-## c) Temperature
+c) Temperature
 
-## the Kelvin and Celsius scales
+the Kelvin and Celsius scales
 
 i.e. T = 273 + θ
 
@@ -12562,23 +12562,23 @@ When a gas is heated and its temperature rises
 
 the average speed of its molecules increases.
 
-## If the
+# If the
 
 • explain the behaviour of gases using the kinetic theory.
 
-### volume of the gas stays constant
+volume of the gas stays constant
 
-## its pressure increases
+its pressure increases
 
 because there are more frequent and more violent
 
 collisions of the molecules with the walls.
 
-## If the
+# If the
 
 pressure of the gas is to remain constant
 
-## the volume
+the volume
 
 must increase so that the frequency of collisions does
 
@@ -12594,17 +12594,17 @@ l Uses of expansion l Linear expansivity
 
 l Precautions against expansion l Unusual expansion of water
 
-## l Bimetallic strip
+l Bimetallic strip
 
-## In general
+# In general
 
 when matter is heated it expands and l●Precautions against
 
 when cooled it contracts.
 
-## If the changes are resisted
+# If the changes are resisted
 
-## expansion
+expansion
 
 large forces are created which are sometimes useful
 
@@ -12616,7 +12616,7 @@ According to the kinetic theory (Chapter 17)
 
 allow for expansion in summer.
 
-## They caused a familiar
+# They caused a familiar
 
 the molecules of solids and liquids are in constant
 
@@ -12636,7 +12636,7 @@ and are held by concrete ‘sleepers’ that can withstand
 
 and this is greater for liquids than for solids
 
-## gases
+gases
 
 the large forces created without buckling.
 
@@ -12644,7 +12644,7 @@ Also, at
 
 expand even more.
 
-### The linear (length) expansion of
+The linear (length) expansion of
 
 the joints the ends are tapered and overlap (Figure
 
@@ -12664,9 +12664,9 @@ For similar reasons slight gaps are left between
 
 lengths of aluminium guttering.
 
-## In central heating
+# In central heating
 
-## l●Uses of expansion
+l●Uses of expansion
 
 pipes ‘expansion joints’ are used to join lengths of
 
@@ -12676,7 +12676,7 @@ pipe (Figure 19.
 
 In Figure 19.
 
-### 1 the axles have been shrunk by cooling
+1 the axles have been shrunk by cooling
 
 expand in length inside the joints when carrying very
 
@@ -12686,27 +12686,27 @@ hot water.
 
 can be slipped on to them.
 
-## On regaining normal
+# On regaining normal
 
 temperature the axles expand to give a very tight fit.
 
 Figure 19.
 
-## 2a Tapered overlap of rails
+2a Tapered overlap of rails
 
-## nut nut
+nut nut
 
-## rubber seal
+rubber seal
 
-## pipe pipe
+pipe pipe
 
 Figure 19.
 
-### 1 ‘Shrink-fitting’ of axles into gear wheels
+1 ‘Shrink-fitting’ of axles into gear wheels
 
-## In the kitchen
+# In the kitchen
 
-### a tight metal lid can be removed from
+a tight metal lid can be removed from
 
 a glass jar by immersing the lid in hot water so that it
 
@@ -12714,37 +12714,37 @@ expands.
 
 Figure 19.
 
-## 2b Expansion joint
+2b Expansion joint
 
 9781444176421_Section_02.
 
 indd 81 20/06/14 7:33 AM
 
-### 19 eXpansIon of solIds, lIQuIds and Gases
+19 eXpansIon of solIds, lIQuIds and Gases
 
-### l●Bimetallic strip b) Thermostat
+l●Bimetallic strip b) Thermostat
 
 A thermostat keeps the temperature of a room or an
 
 If equal lengths of two different metals
 
-## such as
+such as
 
 appliance constant.
 
 The one in Figure 19.
 
-## 4b uses a
+4b uses a
 
-## copper and iron
+copper and iron
 
-### are riveted together so that they
+are riveted together so that they
 
 bimetallic strip in the electrical heating circuit of
 
-## cannot move separately
+cannot move separately
 
-## they form a bimetallic strip
+they form a bimetallic strip
 
 example, an iron.
 
@@ -12758,21 +12758,21 @@ When the iron reaches the required temperature
 
 than iron and to allow this the strip bends with copper
 
-## the strip bends down
+the strip bends down
 
-## breaks the circuit at the
+breaks the circuit at the
 
 on the outside (Figure 19.
 
 3b).
 
-## If they had expanded
+# If they had expanded
 
 contacts and switches off the heater.
 
-## After cooling a
+# After cooling a
 
-## equally
+equally
 
 the strip would have stayed straight.
 
@@ -12784,37 +12784,37 @@ on again.
 
 A near-steady temperature results.
 
-### If the control knob is screwed down
+# If the control knob is screwed down
 
-## the strip has
+the strip has
 
-## copper
+copper
 
 to bend more to break the heating circuit and this
 
-## iron
+iron
 
 needs a higher temperature.
 
-## l●Linear expansivity
+l●Linear expansivity
 
-## copper
+copper
 
-## iron
+iron
 
 An engineer has to allow for the linear expansion
 
 of a bridge when designing it.
 
-## The expansion can be
+# The expansion can be
 
 Figure 19.
 
-## 3 A bimetallic strip
+3 A bimetallic strip
 
-## a before heating
+a before heating
 
-## b after heating
+b after heating
 
 calculated if all the following are known
 
@@ -12826,9 +12826,9 @@ Heat from the fi re makes the bimetallic strip bend
 
 (iii) the linear expansivity of the material to be used.
 
-### and complete the electrical circuit
+and complete the electrical circuit
 
-## so ringing the
+so ringing the
 
 alarm bell (Figure 19.
 
@@ -12848,119 +12848,119 @@ electric experiment.
 
 For steel it is 0.
 
-## 000 012 per ºC.
+000 012 per ºC.
 
-## This
+# This
 
-## bell
+bell
 
 means that 1 m will become 1.
 
-## 000 012 m for a
+000 012 m for a
 
 temperature rise of 1 ºC.
 
-## A steel bridge 100 m long
+# A steel bridge 100 m long
 
 will expand by 0.
 
-## 000 012 × 100 m for each 1 ºC
+000 012 × 100 m for each 1 ºC
 
 rise in temperature.
 
-## If the maximum temperature
+# If the maximum temperature
 
-## contact
+contact
 
 change expected is 60 ºC (e.g. from −15 ºC to
 
-## bimetallic
+bimetallic
 
 +45 ºC), the expansion will be 0.
 
-## 000 012 per ºC ×
+000 012 per ºC ×
 
-## strip
+strip
 
-### 100 m × 60 ºC = 0.072 m, or 7.2 cm. In general,
+100 m × 60 ºC = 0.072 m, or 7.2 cm. In general,
 
-## heat from fire
+heat from fire
 
 control knob expansion = linear expansivity × original length
 
-## × temperature rise
+× temperature rise
 
-## (The Greek letter delta
+(The Greek letter delta
 
 ∆, is often used to mean the
 
 insulator ‘difference’ or the change in a quantity.
 
-## So in the
+# So in the
 
-## above calculation
+above calculation
 
-## the change in temperature
+the change in temperature
 
 ∆θ, is
 
-### 60 ºC and the change in length, ∆l, is 7.2 cm.)
+60 ºC and the change in length, ∆l, is 7.2 cm.)
 
-## to heater
+to heater
 
-## contacts
+contacts
 
 circuit Values of expansivity for liquids are typically about
 
-### 5 times higher than that for steel
+5 times higher than that for steel
 
-## gases have expansivity
+gases have expansivity
 
 bimetallic strip values about 100 times that of steel.
 
-## These fi gures
+# These fi gures
 
 b indicate that gases expand much more readily than
 
-## liquids
+liquids
 
 and liquids expand more readily than solids.
 
 Figure 19.
 
-## 4 Uses of a bimetallic strip
+4 Uses of a bimetallic strip
 
-## a fi re alarm
+a fi re alarm
 
-## b a thermostat in an iron
+b a thermostat in an iron
 
 9781444176421_Section_02.
 
 indd 82 20/06/14 7:34 AM
 
-## unusual expansion of water
+unusual expansion of water
 
 l●Unusual expansion of The unusual expansion of water between 4 ºC and
 
-### 0 ºC explains why fi sh survive in a frozen pond.
+0 ºC explains why fi sh survive in a frozen pond.
 
-## water
+water
 
 water at the top of the pond cools fi rst
 
-## contracts
+contracts
 
 and being denser sinks to the bottom.
 
 Warmer, less
 
-### As water is cooled to 4 ºC it contracts
+As water is cooled to 4 ºC it contracts
 
-## as we would
+as we would
 
 dense water rises to the surface to be cooled.
 
-## When
+# When
 
 expect.
 
@@ -12968,11 +12968,11 @@ However between 4 ºC and 0 ºC it expands
 
 all the water is at 4 ºC the circulation stops.
 
-## If the
+# If the
 
 surprisingly.
 
-### Water has a maximum density at 4 ºC
+Water has a maximum density at 4 ºC
 
 temperature of the surface water falls below 4 ºC
 
@@ -12980,57 +12980,57 @@ temperature of the surface water falls below 4 ºC
 
 becomes less dense and remains at the top
 
-## eventually
+eventually
 
 forming a layer of ice at 0 ºC.
 
-## Temperatures in the
+# Temperatures in the
 
-## volume
+volume
 
 pond are then as in Figure 19.
 
-## ice
+ice
 
-## ice and water
+ice and water
 
-## ice at 0°C
+ice at 0°C
 
-## water
+water
 
-## maximum density
+maximum density
 
-## water at 0°C
+water at 0°C
 
-## 1°C
+1°C
 
-## 2°C
+2°C
 
-## 3°C
+3°C
 
-## – 4 0 4 8 12 16 4°C
+– 4 0 4 8 12 16 4°C
 
-## temperature/°C
+temperature/°C
 
 Figure 19.
 
-### 5 Water expands on cooling below 4 ºC.
+5 Water expands on cooling below 4 ºC.
 
-## At 0 ºC
+At 0 ºC
 
-## when it freezes
+when it freezes
 
-## a considerable volume
+a considerable volume
 
 expansion occurs and every 100 cm3 of water
 
 becomes 109 cm3 of ice.
 
-## This accounts for the
+# This accounts for the
 
 bursting of unlagged water pipes in very cold weather Figure 19.
 
-### 7 Fish can survive in a frozen pond.
+7 Fish can survive in a frozen pond.
 
 and for the fact that ice is less dense than cold water
 
@@ -13046,7 +13046,7 @@ and 0 ºC is due to the breaking up of the groups
 
 that water molecules form above 4 ºC.
 
-## The new
+# The new
 
 arrangement requires a larger volume and more
 
@@ -13054,9 +13054,9 @@ than cancels out the contraction due to the fall in
 
 temperature.
 
-## Questions
+# Questions
 
-## 1 Explain why
+1 Explain why
 
 a the metal lid on a glass jam jar can be unscrewed easily
 
@@ -13084,21 +13084,21 @@ appear if it were cooled to below room temperature.
 
 Figure 19.
 
-### 6 Result of the expansion of water on freezing
+6 Result of the expansion of water on freezing
 
 9781444176421_Section_02.
 
 indd 83 20/06/14 7:34 AM
 
-### 19 eXpansIon of solIds, lIQuIds and Gases
+19 eXpansIon of solIds, lIQuIds and Gases
 
-## Checklist
+# Checklist
 
 aluminium After studying this chapter you should be able to
 
-## • describe uses of expansion
+• describe uses of expansion
 
-### including the bimetallic strip
+including the bimetallic strip
 
 at room • describe precautions taken against expansion
 
@@ -13106,7 +13106,7 @@ temperature • recall that water has its maximum density at 4 ºC and explain
 
 why a pond freezes at the top fi rst,
 
-## after
+after
 
 heating copper • recall and explain the relative order of magnitude of the
 
@@ -13116,13 +13116,13 @@ Figure 19.
 
 3 When a metal bar is heated the increase in length is
 
-## greater if
+greater if
 
-## 1 the bar is long
+1 the bar is long
 
-### 2 the temperature rise is large
+2 the temperature rise is large
 
-### 3 the bar has a large diameter.
+3 the bar has a large diameter.
 
 Which statement(s) is (are) correct?
 
@@ -13132,17 +13132,17 @@ A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 Figure 19.
 
-## control knob
+control knob
 
-## insulator
+insulator
 
-## to heater
+to heater
 
-## contacts
+contacts
 
-## metal A circuit
+metal A circuit
 
-## metal B
+metal B
 
 Figure 19.
 
@@ -13150,7 +13150,7 @@ Figure 19.
 
 the contact.
 
-### 2 Metal A has a greater expansivity than metal B.
+2 Metal A has a greater expansivity than metal B.
 
 3 Screwing in the control knob raises the temperature at
 
@@ -13164,7 +13164,7 @@ A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 indd 84 20/06/14 7:34 AM
 
-## Thermometers
+# Thermometers
 
 l Liquid-in-glass thermometer l Thermocouple thermometer
 
@@ -13178,7 +13178,7 @@ It is measured using a thermometer and usually in therefore more suitable for lo
 
 degrees Celsius (ºC).
 
-## The kinetic theory (Chapter
+The kinetic theory (Chapter
 
 17) regards temperature as a measure of the average l●Scale of temperature
 
@@ -13186,15 +13186,15 @@ kinetic energy (k.
 
 ) of the molecules of the body.
 
-## The greater this is
+# The greater this is
 
 the faster the molecules move and A scale and unit of temperature are obtained by
 
 the higher the temperature of the body.
 
-## choosing two temperatures
+choosing two temperatures
 
-## called the fixed points
+called the fixed points
 
 There are different kinds of thermometer
 
@@ -13208,9 +13208,9 @@ In each type the physical property used must On the Celsius scale (named after t
 
 vary continuously over a wide range of temperature.
 
-## scientist who suggested it)
+scientist who suggested it)
 
-## the lower fixed point is the
+the lower fixed point is the
 
 It must be accurately measurable with simple temperature of pure melting ice and is taken as 0 ºC.
 
@@ -13224,55 +13224,55 @@ Figure 20.
 
 lava flow being measured.
 
-## pressure
+pressure
 
-## 105 Pa (or N/m2)
+105 Pa (or N/m2)
 
 and is taken as 100 ºC.
 
 When the fixed points have been marked on
 
-## the thermometer
+the thermometer
 
-## the distance between them is
+the distance between them is
 
 divided into 100 equal degrees (Figure 20.
 
-### thermometer now has a linear scale
+thermometer now has a linear scale
 
-## in other words
+in other words
 
 it has been calibrated or graduated.
 
-## 100 °C steam point
+100 °C steam point
 
 Figure 20.
 
 1 Use of a thermocouple probe thermometer to measure a
 
-### temperature of about 1160 ºC in lava
+temperature of about 1160 ºC in lava
 
-## degrees
+degrees
 
-## l●Liquid-in-glass
+l●Liquid-in-glass
 
-## thermometer
+thermometer
 
 In this type the liquid in a glass bulb expands up a
 
 capillary tube when the bulb is heated.
 
-## The liquid
+# The liquid
 
 must be easily seen and must expand (or contract)
 
 rapidly and by a large amount over a wide range
 
-## 0 °C ice point
+0 °C ice point
 
 of temperature.
 
-### It must not stick to the inside of
+# It must not stick to the inside of
 
 the tube or the reading will be too high when the
 
@@ -13286,17 +13286,17 @@ Mercury freezes at −39 ºC and boils at 357 ºC.
 
 Figure 20.
 
-### 2 A temperature scale in degrees Celsius
+2 A temperature scale in degrees Celsius
 
 9781444176421_Section_02.
 
 indd 85 20/06/14 7:34 AM
 
-## 20 TherMoMeTers
+20 TherMoMeTers
 
-## l●Clinical thermometer
+l●Clinical thermometer
 
-## digital voltmeter
+digital voltmeter
 
 A clinical thermometer is a special type of mercury- DC V AC
 
@@ -13308,17 +13308,17 @@ of the normal body temperature of 37 ºC (Figure
 
 3), i.e. it has a small range.
 
-## Because of the very
+# Because of the very
 
-## narrow capillary tube
+narrow capillary tube
 
-## temperatures can be measured
+temperatures can be measured
 
-## very accurately
+very accurately
 
-## in other words
+in other words
 
-### the thermometer has copper wires
+the thermometer has copper wires
 
 a high sensitivity.
 
@@ -13326,63 +13326,63 @@ The tube has a constriction (a narrower part) just
 
 beyond the bulb.
 
-### When the thermometer is placed
+# When the thermometer is placed
 
-### under the tongue the mercury expands
+under the tongue the mercury expands
 
-## forcing its
+forcing its
 
 way past the constriction.
 
-### When the thermometer hot iron wire
+# When the thermometer hot iron wire
 
-## junction
+junction
 
 is removed (after 1 minute) from the mouth
 
-### mercury in the bulb cools and contracts
+mercury in the bulb cools and contracts
 
-## breaking cold junction
+breaking cold junction
 
 the mercury thread at the constriction.
 
-## The mercury
+# The mercury
 
 beyond the constriction stays in the tube and shows
 
 Figure 20.
 
-### 4 A simple thermocouple thermometer
+4 A simple thermocouple thermometer
 
 the body temperature.
 
-## After use the mercury is
+# After use the mercury is
 
 returned to the bulb by a flick of the wrist.
 
 Since Thermocouples are used in industry to measure
 
-## mercury is a toxic material
+mercury is a toxic material
 
 digital thermometers a wide range of temperatures from −250 ºC up
 
 are now replacing mercury thermometers for to about 1500 ºC
 
-## especially rapidly changing
+especially rapidly changing
 
 clinical use.
 
 temperatures and those of small objects.
 
-## l●Other thermometers
+l●Other thermometers
 
-### constriction normal body temperature
+constriction normal body temperature
 
 One type of resistance thermometer uses the
 
 fact that the electrical resistance (Chapter 38) of a
 
-## 35 °C 37 °C 42 °C
+35 °C 37 °C 42 °C
 
 platinum wire increases with temperature.
 
@@ -13392,51 +13392,51 @@ Figure 20.
 
 temperatures accurately in the range −200 ºC to
 
-### 1200 ºC but it is bulky and best used for steady
+1200 ºC but it is bulky and best used for steady
 
-## l●Thermocouple
+l●Thermocouple
 
 temperatures.
 
-### A thermistor can also be used but over
+# A thermistor can also be used but over
 
-## a small range
+a small range
 
-## such as −5 ºC to 70 ºC
+such as −5 ºC to 70 ºC
 
-## its resistance
+its resistance
 
-## thermometer
+thermometer
 
 decreases with temperature.
 
 The constant-volume gas thermometer uses the
 
-### A thermocouple consists of wires of two
+# A thermocouple consists of wires of two
 
 change in pressure of a gas to measure temperatures
 
-## different materials
+different materials
 
-## such as copper and iron
+such as copper and iron
 
 over a wide range.
 
-## It is an accurate but bulky
+# It is an accurate but bulky
 
 joined together (Figure 20.
 
-## When one junction
+# When one junction
 
-## instrument
+instrument
 
-### basically similar to the apparatus of
+basically similar to the apparatus of
 
 is at a higher temperature than the other
 
 Figure 18.
 
-## 3 (p.
+3 (p.
 
 77).
 
@@ -13456,9 +13456,9 @@ temperatures.
 
 indd 86 20/06/14 7:34 AM
 
-## heat and temperature
+heat and temperature
 
-## l●Heat and temperature
+l●Heat and temperature
 
 3 a How must a property behave to measure temperature?
 
@@ -13472,9 +13472,9 @@ a body with the heat energy that can be obtained
 
 from it.
 
-## For example
+# For example
 
-### a red-hot spark from a fi re is
+a red-hot spark from a fi re is
 
 (ii) the changing temperature of a small object
 
@@ -13488,19 +13488,19 @@ In the boiling water the average k.
 
 of the 4 Describe the main features of a clinical thermometer.
 
-### molecules is lower than in the spark
+molecules is lower than in the spark
 
-## but since there
+but since there
 
-## are many more water molecules
+are many more water molecules
 
-## their total energy
+their total energy
 
-## is greater
+is greater
 
-### and therefore more heat energy can be
+and therefore more heat energy can be
 
-## Checklist
+# Checklist
 
 supplied by the water than by the spark.
 
@@ -13526,11 +13526,11 @@ therefore temperature, increases.
 
 When the average • understand the meaning of range
 
-## sensitivity and linearity
+sensitivity and linearity
 
 of the molecules is the same in both bodies
 
-### they in relation to thermometers
+they in relation to thermometers
 
 are at the same temperature.
 
@@ -13538,9 +13538,9 @@ For example, if the red-
 
 • describe the structure and use of a thermocouple
 
-### hot spark landed in the boiling water
+hot spark landed in the boiling water
 
-## heat would pass thermometer
+heat would pass thermometer
 
 from it to the water even though much more heat
 
@@ -13566,11 +13566,11 @@ Increasing the temperature of a body increases internal energy.
 
 its heat energy because the k.
 
-## of its molecules
+of its molecules
 
 increases.
 
-### But as we will see later (Chapter 22)
+But as we will see later (Chapter 22)
 
 internal energy of a body can also be increased by
 
@@ -13578,7 +13578,7 @@ increasing the p.
 
 of its molecules.
 
-## Questions
+# Questions
 
 1 1530 ºC 120 ºC 55 ºC 37 ºC 19 ºC 0 ºC −12 ºC −50 ºC
 
@@ -13600,13 +13600,13 @@ e the normal body temperature of a healthy person.
 
 2 In order to make a mercury thermometer that will measure
 
-### small changes in temperature accurately
+small changes in temperature accurately
 
-## would you
+would you
 
 A decrease the volume of the mercury bulb
 
-### B put the degree markings further apart
+# B put the degree markings further apart
 
 C decrease the diameter of the capillary tube
 
@@ -13618,11 +13618,11 @@ E leave the capillary tube open to the air?
 
 indd 87 20/06/14 7:34 AM
 
-## Specifi c heat capacity
+# Specifi c heat capacity
 
-### l The heat equation l Practical work
+l The heat equation l Practical work
 
-### Finding specifi c heat capacities
+# Finding specifi c heat capacities
 
 l Thermal capacity water, aluminium
 
@@ -13642,9 +13642,9 @@ of the water.
 
 Since the heater gives equal amounts can write the heat equation as
 
-## of heat energy to each liquid
+of heat energy to each liquid
 
-## it seems that different
+it seems that different
 
 substances require different amounts of heat to heat received or given out
 
@@ -13654,47 +13654,47 @@ cause the same temperature rise in the same mass
 
 say 1 ºC in 1 kg.
 
-## In symbols
+# In symbols
 
 The ‘thirst’ of a substance for heat is measured by Q = m × ∆θ × c
 
 its specifi c heat capacity (symbol c).
 
-## For example
+# For example
 
-### if the temperature of a 5 kg mass of
+if the temperature of a 5 kg mass of
 
 material of specifi c heat capacity 400 J/(kg ºC) rises
 
 The specifi c heat capacity of a substance is the heat required to
 
-## from 15 ºC to 25 ºC
+from 15 ºC to 25 ºC
 
-## the heat received
+the heat received
 
 Q , is
 
 produce a 1 ºC rise in 1 kg.
 
-### Q = 5 kg × (25−15) ºC × 400 J/(kg ºC)
+Q = 5 kg × (25−15) ºC × 400 J/(kg ºC)
 
-### = 5 kg × 10 ºC × 400 J/(kg ºC)
+= 5 kg × 10 ºC × 400 J/(kg ºC)
 
 Heat, like other forms of energy
 
-## is measured in
+is measured in
 
 joules (J) and the unit of specifi c heat capacity is the = 20 000 J
 
-## joule per kilogram per ºC
+joule per kilogram per ºC
 
 i.e. J/(kg ºC).
 
-## In physics
+# In physics
 
-### the word ‘specifi c’ means that ‘unit
+the word ‘specifi c’ means that ‘unit
 
-## l●Thermal capacity
+l●Thermal capacity
 
 mass’ is being considered.
 
@@ -13708,31 +13708,31 @@ For a temperature rise of 1 °C the heat equation
 
 If a substance has a specifi c heat capacity of becomes
 
-## 1000 J/(kg ºC) then
+1000 J/(kg ºC) then
 
 heat received = mass × 1 × specifi c heat capacity
 
-## 1000 J raises the temperature
+1000 J raises the temperature
 
-## so that
+so that
 
-## of 1 kg by 1 ºC
+of 1 kg by 1 ºC
 
-### ∴ 2 × 1000 J raises the temperature
+∴ 2 × 1000 J raises the temperature
 
 thermal capacity = mass × specifi c heat capacity
 
-## of 2 kg by 1 ºC
+of 2 kg by 1 ºC
 
-## = m × c
+= m × c
 
-### ∴ 3 × 2 × 1000 J raises the temperature
+∴ 3 × 2 × 1000 J raises the temperature
 
-## of 2 kg by 3 ºC
+of 2 kg by 3 ºC
 
 Thermal capacity is measured in joules per ºC
 
-## That is
+# That is
 
 6000 J will raise the temperature of 2 kg i.e. J/ºC.
 
@@ -13740,25 +13740,25 @@ of this substance by 3 ºC.
 
 We have obtained this For a copper block of mass 0.
 
-## 1 kg and specifi c heat
+1 kg and specifi c heat
 
-### answer by multiplying together
+answer by multiplying together
 
-## capacity 390 J/(kg °C)
+capacity 390 J/(kg °C)
 
-## (i) the mass in kg
+(i) the mass in kg
 
-## thermal capacity = m × c
+thermal capacity = m × c
 
-### (ii) the temperature rise in ºC
+(ii) the temperature rise in ºC
 
 and = 0.
 
-## 1 kg × 390 J/(kg °C)
+1 kg × 390 J/(kg °C)
 
 (iii) the specifi c heat capacity in J/(kg ºC).
 
-## = 39 J/°C
+= 39 J/°C
 
 9781444176421_Section_02.
 
@@ -13768,105 +13768,105 @@ Importance of the high specific heat capacity of water
 
 Practical work switch it on for 5 minutes.
 
-### When the temperature stops rising
+# When the temperature stops rising
 
 record its highest value.
 
 Calculate the specific heat capacity as before.
 
-### Finding specific heat capacities
+# Finding specific heat capacities
 
 You need to know the power of the 12 V electric immersion
 
-## electric immersion
+electric immersion
 
 heater to be used.
 
-## (Precaution
+(Precaution
 
-## Do not use one with a cracked
+# Do not use one with a cracked
 
-## heater
+heater
 
 seal.
 
 ) A 40 W heater converts 40 joules of electrical energy into
 
-## thermometer
+thermometer
 
 heat energy per second.
 
-### If the power is not marked on the
+# If the power is not marked on the
 
 heater, ask about it.
 
-## a) Water
+a) Water
 
-## 12 V
+12 V
 
 Weigh out 1 kg of water into a container
 
-## such as an aluminium supply
+such as an aluminium supply
 
 saucepan.
 
-### Note the temperature of the water
+# Note the temperature of the water
 
-## insert the heater
+insert the heater
 
 (Figure 21.
 
 1), switch on the 12 V supply and start timing.
 
-## Stir the
+# Stir the
 
-### water and after 5 minutes switch off
+water and after 5 minutes switch off
 
-## but continue stirring and
+but continue stirring and
 
 note the highest temperature reached.
 
-## electric immersion
+electric immersion
 
-## thermometer heater
+thermometer heater
 
-## aluminium
+aluminium
 
-## 12 V block
+12 V block
 
-## supply
+supply
 
-## water
-
-Figure 21.
-
-## aluminium
-
-## pan
-
-## l●Importance of the high
-
-## specific heat capacity of
+water
 
 Figure 21.
 
-## water
+aluminium
+
+pan
+
+l●Importance of the high
+
+specific heat capacity of
+
+Figure 21.
+
+water
 
 Assuming that the heat supplied by the heater equals the heat
 
-## received by the water
+received by the water
 
-### work out the specific heat capacity of
+work out the specific heat capacity of
 
-### The specific heat capacity of water is
+# The specific heat capacity of water is
 
 water in J/(kg ºC), as shown below:
 
-### 4200 J/(kg ºC) and that of soil is about
+4200 J/(kg ºC) and that of soil is about
 
-## heat received by water (J)
+heat received by water (J)
 
-## 800 J/(kg ºC).
+800 J/(kg ºC).
 
 As a result, the temperature of the
 
@@ -13874,7 +13874,7 @@ As a result, the temperature of the
 
 sea rises and falls more slowly than that of the land.
 
-### Rearranging the ‘heat equation’ we get
+Rearranging the ‘heat equation’ we get
 
 A certain mass of water needs five times more heat
 
@@ -13884,7 +13884,7 @@ specific heat heat received by water (J)
 
 capacity of water mass (kg) × temp.
 
-## rise (ºC)
+rise (ºC)
 
 by 1 ºC.
 
@@ -13892,7 +13892,7 @@ Water also has to give out more heat to fall
 
 Suggest causes of error in this experiment.
 
-### 1 ºC. Since islands are surrounded by water they
+1 ºC. Since islands are surrounded by water they
 
 b) Aluminium experience much smaller changes of temperature
 
@@ -13910,9 +13910,9 @@ The high specific heat capacity of water (as well as
 
 its cheapness and availability) accounts for its use in
 
-## Note the temperature
+# Note the temperature
 
-### connect the heater to a 12 V supply and
+connect the heater to a 12 V supply and
 
 cooling engines and in the radiators of central heating
 
@@ -13932,27 +13932,27 @@ Then power in watts = volts × amperes.
 
 indd 89 20/06/14 7:35 AM
 
-## 21 specIfIc heaT capacITY
+21 specIfIc heaT capacITY
 
-## l●Worked examples Questions
+l●Worked examples Questions
 
 1 How much heat is needed to raise the temperature by
 
 1 A tank holding 60 kg of water is heated by a 3 kW 10 ºC of 5 kg of a substance of specifi c heat capacity
 
-## 300 J/(kg ºC)?
+300 J/(kg ºC)?
 
-### What is the thermal capacity of the
+# What is the thermal capacity of the
 
 electric immersion heater.
 
-## If the specifi c heat
+# If the specifi c heat
 
 substance?
 
-### capacity of water is 4200 J/(kg ºC)
+capacity of water is 4200 J/(kg ºC)
 
-## estimate the
+estimate the
 
 2 The same quantity of heat was given to different masses
 
@@ -13960,13 +13960,13 @@ time for the temperature to rise from 10 ºC to of three substances A
 
 B and C.
 
-## The temperature rise in
+# The temperature rise in
 
-## 60 ºC.
+60 ºC.
 
 each case is shown in the table.
 
-## Calculate the specifi c heat
+# Calculate the specifi c heat
 
 capacities of A, B and C.
 
@@ -13976,27 +13976,27 @@ energy per second.
 
 Material Mass/kg Heat given/J Temp.
 
-## rise/°C
+rise/°C
 
 Let t = time taken in seconds to raise the A 1.
 
-## 0 2000 1.
+0 2000 1.
 
 temperature of the water by (60−10) = 50 ºC
 
 B 2.
 
-## 0 2000 5.
+0 2000 5.
 
 ∴ heat supplied to water in time t seconds C 0.
 
-## 5 2000 4.
+5 2000 4.
 
-## = (3000 × t) J
+= (3000 × t) J
 
 3 The jam in a hot pop tart always seems hotter than the
 
-## From the heat equation
+# From the heat equation
 
 we can say pastry.
 
@@ -14004,27 +14004,27 @@ Why?
 
 heat received by water = 60 kg × 4200 J/(kg ºC)
 
-## × 50 ºC
+× 50 ºC
 
-## Checklist
+# Checklist
 
-### Assuming heat supplied = heat received
+Assuming heat supplied = heat received
 
 After studying this chapter you should be able to
 
-### 3000 J/s × t = (60 × 4200 × 50) J
+3000 J/s × t = (60 × 4200 × 50) J
 
 • defi ne specifi c heat capacity, c,
 
 (60× 4200×50) J • defi ne thermal capacity
 
-## ∴ t = = 4200 s (70 min)
+∴ t = = 4200 s (70 min)
 
 3000 J/s • solve problems on specifi c heat capacity using the heat
 
 equation Q = m × ∆θ × c,
 
-### 2 A piece of aluminium of mass 0.5 kg is heated
+2 A piece of aluminium of mass 0.5 kg is heated
 
 • describe experiments to measure the specifi c heat capacity
 
@@ -14032,15 +14032,15 @@ to 100 ºC and then placed in 0.
 
 4 kg of water at of metals and liquids by electrical heating
 
-## 10 ºC.
+10 ºC.
 
 If the resulting temperature of the mixture
 
 • explain the importance of the high specifi c heat capacity of
 
-## is 30 ºC
+is 30 ºC
 
-### what is the specifi c heat capacity of
+what is the specifi c heat capacity of
 
 water.
 
@@ -14048,9 +14048,9 @@ aluminium if that of water is 4200 J/(kg ºC)?
 
 When two substances at different temperatures
 
-## are mixed
+are mixed
 
-### heat fl ows from the one at the higher
+heat fl ows from the one at the higher
 
 temperature to the one at the lower temperature
 
@@ -14058,7 +14058,7 @@ until both are at the same temperature – the
 
 temperature of the mixture.
 
-## If there is no loss of
+# If there is no loss of
 
 heat, then in this case:
 
@@ -14066,41 +14066,41 @@ heat given out by aluminium = heat taken in by water
 
 Using the heat equation and letting c be the specifi c
 
-### heat capacity of aluminium in J/(kg ºC)
+heat capacity of aluminium in J/(kg ºC)
 
-## we have
+we have
 
 heat given out = 0.
 
-## 5 kg × c × (100 − 30) ºC
+5 kg × c × (100 − 30) ºC
 
 heat taken in = 0.
 
-## 4 kg × 4200 J/(kg ºC) ×
+4 kg × 4200 J/(kg ºC) ×
 
-## (30 − 10) ºC
+(30 − 10) ºC
 
 ∴ 0.
 
-## 5 kg × c × 70 ºC = 0.
+5 kg × c × 70 ºC = 0.
 
-## 4 kg × 4200 J/(kg ºC) × 20 ºC
+4 kg × 4200 J/(kg ºC) × 20 ºC
 
-## (4200×8) J
+(4200×8) J
 
-## c = = 960 J/(kg ºC)
+c = = 960 J/(kg ºC)
 
-## 35 kgºC
+35 kgºC
 
 9781444176421_Section_02.
 
 indd 90 20/06/14 7:35 AM
 
-## Specifi c latent heat
+# Specifi c latent heat
 
-## l●Specifi c latent heat of
+l●Specifi c latent heat of
 
-## fusion
+fusion
 
 The previous experiment shows that the temperature
 
@@ -14112,19 +14112,19 @@ solidifi ed.
 
 The cooling curve in Figure 22.
 
-## 2 is for a
+2 is for a
 
-## pure substance
+pure substance
 
-### the fl at part AB occurs at the melting
+the fl at part AB occurs at the melting
 
 point when the substance is solidifying.
 
-## melting point
+melting point
 
-## time
+time
 
-## erutarepmet
+erutarepmet
 
 l Specifi c latent heat of fusion l Cooling by evaporation
 
@@ -14132,47 +14132,47 @@ l Specifi c latent heat of vaporisation l Liquefaction of gases and vapours
 
 l Latent heat and the kinetic theory l Practical work
 
-## Cooling curve of ethanamide
+# Cooling curve of ethanamide
 
-## Specifi c
+# Specifi c
 
 l Evaporation and boiling latent heat of fusion for ice
 
-## Specifi c latent heat of
+# Specifi c latent heat of
 
 l Condensation and solidifi cation vaporisation for steam
 
-## When a solid is heated
+# When a solid is heated
 
-## it may melt and change its
+it may melt and change its
 
 state from solid to liquid.
 
-## If ice is heated it becomes
+# If ice is heated it becomes
 
 water.
 
-## The opposite process
+# The opposite process
 
-## freezing
+freezing
 
-## occurs when a
+occurs when a
 
 liquid solidifi es.
 
 A pure substance melts at a defi nite temperature
 
-## called the melting point
+called the melting point
 
-## it solidifi es at the same
+it solidifi es at the same
 
 temperature – sometimes then called the freezing
 
 point.
 
-## Practical work
+# Practical work
 
-## Cooling curve of ethanamide
+# Cooling curve of ethanamide
 
 Half fi ll a test tube with ethanamide (acetamide) and
 
@@ -14180,7 +14180,7 @@ place it in a beaker of water (Figure 22.
 
 1a).
 
-## Heat the water A B
+# Heat the water A B
 
 until all the ethanamide has melted and its temperature
 
@@ -14192,33 +14192,33 @@ Remove the test tube and arrange it as in Figure 22.
 
 thermometer in the liquid ethanamide.
 
-## Record the temperature
+# Record the temperature
 
 every minute until it has fallen to 70 ºC.
 
 Plot a cooling curve of temperature against time.
 
-## What is the
+# What is the
 
 freezing (melting) point of ethanamide?
 
 Figure 22.
 
-## 2 Cooling curve
+2 Cooling curve
 
 During solidifi cation a substance loses heat to its
 
 surroundings but its temperature does not fall.
 
-### Conversely when a solid is melting
+# Conversely when a solid is melting
 
-## the heat supplied
+the heat supplied
 
-## thermometer
+thermometer
 
-### does not cause a temperature rise
+does not cause a temperature rise
 
-## heat is added but
+heat is added but
 
 water the substance does not get hotter.
 
@@ -14226,23 +14226,23 @@ For example,
 
 the temperature of a well-stirred ice–water mixture
 
-## ethanamide
+ethanamide
 
 remains at 0 ºC until all the ice is melted.
 
-### Heat that is absorbed by a solid during
+# Heat that is absorbed by a solid during
 
 melting or given out by a liquid during solidifi cation
 
 is called latent heat of fusion.
 
-## ‘Latent’ means hidden
+‘Latent’ means hidden
 
 and ‘fusion’ means melting.
 
-## Latent heat does not
+# Latent heat does not
 
-### a b cause a temperature change
+a b cause a temperature change
 
 it seems to disappear.
 
@@ -14258,47 +14258,47 @@ liquid without temperature change.
 
 indd 91 20/06/14 7:35 AM
 
-## 22 specIfIc laTenT heaT
+22 specIfIc laTenT heaT
 
 Specifi c latent heat is measured in J/kg or J/g.
 
-## general
+general
 
 the quantity of heat Q to change a mass m l● Specifi c latent heat of
 
-### from solid to liquid is given by
+from solid to liquid is given by
 
-## vaporisation
+vaporisation
 
-## Q = m × l
+Q = m × l
 
 Latent heat is also needed to change a liquid
 
 into a vapour.
 
-## The reading of a thermometer
+# The reading of a thermometer
 
 placed in water that is boiling remains constant at
 
-## Practical work
+# Practical work
 
-### 100 ºC even though heat, called latent heat of
+100 ºC even though heat, called latent heat of
 
-## vaporisation
+vaporisation
 
-### is still being absorbed by the water
+is still being absorbed by the water
 
 Specifi c latent heat of fusion for ice from whatever is heating it.
 
-## When steam condenses
+# When steam condenses
 
 to form water, latent heat is given out.
 
 Through measurement of the mass of water m produced when
 
-### energy Q is transferred to melting ice
+energy Q is transferred to melting ice
 
-## the specifi c latent heat of
+the specifi c latent heat of
 
 The specifi c latent heat of vaporisation (l) of a substance
 
@@ -14310,35 +14310,35 @@ Insert a 12 V electric immersion heater of known power P into
 
 to vapour without change of temperature.
 
-## a funnel
+a funnel
 
 and pack crushed ice around it as shown in Figure 22.
 
 To correct for heat transferred from the surroundings
 
-## collect the
+collect the
 
 melted ice in a beaker for time t (e.g. 4 minutes)
 
-## weigh the beaker Again
+weigh the beaker Again
 
 the specifi c latent heat is measured in J/kg or
 
 plus the melted ice, m .
 
-## Empty the beaker
+# Empty the beaker
 
-## switch on the heater
+switch on the heater
 
-## 1 J/g.
+1 J/g.
 
-## In general
+# In general
 
-### the quantity of heat Q to change a
+the quantity of heat Q to change a
 
 collect the melted ice for the same time t
 
-## re-weigh the beaker plus
+re-weigh the beaker plus
 
 mass m from liquid to vapour is given by
 
@@ -14346,9 +14346,9 @@ the melted ice, m .
 
 The mass of ice melted by the heater is then
 
-## m = m − m
+m = m − m
 
-## 2 1 Q = m × l
+2 1 Q = m × l
 
 The electrical energy supplied by the heater is given by Q =
 
@@ -14356,7 +14356,7 @@ P × t, where P is in J/s and t is in seconds
 
 Q will be in joules.
 
-## Alternatively
+# Alternatively
 
 a joulemeter can be used to record Q directly.
 
@@ -14364,25 +14364,25 @@ Calculate the specifi c latent heat of fusion
 
 l, for ice using
 
-## Q = m × l
+Q = m × l
 
 How does it compare with the accepted value of 340 J/g?
 
 could the experiment be improved?
 
-## immersion heater
+immersion heater
 
-## crushed ice
+crushed ice
 
-## funnel
+funnel
 
-## beaker
+beaker
 
-## water
+water
 
 Figure 22.
 
-## 3 Figure 22.
+3 Figure 22.
 
 4 Why is a scald from steam often more serious than one
 
@@ -14392,25 +14392,25 @@ from boiling water?
 
 indd 92 20/06/14 7:35 AM
 
-## evaporation and boiling
+evaporation and boiling
 
-## Practical work
+# Practical work
 
-## l● Latent heat and the
+l● Latent heat and the
 
-## kinetic theory
+kinetic theory
 
-### Specific latent heat of vaporisation
+# Specific latent heat of vaporisation
 
-## for steam
+for steam
 
-## a) Fusion
+a) Fusion
 
 Through measurement of the mass of vapour m produced when
 
 energy Q is transferred to boiling water
 
-## the specific latent heat
+the specific latent heat
 
 The kinetic theory explains latent heat of fusion as
 
@@ -14420,19 +14420,19 @@ being the energy that enables the molecules of a solid
 
 Water in the flask (Figure 22.
 
-### 5) is heated to boiling point by
+5) is heated to boiling point by
 
 an immersion heater of power P.
 
 Steam passes out through the to overcome the intermolecular forces that hold them
 
-## holes in the top of the flask
+holes in the top of the flask
 
 down the outside of the flask and in place
 
 and when it exceeds a certain value they break
 
-### into the inner tube of a condenser
+into the inner tube of a condenser
 
 where it changes back to free.
 
@@ -14444,33 +14444,33 @@ changes to the slightly greater range of movement they
 
 and is collected in a beaker.
 
-## have as liquid molecules
+have as liquid molecules
 
 and the solid melts.
 
 After the water has been boiling for some time
 
-## it becomes
+it becomes
 
 The energy input is used to increase the potential
 
 enclosed by a ‘jacket’ of vapour at the boiling point
 
-## which
+which
 
 helps to reduce loss of heat to the surroundings.
 
 The rate of energy (p.
 
-## ) of the molecules
+) of the molecules
 
-## but not their average
+but not their average
 
 vaporisation becomes equal to the rate of condensation
 
 and the kinetic energy (k.
 
-## ) as happens when the heat
+) as happens when the heat
 
 electrical energy is only being used to transfer latent heat to the causes a temperature rise.
 
@@ -14478,9 +14478,9 @@ water (not to raise its temperature).
 
 The electrical energy Q supplied by the heater is given by
 
-## b) Vaporisation
+b) Vaporisation
 
-## Q = P × t = ItV
+Q = P × t = ItV
 
 where I is the steady current through the heater and V is the If liquid molecules are to overcome the forces
 
@@ -14490,35 +14490,35 @@ Q is in joules if P is in J/s and t is in seconds.
 
 holding them together and gain the freedom to
 
-## Alternatively
+# Alternatively
 
 a joulemeter can be used to record Q directly.
 
 move around independently as gas molecules
 
-## they
+they
 
 If a mass of water m is collected in time t
 
-## then the specific
+then the specific
 
 need a large amount of energy.
 
-## They receive this
+# They receive this
 
 latent heat of vaporisation l can be calculated using
 
-### v as latent heat of vaporisation which
+v as latent heat of vaporisation which
 
-## like latent
+like latent
 
-## Q = m × l v heat of fusion
+Q = m × l v heat of fusion
 
-### increases the potential energy of the
+increases the potential energy of the
 
 molecules but not their kinetic energy.
 
-## It also gives
+# It also gives
 
 A the molecules the energy required to push back the
 
@@ -14532,21 +14532,21 @@ To change 1 kg of water at 100 ºC to steam at
 
 felt jacket of to raise the temperature of 1 kg of water at 0 ºC to
 
-## lagging vapour
+lagging vapour
 
-### water at 100 ºC (see Worked example 1
+water at 100 ºC (see Worked example 1
 
 95).
 
-## water heating
+water heating
 
-## coil
+coil
 
-## l●Evaporation and boiling
+l●Evaporation and boiling
 
-## a) Evaporation
+a) Evaporation
 
-## condenser
+condenser
 
 A few energetic molecules close to the surface of
 
@@ -14554,25 +14554,25 @@ a liquid may escape and become gas molecules.
 
 This process occurs at all temperatures and is called
 
-## cold water in
+cold water in
 
 evaporation.
 
-## It happens more rapidly when
+# It happens more rapidly when
 
-## (i) the temperature is higher
+(i) the temperature is higher
 
-## since then more
+since then more
 
 molecules in the liquid are moving fast enough
 
 Figure 22.
 
-## 5 to escape from the surface,
+5 to escape from the surface,
 
 (ii) the surface area of the liquid is large
 
-## so giving
+so giving
 
 more molecules a chance to escape because more
 
@@ -14582,7 +14582,7 @@ are near the surface, and
 
 indd 93 20/06/14 7:36 AM
 
-## 22 specIfIc laTenT heaT
+22 specIfIc laTenT heaT
 
 (iii) a wind or draught is blowing over the surface air
 
@@ -14594,17 +14594,17 @@ and making it easier for more liquid molecules
 
 to break free.
 
-### (Evaporation into a vacuum occurs
+(Evaporation into a vacuum occurs
 
 much more rapidly than into a region where
 
-## glass tube
+glass tube
 
 there are gas molecules.
 
-## can
+can
 
-## b) Boiling
+b) Boiling
 
 For a pure liquid boiling occurs at a definite dichloromethane
 
@@ -14612,7 +14612,7 @@ temperature called its boiling point and is
 
 accompanied by bubbles that form within the water
 
-## liquid
+liquid
 
 containing the gaseous or vapour form of the block of wood
 
@@ -14622,19 +14622,19 @@ Latent heat is needed in both evaporation and
 
 Figure 22.
 
-### 6 Demonstrating cooling by evaporation
+6 Demonstrating cooling by evaporation
 
-### boiling and is stored in the vapour
+boiling and is stored in the vapour
 
-## from which it is
+from which it is
 
 released when the vapour is cooled or compressed
 
-## b) Explanation
+b) Explanation
 
 and changes to liquid again.
 
-### Evaporation occurs when faster-moving
+# Evaporation occurs when faster-moving
 
 l●Condensation and molecules escape from the surface of the liquid.
 
@@ -14646,11 +14646,11 @@ i.e. the
 
 temperature of the liquid falls.
 
-## Any body in contact
+# Any body in contact
 
-## In condensation
+# In condensation
 
-## a gas changes to a liquid
+a gas changes to a liquid
 
 with an evaporating liquid will be cooled by the
 
@@ -14658,13 +14658,13 @@ state and latent heat of vaporisation is released.
 
 evaporation.
 
-## In solidification
+# In solidification
 
-### a liquid changes to a solid and
+a liquid changes to a solid and
 
 latent heat of fusion is given out.
 
-## In each case c) Uses
+In each case c) Uses
 
 the potential energy of the molecules decreases.
 
@@ -14674,13 +14674,13 @@ Condensation of steam is easily achieved by
 
 This is the body’s way of losing unwanted heat and
 
-## contact with a cold surface
+contact with a cold surface
 
-## for example a cold
+for example a cold
 
 keeping a constant temperature.
 
-## After vigorous
+# After vigorous
 
 windowpane.
 
@@ -14692,9 +14692,9 @@ exercise there is a risk of the body being overcooled
 
 released when the steam condenses to water is
 
-## especially in a draught
+especially in a draught
 
-### it is then less able to resist
+it is then less able to resist
 
 transferred to the cold water flowing through the
 
@@ -14708,35 +14708,35 @@ well as cleaning) your arm when you are having an
 
 l●Cooling by evaporation injection.
 
-## Refrigerators
+# Refrigerators
 
-## freezers and air-conditioning
+freezers and air-conditioning
 
 systems use cooling by evaporation on a large scale.
 
-## In evaporation
+# In evaporation
 
-### latent heat is obtained by the
+latent heat is obtained by the
 
 Volatile liquids are used in perfumes.
 
-## liquid from its surroundings
+liquid from its surroundings
 
-## as may be shown
+as may be shown
 
-### by the following demonstration
+by the following demonstration
 
-## done in a fume
+done in a fume
 
 cupboard.
 
-## l●Liquefaction of gases
+l●Liquefaction of gases
 
-## a) Demonstration
+a) Demonstration
 
-## and vapours
+and vapours
 
-### Dichloromethane is a volatile liquid
+# Dichloromethane is a volatile liquid
 
 i.e. it has a
 
@@ -14744,9 +14744,9 @@ low boiling point and evaporates readily at room
 
 A vapour can be liquefied if it is compressed
 
-## temperature
+temperature
 
-### especially when air is blown through
+especially when air is blown through
 
 enough.
 
@@ -14754,7 +14754,7 @@ However, a gas must be cooled below a
 
 it (Figure 22.
 
-### Latent heat is taken first from the
+# Latent heat is taken first from the
 
 certain critical temperature T before liquefaction
 
@@ -14762,7 +14762,7 @@ liquid itself and then from the water below the can.
 
 by pressure can occur.
 
-## The critical temperatures for
+# The critical temperatures for
 
 The water soon freezes causing the block and can to
 
@@ -14774,7 +14774,7 @@ stick together.
 
 indd 94 20/06/14 7:36 AM
 
-## Worked examples
+# Worked examples
 
 Table 22.
 
@@ -14784,57 +14784,57 @@ of water.
 
 Both, initially at 15 ºC
 
-## are placed in a
+are placed in a
 
 Carbon Oxygen Air Nitrogen Hydrogen Helium
 
 dioxide freezer at −5.
 
-## 0 ºC.
+0 ºC.
 
-### Calculate the quantity of heat
+# Calculate the quantity of heat
 
 T/K 304 154 132 126 33.
 
-## 3 5.
+3 5.
 
-### 3 that has to be removed from the water and the
+3 that has to be removed from the water and the
 
 can for their temperatures to fall to −5.
 
-## 0 ºC.
+0 ºC.
 
 /ºC +31 −119 −141 −147 −239.
 
-## 7 −267.
+7 −267.
 
 Heat lost by can in falling from 15 ºC to −5.
 
-## 0 ºC
+0 ºC
 
 Low-temperature liquids have many uses.
 
-## Liquid
+# Liquid
 
 = mass of can × specifi c heat capacity of
 
 hydrogen and oxygen are used as the fuel and
 
-## aluminium × temperature fall
+aluminium × temperature fall
 
 oxidant respectively in space rockets.
 
-## Liquid
+# Liquid
 
 = 100 g × 0.
 
-## 90 J/(g ºC) × (15 − [−5]) ºC
+90 J/(g ºC) × (15 − [−5]) ºC
 
 nitrogen is used in industry as a coolant in
 
 = 100 g × 0.
 
-## 90 J/(g ºC) × 20 ºC
+90 J/(g ºC) × 20 ºC
 
 example, shrink-fi tting (see Figure 19.
 
@@ -14842,7 +14842,7 @@ example, shrink-fi tting (see Figure 19.
 
 81).
 
-## = 1800 J
+= 1800 J
 
 Materials that behave as superconductors (see
 
@@ -14852,57 +14852,57 @@ increasingly used in electrical power engineering and = mass of water × specifi
 
 electronics.
 
-## × temperature fall
+× temperature fall
 
 = 200 g × 4.
 
-## 2 J/(g ºC) × 15 ºC
+2 J/(g ºC) × 15 ºC
 
-## = 12 600 J
+= 12 600 J
 
 Heat lost by water at 0 ºC freezing to ice at 0 ºC
 
-## l●Worked examples
+l●Worked examples
 
 = mass of water × specifi c latent heat of ice
 
-## = 200 g × 340 J/g
+= 200 g × 340 J/g
 
 The values in Table 22.
 
-## 2 are required.
+2 are required.
 
-## = 68 000 J
+= 68 000 J
 
 Table 22.
 
-### 2 Heat lost by ice in falling from 0 ºC to −5.
+2 Heat lost by ice in falling from 0 ºC to −5.
 
-## 0 ºC
+0 ºC
 
 Water Ice Aluminium = mass of ice × specifi c heat capacity of ice
 
 Specifi c heat capacity/J/(g ºC) 4.
 
-## 2 2.
+2 2.
 
-## 0 0.
+0 0.
 
-## 90 × temperature fall
+90 × temperature fall
 
 = 200 g × 2.
 
-## 0 J/(g ºC) × 5.
+0 J/(g ºC) × 5.
 
-## 0 ºC
+0 ºC
 
-### Specifi c latent heat/J/g 2300 340
+Specifi c latent heat/J/g 2300 340
 
-## = 2000 J
+= 2000 J
 
 1 How much heat is needed to change 20 g of ice at ∴ Total heat removed
 
-## 0 ºC to steam at 100 ºC?
+0 ºC to steam at 100 ºC?
 
 = 1800 + 12 600 + 68 000 + 2000 = 84 400 J
 
@@ -14912,9 +14912,9 @@ Heat to change 20 g ice at 0 °C to water at 0 °C
 
 = mass of ice × specifi c latent heat of ice
 
-## Questions
+# Questions
 
-## = 20 × 340 J/g = 6800 J
+= 20 × 340 J/g = 6800 J
 
 Use values given in Table 22.
 
@@ -14922,7 +14922,7 @@ Heat to change 20 g water at 0 °C to water at
 
 1 a How much heat will change 10 g of ice at 0 ºC to water
 
-## 100 °C at 0 ºC?
+100 °C at 0 ºC?
 
 b What quantity of heat must be removed from 20 g of
 
@@ -14930,13 +14930,13 @@ b What quantity of heat must be removed from 20 g of
 
 water at 0 ºC to change it to ice at 0 ºC?
 
-## × temperature rise
+× temperature rise
 
 2 a How much heat is needed to change 5 g of ice at 0 ºC to
 
 = 20 g × 4.
 
-## 2 J/(g ºC) × 100 ºC = 8400 J
+2 J/(g ºC) × 100 ºC = 8400 J
 
 water at 50 ºC?
 
@@ -14944,7 +14944,7 @@ b If a freezer cools 200 g of water from 20 ºC to its
 
 Heat to change 20 g water at 100 °C to steam freezing point in 10 minutes
 
-## how much heat is removed
+how much heat is removed
 
 at 100 °C per minute from the water?
 
@@ -14954,31 +14954,31 @@ at 100 °C per minute from the water?
 
 4 Some small aluminium rivets of total mass 170 g and at
 
-## = 20 g × 2300 J/g = 46 000 J
+= 20 g × 2300 J/g = 46 000 J
 
 100 ºC are emptied into a hole in a large block of ice at 0 ºC.
 
 a What will be the fi nal temperature of the rivets?
 
-## ∴ Total heat supplied
+∴ Total heat supplied
 
 b How much ice will melt?
 
-### = 6800 + 8400 + 46 000 = 61 200 J
+= 6800 + 8400 + 46 000 = 61 200 J
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_02.
 
 indd 95 20/06/14 7:36 AM
 
-## 22 specIfIc laTenT heaT
+22 specIfIc laTenT heaT
 
-## Checklist
+# Checklist
 
 5 a How much heat is needed to change 4 g of water at
 
-## 100 ºC to steam at 100 ºC?
+100 ºC to steam at 100 ºC?
 
 After studying this chapter you should be able to
 
@@ -14996,13 +14996,13 @@ state the temperature stays constant,
 
 water starts to boil.
 
-### What mass of water is boiled off in
+# What mass of water is boiled off in
 
 • describe condensation and solidifi cation
 
 this time?
 
-### 7 a Why is ice good for cooling drinks?
+7 a Why is ice good for cooling drinks?
 
 • defi ne specifi c latent heat of fusion
 
@@ -15018,13 +15018,13 @@ above 100 ºC) to transfer heat?
 
 such as • explain latent heat using the kinetic theory
 
-## canvas
+canvas
 
 which is hung where it is exposed to a draught
 
-### • solve problems on latent heat
+• solve problems on latent heat
 
-## using Q = ml
+using Q = ml
 
 of air.
 
@@ -15044,7 +15044,7 @@ for ice and steam,
 
 • explain cooling by evaporation using the kinetic theory.
 
-## 0 J/(g ºC).
+0 J/(g ºC).
 
 How much heat must be supplied to raise the
 
@@ -15054,45 +15054,45 @@ temperature of 10 g of the liquid from 20 ºC to 50 ºC?
 
 indd 96 20/06/14 7:36 AM
 
-## Conduction and convection
+# Conduction and convection
 
-### l Conduction l Convection in air
+l Conduction l Convection in air
 
 l Uses of conductors l Natural convection currents
 
 l Conduction and the kinetic theory l Energy losses from buildings
 
-### l Convection in liquids l Ventilation
+l Convection in liquids l Ventilation
 
 To keep a building or a house at a comfortable Most metals are good conductors of heat
 
-### temperature in winter and in summer
+temperature in winter and in summer
 
-### if it is to materials such as wood
+if it is to materials such as wood
 
 glass, cork
 
-## plastics and
+plastics and
 
-### be done economically and effi ciently
+be done economically and effi ciently
 
 requires a fabrics are bad conductors.
 
-## The arrangement in
+# The arrangement in
 
 knowledge of how heat travels.
 
 Figure 23.
 
-### 2 can be used to show the difference
+2 can be used to show the difference
 
 between brass and wood.
 
-## If the rod is passed
+# If the rod is passed
 
 l●Conduction through a fl ame several times
 
-## the paper over the
+the paper over the
 
 wood scorches but not the paper over the brass.
 
@@ -15106,7 +15106,7 @@ conduction.
 
 at which it burns.
 
-### The wood conducts the heat away
+# The wood conducts the heat away
 
 only very slowly.
 
@@ -15126,33 +15126,33 @@ melted wax.
 
 The other ends of the rods are heated Figure 23.
 
-### 2 The paper over the brass does not burn.
+2 The paper over the brass does not burn.
 
 by a burner.
 
-### When the temperatures of the far ends
+# When the temperatures of the far ends
 
 Metal objects below body temperature feel colder
 
-### reach the melting point of wax
+reach the melting point of wax
 
-## the matches drop
+the matches drop
 
 than those made of bad conductors – even if all
 
 off.
 
-### The match on copper falls fi rst
+# The match on copper falls fi rst
 
-## showing it is the
+showing it is the
 
 the objects are at exactly the same temperature –
 
-## best conductor
+best conductor
 
-## followed by aluminium
+followed by aluminium
 
-## brass and
+brass and
 
 because they carry heat away faster from the hand.
 
@@ -15166,57 +15166,57 @@ Water is a very poor conductor, as
 
 shown in Figure 23.
 
-## The water at the top of
+# The water at the top of
 
 iron rod copper rod the tube can be boiled before the ice at the
 
 bottom melts.
 
-## aluminium rod
+aluminium rod
 
-## paraffin wax tripod
+paraffin wax tripod
 
-## steam
+steam
 
-## brass rod boiling water
+brass rod boiling water
 
-## very little
+very little
 
-## conduction
+conduction
 
-## burner
+burner
 
-## ice
+ice
 
 Figure 23.
 
-## 1 Comparing conducting powers
+1 Comparing conducting powers
 
-## metal
+metal
 
-## gauze to
+gauze to
 
 Heat is conducted faster through a rod if it has a keep ice
 
-## large cross-sectional area
+large cross-sectional area
 
-## is short and has a large down
+is short and has a large down
 
 temperature difference between its ends.
 
 Figure 23.
 
-### 3 Water is a poor conductor of heat.
+3 Water is a poor conductor of heat.
 
 9781444176421_Section_02.
 
 indd 97 20/06/14 7:36 AM
 
-## 23 conducTIon and convecTIon
+23 conducTIon and convecTIon
 
-## l●Uses of conductors
+l●Uses of conductors
 
-## a) Good conductors
+a) Good conductors
 
 These are used whenever heat is required to travel
 
@@ -15226,11 +15226,11 @@ Saucepans, boilers and
 
 radiators are made of metals such as aluminium
 
-## iron
+iron
 
 and copper.
 
-### b) Bad conductors (insulators)
+b) Bad conductors (insulators)
 
 The handles of some saucepans are made of wood or
 
@@ -15242,7 +15242,7 @@ Air is one of the worst conductors and so one of
 
 the best insulators.
 
-### This is why houses with cavity
+# This is why houses with cavity
 
 walls (two layers of bricks separated by an air space)
 
@@ -15250,27 +15250,27 @@ and double-glazed windows keep warmer in winter
 
 and cooler in summer.
 
-## Materials that trap air
+# Materials that trap air
 
-## such as wool
+such as wool
 
 felt, fur
 
-## feathers
+feathers
 
-## polystyrene foam
+polystyrene foam
 
-## fibreglass
+fibreglass
 
-## are also very
+are also very
 
 bad conductors.
 
-### Some of these materials are used as
+# Some of these materials are used as
 
-### ‘lagging’ to insulate water pipes
+‘lagging’ to insulate water pipes
 
-## hot water cylinders
+hot water cylinders
 
 Figure 23.
 
@@ -15292,7 +15292,7 @@ warm winter clothes like ‘fleece’ jackets (Figure 23.
 
 keep them warm.
 
-### The suit gets wet and a layer of
+# The suit gets wet and a layer of
 
 water gathers between the person’s body and the suit.
 
@@ -15300,17 +15300,17 @@ The water is warmed by body heat and stays warm
 
 because the suit is made of an insulating fabric
 
-## such
+such
 
 as neoprene, a synthetic rubber.
 
-## l● Conduction and the
+l● Conduction and the
 
-## kinetic theory
+kinetic theory
 
 Two processes occur in metals.
 
-## Metals have a large
+# Metals have a large
 
 Figure 23.
 
@@ -15320,19 +15320,19 @@ number of ‘free’ electrons (Chapter 36) which
 
 wander about inside them.
 
-## When one part of a
+# When one part of a
 
-## metal is heated
+metal is heated
 
-### the electrons there move faster
+the electrons there move faster
 
 (their kinetic energy increases) and further.
 
-## As a
+# As a
 
 result they ‘jostle’ atoms in cooler parts
 
-## so passing
+so passing
 
 on their energy and raising the temperature of these
 
@@ -15346,15 +15346,15 @@ atoms themselves at the hot part make ‘colder’
 
 neighbouring atoms vibrate more vigorously.
 
-## This
+# This
 
 is less important in metals but is the only way
 
 conduction occurs in non-metals since these do not
 
-## have ‘free’ electrons
+have ‘free’ electrons
 
-## hence non-metals are poor
+hence non-metals are poor
 
 Figure 23.
 
@@ -15364,9 +15364,9 @@ Figure 23.
 
 indd 98 20/06/14 7:36 AM
 
-## convection in air
+convection in air
 
-## l●Convection in liquids
+l●Convection in liquids
 
 Convection is the usual method by which thermal
 
@@ -15374,7 +15374,7 @@ energy (heat) travels through fl uids such as liquids
 
 and gases.
 
-### It can be shown in water by dropping
+# It can be shown in water by dropping
 
 a few crystals of potassium permanganate down
 
@@ -15382,7 +15382,7 @@ a tube to the bottom of a beaker or fl ask of
 
 water.
 
-### When the tube is removed and the beaker
+# When the tube is removed and the beaker
 
 heated just below the crystals by a small fl ame
 
@@ -15396,7 +15396,7 @@ Figure 23.
 
 5b Lava lamps make use of convection.
 
-## l●Convection in air
+l●Convection in air
 
 Black marks often appear on the wall or ceiling above
 
@@ -15406,7 +15406,7 @@ Figure 23.
 
 in water a lamp or a radiator.
 
-## They are caused by dust being
+# They are caused by dust being
 
 carried upwards in air convection currents produced
 
@@ -15416,11 +15416,11 @@ currents.
 
 They arise when a fl uid is heated because it A laboratory demonstration of convection currents
 
-## expands
+expands
 
 becomes less dense and is forced upwards by in air can be given using the apparatus of Figure 23.
 
-## surrounding cooler
+surrounding cooler
 
 denser fl uid which moves under The direction of the convection current created by
 
@@ -15440,13 +15440,13 @@ Lava lamps (Figure 23.
 
 this principle.
 
-### Convection currents set up by electric
+# Convection currents set up by electric
 
-## gas and
+gas and
 
 oil heaters help to warm our homes.
 
-## Many so-called
+# Many so-called
 
 Convection is the fl ow of heat through a fl uid from places ‘radiators’ are really convector heaters.
 
@@ -15460,53 +15460,53 @@ cold/hot air be located in a room?
 
 indd 99 20/06/14 7:36 AM
 
-## 23 conducTIon and convecTIon
+23 conducTIon and convecTIon
 
-## smoke
+smoke
 
-## sea
+sea
 
-## breeze
+breeze
 
-## land
+land
 
-## lighted
+lighted
 
-## touch paper warmer
+touch paper warmer
 
-## glass chimneys
+glass chimneys
 
-## sea
+sea
 
-## cooler
+cooler
 
-## box
+box
 
-## lighted glass
+lighted glass
 
-## candle window
+candle window
 
-## land land
+land land
 
-## cooler breeze
+cooler breeze
 
 Figure 23.
 
-### 6 Demonstrating convection in air
+6 Demonstrating convection in air
 
-## sea
+sea
 
-## warmer
+warmer
 
-## l●Natural convection
+l●Natural convection
 
 currents Figure 23.
 
-### 7 Coastal breezes are due to convection
+7 Coastal breezes are due to convection
 
 a day; b night
 
-## a) Coastal breezes
+a) Coastal breezes
 
 During the day the temperature of the land increases
 
@@ -15516,11 +15516,11 @@ specific heat capacity of the land is much smaller
 
 Chapter 21).
 
-### The hot air above the land rises and is
+# The hot air above the land rises and is
 
 replaced by colder air from the sea.
 
-## A breeze from the
+# A breeze from the
 
 sea results (Figure 23.
 
@@ -15528,11 +15528,11 @@ sea results (Figure 23.
 
 At night the opposite happens.
 
-## The sea has more
+# The sea has more
 
 heat to lose and cools more slowly.
 
-## The air above the
+# The air above the
 
 sea is warmer than that over the land and a breeze
 
@@ -15540,27 +15540,27 @@ blows from the land (Figure 23.
 
 7b).
 
-## b) Gliding
+b) Gliding
 
 Figure 23.
 
-## 8 Once airborne
+8 Once airborne
 
 a hang-glider pilot can stay aloft for several
 
-## Gliders
+# Gliders
 
 including ‘hang-gliders’ (Figure 23.
 
 hours by flying from one thermal to another.
 
-## depend on hot air currents
+depend on hot air currents
 
 called thermals.
 
 the contribution each of these makes to the total loss
 
-## l●Energy losses from
+l●Energy losses from
 
 is shown in Table 23.
 
@@ -15570,7 +15570,7 @@ and the burning of fuels becomes of greater
 
 The inside of a building can only be kept at a steady environmental concern (Chapter 15)
 
-## more people
+more people
 
 temperature above that outside by heating it at a rate are considering it worthwhile to reduce heat losses
 
@@ -15578,19 +15578,19 @@ which equals the rate at which it is losing energy.
 
 The from their homes.
 
-## The substantial reduction
+# The substantial reduction
 
 loss occurs mainly by conduction through the walls
 
-### of this loss which can be achieved
+of this loss which can be achieved
 
-## especially
+especially
 
 roof, floors and windows.
 
 For a typical house in the by wall and roof insulation
 
-## is shown in
+is shown in
 
 UK where no special precautions have been taken
 
@@ -15600,11 +15600,11 @@ Table 23.
 
 indd 100 20/06/14 7:37 AM
 
-## ventilation
+ventilation
 
 Table 23.
 
-### 1 Energy losses from a typical house
+1 Energy losses from a typical house
 
 a d A vacuum is an even better heat insulator than air.
 
@@ -15616,79 +15616,79 @@ e The manufacturers of roof lagging suggest that two
 
 walls roof fl oors windows draughts layers of fi breglass are more effective than one.
 
-## Describe
+# Describe
 
 how you might set up an experiment in the laboratory
 
-## 35 25 15 10 15
+35 25 15 10 15
 
 to test whether this is true.
 
-## house roof rafter
+house roof rafter
 
-### Percentage of each loss saved by
+# Percentage of each loss saved by
 
-## fibreglass laid
+fibreglass laid
 
 insulating insulating carpets on double draught
 
-## between rafters
+between rafters
 
-### walls roof fl oors glazing excluders
+walls roof fl oors glazing excluders
 
-## 65 80 ≈ 30 50 ≈ 60
+65 80 ≈ 30 50 ≈ 60
 
-### Percentage of total loss saved = 60 a
+Percentage of total loss saved = 60 a
 
-## cavity with
+cavity with
 
-## air
+air
 
-## plastic foam
+plastic foam
 
-## injected
+injected
 
-## l●Ventilation
+l●Ventilation
 
-## house
+house
 
-## wall glass glass
+wall glass glass
 
 In addition to supplying heat to compensate for b c
 
-### the energy losses from a building
+the energy losses from a building
 
-## a heating system
+a heating system
 
 Figure 23.
 
-## 9 a Roof insulation
+9 a Roof insulation
 
-## b cavity wall insulation
+b cavity wall insulation
 
-## c double
+c double
 
 has also to warm the ventilated cold air
 
-## needed for
+needed for
 
-## glazing
+glazing
 
-## comfort
+comfort
 
 which comes in to replace stale air.
 
-## If the rate of heat loss is
+# If the rate of heat loss is
 
 say, 6000 J/s
 
-## or 6 kW
+or 6 kW
 
 3 What is the advantage of placing an electric immersion
 
 and the warming of ventilated air requires 2 kW
 
-## heater
+heater
 
 then the total power needed to maintain a certain a near the top
 
@@ -15706,11 +15706,11 @@ heat’, estimated to be roughly equal to a 100 W feel colder than the rubber gr
 
 heater.
 
-## Questions Checklist
+# Questions Checklist
 
 After studying this chapter you should be able to
 
-## 1 Explain why
+1 Explain why
 
 a newspaper wrapping keeps hot things hot
 
@@ -15720,7 +15720,7 @@ chips, and cold things cold
 
 e.g. ice cream
 
-## powers of various substances
+powers of various substances
 
 b fur coats would keep their owners warmer if they were • name good and bad conductors and state uses for each
 
@@ -15734,7 +15734,7 @@ it is a collection of holes bounded by string.
 
 • describe experiments to show convection in fl uids (liquids
 
-## 2 Figure 23.
+2 Figure 23.
 
 9 illustrates three ways of reducing heat losses and gases)
 
@@ -15742,9 +15742,9 @@ from a house.
 
 • relate convection to phenomena such as land and sea
 
-## a As far as you can
+a As far as you can
 
-### explain how each of the three breezes
+explain how each of the three breezes
 
 methods reduces heat losses.
 
@@ -15758,7 +15758,7 @@ use?
 
 c Air is one of the worst conductors of heat.
 
-## What is the
+# What is the
 
 point of replacing it by plastic foam as shown in the
 
@@ -15768,29 +15768,29 @@ Figure 23.
 
 indd 101 20/06/14 7:37 AM
 
-## Radiation
+# Radiation
 
 l Good and bad absorbers l The greenhouse
 
 l Good and bad emitters l Rate of cooling of an object
 
-## l Vacuum fl ask
+l Vacuum fl ask
 
 Radiation is a third way in which heat can other dull black.
 
-### The coins are stuck on the outside
+# The coins are stuck on the outside
 
-## travel
+travel
 
 but whereas conduction and convection of each lid with candle wax.
 
-## If the heater is midway
+# If the heater is midway
 
-### both need matter to be present
+both need matter to be present
 
 radiation can between the lids they each receive the same amount
 
-## occur in a vacuum
+occur in a vacuum
 
 particles of matter are not of radiation.
 
@@ -15800,7 +15800,7 @@ involved.
 
 Radiation is the way heat reaches us lid melts and the coin falls off.
 
-## The shiny lid stays
+# The shiny lid stays
 
 from the Sun.
 
@@ -15808,33 +15808,33 @@ cool and the wax unmelted.
 
 Radiation has all the properties of electromagnetic
 
-## waves (Chapter 32)
+waves (Chapter 32)
 
 such as it travels at the speed electric
 
 of radio waves and gives interference effects.
 
-## When shiny heater dull black
+# When shiny heater dull black
 
-## it falls on an object
+it falls on an object
 
-## it is partly refl ected
+it is partly refl ected
 
-## partly surface surface
+partly surface surface
 
-### transmitted and partly absorbed
+transmitted and partly absorbed
 
-## the absorbed part
+the absorbed part
 
 raises the temperature of the object.
 
-## coin
+coin
 
 Radiation is the fl ow of heat from one place to another by candle
 
 means of electromagnetic waves.
 
-## tin lid
+tin lid
 
 Radiation is emitted by all bodies above absolute zero
 
@@ -15846,7 +15846,7 @@ body is very hot (e.g. the Sun).
 
 Figure 24.
 
-### 2 Comparing absorbers of radiation
+2 Comparing absorbers of radiation
 
 Dull black surfaces are better absorbers of
 
@@ -15854,19 +15854,19 @@ radiation than white shiny surfaces – the latter are
 
 good refl ectors of radiation.
 
-## Refl ectors on electric
+# Refl ectors on electric
 
 fi res are made of polished metal because of its good
 
 refl ecting properties.
 
-## l●Good and bad emitters
+l●Good and bad emitters
 
 Some surfaces also emit radiation better than others
 
 when they are hot.
 
-### If you hold the backs of your hands
+# If you hold the backs of your hands
 
 on either side of a hot copper sheet that has one side
 
@@ -15900,9 +15900,9 @@ The inside surface of one lid is shiny and of the longer.
 
 indd 102 20/06/14 7:37 AM
 
-## rate of cooling of an object
+rate of cooling of an object
 
-## In general
+# In general
 
 surfaces that are good absorbers of l●The greenhouse
 
@@ -15914,23 +15914,23 @@ of glass but the warmth from a red-hot fire can be
 
 blocked by glass.
 
-### The radiation from very hot bodies
+# The radiation from very hot bodies
 
 like the Sun is mostly in the form of light and short-
 
 wavelength infrared.
 
-## The radiation from less hot
+# The radiation from less hot
 
-## objects
+objects
 
-## like a fire
+like a fire
 
-### is largely long-wavelength infrared
+is largely long-wavelength infrared
 
-## hot copper sheet with one
+hot copper sheet with one
 
-## side polished and the which
+side polished and the which
 
 unlike light and short-wavelength infrared
 
@@ -15938,43 +15938,43 @@ other blackened cannot pass through glass.
 
 back of hands Light and short-wavelength infrared from the Sun
 
-## towards sheet
+towards sheet
 
 penetrate the glass of a greenhouse and are absorbed
 
-## by the soil
+by the soil
 
-## plants
+plants
 
 etc., raising their temperature.
 
-### These in turn emit infrared but
+# These in turn emit infrared but
 
-## because of their
+because of their
 
-## relatively low temperature
+relatively low temperature
 
-## this has a long wavelength
+this has a long wavelength
 
 Figure 24.
 
-### 3 Comparing emitters of radiation
+3 Comparing emitters of radiation
 
 and is not transmitted by the glass.
 
-## The greenhouse
+# The greenhouse
 
 thus acts as a ‘heat-trap’ and its temperature rises.
 
 Carbon dioxide and other gases such as methane
 
-## l●Vacuum flask
+l●Vacuum flask
 
 in the Earth’s atmosphere act in a similar way to
 
 the glass of a greenhouse in trapping heat
 
-## this has
+this has
 
 A vacuum or Thermos flask keeps hot liquids hot or
 
@@ -15982,7 +15982,7 @@ serious implications for the global climate.
 
 cold liquids cold.
 
-### It is very difficult for heat to travel
+# It is very difficult for heat to travel
 
 into or out of the flask.
 
@@ -15992,7 +15992,7 @@ minimised by making the flask a double-walled glass l● Rate of cooling of an
 
 vessel with a vacuum between the walls (Figure 24.
 
-## object
+object
 
 Radiation is reduced by silvering both walls on the
 
@@ -16000,7 +16000,7 @@ vacuum side.
 
 Then if, for example, a hot liquid is
 
-## stored
+stored
 
 the small amount of radiation from the hot The rate at which an object cools
 
@@ -16008,7 +16008,7 @@ i.e. at which its
 
 inside wall is reflected back across the vacuum by the temperature falls
 
-### can be shown to be proportional
+can be shown to be proportional
 
 silvering on the outer wall.
 
@@ -16016,55 +16016,55 @@ The slight heat loss that to the ratio of its surface area A to its volume V.
 
 does occur is by conduction up the thin glass walls
 
-## For a cube of side l
+# For a cube of side l
 
 and through the stopper.
 
-## A l2 6
+# A l2 6
 
-## 1 = 6× =
+1 = 6× =
 
-## V l3 l
+# V l3 l
 
-## For a cube of side 2l
+# For a cube of side 2l
 
-## stopper
+stopper
 
-## A 4l2 3
+# A 412 3
 
-## 2 = 6× =
+2 = 6× =
 
-## V 8l3 l
+# V 813 l
 
-## double-walled 1 6 1 A
+double-walled 1 6 1 A
 
-## glass vessel = × = 1
+glass vessel = × = 1
 
-## 2 l 2 V
+2 l 2 V
 
-## silvered surfaces
+silvered surfaces
 
 The larger cube has the smaller A/V ratio and so
 
 case cools more slowly.
 
-## vacuum
+vacuum
 
-## felt pad
+felt pad
 
 Figure 24.
 
-## 4 A vacuum flask
+4 A vacuum flask
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_02.
 
 indd 103 20/06/14 7:37 AM
 
-## 24 radIaTIon
+24 radIaTIon
 
-## Checklist
+# Checklist
 
 You could investigate this using two aluminium
 
@@ -16076,9 +16076,9 @@ other.
 
 Each needs holes for a thermometer and an • describe the effect of surface colour and texture on the
 
-## emission
+emission
 
-### absorption and refl ection of radiation
+absorption and refl ection of radiation
 
 electric heater to raise them to the same starting
 
@@ -16096,7 +16096,7 @@ that the blocks are at the same starting temperature
 
 because the higher the temperature a body is
 
-## above its surroundings
+above its surroundings
 
 the greater the amount of • explain how a knowledge of heat transfer affects the design
 
@@ -16114,11 +16114,11 @@ than it is at low temperatures (see Figure 22.
 
 where the ethanamide is cooling).
 
-## Questions
+# Questions
 
-### 1 The door canopy in Figure 24.
+1 The door canopy in Figure 24.
 
-## 5 shows in a striking way
+5 shows in a striking way
 
 the difference between white and black surfaces when
 
@@ -16144,59 +16144,59 @@ one?
 
 indd 104 20/06/14 7:37 AM
 
-## Section Properties of waves
+# Section Properties of waves
 
-## Chapters 28 Plane mirrors
+# Chapters 28 Plane mirrors
 
-## 29 Refraction of light
+29 Refraction of light
 
-## General wave properties
+# General wave properties
 
-## 30 Total internal refl ection
+30 Total internal refl ection
 
-## 25 Mechanical waves
+25 Mechanical waves
 
-## 31 Lenses
+31 Lenses
 
-## 32 Electromagnetic radiation
+32 Electromagnetic radiation
 
-## Light
+# Light
 
-## 26 Light rays Sound
+26 Light rays Sound
 
-### 27 Refl ection of light 33 Sound waves
+27 Refl ection of light 33 Sound waves
 
 9781444176421_Section_03.
 
 indd 105 20/06/14 7:32 AM
 
-## Mechanical waves
+# Mechanical waves
 
-## l Types of wave l Diffraction
+l Types of wave l Diffraction
 
-### l Describing waves l Wave theory
+l Describing waves l Wave theory
 
-### l The wave equation l Interference
+l The wave equation l Interference
 
-### l Wavefronts and rays l Polarisation
+l Wavefronts and rays l Polarisation
 
-## l Reflection l Practical work
+l Reflection l Practical work
 
-## The ripple tank
+# The ripple tank
 
-## l Refraction
+l Refraction
 
-### l●Types of wave l●Describing waves
+l●Types of wave l●Describing waves
 
 Several kinds of wave occur in physics.
 
 Mechanical Terms used to describe waves can be explained
 
-### waves are produced by a disturbance
+waves are produced by a disturbance
 
 such as with the aid of a displacement–distance graph
 
-## a vibrating object
+a vibrating object
 
 in a material medium and (Figure 25.
 
@@ -16214,17 +16214,17 @@ different distances from the cause of the wave.
 
 water waves and sound waves in air or in other
 
-## a) Wavelength
+a) Wavelength
 
 materials.
 
 A progressive or travelling wave is a disturbance The wavelength of a wave
 
-## represented by the Greek
+represented by the Greek
 
 which carries energy from one place to another letter λ (‘lambda’)
 
-### is the distance between successive
+is the distance between successive
 
 without transferring matter.
 
@@ -16232,19 +16232,19 @@ There are two types, crests.
 
 transverse and longitudinal.
 
-## Longitudinal waves are
+# Longitudinal waves are
 
-## wavelength
+wavelength
 
 dealt with in Chapter 33.
 
-## λ undisturbed
+λ undisturbed
 
-## In a transverse wave
+# In a transverse wave
 
-## the direction of the
+the direction of the
 
-## position
+position
 
 disturbance is at right angles to the direction of
 
@@ -16270,55 +16270,55 @@ about its undisturbed position.
 
 Water waves are transverse waves.
 
-## direction of wave
+direction of wave
 
-## hump
+hump
 
-## rope
+rope
 
-## direction of hollow
+direction of hollow
 
-## vibration
+vibration
 
 Figure 25.
 
-## 1 A transverse wave
+1 A transverse wave
 
-## tnemecalpsid
+tnemecalpsid
 
 Figure 25.
 
 2 Displacement–distance graph for a wave at a particular
 
-## instant
+instant
 
-## b) Frequency
+b) Frequency
 
 The frequency f is the number of complete waves
 
 generated per second.
 
-## If the end of a rope is moved
+# If the end of a rope is moved
 
-## up and down twice in a second
+up and down twice in a second
 
-## two waves are
+two waves are
 
 produced in this time.
 
-## The frequency of the wave is
+# The frequency of the wave is
 
-### 2 vibrations per second or 2 hertz (2 Hz
+2 vibrations per second or 2 hertz (2 Hz
 
-## the hertz
+the hertz
 
-## being the unit of frequency)
+being the unit of frequency)
 
-## which is the same as the
+which is the same as the
 
 frequency of the movement of the end of the rope.
 
-## That is
+# That is
 
 the frequencies of the wave and its source are
 
@@ -16332,15 +16332,15 @@ crests passing a chosen point per second.
 
 indd 106 20/06/14 7:32 AM
 
-## Wavefronts and rays
+# Wavefronts and rays
 
-## c) Speed Practical work
+c) Speed Practical work
 
 The speed v of the wave is the distance moved in the
 
 direction of travel of the wave by a crest or any point
 
-## The ripple tank
+# The ripple tank
 
 on the wave in 1 second.
 
@@ -16348,7 +16348,7 @@ The behaviour of water waves can be studied in a ripple tank.
 
 d) Amplitude It consists of a transparent tray containing water
 
-## having a light
+having a light
 
 source above and a white screen below to receive the wave
 
@@ -16358,7 +16358,7 @@ images (Figure 25.
 
 of a trough measured from the undisturbed position Pulses (i.e. short bursts) of ripples are obtained by dipping a
 
-## of what is carrying the wave
+of what is carrying the wave
 
 such as a rope.
 
@@ -16374,11 +16374,11 @@ The bar gives straight ripples if it just
 
 touches the water or circular ripples if it is raised and has a small
 
-## The short arrows at A
+# The short arrows at A
 
 B, C, D on Figure 25.
 
-## 2 show
+2 show
 
 ball fitted to it.
 
@@ -16386,11 +16386,11 @@ the directions of vibration of the parts of the rope
 
 at these points.
 
-### The parts at A and C have the same
+# The parts at A and C have the same
 
 speed in the same direction and are in phase.
 
-## At B light source
+# At B light source
 
 and D the parts are also in phase with each other but ripple
 
@@ -16398,27 +16398,27 @@ they are out of phase with those at A and C because generator bar touching water
 
 their directions of vibration are opposite.
 
-## (motor) for straight ripples
+(motor) for straight ripples
 
-## water
+water
 
-### l●The wave equation (5 mm hand
+l●The wave equation (5 mm hand
 
-## deep) stroboscope
+deep) stroboscope
 
-## (below tank)
+(below tank)
 
 The faster the end of a rope is vibrated
 
-## the shorter screen
+the shorter screen
 
 the wavelength of the wave produced.
 
 That is,
 
-### the higher the frequency of a wave
+the higher the frequency of a wave
 
-## the smaller its
+the smaller its
 
 wavelength.
 
@@ -16426,9 +16426,9 @@ There is a useful connection between f,
 
 Figure 25.
 
-## 4 A ripple tank
+4 A ripple tank
 
-## λ and v
+λ and v
 
 which is true for all types of wave.
 
@@ -16446,29 +16446,29 @@ The frequency f = 3 Hz.
 
 If Figure 25.
 
-## 3 with equally spaced slits
+3 with equally spaced slits
 
-## which can be spun by hand
+which can be spun by hand
 
 i.e. a
 
-### represents this wave motion then
+represents this wave motion then
 
 if crest A is at P at a stroboscope.
 
 If the disc speed is such that the waves have
 
-## particular time
+particular time
 
-### 1 second later it will be at Q
+1 second later it will be at Q
 
 a distance advanced one wavelength each time a slit passes your eye
 
-## they
+they
 
 appear at rest.
 
-## from P of three wavelengths
+from P of three wavelengths
 
 i.e. 3 × 20 = 60 cm.
 
@@ -16476,59 +16476,59 @@ speed of the wave is v = 60 cm per second (60 cm/s)
 
 obtained by multiplying f by λ.
 
-## Hence
+# Hence
 
-### speed of wave = frequency × wavelength
+speed of wave = frequency × wavelength
 
-## l●Wavefronts and rays
+l●Wavefronts and rays
 
-## or
+or
 
-## v = f λ
+v = f λ
 
-## In two dimensions
+# In two dimensions
 
-### a wavefront is a line on which
+a wavefront is a line on which
 
 the disturbance has the same phase at all points
 
-## P Q
+# P Q
 
 the crests of waves in a ripple tank can be thought
 
 of as wavefronts.
 
-## A vibrating source produces a
+# A vibrating source produces a
 
-## crest A
+crest A
 
-## succession of wavefronts
+succession of wavefronts
 
 all of the same shape.
 
-## time 0 second
+time 0 second
 
-## a ripple tank
+a ripple tank
 
-### straight wavefronts are produced by a
+straight wavefronts are produced by a
 
-## vibrator
+vibrator
 
 (3 Hz) vibrating bar (a line source) and circular wavefronts
 
-## time 1 second
+time 1 second
 
 are produced by a vibrating ball (a point source).
 
 A line drawn at right angles to a wavefront
 
-## which
+which
 
-### 3λ shows its direction of travel
+3λ shows its direction of travel
 
 is called a ray.
 
-## Straight
+# Straight
 
 wavefronts and the corresponding rays are shown
 
@@ -16544,7 +16544,7 @@ Figure 25.
 
 indd 107 20/06/14 7:32 AM
 
-## 25 Mechanical Waves
+25 Mechanical Waves
 
 l●Reflection The change in the direction of travel of the waves
 
@@ -16552,7 +16552,7 @@ which occurs when their speed and hence wavelength
 
 In Figure 25.
 
-### 5 straight water waves are falling on a changes
+5 straight water waves are falling on a changes
 
 is termed refraction.
 
@@ -16562,17 +16562,17 @@ i.e. the angle i between the direction of travel of the
 
 waves and the normal to the strip is 60°
 
-## as is the angle
+as is the angle
 
 between the wavefront and the strip.
 
-## (The perpendicular
+(The perpendicular
 
 to the strip at the point where the incident ray strikes
 
 is called the normal.
 
-### ) The wavefronts are represented
+) The wavefronts are represented
 
 by straight lines and can be thought of as the crests
 
@@ -16582,7 +16582,7 @@ They are at right angles to the direction
 
 of travel, i.e. to the rays.
 
-## The angle of reflection r is
+# The angle of reflection r is
 
 60°.
 
@@ -16598,27 +16598,27 @@ shallow regions.
 
 incident wavefront normal reflected wavefront
 
-## slow
+slow
 
-## direction
+direction
 
-## of travel
+of travel
 
-## i r metal strip r
+i r metal strip r
 
-## shallow water deep water
+shallow water deep water
 
 Figure 25.
 
-## 5 Reflection of waves
+5 Reflection of waves
 
-## fast
+fast
 
 Figure 25.
 
 7b The direction of travel is bent towards the normal in the
 
-## l●Refraction
+l●Refraction
 
 shallow region.
 
@@ -16626,9 +16626,9 @@ If a glass plate is placed in a ripple tank so that the
 
 water over the glass plate is about 1 mm deep but is l●Diffraction
 
-## 5 mm deep elsewhere
+5 mm deep elsewhere
 
-### continuous straight waves in the
+continuous straight waves in the
 
 shallow region are found to have a shorter wavelength In Figures 25.
 
@@ -16636,7 +16636,7 @@ shallow region are found to have a shorter wavelength In Figures 25.
 
 8b, straight water waves in
 
-### than those in the deeper parts
+than those in the deeper parts
 
 i.e. the wavefronts are a ripple tank are meeting gaps formed by obstacles.
 
@@ -16644,17 +16644,17 @@ closer together (Figure 25.
 
 Both sets of waves have In Figure 25.
 
-### 8a the gap width is about the same as
+8a the gap width is about the same as
 
-### the frequency of the vibrating bar and
+the frequency of the vibrating bar and
 
-## since v = f λ
+since v = f λ
 
-### if the wavelength of the waves (1 cm)
+if the wavelength of the waves (1 cm)
 
-## the wavefronts
+the wavefronts
 
-## λ has decreased so has v
+λ has decreased so has v
 
 since f is fixed.
 
@@ -16666,13 +16666,13 @@ in all directions.
 
 In Figure 25.
 
-## 8b the gap is wide
+8b the gap is wide
 
 (10 cm) compared with the wavelength and the waves
 
-## continue straight on
+continue straight on
 
-### some spreading occurs but it is
+some spreading occurs but it is
 
 less obvious.
 
@@ -16698,7 +16698,7 @@ Figure 25.
 
 indd 108 20/06/14 7:33 AM
 
-## Wave theory
+# Wave theory
 
 Figure 25.
 
@@ -16706,31 +16706,31 @@ Figure 25.
 
 The spreading of waves at the edges of obstacles
 
-## is called diffraction
+is called diffraction
 
-## when designing harbours
+when designing harbours
 
-## l●Wave theory
+l●Wave theory
 
 If the position of a wavefront is known at one
 
-## instant
+instant
 
 its position at a later time can be found
 
 using Huygens’ construction.
 
-## Each point on the
+# Each point on the
 
 wavefront is considered to be a source of secondary
 
 spherical wavelets (Figure 25.
 
-## 10) which spread
+10) which spread
 
-## out at the wave speed
+out at the wave speed
 
-## the new wavefront is the
+the new wavefront is the
 
 surface that touches all the wavelets (in the forward
 
@@ -16742,9 +16742,9 @@ In Figure 25.
 
 AB is travelling from left to right with speed v.
 
-## At a
+# At a
 
-## time t later
+time t later
 
 the spherical wavelets from AB will be a
 
@@ -16756,113 +16756,113 @@ wavefront CD.
 
 Wave theory can be used to explain reflection
 
-## a) Reflection and wave theory
+a) Reflection and wave theory
 
 refraction and diffraction effects.
 
 Figure 25.
 
-### 11 shows a straight wavefront AB
+11 shows a straight wavefront AB
 
 incident at an angle i on a reflecting surface
 
-## ▲ ▲
+▲ ▲
 
 Figure 25.
 
-### 9 Model of a harbour used to study wave behaviour
+9 Model of a harbour used to study wave behaviour
 
 engineers use models like that in Figure 25.
 
 to study it.
 
-## A C
+# A C
 
-## constructed wavefront
+constructed wavefront
 
-## secondary source
+secondary source
 
-## first position of
+first position of
 
-## wavefront
+wavefront
 
-## vt
+vt
 
-## B D
+# B D
 
-## secondary wavelet
-
-Figure 25.
-
-### 10 Huygens’ construction for a straight wavefront
-
-## secondary wavelet from A
-
-## A'
-
-### incident wavefront reflected wavefront
-
-## i r
-
-## i r
-
-## A B'
+secondary wavelet
 
 Figure 25.
 
-### 11 Reflection of a straight wavefront
+10 Huygens’ construction for a straight wavefront
+
+secondary wavelet from A
+
+A'
+
+incident wavefront reflected wavefront
+
+i r
+
+i r
+
+# A B'
+
+Figure 25.
+
+11 Reflection of a straight wavefront
 
 9781444176421_Section_03.
 
 indd 109 20/06/14 7:33 AM
 
-## 25 Mechanical Waves
+25 Mechanical Waves
 
-## l●Interference
+l●Interference
 
 wavefront has just reached the surface at A.
 
 position of the wavefront a little later
 
-## when B
+when B
 
 When two sets of continuous circular waves cross in
 
-### reaches the reflecting surface
+reaches the reflecting surface
 
-## can be found using
+can be found using
 
-## a ripple tank
+a ripple tank
 
 a pattern like that in Figure 25.
 
-## 13 is
+13 is
 
 Huygens’ construction.
 
-## A circle of radius BB′ is
+A circle of radius BB′ is
 
 obtained.
 
-## drawn about A
+drawn about A
 
-### the reflected wavefront is then A′B′
+the reflected wavefront is then A′B′
 
-### At points where a crest from one source
+# At points where a crest from one source
 
 S , arrives
 
 the tangent to the wavelet from B′.
 
-## Measurements
+# Measurements
 
 at the same time as a crest from the other source
 
 of the angle of incidence i and the angle of
 
-## a bigger crest is formed
+a bigger crest is formed
 
-## and the waves are said to be
+and the waves are said to be
 
 reflection r show that they are equal.
 
@@ -16870,13 +16870,13 @@ in phase.
 
 At points where a crest and a trough arrive
 
-## together
+together
 
 they cancel out (if their amplitudes are
 
-## b) Refraction and wave theory
+b) Refraction and wave theory
 
-## equal)
+equal)
 
 the waves are exactly out of phase (because
 
@@ -16884,17 +16884,17 @@ they have travelled different distances from S and
 
 Huygens’ construction can also be used to
 
-### S ) and the water is undisturbed
+S ) and the water is undisturbed
 
 in Figure 25.
 
-## 13 the
+13 the
 
 find the position of a wavefront when it enters a
 
 blurred lines radiating from between S and S join
 
-## 1 2
+1 2
 
 second medium in which the speed of travel of the
 
@@ -16916,87 +16916,87 @@ When B reaches the boundary the secondary
 
 wavelet from A will have moved on to A′.
 
-## If the
+# If the
 
 wave travels more slowly in the second medium the
 
 distance AA′ is shorter than BB′.
 
-## The new wavefront
+# The new wavefront
 
-## is then A′B′
+is then A′B′
 
-### the tangent to the wavelet from B′
+the tangent to the wavelet from B′
 
 is clear that the direction of travel of the wave has
 
 changed – refraction has occurred.
 
-## incident wavefront
+incident wavefront
 
-## C N B
-
-Figure 25.
-
-### 13 Interference of circular waves
-
-## i 1
-
-## v 1
-
-## v
-
-## 2 A
-
-## i 1
-
-## i 2 B'
-
-## f e
-
-## to
-
-## re
-
-## l a
-
-## s i
-
-## io
-
-## ll e
-
-## is
-
-## Fi
-
-## t ion of
-
-## 2 i 2 25.14).
-
-## refracted wavefront
-
-## N' A'
-
-## secondary wavelet from A
-
-## crest crest
+# C N B
 
 Figure 25.
 
-### 12 Refraction of a straight wavefront water
+13 Interference of circular waves
 
-## at rest
+i 1
 
-## crest trough
+v 1
 
-### c) Diffraction and wave theory
+v
+
+2 A
+
+i 1
+
+i 2 B'
+
+f e
+
+to
+
+re
+
+l a
+
+s i
+
+io
+
+ll e
+
+is
+
+Fi
+
+t ion of
+
+2 i 2 25.14).
+
+refracted wavefront
+
+# N' A'
+
+secondary wavelet from A
+
+crest crest
 
 Figure 25.
 
-## Diffraction effects
+12 Refraction of a straight wavefront water
 
-## such as those shown in
+at rest
+
+crest trough
+
+c) Diffraction and wave theory
+
+Figure 25.
+
+# Diffraction effects
+
+such as those shown in
 
 Study this effect with two ball ‘dippers’ about 3 cm
 
@@ -17006,7 +17006,7 @@ Figure 25.
 
 apart on the bar of a ripple tank.
 
-## Also observe the
+# Also observe the
 
 happens to secondary wavelets arising from point
 
@@ -17014,9 +17014,9 @@ effect of changing (i) the frequency and (ii) the
 
 sources on the unrestricted part of the wavefronts in
 
-## separation of the dippers
+separation of the dippers
 
-## use a stroboscope when
+use a stroboscope when
 
 the gaps.
 
@@ -17024,27 +17024,27 @@ the gaps.
 
 indd 110 20/06/14 7:33 AM
 
-## Polarisation
+# Polarisation
 
 necessary.
 
-### You will fi nd that if the frequency is
+# You will fi nd that if the frequency is
 
-## Questions
+# Questions
 
-## increased
+increased
 
 i.e. the wavelength decreased
 
-## the blurred
+the blurred
 
-## 1 The lines in Figure 25.
+1 The lines in Figure 25.
 
-### 16 are crests of straight ripples.
+16 are crests of straight ripples.
 
 lines are closer together.
 
-## Increasing the separation
+# Increasing the separation
 
 a What is the wavelength of the ripples?
 
@@ -17054,11 +17054,11 @@ b If 5 seconds ago ripple A occupied the position now
 
 Similar patterns are obtained if straight waves fall
 
-## occupied by ripple F
+occupied by ripple F
 
-## what is the frequency of the
+what is the frequency of the
 
-## on two small gaps
+on two small gaps
 
 interference occurs between the ripples?
 
@@ -17066,13 +17066,13 @@ sets of emerging (circular) diffracted waves.
 
 c What is the speed of the ripples?
 
-## l●Polarisation 5 cm
+l●Polarisation 5 cm
 
 This effect occurs only with transverse waves.
 
 can be shown by fi xing a rope at one end
 
-## D in
+# D in
 
 Figure 25.
 
@@ -17082,9 +17082,9 @@ B and C.
 
 If end A is vibrated in all directions (as F E D C B A
 
-### shown by the short arrowed lines)
+shown by the short arrowed lines)
 
-## vibrations of
+vibrations of
 
 Figure 25.
 
@@ -17100,7 +17100,7 @@ properties change?
 
 plane can emerge from the vertical slit.
 
-## The A the speed
+# The A the speed
 
 wave between B and C is said to be plane B the frequency
 
@@ -17110,11 +17110,11 @@ polarised (in the vertical plane containing the C the wavelength
 
 slit at B).
 
-### By contrast the waves between A and
+# By contrast the waves between A and
 
 17), and a ripple started at P by a fi nger.
 
-## After 1 second
+# After 1 second
 
 B are unpolarised.
 
@@ -17122,9 +17122,9 @@ If the slit at C is vertical, the
 
 the shape of the ripple is as shown.
 
-## wave travels on
+wave travels on
 
-### but if it is horizontal as shown
+but if it is horizontal as shown
 
 a Why is it not circular?
 
@@ -17132,35 +17132,35 @@ the wave is stopped and the slits are said to be b Which side of the tank has be
 
 ‘crossed’.
 
-## B C A B
+# B C A B
 
-## tank
+tank
 
-## A D
+# A D
 
-## ripple
-
-Figure 25.
-
-## 15 Polarising waves on a rope
-
-## D C
+ripple
 
 Figure 25.
 
-## ▲ ▲
+15 Polarising waves on a rope
+
+# D C
+
+Figure 25.
+
+▲ ▲
 
 9781444176421_Section_03.
 
 indd 111 20/06/14 7:33 AM
 
-## 25 Mechanical Waves
+25 Mechanical Waves
 
-## Checklist
+# Checklist
 
-## 4 Figure 25.
+4 Figure 25.
 
-### 18 gives a full-scale representation of the water
+18 gives a full-scale representation of the water
 
 in a ripple tank 1 second after the vibrator was started.
 
@@ -17172,17 +17172,17 @@ coloured lines represent crests.
 
 a What is represented at A at this instant?
 
-## waves on ropes
+waves on ropes
 
-## springs and ripple tanks
+springs and ripple tanks
 
-## b Estimate
+b Estimate
 
-### • recall the meaning of wavelength
+• recall the meaning of wavelength
 
-## frequency
+frequency
 
-## speed and
+speed and
 
 (i) the wavelength,
 
@@ -17224,11 +17224,11 @@ of wave speed but not of frequency,
 
 • draw a diagram for the refraction of straight wavefronts at a
 
-## 5 Copy Figure 25.
+5 Copy Figure 25.
 
 19 and show on it what happens to the straight boundary
 
-### waves as they pass through the gap
+waves as they pass through the gap
 
 if the water is much • explain the term diffraction
 
@@ -17250,19 +17250,19 @@ Figure 25.
 
 indd 112 20/06/14 7:34 AM
 
-## Light rays
+# Light rays
 
-### l Sources of light l Speed of light
+l Sources of light l Speed of light
 
-### l Rays and beams l Practical work
+l Rays and beams l Practical work
 
-## The pinhole camera
+# The pinhole camera
 
-## l Shadows
+l Shadows
 
-## l●Sources of light
+l●Sources of light
 
-## l●Rays and beams
+l●Rays and beams
 
 You can see an object only if light from it enters your
 
@@ -17270,15 +17270,15 @@ Sunbeams streaming through trees (Figure 26.
 
 eyes.
 
-## Some objects such as the Sun
+# Some objects such as the Sun
 
-## electric lamps and
+electric lamps and
 
 and light from a cinema projector on its way to the
 
 candles make their own light.
 
-## We call these luminous
+# We call these luminous
 
 screen both suggest that light travels in straight lines.
 
@@ -17292,7 +17292,7 @@ reflect light into our eyes.
 
 but reflect it from a luminous source.
 
-## They are non-
+# They are non-
 
 The direction of the path in which light is travelling
 
@@ -17306,17 +17306,17 @@ examples.
 
 Figure 26.
 
-## 1 shows some others.
+1 shows some others.
 
 straight line with an arrow on it.
 
-## A beam is a stream
+# A beam is a stream
 
 of light and is shown by a number of rays
 
-## as in
+as in
 
-## luminous source
+luminous source
 
 emitting light Figure 26.
 
@@ -17324,25 +17324,25 @@ A beam may be parallel, diverging
 
 (spreading out) or converging (getting narrower).
 
-## non-luminous
+non-luminous
 
-## objects reflecting
+objects reflecting
 
-## light
+light
 
 Figure 26.
 
-### 1 Luminous and non-luminous objects
+1 Luminous and non-luminous objects
 
 Luminous sources radiate light when their atoms
 
 become ‘excited’ as a result of receiving energy.
 
-## a light bulb
+a light bulb
 
-## for example
+for example
 
-## the energy comes from
+the energy comes from
 
 electricity.
 
@@ -17354,11 +17354,11 @@ A light source that works differently is the laser
 
 invented in 1960.
 
-### In laser light sources the excited
+# In laser light sources the excited
 
-### atoms act together and emit a narrow
+atoms act together and emit a narrow
 
-## very bright
+very bright
 
 beam of light.
 
@@ -17370,13 +17370,13 @@ scanners to read bar codes at shop-and library check-
 
 outs, in CD players
 
-### in optical fibre telecommunication
+in optical fibre telecommunication
 
-## systems
+systems
 
 in delicate medical operations on the eye or Figure 26.
 
-### 3 Light travels in straight lines
+3 Light travels in straight lines
 
 inner ear (for example Figure 26.
 
@@ -17384,45 +17384,45 @@ inner ear (for example Figure 26.
 
 surveying and range-finding.
 
-## ray
+ray
 
-## parallel diverging converging
+parallel diverging converging
 
 Figure 26.
 
-### 2 Laser surgery in the inner ear Figure 26.
+2 Laser surgery in the inner ear Figure 26.
 
-## 4 Beams of light
+4 Beams of light
 
 9781444176421_Section_03.
 
 indd 113 20/06/14 7:34 AM
 
-## 26 light rays
+26 light rays
 
-## Practical work A
+# Practical work A
 
-## pinhole
+pinhole
 
-## B'
+B'
 
-## object
+object
 
-## image
+image
 
-## The pinhole camera
+# The pinhole camera
 
-## A'
+A'
 
 A simple pinhole camera is shown in Figure 26.
 
-## Make a
+# Make a
 
 small pinhole in the centre of the black paper.
 
 Half darken the Figure 26.
 
-### 6 Forming an image in a pinhole camera
+6 Forming an image in a pinhole camera
 
 room.
 
@@ -17430,15 +17430,15 @@ Hold the box at arm’s length so that the pinhole end is
 
 nearer to and about 1 metre from a luminous object
 
-## such as
+such as
 
 a carbon filament lamp or a candle.
 
-## Look at the image on the
+# Look at the image on the
 
 screen (an image is a likeness of an object and need not be an
 
-## l●Shadows
+l●Shadows
 
 exact copy).
 
@@ -17450,9 +17450,9 @@ object?
 
 What is the effect of moving the camera closer to the some objects
 
-## which are said to be opaque
+which are said to be opaque
 
-## do not
+do not
 
 object?
 
@@ -17462,11 +17462,11 @@ Secondly, light
 
 Make the pinhole larger.
 
-## What happens to the
+# What happens to the
 
 travels in straight lines.
 
-## (i) brightness
+(i) brightness
 
 The sharpness of the shadow depends on the size
 
@@ -17478,9 +17478,9 @@ A very small source of light, called
 
 (iii) size of the image?
 
-## a point source
+a point source
 
-### gives a sharp shadow which is equally
+gives a sharp shadow which is equally
 
 Make several small pinholes round the large hole (Figure 26.
 
@@ -17496,73 +17496,73 @@ The formation of an image is shown in Figure 26.
 
 source.
 
-## lid
+lid
 
-## small hole
+small hole
 
-## screen
+screen
 
-## card
+card
 
-## screen
+screen
 
-## sharp
+sharp
 
-## (greaseproof 100 watt shadow
+(greaseproof 100 watt shadow
 
-## black paper over lamp
+black paper over lamp
 
-## paper square hole
+paper square hole
 
-## metal ball
+metal ball
 
-## in box)
+in box)
 
-## round to mains supply
+round to mains supply
 
-## hole in
+hole in
 
-## box
+box
 
-## box a With a point source
+box a With a point source
 
-## small
+small
 
-## pinhole
+pinhole
 
-## a A pinhole camera penumbra
+a A pinhole camera penumbra
 
-## umbra
+umbra
 
-## large
+large
 
-## pinhole
+pinhole
 
-## b With an extended source
+b With an extended source
 
 Figure 26.
 
-## 7 Forming a shadow
+7 Forming a shadow
 
 If the card is removed the lamp acts as a large
 
-## small
+small
 
 pinhole or extended source (Figure 26.
 
 7b).
 
-## The shadow
+# The shadow
 
 is then larger and has a central dark region
 
-## black umbra
+black umbra
 
-### surrounded by a ring of partial shadow
+surrounded by a ring of partial shadow
 
 b paper the penumbra.
 
-### You can see by the rays that some light
+# You can see by the rays that some light
 
 reaches the penumbra but none reaches the umbra.
 
@@ -17572,11 +17572,11 @@ Figure 26.
 
 indd 114 20/06/14 7:34 AM
 
-## speed of light
+speed of light
 
-## l●Speed of light
+l●Speed of light
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -17606,7 +17606,7 @@ light does • draw diagrams to show how shadows are formed using
 
 not travel instantaneously from one point to another point and extended sources
 
-## and use the terms umbra and
+and use the terms umbra and
 
 but takes a certain, very small time.
 
@@ -17614,9 +17614,9 @@ Its speed is about penumbra,
 
 • recall that light travels much faster than sound.
 
-### 1 million times greater than that of sound.
+1 million times greater than that of sound.
 
-## Questions
+# Questions
 
 1 How would the size and brightness of the image formed by
 
@@ -17624,21 +17624,21 @@ a pinhole camera change if the camera were made longer?
 
 2 What changes would occur in the image if the single
 
-### pinhole in a camera were replaced by
+pinhole in a camera were replaced by
 
 a four pinholes close together,
 
 b a hole 1 cm wide?
 
-## 3 In Figure 26.
+3 In Figure 26.
 
-### 8 the completely dark region on the screen is
+8 the completely dark region on the screen is
 
-## A PQ B PR C QR D QS E RS
+# A PQ B PR C QR D QS E RS
 
-## lamp object
+lamp object
 
-## screen
+screen
 
 Figure 26.
 
@@ -17654,31 +17654,31 @@ Explain your answer.
 
 indd 115 20/06/14 7:35 AM
 
-## Refl ection of light
+# Refl ection of light
 
 l Law of refl ection l Regular and diffuse refl ection
 
-## l Periscope l Practical work
+l Periscope l Practical work
 
-## Refl ection by a plane mirror
+# Refl ection by a plane mirror
 
-### If we know how light behaves when it is
+# If we know how light behaves when it is
 
-## The incident ray
+# The incident ray
 
-### the refl ected ray and the normal all
+the refl ected ray and the normal all
 
-## refl ected
+refl ected
 
-### we can use a mirror to change the
+we can use a mirror to change the
 
 lie in the same plane.
 
-### (This means that they could all
+(This means that they could all
 
 direction in which the light is travelling.
 
-## This
+# This
 
 be drawn on a fl at sheet of paper.
 
@@ -17686,7 +17686,7 @@ happens when a mirror is placed at the entrance
 
 of a concealed drive to give warning of approaching
 
-## Practical work
+# Practical work
 
 traffi c.
 
@@ -17696,7 +17696,7 @@ a thin layer of silver on one side of a piece of Refl ection by a plane mirror
 
 glass and protecting it with paint.
 
-## The silver –
+The silver –
 
 Draw a line AOB on a sheet of paper and using a protractor mark
 
@@ -17704,15 +17704,15 @@ at the back of the glass – acts as the refl ecting
 
 angles on it.
 
-### Measure them from the perpendicular ON
+# Measure them from the perpendicular ON
 
-## which
+which
 
 surface.
 
 is at right angles to AOB.
 
-### Set up a plane (fl at) mirror with its
+Set up a plane (fl at) mirror with its
 
 refl ecting surface on AOB.
 
@@ -17726,63 +17726,63 @@ Terms used in connection with refl ection are
 
 shown in Figure 27.
 
-## The perpendicular to
+# The perpendicular to
 
 the mirror at the point where the incident ray shield
 
 strikes it is called the normal.
 
-## Note that the angle
+# Note that the angle
 
 of incidence i is the angle between the incident ray
 
-## and the normal
+and the normal
 
-### similarly the angle of refl ection
+similarly the angle of refl ection
 
 r is the angle between the refl ected ray and the
 
 normal.
 
-## lamp
+lamp
 
-## and stand
+and stand
 
-## plane
+plane
 
-## mirror 45°
+mirror 45°
 
-## 60°75°
+60°75°
 
-## single 30°
+single 30°
 
-## i r slit 15°
+i r slit 15°
 
-## sheet
+sheet
 
-## of paper
+of paper
 
-## incident normal reflected B
+incident normal reflected B
 
-## ray ray
+ray ray
 
-## plane
+plane
 
 Figure 27.
 
-### 1 Refl ection of light by a plane mirror mirror
+1 Refl ection of light by a plane mirror mirror
 
 Figure 27.
 
 The law of refl ection states:
 
-### Mark the position of the refl ected ray
+# Mark the position of the refl ected ray
 
-## remove the mirror and
+remove the mirror and
 
 measure the angle between the refl ected ray and ON.
 
-## Repeat for
+# Repeat for
 
 rays at other angles.
 
@@ -17794,25 +17794,25 @@ The angle of incidence equals the angle of refl ection.
 
 indd 116 20/06/14 7:35 AM
 
-### regular and diffuse reflection
+regular and diffuse reflection
 
 l●Periscope Make your own periscope from a long
 
-## narrow
+narrow
 
 cardboard box measuring about 40 cm × 5 cm × 5 cm
 
 A simple periscope consists of a tube containing two (Such as one in which aluminium cooking foil or
 
-## plane mirrors
+plane mirrors
 
 fixed parallel to and facing each other.
 
-## clingfilm is sold)
+clingfilm is sold)
 
 two plane mirrors (7.
 
-## 5 cm × 5 cm)
+5 cm × 5 cm)
 
 Each makes an angle of 45° with the line joining and sticky tape.
 
@@ -17824,7 +17824,7 @@ Light from the object is turned modifications that turn it into a ‘see-back-o-
 
 through 90° at each reflection and an observer is able which lets you see what is behind you.
 
-## to see over a crowd
+to see over a crowd
 
 for example (Figure 27.
 
@@ -17832,17 +17832,17 @@ for example (Figure 27.
 
 over the top of an obstacle.
 
-## l●Regular and diffuse
+l●Regular and diffuse
 
-## reflection
+reflection
 
-## 45°
+45°
 
 45° If a parallel beam of light falls on a plane mirror it is
 
 reflected as a parallel beam (Figure 27.
 
-## 5a) and regular
+5a) and regular
 
 reflection occurs.
 
@@ -17854,35 +17854,35 @@ are reflected in many directions (Figure 27.
 
 5b).
 
-## obstacle
+obstacle
 
 Figure 27.
 
-### 3 Action of a simple periscope
+3 Action of a simple periscope
 
-## plane mirror
+plane mirror
 
-## a Regular reflection
+a Regular reflection
 
-## normal
+normal
 
-## normal
+normal
 
 Figure 27.
 
-### 4 Periscopes being used by people in a crowd.
+4 Periscopes being used by people in a crowd.
 
 In more elaborate periscopes like those used
 
-## in submarines
+in submarines
 
-## prisms replace mirrors (see
+prisms replace mirrors (see
 
 Chapter 30).
 
-## ‘rough’ surface
+‘rough’ surface
 
-## b Diffuse reflection
+b Diffuse reflection
 
 Figure 27.
 
@@ -17890,37 +17890,37 @@ Figure 27.
 
 indd 117 20/06/14 7:35 AM
 
-## 27 reflection of light
+27 reflection of light
 
 Irregular or diffuse refl ection happens because
 
-## Checklist
+# Checklist
 
-## unlike a mirror
+unlike a mirror
 
-### the surface of an object is not
+the surface of an object is not
 
 After studying this chapter you should be able to
 
 perfectly smooth.
 
-## At each point on the surface
+# At each point on the surface
 
 the laws of refl ection are obeyed but the angle of • state the law of refl ection and use it to solve problems
 
 • describe an experiment to show that the angle of incidence
 
-## incidence
+incidence
 
-### and so the angle of refl ection
+and so the angle of refl ection
 
-## varies
+varies
 
 equals the angle of refl ection,
 
 from point to point.
 
-### The refl ected rays are scattered
+# The refl ected rays are scattered
 
 • draw a ray diagram to show how a periscope works.
 
@@ -17930,11 +17930,11 @@ Most objects, being rough, are seen by
 
 diffuse refl ection.
 
-## Questions
+# Questions
 
-## 1 Figure 27.
+1 Figure 27.
 
-### 6 shows a ray of light PQ striking a mirror AB.
+6 shows a ray of light PQ striking a mirror AB.
 
 The mirror AB and the mirror CD are at right angles to each
 
@@ -17942,11 +17942,11 @@ other.
 
 QN is a normal to the mirror AB.
 
-## A P N
+# A P N
 
-## 50°
+50°
 
-## B C
+# B C
 
 Figure 27.
 
@@ -17954,9 +17954,9 @@ a What is the value of the angle of incidence of the ray PQ
 
 on the mirror AB?
 
-## b Copy the diagram
+b Copy the diagram
 
-### and continue the ray PQ to show the
+and continue the ray PQ to show the
 
 path it takes after refl ection at both mirrors.
 
@@ -17972,7 +17972,7 @@ the fi nal refl ected ray?
 
 2 A ray of light strikes a plane mirror at an angle of incidence
 
-## of 60°
+of 60°
 
 is refl ected from the mirror and then strikes a
 
@@ -17984,7 +17984,7 @@ The angle of refl ection at the second mirror
 
 in degrees, is
 
-## A 15 B 25 C 45 D 65 E 75
+# A 15 B 25 C 45 D 65 E 75
 
 3 A person stands in front of a mirror (Figure 27.
 
@@ -17996,23 +17996,23 @@ Figure 27.
 
 indd 118 20/06/14 7:35 AM
 
-## Plane mirrors
+# Plane mirrors
 
 l Real and virtual images l Kaleidoscope
 
-### l Lateral inversion l Practical work
+l Lateral inversion l Practical work
 
-## Position of the image
+# Position of the image
 
-## l Properties of the image
+l Properties of the image
 
 When you look into a plane mirror on the wall of l●Real and virtual
 
 a room you see an image of the room behind
 
-## images
+images
 
-## the mirror
+the mirror
 
 it is as if there were another room.
 
@@ -18022,7 +18022,7 @@ A real image is one which can be produced on a
 
 one wall just to make them look larger.
 
-## You may
+# You may
 
 screen (as in a pinhole camera) and is formed by rays
 
@@ -18042,7 +18042,7 @@ depends on the position of the object.
 
 do not pass through it.
 
-## The image in a plane mirror
+# The image in a plane mirror
 
 is virtual.
 
@@ -18050,37 +18050,37 @@ Rays from a point on an object are reflected
 
 at the mirror and appear to our eyes to come from
 
-## Practical work
+# Practical work
 
 a point behind the mirror where the rays would
 
 intersect when produced backwards (Figure 28.
 
-## Position of the image
+# Position of the image
 
 IA and IB are construction lines and are shown as
 
 broken lines.
 
-## glass (microscope slide)
+glass (microscope slide)
 
-## virtual rays
+virtual rays
 
-## dark surface
+dark surface
 
-## A B
+# A B
 
-## white paper
+white paper
 
-## Plasticine arrow
+# Plasticine arrow
 
 block to support glass vertically real rays
 
 Figure 28.
 
-## 1 Figure 28.
+1 Figure 28.
 
-### 2 A plane mirror forms a virtual image.
+2 A plane mirror forms a virtual image.
 
 Support a piece of thin glass on the bench
 
@@ -18094,23 +18094,23 @@ O, about 10 cm from the glass.
 
 The glass acts as a poor mirror l●Lateral inversion
 
-### and an image of O will be seen in it
+and an image of O will be seen in it
 
-## the darker the bench top
+the darker the bench top
 
 the brighter the image will be.
 
-## If you close your left eye
+# If you close your left eye
 
-## your image in a plane
+your image in a plane
 
-## Lay another identical arrow
+# Lay another identical arrow
 
 I, on the bench behind the
 
 mirror seems to close the right eye.
 
-## In a mirror
+# In a mirror
 
 glass; move it until it coincides with the image of O.
 
@@ -18118,7 +18118,7 @@ image, left and right are interchanged and the image
 
 do the sizes of O and its image compare?
 
-## Imagine a line
+# Imagine a line
 
 joining them.
 
@@ -18126,7 +18126,7 @@ What can you say about it?
 
 Measure the appears to be laterally inverted.
 
-## The effect occurs
+# The effect occurs
 
 distances of the points of O and I from the glass along the whenever an image is formed by one reflection
 
@@ -18148,23 +18148,23 @@ as in a periscope?
 
 indd 119 20/06/14 7:35 AM
 
-## 28 Plane Mirrors
+28 Plane Mirrors
 
-### To see how a kaleidoscope works
+# To see how a kaleidoscope works
 
-## draw on a sheet
+draw on a sheet
 
 of paper two lines at right angles to one another.
 
 Using different coloured pens or pencils
 
-## draw a
+draw a
 
 design between them (Figure 28.
 
 5a).
 
-## Place a small
+# Place a small
 
 mirror along each line and look into the mirrors
 
@@ -18172,15 +18172,15 @@ mirror along each line and look into the mirrors
 
 5b).
 
-### You will see three reflections which
+# You will see three reflections which
 
 join up to give a circular pattern.
 
-## If you make the
+# If you make the
 
-### angle between the mirrors smaller
+angle between the mirrors smaller
 
-## more reflections
+more reflections
 
 appear but you always get a complete design.
 
@@ -18198,23 +18198,23 @@ Figure 28.
 
 Now make a kaleidoscope using a cardboard tube
 
-## (from half a kitchen roll)
+(from half a kitchen roll)
 
-## some thin card
+some thin card
 
-## grease-
+grease-
 
-### l●Properties of the image proof paper
+l●Properties of the image proof paper
 
-## clear sticky tape
+clear sticky tape
 
-## small pieces of different
+small pieces of different
 
 coloured cellophane and two mirrors (10 cm × 3 cm) or
 
 The image in a plane mirror is a single plastic mirror (10 cm × 6 cm) bent to form two
 
-## mirrors at 60° to each other
+mirrors at 60° to each other
 
 as shown in Figure 28.
 
@@ -18226,21 +18226,21 @@ perpendicular to the mirror,
 
 (ii) the same size as the object,
 
-## sheet of paper
+sheet of paper
 
 (iii) virtual,
 
 (iv) laterally inverted.
 
-## l●Kaleidoscope
+l●Kaleidoscope
 
 Figure 28.
 
-## paper
+paper
 
-## mirror
+mirror
 
-## mirror
+mirror
 
 Figure 28.
 
@@ -18256,17 +18256,17 @@ Figure 28.
 
 indd 120 20/06/14 7:36 AM
 
-## Kaleidoscope
+# Kaleidoscope
 
 3 A girl stands 5 m away from a large plane mirror.
 
-## How far
+# How far
 
-### greaseproof paper cardboard tube
+greaseproof paper cardboard tube
 
 must she walk to be 2 m away from her image?
 
-### 4 The image in a plane mirror is
+4 The image in a plane mirror is
 
 A upright, real and larger
 
@@ -18278,15 +18278,15 @@ D inverted, virtual and the same size
 
 E inverted, real and larger.
 
-## Checklist
+# Checklist
 
 mirrors at 60° card with After studying this chapter you should be able to
 
-## central
+central
 
 • describe an experiment to show that the image in a plane
 
-## pinhole
+pinhole
 
 coloured mirror is as far behind the mirror as the object is in front
 
@@ -18304,31 +18304,31 @@ by a plane mirror,
 
 Questions mirror,
 
-## 1 In Figure 28.
+1 In Figure 28.
 
 6 at which of the points A to E will the • explain how a kaleidoscope works.
 
 observer see the image in the plane mirror of the object?
 
-## E D
+# E D
 
-## object
+object
 
 Figure 28.
 
-## 2 Figure 28.
+2 Figure 28.
 
-### 7 shows the image in a plane mirror of a clock.
+7 shows the image in a plane mirror of a clock.
 
-## The correct time is
+# The correct time is
 
 A 2.
 
-## 25 B 2.
+25 B 2.
 
-## 35 C 6.
+35 C 6.
 
-## 45 D 9.
+45 D 9.
 
 Figure 28.
 
@@ -18336,23 +18336,23 @@ Figure 28.
 
 indd 121 20/06/14 7:36 AM
 
-## Refraction of light
+# Refraction of light
 
 l Facts about refraction l Refraction by a prism
 
-### l Real and apparent depth l Dispersion
+l Real and apparent depth l Dispersion
 
-### l Refractive index l Practical work
+l Refractive index l Practical work
 
-## Refraction in glass
+# Refraction in glass
 
 If you place a coin in an empty dish and move back
 
-## Practical work
+# Practical work
 
-## until you just cannot see it
+until you just cannot see it
 
-## the result is surprising if
+the result is surprising if
 
 someone gently pours in water.
 
@@ -18360,23 +18360,23 @@ Try it.
 
 Although light travels in straight lines in a Refraction in glass
 
-## transparent material
+transparent material
 
-## such as air
+such as air
 
-## if it passes into a
+if it passes into a
 
 Shine a ray of light at an angle on to a glass block
 
-## different material
+different material
 
-## such as water
+such as water
 
 it changes direction (which has its lower face painted white or frosted)
 
-## as in
+as in
 
-### at the boundary between the two
+at the boundary between the two
 
 i.e. it is bent.
 
@@ -18398,17 +18398,17 @@ causes effects such as the coin trick.
 
 points where the ray enters side AB (see Figure 29.
 
-## 2) and where
+2) and where
 
 it leaves side CD.
 
-## l●Facts about refraction
+l●Facts about refraction
 
 (i) A ray of light is bent towards the normal when
 
 it enters an optically denser medium at an angle
 
-## shield
+shield
 
 for example from air to glass as in Figure 29.
 
@@ -18422,19 +18422,19 @@ when it enters an optically less dense medium
 
 example from glass to air.
 
-## sheet
+sheet
 
 (iii) A ray emerging from a parallel-sided block is of paper
 
-## lamp
+lamp
 
-## parallel to the ray entering
+parallel to the ray entering
 
-## but is displaced and stand
+but is displaced and stand
 
 sideways, like the ray in Figure 29.
 
-## single A D
+single A D
 
 (iv) A ray travelling along the normal direction at a slit
 
@@ -18442,31 +18442,31 @@ boundary is not refracted (Figure 29.
 
 1b).
 
-## normal
+normal
 
 Note ‘Optically denser’ means having a greater
 
-## refraction effect
+refraction effect
 
-### the actual density may or may not
+the actual density may or may not
 
 be greater.
 
-## glass block
+glass block
 
-## normal
+normal
 
 i Figure 29.
 
-## air
+air
 
 What two things happen to the light falling on AB?
 
-## When
+# When
 
-### the ray enters the glass at AB
+the ray enters the glass at AB
 
-### is it bent towards or away from
+is it bent towards or away from
 
 the part of the normal in the block?
 
@@ -18478,25 +18478,25 @@ and the direction of the ray leaving CD?
 
 What happens if the ray hits AB at right angles?
 
-## normal air
+normal air
 
-## a b
+a b
 
 Figure 29.
 
-### 1 Refraction of light in glass
+1 Refraction of light in glass
 
 9781444176421_Section_03.
 
 indd 122 20/06/14 7:36 AM
 
-## refractive index
+refractive index
 
-## l●Real and apparent
+l●Real and apparent
 
-## l●Refractive index
+l●Refractive index
 
-## depth
+depth
 
 Light is refracted because its speed changes when
 
@@ -18504,7 +18504,7 @@ Rays of light from a point O on the bottom of a
 
 it enters another medium.
 
-## An analogy helps to
+# An analogy helps to
 
 pool are refracted away from the normal at the water
 
@@ -18512,13 +18512,13 @@ explain why.
 
 surface because they are passing into an optically less
 
-## Suppose three people A
+# Suppose three people A
 
 B, C are marching in
 
 dense medium, i.e. air (Figure 29.
 
-## On entering the
+# On entering the
 
 line, with hands linked
 
@@ -18538,7 +18538,7 @@ The apparent depth of the pool is less than its
 
 followed by B and then C.
 
-## This causes the whole
+# This causes the whole
 
 real depth.
 
@@ -18546,71 +18546,71 @@ line to swing round and change its direction of
 
 motion.
 
-### In air (and a vacuum) light travels at
+In air (and a vacuum) light travels at
 
-## 300 000 km/s (3 × 108 m/s)
+300 000 km/s (3 × 108 m/s)
 
-## in glass its speed falls
+in glass its speed falls
 
 to 200 000 km/s (2 × 108 m/s) (Figure 29.
 
 5b).
 
-## real
+real
 
-## apparent refractive index
+apparent refractive index
 
 n, of a medium
 
-## in this case glass
+in this case glass
 
-## depth
+depth
 
-## depth
+depth
 
-## is defi ned by the equation
+is defi ned by the equation
 
-## speedoflightinair(ooravacuum)
+speedoflightinair(ooravacuum)
 
 refractiveindex,n=
 
-## I water speedoflightinmedium
+# I water speedoflightinmedium
 
-## 300000 km/s 3
+300000 km/s 3
 
 for glass, n = =
 
-## 200000 km/s 2
+200000 km/s 2
 
-## Experiments also show that
+# Experiments also show that
 
 Figure 29.
 
-### 3 A pool of water appears shallower than it is.
+3 A pool of water appears shallower than it is.
 
 sine of angle between ray in air and normaal
 
-## n =
+n =
 
 sine of angle between ray in glass and noormal
 
-## sini
+sini
 
 = (see Figure 29.
 
-## sinr
+sinr
 
 The more light is slowed down when it enters a
 
-## medium from air
+medium from air
 
-### the greater is the refractive index
+the greater is the refractive index
 
 of the medium and the more the light is bent.
 
-## road
+road
 
-## marsh
+marsh
 
 Figure 29.
 
@@ -18622,15 +18622,15 @@ Why?
 
 Figure 29.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_03.
 
 indd 123 20/06/14 7:37 AM
 
-## 29 refraction of light
+29 refraction of light
 
-## l●Dispersion
+l●Dispersion
 
 300000km/s When sunlight (white light) falls on a triangular
 
@@ -18638,7 +18638,7 @@ glass prism (Figure 29.
 
 7a), a band of colours
 
-## air
+air
 
 called a spectrum is obtained (Figure 29.
 
@@ -18646,15 +18646,15 @@ called a spectrum is obtained (Figure 29.
 
 The effect is termed dispersion.
 
-## It arises because
+# It arises because
 
-## glass
+glass
 
 white light is a mixture of many colours
 
-## the prism
+the prism
 
-## 200000km/s
+200000km/s
 
 separates the colours because the refractive index
 
@@ -18664,37 +18664,37 @@ n violet light).
 
 Figure 29.
 
-## 5b white
+5b white
 
-## screen
+screen
 
 We saw earlier (Chapter 25) that water waves are
 
-## red
+red
 
 refracted when their speed changes.
 
-## The change in orange
+# The change in orange
 
-## yellow
+yellow
 
 the direction of travel of a light ray when its speed sunlight prism green
 
 changes on entering another medium suggests that blue
 
-## spectrum
+spectrum
 
-## indigo
+indigo
 
 light may also be a type of wave motion.
 
-## violet
+violet
 
 Figure 29.
 
-### 7a Forming a spectrum with a prism
+7a Forming a spectrum with a prism
 
-## l●Refraction by a prism
+l●Refraction by a prism
 
 In a triangular glass prism (Figure 29.
 
@@ -18714,7 +18714,7 @@ The bendings of the ray do not cancel out as they
 
 do in a parallel-sided block where the emergent ray
 
-## although displaced
+although displaced
 
 is parallel to the incident ray.
 
@@ -18722,11 +18722,11 @@ Figure 29.
 
 7b White light shining through cut crystal can produce
 
-## angle of
+angle of
 
 several spectra.
 
-## deviation
+deviation
 
 Figure 29.
 
@@ -18734,23 +18734,23 @@ Figure 29.
 
 indd 124 20/06/14 7:37 AM
 
-## dispersion
+dispersion
 
-## Questions
+# Questions
 
-## 6 Which diagram in Figure 29.
+6 Which diagram in Figure 29.
 
-## 11 shows the ray of light
+11 shows the ray of light
 
 refracted correctly?
 
-## 1 Figure 29.
+1 Figure 29.
 
-### 8 shows a ray of light entering a rectangular
+8 shows a ray of light entering a rectangular
 
 block of glass.
 
-## A B C
+# A B C
 
 a Copy the diagram and draw the normal at the point of
 
@@ -18760,13 +18760,13 @@ b Sketch the approximate path of the ray through the water air glass
 
 block and out of the other side.
 
-## air glass water
+air glass water
 
-## D E
+# D E
 
-## glass water
+glass water
 
-## air glass
+air glass
 
 Figure 29.
 
@@ -18776,11 +18776,11 @@ Figure 29.
 
 where someone on the bank will see the fi sh.
 
-## Where must
+# Where must
 
-## 7 Which diagram in Figure 29.
+7 Which diagram in Figure 29.
 
-## 12 shows the correct path of
+12 shows the correct path of
 
 the person aim to spear the fi sh?
 
@@ -18790,23 +18790,23 @@ the ray through the prism?
 
 6/5 if its speed in air is 300 000 km/s?
 
-## A B C
+# A B C
 
-## 4 Figure 29.
+4 Figure 29.
 
-### 9 shows a ray of light OP striking a glass prism
+9 shows a ray of light OP striking a glass prism
 
 and then passing through it.
 
-### Which of the rays A to D is the
+# Which of the rays A to D is the
 
 correct representation of the emerging ray?
 
-## A D E
+# A D E
 
 Figure 29.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -18826,13 +18826,13 @@ for a parallel-sided block,
 
 5 A beam of white light strikes the face of a prism.
 
-## Copy
+# Copy
 
 • recall that light is refracted because it changes speed when
 
 Figure 29.
 
-### 10 and draw the path taken by red and blue
+10 and draw the path taken by red and blue
 
 it enters another medium,
 
@@ -18856,7 +18856,7 @@ white light • explain the terms spectrum and dispersion
 
 white light.
 
-## glass prism
+glass prism
 
 Figure 29.
 
@@ -18864,7 +18864,7 @@ Figure 29.
 
 indd 125 20/06/14 7:37 AM
 
-## Total internal reflection
+# Total internal reflection
 
 l Critical angle l Totally reflecting prisms
 
@@ -18872,21 +18872,21 @@ l Refractive index and critical angle l Light pipes and optical fibres
 
 l Multiple images in a mirror l Practical work
 
-## Critical angle of glass
+# Critical angle of glass
 
-## l●Critical angle
+l●Critical angle
 
-## Practical work
+# Practical work
 
 When light passes at small angles of incidence from
 
 an optically dense to a less dense medium
 
-### such as Critical angle of glass
+such as Critical angle of glass
 
-## from glass to air
+from glass to air
 
-### there is a strong refracted ray and
+there is a strong refracted ray and
 
 Place a semicircular glass block on a sheet of paper (Figure 30.
 
@@ -18906,69 +18906,69 @@ increases the angle of refraction.
 
 30° to the normal ON) along a radius towards O.
 
-## The ray is not
+# The ray is not
 
 refracted at the curved surface.
 
 Why?
 
-## Note the refracted ray
+# Note the refracted ray
 
 emerging from LOM into the air and also the weak internally
 
 reflected ray in the glass.
 
-## air
+air
 
 Slowly rotate the paper so that the angle of incidence on LOM
 
 glass increases until total internal reflection just occurs.
 
-## Mark the incident
+# Mark the incident
 
 ray.
 
-### Measure the angle of incidence
+# Measure the angle of incidence
 
 this is the critical angle.
 
-## ray of L
+ray of L
 
-## light
+light
 
-## sheet of
+sheet of
 
-## paper
+paper
 
-## air
+air
 
-## angle of
+angle of
 
-## glass incidence
+glass incidence
 
-## N O
+# N O
 
-## c c
+c c
 
-## c critical angle semicircular
+c critical angle semicircular
 
-## b glass block
+b glass block
 
-## air
-
-Figure 30.
-
-## glass
-
-## l● Refractive index and
+air
 
 Figure 30.
 
-## critical angle
+glass
 
-### At a certain angle of incidence
+l● Refractive index and
 
-## called the critical
+Figure 30.
+
+critical angle
+
+# At a certain angle of incidence
+
+called the critical
 
 angle, c
 
@@ -18978,11 +18978,11 @@ the angle of refraction is 90° (Figure 30.
 
 From Figure 30.
 
-### 1b and the definition of refractive
+1b and the definition of refractive
 
-### For angles of incidence greater than c
+# For angles of incidence greater than c
 
-## the refracted index
+the refracted index
 
 ray disappears and all the incident light is reflected
 
@@ -18992,9 +18992,9 @@ inside the denser medium (Figure 30.
 
 1c).
 
-## The light
+# The light
 
-## n =
+n =
 
 does not cross the boundary and is said to undergo sine of angle between ray in glass and noormal
 
@@ -19004,13 +19004,13 @@ total internal reflection.
 
 indd 126 20/06/14 7:38 AM
 
-## totally reflecting prisms
+totally reflecting prisms
 
 Figure 30.
 
 3b The multiple images in a mirror cause blurring.
 
-## l●Totally reflecting prisms
+l●Totally reflecting prisms
 
 The defects of mirrors are overcome if 45°
 
@@ -19024,7 +19024,7 @@ ray falling normally on face PQ of such a prism
 
 4a) hits face PR at 45°.
 
-## Total internal
+# Total internal
 
 reflection occurs and the ray is turned through 90°.
 
@@ -19038,41 +19038,41 @@ prism (Figure 30.
 
 4b); this happens in binoculars.
 
-## 45°
+45°
 
-## 45°
+45°
 
-## 45°
+45°
 
 Figure 30.
 
-### 4 Reflection of light by a prism
+4 Reflection of light by a prism
 
-## ▲ ▲
+▲ ▲
 
-## sin90°
+sin90°
 
-## sinc
+sinc
 
-## = (because sin90° = 1)
+= (because sin90° = 1)
 
-## sinc
+sinc
 
-## 3 2
+3 2
 
 So, if n =
 
-## then sin c =
+then sin c =
 
 and c must be 42°.
 
-## 2 3
+2 3
 
-## Worked example
+# Worked example
 
 If the critical angle for diamond is 24°
 
-## calculate its
+calculate its
 
 refractive index.
 
@@ -19080,77 +19080,77 @@ Critical angle, c = 24°
 
 sin 24° = 0.
 
-## sin90° 1
+sin90° 1
 
-## n = =
+n = =
 
-## sinc sin24°
+sinc sin24°
 
 = = 2.
 
-## l● Multiple images in
+l● Multiple images in
 
-## a mirror
+a mirror
 
 An ordinary mirror silvered at the back forms
 
-## several images of one object
+several images of one object
 
-## because of multiple
+because of multiple
 
 reflections inside the glass (Figure 30.
 
-## 3a and
+3a and
 
 Figure 30.
 
 3b).
 
-### These blur the main image I (which
+These blur the main image I (which
 
 is formed by one reflection at the silvering)
 
 especially if the glass is thick.
 
-## The problem is absent
+# The problem is absent
 
 in front-silvered mirrors but such mirrors are easily
 
 damaged.
 
-## glass main
+glass main
 
-## image
+image
 
-## O I 1 I I 2
+# O I 1 I I 2
 
-## object
+object
 
-## silvering
+silvering
 
 Figure 30.
 
-### 3a Multiple reflections in a mirror
+3a Multiple reflections in a mirror
 
 9781444176421_Section_03.
 
 indd 127 20/06/14 7:39 AM
 
-## 30 total internal reflection
+30 total internal reflection
 
-### l● Light pipes and optical Questions
+l● Light pipes and optical Questions
 
-## 1 Figure 30.
+1 Figure 30.
 
 7 shows rays of light in a semicircular glass block.
 
-## fi bres
+fi bres
 
 Light can be trapped by total internal refl ection
 
 inside a bent glass rod and ‘piped’ along a curved
 
-## 20°
+20°
 
 path (Figure 30.
 
@@ -19174,25 +19174,25 @@ internal refl ection.
 
 c Ray CB does not stop at B.
 
-## Copy the diagram and draw
+# Copy the diagram and draw
 
 its approximate path after it leaves B.
 
 If several thousand such fi bres are taped together
 
-## 2 Copy Figures 30.
+2 Copy Figures 30.
 
 8a and 30.
 
-## 8b and complete the paths of
+8b and complete the paths of
 
 a fl exible light pipe is obtained that can be used
 
 the rays through the glass prisms.
 
-## for example
+for example
 
-### by doctors as an ‘endoscope’ (Figure
+by doctors as an ‘endoscope’ (Figure
 
 6a), to obtain an image from inside the body
 
@@ -19200,21 +19200,21 @@ the rays through the glass prisms.
 
 6b), or by engineers to light up some
 
-## 60°
+60°
 
 awkward spot for inspection.
 
-## The latest telephone glass
+# The latest telephone glass
 
 ‘cables’ are optical (very pure glass) fi bres carrying air
 
-## glass
+glass
 
 information as pulses of laser light.
 
-## 60°
+60°
 
-## a b
+a b
 
 Figure 30.
 
@@ -19228,11 +19228,11 @@ What happens at the surface if the angle of incidence
 
 is: a 30°; b 60°?
 
-### 5 Calculate the critical angle for water if n = .
+5 Calculate the critical angle for water if n = .
 
 Figure 30.
 
-## 6a Endoscope in use Checklist
+6a Endoscope in use Checklist
 
 After studying this chapter you should be able to
 
@@ -19260,33 +19260,33 @@ Figure 30.
 
 indd 128 20/06/14 7:40 AM
 
-## Lenses
+# Lenses
 
 l Converging and diverging lenses l Magnifying glass
 
-### l Principal focus l Spectacles
+l Principal focus l Spectacles
 
-### l Ray diagrams l Practical work
+l Ray diagrams l Practical work
 
-## Focal length
+# Focal length
 
 f, of a converging lens
 
 l Magnification Images formed by a converging lens
 
-## l Power of a lens
+l Power of a lens
 
-## l●Converging and
+l●Converging and
 
-## diverging lenses
+diverging lenses
 
 Lenses are used in optical instruments such as
 
-## cameras
+cameras
 
-## spectacles
+spectacles
 
-## microscopes and telescopes
+microscopes and telescopes
 
 Figure 31.
 
@@ -19306,7 +19306,7 @@ You may have used one as a magnifying glass
 
 2a) or as a burning glass.
 
-## A diverging (or
+A diverging (or
 
 concave) lens is thinnest in the centre and spreads
 
@@ -19332,13 +19332,13 @@ it as a number of prisms (most with the tip removed)
 
 each of which bends the ray towards its base
 
-## as in
+as in
 
 Figure 31.
 
 1c and 31.
 
-### The centre acts as a parallel-
+# The centre acts as a parallel-
 
 sided block.
 
@@ -19346,15 +19346,15 @@ Figure 31.
 
 2a A converging lens forms a magnified image of a close object.
 
-## principal
+principal
 
-## axis F C F
+axis F C F
 
 Figure 31.
 
-## principal
+principal
 
-## axis F C F
+axis F C F
 
 Figure 31.
 
@@ -19368,9 +19368,9 @@ Figure 31.
 
 indd 129 20/06/14 7:40 AM
 
-## 31 lenses
+31 lenses
 
-### l●Principal focus Practical work
+l●Principal focus Practical work
 
 When a beam of light parallel to the principal axis
 
@@ -19382,19 +19382,19 @@ focus, F.
 
 It is a real focus.
 
-## A diverging lens has a
+# A diverging lens has a
 
-### In the formation of images by lenses
+# In the formation of images by lenses
 
-## two important points on
+two important points on
 
-### virtual principal focus behind the lens
+virtual principal focus behind the lens
 
-## from which
+from which
 
-### the principal axis are F and 2F
+the principal axis are F and 2F
 
-### 2F is at a distance of twice the
+2F is at a distance of twice the
 
 the refracted beam seems to diverge.
 
@@ -19402,19 +19402,19 @@ focal length from C.
 
 Since light can fall on both faces of a lens it has two First find the focal length of the lens by the ‘distant object
 
-## principal foci
+principal foci
 
-## one on each side
+one on each side
 
 equidistant from C.
 
-## method’ just described
+method’ just described
 
 then fix the lens upright with Plasticine
 
 The distance CF is the focal length f of the lens (see at the centre of a metre rule.
 
-### Place small pieces of Plasticine at
+# Place small pieces of Plasticine at
 
 the points F and 2F on both sides of the lens
 
@@ -19424,15 +19424,15 @@ Figure 31.
 
 1a); it is an important property of a lens.
 
-## Place a small light source
+# Place a small light source
 
-## such as a torch bulb
+such as a torch bulb
 
-## as the object
+as the object
 
-### The more curved the lens faces are
+# The more curved the lens faces are
 
-## the smaller is f
+the smaller is f
 
 supported on the rule beyond 2F and move a white card
 
@@ -19440,7 +19440,7 @@ and the more powerful is the lens.
 
 the other side of the lens from the light
 
-## until a sharp image is
+until a sharp image is
 
 obtained on the card.
 
@@ -19456,65 +19456,65 @@ are nearly parallel (Figure 31.
 
 3a).
 
-## 2F F F 2F
+2F F F 2F
 
-## close point
+close point
 
-## diverging beam
+diverging beam
 
-### distant point Plasticine metre rule
+distant point Plasticine metre rule
 
 Figure 31.
 
-## almost parallel beam
+almost parallel beam
 
-## Note and record
+# Note and record
 
-## in a table like the one below
+in a table like the one below
 
-## the image position
+the image position
 
-## very as ‘beyond 2F’
+very as ‘beyond 2F’
 
 ‘between 2F and F’ or ‘between F and lens’.
 
-## Also
+# Also
 
-## distant
+distant
 
 note whether the image is ‘larger’ or ‘smaller’ than the actual
 
-## point
+point
 
 parallel beam bulb or ‘same size’ and if it is ‘upright’ or ‘inverted’.
 
-## Now repeat
+# Now repeat
 
-## with the light at 2F
+with the light at 2F
 
 then between 2F and F.
 
 Figure 31.
 
-### Object position Image position Larger
+# Object position Image position Larger
 
-## smaller Upright or
+smaller Upright or
 
 or same size?
 
 inverted?
 
-### light from window at lens beyond 2F
+light from window at lens beyond 2F
 
-## other side of room
+other side of room
 
-## at 2F
+at 2F
 
-## between 2F and F
+between 2F and F
 
-## ruler screen
+ruler screen
 
-## or wall between F and lens
+or wall between F and lens
 
 Figure 31.
 
@@ -19526,7 +19526,7 @@ Move the lens, arranged as in Figure 31.
 
 When the light is between F and the lens
 
-## the image
+the image
 
 of a window at the other side of the room is obtained on the is virtual and is seen by looking through the lens at the light.
 
@@ -19538,7 +19538,7 @@ this.
 
 Is the virtual image larger or smaller than the object?
 
-## Is it
+# Is it
 
 roughly.
 
@@ -19552,9 +19552,9 @@ Record your findings in your table.
 
 indd 130 20/06/14 7:40 AM
 
-## Magnifying glass
+# Magnifying glass
 
-## l●Ray diagrams B
+l●Ray diagrams B
 
 Information about the images formed by a lens can
 
@@ -19564,27 +19564,27 @@ be obtained by drawing two of the following rays.
 
 through the principal focus, F.
 
-## I F O C F
+# I F O C F
 
-### 2 A ray through the optical centre, C, which is
+2 A ray through the optical centre, C, which is
 
 undeviated for a thin lens.
 
-### 3 A ray through the principal focus
+3 A ray through the principal focus
 
 F, which is refracted
 
 parallel to the principal axis.
 
-## Image is behind object
+# Image is behind object
 
-## virtual
+virtual
 
 erect, larger
 
 Figure 31.
 
-## 5d Object between F and C
+5d Object between F and C
 
 In diagrams a thin lens is represented by a straight
 
@@ -19596,13 +19596,13 @@ In each ray diagram in Figure 31.
 
 drawn from the top A of an object OA.
 
-## Where these
+# Where these
 
 rays intersect after refraction gives the top B of the l●Magnifi cation
 
 image IB.
 
-### The foot I of each image is on the axis
+# The foot I of each image is on the axis
 
 since ray OC passes through the lens undeviated.
 
@@ -19618,37 +19618,37 @@ In all parts of Figure 31.
 
 5, the lens is a height of image
 
-## m =
+m =
 
 converging lens.
 
-## height of object
+height of object
 
-### A It can be shown that in all cases
+# A It can be shown that in all cases
 
-## distance of image from lens
+distance of image from lens
 
-## m =
+m =
 
-### F I 2F distance of objject from lens
+# F I 2F distance of objject from lens
 
-## O 2F F C
+# O 2F F C
 
-## image
+image
 
-## B l●Power of a lens
+B l●Power of a lens
 
-## Image is between F and 2F
+# Image is between F and 2F
 
 real, inverted
 
 smaller The shorter the focal length of a lens
 
-## the stronger
+the stronger
 
 Figure 31.
 
-## 5a Object beyond 2F it is
+5a Object beyond 2F it is
 
 i.e. the more it converges or diverges a beam
 
@@ -19656,73 +19656,73 @@ of light.
 
 We defi ne the power, P, of a lens to be
 
-## 1/focal length of the lens
+1/focal length of the lens
 
-## where the focal length is
+where the focal length is
 
 measured in metres:
 
-## F 2F I P =
+F 2F I P =
 
-## 2F O F C
+2F O F C
 
-## image
+image
 
-## Image is beyond 2F
+# Image is beyond 2F
 
 real, inverted
 
-## larger B l●Magnifying glass
+larger B l●Magnifying glass
 
 Figure 31.
 
-## 5b Object at 2F
+5b Object at 2F
 
 The apparent size of an object depends on its actual
 
 A size and on its distance from the eye.
 
-## The sleepers
+# The sleepers
 
 on a railway track are all the same length but those
 
 nearby seem longer.
 
-## This is because they enclose
+# This is because they enclose
 
-## O F 2F
+# O F 2F
 
 a larger angle at your eye than more distant ones
 
-## 2F F C I
+2F F C I
 
-### their image on the retina is larger
+their image on the retina is larger
 
-## so making them
+so making them
 
-## image
+image
 
 appear bigger.
 
-## Image is at 2F
+# Image is at 2F
 
 real, inverted
 
-## same size
+same size
 
 Figure 31.
 
-## 5c Object between 2F and F
+5c Object between 2F and F
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_03.
 
 indd 131 20/06/14 7:41 AM
 
-## 31 lenses
+31 lenses
 
-### A converging lens gives an enlarged
+# A converging lens gives an enlarged
 
 upright The average adult eye can focus objects comfortably
 
@@ -19738,15 +19738,15 @@ Your near point may be less than 25 cm;
 
 magnifying glass since the angle β made at the eye it gets further away with age.
 
-## by the image
+by the image
 
-### formed at the near point (see next
+formed at the near point (see next
 
-## a) Short sight
+a) Short sight
 
-## section)
+section)
 
-### is greater than the angle α made by the
+is greater than the angle α made by the
 
 object when it is viewed directly at the near point A short-sighted person sees near objects
 
@@ -19758,61 +19758,61 @@ clearly but distant objects appear blurred.
 
 The image of a distant object is formed in
 
-## converging lens
+converging lens
 
 front of the retina because the eyeball is too
 
 long or because the eye lens cannot be made
 
-## image
+image
 
 thin enough (Figure 31.
 
 8a).
 
-## The problem
+# The problem
 
-## object
+object
 
 is corrected by a diverging spectacle lens (or
 
 contact lens) which diverges the light before it
 
-## F F enters the eye
+# F F enters the eye
 
-### to give an image on the retina
+to give an image on the retina
 
 (Figure 31.
 
 8b).
 
-## a from point I
+a from point I
 
-## on distant
+on distant
 
-## object
+object
 
-## object α
+object α
 
 Figure 31.
 
-### 6 Magnification by a converging lens
+6 Magnification by a converging lens
 
-## angle β is larger than
+angle β is larger than
 
-## angle α
+angle α
 
 The fatter (more curved) a converging lens is
 
 shorter its focal length and the more it magnifies.
 
-## Too much curvature
+# Too much curvature
 
-## however
+however
 
 distorts the image.
 
-## l●Spectacles
+l●Spectacles
 
 From the ray diagrams shown in Figure 31.
 
@@ -19824,13 +19824,13 @@ Figure 31.
 
 the eye will form a real inverted image on the retina
 
-## b) Long sight
+b) Long sight
 
 as shown in Figure 31.
 
-## Since an object normally
+# Since an object normally
 
-## appears upright
+appears upright
 
 the brain must invert the image.
 
@@ -19838,9 +19838,9 @@ A long-sighted person sees distant objects clearly
 
 but close objects appear blurred.
 
-## The image of a
+# The image of a
 
-## eye
+eye
 
 near object is focused behind the retina because the
 
@@ -19850,29 +19850,29 @@ be made thick enough (Figure 31.
 
 9a).
 
-## A converging
+# A converging
 
-## retina of eye
+retina of eye
 
 spectacle lens (or contact lens) corrects the problem
 
-## inverted
+inverted
 
 object (Figure 31.
 
 9b).
 
-## image
+image
 
 Figure 31.
 
-### 7 Inverted image on the retina
+7 Inverted image on the retina
 
 9781444176421_Section_03.
 
 indd 132 20/06/14 7:41 AM
 
-## spectacles
+spectacles
 
 b Copy the diagrams and complete them to show the
 
@@ -19880,93 +19880,93 @@ path of the light after passing through the lens.
 
 c Figure 31.
 
-### 11 shows an object AB 6 cm high placed
+11 shows an object AB 6 cm high placed
 
-### 18 cm in front of a lens of focal length 6 cm.
+18 cm in front of a lens of focal length 6 cm.
 
-## Draw the
+# Draw the
 
-## near diagram to scale and
+near diagram to scale and
 
-### by tracing the paths of rays from
+by tracing the paths of rays from
 
-## object A
+object A
 
 fi nd the position and size of the image formed.
 
-## focus
+focus
 
-## 18 cm 6 cm
+18 cm 6 cm
 
 Figure 31.
 
 3 Where must the object be placed for the image formed by
 
-## a converging lens to be
+a converging lens to be
 
 Figure 31.
 
 9 Long sight and its correction by a converging lens a real
 
-### inverted and smaller than the object
+inverted and smaller than the object
 
-## b real
+b real
 
-### inverted and same size as the object
+inverted and same size as the object
 
-## c real
+c real
 
-### inverted and larger than the object
+inverted and larger than the object
 
-## d virtual
+d virtual
 
 upright and larger than the object?
 
-## 4 Figure 31.
+4 Figure 31.
 
-### 12 shows a camera focused on an object in the
+12 shows a camera focused on an object in the
 
-## Questions
+# Questions
 
 middle distance.
 
-### Should the lens be moved towards or
+# Should the lens be moved towards or
 
 1 A small torch bulb is placed at the focal point of a away from the fi lm so that the image of a more distant
 
 converging lens.
 
-## When the bulb is switched on
+# When the bulb is switched on
 
 does the object is in focus?
 
-## lens produce a convergent
+lens produce a convergent
 
-## divergent or parallel beam of
+divergent or parallel beam of
 
 light?
 
-### 2 a What kind of lens is shown in Figure 31.10?
+2 a What kind of lens is shown in Figure 31.10?
 
-## film
+film
 
 principal Figure 31.
 
-## axis
+axis
 
-## focus focus
+focus focus
 
-### 5 a Three converging lenses are available
+5 a Three converging lenses are available
 
-## having focal
+having focal
 
-## lengths of 4 cm
+lengths of 4 cm
 
-## 40 cm and 4 m
+40 cm and 4 m
 
 respectively.
 
-## Which one
+# Which one
 
 would you choose as a magnifying glass?
 
@@ -19978,27 +19978,27 @@ The object is 4 cm from the lens.
 
 By means of a ray diagram fi nd the position
 
-## nature and
+nature and
 
 magnifi cation of the image.
 
-### 6 An object is placed 10 cm in front of a lens
+6 An object is placed 10 cm in front of a lens
 
 A; the details
 
 of the image are given below.
 
-## The process is repeated for a
+# The process is repeated for a
 
 different lens, B.
 
-## Lens A Real
+# Lens A Real
 
-## inverted
+inverted
 
 magnifi ed and at a great distance.
 
-## Lens B Real
+# Lens B Real
 
 inverted and same size as the object.
 
@@ -20012,9 +20012,9 @@ Figure 31.
 
 indd 133 20/06/14 7:41 AM
 
-## 31 lenses
+31 lenses
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -20026,11 +20026,11 @@ number of small prisms,
 
 a beam of parallel rays,
 
-### • recall the meaning of optical centre
+• recall the meaning of optical centre
 
-## principal axis
+principal axis
 
-## principal
+principal
 
 focus and focal length,
 
@@ -20056,49 +20056,49 @@ by a single lens,
 
 indd 134 20/06/14 7:41 AM
 
-## Electromagnetic radiation
+# Electromagnetic radiation
 
-## l Properties l Radio waves
+l Properties l Radio waves
 
-## l Light waves l X-rays
+l Light waves l X-rays
 
-### l Infrared radiation l Practical work
+l Infrared radiation l Practical work
 
-## Wave nature of microwaves
+# Wave nature of microwaves
 
-## l Ultraviolet radiation
+l Ultraviolet radiation
 
-### frequency increases frequency decreases
+frequency increases frequency decreases
 
-## light
+light
 
-### gamma X-rays ultra- infra- radiowaves
+gamma X-rays ultra- infra- radiowaves
 
-### rays violet red (microwaves TV radio)
+rays violet red (microwaves TV radio)
 
-## typical
+typical
 
 wavelength: 0.
 
-## 01 nm 1 nm 0.
+01 nm 1 nm 0.
 
-## 1 0.
+1 0.
 
-## 4 0.
+4 0.
 
-## 7 0.
+7 0.
 
-## 01 mm 1 cm 1 m 1 km
+01 mm 1 cm 1 m 1 km
 
-## µm µm µm
+µm µm µm
 
 wavelength decreases wavelength increases
 
-## 1 nm = 10–9 m
+1 nm = 10–9 m
 
-## 1 µm = 10–6 m
+1 µm = 10–6 m
 
-## source
+source
 
 radioactive X-ray mercury Sun electric microwave transmitting TV
 
@@ -20114,21 +20114,21 @@ radiation which forms a continuous spectrum ejected from metal surfaces when ele
 
 beyond both ends of the visible (light) spectrum waves fall on them.
 
-## As the frequency of the waves
+# As the frequency of the waves
 
 (Figure 32.
 
 While each type of radiation has a increases so too does the speed (and energy) with
 
-## different source
+different source
 
 all result from electrons in atoms which electrons are emitted.
 
 undergoing an energy change and all have certain
 
-### Because of its electrical origin
+# Because of its electrical origin
 
-## its ability to travel
+its ability to travel
 
 properties in common.
 
@@ -20136,75 +20136,75 @@ in a vacuum (e.g. from the Sun to the Earth)
 
 and its wave-like properties (i.e. point 2 above)
 
-## l●Properties
+l●Properties
 
 electromagnetic radiation is regarded as a progressive
 
 transverse wave.
 
-## The wave is a combination of
+# The wave is a combination of
 
 1 All types of electromagnetic radiation travel travelling electric and magnetic fields.
 
-## The fields vary
+# The fields vary
 
 through a vacuum at 300 000 km/s in value and are directed at right angles to each other
 
-## (3 × 108 m/s)
+(3 × 108 m/s)
 
 i.e. with the speed of light.
 
 and to the direction of travel of the wave
 
-## as shown
+as shown
 
-## 2 They exhibit interference
+2 They exhibit interference
 
 diffraction and by the representation in Figure 32.
 
-## polarisation
+polarisation
 
-### which suggests they have a transverse
+which suggests they have a transverse
 
 wave nature.
 
-## magnetic field
+magnetic field
 
-## 3 They obey the wave equation
+3 They obey the wave equation
 
-## v = f λ
+v = f λ
 
-## where v is the
+where v is the
 
-## speed of light
+speed of light
 
-### f is the frequency of the waves and λ
+f is the frequency of the waves and λ
 
 is the wavelength.
 
-### Since v is constant for a particular
+# Since v is constant for a particular
 
-## medium
+medium
 
 it follows that large f means small λ.
 
-### 4 They carry energy from one place to another
+4 They carry energy from one place to another
 
 and can be absorbed by matter to cause heating
 
 and other effects.
 
-## The higher the frequency and
+# The higher the frequency and
 
-## electric field
+electric field
 
 the smaller the wavelength of the radiation
 
-## the direction
+the direction
 
-## of travel
+of travel
 
-## greater is the energy carried
+greater is the energy carried
 
 i.e. gamma rays are
 
@@ -20212,33 +20212,33 @@ more ‘energetic’ than radio waves.
 
 This is shown Figure 32.
 
-## 2 An electromagnetic wave
+2 An electromagnetic wave
 
 9781444176421_Section_03.
 
 indd 135 20/06/14 7:41 AM
 
-## 32 electroMagnetic radiation
+32 electroMagnetic radiation
 
-## l●Light waves
+l●Light waves
 
-### Red light has the longest wavelength
+# Red light has the longest wavelength
 
-## which is about
+which is about
 
-## 0007 mm (7 × 10−7 m = 0.
+0007 mm (7 × 10−7 m = 0.
 
-## 7 µm), while violet light
+7 µm), while violet light
 
 has the shortest wavelength of about 0.
 
-## 0004 mm
+0004 mm
 
 (4 × 10−7 m = 0.
 
-## 4 µm).
+4 µm).
 
-## Colours between these in the
+# Colours between these in the
 
 spectrum of white light have intermediate values.
 
@@ -20252,17 +20252,17 @@ follows that red light has a lower frequency
 
 f, than
 
-### violet light since (i) the wavelength
+violet light since (i) the wavelength
 
 λ, of red light
 
-## is greater
+is greater
 
 and (ii) all colours travel with the same
 
 speed, v
 
-### of 3 × 108 m/s in air (strictly
+of 3 × 108 m/s in air (strictly
 
 in a vacuum).
 
@@ -20270,7 +20270,7 @@ It is the frequency of light which decides its colour
 
 rather than its wavelength which is different in
 
-## different media
+different media
 
 as is the speed (Chapter 29).
 
@@ -20278,15 +20278,15 @@ Different frequencies of light travel at different
 
 Figure 32.
 
-### 3 Infrared aerial photograph of Washington DC
+3 Infrared aerial photograph of Washington DC
 
 speeds through a transparent medium and so
 
 are refracted by different amounts.
 
-## This explains
+# This explains
 
-## dispersion (Chapter 29)
+dispersion (Chapter 29)
 
 in other word why the l●Ultraviolet radiation
 
@@ -20298,7 +20298,7 @@ Ultraviolet (UV) rays have shorter wavelengths
 
 The amplitude of a light (or any other) wave is than light.
 
-### They cause sun tan and produce
+# They cause sun tan and produce
 
 greater the higher the intensity of the source
 
@@ -20308,13 +20308,13 @@ case of light the greater the intensity the brighter it is.
 
 causing skin cancer.
 
-## Dark skin is able to absorb
+# Dark skin is able to absorb
 
 more UV, so reducing the amount reaching
 
 l●Infrared radiation deeper tissues.
 
-### Exposure to the harmful UV rays
+# Exposure to the harmful UV rays
 
 present in sunlight can be reduced by wearing
 
@@ -20328,17 +20328,17 @@ It is sometimes called sunscreen lotion.
 
 Ultraviolet causes fluorescent paints and clothes
 
-### Anything which is hot but not glowing
+# Anything which is hot but not glowing
 
 i.e. below washed in some detergents to fluoresce (Figure 32.
 
-## 500 °C, emits IR alone.
+500 °C, emits IR alone.
 
 At about 500 °C a body They glow by re-radiating as light the energy they
 
 becomes red hot and emits red light as well as absorb as UV.
 
-### This effect may be used to verify
+# This effect may be used to verify
 
 IR – the heating element of an electric fire
 
@@ -20350,7 +20350,7 @@ At about 1500 °C, things such
 
 as lamp filaments are white hot and radiate IR and
 
-## white light
+white light
 
 i.e. all the colours of the visible spectrum.
 
@@ -20360,7 +20360,7 @@ sensitive photographic films which allow pictures
 
 to be taken in the dark.
 
-## Infrared sensors are used
+# Infrared sensors are used
 
 on satellites and aircraft for weather forecasting
 
@@ -20368,9 +20368,9 @@ monitoring of land use (Figure 32.
 
 3), assessing heat
 
-## loss from buildings
+loss from buildings
 
-## intruder alarms and locating
+intruder alarms and locating
 
 victims of earthquakes.
 
@@ -20384,41 +20384,41 @@ The remote control for an electronic device
 
 contains a small infrared transmitter to send signals to
 
-## the device
+the device
 
 such as a television or DVD player.
 
 Figure 32.
 
-### 4 White clothes fluorescing in a club
+4 White clothes fluorescing in a club
 
 9781444176421_Section_03.
 
 indd 136 20/06/14 7:42 AM
 
-## radio waves
+radio waves
 
-### b) VHF (very high frequency) and
+b) VHF (very high frequency) and
 
-### UHF (ultra high frequency) waves
+UHF (ultra high frequency) waves
 
-### (wavelengths of 10 m to 10 cm)
+(wavelengths of 10 m to 10 cm)
 
 These shorter wavelength radio waves need a clear
 
 straight-line path to the receiver.
 
-## They are not
+# They are not
 
 reflected by the ionosphere.
 
-## They are used for local
+# They are used for local
 
 radio and for television.
 
-## c) Microwaves (wavelengths of
+c) Microwaves (wavelengths of
 
-## a few cm)
+a few cm)
 
 These are used for international telecommunications
 
@@ -20428,11 +20428,11 @@ mobile phone networks via microwave aerial towers
 
 and low-orbit satellites (Chapter 9).
 
-## The microwave
+# The microwave
 
 signals are transmitted through the ionosphere by dish
 
-## aerials
+aerials
 
 amplified by the satellite and sent back to a
 
@@ -20440,7 +20440,7 @@ dish aerial in another part of the world.
 
 Microwaves are also used for radar detection of
 
-## ships and aircraft
+ships and aircraft
 
 and in police speed traps.
 
@@ -20450,9 +20450,9 @@ water molecules in the moisture of the food to vibrate
 
 vigorously at the frequency of the microwaves.
 
-## As a
+# As a
 
-## result
+result
 
 heating occurs inside the food which cooks itself.
 
@@ -20462,31 +20462,31 @@ produced when microwaves are absorbed by water
 
 in the cells.
 
-### There is some debate at present as to
+# There is some debate at present as to
 
 whether their use in mobile phones is harmful
 
-## ‘hands-free’ mode
+‘hands-free’ mode
 
-### where separate earphones are used
+where separate earphones are used
 
 may be safer.
 
-## Practical work
+# Practical work
 
-## Wave nature of microwaves
+# Wave nature of microwaves
 
 The 3 cm microwave transmitter and receiver shown in
 
 Figure 32.
 
-## 6 can be used.
+6 can be used.
 
 The three metal plates can be set up for
 
 double-slit interference with ‘slits’ about 3 cm wide
 
-## the reading
+the reading
 
 on the meter connected to the horn receiver rises and falls as it is
 
@@ -20498,25 +20498,25 @@ plates to form a single slit.
 
 If the grid of vertical metal wires is placed in front of the
 
-## transmitter
+transmitter
 
 the signal is absorbed but transmission occurs
 
-## when the wires are horizontal
+when the wires are horizontal
 
-## showing that the microwaves
+showing that the microwaves
 
 are vertically polarised.
 
-### This can also be shown by rotating the
+# This can also be shown by rotating the
 
 receiver through 90° in a vertical plane from the maximum signal
 
-## position
+position
 
 when the signal decreases to a minimum.
 
-## ▲ ▲
+▲ ▲
 
 A UV lamp used for scientific or medical
 
@@ -20524,7 +20524,7 @@ purposes contains mercury vapour and this
 
 emits UV when an electric current passes through
 
-### Fluorescent tubes also contain mercury
+# Fluorescent tubes also contain mercury
 
 vapour and their inner surfaces are coated
 
@@ -20532,25 +20532,25 @@ with special powders called phosphors which
 
 radiate light.
 
-## l●Radio waves
+l●Radio waves
 
 Radio waves have the longest wavelengths in the
 
 electromagnetic spectrum.
 
-## They are radiated from
+# They are radiated from
 
-### aerials and used to ‘carry’ sound
+aerials and used to ‘carry’ sound
 
-## pictures and other
+pictures and other
 
 information over long distances.
 
 a) Long, medium and
 
-### short waves (wavelengths of 2 km
+short waves (wavelengths of 2 km
 
-## to 10 m)
+to 10 m)
 
 These diffract round obstacles so can be
 
@@ -20560,25 +20560,25 @@ received even when hills are in their way
 
 5a).
 
-### They are also reflected by layers
+# They are also reflected by layers
 
 of electrically charged particles in the upper
 
 atmosphere (the ionosphere), which makes
 
-### long-distance radio reception possible
+long-distance radio reception possible
 
 (Figure 32.
 
 5b).
 
-## a Diffraction of radio waves
+a Diffraction of radio waves
 
-## ionosphere
+ionosphere
 
-## transmitter receiver
+transmitter receiver
 
-## b Reflection of radio waves
+b Reflection of radio waves
 
 Figure 32.
 
@@ -20586,25 +20586,25 @@ Figure 32.
 
 indd 137 20/06/14 7:42 AM
 
-## 32 electroMagnetic radiation
+32 electroMagnetic radiation
 
 Figure 32.
 
-## l●X-rays
+l●X-rays
 
 Figure 32.
 
-### 7 X-rays cannot penetrate bone and metal.
+7 X-rays cannot penetrate bone and metal.
 
 These are produced when high-speed electrons are
 
 stopped by a metal target in an X-ray tube.
 
-## X-rays
+# X-rays
 
 have smaller wavelengths than UV.
 
-## Questions
+# Questions
 
 They are absorbed to some extent by living cells 1 Give the approximate wavelength in micrometres (µm) of
 
@@ -20612,53 +20612,53 @@ but can penetrate some solid objects and affect a red light
 
 a photographic fi lm.
 
-## With materials like bones
+# With materials like bones
 
 b violet light.
 
-### 2 Which of the following types of radiation has
+2 Which of the following types of radiation has
 
 teeth and metals which they do not pass through
 
 a the longest wavelength,
 
-## easily
+easily
 
-## shadow pictures can be taken
+shadow pictures can be taken
 
-## like that in
+like that in
 
 b the highest frequency?
 
 Figure 32.
 
-### 7 of a hand on an alarm clock.
+7 of a hand on an alarm clock.
 
-## They
+# They
 
-## A UV
+# A UV
 
 are widely used in dentistry and in medicine
 
-## for B radio waves
+for B radio waves
 
 example to detect broken bones.
 
-## X-rays are also C light
+# X-rays are also C light
 
 used in security machines at airports for scanning D X-rays
 
-## E IR
+# E IR
 
-## luggage
+luggage
 
-## some body scanners
+some body scanners
 
-## now being introduced
+now being introduced
 
 3 Name one type of electromagnetic radiation which
 
-## to screen passengers
+to screen passengers
 
 use very low doses of X-rays.
 
@@ -20698,11 +20698,11 @@ surgical instruments.
 
 indd 138 20/06/14 7:42 AM
 
-## X-rays
+# X-rays
 
-### 5 In the diagram in Figure 32.
+5 In the diagram in Figure 32.
 
-### 8 light waves are incident on an
+8 light waves are incident on an
 
 air–glass boundary.
 
@@ -20716,21 +20716,21 @@ wave and the refracted wave inside the glass.
 
 Which?
 
-## A speed
+# A speed
 
-## B wavelength
+# B wavelength
 
-## C direction
+# C direction
 
-## D brightness
+# D brightness
 
-## E frequency
+# E frequency
 
-## air glass
+air glass
 
 Figure 32.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -20742,7 +20742,7 @@ space and are progressive transverse waves
 
 • recall that the colour of light depends on its frequency
 
-## that
+that
 
 red light has a lower frequency (but longer wavelength)
 
@@ -20754,7 +20754,7 @@ in air,
 
 • distinguish between infrared radiation
 
-## ultraviolet radiation
+ultraviolet radiation
 
 radio waves and X-rays in terms of their wavelengths
 
@@ -20770,27 +20770,27 @@ be reduced.
 
 indd 139 20/06/14 7:42 AM
 
-## Sound waves
+# Sound waves
 
 l Origin and transmission of sound l Musical notes
 
-### l Longitudinal waves l Ultrasonics
+l Longitudinal waves l Ultrasonics
 
-### l Reflection and echoes l Seismic waves
+l Reflection and echoes l Seismic waves
 
-### l Speed of sound l Practical work
+l Speed of sound l Practical work
 
-## Speed of sound in air
+# Speed of sound in air
 
-## l Limits of audibility
+l Limits of audibility
 
 l●Origin and transmission Sound also gives interference and diffraction effects.
 
 Because of this and its other properties
 
-## we believe it
+we believe it
 
-## of sound
+of sound
 
 is a form of energy (as the damage from supersonic
 
@@ -20806,17 +20806,17 @@ guitar has strings (Figure 33.
 
 skin and the human voice has vocal cords.
 
-## The sound
+# The sound
 
 travels through the air to our ears and we hear it.
 
-## That l●Longitudinal waves
+That l●Longitudinal waves
 
 the air is necessary may be shown by pumping the
 
 air out of a glass jar containing a ringing electric bell
 
-## a) Waves on a spring
+a) Waves on a spring
 
 (Figure 33.
 
@@ -20828,11 +20828,11 @@ Evidently sound In a progressive longitudinal wave the particles of
 
 cannot travel in a vacuum as light can.
 
-## Other materials
+# Other materials
 
 the transmitting medium vibrate to and fro along
 
-## including solids and liquids
+including solids and liquids
 
 transmit sound.
 
@@ -20848,7 +20848,7 @@ the free end is repeatedly pushed and pulled sharply
 
 as shown in Figure 33.
 
-## Compressions C (where
+Compressions C (where
 
 the coils are closer together) and rarefactions
 
@@ -20856,89 +20856,89 @@ R (where the coils are further apart) travel along
 
 the spring.
 
-## C R C R C
+# C R C R C
 
-## wave
+wave
 
-## fixed end
+fixed end
 
 Figure 33.
 
-## 1 A guitar string vibrating.
+1 A guitar string vibrating.
 
-## The sound waves produced are
+# The sound waves produced are
 
 amplified when they pass through the circular hole into the guitar’s
 
 Figure 33.
 
-## 3 A longitudinal wave
+3 A longitudinal wave
 
 sound box.
 
-## b) Sound waves
+b) Sound waves
 
 A sound wave, produced for example by a
 
-## glass jar
+glass jar
 
-## loudspeaker
+loudspeaker
 
-### consists of a train of compressions
+consists of a train of compressions
 
-## ringing electric
+ringing electric
 
 bell (‘squashes’) and rarefactions (‘stretches’) in the air
 
 (Figure 33.
 
-## sponge pad
+sponge pad
 
 The speaker has a cone which is made to vibrate
 
 in and out by an electric current.
 
-## When the cone
+# When the cone
 
-## moves out
+moves out
 
-### the air in front is compressed
+the air in front is compressed
 
-## when it
+when it
 
-## to
+to
 
-## battery moves in
+battery moves in
 
 the air is rarefied (goes ‘thinner’).
 
 wave progresses through the air but the air as a whole
 
-## to vacuum pump
+to vacuum pump
 
 does not move.
 
-### The air particles (molecules) vibrate
+The air particles (molecules) vibrate
 
 Figure 33.
 
-### 2 Sound cannot travel through a vacuum
+2 Sound cannot travel through a vacuum
 
 9781444176421_Section_03.
 
 indd 140 20/06/14 7:43 AM
 
-## limits of audibility
+limits of audibility
 
 In air the speed increases with temperature and
 
-## at high altitudes
+at high altitudes
 
-### where the temperature is lower
+where the temperature is lower
 
 it is less than at sea level.
 
-## Changes of atmospheric
+# Changes of atmospheric
 
 pressure do not affect it.
 
@@ -20948,7 +20948,7 @@ directly if you stand about 100 metres from a high
 
 wall or building and clap your hands.
 
-## Echoes are
+# Echoes are
 
 produced.
 
@@ -20958,25 +20958,25 @@ clap coincides with the echo of the previous one
 
 the sound has travelled to the wall and back in the
 
-## time between two claps
+time between two claps
 
 i.e. one interval.
 
-## By timing
+# By timing
 
-### 30 intervals with a stopwatch, the time t for one
+30 intervals with a stopwatch, the time t for one
 
 interval can be found.
 
 Also, knowing the distance
 
-## d to the wall
+d to the wall
 
-### a rough value is obtained from
+a rough value is obtained from
 
-## 2d
+2d
 
-## speed of sound in air =
+speed of sound in air =
 
 The speed of sound in air can be found directly by
 
@@ -20984,37 +20984,37 @@ measuring the time t taken for a sound to travel past
 
 two microphones separated by a distance d
 
-### distance travelled by the sound
+distance travelled by the sound
 
-## speed of sound in air =
+speed of sound in air =
 
-## time taken
+time taken
 
-## l●Limits of audibility
+l●Limits of audibility
 
 Humans hear only sounds with frequencies from
 
 about 20 Hz to 20 000 Hz.
 
-## These are the limits of
+# These are the limits of
 
-## audibility
+audibility
 
 the upper limit decreases with age.
 
-## Practical work
+# Practical work
 
-## Speed of sound in air
+# Speed of sound in air
 
-### Set two microphones about a metre apart
+# Set two microphones about a metre apart
 
-## and attach one to the
+and attach one to the
 
 ‘start’ terminal and the other to the ‘stop’ terminal of a digital
 
 timer, as shown in Figure 33.
 
-### The timer should have millisecond
+# The timer should have millisecond
 
 accuracy.
 
@@ -21022,19 +21022,19 @@ Measure and record the distance d between the centres
 
 of the microphones with a metre ruler.
 
-## With the small hammer
+# With the small hammer
 
 and metal plate to one side of the ‘start’ microphone
 
-## produce
+produce
 
 a sharp sound.
 
 When the sound reaches the ‘start’ microphone
 
-## the timer should start
+the timer should start
 
-### when it reaches the ‘stop’ microphone
+when it reaches the ‘stop’ microphone
 
 the timer should stop.
 
@@ -21042,9 +21042,9 @@ The time displayed is then the time taken
 
 for the sound to travel the distance d.
 
-## Record the time and then
+# Record the time and then
 
-## reset the timer
+reset the timer
 
 repeat the experiment a few times and work out
 
@@ -21052,25 +21052,25 @@ an average value for t.
 
 Calculate the speed of sound in air from d/t.
 
-## How does your
+# How does your
 
 value compare with that given in Table 33.
 
-## ▲ ▲
+▲ ▲
 
 backwards and forwards a little as the wave passes.
 
 When the wave enters your ear the compressions
 
-## and rarefactions cause small
+and rarefactions cause small
 
-## rapid pressure changes
+rapid pressure changes
 
 on the eardrum and you experience the sensation of
 
 sound.
 
-### The number of compressions produced per
+# The number of compressions produced per
 
 second is the frequency f of the sound wave (and
 
@@ -21084,89 +21084,89 @@ As with transverse waves, the
 
 speed, v, = f λ.
 
-## C R C R C
+# C R C R C
 
-## wave
+wave
 
-## loudspeaker
+loudspeaker
 
-## cone
+cone
 
 Figure 33.
 
-### 4 Sound travels as a longitudinal wave.
+4 Sound travels as a longitudinal wave.
 
-## l●Reflection and echoes
+l●Reflection and echoes
 
 Sound waves are reflected well from hard
 
-## flat
+flat
 
 surfaces such as walls or cliffs and obey the same
 
 laws of reflection as light.
 
-## The reflected sound forms
+# The reflected sound forms
 
 an echo.
 
 If the reflecting surface is nearer than 15 m from
 
-## the source of sound
+the source of sound
 
-## the echo joins up with the
+the echo joins up with the
 
 original sound which then seems to be prolonged.
 
 This is called reverberation.
 
-## Some is desirable in a
+# Some is desirable in a
 
-### concert hall to stop it sounding ‘dead’
+concert hall to stop it sounding ‘dead’
 
-## but too much
+but too much
 
 causes ‘confusion’.
 
-### Modern concert halls are designed
+# Modern concert halls are designed
 
 for the optimal amount of reverberation.
 
-## Seats and
+# Seats and
 
 some wall surfaces are covered with sound-absorbing
 
 material.
 
-## l●Speed of sound
+l●Speed of sound
 
 The speed of sound depends on the material
 
 through which it is passing.
 
-## It is greater in solids than
+# It is greater in solids than
 
 in liquids or gases because the molecules in a solid are
 
 closer together than in a liquid or a gas.
 
-## Some values
+# Some values
 
 are given in Table 33.
 
 Table 33.
 
-### 1 Speed of sound in different materials
+1 Speed of sound in different materials
 
 Material air (0 °C) water concrete steel
 
-## Speed/m/s 330 1400 5000 6000
+Speed/m/s 330 1400 5000 6000
 
 9781444176421_Section_03.
 
 indd 141 20/06/14 7:43 AM
 
-## 33 sound Waves
+33 sound Waves
 
 digital timer A set of tuning forks with frequencies marked on
 
@@ -21178,35 +21178,35 @@ has two steel prongs which vibrate when struck
 
 ‘start’ ‘stop’ the prongs move in and out together
 
-## generating
+generating
 
 microphone microphone compressions and rarefactions.
 
-## sharp
+sharp
 
-## prong
+prong
 
-## sound direction of sound
+sound direction of sound
 
-## stem
-
-Figure 33.
-
-### 5 Measuring the speed of sound
+stem
 
 Figure 33.
 
-## 7 A tuning fork
+5 Measuring the speed of sound
 
-## b) Loudness
+Figure 33.
 
-## l●Musical notes
+7 A tuning fork
 
-### A note becomes louder when more sound
+b) Loudness
+
+l●Musical notes
+
+# A note becomes louder when more sound
 
 Irregular vibrations such as those of motor engines energy enters our ears per second than before.
 
-## cause noise
+cause noise
 
 regular vibrations such as occur in the This will happen when the source is vibrating with
 
@@ -21214,11 +21214,11 @@ instruments of a brass band (Figure 33.
 
 6), produce a larger amplitude.
 
-### If a violin string is bowed more
+# If a violin string is bowed more
 
 musical notes which have three properties – pitch
 
-## strongly
+strongly
 
 its amplitude of vibration increases as does
 
@@ -21230,13 +21230,13 @@ is louder because more energy has been used to
 
 produce it.
 
-## c) Quality
+c) Quality
 
 The same note on different instruments sounds
 
-## different
+different
 
-### we say the notes differ in quality or
+we say the notes differ in quality or
 
 timbre.
 
@@ -21246,15 +21246,15 @@ The difference arises because no instrument
 
 a ‘pure’ note, i.e. of one frequency.
 
-## Notes consist
+# Notes consist
 
 of a main or fundamental frequency mixed with
 
-## others
+others
 
-## called overtones
+called overtones
 
-## which are usually weaker
+which are usually weaker
 
 Figure 33.
 
@@ -21264,21 +21264,21 @@ and have frequencies that are exact multiples of
 
 the fundamental.
 
-### The number and strength of the
+# The number and strength of the
 
-## a) Pitch
+a) Pitch
 
 overtones decides the quality of a note.
 
-## A violin has
+# A violin has
 
 The pitch of a note depends on the frequency of the more and stronger higher overtones than a piano.
 
-## sound wave reaching the ear
+sound wave reaching the ear
 
 i.e. on the frequency of Overtones of 256 Hz (middle C) are 512 Hz
 
-## 768 Hz
+768 Hz
 
 the source of sound.
 
@@ -21298,11 +21298,11 @@ if the frequency of one is twice that of the other.
 
 Those for the same note on three instruments are
 
-## Pitch is like colour in light
+# Pitch is like colour in light
 
 both depend on the shown in Figure 33.
 
-## Their different shapes show
+# Their different shapes show
 
 frequency.
 
@@ -21310,7 +21310,7 @@ that while they have the same fundamental frequency
 
 Notes of known frequency can be produced in the their quality differs.
 
-## The ‘pure’ note of a tuning
+The ‘pure’ note of a tuning
 
 laboratory by a signal generator supplying alternating fork has a sine waveform and is the simplest kind of
 
@@ -21326,7 +21326,7 @@ which Note Although the waveform on the CRO screen
 
 can be varied and read off a scale on the generator.
 
-## is transverse
+is transverse
 
 it represents a longitudinal sound wave.
 
@@ -21334,37 +21334,37 @@ it represents a longitudinal sound wave.
 
 indd 142 20/06/14 7:43 AM
 
-## ultrasonics
+ultrasonics
 
-## tuning fork (sine wave) piano
+tuning fork (sine wave) piano
 
-## transmitter receiver
+transmitter receiver
 
-## violin
+violin
 
 Figure 33.
 
 8 Notes of the same frequency (pitch) but different quality
 
-## ultrasonic
+ultrasonic
 
-## waves
+waves
 
-## l●Ultrasonics
+l●Ultrasonics
 
 Sound waves with frequencies above 20 kHz Figure 33.
 
-## 9 A ship using sonar
+9 A ship using sonar
 
-## are called ultrasonic waves
+are called ultrasonic waves
 
-## their frequency is
+their frequency is
 
 too high to be detected by the human ear but
 
-## In medical ultrasound imaging
+# In medical ultrasound imaging
 
-## used in antenatal
+used in antenatal
 
 they can be detected electronically and displayed
 
@@ -21372,13 +21372,13 @@ clinics to monitor the health and sometimes to
 
 on a CRO.
 
-### determine the sex of an unborn baby
+determine the sex of an unborn baby
 
-## an ultrasonic
+an ultrasonic
 
 transmitter/receiver is scanned over the mother’s
 
-## a) Quartz crystal oscillators
+a) Quartz crystal oscillators
 
 abdomen and a detailed image of the fetus is built
 
@@ -21388,23 +21388,23 @@ up (Figure 33.
 
 10).
 
-## Reflection of the ultrasonic
+# Reflection of the ultrasonic
 
 which is made to vibrate electrically at the required
 
 pulses occurs from boundaries of soft tissue
 
-## frequency
+frequency
 
 they are emitted in a narrow beam in the
 
-## addition to bone
+addition to bone
 
-## so images can be obtained of
+so images can be obtained of
 
 direction in which the crystal oscillates.
 
-## An ultrasonic
+# An ultrasonic
 
 internal organs that cannot be seen by using X-rays.
 
@@ -21412,47 +21412,47 @@ receiver also consists of a quartz crystal but it
 
 Less detail of bone structure is seen than with
 
-## works in reverse
+works in reverse
 
 i.e. when it is set into vibration
 
-## X-rays
+# X-rays
 
 as the wavelength of ultrasonic waves is
 
 by ultrasonic waves it generates an electrical signal
 
-## larger
+larger
 
-## typically about 1 mm
+typically about 1 mm
 
-## but ultrasound has no
+but ultrasound has no
 
 which is then amplified.
 
-## The same quartz crystal can
+# The same quartz crystal can
 
 harmful effects on human tissue.
 
 act as both a transmitter and a receiver.
 
-## b) Ultrasonic echo techniques
+b) Ultrasonic echo techniques
 
 Ultrasonic waves are partially or totally reflected
 
 from surfaces at which the density of the medium
 
-## changes
+changes
 
 this property is exploited in techniques such
 
 as the non-destructive testing of materials
 
-## sonar
+sonar
 
 and medical ultrasound imaging.
 
-## A bat emitting
+# A bat emitting
 
 ultrasonic waves can judge the distance of an object
 
@@ -21464,7 +21464,7 @@ Ships with sonar can determine the depth of a
 
 shoal of fish or the sea bed (Figure 33.
 
-## 9) in the same
+9) in the same
 
 way; motion sensors (Chapter 2) also work on this
 
@@ -21474,19 +21474,19 @@ Figure 33.
 
 10 Checking the development of a fetus using ultrasound
 
-## imaging
+imaging
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_03.
 
 indd 143 20/06/14 7:43 AM
 
-## 33 sound Waves
+33 sound Waves
 
-## c) Other uses
+c) Other uses
 
-## Questions
+# Questions
 
 Ultrasound can also be used in ultrasonic drills
 
@@ -21496,15 +21496,15 @@ to cut holes of any shape or size in hard materials clap of thunder
 
 how far away is the storm?
 
-## (Speed of
+(Speed of
 
 such as glass and steel.
 
-## Jewellery
+# Jewellery
 
 or more mundane sound = 330 m/s.
 
-### objects such as street lamp covers
+objects such as street lamp covers
 
 can be cleaned 2 a A girl stands 160 m away from a high wall and claps
 
@@ -21514,13 +21514,13 @@ by immersion in a tank of solvent which has an
 
 with the echo of the one before.
 
-## If her clapping rate is
+# If her clapping rate is
 
 ultrasonic vibrator in the base.
 
-## 60 per minute
+60 per minute
 
-### what value does this give for the speed
+what value does this give for the speed
 
 of sound?
 
@@ -21528,7 +21528,7 @@ b If she moves 40 m closer to the wall she fi nds the
 
 l●Seismic waves clapping rate has to be 80 per minute.
 
-## What value do
+# What value do
 
 these measurements give for the speed of sound?
 
@@ -21542,7 +21542,7 @@ of sound is the value you found in a?
 
 known as seismic waves.
 
-## These travel through the
+# These travel through the
 
 3 a What properties of sound suggest it is a wave motion?
 
@@ -21550,7 +21550,7 @@ Earth at speeds of up to 13 000 m/s.
 
 b How does a progressive transverse wave differ from a
 
-### When seismic waves pass under buildings
+# When seismic waves pass under buildings
 
 severe longitudinal one?
 
@@ -21560,11 +21560,11 @@ structural damage may occur.
 
 If the earthquake occurs 4 a Draw the waveform of
 
-## under the sea
+under the sea
 
 the seismic energy can be transmitted to (i) a loud
 
-## low-pitched note
+low-pitched note
 
 (ii) a soft, high-pitched note.
 
@@ -21574,13 +21574,13 @@ b If the speed of sound is 340 m/s what is the wavelength
 
 for very large distances across the ocean.
 
-## As a tsunami
+# As a tsunami
 
-## of a note of frequency
+of a note of frequency
 
-### wave approaches shallow coastal waters
+wave approaches shallow coastal waters
 
-## it slows down
+it slows down
 
 (i) 340 Hz,
 
@@ -21590,11 +21590,11 @@ which (ii) 170 Hz?
 
 can lead to massive coastal destruction.
 
-## This happened
+# This happened
 
 in Sri Lanka (see Figure 33.
 
-## 11) and Thailand after
+11) and Thailand after
 
 the great 2004 Sumatra–Andaman earthquake.
 
@@ -21604,9 +21604,9 @@ speed of travel and the distance from the epicentre of
 
 After studying this chapter you should be able to
 
-## the earthquake are known
+the earthquake are known
 
-## it took about 2 hours for
+it took about 2 hours for
 
 • recall that sound is produced by vibrations
 
@@ -21632,9 +21632,9 @@ If an early- • recall the limits of audibility (i.e. the range of frequencies)
 
 for the normal human ear,
 
-### warning system had been in place
+warning system had been in place
 
-## many lives could
+many lives could
 
 • explain echoes and reverberation,
 
@@ -21670,105 +21670,105 @@ sea, having caused utter devastation in coastal areas.
 
 indd 144 20/06/14 7:44 AM
 
-### Section Electricity and magnetism
+# Section Electricity and magnetism
 
-## Chapters 40 Electric power
+# Chapters 40 Electric power
 
-## 41 Electronic systems
+41 Electronic systems
 
-## Simple phenomena of magnetism
+# Simple phenomena of magnetism
 
-## 42 Digital electronics
+42 Digital electronics
 
-## 34 Magnetic fi elds
+34 Magnetic fi elds
 
-## Electromagnetic effects
+# Electromagnetic effects
 
 Electrical quantities and circuits 43 Generators
 
-### 35 Static electricity 44 Transformers
+35 Static electricity 44 Transformers
 
-### 36 Electric current 45 Electromagnets
+36 Electric current 45 Electromagnets
 
-### 37 Potential difference 46 Electric motors
+37 Potential difference 46 Electric motors
 
-### 38 Resistance 47 Electric meters
+38 Resistance 47 Electric meters
 
-## 39 Capacitors 48 Electrons
+39 Capacitors 48 Electrons
 
 9781444176421_Section_04.
 
 indd 145 20/06/14 7:38 AM
 
-## Magnetic fi elds
+# Magnetic fi elds
 
 ● Properties of magnets ● Earth’s magnetic fi eld
 
 ● Magnetisation of iron and steel ● Practical work
 
-## Plotting lines of force
+# Plotting lines of force
 
-## ● Magnetic fi elds
+● Magnetic fi elds
 
 ●●Properties of magnets When the same is done with the steel chain
 
-## does not collapse
+does not collapse
 
-## magnetism induced in steel is
+magnetism induced in steel is
 
 permanent.
 
-## a) Magnetic materials
+a) Magnetic materials
 
 Magnets attract strongly only certain materials such
 
-## as iron
+as iron
 
 steel, nickel and cobalt
 
-## which are called
+which are called
 
-## N S
+# N S
 
 ferro-magnetics.
 
-## S N
+# S N
 
-## b) Magnetic poles
+b) Magnetic poles
 
-## iron nails
+iron nails
 
-## N S
+# N S
 
 The poles are the places in a magnet to which
 
-## magnetic materials
+magnetic materials
 
-## such as iron fi lings
+such as iron fi lings
 
 are attracted.
 
-## S steel paper N
+# S steel paper N
 
 They are near the ends of a bar magnet and occur in clips
 
-## N S
+# N S
 
 pairs of equal strength.
 
-## S N
+# S N
 
-## c) North and south poles N S
+c) North and south poles N S
 
 If a magnet is supported so that it can swing in a S N
 
 horizontal plane it comes to rest with one pole
 
-## N S
+# N S
 
-## north-seeking or N pole
+north-seeking or N pole
 
-## always pointing roughly
+always pointing roughly
 
 towards the Earth’s north pole.
 
@@ -21780,13 +21780,13 @@ therefore be used as a compass.
 
 Magnetic materials such as iron that magnetise
 
-## d) Law of magnetic poles
+d) Law of magnetic poles
 
 easily but readily lose their magnetism (are easily
 
 If the N pole of a magnet is brought near the N pole demagnetised) are said to be soft.
 
-## Those such as
+# Those such as
 
 of another magnet, repulsion occurs.
 
@@ -21794,7 +21794,7 @@ Two S (south- steel that are harder to magnetise than iron but stay
 
 seeking) poles also repel.
 
-## By contrast
+# By contrast
 
 N and S poles magnetised are hard.
 
@@ -21804,7 +21804,7 @@ always attract.
 
 The law of magnetic poles summarises very hard ones are used to make permanent magnets.
 
-## these facts and states
+these facts and states
 
 Solenoids can be used to magnetise and demagnetise
 
@@ -21814,7 +21814,7 @@ magnetic materials (p.
 
 magnet also causes demagnetisation.
 
-## Hammering
+# Hammering
 
 Like poles repel, unlike poles attract.
 
@@ -21828,15 +21828,15 @@ increases.
 
 demagnetisation.
 
-### ‘Stroking’ a magnetic material
+‘Stroking’ a magnetic material
 
 several times in the same direction with one pole of a
 
 magnet will also cause it to become magnetised.
 
-## ●●Magnetisation of iron
+●●Magnetisation of iron
 
-## and steel ●●Magnetic fi elds
+and steel ●●Magnetic fi elds
 
 Chains of small iron nails and steel paper clips can be The space surrounding a magnet where it produces a
 
@@ -21844,25 +21844,25 @@ hung from a magnet (Figure 34.
 
 Each nail or clip magnetic force is called a magnetic fi eld.
 
-## The force
+# The force
 
 magnetises the one below it and the unlike poles so around a bar magnet can be detected and shown to
 
 formed attract.
 
-## vary in direction
+vary in direction
 
 using the apparatus in Figure 34.
 
 If the iron chain is removed by pulling the top nail If the fl oating magnet is released near the N pole of
 
-## away from the magnet
+away from the magnet
 
-## the chain collapses
+the chain collapses
 
-## showing the bar magnet
+showing the bar magnet
 
-### it is repelled to the S pole and moves
+it is repelled to the S pole and moves
 
 that magnetism induced in iron is temporary.
 
@@ -21872,13 +21872,13 @@ along a curved path known as a line of force or a
 
 indd 146 20/06/14 7:38 AM
 
-## Magnetic fields
+# Magnetic fields
 
 field line.
 
 It moves in the opposite direction if its Lay a bar magnet on a sheet of paper.
 
-## Place the plotting
+# Place the plotting
 
 south pole is uppermost.
 
@@ -21892,21 +21892,21 @@ In Figure 34.
 
 3b it is the N pole.
 
-## Mark the position
+# Mark the position
 
-### S N bar magnet of the poles (n
+S N bar magnet of the poles (n
 
-### s) of the compass by pencil dots B
+s) of the compass by pencil dots B
 
-## Move the
+# Move the
 
 compass so that pole s is exactly over B
 
-## mark the new position of
+mark the new position of
 
 n by dot C.
 
-## line of force
+line of force
 
 Continue this process until the other pole of the bar
 
@@ -21914,11 +21914,11 @@ N magnet is reached (in Figure 34.
 
 3b it is the S pole).
 
-## Join the dots
+# Join the dots
 
 to give one line of force and show its direction by putting an
 
-## cork
+cork
 
 arrow on it.
 
@@ -21928,19 +21928,19 @@ bowl of the magnet.
 
 water A typical field pattern is shown in Figure 34.
 
-## magnetised
+magnetised
 
-## S steel needle
+# S steel needle
 
-## or rod
+or rod
 
 Figure 34.
 
-## 2 Detecting magnetic force
+2 Detecting magnetic force
 
 It is useful to consider that a magnetic field has a
 
-## S N
+# S N
 
 direction and to represent the field by lines of force.
 
@@ -21950,9 +21950,9 @@ point should be the direction of the force on a N
 
 pole.
 
-## To show the direction
+# To show the direction
 
-## arrows are put on the lines
+arrows are put on the lines
 
 of force and point away from a N pole towards a S pole.
 
@@ -21962,7 +21962,7 @@ lines are close together than where they are further apart.
 
 Figure 34.
 
-### 4 Magnetic field lines around a bar magnet
+4 Magnetic field lines around a bar magnet
 
 The force between two magnets is a result of the
 
@@ -21974,23 +21974,23 @@ be plotted to give patterns like those in Figures 34.
 
 5a, b.
 
-## In part
+# In part
 
 a, where two like poles are facing each other
 
-## the point X is
+the point X is
 
 called a neutral point.
 
 At X the field due to one magnet cancels
 
-## Practical work
+# Practical work
 
 out that due to the other and there are no lines of force.
 
-## Plotting lines of force
+# Plotting lines of force
 
-## a) Plotting compass method
+a) Plotting compass method
 
 A plotting compass is a small pivoted magnet in a glass case with
 
@@ -21998,37 +21998,37 @@ non-magnetic metal walls (Figure 34.
 
 3a).
 
-## N X N
+# N X N
 
-## compass
+compass
 
-## needle a
+needle a
 
-## n S N
+n S N
 
-## plotting
+plotting
 
-## S N
+# S N
 
-## compass b
+compass b
 
 Figure 34.
 
-## 3 Figure 34.
+3 Figure 34.
 
-### 5 Field lines due to two neighbouring magnets
+5 Field lines due to two neighbouring magnets
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 147 20/06/14 7:39 AM
 
-## 34 Magnetic fields
+34 Magnetic fields
 
-## b) Iron filings method
+b) Iron filings method
 
-## ●●Earth’s magnetic field
+●●Earth’s magnetic field
 
 Place a sheet of paper on top of a bar magnet and sprinkle iron
 
@@ -22040,13 +22040,13 @@ patterns showing the lines of force.
 
 Each filing turns in the with no magnets nearby
 
-## a set of parallel straight
+a set of parallel straight
 
 direction of the field when the paper is tapped.
 
 lines is obtained.
 
-## They run roughly from S to N
+# They run roughly from S to N
 
 This method is quick but no use for weak fields.
 
@@ -22066,17 +22066,17 @@ part of the Earth’s magnetic field in a horizontal plane.
 
 What combination of poles would give the observed patterns?
 
-## north
+north
 
 Figure 34.
 
-### 7 Lines of force due to the Earth’s field
+7 Lines of force due to the Earth’s field
 
-### At most places on the Earth’s surface a
+At most places on the Earth’s surface a
 
 magnetic compass points slightly east or west
 
-## of true north
+of true north
 
 i.e. the Earth’s geographical and
 
@@ -22086,21 +22086,21 @@ angle between magnetic north and true north is
 
 called the declination (Figure 34.
 
-## In Hong
+# In Hong
 
 Kong in 2014 it was 2º 35′ W of N and changing
 
 slowly.
 
-## geographical
+geographical
 
-## north
+north
 
-## magnetic
+magnetic
 
-## north
+north
 
-## declination
+declination
 
 Figure 34.
 
@@ -22116,21 +22116,21 @@ coincide.
 
 indd 148 20/06/14 7:39 AM
 
-## earth’s magnetic fi eld
+earth’s magnetic fi eld
 
-## Questions
+# Questions
 
-### 1 Which one of these statements is true?
+1 Which one of these statements is true?
 
-## A magnet attracts
+# A magnet attracts
 
-### A plastics B any metal C iron and steel
+# A plastics B any metal C iron and steel
 
-## D aluminium E carbon
+# D aluminium E carbon
 
-## 2 Copy Figure 34.
+2 Copy Figure 34.
 
-### 9 which shows a plotting compass and a
+9 which shows a plotting compass and a
 
 magnet.
 
@@ -22140,7 +22140,7 @@ line on which the compass lies.
 
 Figure 34.
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -22158,9 +22158,9 @@ the force on a N pole,
 
 • map magnetic fi elds (by the plotting compass and iron
 
-### fi lings methods) round (a) one magnet
+fi lings methods) round (a) one magnet
 
-## (b) two magnets
+(b) two magnets
 
 • recall that at a neutral point the fi eld due to one magnet
 
@@ -22170,15 +22170,15 @@ cancels that due to another.
 
 indd 149 20/06/14 7:39 AM
 
-## Static electricity
+# Static electricity
 
 ● Positive and negative charges ● Dangers of static electricity
 
-## ● Charges
+● Charges
 
 atoms and electrons ● Uses of static electricity
 
-## ● Electrons
+● Electrons
 
 insulators and conductors ● van de Graaff generator
 
@@ -22186,51 +22186,51 @@ insulators and conductors ● van de Graaff generator
 
 ● Attraction between uncharged and charged objects ● Practical work
 
-## Gold-leaf electroscope
+# Gold-leaf electroscope
 
-## ●●Positive and negative
+●●Positive and negative
 
-## charges
+charges
 
 When a strip of polythene is rubbed with a cloth
 
 it becomes charged.
 
-## If it is hung up and another
+# If it is hung up and another
 
-### rubbed polythene strip is brought near
+rubbed polythene strip is brought near
 
-## repulsion
+repulsion
 
 occurs (Figure 35.
 
-## Attraction occurs when a
+# Attraction occurs when a
 
 rubbed strip of cellulose acetate is brought near.
 
-## thread
+thread
 
-## paper stirrup
+paper stirrup
 
-## rubbed
+rubbed
 
-## polythene
+polythene
 
-## strips like
+strips like
 
-## charges
+charges
 
-## repel
+repel
 
 Figure 35.
 
-## 2 Investigating charges
+2 Investigating charges
 
 This shows there are two kinds of electric
 
 charge.
 
-### That on cellulose acetate is taken as
+# That on cellulose acetate is taken as
 
 positive (+) and that on polythene is negative (–).
 
@@ -22242,23 +22242,23 @@ electricity effect.
 
 Clothes containing nylon often crackle when they
 
-## Like charges (+ and +
+Like charges (+ and +
 
-## or – and –) repel
+or – and –) repel
 
-## while unlike charges
+while unlike charges
 
 are taken off.
 
 We say they are ‘charged with static (+ and –) attract.
 
-## electricity’
+electricity’
 
 the crackles are caused by tiny electric
 
 sparks which can be seen in the dark.
 
-## Pens and combs
+# Pens and combs
 
 made of certain plastics become charged when rubbed The force between electric charges decreases as their
 
@@ -22274,35 +22274,35 @@ charges, atoms and electrons
 
 ●●Charges, atoms and
 
-## Practical work
+# Practical work
 
-## electrons
+electrons
 
-## Gold-leaf electroscope
+# Gold-leaf electroscope
 
-### There is evidence (Chapter 50) that we
+There is evidence (Chapter 50) that we
 
 can picture an atom as being made up of a
 
 small central nucleus containing positively metal cap
 
-### charged particles called protons
+charged particles called protons
 
-## surrounded
+surrounded
 
-## metal rod
+metal rod
 
 by an equal number of negatively charged
 
-## insulating
+insulating
 
 electrons.
 
-### The charges on a proton and an plug
+# The charges on a proton and an plug
 
 electron are equal and opposite so an atom as
 
-## metal plate
+metal plate
 
 a whole is normally electrically neutral
 
@@ -22310,23 +22310,23 @@ i.e. has
 
 no net charge.
 
-## gold leaf
+gold leaf
 
-### Hydrogen is the simplest atom with one
+# Hydrogen is the simplest atom with one
 
-## glass window
+glass window
 
 proton and one electron (Figure 35.
 
-## A wooden or
+# A wooden or
 
 copper atom has 29 protons in the nucleus and metal case
 
-## earthed by
+earthed by
 
-### 29 surrounding electrons. Every nucleus except
+29 surrounding electrons. Every nucleus except
 
-## resting on
+resting on
 
 hydrogen also contains uncharged particles called bench
 
@@ -22334,7 +22334,7 @@ neutrons.
 
 Figure 35.
 
-## 4 Gold-leaf electroscope
+4 Gold-leaf electroscope
 
 A gold-leaf electroscope consists of a metal cap on a metal rod at
 
@@ -22346,11 +22346,11 @@ The rod is held by an insulating plastic plug in a
 
 case with glass sides to protect the leaf from draughts.
 
-## a) Detecting a charge
+a) Detecting a charge
 
 Bring a charged polythene strip towards the cap
 
-## the leaf rises
+the leaf rises
 
 one electron moving away from the plate.
 
@@ -22360,33 +22360,33 @@ around nucleus leaf falls again.
 
 Repeat with a charged acetate strip.
 
-## b) Charging by contact
+b) Charging by contact
 
 Draw a charged polythene strip firmly across the edge of the cap.
 
 The leaf should rise and stay up when the strip is removed.
 
-## If it
+# If it
 
 Figure 35.
 
-## 3 Hydrogen atom
+3 Hydrogen atom
 
-## does not
+does not
 
 repeat the process but press harder.
 
-## The electroscope
+# The electroscope
 
 has now become negatively charged by contact with the
 
-## polythene strip
+polythene strip
 
 from which electrons have been transferred.
 
 The production of charges by rubbing can
 
-## c) Insulators and conductors
+c) Insulators and conductors
 
 be explained by supposing that electrons are
 
@@ -22394,29 +22394,29 @@ Touch the cap of the charged electroscope with different things
 
 transferred from one material to the other.
 
-## such as a piece of paper
+such as a piece of paper
 
-## a wire
+a wire
 
-## your finger
+your finger
 
-## a comb
+a comb
 
-## a cotton
+a cotton
 
-## example
+example
 
-### when cellulose acetate is rubbed with a
+when cellulose acetate is rubbed with a
 
-## handkerchief
+handkerchief
 
-## a piece of wood
+a piece of wood
 
-## a glass rod
+a glass rod
 
-## a plastic pen
+a plastic pen
 
-## rubber
+rubber
 
 cloth, electrons go from the acetate to the cloth
 
@@ -22424,37 +22424,37 @@ tubing.
 
 Record your results.
 
-### leaving the acetate short of electrons
+leaving the acetate short of electrons
 
 i.e. positively When the leaf falls
 
-### charge is passing to or from the ground
+charge is passing to or from the ground
 
 charged.
 
 The cloth now has more electrons than through you and the material touching the cap.
 
-## If the fall is
+# If the fall is
 
 protons and becomes negatively charged.
 
 Note that rapid the material is a good conductor
 
-## if the leaf falls slowly
+if the leaf falls slowly
 
 the material is a poor conductor.
 
 If the leaf does not alter, the
 
-### it is only electrons which move
+it is only electrons which move
 
-## the protons remain
+the protons remain
 
 material is a good insulator.
 
 fixed in the nucleus.
 
-### How does polythene become charged when
+# How does polythene become charged when
 
 rubbed?
 
@@ -22462,25 +22462,25 @@ rubbed?
 
 indd 151 20/06/14 7:40 AM
 
-## 35 static electricity
+35 static electricity
 
 ●●Electrons, insulators
 
-### metal spheres charged polythene strip
+metal spheres charged polythene strip
 
-## and conductors
+and conductors
 
 In an insulator all electrons are bound firmly to
 
-## X Y
+# X Y
 
-## their atoms
+their atoms
 
-### in a conductor some electrons can
+in a conductor some electrons can
 
 move freely from atom to atom.
 
-## An insulator can be
+# An insulator can be
 
 charged by rubbing because the charge produced
 
@@ -22490,7 +22490,7 @@ i.e. the
 
 electric charge is static.
 
-## A conductor will become
+# A conductor will become
 
 charged only if it is held with an insulating handle
 
@@ -22502,37 +22502,37 @@ Good insulators include plastics such as polythene
 
 cellulose acetate, Perspex and nylon.
 
-## All metals
+# All metals
 
 and carbon are good conductors.
 
-## In between are
+# In between are
 
 materials that are both poor conductors and (because
 
 they conduct to some extent) poor insulators.
 
-## Examples are wood
+# Examples are wood
 
 paper, cotton
 
-## the human body
+the human body
 
 and the Earth.
 
-### Water conducts and if it were not
+# Water conducts and if it were not
 
 present in materials like wood and on the surface of
 
-## for example
+for example
 
 glass, these would be good insulators.
 
 Dry air insulates well.
 
-## ●● Electrostatic
+●● Electrostatic
 
-## induction
+induction
 
 This effect may be shown by bringing a negatively
 
@@ -22544,17 +22544,17 @@ sphere X which is touching a similar sphere Y
 
 5a).
 
-### Electrons in the spheres are repelled
+# Electrons in the spheres are repelled
 
 to the far side of Y.
 
-## If X and Y are separated
+# If X and Y are separated
 
-## with the charged strip
+with the charged strip
 
-## still in position
+still in position
 
-### X is left with a positive charge
+# X is left with a positive charge
 
 (deficient of electrons) and Y with a negative
 
@@ -22570,41 +22570,41 @@ charged strip (Figure 35.
 
 cap of a positively charged electroscope.
 
-## Electrons
+# Electrons
 
-## will be drawn towards X
+will be drawn towards X
 
-## making the leaf more
+making the leaf more
 
 positive so that it rises.
 
-## If Y is taken towards the cap
+# If Y is taken towards the cap
 
 of a negatively charged electroscope the leaf again
 
 rises; can you explain why
 
-## in terms of electron
+in terms of electron
 
 motion?
 
-## X Y
+# X Y
 
-## a b
+a b
 
-## X Y
+# X Y
 
-## insulator
+insulator
 
 Figure 35.
 
-## 5 Electrostatic induction
+5 Electrostatic induction
 
-## ●● Attraction between
+●● Attraction between
 
-## uncharged and charged
+uncharged and charged
 
-## objects
+objects
 
 The attraction of an uncharged object by a
 
@@ -22614,31 +22614,31 @@ induction.
 
 In Figure 35.
 
-## 6a a small piece of aluminium
+6a a small piece of aluminium
 
 foil is attracted to a negatively charged polythene
 
 rod held just above it.
 
-## The charge on the rod
+# The charge on the rod
 
 pushes free electrons to the bottom of the foil
 
-## (aluminium is a conductor)
+(aluminium is a conductor)
 
-## leaving the top of the
+leaving the top of the
 
-## foil short of electrons
+foil short of electrons
 
 i.e. with a net positive charge
 
 and the bottom negatively charged.
 
-## The top of the
+# The top of the
 
 foil is nearer the rod than the bottom.
 
-## Hence the
+# Hence the
 
 force of attraction between the negative charge on
 
@@ -22650,17 +22650,17 @@ the negative charge on the rod and the negative
 
 charge on the bottom of the foil.
 
-## The foil is pulled
+# The foil is pulled
 
 to the rod.
 
-## A small scrap of paper
+# A small scrap of paper
 
-## although an insulator
+although an insulator
 
 also attracted by a charged rod.
 
-## There are no free
+# There are no free
 
 electrons in the paper but the charged rod pulls the
 
@@ -22676,7 +22676,7 @@ In the case of a negatively charged polythene
 
 indd 152 20/06/14 7:40 AM
 
-## dangers of static electricity
+dangers of static electricity
 
 rod, the paper behaves as if it had a positively from the spike.
 
@@ -22688,11 +22688,11 @@ results in an ‘electric wind’ of positive air molecules
 
 streaming upwards which can neutralise electrons
 
-## charged
+charged
 
 discharging from the thundercloud in a lightning
 
-## polythene rod
+polythene rod
 
 flash.
 
@@ -22700,37 +22700,37 @@ If a flash occurs it is now less violent and the
 
 conductor gives it an easy path to ground.
 
-## attraction
+attraction
 
-## th und erc loud
+th und erc loud
 
 i c n h d a u rg ce e d s a fo lu il minium
 
-## repulsion stream of
+repulsion stream of
 
 Figure 35.
 
 6a An uncharged object is attracted to a charged one.
 
-### p m o o s l i e ti c v u e l e a s ir
+p m o o s l i e ti c v u e l e a s ir
 
-## tall spikes
+tall spikes
 
-## building
+building
 
-## copper
+copper
 
-## strip
+strip
 
-## electrons
+electrons
 
-## repelled
+repelled
 
-## to Earth
+to Earth
 
-## metal plate
+metal plate
 
-## in ground
+in ground
 
 Figure 35.
 
@@ -22738,17 +22738,17 @@ Figure 35.
 
 Figure 35.
 
-## 7 Lightning conductor
+7 Lightning conductor
 
 In Figure 35.
 
 6b a slow, uncharged stream of water
 
-### is attracted by a charged polythene rod
+is attracted by a charged polythene rod
 
-## due to
+due to
 
-## b) Refuelling
+b) Refuelling
 
 the polar nature of water molecules (one end of a
 
@@ -22766,23 +22766,23 @@ the tanks in an oil tanker may be cleaned in an
 
 air could promote a fire.
 
-## electricity
+electricity
 
 An aircraft in flight may become charged by
 
 ‘rubbing’ the air.
 
-### Its tyres are made of conducting
+# Its tyres are made of conducting
 
 a) Lightning rubber which lets the charge pass harmlessly to
 
-## ground on landing
+ground on landing
 
-## otherwise an explosion could
+otherwise an explosion could
 
 A tall building is protected by a lightning conductor be ‘sparked off’ when the aircraft refuels.
 
-## What
+# What
 
 consisting of a thick copper strip fixed on the precautions are taken at petrol pumps when a car is
 
@@ -22790,11 +22790,11 @@ outside of the building connecting metal spikes at refuelled?
 
 the top to a metal plate in the ground (Figure 35.
 
-## c) Operating theatres
+c) Operating theatres
 
-## Thunderclouds carry charges
+# Thunderclouds carry charges
 
-## a negatively
+a negatively
 
 charged cloud passing overhead repels electrons
 
@@ -22802,7 +22802,7 @@ Dust and germs are attracted by charged objects
 
 from the spikes to the Earth.
 
-## The points of the
+# The points of the
 
 and so it is essential to ensure that equipment
 
@@ -22814,39 +22814,39 @@ concentrates on sharp points) which removes
 
 electrons to flow to and from the ground
 
-### electrons from nearby air molecules
+electrons from nearby air molecules
 
-## so charging
+so charging
 
 example by conducting rubber.
 
 them positively and causing them to be repelled
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 153 20/06/14 7:40 AM
 
-## 35 static electricity
+35 static electricity
 
-## d) Computers
+d) Computers
 
-## inkjet nozzle
+inkjet nozzle
 
 Computers require similar ‘anti-static’ conditions as
 
 they are vulnerable to electrostatic damage.
 
-## electrostatic
+electrostatic
 
-## charging unit
+charging unit
 
-## ●●Uses of static electricity
+●●Uses of static electricity
 
-## deflecting
+deflecting
 
-## plates
+plates
 
 a) Flue-ash precipitation negative positive
 
@@ -22862,31 +22862,31 @@ mesh which gives a similar charge to the rising
 
 particles of ash.
 
-### They are then attracted to plates paper
+# They are then attracted to plates paper
 
 with an opposite charge.
 
-## These are tapped from
+# These are tapped from
 
-### time to time to remove the ash
+time to time to remove the ash
 
-## which falls to the
+which falls to the
 
 Figure 35.
 
-## 8 Inkjet printer
+8 Inkjet printer
 
 bottom of the chimney from where it is removed.
 
-## b) Photocopiers
+b) Photocopiers
 
-## ●●van de Graaff
+●●van de Graaff
 
 These contain a charged drum and when the paper
 
-### to be copied is laid on the glass plate
+to be copied is laid on the glass plate
 
-## the light generator
+the light generator
 
 reflected from the white parts of the paper causes
 
@@ -22898,7 +22898,7 @@ The charge pattern a large metal dome when a rubber belt is driven
 
 remaining on the drum corresponds to the dark- by an electric motor or by hand
 
-## as shown in
+as shown in
 
 coloured printing on the original.
 
@@ -22906,21 +22906,21 @@ Special toner Figure 35.
 
 powder is then dusted over the drum and sticks to
 
-## a) Demonstrations
+a) Demonstrations
 
 those parts which are still charged.
 
-## When a sheet of
+# When a sheet of
 
-## paper passes over the drum
+paper passes over the drum
 
 the particles of toner In Figure 35.
 
-### 9a sparks jump between the dome
+9a sparks jump between the dome
 
 are attracted to it and fused into place by a short and the discharging sphere.
 
-## Electrons flow round
+# Electrons flow round
 
 burst of heat.
 
@@ -22930,15 +22930,15 @@ you trace it?
 
 In part Figure 35.
 
-## 9b why does the
+9b why does the
 
-## c) Inkjet printers
+c) Inkjet printers
 
 ‘hair’ stand on end?
 
 In Figure 35.
 
-## 9c the ‘windmill’
+9c the ‘windmill’
 
 revolves due to the reaction that arises from the
 
@@ -22946,19 +22946,19 @@ In an inkjet printer tiny drops of ink are forced out
 
 ‘electric wind’ caused by the action at points effect
 
-## of a fine nozzle
+of a fine nozzle
 
-### charged electrostatically and then
+charged electrostatically and then
 
 explained on p.
 
-### 153 for the lightning conductor.
+153 for the lightning conductor.
 
 passed between two oppositely charged plates
 
 In Figure 35.
 
-### 9d the ‘body’ on the insulating stool
+9d the ‘body’ on the insulating stool
 
 negatively charged drop will be attracted towards
 
@@ -22970,7 +22970,7 @@ lights a neon lamp.
 
 in Figure 35.
 
-### The amount of deflection and hence
+# The amount of deflection and hence
 
 The dome can be discharged harmlessly by
 
@@ -22980,13 +22980,13 @@ bringing your elbow close to it.
 
 determined by the charge on the drop and the p.
 
-## between the plates
+between the plates
 
 both of these are controlled by b) Action
 
 a computer.
 
-### About 100 precisely located drops are
+# About 100 precisely located drops are
 
 Initially a positive charge is produced on the
 
@@ -22998,7 +22998,7 @@ printing speeds can be achieved.
 
 the belt.
 
-### This induces a negative charge on the
+# This induces a negative charge on the
 
 ‘comb’ of metal points P (Figure 35.
 
@@ -23010,19 +23010,19 @@ charges are sprayed off by ‘action at points’ on
 
 indd 154 20/06/14 7:41 AM
 
-## electric fields
+electric fields
 
-## ●●Electric fields
+●●Electric fields
 
 to the outside of the belt and carried upwards.
 
 A positive charge is then induced in the comb of When an electric charge is placed near to another
 
-## metal points
+metal points
 
 Q, and negative charge is repelled to electric charge it experiences a force.
 
-## The electric force
+# The electric force
 
 the dome.
 
@@ -23030,31 +23030,31 @@ does not require contact between the two charges
 
 so we call it an ‘action-at-a-distance force’ – it acts
 
-## − discharging
+− discharging
 
 − − sphere through space.
 
-### The region of space where an electric
+# The region of space where an electric
 
 dome charge experiences a force due to other charges is
 
 − Q + − called an electric field.
 
-### If the electric force felt by a
+# If the electric force felt by a
 
 charge is the same everywhere in a region
 
-## the field is
+the field is
 
-## − − uniform
+− − uniform
 
 a uniform electric field is produced between
 
-## + −
++ −
 
 two oppositely charged parallel metal plates (Figure
 
-## spark
+spark
 
 rubber belt 35.
 
@@ -23062,59 +23062,59 @@ rubber belt 35.
 
 It can be represented by evenly spaced parallel
 
-## + −
++ −
 
 lines drawn perpendicular to the metal surfaces.
 
-## The direction of the field
+# The direction of the field
 
-## denoted by arrows
+denoted by arrows
 
-## is the
+is the
 
-## + −
++ −
 
 direction of the force on a small positive charge placed
 
-## Perspex roller
+# Perspex roller
 
 in the field (negative charges experience a force in the
 
-## connecting
+connecting
 
-## + +
++ +
 
 wire opposite direction to the field).
 
-## motor −
+motor −
 
-## ‘hair’ windmill
+‘hair’ windmill
 
-## ‘electric
+‘electric
 
-## wind’
+wind’
 
-## point
+point
 
-## charged
+charged
 
-## dome
+dome
 
 Figure 35.
 
-## 10 Uniform electric field
+10 Uniform electric field
 
 Moving charges are deflected by an electric field due
 
 b c to the electric force exerted on them
 
-## this occurs in
+this occurs in
 
 the inkjet printer (Figure 35.
 
 charged The electric field lines radiating from an isolated
 
-## ‘body’
+‘body’
 
 positively charged conducting sphere and a point
 
@@ -23122,15 +23122,15 @@ neon charge are shown in Figures 35.
 
 11a, b; again the
 
-## lamp
+lamp
 
 field lines emerge at right angles to the conducting
 
 surface.
 
-## insulating
+insulating
 
-## stool
+stool
 
 Figure 35.
 
@@ -23140,9 +23140,9 @@ Figure 35.
 
 indd 155 20/06/14 7:41 AM
 
-## 35 static electricity
+35 static electricity
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -23156,9 +23156,9 @@ rubbing,
 
 + negatively charged electrons,
 
-### • describe the gold-leaf electroscope
+• describe the gold-leaf electroscope
 
-## and explain how it can
+and explain how it can
 
 be used to compare electrical conductivities of different
 
@@ -23174,7 +23174,7 @@ objects,
 
 Figure 35.
 
-## 11b Radial electric fi eld
+11b Radial electric fi eld
 
 • give examples of the dangers and the uses of static
 
@@ -23182,17 +23182,17 @@ electricity,
 
 • explain what is meant by an electric fi eld.
 
-## Questions
+# Questions
 
-### 1 Two identical conducting balls
+1 Two identical conducting balls
 
-## suspended on nylon
+suspended on nylon
 
-## threads
+threads
 
 come to rest with the threads making equal angles
 
-## with the vertical
+with the vertical
 
 as shown in Figure 35.
 
@@ -23204,7 +23204,7 @@ A the balls are equally and oppositely charged
 
 B the balls are oppositely charged but not necessarily
 
-## equally charged
+equally charged
 
 C one ball is charged and the other is uncharged
 
@@ -23222,13 +23222,13 @@ a polythene rod becomes charged negatively by being
 
 rubbed with a cloth.
 
-### 3 Which of statements A to E is true?
+3 Which of statements A to E is true?
 
 In the process of electrostatic induction
 
 A a conductor is rubbed with an insulator
 
-### B a charge is produced by friction
+# B a charge is produced by friction
 
 C negative and positive charges are separated
 
@@ -23240,15 +23240,15 @@ E electrons are ‘sprayed’ into an object.
 
 indd 156 20/06/14 7:41 AM
 
-## Electric current
+# Electric current
 
 ● Effects of a current ● Series and parallel circuits
 
 ● The ampere and the coulomb ● Direct and alternating current
 
-### ● Circuit diagrams ● Practical work
+● Circuit diagrams ● Practical work
 
-## Measuring current
+# Measuring current
 
 An electric current consists of moving electric ●●Effects of a current
 
@@ -23258,7 +23258,7 @@ In Figure 36.
 
 1, when the van de Graaff
 
-## machine is working
+machine is working
 
 the table-tennis ball shuttles An electric current has three effects that reveal its
 
@@ -23274,89 +23274,89 @@ other plate.
 
 In this way charge is carried across the
 
-## battery
+battery
 
 gap.
 
-### This also shows that ‘static’ charges
+This also shows that ‘static’ charges
 
-## produced
+produced
 
-## 5V cells)
+5V cells)
 
-## by friction
+by friction
 
-### cause a deflection on a meter just as
+cause a deflection on a meter just as
 
 current electricity produced by a battery does.
 
-## thick
+thick
 
-## In a metal
+# In a metal
 
-### each atom has one or more loosely
+each atom has one or more loosely
 
-## copper
+copper
 
 held electrons that are free to move.
 
-## When a van de wire
+# When a van de wire
 
 Graaff or a battery is connected across the ends of
 
-## such a conductor
+such a conductor
 
-### the free electrons drift slowly along
+the free electrons drift slowly along
 
 it in the direction from the negative to the positive
 
 terminal of a battery.
 
-## There is then a current of
+# There is then a current of
 
 negative charge.
 
-## plotting
+plotting
 
-## compass lamp
+compass lamp
 
-## dilute
+dilute
 
-## sulfuric
+sulfuric
 
-## acid
+acid
 
-## thread
+thread
 
-## insulating van de Graaff
+insulating van de Graaff
 
-## handle generator
+handle generator
 
-## metal
+metal
 
-## plates
+plates
 
-## table-tennis circuit board
+table-tennis circuit board
 
-## ball coated
+ball coated
 
 with ‘Aquadag‘ Figure 36.
 
-### 2 Investigating the effects of a current
+2 Investigating the effects of a current
 
-## to make it
+to make it
 
-## conducting
+conducting
 
-## a) Heating and lighting
+a) Heating and lighting
 
 The lamp lights because the small wire inside (the
 
 filament) is made white hot by the current.
 
-## 5 cm
+5 cm
 
-## b) Magnetic
+b) Magnetic
 
 The plotting compass is deflected when it is placed
 
@@ -23364,7 +23364,7 @@ near the wire because a magnetic field is produced
 
 around any wire carrying a current.
 
-## c) Chemical
+c) Chemical
 
 picoammeter Bubbles of gas are given off at the wires in
 
@@ -23380,13 +23380,13 @@ charges current.
 
 indd 157 20/06/14 7:41 AM
 
-## 36 electric cUrrent
+36 electric cUrrent
 
 ●●The ampere and the Before the electron was discovered scientists
 
 agreed to think of current as positive charges moving
 
-## coulomb
+coulomb
 
 round a circuit in the direction from positive to
 
@@ -23400,15 +23400,15 @@ Arrows on circuit diagrams show the direction of
 
 defi ned using the magnetic effect.
 
-## One milliampere
+# One milliampere
 
-### what we call the conventional current
+what we call the conventional current
 
 i.e. the
 
 (mA) is one-thousandth of an ampere.
 
-## Current is
+# Current is
 
 direction in which positive charges would fl ow.
 
@@ -23416,11 +23416,11 @@ measured by an ammeter.
 
 Electrons fl ow in the opposite direction to the
 
-## The unit of charge
+# The unit of charge
 
-## the coulomb (C)
+the coulomb (C)
 
-## is defi ned in
+is defi ned in
 
 conventional current.
 
@@ -23428,57 +23428,57 @@ terms of the ampere.
 
 One coulomb is the charge passing any point in a circuit
 
-## Practical work
+# Practical work
 
 when a steady current of 1 ampere fl ows for 1 second.
 
 That is,
 
-## 1 C = 1 A s.
+1 C = 1 A s.
 
-## Measuring current
+# Measuring current
 
 A charge of 3 C would pass each point in 1 s if the
 
 current were 3 A.
 
-## In 2 s
+# In 2 s
 
 3 A × 2 s = 6 A s = 6 C would (a) Connect the circuit of Figure 36.
 
-## 4a (on a circuit board
+4a (on a circuit board
 
 pass.
 
-## In general
+# In general
 
 if a steady current I (amperes) fl ows if possible) ensuring that the + of the cell (the metal
 
 for time t (seconds) the charge Q (coulombs) passing stud) goes to the + of the ammeter (marked red).
 
-## Note the
+# Note the
 
 current.
 
-## any point is given by
+any point is given by
 
 (b) Connect the circuit of Figure 36.
 
-## The cells are in series
+# The cells are in series
 
-## (+ of one to – of the other)
+(+ of one to – of the other)
 
 as are the lamps.
 
-## Record the
+# Record the
 
-## Q = I × t
+Q = I × t
 
 current.
 
-## Measure the current at B
+# Measure the current at B
 
-## C and D by disconnecting
+# C and D by disconnecting
 
 the circuit at each point in turn and inserting the ammeter.
 
@@ -23488,7 +23488,7 @@ current.
 
 (c) Connect the circuit of Figure 36.
 
-## The lamps are in
+# The lamps are in
 
 parallel.
 
@@ -23500,75 +23500,75 @@ Q and R.
 
 What is your conclusion?
 
-## ●●Circuit diagrams
+●●Circuit diagrams
 
 Current must have a complete path (a circuit) of
 
-## 5 V cell)
+5 V cell)
 
 conductors if it is to fl ow.
 
-## Wires of copper are used
+# Wires of copper are used
 
-## to connect batteries
+to connect batteries
 
 lamps, etc. in a circuit since
 
 copper is a good electrical conductor.
 
-## If the wires are
+# If the wires are
 
-## covered with insulation
+covered with insulation
 
-## such as plastic
+such as plastic
 
-## the ends are
+the ends are
 
 bared for connecting up.
 
-## A (0–1 A)
+A (0–1 A)
 
 The signs or symbols used for various parts of an
 
 electric circuit are shown in Figure 36.
 
-## 25 V)
+25 V)
 
 Figure 36.
 
-### connecting wires joined wires crossing
+connecting wires joined wires crossing
 
-## wire (not joined) D
+wire (not joined) D
 
 cell battery (two or more cells) switch A C
 
-## A or
+# A or
 
-## ammeter lamp B
-
-Figure 36.
+ammeter lamp B
 
 Figure 36.
 
-## 3 Circuit symbols
+Figure 36.
+
+3 Circuit symbols
 
 9781444176421_Section_04.
 
 indd 158 20/06/14 7:41 AM
 
-### direct and alternating current
+direct and alternating current
 
-## ●●Direct and alternating
+●●Direct and alternating
 
-## current
+current
 
-## AA R
+# AA R
 
-## a) Difference
+a) Difference
 
 In a direct current (d.
 
-## ) the electrons fl ow in one
+) the electrons fl ow in one
 
 direction only.
 
@@ -23580,13 +23580,13 @@ Figure 36.
 
 steady d.
 
-### ●● Series and parallel circuits time
+●● Series and parallel circuits time
 
-## a) Series
+a) Series
 
-## In a series circuit
+# In a series circuit
 
-### such as the one shown in Figure
+such as the one shown in Figure
 
 4b, the different parts follow one after the other
 
@@ -23596,21 +23596,21 @@ You should have found in the previous experiment
 
 that the reading on the ammeter (e.g. 0.
 
-## 2 A) when in
+2 A) when in
 
 the position shown in the diagram is also obtained at
 
 B, C and D.
 
-## That is
+# That is
 
-### current is not used up as it goes
+current is not used up as it goes
 
 round the circuit.
 
 The current is the same at all points in a series circuit.
 
-## b) Parallel
+b) Parallel
 
 In a parallel circuit, as in Figure 36.
 
@@ -23632,35 +23632,35 @@ For example, if the ammeter reading
 
 was 0.
 
-## 4 A in the position shown
+4 A in the position shown
 
-## then if the lamps
+then if the lamps
 
-## are identical
+are identical
 
 the reading at P would be 0.
 
-## 2 A, and
+2 A, and
 
-## so would the reading at Q
+so would the reading at Q
 
 giving a total of 0.
 
-## 4 A.
+4 A.
 
 Whether the current splits equally or not depends on
 
-### the lamps (as we will see later)
+the lamps (as we will see later)
 
-## for example
+for example
 
-## it might
+it might
 
 divide so that 0.
 
-## 3 A goes one way and 0.
+3 A goes one way and 0.
 
-## 1 A by the
+1 A by the
 
 other branch.
 
@@ -23668,23 +23668,23 @@ The sum of the currents in the branches of a parallel circuit
 
 equals the current entering or leaving the parallel section.
 
-## tnerruc
+tnerruc
 
 varying d.
 
-## time
+time
 
-## tnerruc
+tnerruc
 
 Figure 36.
 
-## 5 Direct current (d.
+5 Direct current (d.
 
 In an alternating current (a.
 
-## ) the direction of fl ow
+) the direction of fl ow
 
-## reverses regularly
+reverses regularly
 
 as shown in the graph in Figure 36.
 
@@ -23692,35 +23692,35 @@ The circuit sign for a.
 
 is given in Figure 36.
 
-## tnerruc
+tnerruc
 
-## ¹⁄₂ 1 time/seconds
+¹⁄₂ 1 time/seconds
 
-## 1 cycle
-
-Figure 36.
-
-## 6 Alternating current (a.
+1 cycle
 
 Figure 36.
 
-### 7 Symbol for alternating current
+6 Alternating current (a.
+
+Figure 36.
+
+7 Symbol for alternating current
 
 The pointer of an ammeter for measuring d.
 
 defl ected one way by the direct current.
 
-## Alternating
+# Alternating
 
 9781444176421_Section_04.
 
 indd 159 20/06/14 7:42 AM
 
-## 36 electric cUrrent
+36 electric cUrrent
 
 current makes the pointer move to and fro about the
 
-### zero if the changes are slow enough
+zero if the changes are slow enough
 
 otherwise no 4 Using the circuit in Figure 36.
 
@@ -23730,7 +23730,7 @@ statements is correct?
 
 defl ection can be seen.
 
-## A When S and S are closed
+# A When S and S are closed
 
 lamps A and B are lit.
 
@@ -23738,19 +23738,19 @@ Batteries give d.
 
 ; generators can produce either 1 2
 
-## B With S open and S closed
+# B With S open and S closed
 
 A is lit and B is not lit.
 
-## 1 2
+1 2
 
 or a.
 
-## C With S open and S closed
+# C With S open and S closed
 
 A and B are lit.
 
-## 2 1
+2 1
 
 b) Frequency of a.
 
@@ -23758,23 +23758,23 @@ The number of complete alternations or cycles in
 
 1 second is the frequency of the alternating current.
 
-## S 1 A B
+# S 1 A B
 
 The unit of frequency is the hertz (Hz).
 
-## The frequency
+# The frequency
 
 of the a.
 
 in Figure 36.
 
-## 6 is 2 Hz, which means there
+6 is 2 Hz, which means there
 
-## are two cycles per second
+are two cycles per second
 
 or one cycle lasts 1/2 = 0.
 
-## 5 s.
+5 s.
 
 The mains supply in the UK is a.
 
@@ -23782,7 +23782,7 @@ of frequency 50 Hz; S 2
 
 each cycle lasts 1/50th of a second.
 
-## This regularity was
+# This regularity was
 
 Figure 36.
 
@@ -23790,23 +23790,23 @@ used in the tickertape timer (Chapter 2) and is relied
 
 upon in mains-operated clocks.
 
-### 5 If the lamps are both the same in Figure 36.
+5 If the lamps are both the same in Figure 36.
 
-## 10 and if
+10 and if
 
 ammeter A reads 0.
 
-### 50 A, what do ammeters A , A , A
+50 A, what do ammeters A , A , A
 
-## 1 2 3 4
+1 2 3 4
 
 and A read?
 
-## Questions
+# Questions
 
-### 1 If the current in a fl oodlamp is 5 A
+1 If the current in a fl oodlamp is 5 A
 
-## what charge passes in 1
+what charge passes in 1
 
 a 1 s,
 
@@ -23816,7 +23816,7 @@ c 5 minutes?
 
 2 What is the current in a circuit if the charge passing each
 
-## point is
+point is
 
 a 10 C in 2 s,
 
@@ -23824,31 +23824,31 @@ b 20 C in 40 s,
 
 c 240 C in 2 minutes?
 
-## 3 5
+3 5
 
-### 3 Study the circuits in Figure 36.
+3 Study the circuits in Figure 36.
 
-## The switch S is open (there
+The switch S is open (there
 
 is a break in the circuit at this point).
 
-## In which circuit would
+# In which circuit would
 
 lamps Q and R light but not lamp P?
 
 Figure 36.
 
-## S S
+# S S
 
-## P Q R P Q R
+# P Q R P Q R
 
-## A B
+# A B
 
-## P Q R P Q R
+# P Q R P Q R
 
-## C D
+# C D
 
-## P Q R
+# P Q R
 
 Figure 36.
 
@@ -23856,9 +23856,9 @@ Figure 36.
 
 indd 160 20/06/14 7:42 AM
 
-### direct and alternating current
+direct and alternating current
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -23882,11 +23882,11 @@ measured by an ammeter,
 
 • recall the relation Q = It and use it to solve problems
 
-### • use circuit symbols for wires
+• use circuit symbols for wires
 
 cells, switches
 
-## ammeters and
+ammeters and
 
 lamps,
 
@@ -23898,9 +23898,9 @@ observing correct polarities for meters,
 
 everywhere in the circuit,
 
-### • state that for a parallel circuit
+• state that for a parallel circuit
 
-## the current from the source
+the current from the source
 
 is larger than the current in each branch
 
@@ -23918,7 +23918,7 @@ current,
 
 • recall that frequency of a.
 
-## is the number of cycles per
+is the number of cycles per
 
 second.
 
@@ -23926,7 +23926,7 @@ second.
 
 indd 161 20/06/14 7:42 AM
 
-## Potential difference
+# Potential difference
 
 ● Energy transfers and p.
 
@@ -23934,21 +23934,21 @@ indd 161 20/06/14 7:42 AM
 
 ● Model of a circuit ● Voltages round a circuit
 
-## ● The volt ● Practical work
+● The volt ● Practical work
 
-## Measuring voltage
+# Measuring voltage
 
 A battery transforms chemical energy to electrical Evidently the p.
 
-### across a device affects the rate at
+across a device affects the rate at
 
 energy.
 
 Because of the chemical action going on which it transfers electrical energy.
 
-## This gives us a way
+# This gives us a way
 
-## inside it
+inside it
 
 it builds up a surplus of electrons at one of of defining the unit of potential difference
 
@@ -23960,11 +23960,11 @@ the other (the positive).
 
 It is then able to maintain ●●Model of a circuit
 
-## a flow of electrons
+a flow of electrons
 
 i.e. an electric current
 
-## in any
+in any
 
 circuit connected across its terminals for as long as It may help you to understand the definition of the
 
@@ -23972,11 +23972,11 @@ the chemical action lasts.
 
 volt, i.e. what a volt is
 
-### if you imagine that the current
+if you imagine that the current
 
 The battery is said to have a potential difference in a circuit is formed by ‘drops’ of electricity
 
-## each
+each
 
 for short) at its terminals.
 
@@ -23992,7 +23992,7 @@ The p.
 
 of a car Mr Coulomb represents one such ‘drop’.
 
-## As a ‘drop’
+As a ‘drop’
 
 battery is 12 V and the domestic mains supply in the moves around the circuit it gives up all its energy
 
@@ -24000,21 +24000,21 @@ UK is 230 V.
 
 which is changed to other forms of energy.
 
-## Note that
+# Note that
 
-## electrical energy
+electrical energy
 
-## not charge or current
+not charge or current
 
 is ‘used up’.
 
-## ●●Energy transfers
+●●Energy transfers
 
 and p.
 
-## ‘bundle’ of
+‘bundle’ of
 
-## electrical
+electrical
 
 In an electric circuit electrical energy is supplied from energy
 
@@ -24022,21 +24022,21 @@ a source such as a battery and is transferred to other
 
 forms of energy by devices in the circuit.
 
-## A lamp
+# A lamp
 
 produces heat and light.
 
 When each one of the circuits of Figure 37.
 
-## 1 is
+1 is
 
-## connected up
+connected up
 
-### it will be found from the ammeter
+it will be found from the ammeter
 
 readings that the current is about the same (0.
 
-## 4 A) in
+4 A) in
 
 each lamp.
 
@@ -24044,13 +24044,13 @@ However, the mains lamp with a potential
 
 difference of 230 V applied to it gives much more
 
-## Mr Coulomb
+# Mr Coulomb
 
 light and heat than the car lamp with 12 V across it.
 
-## In terms of energy
+# In terms of energy
 
-### the mains lamp transfers a great
+the mains lamp transfers a great
 
 deal more electrical energy in a second than the
 
@@ -24058,47 +24058,47 @@ car lamp.
 
 Figure 37.
 
-## 2 Model of a circuit
+2 Model of a circuit
 
 ammeters (0–1 A) In our imaginary representation
 
-## Mr Coulomb travels
+# Mr Coulomb travels
 
 mains lamp round the circuit and unloads energy as he goes
 
-## (100 W)
+(100 W)
 
 car most of it in the lamp.
 
-## We think of him receiving
+# We think of him receiving
 
-## side-lamp
+side-lamp
 
 a fresh ‘bundle’ every time he passes through the
 
-## (6 W)
+(6 W)
 
-## battery
+battery
 
 which suggests he must be travelling very
 
 fast.
 
-## In fact
+# In fact
 
-### as we found earlier (Chapter 36)
+as we found earlier (Chapter 36)
 
 electrons drift along quite slowly.
 
-## As soon as the
+# As soon as the
 
-## circuit is complete
+circuit is complete
 
-### energy is delivered at once to the
+energy is delivered at once to the
 
-## 230 V mains 12 V a.
+230 V mains 12 V a.
 
-## supply lamp
+supply lamp
 
 not by electrons directly from the battery but
 
@@ -24106,9 +24106,9 @@ from electrons that were in the connecting wires.
 
 Figure 37.
 
-### 1 Investigating the effect of p.
+1 Investigating the effect of p.
 
-## (potential difference) on
+(potential difference) on
 
 energy transfer model is helpful but is not an exact representation.
 
@@ -24118,11 +24118,11 @@ indd 162 20/06/14 7:42 AM
 
 cells, batteries and e.
 
-## ●●The volt
+●●The volt
 
 The demonstrations of Figure 37.
 
-## 1 show that the
+1 show that the
 
 greater the voltage at the terminals of a supply
 
@@ -24138,73 +24138,73 @@ between two points in a circuit is 1 volt if 1 joule of
 
 electrical energy is transferred to other forms of energy when
 
-### 1 coulomb passes from one point to the other.
+1 coulomb passes from one point to the other.
 
-## That is
+# That is
 
-### 1 volt = 1 joule per coulomb (1 V = 1 J/C).
+1 volt = 1 joule per coulomb (1 V = 1 J/C).
 
-### If 2 J are given up by each coulomb
+# If 2 J are given up by each coulomb
 
 the p.
 
 is Figure 37.
 
-## 3 Compact batteries
+3 Compact batteries
 
-## 2 V.
+2 V.
 
-### If 6 J are transferred when 2 C pass
+# If 6 J are transferred when 2 C pass
 
 the p.
 
-## 6 J/2 C = 3 V.
+6 J/2 C = 3 V.
 
 In general if E (joules) is the energy transferred
 
-## 1.5 V
+# 1.5 V
 
 (i.e. the work done) when charge Q (coulombs) 1.
 
-## 5 V 1.
+5 V 1.
 
 passes between two points, the p.
 
-## V (volts) between
+V (volts) between
 
-## A B
+# A B
 
-## the points is given by
+the points is given by
 
-## 1.5 V
+# 1.5 V
 
-## V = E/Q or E = Q × V
+V = E/Q or E = Q × V
 
 If Q is in the form of a steady current I (amperes)
 
-## X Y
+# X Y
 
 fl owing for time t (seconds) then Q = I × t
 
-## 1.5 V 1.5 V
+# 1.5 V 1.5 V
 
-## (Chapter 36) and
+(Chapter 36) and
 
-## c P Q
+c P Q
 
-## E = I × t × V
+E = I × t × V
 
 Figure 37.
 
 The p.
 
-### at the terminals of a battery decreases
+at the terminals of a battery decreases
 
-## ●●Cells
+●●Cells
 
 batteries and slightly when current is drawn from it.
 
-## This effect is
+# This effect is
 
 due to the internal resistance of the battery which
 
@@ -24212,21 +24212,21 @@ transfers electrical energy to heat as current fl ows
 
 through it.
 
-## The greater the current drawn
+# The greater the current drawn
 
-## the larger
+the larger
 
 A ‘battery’ (Figure 37.
 
-## 3) consists of two or more
+3) consists of two or more
 
 electric cells.
 
 Greater voltages are obtained when the ‘lost’ voltage.
 
-## When no current is drawn from
+# When no current is drawn from
 
-## cells are joined in series
+cells are joined in series
 
 i.e. + of one to – of next.
 
@@ -24236,31 +24236,31 @@ In Figure 37.
 
 4a the two 1.
 
-### 5 V cells give a voltage of terminal p.
+5 V cells give a voltage of terminal p.
 
 is a maximum.
 
-## This maximum voltage
+# This maximum voltage
 
-## 3 V at the terminals A, B.
+3 V at the terminals A, B.
 
 Every coulomb in a circuit is termed the electromotive force (e.
 
-## ) of the
+) of the
 
 connected to this battery will have 3 J of electrical battery.
 
 Like potential difference, e.
 
-## is measured
+is measured
 
 energy.
 
-### in volts and can be written as
+in volts and can be written as
 
 The cells in Figure 37.
 
-## 4b are in opposition and the
+4b are in opposition and the
 
 = ‘lost’ volts + terminal p.
 
@@ -24268,13 +24268,13 @@ voltage at X, Y is zero.
 
 If two 1.
 
-### 5 V cells are connected in parallel
+5 V cells are connected in parallel
 
-## as in In energy terms
+as in In energy terms
 
 the e.
 
-## is defi ned as the number
+is defi ned as the number
 
 Figure 37.
 
@@ -24292,7 +24292,7 @@ through the battery (or cell).
 
 indd 163 20/06/14 7:42 AM
 
-## 37 Potential difference
+37 Potential difference
 
 In Figure 37.
 
@@ -24308,19 +24308,19 @@ be smaller if the internal resistance were larger.
 
 (iii) the voltage V across lamp L ,
 
-## 2 2
+2 2
 
 (iv) the voltage V across lamp L .
 
-## 3 3
+3 3
 
-### How does the value of V compare with
+# How does the value of V compare with
 
-## Practical work
+# Practical work
 
 V + V + V ?
 
-## 1 2 3
+1 2 3
 
 (c) Connect the circuit of Figure 37.
 
@@ -24328,17 +24328,17 @@ V + V + V ?
 
 L are in parallel across one 1.
 
-## 5 V cell.
+5 V cell.
 
 Measure the voltages,
 
-## Measuring voltage 2
+# Measuring voltage 2
 
 V and V across each lamp in turn.
 
-## How do V and V
+# How do V and V
 
-## 1 2, 1 2
+1 2, 1 2
 
 compare?
 
@@ -24346,35 +24346,35 @@ A voltmeter is an instrument for measuring voltage or p.
 
 looks like an ammeter but has a scale marked in volts.
 
-## Whereas
+# Whereas
 
 an ammeter is inserted in series in a circuit to measure the
 
-## current
+current
 
 a voltmeter is connected across that part of the circuit
 
-## where the voltage is required
+where the voltage is required
 
 i.e. in parallel.
 
-### (We will see later ●● Voltages round
+(We will see later ●● Voltages round
 
 that a voltmeter should have a high resistance and an ammeter a
 
 low resistance.
 
-## ) a circuit
+) a circuit
 
 To prevent damage the + terminal (marked red) must be
 
 connected to the point nearest the + of the battery.
 
-## a) Series
+a) Series
 
 (a) Connect the circuit of Figure 37.
 
-## The voltmeter gives the
+# The voltmeter gives the
 
 voltage across the lamp.
 
@@ -24382,33 +24382,33 @@ Read it.
 
 In the previous experiment you should have found
 
-### 1.5 V cell in the circuit of Figure 37.5b that
+# 1.5 V cell in the circuit of Figure 37.5b that
 
-## V = V + V + V
+V = V + V + V
 
-## 1 2 3
+1 2 3
 
-## lamp
+lamp
 
 For example, if V = 1.
 
-## 4 V, V = 1.
+4 V, V = 1.
 
-## 5 V and
+5 V and
 
-## 25 V) 1 2
+25 V) 1 2
 
 V = 1.
 
-## 6 V, then V will be (1.
+6 V, then V will be (1.
 
-## 4 + 1.
+4 + 1.
 
-## 5 + 1.
+5 + 1.
 
 6) V = 4.
 
-## 5 V.
+5 V.
 
 The voltage at the terminals of a battery equals the sum of
 
@@ -24416,27 +24416,27 @@ V the voltages across the devices in the external circuit from one
 
 battery terminal to the other.
 
-## voltmeter (0–5 V)
+voltmeter (0–5 V)
 
-## b) Parallel
+b) Parallel
 
-## 4.5 V
+# 4.5 V
 
 In the circuit of Figure 37.
 
-## V = V
+V = V
 
-## 1 2
+1 2
 
-## X Y
+# X Y
 
-## L L L
+# L L L
 
-## 1 2 3
+1 2 3
 
 b The voltages across devices in parallel in a circuit are equal.
 
-## 1.5 V
+# 1.5 V
 
 Figure 37.
 
@@ -24444,21 +24444,21 @@ Figure 37.
 
 indd 164 20/06/14 7:43 AM
 
-## Voltages round a circuit
+# Voltages round a circuit
 
-## Questions
+# Questions
 
-## 1 The p.
+1 The p.
 
 across the lamp in Figure 37.
 
-## 6 is 12 V.
+6 is 12 V.
 
-## How many
+# How many
 
 joules of electrical energy are changed into light and heat
 
-## when
+when
 
 a a charge of 1 C passes through it,
 
@@ -24466,35 +24466,35 @@ b a charge of 5 C passes through it,
 
 c a current of 2 A fl ows in it for 10 s?
 
-## d e f
+d e f
 
 Figure 37.
 
-### 5 Three voltmeters V, V and V are connected as in
+5 Three voltmeters V, V and V are connected as in
 
-## 1 2
+1 2
 
 Figure 37.
 
-### a If V reads 18 V and V reads 12 V
+a If V reads 18 V and V reads 12 V
 
 what does V read?
 
-## 1 2
+1 2
 
 b If the ammeter A reads 0.
 
-### 5 A, how much electrical energy
+5 A, how much electrical energy
 
-## 12V
+12V
 
 is changed to heat and light in lamp L in one minute?
 
 Figure 37.
 
-## 6 c Copy Figure 37.
+6 c Copy Figure 37.
 
-### 9 and mark with a + the positive
+9 and mark with a + the positive
 
 terminals of the ammeter and voltmeters for correct
 
@@ -24508,79 +24508,79 @@ at the terminals of the supply?
 
 b How many joules of electrical energy does 1 C gain on
 
-## passing through A
+passing through A
 
-## L L
+# L L
 
 (i) one cell, (ii) all three cells?
 
-### 3 Each of the cells shown in Figure 37.
+3 Each of the cells shown in Figure 37.
 
-## 7 has a p.
+7 has a p.
 
 of 1.
 
-## 5 V.
+5 V.
 
 Which of the arrangements would produce a battery with a
 
 of 6 V?
 
-## 1 2
+1 2
 
 Figure 37.
 
-## 1.5 V B
+# 1.5 V B
 
-### 6 Three voltmeters are connected as in Figure 37.
+6 Three voltmeters are connected as in Figure 37.
 
-## D 2
+# D 2
 
 Figure 37.
 
 4 The lamps and the cells in all the circuits of Figure 37.
 
-## 8 are the Figure 37.
+8 are the Figure 37.
 
 same.
 
-## If the lamp in a has its full
+# If the lamp in a has its full
 
-## normal brightness
+normal brightness
 
-## what can
+what can
 
 you say about the brightness of the lamps in b
 
 c, d, e and f?
 
-### What are the voltmeter readings x
+# What are the voltmeter readings x
 
-## y and z in the
+y and z in the
 
 table below (which were obtained with three different
 
 batteries)?
 
-## V/V V /V V /V
+V/V V /V V /V
 
-## 1 2
+1 2
 
-## x 12 6
+x 12 6
 
-## 6 4 y
+6 4 y
 
-## 12 z 4
+12 z 4
 
-## a b c
+a b c
 
 9781444176421_Section_04.
 
 indd 165 20/06/14 7:43 AM
 
-## 37 Potential difference
+37 Potential difference
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -24592,7 +24592,7 @@ electrical energy to other forms (e.g. in a lamp)
 
 and that p.
 
-## (also
+(also
 
 called ‘voltage’) is measured by a voltmeter
 
@@ -24618,21 +24618,21 @@ force (e.
 
 indd 166 20/06/14 7:43 AM
 
-## Resistance
+# Resistance
 
-### ● The ohm ● Resistor colour code
+● The ohm ● Resistor colour code
 
-## ● Resistors ● Resistivity
+● Resistors ● Resistivity
 
-## ● I–V graphs
+● I–V graphs
 
-## Ohm’s law ● Potential divider
+Ohm’s law ● Potential divider
 
-### ● Resistors in series ● Practical work
+● Resistors in series ● Practical work
 
-## Measuring resistance
+# Measuring resistance
 
-## ● Resistors in parallel
+● Resistors in parallel
 
 Electrons move more easily through some conductors
 
@@ -24640,21 +24640,21 @@ than others when a p.
 
 is applied.
 
-## The opposition of
+# The opposition of
 
 a conductor to current is called its resistance.
 
-## A good
+# A good
 
 conductor has a low resistance and a poor conductor
 
 has a high resistance.
 
-## The resistance of a wire of a
+# The resistance of a wire of a
 
-## certain material
+certain material
 
-## I R
+# I R
 
 (i) increases as its length increases,
 
@@ -24666,25 +24666,25 @@ Figure 38.
 
 A long thin wire has more resistance than a short
 
-## Alternatively
+# Alternatively
 
-## if R and I are known
+if R and I are known
 
-## V can be found
+# V can be found
 
 thick one of the same material.
 
-## Silver is the best
+# Silver is the best
 
-## from
+from
 
-## conductor
+conductor
 
-## but copper
+but copper
 
-## the next best
+the next best
 
-## is cheaper and
+is cheaper and
 
 is used for connecting wires and for domestic electric V = IR
 
@@ -24692,11 +24692,11 @@ cables.
 
 Also, when V and R are known
 
-## I can be calculated
+# I can be calculated
 
-## from
+from
 
-## ●●The ohm
+●●The ohm
 
 If the current in a conductor is I when the voltage I=
 
@@ -24704,53 +24704,53 @@ across it is V, as shown in Figure 38.
 
 1a, its resistance
 
-## R is defi ned by
+# R is defi ned by
 
 The triangle in Figure 38.
 
-## 1b is an aid to
+1b is an aid to
 
 remembering the three equations.
 
-## It is used like the
+# It is used like the
 
 V ‘density triangle’ in Chapter 5.
 
-## R=
+R=
 
-## ●●Resistors
+●●Resistors
 
 This is a reasonable way to measure resistance since
 
 Conductors intended to have resistance are called
 
-### the smaller I is for a given V
+the smaller I is for a given V
 
 the greater is R.
 
-## If V is
+# If V is
 
 resistors (Figure 38.
 
-## 2a) and are made either from
+2a) and are made either from
 
-## in volts and I in amperes
+in volts and I in amperes
 
 then R is in ohms (symbol wires of special alloys or from carbon.
 
-## Those used in
+# Those used in
 
 Ω, the Greek letter omega).
 
-## For example
+# For example
 
 if I = 2 A radio and television sets have values from a few ohms
 
-## when V = 12 V
+when V = 12 V
 
-## then R = 12 V/2 A
+then R = 12 V/2 A
 
-## that is
+that is
 
 R = 6 Ω.
 
@@ -24764,13 +24764,13 @@ The ohm is the resistance of a conductor in which the current is
 
 Figure 38.
 
-### 2a Circuit symbol for a resistor
+2a Circuit symbol for a resistor
 
-## I I
+# I I
 
 Figure 38.
 
-## 2b Resistor
+2b Resistor
 
 Figure 38.
 
@@ -24778,7 +24778,7 @@ Figure 38.
 
 indd 167 20/06/14 7:43 AM
 
-## 38 resistance
+38 resistance
 
 Figure 38.
 
@@ -24790,7 +24790,7 @@ Figure 38.
 
 Variable resistors are used in electronics (and are
 
-## Measuring resistance
+# Measuring resistance
 
 then called potentiometers) as volume and other
 
@@ -24800,13 +24800,13 @@ controls (Figure 38.
 
 Variable resistors that take The resistance R of a conductor can be found by measuring
 
-## larger currents
+larger currents
 
 like the one shown in Figure 38.
 
 3, the current I in it when a p.
 
-### V is applied across it and then
+# V is applied across it and then
 
 are useful in laboratory experiments.
 
@@ -24822,69 +24822,69 @@ metal bar above the tube.
 
 to three 1.
 
-## 5 V(4.
+5 V(4.
 
-## 5 V) cells in series
+5 V) cells in series
 
-### tube metal bar sliding contact
+tube metal bar sliding contact
 
-## terminals
+terminals
 
-## crocodile
+crocodile
 
-## clip
+clip
 
-## coil of constantan wire
+coil of constantan wire
 
-## terminal
+terminal
 
 Figure 38.
 
-## 3 Large variable resistor
+3 Large variable resistor
 
-## ammeter
+ammeter
 
 There are two ways of using such a variable resistor.
 
-## (0–1 A)
+(0–1 A)
 
 It may be used as a rheostat for changing the current rheostat circuit
 
-## (0–25 Ω) board
+(0–25 Ω) board
 
-## in a circuit
+in a circuit
 
-### only one end connection and the sliding
+only one end connection and the sliding
 
 contact are then required.
 
 In Figure 38.
 
-## 4a moving the
+4a moving the
 
 sliding contact to the left reduces the resistance and
 
 increases the current.
 
-### This variable resistor can also act
+# This variable resistor can also act
 
 as a potential divider for changing the p.
 
-## applied to
+applied to
 
-## V voltmeter
+# V voltmeter
 
-## a device
+a device
 
 all three connections are then used.
 
-## In Figure
+# In Figure
 
-## (0–5 V)
+(0–5 V)
 
 4b any fraction from the total p.
 
-## of the battery to
+of the battery to
 
 zero can be ‘tapped off’ by moving the sliding contact
 
@@ -24894,17 +24894,17 @@ down.
 
 Figure 38.
 
-### 5 shows the circuit diagram symbol
+5 shows the circuit diagram symbol
 
 for a variable resistor being used in rheostat mode.
 
 Set up the circuit of Figure 38.
 
-### 6 in which the unknown resistance
+6 in which the unknown resistance
 
 R is 1 metre of SWG 34 constantan wire.
 
-## Altering the rheostat
+# Altering the rheostat
 
 changes both the p.
 
@@ -24912,7 +24912,7 @@ V and the current I.
 
 Record in a table, with
 
-## potential three columns
+potential three columns
 
 five values of I (e.g. 0.
 
@@ -24922,33 +24922,33 @@ five values of I (e.g. 0.
 
 20, 0.
 
-## 25 and
+25 and
 
 divider 0.
 
-### 3 A) and the corresponding values of V.
+3 A) and the corresponding values of V.
 
-## Work out R for each
+# Work out R for each
 
 rheostat pair of readings.
 
-## Repeat the experiment
+# Repeat the experiment
 
-### but instead of the wire use (i) a lamp
+but instead of the wire use (i) a lamp
 
 (e.g. 2.
 
-## 5 V, 0.
+5 V, 0.
 
-### 3 A), (ii) a semiconductor diode (e.g. 1 N4001)
+3 A), (ii) a semiconductor diode (e.g. 1 N4001)
 
 connected first one way then the other way round
 
-## (iii) a
+(iii) a
 
 thermistor (e.g. TH 7).
 
-### (Semiconductor diodes and thermistors
+(Semiconductor diodes and thermistors
 
 a b are considered in Chapter 41 in more detail.
 
@@ -24962,7 +24962,7 @@ divider.
 
 indd 168 20/06/14 7:44 AM
 
-## resistors in series
+resistors in series
 
 ●●i–V graphs: Ohm’s law c) Filament lamp
 
@@ -24972,7 +24972,7 @@ The results of the previous experiment allow graphs
 
 high temperatures.
 
-### For a fi lament lamp the I–V graph
+For a fi lament lamp the I–V graph
 
 of I against V to be plotted for different conductors.
 
@@ -24980,25 +24980,25 @@ bends over as V and I increase (Figure 38.
 
 7c).
 
-## That
+# That
 
-## I I is
+# I I is
 
 the resistance (V/I ) increases as I increases and
 
 makes the fi lament hotter.
 
-### d) Variation of resistance with
+d) Variation of resistance with
 
-## temperature
+temperature
 
-## In general
+# In general
 
-### an increase of temperature increases
+an increase of temperature increases
 
-### 0 V 0 V the resistance of metals
+0 V 0 V the resistance of metals
 
-## as for the fi lament lamp
+as for the fi lament lamp
 
 a Ohmic conductor b Semiconductor diode in Figure 38.
 
@@ -25006,11 +25006,11 @@ a Ohmic conductor b Semiconductor diode in Figure 38.
 
 I I semiconductors.
 
-### The resistance of semiconductor
+# The resistance of semiconductor
 
 thermistors (see Chapter 41) decreases if their
 
-## temperature rises
+temperature rises
 
 i.e. their I–V graph bends upwards
 
@@ -25022,41 +25022,41 @@ potential divider (Figure 38.
 
 8), the p.
 
-## across the
+across the
 
 0 V 0 V resistor increases as the temperature of the thermistor
 
-### c Filament lamp d Thermistor increases
+c Filament lamp d Thermistor increases
 
-### the circuit can be used to monitor
+the circuit can be used to monitor
 
-## temperature
+temperature
 
 for example in a car radiator.
 
 Figure 38.
 
-## 7 I–V graphs
+7 I–V graphs
 
-## a) Metallic conductors
+a) Metallic conductors
 
 Metals and some alloys give I–V graphs that are a
 
-### straight line through the origin
+straight line through the origin
 
 as in Figure 38.
 
 provided that their temperature is constant.
 
-## I is
+# I is
 
-## thermistor
+thermistor
 
 directly proportional to V, i.e. I ∝ V.
 
-## Doubling V
+# Doubling V
 
-## doubles I
+doubles I
 
 etc. Such conductors obey Ohm’s law
 
@@ -25066,11 +25066,11 @@ Figure 38.
 
 stated as follows.
 
-### e) Variation of resistance with light
+e) Variation of resistance with light
 
 The current in a metallic conductor is directly proportional to
 
-## intensity
+intensity
 
 the p.
 
@@ -25084,11 +25084,11 @@ decreases when the intensity of light falling on them
 
 increases.
 
-### This property is made use of in light-
+# This property is made use of in light-
 
 They are called ohmic or linear conductors and dependent resistors (LDRs) (see Chapter 41).
 
-## since I ∝ V
+since I ∝ V
 
 it follows that V/I = a constant (obtained I–V graph for an LDR is similar to that shown in
 
@@ -25098,7 +25098,7 @@ The resistance of Figure 38.
 
 7d for a thermistor.
 
-## Both thermistors and
+# Both thermistors and
 
 an ohmic conductor therefore does not change when LDRs are non-ohmic conductors.
 
@@ -25110,17 +25110,17 @@ b) Semiconductor diode ●●Resistors in series
 
 The typical I–V graph in Figure 38.
 
-## 7b shows that
+7b shows that
 
 The resistors in Figure 38.
 
-## 9 are in series.
+9 are in series.
 
-## The same
+# The same
 
 current passes when the p.
 
-## is applied in one
+is applied in one
 
 current I fl ows through each and the total voltage
 
@@ -25130,7 +25130,7 @@ V across all three is the sum of the separate voltages
 
 opposite direction.
 
-### A diode has a small resistance
+# A diode has a small resistance
 
 across them, i.e.
 
@@ -25140,7 +25140,7 @@ resistance when the p.
 
 is reversed.
 
-### It conducts in V = V 1 + V 2 + V 3
+It conducts in V = V 1 + V 2 + V 3
 
 one direction only and is a non-ohmic conductor.
 
@@ -25148,27 +25148,27 @@ one direction only and is a non-ohmic conductor.
 
 indd 169 20/06/14 7:44 AM
 
-## 38 resistance
+38 resistance
 
 V Dividing both sides by V,
 
-## R R R
+# R R R
 
-## 1 2 3
+1 2 3
 
-## I I
+# I I
 
-## 1 1 1 1
+1 1 1 1
 
-## = + +
+= + +
 
-## R R R R
+# R R R R
 
-## 1 2 3
+1 2 3
 
-## V V V
+# V V V
 
-## 1 2 3
+1 2 3
 
 Figure 38.
 
@@ -25178,49 +25178,49 @@ But V = IR , V = IR and V = IR .
 
 Also, if R is the 1 1 1 R R
 
-## 1 1 2 2 3 3 = + = 2 + 1
+1 1 2 2 3 3 = + = 2 + 1
 
-## combined resistance
+combined resistance
 
-## V = IR
+V = IR
 
-## and so R R R R R R R
+and so R R R R R R R
 
-## 1 2 1 2 1 2
+1 2 1 2 1 2
 
-### IR = IR 1 + IR 2 + IR 3 ∴ 1 = R 2 + R 1
+IR = IR 1 + IR 2 + IR 3 ∴ 1 = R 2 + R 1
 
-## R R R
+# R R R
 
 Dividing both sides by I, 1 2
 
 Inverting both sides,
 
-## R = R + R + R
+R = R + R + R
 
-## 1 2 3
+1 2 3
 
-## R R product of resistances
+# R R product of resistances
 
-## R = 1 2 =
+R = 1 2 =
 
-## R + R sum of ressistances
+R + R sum of ressistances
 
-## 1 2
+1 2
 
 ●●Resistors in parallel The combined resistance of two resistors in parallel is
 
 less than the value of either resistor alone.
 
-## Check this
+# Check this
 
 The resistors in Figure 38.
 
-## 10 are in parallel.
+10 are in parallel.
 
 The is true in the following Worked example.
 
-## Lamps are
+# Lamps are
 
 voltage V between the ends of each is the same connected in parallel rather than in series in a lighting
 
@@ -25230,19 +25230,19 @@ Can you suggest why?
 
 (See p.
 
-## 180 for the
+180 for the
 
-## in the separate branches
+in the separate branches
 
 i.e. advantages.
 
-## I = I + I + I
+I = I + I + I
 
-## 1 2 3
+1 2 3
 
-## I 1
+# I 1
 
-## 1 ●●Worked example
+1 ●●Worked example
 
 A p.
 
@@ -25254,39 +25254,39 @@ I I 2 2 I network of resistors in Figure 38.
 
 a What is the combined resistance of the 6 Ω and
 
-## 12 Ω resistors in parallel?
+12 Ω resistors in parallel?
 
-## I 3
+# I 3
 
-### 3 b What is the current in the 8 Ω resistor?
+3 b What is the current in the 8 Ω resistor?
 
 c What is the voltage across the parallel network?
 
 d What is the current in the 6 Ω resistor?
 
-## 24 V
+24 V
 
 Figure 38.
 
-## 10 Resistors in parallel
+10 Resistors in parallel
 
 But I = V/R , I = V/R and I = V/R .
 
 Also, if R
 
-## 1 1 2 2 3 3
+1 1 2 2 3 3
 
 is the combined resistance, I = V/R, 6 Ω
 
-## V V V V
+# V V V V
 
-## 8 Ω
+8 Ω
 
-## = + +
+= + +
 
-## R R R R
+# R R R R
 
-## 1 2 3 12 Ω
+1 2 3 12 Ω
 
 Figure 38.
 
@@ -25294,39 +25294,39 @@ Figure 38.
 
 indd 170 20/06/14 7:44 AM
 
-## resistivity
+resistivity
 
-## Figure Colour
+# Figure Colour
 
-## 1st 2nd number of
+1st 2nd number of
 
 a Let R = resistance of 6 Ω and 12 Ω in parallel.
 
-### Then figure figure noughts 0 black
+# Then figure figure noughts 0 black
 
-## 1 tolerance
+1 tolerance
 
-## 1 brown
+1 brown
 
-## (accuracy)
+(accuracy)
 
-## 1 1 1 2 1 3 2 red
+1 1 1 2 1 3 2 red
 
-## = + = + =
+= + = + =
 
-## R 6 12 12 12 12 3 orange
+# R 6 12 12 12 12 3 orange
 
-## 4 yellow
+4 yellow
 
-### ∴ R 1 = 1 3 2 = 4 Ω silver 5 green
+∴ R 1 = 1 3 2 = 4 Ω silver 5 green
 
-## 10% 6 blue
+10% 6 blue
 
-## red violet orange
+red violet orange
 
 b Let R = total resistance of circuit = 4 + 8
 
-## that 2 7 000 7 violet
+that 2 7 000 7 violet
 
 is, R = 12 Ω.
 
@@ -25336,37 +25336,37 @@ Figure 38.
 
 11b, and if I is the current in it then,
 
-## resistor value 27 000 (10%)
+resistor value 27 000 (10%)
 
-## 9 white
+9 white
 
-## 27 k (10%)
+27 k (10%)
 
-## since V = 24 V
+since V = 24 V
 
-## Tolerance
+# Tolerance
 
-## 5% gold
+5% gold
 
-## V 24 V 10% silver
+V 24 V 10% silver
 
-## I = = = 2 A
+I = = = 2 A
 
-## R 12 Ω 20%no band
+R 12 Ω 20%no band
 
 ∴ current in 8 Ω resistor = 2 A Figure 38.
 
-## 12 Colour code for resistors
+12 Colour code for resistors
 
-## 24 V
+24 V
 
-## ●●Resistivity
+●●Resistivity
 
 I I Experiments show that the resistance R of a wire of a
 
-## given material is
+given material is
 
-## 4 Ω 8 Ω
+4 Ω 8 Ω
 
 (i) directly proportional to its length l
 
@@ -25384,21 +25384,21 @@ c Let V = voltage across parallel network in Figure
 
 11a.
 
-## Then 1 ρl
+Then 1 ρl
 
-## R ∝ or R =
+R ∝ or R =
 
-## A A
+# A A
 
-## V = I × R = 2 A × 4 Ω = 8 V
+V = I × R = 2 A × 4 Ω = 8 V
 
-## 1 1
+1 1
 
-### d Let I = current in 6 Ω resistor
+d Let I = current in 6 Ω resistor
 
-### then since where ρ is a constant
+then since where ρ is a constant
 
-## called the resistivity of
+called the resistivity of
 
 V = 8 V the material.
 
@@ -25406,11 +25406,11 @@ If we put l = 1 m and A = 1 m2,
 
 then ρ = R.
 
-## V 8 V 4
+# V 8 V 4
 
-## I = 1 = = A
+I = 1 = = A
 
-## 1 6 Ω 6 Ω 3
+1 6 Ω 6 Ω 3
 
 The resistivity of a material is numerically equal to the
 
@@ -25418,11 +25418,11 @@ resistance of a 1 m length of the material with cross-sectional
 
 area 1 m2.
 
-## ●●Resistor colour code
+●●Resistor colour code
 
-### The unit of ρ is the ohm-metre (Ω m)
+The unit of ρ is the ohm-metre (Ω m)
 
-## as can be
+as can be
 
 Resistors have colour coded bands as shown in seen by rearranging the equation to give ρ = AR/l
 
@@ -25432,25 +25432,25 @@ In the orientation shown the fi rst two and inserting units for A
 
 R and l.
 
-## Knowing ρ for
+Knowing ρ for
 
-### bands on the left give digits 2 and 7
+bands on the left give digits 2 and 7
 
-## the third band a material
+the third band a material
 
-### the resistance of any sample of it can
+the resistance of any sample of it can
 
 gives the number of noughts (3) and the fourth band be calculated.
 
-### The resistivities of metals increase at
+# The resistivities of metals increase at
 
 gives the resistor’s ‘tolerance’ (or accuracy
 
 here ±10%).
 
-## higher temperatures
+higher temperatures
 
-## for most other materials they
+for most other materials they
 
 So the resistor has a value of 27 000 Ω (±10%).
 
@@ -25460,61 +25460,61 @@ decrease.
 
 indd 171 20/06/14 7:44 AM
 
-## 38 resistance
+38 resistance
 
-## ●●Worked example
+●●Worked example
 
 Calculate the resistance of a copper wire 1.
 
-## 0 km long R V
+0 km long R V
 
-## 1 1
+1 1
 
 and 0.
 
-### 50 mm diameter if the resistivity of copper is
+50 mm diameter if the resistivity of copper is
 
-## 1.7 × 10–8 Ω m. V
+# 1.7 × 10–8 Ω m. V
 
 Converting all units to metres, we get
 
-## R V
+# R V
 
-## 2 2
+2 2
 
 length l = 1.
 
-## 0 km = 1000 m = 103 m
+0 km = 1000 m = 103 m
 
 diameter d = 0.
 
-## 50 mm = 0.
+50 mm = 0.
 
-## 50 × 10–3 m
+50 × 10–3 m
 
-### If r is the radius of the wire
+# If r is the radius of the wire
 
-## the cross-sectional area I
+the cross-sectional area I
 
-## A = πr2 = π(d/2)2 = (π/4)d2
+A = πr2 = π(d/2)2 = (π/4)d2
 
 so Figure 38.
 
-## 13 Potential divider circuit
+13 Potential divider circuit
 
-## A =
+A =
 
 π (0.
 
-## 50×10−3)2
+50×10−3)2
 
 m2 ≈ 0.
 
-## 20×10−6m2
+20×10−6m2
 
 Returning to Figure 38.
 
-## 8 (p.
+8 (p.
 
 169), can you now
 
@@ -25522,13 +25522,13 @@ Returning to Figure 38.
 
 when the resistance of the thermistor decreases?
 
-## Then
+# Then
 
 ρl (1.
 
-## 7 ×10−8Ωm) × (103m) Questions
+7 ×10−8Ωm) × (103m) Questions
 
-## R = = = 85Ω
+R = = = 85Ω
 
 A 0.
 
@@ -25536,149 +25536,149 @@ A 0.
 
 across it causes a current of 4 A?
 
-## 2 Calculate the p.
+2 Calculate the p.
 
-### across a 10 Ω resistor carrying a
+across a 10 Ω resistor carrying a
 
 current of 2 A.
 
-## 3 The p.
+3 The p.
 
 across a 3 Ω resistor is 6 V.
 
-## What is the current
+# What is the current
 
 ●●Potential divider fl owing (in ampere)?
 
-## A B 1 C 2 D 6 E 8
+# A B 1 C 2 D 6 E 8
 
 In the circuit shown in Figure 38.
 
 13, two resistors R
 
-## 1 4 The resistors R
+1 4 The resistors R
 
 R , R and R in Figure 38.
 
-## 14 are all equal
+14 are all equal
 
 and R are in series with a supply of voltage V.
 
-## The 1 2 3 4
+# The 1 2 3 4
 
-## 2 in value.
+2 in value.
 
-### What would you expect the voltmeters A
+# What would you expect the voltmeters A
 
-## B and
+# B and
 
-### current in the circuit is C to read
+current in the circuit is C to read
 
 assuming that the connecting wires in the circuit
 
 have negligible resistance?
 
-## supply voltage V
+supply voltage V
 
-## I = =
+I = =
 
-### total resistance (R + R ) A B C
+total resistance (R + R ) A B C
 
-## 1 2
+1 2
 
-## So the voltage across R is
+# So the voltage across R is
 
-## R R R R
+# R R R R
 
-## 1 2 3 4
+1 2 3 4
 
-## V × R R
+V × R R
 
-## V = I × R = 1 =V × 1
+V = I × R = 1 =V × 1
 
-## 1 1 (R + R ) (R + R )
+1 1 (R + R ) (R + R )
 
-## 1 2 1 2 12 V
+1 2 1 2 12 V
 
 Figure 38.
 
-## and the voltage across R is
+and the voltage across R is
 
 5 Calculate the effective resistance between A and B in
 
 V × R R Figure 38.
 
-## V = I × R = 2 =V × 2
+V = I × R = 2 =V × 2
 
-## 2 2 (R + R ) (R + R )
+2 2 (R + R ) (R + R )
 
-## 1 2 1 2 4 Ω
+1 2 1 2 4 Ω
 
 Also the ratio of the voltages across the two
 
-## resistors is
+resistors is
 
-## A 4 Ω B
+A 4 Ω B
 
-## V R
+# V R
 
-## 1 = 1
+1 = 1
 
 V R Figure 38.
 
-## 2 2
+2 2
 
 9781444176421_Section_04.
 
 indd 172 20/06/14 7:45 AM
 
-## Potential divider
+# Potential divider
 
-### 6 What is the effective resistance in Figure 38.
+6 What is the effective resistance in Figure 38.
 
-## 16 between
+16 between
 
 a A and B,
 
 b C and D?
 
-## 6 Ω
+6 Ω
 
-## 3 Ω 6 Ω 6 Ω 6 Ω
+3 Ω 6 Ω 6 Ω 6 Ω
 
-## A B C D
+# A B C D
 
-## 3 Ω
-
-Figure 38.
-
-## 7 Figure 38.
-
-## 17 shows three resistors.
-
-## Their combined
-
-## resistance in ohms is
-
-## 5 1 1 2
-
-## A 1 B 14 C 1 D 7 E 6
-
-## 7 5 2 3
-
-## 6 Ω
-
-## 6 Ω
-
-## 2 Ω
+3 Ω
 
 Figure 38.
 
-## 8 a The graph in Figure 38.
+7 Figure 38.
 
-## 18 illustrates how the p.
+17 shows three resistors.
 
-## across
+# Their combined
+
+resistance in ohms is
+
+5 1 1 2
+
+# A 1 B 14 C 1 D 7 E 6
+
+7 5 2 3
+
+6 Ω
+
+6 Ω
+
+2 Ω
+
+Figure 38.
+
+8 a The graph in Figure 38.
+
+18 illustrates how the p.
+
+across
 
 the ends of a conductor is related to the current in it.
 
@@ -25688,7 +25688,7 @@ the ends of a conductor is related to the current in it.
 
 b Draw diagrams to show how six 2 V lamps could be lit to
 
-### normal brightness when using a
+normal brightness when using a
 
 (i) 2 V supply,
 
@@ -25696,11 +25696,11 @@ b Draw diagrams to show how six 2 V lamps could be lit to
 
 (iii) 12 V supply.
 
-## 0 1 2
+0 1 2
 
-## current/A
+current/A
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -25712,19 +25712,19 @@ After studying this chapter you should be able to
 
 • describe experiments using the ammeter–voltmeter
 
-## method to measure resistance
+method to measure resistance
 
-## and study the relationship
+and study the relationship
 
 between current and p.
 
 for (a) metallic conductors,
 
-## (b) semiconductor diodes
+(b) semiconductor diodes
 
-## (c) fi lament lamps
+(c) fi lament lamps
 
-## (d) thermistors
+(d) thermistors
 
 (e) LDRs,
 
@@ -25750,21 +25750,21 @@ Figure 38.
 
 9 When a 4 Ω resistor is connected across the terminals of a
 
-## 12 V battery
+12 V battery
 
 the number of coulombs passing through the
 
-## resistor per second is
+resistor per second is
 
 A 0.
 
-## 3 B 3 C 4 D 12 E 48
+3 B 3 C 4 D 12 E 48
 
 9781444176421_Section_04.
 
 indd 173 20/06/14 7:45 AM
 
-## Capacitors
+# Capacitors
 
 ● Capacitance ● Charging and discharging a capacitor
 
@@ -25772,19 +25772,19 @@ indd 173 20/06/14 7:45 AM
 
 and a.
 
-## circuits
+circuits
 
 A capacitor stores electric charge and is useful in ●●Types of capacitor
 
 many electronic circuits.
 
-## In its simplest form it
+# In its simplest form it
 
 consists of two parallel metal plates separated by an Practical capacitors
 
-## with values ranging from
+with values ranging from
 
-## insulator
+insulator
 
 called the dielectric (Figure 39.
 
@@ -25792,29 +25792,29 @@ called the dielectric (Figure 39.
 
 Figure about 0.
 
-## 01 µF to 100 000 µF
+01 µF to 100 000 µF
 
-## often consist of two
+often consist of two
 
 1b shows the circuit symbol for a capacitor.
 
 long strips of metal foil separated by long strips
 
-## of dielectric
+of dielectric
 
-## rolled up like a ‘Swiss roll’
+rolled up like a ‘Swiss roll’
 
-## as in
+as in
 
 Figure 39.
 
-### The arrangement allows plates of large
+# The arrangement allows plates of large
 
-## dielectric
+dielectric
 
 area to be close together in a small volume.
 
-## Plastics
+# Plastics
 
 (e.g. polyesters) are commonly used as the dielectric
 
@@ -25822,29 +25822,29 @@ with films of metal being deposited on the plastic to
 
 act as the plates (Figure 39.
 
-## connections
+connections
 
-## to plates
+to plates
 
-## metal
+metal
 
-## foil dielectric
+foil dielectric
 
-## connections to plates
-
-Figure 39.
-
-### 2 Construction of a practical capacitor
+connections to plates
 
 Figure 39.
 
-## 3 Polyester capacitor
+2 Construction of a practical capacitor
+
+Figure 39.
+
+3 Polyester capacitor
 
 The electrolytic type of capacitor shown in Figure
 
 4a has a very thin layer of aluminium oxide as
 
-## metal plates
+metal plates
 
 the dielectric between two strips of aluminium foil
 
@@ -25860,49 +25860,49 @@ these must be connected to the + and − terminals
 
 Figure 39.
 
-## 1a A parallel-plate capacitor
+1a A parallel-plate capacitor
 
-### b symbol for a capacitor respectively
+b symbol for a capacitor respectively
 
 of the voltage supply.
 
-## ●●Capacitance
+●●Capacitance
 
-### The more charge a capacitor can store
+# The more charge a capacitor can store
 
-## the greater is
+the greater is
 
 its capacitance (C).
 
-### The capacitance is large when the
+# The capacitance is large when the
 
 plates have a large area and are close together.
 
-## It is a
+# It is a
 
 measured in farads (F) but smaller units such as the
 
 microfarad (µF) are more convenient.
 
-### 1 µF = 1 millionth of a farad = 10−6 F
+1 µF = 1 millionth of a farad = 10−6 F
 
 Figure 39.
 
-## 4a Electrolytic capacitor
+4a Electrolytic capacitor
 
-## b symbol showing polarity
+b symbol showing polarity
 
 9781444176421_Section_04.
 
 indd 174 20/06/14 7:46 AM
 
-### charging and discharging a capacitor
+charging and discharging a capacitor
 
-## ●●Charging and b) Discharging
+●●Charging and b) Discharging
 
 When a conductor is connected across a charged
 
-## discharging a capacitor
+discharging a capacitor
 
 capacitor, as in Figure 39.
 
@@ -25910,17 +25910,17 @@ capacitor, as in Figure 39.
 
 electrons from the negatively charged plate to the
 
-## a) Charging
+a) Charging
 
-## positively charged one
+positively charged one
 
 i.e. from Y to X.
 
-## The charge
+# The charge
 
 A capacitor can be charged by connecting a battery stored by the capacitor falls to zero
 
-## as does the
+as does the
 
 across it.
 
@@ -25928,11 +25928,11 @@ In Figure 39.
 
 5a, the + terminal of the voltage across it.
 
-### The capacitor has transferred its
+# The capacitor has transferred its
 
 battery attracts electrons (since they have a negative stored energy to the conductor.
 
-## The ‘delay’ time taken
+The ‘delay’ time taken
 
 charge) from plate X and the − terminal of the for a capacitor to fully charge or discharge through a
 
@@ -25942,7 +25942,7 @@ A positive charge resistor is made use of in many electronic circuits.
 
 builds up on plate X (since it loses electrons) and an
 
-## c) Demonstration
+c) Demonstration
 
 equal negative charge builds up on Y (since it gains
 
@@ -25950,9 +25950,9 @@ electrons).
 
 The circuit in Figure 39.
 
-## 6 has a two-way switch
+6 has a two-way switch
 
-## During the charging
+# During the charging
 
 there is a brief flow of S.
 
@@ -25970,7 +25970,7 @@ would be detected by a sensitive ammeter.
 
 The for the capacitor to charge or discharge
 
-## with the
+with the
 
 voltage builds up between X and Y and opposes values shown in Figure 39.
 
@@ -25980,9 +25980,9 @@ the battery voltage.
 
 Charging stops when these take 2 to 3 minutes to fully charge or discharge.
 
-## two voltages are equal
+two voltages are equal
 
-## the electron flow
+the electron flow
 
 i.e. the The direction of the deflection of the centre-
 
@@ -26000,9 +26000,9 @@ shown by the graphs in Figures 39.
 
 7a and b.
 
-## These
+# These
 
-## During the charging process
+# During the charging process
 
 electrical energy is can be plotted directly if the voltmeter is replaced
 
@@ -26012,85 +26012,85 @@ which by a datalogger and computer.
 
 then stores the energy.
 
-## centre-zero
+centre-zero
 
-## metal metal milliammeter
+metal metal milliammeter
 
-## plate Y plate X
+plate Y plate X
 
-## A
+A
 
-## 6V
+6V
 
-## C
+C
 
-## 500µF V
+500µF V
 
-## dielectric
+dielectric
 
-## battery
+battery
 
-### electron flow (in wire) 100 kΩ
+electron flow (in wire) 100 kΩ
 
-## to charge capacitor
+to charge capacitor
 
 Figure 39.
 
 6 Demonstration circuit for charging and discharging a
 
-## capacitor
+capacitor
 
 Figure 39.
 
-## 5a Charging a capacitor
+5a Charging a capacitor
 
-## Y X
+# Y X
 
-### electron flow to discharge capacitor
-
-Figure 39.
-
-## 5b Discharging a capacitor
-
-## egrahc
-
-## ro
-
-## egatlov
-
-## capacitor fully
-
-## charged to 6 V
-
-## a 0 time b
-
-## egrahc
-
-## ro
-
-## egatlov
-
-## 0 time
+electron flow to discharge capacitor
 
 Figure 39.
 
-### 7 Graphs: a charging; b discharging
+5b Discharging a capacitor
+
+egrahc
+
+ro
+
+egatlov
+
+capacitor fully
+
+charged to 6 V
+
+a 0 time b
+
+egrahc
+
+ro
+
+egatlov
+
+0 time
+
+Figure 39.
+
+7 Graphs: a charging; b discharging
 
 9781444176421_Section_04.
 
 indd 175 20/06/14 7:46 AM
 
-## 39 caPacitors
+39 caPacitors
 
-## Checklist
+# Checklist
 
-## ●●Effect of capacitors in
+●●Effect of capacitors in
 
 After studying this chapter you should be able to
 
 and a.
 
-## circuits
+circuits
 
 • state what a capacitor does,
 
@@ -26098,11 +26098,11 @@ and a.
 
 • describe in terms of electron motion how a capacitor can be
 
-## a) Direct current circuit
+a) Direct current circuit
 
-## charged and discharged
+charged and discharged
 
-### and sketch graphs of the capacitor
+and sketch graphs of the capacitor
 
 In Figure 39.
 
@@ -26112,9 +26112,9 @@ but the lamp does voltage with time for charging and discharging through a
 
 resistor,
 
-## not light
+not light
 
-## that is
+that is
 
 a capacitor blocks direct current.
 
@@ -26128,17 +26128,17 @@ In Figure 39.
 
 8b the supply is a.
 
-## and the lamp
+and the lamp
 
-## lights
+lights
 
 suggesting that a capacitor passes alternating
 
 current.
 
-## In fact
+# In fact
 
-### no current actually passes through
+no current actually passes through
 
 the capacitor since its plates are separated by an
 
@@ -26148,9 +26148,9 @@ But as the a.
 
 reverses direction, the
 
-### capacitor charges and discharges
+capacitor charges and discharges
 
-## causing electrons
+causing electrons
 
 to fl ow to and fro rapidly in the wires joining the
 
@@ -26162,11 +26162,11 @@ fl ows round the circuit,
 
 lighting the lamp.
 
-## 1000 µF 1000 µF
+1000 µF 1000 µF
 
-## 2 V
+2 V
 
-## a b
+a b
 
 Figure 39.
 
@@ -26174,7 +26174,7 @@ Figure 39.
 
 alternating current.
 
-## Questions
+# Questions
 
 1 a Describe the basic construction of a capacitor.
 
@@ -26186,27 +26186,27 @@ capacitor.
 
 d Name a unit of capacitance.
 
-### 2 a When a capacitor is being charged
+2 a When a capacitor is being charged
 
-## is the value of the
+is the value of the
 
-### charging current maximum or zero
-
-(i) at the start, or
-
-(ii) at the end of charging?
-
-### b When a capacitor is discharging
-
-## is the value of the
-
-### current in the circuit maximum or zero
+charging current maximum or zero
 
 (i) at the start, or
 
 (ii) at the end of charging?
 
-### 3 How does a capacitor behave in a circuit with
+b When a capacitor is discharging
+
+is the value of the
+
+current in the circuit maximum or zero
+
+(i) at the start, or
+
+(ii) at the end of charging?
+
+3 How does a capacitor behave in a circuit with
 
 a a d.
 
@@ -26220,7 +26220,7 @@ supply?
 
 indd 176 20/06/14 7:46 AM
 
-## Electric power
+# Electric power
 
 ● Power in electric circuits ● House circuits
 
@@ -26228,13 +26228,13 @@ indd 176 20/06/14 7:46 AM
 
 ● Electric heating ● Dangers of electricity
 
-## ● Joulemeter ● Practical work
+● Joulemeter ● Practical work
 
 Measuring electric power.
 
-## ●● Power in electric
+●● Power in electric
 
-## circuits
+circuits
 
 In many circuits it is important to know the
 
@@ -26242,39 +26242,39 @@ rate at which electrical energy is transferred into
 
 other forms of energy.
 
-## Earlier (Chapter 13) we
+Earlier (Chapter 13) we
 
 said that energy transfers were measured by
 
 the work done and power was defi ned by the
 
-## equation
+equation
 
 work done energy transfer Figure 40.
 
-## power = =
+power = =
 
-## time taken ttime taken
+time taken ttime taken
 
 Therefore to calculate the power P of an electrical
 
-## In symbols
+# In symbols
 
 E appliance we multiply the current I in it by the
 
-## P = (1)
+P = (1)
 
 t p.
 
 V across it.
 
-### For example if a lamp on a 240 V
+# For example if a lamp on a 240 V
 
 supply has a current of 0.
 
-## 25 A in it, its power is
+25 A in it, its power is
 
-### 240 V × 0.25 A = 60 W. The lamp is transferring
+240 V × 0.25 A = 60 W. The lamp is transferring
 
 where if E is in joules (J) and t in seconds (s) then 60 J of electrical energy into heat and light each
 
@@ -26282,7 +26282,7 @@ P is in J/s or watts (W).
 
 second.
 
-### Larger units of power are the kilowatt
+# Larger units of power are the kilowatt
 
 From the defi nition of p.
 
@@ -26290,61 +26290,61 @@ From the defi nition of p.
 
 that if E is the electrical energy transferred when
 
-### 1 kW = 1000 W and 1 MW = 1 000 000 W
+1 kW = 1000 W and 1 MW = 1 000 000 W
 
 there is a steady current I (in amperes) for time t
 
 (in seconds) in a device (e.g. a lamp) with a p.
 
-## In units
+# In units
 
 V (in volts) across it, as in Figure 40.
 
 1, then
 
-## watts = amperes × volts (3)
+watts = amperes × volts (3)
 
-### It follows from (3) that since
+It follows from (3) that since
 
-## E = ItV (2)
+E = ItV (2)
 
-## watts
+watts
 
-## volts =
+volts =
 
-## (4)
+(4)
 
-## amperes
+amperes
 
-### Substituting for E in (1) we get
+Substituting for E in (1) we get
 
 the volt can be defi ned as a watt per ampere and
 
-## E ItV
+# E ItV
 
 P = = p.
 
 calculated from (4).
 
-## t t
+t t
 
 If all the energy is transferred to heat in a
 
-## or resistor of resistance R
+or resistor of resistance R
 
-## then V = IR and the rate of
+then V = IR and the rate of
 
-### production of heat is given by
+production of heat is given by
 
-## P = IV
+P = IV
 
-## P = V × I = IR × I = I 2R
+P = V × I = IR × I = I 2R
 
-## That is
+# That is
 
-## if the current is doubled
+if the current is doubled
 
-## four times as
+four times as
 
 much heat is produced per second.
 
@@ -26354,7 +26354,7 @@ Also, P = V 2/R.
 
 indd 177 20/06/14 7:46 AM
 
-## 40 electric Power
+40 electric Power
 
 greater is the proportion of electrical energy transferred
 
@@ -26364,23 +26364,23 @@ metal with a high melting point (3400 ºC).
 
 Most lamps are gas-filled and contain nitrogen
 
-## Measuring electric power
+# Measuring electric power
 
 and argon, not air.
 
-### This reduces evaporation of the
+# This reduces evaporation of the
 
 tungsten which would otherwise condense on the
 
-## a) Lamp
+a) Lamp
 
 bulb and blacken it.
 
-### The coil is coiled compactly so
+# The coil is coiled compactly so
 
 Connect the circuit of Figure 40.
 
-## Note the ammeter and
+# Note the ammeter and
 
 that it is cooled less by convection currents in the gas.
 
@@ -26388,51 +26388,51 @@ voltmeter readings and work out the electric power supplied to
 
 the lamp in watts.
 
-## glass bulb
+glass bulb
 
-## 3 V
+3 V
 
-## argon and
+argon and
 
-## filament nitrogen
+filament nitrogen
 
-## lead-in
+lead-in
 
-## wires
+wires
 
-## torch bayonet
+torch bayonet
 
-## A V
+# A V
 
-## lamp cap
+lamp cap
 
-## (0–1 A) (0–5 V)
+(0–1 A) (0–5 V)
 
-## connections to lamp
-
-Figure 40.
-
-## 3 A filament lamp
+connections to lamp
 
 Figure 40.
 
-## 2 b) Fluorescent strips
+3 A filament lamp
+
+Figure 40.
+
+2 b) Fluorescent strips
 
 A filament lamp transfers only 10% of the electrical
 
-## b) Motor
+b) Motor
 
-## energy supplied to light
+energy supplied to light
 
 the other 90% becomes heat.
 
 Replace the lamp in Figure 40.
 
-## 2 by a small electric motor.
+2 by a small electric motor.
 
 Fluorescent strip lamps (Figure 40.
 
-## 4a) are five times
+4a) are five times
 
 Attach a known mass m (in kg) to the axle of the motor with a
 
@@ -26444,7 +26444,7 @@ the mass through a known height h (in m) at a steady speed.
 
 the 1000-hour life of filament lamps.
 
-## They cost more
+# They cost more
 
 Then the power output P (in W) of the motor is given by to install but running costs are less.
 
@@ -26452,43 +26452,43 @@ When a fluorescent strip lamp is switched on
 
 work done in raising mass mghh mercury vapour emits invisible ultraviolet radiation
 
-## P = =
+P = =
 
-## o time taken t
+o time taken t
 
 which makes the powder on the inside of the tube
 
-## fluoresce (glow)
+fluoresce (glow)
 
 i.e. visible light is emitted.
 
-## Different
+# Different
 
 If the ammeter and voltmeter readings I and V are noted while the
 
-## mass is being raised
+mass is being raised
 
 the power input P (in W) can be found from powders give different colours.
 
-### P i = IV c) Compact fluorescent lamps
+P i = IV c) Compact fluorescent lamps
 
-### The efficiency of the motor is given by
+# The efficiency of the motor is given by
 
 These energy-saving fluorescent lamps (Figure
 
 4b) are available to fit straight into normal light
 
-## efficiency = o ×100% sockets
+efficiency = o ×100% sockets
 
 either bayonet or screw-in.
 
-## They last up to
+# They last up to
 
 eight times longer (typically 8000 hours) and use
 
 Also investigate the effect of a greater mass on
 
-## (i) the speed
+(i) the speed
 
 (ii) the about five times less energy than filament lamps for
 
@@ -26500,17 +26500,17 @@ For example, a 20 W compact
 
 fluorescent is equivalent to a 100 W filament lamp.
 
-## electrodes
+electrodes
 
-## ●●Electric lighting
+●●Electric lighting
 
-## a) Filament lamps
+a) Filament lamps
 
-## mercury glass fluorescent
+mercury glass fluorescent
 
 The filament is a small coil of tungsten wire (Figure
 
-## a vapour tube powder b
+a vapour tube powder b
 
 3) which becomes white hot when there is a current
 
@@ -26520,13 +26520,13 @@ The higher the temperature of the filament
 
 the Figure 40.
 
-## 4 Fluorescent lamps
+4 Fluorescent lamps
 
 9781444176421_Section_04.
 
 indd 178 20/06/14 7:47 AM
 
-## electric heating
+electric heating
 
 ●●Electric heating only current in one (Figure 40.
 
@@ -26536,27 +26536,27 @@ in series (Figure 40.
 
 6c).
 
-## a) Heating elements
+a) Heating elements
 
-## switch elements
+switch elements
 
 In domestic appliances such as electric fires
 
-## cookers
+cookers
 
 kettles and irons the ‘elements’ (Figure 40.
 
-## 5) are
+5) are
 
-## mains
+mains
 
 made from Nichrome wire.
 
-## This is an alloy of nickel
+# This is an alloy of nickel
 
 and chromium which does not oxidise (and so
 
-## a High
+a High
 
 become brittle) when the current makes it red hot.
 
@@ -26564,7 +26564,7 @@ The elements in radiant electric fires are at red
 
 heat (about 900 ºC) and the radiation they emit is
 
-## mains
+mains
 
 directed into the room by polished reflectors.
 
@@ -26578,41 +26578,41 @@ In storage heaters the elements heat fire-clay bricks
 
 during the night using ‘off-peak’ electricity.
 
-## On the
+# On the
 
-## mains
+mains
 
-## following day these cool down
+following day these cool down
 
-## giving off the stored
+giving off the stored
 
 heat to warm the room.
 
-## c Low
+c Low
 
 Figure 40.
 
-## 6 Three-heat switch
+6 Three-heat switch
 
-## element
+element
 
-## c) Fuses
+c) Fuses
 
 A fuse protects a circuit.
 
-## It is a short length of wire
+# It is a short length of wire
 
-### of material with a low melting point
+of material with a low melting point
 
-## often ‘tinned
+often ‘tinned
 
-## copper’
+copper’
 
 which melts and breaks the circuit when the
 
 current in it exceeds a certain value.
 
-## Two reasons
+# Two reasons
 
 cooker hob for excessive currents are ‘short circuits’ due to
 
@@ -26624,19 +26624,19 @@ Without a fuse the wiring would become hot
 
 in these cases and could cause a fire.
 
-## A fuse should
+# A fuse should
 
 ensure that the current-carrying capacity of the
 
 wiring is not exceeded.
 
-## In general the thicker a
+# In general the thicker a
 
-## cable is
+cable is
 
-## the more current it can carry
+the more current it can carry
 
-## but each size
+but each size
 
 has a limit.
 
@@ -26646,31 +26646,31 @@ Always switch off before replacing a fuse
 
 and always replace with one of the same value as
 
-## iron
+iron
 
 recommended by the manufacturer of the appliance.
 
-## element
+element
 
-## kettle
+kettle
 
-## fuse
+fuse
 
 Figure 40.
 
-## 5 Heating elements wire
+5 Heating elements wire
 
-## cartridge
+cartridge
 
-## b) Three-heat switch fuse
+b) Three-heat switch fuse
 
 This is sometimes used to control heating appliances.
 
 It has three settings and uses two identical elements.
 
-## insulating
+insulating
 
-## On ‘high’
+On ‘high’
 
 the elements are in parallel across the a holder
 
@@ -26680,19 +26680,19 @@ supply voltage (Figure 40.
 
 Figure 40.
 
-## 7a Two types of fuse
+7a Two types of fuse
 
-### b the circuit symbol for a fuse
+b the circuit symbol for a fuse
 
 9781444176421_Section_04.
 
 indd 179 20/06/14 7:47 AM
 
-## 40 electric Power
+40 electric Power
 
 ●●Joulemeter (i) The p.
 
-### across each lamp is fixed (at the
+across each lamp is fixed (at the
 
 mains p.
 
@@ -26702,7 +26702,7 @@ Instead of using an ammeter and a voltmeter to brightness irrespective of how ma
 
 measure the electrical energy transferred by an are switched on.
 
-## appliance
+appliance
 
 a joulemeter can be used to measure (ii) Each lamp can be turned on and off
 
@@ -26710,9 +26710,9 @@ it directly in joules.
 
 The circuit connections are independently
 
-## if one lamp fails
+if one lamp fails
 
-## the others can
+the others can
 
 shown in Figure 40.
 
@@ -26722,17 +26722,17 @@ A household electricity meter still be operated.
 
 12) is a joulemeter.
 
-## b) Switches and fuses
+b) Switches and fuses
 
-## electrical
+electrical
 
 joulemeter appliance These are always in the live wire.
 
-## If they were in the
+# If they were in the
 
-## supply
+supply
 
-## neutral
+neutral
 
 light switches and power sockets would be
 
@@ -26742,31 +26742,31 @@ Figure 40.
 
 8 Connections to a joulemeter fatal shock could then be obtained by
 
-## for example
+for example
 
 touching the element of an electric fire when it was
 
 switched off.
 
-## ●●House circuits
+●●House circuits
 
-## c) Staircase circuit
+c) Staircase circuit
 
 Electricity usually comes to our homes by an The light is controlled from two places by the two
 
-### underground cable containing two wires
+underground cable containing two wires
 
 the live two-way switches.
 
 (L) and the neutral (N).
 
-## The neutral is earthed at
+# The neutral is earthed at
 
-## d) Ring main circuit
+d) Ring main circuit
 
 the local sub-station and so there is no p.
 
-## between
+between
 
 it and earth.
 
@@ -26778,19 +26778,19 @@ live wire is alternately positive and negative.
 
 Study the rings round the house and the power sockets
 
-## each
+each
 
 typical house circuits shown in Figure 40.
 
 rated at 13 A, are tapped off from them.
 
-## Thinner
+# Thinner
 
 wires can be used since the current to each socket
 
-## a) Circuits in parallel
+a) Circuits in parallel
 
-## flows by two paths
+flows by two paths
 
 i.e. from both directions in the
 
@@ -26798,13 +26798,13 @@ Every circuit is connected in parallel with the supply
 
 i.e. ring.
 
-### The ring has a 30 A fuse and if it has
+# The ring has a 30 A fuse and if it has
 
 say, ten
 
-## across the live and neutral
+across the live and neutral
 
-### and receives the full mains sockets
+and receives the full mains sockets
 
 then all can be used so long as the total
 
@@ -26812,71 +26812,71 @@ of 230 V (in the UK).
 
 The advantages of having current does not exceed 30 A
 
-## otherwise the wires
+otherwise the wires
 
-### appliances connected in parallel
+appliances connected in parallel
 
-## rather than in series
+rather than in series
 
 can overheat.
 
-### A house may have several ring circuits
+# A house may have several ring circuits
 
-## each
+each
 
 be seen by studying the lighting circuit in Figure 40.
 
 serving a different area.
 
-## supply CONSUMER UNIT
+supply CONSUMER UNIT
 
-## company’s
+company’s
 
-## main meter
+main meter
 
-## fuse
+fuse
 
-## to
+to
 
-## N L
+# N L
 
-## 5 A 15 A 30 A 30 A
+5 A 15 A 30 A 30 A
 
-## earth
+earth
 
-## N L
+# N L
 
-## supply N L
+supply N L
 
-## cable main immersion cooker
+cable main immersion cooker
 
-## switch heater
+switch heater
 
-## N E
+# N E
 
-## N L
+# N L
 
-## LIGHTING CIRCUIT RING MAIN
+# LIGHTING CIRCUIT RING MAIN
 
-## L CIRCUIT L E
+# L CIRCUIT L E
 
-## two-way N
+two-way N
 
-## switches E
+switches E
 
-## L N
+# L N
 
 Figure 40.
 
-### 9 Electric circuits in a house
+9 Electric circuits in a house
 
 9781444176421_Section_04.
 
 indd 180 20/06/14 7:47 AM
 
-## House circuits
+# House circuits
 
-## e) Fused plug
+e) Fused plug
 
 Only one type of plug is used in a UK ring
 
@@ -26886,55 +26886,55 @@ It is wired as in Figure 40.
 
 10a.
 
-### Note the colours of the wire coverings
+# Note the colours of the wire coverings
 
-## L – brown
+L – brown
 
 N – blue, E – green and yellow.
 
-## It has its own
+# It has its own
 
-## cartridge fuse
+cartridge fuse
 
-### 3 A (red) for appliances with powers
+3 A (red) for appliances with powers
 
-## up to 720 W
+up to 720 W
 
-### or 13 A (brown) for those between
+or 13 A (brown) for those between
 
-## 720 W and 3 kW.
+720 W and 3 kW.
 
-## cartridge fuse
+cartridge fuse
 
-## cord grip
+cord grip
 
-## a b
+a b
 
-## A31
+# A31
 
-## Circuit breakers
+# Circuit breakers
 
-## N L
-
-Figure 40.
-
-## 11 Circuit breakers
+# N L
 
 Figure 40.
 
-## 10 a Wiring of a plug
+11 Circuit breakers
+
+Figure 40.
+
+10 a Wiring of a plug
 
 b socket Circuit breakers (Figure 40.
 
-## 11) are now used
+11) are now used
 
 instead of fuses in consumer units.
 
-## They contain
+# They contain
 
 Typical power ratings for various appliances are an electromagnet (Chapter 45) which
 
-## when the
+when the
 
 shown in Table 40.
 
@@ -26950,7 +26950,7 @@ chosen.
 
 and breaks the circuit.
 
-## They operate much faster than
+# They operate much faster than
 
 In some countries the fuse is placed in the fuses and have the advantage that they can be reset by
 
@@ -26960,13 +26960,13 @@ pressing a button.
 
 The residual current circuit breaker (RCCB)
 
-### f) Safety in electrical circuits
+f) Safety in electrical circuits
 
 also called a residual current device (RCD)
 
 an adapted circuit breaker which is used when the
 
-## Earthing
+# Earthing
 
 resistance of the earth path between the consumer
 
@@ -26980,7 +26980,7 @@ earthed by being connected either to a metal water It works by detecting any dif
 
 pipe entering the house or to an earth connection on currents in the live and neutral wires
 
-## when these
+when these
 
 the supply cable.
 
@@ -26994,7 +26994,7 @@ the appliance and earth) it breaks the circuit before
 
 The earth pin on a three-pin plug is connected there is any danger.
 
-### They have high sensitivity and a
+# They have high sensitivity and a
 
 to the metal case of the appliance which is quick response.
 
@@ -27002,9 +27002,9 @@ thus joined to earth by a path of almost zero An RCD should be plugged into a so
 
 resistance.
 
-## If then
+# If then
 
-## for example
+for example
 
 the element of an power to a portable appliance such as an electric
 
@@ -27012,7 +27012,7 @@ electric fire breaks or sags and touches the case
 
 a lawnmower or hedge trimmer.
 
-## In these cases the risk
+# In these cases the risk
 
 large current flows to earth and ‘blows’ the fuse.
 
@@ -27022,19 +27022,19 @@ Otherwise the case would become ‘live’ and anyone making a good earth connec
 
 touching it would receive a shock which might
 
-## Double insulation
+# Double insulation
 
-## be fatal
+be fatal
 
-### especially if they were ‘earthed’ by
+especially if they were ‘earthed’ by
 
 say,
 
-### standing in a damp environment
+standing in a damp environment
 
 such as on a wet Appliances such as vacuum cleaners
 
-## hairdryers
+hairdryers
 
 concrete floor.
 
@@ -27044,19 +27044,19 @@ and food mixers are usually double insulated.
 
 indd 181 20/06/14 7:47 AM
 
-## 40 electric Power
+40 electric Power
 
 Connection to the supply is by a two-core
 
-## insulated cable
+insulated cable
 
-## with no earth wire
+with no earth wire
 
-## and the appliance
+and the appliance
 
 is enclosed in an insulating plastic case.
 
-## Any metal
+# Any metal
 
 attachments that the user might touch are fi tted
 
@@ -27064,7 +27064,7 @@ into this case so that they do not make a direct
 
 connection with the internal electrical parts
 
-## such as a
+such as a
 
 motor.
 
@@ -27072,17 +27072,17 @@ There is then no risk of a shock should a fault
 
 develop.
 
-## ●●Paying for electricity
+●●Paying for electricity
 
 Electricity supply companies charge for the electrical
 
 energy they supply.
 
-### A joule is a very small amount
+# A joule is a very small amount
 
-## of energy and a larger unit
+of energy and a larger unit
 
-## the kilowatt-hour
+the kilowatt-hour
 
 (kWh), is used.
 
@@ -27090,35 +27090,35 @@ A kilowatt-hour is the electrical energy used by a 1 kW
 
 appliance in 1 hour.
 
-## 1 kWh = 1000 J/s × 3600 s
+1 kWh = 1000 J/s × 3600 s
 
 = 3 600 000 J = 3.
 
-## 6 MJ
+6 MJ
 
 A 3 kW electric fi re working for 2 hours uses 6 kWh of Figure 40.
 
-### 12 Electricity meter with digital display
+12 Electricity meter with digital display
 
 electrical energy – usually called 6 ‘units’.
 
-## Electricity
+# Electricity
 
-## meters
+meters
 
-## which are joulemeters
+which are joulemeters
 
-## are marked in kWh
+are marked in kWh
 
 the latest have digital readouts like the one in ●●Dangers of electricity
 
 Figure 40.
 
-### At present a ‘unit’ costs about 8p in
+At present a ‘unit’ costs about 8p in
 
 the UK.
 
-## a) Electric shock
+a) Electric shock
 
 Typical powers of some appliances are given in
 
@@ -27134,41 +27134,41 @@ Table 40.
 
 faulty wiring.
 
-### The typical resistance of dry skin is
+# The typical resistance of dry skin is
 
-## DVD player 20 W iron 1 kW
+# DVD player 20 W iron 1 kW
 
-## about 10 000 Ω
+about 10 000 Ω
 
-### so if a person touches a wire carrying
+so if a person touches a wire carrying
 
 laptop computer 50 W fi re 1, 2, 3 kW
 
-## electricity at 240 V
+electricity at 240 V
 
-## an estimate of the current
+an estimate of the current
 
-## light bulbs 60
+light bulbs 60
 
 100 W kettle 2 kW fl owing through them to earth would be I = V/R =
 
 240/10 000 = 0.
 
-## 024 A = 24 mA.
+024 A = 24 mA.
 
 For wet skin, the
 
-### television 100 W immersion 3 kW
+television 100 W immersion 3 kW
 
 resistance is lowered to about 1000 Ω (since water is
 
-## heater
+heater
 
 a good conductor of electricity) so the current would
 
 fridge 150 W cooker 6.
 
-## 4 kW
+4 kW
 
 increase to around 240 mA.
 
@@ -27176,23 +27176,23 @@ It is the size of the current (not the voltage) and
 
 Note that the current required by a 6.
 
-## 4 kW cooker is
+4 kW cooker is
 
 the length of time for which it acts which determine
 
-## given by
+given by
 
 the strength of an electric shock.
 
-## The path the
+# The path the
 
 current takes infl uences the effect of the shock
 
-## some
+some
 
 P 6400 W parts of the body are more vulnerable than others.
 
-## I = = = 28A
+I = = = 28A
 
 V 230 V current of 100 mA through the heart is likely to be
 
@@ -27208,9 +27208,9 @@ electric shock because water lowers the resistance
 
 indd 182 20/06/14 7:47 AM
 
-## dangers of electricity
+dangers of electricity
 
-## of the path to earth
+of the path to earth
 
 wearing shoes with insulating to a lighting circuit designed for low current use.
 
@@ -27252,19 +27252,19 @@ hairdryer with wet hands in a bathroom can be damp conditions → increased seve
 
 dangerous.
 
-### Keep electrical appliances well away
+# Keep electrical appliances well away
 
 from baths and swimming pools!
 
 ● Do not have long cables trailing across a room
 
-## Questions
+# Questions
 
 under a carpet that is walked over regularly or in
 
 other situations where the insulation can become 1 How much electrical energy in joules does a 100 watt lamp
 
-## transfer in
+transfer in
 
 damaged.
 
@@ -27282,15 +27282,15 @@ c 1 minute?
 
 2 a What is the power of a lamp rated at 12 V 2 A?
 
-## In case of an electric shock
+# In case of an electric shock
 
-## take the following action
+take the following action
 
 b How many joules of electrical energy are transferred per
 
 1 Switch off the supply if the shocked person is still second by a 6 V 0.
 
-## 5 A lamp?
+5 A lamp?
 
 3 The largest number of 100 W lamps connected in parallel
 
@@ -27298,11 +27298,11 @@ touching the equipment.
 
 which can safely be run from a 230 V supply with a 5 A fuse is
 
-### 2 Send for qualifi ed medical assistance.
+2 Send for qualifi ed medical assistance.
 
-## A 2 B 5 C 11 D 12 E 0
+# A 2 B 5 C 11 D 12 E 0
 
-### 3 If breathing or heartbeat has stopped,
+3 If breathing or heartbeat has stopped,
 
 4 What is the maximum power in kilowatts of the appliance(s)
 
@@ -27312,7 +27312,7 @@ that can be connected safely to a 13 A 230 V mains socket?
 
 by applying chest compressions at the rate of 5 The circuits of Figures 40.
 
-### 13a and b show ‘short circuits’
+13a and b show ‘short circuits’
 
 about 100 a minute until there are signs of chest between the live (L) and neutral (N) wires.
 
@@ -27322,7 +27322,7 @@ movement or medical assistance arrives.
 
 fuse has blown but whereas circuit a is now safe
 
-## b is still
+b is still
 
 dangerous even though the lamp is out which suggests the
 
@@ -27330,15 +27330,15 @@ circuit is safe.
 
 Explain.
 
-## b) Fire risks
+b) Fire risks
 
-## fuse
+fuse
 
 If fl ammable material is placed too close to a hot
 
-## L L
+# L L
 
-### appliance such as an electric heater
+appliance such as an electric heater
 
 it may catch fi re.
 
@@ -27346,17 +27346,17 @@ Similarly if the electrical wiring in the walls of a house
 
 becomes overheated, a fi re may start.
 
-## Wires become
+# Wires become
 
 hot when they carry electrical currents – the larger fuse
 
-## N N
+# N N
 
-## the current carried
+the current carried
 
-### the hotter a particular wire will
+the hotter a particular wire will
 
-## become
+become
 
 since the rate of production of heat equals a short circuit b short circuit
 
@@ -27368,11 +27368,11 @@ Figure 40.
 
 To reduce the risk of fi re through overheated
 
-## cables
+cables
 
 the maximum current in a circuit should be 6 What steps should be taken before replacing a blown fuse
 
-### limited by taking these precautions
+limited by taking these precautions
 
 in a plug?
 
@@ -27380,7 +27380,7 @@ in a plug?
 
 ● Use plugs that have the correct fuse.
 
-## connected to
+connected to
 
 ● Do not attach too many appliances to a circuit.
 
@@ -27396,17 +27396,17 @@ c a 2 kW kettle,
 
 if the supply is 230 V?
 
-## power (and hence current)
+power (and hence current)
 
-## so do not connect them
+so do not connect them
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 183 20/06/14 7:47 AM
 
-## 40 electric Power
+40 electric Power
 
 8 What is the cost of heating a tank of water with a 3000 W
 
@@ -27420,19 +27420,19 @@ State which is most likely to be the correct one for each
 
 of the appliances named.
 
-## 60 W 250 W 850 W 2 kW 3.5 kW
+60 W 250 W 850 W 2 kW 3.5 kW
 
-## (i) kettle
+(i) kettle
 
-## (ii) table lamp
+(ii) table lamp
 
-## (iii) iron
+(iii) iron
 
 b What will be the current in a 920 W appliance if the
 
 supply voltage is 230 V?
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -27442,9 +27442,9 @@ simple problems on energy transfers,
 
 • describe experiments to measure electric power
 
-## • describe electric lamps
+• describe electric lamps
 
-## heating elements and fuses
+heating elements and fuses
 
 • recall that a joulemeter measures electrical energy
 
@@ -27470,7 +27470,7 @@ and kilowatt-hours,
 
 • recall the hazards of damaged insulation
 
-## damp conditions
+damp conditions
 
 and overheating of cables and the associated risks.
 
@@ -27478,31 +27478,31 @@ and overheating of cables and the associated risks.
 
 indd 184 20/06/14 7:47 AM
 
-## Electronic systems
+# Electronic systems
 
-### ● Electronic systems ● Transistor
+● Electronic systems ● Transistor
 
 ● Input transducers ● Transistor as a switch
 
-### ● Output transducers ● Practical work
+● Output transducers ● Practical work
 
-## Transistor switching circuits
+# Transistor switching circuits
 
-## light-
+light-
 
-### ● Semiconductor diode operated
+● Semiconductor diode operated
 
 temperature-operated.
 
-### The use of electronics in our homes
+# The use of electronics in our homes
 
-## factories
+factories
 
-## offices
+offices
 
-## ●●Electronic systems
+●●Electronic systems
 
-## schools
+schools
 
 banks, shops and hospitals is growing all the
 
@@ -27512,31 +27512,31 @@ The development of semiconductor devices
 
 such as transistors and integrated circuits (‘chips’)
 
-## input output
+input output
 
-## has given us
+has given us
 
-## among other things
+among other things
 
 automatic banking sensor processor transducer
 
-## machines
+machines
 
-## laptop computers
+laptop computers
 
-## programmable control
+programmable control
 
-## devices
+devices
 
-## robots
+robots
 
-## computer games
+computer games
 
-## digital cameras
+digital cameras
 
 Figure 41.
 
-## 2 Electronic system
+2 Electronic system
 
 (Figure 41.
 
@@ -27554,7 +27554,7 @@ Figure 41.
 
 (i) an input sensor or input transducer,
 
-## (ii) a processor and
+(ii) a processor and
 
 (iii) an output transducer.
 
@@ -27564,7 +27564,7 @@ non-electrical input into an electrical signal or
 
 vice versa.
 
-### The input sensor detects changes in the
+# The input sensor detects changes in the
 
 environment and converts them from their
 
@@ -27574,19 +27574,19 @@ Input sensors or transducers include LDRs (light-
 
 Figure 41.
 
-## 1a Digital camera
+1a Digital camera
 
-## dependent resistors)
+dependent resistors)
 
-## thermistors
+thermistors
 
-## microphones
+microphones
 
-## and switches that respond
+and switches that respond
 
-## for instance
+for instance
 
-## to pressure
+to pressure
 
 changes.
 
@@ -27604,23 +27604,23 @@ The output transducer converts the electrical
 
 energy supplied by the processor into another form.
 
-### Output transducers include lamps
+# Output transducers include lamps
 
-## LEDs (light-
+LEDs (light-
 
-## emitting diodes)
+emitting diodes)
 
-## loudspeakers
+loudspeakers
 
-## motors
+motors
 
-## heaters
+heaters
 
 relays and cathode ray tubes.
 
-## In a radio
+# In a radio
 
-### the input sensor is the aerial that
+the input sensor is the aerial that
 
 sends an electrical signal to processors in the
 
@@ -27630,23 +27630,23 @@ These processors, among other things,
 
 amplify the signal so that it can enable the output
 
-## transducer
+transducer
 
-## in this case a loudspeaker
+in this case a loudspeaker
 
-## to produce
+to produce
 
 sound.
 
 Figure 41.
 
-## 1b Heart pacemaker
+1b Heart pacemaker
 
 9781444176421_Section_04.
 
 indd 185 20/06/14 7:48 AM
 
-## 41 electronic systeMs
+41 electronic systeMs
 
 ●●Input transducers the p.
 
@@ -27654,15 +27654,15 @@ across resistor R and the relay drops below the
 
 operating p.
 
-### of the relay so that the relay contacts
+of the relay so that the relay contacts
 
-## open again
+open again
 
 power to the bell is cut and it stops ringing.
 
-### a) Light-dependent resistor (LDR)
+a) Light-dependent resistor (LDR)
 
-## b) Thermistor
+b) Thermistor
 
 The action of an LDR depends on the fact that the
 
@@ -27674,7 +27674,7 @@ increases.
 
 temperature rises.
 
-### The temperature may rise either
+# The temperature may rise either
 
 An LDR and a circuit showing its action are shown because the thermistor is directly heated or because a
 
@@ -27690,11 +27690,11 @@ When light from Figure 41.
 
 4a shows one type of thermistor.
 
-### a lamp falls on the ‘window’ of the LDR
+a lamp falls on the ‘window’ of the LDR
 
 its resistance Figure 41.
 
-### 4b shows the symbol for a thermistor in
+4b shows the symbol for a thermistor in
 
 decreases and the increased current lights the lamp.
 
@@ -27714,7 +27714,7 @@ A thermistor in series with a meter marked in ºC can
 
 measure temperatures (Chapter 38).
 
-## Used in series with
+# Used in series with
 
 a resistor it can provide an input signal to a transistor
 
@@ -27724,123 +27724,123 @@ a resistor it can provide an input signal to a transistor
 
 191) or other switching circuit.
 
-## LDR
+# LDR
 
-## thermistor •
+thermistor •
 
-## R relay
+# R relay
 
-## . c
+. c
 
-## . c
+. c
 
-## + 6 V
++ 6 V
 
-## thermistor
+thermistor
 
-## bell
-
-a b 6 V 0.
-
-## 06 A
+bell
 
 a b 6 V 0.
 
-## 06 A c
+06 A
+
+a b 6 V 0.
+
+06 A c
 
 Figure 41.
 
-## 4 a Thermistor
+4 a Thermistor
 
-### b thermistor demonstration circuit
+b thermistor demonstration circuit
 
-## c high-temperature alarm
+c high-temperature alarm
 
-## R relay
+# R relay
 
 Figure 41.
 
-### 4c shows how a thermistor can be used
+4c shows how a thermistor can be used
 
-## 6 V • to switch a relay.
+6 V • to switch a relay.
 
-### The thermistor forms part of a
+# The thermistor forms part of a
 
 potential divider across the d.
 
 source.
 
-## When the
+# When the
 
-## temperature rises
+temperature rises
 
-### the resistance of the thermistor
+the resistance of the thermistor
 
-## bell
+bell
 
 falls, and so does the p.
 
 across it.
 
-## The voltage
+# The voltage
 
-## LDR
+# LDR
 
 across resistor R and the relay increases.
 
-## When the
+# When the
 
 voltage across the relay reaches its operating p.
 
 Figure 41.
 
-## 3 a LDR
+3 a LDR
 
-## b LDR demonstration circuit
+b LDR demonstration circuit
 
 c light-operated intruder normally open contacts close
 
-## so that the circuit to
+so that the circuit to
 
-## alarm
+alarm
 
 the bell is completed and it rings.
 
-## If a variable resistor
+# If a variable resistor
 
-## is used in the circuit
+is used in the circuit
 
-## the temperature at which the
+the temperature at which the
 
 Figure 41.
 
-### 3c shows how an LDR can be used to
+3c shows how an LDR can be used to
 
 alarm sounds can be varied.
 
 switch a ‘relay’ (Chapter 45.
 
-## ) The LDR forms part of a
+) The LDR forms part of a
 
 potential divider across the 6 V supply.
 
-## When light falls
+# When light falls
 
-## ●●Output transducers
+●●Output transducers
 
-## on the LDR
+on the LDR
 
-## the resistance of the LDR
+the resistance of the LDR
 
-## and hence the
+and hence the
 
 voltage across it, decreases.
 
-## There is a corresponding
+# There is a corresponding
 
 increase in the voltage across resistor R and the relay
 
-## a) Relays
+a) Relays
 
 when the voltage across the relay coil reaches a high
 
@@ -27850,15 +27850,15 @@ enough p.
 
 (its operating p.
 
-## ) it acts as a switch and
+) it acts as a switch and
 
 an appliance so a relay is often included
 
-## this allows
+this allows
 
-### the normally open contacts close
+the normally open contacts close
 
-## allowing current to
+allowing current to
 
 the small current provided by the switching circuit
 
@@ -27870,7 +27870,7 @@ If the light is removed,
 
 indd 186 20/06/14 7:48 AM
 
-## semiconductor diode
+semiconductor diode
 
 to control the larger current needed to operate a calculators
 
@@ -27892,7 +27892,7 @@ a switching circuit can also be used to switch on the depending on which have a 
 
 mains supply for electrical appliances in the home.
 
-### In display lights up the numbers 0 to 9
+# In display lights up the numbers 0 to 9
 
 as in Figure 41.
 
@@ -27900,13 +27900,13 @@ Figure 41.
 
 5 if the output of the switching circuit is LEDs are small
 
-## reliable and have a long life
+reliable and have a long life
 
-## ‘high’ (5 V)
+‘high’ (5 V)
 
 a small current flows to the relay which their operating speed is high and their current
 
-## closes the mains switch
+closes the mains switch
 
 the relay also isolates the low requirements are very low.
 
@@ -27914,61 +27914,61 @@ voltage circuit from the high voltage mains supply.
 
 Diode lasers operate in a similar way to LEDs but
 
-## emit coherent laser light
+emit coherent laser light
 
-### they are used in optical fibre
+they are used in optical fibre
 
-## 0 or 5V
+0 or 5V
 
 communications as transmitters.
 
-## output of
+output of
 
-## switching relay
+switching relay
 
-## circuit
+circuit
 
-## LED
+# LED
 
-## 0V ~mains segment
+0V ~mains segment
 
-## supply
+supply
 
-## a b
+a b
 
-## appliance
-
-Figure 41.
-
-## 7 LED numerical display
-
-## ●●Semiconductor diode
+appliance
 
 Figure 41.
 
-### 5 Use of a relay to switch mains supply
+7 LED numerical display
+
+●●Semiconductor diode
+
+Figure 41.
+
+5 Use of a relay to switch mains supply
 
 A diode is a device that lets current pass in one
 
-## b) Light-emitting diode (LED)
+b) Light-emitting diode (LED)
 
 direction only.
 
 One is shown in Figure 41.
 
-## 8 with
+8 with
 
 An LED, shown in Figure 41.
 
 6a, is a diode made its symbol.
 
-### (You will also come across the symbol
+(You will also come across the symbol
 
 from the semiconductor gallium arsenide phosphide.
 
 without its outer circle.
 
-## ) The wire nearest the
+) The wire nearest the
 
 When forward biased (with the cathode C connected band is the cathode and the one at the other
 
@@ -27982,25 +27982,25 @@ shown in Figure 41.
 
 emit red, yellow or green light.
 
-## No light is emitted
+# No light is emitted
 
-## cathode
+cathode
 
 on reverse bias (when the anode A is connected to
 
 the negative terminal of the voltage supply).
 
-## If the
+# If the
 
-### reverse bias voltage exceeds 5 V
+reverse bias voltage exceeds 5 V
 
 it may cause damage.
 
-## circle
+circle
 
 In use an LED must have a suitable resistor R in
 
-## optional
+optional
 
 series with it (e.g. 300 Ω on a 5 V supply) to limit
 
@@ -28008,19 +28008,19 @@ the current (typically 10 mA).
 
 Figure 41.
 
-## 6b shows
+6b shows
 
 the symbol for an LED (again the use of the circle is
 
-## anode
+anode
 
 optional) in a demonstration circuit.
 
 R Figure 41.
 
-## 8 A diode and its symbol
+8 A diode and its symbol
 
-## coloured translucent
+coloured translucent
 
 plastic case The typical I–V graph is shown in Figure 38.
 
@@ -28028,13 +28028,13 @@ A (p.
 
 169).
 
-### The diode conducts when the anode
+# The diode conducts when the anode
 
-## ‘flat’
+‘flat’
 
 5V goes to the + terminal of the voltage supply and
 
-## LED
+# LED
 
 C the cathode to the – terminal (Figure 41.
 
@@ -28042,23 +28042,23 @@ C the cathode to the – terminal (Figure 41.
 
 cathode C anode A is then forward-biased
 
-## its resistance is small and
+its resistance is small and
 
 a b conventional current passes in the direction of the
 
 arrow on its symbol.
 
-## If the connections are the
+# If the connections are the
 
 Figure 41.
 
-### 6 LED and demonstration circuit
+6 LED and demonstration circuit
 
-## other way round
+other way round
 
-## it does not conduct
+it does not conduct
 
-## its resistance
+its resistance
 
 LEDs are used as indicator lamps on computers
 
@@ -28070,19 +28070,19 @@ radios and other electronic equipment.
 
 Many clocks,
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 187 20/06/14 7:48 AM
 
-## 41 electronic systeMs
+41 electronic systeMs
 
 The lamp in the circuit shows when the diode ●●Transistor
 
 is conducting, as the lamp lights up.
 
-## It also acts
+# It also acts
 
 as a resistor to limit the current when the diode is Transistors are the small semiconductor devices
 
@@ -28090,7 +28090,7 @@ forward-biased.
 
 Otherwise the diode might overheat which have revolutionised electronics.
 
-## They are
+# They are
 
 and be damaged.
 
@@ -28110,7 +28110,7 @@ may be ‘etched’ on a ‘chip’ of silicon (Figure
 
 Transistors have three connections called the
 
-## base (B)
+base (B)
 
 the collector (C) and the emitter (E).
 
@@ -28122,29 +28122,29 @@ the transistor symbol shown in Figure 41.
 
 current flows in it when C and B are connected to
 
-## a battery + terminal
+a battery + terminal
 
 and E to a battery – terminal.
 
-## current passes Again
+current passes Again
 
 the outer circle of the symbol is not always
 
 included.
 
-## no current
+no current
 
 Figure 41.
 
-### 9 Demonstrating the action of a diode
+9 Demonstrating the action of a diode
 
 Figure 41.
 
-## 11a Transistor components
+11a Transistor components
 
 A diode is a non-ohmic conductor.
 
-## It is useful as
+# It is useful as
 
 a rectifier for changing alternating current (a.
 
@@ -28152,7 +28152,7 @@ to direct current (d.
 
 Figure 41.
 
-## 10 shows the
+10 shows the
 
 rectified output voltage obtained from a diode when
 
@@ -28160,45 +28160,45 @@ it is connected to an a.
 
 supply.
 
-### V rectified output voltage from diode
+# V rectified output voltage from diode
 
 Figure 41.
 
 11b Integrated circuits which may each contain millions of
 
-## transistors
+transistors
 
-## input voltage
+input voltage
 
 Figure 41.
 
-## 10 Rectification by a diode
+10 Rectification by a diode
 
 9781444176421_Section_04.
 
 indd 188 20/06/14 7:48 AM
 
-## transistor as a switch
+transistor as a switch
 
-### collector C ●●Transistor as a switch
+collector C ●●Transistor as a switch
 
-## a) Advantages
+a) Advantages
 
-## base B
+base B
 
 Transistors have many advantages over other
 
 electrically operated switches such as relays.
 
-## They
+# They
 
-## are small
+are small
 
 cheap, reliable
 
-## have no moving parts
+have no moving parts
 
-## emitter E
+emitter E
 
 their life is almost indefinite (in well-designed
 
@@ -28208,7 +28208,7 @@ Figure 41.
 
 times a second.
 
-### There are two current paths through a
+# There are two current paths through a
 
 transistor.
 
@@ -28222,7 +28222,7 @@ The transistor’s usefulness arises from the fact that
 
 collector current is zero or very small.
 
-## It is ‘on’
+It is ‘on’
 
 it can link circuits connected to each path so that
 
@@ -28230,7 +28230,7 @@ when the collector current is much larger.
 
 the current in one controls that in the other
 
-## just
+just
 
 resistance of the collector–emitter path is large
 
@@ -28248,9 +28248,9 @@ When S is open, the base current
 
 zero) when it is ‘on’.
 
-### I is zero and neither L nor L lights up
+# I is zero and neither L nor L lights up
 
-## showing
+showing
 
 B 1 2 To switch a transistor ‘on’ requires the
 
@@ -28266,15 +28266,15 @@ C–E path.
 
 base voltage).
 
-## When S is closed
+# When S is closed
 
-## B is connected through R to
+# B is connected through R to
 
 the battery + terminal and L lights up but not L .
 
-## c) Basic switching circuits
+c) Basic switching circuits
 
-## 2 1
+2 1
 
 This shows there is now collector current (which
 
@@ -28282,7 +28282,7 @@ Two are shown in Figures 41.
 
 14a, b.
 
-## The ‘on’
+The ‘on’
 
 is in L ) and that it is much greater than the base
 
@@ -28290,93 +28290,93 @@ is in L ) and that it is much greater than the base
 
 current (which is in L but is too small to light it).
 
-## 1 becoming fully lit.
+1 becoming fully lit.
 
-## Therefore
+# Therefore
 
-### in a transistor the base current
+in a transistor the base current
 
 I switches on and controls the much greater
 
 collector current I .
 
-## C base
+# C base
 
 Resistor R has to be in the circuit to limit the current 6V
 
 base current which would otherwise create so large
 
-## 6V
+6V
 
 a collector current as to destroy the transistor by R B
 
 overheating.
 
-## 100kΩ
+100kΩ
 
-## 1kΩ
+1kΩ
 
-## S a
+# S a
 
-## base collector
+base collector
 
-## L current L 2 current
+# L current L 2 current
 
-## I B I C R 6V
+# I B I C R 6V
 
 6V 10kΩ 0.
 
-## C
+C
 
-## 6V
+6V
 
-## R E I C I B
+# R E I C I B
 
-## 1kΩ
+1kΩ
 
-## base–
+base–
 
-## R 10 kΩ emitter
+R 10 kΩ emitter
 
-## L
+L
 
-## 6 V 60 mA p.d.
+6 V 60 mA p.d.
 
-## transistor 2N3053 S
+transistor 2N3053 S
 
-## 10kΩ
-
-Figure 41.
-
-## 13 Demonstration circuit b
+10kΩ
 
 Figure 41.
 
-### 14 Transistor switching circuits
+13 Demonstration circuit b
 
-## ▲ ▲
+Figure 41.
+
+14 Transistor switching circuits
+
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 189 20/06/14 7:49 AM
 
-## 41 electronic systeMs
+41 electronic systeMs
 
 Rheostat control is used in the circuit in
 
-## BC109
+# BC109
 
 Figure 41.
 
 14a.
 
-### ‘Switch-on’ occurs by reducing R tag
+‘Switch-on’ occurs by reducing R tag
 
 until the base current is large enough to make the
 
 collector current light the lamp.
 
-## (The base resistor R C E
+(The base resistor R C E
 
 is essential in case R is made zero and results in +6 V B
 
@@ -28384,7 +28384,7 @@ from the battery being applied directly to the base.
 
 This would produce very large base and collector PVC sleeving
 
-## (1 mm bore) (2 mm bore)
+(1 mm bore) (2 mm bore)
 
 currents and destroy the transistor by overheating.
 
@@ -28394,17 +28394,17 @@ in Figure 41.
 
 14b.
 
-### Here ‘switch-on’ is obtained by
+Here ‘switch-on’ is obtained by
 
 adjusting the variable resistance S until the p.
 
 across S (which is the base–emitter p.
 
-## and depends
+and depends
 
 on the value of S compared with that of R) exceeds metal ‘tag’
 
-## 6 V or so.
+6 V or so.
 
 Note In a potential divider the p.
 
@@ -28424,15 +28424,15 @@ Figure 41.
 
 14b, the p.
 
-### across R and S in series is to tags
+across R and S in series is to tags
 
-## 6 V.
+6 V.
 
-### If R = 10 kΩ and S is set to 5 kΩ
+If R = 10 kΩ and S is set to 5 kΩ
 
 then the p.
 
-## In many control circuits
+# In many control circuits
 
 devices such as LDRs and thermistors are
 
@@ -28446,33 +28446,33 @@ is V , is 2 V.
 
 So V /V = 4 V/2 V = 2/1.
 
-### S R S light intensity and temperature
+# S R S light intensity and temperature
 
 respectively.
 
-## These changes then
+# These changes then
 
-## In general
+# In general
 
 enable a transistor to act as a simple processor by controlling the
 
-### current to an output transducer
+current to an output transducer
 
 such as a lamp or a buzzer.
 
-## V R S
+# V R S
 
-## R = and V = (V +V )×
+R = and V = (V +V )×
 
 V S S R S (R +S) a) Light-operated switch
 
 In the circuit of Figure 41.
 
-### 16 the LDR is part of a potential divider.
+16 the LDR is part of a potential divider.
 
 The lamp comes on when the LDR is shielded
 
-## more of the battery
+more of the battery
 
 Also see question 2 on p.
 
@@ -28480,19 +28480,19 @@ Also see question 2 on p.
 
 acts across the increased resistance of the LDR (i.e. more than
 
-## 6 V) and less across R.
+6 V) and less across R.
 
 In the dark, the base–emitter p.
 
-## increases
+increases
 
 as does the base current and so also the collector current.
 
-## Practical work
+# Practical work
 
-### Transistor switching circuits R 6 V
+# Transistor switching circuits R 6 V
 
-## 10 kΩ 0.06 A
+10 kΩ 0.06 A
 
 The components can be mounted on a circuit board
 
@@ -28500,7 +28500,7 @@ example an ‘S-DeC’ as in Figure 41.
 
 15a.
 
-### The diagrams in Figure R B 6 V
+# The diagrams in Figure R B 6 V
 
 15b show how to lengthen transistor leads and also how to BC 109
 
@@ -28508,27 +28508,27 @@ make connections (without soldering) to parts that have ‘tags’
 
 for example, variable resistors.
 
-## base–
+base–
 
-## emitter
+emitter
 
 LDR p.
 
 Figure 41.
 
-## 16 Light-operated switch
+16 Light-operated switch
 
 If the LDR and R are interchanged the lamp goes off in the dark
 
 and the circuit could act as a light-operated intruder alarm.
 
-### If a variable resistor is used for R
+# If a variable resistor is used for R
 
-## the light level at which
+the light level at which
 
 switching occurs can be changed.
 
-### b) Temperature-operated switch
+b) Temperature-operated switch
 
 In the low-temperature-operated switch of Figure 41.
 
@@ -28542,23 +28542,23 @@ Figure 41.
 
 indd 190 20/06/14 7:49 AM
 
-## transistor as a switch
+transistor as a switch
 
-## 6 V supply.
+6 V supply.
 
 When the temperature of the thermistor falls
 
-## its Questions
+its Questions
 
 resistance increases and so does the p.
 
 across it, i.e. the
 
-## 1 Figure 41.
+1 Figure 41.
 
-## 19a shows a lamp
+19a shows a lamp
 
-## a semiconductor diode and a
+a semiconductor diode and a
 
 base-emitter p.
 
@@ -28566,17 +28566,17 @@ rises.
 
 When it reaches 0.
 
-## 6 V, the transistor
+6 V, the transistor
 
 cell connected in series.
 
-### The lamp lights when the diode is
+# The lamp lights when the diode is
 
 switches on and the collector current becomes large enough
 
 connected in this direction.
 
-## Say what happens to each of
+# Say what happens to each of
 
 to operate the lamp.
 
@@ -28588,43 +28588,43 @@ Give reasons for your answers.
 
 device.
 
-## D D L
+# D D L
 
-## 1 2
+1 2
 
-## R 6 V L D
+# R 6 V L D
 
-## 100 kΩ 0.06 A
+100 kΩ 0.06 A
 
-## a b
+a b
 
-## 1 2
+1 2
 
-## B 6 V
+# B 6 V
 
-## BC 109 E 1 D L 1 E 1 D 1 L 1
+# BC 109 E 1 D L 1 E 1 D 1 L 1
 
-## 1 kΩ
+1 kΩ
 
-## base–
+base–
 
-### thermistor emitter E 2 L 2 E 2 D 2 L 2
-
-Figure 41.
+thermistor emitter E 2 L 2 E 2 D 2 L 2
 
 Figure 41.
 
-### 17 Low-temperature-operated switch
+Figure 41.
+
+17 Low-temperature-operated switch
 
 2 What are the readings V and V on the high-resistance
 
 If the thermistor and resistor are interchanged
 
-## the circuit can 1 2
+the circuit can 1 2
 
 voltmeters in the potential divider circuit of Figure 41.
 
-## 20 if
+20 if
 
 be used as a high-temperature alarm (Figure 41.
 
@@ -28634,7 +28634,7 @@ a R = R = 10 kΩ,
 
 When the temperature of the thermistor rises
 
-## its resistance 1 2
+its resistance 1 2
 
 b R = 10 kΩ, R = 50 kΩ,
 
@@ -28648,47 +28648,47 @@ increases.
 
 When it exceeds 0.
 
-## 6 V or 1 2
+6 V or 1 2
 
 so the transistor switches on and collector current (too small to
 
 ring the buzzer directly) goes through the relay coil.
 
-## The relay R 1 R 2
+# The relay R 1 R 2
 
-## contacts close
+contacts close
 
-## enabling the buzzer to obtain
+enabling the buzzer to obtain
 
-## directly from the
+directly from the
 
-### 6 V supply, the larger current it needs.
+6 V supply, the larger current it needs.
 
 The diode D protects the transistor from damage
 
-## when the V V
+when the V V
 
-## 1 2
+1 2
 
 collector current falls to zero at switch off this induces a large
 
 in the relay coil (see Chapter 43).
 
-## The diode is forward-
+# The diode is forward-
 
-## 6 V
+6 V
 
 biased by the induced p.
 
-## (which tries to maintain the
+(which tries to maintain the
 
-### current in the relay coil) and
+current in the relay coil) and
 
 because of its low forward Figure 41.
 
 resistance (e.g. 1 Ω)
 
-### offers an easy path for the current
+offers an easy path for the current
 
 produced.
 
@@ -28704,51 +28704,51 @@ If R is variable the temperature at which switching occurs can
 
 be changed.
 
-## D relay
+# D relay
 
-## relay
+relay
 
 relay: contacts
 
 D (e.g. contacts
 
-## thermistor 1N4001) normally
+thermistor 1N4001) normally
 
-## open
+open
 
-## RB
+RB
 
-## BC 109 6 V
+# BC 109 6 V
 
-## moisture
+moisture
 
-## 1 kΩ
+1 kΩ
 
-## base–
+base–
 
-## electric
+electric
 
-## detector
+detector
 
-## emitter
+emitter
 
-## 100 kΩ
+100 kΩ
 
-## buzzer
-
-Figure 41.
+buzzer
 
 Figure 41.
 
-### 18 High-temperature-operated switch
+Figure 41.
 
-## ▲ ▲
+18 High-temperature-operated switch
+
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 191 20/06/14 7:49 AM
 
-## 41 electronic systeMs
+41 electronic systeMs
 
 a Describe how the circuit works when the detector gets
 
@@ -28762,13 +28762,13 @@ Why is a relay used here?
 
 c What is the function of D?
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
 • recall the functions of the input sensor
 
-## processor and
+processor and
 
 output transducer in an electronic system and give some
 
@@ -28790,51 +28790,51 @@ rectifi ed a.
 
 indd 192 20/06/14 7:49 AM
 
-## Digital electronics
+# Digital electronics
 
 ● Analogue and digital electronics ● Problems to solve
 
-### ● Logic gates ● Electronics and society
+● Logic gates ● Electronics and society
 
-## ● Logic gate control systems
+● Logic gate control systems
 
-## ●● Analogue and digital
+●● Analogue and digital
 
-## electronics
+electronics
 
 There are two main types of electronic circuits
 
 devices or systems – analogue and digital.
 
-## In analogue circuits
+# In analogue circuits
 
-## voltages (and currents) can
+voltages (and currents) can
 
 have any value within a certain range over which they
 
-### can be varied smoothly and continuously
+can be varied smoothly and continuously
 
-## as shown in
+as shown in
 
 Figure 42.
 
 They include amplifier-type circuits.
 
-## egatlov
+egatlov
 
-## time
+time
 
-## egatlov
+egatlov
 
-## In digital circuits
+# In digital circuits
 
-## voltages have only one of two
+voltages have only one of two
 
-## values
+values
 
 either ‘high’ (e.g. 5 V) or ‘low’ (e.g. near
 
-### 0 V), as shown in Figure 42.1b. They include
+0 V), as shown in Figure 42.1b. They include
 
 switching-type circuits such as those we have
 
@@ -28844,11 +28844,11 @@ A variable resistor is an analogue device
 
 which, in a circuit with a lamp
 
-## allows the lamp
+allows the lamp
 
 to have a wide range of light levels.
 
-## A switch is a
+# A switch is a
 
 digital device which allows a lamp to be either ‘on’
 
@@ -28864,13 +28864,13 @@ Figure 47.
 
 220).
 
-## Digital meters display their
+# Digital meters display their
 
-## readings as digits
+readings as digits
 
 i.e. numbers
 
-## which change by
+which change by
 
 one digit at a time (see Figure 47.
 
@@ -28878,35 +28878,35 @@ one digit at a time (see Figure 47.
 
 220).
 
-## ●●Logic gates
+●●Logic gates
 
 Logic gates are switching circuits used in
 
 computers and other electronic systems.
 
-## They
+# They
 
-### ‘open’ and give a ‘high’ output voltage
+‘open’ and give a ‘high’ output voltage
 
 i.e. a
 
 signal (e.g. 5 V)
 
-## depending on the combination
+depending on the combination
 
-## of voltages at their inputs
+of voltages at their inputs
 
-## of which there is usually
+of which there is usually
 
 more than one.
 
-## There are five basic types
+# There are five basic types
 
-## all made from
+all made from
 
 ‘high’ transistors in integrated circuit form.
 
-## The behaviour
+# The behaviour
 
 of each is described by a truth table showing what
 
@@ -28914,31 +28914,31 @@ the output is for all possible inputs.
 
 ‘High’ (e.g.
 
-### 5 V) and ‘low’ (e.g. near 0 V) outputs and inputs
+5 V) and ‘low’ (e.g. near 0 V) outputs and inputs
 
-## are represented by 1 and 0
+are represented by 1 and 0
 
-## respectively
+respectively
 
-## and are
+and are
 
-## ‘low’
+‘low’
 
 referred to as logic levels 1 and 0.
 
-## time
+time
 
-## a) NOT gate or inverter
+a) NOT gate or inverter
 
-## This is the simplest gate
+# This is the simplest gate
 
-## with one input and
+with one input and
 
 one output.
 
-### It produces a ‘high’ output if the
+It produces a ‘high’ output if the
 
-## input is ‘low’
+input is ‘low’
 
 i.e. the output is then NOT high
 
@@ -28948,37 +28948,37 @@ Whatever the input, the gate
 
 inverts it.
 
-### The symbol and truth table are given in
+# The symbol and truth table are given in
 
 Figure 42.
 
 Figure 42.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 193 20/06/14 7:49 AM
 
-## 42 digital electronics
+42 digital electronics
 
 Note from the truth tables that the outputs of the
 
-## Input Output
+# Input Output
 
 NOR and NAND gates are the inverted outputs
 
-## NOT gate
+# NOT gate
 
-## 0 1 of the OR and AND gates
+0 1 of the OR and AND gates
 
 respectively.
 
-## They have
+# They have
 
 input output a small circle at the output end of their symbols to
 
-## 1 0
+1 0
 
 show this inversion.
 
@@ -28996,15 +28996,15 @@ integrated circuit (IC) mounted on a small board
 
 All these have two or more inputs and one output.
 
-### with sockets for the power supply
+with sockets for the power supply
 
-## inputs A and
+inputs A and
 
 The truth tables and symbols for 2-input gates are
 
 B and output F (Figure 42.
 
-## A ‘high’ input
+A ‘high’ input
 
 shown in Figure 42.
 
@@ -29020,45 +29020,45 @@ connecting to 0 V.
 
 NOR: output is 1 if neither input A NOR
 
-## input B is 1
+input B is 1
 
 AND: output is 1 if input A AND input B
 
-## are 1
+are 1
 
-## +5 V +5 V l
++5 V +5 V l
 
-## og
+og
 
-## le
+le
 
-## ate L
+ate L
 
-## in
+in
 
-## icator
+icator
 
-## power A module
+power A module
 
 NAND: output is 1 if input A AND input B are
 
-## supply IC F
+supply IC F
 
-## NOT both 1 B
+# NOT both 1 B
 
-## 0 V 0 V 0 V
+0 V 0 V 0 V
 
-## OR gate NOR gate
+# OR gate NOR gate
 
 Figure 42.
 
-### 4 Modules for testing logic gates
+4 Modules for testing logic gates
 
-## A A
+# A A
 
-## F F
+# F F
 
-## B B
+# B B
 
 The output can be detected using an indicator
 
@@ -29066,103 +29066,103 @@ A B F A B F module containing an LED that lights up for a 1
 
 and stays off for a 0.
 
-## 0 0 0 0 0 1
+0 0 0 0 0 1
 
-### 0 1 1 0 1 0 ●● Logic gate control
+0 1 1 0 1 0 ●● Logic gate control
 
-## 1 0 1 1 0 0 systems
+1 0 1 1 0 0 systems
 
-## 1 1 1 1 1 0
+1 1 1 1 1 0
 
 Logic gates can be used as processors in electronic
 
 control systems.
 
-### Many of these can be demonstrated
+# Many of these can be demonstrated
 
 AND gate NAND gate by connecting together commercial modules like
 
 A A those in Figure 42.
 
-## F F
+# F F
 
-## B B
+# B B
 
-## a) Security system
+a) Security system
 
-## A B F A B F
+# A B F A B F
 
 A simple system that might be used by a jeweller
 
 to protect an expensive clock is shown in the
 
-## 0 0 0 0 0 1
+0 0 0 0 0 1
 
 block diagram for Figure 42.
 
-## The clock sits on
+# The clock sits on
 
-## 0 1 0 0 1 1
+0 1 0 0 1 1
 
 a push switch which sends a 1 to the NOT gate
 
 unless the clock is lifted when a 0 is sent.
 
-## In that
+# In that
 
-## 1 0 0 1 0 1
+1 0 0 1 0 1
 
 case the output from the NOT gate is a 1 which
 
-## 1 1 1 1 1 0
+1 1 1 1 1 0
 
 rings the bell.
 
 Figure 42.
 
-### 3 Symbols and truth tables for 2-input gates
+3 Symbols and truth tables for 2-input gates
 
 9781444176421_Section_04.
 
 indd 194 20/06/14 7:49 AM
 
-## logic gate control systems
+logic gate control systems
 
-## CLOCK 0
+# CLOCK 0
 
-## ON = 1 0 temperature NOT
+ON = 1 0 temperature NOT
 
-## push NOT bell sensor gate
+push NOT bell sensor gate
 
-## switch gate 1
+switch gate 1
 
-## CLOCK
+# CLOCK
 
-## OFF = 0 output 1
+OFF = 0 output 1
 
-## input processor AND heater
+input processor AND heater
 
-## transducer
+transducer
 
-## sensor gate control
+sensor gate control
 
-## light
+light
 
 Figure 42.
 
-## 5 Simple alarm system sensor
+5 Simple alarm system sensor
 
-## 1 processor
+1 processor
 
-### b) S afety system for a machine
+b) S afety system for a machine
 
 operator Figure 42.
 
-## 7 Heater control system
+7 Heater control system
 
-### A safety system could prevent a machine
+# A safety system could prevent a machine
 
-## d) Street lights
+d) Street lights
 
 (e.g. an electric motor) from being switched
 
@@ -29170,7 +29170,7 @@ on before another switch had been operated
 
 A system is required that allows the street lights
 
-## for example
+for example
 
 by a protective safety guard being either to be turned on manually by a switch at any
 
@@ -29182,13 +29182,13 @@ In Figure 42.
 
 or automatically by a light sensor when it is
 
-## switches A and B are on
+switches A and B are on
 
 they supply a 1 to each dark.
 
 The arrangement in Figure 42.
 
-## 8a achieves this
+8a achieves this
 
 input of the AND gate which can then start the since the OR gate gives a 1 output when either or
 
@@ -29200,35 +29200,35 @@ The system can be demonstrated using the
 
 switch module shown in Figure 42.
 
-## AND 1 or 0
+# AND 1 or 0
 
-## motor
+motor
 
-## gate switch
+gate switch
 
-## switch
+switch
 
-## B 1
+# B 1
 
-## 1 OR street
+1 OR street
 
-## gate lights
+gate lights
 
 Figure 42.
 
-### 6 Safety system for controlling a motor
+6 Safety system for controlling a motor
 
-## light NOT 1
+light NOT 1
 
-### c) Heater control system sensor gate
+c) Heater control system sensor gate
 
 The heater control has to switch on the heating Figure 42.
 
-### 8a Control system with manual override
+8a Control system with manual override
 
-## system when it is
+system when it is
 
-## (i) cold
+(i) cold
 
 i.e. the temperature is below a certain
 
@@ -29236,7 +29236,7 @@ value and the output from the temperature
 
 sensor is 0, and
 
-## (ii) daylight
+(ii) daylight
 
 i.e. the light sensor output is 1.
 
@@ -29248,15 +29248,15 @@ the processor in Figure 42.
 
 two 1 inputs.
 
-## The output from the AND gate
+# The output from the AND gate
 
 is then 1 and will turn on the heater control.
 
-### Any other combination of sensor outputs
+# Any other combination of sensor outputs
 
-### produces a 0 output from the AND gate
+produces a 0 output from the AND gate
 
-## as you
+as you
 
 can check.
 
@@ -29264,13 +29264,13 @@ Figure 42.
 
 8b Module for demonstrating street lights
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 195 20/06/14 7:49 AM
 
-## 42 digital electronics
+42 digital electronics
 
 ●●Problems to solve (v) Speed of operation can be millions of times
 
@@ -29288,21 +29288,21 @@ available for transferring information in and out
 
 of an electronic system.
 
-### 1 Allow a doorbell to work only during the day.
+1 Allow a doorbell to work only during the day.
 
-## To sum up
+# To sum up
 
-### electronic systems tend to be cheaper
+electronic systems tend to be cheaper
 
-### 2 Give warning when the temperature of a domestic
+2 Give warning when the temperature of a domestic
 
-## smaller
+smaller
 
-## more reliable
+more reliable
 
-## less wasteful
+less wasteful
 
-## much faster and
+much faster and
 
 hot water system is too high or when a switch is
 
@@ -29312,29 +29312,29 @@ pressed to test the alarm.
 
 systems.
 
-### 3 Switch on a bathroom heater when it is cold and
+3 Switch on a bathroom heater when it is cold and
 
-## b) Some areas of impact
+b) Some areas of impact
 
 light.
 
 At home devices such as washing machines
 
-## burglar
+burglar
 
-### 4 Sound an alarm when it is cold or a switch is
+4 Sound an alarm when it is cold or a switch is
 
-## alarms
+alarms
 
-## telephones
+telephones
 
-## cookers and sewing machines
+cookers and sewing machines
 
 pressed.
 
 contain electronic components.
 
-## Central heating
+# Central heating
 
 5 Give warning if the temperature of a room falls systems and garage doors may have automatic
 
@@ -29344,7 +29344,7 @@ For home entertainment, DVD
 
 check the alarm works.
 
-## players
+players
 
 interactive digital televisions or computers
 
@@ -29360,27 +29360,27 @@ years from the use of electronic instruments and
 
 appliances.
 
-### Electrocardiograph (ECG) recorders for
+Electrocardiograph (ECG) recorders for
 
-## monitoring the heart
+monitoring the heart
 
-### ultrasonic scanners for checks
+ultrasonic scanners for checks
 
-## during pregnancy
+during pregnancy
 
-### gamma ray scanners for detecting
+gamma ray scanners for detecting
 
-## tumours
+tumours
 
-## hearing aids
+hearing aids
 
-## heart pacemakers
+heart pacemakers
 
-## artificial
+artificial
 
-### ●●Electronics and society kidneys
+●●Electronics and society kidneys
 
-### limbs and hands with electronic control
+limbs and hands with electronic control
 
 (Figure 42.
 
@@ -29392,19 +29392,19 @@ examples.
 
 all our lives.
 
-### Work and leisure are changing as a
+# Work and leisure are changing as a
 
-## result of the social
+result of the social
 
-## economic and environmental
+economic and environmental
 
 influences of new technology.
 
-## a) Reasons for the impact
+a) Reasons for the impact
 
 Why is electronics having such a great impact?
 
-## Some
+# Some
 
 of the reasons are listed below.
 
@@ -29422,11 +29422,11 @@ even complex systems can be compact.
 
 feature of well-designed circuits.
 
-## There are no
+# There are no
 
 Figure 42.
 
-### 9 Electronically controlled artificial hands
+9 Electronically controlled artificial hands
 
 moving parts to wear out and systems can be
 
@@ -29436,37 +29436,37 @@ In industry microprocessor-controlled equipment
 
 (iv) Energy consumption and use of natural is taking over.
 
-### Robots are widely used for car
+# Robots are widely used for car
 
 resources is often much less than for their assembly work
 
-## and to do dull
+and to do dull
 
-## routine
+routine
 
-## dirty jobs
+dirty jobs
 
 non-electronic counterparts.
 
-## For example
+# For example
 
 the such as welding and paint spraying.
 
-## In many cases
+# In many cases
 
 transistor uses less power than a relay.
 
 production lines and even whole factories
 
-## such
+such
 
 9781444176421_Section_04.
 
 indd 196 20/06/14 7:50 AM
 
-## electronics and society
+electronics and society
 
-### as sugar refineries and oil refineries
+as sugar refineries and oil refineries
 
 are almost and here the electronic scoreboard is likely to be
 
@@ -29488,31 +29488,31 @@ For others, leisure means listening to
 
 programmed by CAD files can now produce solid music
 
-## whose production
+whose production
 
-## recording and listening
+recording and listening
 
 objects in a variety of materials for use as prototypes facilities have been transformed by the digital
 
 or components in industries ranging from aerospace revolution.
 
-### Electronically synthesised music has
+# Electronically synthesised music has
 
 to entertainment.
 
 become the norm for popular recordings.
 
-## In offices
+# In offices
 
 banks and shops computers are lighting and sound effects in stage shows are
 
-## used for word processing
+used for word processing
 
 data control and programmed by computer.
 
 For the cinemagoer,
 
-## communications via email
+communications via email
 
 text, numbers and special effects in film production have been vastly
 
@@ -29526,7 +29526,7 @@ Cash dispensers and other (Figure 42.
 
 11).
 
-### The availability of home computers
+# The availability of home computers
 
 automated services at banks are a great convenience and games consoles in recent years has enabled a
 
@@ -29542,7 +29542,7 @@ a bar code reader (which uses a laser) and a data
 
 recorder connected to a computer.
 
-## A similar system
+# A similar system
 
 is operated by libraries to record the issue and return
 
@@ -29556,7 +29556,7 @@ Figure 42.
 
 11 Computer animation brings the tiger into the scene
 
-## c) Consequences of the impact
+c) Consequences of the impact
 
 Most of the social and economic consequences of
 
@@ -29566,7 +29566,7 @@ An improved quality of life has resulted from
 
 the greater convenience and reliability of electronic
 
-## systems
+systems
 
 with increased life expectancy and leisure
 
@@ -29578,31 +29578,31 @@ Figure 42.
 
 smaller place.
 
-### The speed with which news can be
+# The speed with which news can be
 
 Communications have been transformed.
 
 Satellites reported to our homes by radio
 
-## television and the
+television and the
 
 enable events on one side of the world to be seen internet enables the public to be better informed.
 
-## and heard on the other side
+and heard on the other side
 
 as they happen.
 
 Digital Databases have been developed.
 
-## These are
+# These are
 
-### telephone and communication links
+telephone and communication links
 
-## smart phones
+smart phones
 
 memories which can store huge amounts of
 
-## tablets
+tablets
 
 social media and cloud computing are the information for rapid transmission from one place
 
@@ -29614,29 +29614,29 @@ For example, the police can obtain in
 
 Leisure activities have been affected by electronic seconds
 
-## by radio
+by radio
 
 details of a car they are following.
 
 developments.
 
-## For some people
+# For some people
 
-### leisure means Databases raise questions
+leisure means Databases raise questions
 
-## however
+however
 
-## about invasion
+about invasion
 
 participating in or attending sporting activities of privacy and security.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 197 20/06/14 7:50 AM
 
-## 42 digital electronics
+42 digital electronics
 
 Employment is affected by the demand for new 2 What do the symbols A to E represent in Figure 42.
 
@@ -29644,17 +29644,17 @@ equipment – new industry and jobs are created to
 
 make and maintain it – but when electronic systems
 
-## replace mechanical ones
+replace mechanical ones
 
-## redundancy and/or A B C
+redundancy and/or A B C
 
 retraining needs arise.
 
-## Conditions of employment
+# Conditions of employment
 
 and long-term job prospects can also be affected for
 
-## many people
+many people
 
 especially certain manual and clerical D E
 
@@ -29672,7 +29672,7 @@ systems to:
 
 not always positive.
 
-### Modern electronics is a ‘hidden’
+Modern electronics is a ‘hidden’
 
 a wake you at the crack of dawn and which you can also
 
@@ -29686,13 +29686,13 @@ also a ‘throwaway’ technology in which the whole open without setting off th
 
 lot is discarded and replaced – by an expert – if a
 
-## part fails
+part fails
 
-### and rapid advances in design technology
+and rapid advances in design technology
 
 cause equipment to quickly become obsolete.
 
-## Checklist
+# Checklist
 
 these reasons it may be regarded as mysterious and
 
@@ -29706,25 +29706,25 @@ what makes it tick.
 
 • state that logic gates are switching circuits containing
 
-## d) The future
+d) The future
 
 transistors and other components,
 
 The only certain prediction about the future is that
 
-## • describe the action of NOT
+• describe the action of NOT
 
 OR, NOR
 
-## AND and NAND
+# AND and NAND
 
 new technologies will be developed and these
 
 like logic gates and recall their truth tables
 
-## present ones
+present ones
 
-### will continue to have a considerable
+will continue to have a considerable
 
 • design and draw block diagrams of logic control systems
 
@@ -29734,25 +29734,25 @@ for given requirements.
 
 Today the development of ‘intelligent’ computers
 
-### is being pursued with great vigour
+is being pursued with great vigour
 
-## and voice
+and voice
 
 recognition techniques are already in use.
 
-## Optical
+# Optical
 
-## systems
+systems
 
 which are more effi cient than electronic
 
 ones, are being increasingly developed for data
 
-## transmission
+transmission
 
 storage and processing of information.
 
-## Questions
+# Questions
 
 1 The combined truth tables for four logic gates A
 
@@ -29762,59 +29762,59 @@ are given below.
 
 State what kind of gate each one is.
 
-## Inputs Outputs
+# Inputs Outputs
 
-## A B C D
+# A B C D
 
-## 0 0 0 0 1 1
+0 0 0 0 1 1
 
-## 0 1 0 1 1 0
+0 1 0 1 1 0
 
-## 1 0 0 1 1 0
+1 0 0 1 1 0
 
-## 1 1 1 1 0 0
+1 1 1 1 0 0
 
 9781444176421_Section_04.
 
 indd 198 20/06/14 7:50 AM
 
-## Generators
+# Generators
 
 ● Electromagnetic induction ● Simple d.
 
-## generator (dynamo)
+generator (dynamo)
 
-### ● Faraday’s law ● Practical generators
+● Faraday’s law ● Practical generators
 
 ● Lenz’s law ● Applications of electromagnetic induction
 
 ● Simple a.
 
-## generator (alternator)
+generator (alternator)
 
 The effect of producing electricity from magnetism b) Bar magnet and coil
 
 was discovered in 1831 by Faraday and is called
 
-### The magnet is pushed into the coil
+# The magnet is pushed into the coil
 
-## one pole fi rst
+one pole fi rst
 
 electromagnetic induction.
 
-## It led to the
+# It led to the
 
 (Figure 43.
 
 2), then held still inside it.
 
-## It is then
+# It is then
 
 construction of generators for producing electrical
 
 withdrawn.
 
-### The meter shows that current is induced
+# The meter shows that current is induced
 
 energy in power stations.
 
@@ -29822,55 +29822,55 @@ in the coil in one direction as the magnet is moved in
 
 and in the opposite direction as it is moved out.
 
-## There
+# There
 
-## ●●Electromagnetic
+●●Electromagnetic
 
 is no defl ection when the magnet is at rest.
 
 results are the same if the coil is moved instead of the
 
-## induction
+induction
 
-## magnet
+magnet
 
 i.e. only relative motion is needed.
 
 Two ways of investigating the effect follow.
 
-## a) Straight wire and U-shaped
+a) Straight wire and U-shaped
 
-## magnet
+magnet
 
 First the wire is held at rest between the poles
 
 of the magnet.
 
-### It is then moved in each of the
+# It is then moved in each of the
 
-## sensitive
+sensitive
 
 six directions shown in Figure 43.
 
-## 1 and the
+1 and the
 
-## centre-zero coil (600 turns)
+centre-zero coil (600 turns)
 
 meter observed.
 
-### Only when it is moving upwards meter
+# Only when it is moving upwards meter
 
 (direction 1) or downwards (direction 2) is there
 
-## bar magnet
+bar magnet
 
-## a defl ection on the meter
+a defl ection on the meter
 
-## indicating an induced
+indicating an induced
 
 current in the wire.
 
-### The defl ection is in opposite
+# The defl ection is in opposite
 
 Figure 43.
 
@@ -29880,39 +29880,39 @@ directions in these two cases and only lasts while the in or out.
 
 wire is in motion.
 
-## ●●Faraday’s law
+●●Faraday’s law
 
-## magnet
+magnet
 
 To ‘explain’ electromagnetic induction Faraday
 
 suggested that a voltage is induced in a conductor
 
-### 1 whenever it ‘cuts’ magnetic fi eld lines
+1 whenever it ‘cuts’ magnetic fi eld lines
 
 i.e. moves
 
-## N 3
+# N 3
 
-## 5 across them
+5 across them
 
-### but not when it moves along them or
+but not when it moves along them or
 
 wire is at rest.
 
 If the conductor forms part of a complete
 
-### 4 S circuit, an induced current is also produced.
+4 S circuit, an induced current is also produced.
 
-## Faraday found
+# Faraday found
 
-### and it can be shown with apparatus
+and it can be shown with apparatus
 
 like that in Figure 43.
 
 2, that the induced p.
 
-### voltage increases with increases of
+voltage increases with increases of
 
 (i) the speed of motion of the magnet or coil
 
@@ -29922,13 +29922,13 @@ like that in Figure 43.
 
 These facts led him to state a law:
 
-## sensitive
+sensitive
 
-## centre-zero meter
+centre-zero meter
 
 The size of the induced p.
 
-### is directly proportional to the rate
+is directly proportional to the rate
 
 Figure 43.
 
@@ -29942,13 +29942,13 @@ down between the magnet poles.
 
 indd 199 20/06/14 7:50 AM
 
-## 43 generators
+43 generators
 
-## ●●Lenz’s law Motion thuMb
+●●Lenz’s law Motion thuMb
 
-## First
+# First
 
-## Field finger
+# Field finger
 
 The direction of the induced current can be found
 
@@ -29956,9 +29956,9 @@ by a law stated by the Russian scientist
 
 Lenz.
 
-## induced
+induced
 
-## Current seCond
+# Current seCond
 
 The direction of the induced current is such as to oppose the finger
 
@@ -29966,7 +29966,7 @@ change causing it.
 
 Figure 43.
 
-### 4 Fleming’s right-hand (dynamo) rule
+4 Fleming’s right-hand (dynamo) rule
 
 In Figure 43.
 
@@ -29974,39 +29974,39 @@ In Figure 43.
 
 ●● Simple a.
 
-## generator
+generator
 
 north pole fi rst.
 
-## According to Lenz’s law the
+According to Lenz’s law the
 
 induced current should fl ow in a direction that
 
-## (alternator)
+(alternator)
 
 makes the coil behave like a magnet with its top a
 
 north pole.
 
-### The downward motion of the magnet
+# The downward motion of the magnet
 
 The simplest alternating current (a.
 
-## ) generator
+) generator
 
 will then be opposed since like poles repel.
 
 consists of a rectangular coil between the poles of a
 
-## When the magnet is withdrawn
+# When the magnet is withdrawn
 
-## the top of the
+the top of the
 
 C-shaped magnet (Figure 43.
 
 5a).
 
-## The ends of the
+# The ends of the
 
 coil should become a south pole (Figure 43.
 
@@ -30018,7 +30018,7 @@ against which carbon brushes press.
 
 hindering its removal.
 
-## The induced current is thus
+# The induced current is thus
 
 When the coil is rotated it cuts the fi eld lines and a
 
@@ -30028,7 +30028,7 @@ voltage is induced in it.
 
 Figure 43.
 
-## 5b shows how the
+5b shows how the
 
 approaches.
 
@@ -30036,9 +30036,9 @@ voltage varies over one complete rotation.
 
 As the coil moves through the vertical position
 
-## with ab uppermost
+with ab uppermost
 
-## ab and cd are moving along
+ab and cd are moving along
 
 N N the lines (bc and da do so always) and no cutting
 
@@ -30046,19 +30046,19 @@ occurs.
 
 The induced voltage is zero.
 
-## N S
+# N S
 
-## coil
+coil
 
-## rotation
+rotation
 
-## 0 0
+0 0
 
-## b c
+b c
 
-## a b
+a b
 
-## N S
+# N S
 
 Figure 43.
 
@@ -30070,29 +30070,29 @@ conservation of energy.
 
 If the currents caused alternating voltage
 
-## slip rings
+slip rings
 
 opposite poles from those that they do make
 
-## (rotate
+(rotate
 
 electrical energy would be created from nothing.
 
-## with coil)
+with coil)
 
-## a brushes (fixed)
+a brushes (fixed)
 
-## As it is
+# As it is
 
-## mechanical energy is provided
+mechanical energy is provided
 
-## by whoever
+by whoever
 
-## moves the magnet
+moves the magnet
 
 to overcome the forces that arise.
 
-## 1 cycle
+1 cycle
 
 For a straight wire moving at right angles to a
 
@@ -30108,43 +30108,43 @@ right angles to each other with the First fi nger pointing in
 
 the direction of the Field and the thuMb in the direction of
 
-## Motion of the wire
+# Motion of the wire
 
-### then the seCond fi nger points in the
+then the seCond fi nger points in the
 
 direction of the induced Current.
 
-## egatlov
+egatlov
 
-## rotations
+rotations
 
-## a d a
+a d a
 
-## d a a d field lines
+d a a d field lines
 
-## coil
+coil
 
-## vertical d a d
+vertical d a d
 
-## b coil horizontal
+b coil horizontal
 
 Figure 43.
 
-## 5 A simple a.
+5 A simple a.
 
-## generator and its output
+generator and its output
 
 9781444176421_Section_04.
 
 indd 200 20/06/14 7:50 AM
 
-## Practical generators
+# Practical generators
 
-## coil
+coil
 
 During the first quarter rotation the p.
 
-## increases rotation
+increases rotation
 
 to a maximum when the coil is horizontal.
 
@@ -30154,9 +30154,9 @@ greatest rate.
 
 In the second quarter rotation the p.
 
-## decreases N S
+decreases N S
 
-## a d
+a d
 
 again and is zero when the coil is vertical with dc
 
@@ -30164,45 +30164,45 @@ uppermost.
 
 After this, the direction of the p.
 
-## reverses because
+reverses because
 
-## during the next half rotation
+during the next half rotation
 
 the motion of ab is directed upwards and dc
 
 downwards.
 
-## brush brush
+brush brush
 
 An alternating voltage is generated which acts commutator
 
 first in one direction and then the other
 
-## it causes a
+it causes a
 
 alternating current (a.
 
-## ) to flow in a circuit
+) to flow in a circuit
 
 connected to the brushes.
 
-## The frequency of an
+# The frequency of an
 
 is the number of complete cycles it makes each
 
-### second and is measured in hertz (Hz)
+second and is measured in hertz (Hz)
 
 i.e. 1 cycle
 
 per second = 1 Hz.
 
-## If the coil rotates twice per
+# If the coil rotates twice per
 
 second, the a.
 
 has frequency 2 Hz.
 
-## The mains 0
+# The mains 0
 
 supply is a.
 
@@ -30210,9 +30210,9 @@ of frequency 50 Hz.
 
 ●●Simple d.
 
-## generator
+generator
 
-## (dynamo)
+(dynamo)
 
 An a.
 
@@ -30230,21 +30230,21 @@ Figure 43.
 
 The brushes are arranged so that as the coil goes
 
-## through the vertical
+through the vertical
 
-## changeover of contact occurs
+changeover of contact occurs
 
 from one half of the split ring of the commutator
 
 to the other.
 
-### But it is when the coil goes through
+# But it is when the coil goes through
 
 the vertical position that the voltage induced in the
 
-## coil reverses
+coil reverses
 
-### so one brush is always positive and the
+so one brush is always positive and the
 
 other negative.
 
@@ -30252,7 +30252,7 @@ The voltage at the brushes is shown in Figure
 
 6b; although varying in value
 
-## it never changes
+it never changes
 
 direction and would produce a direct current (d.
 
@@ -30260,15 +30260,15 @@ in an external circuit.
 
 In construction the simple d.
 
-## dynamo is
+dynamo is
 
 the same as the simple d.
 
-## motor and one can
+motor and one can
 
 be used as the other.
 
-## When an electric motor is
+# When an electric motor is
 
 working it also acts as a dynamo and creates a
 
@@ -30278,27 +30278,27 @@ current in the coil is therefore much less once the
 
 motor is running.
 
-## egatlov
+egatlov
 
-## rotations
+rotations
 
-## a d a
+a d a
 
-## d a a d field lines
+d a a d field lines
 
-## coil
+coil
 
-## vertical d a d
+vertical d a d
 
-## coil horizontal
+coil horizontal
 
 Figure 43.
 
-## 6 A simple d.
+6 A simple d.
 
-## generator and its output
+generator and its output
 
-## ●●Practical generators
+●●Practical generators
 
 In actual generators several coils are wound in
 
@@ -30306,15 +30306,15 @@ evenly spaced slots in a soft iron cylinder and
 
 electromagnets usually replace permanent magnets.
 
-## a) Power stations
+a) Power stations
 
 In power station alternators the electromagnets
 
 rotate (the rotor, Figure 43.
 
-## 7a) while the coils and
+7a) while the coils and
 
-### their iron core are at rest (the stator
+their iron core are at rest (the stator
 
 Figure 43.
 
@@ -30326,75 +30326,75 @@ s and currents (e.g. 25 kV at several
 
 thousand amps) induced in the stator are led away
 
-## through stationary cables
+through stationary cables
 
-## otherwise they would
+otherwise they would
 
 quickly destroy the slip rings by sparking.
 
-## Instead
+# Instead
 
 the relatively small d.
 
-## required by the rotor is fed
+required by the rotor is fed
 
 via the slip rings from a small dynamo (the exciter)
 
 which is driven by the same turbine as the rotor.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 201 20/06/14 7:50 AM
 
-## 43 generators
+43 generators
 
-## c) Bicycles
+c) Bicycles
 
 The rotor of a bicycle generator is a permanent
 
 magnet and the voltage is induced in the coil
 
-## which
+which
 
 is at rest (Figure 43.
 
-## driving wheel soft iron
+driving wheel soft iron
 
-## output
+output
 
-## axle
+axle
 
-### a Rotor (electromagnets) terminal
+a Rotor (electromagnets) terminal
 
-## metal
+metal
 
-## case
+case
 
-## coil
+coil
 
-## cylindrical
+cylindrical
 
-## magnet
+magnet
 
-## (rotor)
+(rotor)
 
 Figure 43.
 
-## 9 Bicycle generator
+9 Bicycle generator
 
-## ●●Applications of
+●●Applications of
 
-## b Stator (induction coils)
+b Stator (induction coils)
 
 Figure 43.
 
 7 The rotor and stator of a power station alternator electromagnetic
 
-## induction
+induction
 
-### In a thermal power station (Chapter 15)
+In a thermal power station (Chapter 15)
 
 turbine is rotated by high-pressure steam obtained
 
@@ -30402,51 +30402,51 @@ by heating water in a coal- or oil-fired boiler or a) Moving-coil microphone
 
 in a nuclear reactor (or by hot gas in a gas-fired
 
-### The moving-coil loudspeaker shown in
+# The moving-coil loudspeaker shown in
 
 power station).
 
-### A block diagram of a thermal power
+# A block diagram of a thermal power
 
 Figure 46.
 
-## 7 (p.
+7 (p.
 
-### 218) can be operated in reverse
+218) can be operated in reverse
 
 station is shown in Figure 43.
 
-## The energy transfer
+# The energy transfer
 
 mode as a microphone.
 
-## When sound is incident
+# When sound is incident
 
 diagram was given in Figure 15.
 
 7, p.
 
-## on the paper cone it vibrates
+on the paper cone it vibrates
 
-## causing the attached
+causing the attached
 
 coil to move in and out between the poles of the
 
 stator a.
 
-## output
+output
 
 magnet.
 
-## A varying electric current
+# A varying electric current
 
-## representative
+representative
 
-## steam
+steam
 
-## of the sound
+of the sound
 
-### is then induced in the coil by
+is then induced in the coil by
 
 electromagnetic induction.
 
@@ -30468,15 +30468,15 @@ gap in the pole piece of the electromagnet and
 
 Figure 43.
 
-### 8 Block diagram of a thermal power station
+8 Block diagram of a thermal power station
 
 retains a magnetic record of the electrical signal
 
 applied to the coil from a microphone or computer.
 
-## b) Cars In playback mode
+b) Cars In playback mode
 
-## the varying magnetisation on
+the varying magnetisation on
 
 the moving tape or disk induces a corresponding
 
@@ -30496,19 +30496,19 @@ indd 202 20/06/14 7:50 AM
 
 applications of electromagnetic induction
 
-## signal
+signal
 
-## to be
+to be
 
-## recorded
+recorded
 
-## S N
+# S N
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
-## winding of
+winding of
 
 electromagnet • describe experiments to show electromagnetic induction
 
@@ -30520,27 +30520,27 @@ law or Fleming’s right-hand rule,
 
 • draw a diagram of a simple a.
 
-## generator and sketch a
+generator and sketch a
 
 very graph of its output.
 
-## small
+small
 
-## gap
+gap
 
-## coated
+coated
 
-## plastic
+plastic
 
-## tape
+tape
 
 Figure 43.
 
-### 10 Magnetic recording or playback head
+10 Magnetic recording or playback head
 
-## Questions
+# Questions
 
-### 1 A simple generator is shown in Figure 43.11.
+1 A simple generator is shown in Figure 43.11.
 
 a What are A and B called and what is their purpose?
 
@@ -30548,33 +30548,33 @@ b What changes can be made to increase the p.
 
 generated?
 
-## axis of
+axis of
 
-## rotation
+rotation
 
 Figure 43.
 
 2 Describe the defl ections observed on the sensitive
 
-## centre-
+centre-
 
 zero galvanometer G (Figure 43.
 
-## 12) when the copper rod
+12) when the copper rod
 
 XY is connected to its terminals and is made to vibrate up
 
-### and down (as shown by the arrows)
+and down (as shown by the arrows)
 
-## between the poles of
+between the poles of
 
-## a U-shaped magnet
+a U-shaped magnet
 
 at right angles to the magnetic fi eld.
 
 Explain what is happening.
 
-## G N
+# G N
 
 Figure 43.
 
@@ -30582,7 +30582,7 @@ Figure 43.
 
 indd 203 20/06/14 7:50 AM
 
-## Transformers
+# Transformers
 
 ● Mutual induction ● Transmission of electrical power
 
@@ -30592,13 +30592,13 @@ indd 203 20/06/14 7:50 AM
 
 Mutual induction with a.
 
-## ●●Mutual induction
+●●Mutual induction
 
-## Practical work
+# Practical work
 
 When the current in a coil is switched on
 
-## or off or changed
+or off or changed
 
 a voltage is induced in a Mutual induction with a.
 
@@ -30608,11 +30608,11 @@ The effect, called mutual
 
 An alternating current is changing all the time and if it flows in a
 
-## induction
+induction
 
-### is an example of electromagnetic
+is an example of electromagnetic
 
-## primary coil
+primary coil
 
 an alternating voltage and current are induced in a
 
@@ -30622,13 +30622,13 @@ of Figure 44.
 
 Coil A is the primary and coil B Connect the circuit of Figure 44.
 
-## The 1 V high current
+# The 1 V high current
 
 the secondary.
 
 power unit supplies a.
 
-### to the primary and the lamp detects the
+to the primary and the lamp detects the
 
 secondary current.
 
@@ -30646,7 +30646,7 @@ secondary.
 
 A p.
 
-### is induced in the secondary until
+is induced in the secondary until
 
 (iii) decreasing the secondary turns to 5.
 
@@ -30654,7 +30654,7 @@ the current in the primary reaches its steady value.
 
 When the current is switched off in the primary
 
-## high current iron C-cores
+high current iron C-cores
 
 the magnetic field dies away and we can imagine the power unit
 
@@ -30664,13 +30664,13 @@ again inducing a p.
 
 in it.
 
-## Changing the primary
+# Changing the primary
 
 lamp (2.
 
-## 5 V 0.
+5 V 0.
 
-## 3 A)
+3 A)
 
 current by quickly altering the rheostat has the
 
@@ -30678,51 +30678,51 @@ same effect.
 
 The induced p.
 
-## is increased by having a soft
+is increased by having a soft
 
-## iron rod in the coils or
+iron rod in the coils or
 
-## better still
+better still
 
-## by using coils
+by using coils
 
 wound on a complete iron ring.
 
-## More field lines
+# More field lines
 
 then cut the secondary due to the magnetisation
 
-## 1 V a.c.
+1 V a.c.
 
 of the iron.
 
-## spare
+spare
 
 to 6 V d.
 
-## wire
+wire
 
-## primary secondary
+primary secondary
 
-## (10 turns) (10 turns)
+(10 turns) (10 turns)
 
 Figure 44.
 
-## rheostat sensitive
+rheostat sensitive
 
-## centre-zero
+centre-zero
 
-## meter
+meter
 
-## ●●Transformer equation
+●●Transformer equation
 
-## coil A coil B
+coil A coil B
 
-## (600 turns) (600 turns)
+(600 turns) (600 turns)
 
 A transformer transforms (changes) an alternating
 
-## tapping key
+tapping key
 
 voltage from one value to another of greater or
 
@@ -30730,17 +30730,17 @@ Figure 44.
 
 1 A changing current in a primary coil (A) induces a current in smaller value.
 
-### It has a primary coil and a secondary
+# It has a primary coil and a secondary
 
 a secondary coil (B).
 
-### coil wound on a complete soft iron core
+coil wound on a complete soft iron core
 
-## either one
+either one
 
 on top of the other (Figure 44.
 
-## 3a) or on separate
+3a) or on separate
 
 limbs of the core (Figure 44.
 
@@ -30750,53 +30750,53 @@ limbs of the core (Figure 44.
 
 indd 204 20/06/14 7:50 AM
 
-### energy losses in a transformer
+energy losses in a transformer
 
-## Soft iron
+# Soft iron
 
-## ●● Energy losses in a
+●● Energy losses in a
 
-## a b
+a b
 
-## transformer
+transformer
 
 If the p.
 
-### is stepped up in a transformer
+is stepped up in a transformer
 
-## the current
+the current
 
 is stepped down in proportion.
 
-## This must be so if
+# This must be so if
 
 Primary Secondary Primary Secondary we assume that all the electrical energy given to the
 
-### primary appears in the secondary
+primary appears in the secondary
 
 i.e. that energy is
 
 Figure 44.
 
-### 3 Primary and secondary coils of a transformer
+3 Primary and secondary coils of a transformer
 
 conserved and the transformer is 100% effi cient or
 
 ‘ideal’ (many approach this effi ciency).
 
-## Then
+# Then
 
 An alternating voltage applied to the primary
 
 induces an alternating voltage in the secondary.
 
-### power in primary = power in secondary
+power in primary = power in secondary
 
 The value of the secondary voltage can be shown
 
-## V × I =V × I
+V × I =V × I
 
-## p p s s
+p p s s
 
 for a transformer in which all the fi eld lines cut the
 
@@ -30804,43 +30804,43 @@ secondary, to be given by
 
 where I and I are the primary and secondary
 
-## p s
+p s
 
 currents, respectively.
 
-### secondary voltage secondary tturns
+secondary voltage secondary tturns
 
 primary voltage primary turns ∴ I s = V p
 
-## I V
+# I V
 
-## p s
+p s
 
-## In symbols
+# In symbols
 
 So, for the ideal transformer, if the p.
 
-## is doubled
+is doubled
 
 the current is halved.
 
 In practice, it is more than
 
-## halved
+halved
 
-### because of small energy losses in the
+because of small energy losses in the
 
-## V N
+# V N
 
-## s = s
+s = s
 
 V N transformer arising from the following three causes.
 
-## p p
+p p
 
-## a) Resistance of windings
+a) Resistance of windings
 
-### A step-up transformer has more turns on
+# A step-up transformer has more turns on
 
 the secondary than the primary and V is The windings of copper wire have some resistance
 
@@ -30848,117 +30848,117 @@ greater than V (Figure 44.
 
 4a).
 
-## For example
+# For example
 
 and heat is produced by the current in them.
 
-## Large
+# Large
 
 if the secondary has twice as many turns as transformers like those in Figure 44.
 
-## 5 have to be
+5 have to be
 
 the primary, V is about twice V .
 
 In a step- oil-cooled to prevent overheating.
 
-## s p
+s p
 
 down transformer there are fewer turns on the
 
 secondary than the primary and V is less than V
 
-## s p
+s p
 
 (Figure 44.
 
 4b).
 
-## V V V V
+# V V V V
 
-## p s p s
+p s p s
 
-## a b
-
-Figure 44.
-
-## 4 Symbols for a transformer
-
-## a step-up (V > V )
-
-## b step-down
-
-## s p
-
-## (V > V)
-
-## p s
+a b
 
 Figure 44.
 
-### 5 Step-up transformers at a power station
+4 Symbols for a transformer
 
-## ▲ ▲
+a step-up (V > V )
+
+b step-down
+
+s p
+
+(V > V)
+
+p s
+
+Figure 44.
+
+5 Step-up transformers at a power station
+
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 205 20/06/14 7:50 AM
 
-## 44 transforMers
+44 transforMers
 
 b Secondary turns, N = 100
 
-## b) Eddy currents s
+b) Eddy currents s
 
 From a,
 
-## N 1
+# N 1
 
 The iron core is in the changing magnetic field of s =
 
-## N 23
+# N 23
 
-## the primary and currents
+the primary and currents
 
-## called eddy currents
+called eddy currents
 
-## are p
+are p
 
 induced in it which cause heating.
 
 These are reduced ∴ N = 23 × N = 23 × 100
 
-## p s
+p s
 
 by using a laminated core made of sheets
 
-## insulated
+insulated
 
-## = 2300 turns
+= 2300 turns
 
 from one another to have a high resistance.
 
-## c Efficiency = 100%
+c Efficiency = 100%
 
-## c) Leakage of field lines
+c) Leakage of field lines
 
-### ∴ power in primary = power in secondary
+∴ power in primary = power in secondary
 
 All the field lines produced by the primary may not
 
-## V × I =V × I
+V × I =V × I
 
-## p p s s
+p p s s
 
-## cut the secondary
+cut the secondary
 
-### especially if the core has an air
+especially if the core has an air
 
 gap or is badly designed.
 
-## V × I 10V × 2A 2
+V × I 10V × 2A 2
 
-## ∴ I p = s V
+∴ I p = s V
 
 s = 230V = 23 A = 0.
 
@@ -30966,21 +30966,21 @@ Note In this ideal transformer the current is stepped
 
 up in the same ratio as the voltage is stepped down.
 
-## ●●Worked example
+●●Worked example
 
-## ●●Transmission of
+●●Transmission of
 
 A transformer steps down the mains supply
 
 from 230 V to 10 V to operate an answering machine.
 
-## electrical power
+electrical power
 
 a What is the turns ratio of the transformer windings?
 
 b How many turns are on the primary if the
 
-## a) Grid system
+a) Grid system
 
 secondary has 100 turns?
 
@@ -30988,23 +30988,23 @@ c What is the current in the primary if the The National Grid is a network of ca
 
 transformer is 100% efficient and the current in the Britain
 
-## mostly supported on pylons
+mostly supported on pylons
 
-## that connects over
+that connects over
 
 answering machine is 2 A?
 
-### 100 power stations to consumers.
+100 power stations to consumers.
 
-## In the largest modern
+# In the largest modern
 
-## a Primary voltage
+a Primary voltage
 
-## V = 230 V stations
+V = 230 V stations
 
 electricity is generated at 25 000 V (25 kilovolts
 
-## Secondary voltage
+# Secondary voltage
 
 V = 10 V = 25 kV) and stepped up at once in a transformer to
 
@@ -31014,35 +31014,35 @@ N V 10 V 1 Supergrid.
 
 Later, the p.
 
-## is reduced by substation
+is reduced by substation
 
-## Turns ratio = s = s = =
+Turns ratio = s = s = =
 
 N V 230 V 23 transformers for distribution to local users (Figure 44.
 
-## p p
+p p
 
-## 275 kV or 400 kV
+275 kV or 400 kV
 
-## 132kV
+132kV
 
-## 25 kV
+25 kV
 
 power station transformer Supergrid transformer grid
 
-## towns
+towns
 
-## heavy
+heavy
 
-## light industry
+light industry
 
-## farms villages
+farms villages
 
-## industry
+industry
 
-## 415 V or 230 V 11kV 33kV
+415 V or 230 V 11kV 33kV
 
-### transformer transformer transformer
+transformer transformer transformer
 
 Figure 44.
 
@@ -31052,41 +31052,41 @@ Figure 44.
 
 indd 206 20/06/14 7:51 AM
 
-## applications of eddy currents
+applications of eddy currents
 
-### At the National Control Centre
+# At the National Control Centre
 
-## engineers direct
+engineers direct
 
 the fl ow and re-route it when breakdown occurs.
 
-## scale
+scale
 
 This makes the supply more reliable and cuts costs pointer
 
-## by enabling smaller
+by enabling smaller
 
-### less effi cient stations to be shut
+less effi cient stations to be shut
 
-## aluminium
+aluminium
 
 down at off-peak periods.
 
-## disc
+disc
 
-## cable to
+cable to
 
 b) Use of high alternating p.
 
-## gearbox
+gearbox
 
 The effi ciency with which transformers step
 
-## spring magnet
+spring magnet
 
 alternating p.
 
-### s up and down accounts for the use
+s up and down accounts for the use
 
 of a.
 
@@ -31094,15 +31094,15 @@ rather than d.
 
 in power transmission.
 
-## High
+# High
 
 voltages are used in the transmission of electric power
 
 to reduce the amount of energy ‘lost’ as heat.
 
-## Power cables have resistance
+# Power cables have resistance
 
-## and so electrical
+and so electrical
 
 energy is transferred to heat during the
 
@@ -31110,11 +31110,11 @@ transmission of electricity from the power station
 
 to the user.
 
-### The power ‘lost’ as heat in cables of
+The power ‘lost’ as heat in cables of
 
-## resistance R is I 2R
+resistance R is I 2R
 
-## so I should be kept low to
+so I should be kept low to
 
 reduce energy loss.
 
@@ -31122,45 +31122,45 @@ Since power = IV, if 400 000 W
 
 of electrical power has to be sent through cables
 
-## it might be done
+it might be done
 
-## for example
+for example
 
-## either as 1 A at
+either as 1 A at
 
-### 400 000 V or as 1000 A at 400 V. Less energy will
+400 000 V or as 1000 A at 400 V. Less energy will
 
 be transferred to heat if the power is transmitted
 
-### at the lower current and higher voltage
+at the lower current and higher voltage
 
 i.e. 1 A at
 
-## 400 000 V.
+400 000 V.
 
 High p.
 
-### s require good insulation but are
+s require good insulation but are
 
 readily produced by a.
 
 generators.
 
-## ●●Applications of eddy
+●●Applications of eddy
 
-## currents
+currents
 
 Eddy currents are the currents induced in a piece of
 
 metal when it cuts magnetic fi eld lines.
 
-## They can be
+# They can be
 
 quite large due to the low resistance of the metal.
 
 They have their uses as well as their disadvantages.
 
-## a) Car speedometer
+a) Car speedometer
 
 The action depends on the eddy currents induced
 
@@ -31168,9 +31168,9 @@ in a thick aluminium disc (Figure 44.
 
 7), when a
 
-## permanent magnet
+permanent magnet
 
-## near it but not touching it
+near it but not touching it
 
 rotated by a cable driven from the gearbox of the
 
@@ -31182,17 +31182,17 @@ an attempt to reduce the relative motion between
 
 it and the magnet (see Chapter 43).
 
-## The extent to
+# The extent to
 
-## which the disc can turn
+which the disc can turn
 
-## however
+however
 
-## is controlled by
+is controlled by
 
 a spring.
 
-### The faster the magnet rotates the more
+# The faster the magnet rotates the more
 
 the disc turns before it is stopped by the spring.
 
@@ -31200,35 +31200,35 @@ pointer fi xed to the disc moves over a scale marked
 
 in mph (or km/h) and gives the speed of the car.
 
-## 0 2
+0 2
 
-## 6 0
+6 0
 
 Figure 44.
 
-## 7 Car speedometer
+7 Car speedometer
 
-## b) Metal detector
+b) Metal detector
 
 The metal detector shown in Figure 44.
 
-## 8 consists of a
+8 consists of a
 
-## large primary coil (A)
+large primary coil (A)
 
 through which an a.
 
-## current
+current
 
-## is passed
+is passed
 
 and a smaller secondary coil (B).
 
-## When the
+# When the
 
 detector is swept over a buried metal object (such
 
-## as a nail
+as a nail
 
 coin or pipe) the fl uctuating magnetic fi eld
 
@@ -31248,25 +31248,25 @@ The coils are set at right angles to each other
 
 so that their magnetic fi elds do not interact.
 
-## to alarm primary
+to alarm primary
 
-## secondary coil (A)
+secondary coil (A)
 
-## coil (B)
+coil (B)
 
-## hidden metal object
+hidden metal object
 
 Figure 44.
 
-## 8 Metal detector
+8 Metal detector
 
-## Questions
+# Questions
 
-## 1 Two coils of wire
+1 Two coils of wire
 
-## A and B
+# A and B
 
-## are placed near one another
+are placed near one another
 
 (Figure 44.
 
@@ -31278,9 +31278,9 @@ galvanometer, G.
 
 a If the switch connected to coil A were closed for a few
 
-## seconds and then opened
+seconds and then opened
 
-## the galvanometer connected
+the galvanometer connected
 
 to coil B would be affected.
 
@@ -31292,19 +31292,19 @@ b What changes would you expect if a bundle of soft iron
 
 wires was placed through the centre of the coils?
 
-## Give a
+# Give a
 
 reason for your answer.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 207 20/06/14 7:51 AM
 
-## 44 transforMers
+44 transforMers
 
-## Checklist
+# Checklist
 
 c What would happen if more turns of wire were wound
 
@@ -31316,13 +31316,13 @@ After studying this chapter you should be able to
 
 A B • recall the transformer equation V/V = N/N and use it to
 
-## s p s p
+s p s p
 
 solve problems,
 
 • recall that for an ideal transformer V × I = V × I and use
 
-## p p s s
+p p s s
 
 the relation to solve problems,
 
@@ -31330,7 +31330,7 @@ the relation to solve problems,
 
 • explain why high voltage a.
 
-## is used for transmitting
+is used for transmitting
 
 electrical power.
 
@@ -31338,9 +31338,9 @@ Figure 44.
 
 2 The main function of a step-down transformer is to
 
-## A decrease current
+# A decrease current
 
-## B decrease voltage
+# B decrease voltage
 
 C change a.
 
@@ -31360,15 +31360,15 @@ to be used with a 230 V a.
 
 mains power, if there are
 
-## 460 turns on the primary.
+460 turns on the primary.
 
 b What current will fl ow in the secondary when the
 
 primary current is 0.
 
-## 10 A?
+10 A?
 
-## Assume there are no energy
+# Assume there are no energy
 
 losses.
 
@@ -31380,27 +31380,27 @@ How many turns are on the secondary coil if the output
 
 voltage is 46 V a.
 
-### A 20 B 200 C 2000 D 4000 E 8000
+# A 20 B 200 C 2000 D 4000 E 8000
 
 9781444176421_Section_04.
 
 indd 208 20/06/14 7:51 AM
 
-## Electromagnets
+# Electromagnets
 
-### ● Oersted’s discovery ● Electromagnets
+● Oersted’s discovery ● Electromagnets
 
 ● Field due to a straight wire ● Electric bell
 
-### ● Field due to a circular coil ● Relay
+● Field due to a circular coil ● Relay
 
-### reed switch and circuit breaker
+reed switch and circuit breaker
 
-### ● Field due to a solenoid ● Telephone
+● Field due to a solenoid ● Telephone
 
 ● Magnetisation and demagnetisation ● Practical work
 
-## Simple electromagnet
+# Simple electromagnet
 
 ●●Oersted’s discovery ●●Field due to a straight
 
@@ -31422,13 +31422,13 @@ in the wire (Figure 45.
 
 pointing N and S (Figure 45.
 
-## The needle moves
+# The needle moves
 
 the card settle in concentric circles when the card is
 
 when the current is switched on.
 
-## Reversing the
+# Reversing the
 
 gently tapped.
 
@@ -31440,57 +31440,57 @@ Evidently around a wire carrying a current
 
 there is a magnetic fi eld.
 
-## As with the fi eld due
+# As with the fi eld due
 
-## right-handed
+right-handed
 
-## to a permanent magnet
+to a permanent magnet
 
 we represent the fi eld screw shows field
 
 due to a current by fi eld lines or lines of force.
 
-## plotting direction
+plotting direction
 
-## compass
+compass
 
 Arrows on the lines show the direction of
 
-## the fi eld
+the fi eld
 
 i.e. the direction in which a N pole
 
 points.
 
-## field lines
+field lines
 
 Different fi eld patterns are given by differently shown by iron
 
 shaped conductors.
 
-## filings
+filings
 
-## card
+card
 
-## current direction
+current direction
 
-## straight
+straight
 
-## current
+current
 
-## wire
+wire
 
-## direction
+direction
 
-## compass needle
+compass needle
 
 Figure 45.
 
-### 2 Field due to a straight wire
+2 Field due to a straight wire
 
-## N movement
+# N movement
 
-## of needle
+of needle
 
 Plotting compasses placed on the card settle along
 
@@ -31498,63 +31498,63 @@ the fi eld lines and show the direction of the fi eld
 
 at different points.
 
-## When the current direction
+# When the current direction
 
-## is reversed
+is reversed
 
-### the compasses point in the opposite
+the compasses point in the opposite
 
 direction showing that the direction of the fi eld
 
 reverses when the current reverses.
 
-### If the current direction is known
+# If the current direction is known
 
-## the direction of the
+the direction of the
 
 fi eld can be predicted by the right-hand screw rule
 
-### low-voltage high-current supply
+low-voltage high-current supply
 
 If a right-handed screw moves forwards in the direction of the
 
-## current (conventional)
+current (conventional)
 
-### the direction of rotation of the screw
+the direction of rotation of the screw
 
 gives the direction of the fi eld.
 
 Figure 45.
 
-### 1 An electric current produces a magnetic effect.
+1 An electric current produces a magnetic effect.
 
 9781444176421_Section_04.
 
 indd 209 20/06/14 7:51 AM
 
-## 45 electroMagnets
+45 electroMagnets
 
-### ●● Field due to a circular coil
+●● Field due to a circular coil
 
 The field pattern is shown in Figure 45.
 
-## At the
+# At the
 
 centre of the coil the field lines are straight and at right
 
-### (i) View from A (ii) View from B
+(i) View from A (ii) View from B
 
 angles to the plane of the coil.
 
-## The right-hand screw c
+# The right-hand screw c
 
 rule again gives the direction of the field at any point.
 
 Figure 45.
 
-## 4c End-on views
+4c End-on views
 
-## circular coil
+circular coil
 
 Inside the solenoid in Figure 45.
 
@@ -31566,7 +31566,7 @@ This indicates that the magnetic field is stronger
 
 field inside a solenoid than outside it.
 
-## line
+line
 
 The field inside a solenoid can be made very strong if
 
@@ -31578,21 +31578,21 @@ ferromagnetic metal to solidify in such fields.
 
 Figure 45.
 
-### 3 Field due to a circular coil
+3 Field due to a circular coil
 
-## ●●Magnetisation and
+●●Magnetisation and
 
-## ●●Field due to a solenoid
+●●Field due to a solenoid
 
-## demagnetisation
+demagnetisation
 
 A solenoid is a long cylindrical coil.
 
-## It produces a
+# It produces a
 
 A ferromagnetic material can be magnetised by
 
-### field similar to that of a bar magnet
+field similar to that of a bar magnet
 
 in Figure 45.
 
@@ -31602,7 +31602,7 @@ end A behaves like a N pole and end B like a S pole.
 
 the current.
 
-### This increases the magnetic field
+# This increases the magnetic field
 
 The polarity can be found as before by applying the
 
@@ -31610,13 +31610,13 @@ strength in the solenoid (the density of the field lines
 
 right-hand screw rule to a short length of one turn of
 
-## increases)
+increases)
 
 and the material becomes magnetised.
 
 the solenoid.
 
-### Alternatively the right-hand grip rule
+# Alternatively the right-hand grip rule
 
 Reversing the direction of current flow reverses
 
@@ -31630,11 +31630,11 @@ hand grip the solenoid in the direction of the current
 
 polarity of the magnetisation.
 
-## A magnet can be
+# A magnet can be
 
-## (conventional)
+(conventional)
 
-### the thumb points to the N pole (Figure
+the thumb points to the N pole (Figure
 
 demagnetised by placing it inside a solenoid through
 
@@ -31642,25 +31642,25 @@ demagnetised by placing it inside a solenoid through
 
 Figure 45.
 
-### 4c shows how to link the end-on view
+4c shows how to link the end-on view
 
 which the current is repeatedly reversed and reduced.
 
 of the current direction in the solenoid to the polarity.
 
-## solenoid field line
+solenoid field line
 
-## Practical work
+# Practical work
 
-## A B Simple electromagnet
+# A B Simple electromagnet
 
 An electromagnet is a coil of wire wound on a soft iron core.
 
-## A 5 cm
+# A 5 cm
 
 iron nail and 3 m of PVC-covered copper wire (SWG 26) are needed.
 
-## a current direction
+a current direction
 
 (a) Leave about 25 cm at one end of the wire (for connecting to
 
@@ -31668,7 +31668,7 @@ the circuit) and then wind about 50 cm as a single layer on
 
 Figure 45.
 
-## 4a Field due to a solenoid
+4a Field due to a solenoid
 
 the nail.
 
@@ -31684,29 +31684,29 @@ Find the number of paper clips the electromagnet can
 
 support when the current is varied between 0.
 
-## 2 A and 2.
+2 A and 2.
 
-## 0 A.
+0 A.
 
-## right
+right
 
 Record the results in a table.
 
-### How does the ‘strength’ of the
+How does the ‘strength’ of the
 
-## hand
+hand
 
 electromagnet depend on the current?
 
 (b) Add another two layers of wire to the nail
 
-## winding in the
+winding in the
 
 same direction as the first layer.
 
 Repeat the experiment.
 
-## What
+# What
 
 can you say about the ‘strength’ of an electromagnet and
 
@@ -31718,17 +31718,17 @@ Figure 45.
 
 indd 210 20/06/14 7:51 AM
 
-## electric bell
+electric bell
 
-### In C-core (or horseshoe) electromagnets
+In C-core (or horseshoe) electromagnets
 
 condition (iii) is achieved (Figure 45.
 
-## Note
+# Note
 
 wooden that the coil on each limb of the core is wound in
 
-## electromagnet stand
+electromagnet stand
 
 opposite directions.
 
@@ -31740,13 +31740,13 @@ scrap iron, etc. (Figure 45.
 
 essential part of many electrical devices.
 
-## paper clips
+paper clips
 
-## (0–2 A)
+(0–2 A)
 
-## (2–3 V)
+(2–3 V)
 
-## (0–15 Ω)
+(0–15 Ω)
 
 Figure 45.
 
@@ -31754,13 +31754,13 @@ Figure 45.
 
 paper.
 
-### Sprinkle iron filings on the paper
+# Sprinkle iron filings on the paper
 
-## tap it gently and
+tap it gently and
 
 observe the field pattern.
 
-## How does it compare with that
+# How does it compare with that
 
 given by a bar magnet?
 
@@ -31768,21 +31768,21 @@ given by a bar magnet?
 
 of the electromagnet is a N pole.
 
-## Check with a plotting
+# Check with a plotting
 
 compass.
 
-## ●●Electromagnets
+●●Electromagnets
 
 The magnetism of an electromagnet is temporary
 
-### and can be switched on and off
+and can be switched on and off
 
-## unlike that of a
+unlike that of a
 
 permanent magnet.
 
-### It has a core of soft iron which
+# It has a core of soft iron which
 
 is magnetised only when there is current in the
 
@@ -31798,25 +31798,25 @@ The strength of an electromagnet increases if
 
 Figure 45.
 
-### 7 Electromagnet being used to lift scrap metal
+7 Electromagnet being used to lift scrap metal
 
-## coil soft iron core
+coil soft iron core
 
-## ●●Electric bell
+●●Electric bell
 
 When the circuit in Figure 45.
 
-## 8 is completed, by
+8 is completed, by
 
-### N someone pressing the bell push
+# N someone pressing the bell push
 
-## current flows in the
+current flows in the
 
-## field
+field
 
 coils of the electromagnet which becomes magnetised
 
-## line
+line
 
 current and attracts the soft iron bar (the armature).
 
@@ -31830,37 +31830,37 @@ Figure 45.
 
 indd 211 20/06/14 7:51 AM
 
-## 45 electroMagnets
+45 electroMagnets
 
 bell push L-shaped iron armature.
 
-## This rocks on its pivot and
+# This rocks on its pivot and
 
 closes the contacts at C in the circuit connected to
 
 The relay is then ‘energised’ or ‘on’.
 
-## insulator springy metal
+insulator springy metal
 
-## springy
+springy
 
-## pivot
+pivot
 
-## metal E
+metal E
 
-## strip
+strip
 
-## iron armature
+iron armature
 
-## soft iron
+soft iron
 
-## armature
+armature
 
-## coil soft iron core
+coil soft iron core
 
 C Figure 45.
 
-## 9 Relay
+9 Relay
 
 contact screw The current needed to operate a relay is called
 
@@ -31868,29 +31868,29 @@ the pull-on current and the drop-off current is
 
 the smaller current in the coil when the relay just
 
-## electromagnet
+electromagnet
 
 stops working.
 
 If the coil resistance, R, of a relay is
 
-### 185 Ω and its operating p.d. V is 12 V, then the
+185 Ω and its operating p.d. V is 12 V, then the
 
-## hammer
+hammer
 
 pull-on current I = V/R = 12/185 = 0.
 
-## 065 A =
+065 A =
 
 gong 65 mA.
 
-### The symbols for relays with normally
+# The symbols for relays with normally
 
 open and normally closed contacts are given in
 
 Figure 45.
 
-## 8 Electric bell Figure 45.
+8 Electric bell Figure 45.
 
 The electromagnet loses its magnetism (becomes
 
@@ -31898,21 +31898,21 @@ demagnetised) and no longer attracts the armature.
 
 The springy metal strip is then able to pull the
 
-## armature back
+armature back
 
-## remaking contact at C and so
+remaking contact at C and so
 
 completing the circuit again.
 
-## This cycle is repeated a b
+# This cycle is repeated a b
 
-### so long as the bell push is depressed
+so long as the bell push is depressed
 
-## and continuous
+and continuous
 
 Figure 45.
 
-### 10 Symbols for a relay: a open; b closed
+10 Symbols for a relay: a open; b closed
 
 ringing occurs.
 
@@ -31922,15 +31922,15 @@ Some examples of the use of relays in circuits appear
 
 in Chapter 41.
 
-### circuit breaker b) Reed switch
+circuit breaker b) Reed switch
 
 One such switch is shown in Figure 45.
 
 11a.
 
-### a) Relay When current flows in the coil
+a) Relay When current flows in the coil
 
-## the magnetic field
+the magnetic field
 
 A relay is a switch based on the principle of produced magnetises the strips (called reeds) of
 
@@ -31938,17 +31938,17 @@ an electromagnet.
 
 It is useful if we want one circuit magnetic material.
 
-### The ends become opposite poles
+# The ends become opposite poles
 
-## to control another
+to control another
 
 especially if the current and and one reed is attracted to the other
 
-## so completing
+so completing
 
 power are larger in the second circuit (see question the circuit connected to AB.
 
-## The reeds separate
+# The reeds separate
 
 3, p.
 
@@ -31956,7 +31956,7 @@ power are larger in the second circuit (see question the circuit connected to AB
 
 Figure 45.
 
-## 9 shows a typical relay.
+9 shows a typical relay.
 
 When when the current in the coil is switched off.
 
@@ -31968,47 +31968,47 @@ AB, the soft iron core is magnetised and attracts the reed relay.
 
 indd 212 20/06/14 7:51 AM
 
-## telephone
+telephone
 
 A to move backwards and forwards.
 
-## This varies the
+# This varies the
 
 pressure on the carbon granules between the
 
 movable carbon dome which is attached to
 
-## reeds
+reeds
 
 the diaphragm and the fixed carbon cup at the
 
 back.
 
-## When the pressure increases
+# When the pressure increases
 
-## the granules
+the granules
 
-## coil
+coil
 
 are squeezed closer together and their electrical
 
-## glass
+glass
 
 resistance decreases.
 
-### A decrease of pressure has the
+# A decrease of pressure has the
 
-## tube
+tube
 
 opposite effect.
 
-### The current passing through the
+# The current passing through the
 
 B microphone varies in a similar way to the sound
 
 a Reed switch wave variations.
 
-## door b) Receiver
+door b) Receiver
 
 The coils are wound in opposite directions on the
 
@@ -32016,17 +32016,17 @@ magnet in door two S poles of a magnet (Figure 45.
 
 13).
 
-## If the
+# If the
 
 current goes round one in a clockwise direction
 
-### S goes round the other anticlockwise
+# S goes round the other anticlockwise
 
-## so making one
+so making one
 
 S pole stronger and the other weaker.
 
-## This causes
+# This causes
 
 the iron armature to rock on its pivot towards the
 
@@ -32036,25 +32036,25 @@ When the current reverses, the
 
 reed magnet armature rocks the other way due to the S pole
 
-## switch
+switch
 
 N which was the stronger before becoming the weaker.
 
 These armature movements are passed on to the
 
-## alarm
+alarm
 
-## bell diaphragm
+bell diaphragm
 
-### making it vibrate and produce sound of
+making it vibrate and produce sound of
 
 b Burglar alarm activated by a reed switch the same frequency as the alternating current in the
 
 Figure 45.
 
-### 11 coil (received from the microphone).
+11 coil (received from the microphone).
 
-## seal
+seal
 
 Reed switches are also operated by permanent
 
@@ -32068,37 +32068,37 @@ open reed switch as a burglar alarm.
 
 How does it work?
 
-## alloy fixed carbon cup
+alloy fixed carbon cup
 
-## diaphragm
+diaphragm
 
-### c) Circuit breaker carbon granules
+c) Circuit breaker carbon granules
 
-## movable
+movable
 
 A circuit breaker (p.
 
-### 181) acts in a similar way to carbon
+181) acts in a similar way to carbon
 
-## dome
+dome
 
-## a normally closed relay
+a normally closed relay
 
-## when the current in the
+when the current in the
 
-### electromagnet exceeds a critical value
+electromagnet exceeds a critical value
 
-## the contact leads
+the contact leads
 
 points are separated and the circuit is broken.
 
-## In the
+# In the
 
 design shown in Figure 40.
 
 11, when the iron bolt Figure 45.
 
-## 12 Carbon microphone
+12 Carbon microphone
 
 is attracted far enough towards the electromagnet
 
@@ -32106,33 +32106,33 @@ the plunger is released and the push switch opens
 
 breaking contact to the rest of the circuit.
 
-## aluminium
+aluminium
 
-## diaphragm
+diaphragm
 
-## rocking
+rocking
 
-## armature
+armature
 
-## S N S
+# S N S
 
-## ●●Telephone
+●●Telephone
 
-## coil
+coil
 
-## coil
+coil
 
 A telephone contains a microphone at the speaking
 
 end and a receiver at the listening end.
 
-## magnet
+magnet
 
-## a) Carbon microphone
+a) Carbon microphone
 
 Figure 45.
 
-## 13 Telephone receiver
+13 Telephone receiver
 
 When someone speaks into a carbon microphone
 
@@ -32144,29 +32144,29 @@ When someone speaks into a carbon microphone
 
 indd 213 20/06/14 7:51 AM
 
-## 45 electroMagnets
+45 electroMagnets
 
-## Checklist
+# Checklist
 
-## Questions
+# Questions
 
 After studying this chapter you should be able to
 
-### 1 The vertical wire in Figure 45.
+1 The vertical wire in Figure 45.
 
-## 14 is at right angles to the
+14 is at right angles to the
 
 card.
 
 In what direction will a plotting compass at A point • describe and draw sketches of the magnetic fi elds round
 
-## when current-carrying
+when current-carrying
 
-### straight and circular conductors and
+straight and circular conductors and
 
-### a there is no current in the wire
+a there is no current in the wire
 
-## solenoids
+solenoids
 
 b the current direction is upwards?
 
@@ -32174,7 +32174,7 @@ b the current direction is upwards?
 
 relating current direction and magnetic fi eld direction
 
-## card
+card
 
 • describe the effect on the magnetic fi eld of changing the
 
@@ -32184,7 +32184,7 @@ A • identify regions of different magnetic fi eld strength
 
 around a solenoid,
 
-## wire
+wire
 
 • make a simple electromagnet,
 
@@ -32194,15 +32194,15 @@ Figure 45.
 
 • explain the action of an electric bell
 
-## a relay
+a relay
 
-## a reed switch
+a reed switch
 
 and a circuit breaker.
 
-## 2 Figure 45.
+2 Figure 45.
 
-### 15 shows a solenoid wound on a core of soft
+15 shows a solenoid wound on a core of soft
 
 iron.
 
@@ -32220,7 +32220,7 @@ a Why are connections made to the car body?
 
 b There are two circuits in parallel with the battery.
 
-## What
+# What
 
 are they?
 
@@ -32228,21 +32228,21 @@ c Why is wire A thicker than wire B?
 
 d Why is a relay used?
 
-## contacts
+contacts
 
-## B starter coil
+# B starter coil
 
-## switch
+switch
 
-## starter
+starter
 
-## motor
+motor
 
-## relay
+relay
 
-## connections
+connections
 
-## to car body
+to car body
 
 Figure 45.
 
@@ -32250,17 +32250,17 @@ Figure 45.
 
 indd 214 20/06/14 7:51 AM
 
-## Electric motors
+# Electric motors
 
-### ● The motor effect ● Practical motors
+● The motor effect ● Practical motors
 
 ● Fleming’s left-hand rule ● Moving-coil loudspeaker
 
 ● Simple d.
 
-### electric motor ● Practical work
+electric motor ● Practical work
 
-## A model motor
+# A model motor
 
 Electric motors form the heart of a whole host of b) Explanation
 
@@ -32268,17 +32268,17 @@ electrical devices ranging from domestic appliances
 
 Figure 46.
 
-### 2a is a side view of the magnetic field
+2a is a side view of the magnetic field
 
 such as vacuum cleaners and washing machines to
 
 lines due to the wire and the magnet.
 
-## Those due
+# Those due
 
 electric trains and lifts.
 
-### In a car the windscreen wipers
+# In a car the windscreen wipers
 
 to the wire are circles and we will assume their
 
@@ -32286,7 +32286,7 @@ are usually driven by one and the engine is started by
 
 direction is as shown.
 
-## The dotted lines represent
+# The dotted lines represent
 
 another.
 
@@ -32294,15 +32294,15 @@ the field lines of the magnet and their direction is
 
 towards the right.
 
-## ●●The motor effect
+●●The motor effect
 
 The resultant field obtained by combining both
 
 fields is shown in Figure 46.
 
-## There are more lines
+# There are more lines
 
-### A wire carrying a current in a magnetic
+# A wire carrying a current in a magnetic
 
 below than above the wire since both fields act in
 
@@ -32324,51 +32324,51 @@ will exert an upward force on the wire.
 
 In Figure 46.
 
-### 1 the flexible wire is loosely supported
+1 the flexible wire is loosely supported
 
 in the strong magnetic field of a C-shaped magnet
 
 (permanent or electromagnet).
 
-## When the switch
+# When the switch
 
-## is closed
+is closed
 
-### current flows in the wire which jumps
+current flows in the wire which jumps
 
 upwards as shown.
 
-### If either the direction of the
+# If either the direction of the
 
 current or the direction of the field is reversed
 
-## the N S
+the N S
 
 wire moves downwards.
 
-## The force increases if the
+# The force increases if the
 
 strength of the field increases and if the current
 
 increases.
 
-## wire
+wire
 
-## motion
+motion
 
-## force on wire
+force on wire
 
-## N S
+# N S
 
-## flexible
+flexible
 
-## wire
+wire
 
-## to low-voltage
+to low-voltage
 
-## high-current supply
+high-current supply
 
-## wire
+wire
 
 Figure 46.
 
@@ -32380,13 +32380,13 @@ Figure 46.
 
 indd 215 20/06/14 7:51 AM
 
-## 46 electric Motors
+46 electric Motors
 
-## ●● Fleming’s left-hand coil
+●● Fleming’s left-hand coil
 
-## rule
+rule
 
-## N S
+# N S
 
 The direction of the force or thrust on the wire can a d
 
@@ -32394,9 +32394,9 @@ be found by this rule which is also called the motor
 
 rule (Figure 46.
 
-## brush brush
+brush brush
 
-## (fixed) (fixed)
+(fixed) (fixed)
 
 Hold the thumb and fi rst two fi ngers of the left hand at commutator
 
@@ -32404,13 +32404,13 @@ right angles to each other with the First fi nger pointing (rotates with coil)
 
 in the direction of the Field and the seCond fi nger in the
 
-## direction of the Current
+direction of the Current
 
 then the Thumb points in the Figure 46.
 
-## 4 Simple d.
+4 Simple d.
 
-## motor
+motor
 
 direction of the Thrust.
 
@@ -32424,7 +32424,7 @@ However,
 
 force is smaller and is zero if the wire is parallel to because of its inertia
 
-## the coil overshoots the
+the coil overshoots the
 
 the fi eld.
 
@@ -32432,45 +32432,45 @@ vertical and the commutator halves change
 
 contact from one brush to the other.
 
-## This
+# This
 
 Thumb reverses the current through the coil and so
 
-## Thrust
+# Thrust
 
 also the directions of the forces on its sides.
 
-## Side ab is on the right now
+# Side ab is on the right now
 
-## acted on by a
+acted on by a
 
-## First finger downward force
+# First finger downward force
 
-### while cd is on the left with an
+while cd is on the left with an
 
 upward force.
 
-### The coil thus carries on rotating
+# The coil thus carries on rotating
 
-## Current Field
+# Current Field
 
 clockwise.
 
-## seCond finger
+seCond finger
 
-### The more turns there are on the coil
+# The more turns there are on the coil
 
-## or the larger
+or the larger
 
 Figure 46.
 
 3 Fleming’s left-hand (motor) rule the current through it
 
-## the greater is the couple on
+the greater is the couple on
 
 the coil and the faster it turns.
 
-## The coil will also
+# The coil will also
 
 turn faster if the strength of the magnetic fi eld is
 
@@ -32478,11 +32478,11 @@ increased.
 
 ●●Simple d.
 
-## electric
+electric
 
-## ●●Practical motors
+●●Practical motors
 
-## motor
+motor
 
 Practical motors have:
 
@@ -32502,7 +32502,7 @@ This makes it more powerful.
 
 C-shaped magnet (Figure 46.
 
-## Each end of the
+# Each end of the
 
 The coil and core together are called the
 
@@ -32510,39 +32510,39 @@ coil is connected to half of a split ring of copper
 
 armature.
 
-## called a commutator
+called a commutator
 
 which rotates with the coil.
 
 (b) several coils each in a slot in the core and
 
-## Two carbon blocks
+# Two carbon blocks
 
-## the brushes
+the brushes
 
-## are pressed lightly
+are pressed lightly
 
 each having a pair of commutator segments.
 
 against the commutator by springs.
 
-## The brushes are
+# The brushes are
 
-### This gives increased power and smoother
+# This gives increased power and smoother
 
 connected to an electrical supply.
 
 running.
 
-### The motor of an electric drill is shown
+# The motor of an electric drill is shown
 
 If Fleming’s left-hand rule is applied to the
 
 in Figure 46.
 
-## coil in the position shown
+coil in the position shown
 
-## we fi nd that side ab
+we fi nd that side ab
 
 (c) an electromagnet (usually) to produce the fi eld
 
@@ -32562,7 +32562,7 @@ which rotates the coil in a clockwise direction until it motors.
 
 They work off a.
 
-## (alternating current) on a
+(alternating current) on a
 
 is vertical.
 
@@ -32574,15 +32574,15 @@ motor.
 
 indd 216 20/06/14 7:51 AM
 
-## Practical motors
+# Practical motors
 
-## Practical work
+# Practical work
 
-## A model motor
+# A model motor
 
 The motor shown in Figure 46.
 
-## 6 is made from a kit.
+6 is made from a kit.
 
 1 Wrap Sellotape round one end of the metal tube which
 
@@ -32590,19 +32590,19 @@ passes through the wooden block.
 
 2 Cut two rings off a piece of narrow rubber tubing
 
-## slip them
+slip them
 
 on to the Sellotaped end of the metal tube.
 
-### 3 Remove the insulation from one end of a 1.
+3 Remove the insulation from one end of a 1.
 
-## 5-metre length
+5-metre length
 
 of SWG 26 PVC-covered copper wire and fix it under both
 
 rubber rings so that it is held tight against the Sellotape.
 
-## This
+# This
 
 forms one end of the coil.
 
@@ -32614,7 +32614,7 @@ PVC and fixing this too under the rings but on the opposite
 
 side of the tube from the first end.
 
-## The bare ends act as the
+# The bare ends act as the
 
 commutator.
 
@@ -32622,19 +32622,19 @@ commutator.
 
 that the block spins freely.
 
-## 6 Arrange two 0.
+6 Arrange two 0.
 
 5-metre lengths of wire to act as brushes
 
 and leads to the supply, as shown.
 
-## Adjust the brushes so that
+# Adjust the brushes so that
 
 they are vertical and each touches one bare end of the coil
 
 when the plane of the coil is horizontal.
 
-## The motor will not
+# The motor will not
 
 Figure 46.
 
@@ -32644,51 +32644,51 @@ Figure 46.
 
 Connect to a 3 V battery (or other low-voltage d.
 
-## supply)
+supply)
 
 and a slight push of the coil should set it spinning at high
 
 speed.
 
-## Sellotape brushes
+# Sellotape brushes
 
-## bare ends
+bare ends
 
-## of coil
+of coil
 
-## wooden block axle
+wooden block axle
 
-## metal rubber
+metal rubber
 
-## tube rings
+tube rings
 
-## split pin
+split pin
 
-## base
+base
 
-## magnet
+magnet
 
-## rivet
+rivet
 
-## yoke
+yoke
 
-## to battery
+to battery
 
-## coil in slot
+coil in slot
 
 Figure 46.
 
-## 6 A model motor
+6 A model motor
 
 9781444176421_Section_04.
 
 indd 217 20/06/14 7:51 AM
 
-## 46 electric Motors
+46 electric Motors
 
-## ●●Moving-coil
+●●Moving-coil
 
-### 2 In the simple electric motor of Figure 46.
+2 In the simple electric motor of Figure 46.
 
 9, the coil rotates
 
@@ -32696,13 +32696,13 @@ anticlockwise as seen by the eye from the position X when
 
 loudspeaker current fl ows in the coil.
 
-### Is the current fl owing clockwise or
+# Is the current fl owing clockwise or
 
 anticlockwise around the coil when viewed from above?
 
-## Varying currents from a radio
+# Varying currents from a radio
 
-## disc player
+disc player
 
 etc. pass
 
@@ -32716,13 +32716,13 @@ with a central pole and a surrounding ring pole S
 
 7a).
 
-### A force acts on the coil which
+# A force acts on the coil which
 
-## according to X
+according to X
 
-## Fleming’s left-hand rule
+Fleming’s left-hand rule
 
-## makes it move in and
+makes it move in and
 
 out.
 
@@ -32734,7 +32734,7 @@ it and sets up sound waves in the surrounding air
 
 (Figure 46.
 
-### 3 An electric motor is a device which transfers
+3 An electric motor is a device which transfers
 
 A mechanical energy to electrical energy
 
@@ -32742,7 +32742,7 @@ casing ring central B heat energy to electrical energy
 
 pole pole C electrical energy to heat only
 
-## D heat to mechanical energy
+# D heat to mechanical energy
 
 E electrical energy to mechanical energy and heat.
 
@@ -32750,37 +32750,37 @@ E electrical energy to mechanical energy and heat.
 
 N N of a simple motor.
 
-### Explain how continuous rotation is
+# Explain how continuous rotation is
 
 produced and show how the direction of rotation is
 
 related to the direction of the current.
 
-## N S N S
+# N S N S
 
 b State what would happen to the direction of rotation of
 
-### coil the motor you have described if
+coil the motor you have described if
 
-## on
+on
 
 N N (i) the current was reversed,
 
-## tube
+tube
 
 (ii) the magnetic fi eld was reversed,
 
 paper (iii) both current and fi eld were reversed simultaneously.
 
-## cone
+cone
 
-## a End-on view b
+a End-on view b
 
 Figure 46.
 
-## 7 Moving-coil loudspeaker
+7 Moving-coil loudspeaker
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -32788,9 +32788,9 @@ After studying this chapter you should be able to
 
 current-carrying conductor in a magnetic fi eld
 
-## and recall
+and recall
 
-## Questions
+# Questions
 
 that it increases with the strength of the fi eld and the size of
 
@@ -32808,7 +32808,7 @@ C opposite to the current direction couple in a uniform magnetic fi eld
 
 D in the direction of the current • draw a diagram of a simple d.
 
-## electric motor and explain
+electric motor and explain
 
 E vertically upwards.
 
@@ -32818,7 +32818,7 @@ how it works,
 
 motor.
 
-## current
+current
 
 Figure 46.
 
@@ -32826,23 +32826,23 @@ Figure 46.
 
 indd 218 20/06/14 7:52 AM
 
-## Electric meters
+# Electric meters
 
 ● Moving-coil galvanometer ● Multimeters
 
 ● Ammeters and shunts ● Reading a voltmeter
 
-## ● Voltmeters and multipliers
+● Voltmeters and multipliers
 
 ●●Moving-coil field lines are directed to and from the centre of
 
 the cylinder.
 
-### The scale on the meter is then even or
+# The scale on the meter is then even or
 
-## galvanometer
+galvanometer
 
-## linear
+linear
 
 i.e. all divisions are the same size.
 
@@ -32850,7 +32850,7 @@ The sensitivity of a galvanometer is increased by
 
 A galvanometer detects small currents or small
 
-## having
+having
 
 s, often of the order of milliamperes (mA) or
 
@@ -32858,9 +32858,9 @@ millivolts (mV).
 
 (i) more turns on the coil,
 
-### In the moving-coil pointer-type meter
+# In the moving-coil pointer-type meter
 
-### a coil is (ii) a stronger magnet
+a coil is (ii) a stronger magnet
 
 pivoted between the poles of a permanent magnet (iii) weaker hair springs or a wire suspension
 
@@ -32870,11 +32870,11 @@ pivoted between the poles of a permanent magnet (iii) weaker hair springs or a w
 
 Current enters and leaves the coil by (iv) as a pointer
 
-### a long beam of light reflected from a
+a long beam of light reflected from a
 
 hair springs above and below it.
 
-## When there is a current
+# When there is a current
 
 mirror on the coil.
 
@@ -32886,81 +32886,81 @@ causing it to rotate until stopped by the springs.
 
 have a full-scale deflection of a few microamperes
 
-## greater the current
+greater the current
 
-### the greater the deflection which
+the greater the deflection which
 
 (µA).
 
-## (1 µA = 10−6 A)
+(1 µA = 10−6 A)
 
 is shown by a pointer attached to the coil.
 
-## ●●Ammeters and shunts
+●●Ammeters and shunts
 
-## 5 10
+5 10
 
-### 15 An ammeter is a galvanometer that has a known
+15 An ammeter is a galvanometer that has a known
 
-## pointer
+pointer
 
-## low resistance
+low resistance
 
-## called a shunt
+called a shunt
 
-## in parallel with it to
+in parallel with it to
 
-### 2 0 take most of the current (Figure 47.
+2 0 take most of the current (Figure 47.
 
-## An ammeter
+# An ammeter
 
 is placed in series in a circuit and must have a low
 
-## coil
+coil
 
 N resistance otherwise it changes the current to be
 
-## concave
+concave
 
 pole S measured.
 
-## terminals
+terminals
 
-## soft iron
+soft iron
 
-## galvanometer
+galvanometer
 
-## cylinder
+cylinder
 
-## hair G
+hair G
 
-## spring
+spring
 
-## shunt
+shunt
 
-## radial field
+radial field
 
 Figure 47.
 
-## 2 An ammeter
+2 An ammeter
 
-## ●●Voltmeters and
+●●Voltmeters and
 
-## multipliers
+multipliers
 
 A voltmeter is a galvanometer having a known
 
-## soft iron coil
+soft iron coil
 
-## cylinder high resistance
+cylinder high resistance
 
-## called a multiplier
+called a multiplier
 
-## in series with
+in series with
 
 b View from above it (Figure 47.
 
-### A voltmeter is placed in parallel
+# A voltmeter is placed in parallel
 
 Figure 47.
 
@@ -32980,17 +32980,17 @@ it produces a radial field (Figure 47.
 
 indd 219 20/06/14 7:52 AM
 
-## 47 electric Meters
+47 electric Meters
 
-## galvanometer
+galvanometer
 
-## multiplier
+multiplier
 
 Figure 47.
 
-## 3 A voltmeter
+3 A voltmeter
 
-## ●●Multimeters
+●●Multimeters
 
 A multimeter can have analogue or digital displays
 
@@ -32998,13 +32998,13 @@ A multimeter can have analogue or digital displays
 
 4a and 47.
 
-## 4b) and can be used to
+4b) and can be used to
 
 measure a.
 
 or d.
 
-## currents or voltages and also
+currents or voltages and also
 
 resistance.
 
@@ -33012,39 +33012,39 @@ The required function is first selected,
 
 say a.
 
-## current
+current
 
 and then a suitable range chosen.
 
 For example if a current of a few milliamps is
 
-## expected
+expected
 
 the 10 mA range might be selected and the
 
 value of the current (in mA) read from the display
 
-## if the reading is off-scale
+if the reading is off-scale
 
-## the sensitivity should
+the sensitivity should
 
-### be reduced by changing to the higher
+be reduced by changing to the higher
 
-## perhaps
+perhaps
 
-## 100 mA, range.
+100 mA, range.
 
-### For the measurement of resistance
+# For the measurement of resistance
 
-## the resistance
+the resistance
 
 function is chosen and the appropriate range selected.
 
 The terminals are first short-circuited to check the
 
-## zero of resistance
+zero of resistance
 
-## then the unknown resistance
+then the unknown resistance
 
 is disconnected from any circuit and reconnected
 
@@ -33054,21 +33054,21 @@ short circuit.
 
 Figure 47.
 
-## 4b Digital multimeter
+4b Digital multimeter
 
 Analogue multimeters are adapted moving-
 
 coil galvanometers.
 
-## Digital multimeters are
+# Digital multimeters are
 
 constructed from integrated circuits.
 
-## On the
+# On the
 
 voltage setting they have a very high input
 
-## resistance (10 MΩ)
+resistance (10 MΩ)
 
 i.e. they affect most
 
@@ -33076,45 +33076,45 @@ circuits very little and so give very accurate
 
 readings.
 
-## ●●Reading a voltmeter
+●●Reading a voltmeter
 
-### The face of an analogue voltmeter is
+# The face of an analogue voltmeter is
 
 represented in Figure 47.
 
-## The voltmeter
+# The voltmeter
 
 has two scales.
 
-### The 0–5 scale has a full-scale
+The 0–5 scale has a full-scale
 
 deflection of 5.
 
-## 0 V.
+0 V.
 
-## Each small division on
+# Each small division on
 
 the 0–5 scale represents 0.
 
-## 1 V.
+1 V.
 
-## This voltmeter
+# This voltmeter
 
 scale can be read to the nearest 0.
 
-## 1 V.
+1 V.
 
-## However
+# However
 
 the human eye is very good at judging a half
 
-## division
+division
 
 so we are able to estimate the voltmeter
 
 reading to the nearest 0.
 
-## 05 V with considerable
+05 V with considerable
 
 Figure 47.
 
@@ -33124,21 +33124,21 @@ Figure 47.
 
 indd 220 20/06/14 7:52 AM
 
-## reading a voltmeter
+reading a voltmeter
 
-## Checklist
+# Checklist
 
 2 6 After studying this chapter you should be able to
 
-## 0 8
+0 8
 
 2 1 2 3 10 • draw a diagram of a simple moving-coil galvanometer and
 
-## 0 4 explain how it works,
+0 4 explain how it works,
 
 • explain how a moving-coil galvanometer can be modifi ed
 
-## 1 5
+1 5
 
 for use as (a) an ammeter and (b) a voltmeter
 
@@ -33148,11 +33148,11 @@ resistance and (b) a voltmeter should have a very high
 
 resistance.
 
-## volts
+volts
 
 Figure 47.
 
-## 5 An analogue voltmeter scale
+5 An analogue voltmeter scale
 
 Every measuring instrument has a calibrated scale.
 
@@ -33162,11 +33162,11 @@ x, Scientifi c enquiry) you should include details
 
 about each scale that you use.
 
-## Questions
+# Questions
 
-### 1 What does a galvanometer do?
+1 What does a galvanometer do?
 
-### 2 Why should the resistance of
+2 Why should the resistance of
 
 a an ammeter be very small,
 
@@ -33174,17 +33174,17 @@ b a voltmeter be very large?
 
 3 The scales of a voltmeter are shown in Figure 47.
 
-## 2 4 6
+2 4 6
 
-## 0 8
+0 8
 
-## 2 1 2 3 10
+2 1 2 3 10
 
-## 0 4
+0 4
 
-## 1 5
+1 5
 
-## volts
+volts
 
 Figure 47.
 
@@ -33194,39 +33194,39 @@ voltmeter?
 
 b What do the small divisions between the numbers 3 and
 
-## 4 represent?
+4 represent?
 
 c Which scale would you use to measure a voltage of
 
-## 4.6 V?
+# 4.6 V?
 
 d When the voltmeter reads 4.
 
-## 0 V where should you
+0 V where should you
 
 position your eye to make the reading?
 
 e When making the reading for 4.
 
-## 0 V an observer’s eye is
+0 V an observer’s eye is
 
 over the 0 V mark.
 
-### Explain why the value obtained by
+# Explain why the value obtained by
 
 this observer is higher than 4.
 
-## 0 V.
+0 V.
 
 9781444176421_Section_04.
 
 indd 221 20/06/14 7:52 AM
 
-## Electrons
+# Electrons
 
-### ● Thermionic emission ● Uses of the CRO
+● Thermionic emission ● Uses of the CRO
 
-## ● Cathode rays ● X-rays
+● Cathode rays ● X-rays
 
 ● Deflection of an electron beam ● Photoelectric effect
 
@@ -33240,7 +33240,7 @@ Beams of electrons moving at high speed are called
 
 cathode rays.
 
-### Their properties can be studied using
+# Their properties can be studied using
 
 ●●Thermionic emission the ‘Maltese cross tube’ (Figure 48.
 
@@ -33248,15 +33248,15 @@ Electrons emitted by the hot cathode are
 
 The evacuated bulb in Figure 48.
 
-## 1 contains a small
+1 contains a small
 
 accelerated towards the anode but most pass
 
-## coil of wire
+coil of wire
 
-## the filament
+the filament
 
-## and a metal plate called
+and a metal plate called
 
 through the hole in it and travel on along the
 
@@ -33270,7 +33270,7 @@ of the 400 V d.
 
 power supply.
 
-## The negative of the
+# The negative of the
 
 to fluoresce with green or blue light and cast
 
@@ -33278,11 +33278,11 @@ supply is joined to the filament which is also called
 
 a shadow of the cross on it.
 
-## The cathode rays
+# The cathode rays
 
 the cathode.
 
-### The filament is heated by current from
+# The filament is heated by current from
 
 evidently travel in straight lines.
 
@@ -33292,13 +33292,13 @@ or d.
 
 If the N pole of a magnet is brought up to
 
-## With the circuit as shown
+# With the circuit as shown
 
-## the meter deflects
+the meter deflects
 
-## the neck of the tube
+the neck of the tube
 
-## the rays (and the fluorescent
+the rays (and the fluorescent
 
 indicating current flow in the circuit containing the
 
@@ -33306,7 +33306,7 @@ shadow) can be shown to move upwards.
 
 gap between anode and cathode.
 
-## The current stops
+# The current stops
 
 rays are clearly deflected by a magnetic field and
 
@@ -33322,9 +33322,9 @@ This demonstration shows that negative charges
 
 (positive charge flow) travelling from anode to
 
-## in the form of electrons
+in the form of electrons
 
-## escape from the filament
+escape from the filament
 
 cathode.
 
@@ -33332,15 +33332,15 @@ when it is hot because they have enough energy to
 
 get free from the metal surface.
 
-## The process is known
+# The process is known
 
 as thermionic emission and the bulb as a thermionic
 
-## Maltese cross
+# Maltese cross
 
 diode (since it has two electrodes).
 
-## There is a certain
+# There is a certain
 
 minimum threshold energy (depending on the 3kV
 
@@ -33348,81 +33348,81 @@ metal) which the electrons must have to escape.
 
 Also,
 
-### the higher the temperature of the metal
+the higher the temperature of the metal
 
-## the greater
+the greater
 
 the number of electrons emitted.
 
-## The electrons are evacuated
+# The electrons are evacuated
 
-## bulb
+bulb
 
 attracted to the anode if it is positive and are able to 6V
 
 reach it because there is a vacuum in the bulb.
 
-## 0kV
+0kV
 
-## evacuated bulb filament
+evacuated bulb filament
 
 5–0–2.
 
-## 5 mA cathode
+5 mA cathode
 
-## anode
+anode
 
-## anode
+anode
 
-## fluorescent
+fluorescent
 
-## screen
+screen
 
 power Figure 48.
 
-## 2 Maltese cross tube
+2 Maltese cross tube
 
-## supply 6 V
+supply 6 V
 
-## 400 V
+400 V
 
 There is also an optical shadow of the cross
 
-## due to
+due to
 
 light emitted by the cathode.
 
-## This is unaffected by
+# This is unaffected by
 
 the magnet.
 
 Figure 48.
 
-### 1 Demonstrating thermionic emission
+1 Demonstrating thermionic emission
 
 9781444176421_Section_04.
 
 indd 222 20/06/14 7:52 AM
 
-### deflection of an electron beam
+deflection of an electron beam
 
-## ●●Deflection of an
+●●Deflection of an
 
-## metal plate
+metal plate
 
-## electron beam
+electron beam
 
-### a) By a magnetic field parabolic
+a) By a magnetic field parabolic
 
-## path electric
+path electric
 
-## electron
+electron
 
 In Figure 48.
 
-### 3 the evenly spaced crosses represent field
+3 the evenly spaced crosses represent field
 
-## beam
+beam
 
 a uniform magnetic field (i.e. one of the same
 
@@ -33430,9 +33430,9 @@ strength throughout the area shown) acting
 
 into and perpendicular to the paper.
 
-## An electron
+# An electron
 
-## metal
+metal
 
 beam entering the field at right angles to the field plate
 
@@ -33456,13 +33456,13 @@ conventional current in the opposite direction).
 
 If a beam of electrons enters the field in a direction
 
-## perpendicular to the field
+perpendicular to the field
 
-## the negatively charged
+the negatively charged
 
 beam is attracted towards the positively charged
 
-### plate and follows a parabolic path
+plate and follows a parabolic path
 
 as shown.
 
@@ -33472,35 +33472,35 @@ fact its behaviour is not unlike that of a projectile
 
 motions can be treated separately.
 
-## c) Demonstration
+c) Demonstration
 
-## magnetic field
+magnetic field
 
-## electron
+electron
 
 (into paper) The deflection tube in Figure 48.
 
-## 5 can be used to
+5 can be used to
 
-## beam
+beam
 
 show the deflection of an electron beam in electric and
 
-## force on
+force on
 
 electron magnetic fields.
 
-### Electrons from a hot cathode strike
+# Electrons from a hot cathode strike
 
 a fluorescent screen S set at an angle.
 
 A p.
 
-## applied
+applied
 
 circular path electron across two horizontal metal plates Y Y creates a vertical
 
-## 1 2
+1 2
 
 electric field which deflects the rays upwards if Y is
 
@@ -33508,19 +33508,19 @@ positive (as shown) and downwards if it is negative.
 
 When there is current in the two coils X X (in
 
-## 1 2
+1 2
 
-## series) outside the tube
+series) outside the tube
 
-### a horizontal magnetic field is
+a horizontal magnetic field is
 
 produced across the tube.
 
-## It can be used instead of a
+# It can be used instead of a
 
-## magnet to deflect the rays
+magnet to deflect the rays
 
-## or to cancel the deflection
+or to cancel the deflection
 
 due to an electric field.
 
@@ -33528,9 +33528,9 @@ Figure 48.
 
 3 Path of an electron beam at right angles to a magnetic field
 
-## b) By an electric field 3 kV
+b) By an electric field 3 kV
 
-## Y electrons
+# Y electrons
 
 An electric field is a region where an electric charge
 
@@ -33538,27 +33538,27 @@ experiences a force due to other charges (see p.
 
 155).
 
-## 6 V
+6 V
 
 In Figure 48.
 
-### 4 the two metal plates behave like a
+4 the two metal plates behave like a
 
 capacitor that has been charged by connection to a
 
 voltage supply.
 
-### If the charge is evenly spread over 2
+# If the charge is evenly spread over 2
 
-## the plates
+the plates
 
 a uniform electric field is created between
 
-## 0 kV
+0 kV
 
-### them and is represented by parallel
+them and is represented by parallel
 
-## equally spaced 2
+equally spaced 2
 
 lines; the arrows indicate the direction in which a anode cathode
 
@@ -33566,15 +33566,15 @@ positive charge would move.
 
 Figure 48.
 
-## 5 Deflection tube
+5 Deflection tube
 
 9781444176421_Section_04.
 
 indd 223 20/06/14 7:52 AM
 
-## 48 electrons
+48 electrons
 
-### ●●Cathode ray screen screen screen
+●●Cathode ray screen screen screen
 
 oscilloscope (CRO) Y-input zero d.
 
@@ -33582,7 +33582,7 @@ Historically the CRO is one of the most important Y-plates electrons
 
 scientific instruments ever developed.
 
-## It contains
+# It contains
 
 a cathode ray tube that has three main parts
 
@@ -33590,43 +33590,43 @@ a cathode ray tube that has three main parts
 
 deflection of spot seen from front of screen
 
-## a b c
+a b c
 
 electron gun deflecting system fluorescent
 
-## screen
+screen
 
 Figure 48.
 
-### 7 Deflection of the electron beam
+7 Deflection of the electron beam
 
 In Figure 48.
 
 7a the p.
 
-## between the Y-plates is
+between the Y-plates is
 
-## electron
+electron
 
 H zero, as is the deflection.
 
 In part b of the figure, the
 
-## beam
+beam
 
 input p.
 
-### makes the upper plate positive and
+makes the upper plate positive and
 
 it attracts the beam of negatively charged electrons
 
-### C G A Y-plates X-plates vacuum
+# C G A Y-plates X-plates vacuum
 
 upwards.
 
 In part c the 50 Hz a.
 
-## input makes the
+input makes the
 
 Figure 48.
 
@@ -33636,23 +33636,23 @@ a continuous vertical line (whose length increases if
 
 the Y-amp gain is turned up).
 
-## a) Electron gun
+a) Electron gun
 
 The p.
 
-### applied to the X-plates is also via an
+applied to the X-plates is also via an
 
-## This consists of a heater H
+# This consists of a heater H
 
-## a cathode C
+a cathode C
 
-## another
+another
 
-## amplifier
+amplifier
 
-## the X-amplifier
+the X-amplifier
 
-## and can either be from an
+and can either be from an
 
 electrode called the grid G and two or three anodes
 
@@ -33662,27 +33662,27 @@ G is at a negative voltage with respect to C and
 
 or, more commonly
 
-## from the time base circuit in
+from the time base circuit in
 
 controls the number of electrons passing through
 
 the CRO.
 
-## its central hole from C to A
+its central hole from C to A
 
-## it is the brilliance or
+it is the brilliance or
 
 The time base deflects the beam horizontally in
 
 brightness control.
 
-### The anodes are at high positive
+# The anodes are at high positive
 
 the X-direction and makes the spot sweep across
 
-## voltages relative to C
+voltages relative to C
 
-## they accelerate the electrons
+they accelerate the electrons
 
 the screen from left to right at a steady speed
 
@@ -33694,17 +33694,17 @@ them into a narrow beam.
 
 (usually ‘coarse’ and ‘fine’).
 
-## It must then make the
+# It must then make the
 
 spot ‘fly back’ very rapidly to its starting point
 
-## b) Fluorescent screen
+b) Fluorescent screen
 
 ready for the next sweep.
 
 The p.
 
-## from the time
+from the time
 
 A bright spot of light is produced on the screen
 
@@ -33718,29 +33718,29 @@ Since AB is a straight line, the
 
 distance moved by the spot is directly proportional
 
-## c) Deflecting system
+c) Deflecting system
 
 to time and the horizontal deflection becomes a
 
 Beyond A are two pairs of deflecting plates to which
 
-## measure of time
+measure of time
 
 i.e. a time axis or base.
 
 s can be applied.
 
-## The Y-plates are horizontal
+# The Y-plates are horizontal
 
 but create a vertical electric field which deflects the
 
 beam vertically.
 
-### The X-plates are vertical and deflect
+# The X-plates are vertical and deflect
 
 the beam horizontally.
 
-## sweep
+sweep
 
 The p.
 
@@ -33756,47 +33756,47 @@ depends on the setting of the Y-amp gain control
 
 before it is applied to the Y-plates.
 
-## It can then
+# It can then
 
-## 1 cycle
+1 cycle
 
 be made large enough to give a suitable vertical
 
 deflection of the beam.
 
-## esab
+esab
 
-## emit
+emit
 
 Figure 48.
 
-## 8 Time base waveform
+8 Time base waveform
 
 9781444176421_Section_04.
 
 indd 224 20/06/14 7:52 AM
 
-## Uses of the cro
+# Uses of the cro
 
 In Figures 48.
 
 9a, b and c
 
-## the time base is on
+the time base is on
 
-### applied When preparing the CRO for use
+applied When preparing the CRO for use
 
-## set the
+set the
 
 to the X-plates.
 
-## For the trace in part a
+# For the trace in part a
 
-## the Y-input brilliance
+the Y-input brilliance
 
 focus, X-shift and Y-shift controls
 
-## is zero
+is zero
 
 for the trace in part b the Y-input is d.
 
@@ -33808,7 +33808,7 @@ In both cases over the screen in the X and Y directions
 
 the spot traces out a horizontal line which appears to respectively) to their mid-positions.
 
-## The time base
+# The time base
 
 be continuous if the flyback is fast enough.
 
@@ -33820,7 +33820,7 @@ trace in part c the Y-input is a.
 
 are alternately positive and negative and the spot When the a.
 
-## selector switch is in the
+selector switch is in the
 
 moves accordingly.
 
@@ -33844,31 +33844,31 @@ b) Measuring p.
 
 A CRO can be used as a d.
 
-## voltmeter if
+voltmeter if
 
-## a b c
+a b c
 
 the p.
 
-### to be measured is connected across the
+to be measured is connected across the
 
 Figure 48.
 
-### 9 Deflection of the spot with time base on
+9 Deflection of the spot with time base on
 
-## Y-input terminals
+# Y-input terminals
 
-## the deflection of the spot is
+the deflection of the spot is
 
 proportional to the p.
 
-## ●●Uses of the CRO For example
+●●Uses of the CRO For example
 
-### if the Y-amp gain control is on
+if the Y-amp gain control is on
 
 say,
 
-## 1 V/div
+1 V/div
 
 a deflection of one vertical division on the
 
@@ -33884,13 +33884,13 @@ A line one division long (time base off)
 
 would be produced by an a.
 
-## input of 1 V peak-to-
+input of 1 V peak-to-
 
 peak, i.e. peak p.
 
 = 0.
 
-## 5 V.
+5 V.
 
 Increasingly the CRO is being replaced by a
 
@@ -33902,15 +33902,15 @@ the p.
 
 against time.
 
-## c) Displaying waveforms
+c) Displaying waveforms
 
-## In this widely used role
+# In this widely used role
 
-## the time base is on
+the time base is on
 
 and the CRO acts as a ‘graph-plotter’ to show
 
-## the waveform
+the waveform
 
 i.e. the variation with time
 
@@ -33918,7 +33918,7 @@ the p.
 
 applied to its Y-input.
 
-## The displays in
+# The displays in
 
 Figures 48.
 
@@ -33934,73 +33934,73 @@ Figure 48.
 
 10 Single-beam CRO and one complete wave is obtained.
 
-## For the
+# For the
 
-## trace in part b
+trace in part b
 
-## it is half that of the input
+it is half that of the input
 
 and two waves are formed.
 
-## If the traces are
+# If the traces are
 
-## a) Practical points
+a) Practical points
 
-### obtained with the Y-amp gain control on
+obtained with the Y-amp gain control on
 
 say,
 
-### The brilliance or intensity control
+# The brilliance or intensity control
 
-## which is
+which is
 
-### 0.5 V/div, the peak-to-peak voltage of the a.c. =
+# 0.5 V/div, the peak-to-peak voltage of the a.c. =
 
-### sometimes the on/off switch as well
+sometimes the on/off switch as well
 
-## should be
+should be
 
-### 3 divs × 0.5 V/div, that is, 1.5 V, and the peak
+3 divs × 0.5 V/div, that is, 1.5 V, and the peak
 
 as low as possible when there is just a spot on the
 
 = 0.
 
-## 75 V.
+75 V.
 
 screen.
 
-### Otherwise screen ‘burn’ occurs which
+Otherwise screen ‘burn’ occurs which
 
-### Sound waveforms can be displayed if a
+# Sound waveforms can be displayed if a
 
 damages the fluorescent material.
 
-## If possible it is
+# If possible it is
 
 microphone is connected to the Y-input terminals
 
 best to defocus the spot when not in use
 
-## or draw it
+or draw it
 
 (see Chapter 33).
 
 into a line by running the time base.
 
-## ▲ ▲
+▲ ▲
 
 9781444176421_Section_04.
 
 indd 225 20/06/14 7:52 AM
 
-## 48 electrons
+48 electrons
 
 anode by a large p.
 
 (up to 100 kV).
 
-## The anode is a
+# The anode is a
 
 copper block with a ‘target’ of a high-melting-point
 
@@ -34010,35 +34010,35 @@ focused by the electric field between the anode and
 
 the concave cathode.
 
-### The tube has a lead shield with
+# The tube has a lead shield with
 
 a small exit for the X-rays.
 
 The work done (see p.
 
-## 163) in transferring a
+163) in transferring a
 
 charge Q through a p.
 
-## V is
+# V is
 
-## E = Q × V
+E = Q × V
 
 This will equal the k.
 
-## of the electrons reaching the
+of the electrons reaching the
 
 anode if Q = charge on an electron (= 1.
 
-## 6 × 10−19 C)
+6 × 10−19 C)
 
 and V is the accelerating p.
 
-## Less than 1% of the
+Less than 1% of the
 
-### of the electrons becomes X-ray energy
+of the electrons becomes X-ray energy
 
-## the rest
+the rest
 
 heats the anode which has to be cooled.
 
@@ -34048,49 +34048,49 @@ s give short wavelength, very
 
 penetrating (hard) X-rays.
 
-## Less penetrating (soft)
+Less penetrating (soft)
 
 rays, of longer wavelength
 
-## are obtained with lower
+are obtained with lower
 
 The absorption of X-rays by matter is greatest
 
 by materials of high density having a large number
 
-### of outer electrons in their atoms
+of outer electrons in their atoms
 
 i.e. of high atomic
 
 Figure 48.
 
-## 11 Alternating p.
+11 Alternating p.
 
-## waveforms on the CRO
+waveforms on the CRO
 
 number (Chapter 50).
 
-## A more intense beam of rays
+# A more intense beam of rays
 
 is produced if the rate of emission of electrons is
 
-### d) Measuring time intervals and
+d) Measuring time intervals and
 
 raised by increasing the filament current.
 
-## frequency
+frequency
 
 high p.
 
-### These can be measured if the CRO has a
+# These can be measured if the CRO has a
 
 calibrated time base.
 
 For example, when the time base filament
 
-## is set on 10 ms/div
+is set on 10 ms/div
 
-### the spot takes 10 milliseconds
+the spot takes 10 milliseconds
 
 to move one division horizontally across the screen
 
@@ -34104,21 +34104,21 @@ waveform in Figure 48.
 
 target p.
 
-### wave occupies two horizontal divisions
+wave occupies two horizontal divisions
 
-## we can say
+we can say
 
 time for one complete wave = 2 divs × 10 ms/div
 
-## = 20 ms
+= 20 ms
 
-## 20 1 cooling anode
+20 1 cooling anode
 
-## = = s fins
+= = s fins
 
-## 1000 50 X-rays cathode
+1000 50 X-rays cathode
 
-## lead shield electrons
+lead shield electrons
 
 ∴ number of complete waves per second = 50
 
@@ -34126,11 +34126,11 @@ time for one complete wave = 2 divs × 10 ms/div
 
 applied to Y-input = 50 Hz Figure 48.
 
-## 12 X-ray tube
+12 X-ray tube
 
-## b) Properties and nature
+b) Properties and nature
 
-## ●●X-rays
+●●X-rays
 
 X-rays:
 
@@ -34140,13 +34140,13 @@ stopped by matter.
 
 (ii) are not deflected by electric or magnetic fields
 
-## (iii) ionise a gas
+(iii) ionise a gas
 
-## making it a conductor
+making it a conductor
 
 e.g. a
 
-## a) Production
+a) Production
 
 charged electroscope discharges when X-rays
 
@@ -34162,7 +34162,7 @@ indd 226 20/06/14 7:52 AM
 
 waves or particles?
 
-## (v) cause fl uorescence
+(v) cause fl uorescence
 
 ●●Waves or particles?
 
@@ -34190,7 +34190,7 @@ photon theory does.
 
 It would seem that electromagnetic radiation
 
-## ●●Photoelectric effect
+●●Photoelectric effect
 
 has a dual nature and has to be regarded as waves
 
@@ -34204,7 +34204,7 @@ electromagnetic radiation of small enough
 
 wavelength falls on them.
 
-## The effect is called
+# The effect is called
 
 photoelectric emission.
 
@@ -34212,7 +34212,7 @@ It happens, for example,
 
 when zinc is exposed to ultraviolet.
 
-## Questions
+# Questions
 
 The photoelectric effect only occurs for a given
 
@@ -34226,7 +34226,7 @@ We supply must plates A and B be connected to defl ect the
 
 cathode rays downwards?
 
-### can explain this by assuming that
+can explain this by assuming that
 
 b In Figure 48.
 
@@ -34234,19 +34234,19 @@ b In Figure 48.
 
 (i) all electromagnetic radiation is emitted be defl ected?
 
-### and absorbed as packets of energy
+and absorbed as packets of energy
 
-## called
+called
 
 photons, and
 
-## A cathode
+# A cathode
 
 (ii) the energy of a photon is directly proportional
 
 to its frequency.
 
-## B rays
+# B rays
 
 Ultraviolet (UV) photons would therefore have a b magnetic field
 
@@ -34254,7 +34254,7 @@ more energy than light photons since UV has a cathode rays into page
 
 higher frequency than light.
 
-## The behaviour of
+# The behaviour of
 
 Figure 48.
 
@@ -34262,17 +34262,17 @@ zinc (and most other substances) in not giving
 
 photoelectric emission with light but with UV 2 An electron
 
-## charge e and mass m
+charge e and mass m
 
-## is accelerated in a
+is accelerated in a
 
-## would therefore be explained
+would therefore be explained
 
 a photon of light has cathode ray tube by a p.
 
 of 1000 V.
 
-## Calculate
+# Calculate
 
 a the kinetic energy gained by the electron
 
@@ -34284,9 +34284,9 @@ zinc to emit an electron.
 
 (e = 1.
 
-## 6 × 10−19 C, m = 9.
+6 × 10−19 C, m = 9.
 
-## 1 × 10−31 kg)
+1 × 10−31 kg)
 
 The absorption of a photon by an atom results
 
@@ -34294,17 +34294,17 @@ in the electron gaining energy and the photon
 
 disappearing.
 
-### If the photon has more than the
+# If the photon has more than the
 
 minimum amount of energy required to enable an
 
-## electron to escape
+electron to escape
 
 the excess appears as k.
 
-## of the
+of the
 
-## Checklist
+# Checklist
 
 emitted electron.
 
@@ -34318,21 +34318,21 @@ energy of photon = energy needed for electron to escape
 
 + k.
 
-## of electron
+of electron
 
 defl ected by magnetic and electric fi elds.
 
 The photoelectric effect is the process by which
 
-### X-ray photons are absorbed by matter
+# X-ray photons are absorbed by matter
 
-## in effect
+in effect
 
 it causes ionisation (Chapter 49) since electrons
 
 are ejected and positive ions remain.
 
-## Photons not
+# Photons not
 
 absorbed by the metal pass through with unchanged
 
@@ -34342,65 +34342,65 @@ energy.
 
 indd 227 20/06/14 7:52 AM
 
-### This page intentionally left blank
+# This page intentionally left blank
 
-## Section Atomic physics
+# Section Atomic physics
 
-## Chapters
+# Chapters
 
-### 49 Radioactivity 50 Atomic structure
+49 Radioactivity 50 Atomic structure
 
 9781444176421_Section_05.
 
 indd 229 20/06/14 7:38 AM
 
-## Radioactivity
+# Radioactivity
 
 l Ionising effect of radiation l Radioactive decay
 
 l Geiger–Müller (GM) tube l Uses of radioactivity
 
-## l Alpha
+l Alpha
 
 beta and gamma radiation l Dangers and safety
 
-## l Particle tracks
+l Particle tracks
 
 The discovery of radioactivity in 1896 by the French electron
 
 scientist Becquerel was accidental.
 
-## He found that
+# He found that
 
 uranium compounds emitted radiation that
 
 affected a photographic plate even when it was neutral atom positive ion electron
 
-## or molecule
+or molecule
 
-## wrapped in black paper
+wrapped in black paper
 
 and (ii) ionised a gas.
 
-## Soon
+# Soon
 
 afterwards Marie Curie discovered the radioactive Figure 49.
 
-## 2 Ionisation
+2 Ionisation
 
 element radium.
 
-### We now know that radioactivity
+# We now know that radioactivity
 
 arises from unstable nuclei (Chapter 50) which
 
 may occur naturally or be produced in reactors.
 
-## l●Geiger–Müller (GM)
+l●Geiger–Müller (GM)
 
 Radioactive materials are widely used in industry
 
-## tube
+tube
 
 medicine and research.
 
@@ -34414,7 +34414,7 @@ When radiation enters a GM tube (Figure 49.
 
 rocks, the air and our bodies
 
-## and partly by cosmic
+and partly by cosmic
 
 either through a thin end-window made of mica
 
@@ -34424,25 +34424,25 @@ rays from outer space (see p.
 
 or, if the radiation is very penetrating
 
-## through
+through
 
-## the wall
+the wall
 
 it creates argon ions and electrons.
 
-## l●Ionising effect of
+l●Ionising effect of
 
 These are accelerated towards the electrodes and
 
 cause more ionisation by colliding with other argon
 
-## radiation
+radiation
 
 atoms.
 
 A charged electroscope discharges when a On reaching the electrodes
 
-## the ions produce
+the ions produce
 
 lighted match or a radium source (held in forceps) a current pulse which is amplified and fed either
 
@@ -34452,57 +34452,57 @@ is brought near the cap (Figures 49.
 
 to a scaler or a ratemeter.
 
-## A scaler counts the
+# A scaler counts the
 
 pulses and shows the total received in a certain
 
 lighted charged time.
 
-### A ratemeter gives the counts per second
+# A ratemeter gives the counts per second
 
-## match electroscope
+match electroscope
 
 (or minute), or count-rate, directly.
 
-## It usually
+# It usually
 
 has a loudspeaker which gives a ‘click’ for each
 
 pulse.
 
-## forceps
+forceps
 
-## radium source
+radium source
 
-## cathode (metal cylinder)
+cathode (metal cylinder)
 
-## a b
+a b
 
 Figure 49.
 
 In the first case the flame knocks electrons out of
 
-## 450 V
+450 V
 
 surrounding air molecules leaving them as positively
 
-## charged ions
+charged ions
 
 i.e. air molecules which have lost one mica
 
-## window
+window
 
 or more electrons (Figure 49.
 
 2); in the second case
 
-### radiation causes the same effect
+radiation causes the same effect
 
 called ionisation.
 
 The positive ions are attracted to the cap if it is
 
-## negatively charged
+negatively charged
 
 if it is positively charged the to scaler or
 
@@ -34510,7 +34510,7 @@ electrons are attracted.
 
 As a result in either case the argon gas at anode (wire) ratemeter
 
-## low pressure
+low pressure
 
 charge on the electroscope is neutralised
 
@@ -34520,7 +34520,7 @@ its charge.
 
 Figure 49.
 
-## 3 Geiger–Müller (GM) tube
+3 Geiger–Müller (GM) tube
 
 9781444176421_Section_05.
 
@@ -34528,15 +34528,15 @@ indd 230 20/06/14 7:38 AM
 
 Alpha, beta and gamma radiation
 
-## l●Alpha
+l●Alpha
 
 beta and ionising power is much less than that of α-particles.
 
 As well as being deflected by electric fields
 
-## they
+they
 
-## gamma radiation
+gamma radiation
 
 are more easily deflected by magnetic fields.
 
@@ -34544,19 +34544,19 @@ Measurements show that β−-particles are streams of
 
 Experiments to study the penetrating power
 
-## ionising
+ionising
 
-## high-energy electrons
+high-energy electrons
 
-## like cathode rays
+like cathode rays
 
-## emitted
+emitted
 
 ability and behaviour of radiation in magnetic and
 
 with a range of speeds up to that of light.
 
-## Strontium
+# Strontium
 
 electric fields show that a radioactive substance emits
 
@@ -34570,17 +34570,17 @@ The magnetic deflection of β−-particles can be
 
 shown as in Figure 49.
 
-## With the GM tube at A
+# With the GM tube at A
 
 Penetrating power can be investigated as in
 
-## and without the magnet
+and without the magnet
 
 the count-rate is noted.
 
 Figure 49.
 
-### 4 by observing the effect on the count-rate
+4 by observing the effect on the count-rate
 
 Inserting the magnet reduces the count-rate but
 
@@ -34594,63 +34594,63 @@ sideways to B.
 
 (i) a sheet of thick paper (the radium source
 
-## lead
+lead
 
 and tube must be close together for this part)
 
-## ratemeter
+ratemeter
 
-## strontium
+strontium
 
 (ii) a sheet of aluminium 2 mm thick,
 
-## source magnet
+source magnet
 
 (iii) a further sheet of lead 2 cm thick.
 
-### Radium (Ra-226) emits α-particles
+Radium (Ra-226) emits α-particles
 
-## β-particles and N
+β-particles and N
 
 γ-rays.
 
-## Other sources can be tried
+# Other sources can be tried
 
-## such as americium
+such as americium
 
 strontium and cobalt.
 
-## S GM
+# S GM
 
-## B tube
+# B tube
 
-## 4 mm plug ratemeter lead
+4 mm plug ratemeter lead
 
-## plates
+plates
 
 Figure 49.
 
 5 Demonstrating magnetic deflection of β−-particles
 
-## radium
+radium
 
-## source GM tube
+source GM tube
 
-## c) Gamma rays
+c) Gamma rays
 
 These are the most penetrating and are stopped
 
 only by many centimetres of lead.
 
-## They ionise
+# They ionise
 
-### lead sheet with 1 mm hole to prevent
+lead sheet with 1 mm hole to prevent
 
 a gas even less than β-particles and are not
 
 overloading of GM tube deflected by electric and magnetic fields.
 
-## They
+# They
 
 give interference and diffraction effects and are
 
@@ -34662,13 +34662,13 @@ electromagnetic radiation travelling at the speed
 
 of light.
 
-### Their wavelengths are those of very
+# Their wavelengths are those of very
 
-## a) Alpha particles
+a) Alpha particles
 
-## short X-rays
+short X-rays
 
-### from which they differ only because
+from which they differ only because
 
 These are stopped by a thick sheet of paper and have they arise in atomic nuclei whereas X-rays come
 
@@ -34684,7 +34684,7 @@ electric and strong magnetic fields in a direction and can be covered with alumi
 
 by an amount which suggests they are helium atoms
 
-## minus two electrons
+minus two electrons
 
 i.e. helium ions with a double
 
@@ -34694,33 +34694,33 @@ positive charge.
 
 From a particular substance, they are
 
-## radiation
+radiation
 
 all emitted with the same speed (about 1/20th of
 
 that of light).
 
-## In a collision
+# In a collision
 
-## α-particles
+α-particles
 
-## with their relatively large
+with their relatively large
 
 Americium (Am-241) is a pure α source.
 
-## mass and charge
+mass and charge
 
-### have more of a chance of knocking
+have more of a chance of knocking
 
 an electron from an atom and causing ionisation
 
-## b) Beta particles
+b) Beta particles
 
-## than the lighter β-particles
+than the lighter β-particles
 
-## γ-rays
+γ-rays
 
-## which have
+which have
 
 These are stopped by a few millimetres of aluminium no charge
 
@@ -34734,13 +34734,13 @@ Their produce ionisation.
 
 indd 231 20/06/14 7:38 AM
 
-## 49 RAdioActivity
+49 RAdioActivity
 
-## l●Particle tracks
+l●Particle tracks
 
 A GM tube detects β-particles and γ-rays and
 
-## energetic α-particles
+energetic α-particles
 
 a charged electroscope detects The paths of particles of radiation were first shown
 
@@ -34756,7 +34756,7 @@ When air containing a vapour,
 
 The behaviour of the three kinds of radiation in a alcohol
 
-## is cooled enough
+is cooled enough
 
 saturation occurs.
 
@@ -34764,93 +34764,93 @@ magnetic field is summarised in Figure 49.
 
 The ionising radiation passes through the air
 
-## further
+further
 
 deflections (not to scale) are found from Fleming’s left- cooling causes the saturated vapour to condense
 
-## hand rule
+hand rule
 
 taking negative charge moving to the right as on the ions created.
 
-### The resulting white line of tiny
+# The resulting white line of tiny
 
 equivalent to positive (conventional) current to the left.
 
 liquid drops shows up as a track when illuminated.
 
-## In a diffusion cloud chamber
+# In a diffusion cloud chamber
 
-## α-particles
+α-particles
 
-## showed straight
+showed straight
 
 thick tracks (Figure 49.
 
 7a).
 
-## Very
+# Very
 
-### alpha fast β-particles produced thin
+alpha fast β-particles produced thin
 
-## straight tracks while
+straight tracks while
 
-## slower ones gave short
+slower ones gave short
 
-## twisted
+twisted
 
-## thicker tracks
+thicker tracks
 
 beta magnetic (Figure 49.
 
 7b).
 
-### Gamma-rays eject electrons from
+# Gamma-rays eject electrons from
 
-## field into
+field into
 
-## page air molecules
+page air molecules
 
-### the ejected electrons behaved like
+the ejected electrons behaved like
 
 β−-particles in the cloud chamber and produced
 
 their own tracks spreading out from the γ-rays.
 
-## gamma
+gamma
 
 Figure 49.
 
-## 6a Deflection of α-
+6a Deflection of α-
 
-### β- and γ-radiation in a magnetic field
+β- and γ-radiation in a magnetic field
 
-## metal plate
+metal plate
 
-## + + + +
++ + + +
 
-## gamma γ
+gamma γ
 
-## alpha
+alpha
 
-## β−
+β−
 
-## a α-particles
+a α-particles
 
-## α++
+α++
 
-## beta
+beta
 
-## – – – –
+– – – –
 
-## metal plate –
+metal plate –
 
 Figure 49.
 
-## 6b Deflection of α-
+6b Deflection of α-
 
-### β- and γ-radiation in a uniform
+β- and γ-radiation in a uniform
 
-## electric field
+electric field
 
 Figure 49.
 
@@ -34860,29 +34860,29 @@ Figure 49.
 
 α-particles are attracted towards the negatively
 
-## charged metal plate
+charged metal plate
 
-## β−-particles are attracted
+β−-particles are attracted
 
 towards the positively charged plate and γ-rays pass
 
-## b Fast and slow β-particles
+b Fast and slow β-particles
 
 through undeflected.
 
 Figure 49.
 
-## 7 Tracks in a cloud chamber
+7 Tracks in a cloud chamber
 
 9781444176421_Section_05.
 
 indd 232 20/06/14 7:39 AM
 
-## Radioactive decay
+# Radioactive decay
 
-## The bubble chamber
+# The bubble chamber
 
-### in which the radiation Half-life
+in which the radiation Half-life
 
 leaves a trail of bubbles in liquid hydrogen
 
@@ -34896,9 +34896,9 @@ The higher density of atoms in the liquid gives
 
 rate, expressed by its half-life.
 
-## This is the average
+# This is the average
 
-## better defined tracks
+better defined tracks
 
 as shown in Figure 49.
 
@@ -34908,13 +34908,13 @@ time for half the atoms in a given sample to decay.
 
 obtained in a cloud chamber.
 
-## A magnetic field is
+# A magnetic field is
 
 It is difficult to know when a substance has lost all its
 
 usually applied across the bubble chamber which
 
-## radioactivity
+radioactivity
 
 but the time for its activity to fall to half
 
@@ -34926,7 +34926,7 @@ sign of the charge can be deduced from the way the
 
 path curves.
 
-## Decay curve
+# Decay curve
 
 The average number of disintegrations (i.e.
 
@@ -34938,23 +34938,23 @@ If it is measured at different times (e.g.
 
 by finding the count-rate using a GM tube and
 
-## ratemeter)
+ratemeter)
 
-### a decay curve of activity against time
+a decay curve of activity against time
 
 can be plotted.
 
-### The ideal curve for one element
+# The ideal curve for one element
 
 (Figure 49.
 
-### 9) shows that the activity decreases by
+9) shows that the activity decreases by
 
 the same fraction in successive equal time intervals.
 
 It falls from 80 to 40 disintegrations per second in
 
-### 10 minutes, from 40 to 20 in the next 10 minutes,
+10 minutes, from 40 to 20 in the next 10 minutes,
 
 from 20 to 10 in the third 10 minutes and so on.
 
@@ -34966,21 +34966,21 @@ millions of years.
 
 For radium it is 1600 years.
 
-## 0 10 20 30 time/min
+0 10 20 30 time/min
 
 Figure 49.
 
-### 8 Charged particle track in a bubble chamber
+8 Charged particle track in a bubble chamber
 
-## l●Radioactive decay
+l●Radioactive decay
 
 Radioactive atoms have unstable nuclei and
 
-## when
+when
 
-### they emit α-particles or β-particles
+they emit α-particles or β-particles
 
-## they decay into
+they decay into
 
 atoms of different elements that have more stable
 
@@ -34988,7 +34988,7 @@ nuclei.
 
 These changes are spontaneous and cannot
 
-## be controlled
+be controlled
 
 also, it does not matter whether
 
@@ -34996,25 +34996,25 @@ the material is pure or combined chemically with
 
 something else.
 
-## )s/snoitargetnisid(
+)s/snoitargetnisid(
 
-## ytivitca
+ytivitca
 
-## half-lives
+half-lives
 
 Figure 49.
 
-## 9 Decay curve
+9 Decay curve
 
-### Experiment to find the half-life
+# Experiment to find the half-life
 
-## of thoron
+of thoron
 
 The half-life of the α-emitting gas thoron can be
 
 found as shown in Figure 49.
 
-## The thoron bottle
+# The thoron bottle
 
 is squeezed three or four times to transfer some
 
@@ -35022,11 +35022,11 @@ thoron to the flask (Figure 49.
 
 10a).
 
-## The clips are
+# The clips are
 
-## then closed
+then closed
 
-### the bottle removed and the stopper
+the bottle removed and the stopper
 
 replaced by a GM tube so that it seals the top
 
@@ -35038,19 +35038,19 @@ replaced by a GM tube so that it seals the top
 
 indd 233 20/06/14 7:39 AM
 
-## 49 RAdioActivity
+49 RAdioActivity
 
 When the ratemeter reading has reached its loudspeaker of the ratemeter ‘clicks’ erratically
 
-## maximum and started to fall
+maximum and started to fall
 
 the count-rate is noted at a steady rate.
 
-### This is because radioactive decay
+# This is because radioactive decay
 
 every 15 s for 2 minutes and then every 60 s for the is a random process
 
-### in that it is a matter of pure
+in that it is a matter of pure
 
 next few minutes.
 
@@ -35060,13 +35060,13 @@ for at least 1 hour until the radioactivity has decayed.
 
 ) during a certain period of time.
 
-## All we can say is that
+# All we can say is that
 
 A measure of the background radiation is obtained about half the atoms in a sample will decay during
 
 by recording the counts for a period (say 10 minutes) the half-life.
 
-### We cannot say which atoms these will
+# We cannot say which atoms these will
 
 at a position well away from the thoron equipment.
 
@@ -35078,25 +35078,25 @@ are then corrected by subtracting the average and time.
 
 background count-rate from each reading.
 
-## A graph of
+# A graph of
 
 the corrected count-rate against time is plotted and
 
-## l●Uses of radioactivity
+l●Uses of radioactivity
 
 the half-life (52 s) estimated from it.
 
-## Radioactive substances
+# Radioactive substances
 
-## called radioisotopes
+called radioisotopes
 
-## are now
+are now
 
 made in nuclear reactors and have many uses.
 
-## stopper a) Thickness gauge
+stopper a) Thickness gauge
 
-## screw clip
+screw clip
 
 If a radioisotope is placed on one side of a moving
 
@@ -35106,9 +35106,9 @@ the count-rate decreases if the thickness increases.
 
 This technique is used to control automatically the
 
-## thickness of paper
+thickness of paper
 
-### plastic and metal sheets during
+plastic and metal sheets during
 
 manufacture (Figure 49.
 
@@ -35120,7 +35120,7 @@ Because of their range,
 
 thickness of thin sheets but γ-emitters would be
 
-## filter flask
+filter flask
 
 needed for thicker materials.
 
@@ -35130,13 +35130,13 @@ a way; the count-rate will increase where a flaw is
 
 present.
 
-## ratemeter
+ratemeter
 
-## clip closed
+clip closed
 
-## GM tube
+# GM tube
 
-## (thin end-window)
+(thin end-window)
 
 Figure 49.
 
@@ -35144,7 +35144,7 @@ Random nature of decay Figure 49.
 
 11 Quality control in the manufacture of paper using a
 
-## radioactive gauge
+radioactive gauge
 
 During the previous experiment it becomes
 
@@ -35154,9 +35154,9 @@ evident that the count-rate varies irregularly
 
 indd 234 20/06/14 7:39 AM
 
-## dangers and safety
+dangers and safety
 
-## b) Tracers
+b) Tracers
 
 The progress of a small amount of a weak
 
@@ -35164,49 +35164,49 @@ radioisotope injected into a system can be ‘traced’
 
 by a GM tube or other detector.
 
-## The method is used
+# The method is used
 
 in medicine to detect brain tumours and internal
 
-## bleeding
+bleeding
 
-### in agriculture to study the uptake of
+in agriculture to study the uptake of
 
-## fertilisers by plants
+fertilisers by plants
 
-### and in industry to measure fluid
+and in industry to measure fluid
 
 flow in pipes.
 
 A tracer should be chosen whose half-life matches
 
-### the time needed for the experiment
+the time needed for the experiment
 
-## the activity
+the activity
 
 of the source is then low after it has been used
 
 and so will not pose an ongoing radiation threat.
 
-## For medical purposes
+# For medical purposes
 
-## where short exposures are
+where short exposures are
 
-## preferable
+preferable
 
-### the time needed to transfer the source
+the time needed to transfer the source
 
 from the production site to the patient also needs to
 
 be considered.
 
-## c) Radiotherapy
+c) Radiotherapy
 
 Gamma rays from strong cobalt radioisotopes are
 
 used in the treatment of cancer.
 
-## d) Sterilisation
+d) Sterilisation
 
 Gamma rays are used to sterilise medical
 
@@ -35216,17 +35216,17 @@ Figure 49.
 
 instruments by killing bacteria.
 
-## They are also
+# They are also
 
 estimated by radiocarbon techniques to be AD 800.
 
-### used to ‘irradiate’ certain foods
+used to ‘irradiate’ certain foods
 
-## again killing
+again killing
 
 bacteria to preserve the food for longer.
 
-## They are
+# They are
 
 safe to use as no radioactive material goes into l●Dangers and safety
 
@@ -35234,7 +35234,7 @@ the food.
 
 We are continually exposed to radiation from a range
 
-## e) Archaeology of sources
+e) Archaeology of sources
 
 both natural (‘background’) and artificial
 
@@ -35242,7 +35242,7 @@ as indicated in Figure 49.
 
 A radioisotope of carbon present in the air
 
-## carbon-14
+carbon-14
 
 is taken in by living plants and trees (i) Cosmic rays (high-energy particles from outer
 
@@ -35254,15 +35254,15 @@ tree dies no fresh carbon is taken in.
 
 So as the and produce radioactivity in the air we breathe
 
-## carbon-14 continues to decay
+carbon-14 continues to decay
 
 with a half-life of but some reach the Earth’s surface.
 
-## 5700 years
+5700 years
 
 the amount of carbon-14 compared (ii) Numerous homes
 
-## particularly in Scotland
+particularly in Scotland
 
 with the amount of carbon-12 becomes smaller.
 
@@ -35270,19 +35270,19 @@ built from granite rocks that emit radioactive
 
 By measuring the residual radioactivity of radon gas
 
-### this can collect in basements or well-
+this can collect in basements or well-
 
-### carbon-containing material such as wood
+carbon-containing material such as wood
 
 linen insulated rooms if the ventilation is poor.
 
-## or charcoal
+or charcoal
 
 the age of archaeological remains (iii) Radioactive potassium-40 is present in food and
 
 can be estimated within the range 1000 to is absorbed by our bodies.
 
-## 50 000 years (Figure 49.
+50 000 years (Figure 49.
 
 12).
 
@@ -35300,11 +35300,11 @@ similar way by measuring the ratio of the number nuclear power stations and in f
 
 of atoms of a radioactive element to those of its testing of nuclear bombs
 
-## the latter produce
+the latter produce
 
 decay product in a sample.
 
-## See Worked example 3
+# See Worked example 3
 
 strontium isotopes with long half-lives which are
 
@@ -35318,39 +35318,39 @@ absorbed by bone.
 
 indd 235 20/06/14 7:40 AM
 
-## 49 RAdioActivity
+49 RAdioActivity
 
 radioactivity in the air radiation dose badges that keep a check on the
 
 amount of radiation they have been exposed to over
 
-## cosmic rays
+cosmic rays
 
 a period (usually one month).
 
-## The badge contains
+# The badge contains
 
-## rocks
+rocks
 
 several windows which allow different types of
 
 food radiation to fall onto a photographic film
 
-## when the
+when the
 
 medical film is developed it is darkest where the exposure to
 
 radiation was greatest.
 
-## nuclear power stations
+nuclear power stations
 
-## nuclear bombs
+nuclear bombs
 
-## l●Worked examples
+l●Worked examples
 
 Figure 49.
 
-## 13 Radiation sources
+13 Radiation sources
 
 1 A radioactive source has a half-life of 20 minutes.
 
@@ -35362,45 +35362,45 @@ but large doses can be dangerous to our health.
 
 ionising effect produced by radiation causes damage After 20 minutes
 
-## fraction left = 1/2
+fraction left = 1/2
 
 to cells and tissues in our bodies and can also lead to After 40 minutes
 
-### fraction left = 1/2 × 1/2 = 1/4
+fraction left = 1/2 × 1/2 = 1/4
 
 the mutation of genes.
 
 The danger from α-particles After 60 minutes
 
-### fraction left = 1/2 × 1/4 = 1/8
+fraction left = 1/2 × 1/4 = 1/8
 
-## is small
+is small
 
-### unless the source enters the body
+unless the source enters the body
 
-## but β- and
+but β- and
 
-### 2 Carbon-14 has a half-life of 5700 years. A
+2 Carbon-14 has a half-life of 5700 years. A
 
 γ-radiation can cause radiation burns (i.e. redness
 
-### 10 g sample of wood cut recently from a living
+10 g sample of wood cut recently from a living
 
 and sores on the skin) and delayed effects such as
 
 tree has an activity of 160 counts/minute.
 
-## A piece
+# A piece
 
 eye cataracts and cancer.
 
-## Large exposures may lead
+# Large exposures may lead
 
 of charcoal taken from a prehistoric campsite
 
 to radiation sickness and death.
 
-## The symbol used to
+# The symbol used to
 
 also weighs 10 g but has an activity of 40 counts/
 
@@ -35414,15 +35414,15 @@ in Figure 49.
 
 After 1 × 5700 years the activity will be 160/2 = 80
 
-## counts per minute
+counts per minute
 
 After 2 × 5700 years the activity will be 80/2 = 40
 
-## counts per minute
+counts per minute
 
 The age of the charcoal is 2 × 5700 = 11 400 years
 
-### 3 The ratio of the number of atoms of argon-40
+3 The ratio of the number of atoms of argon-40
 
 Figure 49.
 
@@ -35430,7 +35430,7 @@ Figure 49.
 
 is analysed to be 1 : 3.
 
-## Assuming that there was
+# Assuming that there was
 
 The increasing use of radioisotopes in medicine no potassium in the rock originally and that
 
@@ -35440,15 +35440,15 @@ disposing of radioactive waste safely.
 
 One method half-life of 1500 million years
 
-## estimate the
+estimate the
 
 is to enclose the waste in steel containers which are age of the rock.
 
-### then buried in concrete bunkers
+then buried in concrete bunkers
 
 possible leakage is Assume there were N atoms of argon-40 in the rock
 
-## a cause of public concern
+a cause of public concern
 
 as water supplies could be when it was formed.
 
@@ -35462,17 +35462,17 @@ atoms of argon left and N − (N/2) = N/2 atoms of
 
 The weak sources used at school should always be
 
-## potassium formed
+potassium formed
 
-## giving an Ar
+giving an Ar
 
-## K ratio of 1
+# K ratio of 1
 
 ● lifted with forceps,
 
-### After 2 × 1500 = 3000 million years
+After 2 × 1500 = 3000 million years
 
-## there
+there
 
 ● held away from the eyes, and
 
@@ -35480,17 +35480,17 @@ would be (N/2)/2 = N/4 argon atoms left and
 
 ● kept in their boxes when not in use.
 
-### N − (N/4) = 3N/4 potassium atoms formed
+N − (N/4) = 3N/4 potassium atoms formed
 
-## giving
+giving
 
-## In industry
+# In industry
 
-### sources are handled by long tongs an Ar
+sources are handled by long tongs an Ar
 
-## K ratio of 1
+# K ratio of 1
 
-## 3 as measured.
+3 as measured.
 
 and transported in thick lead containers.
 
@@ -35498,15 +35498,15 @@ Workers The rock must be about 3000 million years old.
 
 are protected by lead and concrete walls
 
-## and wear
+and wear
 
 9781444176421_Section_05.
 
 indd 236 20/06/14 7:40 AM
 
-## Worked examples
+# Worked examples
 
-## Questions
+# Questions
 
 1 Which type of radiation from radioactive materials
 
@@ -35528,27 +35528,27 @@ h is not defl ected by an electric fi eld?
 
 2 In an experiment to fi nd the half-life of radioactive
 
-## iodine
+iodine
 
 the count-rate falls from 200 counts per second to
 
-### 25 counts per second in 75 minutes.
+25 counts per second in 75 minutes.
 
 What is its half-life?
 
 3 If the half-life of a radioactive gas is 2 minutes
 
-## then after
+then after
 
 8 minutes the activity will have fallen to a fraction of its
 
 initial value.
 
-## This fraction is
+# This fraction is
 
-### A 1/4 B 1/6 C 1/8 D 1/16 E 1/32
+A 1/4 B 1/6 C 1/8 D 1/16 E 1/32
 
-## Checklist
+# Checklist
 
 After studying this chapter you should be able to
 
@@ -35560,23 +35560,23 @@ can be detected by its ionising effect,
 
 and a diffusion cloud chamber,
 
-## • recall the nature of α-
+• recall the nature of α-
 
-## β- and γ-radiation
+β- and γ-radiation
 
 • describe experiments to compare the range and penetrating
 
-## power of α-
+power of α-
 
 β- and γ-radiation in different materials
 
-### • recall the ionising abilities of α-
+• recall the ionising abilities of α-
 
-## β- and γ-radiation and
+β- and γ-radiation and
 
 relate them to their ranges,
 
-## • predict how α-
+• predict how α-
 
 β- and γ-radiation will be defl ected in
 
@@ -35596,11 +35596,11 @@ constant half-life,
 
 • recall that radioactivity is (a) a random process
 
-## (b) due to
+(b) due to
 
-## nuclear instability
+nuclear instability
 
-### (c) independent of external conditions
+(c) independent of external conditions
 
 • recall some uses of radioactivity,
 
@@ -35614,21 +35614,21 @@ necessary.
 
 indd 237 20/06/14 7:40 AM
 
-## Atomic structure
+# Atomic structure
 
-### l Nuclear atom l Nuclear stability
+l Nuclear atom l Nuclear stability
 
 l Protons and neutrons l Models of the atom
 
 l Isotopes and nuclides l Nuclear energy
 
-## l Radioactive decay
+l Radioactive decay
 
 The discoveries of the electron and of radioactivity They found that most of the α-particles were
 
 seemed to indicate that atoms contained negatively undeflected
 
-### some were scattered by appreciable
+some were scattered by appreciable
 
 and positively charged particles and were not angles and a few (about 1 in 8000) surprisingly
 
@@ -35636,7 +35636,7 @@ indivisible as was previously thought.
 
 The questions ‘bounced’ back.
 
-## To explain these results
+# To explain these results
 
 then were ‘How are the particles arranged inside an Rutherford proposed in 1911 a ‘nuclear’ model
 
@@ -35648,17 +35648,17 @@ element?
 
 ’ most of the mass of an atom formed a dense core
 
-## An early theory
+# An early theory
 
-### called the ‘plum-pudding’ model
+called the ‘plum-pudding’ model
 
-## or nucleus
+or nucleus
 
-### of very small size compared with the
+of very small size compared with the
 
 regarded the atom as a positively charged sphere whole atom.
 
-### The electrons surrounded the nucleus
+# The electrons surrounded the nucleus
 
 in which the negative electrons were distributed all some distance away.
 
@@ -35666,9 +35666,9 @@ over it (like currants in a pudding) and in sufficient He derived a formula for 
 
 numbers to make the atom electrically neutral.
 
-### α-particles deflected at various angles
+α-particles deflected at various angles
 
-## assuming
+assuming
 
 Doubts arose about this model.
 
@@ -35680,11 +35680,11 @@ l●Nuclear atom charge on the nucleus of a gold atom obeyed
 
 an inverse-square law (i.e. the force increases
 
-### While investigating radioactivity
+# While investigating radioactivity
 
 the physicist four times if the separation is halved).
 
-## Geiger
+# Geiger
 
 Rutherford noticed that not only could α-particles and Marsden’s experimental results completely
 
@@ -35696,13 +35696,13 @@ from their initial direction.
 
 With the help of Geiger In fact the nucleus and electrons occupy about
 
-## (of GM tube fame) and Marsden
+(of GM tube fame) and Marsden
 
 Rutherford one million millionth of the volume of an atom.
 
 investigated this in detail at Manchester University Putting it another way
 
-## the nucleus is like a sugar
+the nucleus is like a sugar
 
 using the arrangement in Figure 50.
 
@@ -35712,7 +35712,7 @@ The fate of the lump in a very large hall and the electrons a
 
 the scintillations (flashes of light) they produced on Figure 50.
 
-### 2 shows the paths of three α-particles.
+2 shows the paths of three α-particles.
 
 a glass screen coated with zinc sulfide and fixed to a Particle 1 is clear of all nuclei and passes straight
 
@@ -35722,57 +35722,57 @@ through the gold atoms.
 
 Particle 2 is deflected slightly.
 
-## vacuum
+vacuum
 
 Particle 3 approaches a gold nucleus so closely that it
 
 is violently repelled by it and ‘rebounds’
 
-## appearing
+appearing
 
 to have had a head-on ‘collision’.
 
-## -particles gold foil
+-particles gold foil
 
-## atom of
+atom of
 
-## nucleus of
+nucleus of
 
-## radium in gold foil gold atom
+radium in gold foil gold atom
 
-## lead box
+lead box
 
-## zinc
+zinc
 
-## sulfide
+sulfide
 
-## screen 3
+screen 3
 
-## -particle
+-particle
 
-## rotatable
+rotatable
 
-## microscope
-
-Figure 50.
-
-### 2 Electrostatic scattering of α-particles
+microscope
 
 Figure 50.
 
-### 1 Geiger and Marsden’s scattering experiment
+2 Electrostatic scattering of α-particles
+
+Figure 50.
+
+1 Geiger and Marsden’s scattering experiment
 
 9781444176421_Section_05.
 
 indd 238 20/06/14 7:40 AM
 
-## Radioactive decay
+# Radioactive decay
 
-### l●Protons and neutrons In general
+l●Protons and neutrons In general
 
-## A = Z + N
+A = Z + N
 
-## where N is the neutron
+where N is the neutron
 
 number of the element.
 
@@ -35782,21 +35782,21 @@ in Atomic nuclei are represented by symbols.
 
 some of which α and other high-speed particles were Hydrogen is written as 1H
 
-## helium as 4He and lithium
+helium as 4He and lithium
 
-## 1 2
+1 2
 
-## used as ‘atomic probes’
+used as ‘atomic probes’
 
 that atoms contain three a 7Li.
 
-### In general atom X is written as AX
+# In general atom X is written as AX
 
-## where A is
+where A is
 
-## 3 Z
+3 Z
 
-## basic particles – protons
+basic particles – protons
 
 neutrons and electrons.
 
@@ -35806,7 +35806,7 @@ A proton is a hydrogen atom minus an electron
 
 i.e. a positive hydrogen ion.
 
-## Its charge is equal in
+# Its charge is equal in
 
 size but opposite in sign to that of an electron but its The mass or nucleon number A of an atom is the number of
 
@@ -35822,7 +35822,7 @@ Protons and neutrons are in the nucleus and are l●Isotopes and nuclides
 
 called nucleons.
 
-### Together they account for the mass
+# Together they account for the mass
 
 of the nucleus (and most of that of the atom)
 
@@ -35836,9 +35836,9 @@ are summarised in Table 50.
 
 neutrons.
 
-## That is
+# That is
 
-### their proton numbers are the same
+their proton numbers are the same
 
 but not their nucleon numbers.
 
@@ -35848,7 +35848,7 @@ Table 50.
 
 they have the same number of electrons and occupy
 
-### Particle Relative mass Charge Location
+# Particle Relative mass Charge Location
 
 the same place in the Periodic Table.
 
@@ -35856,25 +35856,25 @@ the same place in the Periodic Table.
 
 proton 1836 +e in nucleus means same and topos means place.
 
-### Few elements consist of identical atoms
+# Few elements consist of identical atoms
 
-## most are
+most are
 
-## neutron 1839 +0 in nucleus
+neutron 1839 +0 in nucleus
 
 mixtures of isotopes.
 
 Chlorine has two isotopes; one
 
-## electron 1 –e outside nucleus
+electron 1 –e outside nucleus
 
 has 17 protons and 18 neutrons (i.e. Z = 17
 
-## A = 35)
+A = 35)
 
-## and is written 35Cl
+and is written 35Cl
 
-### the other has 17 protons and 20
+the other has 17 protons and 20
 
 In a neutral atom the number of protons equals the neutrons (i.e. Z = 17
 
@@ -35884,23 +35884,23 @@ number of electrons surrounding the nucleus.
 
 Table They are present in ordinary chlorine in the ratio of
 
-### 2 shows the particles in some atoms.
+2 shows the particles in some atoms.
 
 Hydrogen is three atoms of 35Cl to one atom of 37Cl
 
-## giving
+giving
 
-## 17 17
+17 17
 
 simplest with one proton and one electron.
 
 Next is chlorine an average atomic mass of 35.
 
-### the inert gas helium with two protons
+the inert gas helium with two protons
 
 two neutrons Hydrogen has three isotopes
 
-## 1H with one proton
+1H with one proton
 
 and two electrons.
 
@@ -35912,41 +35912,41 @@ and tritium 3T with one proton and two neutrons.
 
 Ordinary hydrogen consists 99.
 
-## 99 per cent of 1H
+99 per cent of 1H
 
 Table 50.
 
-## 2 atoms.
+2 atoms.
 
 Water made from deuterium is called ‘heavy
 
 water’ (D O); it has a density of 1.
 
-## 108 g/cm3, it
+108 g/cm3, it
 
-### Hydrogen Helium Lithium Oxygen Copper
+# Hydrogen Helium Lithium Oxygen Copper
 
 freezes at 3.
 
-## 8 ºC and boils at 101.
+8 ºC and boils at 101.
 
-## 4 ºC.
+4 ºC.
 
-## protons 1 2 3 8 29
+protons 1 2 3 8 29
 
 Each form of an element is called a nuclide.
 
 Nuclides with the same Z number but different
 
-## neutrons 0 2 4 8 34
+neutrons 0 2 4 8 34
 
 A numbers are isotopes.
 
-## Radioactive isotopes are
+# Radioactive isotopes are
 
 electrons 1 2 3 8 29 termed radioisotopes or radionuclides
 
-## their nuclei
+their nuclei
 
 are unstable.
 
@@ -35962,11 +35962,11 @@ in the atom.
 
 The electrons determine the chemical they emit α- or β-particles.
 
-## The decay is spontaneous
+# The decay is spontaneous
 
 properties of an atom and when the elements are and cannot be controlled
 
-## also it does not matter
+also it does not matter
 
 arranged in order of atomic number in the Periodic whether the material is pure or combined chemically
 
@@ -35978,55 +35978,55 @@ with something else.
 
 indd 239 20/06/14 7:41 AM
 
-## 50 Atomic stRuctuRe
+50 Atomic stRuctuRe
 
-## a) Alpha decay
+a) Alpha decay
 
-## l●Nuclear stability
+l●Nuclear stability
 
-### An α-particle is a helium nucleus
+An α-particle is a helium nucleus
 
-## having two protons
+having two protons
 
-## and two neutrons
+and two neutrons
 
 and when an atom decays by emission The stability of a nucleus depends on both
 
-## of an α-particle
+of an α-particle
 
 its nucleon number decreases by four the number of protons (Z) and the number of
 
 and its proton number by two.
 
-## For example
+# For example
 
 when neutrons (N) it contains.
 
 Figure 50.
 
-## 3 is a plot of
+3 is a plot of
 
 radium of nucleon number 226 and proton number N against Z for all known nuclides.
 
-## The blue band
+# The blue band
 
-## 88 emits an α-particle
+88 emits an α-particle
 
 it decays to radon of nucleon indicates the region over which stable nuclides
 
 number 222 and proton number 86.
 
-## We can write
+# We can write
 
 occur; unstable nuclides occur outside this band.
 
-## The continuous line
+# The continuous line
 
-## drawn through the centre of
+drawn through the centre of
 
-## 226Ra → 222Rn + 4He
+226Ra → 222Rn + 4He
 
-### 88 86 2 the band, is called the stability line.
+88 86 2 the band, is called the stability line.
 
 It is found that for stable nuclides:
 
@@ -36038,11 +36038,11 @@ the equation since nucleons and charge are conserved.
 
 (ii) N > Z for the heaviest,
 
-## b) Beta decay
+b) Beta decay
 
-### (iii) most nuclides have even N and Z
+(iii) most nuclides have even N and Z
 
-## implying
+implying
 
 In β− decay a neutron changes to a proton and an that the α-particle combination of two
 
@@ -36054,43 +36054,43 @@ electron is emitted as a β−-particle.
 
 The new nucleus particularly stable.
 
-## has the same nucleon number
+has the same nucleon number
 
-## but its proton number
+but its proton number
 
 For unstable nuclides:
 
 increases by one since it has one more proton.
 
-## Radioactive carbon
+# Radioactive carbon
 
-## called carbon-14
+called carbon-14
 
 decays by (i) disintegration tends to produce new nuclides
 
-## β− emission to nitrogen
+β− emission to nitrogen
 
 nearer the stability line and continues until a
 
 stable nuclide is formed,
 
-## 14C → 14N + 0e
+14C → 14N + 0e
 
 6 7 −1 (ii) a nuclide above the stability line decays
 
-### by β− emission (a neutron changes to a
+by β− emission (a neutron changes to a
 
-### A particle called an antineutrino (ν)
+A particle called an antineutrino (ν)
 
-## with no charge
+with no charge
 
 proton and electron) so that the N/Z ratio
 
-## and negligible mass
+and negligible mass
 
 is also emitted in β− decay.
 
-## Note
+# Note
 
 decreases,
 
@@ -36098,7 +36098,7 @@ that a β− decay is often referred to as just a β decay.
 
 (iii) a nuclide below the stability line decays
 
-### by β+ emission (a proton changes to a
+by β+ emission (a proton changes to a
 
 neutron and positron) so that the N/Z ratio
 
@@ -36108,13 +36108,13 @@ increases,
 
 an α-particle when they decay.
 
-## )N(
+)N(
 
-## snortuen
+snortuen
 
-## fo
+fo
 
-## rebmun
+rebmun
 
 Positrons are subatomic particles with the same
 
@@ -36130,57 +36130,57 @@ photographs.
 
 The symbol for a positron is 0e.
 
-## +1
++1
 
 β+- decay a proton in a nucleus is converted to a
 
-## neutron and a positron
+neutron and a positron
 
-## for example in the reaction
+for example in the reaction
 
-## 64Cu → 64N + 0e
+64Cu → 64N + 0e
 
-## 29 28 +1
+29 28 +1
 
 A neutrino (ν) is also emitted in β+ decay.
 
-## Neutrinos stability line
+# Neutrinos stability line
 
 are emitted from the Sun in large numbers
 
-## but 100
+but 100
 
 they rarely interact with matter so are very difficult
 
 to detect.
 
-### Antineutrinos and positrons are the 80
+# Antineutrinos and positrons are the 80
 
 ‘antiparticles’ of neutrinos and electrons
 
 respectively.
 
-## 60 NZ
+60 NZ
 
 If a particle and its antiparticle collide
 
-## they annihilate
+they annihilate
 
-## each other
+each other
 
 producing energy in the form of γ-rays.
 
-## c) Gamma emission
+c) Gamma emission
 
-## After emitting an α-particle
+After emitting an α-particle
 
-## or β−- or β+-particles
+or β−- or β+-particles
 
 some nuclei are left in an ‘excited’ state.
 
-## Rearrangement
+# Rearrangement
 
-## 20 40 60 80 100
+20 40 60 80 100
 
 of the protons and neutrons occurs and a burst of number of protons (Z)
 
@@ -36188,23 +36188,23 @@ of the protons and neutrons occurs and a burst of number of protons (Z)
 
 Figure 50.
 
-## 3 Stability of nuclei
+3 Stability of nuclei
 
 9781444176421_Section_05.
 
 indd 240 20/06/14 7:41 AM
 
-## models of the atom
+models of the atom
 
-### l●Models of the atom Schrödinger model
+l●Models of the atom Schrödinger model
 
 Although it remains useful for some purposes
 
 Rutherford–Bohr model Rutherford–Bohr model was replaced by a mathematical
 
-### model developed by Erwin Schrödinger
+model developed by Erwin Schrödinger
 
-## which is
+which is
 
 Shortly after Rutherford proposed his nuclear model
 
@@ -36212,25 +36212,25 @@ not easy to picture.
 
 The best we can do, without
 
-## of the atom
+of the atom
 
 Bohr, a Danish physicist
 
-## developed it to
+developed it to
 
-## using advanced mathematics
+using advanced mathematics
 
-## is to say that the atom
+is to say that the atom
 
 explain how an atom emits light.
 
-## He suggested that
+# He suggested that
 
 consists of a nucleus surrounded by a hazy cloud of
 
 the electrons circled the nucleus at high speed
 
-## being
+being
 
 electrons.
 
@@ -36242,7 +36242,7 @@ predicts that electrons are more likely to be found are
 
 the nucleus for them.
 
-### He pictured atoms as miniature
+# He pictured atoms as miniature
 
 represented by denser shading (Figure 50.
 
@@ -36250,57 +36250,57 @@ solar systems.
 
 Figure 50.
 
-## 4 shows the model for three
+4 shows the model for three
 
 elements.
 
-## lithium
+lithium
 
-## hydrogen helium
+hydrogen helium
 
-## orbits
+orbits
 
-## proton
+proton
 
 neutron Figure 50.
 
-## 6 Electron cloud
+6 Electron cloud
 
-## electron
+electron
 
 Figure 50.
 
-## 4 Electron orbits
+4 Electron orbits
 
 Normally the electrons remain in their orbits but 3
 
-## if the atom is given energy
+if the atom is given energy
 
-## for example by being
+for example by being
 
-## heated
+heated
 
 electrons may jump to an outer orbit.
 
 atom is then said to be excited.
 
-## Very soon afterwards
+# Very soon afterwards
 
 the electrons return to an inner orbit and
 
-## as they
+as they
 
 do, they emit energy in the form of bursts of
 
 Figure 50.
 
-## 7 Energy levels of an atom
+7 Energy levels of an atom
 
 electromagnetic radiation (called photons)
 
-## such as
+such as
 
-## infrared light
+infrared light
 
 ultraviolet or X-rays (Figure 50.
 
@@ -36312,17 +36312,17 @@ moving in definite orbits and replaces them by
 
 two orbits between which the electrons jump.
 
-## If an
+# If an
 
 energy levels that are different for each element.
 
 atom gains enough energy for an electron to escape
 
-### When an electron ‘jumps’ from one level
+When an electron ‘jumps’ from one level
 
-## say E
+say E
 
-## altogether
+altogether
 
 the atom becomes an ion and the energy 3
 
@@ -36340,27 +36340,27 @@ equal to the difference in energy of the two levels.
 
 The frequency (and wavelength) of the radiation
 
-### inner orbit electron jump electron
+inner orbit electron jump electron
 
 jump emitted by an atom is thus dependent on the
 
 arrangement of energy levels.
 
-## For an atom emitting
+# For an atom emitting
 
-## visible light
+visible light
 
-### the resulting spectrum (produced for
+the resulting spectrum (produced for
 
-## outer
+outer
 
 example by a prism) is a series of coloured lines that
 
-## orbit
+orbit
 
 is unique to each element.
 
-## Sodium vapour in a gas
+# Sodium vapour in a gas
 
 discharge tube (such as a yellow street light) gives
 
@@ -36370,7 +36370,7 @@ two adjacent yellow–orange lines (Figure 50.
 
 Light from the Sun is due to energy changes in
 
-## energy in radiation out
+energy in radiation out
 
 many different atoms and the resulting spectrum is a
 
@@ -36384,7 +36384,7 @@ Figure 50.
 
 indd 241 20/06/14 7:41 AM
 
-## 50 Atomic stRuctuRe
+50 Atomic stRuctuRe
 
 colliding with surrounding atoms and raising their
 
@@ -36400,7 +36400,7 @@ Figure 50.
 
 If the fission neutrons split other uranium-235
 
-## nuclei
+nuclei
 
 a chain reaction is set up (Figure 50.
 
@@ -36414,35 +36414,35 @@ Figure 50.
 
 8b A continuous spectrum increases as the mass of uranium-235 increases.
 
-## This
+# This
 
 must exceed a certain critical value to sustain the
 
 chain reaction.
 
-## l●Nuclear energy
+l●Nuclear energy
 
-## neutron
+neutron
 
-## a) e = mc2
+a) e = mc2
 
-## U-235
+# U-235
 
 Einstein predicted that if the energy of a body
 
-## fission
+fission
 
-## changes by an amount E
+changes by an amount E
 
-### its mass changes by an fragment
+its mass changes by an fragment
 
-## fission neutron
+fission neutron
 
-### amount m given by the equation
+amount m given by the equation
 
-## U-235 U-235
+# U-235 U-235
 
-## E = mc2
+E = mc2
 
 where c is the speed of light (3 × 108 m/s).
 
@@ -36450,31 +36450,31 @@ implication is that any reaction in which there is a
 
 Figure 50.
 
-## 9 Chain reaction
+9 Chain reaction
 
-## decrease of mass
+decrease of mass
 
-## called a mass defect
+called a mass defect
 
-## is a source
+is a source
 
 of energy.
 
-### The energy and mass changes in physical
+# The energy and mass changes in physical
 
-### and chemical changes are very small
+and chemical changes are very small
 
-## those in c) Nuclear reactor
+those in c) Nuclear reactor
 
-## some nuclear reactions
+some nuclear reactions
 
-## Such as radioactive decay
+# Such as radioactive decay
 
 In a nuclear power station heat from a nuclear
 
 are millions of times greater.
 
-## It appears that mass
+# It appears that mass
 
 reactor produces the steam for the turbines.
 
@@ -36482,7 +36482,7 @@ reactor produces the steam for the turbines.
 
 Figure 50.
 
-### 10 is a simplified diagram of one type of
+10 is a simplified diagram of one type of
 
 b) Fission reactor.
 
@@ -36490,9 +36490,9 @@ The chain reaction occurs at a steady rate
 
 The heavy metal uranium is a mixture of which is controlled by inserting or withdrawing
 
-## isotopes of which 235U
+isotopes of which 235U
 
-## called uranium-235
+called uranium-235
 
 is neutron-absorbing rods of boron among the
 
@@ -36500,9 +36500,9 @@ the most important.
 
 Some atoms of this isotope uranium rods.
 
-### The graphite core is called the
+# The graphite core is called the
 
-## decay quite naturally
+decay quite naturally
 
 emitting high-speed moderator and slows down the fission neutrons
 
@@ -36512,7 +36512,7 @@ If one of these hits the nucleus of a fission of uranium-235 occurs more readily
 
 neighbouring uranium-235 atom (being uncharged slow than with fast neutrons.
 
-## Carbon dioxide
+# Carbon dioxide
 
 the neutron is not repelled by the nucleus)
 
@@ -36520,29 +36520,29 @@ this gas is pumped through the core and carries
 
 may break (fission of the nucleus) into two nearly off heat to the heat exchanger where steam is
 
-## equal radioactive nuclei
+equal radioactive nuclei
 
 often of barium and produced.
 
-### The concrete shield gives workers
+# The concrete shield gives workers
 
-## krypton
+krypton
 
 with the production of two or three more protection from γ-rays and escaping neutrons.
 
-## neutrons
+neutrons
 
 radioactive fission fragments must be removed
 
 periodically if the nuclear fuel is to be used
 
-### 235U + 1n → 144Ba + 90Kr + 21n
+235U + 1n → 144Ba + 90Kr + 21n
 
-## 92 0 56 36 0 efficiently.
+92 0 56 36 0 efficiently.
 
-## In an atomic bomb
+# In an atomic bomb
 
-## an increasing uncontrolled
+an increasing uncontrolled
 
 nn ee u u tntrreoounnt r o nffii ss ss ii oofinnss ifforraangg fmmraeegnnmttsse n nntsee u u tntrreoooounntssr oons
 
@@ -36554,7 +36554,7 @@ of uranium-235 come together and exceed the
 
 the fission fragments.
 
-### These fly apart at great speed
+# These fly apart at great speed
 
 critical mass.
 
@@ -36562,39 +36562,39 @@ critical mass.
 
 indd 242 20/06/14 7:42 AM
 
-## Nuclear energy
+# Nuclear energy
 
-## hot gas
+hot gas
 
-## concrete shield
+concrete shield
 
-## steam
+steam
 
-## boron rod
+boron rod
 
-## heat exchanger
+heat exchanger
 
-## uranium rod
+uranium rod
 
-## graphite core
+graphite core
 
-## cold water
+cold water
 
-## cold
+cold
 
-## gas
+gas
 
-## pump
+pump
 
 Figure 50.
 
-## 10 Nuclear reactor
+10 Nuclear reactor
 
 d) Fusion enough to keep the reaction going
 
-## since heat is
+since heat is
 
-## required
+required
 
 it is called thermonuclear fusion.
 
@@ -36604,7 +36604,7 @@ The source of the Sun’s energy is nuclear
 
 this can also lead to a loss of mass and
 
-## as a result
+as a result
 
 fusion.
 
@@ -36616,7 +36616,7 @@ Such a reaction has been for the conversion of hydrogen into helium to
 
 achieved in the hydrogen bomb.
 
-## At present
+# At present
 
 occur, in a sequence of thermonuclear fusion
 
@@ -36628,19 +36628,19 @@ give helium.
 
 1H + 1Η → 2H + positron (1e)+ neutrino (ν)
 
-## 1 1 1 0
+1 1 1 0
 
-## 2H + 3H → 4He + 1n
+2H + 3H → 4He + 1n
 
-## 1 1 2 0
+1 1 2 0
 
 deuterium tritium helium neutron 1H + 2Η → 3He + γ −ray
 
-## 1 1 2
+1 1 2
 
 Fusion can only occur if the reacting nuclei 3He + 3Ηe → 4He + 1H+1H
 
-## 2 2 2 1 1
+2 2 2 1 1
 
 have enough energy to overcome their mutual
 
@@ -36656,7 +36656,7 @@ Overall, tremendous
 
 speeds.
 
-## If fusion occurs
+# If fusion occurs
 
 the energy released is the very high temperature of the Sun.
 
@@ -36664,11 +36664,11 @@ the energy released is the very high temperature of the Sun.
 
 indd 243 20/06/14 7:42 AM
 
-## 50 Atomic stRuctuRe
+50 Atomic stRuctuRe
 
-## Checklist
+# Checklist
 
-## Questions
+# Questions
 
 After studying this chapter you should be able to
 
@@ -36686,13 +36686,13 @@ called nucleons, in equal numbers.
 
 • describe the Geiger–Marsden experiment which
 
-### C A proton has a positive charge
+# C A proton has a positive charge
 
 a neutron is uncharged established the nuclear model of the atom
 
 and their mass is about the same.
 
-## • recall the charge
+• recall the charge
 
 relative mass and location in the atom of
 
@@ -36702,15 +36702,15 @@ protons, neutrons and electrons,
 
 the charge on a proton but it has a much smaller mass.
 
-### • defi ne the terms proton number (Z)
+• defi ne the terms proton number (Z)
 
-## neutron number (N)
+neutron number (N)
 
 E The number of electrons equals the number of protons
 
-## and nucleon number (A)
+and nucleon number (A)
 
-### and use the equation A = Z + N
+and use the equation A = Z + N
 
 in a normal atom.
 
@@ -36724,11 +36724,11 @@ proton (atomic) number of 3.
 
 • write equations for radioactive decay and interpret them
 
-## 1 Its symbol is 7Li.
+1 Its symbol is 7Li.
 
-## 2 It contains three protons
+2 It contains three protons
 
-## four neutrons and three
+four neutrons and three
 
 • connect the release of energy in a nuclear reaction with a
 
@@ -36736,9 +36736,9 @@ electrons.
 
 change of mass according to the equation E = mc2
 
-### 3 An atom containing three protons
+3 An atom containing three protons
 
-## three neutrons and
+three neutrons and
 
 three electrons is an isotope of lithium.
 
@@ -36754,21 +36754,21 @@ A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 indd 244 20/06/14 7:42 AM
 
-### RReevviissiioonn qquueessttiioonnss
+# RReevviissiioonn qquueessttiioonnss
 
 General physics 6 A boy whirls a ball at the end of a string round
 
-### his head in a horizontal circle
+his head in a horizontal circle
 
 centre O.
 
-## Measurements and motion
+# Measurements and motion
 
 lets go of the string when the ball is at X in the
 
-### 1 Which are the basic SI units of mass
+1 Which are the basic SI units of mass
 
-## length and
+length and
 
 diagram.
 
@@ -36776,7 +36776,7 @@ In which direction does the ball fly off?
 
 time?
 
-## A 1 B 2 C 3 D 4 E 5
+# A 1 B 2 C 3 D 4 E 5
 
 A kilogram, kilometre, second
 
@@ -36788,17 +36788,17 @@ D gram, centimetre, second 4 3
 
 E kilogram, metre, second
 
-### 2 Density can be calculated from the expression 2
+2 Density can be calculated from the expression 2
 
-## A mass/volume
+A mass/volume
 
-## B mass × volume
+B mass × volume
 
-## C volume/mass
+C volume/mass
 
-## D weight/area
+D weight/area
 
-## E area × weight
+E area × weight
 
 Energy, work, power and pressure
 
@@ -36806,39 +36806,39 @@ Energy, work, power and pressure
 
 for an object on Earth and on the Moon?
 
-### 1 calculated by multiplying the force by the
+1 calculated by multiplying the force by the
 
 1 weight 2 mass 3 density distance moved in the direction of the force
 
-## Use the answer code
+# Use the answer code
 
-## 2 measured in joules
+2 measured in joules
 
 A 1, 2
 
-## 3 B 1, 2 C 2
+3 B 1, 2 C 2
 
-### 3 D 1 E 3 3 the amount of the energy changed.
+3 D 1 E 3 3 the amount of the energy changed.
 
 Which statement(s) is (are) correct?
 
-### 4 a The smallest division marked on a metre rule
+4 a The smallest division marked on a metre rule
 
 A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 is 1 mm.
 
-### A student measures a length with the
+# A student measures a length with the
 
 ruler and records it as 0.
 
-## 835 m.
+835 m.
 
 Is he justified in 8 The main energy change occurring in the device
 
 giving three significant figures?
 
-## named is
+named is
 
 b The SI unit of density is 1 electric lamp electrical to heat and light
 
@@ -36850,33 +36850,33 @@ to p.
 
 Which statement(s) is (are) correct?
 
-## Forces and momentum
+# Forces and momentum
 
 A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
-### 5 A 3 kg mass falls with its terminal velocity.
+5 A 3 kg mass falls with its terminal velocity.
 
-### 9 The efficiency of a machine which raises a load
+9 The efficiency of a machine which raises a load
 
 Which of the combinations A to E gives its
 
 of 200 N through 2 m when an effort of 100 N
 
-## weight
+weight
 
 the air resistance and the resultant force
 
-## moves 8 m is
+moves 8 m is
 
 acting on it?
 
 A 0.
 
-## 5% B 5% C 50%
+5% B 5% C 50%
 
-## D 60% E 80%
+D 60% E 80%
 
-### Weight Air resistance Resultant force
+# Weight Air resistance Resultant force
 
 A 0.
 
@@ -36886,15 +36886,15 @@ B 3 N down 3 N up 3 N up A Pressure is the force acting on unit area.
 
 B Pressure is calculated from force/area.
 
-## C 10 N down 10 N up 10 N down
+# C 10 N down 10 N up 10 N down
 
 C The SI unit of pressure is the pascal (Pa) which
 
-## D 30 N down 30 N up zero
+# D 30 N down 30 N up zero
 
 equals 1 newton per square metre (1 N/m2).
 
-## E 300 N down zero 300 N down
+# E 300 N down zero 300 N down
 
 D The greater the area over which a force acts
 
@@ -36906,13 +36906,13 @@ E Force = pressure × area.
 
 indd 245 20/06/14 7:28 AM
 
-## Revision questions
+# Revision questions
 
 11 A stone of mass 2 kg is dropped from a height of 4 m.
 
 C Heat flows naturally from an object at a lower
 
-## Neglecting air resistance
+# Neglecting air resistance
 
 the kinetic energy (k.
 
@@ -36938,17 +36938,17 @@ which of the numbers in A to E below is 16 The pressure exerted by a gas in a co
 
 a the velocity in m/s with which it is fired
 
-### 1 is due to the molecules of the gas bombarding
+1 is due to the molecules of the gas bombarding
 
 b the height in m to which it will rise?
 
-## the walls of the container
+the walls of the container
 
 A 5 B 10 C 20 D 100 E 200 2 decreases if the gas is cooled
 
-### 3 increases if the volume of the container
+3 increases if the volume of the container
 
-## 13 An object has k.
+13 An object has k.
 
 of 10 J at a certain instant.
 
@@ -36956,7 +36956,7 @@ increases.
 
 it is acted on by an opposing force of 5 N
 
-## which
+which
 
 Which statement(s) is (are) correct?
 
@@ -36968,11 +36968,11 @@ distance it travels in metres before coming to rest?
 
 A 2 B 5 C 10 D 20 E 50 17 A drink is cooled more by ice at 0 °C than by the
 
-### same mass of water at 0 °C because ice
+same mass of water at 0 °C because ice
 
-## 2 Thermal physics
+2 Thermal physics
 
-## A floats on the drink
+# A floats on the drink
 
 Thermal properties and temperature B has a smaller specific heat capacity
 
@@ -36982,43 +36982,43 @@ C gives out latent heat to the drink as it melts
 
 D absorbs latent heat from the drink to melt
 
-### cylinder from position X to position Y
+cylinder from position X to position Y
 
-## without
+without
 
 E is a solid.
 
 changing the temperature of the air enclosed
 
-### air pressure in the cylinder is
+air pressure in the cylinder is
 
-## Thermal processes
+# Thermal processes
 
-## A reduced to a quarter
+# A reduced to a quarter
 
-### 18 Which of the following statements is/are true?
+18 Which of the following statements is/are true?
 
-## B reduced to a third
+# B reduced to a third
 
-### 1 In cold weather the wooden handle of a
+1 In cold weather the wooden handle of a
 
-## C the same
+# C the same
 
 saucepan feels warmer than the metal pan
 
-## D trebled
+# D trebled
 
 because wood is a better conductor of heat.
 
 E quadrupled.
 
-### 2 Convection occurs when there is a change of
+2 Convection occurs when there is a change of
 
-## piston
+piston
 
-### 30 cm 10 cm density in parts of a fluid.
+30 cm 10 cm density in parts of a fluid.
 
-### 3 Conduction and convection cannot occur in a
+3 Conduction and convection cannot occur in a
 
 vacuum.
 
@@ -37032,7 +37032,7 @@ radiation only.
 
 B A dull black surface is a good absorber of
 
-## Y X cylinder
+# Y X cylinder
 
 radiation.
 
@@ -37052,11 +37052,11 @@ E A vacuum flask is designed to reduce heat
 
 which uses some property of matter (e.g.
 
-## loss or gain by conduction
+loss or gain by conduction
 
-## convection and
+convection and
 
-### the expansion of mercury) that changes
+the expansion of mercury) that changes
 
 radiation.
 
@@ -37066,13 +37066,13 @@ continuously with temperature.
 
 indd 246 20/06/14 7:28 AM
 
-## Revision questions
+# Revision questions
 
 3 Properties of waves 23 The diagram below shows the complete
 
 electromagnetic spectrum.
 
-## General wave properties
+# General wave properties
 
 20 In the transverse wave shown below distances are
 
@@ -37080,11 +37080,11 @@ in centimetres.
 
 Which pair of entries A to E is radio microwaves A visible ultraviolet B
 
-## waves light rays
+waves light rays
 
 correct?
 
-### A B C D E a Name the radiation found at
+# A B C D E a Name the radiation found at
 
 Amplitude 2 4 4 8 8 (i) A,
 
@@ -37092,13 +37092,13 @@ Wavelength 4 4 8 8 12 (ii) B.
 
 b State which of the radiations marked on the
 
-## diagram would have
+diagram would have
 
 (i) the lowest frequency,
 
-### 6 (ii) the shortest wavelength.
+6 (ii) the shortest wavelength.
 
-### 24 The wave travelling along the spring in the
+24 The wave travelling along the spring in the
 
 diagram is produced by someone moving end X
 
@@ -37108,85 +37108,85 @@ by the arrows.
 
 a Is the wave longitudinal or transverse?
 
-## 0 2 4 6 8 10 12
+0 2 4 6 8 10 12
 
 b What is the region called where the coils of
 
-### the spring are (i) closer together
+the spring are (i) closer together
 
-## (ii) further
+(ii) further
 
-### 21 When a water wave goes from deep to shallow
+21 When a water wave goes from deep to shallow
 
 apart, than normal?
 
 water, the changes (if any) in its speed
 
-## wavelength and frequency are
+wavelength and frequency are
 
-## Speed Wavelength Frequency
+# Speed Wavelength Frequency
 
-## A greater greater the same
+# A greater greater the same
 
-## B greater less less
+# B greater less less
 
-## Light
+# Light
 
-## C the same less greater
+# C the same less greater
 
 25 In the diagram a ray of light is shown reflected at
 
-## D less the same less
+# D less the same less
 
 a plane mirror.
 
-## What is
+# What is
 
-## E less less the same
+# E less less the same
 
 a the angle of incidence,
 
 b the angle the reflected ray makes with the mirror?
 
-### 22 When the straight water waves in the diagram
+22 When the straight water waves in the diagram
 
 pass through the narrow gap in the barrier they
 
-## incident ray
+incident ray
 
 are diffracted.
 
-### What changes (if any) occur in
+What changes (if any) occur in
 
 a the shape of the waves,
 
-## 30°
+30°
 
 b the speed of the waves,
 
 c the wavelength?
 
-## reflected ray
+reflected ray
 
 9781444176421_BM_06.
 
 indd 247 20/06/14 7:28 AM
 
-## Revision questions
+# Revision questions
 
 26 In the diagram below a ray of light IO changes 29 When using a magnifying glass to see a small object
 
 direction as it enters glass from air.
 
-## 1 an upright image is seen
+1 an upright image is seen
 
 a What name is given to this effect?
 
-### 2 the object should be less than one focal length
+2 the object should be less than one focal length
 
 b Which line is the normal?
 
-## away
+away
 
 c Is the ray bent towards or away from the 3 a real image is seen.
 
@@ -37200,39 +37200,39 @@ A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
 e What is the value of the angle of refraction in
 
-## Sound
+# Sound
 
 glass?
 
 30 If a note played on a piano has the same pitch as
 
-## one played on a guitar
+one played on a guitar
 
-## they have the same
+they have the same
 
-## A frequency B amplitude
+# A frequency B amplitude
 
-## air I
+air I
 
-## C quality D loudness
+# C quality D loudness
 
 40° E harmonics.
 
-### 31 The waveforms of two notes P and Q are shown
+31 The waveforms of two notes P and Q are shown
 
-## X Y
+# X Y
 
 below.
 
 Which one of the statements A to E is true?
 
-## 65°
+65°
 
-## glass
+glass
 
-## 27 In the diagram
+27 In the diagram
 
-### which of the rays A to E is most P Q
+which of the rays A to E is most P Q
 
 likely to represent the ray emerging from the
 
@@ -37246,15 +37246,15 @@ D CB A C P and Q have the same pitch and loudness.
 
 D P has a lower pitch than Q and is not so loud.
 
-## E air
+# E air
 
 E P has a lower pitch than Q and is louder.
 
-### 32 Examples of transverse waves are
+32 Examples of transverse waves are
 
-### glass 1 water waves in a ripple tank
+glass 1 water waves in a ripple tank
 
-## 2 all electromagnetic waves
+2 all electromagnetic waves
 
 air 3 sound waves.
 
@@ -37262,9 +37262,9 @@ Which statement(s) is (are) correct?
 
 A 1, 2, 3 B 1, 2 C 2, 3 D 1 E 3
 
-## ray of light
+ray of light
 
-### 28 A narrow beam of white light is shown passing
+28 A narrow beam of white light is shown passing
 
 through a glass prism and forming a spectrum on
 
@@ -37276,19 +37276,19 @@ b Which colour of light appears at (i) A
 
 (ii) B?
 
-## screen
+screen
 
-## white
+white
 
-## light
+light
 
-## prism
+prism
 
 9781444176421_BM_06.
 
 indd 248 20/06/14 7:28 AM
 
-## Revision questions
+# Revision questions
 
 4 Electricity and magnetism 36 An electric kettle for use on a 230 V supply
 
@@ -37296,29 +37296,29 @@ is rated at 3000 W.
 
 For safe working, the cable
 
-## Simple phenomena of magnetism
+# Simple phenomena of magnetism
 
 supplying it should be able to carry at least
 
 33 Which one of the following statements about the
 
-### A 2 A B 5 A C 10 A D 15 A E 30 A
+# A 2 A B 5 A C 10 A D 15 A E 30 A
 
 diagram below is not true?
 
 37 Which one of the following statements is not true?
 
-## A In a house circuit
+# A In a house circuit
 
 lamps are wired in parallel.
 
-## S N B Switches
+# S N B Switches
 
-### fuses and circuit breakers should be
+fuses and circuit breakers should be
 
 placed in the neutral wire.
 
-## N P Q S
+# N P Q S
 
 C An electric fire has its earth wire connected to
 
@@ -37334,7 +37334,7 @@ the live pin.
 
 N E The cost of operating three 100 W lamps for
 
-### 10 hours at 10p per unit is 30p.
+10 hours at 10p per unit is 30p.
 
 38 Which of the units A to E could be used to measure
 
@@ -37358,17 +37358,17 @@ e power?
 
 C If a current is passed through the coil
 
-### A ampere B joule C volt D watt
+# A ampere B joule C volt D watt
 
 rotates clockwise.
 
-## E coulomb
+# E coulomb
 
 D If the coil had more turns and carried a larger
 
 39 Which one of the following statements about the
 
-## current
+current
 
 the turning effect would be greater.
 
@@ -37378,9 +37378,9 @@ E In a moving-coil loudspeaker a coil moves
 
 between the poles of a strong magnet.
 
-### Electrical quantities and circuits
+# Electrical quantities and circuits
 
-### 34 For the circuit below calculate
+34 For the circuit below calculate
 
 a the total resistance,
 
@@ -37390,33 +37390,33 @@ c the p.
 
 across each resistor.
 
-## B Y
+# B Y
 
-## 6 V
+6 V
 
-## VBE
+# VBE
 
-## 2 Ω
+2 Ω
 
 A The collector current I is zero until base
 
 current I flows.
 
-## 2 Ω B I
+2 Ω B I
 
 is zero until the base–emitter p.
 
-## BE
+BE
 
-## is
+is
 
-## 6 V.
+6 V.
 
 C A small I can switch on and control a large I .
 
-## B C
+# B C
 
-### 35 Repeat question 33 for the circuit below.
+35 Repeat question 33 for the circuit below.
 
 D When used as an amplifier the input is
 
@@ -37426,39 +37426,39 @@ connected across B and E.
 
 and Y to the + terminal.
 
-## 2 Ω 1 Ω
+2 Ω 1 Ω
 
 9781444176421_BM_06.
 
 indd 249 20/06/14 7:28 AM
 
-## Revision questions
+# Revision questions
 
 Electromagnetic effects 42 The graph shows the decay curve of a radioactive
 
 substance.
 
-## 40 A magnet is pushed
+40 A magnet is pushed
 
-## N pole first
+# N pole first
 
-## into a coil as in
+into a coil as in
 
 the diagram below.
 
-## Which one of the following
+# Which one of the following
 
 statements A to E is not true?
 
 A A p.
 
-### is induced in the coil and causes a 120
+is induced in the coil and causes a 120
 
 current through the galvanometer.
 
 B The induced p.
 
-## increases if the magnet is
+increases if the magnet is
 
 pushed in faster and/or the coil has more turns.
 
@@ -37466,13 +37466,13 @@ C Mechanical energy is changed to electrical
 
 energy.
 
-### D The coil tends to move to the right
+# D The coil tends to move to the right
 
-## 0 1 2 3 4 5
+0 1 2 3 4 5
 
 because the induced current makes face X a
 
-## time/min
+time/min
 
 N pole which is repelled by the N pole of the
 
@@ -37482,59 +37482,59 @@ E The effect produced is called electrostatic
 
 induction.
 
-## S N X coil
+# S N X coil
 
-## magnet
+magnet
 
-## galvanometer
+galvanometer
 
-## 5 Atomic physics
+5 Atomic physics
 
-### 41 The diagram shows three types of radiation
+41 The diagram shows three types of radiation
 
 X, Y
 
 and Z.
 
-## paper aluminium lead
+paper aluminium lead
 
 Which of the columns A to E correctly names
 
 the radiations X, Y and Z?
 
-## A B C D E
+# A B C D E
 
-## X alpha beta gamma gamma beta
+# X alpha beta gamma gamma beta
 
-## Y beta alpha alpha beta gamma
+# Y beta alpha alpha beta gamma
 
-### Z gamma gamma beta alpha alpha
+# Z gamma gamma beta alpha alpha
 
-## rep
+rep
 
-## stnuoc/etar
+stnuoc/etar
 
-## tnuoc
+tnuoc
 
 What is its half-life in minutes?
 
-## A 1 B 2 C 3 D 4 E 5
+# A 1 B 2 C 3 D 4 E 5
 
-### 43 A radioactive source which has a half-life of
+43 A radioactive source which has a half-life of
 
-### 1 hour gives a count-rate of 100 counts per
+1 hour gives a count-rate of 100 counts per
 
 second at the start of an experiment and
 
-### 25 counts per second at the end. The time taken
+25 counts per second at the end. The time taken
 
 by the experiment was, in hours,
 
-## A 1 B 2 C 3 D 4 E 5
+# A 1 B 2 C 3 D 4 E 5
 
-### 44 Which symbol A to E below is used in equations
+44 Which symbol A to E below is used in equations
 
-### for nuclear reactions to represent
+for nuclear reactions to represent
 
 a an alpha particle,
 
@@ -37544,47 +37544,47 @@ c a neutron,
 
 d an electron?
 
-## A 0e B 1n C 4He D 1e E 1n
+# A 0e B 1n C 4He D 1e E 1n
 
-## −1 0 2 −1 1
+−1 0 2 −1 1
 
-### 45 a Radon 220Rn decays by emitting an alpha
+45 a Radon 220Rn decays by emitting an alpha
 
 particle to form an element whose symbol is
 
-## A 216At B 216Rn C 218Po
+# A 216At B 216Rn C 218Po
 
-## 85 86 84
+85 86 84
 
-## D 216Po E 217At
+# D 216Po E 217At
 
-## 84 85
+84 85
 
 b Thorium 234Th decays by emitting a beta
 
 particle to form an element whose symbol is
 
-## A 235Th B 230Ac C 234Ac
+# A 235Th B 230Ac C 234Ac
 
-## 90 89 89
+90 89 89
 
-## D 232Ra E 234Pa
+# D 232Ra E 234Pa
 
-## 88 91
+88 91
 
 9781444176421_BM_06.
 
 indd 250 20/06/14 7:29 AM
 
-### Cambridge IGCSE exam questions
+# Cambridge IGCSE exam questions
 
-## 1 General physics
+1 General physics
 
-## block
+block
 
-## Measurements and motion
+# Measurements and motion
 
-### 1 a (i) T he two diagrams show the dimensions of
+1 a (i) T he two diagrams show the dimensions of
 
 a rectangular block being measured using
 
@@ -37592,15 +37592,15 @@ a ruler.
 
 They are not shown full size.
 
-### Use the scales shown to find the length
+# Use the scales shown to find the length
 
 and the width of the block, giving your
 
-## 40 50 60 70
+40 50 60 70
 
 answers in cm.
 
-## [2] grams
+[2] grams
 
 Find the density of this block.
 
@@ -37608,83 +37608,83 @@ Find the density of this block.
 
 140 150 160 170 180 190 200 210 220 230 240 250 (Cambridge IGCSE Physics 0625 Paper 21 Q1
 
-## millimetres November 2010)
+millimetres November 2010)
 
-### 061 051 041 031 021 011 001 09 08 07 06 05
+061 051 041 031 021 011 001 09 08 07 06 05
 
-### 2 An engineering machine has a piston which is
+2 An engineering machine has a piston which is
 
 going up and down approximately 75 times per
 
-## 0 1
+0 1
 
-## 5 4
+5 4
 
-## 2 0 minute.
+2 0 minute.
 
 9 0 1 2 Describe carefully how a stopwatch may be used
 
 8 0 0 2 2 t c o y c fi le n d o f a t c h c e u r p a i t s e t l o y n t .
 
-### h e time for one up-and-dow [ n 4 ]
+h e time for one up-and-dow [ n 4 ]
 
-## 0 2
+0 2
 
-## 7 3
+7 3
 
-## 6 0 4 2 [Total: 4]
+6 0 4 2 [Total: 4]
 
-## 5 0 milli
+5 0 milli
 
 5 2 (Cambridge IGCSE Physics 0625 Paper 31 Q1 June 2009)
 
-## 0e2
+0e2
 
 4 e r t 0 6 3 Imagine that you live beside a busy road.
 
-## One of
+# One of
 
-## s2
+s2
 
 3 7 your neighbours thinks that many of the vehicles
 
 0 2 are travelling faster than the speed limit for the
 
-## 2 8
+2 8
 
 road.
 
 1 0 0 9 2 You decide to check this by measuring the speeds
 
-## 0 3 of some of the vehicles.
+0 3 of some of the vehicles.
 
-### 0 2 a Which two quantities will you need to
+0 2 a Which two quantities will you need to
 
-## 4 5
+4 5
 
 1 0 measure in order to find the speed of a vehicle
 
-### and which instruments would you use to
+and which instruments would you use to
 
 measure them?
 
-## (ii) When the block was made
+(ii) When the block was made
 
-## it was cut from
+it was cut from
 
 a piece of metal 2.
 
-## 0 cm thick.
+0 cm thick.
 
-### Quantity measured Instrument used
+# Quantity measured Instrument used
 
 Calculate the volume of the block.
 
 b Another block has a volume of 20 cm3.
 
-## [4]
+[4]
 
-### The diagram shows the reading when the
+# The diagram shows the reading when the
 
 block is placed on a balance.
 
@@ -37700,27 +37700,27 @@ state what your symbols mean.
 
 indd 251 20/06/14 7:29 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 c One lorry travels from your town to another
 
 town.
 
-### The lorry reaches a top speed of
+# The lorry reaches a top speed of
 
-### 90 km/h, but its average speed between the
+90 km/h, but its average speed between the
 
 towns is only 66 km/h.
 
-### (i) Why is the average speed less than
+(i) Why is the average speed less than
 
 the top speed?
 
 (ii) The journey between the towns takes
 
-## 20 minutes.
+20 minutes.
 
-### Calculate the distance between
+# Calculate the distance between
 
 the towns.
 
@@ -37728,31 +37728,31 @@ the towns.
 
 (Cambridge IGCSE Physics 0625 Paper 21 Q1 June 2010)
 
-### 4 The top graph shows the distance/time graph for
+4 The top graph shows the distance/time graph for
 
 a girl’s bicycle ride and the bottom graph gives
 
 the axes for the corresponding speed/time graph.
 
-## morf
+morf
 
-## ecnatsid
+ecnatsid
 
-## deeps
+deeps
 
-## tniop
+tniop
 
-## gnitrats
+gnitrats
 
 (ii) On a copy of the speed/time axes on the
 
-## bottom graph
+bottom graph
 
-## draw a thick line that could
+draw a thick line that could
 
 show the speed during AB.
 
-### b On your copy of the speed/time axes
+b On your copy of the speed/time axes
 
 (i) draw a thick line that could show the
 
@@ -37770,17 +37770,17 @@ when she has finished her ride?
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q3
 
-## November 2009)
+November 2009)
 
-## 5 In a training session
+5 In a training session
 
-## a racing cyclist’s journey is
+a racing cyclist’s journey is
 
 in three stages.
 
 Stage 1 He accelerates uniformly from rest to
 
-## 12 m/s in 20 s.
+12 m/s in 20 s.
 
 Stage 2 He cycles at 12 m/s for a distance of 4800 m.
 
@@ -37794,13 +37794,13 @@ b On a copy of the grid below, draw a
 
 speed/time graph of the cyclist’s ride.
 
-## A B C D time
+# A B C D time
 
-## 0 100 200 300
+0 100 200 300
 
-## time/s
+time/s
 
-## A B C D time
+# A B C D time
 
 a Look at the distance/time graph that has been
 
@@ -37810,17 +37810,17 @@ drawn for you.
 
 time interval AB.
 
-### 1 What is happening to the distance
+1 What is happening to the distance
 
 from the starting point?
 
-### 2 What can you say about the speed of
+2 What can you say about the speed of
 
 the bicycle?
 
-## s/m/deeps
+s/m/deeps
 
-## 400 500
+400 500
 
 c Show that the total distance travelled by the
 
@@ -37836,35 +37836,35 @@ d Calculate the average speed of the cyclist.
 
 indd 252 20/06/14 7:29 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
-### 6 A large plastic ball is dropped from the top of
+6 A large plastic ball is dropped from the top of
 
 a tall building.
 
-## The diagram shows the speed/
+The diagram shows the speed/
 
 time graph for the falling ball until it hits the
 
 ground.
 
-## 0 1 2 3 4 5 6
+0 1 2 3 4 5 6
 
-## time/s
+time/s
 
-## s/m/deeps
+s/m/deeps
 
-## 0 1 2 3
+0 1 2 3
 
 a From the graph estimate,
 
-## weight/N
+weight/N
 
-### (i) the time during which the ball is
+(i) the time during which the ball is
 
 travelling with terminal velocity, [1]
 
-### (ii) the time during which the ball is
+(ii) the time during which the ball is
 
 accelerating, [1]
 
@@ -37886,11 +37886,11 @@ on the ball, why
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q1
 
-## November 2007)
+November 2007)
 
-## Forces and momentum
+# Forces and momentum
 
-### 7 A student investigated the stretching of a
+7 A student investigated the stretching of a
 
 spring by hanging various weights from it and
 
@@ -37898,35 +37898,35 @@ measuring the corresponding extensions.
 
 results are shown in the table below.
 
-## Weight/N 0 1 2 3 4 5
+Weight/N 0 1 2 3 4 5
 
-### Extension/mm 0 21 40 51 82 103
+Extension/mm 0 21 40 51 82 103
 
-## a On a copy of the grid
+a On a copy of the grid
 
-## plot the points from
+plot the points from
 
 these results.
 
-## Do not draw a line through
+# Do not draw a line through
 
 the points yet.
 
-## mm/noisnetxe
+mm/noisnetxe
 
-## 4 5 6
+4 5 6
 
 b The student appears to have made an error in
 
 recording one of the results.
 
-## Which result is
+# Which result is
 
 this?
 
-### c Ignoring the incorrect result
+c Ignoring the incorrect result
 
-## draw the
+draw the
 
 best straight line through the remaining
 
@@ -37938,7 +37938,7 @@ obeying Hooke’s law.
 
 e Describe how the graph might be shaped
 
-### if the student continued to add several
+if the student continued to add several
 
 more weights to the spring.
 
@@ -37948,7 +37948,7 @@ a 45 N load on the spring, the extension
 
 will be 920 mm.
 
-### Explain why this estimate may be
+# Explain why this estimate may be
 
 unrealistic.
 
@@ -37956,41 +37956,41 @@ unrealistic.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q3
 
-## November 2009)
+November 2009)
 
 9781444176421_BM_06.
 
 indd 253 20/06/14 7:29 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-## 8 In an experiment
+8 In an experiment
 
-### forces are applied to a spring
+forces are applied to a spring
 
 as shown in the diagram.
 
-## The results of this
+# The results of this
 
 experiment are shown on the graph.
 
-## N/ecrof
+N/ecrof
 
-## a On graph paper
+a On graph paper
 
-## draw a scale diagram to find
+draw a scale diagram to find
 
 the resultant of the two tensions.
 
 Use a scale of 1.
 
-## 0 cm = 10 N.
+0 cm = 10 N.
 
 Clearly label the resultant.
 
-## R b From your diagram
+# R b From your diagram
 
-## find the value of the
+find the value of the
 
 resultant.
 
@@ -37998,7 +37998,7 @@ c State the direction in which the resultant is
 
 acting.
 
-## spring
+spring
 
 P d State the value of W.
 
@@ -38006,29 +38006,29 @@ P d State the value of W.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q1
 
-## weights November 2010)
+weights November 2010)
 
 ruler 0 2.
 
-## 0 4.
+0 4.
 
-## 0 6.
+0 6.
 
 10 The diagram shows a circular metal disc of mass
 
-## extension/mm
+extension/mm
 
-### 200 g, freely pivoted at its centre.
+200 g, freely pivoted at its centre.
 
-## a b
+a b
 
 a What is the name given to the point marked Q pivot
 
 on the graph?
 
-### b For the part OP of the graph
+b For the part OP of the graph
 
-## the spring obeys
+the spring obeys
 
 Hooke’s law.
 
@@ -38042,29 +38042,29 @@ graph.
 
 Compare how the spring stretches, as
 
-### shown by the part of the graph OQ
+shown by the part of the graph OQ
 
-## with that
+with that
 
 shown by QR.
 
 d The part OP of the graph shows the spring
 
-### stretching according to the expression
+stretching according to the expression
 
-## F = kx
+F = kx
 
 Use values from the graph to calculate the
 
-## Masses of 100 g
+# Masses of 100 g
 
-## 200 g, 300 g
+200 g, 300 g
 
-## 400 g, 500 g and
+400 g, 500 g and
 
 value of k.
 
-### 600 g are available, but only one of each value.
+600 g are available, but only one of each value.
 
 [Total: 5]
 
@@ -38076,25 +38076,25 @@ There are three small holes on each side of
 
 November 2006) the centre, one at 4.
 
-## 0 cm from the pivot, one at
+0 cm from the pivot, one at
 
-### 8.0 cm from the pivot and one at 12.0 cm from
+# 8.0 cm from the pivot and one at 12.0 cm from
 
-### 9 An object of weight W is suspended by two ropes
+9 An object of weight W is suspended by two ropes
 
 the pivot.
 
 from a beam, as shown in the diagram.
 
-## The tensions
+# The tensions
 
 The apparatus is to be used to show that there is
 
 in the ropes are 50.
 
-## 0 N and 86.
+0 N and 86.
 
-## 6 N, as shown.
+6 N, as shown.
 
 no net moment of force acting on a body when it
 
@@ -38102,29 +38102,29 @@ is in equilibrium.
 
 a On a copy of the diagram, draw in two
 
-### different value masses hanging from
+different value masses hanging from
 
 appropriate holes.
 
-## The values of the masses
+# The values of the masses
 
-### 86.6 N should be chosen so that there is no net
+# 86.6 N should be chosen so that there is no net
 
 30° moment.
 
 Alongside the masses chosen, write
 
-## 50.0 N 60°
+# 50.0 N 60°
 
 down their values.
 
-### b Explain how you would test that your
+b Explain how you would test that your
 
-### chosen masses give no net moment to
+chosen masses give no net moment to
 
 the disc.
 
-### c Calculate the moments about the pivot
+c Calculate the moments about the pivot
 
 due to the two masses chosen.
 
@@ -38132,11 +38132,11 @@ due to the two masses chosen.
 
 indd 254 20/06/14 7:29 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
-### d Calculate the force on the pivot when
+d Calculate the force on the pivot when
 
-### the two masses chosen are hanging from
+the two masses chosen are hanging from
 
 the disc.
 
@@ -38144,37 +38144,37 @@ the disc.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q2
 
-## November 2008)
+November 2008)
 
 11 A piece of stiff cardboard is stuck to a plank of
 
 wood by means of two sticky-tape ‘hinges’.
 
-## This
+# This
 
 is shown in the diagram.
 
-## stiff
+stiff
 
-## cardboard
+cardboard
 
-## sticky-tape
+sticky-tape
 
-## plank
+plank
 
-## ‘hinge’
+‘hinge’
 
-## of wood
+of wood
 
-### a The cardboard is lifted as shown
+a The cardboard is lifted as shown
 
-## using a force
+using a force
 
 applied either at A or B or C.
 
-## (i) On a copy of the diagram
+(i) On a copy of the diagram
 
-## draw the force
+draw the force
 
 in the position where its value will be as
 
@@ -38184,9 +38184,9 @@ small as possible.
 
 in a(i) results in the smallest force.
 
-## b Initially
+b Initially
 
-### the cardboard is flat on the plank of
+the cardboard is flat on the plank of
 
 wood.
 
@@ -38196,39 +38196,39 @@ cardboard is then slowly raised at the left-hand
 
 edge, as shown in the diagram below.
 
-## stiff
+stiff
 
-## cardboard
+cardboard
 
-## plank sticky-tape
+plank sticky-tape
 
-## of wood ‘hinge’
+of wood ‘hinge’
 
-## S M U A P T E C R HES
+# S M U A P T E C R HES
 
-## stiff
+stiff
 
-## cardboard
+cardboard
 
-## plank sticky-tape
+plank sticky-tape
 
-## of wood ‘hinge’
+of wood ‘hinge’
 
-### State the condition for the box of
+# State the condition for the box of
 
 matches to fall over.
 
-### c The box of matches is opened
+c The box of matches is opened
 
-## as shown in
+as shown in
 
 the diagram below.
 
-## The procedure in b is
+# The procedure in b is
 
 repeated.
 
-## S M U A P T E C R HES
+# S M U A P T E C R HES
 
 (i) Copy and complete the sentence below
 
@@ -38238,11 +38238,11 @@ using either the words ‘greater than’ or
 
 When the box of matches is open, the
 
-### angle through which the cardboard can
+angle through which the cardboard can
 
 be lifted before the box of matches falls is
 
-## the angle
+the angle
 
 before the closed box of matches falls.
 
@@ -38252,13 +38252,13 @@ before the closed box of matches falls.
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q3 June 07)
 
-### 12 a State the two factors on which the turning
+12 a State the two factors on which the turning
 
 effect of a force depends.
 
-### b Forces F and F are applied vertically
+b Forces F and F are applied vertically
 
-## 1 2
+1 2
 
 downwards at the ends of a beam resting on a
 
@@ -38266,33 +38266,33 @@ pivot P.
 
 The beam has weight W.
 
-## F P W F
+# F P W F
 
-## 1 2
+1 2
 
 (i) Copy and complete the statements about
 
-### the two requirements for the beam to be
+the two requirements for the beam to be
 
 in equilibrium.
 
-### 1 There must be no resultant .
+1 There must be no resultant .
 
-### 2 There must be no resultant .
+2 There must be no resultant .
 
 (ii) The beam is in equilibrium.
 
-## F is the force
+# F is the force
 
 exerted on the beam by the pivot P.
 
-## Copy
+# Copy
 
-### and complete the following equation
+and complete the following equation
 
 about the forces on the beam.
 
-## F = [1]
+F = [1]
 
 (iii) Which one of the four forces on the beam
 
@@ -38302,39 +38302,39 @@ does not exert a moment about P?
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q5
 
-## November 2006)
+November 2006)
 
 9781444176421_BM_06.
 
 indd 255 20/06/14 7:29 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-### 13 Two students make the statements about
+13 Two students make the statements about
 
 Weight of the hanging Acceleration of the
 
 acceleration that are given below.
 
-## mass/N trolley/m/s2
+mass/N trolley/m/s2
 
-## Student A
+# Student A
 
 For a given mass the acceleration of 0.
 
-## 20 0.
+20 0.
 
 an object is proportional to the resultant force
 
-## 0.40 0.50
+# 0.40 0.50
 
 applied to the object.
 
-## Student B
+# Student B
 
-### For a given force the acceleration of
+# For a given force the acceleration of
 
-## 0.80 1.0
+# 0.80 1.0
 
 an object is proportional to the mass of the object.
 
@@ -38342,7 +38342,7 @@ a One statement is correct and one is incorrect.
 
 a (i) Explain why the trolley accelerates.
 
-### Rewrite the incorrect statement
+# Rewrite the incorrect statement
 
 making (ii) Suggest why the runway has a slight
 
@@ -38352,7 +38352,7 @@ changes so that it is now correct.
 
 b State the equation which links acceleration b Calculate the mass of the trolley
 
-## assuming
+assuming
 
 a, resultant force F and mass m.
 
@@ -38368,13 +38368,13 @@ moving object when c Calculate the value missing from the table.
 
 (ii) a resultant force is applied to it in the d In one experiment
 
-## the hanging mass has a
+the hanging mass has a
 
-### opposite direction to the motion
+opposite direction to the motion
 
 [1] weight of 0.
 
-### 4 N and the trolley starts from rest.
+4 N and the trolley starts from rest.
 
 (iii) a resultant force is applied to it in a Use data from the table to calculate
 
@@ -38382,7 +38382,7 @@ perpendicular direction to the motion.
 
 [1] (i) the speed of the trolley after 1.
 
-## 2 s, [2]
+2 s, [2]
 
 (ii) the distance travelled by the trolley
 
@@ -38390,7 +38390,7 @@ perpendicular direction to the motion.
 
 in 1.
 
-## 2 s.
+2 s.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q3 June 2010)
 
@@ -38402,7 +38402,7 @@ in 1.
 
 a Why is it incorrect to describe the circular
 
-## November 2008)
+November 2008)
 
 motion as having constant velocity?
 
@@ -38416,9 +38416,9 @@ clockwise around a horizontal circular track.
 
 (ii) In which direction does this force act?
 
-## [1] direction
+[1] direction
 
-## of movement
+of movement
 
 (iii) Suggest what provides this force.
 
@@ -38426,41 +38426,41 @@ clockwise around a horizontal circular track.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q2 model P
 
-## car
+car
 
-## November 2010)
+November 2010)
 
-### 15 The diagram shows apparatus used to find a
+15 The diagram shows apparatus used to find a
 
 relationship between the force applied to a trolley
 
 and the acceleration caused by the force.
 
-### trolley ticker- ticker-tape roll of
+trolley ticker- ticker-tape roll of
 
-## string tape timer tape
+string tape timer tape
 
-## circular
+circular
 
-## track
+track
 
-## hanging runway
+hanging runway
 
-## mass
+mass
 
 a A force acts on the car to keep it moving in
 
-## For each mass
+# For each mass
 
-## hung as shown
+hung as shown
 
-## the acceleration
+the acceleration
 
 a circle.
 
 of the trolley is determined from the tape.
 
-## Some
+# Some
 
 (i) Draw an arrow on a copy of the diagram
 
@@ -38472,13 +38472,13 @@ to show the direction of this force.
 
 indd 256 20/06/14 7:29 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 (ii) The speed of the car increases.
 
-## State
+# State
 
-## what happens to the magnitude
+what happens to the magnitude
 
 of this force.
 
@@ -38488,7 +38488,7 @@ track at P.
 
 On your copy of the diagram,
 
-### draw an arrow to show the direction of
+draw an arrow to show the direction of
 
 travel after it has left the track.
 
@@ -38496,23 +38496,23 @@ travel after it has left the track.
 
 suggest why it left the track at P.
 
-## c The car
+c The car
 
-## starting from rest
+starting from rest
 
-## completes one
+completes one
 
 lap of the track in 10 s.
 
-## Its motion is shown
+# Its motion is shown
 
 graphically in the graph below.
 
-## 0 1 2 3 4 5 6 7 8 9 10
+0 1 2 3 4 5 6 7 8 9 10
 
-## time/s
+time/s
 
-## s/mc/deeps
+s/mc/deeps
 
 b An electric motor and a pulley in a warehouse
 
@@ -38520,47 +38520,47 @@ are being used to lift a packing case of goods
 
 from the ground up to a higher level.
 
-## This is
+# This is
 
 shown in the diagram.
 
-## electric
+electric
 
-## motor pulley
+motor pulley
 
-## cable
+cable
 
-## chains
+chains
 
-## packing
+packing
 
-## case
+case
 
-## pallet
+pallet
 
 (i) Describe the motion between 3.
 
-## 0 s and
+0 s and
 
-### 10.0 s after the car has started. [1]
+# 10.0 s after the car has started. [1]
 
-### (ii) Use the graph to calculate the
+(ii) Use the graph to calculate the
 
 circumference of the track.
 
-## ground
+ground
 
 (iii) Calculate the increase in speed per second
 
 during the time 0 to 3.
 
-## 0 s.
+0 s.
 
 [Total: 10]
 
-## The packing case of goods
+# The packing case of goods
 
-## the chains and the
+the chains and the
 
 pallet together weigh 850 N.
 
@@ -38568,29 +38568,29 @@ pallet together weigh 850 N.
 
 (i) State the value of the tension force in the
 
-## June 2007)
+June 2007)
 
 cable when the load is being lifted at a
 
 steady speed.
 
-## Energy
+# Energy
 
 work, power and pressure (ii) When the load is just leaving the
 
 floor, why is the force larger than your
 
-### 17 a T he diagram represents the energy into and
+17 a T he diagram represents the energy into and
 
 answer to b(i)?
 
 out of a machine.
 
-### (iii) The warehouse manager wishes to
+(iii) The warehouse manager wishes to
 
-### calculate the useful work done when
+calculate the useful work done when
 
-## useful
+useful
 
 input output the load is lifted from the ground
 
@@ -38602,13 +38602,13 @@ other than the weight, does he need to
 
 measure?
 
-### (iv) Which further quantity does the
+(iv) Which further quantity does the
 
 wasted manager need to know, in order to
 
-## energy W
+energy W
 
-### calculate the power required to lift
+calculate the power required to lift
 
 the load?
 
@@ -38620,15 +38620,15 @@ and W.
 
 indd 257 20/06/14 7:29 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 c How does the electrical energy supplied to 20 The diagram shows a manometer
 
-## containing
+containing
 
 the electric motor compare with the increase mercury
 
-### being used to monitor the pressure of a
+being used to monitor the pressure of a
 
 in energy of the load?
 
@@ -38638,7 +38638,7 @@ completing the sentence.
 
 The electrical energy supplied to the motor is mm
 
-## the increase 300
+the increase 300
 
 in energy of the load.
 
@@ -38646,31 +38646,31 @@ in energy of the load.
 
 (Cambridge IGCSE Physics 0625 Paper 21 Q3 June 2010)
 
-## from a 200
+from a 200
 
-### 18 A car of mass 900 kg is travelling at a steady
+18 A car of mass 900 kg is travelling at a steady
 
-## gas supply
+gas supply
 
 speed of 30 m/s against a resistive force of
 
-### 2000 N, as illustrated in the diagram.
+2000 N, as illustrated in the diagram.
 
-## 30 m/s
+30 m/s
 
-## 2000 N
+2000 N
 
-## resistive
+resistive
 
-## force 50
+force 50
 
-## mercury
+mercury
 
 a Calculate the kinetic energy of the car.
 
 b Calculate the energy used in 1.
 
-## 0 s against
+0 s against
 
 the resistive force.
 
@@ -38678,15 +38678,15 @@ c What is the minimum power that the car
 
 engine has to deliver to the wheels?
 
-### [1] a Using the scale on the diagram
+[1] a Using the scale on the diagram
 
-## find the
+find the
 
-### vertical difference between the two
+vertical difference between the two
 
-### d What form of energy is in the fuel
+d What form of energy is in the fuel
 
-## used
+used
 
 mercury levels.
 
@@ -38694,9 +38694,9 @@ by the engine to drive the car?
 
 e State why the energy in the fuel is b What is the value of the excess pressure of
 
-## the gas supply
+the gas supply
 
-## measured in millimetres of
+measured in millimetres of
 
 converted at a greater rate than you have
 
@@ -38704,7 +38704,7 @@ mercury?
 
 calculated in c.
 
-### c The atmospheric pressure is 750 mm of
+c The atmospheric pressure is 750 mm of
 
 [Total: 7]
 
@@ -38722,7 +38722,7 @@ On a copy of the diagram,
 
 (not steam).
 
-### [3] mark the new positions of the two
+[3] mark the new positions of the two
 
 b Choose one of the energy resources you have mercury levels.
 
@@ -38740,13 +38740,13 @@ energy.
 
 (Cambridge IGCSE Physics 0625 Paper 21 Q3
 
-## November 2010)
+November 2010)
 
 9781444176421_BM_06.
 
 indd 258 20/06/14 7:29 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 21 The diagram shows a design for remotely 22 The diagram shows two mercury barometers
 
@@ -38754,39 +38754,39 @@ operating an electrical switch using air pressure.
 
 standing side-by-side.
 
-## The right-hand diagram is
+# The right-hand diagram is
 
 incomplete.
 
 The space labelled X is a vacuum.
 
-### electrical switch flexible rubber
+electrical switch flexible rubber
 
-## operated by box cover
+operated by box cover
 
-## air pressure X
+air pressure X
 
-## glass
+glass
 
-## tube
+tube
 
-## connecting pipe metal
+connecting pipe metal
 
-## box
+box
 
 The metal box and the pipe contain air at normal dish
 
 atmospheric pressure and the switch is off.
 
-## When
+# When
 
 the pressure in the metal box and pipe is raised to
 
-### 5 times atmospheric pressure by pressing down on
+5 times atmospheric pressure by pressing down on
 
-## mercury
+mercury
 
-## the flexible rubber box cover
+the flexible rubber box cover
 
 the switch comes on.
 
@@ -38796,9 +38796,9 @@ how the switch is made to come on.
 
 b Normal atmospheric pressure is 1.
 
-## 0 × 105 Pa.
+0 × 105 Pa.
 
-## At this pressure
+# At this pressure
 
 the volume of the box and a On a copy of the left-hand barometer
 
@@ -38812,17 +38812,17 @@ occur for the switch to be on.
 
 [3] the atmospheric pressure.
 
-## c Explain
+c Explain
 
-## in terms of air particles
+in terms of air particles
 
 why the b A small quantity of air is introduced into X.
 
-## switch may operate
+switch may operate
 
 without the rubber cover (i) State what happens to the mercury
 
-## being squashed
+being squashed
 
 when there is a large rise in level in the tube.
 
@@ -38840,81 +38840,81 @@ c The space above the mercury in the right-
 
 Q4 June 2008) On a copy of the right-hand diagram
 
-## mark
+mark
 
 the level of the mercury surface in the tube.
 
-## [1]
+[1]
 
 d The left-hand tube now has air above the
 
-## mercury
+mercury
 
 the right-hand tube has a vacuum.
 
-## complete the table below
+complete the table below
 
-## using words chosen
+using words chosen
 
-## from the following list
+from the following list
 
-## to indicate the effect
+to indicate the effect
 
 of changing the external conditions.
 
-## rises falls stays the same
+rises falls stays the same
 
 effect on the level of effect on the level of
 
 change the mercury in the the mercury in the
 
-### left-hand tube right-hand tube
+left-hand tube right-hand tube
 
-## atmospheric pressure
+atmospheric pressure
 
-## rises
+rises
 
-## temperature rises
+temperature rises
 
-## [4]
+[4]
 
 [Total: 10]
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q6
 
-## November 2008)
+November 2008)
 
 9781444176421_BM_06.
 
 indd 259 20/06/14 7:29 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-## 23 A wind turbine has blades
+23 A wind turbine has blades
 
-### which sweep out an 2 Thermal physics
+which sweep out an 2 Thermal physics
 
 area of diameter 25 m as shown in the diagram.
 
 Simple kinetic molecular model of matter
 
-## 25 m 24 The whole of a sealed
+25 m 24 The whole of a sealed
 
 empty, dusty room is kept
 
 at a constant temperature of 15 °C.
 
-## Light shines
+# Light shines
 
 into the room through a small outside window.
 
-### An observer points a TV camera with a
+# An observer points a TV camera with a
 
 magnifying lens into the room through a second
 
-## small window
+small window
 
-### set in an inside wall at right angles
+set in an inside wall at right angles
 
 to the outside wall.
 
@@ -38922,9 +38922,9 @@ blades Dust particles in the room show up on the TV
 
 monitor screen as tiny specks of light.
 
-### a Draw a diagram to show the motion of
+a Draw a diagram to show the motion of
 
-### one of the specks of light over a short
+one of the specks of light over a short
 
 period of time.
 
@@ -38936,13 +38936,13 @@ a The wind is blowing directly towards the wind particles have not fallen to the
 
 turbine at a speed of 12 m/s.
 
-## At this wind speed
+# At this wind speed
 
-### Explain why the dust particles have not
+# Explain why the dust particles have not
 
 7500 kg of air passes every second through the fallen to the floor.
 
-## You may draw a labelled
+# You may draw a labelled
 
 circular area swept out by the blades.
 
@@ -38950,13 +38950,13 @@ diagram to help your explanation.
 
 (i) Calculate the kinetic energy of the air c On another day
 
-## the temperature of the room
+the temperature of the room
 
-## travelling at 12 m/s
+travelling at 12 m/s
 
 which passes is only 5 °C.
 
-### All other conditions are the same
+# All other conditions are the same
 
 through the circular area in 1 second.
 
@@ -38966,7 +38966,7 @@ through the circular area in 1 second.
 
 energy of the wind to electrical energy.
 
-### in the movement of the specks when the
+in the movement of the specks when the
 
 Calculate the electrical power output temperature is 5 °C
 
@@ -38974,13 +38974,13 @@ compared to before.
 
 of the turbine.
 
-## State any equation
+# State any equation
 
 [Total: 4]
 
 that you use.
 
-## b On another day
+b On another day
 
 the wind speed is half that in a.
 
@@ -38990,9 +38990,9 @@ the wind speed is half that in a.
 
 the circular area per second on this day.
 
-### (ii) Calculate the power output of the
+(ii) Calculate the power output of the
 
-### wind turbine on the second day as a
+wind turbine on the second day as a
 
 fraction of that on the first day.
 
@@ -39004,7 +39004,7 @@ fraction of that on the first day.
 
 indd 260 20/06/14 7:29 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 25 a H ere is a list of descriptions of molecules in (ii) The specific heat capacity of the
 
@@ -39012,29 +39012,29 @@ matter.
 
 substance is 1760 J/(kg°C).
 
-## Use the
+# Use the
 
-### information in the table for the period
+information in the table for the period
 
 Description Solid Gas 18–22 minutes to calculate the mass
 
 of the substance being heated.
 
-### free to move around from place to place
+free to move around from place to place
 
 [Total: 10]
 
-### can only vibrate about a fixed position
+can only vibrate about a fixed position
 
 closely packed (Cambridge IGCSE Physics 0625 Paper 31 Q5
 
-### relatively far apart June 2010)
+relatively far apart June 2010)
 
-### almost no force between molecules
+almost no force between molecules
 
-### 27 Three wires and a meter are used to construct
+27 Three wires and a meter are used to construct
 
-### strong forces are involved between
+strong forces are involved between
 
 molecules a thermocouple for measuring the surface
 
@@ -39044,15 +39044,15 @@ shown in the diagram.
 
 Copy the table and in the columns alongside
 
-## the descriptions
+the descriptions
 
-### put ticks next to those which meter
+put ticks next to those which meter
 
-## apply to the molecules in
+apply to the molecules in
 
 (i) a solid, (ii) a gas.
 
-## wire 2
+wire 2
 
 b The water in a puddle of rainwater is wire 1
 
@@ -39062,15 +39062,15 @@ Describe what happens to the molecules cold junction
 
 when the water evaporates.
 
-## wire 3
+wire 3
 
 [Total: 6]
 
-## hot junction
+hot junction
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q5
 
-## June 2007) hot liquid in pipe
+June 2007) hot liquid in pipe
 
 a Copper wire and constantan wire are used in
 
@@ -39112,13 +39112,13 @@ latent heat of vaporisation is being supplied.
 
 d (i) The rate of heating is 2.
 
-## 0 kW.
+0 kW.
 
-## November 2009)
+November 2009)
 
-### Calculate how much energy is supplied
+# Calculate how much energy is supplied
 
-### to the substance during the period
+to the substance during the period
 
 18–22 minutes.
 
@@ -39130,7 +39130,7 @@ Temperature/°C −36 −16 −9 −9 −9 −9 32 75 101 121 121 121 121
 
 indd 261 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 28 a State what is meant by specific heat capacity.
 
@@ -39138,9 +39138,9 @@ indd 261 20/06/14 7:30 AM
 
 b Water has a very high specific heat capacity.
 
-## two fixed points
+two fixed points
 
-## and the space between these
+and the space between these
 
 Suggest why this might be a disadvantage is divided into equal divisions.
 
@@ -39156,21 +39156,21 @@ A thermometer is being calibrated with the
 
 Celsius scale.
 
-## thermometer
+thermometer
 
 stirrer (i) 1 Write down another name for the
 
 lower fixed point.
 
-## lid 2 How is this temperature
+lid 2 How is this temperature
 
 achieved?
 
-## boiling cup
+boiling cup
 
-### 3 What is the temperature of this
+3 What is the temperature of this
 
-## water
+water
 
 thread fixed point?
 
@@ -39194,7 +39194,7 @@ water in a well-insulated cup.
 
 A very sensitive have identical masses.
 
-## They both start at room
+# They both start at room
 
 thermometer is used to measure the initial and temperature and are given equal quantities
 
@@ -39212,25 +39212,25 @@ copper.
 
 mass of metal = 0.
 
-### 050 kg Fill in the missing words in the sentence
+050 kg Fill in the missing words in the sentence
 
 mass of water in cup = 0.
 
-## 200 kg below
+200 kg below
 
 to explain this temperature difference.
 
 initial temperature of water in cup = 21.
 
-## 1 °C
+1 °C
 
-### The aluminium block has a smaller
+# The aluminium block has a smaller
 
 final temperature of water in cup = 22.
 
-## 9 °C
+9 °C
 
-### temperature rise than the copper block
+temperature rise than the copper block
 
 (i) Calculate the temperature rise of the
 
@@ -39252,21 +39252,21 @@ that you use.
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q8
 
-### (iii) Assume that only the water gained
+(iii) Assume that only the water gained
 
-## June 2008)
+June 2008)
 
 thermal energy from the piece of metal.
 
-### Making use of your answers to c(i)
+Making use of your answers to c(i)
 
-## and c(ii)
+and c(ii)
 
-### calculate the value of the specific
+calculate the value of the specific
 
 heat capacity of the metal.
 
-## Give your
+# Give your
 
 answer to three significant figures.
 
@@ -39280,51 +39280,51 @@ the specific heat capacity of the metal.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q9
 
-## November 2009)
+November 2009)
 
 9781444176421_BM_06.
 
 indd 262 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
-### 30 The diagram shows apparatus that could be
+30 The diagram shows apparatus that could be
 
-## thermometer glass rod
+thermometer glass rod
 
 used to determine the specific latent heat of
 
-## stirrer
+stirrer
 
 fusion of ice.
 
-## ice
+ice
 
-## glass
+glass
 
-## beaker
+beaker
 
-## finely water
+finely water
 
-## crushed ice
+crushed ice
 
-## 40 W electric
+40 W electric
 
-## heater glass
+heater glass
 
-## funnel top-pan
+funnel top-pan
 
-## balance
+balance
 
-## stand with
+stand with
 
-## clamps to
+clamps to
 
 hold funnel a Three mass readings are taken.
 
-## A description
+# A description
 
-## and heater
+and heater
 
 of the first reading is given.
 
@@ -39332,9 +39332,9 @@ Write down descriptions of the other two.
 
 a In order to obtain as accurate a result as reading 1
 
-### the mass of the beaker + stirrer
+the mass of the beaker + stirrer
 
-## possible
+possible
 
 state why it is necessary to + thermometer
 
@@ -39342,7 +39342,7 @@ state why it is necessary to + thermometer
 
 beaker at a constant rate before reading 3.
 
-## taking readings
+taking readings
 
 [1] b Write down word equations which the student
 
@@ -39368,19 +39368,19 @@ fusion of ice.
 
 c Using a 40 W heater, 16.
 
-### 3 g of ice is melted in heat of fusion of ice.
+3 g of ice is melted in heat of fusion of ice.
 
-## 0 minutes.
+0 minutes.
 
 The heater is then switched off.
 
-### d Suggest two reasons why this value is
+d Suggest two reasons why this value is
 
 In a further 2.
 
-## 0 minutes, 2.
+0 minutes, 2.
 
-## 1 g of ice is melted.
+1 g of ice is melted.
 
 only an approximate value.
 
@@ -39394,23 +39394,23 @@ of fusion of ice from these results.
 
 [Total: 8]
 
-## June 2007)
+June 2007)
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q5
 
-### 32 The diagram shows a liquid-in-glass
+32 The diagram shows a liquid-in-glass
 
-## November 2008)
+November 2008)
 
 thermometer.
 
-### 31 The diagram shows a student’s attempt
+31 The diagram shows a student’s attempt
 
 to estimate the specific latent heat of fusion capillary tube
 
 of ice by adding ice at 0 °C to water at
 
-### 20 °C. The water is stirred continuously as
+20 °C. The water is stirred continuously as
 
 –10 0 10 20 30 40 50 60 70 80 90 100 110 120 130 140 150
 
@@ -39420,17 +39420,17 @@ of the water is 0 °C and all the added ice has
 
 melted.
 
-## liquid
+liquid
 
 9781444176421_BM_06.
 
 indd 263 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 a The thermometer is used for measuring (ii) On a copy of the diagram
 
-## draw the ray
+draw the ray
 
 temperatures in school laboratory from the top of the object which passes
 
@@ -39438,15 +39438,15 @@ experiments.
 
 State the units in which the through F .
 
-## Continue your ray until it
+# Continue your ray until it
 
 temperatures are measured.
 
 [1] meets the image.
 
-## b On a copy of the diagram
+b On a copy of the diagram
 
-## mark where the
+mark where the
 
 [Total: 8]
 
@@ -39458,7 +39458,7 @@ is placed in (Cambridge IGCSE Physics 0625 Paper 21 Q8 June 2010)
 
 (ii) steam above boiling water (label this 34 In an optics lesson
 
-## a Physics student traces the
+a Physics student traces the
 
 point STEAM).
 
@@ -39466,7 +39466,7 @@ point STEAM).
 
 c A liquid-in-glass thermometer makes use between medium A and air.
 
-## The student uses a
+# The student uses a
 
 of the expansion of a liquid to measure protractor to measure the various angles.
 
@@ -39478,59 +39478,59 @@ other properties that vary with temperature.
 
 measurements.
 
-## In a copy of the table below
+# In a copy of the table below
 
-## write in two
+write in two
 
-## properties
+properties
 
-### other than expansion of a liquid
+other than expansion of a liquid
 
 that can be used to measure temperature.
 
-## air
+air
 
-## example expansion OF a liquid
+example expansion OF a liquid
 
-## medium
+medium
 
-## 1. OF
+# 1. OF
 
-## aAir
+aAir
 
-## medium
+medium
 
-## 2. OF [2] A
+# 2. OF [2] A
 
 [Total: 5]
 
 3 Li g P h r t operti (C e a s m o br f id w ge a IG v C e SE s Physics 06 N 2 o 5 v e P m ap b e e r r 0 2 2 0 0 Q 7 5 ) r r a a 1 1 y y 3 5 5 0 0 3 3 4 4 0 0 3 3 3 3 0 0 3 3 2 2 0 0 3 3 1 1 0 0 3 3 0 0 0 0 2 2 9 9 0 0 2 2 8 8 0 0 2 2 7 7 0 0 2 2 6 6 0 0 2 2 5 5 0 0 2 2 4 4 0 0 2 2 3 3 0 0 2 2 2 2 0 0 2 2 1 1 0 0 2 2 0 0 1 1 0 0 9 0 me a d i i r um
 
-## 3 9
+3 9
 
-## aAir
+aAir
 
 33 The diagram shows how an image is formed by a medium
 
 converging lens.
 
-## 24 cm 10 cm 8 cm
+24 cm 10 cm 8 cm
 
 O F 2 F 1 I r r a a 2 2 y y 3 5 5 0 0 3 3 4 4 0 0 3 3 3 3 0 0 3 3 2 2 0 0 3 3 1 1 0 0 3 3 0 0 0 0 2 2 9 9 0 0 2 2 8 8 0 0 2 2 7 7 0 0 2 2 6 6 0 0 2 2 5 5 0 0 2 2 4 4 0 0 2 2 3 3 0 0 2 2 2 2 0 0 2 2 1 1 0 0 2 2 0 0 1 1 0 0 9 0 me a d i i r um
 
-## 3 9
+3 9
 
-## aAir
+aAir
 
-## medium
+medium
 
-## ray
+ray
 
 a State the value of the focal length of the 3
 
 lens.
 
-## [1] ray
+[1] ray
 
 b The object O is moved a small distance to
 
@@ -39540,7 +39540,7 @@ State two things that happen to the image I.
 
 c Points F and F are marked on the diagram.
 
-## 1 2
+1 2
 
 (i) State the name we give to these two a State which is the optically denser medium
 
@@ -39552,11 +39552,11 @@ points.
 
 indd 264 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 b State in which medium the light travels e In the experiment
 
-## the plane mirror is
+the plane mirror is
 
 the faster, and how you know this.
 
@@ -39566,9 +39566,9 @@ State what,
 
 c State the critical angle of medium A.
 
-## [1] if anything
+[1] if anything
 
-### happens to the image on the card if
+happens to the image on the card if
 
 d State the full name for what is happening (i) the plane mirror is moved slightly to
 
@@ -39588,21 +39588,21 @@ of ray 1, showing all your working.
 
 f The speed of light in air is 3.
 
-## 0 × 108 m/s.
+0 × 108 m/s.
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q7
 
 Calculate the speed of light in medium A
 
-## November 2009)
+November 2009)
 
 showing all your working.
 
-### 36 A woman stands so that she is 1.0 m from a
+36 A woman stands so that she is 1.0 m from a
 
 [Total: 8]
 
-## mirror mounted on a wall
+mirror mounted on a wall
 
 as shown below.
 
@@ -39614,27 +39614,27 @@ image is being formed on a card by a lens and a
 
 plane mirror.
 
-## image
+image
 
-## lens
+lens
 
-## torch
+torch
 
-## p q
+p q
 
-## plane
+plane
 
-## mirror hole cut
+mirror hole cut
 
-## in card
+in card
 
 The card and the mirror are shown angled
 
 that you can see what is happening.
 
-## In a real
+# In a real
 
-### a Copy the diagram and carefully draw
+a Copy the diagram and carefully draw
 
 experiment they are each roughly perpendicular
 
@@ -39668,9 +39668,9 @@ mirror.
 
 letter F.
 
-### b Explain why the woman cannot see the
+b Explain why the woman cannot see the
 
-### c Which two features describe the image
+c Which two features describe the image
 
 reflection of her toes.
 
@@ -39678,21 +39678,21 @@ formed on the card?
 
 c (i) How far is the woman from her image?
 
-### erect (ii) How far must the woman walk
+erect (ii) How far must the woman walk
 
 in what direction, before the distance
 
-## inverted
+inverted
 
 between her and her image is 6.
 
-## 0 m?
+0 m?
 
-## real
+real
 
 [Total: 10]
 
-## virtual [2]
+virtual [2]
 
 d What can be said about the size of the image
 
@@ -39700,19 +39700,19 @@ d What can be said about the size of the image
 
 compared with the size of the object?
 
-## [1] November 2006)
+[1] November 2006)
 
 9781444176421_BM_06.
 
 indd 265 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-### 37 The diagram shows a ray of light
+37 The diagram shows a ray of light
 
 from the top of (i) Copy the diagram and continue the paths
 
-## an object PQ
+an object PQ
 
 passing through two glass prisms.
 
@@ -39722,27 +39722,27 @@ Hence locate the image of the object O.
 
 Label the image I.
 
-## P A B
+# P A B
 
 (ii) Describe the nature of the image I.
 
 b The diagram below is drawn to scale.
 
-## It shows
+# It shows
 
 Q an object PQ and a convex lens.
 
-## position of
+position of
 
-## P convex lens
+# P convex lens
 
-## F F principal
+# F F principal
 
-## Q axis
+# Q axis
 
-### principal focus principal focus
+principal focus principal focus
 
-## F E
+# F E
 
 a Copy the sketch and complete the path (i) Copy the diagram and draw two rays from
 
@@ -39752,15 +39752,15 @@ leaving Q.
 
 [1] the lens.
 
-### Use these rays to locate the top
+# Use these rays to locate the top
 
-### b A person looking into the lower prism
+b A person looking into the lower prism
 
 at the of the image.
 
 Label this point T.
 
-### position indicated by the eye symbol
+position indicated by the eye symbol
 
 sees (ii) Draw an eye symbol to show the position
 
@@ -39782,47 +39782,47 @@ d The speed of light as it travels from P to A is
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q7
 
-### 3 × 108 m/s and the refractive index of the
+3 × 108 m/s and the refractive index of the
 
-## November 2005)
+November 2005)
 
 prism glass is 1.
 
-## Calculate the speed of light
+# Calculate the speed of light
 
 in the prism.
 
-## Sound
+# Sound
 
 e Explain why the ray AB reflects through 90° at
 
-### 39 The diagram shows a workman hammering a
+39 The diagram shows a workman hammering a
 
 B and does not pass out of the prism at B.
 
 metal post into the ground.
 
-## Some distance away
+# Some distance away
 
 [Total: 8] is a vertical cliff.
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q6
 
-## November 2006)
+November 2006)
 
-### 38 a The sketch shows two rays of light from a
+38 a The sketch shows two rays of light from a
 
 point O on an object.
 
-## These rays are incident
+# These rays are incident
 
 on a plane mirror.
 
-## cliff
+cliff
 
-## workman
+workman
 
-## boy girl
+boy girl
 
 a A boy is standing at the foot of the cliff.
 
@@ -39838,13 +39838,13 @@ to reach the boy.
 
 indd 266 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 (i) What does the boy hear after he sees each 3 How long does it take for the
 
 strike of the hammer on the post?
 
-### [1] amplitude to decrease to half its
+[1] amplitude to decrease to half its
 
 (ii) Calculate the distance between the initial value?
 
@@ -39852,17 +39852,17 @@ post and the boy.
 
 [3] d A student says that the sound waves
 
-## which
+which
 
 b A girl is also watching the workman.
 
 She travelled through the air from the bell
 
-## were
+were
 
 is standing the same distance behind the longitudinal waves
 
-## and that the air molecules
+and that the air molecules
 
 post as the boy is in front of it.
 
@@ -39910,23 +39910,23 @@ A grid is given to help you take between a bell tower and a steep mountainside.
 
 measurements.
 
-## bell tower
+bell tower
 
-## and bell
+and bell
 
-## steep
+steep
 
-## mountainside
+mountainside
 
-## student
+student
 
-## time
+time
 
-## 990 m 990 m
+990 m 990 m
 
-## The bell rings once
+# The bell rings once
 
-## but the student hears two
+but the student hears two
 
 rings separated by a short time interval.
 
@@ -39934,11 +39934,11 @@ a Explain why the student hears two rings.
 
 b State which of the sounds is louder,
 
-## a (i) State what
+a (i) State what
 
-## if anything
+if anything
 
-## is happening to
+is happening to
 
 and why.
 
@@ -39946,19 +39946,19 @@ the loudness of the note.
 
 c Sound in that region travels at 330 m/s.
 
-### (ii) State how you deduced your answer
+(ii) State how you deduced your answer
 
-### (i) Calculate the time interval between
+(i) Calculate the time interval between
 
 to a(i).
 
-### the bell ringing and the student
+the bell ringing and the student
 
-## b (i) State what
+b (i) State what
 
-## if anything
+if anything
 
-## is happening to
+is happening to
 
 hearing it for the first time.
 
@@ -39966,9 +39966,9 @@ the frequency of the note.
 
 (ii) Calculate the time interval between
 
-### (ii) State how you deduced your answer
+(ii) State how you deduced your answer
 
-### the bell ringing and the student
+the bell ringing and the student
 
 to b(i).
 
@@ -39978,7 +39978,7 @@ c (i) How many oscillations does it take for
 
 (iii) Calculate the time interval between
 
-### the amplitude of the wave to decrease
+the amplitude of the wave to decrease
 
 the two sounds.
 
@@ -39988,9 +39988,9 @@ to half its initial value?
 
 [Total: 8]
 
-### 1 What is meant by a frequency of
+1 What is meant by a frequency of
 
-## 300 Hz?
+300 Hz?
 
 [1] (Cambridge IGCSE Physics 0625 Paper 02 Q8
 
@@ -40002,23 +40002,23 @@ take?
 
 indd 267 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-## 4 Electricity and magnetism
+4 Electricity and magnetism
 
-## brass rod N
+brass rod N
 
-## Simple phenomena of magnetism
+# Simple phenomena of magnetism
 
-### 42 a Four rods are shown in the diagram.
+42 a Four rods are shown in the diagram.
 
-## plotting plotting
+plotting plotting
 
-## compass compass
+compass compass
 
-## On a copy of the diagram
+# On a copy of the diagram
 
-## mark the position
+mark the position
 
 of the pointer on each of the two plotting
 
@@ -40026,7 +40026,7 @@ compasses.
 
 plastic iron wooden brass [Total: 6]
 
-## rod rod rod rod
+rod rod rod rod
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q8 June 2009)
 
@@ -40036,29 +40036,29 @@ at one end and be 43 a An iron rod is placed next to a bar magnet
 
 shown in the diagram.
 
-### (i) magnetised by stroking it with a
+(i) magnetised by stroking it with a
 
 magnet, [1]
 
 (ii) charged by stroking it with a dry cloth.
 
-## [1] N S
+[1] N S
 
 b Magnets A and B below are repelling each other.
 
-## iron rod
+iron rod
 
-### N (i) On a copy of the diagram above
+N (i) On a copy of the diagram above
 
-## mark
+mark
 
 clearly the north pole and the south pole
 
-## magnet A magnet B
+magnet A magnet B
 
 that are induced in the iron rod.
 
-### (ii) What happens to the magnet and the
+(ii) What happens to the magnet and the
 
 The north pole has been labelled on magnet A.
 
@@ -40066,11 +40066,11 @@ rod?
 
 Tick the correct option below.
 
-## On a copy of the diagram
+# On a copy of the diagram
 
-## label the other three
+label the other three
 
-## nothing
+nothing
 
 poles.
 
@@ -40078,23 +40078,23 @@ c Charged rods C and D below are attracting they attract
 
 each other.
 
-## they repel [1]
+they repel [1]
 
 b A second bar magnet is now placed next to
 
-## ++
+++
 
 the iron rod, as shown below.
 
-## rod C rod D
+rod C rod D
 
-## N S N S
+# N S N S
 
-## On a copy of the diagram
+# On a copy of the diagram
 
-## show the charge on
+show the charge on
 
-## iron rod
+iron rod
 
 rod D.
 
@@ -40112,17 +40112,17 @@ N iron rod.
 
 second magnet?
 
-## nothing
+nothing
 
-## they attract
+they attract
 
-## they repel [1]
+they repel [1]
 
 A brass rod is positioned in an east–west
 
 direction.
 
-### A plotting compass is put at each
+# A plotting compass is put at each
 
 end of the brass rod, as shown below.
 
@@ -40130,9 +40130,9 @@ end of the brass rod, as shown below.
 
 indd 268 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
-## c The iron rod is removed
+c The iron rod is removed
 
 leaving the two c The cable for connecting an electric cooker is
 
@@ -40140,11 +40140,11 @@ magnets, as shown below.
 
 much thicker than the cable on a table lamp.
 
-### (i) Why do cookers need a much thicker
+(i) Why do cookers need a much thicker
 
 cable?
 
-## N S N S
+# N S N S
 
 (ii) What would happen if a thin cable were
 
@@ -40154,55 +40154,55 @@ What happens to the two magnets?
 
 [Total: 6]
 
-## nothing
+nothing
 
 they attract (Cambridge IGCSE Physics 0625 Paper 21 Q9
 
-## June 2010)
+June 2010)
 
-## they repel [1]
+they repel [1]
 
 d The second magnet is removed and 45 In the diagram
 
-## A and B are two conductors on
+# A and B are two conductors on
 
-### replaced by a charged plastic rod
+replaced by a charged plastic rod
 
 as insulating stands.
 
-## Both A and B were initially
+# Both A and B were initially
 
 shown below.
 
 uncharged.
 
-## N S + – + + + X Y
+N S + – + + + X Y
 
-## + +
++ +
 
-## charged + +
+charged + +
 
-## plastic rod + +
+plastic rod + +
 
-## A B
+# A B
 
-## + +
++ +
 
-## + +
++ +
 
 What happens to the magnet and the plastic
 
-## + +
++ +
 
-## + +
++ +
 
 rod?
 
-## nothing
+nothing
 
-## they attract
+they attract
 
-## they repel [1]
+they repel [1]
 
 a Conductor A is given the positive charge
 
@@ -40212,7 +40212,7 @@ shown on the diagram.
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q8 (i) On a copy of the diagram
 
-## mark the signs
+mark the signs
 
 November 2008) of the charges induced at end X and at
 
@@ -40220,7 +40220,7 @@ end Y of conductor B.
 
 (ii) Explain how these charges are induced.
 
-### Electrical quantities and circuits
+# Electrical quantities and circuits
 
 (iii) Explain why the charges at X and at
 
@@ -40232,7 +40232,7 @@ wire.
 
 Explain what happens, if anything, to
 
-## Safety warning
+# Safety warning
 
 (i) the charge at X, [1]
 
@@ -40254,9 +40254,9 @@ a push-button switch in a washroom.
 
 a washroom?
 
-## b An electric heater
+b An electric heater
 
-## sold in the electrical store
+sold in the electrical store
 
 has a current of 8 A when it is working normally.
 
@@ -40270,51 +40270,51 @@ suitable to use in the plug fitted to the cable of
 
 the heater?
 
-## 5 A 10 A 13 A 20 A
+5 A 10 A 13 A 20 A
 
-## [1]
+[1]
 
 9781444176421_BM_06.
 
 indd 269 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-### 46 The diagram shows a simple circuit.
+46 The diagram shows a simple circuit.
 
-### a Calculate the combined resistance of
+a Calculate the combined resistance of
 
 R and R .
 
-## 1 2
+1 2
 
-## 6 V
+6 V
 
-## b On a copy of the diagram
+b On a copy of the diagram
 
-## use the correct
+use the correct
 
 circuit symbol to draw a voltmeter connected
 
 to measure the potential difference between
 
-## reading
+reading
 
 A X and Y.
 
-## 50 mA
+50 mA
 
 c The variable resistor is set to zero resistance.
 
 The voltmeter reads 1.
 
-## 5 V.
+5 V.
 
 (i) Calculate the current in the circuit.
 
-### (ii) State the value of the potential
+(ii) State the value of the potential
 
-## a What is the value of
+a What is the value of
 
 difference across the cell.
 
@@ -40326,7 +40326,7 @@ d The resistance of the variable resistor is increased.
 
 (ii) the current in the circuit?
 
-### (i) What happens to the current in the
+(i) What happens to the current in the
 
 b Calculate the resistance R of the resistor.
 
@@ -40336,51 +40336,51 @@ Tick the correct option below.
 
 c State how the circuit could be changed to
 
-## increases
+increases
 
-### (i) halve the current in the circuit
+(i) halve the current in the circuit
 
-## stays the same
+stays the same
 
 (ii) reduce the current to zero.
 
 d A student wishes to include a switch in the decreases [1]
 
-## circuit
+circuit
 
-### but mistakenly connects it as shown
+but mistakenly connects it as shown
 
 (ii) What happens to the voltmeter reading?
 
 below.
 
-## increases
+increases
 
-## 6 V stays the same
+6 V stays the same
 
-## decreases [1]
+decreases [1]
 
-## student’s
+student’s
 
 (iii) State the resistance of the variable resistor
 
-## A incorrect
+# A incorrect
 
 connection when the voltmeter reads 0.
 
-## 75 V.
+75 V.
 
 [Total: 11]
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q10 June 2008)
 
-### 48 a Draw the symbol for a NOR gate. [1]
+48 a Draw the symbol for a NOR gate. [1]
 
 (i) Comment on the size of the current in
 
-### b Describe the action of a NOR gate in
+b Describe the action of a NOR gate in
 
-### the circuit if the student closes the
+the circuit if the student closes the
 
 terms of its inputs and output.
 
@@ -40394,15 +40394,15 @@ pressure to work correctly.
 
 on the circuit?
 
-## When the heater is working
+# When the heater is working
 
-## the output of a
+the output of a
 
 [Total: 11] temperature sensor is high.
 
-## When the pressure is
+# When the pressure is
 
-## low enough
+low enough
 
 a pressure sensor has a low output.
 
@@ -40412,7 +40412,7 @@ Both outputs are fed into a NOR gate.
 
 high output from the gate switches on an
 
-### 47 The diagram shows a series circuit.
+47 The diagram shows a series circuit.
 
 indicator lamp.
 
@@ -40424,23 +40424,23 @@ when the process is working correctly.
 
 in the following situations.
 
-### 1 The pressure is low enough, but the
+1 The pressure is low enough, but the
 
 heater stops working.
 
-### 2 The heater is working, but the
+2 The heater is working, but the
 
-## X Y
+# X Y
 
-## R R
+# R R
 
-### 1 2 pressure rises too high. [2]
+1 2 pressure rises too high. [2]
 
 [Total: 6]
 
 Resistance R = 25 Ω and resistance R = 35 Ω.
 
-## 1 2
+1 2
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q10 June 2008)
 
@@ -40450,33 +40450,33 @@ The cell has zero resistance.
 
 indd 270 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 49 a The circuit shows two resistors connected to a 50 The diagram shows part of a low-voltage lighting
 
-## 6 V battery.
+6 V battery.
 
 circuit containing five identical lamps.
 
-## 12 V d.c.
+12 V d.c.
 
-## supply
+supply
 
-## A B
+# A B
 
-## 6 V X
+6 V X
 
-### (i) What name do we use to describe
+(i) What name do we use to describe
 
 this way of connecting resistors?
 
 a Copy and complete the circuit, by the
 
-### (ii) Calculate the combined resistance
+(ii) Calculate the combined resistance
 
-### addition of components as necessary
+addition of components as necessary
 
-## so that
+so that
 
 of the two resistors.
 
@@ -40490,11 +40490,11 @@ measured,
 
 (ii) the brightness of lamp E only can be varied
 
-### the potential difference across the
+the potential difference across the
 
 (iii) lamps C and D may be switched on and
 
-## 10 Ω resistor. [2]
+10 Ω resistor. [2]
 
 off together whilst lamps A, B and E
 
@@ -40506,7 +40506,7 @@ terminals X and Y.
 
 b All five lamps are marked 12 V, 36 W.
 
-## Assume
+# Assume
 
 b The circuit shown is similar to the circuit above
 
@@ -40518,21 +40518,21 @@ value regardless of how it is connected in the
 
 circuit.
 
-## Calculate
+# Calculate
 
 sliding (i) the current in one lamp when
 
-## contact
+contact
 
 operating at normal brightness, [1]
 
-### (ii) the resistance of one lamp when
+(ii) the resistance of one lamp when
 
-### 6 V X operating at normal brightness, [1]
+6 V X operating at normal brightness, [1]
 
 (iii) the combined resistance of two lamps
 
-### connected in parallel with the 12 V
+connected in parallel with the 12 V
 
 supply, [1]
 
@@ -40542,17 +40542,17 @@ Y when operating at normal brightness.
 
 c The whole circuit is switched on.
 
-## Explain
+# Explain
 
 (i) State the potential difference between X why the brightness of lamps A and B is
 
 and Y when the sliding contact is at much less than that of one lamp operating
 
-## 1 end A of the resistor, .
+1 end A of the resistor, .
 
 V at normal brightness.
 
-### 2 end B of the resistor. .............. V [2]
+2 end B of the resistor. .............. V [2]
 
 [Total: 10]
 
@@ -40562,7 +40562,7 @@ moved so that the potential difference (Cambridge IGCSE Physics 0625 Paper 03 Q8
 
 between X and Y is 5 V.
 
-## On a copy of the
+# On a copy of the
 
 circuit mark with the letter C the position
 
@@ -40576,17 +40576,17 @@ of the sliding contact.
 
 indd 271 20/06/14 7:30 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-### 51 The diagram shows two electrical circuits.
+51 The diagram shows two electrical circuits.
 
-## Calculate
+# Calculate
 
 The batteries in circuit 1 and circuit 2 are identical.
 
 (i) the current in resistor P, [1]
 
-### (ii) the power supplied to resistor Q
+(ii) the power supplied to resistor Q
 
 (iii) the energy transformed in resistor
 
@@ -40596,35 +40596,35 @@ Q in 300 s.
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q8
 
-## November 2007)
+November 2007)
 
-### 52 The diagram shows an electric circuit.
+52 The diagram shows an electric circuit.
 
-## 4.0 6.0
+# 4.0 6.0
 
-## P Q
+# P Q
 
-## ammeter
+ammeter
 
-## circuit 1
+circuit 1
 
-## battery
+battery
 
-## ammeter lamp
+ammeter lamp
 
-## A 1
+# A 1
 
-## ammeter
+ammeter
 
-## A 15 Ω resistor
+A 15 Ω resistor
 
-## a The lamp lights
+a The lamp lights
 
-## but the ammeter needle
+but the ammeter needle
 
 moves the wrong way.
 
-## What change should be
+# What change should be
 
 circuit 2 made so that the ammeter works correctly?
 
@@ -40638,23 +40638,23 @@ using correct circuit symbols.
 
 P and Q.
 
-### d (i) Name the instrument that would be
+d (i) Name the instrument that would be
 
 needed to measure the potential difference
 
-## Series Parallel
+# Series Parallel
 
 ) across the 15 Ω resistor.
 
-### circuit 1 (ii) Using the correct symbol
+circuit 1 (ii) Using the correct symbol
 
-## add this
+add this
 
 circuit 2 [1] instrument to your circuit diagram in c
 
 a position to measure the p.
 
-## across the
+across the
 
 b The resistors P and Q are used as small 15 Ω resistor.
 
@@ -40668,13 +40668,13 @@ connecting them as shown in circuit 2.
 
 c In circuit 1, the ammeter reads 1.
 
-### 2 A Calculate the current in the resistor.
+2 A Calculate the current in the resistor.
 
 when the switch is closed.
 
 Calculate the f Without any further calculation
 
-## state the
+state the
 
 reading of the voltmeter in this circuit.
 
@@ -40698,85 +40698,85 @@ ammeter 1 reads 5 A and ammeter 2 reads 2 A.
 
 two 15 Ω resistors in parallel?
 
-## 30 Ω, 15 Ω, 7.5 Ω or zero?
+30 Ω, 15 Ω, 7.5 Ω or zero?
 
 9781444176421_BM_06.
 
 indd 272 20/06/14 7:30 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
-## (ii) State what effect
+(ii) State what effect
 
-## if any
+if any
 
-## adding this extra
+adding this extra
 
-## thumb
+thumb
 
 resistor has on the current in the lamp.
 
-## first finger
+first finger
 
-## motion/force
+motion/force
 
 [Total: 12]
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q12
 
-## November 2006)
+November 2006)
 
-## Electromagnetic effects
+# Electromagnetic effects
 
 53 Alternating current electricity is delivered at
 
-### 22 000 V to a pair of transmission lines. The
+22 000 V to a pair of transmission lines. The
 
 transmission lines carry the electricity to the
 
-## customer at the receiving end
+customer at the receiving end
 
-### where the potential second finger
+where the potential second finger
 
 difference is V.
 
 This is shown in the diagram.
 
-## Each
+# Each
 
 transmission line has a resistance of 3 Ω.
 
-## In
+In
 
-## ch
+ch
 
-## ir e
+ir e
 
-## io
+io
 
-## e o
+e o
 
-## l a
+l a
 
-## ll
+ll
 
-## fo
+fo
 
-## i t
+i t
 
 o u.
 
-### the name of the quantity that direction
+the name of the quantity that direction
 
 represents.
 
 a The a.
 
-### generator actually generates at a
+generator actually generates at a
 
 b The diagram below shows a simple d.
 
-## motor
+motor
 
 much lower voltage than 22 000 V.
 
@@ -40786,11 +40786,11 @@ connected to a battery and a switch.
 
 to 22 000 V.
 
-### (ii) State one advantage of delivering
+(ii) State one advantage of delivering
 
 electrical energy at high voltage.
 
-### b The power delivered by the generator
+b The power delivered by the generator
 
 is 55 kW.
 
@@ -40798,7 +40798,7 @@ Calculate the current in the transmission
 
 lines.
 
-## [2] X
+[2] X
 
 c Calculate the rate of loss of energy from
 
@@ -40806,11 +40806,11 @@ one of the 3 Ω transmission lines.
 
 d Calculate the voltage drop across one of
 
-## switch
+switch
 
 the transmission lines.
 
-## battery
+battery
 
 e Calculate the potential difference V at the
 
@@ -40820,17 +40820,17 @@ receiving end of the transmission lines.
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q10
 
-## November 2009)
+November 2009)
 
-### 54 a T he diagram illustrates the left-hand rule,
+54 a T he diagram illustrates the left-hand rule,
 
 which helps when describing the force on a
 
 current-carrying conductor in a magnetic field.
 
-## (i) On a copy of the diagram
+(i) On a copy of the diagram
 
-## write in each
+write in each
 
 of the boxes the name of the part of the
 
@@ -40844,7 +40844,7 @@ when viewed from the position X.
 
 (iii) State two things which could be done
 
-### to increase the speed of rotation of
+to increase the speed of rotation of
 
 the coil.
 
@@ -40856,19 +40856,19 @@ the coil.
 
 indd 273 20/06/14 7:31 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
-### 55 The diagram shows a transformer.
+55 The diagram shows a transformer.
 
-## 30 turns 300 turns
+30 turns 300 turns
 
-## 12 V a.c.
+12 V a.c.
 
-## voltmeter
+voltmeter
 
-### a (i) On a copy of the diagram
+a (i) On a copy of the diagram
 
-## clearly label the
+clearly label the
 
 core of the transformer.
 
@@ -40884,39 +40884,39 @@ b Calculate the reading on the voltmeter.
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q10
 
-## November 2009)
+November 2009)
 
-### 56 a An experimenter uses a length of wire
+56 a An experimenter uses a length of wire
 
-### ABC in an attempt to demonstrate
+# ABC in an attempt to demonstrate
 
 electromagnetic induction.
 
-## The wire is
+# The wire is
 
 connected to a sensitive millivoltmeter G as
 
 shown in the diagram.
 
-## A G
+# A G
 
 57 The diagram shows apparatus used to investigate
 
 electromagnetic effects around straight wires.
 
-## thin flexible T
+thin flexible T
 
-## wire thick rigid
+wire thick rigid
 
-## vertical wire
+vertical wire
 
-## large circular
+large circular
 
-## hole in card
+hole in card
 
-## small circular
+small circular
 
-## hole in card
+hole in card
 
 The diagram below is a view looking down on
 
@@ -40924,7 +40924,7 @@ the apparatus shown above.
 
 a A battery is connected to T and T so that
 
-## 1 2
+1 2
 
 there is a current vertically down the thick wire.
 
@@ -40932,31 +40932,31 @@ On a copy of the diagram of the view looking
 
 down, draw three magnetic field lines and
 
-## indicate
+indicate
 
-## with arrows
+with arrows
 
-## the direction of all
+the direction of all
 
 three.
 
 b Using a variable resistor, the p.
 
-## between
+between
 
 terminals T and T is gradually reduced.
 
-## State
+# State
 
-## 1 2
+1 2
 
-### Using the arrangement in the diagram
+# Using the arrangement in the diagram
 
-## the effect
+the effect
 
-## if any
+if any
 
-## that this will have on
+that this will have on
 
 the experimenter finds that she does not (i) the strength of the magnetic field
 
@@ -40968,11 +40968,11 @@ magnetic field.
 
 and T , as well as to terminals T and T
 
-## 4 1 2
+4 1 2
 
 (i) Explain why there is no deflection that there is a current down both wires.
 
-## This
+# This
 
 shown on G.
 
@@ -40996,25 +40996,25 @@ electromagnetic induction.
 
 indd 274 20/06/14 7:31 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 (iii) The battery is replaced by one that (i) On a copy of the diagram
 
-## draw the shape
+draw the shape
 
 delivers a smaller current.
 
-### State the effect of the magnetic field
+# State the effect of the magnetic field
 
-## both inside and
+both inside and
 
 that this will have on the force acting on outside the coil.
 
 the flexible wire.
 
-## [1] (ii) A glass bar
+[1] (ii) A glass bar
 
-## an iron bar and a Perspex bar
+an iron bar and a Perspex bar
 
 are placed in turn inside the coil.
 
@@ -41028,33 +41028,33 @@ shown below.
 
 The switch is then closed.
 
-### 58 The circuit in the diagram shows an
+58 The circuit in the diagram shows an
 
 electromagnetic relay being used to switch an
 
 electric motor on and off.
 
-## The relay coil has a
+# The relay coil has a
 
 much greater resistance than the potential divider.
 
-## pivoted iron
+pivoted iron
 
-## power supply
+power supply
 
-## armature
+armature
 
-## 6 V for motor
+6 V for motor
 
-## motor M
+motor M
 
-## switch
+switch
 
-## contacts
+contacts
 
 The iron rods move apart.
 
-## Suggest why this
+# Suggest why this
 
 relay core happens.
 
@@ -41062,15 +41062,15 @@ a The relay operates when there is a potential [Total
 
 difference of 3 V across the coil.
 
-## On a copy of
+# On a copy of
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q10
 
-## the diagram
+the diagram
 
-### mark the position of the slider
+mark the position of the slider
 
-## November 2007)
+November 2007)
 
 of the potential divider when the relay just
 
@@ -41080,7 +41080,7 @@ operates.
 
 b Describe how the relay closes the contacts in using a magnet
 
-### a solenoid and other necessary
+a solenoid and other necessary
 
 the motor circuit.
 
@@ -41102,7 +41102,7 @@ demonstrated.
 
 c Describe how you would use the apparatus to
 
-## a battery
+a battery
 
 a resistor and a switch as shown below.
 
@@ -41118,19 +41118,19 @@ in this experiment.
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q9
 
-## November 2007)
+November 2007)
 
-## 5 Atomic physics
+5 Atomic physics
 
 61 Here is a list of different types of radiation.
 
-## alpha (α)
+alpha (α)
 
-## beta (β)
+beta (β)
 
-## gamma (γ)
+gamma (γ)
 
-## infra-red
+infra-red
 
 radio,
 
@@ -41146,7 +41146,7 @@ not electromagnetic radiations.
 
 indd 275 20/06/14 7:31 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 b Which radiation is the most penetrating?
 
@@ -41170,29 +41170,29 @@ the same as 4He nuclei?
 
 (Cambridge IGCSE Physics 0625 Paper 21 Q5 November 2010)
 
-## November 2010)
+November 2010)
 
-### 63 A beam of ionising radiation, containing
+63 A beam of ionising radiation, containing
 
 62 Emissions from a radioactive source pass through α-particles
 
-## β-particles and γ-rays
+β-particles and γ-rays
 
-## is travelling
+is travelling
 
 a hole in a lead screen and into a magnetic field
 
 left to right across the page.
 
-## A magnetic field acts
+# A magnetic field acts
 
 as shown in the diagram.
 
 perpendicularly into the page.
 
-### a In a copy of the table below
+a In a copy of the table below
 
-## tick the boxes
+tick the boxes
 
 magnetic field that describe the deflection of each of
 
@@ -41200,45 +41200,45 @@ into paper the types of radiation as it passes through
 
 X X X X the magnetic field.
 
-## One row has been
+# One row has been
 
 completed to help you.
 
-## radioactive X X X X A
+radioactive X X X X A
 
-## source deflected deflected
+source deflected deflected
 
-### not towards towards large small
+not towards towards large small
 
-## X X X X
+# X X X X
 
 deflected top of bottom deflection deflection
 
-## page of page
+page of page
 
-## X X X X
+# X X X X
 
-## α-particles ✓ ✓
+α-particles ✓ ✓
 
-## lead X X X X
+lead X X X X
 
-## β-particles
+β-particles
 
-## screen
+screen
 
-## X X X X γ-rays
+X X X X γ-rays
 
-### b An electric field is now applied
+b An electric field is now applied
 
-## in the same
+in the same
 
-## 3 cm
+3 cm
 
 region as the magnetic field and at the same
 
 time as the magnetic field.
 
-### Radiation detectors are placed at A
+# Radiation detectors are placed at A
 
 B and C.
 
@@ -41250,7 +41250,7 @@ in order to cancel out the deflection of
 
 A B C the α-particles?
 
-### 32 counts/min 543 counts/min 396 counts/min
+32 counts/min 543 counts/min 396 counts/min
 
 [Total: 5]
 
@@ -41258,41 +41258,41 @@ The radioactive source is then completely (Cambridge IGCSE Physics 0625 Paper 31
 
 removed, and the readings become:
 
-### 64 a The table shows how the activity of a sample
+64 a The table shows how the activity of a sample
 
 A B C of a radioactive substance changes with time.
 
-### 33 counts/min 30 counts/min 31 counts/min
+33 counts/min 30 counts/min 31 counts/min
 
-### Time /minutes Activity /counts/s
+Time /minutes Activity /counts/s
 
 a Explain why there are still counts being recorded
 
-## 0 128
+0 128
 
 at A, B and C
 
-### even when the radioactive source
+even when the radioactive source
 
-## 30 58
+30 58
 
-## has been removed
+has been removed
 
-## and give the reason for them
+and give the reason for them
 
-## 60 25
+60 25
 
 being slightly different.
 
-## 90 11
+90 11
 
 b From the data given, deduce the type
 
-## 120 5
+120 5
 
-## of emission being detected
+of emission being detected
 
-## if any
+if any
 
 at A, at
 
@@ -41306,7 +41306,7 @@ half-life of the radioactive substance.
 
 indd 276 20/06/14 7:31 AM
 
-### Cambridge igCse exam questions
+# Cambridge igCse exam questions
 
 b The half-lives of various substances are given (i) State the proton number of the emitted
 
@@ -41320,9 +41320,9 @@ iodine-128 25 minutes particle.
 
 radon-222 3.
 
-### 8 days (iii) Name the emitted particle.
+8 days (iii) Name the emitted particle.
 
-## Choose from
+# Choose from
 
 strontium-90 28 years the following:
 
@@ -41330,15 +41330,15 @@ strontium-90 28 years the following:
 
 these four, which one is it?
 
-## β-particle
+β-particle
 
 (ii) A sample of each of these substances is
 
-## neutron
+neutron
 
 obtained.
 
-## Which sample will have the
+# Which sample will have the
 
 greatest proportion of decayed nuclei by proton [1]
 
@@ -41352,13 +41352,13 @@ the end of one year, and why?
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q12
 
-## November 2008)
+November 2008)
 
-## June 2008)
+June 2008)
 
 67 The diagram shows the paths of three α-particles
 
-### 65 a Chlorine has two isotopes, one of nucleon
+65 a Chlorine has two isotopes, one of nucleon
 
 moving towards a thin gold foil.
 
@@ -41366,25 +41366,25 @@ number 35 and one of nucleon number 37.
 
 The proton number of chlorine is 17.
 
-## gold foil
+gold foil
 
 The table refers to neutral atoms of chlorine.
 
 Copy and complete the table.
 
-## Nucleon Nucleon
+# Nucleon Nucleon
 
-## number 35 number 37
+number 35 number 37
 
-## number of protons B
+number of protons B
 
-## number of neutrons
+number of neutrons
 
-## number of electrons [3]
+number of electrons [3]
 
 b Some isotopes are radioactive.
 
-## State the three
+# State the three
 
 types of radiation that may be emitted from
 
@@ -41408,11 +41408,11 @@ Particle C is moving along a line which does not
 
 (Cambridge IGCSE Physics 0625 Paper 31 Q11 pass close to a gold nucleus.
 
-## June 2008)
+June 2008)
 
-## a On a copy of the diagram
+a On a copy of the diagram
 
-## complete the paths
+complete the paths
 
 of the α-particles A, B and C.
 
@@ -41422,9 +41422,9 @@ polonium can be represented by the symbol 218Po.
 
 b State how the results of such an experiment
 
-### using large numbers of α-particles
+using large numbers of α-particles
 
-## provides
+provides
 
 a State the proton number of this nuclide.
 
@@ -41448,43 +41448,43 @@ equation.
 
 indd 277 20/06/14 7:31 AM
 
-### CambRidge igCse exam questions
+# CambRidge igCse exam questions
 
 68 The activity of a sample of radioactive material b A potential difference is applied between P
 
 is determined every 10 minutes for an hour.
 
-## The and P
+# The and P
 
 with P positive with respect to P .
 
-## 3 1 3
+3 1 3
 
 results are shown in the table.
 
-### State what happens to the beam of
+# State what happens to the beam of
 
 cathode rays.
 
-## Time /
+Time /
 
 0 10 20 30 40 50 60 c The potential difference in b is removed.
 
-## minutes
+minutes
 
 Suggest how the beam of cathode rays can now
 
-## Activity /
+Activity /
 
 461 332 229 162 106 81 51 be deflected down the page towards Q.
 
-## counts/s
+counts/s
 
 d Cathode rays are invisible.
 
-## State one way to
+# State one way to
 
-### a From the figures in the table
+a From the figures in the table
 
 estimate the detect them.
 
@@ -41498,9 +41498,9 @@ another sample of the same material.
 
 At the (Cambridge IGCSE Physics 0625 Paper 02 Q12
 
-## start of the experiment
+start of the experiment
 
-### this sample has twice November 2007)
+this sample has twice November 2007)
 
 the number of atoms as the first sample.
 
@@ -41514,11 +41514,11 @@ experiment, [1] aluminium.
 
 each 0.
 
-## 5 mm thick.
+5 mm thick.
 
 experiment.
 
-## -particle source
+-particle source
 
 c Name one type of particle that the material might
 
@@ -41526,11 +41526,11 @@ be emitting in order to cause this activity.
 
 [Total: 4]
 
-## detector counter
+detector counter
 
 (Cambridge IGCSE Physics 0625 Paper 02 Q11 sheets of
 
-## November 2007) aluminium
+November 2007) aluminium
 
 69 A beam of cathode rays is travelling in a direction a Describe how the experiment is carried out
 
@@ -41538,11 +41538,11 @@ perpendicularly out of the page.
 
 The beam is stating the readings that should be taken.
 
-### surrounded by four metal plates P
+surrounded by four metal plates P
 
 P , P and P b State the results that you would expect to
 
-## 1 2 3 4
+1 2 3 4
 
 as shown in the diagram.
 
@@ -41554,7 +41554,7 @@ The beam is shown as the dot at the centre.
 
 (Cambridge IGCSE Physics 0625 Paper 03 Q11
 
-## November 2007)
+November 2007)
 
 a Cathode rays are produced by thermionic
 
@@ -41572,29 +41572,29 @@ M Reavtihsieomn aqtuicess ftoior npshysics
 
 USE THIS SECTION AS THE NEED ARISES Multiplying both sides by b as before
 
-## we get
+we get
 
-## a = b × x
+a = b × x
 
-## ●●Solving physics problems
+●●Solving physics problems
 
 Dividing both sides by x:
 
 When tackling physics problems using mathematical
 
-## a b × x b × x
+a b × x b × x
 
 equations it is suggested that you do not substitute = = = b
 
-## x x x
+x x x
 
 numerical values until you have obtained the
 
 expression in symbols which gives the answer.
 
-## ∴ b =
+∴ b =
 
-## That is
+# That is
 
 work in symbols until you have solved the x
 
@@ -41610,15 +41610,15 @@ First, it reduces the Can you show that
 
 chance of errors in the arithmetic (and in copying
 
-## 1 b
+1 b
 
 down).
 
-## Second
+# Second
 
 you write less since a symbol is = ?
 
-## x a
+x a
 
 usually a single letter whereas a numerical value is
 
@@ -41634,111 +41634,111 @@ next two sections and the questions that follow them Questions
 
 are intended to give you practice in doing this and
 
-## 1 What is the value of x if
+1 What is the value of x if
 
 then substituting numerical values to get the answer.
 
-## a 2x = 6 b 3x = 15 c 3x = 8
+a 2x = 6 b 3x = 15 c 3x = 8
 
-## x x 2x
+x x 2x
 
-## d =10 e = 4 f = 4
+d =10 e = 4 f = 4
 
-## ●●Equations – type 1 2 3 3
+●●Equations – type 1 2 3 3
 
-## 4 9 x 4
+4 9 x 4
 
-## g = 2 h =3 i =
+g = 2 h =3 i =
 
-## In the equation x = a/b
+In the equation x = a/b
 
 the subject is x.
 
-## To change it x x 6 3
+# To change it x x 6 3
 
 we multiply or divide both sides of the equation by 2 Change the subject to
 
-## a f in v = fλ b λ in v = fλ
+a f in v = fλ b λ in v = fλ
 
 the same quantity.
 
 To change the subject to a c I in V = IR d R in V = IR
 
-## We have m m
+# We have m m
 
-## e mind = f V in d =
+e mind = f V in d =
 
-## V V
+# V V
 
-## x =
+x =
 
-## b g s in v = s h t in v = s
+b g s in v = s h t in v = s
 
-## t t
+t t
 
-### If we multiply both sides by b
+# If we multiply both sides by b
 
 the equation will still 3 Change the subject to
 
-### a I2 in P = I2R b I in P = I2R
+a I2 in P = I2R b I in P = I2R
 
 be true.
 
-### a c a in s = 1at2 d t2 in s = 1at2
+a c a in s = 1at2 d t2 in s = 1at2
 
-## ∴ x ×b = ×b 2 2
+∴ x ×b = ×b 2 2
 
-### b e t in s = 1at2 f v in 1 mv2 = mgh
+b e t in s = 1at2 f v in 1 mv2 = mgh
 
-## 2 2
+2 2
 
-## ay ρl
+ay ρl
 
 The b’s on the right-hand side cancel g y in λ= h ρ in R =
 
-## D A
+# D A
 
 4 By replacing (substituting) fi nd the value of v = fλ if
 
 ∴ b × x = ×b = a a f = 5 and λ = 2 b f = 3.
 
-## 4 and λ = 10
+4 and λ = 10
 
 c f = 1/4 and λ = 8/3 d f = 3/5 and λ = 1/6
 
 e f = 100 and λ = 0.
 
-## 1 f f = 3 × 105 and λ = 103
+1 f f = 3 × 105 and λ = 103
 
-## and
+and
 
-### 5 By changing the subject and replacing fi nd
+5 By changing the subject and replacing fi nd
 
 a = b × x a f in v = fλ, if v = 3.
 
-## 0 × 108 and λ = 1.
+0 × 108 and λ = 1.
 
-## 5 × 103
+5 × 103
 
 b h in p = 10hd, if p = 105 and d = 103
 
 To change the subject to b c a in n = a/b
 
-## if n = 4/3 and b = 6
+if n = 4/3 and b = 6
 
 d b in n = a/b, if n = 1.
 
-## 5 and a = 3.
+5 and a = 3.
 
-## 0 × 108
+0 × 108
 
-## We have
+# We have
 
 e F in p = F/A if p = 100 and A = 0.
 
 a f s in v = s/t, if v = 1500 and t = 0.
 
-## x =
+x =
 
 227799
 
@@ -41746,7 +41746,7 @@ a f s in v = s/t, if v = 1500 and t = 0.
 
 indd 279 20/06/14 7:33 AM
 
-## mathematiCs FoR phYsiCs
+mathematiCs FoR phYsiCs
 
 ●●Equations – type 2 on.
 
@@ -41756,89 +41756,89 @@ each value of x and the corresponding value of y.
 
 To change the subject in the equation x = a + by we We say that y is directly proportional to x
 
-## or y
+or y
 
 add or subtract the same quantity from each side.
 
 varies directly as x.
 
-## In symbols
+# In symbols
 
 We may also have to divide or multiply as in type 1.
 
-## y ∝ x
+y ∝ x
 
 Suppose we wish to change the subject to y in Also
 
-## the ratio of one to the other
+the ratio of one to the other
 
 e.g. y to x
 
-## always the same
+always the same
 
 i.e. it has a constant value which in
 
-## x = a + by
+x = a + by
 
 this case is 2.
 
-## Hence
+# Hence
 
 Subtracting a from both sides,
 
-## = a constant = 2
+= a constant = 2
 
-## x − a = a + by − a = by x
+x − a = a + by − a = by x
 
 Dividing both sides by b,
 
-## The constant
+# The constant
 
-### called the constant of proportionality
+called the constant of proportionality
 
-### x −a by or constant of variation
+x −a by or constant of variation
 
-## is given a symbol
+is given a symbol
 
 e.g. k
 
-## = = y
+= = y
 
 b b and the relation (or law) between y and x is then
 
-## summed up by the equation
+summed up by the equation
 
-## x −a
+x −a
 
-## ∴ y =
+∴ y =
 
-## = k or y = kx
+= k or y = kx
 
-## Questions
+# Questions
 
-## Notes
+# Notes
 
-## 6 What is the value of x if
+6 What is the value of x if
 
 a x + 1 = 5 b 2x + 3 = 7 c x − 2 = 3 1 In practice
 
-### because of inevitable experimental
+because of inevitable experimental
 
-## x 1 x 1 errors
+x 1 x 1 errors
 
 the readings seldom show the relation so
 
-## d 2(x −3) =10 e − =0 f + =0
+d 2(x −3) =10 e − =0 f + =0
 
-## 2 3 3 4 clearly as here.
+2 3 3 4 clearly as here.
 
-## 5 x 3
+5 x 3
 
 g 2x + +6 h 7− =11 i +2 = 5 2 If instead of using numerical values for x and y we
 
-## 3 4 x
+3 4 x
 
-## use letters
+use letters
 
 e.g. x
 
@@ -41848,35 +41848,35 @@ and y , y
 
 y , etc.
 
-### 7 By changing the subject and replacing
+7 By changing the subject and replacing
 
-### fi nd the value of a 1 2 3 1 2 3
+fi nd the value of a 1 2 3 1 2 3
 
-### in v = u + at if then we can also say
+in v = u + at if then we can also say
 
 a v = 20, u = 10 and t = 2
 
 b v = 50, u = 20 and t = 0.
 
-## 5 y y y
+5 y y y
 
 c v = 5/0.
 
 2, u = 2/0.
 
-## 2 and t = 0.
+2 and t = 0.
 
-## 2 1 = 2 = 3 = .
+2 1 = 2 = 3 = .
 
-## x x x
+x x x
 
-### 8 Change the subject in v2 = u2 + 2as to a. 1 2 3
+8 Change the subject in v2 = u2 + 2as to a. 1 2 3
 
-## or
+or
 
 y = kx , y = kx , y = kx ,.
 
-## 1 1 2 2 3 3
+1 1 2 2 3 3
 
 ●●Proportion (or variation) b) Inverse proportion
 
@@ -41890,11 +41890,11 @@ in physics is fi nding the relation between two sets of
 
 measurements.
 
-## Table M2
+# Table M2
 
-### a) Direct proportion p 3 4 6 12
+a) Direct proportion p 3 4 6 12
 
-## V 4 3 2 1
+# V 4 3 2 1
 
 Suppose that in an experiment two sets of readings
 
@@ -41906,59 +41906,59 @@ There is again a one-to-one correspondence between
 
 each value of p and the corresponding value of V
 
-## when p is doubled
+when p is doubled
 
-## V is halved
+# V is halved
 
-## when p is trebled
+when p is trebled
 
-## Table M1
+# Table M1
 
-### has one-third its previous value
+has one-third its previous value
 
 and so on.
 
 x 1 2 3 4 We say that V is inversely proportional to p
 
-## or V
+or V
 
 y 2 4 6 8 varies inversely as p, i.e.
 
-## We see that when x is doubled
+# We see that when x is doubled
 
-## y doubles
+y doubles
 
-## when x is V ∝
+when x is V ∝
 
-## trebled
+trebled
 
-## y trebles
+y trebles
 
-## when x is halved
+when x is halved
 
-## y halves
+y halves
 
-## and so
+and so
 
 9781444176421_BM_06.
 
 indd 280 20/06/14 7:34 AM
 
-## 6y
+6y
 
-## graphs
+graphs
 
-## 40 1 2 3 4 x
+40 1 2 3 4 x
 
 Also, the product p × V is always the same (= 12 in
 
-## 2p
+2p
 
-## this case) and we write
+this case) and we write
 
-## V = k or pV = k 100 1 2 3 4 x
+V = k or pV = k 100 1 2 3 4 x
 
-## 8p
+8p
 
 where k is the constant of proportionality or variation
 
@@ -41968,47 +41968,47 @@ Using letters for values of p and V we can also say
 
 p 1 V 1 = p 2 V 2 = p 3 V 3 = .
 
-## = k 0 1 2 34 V
+= k 0 1 2 34 V
 
-## ●●Graphs Figure M2
+●●Graphs Figure M2
 
-## 100 1 2 34 V
+100 1 2 34 V
 
 Another useful way of finding the relation between
 
-## 8p
+8p
 
 two quantities is by a graph.
 
-## a) Straight line graphs 104
+a) Straight line graphs 104
 
 When the readings in Table M1 are used to plot
 
-## a graph of y against x
+a graph of y against x
 
 a continuous line joining 0 0.
 
-## 50 1.
+50 1.
 
-## 0 1/V
+0 1/V
 
 the points is a straight line passing through the
 
 origin as in Figure M1.
 
-## Such a graph shows there
+# Such a graph shows there
 
 is direct proportionality between the quantities 0 0.
 
-## 50 1.
+50 1.
 
-## 0 1/V
+0 1/V
 
 plotted, i.e. y ∝ x.
 
-### But note that the line must go
+# But note that the line must go
 
-## Figure M3
+# Figure M3
 
 through the origin.
 
@@ -42022,9 +42022,9 @@ against 1/V (Table M3) (or V against 1/p) we get a
 
 The slope or gradient of a straight line graph equals
 
-### straight line through the origin
+straight line through the origin
 
-## showing that p ∝ V
+showing that p ∝ V
 
 the constant of proportionality.
 
@@ -42032,49 +42032,49 @@ In Figure M1, the
 
 as in Figure M3 (or V ∝ 1/p).
 
-## slope is y/x = 2
+slope is y/x = 2
 
 in Figure M3 it is p/(1/V) = 12.
 
 In practice, points plotted from actual
 
-## Table M3
+# Table M3
 
 measurements may not lie exactly on a straight line
 
 p V 1/V due to experimental errors.
 
-## The ‘best straight line’ is
+The ‘best straight line’ is
 
-## 3 4 0.
+3 4 0.
 
 25 then drawn ‘through’ them so that they are equally
 
-## 4 3 0.
+4 3 0.
 
-## 33 distributed about it.
+33 distributed about it.
 
-### This automatically averages the
+# This automatically averages the
 
-## 6 2 0.
+6 2 0.
 
-## 50 results.
+50 results.
 
 Any points that are well off the line stand out
 
 and may be investigated further.
 
-## 12 1 1.00
+12 1 1.00
 
-## c) Variables
+c) Variables
 
-## As we have seen
+# As we have seen
 
-## graphs are used to show the
+graphs are used to show the
 
 relationship between two physical quantities.
 
-## In an
+# In an
 
 8 experiment to investigate how potential difference
 
@@ -42084,11 +42084,11 @@ I, a graph can be drawn of
 
 V/V values plotted against the values of I/A.
 
-## This
+# This
 
 will reveal how the potential difference depends upon
 
-### 2 the current (see Figure M4).
+2 the current (see Figure M4).
 
 In the experiment there are two variables.
 
@@ -42096,35 +42096,35 @@ In the experiment there are two variables.
 
 p upon the value for I.
 
-## So V is called the dependent
+# So V is called the dependent
 
-## Figure M1
+# Figure M1
 
 12 variable and I is called the independent variable.
 
-## 0 1 2 34 V
+0 1 2 34 V
 
 9781444176421_BM_06.
 
 indd 281 20/06/14 7:34 AM
 
-## 0 0.50 1.0 1/V
+0 0.50 1.0 1/V
 
 mmaatthheemmaattiiCCss FFooRR pphhYYssiiCCss
 
-## V/ V Questions
+V/ V Questions
 
 9 In an experiment different masses were hung from the end
 
 of a spring held in a stand and the extensions produced
 
-## 1 were as shown below.
+1 were as shown below.
 
-### Mass/g 100 150 200 300 350 500 600
+Mass/g 100 150 200 300 350 500 600
 
-### 0 Extension/cm 1.9 3.1 4.0 6.1 6.9 10.0 12.2
+0 Extension/cm 1.9 3.1 4.0 6.1 6.9 10.0 12.2
 
-## 0 0.1 0.2 0.3I/A
+0 0.1 0.2 0.3I/A
 
 a Plot a graph of extension along the vertical (y) axis
 
@@ -42132,7 +42132,7 @@ Figure M4 against mass along the horizontal (x) axis.
 
 b What is the relation between extension and mass?
 
-## Give
+# Give
 
 a reason for your answer.
 
@@ -42144,23 +42144,23 @@ Also note that there is a scale below.
 
 along each axis.
 
-## The statement V/V against I/A
+The statement V/V against I/A
 
 m 0.
 
-## 25 1.
+25 1.
 
-## 5 2.
+5 2.
 
-## 5 3.
+5 3.
 
-## means that V/V
+means that V/V
 
-## the dependent variable
+the dependent variable
 
-## is plotted
+is plotted
 
-## v 20 40 56 72
+v 20 40 56 72
 
 along the y-axis and the independent variable I is
 
@@ -42180,29 +42180,29 @@ c Use the graph to fi nd v when m = 1.
 
 times t (in seconds) are shown below.
 
-## y-axis
+y-axis
 
-## (dependent)
+(dependent)
 
-## s/m 0 2 8 18 32 50
+s/m 0 2 8 18 32 50
 
-## t/m 0 1 2 3 4 5
+t/m 0 1 2 3 4 5
 
-## Draw graphs of
+# Draw graphs of
 
 x-axis (independent) a s against t,
 
 b s against t2.
 
-## Figure M5
+# Figure M5
 
 What can you conclude?
 
-## d) Practical points
+d) Practical points
 
 (i) The axes should be labelled giving the quantities
 
-## being plotted and their units
+being plotted and their units
 
 e.g. I/A meaning
 
@@ -42214,21 +42214,21 @@ on the paper and the scales chosen so that the
 
 points are spread out along the graph.
 
-## It is good
+# It is good
 
 practice to draw a large graph.
 
 (iii) The scale should be easy to use.
 
-## A scale based on
+# A scale based on
 
 multiples of 10 or 5 is ideal.
 
-## Do not use a scale
+# Do not use a scale
 
-## based on a multiple of 3
+based on a multiple of 3
 
-## such scales are very
+such scales are very
 
 diffi cult to use.
 
@@ -42240,7 +42240,7 @@ diffi cult to use.
 
 indd 282 20/06/14 7:34 AM
 
-### Further experimental investigations
+# Further experimental investigations
 
 Stretching of a rubber band (i) Attach a protractor to the bench with Blu-tack.
 
@@ -42262,11 +42262,11 @@ band.
 
 Draw up a table in which to record stretching
 
-## toppling
+toppling
 
-### repeat your measurement several times
+repeat your measurement several times
 
-## force/N
+force/N
 
 scale reading/mm and total extension/mm.
 
@@ -42278,23 +42278,23 @@ Take readings for increasing loads on the hanger.
 
 Plot a graph with stretching force/N along the
 
-## carton
+carton
 
-### mark the centre of mass on the face and
+mark the centre of mass on the face and
 
 x-axis and extension/mm along the y-axis.
 
-## Draw
+# Draw
 
 measure the angle β between the long side and a
 
 the best straight line through your points
 
-## are your
+are your
 
-### diagonal as shown in Figure E1b
+diagonal as shown in Figure E1b
 
-## how do your
+how do your
 
 results consistent with Hooke’s law for all loads?
 
@@ -42304,13 +42304,13 @@ values for α and β compare?
 
 (iii) Repeat part (i) with the carton half full
 
-## a quarter
+a quarter
 
 could use coins (all similar) in a paper cup instead
 
 full and empty.
 
-### Draw up a table of your results as
+# Draw up a table of your results as
 
 this case the stretching force would be proportional
 
@@ -42326,17 +42326,17 @@ The stability of a body can be investigated using a 1.
 
 When the carton is tilted so that the centre of mass
 
-## moves outside the base
+moves outside the base
 
 the carton will topple over.
 
-## 0.5 (frozen)
+# 0.5 (frozen)
 
-## push here
+push here
 
-## J 1 litre carton
+# J 1 litre carton
 
-## ice or can
+ice or can
 
 Where is the centre of mass of an empty carton?
 
@@ -42344,41 +42344,41 @@ Plot a graph with volume/litres on the y-axis
 
 and α/° on the x-axis.
 
-## What angle of topple
+# What angle of topple
 
 would you expect if the carton was one third
 
 5060708090100110120130140150160170
 
-## ractor f
+ractor f
 
-## a s
+a s
 
-## f e
+f e
 
-## i n
+i n
 
-## st
+st
 
-## a b
+a b
 
-## th
+th
 
-## il
+il
 
-## it y
+it y
 
-## p o
+p o
 
-## i t
+i t
 
 (iv) Put a half-full carton in the freezer
 
-## when the
+when the
 
-### water is fully frozen repeat part (i)
+water is fully frozen repeat part (i)
 
-## add your
+add your
 
 results to the table.
 
@@ -42386,7 +42386,7 @@ Will the carton be more or less stable when the
 
 water has melted?
 
-## How are the centre of mass
+# How are the centre of mass
 
 and the angle of topple changed by freezing the
 
@@ -42396,9 +42396,9 @@ water?
 
 centre of and (ii).
 
-### Is the carton more or less stable than
+# Is the carton more or less stable than
 
-## mass
+mass
 
 when upright?
 
@@ -42408,13 +42408,13 @@ Summarise the factors that influence the stability of a
 
 bench body.
 
-## Cooling and evaporation
+# Cooling and evaporation
 
 For this experiment you will need two heat sensors
 
 connected to a datalogger and computer.
 
-## Use some
+# Use some
 
 Figure E1 cotton thread to tie a piece of tissue paper loosely
 
@@ -42422,7 +42422,7 @@ Figure E1 cotton thread to tie a piece of tissue paper loosely
 
 indd 283 20/06/14 7:34 AM
 
-### FuRtheR expeRimental investigations
+# FuRtheR expeRimental investigations
 
 over one of the heat sensors.
 
@@ -42434,15 +42434,15 @@ constant temperature.
 
 thermometers and a ‘team’ of students to help record
 
-## Experiment 1
+# Experiment 1
 
-## With the datalogger running
+# With the datalogger running
 
 temperatures manually every 15 seconds!
 
 remove the heat sensors from the water and quickly
 
-### Variation of the resistance of a wire
+# Variation of the resistance of a wire
 
 dry the sensor that is not covered by tissue paper.
 
@@ -42468,47 +42468,47 @@ Discuss the general shape of the cooling curves – Cut the following lengths (l
 
 when do the bulbs cool most rapidly?
 
-## How do the 20 cm
+# How do the 20 cm
 
-## 40 cm, 60 cm
+40 cm, 60 cm
 
-## 80 cm and 100 cm.
+80 cm and 100 cm.
 
-## Wind
+# Wind
 
 cooling curves differ for the ‘wet’ compared with the each wire into a coil
 
-## ensuring that adjacent turns
+ensuring that adjacent turns
 
 ‘dry’ heat sensor?
 
 Which sensor reaches the lower do not touch if the wire is not insulated.
 
-## Set up the
+# Set up the
 
 temperature – can you explain why?
 
 circuit shown in Figure 38.
 
-## 6 with the shortest coil
+6 with the shortest coil
 
-## Experiment 2
+# Experiment 2
 
 Repeat the first experiment but in position R.
 
-### (Set the rheostat near the midway
+(Set the rheostat near the midway
 
 this time hang the sensors in a draught to cool.
 
 An position.
 
-### ) Draw up a table in which to record l
+) Draw up a table in which to record l
 
 I, V
 
 artificial draught can be produced by an electric and R for each coil.
 
-## Determine R (= V/I) from your
+Determine R (= V/I) from your
 
 cooling fan.
 
@@ -42524,7 +42524,7 @@ Comment on how the Draw a graph with average R values on the y-axis
 
 rate of cooling and the lowest temperature reached and l values on the x-axis.
 
-## Is it consistent with the
+# Is it consistent with the
 
 have changed for each sensor and try to explain relation R = ρl ?
 
@@ -42534,7 +42534,7 @@ your results.
 
 Measure the diameter of the constantan wire with
 
-## From your findings
+# From your findings
 
 summarise the factors that a micrometer screw gauge and determine a value for
 
@@ -42548,7 +42548,7 @@ indd 284 20/06/14 7:34 AM
 
 R Peravcistiiocanl qteusets qtiuoensstions
 
-## 1 In this experiment
+1 In this experiment
 
 you are to investigate the (i) Measure the new lengths of each of the
 
@@ -42570,15 +42570,15 @@ extensions e .
 
 Show your working.
 
-## av
+av
 
-## d Theory suggests that
+d Theory suggests that
 
-## (e +e )
+(e +e )
 
-## a b = e
+a b = e
 
-## spring A spring B 2 av
+spring A spring B 2 av
 
 State whether your results support this theory
 
@@ -42590,7 +42590,7 @@ e Describe briefly one precaution that you took
 
 Figure P1 to obtain accurate length measurements.
 
-## [Total 10]
+[Total 10]
 
 a (i) Measure the length l of spring A.
 
@@ -42598,15 +42598,15 @@ a (i) Measure the length l of spring A.
 
 (ii) On a copy of Figure P1 show clearly
 
-## June 2010)
+June 2010)
 
-### where you decided to start and end the
+where you decided to start and end the
 
 length measurement l .
 
-## 2 In this experiment
+2 In this experiment
 
-### you will investigate the effect
+you will investigate the effect
 
 (iii) Hang the 200 g mass on spring A.
 
@@ -42622,7 +42622,7 @@ The circuit has been set up for you.
 
 using the equation e = (l − l ).
 
-## A A
+# A A
 
 a Figure P3 shows the circuit without the
 
@@ -42642,41 +42642,41 @@ voltmeter as it is connected in the circuit.
 
 using the equation e = (l − l ).
 
-## B B
+# B B
 
 c Use the small length of wooden rod provided power
 
-## source
+source
 
 to hang the 400 g mass midway between the
 
 springs as shown in Figure P2.
 
-## A B
+# A B
 
-## sliding
+sliding
 
-## contact
+contact
 
-## spring A spring B C
+spring A spring B C
 
-## Figure P3
+# Figure P3
 
-## rod
+rod
 
 b (i) Switch on and place the sliding contact
 
-### C on the resistance wire at a distance
+# C on the resistance wire at a distance
 
-## 400 g mass l = 0.
+400 g mass l = 0.
 
-## 150 m from end A.
+150 m from end A.
 
-## Record the value
+# Record the value
 
 of l and the potential difference V across
 
-## Figure P2
+# Figure P2
 
 the lamp in the table.
 
@@ -42686,51 +42686,51 @@ Switch off.
 
 indd 285 20/06/14 7:35 AM
 
-## pRaCtiCal test questions
+pRaCtiCal test questions
 
 (ii) Repeat step (i) using the following a Record the room temperature θ.
 
-## values of l
+values of l
 
 b (i) Place the thermometer into the water
 
-## 350 m, 0.
+350 m, 0.
 
-## 550 m, 0.
+550 m, 0.
 
-## 750 m and 0.
+750 m and 0.
 
-## 950 m.
+950 m.
 
 as shown in Figure P4.
 
-## When the
+# When the
 
 Record all the values of l and V in a copy of temperature shown on the thermometer
 
 the table.
 
-## stops rising
+stops rising
 
-## record the temperature θ in a
+record the temperature θ in a
 
 copy of Table A at time t = 0 s.
 
-## l/m V/V V/ l
+l/m V/V V/ l
 
-### (ii) Remove the thermometer from the
+(ii) Remove the thermometer from the
 
-### beaker of water and immediately start
+beaker of water and immediately start
 
 the stopclock.
 
-## Record in Table A the
+# Record in Table A the
 
-### temperature shown on the thermometer
+temperature shown on the thermometer
 
 as it cools in the air.
 
-## Take readings at 30 s
+# Take readings at 30 s
 
 intervals from t = 30 s until you have a total
 
@@ -42740,41 +42740,41 @@ of seven values up to time t = 180 s.
 
 c (i) Set the stopclock back to zero.
 
-## With the
+# With the
 
 and record in the table the value of V/l.
 
-### thermometer still out of the beaker
+thermometer still out of the beaker
 
-## record
+record
 
 (iv) Complete the table by writing in the unit
 
-### in a copy of Table B the temperature θ
+in a copy of Table B the temperature θ
 
 for V/l.
 
 shown on the thermometer at time t = 0 s.
 
-### c A student suggests that the potential
+c A student suggests that the potential
 
 (ii) Replace the thermometer in the beaker
 
 difference V across the lamp is directly
 
-### of hot water as shown in Figure P4 and
+of hot water as shown in Figure P4 and
 
 proportional to the length l of resistance wire
 
 immediately start the stopclock.
 
-## Record
+# Record
 
 in the circuit.
 
-### State whether or not you agree
+# State whether or not you agree
 
-### in Table B the temperature shown by the
+in Table B the temperature shown by the
 
 with this suggestion and justify your answer by
 
@@ -42788,13 +42788,13 @@ d State one precaution that you would take
 
 in order to obtain accurate readings in this
 
-## Table A Table B
+# Table A Table B
 
 experiment.
 
-## t / θ / t / θ /
+t / θ / t / θ /
 
-## [Total 10]
+[Total 10]
 
 (Cambridge IGCSE Physics 0625 Paper 51 Q3 June 2010)
 
@@ -42812,7 +42812,7 @@ both tables.
 
 e Estimate the time that would be taken in
 
-### part b for the thermometer to cool from
+part b for the thermometer to cool from
 
 thermometer the reading at time t = 0 s to room
 
@@ -42822,11 +42822,11 @@ f State in which table the rate of temperature
 
 change is the greater.
 
-## Justify your answer by
+# Justify your answer by
 
 reference to your readings.
 
-## lid
+lid
 
 g If this experiment were to be repeated in order
 
@@ -42836,7 +42836,7 @@ time, it would be important to control the
 
 conditions.
 
-## Suggest two such conditions
+# Suggest two such conditions
 
 hot water that should be controlled.
 
@@ -42844,29 +42844,29 @@ hot water that should be controlled.
 
 (Cambridge IGCSE Physics 0625 Paper 51 Q2
 
-## Figure P4 November 2010)
+Figure P4 November 2010)
 
 9781444176421_BM_06.
 
 indd 286 20/06/14 7:35 AM
 
-## practical test questions
+practical test questions
 
 4 In this experiment you will investigate reflection Push two pins P and P into the surface
 
-## 3 4
+3 4
 
 of light through a transparent block.
 
-### between your eye and the block
+between your eye and the block
 
-## so that P
+so that P
 
 Carry out the following instructions referring to P and the images of P and P
 
-## seen through
+seen through
 
-## 4 1 2
+4 1 2
 
 Figure P5.
 
@@ -42874,7 +42874,7 @@ the block, appear in line.
 
 Mark the positions of P , P , P and P .
 
-## 1 2 3 4
+1 2 3 4
 
 mirror Remove the block.
 
@@ -42886,61 +42886,61 @@ N as side AB.
 
 h Draw a line joining the positions of P and
 
-### Continue the line so that it crosses CD
+# Continue the line so that it crosses CD
 
 and extends as far as side AB.
 
-## Label the point
+# Label the point
 
 G where this line crosses the line from P
 
 and P .
 
-## E i Remove the pins
+# E i Remove the pins
 
-## block and mirror from the
+block and mirror from the
 
-## D P C
+# D P C
 
-### 1 ray trace sheet. Measure the acute angle θ
+1 ray trace sheet. Measure the acute angle θ
 
 between the lines meeting at G.
 
 j Calculate the difference (θ − 2i).
 
-### k Repeat steps c to j using an angle of
+k Repeat steps c to j using an angle of
 
 incidence i = 30°.
 
 l Theory suggests that θ = 2i.
 
-## State whether
+# State whether
 
 your result supports the theory and justify
 
 your answer by reference to your results.
 
-## P [5]
+P [5]
 
-## N’
+N’
 
 F [Total: 10]
 
-## eye
+eye
 
 (Cambridge IGCSE Physics 0625 Paper 51 Q4
 
-## Figure P5
+# Figure P5
 
-## November 2010)
+November 2010)
 
-## a Place the transparent block
+a Place the transparent block
 
-## largest face down
+largest face down
 
-## 5 In this experiment
+5 In this experiment
 
-## you are to make two sets of
+you are to make two sets of
 
 on the ray-trace sheet supplied.
 
@@ -42958,11 +42958,11 @@ b Remove the block and draw the normal Figure P6.
 
 NN′ to side CD so that the normal is 2.
 
-## 0 cm
+0 cm
 
 from D.
 
-## Label the point E where NN′
+Label the point E where NN′
 
 crosses CD.
 
@@ -42972,7 +42972,7 @@ i = 20° as shown in Figure P5.
 
 d Place the paper on the pinboard.
 
-## Stand the
+# Stand the
 
 plane mirror vertically and in contact with face h
 
@@ -42980,9 +42980,9 @@ AB of the block as shown in Figure P5.
 
 e Push two pins P and P into line EF.
 
-## Pin P
+# Pin P
 
-## 1 2 1
+1 2 1
 
 should be about 1 cm from the block and pin
 
@@ -42992,15 +42992,15 @@ f Replace the block and observe the images of
 
 P and P through side CD of the block from
 
-## 1 2
+1 2
 
 the direction indicated by the eye in Figure
 
 P5 so that the images of P and P appear one
 
-## 1 2
+1 2
 
-## Figure P6
+# Figure P6
 
 behind the other.
 
@@ -43008,7 +43008,7 @@ behind the other.
 
 indd 287 20/06/14 7:35 AM
 
-## pRaCtiCal test questions
+pRaCtiCal test questions
 
 Method 1 (ii) Calculate the density ρ of the glass
 
@@ -43018,17 +43018,17 @@ to measure the external diameter d of the
 
 test tube in cm.
 
-## ρ= 1
+ρ= 1
 
-## (V −V )
+(V −V )
 
 (ii) Draw a labelled diagram to show how you 3 1 [2]
 
-### used the blocks of wood and the rule to
+used the blocks of wood and the rule to
 
 find, as accurately as possible
 
-## a value for [Total
+a value for [Total
 
 the external diameter of the test tube.
 
@@ -43038,9 +43038,9 @@ the external diameter of the test tube.
 
 in cm.
 
-## 6 In this experiment
+6 In this experiment
 
-## you are to determine the
+you are to determine the
 
 (iv) Calculate the external volume V of the focal length of a converging lens.
 
@@ -43048,21 +43048,21 @@ test tube using the equation Carry out the following instructions referring to
 
 Figure P7.
 
-## πd2h
+πd2h
 
-## V e = 4 [3] illuminated
+V e = 4 [3] illuminated
 
-## object screen
+object screen
 
 b Use the balance provided to measure the mass u v
 
 m of the test tube.
 
-## [1] lens
+[1] lens
 
 c (i) Completely fill the test tube with water.
 
-### Pour the water into the measuring
+# Pour the water into the measuring
 
 cylinder and record the volume V of the Figure P7
 
@@ -43072,27 +43072,27 @@ water.
 
 the equation [1] u = 25.
 
-### 0 cm from the illuminated object.
+0 cm from the illuminated object.
 
 b In a copy of the table record the distance
 
 m u in cm from the centre of the lens to the
 
-## ρ = 1
+ρ = 1
 
-## (V −V ) illuminated object
+(V −V ) illuminated object
 
 as shown in Figure P7.
 
-## e i
+e i
 
 c Place the screen close to the lens.
 
-## Move the
+# Move the
 
 screen away from the lens until a focused
 
-## Method 2
+# Method 2
 
 image of the object is seen on the screen.
 
@@ -43102,7 +43102,7 @@ d Measure and record in your table the distance
 
 to about the 175 cm3 mark.
 
-## Record this
+# Record this
 
 v in cm from the centre of the lens to the
 
@@ -43114,13 +43114,13 @@ screen.
 
 end uppermost, into the measuring
 
-## u/cm v/cm f/cm
+u/cm v/cm f/cm
 
 cylinder so that it floats.
 
-## Record the new
+# Record the new
 
-### volume reading V from the measuring
+volume reading V from the measuring
 
 cylinder.
 
@@ -43128,27 +43128,27 @@ e Calculate and record in your table the focal
 
 (iii) Calculate the difference in volumes
 
-### length f of the lens using the equation
+length f of the lens using the equation
 
 (V − V ).
 
-## 2 1
+2 1
 
-## uv
+uv
 
 (iv) Calculate the mass m 2 of the test tube f =
 
-## (u +v)
+(u +v)
 
 using the equation m 2 = k(V 2 − V 1 ) where [5]
 
 k = 1.
 
-## 0 g/cm3.
+0 g/cm3.
 
 f Place the lens so that its centre is 45.
 
-## 0 cm
+0 cm
 
 e (i) Use the wooden rod to push the test tube
 
@@ -43168,11 +43168,11 @@ i State and briefly explain one precaution you took
 
 Remove the wooden rod.
 
-## Record the new
+# Record the new
 
 in order to obtain reliable measurements.
 
-### volume reading V from the measuring
+volume reading V from the measuring
 
 cylinder.
 
@@ -43184,9 +43184,9 @@ cylinder.
 
 indd 288 20/06/14 7:35 AM
 
-## practical test questions
+practical test questions
 
-## 7 In this experiment
+7 In this experiment
 
 you are to investigate the f Plot a graph of T/s (y-axis) against d/cm
 
@@ -43200,7 +43200,7 @@ P8 and Figure P9.
 
 T is directly proportional to d.
 
-## Justify your
+# Justify your
 
 The pendulum has been set up for you.
 
@@ -43214,17 +43214,17 @@ pendulum.
 
 (Cambridge IGCSE Physics 0625 Paper 51 Q1
 
-## November 2009)
+November 2009)
 
-### 8 In this experiment, you are to compare the
+8 In this experiment, you are to compare the
 
 combined resistance of lamps arranged in series
 
 and in parallel.
 
-### Carry out the following instructions
+# Carry out the following instructions
 
-## referring to
+referring to
 
 Figure P10 and Figure P11.
 
@@ -43232,19 +43232,19 @@ The circuit shown in Figure P10 has been set up
 
 for you.
 
-## power
+power
 
-## source
+source
 
-## bob
+bob
 
-## floor
+floor
 
-## one complete
+one complete
 
-## oscillation
+oscillation
 
-## Figure P8 Figure P9
+# Figure P8 Figure P9
 
 a Measure and record in a copy of the table
 
@@ -43256,7 +43256,7 @@ b Displace the pendulum bob slightly and
 
 release it so that it swings.
 
-## Measure and record
+# Measure and record
 
 in your table the time t for 20 complete
 
@@ -43268,17 +43268,17 @@ period is the time for one complete oscillation.
 
 Record the value of T in the table.
 
-## Figure P10
+# Figure P10
 
 d Without changing the position of the clamp
 
-## supporting the pendulum
+supporting the pendulum
 
-## adjust the length
+adjust the length
 
 a Switch on.
 
-### Measure and record in a copy of
+# Measure and record in a copy of
 
 until the vertical distance d from the floor to the
 
@@ -43296,63 +43296,63 @@ b Calculate the combined resistance R of the
 
 of d to the nearest 0.
 
-## 1 cm.
+1 cm.
 
 Repeat steps b and c.
 
-## two lamps using the equation
+two lamps using the equation
 
 e Repeat step d using d values of about 30 cm
 
-## 40 cm and 50 cm. V
+40 cm and 50 cm. V
 
-## R =
+R =
 
-## d/cm t/s T/s
+d/cm t/s T/s
 
 Record this value of R in your table.
 
-## V/ l/ R/
+V/ l/ R/
 
-## Figure P10
+# Figure P10
 
-## [4] Figure P11 [4]
+[4] Figure P11 [4]
 
 9781444176421_BM_06.
 
 indd 289 20/06/14 7:35 AM
 
-## pRaCtiCal test questions
+pRaCtiCal test questions
 
 c Complete the column headings in the table.
 
-## ammeter power
+ammeter power
 
 d Disconnect the lamps and the voltmeter.
 
-## source
+source
 
 up the circuit shown in Figure P11.
 
-## power
+power
 
-## source
+source
 
-## motor A
+motor A
 
-## motor B
+motor B
 
-## variable
+variable
 
-## resistor
+resistor
 
-## Figure P11
+# Figure P11
 
-## Figure P12a
+# Figure P12a
 
 e Switch on.
 
-### Measure and record in the table
+# Measure and record in the table
 
 the current I in the circuit and the p.
 
@@ -43362,15 +43362,15 @@ Switch off.
 
 f Calculate the combined resistance R of the
 
-## Figure P12b
+# Figure P12b
 
-## two lamps using the equation
+two lamps using the equation
 
 R = (ii) An engineer wishes to measure the voltage
 
 across motor A.
 
-### On a copy of Figure P12a mark with the
+# On a copy of Figure P12a mark with the
 
 Record this value of R in the table.
 
@@ -43382,17 +43382,17 @@ connect the voltmeter.
 
 and f, calculate the ratio y of the resistances
 
-### (iii) State the purpose of the variable
+(iii) State the purpose of the variable
 
-## using the equation
+using the equation
 
 resistor.
 
-## resistance of lamps in series
+resistance of lamps in series
 
 y = [3] [Total: 10]
 
-### resistance off lamps in parallel
+resistance off lamps in parallel
 
 (Cambridge IGCSE Physics 0625 Paper 51 Q3
 
@@ -43400,13 +43400,13 @@ h (i) Figure P12a shows a circuit including two November 2009)
 
 motors A and B.
 
-### Draw a diagram of the circuit using
+# Draw a diagram of the circuit using
 
 standard circuit symbols.
 
-## The circuit
+# The circuit
 
-### symbol for a motor is shown in Figure
+symbol for a motor is shown in Figure
 
 P12b.
 
@@ -43414,7 +43414,7 @@ P12b.
 
 indd 290 20/06/14 7:36 AM
 
-### Alternative to practical test questions
+# Alternative to practical test questions
 
 1 The IGCSE class is investigating the cooling (ii) Describe briefly how the graph line
 
@@ -43428,7 +43428,7 @@ shows this trend.
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q2 June 2010)
 
-## thermometer
+thermometer
 
 2 The IGCSE class is investigating the current in a
 
@@ -43438,25 +43438,25 @@ the circuit.
 
 The circuit is shown in Figure P14.
 
-## The circuit
+# The circuit
 
-## contains a resistor X
+contains a resistor X
 
-## and there is a gap in the
+and there is a gap in the
 
 circuit between points A and B that is used for
 
 adding extra resistors to the circuit.
 
-## hot water power source X
+hot water power source X
 
-## Figure P13
+# Figure P13
 
 Hot water is poured into the beaker and A B
 
 temperature readings are taken as the water
 
-## Figure P14
+# Figure P14
 
 cools.
 
@@ -43468,29 +43468,29 @@ switches on and measures the current I in the
 
 circuit.
 
-## t/s θ /°C
+t/s θ /°C
 
-### The reading is shown on the ammeter in
+# The reading is shown on the ammeter in
 
-## 0 85
+0 85
 
 Figure P15.
 
-### 30 78 Write down the ammeter reading. [1]
+30 78 Write down the ammeter reading. [1]
 
-## 60 74
+60 74
 
-## 90 71
+90 71
 
-## 120 69 0.4 0.6
+120 69 0.4 0.6
 
-## 0.2 0.8
+# 0.2 0.8
 
-## 150 67
+150 67
 
-## 0 A 1.0
+0 A 1.0
 
-## 300 63
+300 63
 
 a (i) Using the information in the table
 
@@ -43498,13 +43498,13 @@ calculate the temperature change T of the
 
 water in the first 150 s.
 
-## Figure P15
+# Figure P15
 
 (ii) Using the information in the table,
 
-### calculate the temperature change T of
+calculate the temperature change T of
 
-### 2 b The student connects a 3.3 Ω resistor
+2 b The student connects a 3.3 Ω resistor
 
 the water in the final 150 s.
 
@@ -43514,27 +43514,27 @@ b Plot a graph of θ/°C (y-axis) against t/s
 
 and records the current I.
 
-## He repeats the
+# He repeats the
 
 (x-axis) for the first 150 s.
 
 procedure with a 4.
 
-## 7 Ω resistor and then a
+7 Ω resistor and then a
 
 c During the experiment the rate of temperature
 
-## 6.8 Ω resistor.
+# 6.8 Ω resistor.
 
 change decreases.
 
 Finally he connects the 3.
 
-## 3 Ω resistor and the
+3 Ω resistor and the
 
 (i) Describe briefly how the results that you
 
-### 6.8 Ω resistor in series between points A and
+# 6.8 Ω resistor in series between points A and
 
 have calculated in part a show this trend.
 
@@ -43546,7 +43546,7 @@ B, and records the current I.
 
 indd 291 20/06/14 7:36 AM
 
-### alteRnative to pRaCtiCal test questions
+alteRnative to pRaCtiCal test questions
 
 (i) Complete the column headings in a copy a A student draws the outline of the transparent
 
@@ -43556,25 +43556,25 @@ of the table.
 
 draws the normal NN' to side CD.
 
-## He draws
+# He draws
 
 R/ I/ the incident ray EF at an angle of incidence
 
-### 3.3 0.23 i = 20°. He pushes two pins P and P into
+# 3.3 0.23 i = 20°. He pushes two pins P and P into
 
-## 1 2
+1 2
 
-## 7 0.
+7 0.
 
-### 21 line EF and places the block on the sheet of
+21 line EF and places the block on the sheet of
 
-## 8 0.
+8 0.
 
-## 18 paper.
+18 paper.
 
-### He then observes the images of P and
+# He then observes the images of P and
 
-### 0.15 P 2 through side CD of the block from the
+# 0.15 P 2 through side CD of the block from the
 
 direction indicated by the eye in Figure P16
 
@@ -43582,25 +43582,25 @@ direction indicated by the eye in Figure P16
 
 so that the images of P and P appear one
 
-### 3.3 Ω resistor and the 6.8 Ω resistor 1 2
+# 3.3 Ω resistor and the 6.8 Ω resistor 1 2
 
 behind the other.
 
-## He pushes two pins P and
+# He pushes two pins P and
 
 in series in the space in the resistance 3
 
-## P into the surface
+# P into the surface
 
-## between his eye and the
+between his eye and the
 
 column of the table.
 
-## [1] 4
+[1] 4
 
 block, so that P
 
-## P and the images of P and
+# P and the images of P and
 
 c Theory suggests that the current will be 3 4 1
 
@@ -43608,9 +43608,9 @@ P , seen through the block
 
 appear in line.
 
-### 0.5 I when the total resistance in the circuit 2
+# 0.5 I when the total resistance in the circuit 2
 
-### 0 (The plane mirror along side AB of the block
+0 (The plane mirror along side AB of the block
 
 is twice the value of the resistance of resistor
 
@@ -43618,19 +43618,19 @@ reflects the light.
 
 Use the readings in the table, and the
 
-### The positions of P and P are marked on
+# The positions of P and P are marked on
 
-## value of I from a
+value of I from a
 
-### to estimate the resistance 3 4
+to estimate the resistance 3 4
 
-## 0 Figure P16.
+0 Figure P16.
 
 of resistor X.
 
 (i) Make a copy of Figure P16.
 
-## On line
+# On line
 
 d On a copy of Figure P14 draw two resistors
 
@@ -43648,19 +43648,19 @@ potential difference across resistor X.
 
 CD and extends as far as side AB.
 
-## [Total
+[Total
 
 8] (iii) Draw a line joining the positions of P
 
 and P .
 
-## Continue the line so that it
+# Continue the line so that it
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q3 3
 
 crosses CD and extends as far as side AB.
 
-## November 2010)
+November 2010)
 
 Label the point G where this line crosses
 
@@ -43680,29 +43680,29 @@ Figure P16 shows a student’s ray-trace sheet.
 
 b The student repeats the procedure using an
 
-## mirror
+mirror
 
 angle of incidence i = 30° and records the
 
 value of θ as 62°.
 
-## A B
+# A B
 
 N (i) Calculate the difference (θ − 2i).
 
 (ii) Theory suggests that θ = 2i.
 
-## State
+# State
 
 transparent whether the results support the theory
 
-## block
+block
 
-### and justify your answer by reference to
+and justify your answer by reference to
 
 E the results.
 
-## D C
+# D C
 
 P 3 c To place the pins as accurately as possible
 
@@ -43710,9 +43710,9 @@ the student views the bases of the pins.
 
 Explain briefly why viewing the bases of
 
-## the pins
+the pins
 
-### rather than the tops of the pins
+rather than the tops of the pins
 
 improves the accuracy of the experiment.
 
@@ -43720,25 +43720,25 @@ P [Total: 10]
 
 N’ (Cambridge IGCSE Physics 0625 Paper 61 Q4
 
-## F eye
+# F eye
 
-## November 2010)
+November 2010)
 
-## sheet of
+sheet of
 
-## paper
+paper
 
-## Figure P16
+# Figure P16
 
 9781444176421_BM_06.
 
 indd 292 20/06/14 7:36 AM
 
-### alternative to practical test questions
+alternative to practical test questions
 
 4 An IGCSE student is investigating moments a (i) On Figure P18
 
-## measure the vertical
+measure the vertical
 
 using a simple balancing experiment.
 
@@ -43750,33 +43750,33 @@ the pendulum bob.
 
 First, the student balances the metre rule
 
-### (ii) Figure P18 is drawn one twentieth
+(ii) Figure P18 is drawn one twentieth
 
 without loads, on the pivot.
 
 He finds that it does actual size.
 
-## Calculate the actual distance
+# Calculate the actual distance
 
 not balance at the 50.
 
-## 0 cm mark
+0 cm mark
 
-## as he expects
+as he expects
 
-### x from the floor to the bottom of the
+x from the floor to the bottom of the
 
 but it balances at the 49.
 
-## 7 cm mark.
+7 cm mark.
 
 pendulum bob.
 
-## Enter this value in the
+# Enter this value in the
 
 Load Q is a metal cylinder with diameter a little top row of a copy of the table.
 
-### larger than the width of the metre rule
+larger than the width of the metre rule
 
 so that The students displace the pendulum
 
@@ -43786,51 +43786,51 @@ Load Q is bob slightly and release it so that it
 
 placed carefully on the balanced metre rule with swings.
 
-## They measure and record in
+# They measure and record in
 
 its centre at the 84.
 
-## 2 cm mark.
+2 cm mark.
 
 The rule does not the table the time t for 20 complete
 
 slip on the pivot.
 
-## oscillations of the pendulum
+oscillations of the pendulum
 
 (see Figure P19).
 
-## x/cm t/s T/s T 2/s2
+x/cm t/s T/s T 2/s2
 
 pivot bench 20.
 
-## 0 19.
+0 19.
 
-## 30.0 17.9
+# 30.0 17.9
 
-## Figure P17
+# Figure P17
 
-## 40.0 16.8
+# 40.0 16.8
 
 a Draw on a copy of Figure P17 the metre rule 50.
 
-## 0 15.
+0 15.
 
-## 5 [4]
+5 [4]
 
 with load Q on it.
 
-## b Explain
+b Explain
 
-## using a labelled diagram
+using a labelled diagram
 
-## how the
+how the
 
 student would ensure that the metre rule b (i) Copy the table and calculate the period T
 
 reading at the centre of Q is 84.
 
-## 2 cm.
+2 cm.
 
 [2] of the pendulum for each set of readings.
 
@@ -43844,7 +43844,7 @@ Enter the values in the table.
 
 (ii) Calculate the values of T 2.
 
-## Enter the T 2
+# Enter the T 2
 
 [Total: 5]
 
@@ -43854,15 +43854,15 @@ values in the table.
 
 of T 2/s2 (y-axis) against x/cm (x-axis).
 
-## Draw
+# Draw
 
-### 5 The IGCSE class is investigating the period of
+5 The IGCSE class is investigating the period of
 
 the best-fit line.
 
 oscillation of a simple pendulum.
 
-## Figure P18
+# Figure P18
 
 d State whether or not your graph shows that
 
@@ -43870,7 +43870,7 @@ shows the set-up.
 
 T 2 is directly proportional to x.
 
-## Justify your
+# Justify your
 
 statement by reference to the graph.
 
@@ -43878,27 +43878,27 @@ statement by reference to the graph.
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q1
 
-## November 2009)
+November 2009)
 
-## bob
+bob
 
-## floor
+floor
 
-## one complete
+one complete
 
-## oscillation
+oscillation
 
-## Figure P18 Figure P19
+# Figure P18 Figure P19
 
 9781444176421_BM_06.
 
 indd 293 20/06/14 7:36 AM
 
-### alteRnative to pRaCtiCal test questions
+alteRnative to pRaCtiCal test questions
 
-### 6 An IGCSE student is carrying out an optics
+6 An IGCSE student is carrying out an optics
 
-## A B
+# A B
 
 experiment.
 
@@ -43910,7 +43910,7 @@ a Copy and complete Figure P20 to show the Figure P22
 
 apparatus you would use.
 
-## Include a metre rule A B
+# Include a metre rule A B
 
 to measure the distances between the object and
 
@@ -43918,27 +43918,27 @@ the lens and between the lens and the screen.
 
 The illuminated object is drawn for you.
 
-## [3] Circuit 3
+[3] Circuit 3
 
-## Figure P23
+# Figure P23
 
-## illuminated A B
+illuminated A B
 
-## object
+object
 
-## Circuit 4
+# Circuit 4
 
-## lamp
+lamp
 
-## Figure P24
+# Figure P24
 
-## card
+card
 
-### The voltage and current readings are
+# The voltage and current readings are
 
 Figure P20 shown in the table.
 
-## Circuit V/ I/ R/
+Circuit V/ I/ R/
 
 b State two precautions that you would take to
 
@@ -43946,23 +43946,23 @@ obtain accurate results in this experiment.
 
 [2] 1 1.
 
-## 87 1.
+87 1.
 
-## 2 1.84 0.84
+2 1.84 0.84
 
 [Total: 5]
 
-## 3 1.87 0.37
+3 1.87 0.37
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q5
 
 November 2009) 4 1.
 
-## 91 0.
+91 0.
 
 (i) Copy and complete the column headings
 
-### 7 The IGCSE class is comparing the combined
+7 The IGCSE class is comparing the combined
 
 for each of the V, I and R columns of
 
@@ -43972,27 +43972,27 @@ the table.
 
 The first circuit is shown in Figure P21.
 
-## (ii) For each circuit
+(ii) For each circuit
 
-## calculate the combined
+calculate the combined
 
 resistance R of the three resistors using
 
-## power
+power
 
-## source the equation
+source the equation
 
-## R =
+R =
 
-## V A
+# V A
 
 Record these values of R in your table.
 
-## A B
+# A B
 
-## b Theory suggests that
+b Theory suggests that
 
-## if all three resistors
+if all three resistors
 
 have the same resistance under all conditions
 
@@ -44002,7 +44002,7 @@ be one half of the combined resistance in
 
 circuit 2.
 
-## Figure P21
+# Figure P21
 
 (i) State whether, within the limits of
 
@@ -44010,7 +44010,7 @@ experimental accuracy, your results
 
 support this theory.
 
-## Justify your answer by
+# Justify your answer by
 
 a The current I in the circuit and the p.
 
@@ -44022,7 +44022,7 @@ recorded.
 
 Three more circuit arrangements (ii) Suggest one precaution you could
 
-### take to ensure that the readings are as
+take to ensure that the readings are as
 
 are used.
 
@@ -44032,7 +44032,7 @@ accurate as possible.
 
 disconnects the resistors and then reconnects
 
-### them between points A and B as shown in
+them between points A and B as shown in
 
 [Total: 6]
 
@@ -44040,23 +44040,23 @@ Figures P22–24.
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q2
 
-## June 2008)
+June 2008)
 
 9781444176421_BM_06.
 
 indd 294 20/06/14 7:36 AM
 
-### alternative to practical test questions
+alternative to practical test questions
 
 8 The IGCSE class is investigating the change in 9 a The table shows some measurements taken by
 
 temperature of hot water as cold water is added three IGCSE students.
 
-## The second column
+# The second column
 
 to the hot water.
 
-### shows the values recorded by the three
+shows the values recorded by the three
 
 A student measures and records the temperature students.
 
@@ -44070,67 +44070,67 @@ The first one is done for you.
 
 He then pours 20 cm3 of the cold water into the
 
-### Quantity measured Recorded values
+# Quantity measured Recorded values
 
 beaker containing the hot water.
 
-## He measures
+# He measures
 
 and records the temperature θ of the mixture of 0.
 
-## 112 kg
+112 kg
 
 The mass of a wooden metre rule 1.
 
-## 12 kg
+12 kg
 
 hot and cold water.
 
-## 11.2 kg
+# 11.2 kg
 
 He repeats this procedure four times until he has
 
-## 0.7 N
+# 0.7 N
 
 added a total of 100 cm3 of cold water.
 
 The weight of an empty 250 cm3 glass 7.
 
-## beaker
+beaker
 
 The temperature readings are shown in the table.
 
-## 70 N
+70 N
 
 V is the volume of cold water added.
 
-## 6 cm3
+6 cm3
 
 The volume of one sheet of this paper 6.
 
-## 0 cm3
+0 cm3
 
-## V/ θ / 60 cm3
+V/ θ / 60 cm3
 
-### 0 82 The time taken for one swing of a simple 0.
+0 82 The time taken for one swing of a simple 0.
 
-## 14 s
+14 s
 
-## 1.4 s
+# 1.4 s
 
-## 68 pendulum of length 0.5 m
+68 pendulum of length 0.5 m
 
-## 14 s
+14 s
 
-## 0.4 N/cm2
+# 0.4 N/cm2
 
-### The pressure exerted on the ground by a
+# The pressure exerted on the ground by a
 
-## 50 4.0 N/cm2
+50 4.0 N/cm2
 
-## student standing on one foot
+student standing on one foot
 
-## 40 N/cm2 [4]
+40 N/cm2 [4]
 
 b (i) A student is to find the value of the
 
@@ -44138,15 +44138,15 @@ a (i) Copy and complete the column headings in resistance of a wire by experimen
 
 the table.
 
-### Potential difference V and current
+# Potential difference V and current
 
 (ii) Enter the values for the volume of cold I can be recorded.
 
-## The resistance is
+# The resistance is
 
 water added.
 
-### [2] then calculated using the equation
+[2] then calculated using the equation
 
 b Use the data in the table to plot a graph of
 
@@ -44154,7 +44154,7 @@ temperature (y-axis) against volume (x-axis).
 
 Draw the best-fit curve.
 
-## c During this experiment
+c During this experiment
 
 some heat is lost from The student knows that an increase in
 
@@ -44162,33 +44162,33 @@ the hot water to the surroundings.
 
 Also, each temperature will affect the resistance of
 
-## time the cold water is added
+time the cold water is added
 
 it is added in the wire.
 
 quite large volumes and at random times.
 
-### Assuming that variations in room
+# Assuming that variations in room
 
 Suggest two improvements you could make to temperature will not have a significant
 
 the procedure to give a graph that more accurately effect
 
-## suggest two ways by which the
+suggest two ways by which the
 
 shows the pattern of temperature change of the student could minimise temperature
 
-## hot water
+hot water
 
 due to addition of cold water alone.
 
-## [2] increases in the wire
+[2] increases in the wire
 
 during the experiment.
 
 [Total: 8]
 
-### (ii) Name the circuit component that
+(ii) Name the circuit component that
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q3 the student could use to control
 
@@ -44198,17 +44198,17 @@ November 2008) the current.
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q5
 
-## November 2008)
+November 2008)
 
 9781444176421_BM_06.
 
 indd 295 20/06/14 7:37 AM
 
-### alteRnative to pRaCtiCal test questions
+alteRnative to pRaCtiCal test questions
 
 10 The IGCSE class is investigating the resistance of c Following this experiment
 
-## the student wishes
+the student wishes
 
 a wire.
 
@@ -44216,17 +44216,17 @@ The circuit is as shown in Figure P25.
 
 to investigate whether two lamps in parallel
 
-### with each other have a smaller combined
+with each other have a smaller combined
 
-## power
+power
 
 resistance than the two lamps in series.
 
-## Draw
+# Draw
 
-## source
+source
 
-## one circuit diagram showing
+one circuit diagram showing
 
 (i) two lamps in parallel with each other
 
@@ -44240,19 +44240,19 @@ A B in the circuit,
 
 difference across the two lamps.
 
-## C D
+# C D
 
 V [Total: 8]
 
 Figure P25 (Cambridge IGCSE Physics 0625 Paper 61 Q3
 
-## June 2007)
+June 2007)
 
 a A student uses the switches to connect the
 
 wire AB into the circuit and records the p.
 
-### 11 a An IGCSE student is investigating the
+11 a An IGCSE student is investigating the
 
 V across the wire between A and B.
 
@@ -44262,99 +44262,99 @@ records the current I in the wire.
 
 different rocks.
 
-## She is using an electronic
+# She is using an electronic
 
 The student then repeats the measurements balance to measure the mass of each sample
 
 using the wire CD in place of wire AB.
 
-### and using the ‘displacement method’ to
+and using the ‘displacement method’ to
 
 The readings are shown in the table.
 
 determine the volume of each sample.
 
-## Figure
+# Figure
 
 P26 shows the displacement method.
 
-## Wire V/ I/ R/
+Wire V/ I/ R/
 
-## cm3 cm3
+cm3 cm3
 
 AB 1.
 
-## 9 0.
+9 0.
 
 CD 1.
 
-## 9 0.
+9 0.
 
-## 96 [3]
+96 [3]
 
-## 100 100
+100 100
 
 (i) Calculate the resistance R of each wire
 
-## 80 80
+80 80
 
 using the equation R = V/I.
 
-## 60 60
+60 60
 
 Record the values in a copy of the table.
 
-## 40 40 rock sample
+40 40 rock sample
 
 (ii) Complete the column headings in your
 
 table.
 
-## 20 20
+20 20
 
 b The two wires AB and CD are made of the same
 
 material and are of the same length.
 
-## The diameter V 1 V 2
+# The diameter V 1 V 2
 
 of wire CD is twice the diameter of wire AB.
 
-## Figure P26
+# Figure P26
 
 (i) Look at the results in the table.
 
-## Below
+# Below
 
-### are four possible relationships between
+are four possible relationships between
 
-### (i) Write down the volume shown in each
+(i) Write down the volume shown in each
 
 R and the diameter d of the wire.
 
-## Which
+# Which
 
 measuring cylinder.
 
 relationship best matches the results?
 
-### (ii) Calculate the volume V of the rock
+(ii) Calculate the volume V of the rock
 
 R is proportional to d sample.
 
 (iii) Calculate the density of sample A using
 
-## R is proportional to 1/d
+R is proportional to 1/d
 
-## the equation
+the equation
 
-## R is proportional to d2
+# R is proportional to d2
 
-### R is proportional to 1/d2 density =
+R is proportional to 1/d2 density =
 
 (ii) Explain briefly how the results support
 
-### where the mass m of the sample of
+where the mass m of the sample of
 
 your answer in part b(i).
 
@@ -44364,15 +44364,15 @@ rock is 109 g.
 
 indd 296 20/06/14 7:37 AM
 
-### alternative to practical test questions
+alternative to practical test questions
 
 b The table shows the readings that the student
 
 obtains for samples of rocks B and C.
 
-## Copy
+# Copy
 
-## and complete the table by
+and complete the table by
 
 (i) inserting the appropriate column headings
 
@@ -44380,15 +44380,15 @@ with units,
 
 (ii) calculating the densities using the
 
-## equation
+equation
 
-## density =
+density =
 
-## Sample m/g V/ Density/
+Sample m/g V/ Density/
 
-## B 193 84 50 34
+# B 193 84 50 34
 
-## C 130 93 50 43 [4]
+C 130 93 50 43 [4]
 
 c Explain briefly how you would determine the
 
@@ -44398,23 +44398,23 @@ density of sand grains.
 
 (Cambridge IGCSE Physics 0625 Paper 61 Q5
 
-## November 2007)
+November 2007)
 
 9781444176421_BM_06.
 
 indd 297 20/06/14 7:37 AM
 
-### This page intentionally left blank
+# This page intentionally left blank
 
-## Answers
+# Answers
 
 Higher level questions are marked with *.
 
-## The questions
+# The questions
 
-## example answers
+example answers
 
-## marks awarded and/or comments
+marks awarded and/or comments
 
 that appear in this book were written by the authors.
 
@@ -44426,255 +44426,255 @@ Cambridge International Examinations bears no responsibility for the
 
 example answers to questions taken from its past question papers which are contained in this publication.
 
-## General physics 2 Speed
+# General physics 2 Speed
 
-## velocity and c OA 40 km
+velocity and c OA 40 km
 
-## AB 160 km
+# AB 160 km
 
 acceleration BC (5 + 40) = 45 km;
 
-## Measurements and motion
+# Measurements and motion
 
-### 1 a 20 m/s CD 100 km; DE 25 km
+1 a 20 m/s CD 100 km; DE 25 km
 
-### 1 Measurements b 6.25 m/s d 370 km
+1 Measurements b 6.25 m/s d 370 km
 
-## 1 a 10 2 a 15 m/s e 74 km/h
+1 a 10 2 a 15 m/s e 74 km/h
 
-### b 40 b 900 m 5 a Uniform velocity
+b 40 b 900 m 5 a Uniform velocity
 
-## c 5 3 2 m/s2 b 600 m
+c 5 3 2 m/s2 b 600 m
 
-## d 67 4 50 s c 20 m/s
+d 67 4 50 s c 20 m/s
 
-## e 1000 5 a 6 m/s
+e 1000 5 a 6 m/s
 
-### 2 a 3.00 b 14 m/s 4 Falling bodies
+2 a 3.00 b 14 m/s 4 Falling bodies
 
 b 5.
 
-## 50 6 4 s 1 a (i) 10 m/s
+50 6 4 s 1 a (i) 10 m/s
 
 c 8.
 
-### 70 7 a Uniform acceleration (ii) 20 m/s
+70 7 a Uniform acceleration (ii) 20 m/s
 
 d 0.
 
-## 43 b 75 cm/s2 (iii) 30 m/s
+43 b 75 cm/s2 (iii) 30 m/s
 
 e 0.
 
-## 1 8 a 1 s (iv) 50 m/s
+1 8 a 1 s (iv) 50 m/s
 
-## 3 a 1.
+3 a 1.
 
-## 0 × 105; 3.
+0 × 105; 3.
 
-### 5 × 103; b (i) 10 cm/tentick2 b (i) 5 m
+5 × 103; b (i) 10 cm/tentick2 b (i) 5 m
 
-## 28 × 108; 5.
+28 × 108; 5.
 
-## 04 × 102
+04 × 102
 
-### (ii) 50 cm/s per tentick (ii) 20 m
+(ii) 50 cm/s per tentick (ii) 20 m
 
-### 2.7056 × 104 (iii) 250 cm/s2 (iii) 45 m
+# 2.7056 × 104 (iii) 250 cm/s2 (iii) 45 m
 
-## b 1000
+b 1000
 
-## 2 000 000
+2 000 000
 
-## 69 200
+69 200
 
-## c 0 (iv) 125 m
+c 0 (iv) 125 m
 
 134; 1 000 000 000 9 A 2 3 s; 45 m
 
-## 4 a 1 × 103; 7 × 105; 10 E
+4 a 1 × 103; 7 × 105; 10 E
 
-## 5 Density
+5 Density
 
-## 1 × 107; 5 × 105
+1 × 107; 5 × 105
 
-### 3 Graphs of equations 1 a (i) 0.5 g
+3 Graphs of equations 1 a (i) 0.5 g
 
 b 5 × 101; 8.
 
-## 4 × 102;
+4 × 102;
 
-## 1 a 60 km (ii) 1 g
+1 a 60 km (ii) 1 g
 
-## 3.6 × 104; 1.04 × 103
+# 3.6 × 104; 1.04 × 103
 
-## b 5 hours (iii) 5 g
+b 5 hours (iii) 5 g
 
-## 5 10 mm
+5 10 mm
 
-## c 12 km/h b (i) 10 g/cm3
+c 12 km/h b (i) 10 g/cm3
 
-## 6 a Two
+6 a Two
 
-## d 2 (ii) 3 kg/m3
+d 2 (ii) 3 kg/m3
 
-## b Three
+b Three
 
 e 11 hours c (i) 2.
 
-## 0 cm3
+0 cm3
 
-## c Four 2
+c Four 2
 
-## 1 (ii) 5.0 cm3
+1 (ii) 5.0 cm3
 
-## d Two f 60 km/3 2 h = 17 km/h
+d Two f 60 km/3 2 h = 17 km/h
 
-### 7 24 cm3 g Steepest line: EF 2 a 8.0 g/cm3
+7 24 cm3 g Steepest line: EF 2 a 8.0 g/cm3
 
-### 8 40 cm3; 5 2 a 100 m b 8.0 × 103 kg/m3
+8 40 cm3; 5 2 a 100 m b 8.0 × 103 kg/m3
 
-## 9 80 b 20 m/s 3 15 000 kg
+9 80 b 20 m/s 3 15 000 kg
 
-### 10 a 250 cm3 c Slows down 4 130 kg
+10 a 250 cm3 c Slows down 4 130 kg
 
 b 72 cm3 3 a 5 m/s2 5 1.
 
-## 1 g/cm3
+1 g/cm3
 
-## 11 a 53.
+11 a 53.
 
-### 3 mm 4 6 Density of ice is less than density
+3 mm 4 6 Density of ice is less than density
 
-## b (i) 10 m
+b (i) 10 m
 
 b 95.
 
-## 8 mm of water
+8 mm of water
 
-## (ii) 45 m
+(ii) 45 m
 
-## 12 a 2.31 mm
+12 a 2.31 mm
 
-## c 22 s
+c 22 s
 
 b 14.
 
-## 97 mm Forces and momentum
+97 mm Forces and momentum
 
-## 4 a (i) OA, BC: accelerating;
+4 a (i) OA, BC: accelerating;
 
-## 13 a Metre, kilogram,
+13 a Metre, kilogram,
 
-## (ii) DE
+(ii) DE
 
-## decelerating
+decelerating
 
-## 6 Weight and stretching
+6 Weight and stretching
 
-## second
+second
 
 (iii) AB, CD: uniform velocity 1 a 1 N
 
-## b Different number of
+b Different number of
 
 b OA: a = +80 km/h2; b 50 N
 
-## significant figures
+significant figures
 
 AB: v = 80 km/h; c 0.
 
-## 50 N
+50 N
 
-## c (i) πr2
+c (i) πr2
 
 BC: a = +40 km/h2; 2 a 120 N
 
-## (ii) 4πr3
+(ii) 4πr3
 
-## 3 CD: v = 100 km/h; b 20 N
+3 CD: v = 100 km/h; b 20 N
 
-## (iii) πr2h DE
+(iii) πr2h DE
 
-## a = 200 km/h2 3 a 2000 N/m
+a = 200 km/h2 3 a 2000 N/m
 
-## b 50 N/m
+b 50 N/m
 
-## 4 A
+4 A
 
 9781444176421_ANSWER_07.
 
 indd 299 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 7 Adding forces 11 Centres of mass 14 Kinetic and potential energy
 
-## 1 40 N 1 a B 1 a 2 J
+1 40 N 1 a B 1 a 2 J
 
-## 2 50 N b A b 160 J
+2 50 N b A b 160 J
 
-## 3 25 N c C c 100 000 = 105 J
+3 25 N c C c 100 000 = 105 J
 
 4 50 N at an angle of 53° to the 2 Tips to right 2 a 20 m/s
 
-## 30 N force b (i) 150 J
+30 N force b (i) 150 J
 
-### 5 a 7 N 12 Momentum (ii) 300 J
+5 a 7 N 12 Momentum (ii) 300 J
 
 b 13 N 1 a 50 kg m/s 3 a 1.
 
 b 2 kg m/s b 1.
 
-### 8 Force and acceleration c 100 kg m/s c 6 m/s
+8 Force and acceleration c 100 kg m/s c 6 m/s
 
-## 1 D 2 2 m/s d 1.25 J
+1 D 2 2 m/s d 1.25 J
 
-## 2 20 N 3 4 m/s e 5 m/s
+2 20 N 3 4 m/s e 5 m/s
 
-### 3 a 5000 N 4 0.5 m/s 4 3.5 × 109 W = 3500 MW
+3 a 5000 N 4 0.5 m/s 4 3.5 × 109 W = 3500 MW
 
 b 15 m/s2 5 2.
 
-## 5 m/s
+5 m/s
 
-### 4 a 4 m/s2 6 a 40 kg m/s 15 Energy sources
+4 a 4 m/s2 6 a 40 kg m/s 15 Energy sources
 
-## b 2 N b 80 kg m/s 1 a 2%
+b 2 N b 80 kg m/s 1 a 2%
 
-### 5 a 0.5 m/s2 c 20 kg m/s2 b Water
+5 a 0.5 m/s2 c 20 kg m/s2 b Water
 
 b 2.
 
-### 5 m/s d 20 N c Cannot be used up
+5 m/s d 20 N c Cannot be used up
 
 c 25 m 7 2.
 
-## 5 m/s d Solar, wind
+5 m/s d Solar, wind
 
-### 6 a 1000 N e All energy ends up as heat
+6 a 1000 N e All energy ends up as heat
 
-### b 160 N which is difficult to use and
+b 160 N which is difficult to use and
 
 Energy, work, power and
 
-### 7 a 5000 N there is only a limited supply
+7 a 5000 N there is only a limited supply
 
-## pressure
+pressure
 
-## b 20 000 N
+b 20 000 N
 
-### 40 m/s2 of non-renewable sources
+40 m/s2 of non-renewable sources
 
-### 8 a (i) Weight 13 Energy transfer 2 Renewable
+8 a (i) Weight 13 Energy transfer 2 Renewable
 
 non-polluting (i.e. no
 
 (ii) Air resistance 1 a Electrical to sound CO
 
-## SO or dangerous waste)
+SO or dangerous waste)
 
-## 2 2
+2 2
 
 b Falls at constant velocity b Sound to electrical low initial building cost of station
 
@@ -44686,39 +44686,39 @@ to house energy converters,
 
 d Electrical to light (and heat) low running costs
 
-## high energy
+high energy
 
 9 Circular motion e Chemical to electrical to light density
 
-## reliable
+reliable
 
-## allows output
+allows output
 
 1 Force is greater than string can and heat to be readily adjusted to varying
 
-## bear 2 A chemical
+bear 2 A chemical
 
-## B heat
+# B heat
 
-## C kinetic
+# C kinetic
 
-## D energy demands
+# D energy demands
 
-### 2 a Sideways friction between electrical
+2 a Sideways friction between electrical
 
 tyres and road 3 180 J 16 Pressure and liquid pressure
 
 b (i) Larger 4 1.
 
-## 5 × 105 J 1 a (i) 25 Pa
+5 × 105 J 1 a (i) 25 Pa
 
 (ii) Smaller 5 a 150 J (ii) 0.
 
-## 50 Pa
+50 Pa
 
-### (iii) Larger b 150 J (iii) 100 Pa
+(iii) Larger b 150 J (iii) 100 Pa
 
-### 3 Slicks allow greater speed in dry c 10 W b 30 N
+3 Slicks allow greater speed in dry c 10 W b 30 N
 
 conditions but in wet conditions 6 500 W 2 a 100 Pa
 
@@ -44728,169 +44728,169 @@ prevent skidding b Heat 3 a A liquid is nearly
 
 4 5000 s (83 min) c Warms surroundings incompressible
 
-### 8 a Electricity transferred to k.
+8 a Electricity transferred to k.
 
-### b A liquid transfers the pressure
+b A liquid transfers the pressure
 
-## and heat applied to it
+and heat applied to it
 
-## 10 Moments and levers
+10 Moments and levers
 
 b Electricity transferred 4 1 150 000 Pa (1.
 
-## 15 × 106 Pa)
+15 × 106 Pa)
 
-## 1 E
+1 E
 
-### to heat (ignoring air pressure)
+to heat (ignoring air pressure)
 
-## 2 (i) C
+2 (i) C
 
-### c Electricity transferred to 5 a Vacuum
+c Electricity transferred to 5 a Vacuum
 
-## (ii) A
+(ii) A
 
-## sound b Atmospheric pressure
+sound b Atmospheric pressure
 
-## (iii) B
+(iii) B
 
-## 9 3.5 kW c 740 mmHg
+9 3.5 kW c 740 mmHg
 
 d Becomes less; atmospheric
 
-## pressure lower
+pressure lower
 
 9781444176421_ANSWER_07.
 
 indd 300 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 6 E 22 Specific latent heat 2 a The Earth radiates energy
 
-### 7 B 1 a 3400 J back into space
+7 B 1 a 3400 J back into space
 
-### b 6800 J b Clouds reduce the amount
+b 6800 J b Clouds reduce the amount
 
 Thermal physics 2 a 5 × 340 + 5 × 4.
 
-### 2 × 50 of energy radiated into space,
+2 × 50 of energy radiated into space,
 
-### = 2750 J keeping the ground warmer
+= 2750 J keeping the ground warmer
 
-### Simple kinetic molecular b 1700 J
+# Simple kinetic molecular b 1700 J
 
 model of matter 3 680 s Properties of waves
 
-## 4 a 0 °C
+4 a 0 °C
 
-## 17 Molecules
+17 Molecules
 
-### b 45 g General wave properties
+b 45 g General wave properties
 
-## 1 B
+1 B
 
-## 5 a 9200 J
+5 a 9200 J
 
-### 2 a Air is readily compressed 25 Mechanical waves
+2 a Air is readily compressed 25 Mechanical waves
 
-## b 25 100 J
+b 25 100 J
 
-### b Steel is not easily 1 a 1 cm
+b Steel is not easily 1 a 1 cm
 
-## 6 157 g
+6 157 g
 
-## compressed b 1 Hz
+compressed b 1 Hz
 
-### 7 a Ice has a high specific latent
+7 a Ice has a high specific latent
 
-## c 1 cm/s
+c 1 cm/s
 
-## heat of fusion
+heat of fusion
 
-## 18 The gas laws 2 A, C
+18 The gas laws 2 A, C
 
-## b Water has a high specific
+b Water has a high specific
 
-### 1 a 15 cm3 3 a Speed of ripple depends on
+1 a 15 cm3 3 a Speed of ripple depends on
 
-## latent heat of vaporisation
+latent heat of vaporisation
 
-## b 6 cm3 depth of water
+b 6 cm3 depth of water
 
-## 8 Heat drawn from the water
+8 Heat drawn from the water
 
-### b AB since ripples travel more
+b AB since ripples travel more
 
 Thermal properties and when it evaporates
 
 slowly towards it, therefore
 
-### temperature 9 Heat drawn from the milk
+temperature 9 Heat drawn from the milk
 
-### water shallower in this direction
+water shallower in this direction
 
-## when the water evaporates
+when the water evaporates
 
-## 4 a Trough
+4 a Trough
 
-### 19 E xpansion of solids, liquids
+19 E xpansion of solids, liquids
 
-## 10 1200 J
+10 1200 J
 
 b (i) 3.
 
-## 0 mm
+0 mm
 
-## and gases
+and gases
 
-## (ii) 15 mm/s
+(ii) 15 mm/s
 
-## Thermal processes
+# Thermal processes
 
-## 2 Aluminium (iii) 5 Hz
+2 Aluminium (iii) 5 Hz
 
-## 3 B 23 Conduction and
+3 B 23 Conduction and
 
-## 4 A convection Light
+4 A convection Light
 
-## 1 a Newspaper is a poor
+1 a Newspaper is a poor
 
-## 26 Light rays
+26 Light rays
 
-### 20 Thermometers conductor of heat
+20 Thermometers conductor of heat
 
-### 1 a 1530 °C b The fur would trap more air
+1 a 1530 °C b The fur would trap more air
 
-## 1 Larger
+1 Larger
 
-## less bright
+less bright
 
-### b 19 °C which is a good insulator
+b 19 °C which is a good insulator
 
-## and 2 a Four images
+and 2 a Four images
 
 c 0 °C so keep wearer warmer b Brighter but blurred
 
 d 12 °C c Holes in a string vest trap air
 
-### e 37 °C which is a poor conductor
+e 37 °C which is a poor conductor
 
-## 4 Before
+4 Before
 
-## sound travels slower
+sound travels slower
 
-### 2 C next to the skin than light
+2 C next to the skin than light
 
 3 a Property must change 3 a If small amounts of hot
 
 continuously with temperature water are to be drawn 27 Reflection of light
 
-## b Volume of a liquid
+b Volume of a liquid
 
-## resistance
+resistance
 
-### off frequently it may not 1 a 40°
+off frequently it may not 1 a 40°
 
 c 40°, 50°, 50
 
@@ -44902,81 +44902,81 @@ c (i) Platinum resistance whole tank d Parallel
 
 (iii) Alcohol water are needed it will 3 Top half
 
-## be necessary to heat the
+be necessary to heat the
 
-### 21 Specific heat capacity 28 Plane mirrors
+21 Specific heat capacity 28 Plane mirrors
 
-## whole tank
+whole tank
 
-## 1 B
+1 B
 
-## 1 15 000 J
+1 15 000 J
 
-### 1500 J/°C 4 Metal is a better conductor of
+1500 J/°C 4 Metal is a better conductor of
 
-## 2 D
+2 D
 
-### 2 A = 2000 J/(kg °C); heat than rubber
+2 A = 2000 J/(kg °C); heat than rubber
 
-## 3 4 m towards mirror
+3 4 m towards mirror
 
 B = 200 J/(kg °C);
 
-## 4 B
+4 B
 
-## 24 Radiation
+24 Radiation
 
-## C = 1000 J/(kg °C)
+C = 1000 J/(kg °C)
 
-### 1 Black surfaces absorb radiation
+1 Black surfaces absorb radiation
 
-### 3 Specific heat capacity of jam is
+3 Specific heat capacity of jam is
 
-## 29 Refraction of light
+29 Refraction of light
 
-## better than white ones so the
+better than white ones so the
 
-### higher than that of pastry so it
+higher than that of pastry so it
 
-## 3 250 000 km/s
+3 250 000 km/s
 
-### ice on the black sections of the
+ice on the black sections of the
 
-## cools more slowly
+cools more slowly
 
-## 4 C
+4 C
 
-### canopy melts faster than on the
+canopy melts faster than on the
 
-## 6 E
+6 E
 
-## white sections
+white sections
 
-## 7 A
+7 A
 
 9781444176421_ANSWER_07.
 
 indd 301 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 30 Total internal reflection b 240/(3/4) = 320 m/s f Normal brightness
 
-### 1 a Angle of incidence = 0 c 320 m 5 a 6 V
+1 a Angle of incidence = 0 c 320 m 5 a 6 V
 
 b Angle of incidence > critical 3 a Reflection
 
-## refraction
+refraction
 
-## b 360 J
+b 360 J
 
-## angle diffraction
+angle diffraction
 
-## interference 6 x = 18
+interference 6 x = 18
 
 y = 2, z = 8
 
-## 3 Periscope
+3 Periscope
 
 binoculars b Vibrations are perpendicular
 
@@ -44984,209 +44984,209 @@ binoculars b Vibrations are perpendicular
 
 refracted away from the direction of travel of the wave
 
-## 1 3 Ω
+1 3 Ω
 
-## normal longitudinal 2 20 V
+normal longitudinal 2 20 V
 
 b Total internal reflection occurs 4 b (i) 1.
 
-## 0 m 3 C
+0 m 3 C
 
 in water (ii) 2.
 
-### 0 m 4 A = 3 V; B = 3 V; C = 6 V
+0 m 4 A = 3 V; B = 3 V; C = 6 V
 
-## 5 48.6° 5 2 Ω
+5 48.6° 5 2 Ω
 
-## Electricity and
+# Electricity and
 
-## 6 a 15 Ω
+6 a 15 Ω
 
-## 31 Lenses magnetism b 1.5 Ω
+31 Lenses magnetism b 1.5 Ω
 
-## 1 Parallel 7 D
+1 Parallel 7 D
 
-## Simple phenomena of
+# Simple phenomena of
 
-### 2 a Converging 8 a (i) ohm’s law
+2 a Converging 8 a (i) ohm’s law
 
-## magnetism
+magnetism
 
 c Image 9 cm from lens, 3 cm (ii) 2 Ω
 
-## high 34 Magnetic fields 9 B
+high 34 Magnetic fields 9 B
 
-## 3 Distance from lens: 1 C
+3 Distance from lens: 1 C
 
-## a beyond 2F 39 Capacitors
+a beyond 2F 39 Capacitors
 
 b 2F Electrical quantities and 2 a (i) Maximum
 
-### c between F and 2F circuits (ii) Zero
+c between F and 2F circuits (ii) Zero
 
-## d nearer than F b (i) Maximum
+d nearer than F b (i) Maximum
 
-## 35 Static electricity
+35 Static electricity
 
-## 4 Towards (ii) Zero
+4 Towards (ii) Zero
 
-## 1 D
+1 D
 
-## 5 a 4 cm
+5 a 4 cm
 
-### 2 Electrons are transferred from
+2 Electrons are transferred from
 
-## 40 Electric power
+40 Electric power
 
 b 8 cm behind lens, virtual,
 
-## the cloth to the polythene
+the cloth to the polythene
 
-## 1 a 100 J
+1 a 100 J
 
-## m = 2
+m = 2
 
-## 3 C
+3 C
 
-## b 500 J
+b 500 J
 
-## 6 A: converging f = 10 cm
+6 A: converging f = 10 cm
 
-## c 6000 J
+c 6000 J
 
 B: converging f = 5 cm 36 Electric current
 
-## 2 a 24 W
+2 a 24 W
 
-## 1 a 5 C
+1 a 5 C
 
-## b 3 J/s
+b 3 J/s
 
-## 32 Electromagnetic
+32 Electromagnetic
 
-## b 50 C
+b 50 C
 
-## 3 C
+3 C
 
-## radiation
+radiation
 
-## c 1500 C
+c 1500 C
 
-## 1 a 0.7 µm 4 2.99 kW
+1 a 0.7 µm 4 2.99 kW
 
-## 2 a 5 A
-
-b 0.
-
-### 4 µm 5 Fuse is in live wire in a but not
+2 a 5 A
 
 b 0.
 
-## 2 a B in b
+4 µm 5 Fuse is in live wire in a but not
 
-## c 2 A
+b 0.
 
-## b D 7 a 3 A
+2 a B in b
 
-## 3 B
+c 2 A
 
-## 3 a Ultraviolet b 13 A
+b D 7 a 3 A
 
-## 4 C
+3 B
 
-## b Microwaves c 13 A
+3 a Ultraviolet b 13 A
 
-## 5 All read 0.25 A
+4 C
 
-## c Gamma rays 8 40p
+b Microwaves c 13 A
 
-## d Infrared 9 a (i) 2 kW
+5 All read 0.25 A
 
-## 37 Potential difference
+c Gamma rays 8 40p
+
+d Infrared 9 a (i) 2 kW
+
+37 Potential difference
 
 e Infrared/microwaves 1 a 12 J (ii) 60 W
 
-## f X-rays b 60 J (iii) 850 W
+f X-rays b 60 J (iii) 850 W
 
-## 4 a 3 m c 240 J b 4 A
+4 a 3 m c 240 J b 4 A
 
-## b 2 × 104 s 2 a 6 V
+b 2 × 104 s 2 a 6 V
 
-## 41 Electronic systems
+41 Electronic systems
 
-## 5 E
+5 E
 
-## b (i) 2 J
+b (i) 2 J
 
-## 1 b L lights, L does not
+1 b L lights, L does not
 
-## (ii) 6 J 1 2
+(ii) 6 J 1 2
 
-## c L and L light
+c L and L light
 
-## Sound 3 B 1 2
+# Sound 3 B 1 2
 
 d L lights, L does not
 
-## 4 b Very bright 1 2
+4 b Very bright 1 2
 
-### 33 Sound waves 2 a V = V = 3 V
+33 Sound waves 2 a V = V = 3 V
 
-## c Normal brightness 1 2
+c Normal brightness 1 2
 
-### 1 1650 m (about 1 mile) b V = 1 V, V = 5 V
+1 1650 m (about 1 mile) b V = 1 V, V = 5 V
 
-## d No light 1 2
+d No light 1 2
 
-### 2 a 2 × 160 = 320 m/s c V = 4 V, V = 2 V
+2 a 2 × 160 = 320 m/s c V = 4 V, V = 2 V
 
-## e Brighter than normal 1 2
+e Brighter than normal 1 2
 
 9781444176421_ANSWER_07.
 
 indd 302 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
-### 42 Digital electronics 46 Electric motors 12 a B
+42 Digital electronics 46 Electric motors 12 a B
 
-## 1 A AND 1 E b A
+1 A AND 1 E b A
 
-## B OR 2 Clockwise 13 A
+# B OR 2 Clockwise 13 A
 
-## C NAND 3 E 14 A
+# C NAND 3 E 14 A
 
-## D NOR 15 C
+# D NOR 15 C
 
-### 2 A OR 47 Electric meters 16 B
+2 A OR 47 Electric meters 16 B
 
 B NOT 3 a 0–5 V, 0–10 V 17 D
 
 C NAND b 0.
 
-## 1 V 18 C
+1 V 18 C
 
-## D NOR c 0–5 V 19 C
+D NOR c 0–5 V 19 C
 
-## E AND d Above the 4 20 C
+# E AND d Above the 4 20 C
 
-## e Parallax error introduced
+e Parallax error introduced
 
-## 21 E
+21 E
 
 Electromagnetic effects 48 Electrons 22 a Become circular
 
-## 1 a A ve, B +ve b No change
+1 a A ve, B +ve b No change
 
-### 43 Generators b Down c No change
+43 Generators b Down c No change
 
-### 1 a A: slip rings, B: brushes 2 a 1.
+1 a A: slip rings, B: brushes 2 a 1.
 
-## 6 × 1016 J 23 a (i) Infrared
+6 × 1016 J 23 a (i) Infrared
 
 b Increase the number of turns b 1.
 
-## 9 × 107 m/s (ii) X-rays
+9 × 107 m/s (ii) X-rays
 
 on the coil, the strength of b (i) Radio
 
@@ -45194,341 +45194,341 @@ the magnet and the speed of Atomic physics (ii) γ-rays
 
 rotation of the coil.
 
-## 24 a Longitudinal
+24 a Longitudinal
 
-## 49 Radioactivity
+49 Radioactivity
 
 2 The galvanometer needle swings b (i) Compression
 
-## 1 a α
+1 a α
 
 alternately in one direction (ii) Rarefaction
 
-## b γ
+b γ
 
-### and then the other as the rod 25 a 60°
+and then the other as the rod 25 a 60°
 
-## c β
+c β
 
 vibrates.
 
 This is due to a p.
 
-## b 30°
+b 30°
 
-## d γ
+d γ
 
 being induced in the metal rod 26 a Refraction
 
-## e α
+e α
 
-### when it cuts the magnetic field b POQ
+when it cuts the magnetic field b POQ
 
-## f α
+f α
 
 lines; current flows in alternate c Towards
 
-## g β
+g β
 
-### directions round the circuit as d 40°
+directions round the circuit as d 40°
 
-## h γ
+h γ
 
 the rod moves up or down e 90 – 65 = 25°
 
-## 2 25 minutes
+2 25 minutes
 
-## 27 C
+27 C
 
-## 3 D
+3 D
 
-### 44 Transformers 28 a Dispersion
+44 Transformers 28 a Dispersion
 
-## 2 B b (i) Red
+2 B b (i) Red
 
-## 50 Atomic structure
+50 Atomic structure
 
-## 3 a 24 (ii) Violet
+3 a 24 (ii) Violet
 
-## 1 B
+1 B
 
 b 1.
 
-## 9 A 29 B
+9 A 29 B
 
-## 2 C (symbol is 7Li)
+2 C (symbol is 7Li)
 
-## 4 B 3 30 A
+4 B 3 30 A
 
-## 31 D
+31 D
 
-## 45 Electromagnets 32 B
+45 Electromagnets 32 B
 
-## ●●Revision
+●●Revision
 
-## 1 a North 33 C
+1 a North 33 C
 
-## b East questions 34 a 1 Ω
+b East questions 34 a 1 Ω
 
-## 2 S b 3 A
+2 S b 3 A
 
-### 3 a To complete the circuits to 1 E c 6 V
+3 a To complete the circuits to 1 E c 6 V
 
-### the battery negative 2 A 35 a 3 Ω
+the battery negative 2 A 35 a 3 Ω
 
-### b One contains the starter 3 C b 2 A
+b One contains the starter 3 C b 2 A
 
-## switch and relay coil
+switch and relay coil
 
-## the other 4* a Yes
+the other 4* a Yes
 
-## 1 mm = 0.
+1 mm = 0.
 
-### 001 m c 4 V across 2; 2 V across 1
+001 m c 4 V across 2; 2 V across 1
 
 contains the relay contacts and b E 36 D
 
-## starter motor 5 D 37 B
+starter motor 5 D 37 B
 
 c Carries much larger current to 6 E 38 a E
 
-## starter motor 7 A b A
+starter motor 7 A b A
 
 d Allows wires to starter switch 8 B c C
 
-### to be thin since they only 9 C d B
+to be thin since they only 9 C d B
 
-### carry the small current needed 10 D e D
+carry the small current needed 10 D e D
 
-### to energise the relay 11 D 39 E
+to energise the relay 11 D 39 E
 
 9781444176421_ANSWER_07.
 
 indd 303 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
-### 40 E f Exceeded elastic limit Energy
+40 E f Exceeded elastic limit Energy
 
 work, power and
 
-### 41 E 8* a Limit of proportionality pressure
+41 E 8* a Limit of proportionality pressure
 
-### 42 B b Force proportional to 17 a I = U + W
+42 B b Force proportional to 17 a I = U + W
 
-## 43 B extension b (i) 850 N
+43 B extension b (i) 850 N
 
 44 a C c OQ extension proportional (ii) Force needed to get it
 
-## b A to force started
+b A to force started
 
 c B QR extension/unit force (iii) Height
 
-## d A greater (iv) Time
+d A greater (iv) Time
 
-### 45 a D d 4.0 N/ mm c Greater than
+45 a D d 4.0 N/ mm c Greater than
 
-### b E 9* b 98 N–102 N 18* a 405 000 J
+b E 9* b 98 N–102 N 18* a 405 000 J
 
-### c Vertically upwards b 60 000 J
+c Vertically upwards b 60 000 J
 
-### ●●Cambridge d 98 N–102 N c 60 000 W
+●●Cambridge d 98 N–102 N c 60 000 W
 
-### 10* c Mass × distance d Chemical
+10* c Mass × distance d Chemical
 
-## IGCSE exam
+# IGCSE exam
 
-### 11 a (i) At A e Energy lost as heat,
+11 a (i) At A e Energy lost as heat,
 
 questions (ii) Greatest distance from sound
 
 etc.
 
-## the hinge 19 a Tidal
+the hinge 19 a Tidal
 
 wave, hydroelectric
 
-### b When centre of mass is 20 a 88–92
+b When centre of mass is 20 a 88–92
 
-## 1 General physics
+1 General physics
 
-## outside base b 88–92 mm
+outside base b 88–92 mm
 
-## c (i) Less than c 840
+c (i) Less than c 840
 
-## Measurements and motion
+# Measurements and motion
 
 (ii) Centre of mass of 21* a Volume reduced
 
-## pressure
+pressure
 
-## 1 a (i) 6 cm and 5 cm
+1 a (i) 6 cm and 5 cm
 
-## matchbox has been goes up
+matchbox has been goes up
 
-## (ii) 60 cm3
+(ii) 60 cm3
 
-## raised b 20 cm3
+raised b 20 cm3
 
 b 2.
 
-## 65 g/cm3
+65 g/cm3
 
-## 12 a Force
+12 a Force
 
 perpendicular c Speed of particles greater at
 
-### 2* Time 10 cycles and calculate
+2* Time 10 cycles and calculate
 
-### distance from pivot higher temperature
+distance from pivot higher temperature
 
-## the average
+the average
 
 b (i) Force, moment 22 b (i) Falls
 
 3 a Distance Tape measure (ii) F 1 + F 2 + W (ii) A ir molecules cause
 
-## (iii) F pressure on mercury
+(iii) F pressure on mercury
 
-## Time Stopwatch
+# Time Stopwatch
 
 13* a Student B: force inversely
 
 b Speed = distance/time proportional to mass d rises rises
 
-## c (i) Some distances at
+c (i) Some distances at
 
-## b F = ma falls stays the same
+b F = ma falls stays the same
 
-## slower speeds
+slower speeds
 
 c (i) Nothing or as before 23* a (i) 540 kJ
 
-## (ii) 22 km
+(ii) 22 km
 
 (ii) Slows down (ii) W = E/t, 54 kW
 
-## 4 a (i) 1 Increasing
+4 a (i) 1 Increasing
 
-### (iii) Moves in a circle b (i) 3750 kg
+(iii) Moves in a circle b (i) 3750 kg
 
-## 2 Constant
+2 Constant
 
 14* a The direction is changing (ii) 12.
 
-## c Zero distance
+c Zero distance
 
-## b (i) F orce needed to
+b (i) F orce needed to
 
-## 5 a 400 s 2 Thermal physics
+5 a 400 s 2 Thermal physics
 
-## change direction
+change direction
 
 d 10.
 
-## 8 m/s
+8 m/s
 
-## (ii) Towards the centre
+(ii) Towards the centre
 
 6* a (i) 1.
 
-### 6 s Simple kinetic and molecular
+6 s Simple kinetic and molecular
 
-## (iii) Friction between tyres
+(iii) Friction between tyres
 
 (ii) 4.
 
-## 2 s model of matter
+2 s model of matter
 
-## and the road
+and the road
 
 (iii) 32 m 24* b A ir molecules hit dust
 
-## 15* a (i) Resultant force
+15* a (i) Resultant force
 
-### (iv) 7095 m (area under particles
+(iv) 7095 m (area under particles
 
-## (ii) To overcome friction
+(ii) To overcome friction
 
-## graph) c Slower movement
+graph) c Slower movement
 
 b 0.
 
-## 8 kg
+8 kg
 
-## b (i) Weight of ball down
+b (i) Weight of ball down
 
-## 25 a Solid
+25 a Solid
 
 2, 3 and 6
 
 c 0.
 
-## 875 m/s2
+875 m/s2
 
 air resistance up Gas: 1, 4 and 5
 
 d (i) 0.
 
-## 6 m/s
+6 m/s
 
 (ii) Up force = down force b Molecules break free of
 
 (ii) 0.
 
-## 36 m
+36 m
 
-## surface
+surface
 
-## 16* a (ii) It gets larger
+16* a (ii) It gets larger
 
-## Forces and momentum
+# Forces and momentum
 
-## b (ii) Friction is too small
+b (ii) Friction is too small
 
-### 7* b 3 N reading Thermal properties and
+7* b 3 N reading Thermal properties and
 
-## c (i) Constant speed
+c (i) Constant speed
 
-### d Straight line through the temperature
+d Straight line through the temperature
 
 (ii) 212.
 
-## 5 cm
+5 cm
 
 origin shows Hooke’s law 26* a E nergy needed to change
 
 (iii) 8.
 
-## 33 cm/s
+33 cm/s
 
-## e Graph curves state
+e Graph curves state
 
 9781444176421_ANSWER_07.
 
 indd 304 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 b Any time between 1.
 
-### 6 min 35 a q (ii) They attract
+6 min 35 a q (ii) They attract
 
-## and 18 min c Inverted
+and 18 min c Inverted
 
-## real c They attract
+real c They attract
 
 c P.
 
 e of molecules increases d Same d Nothing
 
-### and they escape from the e (i) Nothing
+and they escape from the e (i) Nothing
 
-## Electrical quantities and
+# Electrical quantities and
 
-## liquid (ii) Blurred image
+liquid (ii) Blurred image
 
-### d (i) 480 kJ 36 c (i) 2 m circuits
+d (i) 480 kJ 36 c (i) 2 m circuits
 
 (ii) 6.
 
@@ -45536,9 +45536,9 @@ e of molecules increases d Same d Nothing
 
 27* a Copper or constantan 37* b Virtual
 
-## inverted
+inverted
 
-## same size electricity
+same size electricity
 
 Copper or constantan as object (ii) Cord not a conductor
 
@@ -45550,43 +45550,43 @@ Constantan or copper c Ray strikes glass normally b 10 A
 
 b Long time to heat up internal reflection occurs 45* a (i) X negative
 
-## Y positive
+# Y positive
 
 c (i) 1.
 
-## 8 °C and 77.
+8 °C and 77.
 
-## 1°C 38*a (ii) Virtual
+1°C 38*a (ii) Virtual
 
-## upright
+upright
 
-## same (ii) +ve charge on A
+same (ii) +ve charge on A
 
-## (ii) 1512 J size
+(ii) 1512 J size
 
-### same distance from attracts ve charge
+same distance from attracts ve charge
 
-## (iii) 392 J/kg K mirror on B
+(iii) 392 J/kg K mirror on B
 
 29* a (i) 1 Melting point of ice (iii) B is neutral
 
-### 2 Pure melting ice Sound b (i) Nothing
+2 Pure melting ice Sound b (i) Nothing
 
-### 3 0 °C 39 a (i) One sound (ii) +ve charge is
+3 0 °C 39 a (i) One sound (ii) +ve charge is
 
 (ii) 1 Boiling point of (ii) 495 m cancelled
 
 water b (i) One sound plus echo 46 a (i) 6 V
 
-### 2 Steam (ii) 1.5 s and 4.5 s (ii) 50 mA
+2 Steam (ii) 1.5 s and 4.5 s (ii) 50 mA
 
-### 3 100 °C 40 a (i) Decreasing b 120 Ω
+3 100 °C 40 a (i) Decreasing b 120 Ω
 
 b Thermal capacity (ii) Waves get smaller 47 a 60 Ω
 
 30* a (i) Funnel no longer b (i) Nothing c (i) 0.
 
-## 025 A
+025 A
 
 giving heat to ice (ii) Wavelength the same (ii) 1.
 
@@ -45594,21 +45594,21 @@ giving heat to ice (ii) Wavelength the same (ii) 1.
 
 heater and ice (ii) 1 300 waves per (ii) Decreases
 
-### b Mass of beaker second (iii) 60 Ω
+b Mass of beaker second (iii) 60 Ω
 
 c 338 J/g 2 1/300 s 48* c (i) One input is high and
 
 31* a Total mass before ice added 3 0.
 
-## 04 s output is low
+04 s output is low
 
 Total mass after all ice d (i) Yes (ii) 1 On
 
-## melted (ii) Yes 2 Off
+melted (ii) Yes 2 Off
 
 b (i) Mass × sp.
 
-### heat capacity (iii) No 49 a (i) Series
+heat capacity (iii) No 49 a (i) Series
 
 × change in temp 41 a One sound plus echo (ii) 12 Ω
 
@@ -45616,41 +45616,41 @@ b (i) Mass × sp.
 
 latent heat b First (iii) 0.
 
-### of fusion of ice c (i) 3 s (iv) 5 V
+of fusion of ice c (i) 3 s (iv) 5 V
 
-## c 427 J/g (ii) 9 s (v) 5 V
+c 427 J/g (ii) 9 s (v) 5 V
 
-## 32 a °C (iii) 6 s b (i) 1 6 V
+32 a °C (iii) 6 s b (i) 1 6 V
 
-## 2 0 V
+2 0 V
 
-### 3 Properties of waves 4 Electricity and
+3 Properties of waves 4 Electricity and
 
-## 50* b (i) 3 A
+50* b (i) 3 A
 
-## magnetism
+magnetism
 
-## (ii) 4 Ω
+(ii) 4 Ω
 
-## Light
+# Light
 
-## (iii) 2 Ω
+(iii) 2 Ω
 
-## 33 a 10 cm
+33 a 10 cm
 
-### Simple phenomen of (iv) 1080 J
+Simple phenomen of (iv) 1080 J
 
-### b Gets smaller and closer to lens
+b Gets smaller and closer to lens
 
 magnetism 51* a Circuit 1: series
 
-## c (i) Principal focus
+c (i) Principal focus
 
-### 34* a A 42 a (i) Iron rod Circuit 2
+34* a A 42 a (i) Iron rod Circuit 2
 
-## parallel
+parallel
 
-## b Air (ii) Plastic rod c 12 V
+b Air (ii) Plastic rod c 12 V
 
 c 42°–43° b S S N d 2.
 
@@ -45658,7 +45658,7 @@ d Total internal reflection 43 a (i) N at left and S at right e (i) 3 A
 
 e 58.
 
-### 7° (ii) They attract (ii) 24 W
+7° (ii) They attract (ii) 24 W
 
 f 2.
 
@@ -45668,249 +45668,249 @@ f 2.
 
 indd 305 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 52 a Interchange c Move magnet in and out of b Count decreases with more
 
-### connections on solenoid aluminium
+connections on solenoid aluminium
 
 ammeter or battery d Move magnet faster,
 
-## b Current stronger magnet
+b Current stronger magnet
 
-## more ●●Mathematics
+more ●●Mathematics
 
-### d (i) Voltmeter turns of solenoid
+d (i) Voltmeter turns of solenoid
 
 e 0.
 
-## 4 A for physics
+4 A for physics
 
-## 5 Atomic physics
+5 Atomic physics
 
 f 0.
 
-## 1 a 3
+1 a 3
 
 g (i) 7.
 
-## 5 Ω 61 a Alpha and beta
+5 Ω 61 a Alpha and beta
 
-## b 5
+b 5
 
-## (ii) Increases b Gamma
+(ii) Increases b Gamma
 
-## c 8/3
+c 8/3
 
-## c Radio
+c Radio
 
-## Electromagnetic effects d 20
+# Electromagnetic effects d 20
 
-## d Alpha
+d Alpha
 
-### 53* a (i) Step-up transformer e 12
+53* a (i) Step-up transformer e 12
 
-## 62* a Background radiation
+62* a Background radiation
 
-### (ii) Less heat/energy lost f 6
+(ii) Less heat/energy lost f 6
 
-## b A Only background as
+b A Only background as
 
 b 2.
 
-## 5 A g 2
+5 A g 2
 
-## reading constant
+reading constant
 
 c 18.
 
-## 75 W h 3
+75 W h 3
 
-## B Gamma as not affected
+# B Gamma as not affected
 
 d 7.
 
-## 5 V i 8
+5 V i 8
 
-## by magnetic field
+by magnetic field
 
-## e 21 985 V 2 a f = v/λ
+e 21 985 V 2 a f = v/λ
 
-## C Beta as deflected by
+# C Beta as deflected by
 
-### 54* a First finger – field b λ = v/f
+54* a First finger – field b λ = v/f
 
-## magnetic field
+magnetic field
 
-### Second finger – current c I = V/R
+Second finger – current c I = V/R
 
-## 63* a Beta – third and fourth
+63* a Beta – third and fourth
 
-## b (i) Contact d R = V/I
+b (i) Contact d R = V/I
 
-## column
+column
 
-## Commutator e m = d × V
+Commutator e m = d × V
 
-## Gamma – first column
+Gamma – first column
 
-## (ii) Clockwise f V = m/d
+(ii) Clockwise f V = m/d
 
-### 64 a Between 22 and 27 minutes
+64 a Between 22 and 27 minutes
 
-## 55 a (ii) Iron g s = vt
+55 a (ii) Iron g s = vt
 
-## b (i) Iodine-128
+b (i) Iodine-128
 
-### (iii) Magnetic linkage h t = s/v
+(iii) Magnetic linkage h t = s/v
 
-## (ii) Radon-220 as shortest
+(ii) Radon-220 as shortest
 
-## b 120 V 3 a I 2 = P/R
+b 120 V 3 a I 2 = P/R
 
-## half-life
+half-life
 
-### 56 a (i) e.m.f. induced in AB b I = √(P/R)
+56 a (i) e.m.f. induced in AB b I = √(P/R)
 
 65* a Protons: 17 and 17
 
 cancelled by e.
 
-## c a = 2s/t2
+c a = 2s/t2
 
 Neutrons: 18 and 20
 
-## induced in BC d t2 = 2s/a
+induced in BC d t2 = 2s/a
 
 Electrons: 17 and 17
 
-### (ii) Straighten out ABC e t = √(2s/a)
+(ii) Straighten out ABC e t = √(2s/a)
 
 b Alpha, beta and gamma
 
 b Transformer, generator, f v = √(2gh)
 
-## 66 a 84
+66 a 84
 
 dynamo, microphone, g y = Dλ/a
 
-## b 218
+b 218
 
-## alternator h ρ = AR/l
+alternator h ρ = AR/l
 
-## c (i) 2
+c (i) 2
 
-## 57* b (i) Reduced 4 a 10
+57* b (i) Reduced 4 a 10
 
-## (ii) 4
+(ii) 4
 
-## (ii) Same or none b 34
+(ii) Same or none b 34
 
-## (iii) Alpha particle
+(iii) Alpha particle
 
-### c (i) Thin wire is a current- c 2/3
+c (i) Thin wire is a current- c 2/3
 
-## 67* A rebounds
+67* A rebounds
 
-### carrying conductor in a d 1/10
+carrying conductor in a d 1/10
 
 B carries on, slightly deflected
 
-## magnetic field e 10
+magnetic field e 10
 
-## C carries straight on
+# C carries straight on
 
-### (ii) Towards the thick f 3 × 108
+(ii) Towards the thick f 3 × 108
 
-### 68 a Between 18 and 20 minutes
+68 a Between 18 and 20 minutes
 
 wire 5 a 2.
 
-## 0 × 105
+0 × 105
 
-## b (i) About 922
+b (i) About 922
 
-## (iii) Smaller force b 10
+(iii) Smaller force b 10
 
-## (ii) Between 18 and
+(ii) Between 18 and
 
-### 58 a Contact position at centre c 8
+58 a Contact position at centre c 8
 
-## 20 minutes
+20 minutes
 
 of potential divider d 2.
 
-## 0 × 108
+0 × 108
 
-## c Alpha or beta
+c Alpha or beta
 
-### b Current in coil magnetises e 20
+b Current in coil magnetises e 20
 
-## 69 a Electrons
+69 a Electrons
 
 core, armature pivots f 300
 
-## b Moves towards P
+b Moves towards P
 
-## closing contacts 1 6 a 4
+closing contacts 1 6 a 4
 
-## c By making P or P positive
+c By making P or P positive
 
-## 59 a (ii) Iron bar 3 4 b 2
+59 a (ii) Iron bar 3 4 b 2
 
-## d Fluorescent screen
+d Fluorescent screen
 
-## b Rods become magnetised c 5
+b Rods become magnetised c 5
 
-### 70* a M easure background reading
+70* a M easure background reading
 
-## and repel d 8
+and repel d 8
 
-## No aluminium – take count
+No aluminium – take count
 
-### 60* a Magnetic field cut by e 2/3
+60* a Magnetic field cut by e 2/3
 
-## Aluminium – take count
+Aluminium – take count
 
-### conductor induces a current f 3/4
+conductor induces a current f 3/4
 
-## Subtract background reading
+# Subtract background reading
 
 9781444176421_ANSWER_07.
 
 indd 306 20/06/14 7:27 AM
 
-## Answers
+# Answers
 
 g 13/6 4 c 34.
 
-## 5 cm
+5 cm
 
 h 16 5 a (i) 0.
 
-## 5 cm
+5 cm
 
-## i 1 (ii) 10 cm
+i 1 (ii) 10 cm
 
-## 7 a = (v  u)/t b T/s T 2/s 2
+7 a = (v  u)/t b T/s T 2/s 2
 
 a 5 1.
 
-## 0 1.
+0 1.
 
 b 60 0.
 
-## 95 0.
+95 0.
 
 c 75 0.
 
-## 9 0.
+9 0.
 
-## 8 a = (v2  u2)/2s 0.84 0.71
+8 a = (v2  u2)/2s 0.84 0.71
 
-### 9 b Extension ∝ mass because 0.78 0.61
+9 b Extension ∝ mass because 0.78 0.61
 
-### the graph is a straight line 7 a (i) V
+the graph is a straight line 7 a (i) V
 
 A, Ω
 
@@ -45922,113 +45922,113 @@ through the origin (ii) 1.
 
 05, 9.
 
-## 10 b No
+10 b No
 
-### graph is a straight line b (i) Yes
+graph is a straight line b (i) Yes
 
-## as within 10%
+as within 10%
 
-### but does not pass through 8 a (i) cm3
+but does not pass through 8 a (i) cm3
 
 the origin (ii) 20, 40, 60, 80, 100
 
-## c 32 c Avoid heat loss to the
+c 32 c Avoid heat loss to the
 
-### 11 a Graph is a curve surroundings
+11 a Graph is a curve surroundings
 
 b Graph is a straight line 9 a 0.
 
-## 7 N, 6 cm3, 1.
+7 N, 6 cm3, 1.
 
-## 4 s,
+4 s,
 
 through the origin, 4.
 
-## 0 N/cm3
+0 N/cm3
 
 therefore s ∝ t2 or s/t2 = a b (i) Minimum current
 
 constant = 2 switch off regularly,
 
-## turn down power
+turn down power
 
-## ●●Alternative to supply
+●●Alternative to supply
 
-## (ii) Variable resistor or
+(ii) Variable resistor or
 
-## practical test rheostat
+practical test rheostat
 
-## 10 a (i) 7.92 Ω, 1.98 Ω
+10 a (i) 7.92 Ω, 1.98 Ω
 
-## questions
+questions
 
 (ii) V, A, Ω
 
-## b (i) R is proportional
+b (i) R is proportional
 
-## 1 a (i) T 18 °C
+1 a (i) T 18 °C
 
-## to 1/d2
+to 1/d2
 
-## (ii) T 4 °C
+(ii) T 4 °C
 
-## (ii) The first R is about ¼
+(ii) The first R is about ¼
 
-## c (i) T is much greater
+c (i) T is much greater
 
-## of the second
+of the second
 
-## than T
+than T
 
-## 11 a (i) 50 cm3, 75 cm3
+11 a (i) 50 cm3, 75 cm3
 
-## (ii) Graph has a decreasing
+(ii) Graph has a decreasing
 
-## (ii) 25 cm3
+(ii) 25 cm3
 
-## gradient
+gradient
 
 (iii) 4.
 
-## 36 g/cm3
+36 g/cm3
 
-## 2 a 0.3
+2 a 0.3
 
 b (i) V /cm3, V /cm3, cm3,
 
-## b (i) Ω A 2 1
+b (i) Ω A 2 1
 
-## g/cm3
+g/cm3
 
 (ii) 10.
 
 (ii) 5.
 
-## 66 g/cm3, 3.
+66 g/cm3, 3.
 
-## 02 g/cm3
+02 g/cm3
 
-## c 10 Ω
+c 10 Ω
 
-## c Same method but lots
+c Same method but lots
 
-## 3 b (i) 2°
+3 b (i) 2°
 
-## of grains
+of grains
 
 (ii) Yes, results are close
 
-## enough
+enough
 
-## c Doesn’t matter if pins not
+c Doesn’t matter if pins not
 
-## vertical
+vertical
 
 9781444176421_ANSWER_07.
 
 indd 307 20/06/14 7:27 AM
 
-## Index
+# Index
 
 A Rutherford-Bohr model 241 speedometers 207
 
@@ -46036,23 +46036,23 @@ absolute zero 77 Schrödinger’s model 241–2 cathode ray oscilloscopes (CRO) 
 
 absorption of radiation 102 atoms 72 musical note waveforms 142–3
 
-### acceleration 9–10 attraction forces
+acceleration 9–10 attraction forces
 
-## electrical charge 24
+electrical charge 24
 
-## uses 225–6
+uses 225–6
 
-## equations of motion 14–15 150
+equations of motion 14–15 150
 
-## 152–3 cathode rays 222
+152–3 cathode rays 222
 
-## force and 31–2 audibility
+force and 31–2 audibility
 
-## limits of 141 cathodes 187
+limits of 141 cathodes 187
 
-## of free fall (g) 18–19
+of free fall (g) 18–19
 
-## 32 average speed 9 cells 158
+32 average speed 9 cells 158
 
 from tape charts 10–11 see also batteries
 
@@ -46062,49 +46062,49 @@ background radiation 230, 235
 
 mass and 31–2 relationship to Kelvin scale 77
 
-## balances 4–5
+balances 4–5
 
-## uniform 10
+uniform 10
 
 11, 13
 
 14–15 centre of gravity see centre of mass
 
-## balancing tricks 45–6
+balancing tricks 45–6
 
-### acid rain 60 centre of mass 43–6
+acid rain 60 centre of mass 43–6
 
-## banking of roads 36
+banking of roads 36
 
-### action-at-a-distance forces 24
+action-at-a-distance forces 24
 
 32, 155 stability 44–5
 
-## barometers 69–70
+barometers 69–70
 
-## action at points 153
+action at points 153
 
-## 154 toppling 44
+154 toppling 44
 
-## base 188
+base 188
 
-## activity
+activity
 
 radioactive material 233 centripetal force 35–6
 
-## base-emitter path 189
+base-emitter path 189
 
-## air chain reactions 242
+air chain reactions 242
 
 batteries 50, 158, 162, 163
 
-### convection 99–100 changes of state 91
+convection 99–100 changes of state 91
 
-## beam balances 4
+beam balances 4
 
-## density 22 charge
+density 22 charge
 
-## electric see electric charge
+electric see electric charge
 
 beams, balancing 39
 
@@ -46120,57 +46120,57 @@ air bags 58 circuit breakers 181, 213
 
 beta particles 231–2, 240
 
-## air resistance 17
+air resistance 17
 
 18, 33 circuit diagrams 158
 
-## beta decay 240
+beta decay 240
 
 alcohol-in-glass thermometers 85 circuits
 
-## particle tracks 232
+particle tracks 232
 
-## alpha particles 231–2
+alpha particles 231–2
 
-## 240 current in 158–9
+240 current in 158–9
 
-## bicycle dynamos 202
+bicycle dynamos 202
 
 alpha decay 240 household circuits 180–2
 
-## bimetallic strips 82
+bimetallic strips 82
 
 particle tracks 232 model of circuit 162
 
-## biofuels 62
+biofuels 62
 
-## scattering 238 parallel 158
+scattering 238 parallel 158
 
 159, 164
 
 170, 180
 
-## biogas 62
+biogas 62
 
 alternating current (a.
 
-## ) 159–60 safety 181–2
+) 159–60 safety 181–2
 
-## body heat 98
+body heat 98
 
 capacitors in a.
 
-## circuits 176 series 158
+circuits 176 series 158
 
 159, 164
 
-## 169–70
+169–70
 
 Bohr, Niels 241
 
 frequency 160, 201 circular motion 35
 
-## boiling point 94
+boiling point 94
 
 mutual induction 204 centripetal force 35–6
 
@@ -46180,19 +46180,19 @@ transmission of electrical power satellites 36–8
 
 Boyle’s law 78, 79, 80
 
-### 206–7 clinical thermometers 86
+206–7 clinical thermometers 86
 
 Brahe, Tycho xi
 
-## alternative energy sources ix
+alternative energy sources ix
 
 60–2, cloud chambers 232
 
 brakes, hydraulic 68
 
-## 63–4 coastal breezes 100
+63–4 coastal breezes 100
 
-## braking distances 58
+braking distances 58
 
 alternators (a.
 
@@ -46200,17 +46200,17 @@ generators) 200–1, coils
 
 Brownian motion 72, 73
 
-## 201–2 in electric motors 216
+201–2 in electric motors 216
 
-## brushes
+brushes
 
-## aluminium
+aluminium
 
 specific heat capacity 89 magnetic fields due to 210
 
 in electric motors 216, 217
 
-## ammeters 158
+ammeters 158
 
 164, 219 in transformers 204–5
 
@@ -46218,7 +46218,7 @@ in generators 200, 201
 
 ammeter-voltmeter method 168 collector 188
 
-## bubble chambers 233
+bubble chambers 233
 
 ampere (A) 158 collector-emitter path 189
 
@@ -46226,53 +46226,53 @@ buildings, heat loss in 98, 100–1
 
 amplitude of a wave 107, 136 collisions
 
-## burglar alarms 213
+burglar alarms 213
 
 analogue circuits 193 elastic and inelastic 57–8
 
-### analogue meters 193 C impulse and 48–9
+analogue meters 193 C impulse and 48–9
 
-## AND gates 194 calibration
+# AND gates 194 calibration
 
-### thermometers 85 momentum and 47
+thermometers 85 momentum and 47
 
-## angle of incidence 108
+angle of incidence 108
 
 116, 126 capacitance 174 combustion of fuels 54
 
-## angle of reflection 108
+angle of reflection 108
 
 116, 126 capacitors 174 communication satellites 37
 
-## anode 187
+anode 187
 
-### 222 charging and discharging 175 commutators
+222 charging and discharging 175 commutators
 
 antineutrinos 240 in d.
 
 and a.
 
-## circuits 176 in dynamos 201
+circuits 176 in dynamos 201
 
-## area 3–4 carbon dating 235
+area 3–4 carbon dating 235
 
-## 236 in electric motors 216
+236 in electric motors 216
 
 armatures 216 carbon dioxide emissions 60 compasses 146
 
-## atmospheric pressure 69
+atmospheric pressure 69
 
-### 76 carbon microphones 213 compressions 140
+76 carbon microphones 213 compressions 140
 
-### atomic bombs 242 cars computers
+atomic bombs 242 cars computers
 
-## static electricity and 154
+static electricity and 154
 
 atomic (proton) number 239 alternators 202 condensation 94
 
-## atomic structure 151
+atomic structure 151
 
-### 239 braking distances 58 conduction of heat 97–8
+239 braking distances 58 conduction of heat 97–8
 
 nuclear model 238 hydraulic brakes 68 conductors (electrical) 151
 
@@ -46280,35 +46280,35 @@ nuclear stability 240 rounding bends 36 metallic 169
 
 ‘plum pudding’ model 238 safety features 49
 
-## 58 ohmic and non-ohmic 169
+58 ohmic and non-ohmic 169
 
 9781444176421_Index_09.
 
 indd 308 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
-## conservation of energy 53
+conservation of energy 53
 
-### 57 drop-off current 212 generators 200–2
+57 drop-off current 212 generators 200–2
 
 conservation of momentum 47–8 dynamic (sliding) friction 29 mutual 204
 
 constant of proportionality 280 ‘dynamo rule’ 200 electromagnetic radiation 51
 
-## 135–9
+135–9
 
 constant-volume gas thermometers 86 dynamos 201
 
-## 202 dual nature 227
+202 dual nature 227
 
-### continuous ripples 107 gamma rays 135
+continuous ripples 107 gamma rays 135
 
 138, 231–2
 
 235,
 
-## continuous spectra 241–2 240
+continuous spectra 241–2 240
 
 Earth, magnetic field 148
 
@@ -46316,57 +46316,57 @@ convection 99–100 infrared 102, 135, 136
 
 earthing 153, 181
 
-## convection currents 99
+convection currents 99
 
-## 100 microwaves xii
+100 microwaves xii
 
 135, 137–8
 
-## echoes 141
+echoes 141
 
-### convector heaters 179 properties 135
+convector heaters 179 properties 135
 
-## ultrasonic 143
+ultrasonic 143
 
 conventional current 158 radio waves 135
 
 eddy currents 206, 207
 
-## converging lenses 129
+converging lenses 129
 
 130, 132 ultraviolet 102
 
 135, 136–7
 
-## efficiency 53
+efficiency 53
 
-## cooling
+cooling
 
-## rate of 103–4
+rate of 103–4
 
-## 283–4 X-rays xi
+283–4 X-rays xi
 
 135, 138
 
-## 226–7
+226–7
 
-### of electrical power transmission 207
+of electrical power transmission 207
 
 Copernicus, Nicolaus xi see also light
 
-## of motors 178
+of motors 178
 
 coulomb (C) 158 electromagnetic spectrum 135
 
-## of power stations 63
+of power stations 63
 
-## count-rate
+count-rate
 
-### GM tube 230 electromagnetism 209–10
+GM tube 230 electromagnetism 209–10
 
-## effort 40
+effort 40
 
-## couples
+couples
 
 electric motors 216 electromagnet construction 210–11
 
@@ -46374,41 +46374,41 @@ Einstein, Albert xi, 242
 
 crests of waves 107 magnetisation and demagnetisation
 
-## elastic collisions 57–8
+elastic collisions 57–8
 
-## critical angle 126–7 210
+critical angle 126–7 210
 
-## elastic limit 25
+elastic limit 25
 
 critical temperatures of gases 94–5 uses 211–13
 
-## elastic potential energy 50
+elastic potential energy 50
 
-## critical value
+critical value
 
 chain reactions 242 electromotive force (e.
 
-## ) 163
+) 163
 
 electrical energy 50, 182
 
-### crude oil 54 electronic systems 185
+crude oil 54 electronic systems 185
 
 production 61, 62, 63–4
 
-## crumple zones 49
+crumple zones 49
 
-## 58 impact on society 196–8
+58 impact on society 196–8
 
 transfer 51, 162, 163, 177, 207
 
 crystals 74 input transducers 185, 186
 
-## electric bells 211–12
+electric bells 211–12
 
 current see electric current output transducers 185
 
-## 186–7
+186–7
 
 electric charge 150, 158
 
@@ -46420,13 +46420,13 @@ electrons 151, 239
 
 dataloggers 5, 11 current and 157
 
-## cathode rays 222
+cathode rays 222
 
-## generators (dynamos) 201
+generators (dynamos) 201
 
-## 202 electrons and 151
+202 electrons and 151
 
-## deflection of beams 222–3
+deflection of beams 222–3
 
 decay curves 233 see also static electricity
 
@@ -46434,29 +46434,29 @@ electric current 157, 158, 162
 
 deceleration 10 electric circuits see circuits
 
-## energy levels 241
+energy levels 241
 
-### declination 148 electric current 157
+declination 148 electric current 157
 
-## photoelectric emission 227
+photoelectric emission 227
 
 deflection tubes 223 alternating (a.
 
 ) 159–60, 176, 201,
 
-## thermionic emission 222
+thermionic emission 222
 
-## degrees
+degrees
 
-## temperature scales 85 204
+temperature scales 85 204
 
-## 206–7
+206–7
 
-## see also atomic structure
+see also atomic structure
 
-### density 21–3 in circuits 158–9
+density 21–3 in circuits 158–9
 
-## electrostatic induction 152
+electrostatic induction 152
 
 of water 83 direct (d.
 
@@ -46464,59 +46464,59 @@ of water 83 direct (d.
 
 elements, electric heating devices 179
 
-### dependent variables 281 effects of 157
+dependent variables 281 effects of 157
 
-## emission of radiation 102–3
+emission of radiation 102–3
 
 depth, real and apparent 123 electrons in 157
 
 158, 162
 
-## emitter 188
+emitter 188
 
-## deuterium 239
+deuterium 239
 
-### 243 from electromagnetic induction 199
+243 from electromagnetic induction 199
 
-## endoscopes 128
+endoscopes 128
 
 deviation of light rays 124 magnetic fields and 157
 
-## 209–10
+209–10
 
-## energy
+energy
 
-## diaphragms
+diaphragms
 
-### in steam turbines 63 measurement 158–9
+in steam turbines 63 measurement 158–9
 
 conservation of 53, 57
 
-### dielectric 174 in transistors 189
+dielectric 174 in transistors 189
 
-### of electromagnetic radiation 135
+of electromagnetic radiation 135
 
-### diffraction electric fields 155–6
+diffraction electric fields 155–6
 
-## forms of 50–1
+forms of 50–1
 
 of electromagnetic waves 137 deflection of electron beams 223
 
 losses in buildings 98, 100–1
 
-## of mechanical waves 108–9
+of mechanical waves 108–9
 
-### 110 deflection of radiation 232
+110 deflection of radiation 232
 
-## losses in transformers 205–6
+losses in transformers 205–6
 
-### of sound waves 140 electricity
+of sound waves 140 electricity
 
-## sources see energy sources
+sources see energy sources
 
 diffuse reflection 117–18 dangers of 182–3
 
-### transfer of see transfers of energy
+transfer of see transfers of energy
 
 diffusion 74–5 generation see power stations
 
@@ -46526,21 +46526,21 @@ diffusion cloud chambers 232 renewable energy sources
 
 kinetic energy; nuclear energy etc
 
-### digital circuits 193 heating 179
+digital circuits 193 heating 179
 
-## energy density of fuels 60
+energy density of fuels 60
 
-### digital meters 193 lighting 178
+digital meters 193 lighting 178
 
 energy levels, electrons 241
 
 diodes 169, 187–8 paying for 182
 
-## energy sources
+energy sources
 
 direct current (d.
 
-## ) 159 transmission 206–7
+) 159 transmission 206–7
 
 alternative sources ix, 60–2, 63–4
 
@@ -46548,21 +46548,21 @@ capacitors in d.
 
 circuits 176 see also static electricity
 
-## consumption figures 64–5
+consumption figures 64–5
 
 direct proportionality 280 electricity meters 182
 
 economic, environmental and social
 
-## dispersion of light 124
+dispersion of light 124
 
-## 136 electric motors 178
+136 electric motors 178
 
-## 215–18
+215–18
 
-## issues 64–5
+issues 64–5
 
-### displacement 9 electric power 177–8
+displacement 9 electric power 177–8
 
 food 50, 53–4
 
@@ -46570,17 +46570,17 @@ displacement-distance graphs 106 electric shock 182–3
 
 non-renewable 60, 62–3
 
-## distance-time graphs 10
+distance-time graphs 10
 
 14, 19 electrolytic capacitors 174
 
 renewable 60–2, 63–4
 
-## diverging lenses 129
+diverging lenses 129
 
-### 132 electromagnetic induction 199
+132 electromagnetic induction 199
 
-## energy value of food 53–4
+energy value of food 53–4
 
 double insulation 181–2 applications 202–3
 
@@ -46588,67 +46588,67 @@ double insulation 181–2 applications 202–3
 
 indd 309 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
-### equations force multipliers 67 H
+equations force multipliers 67 H
 
 changing the subject of 279–80 forward-biased diodes 187 half-life 233–4
 
-### heat equation 88 fossil fuels 60
+heat equation 88 fossil fuels 60
 
-### 64 hard magnetic materials 146
+64 hard magnetic materials 146
 
 of motion 14–15 ‘free’ electrons 98 hard X-rays 226
 
-## wave equation 107 free fall
+wave equation 107 free fall
 
-## acceleration of (g) 18–19
+acceleration of (g) 18–19
 
-## 32 head of liquid 69
+32 head of liquid 69
 
 equilibrium freezing points 91 head restraints 58
 
-## conditions for 39
+conditions for 39
 
-## 41 frequency heat 50
+41 frequency heat 50
 
-### states of 44–5 alternating current 160
+states of 44–5 alternating current 160
 
-## 201 conduction 97–8
+201 conduction 97–8
 
 errors light waves 136 convection 99–100
 
 parallax 2–3 measurement by CRO 226 expansion 81–2
 
-### systematic 5–6 mechanical waves 106
+systematic 5–6 mechanical waves 106
 
-## 107 from electric current 157
+107 from electric current 157
 
-## ethanamide
+ethanamide
 
 cooling curve 91 pendulum oscillations 5 latent heat 91–3
 
 evaporation sound waves 141 loss from buildings 98
 
-## 100–1
+100–1
 
-### conditions for 93–4 friction 29
+conditions for 93–4 friction 29
 
-## 36 radiation 102–4
+36 radiation 102–4
 
-## cooling by 94
+cooling by 94
 
-## 283–4 fuels 50
+283–4 fuels 50
 
 54, 60
 
-### 64 specific heat capacity 88–90
+64 specific heat capacity 88–90
 
 evidence xi–xii see also energy sources temperature compared 87
 
-## expansion 81–2 fulcrum 39
+expansion 81–2 fulcrum 39
 
-## 40 heat equation 88
+40 heat equation 88
 
 expansion joints 81 full-scale deflection 220 heaters
 
@@ -46656,23 +46656,23 @@ explosions 48 fundamental frequency 142 electrical 179
 
 extended sources of light 114 fused plugs 181 logic gate control of 195
 
-## eyes 132–3 fuses 179
+eyes 132–3 fuses 179
 
-## 180 heat exchangers
+180 heat exchangers
 
-## nuclear reactors 242
+nuclear reactors 242
 
-## F fusion 243
+# F fusion 243
 
 nuclear 243 heating, electric 179
 
-## facts viii
+facts viii
 
-## specific latent heat of 91–2
+specific latent heat of 91–2
 
-## 93 heating value of fuels 54
+93 heating value of fuels 54
 
-## falling bodies 17–20
+falling bodies 17–20
 
 terminal velocity of 33 G hertz (Hz) 106
 
@@ -46682,23 +46682,23 @@ Hooke’s law 25–6, 283
 
 Faraday’s law 199 Galileo xi, 17, 30
 
-### household electrical circuits 180–2
+household electrical circuits 180–2
 
-### farad (F) 174 galvanometers 219
+farad (F) 174 galvanometers 219
 
 Hubble Space Telescope viii, xi
 
-### ferro-magnetics 146 gamma rays 135
+ferro-magnetics 146 gamma rays 135
 
 138, 231–2
 
 235, 240
 
-## Huygens’ construction 109
+Huygens’ construction 109
 
 field lines 146–8, 209 gases
 
-## hydraulic machines 67–8
+hydraulic machines 67–8
 
 filament lamps 169, 178 diffusion 74–5
 
@@ -46706,33 +46706,33 @@ hydroelectric energy 61, 64
 
 filaments 222 effect of pressure on volume 78
 
-## hydrogen
+hydrogen
 
 fire alarms 82 effect of temperature on pressure
 
-## atoms 151
+atoms 151
 
 fission, nuclear 242 77, 79
 
-## isotopes of 239
+isotopes of 239
 
-## fixed points
+fixed points
 
 temperature scales 85 effect of temperature on volume
 
-## hydrogen bombs 243
+hydrogen bombs 243
 
-## Fleming’s left-hand rule 216
+Fleming’s left-hand rule 216
 
 218, 222 76
 
 Fleming’s right-hand rule 200 kinetic theory 73
 
-## 79–80 I
+79–80 I
 
-### floating 22–3 liquefaction 94–5 ice
+floating 22–3 liquefaction 94–5 ice
 
-### specific latent heat of fusion 92
+specific latent heat of fusion 92
 
 flue-ash precipitation 154 pressure 76–80 ice point 85
 
@@ -46742,23 +46742,23 @@ focal length 130 gas turbines 63 converging lenses 130
 
 food, energy from 50
 
-## 53–4 Geiger
+53–4 Geiger
 
-## Hans 238 plane mirrors 119–20
+Hans 238 plane mirrors 119–20
 
-## force 24
+force 24
 
-### 27 Geiger-Müller (GM) tube 230
+27 Geiger-Müller (GM) tube 230
 
 232, impulse 48–9
 
-### acceleration and 31–2 233–4 incidence
+acceleration and 31–2 233–4 incidence
 
-## angle of 108
+angle of 108
 
 116, 126
 
-### action-at-a-distance forces 24
+action-at-a-distance forces 24
 
 32, generators 200–2 independent variables 281
 
@@ -46766,7 +46766,7 @@ food, energy from 50
 
 addition of 27–8 geothermal energy 62 induction
 
-## of attraction 24
+of attraction 24
 
 150, 152–3 glass induction
 
@@ -46774,39 +46774,39 @@ centripetal 35–6 critical angle of 126 electromagnetic 199–203
 
 on current-carrying wire 215 refraction of light 122 electrostatic 152
 
-## equilibrium 39
+equilibrium 39
 
-## 41 gliding 100 mutual 204
+41 gliding 100 mutual 204
 
-## friction 29
+friction 29
 
-## 36 gold-leaf electroscope 151
+36 gold-leaf electroscope 151
 
-## 230 induction motors 216
+230 induction motors 216
 
 moments 39–41 gradient of straight line graphs 281 inelastic collisions 57–8
 
-### momentum and 48 graphs 281–2 inertia 30
+momentum and 48 graphs 281–2 inertia 30
 
 Newton’s first law 30 gravitational fields 32 infrared radiation 102
 
 135, 136
 
-## Newton’s second law 31–2
+Newton’s second law 31–2
 
-### 48 gravitational potential energy 50
+48 gravitational potential energy 50
 
-## 56 inkjet printers 154
+56 inkjet printers 154
 
-### Newton’s third law 32–3 gravity 24
+Newton’s third law 32–3 gravity 24
 
-### 32 input transducers (sensors) 185
+32 input transducers (sensors) 185
 
 parallelogram law 27–8 centre of see centre of mass insulators (electrical) 151
 
 force constant of a spring 25–6 greenhouse effect 60
 
-## 103 insulators (heat) 98
+103 insulators (heat) 98
 
 force-extension graphs 25 greenhouses 103 integrated circuits 188
 
@@ -46814,7 +46814,7 @@ force-extension graphs 25 greenhouses 103 integrated circuits 188
 
 indd 310 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
 intensity of light 136 reflection 116–18 measurements 2–8
 
@@ -46822,43 +46822,43 @@ interference refraction 122–4 degree of accuracy x
 
 mechanical waves 110–11 shadows 114 mechanical waves 106–12
 
-## sound waves 140 sources 113
+sound waves 140 sources 113
 
-## 114 diffraction 108–9
+114 diffraction 108–9
 
-### internal energy see heat speed of 115
+internal energy see heat speed of 115
 
-## 135 frequency 106
+135 frequency 106
 
 International Space Station ix total internal reflection 126
 
-## 127 interference 110–11
+127 interference 110–11
 
-## inverse proportionality 78
+inverse proportionality 78
 
 280–1 light-beam galvanometers 219 polarisation 111
 
 inverter (NOT gate) 193–4 light-dependent resistors (LDRs) 169
 
-## 186 reflection 108
+186 reflection 108
 
-## 109–10
+109–10
 
-## investigations x–xi
+investigations x–xi
 
 283–4 light-emitting diodes (LEDs) 187 refraction 108
 
-## ionisation 227
+ionisation 227
 
-## 230 light energy 51 speed 107
+230 light energy 51 speed 107
 
-### ionisation energy 241 lighting
+ionisation energy 241 lighting
 
-### electric 178 megawatt (MW) 177
+electric 178 megawatt (MW) 177
 
-## ionosphere 137 lightning 150
+ionosphere 137 lightning 150
 
-## 153 melting points 91
+153 melting points 91
 
 ions 230 light-operated switches 190 meniscus 4
 
@@ -46868,9 +46868,9 @@ irregular reflections 117–18 linear expansivity 82 mercury-in-glass thermomete
 
 isotopes 239 linear (ohmic) conductors 169 metal detectors 207
 
-### I-V graphs 169 lines of force 146–8
+I-V graphs 169 lines of force 146–8
 
-## 209 metals
+209 metals
 
 line spectra 241–2 conduction of electrical current 169
 
@@ -46880,35 +46880,35 @@ jacks, hydraulic 67
 
 liquid-in-glass thermometers 85 metre (m) 2
 
-## jet engines 48
+jet engines 48
 
-### liquids micrometer screw gauges 6–7
+liquids micrometer screw gauges 6–7
 
-## joule (J) 52
+joule (J) 52
 
 convection 99 microphones 51, 202, 213
 
-## joulemeters 180
+joulemeters 180
 
 density 22 microwaves xii, 135, 137–8
 
-## K kinetic theory 73 mirrors
+# K kinetic theory 73 mirrors
 
 kaleidoscopes 120–1 pressure in 66–8 multiple images in 127
 
 Kelvin scale of temperature 77 thermochromic 86 plane 116
 
-## 119–21
+119–21
 
-## Kepler
+# Kepler
 
 Johannes xi live wires 180 mobile phones ix
 
 xii, 37
 
-### kilogram (kg) 4 load 40 moderators
+kilogram (kg) 4 load 40 moderators
 
-## nuclear reactors 242
+nuclear reactors 242
 
 kilowatt-hours (kWh) 182 logic gates 193–4 molecules 72
 
@@ -46918,139 +46918,139 @@ kinetic energy (k.
 
 ) 50, 51
 
-### 56 logic levels 193 moment of a force 39–41
+56 logic levels 193 moment of a force 39–41
 
-## from potential energy 51
+from potential energy 51
 
-## 57 longitudinal waves 106
+57 longitudinal waves 106
 
-## 140 moments
+140 moments
 
-## law of 39–40
+law of 39–40
 
 kinetic theory of matter 72–3 long sight 132–3 momentum 47
 
-## behaviour of gases and 73
+behaviour of gases and 73
 
-## 79–80 looping the loop 36
+79–80 looping the loop 36
 
-## 37 collisions and 47
+37 collisions and 47
 
 conduction of heat and 98 loudness 142 conservation of 47–8
 
-## expansion 81 loudspeakers 51
+expansion 81 loudspeakers 51
 
 140–1, 218 force and 48
 
 latent heat and 93 luminous sources 113 monitoring satellites 37
 
-## temperature and 80
+temperature and 80
 
 85, 87 monochromatic light 136
 
-## motion
+motion
 
-## L magnetic fields 146–8
+L magnetic fields 146–8
 
 Brownian 72, 73
 
 lagging 98 deflection of electron beams 222–3
 
-## circular 35–8
+circular 35–8
 
-## lamps 158
+lamps 158
 
-### 178 deflection of radiation 231
+178 deflection of radiation 231
 
-## equations of 14–15
+equations of 14–15
 
-## lasers ix
+lasers ix
 
 113, 187 due to a current-carrying wire 157
 
-## falling bodies 18
+falling bodies 18
 
-## latent heat 91–3 209–10
+latent heat 91–3 209–10
 
-## projectiles 19–20
+projectiles 19–20
 
 lateral inversion 118–19 due to a solenoid 210
 
 motion sensors 10, 11, 13
 
-### law of the lever 39–40 motor effect 215
+law of the lever 39–40 motor effect 215
 
-## motor effect 215
+motor effect 215
 
 law of moments 39–40 magnetic recording 202–3
 
-## motor rule 216
+motor rule 216
 
 laws viii magnets, properties of 146
 
-## motors 215–18
+motors 215–18
 
 length 2–3, 6–7 magnification 131
 
-## efficiency 178
+efficiency 178
 
-### lenses 129–33 magnifying glasses 131–2
+lenses 129–33 magnifying glasses 131–2
 
-## electric power 178
+electric power 178
 
-### Lenz’s law 200 ‘Maltese cross tube’ 222
+Lenz’s law 200 ‘Maltese cross tube’ 222
 
-## moving-coil galvanometers 219
+moving-coil galvanometers 219
 
-### lever balances 4–5 manometers 69
+lever balances 4–5 manometers 69
 
-## moving-coil loudspeakers 218
+moving-coil loudspeakers 218
 
 levers 40–1 Marsden, Ernest 238
 
-## moving-coil microphones 202
+moving-coil microphones 202
 
 light 135, 136 mass 2, 4–5, 29
 
 multiflash photography 9, 19
 
-### colour 136 acceleration and 31–2
+colour 136 acceleration and 31–2
 
-## multimeters 220
+multimeters 220
 
 dispersion 124, 136 centres of 43–6, 283
 
 multipliers, voltmeters 219–20
 
-### frequency 136 as measure of inertia 30
+frequency 136 as measure of inertia 30
 
-## multiplying factors 67
+multiplying factors 67
 
 from electric current 157 mass defects 242
 
 muscles, energy transfers in 54
 
-## lenses 129–33 matter
+lenses 129–33 matter
 
-## kinetic theory see kinetic
+kinetic theory see kinetic
 
-## musical notes 142–3
+musical notes 142–3
 
-### rays and beams 113 theory of matter
+rays and beams 113 theory of matter
 
-## mutual induction 204
+mutual induction 204
 
 9781444176421_Index_09.
 
 indd 311 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
-## N pendulums prisms
+# N pendulums prisms
 
 NAND gates 194 energy interchanges 57 refraction and dispersion of light
 
-### National Grid 206–7 period of 5 124
+National Grid 206–7 period of 5 124
 
 negative electric charge 150 penetrating power
 
@@ -47058,29 +47058,29 @@ radiation 231 total internal reflection 127
 
 neutral equilibrium 45 penumbra 114 problem solving 279
 
-## neutral points
+neutral points
 
-## magnetic fields 147 period
+magnetic fields 147 period
 
-## pendulums 5 processors 185
+pendulums 5 processors 185
 
 neutral wires 180 periscopes 117 progressive (travelling) waves 106
 
-### neutrinos 240 permanent magnetism 146
+neutrinos 240 permanent magnetism 146
 
-## 211 projectiles 19–20
+211 projectiles 19–20
 
 neutron number 239 petroleum 54 proportions 280–1
 
-## neutrons 151
+neutrons 151
 
-## 239 phase of waves 107
+239 phase of waves 107
 
-## 110 proton number 239
+110 proton number 239
 
-## Newton
+# Newton
 
-### Isaac xi photocopiers 154 protons 151
+# Isaac xi photocopiers 154 protons 151
 
 newton (N) 24–5 photoelectric effect 135 pull-on current 212
 
@@ -47088,177 +47088,177 @@ Newton’s cradle 58 photoelectric emission 227 pulses of ripples 107
 
 Newton’s first law 30 photogate timers 11 pumped storage systems 63–4
 
-## Newton’s second law 31–2
+Newton’s second law 31–2
 
-## 48 photons 227
+48 photons 227
 
-## 241 Q
+241 Q
 
 Newton’s third law 32–3 pinhole cameras 114
 
-## quality of a note 142–3
+quality of a note 142–3
 
-## noise 142 pitch of a note 142
+noise 142 pitch of a note 142
 
-### quartz crystal oscillators 143
+quartz crystal oscillators 143
 
 non-luminous objects 113 plane mirrors 116
 
-## 119–21
+119–21
 
-## non-ohmic conductors 169
+non-ohmic conductors 169
 
-## 188 plane polarisation 111 R
+188 plane polarisation 111 R
 
-### non-renewable energy sources 60
+non-renewable energy sources 60
 
-## planetary system xi radar 137
+planetary system xi radar 137
 
 62–3 plotting compasses 147 radiant electric fires 179
 
-## NOR gates 194 plugs
+# NOR gates 194 plugs
 
-## electrical 181 radiation
+electrical 181 radiation
 
-## normal 108
+normal 108
 
-### 116 plumb lines 43 background 230
+116 plumb lines 43 background 230
 
 NOT gates (inverters) 193–4 ‘plum pudding’ model 238 electromagnetic see electromagnetic
 
-## nuclear energy 51
+nuclear energy 51
 
 60, 64
 
 242–3 pointer-type galvanometers 219 radiation
 
-## nuclear reactors 60
+nuclear reactors 60
 
 64, 242–3 point sources of light 114 of heat 102–4
 
-## nuclei 239
+nuclei 239
 
-## 240 polarisation
+240 polarisation
 
 of mechanical waves 111 nuclear see radioactivity
 
-### see also atomic structure poles
+see also atomic structure poles
 
-### magnetic 146 radioactive decay 233–4
+magnetic 146 radioactive decay 233–4
 
-## 239–40
+239–40
 
-## nucleons 239 pollution 60
+nucleons 239 pollution 60
 
-## 64 radioactivity 230
+64 radioactivity 230
 
-## nuclides 239
+nuclides 239
 
-### 240 positive electric charge 150 alpha
+240 positive electric charge 150 alpha
 
-## beta and gamma rays 231–2
+beta and gamma rays 231–2
 
-## positrons 240 dangers 235–6
+positrons 240 dangers 235–6
 
 potential difference (p.
 
 ) 163 detection 230, 232–3
 
-## octaves 142
+octaves 142
 
 energy transfers and 162 ionising effect of radiation 230
 
 Oersted, Hans 209
 
-## measurement 164
+measurement 164
 
-## 225 particle tracks 232–3
+225 particle tracks 232–3
 
-## ohm (Ω) 167
+ohm (Ω) 167
 
-### potential divider circuits 168
+potential divider circuits 168
 
 172, 190 safety precautions xi
 
-## ohmic (linear) conductors 169
+ohmic (linear) conductors 169
 
 potential energy (p.
 
 ) 50, 51, 56 sources of radiation 235–6
 
-## ohm-metre (Ωm) 171
+ohm-metre (Ωm) 171
 
-## change to kinetic energy 51
+change to kinetic energy 51
 
-## 57 uses 234–5
+57 uses 234–5
 
-## Ohm’s law 169
+Ohm’s law 169
 
-### potentiometers 168 radioisotopes 234–5
+potentiometers 168 radioisotopes 234–5
 
 236, 239
 
-## opaque objects 114
+opaque objects 114
 
-## power radionuclides 239
+power radionuclides 239
 
-## open circuit 163
+open circuit 163
 
 in electric circuits 177–8 radiotherapy 235
 
-## operating theatres
+operating theatres
 
-## static electricity in
+static electricity in
 
 of a lens 131 radio waves 135, 137
 
-## mechanical 52
+mechanical 52
 
-## 53 range of thermometers 86
+53 range of thermometers 86
 
-## optical centre of lens 129
+optical centre of lens 129
 
-### power stations 62–4 rarefactions 140
+power stations 62–4 rarefactions 140
 
-## optical density 122
+optical density 122
 
-### alternators 201–2 ratemeters 230
+alternators 201–2 ratemeters 230
 
-## optical fibres 128
+optical fibres 128
 
-## economic
+economic
 
 environmental and social ray diagrams 131
 
-## orbits 36–7
+orbits 36–7
 
-## issues 64–5 rays
+issues 64–5 rays
 
-## OR gates 194
+# OR gates 194
 
-## geothermal 62 of light 113
+geothermal 62 of light 113
 
 output transducers 185, 186–7
 
-### nuclear 242–3 mechanical waves 107
+nuclear 242–3 mechanical waves 107
 
-## overtones 142
+overtones 142
 
 thermal 62–3, 202 real images 119
 
-### P powers of ten 2 reciprocals 279
+# P powers of ten 2 reciprocals 279
 
 parallax errors 5–6 pressure 66 rectifiers 188
 
-## parallel circuits 158
+parallel circuits 158
 
-## 159 atmospheric 69
+159 atmospheric 69
 
-## 76 reed switches 212–13
+76 reed switches 212–13
 
 household circuits 180 effect on volume of gas 78
 
-## 79 reflection
+79 reflection
 
 resistors in 170 of gases 76–80 angle of 108
 
@@ -47268,11 +47268,11 @@ voltage in 164 in liquids 66–8 heat radiation 102
 
 parallelogram law 27–8 pressure gauges 69–70 light 116–18
 
-### particle tracks 232–3 Pressure law 77
+particle tracks 232–3 Pressure law 77
 
-## 79 mechanical waves 108
+79 mechanical waves 108
 
-## 109–10
+109–10
 
 pascal (Pa) 66 primary coils 204–5 radio waves 137
 
@@ -47284,65 +47284,65 @@ principal focus of a lens 130 total internal 126
 
 indd 312 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
-### refraction resistors in 169–70 steel
+refraction resistors in 169–70 steel
 
-## magnetisation 146
+magnetisation 146
 
 light 122–4 voltages 164 step-down transformers 205
 
-## mechanical waves 108
+mechanical waves 108
 
-### 110 shadows 114 step-up transformers 205
+110 shadows 114 step-up transformers 205
 
 refractive index 123–4 short sight 132 sterilisation 235
 
 critical angle and 126–7 shrink-fitting 81
 
-## 95 stopping distance 58
+95 stopping distance 58
 
-## refuelling
+refuelling
 
 static electricity and 153 shunts 219 storage heaters 179
 
 regular reflection 117 significant figures 3 straight line graphs 281
 
-## relays 186–7
+relays 186–7
 
-### 212 sinking 22 strain energy 50
+212 sinking 22 strain energy 50
 
-## renewable energy sources 60–2
+renewable energy sources 60–2
 
 63–4 SI (Système International d’ Unités) street lights
 
-## logic gate control of 195
+logic gate control of 195
 
-### reports x–xi system 2 stroboscopes 107
+reports x–xi system 2 stroboscopes 107
 
 residual current circuit breaker (RCCB) sliding (dynamic) friction 29 sulphur dioxide 60
 
-## 181 slip rings 200 Sun 243
+181 slip rings 200 Sun 243
 
 residual current device (RCD) 181 soft magnetic materials 146 superconductors 77–8
 
 resistance 167 soft X-rays 226 superfluids 77
 
-### measurement 168 solar energy 60–1
+measurement 168 solar energy 60–1
 
-## 64 superposition of waves 110
+64 superposition of waves 110
 
 in transformers 205 solar furnaces 61 surface area
 
-## effect on evaporation 93
+effect on evaporation 93
 
 variation with length of wire 284 solar panels 60
 
-## 61 sweating 94
+61 sweating 94
 
 variation with temperature 169 solenoids 146
 
-## 210 switches 158
+210 switches 158
 
 resistance thermometers 86 solidification 94 house circuits 180
 
@@ -47352,33 +47352,33 @@ resistors 167–8 density 22 transistors as 189–91
 
 colour code 171 kinetic theory and 72–3 systematic errors 5–6
 
-## light dependent (LDRs) 169
+light dependent (LDRs) 169
 
-## 186 sonar 143
+186 sonar 143
 
 in series and in parallel 169–70 sound waves 51
 
-## 140–4
+140–4
 
 tape charts 10–11, 13
 
-## variable 168
+variable 168
 
-### 193 specific heat capacity 88–90
+193 specific heat capacity 88–90
 
-## telephones 213
+telephones 213
 
-### resultants 27 specific latent heat
+resultants 27 specific latent heat
 
-## temperature 85
+temperature 85
 
 retardation 10 of fusion 91–2, 93
 
-## absolute zero 77
+absolute zero 77
 
-### reverberation 141 of vaporisation 92–3
+reverberation 141 of vaporisation 92–3
 
-## effect on evaporation 93
+effect on evaporation 93
 
 reverse-biased diodes 187 spectacles 132–3
 
@@ -47386,11 +47386,11 @@ effect on pressure of gas 77, 79
 
 rheostats 168, 190 spectra 124, 241–2
 
-## effect on resistance 169
+effect on resistance 169
 
-### right-hand grip rule 210 speed 9
+right-hand grip rule 210 speed 9
 
-## effect on speed of sound 141
+effect on speed of sound 141
 
 right-hand screw rule 209 braking distance and 58
 
@@ -47398,7 +47398,7 @@ effect on volume of gas 76, 79
 
 ring main circuits 180 from tape charts 10–11
 
-## heat compared 87
+heat compared 87
 
 ripple tanks 107 of light 115, 135
 
@@ -47406,83 +47406,83 @@ kinetic theory and 80, 85, 87
 
 rockets 48 of mechanical waves 107, 108
 
-### temperature-operated switches 190–1
+temperature-operated switches 190–1
 
-## rotors of sound 141–2
+rotors of sound 141–2
 
 temporary magnetism 146, 211
 
-### in alternators 201–2 speedometers 207
+in alternators 201–2 speedometers 207
 
 tenticks 5, 10
 
-### in steam turbines 63 spring balances 24
+in steam turbines 63 spring balances 24
 
-## terminal velocity 33
+terminal velocity 33
 
 Rutherford-Bohr model of the atom springs
 
-## theories viii
+theories viii
 
-## 241 longitudinal waves in 140
+241 longitudinal waves in 140
 
-## thermal capacity 88
+thermal capacity 88
 
-## Rutherford
+# Rutherford
 
-## Ernest 238
+# Ernest 238
 
-## 241 stretching 25–6
+241 stretching 25–6
 
-## thermal energy see heat
+thermal energy see heat
 
-## stability
+stability
 
 S thermal power stations 62–3, 202
 
 mechanical 44–5, 283
 
-## safety systems
+safety systems
 
-### logic gate control of thermals 100
+logic gate control of thermals 100
 
-## nuclear 240
+nuclear 240
 
-## 195 thermionic emission 222
+195 thermionic emission 222
 
-## stable equilibrium 44–5
+stable equilibrium 44–5
 
-### satellites 36–8 thermistors 86
+satellites 36–8 thermistors 86
 
 169, 186
 
-## 190–1
+190–1
 
-## staircase circuits 180
+staircase circuits 180
 
 scalars 9, 29 thermochromic liquids 86
 
-## standard notation 2
+standard notation 2
 
 scale, temperature 85 thermocouple thermometers 86
 
-## starting (static) friction 29
+starting (static) friction 29
 
-## scalers
+scalers
 
 radiation measurement 230 thermometers 85–6
 
-## static electricity 150–2
+static electricity 150–2
 
-## Schrödinger
+Schrödinger
 
-### Erwin 241 thermonuclear fusion 243
+# Erwin 241 thermonuclear fusion 243
 
-## dangers 153–4
+dangers 153–4
 
-### model of the atom 241–2 thermostats 82
+model of the atom 241–2 thermostats 82
 
-## uses 154
+uses 154
 
 seat belts 49, 58 thickness gauges 234
 
@@ -47490,91 +47490,91 @@ van de Graff generator 154–5, 157
 
 secondary coils 204–5 thinking distance 58
 
-## static (starting) friction 29
+static (starting) friction 29
 
 second (s) 5 thoron, half-life of 233–4
 
-## stators
+stators
 
-## security systems
+security systems
 
 logic gate control of three-heat switches 179
 
-## in alternators 201–2
+in alternators 201–2
 
-## 194–5 threshold energy
+194–5 threshold energy
 
-## thermionic emission
+thermionic emission
 
-## in steam turbines 63
+in steam turbines 63
 
-## seismic waves 144 222
+seismic waves 144 222
 
 steam, specific latent heat of
 
-## semiconductor diodes 169
+semiconductor diodes 169
 
-## 187–8 threshold frequency
+187–8 threshold frequency
 
-## photoelectric
+photoelectric
 
-## vaporisation 93
+vaporisation 93
 
 sensitivity of thermometers 86 emission 227
 
-## steam point 85
+steam point 85
 
-## series circuits 158
+series circuits 158
 
-## 159 tickertape timers 5
+159 tickertape timers 5
 
-## 10–11
+10–11
 
-## steam turbines 62–3
+steam turbines 62–3
 
 9781444176421_Index_09.
 
 indd 313 20/06/14 7:29 AM
 
-## INDEX
+# INDEX
 
-## ticks 5
+ticks 5
 
-### 10 unstable equilibrium 45 expansion 83
+10 unstable equilibrium 45 expansion 83
 
-## tidal barrages 61
+tidal barrages 61
 
-## 62 uranium 60
+62 uranium 60
 
-## 242 refraction of light 123
+242 refraction of light 123
 
-## tidal energy 61–2
+tidal energy 61–2
 
-### 64 U-tube manometers 69 specific heat capacity 89
+64 U-tube manometers 69 specific heat capacity 89
 
-### timbre 142–3 water supply systems 67
+timbre 142–3 water supply systems 67
 
 time 2, 5 watt (W) 52
 
-## vacuum 76
+vacuum 76
 
 measurement of 10–11, 226 wave energy 61
 
-## evaporation into 94
+evaporation into 94
 
 time base 224–5, 226 wave equation 107
 
-## falling bodies in 17
+falling bodies in 17
 
 timers 5, 10–11 waveforms
 
-## sound in 140
+sound in 140
 
-## toner 154 on CRO 225
+toner 154 on CRO 225
 
-## vacuum flasks 103
+vacuum flasks 103
 
-### top-pan balances 5 musical notes 142–3
+top-pan balances 5 musical notes 142–3
 
 van de Graff generator 154–5, 157
 
@@ -47582,19 +47582,19 @@ toppling 44, 283 wavefronts 107
 
 vaporisation, specific latent heat of
 
-## total internal reflection 126
+total internal reflection 126
 
-## 127 wavelength 106
+127 wavelength 106
 
 107, 141
 
-## 92–3
+92–3
 
-## tracers 235 waves
+tracers 235 waves
 
 vapours, liquefaction 94–5
 
-## transfers of energy 50
+transfers of energy 50
 
 51, 57
 
@@ -47602,19 +47602,19 @@ vapours, liquefaction 94–5
 
 variable resistors 168, 193
 
-### efficiency 53 diffraction 108–9
+efficiency 53 diffraction 108–9
 
 110, 137
 
-## variables 281
+variables 281
 
-## in electric circuits 162
+in electric circuits 162
 
-## 163–4 frequency 106
+163–4 frequency 106
 
 107, 136
 
-## variation (proportion) 280–1
+variation (proportion) 280–1
 
 measurement 52 interference 110–11, 140
 
@@ -47622,21 +47622,21 @@ vectors 9, 28
 
 in muscles 54 longitudinal 106, 140
 
-## velocity 9
+velocity 9
 
 potential difference and 162 mechanical 106–12
 
-## equations of motion 14–15
+equations of motion 14–15
 
 in power stations 63 phase 107, 110
 
-## from distance-time graphs 14
+from distance-time graphs 14
 
-### transformers 204–5 polarisation 111
+transformers 204–5 polarisation 111
 
-## terminal 33
+terminal 33
 
-### energy losses in 205–6 progressive 106
+energy losses in 205–6 progressive 106
 
 uniform 13, 14
 
@@ -47644,55 +47644,55 @@ transistors 188–9 reflection see reflection
 
 velocity-time graphs 10, 13
 
-### as switches 189–91 refraction 108
+as switches 189–91 refraction 108
 
 110, 122–4
 
-## ventilation 101
+ventilation 101
 
 transverse waves 106, 135 seismic 144
 
-## vernier scales 6
+vernier scales 6
 
 polarisation 111 sound 51, 140–4
 
-## vibration 140
+vibration 140
 
 tritium 239, 243 superposition 110
 
 virtual images 119, 130
 
-## truth tables 193
+truth tables 193
 
-## 194 transverse 106
+194 transverse 106
 
 111, 135
 
-## voltage 162
+voltage 162
 
 tsunami waves 144 see also electromagnetic radiation
 
-## see also potential difference
+see also potential difference
 
 turning effect see moment of a force light
 
 voltmeters 164, 219–20, 220–1
 
-## wave theory 109–10
+wave theory 109–10
 
 U volt (V) 162, 163
 
 weight 4, 24–5
 
-## ultrasonics 143–4 volume 4
+ultrasonics 143–4 volume 4
 
-## gravity and 32
+gravity and 32
 
-### ultrasound imaging 143 volume of a gas
+ultrasound imaging 143 volume of a gas
 
-## wet suits 98
+wet suits 98
 
-## ultraviolet radiation 102
+ultraviolet radiation 102
 
 135, 136–7 effect of pressure 78
 
@@ -47700,117 +47700,117 @@ wind turbines ix, 61, 64
 
 umbra 114 effect of temperature 76, 79
 
-## work 52
+work 52
 
 uniform acceleration 10, 11, 13, 14–15
 
 W power and 52, 177
 
-## uniform speed 10
+uniform speed 10
 
-## water
+water
 
 uniform velocity 13, 14 X
 
-## conduction of heat 97
+conduction of heat 97
 
 units 2 X-rays xi, 135, 138, 226–7
 
-## density 83
+density 83
 
 9781444176421_Index_09.
 
 indd 314 20/06/14 7:29 AM
 
-## Photo acknowledgements
+# Photo acknowledgements
 
 Photo credits © Andrew Lambert/Science Photo Library
 
-## r © HR Wallingford Ltd
+r © HR Wallingford Ltd
 
-## 110 © BRUCE COLEMAN INC.
+110 © BRUCE COLEMAN INC.
 
 /Alamy; p.
 
-## 113 l © Alexander
+113 l © Alexander
 
 viii t © Philippe Plailly/ Science Photo Library
 
 b © Space Telescope Tsiaras/Science Photo Library
 
-### r © Tom Tracy Photography/Alamy
+r © Tom Tracy Photography/Alamy
 
 Science Institute/NASA/Science Photo Library
 
 ix tl © Mauro p.
 
-## 117 © Owen Franken/CORBIS; p.
+117 © Owen Franken/CORBIS; p.
 
-### 120 © Colin Underhill/Alamy, b
+120 © Colin Underhill/Alamy, b
 
-### Fermarellio/Science Photo Library
+Fermarellio/Science Photo Library
 
 bl © PurestockX/photolibrary.
 
 com, © Phil Schermeister/CORBIS; p.
 
-## 123 © Cn Boon/Alamy; p.
+123 © Cn Boon/Alamy; p.
 
-## tr © NASA
+tr © NASA
 
-### br © Martin Bond/Science Photo Library
+br © Martin Bond/Science Photo Library
 
 x © Christine © Alfred Pasieka/ Science Photo Library p.
 
-## 127 © Last Resort; p.
+127 © Last Resort; p.
 
 Boyd; p.
 
-### 1 © Agence DPPI/Rex Features; p.
+1 © Agence DPPI/Rex Features; p.
 
-### 2 © Chris Ratcliffe/ t © vario images GmbH & Co.
+2 © Chris Ratcliffe/ t © vario images GmbH & Co.
 
 KG/Alamy, b © CNRI/Science Photo
 
 Bloomberg via Getty Images; p.
 
-## 5 © David J.
+5 © David J.
 
 Green - studio/Alamy; p.
 
-## 6 Library; p.
+6 Library; p.
 
-## 129 t © S.
+129 t © S.
 
-## Yiap Selection/Alamy
+Yiap Selection/Alamy
 
-## b © Last Resort
+b © Last Resort
 
-## 136 t
+136 t
 
 © nirutft – Fotolia; p.
 
-## 9 © Images-USA/Alamy; p.
+9 © Images-USA/Alamy; p.
 
 11 © Andrew Lambert © US Geological Survey/Science Photo Library
 
-## b © Mohamad Zaid/
+b © Mohamad Zaid/
 
 /Science Photo Library; p.
 
-## 17 © Images&Stories/Alamy; p.
+17 © Images&Stories/Alamy; p.
 
-## 19 PSSC Rex Features; p.
+19 PSSC Rex Features; p.
 
-## 138 l © Unilab (www.
+138 l © Unilab (www.
 
 unilab.
 
-## uk) Philip Harris
+uk) Philip Harris
 
-## Physics © 1965
+Physics © 1965
 
-## Education Development Center
+# Education Development Center
 
 Inc.
 
@@ -47824,101 +47824,101 @@ uk), r © Image Source White/Image Source/
 
 Company; p.
 
-### 23 © David De Lossy/Photodisc/Thinkstock
+23 © David De Lossy/Photodisc/Thinkstock
 
-## 24 both Thinkstock; p.
+24 both Thinkstock; p.
 
-### 140 © Jonathan Watts/Science Photo Library
+140 © Jonathan Watts/Science Photo Library
 
 © Ross Land/Getty Images; p.
 
-### 27 © Arnulf Husmo/Getty Images; p.
+27 © Arnulf Husmo/Getty Images; p.
 
-### 30 © Andrew Drysale/Rex Features; p.
+30 © Andrew Drysale/Rex Features; p.
 
-### 143 © Science Photo Library; p.
+143 © Science Photo Library; p.
 
 Photo of Arbortech Airboard © Arbortech Pty Ltd
 
-## 33 © Agence © Corbis; p.
+33 © Agence © Corbis; p.
 
-### 145 © Keith Kent/Science Photo Library
+145 © Keith Kent/Science Photo Library
 
-## 148 both
+148 both
 
 DPPI/Rex Features; p.
 
-## 35 © Albaimages/Alamy; p.
+35 © Albaimages/Alamy; p.
 
-## 37 © Rex Features
+37 © Rex Features
 
-### © Andrew Lambert/Science Photo Library
+© Andrew Lambert/Science Photo Library
 
-## 150 © Keith Kent/Science
+150 © Keith Kent/Science
 
-## 38 © ESA; p.
+38 © ESA; p.
 
-### 43 © Kerstgens/SIPA Press/Rex Features
+43 © Kerstgens/SIPA Press/Rex Features
 
-## 44 both Photo Library; p.
+44 both Photo Library; p.
 
-## 153 © Martyn F.
+153 © Martyn F.
 
 Chillmaid/Science Photo Library;
 
 © BBSRC/Silsoe Research Institute; p.
 
-### 49 tl © Robert Cianflone/Getty p.
+49 tl © Robert Cianflone/Getty p.
 
-### 163 © Andrew Lambert/Science Photo Library
+163 © Andrew Lambert/Science Photo Library
 
-## 167 Courtesy and
+167 Courtesy and
 
-## Images
+# Images
 
 bl © Duif du Toit/Gallo Images/Getty Images
 
-### tr © Javier © RS Components Ltd
+tr © Javier © RS Components Ltd
 
-### 168 Courtesy and © RS Components Ltd;
+168 Courtesy and © RS Components Ltd;
 
 Soriano/AFP/Getty Images; p.
 
-### 50 © Ray Fairall/ Photoreporters/Rex p.
+50 © Ray Fairall/ Photoreporters/Rex p.
 
-### 174 t Courtesy and © RS Components Ltd
+174 t Courtesy and © RS Components Ltd
 
-## b © Andrew Lambert/
+b © Andrew Lambert/
 
 Features; p.
 
-## 51 a © Richard Cummins/Corbis
+51 a © Richard Cummins/Corbis
 
-## b © GDC Group Ltd
+b © GDC Group Ltd
 
-## Science Photo Library
+# Science Photo Library
 
-### 181 Courtesy and © RS Components
+181 Courtesy and © RS Components
 
-## c © Alt-6/Alamy
+c © Alt-6/Alamy
 
-### d © Scottish & Southern energy plc
+d © Scottish & Southern energy plc
 
-## 56 © Charles Ltd; p.
+56 © Charles Ltd; p.
 
-### 182 © Siemens Metering Limited; p.
+182 © Siemens Metering Limited; p.
 
-## 185 t © iStockphoto.
+185 t © iStockphoto.
 
 Ommanney/Rex Features; p.
 
-### 58 tl © Volker Moehrke/zefa/Corbis
+58 tl © Volker Moehrke/zefa/Corbis
 
-## com/216Photo
+com/216Photo
 
-### b © AJ Photo/Science Photo Library
+b © AJ Photo/Science Photo Library
 
-## 186 both
+186 both
 
 br © TRL Ltd.
 
@@ -47926,29 +47926,29 @@ br © TRL Ltd.
 
 61 tl © Alex Bartel/Science Courtesy and © RS Components Ltd
 
-## 187 © Andrew Lambert/
+187 © Andrew Lambert/
 
-## Photo Library
+# Photo Library
 
 bl © Courtney Black - The Aurora Solar Car Team
 
-## 62 Science Photo Library; p.
+62 Science Photo Library; p.
 
-### 188 both © Andrew Lambert/Science Photo
+188 both © Andrew Lambert/Science Photo
 
-## tl © Hemis/Alamy
+tl © Hemis/Alamy
 
 tr © Mark Edwards/Still Pictures/Robert Harding
 
-## Library
+# Library
 
-## 190 © Martyn F.
+190 © Martyn F.
 
 Chillmaid/Science Photo Library; p.
 
 br © Mark Edwards/Still Pictures/Robert Harding
 
-## 63 © ALSTOM; © Unilab (www.
+63 © ALSTOM; © Unilab (www.
 
 unilab.
 
@@ -47958,37 +47958,37 @@ philipharris.
 
 uk);
 
-### 65 © Ben Margot/AP/Press Association Images
+65 © Ben Margot/AP/Press Association Images
 
-## 68 © Esa Hiltula/ p.
+68 © Esa Hiltula/ p.
 
-### 196 © Claude Charlier/Science Photo Library
+196 © Claude Charlier/Science Photo Library
 
-## 197 l © James
+197 l © James
 
 Alamy; p.
 
-## 69 © image100/Corbis; p.
+69 © image100/Corbis; p.
 
-## 71 © Dr Linda Stannard
+71 © Dr Linda Stannard
 
-### UCT/ King-Holmes/Science Photo Library
+UCT/ King-Holmes/Science Photo Library
 
-## r © Moviestore Collection
+r © Moviestore Collection
 
 Science Photo Library; p.
 
-## 72 © Dr Linda Stannard
+72 © Dr Linda Stannard
 
-### UCT/Science Photo both © ALSTOM
+UCT/Science Photo both © ALSTOM
 
-### 205 © ALSTOM T & D Transformers Ltd; p.
+205 © ALSTOM T & D Transformers Ltd; p.
 
 Library; p.
 
 74 tl © Claude Nuridsany & Marie Perennou/Science Photo © Alex Bartel/Science Photo Library
 
-## 217 © Elu Power Tools; p.
+217 © Elu Power Tools; p.
 
 Library, bl © Last Resort; p.
 
@@ -48000,9 +48000,9 @@ unilab.
 
 Photo Library; p.
 
-## 81 l © The Linde Group
+81 l © The Linde Group
 
-## r © Chris Mattison/Alamy
+r © Chris Mattison/Alamy
 
 Philip Harris (www.
 
@@ -48010,25 +48010,25 @@ philipharris.
 
 uk); p.
 
-## 225 © Andrew Lambert/
+225 © Andrew Lambert/
 
-## 83 © Martyn F.
+83 © Martyn F.
 
 Chillmaid/Science Photo Library; p.
 
-### 85 © Pete Science Photo Library; p.
+85 © Pete Science Photo Library; p.
 
-### 229 © CERN/Photo Science Library; p.
+229 © CERN/Photo Science Library; p.
 
 Mouginis-Mark; p.
 
-## 92 © Mark Sykes/Alamy; p.
+92 © Mark Sykes/Alamy; p.
 
-### 98 tl © Zoonar RF/ © The Royal Society
+98 tl © Zoonar RF/ © The Royal Society
 
-## Plate 16
+# Plate 16
 
-## Fig 1 from CTR Wilson
+# Fig 1 from CTR Wilson
 
 Proc.
 
@@ -48036,33 +48036,33 @@ Roy.
 
 Soc.
 
-## Thinkstock
+# Thinkstock
 
-### bl © Glenn Bo/IStockphoto/Thinkstock
+bl © Glenn Bo/IStockphoto/Thinkstock
 
 r © Fogstock Lond.
 
 A104, pp. 1-24 (1923); p.
 
-### 233 © Lawrence Berkeley Laboratory/
+233 © Lawrence Berkeley Laboratory/
 
 LLC/SuperStock; p.
 
-### 99 both © sciencephotos/Alamy; p.
+99 both © sciencephotos/Alamy; p.
 
-## 100 © Don B.
+100 © Don B.
 
 Science Photo Library; p.
 
-### 234 © Martin Bond/Science Photo Library;
+234 © Martin Bond/Science Photo Library;
 
 Stevenson/Alamy; p.
 
-### 102 © Sandor Jackal - Fotolia.
+102 © Sandor Jackal - Fotolia.
 
 com; p.
 
-## 104 p.
+104 p.
 
 235 © University Museum of Cultural Heritage – University of Oslo
 
@@ -48070,15 +48070,15 @@ com; p.
 
 Sheppard; p.
 
-### 105 © Tom Tracy Photography/Alamy; p.
+105 © Tom Tracy Photography/Alamy; p.
 
-### 108 Norway (photo Eirik Irgens Johnsen)
+108 Norway (photo Eirik Irgens Johnsen)
 
-### 242 both Courtesy of the Physics
+242 both Courtesy of the Physics
 
 all © Andrew Lambert/Science Photo Library
 
-### 109 l Department, University of Surrey.
+109 l Department, University of Surrey.
 
 9781444176421_Photo_Ack_08.
 

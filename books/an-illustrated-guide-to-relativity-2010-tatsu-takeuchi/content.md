@@ -1,6 +1,6 @@
-### This page intentionally left blank
+# This page intentionally left blank
 
-### An Illustrated Guide to Relativity
+# An Illustrated Guide to Relativity
 
 Aimed at both physics students and non-science majors
 
@@ -8,19 +8,19 @@ this unique book explains Einstein’s Special Theory of Relativity pictorially
 
 using diagrams rather than equations.
 
-## The diagrams guide the reader
+# The diagrams guide the reader
 
-## step-by-step
+step-by-step
 
 from the basics of relativity to advanced topics including the addition of velocities
 
-## Lorentz contraction
+# Lorentz contraction
 
-## time dilation
+time dilation
 
-## twin paradox
+twin paradox
 
-## Doppler shift
+# Doppler shift
 
 and Einstein’s famous equation E = mc2.
 
@@ -36,53 +36,53 @@ Tatsu Takeuchi is an Associate Professor in the Department of Physics at Virgini
 
 This book grew from the “Highlights of Contemporary Physics” course he taught for many years.
 
-### Primarily aimed at non-physics majors
+# Primarily aimed at non-physics majors
 
 it has been highly popular among physics students as well.
 
-### An Illustrated Guide to Relativity
+# An Illustrated Guide to Relativity
 
-## TATSU TAKEUCHI
+# TATSU TAKEUCHI
 
 Department of Physics, Virginia Tech
 
-## CAMBRIDGE UNIVERSITY PRESS
+# CAMBRIDGE UNIVERSITY PRESS
 
-## Cambridge
+# Cambridge
 
-## New York
+# New York
 
-## Melbourne
+# Melbourne
 
-## Madrid
+# Madrid
 
-## Cape Town
+# Cape Town
 
-## Singapore
+# Singapore
 
-## São Paulo
+São Paulo
 
 Delhi, Dubai
 
-## Tokyo
+# Tokyo
 
-## Cambridge University Press
+# Cambridge University Press
 
-## The Edinburgh Building
+# The Edinburgh Building
 
-## Cambridge CB2 8RU
+# Cambridge CB2 8RU
 
 Published in the United States of America by Cambridge University Press
 
-## New York
+# New York
 
 cambridge.
 
 cambridge.
 
-## org/9780521763943
+org/9780521763943
 
-## Takeuchi 2010
+# Takeuchi 2010
 
 Subject to statutory exception and to the provision of relevant collective licensing agreements
 
@@ -92,209 +92,209 @@ Cambridge University Press has no responsibility for the persistence or accuracy
 
 and does not guarantee that any content on such websites is
 
-## or will remain
+or will remain
 
 accurate or appropriate.
 
-## Contents
+# Contents
 
-### Preface to English edition page viii
+# Preface to English edition page viii
 
-### Preface to Japanese edition ix
+# Preface to Japanese edition ix
 
-## Part I Kinematics
+# Part I Kinematics
 
-### Relativity without any equations 1
+# Relativity without any equations 1
 
-### 1 Welcome to the world of relativity 2
+1 Welcome to the world of relativity 2
 
-## 2 Basics 4
+2 Basics 4
 
-## 2.1 Questions about motion 4
+# 2.1 Questions about motion 4
 
-## 2.2 Frames of reference 5
+# 2.2 Frames of reference 5
 
-## 2.3 Relativity of motion 12
+# 2.3 Relativity of motion 12
 
-## 2.4 The Law of Inertia 14
+# 2.4 The Law of Inertia 14
 
-### 2.5 Inertial and non-inertial frames 18
+# 2.5 Inertial and non-inertial frames 18
 
-### 6 What’s so “special” about Special Relativity?
+6 What’s so “special” about Special Relativity?
 
-## 3 Galilean relativity 30
+3 Galilean relativity 30
 
-## 3.1 Basic questions 30
+# 3.1 Basic questions 30
 
-## 3.2 Spacetime diagrams 34
+# 3.2 Spacetime diagrams 34
 
-### 3.3 The Galilei transformation 40
+# 3.3 The Galilei transformation 40
 
-## 3.4 Addition of velocities 54
+# 3.4 Addition of velocities 54
 
-### 3.5 Acceleration and Newton’s Second Law 56
+# 3.5 Acceleration and Newton’s Second Law 56
 
-## 4 Einsteinian relativity 59
+4 Einsteinian relativity 59
 
-### 4.1 The mystery of the speed of light 59
+# 4.1 The mystery of the speed of light 59
 
-### 4.2 Modification to the spacetime diagram 64
+# 4.2 Modification to the spacetime diagram 64
 
-## 4.3 The problem 66
+# 4.3 The problem 66
 
-## 4.4 The solution 72
+# 4.4 The solution 72
 
-## 4.5 Einstein’s argument 80
+# 4.5 Einstein’s argument 80
 
-### 4.6 The solution, continued 85
+# 4.6 The solution, continued 85
 
-### 4.7 Conservation of spacetime volume 88
+# 4.7 Conservation of spacetime volume 88
 
-### 4.8 The Lorentz transformation 94
+# 4.8 The Lorentz transformation 94
 
 9 The low velocity limit of the Lorentz transformation 108
 
-### 4.10 Addition of velocities 110
+# 4.10 Addition of velocities 110
 
-### 4.11 Dependence of inertia on speed 116
+# 4.11 Dependence of inertia on speed 116
 
-## 5 Causality 120
+5 Causality 120
 
-## 5.1 Before and after 120
+# 5.1 Before and after 120
 
-## 5.2 Paradox? 122
+# 5.2 Paradox? 122
 
-### 5.3 Instantaneous communication? 124
+# 5.3 Instantaneous communication? 124
 
-### 5.4 Impossibility of faster than light travel 126
+# 5.4 Impossibility of faster than light travel 126
 
-## 5.5 The light-cone 128
+# 5.5 The light-cone 128
 
-## 6 Consequences 130
+6 Consequences 130
 
-### 6.1 Synchronization of clocks 130
+# 6.1 Synchronization of clocks 130
 
-## 6.2 Time dilation 132
+# 6.2 Time dilation 132
 
-### 6.3 What time dilation DOES NOT mean 138
+# 6.3 What time dilation DOES NOT mean 138
 
-## 6.4 Lorentz contraction 140
+# 6.4 Lorentz contraction 140
 
-### 6.5 What Lorentz contraction DOES NOT mean 146
+# 6.5 What Lorentz contraction DOES NOT mean 146
 
-## 6.6 Twin paradox 148
+# 6.6 Twin paradox 148
 
-## 6.7 Doppler effect 154
+# 6.7 Doppler effect 154
 
-## 6.7.1 Red shift 156
+# 6.7.1 Red shift 156
 
-## 6.7.2 Blue shift 158
+# 6.7.2 Blue shift 158
 
-### 3 Red shift and the expansion of the universe 160
+3 Red shift and the expansion of the universe 160
 
-## 7 Summary of Part I 162
+7 Summary of Part I 162
 
-## Part II Problems 165
+# Part II Problems 165
 
-## 8 Qualitative problems 166
+8 Qualitative problems 166
 
-### 8.1 Reading the spacetime diagram 166
+# 8.1 Reading the spacetime diagram 166
 
-## 8.1.1 Street lamps 166
+# 8.1.1 Street lamps 166
 
-## 8.1.2 Supernovae 168
+# 8.1.2 Supernovae 168
 
-### 8.2 Questions on before and after 170
+# 8.2 Questions on before and after 170
 
-### 8.2.1 The hare and the tortoise 1 170
+# 8.2.1 The hare and the tortoise 1 170
 
-### 8.2.2 The hare and the tortoise 2 172
+# 8.2.2 The hare and the tortoise 2 172
 
-### 8.2.3 The hare and the tortoise 3 174
+# 8.2.3 The hare and the tortoise 3 174
 
-### 8.2.4 The starship and the supernova 176
+# 8.2.4 The starship and the supernova 176
 
-## 8.3 Relativistic sports 178
+# 8.3 Relativistic sports 178
 
-### 8.3.1 Tagging up in baseball 1 178
+# 8.3.1 Tagging up in baseball 1 178
 
-### 8.3.2 Tagging up in baseball 2 180
+# 8.3.2 Tagging up in baseball 2 180
 
-### 8.3.3 The offside rule in soccer 182
+# 8.3.3 The offside rule in soccer 182
 
-## 8.4 Lorentz contraction 184
+# 8.4 Lorentz contraction 184
 
-## 8.4.1 Train and tunnel 184
+# 8.4.1 Train and tunnel 184
 
-### 2 The starship and the enemy space cruiser 1 186
+2 The starship and the enemy space cruiser 1 186
 
-### 3 The starship and the enemy space cruiser 2 188
+3 The starship and the enemy space cruiser 2 188
 
-### 8.4.4 The duel of the space cruisers 190
+# 8.4.4 The duel of the space cruisers 190
 
-## 8.4.5 Trains in a tunnel 192
+# 8.4.5 Trains in a tunnel 192
 
-### Solutions to Chapter 8 problems 194
+# Solutions to Chapter 8 problems 194
 
-## 9 Quantitative problems 200
+9 Quantitative problems 200
 
-### 9.1 Addition of velocities 200
+# 9.1 Addition of velocities 200
 
-## Part III Dynamics
+# Part III Dynamics
 
-### Relativity with a few equations 207
+# Relativity with a few equations 207
 
-### 10 The world’s most famous equation 209
+10 The world’s most famous equation 209
 
-## 11 The problem 210
+11 The problem 210
 
-## 12 Newtonian dynamics 212
+12 Newtonian dynamics 212
 
-### 12.1 The mass–momentum vector 212
+# 12.1 The mass–momentum vector 212
 
-## 12.2 The impulse vector 218
+# 12.2 The impulse vector 218
 
-## 12.3 Inertial mass 220
+# 12.3 Inertial mass 220
 
-## 12.4 Newton’s Second Law 222
+# 12.4 Newton’s Second Law 222
 
 5 Newton’s Third Law and the conservation of mass–momentum 224
 
-## 13 Relativistic dynamics 230
+13 Relativistic dynamics 230
 
-### 13.1 The energy–momentum vector 230
+# 13.1 The energy–momentum vector 230
 
-### 13.2 The energy–momentum vector of a photon 236
+# 13.2 The energy–momentum vector of a photon 236
 
-### 13.3 The work–impulse vector 240
+# 13.3 The work–impulse vector 240
 
-### 13.4 Conservation of energy–momentum 244
+# 13.4 Conservation of energy–momentum 244
 
-## 13.5 E = mc2 246
+# 13.5 E = mc2 246
 
-### 13.6 Common misconception about E = mc2 248
+# 13.6 Common misconception about E = mc2 248
 
-## 14 Summary of Part III 251
+14 Summary of Part III 251
 
-## Afterword 252
+# Afterword 252
 
-## References 254
+# References 254
 
-## Index 255
+# Index 255
 
-## Preface to English edition
+# Preface to English edition
 
 This book explains Einstein’s Special Theory of Relativity (SR) using diagrams only.
 
 Readers who are used to thinking of physics as a vast labyrinth of equations may feel somewhat uneasy about this unconventional approach and fear that it risks losing important information about SR that can only be conveyed via equations.
 
-## However
+# However
 
 this fear is not only unfounded but actually reversed
 
 it is the equations that fail to convey the essence of SR that diagrams can easily display right in front of your eyes.
 
-## After all
+# After all
 
 SR, and also the General Theory of Relativity (GR)
 
@@ -302,9 +302,9 @@ are about the geometry of the spacetime that we inhabit
 
 and what can best describe geometry if not diagrams?
 
-### Equations are simply inadequate
+# Equations are simply inadequate
 
-## to wit
+to wit
 
 one diagram is worth a thousand equations.
 
@@ -312,11 +312,11 @@ So if you are a reader for whom equations are anathema
 
 rest assured that you will get much more out of this book than any physics student will get out of a textbook full of equations.
 
-## If you are a physics student
+# If you are a physics student
 
 this book will provide you with a deep enough understanding of SR that will enable you to reproduce any equation you may need from scratch
 
-## if such a need ever arises
+if such a need ever arises
 
 and also prepare you for GR as well.
 
@@ -342,17 +342,17 @@ It was a great joy working with them all.
 
 January, 2010
 
-## Tatsu Takeuchi
+# Tatsu Takeuchi
 
-## Preface to Japanese edition
+# Preface to Japanese edition
 
-## All physical theories
+# All physical theories
 
 their mathematical expressions notwithstanding
 
 ought to lend themselves to so simple a description that even a child could understand them.
 
-## Albert Einstein [3]
+Albert Einstein [3]
 
 Einstein’s celebrated Theory of Relativity is one of those scientific theories whose name is so famous that most people have heard of it
 
@@ -362,7 +362,7 @@ or even what the theory is about.
 
 You, too
 
-## have probably heard the name
+have probably heard the name
 
 perhaps referred to in a science fiction novel or movie
 
@@ -374,27 +374,27 @@ The aim of this book is to show you that that impression is wrong.
 
 The Theory of Relativity comes in two flavors
 
-## the Special and the General
+the Special and the General
 
 and if we limit our attention to the Special Theory of Relativity (SR)
 
-## which is a theory of motion
+which is a theory of motion
 
 it is not a particularly difficult theory at all and can be understood by anyone
 
 perhaps “even a child.
 
-## ” By “be understood” here
+” By “be understood” here
 
 I do not mean that anyone can develop a vague idea of what the theory is saying
 
 but that anyone can understand it in its full glory beginning from its basic tenets to all of its logical consequences.
 
-## And furthermore
+# And furthermore
 
 it can be understood without using ANY equations!
 
-## In fact
+# In fact
 
 one can develop a deeper understanding of the theory by avoiding the use of equations altogether.
 
@@ -410,15 +410,15 @@ we must listen to what SR is telling us with an open mind and not let our common
 
 This book is an attempt to explain Einstein’s Special Theory of Relativity (SR) without using equations.
 
-## Instead
+# Instead
 
 we will use drawings called spacetime diagrams in a way that will let you “see” the essence of the theory.
 
 This book has three parts.
 
-### Part I explains why SR was constructed
+# Part I explains why SR was constructed
 
-## what it is telling us
+what it is telling us
 
 and why SR had to be the way it is.
 
@@ -430,23 +430,23 @@ and know where the pitfalls are that may mislead us to think that there must be 
 
 Part III deals with the famous equation E = mc2.
 
-### Since E = mc2 itself is an equation
+Since E = mc2 itself is an equation
 
 the appearance of some equations in part III could not be avoided.
 
-## However
+# However
 
 the basic argument proceeds via diagrams and can be followed without following the equations.
 
-### The General Theory of Relativity
+# The General Theory of Relativity
 
-## which is a theory of gravity
+which is a theory of gravity
 
 can, in principle
 
 Also be explained using drawings only.
 
-## However
+# However
 
 since it is a somewhat complicated theory
 
@@ -460,9 +460,9 @@ I thank all the students who have taken this course and have served as guinea pi
 
 I would also like to thank Djordje Minic
 
-## Joy Rosenthal
+# Joy Rosenthal
 
-## Simone Paterson
+# Simone Paterson
 
 and Masako Saito¯ Koike for their critical reading of this manuscript and their many helpful suggestions.
 
@@ -476,31 +476,31 @@ this book would never have been completed.
 
 August, 2005
 
-## Tatsu Takeuchi
+# Tatsu Takeuchi
 
-## PART I
+# PART I
 
-## Kinematics
+# Kinematics
 
-### Relativity without any equations
+# Relativity without any equations
 
-### Welcome to the world of relativity
+# Welcome to the world of relativity
 
 Albert Einstein’s Special Theory of Relativity
 
-### or Special Relativity for short
+or Special Relativity for short
 
 came into being in 1905 in a paper with the unassuming title of “On the electrodynamics of moving bodies.
 
-## ” 1 As the title suggests
+” 1 As the title suggests
 
 Special Relativity is a theory of “moving bodies
 
-## ” 2 that is
+” 2 that is
 
 motion.
 
-## In particular
+# In particular
 
 it is a theory of how motion is perceived differently by different observers.
 
@@ -508,7 +508,7 @@ Since motion is the process in which an object’s location in space changes wit
 
 any theory of motion is also a theory of space and time.
 
-## Therefore
+# Therefore
 
 Special Relativity can be said to be a theory of how space and time are perceived differently by different observers.
 
@@ -516,27 +516,27 @@ The “electrodynamics” part of the paper title refers to the fact that the th
 
 which is an electromagnetic wave.
 
-## As we will learn in this book
+# As we will learn in this book
 
-## the speed of light in vacuum
+the speed of light in vacuum
 
-## which we will call c
+which we will call c
 
 3 plays a very special role in the theory of relativity.
 
-### Einstein (1879–1955) was not the first
+Einstein (1879–1955) was not the first
 
 the origin in any frame.
 
 We will assume throughout the rest of the book
 
-## without comment
+without comment
 
 and even if the clock is not drawn explicitly in my drawings
 
 that the clock is always fixed at the origin
 
-## that is
+that is
 
 the clock is always at rest in its frame.
 
@@ -544,11 +544,11 @@ In the tree-frame we discussed above to describe the motion of the car
 
 the clock is assumed to be fixed to the tree.
 
-### If we fix the clock to the car instead
+# If we fix the clock to the car instead
 
 it will move with the car.
 
-## In that case
+# In that case
 
 we will specify the location of objects relative to the car
 
@@ -558,7 +558,7 @@ which we will call the car-frame.
 
 You can always use the clock as your origin.
 
-## The car-frame
+# The car-frame
 
 The choice of frame to describe the motion of any object is not unique
 
@@ -566,7 +566,7 @@ and, depending on which frame you choose
 
 the answers to the basic questions we listed in section 2.
 
-## 1 would be different, namely:
+1 would be different, namely:
 
 Q1: Is it moving or is it at rest?
 
@@ -576,11 +576,11 @@ what is its velocity?
 
 The answers we come up with in a particular frame will only be correct in that frame.
 
-## In other words
+# In other words
 
 motion is always relative.
 
-## For instance
+# For instance
 
 in the example of the car driving along a horizontal road
 
@@ -590,21 +590,21 @@ but it is the other way around if observed in the car-frame.
 
 This relativity of motion can be traced back to the relativity of position
 
-## that is
+that is
 
 to the fact that being at the same place is a concept that depends on the observer.
 
-## Of course
+# Of course
 
 it should not matter which frame is chosen to describe the motion since what is actually happening to the object is independent of who is doing the observing
 
 or whether there is anyone there to observe it at all.
 
-## In particular
+# In particular
 
 the laws of physics that govern motion must be independent of the choice of frame.
 
-## However
+# However
 
 it can happen that the laws of physics may seem simpler in certain frames than others.
 
@@ -616,9 +616,9 @@ the motion can seem more complicated than it really is
 
 or overly simplified.
 
-## tree-frame car-frame
+tree-frame car-frame
 
-### If you ever take physics in school
+# If you ever take physics in school
 
 one of the first laws you learn is the Law of Inertia.
 
@@ -630,11 +630,11 @@ What the law says is the following:
 
 Law of Inertia (aka Newton’s First Law):
 
-## • If an object is at rest
+• If an object is at rest
 
 it will stay at rest unless an external force acts on it.
 
-## • If an object is moving
+• If an object is moving
 
 it will keep on moving at the same velocity (that is
 
@@ -642,11 +642,11 @@ in the same direction at the same speed) unless an external force acts on it.
 
 It is a very simple law but it took humans thousands of years to discover it
 
-## in particular
+in particular
 
 the second part.
 
-## The first part of the law
+# The first part of the law
 
 that objects at rest will stay at rest unless an external force acts on it
 
@@ -658,7 +658,7 @@ The second part of the law is often obscured by friction
 
 the main reason why it was so difficult to discover.
 
-## For instance
+# For instance
 
 when you are pushing a heavy object across the floor
 
@@ -672,7 +672,7 @@ the object would keep on moving just like the law says even if you stop pushing 
 
 This can be demonstrated by putting the same heavy object on a cart with well-lubricated wheels.
 
-## In this case
+# In this case
 
 because the friction between the object and the floor is reduced
 
@@ -684,7 +684,7 @@ confirming the second part of the Law of Inertia.
 
 Objects at rest do not start moving of their own accord.
 
-## In the presence of friction
+# In the presence of friction
 
 objects move while being pushed.
 
@@ -692,11 +692,11 @@ but stop when the force is removed.
 
 In the absence of friction.
 
-## once an object starts moving
+once an object starts moving
 
 it keeps on moving even after the force is removed.
 
-## Of course
+# Of course
 
 you do not have to do an experiment like this to confirm this law.
 
@@ -718,11 +718,11 @@ you feel your body being pushed toward the right (left).
 
 This is because your body is resisting the change in its direction of motion.
 
-## Basically
+# Basically
 
 what the Law of Inertia is saying is that objects resist any change to their velocities.
 
-## If left alone
+# If left alone
 
 an object will continue to move at constant velocity
 
@@ -742,13 +742,13 @@ Now, the problem with the Law of Inertia is that it is not correct in all frames
 
 (They probably don’t tell you this in school.
 
-## ) For instance
+) For instance
 
 when you are riding your car and using the car-frame to observe the motion of your body
 
 your body will be jerked around when the car accelerates or decelerates or makes a turn even though no forces are acting on your body.
 
-## Clearly
+# Clearly
 
 the Law of Inertia does not hold in the car-frame because the frame itself is changing its speed and/or direction of motion.
 
@@ -762,7 +762,7 @@ This is because if an object is moving at a constant velocity relative to the fi
 
 then it will be doing so relative to the second frame as well.
 
-## Therefore
+# Therefore
 
 there are an infinite number of inertial frames.
 
@@ -776,11 +776,11 @@ the ball receives no net external force.
 
 (Gravity is cancelled by the normal force from the floor.
 
-### ) Observed from the tree-frame
+) Observed from the tree-frame
 
 it will continue to move at the same velocity as the train.
 
-## Observed from the train-frame
+# Observed from the train-frame
 
 it will continue to stay at rest.
 
@@ -804,13 +804,13 @@ In the example shown in the drawing on the opposite page
 
 the ball is again sitting on the frictionless floor of the train.
 
-## But this time
+# But this time
 
 the velocity of the train relative to the tree-frame is not constant
 
 it starts to speed up toward the right in between the second and third drawings from the top.
 
-## As a result
+# As a result
 
 the ball accelerates to the left in the train-frame even though no net external force is acting on it.
 
@@ -824,29 +824,29 @@ No net force was applied to the ball but it changed its velocity.
 
 I’m in a non-inertial frame.
 
-## If the train is slowing down
+# If the train is slowing down
 
-## on the other hand
+on the other hand
 
-## as shown here
+as shown here
 
 the ball accelerates to the right even though no net external force is acting on it.
 
 Again, the train-frame is a non-inertial frame.
 
-## Similarly
+# Similarly
 
 the car-frame is an inertial frame as long as the car continues to travel with constant velocity
 
-## that is
+that is
 
-### in a straight line with constant speed
+in a straight line with constant speed
 
 relative to an inertial frame.
 
 It will become a non-inertial frame if the car is changing its speed or direction of motion.
 
-## In an inertial frame
+# In an inertial frame
 
 if nothing is happening to the motion of an object it will be observed as nothing happening
 
@@ -856,11 +856,11 @@ The space shuttle in orbit is also in a non-inertial frame.
 
 It is in constant freefall towards the Earth.
 
-## As a result
+# As a result
 
 objects inside the space shuttle look like they are just floating in mid-air.
 
-## In this non-inertial frame
+# In this non-inertial frame
 
 something is happening to the motion of the objects (they are falling toward the Earth) but it is not observed as such because that same something is happening to the frame also.
 
@@ -876,315 +876,61 @@ The frame fixed to the Earth is actually a non-inertial frame because of its dai
 
 and also its annual rotation around the Sun.
 
-### As a result of the Earth’s rotation
+As a result of the Earth’s rotation
 
 objects on its surface would be flung off were it not for the Earth’s gravity holding them down.
 
-事实上，这种“甩离”效应在赤道附近最大
+事实上，这种“甩离”效应在赤道附近最大因为那里的旋转半径最大可以观察到地球的表观引力相对于两极有所减弱尽管这种效应非常小。（大约0.）[7] 这正是我们能确信是地球围绕自身轴线旋转，而非天球围绕北极星旋转的原因。[8] 地球围绕太阳的周年旋转导致地球在远日点和近日点的表观引力有所不同但这个效应要小得多。（大约0.
 
-## 因为那里的旋转半径最大
+006%。然而，就本书而言，地球参考系在非常精确的近似下是一个惯性参考系。正是通过在地球表面进行实验我们首先发现了惯性定律这也是为什么哥白尼（1473–1543）之前的人们认为地球是不动的。因此，我们将继续假设地球参考系是一个惯性参考系因为谈论树木和汽车总比谈论宇宙飞船和恒星容易（至少对我而言）。# 2.5 惯性参考系和非惯性参考系 25
 
-## 可以观察到地球的表观引力相对于两极有所减弱
+地球参考系地球太阳参考系地球
 
-尽管这种效应非常小。
+26 基础
 
-（大约0.
+2.6 狭义相对论有何“特殊”之处？虽然可以将物理定律写成在任意参考系（包括惯性参考系和非惯性参考系）中都有效的形式但这样写出来的形式会相当复杂。以牛顿运动理论为例，你在学校学习的通常表述仅适用于特殊的惯性参考系。为了让它们在任意参考系中成立，该理论必须用惯性力加以补充。例如，在轨道上运行的航天飞机参考系中机舱内没有任何物体向地球下落即使重力作用于它们。为了解释这一点，你必须引入一个实际上不存在的假想力，称为离心力，来抵消引力。现在，正如我们将看到的，伽利略-牛顿运动理论在物体速度接近光速c时会失效。爱因斯坦的狭义相对论告诉我们在特殊惯性参考系中必须如何修正它。这就是它被称为“狭义”理论的原因。将理论推广到一般参考系花了爱因斯坦另外10年时间；他的广义相对论直到1915年才完成。[9] 可以想象，广义相对论是一个相当复杂的理论，所以我们本书不再进一步讨论它。在下文中，我们将把注意力限制在从惯性参考系观察到的运动上。因此，当我们简单地说“参考系”时，我们将指惯性参考系。# 2.6 狭义相对论有何“特殊”之处？27
 
-）[7] 这正是我们能确信是地球围绕自身轴线旋转，而非天球围绕北极星旋转的原因。
+重力作用于我，但我没有向地面下落。我在一个非惯性参考系中。重力他正在越过“地球边缘”
 
-### [8] 地球围绕太阳的周年旋转导致地球在远日点和近日点的表观引力有所不同
+实际上，他正在向地球下落。所以他永远不会落地。这就是他保持在轨道上的原因。离心力我可以通过说离心力（它实际上不存在）正在阻止我下落，来“解释”我为什么不向地球下落！重力他是个真正的“下坠”家伙。28 基础
 
-但这个效应要小得多。
+# 注释
 
-（大约0.
+1 法国大革命后在法国发展起来的计量单位系统。它在全世界范围内使用，除了美国。缩写“SI”代表 Systeme International d’Unites = 国际单位制（法语中形容词置于名词之后）。它最初基于地球的大小和水的密度与基于人体部位尺寸的码英尺和英寸相比是一个非常民主和普遍的标准选择。2 如果你是一位禅宗佛教徒或量子力学家，你可能会不同意。这里我陈述的是爱因斯坦的观点。3 用爱因斯坦的话说：“物理学试图在概念上把握独立于其被观测而存在的现实。在这个意义上，人们谈论物理实在。” 参见 [3]，第240页。4 用犹太教-基督教-伊斯兰教的术语来说上帝/安拉以其智慧所做的事情独立于我们人类在无知中选择如何看待它。5 如果支配运动的物理定律独立于参考系的选择那么应该有可能用一种与参考系无关的方式来表达它们。当然，你首先需要一个参考系来描述运动因此这并不意味着你想要一个完全不提及参考系选择的理论。相反，你想以这样的方式表达你的定律即它们在任意参考系中都是正确的也就是在一般的参考系中。这个思想被称为广义相对性原理，或广义坐标协变性原理，是爱因斯坦理论的指导原则。爱因斯坦的广义相对论正是满足这一要求的理论。但它是一个非常困难的理论（在数学上）并且超出了本书的范围。狭义相对论的雄心较小，因为它将注意力限制在惯性参考系上。6 在轨道上运行的航天飞机实际上是在向地球下落。当它垂直向地球下落时它同时也以极高的速度水平飞行结果可以说它“越过了地球边缘”。因为地球是圆的，它沿着地球的曲率不断下落，最终永远不会撞到地面。7 这种表观引力的减小可能很小，但足以在向轨道发射火箭时节省燃料并增加有效载荷。这就是为什么航天飞机从佛罗里达发射而不是从缅因州发射，因为佛罗里达更靠近赤道。8 这也可以用傅科摆来演示。9 广义相对论的第一篇论文发表于1916年，期刊《物理学年鉴》第49卷 [4]。尽管广义相对论是运动理论，但它也是引力理论。运动理论和引力理论必须统一的线索早在伽利略发现物体在重力作用下被释放时会以相同速率下落而与质量无关时就已存在 [4]。牛顿通过假设惯性质量和引力质量相同，将这一发现纳入他的理论 [5]。广义相对论通过将引力与时空本身的结构联系起来，提供了为何它们相同的几何解释。# 2.6 狭义相对论有何“特殊”之处？29
 
-006%。
+伽利略相对性
 
-然而，就本书而言，地球参考系在非常精确的近似下是一个惯性参考系。
+# 3.1 基本问题让我们回忆一下在第2.
 
-## 正是通过在地球表面进行实验
+1节中关于物体运动提出的基本问题，即：Q1：它是在运动还是静止？Q2+Q3：如果它在运动，它的速度是多少？正如我们所见为了回答这些问题我们必须首先选择一个参考系答案取决于我们的参考系选择。让我们实际尝试一下。考虑沿一条笔直水平道路行驶的汽车，如图所示。在树木参考系中在每个时刻，固定在树上的时钟（虽然图上没有画出假设它在那里）会显示某个读数t（秒）在同一时刻，汽车会位于道路上的某个位置x（米）。该图显示了从时间t=0秒到t=4秒，以1秒为间隔的位置序列。如你所见，我们可以从图中看出：A1：汽车的位置随时间变化，所以它显然在运动，以及
 
-## 我们首先发现了惯性定律
+A2+A3：汽车的位置以每1秒+1米的速率变化，所以它的速度是+1米/秒。（加号表示运动方向向右因此这个数字不仅告诉我们汽车的速率还告诉我们它的运动方向。图中还显示了一个球，它也在水平运动，我们可以看到球的速度是+0.
 
-这也是为什么哥白尼（1473–1543）之前的人们认为地球是不动的。
+5米/秒。当然，在这个参考系中，树是静止的，所以我们可以给它分配一个0米/秒的速度。# 3.1 基本问题 31
 
-因此，我们将继续假设地球参考系是一个惯性参考系
+在树木参考系中观察到的树、汽车和球的运动。–1 0 1 2 3 4 5
 
-因为谈论树木和汽车总比谈论宇宙飞船和恒星容易（至少对我而言）。
+–1 0 1 2 3 4 5
 
-## 2.5 惯性参考系和非惯性参考系 25
+2 t
 
-## 地球参考系
+–1 0 1 2 3 4 5
 
-## 地球
+x 3
 
-## 太阳参考系
+–1 0 1 2 3 4 5
 
-## 地球
+–1 0 1 2 3 4 5
 
-## 26 基础
+32 伽利略相对性如果从汽车参考系[1]观察，完全相同的运动看起来会是什么样子？在汽车参考系中，时间由固定在汽车上的时钟读数指定。我们称这个读数为t'（秒），以区别于固定在树上的时钟读数t。为简单起见，我们假设汽车时钟与时钟树同步这样它们的读数t'和t在所有时间都一致。[2] 物体在空间中的位置在汽车参考系中由其距离汽车的距离指定我们称之为x'（米），以区别于在树木参考系中物体的位置x，即距离树木的距离。那么，在由汽车参考系中的t'标识的每个时刻，物体的相对位置将与在树木参考系中在t=t'时观察到的相同。例如，在t'=1秒时，树、汽车和球的相对位置与树木参考系中t=1秒时相同，如上一页从上数第二张图所示。唯一的区别是我们现在必须使用到汽车的距离来指定物体的位置。因此，在树木参考系中位于x=0米的树，在汽车参考系中位于x' = -1米。在树木参考系中位于x=+1米的汽车，在汽车参考系中位于x' =0米。而在树木参考系中位于x=+3米的球，在汽车参考系中位于x' =+2米。这在对面页从上数第二张图中描绘。我们可以用类似的方式计算出所有其他时间物体的位置，我们将得到这里所示的图序列。时钟实际上固定在汽车上，虽然它画在边缘。这个序列描述了树、汽车和球在汽车参考系中的运动。如果我们跟踪树的位置如何随时间变化，我们可以看到，每过一秒，树向左移动一米。所以树的速度是-1米/秒，负号表示运动方向向左。同样，球的速度是-0.
 
-## 2.6 狭义相对论有何“特殊”之处？
-
-虽然可以将物理定律写成在任意参考系（包括惯性参考系和非惯性参考系）中都有效的形式
-
-但这样写出来的形式会相当复杂。
-
-以牛顿运动理论为例，你在学校学习的通常表述仅适用于特殊的惯性参考系。
-
-为了让它们在任意参考系中成立，该理论必须用惯性力加以补充。
-
-例如，在轨道上运行的航天飞机参考系中
-
-## 机舱内没有任何物体向地球下落
-
-即使重力作用于它们。
-
-为了解释这一点，你必须引入一个实际上不存在的假想力，称为离心力，来抵消引力。
-
-现在，正如我们将看到的，伽利略-牛顿运动理论在物体速度接近光速c时会失效。
-
-爱因斯坦的狭义相对论告诉我们在特殊惯性参考系中必须如何修正它。
-
-这就是它被称为“狭义”理论的原因。
-
-将理论推广到一般参考系花了爱因斯坦另外10年时间；
-
-他的广义相对论直到1915年才完成。
-
-[9] 可以想象，广义相对论是一个相当复杂的理论，所以我们本书不再进一步讨论它。
-
-在下文中，我们将把注意力限制在从惯性参考系观察到的运动上。
-
-因此，当我们简单地说“参考系”时，我们将指惯性参考系。
-
-## 2.6 狭义相对论有何“特殊”之处？ 27
-
-重力作用于我，但我没有向地面下落。
-
-我在一个非惯性参考系中。
-
-## 重力 他正在越过“地球边缘”
-
-实际上，他正在向地球下落。
-
-所以他永远不会落地。
-
-这就是他保持在轨道上的原因。
-
-## 离心力
-
-## 我可以通过说离心力（它实际上不存在）
-
-正在阻止我下落，来“解释”我为什么不向地球下落！
-
-## 重力
-
-他是个真正的“下坠”家伙。
-
-## 28 基础
-
-## 注释
-
-## 1 法国大革命后在法国发展起来的计量单位系统。
-
-它在全世界范围内使用，除了美国。
-
-缩写“SI”代表 Systeme International d’Unites = 国际单位制（法语中形容词置于名词之后）。
-
-## 它最初基于地球的大小和水的密度
-
-## 与基于人体部位尺寸的码
-
-## 英尺和英寸相比
-
-是一个非常民主和普遍的标准选择。
-
-### 2 如果你是一位禅宗佛教徒或量子力学家，你可能会不同意。这里我陈述的是爱因斯坦的观点。
-
-### 3 用爱因斯坦的话说：“物理学试图在概念上把握独立于其被观测而存在的现实。
-
-在这个意义上，人们谈论物理实在。
-
-” 参见 [3]，第240页。
-
-## 4 用犹太教-基督教-伊斯兰教的术语来说
-
-## 上帝/安拉以其智慧所做的事情
-
-独立于我们人类在无知中选择如何看待它。
-
-## 5 如果支配运动的物理定律独立于参考系的选择
-
-那么应该有可能用一种与参考系无关的方式来表达它们。
-
-当然，你首先需要一个参考系来描述运动
-
-因此这并不意味着你想要一个完全不提及参考系选择的理论。
-
-相反，你想以这样的方式表达你的定律
-
-## 即它们在任意参考系中都是正确的
-
-也就是在一般的参考系中。
-
-这个思想被称为广义相对性原理，或广义坐标协变性原理，是爱因斯坦理论的指导原则。
-
-爱因斯坦的广义相对论正是满足这一要求的理论。
-
-但它是一个非常困难的理论（在数学上）并且超出了本书的范围。
-
-狭义相对论的雄心较小，因为它将注意力限制在惯性参考系上。
-
-## 6 在轨道上运行的航天飞机实际上是在向地球下落。
-
-## 当它垂直向地球下落时
-
-## 它同时也以极高的速度水平飞行
-
-结果可以说它“越过了地球边缘”。
-
-因为地球是圆的，它沿着地球的曲率不断下落，最终永远不会撞到地面。
-
-### 7 这种表观引力的减小可能很小，但足以在向轨道发射火箭时节省燃料并增加有效载荷。
-
-这就是为什么航天飞机从佛罗里达发射而不是从缅因州发射，因为佛罗里达更靠近赤道。
-
-## 8 这也可以用傅科摆来演示。
-
-### 9 广义相对论的第一篇论文发表于1916年，期刊《物理学年鉴》第49卷 [4]。
-
-尽管广义相对论是运动理论，但它也是引力理论。
-
-### 运动理论和引力理论必须统一的线索早在伽利略发现物体在重力作用下被释放时
-
-会以相同速率下落而与质量无关时就已存在 [4]。
-
-牛顿通过假设惯性质量和引力质量相同，将这一发现纳入他的理论 [5]。
-
-广义相对论通过将引力与时空本身的结构联系起来，提供了为何它们相同的几何解释。
-
-## 2.6 狭义相对论有何“特殊”之处？ 29
-
-## 伽利略相对性
-
-## 3.1 基本问题
-
-让我们回忆一下在第2.
-
-1节中关于物体运动提出的基本问题，即：
-
-Q1：它是在运动还是静止？
-
-Q2+Q3：如果它在运动，它的速度是多少？
-
-## 正如我们所见
-
-## 为了回答这些问题
-
-## 我们必须首先选择一个参考系
-
-答案取决于我们的参考系选择。
-
-让我们实际尝试一下。
-
-考虑沿一条笔直水平道路行驶的汽车，如图所示。
-
-## 在树木参考系中
-
-在每个时刻，固定在树上的时钟（虽然图上没有画出
-
-## 假设它在那里）会显示某个读数t（秒）
-
-在同一时刻，汽车会位于道路上的某个位置x（米）。
-
-该图显示了从时间t=0秒到t=4秒，以1秒为间隔的位置序列。
-
-如你所见，我们可以从图中看出：
-
-A1：汽车的位置随时间变化，所以它显然在运动，以及
-
-A2+A3：汽车的位置以每1秒+1米的速率变化，所以它的速度是+1米/秒。
-
-## （加号表示运动方向向右
-
-## 因此这个数字不仅告诉我们汽车的速率
-
-还告诉我们它的运动方向。
-
-图中还显示了一个球，它也在水平运动，我们可以看到球的速度是+0.
-
-5米/秒。
-
-当然，在这个参考系中，树是静止的，所以我们可以给它分配一个0米/秒的速度。
-
-## 3.1 基本问题 31
-
-在树木参考系中观察到的树、汽车和球的运动。
-
-## –1 0 1 2 3 4 5
-
-## –1 0 1 2 3 4 5
-
-## 2 t
-
-## –1 0 1 2 3 4 5
-
-## x 3
-
-## –1 0 1 2 3 4 5
-
-## –1 0 1 2 3 4 5
-
-## 32 伽利略相对性
-
-如果从汽车参考系[1]观察，完全相同的运动看起来会是什么样子？
-
-在汽车参考系中，时间由固定在汽车上的时钟读数指定。
-
-我们称这个读数为t'（秒），以区别于固定在树上的时钟读数t。
-
-为简单起见，我们假设汽车时钟与时钟树同步
-
-这样它们的读数t'和t在所有时间都一致。
-
-### [2] 物体在空间中的位置在汽车参考系中由其距离汽车的距离指定
-
-我们称之为x'（米），以区别于在树木参考系中物体的位置x，即距离树木的距离。
-
-那么，在由汽车参考系中的t'标识的每个时刻，物体的相对位置将与在树木参考系中在t=t'时观察到的相同。
-
-例如，在t'=1秒时，树、汽车和球的相对位置与树木参考系中t=1秒时相同，如上一页从上数第二张图所示。
-
-唯一的区别是我们现在必须使用到汽车的距离来指定物体的位置。
-
-因此，在树木参考系中位于x=0米的树，在汽车参考系中位于x' = -1米。
-
-在树木参考系中位于x=+1米的汽车，在汽车参考系中位于x' =0米。
-
-而在树木参考系中位于x=+3米的球，在汽车参考系中位于x' =+2米。
-
-这在对面页从上数第二张图中描绘。
-
-我们可以用类似的方式计算出所有其他时间物体的位置，我们将得到这里所示的图序列。
-
-时钟实际上固定在汽车上，虽然它画在边缘。
-
-这个序列描述了树、汽车和球在汽车参考系中的运动。
-
-如果我们跟踪树的位置如何随时间变化，我们可以看到，每过一秒，树向左移动一米。
-
-所以树的速度是-1米/秒，负号表示运动方向向左。
-
-同样，球的速度是-0.
-
-## 5米/秒
+5米/秒
 
 r second.
 
 The car is at rest so its velocity is 0 meters per second.
 
-## Motion of tree
+# Motion of tree
 
 car, and ball observed in the car-frame.
 
@@ -1192,15 +938,15 @@ So the answers to the basic questions in the two frames can be tabulated as foll
 
 object velocity in tree-frame (m/s) velocity in car-frame (m/s)
 
-## tree 0 (at rest) −1
+tree 0 (at rest) −1
 
-## car +1 0 (at rest)
+car +1 0 (at rest)
 
 ball +0.
 
-## 5 −0.
+5 −0.
 
-### Now a natural question to ask is
+# Now a natural question to ask is
 
 how are these different observations from different frames related?
 
@@ -1220,7 +966,7 @@ I would like to introduce a compact way of describing the observed motion of obj
 
 since keeping track of the locations of the objects pictorially
 
-## as I have done
+as I have done
 
 is rather bulky.
 
@@ -1232,13 +978,13 @@ If we wanted to study the motion of objects in more detail at smaller chronologi
 
 things would quickly get out of hand.
 
-## Same physical reality
+# Same physical reality
 
-## tree-frame car-frame
+tree-frame car-frame
 
-## x' 0 1 1 0 2 –1 3 x –2
+x' 0 1 1 0 2 –1 3 x –2
 
-## t t'
+t t'
 
 The tree is not moving.
 
@@ -1248,7 +994,7 @@ The car is not moving.
 
 The tree and the ball are moving to the left.
 
-## Must be translatable
+# Must be translatable
 
 Imagine that we have a movie of the tree
 
@@ -1260,7 +1006,7 @@ Assume that the chronological separation of neighboring frames is constant.
 
 Cut these frames apart and stack them up in chronological order as shown in the figure so that the tree in each frame overlaps with the tree in the next.
 
-### If you look at this stack from above
+# If you look at this stack from above
 
 the line connecting the images of the tree in each frame will be a vertical line as shown in gray.
 
@@ -1268,7 +1014,7 @@ The line connecting the images of the car is shown in pink
 
 and the line connecting the images of the ball is shown in crimson.
 
-### The graph you obtain in this fashion
+# The graph you obtain in this fashion
 
 with the horizontal axis corresponding to space and the vertical axis corresponding to time
 
@@ -1282,7 +1028,7 @@ If the object is moving at constant velocity
 
 this line will be straight as in the case of the tree
 
-## the car
+the car
 
 and the ball shown here.
 
@@ -1300,11 +1046,11 @@ and horizontal lines parallel to the space-axis which connect the points that ar
 
 If you want to know the position of the ball
 
-## for instance
+for instance
 
-## at some particular time
+at some particular time
 
-## say at t = 3 seconds
+say at t = 3 seconds
 
 all you need to do is slice the diagram with a horizontal line going through the t = 3 seconds point on the time-axis
 
@@ -1314,11 +1060,11 @@ This happens at point A on the diagram.
 
 Following the vertical line that goes through A down to the space-axis
 
-### we find that A is at x = 4 meters
+we find that A is at x = 4 meters
 
 which tells us that the ball was at x = 4 meters at t = 3 seconds.
 
-## As I mentioned above
+# As I mentioned above
 
 an object moving at a constant velocity is represented by a straight worldline on the spacetime diagram.
 
@@ -1328,17 +1074,17 @@ The closer the worldline is to the horizontal the faster the object is
 
 and the closer the worldline is to the vertical the slower the object is.
 
-### If the worldline is completely vertical
+# If the worldline is completely vertical
 
 the object is at rest.
 
-### Spacetime diagram in the tree-frame
+# Spacetime diagram in the tree-frame
 
 The spacetime diagram for the same motion observed from the car-frame is shown here.
 
-## To obtain it
+# To obtain it
 
-### we need a movie taken in the car-frame
+we need a movie taken in the car-frame
 
 but actually we can use the movie taken in the tree-frame as it stands.
 
@@ -1346,7 +1092,7 @@ All we need to do is to stack the frames of the movie so that the images of the 
 
 Again, we can read off where any object is at any given time by looking at how the object’s worldline is positioned against the square grid in the background.
 
-## This time
+# This time
 
 the square grid is composed of vertical lines parallel to the time-axis
 
@@ -1368,11 +1114,11 @@ Following the vertical line that goes through B down to the x'-axis, we find tha
 
 which tells us that the tree was at x' = −2 meters at t' = 2 seconds.
 
-### Spacetime diagram in the car-frame
+# Spacetime diagram in the car-frame
 
 Once we have the two spacetime diagrams representing the observations from the tree-frame and the car-frame
 
-## we can ask
+we can ask
 
 how are the two diagrams related?
 
@@ -1394,13 +1140,13 @@ and that the area of the shaded regions are the same.
 
 This is because the amount of “film” contained in the unit square
 
-### or the “number of events” in it
+or the “number of events” in it
 
-## so to speak
+so to speak
 
 is conserved in the procedure.
 
-## The Galilei Transformation
+# The Galilei Transformation
 
 We can similarly start from the tree-frame diagram
 
@@ -1424,9 +1170,9 @@ The intermediate steps of both procedures are shown here.
 
 To transform the car-frame diagram into the tree-frame diagram
 
-### we start from the car-frame diagram
+we start from the car-frame diagram
 
-## shown top-right in the figure
+shown top-right in the figure
 
 and skew its square grid to the right until the worldline of the tree becomes vertical.
 
@@ -1434,13 +1180,13 @@ The worldlines then match those in the tree-frame diagram
 
 shown bottom-left.
 
-## Similarly
+# Similarly
 
 to transform the tree-frame diagram into the car-frame diagram
 
-### start from the tree-frame diagram
+start from the tree-frame diagram
 
-## shown bottom-left
+shown bottom-left
 
 and skew its square grid to the left until the worldline of the car becomes vertical (start from the bottom-left figure and proceed upwards).
 
@@ -1448,9 +1194,9 @@ The worldlines then match those in the car-frame diagram
 
 shown top-right.
 
-### Spacetime diagram in the car-frame
+# Spacetime diagram in the car-frame
 
-### Spacetime diagram in the tree-frame
+# Spacetime diagram in the tree-frame
 
 This skewing of the grid which takes you from one frame to another is called the Galilei Transformation.
 
@@ -1462,17 +1208,17 @@ we can still read off the information about the car-frame if we keep the skewed 
 
 with the square grid of the tree-frame.
 
-## In fact
+# In fact
 
-### even though the worldlines of the tree
+even though the worldlines of the tree
 
-## the car
+the car
 
 and the ball overlap with those in the tree-frame diagram (top figure)
 
 we can still consider this to be a car-frame diagram as long as the car-frame grid is still there.
 
-## For instance
+# For instance
 
 at t' = 3 seconds, the ball is at point A.
 
@@ -1494,29 +1240,29 @@ we can simply superimpose onto a single diagram different grids
 
 each representing the observation from a particular frame.
 
-### 3.3 The Galilei transformation
+# 3.3 The Galilei transformation
 
-## t (sec) ball car
+t (sec) ball car
 
-## 3 A
+3 A
 
-## x (m)
+x (m)
 
-## –3 –2 –1 0 1 2 3 4 5 6
+–3 –2 –1 0 1 2 3 4 5 6
 
 Motion of ball and car in the tree-frame
 
-## tree ball t' (m)
+tree ball t' (m)
 
-## B 2
+# B 2
 
-## x' (m)
+x' (m)
 
-## –3 –2 –1 0 1 2 3 4 5 6
+–3 –2 –1 0 1 2 3 4 5 6
 
 Motion of ball and tree in the car-frame
 
-## 48 Galilean relativity
+48 Galilean relativity
 
 So how can we figure out the grid that we are supposed to use?
 
@@ -1524,53 +1270,53 @@ Recall that the "position" of an object in each frame is the distance of the obj
 
 So the lines that connect the points that are at the same place in each frame must be parallel to the worldline of the origin (see figure below).
 
-## In the tree-frame
+# In the tree-frame
 
 the tree is the origin so the lines that connect points ball car
 
-## –3 –2 –1 0 1 2 3 4 5 6 7
+–3 –2 –1 0 1 2 3 4 5 6 7
 
-## –3 –2 –1 0 1 2 3 4 5 6 7
+–3 –2 –1 0 1 2 3 4 5 6 7
 
 Lines parallel to the time axis connect points that are "at the same place.
 
-## eert
+eert
 
-## tree-frame
+tree-frame
 
-## x (m)
+x (m)
 
-## car-frame tree ball t'
+car-frame tree ball t'
 
-## ar
+ar
 
-## x'(m)
+x'(m)
 
-### 3.3 The Galilei transformation 49
+# 3.3 The Galilei transformation 49
 
 that are at the same place must be parallel to the tree-worldline.
 
-## In the car-frame
+# In the car-frame
 
 the car is the origin so the lines that connect points that are at the same place must be parallel to the car-worldline.
 
-## On the other hand
+# On the other hand
 
 the lines that connect the points that are at the same time are horizontal in any frame (see figure below).
 
-## tree-frame t (sec) ball car
+tree-frame t (sec) ball car
 
-## car-frame tree ball t' (sec)
+car-frame tree ball t' (sec)
 
-## ar 3
+ar 3
 
-## x'
+x'
 
 Lines parallel to the space axis connect points that are "at the same time.
 
-## eert
+eert
 
-## 50 Galilean relativity
+50 Galilean relativity
 
 So finding the skewed grid which represents the observation from any frame on any spacetime diagram is easy.
 
@@ -1578,7 +1324,7 @@ The horizontal lines that connect the points that are at the same time remain th
 
 The lines that connect the points that are at the same place are drawn parallel to the worldline of the object to which the origin is fixed.
 
-## For instance
+# For instance
 
 if, in addition to the tree- and car-frames
 
@@ -1590,37 +1336,37 @@ and add lines parallel to the ball-worldline which connect the points that are a
 
 (Try this yourself.
 
-## From this point of view
+# From this point of view
 
 a spacetime diagram without any grid on it can be considered a representation of the objective and physical reality
 
 and superimposing a grid on it corresponds to choosing the frame from which to make the observation.
 
-### 3.3 The Galilei transformation 51
+# 3.3 The Galilei transformation 51
 
-## Same physical reality
+# Same physical reality
 
-## tree ball car
+tree ball car
 
-## tree-frame car-frame
+tree-frame car-frame
 
-## t t'
+t t'
 
-## x x'
+x x'
 
 The tree is not moving.
 
 The car The car is not moving.
 
-## The tree
+# The tree
 
 and the ball are moving to the right.
 
 and the ball are moving to the left.
 
-## 52 Galilean relativity
+52 Galilean relativity
 
-## Once we get used to this idea
+# Once we get used to this idea
 
 we can save ourselves the trouble of drawing grids on the spacetime diagram since we will be able to "see" them without actually drawing them.
 
@@ -1632,7 +1378,7 @@ draw a line through the spacetime point which is parallel to the time-axis of th
 
 To find when the spacetime point is in that frame
 
-### draw a line parallel to the space-axis
+draw a line parallel to the space-axis
 
 which is a horizontal line in all frames
 
@@ -1640,59 +1386,59 @@ and read off the time from where the line intersects the frame's time-axis.
 
 That's all there is to it.
 
-### 3.3 The Galilei transformation 53
+# 3.3 The Galilei transformation 53
 
-## Read off
+# Read off
 
-## Read off
+# Read off
 
-## t' coordinate
+t' coordinate
 
-## t coordinate of A here
+t coordinate of A here
 
-## of A here
+of A here
 
-## line parallel line parallel
+line parallel line parallel
 
-## to x-axis to x'-axis
+to x-axis to x'-axis
 
-## xi
+xi
 
-## '-el
+'-el
 
-## all
+all
 
-## ar
+ar
 
-## li
+li
 
-## sixa-t
+sixa-t
 
-## ot
+ot
 
-## lellarap
+lellarap
 
-## enil
+enil
 
-## t t'
+t t'
 
 x, x'
 
-## Read off x' Read off x
+# Read off x' Read off x
 
-## coordinate coordinate
+coordinate coordinate
 
-## of A here of A here
+of A here of A here
 
-## A single spacetime
+# A single spacetime
 
-## diagram can describe
+diagram can describe
 
 both of our points of view!
 
-## 54 Galilean relativity
+54 Galilean relativity
 
-## 3.4 Addition of velocities
+# 3.4 Addition of velocities
 
 The Galilei transformation tells us how observations in one inertial frame are related to observations in another.
 
@@ -1700,15 +1446,15 @@ Let us now ask the following question:
 
 • Assume that the car is moving at a constant velocity of u meters per second when observed from the tree-frame.
 
-## The velocity of an object
+# The velocity of an object
 
-## say a ball
+say a ball
 
 is v meters per second when observed from the car-frame.
 
 What is the ball's velocity when observed from the tree-frame?
 
-## To simplify things
+# To simplify things
 
 let's assume that the tree, the car, and the ball are all at the same place at time t = t' = 0.
 
@@ -1718,7 +1464,7 @@ the distance from the origin of each object will be proportional to its speed in
 
 The spacetime diagram which describes the motion of the ball and the tree in the car-frame is shown here.
 
-### The car is at rest at the origin
+# The car is at rest at the origin
 
 the tree is moving with speed u meters per second to the left (velocity −u)
 
@@ -1730,7 +1476,7 @@ Since the distance between the tree and the ball has increased from zero to u+v 
 
 the velocity of the ball in the tree-frame is u+v meters per second.
 
-### So according to the Galilei theory
+# So according to the Galilei theory
 
 to translate the velocity of an object observed in frame 1 (the velocity of the ball in the car-frame) to that observed in frame 2 (the velocity of the ball in the tree-frame)
 
@@ -1738,41 +1484,41 @@ all you need to do is add the velocity of the origin of frame 1 relative to fram
 
 This rule can easily be checked by looking at the table on page 34 which gave the velocities of the tree
 
-## the car
+the car
 
 and the ball in the tree- and car-frames.
 
 The velocity of the ball in the car-frame was −0.
 
-## 5 meters per second.
+5 meters per second.
 
 The velocity of the car in the tree-frame was +1 meters per second.
 
 Adding these together, we obtain +0.
 
-## 5 meters per second
+5 meters per second
 
 which was the velocity of the ball in the tree-frame.
 
-## 3.4 Addition of velocities 55
+# 3.4 Addition of velocities 55
 
-## t (sec) t' (sec)
+t (sec) t' (sec)
 
-## tree car ball
+tree car ball
 
-## 1 1
+1 1
 
-## 0 x, x' (m)
+0 x, x' (m)
 
-## –u y
+–u y
 
-## In car-frame
+# In car-frame
 
-## u + y
+u + y
 
-## In tree-frame
+# In tree-frame
 
-## 56 Galilean relativity
+56 Galilean relativity
 
 Now I'm sure this is all very easy for you, and you are probably wondering by now why I am spending so much time on such trivialities.
 
@@ -1780,15 +1526,15 @@ But bear with me.
 
 Thinking about things that are trivial to you using spacetime diagrams will help us in understanding what is to come.
 
-### 3.5 Acceleration and Newton's Second Law
+# 3.5 Acceleration and Newton's Second Law
 
-## As we have seen
+# As we have seen
 
 the velocity of an object depends on the frame from which the observation is made.
 
-## However
+# However
 
-### according to the Galilei transformation
+according to the Galilei transformation
 
 the velocities observed from different frames only differ by the relative velocity of the two frames.
 
@@ -1796,13 +1542,13 @@ This implies that if the velocity of the object changes
 
 both frames will agree by how much it has changed.
 
-## To see this
+# To see this
 
 consider a ball traveling at velocity v meters per second when observed from the car-frame.
 
-## The car
+# The car
 
-## on the other hand
+on the other hand
 
 is traveling at velocity u meters per second relative to the tree-frame.
 
@@ -1822,19 +1568,19 @@ Since the change in velocity is independent of the inertial frame (according to 
 
 Newton's Second Law applies equally to all inertial frames.
 
-### 3.5 Acceleration and Newton's Second Law 57
+# 3.5 Acceleration and Newton's Second Law 57
 
-### The velocity of The velocity of
+# The velocity of The velocity of
 
 the ball is 50 m/s.
 
 the ball is 20 m/s.
 
-## 50 m/s
+50 m/s
 
-## 30 m/s
+30 m/s
 
-### A force is acting A force is acting
+# A force is acting A force is acting
 
 on the ball.
 
@@ -1844,9 +1590,9 @@ It's accelerating!
 
 It's accelerating!
 
-## Force
+# Force
 
-## 30 m/s
+30 m/s
 
 The velocity of the ball The velocity of the ball is now 40 m/s.
 
@@ -1856,51 +1602,51 @@ It has It has accelerated by 20 m/s.
 
 accelerated by 20 m/s.
 
-## 70 m/s
+70 m/s
 
-## 30 m/s
+30 m/s
 
 Both observers agree that the ball has accelerated by 20 m/s.
 
-## 58 Galilean relativity
+58 Galilean relativity
 
-## Notes
+# Notes
 
 1 Since the car-frame is moving at a constant velocity relative to the tree-frame
 
 it is also an inertial frame.
 
-## 2 We will learn later that
+2 We will learn later that
 
-## surprisingly
+surprisingly
 
 clocks in different frames cannot be synchronized.
 
 But we will assume that they can be for the moment.
 
-## 3 Here
+3 Here
 
 the word "frame" is used in a different sense from "frame of reference.
 
-## 4 Weird term.
+4 Weird term.
 
 Must be a direct translation from German.
 
-### 5 Or at least, we think we can.
+5 Or at least, we think we can.
 
-### 6 At least, that is what we think.
+6 At least, that is what we think.
 
 7 Newton's Second Law expressed in an equation is F = ma, where F is the external force, m is the mass of the object, and a is the acceleration = rate of change of the velocity.
 
-### When the external force is zero
+# When the external force is zero
 
-## that is F = 0
+that is F = 0
 
-### then this equation tells us that a=0
+then this equation tells us that a=0
 
 which means that the velocity of the object does not change (this is Newton's First Law).
 
-### When the external force is non-zero
+# When the external force is non-zero
 
 then the acceleration is proportional to F but inversely proportional to m.
 
@@ -1912,19 +1658,19 @@ the smaller (larger) the acceleration.
 
 So the mass m is a measure of the object’s inertia
 
-## that is
+that is
 
 its ability to resist change in its velocity.
 
-## In this sense
+# In this sense
 
 the mass m is sometimes called the inertial mass to distinguish it from the gravitational mass
 
 which is a measure of how strongly the object feels the effect of a gravitational field.
 
-## Einsteinian relativity
+# Einsteinian relativity
 
-### 4.1 The mystery of the speed of light
+# 4.1 The mystery of the speed of light
 
 Now the surprising thing about the Galilei–Newton theory that we have been discussing so far is that it is wrong.
 
@@ -1936,7 +1682,7 @@ And that case involves the speed of light.
 
 The speed of light in a vacuum is very very fast.
 
-### It is 299792458 meters per second
+# It is 299792458 meters per second
 
 or roughly 3×10^8 meters per second.
 
@@ -1946,11 +1692,11 @@ we will just represent it with the letter c.
 
 To give you an idea just how fast this is
 
-## it is
+it is
 
 :1) x
 
-## 4.3 The problem
+# 4.3 The problem
 
 What this is telling us is that our expectation
 
@@ -1970,21 +1716,21 @@ so there must exist a translation which tells us how the observations from diffe
 
 What is that translation?
 
-## Same physical reality
+# Same physical reality
 
-## tree-frame car-frame
+tree-frame car-frame
 
-## x
+x
 
-## –1 1
+–1 1
 
-## 0 0
+0 0
 
-## 1 –1
+1 –1
 
-## x –2
+x –2
 
-## t t
+t t
 
 The tree is not moving.
 
@@ -1998,17 +1744,17 @@ The photons are propagating in both directions with speed c.
 
 The photons are propagating in both directions with speed c.
 
-## Must be translatable
+# Must be translatable
 
-## 4.4 The solution
+# 4.4 The solution
 
 How can the observations from the tree- and car-frames be the observation of the exact same physical reality?
 
-### At any instant in the tree-frame
+# At any instant in the tree-frame
 
 the car is midway between the tree and the photon on the right.
 
-### But at any instant in the car-frame
+# But at any instant in the car-frame
 
 the car is only one-third of the way between the tree and the photon on the right.
 
@@ -2016,11 +1762,11 @@ How can the car be at two different places at the same time?
 
 Or take the photon traveling toward the left.
 
-## In the tree-frame
+# In the tree-frame
 
 at any instant it is at the same distance from the tree as the photon traveling toward the right.
 
-## But in the car-frame
+# But in the car-frame
 
 at any instant it is only one-third of the distance from the tree as the photon traveling toward the right.
 
@@ -2044,17 +1790,17 @@ He points out that while nothing can be at two different places the same time
 
 they can be at two different places at two different times.
 
-## In the tree-frame
+# In the tree-frame
 
-## ct car ct car
+ct car ct car
 
-## tree tree
+tree tree
 
-## x x
+x x
 
 At any instant in time, the distance .
 
-## and the distance between the
+and the distance between the
 
 between the tree and the car is the same photon on the left and the tree
 
@@ -2064,17 +1810,17 @@ photon on the right.
 
 the tree and the photon on the right.
 
-## In the car-frame
+# In the car-frame
 
-## tree ct tree ct
+tree ct tree ct
 
-## car car
+car car
 
-## x x
+x x
 
 At any instant, the distance .
 
-### and the distance between the tree
+and the distance between the tree
 
 between the car and the photon and the photon on the right is three
 
@@ -2092,7 +1838,7 @@ Such a slice is shown on the spacetime diagram.
 
 We can see that the car at B is midway between the tree at C and the photon on the right at A.
 
-## In the car-frame
+# In the car-frame
 
 the car is supposed to be only one-third of the way between the tree and the photon on the right at any instant
 
@@ -2104,11 +1850,11 @@ This point is at an earlier time (in the tree-frame) than A
 
 but at this point the car is precisely one-third as far from the tree as the photon on the right is at A.
 
-## Similarly
+# Similarly
 
 the photon on the left at D is at the same distance from the tree as the photon on the right at A.
 
-## In the car-frame
+# In the car-frame
 
 the photon on the left is supposed to be only one-third as far away from the tree as the photon on the right at any instant.
 
@@ -2118,13 +1864,13 @@ This point is at an earlier time (in the tree-frame) than either A or E
 
 but at this point the photon on the left is precisely one-third as far from the tree as the photon on the right is at A.
 
-## Notice that the points A
+# Notice that the points A
 
 E, and G all fall on a straight line.
 
 There seems to be a definite pattern here.
 
-### Could it be that though the points A
+# Could it be that though the points A
 
 B, C, and D are at the same time in the tree-frame
 
@@ -2134,27 +1880,27 @@ and the points that are at the same time as A in the car-frame are actually poin
 
 F, and G?
 
-## light ct car light
+light ct car light
 
-## D C B A
+# D C B A
 
-## D C B A
+# D C B A
 
-## G F E A
+# G F E A
 
 It is easy to see that if you slice the tree-frame diagram with any tilted line parallel to the line AEFG
 
-### then the relative positions of the tree
+then the relative positions of the tree
 
-## the car
+the car
 
 and the two photons turn out to be precisely what would be expected in the car-frame.
 
-## ct car light
+ct car light
 
-## light
+light
 
-### So could it be that though the points A
+# So could it be that though the points A
 
 E, F, and G are not at the same time in the tree-frame
 
@@ -2162,7 +1908,7 @@ they are at the same time in the car-frame?
 
 Do they correspond to points that fall on a horizontal line on the car-frame diagram?
 
-### This is a revolutionary idea indeed
+# This is a revolutionary idea indeed
 
 since Einstein is saying that the concept of events happening at the same time depends on the frame
 
@@ -2172,31 +1918,31 @@ Two events that happen at the same time for one observer do not happen at the sa
 
 and vice versa.
 
-### Spacetime diagram in the tree-frame
+# Spacetime diagram in the tree-frame
 
-## light ct car light
+light ct car light
 
-### Spacetime diagram in the car-frame
+# Spacetime diagram in the car-frame
 
-## light tree
+light tree
 
-## ct
+ct
 
-## light
+light
 
-## F E A
+# F E A
 
-## x
+x
 
-## 4.5 Einstein’s argument
+# 4.5 Einstein’s argument
 
 Let’s take a look at the argument of Einstein himself presented in his book Relativity
 
-### The Special and the General Theory
+# The Special and the General Theory
 
 which was written for the layman.
 
-## Einstein says
+# Einstein says
 
 If two photons both travel at the same speed c
 
@@ -2204,7 +1950,7 @@ then the time it takes for them to cover the same distance must be the same.
 
 I am sure you all agree with this statement.
 
-## After all
+# After all
 
 this is what you mean when you say that two objects are traveling at the same speed.
 
@@ -2216,7 +1962,7 @@ the points A and G are the same distance away from the car.
 
 ) In the car-frame,
 
-## ct car
+ct car
 
 Einstein’s argument:
 
@@ -2228,7 +1974,7 @@ Therefore, in the car-frame the photons
 
 travel the exact same distance to reach A and G.
 
-## Since
+# Since
 
 the speed of light in both directions is c in the car-frame
 
@@ -2250,33 +1996,33 @@ points A and G must also be at the same time in the car-frame
 
 even though they are not at the same time in the tree-frame.
 
-## Indeed
+# Indeed
 
 any two points that are equidistant from the origin in the car-frame must be reached at the same time in the car-frame by the two photons.
 
-## So on the diagram shown here
+# So on the diagram shown here
 
-### points A and F are at the same time
+points A and F are at the same time
 
-### points B and E are at the same time
+points B and E are at the same time
 
 and points C and D are at the same time in the car-frame.
 
-## ct car light
+ct car light
 
-## light
+light
 
-## Einstein continues
+# Einstein continues
 
-## After all
+# After all
 
 how do we know whether two events that are spatially separated happened at the same time in the first place?
 
 Take two lightning strikes that happen at points A and B on the spacetime diagram shown here.
 
-### The observer in the tree-frame
+# The observer in the tree-frame
 
-### who is with the clock fixed to the tree
+who is with the clock fixed to the tree
 
 will see the lightning flashes simultaneously at point C.
 
@@ -2286,7 +2032,7 @@ and they cover the same distance to reach the tree
 
 the observer at the tree will conclude that A and B happened at the same time in the tree-frame.
 
-## On the other hand
+# On the other hand
 
 the flash of light from B reaches the car at point D
 
@@ -2300,37 +2046,37 @@ and since they are again traveling at the same speed c
 
 the observer on the car will have to conclude that B happened before A in the car-frame.
 
-## Einstein’s argument
+Einstein’s argument
 
-## light ct car light
+light ct car light
 
-## A B x
+# A B x
 
-## A B
+# A B
 
-### Light from A and B traveled the
+# Light from A and B traveled the
 
-### At C same distance and reached me at
+# At C same distance and reached me at
 
 the same time.
 
 Therefore, A and B
 
-## happened at the same time
+happened at the same time
 
 Note: In the car-frame the car Light from A and
 
 is not moving.
 
-### Only the light from B traveled the
+# Only the light from B traveled the
 
-## A and B
+# A and B
 
 which are the same Later same distance and
 
-## distance from the car
+distance from the car
 
-### are At D at E the light from B
+are At D at E the light from B
 
 traveling toward the car with reached me before
 
@@ -2342,7 +2088,7 @@ Therefore, B
 
 happened before A.
 
-## Similarly
+# Similarly
 
 if the lightning flashes occur at points A and B shown here
 
@@ -2350,29 +2096,29 @@ the observer in the car-frame will conclude that A and B happened at the same ti
 
 but the observer in the tree-frame will conclude that A happened before B.
 
-## light ct car light
+light ct car light
 
-## D B
+# D B
 
-## At D
+# At D
 
-### Light from A and B traveled the
+# Light from A and B traveled the
 
-### same distance and reached me at
+same distance and reached me at
 
 the same time.
 
 Therefore, A and B
 
-## At C
+# At C
 
 happened at the same time.
 
-### Light from A and B traveled the
+# Light from A and B traveled the
 
-### same distance and the light from
+same distance and the light from
 
-### A reached me before the light At E
+# A reached me before the light At E
 
 from B.
 
@@ -2380,7 +2126,7 @@ Therefore, A happened
 
 before B.
 
-## 4.6 The solution, continued
+# 4.6 The solution, continued
 
 We have seen that points that are at the same time in the car-frame lie along tilted lines on the spacetime diagram in the tree-frame.
 
@@ -2388,65 +2134,65 @@ We can go through the exact same argument to conclude that points that are at th
 
 as shown here.
 
-## light tree ct light
+light tree ct light
 
-## D C B A
+# D C B A
 
-## E
+E
 
-## F
+F
 
-## G
+G
 
-## x
+x
 
-## C
+C
 
-## B
+B
 
-## D A
+# D A
 
-## E
+E
 
-## F
+F
 
-## D G
+# D G
 
 Slice the car-frame spacetime diagram with any line parallel to the line D'E'F'G' on the previous page and we will always find the correct relative positions of the tree
 
-## the car
+the car
 
 and the photons in the tree-frame.
 
-## light tree ct'
+light tree ct'
 
-## light
+light
 
-## x'
+x'
 
 So the points D', E'
 
 F', and G' on the car-frame diagram must correspond to points that fall on a horizontal line on the tree-frame diagram as shown here.
 
-## light tree ct' light
+light tree ct' light
 
-## D'
+D'
 
-## E'
+E'
 
-## F'
+F'
 
-## G'
+G'
 
-## x'
+x'
 
-### Spacetime diagram in the car-frame
+# Spacetime diagram in the car-frame
 
-## light ct car light
+light ct car light
 
-## D' E' F' G'
+# D' E' F' G'
 
-### Spacetime diagram in the tree-frame
+# Spacetime diagram in the tree-frame
 
 Now, I argued on page 78 that the points AEFG in the tree-frame diagram fall on a horizontal line on the car-frame diagram
 
@@ -2458,37 +2204,37 @@ So let me do so now.
 
 Take the line AEFG on the tree-frame diagram first.
 
-### (Reproduced here on the opposite page
+(Reproduced here on the opposite page
 
 top figure.
 
 ) One is tempted to think that they correspond to the points A'E'F'G' on the car-frame diagram as shown on the bottom figure since the spatial separations of the tree
 
-## the car
+the car
 
 and two photons in x' are the same as those in x.
 
-## ct (m)
+ct (m)
 
-## x (m)
+x (m)
 
-## –6 –5 –4 –3 –2 –1 1 2 3 4 5 6
+–6 –5 –4 –3 –2 –1 1 2 3 4 5 6
 
-## ct' (m)
+ct' (m)
 
-## G' F' E' A'
+# G' F' E' A'
 
-## x' (m)
+x' (m)
 
-## –6 –5 –4 –3 –1 0 1 2 3 4 5 6
+–6 –5 –4 –3 –1 0 1 2 3 4 5 6
 
-## However
+# However
 
 this cannot be correct since it implies that the points H'F'I'J' on the car-frame diagram
 
-## shown on the opposite page
+shown on the opposite page
 
-## bottom figure
+bottom figure
 
 correspond to the points H''F''EJ'' on the tree-frame diagram
 
@@ -2496,33 +2242,33 @@ shown above it.
 
 And F'' is not the same point as F even though there must exist a one-to-one correspondence between the points on the two diagrams.
 
-## ct (m)
+ct (m)
 
-## H' F' E
+# H' F' E
 
-## 4 J'
+4 J'
 
-## x (m)
+x (m)
 
-## –6 –5 –4 –3 –2 –1 1 2 3 4 5 6
+–6 –5 –4 –3 –2 –1 1 2 3 4 5 6
 
-## ct' (m)
+ct' (m)
 
-## H'
+H'
 
-## G' F' E' A'
+# G' F' E' A'
 
-## I'
+I'
 
-## 2 J'
+2 J'
 
-## x' (m)
+x' (m)
 
-## –6 –5 –4 –3 –1 0 1 2 3 4 5 6
+–6 –5 –4 –3 –1 0 1 2 3 4 5 6
 
 So what is the correct correspondence?
 
-## On the tree-frame diagram
+# On the tree-frame diagram
 
 draw a line parallel to the car worldline that goes through A
 
@@ -2530,23 +2276,23 @@ and a line parallel to AEFG that goes through the origin O.
 
 Call the point where the two lines cross P.
 
-### Note that P is at the same time as O
+# Note that P is at the same time as O
 
 and at the same place as A in the car-frame.
 
 So the diamond AEOP on the tree-frame diagram must correspond to a square
 
-### like the one shown in the bottom figure
+like the one shown in the bottom figure
 
 on the car-frame diagram.
 
 The corresponding square on the car-frame diagram is the one that has the same area as the diamond on the tree-frame diagram.
 
-## Under this rule
+# Under this rule
 
 the square on the tree-frame diagram which has OF as one of its sides will be transformed to the diamond with the same area on the car-frame diagram as shown.
 
-### So under the inverse transformation
+# So under the inverse transformation
 
 F will be mapped back to where it originally was.
 
@@ -2560,27 +2306,27 @@ It is a consequence of the fact that the "number of events" enclosed in AEOP mus
 
 Recall that a similar situation also existed in the Galilei transformation case.
 
-## There too
+# There too
 
 the areas of corresponding regions on the spacetime diagrams of different frames were the same.
 
-## ct (m)
+ct (m)
 
-## G P
+# G P
 
-## x (m)
+x (m)
 
-### –6 –5 –4 –3 –2 –1 0 1 2 3 4 5 6
+–6 –5 –4 –3 –2 –1 0 1 2 3 4 5 6
 
-## ct' (m)
+ct' (m)
 
-## F E A
+# F E A
 
-## x' (m)
+x' (m)
 
-## O P
+# O P
 
-### –6 –5 –4 –3 –2 –1 0 1 2 3 4 5 6
+–6 –5 –4 –3 –2 –1 0 1 2 3 4 5 6
 
 Let us now summarize what we have learned so far.
 
@@ -2590,15 +2336,15 @@ but they fall on tilted lines that are parallel to the worldline of the car on t
 
 This is nothing new.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Lines that connect points that are at the same place in the car-frame.
 
@@ -2610,51 +2356,51 @@ The tilt is easily determined since if we take the worldlines of two photons tha
 
 then the points along them that are equidistant from the car must be at the same time.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Lines that connect points that are at the same time in the car-frame.
 
-## Putting this together
+# Putting this together
 
 we conclude that the square grid on the car-frame diagram corresponds to the skewed grid on the tree-frame diagram shown here.
 
 The spacing of the grid lines must be such that the spacetime area enclosed in a unit cell is the same on both diagrams.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Corresponding grids in the tree- and car-frames.
 
-## Similarly
+# Similarly
 
 the points that are at the same place in the tree-frame fall on vertical lines on the tree-frame diagram
 
 but they fall on tilted lines that are parallel to the worldline of the tree on the car-frame diagram.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Lines that connect points that are at the same place in the tree-frame.
 
@@ -2664,15 +2410,15 @@ but they fall on tilted lines on the car-frame diagram as shown here.
 
 Again, the tilt is easily determined since points along the worldlines of two photons emitted from the spacetime origin that are equidistant from the tree must be at the same time.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Lines that connect points that are at the same time in the tree-frame.
 
@@ -2680,15 +2426,15 @@ So the square grid on the tree-frame diagram corresponds to the skewed grid on t
 
 Again, the spacing of the grid lines must be such that the spacetime area enclosed in a unit cell is the same on both diagrams.
 
-## light ct car light
+light ct car light
 
-## tree-frame diagram
+tree-frame diagram
 
-## light tree ct' light
+light tree ct' light
 
-## x'
+x'
 
-## car-frame diagram
+car-frame diagram
 
 Corresponding grids in the tree- and car-frames
 
@@ -2704,7 +2450,7 @@ The amount of squeezing in the northwest–southeast direction must be the recip
 
 This transformation is known as the Lorentz transformation.
 
-## tree ct'
+tree ct'
 
 becomes a frame-dependent concept.
 
@@ -2712,67 +2458,67 @@ The angle that the space-axis makes with the horizontal must be the same as the 
 
 This ensures that photons will travel at speed 1 (since we are using ct as the time) in that frame.
 
-### 4.8 The Lorentz transformation 107
+# 4.8 The Lorentz transformation 107
 
-## ct ct'
+ct ct'
 
-## light
+light
 
-## Read off ct
+# Read off ct
 
-## coordinate
+coordinate
 
-## of A here
+of A here
 
-## Read off ct'
+# Read off ct'
 
-## coordinate
+coordinate
 
-## of A here
+of A here
 
-## x'
+x'
 
-## A single spacetime
+# A single spacetime
 
-## diagram can describe
+diagram can describe
 
-## both of our points of
+both of our points of
 
 view!
 
-## Read off x'
+# Read off x'
 
-## coordinate
+coordinate
 
-## of A here
+of A here
 
-### The ct' and x' axis are tilted
+# The ct' and x' axis are tilted
 
 by the same angle to keep Read off x coordinate
 
 the speed of light invariant.
 
-## of A here
+of A here
 
-## 108 Einsteinian relativity
+108 Einsteinian relativity
 
 9 The low velocity limit of the Lorentz transformation
 
 If the Lorentz transformation is the correct transformation that relates observations in different inertial frames
 
-### and the Galilei transformation is wrong
+and the Galilei transformation is wrong
 
 why is it that the Galilei–Newton theory worked so well until people encountered the mystery concerning the speed of light?
 
 Let’s think what happens to the Lorentz transformation when the relative speed between the two frames is small compared to the speed of light.
 
-### On the tree-frame spacetime diagram
+# On the tree-frame spacetime diagram
 
 the car-frame is represented by tilted time- and space-axes.
 
 The angle between the car-frame time-axis and the tree-frame time-axis (the vertical) depends on the relative speed between the tree and the car.
 
-### In the example we have been considering
+# In the example we have been considering
 
 the car is moving at half the speed of light so this angle is rather large.
 
@@ -2786,15 +2532,15 @@ And since the angle between the car-frame space-axis and the tree-frame space-ax
 
 that angle will also be very small.
 
-## Furthermore
+# Furthermore
 
 if we revert back to using seconds to measure time instead of meters
 
 then the spacetime diagram will be crushed in the vertical direction so that the angle between the two space-axes is further diminished while the angle between the two time-axes is enhanced.
 
-## And we find that
+# And we find that
 
-## to a very good approximation
+to a very good approximation
 
 the Lorentz transformation is just the Galilei transformation at these low speeds!
 
@@ -2804,37 +2550,37 @@ It is only when the speeds of objects approach the speed of light that one has t
 
 9 The low velocity limit of the Lorentz transformation 109
 
-## ct ct'
+ct ct'
 
-## x'
+x'
 
 This angle becomes tiny as the relative speed
 
-### between the two frames becomes small
+between the two frames becomes small
 
 compared to c.
 
-## t t'
+t t'
 
 x, x'
 
-### In normal units the difference is
+# In normal units the difference is
 
 almost impossible to tell.
 
-## 110 Einsteinian relativity
+110 Einsteinian relativity
 
-## 4.10 Addition of velocities
+# 4.10 Addition of velocities
 
 The Lorentz transformation tells us how to relate the observations in one frame to those in another.
 
-### So let’s consider the following problem
+So let’s consider the following problem
 
 a ball is traveling at velocity 1/2 c in the car-frame.
 
-## The car
+# The car
 
-## on the other hand
+on the other hand
 
 is traveling at velocity 1/2 c in the tree-frame.
 
@@ -2846,9 +2592,9 @@ but, as we have seen
 
 the Galilei transformation is wrong.
 
-## In particular
+# In particular
 
-## the velocity of a photon
+the velocity of a photon
 
 which is faster than the ball in the car-frame
 
@@ -2858,17 +2604,17 @@ So the velocity of the ball in the tree-frame has to be slower than that.
 
 The spacetime diagram on the opposite page shows the motions of the tree
 
-## the car
+the car
 
-## the ball
+the ball
 
 and the two photons in the car-frame.
 
 Slicing the diagram along a horizontal line shows the relative positions of the objects at a particular instant in the car-frame.
 
-## As you can see
+# As you can see
 
-### the car is at rest in the middle
+the car is at rest in the middle
 
 the two photons are equidistant from the car
 
@@ -2884,17 +2630,17 @@ A time slice in the tree-frame would be tilted on this spacetime diagram as show
 
 The angle of tilt from the horizontal must be the same as the angle of the worldline of the tree from the vertical.
 
-### The relative positions of the tree
+# The relative positions of the tree
 
-## the car
+the car
 
-## the ball
+the ball
 
 and the photon on the right at this instant in the tree-frame are shown at the bottom of the figure.
 
-## As you can see
+# As you can see
 
-### the tree is at rest on the left
+the tree is at rest on the left
 
 the car is midway between the tree and the photon
 
@@ -2902,67 +2648,67 @@ while the ball is four-fifths of the way between the tree and the photon.
 
 This shows that the velocity of the car in the tree-frame is 1/2 c
 
-## as expected
+as expected
 
 while the velocity of the ball in the tree-frame is 4/5 c.
 
 What we have found is that when we have two frames
 
-### 1 and 2 (the car- and tree-frames)
+1 and 2 (the car- and tree-frames)
 
-### that are moving relative to each other
+that are moving relative to each other
 
 the velocity of an object in frame 1 (the velocity of the ball in the car-frame) and the velocity of frame 1 as seen from frame 2 (the velocity of the car in the tree-frame) do not simply add up to give you the velocity of the object in frame 2 (the velocity of the ball in the tree-frame).
 
 The actual velocity is smaller than the simple sum.
 
-### 4.10 Addition of velocities 111
+# 4.10 Addition of velocities 111
 
-## tree
+tree
 
-## light light
+light light
 
-## car-frame
+car-frame
 
-## tree-frame
+tree-frame
 
-## Time
+# Time
 
-## slice
+slice
 
-## in
+in
 
-## Time
+# Time
 
-## slice
+slice
 
-## in
+in
 
-## ct' ball
+ct' ball
 
-## car
+car
 
-## x'
+x'
 
-## –c c
+–c c
 
-## 1/2 c 1/2 c
+1/2 c 1/2 c
 
-## 4/5 c
+4/5 c
 
-## c
+c
 
-## 112 Einsteinian relativity
+112 Einsteinian relativity
 
-## Now let’s say that
+Now let’s say that
 
-## in addition to the tree
+in addition to the tree
 
-## the car
+the car
 
-## the ball
+the ball
 
-## and the two photons
+and the two photons
 
 there is an arrow traveling at velocity 1/2 c in the ball-frame.
 
@@ -2974,11 +2720,11 @@ The spacetime diagram in the ball-frame is shown here.
 
 A time-slice along a horizontal line tells us the relative positions
 
-## and thus the velocities
+and thus the velocities
 
 of the objects in the ball-frame.
 
-### The ball is at rest in the middle
+# The ball is at rest in the middle
 
 the car is moving to the left with speed 1/2 c
 
@@ -2994,7 +2740,7 @@ The angle of tilt from the horizontal must be the same as the angle of the world
 
 The relative positions of the objects at that instant in the tree-frame are shown on the bottom.
 
-### The tree is at rest on the left
+# The tree is at rest on the left
 
 the car is half way between the tree and the photon
 
@@ -3002,9 +2748,9 @@ the ball is four-fifths of the way between the tree and the photon
 
 and the arrow is 13/14 of the way between the tree and the photon.
 
-### 11 This tells us that the velocities of the car
+11 This tells us that the velocities of the car
 
-## the ball
+the ball
 
 and the arrow in the tree-frame are 1/2 c
 
@@ -3012,9 +2758,9 @@ and the arrow in the tree-frame are 1/2 c
 
 respectively.
 
-## Notice that
+# Notice that
 
-## in the tree-frame
+in the tree-frame
 
 the difference in the velocities of the arrow and the ball is smaller than the difference in the velocities of the ball and the car (this is clear from the bottom figure)
 
@@ -3028,25 +2774,25 @@ The arrow is faster than the ball by 1/2 c in the ball-frame
 
 but it is only faster than the ball by 13/14 c− 4/5 c= 9/70 c in the tree-frame.
 
-### 4.10 Addition of velocities 113
+# 4.10 Addition of velocities 113
 
-## ct''
+ct''
 
-## car ball arrow
+car ball arrow
 
-## tree
+tree
 
-## x''
+x''
 
-## –c c
+–c c
 
-## – 1/2 c 4/5 c
+– 1/2 c 4/5 c
 
-## 13/14 c
+13/14 c
 
-## c 4/5 c
+c 4/5 c
 
-## 114 Einsteinian relativity
+114 Einsteinian relativity
 
 This pattern will continue if we consider another object moving at velocity 1/2 c in the arrow-frame.
 
@@ -3056,13 +2802,13 @@ but the velocity of such an object in the tree-frame will be 40/41 c
 
 which is faster than the arrow by 40/41 c− 13/14 c= 27/574 c.
 
-### What this discussion shows is that
+# What this discussion shows is that
 
 in contrast to the Galilei–Newton theory
 
 you cannot accelerate objects to arbitrarily large speeds.
 
-### As the speeds of objects approach c
+# As the speeds of objects approach c
 
 it becomes more and more difficult to accelerate them.
 
@@ -3076,39 +2822,39 @@ And even though the speed will keep on getting closer and closer to c
 
 it will never reach it or exceed it.
 
-## Of course
+# Of course
 
-## this is to be expected
+this is to be expected
 
 since the speed of light is the same to all observers
 
 any speed that is smaller than the speed of light in one frame must be smaller than the speed of light in all frames.
 
-### 4.10 Addition of velocities 115
+# 4.10 Addition of velocities 115
 
-## ball ct''' 5th object
+ball ct''' 5th object
 
-## arrow
+arrow
 
-## car
+car
 
-## tree
+tree
 
-## x'''
+x'''
 
-## –c c
+–c c
 
-## 13/14 c
+13/14 c
 
-## 4/5 c
+4/5 c
 
-## 1/2 c 1/2 c
+1/2 c 1/2 c
 
-## 40/41 c
+40/41 c
 
-## 116 Einsteinian relativity
+116 Einsteinian relativity
 
-### 4.11 Dependence of inertia on speed
+# 4.11 Dependence of inertia on speed
 
 The result of the previous section implies that Newton’s Second Law has to be modified since different observers will not agree by how much the velocity of an object has changed.
 
@@ -3122,7 +2868,7 @@ If an object at rest in the ball-frame accelerates to the same velocity as the a
 
 the change in its velocity in the ball-frame is 1/2 c
 
-### but in the car-frame it is 3/10 c
+but in the car-frame it is 3/10 c
 
 and in the tree-frame it is 9/70 c.
 
@@ -3130,7 +2876,7 @@ Now, presumably
 
 the same amount of effort on the part of the object is necessary for it to accelerate from rest to 1/2 c in the car-frame as well as in the ball-frame.
 
-### But when observed from the tree-frame
+# But when observed from the tree-frame
 
 the amount of acceleration the same effort accomplishes is smaller when accelerating from the ball-frame to the arrow-frame than when accelerating from the car-frame to the ball-frame.
 
@@ -3142,21 +2888,21 @@ the inertia of an object becomes a frame-dependent concept.
 
 Faster moving objects are observed to have more inertia than when they are moving slower.
 
-### And as the object’s speed approaches c
+And as the object’s speed approaches c
 
 its inertia becomes infinitely large.
 
 The other car has accelerated by 2 1c.
 
-## same speed as ball c c 2 2
+same speed as ball c c 2 2
 
 The second car has accelerated same speed as ball by c c 4c 4c 2 5 5
 
-## Notes
+# Notes
 
 By “not work” we mean that it does not agree with experimental observation.
 
-## In this book
+# In this book
 
 when we say “speed of light” we will always mean its speed in a vacuum.
 
@@ -3178,15 +2924,15 @@ An English translation can be found in [4].
 
 See the dialogue for the first day.
 
-## In an equation
+# In an equation
 
 what Einstein is saying can be expressed as distance / time it takes = speed.
 
 I’m sure everyone knows this and uses it all the time.
 
-## For instance
+# For instance
 
-### Virginia Tech is located in Blacksburg
+# Virginia Tech is located in Blacksburg
 
 which is about 300 miles away from Washington DC.
 
@@ -3200,21 +2946,21 @@ When we have more than one space dimension
 
 we will have the conservation of spacetime volume.
 
-## In mathematical terms
+# In mathematical terms
 
 what this means is that the determinant of the transformation matrix which relates the spacetime coordinates of the two frames must be 1.
 
 Named after Hendrik Antoon Lorentz (1853–1928).
 
-### The Lorentz transformation equations
+# The Lorentz transformation equations
 
-## shown below
+shown below
 
 were known well before Einstein’s 1905 paper.
 
 The velocity of the ball in the car-frame is +1c
 
-### since it is traveling toward the right
+since it is traveling toward the right
 
 while the velocity of the tree in the car-frame is −1c
 
@@ -3226,7 +2972,7 @@ You need to count the tiny gridlines in the background.
 
 You can also check this result against the formula given in endnote 10.
 
-### If you are not good at fractions
+# If you are not good at fractions
 
 comparing the sizes of fractions like 3/10
 
@@ -3234,11 +2980,11 @@ comparing the sizes of fractions like 3/10
 
 In that case, just use a calculator!
 
-## Causality
+# Causality
 
-## 5.1 Before and after
+# 5.1 Before and after
 
-## As we have seen
+# As we have seen
 
 the only way to reconcile the experimentally observed fact that the speed of light does not depend on the inertial frame with our belief in an objective reality
 
@@ -3250,21 +2996,21 @@ and vice versa.
 
 Now, some of you may have already realized that this could lead to a problem with the notion of causality
 
-## namely
+namely
 
 the notion of cause and effect.
 
 If an event A is the cause of another event B
 
-## then A must happen before B
+then A must happen before B
 
 and B must happen after A.
 
-## But according to Einstein
+# But according to Einstein
 
 the chronological order in which two events happen can depend on the frame of reference!
 
-### To make our discussion concrete
+# To make our discussion concrete
 
 consider again the tree planted firmly in the ground
 
@@ -3274,11 +3020,11 @@ and the ball moving to the right with speed 4c in the tree-frame (which correspo
 
 The spacetime diagram on the right shows the space- and time-axes for all three frames
 
-## the tree-frame (x
+the tree-frame (x
 
 ct), the car-frame (x',ct')
 
-## and the ball-frame (x''
+and the ball-frame (x''
 
 ct'').
 
@@ -3286,11 +3032,11 @@ Now look at the points A and B on the spacetime diagram.
 
 I think it is clear that A happens before B in the tree-frame.
 
-## But in the car-frame
+# But in the car-frame
 
 the line that connects A and B is parallel to the x'-axis, which means that A and B happen at the same time.
 
-## And in the ball-frame
+# And in the ball-frame
 
 if we draw lines that go through A and B that are parallel to the x''-axis
 
@@ -3298,27 +3044,27 @@ it is easy to see that the line that goes through B intersects the ct''-axis at 
 
 This means that B happens before A in the ball-frame.
 
-## 5.2 Paradox?
+# 5.2 Paradox?
 
 Now imagine that you shot an arrow at A and it hit a target at B.
 
-## In the tree-frame
+# In the tree-frame
 
-### A would be observed to happen before B
+# A would be observed to happen before B
 
 so there is no problem.
 
-## But in the car-frame
+# But in the car-frame
 
 A and B are at the same time so the arrow will have traversed the distance to the target instantaneously.
 
-## And in the ball-frame
+# And in the ball-frame
 
-## B happens before A
+# B happens before A
 
 so the target was hit before the arrow was released!
 
-### This does not make any sense at all
+# This does not make any sense at all
 
 does it?
 
@@ -3352,7 +3098,7 @@ That’s a relief.
 
 But would it be possible to shoot some kind of “beam
 
-## ” instead of an arrow
+” instead of an arrow
 
 from A to B with a speed faster than c from the very beginning so that it doesn’t have to be accelerated from slower speeds?
 
@@ -3362,17 +3108,17 @@ it would lead to the breakdown of causality
 
 so it had better be impossible!
 
-### 5.3 Instantaneous communication?
+# 5.3 Instantaneous communication?
 
-## As we have seen
+# As we have seen
 
 an object traveling at speeds faster than c can lead to the breakdown of causality.
 
-## In fact
+# In fact
 
 it is not only objects that must not travel faster than c but any kind of signal that conveys information.
 
-## To see this
+# To see this
 
 I am going to use the following example from the book The Einstein Paradox [7] by Colin Bruce.
 
@@ -3380,11 +3126,11 @@ Assume that it is possible to communicate instantaneously with anyone at any dis
 
 Now imagine a long train traveling along straight horizontal tracks.
 
-## Observer 1
+# Observer 1
 
 who is standing along the railroad tracks
 
-## signals to observer 2
+signals to observer 2
 
 who is riding the locomotive of the train
 
@@ -3392,23 +3138,23 @@ as the locomotive passes point A on the spacetime diagram.
 
 Observer 2 immediately forwards the message received from observer 1 to observer 3
 
-## who is riding the caboose
+who is riding the caboose
 
 using the instantaneous communication device.
 
-## Since the signal is
+# Since the signal is
 
-## presumably
+presumably
 
-### instantaneous in the train-frame
+instantaneous in the train-frame
 
 it reaches observer 3 at point B on the spacetime diagram.
 
-## Observer 3
+# Observer 3
 
-## upon receiving the message
+upon receiving the message
 
-### immediately forwards it to observer 4
+immediately forwards it to observer 4
 
 who happens to be standing just alongside the caboose at that particular instant.
 
@@ -3416,11 +3162,11 @@ Observer 4 then immediately forwards the message to observer 1
 
 again using the instantaneous communication device.
 
-## Since the signal is
+# Since the signal is
 
-## presumably
+presumably
 
-### instantaneous in the ground-frame
+instantaneous in the ground-frame
 
 it reaches observer 1 at point C.
 
@@ -3430,7 +3176,7 @@ So observer 1 receives his own message before he even sent it.
 
 A paradox has occurred because we assumed that a signal could be sent at speeds that exceed c.
 
-### 5.4 Impossibility of faster than light travel
+# 5.4 Impossibility of faster than light travel
 
 As long as no object nor any signal can exceed the speed of light
 
@@ -3438,7 +3184,7 @@ causality does not break down.
 
 This is because the chronological order of two events on the spacetime diagram will depend on the frame only when the line connecting them has a tilt which is smaller than 45 degrees from the horizontal.
 
-## In such a case
+# In such a case
 
 there always exists a frame in which the two events happen at the same time.
 
@@ -3450,7 +3196,7 @@ And to connect those two events by a worldline
 
 the object or signal must be traveling faster than the speed of light.
 
-## On the other hand
+# On the other hand
 
 the worldline of an object or signal traveling at a speed slower than the speed of light will have a tilt larger than 45 degrees from the horizontal.
 
@@ -3458,15 +3204,15 @@ Horizontal.
 
 Any two events on the spacetime diagram that can be connected by such a worldline have a fixed chronological order independent of the frame.
 
-### 5.4 Impossibility of faster than light travel
+# 5.4 Impossibility of faster than light travel
 
 If you could travel faster than the speed of light
 
 you could reach your destination before you leave home!
 
-## 5.5 The light-cone
+# 5.5 The light-cone
 
-### Take any point on the spacetime diagram
+# Take any point on the spacetime diagram
 
 say A, and draw two lines at 45 degree angles that go through it.
 
@@ -3476,7 +3222,7 @@ The two lines separate the spacetime diagram into four regions.
 
 Any point in the bottom or top regions can be connected with point A with a worldline of an object or signal whose speed does not exceed c.
 
-## On the other hand
+# On the other hand
 
 this cannot be done for any of the points in the left or right regions.
 
@@ -3496,9 +3242,9 @@ They are the points causally disconnected from A.
 
 The two lines that separate these regions is known as the light-cone.
 
-### It may not look like a cone here
+# It may not look like a cone here
 
-### but if we consider two space dimensions
+but if we consider two space dimensions
 
 then the surface that separates the causally connected and disconnected regions will be a cone.
 
@@ -3514,21 +3260,21 @@ The light-cone represents the causal structure of spacetime.
 
 It tells you that only a limited region of the spacetime diagram can be considered the future
 
-## or the past
+or the past
 
 of any event.
 
 And this is because the inside of the light-cone is the only region that all inertial observers agree as happening before
 
-## or after
+or after
 
 the event in question.
 
-## Notes
+# Notes
 
 1 Particles that travel faster than the speed of light have been considered theoretically and are called tachyons (tachy- from the Greek ταχυς
 
-## meaning fast
+meaning fast
 
 with the suffix -on for particle).
 
@@ -3538,7 +3284,7 @@ So any theory that predicts their existence is considered a bad theory.
 
 2 This happens all the time in science fiction movies.
 
-## 3 With three space dimensions
+3 With three space dimensions
 
 the light-cone is not exactly a cone in the usual sense of the word
 
@@ -3548,35 +3294,35 @@ but the terminology is still used due to the lack of a better word.
 
 but it’s useful to know.
 
-## Consequences
+# Consequences
 
 Let us now take a look at some of the consequences of the fact that the concept of simultaneity is relative.
 
-## 6.1 Synchronization of clocks
+# 6.1 Synchronization of clocks
 
-## In our discussion so far
+# In our discussion so far
 
 we have assumed that there is a single clock at the origin which keeps track of the time in each frame.
 
-## But of course
+# But of course
 
 we can have multiple clocks at fixed distances from the origin
 
 and have them synchronized so that they all give the exact same reading in that particular frame.
 
-## For instance
+# For instance
 
 in the top diagram shown on the opposite page
 
 three clocks in the ground-frame have been synchronized.
 
-## However
+# However
 
 if the same clocks are observed from the car-frame which is moving relative to the ground
 
 it is clear from the diagram that they are not synchronized at all.
 
-## Similarly
+# Similarly
 
 clocks that are synchronized in the car-frame are not synchronized in the ground-frame
 
@@ -3590,7 +3336,7 @@ This is a rather trivial consequence of the relativity of simultaneity
 
 but something that may not be so obvious until you think about it.
 
-## 6.2 Time dilation
+# 6.2 Time dilation
 
 Now, let’s say we wanted to compare the reading of a clock in the ground-frame with the reading of a clock in the car-frame to see if they are running at the same rate.
 
@@ -3598,9 +3344,9 @@ First, let’s consider carefully how we should compare the running of two clock
 
 I think everyone would agree that the correct procedure is
 
-## Synchronize the two clocks
+# Synchronize the two clocks
 
-## that is
+that is
 
 make sure that initially they give the same reading at the same time.
 
@@ -3608,7 +3354,7 @@ Wait a while and then compare the readings of the two clocks at the same time.
 
 You normally would not even mention the at the same time requirement since it is so obvious.
 
-### But as we have been discussing
+# But as we have been discussing
 
 at the same time for one observer is not at the same time for another.
 
@@ -3616,7 +3362,7 @@ Now, I think it is clear from the discussion in the previous section that the on
 
 So let’s assume that two observers in the ground- and car-frames synchronized their clocks at the origin
 
-## labeled A
+labeled A
 
 of the spacetime diagram as shown.
 
@@ -3638,7 +3384,7 @@ and if he compares the readings of the two clocks at the same time in the ground
 
 it will NOT be at the same time in the car-frame.
 
-## Similarly
+# Similarly
 
 when the car-frame observer compares the reading of the car-frame clock with the reading of the ground-frame clock
 
@@ -3646,7 +3392,7 @@ he will compare the readings of the two clocks at the same time in the car-frame
 
 which is NOT at the same time in the ground-frame.
 
-## For instance
+# For instance
 
 if the ground-frame observer wants to compare the reading of the ground-frame clock at B with the car-frame clock
 
@@ -3664,9 +3410,9 @@ the car-frame observer at E will think that the other observer is comparing the 
 
 The car-frame observer will naturally compare the reading of the ground-frame clock at B with the reading of the car-frame clock at E since they are simultaneous in the car-frame.
 
-## But in the ground-frame
+# But in the ground-frame
 
-## E is in the future of B
+# E is in the future of B
 
 and it is actually C that is simultaneous with E.
 
@@ -3706,15 +3452,15 @@ So the reading of the ground-clock at B will be earlier than the reading of the 
 
 and the car-frame observer at E will conclude that the ground-frame clock is running slow compared to the car-frame clock.
 
-## So what we have discove
+# So what we have discove
 
 The result is that moving clocks are always observed to be running slower.
 
 This effect is known as time dilation.
 
-## 6.2 Time dilation
+# 6.2 Time dilation
 
-## ct ct ct
+ct ct ct
 
 you’re the one who’s comparing the reading of your clock now with the reading of my clock in the past!
 
@@ -3726,11 +3472,11 @@ Your clock is running slow compared to mine.
 
 Our clocks have been synchronized!
 
-### 6.3 What time dilation DOES NOT mean
+# 6.3 What time dilation DOES NOT mean
 
 Now, time dilation is often misunderstood to mean that time itself is flowing at a slower rate in a moving frame compared to a frame at rest.
 
-## And consequently
+# And consequently
 
 time intervals measured by the moving clock will always be shorter than those measured by the stationary clock.
 
@@ -3738,7 +3484,7 @@ This is not true at all.
 
 First, the relationship between the stationary and moving frames is completely symmetrical.
 
-## After all
+# After all
 
 which frame we consider to be moving is a matter of choice.
 
@@ -3748,9 +3494,9 @@ then time has to be flowing at a slower rate in the stationary frame than the mo
 
 This is a clear contradiction.
 
-## Second
+# Second
 
-## as we have seen
+as we have seen
 
 when the two observers are comparing the readings of their clocks
 
@@ -3762,15 +3508,15 @@ If the two observers actually measure the time interval between the same events 
 
 then there is no rule that says that one observer will obtain a shorter time than the other.
 
-## For instance
+# For instance
 
-## take the four points A
+take the four points A
 
 B, C, and D shown here.
 
 The chronological separation between A and B is measured to be shorter in the ground-frame than in the car-frame.
 
-## However
+# However
 
 the time interval between B and C are measured to be the same in both frames
 
@@ -3780,7 +3526,7 @@ Time dilation is a phenomenon caused by the relativity of simultaneity
 
 and has nothing to do with how fast time is flowing.
 
-## 6.4 Lorentz contraction
+# 6.4 Lorentz contraction
 
 Next, let’s think about the measurement of length.
 
@@ -3796,7 +3542,7 @@ We wouldn’t measure the position of the front end of the train at one time
 
 and the position of the back end of the train at another time
 
-## and then take the difference
+and then take the difference
 
 would we?
 
@@ -3824,21 +3570,21 @@ This is called Lorentz contraction.
 
 There is a slight complication in this derivation
 
-## however
+however
 
 due to the fact that the Lorentz transformation involves stretching and squeezing of the spacetime grid so it may not be that clear whether the moving frame would associate a shorter distance to CB than the stationary frame would to AB.
 
-## ct
+ct
 
 This is the length of this train.
 
-## worldline of train ct
+worldline of train ct
 
-## A B x
+# A B x
 
-## C D
+# C D
 
-## worldline of train
+worldline of train
 
 That’s the length of this train.
 
@@ -3846,23 +3592,23 @@ If we consider the case where the train is at rest
 
 this complication becomes clear.
 
-## In this spacetime diagram
+# In this spacetime diagram
 
 the observer on the stationary train will measure the distance between points A and D and call it the length of the train.
 
 A moving observer in another train or car in the (x
 
-## ct)-frame
+ct)-frame
 
-## on the other hand
+on the other hand
 
 will measure the distance between points A and B and call that the length of the train.
 
 Now since the train will move to the left between CD and AB in the (x
 
-## ct)-frame
+ct)-frame
 
-## AB measured in the (x
+AB measured in the (x
 
 ct)-frame should be shorter than AD measured in the (x
 
@@ -3872,9 +3618,9 @@ But this is not clear from this particular spacetime diagram.
 
 That’s the length of this train.
 
-### worldline of right end of train
+worldline of right end of train
 
-### worldline of left end of train
+worldline of left end of train
 
 ct ct x A D This is the length of this train!
 
@@ -3882,25 +3628,25 @@ The way to circumvent this complication is to Lorentz transform to a third frame
 
 Here, we show in the spacetime diagram two trains of equal lengths that are moving in opposite directions at the same speed.
 
-### The train moving to the left is the (x
+The train moving to the left is the (x
 
-## ct)-frame train
+ct)-frame train
 
 and the train moving to the right is the (x
 
 ct)-frame train.
 
-## In the (x
+In the (x
 
-## ct)-frame
+ct)-frame
 
 the length of the left-moving train (which is at rest in that frame) is AF while the length of the right-moving train is AE.
 
 Clearly, AE is shorter than AF.
 
-## In the (x
+In the (x
 
-## ct)-frame
+ct)-frame
 
 the length of the right-moving train (which is at rest in that frame) is AC
 
@@ -3908,13 +3654,13 @@ while the length of the left-moving train is AB.
 
 Clearly, AB is shorter than AC.
 
-### 6.5 What Lorentz contraction DOES NOT mean
+# 6.5 What Lorentz contraction DOES NOT mean
 
 Now, just like time dilation
 
 Lorentz contraction is often misunderstood to mean that space itself shrinks in the direction of motion in the moving frame
 
-## and consequently
+and consequently
 
 spatial distances measured in the moving frame will always be longer (since they are using a shorter ruler) than in the stationary frame.
 
@@ -3932,7 +3678,7 @@ then space has to shrink in the stationary frame compared to the moving frame.
 
 A clear contradiction.
 
-## Second
+# Second
 
 when the two observers are measuring lengths they are not measuring the spatial separation of the same events at all.
 
@@ -3942,15 +3688,15 @@ If the two observers actually measure the spatial separation between the same ev
 
 there is no rule that says that one observer will obtain a shorter length than the other.
 
-## For instance
+# For instance
 
-## take the four points A
+take the four points A
 
 B, C, and D shown here.
 
 The spatial separation between A and B is measured to be longer in the ground-frame than in the car-frame.
 
-## However
+# However
 
 the spatial separation between B and C are measured to be the same in both frames
 
@@ -3958,11 +3704,11 @@ while the spatial separation between C and D is shorter in the ground-frame than
 
 Lorentz contraction is a phenomenon caused by the relativity of simultaneity
 
-## just like time dilation
+just like time dilation
 
 and does not imply the stretching or shrinking of space itself in any way.
 
-## 6.6 Twin paradox
+# 6.6 Twin paradox
 
 A common argument made against relativity is the following
 
@@ -3970,7 +3716,7 @@ Consider sending an astronaut to a distant star in a spaceship at very high spee
 
 Assume that the astronaut has a twin sibling waiting back on Earth.
 
-### In the Earth-frame of reference
+# In the Earth-frame of reference
 
 time on the spaceship will be observed to pass more slowly than on the Earth due to time dilation.
 
@@ -3978,7 +3724,7 @@ It may seem as if only a few years have passed on the ship while decades pass on
 
 So the twin of the astronaut waiting on the Earth expects the astronaut to be the younger of the two upon return.
 
-### In the spaceship-frame of reference
+# In the spaceship-frame of reference
 
 it is the Earth that is moving at a very high speed so time on Earth will be observed to pass more slowly than on the spaceship.
 
@@ -4002,7 +3748,7 @@ See you in a few years.
 
 Bon voyage!
 
-## In the Earth-frame
+# In the Earth-frame
 
 Time is flowing more slowly on the spaceship than here on Earth.
 
@@ -4010,7 +3756,7 @@ Welcome home!
 
 It’s nice to be back!
 
-## In the spaceship-frame
+# In the spaceship-frame
 
 Time is flowing more slowly on Earth than here on this spaceship.
 
@@ -4020,13 +3766,13 @@ It’s nice to be back!
 
 Which expectation is correct?
 
-## To resolve this question
+# To resolve this question
 
 let us first notice that in order for the astronaut to return to the Earth
 
 she must change direction somewhere.
 
-## Otherwise
+# Otherwise
 
 her spaceship will keep on moving at constant velocity
 
@@ -4040,7 +3786,7 @@ Now changing direction involves acceleration
 
 which puts the astronaut in a non-inertial frame.
 
-## And as we discussed earlier
+# And as we discussed earlier
 
 special relativity is a theory that only applies to observations made from inertial frames
 
@@ -4048,11 +3794,11 @@ so we can’t really tell what the astronaut observes during the acceleration pr
 
 But let’s for the sake of argument assume that the acceleration process can be made as short as we like and can be considered an instantaneous jump from one inertial frame to another.
 
-### In the spacetime diagram shown here
+# In the spacetime diagram shown here
 
 this jump occurs at C.
 
-## Notice that in
+# Notice that in
 
 the frame the spaceship was in before the jump
 
@@ -4066,7 +3812,7 @@ So, after the jump
 
 the astronaut discovers that time on Earth has suddenly jumped from A to B.
 
-## Because of this effect
+# Because of this effect
 
 the astronaut will be younger than her sibling when she returns to the Earth.
 
@@ -4096,7 +3842,7 @@ and have them return at the same time (on the Earth).
 
 The worldlines of their trips are shown here
 
-### they both start at the origin O
+they both start at the origin O
 
 sibling 1 travels toward the right and turns back at C
 
@@ -4104,17 +3850,17 @@ while sibling 2 travels toward the left and turns back at C'.
 
 Both siblings will observe time on the other spaceship to be passing at a slower rate due to time dilation.
 
-## However
+# However
 
 in sibling 1’s frame before the turn-around
 
 C is simultaneous with A and D', but after the turn-around, C is simultaneous with B and E'.
 
-### So as sibling 1 turns around at C
+# So as sibling 1 turns around at C
 
 time in the other spaceship suddenly jumps from D' to E'.
 
-## Similarly
+# Similarly
 
 in sibling 2’s frame before the turn-around
 
@@ -4134,7 +3880,7 @@ let us discuss the Doppler effect in light.
 
 Doppler effect refers to the phenomenon in which the observed frequency of a wave changes depending on the motions of the wave source and the observer.
 
-## For instance
+# For instance
 
 if an ambulance passes by with its sirens blaring
 
@@ -4146,9 +3892,9 @@ Now, if you have learned about the Doppler effect in sound in school
 
 you may recall that it was caused by the fact that the speed of sound relative to the sound source and the observer depended on their motions relative to the air through which the sound was propagating.
 
-## Since the speed of light
+# Since the speed of light
 
-## on the other hand
+on the other hand
 
 is independent of the motion of the light source or that of the observer
 
@@ -4166,7 +3912,7 @@ The worldlines of the crests of the light-wave are shown here in red.
 
 The spatial separation of the successive crests give the wavelength of the light.
 
-## In the light-source frame
+# In the light-source frame
 
 the initial wavelength is labeled λ in the diagram.
 
@@ -4176,9 +3922,9 @@ The spacetime diagram is drawn in a frame in which the source and observer are m
 
 ct) axes and the (x',ct') axes are the same.
 
-## It is clear from this diagram
+# It is clear from this diagram
 
-## I think
+# I think
 
 that the time intervals separating the successive wave crests that arrive at the observer are larger than those of the successive wave crests leaving the light source.
 
@@ -4220,9 +3966,9 @@ The spacetime diagram for that situation is shown here.
 
 The light source is moving to the right along the ct'-axis, while the observer is moving to the left along the worldline parallel to the ct-axis.
 
-### The spacetime diagram tells us that
+# The spacetime diagram tells us that
 
-## in this case
+in this case
 
 the frequency (wavelength) of light received by the observer is higher (shorter) than that emitted by the source.
 
@@ -4238,7 +3984,7 @@ but also what its speed is.
 
 That is how astronomers know that (1) all the galaxies in the universe on average are receding away from us
 
-### and (2) the farther away the galaxy is
+and (2) the farther away the galaxy is
 
 the faster the speed by which it is receding
 
@@ -4250,9 +3996,9 @@ Two natural questions immediately come to mind
 
 • How do astronomers know what the original frequency of the star-light that we observe on Earth was?
 
-## If we see yellow light
+# If we see yellow light
 
-## has it red-shifted from blue
+has it red-shifted from blue
 
 or has it blue-shifted from red?
 
@@ -4264,7 +4010,7 @@ I will have to ask you to study it yourself in a book on astronomy.
 
 (See, for instance, [8].
 
-### The answer to the first question is
+# The answer to the first question is
 
 the astronomers look for light emitted by specific atoms.
 
@@ -4274,7 +4020,7 @@ so-called since they show up as distinct lines if you use a prism to separate th
 
 The pattern of the lines is unique to each atom.
 
-### So even if the pattern is red-shifted
+# So even if the pattern is red-shifted
 
 astronomers can still identify which atom the spectral lines came from.
 
@@ -4282,7 +4028,7 @@ And since the original frequencies of those spectral lines are known from experi
 
 astronomers can determine the amount of red-shift that the light has undergone.
 
-## Notes
+# Notes
 
 1 Named after Christian Andreas Doppler (1803–1853).
 
@@ -4308,13 +4054,13 @@ The predictions of Special Relativity such as time dilation and Lorentz contract
 
 The reason for the notoriety is due to the apparent paradoxical nature of the prediction
 
-## say we have two frames
+say we have two frames
 
-## A and B
+# A and B
 
 moving relative to each other.
 
-### According to Special Relativity
+# According to Special Relativity
 
 the observer in frame A will observe the clock in frame B to run slower than the clock in frame A
 
@@ -4338,27 +4084,27 @@ Lengths are shorter and time slower on the train!
 
 Lengths are shorter and time slower on the ground!
 
-## PART II
+# PART II
 
-## Problems
+# Problems
 
-## Qualitative problems
+# Qualitative problems
 
 All the problems in this chapter are qualitative and you will be able to solve them if you can read spacetime diagrams.
 
 Try them out to test your understanding of Special Relativity.
 
-### 8.1 Reading the spacetime diagram
+# 8.1 Reading the spacetime diagram
 
-## 8.1.1 Street lamps
+# 8.1.1 Street lamps
 
-## Five street lamps
+# Five street lamps
 
-## numbered 1 through 5
+numbered 1 through 5
 
 are located on a straight line along the x-axis equal distance apart as shown in the figure.
 
-## They turn on at points A
+# They turn on at points A
 
 B, C, D
 
@@ -4382,11 +4128,11 @@ In what order does the light from the lamps reach the observer riding the car?
 
 Where is the car when the light from street lamp 4 reaches it?
 
-## 8.1.2 Supernovae
+# 8.1.2 Supernovae
 
 The spacetime diagram shows five stars which go supernova (that is
 
-### explode) at spacetime points A
+explode) at spacetime points A
 
 B, C, D
 
@@ -4412,9 +4158,9 @@ Is the chronological order in which supernovae A and B occur the same in all fra
 
 Explain.
 
-### 8.2 Questions on before and after
+# 8.2 Questions on before and after
 
-### 8.2.1 The hare and the tortoise 1
+# 8.2.1 The hare and the tortoise 1
 
 The hare and the tortoise decide to have another race.
 
@@ -4424,9 +4170,9 @@ they decide to run in opposite directions toward finish lines located at equal d
 
 as shown in the figure.
 
-## The race takes place and
+# The race takes place and
 
-### in the frame fixed to the ground
+in the frame fixed to the ground
 
 both animals cross their respective finish lines at the same time and the referee declares the race a tie.
 
@@ -4446,9 +4192,9 @@ The hare thinks it won and the tortoise thinks it lost.
 
 The hare thinks it lost and the tortoise thinks it won.
 
-## 5. None of the above.
+# 5. None of the above.
 
-### 8.2.2 The hare and the tortoise 2
+# 8.2.2 The hare and the tortoise 2
 
 The hare and the tortoise decide to have another race.
 
@@ -4458,9 +4204,9 @@ but the hare decides to allow the tortoise a handicap by letting him race only h
 
 as shown in the figure.
 
-## The race takes place and
+# The race takes place and
 
-### in the frame fixed to the ground
+in the frame fixed to the ground
 
 both animals cross their respective finish lines at the same time and the referee declares the race a tie.
 
@@ -4486,15 +4232,15 @@ If the tortoise bases its conclusion on what it actually sees
 
 will it think that it won or that it lost?
 
-### 8.2.3 The hare and the tortoise 3
+# 8.2.3 The hare and the tortoise 3
 
 The hare and the tortoise decide to have another race.
 
-## This time
+# This time
 
 they start out from opposite directions the same distance away from the finish line
 
-## as shown in the figure
+as shown in the figure
 
 and race toward each other.
 
@@ -4506,19 +4252,19 @@ The referee declares the race a tie.
 
 Assume that both animals were moving at constant velocities before
 
-## during
+during
 
 and after the race.
 
 Answer the following questions:
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through I
+labeled A through I
 
 does the tortoise cross its starting line?
 
-## In the frame of the tortoise
+# In the frame of the tortoise
 
 at which spacetime point is the hare when the tortoise crosses its starting line?
 
@@ -4526,7 +4272,7 @@ At which spacetime point does the hare see the tortoise start?
 
 Do both animals agree with the referee that they started at the same time?
 
-## If not
+# If not
 
 explain in what chronological order the animals start in each animal’s frame.
 
@@ -4534,21 +4280,21 @@ Refer to the spacetime diagram in your explanation.
 
 Do both animals agree with the referee that they finished at the same time?
 
-## If not
+# If not
 
 explain in what chronological order the animals finish in each animal’s frame.
 
 Refer to the spacetime diagram in your explanation.
 
-### 8.2.4 The starship and the supernova
+# 8.2.4 The starship and the supernova
 
 A star is about to go supernova and a planet orbiting it must be evacuated.
 
 The starship Einstein is sent to the planet to pick up some biology students on a field trip to observe the local flora and fauna.
 
-### The worldlines of the Einstein
+# The worldlines of the Einstein
 
-## the star
+the star
 
 and the planet are shown on the spacetime diagram.
 
@@ -4562,17 +4308,17 @@ The light from the supernova spreads out in both directions along the worldlines
 
 Answer the following questions:
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through H
+labeled A through H
 
 does the Einstein arrive at the planet?
 
-### In the frame moving with the Einstein
+# In the frame moving with the Einstein
 
 at which spacetime point is the star when the Einstein arrives at the planet?
 
-## In the Einstein frame
+# In the Einstein frame
 
 does the Einstein arrive at the planet before the star goes supernova
 
@@ -4580,9 +4326,9 @@ or after the star goes supernova?
 
 Explain your answer referring to the spacetime diagram.
 
-### 4. In the frame fixed to the planet, does the
+# 4. In the frame fixed to the planet, does the
 
-## 8.3.2 Tagging up in baseball
+# 8.3.2 Tagging up in baseball
 
 During a baseball game a fly ball is hit toward left field along the third base line.
 
@@ -4592,21 +4338,21 @@ The runner on third base tags up and starts off toward home base at point G on t
 
 Answer the following questions:
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through J
+labeled A through J
 
 is the third base runner when the left fielder catches the ball at D in the umpire’s frame of reference?
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through J
+labeled A through J
 
 is the third base runner when the left fielder catches the ball at D in the left fielder’s frame of reference?
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through J
+labeled A through J
 
 is the third base runner when the left fielder catches the ball at D in the runner’s frame of reference after he left third base?
 
@@ -4620,25 +4366,25 @@ and (3) the runner’s frame of reference after he has left third base and is ru
 
 has the runner committed a foul?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
 If the three observers base their judgments solely on what they see
 
-## which of them
+which of them
 
-## if any
+if any
 
 would conclude that the runner has committed a foul?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
-### 8.3.3 The offside rule in soccer
+# 8.3.3 The offside rule in soccer
 
-## During a game of soccer
+# During a game of soccer
 
 Matthew is initially in possession of the ball while his teammate Mark runs toward the goal being kept by Luke of the opposing team.
 
@@ -4648,47 +4394,47 @@ Mark passes John of the opposing team and thereby enters the offside position at
 
 Answer the following questions:
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through L
+labeled A through L
 
 is Mark when the ball is kicked at B in Mark’s frame of reference?
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through L
+labeled A through L
 
 is Mark when the ball is kicked at B in John’s frame of reference?
 
-## In Mark’s frame of reference
+In Mark’s frame of reference
 
 did Mark enter the offside position before the ball was kicked or after the ball was kicked?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
-## In John’s frame of reference
+In John’s frame of reference
 
 did Mark enter the offside position before the ball was kicked or after the ball was kicked?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
 What is the chronological order in which Luke
 
-## the goal keeper
+the goal keeper
 
-## sees the two events
+sees the two events
 
-### the ball being kicked by Matthew
+the ball being kicked by Matthew
 
 and Mark entering the offside position?
 
-## 8.4 Lorentz contraction
+# 8.4 Lorentz contraction
 
-## 8.4.1 Train and tunnel
+# 8.4.1 Train and tunnel
 
 A high speed train speeds through a tunnel at constant velocity.
 
@@ -4708,31 +4454,31 @@ Does the train fit inside the tunnel in the tunnel-frame?
 
 How about in the train-frame?
 
-### 8.4.2 The starship and the enemy space cruiser 1
+# 8.4.2 The starship and the enemy space cruiser 1
 
 The Imperial space cruiser Sir Isaac Newton is equipped with a disruptor cannon mounted on its rear end which can only fire perpendicularly to its direction of motion.
 
 A standard Imperial Navy tactic is to fly by an enemy and fire this cannon as the front end of the space cruiser passes the enemy ship’s rear end.
 
-## In the following discussion
+# In the following discussion
 
 assume that the space cruiser flies by so closely that you can neglect the time it takes for the disruptor beam to travel from the cannon to the target.
 
-## The starship Einstein
+# The starship Einstein
 
 which is the same length as the Newton when both are at rest
 
 is about to be attacked.
 
-### The ship’s doctor is worried that
+The ship’s doctor is worried that
 
-## due to Lorentz contraction
+due to Lorentz contraction
 
 the Newton will be shorter than the Einstein and therefore cannot miss.
 
-## The science officer
+# The science officer
 
-## on the other hand
+on the other hand
 
 insists that since the Einstein will be shorter than the Newton in the Newton’s frame
 
@@ -4758,7 +4504,7 @@ at which spacetime point is the front end of the Einstein in the Newton’s fram
 
 At which spacetime point does the disruptor cannon fire?
 
-### When the disruptor cannon fires
+# When the disruptor cannon fires
 
 at which spacetime point is the front end of the Newton in the Einstein’s frame?
 
@@ -4766,11 +4512,11 @@ Explain to your ship’s doctor and science officer which of them is correct.
 
 Refer to the spacetime diagram in your explanation.
 
-### 8.4.3 The starship and the enemy space cruiser 2
+# 8.4.3 The starship and the enemy space cruiser 2
 
 The Imperial Navy tactic assumed in the previous problem is actually unrealistic since there is no way for the gunner at the rear end of the Newton to know when the Newton’s front end has reached the rear end of the Einstein.
 
-## So instead
+# So instead
 
 assume that a light signal is sent from the front end of the Newton to its rear when a sensor detects the rear end of the Einstein pass by its front end at N
 
@@ -4778,19 +4524,19 @@ and the cannon fires when it receives this signal.
 
 Answer the following questions:
 
-## At which spacetime point
+# At which spacetime point
 
-## labeled A through W
+labeled A through W
 
 does the cannon fire in this case?
 
 Is the Einstein hit this time?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
-### 8.4.4 The duel of the space cruisers
+# 8.4.4 The duel of the space cruisers
 
 An Imperial space cruiser is equipped with a disruptor cannon mounted on its nose which can only fire in the direction perpendicular to its direction of motion.
 
@@ -4804,15 +4550,15 @@ trying to hit the vulnerable spot of the opponent.
 
 The commander of cruiser 1 thinks that she will win since
 
-## due to Lorentz contraction
+due to Lorentz contraction
 
 her opponent’s ship will be shorter than hers which will allow her cannon to fire at the opponent’s vulnerable spot before the opponent gets a chance to fire his cannon at her vulnerable spot.
 
 The commander of cruiser 2 thinks that he will win due to the exact same reason.
 
-## The duel takes place and
+# The duel takes place and
 
-### from a frame fixed to a nearby planet
+from a frame fixed to a nearby planet
 
 it is observed that both cruisers are the same length
 
@@ -4830,13 +4576,13 @@ Answer the following questions:
 
 In the frame moving with cruiser 1 (coming in from the left)
 
-## at which spacetime point
+at which spacetime point
 
-## labeled A through L
+labeled A through L
 
 is the nose of cruiser 2 (coming in from the right) when the cannon of cruiser 1 is fired at Q?
 
-### In the frame moving with cruiser 1
+# In the frame moving with cruiser 1
 
 what is the chronological order in which the two cannons are fired?
 
@@ -4848,15 +4594,15 @@ At which spacetime point does the signal reach the nose of cruiser 2?
 
 What was wrong with the commanders’ reasoning that they will win?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
-## 8.4.5 Trains in a tunnel
+# 8.4.5 Trains in a tunnel
 
-## Two trains
+# Two trains
 
-## 1 and 2
+1 and 2
 
 of equal lengths are traveling at the same speed in opposite directions inside a long
 
@@ -4870,15 +4616,15 @@ Then, at time t in the ground-frame of reference
 
 they all turn off simultaneously.
 
-### In the ground-frame of reference
+# In the ground-frame of reference
 
 both trains are observed to be the same length (since they are both moving at the same speed) and both are immersed in light for the same amount of time.
 
-## Therefore
+# Therefore
 
 an observer on the ground concludes that both trains are hit by the same number of photons.
 
-## However
+# However
 
 an observer riding train 1 reasons that since train 1 is longer than train 2 in the train 1 frame of reference (since train 2 is shorter due to Lorentz contraction) train 1 must be hit by more photons than train 2.
 
@@ -4886,93 +4632,93 @@ This seems to contradict the conclusion of the observer on the ground.
 
 Answer the following questions:
 
-## At which spacetime points
+# At which spacetime points
 
-## labeled A through V
+labeled A through V
 
 are the front and rear ends of train 1 when its front end enters the field of light in the ground-frame?
 
 ain 1 frame of reference?
 
-## At which spacetime points
+# At which spacetime points
 
-## labeled A through V
+labeled A through V
 
 are the front and rear ends of train 1 when its rear end exits the field of light in the train 1 frame of reference?
 
-## At which spacetime points
+# At which spacetime points
 
-## labeled A through V
+labeled A through V
 
 are the front and rear ends of train 2 when its rear end enters the field of light in the train 1 frame of reference?
 
-## At which spacetime points
+# At which spacetime points
 
-## labeled A through V
+labeled A through V
 
 are the front and rear ends of train 2 when its front end exits the field of light in the train 1 frame of reference?
 
 What was wrong with the reasoning of the observer on train 1?
 
-## Explain
+# Explain
 
 referring to the spacetime diagram.
 
-### Solutions to Chapter 8 problems
+# Solutions to Chapter 8 problems
 
-### 8.1 Reading the spacetime diagram
+# 8.1 Reading the spacetime diagram
 
-## 8.1.1 Street lamps–solution
+# 8.1.1 Street lamps–solution
 
-## 1 and 3 simultaneously
+1 and 3 simultaneously
 
-## then 5
+then 5
 
-## then 4
-
-and then 2.
-
-1, then 3
-
-## then 2 and 4 simultaneously
-
-and then 5.
-
-## 3 and 5 simultaneously
-
-## then 1 and 4 simultaneously
+then 4
 
 and then 2.
 
 1, then 3
 
-## then 2 and 4 simultaneously
+then 2 and 4 simultaneously
 
 and then 5.
 
-### 5. Midway between lamps 1 and 2.
+3 and 5 simultaneously
 
-## 8.1.2 Supernovae–solution
+then 1 and 4 simultaneously
 
-## B and E simultaneously
+and then 2.
 
-## then D
+1, then 3
 
-## then A
+then 2 and 4 simultaneously
+
+and then 5.
+
+# 5. Midway between lamps 1 and 2.
+
+# 8.1.2 Supernovae–solution
+
+# B and E simultaneously
+
+then D
+
+then A
 
 then C.
 
 E, then D
 
-## then B
+then B
 
 then A and C simultaneously.
 
-### 3. B, then A, then D, then E, then C.
+# 3. B, then A, then D, then E, then C.
 
 B, then D
 
-## then E
+then E
 
 then A and C simultaneously.
 
@@ -4980,17 +4726,17 @@ The chronological order of A and B is the same in all frames of reference.
 
 The spacetime points A and B can be connected by an object or signal which travels slower than the speed of light.
 
-## (In technical terms
+(In technical terms
 
 A is in the future light-cone of B.
 
-## ) Therefore
+) Therefore
 
 B must happen before A in all frames.
 
-### 8.2 Questions on before and after
+# 8.2 Questions on before and after
 
-### 8.2.1 The hare and the tortoise 1–solution
+# 8.2.1 The hare and the tortoise 1–solution
 
 Both the hare and the tortoise think that they won.
 
@@ -5002,29 +4748,29 @@ Though A and B are simultaneous in the referee’s frame
 
 they are not in the animals’ frames.
 
-## In the tortoise’s frame
+In the tortoise’s frame
 
 A is simultaneous with D on the hare’s worldline
 
 which is only about two thirds of the way to the hare’s finish line.
 
-### So in the tortoise’s frame of reference
+So in the tortoise’s frame of reference
 
 it won the race.
 
-## In the hare’s frame
+In the hare’s frame
 
 B is simultaneous with C on the tortoise’s worldline
 
 which is only about two thirds of the way to the tortoise’s finish line.
 
-### So in the hare’s frame of reference
+So in the hare’s frame of reference
 
 it also won the race.
 
-### 8.2.2 The hare and the tortoise 2–solution
+# 8.2.2 The hare and the tortoise 2–solution
 
-## 1. D 2. C 3. E 4. B 5. A
+# 1. D 2. C 3. E 4. B 5. A
 
 When the hare crosses its finish line at D
 
@@ -5046,21 +4792,21 @@ and does not take into account the finite amount of time it takes for light to r
 
 then it will think that it won.
 
-### 8.2.3 The hare and the tortoise 3–solution
+# 8.2.3 The hare and the tortoise 3–solution
 
-## 1. B 2. G 3. F
+# 1. B 2. G 3. F
 
 No, they do not agree.
 
 The tortoise starts at B while the hare starts at H.
 
-## In the tortoise-frame
+# In the tortoise-frame
 
-## B is simultaneous with G
+# B is simultaneous with G
 
 which is chronologically later than H.
 
-## In the hare-frame
+# In the hare-frame
 
 H is simultaneous with C which is chronologically later than B.
 
@@ -5078,27 +4824,27 @@ Yes, they will agree.
 
 Both animals cross the finish line at E.
 
-### 8.2.4 The starship and the supernova–solution
+# 8.2.4 The starship and the supernova–solution
 
-## 1. E 2. A
+# 1. E 2. A
 
-## In the Einstein-frame
+# In the Einstein-frame
 
 the supernova explosion S is simultaneous with D and G
 
 which come after E.
 
-## Therefore
+# Therefore
 
 the Einstein arrives at the planet before the star goes supernova.
 
-## In the planet frame
+# In the planet frame
 
 the supernova explosion S is simultaneous with F
 
 which comes before E.
 
-## Therefore
+# Therefore
 
 the Einstein arrives at the planet after the star goes supernova.
 
@@ -5112,21 +4858,21 @@ The light catches up with the Einstein at H
 
 which is when the students will finally see what they were escaping from.
 
-## 8.3 Relativistic sports
+# 8.3 Relativistic sports
 
-### 8.3.1 Tagging up in baseball 1–solution
+# 8.3.1 Tagging up in baseball 1–solution
 
-## 1. F 2. D
+# 1. F 2. D
 
 The third base runner leaves the base at E
 
-## which is after F
+which is after F
 
 so he has not committed a foul in the umpire-frame.
 
 The third base runner leaves the base at E
 
-## which is before D
+which is before D
 
 so he has committed a foul in the left fielder-frame.
 
@@ -5136,11 +4882,11 @@ while he sees the ball being caught at G.
 
 H is before G so he will call a foul.
 
-### 8.3.2 Tagging up in baseball 2–solution
+# 8.3.2 Tagging up in baseball 2–solution
 
-## 1. H 2. I 3. E
+# 1. H 2. I 3. E
 
-### The runner leaves third base at G
+# The runner leaves third base at G
 
 which is after H and I but before E.
 
@@ -5154,45 +4900,45 @@ Since he sees the runner leaving the base before the ball is caught
 
 he will call a foul.
 
-## The left fielder
+# The left fielder
 
-## on the other hand
+on the other hand
 
-### sees the runner leave third base at A
+sees the runner leave third base at A
 
 well after he caught the ball at D.
 
 So the left fielder will not think the runner committed a foul.
 
-## Finally
+# Finally
 
 the runner sees the ball being caught at B
 
-### well after he has left third base at G
+well after he has left third base at G
 
 so he himself will think that he has committed a foul.
 
-### 8.3.3 The offside rule in soccer–solution
+# 8.3.3 The offside rule in soccer–solution
 
-## 1. H 2. F
+# 1. H 2. F
 
-## In Mark’s frame of reference
+In Mark’s frame of reference
 
 B is simultaneous with H.
 
 Since Mark entered the offside position at E
 
-## which is before H
+which is before H
 
 it was before the ball was kicked.
 
-## In John’s frame of reference
+In John’s frame of reference
 
 B is simultaneous with F.
 
 Since Mark entered the offside position at E
 
-## which is after F
+which is after F
 
 it was after the ball was kicked.
 
@@ -5200,17 +4946,17 @@ Light from B reaches Luke at J.
 
 Light from E reaches Luke at K.
 
-## Since K happens before I
+# Since K happens before I
 
 Luke sees Mark enter the offside position first
 
 and then the ball being kicked by Matthew.
 
-## 8.4 Lorentz contraction
+# 8.4 Lorentz contraction
 
-### 8.4.1 Train and tunnel–solution
+# 8.4.1 Train and tunnel–solution
 
-## 1. I 2. H 3. J 4. G
+# 1. I 2. H 3. J 4. G
 
 In the tunnel-frame points H and I are simultaneous so the train fits inside the tunnel exactly.
 
@@ -5218,11 +4964,11 @@ But in the train-frame I is simultaneous with J and H is simultaneous with G.
 
 So when the front end of the train emerges from the tunnel at I
 
-## the rear end is still at J
+the rear end is still at J
 
 and when the rear end finally enters the tunnel at H
 
-## the front end is already at G
+the front end is already at G
 
 so the train is much longer than the tunnel in the train-frame.
 
@@ -5230,19 +4976,19 @@ so the train is much longer than the tunnel in the train-frame.
 
 N, where the worldlines of the rear end of the Einstein and the front end of the Newton meet.
 
-## 2. M 3. J
+# 2. M 3. J
 
 F, since the Newton will fire in its own frame of reference.
 
-## 5. H
+# 5. H
 
 The science officer is correct and the ship’s doctor is wrong.
 
 The front end of the Newton will pass by the rear end of the Einstein at point N.
 
-## In the Newton-frame
+# In the Newton-frame
 
-### N is simultaneous with F and J
+# N is simultaneous with F and J
 
 so the Einstein is extended from J to N while the Newton is extended from F to N.
 
@@ -5250,15 +4996,15 @@ So when the Newton fires its cannon at F
 
 it will miss.
 
-## In the Einstein-frame
+# In the Einstein-frame
 
-## F is simultaneous with G
+# F is simultaneous with G
 
 H, and I
 
-### so when the Newton’s cannon fires at F
+so when the Newton’s cannon fires at F
 
-### the Newton is extended from F to H
+the Newton is extended from F to H
 
 while the Einstein is extended from G to I.
 
@@ -5272,7 +5018,7 @@ at I, yet.
 
 3 The starship and the enemy space cruiser 2–solution
 
-## 1. Q
+# 1. Q
 
 Yes, it is hit.
 
@@ -5282,7 +5028,7 @@ T, and V
 
 so the Newton is extended from Q to V while the Einstein is extended from O to T.
 
-## On the other hand
+# On the other hand
 
 in the Einstein-frame Q is simultaneous with P
 
@@ -5290,47 +5036,47 @@ R, and S
 
 so the Newton is extended from Q to S while the Einstein is extended from P to R.
 
-## No matter how you look at it
+# No matter how you look at it
 
 point Q is smack in the middle of the Einstein.
 
-### 8.4.4 The duel of the space cruisers–solution
+# 8.4.4 The duel of the space cruisers–solution
 
-## 1. K
+# 1. K
 
-## In the cruiser 1-frame
+# In the cruiser 1-frame
 
 Q is simultaneous with K which comes before P.
 
-### So cruiser 1 fires its cannon first
+# So cruiser 1 fires its cannon first
 
 and cruiser 2 second.
 
-## 3. A
+# 3. A
 
-## When cruiser 2 is hit at Q
+# When cruiser 2 is hit at Q
 
 the damage can only propagate forward at or slower than the speed of light.
 
-## Therefore
+# Therefore
 
 the nose of cruiser 2 will not feel the damage until A
 
 giving it plenty of time to fire its cannon back at P.
 
-## (In technical terms
+(In technical terms
 
 the spacetime points P and Q are space-like separated so they cannot be causally connected.
 
-### 8.4.5 Trains in a tunnel–solution
+# 8.4.5 Trains in a tunnel–solution
 
 The front end of train 1 enters the light field at Q.
 
 Q is simultaneous with P and R in the train 1-frame.
 
-## Therefore
+# Therefore
 
-### the front end of train 1 is at Q
+the front end of train 1 is at Q
 
 and the rear end is at P.
 
@@ -5338,33 +5084,33 @@ The rear end of train 1 exits the light field at F.
 
 F is simultaneous with E and G in the train 1-frame.
 
-## Therefore
+# Therefore
 
-### the front end of train 1 is at G
+the front end of train 1 is at G
 
 and the rear end is at F.
 
 The rear end of train 2 enters the light field at V.
 
-## V is simultaneous with S
+# V is simultaneous with S
 
 T, and U in the train 1-frame.
 
-## Therefore
+# Therefore
 
-### the front end of train 2 is at U
+the front end of train 2 is at U
 
 and the rear end is at V.
 
 The front end of train 2 exits the light field at A.
 
-## A is simultaneous with B
+# A is simultaneous with B
 
 C, and D in the train 1-frame.
 
-## Therefore
+# Therefore
 
-### the front end of train 2 is at A
+the front end of train 2 is at A
 
 and the rear end is at B.
 
@@ -5388,7 +5134,7 @@ me in the light than train 1.
 
 The important thing to notice is that the lights inside the tunnel do not turn on and off simultaneously in either of the trains’ frames.
 
-## In the train 1 frame
+# In the train 1 frame
 
 what you observe is a band of light moving from the right to the left.
 
@@ -5398,7 +5144,7 @@ Since train 1 is moving in the opposite direction as the band of light while tra
 
 train 1 spends less time in the light than train 2.
 
-## By the way
+# By the way
 
 the band of light travels at a speed faster than the speed of light
 
@@ -5406,21 +5152,21 @@ but that does not violate causality since nothing is really moving
 
 nor is any information being transmitted.
 
-## ct ct
+ct ct
 
-## x
+x
 
-## D B
+# D B
 
-## ct
+ct
 
-## ct C A
+ct C A
 
-## At ct = 0
+At ct = 0
 
 the lights in this region are ON.
 
-## At a slightly later ct
+# At a slightly later ct
 
 the lights in this region are ON.
 
@@ -5428,17 +5174,17 @@ Band of light moves to the left in the (x
 
 ct) frame.
 
-## Notes
+# Notes
 
-## 1 To instructors
+1 To instructors
 
-### please feel free to use these problems
+please feel free to use these problems
 
-## or variations of them
+or variations of them
 
 in your courses.
 
-### If you think of any new problems
+# If you think of any new problems
 
 please email them to the author.
 
@@ -5446,23 +5192,23 @@ I plan to create a separate booklet of relativity problems.
 
 2 A “flyball” is a ball that is hit high into the air
 
-## as opposed to a “ground ball
+as opposed to a “ground ball
 
 ” which is hit downwards toward the ground.
 
-## In baseball
+# In baseball
 
 the runner cannot run while the fly ball is in the air and must wait until it is either caught (in which case the batter is out) or it bounces on the ground.
 
-## Otherwise
+# Otherwise
 
 an obvious tactic would be for the batter to hit as high a fly ball as possible and have the runner run while the opposing team can do absolutely nothing about it.
 
-## 3 In soccer
+3 In soccer
 
 one cannot pass a ball to a teammate unless there is at least one other member of the opposing team between your teammate and the opposing team’s goal keeper.
 
-## When there is none
+# When there is none
 
 your teammate is said to be in the “offside” position.
 
@@ -5474,15 +5220,15 @@ permissible to send out a pass into the offside zone if your teammate only enter
 
 4 I thank David Seppala for informing me of this problem.
 
-## Quantitative problems
+# Quantitative problems
 
-## 9.1 Addition of velocities
+# 9.1 Addition of velocities
 
 Solve the following problems pictorially using spacetime diagrams.
 
 (Do not resort to the equation provided in the endnotes of Chapter 4.
 
-### A tree is at rest on the ground
+# A tree is at rest on the ground
 
 and a car is traveling to the right at speed 1c.
 
@@ -5492,31 +5238,31 @@ what is its speed in the car-frame?
 
 Solution: See figure.
 
-## ball ct car
+ball ct car
 
-## light light
+light light
 
-## –c c
+–c c
 
-## c c
+c c
 
-## 2 2
+2 2
 
-## –c
+–c
 
-## 4c
+4c
 
-## 5 c
+5 c
 
-## tree-frame
+tree-frame
 
-## car-frame
+car-frame
 
-## Time slice in tree-frame
+# Time slice in tree-frame
 
-## Time slice in car-frame
+# Time slice in car-frame
 
-### A tree is at rest on the ground
+# A tree is at rest on the ground
 
 and a car is traveling to the right at speed 1c.
 
@@ -5526,31 +5272,31 @@ what is its speed in the car-frame?
 
 Solution: See figure.
 
-## ct
+ct
 
-## ball car
+ball car
 
-## light
+light
 
-## light
+light
 
-## –c c
+–c c
 
-## c Time slice in tree-frame
+c Time slice in tree-frame
 
-## 1c
+1c
 
-## 3 2
+3 2
 
-## –c
+–c
 
-## Time slice in car-frame
+# Time slice in car-frame
 
-## 5c
+5c
 
-## 7 –
+7 –
 
-### A tree is at rest on the ground
+# A tree is at rest on the ground
 
 and a car is traveling to the right at speed 1c.
 
@@ -5560,53 +5306,21 @@ what is its speed in the car-frame?
 
 Solution: See figure.
 
-## ct ball car
+ct ball car
 
-## light light
+light light
 
-## Time slice in tree-frame
+# Time slice in tree-frame
 
-## c 2
+c 2
 
-## –c
+–c
 
-## Time slice in car-frame
+# Time slice in car-frame
 
-## 2 – 2 c
+2 – 2 c
 
-### A tree is at rest on the ground
-
-and a car is traveling to the right at speed 1c.
-
-If a ball is traveling to the right at speed 1c in the car-frame
-
-what is its speed in the tree-frame?
-
-Solution: See figure.
-
-## ct ball
-
-## tree
-
-## light
-
-## light
-
-## x
-
-## –c c
-
-## c c
-
-## – Time slice in car-frame
-
-## 2 4
-
-## 2c
-
-## 3 Time slice in tree-frame
-
-### A tree is at rest on the ground
+# A tree is at rest on the ground
 
 and a car is traveling to the right at speed 1c.
 
@@ -5616,67 +5330,99 @@ what is its speed in the tree-frame?
 
 Solution: See figure.
 
-## ct
+ct ball
 
-## tree ball
+tree
 
-## light light
+light
 
-## x
+light
 
-## –c c
+x
 
-## c c
+–c c
 
-## Time slice in car-frame 3 3
+c c
 
-## 3c
+– Time slice in car-frame
 
-## Time slice in tree-frame 5
+2 4
 
-## PART III
+2c
 
-## Dynamics
+3 Time slice in tree-frame
 
-### Relativity with a few equations
+# A tree is at rest on the ground
 
-### The world’s most famous equation
+and a car is traveling to the right at speed 1c.
 
-## In Part III
+If a ball is traveling to the right at speed 1c in the car-frame
+
+what is its speed in the tree-frame?
+
+Solution: See figure.
+
+ct
+
+tree ball
+
+light light
+
+x
+
+–c c
+
+c c
+
+# Time slice in car-frame 3 3
+
+3c
+
+# Time slice in tree-frame 5
+
+# PART III
+
+# Dynamics
+
+# Relativity with a few equations
+
+The world’s most famous equation
+
+# In Part III
 
 we will discuss the world’s most famous equation1
 
-## E = mc2
+E = mc2
 
 The symbol E in this equation represents the energy of an object at rest
 
-### m represents the object’s mass
+m represents the object’s mass
 
 and c is the speed of light in vacuum as before.
 
-## Obviously
+# Obviously
 
 in order to understand what this equation means
 
 we must first understand what energy and mass are.
 
-## And for that
+# And for that
 
 we must first understand Newtonian dynamics.
 
-## So as in Part I
+# So as in Part I
 
 I will first discuss the Galilei–Newton theory before going on to the Einsteinian theory.
 
-## In the following
+# In the following
 
 I cannot avoid using equations altogether
 
-### since E = mc2 itself is an equation
+since E = mc2 itself is an equation
 
 but I will continue to use drawings as much as possible.
 
-## Notes
+# Notes
 
 1 This equation did not appear in Einstein’s first paper on relativity
 
@@ -5684,7 +5430,7 @@ which we referred to at the beginning of Part I
 
 namely the one titled “On the electrodynamics of moving bodies.
 
-## ” Instead
+” Instead
 
 it appeared in a short paper submitted to the journal Annalen der Physik several months later titled “Does the inertia of a body depend upon on its energy-content?
 
@@ -5694,7 +5440,7 @@ it appeared in a short paper submitted to the journal Annalen der Physik several
 
 English translations for both papers are included in [4].
 
-## The problem
+# The problem
 
 Recall the questions about motion that I listed as the “more advanced” ones in section 2.
 
@@ -5706,7 +5452,7 @@ what is causing it?
 
 Let us ask these questions of the motion of a baseball whose worldline is shown here on the spacetime diagram.
 
-### The worldline has a kink at point A
+# The worldline has a kink at point A
 
 the time-coordinate of which is t = 3 seconds
 
@@ -5714,11 +5460,11 @@ so we can tell that the velocity of the baseball changed at t=3 seconds.
 
 The baseball has been hit by a bat at this point.
 
-### The worldline before A is vertical
+# The worldline before A is vertical
 
 so the baseball was at rest before being hit.
 
-### From the slope of the worldline after A
+# From the slope of the worldline after A
 
 we can tell that the velocity of the baseball after being hit was +1 meters per second.
 
@@ -5744,31 +5490,31 @@ what will the object’s velocity be?
 
 Let us first look at the answers provided by Newtonian dynamics.
 
-## t (sec)
+t (sec)
 
-## all
+all
 
-## 8 as
+8 as
 
-## of
+of
 
-## 7 dli n
+7 dli n
 
-## orl
+orl
 
-## –2 –1 0 1 2 3 4 5 6 7 8 9
+–2 –1 0 1 2 3 4 5 6 7 8 9
 
-## (m)
+(m)
 
-## 6 secs
+6 secs
 
-## 3 secs
+3 secs
 
-## 0 secs
+0 secs
 
-## Newtonian dynamics
+# Newtonian dynamics
 
-## 12.1 The mass–momentum vector
+# 12.1 The mass–momentum vector
 
 Situations that can be addressed within Newtonian dynamics are cases in which the velocities of objects are much slower than the speed of light c
 
@@ -5778,7 +5524,7 @@ Now, we would like to answer the questions posed in the previous section using d
 
 But for that we must be able to represent pictorially what we mean by the term “same impact.
 
-## ” In the current case
+” In the current case
 
 the “impact” we are talking about is that which accelerates the baseball from “a state in which it is at rest” to “a state in which it is traveling at +1 meters per second.
 
@@ -5786,7 +5532,7 @@ the “impact” we are talking about is that which accelerates the baseball fro
 
 So how can we do this?
 
-## Of course
+# Of course
 
 the motion of any object is described by its worldline on the spacetime diagram
 
@@ -5796,23 +5542,23 @@ But there are two reasons why the worldline is not an appropriate representation
 
 Depending on whether the object is a baseball
 
-## a ping-pong ball
+a ping-pong ball
 
-## or a bowling ball
+or a bowling ball
 
 the amount of “stuff” that is moving is different
 
 but the worldline does not give you that information.
 
-### No matter where the object is spatially
+# No matter where the object is spatially
 
 the velocity of the object will be the same as long as the slope of its worldline is the same.
 
-## However
+# However
 
 worldlines distinguish the spatial location of the object also.
 
-## In other words
+# In other words
 
 to specify the “state of motion” of an object
 
@@ -5824,19 +5570,19 @@ The reason why we need to specify the mass of the object here is because the ine
 
 and the change in its velocity when the “same impact” is applied will be different.
 
-### Just imagine hitting a baseball
+# Just imagine hitting a baseball
 
-## a ping-pong ball
+a ping-pong ball
 
 and a bowling ball with a bat.
 
-## t (sec)
+t (sec)
 
-## –1 0 1 2 3 4 5 6 7 8 9 10 x
+–1 0 1 2 3 4 5 6 7 8 9 10 x
 
-## (m)
+(m)
 
-## 4 secs
+4 secs
 
 The worldlines may be different but the balls are in the same state.
 
@@ -5856,11 +5602,11 @@ Now, let’s draw an arrow along this worldline starting from the spacetime orig
 
 and let the length of the arrow be proportional to the mass of the object.
 
-### If the mass of the object is doubled
+# If the mass of the object is doubled
 
 we also double the length of this arrow.
 
-### If the mass of the object is halved
+# If the mass of the object is halved
 
 we also halve the length of the arrow.
 
@@ -5868,19 +5614,19 @@ This will allow us to encode not just the fact that the object is at rest
 
 but also how much mass is at rest.
 
-## Of course
+# Of course
 
 we have to specify the correspondence between the length of the arrow and the object’s mass
 
-## but before we do that
+but before we do that
 
 let’s think about representing the “state of motion” in which the object is moving.
 
-### When the object is moving at velocity v
+# When the object is moving at velocity v
 
 its worldline is tilted.
 
-### As in the case where it is at rest
+# As in the case where it is at rest
 
 it does not matter where the object is spatially
 
@@ -5888,7 +5634,7 @@ so let this worldline go through the spacetime origin.
 
 We would like to represent the "state of motion" of this object with an arrow along this worldline starting at the spacetime origin and with a length proportional to the mass of the object.
 
-### (See the figure on the opposite page
+(See the figure on the opposite page
 
 upper-right.
 
@@ -5908,9 +5654,9 @@ we obtain the figure shown on the opposite page
 
 middle-left.
 
-## As you can see
+# As you can see
 
-### the vertical height of the arrow
+the vertical height of the arrow
 
 and not its length along the object's worldline, must stay the same as when the object was at rest.
 
@@ -5918,7 +5664,7 @@ This tells us that the "states of motion" of objects with the same mass but diff
 
 We will call the vertical height of the arrow from the spacetime origin its time-component.
 
-## 12.1 The mass–momentum vector
+# 12.1 The mass–momentum vector
 
 Arrows that represent different states of motion of the same mass but different velocities all have the same vertical height.
 
@@ -5926,7 +5672,7 @@ We must now specify how to assign a length to the arrow for a given mass.
 
 Now, the SI unit for mass is kilogram (kg).
 
-### 1 If you live in a country other than the USA
+1 If you live in a country other than the USA
 
 kilograms may seem like a unit of weight to you
 
@@ -5936,25 +5682,25 @@ but weight and mass are completely different things.
 
 so it will be different depending on whether it is measured on the Earth
 
-## or on the Moon
+or on the Moon
 
 or on Mars.
 
-## On the other hand
+# On the other hand
 
 mass refers to the "amount of stuff" that the object contains
 
 so it will not change depending on the locale.
 
-## However
+# However
 
 as long as we measure the weight of an object on the surface of one particular astronomical object
 
-## say the Earth
+say the Earth
 
 it will be proportional to the object's mass, 3 and this allows us to use the same unit for both.
 
-## That is
+# That is
 
 if an object's weight on the surface of the Earth is 1 kilogram, then its mass is also 1 kilogram.
 
@@ -5966,25 +5712,25 @@ Then, the "state of motion" of the 1 kg object at rest will be represented by th
 
 The "state of motion" of the same object moving at velocity v meters per second will be represented by the arrow OB.
 
-### The time-component of OB is 1 second
+# The time-component of OB is 1 second
 
-## as was the case with OA
+as was the case with OA
 
-## but its space-component
+but its space-component
 
-## that is
+that is
 
-## its horizontal extent
+its horizontal extent
 
 is equal to v meters.
 
 This is because the object will move by v meters in 1 second.
 
-### If the mass of the object is m kg
+# If the mass of the object is m kg
 
 5 then the length of the arrow should be m times that of the 1 kg case.
 
-### So its time-component will be m seconds
+# So its time-component will be m seconds
 
 and its space-component will be mv meters.
 
@@ -5998,37 +5744,37 @@ So let's just lift the arrows off of the spacetime diagram and place them on a s
 
 This graph represents the "space" of all possible "states of motion.
 
-## To summarize
+# To summarize
 
 the "state of motion" of an object of mass m (kg) and velocity v (m/s) will be represented by an arrow whose time-component is m (kg) and its space-component is mv (kg·m/s).
 
-## The quantity mv
+# The quantity mv
 
-## that is
+that is
 
 the product of the mass m and the velocity v
 
 is known as the momentum of the object.
 
-## As the name implies
+# As the name implies
 
 the momentum quantifies what might be called the "tenacity of the motion" in the spatial direction.
 
-## The larger it is
+# The larger it is
 
 the more difficult it will be to bring the object to a complete stop.
 
-## On the other hand
+# On the other hand
 
-## as will see later
+as will see later
 
 the mass m quantifies the inertia of the object and can be thought of as the "tenacity of the motion" in the time direction.
 
 We will call this arrow which represents pictorially the "state of motion" of the object the mass–momentum vector.
 
-## 12.2 The impulse vector
+# 12.2 The impulse vector
 
-### Returning to the baseball problem
+# Returning to the baseball problem
 
 let's assume for the sake of simplicity that the mass of the baseball is 1 kg.
 
@@ -6040,7 +5786,7 @@ so the mass–momentum vectors that represent its states of motion before and af
 
 Now, draw an arrow connecting the tip of the mass–momentum vector before the impact to the tip of the mass–momentum vector after the impact
 
-## as shown
+as shown
 
 and let's use it to represent the effect of the impact of the bat.
 
@@ -6050,11 +5796,11 @@ Define the sum of two vectors to be the vector you get if you attach the startin
 
 and then connect the starting-point of the first vector and the tip of the second vector.
 
-## Using this definition
+# Using this definition
 
 we can say that the mass–momentum vector after the impact is the sum of the mass–momentum vector before the impact and the impulse vector.
 
-## In other words
+# In other words
 
 adding the impulse vector onto the mass–momentum vector before the impact will give us the mass–momentum vector after the impact.
 
@@ -6062,9 +5808,9 @@ If the change in the velocity of the baseball due to the bat-impact is described
 
 then answering the questions Q7 and Q8 posed in Chapter 11 is an easy matter.
 
-## First Q7
+# First Q7
 
-## namely
+namely
 
 the question of what the velocity of the baseball will be if the "same impact" is applied to it a second time
 
@@ -6074,7 +5820,7 @@ it is an impulse vector with space-component +1 kg·m/s) to the mass–momentum 
 
 the sum will be the mass–momentum vector shown in the middle figure.
 
-### And from the slope of this new vector
+# And from the slope of this new vector
 
 we can read off the velocity of the baseball after the second impact to be +2 m/s.
 
@@ -6086,23 +5832,23 @@ the effect will be described by the repeated addition of the impulse vector onto
 
 See the bottom figure.
 
-## 12.3 Inertial mass
+# 12.3 Inertial mass
 
-## Next Q8
+# Next Q8
 
-## namely
+namely
 
 the question of what would happen if the "same impact" is applied to a different object at rest with a different mass.
 
 Let's consider a bowling ball with mass 2 kg.
 
-### (A bit light for a bowling ball
+(A bit light for a bowling ball
 
 perhaps.
 
 ) Its initial state of motion at rest will be described by a vertical mass–momentum vector
 
-### twice as long as that for the baseball
+twice as long as that for the baseball
 
 as shown in the upper-left figure.
 
@@ -6112,13 +5858,13 @@ the resulting mass–momentum vector will be that also shown in the upper-left f
 
 and we can read off the velocity of the bowling ball after impact to be +0.
 
-## 5 m/s.
+5 m/s.
 
 Because the mass of the bowling ball was double that of the baseball
 
 the "same impact" only accelerated the bowling ball by half as much as the baseball.
 
-## Similarly
+# Similarly
 
 if the mass had been three times that of the baseball
 
@@ -6128,7 +5874,7 @@ and if the mass had been four times that of the baseball
 
 the change in velocity would have been one-fourth.
 
-## In general
+# In general
 
 if the mass were n times that of the baseball
 
@@ -6138,13 +5884,13 @@ the change in velocity due to the "same impact" would have been 1/n.
 
 Next, let's consider an object like a ping-pong ball which is lighter than the baseball, say with mass equal to 0.
 
-## 5 kg.
+5 kg.
 
-### (A bit heavy for a ping-pong ball
+(A bit heavy for a ping-pong ball
 
 perhaps.
 
-## ) This time
+) This time
 
 the mass–momentum vector which represents its initial state is half as long as that for the baseball as shown in the lower-left figure.
 
@@ -6158,7 +5904,7 @@ Because the mass of the ping-pong ball was half that of the baseball
 
 the "same impact" has accelerated the ping-pong ball twice as much as the baseball.
 
-## Similarly
+# Similarly
 
 if the mass had been one-third that of the baseball
 
@@ -6168,7 +5914,7 @@ and if the mass had been one-fourth that of the baseball
 
 the change in velocity would have been four times that of the baseball.
 
-## In general
+# In general
 
 if the mass were 1/n times that of the baseball
 
@@ -6176,27 +5922,27 @@ the change in velocity due to the "same impact" would be n times that of the bas
 
 (See figures bottom-center and bottom-right.
 
-## As you can see
+# As you can see
 
-### the larger the mass of the object is
+the larger the mass of the object is
 
 the longer the time-component of its mass-momentum vector will be.
 
-### And the longer the time-component
+# And the longer the time-component
 
 the smaller the amount of deflection from the vertical that the mass–momentum vector undergoes when its space-component is increased by the addition of the same impulse vector.
 
-## Therefore
+# Therefore
 
 the time-component of the mass–momentum vector
 
-## namely
+namely
 
-## the mass of the object
+the mass of the object
 
 quantifies how much inertia the object has.
 
-## The larger the mass
+# The larger the mass
 
 the more difficult it is to change the object's velocity.
 
@@ -6208,9 +5954,9 @@ just like the momentum represents the “tenacity of the motion” in the space-
 
 Both quantify the tendency of the motion to continue in their respective directions in spacetime.
 
-## 12.4 Newton’s Second Law
+# 12.4 Newton’s Second Law
 
-## At this point
+# At this point
 
 let me express in equations what we have discussed so far using drawings.
 
@@ -6234,7 +5980,7 @@ impulse = momentum change = mass×velocity change.
 
 Using the symbols commonly used in physics textbooks
 
-## this becomes
+this becomes
 
 F∆t = ∆p = m∆v .
 
@@ -6242,17 +5988,17 @@ Here, m is the mass of the object
 
 ∆t is the infinitesimal time interval during which the impulse acts on the object
 
-### ∆p is the change in the momentum
+∆p is the change in the momentum
 
 and ∆v is change in the velocity.
 
-### The symbol F represents the “force
+The symbol F represents the “force
 
 ” which is the amount of impulse applied to the object per unit time
 
 so it is equal to the impulse divided by the time ∆t.
 
-## Consequently
+# Consequently
 
 the impulse is given by the product F∆t.
 
@@ -6268,11 +6014,11 @@ let me also tell you about Newton’s Third Law for the sake of completeness.
 
 Newton’s Third Law 9 is the law which governs how two objects interact and exchange momenta 10 with each other.
 
-## As an example
+# As an example
 
 consider the process depicted in the spacetime diagram shown top-right
 
-### at point A on the spacetime diagram
+at point A on the spacetime diagram
 
 a moving object 1 collides with another object 2 at rest.
 
@@ -6292,19 +6038,19 @@ and the change in the momentum of object 2
 
 are of the same magnitude but pointing in opposite directions.
 
-## In other words
+# In other words
 
 the amount of momentum gained by one object is the same as the amount of momentum lost by the other
 
-## that is
+that is
 
 the total momentum carried by the two objects before and after the collision is the same.
 
-## The total mass is
+# The total mass is
 
-## of course
+of course
 
-## unchanged
+unchanged
 
 so we can also say that the total mass–momentum vector is unchanged.
 
@@ -6318,7 +6064,7 @@ the total momentum of the n objects will be conserved.
 
 As an example of what this law can tell us
 
-### consider the following situation
+consider the following situation
 
 at point A on the spacetime diagram shown here
 
@@ -6328,23 +6074,23 @@ The law states that the mass–momentum vector of the object before point A
 
 and the sum of the mass–momentum vectors of the object and the two projectiles after point A must be the same.
 
-## By drawing a simple picture
+# By drawing a simple picture
 
-## as shown in the bottom figure
+as shown in the bottom figure
 
 we can conclude that the mass–momentum vector of the object after its release of the two projectiles must stay vertical
 
-## that is
+that is
 
-## the object stays at rest
+the object stays at rest
 
 while its length is diminished by the masses carried away by the two projectiles.
 
-### (This may seem like an esoteric example
+(This may seem like an esoteric example
 
 but we will use an analogue of this later.
 
-## Notes
+# Notes
 
 1 A kilogram was originally defined as the mass of one liter of water at 4◦C.
 
@@ -6356,21 +6102,21 @@ a chunk of metal of the same mass was made and its mass was defined as a kilogra
 
 This, too
 
-## is not that convenient
+is not that convenient
 
-### so proposals have been made recently
+so proposals have been made recently
 
 to redefine the kilogram from the mass of a single atom using Avogadro’s number
 
 or from the energy of a photon using Planck’s constant.
 
-### 2 In terms of symbols used in physics
+2 In terms of symbols used in physics
 
 mass is m while weight is mg.
 
 3 This means that the inertial mass and the gravitational mass are equal.
 
-## 4 Strictly speaking
+4 Strictly speaking
 
 the weight acting on 1 kilogram of mass on the surface of the Earth is called 1 kilogram-weight and distinguished from kilograms.
 
@@ -6380,7 +6126,7 @@ This should not be confused with the symbol for meters.
 
 6 You can think of the term “vector” as just a nerdy way of saying arrow.
 
-### 7 Impulse is the same thing as ∆p after all.
+7 Impulse is the same thing as ∆p after all.
 
 The force F = ∆p/∆t is basically the rate of momentum transfer to the object.
 
@@ -6388,21 +6134,21 @@ Note that this definition of the term “force” is quite different from its us
 
 Not understanding this has lead to a lot of confusion among beginning physics students.
 
-## 8 In most physics textbooks
+8 In most physics textbooks
 
 both sides of the equation are divided by ∆t and written as
 
 F = m (∆v/∆t),
 
-## or
+or
 
 F = ma,
 
-## where
+where
 
-## a = ∆v/∆t
+a = ∆v/∆t
 
-### is the rate of change of the velocity
+is the rate of change of the velocity
 
 and is called the acceleration.
 
@@ -6418,7 +6164,7 @@ while reaction refers to the rate of momentum transfer from object 2 to object 1
 
 Newton’s Third Law states that action and reaction are equal in magnitude
 
-## but opposite in direction
+but opposite in direction
 
 which is just a mathematical way of saying that what is lost by one must be gained by the other.
 
@@ -6426,15 +6172,15 @@ Note that the definitions of the terms “action” and “reaction” are compl
 
 This unfortunate selection of terminology by Newton has led to endless confusion
 
-## about Newton’s Third Law
+about Newton’s Third Law
 
 when all it is saying is that total momentum is conserved.
 
-## 10 The plural of momentum.
+10 The plural of momentum.
 
-## 13 Relativistic dynamics
+13 Relativistic dynamics
 
-### 13.1 The energy–momentum vector
+# 13.1 The energy–momentum vector
 
 Next, let us consider the case when the velocities of objects are close to the speed of light c
 
@@ -6452,7 +6198,7 @@ Q8: If the “same impact” is given to an object at rest with a different mass
 
 what will the object’s velocity be?
 
-## As in the Newtonian case
+# As in the Newtonian case
 
 let’s represent the “state of motion” of an object with a vector on the spacetime diagram.
 
@@ -6460,17 +6206,17 @@ First, to represent the “state in which the object is at rest
 
 ” we follow the Newtonian case and use a vector pointing vertically up from the spacetime origin with length proportional to the object’s mass.
 
-### (See the figure on the opposite page
+(See the figure on the opposite page
 
 top-left.
 
-## ) Next
+) Next
 
 the “state in which the object is moving with velocity v” is the same as “the state in which the object is at rest” but observed from an inertial frame moving at velocity −v relative to the first.
 
 So it must be represented by the vector you obtain by Lorentz transforming the vector which represents the “state in which the object is at rest” to that frame.
 
-## For instance
+# For instance
 
 if we want to find the vector which represents the “state in which the object is moving at velocity v = 1c
 
@@ -6480,9 +6226,9 @@ The result is shown in the figure opposite
 
 top-right.
 
-## Notice that
+# Notice that
 
-### unlike the Galilei transformed case
+unlike the Galilei transformed case
 
 not only the space-component but also the time-component of the vector has changed.
 
@@ -6492,17 +6238,17 @@ and the diagonals at 45◦ angles from the horizontal.
 
 (See figure.
 
-## ) When the object is at rest
+) When the object is at rest
 
 this diamond becomes a square with the length of its sides proportional to the mass of the object
 
 so its area is proportional to the mass squared.
 
-## In a similar fashion
+# In a similar fashion
 
 we can determine the vectors that represent the motion of the object at all other velocities.
 
-## When we do this
+# When we do this
 
 the tip of the vector will move along the curve shown in the bottom figure.
 
@@ -6516,19 +6262,19 @@ Now, as in the Newtonian case
 
 it is convenient to draw a graph for the “state of motion” vectors separately from the spacetime diagram.
 
-## For the Newtonian case
+# For the Newtonian case
 
 we used a graph with mass notched on the vertical axis
 
 and momentum = mass×velocity notched on the horizontal axis.
 
-## In the relativistic case
+# In the relativistic case
 
-## however
+however
 
 because the vertical axis of the spacetime diagram is ct and not t
 
-## the corre
+the corre
 
 sponding “state of motion” graph will also have the vertical axis multiplied by c.
 
@@ -6546,33 +6292,33 @@ The vector representing the “state of the object of mass m moving at velocity 
 
 as shown in the figure.
 
-## As we noted above
+# As we noted above
 
 the time-component is longer than what it was at rest.
 
 We express the factor by which the time-component has lengthened with the greek letter γ
 
-## that is
+that is
 
 (time-component at velocity v) =γ (time-component at rest) = γmc.
 
 Then, since the ratio of the time-component and the space-component is determined by the velocity v
 
-## we must have
+we must have
 
 (space-component at velocity v) =γmv.
 
 Note that the factor γ is a number that depends on v and changes with it.
 
-## When v = 0
+When v = 0
 
 there is no lengthening of the time-component
 
 so γ = 1.
 
-## However
+# However
 
-## as v grows toward c
+as v grows toward c
 
 the diamond shown in the figure will get flatter and flatter and collapse onto the light cone
 
@@ -6588,7 +6334,7 @@ The space-component γmv is called the momentum
 
 just as in the Newtonian case (though its numerical value differs by the factor γ)
 
-### and is represented by the symbol
+and is represented by the symbol
 
 p = γmv.
 
@@ -6596,9 +6342,9 @@ The time-component γmc represents the inertia of the object
 
 so you may be inclined to call it the mass (times c) 2.
 
-## However
+# However
 
-### we would like to reserve the term for m
+we would like to reserve the term for m
 
 which is the amount of “stuff” contained in the object
 
@@ -6608,7 +6354,7 @@ So we will call the time-component of our vector by another name
 
 the energy.
 
-## To be more precise
+# To be more precise
 
 the energy E is defined as the time-component of the vector times c
 
@@ -6616,11 +6362,11 @@ E = γmc².
 
 Thus, the vector we have defined will be called the “energy–momentum vector.
 
-### Notice that when the object is at rest
+# Notice that when the object is at rest
 
 v =0, the γ-factor is equal to one
 
-### and the above equation reduces to
+and the above equation reduces to
 
 E = mc².
 
@@ -6630,21 +6376,21 @@ so it is called the rest energy.
 
 Now, this is Einstein’s famous formula
 
-## but at this point
+but at this point
 
-## we have just taken the mass
+we have just taken the mass
 
-## multiplied it by c²
+multiplied it by c²
 
-### and given it the alias rest energy
+and given it the alias rest energy
 
 so it does not have any physical meaning yet.
 
 We will revisit this equation later.
 
-### 13.1 The energy–momentum vector
+# 13.1 The energy–momentum vector
 
-### 13.2 The energy–momentum vector of a photon
+# 13.2 The energy–momentum vector of a photon
 
 The photon is the particle associated with light
 
@@ -6652,7 +6398,7 @@ so it travels at the speed of light c.
 
 What kind of energy–momentum vector will represent its motion?
 
-## If a particle’s mass is m
+If a particle’s mass is m
 
 the tip of its energy–momentum vector will move along a hyperbola as shown in the top figure.
 
@@ -6666,17 +6412,17 @@ until the hyperbola finally collapses onto the light-cone
 
 as shown in the bottom figure.
 
-## In this limit
+# In this limit
 
 the particle’s energy–momentum vector will be at a 45◦ angle from the horizontal
 
 which means that the particle is traveling at the speed of light.
 
-## Therefore
+# Therefore
 
 particles like the photon that travel at the speed of light must have mass equal to zero.
 
-## Conversely
+# Conversely
 
 a massless particle can only travel at the speed of light.
 
@@ -6686,21 +6432,21 @@ the energy E and momentum p of a photon must be related by
 
 E = pc.
 
-## That is
+# That is
 
 the photon’s energy and momentum 6 are not independent and determining one will determine the other.
 
-## But then
+# But then
 
 what determines the energy of each photon?
 
-## 7 Again
+7 Again
 
-## it was Einstein
+it was Einstein
 
 who again in 1905[10] showed that the energy of a photon E is proportional to the frequency of the corresponding light wave f
 
-## and is given by the relation
+and is given by the relation
 
 E = hf,
 
@@ -6708,15 +6454,15 @@ where h is a number known as Planck’s constant.
 
 We are not going to discuss where this equation comes from in this book.
 
-## However
+# However
 
 note that for this equation to be correct in all frames of reference
 
 both sides of the equation must transform in the same way under Lorentz transformations.
 
-### 13.2 The energy–momentum vector of a photon
+# 13.2 The energy–momentum vector of a photon
 
-## For instance
+# For instance
 
 if we have two photons of the same frequency
 
@@ -6730,7 +6476,7 @@ the energy–momentum vectors of the two photons will be as shown in the bottom 
 
 which can be obtained from the top figure by a Lorentz transformation.
 
-## As you can see
+# As you can see
 
 the energy–mometum vector of the photon propagating toward the right will become longer
 
@@ -6744,9 +6490,9 @@ If there is a proportionality relation between the photon’s energy and the fre
 
 then the frequency of light must depend on the frame in exactly the same way as the energy.
 
-## And indeed
+# And indeed
 
-## as we discussed in Part I
+as we discussed in Part I
 
 the frequency of light does depend on the frame due to the Doppler effect!
 
@@ -6756,7 +6502,7 @@ but it is possible to prove that the rate of change of the frequency is exactly 
 
 thereby justifying the relation E =hf.
 
-## 13.3 The work–impulse vector
+# 13.3 The work–impulse vector
 
 We are now ready to tackle questions Q7 and Q8 posed at the beginning of section 13.
 
@@ -6766,23 +6512,23 @@ The energy–momentum vectors which represent the “state of the baseball at re
 
 ” and the “state of the baseball moving at 1c” are given by OA and OB
 
-## respectively
+respectively
 
 in the figure.
 
 (I will not specify the mass m since the numerical value of mc will end up being huge due to the large value of c.
 
-## As in the Newtonian case
+# As in the Newtonian case
 
 the vector AB that connects the tips of the two energy–momentum vectors represents the “impact” of the bat.
 
-## This time
+# This time
 
 because the time-component of the energy–momentum vector has changed as well as the space-component
 
 the vector that represents the “impact” has a non-zero time-component as well.
 
-### This time-component is called work
+# This time-component is called work
 
 and together with the space-component which was called the impulse
 
@@ -6790,7 +6536,7 @@ the vector AB is called the work–impulse vector.
 
 Now, we would like to apply the “same impact” to the baseball traveling at +1c
 
-## but unlike the Newtonian case
+but unlike the Newtonian case
 
 we must be careful with what we mean by “same impact.
 
@@ -6802,29 +6548,29 @@ it will be observed as a process of the baseball being accelerated from +1c to +
 
 and the work–impulse vector that connects these two states
 
-### represented by OB and OC on the diagram
+represented by OB and OC on the diagram
 
-### will be given by the vector BC
+will be given by the vector BC
 
 which is clearly different from vector AB.
 
 From the point of view of the accelerating baseball
 
-## however
+however
 
-### AB and BC are the “same impact” since
+AB and BC are the “same impact” since
 
-## in both cases
+in both cases
 
 the baseball will observe the frame it was in before the impact to be moving at velocity −1c relative to it after the impact.
 
-## Furthermore
+# Furthermore
 
 the work–impulse vector CD which accelerates the baseball from +4c to +13c is also the “same impact” from the point of view of the baseball (cf. section 4.
 
 10).
 
-## Therefore
+# Therefore
 
 if by “same impact” we mean the “same impact from the point of view of the accelerating object
 
@@ -6834,7 +6580,7 @@ and the “same impact” applied again will take the baseball to the state in w
 
 and so on.
 
-## However
+# However
 
 when observed from the frame in which the baseball was initially at rest
 
@@ -6842,7 +6588,7 @@ AB, BC
 
 and CD are all different work–impulse vectors.
 
-### Neither the time-component (work)
+Neither the time-component (work)
 
 nor the space-component (impulse) are equal.
 
@@ -6852,25 +6598,25 @@ the work–impulse vectors that represent them are all different and will depend
 
 So what if we define “same impact” to mean “the same work–impulse vector when observed from the initial frame”?
 
-## That is
+# That is
 
-### instead of adding BC to OB to obtain OC
+instead of adding BC to OB to obtain OC
 
 we try to add AB to OB.
 
-## If you try this
+# If you try this
 
-## you will find that
+you will find that
 
-## in fact
+in fact
 
-## you cannot add AB to OB
+you cannot add AB to OB
 
 the resulting sum will be a vector that does not fall on the hyperbola that the tip of the energy–momentum vector must follow.
 
 That is, it is not an allowed state.
 
-## However
+# However
 
 instead of specifying both the work and the impulse using the vector AB
 
@@ -6890,31 +6636,31 @@ the velocity of OC is about +0.
 
 76c.
 
-## Similarly
+# Similarly
 
 if we add to OC a work–impulse vector with the same space-component as AB but with its time-component appropriately adjusted
 
-## we obtain OD
+we obtain OD
 
 the velocity of which is about +0.
 
 87c.
 
-## In this way
+# In this way
 
 the answer to Q7 will depend on what we mean by the term “same impact.
 
-## ” However
+” However
 
-## in either case
+in either case
 
-## the change in the
+the change in the
 
 The velocity of the baseball due to the second impact is smaller than +1c
 
 and that due to the third impact is smaller still.
 
-### If we keep on iterating the process
+# If we keep on iterating the process
 
 the change in velocity per impact will continue to decrease
 
@@ -6922,9 +6668,9 @@ and no matter how many impacts are applied
 
 the baseball is never accelerated beyond c.
 
-### And the reason behind this is that
+# And the reason behind this is that
 
-### as the baseball is accelerated
+as the baseball is accelerated
 
 its energy–momentum vector will get longer and longer in the time-direction
 
@@ -6932,7 +6678,7 @@ making its inertia larger and larger.
 
 In the limit that the velocity approaches the speed of light
 
-### the inertia will grow to infinity
+the inertia will grow to infinity
 
 making it impossible to accelerate the baseball further.
 
@@ -6942,7 +6688,7 @@ If we consider a ball with twice the mass of the baseball
 
 the vector representing its state at rest is given by OF
 
-## shown on the bottom figure
+shown on the bottom figure
 
 which is twice as long as OA.
 
@@ -6954,19 +6700,19 @@ but with its time-component appropriately adjusted.
 
 The resulting vector is OG.
 
-## In Newtonian dynamics
+# In Newtonian dynamics
 
 the change in velocity when the same impulse was applied was inverse proportional to the object’s mass
 
-## so in the current case
+so in the current case
 
 it would predict the change in velocity to be half of +1c
 
 namely +1c.
 
-## However
+# However
 
-## if you look at OG carefully
+if you look at OG carefully
 
 you can tell that its velocity is slightly larger
 
@@ -6976,7 +6722,7 @@ it is about +0.
 
 The reason behind this may sound a bit counter-intuitive
 
-### but when subjected to the same impulse
+but when subjected to the same impulse
 
 the extra mass prevents the velocity from increasing as quickly
 
@@ -6984,11 +6730,11 @@ which prevents the inertia from growing as quickly
 
 which in turn results in a larger increase in velocity than the Newtonian case.
 
-## In this way
+# In this way
 
 Einstein’s relativistic dynamics is quite a bit more complicated than that of Galilei–Newton.
 
-## Consequently
+# Consequently
 
 we cannot write a simple equation like F∆t = m∆v to predict the outcome of a dynamic process.
 
@@ -6996,7 +6742,7 @@ Even though we cannot express relativistic dynamics in a simple equation
 
 the law that governs the exchange of energy and momenta between two objects that interact
 
-## say via a collision
+say via a collision
 
 is simple.
 
@@ -7004,7 +6750,7 @@ The amount of energy and momentum lost by object 1 must be equal to the amount o
 
 so that the total energy and total momentum of the two object system is conserved.
 
-## In other words
+# In other words
 
 the sum of the energy–momentum vectors before and after the interaction must stay the same.
 
@@ -7024,7 +6770,7 @@ we will consider a process that was discussed by Einstein himself in [9].
 
 An object of mass m is at rest.
 
-### At point A on the spacetime diagram
+# At point A on the spacetime diagram
 
 this object emits two photons of the same frequency back to back
 
@@ -7036,7 +6782,7 @@ as well as the magnitudes of their momenta (cf. section 13.
 
 2), the directions of which are opposite.
 
-### Since the object is initially at rest
+# Since the object is initially at rest
 
 the momentum of the object is initially zero.
 
@@ -7046,33 +6792,33 @@ Since the momenta of the two photons are equal in magnitude but opposite in dire
 
 they sum to zero.
 
-## Therefore
+# Therefore
 
 the momentum of the object after emitting the photons must also be zero for the total momentum to be conserved.
 
 We can conclude that the object will stay at rest.
 
-### The total energy is also conserved
+# The total energy is also conserved
 
 so the energy of the object must decrease by the amount that was taken away by the two photons.
 
 However, due to the relation
 
-## E = mc2
+E = mc2
 
-### between the rest energy and the mass
+between the rest energy and the mass
 
-## the mass of the object
+the mass of the object
 
-## which stays at rest
+which stays at rest
 
 must also decrease by the corresponding amount.
 
-### Note that since photons are massless
+# Note that since photons are massless
 
 they do not carry away any mass.
 
-## Therefore
+# Therefore
 
 even though the total energy is conserved in this process
 
@@ -7082,7 +6828,7 @@ Since photons can be considered chunks of pure energy without any mass
 
 we can say that a portion of the object’s mass has been converted into energy through this process.
 
-## From this point of view
+# From this point of view
 
 E = mc2 is not just a relation which provides the mass with the alias “rest energy
 
@@ -7090,7 +6836,7 @@ E = mc2 is not just a relation which provides the mass with the alias “rest en
 
 Now, photons are emitted from an object when the object’s internal energy
 
-## such as heat
+such as heat
 
 is converted to electromagnetic energy.
 
@@ -7106,31 +6852,31 @@ but since the object’s internal energy decreases just as in the photon emissio
 
 its mass must also decrease.
 
-## Conversely
+# Conversely
 
-### if an object absorbs external energy
+if an object absorbs external energy
 
-### whether in the form of heat or photons
+whether in the form of heat or photons
 
-### its internal energy will increase
+its internal energy will increase
 
 so its mass must also increase.
 
-## For instance
+# For instance
 
 when water at 100◦C with an initial mass of 1kg cools to 0◦C
 
 it loses mass corresponding to the amount of heat that it has released.
 
-## However
+# However
 
 the change in mass is only about 0.
 
-## 000000005 grams.
+000000005 grams.
 
 Because the speed of light c is so large
 
-### unless the released energy E is huge
+unless the released energy E is huge
 
 the change in mass m = E/c2 will not be large enough to be measurable.
 
@@ -7142,13 +6888,13 @@ and there is nothing wrong in thinking that mass is conserved.
 
 The only processes in which the release of energy is large enough so that the change in the mass is measurable are nuclear processes such as fission and fusion.
 
-## Einstein himself suggests
+# Einstein himself suggests
 
-### at the end of his original paper [9]
+at the end of his original paper [9]
 
 that E = mc2 may be confirmed by looking at such processes.
 
-## For this reason
+# For this reason
 
 many people believe that E = mc2 describes the operational principle behind weapons of mass destruction
 
@@ -7158,7 +6904,7 @@ However, this is a misconception.
 
 The release of energy is not caused by the decrease in mass.
 
-## Rather
+# Rather
 
 the decrease in mass is a consequence of the release of energy.
 
@@ -7166,7 +6912,7 @@ E = mc2 just tells us by how much the mass decreases
 
 and does not dictate the amount of energy released.
 
-## Therefore
+# Therefore
 
 the amount of energy released in a nuclear reaction has nothing to do with E = mc2
 
@@ -7180,7 +6926,7 @@ The only difference is that the amount of energy released in a nuclear reaction 
 
 while that for water cooling is not.
 
-## Notes
+# Notes
 
 1 The v dependence of γ can be derived as follows.
 
@@ -7188,49 +6934,49 @@ When the object is traveling at velocity v
 
 the time- and space-components of the vector representing its state of motion are related via
 
-## space-component v
+space-component v
 
-## time-component c
+time-component c
 
-## On the other hand
+# On the other hand
 
 the area of the diamond with the vector as one of its sides can be shown
 
-## using elementary geometry
+using elementary geometry
 
-## to be equal to
+to be equal to
 
-### (time-component)2−(space-component)2
+(time-component)2−(space-component)2
 
 and since this must be equal to the area of the square with mc as one of its sides
 
-## we have the relation
+we have the relation
 
 (time-component)2−(space-component)2 = (mc)2 .
 
 Solving these two equations for the time- and space-components
 
-## we find
+we find
 
-## mc mv
+mc mv
 
 time-component = , space-component = .
 
-## 1− v2 1− v2
+1− v2 1− v2
 
-## c2 c2
+c2 c2
 
-## Defining the γ-factor as
+Defining the γ-factor as
 
-## γ =
+γ =
 
-## 1− v2
+1− v2
 
-## c2
+c2
 
 allows us to write the above relations compactly as
 
-## time-component = γmc
+time-component = γmc
 
 space-component = γmv.
 
@@ -7238,17 +6984,17 @@ The time-component is enhanced by a factor of γ compared to when the object is 
 
 and the space-component is also enhanced by the same factor compared to the Newtonian case.
 
-### 2 In some old textbooks on relativity
+2 In some old textbooks on relativity
 
-## γ is indeed called the mass
+γ is indeed called the mass
 
 while m is called the rest mass to distinguish the two.
 
-## However
+# However
 
 this terminology is completely obsolete and no one uses it anymore.
 
-## After all
+# After all
 
 once we decide to call E =γmc2 the energy
 
@@ -7260,29 +7006,29 @@ we do not need two names for the same thing.
 
 When the velocity of the object v is small compared to the speed of light c
 
-### the γ-factor can be approximated by
+the γ-factor can be approximated by
 
-## 1 v2
+1 v2
 
 γ = ≈ 1+ +··· ,
 
-## 1− v2
+1− v2
 
-## 2c2
+2c2
 
-## c2
+c2
 
-### so E is approximately equal to
+so E is approximately equal to
 
 E = γmc2 ≈ mc2+ mv2+··· .
 
 The quantity 1mv2 is known as the kinetic energy in Newtonian Dynamics.
 
-## Therefore
+# Therefore
 
 it makes sense to think of E as the total energy of the particle
 
-## mc2 being the rest energy
+mc2 being the rest energy
 
 and any extra portion being due to the motion of the particle.
 
@@ -7290,33 +7036,33 @@ is indeterminate.
 
 8 An alternative way to see why this would be the case is to consider what would happen if you decrease the mass.
 
-## In the Newtonian case
+# In the Newtonian case
 
 the change in the velocity for the same impulse could be made as large as one liked by making the mass approach zero.
 
-## In the relativistic case
+# In the relativistic case
 
-## however
+however
 
 the velocity of objects cannot exceed the speed of light.
 
-## Consequently
+# Consequently
 
 the increase in velocity cannot be doubled for the same impact by halving the mass.
 
 9 The relativistic equation of motion can actually be written compactly as fμ = dpμ/dτ.
 
-## However
+# However
 
 the simplicity is only superficial and this equation hides a lot of complications.
 
-## 10 In [4]
+10 In [4]
 
-### the relevant sentence is translated as
+the relevant sentence is translated as
 
 “It is not impossible that with bodies whose energy-content is variable to a high degree (e.g. with radium salts) the theory may be successfully put to the test.
 
-## Summary of Part III
+# Summary of Part III
 
 This concludes Part III of this book.
 
@@ -7324,7 +7070,7 @@ I hope you have been able to grasp the basic logic of where the equation E = mc�
 
 To summarize the important points:
 
-### • In Einstein’s relativistic dynamics
+• In Einstein’s relativistic dynamics
 
 the state of motion of an object is represented by an arrow called the energy–momentum vector.
 
@@ -7336,13 +7082,13 @@ and they represent what might be called the “tenacity of the motion” or the 
 
 • The energy–momentum vector depends on the frame from which the observation is being made.
 
-## However
+# However
 
 the area of the diamond with the energy–momentum vector as one of its sides and the diagonals at 45° from the horizontal is invariant and equal to (mc)² where m is the object’s mass.
 
 • Changes in the motions of objects are represented by changes in their energy–momentum vectors.
 
-### In a system of interacting objects
+# In a system of interacting objects
 
 the energy–momentum vector of each individual object will change via interactions
 
@@ -7352,15 +7098,15 @@ but the total energy–momentum vector of the system will be conserved.
 
 the total mass is not.
 
-## As a result
+# As a result
 
 processes can occur which can be interpreted as the mass being converted to energy.
 
-## In such cases
+# In such cases
 
 the equation E = mc² determines the conversion rate between energy and mass.
 
-## Afterword
+# Afterword
 
 This brings us to the end of my exposition of Einstein’s Special Theory of Relativity (SR).
 
@@ -7368,11 +7114,11 @@ I have attempted to explain everything that is usually explained using equations
 
 I hope you have found this approach more tractable
 
-## eye-opening
+eye-opening
 
 and fun.
 
-## Partly because of its name
+# Partly because of its name
 
 Einstein’s “Theory of Relativity” is often misunderstood to have discarded Newton’s notions of space and time that were both “objective” and “absolute
 
@@ -7380,7 +7126,7 @@ Einstein’s “Theory of Relativity” is often misunderstood to have discarded
 
 ” and even “subjective” concepts.
 
-## In truth
+# In truth
 
 Einstein was a firm believer in objective reality
 
@@ -7394,9 +7140,9 @@ And this dependence comes about because the way the time- and space-axes are int
 
 The frame-dependence of the time-axis already existed in Newton’s theory
 
-## and as a consequence velocity
+and as a consequence velocity
 
-## not surprisingly
+not surprisingly
 
 was frame-dependent.
 
@@ -7410,7 +7156,7 @@ This leads to the frame-dependence of things like length
 
 which we normally do not think of as a frame-dependent quantity.
 
-## Infact
+# Infact
 
 it was not Einstein himself but Max Planck 1 (1858–1947) in 1906 who named Einstein’s theory the “Theory of Relativity.
 
@@ -7418,7 +7164,7 @@ it was not Einstein himself but Max Planck 1 (1858–1947) in 1906 who named Ein
 
 ‘Now to the term relativity theory.
 
-### I admit that it is unfortunate
+# I admit that it is unfortunate
 
 and has given occasion to philosophical misunderstandings.
 
@@ -7434,7 +7180,7 @@ which was the “Theory of invariants for all inertial frames
 
 ” He completed this theory in 1915 as the “General Theory of Relativity” (GR) [4].
 
-## GR is a monumental theory
+# GR is a monumental theory
 
 which not only extends the theory of motion to general frames of reference
 
@@ -7446,33 +7192,33 @@ That was fun, wasn’t it?
 
 Next time, let’s study
 
-## the General Theory of
+the General Theory of
 
 Relativity together!
 
-## Notes
+# Notes
 
 1 The discoverer of Planck’s constant we encountered in section 13.
 
-## 2 See [3], page 229.
+2 See [3], page 229.
 
-## References
+# References
 
 [1] Takeuchi, T.
 
 (2005), No Equations!
 
-### Special Relativity That You Can See
+# Special Relativity That You Can See
 
 Japan: Iwanami Shoten (in Japanese).
 
 [2] Takeuchi, T.
 
-## (2007)
+(2007)
 
-### Theory of Relativity without Equations
+# Theory of Relativity without Equations
 
-## Taiwan
+# Taiwan
 
 Shy Mau Publishing Company (in Chinese).
 
@@ -7480,15 +7226,15 @@ Shy Mau Publishing Company (in Chinese).
 
 (ed.
 
-## ) (2005)
+) (2005)
 
-## The New Quotable Einstein
+# The New Quotable Einstein
 
-### enlarged commemorative edition
+enlarged commemorative edition
 
-## foreword by Freeman Dyson
+foreword by Freeman Dyson
 
-## Princeton
+# Princeton
 
 NJ: Princeton University Press.
 
@@ -7496,21 +7242,21 @@ NJ: Princeton University Press.
 
 (ed.
 
-## ) (2003)
+) (2003)
 
-## On the Shoulders of Giants
+# On the Shoulders of Giants
 
-## Philadelphia
+# Philadelphia
 
 PA: Running Press.
 
 (A collection of the great works by Copernicus
 
-## Galileo
+# Galileo
 
-## Kepler
+# Kepler
 
-## Newton
+# Newton
 
 and Einstein.
 
@@ -7518,7 +7264,7 @@ and Einstein.
 
 Other translations and commentaries currently available are
 
-## Newton
+# Newton
 
 , The Principia
 
@@ -7526,29 +7272,29 @@ Mathematical Principles of Natural Philosophy
 
 translated by I.
 
-### Bernard Cohen and Anne Whitman
+# Bernard Cohen and Anne Whitman
 
-## Berkeley
+# Berkeley
 
 CA: University of California Press (new translation 1999)
 
-## Newton
+# Newton
 
 , The Principia
 
-### translated by Andrew Motte in 1729
+translated by Andrew Motte in 1729
 
-## Amerhurst
+# Amerhurst
 
 NY: Prometheus Books (new edition 1995)
 
-## Chandrasekhar
+# Chandrasekhar
 
-## (2003)
+(2003)
 
 Newton’s Principia for the Common Reader
 
-## New York
+# New York
 
 Oxford University Press.
 
@@ -7556,43 +7302,43 @@ Oxford University Press.
 
 , Relativity
 
-### The Special and the General Theory
+# The Special and the General Theory
 
-### The Masterpiece Science Edition
+# The Masterpiece Science Edition
 
-## New York
+# New York
 
-### Pi Press (new hardback edition 2005)
+Pi Press (new hardback edition 2005)
 
-## Thousand Oaks
+# Thousand Oaks
 
 CA: BN Publishing (paperback edition 2005).
 
 [7] Bruce, C.
 
-## (1998)
+(1998)
 
-## The Einstein Paradox
+# The Einstein Paradox
 
 And Other Science Mysteries Solved by Sherlock Holmes
 
-## New York
+# New York
 
 Basic Books.
 
 [8] Weinberg, S.
 
-## (2008)
+(2008)
 
-## Cosmology
+# Cosmology
 
-## Oxford
+# Oxford
 
 Oxford University Press.
 
 [9] Einstein, A.
 
-## (1905)
+(1905)
 
 “Ist die Trägheit eines Körpers von seinem Energieinhalt abhängig?
 
@@ -7604,17 +7350,17 @@ Oxford University Press.
 
 [10] Einstein, A.
 
-## (1905)
+(1905)
 
 “Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
 
 ” (On a heuristic viewpoint concerning the production and transformation of light)
 
-## Annalen der Physik
+# Annalen der Physik
 
 17, 132–148.
 
-## Index
+# Index
 
 E=mc², 209, 246, 248
 
@@ -7630,7 +7376,7 @@ acceleration, 56
 
 non-inertial, 20, 22, 24
 
-## addition of velocities
+addition of velocities
 
 fusion, 248
 
@@ -7692,7 +7438,7 @@ light-cone, 128
 
 light-day, 64
 
-## dynamics
+dynamics
 
 light-minute, 64
 
@@ -7738,7 +7484,7 @@ expansion of the universe, 160
 
 mass gap, 250
 
-## faster-than-light
+faster-than-light
 
 mass shell, 250
 
@@ -7748,7 +7494,7 @@ mass–momentum vector, 212, 217, 218
 
 travel, 126
 
-## meter
+meter
 
 fission, 248
 
@@ -7794,7 +7540,7 @@ proton, 248
 
 redshift, 156, 160
 
-## relativity
+relativity
 
 in Galilei–Newton theory, 30
 

@@ -1,6 +1,6 @@
-## Planet Earth
+# Planet Earth
 
-## I N T R O D U C T I O N
+# I N T R O D U C T I O N
 
 What’s an oasis?
 
@@ -10,25 +10,25 @@ How can water be stronger than stone?
 
 What’s another name for giant floating ice cubes?
 
-## To help you on your journey
+# To help you on your journey
 
 we’ve provided the following guideposts in Planet Earth.
 
-## In Planet Earth
+# In Planet Earth
 
 you’ll discover answers to these questions and many more.
 
-## Through pictures
+# Through pictures
 
-## articles
+articles
 
-## and fun facts
+and fun facts
 
-### you’ll travel around the world
+you’ll travel around the world
 
-### seeing the highest and the lowest
+seeing the highest and the lowest
 
-## the hottest and the coldest
+the hottest and the coldest
 
 and the strangest and most beautiful places on Earth.
 
@@ -44,11 +44,11 @@ You can even make this a game with a reading partner.
 
 —Check out these fun facts about the article subject.
 
-### With these surprising “factoids
+With these surprising “factoids
 
-### ” you can entertain your friends
+” you can entertain your friends
 
-## impress your teachers
+impress your teachers
 
 and amaze your parents.
 
@@ -68,15 +68,15 @@ These articles are listed in the Table of Contents and appear on the Subject Tab
 
 Have a great trip!
 
-## The pyramid and the camel
+# The pyramid and the camel
 
-## pictured here in Giza
+pictured here in Giza
 
 Egypt, are two images often associated with the Egyptian desert.
 
-## Planet Earth
+# Planet Earth
 
-## TABLE OF CONTENTS
+# TABLE OF CONTENTS
 
 INTRODUCTION .
 
@@ -90,7 +90,7 @@ The Largest Pieces of Land .
 
 Antarctica: A Continent of Extremes .
 
-## Mountains
+# Mountains
 
 Building Earth’s Giant Landscapes .
 
@@ -118,7 +118,7 @@ Amazon: The Rainforest River .
 
 Nile River: Egypt’s Gift .
 
-## Victoria Falls
+# Victoria Falls
 
 “The Smoke That Thunders” .
 
@@ -132,11 +132,11 @@ The World of Water .
 
 Islands: Dry Spots in a Watery World .
 
-## Galapagos Islands
+# Galapagos Islands
 
 The Islands at the End of the World .
 
-## Great Barrier Reef
+# Great Barrier Reef
 
 Island of Reefs Within Reefs .
 
@@ -146,15 +146,15 @@ Tides: The Ocean’s Rise and Fall .
 
 Atlantic Ocean: The Youngest Ocean .
 
-## Indian Ocean
+# Indian Ocean
 
 Ocean Between Many Continents .
 
-## Mediterranean Sea
+# Mediterranean Sea
 
 The Sea in the Middle of Land .
 
-## Pacific Ocean
+# Pacific Ocean
 
 Largest Ocean in the World .
 
@@ -162,9 +162,9 @@ GLOSSARY .
 
 INDEX .
 
-## G E O G R A P H Y
+# G E O G R A P H Y
 
-## Learning About the Earth
+# Learning About the Earth
 
 Geography is a science that studies the Earth’s surface.
 
@@ -196,15 +196,15 @@ Part of learning about the Earth is learning where people can and can’t live.
 
 The different colors of your Earth map can help you discover this.
 
-### You won’t find many people in the tan
+You won’t find many people in the tan
 
 white, or larger blue parts—deserts
 
-## the snowfields
+the snowfields
 
 and oceans.
 
-### Not many people live in the deserts
+# Not many people live in the deserts
 
 because deserts are hot and dry.
 
@@ -214,13 +214,13 @@ In the high mountains and at the North and South poles
 
 it is very cold.
 
-### Most plants don’t like the cold
+Most plants don’t like the cold
 
 and most people don’t either.
 
 You will find people in and near the green and yellow parts and the smaller blue parts—the farmlands
 
-## forests
+forests
 
 rivers and lakes.
 
@@ -228,7 +228,7 @@ To those regions you can add brown dots and clusters of dots
 
 for towns and cities.
 
-### There’s a lot to learn about the Earth
+There’s a lot to learn about the Earth
 
 just as there’s a lot to learn about a friend.
 
@@ -236,13 +236,13 @@ Geography helps you become a friend of the Earth.
 
 LEARN MORE!
 
-## READ THESE ARTICLES…
+READ THESE ARTICLES…
 
-## CONTINENTS
+# CONTINENTS
 
-## OCEANS
+# OCEANS
 
-## RAINFORESTS
+# RAINFORESTS
 
 Search Light:
 
@@ -254,27 +254,27 @@ Why do you think that is?
 
 beans, and apples?
 
-## Answer
+# Answer
 
 Few plants grow if an area is too hot or too cold.
 
 And animals need plants or other animals to eat because this is what animals eat.
 
-## Without plants or animals
+# Without plants or animals
 
 there’s nothing for people to eat.
 
-## The coast of Nova Scotia
+# The coast of Nova Scotia
 
-## in Canada
+in Canada
 
 shows some of the Earth’s many shapes and colors.
 
 Geography looks closely at these different shapes and colors.
 
-## CONTINENTS
+# CONTINENTS
 
-## The Pieces and Shapes of Land
+# The Pieces and Shapes of Land
 
 The continents are the largest bodies of land on the Earth.
 
@@ -282,51 +282,51 @@ Look at a globe.
 
 Whatever is blue is water.
 
-## Most of the rest is land
+# Most of the rest is land
 
 the continents.
 
 There are seven continents.
 
-## From biggest to smallest
+# From biggest to smallest
 
-## they are Asia
+they are Asia
 
-## Africa
+# Africa
 
-## North America
+# North America
 
-## South America
+# South America
 
-## Antarctica
+# Antarctica
 
-## Europe
+# Europe
 
 and Australia.
 
-## Some continents
+# Some continents
 
-### such as Australia and Antarctica
+such as Australia and Antarctica
 
 are completely surrounded by water.
 
-### And some continents are joined together
+# And some continents are joined together
 
 as Asia and Europe are.
 
-### Continents are physical bodies
+# Continents are physical bodies
 
-## defined by their shape
+defined by their shape
 
 size, and location.
 
-## They have mountains
+# They have mountains
 
-## rivers
+rivers
 
-## deserts
+deserts
 
-## forests
+forests
 
 and other physical features.
 
@@ -334,23 +334,23 @@ But humans have divided them into political groups
 
 called “countries” or “nations.
 
-## Large continents
+# Large continents
 
-## such as Asia
+such as Asia
 
-### may include both very large countries
+may include both very large countries
 
-## such as China and India
+such as China and India
 
 and very small ones.
 
-## Small continents
+# Small continents
 
-## such as Australia
+such as Australia
 
 may contain only a few countries.
 
-### Australia has just one country
+# Australia has just one country
 
 Australia.
 
@@ -358,27 +358,27 @@ China, and very small countries
 
 such as Nepal.
 
-## Australia
+# Australia
 
-## the smallest continent
+the smallest continent
 
 is also itself a country—one of the world’s largest.
 
 North America contains three large countries—Canada
 
-## the United States
+the United States
 
 and Mexico—and a few small countries in a region known as Central America.
 
-## Europe
+# Europe
 
-## on the other hand
+on the other hand
 
 is the world’s second smallest continent but has about 50 countries.
 
-## Africa
+# Africa
 
-## the second largest continent
+the second largest continent
 
 is believed to be where the very first humans appeared.
 
@@ -392,7 +392,7 @@ Earth scientists believe that the continents began forming billions of years ago
 
 Lighter parts of Earth’s molten core separated from heavier parts and rose to the top.
 
-### As they cooled off and became solid
+# As they cooled off and became solid
 
 the land that would become the continents formed.
 
@@ -402,25 +402,25 @@ One theory supposes that there were once two “supercontinents”
 
 Gondwanaland in the south and Laurasia in the north.
 
-## Answer
+# Answer
 
-## Antarctica
+# Antarctica
 
-## Australia
+# Australia
 
-## North America
+# North America
 
-## South America
+# South America
 
 and Europe.
 
-## Antarctica is the coldest
+# Antarctica is the coldest
 
-## windiest
+windiest
 
 and highest continent in the world!
 
-### It lies at the bottom of the world
+# It lies at the bottom of the world
 
 surrounding the South Pole.
 
@@ -436,15 +436,15 @@ at –128.
 
 A sheet of ice covers the entire continent.
 
-## At its thickest point
+# At its thickest point
 
 the ice is almost 3 miles deep—and that’s on top of the ground.
 
 The continent contains most of the world’s ice and much of the world’s freshwater.
 
-### Toward the edges of the continent
+# Toward the edges of the continent
 
-## the ice becomes glaciers
+the ice becomes glaciers
 
 creeping rivers of ice.
 
@@ -454,7 +454,7 @@ The Sun generally rises on September 21 and sets on March 22.
 
 This one long day is the summer!
 
-### From March 22 until September 21
+# From March 22 until September 21
 
 the South Pole is dark and Antarctica has its night
 
@@ -464,11 +464,11 @@ People do not live permanently in Antarctica.
 
 Only scientists and some adventurous tourists visit.
 
-## There are
+# There are
 
-## however
+however
 
-### 45 species of birds in Antarctica
+45 species of birds in Antarctica
 
 including the emperor penguin and the Adélie penguin
 
@@ -478,13 +478,13 @@ Also, four species of seals breed only in Antarctica.
 
 Whales live in the water around the frigid continent.
 
-## The killer whale
+# The killer whale
 
-## the sperm whale
+the sperm whale
 
-## the rare bottle-nosed whale
+the rare bottle-nosed whale
 
-## the pygmy whale
+the pygmy whale
 
 and seven species of baleen whales can all be found off the coast.
 
@@ -492,19 +492,19 @@ Oddly, there are active volcanoes in Antarctica.
 
 That means you can find not just the world’s coldest temperatures here but
 
-## deep down
+deep down
 
 some of the hottest too.
 
 Answer: –128.
 
-## 6 coldest temperature, 182.
+6 coldest temperature, 182.
 
-## 5 length of one day
+5 length of one day
 
-## 3 thickness of ice
+3 thickness of ice
 
-## 45 bird species.
+45 bird species.
 
 Match the numbers with the correct labels.
 
@@ -512,7 +512,7 @@ You may have to do some figuring and clever thinking!
 
 –128.
 
-## 6 bird species 182.
+6 bird species 182.
 
 5 thickness of ice 3 length of one day 45 coldest temperature
 
@@ -528,21 +528,21 @@ And most mountains are formed by a combination of these
 
 usually over millions of years.
 
-## Deep inside
+# Deep inside
 
 the Earth is so incredibly hot that everything is melted
 
 or molten.
 
-## This molten material
+# This molten material
 
-## or lava
+or lava
 
 escapes to the Earth’s surface when volcanoes erupt.
 
 The lava cools and becomes hard and solid.
 
-## This happens again and again
+# This happens again and again
 
 collecting until there is a volcanic mountain.
 
@@ -566,7 +566,7 @@ Part of the surface would then be lower and part of it higher.
 
 More earthquakes moved the lower parts down and the upper parts up.
 
-## Eventually
+# Eventually
 
 the high parts became tall enough to make mountains.
 
@@ -590,13 +590,13 @@ At first most mountains were steep and sharp.
 
 But even hard rocks can be worn away.
 
-## Slowly
+# Slowly
 
 with the wind and the rain rubbing at them
 
-### steep sharp mountains grow smoother
+steep sharp mountains grow smoother
 
-## shorter
+shorter
 
 and rounder.
 
@@ -612,21 +612,21 @@ Most have been made when rainwater or streams have worn away rock—usually a so
 
 The wearing-away process is called “erosion.
 
-## Slowly
+# Slowly
 
-## over millions of years
+over millions of years
 
-### the water works away at the soft rock
+the water works away at the soft rock
 
 making a small tunnel-like opening.
 
-### As more and more rock wears away
+# As more and more rock wears away
 
 the opening grows wider and deeper.
 
 Soon even more water can flow in.
 
-## In time
+# In time
 
 many of these openings become huge caves
 
@@ -634,23 +634,23 @@ or caverns.
 
 Mammoth Cave-Flint Ridge in Kentucky is a linked system of caverns.
 
-## It is 345 miles long
+# It is 345 miles long
 
 one of the longest in the world.
 
-## In France the Jean Bernard
+# In France the Jean Bernard
 
-### though much shorter (11 miles long)
+though much shorter (11 miles long)
 
-### is one of the world’s deepest caves
+is one of the world’s deepest caves
 
-## reaching down more than 5
+reaching down more than 5
 
-## 000 feet.
+000 feet.
 
 Some caves have beautiful craggy formations called “stalactites
 
-## ” like those pictured here
+” like those pictured here
 
 that hang from the cave’s roof.
 
@@ -658,33 +658,33 @@ These are made by water seeping into the cave.
 
 Each drop leaves a very tiny bit of dissolved rock on the ceiling of the cave.
 
-### After thousands and thousands of years
+# After thousands and thousands of years
 
 an icicle-shaped stalactite forms.
 
-### When water drips to the cave’s floor
+When water drips to the cave’s floor
 
 it deposits small particles of solids.
 
-### These slowly build up into a stalagmite
+# These slowly build up into a stalagmite
 
 which looks like an upside-down icicle.
 
 There are other kinds of caves that are made in different ways.
 
-### When lava flows out of a volcano
+# When lava flows out of a volcano
 
-## it sometimes leaves gaps
+it sometimes leaves gaps
 
 making volcanic caves.
 
-### When ice melts inside a glacier
+# When ice melts inside a glacier
 
 glacier caves result.
 
 And ocean waves pounding on the shore year after year can wear away a cave in the face of a cliff.
 
-## Answer
+# Answer
 
 Caves aren't formed by lightning.
 
@@ -692,31 +692,31 @@ Deserts are places that get very little rain each year—so little rain that mos
 
 Some deserts will go for years without rain.
 
-### They are difficult places to live in
+# They are difficult places to live in
 
-## and the few plants
+and the few plants
 
-## animals
+animals
 
 and people who live there have to be tough to survive.
 
 Every continent except Europe has a desert.
 
-## Even Antarctica has one
+# Even Antarctica has one
 
 a frigid desert.
 
-## Most deserts
+# Most deserts
 
-## however
+however
 
-## are arid
+are arid
 
-## or dry
+or dry
 
-### deserts with mile after mile of sand
+deserts with mile after mile of sand
 
-## baked earth
+baked earth
 
 and barren rock.
 
@@ -724,7 +724,7 @@ In the daytime these places look like lost worlds—hot
 
 dry, and silent.
 
-## Usually
+# Usually
 
 the only plants growing there are low thorny ones.
 
@@ -738,19 +738,19 @@ That’s when creatures that have been hiding from the Sun’s burning rays come
 
 Many of the creatures are lizards and insects such as scorpions.
 
-## There are also diff
+# There are also diff
 
-### Various kinds of rats as well as other
+# Various kinds of rats as well as other
 
 larger animals.
 
 You can hear the animals squeaking and growling near water holes and springs.
 
-## That’s where the coyotes
+That’s where the coyotes
 
-## badgers
+badgers
 
-## bobcats
+bobcats
 
 foxes, and birds gather
 
@@ -774,9 +774,9 @@ Every continent except Antarctica has a desert.
 
 This California (U.
 
-## ) desert
+) desert
 
-## called Death Valley
+called Death Valley
 
 is both beautiful and dangerous.
 
@@ -798,7 +798,7 @@ But some people do.
 
 Where do they stay?
 
-## Obviously
+# Obviously
 
 they stay where there is water.
 
@@ -822,35 +822,35 @@ And desert areas at higher elevations sometimes receive extra rain to support pl
 
 In the Sahara people can live year-round in the oases because the water supply is permanent.
 
-### The oases allow crops to be watered
+# The oases allow crops to be watered
 
 and desert temperatures make crops grow quickly.
 
 The date palm is the main source of food.
 
-## However
+# However
 
-### in its shade grow citrus fruits
+in its shade grow citrus fruits
 
 figs, peaches
 
-## apricots
+apricots
 
-## vegetables
+vegetables
 
-## and cereals such as wheat
+and cereals such as wheat
 
-## barley
+barley
 
 and millet.
 
 The Siwa Oasis in western Egypt has about 200 springs.
 
-## It is a very fertile oasis
+# It is a very fertile oasis
 
 and thousands of date palms and olive trees grow there.
 
-## In fact
+# In fact
 
 the people living in this oasis export dates and olive oil to other places in the world.
 
@@ -872,7 +872,7 @@ but every one is different.
 
 Most peninsulas of any significance extend into oceans or very large lakes.
 
-## In the United States
+# In the United States
 
 Florida is a peninsula.
 
@@ -880,23 +880,23 @@ The state of Alaska qualifies as one and has several smaller peninsulas of its o
 
 One of the last great wilderness areas in the United States is on the Olympic Peninsula in Washington state.
 
-### It is surrounded by the Pacific Ocean
+# It is surrounded by the Pacific Ocean
 
-## the Strait of Juan de Fuca
+the Strait of Juan de Fuca
 
 and Puget Sound.
 
-## It has a rainforest
+# It has a rainforest
 
-## rivers
+rivers
 
-## alpine peaks
+alpine peaks
 
-## glaciers
+glaciers
 
 and such creatures as salmon and elk.
 
-### In Mexico there are two main peninsulas
+# In Mexico there are two main peninsulas
 
 the Yucatán Peninsula in the east and Baja California in the west.
 
@@ -920,7 +920,7 @@ And the Iberian Peninsula in southern Europe is made up of Spain and Portugal.
 
 Italy and part of Greece are peninsulas as well.
 
-### The world’s largest peninsula is Arabia
+The world’s largest peninsula is Arabia
 
 at over a million square miles.
 
@@ -928,19 +928,19 @@ Other important peninsulas in Asia include Korea and Southeast Asia.
 
 Imagine a forest with a carpet of wet leaves littering the ground.
 
-## If you look up
+# If you look up
 
 you see only a canopy of broad green leaves.
 
 There are wildflowers on the trees.
 
-## You can hear water drops
+# You can hear water drops
 
-## insects
+insects
 
 birds, and
 
-## perhaps
+perhaps
 
 the distant screech of a monkey.
 
@@ -948,11 +948,11 @@ The place you are picturing is a rainforest.
 
 A rainforest is a kind of ecosystem—a community of all the living things in a region
 
-## their physical environment
+their physical environment
 
 and all their interrelationships.
 
-## Rainforests are dense
+# Rainforests are dense
 
 wet, and green because they get large amounts of rain.
 
@@ -966,11 +966,11 @@ In a rainforest nothing is wasted.
 
 Everything is recycled.
 
-## When leaves fall
+# When leaves fall
 
-## flowers wilt
+flowers wilt
 
-### or animals die on the forest floor
+or animals die on the forest floor
 
 they decay.
 
@@ -986,15 +986,15 @@ Many have not even been discovered yet.
 
 Some rainforest plants have given us important medicines.
 
-## These include aspirin
+# These include aspirin
 
-## which is a pain reliever
+which is a pain reliever
 
-## and curare
+and curare
 
 used to help people relax during medical operations.
 
-## Unfortunately
+# Unfortunately
 
 the rainforests are being destroyed rapidly.
 
@@ -1002,11 +1002,11 @@ The trees are felled for timber and to create land for farming.
 
 Animals living in these forests are facing extinction.
 
-## And once lost
+# And once lost
 
 these animals and forests cannot be replaced.
 
-## A marsh is a wetland
+# A marsh is a wetland
 
 an area of land containing much soil moisture that does not drain well.
 
@@ -1018,11 +1018,11 @@ grasses grow in a marsh.
 
 Marsh grasses have shallow roots that spread and bind mud together.
 
-## This slows the flow of water
+# This slows the flow of water
 
 which creates rich soil deposits and encourages the growth of the marsh.
 
-### There are two main types of marshes
+# There are two main types of marshes
 
 freshwater marshes and salt marshes.
 
@@ -1030,23 +1030,23 @@ Freshwater marshes are found at the mouths of rivers.
 
 These marshes are famous as bird sanctuaries and are an important habitat for many birds
 
-## mammals
+mammals
 
 and insects.
 
-## If we didn’t have the marshes
+If we didn’t have the marshes
 
 then we would lose many of these animals.
 
 There simply isn’t anywhere else where they can survive.
 
-## The Amazon in South America
+# The Amazon in South America
 
-## the Congo in Africa
+the Congo in Africa
 
-## the Nile in Egypt
+the Nile in Egypt
 
-### the Tigris and Euphrates in Iraq
+the Tigris and Euphrates in Iraq
 
 and the Mekong in Vietnam all have large freshwater marshes.
 
@@ -1058,33 +1058,33 @@ It provides a major portion of the world’s food.
 
 Salt marshes are formed by seawater flooding and draining flat land as tides go in and out.
 
-## The grasses
+# The grasses
 
 of a salt marsh will not grow if the ground is permanently flooded.
 
 Salt marshes are found along the east coast of the United States
 
-## in the Arctic
+in the Arctic
 
-## in northern Europe
+in northern Europe
 
-## in Australia
+in Australia
 
 and in New Zealand.
 
 Grass lands that grow in marshes and swamps.
 
-## But while a lot of wildlife
+# But while a lot of wildlife
 
 marshes and swamps both support and wetlands
 
-## Answer
+# Answer
 
-### The Ruby Marshes in the state of Nevada
+# The Ruby Marshes in the state of Nevada
 
 , provide a great example of what these grassy wetlands look like.
 
-## © David Muench/Corbis
+© David Muench/Corbis
 
 It seems pretty obvious what rivers are for.
 
@@ -1094,7 +1094,7 @@ They do these things for many animals too.
 
 But it might surprise you to learn that rivers have some even bigger jobs.
 
-## For one thing
+# For one thing
 
 rivers deliver water to lakes and oceans.
 
@@ -1104,7 +1104,7 @@ and this second job makes a huge difference.
 
 No other force changes as much of the world’s surface as running water does.
 
-## In fact
+# In fact
 
 the world’s rivers could completely erode the face of the Earth
 
@@ -1150,9 +1150,9 @@ when it rains.
 
 But the ground can’t soak up all the water.
 
-## The rest
+# The rest
 
-## called “runoff
+called “runoff
 
 ” can’t be soaked up and can cause floods.
 
@@ -1162,7 +1162,7 @@ Spring floods occur when heavy winter snows melt rapidly.
 
 Floods caused by heavy rains can occur at any time of the year.
 
-## Rivers overflow their banks
+# Rivers overflow their banks
 
 and the ground can’t soak up the extra water.
 
@@ -1176,13 +1176,13 @@ and the heavy rains cause rivers and streams to flood nearby areas.
 
 Such hurricane-created floods struck Central America in 1998
 
-## killing more than 20
+killing more than 20
 
 000 people and leaving one and a half million homeless.
 
-## A flash flood
+# A flash flood
 
-## however
+however
 
 comes without warning.
 
@@ -1196,13 +1196,13 @@ Destructive flash floods happen when a great deal of water overflows all at once
 
 Volcanic eruptions and earthquakes at sea may cause huge waves
 
-## called “tsunamis
+called “tsunamis
 
 ” that may swamp seacoasts.
 
 The volcanic eruption of Krakatoa in 1883 formed waves that flooded whole districts in Indonesia.
 
-## When it rains
+# When it rains
 
 the ground soaks up the water.
 
@@ -1210,19 +1210,19 @@ Water that doesn’t get soaked up is called “runoff.
 
 In 1999 these people and others suffered losses in the floods that followed Hurricane Irene in Florida
 
-## When it rains
+# When it rains
 
 the ground soaks up the water.
 
 Water that doesn’t get soaked up is called “runoff.
 
-## © AFP/Corbis
+© AFP/Corbis
 
 In high mountains there are places that are packed full of ice.
 
 These ice packs are called “glaciers” and look like giant frozen rivers.
 
-## And like rivers
+# And like rivers
 
 glaciers flow—but usually so slowly you can’t see them move.
 
@@ -1230,7 +1230,7 @@ It takes a long time to make a glacier.
 
 First, snow falls on the mountains.
 
-## It collects year after year
+# It collects year after year
 
 until there is a thick layer called a “snowfield.
 
@@ -1238,7 +1238,7 @@ In summer the surface of the snowfield melts and sinks into the snow below it.
 
 There it freezes and forms a layer of ice.
 
-### This too happens year after year
+# This too happens year after year
 
 until most of the snowfield has been changed into ice.
 
@@ -1252,7 +1252,7 @@ It has now become a valley glacier.
 
 The valley glacier moves slowly but with enormous force.
 
-## As it moves
+# As it moves
 
 it scrapes the sides of the mountain and tears off pieces of it.
 
@@ -1264,13 +1264,13 @@ the ice begins to melt.
 
 The icy water fills rivers and streams.
 
-## Many thousands of years ago
+# Many thousands of years ago
 
 much of the Earth’s surface was covered with moving glaciers.
 
 This period is sometimes called the Ice Age.
 
-## As the world warmed
+# As the world warmed
 
 most of the ice melted away and formed many of the rivers
 
@@ -1286,15 +1286,15 @@ b) a thick layer of snow.
 
 c) a glacier that has started to move down a mountain.
 
-## Answer
+# Answer
 
 c) a glacier that has started to move down a mountain.
 
-### In Alaska’s Glacier Bay National Park
+In Alaska’s Glacier Bay National Park
 
 the 16 glaciers that descend from the mountains present an amazing sight.
 
-## © Neil Rabinowitz/Corbis
+© Neil Rabinowitz/Corbis
 
 On a map of South America a thick line cuts across the country of Brazil all the way from the Andes Mountains in Peru to the Atlantic Ocean.
 
@@ -1308,15 +1308,15 @@ carrying more total water than any other.
 
 Why is the river called “Amazon”?
 
-## Many years ago
+# Many years ago
 
-## in 1541
+in 1541
 
 a Spanish soldier named Orellana sailed down the river.
 
 He had to fight many women soldiers who lived by the river.
 
-### It made him think of the Amazons
+# It made him think of the Amazons
 
 who were the mighty women soldiers of Greek mythology.
 
@@ -1338,17 +1338,17 @@ some as tall as 200 feet.
 
 They spread out like giant umbrellas and catch most of the sunlight.
 
-## There are rubber trees
+# There are rubber trees
 
-## silk cotton trees
+silk cotton trees
 
-## Brazil nut trees
+# Brazil nut trees
 
 and many others.
 
-## Many animals
+# Many animals
 
-## some quite rare
+some quite rare
 
 make their homes among the tree branches.
 
@@ -1364,7 +1364,7 @@ The Amazon region is a very wet kind of area known as a “rainforest.
 
 A country that depends almost entirely on the river that flows through it.
 
-## That country is Egypt
+# That country is Egypt
 
 and the river is the Nile.
 
@@ -1382,7 +1382,7 @@ Egyptian cotton is one of the finest cottons in the world.
 
 It rains very little in Egypt.
 
-## Where it does
+# Where it does
 
 it’s not much more than seven inches a year.
 
@@ -1406,9 +1406,9 @@ The most common is the Nile perch.
 
 The river is also an important waterway.
 
-## Canals
+# Canals
 
-## or man-made streams
+or man-made streams
 
 act as a highway network for small boats and ships during the flood season.
 
@@ -1450,21 +1450,21 @@ The river waters then emerge into an enormous zigzag channel that forms the begi
 
 The Victoria Falls Bridge is used for all traffic between Zambia and Zimbabwe.
 
-## When it opened in 1905
+# When it opened in 1905
 
 it was the highest bridge in the world.
 
 In 1989 Victoria Falls and its parklands were named a World Heritage site.
 
-## Niagara Falls
+# Niagara Falls
 
 one of the most spectacular natural wonders in North America
 
-## is more than 25
+is more than 25
 
-## 000 years old.
+000 years old.
 
-### The falls are on the Niagara River
+# The falls are on the Niagara River
 
 which flows between the United States and Canada
 
@@ -1472,11 +1472,11 @@ from Lake Erie to Lake Ontario.
 
 It is awesome just to be near the waterfall and watch the force of so many gallons of water plunging down the steep cliff.
 
-## More than 600
+# More than 600
 
-### 000 gallons per second pour from the falls.
+000 gallons per second pour from the falls.
 
-## As the water thunders down
+# As the water thunders down
 
 it fills the air with a silvery mist in which you can see many shining rainbows.
 
@@ -1492,15 +1492,15 @@ The larger portion is the Canadian section
 
 known as Horseshoe Falls.
 
-## It measures 2
+# It measures 2
 
-### 600 feet along its curve and drops 162 feet.
+600 feet along its curve and drops 162 feet.
 
 The American Falls are smaller and rockier.
 
-## Their width is 1
+# Their width is 1
 
-## 000 feet across
+000 feet across
 
 and they drop about 167 feet.
 
@@ -1530,7 +1530,7 @@ which means “tube.
 
 A smaller valley cut out in the same way is called a “gorge.
 
-## ” The Grand Canyon
+” The Grand Canyon
 
 in northern Arizona in the United States
 
@@ -1546,13 +1546,13 @@ And the clouds then make the rain that helps plants grow.
 
 Some scientists are even working on affordable ways to turn salt water into fresh water for drinking
 
-## cooking
+cooking
 
-## washing
+washing
 
 and watering crops.
 
-## If they succeed
+# If they succeed
 
 it will be one of the most important inventions of our time.
 
@@ -1564,13 +1564,13 @@ The very smallest are too small to hold even a house.
 
 The largest islands contain whole countries.
 
-## If you live in England
+# If you live in England
 
-## Iceland
+# Iceland
 
-## Australia
+# Australia
 
-## or Japan
+or Japan
 
 you live on an island.
 
@@ -1580,17 +1580,17 @@ How do islands develop in the first place?
 
 Some islands begin as fiery volcanoes in the ocean.
 
-### Hot lava pours out of the volcano
+# Hot lava pours out of the volcano
 
 making the island bigger and bigger.
 
-## Slowly
+# Slowly
 
-## as the lava cools
+as the lava cools
 
-## it becomes solid land
+it becomes solid land
 
-### and when it rises above the water
+and when it rises above the water
 
 it becomes an island.
 
@@ -1600,7 +1600,7 @@ Other islands are actually parts of the world’s continents.
 
 Some of the land toward the edge of the continent may have been worn away over many
 
-## many years by wind or rain
+many years by wind or rain
 
 or perhaps some of it sank.
 
@@ -1612,7 +1612,7 @@ The Aleutian Islands off the coast of North America were probably once a part of
 
 Maybe most surprising are the islands that are built up from the bottom of the ocean from the skeletons of tiny sea animals called “coral.
 
-## ” As some corals die
+” As some corals die
 
 others live on top of them.
 
@@ -1630,7 +1630,7 @@ The islands were formed from volcanoes that erupted in the sea.
 
 The bare and rocky islands look as if no creature could ever live there.
 
-## But thousands of animals do
+# But thousands of animals do
 
 including many found nowhere else in the world.
 
@@ -1638,7 +1638,7 @@ One animal that lives there is the giant tortoise
 
 or land turtle.
 
-## In fact
+# In fact
 
 the islands got their name from these tortoises.
 
@@ -1646,13 +1646,13 @@ The word galápagos means “tortoises” in Spanish.
 
 The Galapagos Islands were especially important to the famous English scientist Charles Darwin.
 
-### When Darwin visited the islands
+# When Darwin visited the islands
 
 he discovered that there were creatures living there that did not live anywhere else in the world.
 
 He saw three-foot-long lizards—land iguanas that looked like small dragons.
 
-### And he saw amazing marine iguanas
+# And he saw amazing marine iguanas
 
 lizards that had actually learned to swim.
 
@@ -1664,7 +1664,7 @@ which allowed them all to share the same habitat.
 
 Darwin decided that all plants and animals evolve
 
-## or change little by little
+or change little by little
 
 as the world around them changes.
 
@@ -1678,9 +1678,9 @@ The Great Barrier Reef is one of the great natural wonders of the world.
 
 It is actually a system of many individual reefs and islets (small islands).
 
-## Altogether there are 2
+# Altogether there are 2
 
-### 100 individual reefs in the Great Barrier Reef.
+100 individual reefs in the Great Barrier Reef.
 
 This huge ridge of coral reefs is separated from land by a channel of water 30 miles wide.
 
@@ -1688,19 +1688,19 @@ The Great Barrier Reef was formed over millions of years from mounds of coral.
 
 A coral is a soft animal that supports its body inside a hard hollow shell.
 
-## When the coral died
+# When the coral died
 
-## its shell remained
+its shell remained
 
 and other corals grew on top of it.
 
-## Over those millions of years
+# Over those millions of years
 
 the corals remained hardened and became cemented together.
 
 Slowly they were covered with underwater plants
 
-## debris from the ocean
+debris from the ocean
 
 and other corals.
 
@@ -1708,31 +1708,31 @@ The Great Barrier Reef lies in the Pacific Ocean off the coast of Queensland in 
 
 From north to south its length is equal to the entire Pacific Coast of the United States
 
-## extending more than 1
+extending more than 1
 
-## 250 miles!
+250 miles!
 
 The water is so clear and pollution-free at the Great Barrier Reef that people can glimpse the wonderful marine life deep underwater.
 
-### Besides the 400 types of coral
+# Besides the 400 types of coral
 
-### there are such animals as anemones
+there are such animals as anemones
 
-## snails
+snails
 
-## lobsters
+lobsters
 
-## prawns
+prawns
 
-## jellyfish
+jellyfish
 
-## giant clams
+giant clams
 
 and dugongs.
 
-## And there are more than 1
+# And there are more than 1
 
-### 500 species of saltwater fish.
+500 species of saltwater fish.
 
 Many of the small fish have brilliant colors and unusual shapes.
 
@@ -1760,9 +1760,9 @@ Notice how most of the ice cube stays below the water.
 
 The ice cube floats just the way an iceberg floats.
 
-## And as the cube melts
+# And as the cube melts
 
-## it turns over
+it turns over
 
 just as an iceberg does.
 
@@ -1774,19 +1774,19 @@ near the North or the South Pole.
 
 Icebergs can be very dangerous when they float
 
-## big and silent
+big and silent
 
 into the path of a ship.
 
 In the past many ships were wrecked because they hit an iceberg.
 
-## Fortunately
+# Fortunately
 
 this hardly ever happens anymore.
 
 This is because most modern ships have radar that finds the icebergs before they become a problem.
 
-## In addition
+# In addition
 
 special airplanes from the International Ice Patrol watch for icebergs in likely areas
 
@@ -1800,7 +1800,7 @@ You can see from the size of the boat how big some icebergs actually are.
 
 But the much larger part of an iceberg is under the water!
 
-### Icebergs are broken-off pieces of
+# Icebergs are broken-off pieces of
 
 a) islands.
 
@@ -1842,7 +1842,7 @@ Tides are caused mainly by the gravity of the Moon and the Sun pulling on the Ea
 
 This causes ocean waters to pile up in a big bump of water directly beneath the Sun and the Moon.
 
-## As the Earth rotates
+# As the Earth rotates
 
 the tidal bumps try to follow the two heavenly bodies.
 
@@ -1862,7 +1862,7 @@ The tides in the Bay of Fundy in Canada rise higher than 53 feet.
 
 Beach towels and umbrellas at the Bay of Fundy don't stand a chance!
 
-## Answer
+# Answer
 
 Each tidal cycle has one rising tide and one falling tide.
 
@@ -1874,7 +1874,7 @@ Two tidal cycles take 24 hours then.
 
 It takes 6 hours for the tide to rise or fall.
 
-### When the tide has both risen and fallen
+# When the tide has both risen and fallen
 
 it equals one tidal cycle.
 
@@ -1892,11 +1892,11 @@ after the Pacific.
 
 It covers nearly 20 percent of the Earth.
 
-### If you tasted water from all the oceans
+# If you tasted water from all the oceans
 
 you’d find the Atlantic to be the saltiest.
 
-### And even though it is very old
+# And even though it is very old
 
 it is actually the youngest ocean.
 
@@ -1904,7 +1904,7 @@ The Atlantic Ocean lies between Europe and Africa on one side of the globe and N
 
 It reaches from the Arctic Ocean in the north to Antarctica in the south.
 
-## Like all oceans
+# Like all oceans
 
 the Atlantic has large movements of water circulating in it called “currents.
 
@@ -1912,25 +1912,25 @@ the Atlantic has large movements of water circulating in it called “currents.
 
 but counterclockwise in the southern half.
 
-## The Gulf Stream
+# The Gulf Stream
 
 a powerful and warm current in the North Atlantic
 
 moves along the east coast of North America.
 
-## There and elsewhere
+# There and elsewhere
 
 the Gulf Stream has important effects on the weather.
 
 Millions of tons of fish are caught each year in the waters of the Atlantic Ocean.
 
-## In fact
+# In fact
 
 more than half of all the fish caught in the world come from the Atlantic.
 
 The Atlantic is also used for activities such as sailing
 
-## windsurfing
+windsurfing
 
 and whale watching.
 
@@ -1938,9 +1938,9 @@ But despite the usefulness and magnificence of the Atlantic Ocean
 
 the level of pollution has increased.
 
-### People have allowed fertilizers
+# People have allowed fertilizers
 
-## pesticides
+pesticides
 
 and waste from toilets and sinks and factories to get into the ocean waters.
 
@@ -1952,21 +1952,21 @@ Fill in the blank with the correct number
 
 The Indian Ocean is __________ times as big as the United States.
 
-## Millions of years ago
+# Millions of years ago
 
 there was one huge mass of land in the Southern Hemisphere.
 
 It was the continent of Gondwanaland.
 
-## But over many
+# But over many
 
 many years Gondwanaland slowly broke up into the continents of South America
 
-## Africa
+# Africa
 
-## Antarctica
+# Antarctica
 
-## and Australia
+and Australia
 
 as well as most of India.
 
@@ -1976,7 +1976,7 @@ The Indian Ocean is a huge body of salt water.
 
 It is the third largest ocean in the world—about five and a half times the size of the United States!
 
-## People from India
+# People from India
 
 Egypt, and ancient Phoenicia (now mostly in Lebanon) were the first to explore this ocean.
 
@@ -1988,59 +1988,59 @@ The dependable winds from the rainy season known as the “monsoon” made these
 
 Today the Indian Ocean has major sea routes.
 
-## They connect the Middle East
+# They connect the Middle East
 
-## Africa
+# Africa
 
 and East Asia with Europe and the Americas.
 
 Ships carry tanks of crude oil from the oil-rich Persian Gulf and Indonesia.
 
-### The oil is important to modern society
+# The oil is important to modern society
 
 but spills from these oil tankers can endanger ocean life.
 
-### The Indian Ocean is alive with plants
+# The Indian Ocean is alive with plants
 
-### as well as animals such as sponges
+as well as animals such as sponges
 
 crabs, brittle stars
 
-## flying fish
+flying fish
 
-## dolphins
+dolphins
 
 tuna, sharks
 
-## sea turtles
+sea turtles
 
 and sea snakes.
 
-## Albatross
+# Albatross
 
-## frigate birds
+frigate birds
 
 and several kinds of penguins also make their home there.
 
-## Answer
+# Answer
 
 The Indian Ocean is 5 1/2 times as big as the United States.
 
 The Mediterranean Sea gets its name from two Latin words
 
-## medius
+medius
 
-## meaning “middle
+meaning “middle
 
-## ” and terra
+” and terra
 
 meaning “land.
 
 ” The Mediterranean Sea is almost entirely surrounded by land.
 
-## It’s right between Africa
+It’s right between Africa
 
-## Europe
+# Europe
 
 and Asia.
 
@@ -2050,9 +2050,9 @@ But more important than its size is its location.
 
 Its central position made the Mediterranean an important waterway for a number of ancient cultures
 
-## such as those of Italy
+such as those of Italy
 
-## Greece
+# Greece
 
 Egypt, and Turkey.
 
@@ -2070,15 +2070,15 @@ which lies between the Arabian Peninsula and North Africa.
 
 Three major rivers also lead into the Mediterranean Sea
 
-## the Rhône in France
+the Rhône in France
 
-## the Po in Italy
+the Po in Italy
 
 and the Nile in Egypt.
 
 But the water from most of the rivers evaporates very fast.
 
-## Instead
+# Instead
 
 the Mediterranean Sea gets most of its water from the Atlantic Ocean.
 
@@ -2088,11 +2088,11 @@ There are many popular tourist resorts along the Mediterranean.
 
 These include some of the Mediterranean’s many islands
 
-## such as Corsica
+such as Corsica
 
-## Sardinia
+# Sardinia
 
-## Sicily
+# Sicily
 
 Malta, Crete
 
@@ -2102,11 +2102,11 @@ Tourists often like to take a cruise across the Mediterranean.
 
 They get to visit many different countries
 
-## try lots of different food
+try lots of different food
 
 and see the remains of various ancient civilizations.
 
-## Answer
+# Answer
 
 The Atlantic Ocean supplies most of the Mediterranean’s water.
 
@@ -2126,15 +2126,15 @@ The Pacific Ocean lies between the continents of Asia and Australia on the west 
 
 The Pacific’s deepest parts are the ocean trenches.
 
-## These trenches are long
+# These trenches are long
 
-## narrow
+narrow
 
 steep, and very deep holes at the bottom of the ocean.
 
-### Of the 20 major trenches in the world
+# Of the 20 major trenches in the world
 
-## 17 are in the Pacific Ocean.
+17 are in the Pacific Ocean.
 
 The deepest trench is the Mariana Trench.
 
@@ -2146,9 +2146,9 @@ Some islands were once part of the continents.
 
 Some that were part of Asia and Australia include Taiwan
 
-## the Philippines
+the Philippines
 
-## Indonesia
+# Indonesia
 
 Japan, and New Zealand.
 
@@ -2158,9 +2158,9 @@ Many of them are born from volcanoes.
 
 These islands are built over thousands of years by the lava that comes out of the volcanoes.
 
-### The Hawaiian Islands and the Galapagos
+# The Hawaiian Islands and the Galapagos
 
-## for example
+for example
 
 started as volcanoes.
 
@@ -2172,11 +2172,11 @@ And there is rich marine life in the Pacific.
 
 Fish such as salmon in northwestern America
 
-### bonito and prawns in Japan and Russia
+bonito and prawns in Japan and Russia
 
 and anchovy in Peru are all major food sources for people worldwide.
 
-## G LOSSARY
+# G LOSSARY
 
 alpine relating to mountainous or hilly areas above the line where trees grow
 
@@ -2184,77 +2184,77 @@ barrier object that blocks access to another object or place
 
 also, something that prevents something else from happening
 
-## breadth width
+breadth width
 
-## buff an off-white color
+buff an off-white color
 
-## canopy overhead covering
+canopy overhead covering
 
 channel lengthwise waterway that connects with other bodies of water
 
-## circulate flow
+circulate flow
 
-### cloudburst sudden heavy rainfall
+cloudburst sudden heavy rainfall
 
 continent one of the largest of Earth’s landmasses
 
 counterclockwise in the direction opposite to the way a clock’s hands move
 
-## as viewed from the front
+as viewed from the front
 
 crude oil oil taken from the ground and not yet separated into different products
 
-## also called petroleum
+also called petroleum
 
 cruise a pleasure trip on a large boat or ship
 
-## debris trash or fragments
+debris trash or fragments
 
-## drastic huge or dramatic
+drastic huge or dramatic
 
 ecosystem community of all the living things in a region
 
-## their physical environment
+their physical environment
 
-### and all their interrelationships
+and all their interrelationships
 
 evaporate change into a vapor or gaseous form
 
-## usually by means of heating
+usually by means of heating
 
-### frigid frozen or extremely cold
+frigid frozen or extremely cold
 
 gravity force that attracts objects to each other
 
 keeps people and objects anchored to the ground
 
-### and keeps planets circling the Sun
+and keeps planets circling the Sun
 
 habitat the physical environment in which a living thing dwells
 
-## handiwork creative product
+handiwork creative product
 
-## harness control
+harness control
 
 much as an animal may be hitched up and controlled by its harness
 
 hemisphere half of the planet Earth or any other globe-shaped object
 
-### marine having to do with the ocean
+marine having to do with the ocean
 
 mineral substance that is not animal or plant
 
 and is an important nutrient for living things
 
-## mischievous playfully naughty
+mischievous playfully naughty
 
-## overwhelm defeat
+overwhelm defeat
 
-## beat down
+beat down
 
-## or swallow up
+or swallow up
 
-## particle tiny bit or piece
+particle tiny bit or piece
 
 peninsula a finger of land with water on three sides
 
@@ -2266,70 +2266,70 @@ recycle to pass used or useless material through various changes in order to cre
 
 remains (noun) parts that are left after time passes or some event occurs
 
-### resort (noun) fancy vacation spot
+resort (noun) fancy vacation spot
 
 rotate (noun: rotation) spin or turn
 
-## sanctuary safe place
+sanctuary safe place
 
 species group of living things that have certain characteristics in common and share a name
 
-## teeming crowded
+teeming crowded
 
 timber wood that is cut down for use in building something
 
-## under tsunamis
+under tsunamis
 
-## Ridge
+# Ridge
 
-## volcanoes
+volcanoes
 
-## South America (continent)
+South America (continent)
 
-## whales
+whales
 
-## natural selection
+natural selection
 
 also called survival of the fittest (biology) page 8
 
-## map page 8
+map page 8
 
-## continents page 8
+continents page 8
 
 rainforests page 22, photograph page 22
 
-## Antarctica page 11
+# Antarctica page 11
 
 Did you know?
 
-## page 60
+page 60
 
-## Galapagos Islands page 46
+# Galapagos Islands page 46
 
 Niagara Falls (waterfall in North America) page 39
 
-## rivers page 27
+rivers page 27
 
-## Victoria Falls page 36
+# Victoria Falls page 36
 
 caves page 15, photograph page 14
 
-## marshes page 24
+marshes page 24
 
-## rivers page 27
+rivers page 27
 
-## Sun
+# Sun
 
-## tides page 52
+tides page 52
 
-## Victoria Falls page 36
+# Victoria Falls page 36
 
-## Grand Canyon page 40
+# Grand Canyon page 40
 
-## Great Barrier Reef page 48
+# Great Barrier Reef page 48
 
 stalactites and stalagmites (mineral formations) page 14
 
-### Nile River (river in Africa) page 34
+Nile River (river in Africa) page 34
 
-### Zambezi River (river in Africa) page 36
+Zambezi River (river in Africa) page 36

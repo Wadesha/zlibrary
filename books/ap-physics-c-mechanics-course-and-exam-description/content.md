@@ -1,8 +1,8 @@
 AP® Physics C: Mechanics
 
-## COURSE AND EXAM DESCRIPTION
+# COURSE AND EXAM DESCRIPTION
 
-## Effective Fall 2024
+# Effective Fall 2024
 
 AP COURSE AND EXAM DESCRIPTIONS ARE UPDATED PERIODICALLY
 
@@ -12,21 +12,21 @@ collegeboard.
 
 org) to determine whether a more recent course and exam description is available.
 
-## What AP® Stands For
+What AP® Stands For
 
 Thousands of Advanced Placement teachers have contributed to the principles articulated here.
 
-## These principles are not new
+# These principles are not new
 
-## they are
+they are
 
-## rather
+rather
 
 a reminder of how AP already works in classrooms nationwide.
 
 The following principles are designed to ensure that teachers’ expertise is respected
 
-### required course content is understood
+required course content is understood
 
 and that students are academically challenged and free to make up their own minds.
 
@@ -52,7 +52,7 @@ If a school bans required topics from their AP courses
 
 the AP Program removes the AP designation from that course and its inclusion in the AP Course Ledger provided to colleges and universities.
 
-## For example
+# For example
 
 the concepts of evolution are at the heart of college biology
 
@@ -68,7 +68,7 @@ AP students are not required to feel certain ways about themselves or the course
 
 AP courses instead develop students’ abilities to assess the credibility of sources
 
-## draw conclusions
+draw conclusions
 
 and make up their own minds.
 
@@ -78,17 +78,17 @@ As the AP English Literature course description states
 
 but are expected to have the maturity to analyze perspectives different from their own and to question the meaning
 
-## purpose
+purpose
 
 or effect of such content within the literary work as a whole.
 
 AP courses foster an open-minded approach to the histories and cultures of different peoples.
 
-### The study of different nationalities
+# The study of different nationalities
 
-## cultures
+cultures
 
-## religions
+religions
 
 races, and ethnicities is essential within a variety of academic disciplines.
 
@@ -100,7 +100,7 @@ Students are encouraged to evaluate arguments but not one another.
 
 AP classrooms respect diversity in backgrounds
 
-## experiences
+experiences
 
 and viewpoints.
 
@@ -124,7 +124,7 @@ AP courses and exams are then further validated by the American Council on Educa
 
 The AP Program encourages educators to review these principles with parents and students so they know what to expect in an AP course.
 
-### Advanced Placement is always a choice
+# Advanced Placement is always a choice
 
 and it should be an informed one.
 
@@ -132,39 +132,39 @@ AP teachers should be given the confidence and clarity that once parents have en
 
 they have agreed to a classroom experience that embodies these principles.
 
-## Contents
+# Contents
 
-## Acknowledgments
+# Acknowledgments
 
-## About AP
+# About AP
 
-## AP Resources and Supports
+# AP Resources and Supports
 
-## Instructional Model
+# Instructional Model
 
 About the AP Physics C: Mechanics Course
 
-## College Course Equivalent
+# College Course Equivalent
 
-## Prerequisites
+# Prerequisites
 
-## Laboratory Requirement
+# Laboratory Requirement
 
-## COURSE FRAMEWORK
+# COURSE FRAMEWORK
 
-## Introduction
+# Introduction
 
-## Course Framework Components
+# Course Framework Components
 
-## Science Practices
+# Science Practices
 
-## Course Content
+# Course Content
 
-## Course at a Glance
+# Course at a Glance
 
-## Unit Guides
+# Unit Guides
 
-## Using the Unit Guides
+# Using the Unit Guides
 
 UNIT 1: Kinematics
 
@@ -176,347 +176,347 @@ UNIT 4: Linear Momentum
 
 UNIT 5: Torque and Rotational Dynamics
 
-## UNIT 6
+# UNIT 6
 
-### Energy and Momentum of Rotating Systems
+# Energy and Momentum of Rotating Systems
 
 UNIT 7: Oscillations
 
-## LABORATORY INVESTIGATIONS
+# LABORATORY INVESTIGATIONS
 
-## Lab Experiments
+# Lab Experiments
 
-## How to Set Up a Lab Program
+# How to Set Up a Lab Program
 
-## INSTRUCTIONAL APPROACHES
+# INSTRUCTIONAL APPROACHES
 
-### Selecting and Using Course Materials
+# Selecting and Using Course Materials
 
-### Guided Inquiry in AP Physics C
+# Guided Inquiry in AP Physics C
 
-## Mechanics
+# Mechanics
 
-## Instructional Strategies
+# Instructional Strategies
 
-### Developing the Science Practices
+# Developing the Science Practices
 
-## EXAM INFORMATION
+# EXAM INFORMATION
 
-## Exam Overview
+# Exam Overview
 
 How Student Learning Is Assessed on the AP Exam
 
 Task Verbs Used in Free-Response Questions
 
-## Sample Exam Questions
+# Sample Exam Questions
 
-## SCORING GUIDELINES
+# SCORING GUIDELINES
 
 Question 1: Mathematical Routines
 
-## Question 2
+# Question 2
 
-### Translation Between Representations
+# Translation Between Representations
 
-## Question 3
+# Question 3
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-## Question 4
+# Question 4
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
 
-## APPENDIX
+# APPENDIX
 
 Vocabulary and Definitions of Important Ideas in AP Physics
 
 Table of Information: Equations
 
-## Acknowledgments
+# Acknowledgments
 
 College Board would like to acknowledge the following committee members
 
-## consultants
+consultants
 
 and reviewers for their assistance with and commitment to the development of this course.
 
 All individuals and their affiliations were current at the time of contribution.
 
-## Hamza Balci
+# Hamza Balci
 
-## Kent State University
+# Kent State University
 
 Kent, OH
 
-## Suzanne Brahmia
+# Suzanne Brahmia
 
-## University of Washington
+# University of Washington
 
-## Seattle
+# Seattle
 
-## Eric Burkholder
+# Eric Burkholder
 
-## Stanford University
+# Stanford University
 
-## Stanford
+# Stanford
 
-## Gerald Cleaver
+# Gerald Cleaver
 
-## Baylor University
+# Baylor University
 
 Waco, TX
 
-## Robert Davis
+# Robert Davis
 
-## Brigham Young University
+# Brigham Young University
 
 Provo, UT
 
-## Veronica Ellingson
+# Veronica Ellingson
 
-## Hudson Senior High School
+# Hudson Senior High School
 
-## Hudson
+# Hudson
 
-## Karin Foss
+# Karin Foss
 
-## Wayzata High School
+# Wayzata High School
 
-## Plymouth
+# Plymouth
 
-## Herbert Fotso
+# Herbert Fotso
 
 The State University of New York at Buffalo
 
-## Buffalo
+# Buffalo
 
-## Kristin Glover
+# Kristin Glover
 
-## Prairie Ridge High School
+# Prairie Ridge High School
 
-## Crystal Lake
+# Crystal Lake
 
-## Illinois
+# Illinois
 
-## Kathy Harper
+# Kathy Harper
 
-### Case Western Reserve University
+# Case Western Reserve University
 
-## Cleveland
+# Cleveland
 
-## Mark Hossler
+# Mark Hossler
 
-## Landmark Christian School
+# Landmark Christian School
 
-## Fairburn
+# Fairburn
 
-## Stefan Jeglinski
+# Stefan Jeglinski
 
-## University of North Carolina
+# University of North Carolina
 
-## Chapel Hill
+# Chapel Hill
 
-## Kathy Koenig
+# Kathy Koenig
 
-## University of Cincinnati
+# University of Cincinnati
 
-## Cincinnati
+# Cincinnati
 
-## Kristine Lang
+# Kristine Lang
 
-## Colorado College
+# Colorado College
 
-## Colorado Springs
+# Colorado Springs
 
-## Robynne Lock
+# Robynne Lock
 
-## Texas A and M University
+# Texas A and M University
 
-## Commerce
+# Commerce
 
-## Commerce
+# Commerce
 
-## Sam Lofland
+# Sam Lofland
 
-## Rowan University
+# Rowan University
 
-## Glassboro
+# Glassboro
 
-## New Jersey
+# New Jersey
 
-## Joe Mancino
+# Joe Mancino
 
-## Glastonbury High School
+# Glastonbury High School
 
-## Glastonbury
+# Glastonbury
 
-## Ricardo Markland
+# Ricardo Markland
 
-### Miami Coral Park Senior High School
+# Miami Coral Park Senior High School
 
 Miami, FL
 
-## Dee Dee Messer
+# Dee Dee Messer
 
-## William Mason High School
+# William Mason High School
 
 Mason, OH
 
-## Matthew Milligan
+# Matthew Milligan
 
-## Farragut High School
+# Farragut High School
 
-## Knoxville
+# Knoxville
 
-## Holley Mosley
+# Holley Mosley
 
-## Liberty High School
+# Liberty High School
 
-## Frisco
+# Frisco
 
-## Heather Rave
+# Heather Rave
 
 St. Thomas Aquinas College
 
-## Orangeburg
+# Orangeburg
 
-## Matt Sckalor
+# Matt Sckalor
 
-## Great Neck South High School
+# Great Neck South High School
 
-## Great Neck
+# Great Neck
 
-## Peter Sheldon
+# Peter Sheldon
 
-## Randolph College
+# Randolph College
 
-## Lynchburg
+# Lynchburg
 
-## Gay Stewart
+# Gay Stewart
 
-## West Virginia University
+# West Virginia University
 
-## Morgantown
+# Morgantown
 
-## Shelly Strand
+# Shelly Strand
 
-## West Fargo High School
+# West Fargo High School
 
-## West Fargo
+# West Fargo
 
-## Dawn Striker
+# Dawn Striker
 
-## Longmeadow High School
+# Longmeadow High School
 
-## Longmeadow
+# Longmeadow
 
-## Oather Strawderman
+# Oather Strawderman
 
-### Lawrence Free State High School
+# Lawrence Free State High School
 
-## Lawrence
+# Lawrence
 
-## Yau-Jong Twu
+# Yau-Jong Twu
 
-## Eleanor Roosevelt High School
+# Eleanor Roosevelt High School
 
-## Greenbelt
+# Greenbelt
 
-## Brian Utter
+# Brian Utter
 
-### University of California Merced
+# University of California Merced
 
-## Merced
+# Merced
 
-## Matthew Vonk
+# Matthew Vonk
 
-### University of Wisconsin-River Falls
+# University of Wisconsin-River Falls
 
-## River Falls
+# River Falls
 
-## College Board Staff
+# College Board Staff
 
-## Amy Johnson
+# Amy Johnson
 
-## Director
+# Director
 
-### AP Physics Curriculum and Assessment
+# AP Physics Curriculum and Assessment
 
-## Jesse Miner
+# Jesse Miner
 
-## Director
+# Director
 
-### AP Physics Curriculum and Assessment
+# AP Physics Curriculum and Assessment
 
-## John Pinizzotto
+# John Pinizzotto
 
-## Director
+# Director
 
-### AP Physics Curriculum and Assessment
+# AP Physics Curriculum and Assessment
 
-## Shu-Kang Chen
+# Shu-Kang Chen
 
-## Executive Director
+# Executive Director
 
-### AP STEM Curriculum and Assessment
+# AP STEM Curriculum and Assessment
 
-## Claire Lorenz
+# Claire Lorenz
 
-## Senior Director
+# Senior Director
 
-### AP Classroom Instruction Products
+# AP Classroom Instruction Products
 
-## Serena Magrogan
+# Serena Magrogan
 
-## Senior Director
+# Senior Director
 
-## AP Science Department Head
+# AP Science Department Head
 
-## Laura Keegan
+# Laura Keegan
 
-## Director
+# Director
 
-### Product Development and Editorial
+# Product Development and Editorial
 
-## AP Classroom Instruction
+# AP Classroom Instruction
 
-## Daniel McDonough
+# Daniel McDonough
 
-## Senior Director
+# Senior Director
 
-### AP Content and Assessment Publications
+# AP Content and Assessment Publications
 
-## Allison Thurber
+# Allison Thurber
 
-## Vice President
+# Vice President
 
-## AP Curriculum and Assessment
+# AP Curriculum and Assessment
 
-## SPECIAL THANKS Brian Brown
+# SPECIAL THANKS Brian Brown
 
-## Anders Gardestig
+# Anders Gardestig
 
-## Ann Marie Zolandz
+# Ann Marie Zolandz
 
-## Angela Jensvold
+# Angela Jensvold
 
-## and Mark Widmer
+and Mark Widmer
 
-## About AP
+# About AP
 
 The Advanced Placement® Program (AP®) enables willing and academically prepared students to pursue college-level studies—with the opportunity to earn college credit
 
-## advanced placement
+advanced placement
 
 or both—while still in high school.
 
-### Through AP courses in 40 subjects
+# Through AP courses in 40 subjects
 
-### each culminating in a challenging exam
+each culminating in a challenging exam
 
-### students learn to think critically
+students learn to think critically
 
-## construct solid arguments
+construct solid arguments
 
 and see many sides of an issue—skills that prepare them for college and beyond.
 
@@ -524,19 +524,19 @@ Taking AP courses demonstrates to college admission officers that students have 
 
 and research indicates that students who score a 3 on AP Exams typically experience greater academic success in college and are more likely to earn a bachelor’s degree.
 
-## AP Resources and Supports
+# AP Resources and Supports
 
-## Instructional Model
+# Instructional Model
 
 About the AP Physics C: Mechanics Course
 
-## College Course Equivalent
+# College Course Equivalent
 
-## Prerequisites
+# Prerequisites
 
-## Laboratory Requirement
+# Laboratory Requirement
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics course is designed as the equivalent of a first-semester college calculus-based physics course.
 
@@ -544,19 +544,19 @@ The course focuses on the study of motion and the causes of motion.
 
 Students should have a strong foundation in high school physics and should be concurrently enrolled in or have completed a calculus course.
 
-### A laboratory component is required
+# A laboratory component is required
 
 and students are expected to spend at least 25% of instructional time on hands-on laboratory work.
 
-### AP teachers have access to free
+# AP teachers have access to free
 
-### online resources through AP Classroom
+online resources through AP Classroom
 
-## including topic questions
+including topic questions
 
-## a question bank
+a question bank
 
-## personal progress checks
+personal progress checks
 
 and the AP question bank.
 
@@ -576,7 +576,7 @@ and AP Exams are developed and scored by college faculty and experienced AP teac
 
 Most four-year colleges and universities in the United States grant credit
 
-## advanced placement
+advanced placement
 
 or both on the basis of successful AP Exam scores—more than 3
 
@@ -584,7 +584,7 @@ or both on the basis of successful AP Exam scores—more than 3
 
 We encourage the elimination of barriers that restrict access to AP for students from ethnic
 
-## racial
+racial
 
 and socioeconomic groups that have been traditionally underserved.
 
@@ -594,7 +594,7 @@ which can prepare them for AP success.
 
 It is only through a commitment to equitable preparation and access that true equity and excellence can be achieved.
 
-## AP Course Development
+# AP Course Development
 
 In an ongoing effort to maintain alignment with best practices in college-level learning
 
@@ -606,7 +606,7 @@ Individual teachers are responsible for designing their own curriculum for AP co
 
 selecting appropriate college-level readings
 
-## assignments
+assignments
 
 and resources.
 
@@ -616,13 +616,13 @@ It also organizes the content and skills into a series of units that represent a
 
 The intention of this publication is to respect teachers’ time and expertise by providing a roadmap that they can modify and adapt to their local priorities and preferences.
 
-## Moreover
+# Moreover
 
 by organizing the AP course content and skills into units
 
 the AP Program is able to provide teachers and students with free formative AP questions and through-course performance assessments
 
-## as applicable
+as applicable
 
 are scored by thousands of college faculty and expert AP teachers.
 
@@ -630,11 +630,11 @@ Most are scored at the annual AP Reading
 
 while a small portion is scored online.
 
-### All AP Readers are thoroughly trained
+# All AP Readers are thoroughly trained
 
 and their work is monitored throughout the Reading for fairness and consistency.
 
-## In each subject
+# In each subject
 
 a highly respected college faculty member serves as Chief Faculty Consultant and
 
@@ -646,7 +646,7 @@ Scores on the free-response questions and performance assessments are weighted a
 
 and this raw score is converted into a composite AP score on a 1–5 scale.
 
-## The AP Course Audit
+# The AP Course Audit
 
 The AP Program unequivocally supports the principle that each school implements its own curriculum that will enable students to develop the content understandings and skills described in the course framework.
 
@@ -664,7 +664,7 @@ This process ensures that AP teachers’ courses meet or exceed the curricular a
 
 The AP Course Audit form is submitted by the AP teacher and the school principal (or designated administrator) to confirm awareness and understanding of the curricular and resource requirements.
 
-## A syllabus or course outline
+# A syllabus or course outline
 
 detailing how course requirements are met
 
@@ -674,11 +674,11 @@ Please visit collegeboard.
 
 org/apcourseaudit for more information to support the preparation and submission of materials for the AP Course Audit.
 
-### How the AP Program Is Developed
+# How the AP Program Is Developed
 
 The scope of content for an AP course and exam is derived from an analysis of hundreds of syllabi and course offerings of colleges and universities.
 
-## Using this research and data
+# Using this research and data
 
 a committee of college faculty and expert AP teachers work within the scope of the corresponding college course to articulate what students should know and be able to do upon the completion of the AP course.
 
@@ -690,11 +690,11 @@ ensuring the exam questions are aligned to the course framework.
 
 The AP Exam development process is a multiyear endeavor
 
-### all AP Exams undergo extensive review
+all AP Exams undergo extensive review
 
-## revision
+revision
 
-## piloting
+piloting
 
 and analysis to ensure that questions are accurate
 
@@ -704,11 +704,11 @@ and that there is an appropriate spread of difficulty across the questions.
 
 Committee members are selected to represent a variety of perspectives and institutions (public and private
 
-### small and large schools and colleges)
+small and large schools and colleges)
 
-## and a range of gender
+and a range of gender
 
-## racial/ethnic
+racial/ethnic
 
 and regional groups.
 
@@ -724,9 +724,9 @@ College Board gathers feedback from various stakeholders in both secondary schoo
 
 This feedback is carefully considered to ensure that AP courses and exams are able to provide students with a college-level learning experience and the opportunity to demonstrate their qualifications for advanced placement or college credit.
 
-## How AP Exams Are Scored
+# How AP Exams Are Scored
 
-## The exam scoring process
+# The exam scoring process
 
 like the course and exam development process
 
@@ -736,7 +736,7 @@ While multiple-choice questions are scored by machine
 
 the free-response questions and through-course performance assessments
 
-## as applicable
+as applicable
 
 are scored by thousands of college faculty and expert AP teachers.
 
@@ -744,11 +744,11 @@ Most are scored at the annual AP Reading
 
 while a small portion is scored online.
 
-### All AP Readers are thoroughly trained
+# All AP Readers are thoroughly trained
 
 and their work is monitored throughout the Reading for fairness and consistency.
 
-## In each subject
+# In each subject
 
 a highly respected college faculty member serves as Chief Faculty Consultant and
 
@@ -762,9 +762,9 @@ and this raw score is converted into a composite AP score on a 1–5 scale.
 
 AP Exams are not norm-referenced or graded on a curve.
 
-## Instead
+# Instead
 
-## they are criterion-referenced
+they are criterion-referenced
 
 which means that every student who meets the criteria for an AP score of 2
 
@@ -782,11 +782,11 @@ The criteria for the number of points students must earn on the AP Exam to recei
 
 § The number of points college faculty indicate
 
-### after reviewing each AP question
+after reviewing each AP question
 
 that they expect is necessary to achieve each AP grade level.
 
-### Using and Interpreting AP Scores
+# Using and Interpreting AP Scores
 
 The extensive work done by college faculty and AP teachers in the development of the course and exam and throughout the scoring process ensures that AP Exam scores accurately represent students’ achievement in the equivalent college course.
 
@@ -794,19 +794,19 @@ Frequent and regular research studies establish the validity of AP scores as fol
 
 Credit Recommendation College Grade Equivalent
 
-## Extremely well qualified A
+# Extremely well qualified A
 
-## 4 A−, B+, B
+4 A−, B+, B
 
 Well qualified B+, B, B−
 
-## 3 B−, C+, C
+3 B−, C+, C
 
 Qualified C+, C, C−
 
-## Possibly qualified n/a
+Possibly qualified n/a
 
-## 2 No recommendation n/a
+2 No recommendation n/a
 
 While colleges and universities are responsible for setting their own credit and placement policies
 
@@ -822,9 +822,9 @@ a search engine is available at collegeboard.
 
 org/creditandplacement/searchcredit-policies.
 
-## BECOMING AN AP READER
+# BECOMING AN AP READER
 
-## Each June
+# Each June
 
 thousands of AP teachers and college faculty members from around the world gather for seven days in multiple locations to evaluate and score the free-response sections of the AP Exams.
 
@@ -832,7 +832,7 @@ Ninety-eight percent of surveyed educators who took part in the AP Reading say i
 
 There are many reasons to consider becoming an AP Reader
 
-## including opportunities to
+including opportunities to
 
 § Bring positive changes to the classroom
 
@@ -844,17 +844,17 @@ AP Readers gain exposure to the quality and depth of the responses from the enti
 
 and thus are better able to assess their students’ work in the classroom.
 
-## § Receive compensation
+§ Receive compensation
 
 AP Readers are compensated for their work during the Reading.
 
-## Expenses
+# Expenses
 
-## lodging
+lodging
 
 and meals are covered for Readers who travel.
 
-## § Score from home
+§ Score from home
 
 AP Readers have online distributed scoring opportunities for certain subjects.
 
@@ -866,11 +866,11 @@ org/apreading for details.
 
 AP Readers earn professional development hours and CEUs that can be applied to PD requirements by states
 
-## districts
+districts
 
 and schools.
 
-## How to Apply
+# How to Apply
 
 Visit collegeboard.
 
@@ -880,7 +880,7 @@ lication process.
 
 educators—make improvements to the way they
 
-## AP Classroom
+# AP Classroom
 
 AP Classroom is a dedicated online platform designed to support teachers and students throughout their AP experience.
 
@@ -888,7 +888,7 @@ The platform provides a variety of powerful resources and tools to provide yearl
 
 offering opportunities to give and get meaningful feedback on student progress.
 
-## UNIT GUIDES
+# UNIT GUIDES
 
 Appearing in this publication and on AP Classroom
 
@@ -900,15 +900,15 @@ Each Unit Guide suggests a sequence and pacing of content
 
 scaffolds skill instruction across units
 
-## organizes content into topics
+organizes content into topics
 
 and provides tips on taking the AP Exam.
 
-## PROGRESS CHECKS
+# PROGRESS CHECKS
 
 Formative AP questions for every unit provide feedback to students on the areas where they need to focus.
 
-## Available online
+# Available online
 
 Progress Checks measure knowledge and skills through multiple-choice questions with rationales to explain correct and incorrect answers
 
@@ -920,7 +920,7 @@ the results of these assessments cannot be used to evaluate teacher effectivenes
 
 and any such misuses are grounds for losing school authorization to offer AP courses.
 
-## REPORTS
+# REPORTS
 
 The reports section provides teachers with a one-stop shop for student results on all assignment types
 
@@ -930,19 +930,19 @@ Teachers can view class trends and see where students struggle with content and 
 
 Students can view their own progress over time to improve their performance before the AP Exam.
 
-## QUESTION BANK
+# QUESTION BANK
 
 The Question Bank is a searchable library of all AP questions that teachers use to build custom practice for their students.
 
 Teachers can create and assign assessments with formative topic questions or questions from practice or released AP Exams.
 
-### Class Section Setup and Enrollment
+# Class Section Setup and Enrollment
 
 Teachers and students sign in to or create their College Board accounts.
 
 Teachers confirm that they have added the course they teach to their AP Course Audit account and have had it approved by their school’s administrator.
 
-## Teachers or AP coordinators
+# Teachers or AP coordinators
 
 depending on who the school has decided is responsible
 
@@ -952,27 +952,27 @@ Students join class sections with a join code provided by their teacher or AP co
 
 Students will be asked for additional information upon joining their first class section.
 
-## *To report misuses
+*To report misuses
 
-## please call
+please call
 
-## 877-274-6474 (International
+877-274-6474 (International
 
 212-632-1781).
 
-## Instructional Model
+# Instructional Model
 
 Integrating AP resources throughout the course can help students develop skills and conceptual understandings.
 
 The instructional model outlined below shows possible ways to incorporate AP resources into the classroom.
 
-## Plan
+# Plan
 
 Teachers may consider the following approaches as they plan their instruction before teaching each unit.
 
 Review the overview at the start of each Unit Guide to identify essential questions
 
-## conceptual understandings
+conceptual understandings
 
 and skills for each unit.
 
@@ -982,35 +982,35 @@ and then plan appropriate pacing for students.
 
 Identify useful strategies in the Instructional Approaches section to help teach the concepts and skills.
 
-## Teach
+# Teach
 
-## When teaching
+# When teaching
 
 supporting resources could be used to build students’ conceptual understanding and their mastery of skills.
 
 Use the topic pages in the Unit Guides to identify the required content.
 
-### Integrate the content with a skill
+# Integrate the content with a skill
 
 considering any appropriate scaffolding.
 
 Employ any of the instructional strategies previously identified.
 
-## Use the available resources
+# Use the available resources
 
-## including AP Daily
+including AP Daily
 
 on the topic pages to bring a variety of assets into the classroom.
 
-## Assess
+# Assess
 
 Teachers can measure student understanding of the content and skills covered in the unit and provide actionable feedback to students.
 
-## As you teach each topic
+# As you teach each topic
 
 use AP Classroom to assign student Topic Questions as a way to continuously check student understanding and provide just in time feedback.
 
-## At the end of each unit
+# At the end of each unit
 
 use AP Classroom to assign students Progress Checks
 
@@ -1024,7 +1024,7 @@ Create additional practice opportunities using the Question Bank and assign them
 
 About the AP Physics C: Mechanics Course
 
-## AP Physics C
+# AP Physics C
 
 Mechanics is a calculus-based introductory college-level physics course.
 
@@ -1032,35 +1032,35 @@ Students cultivate their understanding of physics by developing models of physic
 
 Students build their understanding of physical models as they explore and solve problems in these topics
 
-## Kinematics
+# Kinematics
 
-### Forces and Translational Dynamics
+# Forces and Translational Dynamics
 
 Work, Energy, and Power
 
-## Linear Momentum
+# Linear Momentum
 
-### Torque and Rotational Dynamics
+# Torque and Rotational Dynamics
 
-### Energy and Momentum of Rotating Systems
+# Energy and Momentum of Rotating Systems
 
-## Oscillations
+# Oscillations
 
-## College Course Equivalent
+# College Course Equivalent
 
-## AP Physics C
+# AP Physics C
 
 Mechanics is equivalent to the first course in an introductory college course sequence in calculus-based physics.
 
-## Prerequisites
+# Prerequisites
 
-## Students should have taken
+# Students should have taken
 
-## or be concurrently taking
+or be concurrently taking
 
 calculus.
 
-## Laboratory Requirement
+# Laboratory Requirement
 
 This course requires that 25 percent of instructional time be spent in hands-on laboratory work
 
@@ -1070,13 +1070,13 @@ Inquiry-based laboratory experiences support the AP Physics C
 
 Mechanics course and AP Course Audit curricular requirements by providing opportunities for students to engage in the science practices as they design plans for experiments
 
-## make predictions
+make predictions
 
-## collect and analyze data
+collect and analyze data
 
-## apply mathematical routines
+apply mathematical routines
 
-## develop explanations
+develop explanations
 
 and communicate about their work.
 
@@ -1084,19 +1084,19 @@ Colleges may require students to present their laboratory materials from AP scie
 
 so students should be encouraged to retain their laboratory notebooks
 
-## reports
+reports
 
 and other materials.
 
-## AP PHYSICS C
+# AP PHYSICS C
 
-### MECHANICS Course Framework Introduction
+# MECHANICS Course Framework Introduction
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics course outlined in this framework reflects a commitment to what physics teachers
 
-## professors
+professors
 
 and researchers have agreed is the main goal of a college-level physics course
 
@@ -1106,37 +1106,37 @@ By confronting complex physical situations or scenarios
 
 the course is designed to enable students to develop the ability to reason about physical phenomena using important science practices
 
-### such as explaining relationships
+such as explaining relationships
 
 applying and justifying the use of mathematical routines
 
-## designing experiments
+designing experiments
 
-## analyzing data
+analyzing data
 
 and making connections across multiple topics within the course.
 
-### To foster this deeper level of learning
+# To foster this deeper level of learning
 
-## the AP Physics C
+the AP Physics C
 
-### Mechanics course defines concepts
+# Mechanics course defines concepts
 
-## skills
+skills
 
 and understandings required by representative colleges and universities for granting college credit and/or placement.
 
 Students will practice reasoning skills used by physicists by discussing and debating
 
-## with peers
+with peers
 
 the physical phenomena investigated in class
 
 as well as by designing and conducting inquiry-based laboratory investigations to solve problems through first-hand observations
 
-## data collection
+data collection
 
-## analysis
+analysis
 
 and interpretation.
 
@@ -1144,31 +1144,31 @@ This document is not a complete curriculum.
 
 Teachers create their own local curriculum by selecting
 
-## for each concept
+for each concept
 
 content that enables students to explore the course learning objectives and meets state or local requirements.
 
 This result is a course that prepares students for college credit and/or placement.
 
-### Course Framework Components Overview
+# Course Framework Components Overview
 
 This course framework provides a clear and detailed description of the course requirements necessary for student success.
 
 The framework specifies what students must know
 
-## be able to do
+be able to do
 
 and understand to qualify for college credit and/or placement.
 
 The course framework includes two essential components
 
-## 1 SCIENCE PRACTICES
+1 SCIENCE PRACTICES
 
 The science practices are central to the study and practice of physics.
 
 Students should develop and apply the described practices on a regular basis over the span of the course.
 
-## 2 COURSE CONTENT
+2 COURSE CONTENT
 
 The course content is organized into commonly taught units of study that provide a suggested sequence for the course
 
@@ -1176,9 +1176,9 @@ and detail required content and conceptual understandings that colleges and univ
 
 in order to qualify for college credit and/or placement.
 
-## AP PHYSICS C
+# AP PHYSICS C
 
-## MECHANICS Science Practices
+# MECHANICS Science Practices
 
 The table that follows presents the science practices that students should develop during the AP Physics C
 
@@ -1200,7 +1200,7 @@ More detailed information about teaching the science practices can be found in t
 
 AP PHYSICS C: MECHANICS
 
-## Science Practices
+# Science Practices
 
 Practice 1: Creating Representations
 
@@ -1208,31 +1208,31 @@ Create representations that depict physical phenomena.
 
 Practice 2: Mathematical Routines
 
-## Conduct analyses to derive
+# Conduct analyses to derive
 
-## calculate
+calculate
 
-## estimate
+estimate
 
 or predict.
 
-## Practice 3
+# Practice 3
 
 Scientific Questioning and Argumentation
 
-### Describe experimental procedures
+# Describe experimental procedures
 
-## analyze data
+analyze data
 
 and support claims.
 
-## SKILLS
+# SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -1254,45 +1254,45 @@ D Predict new values or factors of change of physical quantities using functiona
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Course Content
+# Course Content
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics course framework provides a clear detailed description of the course requirements for student success.
 
 The framework specifies what students must know
 
-## be able to do
+be able to do
 
 and understand with a focus on ideals that encompass core principles
 
-## theories
+theories
 
 and processes of physics.
 
 This framework also encourages instruction that prepares students to make connections across domains through a broader way of thinking about the physical world.
 
-## UNITS
+# UNITS
 
 The course content is organized into commonly taught units.
 
 The units have been arranged in a logical sequence frequently found in many college courses and textbooks.
 
-### The seven units in AP Physics C
+# The seven units in AP Physics C
 
 Mechanics and their relevant weightings on the multiple-choice section of the AP Exam are listed on the next page.
 
@@ -1306,43 +1306,43 @@ teachers are free to adjust the pacing based on the needs of their students
 
 alternate schedules (e.g.
 
-## block scheduling)
+block scheduling)
 
 or their school’s academic calendar.
 
 Exam Weighting for the Multiple-Choice Section of the AP Physics C
 
-## Mechanics Exam
+# Mechanics Exam
 
 Units of Instruction: Exam Weighting
 
 Unit 1: Kinematics: 10–15%
 
-## Unit 2
+# Unit 2
 
-### Force and Translational Dynamics
+# Force and Translational Dynamics
 
-## 20–25%
+20–25%
 
 Unit 3: Work, Energy, and Power: 15–25%
 
 Unit 4: Linear Momentum: 10–20%
 
-## Unit 5
+# Unit 5
 
-### Torque and Rotational Dynamics
+# Torque and Rotational Dynamics
 
-## 10–15%
+10–15%
 
-## Unit 6
+# Unit 6
 
-### Energy and Momentum of Rotating Systems
+# Energy and Momentum of Rotating Systems
 
-## 10–15%
+10–15%
 
 Unit 7: Oscillations: 10–15%
 
-## TOPICS
+# TOPICS
 
 Each unit is divided into teachable segments called topics.
 
@@ -1350,9 +1350,9 @@ Visit the topic pages (starting on page 23) to see all the required content for 
 
 Learning Objectives and Science Practices
 
-## In the AP Physics C
+# In the AP Physics C
 
-## Mechanics course and exam
+# Mechanics course and exam
 
 every exam question of student proficiency will be aligned to a learning objective and a skill.
 
@@ -1362,13 +1362,13 @@ while the skill represents the science practice required to successfully complet
 
 The three categories of science practices are described as discrete practices
 
-## but they are
+but they are
 
-## in fact
+in fact
 
 interrelated.
 
-## For example
+# For example
 
 scientific questions and predictions are associated with the underlying mathematical relationships
 
@@ -1376,33 +1376,33 @@ and those relationships are used to create diagrams and graphs.
 
 The ordering of the science practices is not meant to describe any hierarchy of importance or difficulty.
 
-## The three science practices
+# The three science practices
 
-## and their associated skills
+and their associated skills
 
 will be applied to all learning objectives in the course framework.
 
-## The task verb “describe
+The task verb “describe
 
 ” which is used in nearly all learning objectives
 
 encompasses the range of possible graphical
 
-## mathematical
+mathematical
 
 or verbal skill applications.
 
-### Within these multiple representations
+# Within these multiple representations
 
 students should be able to “describe” a physical concept graphically
 
-## mathematically
+mathematically
 
 and verbally.
 
-## For example
+# For example
 
-### for a given learning objective
+for a given learning objective
 
 teachers are encouraged to ask the following questions about a physical phenomenon
 
@@ -1418,11 +1418,11 @@ or what data would students analyze?
 
 - How could the course content be used as evidence to justify or support a claim about the behavior of a system
 
-## physical phenomena
+physical phenomena
 
 or outcome of an experiment?
 
-## Required Equations
+# Required Equations
 
 Not all equations in this course framework appear on the equation sheet provided to students while taking the AP Physics C
 
@@ -1434,49 +1434,49 @@ or to demonstrate the final results of derivations expected of students on the e
 
 These equations are denoted as “Derived Equations.
 
-## ” Additionally
+” Additionally
 
 variables used within this course framework follow the definitions given on the equation sheet.
 
 For a complete list of the equations available to students on the AP Physics C
 
-## Mechanics Exam
+# Mechanics Exam
 
-## please see the AP Physics C
+please see the AP Physics C
 
-### Mechanics Table of Information
+# Mechanics Table of Information
 
 Equations in the Appendix.
 
-## Course at a Glance
+# Course at a Glance
 
 UNIT 1: Kinematics
 
-## ~14/~19 Class Periods
+~14/~19 Class Periods
 
 AP Exam Weighting: 10–15%
 
-## 1.1 Scalars and Vectors
+# 1.1 Scalars and Vectors
 
-### 1.2 Displacement, Velocity, and Acceleration
+# 1.2 Displacement, Velocity, and Acceleration
 
-## 1.3 Representing Motion
+# 1.3 Representing Motion
 
-### 1.4 Reference Frames and Relative Motion
+# 1.4 Reference Frames and Relative Motion
 
-### 1.5 Motion in Two or Three Dimensions
+# 1.5 Motion in Two or Three Dimensions
 
-## 1.6 Gravitational Force
+# 1.6 Gravitational Force
 
-### 1.7 Kinetic and Static Friction
+# 1.7 Kinetic and Static Friction
 
-## 1.8 Spring Forces
+# 1.8 Spring Forces
 
-## 1.9 Resistive Forces
+# 1.9 Resistive Forces
 
-## 1.10 Circular Motion
+# 1.10 Circular Motion
 
-## Progress Check 1
+# Progress Check 1
 
 Multiple-choice: ~18 questions
 
@@ -1484,31 +1484,31 @@ Free-response: 4 questions
 
 UNIT 2: Force and Translational Dynamics
 
-## ~15/~25 Class Periods
+~15/~25 Class Periods
 
 AP Exam Weighting: 20–25%
 
-### 2.1 Systems and Center of Mass
+# 2.1 Systems and Center of Mass
 
-### 2.2 Forces and Free-Body Diagrams
+# 2.2 Forces and Free-Body Diagrams
 
-## 2.3 Newton’s Third Law
+# 2.3 Newton’s Third Law
 
-## 2.4 Newton’s First Law
+# 2.4 Newton’s First Law
 
-## 2.5 Newton’s Second Law
+# 2.5 Newton’s Second Law
 
-## 2.6 Gravitational Force
+# 2.6 Gravitational Force
 
-### 2.7 Kinetic and Static Friction
+# 2.7 Kinetic and Static Friction
 
-## 2.8 Spring Forces
+# 2.8 Spring Forces
 
-## 2.9 Resistive Forces
+# 2.9 Resistive Forces
 
-## 2.10 Circular Motion
+# 2.10 Circular Motion
 
-## Progress Check 2
+# Progress Check 2
 
 Multiple-choice: ~30 questions
 
@@ -1516,21 +1516,21 @@ Free-response: 4 questions
 
 UNIT 3: Work, Energy, and Power
 
-## ~12/~17 Class Periods
+~12/~17 Class Periods
 
 AP Exam Weighting: 15–25%
 
-### 3.1 Translational Kinetic Energy
+# 3.1 Translational Kinetic Energy
 
-## 3.2 Work
+# 3.2 Work
 
-## 3.3 Potential Energy
+# 3.3 Potential Energy
 
-## 3.4 Conservation of Energy
+# 3.4 Conservation of Energy
 
-## 3.5 Power
+# 3.5 Power
 
-## Progress Check 3
+# Progress Check 3
 
 Multiple-choice: ~18 questions
 
@@ -1538,19 +1538,19 @@ Free-response: 4 questions
 
 UNIT 4: Linear Momentum
 
-## ~11/~15 Class Periods
+~11/~15 Class Periods
 
 AP Exam Weighting: 10–20%
 
-## 4.1 Linear Momentum
+# 4.1 Linear Momentum
 
-### 4.2 Change in Momentum and Impulse
+# 4.2 Change in Momentum and Impulse
 
-### 4.3 Conservation of Linear Momentum
+# 4.3 Conservation of Linear Momentum
 
-### 4.4 Elastic and Inelastic Collisions
+# 4.4 Elastic and Inelastic Collisions
 
-## Progress Check 4
+# Progress Check 4
 
 Multiple-choice: ~18 questions
 
@@ -1558,23 +1558,23 @@ Free-response: 4 questions
 
 UNIT 5: Torque and Rotational Dynamics
 
-## ~14/~20 Class Periods
+~14/~20 Class Periods
 
 AP Exam Weighting: 10–15%
 
-## 5.1 Rotational Kinematics
+# 5.1 Rotational Kinematics
 
-### 5.2 Connecting Linear and Rotational Motion
+# 5.2 Connecting Linear and Rotational Motion
 
-## 5.3 Torque
+# 5.3 Torque
 
-## 5.4 Rotational Inertia
+# 5.4 Rotational Inertia
 
 5 Rotational Equilibrium and Newton’s First Law in Rotational Form
 
-### 5.6 Newton’s Second Law in Rotational Form
+# 5.6 Newton’s Second Law in Rotational Form
 
-## Progress Check 5
+# Progress Check 5
 
 Multiple-choice: ~18 questions
 
@@ -1582,13 +1582,13 @@ Free-response: 4 questions
 
 Teach: Science Practices spiral throughout the course.
 
-## 1. Creating Representations
+# 1. Creating Representations
 
-## 2. Mathematical Routines
+# 2. Mathematical Routines
 
-### 3. Scientific Questioning and Argumentation
+# 3. Scientific Questioning and Argumentation
 
-## Assess
+# Assess
 
 Assign the Progress Checks—either as homework or in class—for each unit.
 
@@ -1596,57 +1596,25 @@ Each Progress Check contains formative multiple-choice and free-response questio
 
 The feedback from these checks shows students the areas where they need to focus.
 
-### Unit 6 Momentum of Rotating Systems
+# Unit 6 Momentum of Rotating Systems
 
-## ~13/~19 10–15%
+~13/~19 10–15%
 
-### Class Periods | AP Exam Weighting
+Class Periods | AP Exam Weighting
 
-## 1. Rotational Kinetic Energy
+# 1. Rotational Kinetic Energy
 
-## 2. Torque and Work
+# 2. Torque and Work
 
-### 3. Angular Momentum and Angular Impulse
+# 3. Angular Momentum and Angular Impulse
 
-### 4. Conservation of Angular Momentum
+# 4. Conservation of Angular Momentum
 
-## 5. Rolling
+# 5. Rolling
 
-### 6. Motion of Orbiting Satellites
+# 6. Motion of Orbiting Satellites
 
-## Progress Check 6
-
-Multiple-choice: ~18 questions
-
-Free-response: 4 questions
-
-Skills:
-
-## Mathematical Routines
-
-### Translation Between Representations
-
-### Experimental Design and Analysis
-
-### Qualitative/Quantitative Translation
-
-## Unit 7 Oscillations
-
-## ~12/~17 10–15%
-
-### Class Periods | AP Exam Weighting
-
-### 1. Defining Simple Harmonic Motion (SHM)
-
-### 2. Frequency and Period of SHM
-
-### 3. Representing and Analyzing SHM
-
-### 4. Energy of Simple Harmonic Oscillators
-
-### 5. Simple and Physical Pendulums
-
-## Progress Check 7
+# Progress Check 6
 
 Multiple-choice: ~18 questions
 
@@ -1654,23 +1622,55 @@ Free-response: 4 questions
 
 Skills:
 
-## Mathematical Routines
+# Mathematical Routines
 
-### Translation Between Representations
+# Translation Between Representations
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
+
+# Unit 7 Oscillations
+
+~12/~17 10–15%
+
+Class Periods | AP Exam Weighting
+
+# 1. Defining Simple Harmonic Motion (SHM)
+
+# 2. Frequency and Period of SHM
+
+# 3. Representing and Analyzing SHM
+
+# 4. Energy of Simple Harmonic Oscillators
+
+# 5. Simple and Physical Pendulums
+
+# Progress Check 7
+
+Multiple-choice: ~18 questions
+
+Free-response: 4 questions
+
+Skills:
+
+# Mathematical Routines
+
+# Translation Between Representations
+
+# Experimental Design and Analysis
+
+Qualitative/Quantitative Translation
 
 THIS PAGE IS INTENTIONALLY LEFT BLANK.
 
-## AP PHYSICS C
+# AP PHYSICS C
 
-### MECHANICS Unit Guides Introduction
+# MECHANICS Unit Guides Introduction
 
 Designed with input from the community of AP Physics C
 
-## Mechanics educators
+# Mechanics educators
 
 the Unit Guides offer teachers helpful guidance in building students’ skills and content knowledge.
 
@@ -1680,29 +1680,29 @@ This unit structure respects new AP teachers’ time by providing one possible s
 
 An additional benefit is that these units enable the AP Program to provide interested teachers with formative assessments—the Progress Checks—that they can assign their students at the end of each unit to gauge progress toward success on the AP Exam.
 
-## However
+# However
 
 experienced AP teachers who are satisfied with their current course organization and the exam results should feel no pressure to adopt these units
 
 which comprise an optional sequence for this course.
 
-## Using the Unit Guides
+# Using the Unit Guides
 
-## UNIT OPENERS
+# UNIT OPENERS
 
-## 10–15% ~14/~19
+10–15% ~14/~19
 
-### AP EXAM WEIGHTING | CLASS PERIODS
+AP EXAM WEIGHTING | CLASS PERIODS
 
-## Kinematics
+# Kinematics
 
 Developing Understanding provides an overview that contextualizes and situates the key content of the unit within the scope of the course.
 
 The essential questions are thought-provoking questions that motivate students and inspire inquiry.
 
-## Developing Understanding
+# Developing Understanding
 
-### The world is made up of objects
+# The world is made up of objects
 
 and an object is something that moves.
 
@@ -1716,27 +1716,27 @@ Mechanics.
 
 It focuses on teaching students how representations can be used to model and analyze scientific information as it relates to the motion of objects.
 
-### Building the Preparing for the AP Exam
+# Building the Preparing for the AP Exam
 
 The Science Practices describes specific skills that students will need multiple opportunities to use mathematical representations to support their reasoning and gain proficiency in using mathematical models to describe physical phenomena.
 
 The Unit at a Glance table shows the topics
 
-### related enduring understandings
+related enduring understandings
 
 and suggested skills.
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic | Suggested Skills
+Topic | Suggested Skills
 
-## 1.1 Scalars and Vectors
+# 1.1 Scalars and Vectors
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -1746,15 +1746,15 @@ B Calculate or estimate an unknown quantity with units from known quantities
 
 by selecting and following a logical computational pathway.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 1.2 Displacement, Velocity, and Acceleration
+# 1.2 Displacement, Velocity, and Acceleration
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -1770,11 +1770,11 @@ A Create experimental procedures that are appropriate for a given scientific que
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 1.3 Representing Motion
+# 1.3 Representing Motion
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of a system.
 
@@ -1784,17 +1784,17 @@ D Predict new values or factors of change of physical quantities using functiona
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-### 1.4 Relative and Circular Motion
+# 1.4 Relative and Circular Motion
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -1804,19 +1804,19 @@ by selecting and following a logical computational pathway.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Using the Unit Guides
+# Using the Unit Guides
 
 The Sample Instructional Activities page includes optional Kinematics activities that can help teachers tie together the content and skill for a particular topic.
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -1828,7 +1828,7 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies.
 
-### | Activity Topic | Sample Activity |
+| Activity Topic | Sample Activity |
 
 | :--- | :--- |
 
@@ -1836,15 +1836,15 @@ Please refer to the Instructional Approaches section beginning on p.
 
 2 Friends Without Pens | Assign students a small set of problems that relate position
 
-## velocity
+velocity
 
 or acceleration as a function of time.
 
 Challenge students to derive equations for the other two quantities as functions of time using calculus.
 
-### Have students chat with “friends
+Have students chat with “friends
 
-## ” as appropriate
+” as appropriate
 
 to work on starting the derivations.
 
@@ -1890,7 +1890,7 @@ Challenge students to determine how to aim the car relative to the moving paper 
 
 5 Desktop Experiment Tasks | Give students a ball launcher
 
-## right-triangular block
+right-triangular block
 
 and meterstick.
 
@@ -1900,7 +1900,7 @@ and then predict where the ball will land if the ball is launched on the triangu
 
 | 1.
 
-### 5 Graph and Switch | Place students in pairs.
+5 Graph and Switch | Place students in pairs.
 
 Have Student A create a horizontal and vertical pair of velocity graphs for projectile motion
 
@@ -1910,25 +1910,25 @@ lands higher or lower or at the same height).
 
 Students then discuss their representations and decide whether the graph created by Student A supports or does not support the narrative written by Student B.
 
-## TOPIC PAGES
+# TOPIC PAGES
 
-## Kinematics UNIT
+# Kinematics UNIT
 
 The suggested skills offer possible skills to pair with the topic.
 
 TOPIC 1.
 
-## 4 SUGGESTED SKILLS
+4 SUGGESTED SKILLS
 
 A Learning objectives define what a student needs to be able to do with content knowledge in order to progress through the course.
 
-### Reference Frames Create diagrams
+# Reference Frames Create diagrams
 
-## tables
+tables
 
-## and Relative Motion charts
+and Relative Motion charts
 
-## or schematics
+or schematics
 
 B to represent physical Calculate or estimate an situations.
 
@@ -1968,25 +1968,25 @@ i Combining the motion of an object and the motion of an observer in a given ref
 
 ii The acceleration of any object is the same as measured from all inertial reference frames.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## Unless otherwise stated
+# Unless otherwise stated
 
 the frame of reference of any problem may be assumed to be inertial.
 
 AP PHYSICS C: MECHANICS
 
-## UNIT 1
+# UNIT 1
 
-## Kinematics
+# Kinematics
 
-## 10–15%
+10–15%
 
-## AP EXAM WEIGHTING
+# AP EXAM WEIGHTING
 
-## ~14/~19
+~14/~19
 
-## CLASS PERIODS
+# CLASS PERIODS
 
 Remember to go to AP Classroom to assign students the online Progress Check for this unit.
 
@@ -1994,45 +1994,45 @@ Whether assigned as homework or completed in class
 
 the Progress Check provides each student with immediate feedback related to this unit’s topic and skills.
 
-## Progress Check 1
+# Progress Check 1
 
 Multiple-Choice: ~18 questions
 
 Free-Response: 4 questions
 
-## Mathematical Routines
+# Mathematical Routines
 
-### Translation Between Representations
+# Translation Between Representations
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
 
-## UNIT 1 10–15% ~14/~19
+UNIT 1 10–15% ~14/~19
 
-### AP EXAM WEIGHTING CLASS PERIODS
+# AP EXAM WEIGHTING CLASS PERIODS
 
-## Kinematics
+# Kinematics
 
-## Developing Understanding
+# Developing Understanding
 
-## ESSENTIAL
+# ESSENTIAL
 
 The world is made up of objects that are in a constant state of motion.
 
-## To understand the
+# To understand the
 
-## QUESTIONS
+# QUESTIONS
 
-## relationships between objects
+relationships between objects
 
 students must first understand movement.
 
-## Unit 1 introduces
+# Unit 1 introduces
 
 § How can the motion of students to the study of motion and serves as a foundation for all of AP Physics C
 
-## Mechanics
+# Mechanics
 
 objects be predicted by exploring the idea of acceleration and teaching students how representations can be used
 
@@ -2042,15 +2042,15 @@ to model and analyze scientific information as it relates to the motion of objec
 
 How can the idea of Building the Preparing for the AP Exam
 
-## frames of reference
+frames of reference
 
-## Science Practices
+# Science Practices
 
-## allow two people to
+allow two people to
 
-### Creating models and representations
+# Creating models and representations
 
-## tell the truth yet have
+tell the truth yet have
 
 A 1.
 
@@ -2058,29 +2058,29 @@ B 2.
 
 A 2.
 
-### B is a fundamental piece of the second
+# B is a fundamental piece of the second
 
 conflicting reports?
 
-### question in the free-response section—
+question in the free-response section—
 
 § Multiple representations are key in Unit 1.
 
 How can we use models the Translation Between Representations
 
-## studying kinematics
+studying kinematics
 
-## students will learn to
+students will learn to
 
-## to help us understand (TBR)
+to help us understand (TBR)
 
-### and the analysis of models and
+and the analysis of models and
 
 represent motion—both constant velocity motion?
 
 representations constitutes a large part
 
-### § and constant acceleration—in words
+§ and constant acceleration—in words
 
 of the multiple-choice section of the AP
 
@@ -2092,7 +2092,7 @@ B), and/or mathematical Physics C
 
 Mechanics exam.
 
-## Physicists often
+# Physicists often
 
 for stopping your car forms (2.
 
@@ -2114,27 +2114,27 @@ much distance to stop”?
 
 systems while also dispelling some common are not limited to
 
-## sketches of the physical
+sketches of the physical
 
 misconceptions they may have about situation
 
-## graphs
+graphs
 
-## mathematical equations
+mathematical equations
 
-## motion
+motion
 
 such as exclusively using negative and verbal descriptions.
 
-## As they encounter
+# As they encounter
 
 acceleration to describe an object slowing new scenarios through the unit
 
-## students
+students
 
 down.
 
-## In addition
+# In addition
 
 students will have the should be encouraged to apply different
 
@@ -2148,9 +2148,9 @@ merely evaluating equations (2.
 
 B), students
 
-### will need multiple opportunities to use
+will need multiple opportunities to use
 
-### mathematical representations to support
+mathematical representations to support
 
 their reasoning and gain proficiency in using
 
@@ -2158,19 +2158,19 @@ mathematical models to describe physical
 
 phenomena.
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic Suggested Skills
+# Topic Suggested Skills
 
-## 1 Scalars and Vectors 1.
+1 Scalars and Vectors 1.
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -2180,15 +2180,15 @@ Calculate or estimate an unknown quantity with units from known quantities
 
 by selecting and following a logical computational pathway.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## 1.2 Displacement, 1.B
+# 1.2 Displacement, 1.B
 
 Create quantitative graphs with appropriate scales and units
 
@@ -2208,11 +2208,11 @@ Create experimental procedures that are appropriate for a given scientific quest
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 1.3 Representing 1.C
+# 1.3 Representing 1.C
 
 Create qualitative sketches of graphs that represent features of a model or the behavior of Motion the physical system.
 
@@ -2222,21 +2222,21 @@ Predict new values or factors of change of physical quantities using functional 
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 1.4 Reference Frames 1.A
+# 1.4 Reference Frames 1.A
 
-## Create diagrams
+# Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
-## and Relative Motion
+and Relative Motion
 
 Calculate or estimate an unknown quantity with units from known quantities
 
@@ -2244,31 +2244,31 @@ by selecting and following a logical computational pathway.
 
 Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## continued on next page
+continued on next page
 
-## UNIT
+# UNIT
 
-## Kinematics 1
+# Kinematics 1
 
-## UNIT AT A GLANCE (cont’d)
+UNIT AT A GLANCE (cont’d)
 
-## Topic Suggested Skills
+# Topic Suggested Skills
 
-## 1.5 Motion in Two or 1.B
+# 1.5 Motion in Two or 1.B
 
 Create quantitative graphs with appropriate scales and units
 
 including plotting data.
 
-## Three Dimensions
+# Three Dimensions
 
 Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway.
 
@@ -2278,15 +2278,15 @@ Create experimental procedures that are appropriate for a given scientific quest
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## UNIT
+# UNIT
 
-## 1 Kinematics
+1 Kinematics
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -2298,25 +2298,25 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies
 
-### Activity Topic Sample Activity
+# Activity Topic Sample Activity
 
-## 1 Friends Without Pens 1.2
+1 Friends Without Pens 1.2
 
 Assign students a small set of problems that relate position
 
-## velocity
+velocity
 
 or acceleration as a function of time.
 
 Challenge students to derive equations for the other two quantities as functions of time using calculus.
 
-### Have students chat with “friends
+Have students chat with “friends
 
-## ” as appropriate
+” as appropriate
 
 to work on starting the derivations.
 
-### 2 Desktop Experiment Tasks 1.3
+2 Desktop Experiment Tasks 1.3
 
 Provide students with a pull-back toy car and a means to take video
 
@@ -2324,7 +2324,7 @@ and have them record position versus time data for the car as it speeds up and s
 
 Have students fit a polynomial equation to the position versus time data and use calculus to predict the car’s maximum speed and initial and final magnitudes of acceleration.
 
-### 3 Changing Representations 1.3
+3 Changing Representations 1.3
 
 Give students a verbal description of segmented motion
 
@@ -2334,7 +2334,7 @@ then comes to rest again after another 20 seconds.
 
 ” Have students draw position/velocity/acceleration graphs and formulate piecewise position/velocity/acceleration equations of motion.
 
-## 4 Create a Plan 1.3
+4 Create a Plan 1.3
 
 Find data of speed and total stopping distance for cars.
 
@@ -2342,7 +2342,7 @@ Provide students with five pairs of speed and total stopping distances (not brok
 
 Ask students to determine the driver’s reaction time and the car’s braking acceleration from the data.
 
-### 5 Desktop Experiment Tasks 1.4
+5 Desktop Experiment Tasks 1.4
 
 Give each group a constant motion vehicle and a long
 
@@ -2354,11 +2354,11 @@ Have the students experiment with the car traveling on the moving paper.
 
 Challenge students to determine how to aim the car relative to the moving paper for the car to travel “straight across.
 
-### 6 Desktop Experiment Tasks 1.5
+6 Desktop Experiment Tasks 1.5
 
-## Give students a ball launcher
+# Give students a ball launcher
 
-## right-triangular block
+right-triangular block
 
 and meterstick.
 
@@ -2366,7 +2366,7 @@ Have them calculate the launch speed of the ball using a horizontal launch of th
 
 and then predict where the ball will land if the ball is launched on the triangular block.
 
-## 7 Graph and Switch 1.5
+7 Graph and Switch 1.5
 
 Place students in pairs.
 
@@ -2378,19 +2378,19 @@ lands higher or lower or at the same height).
 
 Students then discuss their representations and decide whether the graph created by Student A supports or does not support the narrative written by Student B.
 
-## UNIT
+# UNIT
 
-## Kinematics 1
+# Kinematics 1
 
 TOPIC 1.
 
-## 1 SUGGESTED SKILLS
+1 SUGGESTED SKILLS
 
-### A Scalars and Vectors Create diagrams
+# A Scalars and Vectors Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -2416,11 +2416,11 @@ vectors are quantities described by both magnitude and direction.
 
 3 Distance and speed are examples of scalar quantities
 
-## while position
+while position
 
-## displacement
+displacement
 
-## velocity
+velocity
 
 and acceleration are examples of vector quantities.
 
@@ -2430,7 +2430,7 @@ i Unit vector notation can be used to represent vectors as the sum of their cons
 
 y-, and z-directions
 
-## denoted by i
+denoted by i
 
 j, and k
 
@@ -2442,13 +2442,13 @@ ii The position vector of a point is given by r
 
 and the unit vector in the direction of the position vector is denoted r̂.
 
-## continued on next page
+continued on next page
 
-## UNIT
+# UNIT
 
-## 1 Kinematics
+1 Kinematics
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 1.
 
@@ -2460,21 +2460,21 @@ A resultant vector is the vector sum of the addend vectors’ components.
 
 Relevant equations:
 
-### 5 In a given one-dimensional coordinate system
+5 In a given one-dimensional coordinate system
 
 opposite directions are denoted by opposite signs.
 
-## UNIT
+# UNIT
 
-## Kinematics 1
+# Kinematics 1
 
 TOPIC 1.
 
-## 2 SUGGESTED SKILLS
+2 SUGGESTED SKILLS
 
-## B Displacement
+# B Displacement
 
-## Velocity
+# Velocity
 
 Create quantitative graphs with appropriate scales and units
 
@@ -2496,11 +2496,11 @@ LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE 3.
 
 A 1.
 
-### 1 Describe a change in an object’s position.
+1 Describe a change in an object’s position.
 
-## When using the object model
+# When using the object model
 
-## the size
+the size
 
 shape, and internal configuration are ignored.
 
@@ -2518,21 +2518,21 @@ Averages of velocity and acceleration are calculated considering the initial and
 
 2 Average velocity is the displacement of an object divided by the interval of time in which that displacement occurs.
 
-## v_avg = ∆x / ∆t
+v_avg = ∆x / ∆t
 
 3 Average acceleration is the change in velocity divided by the interval of time in which that change in velocity occurs.
 
-## a_avg = ∆v / ∆t
+a_avg = ∆v / ∆t
 
 4 An object is accelerating if either the magnitude and/or direction of the object’s velocity are changing.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 31
+1 | 31
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
 LEARNING OBJECTIVE 1.
 
@@ -2546,7 +2546,7 @@ LEARNING OBJECTIVE 1.
 
 C: Describe the instantaneous position
 
-## velocity
+velocity
 
 and acceleration of an object as a function of time.
 
@@ -2564,9 +2564,9 @@ which is equal to the derivative of position with respect to time.
 
 Relevant equations:
 
-## v = dr/dt
+v = dr/dt
 
-## v_x = dx/dt
+v_x = dx/dt
 
 ii: Instantaneous acceleration is the rate of change of the object’s velocity
 
@@ -2574,29 +2574,29 @@ which is equal to the derivative of velocity with respect to time.
 
 Relevant equations:
 
-## a = dv/dt
+a = dv/dt
 
-## a_x = dv_x/dt
+a_x = dv_x/dt
 
 ESSENTIAL KNOWLEDGE 1.
 
 2: Time-dependent functions and instantaneous values of position
 
-## velocity
+velocity
 
 and acceleration can be determined using differentiation and integration.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 32
+1 | 32
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
 TOPIC 1.
 
-## 3 Representing Motion
+3 Representing Motion
 
 SUGGESTED SKILLS:
 
@@ -2608,7 +2608,7 @@ D: Predict new values or factors of change of physical quantities using function
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -2616,7 +2616,7 @@ LEARNING OBJECTIVE 1.
 
 A: Describe the position
 
-## velocity
+velocity
 
 and acceleration of an object using representations of that object’s motion.
 
@@ -2624,11 +2624,11 @@ ESSENTIAL KNOWLEDGE 1.
 
 1: Motion can be represented by motion diagrams
 
-## figures
+figures
 
-## graphs
+graphs
 
-## equations
+equations
 
 and narrative descriptions.
 
@@ -2636,11 +2636,11 @@ and narrative descriptions.
 
 three kinematic equations can be used to describe instantaneous linear motion in one dimension
 
-## v = v_0 + a t
+v = v_0 + a t
 
-## x = x_0 + v_0 t + ½ a t²
+x = x_0 + v_0 t + ½ a t²
 
-## v² = v_0² + 2a (x - x_0)
+v² = v_0² + 2a (x - x_0)
 
 Note: The equations above are written to indicate motion in the x-direction
 
@@ -2650,29 +2650,29 @@ but these equations can be used in any single dimension as appropriate.
 
 the vertical acceleration caused by the force of gravity is downward
 
-## constant
+constant
 
 and has a measured value approximately equal to a_g ≈ 10 m/s².
 
 4: Graphs of position
 
-## velocity
+velocity
 
 and acceleration as functions of time can be used to find the relationships between those quantities.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 33
+1 | 33
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
 LEARNING OBJECTIVE 1.
 
 A: Describe the position
 
-## velocity
+velocity
 
 and acceleration of an object using representations of that object’s motion.
 
@@ -2684,7 +2684,7 @@ which is equal to the slope of a line tangent to a point on a graph of the objec
 
 Relevant equation:
 
-## v_x = dx/dt
+v_x = dx/dt
 
 ii: An object’s instantaneous acceleration is the rate of change of the object’s velocity
 
@@ -2692,7 +2692,7 @@ which is equal to the slope of a line tangent to a point on a graph of the objec
 
 Relevant equation:
 
-## a_x = dv_x/dt
+a_x = dv_x/dt
 
 iii: The displacement of an object during a time interval is equal to the area under the curve of a graph of the object’s velocity as a function of time (i.e.
 
@@ -2700,25 +2700,25 @@ the area bounded by the function and the horizontal axis for the appropriate int
 
 Relevant equation:
 
-## Δx = ∫(from t1 to t2) v(t) dt
+Δx = ∫(from t1 to t2) v(t) dt
 
 iv: The change in velocity of an object during a time interval is equal to the area under the curve of a graph of the acceleration of the object as a function of time.
 
 Relevant equation:
 
-### Δv_x = ∫(from t1 to t2) a_x(t) dt
+Δv_x = ∫(from t1 to t2) a_x(t) dt
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
-## Mechanics and AP Physics C
+# Mechanics and AP Physics C
 
 Electricity and Magnetism expects that for all situations in which a numerical quantity is required for g
 
 the value g≈10m/s² will be used.
 
-## However
+# However
 
 students will not be penalized for correctly using the more precise commonly accepted values of g=9.
 
@@ -2726,25 +2726,25 @@ students will not be penalized for correctly using the more precise commonly acc
 
 8m/s².
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 34
+1 | 34
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
 TOPIC 1.
 
-### 4 Reference Frames and Relative Motion
+4 Reference Frames and Relative Motion
 
 SUGGESTED SKILLS:
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -2756,9 +2756,9 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -2784,23 +2784,23 @@ i: Combining the motion of an object and the motion of an observer in a given re
 
 ii: The acceleration of any object is the same as measured from all inertial reference frames.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## Unless otherwise stated
+# Unless otherwise stated
 
 the frame of reference of any problem may be assumed to be inertial.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 35
+1 | 35
 
-## UNIT 1 Kinematics
+# UNIT 1 Kinematics
 
 TOPIC 1.
 
-### 5 Motion in Two or Three Dimensions
+5 Motion in Two or Three Dimensions
 
 SUGGESTED SKILLS:
 
@@ -2816,7 +2816,7 @@ A: Create experimental procedures that are appropriate for a given scientific qu
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -2836,27 +2836,27 @@ ESSENTIAL KNOWLEDGE 1.
 
 nonzero acceleration in the second dimension.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to quantitatively analyze the motion of an object in two dimensions.
 
-## AP Physics C
+# AP Physics C
 
 Electricity and Magnetism expects students to also qualitatively describe the motion of a particle in three dimensions.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 36
+1 | 36
 
 AP PHYSICS C: MECHANICS
 
 UNIT 2 Force and Translational Dynamics (20–25% AP EXAM WEIGHTING
 
-## ~15/~25 CLASS PERIODS)
+~15/~25 CLASS PERIODS)
 
 Remember to go to AP Classroom to assign students the online Progress Check for this unit.
 
@@ -2870,23 +2870,23 @@ Multiple-Choice: ~30 questions
 
 Free-Response: 4 questions
 
-## Mathematical Routines
+# Mathematical Routines
 
-### Translation Between Representations
+# Translation Between Representations
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
 
-## AP Physics C
+# AP Physics C
 
 Mechanics Course and Exam Description Course Framework V.
 
-## 1 | 38
+1 | 38
 
 UNIT 2 Force and Translational Dynamics (20–25% AP EXAM WEIGHTING
 
-## ~15/~25 CLASS PERIODS)
+~15/~25 CLASS PERIODS)
 
 Developing Understanding:
 
@@ -2900,13 +2900,13 @@ ESSENTIAL QUESTIONS:
 
 why does the car not accelerate as much?
 
-## In Unit 2
+# In Unit 2
 
 students are introduced to the concept of force
 
 which is an interaction between two objects or systems of objects.
 
-### Within the larger study of dynamics
+# Within the larger study of dynamics
 
 forces provide the context in which students analyze and come to understand a variety of physical phenomena.
 
@@ -2922,9 +2922,9 @@ A, 2.
 
 D, 3.
 
-## Preparing for the AP Exam
+# Preparing for the AP Exam
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics Exam requires students to re-express key elements of physical phenomena across multiple models and translation between representations.
 
@@ -2934,17 +2934,17 @@ This skill appears in question four of the free-response section
 
 the Qualitative/Quantitative Translation (QQT).
 
-## In this question
+# In this question
 
 students demonstrate translation between words and mathematics by describing and analyzing a scenario.
 
-## Using content from any unit
+# Using content from any unit
 
 the QQT first requires students to make a claim and provide evidence and reasoning to support their claim without reference to equations.
 
 Students are then asked to derive an equation or set of equations to mathematically represent the scenario.
 
-## Lastly
+# Lastly
 
 students are required to make a connection between the claim made in the first part of the question and the equation(s) derived in the second part.
 
@@ -2952,19 +2952,19 @@ Students exposed primarily to numerical problem solving often struggle with the 
 
 Opportunities to translate between different representations
 
-## including equations
+including equations
 
-## diagrams
+diagrams
 
-## graphs
+graphs
 
-## and verbal descriptions
+and verbal descriptions
 
 can help students prepare for the QQT question.
 
 Students will continue to use models and representations that will help them further analyze systems
 
-### the interactions between systems
+the interactions between systems
 
 and how these interactions result in change.
 
@@ -2984,23 +2984,23 @@ How do you determine which team wins the tug-of-war
 
 The team that pulls harder on the rope or the team that pushes harder on the ground?
 
-## UNIT
+# UNIT
 
-### 2 Force and Translational Dynamics
+2 Force and Translational Dynamics
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic
+# Topic
 
-### 2.1 Systems and Center of Mass
+# 2.1 Systems and Center of Mass
 
-## Suggested Skills
+# Suggested Skills
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3012,23 +3012,23 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Topic
+# Topic
 
-### 2.2 Forces and Free-Body Diagrams
+# 2.2 Forces and Free-Body Diagrams
 
-## Suggested Skills
+# Suggested Skills
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3036,29 +3036,29 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Topic
+# Topic
 
-## 2.3 Newton’s Third Law
+# 2.3 Newton’s Third Law
 
-## Suggested Skills
+# Suggested Skills
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3066,23 +3066,23 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Topic
+# Topic
 
-## 2.4 Newton’s First Law
+# 2.4 Newton’s First Law
 
-## Suggested Skills
+# Suggested Skills
 
 C: Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -3094,21 +3094,21 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## UNIT
+# UNIT
 
-### Force and Translational Dynamics 2
+# Force and Translational Dynamics 2
 
-## UNIT AT A GLANCE (cont’d)
+UNIT AT A GLANCE (cont’d)
 
-## Topic
+# Topic
 
-## 2.5 Newton’s Second Law
+# 2.5 Newton’s Second Law
 
-## Suggested Skills
+# Suggested Skills
 
 B: Create quantitative graphs with appropriate scales and units
 
@@ -3124,15 +3124,15 @@ A: Create experimental procedures that are appropriate for a given scientific qu
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Topic
+# Topic
 
-## 2.6 Gravitational Force
+# 2.6 Gravitational Force
 
-## Suggested Skills
+# Suggested Skills
 
 C: Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -3142,17 +3142,17 @@ D: Predict new values or factors of change of physical quantities using function
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Topic
+# Topic
 
-### 2.7 Kinetic and Static Friction
+# 2.7 Kinetic and Static Friction
 
-## Suggested Skills
+# Suggested Skills
 
 B: Create quantitative graphs with appropriate scales and units
 
@@ -3168,23 +3168,23 @@ A: Create experimental procedures that are appropriate for a given scientific qu
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Topic
+# Topic
 
-## 2.8 Spring Forces
+# 2.8 Spring Forces
 
-## Suggested Skills
+# Suggested Skills
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3196,21 +3196,21 @@ D: Predict new values or factors of change of physical quantities using function
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## UNIT
+# UNIT
 
-### 2 Force and Translational Dynamics
+2 Force and Translational Dynamics
 
-## UNIT AT A GLANCE (cont’d)
+UNIT AT A GLANCE (cont’d)
 
-## Topic
+# Topic
 
-## 2.9 Resistive Forces
+# 2.9 Resistive Forces
 
-## Suggested Skills
+# Suggested Skills
 
 B: Create quantitative graphs with appropriate scales and units
 
@@ -3224,15 +3224,15 @@ A: Create experimental procedures that are appropriate for a given scientific qu
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Topic
+# Topic
 
-## 2.10 Circular Motion
+# 2.10 Circular Motion
 
-## Suggested Skills
+# Suggested Skills
 
 A: Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -3242,7 +3242,7 @@ D: Predict new values or factors of change of physical quantities using function
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -3250,11 +3250,11 @@ Go to AP Classroom to assign the Progress Check for Unit 2.
 
 Review the results in class to identify and address any student misunderstandings.
 
-## UNIT
+# UNIT
 
-### Force and Translational Dynamics 2
+# Force and Translational Dynamics 2
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -3266,7 +3266,7 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies.
 
-## Activity 1
+# Activity 1
 
 Desktop Experiment Tasks (Topic 2.
 
@@ -3298,31 +3298,31 @@ Then, have students support their reasoning with free-body diagrams
 
 and have each group present their reasoning and free-body diagram to the class.
 
-## Activity 4
+# Activity 4
 
 Desktop Experiment Tasks (Topic 2.
 
 Give students an object having unknown mass (or have students use their set of house keys
 
-## if available)
+if available)
 
-## known masses
+known masses
 
-## string
+string
 
-## a pulley
+a pulley
 
-## a meterstick
+a meterstick
 
 and a stopwatch.
 
 Have students use the provided materials to determine the unknown mass of the object.
 
-## Activity 5
+# Activity 5
 
 Desktop Experiment Tasks (Topic 2.
 
-## Ask students to find the
+# Ask students to find the
 
 coefficient of friction (static or kinetic) of a shoe or other object.
 
@@ -3330,7 +3330,7 @@ This activity can be made into a competition
 
 where the team with the simplest procedure or the team that uses the least equipment wins.
 
-## 6 Desktop Experiment Tasks
+6 Desktop Experiment Tasks
 
 10 Drill a small hole in the center of a wooden meterstick so that a pencil point fits in the hole.
 
@@ -3338,15 +3338,15 @@ Place a penny on the meterstick and gently rotate the meterstick faster and fast
 
 Have students make measurements and calculations to find the coefficient of static friction between the meterstick and the penny.
 
-### UNIT 2 Force and Translational Dynamics
+# UNIT 2 Force and Translational Dynamics
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3356,31 +3356,31 @@ by selecting and following a logical computational pathway.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
 TOPIC 2.
 
-## 1 Center of Mass
+1 Center of Mass
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 2.
 
 A Describe the properties and interactions of a system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 System properties are determined by the interactions between objects within the system.
 
@@ -3396,7 +3396,7 @@ which may result in the transfer of energy or mass.
 
 5 The internal structure of a system affects the analysis of that system.
 
-### 6 As variables external to a system are changed
+6 As variables external to a system are changed
 
 the system’s substructure may change.
 
@@ -3404,7 +3404,7 @@ LEARNING OBJECTIVE 2.
 
 B Describe the location of a system’s center of mass with respect to the system’s constituent parts.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 For objects or systems with symmetrical mass distributions
 
@@ -3412,13 +3412,13 @@ the center of mass is located on lines of symmetry.
 
 2 The location of a system’s center of mass along a given axis can be calculated using the equation
 
-## x_cm = (∑m_i x_i) / (∑m_i)
+x_cm = (∑m_i x_i) / (∑m_i)
 
 3 For a nonuniform solid that can be considered as a collection of differential masses
 
 dm, the solid’s center of mass can be calculated using the equation
 
-## r_cm = (∫r dm) / (∫dm)
+r_cm = (∫r dm) / (∫dm)
 
 i The linear mass density of a rod or other linear rigid body is the derivative of the rod’s mass with respect to the position of the differential mass element on the rigid body.
 
@@ -3428,7 +3428,7 @@ ii If a function of mass density is given for a solid
 
 the total mass can be determined by integrating the mass density over the length (one dimension)
 
-## area (two dimensions)
+area (two dimensions)
 
 or volume (three dimensions) of the solid.
 
@@ -3436,45 +3436,45 @@ For example: M_total = ∫ρ(r) dV
 
 4 A system can be modeled as a singular object that is located at the system’s center of mass.
 
-### UNIT 2 Force and Translational Dynamics
+# UNIT 2 Force and Translational Dynamics
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
 TOPIC 2.
 
-### 2 Forces and Free-Body Diagrams
+2 Forces and Free-Body Diagrams
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 2.
 
 A Describe a force as an interaction between two objects or systems.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Forces are vector quantities that describe the interactions between objects or systems.
 
@@ -3488,7 +3488,7 @@ LEARNING OBJECTIVE 2.
 
 B Describe the forces exerted on an object or system using a free-body diagram.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Free-body diagrams are useful tools for visualizing forces being exerted on a single object or system and for determining the equations that represent a physical situation.
 
@@ -3502,23 +3502,23 @@ A system is treated as though all of its mass is located at the center of mass.
 
 4 A coordinate system with one axis parallel to the direction of acceleration of the object or system simplifies the translation from free-body diagram to algebraic representation.
 
-## For example
+# For example
 
 in a free-body diagram of an object on an inclined plane
 
 it is useful to set one axis parallel to the surface of the incline.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
-## Mechanics and AP Physics C
+# Mechanics and AP Physics C
 
 Electricity and Magnetism only expect students to depict the forces exerted on objects
 
 not the force components on free-body diagrams.
 
-## On the AP Physics exams
+# On the AP Physics exams
 
 individual forces represented on a free-body diagram must be drawn as individual straight arrows
 
@@ -3528,45 +3528,45 @@ Individual forces that are in the same direction must be drawn side by side
 
 not overlapping.
 
-### UNIT 2 Force and Translational Dynamics
+# UNIT 2 Force and Translational Dynamics
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
 TOPIC 2.
 
-## 3 Newton’s Third Law
+3 Newton’s Third Law
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 2.
 
 A Describe the interaction of two objects or systems using Newton’s third law and a representation of paired forces exerted on each object or system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Newton’s third law describes the interaction of two objects or systems in terms of the paired forces that each exerts on the other.
 
@@ -3582,15 +3582,15 @@ i An ideal string has negligible mass and does not stretch when under tension.
 
 ii The tension in an ideal string is the same at all points within the string.
 
-### iii In a string with nonnegligible mass
+iii In a string with nonnegligible mass
 
 tension may not be the same at all points within the string.
 
 iv An ideal pulley is a pulley that has negligible mass and rotates about an axle through its center of mass with negligible friction.
 
-### UNIT 2 Force and Translational Dynamics
+# UNIT 2 Force and Translational Dynamics
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -3602,21 +3602,21 @@ C Compare physical quantities between two or more scenarios or at different time
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
 TOPIC 2.
 
-## 4 Newton’s First Law
+4 Newton’s First Law
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 2.
 
 A Describe the conditions under which a system’s velocity remains constant.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 The net force on a system is the vector sum of all forces exerted on the system.
 
@@ -3634,9 +3634,9 @@ The system’s velocity will change only in the direction of the unbalanced forc
 
 5 An inertial reference frame is one from which an observer would verify Newton’s first law of motion.
 
-### UNIT 2 Force and Translational Dynamics
+# UNIT 2 Force and Translational Dynamics
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 B Create quantitative graphs with appropriate scales and units.
 
@@ -3648,7 +3648,7 @@ by selecting and following a logical computational pathway.
 
 D Required Course Content Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
@@ -3662,7 +3662,7 @@ Unbalanced forces are a configuration of forces such that the net force exerted 
 
 2 Newton’s second law of motion states that the acceleration of a system’s center of mass has a magnitude proportional to the magnitude of the net force exerted on the system and is in the same direction as that net force.
 
-## Relevant equation
+# Relevant equation
 
 a = ∑Fnet / msus = msys.
 
@@ -3670,15 +3670,15 @@ a = ∑Fnet / msus = msys.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-### UNIT Force and Translational Dynamics 2
+# UNIT Force and Translational Dynamics 2
 
 TOPIC 2.
 
-## 6 SUGGESTED SKILLS
+6 SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -3686,17 +3686,17 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
@@ -3716,7 +3716,7 @@ iii The gravitational force on a system can be considered to be exerted on the s
 
 i The magnitude of the gravitational field created by a system of mass at a point in space is equal to the ratio of the gravitational force exerted by the system on a test object of mass to the mass of the test object.
 
-## Derived equation
+# Derived equation
 
 g = Fg / m = G * (M / r2).
 
@@ -3736,7 +3736,7 @@ If the gravitational force between two systems’ centers of mass has a negligib
 
 the gravitational force can be considered constant at all points between the initial and final positions of the systems.
 
-## 2 Near the surface of Earth
+2 Near the surface of Earth
 
 the strength of the gravitational field is g ≈ 10 N/kg.
 
@@ -3746,7 +3746,7 @@ C 2.
 
 The magnitude of the apparent weight of a system is the magnitude of the normal force exerted on the system.
 
-### 2 If the system is accelerating
+2 If the system is accelerating
 
 the apparent weight of the system is not equal to the magnitude of the gravitational force exerted on the system.
 
@@ -3756,11 +3756,11 @@ the apparent weight of the system is not equal to the magnitude of the gravitati
 
 D 2.
 
-### 1 Describe inertial and gravitational mass.
+1 Describe inertial and gravitational mass.
 
-## Objects have inertial mass
+# Objects have inertial mass
 
-## or inertia
+or inertia
 
 a property that determines how much an object’s motion resists changes when interacting with another object.
 
@@ -3784,25 +3784,25 @@ iii An object inside a sphere of uniform density experiences a net gravitational
 
 iv The partial mass of a sphere that contributes to the net gravitational force exerted on an object within that sphere is the portion of the sphere’s mass located a distance less than or equal to the object’s distance from the center of the sphere and can be calculated using the density of the sphere.
 
-## Derived equation
+# Derived equation
 
 mpartial = ρ * (4/3) * π * (rpartial)3.
 
 3 The gravitational force exerted on an object within a uniform sphere can be shown to be proportional to the object’s distance from the sphere’s center.
 
-## Derived equation
+# Derived equation
 
 Fg,partial = -krpartial.
 
-### BOUNDARY STATEMENT AP Physics C
+# BOUNDARY STATEMENT AP Physics C
 
 Mechanics does not expect students to mathematically prove or derive Newton’s shell theorem.
 
-### UNIT Force and Translational Dynamics 2
+# UNIT Force and Translational Dynamics 2
 
 TOPIC 2.
 
-## 7 SUGGESTED SKILLS
+7 SUGGESTED SKILLS
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -3816,21 +3816,21 @@ by selecting and following a logical computational pathway.
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
-### 1 Describe kinetic friction between two surfaces.
+1 Describe kinetic friction between two surfaces.
 
 Kinetic friction occurs when two surfaces in contact move relative to each other.
 
@@ -3850,21 +3850,21 @@ it is directed away from the surface.
 
 B 2.
 
-### 1 Describe static friction between two surfaces.
+1 Describe static friction between two surfaces.
 
 Static friction may occur between the contacting surfaces of two objects that are not moving relative to each other.
 
 2 Static friction adopts the value and direction required to prevent an object from slipping or sliding on a surface.
 
-## Relevant equation
+# Relevant equation
 
-## fs ≤ fs
+fs ≤ fs
 
 max = μs * FN.
 
 i Slipping and sliding refer to situations in which two surfaces are moving relative to each other.
 
-### ii There exists a maximum value for wh
+ii There exists a maximum value for wh
 
 static friction will prevent an object from slipping on a given surface.
 
@@ -3874,21 +3874,21 @@ F_{f,s,max} = µ_s F_N
 
 The coefficient of static friction is typically greater than the coefficient of kinetic friction for a given pair of surfaces.
 
-## UNIT
+# UNIT
 
-### Force and Translational Dynamics 2
+# Force and Translational Dynamics 2
 
 TOPIC 2.
 
-## 8 SUGGESTED SKILLS
+8 SUGGESTED SKILLS
 
-## Spring Forces
+# Spring Forces
 
-## Create diagrams
+# Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -3900,11 +3900,11 @@ Required Course Content 2.
 
 Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
-## 1 3.
+1 3.
 
 Describe the force exerted on an object by an ideal spring.
 
@@ -3914,7 +3914,7 @@ A nonideal spring either has nonnegligible mass or exerts a force that is not pr
 
 The magnitude of the force exerted by an ideal spring on an object is given by Hooke’s law
 
-## F = −k∆x
+F = −k∆x
 
 The force exerted on an object by a spring is always directed toward the equilibrium position of the object–spring system.
 
@@ -3928,11 +3928,11 @@ The inverse of the equivalent spring constant of a set of springs in series is e
 
 Derived equation:
 
-## 1/k_eq
+1/k_eq
 
 series = Σ 1/k_i = 1/k_1 + 1/k_2 + .
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 B 2.
 
@@ -3946,21 +3946,21 @@ Derived equation:
 
 k_eq,parallel = Σ k_i = k_1 + k_2 + .
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to find the effective spring constant of systems of springs that are arranged either in series or in parallel and does not expect students to find the effective spring constant of a system in which springs are arranged in both series and in parallel.
 
-## UNIT
+# UNIT
 
-### Force and Translational Dynamics 2
+# Force and Translational Dynamics 2
 
 TOPIC 2.
 
-## 9 SUGGESTED SKILLS
+9 SUGGESTED SKILLS
 
-## Resistive Forces
+# Resistive Forces
 
 Create quantitative graphs with appropriate scales and units
 
@@ -3968,27 +3968,27 @@ including plotting data.
 
 Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway.
 
-## Required Course Content
+# Required Course Content
 
 Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
-## 1 3.
+1 3.
 
 Describe the motion of an object subject to a resistive force.
 
 A resistive force is defined as a velocity-dependent force in the opposite direction of an object’s velocity
 
-## for example
+for example
 
-## F_r = −kv
+F_r = −kv
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -4002,9 +4002,9 @@ The acceleration or position of a moving object that is subject to a velocity-de
 
 once a function for velocity is determined.
 
-## The position
+# The position
 
-## velocity
+velocity
 
 and acceleration as functions of time of an object under the influence of a resistive force of the form F_r = −kv are exponential and have asymptotes that are determined by the initial conditions of the object and the forces exerted on the object.
 
@@ -4012,19 +4012,19 @@ Terminal velocity is defined as the maximum speed achieved by an object moving u
 
 The terminal condition is reached when the net force exerted on the object is zero.
 
-## UNIT
+# UNIT
 
-### Force and Translational Dynamics 2
+# Force and Translational Dynamics 2
 
 SUGGESTED SKILLS TOPIC 2.
 
-## Circular Motion
+# Circular Motion
 
 Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
 Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway.
 
-## D Required Course Content
+# D Required Course Content
 
 Predict new values or factors of change of physical quantities using functional dependence between variables.
 
@@ -4034,7 +4034,7 @@ A 2.
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -4046,33 +4046,33 @@ The magnitude of centripetal acceleration for an object moving in a circular pat
 
 Relevant equation:
 
-## a_c = v² / r
+a_c = v² / r
 
 Centripetal acceleration is directed toward the center of an object’s circular path.
 
 Centripetal acceleration can result from a single force
 
-## more than one force
+more than one force
 
 or components of forces that are exerted on an object in circular motion.
 
-## At the top of a vertical
+# At the top of a vertical
 
-## circular loop
+circular loop
 
 an object requires a minimum speed to maintain circular motion.
 
-## At this point
+# At this point
 
-### and with this minimum velocity
+and with this minimum velocity
 
 the gravitational force is the only force that causes the centripetal acceleration.
 
 Derived equation:
 
-## v = √(gr)
+v = √(gr)
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 2.
 
@@ -4090,7 +4090,7 @@ The revolution of an object traveling in a circular path at a constant speed (un
 
 The time to complete one full circular path
 
-## one full rotation
+one full rotation
 
 or a full cycle of oscillatory motion is defined as period
 
@@ -4098,13 +4098,13 @@ The rate at which an object is completing revolutions is defined as frequency
 
 Relevant equation:
 
-## T = 1/f
+T = 1/f
 
 For an object traveling at a constant speed in a circular path
 
 the period is given by the derived equation
 
-## T = 2πr / v
+T = 2πr / v
 
 B 2.
 
@@ -4118,57 +4118,57 @@ The period and radius of the circular orbit are related to the mass of the centr
 
 Derived equation:
 
-## T² = (4π² / GM) R³
+T² = (4π² / GM) R³
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics does not expect students to know Kepler’s first or second laws of planetary motion.
 
-## UNIT 3
+# UNIT 3
 
 Work, Energy, and Power
 
-## 15–25%
+15–25%
 
-## AP EXAM WEIGHTING
+# AP EXAM WEIGHTING
 
-## ~12/~17
+~12/~17
 
-## CLASS PERIODS
+# CLASS PERIODS
 
-## Progress Check 3
+# Progress Check 3
 
 Multiple-Choice: ~18 questions
 
 Free-Response: 4 questions
 
-## Mathematical Routines
+# Mathematical Routines
 
-### Translation Between Representations
+# Translation Between Representations
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
 
-## UNIT 3 15–25% ~12/~17
+UNIT 3 15–25% ~12/~17
 
-### AP EXAM WEIGHTING CLASS PERIODS
+# AP EXAM WEIGHTING CLASS PERIODS
 
 Work, Energy, and Power
 
-## Developing Understanding
+# Developing Understanding
 
-## ESSENTIAL
+# ESSENTIAL
 
-## In Unit 3
+# In Unit 3
 
 students will be introduced to the idea of conservation as a foundational principle of physics
 
 along with the concept of work as the primary agent of change for energy.
 
-## As in earlier units
+# As in earlier units
 
 students will once again utilize both familiar and new models and representations to analyze physical situations
 
@@ -4176,7 +4176,7 @@ now with force or energy as major components.
 
 Students will be encouraged to call upon their knowledge of content and skills in Units 1 and 2 to determine the most appropriate technique for approaching a problem and will be challenged to understand the limiting factors of each technique.
 
-### Building the Science Practices
+# Building the Science Practices
 
 The first free-response question on the AP Physics C
 
@@ -4192,25 +4192,25 @@ expository analysis.
 
 A student’s analysis of the situation should be coherent
 
-## organized
+organized
 
 and sequential.
 
-## It should draw from evidence
+# It should draw from evidence
 
-## cite physical principles
+cite physical principles
 
 and clearly present the student’s thinking.
 
 While Unit 3 offers content perfect for practicing the MR question
 
-### the MR question on the AP Physics C
+the MR question on the AP Physics C
 
 Mechanics Exam can pull content from any of the seven units of the course.
 
-## Describing
+# Describing
 
-## creating
+creating
 
 and using representations (1.
 
@@ -4220,7 +4220,7 @@ C) will help students grapple with common misconceptions that they may have abou
 
 such as whether a force does work on an object
 
-### even though the object doesn’t move
+even though the object doesn’t move
 
 or whether a single object can “have” potential energy.
 
@@ -4228,7 +4228,7 @@ A thorough understanding of energy will support students’ ability to justify c
 
 C) about physical situations.
 
-## This understanding is crucial
+# This understanding is crucial
 
 as the mathematical models and representations (2.
 
@@ -4238,25 +4238,25 @@ As students’ comprehension of energy evolves
 
 students should begin to leverage understanding of the science practices to connect and relate knowledge across scales
 
-## concepts
+concepts
 
-## and representations
+and representations
 
 as well as across disciplines—particularly
 
-## physics
+physics
 
-## chemistry
+chemistry
 
 and biology.
 
-## Preparing for the AP Exam
+# Preparing for the AP Exam
 
-## Questions
+# Questions
 
 * Does pushing an object always change its energy?
 
-## * If energy is conserved
+* If energy is conserved
 
 why are we running out of it?
 
@@ -4268,37 +4268,37 @@ why are we running out of it?
 
 UNIT 3 Work, Energy, and Power
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic Suggested Skills
+# Topic Suggested Skills
 
-### 3.1 Translational Kinetic Energy
+# 3.1 Translational Kinetic Energy
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 3.2 Work
+# 3.2 Work
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -4308,15 +4308,15 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## 3.3 Potential Energy
+# 3.3 Potential Energy
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -4326,15 +4326,15 @@ B Calculate or estimate an unknown quantity with units from known quantities
 
 by selecting and following a logical computational pathway.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## 3.4 Conservation of Energy
+# 3.4 Conservation of Energy
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -4348,17 +4348,17 @@ A Create experimental procedures that are appropriate for a given scientific que
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 3.5 Power
+# 3.5 Power
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -4368,11 +4368,11 @@ by selecting and following a logical computational pathway.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -4380,7 +4380,7 @@ Go to AP Classroom to assign the Progress Check for Unit 3.
 
 Review the results in class to identify and address any student misunderstandings.
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -4392,11 +4392,11 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies.
 
-### Activity Topic Sample Activity
+# Activity Topic Sample Activity
 
-## 1 Graph and Switch
+1 Graph and Switch
 
-### 3 Break students into small groups.
+3 Break students into small groups.
 
 Have each group construct a potential energy (U) function that has at least one minimum
 
@@ -4404,7 +4404,7 @@ as well as a graph of that function.
 
 Have the groups switch graphs and formulate an AP-level question about the U function (e.g.
 
-### “If a mass is released at x=3m
+“If a mass is released at x=3m
 
 what is its speed at x=9m?
 
@@ -4412,15 +4412,15 @@ Have the groups switch papers again.
 
 Ask the group to answer the question they have been given.
 
-## 2 Graph and Switch
+2 Graph and Switch
 
 4 Present groups of students with a sequence of two or three energy bar charts and have them describe a realistic situation that would involve those energy transformations.
 
 Have groups switch diagrams and descriptions and justify whether or not the description is consistent with the energy bar chart.
 
-## 3 Desktop Experiment Tasks
+3 Desktop Experiment Tasks
 
-### 4 Using spring-loaded suction cup launchers
+4 Using spring-loaded suction cup launchers
 
 have students measure the spring constant of the spring
 
@@ -4428,7 +4428,7 @@ not by removing the spring from the launcher
 
 but by measuring some aspect of the suction cup’s motion after being launched.
 
-## 4 Changing Representations
+4 Changing Representations
 
 4 Have each student describe an everyday activity that involves the transfer of mechanical energy.
 
@@ -4436,7 +4436,7 @@ Then, have students construct energy bar charts showing the exchanges of energy 
 
 and flowcharts to indicate the flow of energy from one system or form to another.
 
-## 5 Create a Plan
+5 Create a Plan
 
 5 Have students construct a graph of power delivered to a car as a function of time as the car accelerates from rest and reaches full speed.
 
@@ -4444,29 +4444,29 @@ Next, ask students to describe how they could use the graph of power as a functi
 
 TOPIC 3.
 
-## 1 SUGGESTED SKILLS
+1 SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A Describe the translational kinetic energy of an object in terms of the object’s mass and velocity.
 
@@ -4480,13 +4480,13 @@ depending on the observer’s frame of reference.
 
 TOPIC 3.
 
-## 2 SUGGESTED SKILLS
+2 SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -4494,7 +4494,7 @@ C Create qualitative sketches of graphs that represent features of a model or th
 
 A Derive a symbolic expression from known quantities by selecting and following a logical mathematical pathway.
 
-## Required Course Content
+# Required Course Content
 
 Predict new values or factors of change of physical quantities using functional dependence between variables.
 
@@ -4514,25 +4514,25 @@ The most common nonconservative forces are friction and air resistance.
 
 Work is a scalar quantity that may be positive
 
-## negative
+negative
 
 or zero.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 UNIT 3 Work, Energy, and Power
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 Describe the work done on an object or system by a given force or collection of forces.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 The work done on an object by a variable force is calculated using
 
@@ -4540,9 +4540,9 @@ W = ∫ from a to b F(r) ⋅ dr,
 
 where the integral is taken over the path from point a to point b.
 
-### The dot product between two vectors
+# The dot product between two vectors
 
-## A and B
+# A and B
 
 results in a scalar quantity of magnitude A ⋅ B = AB cosθ.
 
@@ -4574,13 +4574,13 @@ and only the system’s kinetic energy can change.
 
 The energy dissipated by friction is typically equated to the force of friction times the length of the path over which the force is exerted.
 
-## ∆E_mech = F_f d cosθ
+∆E_mech = F_f d cosθ
 
 Work is equal to the area under the curve of a graph of ||F|| as a function of displacement.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to analyze the transfer of mechanical energy
 
@@ -4590,9 +4590,9 @@ UNIT 3 Work, Energy, and Power
 
 TOPIC 3.
 
-## 3 Potential Energy
+3 Potential Energy
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -4602,21 +4602,21 @@ Calculate or estimate an unknown quantity with units from known quantities
 
 by selecting and following a logical computational pathway.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 Describe the potential energy of a system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 A system composed of two or more objects has potential energy if the objects within that system only interact with each other through conservative forces.
 
@@ -4634,7 +4634,7 @@ these forces point in the direction of decreasing potential energy.
 
 Relevant equation:
 
-## F_x = − dU(x)/dx
+F_x = − dU(x)/dx
 
 Graphs of a system’s potential energy as a function of its position can be useful in determining physical properties of that system.
 
@@ -4646,11 +4646,11 @@ Unstable equilibrium is a location at which a small displacement in an object’
 
 accelerating the object away from the equilibrium position.
 
-## In a given dimension
+# In a given dimension
 
 stable equilibrium positions exist at locations where the potential energy as a function of position in that dimension has a local minimum.
 
-## In a given dimension
+# In a given dimension
 
 unstable equilibrium positions occur at locations where the potential energy as a function of position in that dimension has a local maximum.
 
@@ -4662,13 +4662,13 @@ where Δx is the distance the spring has been stretched or compressed from its e
 
 Relevant equation:
 
-## U_s = (1/2)k(∆x)^2
+U_s = (1/2)k(∆x)^2
 
 The general form for the gravitational potential energy of a system consisting of two approximately spherical distributions of mass (e.g.
 
 moons, planets
 
-### or stars) is given by the equation
+or stars) is given by the equation
 
 U_g = −G (m_1 m_2)/r.
 
@@ -4684,9 +4684,9 @@ UNIT 3 Work, Energy, and Power
 
 TOPIC 3.
 
-## 4 Conservation of Energy
+4 Conservation of Energy
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 Create quantitative graphs with appropriate scales and units
 
@@ -4700,17 +4700,17 @@ Create experimental procedures that are appropriate for a given scientific quest
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 Describe the energies present in a system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 A system composed of only a single object can only have kinetic energy.
 
@@ -4724,11 +4724,11 @@ Any change to a type of energy within a system must be balanced by an equivalent
 
 A system may be selected so that the total energy of that system is constant.
 
-### If the total energy of a system changes
+# If the total energy of a system changes
 
 that change will be equivalent to the energy transferred into or out of the system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 Describe how the selection of a system determines whether the energy of that system changes.
 
@@ -4742,23 +4742,23 @@ If the work done on a selected system is nonzero
 
 energy is transferred between the system and the environment.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics expects students to know that mechanical energy can be dissipated as thermal energy or sound by nonconservative forces.
 
-## UNIT
+# UNIT
 
-## 3 Work, Energy, and Power
+3 Work, Energy, and Power
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## Create diagrams
+# Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -4768,29 +4768,29 @@ by selecting and following a logical computational pathway.
 
 Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-### Describe the transfer of energy into
+# Describe the transfer of energy into
 
-## out of
+out of
 
 or within a system in terms of power.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 TOPIC 3.
 
-## Power
+# Power
 
-## REQUIRED COURSE CONTENT
+# REQUIRED COURSE CONTENT
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 Power is the rate at which energy changes with respect to time
 
@@ -4802,17 +4802,17 @@ divided by the time it took for that transfer or conversion to occur.
 
 Relevant equation:
 
-## P_avg = ΔE / Δt
+P_avg = ΔE / Δt
 
 Because work is the change in energy of an object or system due to a force
 
-### average power is the total work done
+average power is the total work done
 
 divided by the time during which that work was done.
 
 Relevant equation:
 
-## P_avg = W / Δt
+P_avg = W / Δt
 
 The instantaneous power delivered to an object by a force is given by the equation
 
@@ -4824,29 +4824,29 @@ P_inst = F·v = Fv cos θ.
 
 AP PHYSICS C: MECHANICS
 
-## UNIT 4
+# UNIT 4
 
-## Linear Momentum
+# Linear Momentum
 
-## AP EXAM WEIGHTING
+# AP EXAM WEIGHTING
 
-## 10–20%
+10–20%
 
-## CLASS PERIODS
+# CLASS PERIODS
 
-## ~11/~15
+~11/~15
 
-## Developing Understanding
+# Developing Understanding
 
 Unit 4 introduces students to the relationships between force
 
 time, impulse
 
-### and linear momentum via calculations
+and linear momentum via calculations
 
-## data analysis
+data analysis
 
-## designing experiments
+designing experiments
 
 and making predictions.
 
@@ -4856,7 +4856,7 @@ Using the law of conservation of linear momentum to analyze physical situations 
 
 Students will also have the opportunity to make connections between momentum and kinetic energy of objects or systems and see under what conditions these quantities remain constant.
 
-## ESSENTIAL QUESTIONS
+# ESSENTIAL QUESTIONS
 
 § Why does water move a ship forward when its propellers push water backward?
 
@@ -4864,7 +4864,7 @@ Students will also have the opportunity to make connections between momentum and
 
 § Why might a person land in the water instead of on the dock when trying to exit a canoe?
 
-### Building the Science Practices
+# Building the Science Practices
 
 B 2.
 
@@ -4872,15 +4872,15 @@ B 2.
 
 D 3.
 
-## Inquiry learning
+# Inquiry learning
 
 critical thinking and problem-solving skills are best developed when scientific inquiry experiences are designed and implemented with increasing student involvement.
 
-## In Unit 4
+# In Unit 4
 
 students can be asked to practice collecting data and determining appropriate experimental procedures to answer scientific questions (3.
 
-## For example
+# For example
 
 students can be asked to analyze a familiar experiment by providing a written explanation of how they would make observations or collect data in the given scenario.
 
@@ -4894,13 +4894,13 @@ B, 2.
 
 D) by plotting linearized graphs and using the best fit line to the plotted data to make claims about the physical scenario.
 
-## Preparing for the AP Exam
+# Preparing for the AP Exam
 
 The third free-response question on the AP Physics C
 
 Mechanics Exam is an Experimental Design and Analysis Question.
 
-## In this question
+# In this question
 
 students will need to justify their selection of the kind of data needed and then design a plan to collect these data.
 
@@ -4912,21 +4912,21 @@ In the Experimental Design and Analysis question on the exam
 
 students will also be asked to linearize and analyze data.
 
-### Practicing designing experiments
+# Practicing designing experiments
 
-## performing data analysis
+performing data analysis
 
 and discussing sources of error throughout the course can help students prepare for
 
-## and be successful on
+and be successful on
 
 the Experimental Design and Analysis (LAB) question.
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic | Suggested Skills
+Topic | Suggested Skills
 
-## 1 Linear Momentum | 1.
+1 Linear Momentum | 1.
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -4936,15 +4936,15 @@ by selecting and following a logical computational pathway.
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 2 Change in Momentum and Impulse | 1.
+2 Change in Momentum and Impulse | 1.
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -4954,17 +4954,17 @@ C Compare physical quantities between two or more scenarios or at different time
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-### 3 Conservation of Linear Momentum | 1.
+3 Conservation of Linear Momentum | 1.
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -4976,21 +4976,21 @@ C Compare physical quantities between two or more scenarios or at different time
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 4 Elastic and Inelastic Collisions | 1.
+4 Elastic and Inelastic Collisions | 1.
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5002,7 +5002,7 @@ D Predict new values or factors of change of physical quantities using functiona
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -5010,7 +5010,7 @@ Go to AP Classroom to assign the Progress Check for Unit 4.
 
 Review the results in class to identify and address any student misunderstandings.
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -5022,19 +5022,19 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies.
 
-### Activity | Topic | Sample Activity
+Activity | Topic | Sample Activity
 
-## 1 | 4.
+1 | 4.
 
-### 2 | Four-Square Problem Solving.
+2 | Four-Square Problem Solving.
 
 Present students with a problem where an object’s motion changes (such as a car on an on-ramp entering a highway).
 
-## In the first three squares
+# In the first three squares
 
 have students determine the force applied to the object using Newton’s laws of motion
 
-## work–energy theorem
+work–energy theorem
 
 and impulse momentum theorem.
 
@@ -5042,23 +5042,23 @@ Then, in the fourth square
 
 have students draw a free-body diagram.
 
-## 2 | 4.
+2 | 4.
 
-## 3 | Desktop Experiment Tasks.
+3 | Desktop Experiment Tasks.
 
 Give students a device that launches a projectile much faster than can be measured directly using distance and time data.
 
 Have students launch the projectile into a stationary
 
-## freely movable object
+freely movable object
 
-## make necessary measurements
+make necessary measurements
 
 and use conservation of momentum to determine the launch speed of the projectile.
 
-## 3 | 4.
+3 | 4.
 
-## 3 | Desktop Experiment Tasks.
+3 | Desktop Experiment Tasks.
 
 Give students two spring-loaded carts with different masses.
 
@@ -5068,29 +5068,29 @@ by its spring.
 
 Then, have students make Cart 1 collide elastically with Cart 2 and predict where Cart 2 will land when it rolls off of the track.
 
-## 4 Ranking Tasks
+4 Ranking Tasks
 
 Present students with three scenarios of an arrow being shot at a pumpkin which is attached to the ceiling by a long string.
 
-## In the first scenario
+# In the first scenario
 
 the arrow bounces off the pumpkin and travels back the way it came.
 
-## In the second scenario
+# In the second scenario
 
 the arrow sticks into the pumpkin and travels with the pumpkin.
 
-## In the third scenario
+# In the third scenario
 
 the arrow travels through the pumpkin.
 
 Have students rank the final speeds of the pumpkin and justify their ranking with evidence.
 
-## UNIT 4
+# UNIT 4
 
-## Linear Momentum
+# Linear Momentum
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -5100,23 +5100,23 @@ by selecting and following a logical computational pathway.
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 TOPIC 4.
 
-## Linear Momentum
+# Linear Momentum
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Linear momentum is defined by the equation p = mv.
 
@@ -5134,9 +5134,9 @@ iii An explosion is a model for an interaction in which forces internal to the s
 
 TOPIC 4.
 
-### Change in Momentum and Impulse
+# Change in Momentum and Impulse
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -5146,15 +5146,15 @@ C Compare physical quantities between two or more scenarios or at different time
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 The rate of change of a system’s momentum is equal to the net external force exerted on that system.
 
@@ -5162,7 +5162,7 @@ Relevant equation: F_net = dp/dt.
 
 2 Impulse is defined as the integral of a force exerted on an object or system over a time interval.
 
-## Relevant equation
+# Relevant equation
 
 J = ∫ F_net(t) dt from t1 to t2.
 
@@ -5174,7 +5174,7 @@ J = ∫ F_net(t) dt from t1 to t2.
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Change in momentum is the difference between a system’s final momentum and its initial momentum.
 
@@ -5184,7 +5184,7 @@ Relevant equation: Δp = p - p.
 
 i The impulse exerted on an object is equal to the object’s change in momentum.
 
-## Relevant equation
+# Relevant equation
 
 J = ∫ F_net(t) dt from t1 to t2 = Δp.
 
@@ -5198,19 +5198,19 @@ F_net = dp/dt = v dm/dt.
 
 TOPIC 4.
 
-### Conservation of Linear Momentum
+# Conservation of Linear Momentum
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 B Create quantitative graphs with appropriate scales and units
 
 including plotting data.
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5218,25 +5218,25 @@ C Compare physical quantities between two or more scenarios or at different time
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Describe the behavior of a system using conservation of linear momentum.
 
 i A collection of objects with individual momenta can be described as one system with one center-of-mass velocity.
 
-## For a collection of objects
+# For a collection of objects
 
 the velocity of a system’s center of mass can be calculated using the equation v_cm = ∑ p_i / ∑ m_i = ∑ (m_i v_i) / ∑ m_i.
 
@@ -5244,7 +5244,7 @@ ii The velocity of a system’s center of mass is constant in the absence of a n
 
 2 The total momentum of a system is the sum of the momenta of the system’s constituent parts.
 
-### 3 In the absence of net external forces
+3 In the absence of net external forces
 
 any change to the momentum of an object within a system must be balanced by an equivalent and opposite change of momentum elsewhere within the system.
 
@@ -5264,9 +5264,9 @@ Relevant equation: J = Δp.
 
 4 Correct application of conservation of momentum can be used to determine the velocity of a system immediately before and immediately after collisions or explosions.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to quantitatively analyze collisions and interactions in one or two dimensions.
 
@@ -5274,11 +5274,11 @@ Three-dimensional collisions may be analyzed qualitatively.
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Describe how the selection of a system determines whether the momentum of that system changes.
 
-### 2 Momentum is conserved in all interactions.
+2 Momentum is conserved in all interactions.
 
 3 If the net external force on the selected system is zero
 
@@ -5290,15 +5290,15 @@ momentum is transferred between the system and the environment.
 
 TOPIC 4.
 
-### Elastic and Inelastic Collisions
+# Elastic and Inelastic Collisions
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5310,59 +5310,59 @@ D Predict new values or factors of change of physical quantities using functiona
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 4.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Describe whether an interaction between objects is elastic or inelastic.
 
 2 An elastic collision between objects is one in which the initial kinetic energy of the system is equal to the final kinetic energy of the system.
 
-## 3 In an elastic collision
+3 In an elastic collision
 
 the final kinetic energies of each of the objects within the system may be different from their initial kinetic energies.
 
 4 An inelastic collision between objects is one in which the total kinetic energy of the system decreases.
 
-## 5 In an inelastic collision
+5 In an inelastic collision
 
 some of the initial kinetic energy is not restored to kinetic energy but is transformed by nonconservative forces into other forms of energy.
 
-### 6 In a perfectly inelastic collision
+6 In a perfectly inelastic collision
 
 the objects stick together and move with the same velocity after the collision.
 
 With immediate feedback related to this unit’s topic and skills.
 
-## Progress Check 5
+# Progress Check 5
 
 Multiple-Choice: ~18 questions
 
 Free-Response: 4 questions
 
-## Mathematical Routines
+# Mathematical Routines
 
-### Translation Between Representations
+# Translation Between Representations
 
-### Experimental Design and Analysis
+# Experimental Design and Analysis
 
-### Qualitative/Quantitative Translation
+Qualitative/Quantitative Translation
 
-### UNIT 5 Torque and Rotational Dynamics
+# UNIT 5 Torque and Rotational Dynamics
 
-## Developing Understanding
+# Developing Understanding
 
 Unit 5 reinforces the Unit 2 ideas of force and linear motion by introducing students to the rotational analogs of torque and rotational motion.
 
 Although these topics present more complex scenarios
 
-### the tools of analysis remain the same
+the tools of analysis remain the same
 
 The content and models explored in the first four units of AP Physics C
 
@@ -5372,17 +5372,17 @@ During their study of torque and rotational motion
 
 students will be introduced to different ways of modeling forces.
 
-## Throughout Units 5 and 6
+# Throughout Units 5 and 6
 
 students will compare and connect their understanding of linear and rotational motion
 
-## dynamics
+dynamics
 
-## energy
+energy
 
 and momentum to develop holistic models to evaluate physical phenomena.
 
-## ESSENTIAL QUESTIONS
+# ESSENTIAL QUESTIONS
 
 § Why does a curveball take less time to reach the plate than a fastball?
 
@@ -5392,25 +5392,25 @@ and momentum to develop holistic models to evaluate physical phenomena.
 
 § Why does it matter where a door handle is placed?
 
-### Building the Preparing for the AP Exam
+# Building the Preparing for the AP Exam
 
-## Science Practices
+# Science Practices
 
 The analysis of functional relationships is assessed on the fourth free-response question—the Qualitative/Quantitative Translation (QQT) question—as well as the multiple-choice section of the AP Physics C
 
 Mechanics Exam.
 
-## Therefore
+# Therefore
 
-### students must be able to identify
+students must be able to identify
 
-## work with
+work with
 
 and predict new values from functional dependencies between variables.
 
 Students may also be asked to explain phenomena based on evidence obtained through application of functional relationships.
 
-## For example
+# For example
 
 students might be asked to determine the torque exerted on a system if the force exerted is doubled.
 
@@ -5420,11 +5420,11 @@ students may benefit from many opportunities to practice these important mathema
 
 Mechanics Exam.
 
-## In Unit 5
+# In Unit 5
 
-### students will be introduced to new
+students will be introduced to new
 
-## but somewhat familiar
+but somewhat familiar
 
 equations—and be expected to derive new expressions from those equations (2.
 
@@ -5438,11 +5438,11 @@ B), and justify claims or predict values of variables using functional dependenc
 
 Students who may struggle mathematically will benefit from scaffolded instruction to help them develop the mathematical understanding necessary to go from just calculating the value of a variable to determining how that value changes when the value of other variables in a related equation change.
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
-## Topic Suggested Skills
+# Topic Suggested Skills
 
-## 5.1 Rotational Kinematics
+# 5.1 Rotational Kinematics
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -5452,15 +5452,15 @@ by selecting and following a logical computational pathway.
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 5.2 Connecting Linear and Rotational Motion
+# 5.2 Connecting Linear and Rotational Motion
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -5468,21 +5468,21 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## 5.3 Torque
+# 5.3 Torque
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5494,11 +5494,11 @@ C Compare physical quantities between two or more scenarios or at different time
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## 5.4 Rotational Inertia
+# 5.4 Rotational Inertia
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -5510,21 +5510,21 @@ C Compare physical quantities between two or more scenarios or at different time
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 5 Rotational Equilibrium and Newton’s First Law in Rotational Form
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5532,15 +5532,15 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 5.6 Newton’s Second Law in Rotational Form
+# 5.6 Newton’s Second Law in Rotational Form
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -5554,7 +5554,7 @@ A Create experimental procedures that are appropriate for a given scientific que
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -5562,7 +5562,7 @@ Go to AP Classroom to assign the Progress Check for Unit 5.
 
 Review the results in class to identify and address any student misunderstandings.
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -5574,35 +5574,35 @@ Please refer to the Instructional Approaches section beginning on p.
 
 147 for more examples of activities and strategies.
 
-### Activity Topic Sample Activity
+# Activity Topic Sample Activity
 
-## 1 Predict and Explain 5.1
+1 Predict and Explain 5.1
 
 Put stickers near the center and near the edge of a rotating turntable.
 
 Have students predict and explain the relationships between linear and rotational position
 
-## displacement
+displacement
 
 speed, and acceleration.
 
-## 2 Create a Plan 5.3
+2 Create a Plan 5.3
 
 Have students design a walkway (of given mass) that is to be suspended from a ceiling.
 
 Have them determine the amount of force the two supports (one on each end) must be able to provide as a person (of given mass) walks across the walkway.
 
-## 3 Predict and Explain 5.3
+3 Predict and Explain 5.3
 
 Spin a bike wheel (preferably with the tire removed so that it will roll on its metal rims) and release it from rest on the floor or a long table.
 
 Have students predict what will happen to the wheel’s linear velocity (it will increase) and its angular velocity (it will decrease) as the wheel “peels out.
 
-## ” Then
+” Then
 
 explain why this happens using a force diagram.
 
-### 4 Desktop Experiment Tasks 5.6
+4 Desktop Experiment Tasks 5.6
 
 Have students allow a yo-yo to fall and unroll.
 
@@ -5610,25 +5610,25 @@ Then, have them use a meterstick and stopwatch to determine its downward acceler
 
 Next, have them measure its mass and the radius of its axle and use that information to determine the yo-yo’s rotational inertia using rotational dynamics.
 
-## 5 Create a Plan 5.6
+5 Create a Plan 5.6
 
 Drop two rolls of toilet paper.
 
-## Allow one to fall freely
+# Allow one to fall freely
 
 while the other unrolls as it falls.
 
 Challenge students to determine the difference in heights so that the two rolls
 
-### when released simultaneously from rest
+when released simultaneously from rest
 
 land on the ground at the same time.
 
 TOPIC 5.
 
-## 1 SUGGESTED SKILLS
+1 SUGGESTED SKILLS
 
-## Rotational Kinematics
+# Rotational Kinematics
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -5638,35 +5638,35 @@ by selecting and following a logical computational pathway.
 
 D Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
-### LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
+# LEARNING OBJECTIVE ESSENTIAL KNOWLEDGE
 
 A 5.
 
 Describe the rotation of a system with respect to time using angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration.
 
 Angular displacement is the measurement of the angle
 
-## in radians
+in radians
 
 through which a point on a rigid system rotates about a specified axis.
 
 acceleration.
 
-## ∆θ = θ − θ₀
+∆θ = θ − θ₀
 
 A rigid system is one that holds its shape but in which different points on the system move in different directions during rotation.
 
@@ -5680,13 +5680,13 @@ If the rotation of a system about an axis may be well described using the motion
 
 the system may be treated as a single object.
 
-## For example
+# For example
 
 the rotation of Earth about its axis may be considered negligible when considering the revolution of Earth about the center of mass of the Earth–Sun system.
 
 Describe the rotation of a system with respect to time using angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration.
 
@@ -5698,41 +5698,41 @@ Angular acceleration is the rate at which angular velocity changes with respect 
 
 Relevant equation: α = dω/dt
 
-## Angular displacement
+# Angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration around one axis are analogous to linear displacement
 
-## velocity
+velocity
 
 and acceleration in one dimension and demonstrate the same mathematical relationships.
 
-### For constant angular acceleration
+# For constant angular acceleration
 
 the mathematical relationships between angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration can be described with the following equations
 
-## ω = ω₀ + αt
+ω = ω₀ + αt
 
-### Graphs of angular displacement
+# Graphs of angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration as functions of time can be used to find the relationships between those quantities.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics expects students to be able to mathematically manipulate the magnitudes of angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration using vector conventions.
 
-## However
+# However
 
 the directions of said vectors will not be assessed on the exam.
 
@@ -5748,25 +5748,25 @@ the linear distance traveled by the point as the system rotates through an angle
 
 Derived relationships of linear velocity and of the tangential component of acceleration to their respective angular quantities are given by the following equations
 
-## s = rθ
+s = rθ
 
-## v = rω
+v = rω
 
-## a_t = rα
+a_t = rα
 
-## For a rigid system
+# For a rigid system
 
 all points within that system have the same angular velocity and angular acceleration.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics expects students to be able to mathematically manipulate the magnitudes of angular displacement
 
-## angular velocity
+angular velocity
 
 and angular acceleration using vector conventions.
 
-## However
+# However
 
 the directions of the vectors will not be assessed on the exam.
 
@@ -5784,7 +5784,7 @@ Torques can be described using force diagrams.
 
 Force diagrams are similar to free-body diagrams and are used to analyze the torques exerted on a rigid system.
 
-## Similar to free-body diagrams
+# Similar to free-body diagrams
 
 force diagrams represent the relative magnitude and direction of the forces exerted on a rigid system.
 
@@ -5792,9 +5792,9 @@ Force diagrams also depict the location at which those forces are exerted relati
 
 The torque exerted on a rigid system about a chosen pivot point by a given force is described by τ = r × F.
 
-### The cross-product between two vectors
+# The cross-product between two vectors
 
-## A and B
+# A and B
 
 results in a vector quantity of magnitude A × B = AB sinθ.
 
@@ -5812,11 +5812,11 @@ Compare physical quantities between two or more scenarios or at different times 
 
 Create experimental procedures that are appropriate for a given scientific question.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -5828,7 +5828,7 @@ The rotational inertia of an object rotating at a perpendicular distance r from 
 
 The total rotational inertia of a collection of objects about an axis is the sum of the rotational inertias of each object about that axis.
 
-## I_tot = ΣI_i = Σm_i r_i²
+I_tot = ΣI_i = Σm_i r_i²
 
 For a solid that can be considered as a collection of differential masses
 
@@ -5842,9 +5842,9 @@ A rigid system’s rotational inertia in a given plane is at a minimum when the 
 
 The parallel axis theorem uses the following equation to relate the rotational inertia of a rigid system about any axis that is parallel to an axis through its center of mass
 
-## I′ = I_cm + Md²
+I′ = I_cm + Md²
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to use calculus in the derivations of the rotational inertia of thin rods of uniform or nonuniform density about an arbitrary axis perpendicular to the rod
 
@@ -5856,25 +5856,25 @@ annular rings).
 
 Students should have a qualitative understanding of the factors that affect rotational inertia
 
-## for example
+for example
 
 how rotational inertia is greater when mass is farther from the axis of rotation
 
 which is why a hoop has more rotational inertia than a solid puck of the same mass and radius.
 
-### UNIT 5 Torque and Rotational Dynamics
+# UNIT 5 Torque and Rotational Dynamics
 
 TOPIC 5.
 
 5 Rotational Equilibrium and Newton’s First Law in Rotational Form
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -5882,21 +5882,21 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE: 5.
 
 Describe the conditions under which a system’s angular velocity remains constant.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 A system may exhibit rotational equilibrium (constant angular velocity) without being in translational equilibrium
 
@@ -5914,17 +5914,17 @@ iii The rotational analog of Newton’s first law is that a system will have a c
 
 the system’s angular velocity must be changing.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics does not expect students to simultaneously analyze rotation in multiple planes.
 
 TOPIC 5.
 
-### 6 Newton’s Second Law in Rotational Form
+6 Newton’s Second Law in Rotational Form
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -5938,17 +5938,17 @@ A Create experimental procedures that are appropriate for a given scientific que
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE: 5.
 
 Describe the conditions under which a system’s angular velocity changes.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 Angular velocity changes when the net torque exerted on the object or system is not equal to zero.
 
@@ -5958,7 +5958,7 @@ The angular acceleration of the rigid system is inversely proportional to the ro
 
 Relevant equation: α = τnet / Isys
 
-### 3 To fully describe a rotating rigid system
+3 To fully describe a rotating rigid system
 
 linear and rotational analyses may need to be performed independently.
 
@@ -5968,9 +5968,9 @@ AP EXAM WEIGHTING: 10–15%
 
 CLASS PERIODS: ~13/~19
 
-## Developing Understanding
+# Developing Understanding
 
-## In Unit 6
+# In Unit 6
 
 students will apply their knowledge of energy and momentum to rotating systems.
 
@@ -5978,33 +5978,33 @@ Similar to the approach used for translational energy and momentum concepts in U
 
 it is important that students have conceptual understanding of how angular momentum and rotational energy change due to external torque(s) on a system.
 
-## Additionally
+# Additionally
 
 articulating the conditions under which the rotational energy and/or angular momentum of a system remains constant is foundational to working through more complex scenarios.
 
 Students will use the content and skills presented in both Units 5 and 6 to further study the motion of orbiting satellites and rolling without slipping in this unit.
 
-## Preparing for the AP Exam
+# Preparing for the AP Exam
 
 On both the multiple-choice and free-response sections of the AP Physics C
 
 Mechanics Exam students need to describe the relationships between physical quantities in order to articulate the effects of changing a physical quantity in a scenario.
 
-## Therefore
+# Therefore
 
 students will benefit from opportunities to investigate changes in system
 
 including practicing using fundamental principles of physics to decide whether a quantity will increase
 
-## decrease
+decrease
 
 or remain the same when another quantity is changed.
 
-## In addition
+# In addition
 
-### when writing justifications for claims
+when writing justifications for claims
 
-### simply referencing an equation
+simply referencing an equation
 
 law, or physical principle is not sufficient.
 
@@ -6012,11 +6012,11 @@ Students must clearly and concisely explain the steps in their reasoning that le
 
 law, or physical principle to the justification of their claim.
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
 Topic: 6.
 
-## 1 Rotational Kinetic Energy
+1 Rotational Kinetic Energy
 
 Suggested Skills: 1.
 
@@ -6028,7 +6028,7 @@ B, 3.
 
 Topic: 6.
 
-## 2 Torque and Work
+2 Torque and Work
 
 Suggested Skills: 1.
 
@@ -6040,7 +6040,7 @@ C, 3.
 
 Topic: 6.
 
-### 3 Angular Momentum and Angular Impulse
+3 Angular Momentum and Angular Impulse
 
 Suggested Skills: 1.
 
@@ -6052,7 +6052,7 @@ C, 3.
 
 Topic: 6.
 
-### 4 Conservation of Angular Momentum
+4 Conservation of Angular Momentum
 
 Suggested Skills: 1.
 
@@ -6064,7 +6064,7 @@ B, 3.
 
 Topic: 6.
 
-## 5 Rolling
+5 Rolling
 
 Suggested Skills: 1.
 
@@ -6076,15 +6076,15 @@ D, 3.
 
 question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### 6.6 Motion of Orbiting Satellites
+# 6.6 Motion of Orbiting Satellites
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -6092,7 +6092,7 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -6102,7 +6102,7 @@ Review the results in class to identify and address any student misunderstanding
 
 UNIT 6 Energy and Momentum of Rotating Systems
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -6114,33 +6114,33 @@ Please refer to the Instructional Approaches beginning on p.
 
 147 for more examples of activities and strategies.
 
-### Activity Topic Sample Activity
+# Activity Topic Sample Activity
 
-### 1 Concept-Oriented Demonstration 6.1
+1 Concept-Oriented Demonstration 6.1
 
 Obtain a ring and a disk of equal mass and radius and load up a low-friction cart with weights to make it the same mass as the ring and the disk.
 
 “Race” the three objects from rest down identical inclines to show students the cart wins
 
-## then the disk
+then the disk
 
 and then the ring.
 
-### Have students explain why this occurs
+# Have students explain why this occurs
 
 with forces and then with energy.
 
-## 2 Predict and Explain 6.3
+2 Predict and Explain 6.3
 
 Allow students to explore and experiment with set of fidget spinners.
 
 Ask them to explain why it is difficult to change the plane of rotation of a spinner while it is rotating.
 
-## 3 Create a Plan 6.4
+3 Create a Plan 6.4
 
 Have students complete the necessary research to determine the rotational inertia of a human body in different configurations (e.g.
 
-## arms outstretched
+arms outstretched
 
 arms pulled in).
 
@@ -6148,7 +6148,7 @@ Then, obtain footage of an ice skater spinning and pulling in their arms.
 
 Have students analyze the footage to see if angular momentum is conserved.
 
-### 4 Desktop Experiment Tasks 6.5
+4 Desktop Experiment Tasks 6.5
 
 Have students release a yo-yo from the top of a ramp and allow it to roll down the ramp.
 
@@ -6156,7 +6156,7 @@ Have them use a meterstick and stopwatch to determine the yo-yo’s final veloci
 
 Next, have them measure the yo-yo’s outer radius and mass and use that information to determine the yo-yo’s rotational inertia using energy concepts.
 
-## 5 Construct an Argument 6.5
+5 Construct an Argument 6.5
 
 Have students roll a hoop and a disk (equal mass and radius) down identical ramps.
 
@@ -6166,35 +6166,35 @@ UNIT 6 Energy and Momentum of Rotating Systems
 
 TOPIC 6.
 
-## 1 Rotational Kinetic Energy
+1 Rotational Kinetic Energy
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 A Describe the rotational kinetic energy of a rigid system in terms of the rotational inertia and angular velocity of that rigid system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 The rotational kinetic energy of an object or a rigid system is related to the rotational inertia and angular velocity of the rigid system and is given by the equation K_rot = (1/2)Iω².
 
@@ -6206,25 +6206,25 @@ ii The total kinetic energy of a rigid system is the sum of its rotational kinet
 
 2 A rigid system can have rotational kinetic energy while its center of mass is at rest due to the individual points within the rigid system having linear speed and
 
-## therefore
+therefore
 
 kinetic energy.
 
-### 3 Rotational kinetic energy is a scalar quantity.
+3 Rotational kinetic energy is a scalar quantity.
 
 UNIT 6 Energy and Momentum of Rotating Systems
 
 TOPIC 6.
 
-## 2 Torque and Work
+2 Torque and Work
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -6232,21 +6232,21 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 C Compare physical quantities between two or more scenarios or at different times and/or locations within a single scenario.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 A Describe the work done on a rigid system by a given torque or collection of torques.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 A torque can transfer energy into or out of an object or rigid system if the torque is exerted over an angular displacement.
 
@@ -6260,9 +6260,9 @@ UNIT 6 Energy and Momentum of Rotating Systems
 
 TOPIC 6.
 
-### 3 Angular Momentum and Angular Impulse
+3 Angular Momentum and Angular Impulse
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -6272,17 +6272,17 @@ C Compare physical quantities between two or more scenarios or at different time
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
-## LEARNING OBJECTIVE
+# LEARNING OBJECTIVE
 
 A Describe the angular momentum of an object or rigid system.
 
-## ESSENTIAL KNOWLEDGE
+# ESSENTIAL KNOWLEDGE
 
 1 The magnitude of the angular momentum of a rigid system about a specific axis can be described with the equation L = Iω.
 
@@ -6292,9 +6292,9 @@ i The selection of the axis about which an object is considered to rotate influe
 
 ii The measured angular momentum of an object traveling in a straight line depends on the distance between the reference point and the object
 
-## the mass of the object
+the mass of the object
 
-## the speed of the object
+the speed of the object
 
 and the angle between the radial distance and the velocity of the object.
 
@@ -6302,7 +6302,7 @@ B Describe the angular impulse delivered to an object or rigid system by a torqu
 
 1 Angular impulse is defined as the product of the torque exerted on an object or rigid system and the time interval during which the torque is exerted.
 
-## Relevant equation
+# Relevant equation
 
 angular impulse = ∫(t1 to t2) τ dt.
 
@@ -6320,7 +6320,7 @@ C Relate the change in angular momentum of an object or rigid system to the angu
 
 i The angular impulse exerted on an object or rigid system is equal to the change in angular momentum of that object or rigid system.
 
-## Relevant equation
+# Relevant equation
 
 ΔL = ∫(t1 to t2) τ dt.
 
@@ -6336,9 +6336,9 @@ UNIT 6 Energy and Momentum of Rotating Systems
 
 TOPIC 6.
 
-### 4 Conservation of Angular Momentum
+4 Conservation of Angular Momentum
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -6346,11 +6346,11 @@ Calculate or estimate an unknown quantity with units from known quantities
 
 by selecting and following a logical computational pathway.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -6374,7 +6374,7 @@ that change will be equivalent to the angular impulse exerted on the system.
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -6392,7 +6392,7 @@ A student might be asked to sketch free-body diagrams of a block oscillating on 
 
 The student might then be asked to create energy bar charts for the block–spring system at these positions.
 
-## Lastly
+# Lastly
 
 the student might be asked to make connections between the two representations
 
@@ -6404,7 +6404,7 @@ content from any unit may be included in such free-response questions on the AP 
 
 UNIT 7: Oscillations
 
-## UNIT AT A GLANCE
+# UNIT AT A GLANCE
 
 Topic 7.
 
@@ -6414,9 +6414,9 @@ Suggested Skills:
 
 A: Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -6424,15 +6424,15 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -6450,9 +6450,9 @@ D: Predict new values or factors of change of physical quantities using function
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -6470,9 +6470,9 @@ C: Compare physical quantities between two or more scenarios or at different tim
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
@@ -6492,7 +6492,7 @@ D: Predict new values or factors of change of physical quantities using function
 
 C: Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
@@ -6516,13 +6516,13 @@ A: Create experimental procedures that are appropriate for a given scientific qu
 
 B: Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### SAMPLE INSTRUCTIONAL ACTIVITIES
+# SAMPLE INSTRUCTIONAL ACTIVITIES
 
 The sample activities on this page are optional and are offered to provide possible ways to incorporate instructional approaches into the classroom.
 
@@ -6546,27 +6546,27 @@ Topic: 7.
 
 Give students four to six cases of a mass on a spring.
 
-### The cases should show different masses
+# The cases should show different masses
 
-## spring constants
+spring constants
 
 and oscillation amplitudes (e.g.
 
-## m/k/2A
+m/k/2A
 
-## m/2k/A
+m/2k/A
 
 and 2m/k/2A).
 
-### Have students rank them based on period
+# Have students rank them based on period
 
-## frequency
+frequency
 
-## maximum speed
+maximum speed
 
-## maximum acceleration
+maximum acceleration
 
-## maximum force
+maximum force
 
 and total energy.
 
@@ -6574,9 +6574,9 @@ Activity 3: Desktop Experiment Tasks
 
 Topic: 7.
 
-### Obtain a steel ruler or yardstick
+# Obtain a steel ruler or yardstick
 
-## clamp it to a table
+clamp it to a table
 
 and attach various masses to the end with the hole in it.
 
@@ -6588,19 +6588,19 @@ Activity 4: Changing Representations
 
 Topic: 7.
 
-### Give students a graph of position
+# Give students a graph of position
 
-## velocity
+velocity
 
 or acceleration for simple harmonic motion and have them make the other two graphs with the same time scale
 
-## along with force
+along with force
 
-## momentum
+momentum
 
-## kinetic energy
+kinetic energy
 
-## potential energy
+potential energy
 
 and total energy versus time graphs.
 
@@ -6614,9 +6614,9 @@ Divide students into groups and have each group use a pendulum to determine the 
 
 The winning group is the one whose procedure includes the most components for reducing error (e.g.
 
-## timing multiple periods
+timing multiple periods
 
-## linearizing data
+linearizing data
 
 very precisely finding the center of mass of the bob).
 
@@ -6624,7 +6624,7 @@ TOPIC 7.
 
 1: Defining Simple Harmonic Motion (SHM)
 
-## Required Course Content
+# Required Course Content
 
 Learning Objective 7.
 
@@ -6648,7 +6648,7 @@ TOPIC 7.
 
 2: Frequency and Period of SHM
 
-## Required Course Content
+# Required Course Content
 
 Learning Objective 7.
 
@@ -6670,13 +6670,13 @@ TOPIC 7.
 
 3: Representing and Analyzing SHM
 
-## Required Course Content
+# Required Course Content
 
 Learning Objective 7.
 
 A: Describe the displacement
 
-## velocity
+velocity
 
 and acceleration of an object exhibiting SHM.
 
@@ -6688,25 +6688,25 @@ the displacement of that object measured from its equilibrium position can be re
 
 i: Minima
 
-## maxima
+maxima
 
-## and zeros of displacement
+and zeros of displacement
 
-## velocity
+velocity
 
 and acceleration are features of harmonic motion.
 
 ii: Recognizing the positions or times at which the displacement
 
-## velocity
+velocity
 
-### and acceleration are at their minima
+and acceleration are at their minima
 
-## maxima
+maxima
 
 or zeros is important for analyzing SHM.
 
-## For SHM
+# For SHM
 
 extrema or zeros can help in qualitatively describing the behavior of the motion.
 
@@ -6714,23 +6714,23 @@ The position as a function of time for an object exhibiting SHM is a solution of
 
 Derived equation:
 
-## d²x/dt² = −ω²x
+d²x/dt² = −ω²x
 
-## Characteristics of SHM
+# Characteristics of SHM
 
-### such as velocity and acceleration
+such as velocity and acceleration
 
 can be determined by or derived from the equation
 
-## x = A cos(ωt + φ)
+x = A cos(ωt + φ)
 
-## UNIT 7 Oscillations
+# UNIT 7 Oscillations
 
 A 7.
 
-## Describe the displacement
+# Describe the displacement
 
-## velocity
+velocity
 
 and acceleration of an object exhibiting SHM.
 
@@ -6738,15 +6738,15 @@ The acceleration of an object exhibiting SHM is related to the object’s angula
 
 Derived equation:
 
-## a = −ω²x
+a = −ω²x
 
 It can be shown that the maximum velocity and acceleration of an object exhibiting SHM are related to the angular frequency of the object’s motion.
 
 Derived equations:
 
-## v_max = Aω
+v_max = Aω
 
-## a_max = Aω²
+a_max = Aω²
 
 In the presence of a sinusoidal external force
 
@@ -6762,21 +6762,21 @@ Changing the amplitude of a system exhibiting SHM will not change its period.
 
 Properties of SHM can be determined and analyzed using graphical representations.
 
-## BOUNDARY STATEMENT
+# BOUNDARY STATEMENT
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to know the solution to the second-order differential equation that describes SHM
 
 as well as be able to identify SHM.
 
-## AP Physics C
+# AP Physics C
 
 Mechanics does not expect students to mathematically prove that the solution is correct.
 
 TOPIC 7.
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 C Create qualitative sketches of graphs that represent features of a model or the behavior of the physical system.
 
@@ -6788,11 +6788,11 @@ D Predict new values or factors of change of physical quantities using functiona
 
 C Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or physical principles or laws.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 7.
 
@@ -6804,7 +6804,7 @@ The total energy of a system exhibiting SHM is the sum of the system’s kinetic
 
 Relevant equation:
 
-## E_total = U + K
+E_total = U + K
 
 Conservation of energy indicates that the total energy of a system exhibiting SHM is constant.
 
@@ -6816,17 +6816,17 @@ The minimum kinetic energy of a system exhibiting SHM is zero.
 
 Changing the amplitude of a system exhibiting SHM will change the maximum potential energy of the system and
 
-## therefore
+therefore
 
 the total energy of the system.
 
 Relevant equation for a spring–object system
 
-## E_total = ½kA²
+E_total = ½kA²
 
 TOPIC 7.
 
-## SUGGESTED SKILLS
+# SUGGESTED SKILLS
 
 B Create quantitative graphs with appropriate scales and units
 
@@ -6840,15 +6840,15 @@ by selecting and following a logical computational pathway.
 
 A Create experimental procedures that are appropriate for a given scientific question.
 
-## B Apply an appropriate law
+# B Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-## Required Course Content
+# Required Course Content
 
 LEARNING OBJECTIVE 7.
 
@@ -6858,31 +6858,31 @@ Describe the properties of a physical pendulum.
 
 A physical pendulum is a rigid body that undergoes oscillation about a fixed axis.
 
-### For small amplitudes of motion
+# For small amplitudes of motion
 
 the period of a physical pendulum is derived from the application of Newton’s second law in rotational form.
 
 Relevant equation:
 
-## T_phys = 2π √(I/(mgd))
+T_phys = 2π √(I/(mgd))
 
-### When displaced from equilibrium
+# When displaced from equilibrium
 
 the gravitational force exerted on a physical pendulum’s center of mass provides a restoring torque.
 
 Derived equation:
 
-## τ = −mgd sinθ
+τ = −mgd sinθ
 
-### For small amplitudes of motion
+# For small amplitudes of motion
 
 the small-angle approximation can be applied to the restoring torque.
 
 Derived equations:
 
-## sinθ ≈ θ
+sinθ ≈ θ
 
-## τ = −mgdθ = Iα
+τ = −mgdθ = Iα
 
 The small-angle approximation and Newton’s second law in rotational form yield a second-order differential equation that describes SHM
 
@@ -6894,21 +6894,21 @@ L, from the pivot point.
 
 Relevant equation:
 
-## T_p = 2π √(L/g)
+T_p = 2π √(L/g)
 
 A torsion pendulum is a case of SHM where the restoring torque is proportional to the angular displacement of a rotating system.
 
-## For example
+# For example
 
 a horizontal disk that is suspended from a wire attached to its center of mass may undergo rotational oscillations about the wire in the horizontal plane.
 
 Derived equation:
 
-## Iα = −kΔθ
+Iα = −kΔθ
 
-## Laboratory Investigations
+# Laboratory Investigations
 
-## Lab Experiments
+# Lab Experiments
 
 Although laboratory work has often been separated from classroom work
 
@@ -6922,27 +6922,27 @@ Scientific inquiry experiences in AP Physics C
 
 Mechanics should be designed and implemented with increasing student involvement to help enhance inquiry learning and the development of critical thinking and problem-solving skills and abilities.
 
-## Typically
+# Typically
 
 the level of investigations in an AP Physics C
 
 Mechanics classroom should focus primarily on the continuum between guided and open inquiry.
 
-## However
+# However
 
 depending on students’ familiarity with a topic
 
 a given laboratory experience might incorporate a sequence involving all four levels of inquiry (confirmation
 
-## structured inquiry
+structured inquiry
 
-## guided inquiry
+guided inquiry
 
 and open inquiry).
 
-## Lab Time
+# Lab Time
 
-## For AP Physics C
+# For AP Physics C
 
 Mechanics to be comparable to a college physics course
 
@@ -6956,7 +6956,7 @@ shows that increased laboratory time correlates with higher AP scores.
 
 Flexible or modular scheduling must be implemented to meet the time requirements identified in the course outline.
 
-## Furthermore
+# Furthermore
 
 it is important that the AP Physics laboratory program be adapted to local conditions and funding as it aims to offer the students a well-rounded experience with experimental physics.
 
@@ -6964,7 +6964,7 @@ Adequate laboratory facilities should be provided so that each student has a wor
 
 Sufficient laboratory equipment for the anticipated needs of the class should be available.
 
-## Lab Manuals and Lab Notebooks
+# Lab Manuals and Lab Notebooks
 
 Many publishers and science classroom material distributors offer affordable lab manuals with outlined experiments and activities as well as lab notebooks for recording lab data and observations.
 
@@ -6974,41 +6974,41 @@ even an online document.
 
 Consider the needs of the classroom when deciding what type of lab notebook to use.
 
-## Lab Materials
+# Lab Materials
 
 A wide range of equipment may be used in the physics laboratory
 
-## from generic lab items
+from generic lab items
 
-## such as metersticks
+such as metersticks
 
-## rubber balls
+rubber balls
 
-## springs
+springs
 
-## string
+string
 
-## metal spheres
+metal spheres
 
-## calibrated mass sets
+calibrated mass sets
 
-## beakers
+beakers
 
-## glass and cardboard tubes
+glass and cardboard tubes
 
-## electronic balances
+electronic balances
 
-## stopwatches
+stopwatches
 
-## clamps
+clamps
 
-## and ring stands
+and ring stands
 
-### to items more specific to physics
+to items more specific to physics
 
-## such as tracks
+such as tracks
 
-## force sensors
+force sensors
 
 and oscilloscopes.
 
@@ -7016,7 +7016,7 @@ Remember that the AP lab should provide an experience for students equivalent to
 
 so teachers are encouraged to make every effort to provide a range of experiences—from experiments students contrive from plumbing pipe
 
-## string
+string
 
 and duct tape to experiments in which students gather and analyze data using calculators or computer-interfaced equipment.
 
@@ -7026,7 +7026,7 @@ such as computers and probes.
 
 Probes can often be rented for short periods of time from instrument suppliers.
 
-## Alternatively
+# Alternatively
 
 local colleges or universities may allow high school students to complete a lab as a field trip on their campus
 
@@ -7042,25 +7042,25 @@ enrollment and appropriate instruments should be provided.
 
 Students in AP Physics should have access to computers with software appropriate for processing laboratory data and writing reports.
 
-## AP Physics C
+# AP Physics C
 
-### Mechanics Course and Exam Description
+# Mechanics Course and Exam Description
 
 Physics is a way of approaching scientific discovery that requires personal observation and physical experimentation.
 
 Being successful in this endeavor requires students to synthesize and use a broad spectrum of knowledge and skills
 
-## including mathematical
+including mathematical
 
-## computational
+computational
 
-## experimental
+experimental
 
-## and practical skills
+and practical skills
 
 and to develop habits of mind that might be characterized as thinking like a physicist.
 
-## Student-directed
+# Student-directed
 
 inquiry-based lab experience supports the AP Physics C
 
@@ -7068,19 +7068,19 @@ Mechanics course and AP Course Audit curricular requirements.
 
 It provides opportunities for students to design experiments
 
-## collect data
+collect data
 
-### apply mathematical routines and methods
+apply mathematical routines and methods
 
 and refine testable explanations and predictions.
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics course should include a hands-on laboratory component comparable to a semester-long introductory college-level physics laboratory.
 
 Students must spend a minimum of 25% of instructional time engaged in hands-on laboratory work.
 
-## The AP Physics C
+# The AP Physics C
 
 Mechanics Exam directly assesses the learning objectives of the course framework
 
@@ -7090,15 +7090,15 @@ Teachers should select experiments that provide students with the broadest labor
 
 We encourage teachers to be creative in designing their lab program while ensuring that students explore and develop an understanding of the core techniques of writing experimental procedures and analyzing data.
 
-## After completion
+# After completion
 
 students should be able to describe how to construct knowledge
 
 model (create an abstract representation of a real system)
 
-## design experiments
+design experiments
 
-## analyze visual data
+analyze visual data
 
 and communicate physics.
 
@@ -7108,23 +7108,23 @@ Many questions on the AP Exam are written in an experimental context
 
 so these skills will prove invaluable for both concept comprehension and exam performance.
 
-## Because AP Physics C
+# Because AP Physics C
 
 Mechanics is equivalent to a college course
 
 the equipment and time allotted to laboratories should be similar to that in a college course.
 
-## Therefore
+# Therefore
 
 schools must ensure that students have access to scientific equipment and all materials necessary to conduct hands-on
 
 college-level physics laboratory investigations.
 
-## Getting Students Started
+# Getting Students Started
 
 There are no prescriptive “steps” to the iterative process of inquiry-based investigations.
 
-## However
+# However
 
 there are some common characteristics of inquiry that will support students in designing their investigations.
 
@@ -7136,7 +7136,7 @@ Working with learning objectives to craft questions may include the following
 
 Selecting learning objectives from the course framework that relate to the subject under study
 
-### and that may set forth specific tasks
+and that may set forth specific tasks
 
 in the form of “Design an experiment to .
 
@@ -7154,11 +7154,11 @@ or lead the groups too far off task.
 
 Students should have many opportunities for post-lab reporting so that groups can understand the successes and challenges of individual lab designs.
 
-## Communication
+# Communication
 
-## Group Collaboration
+# Group Collaboration
 
-## and the Laboratory Record
+and the Laboratory Record
 
 Laboratory work is an excellent means through which students can develop and practice communication skills.
 
@@ -7172,7 +7172,7 @@ students learn oral communication skills and teamwork.
 
 Students must be encouraged to take full individual responsibility for the success
 
-## or failure
+or failure
 
 of the collaboration.
 
@@ -7182,11 +7182,11 @@ they may present their findings in either a written or an oral report to the tea
 
 Students should be encouraged to critique and challenge one another’s claims based on the evidence collected during the investigation.
 
-## Laboratory Safety
+# Laboratory Safety
 
 Giving students the responsibility for design of their own laboratory experience involves special responsibilities for teachers.
 
-### To ensure a safe working environment
+# To ensure a safe working environment
 
 teachers should first provide the limitations and safety precautions necessary for potential procedures and equipment students may use during their investigation.
 
@@ -7196,27 +7196,27 @@ so that those precautions can be incorporated into final student-selected lab de
 
 It may also be helpful to print the precautions that apply to that specific lab as Safety Notes to place on the desk or wall near student workstations.
 
-## In addition
+# In addition
 
 a general set of safety guidelines should be set forth for students at the beginning of the course.
 
 The following is a list of possible general guidelines teachers may post.
 
-## Before each lab
+# Before each lab
 
 make sure you know and record the potential hazards involved in the investigation
 
 as well as the precautions you will take to stay safe.
 
-## Before using equipment
+# Before using equipment
 
 make sure you know the proper method of use to acquire good data and avoid damage to equipment.
 
 Know where safety equipment is located in the lab
 
-## such as the fire extinguisher
+such as the fire extinguisher
 
-## safety goggles
+safety goggles
 
 and the first aid kit.
 
@@ -7232,39 +7232,39 @@ Teachers should interact constantly with students as they work to observe safety
 
 Walking among student groups and asking questions allows teachers to keep the pulse of what students are doing and maintain a watchful eye for potential safety issues.
 
-## Laboratory Investigations
+# Laboratory Investigations
 
-## Introduction
+# Introduction
 
-## Laboratory investigations
+# Laboratory investigations
 
-## experiments
+experiments
 
 and activities (also called “labs”) are the cornerstone of many successful physics classrooms.
 
 Labs give students the opportunity to investigate behaviors of objects and systems
 
-## make observations
+make observations
 
 and develop their own explanations and understandings of the physical world.
 
-## Within labs
+# Within labs
 
 students explore patterns and systems to make conclusions that can be used to predict future outcomes.
 
-## This cycle of observation
+# This cycle of observation
 
-## measurement
+measurement
 
-## recording
+recording
 
-## analyzing
+analyzing
 
 and concluding is the backbone of all science.
 
 Justifying conclusions by applying the knowledge
 
-## concepts
+concepts
 
 and principles that are discussed in lecture or classwork sessions to tangible material connects physical actions to conceptual understanding.
 
@@ -7278,15 +7278,15 @@ regarding the length of time they spent per week in the laboratory
 
 shows that increased lab time correlates with higher AP Exam scores.
 
-## Descriptions of Labs
+# Descriptions of Labs
 
 AP Physics courses require that 25% of instruction time is spent in hands-on laboratory work.
 
-## In practice
+# In practice
 
 this translates to approximately one classroom period of 45 minutes per week.
 
-### Defining “Labs” and “Lab Time”
+Defining “Labs” and “Lab Time”
 
 Perhaps the most common questions asked by teachers who are planning their lessons are variations of
 
@@ -7302,21 +7302,21 @@ Perhaps the most common questions asked by teachers who are planning their lesso
 
 “Do labs need to have formal write-ups?
 
-## Labs
+# Labs
 
-## For AP Physics
+# For AP Physics
 
 a lab is performed any time data is collected and/or analyzed.
 
-### A follow-up question might then be
+# A follow-up question might then be
 
 “What is the threshold for collecting data?
 
-## ” For AP Physics
+” For AP Physics
 
 data is collected any time a student writes down an observation or measurement.
 
-## Data can be qualitative
+# Data can be qualitative
 
 such as “The hockey puck looks like it slows down
 
@@ -7324,9 +7324,9 @@ such as “The hockey puck looks like it slows down
 
 23m/s².
 
-### ” Data can be recorded in many ways
+” Data can be recorded in many ways
 
-## such as tables
+such as tables
 
 lists, or paragraphs.
 
@@ -7334,305 +7334,63 @@ The analysis itself can also be qualitative or quantitative
 
 as appropriate for the objective of the lab.
 
-## Lab Time
+# Lab Time
 
-一周（对于一个全年每周5天、每次45分钟的课程）中，用于与实验相关活动的时间。
+一周（对于一个全年每周5天、每次45分钟的课程）中，用于与实验相关活动的时间。这一平均值可以通过多种方式实现。有些教师每周在固定的一天做实验采用每周内容练习、应用和低风险形成性评估的循环。另一些教师则更倾向于每两周完成一个或更复杂的“大实验”。有些教师喜欢在日常课堂中穿插简短的20分钟“迷你实验”。还有一些教师在单元开始时安排几个探究性实验；然后花大量课堂时间进行练习、讨论和概念应用；最后以一两个贯穿整个单元内容的更复杂的实验结束该单元。甚至还有些教师会组合使用以上所有方法。只要满足25%的要求，任何方法都是可接受的。在AP物理C中实验时间是指在课堂上花费的任何用于支持进行实验活动的时间如上定义。这包括但不限于：* 讨论实验目标和目的所花费的时间。* 设备和实验台的准备。* “实验前”的问题和活动例如确定测量内容制定和编写实验步骤绘制实验装置草图创建待填写的数据表格等。* 执行实验步骤。* 根据需要收集、绘制和分析数据。* “实验后”的活动例如解释、比较和讨论实验结果将这些结果与课程内容联系起来或探讨延伸性问题。* 设备和实验台的清理。请注意，以上所有活动都可以根据特定实验的需求，由个人、小组或全班共同完成。有些时候适合让学生自由探索而另一些时候则需要更具体的指导和说明（由于复杂性或安全性或两者兼有）。有时不需要冗长的总结和回顾环节而其他实验则受益于全班分享数据并使用更大的数据池得出结论。所有用于支持实验的时间都可以计入实验时间。**实验类型**
 
-这一平均值可以通过多种方式实现。
+大多数实验可以大致分为三类：探究、验证和应用。探究实验是要求学生在未被课堂告知答案的情况下归纳结果并发现数学关系或定性性质的活动。例如，一个实验可能会提出这样的问题
 
-## 有些教师每周在固定的一天做实验
+“施加给物体的冲量与该物体动量变化之间的关系是什么？”在这个实验之前教师可能已经给出了冲量和动量的定义但可能没有讨论过冲量-动量定理。学生将确定要记录哪些数据如何获取这些数据进行测量，然后得出关于施加给物体的冲量与该物体动量变化之间关系的结论。探究实验的目的是让学生自行创建对物理系统行为的理解。当这种理解通过自身探索建立时它能为学生奠定更坚实的基础学生可以在此基础上构建进一步的知识这比简单地被告知一个物理概念要好得多。真实、有形的物理体验通常更容易关联和记住。“记得你当时做了……”这句话可能比“想象你将会……”更容易让学生理解。请注意，如果学生已经知道冲量和动量变化之间的关系探究实验就很容易转变为验证实验。验证实验确认学生已经获得的信息。根据教师的教法，这些实验在课堂中也可能有益且有用。然而，自我发现的力量应尽可能经常地被利用因为它常常帮助学生的学习成果比简单地确认他人找到的答案更加持久。应用实验是要求学生运用已知的物理原理或思想去设置实验，以求得特定的答案或数量。例如，一个实验可能要求学生“通过测量施加给小车的冲量及其动量变化来确定小车的质量。”对于这个实验，学生已经知道并应用那种关系来完成实验的目标。应用实验的结果通常很容易评估为“对”或“错”。如果学生通过实验测得小车质量为350克将小车放在秤上测量得到347克这就能立即反馈学生应用物理实验技能以及测量质量的水平。一个测得同一辆小车质量为682克的实验小组也能得到类似的即时反馈。在应用实验中一个显著偏离预期结果的意外结果应该促使学生重新检查测量和步骤重新校准设备或寻找方法或数据中的其他错误。学生能够使用即时反馈来检查其工作的准确性这可以成为一个宝贵的工具用于培养学生的信心以及完善技能和理解。即使学生第一次没有得到“正确”答案一个学生在自我纠正后也能获得巨大的自豪感和成就感。这个学生不仅学会了如何克服错误，而且学习过程也可能与积极的结果相关联。**实验技能**
 
-## 采用每周内容
+实验的选择应旨在实施各种适当的科学技能。在AP物理C的背景下，科学实践3中的所有三项技能：科学提问和论证，都适合被强调。然而，在进行实验时，学生也可能展示AP物理科学实践中的任何其他技能。因此，教师应有意识地选择要强调哪些技能，以及在何时强调。例如，一些实验可能需要细致的测量和数据收集，而另一些则只需要定性观察。鼓励教师选择能够涵盖学生将成为全面发展的科学家和物理学家所需的所有技能的实验。没有单一类型的实验或教学方法能够为课堂上的学生提供一种普适的解决方案。学生受益于多样化的策略和方法，以获得对物理概念深刻、全面的理解。**实验设备**
 
-练习、应用和低风险形成性评估的循环。
+AP物理C: 力学中没有强制性的实验设备。仅使用最基本材料就有可能开发出一系列强大的实验。然而，有一系列广泛的设备、传感器和工具可供教师使用，以增强其现有的材料库。以下提供了最常用实验设备的清单。虽然学生不需要对这些工具都有个人经验但他们需要了解这些设备以及每件设备的用途以便知道在AP考试中可能会被问及哪些设备。**通用实验设备**
 
-另一些教师则更倾向于每两周完成一个或更复杂的“大实验”。
+* 支架、90度十字支撑和夹具（不同尺寸和设计）* 米尺
 
-有些教师喜欢在日常课堂中穿插简短的20分钟“迷你实验”。
+* 秤（电子、三梁天平、等）* 绳子
 
-还有一些教师在单元开始时安排几个探究性实验；
+* 通常，高强度的钓鱼线是最好的“物理”用绳。钓鱼线便宜、细、易获得且结实。棉线通常太粗或容易断，尼龙绳则可能难以打出可靠的结。* 胶带（包括遮蔽胶带、美纹纸胶带、管道胶带、透明胶带等）* 剪刀
 
-然后花大量课堂时间进行练习、讨论和概念应用；
+* 胶水和/或胶棒
 
-最后以一两个贯穿整个单元内容的更复杂的实验结束该单元。
+* 各种球体、球和砝码
 
-甚至还有些教师会组合使用以上所有方法。
+**物理专用可选实验设备**
 
-只要满足25%的要求，任何方法都是可接受的。
+* 低摩擦轨道
 
-## 在AP物理C中
+* 低摩擦小车
 
-## 实验时间是指在课堂上花费的任何用于支持进行实验活动的时间
+* 较新型号的小车可以加载短切割磁铁。**实验形式**
 
-如上定义。
+实验可以多种多样。对于一个15分钟的快速演示实验学生只需在索引卡正面写下观察结果在背面写下结论就可以完成。课堂中没有唯一正确的实验方式；可以采用许多不同的方法。一些建议的实验形式包括：* 打印页面供学生完成
 
-这包括但不限于：
-
-* 讨论实验目标和目的所花费的时间。
-
-* 设备和实验台的准备。
-
-## * “实验前”的问题和活动
-
-## 例如确定测量内容
-
-## 制定和编写实验步骤
-
-## 绘制实验装置草图
-
-创建待填写的数据表格等。
-
-* 执行实验步骤。
-
-* 根据需要收集、绘制和分析数据。
-
-## * “实验后”的活动
-
-## 例如解释、比较和讨论实验结果
-
-## 将这些结果与课程内容联系起来
-
-或探讨延伸性问题。
-
-* 设备和实验台的清理。
-
-请注意，以上所有活动都可以根据特定实验的需求，由个人、小组或全班共同完成。
-
-## 有些时候适合让学生自由探索
-
-## 而另一些时候则需要更具体的指导和说明（由于复杂性或安全性
-
-或两者兼有）。
-
-## 有时不需要冗长的总结和回顾环节
-
-而其他实验则受益于全班分享数据并使用更大的数据池得出结论。
-
-所有用于支持实验的时间都可以计入实验时间。
-
-## **实验类型**
-
-大多数实验可以大致分为三类：探究、验证和应用。
-
-## 探究实验是要求学生在未被课堂告知答案的情况下
-
-归纳结果并发现数学关系或定性性质的活动。
-
-例如，一个实验可能会提出这样的问题
-
-“施加给物体的冲量与该物体动量变化之间的关系是什么？
-
-## ”在这个实验之前
-
-## 教师可能已经给出了冲量和动量的定义
-
-但可能没有讨论过冲量-动量定理。
-
-## 学生将确定要记录哪些数据
-
-## 如何获取这些数据
-
-进行测量，然后得出关于施加给物体的冲量与该物体动量变化之间关系的结论。
-
-探究实验的目的是让学生自行创建对物理系统行为的理解。
-
-## 当这种理解通过自身探索建立时
-
-## 它能为学生奠定更坚实的基础
-
-## 学生可以在此基础上构建进一步的知识
-
-这比简单地被告知一个物理概念要好得多。
-
-真实、有形的物理体验通常更容易关联和记住。
-
-“记得你当时做了……”这句话可能比“想象你将会……”更容易让学生理解。
-
-请注意，如果学生已经知道冲量和动量变化之间的关系
-
-探究实验就很容易转变为验证实验。
-
-验证实验确认学生已经获得的信息。
-
-根据教师的教法，这些实验在课堂中也可能有益且有用。
-
-然而，自我发现的力量应尽可能经常地被利用
-
-因为它常常帮助学生的学习成果比简单地确认他人找到的答案更加持久。
-
-应用实验是要求学生运用已知的物理原理或思想去设置实验，以求得特定的答案或数量。
-
-例如，一个实验可能要求学生“通过测量施加给小车的冲量及其动量变化来确定小车的质量。
-
-”对于这个实验，学生已经知道并应用那种关系来完成实验的目标。
-
-应用实验的结果通常很容易评估为“对”或“错”。
-
-## 如果学生通过实验测得小车质量为350克
-
-## 将小车放在秤上测量得到347克
-
-## 这就能立即反馈学生应用物理
-
-实验技能以及测量质量的水平。
-
-一个测得同一辆小车质量为682克的实验小组也能得到类似的即时反馈。
-
-## 在应用实验中
-
-### 一个显著偏离预期结果的意外结果应该促使学生重新检查测量和步骤
-
-重新校准设备或寻找方法或数据中的其他错误。
-
-## 学生能够使用即时反馈来检查其工作的准确性
-
-## 这可以成为一个宝贵的工具
-
-用于培养学生的信心以及完善技能和理解。
-
-## 即使学生第一次没有得到“正确”答案
-
-一个学生在自我纠正后也能获得巨大的自豪感和成就感。
-
-这个学生不仅学会了如何克服错误，而且学习过程也可能与积极的结果相关联。
-
-## **实验技能**
-
-实验的选择应旨在实施各种适当的科学技能。
-
-在AP物理C的背景下，科学实践3中的所有三项技能：科学提问和论证，都适合被强调。
-
-然而，在进行实验时，学生也可能展示AP物理科学实践中的任何其他技能。
-
-因此，教师应有意识地选择要强调哪些技能，以及在何时强调。
-
-例如，一些实验可能需要细致的测量和数据收集，而另一些则只需要定性观察。
-
-鼓励教师选择能够涵盖学生将成为全面发展的科学家和物理学家所需的所有技能的实验。
-
-没有单一类型的实验或教学方法能够为课堂上的学生提供一种普适的解决方案。
-
-学生受益于多样化的策略和方法，以获得对物理概念深刻、全面的理解。
-
-## **实验设备**
-
-AP物理C: 力学中没有强制性的实验设备。
-
-仅使用最基本材料就有可能开发出一系列强大的实验。
-
-然而，有一系列广泛的设备、传感器和工具可供教师使用，以增强其现有的材料库。
-
-以下提供了最常用实验设备的清单。
-
-## 虽然学生不需要对这些工具都有个人经验
-
-## 但他们需要了解这些设备以及每件设备的用途
-
-以便知道在AP考试中可能会被问及哪些设备。
-
-## **通用实验设备**
-
-## * 支架、90度十字支撑和夹具（不同尺寸和设计）
-
-## * 米尺
-
-## * 秤（电子、三梁天平、等）
-
-## * 绳子
-
-* 通常，高强度的钓鱼线是最好的“物理”用绳。
-
-钓鱼线便宜、细、易获得且结实。
-
-棉线通常太粗或容易断，尼龙绳则可能难以打出可靠的结。
-
-## * 胶带（包括遮蔽胶带、美纹纸胶带、管道胶带、透明胶带等）
-
-## * 剪刀
-
-## * 胶水和/或胶棒
-
-## * 各种球体、球和砝码
-
-## **物理专用可选实验设备**
-
-## * 低摩擦轨道
-
-## * 低摩擦小车
-
-* 较新型号的小车可以加载短切割磁铁。
-
-## **实验形式**
-
-实验可以多种多样。
-
-## 对于一个15分钟的快速演示实验
-
-## 学生只需在索引卡正面写下观察结果
-
-## 在背面写下结论
-
-就可以完成。
-
-课堂中没有唯一正确的实验方式；
-
-可以采用许多不同的方法。
-
-一些建议的实验形式包括：
-
-## * 打印页面供学生完成
-
-## * 要求学生保存详细的实验记录本
+* 要求学生保存详细的实验记录本
 
 * 组合方式，包括印刷工作簿风格页面和完整的实验记录本
 
-## * 传统的实验手册和完整的实验报告
-
-鼓励教师在实验中利用常规。
-
-如果在学年开始时引入了结构和流程，那么整个课程中能够进行的实验复杂性就可以增加。
-
-## 在学年开始时
-
-## 教师可以结合实验技能本身（例如
-
-## 在开发步骤、有效记录数据
-
-分析方法等的背景下）来强化和强调这些技能。
-
-建议用于涵盖多种课程技能的实验变化包括：
-
-* 需要仔细注意小细节的实验以及基础和直接的实验。
-
-## * 要求学生重复测量同一量多次以求平均值的实验
-
-以及学生必须改变一个量以寻找两个变量之间关系的实验。
-
-## * 需要图形线性化和复杂数学推导来确定实验值的实验
-
-以及基于定性观察得出简单结论的实验。
-
-## features
+* 传统的实验手册和完整的实验报告鼓励教师在实验中利用常规。如果在学年开始时引入了结构和流程，那么整个课程中能够进行的实验复杂性就可以增加。在学年开始时教师可以结合实验技能本身（例如在开发步骤、有效记录数据分析方法等的背景下）来强化和强调这些技能。建议用于涵盖多种课程技能的实验变化包括：* 需要仔细注意小细节的实验以及基础和直接的实验。* 要求学生重复测量同一量多次以求平均值的实验以及学生必须改变一个量以寻找两个变量之间关系的实验。* 需要图形线性化和复杂数学推导来确定实验值的实验以及基于定性观察得出简单结论的实验。features
 
 such as built-in sensors that can measure the position
 
-## velocity
+velocity
 
-## and acceleration of the cart
+and acceleration of the cart
 
-### as well as a built-in force sensor
+as well as a built-in force sensor
 
 and can connect to a cell phone or computer using cables and/or Bluetooth.
 
 of more accessible content.
 
-## For example
+# For example
 
 if the goal of a lab is to analyze the speed of a bowling ball as it rolls down a hallway
 
 students can typically develop and refine a scientific method of doing so without having to use complex experimental equipment and setups or nuanced physics.
 
-## Later in their studies
+# Later in their studies
 
 a lab could have students investigate the relationship between the period of a meterstick oscillating as a physical pendulum and the pivot point of that oscillation.
 
@@ -7654,11 +7412,11 @@ the quantity that these motion sensors directly measure is time.
 
 ◆ Ultrasonic motion sensors can be used to determine the position
 
-## velocity
+velocity
 
 and acceleration of an object.
 
-## § Photogates
+§ Photogates
 
 ◆ A photogate is a device that uses an infrared light beam and a sensor to detect if a light is blocked (or not).
 
@@ -7670,7 +7428,7 @@ a computer can calculate the average speed of the object as it passes through th
 
 Multiple photogates can be set up to precisely measure the time an object takes to pass from one gate to the next.
 
-## Due to how photogates work
+# Due to how photogates work
 
 a single photogate cannot measure the direction of an object’s motion.
 
@@ -7686,11 +7444,11 @@ the speed being measured may be considered to be equal to the object’s instant
 
 or the average speed between two different photogates.
 
-## In some applications
+# In some applications
 
 this distinction is crucial to obtaining the appropriate value.
 
-## Spring scales/Force sensors
+Spring scales/Force sensors
 
 ◆ Spring scales use the calibrated compression or extension of a spring to determine the force exerted on the spring.
 
@@ -7704,7 +7462,7 @@ and that while the discussion of how electronic force sensors measure can be use
 
 the quantity that these motion sensors directly measure is time.
 
-### Low-friction/low inertia pulleys
+Low-friction/low inertia pulleys
 
 ◆ These are pulleys that have very low-friction axles and low rotational inertia
 
@@ -7714,31 +7472,31 @@ Excessive friction within the axle of a pulley or large pulleys can significantl
 
 ◆ Some manufacturers make pulleys that can be used in conjunction with photogates to precisely calculate the angular displacement
 
-## velocity
+velocity
 
 and acceleration of the pulley.
 
-## Cell phones
+# Cell phones
 
 ◆ Modern cell phones are packed with sensors
 
-## cameras
+cameras
 
 and apps that can be easily and appropriately implemented in the classroom.
 
-## Cell phones have stopwatches
+# Cell phones have stopwatches
 
 video cameras (and most with slow-motion or even time-lapse capabilities)
 
 accelerometers that can be used to measure angles and acceleration
 
-## magnetometers
+magnetometers
 
-## microphones
+microphones
 
 GPS, and so on.
 
-## In addition
+# In addition
 
 there are many free apps that students can download that take advantage of these sensors within a physics lab setting.
 
@@ -7748,7 +7506,7 @@ For most laboratory investigations where data collection with phones is desired
 
 one phone per group will suffice.
 
-### § Video analysis/Computer software
+§ Video analysis/Computer software
 
 ◆ There are multiple options for computer software and video analysis of varying cost and functionality.
 
@@ -7760,27 +7518,27 @@ or perform curve-fitting analyses or linear regressions
 
 and more.
 
-## AP PHYSICS C
+# AP PHYSICS C
 
 MECHANICS Instructional Approaches Selecting and Using Course Materials
 
-### Selecting and Using Course Textbooks
+# Selecting and Using Course Textbooks
 
 While nearly all college-level physics textbooks address the 7 units of AP Physics C
 
-## Mechanics
+# Mechanics
 
 it’s important for teachers to identify other types of secondary sources (such as lab manuals
 
-## TIPERS
+# TIPERS
 
 etc.) to supplement the chosen textbook
 
-## accordingly
+accordingly
 
-### ensuring that each of the 7 topic areas
+ensuring that each of the 7 topic areas
 
-### as well as the science practices
+as well as the science practices
 
 receive adequate attention.
 
@@ -7800,25 +7558,25 @@ In addition to using a college-level textbook that will provide required course 
 
 teachers should provide students with regular opportunities to create and use data
 
-## representations
+representations
 
 and models through supplemental material such as TIPERS (Tasks Inspired by Physics Education Research)
 
-## AP Classroom
+# AP Classroom
 
-## and released AP Physics C
+and released AP Physics C
 
 Mechanics questions.
 
 Rich, experimental investigation is the cornerstone of AP Physics C
 
-## Mechanics
+# Mechanics
 
 and diverse source material allows teachers more flexibility in designing the types of learning activities that will help develop the habits of thinking like a physicist.
 
-### Guided Inquiry in AP Physics C
+# Guided Inquiry in AP Physics C
 
-## Mechanics
+# Mechanics
 
 The more active students are in their science education
 
@@ -7828,7 +7586,7 @@ Inquiry into authentic questions generated from student experiences should be on
 
 Mechanics.
 
-## By posing questions
+# By posing questions
 
 planning investigations to answer those questions
 
@@ -7838,7 +7596,7 @@ students mirror how scientists analyze the natural world.
 
 Inquiry requires identifying assumptions
 
-### using critical and logical thinking
+using critical and logical thinking
 
 and considering alternative explanations.
 
@@ -7848,11 +7606,11 @@ How to Scaffold Inquiry in the AP Classroom
 
 Skill | MORE AMOUNT OF DIRECTION FROM TEACHER | LESS
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -7860,9 +7618,9 @@ or schematics to represent physical situations.
 
 | The student selects from a set of representations provided by the teacher.
 
-## | The student sharpens
+| The student sharpens
 
-## creates
+creates
 
 or augments a representation provided by the teacher.
 
@@ -7876,7 +7634,7 @@ including plotting data.
 
 | The student plots data on a graph that is labeled and scaled
 
-## but not fully completed
+but not fully completed
 
 by the teacher.
 
@@ -7884,7 +7642,7 @@ by the teacher.
 
 | The student creates appropriate graphs with scales and units
 
-## including plotting data
+including plotting data
 
 on their own.
 
@@ -7916,7 +7674,7 @@ A Derive a symbolic expression from known quantities by selecting and following 
 
 | The student derives an expression using physics concepts and principles on their own.
 
-### B The student The student selects T
+# B The student The student selects T
 
 The student performs a calculation on their own using physics concepts and principles.
 
@@ -7956,25 +7714,25 @@ The student works with a procedure provided by the teacher.
 
 The student selects from a set of given procedures provided by the teacher.
 
-## The student sharpens
+# The student sharpens
 
-## completes
+completes
 
 or augments an outline of a procedure provided by the teacher.
 
 The student determines a procedure on their own.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
-### The student is given procedures
+# The student is given procedures
 
-## relationships
+relationships
 
 or data by the teacher to make claims and predictions.
 
@@ -7986,7 +7744,7 @@ The student devises a claim or prediction on their own after summarizing the evi
 
 Justify or support a claim using evidence from experimental data
 
-## physical representations
+physical representations
 
 or principles or laws.
 
@@ -8000,7 +7758,7 @@ The student can form reasonable and logical arguments to communicate explanation
 
 Below are four suggestions to make labs and activities more student-centered and inquiry-based
 
-## Start small
+# Start small
 
 Take out the “data” or “results” section from traditional labs.
 
@@ -8008,9 +7766,9 @@ If the procedure is thorough and simple enough
 
 students can read and design the data and results sections on their own.
 
-## Tackle the procedure
+# Tackle the procedure
 
-## Eventually
+# Eventually
 
 teachers will want students to design their own experiments
 
@@ -8024,25 +7782,25 @@ Next, try having them write a procedure as a pre-lab homework assignment
 
 and then work together as a class to develop it further
 
-## making sure that the question
+making sure that the question
 
-## variables
+variables
 
 and safety are addressed.
 
-## Try a goal-oriented task
+# Try a goal-oriented task
 
-### Completely remove the procedure
+# Completely remove the procedure
 
 and prompt students with a question that asks them to achieve something they want to do.
 
-## At this point
+# At this point
 
 it’s best to choose a lab that incorporates topics students already understand conceptually and that uses simple
 
 familiar equipment.
 
-## Let students do the thinking
+# Let students do the thinking
 
 Create opportunities for students to choose what they will investigate.
 
@@ -8052,21 +7810,21 @@ A pre-lab brainstorming session in small groups is helpful when having students 
 
 It is important to provide students with some guidelines at this step.
 
-## For example
+# For example
 
-### students need to think about a question
+students need to think about a question
 
-## a hypothesis
+a hypothesis
 
 and materials before beginning an open-ended lab.
 
 Seeing and approving this in lab groups helps boost students’ confidence.
 
-## Instructional Strategies
+# Instructional Strategies
 
-### Strategy | Description | Example
+Strategy | Description | Example
 
-## --- | --- | ---
+--- | --- | ---
 
 Ask the Expert | Students are assigned as “experts” on concepts they understand well
 
@@ -8088,15 +7846,15 @@ motion map) to another (e.g.
 
 a free-body diagram).
 
-### This may involve creating pictures
+# This may involve creating pictures
 
-## tables
+tables
 
-## graphs
+graphs
 
 lists, equations
 
-## models
+models
 
 and/or verbal expressions to interpret text or data.
 
@@ -8108,15 +7866,15 @@ a set of conservation of energy equations
 
 sets of energy bar charts and graphs of potential energy
 
-## kinetic energy
+kinetic energy
 
-## total energy
+total energy
 
 or combinations of the above representations.
 
 Concept-Oriented Demonstration | Students create a description
 
-## prediction
+prediction
 
 and/or explanation for a demonstration done by the teacher.
 
@@ -8128,25 +7886,25 @@ Conflicting Contentions | Students are presented with two or three statements th
 
 | Present students with the following scenario
 
-### A small child and a large adult
+# A small child and a large adult
 
-## both wearing roller skates
+both wearing roller skates
 
 stand at rest facing each other.
 
-### The child and adult push off each other
+# The child and adult push off each other
 
-### and when they are no longer touching
+and when they are no longer touching
 
 the child is moving faster than the adult.
 
 Then, ask students to justify or disprove the following claims
 
-## Claim 1
+# Claim 1
 
 “The adult pushed harder on the child because they are bigger.
 
-## ” Claim 2
+” Claim 2
 
 “Both the child and the adult pushed equally hard
 
@@ -8154,7 +7912,7 @@ but the child moved farther while they were pushing
 
 so the child ended up going faster.
 
-## ” Claim 3
+” Claim 3
 
 “The child must have pushed harder to get the adult moving since the adult is bigger
 
@@ -8162,7 +7920,7 @@ and that caused the child to accelerate more.
 
 Construct an Argument | Students use mathematical reasoning to present assumptions about mathematical situations
 
-### evaluate mathematical information
+evaluate mathematical information
 
 support conjectures with mathematically relevant and accurate data
 
@@ -8176,13 +7934,13 @@ given a known speed limit.
 
 Create a Plan | Students analyze the tasks in a problem and create a process for completing the tasks.
 
-### They find the information needed
+# They find the information needed
 
-## interpret data
+interpret data
 
-## choose how to solve a problem
+choose how to solve a problem
 
-## communicate the results
+communicate the results
 
 and verify accuracy.
 
@@ -8190,305 +7948,65 @@ and verify accuracy.
 
 Have students identify the steps needed to determine the relati
 
-包括收集和分析数据，以及如何处理收集到的数据。
+包括收集和分析数据，以及如何处理收集到的数据。**Debriefing**
 
-## **Debriefing**
+学生讨论对概念的理解，以达成共识并澄清误解，同时加深对背景的理解。**示例**
 
-学生讨论对概念的理解，以达成共识并澄清误解，同时加深对背景的理解。
+让学生让一个小球从一个简单的斜坡上滚下并测量小球在五秒内每秒移动的距离。然后，让他们绘制位置-时间图并画一条最佳拟合曲线以帮助他们讨论如何确定小球在5秒内的平均速度以及在几个点上的瞬时速度。**Desktop Experiment**
 
-## **示例**
+学生在课桌上进行演示（可以在课堂上或在家）使用“预测-解释”格式但增加实际操作实验的步骤。这个“操作”步骤包括使用提供的仪器来回答一个给定的问题然后是一个重新表述的步骤让学生在考虑实验结果后重新思考他们之前的解释。**示例**
 
-## 让学生让一个小球从一个简单的斜坡上滚下
+让学生确定他们的鞋与课桌表面之间的动摩擦系数方法是用弹簧秤以恒定速度将鞋拉过表面。学生可以将确定的系数与鞋子的类型（例如运动鞋拖鞋、凉鞋等）进行比较并讨论鞋型与系数之间的关系。**Discussion Groups**
 
-并测量小球在五秒内每秒移动的距离。
+学生分组工作，讨论相关内容，创建问题解决方案，并解释和证明一个解决方案。**示例**
 
-然后，让他们绘制位置-时间图
+作为AP物理C
 
-## 并画一条最佳拟合曲线
+力学考试的复习让学生解决一个物体从一定高度由静止释放后到达地面前的速度问题。挑战学生使用尽可能多的物理途径来解决问题。一些例子可能包括分析力然后使用运动学使用物体-地球系统的能量守恒使用冲量-动量定理以及使用角冲量和角动量。**Friends Without Pens**
 
-## 以帮助他们讨论如何确定小球在5秒内的平均速度
+学生通过两轮“限时工作”来解决问题——先分组，然后独立完成。在第一轮“没有笔的朋友”中，学生被分组讨论问题，但不允许书写任何东西。在第二轮“没有朋友的笔”中学生回到自己的座位单独完成并最终确定他们对问题的回答使用他们从小组讨论中记住的任何信息以及自己对课程概念的理解。**示例**
 
-以及在几个点上的瞬时速度。
+让学生评估两个场景其中木块静止在桌面上桌面与木块之间的摩擦力可忽略不计。在一个场景中，木块被一根张力为50牛的绳子拉动。在第二个场景中一根相同的绳子系在木块上绕过一个滑轮并连接到一个质量为5千克的物体上。让学生通过陈述主张并提供证据来支持该主张，从而比较两个场景中木块的加速度。**Four-Square Problem Solving**
 
-## **Desktop Experiment**
+学生被给定一个场景，可能来自传统的“代入计算”问题。他们将一张纸分成四个象限。在每个象限中学生放入对问题中正在发生的事情的某种表示（例如运动图或图表受力图、能量柱状图动量柱状图、数学模型（即带有符号的方程）标注清晰的图表或书面解释（即两到三句有力清晰的句子）。**示例**：将圆盘无滑动地从斜面上滚下的场景分配给学生。对于四个象限，让学生：绘制圆盘的受力图。绘制圆盘-地球系统在斜面顶端和底端的平动动能、转动动能和重力势能的柱状图。推导圆盘在斜面底部的平动速度方程。就一个圆环（具有相同的质量和半径）如果从同一斜面顶端由静止释放的最终速度提出一个主张。**Graph and Switch**
 
-## 学生在课桌上进行演示（可以在课堂上或在家）
+一对中的每个学生生成一个图（或图表草图），在图形计算器或纸上，以模拟某个函数。然后，学生交换图形计算器或纸张，以审查彼此的解决方案。**示例**
 
-## 使用“预测-解释”格式
+当学生学习动量图时让他们绘制动量-时间图和力-时间图以及创建动量图来模拟一个单一的情景。让学生单独绘制并解释他们的表示如何支持他们对情景提出的主张。然后，让他们与合作伙伴分享他们的步骤，并就他们的图表、主张、证据和推理获得反馈。**Marking the Text**
 
-但增加实际操作实验的步骤。
+学生在文本中突出显示下划线标记和/或注释以识别和关注有助于他们理解概念和解释任务关键信息这些信息对于解决问题是必需的。**示例**
 
-## 这个“操作”步骤包括使用提供的仪器来回答一个给定的问题
+让学生阅读一个关于实验设计的AP水平问题——或者让他们查看另一个学生的实验设计报告——并划时代代词设备和关键信息（例如汽车从静止开始）的下划线以识别回答问题或改进给定回答所需的重要细节。留出时间让学生在要求他们提供解决方案之前就他们发现不清楚的单词或短语提出澄清问题。**Meaningful, Meaningless Calculations**
 
-## 然后是一个重新表述的步骤
+学生决定一个计算是否有意义（即它给出的值告诉我们关于物理情况的某些合理内容）或没有意义（即该表达式是完全不恰当地使用一个关系）。例如，一个无意义的计算可能涉及将错误的数值代入表达式。**示例**：让学生写出一个系统能量的表达式。让他们根据涉及量的单位，判断以下表达式是否有意义：, , ,。让学生解释为什么其他表达式是无意义的，并解决和讨论出现的任何误解。**示例**
 
-让学生在考虑实验结果后重新思考他们之前的解释。
+询问学生一个带风扇的小车从静止释放并穿过一个摩擦可忽略的平坦桌面移动的情景。让学生通过测量移动所需的时间并计算小车位移（）除以该时间来求小车的最终速度。然后，询问学生这是否以及为什么是一个有意义的计算并解释其他计算为何不合适或无意义。**Note Taking**
 
-## **示例**
+学生在阅读文本、听演讲者或与问题互动时，创建信息记录。**示例**：让学生用文字写下解决问题所需的步骤，以便过程的记录可以在以后参考。**Predict and Explain**
 
-## 让学生确定他们的鞋与课桌表面之间的动摩擦系数
+学生预测在一个他们熟悉或有足够背景信息的情景中会发生什么并解释他们认为该结果会发生的原因。**示例**
 
-方法是用弹簧秤以恒定速度将鞋拉过表面。
+当一个弹道摆被设置好时询问学生当飞镖的质量增加或减少时最大摆高会发生什么。然后，询问学生以下问题：如果飞镖反弹而不是嵌入木块会怎样？如果飞镖穿过木块会怎样？**Qualitative Reasoning**
 
-## 学生可以将确定的系数与鞋子的类型（例如运动鞋
+学生被呈现同一物理情况的初始和最终版本被要求运用一个原理来定性推理某个量或方面将如何变化。**示例**
 
-## 拖鞋、凉鞋等）进行比较
+询问学生如果轨道半径增加轨道速度减小或地球质量改变绕地球轨道运行的物体的角动量会发生什么。为了继续他们的思考你可以询问学生随着上述物理性质的变化系统的能量会发生什么？**Quickwrite**
 
-并讨论鞋型与系数之间的关系。
+学生就一个指定主题进行短时间、特定量的写作。**示例**
 
-## **Discussion Groups**
+在学习了机械能守恒之后为了帮助综合概念让学生列出尽可能多的改变系统总机械能的方法并解释每种改变如何影响总机械能。**Ranking Tasks**
 
-学生分组工作，讨论相关内容，创建问题解决方案，并解释和证明一个解决方案。
+学生被呈现一系列基于特定场景的情景变化。这些变化在涉及变量的数值（数字或符号）上不同，但通常也包括对任务不重要的变量。学生对指定物理量的变化进行排序并且必须解释他们排序选择的原因以及评价他们对排序的信心。**示例**
 
-## **示例**
+给定六个以不同速度和不同角度从地面发射的不同箭让学生根据最高点的加速度最长的滞空时间和最高点的最大速度对箭进行排序。**Sharing and Responding**
 
-## 作为AP物理C
-
-## 力学考试的复习
-
-## 让学生解决一个物体从一定高度由静止释放后
-
-到达地面前的速度问题。
-
-挑战学生使用尽可能多的物理途径来解决问题。
-
-## 一些例子可能包括
-
-## 分析力然后使用运动学
-
-## 使用物体-地球系统的能量守恒
-
-## 使用冲量-动量定理
-
-以及使用角冲量和角动量。
-
-## **Friends Without Pens**
-
-学生通过两轮“限时工作”来解决问题——先分组，然后独立完成。
-
-在第一轮“没有笔的朋友”中，学生被分组讨论问题，但不允许书写任何东西。
-
-## 在第二轮“没有朋友的笔”中
-
-## 学生回到自己的座位
-
-## 单独完成并最终确定他们对问题的回答
-
-使用他们从小组讨论中记住的任何信息以及自己对课程概念的理解。
-
-## **示例**
-
-## 让学生评估两个场景
-
-## 其中木块静止在桌面上
-
-桌面与木块之间的摩擦力可忽略不计。
-
-在一个场景中，木块被一根张力为50牛的绳子拉动。
-
-## 在第二个场景中
-
-## 一根相同的绳子系在木块上
-
-## 绕过一个滑轮
-
-并连接到一个质量为5千克的物体上。
-
-让学生通过陈述主张并提供证据来支持该主张，从而比较两个场景中木块的加速度。
-
-### **Four-Square Problem Solving**
-
-学生被给定一个场景，可能来自传统的“代入计算”问题。
-
-他们将一张纸分成四个象限。
-
-## 在每个象限中
-
-## 学生放入对问题中正在发生的事情的某种表示（例如运动图或图表
-
-## 受力图、能量柱状图
-
-## 动量柱状图、数学模型（即带有符号的方程）
-
-## 标注清晰的图表或书面解释（即两到三句有力
-
-清晰的句子）。
-
-**示例**：将圆盘无滑动地从斜面上滚下的场景分配给学生。
-
-对于四个象限，让学生：
-
-绘制圆盘的受力图。
-
-绘制圆盘-地球系统在斜面顶端和底端的平动动能、转动动能和重力势能的柱状图。
-
-推导圆盘在斜面底部的平动速度方程。
-
-就一个圆环（具有相同的质量和半径）如果从同一斜面顶端由静止释放的最终速度提出一个主张。
-
-## **Graph and Switch**
-
-一对中的每个学生生成一个图（或图表草图），在图形计算器或纸上，以模拟某个函数。
-
-然后，学生交换图形计算器或纸张，以审查彼此的解决方案。
-
-## **示例**
-
-## 当学生学习动量图时
-
-## 让他们绘制动量-时间图和力-时间图
-
-以及创建动量图来模拟一个单一的情景。
-
-让学生单独绘制并解释他们的表示如何支持他们对情景提出的主张。
-
-然后，让他们与合作伙伴分享他们的步骤，并就他们的图表、主张、证据和推理获得反馈。
-
-## **Marking the Text**
-
-## 学生在文本中突出显示
-
-## 下划线标记和/或注释
-
-## 以识别和关注有助于他们理解概念和解释任务关键信息
-
-这些信息对于解决问题是必需的。
-
-## **示例**
-
-让学生阅读一个关于实验设计的AP水平问题——或者让他们查看另一个学生的实验设计报告——并划时代代词
-
-## 设备和关键信息（例如
-
-## 汽车从静止开始）的下划线
-
-以识别回答问题或改进给定回答所需的重要细节。
-
-## 留出时间让学生在要求他们提供解决方案之前
-
-就他们发现不清楚的单词或短语提出澄清问题。
-
-**Meaningful, Meaningless Calculations**
-
-## 学生决定一个计算是否有意义（即
-
-### 它给出的值告诉我们关于物理情况的某些合理内容）或没有意义（即
-
-该表达式是完全不恰当地使用一个关系）。
-
-例如，一个无意义的计算可能涉及将错误的数值代入表达式。
-
-**示例**：让学生写出一个系统能量的表达式。
-
-让他们根据涉及量的单位，判断以下表达式是否有意义： , , , 。
-
-让学生解释为什么其他表达式是无意义的，并解决和讨论出现的任何误解。
-
-## **示例**
-
-询问学生一个带风扇的小车从静止释放并穿过一个摩擦可忽略的平坦桌面移动的情景。
-
-让学生通过测量移动所需的时间并计算小车位移（ ）除以该时间来求小车的最终速度。
-
-然后，询问学生这是否以及为什么是一个有意义的计算
-
-并解释其他计算为何不合适或无意义。
-
-## **Note Taking**
-
-学生在阅读文本、听演讲者或与问题互动时，创建信息记录。
-
-**示例**：让学生用文字写下解决问题所需的步骤，以便过程的记录可以在以后参考。
-
-## **Predict and Explain**
-
-## 学生预测在一个他们熟悉或有足够背景信息的情景中会发生什么
-
-并解释他们认为该结果会发生的原因。
-
-## **示例**
-
-## 当一个弹道摆被设置好时
-
-## 询问学生当飞镖的质量增加或减少时
-
-最大摆高会发生什么。
-
-然后，询问学生以下问题：如果飞镖反弹而不是嵌入木块会怎样？
-
-如果飞镖穿过木块会怎样？
-
-## **Qualitative Reasoning**
-
-## 学生被呈现同一物理情况的初始和最终版本
-
-被要求运用一个原理来定性推理某个量或方面将如何变化。
-
-## **示例**
-
-## 询问学生如果轨道半径增加
-
-## 轨道速度减小或地球质量改变
-
-绕地球轨道运行的物体的角动量会发生什么。
-
-## 为了继续他们的思考
-
-## 你可以询问学生
-
-## 随着上述物理性质的变化
-
-系统的能量会发生什么？
-
-## **Quickwrite**
-
-学生就一个指定主题进行短时间、特定量的写作。
-
-## **示例**
-
-## 在学习了机械能守恒之后
-
-## 为了帮助综合概念
-
-## 让学生列出尽可能多的改变系统总机械能的方法
-
-并解释每种改变如何影响总机械能。
-
-## **Ranking Tasks**
-
-学生被呈现一系列基于特定场景的情景变化。
-
-这些变化在涉及变量的数值（数字或符号）上不同，但通常也包括对任务不重要的变量。
-
-## 学生对指定物理量的变化进行排序
-
-## 并且必须解释他们排序选择的原因
-
-以及评价他们对排序的信心。
-
-## **示例**
-
-## 给定六个以不同速度和不同角度从地面发射的不同箭
-
-## 让学生根据最高点的加速度
-
-最长的滞空时间和最高点的最大速度对箭进行排序。
-
-## **Sharing and Responding**
-
-学生成对或分组互相交流，轮流提出问题的解决方案并做出回应。
-
-**示例**：让学生单独回答一个来自AP物理C：力学考试的已发布的自由回答题。
-
-然后，让学生两人一组互相审查同一问题的答案。
-
-solutions of others, or small groups.
+学生成对或分组互相交流，轮流提出问题的解决方案并做出回应。**示例**：让学生单独回答一个来自AP物理C：力学考试的已发布的自由回答题。然后，让学生两人一组互相审查同一问题的答案。solutions of others, or small groups.
 
 Have those pairs or groups make any necessary corrections and build a single
 
 complete solution together.
 
-## Simplify the Problem
+# Simplify the Problem
 
 Students use “friendlier” numbers or functions to help solve a problem.
 
@@ -8496,7 +8014,7 @@ Have students use the analogy of one-dimensional motion when initially analyzing
 
 Ask them how they would go about solving the problem in the simpler context—what formulas they would use
 
-### what quantities they would substitute
+what quantities they would substitute
 
 and so on.
 
@@ -8504,17 +8022,17 @@ and so on.
 
 ”: Students analyze a statement or diagrammed situation to determine if it is correct.
 
-## If everything is correct
+# If everything is correct
 
 students explain why the situation/statement works as described.
 
-## If something is incorrect
+# If something is incorrect
 
 students must identify the error and explain how to correct it.
 
 Have students analyze a free-body diagram or a force diagram that may or may not have incorrect forces drawn.
 
-### If all forces drawn are correct
+# If all forces drawn are correct
 
 have students explain why they are correct.
 
@@ -8522,11 +8040,11 @@ If one or more forces drawn are incorrect
 
 have students explain why they are incorrect and how they might correct the error.
 
-## Write and Switch
+# Write and Switch
 
-## Students make observations
+# Students make observations
 
-## collect data
+collect data
 
 or make a claim about a situation and then switch papers with a partner.
 
@@ -8536,15 +8054,15 @@ As students learn about creating an argument
 
 have them draft an initial argument themselves
 
-## share their claim
+share their claim
 
-## evidence
+evidence
 
-## and reasoning with a partner
+and reasoning with a partner
 
 and receive feedback on their argument.
 
-### Give students a scenario such as
+# Give students a scenario such as
 
 “Two objects sit at rest on a horizontal surface where friction between the objects and the surface is negligible.
 
@@ -8554,31 +8072,31 @@ Describe the motion of the center of mass of the two objects from before to afte
 
 Justify your answer.
 
-## Working Backward
+# Working Backward
 
 Students work with the reverse order of the steps for solving a problem.
 
-## For example
+# For example
 
 the given information could be an equation with specific values for all
 
-## or all but one
+or all but one
 
 of the variables.
 
 Students then construct a physical situation for which the given equation would apply.
 
-## Give students an equation
+# Give students an equation
 
-## such as 4m=(6m/s)t−(9m/s²)t²
+such as 4m=(6m/s)t−(9m/s²)t²
 
 and ask students to create another representation from this equation
 
 such as a written scenario that this equation could represent
 
-## a position versus time graph
+a position versus time graph
 
-## a velocity versus time graph
+a velocity versus time graph
 
 or a motion map.
 
@@ -8586,9 +8104,9 @@ Start small by asking students for only one additional representation
 
 and work toward having students create several representations for each scenario.
 
-### Developing the Science Practices
+# Developing the Science Practices
 
-## Throughout the course
+# Throughout the course
 
 students will develop science practices that are fundamental to the discipline of physics.
 
@@ -8596,47 +8114,47 @@ Students will benefit from multiple opportunities to develop these practices in 
 
 The tables that follow look at each of the science practices and their associated skills and provide examples of questions with sample activities for incorporating instruction on that skill into the course.
 
-## Science Practice 1
+# Science Practice 1
 
-## Creating Representations
+# Creating Representations
 
 Representations help in analyzing phenomena
 
 making predictions and communicating ideas.
 
-## AP Physics C
+# AP Physics C
 
-### Mechanics requires students to use
+# Mechanics requires students to use
 
-## analyze
+analyze
 
 and/or re-express models and representations of natural or man-made systems.
 
 Model introductory physics concepts are pictures
 
-## motion maps
+motion maps
 
-## free-body diagrams
+free-body diagrams
 
-## force diagrams
+force diagrams
 
-## graphs
+graphs
 
-## energy bar charts
+energy bar charts
 
 and momentum charts.
 
 Create representations that depict physical phenomena.
 
-### A special note about free-body diagrams
+# A special note about free-body diagrams
 
-## AP Physics C
+# AP Physics C
 
 Mechanics only expects students to depict the forces exerted on objects
 
 not the force components on free-body diagrams.
 
-## On the AP Physics exams
+# On the AP Physics exams
 
 individual forces represented on a free-body diagram must be drawn as individual straight arrows
 
@@ -8648,7 +8166,7 @@ not overlapping.
 
 Students often think that to make a graph
 
-### they need to connect the data points
+they need to connect the data points
 
 or that the best-fit function is always linear.
 
@@ -8658,11 +8176,11 @@ even for data that do not fit a linear relationship.
 
 The following table provides examples of questions and sample activities for strengthening the skill of creating representations.
 
-## A Create diagrams
+# A Create diagrams
 
-## tables
+tables
 
-## charts
+charts
 
 or schematics to represent physical situations.
 
@@ -8674,29 +8192,29 @@ Questions to Ask Students:
 
 - What features of the representation provide information relevant to the question or problem?
 
-## Sample Activities
+# Sample Activities
 
 Have students divide their paper into four quarters.
 
-## In each quarter of the paper
+# In each quarter of the paper
 
 have students create a representation of a provided physical situation.
 
-## For example
+# For example
 
 have students create four different representations of two objects during an elastic collision.
 
-### Representations can include graphs
+# Representations can include graphs
 
-## equations
+equations
 
-## narratives
+narratives
 
-## bar charts
+bar charts
 
-## motion maps
+motion maps
 
-## free-body diagrams
+free-body diagrams
 
 or sketches of physical situations.
 
@@ -8732,7 +8250,7 @@ What does the pattern show about the relationship between quantities?
 
 - What is the physical meaning of the y and/or x-intercepts of the linearized graph?
 
-## Sample Activities
+# Sample Activities
 
 When learning about one-dimensional motion
 
@@ -8744,7 +8262,7 @@ Have students determine what they should graph so that they can create a lineari
 
 Have students identify correct graphs by giving them a “What
 
-## if Anything
+if Anything
 
 Is Wrong?
 
@@ -8752,15 +8270,15 @@ Is Wrong?
 
 Ask students to analyze a set of data and a supposed matching graph
 
-## and ask them to identify what
+and ask them to identify what
 
-## if anything
+if anything
 
 is wrong with the graph.
 
 The “wrong” things can be simple at first (e.g.
 
-## scales not uniform
+scales not uniform
 
 labels left off) and then can be scaffolded to be more difficult and address student misconceptions later in the course.
 
@@ -8772,13 +8290,13 @@ Questions to Ask Students:
 
 - What is the relationship between the two physical quantities?
 
-### - What kind of graph (scatter plot
+- What kind of graph (scatter plot
 
-## bar-graph
+bar-graph
 
 sketch of a graph etc.) is appropriate to represent the relationships between quantities that represent the phenomena?
 
-## Sample Activities
+# Sample Activities
 
 Ask students to sketch graphs of the potential energy of a box-spring system as it oscillates horizontally
 
@@ -8788,19 +8306,19 @@ Then, have students add to that graph a sketch of the kinetic energy of the box 
 
 and then the total mechanical energy of the box–spring system as a function of the position of the box.
 
-## Finally
+# Finally
 
 have students highlight the differences and similarities in the graphs.
 
-## Science Practice 2
+# Science Practice 2
 
-## Mathematical Routines
+# Mathematical Routines
 
-## Conduct analyses to derive
+# Conduct analyses to derive
 
-## calculate
+calculate
 
-## estimate
+estimate
 
 or predict physical phenomena.
 
@@ -8812,9 +8330,9 @@ When students work with these representations
 
 they should understand the connections between pictorial representations
 
-## force diagrams
+force diagrams
 
-## and so on
+and so on
 
 and then choose an appropriate mathematical representation—instead of first choosing a formula whose variables seem to match the “givens” in the problem.
 
@@ -8826,9 +8344,9 @@ between the mathematical descriptions and the physical phenomena and the concept
 
 Students should be able to translate between functional relationships in equations (e.g.
 
-## proportionalities
+proportionalities
 
-## inverse proportionalities
+inverse proportionalities
 
 etc.) and cause-and-effect relationships in the physical world
 
@@ -8840,33 +8358,33 @@ students need to be able to justify why using a particular equation or mathemati
 
 and be aware of the conditions under which the equation/mathematical representation can be used.
 
-## When solving a problem
+# When solving a problem
 
 students need to be able to describe the given situation in multiple ways
 
 including through the following table provides examples of questions and instructional strategies for implementing mathematical routines into the course
 
-## Science Practice 2
+# Science Practice 2
 
-## Mathematical Routines
+# Mathematical Routines
 
 Skill | Questions to Ask Students | Sample Activities
 
-## --- | --- | ---
+--- | --- | ---
 
-## A | § What laws
+A | § What laws
 
-## definitions
+definitions
 
 or mathematical relationships relate to the given problem?
 
-## <br> § What are the rules
+<br> § What are the rules
 
-## assumptions
+assumptions
 
 or limitations surrounding the use of the chosen law
 
-## definition
+definition
 
 or relationship?
 
@@ -8882,9 +8400,9 @@ Are any steps skipped?
 
 If so, which ones?
 
-### | Have students identify which main law
+| Have students identify which main law
 
-## definition
+definition
 
 or mathematical relationship should be used in a scenario
 
@@ -8902,7 +8420,7 @@ have students choose an equation or fundamental physics principle (e.g.
 
 conservation of energy) from the AP Physics C
 
-### Mechanics Table of Information
+# Mechanics Table of Information
 
 Equations.
 
@@ -8924,17 +8442,17 @@ What units should be used?
 
 | Have students work backward from a given mathematical representation to a physical situation.
 
-## For example
+# For example
 
 students can be given an equation such as (m_1 g - µ m_1 g cosθ - m_1 g sinθ = (m_1 + m_2) a) and then ask students to create another representation from this equation
 
 such as a written scenario that this equation could represent
 
-## a position versus time graph
+a position versus time graph
 
-## a velocity versus time graph
+a velocity versus time graph
 
-## free-body diagram
+free-body diagram
 
 and so on.
 
@@ -8954,21 +8472,21 @@ Compare physical quantities between two or more scenarios or at different times 
 
 D | § What relationship(s) link the needed and given quantities?
 
-## <br> § What are the rules
+<br> § What are the rules
 
-## assumptions
+assumptions
 
 or limitations surrounding the use of the chosen law
 
-## definition
+definition
 
 or relationship?
 
 <br> How are the quantities in the relationship related (e.g.
 
-## directly
+directly
 
-## inversely
+inversely
 
 etc.)?
 
@@ -8982,7 +8500,7 @@ and then determine the changes in the applied torque depending on the length of 
 
 Predict new values or factors of change of physical quantities using functional dependence between variables.
 
-## Science Practice 3
+# Science Practice 3
 
 Scientific Questioning and Argumentation
 
@@ -8992,35 +8510,35 @@ It is important that students understand that scientific instruments do not prod
 
 One step may be designing a second experiment to determine the same quantity and then checking for consistency across the two measurements.
 
-## Finally
+# Finally
 
 students should be able to revise their initial explanation or reasoning based on the new data.
 
-### Describe experimental procedures
+# Describe experimental procedures
 
-## analyze data
+analyze data
 
 and support claims.
 
 Physicists examine data and evidence to develop claims about physical phenomena.
 
-### As they articulate their claims
+# As they articulate their claims
 
 physicists use reasoning processes that rely on their awareness of different types of relationships
 
-## connections
+connections
 
 and patterns within the data and evidence.
 
 They then formulate a claim and develop an argument that explains how the claim is supported by the available evidence.
 
-## As a result
+# As a result
 
 students should learn how to create persuasive and meaningful arguments by using claims they develop and evidence they’ve identified to support those claims.
 
-## The analysis
+# The analysis
 
-## interpretation
+interpretation
 
 and application of quantitative information are vital skills for students in AP Physics C
 
@@ -9032,7 +8550,7 @@ but students will be more invested in their data analysis if it is data they hav
 
 Students should be encouraged to analyze their data
 
-## draw conclusions
+draw conclusions
 
 and apply their knowledge to content across the course.
 
@@ -9048,13 +8566,13 @@ Class discussions can reveal issues of measurement uncertainty and assumptions i
 
 The following table provides examples of strategies for implementing opportunities to practice argumentation throughout the course.
 
-## Science Practice 3
+# Science Practice 3
 
 Scientific Questioning and Argumentation
 
 Skill | Questions to Ask Students | Sample Activities
 
-## --- | --- | ---
+--- | --- | ---
 
 A | § What information will be needed to answer the scientific question?
 
@@ -9082,43 +8600,43 @@ Then, have them identify and/or describe the manner in which each source would a
 
 Create experimental procedures that are appropriate for a given scientific question.
 
-## B | § What law
+B | § What law
 
-## definition
+definition
 
-## relationship
+relationship
 
 or model can be used to make a claim about the scenario?
 
 <br> § What is your purpose (e.g.
 
-## to define
+to define
 
-## to show causality
+to show causality
 
-## compare
+compare
 
 or explain a process) for making a claim?
 
-### | Ask students a question such as
+| Ask students a question such as
 
 “Which of the following has the most effect on the speed of a sphere released from rest at the top of an inclined plane?
 
-## ” Then
+” Then
 
 have students analyze possibilities and the evidence for and against each claim.
 
-## Apply an appropriate law
+# Apply an appropriate law
 
-## definition
+definition
 
-## theoretical relationship
+theoretical relationship
 
 or model to make a claim.
 
 C | § What reasoning (e.g.
 
-## physical laws
+physical laws
 
 theories) supports your claim?
 
@@ -9138,10 +8656,10 @@ Justify or support a claim using evidence from experimental data
 
 physical representations or physical principles or laws.
 
-## CASE STUDY—BLOCK ON A RAMP
+CASE STUDY—BLOCK ON A RAMP
 
 The following multiple-choice questions all use the same stimulus and basic scenario.
 
-## However
+# However
 
 each multiple-choice question is written to a

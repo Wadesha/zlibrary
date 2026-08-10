@@ -1,80 +1,80 @@
-### # Quantum Physics (John Gribbin)
+Quantum Physics (John Gribbin)
 
-## 9.95 Canada
+# 9.95 Canada
 
-## 780789 489234
+780789 489234
 
-## ## ESSENTIAL SCIENCE
+# ESSENTIAL SCIENCE
 
-## **quantum physics**
+**quantum physics**
 
-## JOHN GRIBBIN
+# JOHN GRIBBIN
 
-## SERIES EDITOR JOHN GRIBBIN
+# SERIES EDITOR JOHN GRIBBIN
 
 LONDON, NEW YORK, MUNICH,
 
 MELBOURNE, and DELHI
 
-## series editors Peter Frances
+series editors Peter Frances
 
-## Hazel Richardson
+# Hazel Richardson
 
-## DTP designer Rajen Shah
+# DTP designer Rajen Shah
 
-### picture librarian Gemma Woodward
+picture librarian Gemma Woodward
 
-## illustrator Richard Tibbitts
+illustrator Richard Tibbitts
 
 category publisher Jonathan Metcalf,
 
-### managing art editor Philip Ormerod
+managing art editor Philip Ormerod
 
-### Produced for Dorling Kindersley by
+# Produced for Dorling Kindersley by
 
 Design Revolution, Queens Park Villa,
 
-### 30 West Drive, Brighton, East Sussex, BN2 0QW
+30 West Drive, Brighton, East Sussex, BN2 0QW
 
-## editor John Watson
+editor John Watson
 
-## designer Lindsey Johns
+designer Lindsey Johns
 
 First American Edition, 2002
 
 05109876543
 
-### Published in the United States by
+# Published in the United States by
 
 DK Publishing, Inc.
 
-## 375 Hudson Street
+375 Hudson Street
 
 New York, NY 10014
 
-### No part of this publication may be
+# No part of this publication may be
 
-## reproduced
+reproduced
 
-## stored in a retrieval system
+stored in a retrieval system
 
-## or transmitted in any
+or transmitted in any
 
-## form or by any means
+form or by any means
 
-## electronic
+electronic
 
-## mechanical
+mechanical
 
-## photocopying
+photocopying
 
-## recording
+recording
 
-## or otherwise
+or otherwise
 
-### without the prior written permission of
+without the prior written permission of
 
-## Published in Great Britain by
+# Published in Great Britain by
 
 Dorling Kindersley Limited.
 
@@ -86,55 +86,55 @@ Quantum physics / John Gribbin.
 
 – 1st American ed.
 
-## – (Essential Science)
+– (Essential Science)
 
 Includes bibliographical references and index.
 
-## paper)
+paper)
 
-### 1. Quantum theory. I. Title. II. Series.
+# 1. Quantum theory. I. Title. II. Series.
 
 QC174.
 
-## 12 .
+12 .
 
-## G7468 2002
+# G7468 2002
 
 530.
 
-## 12–dc21
+12–dc21
 
 2002071497
 
-### Color reproduction by Coloursean
+# Color reproduction by Coloursean
 
-## Singapore
+# Singapore
 
-### See our complete product line at
+# See our complete product line at
 
-## contents
+contents
 
-## meet the quantum
+meet the quantum
 
-## classical physics
+classical physics
 
-## the quantum revolution
+the quantum revolution
 
 out of the darkness.
 
-## the central mystery
+the central mystery
 
-## the jewel in the crown
+the jewel in the crown
 
 putting quanta to work.
 
 inside the nucleus.
 
-## the quantum
+the quantum
 
 computer.
 
-## principles into practice
+principles into practice
 
 teleportation—quantum style.
 
@@ -142,17 +142,17 @@ glossary.
 
 index.
 
-## further reading
+further reading
 
 acknowledgments.
 
-## ## QUANTUM PHYSICS
+# QUANTUM PHYSICS
 
-## ### Classical physics
+# Classical physics
 
-## Toward the end of the 1800s
+# Toward the end of the 1800s
 
-## physicists thought that
+physicists thought that
 
 their understanding of the way that the physical universe
 
@@ -166,35 +166,35 @@ material world operates.
 
 In 1864,
 
-### James Clerk Maxwell revealed the
+# James Clerk Maxwell revealed the
 
-### equivalent laws controlling the
+equivalent laws controlling the
 
-## behavior of light and other
+behavior of light and other
 
 electromagnetic phenomena,
 
-## which apparently completed
+which apparently completed
 
-## the story of how the universe
+the story of how the universe
 
 of matter and light worked.
 
 within a generation, the world
 
-## of physics was turned upside
+of physics was turned upside
 
-## down by new discoveries of
+down by new discoveries of
 
-## phenomena operating outside
+phenomena operating outside
 
 the laws of Newton and Maxwell.
 
-## The “quantum revolution” that
+The “quantum revolution” that
 
-### these discoveries generated is the
+these discoveries generated is the
 
-### one true revolutionary event in
+one true revolutionary event in
 
 the whole history of science.
 
@@ -206,7 +206,7 @@ was overturned by the revolution—the “classical” account
 
 of physics according to Newton and Maxwell.
 
-## #### Newton’s laws
+Newton’s laws
 
 Among Isaac Newton's discoveries are the three Laws of
 
@@ -214,33 +214,33 @@ Motion that describe the way all kinds of objects interact
 
 when they collide with each other in the everyday world.
 
-## These three laws explain
+# These three laws explain
 
-## everything from the way
+everything from the way
 
-## atoms and molecules
+atoms and molecules
 
 bounce off each other,
 
-## how the moving parts
+how the moving parts
 
 of a car engine interact,
 
-## and what's required to
+and what's required to
 
-## send a spacecraft into
+send a spacecraft into
 
 orbit.
 
 Newton’s First Law states that any object stays in
 
-## the same place
+the same place
 
 or moves in a straight line at a constant
 
 speed, unless it is acted on by a force.
 
-## The truth of
+# The truth of
 
 this is not obvious in the everyday world because there
 
@@ -250,25 +250,25 @@ moving objects.
 
 However, objects that are moving in
 
-## space in free fall
+space in free fall
 
-### such as planets in orbit around the
+such as planets in orbit around the
 
 Sun, flawlessly obey this law because they are moving
 
 in a virtual vacuum and there is no friction.
 
-## Newton’s Second
+Newton’s Second
 
-### > "I do not know what I may appear
+> "I do not know what I may appear
 
 > to the world, but to myself I seem to
 
-### > have been only like a boy playing on
+> have been only like a boy playing on
 
 > the seashore, and diverting myself in
 
-### > now and then finding a smoother
+> now and then finding a smoother
 
 > pebble or a prettier shell than ordinary
 
@@ -276,23 +276,23 @@ in a virtual vacuum and there is no friction.
 
 > undiscovered before me.
 
-## > – Isaac Newton
+> – Isaac Newton
 
-## Law says that when
+# Law says that when
 
-## a force acts on an
+a force acts on an
 
 object, the
 
-## acceleration produced
+acceleration produced
 
-## is equal to the force
+is equal to the force
 
-## applied divided by
+applied divided by
 
 the mass of the object.
 
-## This is familiar in
+# This is familiar in
 
 everyday life, for
 
@@ -300,7 +300,7 @@ example, on a pool
 
 table where the harder you hit the white ball
 
-## the faster
+the faster
 
 it will move.
 
@@ -310,7 +310,7 @@ solely by an increase in velocity—acceleration can
 
 also be defined as a change in direction
 
-## or by a
+or by a
 
 combination of changes in both velocity and in
 
@@ -322,33 +322,33 @@ approximately the same speed, it is also
 
 accelerating because the Sun’s gravity is
 
-## ### MEET THE QUANTUM
+# MEET THE QUANTUM
 
-## #### a momentous collision
+a momentous collision
 
-## If a moving car hits
+# If a moving car hits
 
 a brick wall, the
 
-## scattering of the
+scattering of the
 
-## bricks carries some
+bricks carries some
 
-## of the momentum
+of the momentum
 
 away.
 
-## But in a
+# But in a
 
 head-on collision,
 
-## their combined
+their combined
 
-## momentum is
+momentum is
 
-## completely
+completely
 
-## absorbed by the
+absorbed by the
 
 cars, causing much
 
@@ -364,7 +364,7 @@ The third Law of Motion is the one that causes people
 
 the most trouble.
 
-### Newton used the word “action” to
+Newton used the word “action” to
 
 mean “force” when he said that for every action there is
 
@@ -372,7 +372,7 @@ an equal and opposite reaction.
 
 For example, when I fire
 
-## a rifle
+a rifle
 
 the action pushes the bullet out of the barrel and
 
@@ -380,47 +380,47 @@ the reaction makes the rifle butt kick against my shoulder.
 
 If I stood on an ice-skating rink and threw a heavy
 
-## medicine ball away from me
+medicine ball away from me
 
-## the reaction would make me
+the reaction would make me
 
 slide backward on the ice.
 
-### When a spacecraft fires its rear
+# When a spacecraft fires its rear
 
-## engine in space
+engine in space
 
-### exhaust gases are pushed out of the
+exhaust gases are pushed out of the
 
 vents, producing a reaction that makes the rocket
 
 accelerate forward.
 
-### It is this law that explains how atoms
+# It is this law that explains how atoms
 
-## bounce off each other
+bounce off each other
 
-## what happens when pool balls
+what happens when pool balls
 
-## collide
+collide
 
 and why head-on car collisions can be even worse
 
-### than running into a brick wall
+than running into a brick wall
 
-## because the combined
+because the combined
 
 speed of the two cars has to be taken into account.
 
-## #### Maxwell’s equations
+Maxwell’s equations
 
-## Until the end of the 1800s
+# Until the end of the 1800s
 
-## Newton’s three laws seemed to
+Newton’s three laws seemed to
 
 define the material world completely.
 
-## Even the behavior
+# Even the behavior
 
 of atoms and the newly discovered electron could be
 
@@ -430,9 +430,9 @@ application of electric and magnetic forces.
 
 Maxwell provided an explanation of these two
 
-## forces
+forces
 
-### the other half of the physical world
+the other half of the physical world
 
 which seemed to complete the picture.
 
@@ -440,33 +440,33 @@ Maxwell built on the research by Michael
 
 Faraday into electricity and magnetism.
 
-### During the first half of the 1800s
+# During the first half of the 1800s
 
-## Faraday
+# Faraday
 
-### ##### Compasses and magnetic fields
+# Compasses and magnetic fields
 
-## Compasses show
+# Compasses show
 
-## the direction
+the direction
 
-## of the lines of
+of the lines of
 
-## magnetic
+magnetic
 
 force.
 
-## Iron filings show the
+# Iron filings show the
 
-## shape of the lines of
+shape of the lines of
 
 magnetic force.
 
-## Compasses show the direction
+# Compasses show the direction
 
 of the lines of magnetic force.
 
-## Attached wires supply
+# Attached wires supply
 
 an electric current.
 
@@ -474,15 +474,15 @@ developed the key concepts of lines of force
 
 magnetic and electric “fields.
 
-## ” He invented the electric
+” He invented the electric
 
-## motor and the dynamo
+motor and the dynamo
 
-### and discovered that a changing
+and discovered that a changing
 
 magnetic field always produces an electric field
 
-## and that a
+and that a
 
 changing electric field always produces a magnetic field.
 
@@ -490,7 +490,7 @@ A field can be thought of as the region over which the
 
 force involved has influence.
 
-## It can be visualized by what
+# It can be visualized by what
 
 happens when a bar magnet is placed under a sheet of
 
@@ -500,7 +500,7 @@ tapped.
 
 The filings align themselves in curving patterns
 
-## around the magnet
+around the magnet
 
 marking out the shape of its field.
 
@@ -508,119 +508,119 @@ Each of the curved lines linking the south pole of the
 
 magnet to its north pole is a line of force.
 
-## ##### Inducing a current
+# Inducing a current
 
-## A magnet moving through
+# A magnet moving through
 
-## a coil of wire induces
+a coil of wire induces
 
 a current.
 
-## A coil of wire
+# A coil of wire
 
-## and a meter
+and a meter
 
-## show the direction
+show the direction
 
 of current produced.
 
-## #### CLASSICAL PHYSICS
+# CLASSICAL PHYSICS
 
-## ##### Fields of force
+# Fields of force
 
-## The lines of
+# The lines of
 
-## magnetic force
+magnetic force
 
-## making up the
+making up the
 
-## field around a bar
+field around a bar
 
-## magnet can be
+magnet can be
 
-## traced using iron
+traced using iron
 
 filings, or by
 
-## placing magnetic
+placing magnetic
 
-## compasses near
+compasses near
 
 the magnet.
 
 surrounding the magnet.
 
-## • The compass
+• The compass
 
-## needles line up
+needles line up
 
-## along the field
+along the field
 
 lines.
 
-## When
+# When
 
-## an electric
+an electric
 
-## current
+current
 
-## flows
+flows
 
-## through
+through
 
 a coil of wire, it
 
-## causes a similar
+causes a similar
 
-## field of magnetic
+field of magnetic
 
 force to form, but
 
-## only while the
+only while the
 
-## electric current
+electric current
 
 is flowing.
 
-## Dynamo physics
+# Dynamo physics
 
 A dynamo, or
 
 electric generator,
 
-## works because a
+works because a
 
-## magnet moving past
+magnet moving past
 
-## a wire makes an
+a wire makes an
 
-## electric current flow
+electric current flow
 
 in the wire.
 
-## Michael
+# Michael
 
-## Faraday discovered
+# Faraday discovered
 
-## that pushing a
+that pushing a
 
-## magnet into a coil
+magnet into a coil
 
-## of wire connected to
+of wire connected to
 
-## a meter to measure
+a meter to measure
 
-## electric current
+electric current
 
-## caused the needle of
+caused the needle of
 
 the meter to flicker.
 
-## --- Page 7 ---
+--- Page 7 ---
 
-## (10) MEET THE QUANTUM
+(10) MEET THE QUANTUM
 
-## 5 interference
+5 interference
 
 Maxwell had been able to light as a wave Thomas Young
 
@@ -636,7 +636,7 @@ which Young demonstrated that light is a
 
 four equations that describe the behavior became known as Maxwell's wave using an experiment with two
 
-### of just electric and magnetic fields
+of just electric and magnetic fields
 
 Equations.
 
@@ -644,45 +644,45 @@ They perform holes.
 
 First, light with a pure color
 
-### of just electric and magnetic fields
+of just electric and magnetic fields
 
 the same role in field shines through a single
 
-## narrow slit
+narrow slit
 
-## The Scottish physicist
+# The Scottish physicist
 
-## Maxwell (1831-79)
+Maxwell (1831-79)
 
-## discovered the set of
+discovered the set of
 
-## four equations that
+four equations that
 
-## describe the behavior
+describe the behavior
 
-## of just electric and
+of just electric and
 
-## magnetic fields in a
+magnetic fields in a
 
 set of four equations, which
 
-## became known as Maxwell's
+became known as Maxwell's
 
 Equations.
 
-## They perform
+# They perform
 
-## the same role in field
+the same role in field
 
 in a screen.
 
-## The light
+# The light
 
-## from this hole passes
+from this hole passes
 
-## through two parallel
+through two parallel
 
-## slits in a second
+slits in a second
 
 screen, and falls
 
@@ -690,15 +690,15 @@ on a third screen.
 
 There, it makes a
 
-## pattern of light and
+pattern of light and
 
 dark stripes.
 
-### explanation is that light travels in
+explanation is that light travels in
 
 a wave, like ripples in a pond.
 
-### ripples from each of the two slits
+ripples from each of the two slits
 
 go up and down, and where
 
@@ -712,55 +712,55 @@ are exactly out of step, they cancel out
 
 and make darkness.
 
-## electromagnetic radiation in
+electromagnetic radiation in
 
 classical terms.
 
-## This is the greatest
+# This is the greatest
 
 achievement of classical physics theory (the theory of
 
 electromagnetic forces) - as Newton’s Laws do in
 
-## mechanics (the theory of
+mechanics (the theory of
 
 particle behavior).
 
-## Among
+# Among
 
 other things, the equations
 
-## describe what happens when
+describe what happens when
 
 a moving electric wave,
 
-## which might be caused by an
+which might be caused by an
 
 electron jiggling up and down in an atom
 
-## travels through
+travels through
 
 space.
 
-## As the wave ripples along
+# As the wave ripples along
 
-## the electric field at each
+the electric field at each
 
 point it passes changes.
 
-### But a changing electric field creates
+# But a changing electric field creates
 
 a magnetic field.
 
-### So the electric wave creates a magnetic
+# So the electric wave creates a magnetic
 
 wave that moves in step with it.
 
-## But the magnetic wave
+# But the magnetic wave
 
 creates an electric wave.
 
-## What really happens is that a
+# What really happens is that a
 
 jiggling electron produces not a simple electric wave
 
@@ -768,21 +768,21 @@ but a paired electric and magnetic wave—an astonishing
 
 revelation to 19th-century scientists that adding two
 
-### kinds of light together could make
+kinds of light together could make
 
 an electromagnetic wave.
 
-## There is no such thing as
+# There is no such thing as
 
 a pure electric or a pure magnetic wave.
 
-## As well as developing the
+# As well as developing the
 
 mathematical description of light,
 
-## Maxwell came up with the
+# Maxwell came up with the
 
-### “three-color” process of making
+“three-color” process of making
 
 colored images, which is used in
 
@@ -790,161 +790,161 @@ domestic TV receivers today.
 
 Besides the work of Isaac Newton.
 
-## Thomas Young
+# Thomas Young
 
-## (1773-1829)
+(1773-1829)
 
-## interference
+interference
 
-## produces
+produces
 
-## peaks and
+peaks and
 
 troughs.
 
-## A board is moved to make
+# A board is moved to make
 
-## water waves
+water waves
 
 wens that are backward and forward to produce
 
-### through a single slit and then a
+through a single slit and then a
 
-### through two parallel slits in a
+through two parallel slits in a
 
 body of water.
 
-## Galilean
+# Galilean
 
-## slit and are diffracted
+slit and are diffracted
 
-## way a wave can
+way a wave can
 
-## be made to run
+be made to run
 
-## along a rope
+along a rope
 
-## by shaking
+by shaking
 
-## the end up
+the end up
 
 and down.
 
-## wavelength
+wavelength
 
 of the wave.
 
-### peaks coincide — waves reinforce
+peaks coincide — waves reinforce
 
-### each other with peaks coinciding
+each other with peaks coinciding
 
 with troughs.
 
-## VVV —
+VVV —
 
-## 人
+人
 
-## wave moves
+wave moves
 
-## horizontally
+horizontally
 
 along the rope,
 
-## up-and-down
+up-and-down
 
-## motion of
+motion of
 
-## the hand
+the hand
 
-## constructive interference
+constructive interference
 
-### Peaks coincide to produce a wave
+# Peaks coincide to produce a wave
 
 of twice the amplitude.
 
-## destructive interference
+destructive interference
 
-## Peaks coincide with troughs
+# Peaks coincide with troughs
 
 to produce no wave.
 
-## --- Page 8 ---
+--- Page 8 ---
 
-## (12)
+(12)
 
-## refracted light
+refracted light
 
-## A simple triangular
+# A simple triangular
 
-## glass prism will
+glass prism will
 
-## split white
+split white
 
-## light (or
+light (or
 
-## sunlight) into
+sunlight) into
 
-## the colors of the
+the colors of the
 
 rainbow.
 
-## We now
+# We now
 
-## know that each
+know that each
 
-## color corresponds to
+color corresponds to
 
-## a different band of
+a different band of
 
 wavelengths, and
 
-## the shorter
+the shorter
 
 the wavelength,
 
-## the greater the
+the greater the
 
 refraction.
 
-## electromagnetic
+electromagnetic
 
-## spectrum
+spectrum
 
-## Visible light makes
+# Visible light makes
 
-## up just a small
+up just a small
 
-## portion of the
+portion of the
 
-## electromagnetic
+electromagnetic
 
 spectrum, which
 
-## ranges from very
+ranges from very
 
-## short wavelength
+short wavelength
 
-## gamma radiation
+gamma radiation
 
 to radio waves.
 
-## extent to which an
+extent to which an
 
-## electromagnetic
+electromagnetic
 
-## wave is refracted
+wave is refracted
 
-## depends on its
+depends on its
 
 wavelength.
 
-## gamma x-ray
+gamma x-ray
 
-## ultraviolet
+ultraviolet
 
-## light enters prism
+light enters prism
 
-### The icing on the cake came when Maxwell
+# The icing on the cake came when Maxwell
 
 used his equations to calculate the speed at
 
@@ -956,25 +956,25 @@ wave, and for all electromagnetic waves.
 
 of light.
 
-### All electromagnetic waves travel at
+# All electromagnetic waves travel at
 
 the speed of light, and the inescapable
 
-### conclusion is that light consists of
+conclusion is that light consists of
 
-## an electromagnetic wave
+an electromagnetic wave
 
 traveling through space.
 
-## refraction of white
+refraction of white
 
-## light splits it into
+light splits it into
 
-## its constituent
+its constituent
 
 wavelengths.
 
-## light wave problems
+light wave problems
 
 It was already known that light travels through space in
 
@@ -986,9 +986,9 @@ England and Augustin Fresnel in France early in the
 
 Faraday had suggested that light is “a high
 
-### vibration in the lines of force
+vibration in the lines of force
 
-## ” but he lacked the
+” but he lacked the
 
 mathematical knowledge to describe how this could work.
 
@@ -1008,13 +1008,13 @@ shorter wavelength radiation (ultraviolet light and
 
 X-rays).
 
-## However
+# However
 
-### there was one problem with the wave
+there was one problem with the wave
 
 theory of light.
 
-### It could not explain a phenomenon
+# It could not explain a phenomenon
 
 known as black body radiation.
 
@@ -1022,9 +1022,9 @@ At first, this seemed to
 
 be a minor irritation that could soon be resolved
 
-## but the
+but the
 
-### more physicists looked at the problem
+more physicists looked at the problem
 
 the bigger it grew.
 
@@ -1032,7 +1032,7 @@ visible light infrared microwave radio wave
 
 This speed turned out to be exactly the speed
 
-## THE QUANTUM REVOLUTION
+# THE QUANTUM REVOLUTION
 
 Black body radiation gets its name in a curiously
 
@@ -1044,41 +1044,41 @@ object that absorbs all the electromagnetic radiation that
 
 falls on it.
 
-### If such an object were to become hot
+# If such an object were to become hot
 
-## it would
+it would
 
-## then radiate energy—black
+then radiate energy—black
 
-## body radiation—but it would
+body radiation—but it would
 
 no longer be black.
 
-## Its old
+# Its old
 
-## name—cavity radiation—gives
+name—cavity radiation—gives
 
-## a much more telling insight
+a much more telling insight
 
-## into the nature of
+into the nature of
 
 this kind of radiation.
 
-## ‘The only laws of matter
+‘The only laws of matter
 
-## are those which our minds
+are those which our minds
 
 must fabricate, and the only
 
-## laws of mind are fabricated
+laws of mind are fabricated
 
 by it by matter.
 
-## James Clerk Maxwell
+# James Clerk Maxwell
 
 what is black body radiation?
 
-## Imagine a large
+# Imagine a large
 
 hollow sphere in which there is one tiny
 
@@ -1086,173 +1086,173 @@ hole.
 
 Any radiation that arrives at the hole goes through
 
-### and is absorbed inside the cavity
+and is absorbed inside the cavity
 
-## which acts like a black
+which acts like a black
 
 body.
 
-### Now imagine heating the sphere up
+# Now imagine heating the sphere up
 
-## until it glows
+until it glows
 
-## first red-hot
+first red-hot
 
-## then white-hot
+then white-hot
 
 then blue-hot.
 
-## The radiation that comes
+# The radiation that comes
 
-### out of the hole is pure black body (or
+out of the hole is pure black body (or
 
 cavity) radiation.
 
-## The name “black
+The name “black
 
 body” is applied, somewhat confusingly,
 
 even to this colored radiation.
 
-## This
+# This
 
-### example highlights one of the most
+example highlights one of the most
 
-### important features of black body
+important features of black body
 
 radiation.
 
-## Its color depends on its
+# Its color depends on its
 
 temperature.
 
-## Since the color of light is
+# Since the color of light is
 
 related to its wavelength, this means
 
-### that the intensity of the radiation —
+that the intensity of the radiation —
 
-## key points
+key points
 
-## * Light travels as a
+* Light travels as a
 
 wave, like ripples
 
 on a pond.
 
-## * Newton’s laws
+* Newton’s laws
 
-## and Maxwell's
+and Maxwell's
 
-## equations seemed
+equations seemed
 
-## to describe almost
+to describe almost
 
-## everything about
+everything about
 
-## the physical world
+the physical world
 
-## at the end of the
+at the end of the
 
 1800s.
 
-## * Those laws could
+* Those laws could
 
-## not explain the
+not explain the
 
-## nature of light
+nature of light
 
-## radiated by hot
+radiated by hot
 
 objects.
 
-## absorbing
+absorbing
 
-## and radiating
+and radiating
 
-## A cold sphere with
+# A cold sphere with
 
-## a hole in it absorbs
+a hole in it absorbs
 
-## electromagnetic
+electromagnetic
 
-## radiation and acts
+radiation and acts
 
 like a black body.
 
 When it gets hot,
 
-## it emits electro-
+it emits electro-
 
 magnetic radiation.
 
-## This is black body
+# This is black body
 
 radiation.
 
-## radiation escapes
+radiation escapes
 
-## from cavity
+from cavity
 
-## --- Page 9 ---
+--- Page 9 ---
 
-## (14) MEET THE
+(14) MEET THE
 
-## red-hot
+red-hot
 
-## A glass
+# A glass
 
-## blower can
+blower can
 
-## tell the temperature
+tell the temperature
 
 of the molten glass,
 
-## and therefore its
+and therefore its
 
 physical properties,
 
 from its color,
 
-## blackbody curves
+blackbody curves
 
-## The wavelength at
+# The wavelength at
 
-## which the intensity
+which the intensity
 
-## of the radiation
+of the radiation
 
-## from a hot object
+from a hot object
 
-## peaks is related to
+peaks is related to
 
-## the temperature of
+the temperature of
 
 the object.
 
-## These
+# These
 
-## “black body curves”
+“black body curves”
 
-## all peak in the
+all peak in the
 
-## infrared region of
+infrared region of
 
-## the spectrum in the
+the spectrum in the
 
 form of “hills,” and
 
-## produce little
+produce little
 
-## radiation in the
+radiation in the
 
 visible spectrum.
 
-## QUANTUM
+# QUANTUM
 
-## emitted at each wavelength
+emitted at each wavelength
 
-## depends on the temperature
+depends on the temperature
 
 of the object.
 
@@ -1260,9 +1260,9 @@ This is true in everyday life, and
 
 we all know that an object like a radiator may radiate
 
-## infrared heat without glowing
+infrared heat without glowing
 
-## and that a red-hot
+and that a red-hot
 
 lump of iron is cooler than a white-hot lump of
 
@@ -1272,19 +1272,19 @@ Many objects radiate very much like a black
 
 body, including the Sun.
 
-## It is possible to measure
+# It is possible to measure
 
 the surface temperature of the Sun (about 6
 
-## 000°K) simply
+000°K) simply
 
 from its color (yellow-orange) and by assuming that it is
 
 a black body radiator.
 
-## By the 1890s
+# By the 1890s
 
-### experiments had shown exactly how
+experiments had shown exactly how
 
 the radiation of a black body is related to its temperature.
 
@@ -1292,7 +1292,7 @@ When the electromagnetic spectrum of this radiation
 
 is plotted as a graph (the black body curve)
 
-## it shows a
+it shows a
 
 smooth peak, like a hill.
 
@@ -1300,89 +1300,89 @@ At a particular temperature, the
 
 peak is always in the same part of the spectrum
 
-## that is
+that is
 
 at the same wavelength.
 
 But, as the black body gets
 
-## hotter
+hotter
 
 the peak moves to shorter wavelengths (from
 
-## infrared
+infrared
 
-## to red
+to red
 
-## to orange
+to orange
 
-## to blue
+to blue
 
 and so on).
 
-## Intensity curve for
+# Intensity curve for
 
-## each temperature
+each temperature
 
-## Peak wavelength
+# Peak wavelength
 
-## Radiation from
+# Radiation from
 
-## a hot object
+a hot object
 
-## green-yellow red
+green-yellow red
 
-## at 507K
+at 507K
 
-## WAVELENGTH λ (μm)
+WAVELENGTH λ (μm)
 
-### power radiated at each wavelength
+power radiated at each wavelength
 
-## Predicted curve
+# Predicted curve
 
-### This is the radiation curve that the
+# This is the radiation curve that the
 
-## But there is very little
+# But there is very little
 
-## radiation on either side
+radiation on either side
 
 of the peak.
 
-### classical physics of Newton and
+classical physics of Newton and
 
 Maxwell predicted.
 
-## Any hot object
+# Any hot object
 
-## should radiate
+should radiate
 
-## energy mainly at
+energy mainly at
 
-## very short wave-
+very short wave-
 
 lengths, which is
 
-## the ultraviolet end
+the ultraviolet end
 
 of the spectrum.
 
-## The failure of this
+# The failure of this
 
-## prediction has
+prediction has
 
-## become known as
+become known as
 
-## the “ultraviolet
+the “ultraviolet
 
 catastrophe.
 
-## infrared
+infrared
 
-## region
+region
 
-## ultraviolet
+ultraviolet
 
-## region
+region
 
 by classical physics.
 
@@ -1392,25 +1392,25 @@ electromagnetic waves are treated in the same way
 
 (mathematically speaking) as waves on the ocean or on
 
-## a violin string
+a violin string
 
-### and if energy (heat) is put in
+and if energy (heat) is put in
 
-## the intensity
+the intensity
 
 of the radiation produced should be proportional to the
 
 frequency of the radiation.
 
-## The higher the frequency
+# The higher the frequency
 
 (which means the shorter the wavelength)
 
-## the more
+the more
 
 radiation there should be—at any temperature.
 
-## Most of
+# Most of
 
 the energy emitted should be in the ultraviolet region and
 
@@ -1424,21 +1424,21 @@ end of classical physics as a complete explanation of the
 
 physical world.
 
-## Planck’s constant
+Planck’s constant
 
-## Confronted by this
+# Confronted by this
 
 inexplicable phenomenon, in
 
-## 1900 the German physicist
+1900 the German physicist
 
-## Max Planck was reduced to the
+# Max Planck was reduced to the
 
-### desperate remedy of solving the
+desperate remedy of solving the
 
-## black body puzzle by assuming
+black body puzzle by assuming
 
-### that light could be divided up
+that light could be divided up
 
 into little chunks, pieces that
 
@@ -1448,23 +1448,23 @@ always being a smooth,
 
 continuous wave.
 
-## In order to
+# In order to
 
 of light quanta.
 
-## Planck never
+# Planck never
 
-## really came to terms with the
+really came to terms with the
 
 evolution he had started, but
 
-## was open-minded enough to
+was open-minded enough to
 
-## be one of the first people to
+be one of the first people to
 
-## appreciate the importance of
+appreciate the importance of
 
-### the Special Theory of Relativity
+the Special Theory of Relativity
 
 when it was published in 1905.
 
@@ -1476,51 +1476,51 @@ E, to each quantum that was
 
 related to its frequency, f.
 
-## --- Page 10 ---
+--- Page 10 ---
 
-## Er
+Er
 
-## (16) MEET THE QUANTUM
+(16) MEET THE QUANTUM
 
-## stepping up
+stepping up
 
-## Moving
+# Moving
 
-## around in
+around in
 
-## the quantum
+the quantum
 
-## world is like
+world is like
 
-## moving up
+moving up
 
-## a step-
+a step-
 
 ladder.
 
 can only .
 
-## | move by a whole number of
+| move by a whole number of
 
 steps; there is
 
-## nowhere “in
+nowhere “in
 
-## between” the steps
+between” the steps
 
-## where you can rest
+where you can rest
 
 your feet.
 
-## His interpretation worked
+# His interpretation worked
 
-## provided that E = hf
+provided that E = hf
 
-## where h
+where h
 
 was a new mathematical constant in nature
 
-## and is now
+and is now
 
 known as Planck’s constant in his honor.
 
@@ -1530,37 +1530,37 @@ In any object, the energy is
 
 distributed among the atoms.
 
-## A few have very little
+# A few have very little
 
-## energy
+energy
 
-## a few have lots
+a few have lots
 
-## while most have a middling
+while most have a middling
 
 amount of energy.
 
-### But what we mean by “middling”
+But what we mean by “middling”
 
 changes as the temperature increases.
 
-## Each atom can emit
+# Each atom can emit
 
 electromagnetic radiation in the form of quanta.
 
-## For large
+# For large
 
-## values of f (high frequencies
+values of f (high frequencies
 
-## or short wavelengths)
+or short wavelengths)
 
 energy (E) needed to emit a single quantum is very large
 
 and only a few atoms have that much energy.
 
-### At low frequencies (long wavelengths)
+At low frequencies (long wavelengths)
 
-## it is easy
+it is easy
 
 to radiate the quanta because less energy is
 
@@ -1570,31 +1570,31 @@ However, each quantum has so little
 
 energy (because f is small) that even added
 
-## together
+together
 
-### quanta do not contribute much to
+quanta do not contribute much to
 
 the spectrum.
 
 In the middle, though, there are
 
-### lots of atoms producing lots of quanta
+lots of atoms producing lots of quanta
 
-## which
+which
 
 add up to give the hill in the black body curve.
 
-### “ Everything matched the experiments
+“ Everything matched the experiments
 
-## for one
+for one
 
 + particular value of h.
 
-### Planck did not think of these quanta as
+# Planck did not think of these quanta as
 
-## being like little particles
+being like little particles
 
-## or bullets spat out by
+or bullets spat out by
 
 atoms.
 
@@ -1602,31 +1602,31 @@ He thought there must be something about the
 
 internal workings of atoms that only allowed them to
 
-## emit pulses of light
+emit pulses of light
 
 but that the light was still a wave.
 
 This is kind of like the way an ATM works.
 
-## It will only
+# It will only
 
-### let you have money in multiples of $10
+let you have money in multiples of $10
 
-## even though
+even though
 
-## other amounts of money
+other amounts of money
 
-## such as $27
+such as $27
 
 exist.
 
-## enter Einstein
+enter Einstein
 
 Most of Planck’s colleagues thought that his discovery
 
-## although useful
+although useful
 
-### was only some kind of mathematical
+was only some kind of mathematical
 
 trick, and that when atoms were understood better
 
@@ -1634,31 +1634,31 @@ would be possible to dispense with it.
 
 At first, the only
 
-## I spent 10 years of my life
+# I spent 10 years of my life
 
-## insisting that 1905 equation
+insisting that 1905 equation
 
-## Einstein’s and contrary to
+Einstein’s and contrary to
 
-## Robert Millikan (1868-1953)
+Robert Millikan (1868-1953)
 
-## THE
+# THE
 
-## person who took
+person who took
 
-## and used Planck’s
+and used Planck’s
 
-## new interpretation
+new interpretation
 
-## as it stood was
+as it stood was
 
 Albert Einstein,
 
-## then an unknown
+then an unknown
 
-## scientist just
+scientist just
 
-## beginning his
+beginning his
 
 research.
 
@@ -1668,41 +1668,41 @@ he showed that a perplexing phenomenon at the time
 
 known as the photoelectric effect and which also had no
 
-## classical explanation
+classical explanation
 
-### could also be accounted for and
+could also be accounted for and
 
 understood if light did in fact travel as a stream of minute
 
 particles.
 
-## In its simplest
+# In its simplest
 
 form, the photoelectric
 
-## effect is that a current can
+effect is that a current can
 
-## be started in a circuit by
+be started in a circuit by
 
-## my expectations
+my expectations
 
-### I was shining a light on a metal
+# I was shining a light on a metal
 
-### impelled in 1915 to assert its
+impelled in 1915 to assert its
 
-## ambiguous verification in
+ambiguous verification in
 
 spite of its unreasonableness.
 
-## plate—electrons in the metal
+plate—electrons in the metal
 
-## are agitated and create a
+are agitated and create a
 
 current of electricity.
 
-## The particular effects
+# The particular effects
 
-## that Einstein
+that Einstein
 
 , observed were only consistent with the current
 
@@ -1720,81 +1720,81 @@ light, and they were only given the name photons in
 
 that Einstein was right.
 
-## QUANTUM REVOLUTION
+# QUANTUM REVOLUTION
 
-## a meeting
+a meeting
 
-## of minds
+of minds
 
-## Max Planck (left)
+Max Planck (left)
 
-## and Albert Einstein
+and Albert Einstein
 
-## were the two
+were the two
 
-## originators of
+originators of
 
 quantum theory,
 
-## although they
+although they
 
-## came from different
+came from different
 
 generations.
 
-## light work
+light work
 
-## The photoelectric
+# The photoelectric
 
 effect, explained in
 
-## quantum terms by
+quantum terms by
 
-## Albert Einstein in
+# Albert Einstein in
 
 1905, is the basis
 
-## on which the solar
+on which the solar
 
-## panels on this
+panels on this
 
-## futuristic electric
+futuristic electric
 
-## vehicle convert
+vehicle convert
 
 sunlight into power.
 
-## light from the
+light from the
 
-## Sun generates an
+# Sun generates an
 
-## electric current in
+electric current in
 
-## --- Page 11 ---
+--- Page 11 ---
 
-## 18 MEET THE
+18 MEET THE
 
-## invisible force
+invisible force
 
-## If electrons were
+# If electrons were
 
-## literally “in orbit”
+literally “in orbit”
 
-## around atomic
+around atomic
 
 nuclei, they would
 
-## radiate energy and
+radiate energy and
 
 fall inward.
 
-## What
+# What
 
 holds them up?
 
-## QUANTUM
+# QUANTUM
 
-## Bohr’s model of the atom
+Bohr’s model of the atom
 
 The evidence that made people take the idea of quanta
 
@@ -1802,31 +1802,31 @@ seriously came from the work of the Dane
 
 Niels Bohr.
 
-## In 1911
+# In 1911
 
-## Ernest Rutherford
+# Ernest Rutherford
 
-## from New Zealand
+from New Zealand
 
 discovered that the atom consists of a central
 
-## positively
+positively
 
 charged nucleus surrounded by a cloud of negatively
 
 charged electrons.
 
-### It was natural to think of the
+# It was natural to think of the
 
-## Q
+Q
 
-## Q
+Q
 
-### electrons as somehow “in orbit” around
+electrons as somehow “in orbit” around
 
 the nucleus, similar to the way that
 
-### the planets are in orbit around the
+the planets are in orbit around the
 
 Sun.
 
@@ -1838,9 +1838,9 @@ electrically charged particle orbiting in
 
 this way should continuously radiate away
 
-## electromagnetic energy
+electromagnetic energy
 
-## and spiral in to the
+and spiral in to the
 
 nucleus.
 
@@ -1848,11 +1848,11 @@ What was holding atoms up?
 
 Bohr said that electrons could only occupy
 
-### certain orbits around the nucleus
+certain orbits around the nucleus
 
-## and that
+and that
 
-## each one corresponded
+each one corresponded
 
 to a precise amount of | Danish physicist
 
@@ -1864,9 +1864,9 @@ No in-between: the first to apply
 
 orbits were allowed, E quantum physics
 
-## Bohr developed his key ideas
+# Bohr developed his key ideas
 
-## when he worked with Ernest
+when he worked with Ernest
 
 Rutherford in Manchester,
 
@@ -1878,47 +1878,47 @@ career in Denmark.
 
 There,
 
-## he established the Institute
+he established the Institute
 
-### for Theoretical Physics (later
+for Theoretical Physics (later
 
-## known as the Niels Bohr
+known as the Niels Bohr
 
 Institute).
 
-## He was awarded
+# He was awarded
 
 the Nobel Prize in 1922.
 
-## possible to have a fraction
+possible to have a fraction
 
 of a quantum (just as, if
 
-## we push the cash analogy
+we push the cash analogy
 
 to the limit, there is no
 
-## physical piece of money
+physical piece of money
 
 smaller than 1¢, and you
 
 can’t have, say, 12.
 
-## 7¢ in
+7¢ in
 
 your pocket).
 
-## So electrons
+# So electrons
 
-## could not radiate energy
+could not radiate energy
 
-## continuously and spiral
+continuously and spiral
 
 inward.
 
-## What they could
+# What they could
 
-## THE
+# THE
 
 do was jump straight from one orbit to another
 
@@ -1926,51 +1926,51 @@ either emitting or absorbing a quantum of
 
 energy in the process.
 
-### The beauty of this idea was that it was
+# The beauty of this idea was that it was
 
 already known that atoms of each element
 
 produce their own characteristic lines in
 
-## the spectrum
+the spectrum
 
 as distinctive as a bar code.
 
-### The lines correspond to a precise
+# The lines correspond to a precise
 
-## wavelength
+wavelength
 
-### which translates into a precise
+which translates into a precise
 
 amount of energy.
 
-### Bright lines correspond to energy
+# Bright lines correspond to energy
 
-## radiated by an atom
+radiated by an atom
 
-### dark lines to energy absorbed by
+dark lines to energy absorbed by
 
 an atom.
 
 The pattern of those lines made it possible to
 
-## calculate the energies
+calculate the energies
 
-## involved if electrons
+involved if electrons
 
-## really were jumping
+really were jumping
 
-## around in this way
+around in this way
 
 inside atoms, and the
 
-## observations matched
+observations matched
 
 Bohr’s calculations.
 
-## The final ingredient
+# The final ingredient
 
-## in Bohr's model of the
+in Bohr's model of the
 
 atom was his idea that an orbit only has room for a
 
@@ -1978,27 +1978,27 @@ certain number of electrons.
 
 If the orbit was full, no more
 
-## electrons could be added
+electrons could be added
 
-## even if there were atoms in
+even if there were atoms in
 
 higher orbits that would “like” to make the jump to lower
 
 energy levels.
 
-## So atoms were stable
+# So atoms were stable
 
-## and the distinctive
+and the distinctive
 
-### patterns of lines in the spectrum
+patterns of lines in the spectrum
 
-### As Bohr made people sit up and take
+# As Bohr made people sit up and take
 
-## notice of quantum physics as
+notice of quantum physics as
 
 something more than a mathematical trick
 
-## but progress
+but progress
 
 in this new branch of physics was delayed by World
 
@@ -2008,9 +2008,9 @@ It was in the 1920s that ideas and conjecture
 
 “came together in a fully explained quantum theory.
 
-## “Anyone who is not
+“Anyone who is not
 
-## shocked by quantum theory
+shocked by quantum theory
 
 has not understood it.
 
@@ -2018,111 +2018,111 @@ of light from different elements.
 
 was explained.
 
-## Bohr’s model of
+Bohr’s model of
 
 the atom, presented in 1913,
 
-## QUANTUM REVOLUTION (19
+QUANTUM REVOLUTION (19
 
-## elemental
+elemental
 
-## bar code
+bar code
 
-## Just as the bar
+# Just as the bar
 
-## code on a can
+code on a can
 
-## tells you what
+tells you what
 
 is inside, so the
 
-## spectrum of an
+spectrum of an
 
 element, such as
 
 hydrogen, tells
 
-## you which atoms
+you which atoms
 
 are present.
 
-## HYDROGEN
+# HYDROGEN
 
-## SPECTRUM
+# SPECTRUM
 
-## LITHIUM
+# LITHIUM
 
-## SPECTRUM
+# SPECTRUM
 
-## SODIUM
+# SODIUM
 
-## SPECTRUM
+# SPECTRUM
 
-## fingerprints
+fingerprints
 
-## of light
+of light
 
-## Three examples
+# Three examples
 
-## of “pure” spectra
+of “pure” spectra
 
-## obtained from three
+obtained from three
 
 different elements.
 
-## Each kind of hot
+# Each kind of hot
 
-## (excited) atom
+(excited) atom
 
-## produces its own
+produces its own
 
-## characteristic
+characteristic
 
 “bar code,” so the
 
-## elements producing
+elements producing
 
-## this light can be
+this light can be
 
-## unambiguously
+unambiguously
 
 identified.
 
-## --- Page 12 ---
+--- Page 12 ---
 
-## Bohr model
+# Bohr model
 
-## protons and
+protons and
 
-## electrons
+electrons
 
-## All atoms contain
+# All atoms contain
 
-## an equal number
+an equal number
 
-## of protons and
+of protons and
 
 electrons.
 
-## Hydrogen
+# Hydrogen
 
-## has one proton
+has one proton
 
 and one electron,
 
-## whereas lithium has
+whereas lithium has
 
 three of each.
 
-## methane
+methane
 
-## Methane molecules are
+# Methane molecules are
 
-## made of hydrogen and
+made of hydrogen and
 
 carbon.
 
-## Hydrogen atoms
+# Hydrogen atoms
 
 have one electron, but
 
@@ -2130,35 +2130,35 @@ would “like” to have two,
 
 to make a full shell.
 
-## Atoms
+# Atoms
 
-## of carbon have a full inner
+of carbon have a full inner
 
 shell of two electrons,
 
-## and a half-full outer shell
+and a half-full outer shell
 
 containing four electrons.
 
-## So one carbon atom and
+# So one carbon atom and
 
-## four hydrogen atoms can
+four hydrogen atoms can
 
-## get together to make a
+get together to make a
 
 molecule of methane.
 
-## Niels Bohr described the
+# Niels Bohr described the
 
-## electrons associated with
+electrons associated with
 
-## an atom as being in
+an atom as being in
 
 orbits, or shells, around
 
 the nucleus.
 
-## These orbits
+# These orbits
 
 are in layers, like onion
 
@@ -2166,15 +2166,15 @@ rings, and the quantum
 
 matching one proton,
 
-## HYDROGEN ATOM
+# HYDROGEN ATOM
 
 Within individual atoms,
 
-## electrons can jump up to
+electrons can jump up to
 
-## any unfilled shell if they
+any unfilled shell if they
 
-## absorb a quantum of
+absorb a quantum of
 
 energy, and can fall back
 
@@ -2182,111 +2182,111 @@ down, releasing a quantum
 
 of energy.
 
-## This process
+# This process
 
-## makes lines in the spectrum
+makes lines in the spectrum
 
 of light.
 
-## The energy levels
+# The energy levels
 
-## associated with the shells
+associated with the shells
 
-## get closer together the
+get closer together the
 
-## further out they are from
+further out they are from
 
 the nucleus, like a staircase
 
-## with steps that get smaller
+with steps that get smaller
 
 as you go up,
 
-## energy exchange
+energy exchange
 
-## Electrons move from one
+# Electrons move from one
 
-## level to the next
+level to the next
 
-## by either absorbing
+by either absorbing
 
 or emitting energy.
 
-### rules only allow a certain number
+rules only allow a certain number
 
 of electrons in each orbit.
 
-## A full
+# A full
 
 orbit is particularly stable, and
 
-### atoms will combine with each other
+atoms will combine with each other
 
-### to make molecules in such a way
+to make molecules in such a way
 
-### that they share electrons to give
+that they share electrons to give
 
 an illusion of full orbits.
 
-## an electron absorbs
+an electron absorbs
 
-## energy
+energy
 
-## three protons
+three protons
 
-## and neutrons
+and neutrons
 
-## the increased
+the increased
 
-## energy makes the
+energy makes the
 
-## electron jump to
+electron jump to
 
-## the next level
+the next level
 
-## one orbiting
+one orbiting
 
-## electron
+electron
 
-## when the electron falls
+when the electron falls
 
 back to the inner shell,
 
-## it emits energy in the
+it emits energy in the
 
-## orbiting
+orbiting
 
-## form of a photon
+form of a photon
 
-## single shell electrons
+single shell electrons
 
-## LITHIUM ATOM
+# LITHIUM ATOM
 
-## Shells get closer
+# Shells get closer
 
-## together the further
+together the further
 
-## from the nucleus and two
+from the nucleus and two
 
 inner electrons.
 
-## carbon atom with a
+carbon atom with a
 
-## hydrogen atom
+hydrogen atom
 
-## complete the shell
+complete the shell
 
-## of the carbon
+of the carbon
 
-## atom with their
+atom with their
 
-## single electron
+single electron
 
-## inner
+inner
 
-## electrons
+electrons
 
-## bigger jumps
+bigger jumps
 
 The energy differences between the shells
 
@@ -2294,15 +2294,15 @@ increases as one gets closer to the center of the
 
 atom, like a set of steps that gets steeper.
 
-## METHANE MOLECULE
+# METHANE MOLECULE
 
-## --- Page 13 ---
+--- Page 13 ---
 
-## out of the
+out of the
 
-## darkness
+darkness
 
-### The double-slit experiment proved
+# The double-slit experiment proved
 
 that light travels as a wave, but early
 
@@ -2310,39 +2310,39 @@ that light travels as a wave, but early
 
 is made up of particles.
 
-## In the face of these
+# In the face of these
 
-## irreconcilable findings
+irreconcilable findings
 
-## a useful resort is
+a useful resort is
 
-### to develop mental models to imagine the
+to develop mental models to imagine the
 
 unimaginable.
 
-## One of these models revolves
+# One of these models revolves
 
-## around waves of probability
+around waves of probability
 
-## which we look at
+which we look at
 
 in the opening of this section.
 
-## Probability led
+# Probability led
 
 to the idea that electrons were both particle
 
-## and wave
+and wave
 
-### which then led to the conclusion
+which then led to the conclusion
 
 that a quantum system does not exist in a
 
 definite state of either particle or wave until it
 
-## is measured
+is measured
 
-### which then formed the basis of
+which then formed the basis of
 
 the idea of uncertainty.
 
@@ -2356,95 +2356,95 @@ electrodynamics (QED), a theory that can
 
 account for all interactions between electrons
 
-## and photons
+and photons
 
-## including how the Sun shines
+including how the Sun shines
 
 and what holds DNA together.
 
-## It has also led
+# It has also led
 
 to the development of lasers and microchips.
 
-## diffracted waves
+diffracted waves
 
-## | Monochromatic
+| Monochromatic
 
-## | (single-wavelength)
+| (single-wavelength)
 
-## light from a laser
+light from a laser
 
-## spreads out in a
+spreads out in a
 
-## diffraction pattern as
+diffraction pattern as
 
-## it passes through an
+it passes through an
 
 aperture, showing
 
-## the wave nature
+the wave nature
 
 of light.
 
-## --- Page 14 ---
+--- Page 14 ---
 
-## THE "CENTRAL MYSTERY" (25)
+THE "CENTRAL MYSTERY" (25)
 
-## mathematical equations
+mathematical equations
 
-## that enable physicists to
+that enable physicists to
 
-## predict things like the
+predict things like the
 
-## energy levels of electrons
+energy levels of electrons
 
-## in an atom or the
+in an atom or the
 
-## brightness of the stripes
+brightness of the stripes
 
 in a diffraction pattern.
 
-## One model that many
+# One model that many
 
-## people have found useful
+people have found useful
 
-## as an aid to understand
+as an aid to understand
 
-## these ideas involves
+these ideas involves
 
 waves of probability.
 
-## you threw rocks at a wall
+you threw rocks at a wall
 
 with two holes in it, the
 
-## result would be two piles
+result would be two piles
 
 of rocks, one behind
 
 each hole.
 
-## You would
+# You would
 
-## not get anything like the
+not get anything like the
 
 diffraction pattern you see when waves pass through two
 
 holes.
 
-### But if the “rocks” are photons
+But if the “rocks” are photons
 
-## and the holes are
+and the holes are
 
-## very small
+very small
 
 you do get a diffraction pattern.
 
-## It is as if there
+# It is as if there
 
 is a wave associated with each photon.
 
-## The waves from
+# The waves from
 
 all the photons interact and make a diffraction pattern
 
@@ -2452,49 +2452,49 @@ which can be thought of as a probability pattern in that
 
 the photons will most probably end up where the waves have
 
-## (24) OUT OF THE DARKNESS
+(24) OUT OF THE DARKNESS
 
-## the central
+the central
 
-## mystery
+mystery
 
-### One of the greatest physicists
+# One of the greatest physicists
 
 of the 1900s, Richard Feynman,
 
-## described the double-slit
+described the double-slit
 
 experiment, which proved
 
-## among other things that light
+among other things that light
 
 travels as a wave, as “the central
 
 mystery” of quantum physics.
 
-## There is no doubt that the
+# There is no doubt that the
 
-### experiment is correct and that
+experiment is correct and that
 
 mass and energy.
 
 It can be used to calculate the wavelength of light.
 
-## Light
+# Light
 
 The distinction is a wave.
 
-### But in the early decades of the 1900s
+# But in the early decades of the 1900s
 
-## repeated
+repeated
 
-## between waves and experiments
+between waves and experiments
 
 such as studies of the photoelectric effect
 
-## strange behavior
+strange behavior
 
-### particles in the If two people
+particles in the If two people
 
 sensor is showed just as surely that light is made up of particles— threw rocks at a heap
 
@@ -2504,7 +2504,7 @@ Many of these experiments were carried out by you would be
 
 surfer (“particle”) Robert Andrews Millikan
 
-## who opposed Einstein's
+who opposed Einstein's
 
 indefinite interpretation of the photoelectric effect and set out to
 
@@ -2514,7 +2514,7 @@ Ironically, his excellent work
 
 conclusively demonstrated that Einstein was correct.
 
-## amazed if they
+amazed if they
 
 patterns madeevidence was much more compelling than it would have been had Millikan been trying to confirm the theory
 
@@ -2522,7 +2522,7 @@ and less likely to interfere to produce peaks in the diffraction pattern
 
 by waves.
 
-## However
+# However
 
 there is no way to predict in advance where any individual photon will end up.
 
@@ -2536,7 +2536,7 @@ The short answer is: they can't.
 
 Nothing in our everyday experience equips us to understand what is going on.
 
-### Because of the way waves spread out
+# Because of the way waves spread out
 
 the probability model makes sense—a canceling of the waves.
 
@@ -2544,13 +2544,13 @@ The bottom line is that the way that events occur in the quantum world is utterl
 
 and that the truth can only be fully expressed in the language of waves and particles.
 
-## As the evidence mounted
+# As the evidence mounted
 
 light, which used to be thought of as a wave
 
 had to be regarded as being both wave and particle.
 
-## In the early 1920s
+# In the early 1920s
 
 the French physicist Louis de Broglie came up with the inspired suggestion that electrons
 
@@ -2558,17 +2558,17 @@ which used to be thought of as particles
 
 had to be regarded as being both particle and wave.
 
-## In fact
+# In fact
 
 he said that everything had to be regarded as being both particle and wave
 
 but that the amount of waviness associated with everyday objects
 
-### such as people or house plants
+such as people or house plants
 
 doesn’t show up because they have so much mass.
 
-### Using Einstein’s work on photons
+Using Einstein’s work on photons
 
 an equation was discovered that linked the particle and wave properties of light.
 
@@ -2588,7 +2588,7 @@ and experiments in which the wavelengths of electrons were measured were carried
 
 These showed that everything in the quantum realm is both wave and particle.
 
-## However
+# However
 
 the quantum realm is limited to the world of the very small
 
@@ -2602,13 +2602,13 @@ the value of h is 6.
 
 Since de Broglie’s equation says that the wavelength of an object is equal to this tiny number divided by its momentum
 
-### and momentum is related to mass
+and momentum is related to mass
 
 the wavelength will only be detectable for objects with tiny masses.
 
-## Sure enough
+# Sure enough
 
-## in the same units
+in the same units
 
 the mass of an electron is 9 × 10^-28 grams.
 
@@ -2620,9 +2620,9 @@ the full drama of wave-particle duality and the probabilistic element that had b
 
 They carried out the double-slit experiment with electrons
 
-## which were fired
+which were fired
 
-## one at a time
+one at a time
 
 through the equipment.
 
@@ -2630,7 +2630,7 @@ The electrons were detected by a screen (like a TV screen) on the other side of 
 
 with each electron making a spot of light when it arrived.
 
-### The screen then “remembered” the spot
+The screen then “remembered” the spot
 
 so that an image gradually built up as more and more electrons arrived.
 
@@ -2638,17 +2638,17 @@ Single electrons register on the screen as spots of light.
 
 The electrons gradually accumulate with a pattern
 
-## and finally
+and finally
 
 the interference pattern that is characteristic of waves appears.
 
 Quantum entities behave as if they are both wave and particle.
 
-## In an experiment in the 1980s
+# In an experiment in the 1980s
 
-## electrons were fired
+electrons were fired
 
-## singly
+singly
 
 through the equivalent of Young’s double-slit experiment.
 
@@ -2656,7 +2656,7 @@ They were detected by a screen like a TV screen
 
 where each one made a spot of light that the screen “remembered.
 
-### ” Each electron was fired as a particle
+” Each electron was fired as a particle
 
 and each one made one spot on the screen
 
@@ -2678,21 +2678,21 @@ You don’t have to understand this—nobody understands it.
 
 You just have to accept that this is the way the quantum world works.
 
-## Of course
+# Of course
 
 the electron does not “know” anything.
 
 It is simply following the blind rules of chance in the same way that a true die does not “know” what numbers have come up previously (or are coming next) in order for the probability of rolling
 
-## for example
+for example
 
 a three next time to be exactly one in six.
 
 Probability runs very deep in quantum physics
 
-## something Einstein hated
+something Einstein hated
 
-## famously commenting
+famously commenting
 
 “I cannot believe that God plays dice.
 
@@ -2704,7 +2704,7 @@ They are collectively known as the Copenhagen Interpretation because Niels Bohr 
 
 The Interpretation says that what we choose to measure
 
-## and the act of measuring
+and the act of measuring
 
 affect the nature of reality.
 
@@ -2716,7 +2716,7 @@ Erwin Schrödinger imagined a cat that would be neither alive nor dead until its
 
 Copenhagen Interpretation says that a quantum system does not exist in a definite state until it is measured.
 
-## For example
+# For example
 
 an electron traveling through the double-slit experiment does so as a spread-out wave
 
@@ -2724,17 +2724,17 @@ and does not have a precise location in space.
 
 It is only when it arrives at the detector screen that it makes a “choice” from the probabilities (like a tumbling die finally settling with three spots facing up) which causes the wave function to “collapse
 
-## ” as Bohr put it
+” as Bohr put it
 
 onto a single point.
 
-## Using this model
+# Using this model
 
-### quantum entities travel as waves
+quantum entities travel as waves
 
 but arrive as particles.
 
-## Schrodinger’s paradox
+Schrodinger’s paradox
 
 The idea of an electron wave function was key in uniting observation and theory and led Austrian Erwin Schrödinger to develop a description of the way that electrons behave in atoms in terms of waves.
 
@@ -2744,11 +2744,11 @@ and enabled researchers such as the American Linus Pauling to explain all the pr
 
 This has led physicists to quip that “chemistry is now a branch of physics.
 
-## In the 1920s
+# In the 1920s
 
 Austrian physicist Erwin Schrödinger (1887-1961) found a wave equation that describes the behavior of quantum entities such as electrons and other “particles.
 
-## ” In 1933
+” In 1933
 
 he received the Nobel Prize for this work (jointly with Paul Dirac)
 
@@ -2758,9 +2758,9 @@ Schrödinger was particularly pleased that his wave function seemed to be bringi
 
 This is why he was so horrified when he discovered that it was not possible to get rid of the probabilistic effects
 
-### and later said of his own theory
+and later said of his own theory
 
-## “I don’t like it
+“I don’t like it
 
 and I wish I’d never had anything to do with it.
 
@@ -2774,21 +2774,21 @@ which, taken literally
 
 says that a cat can be both dead and alive at the same time.
 
-### “You believe in a God who plays dice
+“You believe in a God who plays dice
 
 and I in complete law and order in a world which objectively exists
 
-## and which I
+and which I
 
-## in a wildly speculative way
+in a wildly speculative way
 
 am trying to capture…even the great initial success of the quantum theory does not make me believe in the fundamental dice game
 
 although I am well aware that your younger colleagues interpret this as a consequence of senility.
 
-## Albert Einstein
+# Albert Einstein
 
-## letter to Max Born (1926)
+letter to Max Born (1926)
 
 Schrödinger failed in his attempt to fully explain electrons purely in terms of waves because it is no more true to say that an electron is a wave than to say that it is a particle.
 
@@ -2798,13 +2798,13 @@ This is closely related to the idea of quantum uncertainty.
 
 The importance of uncertainty in the quantum world was first spelled out by the German
 
-## Werner Heisenberg
+# Werner Heisenberg
 
 in 1927.
 
-## He realized that
+# He realized that
 
-## in this context
+in this context
 
 uncertainty is a precise and definite thing
 
@@ -2822,7 +2822,7 @@ And as momentum is proportional to velocity
 
 this means that a particle does not have both position and velocity simultaneously.
 
-## In fact
+# In fact
 
 the uncertainty in position multiplied by the uncertainty in momentum is always greater than Planck’s constant.
 
@@ -2834,9 +2834,9 @@ The uncertainty surrounding position and momentum is not simply a result of the 
 
 an electron itself does not “know” precisely both where it is and where it is going.
 
-## Schrödinger’s Cat
+Schrödinger’s Cat
 
-## “Superposition of states”
+“Superposition of states”
 
 Schrödinger’s thought experiment highlights the fact that there is some kind of boundary between the classical world of everyday objects and the quantum world of very small objects.
 
@@ -2850,15 +2850,15 @@ He imagined a cat closed up in a windowless chamber with a plentiful supply of f
 
 but also with what he called a “diabolical device.
 
-### ” If a radioactive sample has decayed
+” If a radioactive sample has decayed
 
 a Geiger counter triggers a hammer to break a poison bottle and release poison gas.
 
-## If the gas is released
+# If the gas is released
 
 the cat will die.
 
-### According to the quantum rules
+# According to the quantum rules
 
 it is possible to calculate a time when there is an exact 50/50 chance that the radioactive material has decayed and that cat has survived or been killed.
 
@@ -2868,13 +2868,13 @@ there will be a “collapse of the wave function” and we will see either a dea
 
 But it also says that if we don’t look into the box
 
-## the whole experiment
+the whole experiment
 
-## including the cat
+including the cat
 
 is poised in a superposition of two possible states
 
-## each placed over the other
+each placed over the other
 
 where the cat is both dead and alive at the same time
 
@@ -2886,13 +2886,13 @@ This mockup of how the “cat in a box” experiment might be done shows the cat
 
 The answer can only be resolved if the box is opened.
 
-### This package of ideas (uncertainty
+This package of ideas (uncertainty
 
-## probability
+probability
 
-## wave-particle duality
+wave-particle duality
 
-### and the collapse of the wave function)
+and the collapse of the wave function)
 
 all associated with the double-slit experiment
 
@@ -2910,17 +2910,17 @@ This is a theory known as quantum electrodynamics
 
 which is the most successful theory—in terms of its agreement with experiments carried out here on Earth—in the whole of science.
 
-## THE JEWEL IN THE CROWN
+# THE JEWEL IN THE CROWN
 
-## The jewel in the crown
+# The jewel in the crown
 
 The crowning achievement of quantum physics describes with great precision the way electrically charged particles interact with each other and with magnetic fields.
 
-## This sounds esoteric
+# This sounds esoteric
 
 but it means that quantum electrodynamics
 
-## or QED
+or QED
 
 describes everything about matter that is not described by gravity.
 
@@ -2932,7 +2932,7 @@ QED is able to account for all interactions involving electrons
 
 and so QED is all that is needed to account for the everyday world.
 
-### QED explains why the ocean is blue
+# QED explains why the ocean is blue
 
 how the explosions in an internal combustion engine take place
 
@@ -2944,7 +2944,7 @@ It is, in Richard Feynman’s words
 
 All these 50 years ofconscious brooding have
 
-## brought me no nearer to
+brought me no nearer to
 
 the answer to the question,
 
@@ -2952,23 +2952,23 @@ the answer to the question,
 
 Nowadays every Tom, Dick,
 
-## and Harry thinks he knows
+and Harry thinks he knows
 
 it, but he is mistaken.
 
 where gravity can be ignored.
 
-## We only have to consider the
+# We only have to consider the
 
-## other forces of nature (or
+other forces of nature (or
 
 “interactions,” as physicists call
 
-## them) when dealing with what
+them) when dealing with what
 
 goes on inside the nucleus of an atom—and
 
-## as we will
+as we will
 
 see, even there QED provides the archetype on which
 
@@ -2978,63 +2978,63 @@ Without the example of QED,
 
 those models would have no foundations.
 
-## Albert Einstein
+# Albert Einstein
 
-## at the heart
+at the heart
 
-## of things |
+of things |
 
-## Quantum electro-
+# Quantum electro-
 
-## dynamics
+dynamics
 
-## pervades every
+pervades every
 
-## aspect of the
+aspect of the
 
-## world we see
+world we see
 
 around us.
 
-## explains the blue
+explains the blue
 
 color of the ocean,
 
-## and the way
+and the way
 
-## chemicals react
+chemicals react
 
 with each other.
 
-## --- Page 20 ---
+--- Page 20 ---
 
-## (36) OUT of THE DARKNESS
+(36) OUT of THE DARKNESS
 
 The roots of QED were established in the 1930s
 
-## when
+when
 
-## two physicists
+two physicists
 
-### the German Hans Bethe and the Italian
+the German Hans Bethe and the Italian
 
-## key points Enrico Fermi
+key points Enrico Fermi
 
 suggested that interactions between charged
 
 particles could be described in terms of photons (single
 
-## * Quantum 2 i
+* Quantum 2 i
 
 entities being units of light) being exchanged between the particles.
 
 ae ae The complete version of the theory emerged in the 1940s
 
-### from the work of three physicists
+from the work of three physicists
 
-## Sin-itiro Tomonaga in
+# Sin-itiro Tomonaga in
 
-## There is an Japan
+# There is an Japan
 
 and Julian Schwinger and Richard Feynman in the
 
@@ -3050,93 +3050,93 @@ terms, and has become the standard version of QED.
 
 quantum , effects
 
-## in everyday
+in everyday
 
-## life because
+life because
 
-## Feynman diagrams
+# Feynman diagrams
 
 The physics of QED can be understood in terms of
 
 pictures called Feynman diagrams.
 
-## These represent the
+# These represent the
 
-### paths of electrons using lines
+paths of electrons using lines
 
-## known as “world lines”
+known as “world lines”
 
 that are placed within two coordinates of time and space.
 
 A vertical line indicates a stationary electron because
 
-## its position in space is not
+its position in space is not
 
 changing.
 
-## The more angled the
+# The more angled the
 
 world line, the greater its rate of
 
-### change of position in space and
+change of position in space and
 
 therefore the faster it is moving.
 
-## A photon associated with the
+# A photon associated with the
 
-## field of a magnet can be
+field of a magnet can be
 
-## introduced into a Feynman
+introduced into a Feynman
 
 diagram.
 
-## The photon can be
+# The photon can be
 
-## shown interacting with an
+shown interacting with an
 
-### electron traveling in a straight
+electron traveling in a straight
 
 line, and deflecting it onto a
 
 new path.
 
-## This simple version
+# This simple version
 
-### of QED predicts that a property
+of QED predicts that a property
 
-## known as the magnetic moment
+known as the magnetic moment
 
-### of the electron has a value of
+of the electron has a value of
 
 exactly one.
 
-## It doesn’t matter
+It doesn’t matter
 
-## THE JEWEL IN THE crown (37)
+THE JEWEL IN THE crown (37)
 
-## TIME TIME
+# TIME TIME
 
-## the “world line” of an
+the “world line” of an
 
-## individual electron
+individual electron
 
-## represent the
+represent the
 
-## electron
+electron
 
 just what the magnetic moment is (you can think of it as
 
 a measure of how easily an electron can be twisted by
 
-## a magnetic field)
+a magnetic field)
 
-### but what does matter is that it is
+but what does matter is that it is
 
 possible to measure this property very accurately
 
 in experiments.
 
-## The experiments show that the
+# The experiments show that the
 
 magnetic moment is actually a little bit more than
 
@@ -3146,69 +3146,69 @@ final word on the subject.
 
 Feynman showed how the simple model could
 
-## be improved
+be improved
 
-### and drew a picture to highlight
+and drew a picture to highlight
 
 what was going on.
 
-## In the next step of the
+# In the next step of the
 
-## calculation
+calculation
 
-### while it is interacting with the
+while it is interacting with the
 
-## photon
+photon
 
 the electron also emits and then reabsorbs
 
 another photon, interacting with itself.
 
-## It is easy to
+# It is easy to
 
 draw the picture, but
 
 electrons deflect, harder to carry out
 
-## each other the
+each other the
 
-## @ the mathematical
+@ the mathematical
 
-## Swe
+# Swe
 
 calculations.
 
-## When the
+# When the
 
-## calculations for this
+calculations for this
 
-## photon
+photon
 
 electron interacts, with itself
 
-## exchanged
+exchanged
 
-## electron interactions
+electron interactions
 
-## interaction were carried
+interaction were carried
 
-## Two electrons can exchange a
+# Two electrons can exchange a
 
 photon, so that they repel each
 
 other.
 
-## An electron can also
+# An electron can also
 
 interact with itself.
 
-## --- Page 21 ---
+--- Page 21 ---
 
-## OUT OF
+# OUT OF
 
-## THE DARKNESS
+# THE DARKNESS
 
-### There is one simplification at
+# There is one simplification at
 
 least.
 
@@ -3218,55 +3218,55 @@ as photons; they are both screwy,
 
 but in exactly the same way.
 
-## a
+a
 
 they behave, therefore,
 
 to appreciate, because we are
 
-## going to describe something
+going to describe something
 
-### which is different from anything
+which is different from anything
 
 you know about.
 
-## Richard Feynman (1967)
+Richard Feynman (1967)
 
-## THE DARKNESS
+# THE DARKNESS
 
 out, they predicted that the magnetic moment should be
 
-## a little bit bigger than one
+a little bit bigger than one
 
-### though still not quite as big as
+though still not quite as big as
 
-## the measured value
+the measured value
 
 but there is no need to stop there.
 
-## There is no reason why the
+# There is no reason why the
 
-## electron cannot emit two
+electron cannot emit two
 
 (or more) photons, one after
 
 the other, and reabsorb them.
 
-## Each extra photon allowed
+# Each extra photon allowed
 
-### for in the calculations brings
+for in the calculations brings
 
-## the calculated value of the
+the calculated value of the
 
-## magnetic moment ever Closer
+magnetic moment ever Closer
 
 to the measured value.
 
 Crucially, Feynman was able
 
-### to prove that each time an extra
+to prove that each time an extra
 
-## photon is allowed for in the
+photon is allowed for in the
 
 calculation, the “correction” is
 
@@ -3274,7 +3274,7 @@ a little bit smaller, but always
 
 in the right direction.
 
-### By the time the effect of four
+# By the time the effect of four
 
 photons being emitted and reabsorbed was allowed
 
@@ -3282,19 +3282,19 @@ for, the predicted value of the magnetic moment was
 
 00115965246
 
-### while the best experimental measurement
+while the best experimental measurement
 
 was 1.
 
 00115965221.
 
-## _ Theory and
+_ Theory and
 
-## experiment agreed
+experiment agreed
 
-## to an accuracy of
+to an accuracy of
 
-## one part in 10
+one part in 10
 
 decimal places, or
 
@@ -3302,41 +3302,41 @@ decimal places, or
 
 percent.
 
-### This is the most precise agreement
+# This is the most precise agreement
 
-### between theory and observation for any
+between theory and observation for any
 
 experiment carried out.
 
-## This is powerful
+# This is powerful
 
-### evidence that the whole edifice of
+evidence that the whole edifice of
 
-### quantum physics is built on solid
+quantum physics is built on solid
 
 foundations, and we can use it with
 
-### confidence to predict (or explain) the
+confidence to predict (or explain) the
 
 behavior of atoms and molecules.
 
-## Electrons behave in this
+# Electrons behave in this
 
-## a great deal of imagination
+a great deal of imagination
 
-## PUTTING QUANTA
+# PUTTING QUANTA
 
-## putting quant
+putting quant
 
-## to work
+to work
 
-### One result of quantum uncertainty
+# One result of quantum uncertainty
 
 (the principle that says that a particle
 
-### cannot have position and momentum
+cannot have position and momentum
 
-### simultaneously) is a process called
+simultaneously) is a process called
 
 tunneling.
 
@@ -3350,31 +3350,31 @@ Stars, such as the
 
 Sun, release energy by
 
-## the process of
+the process of
 
 nuclear fusion.
 
-## In order for
+# In order for
 
 nuclei to fuse,
 
-## two positively
+two positively
 
-## charged nuclei (in
+charged nuclei (in
 
 the simplest case,
 
-## two nuclei of hydrogen
+two nuclei of hydrogen
 
-### each consisting of one proton)
+each consisting of one proton)
 
 must come together.
 
-## But according to classical
+# But according to classical
 
-## electromagnetic theory
+electromagnetic theory
 
-### this is impossible because the two
+this is impossible because the two
 
 positively charged particles repel each other and cannot
 
@@ -3386,11 +3386,11 @@ fusion might be possible.
 
 Due to quantum uncertainty,
 
-### if two protons are very close together
+if two protons are very close together
 
-## it is not certain if
+it is not certain if
 
-## they are touching or not
+they are touching or not
 
 and they may or may not fuse.
 
@@ -3398,35 +3398,35 @@ Another way to think about this is in terms of waves.
 
 the quantum entities can approach each other so closely
 
-### that their wave functions overlap
+that their wave functions overlap
 
-## they can be pulled
+they can be pulled
 
 together by the interacting wave functions.
 
-## This is called
+# This is called
 
 “tunneling” because the two particles come up against the
 
 electric barrier of classical physics that exists between
 
-## helium
+helium
 
-## nucleus (two
+nucleus (two
 
-## protons and
+protons and
 
-## two neutrons)
+two neutrons)
 
-## + photon is
++ photon is
 
-## emitted
+emitted
 
-## sunlight
+sunlight
 
-## --- Page 22 ---
+--- Page 22 ---
 
-## (40) OUT of THE DARKNESS
+(40) OUT of THE DARKNESS
 
 them, but they are able to “tunnel” through it.
 
@@ -3434,15 +3434,15 @@ quantum physics did not operate inside stars
 
 Sun would not shine and we would not be here.
 
-### The same tunneling process operates in
+# The same tunneling process operates in
 
-## reverse
+reverse
 
 enabling particles to get out of nuclei in
 
-### the process of radioactive decay
+the process of radioactive decay
 
-## or in nuclear
+or in nuclear
 
 fission.
 
@@ -3450,7 +3450,7 @@ Particles in a nucleus are held together
 
 by a force called the strong nuclear force
 
-## which
+which
 
 has a very short range (so nuclei are small) but
 
@@ -3462,61 +3462,61 @@ c you can overwhelm the expansionist tendency of a spring
 
 pressure by squeezing it with your fingers).
 
-## The effect is as if the
+# The effect is as if the
 
 The springiness particles are sitting in the deep crater of a volcano
 
-## which
+which
 
 | can be they would have to climb out of to escape
 
-## but once over
+but once over
 
-## the lip of the volcano
+the lip of the volcano
 
-### they would be rapidly repelled by
+they would be rapidly repelled by
 
 the electric force.
 
-### Tunneling enables some particles to
+# Tunneling enables some particles to
 
 ison between escape from some nuclei without having enough energy
 
 protons in a nucleus to climb this barrier.
 
-## nucleus can be
+nucleus can be
 
-## overcome by the
+overcome by the
 
 strong force.
 
-## random decay
+random decay
 
 But there’s another oddity about this process.
 
-## In a
+# In a
 
 collection of potentially radioactive nuclei
 
-## they do not
+they do not
 
 all decay in this way at once.
 
-## Individual nuclei decay at
+# Individual nuclei decay at
 
 random while obeying the precise laws of chance.
 
-## For a
+# For a
 
-### particular radioactive element
+particular radioactive element
 
-## there is a characteristic
+there is a characteristic
 
-## * uncertainty allows the
+* uncertainty allows the
 
-## tunneling out
+tunneling out
 
-## Particles trapped
+# Particles trapped
 
 inside the nucleusAn atom by the strong force can hold its nucleus together
 
@@ -3528,41 +3528,41 @@ Even if an alpha wave has insufficient energy to escape the strong force of the 
 
 there is a measurable probability that part of the wave extends outside the nucleus.
 
-## Due to quantum uncertainty
+# Due to quantum uncertainty
 
 the wave is then able to "tunnel" out and escape from the nucleus completely.
 
-## — F
+— F
 
-## PUTTING QUANTA TO WORK (41)
+PUTTING QUANTA TO WORK (41)
 
 The time it takes for half the nuclei to decay is called the half-life.
 
 In one half-life, half the nuclei decay.
 
-## In the next half-life
+# In the next half-life
 
-## half the rest decay
+half the rest decay
 
 and so on.
 
 So if you start with 128 unstable nuclei of a radioactive element with a half-life of 10 minutes
 
-## after 10 minutes
+after 10 minutes
 
-## 64 have decayed
+64 have decayed
 
-## in the next 10 minutes
+in the next 10 minutes
 
-## 32 decay
+32 decay
 
-## in the next 10 minutes
+in the next 10 minutes
 
-## 16 decay
+16 decay
 
 and so on (these are all average figures
 
-## in a real sample
+in a real sample
 
 the numbers decaying may differ slightly).
 
@@ -3570,23 +3570,23 @@ But it is impossible to say in advance whether any particular nucleus will decay
 
 in 10 minutes' time, in half an hour, or whenever.
 
-### Decay is as random as tossing a die
+# Decay is as random as tossing a die
 
 and Einstein hated the idea.
 
-## So did Schrödinger
+So did Schrödinger
 
 who picked up on this and combined it with the idea of the collapse of the wave function in his famous Cat Paradox (see page 32).
 
-## Neutrons are released
+# Neutrons are released
 
 which then encourage further decay.
 
-## When it comes to atoms
+# When it comes to atoms
 
 language can be used only as in poetry.
 
-## The poet
+# The poet
 
 too, is not nearly so concerned with describing facts as with creating images.
 
@@ -3610,23 +3610,23 @@ still manages to surround the proton.
 
 There are no inner layers of electrons to conceal the proton when its lone electron is being shared with another nucleus in a conventional chemical bond.
 
-## --- Page 23 ---
+--- Page 23 ---
 
-## decay and half-life
+decay and half-life
 
 When an individual atom (strictly speaking
 
-### a nucleus) undergoes radioactive decay
+a nucleus) undergoes radioactive decay
 
 it does so in accordance with the rules of chance.
 
-### It is as if the atom tossed a coin
+# It is as if the atom tossed a coin
 
-### and decayed if it came down heads
+and decayed if it came down heads
 
-### and didn’t decay if it came down tails
+and didn’t decay if it came down tails
 
-## or as if it rolled a die
+or as if it rolled a die
 
 and only decayed if an even number comes up.
 
@@ -3644,17 +3644,17 @@ Each kind of radioactive nucleus has its own distinctive half-life.
 
 The length of time covered by a half-life can range from less than a millionth of a second to millions of years depending on the element.
 
-## The shorter the half-life
+# The shorter the half-life
 
 the more radioactive the element is.
 
-## For example
+# For example
 
-## Nitrogen-16
+# Nitrogen-16
 
 which occurs in nuclear power stations has a half-life of seven seconds while Carbon-14
 
-### which is used in radio-carbon dating
+which is used in radio-carbon dating
 
 has a half-life of 5730 years.
 
@@ -3664,13 +3664,13 @@ because the wave function of the electron still extends around the proton
 
 even though it is more strongly concentrated in the bond.
 
-### In the classical view of electrons
+# In the classical view of electrons
 
-## this could not happen
+this could not happen
 
 the electron would have to be on one side of the nucleus or the other.
 
-### As a result of the partial shielding
+# As a result of the partial shielding
 
 hydrogen atoms that are already involved in chemical bonding on one side effectively show a fractional positive charge on the other side
 
@@ -3700,7 +3700,7 @@ When genes are being read off the DNA and used by the machinery of the cell
 
 it is the relatively weak hydrogen bonds that are unzipped in the process and zipped up again when the job is done.
 
-### In certain forms of genetic engineering
+# In certain forms of genetic engineering
 
 the machinery of the cell is used to cut out pieces of unzipped DNA completely
 
@@ -3708,15 +3708,15 @@ and replace them with other genetic material.
 
 It is the quantum nature of electrons that makes both life itself
 
-## and genetic engineering
+and genetic engineering
 
 possible.
 
-## Niels Bohr (1922)
+Niels Bohr (1922)
 
-## --- Page 24 ---
+--- Page 24 ---
 
-## (44) OUT OF THE DARKNESS
+(44) OUT OF THE DARKNESS
 
 The DNA molecule is like a twisted ladder.
 
@@ -3730,9 +3730,9 @@ The quantum properties of electrons are also important in electronics
 
 and especially in the design of microchips.
 
-## The behavior of some circuits
+# The behavior of some circuits
 
-## for example
+for example
 
 depends crucially on the ability of electrons to tunnel through barriers.
 
@@ -3746,7 +3746,7 @@ they pick up energy (they are said to be "excited")
 
 and the electrons in them are raised up to higher energy levels.
 
-## Left to cool off
+# Left to cool off
 
 these electrons jump back down to lower energy levels radiating light in a more or less random fashion to produce the black body curve (see page 14).
 
@@ -3762,11 +3762,11 @@ they all each emit a photon with exactly the same amount of energy—which means
 
 It is all these billions of photons marching precisely in step that create the laser beam.
 
-## PUTTING QUANTA TO WORK (45)
+PUTTING QUANTA TO WORK (45)
 
 An electron jumps up to a higher energy level in an atom when it is excited.
 
-## Laser display
+# Laser display
 
 The first public performance of a laser show took place.
 
@@ -3786,7 +3786,7 @@ Then, the radiation produced was called beta radiation (another kind of radiatio
 
 it was only later that it was discovered that beta particles are in fact a stream of fast-moving electrons.
 
-## In beta decay
+# In beta decay
 
 a neutron (either sitting on its own in space
 
@@ -3800,7 +3800,7 @@ The neutron does this by ejecting (from one of its constituent quarks) the parti
 
 analogous to the photon in QED and the gluon in QCD.
 
-## But this particle
+# But this particle
 
 which is somewhat boringly called an intermediate vector boson
 
@@ -3810,19 +3810,19 @@ The energy of the boson is then rapidly converted into the mass energy of a neut
 
 The electron has the unit of negative charge
 
-## so to balance the books
+so to balance the books
 
 the neutron left behind now has one unit of positive charge and has become a proton.
 
-## There is also a similar boson
+# There is also a similar boson
 
 which carries one unit of positive charge
 
-## and one which
+and one which
 
-## like the photon
+like the photon
 
-## has no charge at all
+has no charge at all
 
 these are involved in other kinds of weak interaction.
 
@@ -3836,17 +3836,17 @@ Everything on Earth can be explained in terms of quarks
 
 electrons and their associated neutrinos
 
-## and four interactions—gravity
+and four interactions—gravity
 
-## electromagnetism
+electromagnetism
 
-## the weak nuclear interaction
+the weak nuclear interaction
 
 and the glue force underpinning the strong nuclear interaction.
 
-## picturing particles
+picturing particles
 
-## The UA1 detector at CERN
+# The UA1 detector at CERN
 
 (pictured above during its construction in 1981)
 
@@ -3854,7 +3854,7 @@ is the size of a house.
 
 When beams of subatomic particles collide in the center of the detector
 
-### they produce showers of other particles
+they produce showers of other particles
 
 which are tracked by the UA1 assembly.
 
@@ -3862,31 +3862,31 @@ A computer then produces a picture of the particle shower.
 
 The image (above left) records the first detection of a Z particle
 
-### one of the intermediate vector bosons
+one of the intermediate vector bosons
 
 in 1983.
 
-## --- Page 28 ---
+--- Page 28 ---
 
-## the quantum computer
+the quantum computer
 
 the prediction was made in 1965 by Gordon Moore
 
-## the cofounder of Intel
+the cofounder of Intel
 
 who said that the number of transistors in computer chips would double every 18 months.
 
-## This prediction
+# This prediction
 
-## now known as “Moore’s Law
+now known as “Moore’s Law
 
-### ” has so far proved to be correct
+” has so far proved to be correct
 
-## but the law will soon expire
+but the law will soon expire
 
 as a transistor is now being developed with components only three atoms thick.
 
-## Before long
+# Before long
 
 the physical limitations of using atoms to make working parts will be reached.
 
@@ -3896,7 +3896,7 @@ Whereas computers now manipulate “bits” that exist in one of two states—0 
 
 or qubits.
 
-## A qubit can be a 1 or a 0
+# A qubit can be a 1 or a 0
 
 or in a superposition that is simultaneously both 1 and 0
 
@@ -3908,15 +3908,15 @@ it has the potential to be millions of times more powerful than any of today’s
 
 Soon redundant?
 
-### Part of the circuitry of a microchip
+# Part of the circuitry of a microchip
 
 magnified 200 times.
 
 Quantum computers may soon make these seem as quaint as glowing electronic valves are today.
 
-## --- Page 29 ---
+--- Page 29 ---
 
-## principles into practice
+principles into practice
 
 Modern electronic computers already depend on the quantum properties of electrons and atoms for the way their microchips work.
 
@@ -3930,7 +3930,7 @@ Physicists still argue about whether an entity such as a cat can be “in a supe
 
 but there is no doubt that a single electron can exist in this simultaneous duality.
 
-## For example
+# For example
 
 an electron in an atom might be able to exist in either of two states—the ground state of lowest energy
 
@@ -3944,11 +3944,11 @@ If light of exactly the right wavelength is shone on the atom for precisely the 
 
 it is possible to create a situation where there is a 50/50 chance of the electron being in either of these states.
 
-## In quantum physics
+# In quantum physics
 
 this is the same as saying that the wave function of the electron is a 50/50 mixture of both states—a superposition of states.
 
-## ever smaller
+ever smaller
 
 The chip being carried by this ant is more powerful than a 1960s room-sized computer
 
@@ -3956,9 +3956,9 @@ A vial containing quantum molecules is loaded into a nuclear magnetic resonance 
 
 where a program of radio-frequency pulses will direct the molecules to carry out a calculation.
 
-## Quantum systems
+# Quantum systems
 
-## however
+however
 
 will allow much greater miniaturization when one electron will carry out the work of millions.
 
@@ -3966,15 +3966,15 @@ The fact that quantum dots can exist in a superposition of states opens up the p
 
 What matters in determining the power of a computer is the number of on/off switches that make up its memory and determines how long the strings of 0s and 1s can be in the binary code of its programs
 
-## its calculations
+its calculations
 
 and its answers.
 
-### Even with microchip technology
+# Even with microchip technology
 
 there are limitations on the power of computers because electrons have to travel from one switch to another inside the memory.
 
-## This takes time
+# This takes time
 
 which limits the speed of the computer.
 
@@ -3984,7 +3984,7 @@ which limits how large the memory can be in physical terms without melting.
 
 Miniaturization brings its own problems.
 
-### With components packed closely together
+# With components packed closely together
 
 one of the limits on modern PCs is how hot they get.
 
@@ -3992,27 +3992,27 @@ Computer scientists are trying to get around these problems by using devices suc
 
 but even this kind of technology is limited compared to the power of quantum computing.
 
-## --- Page 30 ---
+--- Page 30 ---
 
-## 56) THE QUANTUM COMPUTER
+56) THE QUANTUM COMPUTER
 
-## quantum quadruple
+quantum quadruple
 
 Four computers for the price of one with a quantum computer
 
 each quantum binary digit (qubit) is equivalent to four conventional on/off switches (bits).
 
-## geometric increase
+geometric increase
 
-### but if you have twice as many bits
+but if you have twice as many bits
 
 you don’t double the power of the quantum computer—you square it.
 
-## The power grows exponentially
+# The power grows exponentially
 
 so just 10 quantum dots (qubits) are equivalent to a current kilobyte.
 
-## exponential growth
+exponential growth
 
 Imagine the possible choices available to a “computer” consisting of only one pair of quantum dots.
 
@@ -4026,7 +4026,7 @@ Imagine that the two balls come in only two colors
 
 blue or yellow.
 
-### Because of the “law of equal color
+Because of the “law of equal color
 
 ” an atom can only eject two balls at a time
 
@@ -4038,19 +4038,19 @@ until the measurement is made.
 
 Now suppose you measure the color of one of the balls.
 
-## The wave function collapses
+# The wave function collapses
 
-## and it is seen to be
+and it is seen to be
 
-## for example
+for example
 
 blue.
 
-## But by the law of equal color
+# But by the law of equal color
 
-### that means that the other ball
+that means that the other ball
 
-## far away
+far away
 
 must collapse into a state of yellowness
 
@@ -4062,29 +4062,29 @@ Two “balls” with undetermined color are ejected from an atom.
 
 The atom throws two balls outward.
 
-## No matter how far they fly
+# No matter how far they fly
 
 neither ball “knows” what its own color is
 
 each ball is in a mixture of blueness and yellowness unless it is observed.
 
-## long distance effect
+long distance effect
 
 At the instant one ball is seen to be yellow
 
-## the other becomes blue
+the other becomes blue
 
 without anyone looking at it.
 
 The ball collapses into one of the two possible colors
 
-## --- Page 33 ---
+--- Page 33 ---
 
-## QUANTUM COMPUTER
+# QUANTUM COMPUTER
 
-### TELEPORTATION—QUANTUM STYLE (63)
+TELEPORTATION—QUANTUM STYLE (63)
 
-## experiments
+experiments
 
 an atom is induced to emit two photons simultaneously in opposite directions.
 
@@ -4096,15 +4096,15 @@ they remain “entangled” even when they are far apart—as if they formed a s
 
 The experiments proved that measuring the properties of one of the photons on one side of the lab affected the other photon on the other side of the lab instantaneously.
 
-## Through these experiments
+# Through these experiments
 
 nonlocality could be seen at work.
 
-## By the middle of the 1990s
+# By the middle of the 1990s
 
 researchers in Geneva had extended these experiments and sent photons along fiber-optic cable 6.
 
-## 2 miles (10 km) in length.
+2 miles (10 km) in length.
 
 The experiments still show nonlocality.
 
@@ -4118,7 +4118,7 @@ Irish physicist John Bell (1928-90) devised an experiment to prove the nonlocal 
 
 His work showed that it would be possible
 
-## in principle
+in principle
 
 to make measurements on two quantum entities (such as photons) that had once been in contact
 
@@ -4128,7 +4128,7 @@ Such experiments were actually carried out by Alain Aspect in Paris
 
 and proved conclusively that quantum systems are nonlocal.
 
-## conveying coded messages
+conveying coded messages
 
 But although some influence links the two photons instantaneously
 
@@ -4152,11 +4152,11 @@ we can put this together with our observations of photon B to end up with more i
 
 This has implications for cryptography and is attracting considerable funding as a result.
 
-## In principle
+# In principle
 
 a secret message can be sent in two parts
 
-### neither of which makes sense on its own
+neither of which makes sense on its own
 
 but one of which involves quantum entanglement.
 
@@ -4166,37 +4166,37 @@ but the quantum entanglement cannot be intercepted without changing it.
 
 It is even possible for the “message” to be the original particle
 
-## photon A
+photon A
 
-### itself—a form of teleportation
+itself—a form of teleportation
 
 although not quite the way it happens in Star Trek
 
-### leading many physicists to quip
+leading many physicists to quip
 
-## “It’s teleportation
+“It’s teleportation
 
 Jim, but not as we know it.
 
 ” The possibility was pointed out by Charles Bennett of the IBM Research Center in Yorktown Heights
 
-## New York
+# New York
 
 in a paper published in 1993.
 
-## Since then
+# Since then
 
 experiments have confirmed that the idea works
 
 at least on the laboratory scale.
 
-## more than a copy
+more than a copy
 
 The idea depends on the fact that if one entity is indistinguishable from another entity in every way
 
 then it is that entity.
 
-## When you make a photocopy
+# When you make a photocopy
 
 you have two “entities” and you know which is the original.
 
@@ -4216,43 +4216,43 @@ One is carried off to a distant place (the Moon
 
 for example).
 
-## The other one
+# The other one
 
-## a message in
+a message in
 
-## two halves
+two halves
 
 Quantum nonlocality means that when one “entity” is tweaked
 
-## the other responds
+the other responds
 
 no matter how far apart it is.
 
-## --- Page 34 ---
+--- Page 34 ---
 
-## (64) THE QUANTUM COMPUTER
+(64) THE QUANTUM COMPUTER
 
 science fact?
 
 is allowed to interact with an electron,
 
-### TELEPORTATION—QUANTUM STYLE (65)
+TELEPORTATION—QUANTUM STYLE (65)
 
 object to be transported in this way any distance across
 
-## So far
+# So far
 
 teleportation experiments have involved just single photons or electrons.
 
-### To teleport a living human being
+# To teleport a living human being
 
 the computer would need information about every single particle in every single atom of the human body.
 
-## One mistake
+# One mistake
 
 and it could be a dead body that Scotty beams aboard!
 
-## key points
+key points
 
 • Quantum physics is not just a wild idea.
 
@@ -4268,19 +4268,19 @@ but nobody on the Moon knows this yet.
 
 Now, the results of the interaction between the electron and the photon back on Earth can be sent to the Moon
 
-## by rocket
+by rocket
 
-## or laser beam
+or laser beam
 
 or any conventional method that does not involve traveling faster than light.
 
-## Armed with this information
+# Armed with this information
 
 a skilled physicist on the Moon could tweak
 
 the photon in the box in such a way that the tweaking subtracts out the changes caused by the entanglement
 
-## and produces an exact
+and produces an exact
 
 copy of the first photon.
 
@@ -4290,11 +4290,11 @@ It should be emphasized that this really has been done
 
 for pairs of photons separated by several feet.
 
-## At one level
+# At one level
 
 this is a somewhat futile thing to do for a photon
 
-## because
+because
 
 American-born physicist David Bohm (1917-92) was one of the first people to appreciate the essentially nonlocal nature of quantum physics.
 
@@ -4306,19 +4306,19 @@ They are at the forefront of 21st-century thinking about
 
 space, with the condition that the whole process must take place at less than light speed.
 
-## taxing quantum matter
+taxing quantum matter
 
 Just how soon any of these ideas become practicable in the world outside the laboratory remains to be seen
 
 but there can be little doubt that they will affect our lives in the not-too-distant future.
 
-## More than 150 years
+# More than 150 years
 
 “I think I can safely say that nobody understands quantum mechanics.
 
-### do not keep saying to yourself
+do not keep saying to yourself
 
-## if you can possibly avoid it
+if you can possibly avoid it
 
 ‘but how can it be like that?
 
@@ -4326,11 +4326,11 @@ but there can be little doubt that they will affect our lives in the not-too-dis
 
 Nobody knows how it can be like that.
 
-## Richard Feynman
+# Richard Feynman
 
-## The Character of Physical Law
+# The Character of Physical Law
 
-## BBC (1965)
+BBC (1965)
 
 ago, not long after he had invented the electric motor
 
@@ -4342,15 +4342,15 @@ but that he was sure politicians would find a way to tax it.
 
 It surely won't be too long before taxes are beingpaid on the income generated by quantum computers, quantum cryptography, quantum teleportation, and other as yet undreamed-of devices.
 
-## Almost instantaneous travel
+# Almost instantaneous travel
 
-### genuinely intelligent computers
+genuinely intelligent computers
 
 and perfect virtual realities are probably just around the corner.
 
 As Arthur C.
 
-## Clarke said
+# Clarke said
 
 "any sufficiently advanced technology is indistinguishable from magic.
 
@@ -4358,9 +4358,9 @@ As Arthur C.
 
 The electric motor started out as a toy.
 
-## Even Michael Faraday
+# Even Michael Faraday
 
-## who invented it
+who invented it
 
 could not predict that it would lead to trains that traveled at 217 mph (350 kph).
 
@@ -4372,27 +4372,27 @@ Now, the power of practical applications of quantum phenomena is unimaginable.
 
 © Single photons have already been "teleported" across 6.
 
-## 2 miles (10 km).
+2 miles (10 km).
 
 The whole process takes place much slower than light speed
 
 and it would be quicker to send the photon across the room in the conventional manner.
 
-## But it demonstrates that
+# But it demonstrates that
 
-## in principle
+in principle
 
 it is possible for an exact copy of a physical system to be made at a distance.
 
 unimaginable possibilities,
 
-## --- Page 35 ---
+--- Page 35 ---
 
-## (66) GLOSSARY
+(66) GLOSSARY
 
-## glossary
+glossary
 
-## alpha particle
+alpha particle
 
 Entity made up of two neutrons and two protons bound together by the strong nuclear force.
 
@@ -4400,11 +4400,11 @@ Equivalent to a helium nucleus (a helium atom without its electrons)
 
 but such a stable unit that it acts like a particle in its own right.
 
-## asymptotic freedom
+asymptotic freedom
 
 Technical term for the way the glue (or color) force between quarks decreases the closer they get together.
 
-## atom
+atom
 
 The smallest building block of a chemical element.
 
@@ -4412,7 +4412,7 @@ All atoms of any particular element are identical to each other.
 
 Each atom is made up of a tiny central nucleus
 
-### carrying positive electric charge
+carrying positive electric charge
 
 surrounded by a cloud of negatively charged electrons.
 
@@ -4420,19 +4420,19 @@ The number of electrons in the cloud balances out the amount of positive charge 
 
 so the atom is electrically neutral overall.
 
-## beta radiation
+beta radiation
 
 Old name for a stream of fast-moving electrons.
 
-## black body
+black body
 
 An object that is a perfect absorber of radiation.
 
-## black body radiation
+black body radiation
 
 Radiation emitted by a hot black body.
 
-## Bohr radius
+# Bohr radius
 
 The minimum distance at which an electron can "orbit" an atomic nucleus
 
@@ -4444,21 +4444,21 @@ this number—5.
 
 29 x 10⁻¹¹ m—is still a good indication of the size of an atom.
 
-## cavity radiation
+cavity radiation
 
 Old name for black body radiation.
 
-## classical mechanics
+classical mechanics
 
 The description of the workings of the everyday world in terms of Newton’s Laws and Maxwell's Equations.
 
-## classical physics
+classical physics
 
 The laws of physics that apply to smoothly changing phenomena
 
 especially Newton’s Laws and Maxwell's Equations.
 
-## color
+color
 
 A property of quarks equivalent to the charge on electrically charged particles.
 
@@ -4466,39 +4466,39 @@ Also known as color charge.
 
 It has nothing to do with color in everyday life.
 
-## Copenhagen Interpretation
+# Copenhagen Interpretation
 
 The package of ideas describing the quantum world in terms of probability
 
-## uncertainty
+uncertainty
 
 and the "collapse of the wave function.
 
-## diffraction
+diffraction
 
-### The way waves bend around corners
+# The way waves bend around corners
 
-### or spread out from a small hole
+or spread out from a small hole
 
 as in the double-slit experiment.
 
-## electron
+electron
 
-## A fundamental entity
+# A fundamental entity
 
 identified in the 1890s by the British physicist J.
 
 Thomson as a piece of matter that is a component of the atom.
 
-### Usually thought of as a tiny particle
+# Usually thought of as a tiny particle
 
 but one of the startling discoveries of quantum physics is that electrons also act as waves.
 
-## element
+element
 
 A substance that cannot be broken down into a simpler substance by chemical means.
 
-## energy level
+energy level
 
 A quantum state with a particular energy associated with it
 
@@ -4508,57 +4508,57 @@ An entity such as an electron jumps from one level to another without passing th
 
 this is the famous quantum leap.
 
-## Feynman diagram
+# Feynman diagram
 
 A representation of the way particles interact with each other by the exchange of force-carrying quanta
 
 such as photons.
 
-## field
+field
 
-### The extended influence of a force
+# The extended influence of a force
 
-## such as electromagnetism
+such as electromagnetism
 
 through space.
 
-## gamma ray
+gamma ray
 
 Electromagnetic radiation with very high energy
 
-### corresponding to very short wavelengths
+corresponding to very short wavelengths
 
 from 10⁻¹² to 10⁻¹⁰ of a meter.
 
-## gluon
+gluon
 
 Quantum entity that plays the equivalent role in quantum chromodynamics that the photon plays in quantum electrodynamics.
 
-## h
+h
 
 Letter used to denote Planck's constant.
 
-## half-life
+half-life
 
 The time it takes for half of the atoms (strictly speaking
 
 nuclei) in a sample of radioactive material to decay.
 
-## interaction
+interaction
 
 Any of the four forces of nature—gravity
 
-## electromagnetism
+electromagnetism
 
 and the strong and weak nuclear forces.
 
-## interference pattern
+interference pattern
 
-### Pattern produced by interference
+# Pattern produced by interference
 
 as in the double-slit experiment.
 
-## intermediate vector boson
+intermediate vector boson
 
 Overall name for the three particles (W⁺
 
@@ -4566,39 +4566,39 @@ W⁻ and Z⁰) that are the carriers of the weak interaction
 
 carrying out the equivalent role to photons in the electromagnetic interaction.
 
-## jump
+jump
 
 See quantum leap.
 
-## laser
+laser
 
 Powerful beam of light of a single wavelength.
 
 (Light Amplification by Stimulated Emission of Radiation.
 
-## light quantum
+light quantum
 
 Photon.
 
-## matrix mechanics
+matrix mechanics
 
 A version of quantum mechanics based on equations
 
 formulated in terms of entities known as matrices.
 
-## momentum
+momentum
 
 The force that keeps an object in motion.
 
-## neutron
+neutron
 
 One of the particles that make up the nucleus of an atom.
 
-### Roughly the same mass as a proton
+# Roughly the same mass as a proton
 
 but with no electric charge.
 
-## Newton’s laws
+Newton’s laws
 
 The laws of mechanics that apply in the everyday world
 
@@ -4606,71 +4606,71 @@ describing such things as how pool balls bounce off each other
 
 and how rockets work.
 
-## nonlocality
+nonlocality
 
-## The way a quantum entity
+# The way a quantum entity
 
-## such as an electron
+such as an electron
 
-### "spreads out" between interactions
+"spreads out" between interactions
 
 so that it cannot be said to be localized at a point.
 
-## nucleon
+nucleon
 
-### Generic name for protons and neutrons
+# Generic name for protons and neutrons
 
 which together make up the nucleus of an atom.
 
-## nucleus
+nucleus
 
-## The central core of an atom
+# The central core of an atom
 
 made up of positively charged protons and electrically neutral neutrons.
 
-## GLOSSARY (7)
+GLOSSARY (7)
 
-## orbit
+orbit
 
-## In general
+# In general
 
 the trajectory of any object moving under the influence of another object.
 
-## In quantum physics
+# In quantum physics
 
 usually referring to the trajectory followed by an electron under the influence of the nucleus of an atom.
 
-## photoelectric effect
+photoelectric effect
 
 Ejection of electrons from a metal surface when light shines on the surface.
 
-## photon
+photon
 
 Particle of light.
 
 Also the carrier of the electromagnetic force.
 
-## Planck’s constant
+Planck’s constant
 
 Fundamental constant that relates the energy of a photon to its frequency
 
 through the equation E = hν.
 
-## The constant
+# The constant
 
 h, appears in many equations of quantum physics.
 
-## qubit
+qubit
 
 Quantum equivalent of a bit (binary digit) in computing.
 
 A bit can only have the value 0 or 1.
 
-### A qubit can also exist in a mixed state
+# A qubit can also exist in a mixed state
 
 partially 1 and partially 0.
 
-## quantum
+quantum
 
 The smallest unit of something that it is possible to have.
 
@@ -4678,39 +4678,39 @@ Originally used for the quantum of light
 
 now called a photon.
 
-## quantum chromodynamics (QCD)
+quantum chromodynamics (QCD)
 
 Theory of how quarks interact by the exchange of gluons.
 
 Name chosen by analogy with quantum electrodynamics.
 
-## --- Page 36 ---
+--- Page 36 ---
 
-## (8) Glossary Index (69)
+(8) Glossary Index (69)
 
-## quantum dot
+quantum dot
 
 The equivalent of a binary on/off switch in a quantum computer.
 
-### Unlike switches in the everyday world
+# Unlike switches in the everyday world
 
 a quantum dot can exist in a superposition of states.
 
-## quantum electrodynamics (QED)
+quantum electrodynamics (QED)
 
 The quantum theory of how charged particles and photons interact with each other.
 
-## quantum leap
+quantum leap
 
 The smallest change it is possible for a system to make.
 
 Such change involves a random choice from a set of possible changes.
 
-## quantum mechanics
+quantum mechanics
 
 The description of the workings of the world on very small scales in terms of the laws of quantum physics.
 
-## quantum physics
+quantum physics
 
 The laws of physics that apply on very small scales (typically
 
@@ -4718,21 +4718,21 @@ the scale of atoms and below) where change does not occur smoothly but in discre
 
 or quanta.
 
-## quark
+quark
 
 Fundamental particle at a level below that of the proton and the neutron.
 
-### There are three quarks in every proton
+# There are three quarks in every proton
 
 and three quarks in every neutron.
 
-## radioactive decay
+radioactive decay
 
 The process whereby an unstable particle or atomic nucleus breaks up and releases energy.
 
-## wave mechanics 68
+wave mechanics 68
 
-## wave-particle duality
+wave-particle duality
 
 26-9
 
@@ -4740,23 +4740,23 @@ wavelengths 12,
 
 13-15, 26
 
-## waves
+waves
 
-## electromagnetism
+electromagnetism
 
 10-12
 
-## function 26
+function 26
 
 light 11, 12, 26-9
 
-## particles 26-9
+particles 26-9
 
-## probability 25
+probability 25
 
-## tunneling 40
+tunneling 40
 
-## weak nuclear force
+weak nuclear force
 
 48-51, 67, 68
 
@@ -4770,13 +4770,13 @@ Z particles 51, 67, 68
 
 Zweig, George 47
 
-## --- Page 38 ---
+--- Page 38 ---
 
-### FURTHER READING/ACKNOWLEDGMENTS
+FURTHER READING/ACKNOWLEDGMENTS
 
-## Further reading
+# Further reading
 
-## The Meaning of Quantum
+# The Meaning of Quantum
 
 Theory, Jim Baggott,
 
@@ -4792,7 +4792,7 @@ Six Easy Pieces, Richard
 
 Feynman, Penguin 1995
 
-## Thirty Years that Shook
+# Thirty Years that Shook
 
 Physics, George Gamow,
 
@@ -4824,21 +4824,21 @@ Arthur Zajonc,
 
 Bantam, 1993
 
-## Acknowledgments
+# Acknowledgments
 
-## Index
+# Index
 
 Indexing Specialists, Hove
 
-## Jacket design
+# Jacket design
 
-## Nathalie Godwin
+# Nathalie Godwin
 
-## Picture research
+# Picture research
 
-## Lindsey Johns
+# Lindsey Johns
 
-## Picture credits
+# Picture credits
 
 Allsport: 7(tr).
 
@@ -4846,17 +4846,17 @@ Brand X Pictures: 34(bl).
 
 CERN: 50(bl Higgs Boson)
 
-## 51(tl)
+51(tl)
 
 51(tr).
 
-## Imperial
+# Imperial
 
 War Museum: 58(tl).
 
-## IBM Research
+# IBM Research
 
-## Almaden Research Center
+# Almaden Research Center
 
 26(l), 54(br) Unauthorized
 
@@ -4868,65 +4868,65 @@ Science Museum: 17(b).
 
 Science Photo Library: American
 
-## Institute of Physics 15(br)
+Institute of Physics 15(br)
 
-## 31(tl)
+31(tl)
 
-## 17(tl)
+17(tl)
 
-## 18(br)
+18(br)
 
 American Institute of Physics/Physics Today
 
-## Collection 37(cr)
+Collection 37(cr)
 
 American Institute of Physics/Segre Collection 34(tl)
 
-## 36(cl)
+36(cl)
 
-## American
+# American
 
 Institute of Physics/Sky and Telescope 25(tl)
 
-## 30(tl)
+30(tl)
 
-## Clive Freeman
+# Clive Freeman
 
-## Biosym Technologies
+# Biosym Technologies
 
-## 43(tr)
+43(tr)
 
-## 43(cr)
+43(cr)
 
-## Tim Maylon 45(tr)
+Tim Maylon 45(tr)
 
-## Will and Deni McIntyre 46(bl)
+Will and Deni McIntyre 46(bl)
 
-## Hank Morgan 23(cl)
+Hank Morgan 23(cl)
 
-### National Library of Medicine 8(br)
+National Library of Medicine 8(br)
 
-## 10(tl)
+10(tl)
 
-## 11(cl)
+11(cl)
 
 David Parker (Peter Higgs portrait) 50(bl)
 
-## Erich Schrempp 50(cl)
+Erich Schrempp 50(cl)
 
 6(cl); SLAC 47(ct)
 
-### Volker Steger 54(tl) quantum computer)
+Volker Steger 54(tl) quantum computer)
 
-## Andrew
+# Andrew
 
-## Syred 55(tr)
+Syred 55(tr)
 
-### US Department of Energy 41(tr)
+US Department of Energy 41(tr)
 
-## Victor Habbick Visions 65(br)
+Victor Habbick Visions 65(br)
 
-## John Walsh
+# John Walsh
 
 33(l).
 
@@ -4940,7 +4940,7 @@ Every effort has been made to trace the copyright holders.
 
 The publisher apologizes for any unintentional omissions and would be pleased
 
-## in such
+in such
 
 cases, to place an acknowledgment in future editions of this book.
 

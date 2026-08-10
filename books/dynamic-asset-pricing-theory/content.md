@@ -1,32 +1,32 @@
-### # Dynamic Asset Pricing Theory
+# Dynamic Asset Pricing Theory
 
-## ## THIRD EDITION
+# THIRD EDITION
 
-## Darrell Duffie
+# Darrell Duffie
 
-## Princeton University Press
+# Princeton University Press
 
-## Princeton and Oxford
+# Princeton and Oxford
 
-## HG 465?
+HG 465?
 
-## 200 | Cc, | | For Colin
+200 | Cc, | | For Colin
 
-### Published by Princeton University Press
+# Published by Princeton University Press
 
-## 41 William Street
+41 William Street
 
 Princeton, New Jersey 08540
 
-## In the United Kingdom
+# In the United Kingdom
 
-## Princeton University Press
+# Princeton University Press
 
-## 3 Market Place
+3 Market Place
 
-## Woodstock
+# Woodstock
 
-## Oxfordshire OX20 1SY
+# Oxfordshire OX20 1SY
 
 Library of Congress Cataloging-in-Publication Data
 
@@ -36,7 +36,7 @@ Dynamic asset pricing theory / Darrell Duffie.
 
 Includes bibliographical references and index.
 
-## paper)
+paper)
 
 Capital assets pricing model.
 
@@ -48,11 +48,11 @@ Title.
 
 HG4637.
 
-## D84 2001
+# D84 2001
 
 332.
 
-## 6—dc21 2001021235
+6—dc21 2001021235
 
 Duffie, Darrell.
 
@@ -60,519 +60,519 @@ British Library Cataloging-in-Publication Data is available
 
 This book has been composed in New Baskerville
 
-## Printed on acid-free paper @
+Printed on acid-free paper @
 
 pup.
 
 princeton.
 
-## 10 9 8 7 6 5 4 3 2 1
+10 9 8 7 6 5 4 3 2 1
 
-## ## Preface
+# Preface
 
-# PART I: DISCRETE-TIME MODELS
+PART I: DISCRETE-TIME MODELS
 
-## 1 Introduction to State Pricing.
+1 Introduction to State Pricing.
 
-### 1.
+1.
 
 A Arbitrage and State Prices 2.
 
-### 1.
+1.
 
 B Risk-Neutral Probabilities 2.
 
 022,
 
-### 1.
+1.
 
 C Optimality and Asset Pricing .
 
-### 1.
+1.
 
 D Efficiency and Complete Markets 2.
 
-### 1.
+1.
 
 E Optimality and Representative Agents.
 
-### 1.
+1.
 
 F State-Price Beta Models .
 
-### Exercises 2.
+# Exercises 2.
 
-## 2 The Basic Multiperiod Model .
+2 The Basic Multiperiod Model .
 
-### 2.
+2.
 
 A Uncertainty 2.
 
-## ee ee ee eee
+ee ee ee eee
 
-### 2.
+2.
 
 B Security Markets.
 
-## 2 ee eee
+2 ee eee
 
-### 2.
+2.
 
-## C Arbitrage
+# C Arbitrage
 
-## State Prices
+# State Prices
 
 and Martingales .
 
-### 2.
+2.
 
 D Individual Agent Optimality .
 
-### 2.
+2.
 
 E Equilibrium and Pareto Optimality.
 
-### 2.
+2.
 
 F Equilibrium Asset Pricing .
 
-### 2.
+2.
 
 G Arbitrage and Martingale Measures .
 
-### 2.
+2.
 
 H Valuation of Redundant Securities .
 
-### 2.
+2.
 
 I American Exercise Policies and Valuation .
 
-### 2.
+2.
 
 J Is Early Exercise Optimal?
 
-## ### Exercises 2 2 ee ee
+# Exercises 2 2 ee ee
 
-## ### Notes
+# Notes
 
-## ## 3 The Bellman Approach
+3 The Bellman Approach
 
-### 3.
+3.
 
-### A First-Order Bellman Conditions
+# A First-Order Bellman Conditions
 
-### 3.
+3.
 
-## B Markov Uncertainty
+# B Markov Uncertainty
 
-## ## 4 Markov Asset Pricing
+4 Markov Asset Pricing
 
-### 4.
+4.
 
-### A Security Pricing by Markov Control
+# A Security Pricing by Markov Control
 
-### 4.
+4.
 
-### B Markov Arbitrage-Free Valuation
+# B Markov Arbitrage-Free Valuation
 
-### 4.
+4.
 
-### C Early Exercise and Optimal Stopping
+# C Early Exercise and Optimal Stopping
 
-### ## 5 The Infinite-Horizon Setting
+5 The Infinite-Horizon Setting
 
-### 5.
+5.
 
-## A Markov Dynamic Programming
+# A Markov Dynamic Programming
 
-### 5.
+5.
 
-### B Dynamic Programming and Equilibrium
+# B Dynamic Programming and Equilibrium
 
-### 5.
+5.
 
-### C Arbitrage and State Prices 0 0 ee
+# C Arbitrage and State Prices 0 0 ee
 
-### 5.
+5.
 
-## D Optimality and State Prices
+# D Optimality and State Prices
 
-### 5.
+5.
 
-### E Method-of-Moments Estimation
+# E Method-of-Moments Estimation
 
-# PART II: CONTINUOUS-TIME MODELS
+PART II: CONTINUOUS-TIME MODELS
 
-## 6 The Black-Scholes Model.
+6 The Black-Scholes Model.
 
-### 6.
+6.
 
-### A Trading Gains for Brownian Prices
+# A Trading Gains for Brownian Prices
 
-### 6.
+6.
 
-## B Martingale Trading Gains
+# B Martingale Trading Gains
 
-### 6.
+6.
 
 C Ito Prices and Gains, 2.
 
-## ee ee
+ee ee
 
-### 6.
+6.
 
 D The Black-Scholes Option-Pricing Formula
 
-### 6.
+6.
 
 E Black-Scholes Formula: First Try
 
-### 6.
+6.
 
-### F The PDE for Arbitrage-Free Prices
+# F The PDE for Arbitrage-Free Prices
 
-### 6.
+6.
 
-## G The Feynman-Kac Solution
+# G The Feynman-Kac Solution
 
-### 6.
+6.
 
-## H The Multidimensional Case
+# H The Multidimensional Case
 
-## 7 State Prices and Equivalent Martingale Measures
+7 State Prices and Equivalent Martingale Measures
 
-### 7.
+7.
 
-## A Numeraire Invariance
+# A Numeraire Invariance
 
-### 7.
+7.
 
-### B State Prices and Doubling Strategies
+# B State Prices and Doubling Strategies
 
-### 7.
+7.
 
-## C Expected Rates of Return
+# C Expected Rates of Return
 
-### 7.
+7.
 
 D Equivalent Martingale Measures .
 
 2, 108
 
-### 7.
+7.
 
 E State Prices and Martingale Measures 2.
 
 , 110
 
-### 7.
+7.
 
 F Girsanov and Market Prices of Risk 2.
 
 , tll
 
-### 7.
+7.
 
 G Black-Scholes Again 0.
 
-### 7.
+7.
 
 H Complete Markets.
 
-### 7.
+7.
 
-### I Redundant Security Pricing 119
+# I Redundant Security Pricing 119
 
-### 7.
+7.
 
 J Martingale Measures from No Arbitrage.
 
-### 7.
+7.
 
 K Arbitrage Pricing with Dividends.
 
-### 7.
+7.
 
 L Lumpy Dividends and Term Structures .
 
-### 7.
+7.
 
-## M Martingale Measures
+# M Martingale Measures
 
-## Infinite Horizon
+# Infinite Horizon
 
 , 127
 
-### Exercises 2.
+# Exercises 2.
 
 2, 128
 
-### Notes.
+# Notes.
 
 2, 131
 
-## 8 Term-Structure Models .
+8 Term-Structure Models .
 
-### 8.
+8.
 
 A The Term Structure.
 
-### 8.
+8.
 
 B One-Factor Term-Structure Models.
 
 , 137
 
-### 8.
+8.
 
 C The Gaussian Single-Factor Models .
 
-### 8.
+8.
 
 D The Cox-Ingersoll-Ross Model .
 
 , 141
 
-### 8.
+8.
 
 E The Affine Single-Factor Models .
 
-### 8.
+8.
 
-### 8.
+8.
 
 G The Fundamental Solution .
 
-### 8.
+8.
 
 H Multifactor Models .
 
-### 8.
+8.
 
 I Affine Term-Structure Models .
 
-### 8.
+8.
 
 J The HJM Model of Forward Rates .
 
-### 8.
+8.
 
 K Markovian Yield Curves and SPDEs .
 
-### Exercises 6.
+# Exercises 6.
 
 2, 155
 
-### Notes.
+# Notes.
 
 2, 161
 
-## 9 Derivative Pricing.
+9 Derivative Pricing.
 
 2, 167
 
-### 9.
+9.
 
 A Martingale Measures in a Black Box.
 
-### 9.
+9.
 
 B Forward Prices 2.
 
-## 2 169
+2 169
 
-### 9.
+9.
 
 C Futures and Continuous Resettlement .
 
-### 9.
+9.
 
 D Arbitrage-Free Futures Prices.
 
-### 9.
+9.
 
 E Stochastic Volatility 0.
 
 , 174
 
-### 9.
+9.
 
 F Option Valuation by Transform Analysis.
 
-### 9.
+9.
 
 G American Security Valuation .
 
-### 9.
+9.
 
 H American Exercise Boundaries 22.
 
-### 9.
+9.
 
 I Lookback Options.
 
-## 2 189
+2 189
 
-### Exercises 2, 191
+# Exercises 2, 191
 
-### Notes.
+# Notes.
 
 2, 196
 
-## 10 Portfolio and Consumption Choice .
+10 Portfolio and Consumption Choice .
 
-## -++-- 203
+-++-- 203
 
-### 10.
+10.
 
 A Stochastic Control.
 
-## 2 203
+2 203
 
-### 10.
+10.
 
 B Merton’s Problem.
 
-## 0000002-0-04 206
+0000002-0-04 206
 
-### 10.
+10.
 
 C Solution to Merton’s Problem .
 
 000.
 
-### 10.
+10.
 
 D The Infinite-Horizon Case 22.
 
-## 22 2 213
+22 2 213
 
-### 10.
+10.
 
 E The Martingale Formulation .
 
-### 10.
+10.
 
 F Martingale Solution.
 
 20-.
 
-### 10.
+10.
 
 G A Generalization.
 
-## 2 220
+2 220
 
-### 10.
+10.
 
 H The Utility-Gradient Approach 2.
 
-## - 221
+- 221
 
-### Exercises 2.
+# Exercises 2.
 
 2, 224
 
-### Notes.
+# Notes.
 
 2, 232
 
-## 11 Equilibrium 6.
+11 Equilibrium 6.
 
 2, 235
 
-### 11.
+11.
 
 A The Primitives.
 
-## 2 235
+2 235
 
-### 11.
+11.
 
 B Security-Spot Market Equilibrium .
 
-### 11.
+11.
 
 C Arrow-Debreu Equilibrium .
 
-### 11.
+11.
 
 D Implementing Arrow-Debreu Equilibrium .
 
-### 11.
+11.
 
 E Real Security Prices .
 
-## 2 240
+2 240
 
-### 11.
+11.
 
 F Optimality with Additive Utility.
 
 00002.
 
-### 11.
+11.
 
 G Equilibrium with Additive Utility.
 
 243,
 
-### 11.
+11.
 
 H The Consumption-Based CAPM 2.
 
-## 22 0-000---.
+22 0-000---.
 
-### 11.
+11.
 
 I The CIR Term Structure .
 
 20-.
 
-## - 246
+- 246
 
-### 11.
+11.
 
 J The CCAPM in Incomplete Markets .
 
-### Exercises 6.
+# Exercises 6.
 
 2, 251
 
-### Notes 2, 255
+# Notes 2, 255
 
-## 12 Corporate Securities .
+12 Corporate Securities .
 
 2, 259
 
-### 12.
+12.
 
 A The Black-Scholes-Merton Model.
 
-## - 259
+- 259
 
-### 12.
+12.
 
 B Endogenous Default Timing .
 
-### 12.
+12.
 
 C Example: Brownian Dividend Growth .
 
-### 12.
+12.
 
 D Taxes and Bankruptcy Costs.
 
-## -2-20- 268
+-2-20- 268
 
-### 12.
+12.
 
 E Endogenous Capital Structure .
 
 -22.
 
-### 12.
+12.
 
 F Technology Choice .
 
@@ -580,189 +580,189 @@ F Technology Choice .
 
 -0-.
 
-## -02 0004 271
+-02 0004 271
 
-### 12.
+12.
 
 G Other Market Imperfections .
 
-### 12.
+12.
 
 H Intensity-Based Modeling of Default .
 
-### 12.
+12.
 
 I Risk-Neutral Intensity Process .
 
-## 22222 0s 277
+22222 0s 277
 
-### 12.
+12.
 
 J Zero-Recovery Bond Pricing .
 
-### 12.
+12.
 
 K Pricing with Recovery at Default.
 
 02220.
 
-### 12.
+12.
 
 L Default-Adjusted Short Rate .
 
-### Exercises 2.
+# Exercises 2.
 
 2, 282
 
-### Notes.
+# Notes.
 
 2, 288
 
-## 13 Numerical Methods 1.
+13 Numerical Methods 1.
 
 2, 293
 
-### 13.
+13.
 
 A Central Limit Theorems .
 
 --+.
 
-### 13.
+13.
 
 B Binomial to Black-Scholes.
 
 0-02205.
 
-### 13.
+13.
 
 C Binomial Convergence for Unbounded Derivative Payoffs .
 
-### 13.
+13.
 
 D Discretization of Asset Price Processes .
 
-### 13.
+13.
 
 E Monte Carlo Simulation.
 
-## 20200 -.
+20200 -.
 
 000005
 
-### 13.
+13.
 
 F Efficient SDE Simulation .
 
 004.
 
-### 13.
+13.
 
 G Applying Feynman-Kac .
 
-## 2-0 2
+2-0 2
 
-### 13.
+13.
 
 H Finite-Difference Methods .
 
-### 13.
+13.
 
 I Term-Structure Example .
 
-### 13.
+13.
 
 J Finite-Difference Algorithms with Early Exercise Options.
 
-### 13.
+13.
 
 K The Numerical Solution of State Prices .
 
-### 13.
+13.
 
 L Numerical Solution of the Pricing Semi-Group .
 
-### 13.
+13.
 
 M Fitting the Initial Term Structure.
 
 222004.
 
-### Exercises 2.
+# Exercises 2.
 
-### ## A Finite-State Probabilities
+# A Finite-State Probabilities
 
-### A.
+A.
 
-### 1 Separating Hyperplanes and Optimality .
+1 Separating Hyperplanes and Optimality .
 
-### A.
+A.
 
-## 2 Probability.
+2 Probability.
 
-## B Stochastic Integration 6.
+# B Stochastic Integration 6.
 
-## C SDE, PDE, and Feynman-Kac.
+# C SDE, PDE, and Feynman-Kac.
 
-### C.
+C.
 
-## 1 Ito's Formula with Jumps.
+1 Ito's Formula with Jumps.
 
-## D Utility Gradients .
+# D Utility Gradients .
 
-### D.
+D.
 
-### 1 Ito’s Formula for Complex Functions .
+1 Ito’s Formula for Complex Functions .
 
 64:5
 
-## E Counting Processes .
+# E Counting Processes .
 
-## - 22-6 2
+- 22-6 2
 
-## F Finite-Difference Code .
+# F Finite-Difference Code .
 
-## 60 2
+60 2
 
-## Bibliography.
+# Bibliography.
 
-## Symbol Glossary 0.
+# Symbol Glossary 0.
 
-## Author Index 6.
+# Author Index 6.
 
-## ## Preface
+# Preface
 
 THIS BOOK IS an introduction to the theory of portfolio choice and assetpricing in multiperiod settings under uncertainty.
 
-## An alternate title might
+# An alternate title might
 
-## be Arbitrage
+be Arbitrage
 
-## Optimality
+# Optimality
 
-## and Equilibrium
+and Equilibrium
 
-### because the book is built around
+because the book is built around
 
 the three basic constraints on asset prices
 
-## absence of arbitrage
+absence of arbitrage
 
-## single-
+single-
 
-## agent optimality
+agent optimality
 
 and market equilibrium.
 
-## The most important unifying
+# The most important unifying
 
 principle is that any of these three conditions implies that there are “state
 
-## prices
+prices
 
-### ” meaning positive discount factors
+” meaning positive discount factors
 
-## one for each state and date
+one for each state and date
 
 such that the price of any security is merely the state-price weighted sum of
 
@@ -772,7 +772,7 @@ This idea can be traced to the invention by Arrow (1953)
 
 of the general equilibrium model of security markets.
 
-## Identifying the state
+# Identifying the state
 
 prices is the major task at hand.
 
@@ -796,29 +796,29 @@ consumption policies.
 
 This set the stage for his 1973 general equilibrium
 
-## model of security prices
+model of security prices
 
 another milestone.
 
-## His next major contribution
+# His next major contribution
 
 was his arbitrage-based proof of the option pricing formula introduced
 
 by Fisher Black and Myron Scholes in 1973
 
-## and his continual develop-
+and his continual develop-
 
 ment of that approach to derivative pricing.
 
-## The Black-Scholes model
+# The Black-Scholes model
 
-## now seems to be
+now seems to be
 
-## by far
+by far
 
 the most important single breakthrough of this
 
-## “golden decade
+“golden decade
 
 ” and ranks alone with the Modigliani and Miller (1958)
 
@@ -834,21 +834,21 @@ model appeared in the “binomial” option pricing model of Cox
 
 Ross, and
 
-## Rubinstein (1979)
+Rubinstein (1979)
 
 who drew on an insight of Bill Sharpe.
 
-## xiii
+xiii
 
-## --- Page 7 ---
+--- Page 7 ---
 
-## xiv Preface
+xiv Preface
 
-### Working with discrete-time models
+# Working with discrete-time models
 
-## LeRoy (1973)
+LeRoy (1973)
 
-## Rubinstein (1976)
+Rubinstein (1976)
 
 and Lucas (1978) developed multiperiod extensions of the CAPM.
 
@@ -858,13 +858,13 @@ The simplest multiperiod representation of the CAPM finally appeared in
 
 Doug Breeden’s continuous-time consumption-based CAPM
 
-## published in
+published in
 
 1979.
 
-### Although not published until 1985
+# Although not published until 1985
 
-### the Cox-Ingersoll-Ross model of
+the Cox-Ingersoll-Ross model of
 
 the term structure of interest rates appeared in the mid-seventies and is
 
@@ -872,15 +872,15 @@ still the premier textbook example of a continuous-time general equilib-
 
 rium asset pricing model with practical applications.
 
-## It also ranks as one
+# It also ranks as one
 
 of the key breakthroughs of that decade.
 
 Finally, extending the ideas of
 
-### Cox and Ross (1976) and Ross (1978)
+Cox and Ross (1976) and Ross (1978)
 
-### Harrison and Kreps (1979) gave
+Harrison and Kreps (1979) gave
 
 an almost definitive conceptual structure to the whole theory of dynamic
 
@@ -888,15 +888,15 @@ security prices.
 
 Theoretical developments in the period since 1979
 
-## with relatively few
+with relatively few
 
-## exceptions
+exceptions
 
 have been a mopping-up operation.
 
-## Assumptions have been
+# Assumptions have been
 
-## weakened
+weakened
 
 there have been noteworthy extensions and illustrative mod-
 
@@ -904,7 +904,7 @@ els, and the various problems have become much more unified under the
 
 umbrella of the Harrison-Kreps model of equivalent martingale measures.
 
-## For example
+# For example
 
 the standard approach to optimal portfolio and consump-
 
@@ -918,23 +918,23 @@ between the absence of arbitrage and the existence of equivalent martin-
 
 gale measures was finally obtained by Delbaen and Schachermayer (1999).
 
-## On the applied side
+# On the applied side
 
 markets have experienced an explosion of
 
-## new valuation techniques
+new valuation techniques
 
-## hedging applications
+hedging applications
 
-## and security innovation
+and security innovation
 
 much of this based on the Black-Scholes and related arbitrage models.
 
-## No major investment bank
+# No major investment bank
 
-## for example
+for example
 
-## lacks the experts or computer
+lacks the experts or computer
 
 technology required to implement advanced mathematical models of the
 
@@ -942,11 +942,11 @@ term structure.
 
 Because of the wealth of new applications
 
-## there has been
+there has been
 
 a significant development of special models to treat stochastic volatility
 
-### jump behavior including default
+jump behavior including default
 
 and the term structure of interest rates
 
@@ -960,7 +960,7 @@ order to promote faster progress by people coming into the field it seems
 
 wise to have some of the basics condensed into a textbook.
 
-## This book
+# This book
 
 is designed to be a streamlined course text
 
@@ -968,37 +968,37 @@ not a research monograph.
 
 Much generality is sacrificed for expositional reasons
 
-## and there is rela-
+and there is rela-
 
 tively little emphasis on mathematical rigor or on the existence of general
 
 equilibrium.
 
-## As its title indicates
+# As its title indicates
 
-### I am treating only the theoretical side
+# I am treating only the theoretical side
 
-## Preface xv
+# Preface xv
 
 of the story.
 
 Although it might be useful to tie the theory to the empirical
 
-## side of asset pricing
+side of asset pricing
 
 we have excellent treatments of the econometric
 
-## modeling of financial data
+modeling of financial data
 
-## such as Campbell
+such as Campbell
 
 Lo, and MacKinlay (1997)
 
 and Gourieroux and Jasiak (2000).
 
-### I also leave out some important aspects
+# I also leave out some important aspects
 
-### of functioning security markets
+of functioning security markets
 
 such as asymmetric information and trans-
 
@@ -1006,7 +1006,7 @@ actions costs.
 
 I have chosen to develop only some of the essential ideas of
 
-## dynamic asset pricing
+dynamic asset pricing
 
 and even these are more than enough to put into
 
@@ -1016,67 +1016,67 @@ Other books whose treatments overlap with some of the topics treated
 
 here include Avellanedo and Laurence (2000)
 
-## Björk (1998)
+Björk (1998)
 
-## Dana and
+# Dana and
 
-## Jeanblanc (1998)
+Jeanblanc (1998)
 
-## Demange and Rochet (1992)
+Demange and Rochet (1992)
 
-## Dewynne and Wilmott
+# Dewynne and Wilmott
 
-## (1994)
+(1994)
 
-## Dixit and Pindyck (1993)
+Dixit and Pindyck (1993)
 
-## Dothan (1990)
+Dothan (1990)
 
-## Duffie (1988b)
+Duffie (1988b)
 
-## Harris
+# Harris
 
-## (1987)
+(1987)
 
-## Huang and Litzenberger (1988)
+Huang and Litzenberger (1988)
 
-## Ingersoll (1987)
+Ingersoll (1987)
 
-## Jarrow (1988)
+Jarrow (1988)
 
-## Karatzas (1997)
+Karatzas (1997)
 
-## Karatzas and Shreve (1998)
+Karatzas and Shreve (1998)
 
-## Lamberton and Lapeyre
+# Lamberton and Lapeyre
 
-## (1997)
+(1997)
 
-## Magill and Quinzii (1994)
+Magill and Quinzii (1994)
 
-## Merton (1990)
+Merton (1990)
 
-## Musiela and Rutkowski
+# Musiela and Rutkowski
 
-## (1997)
+(1997)
 
-## Neftci (2000)
+Neftci (2000)
 
-## Stokey and Lucas (1989)
+Stokey and Lucas (1989)
 
-## Wilmott
+# Wilmott
 
-## Dewynne
+# Dewynne
 
-## Howison (1993)
+Howison (1993)
 
-## and Wilmott
+and Wilmott
 
-## Howison
+# Howison
 
 and Dewynne (1995).
 
-## Each has
+# Each has
 
 its own aims and themes.
 
@@ -1092,29 +1092,29 @@ tion to the basic notion of state prices and then to go directly to Chap-
 
 ters 5 through 11.
 
-## Chapter 12
+# Chapter 12
 
-## on numerical methods
+on numerical methods
 
-## could be skipped
+could be skipped
 
 at some cost to the student’s ability to implement the results.
 
-## There is no
+# There is no
 
 direct dependence of any results in Chapters 5 through 12 on the first four
 
 chapters.
 
-## For mathematical preparation
+# For mathematical preparation
 
-### little beyond undergraduate analysis
+little beyond undergraduate analysis
 
-## as in Bartle (1976)
+as in Bartle (1976)
 
 and linear algebra is assumed.
 
-## Some familiarity with
+# Some familiarity with
 
 Royden (1968) or a similar text on functional analysis and measure the-
 
@@ -1122,51 +1122,51 @@ ory, would also be useful.
 
 Some background in microeconomics would be
 
-## useful
+useful
 
 say Kreps (1990) or Luenberger (1995).
 
-## Familiarity with probabil-
+# Familiarity with probabil-
 
 ity theory at the level of Jacod and Protter (2000)
 
-## for example
+for example
 
-## would also
+would also
 
-## speed things along
+speed things along
 
 although measure theory is not used heavily.
 
-## In any
+# In any
 
 case, a series of appendices supplies all of the required concepts and def-
 
 initions from probability theory and stochastic calculus.
 
-## Additional useful
+# Additional useful
 
 references in this regard are Brémaud (1981)
 
-## Karatzas and Shreve (1988)
+Karatzas and Shreve (1988)
 
-## Revuz and Yor (1991)
+Revuz and Yor (1991)
 
 and Protter (1990).
 
 Students seem to learn best by doing problem exercises.
 
-## Each chap-
+# Each chap-
 
 ter has exercises and notes to the literature.
 
-## I have tried to be thorough
+# I have tried to be thorough
 
 in giving sources for results whenever possible and plead that any cases
 
-## --- Page 8 ---
+--- Page 8 ---
 
-## xvi Preface
+xvi Preface
 
 in which I have mistaken or missed sources be brought to my attention
 
@@ -1178,13 +1178,13 @@ dard.
 
 I use R to denote the real line and R = R ∪ {−∞
 
-## +∞} for the
++∞} for the
 
 extended real line.
 
-### For any set Z and positive integer n
+# For any set Z and positive integer n
 
-## I use Z^n for the set
+I use Z^n for the set
 
 of n-tuples of the form (z₁ … zₙ) with zᵢ in Z for all i.
 
@@ -1192,243 +1192,243 @@ An example is Rⁿ.
 
 Chien, Seongman Cho
 
-## Fai Tong Chung
+# Fai Tong Chung
 
-## Chin-Shan Chuan
+# Chin-Shan Chuan
 
-## Howie Corb
+# Howie Corb
 
-## Qiang Dai
+# Qiang Dai
 
-## Eugene Demler
+# Eugene Demler
 
-## Shijic Deng
+# Shijic Deng
 
-## Michelle Dick
+# Michelle Dick
 
-## Phil Dolan
+# Phil Dolan
 
-## Duncan
+# Duncan
 
-## Wedad Elmaghraby
+# Wedad Elmaghraby
 
-## Kian Esteghamat
+# Kian Esteghamat
 
-## Mark Ferguson
+# Mark Ferguson
 
-## Chris-
+# Chris-
 
-## tian Riis Flor
+tian Riis Flor
 
-## Prashant Fuloria
+# Prashant Fuloria
 
-## John Fuqua
+# John Fuqua
 
-## Nicolae Garleanu
+# Nicolae Garleanu
 
-## Mark
+# Mark
 
-## Garmaise
+# Garmaise
 
-## Filippo Ginanni
+# Filippo Ginanni
 
-## Michel Grueneberg
+# Michel Grueneberg
 
-## Bing Han
+# Bing Han
 
-## Philippe
+# Philippe
 
-## Henrotte
+# Henrotte
 
-## Ayman Hindy
+# Ayman Hindy
 
-## Yael Hochberg
+# Yael Hochberg
 
-## Toshiki Honda
+# Toshiki Honda
 
-## Taiichi Hoshino
+# Taiichi Hoshino
 
-## Jiangping Hu
+# Jiangping Hu
 
-## Ming Huang
+# Ming Huang
 
-## Cristobal Hunceus
+# Cristobal Hunceus
 
-## Don Iglchart
+# Don Iglchart
 
-## Michael
+# Michael
 
-## Intriligator
+# Intriligator
 
-## Farshid Jamshidian
+# Farshid Jamshidian
 
-## Ping Jiang
+# Ping Jiang
 
-## Shinsuke Kambe
+# Shinsuke Kambe
 
-## Rui Kan
+# Rui Kan
 
-## Ron Karidi
+# Ron Karidi
 
-## Don Kim
+# Don Kim
 
-## Felix Kubler
+# Felix Kubler
 
-## Allan Kulig
+# Allan Kulig
 
-## Yoichi Kuwana
+# Yoichi Kuwana
 
-## Piero
+# Piero
 
-## La Mura
+# La Mura
 
-## Yingcong Lan
+# Yingcong Lan
 
-## Joe Langsam
+# Joe Langsam
 
-## Jackie Lec
+# Jackie Lec
 
-## André Levy
+André Levy
 
-## Shujing
+# Shujing
 
 Li, Wenzhi Li
 
-## Tiong Wee Lim
+# Tiong Wee Lim
 
-## Jun Liu
+# Jun Liu
 
-## Leonid Litvak
+# Leonid Litvak
 
-## Hanno Lustig
+# Hanno Lustig
 
-## Rob McMillan
+# Rob McMillan
 
-## Rajnish Mehra
+# Rajnish Mehra
 
-## Sergei Morozov
+# Sergei Morozov
 
-## Christophe Mueller
+# Christophe Mueller
 
-## Ravi Myneni
+# Ravi Myneni
 
-## Lee Bath Nelson
+# Lee Bath Nelson
 
-## Yigal Newman
+# Yigal Newman
 
-## Angela Ng
+# Angela Ng
 
-## Kazuhiko
+# Kazuhiko
 
-## Ohashi
+# Ohashi
 
-## Hui Ou-Yang
+# Hui Ou-Yang
 
-## John Overdeck
+# John Overdeck
 
-## Hideo Owen
+# Hideo Owen
 
-## Caglar Ozden
+# Caglar Ozden
 
-## Mikko
+# Mikko
 
-## Packalen
+# Packalen
 
-## Jun Pan
+# Jun Pan
 
-## Lasse Pedersen
+# Lasse Pedersen
 
-## Albert Perez
+# Albert Perez
 
-## Monika Piazzesi
+# Monika Piazzesi
 
-## Jorge
+# Jorge
 
-## Picazo
+# Picazo
 
-## Heracles Polemarchakis
+# Heracles Polemarchakis
 
-## Marius Rabus
+# Marius Rabus
 
-## Rohit Rahi
+# Rohit Rahi
 
-## Shikhar
+# Shikhar
 
-## Ranjan
+# Ranjan
 
-## Michael Rierson
+# Michael Rierson
 
-## Amir Sadr
+# Amir Sadr
 
-## Yuliy Sannikoy
+# Yuliy Sannikoy
 
-## Marco Scarsini
+# Marco Scarsini
 
-## Martin Schneider
+# Martin Schneider
 
-## Christine Shannon
+# Christine Shannon
 
-## Yong-Seok Shin
+# Yong-Seok Shin
 
-## Mark Shivers
+# Mark Shivers
 
-## Hersir Sigurgeirsson
+# Hersir Sigurgeirsson
 
-## Marciano Siniscalchi
+# Marciano Siniscalchi
 
-## Ravi Singh
+# Ravi Singh
 
-## Ronnie Sircar
+# Ronnie Sircar
 
-## Viktor Spivakovsky
+# Viktor Spivakovsky
 
-## Lucie Tepla
+# Lucie Tepla
 
-## Sergiy Terentyev
+# Sergiy Terentyev
 
-## Rajat Tewari
+# Rajat Tewari
 
-## Sverrir
+# Sverrir
 
-## Thorvaldsson
+# Thorvaldsson
 
-## Alex Tolstykh
+# Alex Tolstykh
 
-## Tunay Tunca
+# Tunay Tunca
 
-## John Uglum
+# John Uglum
 
-## Len Umantsevy
+# Len Umantsevy
 
-## Stijn Van Nieuwerburgh
+# Stijn Van Nieuwerburgh
 
-## Laura Veldkamp
+# Laura Veldkamp
 
-## Mary Vyas
+# Mary Vyas
 
-## Muhamet Yildiz
+# Muhamet Yildiz
 
-## Nese Yildiz
+# Nese Yildiz
 
-## Ke Wang
+# Ke Wang
 
-## Neng Wang
+# Neng Wang
 
-## Chao Wei
+# Chao Wei
 
-## Wei Wei
+# Wei Wei
 
-## Pierre-Olivier
+# Pierre-Olivier
 
 Weill, Steven Weinberg
 
-## Seth Weingram
+# Seth Weingram
 
-## Guojun Wu
+# Guojun Wu
 
-## Pinghua Young
+# Pinghua Young
 
-## Assaf
+# Assaf
 
 Zeevi, and Alexandre Ziegler
 
@@ -1438,21 +1438,21 @@ was forgotten.
 
 I am especially grateful to the expert team of Japanese
 
-### translators of the second edition
+translators of the second edition
 
-## Toshiki Honda
+# Toshiki Honda
 
-## Kazuhiko Ohashi
+# Kazuhiko Ohashi
 
-## Yoichi
+# Yoichi
 
-## Kuwana
+# Kuwana
 
-## and Akira Yamazaki
+and Akira Yamazaki
 
 all of whom are personal friends as well.
 
-## For the reader’s convenience
+For the reader’s convenience
 
 the original preface has been revised for
 
@@ -1462,25 +1462,25 @@ Significant improvements have been made in most chap-
 
 ters.
 
-## Chapter 11
+# Chapter 11
 
-## “Corporate Securities
+“Corporate Securities
 
 ” has been added for this edition.
 
-### Errors are my own responsibility
+# Errors are my own responsibility
 
 and I hope to hear of them and any other
 
 comments from readers.
 
-## Darrell Duffie
+# Darrell Duffie
 
-## --- Page 10 ---
+--- Page 10 ---
 
-## I
+I
 
-## Discrete-Time Models
+# Discrete-Time Models
 
 This first part of the book takes place in a discrete-time setting with a dis-
 
@@ -1490,19 +1490,19 @@ This should ease the development of intuition for the
 
 models to be found in Part II.
 
-### The three pillars of the theory
+# The three pillars of the theory
 
-## arbitrage
+arbitrage
 
-## optimality
+optimality
 
-## and equilibrium
+and equilibrium
 
 are developed repeatedly in different settings.
 
 Chapter 1 is the basic single-period model.
 
-## Chapter 2 extends the results
+# Chapter 2 extends the results
 
 of Chapter 1 to many periods.
 
@@ -1522,7 +1522,7 @@ Chapter 3 that has become known as the Lucas model.
 
 The focus of the theory is the notion of state prices
 
-## which specify the
+which specify the
 
 price of any security as the state-price weighted sum or expectation of the
 
@@ -1532,13 +1532,13 @@ In a finite-dimensional setting, there
 
 exist state prices if and only if there is no arbitrage.
 
-## The same fact is true
+# The same fact is true
 
 in infinite-dimensional settings under mild technical regularity conditions.
 
 Given an agent’s optimal portfolio choice
 
-### a state-price vector is given by
+a state-price vector is given by
 
 that agent’s utility gradient.
 
@@ -1548,15 +1548,15 @@ state-price vector is likewise given by a representative agent’s utility gradi
 
 ent at the economy’s aggregate consumption process.
 
-## --- Page 11 ---
+--- Page 11 ---
 
-## Introduction to State Pricing
+# Introduction to State Pricing
 
 THIS CHAPTER INTRODUCES the basic ideas in a finite-state one-period set-
 
 ting.
 
-## In many basic senses
+# In many basic senses
 
 each subsequent chapter merely repeats this
 
@@ -1564,11 +1564,11 @@ one from a new perspective.
 
 The objective is a characterization of security
 
-### prices in terms of “state prices
+prices in terms of “state prices
 
 ” one for each state of the world.
 
-## The price
+# The price
 
 of a given security is simply the state-price weighted sum of its payoffs in
 
@@ -1576,59 +1576,59 @@ the different states.
 
 One can treat a state price as the “shadow price
 
-## ” or
+” or
 
-## Lagrange multiplier
+# Lagrange multiplier
 
 for wealth contingent on a given state of the world.
 
 We obtain a characterization of state prices
 
-## first based on the absence of
+first based on the absence of
 
-## arbitrage
+arbitrage
 
 then based on the first-order conditions for optimal portfolio
 
-## choice of a given agent
+choice of a given agent
 
 and finally from the first-order conditions for
 
 Pareto optimality in an equilibrium with complete markets.
 
-## State prices
+# State prices
 
 are connected with the “beta” model for excess expected returns
 
-## a special
+a special
 
 case of which is the Capital Asset Pricing Model (CAPM).
 
-## Many readers
+# Many readers
 
 will find this chapter to be a review of standard results.
 
 In most cases,
 
-## here and throughout
+here and throughout
 
 technical conditions are imposed that give up much
 
 generality so as to simplify the exposition.
 
-## Arbitrage and State Prices
+# Arbitrage and State Prices
 
 Uncertainty is represented here by a finite set {1
 
 …, S} of states
 
-## one of
+one of
 
 which will be revealed as true.
 
-### The N securities are given by an N × S
+The N securities are given by an N × S
 
-## matrix D
+matrix D
 
 with D_{ij} denoting the number of units of account paid by secu-
 
@@ -1636,31 +1636,31 @@ rity i in state j.
 
 The security prices are given by some q in R^N.
 
-## A portfolio
+# A portfolio
 
 θ ∈ R^N has market value q·θ and payoff D^T θ in R^S.
 
-## An arbitrage is a port-
+# An arbitrage is a port-
 
-## arbitrage is therefore
+arbitrage is therefore
 
-## in effect
+in effect
 
 a portfolio offering “something for noth-
 
 ing.
 
-## ” Not surprisingly
+” Not surprisingly
 
 it will later be shown that an arbitrage is naturally
 
-## ruled out
+ruled out
 
 and this gives a characterization of security prices as follows.
 
-## --- Page 12 ---
+--- Page 12 ---
 
-### 4 1. Introduction to State Pricing
+4 1. Introduction to State Pricing
 
 Figure 1.
 
@@ -1668,7 +1668,7 @@ Separating a Cone from a Linear Subspace
 
 state-price vector is a vector ψ in R^S with q = Dψ.
 
-## We can think of ψ as
+We can think of ψ as
 
 the marginal cost of obtaining an additional unit of account in state j.
 
@@ -1680,77 +1680,77 @@ Proof: The proof is an application of the Separating Hyperplane
 
 Theorem.
 
-### Let L = R × R^S and M = {(-q·θ
+Let L = R × R^S and M = {(-q·θ
 
-## D^T θ)
+D^T θ)
 
-## θ ∈ R^N}
+θ ∈ R^N}
 
-## a linear
+a linear
 
 subspace of L.
 
-## Let K = R_+ × R^S
+Let K = R_+ × R^S
 
-### which is a cone (meaning that if x is
+which is a cone (meaning that if x is
 
 in K, then λx is in K for each strictly positive scalar λ).
 
-## Both K and M
+# Both K and M
 
 are closed and convex subsets of L.
 
-### There is no arbitrage if and only if K
+# There is no arbitrage if and only if K
 
-### and M intersect precisely at 0
+and M intersect precisely at 0
 
 as pictured in Figure 1.
 
 Suppose K ∩ M = {0}.
 
-### The Separating Hyperplane Theorem (in a
+The Separating Hyperplane Theorem (in a
 
 version for closed cones that is found in Appendix B) implies the existence
 
-### of a nonzero linear functional F
+of a nonzero linear functional F
 
-### L → R such that F(z) < F(x) for all
+L → R such that F(z) < F(x) for all
 
 z in M and nonzero x in K.
 
-## Since M is a linear space
+# Since M is a linear space
 
-## this implies that
+this implies that
 
 F(z) = 0 for all z in M and that F(x) > 0 for all nonzero x in K.
 
 latter fact implies that there is some α > 0 in R and ψ ≥ 0 in R^S such
 
-## that F(v
+that F(v
 
-## c) = α v + ψ·c
+c) = α v + ψ·c
 
-## for any (v
+for any (v
 
 c) ∈ L.
 
-## This in turn implies that
+# This in turn implies that
 
 state-price vector.
 
-## Conversely
+# Conversely
 
-### if a state-price vector exists
+if a state-price vector exists
 
-## then for any θ
+then for any θ
 
-## we have
+we have
 
-## we have q·θ ≥ 0
+we have q·θ ≥ 0
 
 so there is no arbitrage.
 
-## Risk-Neutral Probabilities
+# Risk-Neutral Probabilities
 
 We can view any ψ in R^S with ψ_1 + … + ψ_S = 1 as a vector of probabilities
 
@@ -1758,21 +1758,21 @@ of the corresponding states.
 
 Given a state-price vector ψ for the dividend-
 
-## price pair (D
+price pair (D
 
 q), let W = ψ_1 + … + ψ_S and
 
-## for any state j
+for any state j
 
 let π_j = ψ_j/W.
 
-### Optimality and Asset Pricing 5
+# Optimality and Asset Pricing 5
 
-## We now have a vector (π_1
+We now have a vector (π_1
 
 …, π_S) of probabilities and can write
 
-## for an
+for an
 
 arbitrary security i,
 
@@ -1782,21 +1782,21 @@ viewing the normalized price of the security as its expected payoff under
 
 specially chosen “risk-neutral” probabilities.
 
-## If there exists a portfolio θ
+If there exists a portfolio θ
 
-## with D^T θ = (1
+with D^T θ = (1
 
 1,…,1)
 
 then W = θ·q is the discount on riskless bor-
 
-## rowing and
+rowing and
 
-## for any security i
+for any security i
 
-## q_i = W E(D_i)
+q_i = W E(D_i)
 
-## showing any security’s price
+showing any security’s price
 
 to be its discounted expected payoff in this sense of artificially constructed
 
@@ -1808,13 +1808,13 @@ q) is given.
 
 An agent is defined by a strictly increasing utility function and an endowment in .
 
-### This leaves the budget-feasible set
+# This leaves the budget-feasible set
 
-## and the problem
+and the problem
 
 We will suppose for this section that there is some portfolio with payoff .
 
-### Because is strictly increasing
+# Because is strictly increasing
 
 the wealth constraint is then binding at an optimum.
 
@@ -1822,7 +1822,7 @@ That is, if solves (1), then .
 
 **Proposition.
 
-### ** If there is a solution to (1)
+** If there is a solution to (1)
 
 then there is no arbitrage.
 
@@ -1836,13 +1836,13 @@ then there is a solution to (1).
 
 ** Suppose that is a strictly positive solution to (1)
 
-### that is continuously differentiable at
+that is continuously differentiable at
 
 and that the vector of partial derivatives of at is strictly positive.
 
 Then there is some scalar such that is a state-price vector.
 
-## **Proof
+**Proof
 
 ** The first-order condition for optimality is that for any with
 
@@ -1854,7 +1854,7 @@ The strict positivity of implies that for any portfolio
 
 there is some scalar such that for all in .
 
-## Let be defined by
+# Let be defined by
 
 Suppose .
 
@@ -1862,27 +1862,27 @@ The optimality of implies that is maximized at .
 
 The first-order condition for this is that .
 
-## We can conclude that
+# We can conclude that
 
-## for any in
+for any in
 
 if , then .
 
-## From this
+# From this
 
 there is some scalar such that .
 
-## By assumption
+# By assumption
 
 there is some portfolio with .
 
-### From the existence of a solution to (1)
+From the existence of a solution to (1)
 
-## there is no arbitrage
+there is no arbitrage
 
 implying that .
 
-## We have
+# We have
 
 Thus .
 
@@ -1894,9 +1894,9 @@ Although we have assumed that is strictly increasing
 
 this does not necessarily mean that .
 
-### If is concave and strictly increasing
+# If is concave and strictly increasing
 
-## however
+however
 
 it is always true that .
 
@@ -1912,9 +1912,9 @@ This follows from the sufficiency of the first-order optimality conditions for c
 
 The idea is illustrated in Figure 1.
 
-## In that figure
+# In that figure
 
-## there are only two states
+there are only two states
 
 and a state-price vector is a suitably normalized nonzero positive vector orthogonal to the set of budget-neutral consumption adjustments.
 
@@ -1936,7 +1936,7 @@ at which the derivative vector is not co-linear with the state-price vector .
 
 **C.
 
-### Optimality and Asset Pricing** 7
+Optimality and Asset Pricing** 7
 
 **Figure 1.
 
@@ -1948,19 +1948,19 @@ defined by a given vector of probabilities and by some according to
 
 For , if is differentiable, then .
 
-### For this expected utility function
+# For this expected utility function
 
-### (2) therefore applies if and only if
+(2) therefore applies if and only if
 
 with the obvious notational convention.
 
-## As we saw in Section B
+# As we saw in Section B
 
-## one can also write (2) or (4)
+one can also write (2) or (4)
 
-### with the "risk-neutral" probability
+with the "risk-neutral" probability
 
-## in the form
+in the form
 
 **Figure 1.
 
@@ -1968,23 +1968,23 @@ A Strictly Suboptimal Consumption Choice**
 
 **8** 1.
 
-## Introduction to State Pricing
+# Introduction to State Pricing
 
 **D.
 
-### Efficiency and Complete Markets**
+Efficiency and Complete Markets**
 
-## Suppose there are agents
+# Suppose there are agents
 
 defined as in Section C by strictly increasing utility functions and by endowments .
 
 An equilibrium for the economy is a collection such that
 
-### given the security-price vector
+given the security-price vector
 
-## for each agent
+for each agent
 
-## solves subject to
+solves subject to
 
 and such that .
 
@@ -1992,7 +1992,7 @@ The existence of equilibrium is treated in the exercises and in sources cited in
 
 With denoting the set of possible portfolio payoffs
 
-## markets are complete if
+markets are complete if
 
 and are otherwise incomplete.
 
@@ -2012,7 +2012,7 @@ Then the associated equilibrium allocation is Pareto optimal.
 
 This is sometimes known as The First Welfare Theorem.
 
-## The proof
+# The proof
 
 requiring only the strict monotonicity of utilities
 
@@ -2022,7 +2022,7 @@ We have established the sufficiency of complete markets for Pareto optimality.
 
 The necessity of complete markets for the Pareto optimality of equilibrium allocations does not always follow.
 
-## For example
+# For example
 
 if the initial endowment allocation happens by chance to be Pareto optimal
 
@@ -2030,37 +2030,37 @@ then any equilibrium allocation is also Pareto optimal
 
 regardless of the span of securities.
 
-## It would be unusual
+# It would be unusual
 
-## however
+however
 
 for the initial endowment to be Pareto optimal.
 
-### Although beyond the scope of this book
+# Although beyond the scope of this book
 
 it can be shown that with incomplete markets and under natural assumptions on utility
 
-## for almost every endowment
+for almost every endowment
 
 the equilibrium allocation is not Pareto optimal.
 
 **E.
 
-### Optimality and Representative Agents**
+Optimality and Representative Agents**
 
 Aside from its allocational implications
 
 Pareto optimality is also a convenient property for the purpose of security pricing.
 
-## In order to see this
+# In order to see this
 
-## consider
+consider
 
 for each vector of "agent weights," the utility function defined by
 
 **9** E.
 
-### Optimality and Representative Agents
+# Optimality and Representative Agents
 
 **Lemma.
 
@@ -2096,69 +2096,69 @@ Suppose that markets are complete and that is an equilibrium.
 
 Then there exists some nonzero such that is a (no-trade) equilibrium for the single-agent economy defined by (6).
 
-## Moreover
+# Moreover
 
 the equilibrium consumption allocation solves the allocation problem (6) at the aggregate endowment.
 
 That is, .
 
-## **Proof
+**Proof
 
-### ** Since there is an equilibrium
+** Since there is an equilibrium
 
-## there is no arbitrage
+there is no arbitrage
 
 and therefore there is a state-price vector .
 
-## Since markets are complete
+# Since markets are complete
 
 this implies that the problem of any agent can be reduced to
 
-### We can assume that ε is not zero
+We can assume that ε is not zero
 
-### for otherwise c = 0 and agent i can
+for otherwise c = 0 and agent i can
 
 be eliminated from the problem without loss of generality.
 
-## By the Saddle
+# By the Saddle
 
-## Point Theorem of Appendix B
+# Point Theorem of Appendix B
 
 there is a Lagrange multiplier α_i > 0 such
 
-## that c_i solves the problem
+that c_i solves the problem
 
-### sup ∇U_i(c_i - α_i(p - c_i - p·e_i))
+sup ∇U_i(c_i - α_i(p - c_i - p·e_i))
 
-## c_i ∈ R^S
+c_i ∈ R^S
 
 (The Slater condition is satisfied since ε is not zero and > 0.
 
-## ) Since
+) Since
 
 U_i is strictly increasing, α_i > 0.
 
 Let A_i = 1/α_i.
 
-## For any feasible allocation
+# For any feasible allocation
 
 (x^1, .
 
 , x^m), we have
 
-## m m
+m m
 
 ∑ A_i U_i(c_i) = ∑ [A_i U_i(c_i) - A_i α_i(p·c_i - p·e_i)]
 
-## i=1 i=1
+i=1 i=1
 
-## > ∑ A_i U_i(c_i)
+> ∑ A_i U_i(c_i)
 
-## i=1
+i=1
 
 > ∑ A_i U_i(x^i).
 
-## i=1
+i=1
 
 This shows that (c^1, .
 
@@ -2172,9 +2172,9 @@ If not, there is some x in R^S such that
 
 U_i(x) > U_i(e) and x - x < e - e.
 
-## By the definition of U_i
+By the definition of U_i
 
-## this would imply
+this would imply
 
 the existence of an allocation (x^1, .
 
@@ -2186,17 +2186,17 @@ Var Σ x^i = b - x^s .
 
 = Σ A_i α_i .
 
-### Putting these two inequalities together
+# Putting these two inequalities together
 
-## we have
+we have
 
 ∑ [A_i U_i(x^i) - A_i α_i(p·(x^i - e^i))] > ∑ [A_i U_i(c^i) - A_i α_i(p·(c^i - e^i))]
 
-## i=1 i=1
+i=1 i=1
 
-### which contradicts the fact that
+which contradicts the fact that
 
-## for each agent i
+for each agent i
 
 (c^i, α_i) is a saddle point
 
@@ -2208,19 +2208,19 @@ If, moreover
 
 e >> 0 and D is continuously differentiable at e
 
-## then
+then
 
 A can be chosen so that ∇U_i(e) is a state-price vector
 
-## meaning
+meaning
 
 λ = ∇U_i(e).
 
 The differentiability of U_i at e is implied by the differentiability
 
-## for some
+for some
 
-## agent i
+agent i
 
 of U_i at c (See Exercise 10(C).
 
@@ -2228,7 +2228,7 @@ Corollary 2.
 
 Suppose there is a fixed vector p of state probabilities such that
 
-## for all
+for all
 
 i, U_i(c) = E[u_i(c)] = Σ_j p_j u_i(c_j)
 
@@ -2242,7 +2242,7 @@ u(y) = max Σ A_i u_i(x^i) subject to x^1 + .
 
 + x^m = y.
 
-## In this case
+# In this case
 
 (7) is equivalent to λ = E[∇u_i(e)].
 
@@ -2250,11 +2250,11 @@ Extensions of this representative-agent asset pricing formula will crop up
 
 frequently in later chapters.
 
-## State-Price Beta Models
+# State-Price Beta Models
 
 We fix a vector p > 0 in R^S of probabilities for this section
 
-## and for any
+and for any
 
 x in R^S we write E(x) = Σ_j p_j x_j.
 
@@ -2264,7 +2264,7 @@ x ⊗ τ to be the vector (x_1 τ_1, .
 
 , x_S τ_S).
 
-### The following version of the Riesz
+# The following version of the Riesz
 
 Representation Theorem can be shown as an exercise.
 
@@ -2272,7 +2272,7 @@ Lemma.
 
 Suppose F : R^S → R is linear.
 
-### Then there is a unique τ in R^S such
+Then there is a unique τ in R^S such
 
 that, for all x in R^S
 
@@ -2284,7 +2284,7 @@ and only if τ > 0.
 
 Corollary.
 
-## A dividend-price pair (D
+A dividend-price pair (D
 
 q) admits no arbitrage if and only if there is
 
@@ -2296,11 +2296,11 @@ let τ = γ / p.
 
 Conversely, if τ has the
 
-## assumed property
+assumed property
 
 then γ = p ⊗ τ defines a state-price vector γ.
 
-## Given (D
+Given (D
 
 q), we refer to any vector τ given by this result as a state-price
 
@@ -2316,11 +2316,11 @@ agent pricing model of Corollary 2 of Section E shows that we can take
 
 τ = ∇u_i(e_i).
 
-## For any x and y in R^S
+For any x and y in R^S
 
-## the covariance cov(x
+the covariance cov(x
 
-## y) = E(xy) − E(x)E(y) is
+y) = E(xy) − E(x)E(y) is
 
 a measure of covariation between x and y that is useful in asset pricing
 
@@ -2328,23 +2328,23 @@ applications.
 
 For any such x and y with var(y) = cov(y
 
-## y) ≠ 0
+y) ≠ 0
 
-## we can
+we can
 
 always represent x in the form x = a + B y + ε
 
-## where B = cov(y
+where B = cov(y
 
-## x)/var(y)
+x)/var(y)
 
-## where cov(y
+where cov(y
 
-## ε) = E(ε) = 0
+ε) = E(ε) = 0
 
 and where a is a scalar.
 
-## This linear regression
+# This linear regression
 
 of x on y is uniquely defined.
 
@@ -2358,35 +2358,35 @@ For any portfolio θ with q·θ ≠ 0,
 
 the return on θ is the vector R^θ in R^S defined by R^θ = (D^T θ) / (q·θ).
 
-## Fixing
+# Fixing
 
-## a state-price deflator τ
+a state-price deflator τ
 
-## for any such portfolio θ
+for any such portfolio θ
 
 we have E(τ R^θ) = 1.
 
-### Suppose there is a riskless portfolio
+# Suppose there is a riskless portfolio
 
-### meaning some portfolio θ with constant
+meaning some portfolio θ with constant
 
 return R^θ.
 
 We then call R^θ the riskless return.
 
-## A bit of algebra shows that
+# A bit of algebra shows that
 
-### for any portfolio θ with a return
+for any portfolio θ with a return
 
-## we have
+we have
 
 cov(R^θ, τ)
 
-## E(R^θ) − R^θ = − E(τ)
+E(R^θ) − R^θ = − E(τ)
 
 Thus, covariation with τ has a negative effect on expected return
 
-## as one
+as one
 
 might expect from the interpretation of state prices as shadow prices for
 
@@ -2404,85 +2404,85 @@ There is always a portfolio θ* solving the problem
 
 sup corr(D^T θ ⊗ τ).
 
-## θ
+θ
 
 If there is such a portfolio θ* with a return R* having nonzero variance
 
 then it can be shown as an exercise that
 
-## for any return R^θ ≠ 0
+for any return R^θ ≠ 0
 
 E(R^θ) − R^θ = B_θ[E(R*) − R^θ], (9)
 
-## where
+where
 
 cov(R*, R^θ)
 
-## B_θ = ————
+B_θ = ————
 
-## var(R*)
+var(R*)
 
-## If markets are complete
+# If markets are complete
 
 then R* is of course perfectly correlated with the
 
 state-price deflator.
 
-### Formula (9) is a state-price beta model
+Formula (9) is a state-price beta model
 
-## showing excess expected
+showing excess expected
 
 returns on portfolios to be proportional to the excess return on a port-
 
 folio having maximal correlation with a state-price deflator
 
-## where the
+where the
 
 constant of proportionality is the associated regression coefficient.
 
 formula can be extended to the case in which there is no riskless return.
 
-### Another exercise carries this idea
+# Another exercise carries this idea
 
-## under additional assumptions
+under additional assumptions
 
-## to the
+to the
 
 Capital Asset Pricing Model, or CAPM.
 
-## Exercises
+# Exercises
 
-## 1 The dividend-price pair (D
+1 The dividend-price pair (D
 
 q) of Section A is defined to be weakly arbitrage-free
 
 if q·θ > 0 whenever D^T θ > 0.
 
-## Show that (D
+Show that (D
 
-### q) is weakly arbitrage-free if and only
+q) is weakly arbitrage-free if and only
 
 if there exist (“weak” state prices) γ ∈ R^S such that q = D^T γ.
 
-## This fact is known as
+# This fact is known as
 
 Farkas’s Lemma.
 
-### 2 Prove the assertion in Section A that (D
+2 Prove the assertion in Section A that (D
 
-### q) is arbitrage-free if and only if
+q) is arbitrage-free if and only if
 
-## there exists some τ ∈ R^S
+there exists some τ ∈ R^S
 
 such that q = D^T τ.
 
-### Instead of following the proof
+# Instead of following the proof
 
-## given in Section A
+given in Section A
 
-## use the following result
+use the following result
 
-### sometimes known as the Theorem of the
+sometimes known as the Theorem of the
 
 Alternative.
 
@@ -2490,37 +2490,37 @@ Stiemke’s Lemma.
 
 Suppose A is an m × n matrix.
 
-### Then one and only one of the following
+# Then one and only one of the following
 
 (a) There exists x in R^n, with Ax = 0.
 
 (b) There exists y in R^m with y^T A > 0.
 
-## Exercises 13
+# Exercises 13
 
-## 3 Show
+3 Show
 
-### for U(c) = E[u(c)] as defined by (3)
+for U(c) = E[u(c)] as defined by (3)
 
 that (2) is equivalent to (4).
 
 4 Prove the existence of an equilibrium as defined in Section D under these
 
-## assumptions
+assumptions
 
 There exists some portfolio θ with payoff D^T θ > 0 and
 
-## for all i
+for all i
 
-## e^i > 0 and U_i is continuous
+e^i > 0 and U_i is continuous
 
-## strictly concave
+strictly concave
 
 and strictly increasing.
 
-## This is a
+# This is a
 
-## demanding exercise
+demanding exercise
 
 and calls for the following general result.
 
@@ -2528,29 +2528,29 @@ Kakutani’s Fixed Point Theorem.
 
 Suppose Z is a nonempty convex compact subset of R^n
 
-## and for each x in Z
+and for each x in Z
 
 P(x) is a nonempty convex compact subset of Z.
 
-## Suppose also that
+# Suppose also that
 
 {(x, y) ∈ Z × Z: x ∈ p(y)} is closed.
 
 Then there exists x* in Z such that x* ∈ p(x*).
 
-## 5 Prove Proposition D.
+5 Prove Proposition D.
 
 Hint: The maintained assumption of strict monotonicity
 
 of U_i(·) should be used.
 
-### 6 Suppose that the endowment allocation (e^1
+6 Suppose that the endowment allocation (e^1
 
 , e^m) is Pareto optimal.
 
-## (A) Show
+(A) Show
 
-## as claimed in Section D
+as claimed in Section D
 
 that any equilibrium allocation is Pareto opti-
 
@@ -2558,9 +2558,9 @@ mal.
 
 (B) Suppose that there is some portfolio θ with D^T θ > 0 and
 
-## for all i
+for all i
 
-## that D is
+that D is
 
 concave and e^i >> 0.
 
@@ -2568,43 +2568,43 @@ Show that (e^1, .
 
 , e^m) is itself an equilibrium allocation.
 
-## 7 Prove Proposition C.
+7 Prove Proposition C.
 
 Hint: A continuous real-valued function on a compact
 
 set has a maximum.
 
-### 1.8 Prove Corollary 1 of Proposition E.
+# 1.8 Prove Corollary 1 of Proposition E.
 
-### 1.9 Prove Corollary 2 of Proposition E.
+# 1.9 Prove Corollary 2 of Proposition E.
 
-## 10 Suppose
+10 Suppose
 
 in addition to the assumptions of Proposition E
 
-## that
+that
 
 (a) e = e^1 + .
 
 + e^m is in R^S;
 
-## (b) for all i
+(b) for all i
 
 U_i is concave and twice continuously differentiable in R^S
 
-## (c) for all i
+(c) for all i
 
 c^i is in R^S and the Hessian matrix ∇²U_i(c^i)
 
-## which is negative
+which is negative
 
-## semi-definite by concavity
+semi-definite by concavity
 
 is in fact negative definite.
 
 Property (c) can be replaced with the assumption of regular preferences
 
-## as defined
+as defined
 
 in a source cited in the Notes.
 
@@ -2616,7 +2616,7 @@ that for each i there is a scalar γ_i > 0 such that ∇U_i(e) = γ_i ∇U_i(c^i
 
 (This co-linearity is known as “equal marginal rates of substitution
 
-## ” a property of
+” a property of
 
 any Pareto optimal allocation.
 
@@ -2624,39 +2624,39 @@ any Pareto optimal allocation.
 
 Implicit Function Theorem.
 
-### Suppose for given m and n that f
+# Suppose for given m and n that f
 
 R^m × R^n → R^k is C^1(k times continuously differentiable) for some k > 1.
 
-### Suppose also that the n x n matrix
+# Suppose also that the n x n matrix
 
 ∂f(x, y) of partial derivatives of f with respect to its second argument is nonsingular at
 
 some (x, y).
 
-## If f(x
+If f(x
 
-## y) = 0
+y) = 0
 
 then there exist scalars ε > 0 and δ > 0 and a Cᵏ function
 
 Z: Rⁿ → Rⁿ such that if ||x − x₀|| < ε
 
-## then f[x
+then f[x
 
 Z(x)] = 0 and ||Z(x) − y₀|| < δ.
 
-## --- Page 17 ---
+--- Page 17 ---
 
-### 14 1. Introduction to State Pricing
+14 1. Introduction to State Pricing
 
 (B) Show that the negative-definite part of condition (c) is satisfied if β >> 0 and
 
-## for all i
+for all i
 
 Uᵢ is an expected utility function of the form Uᵢ(c) = E[uᵢ(c)]
 
-## where uᵢ
+where uᵢ
 
 is strictly concave with an unbounded derivative on (0
 
@@ -2668,77 +2668,77 @@ tives of the utilities.
 
 Implicit Function Theorem.
 
-### ) As the first (and main) step
+) As the first (and main) step
 
 show the following.
 
-## Given a concave function f
+# Given a concave function f
 
-## Rⁿ → R
+Rⁿ → R
 
 the superdifferential of f at some x in Rⁿ is
 
-## ∂f(x) = {z ∈ Rⁿ
+∂f(x) = {z ∈ Rⁿ
 
-## f(y) ≤ f(x) + z·(y − x)
+f(y) ≤ f(x) + z·(y − x)
 
 ∀ y ∈ Rⁿ}.
 
-### For any feasible allocation (c¹
+For any feasible allocation (c¹
 
 …, cᵐ) and λ ∈ Rₘ satisfying Uᵢ(c) = 0
 
-## λᵢUᵢ(cⁱ)
+λᵢUᵢ(cⁱ)
 
-## 11 (Binomial Option Pricing).
+11 (Binomial Option Pricing).
 
 As an application of the results in Section A
 
 consider the following two-state (S = 2) option-pricing problem.
 
-## There are N = 3
+There are N = 3
 
 securities:
 
-## (a) a stock
+(a) a stock
 
 with initial price qₛ > 0 and dividend Dₛ₁ = Gqₛ in state 1 and
 
-## dividend Dₛ₂ = Bqₛ in state 2
+dividend Dₛ₂ = Bqₛ in state 2
 
 where G > B > 0 are the “good” and “bad”
 
 gross returns, respectively;
 
-## (b) a riskless bond
+(b) a riskless bond
 
 with initial price q_b > 0 and dividend D_{b1} = D_{b2} = Rq_b
 
-## in both states (that is
+in both states (that is
 
 R is the riskless return and R⁻¹ is the discount)
 
-### (c) a call option on the stock
+(c) a call option on the stock
 
 with initial price q_c = C and dividend D_{cj} =
 
-### (D_{sj} − K)⁺ = max(D_{sj} − K
+(D_{sj} − K)⁺ = max(D_{sj} − K
 
-### 0) for both states j = 1 and j = 2
+0) for both states j = 1 and j = 2
 
-## where
+where
 
 K > 0 is the exercise price of the option.
 
-### (The call option gives its holder
+(The call option gives its holder
 
-## the right
+the right
 
-## but not the obligation
+but not the obligation
 
-## to pay K for the stock
+to pay K for the stock
 
-## with dividend
+with dividend
 
 after the state is revealed.
 
@@ -2750,9 +2750,9 @@ arbitrage involving only the stock and bond.
 
 (B) Assuming no arbitrage for the three securities
 
-### calculate the call-option price
+calculate the call-option price
 
-## C explicitly in terms of qₛ
+C explicitly in terms of qₛ
 
 G, R, B
 
@@ -2764,41 +2764,41 @@ Find the state-price probabilities π₁ and
 
 B, and R
 
-## and show that C = R⁻¹E[D_c]
+and show that C = R⁻¹E[D_c]
 
 where E denotes expectation with respect to (π₁
 
 π₂).
 
-## 12 (CAPM).
+12 (CAPM).
 
-## In the setting of Section D
+# In the setting of Section D
 
-## suppose (c¹
+suppose (c¹
 
 …, cᵐ) is a strictly posi-
 
 tive equilibrium consumption allocation.
 
-## For any agent i
+# For any agent i
 
-## suppose utility is of the
+suppose utility is of the
 
 expected-utility form Uᵢ(c) = E[uᵢ(c)].
 
 For any agent i, suppose there are fixed
 
-### positive constants α and βᵢ such that
+positive constants α and βᵢ such that
 
-## for any state j
+for any state j
 
-### we have x̄ − α ≤ x and uᵢ(x) =
+we have x̄ − α ≤ x and uᵢ(x) =
 
 x − βᵢx² for all x ≤ x̄.
 
 (A) In the context of Corollary 2 of Section E
 
-### show that uᵢ(e) = k − Ke for some
+show that uᵢ(e) = k − Ke for some
 
 positive constants k and K.
 
@@ -2806,13 +2806,13 @@ From this, derive the CAPM
 
 q = A E[D] − B cov(D, e), (10)
 
-## Exercises 15
+# Exercises 15
 
-### for positive constants A and B
+for positive constants A and B
 
-## where cov(D
+where cov(D
 
-### e) ∈ Rⁿ is the vector of covariances
+e) ∈ Rⁿ is the vector of covariances
 
 between the security dividends and the aggregate endowment.
 
@@ -2828,17 +2828,17 @@ Suppose for a given portfolio θ that each of the following is well defined
 
 The return R_M is sometimes called the market return.
 
-## The return R₀ is called the
+The return R₀ is called the
 
 zero-beta return and is the return on a riskless bond if one exists.
 
-## Prove the “beta”
+Prove the “beta”
 
-## form of the CAPM
+form of the CAPM
 
 E(R_θ − R₀) = β E(R_M − R₀).
 
-## (11)
+(11)
 
 (B) Part (A) relies on the completeness of markets.
 
@@ -2848,9 +2848,9 @@ but assuming that the equilibrium allocation (c¹
 
 …, cᵐ) is strictly positive
 
-## show
+show
 
-### that the same beta form (11) applies
+that the same beta form (11) applies
 
 provided we extend the definition of the
 
@@ -2858,15 +2858,15 @@ market return R_M to be the return on any portfolio solving
 
 sup corr(R_θ, e).
 
-## (12)
+(12)
 
-## θ∈ℝⁿ
+θ∈ℝⁿ
 
-## For complete markets
+# For complete markets
 
-## corr(R_M
+corr(R_M
 
-## e) = 1
+e) = 1
 
 so the result of part (A) is a special case.
 
@@ -2874,17 +2874,17 @@ so the result of part (A) is a special case.
 
 assumption provided that each agent i is strictly variance-averse
 
-## in that Uᵢ(x) > Uᵢ(y)
+in that Uᵢ(x) > Uᵢ(y)
 
 whenever E(x) = E(y) and var(x) < var(y).
 
-### Formalize this statement by providing
+# Formalize this statement by providing
 
 a reasonable set of supporting technical conditions.
 
 We remark that a common alternative formulation of the CAPM allows security
 
-### portfolios in initial endowments ωⁱ₁
+portfolios in initial endowments ωⁱ₁
 
 …, ωⁱₙ with ∑ⱼ ωⁱⱼ = 1 for all j.
 
@@ -2894,21 +2894,21 @@ with the total endowment e redefined by e = ∑ᵢ (D'ωⁱ + eⁱ), the same CA
 
 applies.
 
-## If eⁱ = 0 for all i
+If eⁱ = 0 for all i
 
-### then even in incomplete markets
+then even in incomplete markets
 
-## corr(R_M
+corr(R_M
 
-## e) = 1
+e) = 1
 
-## since
+since
 
 (12) is solved by θ = (1, 1, …, 1).
 
 The Notes provide references.
 
-### 13 An Arrow-Debreu equilibrium for [(Uⁱ
+13 An Arrow-Debreu equilibrium for [(Uⁱ
 
 eⁱ), D] is a nonzero vector p in Rⁿ
 
@@ -2916,67 +2916,67 @@ and a feasible consumption allocation (c¹
 
 …, cᵐ) such that for each i
 
-## cⁱ solves
+cⁱ solves
 
 sup_c Uⁱ(c) subject to p · c ≤ p · eⁱ.
 
-### Suppose that markets are complete
+# Suppose that markets are complete
 
-## in that
+in that
 
 span(D) = Rⁿ.
 
-## Show that (c¹
+Show that (c¹
 
 …, cᵐ) is an Arrow-Debreu consumption allocation
 
 if and only if it is an equilibrium consumption allocation in the sense of Section D.
 
-### 14 Suppose (D, q) admits no arbitrage.
+14 Suppose (D, q) admits no arbitrage.
 
-### Show that there is a unique state-price
+# Show that there is a unique state-price
 
 vector if and only if markets are complete.
 
-## 15 (Aggregation).
+15 (Aggregation).
 
 For the “representative-agent” problem (6)
 
-## suppose for all
+suppose for all
 
-## i that Uᵢ(c) = E[u(c)]
+i that Uᵢ(c) = E[u(c)]
 
 where u(c) = cᵞ/γ for some nonzero scalar γ < 1.
 
-## (A) Show
+(A) Show
 
 for any nonzero agent weight vector λ ∈ Rₘ
 
-## that U(c) = E[kcᵞ/γ] for
+that U(c) = E[kcᵞ/γ] for
 
 some scalar k > 0 and that (6) is solved by cⁱ = h x for some scalar h > 0 that is
 
 nonzero if and only if λᵢ is nonzero.
 
-## --- Page 18 ---
+--- Page 18 ---
 
-### 16 1. Introduction to State Pricing
+16 1. Introduction to State Pricing
 
 (B) With this special utility assumption
 
 show that there exists an equilibrium with
 
-## a Pareto efficient allocation
+a Pareto efficient allocation
 
 without the assumption that markets are complete
 
 but with the assumption that eⁱ ∈ span(D) for all i.
 
-### Calculate the associated equi-
+# Calculate the associated equi-
 
 librium allocation.
 
-## 16 (State-Price Beta Model).
+16 (State-Price Beta Model).
 
 This exercise is to prove and extend the state-price
 
@@ -2996,15 +2996,15 @@ prove (9).
 
 R₀ to be the expected return on any portfolio θ such that R_θ is well defined and
 
-## cov(R_θ
+cov(R_θ
 
-## e) = 0
+e) = 0
 
 assuming such a portfolio exists.
 
 17 Prove the Riesz representation lemma of Section F.
 
-## The following hint is
+# The following hint is
 
 perhaps unnecessary in this simple setting but allows the result to be extended to
 
@@ -3012,75 +3012,75 @@ a broad variety of spaces called Hilbert spaces.
 
 Given a vector space L, a function
 
-## (· | ·)
+(· | ·)
 
 L × L → ℝ is called an inner product for L if
 
-## for any x
+for any x
 
 y, and z in L and
 
-## any scalar α
+any scalar α
 
-## we have the five properties
+we have the five properties
 
-## (a) (x | y) = (y | x)
+(a) (x | y) = (y | x)
 
-### (b) (x + y | z) = (x | z) + (y | z)
+(b) (x + y | z) = (x | z) + (y | z)
 
-## (c) (αx | y) = α(x | y)
+(c) (αx | y) = α(x | y)
 
-## (d) (x | x) > 0
+(d) (x | x) > 0
 
 (e) (x | x) = 0 if and only if x = 0.
 
 Suppose a finite-dimensional vector space L has an inner product (· | ·).
 
-## (This
+(This
 
 defines a special case of a Hilbert space.
 
-### ) Two vectors x and y are defined to be
+) Two vectors x and y are defined to be
 
 orthogonal if (x | y) = 0.
 
 For any linear subspace H of L and any x in L
 
-## it can be
+it can be
 
 shown that there is a unique y in H such that (x − y | z) = 0 for all z in H.
 
-## This
+# This
 
 vector y is the orthogonal projection in L of x onto H
 
-## and solves the problem
+and solves the problem
 
 min_{y∈H} ||x − y||.
 
 Let L = ℝⁿ.
 
-## For any x and y in L
+# For any x and y in L
 
 let (x | y) = E[xy].
 
-## We must show
+# We must show
 
-### that given a linear functional F
+that given a linear functional F
 
 there is a unique τ with F(x) = (τ | x) for all x.
 
 Let J = {x : F(x) = 0}.
 
-## If J = L
+If J = L
 
-## then F is the zero functional
+then F is the zero functional
 
-## and the unique
+and the unique
 
 representation is τ = 0.
 
-## If not
+# If not
 
 there is some z such that F(z) = 1 and (z | x) = 0
 
@@ -3088,37 +3088,37 @@ for all x in J.
 
 Show this using the idea of orthogonal projection.
 
-## Then show that
+# Then show that
 
-## τ = 2z/(z | z) represents F
+τ = 2z/(z | z) represents F
 
-## using the fact that for any x
+using the fact that for any x
 
 we have x − F(x)z ∈ J.
 
-### 18 Suppose there are m = 2 consumers
+18 Suppose there are m = 2 consumers
 
-## A and B
+# A and B
 
-## with identical utilities for
+with identical utilities for
 
 (A) Suppose that markets are complete and that
 
-## in a given equilibrium
+in a given equilibrium
 
-## consumer
+consumer
 
 A’s consumption is 9 units in state 1 and 10 units in state 2.
 
-## What is the total
+# What is the total
 
 endowment in state 2?
 
-## Notes 17
+# Notes 17
 
 (B) Continuing under the assumptions of part (A)
 
-## suppose there are two securi-
+suppose there are two securi-
 
 ties.
 
@@ -3128,31 +3128,31 @@ second is a risky asset paying 5 units of consumption in state 1 and 10 units in
 
 state 2.
 
-## In equilibrium
+# In equilibrium
 
 what is the ratio of the price of the bond to that of the
 
 risky asset?
 
-### 19 There are two states of the world
+19 There are two states of the world
 
-## labeled 1 and 2
+labeled 1 and 2
 
-## two agents
+two agents
 
-## and two secu-
+and two secu-
 
-## rities
+rities
 
 both paying units of the consumption numeraire good.
 
-## The risky security
+# The risky security
 
 pays a total of 1 unit in state 1 and pays 3 units in state 2.
 
-## The riskless security pays
+# The riskless security pays
 
-## 1 unit in each state.
+1 unit in each state.
 
 Each agent is initially endowed with half of the total supply of
 
@@ -3160,15 +3160,15 @@ the risky security.
 
 There are no other endowments.
 
-### (The riskless security is in zero
+(The riskless security is in zero
 
 net supply.
 
 ) The two agents assign equal probabilities to the two states.
 
-## One of the
+# One of the
 
-## agents is risk-neutral
+agents is risk-neutral
 
 with utility function E(c) for state-contingent consumption
 
@@ -3178,31 +3178,31 @@ The other, risk-averse,
 
 agent has utility E(√c) for nonnegative state-contingent consumption.
 
-## Solve for
+# Solve for
 
 the equilibrium allocation of the two securities in a competitive equilibrium.
 
-### 20 Consider a setting with two assets A and B
+20 Consider a setting with two assets A and B
 
 only, both paying off the same
 
-## random variable X
+random variable X
 
 whose value is nonnegative in every state and nonzero with
 
 strictly positive probability.
 
-## Asset A has price p
+# Asset A has price p
 
 while asset B has price q.
 
-### arbitrage is then a portfolio (α
+arbitrage is then a portfolio (α
 
 β) ∈ ℝ² of the two assets whose total payoff αX +
 
 βX is nonnegative and whose initial price αp + βq is strictly negative
 
-## or whose
+or whose
 
 total payoff is nonzero with strictly positive probability and always nonnegative
 
@@ -3210,45 +3210,45 @@ and whose initial price is negative or zero.
 
 (A) Assuming no restrictions on portfolios
 
-### and no transactions costs or frictions
+and no transactions costs or frictions
 
 state the set of arbitrage-free prices (p
 
-### (State precisely the appropriate subset
+(State precisely the appropriate subset
 
 of ℝ².
 
 (B) Assuming no short sales (α ≥ 0 and β ≥ 0)
 
-### state the set of arbitrage-free
+state the set of arbitrage-free
 
 prices (p, q).
 
 (C) Now suppose that A and B can be short sold
 
-## but that asset A can be short
+but that asset A can be short
 
 sold only by paying an extra fee of γ > 0 per unit sold short.
 
-## There are no other
+# There are no other
 
 fees of any kind.
 
 Provide the obvious new definition of “no arbitrage” in precise
 
-## mathematical terms
+mathematical terms
 
 and state the set of arbitrage-free prices.
 
-## Notes
+# Notes
 
 The basic approach of this chapter follows Arrow (1953)
 
-## taking a general equilib-
+taking a general equilib-
 
 rium perspective originating with Walras (1877).
 
-### Black (1995) offers a perspective
+Black (1995) offers a perspective
 
 on the general equilibrium approach and a critique of other approaches.
 
@@ -3258,15 +3258,15 @@ with Ross (1978).
 
 (B) The idea of “risk-neutral probabilities” apparently originates with Arrow
 
-## (1970)
+(1970)
 
-## a revision of Arrow (1953)
+a revision of Arrow (1953)
 
 and appears as well in Dréze (1971).
 
-## --- Page 19 ---
+--- Page 19 ---
 
-### 18 1. Introduction to State Pricing
+18 1. Introduction to State Pricing
 
 (C) This material is standard.
 
@@ -3292,13 +3292,13 @@ Mas-Colell (1987) and Werner (1991) also treat constrained optimality.
 
 (E) The “representative-agent” approach goes back
 
-## at least
+at least
 
 to Negishi (1960).
 
 The existence of a representative agent is no more than an illustrative simpli-
 
-## fication in this setting
+fication in this setting
 
 and should not be confused with the more demanding
 
@@ -3316,29 +3316,29 @@ important for technical reasons.
 
 (F) The “beta model” for pricing goes back
 
-### in the case of mean-variance pre-
+in the case of mean-variance pre-
 
-## ferences
+ferences
 
-### to the capital asset pricing model
+to the capital asset pricing model
 
-## or CAPM
+or CAPM
 
-## of Sharpe (1964) and
+of Sharpe (1964) and
 
 Lintner (1965).
 
 The version without a riskless asset is due to Black (1972).
 
-## Alling-
+# Alling-
 
-## ham (1991)
+ham (1991)
 
-## Berk (1992)
+Berk (1992)
 
-## Nielsen (1990a)
+Nielsen (1990a)
 
-### and Nielsen (1990b) address the exis-
+and Nielsen (1990b) address the exis-
 
 tence of equilibrium in the CAPM.
 
@@ -3348,7 +3348,7 @@ and two-fund separation is provided by Bottazzi
 
 Hens, and Löffler (1994)
 
-## Nielsen
+# Nielsen
 
 (1993b), and Nielsen (1993a).
 
@@ -3356,29 +3356,29 @@ Löffler (1996) provides sufficient conditions for
 
 variance aversion in terms of mean-variance preferences.
 
-## Additional Topics
+# Additional Topics
 
 Ross (1976) introduced the arbitrage pricing theory
 
-## a multifac-
+a multifac-
 
-### tor model of asset returns that
+tor model of asset returns that
 
-## in terms of expected returns
+in terms of expected returns
 
-## can be thought of
+can be thought of
 
 as an extension of the CAPM.
 
-## In this regard
+# In this regard
 
-## see also Bray (1994a)
+see also Bray (1994a)
 
-## Bray (1994b)
+Bray (1994b)
 
 and Gilles and LeRoy (1991).
 
-### Balasko and Cass (1986) and Balasko
+Balasko and Cass (1986) and Balasko
 
 Cass, and
 
@@ -3396,7 +3396,7 @@ at the equilibrium allocation.
 
 For more on regular preferences and the differen-
 
-### tial approach to general equilibrium
+tial approach to general equilibrium
 
 see Mas-Colell (1985) and Balasko (1989).
 
@@ -3404,33 +3404,33 @@ Kreps (1988) reviews the theory of choice and utility representations of prefer-
 
 ences.
 
-### For Farkas’s and Stiemke’s Lemmas
+For Farkas’s and Stiemke’s Lemmas
 
-### and other forms of the Theorem of
+and other forms of the Theorem of
 
 the Alternative, see Gale (1960).
 
-## Arrow and Debreu (1954) and
+Arrow and Debreu (1954) and
 
-## in a slightly different model
+in a slightly different model
 
-## McKenzie
+# McKenzie
 
 (1954) are responsible for a proof of the existence of complete-markets equilibria.
 
 Debreu (1982) surveys the existence problem.
 
-### Standard introductory treatments
+# Standard introductory treatments
 
 of general equilibrium theory are given by Debreu (1959) and Hildenbrand
 
 and Kirman (1989).
 
-## In this setting
+# In this setting
 
-## with incomplete markets
+with incomplete markets
 
-## Polemarchakis and
+# Polemarchakis and
 
 Siconolfi (1993) address the failure of existence unless one has a portfolio θ with
 
@@ -3438,15 +3438,15 @@ payoff Dθ > 0.
 
 Geanakoplos (1990) surveys other literature on the existence
 
-### of equilibria in incomplete markets
+of equilibria in incomplete markets
 
-### some of which takes the alternative of
+some of which takes the alternative of
 
 defining security payoffs in nominal units of account
 
-## while allowing consumption
+while allowing consumption
 
-## Notes 19
+# Notes 19
 
 of multiple commodities.
 
@@ -3460,47 +3460,47 @@ and Shafer (1991).
 
 Additional results on incomplete-markets equilibrium include
 
-### those of Araujo and Monteiro (1989)
+those of Araujo and Monteiro (1989)
 
-## Berk (1997)
+Berk (1997)
 
-## Boyle and Wang (1999)
+Boyle and Wang (1999)
 
 Weil (1992).
 
 For related results in multiperiod settings
 
-### references are cited in the Notes
+references are cited in the Notes
 
 of Chapter 2.
 
 The superdifferentiability result of Exercise 10(C) is due to Skiadas (1995).
 
-## Hellwig (1996)
+Hellwig (1996)
 
-### Mas-Colell and Monteiro (1996)
+Mas-Colell and Monteiro (1996)
 
-## and Monteiro (1996) have
+and Monteiro (1996) have
 
 recently shown existence of equilibrium with a continuum of states.
 
-## Geanakoplos
+# Geanakoplos
 
 and Polemarchakis (1986) and Chae (1988) show existence in a model closely
 
 related to that studied in this chapter.
 
-### Grodal and Vind (1988) and Yamazaki
+Grodal and Vind (1988) and Yamazaki
 
 (1991) show existence with alternative formulations.
 
-## With multiple commodities
+# With multiple commodities
 
-## or multiple periods
+or multiple periods
 
 existence is not guaranteed under any natural conditions
 
-## shown by Hart (1975)
+shown by Hart (1975)
 
 who gives a counterexample.
 
@@ -3510,9 +3510,9 @@ the literature on generic existence is cited in the Notes of Chapter 2.
 
 The binomial option-pricing formula of Exercise 1.
 
-## 11 is from an early edi-
+11 is from an early edi-
 
-## tion of Sharpe (1985)
+tion of Sharpe (1985)
 
 and is extended in Chapter 2 to a multiperiod setting.
 
@@ -3522,21 +3522,21 @@ densed from the proof given by Luenberger (1969) of the Riesz-Frechet Theorem
 
 any Hilbert space H with inner product ⟨·|·⟩
 
-### any continuous linear functionalF
+any continuous linear functionalF
 
 H → R has a unique T in H such that F(x) = (7 |x)
 
 x ∈ H.
 
-## The Fixed Point
+# The Fixed Point
 
 Theorem of Exercise 1.
 
-## 4 is from Kakutani (1941).
+4 is from Kakutani (1941).
 
 On the role of default and collateralization
 
-## see Geanakoplos and Zame
+see Geanakoplos and Zame
 
 (1999) and Sabarwal (1999).
 
@@ -3550,17 +3550,17 @@ Lobo, Fazel,
 
 Boyd (1999) address portfolio choice with fixed transactions costs.
 
-## --- Page 20 ---
+--- Page 20 ---
 
-## The Basic Multiperiod Model
+# The Basic Multiperiod Model
 
 THIS CHAPTER EXTENDS the results of Chapter 1 on arbitrage
 
-## optimality
+optimality
 
 and equilibrium to a multiperiod setting.
 
-## A connection is drawn between
+# A connection is drawn between
 
 state prices and martingales for the purpose of representing security
 
@@ -3570,23 +3570,23 @@ The exercises include the consumption-based capital asset pricing
 
 model and the multiperiod “binomial” option pricing model.
 
-## Uncertainty
+# Uncertainty
 
-## As in Chapter 1
+# As in Chapter 1
 
-## there is some finite set
+there is some finite set
 
 say Ω, of states.
 
-## In order to
+# In order to
 
-## handle multiperiod issues
+handle multiperiod issues
 
-## however
+however
 
-### we will treat uncertainty a bit more
+we will treat uncertainty a bit more
 
-### formally as a probability space (Ω
+formally as a probability space (Ω
 
 F, P), with 3 denoting the tribe of subsets
 
@@ -3600,9 +3600,9 @@ Those not familiar with the definition of a probability space can
 
 consult Appendix A.
 
-### The terms “σ-algebra” and “σ-field
+The terms “σ-algebra” and “σ-field
 
-## ” among others
+” among others
 
 are often used in place of the word “tribe.
 
@@ -3616,7 +3616,7 @@ denotes the set of events corresponding to the information available at
 
 time t.
 
-## In effect
+# In effect
 
 an event B in F_t is known at time t to be true or false.
 
@@ -3624,23 +3624,23 @@ definition of tribes in terms of “partitions” of Ω is given in Exercise 2.
 
 We adopt the usual convention that F_t ⊂ F_s whenever t < s
 
-## meaning that
+meaning that
 
 events are never “forgotten.
 
-## ” For simplicity
+” For simplicity
 
-### we also take it that every event
+we also take it that every event
 
-## in F_0 has probability 0 or 1
+in F_0 has probability 0 or 1
 
 meaning roughly that there is no information
 
 at time t = 0.
 
-## Taken altogether
+# Taken altogether
 
-## the filtration F = {F_0
+the filtration F = {F_0
 
 , F_T} represents
 
@@ -3658,11 +3658,11 @@ expectation.
 
 , X_T} such that
 
-## --- Page 21 ---
+--- Page 21 ---
 
-### 22 2. The Basic Multiperiod Model
+22 2. The Basic Multiperiod Model
 
-## for each t
+for each t
 
 X_t is a random variable with respect to (Ω
 
@@ -3672,27 +3672,27 @@ Informally,
 
 this means that X_t is observable at time t.
 
-## An adapted process X is a
+# An adapted process X is a
 
-## martingale if
+martingale if
 
-## for any times t and s > t
+for any times t and s > t
 
 we have E_t(X_s) = X_t.
 
-## As we shall
+# As we shall
 
 see, martingales are useful in the characterization of security prices.
 
-## order to simplify things
+order to simplify things
 
-### for any two random variables Y and Z
+for any two random variables Y and Z
 
-## we always
+we always
 
 write “Y = Z” if the probability that Y ≠ Z is zero.
 
-## Security Markets
+# Security Markets
 
 A security is a claim to an adapted dividend process
 
@@ -3700,27 +3700,27 @@ say δ, with δ_t denoting
 
 the dividend paid by the security at time t.
 
-## Each security has an adapted
+# Each security has an adapted
 
-## security-price process S
+security-price process S
 
 so that S_t is the price of the security
 
-## ex dividend
+ex dividend
 
 time t.
 
-## That is
+# That is
 
 at each time t the security pays its dividend δ_t and is then
 
 available for trade at the price S_t.
 
-### This convention implies that δ_t plays
+This convention implies that δ_t plays
 
 no role in determining ex-dividend prices.
 
-### The cum-dividend security price
+# The cum-dividend security price
 
 at time t is S_t + δ_t.
 
@@ -3730,7 +3730,7 @@ idend process δ = (δ_1,.
 
 , δ_N).
 
-### These securities have some adapted
+# These securities have some adapted
 
 price process S = (S_1,.
 
@@ -3748,17 +3748,17 @@ ing at time t.
 
 The dividend process δ^θ generated by a trading strategy θ is
 
-## defined by
+defined by
 
 with “S_{-1}” taken to be zero by convention.
 
 Arbitrage, State Prices, and Martingales
 
-### Given a dividend-price pair (δ
+Given a dividend-price pair (δ
 
-## S) for N securities
+S) for N securities
 
-## a trading strategy θ is
+a trading strategy θ is
 
 an arbitrage if δ^θ > 0.
 
@@ -3766,7 +3766,7 @@ an arbitrage if δ^θ > 0.
 
 the same notion of arbitrage defined in Chapter 1.
 
-## ) Let Θ denote the
+) Let Θ denote the
 
 space of trading strategies.
 
@@ -3780,7 +3780,7 @@ Proposition.
 
 There is no arbitrage if and only if there is a strictly increasing linear
 
-## function F
+function F
 
 L → R such that F(δ^θ) = 0 for any trading strategy θ.
 
@@ -3792,39 +3792,39 @@ Let L, =
 
 There is no arbitrage if and only if the cone L_+ and
 
-## a
+a
 
-## Arbitrage
+# Arbitrage
 
-## State Prices
+# State Prices
 
-## and Martingales 23
+and Martingales 23
 
 the marketed subspace M intersect precisely at zero.
 
-## Suppose there is
+# Suppose there is
 
 no arbitrage.
 
-### The Separating Hyperplane Theorem
+# The Separating Hyperplane Theorem
 
-## in a form given in
+in a form given in
 
-## Appendix B for cones
+# Appendix B for cones
 
 implies the existence of a nonzero linear functional
 
 F such that F(x) < F(y) for each x in M and each nonzero y in L_+.
 
-## Since
+# Since
 
-## M is a linear subspace
+# M is a linear subspace
 
 this implies that F(x) = 0 for each x in M
 
 thus that F(y) > 0 for each nonzero y in L_+.
 
-### This implies that F is strictly
+# This implies that F is strictly
 
 increasing.
 
@@ -3840,7 +3840,7 @@ extending the single-period Riesz representation lemma of Section 1F.
 
 Lemma.
 
-## For each linear function F
+# For each linear function F
 
 L → R, there is a unique γ in L_+ called
 
@@ -3848,33 +3848,33 @@ the Riesz representation of F, such that
 
 F(x) = E(∑_{t=0}^T γ_t x_t), x ∈ L.
 
-## If F is strictly increasing
+# If F is strictly increasing
 
 then γ is strictly positive.
 
-## For convenience
+# For convenience
 
 we call any strictly positive adapted process a deflator.
 
 A deflator γ is a state-price deflator if
 
-## for all t
+for all t
 
 S_t = E_t(∑_{j=t+1}^T γ_j δ_j / γ_t) (2)
 
 A state-price deflator is variously known in the literature as a state-price
 
-## density
+density
 
-## a pricing kernel
+a pricing kernel
 
 and a marginal-rate-of- substitution process.
 
-## For t = T
+For t = T
 
-### the right-hand side of (2) is zero
+the right-hand side of (2) is zero
 
-## so S_T = 0 whenever
+so S_T = 0 whenever
 
 there is a state-price deflator.
 
@@ -3882,17 +3882,17 @@ The notion here of a state-price deflator is
 
 a natural extension of that of Chapter 1.
 
-### It can be shown as an exercise
+# It can be shown as an exercise
 
 that a deflator γ is a state-price deflator if and only if
 
-## for any trading
+for any trading
 
 strategy θ,
 
 meaning roughly that the market value of a trading strategy is
 
-## at any
+at any
 
 time, the state-price discounted expected future dividends generated by
 
@@ -3906,31 +3906,31 @@ If γ is a state-price deflator, we have
 
 V_t = γ_t^{-1} E_t(∑_{j=t}^T γ_j δ_j^θ).
 
-## --- Page 22 ---
+--- Page 22 ---
 
-### 24 2. The Basic Multiperiod Model
+24 2. The Basic Multiperiod Model
 
-## The gain process G for (δ
+The gain process G for (δ
 
 S) is defined by G_t = S_t + ∑_{j=1}^t δ_j
 
-## the price
+the price
 
 plus accumulated dividend.
 
-## Given a deflator γ
+Given a deflator γ
 
-## the deflated gain process G^γ
+the deflated gain process G^γ
 
 is defined by G_t^γ = γ_t S_t + ∑_{j=1}^t γ_j δ_j.
 
-### We can think of deflation as a change
+# We can think of deflation as a change
 
 of numeraire.
 
 Theorem.
 
-## The dividend-price pair (δ
+The dividend-price pair (δ
 
 S) admits no arbitrage if and only if there
 
@@ -3954,7 +3954,7 @@ Then S_T = 0, for otherwise the strategy
 
 t < T, θ_T = -S_T.
 
-## The previous
+# The previous
 
 proposition implies that there is some strictly increasing linear function
 
@@ -3964,47 +3964,47 @@ By the previous lemma,
 
 there is some deflator γ such that F(x) = E(∑_t γ_t x_t) for all x in L.
 
-## This
+# This
 
 implies that E(∑_t γ_t δ_t^θ) = 0 for any strategy θ.
 
-## We must prove (2)
+We must prove (2)
 
-## or equivalently
+or equivalently
 
 that G^γ is a martingale.
 
-## From
+# From
 
-## Appendix A
+# Appendix A
 
 an adapted process X is a martingale if and only if E_s(X_t) =
 
 X_s for any stopping time s < t.
 
-## Consider
+# Consider
 
-### for an arbitrary security n and
+for an arbitrary security n and
 
-### an arbitrary stopping time s < T
+an arbitrary stopping time s < T
 
 the trading strategy θ defined by θ_k^n = 0
 
-## we have
+we have
 
 t=1P.
 
-## For this
+# For this
 
 we define a new probability measure Q to be equivalent to
 
 P if Q and P assign zero probabilities to the same events.
 
-## An equivalent
+# An equivalent
 
 probability measure Q is an equivalent martingale measure if
 
-### where denotes expectation under
+where denotes expectation under
 
 and likewise for any random variable .
 
@@ -4012,9 +4012,9 @@ An equivalent martingale measure is often called a risk-neutral measure.
 
 It is easy to show that is an equivalent martingale measure if and only if
 
-## for any trading strategy
+for any trading strategy
 
-### If interest rates are deterministic
+# If interest rates are deterministic
 
 (10) is merely the total discounted expected dividends
 
@@ -4032,7 +4032,7 @@ The word “martingale” in the term “equivalent martingale measure” comes 
 
 We already know from Theorem C that the absence of arbitrage is equivalent to the existence of a state-price deflator .
 
-## As explained in Appendix A
+# As explained in Appendix A
 
 a probability measure equivalent to can be defined in terms of a Radon-Nikodym derivative
 
@@ -4044,9 +4044,9 @@ for any random variable .
 
 We will choose a particular equivalent probability measure by the Radon-Nikodym derivative
 
-## where
+where
 
-## (Indeed
+(Indeed
 
 one can check that is strictly positive and of expectation 1.
 
@@ -4056,9 +4056,9 @@ Relation (A.
 
 2) of Appendix A implies that for any times and
 
-### and any -measurable random variable
+and any -measurable random variable
 
-## Fixing some time
+# Fixing some time
 
 consider a trading strategy that invests one unit of account at time and repeatedly rolls the value over in short-term riskless borrowing until time
 
@@ -4066,15 +4066,15 @@ with final value .
 
 That is, and , .
 
-### Relation (3) then implies that
+Relation (3) then implies that
 
-## so
+so
 
-## From (11)
+From (11)
 
 (12), and the definition of a state-price deflator
 
-## (10) is satisfied
+(10) is satisfied
 
 so is indeed an equivalent martingale measure.
 
@@ -4084,7 +4084,7 @@ We have shown the following result.
 
 ** There is no arbitrage if and only if there exists an equivalent martingale measure.
 
-## Moreover
+# Moreover
 
 is a state-price deflator if and only if an equivalent martingale measure has the density process defined by .
 
@@ -4102,7 +4102,7 @@ We must show that .
 
 Let be any event.
 
-## Since markets are complete
+# Since markets are complete
 
 there is a trading strategy with dividend process such that
 
@@ -4120,19 +4120,19 @@ This martingale approach simplifies many asset pricing problems that might other
 
 This approach also applies much more generally than indicated here.
 
-## For example
+# For example
 
 the assumption of short-term borrowing is merely a convenience.
 
-## More generally
+# More generally
 
-## as elaborated in Chapter 6
+as elaborated in Chapter 6
 
 one can typically obtain an equivalent martingale measure after normalizing prices and dividends by the price of some particular security (or trading strategy).
 
 **H.
 
-### Valuation of Redundant Securities**
+Valuation of Redundant Securities**
 
 Suppose that the given dividend-price pair is arbitrage-free
 
@@ -4144,13 +4144,13 @@ We say that is redundant given if there exists a trading strategy
 
 with respect to only the original security dividend-price process
 
-## that replicates
+that replicates
 
-## in the sense that
+in the sense that
 
-## In this case
+# In this case
 
-### the absence of arbitrage for the
+the absence of arbitrage for the
 
 **I.
 
@@ -4158,19 +4158,19 @@ American Exercise Policies and Valuation**
 
 “augmented” dividend-price process implies that
 
-## where
+where
 
-## If this were not the case
+# If this were not the case
 
-## there would be an arbitrage
+there would be an arbitrage
 
 as follows.
 
-## For example
+# For example
 
-### suppose that for some stopping time
+suppose that for some stopping time
 
-## we have
+we have
 
 and that with strictly positive probability.
 
@@ -4186,13 +4186,13 @@ and follow this strategy until .
 
 Since the dividends generated by this combined strategy (a)-(b) after are zero
 
-### the only dividend is at for the amount
+the only dividend is at for the amount
 
 which means that this is an arbitrage.
 
-## Likewise
+# Likewise
 
-### if for some nontrivial stopping time
+if for some nontrivial stopping time
 
 the opposite strategy is an arbitrage.
 
@@ -4206,7 +4206,7 @@ Let be a redundant dividend process with price process .
 
 Then the augmented dividend-price pair is arbitrage-free if and only if it has as a state-price deflator.
 
-## In applications
+# In applications
 
 it is often assumed that generates complete markets
 
@@ -4222,17 +4222,17 @@ American Exercise Policies and Valuation**
 
 We now extend our pricing framework to include a family of securities
 
-## called “American
+called “American
 
 ” for which there is discretion regarding the timing of cash flows.
 
-## Given an adapted process
+# Given an adapted process
 
 each finite-valued stopping time generates a dividend process defined by
 
 , and .
 
-## In this context
+# In this context
 
 a finite-valued stopping time is an exercise policy
 
@@ -4240,9 +4240,9 @@ determining the time at which to accept payment.
 
 Any exercise policy is constrained by for some expiration time .
 
-## (In what follows
+(In what follows
 
-### we might take to be a stopping time
+we might take to be a stopping time
 
 which is useful for the case of certain knockout options
 
@@ -4252,7 +4252,7 @@ as shown for example in Exercise 2.
 
 The exercise policy is selected by the holder of the security.
 
-## Once exercised
+# Once exercised
 
 the security has no remaining cash flows.
 
@@ -4260,7 +4260,7 @@ A standard example is an American put option on a security with price process .
 
 The American put gives the holder of the option the right
 
-## but not the obligation
+but not the obligation
 
 to sell the underlying security for a fixed exercise price at any time before a given expiration time .
 
@@ -4270,39 +4270,39 @@ then ,
 
 and , .
 
-## We will suppose that
+# We will suppose that
 
-### in addition to an American security
+in addition to an American security
 
 there are securities with an arbitrage-free dividend-price process that generates complete markets.
 
 The assumption of complete markets will dramatically simplify our analysis since it implies
 
-## for any exercise policy
+for any exercise policy
 
 that the dividend process is redundant given .
 
-## For notational convenience
+# For notational convenience
 
 we assume that .
 
 Let be a state-price deflator associated with .
 
-## From Proposition H
+# From Proposition H
 
-## given any exercise policy
+given any exercise policy
 
 the American security’s dividend process has an associated cum-dividend price process
 
 say , which
 
-## in the absence of arbitrage
+in the absence of arbitrage
 
-## satisfies
+satisfies
 
 This value does not depend on which state-price deflator is chosen because
 
-## with complete markets
+with complete markets
 
 state-price deflators are all equal up to a positive rescaling
 
@@ -4312,45 +4312,45 @@ We consider the optimal stopping problem
 
 where, for any time
 
-### we let denote the set of stopping times
+we let denote the set of stopping times
 
 bounded below by and above by .
 
-### A solution to (13) is called a rational
+A solution to (13) is called a rational
 
 exercise policy for the American security
 
-### in the sense that it maximizes
+in the sense that it maximizes
 
 the initial arbitrage-free value of the resulting claim.
 
 We claim that in the absence of arbitrage
 
-## the actual initial price
+the actual initial price
 
 for the American security must be the “rational value” .
 
-## In order to
+# In order to
 
 see this, suppose first that .
 
-### Then one could buy the American
+# Then one could buy the American
 
-## security
+security
 
-### adopt for it a rational exercise policy
+adopt for it a rational exercise policy
 
-## and also undertake a
+and also undertake a
 
 trading strategy replicating .
 
 Since , this replication
 
-## involves an initial payoff of
+involves an initial payoff of
 
 and the net effect is a total initial dividend
 
-### of and zero dividends after time 0
+of and zero dividends after time 0
 
 which defines an arbitrage.
 
@@ -4368,11 +4368,11 @@ for .
 
 We will show that for an initial investment of
 
-## one can “super
+one can “super
 
 replicate” the payoff at exercise demanded by the holder of the American
 
-## security
+security
 
 regardless of the exercise policy used.
 
@@ -4390,25 +4390,25 @@ where, we recall
 
 is the cum-dividend value of at time .
 
-## Regardless
+# Regardless
 
 of the exercise policy used by the holder of the security
 
-## the payment
+the payment
 
 of demanded at time is dominated by the market value of a
 
 super-replicating strategy .
 
-## (In effect
+(In effect
 
-### one modifies by liquidating the
+one modifies by liquidating the
 
-## portfolio at time
+portfolio at time
 
 so that the actual trading strategy associated with
 
-## the arbitrage is defined by
+the arbitrage is defined by
 
 for and for .
 
@@ -4420,19 +4420,19 @@ If, indeed, , then the
 
 strategy of selling the American security and adopting a super-replicating
 
-## strategy
+strategy
 
-## liquidating at exercise
+liquidating at exercise
 
 effectively defines an arbitrage.
 
 This notion of arbitrage for American securities
 
-## an extension of the
+an extension of the
 
 notion of arbitrage used earlier in the chapter
 
-## is reasonable because a
+is reasonable because a
 
 super-replicating strategy does not depend on the exercise policy adopted
 
@@ -4440,17 +4440,17 @@ by the holder (or sequence of holders over time) of the American security.
 
 It would be unreasonable to call a strategy involving a short position in
 
-### the American security an “arbitrage” if
+the American security an “arbitrage” if
 
-## in carrying it out
+in carrying it out
 
-## one requires
+one requires
 
 knowledge of the exercise policy for the American security that will be
 
 adopted by other agents that hold the security over time
 
-## who may after
+who may after
 
 all act “irrationally.
 
@@ -4466,19 +4466,19 @@ with the initial value .
 
 In order to construct a super-replicating strategy
 
-## we will make a short
+we will make a short
 
 excursion into the theory of optimal stopping.
 
 For any process in ,
 
-### the Snell envelope of is defined by
+the Snell envelope of is defined by
 
 It can be shown as an exercise that for any
 
 Thus , implying that is a supermartingale.
 
-## explained in Appendix A
+explained in Appendix A
 
 this implies that we can decompose in the
 
@@ -4488,19 +4488,19 @@ process with .
 
 This decomposition is illustrated in Figure 2.
 
-## 1 for
+1 for
 
 the case in which is a deterministic process
 
-## which implies that
+which implies that
 
 and are also deterministic.
 
-### In order to prove Proposition I
+# In order to prove Proposition I
 
-## we define by
+we define by
 
-## and let
+and let
 
 , and be defined as above.
 
@@ -4518,35 +4518,35 @@ Property (a) of a super-replicating strategy is satisfied by this strategy .
 
 From the fact that is a martingale and the definition of a state-price
 
-## deflator
+deflator
 
 the cum-dividend value of the trading strategy satisfies
 
-## From (14) and the fact that
+From (14) and the fact that
 
 we know that because .
 
-## Since for all
+# Since for all
 
-## from (14) we also know that
+from (14) we also know that
 
 so , and since for all
 
 we have for all .
 
-## Thus
+# Thus
 
 the dominance property (b) is also satisfied
 
-## and is indeed a super-
+and is indeed a super-
 
 replicating strategy with .
 
-### This proves the proposition and implies
+# This proves the proposition and implies
 
-### that unless there is an arbitrage
+that unless there is an arbitrage
 
-### the initial price of the American secu-
+the initial price of the American secu-
 
 rity is equal to the market value associated with a rational exercise
 
@@ -4562,21 +4562,21 @@ As for the deterministic case illustrated in Figure 2.
 
 exercise policy is given by .
 
-## We now show the opti-
+# We now show the opti-
 
 mality of .
 
 First, we know that if is a rational exercise policy
 
-## then
+then
 
-### . (This can be seen from the fact that , and if ,
+. (This can be seen from the fact that , and if ,
 
 then cannot be rational.
 
-## ) From this fact
+) From this fact
 
-## any rational exercise policy
+any rational exercise policy
 
 has the property that .
 
@@ -4592,11 +4592,11 @@ Theorem.
 
 Given , suppose generates complete markets.
 
-## Suppose
+# Suppose
 
-### there is a state-price deflator for
+there is a state-price deflator for
 
-### and let be the Snell envelope of
+and let be the Snell envelope of
 
 up to the expiration time .
 
@@ -4606,13 +4606,13 @@ by .
 
 The unique initial cum-dividend arbitrage-free price
 
-## of the American security is
+of the American security is
 
 Is Early Exercise Optimal?
 
 With the equivalent martingale measure defined in Section G
 
-## we can
+we can
 
 also write the optimal stopping problem (13) in the form
 
@@ -4620,13 +4620,13 @@ This representation of the rational exercise problem is sometimes conve-
 
 nient.
 
-## For example
+# For example
 
 let us consider the case of an American call option on
 
 a security with price process .
 
-## We have for some exercise
+# We have for some exercise
 
 price .
 
@@ -4634,21 +4634,21 @@ Suppose the underlying security has no dividends before or at
 
 the expiration time .
 
-### We suppose positive interest rates
+# We suppose positive interest rates
 
-## meaning that
+meaning that
 
 for all and .
 
-## With these assumptions
+# With these assumptions
 
-## we will show that it
+we will show that it
 
 is never optimal to exercise the call option before its expiration date .
 
 This property is sometimes called “no early exercise
 
-## ” or “better alive than
+” or “better alive than
 
 dead.
 
@@ -4656,9 +4656,9 @@ We define the “discounted price process” by .
 
 fact that the underlying security pays dividends only after the expiration
 
-## time implies
+time implies
 
-## by Lemma G
+by Lemma G
 
 that is a -martingale at least up to the
 
@@ -4668,7 +4668,7 @@ That is, for , we have .
 
 Jensen’s Inequality can be used to show the following fact about con-
 
-## vex functions of martingales
+vex functions of martingales
 
 which we will use to obtain conditions for
 
@@ -4678,9 +4678,9 @@ Lemma.
 
 Suppose is convex with respect to its first argument
 
-## is a martingale
+is a martingale
 
-### and are two stopping times with
+and are two stopping times with
 
 is an adapted process.
 
@@ -4692,7 +4692,7 @@ law of iterated expectations implies that .
 
 With the benefit of this lemma and positive interest rates
 
-## we have
+we have
 
 for any stopping time ,
 
@@ -4708,11 +4708,11 @@ then earlyeliminated).
 
 This process of paying or collecting any changes in the futures price
 
-## period by period
+period by period
 
-## is called marking to market
+is called marking to market
 
-### and serves in practice to reduce the
+and serves in practice to reduce the
 
 likelihood or magnitude of potential defaults.
 
@@ -4722,17 +4722,17 @@ that the dividend process Δ of the futures contract is defined by Δ = Φ − �
 
 t > 0.
 
-## Exercises 43
+# Exercises 43
 
-## For our purposes
+# For our purposes
 
 it is natural to assume that the delivery value Φ is con-
 
 tractually equated with W.
 
-## (In a more detailed model
+(In a more detailed model
 
-## we could equate Φ and W
+we could equate Φ and W
 
 by the absence of delivery arbitrage.
 
@@ -4742,7 +4742,7 @@ by the absence of delivery arbitrage.
 
 It follows from parts (A) and (B) that with deterministic interest
 
-### rates and the absence of arbitrage
+rates and the absence of arbitrage
 
 futures and forward prices coincide.
 
@@ -4758,9 +4758,9 @@ borrowing are both deterministic.
 
 Calculate the futures and forward prices
 
-## and F_t
+and F_t
 
-## explicitly in terms of S_t
+explicitly in terms of S_t
 
 d, and Δ.
 
@@ -4770,9 +4770,9 @@ part of Proposition G.
 
 complete if and only if J = H.
 
-## By Theorem G
+# By Theorem G
 
-## there is a unique equivalent
+there is a unique equivalent
 
 martingale measure if and only if there is a unique state-price deflator γ such that
 
@@ -4780,11 +4780,11 @@ martingale measure if and only if there is a unique state-price deflator γ such
 
 Suppose H ≠ J.
 
-### Since H is a linear subspace of J
+# Since H is a linear subspace of J
 
-## there is some nonzero
+there is some nonzero
 
-## η in J “orthogonal” to H
+η in J “orthogonal” to H
 
 in the sense that E(η_0 x_0 + .
 
@@ -4794,11 +4794,11 @@ enough that γ > 0.
 
 Then γ is a distinct state-price deflator with γ_0 = 1.
 
-## This
+# This
 
 shows that if there is a unique state-price deflator γ with γ_0 = 1
 
-## then markets
+then markets
 
 must be complete.
 
@@ -4810,29 +4810,29 @@ define an inner product ( · | · ) for H in the sense of Exercise 1.
 
 19 It is asserted in Section I that if W is the Snell envelope of Y
 
-## then W_t =
+then W_t =
 
 max[Y_t, E_t(W_{t+1})].
 
 Prove this natural property.
 
-## 2.20 Prove Lemma J.
+# 2.20 Prove Lemma J.
 
 21 Consider the “tree” of prices for securities A and B shown in Figure 2.
 
-## each node in the tree
+each node in the tree
 
-## a pair (p_A
+a pair (p_A
 
-## p_B) of prices is shown
+p_B) of prices is shown
 
-## the first of which is the
+the first of which is the
 
-## price of A at that node
+price of A at that node
 
 the second of which is the price of B.
 
-### (A) Construct a probability space (Ω
+(A) Construct a probability space (Ω
 
 ℱ, P), a filtration of tribes
 
@@ -4840,7 +4840,7 @@ the second of which is the price of B.
 
 ℱ_2}, and
 
-### a vector security price process V
+a vector security price process V
 
 that formally encode the information in the
 
@@ -4858,7 +4858,7 @@ There are no dividend payments in periods 0 and 1.
 
 Find the price at time 0 of an American put
 
-## option on asset B
+option on asset B
 
 with an exercise price of 95 and expiring at time 2.
 
@@ -4868,9 +4868,9 @@ this is an option to sell B for 95 at any of times 0
 
 1, or 2.
 
-## --- Page 32 ---
+--- Page 32 ---
 
-### 44 2. The Basic Multiperiod Model
+44 2. The Basic Multiperiod Model
 
 (100, 150)
 
@@ -4886,21 +4886,21 @@ this is an option to sell B for 95 at any of times 0
 
 (100, 100)
 
-## t=0 t=1 t=2
+t=0 t=1 t=2
 
 Figure 2.
 
-## An Event Tree With Prices
+# An Event Tree With Prices
 
 (C) Suppose the price at time 0 in the market of this put option is in fact 10
 
 percent lower than the arbitrage-free price you arrived at in part B.
 
-## Show explicitly
+# Show explicitly
 
 how to create a riskless profit of 1 million dollars at time 0
 
-## with no cash flow after
+with no cash flow after
 
 time 0.
 
@@ -4908,95 +4908,95 @@ time 0.
 
 than the arbitrage-free price you arrived at in part B.
 
-## Show explicitly how to create
+# Show explicitly how to create
 
 a riskless profit of 1 million dollars at time 0
 
-### with nonnegative cash flow after time
+with nonnegative cash flow after time
 
 Hint: If you decide to sell the option
 
-### you should not assume that the person
+you should not assume that the person
 
 to whom you sold it will exercise it in any particular fashion.
 
-## 22 Let T=1
+22 Let T=1
 
 and suppose there are three equally likely states of world
 
 ω_1, ω_2
 
-## and ω_3
+and ω_3
 
 one of which is revealed as true at time 1.
 
-### A particular agent has utility
+# A particular agent has utility
 
 function U and has equilibrium consumption choices c_0 = 25 and
 
-## c_1(ω_1) = 9
+c_1(ω_1) = 9
 
-## c_1(ω_2) = 16
+c_1(ω_2) = 16
 
 c_1(ω_3) = 4.
 
-## In each case below
+# In each case below
 
 compute the price of a security that pays 3 in state ω_1
 
-## 6 in
+6 in
 
 state ω_2, and 5 in state ω_3.
 
 Show your work.
 
-## (A) Expected
+(A) Expected
 
-## but not time-additive
+but not time-additive
 
-## utility U(c_0
+utility U(c_0
 
-## c_1) = E[u(c_0
+c_1) = E[u(c_0
 
 c_1)], with u(x
 
-## y) =
+y) =
 
-## (B) Nonexpected utility U(c_0
+(B) Nonexpected utility U(c_0
 
 c_1) = v(c_0) + Σ_{i=1}^3 π_i u(c_1(ω_i)).
 
-## 23 For concreteness
+23 For concreteness
 
 the length of one period is one year.
 
-## There are two basic
+# There are two basic
 
 types of investments.
 
 The first is riskless borrowing or lending.
 
-## The equilibrium
+# The equilibrium
 
-## Notes 45
+# Notes 45
 
 one-year short rate is 25 percent (simple interest per year)
 
 each year.
 
-## (So one can
+(So one can
 
 invest 1 at time zero and collect 1.
 
-### 25 at the end of the first year
+25 at the end of the first year
 
-## or invest 1 at the
+or invest 1 at the
 
 end of the first year and collect 1.
 
-### 25 at the end of the second year.
+25 at the end of the second year.
 
-## ) At the end
+) At the end
 
 of each year, a fair coin is flipped.
 
@@ -5016,7 +5016,7 @@ the price of the risky security at the end of the second year is −2
 
 0, or +2
 
-## with
+with
 
 respective probabilities 0.
 
@@ -5036,7 +5036,7 @@ State the initial market price q of the option.
 
 (B) Now suppose the option is actually selling for q/2.
 
-## Construct a trading strategy
+# Construct a trading strategy
 
 that generates a net initial positive cash flow of 1000 units of account and no
 
@@ -5044,19 +5044,19 @@ subsequent cash flows.
 
 (State a precise recipe for the quantities of each security
 
-## to buy or sell
+to buy or sell
 
-## at each time
+at each time
 
 in each contingency.
 
-## 2.24 Prove Corollary F.
+# 2.24 Prove Corollary F.
 
-## 25 (Numeraire Invariance).
+25 (Numeraire Invariance).
 
-### Consider a dividend-price pair (Δ
+Consider a dividend-price pair (Δ
 
-## S) ∈ L_+ × L_+
+S) ∈ L_+ × L_+
 
 and a deflator γ.
 
@@ -5066,15 +5066,15 @@ processes.
 
 Let θ be any given trading strategy.
 
-### Show that the dividend process Δ^θ
+Show that the dividend process Δ^θ
 
-## generated by θ given (Δ
+generated by θ given (Δ
 
 S) and the dividend process Δ̂^θ generated by θ under
 
 and only if θ is an arbitrage with respect to (Δ̂
 
-### If γ is a state-price deflator for
+If γ is a state-price deflator for
 
 (Δ, S)
 
@@ -5082,9 +5082,9 @@ compute a state-price deflator γ̂ for (Δ̂
 
 Ŝ) in terms of γ and Δ.
 
-## Notes
+# Notes
 
-## Radner (1967
+Radner (1967
 
 1972) originated the sort of dynamic equilibrium model treated in
 
@@ -5096,15 +5096,15 @@ survey of the theory of general equilibrium in incomplete markets.
 
 (A-B) The model of uncertainty and information is standard.
 
-## The model of
+# The model of
 
 uncertainty is equivalent to that originated in the general equilibrium model of
 
-## Debreu (1953)
+Debreu (1953)
 
 which appears in Chapter 7 of Debreu (1959).
 
-## For more details
+# For more details
 
 in a finance setting, see Dothan (1990).
 
@@ -5112,13 +5112,13 @@ in a finance setting, see Dothan (1990).
 
 and G is from the more general model of Harrison and Kreps (1979).
 
-## Girotto
+# Girotto
 
-### and Ortu (1996) present general results
+and Ortu (1996) present general results
 
-### in this finite-dimensional setting
+in this finite-dimensional setting
 
-## on the
+on the
 
 equivalence between no arbitrage and the existence of an equivalent martingale
 
@@ -5128,15 +5128,15 @@ The spirit of the results on optimality and state prices is also from Har-
 
 rison and Kreps (1979).
 
-## Girotto and Ortu (1994
+Girotto and Ortu (1994
 
 1997a, 1997b) fully explore this
 
 equivalence in finite-dimensional multiperiod economies.
 
-## --- Page 33 ---
+--- Page 33 ---
 
-### 46 2. The Basic Multiperiod Model
+46 2. The Basic Multiperiod Model
 
 (E) The spirit of this section is from Kreps (1982) and Duffie and Huang (1985).
 
@@ -5146,7 +5146,7 @@ Constantinides (1982).
 
 An extension of this notion to incomplete markets
 
-## where
+where
 
 one cannot generally exploit Pareto optimality
 
@@ -5162,7 +5162,7 @@ who donot formally connect the valuation of American securities with the absence
 
 trage, but rather deal with the similar notion of “fair price.
 
-## ” Merton (1973b) was
+” Merton (1973b) was
 
 the first to attack American option valuation systematically using arbitrage-based
 
@@ -5172,13 +5172,13 @@ options in a Black-Scholes style setting.
 
 American option valuation is reconsidered
 
-## in Chapters 3 and 8
+in Chapters 3 and 8
 
 whose literature notes cite many additional references.
 
 (J) These results were developed in a continuous-time setting by Merton (1973b).
 
-## Additional Topics
+# Additional Topics
 
 The habit-formation utility model was developed by Dunn
 
@@ -5188,25 +5188,25 @@ application of habit formation to state-pricing in this setting appears in Chap-
 
 man (1998b).
 
-## The recursive-utility model
+# The recursive-utility model
 
-## in various forms
+in various forms
 
-## is due to Selden
+is due to Selden
 
-## (1978)
+(1978)
 
-## Kreps and Porteus (1978)
+Kreps and Porteus (1978)
 
-## and Epstein and Zin (1989)
+and Epstein and Zin (1989)
 
-## and is surveyed
+and is surveyed
 
 by Epstein (1992).
 
 Koopmans (1960) presented an early precursor.
 
-## The recursive-
+# The recursive-
 
 utility model allows for preference for earlier or later resolution of uncertainty
 
@@ -5214,15 +5214,15 @@ utility model allows for preference for earlier or later resolution of uncertain
 
 This is relevant, for example, in the
 
-### context of the remarks by Ross (1989)
+context of the remarks by Ross (1989)
 
-## as shown by Skiadas (1998)
+as shown by Skiadas (1998)
 
-## and Duffie
+and Duffie
 
 Schroder, and Skiadas (1997).
 
-## See Grant
+# See Grant
 
 Kajii, and Polak (2000) for more on preference for resolution of information.
 
@@ -5242,7 +5242,7 @@ betweenness certainty equivalent model of Chew (1983
 
 1989), Dekel (1989)
 
-## and Gul
+and Gul
 
 and Lantto (1990).
 
@@ -5250,25 +5250,25 @@ The equilibrium state-price associated with recursive utility is
 
 computed in a Markovian version of this setting by Kan (1995).
 
-## For further justi-
+# For further justi-
 
 fication and properties of recursive utility
 
-## see Chew and Epstein (1991)
+see Chew and Epstein (1991)
 
-## Skiadas
+# Skiadas
 
 (1998), and Skiadas (1997).
 
 For further implications for asset pricing
 
-## see Epstein
+see Epstein
 
-## (1988)
+(1988)
 
-## Epstein (1992)
+Epstein (1992)
 
-## Epstein and Zin (1999)
+Epstein and Zin (1999)
 
 and Giovannini and Weil (1989).
 
@@ -5278,23 +5278,23 @@ setting.
 
 The basic approach to existence given in Exercise 2.
 
-## 11 is suggested by Kreps
+11 is suggested by Kreps
 
-## (1982)
+(1982)
 
 and is shown to work for “generic” dividends and endowments
 
-## under
+under
 
-### technical regularity conditions
+technical regularity conditions
 
-## in McManus (1984)
+in McManus (1984)
 
-## Repullo (1986)
+Repullo (1986)
 
-## and Magill
+and Magill
 
-## and Shafer (1990)
+and Shafer (1990)
 
 provided the number of securities is at least as large as the
 
@@ -5302,25 +5302,25 @@ spanning number of the filtration F (as suggested in Exercise 2.
 
 11).
 
-## This literature
+# This literature
 
 is reviewed in depth by Geanakoplos (1990).
 
-### See Duffie and Huang (1985) for
+See Duffie and Huang (1985) for
 
-## Notes 47
+# Notes 47
 
 the definition of spanning number in more general settings and for a continuous-
 
 time version of a similar result.
 
-## Duffie and Shafer (1985
+Duffie and Shafer (1985
 
-## 1986b) show generic
+1986b) show generic
 
 existence of equilibrium in incomplete markets
 
-### Hart (1975) gives a counterex-
+Hart (1975) gives a counterex-
 
 ample.
 
@@ -5330,35 +5330,35 @@ single-period multiple-commodity version.
 
 See also Won (1996a, 1996b).
 
-## Related
+# Related
 
 existence topics are studied by Bottazzi and Hens (1996)
 
-## Hens (1991)
+Hens (1991)
 
-## and Zhou
+and Zhou
 
 (1997b).
 
-## Dispersed expectations
+# Dispersed expectations
 
 in a temporary-equilibrium variant of the model
 
 is shown to lead to existence by Henrotte (1994) and by Honda (1992).
 
-## Alternative
+# Alternative
 
 proofs of existence of equilibrium are given in the two-period version of the model
 
-### by Geanakoplos and Shafer (1990)
+by Geanakoplos and Shafer (1990)
 
-## Hirsch
+# Hirsch
 
-## Magill
+# Magill
 
-## and Mas-Colell (1990)
+and Mas-Colell (1990)
 
-## Husseini
+# Husseini
 
 Lasry, and Magill (1990)
 
@@ -5368,39 +5368,39 @@ Gourdel (1994).
 
 If one defines security dividends in nominal terms
 
-## rather than in
+rather than in
 
-## units of consumption
+units of consumption
 
 then equilibria always exist under standard technical condi-
 
-### tions on preferences and endowments
+tions on preferences and endowments
 
-## as shown by Cass (1984)
+as shown by Cass (1984)
 
-## Werner (1985)
+Werner (1985)
 
-## Duffie (1987)
+Duffie (1987)
 
-## and Gottardi and Hens (1996)
+and Gottardi and Hens (1996)
 
-### although equilibrium may be inde-
+although equilibrium may be inde-
 
-## terminate
+terminate
 
 as shown by Cass (1989) and Geanakoplos and Mas-Colell (1989).
 
-## this point
+this point
 
-### see also Kydland and Prescott (1991)
+see also Kydland and Prescott (1991)
 
-## Mas-Colell (1991)
+Mas-Colell (1991)
 
-## and Cass
+and Cass
 
 (1991).
 
-## Likewise
+# Likewise
 
 one obtains existence in a one-period version of the model pro-
 
@@ -5408,37 +5408,37 @@ vided securities have payoffs in a single commodity (the framework of most of th
 
 book), as shown by Chae (1988) and Geanakoplos and Polemarchakis (1986).
 
-## Sur-
+# Sur-
 
 veys of general-equilibrium models in an incomplete-markets setting are given by
 
-## Cass (1991)
+Cass (1991)
 
-## Duffie (1992)
+Duffie (1992)
 
-## Geanakoplos (1990)
+Geanakoplos (1990)
 
-## Magill and Quinzii (1996b)
+Magill and Quinzii (1996b)
 
 Magill and Shafer (1991).
 
 In the presence of price-dependent options
 
-## existence
+existence
 
-## can be more problematic
+can be more problematic
 
-### as shown by Polemarchakis and Ku (1990)
+as shown by Polemarchakis and Ku (1990)
 
-## but variants
+but variants
 
 of the formulation will suffice for existence in many cases
 
-## as shown by Huang and
+as shown by Huang and
 
 Wu (1994) and Krasa and Werner (1991).
 
-### Detemple and Selden (1991) examine
+Detemple and Selden (1991) examine
 
 the implications of options for asset pricing in a general equilibrium model with
 
@@ -5452,17 +5452,17 @@ The importance of the timing of information
 
 in this setting is described by Berk and Uhlig (1993).
 
-## Hindy and Huang (1993b)
+Hindy and Huang (1993b)
 
 show the implications of linear collateral constraints on security valuation.
 
-## Hara
+# Hara
 
 (1993) treats the role of “redundant” securities in the presence of transactions
 
 costs.
 
-## Hahn (1994
+Hahn (1994
 
 1999) raises some philosophical issues regarding the possibility
 
@@ -5470,23 +5470,23 @@ of complete markets and efficiency.
 
 The Pareto inefficiency of incomplete-markets
 
-### equilibrium consumption allocations
+equilibrium consumption allocations
 
-### and notions of constrained efficiency
+and notions of constrained efficiency
 
-## discussed by Hart (1975)
+discussed by Hart (1975)
 
-### Kreps (1979) (and references therein)
+Kreps (1979) (and references therein)
 
-## Citanna
+# Citanna
 
 Kaji,
 
-## and Villanacci (1994)
+and Villanacci (1994)
 
-## Citanna and Villanacci (1993)
+Citanna and Villanacci (1993)
 
-## and Pan (1993
+and Pan (1993
 
 1995).
 
@@ -5496,19 +5496,19 @@ plete markets in this setting is given a dual interpretation by He and Pagés (1
 
 (Girotto and Ortu (1994) offer related remarks.
 
-## ) Methods for computation of
+) Methods for computation of
 
 equilibrium with incomplete markets are developed by Brown
 
-## DeMarzo
+# DeMarzo
 
-## Eaves (1996a)
+Eaves (1996a)
 
 Brown, DeMarzo
 
-## and Eaves (1996b)
+and Eaves (1996b)
 
-## and DeMarzo and Eaves
+and DeMarzo and Eaves
 
 (1996).
 
@@ -5518,13 +5518,13 @@ Kraus and Litzenberger (1975) and Stapleton and Subrahmanyam (1978)
 
 present parametric examples of equilibrium.
 
-## Hansen and Richard (1987)
+Hansen and Richard (1987)
 
 explore the state-price beta model in a much more general multiperiod setting.
 
-## --- Page 34 ---
+--- Page 34 ---
 
-### 48 2. The Basic Multiperiod Model
+48 2. The Basic Multiperiod Model
 
 Ross (1987) and Prisman (1985) show the impact of taxes and transactions
 
@@ -5534,27 +5534,27 @@ Hara (1993) discusses the role of redundant
 
 securities in the presence of transactions costs.
 
-## The consumption-based CAPM of
+# The consumption-based CAPM of
 
 Exercise 2.
 
-## 6 is found
+6 is found
 
-## in a different form
+in a different form
 
 in Rubinstein (1976).
 
-## The aggregation
+# The aggregation
 
 result of Exercise 2.
 
-### 15 is based on Rubinstein (1974a).
+15 is based on Rubinstein (1974a).
 
-## Rubinstein (1974b) has a
+Rubinstein (1974b) has a
 
 detailed treatment of asset pricing results in the setting of this chapter.
 
-## Rubinstein
+# Rubinstein
 
 (1987) is a useful expository treatment of derivative asset pricing in this setting.
 
@@ -5574,33 +5574,33 @@ Naik (1994).
 
 The Modigliani-Miller Theorems are reconsidered in this setting by
 
-## DeMarzo (1988)
+DeMarzo (1988)
 
-## Duffie and Shafer (1986a)
+Duffie and Shafer (1986a)
 
 and Gottardi (1995).
 
-### The Dynamic Programming Approach
+# The Dynamic Programming Approach
 
 THIS CHAPTER PRESENTS portfolio choice and asset pricing in the frame-
 
-## work of dynamic programming
+work of dynamic programming
 
 a technique for solving dynamic optimiza-
 
 tion problems with a recursive structure.
 
-### The asset pricing implications
+# The asset pricing implications
 
 go little beyond those of the previous chapter
 
-## but there are computa-
+but there are computa-
 
 tional advantages.
 
 After introducing the idea of dynamic programming in
 
-## a deterministic setting
+a deterministic setting
 
 we review the basics of a finite-state Markov chain.
 
@@ -5608,9 +5608,9 @@ The Bellman equation is shown to characterize optimality in a Markovsetting.
 
 The first-order condition for the Bellman equation
 
-## often called
+often called
 
-### the “stochastic Euler equation
+the “stochastic Euler equation
 
 ” is then shown to characterize equilib-
 
@@ -5618,7 +5618,7 @@ rium security prices.
 
 This is done with additive utility in the main body
 
-## of the chapter
+of the chapter
 
 and extended to more general recursive forms of utility
 
@@ -5628,59 +5628,59 @@ The last sections of the chapter show the computation
 
 of arbitrage-free derivative security values in a Markov setting
 
-## including
+including
 
 an application of Bellman’s equation for optimal stopping to the valua-
 
 tion of American securities such as the American put option.
 
-## An exercise
+# An exercise
 
 presents algorithms for the numerical solution of term-structure derivative
 
 securities in a simple “binomial” setting.
 
-## The Bellman Approach
+# The Bellman Approach
 
-## To get the basic idea
+# To get the basic idea
 
 we start in the T-period setting of the previous
 
-## chapter
+chapter
 
 with no securities except those permitting short-term riskless bor-
 
 rowing at any time t at the discount dt > 0.
 
-## The endowment process of a
+# The endowment process of a
 
 given agent is e.
 
-## Given a consumption process c
+# Given a consumption process c
 
-## it is convenient to define
+it is convenient to define
 
 the agent’s wealth process W° by W0 = 0 and
 
 Wt = Wt-1 + θt-1 · (Sqt - Sqt-1) + dt-1(Wt-1 + et-1 - ct-1).
 
-## --- Page 35 ---
+--- Page 35 ---
 
-## 50 i
+50 i
 
-### 3. The Dynamic Programming Approach
+# 3. The Dynamic Programming Approach
 
-## Given a utility function U
+# Given a utility function U
 
-### L→R on the set L of nonnegative adapted
+L→R on the set L of nonnegative adapted
 
-## processes
+processes
 
-### the agent’s problem can be rewritten as
+the agent’s problem can be rewritten as
 
-## sup U(c)
+sup U(c)
 
-## c∈L
+c∈L
 
 subject to (1) and ct = Wt + et.
 
@@ -5690,51 +5690,51 @@ functions.
 
 One example is an additive utility function U
 
-## defined by
+defined by
 
 U(c) = Σ t=0T βt ut(ct), (3)
 
 where βt ∈ [0,1].
 
-### In order to keep things simple at first
+# In order to keep things simple at first
 
-### we take the case in which there is no
+we take the case in which there is no
 
-## uncertainty
+uncertainty
 
-## meaning that Ft = {O
+meaning that Ft = {O
 
 Ω} for all t.
 
-## The maximum remaining
+# The maximum remaining
 
-### utility at time t is then written
+utility at time t is then written
 
-## for each w in R
+for each w in R
 
 Vt(w) = sup Σ τ=tT βτ ut(cτ),
 
 c∈L, s.
 
-## subject to Wt = w
+subject to Wt = w
 
-## the wealth dynamic (1)
+the wealth dynamic (1)
 
 and cτ = Wτ + eτ.
 
-## If there
+# If there
 
 is no budget-feasible consumption choice (because w is excessively
 
 negative), we write Vt(w) = −∞.
 
-## Clearly Vt(w) = −∞ if w < et
+Clearly Vt(w) = −∞ if w < et
 
-### and it is shown as an exercise
+and it is shown as an exercise
 
 that Vt(w) = sup (βt ut(w + et) + Vt+1(w + et - ct))
 
-## c∈R
+c∈R
 
 w ≥ et.
 
@@ -5742,11 +5742,11 @@ The Bellman equation.
 
 For each t < T and each w for which there is a
 
-## solution to (4)
+solution to (4)
 
-## let Ct(w) denote a solution
+let Ct(w) denote a solution
 
-## and let Ct(w) be
+and let Ct(w) be
 
 also left as an exercise to show that an optimal consumption policy c is
 
@@ -5758,13 +5758,13 @@ summarizes all information regarding the “future” of the problem that is
 
 required for choice at time t.
 
-### First-Order Bellman Conditions
+# First-Order Bellman Conditions
 
-## Throughout this section
+# Throughout this section
 
 we take the additive model (3) and assume in
 
-## addition that for each t
+addition that for each t
 
 ut is strictly concave and is differentiable on
 
@@ -5776,15 +5776,15 @@ From Exercise 2.
 
 ut(c) + βt Vt+1(w + et - c) over c.
 
-### We assume that c* is strictly positive
+We assume that c* is strictly positive
 
 and associate with w* by (1).
 
-## Markov Uncertainty I
+# Markov Uncertainty I
 
 Lemma.
 
-## For any t
+# For any t
 
 Vt is strictly concave and continuously differentiable at wt
 
@@ -5794,15 +5794,15 @@ Proof is left as Exercise 3.
 
 4, which gives a broad hint.
 
-## The first-order
+# The first-order
 
 conditions for the Bellman equation (4) then imply
 
-## for any t < T
+for any t < T
 
-## that
+that
 
-## the one-period discount is
+the one-period discount is
 
 dt = βt ut'(ct) / ut'(ct+1).
 
@@ -5822,45 +5822,45 @@ is the marginal rate of substitution of consumption
 
 between the two dates.
 
-## The price of any security
+# The price of any security
 
-## in this deterministic setting
+in this deterministic setting
 
-## can be
+can be
 
 calculated in terms of the prices {λtu} of zero-coupon bonds.
 
 Πt = dt dt+1 … dt+n-1.
 
-## Markov Uncertainty
+# Markov Uncertainty
 
 We take the easiest kind of Markov uncertainty
 
-## a time-homogeneous
+a time-homogeneous
 
 Markov chain.
 
-### Let the elements of a fixed set Z = {1
+Let the elements of a fixed set Z = {1
 
 …,k} be known
 
 as shocks.
 
-## For any shocks i and j
+# For any shocks i and j
 
-## let qij ∈ [0
+let qij ∈ [0
 
-## 1] be thought of as the
+1] be thought of as the
 
-## probability
+probability
 
 for any t that shock j occurs in period t +1 given that
 
 shock i occurs in period t.
 
-## Of course
+# Of course
 
-## for each i
+for each i
 
 qi1 + … + qik = 1.
 
@@ -5872,7 +5872,7 @@ This idea is formalized with the following construction of
 
 a probability space and filtration of tribes.
 
-## It is enough to consider a
+# It is enough to consider a
 
 state of the world as some particular sequence (z0
 
@@ -5884,53 +5884,53 @@ We therefore let Ω = ZT+1 and let F be the set of all subsets
 
 of Ω.
 
-## For each t let Xt
+# For each t let Xt
 
 Ω → Z (the random shock at time t) be the
 
-### random variable defined by Xt(z0
+random variable defined by Xt(z0
 
 …, zT) = zt.
 
 Finally, for each possible
 
-## initial state i in Z
+initial state i in Z
 
-### let Pi be the probability measure on (Ω
+let Pi be the probability measure on (Ω
 
-## F) uniquely
+F) uniquely
 
 defined by the two conditions:
 
-## Pi(X0 = i) =1 (7)
+Pi(X0 = i) =1 (7)
 
 and, for all t < T,
 
-## Pi(Xt+1 = j | X0
+Pi(Xt+1 = j | X0
 
 X1, X2
 
 …, Xt) = qij where it = Xt.
 
-## --- Page 36 ---
+--- Page 36 ---
 
-### 52 3. The Dynamic Programming Approach
+52 3. The Dynamic Programming Approach
 
 Relations (7) and (8) mean that under probability measure Pi
 
-## X starts at i
+# X starts at i
 
 with probability 1 and has the transition probabilities previously described
 
 informally.
 
-## In particular
+# In particular
 
-## (8) means that X = {X0
+(8) means that X = {X0
 
 …,XT} is a Markov
 
-## process
+process
 
 the conditional distribution of Xt+s given X0
 
@@ -5938,13 +5938,13 @@ the conditional distribution of Xt+s given X0
 
 on Xt.
 
-### To complete the formal picture
+# To complete the formal picture
 
-## for each t
+for each t
 
-## we let Ft be the tribe
+we let Ft be the tribe
 
-## generated by [X0
+generated by [X0
 
 …, Xt]
 
@@ -5956,21 +5956,21 @@ following lemma gives the complete flavor of the Markov property.
 
 Lemma.
 
-## For any time t
+# For any time t
 
 let f : ZT-t+1 → R be arbitrary.
 
-## Then there exists a fixed
+# Then there exists a fixed
 
-## function g
+function g
 
-### Z → R such that for any i in Z
+Z → R such that for any i in Z
 
 Ei[f(Xt, …, XT) | Ft] = g(Xt),
 
 where Ei denotes expectation under Pi.
 
-## Markov Asset Pricing
+# Markov Asset Pricing
 
 Taking the particular Markov source of uncertainty described in Section C
 
@@ -5980,21 +5980,21 @@ setting with additive utility of the form (3)
 
 where, for all t
 
-## ut has a strictly
+ut has a strictly
 
-### positive continuous derivative on (0
+positive continuous derivative on (0
 
 Suppose, moreover, that for each
 
 t, there are functions ft
 
-## Z → R+ and gt
+Z → R+ and gt
 
-## Z → R+ such that the dividend
+Z → R+ such that the dividend
 
 is δt = ft(Xt) and the endowment is et = gt(Xt).
 
-## Then Lemma 3C and
+# Then Lemma 3C and
 
 the general gradient solution (2.
 
@@ -6002,11 +6002,11 @@ the general gradient solution (2.
 
 the following characterization of the equilibrium security price process S.
 
-### For each t there is a function St
+# For each t there is a function St
 
 Z → R+ such that St = St(Xt).
 
-## particular
+particular
 
 for any initial shock i and any time t < T
 
@@ -6014,41 +6014,41 @@ where T is the state-price deflator given by τ
 
 t = uτ'[gτ(Xτ)] / ut'[gt(Xt)].
 
-## This has been
+# This has been
 
 called the stochastic Euler equation for security prices.
 
-### Security Pricing by Markov Control
+# Security Pricing by Markov Control
 
-### We will demonstrate (9) once again
+We will demonstrate (9) once again
 
-## under stronger conditions
+under stronger conditions
 
-## using
+using
 
 instead Markov dynamic programming methods.
 
-## Suppose that X is the
+# Suppose that X is the
 
 shock process already described.
 
-## For notational simplicity
+# For notational simplicity
 
-## in this section
+in this section
 
 we suppose that the transition matrix q is strictly positive and that
 
-### Security Pricing by Markov Control 53
+# Security Pricing by Markov Control 53
 
 for all t,
 
-## • ut is continuous
+• ut is continuous
 
-## strictly concave
+strictly concave
 
-## increasing
+increasing
 
-## and differentiable on
+and differentiable on
 
 (0, ∞);
 
@@ -6056,15 +6056,15 @@ for all t,
 
 • δt = ft(Xt) for some ft: Z → R+.
 
-## We assume
+# We assume
 
-## naturally
+naturally
 
-## that Yt
+that Yt
 
-## Z → R+ for t < T
+Z → R+ for t < T
 
-## and that there is no
+and that there is no
 
 arbitrage.
 
@@ -6074,29 +6074,29 @@ of nonnegative adapted processes (for consumption).
 
 For each t < T,
 
-### consider the value function Vt
+consider the value function Vt
 
-## Z × R → R defined by
+Z × R → R defined by
 
 (c,θ)∈L×Θ | i
 
 Wi = w, (10)
 
-## subject to
+subject to
 
-### Wi = Wi-1 + ([Y(Xi) + F(Xi)] · θi-1)
+Wi = Wi-1 + ([Y(Xi) + F(Xi)] · θi-1)
 
 i = t, …
 
 T, w = z0
 
-## (11)
+(11)
 
-## and
+and
 
 cj + δj · P(Xj) < Wj + e(Xj), t ≤ j ≤ T.
 
-## One may think of Vt(Xt
+One may think of Vt(Xt
 
 ·) as an indirect utility function for wealth at time
 
@@ -6106,41 +6106,41 @@ The conditional expectation in (10) does not
 
 depend on the initial state X0 according to Lemma 3C
 
-## so we abuse the
+so we abuse the
 
 notation by simply ignoring the initial state in this sort of expression.
 
-## sufficiently negative w
+sufficiently negative w
 
-## there is no (c
+there is no (c
 
-## θ) that is feasible for (10)
+θ) that is feasible for (10)
 
-## in which
+in which
 
 case we take Vt(i, w) = −∞.
 
-### For initial wealth w = 0 and time t = 0
+For initial wealth w = 0 and time t = 0
 
-## (10)
+(10)
 
 is equivalent to problem (2.
 
 4) with Sj = Yj(Xj) for any time j.
 
-## We now define a sequence Vt
+# We now define a sequence Vt
 
 …, VT of functions on Z × R intoR that will eventually be shown to coincide with the value functions V_t.
 
 We first define V_T = 0.
 
-## For t < T
+For t < T
 
 we recursively define F_t by the Bellman equation
 
 c, δ ∈ ℝ₊ × ℝ,
 
-## where
+where
 
 G_t(i, ω) = u(c) + E[ F_{t+1}(X_{t+1}
 
@@ -6152,77 +6152,77 @@ have essentially the same proof.
 
 **54 3.
 
-### The Dynamic Programming Approach**
+The Dynamic Programming Approach**
 
 Proposition.
 
-## For any i in Z and t < T
+For any i in Z and t < T
 
-## the function F_t(i
+the function F_t(i
 
 ·): ℝ → ℝ
 
-## restricted
+restricted
 
-### to its domain of finiteness {ω
+to its domain of finiteness {ω
 
 F_t(i, ω) > -∞} is strictly concave and increasing.
 
 If (c, δ) solves (12) and c > 0
 
-## then F_t(i
+then F_t(i
 
-### ·) is continuously differentiable at ω
+·) is continuously differentiable at ω
 
 with derivative F_{t,ω}(i, ω) = u'(c).
 
 It can be shown as an exercise that unless the constraint of (12) is
 
-## infeasible
+infeasible
 
 a solution to (12) always exists.
 
 In this case, for any i, t, and ω,
 
-## let [C_t(i
+let [C_t(i
 
 ω), D_t(i
 
 ω)] denote a solution.
 
-### We can then define the associated
+# We can then define the associated
 
-## wealth process W* recursively
+wealth process W* recursively
 
-## for any initial condition ω
+for any initial condition ω
 
-## by W_T = ω and
+by W_T = ω and
 
-## W_t = D_t(X_t
+W_t = D_t(X_t
 
-## W_{t+1}) [ c_t = C_t(X_t
+W_{t+1}) [ c_t = C_t(X_t
 
-## W_{t+1}) + D_t(X_t
+W_{t+1}) + D_t(X_t
 
 W_{t+1}) f_o(X_{t+1}) ].
 
-## Let (c*
+Let (c*
 
-## δ*) be defined
+δ*) be defined
 
-## at each t
+at each t
 
-## by c*_t = C_t(X_t
+by c*_t = C_t(X_t
 
-## W*_{t+1}) and δ*_t = D_t(X_t
+W*_{t+1}) and δ*_t = D_t(X_t
 
 W*_{t+1}).
 
-## The fact that (c*
+The fact that (c*
 
 δ*) solves (10) for t = 0 can be shown as follows
 
-## Let (c
+Let (c
 
 δ) be an arbitrary feasible policy.
 
@@ -6230,21 +6230,21 @@ For each t, from the Bellman
 
 equation (12),
 
-## F_t(X_t
+F_t(X_t
 
-### w_t) ≥ u_t(c_t) + E[F_{t+1}(X_{t+1}
+w_t) ≥ u_t(c_t) + E[F_{t+1}(X_{t+1}
 
 c_t - [f_o(X_{t+1}) + f_1(X_{t+1})]) | X_t]
 
 Rearranging this inequality and applying the law of iterated expectations
 
-## E[F_t(X_t
+E[F_t(X_t
 
-## w_t)] - E[F_{t+1}(X_{t+1}
+w_t)] - E[F_{t+1}(X_{t+1}
 
 w_{t+1})] ≥ E[u_t(c_t)].
 
-## (13)
+(13)
 
 Adding (13) from t = 0 to t = T shows that V_0(X_0
 
@@ -6252,37 +6252,37 @@ w_0) = U(c).
 
 Repeating the same calculations for the special policy (c
 
-## δ) = (c*
+δ) = (c*
 
 allows us to replace the inequality in (13) with an equality
 
-## leaving
+leaving
 
 V_0(X_0, w_0) = U(c*).
 
 This shows that U(c*) > U(c) for any feasible (c
 
-## meaning that (c*
+meaning that (c*
 
 δ*) indeed solves (10) for t = 0.
 
-## An optimal policy
+# An optimal policy
 
 can thus be captured in feedback-policy form in terms of the functions C_t
 
 and D_t, t < T.
 
-### We also see that for all t < T
+We also see that for all t < T
 
-## F_t = V_t
+F_t = V_t
 
-## so V_t inherits the
+so V_t inherits the
 
 properties of F_t given by the last proposition.
 
 We can now recover the stochastic Euler equation (9) directly from
 
-### the first-order conditions to (12)
+the first-order conditions to (12)
 
 rather than from the more general first-
 
@@ -6302,31 +6302,31 @@ u'(c_t) = E_t [ (δ_{t+1} / S_t) u'(c_{t+1}) ].
 
 **F.
 
-### Markov Arbitrage-Free Valuation 55**
+Markov Arbitrage-Free Valuation 55**
 
 The theorem follows from the necessity and sufficiency of the first-order
 
-## conditions for (12)
+conditions for (12)
 
 relying on the last proposition for the fact that
 
 F_{t,ω}(X_t, W_{t+1}) = u'(c_t).
 
-## (14)
+(14)
 
-## In a single-agent model
+# In a single-agent model
 
-## we define a sequence {S_0
+we define a sequence {S_0
 
 , S_T} of security-
 
 price functions to be a single-agent equilibrium if (c
 
-## δ) = (e
+δ) = (e
 
-## 0) (no trade) solves
+0) (no trade) solves
 
-## (10) for t = 0
+(10) for t = 0
 
 w = 0, and any initial shock i.
 
@@ -6336,25 +6336,25 @@ Corollary.
 
 , S_T} is a single-agent equilibrium if and only if S_0 = 0 and
 
-## for all t < T
+for all t < T
 
 the stochastic Euler equation (9) is satisfied taking c* = e.
 
 **F.
 
-### Markov Arbitrage-Free Valuation**
+Markov Arbitrage-Free Valuation**
 
 Taking the setting of Markov uncertainty described in Section C
 
 assuming no particular optimality properties or equilibrium
 
-## suppose that
+suppose that
 
-### security prices and dividends are given
+security prices and dividends are given
 
-## at each t
+at each t
 
-## by functions S_t and h_t
+by functions S_t and h_t
 
 on Z into ℝ^k.
 
@@ -6362,13 +6362,13 @@ We also suppose that a state-price deflator π is given by
 
 π_t S_t(X_t) = E_t [ π_{t+1} (h_{t+1}(X_{t+1}) + S_{t+1}(X_{t+1})) ].
 
-## (15)
+(15)
 
-### In the special setting of Section E
+# In the special setting of Section E
 
-## for example
+for example
 
-## (9) tells us that we can
+(9) tells us that we can
 
 take ψ(i) = w[g(i)].
 
@@ -6376,11 +6376,11 @@ Since Z = {1, .
 
 , k} for some integer k
 
-## we can abuse the notation
+we can abuse the notation
 
-### by treating any function such as ψ
+by treating any function such as ψ
 
-### Z → ℝ interchangeably as a vector
+Z → ℝ interchangeably as a vector
 
 in ℝ^k denoted ψ, with ith element ψ(i).
 
@@ -6392,51 +6392,51 @@ In this sense, (15) can also be written
 
 S_t = Π_t (h_{t+1} + S_{t+1}), (16)
 
-### where Π_t is the k × k matrix with (i
+where Π_t is the k × k matrix with (i
 
 j)-element π_{t+1}(j) ψ(i) / π_t(i).
 
-## For each
+# For each
 
-## t and s ≥ t
+t and s ≥ t
 
-## we let Π_{t
+we let Π_{t
 
 s} = Π_t Π_{t+1} … Π_{s-1}.
 
 Then (16) is equivalent to, for
 
-## any t and τ ≥ t
+any t and τ ≥ t
 
-## As an example
+# As an example
 
 consider the “binomial” model of Exercise 2.
 
-## We can
+# We can
 
 let Z = {0,1,.
 
 , T}, with shock i having the interpretation
 
-## “There have
+“There have
 
 so far occurred i ‘up’ returns on the stock
 
 ” as illustrated in Figure 3.
 
-## 1 for
+1 for
 
 the case T = 6.
 
 **56 3.
 
-### The Dynamic Programming Approach**
+The Dynamic Programming Approach**
 
-### [A Binomial Tree](image_placeholder)
+[A Binomial Tree](image_placeholder)
 
 Figure 3.
 
-## A Binomial Tree
+# A Binomial Tree
 
 From the calculations in Exercise 2.
 
@@ -6444,7 +6444,7 @@ From the calculations in Exercise 2.
 
 may choose Π_t = P, where
 
-## P = [ p_ij ] with
+P = [ p_ij ] with
 
 p_{i,i+1} = p,
 
@@ -6452,37 +6452,37 @@ p_{i,i-1} = 1 - p,
 
 = 0, otherwise,
 
-## where p = (R - D)/(U - D)
+where p = (R - D)/(U - D)
 
-## for constant coefficients R
+for constant coefficients R
 
 U, and D
 
-## with
+with
 
-## 0 < D < R < U.
+0 < D < R < U.
 
 For a given initial stock price x and any i ∈ Z
 
-## the stock-
+the stock-
 
 price process S of Exercise 2.
 
-### 1 can indeed be represented at each time t
+1 can indeed be represented at each time t
 
-## by S_t
+by S_t
 
 Z → ℝ, where S_t(i) = x U^i D^{t-i}.
 
 We can recover the “binomial” option-pricing formula (2.
 
-## 16) by not-
+16) by not-
 
 ing that the European call option with strike price K and expiration time
 
 T may be treated as a security with dividends only at time T given by the
 
-## function g
+function g
 
 Z → ℝ, with g(i) = [S_T(i) - K]^+.
 
@@ -6502,11 +6502,11 @@ Z → ℝ.
 
 **G.
 
-### Early Exercise and Optimal Stopping**
+Early Exercise and Optimal Stopping**
 
 In the general Markov setting of Section F
 
-## consider an “American” secu-
+consider an “American” secu-
 
 rity, defined by some payoff functions g_t
 
@@ -6514,17 +6514,17 @@ Z → ℝ, t ∈ {0
 
 , T}.
 
-## explained in Section 2I
+explained in Section 2I
 
 the security is a claim to the dividend g_t(X_t)
 
 at any stopping time τ selected by the owner.
 
-## Expiration of the security
+# Expiration of the security
 
 at some time τ is handled by defining g_t to be zero for t > τ.
 
-## Given a
+# Given a
 
 **G.
 
@@ -6532,55 +6532,55 @@ Early Exercise and Optimal Stopping 57**
 
 state-price deflator π defined by π = ψ_t(X_t)
 
-## as outlined in the previous
+as outlined in the previous
 
-## section
+section
 
 the rational exercise problem (2.
 
 13) for the American security,
 
-### with initial shock i is given by
+with initial shock i is given by
 
 where J is the set of stopping times bounded by T.
 
-## As explained in
+# As explained in
 
-## Section 2I
+# Section 2I
 
 if the American security is redundant and there is no arbitrage
 
 then J_0(i) is its cum-dividend value at time 0 with initial shock i.
 
-## Bellman equation for (18) is
+Bellman equation for (18) is
 
-## J_t(X_t) = max { g_t(X_t)
+J_t(X_t) = max { g_t(X_t)
 
 E_t[ π_{t+1} J_{t+1}(X_{t+1}) / π_t(X_t) ] }.
 
-## (19)
+(19)
 
 It is left as an exercise to show that J_t is indeed determined inductively
 
-## backward in time from T
+backward in time from T
 
 by (19) and J_T = g_T.
 
 Moreover, as demon-
 
-## strated in Section 2I
+strated in Section 2I
 
 problem (18) is solved by the stopping time
 
 τ = min { t : J_t(X_t) = g_t(X_t) }.
 
-## (20)
+(20)
 
 In our alternate notation that treats J_t as a vector in ℝ^k
 
-## we can rewrite
+we can rewrite
 
-### the Bellman equation (19) in the form
+the Bellman equation (19) in the form
 
 J_t = max ( g_t, Π_t J_{t+1} ), (21)
 
@@ -6594,63 +6594,63 @@ The Bellman equation (21) leads to a simple recursive solution algo-
 
 rithm for the American put valuation problem of Exercise 2.
 
-## Given an
+# Given an
 
 expiration time τ < T and exercise price K
 
-## we have J_τ = 0 and
+we have J_τ = 0 and
 
-## J_t = max [ (K - S_t)^+
+J_t = max [ (K - S_t)^+
 
-## Π_t J_{t+1} ]
+Π_t J_{t+1} ]
 
 t < τ.
 
-## (22)
+(22)
 
 More explicitly: For any t and i ∈ Z
 
-### J_t(i) = max [ (K - x U^i D^{t-i})^+
+J_t(i) = max [ (K - x U^i D^{t-i})^+
 
-### p J_{t+1}(i+1) + (1-p) J_{t+1}(i-1) ]
+p J_{t+1}(i+1) + (1-p) J_{t+1}(i-1) ]
 
-## (23)
+(23)
 
 where S_t(i) = x U^i D^{t-i} and p = (R - D)/(U - D)
 
-## for constant coefficients
+for constant coefficients
 
 R, U, and D, with 0 < D < R < U.
 
-## More generally
+# More generally
 
 consider an American security defined by dividend func-
 
-## tions h_0
+tions h_0
 
 …, h_T and exercise payoff functions g_0
 
 …, g_T.
 
-## For a given expi-
+# For a given expi-
 
-## ration time τ
+ration time τ
 
-## we have h_t = g_t = 0
+we have h_t = g_t = 0
 
 t > τ.
 
-## The owner of the security
+# The owner of the security
 
 **58 3.
 
-### The Dynamic Programming Approach**
+The Dynamic Programming Approach**
 
 chooses a stopping time τ at which to exercise
 
-## generating the dividend
+generating the dividend
 
-## process d^τ defined by
+process d^τ defined by
 
 d^τ_t = h_t(X_t), t < τ,
 
@@ -6660,7 +6660,7 @@ d^τ_t = h_t(X_t), t < τ,
 
 Assuming that d^τ is redundant for any exercise policy τ
 
-## the security’s
+the security’s
 
 arbitrage-free cum-dividend value is defined recursively by J_τ = 0 and
 
@@ -6668,9 +6668,9 @@ the extension of (21):
 
 J_t = max ( g_t, h_t + Π_t J_{t+1} ).
 
-## (24)
+(24)
 
-## **Exercises**
+**Exercises**
 
 1 Consider the classical “binomial” model of a price process S developed inwhere A and B are scalars and is an i.
 
@@ -6694,7 +6694,7 @@ This example is unlikely to satisfy the regularity conditions that you imposed i
 
 For the consumption endowment process defined by the solution to part (D)
 
-### return to the setting of part (B)
+return to the setting of part (B)
 
 and calculate the price at time of a pure discount bond paying one unit of consumption at time .
 
@@ -6702,31 +6702,31 @@ Note that is a measure of risk tolerance that can be studied independently of th
 
 since, for deterministic consumption processes
 
-## utility is independent of
+utility is independent of
 
 with .
 
-### 10 Show equation (5) directly from equation (2.
+10 Show equation (5) directly from equation (2.
 
-### 11 (Binomial Term-Structure Algorithms).
+11 (Binomial Term-Structure Algorithms).
 
 This exercise asks for a series of numerical solutions of term-structure valuation problems in a setting with binomial changes in short-term interest rates.
 
-## In the setting of Section F
+# In the setting of Section F
 
-### under the absence of arbitrage
+under the absence of arbitrage
 
 suppose that short-term riskless borrowing is possible at any time at the discount .
 
 The one-period interest rate at time is denoted
 
-### and is given by its definition
+and is given by its definition
 
 The underlying shock process has the property that either or .
 
-## That is
+# That is
 
-## in each period
+in each period
 
 the new shock is the old shock plus a 0–1 binomial trial.
 
@@ -6734,35 +6734,35 @@ An example is the binomial stock-option pricing model of Exercise 2.
 
 1, which is reconsidered in Section F.
 
-## As opposed to that example
+# As opposed to that example
 
 we do not necessarily assume here that interest rates are constant.
 
-## Rather
+# Rather
 
-## we allow
+we allow
 
-## at each time
+at each time
 
 a function such that .
 
-## For simplicity
+# For simplicity
 
-## however
+however
 
 we take it that at any time the pricing matrix defined in Section F is of the form
 
 where is the “risk-neutral” probability that .
 
-## Literally
+# Literally
 
 we suppose that there is an equivalent martingale measure
 
-## in the sense of chapter 2
+in the sense of chapter 2
 
-## under which
+under which
 
-## for all we have
+for all we have
 
 It may help to imagine the calculation of security prices at the nodes of the “tree” illustrated in Figure 3.
 
@@ -6772,7 +6772,7 @@ the vertical axis corresponds to the possible levels of the shock
 
 assuming that .
 
-### At each time and at each shock level
+# At each time and at each shock level
 
 the price of a given security at the -node of the tree is given by a weighted sum of its value at the two successor nodes and .
 
@@ -6780,25 +6780,25 @@ Specifically,
 
 Two typical models for the short rate are obtained by taking and either
 
-## (a) the Ho–Lee model
+(a) the Ho–Lee model
 
-## For each
+# For each
 
-## for some constants
+for some constants
 
 and ; or
 
-### (b) the Black–Derman–Toy model
+(b) the Black–Derman–Toy model
 
-## For each
+# For each
 
-## for some constants
+for some constants
 
 and .
 
-## (A) For case (b)
+(A) For case (b)
 
-## the Black–Derman–Toy model
+the Black–Derman–Toy model
 
 prepare computer code to calculate the arbitrage-free price of a zero-coupon bond of any given maturity
 
@@ -6812,7 +6812,7 @@ Prepare an example taking for all and such that for all .
 
 for all in .
 
-## (B) Consider
+(B) Consider
 
 for any and the price at time 0 of a security that pays one unit of account at time if and only if .
 
@@ -6826,11 +6826,11 @@ The initial condition is and for .
 
 Knowledge of this “shock-price” function is useful.
 
-## For example
+# For example
 
 the arbitrage-free price at time 0 of a security that pays the dividend at time (and nothing otherwise) is given by .
 
-## (C) In practice
+(C) In practice
 
 the coefficients and are often fitted to match the initial term structure
 
@@ -6842,13 +6842,13 @@ using the fact that .
 
 (a) Let and let .
 
-## (b) Fixing and
+(b) Fixing and
 
 let , where is given by the forward difference equation (28).
 
 Only the dependence of the -maturity zero-coupon bond price on is notationally explicit.
 
-## Since is strictly monotone in
+# Since is strictly monotone in
 
 we can solve numerically for that coefficient such that .
 
@@ -6862,11 +6862,11 @@ Otherwise, stop.
 
 Prepare computer code for this algorithm (a)–(b)–(c).
 
-## Given for all
+# Given for all
 
-## solve for for all
+solve for for all
 
-### using the Black–Derman–Toy model
+using the Black–Derman–Toy model
 
 given an initial term structure that is given by
 
@@ -6878,7 +6878,7 @@ For the coefficients that you determined from part (C)
 
 calculate the initial price of an American option on a bond that pays coupons of 0.
 
-### 013 each period until its maturity at time 20
+013 each period until its maturity at time 20
 
 at which time it pays 1 unit of account in addition to its coupon.
 
@@ -6890,7 +6890,7 @@ and expiration at time 10.
 
 Do this for the Black–Derman–Toy model only.
 
-## **Notes**
+**Notes**
 
 (A–B) Bellman’s principle of optimality is due to Bellman (1957).
 
@@ -6922,7 +6922,7 @@ Ross, and Rubinstein (1979)
 
 and is further explored in Exercise 2.
 
-## 1 and in Chapter 12.
+1 and in Chapter 12.
 
 Additional Topics: Exercise 3.
 
@@ -6932,15 +6932,15 @@ Additional Topics: Exercise 3.
 
 See the Notes of Chapter 2 for additional references on recursive utility
 
-## and Streufert (1991a
+and Streufert (1991a
 
 1991b, 1996) for more on dynamic programming with a recursive-utility function.
 
 For additional work on recursive utility and asset pricing in a discrete-time Markov setting
 
-## see Kan (1993
+see Kan (1993
 
-## 1995) and Ma (1993b
+1995) and Ma (1993b
 
 1994).
 
@@ -6952,11 +6952,11 @@ This connection is reconsidered in Chapters 7 and 12 for continuous-time applica
 
 The two particular term-structure models appearing in this exercise are based
 
-## respectively
+respectively
 
-### on Ho and Lee (1986) and Black
+on Ho and Lee (1986) and Black
 
-## Derman
+# Derman
 
 and Toy (1990).
 
@@ -6970,19 +6970,19 @@ For any time by the Bellman equation (7)–(9)
 
 Multiplying through by and rearranging,
 
-### Taking expectations on each side
+# Taking expectations on each side
 
 and using the law of iterated expectations
 
 Calculating the sum of this expression from to
 
-## for any time
+for any time
 
 causes telescopic cancellation on the left-hand side
 
-## leaving only
+leaving only
 
-### Since is a bounded function and
+# Since is a bounded function and
 
 the limit of the left-hand side as is .
 
@@ -7000,17 +7000,17 @@ using the definition of and .
 
 This leaves .
 
-## It follows
+# It follows
 
-## since is arbitrary
+since is arbitrary
 
 that is indeed the value function and that is optimal
 
-## in that it solves (2)–(6)
+in that it solves (2)–(6)
 
 proving the result.
 
-### Dynamic Programming and Equilibrium
+# Dynamic Programming and Equilibrium
 
 Section A shows the existence of optimal control in feedback form
 
@@ -7022,11 +7022,11 @@ we adopt stronger utility conditions for this section.
 
 In addition to our standing assumption that is strictly increasing
 
-## bounded
+bounded
 
-## concave
+concave
 
-## and continuous
+and continuous
 
 we add the following regularity condition.
 
@@ -7038,7 +7038,7 @@ We define to be a single-agent Markov equilibrium if associated optimal feedback
 
 and .
 
-## With this
+# With this
 
 the consumption and security markets always clear if the agent is originally endowed with no wealth beyond that of his or her private endowment.
 
@@ -7052,9 +7052,9 @@ and since the equilibrium shown (which is the unique equilibrium) does not depen
 
 Proposition.
 
-### is a Markov equilibrium if and only if
+is a Markov equilibrium if and only if
 
-## for all
+for all
 
 The law of iterated expectations implies the following equivalent form of (11)
 
@@ -7062,21 +7062,21 @@ sometimes called the stochastic Euler equation.
 
 Corollary.
 
-### is a Markov equilibrium if and only if
+is a Markov equilibrium if and only if
 
-### for any time and any initial shock
+for any time and any initial shock
 
 We will demonstrate these results by exploiting the following two properties of the value function .
 
 Fact 1.
 
-## For each
+# For each
 
 is increasing and strictly concave.
 
 Fact 2.
 
-## Fixing arbitrarily
+# Fixing arbitrarily
 
 let be optimal feedback policy functions
 
@@ -7086,7 +7086,7 @@ Suppose, at a given and , that .
 
 Then is continuously differentiable at with derivative .
 
-## These two facts
+# These two facts
 
 proved in a manner similar to their analogues in Chapter 3
 
@@ -7098,13 +7098,13 @@ Then (13) is equivalent to (11) and (12)
 
 proving the proposition and corollary.
 
-## Arbitrage and State Prices
+# Arbitrage and State Prices
 
 We turn away from the special case of Markov uncertainty in order to investigate the implications of lack of arbitrage and of optimality for security prices in an abstract infinite-horizon setting.
 
-## Suppose is a set
+# Suppose is a set
 
-## is a tribe on
+is a tribe on
 
 and, for each nonnegative integer
 
@@ -7112,13 +7112,13 @@ is a finite subtribe with for .
 
 We also fix a probability measure on .
 
-## As usual
+# As usual
 
 we assume that includes only events of probability 0 or 1.
 
 We again denote by the space of bounded adapted processes.
 
-## There are securities
+# There are securities
 
 security is defined by a dividend process in and has a price process in .
 
@@ -7126,17 +7126,17 @@ A trading strategy is some .
 
 An arbitrage is a trading strategy with .
 
-## If there is no arbitrage
+# If there is no arbitrage
 
-## then for any
+then for any
 
-## there is no -period arbitrage
+there is no -period arbitrage
 
 meaning an arbitrage with for .
 
-## Fixing momentarily
+# Fixing momentarily
 
-### if there is no -period arbitrage
+if there is no -period arbitrage
 
 then the results of Chapter 2 imply that there is a -period state-price deflator
 
@@ -7144,7 +7144,7 @@ a strictly positive process in with such that for any trading strategy with for
 
 we have .
 
-## Likewise
+# Likewise
 
 there is a -period state-price deflator .
 
@@ -7154,7 +7154,7 @@ It can be checked that the process defined by
 
 is also a -period state-price deflator.
 
-## By induction in
+# By induction in
 
 this means that there is a strictly positive adapted process such that
 
@@ -7162,23 +7162,23 @@ for any trading strategy with for all larger than some
 
 we have .
 
-## In particular
+# In particular
 
-### has the property that for any times and
+has the property that for any times and
 
 we have the now-familiar state-pricing relationship
 
 Equation (14) even holds when is a bounded stopping time.
 
-## Unfortunately
+# Unfortunately
 
 there is no reason (yet) to believe that there is a state-price deflator
 
 a strictly positive adapted process such that (14) holds for an unbounded stopping time
 
-## or that for any
+or that for any
 
-## Indeed
+# Indeed
 
 the right-hand side of (15) may not even be well defined.
 
@@ -7188,21 +7188,21 @@ We call an adapted process mean-summable if
 
 and let denote the space of mean-summable processes.
 
-## If and
+# If and
 
 then the Dominated Convergence Theorem (Appendix C) implies that is well defined and finite
 
 so may be a natural space of candidate state-price deflators if (15) is to work.
 
-## Optimality and State Prices
+# Optimality and State Prices
 
 An agent is defined by an endowment process in the space of nonnegative processes in
 
 and by a strictly increasing utility function .
 
-## Given the dividend-price pair
+# Given the dividend-price pair
 
-## the agent faces the problem
+the agent faces the problem
 
 We say that the utility function is -smooth at if the gradient exists and moreover has a unique Riesz representation in defined by
 
@@ -7210,9 +7210,9 @@ for any feasible direction in .
 
 (See Appendix B for the definition of the gradient and feasible directions.
 
-## ) For example
+) For example
 
-## suppose that is defined by
+suppose that is defined by
 
 where is strictly increasing and continuously differentiable on
 
@@ -7220,21 +7220,21 @@ and where .
 
 Then, for any in that is bounded away from zero
 
-## is -smooth at
+is -smooth at
 
-### any in is a feasible direction at
+any in is a feasible direction at
 
 implying that the Riesz representation of the utility gradient is in this case the process defined by .
 
-## More generally
+# More generally
 
 we have the following characterization of state-price deflators.
 
 Proposition.
 
-## Suppose solves (16)
+Suppose solves (16)
 
-## is bounded away from zero
+is bounded away from zero
 
 and is -smooth at .
 
@@ -7248,7 +7248,7 @@ where and has a strictly positive derivative on .
 
 Then defined by is a state-price deflator and
 
-### for any time and stopping time
+for any time and stopping time
 
 This corollary gives a necessary condition for optimality that
 
@@ -7266,7 +7266,7 @@ give conditions under which the stochastic Euler equation implies that S
 
 is an equilibrium.
 
-## For this
+# For this
 
 we define S to be a single-agent equilibrium if
 
@@ -7274,11 +7274,11 @@ we define S to be a single-agent equilibrium if
 
 Theorem.
 
-### Suppose that U is strictly increasing
+# Suppose that U is strictly increasing
 
-## concave
+concave
 
-## and L*-smooth at the
+and L*-smooth at the
 
 endowment process e.
 
@@ -7288,7 +7288,7 @@ zero.
 
 Let T ∈ L^∞ be the Riesz representation of VU(e).
 
-### It is necessary and sufficient
+# It is necessary and sufficient
 
 for S to be a single-agent equilibrium that T is a state-price deflator.
 
@@ -7296,27 +7296,27 @@ The assumption that e is bounded away from zero is automatically
 
 satisfied in the Markovian example of Section A.
 
-## Proof of the theorem is
+# Proof of the theorem is
 
 assigned as an exercise.
 
-### Method-of-Moments Estimation 73
+# Method-of-Moments Estimation 73
 
-## Method-of-Moments Estimation
+# Method-of-Moments Estimation
 
 Although it is not our main purpose to delve into econometrics
 
-## it seems
+it seems
 
 worthwhile to illustrate here why the infinite-horizon setting is useful for
 
 empirical modeling.
 
-## Suppose
+# Suppose
 
-## for some integer m > 1
+for some integer m > 1
 
-### that B ⊂ R^m is a set of parame-
+that B ⊂ R^m is a set of parame-
 
 ters.
 
@@ -7324,27 +7324,27 @@ Each b in B corresponds to a different Markov economy with the
 
 same state space Z.
 
-## In particular
+# In particular
 
 the transition matrix q(b) of the Markov
 
 process X may vary with b.
 
-## For instance
+# For instance
 
-## we could take a single agent
+we could take a single agent
 
 with utility given by a discount factor ρ ∈ (0
 
-## 1) and a reward function
+1) and a reward function
 
 u(x) = x^α/α for α < 1 (with x₀(x) = log x).
 
-## We could then take m = 2
+We could then take m = 2
 
 matrix q(·) does not depend on b.
 
-## We fix some b₀ in B
+We fix some b₀ in B
 
 to be thought of as the “true” parameter vector
 
@@ -7354,13 +7354,13 @@ Our goal is to estimate the unknown parameter
 
 vector b₀.
 
-## For simplicity
+# For simplicity
 
 we will assume that the transition matrix q(b₀) of X is
 
 strictly positive.
 
-## With this
+# With this
 
 a result known as the Frobenius-Perron Theorem
 
@@ -7370,11 +7370,11 @@ with the property that q(b₀)'π = π.
 
 Letting q(b₀)^t denote the t-fold product
 
-## of q(b₀)
+of q(b₀)
 
 we see that P(X_t = j | X_0 = i) = [q(b₀)^t]_{ij}
 
-### so that q(b₀)^t is the t-period
+so that q(b₀)^t is the t-period
 
 transition matrix.
 
@@ -7392,25 +7392,25 @@ in the sense that there is a constant B > 1 such that for any i and t
 
 B^t |π_j − P_i(X_t = j)| > 0.
 
-## (18)
+(18)
 
-## From this
+# From this
 
-### it follows immediately that for any H
+it follows immediately that for any H
 
-## Z → ℝ and any initial
+Z → ℝ and any initial
 
-## condition i ∈ Z
+condition i ∈ Z
 
-### we have E_i[H(X_t)] → ∑_j π_j H(j)
+we have E_i[H(X_t)] → ∑_j π_j H(j)
 
-## and again conver-
+and again conver-
 
 gence is exponentially fast.
 
 The empirical distribution vector hat{p} of X at time
 
-## T is defined by
+# T is defined by
 
 hat{p}_i = #{t ≤ T : X_t = i} / T,
 
@@ -7418,19 +7418,19 @@ where #A denotes the number of elements in a finite set A.
 
 That is, hat{p}_i
 
-### is the average fraction of time
+is the average fraction of time
 
-## up to T
+up to T
 
 spent in state i.
 
-## From the law of
+# From the law of
 
 large numbers for i.
 
-## sequences of random variables
+sequences of random variables
 
-## it is not hard to
+it is not hard to
 
 show that hat{p}_i converges almost surely to the steady-state distribution vector
 
@@ -7442,15 +7442,15 @@ Proof of this fact is assigned as Exercise 4.
 
 hint.
 
-## From this
+# From this
 
 we have the following form of the law of large numbers for
 
 Markov chains.
 
-## --- Page 47 ---
+--- Page 47 ---
 
-### 74 4. The Infinite-Horizon Setting
+74 4. The Infinite-Horizon Setting
 
 The Strong Law of Large Numbers for Markov Chains.
 
@@ -7462,7 +7462,7 @@ mean ∑_{i∈Z} π_i H(i).
 
 Proof: Since (1/T) ∑_{t=1}^T H(X_t) = ∑_i hat{p}_i H(i)
 
-### the result follows from the fact
+the result follows from the fact
 
 that hat{p}_i → π_i almost surely.
 
@@ -7470,7 +7470,7 @@ Suppose that there is some integer ℓ ≥ 0 such that for each time
 
 t, the econometrician observes at time t + ℓ the data h(Y_t)
 
-## where Y_t =
+where Y_t =
 
 (X_t, X_{t+1}, .
 
@@ -7478,27 +7478,27 @@ t, the econometrician observes at time t + ℓ the data h(Y_t)
 
 For example, the data could be in
 
-## the form of security prices
+the form of security prices
 
-## dividends
+dividends
 
-## endowments
+endowments
 
 or functions of these.
 
 It is easy to check that the strong law of large numbers would apply even
 
-### if q(b₀) were not strictly positive
+if q(b₀) were not strictly positive
 
-### provided the t-period transition matrix
+provided the t-period transition matrix
 
 q(b₀)^t is strictly positive for some t.
 
-## From this fact
+# From this fact
 
-## Z also satisfies the strong
+# Z also satisfies the strong
 
-## law of large numbers
+law of large numbers
 
 since Y can be treated as a Markov process whose
 
@@ -7508,7 +7508,7 @@ In particular, for any G :
 
 Z^{ℓ+1} → ℝ the empirical average (1/T) ∑_{t=1}^T G(Y_t) converges almost surely to
 
-### the corresponding steady-state mean
+the corresponding steady-state mean
 
 which is also equal to lim_{t→∞} E^∞[G(Y_t)]
 
@@ -7516,75 +7516,75 @@ a quantity that is independent of the initial shock i.
 
 We now specify some test moment function K
 
-## ℝ^n × B → ℝ^M
+ℝ^n × B → ℝ^M
 
-## for some
+for some
 
-## integer M
+integer M
 
-### with the property that for all b
+with the property that for all b
 
-## E^∞[K(A(Y_t)
+E^∞[K(A(Y_t)
 
 b₀)] = 0.
 
-## For a sim-
+# For a sim-
 
-## ple example
+ple example
 
 we could take the single-agent Markov equilibrium described
 
-### by the stochastic Euler equation (13)
+by the stochastic Euler equation (13)
 
-### where the utility function is spec-
+where the utility function is spec-
 
 ified as above by the unknown parameter vector b₀ = (ρ₀
 
 α₀).
 
-## For this
+# For this
 
-## example
+example
 
-## we can let Y_t = (X_t
+we can let Y_t = (X_t
 
-### X_{t+1}) and let A(Y_t) = (R_{t+1}
+X_{t+1}) and let A(Y_t) = (R_{t+1}
 
-## e_{t+1}
+e_{t+1}
 
 e_t), where
 
 e_t = g(X_t) is the current endowment and R_{t+1} is the ℝ^N-valued return vector
 
-## defined by
+defined by
 
 R_{t+1} = [g(X_{t+1}) + ρ X_{t+1}] / [g(X_t) + ρ X_t]
 
-## for i ∈ {1
+for i ∈ {1
 
 ,N}.
 
 With M = N and b = (ρ, α), we can let
 
-## K(A(Y_t)
+K(A(Y_t)
 
 b) = ρ R_{t+1} − [e_{t+1}/e_t]^{α−1}.
 
-## (19)
+(19)
 
-## From (13)
+From (13)
 
-## we confirm that E^∞[K(Y_t
+we confirm that E^∞[K(Y_t
 
 b₀)] = 0.
 
 We know from the strong law of large numbers that
 
-## for each b in B
+for each b in B
 
 the empirical average K_T(b) = (1/T) ∑_{t=1}^T K(Y_t
 
-## b) converges almost surely to
+b) converges almost surely to
 
 its stationary mean, denoted K_∞(b).
 
@@ -7592,25 +7592,25 @@ By the law of iterated expectations,
 
 for any initial state i,
 
-## E_i[K(Y_t
+E_i[K(Y_t
 
-## b₀)] = E_i[E^∞[K(Y_t
+b₀)] = E_i[E^∞[K(Y_t
 
 b₀)]] = 0.
 
-### E Method-of-Moments Estimation 75
+# E Method-of-Moments Estimation 75
 
-## From this
+# From this
 
 we know that K_∞(b₀) = 0 almost surely.
 
-## A natural estimator of
+# A natural estimator of
 
 b₀ at time T is then given by a solution hat{b}_T to the problem
 
 min_{b∈B} ||K_T(b)||^2.
 
-## (20)
+(20)
 
 Any such sequence {hat{b}_T} of solutions to (20) is called a generalized-method-of-
 
@@ -7618,7 +7618,7 @@ moments, or GMM, estimator of b₀.
 
 Under conditions, one can show that
 
-## a GMM estimator is consistent
+a GMM estimator is consistent
 
 in the sense that hat{b}_T → b₀ almost surely.
 
@@ -7628,13 +7628,13 @@ GMM Regularity Conditions.
 
 The parameter set B is compact.
 
-## For any b in B
+# For any b in B
 
 other than b₀, K_∞(b) ≠ 0.
 
 The function K is Lipschitz with respect to b
 
-## in the
+in the
 
 sense that there is a constant k such that
 
@@ -7646,9 +7646,9 @@ B, we have
 
 Theorem.
 
-### Under the GMM regularity conditions
+# Under the GMM regularity conditions
 
-### a GMM estimator exists and any
+a GMM estimator exists and any
 
 GMM estimator is consistent.
 
@@ -7666,55 +7666,55 @@ Notes.
 
 Without loss of generality for the following arguments
 
-## we can take
+we can take
 
 M = 1.
 
 Since B is a compact set and K is Lipschitz with respect to b
 
-## each ε ∈ (0
+each ε ∈ (0
 
 ∞) there is a finite set B_ε ⊂ B with the following property
 
-## For any b in B
+# For any b in B
 
 there is some b^0 and b^1 in B_ε satisfying
 
-## for all y
+for all y
 
 K(y, b^0) ≤ K(y
 
-## b) ≤ K(y
+b) ≤ K(y
 
 b^1), |K(y
 
-## b) − K(y
+b) − K(y
 
 b^0)| < ε.
 
-## (21)
+(21)
 
-## As is customary
+# As is customary
 
-### for any sequence {x_n} of numbers
+for any sequence {x_n} of numbers
 
-## we let
+we let
 
 lim_{n→∞} x_n = sup_{n} inf_{m≥n} x_m.
 
-## --- Page 48 ---
+--- Page 48 ---
 
-### 76 4. The Infinite-Horizon Setting
+76 4. The Infinite-Horizon Setting
 
 For a given ε > 0,
 
-## + inf [K_∞(b^0) − K_∞(b)]
++ inf [K_∞(b^0) − K_∞(b)]
 
-### ≥ lim_{T→∞} inf [K_T(b^0) − K_∞(b^0)]
+≥ lim_{T→∞} inf [K_T(b^0) − K_∞(b^0)]
 
 − ε almost surely,
 
-### by the strong law of large numbers
+by the strong law of large numbers
 
 (21), and the fact that B_ε is finite.
 
@@ -7722,27 +7722,27 @@ A_ε ⊂ Ω be the event of probability 1 on which this inequality holds
 
 let A = ∩_ε A_ε.
 
-## Then A also has probability 1
+# Then A also has probability 1
 
-## and on A we have
+and on A we have
 
 lim_{T→∞} inf [K_T(b) − K_∞(b)] ≥ 0.
 
-## (22)
+(22)
 
-## Likewise
+# Likewise
 
-## by using b in place of b
+by using b in place of b
 
-## and −K in place of K
+and −K in place of K
 
-## we have
+we have
 
 lim_{T→∞} inf [−K_T(b) + K_∞(b)] = 0 almost surely.
 
-## (23)
+(23)
 
-## □)
+□)
 
 The claim follows from (22) and (23).
 
@@ -7758,15 +7758,15 @@ mality of the limit of the distribution of √T(hat{b}_T − b₀) as well as th
 
 of covariance matrix Ω of this asymptotic distribution.
 
-## As shown in these
+# As shown in these
 
-## references
+references
 
 the efficiency properties of the GMM estimator
 
-## in terms of
+in terms of
 
-### this asymptotic covariance matrix Ω
+this asymptotic covariance matrix Ω
 
 can be improved by replacing thecriterion function β + || K_t(d) || in (20) with the criterion function β K_t(β) W_t K_t(β)
 
@@ -7774,35 +7774,35 @@ for a particular adapted sequence {W_t} of positive semi-definite “weighting�
 
 Other papers cited in the Notes apply GMM estimators in a financial setting.
 
-## Exercises
+# Exercises
 
-## 4.1 Prove Fact 4A.
+# 4.1 Prove Fact 4A.
 
-## 4.2 Prove Lemma 4A.
+# 4.2 Prove Lemma 4A.
 
-## 4.8 Prove Proposition 4A.
+# 4.8 Prove Proposition 4A.
 
-### 4.4 Prove Fact 1 of Section B.
+# 4.4 Prove Fact 1 of Section B.
 
-## Exercises 77
+# Exercises 77
 
-### 4.5 Prove Fact 2 of Section B.
+# 4.5 Prove Fact 2 of Section B.
 
 6 Show that (13) is necessary and sufficient for optimality of C(i
 
-## 0) = g(i) and
+0) = g(i) and
 
 (i, 0) = 0, that is, for equilibrium.
 
-## 7 Show that (11)
+7 Show that (11)
 
 (12), and (13) are equivalent.
 
-### 8 Show that the constraint (9)
+8 Show that the constraint (9)
 
-### placing a lower bound on portfolios
+placing a lower bound on portfolios
 
-## is not
+is not
 
 binding in a Markov equilibrium.
 
@@ -7812,13 +7812,13 @@ process d satisfying d_t > -1 for all t.
 
 The utility function U is defined by (1)
 
-## where
+where
 
 u(x) = x^α / α for α < 1 and α ≠ 0.
 
 The endowment process e is given by e_0 = 0
 
-## e_t > 1
+e_t > 1
 
 for t > 1, and e_t = w > 0.
 
@@ -7826,9 +7826,9 @@ Let 𝒫 denote the space of nonnegative adapted processes.
 
 With a nonnegative wealth constraint and no other bounding restrictions
 
-### agent’s problem is modified to
+agent’s problem is modified to
 
-## sup U(c)
+sup U(c)
 
 coh,
 
@@ -7840,13 +7840,13 @@ t>1.
 
 (A) Suppose δ_t = ε for all t where ε > -1 is a constant.
 
-## Provide regularity condi-
+# Provide regularity condi-
 
-## tions on α
+tions on α
 
 ρ, and ε under which there exists a solution to (24).
 
-## Solve for the value
+# Solve for the value
 
 function and the optimal consumption control.
 
@@ -7858,35 +7858,35 @@ constant k.
 
 Solve the Bellman equation explicitly for V
 
-## and then show that the
+and then show that the
 
 Bellman equation characterizes optimality by showing that V(w) ≥ U(c) for any
 
-## feasible c
+feasible c
 
-## and that V(w) = U(c*)
+and that V(w) = U(c*)
 
 where c* is your candidate control.
 
 Note thatA related issue of speculative bubbles is addressed by Gilles and
 
-## (1992a
+(1992a
 
 1992b, 1998)
 
-## Magill and Quinzii (1996a)
+Magill and Quinzii (1996a)
 
-## and Santos and Woodford
+and Santos and Woodford
 
 (1995).
 
-## Kurz (1993
+Kurz (1993
 
 1997, 1998)
 
-## Kurz and Beltratti (1996)
+Kurz and Beltratti (1996)
 
-## and Kurz and Motolese
+and Kurz and Motolese
 
 (1999) develop the implications of stationarity and rationality in this setting
 
@@ -7894,11 +7894,11 @@ proposing a rational-beliefs model that allows individual probability assessment
 
 of agents to be restricted only by absence of conflict with long-run empirical
 
-## data (Ke and Shannon
+data (Ke and Shannon
 
-### 1996 gives conditions for determinacy.
+1996 gives conditions for determinacy.
 
-## Hansen and Sargent
+# Hansen and Sargent
 
 (1990) have worked out extensive examples for equilibrium in this setting with
 
@@ -7906,23 +7906,23 @@ quadratic utilities and linear dynamics.
 
 A spate of literature has addressed the issue of asset pricing with hetero-
 
-### geneous agents and incomplete markets
+geneous agents and incomplete markets
 
-### partly spurred by the equity-premium
+partly spurred by the equity-premium
 
 puzzle pointed out by Mehra and Prescott (1985)
 
-## showing the difference in
+showing the difference in
 
 expected returns between equity and riskless bonds to be far in excess of
 
 what one would find from a typical representative-agent model.
 
-## Bewley (1982)
+Bewley (1982)
 
-## --- Page 50 ---
+--- Page 50 ---
 
-### 80 4. The Infinite-Horizon Setting
+80 4. The Infinite-Horizon Setting
 
 and Mankiw (1986) have seminal examples of the effects of incomplete mar-
 
@@ -7930,69 +7930,69 @@ kets.
 
 The more recent literature includes Acharya and Madan (1993)
 
-## Aiyagari
+# Aiyagari
 
-## and Gertler (1991)
+and Gertler (1991)
 
-## Calvet (1999)
+Calvet (1999)
 
-### Constantinides and Duffie (1996)
+Constantinides and Duffie (1996)
 
-## Duffie
+# Duffie
 
-## (1992)
+(1992)
 
-## Haan (1996)
+Haan (1996)
 
-## Heaton and Lucas (1996)
+Heaton and Lucas (1996)
 
-## Judd (1997)
+Judd (1997)
 
-## Levine and Zame
+# Levine and Zame
 
-## (1999)
+(1999)
 
-## Lucas (1994)
+Lucas (1994)
 
-## Marcet and Singleton (1999)
+Marcet and Singleton (1999)
 
-## Mehrling (1990
+Mehrling (1990
 
 1998),
 
-## Sandroni (1995)
+Sandroni (1995)
 
-## Scheinkman (1989)
+Scheinkman (1989)
 
-## Scheinkman and Weiss (1986)
+Scheinkman and Weiss (1986)
 
-## Svensson
+# Svensson
 
-## and Werner (1993)
+and Werner (1993)
 
-## Telmer (1993)
+Telmer (1993)
 
 and Weil (1992).
 
-## Others have attempted
+# Others have attempted
 
 to resolve the perceived equity-premium puzzle by turning to more gen-
 
-## eral utility functions
+eral utility functions
 
-### such as the habit-formation model (see
+such as the habit-formation model (see
 
-## for example
+for example
 
 Constantinides (1990) and Hansen and Jagannathan (1990)) or the recursive
 
-### model (see Epstein and Zin (1989
+model (see Epstein and Zin (1989
 
 1991)).
 
 For the effect of first-order risk aver-
 
-## sion or Knightian uncertainty
+sion or Knightian uncertainty
 
 see Epstein and Wang (1994).
 
@@ -8002,9 +8002,9 @@ Schmedders (1997) and Santos and Vigo (1998) treat the computation of equi-
 
 libria in this setting.
 
-### For more on computation of equilibria
+# For more on computation of equilibria
 
-## see the Notes of
+see the Notes of
 
 Chapters 1, 2, and 12.
 
@@ -8014,29 +8014,29 @@ costs in this setting.
 
 Cover and Ordentlich (1996) is a recent example of the
 
-### literature on optimal long-run returns
+literature on optimal long-run returns
 
 sometimes called log-optimal growth-rate
 
 models.
 
-## Barberis
+# Barberis
 
 Huang, and Santos (1999) proposed a limited-rationality asset pric-
 
 ing model that stressed the role of investors’ aversion to negative asset returns.
 
-## II
+II
 
-## Continuous-Time Models
+# Continuous-Time Models
 
 Part II is a continuous-time counterpart to Part I.
 
-## The results are somewhat
+# The results are somewhat
 
 richer and more delicate than those in Part I
 
-## with a greater dependence
+with a greater dependence
 
 on mathematical technicalities.
 
@@ -8044,13 +8044,13 @@ It is wiser to focus on the parallels than on
 
 these technicalities.
 
-## Once again
+# Once again
 
 the three basic forces behind the theory
 
-## are arbitrage
+are arbitrage
 
-## optimality
+optimality
 
 and equilibrium.
 
@@ -8068,37 +8068,37 @@ prices in continuous time.
 
 Chapter 7 presents models of the term structure
 
-## of interest rates
+of interest rates
 
-### including the Black-Derman-Toy
+including the Black-Derman-Toy
 
-## Vasicek
+# Vasicek
 
-## Cox-Ingersoll-
+# Cox-Ingersoll-
 
 Ross, and Heath-Jarrow-Morton models
 
 as well as extensions.
 
-## Chapter 8
+# Chapter 8
 
 presents specific classes of derivative securities
 
-## such as futures
+such as futures
 
-## forwards
+forwards
 
 American options, and lookback options.
 
-### Chapter 8 also introduces models
+# Chapter 8 also introduces models
 
 of option pricing with stochastic volatility.
 
-### Chapter 9 is a summary of opti-
+# Chapter 9 is a summary of opti-
 
-### mal continuous-time portfolio choice
+mal continuous-time portfolio choice
 
-### using both dynamic programming
+using both dynamic programming
 
 and an approach involving equivalent martingale measures or state prices.
 
@@ -8110,19 +8110,19 @@ capital asset pricing model and the general equilibrium version of the
 
 Cox-Ingersoll-Ross model of the term structure of interest rates.
 
-## Chapter
+# Chapter
 
 11 treats the valuation of equities and corporate bonds
 
-## beginning with
+beginning with
 
-## “structural models
+“structural models
 
 ” based on the capital structure of the firm and incen-
 
-### tives of equity and debt holders
+tives of equity and debt holders
 
-### then turning to “reduced-form” models
+then turning to “reduced-form” models
 
 based on an assumed stochastic arrival intensity of the stopping time defin-
 
@@ -8132,21 +8132,21 @@ Chapter 12 reviews numerical methods for calculating deriva-
 
 tive security prices in a continuous-time setting
 
-## including Monte Carlo
+including Monte Carlo
 
 simulation of a discrete-time approximation of security prices
 
-## and finite-
+and finite-
 
 difference solution of the associated PDE.
 
-## --- Page 51 ---
+--- Page 51 ---
 
-## The Black-Scholes Model
+# The Black-Scholes Model
 
 THIS CHAPTER PRESENTS the basic Black-Scholes model of arbitrage
 
-## pricing in continuous time
+pricing in continuous time
 
 as well as extensions to a nonparametric
 
@@ -8156,7 +8156,7 @@ We first introduce the Brownian model of
 
 uncertainty and continuous security trading
 
-## and then derive partial
+and then derive partial
 
 differential equations for the arbitrage-free prices of derivative securi-
 
@@ -8168,21 +8168,21 @@ Chapter 6 extends to a non-Markovian setting using more general
 
 techniques.
 
-### Trading Gains for Brownian Prices
+# Trading Gains for Brownian Prices
 
 We fix a probability space (Ω, ℱ, P).
 
-### A process is a measurable function
+# A process is a measurable function
 
 on Ω × [0, ∞) into ℝ.
 
 (For a definition of measurability with respect to
 
-### a product space of this variety
+a product space of this variety
 
 see Appendix C.
 
-## ) The value of a pro-
+) The value of a pro-
 
 cess X at time t is the random variable variously written as X_ω
 
@@ -8196,9 +8196,9 @@ properties:
 
 (a) B₀ = 0 almost surely;
 
-## (b) for any times t and s > t
+(b) for any times t and s > t
 
-### B_s − B_t is normally distributed with
+B_s − B_t is normally distributed with
 
 mean zero and variance s − t;
 
@@ -8208,41 +8208,41 @@ mean zero and variance s − t;
 
 < tₙ < ∞,
 
-## the random variables B(t₁)
+the random variables B(t₁)
 
-## B(t₂) − B(t₁)
+B(t₂) − B(t₁)
 
 , B(tₙ) − B(tₙ₋₁) are
 
 independently distributed; and
 
-## (d) for each ω in Ω
+(d) for each ω in Ω
 
-## the sample path t ↦ B(ω
+the sample path t ↦ B(ω
 
 t) is continuous.
 
-## It is a nontrivial fact
+# It is a nontrivial fact
 
-### whose proof has a colorful history
+whose proof has a colorful history
 
-## that the prob-
+that the prob-
 
-## ability space (Ω
+ability space (Ω
 
 ℱ, P) can be constructed so that there exist standard
 
-## --- Page 52 ---
+--- Page 52 ---
 
-## 84 5 The Black-Scholes Model
+84 5 The Black-Scholes Model
 
 Brownian motions.
 
-## By 1900
+# By 1900
 
 in perhaps the first scientific work involving
 
-## Brownian motion
+# Brownian motion
 
 Louis Bachelier proposed Brownian motion as a model
 
@@ -8254,39 +8254,39 @@ that a given standard Brownian motion B is the price process of a security.
 
 Later we consider more general classes of price processes.
 
-### The σ-algebra ℱₜ generated by {B_s
+The σ-algebra ℱₜ generated by {B_s
 
-## 0 ≤ s ≤ t} is
+0 ≤ s ≤ t} is
 
-## on intuitive grounds
+on intuitive grounds
 
 a reasonable model of the information available at time t for trading the
 
-## security
+security
 
 since ℱₜ includes every event based on the history of the price
 
 process B up to that time.
 
-## For technical reasons
+# For technical reasons
 
-## however
+however
 
-## one must be
+one must be
 
 able to assign probabilities to the null sets of Ω
 
-## the subsets of events of
+the subsets of events of
 
 zero probability.
 
-## For this reason
+# For this reason
 
 we will fix instead the standard filtration
 
-## ℱₜ = {ℱₜ
+ℱₜ = {ℱₜ
 
-## t ≥ 0} of B
+t ≥ 0} of B
 
 with ℱₜ defined as the σ-algebra generated by the union
 
@@ -8304,53 +8304,53 @@ A trading strategy is an adapted process θ specifying at each state ω
 
 and time t the number θₜ(ω) of units of the security to hold.
 
-## If a strategy
+# If a strategy
 
-## θ is a constant
+θ is a constant
 
 say θ, between two dates t and s > t
 
-## then the total gain
+then the total gain
 
-### between those two dates is θ(B_s − B_t)
+between those two dates is θ(B_s − B_t)
 
-### the quantity held multiplied by the
+the quantity held multiplied by the
 
 price change.
 
 So long as the strategy is piecewise constant
 
-## we would have
+we would have
 
 no difficulty in defining the total gain between any two times.
 
-## In order to
+# In order to
 
 make for a general model of trading gains
 
-### a trading strategy θ is required
+a trading strategy θ is required
 
 to satisfy ∫_0^T θ_t^2 dt < ∞ almost surely for each T.
 
-## Let L² denote the space of
+Let L² denote the space of
 
 adapted processes satisfying this integrability restriction.
 
-## For each θ in L²
+For each θ in L²
 
 there is an adapted process with continuous sample paths
 
-## denoted θ dB
+denoted θ dB
 
 that is called the stochastic integral of θ with respect to B.
 
-## The definition of
+# The definition of
 
 ∫ θ dB is outlined in Appendix D.
 
-### The value of the process ∫ θ dB at time
+The value of the process ∫ θ dB at time
 
-### T is usually denoted ∫_0^T θ dB
+T is usually denoted ∫_0^T θ dB
 
 and represents the total gain generated up
 
@@ -8360,45 +8360,45 @@ trading strategy θ.
 
 An interpretation of ∫_0^T θ dB can be drawn from the discrete-time
 
-### analogue ∑_{i=0}^{n-1} θ_i Δ_i B
+analogue ∑_{i=0}^{n-1} θ_i Δ_i B
 
-## where Δ_i B = B_{i+1} - B_i
+where Δ_i B = B_{i+1} - B_i
 
-## that is
+that is
 
-## the sum (over i)
+the sum (over i)
 
 of the shares held at i multiplied by the change in price between i and
 
 i+1.
 
-## More generally
+# More generally
 
 let Δ^n_i B = B_{i/n} - B_{(i-1)/n}.
 
-## In a sense that we shall not
+# In a sense that we shall not
 
-## make precise
+make precise
 
 ∫_0^T θ dB can be thought of as the limit of ∑_{i=0}^{nT-1} θ_{i/n} Δ^n_i B
 
 the number n of trading intervals per unit of time goes to infinity.
 
-## This
+# This
 
-## statement is literally true
+statement is literally true
 
-## for example
+for example
 
-### if θ has continuous sample paths
+if θ has continuous sample paths
 
 taking “limit” to mean limit in probability.
 
-### The definition of ∫_0^T θ dB as a
+The definition of ∫_0^T θ dB as a
 
 limit in probability of the discrete-time analogue extends to a larger class
 
-## Martingale Trading Gains 85
+# Martingale Trading Gains 85
 
 of θ, but not large enough to capture some of the applications in later
 
@@ -8416,7 +8416,7 @@ For example,
 
 suppose a trading strategy θ is piecewise constant on [0
 
-## T] in that
+T] in that
 
 some stopping times T_0, .
 
@@ -8428,21 +8428,21 @@ any n, we have θ(t) = θ(T_{n-1}) for all t ∈ [T_{n-1}
 
 T_n).
 
-## Then
+# Then
 
 ∫_0^T θ dB = ∑_{n=1}^N θ(T_{n-1}) [B(T_n) - B(T_{n-1})]
 
 A second natural property of stochastic integration as a model for trading
 
-## gains is linearity
+gains is linearity
 
 For any θ and φ in L^2 and any scalars a and b
 
-### process aθ + bφ is also in L^2
+process aθ + bφ is also in L^2
 
 and, for any time T > 0
 
-## Martingale Trading Gains
+# Martingale Trading Gains
 
 The properties of standard Brownian motion imply that B is a martingale.
 
@@ -8452,23 +8452,23 @@ dent and of zero expectation.
 
 ) A process θ is bounded if there is a fixed
 
-## constant K such that |θ(ω
+constant K such that |θ(ω
 
-## t)| < K for all (ω
+t)| < K for all (ω
 
 For any bounded θ in L^2,
 
 the law of iterated expectations and the “martingality” of B imply
 
-## for any
+for any
 
-## integer times s and t > s
+integer times s and t > s
 
 that E_s(θ_{s+1} Δ^s_t B) = 0.
 
-## This means that the
+# This means that the
 
-## discrete-time gain process X
+discrete-time gain process X
 
 defined by X_0 = 0 and X_n = ∑_{i=0}^{n-1} θ_i Δ_i B
 
@@ -8480,7 +8480,7 @@ an exercise for the reader.
 
 The same is also true in continuous time
 
-## any bounded θ in L^2
+any bounded θ in L^2
 
 ∫ θ dB is a martingale.
 
@@ -8490,55 +8490,55 @@ impossible to generate an expected profit by trading a security that never
 
 experiences an expected price change.
 
-### If one places no bound or other
+# If one places no bound or other
 
-## restriction on θ
+restriction on θ
 
-## however
+however
 
 the expectation of ∫_0^T θ dB may not even exist.
 
-## Even if
+# Even if
 
-## for each T
+for each T
 
-### ∫_0^T θ dB and its expectation exist
+∫_0^T θ dB and its expectation exist
 
-## ∫ θ dB need not be a
+∫ θ dB need not be a
 
 martingale.
 
-## Indeed
+# Indeed
 
 we may not have a reasonable model of trading gains
 
-## without some restriction on θ
+without some restriction on θ
 
 as shown by example in Chapter 6.
 
-## The fol-
+# The fol-
 
 lowing Proposition assists in determining whether the expectation or the
 
-## --- Page 53 ---
+--- Page 53 ---
 
-## 86 5. The Black-Scholes Model
+86 5. The Black-Scholes Model
 
-### variance of ∫_0^T θ dB is finite
+variance of ∫_0^T θ dB is finite
 
 and whether ∫ θ dB is indeed a martingale.
 
-## Consider the spaces
+# Consider the spaces
 
-## L^1 = {θ ∈ L^2
+L^1 = {θ ∈ L^2
 
-## E[∫_0^T |θ| dt] < ∞
+E[∫_0^T |θ| dt] < ∞
 
-## T > 0}
+T > 0}
 
-## L^2 = {θ ∈ L^2
+L^2 = {θ ∈ L^2
 
-## E[∫_0^T θ^2 dt] < ∞
+E[∫_0^T θ^2 dt] < ∞
 
 T > 0}.
 
@@ -8546,93 +8546,93 @@ Of course, L^1 is contained by L^2.
 
 Proposition.
 
-## If θ is in L^1
+If θ is in L^1
 
 then ∫ θ dB is a martingale.
 
 If ∫ θ dB is a martingale,
 
-## then
+then
 
 var( ∫_0^T θ dB) = E[ ∫_0^T θ^2 dt].
 
 A proof of the proposition is cited in the Notes.
 
-## Ito Prices and Gains
+# Ito Prices and Gains
 
-### As a model of security-price processes
+# As a model of security-price processes
 
-### standard Brownian motion is too
+standard Brownian motion is too
 
 restrictive for most purposes.
 
 Consider, instead, a process of the form
 
-### S_t = x + ∫_0^t μ_s ds + ∫_0^t σ_s dB_s
+S_t = x + ∫_0^t μ_s ds + ∫_0^t σ_s dB_s
 
 t > 0, (2)
 
-## where x is a real number
+where x is a real number
 
-## σ is in L^2
+σ is in L^2
 
-## and μ is in L^1
+and μ is in L^1
 
-## meaning that μ is
+meaning that μ is
 
 an adapted process such that ∫_0^t |μ_s| ds < ∞ almost surely for all t.
 
-## We call
+# We call
 
 a process S of this form (2) an Ito process.
 
-### It is common to write (2) in the
+It is common to write (2) in the
 
-## informal “differential” form
+informal “differential” form
 
 dS_t = μ_t dt + σ_t dB_t; S_0 = x.
 
 One often thinks intuitively of dS_t as the “increment” of S at time t
 
-## made
+made
 
-## up of two parts
+up of two parts
 
 the “dt” part and the “dB_t” part.
 
-## In order to further
+# In order to further
 
 interpret this differential representation of an Ito process
 
-## suppose that μ
+suppose that μ
 
 and σ have continuous sample paths and are in L^2.
 
-## It is then literally the
+# It is then literally the
 
-## case that for any time t
+case that for any time t
 
 lim_{h↓0} E_t[S_{t+h} - S_t] / h = μ_t almost surely (3)
 
-## and
+and
 
 lim_{h↓0} var_t[S_{t+h} - S_t] / h = σ_t^2 almost surely
 
 where the derivatives are taken from the right
 
-## and where
+and where
 
-## for any ran-
+for any ran-
 
-### dom variable X with finite variance
+dom variable X with finite variance
 
 var_t(X) = E_t(X^2) - [E_t(X)]^2 is the F_t-
 
 conditional variance of X.
 
-## In this sense of (3) and (4)
+In this sense of (3) and (4)
 
-## we can interpret μ
+we can interpret μ
 
 as the rate of change of the expectation of S_t conditional on information
 
@@ -8640,49 +8640,49 @@ available at time t and likewise interpret σ^2 as the rate of change of the
 
 conditional variance of S at time t.
 
-### One sometimes reads the associated
+# One sometimes reads the associated
 
 abuses of notation “E_t(dS_t) = μ_t dt” and “var_t(dS_t) = σ_t^2 dt.
 
 ” Of course, dS_t
 
-## is not even a random variable
+is not even a random variable
 
 so this sort of characterization is not rigor-
 
 ously justified and is used purely for its intuitive content.
 
-## We will refer to
+# We will refer to
 
 μ and σ as the drift and diffusion processes of S
 
 respectively.
 
-## Many authors
+# Many authors
 
 reserve the term “diffusion” for σ^2 or other related quantities.
 
-### For an Ito process S of the form (2)
+For an Ito process S of the form (2)
 
-### let L(S) denote the space con-
+let L(S) denote the space con-
 
 sisting of any adapted process θ with {θ_t μ_t
 
-## t > 0} in L^1 and {θ_t σ_t
+t > 0} in L^1 and {θ_t σ_t
 
-## t > 0}
+t > 0}
 
 in L^2.
 
-## For θ in L(S)
+For θ in L(S)
 
 we define the stochastic integral ∫ θ dS as the Ito
 
-## process given by
+process given by
 
 We also refer to ∫ θ dS as the gain process generated by θ
 
-## given the price pro-
+given the price pro-
 
 ∞, then we write that θ is in L^2(S).
 
@@ -8692,39 +8692,39 @@ then ∫ θ dS is a finite-variance process.
 
 We will have occasion to refer to adapted processes θ and φ that are
 
-## equal almost everywhere
+equal almost everywhere
 
 by which we mean that R(∫_0^∞ |θ_t - φ_t| dt) = 0.
 
 fact, we shall write “θ = φ“ whenever θ = φ almost everywhere.
 
-## This is
+# This is
 
-## a natural convention
+a natural convention
 
 for suppose that X and Y are Ito processes with
 
-## X_0 = Y_0
+X_0 = Y_0
 
 and with dX_t = a_t dt + σ_t dB_t and dY_t = b_t dt + ρ_t dB_t.
 
-## Since
+# Since
 
 stochastic integrals are defined for our purposes as continuous-sample-
 
-## path processes
+path processes
 
 it turns out that X_t = Y_t for all t almost surely if and only
 
 if a = b almost everywhere and σ = ρ almost everywhere.
 
-## We call this the
+# We call this the
 
 unique decomposition property of Ito processes.
 
-## Ito’s Formula
+Ito’s Formula
 
-## More than any other result
+# More than any other result
 
 Ito’s Formula is the basis for explicit solutions
 
@@ -8738,19 +8738,19 @@ R^2 → R is twice continuously differentiable.
 
 Then the process Y, defined by
 
-## --- Page 54 ---
+--- Page 54 ---
 
-## 88 5. The Black-Scholes Model
+88 5. The Black-Scholes Model
 
 Y_t = f(X_t, t), is an Ito process with
 
-## dY_t = [ f_t(X_t
+dY_t = [ f_t(X_t
 
-## t) + μ_t f_x(X_t
+t) + μ_t f_x(X_t
 
-### t) + frac{1}{2} σ_t^2 f_{xx}(X_t
+t) + frac{1}{2} σ_t^2 f_{xx}(X_t
 
-## t) ] dt + f_x(X_t
+t) ] dt + f_x(X_t
 
 t) σ_t dB_t.
 
@@ -8758,11 +8758,11 @@ A generalization of Ito’s Formula (6) appears later in the chapter.
 
 The Black-Scholes Option-Pricing Formula
 
-## Consider a security
+# Consider a security
 
-## to be called a stock
+to be called a stock
 
-## with price process
+with price process
 
 S_t = x exp(αt + σ B_t), t > 0, (7)
 
@@ -8770,13 +8770,13 @@ where x > 0, α, and σ are constants.
 
 Such a process, called a geometric
 
-## Brownian motion
+# Brownian motion
 
-### is often called log-normal because
+is often called log-normal because
 
-## for any t
+for any t
 
-## log(S_t) =
+log(S_t) =
 
 log (x) + αt + σ B_t is normally distributed.
 
@@ -8784,7 +8784,7 @@ Moreover, since X_t = αt + σ B_t =
 
 ∫_0^t α ds + ∫_0^t σ dB_s defines an Ito process X with constant drift α and diffu-
 
-## sion σ
+sion σ
 
 Ito’s Formula implies that S is an Ito process and that
 
@@ -8792,17 +8792,17 @@ dS_t = μ_t S_t dt + σ S_t dB_t; S_0 = x,
 
 where μ = α + σ^2 / 2.
 
-## From (3) and (4)
+From (3) and (4)
 
-### at any time t the rate of change
+at any time t the rate of change
 
-### of the conditional mean of S_t is μ S_t
+of the conditional mean of S_t is μ S_t
 
-### and the rate of change of the condi-
+and the rate of change of the condi-
 
-## tional variance is σ^2 S_t^2
+tional variance is σ^2 S_t^2
 
-## so that
+so that
 
 per dollar invested in this security at time
 
@@ -8812,7 +8812,7 @@ t, one may think of μ as the “instantaneous” expected rate of return
 
 Thissort of characterization abounds in the literature
 
-## and one often reads the
+and one often reads the
 
 associated abuses of notation “E(dS_t/S_t) = dt” and “var(dS_t/S_t) = σ² dt.
 
@@ -8824,25 +8824,25 @@ Brownian motion is a natural two-parameter model of a security-price
 
 process because of these simple interpretations of μ and σ.
 
-## Consider a second security
+# Consider a second security
 
-## to be called a bond
+to be called a bond
 
-## with the price process
+with the price process
 
-## B defined by
+# B defined by
 
 B = B₀e^{rt}, t > 0, (8)
 
 for some constants B₀ > 0 and r.
 
-### We have the obvious interpretation of r
+# We have the obvious interpretation of r
 
 as the continually compounding interest rate
 
-## that is
+that is
 
-## the exponential rate at
+the exponential rate at
 
 which riskless deposits accumulate with interest.
 
@@ -8850,13 +8850,13 @@ Throughout, we will also
 
 refer to r as the short rate.
 
-## Since {r_t
+Since {r_t
 
-### t > 0} is trivially an Itô process
+t > 0} is trivially an Itô process
 
-## B is
+# B is
 
-## also an Itô process with
+also an Itô process with
 
 dB_t = r B_t dt.
 
@@ -8864,45 +8864,45 @@ We can also view (9) as an ordinary differential equation with initial condition
 
 We allow any trading strategies a in #?
 
-### (S) for the stock and b in #2(B)
+(S) for the stock and b in #2(B)
 
 for the bond.
 
-## Such a trading strategy (a
+Such a trading strategy (a
 
-### b) is said to be self-financing if
+b) is said to be self-financing if
 
 it generates no dividends (either positive or negative)
 
-## meaning that for
+meaning that for
 
-## all t
+all t
 
 a_t S_t + b_t B_t = a_0 S_0 + b_0 B_0 + ∫_0^t a_u dS_u + ∫_0^t b_u dB_u.
 
-## (10)
+(10)
 
 The self-financing condition (10) is merely a statement that the current
 
 portfolio value (on the left-hand side) is precisely the initial investment
 
-## plus any trading gains
+plus any trading gains
 
 and therefore that no dividend “inflow” or “outflow” is generated.
 
-## Now consider a third security
+# Now consider a third security
 
 an option.
 
-## We begin with the case of a
+# We begin with the case of a
 
-### European call option on the stock
+# European call option on the stock
 
-## giving its owner the right
+giving its owner the right
 
-## but not the
+but not the
 
-## obligation
+obligation
 
 to buy the stock at a given exercise price K on a given exercise
 
@@ -8910,7 +8910,7 @@ date T.
 
 The option’s price process Y is as yet unknown except for the fact
 
-### that Y_T = (S_T — K)^+ = max(S_T — K
+that Y_T = (S_T — K)^+ = max(S_T — K
 
 0), which follows from the fact that
 
@@ -8922,37 +8922,37 @@ for a discrete-time analogue.
 
 Suppose there exists a self-financing trading strategy (a
 
-## b) in the stock
+b) in the stock
 
 and bond with a_t S_t + b_t B_t = Y_t for all t.
 
-## If a_0 S_0 + b_0 B_0 < Y_0
+If a_0 S_0 + b_0 B_0 < Y_0
 
-## then one could sell
+then one could sell
 
-## the option for Y_0
+the option for Y_0
 
 make an initial investment of a_0 S_0 + b_0 B_0 in the trading
 
-## strategy (a
+strategy (a
 
 b), and at time T liquidate the entire portfolio (−1
 
 a_T, b_T)
 
-## of option
+of option
 
 stock, and bond with payoff −Y_T + a_T S_T + b_T B_T = 0.
 
 initial profit Y_0 − a_0 S_0 − b_0 B_0 > 0 is thus riskless
 
-## so the trading strategy
+so the trading strategy
 
 (−1,a,b) would be an arbitrage.
 
-## Likewise
+# Likewise
 
-## if a_0 S_0 + b_0 B_0 > Y_0
+if a_0 S_0 + b_0 B_0 > Y_0
 
 Strategy (1, −a, −b) is an arbitrage.
 
@@ -8962,41 +8962,41 @@ a_0 S_0 + b_0 B_0.
 
 The same arguments applied at each date t imply that
 
-## the absence of arbitrage
+the absence of arbitrage
 
 Y_t = a_t S_t + b_t B_t.
 
-### A full definition of continuous-
+# A full definition of continuous-
 
-### time arbitrage is given in Chapter 6
+time arbitrage is given in Chapter 6
 
-### but for now we can proceed without
+but for now we can proceed without
 
 much ambiguity at this informal level.
 
-### Our objective now is to show the
+# Our objective now is to show the
 
 following.
 
 The Black-Scholes Formula.
 
-## If there is no arbitrage
+# If there is no arbitrage
 
 then, for all t < T
 
-## Y_t =
+Y_t =
 
 C(S_t, t), where
 
 C(x, t) = x Φ(z) − K e^{−r(T−t)} Φ(z − σ√(T − t))
 
-## (11)
+(11)
 
-## with
+with
 
 z = [ log(x/K) + (r + σ²/2)(T − t) ] / [σ√(T − t)]
 
-## (12)
+(12)
 
 where Φ is the cumulative standard normal distribution function.
 
@@ -9006,15 +9006,15 @@ We will eventually see many different ways to arrive at the Black-Scholes
 
 formula (11).
 
-### Although not the shortest argument
+# Although not the shortest argument
 
-## the following is
+the following is
 
 perhaps the most obvious and constructive.
 
-## We start by assuming that
+# We start by assuming that
 
-## Y_t = C(S_t
+Y_t = C(S_t
 
 t), t < T
 
@@ -9022,43 +9022,43 @@ without knowledge of the function C aside from the
 
 assumption that it is twice continuously differentiable on (0
 
-## ∞) × [0
+∞) × [0
 
 (allowing an application of Itô’s Formula).
 
-## This will lead us to deduce
+# This will lead us to deduce
 
 (11), justifying the assumption and proving the result at the same time.
 
 Based on our assumption that Y_t = C(S_t
 
-## t) and Itô’s Formula
+t) and Itô’s Formula
 
-## dY_t = C_t(S_t
+dY_t = C_t(S_t
 
-## t) dt + C_x(S_t
+t) dt + C_x(S_t
 
-## t)σS_t dB_t
+t)σS_t dB_t
 
 t < T, (13)
 
-## where
+where
 
-## C_t(S_t
+C_t(S_t
 
-## t) = C_t(S_t
+t) = C_t(S_t
 
-## t) + μ S_t C_x(S_t
+t) + μ S_t C_x(S_t
 
-## t) + ½ σ² S_t² C_{xx}(S_t
+t) + ½ σ² S_t² C_{xx}(S_t
 
 Now suppose there is a self-financing trading strategy (a
 
-## b) with
+b) with
 
-## a_t S_t + b_t B_t = Y_t
+a_t S_t + b_t B_t = Y_t
 
-## t ∈ [0
+t ∈ [0
 
 T], (14)
 
@@ -9066,23 +9066,23 @@ as outlined in Section E.
 
 This assumption will also be justified shortly.
 
-## Equations (10) and (14)
+Equations (10) and (14)
 
 along with the linearity of stochastic integration
 
-## imply that
+imply that
 
 dY_t = a_t dS_t + b_t dB_t = (a_t μ S_t + b_t r B_t) dt + a_t σ S_t dB_t.
 
-## (15)
+(15)
 
 One way to choose the trading strategy (a
 
-## b) so that both (13) and (15)
+b) so that both (13) and (15)
 
 are satisfied is to “match coefficients separately in both dB_t and dt.
 
-## ” In
+” In
 
 fact, the unique decomposition property of Itô processes explained at the
 
@@ -9090,143 +9090,143 @@ end of Section C implies that this is the only way to ensure that (13) and
 
 (15) are consistent.
 
-## Specifically
+# Specifically
 
 we choose a_t so that the diffusion terms match
 
-## a_t σ S_t = C_x(S_t
+a_t σ S_t = C_x(S_t
 
 t) σ S_t.
 
 this, we let a_t = C_x(S_t, t).
 
-## From (14) and Y_t = C(S_t
+From (14) and Y_t = C(S_t
 
 t), we then have
 
-## C_x(S_t
+C_x(S_t
 
-## t) S_t + b_t B_t = C(S_t
+t) S_t + b_t B_t = C(S_t
 
 t), or
 
-## b_t = [C(S_t
+b_t = [C(S_t
 
-## t) − C_x(S_t
+t) − C_x(S_t
 
 t) S_t] / B_t.
 
-## (16)
+(16)
 
-## Finally
+# Finally
 
 “matching coefficients in dt” from (13) and (15) leaves
 
-## for t < T
+for t < T
 
-## C_t(S_t
+C_t(S_t
 
-## t) + μ S_t C_x(S_t
+t) + μ S_t C_x(S_t
 
-## t) + ½ σ² S_t² C_{xx}(S_t
+t) + ½ σ² S_t² C_{xx}(S_t
 
 t) = a_t μ S_t + b_t r B_t = 0.
 
-## (17)
+(17)
 
-## In order for (17) to hold
+In order for (17) to hold
 
 it is enough that C satisfies the partial
 
-## differential equation (PDE)
+differential equation (PDE)
 
-## −r C(x
+−r C(x
 
-## t) + C_t(x
+t) + C_t(x
 
-## t) + r x C_x(x
+t) + r x C_x(x
 
-## t) + ½ σ² x² C_{xx}(x
+t) + ½ σ² x² C_{xx}(x
 
-## t) = 0
+t) = 0
 
-## (18)
+(18)
 
 for (x, t) ∈ (0, ∞) × [0, T).
 
-## The fact that Y_T = C(S_T
+The fact that Y_T = C(S_T
 
 T) = (S_T — K)^+ supplies the boundary condition
 
 C(x, T) = (x — K)^+, x ∈ (0, ∞).
 
-## (19)
+(19)
 
-### By direct calculation of derivatives
+# By direct calculation of derivatives
 
-### one can show as an exercise that (11)
+one can show as an exercise that (11)
 
 is a solution to (18)–(19).
 
-### All of this seems to confirm that C(S₀
+All of this seems to confirm that C(S₀
 
 0), with
 
 C defined by the Black-Scholes formula (11)
 
-## is a good candidate for the
+is a good candidate for the
 
 initial price of the option.
 
-## In order to make this solid
+# In order to make this solid
 
-## suppose that Y₀ >
+suppose that Y₀ >
 
 C(S₀, 0), where C is defined by (11).
 
 Consider the strategy (−1, a, b) in the
 
-## option
+option
 
 stock, and bond
 
-## with a_t = C_x(S_t
+with a_t = C_x(S_t
 
 t) and b_t given by (16) for t < T.
 
 We can choose a_0 and b_0 arbitrarily so that (14) is satisfied
 
-## this does not
+this does not
 
 affect the self-financing condition (10) because the value of the trading
 
 strategy at a single point in time has no effect on the stochastic integral.
 
-## (For this
+(For this
 
 see the implications of equality “almost everywhere” at the end
 
 of Section C.
 
-## ) The result is that (a
+) The result is that (a
 
 b) is self-financing by construction and
 
 that a_T S_T + b_T B_T = Y_T = (S_T — K)^+.
 
-### This strategy therefore nets an initial
+# This strategy therefore nets an initial
 
-## riskless profit of
+riskless profit of
 
-### Y_0 − a_0 S_0 − b_0 B_0 = Y_0 − C(S₀
+Y_0 − a_0 S_0 − b_0 B_0 = Y_0 − C(S₀
 
-## 0) > 0
+0) > 0
 
 which defines an arbitrage.
 
-## Likewise
+# Likewise
 
-## if Y₀ < C(S₀
+if Y₀ < C(S₀
 
 0), the trading strategy
 
@@ -9234,21 +9234,21 @@ which defines an arbitrage.
 
 Thus, it is indeed a necessary condition for
 
-### the absence of arbitrage that Y₀ = C(S₀
+the absence of arbitrage that Y₀ = C(S₀
 
-### Sufficiency is a more delicate
+# Sufficiency is a more delicate
 
 matter.
 
 We will see in Chapter 6 that under mild technical conditions on
 
-## trading strategies
+trading strategies
 
 the Black-Scholes formula for the option price is also
 
 sufficient for the absence of arbitrage.
 
-### One last piece of business is to
+# One last piece of business is to
 
 show that the “option-hedging” strategy (a
 
@@ -9256,25 +9256,25 @@ b) is such that a is in #?
 
 and b is in #2(B).
 
-## This is true
+# This is true
 
 and is left to show as an exercise.
 
 Transactions costs play havoc with the sort of reasoning just applied.
 
-## For example
+# For example
 
 if brokerage fees are any positive fixed fraction of the market
 
-## value of stock trades
+value of stock trades
 
 the stock-trading strategy a constructed above would
 
-### call for infinite total brokerage fees
+call for infinite total brokerage fees
 
 since, in effect
 
-## the number of shares
+the number of shares
 
 traded is infinite!
 
@@ -9282,37 +9282,37 @@ This fact and the literature on transactions costs in this
 
 setting are reviewed in the Notes of Chapters 6 and 9.
 
-### The PDE for Arbitrage-Free Prices
+# The PDE for Arbitrage-Free Prices
 
 The expression dS_t = μ S_t dt + σ S_t dB_t for the log-normal stock-price process S of Section E is a special case of a stochastic differential equation (SDE) of the form
 
-## dS_t = μ(S_t
+dS_t = μ(S_t
 
-## t) dt + σ(S_t
+t) dt + σ(S_t
 
-## t) dB_t
+t) dB_t
 
-## S₀ = x
+S₀ = x
 
-## (20)
+(20)
 
 Under regularity conditions on μ and σ reviewed in Appendix E
 
-## there
+there
 
 is a unique Itô process S solving (20) for each starting point x in R.
 
 Assuming that such a solution S defines a stock-price process
 
-## consider
+consider
 
-### the price process B defined by
+the price process B defined by
 
 B_t = B₀ exp[ ∫_0^t r(S_u, u) du ], (21)
 
-## where r
+where r
 
-## R × [0
+R × [0
 
 ∞) → R is well enough behaved for the existence of
 
@@ -9324,13 +9324,13 @@ r(S_t, t).
 
 This is consistent with a trivial application of Ito’s Formula
 
-## which
+which
 
-## implies that
+implies that
 
 dB_t = B_t r(S_t, t) dt; B_0 > 0.
 
-## (22)
+(22)
 
 Rather than restricting attention to the option payoff Y_T = (S_T - K)^+
 
@@ -9342,7 +9342,7 @@ Arguments like those in Section F lead one
 
 to formulate the arbitrage-free price process Y of the derivative security
 
-## as Y_t = C(S_t
+as Y_t = C(S_t
 
 t), t ∈ [0
 
@@ -9350,49 +9350,49 @@ T], where C solves the PDE
 
 - r(x, t)C(x
 
-## t) + C_t(x
+t) + C_t(x
 
-## t) + r(x
+t) + r(x
 
-## t)xC_x(x
+t)xC_x(x
 
-## t) + ½ σ^2(x
+t) + ½ σ^2(x
 
-## t)^2 C_{xx}(x
+t)^2 C_{xx}(x
 
-## t) = 0
+t) = 0
 
-## (23)
+(23)
 
-## for (x
+for (x
 
-## t) ∈ R × [0
+t) ∈ R × [0
 
 T), with the boundary condition
 
 C(x, T) = g(x), x ∈ R.
 
-## (24)
+(24)
 
-### In order to tie things together
+# In order to tie things together
 
 suppose that C solves (23)-(24).
 
-## Y_0 ≠ C(S_0
+Y_0 ≠ C(S_0
 
 0), then an obvious extension of our earlier arguments implies
 
-## The Feynman-Kac Solution 93
+# The Feynman-Kac Solution 93
 
 that there is an arbitrage.
 
 (This extension is left as an exercise.
 
-## ) This
+) This
 
 is true even if C is not twice continuously differentiable
 
-## but merely
+but merely
 
 C^{2,1}(R × [0
 
@@ -9400,11 +9400,11 @@ T)), meaning that the derivatives C_x
 
 C_t, and C_{xx} exist and are
 
-## continuous in R × (0
+continuous in R × (0
 
 T), and extend continuously to R × [0
 
-## (Ito’s
+(Ito’s
 
 Formula also applies to any function in this class.
 
@@ -9422,19 +9422,19 @@ One of these techniques is based on a probabilistic
 
 representation of solutions given in the next section.
 
-## The Feynman-Kac Solution
+# The Feynman-Kac Solution
 
 A potential simplification of the PDE problem (23)-(24) is obtained as
 
 follows.
 
-## For each (x
+For each (x
 
-## t) in R × [0
+t) in R × [0
 
 T], let Z^{x
 
-### t} be the Ito process defined by
+t} be the Ito process defined by
 
 Z^{x,t}_t = x, s < t, and
 
@@ -9442,15 +9442,15 @@ dZ^{x,t}_s = r(Z^{x
 
 t}_s, s) Z^{x
 
-## t}_s ds + σ(Z^{x
+t}_s ds + σ(Z^{x
 
 t}_s, s) Z^{x
 
-## t}_s dB_s
+t}_s dB_s
 
-## s > t (25)
+s > t (25)
 
-## That is
+# That is
 
 Z^{x,t} starts at x at time t and continues from there by following
 
@@ -9458,7 +9458,7 @@ the SDE (25).
 
 Condition FK.
 
-## The functions σ
+The functions σ
 
 r, and g satisfy one of the technical sufficient
 
@@ -9466,33 +9466,33 @@ conditions given in Appendix E for Feynman-Kac solutions.
 
 The FK (for “Feynman-Kac”) condition is indeed only technical
 
-## and lim-
+and lim-
 
-### its how quickly the functions σ
+its how quickly the functions σ
 
 r, and g can grow or change.
 
-## Referring
+# Referring
 
-## to Appendix E
+to Appendix E
 
 we have the following solution to the PDE (23)-(24) as
 
 an expectation of the discounted payoff of the derivative security
 
-## modi-
+modi-
 
 fied by replacing the original price process S with a pseudo-price process Z^{x
 
 whose expected rate of return is the riskless interest rate.
 
-## This is some-
+# This is some-
 
 times known as risk-neutral valuation.
 
-### This is not to say that agents are
+# This is not to say that agents are
 
-## risk-neutral
+risk-neutral
 
 but rather that risk-neutrality is (in this setting) without loss
 
@@ -9500,15 +9500,15 @@ of generality for purposes of pricing derivative securities.
 
 The Feynman-Kac Solution.
 
-## Under Condition FK
+# Under Condition FK
 
-## if there is no arbitrage
+if there is no arbitrage
 
-## then the
+then the
 
 derivative security defined by the payoff g(S_T) at time T has the price process Y
 
-## with Y_t = C(S_t
+with Y_t = C(S_t
 
 t), where C is the solution to (23)-(24) given by
 
@@ -9516,15 +9516,15 @@ C(x, t) = E[exp(- ∫_t^T r(Z^{x
 
 t}_s, s) ds) g(Z^{x
 
-## t}_T)]
+t}_T)]
 
 (x, t) ∈ R × [0
 
-## (26)
+(26)
 
-## --- Page 57 ---
+--- Page 57 ---
 
-## 94 5. The Black-Scholes Model
+94 5. The Black-Scholes Model
 
 It can be checked as an exercise that (26) recovers the Black-Scholes
 
@@ -9536,15 +9536,15 @@ pler way to solve the corresponding PDE (18)-(19) than is the method
 
 originally used to discover the Black-Scholes formula.
 
-## Chapter 12 presents
+# Chapter 12 presents
 
-### numerical methods for solving (23)-(24)
+numerical methods for solving (23)-(24)
 
-## one of which involves Monte
+one of which involves Monte
 
 Carlo simulation of the Feynman-Kac solution (26)
 
-## which bears a close
+which bears a close
 
 resemblance to the discrete-time equivalent-martingale-measure arbitrage-
 
@@ -9554,7 +9554,7 @@ This is more than a coincidence,
 
 as we shall see in Chapter 6.
 
-## The Multidimensional Case
+# The Multidimensional Case
 
 Suppose that B^1, .
 
@@ -9568,9 +9568,9 @@ The process B = (B^1, .
 
 as a standard Brownian motion in R^d.
 
-### The standard filtration F = {F_t
+The standard filtration F = {F_t
 
-## t ≥ O}
+t ≥ O}
 
 of B is defined just as in the one-dimensional case.
 
@@ -9578,17 +9578,17 @@ Given F, the subsets
 
 S^1, S^2
 
-#^1, and #^2 of adapted processes are also as defined in Sections A
+^1, and #^2 of adapted processes are also as defined in Sections A
 
 and B.
 
-## In this setting
+# In this setting
 
-## X is an Ito process if
+# X is an Ito process if
 
-## for some x in R
+for some x in R
 
-## some μ in S^1
+some μ in S^1
 
 and some σ^1, .
 
@@ -9598,11 +9598,11 @@ X_t = x + ∫_0^t μ_s ds + ∫_0^t Σ_{i=1}^d σ^i_s dB^i_s
 
 t>0.
 
-## (27)
+(27)
 
 For convenience, (27) is also written
 
-### X_t = x + ∫_0^t μ_s ds + ∫_0^t σ_s dB_s
+X_t = x + ∫_0^t μ_s ds + ∫_0^t σ_s dB_s
 
 t > 0, (28)
 
@@ -9610,13 +9610,13 @@ or in the convenient stochastic differential form
 
 dX_t = μ_t dt + σ_t dB_t; X_0 = x.
 
-## (29)
+(29)
 
 If X^1, .
 
 , X^N are Ito processes
 
-## then we call X = (X^1
+then we call X = (X^1
 
 , X^N) an Ito
 
@@ -9626,11 +9626,11 @@ X_t = x + ∫_0^t μ_s ds + ∫_0^t Σ_{j=1}^d σ_{sj} dB^j_s
 
 t>0, (30)
 
-## or
+or
 
-## dX_t = μ_t dt + σ_t dB_t
+dX_t = μ_t dt + σ_t dB_t
 
-## X_0 = x ∈ R^N (31)
+X_0 = x ∈ R^N (31)
 
 where μ and σ are valued in R^N and R^{N×d}
 
@@ -9640,11 +9640,11 @@ respectively.
 
 denotes the space of real matrices with N rows and d columns.
 
-## ) Ito’s
+) Ito’s
 
 Formula extends as follows.
 
-## The Multidimensional Case 95
+# The Multidimensional Case 95
 
 Ito’s Formula.
 
@@ -9652,21 +9652,21 @@ Suppose X is the Ito process in R^N given by (30) and f is in
 
 C^{2,1}(R^N × [0, ∞)).
 
-## Then { f(X_t
+Then { f(X_t
 
 t) : t ≥ 0} is an Ito process and
 
-## for any time t
+for any time t
 
-## df(X_t
+df(X_t
 
-## t) = (∂_t f + D_μ f)(X_t
+t) = (∂_t f + D_μ f)(X_t
 
-### t) dt + Σ_{j=1}^d (D_σ f^j)(X_t
+t) dt + Σ_{j=1}^d (D_σ f^j)(X_t
 
-## t) dB^j_t
+t) dB^j_t
 
-## where
+where
 
 Here, ∇f
 
@@ -9676,7 +9676,7 @@ R^N, R^{N×N}
 
 and R, respectively
 
-### and tr(A) denotes the trace of a square
+and tr(A) denotes the trace of a square
 
 matrix A (the sum of its diagonal elements).
 
@@ -9684,17 +9684,17 @@ If X and Y are real-valued Ito processes with dX_t = μ_X(t) dt +
 
 σ_X(t) dB_t and dY_t = μ_Y(t) dt + σ_Y(t) dB_t
 
-### then Ito’s Formula (for N = 2)
+then Ito’s Formula (for N = 2)
 
 implies that the product Z = XY is an Ito process
 
-## with drift μ_Z given by
+with drift μ_Z given by
 
 μ_Z(t) = X_t μ_Y(t) + Y_t μ_X(t) + σ_X(t) · σ_Y(t).
 
-## (32)
+(32)
 
-## If μ_X
+If μ_X
 
 μ_Y, σ_X
 
@@ -9702,23 +9702,23 @@ and σ_Y are all in #^2 and have continuous sample paths
 
 then an application of Fubini’s Theorem (Appendix C) implies that
 
-## d
+d
 
-## dt Cov_t(X_t
+dt Cov_t(X_t
 
-## Y_t) = Cov_t(μ_X(t)
+Y_t) = Cov_t(μ_X(t)
 
-## Y_t) + Cov_t(X_t
+Y_t) + Cov_t(X_t
 
-### μ_Y(t)) + σ_X(t) σ_Y(t)^T almost surely
+μ_Y(t)) + σ_X(t) σ_Y(t)^T almost surely
 
-## (33)
+(33)
 
-## where Cov_t(X_t
+where Cov_t(X_t
 
 Y_t) = E_t(X_t Y_t) - E_t(X_t) E_t(Y_t) and where the derivative is
 
-## taken from the right
+taken from the right
 
 extending the intuition developed with (3) and (4).
 
@@ -9728,27 +9728,27 @@ If X is an Ito process in R^N with dX_t = μ_t dt + σ_t dB_t and θ =
 
 , θ^d) is a vector of adapted processes such that θ^j is in S^1 and
 
-## for each i
+for each i
 
-## θ^j σ_{ij} is in #^1
+θ^j σ_{ij} is in #^1
 
-### then we say that θ is in L^2(X)
+then we say that θ is in L^2(X)
 
-## which implies that
+which implies that
 
-## 0 0 0
+0 0 0
 
 is well defined as an Ito process.
 
 If E[(∫_0^T |θ_t^T σ_t|^2 dt)^2] < ∞ and
 
-## for each j
+for each j
 
-## θ^j is also in #^1
+θ^j is also in #^1
 
-### then we say that θ is in L^2_2(X)
+then we say that θ is in L^2_2(X)
 
-## which implies that
+which implies that
 
 ∫ θ_t · dX_t is a finite-variance process.
 
@@ -9756,67 +9756,67 @@ Suppose that S = (S^1, .
 
 , S^N) is an Ito process in R^N specifying the
 
-## prices of N given securities
+prices of N given securities
 
 and that S satisfies the stochastic differential
 
-## equation
+equation
 
-## dS_t = μ(S_t
+dS_t = μ(S_t
 
-## t) dt + σ(S_t
+t) dt + σ(S_t
 
-## t) dB_t
+t) dB_t
 
-## S_0 = x ∈ R^N
+S_0 = x ∈ R^N
 
-## (34)
+(34)
 
-## --- Page 58 ---
+--- Page 58 ---
 
-## 96 5. The Black-Scholes Model
+96 5. The Black-Scholes Model
 
 regularity (conditions are given in Appendix E) for existence and unique-
 
 ness of a solution to (34).
 
-## B_t = B_0 exp[ ∫_0^t r(S_u
+B_t = B_0 exp[ ∫_0^t r(S_u
 
-## u) du]
+u) du]
 
-## B_0 > 0
+B_0 > 0
 
-## (35)
+(35)
 
-### define the price process of a bond
+define the price process of a bond
 
-## where r
+where r
 
-## R^N × [0
+R^N × [0
 
-## ∞) → R defines a
+∞) → R defines a
 
-### continuously compounding short rate
+continuously compounding short rate
 
-### sufficiently well behaved that (35)
+sufficiently well behaved that (35)
 
 is a well-defined Ito process.
 
-### We can also use Ito’s Formula to write
+We can also use Ito’s Formula to write
 
 dB_t = B_t r(S_t, t) dt, B_0 > 0.
 
-## (36)
+(36)
 
-## Finally
+# Finally
 
-## let some continuous g
+let some continuous g
 
 R^N → R define the payoff g(S_T) at time
 
 T of a derivative security whose price at time zero is to be determined.
 
-## Once again
+# Once again
 
 the arguments of Section F can be extended to show that
 
@@ -9828,35 +9828,35 @@ t), where
 
 C solves the PDE:
 
-## ∂_t C(x
+∂_t C(x
 
-## t) - r(x
+t) - r(x
 
 t)C(x, t) + D_μ C(x
 
-## t) = 0
+t) = 0
 
 (x, t) ∈ R^N × [0
 
 T), (37)
 
-## with boundary condition
+with boundary condition
 
 C(x, T) = g(x), x ∈ R^N, (38)
 
-## where
+where
 
-## D_μ C(x
+D_μ C(x
 
-## t) = C_x(x
+t) = C_x(x
 
-## t)^T r(x
+t)^T r(x
 
-## t)x + C_t(x
+t)x + C_t(x
 
 + ½ tr[σ(x, t) σ(x, t)^T C_{xx}(x, t)].
 
-## (39)
+(39)
 
 We exploit once again the technical condition FK on (r
 
@@ -9868,19 +9868,19 @@ the PDE (37)-(38).
 
 The Feynman-Kac Solution.
 
-## Under Condition FK
+# Under Condition FK
 
-## if there is no arbitrage
+if there is no arbitrage
 
-## then
+then
 
 the derivative security with payoff g(S_T) at time T has the price process Y given
 
-## by Y_t = C(S_t
+by Y_t = C(S_t
 
 t), where C is the solution to the PDE (37)-(38) given
 
-## at each
+at each
 
 (x, t) ∈ R^N × [0, T], by
 
@@ -9890,15 +9890,15 @@ C(x, t) = E[exp(- ∫_t^T r(Z^{x
 
 t}_s, s) ds) g(Z^{x
 
-## t}_T)]
+t}_T)]
 
-## (40)
+(40)
 
-## where Z^{x
+where Z^{x
 
-### t} is the Ito process defined by Z^{x
+t} is the Ito process defined by Z^{x
 
-## t}_t = x
+t}_t = x
 
 s < t, and(A) What replicating strategy would you recommend?
 
@@ -9908,19 +9908,19 @@ give an explicit formula for the option price Gold in Sacks should charge its cu
 
 (C) Suppose borrowing in U.
 
-## funds is too clumsy
+funds is too clumsy
 
 since the other two parts of the strategy (dollar and haggis trading) are done at Gold in Sacks’s Edinburgh office.
 
-### If the British pound borrowing rate is
+# If the British pound borrowing rate is
 
-## a constant
+a constant
 
-## is it possible
+is it possible
 
-## under some conditions
+under some conditions
 
-## to answer parts (A) and (B)
+to answer parts (A) and (B)
 
 using British pound borrowing (and lending) rather than U.
 
@@ -9930,7 +9930,7 @@ If so, provide the conditions.
 
 If not, say why not.
 
-## If you find it useful
+# If you find it useful
 
 you may use any arbitrage conditions relating the various coefficients (
 
@@ -9938,29 +9938,29 @@ you may use any arbitrage conditions relating the various coefficients (
 
 **100 5.
 
-## The Black-Scholes Model**
+The Black-Scholes Model**
 
-## 12 Show
+12 Show
 
-## in the setting of Section E
+in the setting of Section E
 
 that (26) recovers the Black-Scholes formula (11).
 
 13 Show that the Black-Scholes option-hedging strategy (
 
-### ) of Section F is such that and
+) of Section F is such that and
 
 as assumed.
 
-## **Notes**
+**Notes**
 
 (A) The Brownian model was introduced to the study of option pricing by Bachelier (1900).
 
 (B-D) Karatzas and Shreve (1988) is a standard source for stochastic calculus for Brownian motion.
 
-## Proposition 5B can be found
+# Proposition 5B can be found
 
-## for example
+for example
 
 in Protter (1990).
 
@@ -9970,9 +9970,9 @@ in Protter (1990).
 
 The line of exposition here is based on Gabay (1982) and Duffie (1988a).
 
-## Andreasen
+# Andreasen
 
-## Jensen
+# Jensen
 
 and Poulsen (1998) provide numerous alternative methods of deriving the Black-Scholes formula.
 
@@ -9986,11 +9986,11 @@ is due to Cox and Ross (1976).
 
 This is extended to the notion of equivalent martingale measures
 
-## found in Chapter 6
+found in Chapter 6
 
 by Harrison and Kreps (1979).
 
-## Additional Topics
+# Additional Topics
 
 Cox and Rubinstein (1985) is a standard reference on options
 
@@ -9998,25 +9998,25 @@ while Hull (2000) has further applications and references.
 
 The impact of variations in the "volatility" on the Black-Scholes option-pricing formula is shown
 
-## in two different senses
+in two different senses
 
-## by El Karoui
+by El Karoui
 
-## Jeanblanc
+# Jeanblanc
 
-## and Shreve (1998)
+and Shreve (1998)
 
-## Bergman
+# Bergman
 
-## Grundy
+# Grundy
 
-## and Wiener (1996a)
+and Wiener (1996a)
 
-## Johnson and Shanno (1987)
+Johnson and Shanno (1987)
 
 and Reisman (1986).
 
-### For "stochastic volatility" models
+For "stochastic volatility" models
 
 see Section E and references cited in the Notes to Chapter 8.
 
@@ -10026,17 +10026,17 @@ Kopp, and Willinger (1991
 
 1993a,b)
 
-### who apply nonstandard analysis
+who apply nonstandard analysis
 
 by Bick and Willinger (1994) and Willinger and Taqu (1989)
 
 who use a pathwise integral established by Föllmer (1981)
 
-### and by Kunitomo (1993) and Cutland
+and by Kunitomo (1993) and Cutland
 
 Kopp, and Willinger (1991
 
-## 1993a)
+1993a)
 
 who exploit fractional Brownian motion.
 
@@ -10046,7 +10046,7 @@ Lacoste (1995) proposes a Wiener-Chaos version of derivative calculations.
 
 Part (C) of Exercise 5.
 
-### 10 was related to the author by Bruce Grundy.
+10 was related to the author by Bruce Grundy.
 
 For the case of transactions costs and other market "imperfections," see the Notes of Chapter 6.
 
@@ -10056,7 +10056,7 @@ THIS CHAPTER SUMMARIZES arbitrage-free security pricing theory in the continuous
 
 The main idea is the equivalence between no arbitrage
 
-## the existence of prices
+the existence of prices
 
 and the existence of an equivalent martingale measure
 
@@ -10092,15 +10092,15 @@ and we will see that the distinction here is purely technical.
 
 **A.
 
-## Arbitrage**
+Arbitrage**
 
-### We fix a standard Brownian motion in
+# We fix a standard Brownian motion in
 
-### restricted to some time interval
+restricted to some time interval
 
 on a given probability space .
 
-### We also fix the standard filtration of
+# We also fix the standard filtration of
 
 as defined in Section 5I.
 
@@ -10110,37 +10110,37 @@ Suppose the price processes of given securities form an Itô process in .
 
 We suppose that each security price process is in the space containing any Itô process with for which
 
-## Until later in the chapter
+# Until later in the chapter
 
 we will suppose that the securities pay no dividends during the time interval
 
 and that is the vector of cum-dividend security prices at time .
 
-## A trading strategy
+# A trading strategy
 
-## as we recall from Chapter 5
+as we recall from Chapter 5
 
-## is an -valued process in
+is an -valued process in
 
 as defined in Section 5L.
 
 This means simply that the stochastic integral defining trading gains is well defined.
 
-### A trading strategy is self-financing if
+# A trading strategy is self-financing if
 
 If there is some process with the property that is finite almost surely and
 
 for some security with strictly positive price process
 
-## we have
+we have
 
 then we call the short-rate process.
 
-## In this case
+# In this case
 
 , allowing us to view as the riskless short-term continuously compounding rate of interest
 
-## in an instantaneous sense
+in an instantaneous sense
 
 and to view as the market value of an account that is continually reinvested at the short-term interest rate .
 
@@ -10148,7 +10148,7 @@ A self-financing strategy is an arbitrage if and
 
 or and .
 
-## (Recall
+(Recall
 
 " " means that is non-negative and is non-zero with positive probability.
 
@@ -10158,7 +10158,7 @@ at least after placing some reasonable restrictions on trading strategies.
 
 **B.
 
-## Numeraire Invariance**
+Numeraire Invariance**
 
 It is often convenient to renormalize all security prices
 
@@ -10182,11 +10182,11 @@ Then a trading strategy is self-financing with respect to if and only if is self
 
 Let be the process defined by .
 
-## Because and are Itô processes
+Because and are Itô processes
 
-## Itô’s Formula implies
+Itô’s Formula implies
 
-## letting
+letting
 
 , and denote the respective diffusions of
 
@@ -10196,11 +10196,11 @@ Thus, if and only if
 
 completing the proof.
 
-### We have the following corollary
+# We have the following corollary
 
 which is immediate from the Numeraire Invariance Theorem
 
-## the strict positivity of
+the strict positivity of
 
 and the definition of an arbitrage.
 
@@ -10220,65 +10220,65 @@ We will now see that (7) leads to a “beta model” for expected returns
 
 analogous to that of Chapter 2.
 
-### We can always find adapted processes p
+# We can always find adapted processes p
 
-### and e valued in R^N and R respectively
+and e valued in R^N and R respectively
 
-## such that
+such that
 
-### σ_X(t) = σ_X(t) g + e and σ_X(e) = 0
+σ_X(t) = σ_X(t) g + e and σ_X(e) = 0
 
-## t ∈ [0
+t ∈ [0
 
 where σ_X is the R^N×N-valued diffusion of the price process X.
 
-## For each
+# For each
 
-## tion in R^N of σ_X(ω
+tion in R^N of σ_X(ω
 
 t) onto the span of the rows of the matrix σ_X(ω
 
-## Suppose θ = (θ^0
+Suppose θ = (θ^0
 
 …, θ^N) is a self-financing trading strategy with σ_θ =
 
 θ^T σ_X.
 
-## (For example
+(For example
 
 if X^0(t) = exp (∫_0^t r_s ds) for a short-rate process r
 
-### can construct θ by letting θ^0 = -g^0
+can construct θ by letting θ^0 = -g^0
 
-## θ^j > 1
+θ^j > 1
 
-## and by choosing θ^0 so that
+and by choosing θ^0 so that
 
 the self-financing condition is met.
 
-### ) The market-value process W^θ of θ is
+) The market-value process W^θ of θ is
 
 an Ito process because θ is self-financing.
 
-### We suppose that the initial port-
+# We suppose that the initial port-
 
 folio can be chosen so that W^θ is also strictly positive
 
-## implying that the
+implying that the
 
 associated return process R^θ = dW^θ/W^θ is well defined.
 
-## Because the diffusion
+# Because the diffusion
 
 return process R, (6) implies that
 
-## using the fact that σ_X(ω
+using the fact that σ_X(ω
 
 t) is (in each state ω) a linear combination of
 
 the rows of σ_X(ω, t).
 
-### This in turn implies that σ_X(ω) - ε
+This in turn implies that σ_X(ω) - ε
 
 = 0.
 
@@ -10286,31 +10286,31 @@ In particular,
 
 for the return process R*, we have
 
-## σ_R* — β = σ_X g^T
+σ_R* — β = σ_X g^T
 
 where p* is the drift (expected rate of return) of R*.
 
-## Substituting back
+# Substituting back
 
 into (6) the resulting expression for W^θ/7
 
-### leaves the state-price beta model
+leaves the state-price beta model
 
-## of returns given by
+of returns given by
 
 β_R*(t) — r = β(σ)(u - r), (8)
 
-## where
+where
 
-## β(σ)(t) = σ_X g / σ_R*
+β(σ)(t) = σ_X g / σ_R*
 
 In the “instantaneous sense” in which σ_R*^2 d⟨R^*⟩ stands for the conditional
 
-### variance of dR* and σ_X σ_R* d⟨X
+variance of dR* and σ_X σ_R* d⟨X
 
 R^*⟩ stands for the conditional covariance
 
-## between dX and dR*
+between dX and dR*
 
 we can view (8) as the continuous-time analogue to
 
@@ -10326,29 +10326,29 @@ maximal conditional correlation with the increments of the state-price
 
 deflator 7.
 
-### Chapter 10 develops a special case
+# Chapter 10 develops a special case
 
-## the consumption-based
+the consumption-based
 
 capital asset pricing model.
 
-### Equivalent Martingale Measures
+# Equivalent Martingale Measures
 
-## A probability measure Q on (Ω
+A probability measure Q on (Ω
 
 F) is said to be equivalent to P provided
 
-## for any event A
+for any event A
 
 we have Q(A) > 0 if and only if P(A) > 0.
 
-## An equivalent
+# An equivalent
 
 probability measure Q is an equivalent martingale measure for the price pro-
 
 cess X of N given securities if X is a martingale with respect to Q
 
-## and if
+and if
 
 the Radon-Nikodym derivative ξ (defined in Appendix C) has finite vari-
 
@@ -10366,7 +10366,7 @@ to as a “risk-neutral” measure.
 
 In the finite-state setting of Chapter 2
 
-### it was shown that the existence
+it was shown that the existence
 
 of a state-price deflator is equivalent to the existence of an equivalent martingale measure (after some deflation).
 
@@ -10378,9 +10378,9 @@ setting.
 
 Aside from offering a conceptual simplification of some asset
 
-### pricing and investment problems
+pricing and investment problems
 
-### the use of equivalent martingale mea-
+the use of equivalent martingale mea-
 
 sures is justified by the large body of useful properties of martingales that
 
@@ -10392,7 +10392,7 @@ for the absence of arbitrage.
 
 We later show that a technical strengthening
 
-### Equivalent Martingale Measures 109
+# Equivalent Martingale Measures 109
 
 of the no-arbitrage condition of the following theorem implies the exis-
 
@@ -10404,7 +10404,7 @@ the arguments are the same as those used to show this equivalence in
 
 Chapter 2.
 
-## As in Section C
+# As in Section C
 
 we need to apply an integrability condition or
 
@@ -10414,17 +10414,17 @@ Theorem.
 
 If the price process X admits an equivalent martingale measure
 
-## then
+then
 
 there is no arbitrage in H*(X) or in Q(X).
 
 Proof: The proof is quite similar to that of Proposition C.
 
-## Let Q be
+# Let Q be
 
 an equivalent martingale measure.
 
-### Let θ be any self-financing trading
+Let θ be any self-financing trading
 
 strategy.
 
@@ -10432,13 +10432,13 @@ The idea of the proof is based on the case in which θ is bounded
 
 which we assume for the moment.
 
-### The fact that X is a martingale under Q
+# The fact that X is a martingale under Q
 
 implies that E_Q( ∫_0^t θ_s dX_s ) = 0.
 
 The self-financing condition (1) therefore
 
-## implies that
+implies that
 
 0 = X_0 + ∫_0^t θ_s dX_s = X_0 + E_Q(∫_0^t θ_s dX_s).
 
@@ -10456,11 +10456,11 @@ strategies.
 
 For the case of any self-financing trading strategy θ ∈ H*(X)
 
-## addi-
+addi-
 
 tional technical arguments are needed to show that E_Q( ∫_0^t θ_s dX_s ) = 0.
 
-## As X is an Ito process
+# As X is an Ito process
 
 we can write dX_t = μ dt + σ_t dB_t for appropriate
 
@@ -10468,21 +10468,21 @@ we can write dX_t = μ dt + σ_t dB_t for appropriate
 
 By the Diffusion Invariance Principle (Appendix D)
 
-## there is
+there is
 
 a standard Brownian motion B^Q in R^m under Q such that dX_t = σ_t dB_t^Q.
 
 Let Z = ∫_0^T |θ_s σ_s|^2 dt.
 
-## Because θ is in H*(X)
+Because θ is in H*(X)
 
-## Y has finite expectation
+# Y has finite expectation
 
 under P.
 
 The product of two random variables of finite variance is of
 
-## finite expectation
+finite expectation
 
 so ξ Y is also of finite expectation under P.
 
@@ -10498,27 +10498,27 @@ The remainder of the proof for this case is covered
 
 by the arguments used for bounded θ.
 
-## For the case of θ ∈ Q(X)
+For the case of θ ∈ Q(X)
 
-### the arguments used in the proof of
+the arguments used in the proof of
 
 Proposition C imply that the wealth process W
 
-## defined by W_t = θ_t · X_t
+defined by W_t = θ_t · X_t
 
-## a supermartingale under Q
+a supermartingale under Q
 
-### so that E_Q(θ_T · X_T) ≤ θ_0 · X_0
+so that E_Q(θ_T · X_T) ≤ θ_0 · X_0
 
-## implying that θ
+implying that θ
 
 cannot be an arbitrage.
 
-## In most cases
+# In most cases
 
 the theorem is applied along the lines of the following
 
-## Corollary
+# Corollary
 
 a consequence of the corollary to the Numeraire Invariance
 
@@ -10528,11 +10528,11 @@ Corollary.
 
 If there is a deflator Y such that the deflated price process X^Y admits an
 
-## equivalent martingale measure
+equivalent martingale measure
 
 then there is no arbitrage in H*(X^Y) or in Q(X^Y).
 
-### If there is a short-rate process r
+# If there is a short-rate process r
 
 it is typical in applications to take the
 
@@ -10540,13 +10540,13 @@ deflator Y defined by Y_t = exp(— ∫_0^t r_s ds).
 
 If r is bounded, then we have
 
-### H*(X^Y) = H*(X) and Q(X^Y) = Q(X)
+H*(X^Y) = H*(X) and Q(X^Y) = Q(X)
 
-### so the previous result can be stated
+so the previous result can be stated
 
 in a more natural form.
 
-### State Prices and Martingale Measures
+# State Prices and Martingale Measures
 
 We now investigate the relationship between equivalent martingale mea-
 
@@ -10556,35 +10556,35 @@ They turn out to be effectively the same
 
 concept.
 
-### We take as given the setup of Section A
+# We take as given the setup of Section A
 
-## including a price process
+including a price process
 
 X for N securities.
 
 For a probability measure Q equivalent to P
 
-## the density process ξ for
+the density process ξ for
 
-### Q is the martingale defined by
+# Q is the martingale defined by
 
-## dξ_t
+dξ_t
 
 ξ_t = E_P(dQ|F_t), t ∈ [0, T], (9)
 
 where 4 is the Radon-Nikodym derivative of Q with respect to P.
 
-## stated in Appendix C
+stated in Appendix C
 
-## for any times t and s > t
+for any times t and s > t
 
-## and any F_t-measurable
+and any F_t-measurable
 
 random variable W such that E_P(|W|) < ∞
 
 E_Q(ξ_t W) = ξ_t E_P(W), t ∈ [0, T].
 
-## (10)
+(10)
 
 Proposition.
 
@@ -10592,27 +10592,27 @@ Suppose there is a short-rate process r and let Y be defined by Y_t =
 
 exp(— ∫_0^t r_s ds).
 
-## Suppose
+# Suppose
 
-## after deflation by Y
+after deflation by Y
 
-### that there is an equivalent mar-
+that there is an equivalent mar-
 
 tingale measure with density process ξ.
 
 Then a state-price deflator T is defined by
 
-## T = ξ Y
+T = ξ Y
 
 provided var(T_t) < ∞ for all t.
 
 Conversely, suppose T is a state-price
 
-### deflator and let ξ be defined by
+deflator and let ξ be defined by
 
 ξ_t = E_P(dQ/dP|F_t), t ∈ [0, T].
 
-## (11)
+(11)
 
 Then, provided var(ξ_t) is finite
 
@@ -10622,9 +10622,9 @@ gale measure.
 
 Proof: Suppose
 
-## after deflation by Y
+after deflation by Y
 
-### that there is an equivalent martingale
+that there is an equivalent martingale
 
 measure Q with density process ξ.
 
@@ -10638,53 +10638,53 @@ E_t(ξ_s X_s^Y) = E_Q(ξ_s X_s^Y) = ξ_t E_Q(X_s^Y) = ξ_t X_t^Y = T_t X_t^Y.
 
 (12).
 
-### Girsanov and Market Prices of Risk 111
+# Girsanov and Market Prices of Risk 111
 
 (These expectations exist because both X_s^Y and T_s have finite variances.
 
-### This shows that X^Y is a martingale
+This shows that X^Y is a martingale
 
 so T is indeed a state-price deflator.
 
-## Conversely
+# Conversely
 
-### suppose T is a state-price deflator
+suppose T is a state-price deflator
 
-### and let ξ be definedimal rank d
+and let ξ be definedimal rank d
 
-## however
+however
 
-### there can be at most one solution n(ω
+there can be at most one solution n(ω
 
 t) to (13).
 
 This maximal-rank condition is equivalent to the condition that the span
 
-## of the rows of σ(ω
+of the rows of σ(ω
 
-## t) is all of R^d
+t) is all of R^d
 
-### which is reminiscent of the uniqueness
+which is reminiscent of the uniqueness
 
 condition for equivalent martingale measures found in Chapter 2.
 
 Proposition.
 
-### If rank σ = d almost everywhere
+If rank σ = d almost everywhere
 
-### then there is at most one market
+then there is at most one market
 
 price of risk and at most one equivalent martingale measure.
 
-## If there is a unique
+# If there is a unique
 
-## market-price-of-risk process
+market-price-of-risk process
 
 then rank σ = d almost everywhere.
 
-## Black-Scholes Again 115
+# Black-Scholes Again 115
 
-## Black-Scholes Again
+# Black-Scholes Again
 
 Suppose the given security-price process is X = (X^0
 
@@ -10700,11 +10700,11 @@ dS_t = μ_t dt + σ_t dB_t, and
 
 dB_t = r_t B_t dt, B_0 > 0,
 
-## where μ
+where μ
 
 σ, and r are adapted processes (valued in R^{N-1}
 
-## R^{(N-1)×d}
+R^{(N-1)×d}
 
 and R, respectively).
 
@@ -10722,13 +10722,13 @@ In order to apply Theorem G to the deflated price process X^Y = (Z
 
 1) it would be enough to know that Z has an L^2-reducible market price of risk.
 
-## Given this
+# Given this
 
 there would be an equivalent martingale measure Q and no arbitrage in X^Y(X) or @(X).
 
-## Suppose
+# Suppose
 
-## for the moment
+for the moment
 
 that this is the case.
 
@@ -10736,13 +10736,13 @@ By the Diffusion Invariance result of Appendix D there is a standard Brownian mo
 
 dZ_t = σ_t dB^Q_t.
 
-## Because S = BZ
+Because S = BZ
 
 another application of Ito’s Formula yields
 
 dS_t = r_t S_t dt + σ_t dB^Q_t.
 
-## (14)
+(14)
 
 This equation is an important intermediate result for arbitrage-free asset pricing
 
@@ -10752,7 +10752,7 @@ For the property that the “discounted” price process is a martingale
 
 Black-Scholes follows.
 
-## For example
+# For example
 
 this leads to an easy recovery of the Black-Scholes formula
 
@@ -10762,17 +10762,17 @@ Suppose that one of the securities with price processes S^0
 
 , S^{N-1} is an option on another.
 
-## For convenience
+# For convenience
 
 we denote the price process of the option by U and the price process of the underlying security by V
 
-## so that U_t = (V_t - K)^+
+so that U_t = (V_t - K)^+
 
-### for expiration at time T with some
+for expiration at time T with some
 
-## --- Page 68 ---
+--- Page 68 ---
 
-## 116 6.
+116 6.
 
 State Prices and Equivalent Martingale Measures
 
@@ -10780,11 +10780,11 @@ given exercise price K.
 
 Because U/B is by assumption a martingale under Q
 
-## we have
+we have
 
 E^Q [ (U_T/B_T) | F_t ] = U_t/B_t = exp(-∫_t^T r_s ds) E^Q [ (V_T - K)^+ | F_t ].
 
-## (15)
+(15)
 
 The reader is asked to verify as an exercise that this is the Black-Scholes formula for the case of d = 1
 
@@ -10792,43 +10792,43 @@ N = 3, V^0 = B
 
 and with constants r and nonzero σ such that
 
-## for all t
+for all t
 
 r_t = r and dV_t = V_t μ(t) dt + V_t σ dB_t
 
 where μ is a bounded adapted process.
 
-## Indeed
+# Indeed
 
-## in this case
+in this case
 
 Z has an L^2-reducible market-price-of-risk process
 
 so the assumption of an equivalent martingale measure is justified.
 
-## To be more precise
+# To be more precise
 
 it is sufficient for the absence of arbitrage that the option-price process is given by (15).
 
 Necessity of the Black-Scholes formula for the absence of arbitrage in X(X) or @(X) is formally addressed in Section J.
 
-## We can already see
+# We can already see
 
-## however
+however
 
 that the expectation in (15) defining the Black-Scholes formula does not depend on which equivalent martingale measure Q one chooses
 
 so one should expect that the Black-Scholes formula (15) is also necessary for the absence of arbitrage.
 
-## If (15) is not satisfied
+If (15) is not satisfied
 
-## for instance
+for instance
 
 there cannot be an equivalent martingale measure for S/B.
 
-## Unfortunately
+# Unfortunately
 
-### and for purely technical reasons
+and for purely technical reasons
 
 this is not enough to imply directly the necessity of (15) for the absence of well-behaved arbitrage
 
@@ -10836,7 +10836,7 @@ because we do not have a precise equivalence between the absence of arbitrage an
 
 Section J shows that other methods can be used to show necessity.
 
-## In the Black-Scholes setting
+# In the Black-Scholes setting
 
 we have at most one equivalent martingale measure because σ is nonzero
 
@@ -10854,23 +10854,23 @@ The results extend to the case of an infinite horizon
 
 as discussed in Section N.
 
-## Complete Markets
+# Complete Markets
 
 We say that a random variable W can be replicated by a self-financing trading strategy θ if it is obtained as the terminal value W = θ_T ⋅ X_T.
 
 Our basic objective in this section is to give a simple spanning condition on the diffusion σ of the price process X under which
 
-## up to technical integrability
+up to technical integrability
 
-## Complete Markets 117
+# Complete Markets 117
 
-## conditions
+conditions
 
 any random variable can be replicated (without resorting to “doubling strategies”).
 
 Proof: We can suppose that
 
-## without loss of generality
+without loss of generality
 
 the numeraire is the last of the N securities and write X^Y = (Z
 
@@ -10878,13 +10878,13 @@ Let B^Q be the standard Brownian motion in R^d under Q obtained by Girsanov’s 
 
 Because B^Q has the martingale representation property under Q
 
-## there is some p such that
+there is some p such that
 
 E^Q[WY_T | F_t] = E^Q[WY_t] + ∫_t^T p_s ⋅ dB^Q_s
 
-## t ∈ [0
+t ∈ [0
 
-## (16)
+(16)
 
 By the rank assumption on σ^Y and the fact that σ^Y = (σ
 
@@ -10892,39 +10892,39 @@ By the rank assumption on σ^Y and the fact that σ^Y = (σ
 
 , φ^{N-1} solving
 
-## ∑_{j=1}^{N-1} φ^j_t σ^{j
+∑_{j=1}^{N-1} φ^j_t σ^{j
 
-## k}_t = p^k_t
+k}_t = p^k_t
 
 k = 1,.
 
 , d, t ∈ [0,T].
 
-## (17)
+(17)
 
-## Let θ be defined by
+Let θ be defined by
 
-### θ^j_t = φ^j_t(WY_t/Z_t) + θ^0_t(1/Z_t)
+θ^j_t = φ^j_t(WY_t/Z_t) + θ^0_t(1/Z_t)
 
-## for j = 1
+for j = 1
 
 , N-1,
 
 θ^0_t = E^Q[WY_t | F_t] - ∑_{j=1}^{N-1} θ^j_t Z_t
 
-## t ∈ [0
+t ∈ [0
 
-## (18)
+(18)
 
 In order to further explore the dynamic spanning properties of the price process X
 
 we let @(X) denote the space of self-financing trading strategies in X.
 
-## The marketed space of X is
+# The marketed space of X is
 
 M(X) = {θ ⋅ X_t : θ ∈ @(X)}.
 
-### Note that M(X) is a subset of L^2(P)
+Note that M(X) is a subset of L^2(P)
 
 the space of all random variables with finite second moment (and therefore finite expectation)
 
@@ -10932,11 +10932,11 @@ because every θ ∈ @(X) is in @*(X).
 
 We say that markets are complete if the marketed space M(X) is actually equal to the space L^2(P).
 
-## Our objective now is to
+# Our objective now is to
 
-## --- Page 69 ---
+--- Page 69 ---
 
-## 118 6.
+118 6.
 
 State Prices and Equivalent Martingale Measures
 
@@ -10952,7 +10952,7 @@ then W is also in M(X).
 
 (This would mean that W is also replicated by some trading strategy in @.
 
-## ) For technical reasons
+) For technical reasons
 
 this closedness property is useful.
 
@@ -10970,7 +10970,7 @@ Theorem.
 
 Let Y_t = exp( -∫_0^t r_s ds) for a bounded short-rate process r.
 
-## For dX_t = μ_t dt + σ_t dB_t
+For dX_t = μ_t dt + σ_t dB_t
 
 suppose there is a bounded market-price-of-risk process for X^Y.
 
@@ -10978,7 +10978,7 @@ Then markets are complete if and only if rank(σ) = d almost everywhere.
 
 Proof: Let π be a bounded market-price-of-risk process for X^Y and Q be the associated equivalent martingale measure.
 
-## We can take X^Y = (Z
+We can take X^Y = (Z
 
 1), for an R^{N-1}-valued Ito process Z.
 
@@ -10986,9 +10986,9 @@ Let B^Q be the standard Brownian motion in R^d under Q defined by dB^Q_t = dB_t 
 
 Let W be a bounded random variable.
 
-## J.
+J.
 
-## Redundant Security Pricing
+# Redundant Security Pricing
 
 We return to the Black-Scholes example of Section H.
 
@@ -11002,7 +11002,7 @@ For a market with these two securities alone
 
 there is a bounded market-price-of-risk process.
 
-### It follows that markets are complete
+# It follows that markets are complete
 
 that there is an equivalent martingale measure Q after deflating by B
 
@@ -11018,7 +11018,7 @@ meaning that the option has the price process U defined by
 
 U_t = E_Q[ e^{-r(T-t)} (V_T - K)⁺ ].
 
-## In Section H
+# In Section H
 
 we showed that this pricing formula is sufficient for the absence of a well-behaved arbitrage with respect to (B
 
@@ -11026,11 +11026,11 @@ V, U).
 
 Now we show that this is the unique arbitrage-free price process for the option with that property.
 
-## (This was already shown
+(This was already shown
 
-## in effect
+in effect
 
-## in Chapter 5
+in Chapter 5
 
 but the following argument leads to a more general theorem.
 
@@ -11038,13 +11038,13 @@ but the following argument leads to a more general theorem.
 
 Let ψ be the R³-valued trading strategy defining investments at the short rate
 
-## in the underlying asset
+in the underlying asset
 
-### and in the option defined by ψ = (0
+and in the option defined by ψ = (0
 
 0, 0) for t < τ
 
-## More broadly
+# More broadly
 
 given some general price process X for the N “primitive” securities
 
@@ -11056,7 +11056,7 @@ Complete markets implies that any security (with finite-variance price process) 
 
 ** Suppose X admits an equivalent martingale measure Q.
 
-## Given X
+# Given X
 
 consider a redundant security with price process U in H₂.
 
@@ -11066,9 +11066,9 @@ Then (X, U) = (X₁, .
 
 U) if and only if U is a Q-martingale.
 
-## *Proof
+*Proof
 
-## * If U is a Q-martingale
+* If U is a Q-martingale
 
 then Q is an equivalent martingale measure for (X
 
@@ -11076,7 +11076,7 @@ U), implying no arbitrage in H₂(X
 
 U) by Theorem E.
 
-## Conversely
+# Conversely
 
 suppose U is not a Q-martingale.
 
@@ -11088,55 +11088,55 @@ In the definition of a redundant security
 
 one could have as easily substituted the credit-constrained class H₂(X
 
-### U) of trading strategies for W₂(X
+U) of trading strategies for W₂(X
 
 U), allowing a like condition on U in the statement of the theorem.
 
-## K.
+K.
 
-### Martingale Measures from No Arbitrage
+# Martingale Measures from No Arbitrage
 
-## So far
+# So far
 
 we have exploited the existence of an equivalent martingale measure as a sufficient condition for the absence of well-behaved arbitrage.
 
-### Now we turn to the converse issue
+# Now we turn to the converse issue
 
 Does the absence of well-behaved arbitrages imply the existence of an equivalent martingale measure?
 
 In the finite-dimensional setting of Chapter 2
 
-### we know that the answer is always
+we know that the answer is always
 
-## “After a change of numeraire
+“After a change of numeraire
 
 yes.
 
 ” Only technicalities stand between this finite-dimensional equivalence and the infinite-dimensional case we face here.
 
-### Because of these technicalities
+# Because of these technicalities
 
 this section can be skipped on a first reading.
 
 (a) For the first example of a Stieltjes integral
 
-## we let for some in
+we let for some in
 
 in which case .
 
-## (b) In the second case
+(b) In the second case
 
-## for some stopping time
+for some stopping time
 
-## we have
+we have
 
 , and ,
 
 where is the jump of at time .
 
-## For this second case
+# For this second case
 
-## we have
+we have
 
 , and ,
 
@@ -11148,19 +11148,19 @@ Because of the possibility of jumps in dividends
 
 it is now necessary to take an explicit stance
 
-## however
+however
 
 on whether security prices will be measured ex dividend or cum dividend.
 
-### We opt for the former convention
+# We opt for the former convention
 
 which means that for a dividend-price pair
 
-### a trading strategy is self-financing if
+a trading strategy is self-financing if
 
 where .
 
-## With this
+# With this
 
 an arbitrage is defined as a self-financing trading strategy with and
 
@@ -11172,11 +11172,11 @@ a trading strategy finances a dividend process if is a right continuous process 
 
 with .
 
-### With these new definitions in place
+# With these new definitions in place
 
 the term structure can be characterized from (20) as follows.
 
-### Given a bounded short-rate process
+# Given a bounded short-rate process
 
 suppose that is an equivalent martingale measure after deflation by
 
@@ -11186,9 +11186,9 @@ A unit zero-coupon riskless bond maturing at time is defined by the cumulative-d
 
 and , .
 
-## Because for
+# Because for
 
-## and because
+and because
 
 we know from case (b) of the Stieltjes integral that
 
@@ -11200,7 +11200,7 @@ This is also consistent with our earlier analysis of option prices
 
 where we have implicitly equated the terminal cum-dividend price of an option with its terminal dividend payment.
 
-## For example
+# For example
 
 with an option expiring at on a price process with exercise price
 
@@ -11210,7 +11210,7 @@ This seems innocuous.
 
 Had we actually allowed for the possibility that the terminal cum-dividend option price might be something other than
 
-## however
+however
 
 we would have needed a more complicated model and further analysis to conclude from the absence of arbitrage that is indeed the cum-dividend expiration value.
 
@@ -11224,9 +11224,9 @@ There are some applications for which we will want a version of Girsanov’s The
 
 Care must be taken.
 
-## For example
+# For example
 
-## on a given probability space
+on a given probability space
 
 let be the standard filtration of a standard Brownian motion
 
@@ -11242,7 +11242,7 @@ for some constant .
 
 This setup is completely standard.
 
-### We are naturally led to define
+# We are naturally led to define
 
 where , and re-express in the form
 
@@ -11250,21 +11250,21 @@ While is a standard Brownian motion under a measure equivalent to
 
 there may exist a probability measure under which
 
-### as required for risk-neutral pricing
+as required for risk-neutral pricing
 
 is a standard Brownian motion under .
 
-## However
+# However
 
 the measure and cannot be equivalent!
 
-## We can
+# We can
 
-## however
+however
 
-## rely on the fact
+rely on the fact
 
-## cited in the Notes
+cited in the Notes
 
 that a probability space on which there is a standard Brownian motion in can be constructed with the following properties
 
@@ -11272,15 +11272,15 @@ For any adapted process in such that for all
 
 and such that the local martingale defined by
 
-## satisfies for all
+satisfies for all
 
 there exists a probability measure on such that
 
-## - For any time
+- For any time
 
 and assign zero probability to the same events in .
 
-## That is
+# That is
 
 the restrictions of these two probability measures to are equivalent.
 
@@ -11288,39 +11288,39 @@ the restrictions of these two probability measures to are equivalent.
 
 - A standard Brownian motion in for and is defined by
 
-## - Under
+- Under
 
 has the martingale representation property.
 
-## That is
+# That is
 
 for any process that is a local martingale under
 
 there exists an adapted -valued process such that almost surely and such that
 
-## Somewhat more on this issue
+# Somewhat more on this issue
 
 including a sense in which is uniquely defined
 
 can be found in sources cited in the Notes.
 
-## **Exercises**
+**Exercises**
 
 1 Provide the details left out of the proof provided for Lemma G.
 
-## 6.2 Verify relation (14).
+# 6.2 Verify relation (14).
 
-### 3 In the setting of this chapter
+3 In the setting of this chapter
 
-## suppose
+suppose
 
 and there is a bounded short rate process .
 
 Suppose the price process of an underlying asset is
 
-## where
+where
 
-## where and are bounded
+where and are bounded
 
 and is bounded away from zero.
 
@@ -11340,7 +11340,7 @@ Hint: Construct an arbitrage that would apply if your proposed price process wer
 
 (C) For the price process that you found in part (B)
 
-## show that
+show that
 
 where is the event that the option expires in the money
 
@@ -11348,11 +11348,11 @@ and are probability measures equivalent to
 
 and , are constants.
 
-## All of
+# All of
 
 and do not depend on the strike price .
 
-## For each
+# For each
 
 provide and the constant and explain how can be obtained from market data without calculation.
 
@@ -11368,7 +11368,7 @@ for the case in which and are deterministic (but not necessarily constant)
 
 expressing the solution in terms of the Black-Scholes formula with an adjusted interest rate parameter and volatility parameter.
 
-## 6.4 Prove Theorem J.
+# 6.4 Prove Theorem J.
 
 5 Suppose that the return process for a self-financing trading strategy is well defined as an Itô process
 
@@ -11386,59 +11386,59 @@ First, consider a particular security with a dividend-rate process in .
 
 The cumulative-dividend process H is thus defined by H = ∫₀ᵗ Yₛ dSₛ
 
-## t ∈ [0
+t ∈ [0
 
 Suppose that the security's price process V satisfies V_Y = 0.
 
-## Suppose that Q is
+# Suppose that Q is
 
 an equivalent martingale measure with density ξ.
 
-## Let T be defined by T₀ = 1
+Let T be defined by T₀ = 1
 
 and (11).
 
 The fact that H^Y + V^P is a Q-martingale is equivalent to
 
-### Vₜ = (1/T) E^Q[ ∫ₜᵀ ξₛ Yₛ dSₛ ]
+Vₜ = (1/T) E^Q[ ∫ₜᵀ ξₛ Yₛ dSₛ ]
 
-## t ∈ [0
+t ∈ [0
 
-## Based on the definition of ξ
+Based on the definition of ξ
 
-## Fubini’s Theorem
+Fubini’s Theorem
 
-### the law of iterated expectations
+the law of iterated expectations
 
-### and the fact that ξ is a martingale
+and the fact that ξ is a martingale
 
-## show each of the equalities
+show each of the equalities
 
-### Vₜ = (1/T) E^P[ ∫ₜᵀ ξₛ Yₛ dSₛ ]
+Vₜ = (1/T) E^P[ ∫ₜᵀ ξₛ Yₛ dSₛ ]
 
-### = (1/T) E^P[ ∫ₜᵀ E^P[ξₛ | Fₜ] Yₛ dSₛ ]
+= (1/T) E^P[ ∫ₜᵀ E^P[ξₛ | Fₜ] Yₛ dSₛ ]
 
-## = ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
+= ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
 
-## = ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
+= ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
 
-## = (1/T) ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
+= (1/T) ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ
 
 = (1/T) ∫ₜᵀ E^P[ξₛ Yₛ] dSₛ.
 
 This calculation shows that H^P + V^P is a martingale
 
-## consistent with the def-
+consistent with the def-
 
 inition of T as a state-price deflator.
 
 Reversing the calculations shows that if T is
 
-### a state-price deflator and var(T) < ∞
+a state-price deflator and var(T) < ∞
 
-### then H^Y + V^P is a Q-martingale
+then H^Y + V^P is a Q-martingale
 
-## where Q
+where Q
 
 is the probability measure defined by its density process ξ from (11).
 
@@ -11448,7 +11448,7 @@ That is, suppose Q is an equiv-
 
 alent probability measure whose density process is of finite variance.
 
-## Show that
+# Show that
 
 V_Y + Y is a Q-martingale if and only if V^P + H^P is a P-martingale.
 
@@ -11456,15 +11456,15 @@ V_Y + Y is a Q-martingale if and only if V^P + H^P is a P-martingale.
 
 process.
 
-### (Although beyond our scope here
+(Although beyond our scope here
 
-### an extension of Ito’s Formula applying
+an extension of Ito’s Formula applying
 
 to general dividend processes that are not necessarily Ito processes shows that one
 
 need not assume that H is an Ito process.
 
-## 7 (State-Price Beta Again).
+7 (State-Price Beta Again).
 
 Recall that the cumulative-dividend process DV gen-
 
@@ -11478,7 +11478,7 @@ ties.
 
 Let G^θ denote the gain process generated by θ
 
-## defined by G^θ
+defined by G^θ
 
 = W^θ + D^θ.
 
@@ -11490,31 +11490,31 @@ show that R^θ satisfies the return restriction (6).
 
 Add technical conditions as necessary.
 
-## 9 In the setting of Section A
+9 In the setting of Section A
 
 a probability measure Q equivalent to P is called a
 
 local martingale measure for X if X is a local martingale under Q.
 
-## Show that if there
+# Show that if there
 
 is a local martingale measure for the deflated price process XY^Y
 
-## for some deflator
+for some deflator
 
 Y, then there is no arbitrage θ for X whose market-value process {θ_t·X_t
 
-## t ≥ 0}
+t ≥ 0}
 
-## is nonnegative
+is nonnegative
 
 a slightly stronger credit constraint than that of C(X).
 
-## 10 Suppose
+10 Suppose
 
-## for some numeraire deflator Y
+for some numeraire deflator Y
 
-### that XY has a market-price-of-risk
+that XY has a market-price-of-risk
 
 process π such that ∫₀ᵀ πₜ dt < ∞.
 
@@ -11524,33 +11524,33 @@ market-value process is nonnegative.
 
 Add no regularity conditions.
 
-### 11 Prove numeraire invariance with dividends
+11 Prove numeraire invariance with dividends
 
 in the form of Lemma L.
 
-## Notes 131
+# Notes 131
 
-## Notes
+# Notes
 
 The basic approach of this chapter is from Harrison and Kreps (1979) and
 
-## Harrison and Pliska (1981)
+Harrison and Pliska (1981)
 
 who coined most of the terms and developed most of
 
 the techniques and basic results.
 
-## Huang (1985b
+Huang (1985b
 
 c) generalized the basic theory.
 
 The development here differs in some minor ways.
 
-## Most of the results in this
+# Most of the results in this
 
 chapter extend to an abstract filtration
 
-### not necessarily generated by Brownian
+not necessarily generated by Brownian
 
 motion.
 
@@ -11560,43 +11560,43 @@ motion.
 
 On numeraire invariance in more general settings
 
-## see Huang (1985b)
+see Huang (1985b)
 
-## and Protter (1999)
+and Protter (1999)
 
-## and on the role of numeraire
+and on the role of numeraire
 
-## see Geman
+see Geman
 
-## El Karoui
+# El Karoui
 
 Rochet (1995).
 
-### (C) The idea of a doubling strategy
+(C) The idea of a doubling strategy
 
 as described here in terms of coin tosses
 
 appears in Harrison and Kreps (1979).
 
-### The actual continuous-time “doubling”
+The actual continuous-time “doubling”
 
-## strategy (3)-(4)
+strategy (3)-(4)
 
 and proof that the associated stopping time τ is valued in
 
 (0, T)
 
-## is from Karatzas (1993)
+is from Karatzas (1993)
 
 as is a version of Lemma G.
 
-## The relevance of
+# The relevance of
 
 the credit-constrained class C(X) of trading strategies and related results such as
 
 Proposition C originate with Dybvig and Huang (1988).
 
-## Hindy (1995) explores
+Hindy (1995) explores
 
 further the implications of a nonnegative wealth constraint.
 
@@ -11604,17 +11604,17 @@ further the implications of a nonnegative wealth constraint.
 
 (E) Equivalent martingale measures were developed in Harrison and Kreps
 
-## (1979)
+(1979)
 
-### who also developed the equivalence
+who also developed the equivalence
 
-## up to technical issues
+up to technical issues
 
-## of the absence
+of the absence
 
 of arbitrage and the existence of equivalent martingale measures.
 
-## This section
+# This section
 
 presents only one direction of that result.
 
@@ -11630,9 +11630,9 @@ Huang and Pagés (1992) give an extension to the case of an infinite-
 
 time horizon.
 
-## Choulli
+# Choulli
 
-## Krawczyk
+# Krawczyk
 
 and Stricker (1998) address the role of mar-
 
@@ -11640,15 +11640,15 @@ tingales that are stochastic exponentials (such as a density process) in financi
 
 applications.
 
-## Loewenstein and Willard (1998
+Loewenstein and Willard (1998
 
-### 1999) treat the implications of local
+1999) treat the implications of local
 
 martingale versions of a “density process” for what would
 
-## as a martingale
+as a martingale
 
-## define
+define
 
 an equivalent martingale measure.
 
@@ -11662,27 +11662,27 @@ More on this can be found in Artzner and Heath (1990
 
 1995),
 
-## Brown and Madan (1991)
+Brown and Madan (1991)
 
-## Miller (1985)
+Miller (1985)
 
-## Protter (1999)
+Protter (1999)
 
 and Stricker (1984).
 
-## Stichnoth
+# Stichnoth
 
-## Schachermayer
+# Schachermayer
 
-## Schweizer
+# Schweizer
 
-### and Stricker (1994) and Monat and
+and Stricker (1994) and Monat and
 
-## Stricker (1994
+Stricker (1994
 
 1995) provide conditions for L²-closedness of the marketed space
 
-## of contingent claims
+of contingent claims
 
 a property used in the last section and in the proof of
 
@@ -11690,7 +11690,7 @@ Proposition I.
 
 Rydberg (1997) discusses uniqueness in a Markovian setting.
 
-## 132 6.
+132 6.
 
 State Prices and Equivalent Martingale Measures
 
@@ -11700,9 +11700,9 @@ tions, see Duffie (1985).
 
 (K) The main technical result used in Section K
 
-## on the extension of positive
+on the extension of positive
 
-## linear functionals
+linear functionals
 
 is inspired by Kreps (1981) and can be found specifically in
 
@@ -11710,11 +11710,11 @@ Clark (1993).
 
 The notion of an approximate arbitrage is a slight variation on
 
-## the notion of a free lunch
+the notion of a free lunch
 
 introduced by Kreps (1981).
 
-## Related results leading
+# Related results leading
 
 to technical conditions for the existence of an equivalent martingale measure
 
@@ -11722,7 +11722,7 @@ are based on Harrison and Kreps (1979) and Harrison and Pliska (1981).
 
 result applies without technical qualification in discrete-time settings
 
-## as shown
+as shown
 
 by Dalang, Morton, and Willinger (1990).
 
@@ -11732,39 +11732,39 @@ and Stricker (2000).
 
 Delbaen and Schachermayer (1999) offer a definitive
 
-### result in continuous-time settings
+result in continuous-time settings
 
 based on the notion of a free lunch with van-
 
-## ishing risk
+ishing risk
 
 which is closely related to that of an approximate arbitrage.
 
-## They
+# They
 
-## show the equivalence
+show the equivalence
 
-### after deflation by a numeraire deflator
+after deflation by a numeraire deflator
 
-## between no free
+between no free
 
 lunch with vanishing risk and the existence of a local martingale measure.
 
-## previous and related results
+previous and related results
 
-## see Ansel and Stricker (1992
+see Ansel and Stricker (1992
 
-## 1994b)
+1994b)
 
-## Back and
+# Back and
 
-## Pliska (1987)
+Pliska (1987)
 
-## Cassese (1996) Delbaen (1992)
+Cassese (1996) Delbaen (1992)
 
-## Delbaen and Schachermayer
+# Delbaen and Schachermayer
 
-## (1994a
+(1994a
 
 b, 1995a
 
@@ -11772,31 +11772,31 @@ b,c, 1996a
 
 b, 1998)
 
-## Duffie and Huang (1986)
+Duffie and Huang (1986)
 
-## El Karoui and
+# El Karoui and
 
-## Quenez (1995)
+Quenez (1995)
 
-## Frittelli and Lakner (1995)
+Frittelli and Lakner (1995)
 
-## Jacod and Shiryaev (1998)
+Jacod and Shiryaev (1998)
 
-## Kabanov
+# Kabanov
 
-## (1996)
+(1996)
 
-## Kabanov and Kramkov (1994
+Kabanov and Kramkov (1994
 
 1995), Kusuoka (1992a)
 
-## Lakner (1993a
+Lakner (1993a
 
-## Levental and Skorohod (1995)
+Levental and Skorohod (1995)
 
-## Rogers (1994)
+Rogers (1994)
 
-## Schachermayer (1992
+Schachermayer (1992
 
 1994,
 
@@ -11808,25 +11808,25 @@ For various notions of counterexamples to the existence of an equivalent
 
 martingale measure in the absence of arbitrage
 
-## see Stricker (1990)
+see Stricker (1990)
 
-## Back and
+# Back and
 
-## Pliska (1991)
+Pliska (1991)
 
-### Delbaen and Schachermayer (1994b)
+Delbaen and Schachermayer (1994b)
 
-## Schachermayer (1993)
+Schachermayer (1993)
 
 Levental and Skorohod (1995).
 
 (L-M) The extensions to handle dividends and jumps is routine.
 
-## The Stieltjes
+# The Stieltjes
 
-## integral
+integral
 
-## mentioned in Section M
+mentioned in Section M
 
 can be found in an analysis text such as Royden
 
@@ -11834,23 +11834,23 @@ can be found in an analysis text such as Royden
 
 In order to see a sense in which the absence of arbitrage implies that
 
-### terminal ex-dividend prices are zero
+terminal ex-dividend prices are zero
 
 see Ohashi (1991).
 
-## This issue is especially
+# This issue is especially
 
 delicate in non-Brownian information settings
 
-## since the event that X_t ≠ 0
+since the event that X_t ≠ 0
 
 insome informational sense not explored here
 
-### can be suddenly revealed at time T
+can be suddenly revealed at time T
 
 and therefore be impossible to exploit with a simultaneous trade.
 
-## For further
+# For further
 
 discussion of the terminal arbitrage issue
 
@@ -11858,13 +11858,13 @@ see Ohashi (1991).
 
 (N) The motivation here is from Huang and Pagès (1992).
 
-## The results extending
+# The results extending
 
 Girsanov’s Theorem are based on Revuz and Yor (1991)
 
 Section VI.
 
-## Additional Topics
+# Additional Topics
 
 Banz and Miller (1978) and Breeden and Litzenberger
 
@@ -11872,9 +11872,9 @@ Banz and Miller (1978) and Breeden and Litzenberger
 
 Amendinger (1999) treats martingale representation for enlarged filtrations.
 
-## Imkeller
+# Imkeller
 
-## Pontier
+# Pontier
 
 and Weisz (1999) address the existence of arbitrage after enlarg-
 
@@ -11884,19 +11884,19 @@ Dritschel and Protter (1998) apply martingale representation in a financial
 
 setting involving Azema’s martingale.
 
-## Notes 133
+# Notes 133
 
-## Babbs and Selby (1996)
+Babbs and Selby (1996)
 
-## Bühlmann
+Bühlmann
 
-## Delbaen
+# Delbaen
 
-## Embrechts
+# Embrechts
 
-## and Shiryaev
+and Shiryaev
 
-## (1998)
+(1998)
 
 and Föllmer and Schweizer (1990) suggest some criteria or parame-
 
@@ -11904,19 +11904,19 @@ terization for the selection of an equivalent martingale measure in incomplete
 
 markets.
 
-## In particular
+# In particular
 
-## Artzner (1995)
+Artzner (1995)
 
-### Bajeux-Besnainou and Portait (1997)
+Bajeux-Besnainou and Portait (1997)
 
-## Dijkstra (1996)
+Dijkstra (1996)
 
-## Johnson (1994)
+Johnson (1994)
 
 and Long (1990) address the numeraire portfolio
 
-### also called growth-optimal portfolio
+also called growth-optimal portfolio
 
 as a device for selecting a state-price deflator.
 
@@ -11930,77 +11930,77 @@ Analogues to some of the results in Chapter 5 or in this chapter for the
 
 case of market imperfections such as portfolio constraints or transactions costs
 
-## are provided by Ahn
+are provided by Ahn
 
 Dayal, Grannan
 
-## and Swindle (1995)
+and Swindle (1995)
 
-## Avellaneda and
+# Avellaneda and
 
-## Parès (1994a)
+Parès (1994a)
 
-## Bergman (1995)
+Bergman (1995)
 
-## Boyle and Vorst (1992)
+Boyle and Vorst (1992)
 
-## Carassus and Jouini
+# Carassus and Jouini
 
-## (1998)
+(1998)
 
-## Chen (1994)
+Chen (1994)
 
-## Clewlow and Hodges (1996)
+Clewlow and Hodges (1996)
 
-## Constantinides (1993)
+Constantinides (1993)
 
-### Constantinides and Zariphopoulou (1999)
+Constantinides and Zariphopoulou (1999)
 
-## Cvitanić and Karatzas (1993)
+Cvitanić and Karatzas (1993)
 
-## Davis
+# Davis
 
-## and Clark (1993)
+and Clark (1993)
 
-## Davis and Panas (1991)
+Davis and Panas (1991)
 
 Davis, Panas
 
-## and Zariphopoulou
+and Zariphopoulou
 
-## (1993)
+(1993)
 
-## Edirisinghe
+# Edirisinghe
 
 Naik, and Uppal (1993)
 
-## Grannan and Swindle (1996)
+Grannan and Swindle (1996)
 
-## Henrotte (1991)
+Henrotte (1991)
 
-## Jouini and Kallal (1993a
+Jouini and Kallal (1993a
 
 1995), Karatzas and Kou (1998)
 
-## Korn (1995)
+Korn (1995)
 
-## Kusuoka (1992b
+Kusuoka (1992b
 
 1993), Leland (1985)
 
-## Levental and Skorohod
+# Levental and Skorohod
 
-## (1997)
+(1997)
 
-## Luttmer (1996)
+Luttmer (1996)
 
-## Munk (1997)
+Munk (1997)
 
 Soner, Shreve
 
-## and Cvitanić (1994)
+and Cvitanić (1994)
 
-## Taleb
+# Taleb
 
 (1997), and Whalley and Wilmott (1997).
 
@@ -12008,7 +12008,7 @@ Many of these results are asymptotic,
 
 for “small” proportional transactions costs
 
-### based on the approach of Leland
+based on the approach of Leland
 
 (1985).
 
@@ -12022,39 +12022,39 @@ Application to international markets is given by Delbaen and Shirakawa.
 
 General treatments of some of the issues covered in this chapter can be
 
-### found in Babbs and Selby (1996)
+found in Babbs and Selby (1996)
 
-## Back and Pliska (1991)
+Back and Pliska (1991)
 
-## Christensen (1987
+Christensen (1987
 
 1991), Conze and Viswanathan (1991b)
 
-## Dothan (1990)
+Dothan (1990)
 
-## El Karoui and Quenez
+# El Karoui and Quenez
 
-## (1991)
+(1991)
 
-## El Karoui and Quenez (1995)
+El Karoui and Quenez (1995)
 
-## Jarrow and Madan (1999)
+Jarrow and Madan (1999)
 
-## Jouini and Kallal
+# Jouini and Kallal
 
-## (1995)
+(1995)
 
-## Karatzas (1993)
+Karatzas (1993)
 
-## Miller (1985)
+Miller (1985)
 
-## Protter (1999)
+Protter (1999)
 
 and Rady (1993).
 
-## --- Page 77 ---
+--- Page 77 ---
 
-## Term-Structure Models
+# Term-Structure Models
 
 THIS CHAPTER REVIEWS models of the term structure of interest rates
 
@@ -12062,13 +12062,13 @@ that are used for the pricing and hedging of fixed-income securities
 
 those whose future payoffs are contingent on future interest rates.
 
-## Term-
+# Term-
 
 structure modeling is one of the most active and sophisticated areas of
 
 application of financial theory to everyday business problems
 
-## ranging
+ranging
 
 from managing the risk of a bond portfolio to the design and pricing of
 
@@ -12076,27 +12076,27 @@ collateralized mortgage obligations.
 
 Included in this chapter are such standard examples as the Merton
 
-## Ho-Lee
+# Ho-Lee
 
-## Dothan
+# Dothan
 
-## Brennan-Schwartz
+# Brennan-Schwartz
 
-## Vasicek
+# Vasicek
 
-## Black-Derman-Toy
+# Black-Derman-Toy
 
-## Black-
+# Black-
 
-## Karasinski
+# Karasinski
 
-## and Cox-Ingersoll-Ross models
+and Cox-Ingersoll-Ross models
 
-### and variations of these “single-
+and variations of these “single-
 
-## factor” term-structure models
+factor” term-structure models
 
-### so named because they treat the entire
+so named because they treat the entire
 
 term structure of interest rates at any time as a function of a single state
 
@@ -12104,9 +12104,9 @@ variable, the short rate of interest.
 
 We will also review multifactor models,
 
-### including multifactor affine models
+including multifactor affine models
 
-### extending the Cox-Ingersoll-Ross
+extending the Cox-Ingersoll-Ross
 
 and Vasicek models.
 
@@ -12116,11 +12116,11 @@ in terms of marginal forward rates rather than directly in terms of interest
 
 rates, within the Heath-Jarrow-Morton (HJM) term-structure framework.
 
-## The HJM framework allows
+# The HJM framework allows
 
-## under technical conditions
+under technical conditions
 
-## any initial term
+any initial term
 
 structure of forward interest rates and any process for the conditional
 
@@ -12128,19 +12128,19 @@ volatilities and correlations of these forward rates.
 
 Numerical tractability is essential for practical applications.
 
-## The “cal-
+The “cal-
 
 ibration” of model parameters and the pricing of term-structure deriva-
 
 tives are typically done by such numerical methods as “binomial trees”
 
-## (Chapter 3)
+(Chapter 3)
 
-### Fourier transform methods (Chapter 8)
+Fourier transform methods (Chapter 8)
 
-## Monte Carlo simu-
+# Monte Carlo simu-
 
-## lation (Chapter 12)
+lation (Chapter 12)
 
 and finite-difference solution of PDEs (Chapter 12).
 
@@ -12148,29 +12148,29 @@ This chapter makes little direct use of the pricing theory developed
 
 in Chapter 6 beyond the basic idea of an equivalent martingale measure
 
-## --- Page 78 ---
+--- Page 78 ---
 
-## 136 7. Term-Structure Models
+136 7. Term-Structure Models
 
 which can therefore be treated as a “black box.
 
-## ” One need only remember
+” One need only remember
 
 that, with probabilities assigned by an equivalent martingale measure
 
 expected rate of return on any security is the short rate of interest.
 
-## Since
+# Since
 
 the existence of an equivalent martingale measure is
 
-## except for purely
+except for purely
 
-## technical conditions
+technical conditions
 
-### equivalent to the absence of arbitrage
+equivalent to the absence of arbitrage
 
-## we find it safe
+we find it safe
 
 and convenient to work almost from the outset under an assumed equiv-
 
@@ -12180,13 +12180,13 @@ Sufficient conditions for an equivalent martin-
 
 gale measure are reviewed in Chapter 6.
 
-### An equilibrium example is given
+# An equilibrium example is given
 
 in Chapter 10.
 
-## In empirical applications
+# In empirical applications
 
-### it is often convenient to specify
+it is often convenient to specify
 
 the probabilistic properties of a term-structure model under an equiva-
 
@@ -12194,15 +12194,15 @@ lent martingale measure and also under a probability measure reflecting
 
 actual data generation.
 
-## The Term Structure
+# The Term Structure
 
 We fix a standard Brownian motion B = (B₁
 
 , B_d) in R^d, for some
 
-## dimension d > 1
+dimension d > 1
 
-### restricted to some time interval [0
+restricted to some time interval [0
 
 T], on a given prob-
 
@@ -12214,31 +12214,31 @@ t < T} of B, as defined in Section 5.
 
 We take as given an adapted short-rate process r with E ∫_0^T |r_t| dt < ∞.
 
-## Conceptually
+# Conceptually
 
 r is the continually compounding rate of interest on riskless
 
 securities at time t.
 
-### This is formalized by supposing that
+# This is formalized by supposing that
 
-## for any time t
+for any time t
 
 one can invest one unit of account and achieve a market value at any
 
 future time s of exp(∫_t^s r_u du).
 
-### This may be viewed as the proceeds of
+# This may be viewed as the proceeds of
 
 continual reinvestment at the short rate r.
 
 Consider a zero-coupon bond maturing at some future time s > t.
 
-## definition
+definition
 
 the bond pays no dividends before time s
 
-## and offers a fixed
+and offers a fixed
 
 lump-sum payment at time s that we can take without loss of generality
 
@@ -12258,9 +12258,9 @@ t, of the s-maturity bond
 
 and its behavior over time.
 
-## In the absence of arbitrage
+# In the absence of arbitrage
 
-### purely technical conditions reviewed in
+purely technical conditions reviewed in
 
 Chapter 6 are required for the existence of an equivalent martingale mea-
 
@@ -12272,15 +12272,15 @@ whose dividend is in the form of a lump-sum payment of Z at some time
 
 s has a price, at any time t < s, of
 
-### E^Q [ exp( -∫_t^s r_u du ) Z | F_t ]
+E^Q [ exp( -∫_t^s r_u du ) Z | F_t ]
 
-### One-Factor Term-Structure Models 137
+# One-Factor Term-Structure Models 137
 
 where E^Q denotes F_t-conditional expectation under Q.
 
 Here, Z would
 
-## be F_s-measurable
+be F_s-measurable
 
 and such that the expectation (1) is well defined.
 
@@ -12288,23 +12288,23 @@ review of Theorem 2.
 
 6 justifies the easy finite-dimensional version of (1).
 
-## In particular
+# In particular
 
-## taking Z = 1 in (1)
+taking Z = 1 in (1)
 
-### the price at time t of the zero-coupon
+the price at time t of the zero-coupon
 
-## bond maturing at s is
+bond maturing at s is
 
 P(t, s) = E^Q [ exp( -∫_t^s r_u du ) | F_t ].
 
 The doubly indexed process P is sometimes known as the discount
 
-## function
+function
 
 or more loosely as the term structure of interest rates.
 
-## The term
+# The term
 
 structure is often expressed in terms of the yield curve.
 
@@ -12314,11 +12314,11 @@ The term structure can also be represented in terms of forward interest rates
 
 as explained in Section J.
 
-## In most of this chapter
+# In most of this chapter
 
 we review conventional models of the behavior of the short rate under a fixed equivalent martingale measure .
 
-## In each case
+# In each case
 
 is modeled in terms of the standard Brownian motion in under that is obtained from via Girsanov’s Theorem (Appendix D).
 
@@ -12328,7 +12328,7 @@ We will characterize the term structure and the pricing of term-structure deriva
 
 securities whose payoffs depend on the term structure.
 
-### One-Factor Term-Structure Models
+# One-Factor Term-Structure Models
 
 We begin with one-factor term-structure models
 
@@ -12342,17 +12342,17 @@ For simplicity, we can take .
 
 The one-factor models are so named because the Markov property (under ) of the solution to (3) implies from (2) that the short rate is the only state variable
 
-## or “factor
+or “factor
 
-### ” on which the current yield curve
+” on which the current yield curve
 
-## 138 7. Term-Structure Models
+138 7. Term-Structure Models
 
 Table 7.
 
-### Common Single-Factor Model Parameters
+# Common Single-Factor Model Parameters
 
-## Model
+# Model
 
 Cox-Ingersoll-Ross 0 0.
 
@@ -12372,11 +12372,11 @@ Constantinides-Ingersoll 0.
 
 depends.
 
-## That is
+# That is
 
-## for all and
+for all and
 
-## we can write
+we can write
 
 for some fixed .
 
@@ -12388,13 +12388,13 @@ with their conventional names.
 
 Each of these models is a special case of the SDE
 
-## for continuous functions
+for continuous functions
 
-## and on into
+and on into
 
 and for some exponent .
 
-## Coefficient restrictions
+# Coefficient restrictions
 
 and restrictions on the space of possible short rates
 
@@ -12402,7 +12402,7 @@ are needed for the existence and uniqueness of solutions.
 
 For each model, Table 7.
 
-### 1 shows the associated exponent
+1 shows the associated exponent
 
 and uses the symbol “ ” to indicate those coefficients that appear in nonzero form.
 
@@ -12412,11 +12412,11 @@ in that a higher short rate generates a lower drift
 
 and vice versa.
 
-## Empirically speaking
+# Empirically speaking
 
 mean reversion is widely believed to be a useful attribute to include in single-factor short-rate models.
 
-## In most cases
+# In most cases
 
 the original versions of these models had constant coefficients
 
@@ -12426,9 +12426,9 @@ such as calibration of the model to a given set of bond and option prices
 
 as described in Section 12M.
 
-## For example
+# For example
 
-### with time-varying coefficients
+with time-varying coefficients
 
 the Merton model of the term structure is often called the Ho-Lee model.
 
@@ -12444,13 +12444,13 @@ some of which will be reviewed below.
 
 It tends to depend on the application which of these
 
-## if any
+if any
 
 is used in practice.
 
-## The Notes cite some
+# The Notes cite some
 
-### The Gaussian Single-Factor Models 139
+# The Gaussian Single-Factor Models 139
 
 of the empirical evidence regarding these single-factor models
 
@@ -12458,7 +12458,7 @@ in some cases strongly pointing toward multifactor extensions
 
 to which we will turn later in this chapter.
 
-### For essentially any single-factor model
+# For essentially any single-factor model
 
 the term structure can be computed (numerically
 
@@ -12468,19 +12468,19 @@ Fixing for convenience the maturity date
 
 the Feynman-Kac approach implies from (2)
 
-### under technical conditions on and
+under technical conditions on and
 
-## that for all
+that for all
 
-## where solves the PDE
+where solves the PDE
 
-## with boundary condition
+with boundary condition
 
-## where
+where
 
-### According to the results in Appendix E
+# According to the results in Appendix E
 
-### in order for (4)–(6) to be consistent
+in order for (4)–(6) to be consistent
 
 it is enough that and are nonnegative and that and satisfy Lipschitz conditions in and have derivatives and that are continuous and satisfy growth conditions in .
 
@@ -12494,7 +12494,7 @@ which must be treated on a case-by-case basis.
 
 The PDE (5)–(6) can be quickly solved using numerical algorithms described in Chapter 12.
 
-## If and do not depend on
+# If and do not depend on
 
 then, for any calendar time and any time remaining to maturity
 
@@ -12502,25 +12502,25 @@ we can also view the solution to (5)–(6) as determining the price at time of t
 
 so that a single function describes the entire term structure at any time.
 
-### The Gaussian Single-Factor Models
+# The Gaussian Single-Factor Models
 
 A subset of the models considered in Table 7.
 
 1, those with
 
-## are Gaussian
+are Gaussian
 
 in that the short rates at any finite set of times have a joint normal distribution under .
 
-## This follows
+# This follows
 
-## 140 7. Term-Structure Models
+140 7. Term-Structure Models
 
 from the properties of linear stochastic differential equations reviewed in Appendix E.
 
 Special cases are the Merton (often called “Ho-Lee”) and Vasicek models.
 
-## For the Gaussian model
+# For the Gaussian model
 
 we can show that bond-price processes are log-normal (under ) by defining a new process satisfying
 
@@ -12534,7 +12534,7 @@ the random variable is normally distributed.
 
 Under , the mean and variance of
 
-## conditional on
+conditional on
 
 are easily computed in terms of and .
 
@@ -12544,15 +12544,15 @@ the conditional variance is deterministic and the conditional mean is of the for
 
 for coefficients and whose calculation is left as an exercise.
 
-## It follows that
+# It follows that
 
 where .
 
-### Because is normally distributed under
+# Because is normally distributed under
 
 this means that any zero-coupon bond price is log-normally distributed under .
 
-## Using this property
+# Using this property
 
 a further exercise requests explicit computation of bond-option prices in this setting
 
@@ -12570,11 +12570,11 @@ it is common in practice to express term structures in nominal terms
 
 relative to the price of money.
 
-## In nominal terms
+# In nominal terms
 
 negative bond yields imply a kind of arbitrage.
 
-### In order to describe this arbitrage
+# In order to describe this arbitrage
 
 we can formally view money as a security with no dividends whose price process is identically equal to 1.
 
@@ -12588,17 +12588,17 @@ both held to the maturity of the bond.
 
 With a negative bond yield,
 
-### The Cox-Ingersoll-Ross Model 141
+# The Cox-Ingersoll-Ross Model 141
 
-### the initial bond price is larger than 1
+the initial bond price is larger than 1
 
 implying that this position is an arbitrage.
 
-## Of course
+# Of course
 
 the proposed alternative of everywhere positive interestrates
 
-## along with money
+along with money
 
 implies that the opposite strategy is an arbitrage
 
@@ -12614,7 +12614,7 @@ has a strictly positive price despite having no dividends means that short-
 
 ing money is itself a kind of arbitrage.
 
-### ) To address properly the role of
+) To address properly the role of
 
 money in supporting nonnegative interest rates would therefore require a
 
@@ -12624,79 +12624,79 @@ money markets.
 
 It may suffice for our purposes to point out that money
 
-### conveys certain special advantages
+conveys certain special advantages
 
-### for example the ability to undertake
+for example the ability to undertake
 
 certain types of transactions immediately
 
-## or with reduced transactions
+or with reduced transactions
 
 costs, which would imply a fee in equilibrium for the shorting of money.
 
 Let us merely leave this issue with the sense that allowing negative inter-
 
-### est rates is not necessarily “wrong
+est rates is not necessarily “wrong
 
 ” but is somewhat undesirable.
 
-## Gaussian
+# Gaussian
 
 short-rate models are nevertheless useful
 
-## and frequently used
+and frequently used
 
-## because
+because
 
 they are relatively tractable and in light of the low likelihood that they
 
 would assign to negative interest rates within a reasonably short time
 
-## with
+with
 
 reasonable choices for the coefficient functions.
 
-## The Cox-Ingersoll-Ross Model
+# The Cox-Ingersoll-Ross Model
 
 One of the best-known single-factor term-structure models is the Cox-
 
 Ingersoll-Ross (CIR) model indicated in Table 7.
 
-## For constant coefficient
+# For constant coefficient
 
-## functions
+functions
 
 , and , the CIR drift and diffusion functions
 
 and ,
 
-## may be written in the form
+may be written in the form
 
 ; , , (8)
 
 for constants , and .
 
-## Provided and are positive
+# Provided and are positive
 
-## there is a non-
+there is a non-
 
-### negative solution to the SDE (3)
+negative solution to the SDE (3)
 
 based on a source cited in the Notes.
 
-## (Obviously
+(Obviously
 
-## nonnegativity is important
+nonnegativity is important
 
-### if only for the fact of the square
+if only for the fact of the square
 
 root in the diffusion.
 
-## ) Of course
+) Of course
 
-## we assume that
+we assume that
 
-## and treat (5)-
+and treat (5)-
 
 (6) as applying only to a short rate in .
 
@@ -12710,21 +12710,21 @@ mean at a rate , in the sense that
 
 which tends to as goes to .
 
-### Additional properties of this model are
+# Additional properties of this model are
 
 discussed later in this chapter and in Section 10.
 
 1, where the coefficients
 
-## **Page 81**
+**Page 81**
 
-## 142 7. Term-Structure Models
+142 7. Term-Structure Models
 
 , , and are calculated in a general-equilibrium setting in terms of the
 
 utility function and endowment of a representative agent.
 
-## For the CIR
+# For the CIR
 
 model, it can be verified by direct computation of the derivatives that the
 
@@ -12732,7 +12732,7 @@ solution for the term-structure PDE (5)-(6) is given by
 
 , (9)
 
-## where
+where
 
 , (10)
 
@@ -12744,7 +12744,7 @@ We will later consider multifactor versions of the
 
 CIR model.
 
-### The Affine Single-Factor Models
+# The Affine Single-Factor Models
 
 The Gaussian and Cox-Ingersoll-Ross models are special cases of single-
 
@@ -12758,7 +12758,7 @@ all the yield obtained from (9) is affine in .
 
 therefore call any such model an affine term-structure model.
 
-## (A function
+(A function
 
 , for some
 
@@ -12774,15 +12774,15 @@ underlying any affine model.
 
 Specifically, substituting (9)
 
-### into (5) and simplifying leaves
+into (5) and simplifying leaves
 
-## for each
+for each
 
 , (12)
 
 where subscripts indicate partial derivatives.
 
-## We will use (12) to deduce
+We will use (12) to deduce
 
 how and depend on .
 
@@ -12790,7 +12790,7 @@ Suppose, for simplicity, that
 
 and do not depend on .
 
-### Applying (12) at two possible maturity
+Applying (12) at two possible maturity
 
 dates, say and
 
@@ -12798,13 +12798,13 @@ we have the two linear equations in the two unknowns
 
 and :
 
-## (13)
+(13)
 
-## **Page 82**
+**Page 82**
 
-### 143 E. The Affine Single-Factor Models
+143 E. The Affine Single-Factor Models
 
-## where
+where
 
 Except at maturity dates and chosen so that is singular
 
@@ -12812,27 +12812,27 @@ can conclude from (13) that and must themselves be affine
 
 in .
 
-## Going the other way
+# Going the other way
 
-### suppose that and are affine in
+suppose that and are affine in
 
-## in that
+in that
 
 Then we can recover an affine term-structure model by showing that the
 
 solution to (5)—(6) is of the affine form (9).
 
-## Such a solution applies if
+# Such a solution applies if
 
 there exists solving (12).
 
-### The terms proportional to in (12) must
+The terms proportional to in (12) must
 
-## sum to zero
+sum to zero
 
 for otherwise we could vary and contradict (12).
 
-## This sup-
+# This sup-
 
 plies us with an ordinary differential equation (ODE) for
 
@@ -12840,25 +12840,25 @@ plies us with an ordinary differential equation (ODE) for
 
 whose boundary condition is dictated by (6) and (9).
 
-## The ODE
+# The ODE
 
 (14) is a form of what is known as a Riccati equation.
 
-## Solutions are finite
+# Solutions are finite
 
 given technical conditions on and .
 
-## Likewise
+# Likewise
 
-## the “intercept” term in (12)
+the “intercept” term in (12)
 
-### the term that is not dependent
+the term that is not dependent
 
 on , must also be zero.
 
-## Having solved for from (14)
+Having solved for from (14)
 
-## this gives us
+this gives us
 
 Again, the boundary condition is from (6) and (9).
 
@@ -12868,19 +12868,19 @@ integrating with respect to , we have
 
 , (15)
 
-## and technicalities aside
+and technicalities aside
 
-### and are affine in if and only if the
+and are affine in if and only if the
 
 term structure is itself affine in .
 
-### Sources cited in the Notes strengthen
+# Sources cited in the Notes strengthen
 
 by allowing for time-inhomogeneity.
 
-### Numerical solutions of the ODE (14)
+Numerical solutions of the ODE (14)
 
-## for example
+for example
 
 by discretization methods such as Runge-Kutta
 
@@ -12888,19 +12888,19 @@ are straightforward.
 
 Then (15) can be solved by numerical integration.
 
-## The special cases
+# The special cases
 
 associated with the Gaussian model and the CIR model have explicit
 
 solutions for and .
 
-## **Page 83**
+**Page 83**
 
-## 144 7. Term-Structure Models
+144 7. Term-Structure Models
 
-## We have shown
+# We have shown
 
-## basically
+basically
 
 that affine term-structure models are easily
 
@@ -12910,59 +12910,59 @@ This idea is further pursued in a multifactor setting
 
 later in this chapter and in sources cited in the Notes.
 
-### From the above characterization
+# From the above characterization
 
-### we know that the “affine class” of
+we know that the “affine class” of
 
 term-structure models includes those shown in Table 7.
 
-## 1 with and
+1 with and
 
 , including
 
 (a) The Vasicek model, for which .
 
-### (b) The Cox-Ingersoll-Ross model
+(b) The Cox-Ingersoll-Ross model
 
 for which .
 
-## (c) The Merton (Ho-Lee) model
+(c) The Merton (Ho-Lee) model
 
 for which .
 
 (d) The Pearson-Sun model.
 
-## For affine models with
+# For affine models with
 
-### existence of a solution to the SDE (3)
+existence of a solution to the SDE (3)
 
-## requires coefficients with
+requires coefficients with
 
-## . (16)
+. (16)
 
 This condition guarantees the existence of a solution to the SDE (3)
 
 with for all .
 
-## Term-Structure Derivatives
+# Term-Structure Derivatives
 
 We return to the general one-factor model (3) and consider one of its
 
-## most important applications
+most important applications
 
 the pricing of derivative securities.
 
-## Suppose
+# Suppose
 
 a derivative has a payoff at some given time defined by .
 
-## By the
+# By the
 
 definition of an equivalent martingale measure
 
-## the price at time for
+the price at time for
 
-## such a security is
+such a security is
 
 The Feynman-Kac PDE results of Appendix E give technical conditions on
 
@@ -12972,73 +12972,73 @@ for ,
 
 , (17)
 
-## with boundary condition
+with boundary condition
 
-## (18)
+(18)
 
-## Some examples follow
+# Some examples follow
 
 abstracting from many institutional details.
 
-## **Page 84**
+**Page 84**
 
-### 145 F. Term-Structure Derivatives
+145 F. Term-Structure Derivatives
 
-## (a)
+(a)
 
-## (b)
+(b)
 
-## (c)
+(c)
 
-## (d)
+(d)
 
-## (e)
+(e)
 
 A European option expiring at time on a zero-coupon bond
 
-## maturing at some later time
+maturing at some later time
 
-## with strike price
+with strike price
 
-## is a claim
+is a claim
 
 to at .
 
-### The valuation of the option is given
+# The valuation of the option is given
 
-## in a
+in a
 
-## one-factor setting
+one-factor setting
 
-## by the solution to (17)-(18)
+by the solution to (17)-(18)
 
-## with $g(x) =
+with $g(x) =
 
 [f(x, s) - p]^+ f(x
 
-## s) s$ of a zero-coupon
+s) s$ of a zero-coupon
 
 bond maturing at .
 
 A forward-rate agreement (FRA) calls for a net payment by the fixed-
 
-## rate payer of at time
+rate payer of at time
 
-## where is a fixed payment and
+where is a fixed payment and
 
 is a floating-rate payment for a time-to-maturity
 
-## in arrears
+in arrears
 
 meaning that .
 
 Here, 1 is the simple interest rate applying at time for loans maturing at time .
 
-## In practice
+# In practice
 
 we usually have a time to maturity of one-quarter or one-half year.
 
-## When originally sold
+# When originally sold
 
 the fixed-rate payment is usually set so that the FRA is at market
 
@@ -13054,21 +13054,21 @@ where the floating-rate payment received is
 
 and the fixed-rate payment is the same for all coupon dates.
 
-## At initiation
+# At initiation
 
-## the swap is usually at market
+the swap is usually at market
 
 meaning that the fixed rate is chosen so that the swap is of zero market value.
 
 Ignoring default risk and market imperfections
 
-## this would imply
+this would imply
 
-### as can be shown as an exercise
+as can be shown as an exercise
 
 that the fixed-rate coupon is the par coupon rate.
 
-## That is
+# That is
 
 the at-market swap rate is set at the origination date of the swap so that
 
@@ -13084,31 +13084,31 @@ The fixed rate is set with the terms of the cap contract.
 
 Exercise 7.
 
-### 13 explores the valuation of caps.
+13 explores the valuation of caps.
 
 A floor is defined symmetrically with a cap
 
 replacing with .
 
-## --- Page 83 ---
+--- Page 83 ---
 
-## 146 7. Term-Structure Models
+146 7. Term-Structure Models
 
 (f) A swaption is an option to enter into a swap at a given strike rate at some exercise time.
 
-## If the future time is fixed
+# If the future time is fixed
 
 the swaption is European.
 
-## An important variant
+# An important variant
 
-## the Bermudan swaption
+the Bermudan swaption
 
 allows exercise at any of a given set of successive coupon dates.
 
-### Path-dependent derivative securities
+# Path-dependent derivative securities
 
-### such as mortgage-backed securities
+such as mortgage-backed securities
 
 sometimes call for additional state variables.
 
@@ -13122,9 +13122,9 @@ There are relatively few cases of practical interest for which the PDE (17)-(18)
 
 Chapters 8 and 12 review some numerical solution techniques.
 
-## The Fundamental Solution
+# The Fundamental Solution
 
-### Based on the results of Appendix E
+# Based on the results of Appendix E
 
 under technical conditions we can also express the solution of the PDE (17)-(18) for the value of a derivative term-structure security in the form
 
@@ -13134,13 +13134,13 @@ Some have called the Green’s function associated with (17)
 
 although that terminology is not rigorously justified.
 
-## From (19)
+From (19)
 
-## for any time and any interval
+for any time and any interval
 
 is the price at time of a security that pays one unit of account at time in the event that is in .
 
-## For example
+# For example
 
 the current price of the zero-coupon bond maturing at is given by .
 
@@ -13148,19 +13148,19 @@ One can compute the fundamental solution by solving a PDE that is “dual” to 
 
 in the following sense.
 
-## As explained in Appendix E
+# As explained in Appendix E
 
-## under technical conditions
+under technical conditions
 
-## for each in
+for each in
 
-## a function in is defined by
+a function in is defined by
 
 and solves the forward Kolmogorov equation (also known as the Fokker-Planck equation)
 
-## The Fundamental Solution 147
+# The Fundamental Solution 147
 
-## where
+where
 
 The “intuitive” boundary condition for (20) is obtained from the role of in pricing securities.
 
@@ -13174,7 +13174,7 @@ Presumably this contingent claim is valued at 1 unit of account if
 
 and otherwise has no value.
 
-## From continuity in
+# From continuity in
 
 one can thus think of as the density at time of a measure on that converges as to a probability measure with
 
@@ -13190,7 +13190,7 @@ A discrete-time analogue is found in Chapter 3
 
 where we provided an algorithm for computing the fundamental solutions for the Black-Derman-Toy and Ho-Lee models.
 
-### Given the fundamental solution
+# Given the fundamental solution
 
 the derivative asset price function is more easily computed by numerically integrating (19) than from a direct numerical attack on the PDE (17)-(18).
 
@@ -13202,7 +13202,7 @@ Some numerical methods for calculating and are indicated in Chapter 12.
 
 A lengthy argument given by a source cited in the Notes shows that the fundamental solution of the Cox-Ingersoll-Ross model (8) is given explicitly in terms of the parameters
 
-## and by
+and by
 
 where ,
 
@@ -13210,19 +13210,19 @@ and is the modified Bessel function of the first kind of order .
 
 The same source gives explicit solutions for the fundamental solutions of other models.
 
-## For time-independent and
+# For time-independent and
 
-## as with the CIR model
+as with the CIR model
 
-## we have
+we have
 
-## for all and
+for all and
 
-## --- Page 84 ---
+--- Page 84 ---
 
-## 148 7. Term-Structure Models
+148 7. Term-Structure Models
 
-## Multifactor Models
+# Multifactor Models
 
 The one-factor model (3) for the short rate is limiting.
 
@@ -13234,15 +13234,15 @@ shows the significant potential improvements in fit offered by a multifactor ter
 
 While terminology varies from place to place
 
-## by a “multifactor” model
+by a “multifactor” model
 
 we mean a model in which the short rate is of the form
 
 , where is an Itô process in some subset of solving a stochastic differential equation of the form
 
-## where the given functions
+where the given functions
 
-## and on into
+and on into
 
 and , respectively
 
@@ -13250,7 +13250,7 @@ satisfy enough technical regularity to guarantee that (21) has a unique solution
 
 (Sufficient conditions are given in Appendix E.
 
-## ) In empirical applications
+) In empirical applications
 
 one often supposes that the state process also satisfies a stochastic differential equation under the probability measure
 
@@ -13260,15 +13260,15 @@ Examples are indicated in the Notes.
 
 An interpretation of the role of the “state variables” is left open for the time being.
 
-## For example
+# For example
 
 in an equilibrium model such as that considered in Chapter 10
 
 some elements of the state vector are sometimes latent
 
-## that is
+that is
 
-## unobservable to the modeler
+unobservable to the modeler
 
 except insofar as they can be inferred from prices that depend on the levels of .
 
@@ -13282,15 +13282,15 @@ that are thought to play a role in determining the term structure.
 
 This approach has also been explored in the empirical literature.
 
-## In many examples
+# In many examples
 
 one of the component processes is singled out as the short-rate process
 
 whose drift and diffusion are allowed to depend on the levels of the other component processes.
 
-## A derivative security
+# A derivative security
 
-## in this setting
+in this setting
 
 can often be represented in terms of some real-valued terminal payment function on
 
@@ -13300,41 +13300,41 @@ By the definition of an equivalent martingale measure
 
 the associated derivative security price is given from (1) by
 
-## Extending (17)—(18)
+Extending (17)—(18)
 
 under technical conditions given in Appendix E
 
-### we have the PDE characterization
+we have the PDE characterization
 
-## with boundary condition
+with boundary condition
 
-## where
+where
 
 The case of a zero-coupon bond is .
 
-## Under technical conditions
+# Under technical conditions
 
-### we can also express the solution
+we can also express the solution
 
-## as in (19)
+as in (19)
 
 in terms of the fundamental solution of the PDE (22)
 
 as discussed in Appendix E.
 
-## Affine Term-Structure Models
+# Affine Term-Structure Models
 
 A rich and tractable subclass of multifactor models are the affine term-structure models
 
 for which the state process is an affine diffusion
 
-## defined by
+defined by
 
-## for and
+for and
 
-## and by taking
+and by taking
 
-## for each and in
+for each and in
 
 for and .
 
@@ -13342,7 +13342,7 @@ One can also allow the coefficient functions and to depend on
 
 we ignore that for notational simplicity.
 
-## Given affine coefficients
+# Given affine coefficients
 
 a natural state space for this process is set by the obvious requirement that for all in .
 
@@ -13352,7 +13352,7 @@ Conditions cited in the Notes on the coefficients that ensure existence of a uni
 
 An example is the “multifactor CIR” model
 
-## defined by
+defined by
 
 where ,
 
@@ -13360,9 +13360,9 @@ and are positive constants playing the same respective roles as
 
 , and in the one-factor CIR model (8).
 
-### Given the independence under of
+# Given the independence under of
 
-## if we let
+if we let
 
 then the multifactor CIR model generates the zero-coupon bond price for maturity date given by
 
@@ -13372,13 +13372,13 @@ More generally, we suppose that
 
 for coefficients and .
 
-## For a fixed maturity date
+# For a fixed maturity date
 
 we expect a solution for the price at time of a zero-coupon bond maturing at time to be of the exponential-affine form
 
 for deterministic and .
 
-## For notational simplicity
+# For notational simplicity
 
 we suppress the maturity date from the notation for and
 
@@ -13386,31 +13386,31 @@ and we let denote the vector in whose -th element is .
 
 After substituting the candidate solution (30) into the PDE (22)
 
-### extending from the single-factor case
+extending from the single-factor case
 
 we conjecture that satisfies the -dimensional ordinary differential equation
 
-## analogous to (14)
+analogous to (14)
 
-## given by
+given by
 
 with the boundary condition determined by (30) and the requirement that .
 
 We have repeatedly used a separation-of-variables argument
 
-### If for all in some open subset of
+# If for all in some open subset of
 
 then and must be zero.
 
-## The ODE (31) is
+The ODE (31) is
 
-### as with the single-factor affine models
+as with the single-factor affine models
 
 a Riccati equation.
 
 Solutions are finite given technical conditions on and .
 
-## In some cases
+# In some cases
 
 an explicit solution is possible.
 
@@ -13422,7 +13422,7 @@ Likewise, we find that
 
 with the boundary condition .
 
-## One integrates (32) to get
+One integrates (32) to get
 
 Numerical integration is an easy and fast method for treating (33) when explicit solutions are not at hand.
 
@@ -13430,7 +13430,7 @@ This affine class of term-structure models extends to allow for time-dependent c
 
 as cited in the Notes.
 
-## As we shall see in Chapter 8
+# As we shall see in Chapter 8
 
 one can also analytically solve for the transition distribution of an affine state-variable process
 
@@ -13438,29 +13438,29 @@ and for the associated prices of options on zero-coupon bonds and other securiti
 
 using Fourier-transform methods.
 
-## Affine models
+# Affine models
 
-## moreover
+moreover
 
 are used extensively in the analysis of default timing and the related valuation of defaultable bonds
 
 as explained in Chapter 11.
 
-### The HJM Model of Forward Rates
+# The HJM Model of Forward Rates
 
-### In modeling the term structure
+# In modeling the term structure
 
 we have so far taken as the primitive a model of the short-rate process of the form
 
 where (under some equivalent martingale measure) solves a given stochastic differential equation.
 
-## (In the one-factor case
+(In the one-factor case
 
 one usually takes .
 
 ) This approach has the advantage of a finite-dimensional state space.
 
-## For example
+# For example
 
 with this state-space approach one can compute certain derivative prices by solving PDEs.
 
@@ -13474,9 +13474,9 @@ This is the essence of the Heath–Jarrow–Morton (HJM) model.
 
 The remainder of this section is a summary of the basic elements of the HJM model.
 
-## The following section
+# The following section
 
-## the exercises
+the exercises
 
 and sources cited in the Notes provide many extensions and details.
 
@@ -13492,25 +13492,25 @@ The associated forward rate is defined by
 
 which can be viewed as the continuously compounding yield of the bond bought forward.
 
-### The instantaneous forward rate
+# The instantaneous forward rate
 
-## when it exists
+when it exists
 
 is defined for each time and forward delivery date by
 
 Thus, the instantaneous forward-rate process exists (and is an adapted process) if and only if
 
-## for all
+for all
 
 the discount is differentiable with respect to .
 
-## From (34) and (35)
+From (34) and (35)
 
 we arrive at the ordinary differential equation
 
-## with the boundary condition
+with the boundary condition
 
-## with the solution
+with the solution
 
 The term structure can thus be recovered from the instantaneous forward rates
 
@@ -13526,67 +13526,67 @@ Justification of this assumption can be given under technical conditions cited i
 
 We first fix a maturity date and model the one-dimensional forward-rate process .
 
-### We suppose that is an Itô process
+We suppose that is an Itô process
 
-## meaning that
+meaning that
 
 where and are adapted processes valued in and
 
-## respectively
+respectively
 
-## such that
+such that
 
-## almost surely
+almost surely
 
 and .
 
 There is an important consistency relationship between and .
 
-### Under purely technical conditions
+# Under purely technical conditions
 
-## it must be the case that
+it must be the case that
 
 This risk-neutral drift restriction on forward rates will be shown at the end of this section.
 
-## For now
+# For now
 
 let us point out that knowledge of the initial forward rates and the forward-rate “volatility” process is enough to determine all bond and interest-rate derivative price processes.
 
-## That is
+# That is
 
-## given (38)
+given (38)
 
 we can use the definition of the short rate to obtain
 
 assuming that this process exists and is adapted.
 
-### We can see that if (B) Suppose
+We can see that if (B) Suppose
 
-## for arbitrary and
+for arbitrary and
 
 the price at time of a zero-coupon bond maturing at time is of the form
 
 for deterministic coefficients and .
 
-## Can you guess some form
+# Can you guess some form
 
-## under technical conditions
+under technical conditions
 
 of an associated equivalent martingale measure
 
-### after some convenient deflation
+after some convenient deflation
 
 that provides this type of term structure?
 
 What is the most general consistent form that you can guess?
 
-## 13 (Cap Pricing).
+13 (Cap Pricing).
 
 Show that a claim to the caplet payoff at time as defined in Section F
 
-### may be viewed as a European put option
+may be viewed as a European put option
 
-## exercisable at time
+exercisable at time
 
 on a zero-coupon bond maturing at time .
 
@@ -13596,9 +13596,9 @@ provide a formula for the price at time 0 of a cap
 
 which is the portfolio of caplets defined in Section F.
 
-### 14 (The Market Model and Cap Pricing).
+14 (The Market Model and Cap Pricing).
 
-## In the setting of Section A
+# In the setting of Section A
 
 let be a given model of the term structure of discounts
 
@@ -13606,7 +13606,7 @@ and let define the associated forward bond prices
 
 as in Section J.
 
-## For each given date
+# For each given date
 
 using as a numeraire the bond maturing at date
 
@@ -13614,25 +13614,25 @@ we know that the absence of arbitrage is tantamount to the existence of an equiv
 
 after deflation by .
 
-## That is
+# That is
 
-## for each
+for each
 
 the bond-price process is a -martingale.
 
 We recall that is called the forward measure for maturity .
 
-## (A) Suppose
+(A) Suppose
 
-## for each
+for each
 
 that such a forward measure exists.
 
-## Fixing
+# Fixing
 
 show, under technical integrability conditions that you will supply
 
-### that for each given maturity date
+that for each given maturity date
 
 for some adapted -valued process such that the stochastic integral is well defined
 
@@ -13640,31 +13640,31 @@ where is a particular standard Brownian motion in under .
 
 (B) Given the model (61) for forward bond-price processes
 
-## consider
+consider
 
-## for each fixed date and tenor
+for each fixed date and tenor
 
-### the -tenor forward rate defined by
+the -tenor forward rate defined by
 
 which is the convention by which discrete-tenor forward rates are quoted in practice.
 
-## In practice
+# In practice
 
-## is typically 3 months
+is typically 3 months
 
-## 6 months
+6 months
 
 or 1 year.
 
 The rate is the spot -tenor rate for maturity at
 
-### sometimes called the LIBOR rate
+sometimes called the LIBOR rate
 
 because of the quotation method used for the London Inter-Bank Offering Rate.
 
-## Calculate a process for which
+# Calculate a process for which
 
-### (C) Suppose that is deterministic
+(C) Suppose that is deterministic
 
 and that is strictly positive.
 
@@ -13676,15 +13676,15 @@ for some strike rate .
 
 as explained in Section F.
 
-## Notes
+# Notes
 
 General treatments of term-structure modeling and related derivative pricing issues are offered by Garbade (1996)
 
-## Moreleda (1997)
+Moreleda (1997)
 
-## DeMunnik (1992)
+DeMunnik (1992)
 
-## Musiela and Rutkowski (1997)
+Musiela and Rutkowski (1997)
 
 and Sundaresan (1997).
 
@@ -13700,35 +13700,35 @@ Ho and Lee (1986) extended the model and developed the idea of calibration of th
 
 Option evaluation and other applications of the Gaussian model are provided by Carverhill (1988)
 
-## Jamshidian (1989a
+Jamshidian (1989a
 
 b,d, 1991a
 
-## 1993b)
+1993b)
 
 and El Karoui and Rochet (1989).
 
 Jamshidian (1989b) developed the forward-measure approach for this purpose.
 
-## See also Davis (1998)
+See also Davis (1998)
 
-## El Karoui and Rochet (1989)
+El Karoui and Rochet (1989)
 
-## Elliott and der Hoek (1999)
+Elliott and der Hoek (1999)
 
 and Schroder (1999).
 
-## The calibration idea
+# The calibration idea
 
-## reviewed in Section 12M
+reviewed in Section 12M
 
-### has been further developed by Black
+has been further developed by Black
 
-## Derman
+# Derman
 
-## and Toy (1990)
+and Toy (1990)
 
-## Hull and White (1990a
+Hull and White (1990a
 
 1993), and Black and Karasinski (1991)
 
@@ -13740,15 +13740,15 @@ Exercise 12.
 
 6 shows convergence of the discrete-time Black-Derman-Toy model
 
-## with appropriate parameters
+with appropriate parameters
 
 to the continuous-time “log-normal” model shown in Exercise 7.
 
 Other models include that of Courtadon (1982).
 
-### (D) The CIR term-structure model of Cox
+(D) The CIR term-structure model of Cox
 
-## Ingersoll
+# Ingersoll
 
 and Ross (1985b) was developed in a general-equilibrium setting
 
@@ -13758,7 +13758,7 @@ It was also later developed as a primitive arbitrage-based term-structure model 
 
 One can see that the associated CIR short-rate process exists from the results of Yamada and Watanabe (1971) reviewed in Appendix E.
 
-### In order to apply their results
+# In order to apply their results
 
 we can let for .
 
@@ -13774,39 +13774,39 @@ according to a footnote of Richard (1978).
 
 Further characterization is given in Cox
 
-## Ingersoll
+# Ingersoll
 
-## and Ross (1985b)
+and Ross (1985b)
 
-## Cherubini (1993)
+Cherubini (1993)
 
-## Cherubini and Esposito (1992)
+Cherubini and Esposito (1992)
 
-## Deelstra and Delbaen (1994
+Deelstra and Delbaen (1994
 
 1995), Delbaen (1993)
 
-## Gibbons and Sun (1986)
+Gibbons and Sun (1986)
 
-## Jamshidian (1995)
+Jamshidian (1995)
 
-## Nelson and Ramaswamy (1989)
+Nelson and Ramaswamy (1989)
 
 and Rogers (1993).
 
 Sun (1992) provides a discrete-time model that converges with shrinking period length to the CIR model.
 
-### For additional results in a CIR setting
+# For additional results in a CIR setting
 
 including analytic treatment of time-varying coefficients
 
-## see Maghsoodi (1996a
+see Maghsoodi (1996a
 
 b, 1997a
 
 (E) The idea that an affine term-structure model is typically associated with affine drift and squared diffusion is foreshadowed in Cox
 
-## Ingersoll
+# Ingersoll
 
 and Ross (1985b) and Hull and White (1990a)
 
@@ -13818,23 +13818,23 @@ based in part on the characterization of continuous-branching processes with imm
 
 Examples of the one-dimensional affine class include those of Carverhill (1988)
 
-## Chen (1996)
+Chen (1996)
 
 Cox, Ingersoll
 
-## and Ross (1985b)
+and Ross (1985b)
 
-## Dybvig (1988)
+Dybvig (1988)
 
-## Frachot (1996)
+Frachot (1996)
 
-## Jamshidian (1989a
+Jamshidian (1989a
 
 b,d, 1991a)
 
-## Pearson and Sun (1994)
+Pearson and Sun (1994)
 
-## Selby and Strickland (1993)
+Selby and Strickland (1993)
 
 and Vasicek (1977).
 
@@ -13844,147 +13844,147 @@ for obvious reasons.
 
 (F) Applied general treatments of term-structure derivatives include those of Garbade (1996)
 
-## Moreleda (1997)
+Moreleda (1997)
 
-## DeMunnik (1992)
+DeMunnik (1992)
 
-## Musiela and Rutkowski (1997)
+Musiela and Rutkowski (1997)
 
 and Sundaresan (1997).
 
 Swap markets are analyzed by Brace and Musiela (1994b)
 
-## Carr (1993b)
+Carr (1993b)
 
-## Duffie and Huang (1996)
+Duffie and Huang (1996)
 
-## El Karoui and Geman (1994)
+El Karoui and Geman (1994)
 
 and Sundaresan (1997).
 
 For institutional and general economic features of the swap markets
 
-## see Lang
+see Lang
 
-## Litzenberger
+# Litzenberger
 
 and Liu (1996) and Litzenberger (1992).
 
-## For the valuation of caps
+# For the valuation of caps
 
 see, for example
 
-## Chen and Scott (1995)
+Chen and Scott (1995)
 
-## Clewlow
+# Clewlow
 
 Pang, and Strickland (1997)
 
-## Miltersen
+# Miltersen
 
-## Sandmann
+# Sandmann
 
-## and Sondermann (1997)
+and Sondermann (1997)
 
 and Scott (1996b).
 
-### Jamshidian (1999) and Rutkowski (1996
+Jamshidian (1999) and Rutkowski (1996
 
 1998) offer general treatments of LIBOR (London Interbank Offering Rate) derivative modeling.
 
 On the valuation of other specific forms of term-structure derivatives
 
-## see Artzner and Roger (1993)
+see Artzner and Roger (1993)
 
-### Bajeux-Besnainou and Portait (1998)
+Bajeux-Besnainou and Portait (1998)
 
-## Brace and Musiela (1994b)
+Brace and Musiela (1994b)
 
-## Chacko and Das (1998)
+Chacko and Das (1998)
 
-## Chen and Scott (1992b
+Chen and Scott (1992b
 
-## 1993b)
+1993b)
 
-## Cherubini and Esposito (1995)
+Cherubini and Esposito (1995)
 
-## Chesney
+# Chesney
 
-## Elliott
+# Elliott
 
-## and Gibson (1993)
+and Gibson (1993)
 
-## Cohen (1995)
+Cohen (1995)
 
 Daher, Romano
 
-## and Zacklad (1992)
+and Zacklad (1992)
 
-## Décamps and Rochet (1997)
+Décamps and Rochet (1997)
 
-## El Karoui
+# El Karoui
 
-## Lepage
+# Lepage
 
-## Myneni
+# Myneni
 
-## Roseau
+# Roseau
 
-## and Viswanathan (1991a
+and Viswanathan (1991a
 
 b), Turnbull (1993)
 
 Fleming and Whaley (1994) (wildcard options)
 
-### Ingersoll (1977) (convertible bonds)
+Ingersoll (1977) (convertible bonds)
 
-## Jamshidian (1993a
+Jamshidian (1993a
 
-### 1994) (diff swaps and quantos)
+1994) (diff swaps and quantos)
 
-## Jarrow and Turnbull (1994)
+Jarrow and Turnbull (1994)
 
-### Longstaff (1990) (yield options)
+Longstaff (1990) (yield options)
 
 and Turnbull (1994).
 
 On the valuation of American bond options
 
-### see Andersen and Andreasen (1999)
+see Andersen and Andreasen (1999)
 
-## Büttler (1995)
+Büttler (1995)
 
-## Battler and Waldvogel (1996)
+Battler and Waldvogel (1996)
 
-## Gatarek and Musiela (1995)
+Gatarek and Musiela (1995)
 
-## Grosen and Jorgensen (1995)
+Grosen and Jorgensen (1995)
 
-## Jamshidian (1989a
+Jamshidian (1989a
 
 c), Jorgensen (1996)
 
 Longstaff (1990).
 
-## and Schwartz (1998)
+and Schwartz (1998)
 
-## Pedersen (1999)
+Pedersen (1999)
 
 and Tanudjaja (1995).
 
 Cox, Ingersoll
 
-## and Ross (1981b)
+and Ross (1981b)
 
-## Duffie and Stanton (1988)
+Duffie and Stanton (1988)
 
-## and Grinblatt
+and Grinblatt
 
 and Jegadeesh (1996) consider the relative pricing of futures and forwards.
 
 Apelfeld and Conze (1990) study the term structure under imperfect informa-
 
-## tion using filtering theory
+tion using filtering theory
 
 extending the work of Dothan and Feldman (1986).
 
@@ -13994,31 +13994,31 @@ Derivative hedging issues are also considered by Jarrow and Turnbull (1997a)
 
 and Jaschke (1997).
 
-## Notes 163
+# Notes 163
 
 (G) Applications to term-structure modeling of the fundamental solution
 
-## some-
+some-
 
 times erroneously called the Green’s function
 
-### are illustrated by Btittler and
+are illustrated by Btittler and
 
-## Waldvogel (1996)
+Waldvogel (1996)
 
-## Dash (1989)
+Dash (1989)
 
-## Beaglehole (1990)
+Beaglehole (1990)
 
-## Beaglehole and Tenney
+# Beaglehole and Tenney
 
-## (1991)
+(1991)
 
-## Dai (1994)
+Dai (1994)
 
 and Jamshidian (1991c).
 
-### The fundamental solution for the
+# The fundamental solution for the
 
 Dothan (log-normal) short-rate model can be deduced from the form of the
 
@@ -14036,9 +14036,9 @@ solutions of the PDE for affine models.
 
 The summary here is standard.
 
-## For more
+# For more
 
-### on technical details and references
+on technical details and references
 
 see, for example
 
@@ -14050,35 +14050,35 @@ term-structure models.
 
 Affine multifactor term-structure models include those of
 
-## Balduzzi
+# Balduzzi
 
 Das, and Foresi (1998)
 
-## Balduzzi
+# Balduzzi
 
 Das, Foresi
 
-## and Sundaram (1996)
+and Sundaram (1996)
 
-## Berardi and Esposito (1999)
+Berardi and Esposito (1999)
 
-## Chen (1996)
+Chen (1996)
 
 Cox, Ingersoll
 
-## and Ross (1985b)
+and Ross (1985b)
 
-## and Singleton (2000)
+and Singleton (2000)
 
-## Heston (1988b)
+Heston (1988b)
 
-## Langetieg (1980)
+Langetieg (1980)
 
-## Longstaff and Schwartz
+# Longstaff and Schwartz
 
 (1992, 1993)
 
-## Pang and Hodges (1995)
+Pang and Hodges (1995)
 
 and Selby and Strickland (1993).
 
@@ -14090,21 +14090,21 @@ solve an affine stochastic differential equation.
 
 The valuation of discount bond options and caps in an affine setting
 
-## using
+using
 
-## Fourier-transform methods
+# Fourier-transform methods
 
-### is pursued by Chen and Scott (1995)
+is pursued by Chen and Scott (1995)
 
-## Duffie
+# Duffie
 
 Pan,
 
-## and Singleton (2000)
+and Singleton (2000)
 
 Nunes, Clewlow
 
-## and Hodges (1999)
+and Hodges (1999)
 
 and Scaillet (1996).
 
@@ -14116,85 +14116,85 @@ Steenkiste and Foresi (1999) provide a general
 
 treatment of fundamental solutions of the PDE for affine models.
 
-## For a Runge-
+# For a Runge-
 
 Kutta method of numerically solving an ODE such as (31)
 
-## see Press
+see Press
 
-## Flannery
+# Flannery
 
 Teukolsky, and Vetterling (1993).
 
 For additional general discussion of affine term-
 
-## structure models
+structure models
 
-## see Dai and Singleton (2000)
+see Dai and Singleton (2000)
 
-## Duffee (1999b)
+Duffee (1999b)
 
-## Duffie
+# Duffie
 
 Pan, and
 
-## Singleton (2000)
+Singleton (2000)
 
-## Pedersen (1997)
+Pedersen (1997)
 
 and Steenkiste and Foresi (1999).
 
 Empirical estimation of various forms of affine term-structure models is
 
-### pursued by Brown and Schaefer (1994b)
+pursued by Brown and Schaefer (1994b)
 
 Chan, Karolyi
 
-## Longstaff
+# Longstaff
 
-## and Saunders
+and Saunders
 
-## (1992)
+(1992)
 
-## Chen and Scott (1992a
+Chen and Scott (1992a
 
-## 1993a)
+1993a)
 
-## Dai (1995
+Dai (1995
 
 1996), Dai and Singleton
 
-## (2000)
+(2000)
 
-## Duan and Simonato (1993)
+Duan and Simonato (1993)
 
-## Duffee (1999b)
+Duffee (1999b)
 
-## Duffie and Singleton (1997)
+Duffie and Singleton (1997)
 
-## Gibbons and Ramaswamy (1993)
+Gibbons and Ramaswamy (1993)
 
-## Heston (1989)
+Heston (1989)
 
-## DeMunnik (1992)
+DeMunnik (1992)
 
-## Lesne
+# Lesne
 
-## (1995)
+(1995)
 
-## Longstaff and Schwartz (1993)
+Longstaff and Schwartz (1993)
 
-## Pearson and Sun (1994)
+Pearson and Sun (1994)
 
-## Pennacchi
+# Pennacchi
 
-## (1991)
+(1991)
 
-## Rogers and Stummer (1994)
+Rogers and Stummer (1994)
 
-## Singh (1995)
+Singh (1995)
 
-## Stambaugh (1988)
+Stambaugh (1988)
 
 Vasicek (1995).
 
@@ -14202,51 +14202,51 @@ Further analysis of the affine model with regard to transform
 
 methods for option valuation and other applications is provided in Chapter 8
 
-## and by Duffie
+and by Duffie
 
 Pan, and Singleton (2000)
 
 Liu, Pan
 
-## and Pedersen (1999)
+and Pedersen (1999)
 
 Singleton (1999).
 
-## (J) El Karoui
+(J) El Karoui
 
-## Myneni
+# Myneni
 
-## and Viswanathan (1995)
+and Viswanathan (1995)
 
-## Constantinides (1992)
+Constantinides (1992)
 
-## (1993)
+(1993)
 
-## Myneni
+# Myneni
 
-## and Viswanathan (1992)
+and Viswanathan (1992)
 
-## Jamshidian (1996a)
+Jamshidian (1996a)
 
-## and Rogers
+and Rogers
 
 (1993) characterize a model in which the short rate is a linear-quadratic form
 
 multivariate Markov Gaussian process.
 
-### This model clearly overlaps with the
+# This model clearly overlaps with the
 
-## general affine model
+general affine model
 
-## under a change of variables
+under a change of variables
 
-## although the extent to which
+although the extent to which
 
 a model can be developed that fully nests both affine and quadratic Gaussian
 
-## --- Page 92 ---
+--- Page 92 ---
 
-## 164 7. Term-Structure Models
+164 7. Term-Structure Models
 
 models remains to be seen.
 
@@ -14260,25 +14260,25 @@ The consol-rate multifactor model of Brennan and Schwartz (1979
 
 1982) is further analyzed by Nelson and Schaefer (1983)
 
-## Schaefer and Schwartz
+# Schaefer and Schwartz
 
-## (1984)
+(1984)
 
-## Hogan (1993b)
+Hogan (1993b)
 
-## and Duffie
+and Duffie
 
 Ma, and Yong (1995).
 
 Other multifactor models include those of Black
 
-## Derman
+# Derman
 
-## and Kani (1992)
+and Kani (1992)
 
-## Chan (1992)
+Chan (1992)
 
-## Kraus and Smith (1993)
+Kraus and Smith (1993)
 
 and Platten (1994).
 
@@ -14286,47 +14286,47 @@ and Platten (1994).
 
 (1978).
 
-### The forward-rate model of Heath
+# The forward-rate model of Heath
 
-## Jarrow
+# Jarrow
 
-## and Morton (1992a) has been
+and Morton (1992a) has been
 
 extensively treated in the case of Gaussian instantaneous forward rates Jamshidian
 
-## (1989a
+(1989a
 
 b,d, 1991a)
 
-## El Karoui and Rochet (1989)
+El Karoui and Rochet (1989)
 
-## El Karoui
+# El Karoui
 
-## Lepage
+# Lepage
 
-## Myneni
+# Myneni
 
-## Roseau
+# Roseau
 
-## and Viswanathan (1991a
+and Viswanathan (1991a
 
 b), El Karoui and Lacoste (1992)
 
-## Frachot
+# Frachot
 
-## (1995)
+(1995)
 
-## Frachot
+# Frachot
 
 Janci, and Lacoste (1993)
 
-## Frachot and Lesne (1993a
+Frachot and Lesne (1993a
 
 b,c),
 
 Miltersen (1994), and DeMunnik (1992).
 
-### The illustration of the basic HJM drift
+# The illustration of the basic HJM drift
 
 restriction (38) is based on Rogers (1993).
 
@@ -14338,11 +14338,11 @@ maturity, is given by Hull (2000).
 
 The original derivation of (38) by Heath
 
-## Jarrow
+# Jarrow
 
 and Morton (1992a) is based on the approach in Exercise 7.
 
-## This exercise
+# This exercise
 
 is useful as a means of establishing the relationship between the behavior of
 
@@ -14352,15 +14352,15 @@ measure Q.
 
 Technical conditions justifying the calculations leading to (38) and
 
-## the relationship r_t = f(t
+the relationship r_t = f(t
 
 t) between the short rate and forward rates are found
 
-## in Carverhill (1995)
+in Carverhill (1995)
 
 Heath, Jarrow
 
-## and Morton (1992a)
+and Morton (1992a)
 
 and Miltersen (1994).
 
@@ -14376,87 +14376,87 @@ Heath, Jarrow, and Morton
 
 df(t,s) = α(t
 
-## s)dt + σ(t
+s)dt + σ(t
 
-## s)∫_t^s σ(t
+s)∫_t^s σ(t
 
-## u) du dt + σ(t
+u) du dt + σ(t
 
-## s) dB_t
+s) dB_t
 
-## (64)
+(64)
 
-## for 0 <t <s
+for 0 <t <s
 
-## where α
-
-[0, T] x [0
-
-## T] x R → R and σ
+where α
 
 [0, T] x [0
 
-## T] x R → R*
+T] x R → R and σ
+
+[0, T] x [0
+
+T] x R → R*
 
 are bounded and Lipschitz continuous.
 
-## Under additional regularity
+# Under additional regularity
 
-## the solution
+the solution
 
 for the forward-rate process is nonnegative.
 
-### The HJM model has been extended by
+# The HJM model has been extended by
 
 Miltersen (1994).
 
-## For related work
+# For related work
 
-## derivative pricing
+derivative pricing
 
-## and computational methods
+and computational methods
 
-## in the HJM setting
+in the HJM setting
 
-## see Babbs (1991)
+see Babbs (1991)
 
-## Brace and Musiela (1995b)
+Brace and Musiela (1995b)
 
-## Baxter (1996)
+Baxter (1996)
 
-## Carverhill and Pang (1995)
+Carverhill and Pang (1995)
 
 Heath, Jarrow
 
-## and Morton (1990
+and Morton (1990
 
-## 1992b)
+1992b)
 
-## Jeffrey
+# Jeffrey
 
-## (1995a
+(1995a
 
 b), Miltersen and Persson (1997)
 
-## and Rutkowski (1995
+and Rutkowski (1995
 
 1996).
 
 Markovian versions of the HJM model are presented by Au and Thurston
 
-## (1993)
+(1993)
 
-## Bhar and Chiarella (1995)
+Bhar and Chiarella (1995)
 
-## Brace and Musiela (1994a)
+Brace and Musiela (1994a)
 
-## Cheyette (1995)
+Cheyette (1995)
 
-## Jeffrey (1995c)
+Jeffrey (1995c)
 
-## Musiela (1994b)
+Musiela (1994b)
 
-### Ritchken and Sankarasubramanian (1992)
+Ritchken and Sankarasubramanian (1992)
 
 Ritchken and Trevor (1993).
 
@@ -14464,47 +14464,47 @@ Ritchken and Trevor (1993).
 
 rate curve is a Markov process.
 
-### For related work in this setting
+# For related work in this setting
 
-## sometimes called a
+sometimes called a
 
-## string
+string
 
-## random field
+random field
 
-### or SPDE model of the term structure
+or SPDE model of the term structure
 
-## see Cont (1998)
+see Cont (1998)
 
-## Jong
+# Jong
 
-## and Santa-Clara (1999)
+and Santa-Clara (1999)
 
-## Goldstein (1997
+Goldstein (1997
 
 2000), Goldys and Musiela (1996)
 
-## Hamza
+# Hamza
 
-## and Klebaner (1995)
+and Klebaner (1995)
 
-## Kennedy (1994)
+Kennedy (1994)
 
-## Kusuoka (2000)
+Kusuoka (2000)
 
-## Musiela and Sondermann
+# Musiela and Sondermann
 
-## (1994)
+(1994)
 
-## Pang (1996)
+Pang (1996)
 
-### Santa-Clara and Sornette (1997)
+Santa-Clara and Sornette (1997)
 
 and Sornette (1998).
 
-## Notes 165
+# Notes 165
 
-## Additional Topics
+# Additional Topics
 
 Cox, Ingersoll
 
@@ -14520,19 +14520,19 @@ Amin and Morton (1994a) show how to estimate implied
 
 volatilities of interest rates from term-structure models.
 
-## Theoretical arbitrage prob-
+# Theoretical arbitrage prob-
 
-### lems with the calibration approach
+lems with the calibration approach
 
-## as often applied in practice
+as often applied in practice
 
-## are explained by
+are explained by
 
 Backus, Foresi, and Zin (1998).
 
 There is a growing literature on the econometric estimation of term-structuremodels.
 
-### In addition to papers mentioned above
+# In addition to papers mentioned above
 
 this includes the work of Ait-Sahalia (1996a
 
@@ -14540,115 +14540,115 @@ b, c), Ball and Torous (1994)
 
 Broze, Scaillet
 
-## and Zakoian (1993)
+and Zakoian (1993)
 
-## Buhler
+# Buhler
 
-## Uhrig-Homburg
+# Uhrig-Homburg
 
-## Walter
+# Walter
 
-## and Weber (1995)
+and Weber (1995)
 
 Buono, Gregory-Allen
 
-## and Yaari (1992)
+and Yaari (1992)
 
 Chan, Karolyi
 
-## Longstaff
+# Longstaff
 
-## and Saunders (1992)
+and Saunders (1992)
 
-## Danesi
+# Danesi
 
-## Garcia
+# Garcia
 
-## Genon-Catalot
+# Genon-Catalot
 
-## and Laurent (1993)
+and Laurent (1993)
 
-## Das (1998a
+Das (1998a
 
 b), Duffee (1999b)
 
-## Fournié and Talay (1991)
+Fournié and Talay (1991)
 
-## Gourieroux and Laurent (1994)
+Gourieroux and Laurent (1994)
 
-### Gourieroux and Scaillet (1994)
+Gourieroux and Scaillet (1994)
 
-### Grinblatt and Jegadeesh (1996)
+Grinblatt and Jegadeesh (1996)
 
-## Jegadeesh (1993)
+Jegadeesh (1993)
 
-## Koedijk
+# Koedijk
 
-## Nissen
+# Nissen
 
-## Schotman
+# Schotman
 
-## and Wolff (1994)
+and Wolff (1994)
 
-### Litterman and Scheinkman (1988)
+Litterman and Scheinkman (1988)
 
 and DeMunnik (1992).
 
-### For estimation in the HJM setting
+# For estimation in the HJM setting
 
-## see Frachot (1995)
+see Frachot (1995)
 
-## Frachot
+# Frachot
 
 Janci, and Lacoste (1993)
 
-## Frachot and Lesne (1993a
+Frachot and Lesne (1993a
 
 b, c), Flesaker (1993)
 
-## Jeffrey (1995b)
+Jeffrey (1995b)
 
-## Miltersen (1993)
+Miltersen (1993)
 
 and Stanton (1995a).
 
 On log-normal interest rates and on the “market model” of interest rates of Miltersen
 
-## Sandmann
+# Sandmann
 
 and Sondermann (1997) used in Exercise 7.
 
 14, see Andersen and Andreasen (1998)
 
-## Brace and Musiela (1995c)
+Brace and Musiela (1995c)
 
-## Dothan (1978)
+Dothan (1978)
 
-## Goldberg (1998)
+Goldberg (1998)
 
-## Goldys
+# Goldys
 
-## Musiela
+# Musiela
 
-## and Sondermann (1994)
+and Sondermann (1994)
 
-## Hansen and Jorgensen (1998)
+Hansen and Jorgensen (1998)
 
-## Hogan (1993a)
+Hogan (1993a)
 
-## Jamshidian (1996b
+Jamshidian (1996b
 
 1997b, 1999)
 
-## Miltersen
+# Miltersen
 
-## Sandmann
+# Sandmann
 
-## and Sondermann (1997)
+and Sondermann (1997)
 
-### Sandmann and Sondermann (1997)
+Sandmann and Sondermann (1997)
 
-## Musiela (1994a)
+Musiela (1994a)
 
 and Vargiolu (1999).
 
@@ -14658,41 +14658,41 @@ The role of jumps in term-structure modeling is examined by Baz and Das (1996)
 
 Bjork, Kabanov
 
-## and Runggaldier (1995)
+and Runggaldier (1995)
 
 Bjork, DiMasi
 
-## Kabanov
+# Kabanov
 
-## and Runggaldier (1997)
+and Runggaldier (1997)
 
-## Das (1993c
+Das (1993c
 
 1995, 1997
 
 1998), Das and Foresi (1996)
 
-## Duffie and Kan (1996)
+Duffie and Kan (1996)
 
-## Eberlein and Raible (1999)
+Eberlein and Raible (1999)
 
-## Glasserman and Kou (1999)
+Glasserman and Kou (1999)
 
 and Naik and Lee (1994).
 
-## Dybvig
+# Dybvig
 
-## Ingersoll
+# Ingersoll
 
 and Ross (1996) show that the asymptote of long-term interest rates
 
-## as maturity goes to infinity
+as maturity goes to infinity
 
 defines a process that is nondecreasing in calendar time.
 
 Related work can be found in Carverhill (1996) and El Karoui
 
-## Frachot
+# Frachot
 
 and Geman (1997).
 
@@ -14700,17 +14700,17 @@ Numerical methods for solving term-structure models and the pricing of derivativ
 
 The pricing of mortgage-backed securities based on term-structure models (1996) is discussed by Boudoukh
 
-## Richardson
+# Richardson
 
-## Stanton
+# Stanton
 
-## and Whitelaw (1995)
+and Whitelaw (1995)
 
-## Cheyette (1996)
+Cheyette (1996)
 
-## and Stanton (1995b)
+and Stanton (1995b)
 
-## and Stanton and Wallace (1995
+and Stanton and Wallace (1995
 
 1998).
 
@@ -14726,7 +14726,7 @@ Restrictions implied by monetary integration are explored by Lund (1999).
 
 We have taken the zero-coupon yield curve throughout as though it can be directly observed in the marketplace.
 
-## In fact
+# In fact
 
 it is normal practice in the finance industry to estimate the current zero-coupon yield curve (or forward rates) from the prices of both zero-coupon and coupon bonds.
 
@@ -14734,31 +14734,31 @@ Such curve-fitting methods as nonlinear least squares or splines of several vari
 
 See, for example
 
-## Adams and Van Deventer (1994)
+Adams and Van Deventer (1994)
 
-## Coleman
+# Coleman
 
-## Fisher
+# Fisher
 
-## and Ibbotson (1992)
+and Ibbotson (1992)
 
-## Diament (1993)
+Diament (1993)
 
-## Fisher
+# Fisher
 
-## Nychka
+# Nychka
 
-## and Zervos (1994)
+and Zervos (1994)
 
-## Jaschke (1996)
+Jaschke (1996)
 
-## Konno and Takase (1995
+Konno and Takase (1995
 
 1996), and Svensson and Dahlquist (1993).
 
 Consistency of the curve-fitting method with an underlying term-structure model is examined by Bjork and Christensen (1999)
 
-## Bjork and Gombani (1999)
+Bjork and Gombani (1999)
 
 and Filipović (1999b).
 
@@ -14768,17 +14768,17 @@ see Brown and Schaefer (1996) and Pennacchi (1991).
 
 On central-bank policy effects and term-structure models
 
-## see Babbs and Webber (1994)
+see Babbs and Webber (1994)
 
-## Balduzzi
+# Balduzzi
 
-## Bertola
+# Bertola
 
-## Foresi
+# Foresi
 
-## and Klapper (1998)
+and Klapper (1998)
 
-## and Piazzesi (1997
+and Piazzesi (1997
 
 1999).
 
@@ -14790,7 +14790,7 @@ The expectations hypothesis is addressed in a term-structure setting by Fisher a
 
 The implications of special repo rates for term-structure modeling are explored by Barone and Risa (1994)
 
-## Duffie (1996)
+Duffie (1996)
 
 and Fisher and Gilles (1996).
 
@@ -14798,59 +14798,59 @@ Grinblatt (1994) pursues a related swap-spread model.
 
 Further general reading on arbitrage-free models of the term structure is found in Artzner and Delbaen (1990b)
 
-## Babbs and Webber (1994)
+Babbs and Webber (1994)
 
-## Back (1996)
+Back (1996)
 
-## Balduzzi (1994)
+Balduzzi (1994)
 
-## Bjork (1996)
+Bjork (1996)
 
-## Bossaerts (1990)
+Bossaerts (1990)
 
-## Campbell (1995)
+Campbell (1995)
 
-## Carverhill (1990
+Carverhill (1990
 
 1991), Heston (1988a
 
 1989), Hull and White (1993)
 
-## Marsh (1994)
+Marsh (1994)
 
-## DeMunnik (1992)
+DeMunnik (1992)
 
-## Musiela and Rutkowski (1997)
+Musiela and Rutkowski (1997)
 
-## Pedersen and Shiu (1993)
+Pedersen and Shiu (1993)
 
-## Pedersen
+# Pedersen
 
 Shiu, and Thorlacius (1989)
 
-## Rogers (1993)
+Rogers (1993)
 
-## and Webber (1990
+and Webber (1990
 
 1992).
 
 Alternative approaches to modeling the term structure of interest rates are given by Backus
 
-## Foresi
+# Foresi
 
-## and Zin (1998)
+and Zin (1998)
 
-## Brace and Musiela (1995a)
+Brace and Musiela (1995a)
 
-## Goldstein (1995)
+Goldstein (1995)
 
-## Jin and Classerman (1998)
+Jin and Classerman (1998)
 
-## Kim (1992
+Kim (1992
 
 1993, 1994)
 
-## Tice and Webber (1997)
+Tice and Webber (1997)
 
 and Zheng (1994).
 
@@ -14858,7 +14858,7 @@ On term-structure modeling of forward commodity prices
 
 see references cited in Chapter 8.
 
-## Derivative Pricing
+# Derivative Pricing
 
 THIS CHAPTER APPLIES arbitrage-free pricing techniques from Chapters 6 and 7 to derivative securities that are not always easily treated by the direct PDE approach of Chapter 5.
 
@@ -14868,17 +14868,17 @@ or on related indices.
 
 After summarizing the essential results from Chapter 6 for this purpose
 
-### we study the valuation of forwards
+we study the valuation of forwards
 
-## futures
+futures
 
-## European and American options
+# European and American options
 
 and certain exotic options.
 
 Option pricing with stochastic volatility is addressed with Fourier-transform methods.
 
-### Martingale Measures in a Black Box
+# Martingale Measures in a Black Box
 
 Skipping over the foundational theory developed in Chapter 6
 
@@ -14886,7 +14886,7 @@ this section reviews the properties of an equivalent martingale measure
 
 a convenient “black-box” approach to derivative asset pricing in the absence of arbitrage.
 
-## Once again
+# Once again
 
 we fix a standard Brownian motion B = (B¹
 
@@ -14896,13 +14896,13 @@ T], on a given probability space (Ω
 
 𝓕, P).
 
-### The standard filtration 𝓕 = {𝓕ₜ
+The standard filtration 𝓕 = {𝓕ₜ
 
-### 0 < t < T} of B is as defined in Section 5.
+0 < t < T} of B is as defined in Section 5.
 
 We take as given an adapted short-rate process r
 
-### with ∫₀ᵀ |rₜ| dt < ∞ almost surely
+with ∫₀ᵀ |rₜ| dt < ∞ almost surely
 
 and an Itô security-price process S in ℝᴺ with
 
@@ -14910,29 +14910,29 @@ dSₜ = μₜ dt + σₜ dBₜ,
 
 for appropriate μ and σ.
 
-### It was shown in Chapter 6 that
+# It was shown in Chapter 6 that
 
-### aside from technical conditions
+aside from technical conditions
 
 the absence of arbitrage is equivalent to the existence of an equivalent probability measure Q with special “risk-neutral” properties
 
 called the equivalent martingale measure.
 
-## For this chapter
+# For this chapter
 
 we will use a narrow definition of equivalent martingale measures under which all expected rates of return are equivalent to the riskless rate r
 
 a broader definition is given in Chapter 6.
 
-## This means that
+# This means that
 
-## under Q
+under Q
 
 there is a standard Brownian motion B^Q in ℝᵈ such that
 
 if the given securities pay no dividends before T
 
-## then
+then
 
 dSₜ = r_t Sₜ dt + σₜ dB^Qₜ, (1)
 
@@ -14944,11 +14944,11 @@ After substituting this “risk-neutral” measure Q for P
 
 one can thus treat every security as though its “instantaneous expected rate of return” is the short rate r.
 
-## More generally
+# More generally
 
 suppose the securities with price process S are claims to a cumulative-dividend process D.
 
-## (That is
+(That is
 
 Dₜ is the vector of cumulative dividends paid by the N securities up through time t.
 
@@ -14960,21 +14960,21 @@ which repeats (6.
 
 20).
 
-## For example
+# For example
 
 suppose that Dₜ = ∫₀ᵗ δₛ ds for some dividend-rate process δ.
 
-## Then (2) implies that
+Then (2) implies that
 
 dSₜ = (r_t Sₜ − δₜ) dt + σₜ dB^Qₜ, (3)
 
 generalizing (1).
 
-## For another example
+# For another example
 
 consider a unit discount riskless bond maturing at some time s.
 
-### The cumulative-dividend process
+# The cumulative-dividend process
 
 say H, of this security is characterized by Hₜ = 0 for t < s and Hₜ = 1 for u ≥ s.
 
@@ -14998,11 +14998,11 @@ where E_t denotes F_t-conditional expectation under Q and
 
 吊 =e】【P〈_还]【17工(翼Z【叟工一皇互′7′】^7】JZ谚薯),
 
-## Forward Prices 169
+# Forward Prices 169
 
 and where γ is a market-price-of-risk process
 
-## that is
+that is
 
 an adapted process in R^d solving the family of linear equations
 
@@ -15012,7 +15012,7 @@ The remainder of this chapter applies these concepts to the calculation of deriv
 
 going beyond the simple cases treated in Chapter 5.
 
-## Forward Prices
+# Forward Prices
 
 Sections B through D address the pricing of forward and futures contracts
 
@@ -15024,7 +15024,7 @@ The forward contract is the simpler of these two closely related securities.
 
 Let W be an F_t-measurable finite-variance random variable underlying the claim payable to a holder of the forward contract at its delivery date T.
 
-## For example
+# For example
 
 with a forward contract for delivery of a foreign currency at time T
 
@@ -15034,11 +15034,11 @@ The forward-price process F is an Itô process defined by the fact that one forw
 
 with no other cash flows at any time.
 
-## In particular
+# In particular
 
-### the true price of a forward contract
+the true price of a forward contract
 
-## at the contract date
+at the contract date
 
 is zero.
 
@@ -15050,29 +15050,29 @@ s < T, and H_T = W — F_t.
 
 Because the true price of the forward contract at t is zero
 
-## (2) implies that
+(2) implies that
 
-## 0 - Fe 恤〈一 还『 r, as)w - 峭〕-
+0 - Fe 恤〈一还『r, as)w - 峭〕-
 
 Solving for the forward price,
 
-## E_Q [exp(- ∫_t^T r_s ds)W]
+E_Q [exp(- ∫_t^T r_s ds)W]
 
-## E_Q [exp(- ∫_t^T r_s ds)]
+E_Q [exp(- ∫_t^T r_s ds)]
 
 If we assume that there exists at time t a zero-coupon riskless bond maturing at time T
 
-## then
+then
 
 F_t = E_Q [exp(- ∫_t^T r_s ds)W].
 
-## From this
+# From this
 
 we see that the forward-price process F is indeed an Itô process.
 
-## --- Page 95 ---
+--- Page 95 ---
 
-## 170 8. Derivative Pricing
+170 8. Derivative Pricing
 
 If r and W are statistically independent with respect to Q
 
@@ -15080,13 +15080,13 @@ we have the simplified expression F_t = E_Q(W)
 
 implying that the forward price is a Q-martingale.
 
-## This would be true
+# This would be true
 
-## for instance
+for instance
 
 if the short-rate process r is deterministic.
 
-## As an example
+# As an example
 
 suppose that the forward contract is for delivery at time T of one unit of a particular security with price process S and dividend process D.
 
@@ -15100,13 +15100,13 @@ From (5) and (2),
 
 If the short-rate process r is deterministic
 
-## we can simplify further to
+we can simplify further to
 
-### F_t = E_Q [S_T exp(- ∫_t^T r_s ds)] (7)
+F_t = E_Q [S_T exp(- ∫_t^T r_s ds)] (7)
 
 which is known as the cost-of-carry formula for forward prices.
 
-## For deterministic r and D
+# For deterministic r and D
 
 the cost-of-carry formula (7) can be recovered from a direct and simple arbitrage argument.
 
@@ -15118,17 +15118,17 @@ If one lends out the dividends as they are received by buying riskless bonds mat
 
 the net payoff to this strategy at time T is the value S_T of the underlying security
 
-### less the maturity value S_t/A_{t
+less the maturity value S_t/A_{t
 
-## T} of the bonds sold at t
+T} of the bonds sold at t
 
 plus the total maturity value ∫_t^T A_{s
 
 T} dD_s of all of the bonds purchased with the dividends received between t and T.
 
-## The total is S_T — S_t/A_{t
+The total is S_T — S_t/A_{t
 
-## T} + ∫_t^T A_{s
+T} + ∫_t^T A_{s
 
 T} dD_s.
 
@@ -15136,17 +15136,17 @@ The payoff of the forward contract is S_T — F_t.
 
 Since these two strategies have no payoffs except at T
 
-### and since both F_t and S_t/A_{t
+and since both F_t and S_t/A_{t
 
-## T} — ∫_t^T A_{s
+T} — ∫_t^T A_{s
 
-## T} dD_s are known at time t
+T} dD_s are known at time t
 
 there would be an arbitrage unless F_t and S_t/A_{t
 
-## T} — ∫_t^T A_{s
+T} — ∫_t^T A_{s
 
-## T} dD_s are equal
+T} dD_s are equal
 
 consistent with (7).
 
@@ -15154,7 +15154,7 @@ We have put aside the issue of calculating the equivalent martingale measure Q.
 
 The simplest case is that in which the forward contract is redundant
 
-## for in this case
+for in this case
 
 the equivalent martingale measure does not depend on the forward price.
 
@@ -15162,17 +15162,17 @@ The forward contract is automatically redundant if the underlying asset is a sec
 
 provided there is a zero-coupon bond maturing at T.
 
-## In that case
+# In that case
 
 the forward contract can be replicated by a strategy similar to that used to verify the cost-of-carry formula directly.
 
 Construction of the strategy is assigned as an exercise.
 
-### Futures and Continuous Resettlement 171
+# Futures and Continuous Resettlement 171
 
-### Futures and Continuous Resettlement
+# Futures and Continuous Resettlement
 
-## As with a forward contract
+# As with a forward contract
 
 a futures contract with delivery date T is keyed to some delivery value W
 
@@ -15180,21 +15180,21 @@ which we take to be an F_t-measurable random variable with finite variance.
 
 The contract is completely defined by a futures-price process Φ with the property that Φ_T = W.
 
-## As we shall see
+# As we shall see
 
 the contract is literally a security whose price process is zero and whose cumulative-dividend process is Φ.
 
-## In other words
+# In other words
 
 changes in the futures price are credited to the holder of the contract as they occur.
 
 See Exercise 2.
 
-### 17 for an explanation in discrete time.
+17 for an explanation in discrete time.
 
 Many modern futures contracts have streamlined procedures that avoid the delivery process.
 
-## For these
+# For these
 
 the only link that exists with the notion of delivery is that the terminal futures price Φ_T is contractually equated to some such variable W
 
@@ -15202,13 +15202,13 @@ which could be the price of some commodity or security
 
 or even some abstract variable of general economic interest such as a price deflator.
 
-## This procedure
+# This procedure
 
 finessing the actual delivery of some asset
 
 is known as cash settlement.
 
-## In any case
+# In any case
 
 whether based on cash settlement or the absence of delivery arbitrage
 
@@ -15218,27 +15218,27 @@ The institutional feature of futures markets that is central to our analysis of 
 
 the process that generates daily or even more frequent payments to and from the holders of futures contracts based on changes in the futures price.
 
-### As with the expression "forward
+As with the expression "forward
 
-## --- Page 96 ---
+--- Page 96 ---
 
-## 172 8. Derivative Pricing
+172 8. Derivative Pricing
 
 as a cumulative-dividend process.
 
 In particular, as we have already stated
 
-## in its definition
+in its definition
 
-### the futures-price process Φ is itself
+the futures-price process Φ is itself
 
-## formally speaking
+formally speaking
 
 cumulative dividend process associated with the contract.
 
-## The true price
+# The true price
 
-## process is zero
+process is zero
 
 since (again ignoring some of the detailed institutional
 
@@ -15246,7 +15246,7 @@ procedures) there is no payment against the contract due at the time a
 
 contract is bought or sold.
 
-## Arbitrage-Free Futures Prices
+# Arbitrage-Free Futures Prices
 
 The futures-price process Φ can now be characterized as follows.
 
@@ -15260,17 +15260,17 @@ Because Φ is strictly speaking the cumulative-dividend
 
 process associated with the futures contract
 
-## and since the true-price
+and since the true-price
 
-### process of the contract is zero
+process of the contract is zero
 
-## from (2) we see that
+from (2) we see that
 
-### 0 = E_Q([ Y_T Φ_T | ℱ_t ), t<T,
+0 = E_Q([ Y_T Φ_T | ℱ_t ), t<T,
 
 from which it follows that the stochastic integral { Φ dΦ } is a Q-martingale.
 
-## Because r is bounded
+# Because r is bounded
 
 there are constants k > 0 and k_r such that Y_t ≤
 
@@ -15280,13 +15280,13 @@ The process Φ dΦ is therefore a Q-martingale if and only
 
 if Φ is also a Q-martingale.
 
-## (This seems obvious
+(This seems obvious
 
-## proof is assigned as an
+proof is assigned as an
 
 exercise.
 
-## ) Since Φ_T = W_T
+) Since Φ_T = W_T
 
 we have deduced a convenient representation
 
@@ -15296,107 +15296,107 @@ for the futures-price process:
 
 If r and W are statistically independent under Q
 
-## the futures-price
+the futures-price
 
 process Φ given by (8) and the forward-price process F given by (5)
 
 are thus identical.
 
-## In particular
+# In particular
 
-## if r is deterministic
+if r is deterministic
 
-## the cost-of-carry
+the cost-of-carry
 
 formula (7) applies as well to futures prices.
 
 As for how to calculate an equivalent martingale measure Q
 
-## it is most
+it is most
 
 convenient if the futures contract is redundant
 
-## for then a suitable Q can
+for then a suitable Q can
 
 be calculated directly from the other available securities.
 
-## We shall work on
+# We shall work on
 
-### Arbitrage-Free Futures Prices 173
+# Arbitrage-Free Futures Prices 173
 
-## this approach
+this approach
 
 originating with an article cited in the Notes
 
-## and fix for the
+and fix for the
 
 remainder of the section such an equivalent martingale measure Q.
 
-## Aside
+# Aside
 
-### from the case of complete markets
+from the case of complete markets
 
-### it is not obvious how to establish the
+it is not obvious how to establish the
 
 redundancy of a futures contract since the futures-price process Φ is itself
 
 the cumulative-dividend process of the contract
 
-## so any argument might
+so any argument might
 
 seem circular.
 
-## Suppose
+# Suppose
 
-## however
+however
 
 that there is a self-financing strategy (in
 
 securities other than the futures contract) whose value at the delivery date
 
-## T is
+# T is
 
 Z_T = E_Q( W_T ).
 
 We will give an example of such a strategy shortly.
 
-## From the definition of
+# From the definition of
 
 Q, the market value of this strategy at time t is Z_t = E_Q(W_T | ℱ_t).
 
-## We claim that
+# We claim that
 
-## if Φ_t is not equal to Z_t
+if Φ_t is not equal to Z_t
 
 then there is an arbitrage.
 
 In order to show this,
 
-### we will construct a trading strategy
+we will construct a trading strategy
 
-### involving only the futures contract
+involving only the futures contract
 
 and borrowing or lending at the short rate
 
-### such that the strategy pays off
+such that the strategy pays off
 
 exactly Z_T at time T and requires the investment of Φ_t at time t.
 
-## It will
+# It will
 
 be clear from this that the absence of arbitrage equates Φ_t and Z_t.
 
 strategy is constructed as follows.
 
-### Let θ be the (bounded) futures position
+Let θ be the (bounded) futures position
 
-## process defined by θ_s = 0
+process defined by θ_s = 0
 
-### s < t and θ_s = exp(∫ₜˢ r_u du)
+s < t and θ_s = exp(∫ₜˢ r_u du)
 
 s > t.
 
-## Let V_s be
+Let V_s be
 
 the amount invested at the short rate at time s
 
@@ -15404,9 +15404,9 @@ determined as follows.
 
 Let V_s = 0, s < t, and V_t = Φ_t.
 
-## After t
+# After t
 
-### let all dividends generated by the
+let all dividends generated by the
 
 futures position be invested at the short rate and "rolled over.
 
@@ -15418,21 +15418,21 @@ The total market value at any time s > t of this self-financing strategy in
 
 futures and investment at the short rate is the amount V_s invested at the
 
-## short rate
+short rate
 
 since the true price of the futures contract is zero.
 
-## We can
+# We can
 
-### calculate by Itô’s Formula that
+calculate by Itô’s Formula that
 
 V_T = Φ_t exp( ∫ₜᵀ r_s ds ) = Z_T, (9)
 
-## t
+t
 
 which verifies the claim that the futures contract is redundant.
 
-## Summarizing
+# Summarizing
 
 the futures-price process is uniquely defined by (8) provided there is a self-financing strategy with value Z_T = W_T exp( ∫ₜᵀ r_s ds ) at
 
@@ -15444,17 +15444,17 @@ the value at time T of some self-financing strategy.
 
 That is the case, for
 
-## instance
+instance
 
 if the futures contract delivers a security that pays no dividends
 
-## --- Page 97 ---
+--- Page 97 ---
 
-## 174 8. Derivative Pricing
+174 8. Derivative Pricing
 
 before T and if the short-rate process is deterministic.
 
-## With this
+# With this
 
 the purchase of exp( ∫ₜᵀ r_s ds ) units of the underlying security at time t would
 
@@ -15464,59 +15464,59 @@ More general examples can easily be constructed.
 
 There is one loose end to tidy up.
 
-### The assumption that the futures-
+# The assumption that the futures-
 
 price process Φ is an Itô process played a role in our analysis
 
-## yet we have
+yet we have
 
 not confirmed that the solution (8) for Φ is actually an Itô process.
 
-## This
+# This
 
 can be shown as an application of Girsanov’s Theorem (Appendix D).
 
-## Stochastic Volatility
+# Stochastic Volatility
 
 The Black-Scholes option-pricing formula
 
-## as we recall from Chapter 5
+as we recall from Chapter 5
 
-## underlying asset price
+underlying asset price
 
-## p is the exercise price
+p is the exercise price
 
-## r is the short interest rate
+r is the short interest rate
 
-## t is the time to expiration
+t is the time to expiration
 
 and σ is the volatility coefficient for the underlying asset.
 
-## For each fixed (x
+For each fixed (x
 
 p, r, t) with nonzero x and t
 
-## the map from
+the map from
 
-## σ to C(x
+σ to C(x
 
 p, r, t
 
-## σ) is strictly increasing
+σ) is strictly increasing
 
 and its range is unbounded.
 
 may therefore invert and obtain the volatility from the option price.
 
-## That
+# That
 
 is, we can define an implied volatility function I
 
-## ℝ₊ × ℝ₊ × ℝ × [0
+ℝ₊ × ℝ₊ × ℝ × [0
 
-## T] × ℝ₊ → ℝ₊ by
+T] × ℝ₊ → ℝ₊ by
 
-## c = C(x
+c = C(x
 
 p, r, t
 
@@ -15524,19 +15524,19 @@ I(x, p
 
 r, t, σ))
 
-## (10)
+(10)
 
 for all sufficiently large c ∈ ℝ₊.
 
 If c₁ is the Black-Scholes price of an option on a given asset at strike
 
-## p₁ and expiration t₁
+p₁ and expiration t₁
 
 and c₂ is the Black-Scholes price of an option on the
 
 same asset at strike p₂ and expiration t₂
 
-## then the associated implied
+then the associated implied
 
 the assumptions underlying the Black-Scholes formula apply literally
 
@@ -15550,9 +15550,9 @@ actual market prices for European options on the same underlying asset
 
 have associated Black-Scholes implied volatilities that vary with both exercise price and expiration date.
 
-## For example
+# For example
 
-## in certain markets at certain
+in certain markets at certain
 
 times, implied volatilities of options with a given exercise date depend on
 
@@ -15560,21 +15560,21 @@ strike prices in a manner that is often termed a smile curve.
 
 Figure 8.
 
-## for example
+for example
 
 illustrates the dependence of Black-Scholes implied volatilities on moneyness (the ratio of strike price to futures price)
 
-## for various
+for various
 
-### S&P 500 index options on November 2
+# S&P 500 index options on November 2
 
 1993.
 
-## Other forms of systematic
+# Other forms of systematic
 
 deviation away from constant implied volatilities have been noted
 
-## both
+both
 
 over time and across various derivatives at a point in time.
 
@@ -15584,27 +15584,27 @@ from the assumptions underlying the Black-Scholes model.
 
 In all of these,
 
-## Stochastic Volatility 175
+# Stochastic Volatility 175
 
-## 0.24 —
+# 0.24 —
 
-## 0.22 —
+# 0.22 —
 
-## Black-Scholes Implied Vol (%)
+Black-Scholes Implied Vol (%)
 
-## 0.08 —
+# 0.08 —
 
-## 0.06 7 5 4 5 5
+# 0.06 7 5 4 5 5
 
-## 06 07 0.8 0.9 1 1.1 1.2
+06 07 0.8 0.9 1 1.1 1.2
 
-## Moneyness = Strike/Futures
+Moneyness = Strike/Futures
 
 Figure 8.
 
 “Smile Curves” Implied by S&P 500 Index Options of Six Different Times to Expiration
 
-### from Market Data for November 2
+from Market Data for November 2
 
 1993
 
@@ -15612,7 +15612,7 @@ the underlying log-normal price process is generalized by replacing the
 
 constant-volatility parameter σ of the Black-Scholes model with a volatility
 
-## process
+process
 
 an adapted nonnegative process V with ∫₀ᵀ V_t dt < ∞ such that the
 
@@ -15620,41 +15620,41 @@ underlying asset price process S satisfies
 
 dS_t = μ_t S_t dt + S_t √V_t dW_t, (11)
 
-## where dW = γ dB
+where dW = γ dB
 
 B is a standard Brownian motion under Q obtained from
 
 any γ in ℝ² with unit norm.
 
-## In the first class of models
+# In the first class of models
 
-## V_t = v(S_t
+V_t = v(S_t
 
 t), for some function v
 
-## ℝ₊ × [0
+ℝ₊ × [0
 
 T] → ℝ₊ satisfying technical regularity conditions.
 
-## In practical applications
+# In practical applications
 
-## the function v
+the function v
 
-## or its discrete-time
+or its discrete-time
 
-## discrete-state analogue
+discrete-state analogue
 
 often “calibrated” to the available option prices.
 
 This approach, sometimes
 
-### referred to as the implied-tree model
+referred to as the implied-tree model
 
-### is explored in literature cited in the
+is explored in literature cited in the
 
 Notes of this chapter and of Chapter 3.
 
-## For a second class of models
+# For a second class of models
 
 called generalized autoregressive conditional heteroscedastic or GARCH
 
@@ -15666,27 +15666,27 @@ constructing the volatility at time of the return according to the recursive for
 
 , (12)
 
-## for fixed coefficients
+for fixed coefficients
 
 , and satisfying regularity conditions.
 
-### By taking a time period of length
+# By taking a time period of length
 
-## normalizing in a natural way
+normalizing in a natural way
 
-## and taking limits
+and taking limits
 
 a natural continuous-time limiting behavior for volatility is simply a deterministic mean-reverting process satisfying the ordinary differential equation
 
-## . (13)
+. (13)
 
 (Discussion of the nature of the continuous-time limit can be found in sources cited in the Notes.
 
-## In a third approach
+# In a third approach
 
 the increments of the volatility process depend on Brownian motions (or more general random processes) that are not perfectly correlated with .
 
-## For example
+# For example
 
 in a simple “one-factor” setting the volatility process satisfies a stochastic differential equation of the form
 
@@ -15696,13 +15696,13 @@ where is a standard Brownian motion under
 
 for some constant vector of unit norm.
 
-## As we shall see
+# As we shall see
 
 the correlation parameter has an important influence on option prices.
 
 The Feynman-Kac approach illustrated in Chapter 5 leads
 
-## under technical conditions
+under technical conditions
 
 to a partial differential equation to be solved for a function that determines the price at time of a European option at exercise price and expiration at time as
 
@@ -15714,7 +15714,7 @@ This implies that the volatility process is independently distributed (under ) w
 
 One can then more easily calculate the value of an option (or another derivative) on the underlying asset by noting that
 
-### conditional on the volatility process
+conditional on the volatility process
 
 the underlying asset price process is log-normal under .
 
@@ -15722,23 +15722,23 @@ That is, the distribution under of
 
 conditional on the entire volatility process is normal with standard deviation
 
-## where
+where
 
 and with mean .
 
-### By the law of iterated expectations
+# By the law of iterated expectations
 
-### the initial European call-option price
+the initial European call-option price
 
-### with expiration date and strike
+with expiration date and strike
 
-## is given by
+is given by
 
 , (18)
 
 where as usual denotes the Black-Scholes formula.
 
-### Given a particular stochastic model for
+# Given a particular stochastic model for
 
 one could evaluate the option price (15) by several numerical methods mentioned in the Notes.
 
@@ -15746,11 +15746,11 @@ One finds that the implied smile curve is indeed “smile-shaped
 
 ” although it is difficult to reconcile this special case with the empirical behavior of many types of options.
 
-## In particular
+# In particular
 
-## in many settings
+in many settings
 
-### a pronounced skew to the smile
+a pronounced skew to the smile
 
 as in Figure 8.
 
@@ -15764,19 +15764,19 @@ as indicated in sources cited in the Notes.
 
 A tractable model that allows for the skew effects of correlation is the Heston model
 
-### the special case of (14) for which
+the special case of (14) for which
 
 , (16)
 
-## for positive coefficients
+for positive coefficients
 
 , and that play the same respective roles for as for a Cox-Ingersoll-Ross interest-rate model.
 
-## (Indeed
+(Indeed
 
 (16) is sometimes called a “CIR model” for volatility.
 
-### ) In the original Heston model
+) In the original Heston model
 
 the short rate was assumed to be a constant
 
@@ -15786,11 +15786,11 @@ using transform methods explained in the next Section
 
 in terms of the parameters of the Heston model
 
-### as well as the initial volatility
+as well as the initial volatility
 
-## the initial underlying price
+the initial underlying price
 
-## the strike price
+the strike price
 
 and the expiration time.
 
@@ -15800,21 +15800,21 @@ Figure 8.
 
 1, for parameters
 
-## including
+including
 
 chosen to minimize the sum of squared differences between actual and theoretical
 
 option prices.
 
-## Notably
+# Notably
 
-### the distinctly downward slopes
+the distinctly downward slopes
 
-## often called skews
+often called skews
 
 are captured with a negative correlation coefficient .
 
-## Taking the short rate
+# Taking the short rate
 
 the remaining coefficients of the Heston model are calibrated as
 
@@ -15824,21 +15824,21 @@ The Notes cite literature that uses time-series data on both options and underly
 
 indicating evidence that the Heston model is overly restrictive for these data.
 
-## This transform approach
+# This transform approach
 
-## however
+however
 
 also accommodates stochastic interest rates
 
 jumps, and more general volatility models.
 
-### Option Valuation by Transform Analysis
+# Option Valuation by Transform Analysis
 
 This section is devoted to the calculation of option prices with stochastic volatility
 
 in a setting with affine state dynamics of the type introduced for term-structure modeling in Chapter 7.
 
-## We use transform analysis
+# We use transform analysis
 
 allowing for relatively rich and tractable specifications of stochastic interest rates and volatility
 
@@ -15846,43 +15846,43 @@ and, eventually
 
 for jumps.
 
-## Repeating from Chapter 7
+# Repeating from Chapter 7
 
 a state process in state space is affine (under ) if
 
 , (17)
 
-## where for some and and
+where for some and and
 
-## for each and in
+for each and in
 
 , (18)
 
 for some and , for the state space
 
-## . (19)
+. (19)
 
 The Notes cite technical conditions on the coefficients ensuring the existence of a unique solution to (17).
 
-### For time-series empirical studies
+# For time-series empirical studies
 
 it is often convenient to suppose that the state process is also affine under the original data-generating probability measure
 
 albeit with a different set of drift-related coefficients in place of .
 
-## Conditions for this
+# Conditions for this
 
 and extensions to time-dependent coefficients
 
 are explored in exercises.
 
-## In this setting
+# In this setting
 
 the short-rate process is assumed to be of the affine form
 
 for coefficients and .
 
-## Finally
+# Finally
 
 we suppose that the price process underlying the options in question is of the exponential-affine form
 
@@ -15890,7 +15890,7 @@ for potentially time-dependent coefficients and .
 
 An example would be the price of an equity
 
-## a foreign currency
+a foreign currency
 
 or, as shown in Chapter 7
 
@@ -15908,7 +15908,7 @@ From Ito’s Formula,
 
 which indeed makes the state vector an affine process
 
-## whose state space is
+whose state space is
 
 and whose coefficients can be chosen in terms of the parameters of the Heston model.
 
@@ -15916,17 +15916,17 @@ The underlying asset price is of the desired exponential-affine form because and
 
 We will return to the Heston model shortly with some explicit results on option valuation.
 
-## For the general affine case
+# For the general affine case
 
 suppose we are interested in valuing a European call option on the underlying security
 
 with strike price and exercise date .
 
-### We have the initial option price
+# We have the initial option price
 
 Letting denote the event that the option is in themoney at expiration
 
-## we have the option price
+we have the option price
 
 Because , we have
 
@@ -15936,57 +15936,57 @@ So, if we can compute the function
 
 we can obtain the prices of options of any strike and exercise date.
 
-## Likewise
+# Likewise
 
-## the prices of European puts
+the prices of European puts
 
-## interest-rate caps
+interest-rate caps
 
-## chooser options
+chooser options
 
 and many other derivatives can be derived in terms of
 
 as shown in exercises and sources cited in the Notes.
 
-## We note
+# We note
 
-## for fixed
+for fixed
 
-## assuming
+assuming
 
 that is a bounded increasing function.
 
-## For any such function
+# For any such function
 
-## an associated transform
+an associated transform
 
-### where is the set of complex numbers
+where is the set of complex numbers
 
-## is defined by
+is defined by
 
-### where is the usual imaginary number
+where is the usual imaginary number
 
 often denoted .
 
 (Appendix H summarizes a few minimal elements of complex arithmetic.
 
-### ) Depending on one’s conventions
+) Depending on one’s conventions
 
 one may refer to as the Fourier transform of .
 
-### Under the technical condition that
+# Under the technical condition that
 
-### we have the Lévy Inversion Formula
+we have the Lévy Inversion Formula
 
 where denotes the imaginary part of a complex number .
 
 Option Valuation by Transform Analysis 181
 
-## For the case
+# For the case
 
-## with transform
+with transform
 
-## we can compute from (24)
+we can compute from (24)
 
 typically by computing the integral in (24) numerically
 
@@ -15994,25 +15994,25 @@ and thereby obtain option prices from (21).
 
 Our final objective is therefore to compute the transform .
 
-## Fixing
+# Fixing
 
 an application of Fubini’s Theorem to (23) implies that
 
-## where is defined by
+where is defined by
 
-## From (25)
+From (25)
 
 the same separation-of-variables arguments used in Chapter 7 imply
 
-### under technical regularity conditions
+under technical regularity conditions
 
-## that
+that
 
 where solves the Riccati ordinary differential equation (ODE)
 
-## with the boundary condition
+with the boundary condition
 
-## and where
+and where
 
 The ODE (27) is identical to that arising in the affine term-structure calculations of Chapter 7
 
@@ -16026,7 +16026,7 @@ following the usual rules of complex arithmetic outlined in Appendix H.
 
 Thus, under technical conditions
 
-## we have our transform
+we have our transform
 
 evaluated at a particular .
 
@@ -16038,7 +16038,7 @@ obtained by solving the Riccati equation (27) with the respective boundary condi
 
 For cases in which the ODE (27) cannot be solved explicitly
 
-## its numerical computation
+its numerical computation
 
 followed by numerical integration to obtain (24)
 
@@ -16046,17 +16046,17 @@ is somewhat burdensome.
 
 Direct PDE or Monte Carlo numerical methods would typically
 
-## however
+however
 
 be even more computationally intensive.
 
-## --- Page 101 ---
+--- Page 101 ---
 
-## 182 8. Derivative Pricing
+182 8. Derivative Pricing
 
 For option pricing with the Heston model
 
-## we require only the transform
+we require only the transform
 
 for some particular choices of .
 
@@ -16064,19 +16064,19 @@ Solving (27) for this case, we have
 
 where, letting , , , and , we find that
 
-## and
+and
 
 Other special cases for which one can compute explicit solutions are cited in the Notes
 
 or treated in exercises.
 
-## American Security Valuation
+# American Security Valuation
 
 This section addresses the valuation of American securities
 
 those whose cash flows are determined by the stopping time at which the owner of the American security decides to exercise.
 
-### As our setup for primitive securities
+# As our setup for primitive securities
 
 we take a bounded short-rate process and suppose that the price process of the other securities satisfies (1)
 
@@ -16088,11 +16088,11 @@ so that any random payoff with finite risk-neutral expectation can be replicated
 
 ” as shown by Proposition 6.
 
-## As indicated in Chapter 2
+# As indicated in Chapter 2
 
 some sort of dynamic-spanning property of this type is important for the valuation of American securities.
 
-## An American security
+# An American security
 
 defined by an adapted process and an expiration time
 
@@ -16106,29 +16106,29 @@ our objective is to calculate the price process of the American security and to 
 
 The classic example is the case of a put option on a stock in the Black-Scholes setting of constant-volatility stock prices and constant short rates.
 
-## In that case
+# In that case
 
-## we have
+we have
 
 where is the exercise price and is the underlying asset price process.
 
-## More generally
+# More generally
 
 we will rely on the following technical condition.
 
 American Regularity Condition.
 
-### is an adapted continuous process
+is an adapted continuous process
 
-## bounded below
+bounded below
 
 with .
 
-### American Security Valuation 183
+# American Security Valuation 183
 
 This regularity is certainly satisfied for an American put option in standard settings for which the underlying price process is an Itô process.
 
-### Given some particular exercise policy
+# Given some particular exercise policy
 
 Proposition 6.
 
@@ -16138,7 +16138,7 @@ where .
 
 This implies that the payoff of at time is replicated by the trading strategy that is until time
 
-## and zero afterward
+and zero afterward
 
 generating a lump-sum payment of at .
 
@@ -16178,7 +16178,7 @@ regardless of the exercise policy used by the holder of the American security.
 
 This constitutes an arbitrage.
 
-## Indeed
+# Indeed
 
 then, the unique arbitrage-free American security price would be given by (30).
 
@@ -16186,33 +16186,33 @@ then, the unique arbitrage-free American security price would be given by (30).
 
 Let be the deflated exercise-value process
 
-## defined by
+defined by
 
-## --- Page 102 ---
+--- Page 102 ---
 
-## 184 8. Derivative Pricing
+184 8. Derivative Pricing
 
-### Let be the Snell envelope of under
+# Let be the Snell envelope of under
 
-## meaning that
+meaning that
 
 where denotes essential supremum.
 
-## [In other words
+[In other words
 
-## for all
+for all
 
 P(W, > E[Φ(0)]) = 1
 
-## and if U is any other Y
+and if U is any other Y
 
-## -measurable random variable
+-measurable random variable
 
-## satisfying P(W
+satisfying P(W
 
-### > E[Φ(0)]) = 1 for all t in F(t)
+> E[Φ(0)]) = 1 for all t in F(t)
 
-## then P(W
+then P(W
 
 < W,) = 1.
 
@@ -16220,7 +16220,7 @@ We recall from Chapter 6 that a trading strategy whose market-value
 
 process is bounded below cannot take advantage of certain “pathological”
 
-## varieties of arbitrage
+varieties of arbitrage
 
 such as doubling strategies.
 
@@ -16228,27 +16228,27 @@ Proposition.
 
 There is a super-replicating trading strategy b“ whose market-value
 
-## process Y is bounded below
+process Y is bounded below
 
 with initial market value Y₀ = V₀.
 
-## A rational exercise
+# A rational exercise
 
-### policy is given by τ° = inf {t
+policy is given by τ° = inf {t
 
 Y, = U
 
 Proof: Under the American Regularity Conditions
 
-## a source cited in the
+a source cited in the
 
 Notes shows that the Snell envelope W of Φ is a continuous super-
 
-## martingale under Q
+martingale under Q
 
 and can therefore be decomposed in the form
 
-## W = Z − A
+W = Z − A
 
 where Z is a Q-martingale and A is an increasing adapted
 
@@ -16256,43 +16256,43 @@ process with A₀ = 0.
 
 By Proposition 6.
 
-### 1 and numeraire invariance, there
+1 and numeraire invariance, there
 
 is a self-financing trading strategy whose market-value process Y has the
 
-### final market value y = Z_T exp(∫₀ᵀ r
+final market value y = Z_T exp(∫₀ᵀ r
 
-## dt) and satisfies
+dt) and satisfies
 
 Y, = Y₀ exp(∫₀ᵗ r, ds).
 
-### A Q-martingale V is thus defined by V
+# A Q-martingale V is thus defined by V
 
 = Y, exp(−∫₀ᵗ r
 
 ds).
 
-## Because Z is
+# Because Z is
 
 also a Q-martingale, for t < T we have
 
 V, = E_Q [ exp(−∫ₜᵀ r, ds) Y_T | F_t ]
 
-## = exp(∫₀ᵗ r
+= exp(∫₀ᵗ r
 
-## ds) E_Q [ exp(−∫ₜᵀ r
+ds) E_Q [ exp(−∫ₜᵀ r
 
-## ds) Z_T | F_t ]
+ds) Z_T | F_t ]
 
 = exp(∫₀ᵗ r, ds) Z,
 
 = exp(∫₀ᵗ r, ds)(W, + A,).
 
-## (32)
+(32)
 
-## Taking t = 0 in (32)
+Taking t = 0 in (32)
 
-## we have V₀ = W₀ = V₀
+we have V₀ = W₀ = V₀
 
 as asserted.
 
@@ -16300,29 +16300,29 @@ From (32),
 
 Y, > exp(∫₀ᵗ r, ds) W, > U,, (33)
 
-### American Security Valuation 185
+# American Security Valuation 185
 
-## using the fact that A
+using the fact that A
 
-## is nonnegative
+is nonnegative
 
-## the definition of W
+the definition of W
 
-## and the fact that
+and the fact that
 
 W, > U,.
 
 Thus the underlying trading strategy is super-replicating.
 
-## Because
+# Because
 
-## U is bounded below
+# U is bounded below
 
 (33) implies that the replicating market-value process
 
 Y is bounded below.
 
-## Moreover
+# Moreover
 
 τ° is a rational exercise policy because
 
@@ -16330,17 +16330,17 @@ from noting that V is a Q-martingale and that Φ(τ°) = U(τ°).
 
 Putting the various pieces of the story together
 
-## the “arbitrage-pricing”
+the “arbitrage-pricing”
 
 result is summarized as follows.
 
-### If the initial price V₀ of the American
+If the initial price V₀ of the American
 
 security (Φ, T) is strictly larger than
 
 V* = sup_{τ∈𝒯(0)} E_Q [exp(−∫₀ᵀ r(s) ds) U_τ]
 
-## (34)
+(34)
 
 then an arbitrage consists of sale of the option and adoption of the super-
 
@@ -16348,23 +16348,23 @@ replicating trading strategy b* until whatever exercise time τ chosen by
 
 the option holder.
 
-## Conversely
+# Conversely
 
-## if V₀ < V*
+if V₀ < V*
 
-## then an arbitrage is made by
+then an arbitrage is made by
 
-### purchase of the option at time 0
+purchase of the option at time 0
 
-### exercise of the option at the rational
+exercise of the option at the rational
 
-## time τ°
+time τ°
 
 and adoption of the trading strategy −b* until liquidation at τ.
 
 Neither of these arbitrage strategies are “doubling strategies” of the type
 
-## discussed in Chapter 6
+discussed in Chapter 6
 
 the implied pricing is indeed consistent with the
 
@@ -16372,13 +16372,13 @@ given equivalent martingale measure Q.
 
 All of our assumptions are satisfied in the case of an American put in
 
-## the “Black-Scholes” setting
+the “Black-Scholes” setting
 
-## with a constant short rate r
+with a constant short rate r
 
-## and an underlying
+and an underlying
 
-## price process S solving
+price process S solving
 
 dS, = r S, dt + σ S, dξ; S₀ = x, (35)
 
@@ -16388,11 +16388,11 @@ Thus, an American put
 
 with exercise price p and expiration at time T has the initial arbitrage-free
 
-## price
+price
 
 V₀ = max E_Q [e^{−rT} (p − S_T)⁺].
 
-## (36)
+(36)
 
 In Chapter 12 we review some numerical recipes for approximating this
 
@@ -16400,157 +16400,157 @@ value.
 
 There need not in fact be complete markets for our results to apply
 
-## even in this simple setting
+even in this simple setting
 
 for even if the underlying Brownian motion is of
 
-## dimension a > 1
+dimension a > 1
 
 the super-replicating strategy of Proposition 8.
 
-## G can be
+# G can be
 
 constructed in terms of the underlying security with price process S and
 
-### funds invested at the short rate r
+funds invested at the short rate r
 
-### and has a market-value process Y
+and has a market-value process Y
 
 that dominates the exercise value (p − S_τ)⁺ at any stopping time τ
 
-## even a
+even a
 
 stopping time τ that is determined by information not generated by the Brownian
 
 motion ξ of the underlying price process S.
 
-## By extending our arguments
+# By extending our arguments
 
-### we can handle an American security that
+we can handle an American security that
 
 promises a cumulative-dividend process H until exercised at a stopping
 
 time τ < T for a final payoff of U_τ.
 
-### The same arguments applied previously
+# The same arguments applied previously
 
 lead to an initial price of the American security (H
 
 U, T) given
 
-## under
+under
 
 similar technical regularity, by
 
-## American Exercise Boundaries
+# American Exercise Boundaries
 
 We take the case of an American security (Φ
 
-## T) with U
+T) with U
 
 = g(X, t)
 
-## where
+where
 
 g: R* × [0
 
 T] → R is continuous and X is a state process in R* satisfying
 
-## the SDE
+the SDE
 
 dX, = a(X,) dt + b(X,) dξ, (37)
 
 for continuous functions a and b satisfying Lipschitz conditions.
 
-## For sim-
+# For sim-
 
-## plicity
+plicity
 
 we take the interest-rate process r to be zero
 
-## and later show
+and later show
 
 that, aside from technicalities
 
 this is without loss of generality.
 
-## We adopt
+# We adopt
 
 the American regularity conditions and again assume redundancy of the
 
 American security for any exercise policy.
 
-### Starting at time t with initial
+# Starting at time t with initial
 
-## condition X
+condition X
 
-## = x for (37)
+= x for (37)
 
-### the arbitrage-free value is given by
+the arbitrage-free value is given by
 
 h(x, t) = sup_{τ∈𝒯(t)} E_Q [g(X, τ)].
 
-## (38)
+(38)
 
 By inspection, h > g.
 
-## From Proposition G
+# From Proposition G
 
-## an optimal exercise policy
+an optimal exercise policy
 
-## is given by
+is given by
 
 τ° = inf{t ∈ [0, T]: h(X, t) = g(X, t)}.
 
-## (39)
+(39)
 
-## By (39)
+By (39)
 
 h(X, t) > g(X
 
 t) for all t < τ°.
 
-## Letting
+# Letting
 
-## 𝒞 = {(x
+𝒞 = {(x
 
-## t) ∈ R* × [0
+t) ∈ R* × [0
 
 T]: h(x
 
-## t) = g(x
+t) = g(x
 
-## t)} (40)
+t)} (40)
 
-## we can write τ° = inf{t
+we can write τ° = inf{t
 
 (X, t) ∈ 𝒞}
 
-### and safely call 𝒞 the exercise region
+and safely call 𝒞 the exercise region
 
-## and its complement
+and its complement
 
-## 𝒥 = {(x
+𝒥 = {(x
 
-## t) ∈ R* × [0
+t) ∈ R* × [0
 
 T) : h(x
 
-## t) > g(x
+t) > g(x
 
 the continuation region.
 
 In order to solve the optimal exercise problem
 
-## is enough to break R* × [0
+is enough to break R* × [0
 
 T] into these two sets.
 
-## An optimal policy is
+# An optimal policy is
 
-## then to exercise whenever (X
+then to exercise whenever (X
 
-## t) is in 𝒞
+t) is in 𝒞
 
 and otherwise to wait.
 
@@ -16560,25 +16560,25 @@ solving for the exercise region 𝒞 is a formidable problem.
 
 For a characterization of the solution in terms of the solution of a
 
-## partial differential equation
+partial differential equation
 
 suppose that h is sufficiently smooth for an
 
 application of Ito’s Formula.
 
-## Then
+# Then
 
 h(X, t) = h(X
 
-## 0) + ∫₀ᵗ 𝒟h(X
+0) + ∫₀ᵗ 𝒟h(X
 
-## s) ds + ∫₀ᵗ h
+s) ds + ∫₀ᵗ h
 
 (X, s) b(X
 
 ) dξ,
 
-## where
+where
 
 𝒟h(x, t) = h
 
@@ -16588,21 +16588,21 @@ h(X, t) = h(X
 
 , (x, t) b(x) b(x)"].
 
-## For any initial conditions (x
+For any initial conditions (x
 
-### t) and any stopping time τ > t
+t) and any stopping time τ > t
 
-## we know
+we know
 
-### from the definition of h that E_Q [h(X
+from the definition of h that E_Q [h(X
 
-## τ)] < h(x
+τ)] < h(x
 
 From this, it is natural
 
-## to conjecture that 𝒟h(x
+to conjecture that 𝒟h(x
 
-## t) ≤ 0 for all (x
+t) ≤ 0 for all (x
 
 Moreover, we can see that
 
@@ -16610,9 +16610,9 @@ Moreover, we can see that
 
 We summarize these conjectured necessary
 
-## conditions on h
+conditions on h
 
-## suppressing the arguments (x
+suppressing the arguments (x
 
 t) everywhere for brevity.
 
@@ -16620,7 +16620,7 @@ On R × [0, T),
 
 h ≥ g, 𝒟h ≤ 0, 𝒟(h − g) = 0.
 
-## (41)
+(41)
 
 The last of these three conditions means that 𝒟h = 0 wherever h > g
 
@@ -16632,23 +16632,23 @@ condition prescribing a policy of not exercising so long as the expected
 
 rate of change of the value function is not strictly negative.
 
-## We also have
+# We also have
 
-## the boundary condition
+the boundary condition
 
 h(x, T) = g(x, T), x ∈ R*.
 
-## (42)
+(42)
 
 Under strong technical assumptions that can be found in sources cited in
 
-## the Notes
+the Notes
 
 it turns out that these necessary conditions (41)-(42) are also
 
 sufficient for h to be the value function.
 
-### This characterization (41)-(42) of
+This characterization (41)-(42) of
 
 the value function lends itself to a finite-difference algorithm for numeri-
 
@@ -16656,7 +16656,7 @@ cal solution of the value function h.
 
 In order to incorporate nonzero interest rates
 
-## suppose that the short-
+suppose that the short-
 
 rate process r can be written in the form r
 
@@ -16664,21 +16664,21 @@ rate process r can be written in the form r
 
 R(·).
 
-## By similar arguments
+# By similar arguments
 
 the variational inequality (41)-(42) for the
 
 value function h can then be written exactly as before
 
-## with the exception
+with the exception
 
-## that h(x
+that h(x
 
-### t) is replaced everywhere by 𝒟h(x
+t) is replaced everywhere by 𝒟h(x
 
-## t) − R(x)h(x
+t) − R(x)h(x
 
-## 188 8. Derivative Pricing
+188 8. Derivative Pricing
 
 Figure 8.
 
@@ -16688,23 +16688,23 @@ For the special case of the American put with a constant short rate
 
 and the constant-volatility underlying process S given by (35)
 
-## a series
+a series
 
 of advances cited in the Notes has led to the following characterization
 
-## of the solution
+of the solution
 
 taking the state process X to be the underlying price
 
 process S.
 
-## Because S is nonnegative
+# Because S is nonnegative
 
-### the continuation region 𝒥 can be
+the continuation region 𝒥 can be
 
 treated as a subset of R₊ × [0, T).
 
-### It turns out that there is an increas-
+# It turns out that there is an increas-
 
 ing continuously differentiable function s
 
@@ -16722,11 +16722,11 @@ conjecture the ordinary differential equation (ODE) solved by some a
 
 and b : [0
 
-## s] → R* such that f(x
+s] → R* such that f(x
 
 t, s) = exp[a(s − t) + b(s − t) − x].
 
-## Do not forget
+# Do not forget
 
 to provide boundary conditions.
 
@@ -16734,7 +16734,7 @@ This sort of ordinary differential equation (which
 
 we shall see again below) is easy to solve numerically
 
-## provided a solution exists
+provided a solution exists
 
 (which we assume).
 
@@ -16744,13 +16744,13 @@ technical integrability conditions provided by you.
 
 Hint: If an Ito process is a
 
-## martingale
+martingale
 
 its drift process must be zero.
 
 (C) Suppose there are n ≥ 0 such zero-coupon bonds available for trade
 
-## with
+with
 
 maturity dates T₁, T₂,.
 
@@ -16758,25 +16758,25 @@ maturity dates T₁, T₂,.
 
 Provide a spanning condition under which
 
-## in prin-
+in prin-
 
 ciple, an additional security with payoff at some time T given by a bounded ℱ_T-
 
 measurable random variable Z is redundant
 
-### given the opportunity to trade the n
+given the opportunity to trade the n
 
 bonds and to borrow or lend continuously at the short rate r.
 
-## Develop notation
+# Develop notation
 
 as you need it.
 
 (D) We are now interested in pricing a zero-coupon bond option that provides
 
-## the opportunity
+the opportunity
 
-## but not the obligation
+but not the obligation
 
 to sell at time T for a given price p > 0 the
 
@@ -16786,7 +16786,7 @@ maturity).
 
 The option is in the money at expiration if and only if exp[a(s − T) −
 
-## b(s − T) − X_T] < p
+b(s − T) − X_T] < p
 
 which is the event A that b(s − T) · X_T < log p − a(s − T).
 
@@ -16794,9 +16794,9 @@ can be seen under integrability conditions that the price of the option at time 
 
 Probability measures Q₁ and Q₂ equivalent to P.
 
-## Provide the integrability
+# Provide the integrability
 
-## conditions
+conditions
 
 the Radon-Nikodym derivatives of Q₁ and Q₂ with respect to P
 
@@ -16806,31 +16806,31 @@ Explain how to obtain these coefficients c₁ and c₂
 
 from market data.
 
-## (E) For each i ∈ {1
+(E) For each i ∈ {1
 
 2}, the density process ξ_i of Q_i can be shown (under technical
 
 integrability conditions) to be of the form ξ_i(t) = exp[α_i(t) + β_i(t) · X_t]
 
-## for α_i
+for α_i
 
 and β_i solving ordinary differential equations.
 
-### Provide these ordinary differential
+# Provide these ordinary differential
 
-## equations
+equations
 
-## their boundary conditions
+their boundary conditions
 
-### and technical integrability conditions
+and technical integrability conditions
 
 needed, justifying this solution.
 
-## 196 8. Derivative Pricing
+196 8. Derivative Pricing
 
-## (F) Under Q_i
+(F) Under Q_i
 
-## for each i ∈ {1
+for each i ∈ {1
 
 2}, provide a new stochastic differential equation
 
@@ -16840,7 +16840,7 @@ under Q_i.
 
 Define B^{Q_i}.
 
-### (G) By virtue of the previous steps
+(G) By virtue of the previous steps
 
 you have shown that the bond option price can
 
@@ -16848,19 +16848,19 @@ be easily computed if one can compute any probability of the form Q_i(Y | X_T < 
 
 for any Y ∈ Rⁿ and any y.
 
-## One can compute P(Z < z)
+One can compute P(Z < z)
 
-## for a given random variable
+for a given random variable
 
-## Z and number z
+# Z and number z
 
 if one knows the characteristic function φ
 
-## R → C of Z
+R → C of Z
 
-## defined
+defined
 
-## by φ(u) = E[exp(iuZ)]
+by φ(u) = E[exp(iuZ)]
 
 where i = √−1 is the usual imaginary number.
 
@@ -16874,17 +16874,17 @@ characteristic function are identical up to a scalar multiple) of Z = u · X_T u
 
 Q₁ and Q₂.
 
-### Based on the results of Section F
+# Based on the results of Section F
 
-## we conjecture that
+we conjecture that
 
-## fixing x and u
+fixing x and u
 
-## and defining Φ(X_t
+and defining Φ(X_t
 
-## t) = E_t[exp(iu · X_t)]
+t) = E_t[exp(iu · X_t)]
 
-## we have
+we have
 
 Φ(x, t) = exp[A(t) + B(t) · x],
 
@@ -16896,13 +16896,13 @@ Taking as given the time-dependent coefficients
 
 (K(t), H(t)) for X appropriate to the probability measure at hand
 
-## your task is
+your task is
 
-### now to provide these ODEs for A and B
+now to provide these ODEs for A and B
 
-### with their boundary conditions
+with their boundary conditions
 
-## and to
+and to
 
 confirm the conjecture under integrability conditions provided by you that will
 
@@ -16910,7 +16910,7 @@ arise as you verify your solution with Ito’s Formula.
 
 Hint: Remember that Φ(X_t, t)
 
-## is a complex number
+is a complex number
 
 and apply Ito’s Formula to get the drift (both the real
 
@@ -16924,15 +16924,15 @@ Express the ODEs as tidily as possible.
 
 Note: In practice, at
 
-## this point
+this point
 
 you would compute the solutions of the differential equation for each
 
 u, separately (there are tricks that can speed this up)
 
-## and from the resulting
+and from the resulting
 
-## characteristic function
+characteristic function
 
 numerically compute the needed numbers c₁
 
@@ -16940,63 +16940,63 @@ c₂, Q₁(A)
 
 and Q₂(A).
 
-## Notes
+# Notes
 
-## General reviews of options
+# General reviews of options
 
-## futures
+futures
 
 or other derivative markets include those of
 
-### Avellaneda and Laurence (2000)
+Avellaneda and Laurence (2000)
 
-## Cox and Rubinstein (1985)
+Cox and Rubinstein (1985)
 
-## Daigler (1993)
+Daigler (1993)
 
-## Duffie (1989)
+Duffie (1989)
 
-## Hull (2000)
+Hull (2000)
 
-## Jarrow and Rudd (1983)
+Jarrow and Rudd (1983)
 
-## Jarrow and Turnbull
+# Jarrow and Turnbull
 
-## (1999)
+(1999)
 
-## Lamberton and Lapeyre (1997)
+Lamberton and Lapeyre (1997)
 
-## Musiela and Rutkowski (1997)
+Musiela and Rutkowski (1997)
 
-## Prisman
+# Prisman
 
-## (2000)
+(2000)
 
-## Rubinstein (1999)
+Rubinstein (1999)
 
-## Siegel and Siegel (1990)
+Siegel and Siegel (1990)
 
-## and Stoll and Whaley
+and Stoll and Whaley
 
 (1993).
 
-## For computational issues
+# For computational issues
 
-## see Chapter 12
+see Chapter 12
 
-## Tavella and Randall (2000)
+Tavella and Randall (2000)
 
 Wilmott, Dewynne, and Howison (1993).
 
-### Dixit and Pindyck (1993) is a thorough
+Dixit and Pindyck (1993) is a thorough
 
-## treatment
+treatment
 
-## with references
+with references
 
-### of the modeling of real options
+of the modeling of real options
 
-## which arise in the
+which arise in the
 
 theory of production planning and capital budgeting under uncertainty.
 
@@ -17004,35 +17004,35 @@ theory of production planning and capital budgeting under uncertainty.
 
 C, and D was
 
-## developed by Cox
+developed by Cox
 
-## Ingersoll
+# Ingersoll
 
 and Ross (1981b).
 
-### The derivation given here for the
+# The derivation given here for the
 
 martingale property (8) of futures prices is original
 
-### although the formula itself is
+although the formula itself is
 
-## due to Cox
+due to Cox
 
-## Ingersoll
+# Ingersoll
 
-## and Ross (1981b)
+and Ross (1981b)
 
 as is the subsequent replication strategy
 
-### For additional work in this vein
+# For additional work in this vein
 
-## see Bick (1994)
+see Bick (1994)
 
-## Dezhbakhsh (1994)
+Dezhbakhsh (1994)
 
-## Duffie and
+# Duffie and
 
-## Notes 197
+# Notes 197
 
 Stanton (1988), and Myneni (1992b).
 
@@ -17040,7 +17040,7 @@ An explicit Gaussian example is given by
 
 Jamshidian (1993b) and Jamshidian and Fein (1990).
 
-## Grinblatt and Jegadeesh
+# Grinblatt and Jegadeesh
 
 (1996) derived the futures prices for bonds in the setting of a Cox-Ingersoll-Ross
 
@@ -17048,49 +17048,49 @@ model of the term structure.
 
 Carr (1989) provides option-valuation models for
 
-### assets with stochastic dividends
+assets with stochastic dividends
 
 in terms of the stochastic model for forward prices
 
 on the underlying asset.
 
-## Bick (1997)
+Bick (1997)
 
-## Carr (1993b)
+Carr (1993b)
 
-## Carr and Chen (1993)
+Carr and Chen (1993)
 
-## and Hemler (1990) value
+and Hemler (1990) value
 
 the option to deliver various grades of the underlying asset against the futures
 
-## contract
+contract
 
 sometimes called the cheapest-to-deliver option or quality option
 
-## and the
+and the
 
 associated problem of determining the futures price.
 
-## This problem is related to
+# This problem is related to
 
-### that of valuing compound options
+that of valuing compound options
 
-### and options on the maximum or minimum
+and options on the maximum or minimum
 
-## of several assets
+of several assets
 
 which was solved (in the Black-Scholes setting) by Geske (1979)
 
-## Johnson (1987)
+Johnson (1987)
 
-## Margrabe (1978)
+Margrabe (1978)
 
-## Selby and Hodges (1987)
+Selby and Hodges (1987)
 
 and Stulz (1982).
 
-### For the related wildcard option
+# For the related wildcard option
 
 see Fleming and Whaley (1994).
 
@@ -17100,11 +17100,11 @@ to the case of futures options.
 
 See also Bick (1988).
 
-### On put-call parity and symmetry
+# On put-call parity and symmetry
 
 see Carr (1993a).
 
-## The forward and futures
+# The forward and futures
 
 prices for bonds in the Cox-Ingersoll-Ross model
 
@@ -17114,11 +17114,11 @@ addressed in Exercise 8.
 
 found in Grinblatt (1994).
 
-## A related problem
+# A related problem
 
-## examined by Carr (1989)
+examined by Carr (1989)
 
-## is the
+is the
 
 valuation of options when carrying costs are unknown.
 
@@ -17126,35 +17126,35 @@ valuation of options when carrying costs are unknown.
 
 as a measure of the market volatility implicit in options prices.
 
-## A generalized
+# A generalized
 
 version of implied volatility is discussed by Bick and Reisman (1993).
 
-## Cherian and
+# Cherian and
 
 Jarrow (1998) explore a related “rationality” issue.
 
-## Derman and Kani (1994)
+Derman and Kani (1994)
 
-## Dupire (1994a
+Dupire (1994a
 
 b), Jackwerth (1997
 
 2000),
 
-### Jackwerth and Rubinstein (1996a
+Jackwerth and Rubinstein (1996a
 
 b,c), Rubinstein (1994
 
-## 1995) and Toft and
+1995) and Toft and
 
 Brown (1996) treat implied-tree models for option pricing
 
-## calibrating to a given
+calibrating to a given
 
 family of smile curves or “risk-neutral” probability distributions.
 
-## Andersen and
+# Andersen and
 
 Brotherton-Ratcliffe (1995) take an “implied finite-difference” approach to the
 
@@ -17166,9 +17166,9 @@ Osher (1996).
 
 Breeden and Litzenberger (1978) described how one can invert for the state-
 
-## price deflator
+price deflator
 
-## in certain settings
+in certain settings
 
 from the prices of options at each exercise price.
 
@@ -17180,85 +17180,85 @@ Rosenberg and Engle (1999).
 
 Option pricing with stochastic volatility was proposed as an answer to the
 
-## “smile curve
+“smile curve
 
-## ” and analyzed
+” and analyzed
 
-## by Hull and White (1987)
+by Hull and White (1987)
 
-## Scott (1987
+Scott (1987
 
 1992), andWiggins (1987)
 
 and since has been addressed by Amin (1993b)
 
-## Amin and Ng
+# Amin and Ng
 
-## (1998)
+(1998)
 
-## Amin and Morton (1994b)
+Amin and Morton (1994b)
 
-## Ball and Roma (1994)
+Ball and Roma (1994)
 
-## Barles
+# Barles
 
-## Romano
+# Romano
 
-## Touzi (1993)
+Touzi (1993)
 
-## Duan (1995)
+Duan (1995)
 
-## Heston (1993)
+Heston (1993)
 
-## Hofmann
+# Hofmann
 
-## Platen
+# Platen
 
-## and Schweizer
+and Schweizer
 
-## see Lu and Yu (1993)
+see Lu and Yu (1993)
 
-## Madan and Chang (1996)
+Madan and Chang (1996)
 
-## Platen and Schweizer
+# Platen and Schweizer
 
-## (1994)
+(1994)
 
-## Renault
+# Renault
 
-## Pastorello
+# Pastorello
 
-## and Touzi (2000)
+and Touzi (2000)
 
-## Renault and Touzi (1992)
+Renault and Touzi (1992)
 
 Touzi (1993, 1995).
 
 Amin and Jarrow (1993) treat the problem of option valuation with stochastic
 
-## interest rates
+interest rates
 
 in a Heath-Jarrow-Morton setting.
 
-### Melino and Turnbull (1990) illus-
+Melino and Turnbull (1990) illus-
 
 trate an application to foreign-exchange option pricing.
 
-## Heynen and Kat (1993)
+Heynen and Kat (1993)
 
-## and Heynen
+and Heynen
 
 Kemna, and Vorst (1994) provide formulas for prediction of volatility
 
 in a Markovian setting.
 
-## Nelson (1990
+Nelson (1990
 
 1991, 1992) treat the convergence of ARCH
 
 GARCH, and EGARCH models to stochastic-volatility models of the style consid-
 
-## ered in Section E
+ered in Section E
 
 as well as related issues.
 
@@ -17268,13 +17268,13 @@ more natural notion of convergence leaves a limiting volatility process defined 
 
 (13) that is degenerate.
 
-## Bollerslev
+# Bollerslev
 
 Chou, and Kroner (1992) and Taylor (1994)
 
 survey applications in finance for ARCH and ARCH-related models
 
-## originated
+originated
 
 by Engle (1982).
 
@@ -17282,11 +17282,11 @@ Heston and Nandi (1997) offered an option-pricing model in a
 
 GARCH setting.
 
-## Harvey
+# Harvey
 
 Ruiz, and Shephard (1994)
 
-## Harvey and Shephard (1993)
+Harvey and Shephard (1993)
 
 and Lamoureux and Lastrapes (1993) present related econometric techniques and
 
@@ -17294,7 +17294,7 @@ results.
 
 Hobson and Rogers (1993) describe a model for endogenous stochastic
 
-## volatility
+volatility
 
 while Hobson and Rogers (1998) show how markets can be complete
 
@@ -17308,21 +17308,21 @@ volatility state variable.
 
 Proposition E can be deduced from results in Karatzas and Shreve (1988).
 
-### Based on early work by Clark (1973)
+Based on early work by Clark (1973)
 
 Geman, Madan and Yor (1999)
 
-## Ghysels
+# Ghysels
 
-## Gourieroux
+# Gourieroux
 
-## and Jasiak (1995)
+and Jasiak (1995)
 
-## Maghsoodi (1998)
+Maghsoodi (1998)
 
-## Redekop (1995)
+Redekop (1995)
 
-## and Redekop
+and Redekop
 
 and Fisher (1995) treat stochastic volatility through the effects of a random time
 
@@ -17330,15 +17330,15 @@ change, sometimes called “market time.
 
 ” Bergman, Grundy, and Wiener (1996b),
 
-## El Karoui
+# El Karoui
 
-## Jeanblanc
+# Jeanblanc
 
-## and Shreve (1998)
+and Shreve (1998)
 
-## Frey and Sin (1997)
+Frey and Sin (1997)
 
-## and Romano and
+and Romano and
 
 Touzi (1997) characterize the dependence of the option price on the underlying
 
@@ -17346,11 +17346,11 @@ price and on the coefficients of the model
 
 including volatility.
 
-## Some of these
+# Some of these
 
 results give conditions for convexity of the option price with respect to the under-
 
-## lying asset
+lying asset
 
 using the method of stochastic flows.
 
@@ -17360,35 +17360,35 @@ series setting to include observations on option prices in the data set used to
 
 estimate the parameters of the stochastic volatility process
 
-## as in Ait-Sahalia
+as in Ait-Sahalia
 
 Wang,
 
-## and Yared (1998)
+and Yared (1998)
 
-## Benzoni (1998)
+Benzoni (1998)
 
-## Chernov and Ghysels (2000)
+Chernov and Ghysels (2000)
 
-## Guo (1998)
+Guo (1998)
 
-## Pan (1999)
+Pan (1999)
 
-## Poteshman (1998)
+Poteshman (1998)
 
 and Renault and Touzi (1992).
 
-## Exploiting options
+# Exploiting options
 
 data improves the econometric efficiency of the estimation
 
-## given the one-to-one
+given the one-to-one
 
-## relationship between V
+relationship between V
 
 and a given option price at time t.
 
-## Other econometric
+# Other econometric
 
 approaches built around stochastic volatility include those of Papanicolaou
 
@@ -17396,11 +17396,11 @@ and Sircar (1999a, b,c).
 
 Figure 8.
 
-## 1 is reproduced from Duffie
+1 is reproduced from Duffie
 
 Pan, and Singleton (2000).
 
-## The options
+# The options
 
 data used to plot this figure are from the home page of Professor Yacine Ait-Sahalia
 
@@ -17410,13 +17410,13 @@ The figure represents a total of 87 options with maturities
 
 (times to exercise date) ranging from 17 days to 318 days
 
-## and strike prices ranging
+and strike prices ranging
 
 from 0.
 
-## 74 to 1.
+74 to 1.
 
-### 17 times the underlying futures price.
+17 times the underlying futures price.
 
 The transform approach of Section F was originated by Stein and Stein
 
@@ -17424,19 +17424,19 @@ The transform approach of Section F was originated by Stein and Stein
 
 The first explicit results along these lines were by Heston (1993).
 
-## Trans-
+# Trans-
 
 form results for general affine models of Duffie
 
 Pan, and Singleton (2000)
 
-## extend those of Bakshi
+extend those of Bakshi
 
 Cao, and Chen (1997)
 
-## Bakshi and Madan (1997)
+Bakshi and Madan (1997)
 
-## Bates
+# Bates
 
 (1996), Bates (1997), and Scott (1997).
 
@@ -17448,89 +17448,89 @@ Option pricing in a jump-diffusion setting was originated by Merton (1976)
 
 and more recently treated by Amin (1993a)
 
-## Andersen and Andreasen (1999)
+Andersen and Andreasen (1999)
 
-## Ball and Torous (1985)
+Ball and Torous (1985)
 
-## Bates (1997)
+Bates (1997)
 
-## Carr and Madan (1999)
+Carr and Madan (1999)
 
-## Eberlein and
+# Eberlein and
 
-## Jacod (1997)
+Jacod (1997)
 
-## Eberlein and Keller (1995)
+Eberlein and Keller (1995)
 
-## Eberlein
+# Eberlein
 
-## Keller
+# Keller
 
-## and Prause (1998)
+and Prause (1998)
 
-## Jorion (1988)
+Jorion (1988)
 
-## Kou (1999)
+Kou (1999)
 
-## Lando (1995)
+Lando (1995)
 
-## Madan and Milne (1991)
+Madan and Milne (1991)
 
 Madan,
 
 Milne, and Shefrin (1989)
 
-## Pappalardo (1996)
+Pappalardo (1996)
 
-## Scott (1997)
+Scott (1997)
 
 and Zhang (1994).
 
-## Pan (1999)
+Pan (1999)
 
-## Barndorff-Nielsen (1997)
+Barndorff-Nielsen (1997)
 
-## and Eraker
+and Eraker
 
-## Johannes
+# Johannes
 
-## and Polson (1999)
+and Polson (1999)
 
 offer econometric evidence on jump behavior.
 
-## (G-H) McKean (1965)
+(G-H) McKean (1965)
 
-## Merton (1973b)
+Merton (1973b)
 
-## Harrison and Kreps (1979)
+Harrison and Kreps (1979)
 
 Bensoussan (1984) did important early work on American option pricing.
 
-### Proposition G is from Karatzas (1988)
+Proposition G is from Karatzas (1988)
 
-### although his technical conditions are
+although his technical conditions are
 
 slightly different.
 
 Karatzas defines the fair price of an American security
 
-## which
+which
 
 turns out to be equal to the arbitrage-free price when both exist
 
-## and also extends
+and also extends
 
-### Merton’s analysis of perpetual options
+Merton’s analysis of perpetual options
 
 those with no expiration.
 
 Jaillet, Lamberton,
 
-## and Lapeyre (1988
+and Lapeyre (1988
 
 1990) review the treatment of the optimal-stopping valuation
 
-### problem as a variational inequality
+problem as a variational inequality
 
 which can be written in the form (41).
 
@@ -17538,29 +17538,29 @@ decomposition of the American option in terms of an early exercise premium was
 
 proposed in a collection of papers by Jamshidian (1989c)
 
-## Jacka (1991)
+Jacka (1991)
 
-## (1990)
+(1990)
 
-## and Carr
+and Carr
 
-## Jarrow
+# Jarrow
 
-## and Myneni (1992)
+and Myneni (1992)
 
-### working from the formulation by
+working from the formulation by
 
 McKean (1965) of the free-boundary problem
 
-### sometimes called a Stefan prob-
+sometimes called a Stefan prob-
 
 lem.
 
 Van Moerbeke (1976) was the first to demonstrate
 
-## among other results
+among other results
 
-## that
+that
 
 the optimal stopping boundary S* is continuously differentiable.
 
@@ -17578,33 +17578,33 @@ mal exercise boundary are given by Ait-Sahalia and Lai (1997a
 
 b, 1998)
 
-## Allegretto
+# Allegretto
 
-## Barles
+# Barles
 
-## Burdeau
+# Burdeau
 
-## Romano
+# Romano
 
-## and Samsoen (1995)
+and Samsoen (1995)
 
-## Barone-Adesi
+# Barone-Adesi
 
-## and Elliott (1993)
+and Elliott (1993)
 
-### Barone-Adesi and Elliott (1991)
+Barone-Adesi and Elliott (1991)
 
-## Broadie and Detemple (1996)
+Broadie and Detemple (1996)
 
-## Carr (1994)
+Carr (1994)
 
-## Carr and Faguet (1996)
+Carr and Faguet (1996)
 
-## Geske and Johnson (1984)
+Geske and Johnson (1984)
 
 Huang, Subrahmanyam
 
-## and Yu (1996)
+and Yu (1996)
 
 and Longstaff and Schwartz (1998).
 
@@ -17612,37 +17612,37 @@ See, also, the Notes of Chapter
 
 The behavior of the optimal exercise boundary near expiration is treated
 
-## by Ait-Sahalia (1995)
+by Ait-Sahalia (1995)
 
-## Barles
+# Barles
 
-## Burdeau
+# Burdeau
 
-## Romano
+# Romano
 
-## and Samsoen (1993)
+and Samsoen (1993)
 
-## Lamberton
+# Lamberton
 
-## (1998)
+(1998)
 
-## and Charretour
+and Charretour
 
-## Elliott
+# Elliott
 
-## Myneni
+# Myneni
 
 and Viswanathan (1992).
 
-## Buckdahn and
+# Buckdahn and
 
-## Hu (1995)
+Hu (1995)
 
-## Gukhal (1995a
+Gukhal (1995a
 
 b), Pham (1995)
 
-### and Zhang (1993) treat American
+and Zhang (1993) treat American
 
 options with jumps in the underlying.
 
@@ -17660,27 +17660,27 @@ Yu (1993) provides additional results on American option
 
 valuation.
 
-## Broadie and Detemple (1995
+Broadie and Detemple (1995
 
-### 1997) provide pricing for American
+1997) provide pricing for American
 
-## capped call options
+capped call options
 
 and for options on multiple assets.
 
-## Haug (1999) treats
+Haug (1999) treats
 
 lookback barrier options.
 
-## Brennan and Schwartz (1977)
+Brennan and Schwartz (1977)
 
-## McConnell and Schwartz (1986)
+McConnell and Schwartz (1986)
 
-## and Pikovsky and Shreve
+and Pikovsky and Shreve
 
 (1996) analyze the valuation of securities for which both the buyer and the seller
 
-## hold American options
+hold American options
 
 such as callable convertible debt.
 
@@ -17696,97 +17696,97 @@ distribution of the maximum of a Brownian motion path between two dates
 
 related results on the distribution of first passage times
 
-## can be found in Chuang
+can be found in Chuang
 
-## (1994)
+(1994)
 
-## Dassios (1994)
+Dassios (1994)
 
-## Harrison (1985)
+Harrison (1985)
 
 and Ricciardi and Sato (1998).
 
-## For other
+# For other
 
-### lookback option valuation results
+lookback option valuation results
 
-### see Conze and Viswanathan (1991a)
+see Conze and Viswanathan (1991a)
 
-## Davydovand Linetsky (1999a
+Davydovand Linetsky (1999a
 
 b), Duffie and Harrison (1993)
 
-## Hobson (1998)
+Hobson (1998)
 
-## Ju (1997b)
+Ju (1997b)
 
 and Shepp and Shiryaev (1993).
 
-## The Asian option
+# The Asian option
 
 based on an arithmetic average of the underlying price pro-
 
 cess, is analyzed by Décamps and Koehl (1994)
 
-## Geman and Yor (1993)
+Geman and Yor (1993)
 
-## Oliveira
+# Oliveira
 
-## (1994)
+(1994)
 
-## Rogers and Shi (1995)
+Rogers and Shi (1995)
 
 and Yor (1991).
 
-## Akahari (1993) and Yor (1993)
+Akahari (1993) and Yor (1993)
 
 treat the related problem of median-price options.
 
 Bakshi and Madan (2000), He
 
-## and Takahashi (1995)
+and Takahashi (1995)
 
 and Ju (1997a) consider average-rate options.
 
 The hedging of Asian and lookback options is analyzed by Kat (1993).
 
-### hedging under leverage constraints
+hedging under leverage constraints
 
 see Naik and Uppal (1994).
 
-## For hedging with
+# For hedging with
 
-## a “minimax” criterion
+a “minimax” criterion
 
-## see Howe and Rustem (1994a
+see Howe and Rustem (1994a
 
-## Forms of barrier options
+# Forms of barrier options
 
-### which are variously known as knock-outs
+which are variously known as knock-outs
 
-## knock-ins
+knock-ins
 
-## down-and-outs
+down-and-outs
 
-## up-and-ins
+up-and-ins
 
-## limited-risk options
+limited-risk options
 
-## and lock-in options
+and lock-in options
 
-## are covered by Carr
+are covered by Carr
 
-## (1995)
+(1995)
 
-## Carr and Ellis (1994)
+Carr and Ellis (1994)
 
-## Conze and Viswanathan (1991a)
+Conze and Viswanathan (1991a)
 
-## Haug (1999)
+Haug (1999)
 
-## Merton (1973b)
+Merton (1973b)
 
-## Sbuelz (1998)
+Sbuelz (1998)
 
 and Yu (1993).
 
@@ -17794,9 +17794,9 @@ Nahum (1998) treats options dependent on a maximum over a discrete set
 
 of times.
 
-## Andersen
+# Andersen
 
-## Andreasen
+# Andreasen
 
 and Brotherton-Ratcliffe (1998) and Delbaen and Yor
 
@@ -17804,53 +17804,53 @@ and Brotherton-Ratcliffe (1998) and Delbaen and Yor
 
 For additional methods for the analysis of path-dependent options
 
-## see Kind
+see Kind
 
-## Lipster
+# Lipster
 
-## and Runggaldier (1991)
+and Runggaldier (1991)
 
-## Zhou (1997a)
+Zhou (1997a)
 
 and Zou and Derman (1996).
 
-## Chesney
+# Chesney
 
-## Jeanblanc
+# Jeanblanc
 
-### and Yor (1997) and Schröder (1999a
+and Yor (1997) and Schröder (1999a
 
 b, c, d) use
 
 advanced transform methods to analyze path-dependent options
 
-## such as Asian
+such as Asian
 
-## barrier
+barrier
 
-## and “Parisian options
+and “Parisian options
 
 ” a form of barrier option.
 
-## Jamshidian (1997a)
+Jamshidian (1997a)
 
 provides methods for the valuation of double-barrier options.
 
-## Additional Topics
+# Additional Topics
 
 Term-structure models such as those applied in Chapter 7
 
 have been applied to commodity option valuation by Grauer and Litzenberger
 
-## (1979)
+(1979)
 
-## Jamshidian (1991b
+Jamshidian (1991b
 
-## 1993b)
+1993b)
 
-## Miltersen and Schwartz (1998)
+Miltersen and Schwartz (1998)
 
-## and in other
+and in other
 
 sources cited in Chapter 7.
 
@@ -17862,43 +17862,43 @@ Nielsen and Sad-Requejo (1992) further treat foreign-
 
 exchange option valuation.
 
-## The hedging coefficients
+# The hedging coefficients
 
-## “delta
+“delta
 
-## ” “gamma
+” “gamma
 
-## ” and so on
+” and so on
 
-## associated with deriva-
+associated with deriva-
 
 tive securities are studied by Carr (1991).
 
 On option pricing with transactions costs and constraints
 
-## see Barles
+see Barles
 
-## and Soner (1998)
+and Soner (1998)
 
-## Bergman (1985a)
+Bergman (1985a)
 
-## Frey (1996)
+Frey (1996)
 
-## Ma and Cvitanić (1996)
+Ma and Cvitanić (1996)
 
-## Subramanian (1997)
+Subramanian (1997)
 
 and references cited in the Notes of Chapter 6.
 
-## Johnson
+# Johnson
 
 and Shanno (1987) and Rich (1993) deal with the impact of default risk on the
 
-## Black-Scholes approach
+# Black-Scholes approach
 
 a topic revisited in Chapter 11.
 
-## Brennan and Schwartz
+# Brennan and Schwartz
 
 (1980b) present a model for the valuation of convertible bonds.
 
@@ -17910,61 +17910,61 @@ Gerber and Shiu (1994) describe a computational approach
 
 to option pricing based on the Esscher transform.
 
-### Heston (1997) considers option
+Heston (1997) considers option
 
 pricing with infinitely divisible distributions for the underlying.
 
-## Notes 201
+# Notes 201
 
 Andersen (1995) considers bivariate binary options.
 
-## Davydov and Linetsky
+# Davydov and Linetsky
 
 (1998) and Linetsky (1999) treat step options and double-step options.
 
-## Flesaker
+# Flesaker
 
 (1991) considers cases in which the underlying is unobservable at expiration.
 
 Frey and Stremme (1997) consider feedback effects
 
-## allowing for hedging
+allowing for hedging
 
 activity to influence the price of the option.
 
 Based on early work by Jamshidian (1989b) for bond option pricing under
 
-## the forward measure
+the forward measure
 
 Geman, El Karoui
 
-### and Rochet (1995) and Schröder (1999)
+and Rochet (1995) and Schröder (1999)
 
 treat changes of numeraire in the valuation of futures
 
-## forwards
+forwards
 
 and options.
 
-## --- Page 111 ---
+--- Page 111 ---
 
-### Portfolio and Consumption Choice
+# Portfolio and Consumption Choice
 
 THIS CHAPTER PRESENTS basic results on optimal portfolio and con-
 
-## sumption choice
+sumption choice
 
-### first using dynamic programming
+first using dynamic programming
 
-## then using general
+then using general
 
 martingale and utility-gradient methods.
 
-## We begin with a review of the
+# We begin with a review of the
 
 Hamilton-Jacobi-Bellman equation for stochastic control
 
-## and then apply
+and then apply
 
 it to Merton’s problem of optimal consumption and portfolio choice in
 
@@ -17974,7 +17974,7 @@ Then, exploiting the properties of
 
 equivalent martingale measures from Chapter 6
 
-## Merton’s problem is
+Merton’s problem is
 
 solved once again in a non-Markovian setting.
 
@@ -17982,11 +17982,11 @@ Finally, we turn to the gen-
 
 eral utility-gradient approach from Chapter 2
 
-## and show that it coincides
+and show that it coincides
 
 with the approach of equivalent martingale measures.
 
-## Stochastic Control
+# Stochastic Control
 
 Dynamic programming in continuous time is often called stochastic con-
 
@@ -17996,17 +17996,17 @@ Chapter 3.
 
 The existence of well-behaved solutions in a continuous-time
 
-## setting is a delicate matter
+setting is a delicate matter
 
-## however
+however
 
-### and we shall focus mainly on neces-
+and we shall focus mainly on neces-
 
 sary conditions.
 
 This helps us to conjecture a solution that
 
-## if correct
+if correct
 
 often be validated.
 
@@ -18016,39 +18016,39 @@ Given is a standard Brownian motion B = (B^1
 
 probability space (Ω, ℱ, P).
 
-### We fix the standard filtration F = {ℱ_t
+We fix the standard filtration F = {ℱ_t
 
-## t ≥ 0}
+t ≥ 0}
 
-### of B and begin with the time horizon [0
+of B and begin with the time horizon [0
 
 T] for some finite T > 0.
 
 primitive objects of a stochastic-control problem are
 
-## * a set A ⊂ R^m of actions
+* a set A ⊂ R^m of actions
 
 for some integer m ≥ 1.
 
-## * a set Y ⊂ R^K of states
+* a set Y ⊂ R^K of states
 
 for some integer K ≥ 1.
 
-### * a set 𝒞 of A-valued adapted processes
+* a set 𝒞 of A-valued adapted processes
 
 called controls.
 
-### * a controlled drift function g
+* a controlled drift function g
 
 A × Y → R^K.
 
-### * a controlled diffusion function h
+* a controlled diffusion function h
 
 A × Y → R^{K×d}.
 
-## * a running reward function f
+* a running reward function f
 
-## A × Y × [0
+A × Y × [0
 
 T] → R.
 
@@ -18062,33 +18062,33 @@ The state space Y is not to be confused with the underlying set Ω of
 
 in Y if there is a unique Itô process Y^c valued in Y with
 
-## dY^c_t = g(c_t
+dY^c_t = g(c_t
 
-## Y^c_t) dt + h(c_t
+Y^c_t) dt + h(c_t
 
-## Y^c_t) dB_t
+Y^c_t) dB_t
 
 quad Y^c_0 = y.
 
-## tag{1}
+tag{1}
 
-## For admissibility
+# For admissibility
 
-### technical conditions are required of c
+technical conditions are required of c
 
 g, and h.
 
 Let 𝒞_t(y) denote the set of admissible controls given initial state y.
 
-## assume that the primitives (A
+assume that the primitives (A
 
 Y, 𝒞, g
 
 h, f, F) are such that
 
-## given any
+given any
 
-## initial state y ∈ Y
+initial state y ∈ Y
 
 the utility of any admissible control c is well defined as
 
@@ -18098,19 +18098,19 @@ Y^c_s, s) ds + e^{- rho T} F(Y^c_T) right]
 
 which we allow to take the values −∞ or +∞.
 
-## The value of an initial state
+# The value of an initial state
 
-## y in Y is then
+y in Y is then
 
 V(y) = sup_{c ∈ 𝒞_t(y)} V^c(y), tag{2}
 
 with V(y) = −∞ if there is no admissible control given initial state y.
 
-## If V^{c*}(y) = V(y)
+If V^{c*}(y) = V(y)
 
 then c* is an optimal control at y.
 
-## (One may note that
+(One may note that
 
 this formulation allows for the possibility that an optimal control achieves
 
@@ -18118,77 +18118,77 @@ infinite utility.
 
 One usually proceeds by conjecturing that V(y) = J(y
 
-## 0) for some J
+0) for some J
 
-## in C^{1
+in C^{1
 
-## 2}(Y × [0
+2}(Y × [0
 
-### T)) that solves the Bellman equation
+T)) that solves the Bellman equation
 
-## sup_{a ∈ A} { BJ(y
+sup_{a ∈ A} { BJ(y
 
-## t) + f(a
+t) + f(a
 
 y,t) } = 0
 
-## quad (y
+quad (y
 
-## t) ∈ Y × [0
+t) ∈ Y × [0
 
 T), tag{3}
 
-## where
+where
 
 BJ(y,t) = J_t(y
 
-## t) + L^a J(y
+t) + L^a J(y
 
-## t) + ½ Tr[ h(a
+t) + ½ Tr[ h(a
 
-## y) h(a
+y) h(a
 
-## y)^T J_{yy}(y
+y)^T J_{yy}(y
 
 t) ],
 
-## with the boundary condition
+with the boundary condition
 
 J(y, T) = F(y), quad y ∈ Y.
 
-## tag{4}
+tag{4}
 
 An intuitive justification of (3) is obtained from an analogous
 
-## discrete-time
+discrete-time
 
-## discrete-state
+discrete-state
 
-## discrete-action setting
+discrete-action setting
 
-## in which the Bellman
+in which the Bellman
 
-### equation would be something like
+equation would be something like
 
 J(y_n, t_n) = max_{a} { f(a
 
 y_n, t_n) + E[ J(Y_{t_{n+1}}
 
-## t_{n+1}) | Y_{t_n} = y_n
+t_{n+1}) | Y_{t_n} = y_n
 
-## c_{t_n} = a ] }
+c_{t_n} = a ] }
 
-## Stochastic Control 205
+# Stochastic Control 205
 
-## where f(a
+where f(a
 
 y, t) is the running reward per unit of time.
 
-## (The reader is
+(The reader is
 
 invited to apply imagination liberally here.
 
-## A complete development and
+# A complete development and
 
 rigorous justification of this analogy goes well beyond the goal of illustrat-
 
@@ -18196,39 +18196,39 @@ ing the idea.
 
 Sources that give such a justification are cited in the Notes.
 
-### For any given control process c
+# For any given control process c
 
-### this discrete-time Bellman equation of
+this discrete-time Bellman equation of
 
-## Chapter 3 implies that
+# Chapter 3 implies that
 
-## E[ J(Y_{t+Δt}
+E[ J(Y_{t+Δt}
 
-## t+Δt) - J(Y_t
+t+Δt) - J(Y_t
 
-## t) ] + f(c_t
+t) ] + f(c_t
 
 Y_t, t) Δt ≤ 0
 
 which, for a model with intervals of length Δt
 
-## may be rewritten
+may be rewritten
 
-## E[ J(Y_{t+Δt}
+E[ J(Y_{t+Δt}
 
-## t+Δt) - J(Y_t
+t+Δt) - J(Y_t
 
-## t) ] + f(c_t
+t) ] + f(c_t
 
 Y_t, t) Δt ≤ 0.
 
 Now, returning to the continuous-time setting
 
-## dividing the last equation
+dividing the last equation
 
 by Δt, and taking limits as Δt → 0 leaves
 
-## under technical conditions
+under technical conditions
 
 described in Chapter 5,
 
@@ -18238,7 +18238,7 @@ with equality if c attains the supremum in the discrete version of the
 
 Bellman equation.
 
-## This leads
+# This leads
 
 again only by this incomplete heuristic argu-
 
@@ -18254,19 +18254,19 @@ optimal utility remaining at time t in state y.
 
 Given a solution J to (3)-(4),
 
-### suppose that a measurable function c*
+suppose that a measurable function c*
 
-## Y × [0
+Y × [0
 
-## T] → A is defined so that
+T] → A is defined so that
 
 dimensional setting of Chapter 2.
 
-### ) We would next like to see how to
+) We would next like to see how to
 
 deduce an optimal choice from this first-order condition (57).
 
-## We may
+# We may
 
 have a significant amount of structure with which to determine on this
 
@@ -18284,7 +18284,7 @@ which implies that for a market-price-of-risk process for
 
 the assets.
 
-## Second
+# Second
 
 may be one of the popular utility functions for which we
 
@@ -18296,17 +18296,17 @@ for an optimal by matching the Riesz representation of to one
 
 of the state-price deflators that we can calculate from (58).
 
-### In the case of additive utility
+# In the case of additive utility
 
-## for example
+for example
 
-## if is optimal
+if is optimal
 
-## then a state-
+then a state-
 
-## price deflator can be chosen
+price deflator can be chosen
 
-## for some scalar
+for some scalar
 
 by , so
 
@@ -18316,29 +18316,29 @@ Finally, we need to choose
 
 so that is budget-feasible.
 
-### For the case of complete markets
+# For the case of complete markets
 
-## it suffices
+it suffices
 
 by the same numeraire invariance argument made earlier
 
-## that
+that
 
-## Provided has range for all
+# Provided has range for all
 
-### the arguments used in Section F
+the arguments used in Section F
 
 can be applied for the existence of some scalar satisfying (59).
 
-## It is
+# It is
 
-## enough
+enough
 
-## for instance
+for instance
 
 that a market-price-of-risk process can be chosen
 
-## to be bounded
+to be bounded
 
 and that satisfies a uniform growth condition in its
 
@@ -18358,17 +18358,17 @@ the habit-formation and recursive-utility functions have this property.
 
 For the case of incomplete markets (for which it is not true that
 
-## almost everywhere)
+almost everywhere)
 
-### all of the above steps can be carried
+all of the above steps can be carried
 
-### out in the absence of arbitrage
+out in the absence of arbitrage
 
-### except that there need not be a trad-
+except that there need not be a trad-
 
 ing strategy that finances the candidate solution .
 
-## Papers cited in
+# Papers cited in
 
 the Notes have taken the following approach.
 
@@ -18376,37 +18376,37 @@ With incomplete markets,
 
 there is a family of different market-price-of-risk processes.
 
-## The objective
+# The objective
 
 is to choose a market-price-of-risk process with the property that
 
-## when
+when
 
 matching the Riesz representation of the utility gradient to
 
-## we can
+we can
 
-## --- Page 122 ---
+--- Page 122 ---
 
-### 224 9. Portfolio and Consumption Choice
+224 9. Portfolio and Consumption Choice
 
 choose so that can be financed.
 
-### This can be done under technical
+# This can be done under technical
 
 regularity conditions.
 
-## Exercises
+# Exercises
 
 1 For the candidate optimal portfolio control given by the right-hand
 
-## side of (22)
+side of (22)
 
 verify that (28) is indeed a martingale as asserted.
 
-### 2 Solve Merton’s problem in the following cases.
+2 Solve Merton’s problem in the following cases.
 
-## Add any regularity conditions
+# Add any regularity conditions
 
 that you feel are appropriate.
 
@@ -18416,15 +18416,15 @@ that you feel are appropriate.
 
 (C) Let and , .
 
-## Verify the solution given by
+# Verify the solution given by
 
 and , where is given by (32).
 
-## Verify the so-called
+# Verify the so-called
 
 transversality condition (31) with .
 
-### 3 Extend the example in Section D
+3 Extend the example in Section D
 
 with , to the case without a
 
@@ -18438,9 +18438,9 @@ mined by a “random shock” process solving the stochastic differential equati
 
 where ,
 
-### and are strictly positive scalars with
+and are strictly positive scalars with
 
-## and where is a stan-
+and where is a stan-
 
 dard Brownian motion.
 
@@ -18450,41 +18450,41 @@ processes satisfying almost surely for all .
 
 For each in , a
 
-### capital stock process is defined by
+capital stock process is defined by
 
 where and are strictly positive scalars with .
 
-## Consider the control prob-
+# Consider the control prob-
 
-## lem
+lem
 
 subject to for all in .
 
-## (A) Let be defined by
+(A) Let be defined by
 
-### and let be the solution of the SDE
+and let be the solution of the SDE
 
-## Exercises 225
+# Exercises 225
 
-## Finally
+# Finally
 
 let be the consumption process defined by .
 
-## Show that
+# Show that
 
 is the unique optimal-consumption control.
 
 Hint: Verify that ,
 
-## where is of the form
+where is of the form
 
 where ,
 
 and are (deterministic) real-valued functions of time.
 
-## State the
+# State the
 
-## function
+function
 
 and differential equations for and .
 
@@ -18494,9 +18494,9 @@ case.
 
 Add regularity conditions as appropriate.
 
-### 5 An agent has the objective of maximizing
+5 An agent has the objective of maximizing
 
-## where denotes
+where denotes
 
 wealth at some future time and is increasing and strictly concave.
 
@@ -18504,35 +18504,35 @@ The wealth is the sum of the market value of a fixed portfolio of assets and the
 
 terminal value of the margin account of a futures trading strategy
 
-## as elaborated
+as elaborated
 
 below.
 
 This problem is one of characterizing optimal futures hedging.
 
-## The first
+# The first
 
 component of wealth is the spot market value of a fixed portfolio of
 
 different assets whose price processes satisfy the respective stochastic
 
-## differential equations
+differential equations
 
 where, for each , and are continuous.
 
-## There
+# There
 
 are futures contracts for assets with delivery at some date
 
-## having futures-
+having futures-
 
 price processes satisfying the stochastic differential equations
 
-### where and are continuous on into and
+where and are continuous on into and
 
 respectively.
 
-## For simplic-
+# For simplic-
 
 ity, we assume that there is a constant short rate for borrowing or lending.
 
@@ -18540,9 +18540,9 @@ takes a futures position merely by committing oneself to mark a margin account
 
 to market.
 
-## Conceptually
+# Conceptually
 
-## that is
+that is
 
 if one holds a long (positive) position of
 
@@ -18550,73 +18550,73 @@ say, ten
 
 futures contracts on a particular asset and the price of the futures contract goes
 
-## up by a dollar
+up by a dollar
 
 then one receives ten dollars from the short side of the contract.
 
-## (In practice
+(In practice
 
 the contracts are largely insured against default by the opposite side
 
 and it is normal to treat the contracts as default-free for modeling purposes.
 
-## ) The
+) The
 
 margin account earns interest at the riskless rate (or
 
-## if the margin account bal-
+if the margin account bal-
 
-## ance is negative
+ance is negative
 
 one loses interest at the riskless rate).
 
-## We ignore margin calls or
+# We ignore margin calls or
 
 borrowing limits.
 
-## Formally
+# Formally
 
-## as described in Section 8C
+as described in Section 8C
 
-## the futures-price process
+the futures-price process
 
 is actually the cumulative-dividend process of a futures contract
 
-## the true price
+the true price
 
 process is zero.
 
 Given any bounded adapted process for the
 
-### agent’s futures-position process
+agent’s futures-position process
 
-## the agent’s wealth at time is
+the agent’s wealth at time is
 
-## where
+where
 
 is the Itô process for the agent’s margin account value
 
-## defined by and
+defined by and
 
 (A) Set up the agent’s dynamic hedging problem for choice of futures-position
 
 process in the framework of continuous-time stochastic control.
 
-## State the Bell-
+# State the Bell-
 
 man equation and first-order conditions.
 
-### Derive an explicit expression for the
+# Derive an explicit expression for the
 
-## --- Page 123 ---
+--- Page 123 ---
 
-### 226 9. Portfolio and Consumption Choice
+226 9. Portfolio and Consumption Choice
 
-## optimal futures position
+optimal futures position
 
 involving the (unknown) value function.
 
-## Make reg-
+# Make reg-
 
 ularity assumptions such as differentiability and nonsingularity.
 
@@ -18624,7 +18624,7 @@ Hint: Let
 
 (B) Solve for the optimal policy in the case
 
-## meaning no expected futures-
+meaning no expected futures-
 
 price changes.
 
@@ -18632,13 +18632,13 @@ Add any regularity conditions needed to prove optimality.
 
 (C) Solve the problem explicitly for the case
 
-## where is a
+where is a
 
 scalar risk-aversion coefficient.
 
 Prove optimality.
 
-## 6 In the setting of Section B
+6 In the setting of Section B
 
 consider the special case of the utility function
 
@@ -18648,37 +18648,37 @@ Hint: The mixture of
 
 logarithm and power function in the utility makes this a situation in which themartingale approach has an advantage over the Bellman approach
 
-## from which it
+from which it
 
 might be difficult to conjecture a value function.
 
-## Once the optimal-consumption
+# Once the optimal-consumption
 
-## policy is found
+policy is found
 
 do not forget to calculate the optimal portfolio trading strategy.
 
-## 7 (Utility-Gradient Example).
+7 (Utility-Gradient Example).
 
 Suppose B is a standard Brownian motion and
 
 there are two securities with price processes S and B given by
 
-### dS_t = μ_t S_t dt + σ_t S_t dB_t
+dS_t = μ_t S_t dt + σ_t S_t dB_t
 
-## S_t > 0
+S_t > 0
 
 dB_t = r_t B_t dt, B_t > 0,
 
-## where μ
+where μ
 
 σ, and r are bounded adapted processes with μ_t > r_t for all t.
 
-## We take
+# We take
 
-## the infinite-horizon case
+the infinite-horizon case
 
-### with utility function U defined by
+with utility function U defined by
 
 U(c) = E[∫_0^∞ e^{-ρt} u(c_t) dt],
 
@@ -18688,57 +18688,57 @@ Taking the utility-gradient approach of Section H
 
 c* is, in principle
 
-### an optimal choice if and only if
+an optimal choice if and only if
 
 ∫_0^∞ m_t c_t dt = u,
 
-### where VU(c) has Riesz representation η
+where VU(c) has Riesz representation η
 
 and S^η and B^η are martingales.
 
-## Assum-
+# Assum-
 
 ing that the solution c* is an Ito process with
 
 dc_t = c^*_μ dt + c^*_σ dB_t,
 
-## we can write
+we can write
 
 dη_t = η_b(t) dt + η_σ(t) dB_t,
 
 for processes η_b and η_σ that can be solved explicitly in terms of c^* and σ^* from
 
-## indeed martingales
+indeed martingales
 
 solve for η_b and η_σ explicitly.
 
-## Exercises 227
+# Exercises 227
 
-## 8 Verify that
+8 Verify that
 
-## as defined by (35) and (36)
+as defined by (35) and (36)
 
-### Q is indeed an equivalent martingale
+# Q is indeed an equivalent martingale
 
-## measure
+measure
 
 including the property that var(Q) < ∞.
 
-### 9 (Constrained Investment Behavior).
+9 (Constrained Investment Behavior).
 
-### Security markets are characterized by
+# Security markets are characterized by
 
-## price processes S = (S_0
+price processes S = (S_0
 
 …, S_d) and B
 
-## with
+with
 
 dB_t = r_t B_t dt, B_t > 0,
 
-### for a bounded adapted process r
+for a bounded adapted process r
 
-## and with
+and with
 
 dS_t = S_t μ_t dt + S_t σ_t dB_t,
 
@@ -18746,43 +18746,43 @@ where, for each i
 
 μ_i and σ_i are bounded adapted processes in R and R^d
 
-## respec-
+respec-
 
 tively.
 
 We also assume that I_t = (σ_t σ_t')^{-1} is well defined and bounded.
 
-## With a
+# With a
 
 trading strategy specified in terms of a bounded adapted process θ valued in
 
-## R^d with ∫_0^T |θ_t|^2 dt < ∞
+R^d with ∫_0^T |θ_t|^2 dt < ∞
 
 and with a nonnegative consumption process c
 
-## wealth process W^{θ
+wealth process W^{θ
 
-### c} of an investor is defined by
+c} of an investor is defined by
 
-## where μ_t = (μ_1
+where μ_t = (μ_1
 
 …, μ_d)' and where w > 0 is a given constant.
 
-## The investment-
+# The investment-
 
-## consumption strategy (θ
+consumption strategy (θ
 
-## c) is admissible if W_t^{θ
+c) is admissible if W_t^{θ
 
 c} > 0 for all t.
 
-## Consider an
+# Consider an
 
-### investor with the utility criterion
+investor with the utility criterion
 
 U(c) = E[∫_0^T e^{-ρt} u(c_t) dt],
 
-## where ρ > 0 is a constant
+where ρ > 0 is a constant
 
 and c is chosen from the set of nonnegative adapted
 
@@ -18790,7 +18790,7 @@ processes such that U(c) is well defined.
 
 (A) (Unconstrained Case).
 
-## Let G*(r
+Let G*(r
 
 w, a) denote the set of solutions to the
 
@@ -18808,7 +18808,7 @@ Calculate G*(r, w, a).
 
 leverage of the investment strategy.
 
-## The investor’s problem is now
+The investor’s problem is now
 
 sup U(c).
 
@@ -18820,31 +18820,31 @@ Hint: Reduce the problem to that of the
 
 unconstrained case by an adjustment of the interest rate r
 
-## to reflect the shadow
+to reflect the shadow
 
-### Price of the leverage constraint
+# Price of the leverage constraint
 
 so that the problem may be effectively solved
 
 unconstrained.
 
-## --- Page 124 ---
+--- Page 124 ---
 
-### 228 9. Portfolio and Consumption Choice
+228 9. Portfolio and Consumption Choice
 
 (C) (Leverage and Short-Sales Constraints).
 
-### where ε is as above and b = (b_1
+where ε is as above and b = (b_1
 
 …, b_d)
 
-### where b_i is for each i a nonnegative
+where b_i is for each i a nonnegative
 
-### bounded adapted process that places
+bounded adapted process that places
 
-### in addition to a leverage constraint
+in addition to a leverage constraint
 
-## a bound
+a bound
 
 on short sales as a fraction of portfolio value.
 
@@ -18856,17 +18856,17 @@ sup U(c).
 
 Hint: Again
 
-### reduce to the unconstrained case
+reduce to the unconstrained case
 
-### this time by suitable adjustment of
+this time by suitable adjustment of
 
-### all of the return coefficients (r
+all of the return coefficients (r
 
 μ, σ) to reflect the shadow prices of the constraints.
 
-### 10 (Investment and Price Behavior with Jumps).
+10 (Investment and Price Behavior with Jumps).
 
-### The objective of this exercise
+# The objective of this exercise
 
 is to extend the basic results for consumption-investment models and asset pric-
 
@@ -18874,19 +18874,19 @@ ing to an economy in which the volatilities and expected rates of return of the
 
 available securities may change suddenly
 
-### and depend on a “regime” state process
+and depend on a “regime” state process
 
-### defined by a two-state Markov chain Z
+defined by a two-state Markov chain Z
 
 as defined in Appendix F.
 
-## When a regime
+# When a regime
 
-## switch occurs
+switch occurs
 
-## the price may jump as well
+the price may jump as well
 
-### for example to reflect the sudden
+for example to reflect the sudden
 
 change in the distribution of returns on equilibrium asset values.
 
@@ -18894,17 +18894,17 @@ We fix a probability space on which is defined a standard Brownian motion B
 
 in R^d and the two-state continuous-time Markov chain Z
 
-## as defined in Appendix F
+as defined in Appendix F
 
-## with states 0 and 1
+with states 0 and 1
 
 and transition intensities λ(0) and λ(1).
 
-## We let M denote the
+# We let M denote the
 
 compensated version of Z.
 
-## Suppose X = (X^0
+Suppose X = (X^0
 
 X^1, …
 
@@ -18916,7 +18916,7 @@ For each i > 0, we assume that
 
 dX^i = μ_i(Z_t) X^i dt + X^i σ_i(Z_t) dB_t + X^i β_i(Z_t) dM_t
 
-## X^i_0 > 0
+X^i_0 > 0
 
 where, for each j ∈ {0, 1},
 
@@ -18926,71 +18926,71 @@ where, for each j ∈ {0, 1},
 
 β_i(j) is a constant strictly less than 1 in absolute value.
 
-## This implies
+# This implies
 
-## in particular
+in particular
 
-## that within a “regime
+that within a “regime
 
-## ” each process X^i behaves as
+” each process X^i behaves as
 
 a geometric Brownian motion of the sort used in the Black-Scholes model of
 
 option pricing.
 
-## When the regime changes
+# When the regime changes
 
-### the price process jumps and its drift
+the price process jumps and its drift
 
 and diffusion parameters change.
 
 When the regime changes from 0 to 1, for
 
-## example
+example
 
 the price of risky security i jumps by a multiplicative factor of i(0).
 
-### When the regime changes from 1 to zero
+# When the regime changes from 1 to zero
 
 the price of risky security i jumps by a
 
 multiplicative factor of η_i(1).
 
-### Given a short-rate process {R(Z_t)
+Given a short-rate process {R(Z_t)
 
-## t > 0}
+t > 0}
 
-### for given constants R(0) and R(1)
+for given constants R(0) and R(1)
 
 the market value of an investment rolled over at the short rate defines a value
 
-## process X^0 by
+process X^0 by
 
 dX^0 = R(Z_t) X^0 dt; X^0_0 > 0.
 
-## Exercises 229
+# Exercises 229
 
 The filtration of tribes generated by (B
 
 Z), and augmented with null sets
 
-## as above
+as above
 
 defines the information available to investors.
 
-## A trading strategy is a
+# A trading strategy is a
 
 predictable R^{N+1}-valued process θ such that the stochastic integral ∫ θ dX exists
 
 (Note the informational restriction to predictable trading strategies
 
-## as defined in
+as defined in
 
 Appendix F.
 
 With merely the requirement of adapted trading strategies
 
-## a position
+a position
 
 could be taken at a jump time τ based on information associated with the outcome
 
@@ -19002,9 +19002,9 @@ of the jump.
 
 (A) (Complete Markets and Equivalent Martingale Measure).
 
-## Find conditions
+# Find conditions
 
-## on the primitive functions (μ
+on the primitive functions (μ
 
 σ, r, λ
 
@@ -19018,21 +19018,21 @@ price process X/X^0.
 
 ) Show, under these
 
-## conditions
+conditions
 
 for any bounded F_T-measurable random variable Y
 
-## there is a self-
+there is a self-
 
 financing trading strategy θ with bounded market value θ_T · X_T
 
-## with θ_T · X_T = Y
+with θ_T · X_T = Y
 
 θ_0 · X_0 = E^Q[Y exp(∫_0^T r_s ds) I_{τ > T} Z_1(τ) f(τ)]?
 
 Also, given the existence of an equivalent martingale measure
 
-## show that any self-
+show that any self-
 
 financing trading strategy θ satisfying θ_t · X_t > 0 for all t cannot be an arbitrage.
 
@@ -19040,27 +19040,27 @@ Hint: For a given equivalent probability measure Q
 
 ξ_t = dQ/dP|_{F_t}, t < T.
 
-## Because ξ is a martingale
+Because ξ is a martingale
 
 it has a martingale representation in the form
 
-### dξ_t = ξ_t φ(t) dB_t + ξ_t ψ(t) dM_t
+dξ_t = ξ_t φ(t) dB_t + ξ_t ψ(t) dM_t
 
 (c, 0) is admissible if
 
-### and if is a trading strategy satisfying
+and if is a trading strategy satisfying
 
 where is a given constant and are nonnegative.
 
-## We now have the problem
+# We now have the problem
 
 for each initial wealth and each initial regime
 
-## Using the martingale approach
+# Using the martingale approach
 
 compute the optimal-consumption process up to a missing scalar Lagrange multiplier.
 
-## Justify your answer
+# Justify your answer
 
 making technical assumptions as needed.
 
@@ -19080,11 +19080,11 @@ meaning that a regime shift causes no jump in asset prices
 
 but may cause a change in expected rates of returns
 
-## volatilities
+volatilities
 
 and correlations.
 
-## State the solution to (60)
+State the solution to (60)
 
 proving its optimality by reducing the supremum value function defined by (60) to two unknown coefficients
 
@@ -19098,7 +19098,7 @@ Assume existence of a solution to this system of equations for and .
 
 Compute the candidate optimal-consumption and portfolio fraction policies as explicitly as possible.
 
-### Verify your candidate solution
+# Verify your candidate solution
 
 under additional explicit regularity conditions on the primitive parameters as well as and .
 
@@ -19112,7 +19112,7 @@ Let (one-dimensional Brownian motion).
 
 Robinson must consume at each time from a physical stock of consumption commodity
 
-### satisfying the production equation
+satisfying the production equation
 
 where and are real-valued functions on and is a nonnegative adapted consumption process to be chosen by Robinson.
 
@@ -19122,7 +19122,7 @@ Robinson’s utility for consumption is defined by
 
 for a given .
 
-## Robinson’s problem is
+Robinson’s problem is
 
 where is the space containing any consumption process such that the stock of commodity solving (61) remains nonnegative for all .
 
@@ -19140,57 +19140,57 @@ Begin your calculation of the unknown coefficients of the solution by conditioni
 
 We now consider the special case of a single risky asset for which
 
-## with each change in regime
+with each change in regime
 
 there is no jump in the risky asset price (that is
 
 ), no change in the interest rate (that is
 
-## for some constant )
+for some constant )
 
-### and no jumps in the volatility (that is
+and no jumps in the volatility (that is
 
 for some constant ).
 
-## With a change in regime
+# With a change in regime
 
-## however
+however
 
 there is a change in the mean-rate-of-return coefficient.
 
 That is, .
 
-## For simplicity
+# For simplicity
 
-## we will assume that
+we will assume that
 
-## for some constant
+for some constant
 
 so that the arrival intensity of a change in regime is the same in both regimes.
 
-## Suppose
+# Suppose
 
-## however
+however
 
 that the investor is not able to observe the regime state process
 
 but can only observe the risky asset’s price process .
 
-## This means that
+# This means that
 
-## for the investor
+for the investor
 
 the relevant filtration of tribes describing the available information is .
 
 Now solve the optimal portfolio investment strategy for an investor with the utility criterion
 
-## where is a constant
+where is a constant
 
 and is chosen from the set of nonnegative adapted processes such that is well defined.
 
 Hint: It may assist you to work with a stochastic differential model for asset price behavior given the limited information available.
 
-## For this
+# For this
 
 let denote the conditional probability at time that
 
@@ -19198,15 +19198,15 @@ given the observed asset prices to that time.
 
 By adding and subtracting the same thing from the stochastic differential expression for
 
-## we have
+we have
 
-## where
+where
 
 and where, for any ,
 
 defines the conditional expectation of the mean rate of return on the risky asset given probability that the unknown regime is 1.
 
-## It can be shown
+# It can be shown
 
 for the probability space and the limited filtration available to the investor
 
@@ -19222,7 +19222,7 @@ We have therefore effectively reduced the original investment problem to one of 
 
 with a stochastic mean rate of return determined by a separate Markov process satisfying its own stochastic differential equation.
 
-## Notes
+# Notes
 
 A comprehensive treatment of the topic is provided by Karatzas and Shreve (1998).
 
@@ -19230,13 +19230,13 @@ Other surveys include those of Quenez (1992) and Karatzas (1989).
 
 Standard treatments of stochastic control in this setting are given by
 
-## Bensoussan and Rishel (1975)
+Bensoussan and Rishel (1975)
 
-## Krylov (1980)
+Krylov (1980)
 
-## Bensoussan (1983)
+Bensoussan (1983)
 
-## Lions (1981
+Lions (1981
 
 1983),
 
@@ -19246,9 +19246,9 @@ The book of Fleming and Soner (1993) treats
 
 viscosity solutions of the Hamilton–Jacobi–Bellman (HJB) equation.
 
-## Among other
+# Among other
 
-## advantages of this approach
+advantages of this approach
 
 it allows one to characterize the continuous-time
 
@@ -19258,51 +19258,51 @@ the sort considered in Chapter 3.
 
 Other work using viscosity methods includes
 
-## that of Benth
+that of Benth
 
-## Karlsen
+# Karlsen
 
 and Reikvam (1999).
 
-## (B–D) Merton (1969
+(B–D) Merton (1969
 
 1971), in perhaps the first successful application of stochas-
 
 tic control methods in an economics application
 
-### formulated and solved the prob-
+formulated and solved the prob-
 
 lem described in Section B.
 
 (Another early example is Mirrlees [1974].
 
-## ) Exten-
+) Exten-
 
 sions and improvements of Merton’s result have been developed by Aase (1988)
 
-### Fleming and Zariphopoulou (1991)
+Fleming and Zariphopoulou (1991)
 
-## Karatzas
+# Karatzas
 
-## Lehoczky
+# Lehoczky
 
 Sethi, and Shreve (1991)
 
-## Lehoczky
+# Lehoczky
 
 Sethi, and Shreve (1983
 
 1985), Sethi and Taksar (1988)
 
-## Fleming (1991)
+Fleming (1991)
 
-## Richard (1975)
+Richard (1975)
 
-## Jacka (1984)
+Jacka (1984)
 
-## Ocone and Karatzas (1991)
+Ocone and Karatzas (1991)
 
-### (who apply the Malliavin calculus)
+(who apply the Malliavin calculus)
 
 and Merton (1990).
 
@@ -19310,39 +19310,39 @@ and Merton (1990).
 
 has been developed in a series of papers.
 
-### Principal among these are Cox and
+# Principal among these are Cox and
 
-## Huang (1989) and
+Huang (1989) and
 
-## subsequently
+subsequently
 
-## Karatzas
+# Karatzas
 
-## Lehoczky
+# Lehoczky
 
 and Shreve (1991).
 
-### This literature includes Cox (1983)
+This literature includes Cox (1983)
 
-## Pliska (1986)
+Pliska (1986)
 
-## Cox and Huang (1989)
+Cox and Huang (1989)
 
-## Back (1986)
+Back (1986)
 
-## Back and Pliska (1987)
+Back and Pliska (1987)
 
-## Huang and Pagés (1992)
+Huang and Pagés (1992)
 
-## Tao (1989)
+Tao (1989)
 
-## Slud (1991)
+Slud (1991)
 
-## Pagés (1987)
+Pagés (1987)
 
-## Jeanblanc and Pontier (1990)
+Jeanblanc and Pontier (1990)
 
-## Richardson (1989)
+Richardson (1989)
 
 and Xu and Shreve (1992a, b).
 
@@ -19350,17 +19350,17 @@ For applications of duality techniques and
 
 other methods to multiperiod investment with constraints in incomplete
 
-## complete markets
+complete markets
 
-## see Broadie
+see Broadie
 
-## Cvitanić
+Cvitanić
 
-## and Soner (1998)
+and Soner (1998)
 
 Cuoco (1997).
 
-## Cvitanić
+Cvitanić
 
 (1995, 1997
 
@@ -19370,69 +19370,69 @@ Cuoco (1997).
 
 1996a, b)
 
-## Karatzas
+# Karatzas
 
-## and Soner (1998)
+and Soner (1998)
 
-## Derviz (1996)
+Derviz (1996)
 
-## He and Pages (1993)
+He and Pages (1993)
 
-## He and Pearson
+# He and Pearson
 
-## (1991a
+(1991a
 
 b), Karatzas
 
-## Lehoczky
+# Lehoczky
 
-## Shreve
+# Shreve
 
-## and Xu (1991)
+and Xu (1991)
 
-## El Karoui and Quenez
+# El Karoui and Quenez
 
 (1991), Ruegg (1996), and Tepla (1996).
 
 For additional results with incomplete markets
 
-## see Adler and Detemple
+see Adler and Detemple
 
-## (1988)
+(1988)
 
-## Cuoco (1994)
+Cuoco (1994)
 
-## Cvitanić and Karatzas (1992
+Cvitanić and Karatzas (1992
 
 1995), Cvitanić
 
-## Schacher-
+# Schacher-
 
 mayer, and Wang (1999)
 
-## Duffie
+# Duffie
 
-## Fleming
+# Fleming
 
 Soner, and Zariphopoulou (1997)
 
-### Duffie and Zariphopoulou (1993)
+Duffie and Zariphopoulou (1993)
 
-## Dybvig (1989)
+Dybvig (1989)
 
-## El Karoui and Jeanblanc
+# El Karoui and Jeanblanc
 
-## (1998)
+(1998)
 
-## He and Pagés (1993)
+He and Pagés (1993)
 
-## Koo (1998
+Koo (1998
 
 1999), Munk (2000b)
 
-## Pagés (1987)
+Pagés (1987)
 
-## Scheinkman and Weiss (1986)
+Scheinkman and Weiss (1986)
 
 and Svensson and Werner (1993).
 
@@ -19440,31 +19440,31 @@ For the case of shortsales constraints and other forms of portfolio restric-
 
 tions, see Back and Pliska (1986)
 
-## Brennan
+# Brennan
 
-## Schwartz
+# Schwartz
 
-## and Lagnado (1997)
+and Lagnado (1997)
 
-## Cuoco (1994)
+Cuoco (1994)
 
-## Cvitanić and Karatzas (1992
+Cvitanić and Karatzas (1992
 
 1995), Dybvig (1995)
 
-## Fleming and
+# Fleming and
 
-## Zariphopoulou (1991)
+Zariphopoulou (1991)
 
-## He and Pagès (1993)
+He and Pagès (1993)
 
-## Hindy (1995)
+Hindy (1995)
 
-## Shirakawa (1994)
+Shirakawa (1994)
 
-## Vila and Zariphopoulou (1997)
+Vila and Zariphopoulou (1997)
 
-## Xu and Shreve (1992a
+Xu and Shreve (1992a
 
 b), and Zariphopoulou
 
@@ -19472,13 +19472,13 @@ b), and Zariphopoulou
 
 (H) The utility-gradient approach to optimal investment of Section H is based on
 
-### work by Harrison and Kreps (1979)
+work by Harrison and Kreps (1979)
 
-## Kreps (1981)
+Kreps (1981)
 
-## Huang (1985c)
+Huang (1985c)
 
-## Foldes (1978a
+Foldes (1978a
 
 b, 1990
 
@@ -19486,9 +19486,9 @@ b, 1990
 
 1992, 1996)
 
-## Back (1991)
+Back (1991)
 
-## and Duffie and Skiadas (1994)
+and Duffie and Skiadas (1994)
 
 is extended in these sources to an abstract setting with more general information
 
@@ -19498,43 +19498,43 @@ Appendix G provides some additional information on the
 
 existence and calculation of utility gradients.
 
-## Additional Topics
+# Additional Topics
 
 For problems with mean-variance criteria in a continuous-
 
-## time setting
+time setting
 
-### see Ansel and Stricker (1994a)
+see Ansel and Stricker (1994a)
 
-### Bajeux-Besnainou and Portait (1993)
+Bajeux-Besnainou and Portait (1993)
 
-## Bossaerts and Hillion (1997)
+Bossaerts and Hillion (1997)
 
-## Bouleau and Lamberton (1989)
+Bouleau and Lamberton (1989)
 
-## Duffie and Jackson
+# Duffie and Jackson
 
-## (1990)
+(1990)
 
-## Duffie and Richardson (1991)
+Duffie and Richardson (1991)
 
-## Föllmer and Schweizer (1990)
+Föllmer and Schweizer (1990)
 
-## Föllmer and
+Föllmer and
 
-## Sondermann (1986)
+Sondermann (1986)
 
-## Gourieroux
+# Gourieroux
 
-## Laurent
+# Laurent
 
-## and Pham (1998)
+and Pham (1998)
 
-## Lakner (1994a)
+Lakner (1994a)
 
-## Lioui (1995)
+Lioui (1995)
 
-## Schweizer (1994a
+Schweizer (1994a
 
 b, c, d)
 
@@ -19542,41 +19542,41 @@ and Sekine (1998).
 
 For optimality under various habit-formation utilities
 
-## see Chapman (1997)
+see Chapman (1997)
 
-## Constantinides (1990)
+Constantinides (1990)
 
-## Detemple and Zapatero (1992)
+Detemple and Zapatero (1992)
 
-## Ingersoll (1992)
+Ingersoll (1992)
 
-## Ryder
+# Ryder
 
-## and Heal (1973)
+and Heal (1973)
 
-## Schroder and Skiadas (1999)
+Schroder and Skiadas (1999)
 
 and Sundaresan (1989).
 
 A model involving local substitution for consumption was developed by Hindy
 
-## and Huang (1992
+and Huang (1992
 
-## 1993a)
+1993a)
 
-## and Hindy
+and Hindy
 
 Huang, and Kreps (1992).
 
-## See also Bank
+# See also Bank
 
-## and Riedel (1999) and Hindy
+and Riedel (1999) and Hindy
 
 Huang, and Zhu (1997).
 
 Ekern (1993) is an example of a model of irreversible investment.
 
-## Dixit and
+# Dixit and
 
 Pindyck (1993) review many other models of optimal production under uncer-
 
@@ -19586,237 +19586,237 @@ See, also, Chapter 11 and its Notes.
 
 For a development of recursive utility in continuous-time settings
 
-## called
+called
 
-### Stochastic differential utility
+# Stochastic differential utility
 
 see Duffie and Epstein (1992b) (with Skiadas)
 
 and for related work including portfolio and consumption choice
 
-## see Ahn
+see Ahn
 
-## (1993)
+(1993)
 
-## Bergman (1985b)
+Bergman (1985b)
 
-## Duffie and Epstein (1992a)
+Duffie and Epstein (1992a)
 
-## Duffie and Lions (1990)
+Duffie and Lions (1990)
 
-## Duffie and Skiadas (1994)
+Duffie and Skiadas (1994)
 
-## Duffie
+# Duffie
 
-## Schroder
+# Schroder
 
-## and Skiadas (1997)
+and Skiadas (1997)
 
-## El Karoui
+# El Karoui
 
 Peng, and Quenez (1997)
 
-## Fisher and Gilles (1998b)
+Fisher and Gilles (1998b)
 
-## Lazrak and Quenez
+# Lazrak and Quenez
 
-## (1999)
+(1999)
 
-## Ma (1991
+Ma (1991
 
 1993a, b)
 
-## Schroder and Skiadas (1999)
+Schroder and Skiadas (1999)
 
-## Svensson (1989)
+Svensson (1989)
 
 and Uzawa (1968).
 
 For the related problem of backward stochastic differen-
 
-## tial equations (BSDE)
+tial equations (BSDE)
 
 see Pardoux and Peng (1990) and Peng (1993b) for
 
-## their seminal work
+their seminal work
 
-### and for subsequent developments
+and for subsequent developments
 
-## see Alvarez and Tourin
+see Alvarez and Tourin
 
-## (1996)
+(1996)
 
-## Bally (1995)
+Bally (1995)
 
-## Barles
+# Barles
 
-## Buckdahn
+# Buckdahn
 
-## and Pardoux (1997)
+and Pardoux (1997)
 
-## Barles and Lesigne
+# Barles and Lesigne
 
-## (1997)
+(1997)
 
-## Buckdahn (1995a
+Buckdahn (1995a
 
 b), Cvitanić
 
-## Karatzas
+# Karatzas
 
-## and Soner (1998)
+and Soner (1998)
 
-## Darling
+# Darling
 
-## (1995)
+(1995)
 
-## El Karoui (1997)
+El Karoui (1997)
 
-## El Karoui and Huang (1997)
+El Karoui and Huang (1997)
 
-## El Karoui
+# El Karoui
 
-## Kapoudjian
+# Kapoudjian
 
-## --- Page 127 ---
+--- Page 127 ---
 
-### 234 9. Portfolio and Consumption Choice
+234 9. Portfolio and Consumption Choice
 
-## Pardoux
-
-Peng, and Quenez (1997)
-
-## El Karoui
+# Pardoux
 
 Peng, and Quenez (1997)
 
-## Gegout-
+# El Karoui
 
-## Petit and Pardoux (1996)
+Peng, and Quenez (1997)
 
-## Pardoux and Peng (1994)
+# Gegout-
 
-## Pardoux (1997)
+Petit and Pardoux (1996)
 
-## Peng
+Pardoux and Peng (1994)
 
-## (1993a)
+Pardoux (1997)
 
-## Pontier (1997)
+# Peng
+
+(1993a)
+
+Pontier (1997)
 
 and Quenez (1997).
 
-### For developments and applications
+# For developments and applications
 
 of forward-backward stochastic differential equations (FBSDE)
 
-## see Antonelli
+see Antonelli
 
-## (1993)
+(1993)
 
-## Cvitanić and Ma (1996)
+Cvitanić and Ma (1996)
 
-## Duffie
+# Duffie
 
-## Geoffard
+# Geoffard
 
-## and Skiadas (1994)
+and Skiadas (1994)
 
-## Protter
+# Protter
 
-## and Yong (1994)
+and Yong (1994)
 
-## and Ma and Yong (1995
+and Ma and Yong (1995
 
 1999).
 
 For an elegant extension of Merton’s problem that allows for propor-
 
-## tional transactions costs
+tional transactions costs
 
 see Davis and Norman (1990).
 
-## Other work on optimal
+# Other work on optimal
 
 investment problems in the case of transactions costs includes that of Akian
 
-## Menaldi
+# Menaldi
 
-## and Sulem (1996)
+and Sulem (1996)
 
 Akian, Sulem
 
-## and Taksar (1999)
+and Taksar (1999)
 
-## Alvarez (1991)
+Alvarez (1991)
 
-## Arntzen (1994)
+Arntzen (1994)
 
-## Avellaneda and Paras (1994b)
+Avellaneda and Paras (1994b)
 
-## Balduzzi and Lynch (1997
+Balduzzi and Lynch (1997
 
 1999),
 
-## Cadenillas and Pliska (1999)
+Cadenillas and Pliska (1999)
 
-## Chang (1993)
+Chang (1993)
 
-## Clewlow and Hodges (1996)
+Clewlow and Hodges (1996)
 
-## Constantinides (1986)
+Constantinides (1986)
 
-## Cuoco and Liu (2000)
+Cuoco and Liu (2000)
 
-## Davis and Panas (1991)
+Davis and Panas (1991)
 
-## Duffie and
+# Duffie and
 
-## Sun (1990)
+Sun (1990)
 
-## Dumas and Luciano (1989)
+Dumas and Luciano (1989)
 
-## Edirisinghe
+# Edirisinghe
 
 Naik, and Uppal (1993)
 
-## Fleming
+# Fleming
 
-## Grossman
+# Grossman
 
 Vila, and Zariphopoulou (1989)
 
-## Huang (1999)
+Huang (1999)
 
-## Jouini and
+# Jouini and
 
-## Kallal (1993a
+Kallal (1993a
 
 b), Lynch and Balduzzi (1998)
 
-## Pliska and Selby (1994)
+Pliska and Selby (1994)
 
-## Schroder
+# Schroder
 
-## (1993)
+(1993)
 
-## Shreve and Soner (1994)
+Shreve and Soner (1994)
 
-## Shreve
+# Shreve
 
 Soner, and Xu (1991)
 
-## Taksar
+# Taksar
 
 Klass, and
 
-## Assaf (1988)
+Assaf (1988)
 
-## Vayanos and Vila (1999)
+Vayanos and Vila (1999)
 
-## Weerasinghe (1998)
+Weerasinghe (1998)
 
-## and Zariphopoulou
+and Zariphopoulou
 
 (1992).
 
@@ -19824,87 +19824,87 @@ See also the references cited in the Notes of Chapter 6.
 
 On the existence of additive or other particular forms of utility consistent
 
-## with given asset prices
+with given asset prices
 
-### sometimes called “integrability
+sometimes called “integrability
 
-## ” or an “inverse problem
+” or an “inverse problem
 
-## see Bick (1986)
+see Bick (1986)
 
-## Cuoco and Zapatero (2000)
+Cuoco and Zapatero (2000)
 
-## He and Huang (1994)
+He and Huang (1994)
 
-## He and
+# He and
 
-## Leland (1993)
+Leland (1993)
 
-## Hodges and Carverhill (1992)
+Hodges and Carverhill (1992)
 
 and Wang (1993b).
 
-## On turnpike
+# On turnpike
 
-## problems
+problems
 
-## see Cox and Huang (1991
+see Cox and Huang (1991
 
 1992), Dybvig
 
-## Rogers
+# Rogers
 
-## and Back (1999)
+and Back (1999)
 
 and Huang and Zariphopoulou (1999).
 
-### For problems in settings with incom-
+# For problems in settings with incom-
 
-## plete information
+plete information
 
 usually requiring filtering of the state
 
-## see Detemple (1986
+see Detemple (1986
 
 1991), Detemple and Murthy (1994a)
 
-## Dothan and Feldman (1986)
+Dothan and Feldman (1986)
 
-## Gennotte
+# Gennotte
 
-## (1986)
+(1986)
 
-## Duffie
+# Duffie
 
-## Schroder
+# Schroder
 
-## and Skiadas (1997)
+and Skiadas (1997)
 
-## Föllmer and Schweizer (1990)
+Föllmer and Schweizer (1990)
 
-## Honda (1997c)
+Honda (1997c)
 
-## Karatzas (1991)
+Karatzas (1991)
 
-## Karatzas and Xue (1990)
+Karatzas and Xue (1990)
 
-## Kuwana (1994
+Kuwana (1994
 
 1995), Lakner (1994b
 
 1995), Ocone and Karatzas (1991)
 
-## Pikovsky and Karatzas
+# Pikovsky and Karatzas
 
 (1996), and Schweizer (1994d).
 
 Exercise 9.
 
-### 10 is based on Honda (1997b, c).
+10 is based on Honda (1997b, c).
 
 more on portfolio choice with regime switching
 
-## see Honda (1996
+see Honda (1996
 
 1997b).
 
@@ -19914,15 +19914,15 @@ the results on filtering used in Exercise 9.
 
 For optimal investment with “advance information” (that is
 
-## based on
+based on
 
-## enlargement of filtrations)
+enlargement of filtrations)
 
-## see Amendinger
+see Amendinger
 
-## Imkeller
+# Imkeller
 
-## and Schweizer (1998) and
+and Schweizer (1998) and
 
 Pikovsky and Karatzas (1996).
 
@@ -19932,57 +19932,57 @@ Liu (1999) and Schroder and Skiadas (1999).
 
 Exercise 9.
 
-## 4 is from Cox
+4 is from Cox
 
-## Ingersoll
+# Ingersoll
 
 and Ross (1985b).
 
 Exercise 9.
 
-## 9 is based
+9 is based
 
-### in part on Cvitanić and Karatzas (1992
+in part on Cvitanić and Karatzas (1992
 
 1995) and Tepla (2000).
 
 For optimal behavior of a “large investor
 
-## ” that is
+” that is
 
-## one who considers the
+one who considers the
 
-## impact of trading on prices
+impact of trading on prices
 
 see Cuoco and Cvitanić (1998) and Sircar (1996).
 
-## On portfolio insurance
+# On portfolio insurance
 
 see Grossman and Zhou (1996).
 
-## On optimal portfolio
+# On optimal portfolio
 
 choice with logarithmic additive utility
 
 there is a long history.
 
-## A recent general
+# A recent general
 
 treatment is given by Goll and Kallsen (1999).
 
-## On the related growth-optimal
+# On the related growth-optimal
 
-## policies
+policies
 
 see Iyengar and Cover (1997) and work cited therein.
 
 On policies allowing for a payoff with bankruptcy
 
-## see Sethi and Taksar (1992)
+see Sethi and Taksar (1992)
 
 and Sethi, Taksar, and Prisman (1992).
 
-## Equilibrium
+# Equilibrium
 
 THIS CHAPTER REVIEWS security market equilibrium in a continuous-time
 
@@ -19996,15 +19996,15 @@ model (in both complete- and incomplete-market settings) as well as the
 
 Cox-Ingersoll-Ross model of the term structure.
 
-## The Primitives
+# The Primitives
 
-## As usual
+# As usual
 
 we let denote a standard Brownian motion in
 
-## on a probability space
+on a probability space
 
-## and let denote the
+and let denote the
 
 standard filtration of .
 
@@ -20016,15 +20016,15 @@ There are agents.
 
 Agent is defined by a nonzero consumption
 
-## endowment process in the set
+endowment process in the set
 
-## nonnegative processes in
+nonnegative processes in
 
-## and by a
+and by a
 
 strictly increasing utility function .
 
-## As in Section 6L
+# As in Section 6L
 
 a cumulative-dividend process is a finite-variance
 
@@ -20032,13 +20032,13 @@ process of the form , where for some ,
 
 and where and are increasing adapted right-continuous processes.
 
-## For any time
+# For any time
 
 the jump represents the lump-sum payment
 
 at time .
 
-## For example
+# For example
 
 if the security is a unit zero-coupon bond that
 
@@ -20054,13 +20054,13 @@ rate process in defines the cumulative-dividend process
 
 with and .
 
-## There are
+# There are
 
-## securities
+securities
 
-## numbered 0 through
+numbered 0 through
 
-### defined by a cumulative-dividend pro-
+defined by a cumulative-dividend pro-
 
 cess .
 
@@ -20076,45 +20076,45 @@ and let θ^{(1)} = Σ_{i=2}^{m} θ^{(i)}.
 
 It can be checked from the linearity of stochastic integration
 
-### that θ^{(1)} finances c^{(1)} – e^{(1)}
+that θ^{(1)} finances c^{(1)} – e^{(1)}
 
-## so (c^{(1)}
+so (c^{(1)}
 
 θ^{(1)}) is a solution to problem (4) for agent 1.
 
 By construction, 7 f = 0.
 
-### By the feasibility of (c^{(1)}
+By the feasibility of (c^{(1)}
 
 …, c^{(m)})
 
-## we conclude
+we conclude
 
-## that {(c^{(i)}
+that {(c^{(i)}
 
-## θ^{(i)})
+θ^{(i)})
 
-## 1 < i < m} is an equilibrium.
+1 < i < m} is an equilibrium.
 
-## Real Security Prices
+# Real Security Prices
 
-## The equilibrium {X
+The equilibrium {X
 
 p; (c^{(i)}
 
-## θ^{(i)})
+θ^{(i)})
 
-### 1 < i < m} shown in the last theorem has
+1 < i < m} shown in the last theorem has
 
 a nominal security-price process X that is “risk-neutral
 
-## ” in the sense of
+” in the sense of
 
 (13).
 
 Relative to the price of the consumption commodity
 
-## or in real terms
+or in real terms
 
 security prices are not generally risk-neutral.
 
@@ -20122,7 +20122,7 @@ For example, consider a par-
 
 ticular security paying the nominal cumulative-dividend process C defined
 
-## by C_t = ∫_0^t 8_s ds
+by C_t = ∫_0^t 8_s ds
 
 for some nonnegative dividend-rate process 8 in L.
 
@@ -20132,51 +20132,51 @@ By (13), Z =
 
 E[∫_t^T 8_s ds].
 
-## The real price process S
+# The real price process S
 
-## defined by S_t = Z_t/p_t
+defined by S_t = Z_t/p_t
 
-## and the real
+and the real
 
-## dividend-rate process δ
+dividend-rate process δ
 
-## defined by δ_t = 8_t / p_t
+defined by δ_t = 8_t / p_t
 
-## are therefore related by
+are therefore related by
 
 S_t = E[∫_t^T δ_s ds], t ∈ [0, T].
 
-## (19)
+(19)
 
-### Optimality with Additive Utility 241
+# Optimality with Additive Utility 241
 
 We can consider a more general cumulative-dividend process C that
 
-### is increasing and right-continuous
+is increasing and right-continuous
 
-### allowing for the payment of lump-sum
+allowing for the payment of lump-sum
 
-## amounts at points in time
+amounts at points in time
 
 as for a coupon bond.
 
-## Since the real dividend
+# Since the real dividend
 
 process δ corresponding to C is given by δ_t = ∫_0^t dC
 
-## the real price
+the real price
 
 process S for a security promising the real cumulative-dividend process C
 
-## is given from (13) by
+is given from (13) by
 
 S_t = E[∫_t^T p_s dC_s], t ∈ [0, T).
 
-## (20)
+(20)
 
 A simple example is a real zero-coupon unit bond maturing at some time
 
-## τ in (0
+τ in (0
 
 T], for which we have C_t = 0
 
@@ -20184,7 +20184,7 @@ t < τ, and C_t = 1
 
 t ≥ τ.
 
-## The real
+# The real
 
 bond-price process is then given from (20) by
 
@@ -20194,9 +20194,9 @@ with A_t = 0, t > τ.
 
 This defines the term structure of interest rates.
 
-### Although we will have no need for it
+# Although we will have no need for it
 
-## the extension of (20) for a
+the extension of (20) for a
 
 cumulative-dividend process C that is an Itô process may be calculated
 
@@ -20204,11 +20204,11 @@ from the general formula given in Chapter 6 for the deflation of Itô
 
 dividend processes.
 
-## The central issue
+# The central issue
 
-## to which we now turn
+to which we now turn
 
-## is a characterization of
+is a characterization of
 
 the consumption-price process p.
 
@@ -20216,19 +20216,19 @@ For example, we will give sufficient
 
 conditions for p to be an Itô process.
 
-### After the above normalization to
+# After the above normalization to
 
-## real prices
+real prices
 
 this will imply that p is a state-price deflator in the sense of
 
 Chapter 6.
 
-### Optimality with Additive Utility
+# Optimality with Additive Utility
 
 For most of the remainder of the chapter
 
-### we will be exploiting the prop-
+we will be exploiting the prop-
 
 erties of smooth-additive utility functions
 
@@ -20236,49 +20236,49 @@ defined as follows.
 
 Definition.
 
-## A utility function U
+# A utility function U
 
-### R_+ → R is smooth-additive (u) if
+R_+ → R is smooth-additive (u) if
 
 U(c) = ∫_0^T u(c_t, t) dt,
 
-## where u
+where u
 
-## R_+ × [0
+R_+ × [0
 
-## T] → R is smooth on (0
+T] → R is smooth on (0
 
-## ∞) × [0
+∞) × [0
 
-## T] and
+T] and
 
-## for each t in
+for each t in
 
 (0, T]
 
 u(·, t)
 
-## R_+ → R is increasing
+R_+ → R is increasing
 
-## strictly concave
+strictly concave
 
-## with an unbounded deriva-
+with an unbounded deriva-
 
 tive u_c(·, t) on (0, ∞).
 
 (c, t) ∈ dom U (22)
 
-## --- Page 131 ---
+--- Page 131 ---
 
-## 249 10. Equilibrium
+249 10. Equilibrium
 
-### For the purposes of this definition
+# For the purposes of this definition
 
-### we call a function “smooth” if it
+we call a function “smooth” if it
 
 can be extended to an open set with continuous derivatives of any order.
 
-## (In our applications
+(In our applications
 
 the order required will sometimes be as high as
 
@@ -20286,7 +20286,7 @@ three).
 
 A special case of a utility function U that is smooth-additive (u) is
 
-## price process p is bounded
+price process p is bounded
 
 the Inada condition of unbounded u_c guar-
 
@@ -20296,69 +20296,69 @@ Consider the choice problem in an Arrow-Debreu equilibrium with
 
 smooth-additive utility:
 
-## sup ∫_0^T u(c_t
+sup ∫_0^T u(c_t
 
-### t) dt subject to ∫_0^T p_t c_t dt ≤ w
+t) dt subject to ∫_0^T p_t c_t dt ≤ w
 
-## (23)
+(23)
 
-## c∈L_y
+c∈L_y
 
 where p is the Riesz representation of the equilibrium price function Π
 
 and w > 0 is the market value Π(e) of the agent’s endowment e.
 
-## Given
+# Given
 
 the strict monotonicity and concavity of utility
 
-## the Saddle Point Theo-
+the Saddle Point Theo-
 
 rem implies that a necessary and sufficient condition for c* to solve (23)
 
 is the existence of a Lagrange multiplier γ > 0 such that c* solves the
 
-## unconstrained problem
+unconstrained problem
 
-## sup ∫_0^T [u(c_t
+sup ∫_0^T [u(c_t
 
-## t) – γ p_t c_t] dt
+t) – γ p_t c_t] dt
 
-## (24)
+(24)
 
-## c∈L_y
+c∈L_y
 
 along with the complementary slackness condition E[∫_0^T p_t c_t dt] = w.
 
-## Naturally
+# Naturally
 
 one can do no better than to maximize u(c_t
 
-## t) – γ p_t c_t
+t) – γ p_t c_t
 
 separately for each t and each state of the world.
 
 Since u_c(·, t) is
 
-## unbounded
+unbounded
 
-## this implies
+this implies
 
-## for optimal c*
+for optimal c*
 
-## that c* > 0 and that
+that c* > 0 and that
 
 u_c(c_t^*, t) = γ p_t, t ∈ [0, T].
 
-## (25)
+(25)
 
-## In fact
+# In fact
 
 this leads directly to a method for solving (23) that is described in
 
 Section 9G, but that is not needed here.
 
-### Relation (25) gives us our first
+Relation (25) gives us our first
 
 characterization of the state-price deflator p in the security-spot market
 
@@ -20366,7 +20366,7 @@ equilibrium studied in Sections D and E.
 
 We know, for some γ > 0, that
 
-## p_t = (1/γ) u_c(c_t^*
+p_t = (1/γ) u_c(c_t^*
 
 t), t ∈ [0
 
@@ -20376,31 +20376,31 @@ assuming that one of the agents has the optimal consumption process
 
 c^* and a utility function that is smooth-additive (u).
 
-## The fact that the
+# The fact that the
 
 Lagrange multiplier γ is unknown is of no consequence
 
-## since {γ p_t
+since {γ p_t
 
 [0, T]} is also a state-price deflator for any constant γ > 0.
 
-## This charac-
+# This charac-
 
 terization of the state-price deflator is in terms of an individual agent’s
 
-### Equilibrium with Additive Utility 243
+# Equilibrium with Additive Utility 243
 
 consumption process.
 
 Now we work toward a like characterization of p
 
-### in terms of aggregate consumption
+in terms of aggregate consumption
 
-### which is arguably more easily studied
+which is arguably more easily studied
 
 from empirical data.
 
-### Equilibrium with Additive Utility
+# Equilibrium with Additive Utility
 
 This section further characterizes state-price deflators under the assump-
 
@@ -20414,33 +20414,33 @@ Theorem.
 
 Suppose that the aggregate endowment process e is bounded away from
 
-## zero and that
+zero and that
 
-## for each i
+for each i
 
 U_i is smooth-additive (u_i).
 
-## Then there is an Arrow-Debreu
+# Then there is an Arrow-Debreu
 
 equilibrium [Π, (c^{(1)},.
 
 , c^{(m)})] for which Π has a bounded Riesz representation p
 
-## and such that for all i
+and such that for all i
 
 c^{(i)} is bounded away from zero.
 
-### Coupling this result with Theorem D
+# Coupling this result with Theorem D
 
-### we have conditions for the exis-
+we have conditions for the exis-
 
 tence of a security-spot market equilibrium under smooth-additive utility.
 
 Corollary.
 
-## Suppose
+# Suppose
 
-## in addition
+in addition
 
 that the cumulative-dividend process D satisfies
 
@@ -20448,7 +20448,7 @@ the dynamic spanning condition.
 
 Let X be given by (13).
 
-## Then there are trading
+# Then there are trading
 
 strategies (θ^{(1)},.
 
@@ -20456,9 +20456,9 @@ strategies (θ^{(1)},.
 
 p; (c^{(i)}
 
-## θ^{(i)})
+θ^{(i)})
 
-## 1 < i < m] is a security-spot
+1 < i < m] is a security-spot
 
 market equilibrium.
 
@@ -20476,7 +20476,7 @@ By Theorem C, (c^{(1)}, .
 
 cation.
 
-## By Proposition C
+# By Proposition C
 
 there exists a nonzero “weight” vector Λ ∈ R^m
 
@@ -20484,17 +20484,17 @@ such that (c^{(1)},.
 
 , c^{(m)}) solves the problem
 
-### sup ∑_{i=1}^m λ_i ∫_0^T u_i(c_t^{(i)}
+sup ∑_{i=1}^m λ_i ∫_0^T u_i(c_t^{(i)}
 
 t) dt subject to ∑_{i=1}^m c_t^{(i)} ≤ e_t.
 
-## (27)
+(27)
 
 Because of the additive nature of utility
 
-### one can solve this problem sepa-
+one can solve this problem sepa-
 
-## rately for each time t in [0
+rately for each time t in [0
 
 T] and state ω in Ω.
 
@@ -20508,45 +20508,45 @@ t) subject to x_1 + .
 
 + x_m ≤ y.
 
-## (28)
+(28)
 
-## x∈R_+^m
+x∈R_+^m
 
 Since (c^{(1)}, .
 
 , c^{(m)}) solves (27)
 
-## it follows that [c^{(1)}(ω
+it follows that [c^{(1)}(ω
 
 t),.
 
 , c^{(m)}(ω, t)] solves
 
-## Problem (28) for y = e(ω
+Problem (28) for y = e(ω
 
 t), except perhaps for (ω
 
 t) in a null subset.
 
-## set A ⊂ Ω × [0
+set A ⊂ Ω × [0
 
-## T] is null if E[∫_0^T 1_A(ω
+T] is null if E[∫_0^T 1_A(ω
 
-## t) dt] = 0
+t) dt] = 0
 
-## where 1_A(t) is the random
+where 1_A(t) is the random
 
-### variable whose outcome is 1 if (ω
+variable whose outcome is 1 if (ω
 
-## t) is in A
+t) is in A
 
 and is zero otherwise.
 
-## ) This is
+) This is
 
-## --- Page 132 ---
+--- Page 132 ---
 
-## 244 10, Equilibrium
+244 10, Equilibrium
 
 shown as follows.
 
@@ -20554,35 +20554,35 @@ Suppose not, and let (b^{(1)},.
 
 , b^{(m)}) be a feasible allocation
 
-### and A be a nonnull subset of Ω × [0
+and A be a nonnull subset of Ω × [0
 
-## T] such that
+T] such that
 
-## for all (ω
+for all (ω
 
-## t) in A
+t) in A
 
-## i=1 i=1
+i=1 i=1
 
 Let (a^{(1)},.
 
 , a^{(m)}) be the feasible allocation defined by
 
-## a^{(i)}(ω
+a^{(i)}(ω
 
-## t) = b^{(i)}(ω
+t) = b^{(i)}(ω
 
 t), if (ω
 
-## t) ∈ A
+t) ∈ A
 
 = c^{(i)}(ω,t), otherwise.
 
-## Then
+# Then
 
 ∑_{i=1}^m λ_i U_i(a^{(i)}) > ∑_{i=1}^m λ_i U_i(c^{(i)})
 
-## i=1 i=1
+i=1 i=1
 
 contradicting the fact that (c^{(1)},.
 
@@ -20590,43 +20590,43 @@ contradicting the fact that (c^{(1)},.
 
 An exercise in applying the Implicit Function Theorem shows that the
 
-## utility function U_y
+utility function U_y
 
-## R_+ → R
+R_+ → R
 
-## defined by
+defined by
 
-## T
+T
 
 U_y(e) = ∫_0^T u_y(e_t, t) dt (30)
 
 is smooth-additive (u_y).
 
-## With γ > 0
+With γ > 0
 
-### the first-order conditions for optimal-
+the first-order conditions for optimal-
 
-## ity of x^* in (28) imply that
+ity of x^* in (28) imply that
 
-## λ_i u_{i
+λ_i u_{i
 
-## c}(x_i^*
+c}(x_i^*
 
-## t) = u_{y
+t) = u_{y
 
 c}(y, t)
 
-## t ∈ [0
+t ∈ [0
 
 T], (31)
 
 where the subscript “c” indicates a derivative in the customary way.
 
-## This
+# This
 
-## implies that
+implies that
 
-### almost everywhere and for all i
+almost everywhere and for all i
 
 λ_i u_{i,c}(c_t^{(i)}) = u_{y,c}(e_t).
 
@@ -20638,15 +20638,15 @@ Include a boundary condition.
 
 agent asset pricing model of Chapter 4.
 
-### Let X be the Ito process in solving
+# Let X be the Ito process in solving
 
-### the stochastic differential equation
+the stochastic differential equation
 
 where and are sufficiently well behaved for existence.
 
 There are securities in total supply of one each
 
-## paying dividends according
+paying dividends according
 
 to a bounded measurable function .
 
@@ -20672,7 +20672,7 @@ The agent's utility function is defined by
 
 where and is increasing and strictly concave.
 
-## An equilibrium
+# An equilibrium
 
 for this economy is a security-price process such that the problem
 
@@ -20680,35 +20680,35 @@ has a solution with and for all .
 
 (A) Suppose the security-price process is given by for all
 
-## for some
+for some
 
 twice continuously differentiable function .
 
-## Provide the Bellman
+# Provide the Bellman
 
 equation for the agent's stochastic control problem.
 
-### A verification argument is not
+# A verification argument is not
 
 required.
 
 (B) Based on your understanding of this model
 
-### give an expression for the term
+give an expression for the term
 
 structure of interest rates.
 
-## That is
+# That is
 
 provide a conjecture for the market value at
 
-### time of a -period pure discount bond
+time of a -period pure discount bond
 
 which is a zero-net-supply contract to pay
 
 one unit of the consumption numeraire at time .
 
-## No verification argument
+# No verification argument
 
 is required here.
 
@@ -20716,25 +20716,25 @@ The expression should involve only the primitives of the model
 
 , the initial state
 
-## and future states
+and future states
 
 (C) Provide a PDE for the market value of any security as a necessary condition
 
-## for an equilibrium
+for an equilibrium
 
-### under stated regularity conditions
+under stated regularity conditions
 
-## using the following infinite-
+using the following infinite-
 
 horizon version of the Feynman-Kac formula.
 
-## (We drop the argument
+(We drop the argument
 
 from all functions for simplicity.
 
 ) We do not supply the "strong regularity conditions"
 
-## referred to in the result
+referred to in the result
 
 there is a range of possible assumptions that are
 
@@ -20742,13 +20742,13 @@ cumbersome and mainly of mathematical interest.
 
 A version of the Feynman-Kac Formula.
 
-## Suppose and are
+# Suppose and are
 
-## measurable functions
+measurable functions
 
 and the Itô process in satisfies the "strong regularity conditions.
 
-## " Suppose
+" Suppose
 
 satisfies a growth condition.
 
@@ -20758,53 +20758,53 @@ if and only if solves the partial differential equation
 
 where .
 
-## ### Page 254
+# Page 254
 
-## 254 10. Equilibrium
+254 10. Equilibrium
 
 (D) Solve for the term structure of interest rates in the special case of and
 
 Also, solve for the current equilibrium short-rate process in this economy.
 
-## (E) For this last part
+(E) For this last part
 
 a further extension of the Black-Scholes model
 
-## we do not
+we do not
 
 take the parametric assumptions of part (D).
 
-### Suppose the short-rate process is
+# Suppose the short-rate process is
 
-## given by for all where
+given by for all where
 
-### and that the security-price process
+and that the security-price process
 
-## is given by for all
+is given by for all
 
 for some twice continuously differentiable function
 
 Give a PDE for the arbitrage-free value of an additional security
 
-## defined by a dividend process
+defined by a dividend process
 
-## where is bounded and
+where is bounded and
 
 measurable.
 
-## In particular
+# In particular
 
 state regularity conditions implying redundancy of this
 
 additional security.
 
-## Finally
+# Finally
 
-### give a solution to the PDE you suggest
+give a solution to the PDE you suggest
 
-## in the form of
+in the form of
 
-## an expectation
+an expectation
 
 and provide the corresponding regularity conditions.
 
@@ -20834,25 +20834,25 @@ value, given the state-price deflator ;
 
 (d) solves the agent's optimal-consumption and trading strat-
 
-## egy problem
+egy problem
 
 given as the price process and real dividend-rate
 
 process of the firm.
 
-## (Note that
+(Note that
 
-### as opposed to the pure-exchange econ-
+as opposed to the pure-exchange econ-
 
-### omy studied in the body of the chapter
+omy studied in the body of the chapter
 
-### for which securities are held in
+for which securities are held in
 
-## zero net supply
+zero net supply
 
 the total supply of the firm's shares is 1.
 
-## The market
+# The market
 
 clearing condition is thus that the agent optimally holds one share in
 
@@ -20862,7 +20862,7 @@ equilibrium.
 
 just given.
 
-## In particular
+# In particular
 
 state precisely the agent's problem and the firm's problem.
 
@@ -20870,9 +20870,9 @@ state precisely the agent's problem and the firm's problem.
 
 4, show that the (real) stock-price process
 
-### the capital-stock process of (41)
+the capital-stock process of (41)
 
-### and the dividend rate given by (42) are
+and the dividend rate given by (42) are
 
 consistent with equilibrium.
 
@@ -20882,17 +20882,17 @@ appropriate.
 
 Hint: Be careful about real versus nominal values.
 
-## Notes 255
+# Notes 255
 
 7 Given the Markov shock process of (54) and an equilibrium characterized
 
-### by Theorem G and its corollary
+by Theorem G and its corollary
 
 suppose that the aggregate endowment process
 
 is defined by , where .
 
-## Express a state-price
+# Express a state-price
 
 deflator and the short rate in the form and
 
@@ -20904,7 +20904,7 @@ density process of an equivalent martingale measure for real security prices is
 
 defined by .
 
-## Show that for some -valued
+# Show that for some -valued
 
 function on .
 
@@ -20914,9 +20914,9 @@ under such that solves an SDE of the form
 
 and state the function .
 
-## Show that
+# Show that
 
-### under technical regularity conditions
+under technical regularity conditions
 
 price of a security promising a real dividend-rate process of the form is given as the solution to a PDE of the Cauchy type examined in
 
@@ -20924,29 +20924,29 @@ Appendix E.
 
 State the PDE.
 
-## ### Notes
+# Notes
 
 The basic framework of this chapter is standard.
 
-## The seminal continuous-time
+# The seminal continuous-time
 
 equilibrium asset pricing model is due to Merton (1973a).
 
 (C) Section C is standard in general-equilibrium theory.
 
-## Existence of Arrow-
+# Existence of Arrow-
 
 Debreu equilibria in infinite-dimensional settings similar to the one treated in
 
 this chapter was first shown by Bewley (1972).
 
-### The first result that applies directly
+# The first result that applies directly
 
 to the case of square-integrable functions
 
-## treated here
+treated here
 
-## is due to Mas-Colell
+is due to Mas-Colell
 
 (1986a).
 
@@ -20954,39 +20954,39 @@ Developments in general-equilibrium modeling in infinite-dimensional
 
 spaces are surveyed by Mas-Colell and Zame (1992).
 
-## Theorem G is from Duffie
+# Theorem G is from Duffie
 
 and Zame (1989).
 
 Other proofs of essentially the same result are given by Araujo
 
-## and Monteiro (1989)
+and Monteiro (1989)
 
-## Karatzas
+# Karatzas
 
-## Lakner
+# Lakner
 
-## Lehoczky
+# Lehoczky
 
-## and Shreve (1991)
+and Shreve (1991)
 
-## Dana and
+# Dana and
 
-## Pontier (1990)
+Pontier (1990)
 
-## and Dana (1993a
+and Dana (1993a
 
 b), who studies the uniqueness of equilibria.
 
 Dana and Le Van (1996) pursue duality-based equilibrium results.
 
-## An extension
+# An extension
 
 showing existence with recursive utility is given in Duffie
 
-## Geoffard
+# Geoffard
 
-## Skiadas
+# Skiadas
 
 (1994).
 
@@ -20998,29 +20998,29 @@ Monteiro [1987] and Monteiro [1994].
 
 a characterization of efficient allocations with recursive utility
 
-## and applications to
+and applications to
 
 asset pricing.
 
 For Pareto optimality in infinite-dimensional economies
 
-## see Mas-Colell
+see Mas-Colell
 
 (1986b).
 
 Colell and He (1992b) provide a notion of "local" agent weights.
 
-## --- Page 140 ---
+--- Page 140 ---
 
-## 260 11. Corporate Securities
+260 11. Corporate Securities
 
-## Corporate Bond (Face Value L)
+Corporate Bond (Face Value L)
 
-## Sa
+Sa
 
-## 一 一
+一一
 
-## L Asset Level
+# L Asset Level
 
 Figure 11.
 
@@ -21030,13 +21030,13 @@ geometric Brownian motion, satisfying
 
 dA_t = μA_t dt + σA_t dB_t,
 
-## for constants μ and σ > 0
+for constants μ and σ > 0
 
 and where we have taken d = 1 as the dimen-
 
 sion of the underlying Brownian motion B.
 
-### One sometimes refers to A_t as
+One sometimes refers to A_t as
 
 the assets of the firm.
 
@@ -21054,31 +21054,31 @@ We take it that the original owners of the firm have chosen a capital
 
 structure consisting of pure equity and of debt in the form of a single zero-
 
-### coupon bond maturing at time T
+coupon bond maturing at time T
 
 of face value L.
 
-## In the event that the
+# In the event that the
 
 total value A_T of the firm at maturity is less than the contractual payment
 
-## L due on the debt
+# L due on the debt
 
-## the firm defaults
+the firm defaults
 
-## giving its future cash flows
+giving its future cash flows
 
-## worth A_T
+worth A_T
 
 to debtholders.
 
-## That is
+# That is
 
-## debtholders receive min(L
+debtholders receive min(L
 
-## A_T) at T
+A_T) at T
 
-## as depicted
+as depicted
 
 in Figure 11.
 
@@ -21092,7 +21092,7 @@ We will shortly confirm the natural conjecture
 
 that the market value of equity is given by the Black-Scholes option-pricing
 
-## formula
+formula
 
 treating the firm’s asset value as the price of the underlying
 
@@ -21102,43 +21102,43 @@ Bond and equity investors have already paid the original owners of the
 
 firm for their respective securities.
 
-### The absence of well-behaved arbitrage
+# The absence of well-behaved arbitrage
 
-### implies that at any time t < T
+implies that at any time t < T
 
 the total of the market values S_t of equity
 
 and Y_t of debt must be the market value A_t of the assets.
 
-## (The result seems
+(The result seems
 
 obvious; an exercise asks for proof.
 
-### The Black-Scholes-Merton Model 261
+# The Black-Scholes-Merton Model 261
 
-## Markets are complete
+# Markets are complete
 
-## in the sense of Chapter 6
+in the sense of Chapter 6
 
-## given riskless borrow-
+given riskless borrow-
 
 ing or lending at a constant rate r and access to a self-financing trading
 
 strategy whose value process is A.
 
-### This implies that there is at most one
+# This implies that there is at most one
 
 equivalent martingale measure.
 
-## Letting B^Q_t = B_t + πt
+Letting B^Q_t = B_t + πt
 
-## where π = (μ − r)/σ
+where π = (μ − r)/σ
 
-## we have
+we have
 
 dA_t = rA_t dt + σA_t d B^Q_t.
 
-## By Girsanov’s Theorem
+By Girsanov’s Theorem
 
 B^Q defines a standard Brownian motion under
 
@@ -21146,49 +21146,49 @@ the equivalent probability measure Q defined by
 
 dP/dQ = exp{−π B_t − (π^2/2) t}.
 
-## By Itô’s Formula
+By Itô’s Formula
 
-## {e^{-rt} A_t
+{e^{-rt} A_t
 
-## t ∈ [0
+t ∈ [0
 
 T]} is a Q-martingale.
 
 It follows that,
 
-## after deflation by e^{-rt}
+after deflation by e^{-rt}
 
 Q is the equivalent martingale measure.
 
-## As Q is
+# As Q is
 
-## unique in this regard
+unique in this regard
 
 we have the unique price process S of equity in the
 
-### absence of well-behaved arbitrage
+absence of well-behaved arbitrage
 
-## as explained in Chapter 6
+as explained in Chapter 6
 
-## given by
+given by
 
-### S_t = E_t^Q [e^{-r(T-t)} max(A_T − L
+S_t = E_t^Q [e^{-r(T-t)} max(A_T − L
 
 0)].
 
 Thus, the equity price S_t is computed by the Black-Scholes option-pricing
 
-## formula
+formula
 
 treating A_t as the underlying asset price
 
-## σ as the volatility coef-
+σ as the volatility coef-
 
-## ficient
+ficient
 
 the face value L of debt as the strike price
 
-## and T − t as the time
+and T − t as the time
 
 remaining to exercise.
 
@@ -21198,27 +21198,27 @@ A_t − S_t.
 
 When the original owners of the firm sold the debt with face value L
 
-## and the equity
+and the equity
 
 they realized a total initial market value of S_0 + Y_0 = A_0
 
 which does not depend on the chosen face value L of debt.
 
-## This is one
+# This is one
 
 aspect of the Modigliani-Miller Theorem.
 
-### The same irrelevance of capital
+# The same irrelevance of capital
 
 structure for the total valuation of the firm applies much more generally
 
 and has nothing to do with geometric Brownian motion
 
-## nor with the
+nor with the
 
 specific nature of debt and equity.
 
-### Once we consider market imperfec-
+# Once we consider market imperfec-
 
 tions, however
 
@@ -21228,11 +21228,11 @@ regard.
 
 Fixing the current value A_t of the assets
 
-### the market value S_t of equity
+the market value S_t of equity
 
 is increasing in the asset volatility parameter σ
 
-## due to the usual Jensen
+due to the usual Jensen
 
 effect in the Black-Scholes formula.
 
@@ -21240,35 +21240,35 @@ Thus, equity owners, were they to be
 
 given the opportunity to make a switch to a “riskier technology
 
-## ” one with
+” one with
 
-### a larger asset volatility parameter
+a larger asset volatility parameter
 
 would increase their market valuation by
 
-## doing so
+doing so
 
-## at the expense of bondholders
+at the expense of bondholders
 
-### provided the total initial market
+provided the total initial market
 
 value of the firm is not reduced too much by the switch.
 
-## This is a simple
+# This is a simple
 
 example of what is sometimes called “asset substitution.
 
-## --- Page 141 ---
+--- Page 141 ---
 
-## 262 11. Corporate Securities
+262 11. Corporate Securities
 
 Given the time value of the option embedded in equity
 
-## bondhold-
+bondhold-
 
 ers would prefer to advance the maturity date of the debt
 
-## equityholders
+equityholders
 
 would prefer to extend it.
 
@@ -21276,11 +21276,11 @@ Equityholders (or managers acting as their agents) typically hold the
 
 power to make decisions on behalf of the firm
 
-## subject to legal and con-
+subject to legal and con-
 
 tractual restrictions such as debt covenants.
 
-## This is natural in light of
+# This is natural in light of
 
 equity’s position as the residual claim on the firm’s cash flows.
 
@@ -21288,29 +21288,29 @@ Later, in
 
 both the body of the chapter and in the exercises
 
-## we consider the oppor-
+we consider the oppor-
 
 tunity that equityholders may have to issue additional debt
 
-## to call debt
+to call debt
 
 to make changes in production technologies.
 
-## We will also consider certain
+# We will also consider certain
 
 rights of debtholders.
 
-## Endogenous Default Timing
+# Endogenous Default Timing
 
 We shift now to a slightly more elaborate setting for the valuation of debt
 
-## and equity
+and equity
 
 and consider the endogenous timing of default.
 
-## We take as
+# We take as
 
-## given a martingale measure Q
+given a martingale measure Q
 
 in the infinite-horizon sense of Section 6N
 
@@ -21324,7 +21324,7 @@ We suppose that δ is an adapted process with
 
 ∫_0^t |δ_s| ds < ∞ almost surely for all t.
 
-### The market value of the assets of the
+# The market value of the assets of the
 
 firm at time t is defined as the market value A_t of the future cash flows.
 
@@ -21334,15 +21334,15 @@ A_t = E_t^Q [∫_t^∞ e^{-r(s-t)} δ_s ds].
 
 We assume that A_t is well defined and finite for all t.
 
-## The martingale-
+# The martingale-
 
 representation part of Girsanov’s Theorem then implies that
 
-### dA_t = (rA_t − δ_t) dt + σ_t d B^Q_t
+dA_t = (rA_t − δ_t) dt + σ_t d B^Q_t
 
 where σ is an adapted R^d-valued process such that ∫_0^T σ_t^2 dt < ∞ for all
 
-## T ∈ (0
+T ∈ (0
 
 ∞), and where B^Q is the standard Brownian motion in R^d under
 
@@ -21352,9 +21352,9 @@ We suppose that the original owners of the firm chose its capital struc-
 
 ture to consist of a single bond as its debt
 
-## and pure equity
+and pure equity
 
-## defined in
+defined in
 
 detail below.
 
@@ -21364,33 +21364,33 @@ nal owners for these securities.
 
 Before we consider the effects of market
 
-## imperfections
+imperfections
 
 the total of the market values of equity and debt must be
 
-### the market value A of the assets
+the market value A of the assets
 
-## which is a given process
+which is a given process
 
-## so the design of
+so the design of
 
 the capital structure is again irrelevant from the viewpoint of maximizing
 
 the total value received by the original owners of the firm.
 
-## Endogenous Default Timing 263
+# Endogenous Default Timing 263
 
-## For simplicity
+# For simplicity
 
 we suppose that the bond promises to pay coupons at a
 
-## constant total rate c
+constant total rate c
 
-## continually in time
+continually in time
 
 until default.
 
-## This sort of bond is
+# This sort of bond is
 
 sometimes called a consol.
 
@@ -21404,19 +21404,19 @@ At default,
 
 the firm’s future cash flows are assigned to debtholders.
 
-### The equityholders’ dividend rate
+The equityholders’ dividend rate
 
-## δ_t − c
+δ_t − c
 
 may have negative outcomes.
 
-## It is commonly stipulated
+# It is commonly stipulated
 
-## however
+however
 
-### that equity claimants have limited lia-
+that equity claimants have limited lia-
 
-## bility
+bility
 
 meaning that they should not experience negative cash flows.
 
@@ -21426,7 +21426,7 @@ That is, so long as
 
 the market value of equity remains strictly positive
 
-## newly issued equity
+newly issued equity
 
 can be sold into the market so as to continually finance the negative por-
 
@@ -21436,25 +21436,25 @@ tion (c − δ_t)^+ of the residual cash flow.
 
 debt, or other forms of securities
 
-## to finance itself
+to finance itself
 
-## which we pursue in
+which we pursue in
 
 exercises.
 
-### ) When the price of equity reaches zero
+) When the price of equity reaches zero
 
-## and the financing of the
+and the financing of the
 
 firm through equity dilution is no longer possible
 
-## the firm is in any case
+the firm is in any case
 
 in default, as we shall see.
 
 While dilution increases the quantity of
 
-## shares outstanding
+shares outstanding
 
 it does not alter the total market value of all shares
 
@@ -21462,23 +21462,23 @@ and so is a relatively simple modeling device.
 
 Moreover, dilution is irrel-
 
-### evant to individual shareholders
+evant to individual shareholders
 
-### who would in any case be in a position
+who would in any case be in a position
 
 to avoid negative cash flows by selling their own shares as necessary tofinance the negative portion of their dividends
 
-## with the same effect as if
+with the same effect as if
 
 the firm had diluted their shares for this purpose.
 
-## We are ignoring here
+# We are ignoring here
 
 any frictional costs of equity issuance or trading.
 
-## This is another aspect of
+# This is another aspect of
 
-## the Modigliani-Miller theory
+the Modigliani-Miller theory
 
 that part of it dealing with the irrelevance
 
@@ -21486,61 +21486,61 @@ of dividend policy.
 
 Equityholders are assumed to have the contractual right to declare
 
-### default at any stopping time τ
+default at any stopping time τ
 
-### at which time equityholders give up to
+at which time equityholders give up to
 
 debtholders the rights to all future cash flows
 
-## a contractual arrangement
+a contractual arrangement
 
-## termed strict priority
+termed strict priority
 
 or sometimes absolute priority.
 
-## We assume that equity-
+# We assume that equity-
 
 holders are not permitted to delay liquidation after the value A of the
 
-## firm reaches 0
+firm reaches 0
 
 so we ignore the possibility that A_t < 0.
 
-## Only later do
+# Only later do
 
 we consider the option of equityholders to change the firm’s production
 
-## technology
+technology
 
 or to call in the debt for some price.
 
 The bond contract conveys to debtholders
 
-## under a protective covenant
+under a protective covenant
 
 the right to force liquidation at any stopping time τ at which the asset
 
 value A_t is as low or lower than some stipulated level
 
-## which we take for
+which we take for
 
 now to be the face value L of the debt.
 
-### Debtholders would receive A_τ at
+Debtholders would receive A_τ at
 
-## such a time τ
+such a time τ
 
 equityholders would receive nothing.
 
-## We later treat other
+# We later treat other
 
 covenants.
 
-## --- Page 142 ---
+--- Page 142 ---
 
-## 264 11. Corporate Securities
+264 11. Corporate Securities
 
-## Assuming that A_0 > L
+Assuming that A_0 > L
 
 we first consider the total coupon payment
 
@@ -21556,7 +21556,7 @@ c/L, is the par yield.
 
 If bondholders rationally enforce their protective covenant
 
-## we claim that
+we claim that
 
 the par yield must be the riskless rate r.
 
@@ -21564,39 +21564,39 @@ We also claim that, until default,
 
 the bond paying coupons at the total rate c = rL is always priced at its
 
-## face value
+face value
 
 and that equity is always priced at the residual value
 
 A_t − L.
 
-## Finally
+# Finally
 
 equityholders have no strict preference to declare default on a
 
-### par-coupon bond before τ(L) = inf{t
+par-coupon bond before τ(L) = inf{t
 
-## A_t < L}
+A_t < L}
 
-## which is the first time
+which is the first time
 
-### allowed for in the protective covenant
+allowed for in the protective covenant
 
-### and bondholders rationally force
+and bondholders rationally force
 
 liquidation at τ(L).
 
 If the total coupon rate c is strictly less than the par rate rL
 
-## then
+then
 
 equityholders never gain by exercising the right to declare default (or
 
-## they have it
+they have it
 
 the right to call the debt at its face value) at any stopping
 
-## time τ with A_t > L
+time τ with A_t > L
 
 because the market value at time τ of the future cash
 
@@ -21612,7 +21612,7 @@ With c < rL,
 
 bondholders would liquidate at the first time τ(L) allowed for in their
 
-## protective covenant
+protective covenant
 
 for by doing so they receive L at τ(L) for a bond
 
@@ -21622,7 +21622,7 @@ would be worth less than L.
 
 In summary, with c < rL,
 
-### the bond is liquidated at τ(L)
+the bond is liquidated at τ(L)
 
 and trades at a “discount” price at any time
 
@@ -21634,23 +21634,23 @@ c/r + E_t[ ∫_t^{τ(L)} e^{-r(s-t)} c/r ds ] < L.
 
 Example: Brownian Dividend Growth
 
-## As an example
+# As an example
 
 suppose the cash-flow rate process δ is a geometric Brownian motion under Q
 
-## in that
+in that
 
 dδ_t = μ δ_t dt + θ δ_t dB_t,
 
-## for constants μ and θ
+for constants μ and θ
 
 where B is a standard Brownian motion under
 
-### We assume throughout that μ < r so that
+We assume throughout that μ < r so that
 
-## from (1)
+from (1)
 
-## A is finite and
+# A is finite and
 
 dA_t = μ A_t dt + θ A_t dB_t.
 
@@ -21658,21 +21658,21 @@ We calculate that δ_t = (r − μ) A_t.
 
 Example: Brownian Dividend Growth 265
 
-## For any given constant K ∈ (0
+For any given constant K ∈ (0
 
 A_0), the market value of a security that
 
 claims one unit of account at the hitting time τ(K) = inf{t
 
-## A_t < K} is
+A_t < K} is
 
 at any time t < τ(K),
 
-### E_t[ e^{-r(τ(K)−t)} ] = (A_t / K)^{γ}
+E_t[ e^{-r(τ(K)−t)} ] = (A_t / K)^{γ}
 
-## where
+where
 
-### γ = [ -μ + sqrt(μ^2 + 2r θ^2) ] / θ^2
+γ = [ -μ + sqrt(μ^2 + 2r θ^2) ] / θ^2
 
 and where m = μ − θ^2/2.
 
@@ -21696,11 +21696,11 @@ We naturally conjecture that the maximization problem (7) is solved
 
 by a hitting time of the form τ(A_d) = inf{t
 
-## A_t < A_d}
+A_t < A_d}
 
-## for some default-
+for some default-
 
-### triggering level A_d of assets
+triggering level A_d of assets
 
 to be determined.
 
@@ -21712,11 +21712,11 @@ we further conjecture from Ito’s Formula that the function w
 
 [0, ∞) defined by (7) solves the ODE
 
-### Dw(x) − r w(x) + (r − μ)x − c = 0
+Dw(x) − r w(x) + (r − μ)x − c = 0
 
-## x > A_d
+x > A_d
 
-## where
+where
 
 D w(x) = w'(x) μ x + ½ w''(x) θ^2 x^2, (9)
 
@@ -21724,9 +21724,9 @@ with the absolute-priority boundary condition
 
 w(x) = 0, x ≤ A_d.
 
-## (10)
+(10)
 
-## Finally
+# Finally
 
 we conjecture the smooth-pasting condition
 
@@ -21738,11 +21738,11 @@ based on (10) and continuity of the first derivative w′(.
 
 Although not an obvious requirement for optimality
 
-## the smooth-pasting condition
+the smooth-pasting condition
 
-## --- Page 143 ---
+--- Page 143 ---
 
-## 266 11. Corporate Securities
+266 11. Corporate Securities
 
 sometimes called the high-order-contact condition
 
@@ -21752,27 +21752,27 @@ as follows.
 
 If we are correct in conjecturing that the optimal default time is of
 
-## the form τ(A_d) = inf{t
+the form τ(A_d) = inf{t
 
-## A_t < A_d}
+A_t < A_d}
 
 then, given an initial asset level A_0 = x > A_d
 
-## the value of equity must be
+the value of equity must be
 
 w(x) = x − L − (A_d / K)^{γ} − c/r.
 
-## (12)
+(12)
 
 This conjectured value of equity is merely the market value x of the total
 
-## future cash flows of the firm
+future cash flows of the firm
 
 less a deduction equal to the market value
 
 of the debtholders’ claim to A at the default time τ(A_d) using (5)
 
-## less
+less
 
 another deduction equal to the market value of coupon payments to bond-
 
@@ -21782,33 +21782,33 @@ The market value of those coupon payments is
 
 easily computed as the present value c/r of coupons paid at the rate c
 
-## from time 0 to time +∞
+from time 0 to time +∞
 
 less the present value of coupons paid at the rate
 
-### c from the default time τ(A_d) until +∞
+c from the default time τ(A_d) until +∞
 
 again using (5).
 
-## In order to com-
+# In order to com-
 
-## plete our conjecture
+plete our conjecture
 
 we apply the smooth-pasting condition w’(A_d) = 0
 
-## to this functional form (12)
+to this functional form (12)
 
 and by calculation obtain the conjectured
 
-### default-triggering asset level as
+default-triggering asset level as
 
 A_d = B_c, (13)
 
-## where
+where
 
 B_c = L c / (r − μ).
 
-## (14)
+(14)
 
 We are ready to state and verify the result.
 
@@ -21824,13 +21824,13 @@ c), where
 
 W(x,c) = 0, x ≤ B_c, (15)
 
-## and
+and
 
 W(x,c) = x − L − (B_c / x)^{γ} − c/r
 
 x > B_c.
 
-## (16)
+(16)
 
 The initial value of debt is A_0 − W(A_0
 
@@ -21838,71 +21838,71 @@ Proof: First
 
 it may be checked by calculation that W(·
 
-## c) satisfies the
+c) satisfies the
 
 differential equation (8) and the smooth-pasting condition (11).
 
-## Ito’s
+Ito’s
 
 Example: Brownian Dividend Growth 267
 
 Formula applies to C^2 (twice continuously differentiable) functions.
 
-## our case
+our case
 
-## although W(·
+although W(·
 
-## c) need not be C^2
+c) need not be C^2
 
-## it is convex
+it is convex
 
-## is C^1
+is C^1
 
-## and is C^2
+and is C^2
 
 except at B_c, where W_x(B_c, c) = 0.
 
 Under these conditions, we obtain the
 
-## result
+result
 
 as though from a standard application of Ito’s Formula
 
-## that
+that
 
 W(A_t,c) = W(A_0
 
-## c) + ∫_0^t D W(A_s
+c) + ∫_0^t D W(A_s
 
-## c) ds + ∫_0^t W_x(A_s
+c) ds + ∫_0^t W_x(A_s
 
-## c) θ A_s dB_s
+c) θ A_s dB_s
 
-## (17)
+(17)
 
-## where
+where
 
 D W(x, c) = W(x
 
-## c) μ x + ½ W_{xx}(x
+c) μ x + ½ W_{xx}(x
 
-## c) θ^2 x^2
+c) θ^2 x^2
 
-## (18)
+(18)
 
-## except at x = B_c
+except at x = B_c
 
-### where we may replace “W_{xx}(B_c
+where we may replace “W_{xx}(B_c
 
 c)” with zero.
 
-## This slight
+# This slight
 
 extension of Ito’s Formula is based on sources cited in the Notes.
 
-## For each time t let
+# For each time t let
 
-## q_t = W(A_t
+q_t = W(A_t
 
 c) + ∫_0^t e^{-r s} (r − μ) A_s − c ds.
 
@@ -21910,61 +21910,61 @@ From Ito’s Formula,
 
 dq_t = e^{-r t} f(A_t) dt + e^{-r t} W_x(A_t
 
-## c) θ A_t dB_t
+c) θ A_t dB_t
 
-## (19)
+(19)
 
-## where
+where
 
-## f(x) = D W(x
+f(x) = D W(x
 
-## c) − r W(x
+c) − r W(x
 
 c) + (r − μ) x − c.
 
-## Because W_x is bounded
+Because W_x is bounded
 
 the last term of (19) defines a Q-martingale
 
 Proposition 5B.
 
-## For x ≤ B_c
+For x ≤ B_c
 
-## we have both W(x
+we have both W(x
 
-## c) = 0 and (r − μ) x − c ≤
+c) = 0 and (r − μ) x − c ≤
 
 0, So f(x) ≤ 0.
 
-## For x > B_c
+For x > B_c
 
-## we have (8)
+we have (8)
 
 and therefore f(x) = 0.
 
-### drift of q is therefore never positive
+drift of q is therefore never positive
 
-### and for any stopping time τ we have
+and for any stopping time τ we have
 
 V(A_0) ≥ E_Q(q_τ), or equivalently,
 
-## V(A_0) ≥ E_Q[ W(A_τ
+V(A_0) ≥ E_Q[ W(A_τ
 
 c) + ∫_0^τ e^{-r t} (δ_t − c) dt ].
 
-## (20)
+(20)
 
-### For the particular stopping time τ(B_c)
+For the particular stopping time τ(B_c)
 
-## we have
+we have
 
 W(A_0,c) = E_Q[ ∫_0^{τ(B_c)} e^{-r t} (δ_t − c) dt ]
 
-## (21)
+(21)
 
-## --- Page 144 ---
+--- Page 144 ---
 
-## 268 11. Corporate Securities
+268 11. Corporate Securities
 
 using the boundary condition (15) and the fact that f(x) = 0 for x > B_c.
 
@@ -21974,7 +21974,7 @@ V(A_0) ≥ E_Q[ ∫_0^{τ(B_c)} e^{-r t} (δ_t − c) dt ]
 
 ≥ E_Q[ ∫_0^{τ} e^{-r t} (δ_t − c) dt ] (22)
 
-## = W(A_τ
+= W(A_τ
 
 c) + E_Q[ ∫_0^{τ} e^{-r t} (δ_t − c) dt ]
 
@@ -21982,59 +21982,59 @@ using the nonnegativity of W for the last inequality.
 
 This implies the optimal default time is τ(B_c)
 
-### and the value of equity is W(A_0
+and the value of equity is W(A_0
 
 an investment of g(1, 2) = J > 0.
 
-### The optimal switch time is of the form
+# The optimal switch time is of the form
 
 inf{t : X_t > x}
 
 for some trigger level x.
 
-## Once having made the invest-
+# Once having made the invest-
 
-## ment to become active
+ment to become active
 
 there is no reason for an all-equity firm to stop
 
-## producing
+producing
 
-### unless there is a “salvage value
+unless there is a “salvage value
 
-## ” that is
+” that is
 
-## unless p(2
+unless p(2
 
 1) < 0.
 
 An exercise calls for a solution of this investment problem
 
-## and for the
+and for the
 
 associated valuations of equity and debt.
 
-### The presence of debt may gener-
+# The presence of debt may gener-
 
-## ate an inefficiency
+ate an inefficiency
 
 in that the timing of activation may be delayed (debt
 
 overhang) and the timing of abandonment for the salvage value may (“
 
-### “asset substitution”) be inefficient
+“asset substitution”) be inefficient
 
 generating a lower total value than that
 
-## of an all-equity firm
+of an all-equity firm
 
 absent tax shields.
 
-### The Notes cite sources with many
+# The Notes cite sources with many
 
 variants of this real-option problem.
 
-## Other Market Imperfections
+# Other Market Imperfections
 
 A “perfect” debt covenant forces equity owners to follow the investment
 
@@ -22046,17 +22046,17 @@ Such a covenant, while theoreti-
 
 cally maximizing the initial owners’ total market value
 
-## may in practice be
+may in practice be
 
-### prohibitively costly to formulate
+prohibitively costly to formulate
 
-## monitor
+monitor
 
 and enforce.
 
-## This section offers
+# This section offers
 
-### Other Market Imperfections 273
+# Other Market Imperfections 273
 
 an informal discussion of the monitoring and renegotiation of debt
 
@@ -22064,15 +22064,15 @@ a brief list of potential extensions of our modeling approach.
 
 An inability of bondholders to perfectly monitor the firm implies that
 
-## with some probability
+with some probability
 
-## equityholders
+equityholders
 
-## unless otherwise prohibited
+unless otherwise prohibited
 
 have a valuable option to violate the covenant
 
-## for example to continue
+for example to continue
 
 to operate the firm after the asset value drops below protective levels set
 
@@ -22084,33 +22084,33 @@ cost, then bondholders might restore some of the value that would have
 
 been “expropriated” by equityholders.
 
-### The total of the market values of
+# The total of the market values of
 
-## debt and equity is lowered
+debt and equity is lowered
 
-## however
+however
 
-### by the market value of future mon-
+by the market value of future mon-
 
 itoring costs.
 
 It may be fruitful for the initial owner of the firm
 
-## before
+before
 
-## issuance of debt
+issuance of debt
 
 to put in place a low-cost monitoring system
 
-## so as to
+so as to
 
 raise the total initial market value of the firm.
 
-## After the debt has been
+# After the debt has been
 
-## issued
+issued
 
-## however
+however
 
 it may in some cases be to the advantage of equityholders
 
@@ -22124,37 +22124,37 @@ While equityholders may be contractually entitled to nothing in
 
 the event of their failure to meet the bond covenants or to make timely
 
-### payments on the debt contracts
+payments on the debt contracts
 
 they may attempt to renegotiate this abso-
 
 lute priority.
 
-## For example
+# For example
 
 equityholders may be in a position to influ-
 
 ence the level of financial distress costs
 
-### or to delay giving up the firm to
+or to delay giving up the firm to
 
 debtholders.
 
 In order to entice equityholders to make efforts to arrange
 
-### for low financial distress costs
+for low financial distress costs
 
 bondholders may negotiate to convey some
 
 portion of the remaining value of the firm to equityholders.
 
-## If any action
+# If any action
 
 by equityholders can only reduce financial distress costs
 
 then, under rea-
 
-## sonable conditions
+sonable conditions
 
 this ability to negotiate a deviation from absolute pri-
 
@@ -22166,21 +22166,21 @@ enforced.
 
 If, however
 
-## equityholders can
+equityholders can
 
-### by actions that they are entitled
+by actions that they are entitled
 
-## to make
+to make
 
 increase financial distress costs (that is
 
-## “destroy” value)
+“destroy” value)
 
-## then
+then
 
 the opportunity to renegotiate can raise the market value of equity at the
 
-## expense of bondholders
+expense of bondholders
 
 relative to the values that would apply with strict
 
@@ -22188,13 +22188,13 @@ priority.
 
 One may extend the models that we have seen so as to treat bonds of
 
-## finite maturity
+finite maturity
 
 or with discrete coupons.
 
-### One can also allow for multiple
+# One can also allow for multiple
 
-## classes of debtholders
+classes of debtholders
 
 each with its own contractual cash flows and rights
 
@@ -22202,45 +22202,45 @@ by generalizing the definition of an equilibrium in a relatively straight-
 
 forward way.
 
-## For example
+# For example
 
 bonds are conventionally classified by priority
 
-## so that
+so that
 
-## at liquidation
+at liquidation
 
 senior bondholders are contractually entitled to
 
 cash flows resulting from liquidation up to the total face value of senior
 
-## --- Page 147 ---
+--- Page 147 ---
 
-## 274 11. Corporate Securities
+274 11. Corporate Securities
 
 debt (in proportion to the face values of the respective senior bonds
 
 normally without regard to maturity dates).
 
-## If the most senior class of
+# If the most senior class of
 
-### debtholders can be paid off in full
+debtholders can be paid off in full
 
-### the next most senior class is assigned
+the next most senior class is assigned
 
-## liquidation cash flows
+liquidation cash flows
 
-## and so on
+and so on
 
 to the lowest subordination class.
 
-## Some
+# Some
 
 bonds may be secured by certain identified assets
 
-## or collateralized
+or collateralized
 
-## in effect
+in effect
 
 giving them seniority over the liquidation value resulting from those cash
 
@@ -22248,9 +22248,9 @@ flows, before any unsecured bonds may be paid according to the senior-
 
 ity of unsecured claims.
 
-## In practice
+# In practice
 
-### the overall priority structure may be
+the overall priority structure may be
 
 rather complicated.
 
@@ -22258,11 +22258,11 @@ Some implications of seniority and of relative maturity
 
 for bond valuation are explored in exercises.
 
-### Corporate bonds are often callable
+# Corporate bonds are often callable
 
 within certain time restrictions.
 
-## Not infrequently
+# Not infrequently
 
 corporate bonds may be converted to equity at prear-
 
@@ -22272,91 +22272,91 @@ timing option of bondholders.
 
 Such convertible bonds present a challeng-
 
-## ing set of valuation issues
+ing set of valuation issues
 
 some reviewed in sources cited in the Notes.
 
-## Occasionally
+# Occasionally
 
-## corporate bonds are puttable
+corporate bonds are puttable
 
-## that is
+that is
 
-## may be sold back to the
+may be sold back to the
 
 issuer at a prearranged price at the option of bondholders.
 
 One can also allow for adjustments in capital structure
 
-## normally insti-
+normally insti-
 
-## gated by equityholders
+gated by equityholders
 
 that result in the issuing and retiring of securities
 
-## subject to legal restrictions
+subject to legal restrictions
 
-### some of which may be embedded in debt
+some of which may be embedded in debt
 
 contracts.
 
-### Intensity-Based Modeling of Default
+# Intensity-Based Modeling of Default
 
 This section introduces a model for a default time as a stopping time τ
 
-### with a given intensity process λ
+with a given intensity process λ
 
 as defined below.
 
-## From the joint behavior
+# From the joint behavior
 
 of λ, the short-rate process r
 
-### the promised payment of the security
+the promised payment of the security
 
-### the model of recovery at default
+the model of recovery at default
 
-## as well as risk premia
+as well as risk premia
 
-## one can character-
+one can character-
 
 ize the stochastic behavior of the term structure of yields on defaultable
 
 bonds.
 
-## In applications
+# In applications
 
 default intensities are allowed to depend on observ-
 
 able variables that are linked with the likelihood of default
 
-## such as
+such as
 
-## debt-to-equity ratios
+debt-to-equity ratios
 
-## asset volatility measures
+asset volatility measures
 
-## other accounting measures
+other accounting measures
 
-## of indebtedness
+of indebtedness
 
-## market equity prices
+market equity prices
 
-## bond yield spreads
+bond yield spreads
 
-## industry per-
+industry per-
 
-## formance measures
+formance measures
 
 and macroeconomic variables related to the business
 
 cycle.
 
-## This dependence could
+# This dependence could
 
-### but in practice does not usually
+but in practice does not usually
 
-## arise
+arise
 
 endogenously from a model of the ability or incentives of the firm to
 
@@ -22366,85 +22366,85 @@ Because the approach presented here does
 
 not depend on the specific setting of a firm
 
-### it has also been applied to the
+it has also been applied to the
 
-### valuation of defaultable sovereign debt
+valuation of defaultable sovereign debt
 
 as indicated in the Notes.
 
-### Intensity-Based Modeling of Default 275
+# Intensity-Based Modeling of Default 275
 
-### We fix a complete probability space (Ω
+We fix a complete probability space (Ω
 
 F, P) and a filtration {G_t
 
-### t ≥ 0} satisfying the usual conditions
+t ≥ 0} satisfying the usual conditions
 
 which are listed in Appendix I.
 
-### This will be our first extensive use
+# This will be our first extensive use
 
-### for reasons that will become clear
+for reasons that will become clear
 
 of continuous-time filtrations that are not purely Brownian.
 
-## As we depart
+# As we depart
 
 from the case of purely Brownian information
 
-## it is important to make a
+it is important to make a
 
 distinction between an adapted process and a predictable process.
 
-## As defined
+# As defined
 
-## in Appendix I
+in Appendix I
 
-## a predictable process is
+a predictable process is
 
-## intuitively speaking
+intuitively speaking
 
-## one whose
+one whose
 
 value at any time s depends only on the information in the underlying
 
-### filtration that is available up to
+filtration that is available up to
 
-## but not including
+but not including
 
 time s.
 
-## As defined in Appendix I
+# As defined in Appendix I
 
-### a nonexplosive counting process K (for
+a nonexplosive counting process K (for
 
-## example
+example
 
 a Poisson process) has an intensity λ if λ is a predictable non-
 
 negative process satisfying ∫_0^t λ_s ds < ∞ almost surely for all t
 
-## with the
+with the
 
-### property that a local martingale M
+property that a local martingale M
 
-### the compensated counting process
+the compensated counting process
 
-## is given
+is given
 
-## by
+by
 
 M_t = K_t - ∫_0^t λ_s ds.
 
-## (26)
+(26)
 
 The compensated counting process M is a martingale if
 
-## for all t
+for all t
 
-## we have
+we have
 
-## E[∫_0^t λ_s ds] < ∞
+E[∫_0^t λ_s ds] < ∞
 
 as elaborated in Appendix I.
 
@@ -22452,9 +22452,9 @@ We will say that a stopping time τ has an intensity λ if τ is the first jump
 
 time of a nonexplosive counting process whose intensity process is λ.
 
-### Theaccompanying intuition is that
+# Theaccompanying intuition is that
 
-### at any time t and state ω with t < τ(ω)
+at any time t and state ω with t < τ(ω)
 
 the 𝒢 -conditional probability that τ < t + Δ is approximately Λ(t)Δ
 
@@ -22462,7 +22462,7 @@ for small Δ.
 
 This intuition is justified in the sense of derivatives if Λ is
 
-## bounded and continuous
+bounded and continuous
 
 and under weaker conditions.
 
@@ -22470,21 +22470,21 @@ A stopping time τ is nontrivial if P(τ ∈ (0
 
 ∞)) > 0.
 
-## If a stopping time
+# If a stopping time
 
 τ is nontrivial and if the filtration {𝒢_t
 
-### t ≥ 0} is the standard filtration of
+t ≥ 0} is the standard filtration of
 
-## some Brownian motion B in R^d
+some Brownian motion B in R^d
 
 then τ could not have an intensity.
 
-## know this from the fact that
+know this from the fact that
 
-## if {𝒢_t
+if {𝒢_t
 
-### t ≥ 0} is the standard filtration of B
+t ≥ 0} is the standard filtration of B
 
 then the associated compensated counting process M of (26) (indeed
 
@@ -22494,25 +22494,25 @@ to B, and therefore cannot jump
 
 but M must jump at τ.
 
-## In order to have
+# In order to have
 
-## an intensity
+an intensity
 
 a stopping time must be totally inaccessible
 
-## a property whose
+a property whose
 
-## definition
+definition
 
-## cited in the Notes
+cited in the Notes
 
-### suggests arrival as a “sudden surprise
+suggests arrival as a “sudden surprise
 
-## ” but
+” but
 
 there are no such surprises on a Brownian filtration!
 
-## As an illustration
+# As an illustration
 
 we could imagine that the firm’s equityholders or
 
@@ -22520,23 +22520,23 @@ managers are equipped with some Brownian filtration for purposes of
 
 determining their optimal default time τ
 
-## as in Section C
+as in Section C
 
-## but that bond-
+but that bond-
 
-### holders have imperfect monitoring
+holders have imperfect monitoring
 
-### and may view τ as having an intensity
+and may view τ as having an intensity
 
 with respect to the bondholders’ own filtration {𝒢_t
 
-## t ≥ 0}
+t ≥ 0}
 
-## which con-
+which con-
 
 tains less information than the Brownian filtration.
 
-## Such a situation arises
+# Such a situation arises
 
 in a model cited in the Notes.
 
@@ -22550,15 +22550,15 @@ The doubly stochastic property implies that
 
 P(τ > s | 𝒢) = E_t [exp(− ∫_t^s Λ_u du)]
 
-## t < min(τ
+t < min(τ
 
 s), (27)
 
 where E_t denotes 𝒢-conditional expectation.
 
-## This property (27) is con-
+This property (27) is con-
 
-## venient for calculations
+venient for calculations
 
 as evaluating the expectation in (27) is compu-
 
@@ -22572,27 +22572,27 @@ also quite helpful for intuition.
 
 It would be sufficient for (27) that Λ_t = Λ(X_t
 
-## t) for some measurable
+t) for some measurable
 
 Λ: R^d × [0
 
-## ∞) → [0
+∞) → [0
 
 ∞), where X in R^d solves a stochastic differential
 
-## equation of the form
+equation of the form
 
-## dX_t = μ(X_t
+dX_t = μ(X_t
 
-## t) dt + σ(X_t
+t) dt + σ(X_t
 
-## t) dB_t
+t) dB_t
 
-## (28)
+(28)
 
 for some (𝒢_t)-standard Brownian motion B in R^d.
 
-## More generally
+# More generally
 
 (27) follows from assuming that the doubly stochastic
 
@@ -22602,33 +22602,33 @@ counting process K whose first jump time is τ is driven by some filtration
 
 a concept defined in Appendix I.
 
-## (Included in the definition
+(Included in the definition
 
-### is the condition that ℱ_t ⊂ 𝒢_t
+is the condition that ℱ_t ⊂ 𝒢_t
 
-## and that {ℱ_t
+and that {ℱ_t
 
-### t ≥ 0} satisfies the usual con-
+t ≥ 0} satisfies the usual con-
 
 ditions.
 
 ) The idea of the doubly stochastic assumption is that the intensity
 
-### Λ is (ℱ_t)-predictable and that
+Λ is (ℱ_t)-predictable and that
 
-## conditional on Λ
+conditional on Λ
 
-## K is a Poisson process
+# K is a Poisson process
 
 with (conditionally deterministic) time-varying intensity {Λ_t
 
 t ≥ 0}.
 
-## particular
+particular
 
 for any time s > t conditional on the tribe 𝒢_t ∨ ℱ_t generated
 
-## by the events in 𝒢_t ∪ ℱ_t
+by the events in 𝒢_t ∪ ℱ_t
 
 the number K_s − K_t of arrivals between t and
 
@@ -22642,41 +22642,41 @@ for any nonnegative integer k.
 
 ) Thus, letting A be the event that
 
-## K_s − K_t = 0
+K_s − K_t = 0
 
 the law of iterated expectations implies that
 
-## for t < τ
+for t < τ
 
-## P(τ > s | 𝒢_t) = E(1_A | 𝒢_t)
+P(τ > s | 𝒢_t) = E(1_A | 𝒢_t)
 
-### = E[E(1_A | 𝒢_t ∨ ℱ_t) | 𝒢_t] (29)
+= E[E(1_A | 𝒢_t ∨ ℱ_t) | 𝒢_t] (29)
 
-### = E[P(K_s − K_t = 0 | 𝒢_t ∨ ℱ_t) | 𝒢_t]
+= E[P(K_s − K_t = 0 | 𝒢_t ∨ ℱ_t) | 𝒢_t]
 
 = E[ exp(− ∫_t^s Λ_u du) | 𝒢_t],
 
 consistent with (27).
 
-### This is only a sketch of the idea
+# This is only a sketch of the idea
 
-## sources cited in the
+sources cited in the
 
 Notes offer a proper development of the theory.
 
-## Appendix I connects the
+# Appendix I connects the
 
 intensity to the probability density and hazard rate of the underlying
 
 stopping time.
 
-## As we proceed
+# As we proceed
 
 we will repeatedly use the following natural result.
 
 have not defined here a stochastic integral with respect to a martingale in
 
-### the case of our general filtration
+the case of our general filtration
 
 but that is done in sources cited in the
 
@@ -22686,21 +22686,21 @@ Lemma.
 
 Suppose M is a martingale and H is a bounded predictable process.
 
-## Then
+# Then
 
 the stochastic integral ∫ H dM is well defined and is a martingale.
 
-### Risk-Neutral Intensity Process
+# Risk-Neutral Intensity Process
 
 For purposes of the market valuation of bonds and other securities whose
 
 cash flows are sensitive to default timing
 
-### we would want to have an equiv-
+we would want to have an equiv-
 
 alent martingale measure Q and a risk-neutral intensity process
 
-## that is
+that is
 
 intensity process Λ^Q for the default time τ that is associated with (Q
 
@@ -22708,27 +22708,27 @@ intensity process Λ^Q for the default time τ that is associated with (Q
 
 and the given filtration {𝒢_t : t ≥ 0}.
 
-## In this case
+# In this case
 
-## we call Λ^Q the Q-intensity
+we call Λ^Q the Q-intensity
 
 of τ.
 
-## (As usual
+(As usual
 
 there may be more than one equivalent martingale mea-
 
 sure.
 
-### ) As we shall see later in this section
+) As we shall see later in this section
 
-### the ratio Λ^Q / Λ (for Λ strictly
+the ratio Λ^Q / Λ (for Λ strictly
 
 positive) is in some sense a multiplicative risk premium for the uncertainty
 
 associated with the timing of default.
 
-## The Notes cite the following
+# The Notes cite the following
 
 convenient result.
 
@@ -22738,7 +22738,7 @@ Suppose a nonexplosive counting process K has a P-intensity process
 
 Λ and Q is any probability measure equivalent to P.
 
-## Then K has a Q-intensity
+# Then K has a Q-intensity
 
 process.
 
@@ -22746,43 +22746,43 @@ A version of Girsanov’s Theorem provides conditions suitable for cal-
 
 culating the change of probability measure associated with a change of
 
-## intensity
+intensity
 
 by analogy with the “change in drift” of a Brownian motion.
 
 Suppose K is a nonexplosive counting process with intensity Λ
 
-## and that
+and that
 
 ψ is a strictly positive predictable process such that
 
-## for some fixed time
+for some fixed time
 
-## horizon T
+horizon T
 
 ∫_0^T ψ_s Λ_s ds is finite almost surely.
 
-## A local martingale
+# A local martingale
 
-## is then well defined by
+is then well defined by
 
 Girsanov’s Theorem.
 
 Suppose the local martingale ε is in fact a martingale.
 
-## Then
+# Then
 
 an equivalent probability measure Q is defined by dQ = ε(T) dP.
 
-## Restricted to the
+# Restricted to the
 
-## time interval [0
+time interval [0
 
 T], the counting process K has Q-intensity ψΛ.
 
-### Care must be taken with assumptions
+# Care must be taken with assumptions
 
-## for the convenient doubly
+for the convenient doubly
 
 stochastic property need not be preserved with a change to an equivalent
 
@@ -22792,31 +22792,31 @@ Illustrative counterexamples are cited in the Notes.
 
 A proof of Girsanov’s Theorem is cited in Appendix I
 
-## which also gives
+which also gives
 
 sufficient conditions for the martingale property of ε
 
-## and for K to be
+and for K to be
 
 doubly stochastic under both P and Q.
 
 Under certain conditions on the filtration {𝒢_t
 
-## t ≥ 0} that are out-
+t ≥ 0} that are out-
 
-## lined in Appendix I
+lined in Appendix I
 
 the martingale representation property applies
 
 for any equivalent probability measure Q
 
-## one can obtain the associated
+one can obtain the associated
 
 Q-intensity of K from the martingale representation of the associated den-
 
 sity process.
 
-## Zero-Recovery Bond Pricing
+# Zero-Recovery Bond Pricing
 
 We fix a short-rate process r and an equivalent martingale measure Q after
 
@@ -22824,21 +22824,21 @@ deflation by exp(− ∫_0^t r_s ds).
 
 We consider the valuation of a security that
 
-## pays F at a given time s > 0
+pays F at a given time s > 0
 
-### where F is a 𝒢_s-measurable bounded
+where F is a 𝒢_s-measurable bounded
 
 random variable.
 
 As 1_{τ>s} is the random variable that is 1 in the event of
 
-### no default by s and zero otherwise
+no default by s and zero otherwise
 
-### we may view F as the contractually
+we may view F as the contractually
 
 promised payment of the security at time s
 
-### with default by s leading to no
+with default by s leading to no
 
 payment.
 
@@ -22846,7 +22846,7 @@ The case of a defaultable zero-coupon bond is treated by letting
 
 F = 1.
 
-## In the next section
+# In the next section
 
 we will consider recovery at default.
 
@@ -22858,13 +22858,13 @@ S_t = E_Q [ exp(− ∫_t^s r_u du) F 1_{τ > s} | 𝒢_t ] (30)
 
 where E_Q denotes 𝒢_t-conditional expectation under Q.
 
-## From (30) and
+From (30) and
 
-### the fact that τ is a stopping time
+the fact that τ is a stopping time
 
 S_t must be zero for all t > τ.
 
-## Under Q
+# Under Q
 
 the default time τ is assumed to have an intensity process
 
@@ -22872,11 +22872,11 @@ the default time τ is assumed to have an intensity process
 
 Theorem.
 
-## Suppose that F
+# Suppose that F
 
 r, and Λ^Q are bounded and that τ is doubly stochastic
 
-### under Q driven by a filtration {ℱ_t
+under Q driven by a filtration {ℱ_t
 
 t ≥ 0} such that r is (ℱ_t)-adapted and F is
 
@@ -22886,9 +22886,9 @@ Fix any t < s.
 
 Then, for t > τ
 
-## we have S_t = 0
+we have S_t = 0
 
-## and for t < τ
+and for t < τ
 
 S_t = E_Q [ exp(− ∫_t^s (r_u + Λ^Q_u) du) F | 𝒢_t ] (31)
 
@@ -22900,9 +22900,9 @@ at the short rate r.
 
 Proof: From (30)
 
-### the law of iterated expectations
+the law of iterated expectations
 
-## and the assumption
+and the assumption
 
 that τ is (F_t)-adapted and F is F_s-measurable
 
@@ -22910,77 +22910,77 @@ The result then follows from the implication of double stochasticity that
 
 Q(τ > s | F_t) = exp(-∫_t^s A_u du).
 
-## As a special case
+# As a special case
 
-## suppose the filtration {F_t
+suppose the filtration {F_t
 
-## t ≥ 0} is generated by B_Q
+t ≥ 0} is generated by B_Q
 
 a (F_t)-standard Brownian motion in R^d under Q.
 
-## Consider a “state” pro-
+Consider a “state” pro-
 
 cess X valued in some subset D of R^d and solving a stochastic differential
 
-## equation of the form
+equation of the form
 
 dX_t = μ(X_t) dt + σ(X_t) dB_Q.
 
-## (32)
+(32)
 
 It is natural to allow dependence of A_t
 
 r_t, and F on the state process X
 
-## in the sense that
+in the sense that
 
-## A_t = λ(X_t)
+A_t = λ(X_t)
 
-## r_t = r(X_t)
+r_t = r(X_t)
 
-## F = f(X_s)
+F = f(X_s)
 
-## (33)
+(33)
 
-## where λ
+where λ
 
 r, and f are real-valued measurable functions on D.
 
 Relation (31) then states that for t < τ
 
-## we have S_t = g(X_t
+we have S_t = g(X_t
 
 t), for a
 
-## function g
+function g
 
-## D × [0
+D × [0
 
-## s] → R that
+s] → R that
 
-### under the Feynman-Kac technical condi-
+under the Feynman-Kac technical condi-
 
 tions (Appendix E), solves the PDE
 
 g_t(x, t) + [μ(x) + λ(x)] ∇g(x
 
-## t) = 0
+t) = 0
 
-## (34)
+(34)
 
-## for (x
+for (x
 
-## t) ∈ D × [0
+t) ∈ D × [0
 
 s), with the boundary condition
 
 g(x, T) = f(x), (35)
 
-## where
+where
 
-### For computationally tractable examples
+# For computationally tractable examples
 
-## suppose that the functions
+suppose that the functions
 
 r, λ, p, and log f(·) are affine.
 
@@ -22988,11 +22988,11 @@ r, λ, p, and log f(·) are affine.
 
 we take f(x) = 1.
 
-## ) In this “affine” setting
+) In this “affine” setting
 
-## as shown in Chapter 7
+as shown in Chapter 7
 
-## we can
+we can
 
 readily compute a solution to (34)-(35) of the form g(x
 
@@ -23002,45 +23002,45 @@ for deterministic coefficients a(t) and B(t) that are explicitly known or
 
 easily computed in practice.
 
-## --- Page 150 ---
+--- Page 150 ---
 
-## 280 11. Corporate Securities
+280 11. Corporate Securities
 
-### Pricing with Recovery at Default
+# Pricing with Recovery at Default
 
 The next step is to consider the recovery of some random payoff W at the
 
-## default time τ
+default time τ
 
 if default occurs before the maturity date s of the security.
 
-### We adopt the assumptions of Theorem J
+# We adopt the assumptions of Theorem J
 
-## and add the assumption that
+and add the assumption that
 
-## W = w_τ
+W = w_τ
 
 where w is a bounded predictable process that is also adapted to
 
-## the filtration {F_t
+the filtration {F_t
 
 t ≥ 0} that appears in the theorem statement.
 
-### The market value at any time t < min(s
+The market value at any time t < min(s
 
-## τ) of any default recovery is
+τ) of any default recovery is
 
 by definition of the equivalent martingale measure Q
 
-## given by
+given by
 
 P(t, u) = E_Q [e^{-∫_t^u (r_v + A_v) dv} w_u 1_{τ > t} | F_t] (36)
 
 The doubly stochastic assumption implies that τ has a probability den-
 
-## sity under Q
+sity under Q
 
-## at any time u in [t
+at any time u in [t
 
 s], conditional on τ > t and on
 
@@ -23050,17 +23050,17 @@ q(t, u) = exp(-∫_t^u A_v dv).
 
 Thus, using the same iterated-expectations argument of the proof of The-
 
-## orem J
+orem J
 
-## we have
+we have
 
-## on the event that τ > t
+on the event that τ > t
 
 S_t = E_Q [e^{-∫_t^τ r_v dv} W 1_{τ ≤ s} | F_t]
 
-### = E_Q [∫_t^s e^{-∫_t^u r_v dv} w_u q(t
+= E_Q [∫_t^s e^{-∫_t^u r_v dv} w_u q(t
 
-## u) du | F_t]
+u) du | F_t]
 
 = ∫_t^s E_Q [e^{-∫_t^u r_v dv} w_u | F_t] q(t
 
@@ -23070,9 +23070,9 @@ using Fubini’s Theorem, where
 
 P(t, u) = E_Q [e^{-∫_t^u (r_v + A_v) dv} w_u | F_t].
 
-## (37)
+(37)
 
-## t
+t
 
 We summarize the main defaultable valuation result as follows.
 
@@ -23080,15 +23080,15 @@ Theorem.
 
 Consider a security that pays F at s if τ > s
 
-## and otherwise pays w_τ
+and otherwise pays w_τ
 
 at τ.
 
 Suppose that w, F, λ, and τ are bounded.
 
-### Suppose that τ is doubly stochastic
+Suppose that τ is doubly stochastic
 
-### under Q driven by a filtration {F_t
+under Q driven by a filtration {F_t
 
 t ≥ 0} with the property that r and w are
 
@@ -23096,9 +23096,9 @@ t ≥ 0} with the property that r and w are
 
 Then, for t > τ
 
-## we have S_t = 0
+we have S_t = 0
 
-## and for
+and for
 
 t<τ,
 
@@ -23106,25 +23106,25 @@ S_t = E_Q [e^{-∫_t^τ (r_v + A_v) dv} F | F_t] + ∫_t^s P(t
 
 u) du.
 
-## (38)
+(38)
 
-### Default-Adjusted Short Rate 281
+# Default-Adjusted Short Rate 281
 
 In the affine state-space setting described at the end of the previous
 
-## section
+section
 
 P(t, u) can be computed by our usual “affine” methods
 
-## provided
+provided
 
 that w is of form w_t = e^{α(t) + β(t)'X_t} for deterministic α(t) and β(t).
 
-## In this
+# In this
 
 case, it is an exercise to show that
 
-## under technical regularity
+under technical regularity
 
 P(t, u) = e^{α(t) + β(t)'X_t} [C(t, u) + C(t, u)' X_t + D(t
 
@@ -23134,7 +23134,7 @@ for readily computed deterministic coefficients α
 
 β, C, and D.
 
-## This still
+# This still
 
 leaves the task of numerical computation of the integral ∫_t^s P(t
 
@@ -23144,41 +23144,41 @@ For the price of a typical defaultable bond promising periodic
 
 coupons followed by its principal at maturity
 
-## one may sum the prices
+one may sum the prices
 
-### of the coupons and of the principal
+of the coupons and of the principal
 
-### treating each of these payments
+treating each of these payments
 
 as though it were a separate zero-coupon bond.
 
-## An often-used assump-
+# An often-used assump-
 
 tion, although one that need not apply in practice
 
-## is that there is no
+is that there is no
 
-## default recovery for coupons
+default recovery for coupons
 
-### and that bonds of different maturities
+and that bonds of different maturities
 
 have the same recovery of principal.
 
 In any case, convenient parametric
 
-## assumptions
+assumptions
 
 based for example on an affine driving process X
 
-## lead
+lead
 
 to straightforward computation of a term structure of defaultable bond
 
 yields that may be applied in practical situations
 
-## such as the valuation of
+such as the valuation of
 
-## credit derivatives
+credit derivatives
 
 a class of derivative securities designed to transfer credit
 
@@ -23188,63 +23188,63 @@ For the case of defaultable bonds with embedded American options
 
 the most typical cases being callable or convertible bonds
 
-## the usual resort
+the usual resort
 
 is valuation by some numerical implementation of the associated dynamic
 
 programming problems.
 
-## Default-Adjusted Short Rate
+# Default-Adjusted Short Rate
 
-## In the setting of Theorem K
+# In the setting of Theorem K
 
 a particularly simple pricing representation
 
 can be based on the definition of a predictable process L for the fractional
 
-### loss in market value at default
+loss in market value at default
 
-## defined by
+defined by
 
 (1 — L_τ)(S_{τ-}) = w_τ.
 
-## (40)
+(40)
 
 Manipulation that is left as an exercise shows that
 
-## under the conditions
+under the conditions
 
 of Theorem K, for t < min(τ, s),
 
 S_t = E_Q [e^{-∫_t^{τ ∧ s} (r_v + λ_v L_v) dv} F | F_t].
 
-## (41)
+(41)
 
 This valuation model (41) is particularly convenient if we take L as an
 
 exogenously given fractional loss process
 
-### as it allows for the application
+as it allows for the application
 
-## --- Page 151 ---
+--- Page 151 ---
 
-## 282 11. Corporate Securities
+282 11. Corporate Securities
 
-## of standard valuation methods
+of standard valuation methods
 
-### treating the payoff F as default-free
+treating the payoff F as default-free
 
 accounting for the intensity and severity of default losses through the
 
 “default-adjusted” short-rate process r + λL.
 
-## The adjustment λL is in
+The adjustment λL is in
 
 fact the risk-neutral mean rate of proportional loss in market value due
 
 to default.
 
-## Notably
+# Notably
 
 the dependence of the bond price on the intensity λ and
 
@@ -23254,7 +23254,7 @@ Thus, for any
 
 bounded strictly positive predictable process θ
 
-## the bond price is invariant
+the bond price is invariant
 
 to a substitution for L and λ of θL and λ/θ
 
@@ -23266,31 +23266,31 @@ doubling λ and halving L has no effect on the bond-price process before
 
 default.
 
-## Suppose
+# Suppose
 
-## for example
+for example
 
-### that τ is doubly stochastic driven by X
+that τ is doubly stochastic driven by X
 
-### we take r + λL = R(X_t) and F = f(X_s)
+we take r + λL = R(X_t) and F = f(X_s)
 
-### for a state process X satisfying
+for a state process X satisfying
 
 (32).
 
 Then, under Feynman-Kac regularity conditions
 
-## we obtain at each
+we obtain at each
 
 time t before default the bond price S_t = g(X_t
 
 t), for a solution g of the
 
-## PDE
+# PDE
 
 Dg (x, t) — R(x)g(x
 
-## t) = 0
+t) = 0
 
 (x,t) ∈ D × [0
 
@@ -23302,121 +23302,121 @@ Sources cited in the Notes, as well
 
 as exercises, provide examples.
 
-## As a special case
+# As a special case
 
-## if the driving process X
+if the driving process X
 
-## is affine
+is affine
 
 if f(x) = e^{c'x} for some c ∈ R^d, and if R(x) = a + d'x for some
 
-## a ∈R and d in R^d
+a ∈R and d in R^d
 
-## then we have g(x
+then we have g(x
 
 t) = e^{a(t) + B(t)'x} for deterministic and
 
 readily computed coefficients a(t) and B(t).
 
-### There are also interesting cases
+# There are also interesting cases
 
-## some cited in the Notes
+some cited in the Notes
 
-## in which
+in which
 
 λ or L (or both) are naturally dependent on the pre-default bond price
 
 itself.
 
-## In a Markovian setting
+# In a Markovian setting
 
 the PDE (42) would be generalized to one
 
-## of the nonlinear form
+of the nonlinear form
 
 Dg(x, t) — R(x, g(x, t))g(x, t) = 0.
 
-## (43)
+(43)
 
-## Exercises
+# Exercises
 
-## 1 In the setting of Section A
+1 In the setting of Section A
 
 suppose “equity” and “debt” are defined by
 
-## an arbitrary sharing rule
+an arbitrary sharing rule
 
 subject only to the feasibility condition S_t + D_t = A_t.
 
 Show that there is an arbitrage whose market value is bounded below.
 
-### 11.2 Show that (2) is implied by (1).
+# 11.2 Show that (2) is implied by (1).
 
-## 3 In the setting of Section B
+3 In the setting of Section B
 
-### an asset-valuation process A is fixed
+an asset-valuation process A is fixed
 
-## and we
+and we
 
 consider the contractual right of debtholders to force liquidation at any stopping
 
-## Exercises 283
+# Exercises 283
 
-## time τ at which A_τ < K
+time τ at which A_τ < K
 
 where K < L is a constant.
 
-## We assume for simplicity that
+# We assume for simplicity that
 
 A_t ≥ L.
 
 We also suppose that equityholders have the right to call the debt at par
 
-## meaning that
+meaning that
 
 at a stopping time selected by equityholders
 
-## the obligation to pay
+the obligation to pay
 
 coupons can be extinguished in return for a payment of L to bondholders.
 
 (A) Show that the bond is always liquidated by τ(K)
 
-## assuming that equityholders
+assuming that equityholders
 
 and bondholders optimally time their covenant exercise
 
-## default
+default
 
-## and call decisions
+and call decisions
 
 and that each knows the other’s policy.
 
-## (C) Now
+(C) Now
 
-### fixing the initial level x of assets
+fixing the initial level x of assets
 
-### suppose that Zinc’s equity owners can
+suppose that Zinc’s equity owners can
 
 substitute the current technology with an alternative technology that has the same
 
-## mean-growth parameter m
+mean-growth parameter m
 
 but has a higher volatility parameter σ > .
 
-## The same
+# The same
 
 Brownian motion B drives asset growth.
 
-### Would Zinc’s equity owners choose to do
+Would Zinc’s equity owners choose to do
 
 so in all cases?
 
-## Please bear in mind that
+# Please bear in mind that
 
 while the all-equity firm Zinc remains as
 
-## described above
+described above
 
 there may not be another firm that uses the riskier technology
 
@@ -23428,75 +23428,75 @@ Please be precise,
 
 by giving a proof or counterexample.
 
-## 7 (Floating-Rate Notes).
+7 (Floating-Rate Notes).
 
 Fix a probability space and a filtration.
 
-## Consider an
+# Consider an
 
-### arbitrage-free market in which
+arbitrage-free market in which
 
-## for each t and s > t
+for each t and s > t
 
-### there is available for purchase
+there is available for purchase
 
 or sale a unit zero-coupon default-free bond maturing at s with a bounded price
 
-## at t of A_{t
+at t of A_{t
 
 s}, with outcomes in (0
 
-## A floating-rate note
+# A floating-rate note
 
-## with a given maturity T
+with a given maturity T
 
-## a face value of 1
+a face value of 1
 
-## and a spread K_F
+and a spread K_F
 
 is defined as a claim to payment of the face
 
-### value 1 at the maturity date T
+value 1 at the maturity date T
 
-### and payment at each integer date i ∈ {1
+and payment at each integer date i ∈ {1
 
 , T} of
 
-## --- Page 153 ---
+--- Page 153 ---
 
-## 286 11. Corporate Securities
+286 11. Corporate Securities
 
 the spread K_F plus the one-period default-free floating rate L_{i-1}
 
-## established at the
+established at the
 
 previous integer date.
 
 The one-period default-free floating rate L_{i-1}
 
-## established at
+established at
 
-## date i−1 is A_{i-1
+date i−1 is A_{i-1
 
-## i} − 1
+i} − 1
 
 the simple interest rate on one-period default-free loans.
 
-## (In practice
+(In practice
 
 the calendar length of the interpayment time interval associated with
 
 a given note may vary from case to case.
 
-### You may assume for concreteness that
+# You may assume for concreteness that
 
-### one unit of time is one calendar year
+one unit of time is one calendar year
 
 and that bounded positions in zero-coupon
 
 bonds and floating-rate notes are permitted.
 
-### All prices and trading strategies are
+# All prices and trading strategies are
 
 adapted.
 
@@ -23506,15 +23506,15 @@ date is equal to its face value.
 
 Prove, without the benefit of assuming the existence
 
-## of a state-price deflator
+of a state-price deflator
 
-## short-rate process
+short-rate process
 
-### or equivalent martingale measure
+or equivalent martingale measure
 
-## that
+that
 
-## for any integer maturity T
+for any integer maturity T
 
 the unique arbitrage-free default-free par floating-rate
 
@@ -23522,7 +23522,7 @@ spread K_F is zero.
 
 (You may assume that the issue date is 0.
 
-## (B) Now
+(B) Now
 
 suppose there is a complete probability space (Ω
 
@@ -23530,23 +23530,23 @@ F, P), and a fil-
 
 tration {F_t} satisfying the usual conditions.
 
-### There is an adapted nonnegative
+# There is an adapted nonnegative
 
-## short-rate process r_t
+short-rate process r_t
 
 and an equivalent martingale measure Q after deflation by
 
 exp(−∫_0^t r_u du).
 
-## A corporation
+# A corporation
 
 Zank, defaults at a stopping time τ that
 
-## under Q
+under Q
 
 is doubly stochastic with an intensity process λ^Q_t.
 
-## For simplicity
+# For simplicity
 
 we suppose that any floating-rate note issued by Zank has no
 
@@ -23562,25 +23562,25 @@ spread K_F by pricing each of the promised payments at times 1 through T
 
 then adding up the prices.
 
-## For an “explicit” model
+For an “explicit” model
 
-## we now suppose that there is
+we now suppose that there is
 
 an R^n-valued process X that is “affine” under Q
 
-## in the sense that
+in the sense that
 
-## for any
+for any
 
-## and for any times t and s > t
+and for any times t and s > t
 
-## there exist a scalar a(t
+there exist a scalar a(t
 
 s, c) and some b(t
 
 s, c) in
 
-## R^n such that
+R^n such that
 
 E_Q[exp(∫_t^s (a + b·X_u) du) | X_t] = exp(a(t
 
@@ -23588,7 +23588,7 @@ s, c) + b(t
 
 s, c)·X_t).
 
-## These coefficients a(t
+These coefficients a(t
 
 s, c) and b(t
 
@@ -23604,9 +23604,9 @@ s, c).
 
 and α_Q, and given β and δ_Q in R^n.
 
-### Assuming the pricing rule (31) applies
+Assuming the pricing rule (31) applies
 
-## price
+price
 
 the coupon payment L_{i-1} + K_F promised at date i.
 
@@ -23614,63 +23614,63 @@ Finally, give a formula for the
 
 par spread K_F.
 
-### 8 (Valuation of Options with Bankruptcy).
+8 (Valuation of Options with Bankruptcy).
 
-## We fix a complete probability
+# We fix a complete probability
 
-## space (Ω
+space (Ω
 
 F, P) and a filtration {G_t
 
 t ≥ 0} satisfying the usual conditions.
 
-## Sup-
+# Sup-
 
 pose, in a given economy
 
 that there is a constant short rate r.
 
-## Consider a firm
+# Consider a firm
 
 whose equity price process is a geometric Brownian motion X
 
 until bankruptcy.
 
-## Exercises 287
+# Exercises 287
 
 We assume that there is an equivalent martingale measure Q (after deflation by
 
-## exp(−r t)) such that
+exp(−r t)) such that
 
-### for given real parameters m and σ
+for given real parameters m and σ
 
-## we have
+we have
 
 X_t = X_0 exp(m t + σ B_t^Q),
 
 where B^Q is a standard Brownian motion under Q.
 
-## Bankruptcy occurs with con-
+# Bankruptcy occurs with con-
 
 stant Q-intensity λ.
 
-## Specifically
+# Specifically
 
 bankruptcy occurs at the stopping time τ = inf {t
 
-## N_t = 1}
+N_t = 1}
 
 where, under Q
 
-## N is a Poisson process
+# N is a Poisson process
 
-## independent of B^Q
+independent of B^Q
 
-## with constant
+with constant
 
 intensity λ.
 
-## When bankruptcy occurs
+# When bankruptcy occurs
 
 the price of the equity jumps to zero.
 
@@ -23684,17 +23684,17 @@ may go bankrupt before expiration.
 
 The option pays off if the firm does not go
 
-## bankrupt
+bankrupt
 
 and if the price of the equity is above the strike.
 
 (B) Compute the price of a European put option on the equity for expiration at
 
-### time T and for strike price x > 0
+time T and for strike price x > 0
 
 without using put-call parity.
 
-## Now show that
+# Now show that
 
 put-call parity holds.
 
@@ -23704,23 +23704,23 @@ consider a market in which there exists a short-rate process r and an equiva-
 
 lent martingale measure Q after deflation by exp(∫_0^t r_s ds)
 
-## with dr_t = a(t) dt +
+with dr_t = a(t) dt +
 
-## b(t)·dB_t^Q
+b(t)·dB_t^Q
 
 for continuous functions a and b of time alone
 
-## where B^Q is a standard
+where B^Q is a standard
 
-### Brownian motion in R^d under Q
+Brownian motion in R^d under Q
 
 and b is therefore valued in R^d.
 
-## (A) For a given maturity T
+(A) For a given maturity T
 
 show that the price process U of a zero-coupon bond
 
-## maturing at T
+maturing at T
 
 satisfies dU_t = r_t U_t dt + U(t) v(t)·dB_t^Q
 
@@ -23732,45 +23732,45 @@ Hint: Use the fact that ∫_t^T r_s ds is normally distributed
 
 under Q.
 
-## Alternatively
+# Alternatively
 
 use the fact that this is an affine term-structure model.
 
 (B) Consider a firm whose total market-value process A satisfies dA_t = r_t A_t dt +
 
-## A_t σ_A·dB_t^Q
+A_t σ_A·dB_t^Q
 
-## A_0 > 0
+A_0 > 0
 
 where σ_A ∈ R^d.
 
-## There are no dividends
+# There are no dividends
 
-## and the drift
+and the drift
 
-## r_t A_t
+r_t A_t
 
 is therefore dictated by the definition of an equivalent martingale measure.
 
-### firm has issued L bonds maturing at T
+firm has issued L bonds maturing at T
 
-### each promising to pay 1 unit of account
+each promising to pay 1 unit of account
 
 at maturity unless the value A_T of the firm is not large enough to cover the debt
 
 in which case the bonds share the value of the firm on a pro rata basis
 
-## meaning
+meaning
 
 a default payment of A_T/L to each bondholder.
 
-## Letting Z denote the price of
+# Letting Z denote the price of
 
-## a bond at time zero
+a bond at time zero
 
 compute explicitly the default risk premium U_0 − Z_0
 
-## showing
+showing
 
 it to be of the form of a Black-Scholes put option price with explicitly stated
 
@@ -23780,7 +23780,7 @@ Hint: Take U as a deflator.
 
 10 Suppose that τ is a stopping time with intensity λ
 
-## in the sense of Section
+in the sense of Section
 
 H, and let N_t = 1_{τ ≤ t}.
 
@@ -23792,19 +23792,19 @@ Hint: Use the local martingale characterization of intensity.
 
 11 Under the conditions of Theorem K and the assumption that w_t = (1 −
 
-## ζ_t)(S_{t-})
+ζ_t)(S_{t-})
 
 obtain the representation (41) of defaultable bond prices based on the
 
-## --- Page 154 ---
+--- Page 154 ---
 
-## 288 11. Corporate Securities
+288 11. Corporate Securities
 
 default-adjusted short rate.
 
 The following exercise asks for a bit more
 
-## taking ζ as
+taking ζ as
 
 a primitive rather than w.
 
@@ -23816,25 +23816,25 @@ as a fractional loss in market value at default.
 
 Suppose, in the setting of Section I,
 
-## that the promised payoff F
+that the promised payoff F
 
-## the short-rate process r
+the short-rate process r
 
-## and the intensity λ of the
+and the intensity λ of the
 
 default time τ are bounded, and let
 
-### P = E[exp(−∫_t^s (r_u + ζ_u λ_u) du)
+P = E[exp(−∫_t^s (r_u + ζ_u λ_u) du)
 
 t < s].
 
-## (44)
+(44)
 
-### Suppose that F does not jump at τ
+Suppose that F does not jump at τ
 
 almost surely.
 
-### (Conditions for this are anal-
+(Conditions for this are anal-
 
 ogous to those of Theorem I.
 
@@ -23842,15 +23842,15 @@ ogous to those of Theorem I.
 
 process S with the property that S is the price process for a security that pays
 
-## we have S_t = F
+we have S_t = F
 
-## and that for t > τ
+and that for t > τ
 
 we have S_t = 0.
 
 13 Certain credit derivatives are based on the first to default
 
-## meaning that they
+meaning that they
 
 are based on the first min(τ_1, .
 
@@ -23858,27 +23858,27 @@ are based on the first min(τ_1, .
 
 , τ_n.
 
-## In the setting of Section H
+# In the setting of Section H
 
-## suppose that
+suppose that
 
-## for each i
+for each i
 
 the stopping time τ_i hasintensity A and that there is no simultaneous default
 
-## meaning that for any i and
+meaning that for any i and
 
-### 14 On a given complete probability space (Ω
+14 On a given complete probability space (Ω
 
 ℱ, P), let N be a Poisson pro-
 
 cess with constant intensity γ.
 
-## Let W be a random variable
+# Let W be a random variable
 
-## independent of N
+independent of N
 
-## with outcomes 1 and 0
+with outcomes 1 and 0
 
 with respective probabilities p and 1 − p.
 
@@ -23894,35 +23894,35 @@ Show that K is a nonexplosive counting process
 
 and calculate its intensity process λ.
 
-## Calculate
+# Calculate
 
-## for an arbitrary given time s
+for an arbitrary given time s
 
-## survival probability P(τ > s)
+survival probability P(τ > s)
 
 and show that the convenient formula (27) does not
 
 apply.
 
-## In particular
+# In particular
 
 K is not doubly stochastic.
 
-## 15 Derive the formula (39)
+15 Derive the formula (39)
 
-### under an affine model for X under Q
+under an affine model for X under Q
 
-## and affine
+and affine
 
 dependence of λ and r on X.
 
-### You may assume that (37) applies
+You may assume that (37) applies
 
-## and adopt
+and adopt
 
 integrability conditions as needed.
 
-## Notes
+# Notes
 
 (A) This model of debt and equity pricing is based on Black and Scholes (1973)
 
@@ -23932,7 +23932,7 @@ Pitts and Selby (1983) further characterize
 
 the implied shape of the term structure of credit spreads.
 
-## Modigliani and
+# Modigliani and
 
 Miller (1958) is the classic treatment of irrelevance of capital structure in perfect
 
@@ -23944,9 +23944,9 @@ to debt at various maturities.
 
 (B-E) These sections are based on the model proposed by Fisher
 
-## Heinkel
+# Heinkel
 
-## and Zechner (1989)
+and Zechner (1989)
 
 and explicitly solved by Leland (1994) for optimal default
 
@@ -23956,31 +23956,31 @@ costs.
 
 The model was further elaborated to treat coupon debt of finite maturity
 
-## in Leland and Toft (1996)
+in Leland and Toft (1996)
 
 endogenous calling of debt and recapitalization in
 
-### Leland (1998) and Uhrig-Homburg (1998)
+Leland (1998) and Uhrig-Homburg (1998)
 
-### incomplete observation by bond
+incomplete observation by bond
 
-## investors
+investors
 
-## with default intensity
+with default intensity
 
-## in Duffie and Lando (1998)
+in Duffie and Lando (1998)
 
-## and alternative
+and alternative
 
 approaches to default recovery in Anderson and Sundaresan (1996)
 
-## Anderson
+# Anderson
 
 Pan, and Sundaresan (1995)
 
-## Fan and Sundaresan (1997)
+Fan and Sundaresan (1997)
 
-## Mella-Barral (1999)
+Mella-Barral (1999)
 
 and Mella-Barral and Perraudin (1997).
 
@@ -23988,7 +23988,7 @@ The optimality verification proof of Section C is adapted from Duffie and
 
 Lando (1998).
 
-## For this proof
+# For this proof
 
 we use a version of Itô’s Formula that can be applied
 
@@ -24006,21 +24006,21 @@ Black and Cox (1976) developed the idea of first-passage-based default tim-
 
 ing, but used an exogenous default boundary.
 
-### Longstaff and Schwartz (1995a)
+Longstaff and Schwartz (1995a)
 
 developed a similar first-passage defaultable bond pricing model with stochastic
 
 default-free interest rates.
 
-## (See also Nielsen
+(See also Nielsen
 
-## Sad-Requejo
+# Sad-Requejo
 
-## and Santa-Clara (1993)
+and Santa-Clara (1993)
 
 and Collin-Dufresne and Goldstein (1999).
 
-### ) Zhou (2000) bases pricing on first
+) Zhou (2000) bases pricing on first
 
 passage of a jump-diffusion.
 
@@ -24032,39 +24032,39 @@ A standard model that fits literally into the
 
 setting of this section is that of Dixit (1989).
 
-### Further sources to the literature
+# Further sources to the literature
 
-### are cited by Dixit and Pindyck (1994)
+are cited by Dixit and Pindyck (1994)
 
-### who summarize a significant amount of
+who summarize a significant amount of
 
-## modeling in this topic area
+modeling in this topic area
 
 which is sometimes called real options.
 
-## Boyarchenko
+# Boyarchenko
 
-## and Levendorskii (2000a
+and Levendorskii (2000a
 
 b) and Marcozzi (2000) offer some related results on
 
 perpetual options.
 
-### (G) On renegotiation and pricing
+(G) On renegotiation and pricing
 
-### see Anderson and Sundaresan (1996)
+see Anderson and Sundaresan (1996)
 
-## Anderson
+# Anderson
 
 Pan, and Sundaresan (1995)
 
-### Décamps and Faure-Grimaud (1998
+Décamps and Faure-Grimaud (1998
 
 1999), Fan and Sundaresan (1997)
 
-## Mella-Barral (1999)
+Mella-Barral (1999)
 
-## and Mella-Barral and
+and Mella-Barral and
 
 Perraudin (1997).
 
@@ -24076,79 +24076,79 @@ porate debt with costly refinancing.
 
 Acharya and Carpenter (1999) treat callable defaultable bonds.
 
-## On convert-
+# On convert-
 
-## ible bond valuation
+ible bond valuation
 
-### see Brennan and Schwartz (1980a)
+see Brennan and Schwartz (1980a)
 
-## Davis and Lischka (1999)
+Davis and Lischka (1999)
 
-## Loshak (1996)
+Loshak (1996)
 
-## Nyborg (1996)
+Nyborg (1996)
 
 and Tsiveriotis and Fernandes (1998).
 
-## On the tim-
+# On the tim-
 
 ing of call and conversion options on convertible bonds
 
-## see Ederington
+see Ederington
 
 Caton,
 
 and Campbell (1997).
 
-## On credit derivatives
+# On credit derivatives
 
-### see Chen and Sopranzetti (1999)
+see Chen and Sopranzetti (1999)
 
-## Cooper and
+# Cooper and
 
-## Martin (1996)
+Martin (1996)
 
-## Davis and Mavroidis (1997)
+Davis and Mavroidis (1997)
 
-## Duffie (1998b)
+Duffie (1998b)
 
-## Longstaff and
+# Longstaff and
 
 Schwartz (1995b), and Pierides (1997).
 
 (H-I) A standard reference on counting processes is Brémaud (1981).
 
-## Additional
+# Additional
 
 sources include Daley and Vere-Jones (1988) and Karr (1991).
 
-## Meyer (1966)
+Meyer (1966)
 
 defines totally inaccessible stopping times.
 
-### Appendix I contains a summary of
+# Appendix I contains a summary of
 
 some of the key results on counting processes that we use here.
 
-## Lemma H
+# Lemma H
 
-## --- Page 155 ---
+--- Page 155 ---
 
-## 290 11. Corporate Securities
+290 11. Corporate Securities
 
 and the definition of a stochastic integral with respect to a martingale can be
 
-## found in Protter (1990)
+found in Protter (1990)
 
 among other sources.
 
-### Proposition I is from Artzner and
+# Proposition I is from Artzner and
 
 Delbaen (1995).
 
 Theorem I is simplified from Brémaud (1981)
 
-## as summarized
+as summarized
 
 in Appendix I.
 
@@ -24160,11 +24160,11 @@ Elliott, Jeanblanc, and
 
 Yor (1999) give a new proof of this intensity result
 
-## which is generalized by
+which is generalized by
 
 Song (1998) to the multidimensional case.
 
-### Kusuoka (1999b) provides an example
+Kusuoka (1999b) provides an example
 
 of this intensity result that is based on unobservable drift of assets.
 
@@ -24174,11 +24174,11 @@ is not preserved under a change of measure.
 
 (J) The use of intensity-based defaultable bond pricing models was instigated
 
-## by Artzner and Delbaen (1990a
+by Artzner and Delbaen (1990a
 
 1992, 1995)
 
-## Lando (1994
+Lando (1994
 
 1998), and Jarrow
 
@@ -24186,55 +24186,55 @@ and Turnbull (1995).
 
 Theorem J is based on results from Duffie
 
-## Schroder
+# Schroder
 
 Skiadas (1996) and Lando (1998).
 
 Additional work in this vein is by Bielecki
 
-## and Rutkowski (1999a
+and Rutkowski (1999a
 
 b, 2000)
 
-## Cooper and Mello (1991
+Cooper and Mello (1991
 
 1992), Das and
 
-## Sundaram (2000)
+Sundaram (2000)
 
-## Das and Tufano (1995)
+Das and Tufano (1995)
 
-## Davydov
+# Davydov
 
-## Linetsky
+# Linetsky
 
-## and Lotz (1999)
+and Lotz (1999)
 
-## Duffie (1998a)
+Duffie (1998a)
 
-## Duffie and Huang (1996)
+Duffie and Huang (1996)
 
-## Duffie and Singleton (1999)
+Duffie and Singleton (1999)
 
-## Elliott
+# Elliott
 
-## Jeanblanc
+# Jeanblanc
 
-## and Yor (1999)
+and Yor (1999)
 
-## Hull and White (1992
+Hull and White (1992
 
 1995), Jarrow and Yu (1999)
 
-## Jarrow
+# Jarrow
 
 Lando, and Yu (1999)
 
-### Jeanblanc and Rutkowski (1999)
+Jeanblanc and Rutkowski (1999)
 
-## Madan and
+# Madan and
 
-## Unal (1998)
+Unal (1998)
 
 and Nielsen and Ronn (1995).
 
@@ -24242,43 +24242,43 @@ Intensity-based debt pricing models based on stochastic transition among
 
 credit ratings were developed by Arvantis
 
-## Gregory
+# Gregory
 
-## and Laurent (1999)
+and Laurent (1999)
 
-## Jarrow
+# Jarrow
 
 Lando, and Turnbull (1997)
 
-### Kijima and Komoribayashi (1998)
+Kijima and Komoribayashi (1998)
 
-## Kijima (1998)
+Kijima (1998)
 
 Lando (1998).
 
-### (K) These results are based on Duffie
+(K) These results are based on Duffie
 
-## Schroder
+# Schroder
 
-## and Skiadas (1996) and
+and Skiadas (1996) and
 
 Lando (1994, 1998).
 
 Schönbucher (1998) extends to treat the case of recovery W
 
-## which is not of the form w
+which is not of the form w
 
-### for some predictable process w
+for some predictable process w
 
-## but rather allows the
+but rather allows the
 
 recovery to be revealed just at the default time τ.
 
 (L) Debt pricing models based on a default-adjusted short-rate process were devel-
 
-### oped by Duffie and Singleton (1999)
+oped by Duffie and Singleton (1999)
 
-### based on precursors due to Pye (1974)
+based on precursors due to Pye (1974)
 
 and Litterman and Iben (1991).
 
@@ -24286,15 +24286,15 @@ For empirical work on default-adjusted short
 
 rates, see Duffee (1999a) for an application to corporate bonds
 
-## and Duffee
+and Duffee
 
-## Pedersen
+# Pedersen
 
 and Singleton (2000) and Pagés (2000) for work on sovereign debt.
 
-### For more on sovereign debt valuation
+# For more on sovereign debt valuation
 
-### see Gibson and Sundaresan (1999) and
+see Gibson and Sundaresan (1999) and
 
 Merrick (1999).
 
@@ -24302,25 +24302,25 @@ Applications of price-dependent default-adjusted short rates determined
 
 by the nonlinear PDE (43) include the case of defaultable swaps
 
-## as addressed
+as addressed
 
 by Duffie and Huang (1996).
 
 For more on the valuation of defaultable swaps
 
-## see Abken (1993)
+see Abken (1993)
 
-## Artzner and Delbaen (1990a)
+Artzner and Delbaen (1990a)
 
-## Cooper and Mello (1991)
+Cooper and Mello (1991)
 
-## Jarrow and Turnbull (1997b)
+Jarrow and Turnbull (1997b)
 
-## Li (1995)
+Li (1995)
 
-## Huge and Lando (1999)
+Huge and Lando (1999)
 
-## and Soren-
+and Soren-
 
 son and Bollier (1995).
 
@@ -24332,15 +24332,15 @@ On the impact of credit risk on derivative pricing
 
 Martin (1997).
 
-## Notes 291
+# Notes 291
 
-## Additional Topics
+# Additional Topics
 
 The exercise on corporate bond pricing under Gaussian
 
 interest rates is based on Décamps and Rochet (1997) and Shimko
 
-## Tejima
+# Tejima
 
 Van Deventer (1993).
 
@@ -24354,11 +24354,11 @@ Models of default correlation and collateralized debt obligations include those 
 
 and Finger (2000).
 
-## Bensoussan
+# Bensoussan
 
-## Crouhy
+# Crouhy
 
-## and Galai (1995a
+and Galai (1995a
 
 b) analyze compound options and complex options
 
@@ -24368,39 +24368,39 @@ which in turn can be viewed as an option on the underlying assets of the firm.
 
 Galai and Schneller (1978) and Schwartz (1997) treat warrant valuation.
 
-## --- Page 156 ---
+--- Page 156 ---
 
-## Numerical Methods
+# Numerical Methods
 
 This chapter reviews three numerical approaches to pricing securities
 
-## in a continuous-time setting
+in a continuous-time setting
 
-## “binomial” approximation
+“binomial” approximation
 
-## Monte Carlo simulation
+# Monte Carlo simulation
 
 and finite-difference solution of the associated partial differential
 
 equation.
 
-## Central Limit Theorems
+# Central Limit Theorems
 
 It is well known that a normal random variable can be represented as the
 
 limit of normalized sums of Bernoulli trials
 
-## that is
+that is
 
-## binomial random
+binomial random
 
 variables.
 
-## This idea
+# This idea
 
-### a version of the Central Limit Theorem
+a version of the Central Limit Theorem
 
-## leads to the
+leads to the
 
 characterization given in this section of the Black-Scholes option-pricing
 
@@ -24422,7 +24422,7 @@ prices.
 
 A sequence of random variables converges in distribution to a random variable
 
-## denoted
+denoted
 
 if, for any bounded continuous function
 
@@ -24438,11 +24438,11 @@ Central Limit Theorem.
 
 Suppose is a sequence of independent and identically distributed random variables on a probability space
 
-## each with expected
+each with expected
 
-## --- Page 157 ---
+--- Page 157 ---
 
-## 294 12. Numerical Methods
+294 12. Numerical Methods
 
 value and finite variance .
 
@@ -24454,15 +24454,15 @@ Proofs are cited in the Notes.
 
 This version of the Central Limit Theorem is not general enough to handle convergence of the binomial option-pricing formula of Exercise 2.
 
-### 1 to the Black-Scholes formula.
+1 to the Black-Scholes formula.
 
 In order to set up the required extension
 
-## we say that a collection
+we say that a collection
 
-### with as is a triangular array if
+with as is a triangular array if
 
-## for each
+for each
 
 the random variables are independently distributed random variables on some probability space.
 
@@ -24480,11 +24480,11 @@ with .
 
 Let .
 
-## If and
+# If and
 
 then converges in distribution to a normally distributed random variable with mean and variance .
 
-## Binomial to Black-Scholes
+# Binomial to Black-Scholes
 
 Recall the setup from Section 5E of the Black-Scholes model for pricing a European put option
 
@@ -24492,21 +24492,21 @@ a probability space on which there is a standard Brownian motion
 
 a stock-price process defined by and a bond-price process defined by
 
-## for constants and
+for constants and
 
-## the put-option payoff
+the put-option payoff
 
 defined by the expiration time and exercise price .
 
 The solution of the “arbitrage-free” put price
 
-## in the sense of Chapter 6
+in the sense of Chapter 6
 
-## where for any
+where for any
 
 where is a standard Brownian motion under the equivalent martingale measure .
 
-## Binomial to Black-Scholes 295
+# Binomial to Black-Scholes 295
 
 In the binomial setting of Exercise 2.
 
@@ -24524,7 +24524,7 @@ binomial random variables (called Bernoulli trials) having outcomes and with res
 
 We can calibrate the binomial stock returns and
 
-## as well as the bond return
+as well as the bond return
 
 to our model of the continuous-time stock- and bond-price processes as follows.
 
@@ -24540,11 +24540,11 @@ and choose and so that the “actual” (under ) mean and standard deviation of 
 
 The probability should not be confused with the “risk-neutralized” probability constructed from the returns.
 
-## Let us arbitrarily choose
+# Let us arbitrarily choose
 
 and then select and .
 
-## With this
+# With this
 
 the continuously compounding stock returns in both the discrete- and continuous-time models have
 
@@ -24556,11 +24556,11 @@ Let “Model ” refer to the binomial model with trading periods per unit of ti
 
 , and per trading period.
 
-### We will allow to approach infinity
+# We will allow to approach infinity
 
-## always calibrating
+always calibrating
 
-## as above
+as above
 
 the binomial returns to the continuous-time returns.
 
@@ -24574,17 +24574,17 @@ We leave fixed at 0.
 
 With i.
 
-## returns
+returns
 
 the per-unit-of-time risk-neutral mean and variance of the continuously compounding returns are then
 
-## respectively
+respectively
 
-## and
+and
 
-## --- Page 158 ---
+--- Page 158 ---
 
-## 296 12. Numerical Methods
+296 12. Numerical Methods
 
 precisely as required.
 
@@ -24598,13 +24598,13 @@ where and where are i.
 
 binomial with outcomes and at respective risk-neutralized probabilities and
 
-## where
+where
 
 The per-unit-of-time risk-neutralized mean and variance of returns are
 
-## respectively
+respectively
 
-## and
+and
 
 An exercise shows that and .
 
@@ -24612,7 +24612,7 @@ Thus, and
 
 where denotes variance under .
 
-### Because and each converge to zero
+# Because and each converge to zero
 
 the version of the Central Limit Theorem given by Proposition A implies that .
 
@@ -24624,55 +24624,55 @@ The only properties of the put payoff function used above are its continuity and
 
 The same arguments therefore allow one to conclude that
 
-## for any bounded continuous
+for any bounded continuous
 
 the arbitrage-free price of a claim to in the binomial setting with trading periods per unit of time converges to the corresponding continuous-time “arbitrage-free” price obtained from the Feynman-Kac formula
 
 where .
 
-## By put-call parity
+# By put-call parity
 
 the binomial call-pricing formula converges to the Black-Scholes call-pricing formula in the same sense.
 
-## That is
+# That is
 
 put-call parity holds in the limit.
 
-### this computing budget grows to infinity
+this computing budget grows to infinity
 
-## the approximation error
+the approximation error
 
 has an asymptotically normal distribution provided grows with
 
-### E Efficient SDE Simulation 301
+# E Efficient SDE Simulation 301
 
 like .
 
-## If does not grow at this rate
+# If does not grow at this rate
 
-### then the asymptotic distribution
+then the asymptotic distribution
 
-## is “infinite
+is “infinite
 
 ” meaning a loss in efficiency.
 
 For instance, with the Euler
 
-## scheme
+scheme
 
 the number of simulations should quadruple (at least
 
 asymptotically) with each doubling of the number of time intervals.
 
-## With
+# With
 
-### a second-order scheme such as (8)
+a second-order scheme such as (8)
 
-### the number of simulations should be
+the number of simulations should be
 
 on the order of the number of time intervals to the fourth power
 
-## and so
+and so
 
 Sharper results concerning the asymptotic distribution can be found
 
@@ -24686,11 +24686,11 @@ Suppose Condition A holds.
 
 (A) If or if as , then
 
-## . (10)
+. (10)
 
 (B) If converges to a nonzero constant as then
 
-## (11)
+(11)
 
 where , is standard normal, and .
 
@@ -24708,25 +24708,25 @@ Thus, as ,
 
 where is standard normal and .
 
-## Applying part (iii) of
+Applying part (iii) of
 
 Condition A and some algebra completes the proof.
 
-## --- Page 161 ---
+--- Page 161 ---
 
-## 302 12. Numerical Methods
+302 12. Numerical Methods
 
-## Applying Feynman-Kac
+# Applying Feynman-Kac
 
 Consider the solution given by (5.
 
-### 40) for the price of a derivative
+40) for the price of a derivative
 
-## asset paying at time
+asset paying at time
 
 where is defined by (5.
 
-## 34) and where the
+34) and where the
 
 short rate at time is given by .
 
@@ -24734,7 +24734,7 @@ To repeat, we have
 
 , (12)
 
-## where and where
+where and where
 
 Since , the -valued process defined by solves an SDE of the same form as (6).
 
@@ -24754,31 +24754,31 @@ then the derivative asset price can be approximated as suggested in the previous
 
 The case of options requires special handling.
 
-## The payoff function
+# The payoff function
 
-## of a call
+of a call
 
-## defined by
+defined by
 
 is not even once differentiable.
 
 The “kink” at is the only issue to overcome.
 
-## The function can be
+# The function can be
 
-### satisfactorily approximated by
+satisfactorily approximated by
 
 where, for any
 
-## (13)
+(13)
 
-## Indeed
+# Indeed
 
-### has continuous derivatives of any order
+has continuous derivatives of any order
 
-## satisfies a growth
+satisfies a growth
 
-## condition
+condition
 
 and converges uniformly and monotonically from above to
 
@@ -24788,45 +24788,45 @@ The Dominated Convergence Theorem therefore implies that
 
 the associated Feynman-Kac solution also converges to as .
 
-## Finite-Difference Methods
+# Finite-Difference Methods
 
 This section reviews a simple finite-difference method for the PDE associated with asset prices.
 
-### After reviewing the basic idea
+# After reviewing the basic idea
 
 we will work out an example based on the Cox-Ingersoll-Ross model of the term structure.
 
-### We will treat the Cauchy problem
+# We will treat the Cauchy problem
 
-## Given real-valued functions
+# Given real-valued functions
 
 and on , find a function in solving
 
-## (14)
+(14)
 
-## Finite-Difference Methods 303
+# Finite-Difference Methods 303
 
-## with boundary condition
+with boundary condition
 
-## (15)
+(15)
 
-## where
+where
 
-## As we have seen in Chapter 5
+# As we have seen in Chapter 5
 
 we can interpret the solution to (14)-(15)
 
 as the arbitrage-free market value of a security that promises the dividend
 
-### rate at time when the state is
+rate at time when the state is
 
-### assuming that the security has a ter-
+assuming that the security has a ter-
 
 minal value of at time when the state is .
 
-## The short rate is
+# The short rate is
 
-## at time when the state is
+at time when the state is
 
 and the “primitive” securities have prices and
 
@@ -24834,17 +24834,17 @@ dividends determining the functions and in the manner described
 
 in Chapter 5.
 
-## Alternatively
+# Alternatively
 
-### and could be determined directly from
+and could be determined directly from
 
 the equilibrium approach shown in Chapter 10 (see Exercise 10.
 
-## Reg-
+# Reg-
 
 ularity conditions that ensure the existence and uniqueness of solutions
 
-## are treated in Appendix E
+are treated in Appendix E
 
 where probabilistic Feynman-Kac solutions are
 
@@ -24852,17 +24852,17 @@ also treated.
 
 The basic idea of the finite-difference method for solving (14)-(15)
 
-## is to choose a grid
+is to choose a grid
 
 and to find an approximate solution of (14)-(15) in the form of an
 
 matrix whose -element is to be an approximation of
 
-### . We always take and . We take constants and
+. We always take and . We take constants and
 
-### to define the mesh sizes of the grid
+to define the mesh sizes of the grid
 
-## so that for all
+so that for all
 
 and for all , as depicted in Figure 12.
 
@@ -24872,7 +24872,7 @@ increasing the number of space points or the number of
 
 time points increases the accuracy of the approximation
 
-## although the
+although the
 
 convergence and stability properties of finite-difference methods can be
 
@@ -24880,57 +24880,55 @@ a delicate issue.
 
 Various finite-difference methods could be suitable for
 
-## the Cauchy problem
+the Cauchy problem
 
 depending on the properties of .
 
-### will merely describe one of these
+will merely describe one of these
 
-### sometimes known as the Crank-Nicholson
+sometimes known as the Crank-Nicholson
 
 method, which has reasonable properties.
 
-### We leave a characterization of
+# We leave a characterization of
 
 the accuracy and stability of this and other finite-difference schemes to
 
 Sources cited in the Notes.
 
-## --- Page 162 ---
+--- Page 162 ---
 
-## 12. Numerical Methods
+# 12. Numerical Methods
 
-## — 一 一 万 一 万 国
+— 一一万一万国
 
-## A 一 十
+A 一十一上
 
-## 一 上
+— + 广 1
 
-## — + 广 1
+一 - 一一一
 
-## 一 - 一 一 一
-
-## [ 屋 hy Finag+t
+[ 屋 hy Finag+t
 
 皇 , Try VRon iz
 
-## T Tras Taya -
+# T Tras Taya -
 
-## 3 | ( -
+3 | ( -
 
-## 2 十 _l_
+2 十 _l_
 
-## 1 [ 一
+1 [ 一
 
-## T |
+T |
 
-## “ 9 1 2 3 7 at M
+“ 9 1 2 3 7 at M
 
-## T=MΔt
+T=MΔt
 
 Figure 12.
 
-## Finite-Difference Grid
+# Finite-Difference Grid
 
 The basis of the Crank-Nicholson method is the following approxima-
 
@@ -24944,23 +24942,23 @@ Accordingly, as we substitute these
 
 approximations of the derivatives of into (14)
 
-## we obtain at
+we obtain at
 
 , the expression
 
-## (16)
+(16)
 
-## Finite-Difference Methods 305
+# Finite-Difference Methods 305
 
-## where
+where
 
-## Of course
+# Of course
 
-## (16) is not defined at or
+(16) is not defined at or
 
-## for which we substitute
+for which we substitute
 
-## with equations of the form
+with equations of the form
 
 ; , (17)
 
@@ -24974,23 +24972,23 @@ tion for the columns of , given by
 
 , (18)
 
-### with terminal boundary condition
+with terminal boundary condition
 
 , (19)
 
 where is the tridiagonal matrix given by
 
-## (20)
+(20)
 
 and where is the vector with -th element
 
-## . (21)
+. (21)
 
 Standard “staircase” algorithms for solving linear equations of the tridiag-
 
 onal form (18) can be found in off-the-shelf software packages.
 
-## (Code is
+(Code is
 
 provided in Appendix J.
 
@@ -24998,17 +24996,17 @@ provided in Appendix J.
 
 , avoiding a “brute-force” calculation of its inverse.
 
-## To summarize
+# To summarize
 
 the basic finite-difference algorithm (18)—(19) begins
 
 by fixing according to the terminal boundary condition (19).
 
-## Then
+# Then
 
 is computed from by (21).
 
-### Then is computed by solving the
+# Then is computed by solving the
 
 tridiagonal equation (18) with .
 
@@ -25020,25 +25018,25 @@ This is based on the fundamental solution of the PDE (14)
 
 reviewed in Appendix E.
 
-## Under technical conditions
+# Under technical conditions
 
-### for each initial state x* in ℝ
+for each initial state x* in ℝ
 
-## there is a function ψ ∈ C^{2
+there is a function ψ ∈ C^{2
 
-## 1}(ℝ × (0
+1}(ℝ × (0
 
 T]) with the following (almost equivalent) properties
 
-## (a) ψ satisfies
+(a) ψ satisfies
 
 with an initial boundary condition requiring essentially that ψ(·
 
 t) is the density of a measure that converges as t ↓ 0 to a probability measure ν with ν({x*}) = 1
 
-## (b) for any (g
+(b) for any (g
 
-### h) satisfying technical conditions
+h) satisfying technical conditions
 
 the solution f of the PDE (14)-(15) satisfies
 
@@ -25048,31 +25046,31 @@ t)ψ(x, t) dx dt + ∫_ℝ g(x
 
 T)ψ(x, T) dx
 
-## (32)
+(32)
 
 which is the integral analogous to the sum given by (30).
 
 The PDE (31) is sometimes called the Fokker-Planck equation
 
-### or the forward Kolmogorov equation
+or the forward Kolmogorov equation
 
 to distinguish it from the backward Kolmogorov equation (14).
 
-## For the case r = 0
+For the case r = 0
 
-## one can literally treat ψ(·
+one can literally treat ψ(·
 
-### t) as the probability density of X_t
+t) as the probability density of X_t
 
 where X solves the underlying stochastic differential equation dX_t = μ(X_t
 
-## t) dt + σ(X_t
+t) dt + σ(X_t
 
-## t) dB_t
+t) dB_t
 
 with X_0 = x*.
 
-### Much more can be said on this point
+# Much more can be said on this point
 
 as indicated in sources cited in the Notes.
 
@@ -25082,7 +25080,7 @@ An explicit solution for ψ for the Cox-Ingersoll-Ross model (28) is given in Se
 
 Now, given (32) and the equivalence between (a) and (b)
 
-## in order to solve for f(x*
+in order to solve for f(x*
 
 0) we would like to approximate ψ with a finite-difference solution Ψ of the PDE (31).
 
@@ -25102,21 +25100,21 @@ where the tridiagonal matrix A_j and the vector Ψ_1 can be calculated for each 
 
 using the Crank-Nicholson approximations for the derivatives of ψ in terms of Ψ.
 
-## Specifically
+# Specifically
 
 for μ twice continuously differentiable with respect to x and A continuously differentiable with respect to x
 
-## we have
+we have
 
 d_j = Φ_j Ψ_{j-1} + Θ_j Ψ_j, (35)
 
-## and
+and
 
 Φ_j = I + ½ Δt B_j,
 
 Θ_j = I - ½ Δt B_j, (36)
 
-## where
+where
 
 a_{ij} = (Δt / 2 Δx) [μ_i + (σ_i^2)/Δx],
 
@@ -25130,25 +25128,25 @@ One begins with the initial condition (34) for Ψ
 
 and then propagates the solution forward
 
-### calculating Ψ_j at each stage by (33)
+calculating Ψ_j at each stage by (33)
 
 given d_j in terms of Ψ_{j-1}.
 
-## (In fact
+(In fact
 
-## in application
+in application
 
 stability of solutions may be more easily achieved by initial conditions that are not so "concentrated" at the initial condition as suggested by (34)
 
 but rather by an initial condition at t_1 later in time that is
 
-## for example
+for example
 
 a low-variance Gaussian density suggested by the parameters.
 
 There is in any case a certain "art" to obtaining reasonable approximate solutions.
 
-## Given Ψ
+Given Ψ
 
 the approximate value of any security with dividend rate h and terminal value g is given by (30).
 
@@ -25156,15 +25154,15 @@ If there is but a single security to value
 
 (30) involves an extra set of computations that is not required with the backward approach.
 
-## With many securities to value
+# With many securities to value
 
-## however
+however
 
 the "forward approach" can involve significant savings in computations.
 
 Numerical Solution of the Pricing Semi-Group
 
-### In the tridiagonal system (33)-(35)
+In the tridiagonal system (33)-(35)
 
 we have d_j = C_j Ψ_{j-1} for the tridiagonal matrix
 
@@ -25190,15 +25188,15 @@ the associated approximate state-price matrix Ψ is given by
 
 where e_1 is given by (34).
 
-## This means that
+# This means that
 
-## given the semi-group Π
+given the semi-group Π
 
 the state prices associated with any given initial state can be obtained without repeated solution of the tridiagonal equations (37).
 
-## Second
+# Second
 
-### given any payoff functions h and g
+given any payoff functions h and g
 
 the N x M matrix F* approximating the solution f to (14)-(15) is easily characterized as follows.
 
@@ -25206,7 +25204,7 @@ For any j and k > j, we have
 
 f(x_i, t_j) ≈ Σ_{m=j+1}^k h(x_i
 
-## t_m) ψ_{im} Δt + Ψ_{ik} g(x_i
+t_m) ψ_{im} Δt + Ψ_{ik} g(x_i
 
 t_k), (41)
 
@@ -25214,7 +25212,7 @@ where H_m is the vector in ℝ^N with h(x_i
 
 t_m)Δt as its i-th element.
 
-## In particular
+# In particular
 
 (41) applies with k = M and the boundary condition F_{iM} = g(x_i
 
@@ -25224,29 +25222,29 @@ The close parallel between (41) and the Markov chain valuation equation (3.
 
 One can indeed approximate the solution X to the SDE dX_t = μ(X_t
 
-## t) dt + σ(X_t
+t) dt + σ(X_t
 
 t) dB_t with that of an N-state Markov chain having transition matrix q^j at period j ∈ {1
 
 , M} given by
 
-### q_{ik}^j = ν_i P(X_{t_j} ∈ [x_k - Δx/2
+q_{ik}^j = ν_i P(X_{t_j} ∈ [x_k - Δx/2
 
 x_k + Δx/2] | X_{t_{j-1}} = x_i).
 
-## (42)
+(42)
 
 A source given in the Notes gives the sense of this approximation and further details on this connection between continuous and discrete pricing.
 
 The parallel with the discrete-time case extends to the pricing of American securities.
 
-## Using the semi-group approach
+# Using the semi-group approach
 
 one can replace the backward difference equation (29) for the American security described in Section J with the backward equation
 
-## V_i = max( Π_{j+1
+V_i = max( Π_{j+1
 
-## j} (V_{j+1} + H_{j+1})
+j} (V_{j+1} + H_{j+1})
 
 G_i ), (43)
 
@@ -25258,7 +25256,7 @@ Equation (3.
 
 21) gives the exact discrete-time version of this American valuation algorithm.
 
-### Fitting the Initial Term Structure
+# Fitting the Initial Term Structure
 
 In the context of the term-structure model (22)
 
@@ -25266,7 +25264,7 @@ there are many practical applications in which the initial term structure is giv
 
 with p_j denoting the price at time 0 of a unit pure discount bond maturing at t_j.
 
-## (In practice
+(In practice
 
 p is often obtained from the prices of coupon bonds by spline methods cited in the Notes of Chapter 7.
 
@@ -25274,21 +25272,21 @@ p is often obtained from the prices of coupon bonds by spline methods cited in t
 
 the functions μ and σ determining the risk-neutral behavior of the short rate will not
 
-## in general
+in general
 
 generate a term structure consistent with the market data p.
 
-## Suppose
+# Suppose
 
-## however
+however
 
-## that for each t
+that for each t
 
-## the functions y(·
+the functions y(·
 
-## t) and o(·
+t) and o(·
 
-## t) depend
+t) depend
 
 on a free parameter A(t).
 
@@ -25296,13 +25294,13 @@ One can imagine choosing the function A in
 
 order to match the solution of the term structure to that given by p.
 
-## example
+example
 
 one could extend the CIR model (28) by replacing the constant
 
-## x with A(t)
+x with A(t)
 
-## and then choose A(t₁)
+and then choose A(t₁)
 
 A(t₂), .
 
@@ -25314,7 +25312,7 @@ One can imagine a number of different numerical approaches to this
 
 term-structure matching procedure.
 
-### One that has been suggested by a
+# One that has been suggested by a
 
 source cited in the Notes is based on the numerical solution p for state
 
@@ -25322,21 +25320,21 @@ prices.
 
 Using the fact that Σ_{i} W_i approximates p
 
-## the proposed algo-
+the proposed algo-
 
 rithm for A is given by the following steps.
 
 (a) Let j = 2.
 
-### (b) Search for that number A(t_j) such
+(b) Search for that number A(t_j) such
 
-## given p_{j-1}
+given p_{j-1}
 
-## we have
+we have
 
 p(A(t_j), W_j) = P_j(44)
 
-## where p(A(t_j)
+where p(A(t_j)
 
 W_j) = P_j is notation indicating the depen-
 
@@ -25348,35 +25346,35 @@ This one-dimensional search could be conducted by a
 
 Newton-Raphson iterative method.
 
-## (c) Let j be increased by 1
+(c) Let j be increased by 1
 
 and return to step (b) if j < M.
 
-## Other-
+# Other-
 
 wise, stop.
 
 In order for the numerical search for A(t_j) in step (44) to succeed
 
-### for the solution to be uniquely defined
+for the solution to be uniquely defined
 
-## the model should be such that
+the model should be such that
 
 p(A(t_j)) is a strictly monotonic continuous function with range (0
 
 This is true for the CIR example given above
 
-## in which x is replaced in
+in which x is replaced in
 
 (28) with A(t).
 
 One could match additional parameters to market data on the prices
 
-## of derivative securities
+of derivative securities
 
 such as options.
 
-### The idea is to obtain better "cali-
+The idea is to obtain better "cali-
 
 bration" with the market in order, in principle, to obtain higher accuracy
 
@@ -25386,39 +25384,39 @@ For example, one can extend by
 
 taking A to be an R²-valued function specifying two free parameters
 
-## to be
+to be
 
 matched against the initial term structure of bond prices as well as the ini-
 
 tial "volatility structure" implicit in bond-option prices
 
-## an approach taken
+an approach taken
 
 in papers cited in the Notes.
 
-## --- Page 168 ---
+--- Page 168 ---
 
-## 316 12. Numerical Methods
+316 12. Numerical Methods
 
-## Of course
+# Of course
 
-## with the passage of time
+with the passage of time
 
-## the "matched" model will fall
+the "matched" model will fall
 
-## out of calibration
+out of calibration
 
 implying that the free parameter vector A was in fact
 
 inappropriate.
 
-## In typical practice
+# In typical practice
 
-### a new set of free parameters is cho-
+a new set of free parameters is cho-
 
 sen, and valuation proceeds again.
 
-### This process of routine reparameter-
+# This process of routine reparameter-
 
 ization is theoretically inconsistent (and
 
@@ -25426,29 +25424,29 @@ to the author's knowledge, has
 
 been applied with relatively little econometric sophistication)
 
-## but seems
+but seems
 
 to some degree unavoidable.
 
-### The "name of the game" is apparently to
+The "name of the game" is apparently to
 
 specify an accurate term-structure model that is both tractable and rela-
 
 tively stable over time.
 
-## Exercises
+# Exercises
 
-## 1 Prove Proposition A
+1 Prove Proposition A
 
 using the Lindeberg-Feller Central Limit Theorem
 
 given in Appendix C.
 
-## 2 Show
+2 Show
 
-## as claimed in Section B
+as claimed in Section B
 
-### that the perunitoftime risk-neutralized
+that the perunitoftime risk-neutralized
 
 mean M and variance V_t converge to r − σ²/2 and σ²
 
@@ -25474,7 +25472,7 @@ Nicholson derivative approximations.
 
 The continuous-time version of the Black-Derman-Toy model shown in Exercise
 
-### 7.1 has the short-rate process r given by
+# 7.1 has the short-rate process r given by
 
 r_t = U(t) exp[B(t) B(d)],
 
@@ -25498,7 +25496,7 @@ t ∈ {0,1,.
 
 }, a_t and b_t are strictly positive constants
 
-## and X_t is a shock process
+and X_t is a shock process
 
 with the property that, for all t,
 
@@ -25516,7 +25514,7 @@ coefficients for the discrete-time Black-Derman-Toy model with the property that
 
 for each t ∈ {1,2,.
 
-### r_t = a_t^n exp(b_t^n X_{nt}) → r_t
+r_t = a_t^n exp(b_t^n X_{nt}) → r_t
 
 or convergence in distribution of the discrete-time model with n time periods per
 
@@ -25524,15 +25522,15 @@ unit of calendar time to the continuous-time model.
 
 Hint: Use the Continuous
 
-## Mapping Theorem
+# Mapping Theorem
 
 and the fact that z → U(t) exp(B(t)z) defines a continuous
 
 function on R into R.
 
-## We can write
+# We can write
 
-## r_t = U(t) exp[B(t) Z_t]
+r_t = U(t) exp[B(t) Z_t]
 
 where Z_t = (1/√n) Σ_{i=1}^{nt} Y_i and Y_i are i.
 
@@ -25544,119 +25542,119 @@ X_{nt} = √n (b_t^n)⁻¹ (log Z_t − log U(t)) → Z
 
 where Z is normally distributed with mean zero and variance t.
 
-## Make use of the
+# Make use of the
 
 Central Limit Theorem to design {a_t^n} and {b_t^n} accordingly.
 
-## Notes
+# Notes
 
 (A) Standard references on probability theory include Chung (1974)
 
-## Chow and
+# Chow and
 
-## Teicher (1978)
+Teicher (1978)
 
-## Billingsley (1986)
+Billingsley (1986)
 
-## and Durrett (1991)
+and Durrett (1991)
 
-## all of which include the
+all of which include the
 
 law of large numbers and the Central Limit Theorem.
 
 (B-C) The convergence of the binomial model of option pricing to the Black-
 
-## Scholes model is due to Cox
+# Scholes model is due to Cox
 
 Ross, and Rubinstein (1979).
 
-## Extensions of this
+# Extensions of this
 
-### approach can be found in Amin (1991
+approach can be found in Amin (1991
 
-## 1993b)
+1993b)
 
-## Bertsimas
+# Bertsimas
 
 Kogan, and Lo (1998)
 
-## Clewlow and Carverhill (1995)
+Clewlow and Carverhill (1995)
 
-## Cutland
+# Cutland
 
 Kopp, and Willinger (1991
 
-## 1993a)
+1993a)
 
-## Diener and Diener (1999)
+Diener and Diener (1999)
 
-## Duffie (1988c)
+Duffie (1988c)
 
-## Duffie and Protter (1988)
+Duffie and Protter (1988)
 
-## He (1990
+He (1990
 
 1991), Heston and Zhou (1997)
 
-### Hubalek and Schachermayer (1998)
+Hubalek and Schachermayer (1998)
 
-## Lamberton
+# Lamberton
 
-## and Pagés (1990)
+and Pagés (1990)
 
-## Lamberton (1997)
+Lamberton (1997)
 
 Lesne, Prigent
 
-## and Scaillet (2000)
+and Scaillet (2000)
 
-## (1991)
+(1991)
 
 Madan, Milne
 
-## and Shefrin (1989)
+and Shefrin (1989)
 
-## Nelson and Ramaswamy (1989)
+Nelson and Ramaswamy (1989)
 
-## Prigent (1995)
+Prigent (1995)
 
-## Rogers and Stapleton (1998)
+Rogers and Stapleton (1998)
 
-## Willinger and Taqqu (1991)
+Willinger and Taqqu (1991)
 
-## Eberlein (1991)
+Eberlein (1991)
 
 among many other papers.
 
-### For other numerical procedures
+# For other numerical procedures
 
-### see Gerber and Shiu (1994) and Levy
+see Gerber and Shiu (1994) and Levy
 
 Avellaneda, and Paras (1994).
 
-## Broadie
+# Broadie
 
-## Glasserman
+# Glasserman
 
-## and Kou (1997
+and Kou (1997
 
-## 1999) treat
+1999) treat
 
 discretization errors for path-dependent options and barrier options.
 
-## Curran
+# Curran
 
-## (1996) and Glasserman
+(1996) and Glasserman
 
-## Heidelberger
+# Heidelberger
 
-### and Shahabuddin (1999) discuss impor-
+and Shahabuddin (1999) discuss impor-
 
 tance sampling for path-dependent option valuation.
 
-## Fournié and Lasry (1996)
+Fournié and Lasry (1996)
 
-## and Fournié
+and Fournié
 
 Lasry, and Touzi (1996) also treat importance sampling with pricing
 
@@ -25664,23 +25662,23 @@ applications.
 
 On approximation methods for Asian options
 
-## see Chalasani
+see Chalasani
 
 Jha, and Varikooty (1998)
 
 Fu, Madan
 
-## and Wang (1999)
+and Wang (1999)
 
-## and Zvan
+and Zvan
 
-## Forsyth
+# Forsyth
 
 Vetzal (1998).
 
-## --- Page 169 ---
+--- Page 169 ---
 
-## 318 12. Numerical Methods
+318 12. Numerical Methods
 
 (D-E) This section is based on Talay and Tubaro (1990).
 
@@ -25688,41 +25686,41 @@ Milshtein (1974,
 
 1978) introduced second-order discretization schemes such as (8).
 
-## Bally and
+# Bally and
 
-## Talay (1996)
+Talay (1996)
 
-## and Talay (1984
+and Talay (1984
 
 1986, 1990) provide more advanced second-order
 
 schemes for discretization of stochastic differential equations in Rⁿ.
 
-## See also
+# See also
 
-## Bernard
+# Bernard
 
 Talay, and Tubaro (1994)
 
-## Kusuoka (1999a)
+Kusuoka (1999a)
 
-## Newton (1990)
+Newton (1990)
 
-## and Török
+and Török
 
 (1993) in this regard.
 
-### On discretization of backward SDEs
+# On discretization of backward SDEs
 
-## see Chevance (1995
+see Chevance (1995
 
-## 1996) and Douglas
+1996) and Douglas
 
 Ma, and Protter (1996).
 
 (F) This section is based on Duffie and Glynn (1995)
 
-## where additional details
+where additional details
 
 may be found.
 
@@ -25730,15 +25728,15 @@ The first edition of this book took a different approach to the
 
 trade-off between number of simulations and number of time steps
 
-## based on the
+based on the
 
-## Large Deviations Theorem
+# Large Deviations Theorem
 
 which is described by Durrett (1991).
 
-## (G) Boyle
+(G) Boyle
 
-## Broadie
+# Broadie
 
 and Glasserman (1997) offer a general survey of pric-
 
@@ -25748,7 +25746,7 @@ The smooth approximation g_ε in Section G
 
 of the call payoff function appears in Duffie (1988c)
 
-## and was related to the
+and was related to the
 
 author by Stephen Smale.
 
@@ -25756,39 +25754,39 @@ Various applications of the Monte Carlo estimation of
 
 derivative asset prices and hedging are given by Andersen (1996)
 
-## Avellaneda
+# Avellaneda
 
 Buff, Friedman
 
-## Grandchamp
+# Grandchamp
 
 Kruk, and Newman (1999)
 
-## Barraquand (1993)
+Barraquand (1993)
 
-## Boyle (1977
+Boyle (1977
 
 1988, 1990)
 
 Boyle, Evnine
 
-## and Gibbs (1989)
+and Gibbs (1989)
 
-## Glasserman and
+# Glasserman and
 
-## Zhao (1999)
+Zhao (1999)
 
-## Fournié (1993)
+Fournié (1993)
 
-## Jones and Jacobs (1986)
+Jones and Jacobs (1986)
 
-## and Schoenmakers and
+and Schoenmakers and
 
 Heemink (1996).
 
 For the simulation of hedging coefficients
 
-### or "deltas" andother derivatives
+or "deltas" andother derivatives
 
 see Clewlow and Carverhill (1992) and Broadie and Glasserman
 
@@ -25796,31 +25794,31 @@ see Clewlow and Carverhill (1992) and Broadie and Glasserman
 
 For "quasi-Monte Carlo" simulation methods
 
-## with finance applications
+with finance applications
 
-### see Caflisch and Morokoff (1995
+see Caflisch and Morokoff (1995
 
 1996), Caflisch
 
-## Morokoff
+# Morokoff
 
-## and Owen (1997)
+and Owen (1997)
 
-### Chidambaran and Figlewski (1995)
+Chidambaran and Figlewski (1995)
 
 Joy, Boyle
 
-## and Tan (1996)
+and Tan (1996)
 
-## Morokoff and
+# Morokoff and
 
-## Caflisch (1993
+Caflisch (1993
 
 1994, 1995)
 
 and Moskowitz and Caflisch (1994).
 
-## Owen (1996
+Owen (1996
 
 1997) and Owen and Tavella (1996) apply scrambled-net methods
 
@@ -25830,29 +25828,29 @@ to pricing and risk calculations.
 
 difference methods.
 
-## Mitchell and Griffiths (1980)
+Mitchell and Griffiths (1980)
 
-## Smith (1985)
+Smith (1985)
 
-## and Strikwerda
+and Strikwerda
 
 (1989) are basic treatments of the finite-difference solution of PDEs.
 
-## Computer
+# Computer
 
 code for the solution of tridiagonal systems of equations such as (18) is given by
 
 Press, Flannery
 
-## Teukolsky
+# Teukolsky
 
 and Vetterling (1993).
 
-## An example of a more advanced
+# An example of a more advanced
 
 finite-difference approach is given by Lawson and Morris (1978).
 
-## Schwartz (1977)
+Schwartz (1977)
 
 introduced the use of finite-difference methods to the solution of asset pricing in
 
@@ -25862,11 +25860,11 @@ Andreasen (1998) applies finite-difference methods to lookback options.
 
 For more examples of finite-difference methods with financial applications
 
-## Clewlow (1990) and Druskin
+Clewlow (1990) and Druskin
 
-## Knizhnerman
+# Knizhnerman
 
-## Tamarchenko
+# Tamarchenko
 
 and Kostek (1997).
 
@@ -25898,7 +25896,7 @@ Dewynne and Wilmott (1994) provide example
 
 applications to exotic options.
 
-## Barles
+# Barles
 
 Daher, and Romano (1992) examine the
 
@@ -25908,21 +25906,21 @@ Nelson and Ramaswamy (1989) treat finite-difference methods that are
 
 based on replacing the underlying stochastic differential equation with a Markov
 
-### chain that has binomial transitions
+chain that has binomial transitions
 
 extending the range of application of the
 
 binomial approach.
 
-## Kishimoto (1989)
+Kishimoto (1989)
 
-## Stanton (1990)
+Stanton (1990)
 
-## and Stanton and Wallace
+and Stanton and Wallace
 
 (1995) numerically solve path-dependent security prices
 
-## such as mortgage-backed
+such as mortgage-backed
 
 securities.
 
@@ -25936,9 +25934,9 @@ numerical option-pricing solutions.
 
 options is a delicate issue that is treated by Jaillet
 
-## Lamberton
+# Lamberton
 
-## and Lapeyre (1988
+and Lapeyre (1988
 
 1990).
 
@@ -25946,7 +25944,7 @@ An early variation of this algorithm for the Black-Scholes (log-normal)
 
 put option problem is found in Brennan and Schwartz (1977).
 
-## The methods of
+# The methods of
 
 Chernoff and Petkau (1984) also give a practical accurate numerical approxima-
 
@@ -25954,75 +25952,75 @@ tion to the American put value.
 
 For further results on the numerical valuation
 
-## of American-style securities
+of American-style securities
 
-## see Ait-Sahlia and Lai (1996)
+see Ait-Sahlia and Lai (1996)
 
-## Amin (1991)
+Amin (1991)
 
-## Amin
+# Amin
 
-## and Khanna (1994)
+and Khanna (1994)
 
-### Andreasen and Gruenewald (1996)
+Andreasen and Gruenewald (1996)
 
-## Barraquand and Pudet
+# Barraquand and Pudet
 
-## (1996)
+(1996)
 
-### Barraquand and Martineau (1995)
+Barraquand and Martineau (1995)
 
-### Bjerksund and Stensland (1993)
+Bjerksund and Stensland (1993)
 
-## Broadie and Detemple (1994)
+Broadie and Detemple (1994)
 
-## Broadie and Glasserman (1996
+Broadie and Glasserman (1996
 
 1997, 1998)
 
-## Bunch and Johnson (1993)
+Bunch and Johnson (1993)
 
-## Büttler (1995)
+Büttler (1995)
 
-## Büttler and Waldvogel (1996)
+Büttler and Waldvogel (1996)
 
-## Carr
+# Carr
 
 (1994, 1998)
 
-## Carr and Faguet (1994)
+Carr and Faguet (1994)
 
-## Clarke and Parrott (1996)
+Clarke and Parrott (1996)
 
-## Dempster
+# Dempster
 
-## (1994)
+(1994)
 
-## Dempster and Hutton (1997)
+Dempster and Hutton (1997)
 
-## Gandhi
+# Gandhi
 
-## Kooros
+# Kooros
 
-## and Salkin (1993)
+and Salkin (1993)
 
 Gao,
 
 Huang, and Subrahmanyam (1996)
 
-## Ibanez and Zapatero (1999)
+Ibanez and Zapatero (1999)
 
-## Lamberton
+# Lamberton
 
-## (1997)
+(1997)
 
-## Lee (1990)
+Lee (1990)
 
-## Longstaff and Schwartz (1998)
+Longstaff and Schwartz (1998)
 
-## Wu (1996)
+Wu (1996)
 
-## and Zhang
+and Zhang
 
 (1993).
 
@@ -26030,7 +26028,7 @@ Huang, and Subrahmanyam (1996)
 
 appears in the literature under such labels as path integrals
 
-## as in Dash (1989)
+as in Dash (1989)
 
 Green's function, as in Beaglehole (1990) who calculates the fundamental solu-
 
@@ -26050,53 +26048,53 @@ ture.
 
 Subsequent work in this vein can be found in Black
 
-## Derman
+# Derman
 
-## and Toy (1990)
+and Toy (1990)
 
-## Dybvig (1988)
+Dybvig (1988)
 
-## Hull and White (1990a
+Hull and White (1990a
 
 1994), and Jamshidian (1991c).
 
-## Further
+# Further
 
 references are given in the Notes to Chapter 7.
 
 The Newton-Raphson search, and
 
-### other numerical optimization techniques
+other numerical optimization techniques
 
-### can be found in Luenberger (1984) and
+can be found in Luenberger (1984) and
 
 Press, Flannery
 
-## Teukolsky
+# Teukolsky
 
 and Vetterling (1993).
 
-## Additional Topics
+# Additional Topics
 
 On numerical methods for valuation of interest-rate options
 
 in addition to sources cited in Chapter 7
 
-### see Clewlow and Strickland (1996)
+see Clewlow and Strickland (1996)
 
-## Clewlow
+# Clewlow
 
 Pang, and Strickland (1997)
 
-## Kunitomo and Takahashi (1996)
+Kunitomo and Takahashi (1996)
 
-## Ritchken
+# Ritchken
 
-## and Sankarasubramanian (1995)
+and Sankarasubramanian (1995)
 
-## Nielsen and Sandmann (1996)
+Nielsen and Sandmann (1996)
 
-## Scott
+# Scott
 
 (1996a), and Topper (1997).
 
@@ -26104,11 +26102,11 @@ For numerical methods for HJM models in partic-
 
 ular, see Brace (1996)
 
-## Chiarella and Hassan (1997)
+Chiarella and Hassan (1997)
 
 Heath, Jarrow
 
-## and Morton
+and Morton
 
 (1990, 1992a
 
@@ -26116,7 +26114,7 @@ b), and Ritchken and Trevor (1999).
 
 On the numerical valuation of convertible debt
 
-## see Pikovsky and Shreve
+see Pikovsky and Shreve
 
 (1996a) and Zhu and Sun (1999).
 
@@ -26126,27 +26124,27 @@ programming problems.
 
 Examples in the literature include Judd (1989)
 
-## Tauchen
+# Tauchen
 
-## and Hussey (1991)
+and Hussey (1991)
 
-## and Gagnon and Taylor (1990)
+and Gagnon and Taylor (1990)
 
-## who treat discrete-time
+who treat discrete-time
 
-## models
+models
 
-### and Fitzpatrick and Fleming (1991)
+and Fitzpatrick and Fleming (1991)
 
-## Fleming and Soner (1993)
+Fleming and Soner (1993)
 
-## Munk
+# Munk
 
 (2000a), and Prigent (1994).
 
 A free-boundary problem that arises with investment
 
-### under durability is treated by Hindy
+under durability is treated by Hindy
 
 Huang, and Zhu (1993
 
@@ -26154,9 +26152,9 @@ Huang, and Zhu (1993
 
 Numerical computation of equilibria is treated by Kubler and Schmedders
 
-## (1997)
+(1997)
 
-## Marcet (1993)
+Marcet (1993)
 
 and Marcet and Marshall (1994).
 
@@ -26164,7 +26162,7 @@ Fourier transform methods for derivative pricing are discussed in Chapter 8.
 
 See also Carr and Madan (1998) and Rebonato and Cooper (1996).
 
-## Applications
+# Applications
 
 of Malliavin calculus to asset pricing and hedging are addressed by Fournié
 
@@ -26172,21 +26170,21 @@ Lasry,
 
 Lebuchoux, Lions, and Touzi (1999).
 
-## Eydeland (1994a
+Eydeland (1994a
 
 b) provides alternative numerical methods for some of the
 
 derivative valuation problems addressed here.
 
-### Bouleau and Lépingle (1994) is a
+Bouleau and Lépingle (1994) is a
 
 general treatment of numerical methods for stochastic problems.
 
-## Appendixes
+# Appendixes
 
-## A
+A
 
-## Finite-State Probability
+# Finite-State Probability
 
 Suppose Ω is a finite set.
 
@@ -26194,13 +26192,13 @@ A tribe on Ω is a collection ℱ of subsets of Ω that
 
 includes the empty set ∅ and that satisfies the following two conditions
 
-## (a) if B is in ℱ
+(a) if B is in ℱ
 
-## then its complement {ω ∈ Ω
+then its complement {ω ∈ Ω
 
-## ω ∉ B} is also in ℱ
+ω ∉ B} is also in ℱ
 
-## (b) if A and B are in ℱ
+(b) if A and B are in ℱ
 
 their union A ∪ B is in ℱ.
 
@@ -26208,11 +26206,11 @@ A tribe ℱ is also known as an algebra or field
 
 among other terms.
 
-## When Ω
+When Ω
 
 is to be thought of as the states of the world
 
-## the elements of ℱ are called
+the elements of ℱ are called
 
 events.
 
@@ -26220,15 +26218,15 @@ Conditions (a) and (b) allow for simple logical rules regarding
 
 the probabilities of events.
 
-## Specifically
+# Specifically
 
-### a probability measure is a function
+a probability measure is a function
 
 P: ℱ → [0
 
-## 1] satisfying P(∅) = 0
+1] satisfying P(∅) = 0
 
-## P(Ω) = 1
+P(Ω) = 1
 
 and, for any disjoint events
 
@@ -26236,7 +26234,7 @@ A and B,
 
 P(A ∪ B) = P(A) + P(B).
 
-## Under P
+# Under P
 
 an event B has probability P(B).
 
@@ -26244,41 +26242,41 @@ A pair (Ω, ℱ) consisting of a
 
 finite set Ω and a tribe ℱ on Ω is called a measurable space.
 
-## With the
+# With the
 
 addition of a probability measure P on ℱ
 
-## the triple (Ω
+the triple (Ω
 
 ℱ, P) is a called
 
 a probability space.
 
-## Fixing a measurable space (Ω
+Fixing a measurable space (Ω
 
 ℱ), a random variable is a function X
 
 X(ω) = x} is in ℱ.
 
-## Intuitively
+# Intuitively
 
-## X is a random variable if
+# X is a random variable if
 
-## for any possible
+for any possible
 
-## outcome x
+outcome x
 
 we will know whether X has this outcome from knowing the
 
 outcomes (true or false) of the events in ℱ.
 
-### If X is a random variable with
+# If X is a random variable with
 
-## respect to (Ω
+respect to (Ω
 
 ℱ), we also say that X is ℱ-measurable.
 
-## Since Ω is finite
+Since Ω is finite
 
 for any random variable X there are events
 
@@ -26290,23 +26288,23 @@ wherethe indicator function 1_B for an event B is defined by 1_B(ω) = 1 for ω 
 
 and 1_B(ω) = 0 otherwise.
 
-## Given a probability measure P
+# Given a probability measure P
 
-## the expectation
+the expectation
 
-## of X is then defined by
+of X is then defined by
 
 E(X) = a₁ P(B₁) + … + aₙ P(Bₙ), (A.
 
 merely the probability-weighted average of the outcomes.
 
-## For a probability space (Ω
+For a probability space (Ω
 
 ℱ, P) with Ω finite
 
-## if 𝒢 is a tribe on Ω that
+if 𝒢 is a tribe on Ω that
 
-## is contained by ℱ
+is contained by ℱ
 
 then 𝒢 represents in some sense “less information
 
@@ -26316,33 +26314,33 @@ For any ℱ-measurable random variable X,
 
 the conditional expectation of X given a subtribe 𝒢 of ℱ is defined as any
 
-### 𝒢-measurable random variable Y
+𝒢-measurable random variable Y
 
-### satisfying the property that E(XZ) =
+satisfying the property that E(XZ) =
 
 E(YZ) for any 𝒢-measurable random variable Z.
 
-## We let E(X | 𝒢) denote
+We let E(X | 𝒢) denote
 
 this conditional expectation.
 
-### The law of iterated expectations
+# The law of iterated expectations
 
-## also called
+also called
 
-## the tower property
+the tower property
 
 states that if 𝒢 is a subtribe of another subtribe ℋ
 
-## then for
+then for
 
-## any random variable X
+any random variable X
 
 E[E(X | ℋ) | 𝒢] = E(X | 𝒢).
 
 If Z is a nonnegative random variable with E(Z) = 1
 
-## then we can
+then we can
 
 create a new probability measure Q from the old probability measure P
 
@@ -26352,31 +26350,31 @@ In this case, we write dQ/dP,
 
 and call Z the Radon-Nikodym derivative of Q with respect to P.
 
-## It also
+# It also
 
 follows that, for any random variable X,
 
 E^Q(X) = E^P(ZX),
 
-### where E^Q denotes expectation under Q
+where E^Q denotes expectation under Q
 
 and likewise for E^P.
 
-## If Q(B) > 0
+If Q(B) > 0
 
-## whenever P(B) > 0
+whenever P(B) > 0
 
-## and vice versa
+and vice versa
 
-### then P and Q are said to be equivalent
+then P and Q are said to be equivalent
 
-## measures
+measures
 
 they have the same events of probability zero.
 
 If 𝒢 is a subtribe of ℱ and Q is equivalent to P
 
-## then
+then
 
 E^Q(Z | 𝒢) = E^P(Z dQ/dP | 𝒢), (A.
 
@@ -26400,19 +26398,19 @@ Suppose there are multiple periods given by a set 𝒥 of times such as
 
 {0,1,…, T} or {0,1,…}.
 
-## A filtration 𝔽 = (ℱ_t
+A filtration 𝔽 = (ℱ_t
 
-## t ∈ 𝒥) of subtribes of ℱ is
+t ∈ 𝒥) of subtribes of ℱ is
 
-## usually given
+usually given
 
 as described in Section 2A.
 
-### We always assume that ℱ_s ⊂ ℱ_t
+We always assume that ℱ_s ⊂ ℱ_t
 
 whenever s < t.
 
-## Given 𝔽
+Given 𝔽
 
 a stopping time is a random variable τ taking values
 
@@ -26422,31 +26420,31 @@ The event τ = +∞ is allowed for convenience.
 
 For example, if
 
-### two processes X and Y are not the same
+two processes X and Y are not the same
 
-## then the stopping time τ =
+then the stopping time τ =
 
 inf{t : X_t ≠ Y_t} has a strictly positive probability of being finite valued
 
 may also have a strictly positive probability of being +∞.
 
-## (We follow the
+(We follow the
 
 usual convention that the infimum of the empty set is +∞.
 
-## ) A stopping
+) A stopping
 
 time τ is nontrivial if P(τ = +∞) < 1.
 
-### A martingale can be defined as in
+# A martingale can be defined as in
 
-## Section 2A
+# Section 2A
 
 or alternatively as any 𝔽-adapted process X such that
 
-## for any
+for any
 
-## bounded stopping time τ
+bounded stopping time τ
 
 we have E(X_τ) = E(X_0).
 
@@ -26454,13 +26452,13 @@ The tribe ℱ_τ of events known at a finite-valued stopping time τ allows
 
 us to define the conditional expectation E_τ(·) = E(· | ℱ_τ).
 
-## We define ℱ_τ
+We define ℱ_τ
 
 to include any event A with the property that
 
-## for any time t
+for any time t
 
-## the event
+the event
 
 A ∩ {ω : τ(ω) ≤ t} is in ℱ_t.
 
@@ -26470,35 +26468,35 @@ E_t(X_s) for all t and s > t.
 
 It is known that a supermartingale X can be
 
-### decomposed as the sum X = M − A
+decomposed as the sum X = M − A
 
-### where M is a martingale and A is
+where M is a martingale and A is
 
-### an increasing process with A_0 = 0
+an increasing process with A_0 = 0
 
-## and such that
+and such that
 
-## for each t < T
+for each t < T
 
-## A_{t+1} is
+A_{t+1} is
 
 ℱ_t-measurable.
 
-## Likewise
+# Likewise
 
 a submartingale is an adapted process X such that
 
 −X is a supermartingale.
 
-## B
+B
 
-## Separating Hyperplanes and
+# Separating Hyperplanes and
 
-## Optimality
+# Optimality
 
 THIS APPENDIX REVIEWS some applications of the following result.
 
-## Basic
+# Basic
 
 references are Rockafeller (1973) and Luenberger (1984).
 
@@ -26512,17 +26510,17 @@ There is some nonzero linear functional F such that F(x) < F(y) for
 
 each x in A and y in B.
 
-## Moreover
+# Moreover
 
 if x is in the interior of A or y is in the interior
 
 of B, then F(x) < F(y).
 
-## Furthermore
+# Furthermore
 
-### if A is closed and B is compact
+if A is closed and B is compact
 
-## then F can
+then F can
 
 be chosen so that F(x) < F(y) for all x in A and y in B.
 
@@ -26544,43 +26542,43 @@ M and each nonzero y in K.
 
 Proof: We can assume without loss of generality that K ≠ {0}.
 
-## Let C be
+# Let C be
 
-## the convex hull (that is
+the convex hull (that is
 
 the set of all convex combinations) of {y ∈ K
 
 ‖y‖ = 1}.
 
-## As C is a compact subset of K
+# As C is a compact subset of K
 
-## and K contains no lines
+and K contains no lines
 
-## we know that
+we know that
 
 C and M are disjoint.
 
-### By the Separating Hyperplane Theorem
+# By the Separating Hyperplane Theorem
 
-## there is a
+there is a
 
 nonzero linear functional F such that F(x) < F(y) for all x in M and y in
 
-## As 0 is in M
+# As 0 is in M
 
 we have F(y) > 0 for all y in C.
 
-## For any nonzero element
+# For any nonzero element
 
-## z of K
+z of K
 
 we have z = λy for some y in C and some strictly positive scalar λ.
 
 The result follows.
 
-## ‘This proof
+‘This proof
 
-## due to Lasse Pedersen
+due to Lasse Pedersen
 
 is simpler than that of the second edition.
 
@@ -26590,11 +26588,11 @@ Saddle Point Theorem for optimality.
 
 A concave program is a triple (U, X, g)
 
-## of the form
+of the form
 
 sup U(x) subject to g(x) ≤ 0, (B.
 
-## x∈X
+x∈X
 
 where X is a convex subset of some vector space
 
@@ -26604,15 +26602,15 @@ cave, and g
 
 X → ℝᵐ is convex for some integer m.
 
-## The Lagrangian for
+# The Lagrangian for
 
 (U, X, g) is the function L
 
-## X × ℝᵐ → ℝ defined by L(x
+X × ℝᵐ → ℝ defined by L(x
 
-## λ) = U(x) −
+λ) = U(x) −
 
-## dle point
+dle point
 
 we often term λ₀ a Lagrange multiplier for problem (B.
 
@@ -26634,35 +26632,35 @@ If x₀ solves (B.
 
 1), then
 
-## Moreover
+# Moreover
 
-## λ₀⁺ g(x₀) = 0
+λ₀⁺ g(x₀) = 0
 
 which is called the complementary slack-
 
 ness condition.
 
-## (Sufficiency) If (x₀
+(Sufficiency) If (x₀
 
-## λ₀) is a saddle point of L
+λ₀) is a saddle point of L
 
 then x₀ solves (B.
 
 Proof: For the first part of the result
 
-## let L = ℝ × ℝᵐ
+let L = ℝ × ℝᵐ
 
 C(r,z) = {x ∈ X
 
-## r ≤ U(x)
+r ≤ U(x)
 
-## z ≥ λ⁺ g(x)}
+z ≥ λ⁺ g(x)}
 
-## and let
+and let
 
 A = {(r,z) : C(r,z) ≠ ∅}
 
-## and
+and
 
 B = {(r,z) : r > U(x), z < 0}.
 
@@ -26674,15 +26672,15 @@ By the fact that x₀ solves (B.
 
 B are disjoint.
 
-### By the Separating Hyperplane Theorem
+# By the Separating Hyperplane Theorem
 
-## there is a linear
+there is a linear
 
-## functional F
+functional F
 
 L → ℝ such that F(v) < F(w) for each v in A and w in
 
-## It follows
+# It follows
 
 for any v in A and w in the closure of B
 
@@ -26690,23 +26688,23 @@ that F(v) ≤ F(w).
 
 There is some scalar a and λ in ℝᵐ such that
 
-## for any (r
+for any (r
 
-## z) in L
+z) in L
 
 have F(r,z) = ar + λ⁺ z.
 
-## Using the Slater condition
+# Using the Slater condition
 
-## we can check that
+we can check that
 
-### is in both A and the closure of B
+is in both A and the closure of B
 
-## that (x₀
+that (x₀
 
-## λ₀) is a saddle point
+λ₀) is a saddle point
 
-## and that
+and that
 
 complementary slackness holds.
 
@@ -26714,15 +26712,15 @@ The second part of the result is easy to show.
 
 Now we turn to first-order conditions for optimality.
 
-## Consider
+# Consider
 
 sup U(x), (B.
 
-## x∈X
+x∈X
 
 where X is a convex subset of a vector space L and U
 
-## X → ℝ is some
+X → ℝ is some
 
 function.
 
@@ -26732,133 +26730,133 @@ to solve (B.
 
 For x ∈ X, let
 
-## and
+and
 
 F(x) = {y ∈ L : Y(x, y) > 0},
 
 the set of feasible directions from x.
 
-### The derivative of U at some x in X in
+# The derivative of U at some x in X in
 
-## the direction y ∈ F(x)
+the direction y ∈ F(x)
 
-## if it exists
+if it exists
 
-## is defined as the limit
+is defined as the limit
 
-## U(x + αy) − U(x)
+U(x + αy) − U(x)
 
 ∂U(x; y) = lim (B.
 
-## α↓0 α
+α↓0 α
 
 This is sometimes known as the directional or Gateaux derivative.
 
-## If y ↦
+If y ↦
 
 ∂U(x; y) defines a linear function on F(x)
 
-### this function is called the gra-
+this function is called the gra-
 
-## If U is concave
+# If U is concave
 
-## ∇U(x*) exists
+∇U(x*) exists
 
-## and F(x*) = L
+and F(x*) = L
 
 then it is both necessary and sufficient for the optimality of x* that ∇U(x*) = 0.
 
 Necessity has been shown.
 
-## For sufficiency
+# For sufficiency
 
 concavity of U implies that for any x and y ∈ F
 
 U(y) − U(x) ≤ ∇U(x; y).
 
-## Taking x = x*
+Taking x = x*
 
 we have U(y) < U(x*) for all y.
 
 There are extensions of these results to the case of nondifferentiable U.
 
-## C
+C
 
-## Probability
+# Probability
 
 THIS APPENDIX EXTENDS the definitions of Appendix A to handle probability spaces with possibly infinitely many distinct events.
 
-### We also add some useful general results
+# We also add some useful general results
 
 such as the Dominated Convergence Theorem
 
-## the Central Limit Theorem
+the Central Limit Theorem
 
 and Fubini’s Theorem.
 
 A standard reference is Billingsley (1986).
 
-## Given a set Ω of states
+Given a set Ω of states
 
 a tribe on Ω is a collection ℱ of subsets of Ω that includes the empty set ∅ and that satisfies the following two conditions
 
-## (a) if B is in ℱ
+(a) if B is in ℱ
 
-## then its complement {ω ∈ Ω
+then its complement {ω ∈ Ω
 
-## ω ∉ B} is also in ℱ
+ω ∉ B} is also in ℱ
 
 A tribe is also known in this general context as a σ-algebra or σ-field.
 
-### For any collection 𝒮 of subsets of Ω
+For any collection 𝒮 of subsets of Ω
 
 the tribe generated by 𝒮 is the intersection of all tribes containing 𝒮.
 
 An important example is to take Ω = ℝⁿ and to let ℱ be the tribe generated by the open sets of ℝⁿ.
 
-## In this case
+# In this case
 
-### ℱ is known as the Borel tribe on ℝⁿ
+ℱ is known as the Borel tribe on ℝⁿ
 
 and is denoted ℬ(ℝⁿ).
 
-## The triple (Ω
+The triple (Ω
 
 ℱ, P) is a probability space.
 
 An event B is said to be almost sure if P(B) = 1.
 
-## For example
+# For example
 
-## “X = Y almost surely” means
+“X = Y almost surely” means
 
-## in formal notation
+in formal notation
 
-## that P({ω ∈ Ω
+that P({ω ∈ Ω
 
 X(ω) = Y(ω)}) = 1.
 
-## We sometimes write instead
+# We sometimes write instead
 
-## more informally
+more informally
 
 that “P(X = Y) = 1.
 
-## --- Page 175 ---
+--- Page 175 ---
 
-## 330 Appendix C
+330 Appendix C
 
 It is our practice throughout to take “X = Y” to mean merely that X = Y almost surely
 
 but the phrase “almost surely” is sometimes added for emphasis.
 
-## Given a probability space (Ω
+Given a probability space (Ω
 
 ℱ, P), a null set is a subset of an event of zero probability.
 
 In order to assign zero probability to null sets
 
-### the probability space can be completed
+the probability space can be completed
 
 which means that we can replace ℱ with the tribe ℱ⁻ generated by the union of ℱ and the set of all null sets.
 
@@ -26866,7 +26864,7 @@ The probability measure P then extends uniquely to a probability measure P⁻ on
 
 ℱ⁻) with the property that P⁻(A) = P(A) for all A in ℱ and P⁻(A) = 0 for any null set A.
 
-## The space (Ω
+The space (Ω
 
 ℱ⁻, P⁻) is called the completion of (Ω
 
@@ -26874,63 +26872,63 @@ The probability measure P then extends uniquely to a probability measure P⁻ on
 
 Suppose X is a random variable that can be written as a linear combination
 
-## X = a₁I_{B₁} + ⋯ + aₙI_{Bₙ}
+X = a₁I_{B₁} + ⋯ + aₙI_{Bₙ}
 
 of indicator functions.
 
 In this case, X is called simple.
 
-## As in the finite-state case
+# As in the finite-state case
 
 the expectation of X given a probability measure P on (Ω
 
-## ℱ) is defined by
+ℱ) is defined by
 
 E(X) = a₁ P(B₁) + ⋯ + aₙP(Bₙ),
 
 merely the probability-weighted average of the outcomes.
 
-### If X is not necessarily simple
+# If X is not necessarily simple
 
-### but is a nonnegative random variable
+but is a nonnegative random variable
 
-### then the expectation of X is defined as
+then the expectation of X is defined as
 
-### E(X) = sup { E(Y) subject to Y ≤ X }
+E(X) = sup { E(Y) subject to Y ≤ X }
 
-## Y∈ℱ
+Y∈ℱ
 
 where ℱ is the set of simple random variables.
 
-## More generally
+# More generally
 
 any random variable X may be written as X = X⁺ − X⁻
 
-## where X⁺ = max(X
+where X⁺ = max(X
 
-## 0) and X⁻ = max(−X
+0) and X⁻ = max(−X
 
 0); that is
 
 X is the difference between its positive and negative parts.
 
-### If both E(X⁺) and E(X⁻) are finite
+If both E(X⁺) and E(X⁻) are finite
 
-### then X is said to be integrable
+then X is said to be integrable
 
-### and its expectation is defined by
+and its expectation is defined by
 
 E(X) = E(X⁺) − E(X⁻), (C.
 
 which coincides with the definition for simple random variables when X is itself simple.
 
-### If X⁺ is integrable and X⁻ is not
+If X⁺ is integrable and X⁻ is not
 
-## we define E(X) = −∞
+we define E(X) = −∞
 
 and symmetrically define E(X) = +∞ when X⁻ is integrable and X⁺ is not.
 
-## Probability 331
+# Probability 331
 
 probability 1 such that Xₙ(ω) → X(ω) for all ω in B.
 
@@ -26946,13 +26944,13 @@ Suppose {Xₙ} is a sequence of random variables on a probability space with |X�
 
 where Y is a random variable with E(|Y|) < ∞.
 
-## Suppose
+# Suppose
 
-## almost surely
+almost surely
 
-## or in probability
+or in probability
 
-## or in distribution
+or in distribution
 
 that Xₙ converges to X.
 
@@ -26966,13 +26964,13 @@ so we could have stated the Dominated Convergence Theorem just for convergence i
 
 A sequence {Xₙ} of random variables on a given probability space is independently distributed if
 
-## for any finite subset {X_{n₁}
+for any finite subset {X_{n₁}
 
 , X_{n_k}} and any bounded measurable functions f_j
 
 ℝ → ℝ, 1 ≤ j ≤ k
 
-## we have
+we have
 
 E[∏ⱼ₌₁ᵏ f_j(X_{nⱼ})] = ∏ⱼ₌₁ᵏ E[f_j(X_{nⱼ})].
 
@@ -26980,9 +26978,9 @@ A sequence {Xₙ} of random variables on a given probability space is uniformly 
 
 lim sup E(Y_{n,a}) = 0,
 
-## a→∞ n
+a→∞ n
 
-## where Y_{n
+where Y_{n
 
 a}(ω) = |Xₙ(ω)| if |Xₙ(ω)| > a and otherwise Y_{n
 
@@ -26996,29 +26994,29 @@ Yₙₖ = 1/√n Zₙₖ, k = 1, .
 
 , k(n),
 
-## with k(n) → ∞
+with k(n) → ∞
 
-## to be a triangular array if
+to be a triangular array if
 
-## for each n
+for each n
 
-## Y_{n1}
+Y_{n1}
 
 , Y_{n k(n)} are independently distributed random variables on some probability space.
 
 lim var[Σₖ Uₙₖ(ε)] = 0.
 
-## n→∞
+n→∞
 
 The Lindeberg-Feller Central Limit Theorem.
 
 Suppose {Yₙₖ} is a triangular array of random variables
 
-## all with zero expectations
+all with zero expectations
 
 satisfying the Lindeberg-Feller condition.
 
-## For each n
+# For each n
 
 let Zₙ = Y_{n1} + ⋯ + Y_{n k(n)} and let sₙ² = var(Zₙ).
 
@@ -27026,11 +27024,11 @@ If sₙ² → σ² > 0,
 
 then Zₙ converges in distribution to a normal random variable with mean zero and variance σ².
 
-## --- Page 176 ---
+--- Page 176 ---
 
-## 332 Appendix C
+332 Appendix C
 
-### For any integrable random variable X
+# For any integrable random variable X
 
 the conditional expectation of X given a subtribe 𝒢 of ℱ is denoted E(X | 𝒢)
 
@@ -27042,7 +27040,7 @@ but we do not show that here.
 
 The law of iterated expectations applies as in the finite-state case.
 
-### As in the finite-state setting
+# As in the finite-state setting
 
 Q and P are equivalent probability measures on (Ω
 
@@ -27050,31 +27048,31 @@ Q and P are equivalent probability measures on (Ω
 
 P(A) = 0 if and only if Q(A) = 0.
 
-## In this case
+# In this case
 
 there is always a strictly positive random variable ξ called the Radon-Nikodym derivative of Q with respect to P
 
-## with the following property
+with the following property
 
-### If Z is such that E_P(|Z|) < ∞
+If Z is such that E_P(|Z|) < ∞
 
 then E_Q(Z) = E_P(ξZ).
 
-## Under the same assumptions
+# Under the same assumptions
 
-## if 𝒢 is a subtribe of ℱ
+if 𝒢 is a subtribe of ℱ
 
-## then
+then
 
 E_Q(Z | 𝒢) = E_P(ξZ | 𝒢).
 
 It is common to denote ξ by dQ/dP.
 
-## If there are multiple periods
+# If there are multiple periods
 
-### we fix a set of times denoted J
+we fix a set of times denoted J
 
-## usually with J = {0
+usually with J = {0
 
 1, .
 
@@ -27082,7 +27080,7 @@ It is common to denote ξ by dQ/dP.
 
 }, or J = [0, T], or J = [0, ∞).
 
-## A filtration ℱ = {ℱₜ
+A filtration ℱ = {ℱₜ
 
 t ∈ J} of subtribes of ℱ is usually given
 
@@ -27092,21 +27090,21 @@ Assume θ satisfies Novikov's condition, then a martingale ε^θ is defined by
 
 Suppose θ satisfies Novikov’s condition.
 
-### Because ε^θ is a martingale and
+Because ε^θ is a martingale and
 
 we know that .
 
-### Since ε^θ is strictly positive
+Since ε^θ is strictly positive
 
-## we saw in
+we saw in
 
 Appendix C that an equivalent probability measure can be defined by
 
 It is sometimes useful to exploit Itô's Lemma and write .
 
-## For any local martingales and
+# For any local martingales and
 
-## there is a unique continuous
+there is a unique continuous
 
 adapted process, denoted , such that and
 
@@ -27116,25 +27114,25 @@ One sometimes calls the sharp-brackets pro-
 
 cess.
 
-## Evidently
+# Evidently
 
 by the Martingale Representation Theorem and Itô’s For-
 
 mula, for some -valued adapted processes and
 
-## we have
+we have
 
 , and .
 
 Next, we state Lévy’s characterization of Brownian motion.
 
-## The result
+# The result
 
 actually applies for any filtration satisfying the usual conditions
 
-## stated
+stated
 
-## in Appendix F
+in Appendix F
 
 as stated in Revuz and Yor (1991).
 
@@ -27144,9 +27142,9 @@ as stated in Revuz and Yor (1991).
 
 Then is a standard Brownian motion in if and only if and is
 
-### a continuous local martingale in with
+a continuous local martingale in with
 
-## where and
+where and
 
 for distinct and , .
 
@@ -27158,45 +27156,45 @@ for distinct and , .
 
 ) Then a standard Brownian motion that is a
 
-### martingale under is defined by
+martingale under is defined by
 
-## Moreover
+# Moreover
 
 has the martingale representation property under .
 
 That is, for
 
-## any local -martingale
+any local -martingale
 
-## there is some in such that
+there is some in such that
 
 The martingale representation aspect of Girsanov’s Theorem is not usually
 
-## emphasized
+emphasized
 
 but is particularly useful in finance applications.
 
-## By direct
+# By direct
 
-## calculation
+calculation
 
 Girsanov’s Theorem has the following useful corollary.
 
 **Corollary.
 
-### ** Let be an Itô process in of the form
+** Let be an Itô process in of the form
 
 Suppose is a vector of processes in such that there exists some
 
-## in satisfying
+in satisfying
 
 If is a martingale (Novikov’s condition suffices)
 
-## then is also an Itô process
+then is also an Itô process
 
 with respect to , and
 
-## In short
+# In short
 
 Girsanov’s Theorem gives us a way to adjust probability assess-
 
@@ -27206,9 +27204,9 @@ almost arbitrary drift.
 
 For any probability measure equivalent to
 
-## we can define a mar-
+we can define a mar-
 
-## tingale by
+tingale by
 
 The Martingale Representation Theorem implies that there is some in
 
@@ -27216,7 +27214,7 @@ such that .
 
 In particular, is a continuous process.
 
-## Since is equivalent to
+# Since is equivalent to
 
 it can be shown that is a strictly positive
 
@@ -27226,19 +27224,19 @@ It follows that , and that .
 
 Given the unique decomposition property of Itô
 
-## processes
+processes
 
 this implies the following convenient result
 
-## showing that the
+showing that the
 
 diffusion of an Itô process does not change with a change to an equivalent
 
 probability measure.
 
-### (The drift process can of course change
+(The drift process can of course change
 
-## as we have
+as we have
 
 just seen.
 
@@ -27252,11 +27250,11 @@ representation property under .
 
 Let be an Itô process (under ) with .
 
-### Then is also an Itô process under
+Then is also an Itô process under
 
 and , where is the drift of under .
 
-## Finally
+# Finally
 
 we review a version of Fubini’s Theorem for stochastic inte-
 
@@ -27264,9 +27262,9 @@ grals that was used in deriving the Heath-Jarrow-Morton model for forward
 
 rates.
 
-## Suppose is an Itô process and
+Suppose is an Itô process and
 
-### for some bounded real interval
+for some bounded real interval
 
 , is jointly measurable and, for each in
 
@@ -27282,19 +27280,19 @@ Letting ,
 
 we get a result analogous to Fubini’s Theorem in its classical form of
 
-## Appendix C
+# Appendix C
 
-## namely that
+namely that
 
-## for each time
+for each time
 
-## This follows from Theorem 46
+# This follows from Theorem 46
 
-## page 160
+page 160
 
 of Protter (1990).
 
-## **E**
+**E**
 
 **SDE, PDE, and Feynman-Kac**
 
@@ -27304,75 +27302,75 @@ equations (SDEs) and shows how SDEs can be used to represent solutions
 
 to partial differential equations (PDEs) of the parabolic type.
 
-## Standard
+# Standard
 
 references include Karatzas and Shreve (1988).
 
-## As usual
+# As usual
 
 a standard Brownian motion in is given on some proba-
 
-## bility space
+bility space
 
-### along with the standard filtration of
+along with the standard filtration of
 
-## as defined
+as defined
 
 in Appendix D.
 
-### An SDE is an expression of the form
+# An SDE is an expression of the form
 
-## where and are given func-
+where and are given func-
 
 tions.
 
 We are interested in conditions on and under which
 
-## for each
+for each
 
 in , there is a unique Itô process satisfying (E.
 
 1) with .
 
-## In this
+# In this
 
 case, we say that solves (E.
 
 1) with initial condition .
 
-## A process such as
+# A process such as
 
-## is often called a diffusion
+is often called a diffusion
 
 although there is no generally accepted defi-
 
 nition for “diffusion.
 
-## ” By saying “unique
+” By saying “unique
 
-### ” we mean as usual that any other
+” we mean as usual that any other
 
 Itô process with the same properties is equal to almost everywhere.
 
 unique solution in this sense is sometimes called a strong solution.
 
-## We will
+# We will
 
 have no need for what is known as a weak solution.
 
 Sufficient conditions for a solution to (E.
 
-## 1) are Lipschitz and growth
+1) are Lipschitz and growth
 
 conditions on and .
 
-## In order to explain these
+# In order to explain these
 
-## we first define a norm
+we first define a norm
 
-### on matrices by letting for any matrix
+on matrices by letting for any matrix
 
-## where “tr(·)”
+where “tr(·)”
 
 denotes trace.
 
@@ -27382,11 +27380,11 @@ one row or column.
 
 ) We then say that satisfies a Lipschitz condition in
 
-### if there is a constant such that
+if there is a constant such that
 
-## for any and in and any time
+for any and in and any time
 
-## Similarly
+# Similarly
 
 satisfies a growth condition in if there is a constant such
 
@@ -27394,7 +27392,7 @@ that, for any in and any time ,
 
 Note that these conditions apply uniformly in
 
-## in that the constants apply
+in that the constants apply
 
 for all simultaneously.
 
@@ -27406,7 +27404,7 @@ The same conditions (E.
 
 for , define Lipschitz and growth conditions
 
-## respectively
+respectively
 
 on .
 
@@ -27418,7 +27416,7 @@ growth conditions in .
 
 Then, for each in
 
-## there is a unique Itô process
+there is a unique Itô process
 
 in satisfying the SDE (E.
 
@@ -27426,7 +27424,7 @@ in satisfying the SDE (E.
 
 Moreover, is a Markov
 
-## process
+process
 
 and for each time there is a constant such that
 
@@ -27434,7 +27432,7 @@ The conclusion that is a Markov process can be strengthened to
 
 the conclusion that is a strong Markov process
 
-## a property that we do
+a property that we do
 
 not define here.
 
@@ -27442,29 +27440,29 @@ One can weaken somewhat the Lipschitz conditions for
 
 solutions to (E.
 
-### We say that is locally Lipschitz in if
+# We say that is locally Lipschitz in if
 
-## for each positive
+for each positive
 
-## constant
+constant
 
 there is a constant such that (E.
 
-## 2) is satisfied for all and
+2) is satisfied for all and
 
 for all and bounded in norm by .
 
 **SDE Theorem.
 
-## ** Suppose and are measurable
+** Suppose and are measurable
 
-## satisfy growth conditions in
+satisfy growth conditions in
 
 and are locally Lipschitz in .
 
 Then, for each in
 
-## there is a unique Itô
+there is a unique Itô
 
 process in satisfying the SDE (E.
 
@@ -27476,9 +27474,9 @@ a Markov process.
 
 If, in addition
 
-## and are continuous functions
+and are continuous functions
 
-## then is a
+then is a
 
 finite-variance process.
 
@@ -27486,13 +27484,13 @@ Even these weaker conditions do not cover the case of “square root”
 
 diffusions of the type used in the Cox-Ingersoll-Ross model
 
-## and more gen-
+and more gen-
 
 eral “affine” processes of the type appearing in Chapters 7 and 8.
 
-## For these
+# For these
 
-## special cases
+special cases
 
 we can rely on the following result for the one-dimensional
 
@@ -27500,21 +27498,21 @@ case , reported in Karatzas and Shreve (1988)
 
 page 291.
 
-## It is
+# It is
 
 enough that is continuous and satisfies a Lipschitz condition in
 
 that is continuous with the property that
 
-## for all and and all
+for all and and all
 
 where is a strictly increasing function with such that for any
 
-## --- Page 181 ---
+--- Page 181 ---
 
-## 342 Appendix E
+342 Appendix E
 
-## It is enough to take
+# It is enough to take
 
 which covers the CIR model (taking for ).
 
@@ -27542,43 +27540,43 @@ We can express the solution to a linear SDE quite explicitly.
 
 First, let denote the solution of the ordinary differential equation
 
-## It can be shown that for all
+# It can be shown that for all
 
-## the matrix is nonsingular
+the matrix is nonsingular
 
 and the solution of (E.
 
-## 4) is
+4) is
 
-## In particular
+# In particular
 
-## is Gaussian
+is Gaussian
 
-### meaning that for any finite times
+meaning that for any finite times
 
 has a joint normal distribution.
 
-## For any
+# For any
 
 the mean vector and covariance matrix for are given as solutions to the ordinary differential equations
 
-## Further details
+# Further details
 
-## and generalizations
+and generalizations
 
 can be found in Karatzas and Shreve (1988).
 
-### We next consider the Cauchy problem
+# We next consider the Cauchy problem
 
-## for given
+for given
 
-## Find solving
+# Find solving
 
 SDE, PDE, and Feynman-Kac 343
 
-## with the boundary condition
+with the boundary condition
 
-## where
+where
 
 and where , , , and .
 
@@ -27588,7 +27586,7 @@ The Feynman-Kac solution to (E.
 
 6), should it exist, is given by
 
-## where
+where
 
 and where indicates that is assumed to solve the SDE (E.
 
@@ -27606,13 +27604,13 @@ Momentarily putting aside the delicate issue of existence of solutions to the Ca
 
 the Feynman-Kac representation of a given solution is itself not difficult to verify under technical assumptions.
 
-## In order to see this
+# In order to see this
 
 suppose that solves (E.
 
 1) and that is a solution to the Cauchy problem.
 
-## For an arbitrary in
+# For an arbitrary in
 
 let be the Itô process defined by for and
 
@@ -27622,19 +27620,19 @@ where solves (E.
 
 By Itô’s Formula,
 
-## --- Page 182 ---
+--- Page 182 ---
 
-## 344 Appendix E
+344 Appendix E
 
-### Taking expectations through each side
+# Taking expectations through each side
 
-## rearranging
+rearranging
 
 and assuming enough technical conditions for integrability and (from Proposition 5.
 
 8) for the integral with respect to to be a martingale
 
-## we have
+we have
 
 from which (E.
 
@@ -27642,7 +27640,7 @@ from which (E.
 
 5) and (E.
 
-### Sufficient technical conditions are
+# Sufficient technical conditions are
 
 (a) all of , and are continuous;
 
@@ -27692,7 +27690,7 @@ The Feynman-Kac approach can also be applied to other types of parabolic and ell
 
 The previous proposition does not resolve whether or not a solution to the PDE actually exists.
 
-## For this
+# For this
 
 stronger technical conditions are typically imposed.
 
@@ -27708,31 +27706,31 @@ SDE, PDE, and Feynman-Kac 345
 
 **Condition 1.
 
-## ** The functions
+** The functions
 
-## and are all continuous and
+and are all continuous and
 
 (a) and are bounded and locally Lipschitz in
 
-## (b) is Hölder continuous in
+(b) is Hölder continuous in
 
-## uniformly in
+uniformly in
 
-## (c) is bounded and
+(c) is bounded and
 
-## locally
+locally
 
-## is Hölder continuous in
+is Hölder continuous in
 
-## uniformly in
+uniformly in
 
-## (d) is Hölder continuous in
+(d) is Hölder continuous in
 
-## uniformly in
+uniformly in
 
 and satisfies a polynomial growth condition in
 
-## (e) is uniformly parabolic
+(e) is uniformly parabolic
 
 in that there is some scalar such that the eigenvalues of are larger than for all
 
@@ -27742,21 +27740,21 @@ We can substitute strong smoothness conditions for some of the stringent boundin
 
 **Condition 2.
 
-## ** All of
+** All of
 
-### and satisfy a Lipschitz condition in
+and satisfy a Lipschitz condition in
 
 and is nonnegative.
 
-## All of exist
+# All of exist
 
-## are continuous
+are continuous
 
 and satisfy a growth condition in .
 
 **Theorem.
 
-### ** Under Condition 1 or Condition 2
+** Under Condition 1 or Condition 2
 
 there is a unique solution of (E.
 
@@ -27766,19 +27764,19 @@ there is a unique solution of (E.
 
 and this solution is given by (E.
 
-### Condition 1 is from Friedman (1975)
+Condition 1 is from Friedman (1975)
 
 while Condition 2 is a special case from Krylov (1980).
 
 Kuwano (1994) offers improvements on Krylov’s result.
 
-## Unfortunately
+# Unfortunately
 
 neither Condition 1 nor Condition 2 includes the exact case of the Black-Scholes option-pricing formula
 
 simply because the option payoff is not differentiable in the stock price.
 
-## Under technical conditions on
+# Under technical conditions on
 
 and , there is a function
 
@@ -27790,15 +27788,15 @@ called the fundamental solution of (E.
 
 that has the following useful properties
 
-## (a) For any
+(a) For any
 
 the function defined by is in and solves the PDE
 
-## where
+where
 
-## --- Page 183 ---
+--- Page 183 ---
 
-## 346 Appendix E
+346 Appendix E
 
 where .
 
@@ -27806,19 +27804,19 @@ The PDE (E.
 
 9) is sometimes called the Fokker-Planck equation
 
-### or the forward Kolmogorov equation
+or the forward Kolmogorov equation
 
 distinguishing it from the backward Kolmogorov equation (E.
 
 5)-(E.
 
-### (b) Under technical conditions on and
+(b) Under technical conditions on and
 
 the solution to (E.
 
 5)-(E.
 
-## 6) is given by
+6) is given by
 
 A sufficient set of technical conditions
 
@@ -27834,7 +27832,7 @@ Knowledge of the fundamental solution is valuable since particular solutions of 
 
 10) for each of a number of different cases for and .
 
-## In the case of
+# In the case of
 
 numerical solution of is briefly discussed in Chapter 12.
 
@@ -27842,9 +27840,9 @@ Further work on probabilistic solutions of PDEs has been done by
 
 Freidlin (1985).
 
-## F
+F
 
-## Itô’s Formula with Jumps
+Itô’s Formula with Jumps
 
 THIS APPENDIX DEVELOPS Itô’s Formula in somewhat more generality
 
@@ -27856,47 +27854,47 @@ further generality, is Protter (1990).
 
 We first establish some preliminary definitions.
 
-## We fix a complete
+# We fix a complete
 
-## probability space (Ω
+probability space (Ω
 
 F, P) and a filtration {F_t
 
-## t ≥ 0} satisfying the usual
+t ≥ 0} satisfying the usual
 
 conditions.
 
-## * For all t
+* For all t
 
 F_t contains all of the null sets of F.
 
-## * For all t
+* For all t
 
-## ∩_{s>t} F_s = F_t
+∩_{s>t} F_s = F_t
 
 a property called right-continuity.
 
-## A function Z
+# A function Z
 
 [0, ∞) → ℝ is left-continuous if
 
-## for all t
+for all t
 
-## we have Z_t =
+we have Z_t =
 
-## lim_{s↑t} Z_s
+lim_{s↑t} Z_s
 
 the process has left limits if Z_{t-} = lim_{s↑t} Z_s exists
 
-## and finally the
+and finally the
 
 process is right-continuous if Z_t = lim_{s↓t} Z_s.
 
-## The jump ΔZ of Z at time t is
+The jump ΔZ of Z at time t is
 
 ΔZ_t = Z_t - Z_{t-}.
 
-## Under the usual conditions
+# Under the usual conditions
 
 we can without loss of generality for our
 
@@ -27914,11 +27912,11 @@ example by Jacod and Shiryaev (1987).
 
 Lemma 1.
 
-## Suppose Q is equivalent to P
+# Suppose Q is equivalent to P
 
 with density process Y.
 
-## Then an adapted
+# Then an adapted
 
 process Y that is right-continuous with left limits is a Q-martingale if and only if
 
@@ -27930,19 +27928,19 @@ for E[X_{T+1} | G_t].
 
 A process X is a finite-variation process if X = U — V
 
-## where U and
+where U and
 
 V are right-continuous increasing adapted processes with left limits.
 
-## --- Page 184 ---
+--- Page 184 ---
 
-## 348 Appendix F
+348 Appendix F
 
-## example
+example
 
 X is finite-variation if X_t = ∫_0^t δ_s ds
 
-## where δ is an adapted process
+where δ is an adapted process
 
 such that the integral exists.
 
@@ -27952,19 +27950,19 @@ Lemma 2.
 
 Suppose X is a finite-variation process and f
 
-## ℝ → ℝ is continuously
+ℝ → ℝ is continuously
 
 differentiable.
 
-## Then
+# Then
 
 f(X_t) = f(X_0) + ∫_0^t f'(X_{s-}) dX_s + ∑_{0<s≤t} [f(X_s) - f(X_{s-}) - f'(X_{s-}) ΔX_s].
 
-## This can be found
+# This can be found
 
-## for example
+for example
 
-## in Protter (1990)
+in Protter (1990)
 
 page 71.
 
@@ -27972,15 +27970,15 @@ We now record a version of Itô’s Formula that is only occasionally
 
 used in this book.
 
-## For proofs and extensions
+# For proofs and extensions
 
 see Protter (1990).
 
-## A semi-
+# A semi-
 
 martingale is a process of the form V + M
 
-## where V is a finite-variation
+where V is a finite-variation
 
 process and M is a local martingale.
 
@@ -27992,7 +27990,7 @@ finite-variation process.
 
 Let Z = XY.
 
-### Then Z is a semimartingale and
+# Then Z is a semimartingale and
 
 dZ_t = X_{t-} dY_t + Y_{t-} dX_t + ΔX_t ΔY_t.
 
@@ -28004,17 +28002,17 @@ standard Brownian motion in ℝ^d.
 
 Lemma 4.
 
-## Suppose X = M + A
+Suppose X = M + A
 
 where A is a finite-variation process and M_t =
 
 surely for all t.
 
-## Suppose f
+# Suppose f
 
 ℝ → ℝ is twice continuously differentiable.
 
-## Then
+# Then
 
 f(X_t) = f(X_0) + ∫_0^t f'(X_{s-}) dX_s + ∑_{0<s≤t} [f(X_s) - f(X_{s-}) - f'(X_{s-}) ΔX_s]
 
@@ -28024,9 +28022,9 @@ Lemma 5.
 
 Suppose dX_t = dA_t + σ_t dB_t and dY_t = dC_t + ν_t dB_t
 
-## where A and
+where A and
 
-### C are finite-variation processes
+# C are finite-variation processes
 
 and σ and ν are adapted processes in ℝ^d such
 
@@ -28034,29 +28032,29 @@ that ∫_0^t σ_s^2 ds and ∫_0^t ν_s^2 ds are finite almost surely for all t.
 
 Let Z = X Y.
 
-### Then Z is a semimartingale and
+# Then Z is a semimartingale and
 
 dZ_t = X_{t-} dY_t + Y_{t-} dX_t + ΔX_t ΔY_t + σ_t ν_t dt.
 
-## (F2)
+(F2)
 
 One can easily define a stochastic integral with respect to a Poisson
 
-## process N
+process N
 
-## or any counting process
+or any counting process
 
 as defined in Appendix I.
 
-## For any
+# For any
 
 adapted process θ, we can let
 
-## Itô’s Formula with Jumps 349
+Itô’s Formula with Jumps 349
 
 Based on the notion of a Poisson process
 
-## we can define a continuous-
+we can define a continuous-
 
 time Markov chain.
 
@@ -28070,73 +28068,73 @@ to state 1 after a time whose probability distribution is exponential with
 
 parameter λ(0).
 
-## When in state 1
+# When in state 1
 
 the process moves to state 0 after a time
 
 whose probability distribution is exponential with parameter λ(1).
 
-## More
+# More
 
-## precisely
+precisely
 
 Z solves the stochastic differential equation
 
 ΔZ_t = γ_0(Z(t-)) dN^{(0)}_t + γ_1(Z(t-)) dN^{(1)}_t
 
-## (F4)
+(F4)
 
 where N^{(0)} and N^{(1)} are independent Poisson processes with intensity
 
-## parameters λ(0) and λ(1)
+parameters λ(0) and λ(1)
 
-## respectively
+respectively
 
-## and where
+and where
 
 γ(0) = —γ(1) = 1; γ(1) = γ(0) = 0.
 
-## The initial condition
+# The initial condition
 
 Z_0, is either 0 or 1.
 
-### This is easily generalized to the
+# This is easily generalized to the
 
 n-state case.
 
 One can see that the “compensated” process M
 
-## defined by
+defined by
 
 dM_t = —λ(Z_t) dt + dZ_t,
 
 is a martingale.
 
-## Moreover
+# Moreover
 
-## as above
+as above
 
 (B, M) has the martingale represen-
 
-## tation property
+tation property
 
-## as defined in Appendix I
+as defined in Appendix I
 
-### for the filtration generated by
+for the filtration generated by
 
 them.
 
-## We remark that
+# We remark that
 
 because Z has a countable number of jumps (almost
 
-## surely)
+surely)
 
-## it makes no difference
+it makes no difference
 
 for any f whether we write ∫ f(Z_t) dt or
 
-## ∫ f(Z_{t-}) dt
+∫ f(Z_{t-}) dt
 
 as f(Z_t) and f(Z_{t-}) differ at most at a countable set of points.
 
@@ -28148,17 +28146,17 @@ Here, Z
 
 is either a Poisson process with parameter λ
 
-## or Z is the continuous-time
+or Z is the continuous-time
 
 Markov chain described above.
 
-### Suppose that S and U are processes with
+# Suppose that S and U are processes with
 
 dS_t = s(t) dt + σ_s(t) dB_t + β_s(t) dZ_t
 
 dU_t = u(t) dt + σ_u(t) dB_t + β_u(t) dZ_t
 
-## where s
+where s
 
 u, σ_s
 
@@ -28166,7 +28164,7 @@ u, σ_s
 
 and β_u are adapted processes such that these
 
-## integrals exist
+integrals exist
 
 with β_s and β_u left-continuous.
 
@@ -28176,35 +28174,35 @@ T] → ℝ be twice continuously differentiable and let
 
 U_t = f(S_t, t).
 
-## Lemma 4 implies that
+# Lemma 4 implies that
 
-## dU_t = g(t) dt + f_s(S_t
+dU_t = g(t) dt + f_s(S_t
 
-## t) σ_s(t) dB_t + [f(S_t
+t) σ_s(t) dB_t + [f(S_t
 
-## t) - f(S_{t-}
+t) - f(S_{t-}
 
 t)],
 
-## where
+where
 
-## g(t) = f_t(S_{t-}
+g(t) = f_t(S_{t-}
 
-## t) + f_s(S_{t-}
+t) + f_s(S_{t-}
 
-## t) s(t) + 1/2 f_{ss}(S_{t-}
+t) s(t) + 1/2 f_{ss}(S_{t-}
 
 t) σ_s(t)^2.
 
 One may note that g is not generally the rate of change of the ex-
 
-## pectation of U
+pectation of U
 
-## for the “jump” term f(S_t
+for the “jump” term f(S_t
 
-## t) - f(S_{t-}
+t) - f(S_{t-}
 
-## t) in (F5) pro-
+t) in (F5) pro-
 
 duces another source of expected change.
 
@@ -28212,19 +28210,19 @@ Indeed, provided f satisfies a
 
 growth condition in its first (S) argument
 
-## we have
+we have
 
 dU_t = g(t) dt + dY_t,
 
-### where Y is a local martingale and
+where Y is a local martingale and
 
-### for the case in which Z is a Poisson
+for the case in which Z is a Poisson
 
 process with arrival intensity λ,
 
-### g(t) = g(t) + λ[Z f(S_{t-} + β_s(t)
+g(t) = g(t) + λ[Z f(S_{t-} + β_s(t)
 
-## t) - f(S_{t-}
+t) - f(S_{t-}
 
 t)].
 
@@ -28234,7 +28232,7 @@ The last term in (F.
 
 multiplied by the size of a jump at time t
 
-### assuming that a jump occurs at
+assuming that a jump occurs at
 
 time t.
 
@@ -28242,17 +28240,17 @@ If Z is instead the continuous-time Markov chain (F.
 
 4), then
 
-## More generally
+# More generally
 
 let f : {0
 
-## 1} × ℝ × [0
+1} × ℝ × [0
 
-## T] → ℝ be twice continuously
+T] → ℝ be twice continuously
 
 differentiable with respect to its last two arguments
 
-## and let U_t =
+and let U_t =
 
 f(Z_t, S_t, t).
 
@@ -28260,101 +28258,101 @@ We let f_S and f_{SS} denote partials with respect to the second
 
 (S) argument.
 
-## Then
+# Then
 
-## dU_t = g(t) dt + f_S(Z_{t-}
+dU_t = g(t) dt + f_S(Z_{t-}
 
-## S_{t-}
+S_{t-}
 
-## t) σ_s(t) dB_t + [f(Z_t
+t) σ_s(t) dB_t + [f(Z_t
 
 S_t, t) - f(Z_{t-}
 
-## S_{t-}
+S_{t-}
 
 t)], (F8)
 
-## where
+where
 
-## g(t) = f_t(Z_{t-}
+g(t) = f_t(Z_{t-}
 
-## S_{t-}
+S_{t-}
 
-## t) + f_S(Z_{t-}
+t) + f_S(Z_{t-}
 
-## S_{t-}
+S_{t-}
 
-## t) s(t) + 1/2 f_{SS}(Z_{t-}
+t) s(t) + 1/2 f_{SS}(Z_{t-}
 
-## S_{t-}
+S_{t-}
 
 t) σ_s(t)^2.
 
-## Moreover
+# Moreover
 
-## dU_t = g(t) dt + dY_t
+dU_t = g(t) dt + dY_t
 
-## for Y a local martingale
+for Y a local martingale
 
 g(t) = g(t) + Δ(Z_{t-}, S_{t-}, t),
 
-## where
+where
 
 Δ(z, S
 
-## t) = f(z
+t) = f(z
 
-## S + β_s(t)
+S + β_s(t)
 
-## t) - f(z
+t) - f(z
 
 S, t)
 
 is the size of a jump at time t given that a jump occurs.
 
-## G
+G
 
-## Utility Gradients
+# Utility Gradients
 
 THIS APPENDIX GIVES some examples of the calculation of utility gradi-
 
 ents in a continuous-time setting.
 
-### Further examples are found in Duffie
+# Further examples are found in Duffie
 
 and Skiadas (1994).
 
-### For further work in this direction
+# For further work in this direction
 
-## see Schroder and
+see Schroder and
 
 Skiadas (1997, 1999, 2000).
 
-### First recall the Mean Value Theorem
+# First recall the Mean Value Theorem
 
 If f : [a
 
-## b] → ℝ is continuous
+b] → ℝ is continuous
 
-## on the interval [a
+on the interval [a
 
-## b] and has a derivative on (a
+b] and has a derivative on (a
 
 b), then there is some
 
-## c ∈ (a
+c ∈ (a
 
 b) such that f(b) — f(a) = f’(c)(b— a).
 
 We fix a probability space and the time interval [0
 
-## A process
+# A process
 
 c: Ω × [0
 
 T] → ℝ is square-integrable if E[∫ c^2 dt] < ∞.
 
-## Let L denote the
+# Let L denote the
 
 space of square-integrable processes and L_+ the space of nonnegative pro-
 
@@ -28364,9 +28362,9 @@ We recall from Appendix B that the gradient of a function
 
 U: L_+ → ℝ
 
-## when well defined at c ∈ L_+
+when well defined at c ∈ L_+
 
-## is given by
+is given by
 
 VU (c; h) = lim_{α↓0} [F(c+αh) - F(c)]/α
 
@@ -28376,9 +28374,9 @@ Consider first the additive-utility function U defined by
 
 U(c) = ∫_0^T u(c(t), t) dt,
 
-## where w is continuous and
+where w is continuous and
 
-## for each t
+for each t
 
 , t) is continuously differentiable
 
@@ -28386,9 +28384,9 @@ on (0, ∞) with a derivative u_y(.
 
 , t) satisfying a growth condition |u_y(y
 
-## t)| <
+t)| <
 
-## k + ky
+k + ky
 
 for some constant k independent of t.
 
@@ -28398,51 +28396,51 @@ Let {α_n} be any sequence of strictly positive scalars smaller than 1 and
 
 converging to zero.
 
-## For each n
+# For each n
 
 α_n, and t
 
-## let τ(t) be chosen
+let τ(t) be chosen
 
-## by theMean Value Theorem
+by theMean Value Theorem
 
-## so that
+so that
 
 U(t, c_t + αh_t) - U(t
 
-## c_t) = ∫_0^α (U_s(t
+c_t) = ∫_0^α (U_s(t
 
-## c_t + sh_t)
+c_t + sh_t)
 
 h_t) ds.
 
-## --- Page 186 ---
+--- Page 186 ---
 
-## 352 Appendix G
+352 Appendix G
 
-## In fact
+# In fact
 
 this can be done so that c + sh is a process in L^∞.
 
-## It follows that for
+# It follows that for
 
 all n,
 
 U(t, c + αh_n) - U(t
 
-## c) = ∫_0^α (U_s(t
+c) = ∫_0^α (U_s(t
 
-## c + s h_n)
+c + s h_n)
 
-## h_n) ds
+h_n) ds
 
-## ≤ ∫_0^α (k + h|U_s(t
+≤ ∫_0^α (k + h|U_s(t
 
-## c + s h_n)|) |h_n| ds
+c + s h_n)|) |h_n| ds
 
 ≤ ∫_0^α (k + h|U_s(t, c)|) |h| ds
 
-## Moreover
+# Moreover
 
 E( ∫_0^T |h_n| dt) < ∞ by the Cauchy-Schwarz inequality since both
 
@@ -28450,19 +28448,19 @@ c and h are in L^2.
 
 The Dominated Convergence Theorem implies that
 
-### = (1/α) ∫_0^α lim_{n→∞} (U_s(t
+= (1/α) ∫_0^α lim_{n→∞} (U_s(t
 
-## c + s h_n)
+c + s h_n)
 
-## h_n) ds
+h_n) ds
 
 = (1/α) ∫_0^α (U_s(t, c), h) ds
 
-## since (U_s(t
+since (U_s(t
 
-## c + s h_n)
+c + s h_n)
 
-### h_n) converges with n to (U_s(t
+h_n) converges with n to (U_s(t
 
 c), h) for all (ω
 
@@ -28476,29 +28474,29 @@ This implies that the gradient of U at c exists and has
 
 the Riesz representation T.
 
-## Suppose
+# Suppose
 
-## for any ε > 0
+for any ε > 0
 
 that u_s satisfies the growth condition given
 
-## above restricted to (ε
+above restricted to (ε
 
-## ∞) × [0
+∞) × [0
 
 T], but not necessarily on the whole
 
 domain [0, ∞) × [0, T].
 
-## This is important
+# This is important
 
-## for example
+for example
 
-## in dealing with
+in dealing with
 
-## Inada conditions
+# Inada conditions
 
-## as in the example u(x
+as in the example u(x
 
 t) = ex*.
 
@@ -28508,19 +28506,19 @@ above calculations extend to obtain the same solution for utility gradients
 
 so long as the given consumption process c is bounded away from zero.
 
-## That is
+# That is
 
 suppose for some ε > 0 that c_t > ε for all t.
 
-## In order to be a feasi-
+# In order to be a feasi-
 
-## ble direction
+ble direction
 
-## c + αh > 0 for some α ∈ (0
+c + αh > 0 for some α ∈ (0
 
 1), so c + αh must be bounded
 
-## away from zero for all α ∈ (0
+away from zero for all α ∈ (0
 
 δ/2), and all of the above calculations carry
 
@@ -28528,7 +28526,7 @@ through to this case.
 
 This situation covers the equilibrium described by
 
-## Theorem 10G
+# Theorem 10G
 
 in which the consumption process c of an arbitrary agent
 
@@ -28540,11 +28538,11 @@ continuous-time versions of recursive and habit-forming utilities.
 
 these, we fix a filtration F = {F_t
 
-## t ∈ [0
+t ∈ [0
 
-## T]} of tribes satisfying the
+T]} of tribes satisfying the
 
-## usual conditions
+usual conditions
 
 which are given in Appendix F.
 
@@ -28552,11 +28550,11 @@ We let f : Ω × [0, T] ×
 
 R^n × R → R be a jointly measurable function satisfying the following
 
-## Utility Gradients 353
+# Utility Gradients 353
 
 conditions:
 
-## (a) For each fixed (z
+(a) For each fixed (z
 
 v), f(·
 
@@ -28564,7 +28562,7 @@ v), f(·
 
 (b) Uniform Lipschitz condition in utility
 
-## For all (ω
+For all (ω
 
 t, z, u
 
@@ -28576,11 +28574,11 @@ t, z, v) |
 
 K|u − v|.
 
-## (c) Uniform growth condition
+(c) Uniform growth condition
 
-### There exists a constant K such that
+# There exists a constant K such that
 
-## for all (ω
+for all (ω
 
 t, z), we have | f(ω
 
@@ -28588,7 +28586,7 @@ t, z, 0)| < K(1 + ||z||).
 
 The function f is a “felicity” function.
 
-### Its first and second generic argu-
+# Its first and second generic argu-
 
 ments, “ω” and “t
 
@@ -28598,13 +28596,13 @@ third “z” argument allows dependence on current or past consumption
 
 through n different variables.
 
-## The final argument
+# The final argument
 
 “v,” allows dependence
 
 of the felicity on utility itself.
 
-### The additive model has felicity f(ω
+The additive model has felicity f(ω
 
 t, z, ) =
 
@@ -28612,47 +28610,47 @@ u(t, z)
 
 where z stands for current consumption.
 
-## Fixing a given consump-
+# Fixing a given consump-
 
-## tion process c in L^∞
+tion process c in L^∞
 
-### we wish to define a utility process V
+we wish to define a utility process V
 
-## an Itô pro-
+an Itô pro-
 
 cess whose current level V_t corresponds to current utility for remain-
 
 ing consumption.
 
-## For example
+# For example
 
-## with the additive model
+with the additive model
 
-## we have V_t =
+we have V_t =
 
 ∫_t^T e^{-ρ(s-t)} u(c_s) ds.
 
-## In general
+# In general
 
 we will define the utility for c with felicity f
 
 We use the following existence result of Duffie and Epstein (1992b).
 
-## Given any z = (z1
+Given any z = (z1
 
 …, zn) in L^∞
 
-### there is a unique process V such
+there is a unique process V such
 
-## that
+that
 
-## V_t = E_t [ ∫_t^T f(s
+V_t = E_t [ ∫_t^T f(s
 
 z_s, V_s) ds]
 
-## t ∈ [0
+t ∈ [0
 
-## (In the expression “f(s
+(In the expression “f(s
 
 z_s, V_s)
 
@@ -28660,73 +28658,73 @@ z_s, V_s)
 
 For the continuous-time case of recursive utility
 
-## called stochastic differ-
+called stochastic differ-
 
 ential utility as developed in Duffie and Epstein (1990)
 
-## this result is applied
+this result is applied
 
 to the consumption process.
 
-## For the continuous-
+# For the continuous-
 
-### time (1973) and habit-formation model
+time (1973) and habit-formation model
 
-## developed by Ryder and Heal
+developed by Ryder and Heal
 
-## (1973)
+(1973)
 
-## Duffie and Epstein (1992a)
+Duffie and Epstein (1992a)
 
 and applied by Constantinides (1990) and
 
-## Campbell and Cochrane (1995)
+Campbell and Cochrane (1995)
 
-## Campbell
+# Campbell
 
-## Ingersoll
+# Ingersoll
 
-## and Ross (1991)
+and Ross (1991)
 
-## Heaton and Zapatero (1991
+Heaton and Zapatero (1991
 
 1992), we take n = 2 and let
 
-## z1 = c
+z1 = c
 
-## z2 = L_t = ∫_0^t H(c_s
+z2 = L_t = ∫_0^t H(c_s
 
-## z_s) ds
+z_s) ds
 
-## t ∈ [0
+t ∈ [0
 
-## for some measurable H
+for some measurable H
 
 R^2 → R that is uniformly Lipschitz in its sec-
 
 ond argument and satisfies a growth condition in its first argument.
 
-## (See
+(See
 
 Duffie and Epstein (1992a) on the question of monotonicity.
 
-## ) It is not difficult to
+) It is not difficult to
 
 extend this example to cases in which H is state and time dependent.
 
-## --- Page 187 ---
+--- Page 187 ---
 
-## 354 Appendix G
+354 Appendix G
 
 can compute the Riesz representation of the gradients of the new utilities
 
 just defined.
 
-## For this
+# For this
 
 we assume that f is continuously differentiable with
 
-## respect to (z
+respect to (z
 
 v), and that there exists a constant K such that
 
@@ -28736,79 +28734,79 @@ subscripts denote partial derivatives with respect
 
 to the indicated arguments.
 
-## For the habit-formation case
+# For the habit-formation case
 
-## we also assume
+we also assume
 
-### that H is continuously differentiable
+that H is continuously differentiable
 
-### that its partial derivative H_z with
+that its partial derivative H_z with
 
 respect to consumption satisfies a uniform growth condition
 
-## and that H_c
+and that H_c
 
 is bounded.
 
-## That is
+# That is
 
-### there is a constant K such that |H_c(c
+there is a constant K such that |H_c(c
 
-## z)| < K(1 + |c|)
+z)| < K(1 + |c|)
 
 for all (c, z).
 
-## With these new utilities
+# With these new utilities
 
-### and under the stated assumptions
+and under the stated assumptions
 
-## for any
+for any
 
 strictly positive consumption process c we again have a utility gradient of
 
-## the form
+the form
 
 VU(c; h) = (1/α) ∫_0^α (m_s, h_s) ds,
 
 for a Riesz representation m that is given for stochastic differential util-
 
-## ity by
+ity by
 
 m_t = β_t f_z(t, z_t, V_t),
 
-## where β_t = exp(∫_0^t f_v(s
+where β_t = exp(∫_0^t f_v(s
 
 z_s, V_s) ds)
 
-### and for habit-formation utility by
+and for habit-formation utility by
 
-## m_t = β_t [ H_z( c_t
+m_t = β_t [ H_z( c_t
 
 L_t ) exp( ∫_0^t (f_v + H_v) ds) + ∫_t^T f_z ds ]
 
 where the obvious arguments have been omitted.
 
-## Proofs of these gradient
+# Proofs of these gradient
 
-## representations
+representations
 
-### and extensions to more general models
+and extensions to more general models
 
-## can be found in
+can be found in
 
 Duffie and Skiadas (1994).
 
 Another formulation of habit formation is suggested by Hindy and
 
-## Huang (1992)
+Huang (1992)
 
-## extending the work of Hindy
+extending the work of Hindy
 
 Huang, and Kreps (1992).
 
 Their model is incorporated into this setting by taking n = 1 and Z_t =
 
-## ∫_0^t k_s dC_s
+∫_0^t k_s dC_s
 
 where k is a bounded adapted process and C is an increas-
 
@@ -28816,19 +28814,19 @@ ing right-continuous adapted process defining cumulative consumption.
 
 the case of absolutely continuous cumulative consumption
 
-## we have C_t =
+we have C_t =
 
 ∫_0^t c_s ds for some c ∈ L^2.
 
-## In general
+# In general
 
 consumption may occur with “lumps.
 
 A gradient calculation for this case is given by Duffie and Skiadas (1994).
 
-## H
+H
 
-### Itô’s Formula for Complex Functions
+Itô’s Formula for Complex Functions
 
 THIS APPENDIX GIVES some minimal rules necessary for applying Itô’s For-
 
@@ -28838,31 +28836,31 @@ calculations of Chapter 8.
 
 With an imaginary number traditionally denoted i = √-1
 
-## a complex
+a complex
 
 number is an object of the form z = a + bi
 
-## for some real numbers a and
+for some real numbers a and
 
-## The real part of z is a
+# The real part of z is a
 
 the imaginary part of z is ib.
 
-## The set of complex
+# The set of complex
 
-## numbers
+numbers
 
-## denoted C
+denoted C
 
 is a vector space by pairwise calculations
 
-## in that
+in that
 
 (a + bi) + (c + di) = (a+c) + (b+d)i and k(a + bi) = ka + kbi for any real
 
 scalar k.
 
-### Complex multiplication is given by
+# Complex multiplication is given by
 
 (a + bi) × (c + di) = ac + adi + bci + bdi² = (ac − bd) + (ad + bc)i.
 
@@ -28870,15 +28868,15 @@ We have the definition e^{iθ} = cos(θ) + i sin(θ) (which can be justified by
 
 deeper axioms).
 
-### For a complex number x = a + bi
+For a complex number x = a + bi
 
-## one treats e^x as the
+one treats e^x as the
 
 complex number e^{a+bi} = e^a e^{bi}.
 
 One can check that, for two complex num-
 
-## bers z and w
+bers z and w
 
 we have e^{z+w} = e^z e^w and e^z / e^w = e^{z-w}.
 
@@ -28888,21 +28886,21 @@ The norm of a complex number a + bi is defined by |a + bi| =
 
 The square root y = √(a+bi) is defined by y = |y|^{1/2}
 
-## exp(i arg(y)/2)
+exp(i arg(y)/2)
 
-## where y² = a+ bi and
+where y² = a+ bi and
 
-## for any z ∈ C
+for any z ∈ C
 
-## arg(z) is defined
+arg(z) is defined
 
-### such that z = |z| exp(i arg(z))
+such that z = |z| exp(i arg(z))
 
 with -π ≤ arg(z) ≤ π.
 
 For any z ∈ C,
 
-## ln(z) = ln |z| + i arg(z)
+ln(z) = ln |z| + i arg(z)
 
 as defined on the “principal branch.
 
@@ -28916,13 +28914,13 @@ need only the facts:
 
 (a) e^z is analytic with e^z' = e^z.
 
-## (b) For integer n ≥ 1
+(b) For integer n ≥ 1
 
 z^n is analytic with (z^n)' = nz^{n-1}.
 
-## --- Page 188 ---
+--- Page 188 ---
 
-## 356 Appendix H
+356 Appendix H
 
 (c) The chain rule f(g(z))' = f'(g(z))g'(z) applies whenever f and g
 
@@ -28930,29 +28928,29 @@ are analytic.
 
 If an Itô process Y is complex valued (that is
 
-## Y = Y_R + i Y_I
+Y = Y_R + i Y_I
 
-## for real-
+for real-
 
-### valued Itô processes Y_R and Y_I)
+valued Itô processes Y_R and Y_I)
 
-### then we can apply Itô’s Formula to see
+then we can apply Itô’s Formula to see
 
 that g(Y_t) is a complex-valued Itô process for any analytic g.
 
-## The only such
+# The only such
 
 g that we need consider here are of the exponential and polynomial forms
 
 (a) and (b), above.
 
-## In particular
+# In particular
 
 we will be interested in characterizingof Financial Studies 9
 
 37-68.
 
-### Options and Futures Contracts Review
+# Options and Futures Contracts Review
 
 Andersen, J.
 
@@ -28974,9 +28972,9 @@ Gruenewald.
 
 “American Option Pricing in the Jump-Diffusion Model.
 
-## ” Working Paper
+” Working Paper
 
-## Aarhus University
+# Aarhus University
 
 Denmark.
 
@@ -29028,13 +29026,13 @@ Stricker.
 
 (1994).
 
-## “Lois de Martingale
+“Lois de Martingale
 
 Densités et Décomposition de Continuity.
 
 ” 6llmer Schweizer.
 
-## Working Paper
+# Working Paper
 
 Université de Franche-Comté.
 
@@ -29044,7 +29042,7 @@ Cannelli, F.
 
 “Backward-Forward Stochastic Differential Equations.
 
-### ” Annals of Applied Probability 8
+” Annals of Applied Probability 8
 
 777-98.
 
@@ -29056,19 +29054,19 @@ Conze.
 
 (1990).
 
-### “The Term Structure of Interest Rates
+“The Term Structure of Interest Rates
 
 The Case of Imperfect Information.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 University of Chicago.
 
-## --- Page 198 ---
+--- Page 198 ---
 
-## 376 Bibliography
+376 Bibliography
 
 Araujo, A.
 
@@ -29080,7 +29078,7 @@ Monteiro.
 
 “Generic Non-Existence of Equilibria in Finance Models.
 
-### ” Journal of Mathematical Economics 20
+” Journal of Mathematical Economics 20
 
 489-501.
 
@@ -29094,7 +29092,7 @@ Monteiro.
 
 “Equilibrium Without Uniform Conditions.
 
-### ” Journal of Economic Theory 48
+” Journal of Economic Theory 48
 
 416-427.
 
@@ -29118,9 +29116,9 @@ Arntzen, H.
 
 “Solution to a Class of Stochastic Investment Problems Involving Finite Variation Controls.
 
-## ” Working Paper
+” Working Paper
 
-## Mathematics Institute
+# Mathematics Institute
 
 University of Oslo.
 
@@ -29138,7 +29136,7 @@ Neyman (Ed.
 
 pp. 507-532.
 
-## Berkeley
+# Berkeley
 
 University of California Press.
 
@@ -29158,7 +29156,7 @@ Centre National de la Recherche Scientifique 40 (Paris 1952)
 
 pp. 41-47
 
-## discussion
+discussion
 
 pp. 47-48
 
@@ -29194,7 +29192,7 @@ Artzner, P.
 
 “References for the Numeraire Portfolio.
 
-## ” Working Paper
+” Working Paper
 
 Institut de Recherche Mathématique Avancée Université Louis Pasteur et CNRS
 
@@ -29210,9 +29208,9 @@ Delbaen.
 
 “‘Finem Lauda’ or the Risk of Swaps.
 
-## ” Insurance
+” Insurance
 
-## Mathematics and Economics 9
+# Mathematics and Economics 9
 
 295-303.
 
@@ -29224,11 +29222,11 @@ Delbaen.
 
 (1990b).
 
-### “Term Structure of Interest Rates
+“Term Structure of Interest Rates
 
 The Martingale Approach.
 
-### ” Advances in Applied Mathematics 10
+” Advances in Applied Mathematics 10
 
 95-129.
 
@@ -29266,9 +29264,9 @@ Heath.
 
 “Completeness and Non-Unique Pricing.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Operations Research
+# Department of Operations Research
 
 Cornell University.
 
@@ -29320,9 +29318,9 @@ Thurston.
 
 “Markovian Term Structure Movements.
 
-## ” Working Paper
+” Working Paper
 
-## School of Banking and Finance
+# School of Banking and Finance
 
 University of New South Wales.
 
@@ -29342,11 +29340,11 @@ Newman.
 
 (1999).
 
-## “Weighted Monte Carlo
+“Weighted Monte Carlo
 
 A New Technique for Calibrating Asset-Pricing Models.
 
-## ” Working Paper
+” Working Paper
 
 Courant Institute of Mathematical Sciences.
 
@@ -29360,7 +29358,7 @@ Paras.
 
 “Dynamic Hedging Strategies for Derivative Securities in the Presence of Large Transaction Costs.
 
-### ” Applied Mathematical Finance 1
+” Applied Mathematical Finance 1
 
 165-194.
 
@@ -29376,7 +29374,7 @@ Financial Models and Derivative Securities.
 
 Forthcoming.
 
-## Bibliography 377
+# Bibliography 377
 
 Babbs, S.
 
@@ -29384,9 +29382,9 @@ Babbs, S.
 
 “A Family of Ito Process Models for the Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -29412,7 +29410,7 @@ Webber.
 
 “A Theory of the Term Structure with an Official Short Rate.
 
-## ” Working Paper
+” Working Paper
 
 Midland Global Markets and University of Warwick.
 
@@ -29440,7 +29438,7 @@ Back, K.
 
 Contingent Claim Valuation and the Martingale Property.
 
-## ” Working Paper
+” Working Paper
 
 Center for Mathematical Studies in Economics and Management Science
 
@@ -29452,7 +29450,7 @@ Back, K.
 
 “Option Pricing for General Processes.
 
-### ” Journal of Mathematical Economics 20
+” Journal of Mathematical Economics 20
 
 396.
 
@@ -29460,13 +29458,13 @@ Back, K.
 
 (1996).
 
-## “Yield Curve Models
+“Yield Curve Models
 
 A Mathematical Review.
 
-## ” Working Paper
+” Working Paper
 
-## Olin School of Business
+# Olin School of Business
 
 Washington University in St. Louis
 
@@ -29496,7 +29494,7 @@ Pliska.
 
 “Discrete versus Continuous Trading in Securities Markets with Net Worth Constraints.
 
-## ” Working Paper
+” Working Paper
 
 Center for Mathematical Studies in Economics and Management Science
 
@@ -29524,7 +29522,7 @@ Pliska.
 
 “On the Fundamental Theorem of Asset Pricing with an Infinite State Space.
 
-### ” Journal of Mathematical Economics 20
+” Journal of Mathematical Economics 20
 
 1-18.
 
@@ -29554,7 +29552,7 @@ Portait.
 
 “Dynamic Asset Allocation in a Mean-Variance Framework.
 
-## ” Working Paper
+” Working Paper
 
 ESSEC and Laboratoire d’Économétrie de L'École Polytechnique.
 
@@ -29566,11 +29564,11 @@ Portait.
 
 (1997).
 
-## “The Numeraire Portfolio
+“The Numeraire Portfolio
 
 A New Methodology for Financial Theory.
 
-### ” European Journal of Finance 3
+” European Journal of Finance 3
 
 291-309.
 
@@ -29594,7 +29592,7 @@ Rochet.
 
 (1996).
 
-## “Dynamic Spanning
+“Dynamic Spanning
 
 Are Options an Appropriate Instrument?
 
@@ -29624,11 +29622,11 @@ Madan.
 
 “Pricing Average-Rate Contingent Claims.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-### College of Business and Management
+# College of Business and Management
 
 University of.
 
@@ -29678,11 +29676,11 @@ Siconolfi.
 
 “The Structure of Financial Equilibrium with
 
-## Exogenous Yields
+# Exogenous Yields
 
 The Case of Restricted Participation.
 
-## ” *Journal of Mathematical
+” *Journal of Mathematical
 
 Economics* 19: 195-216.
 
@@ -29694,9 +29692,9 @@ Balduzzi, P.
 
 ” Working Paper, Department of
 
-## Finance
+# Finance
 
-## Stern School of Business
+# Stern School of Business
 
 New York University.
 
@@ -29712,15 +29710,15 @@ Klapper.
 
 (1998).
 
-### “Interest Rate Targeting and the
+“Interest Rate Targeting and the
 
 Dynamics of Short-Term Interest Rates.
 
-## ” *Journal of Money
+” *Journal of Money
 
-## Credit
+# Credit
 
-## and Banking* 30
+and Banking* 30
 
 26-50.
 
@@ -29734,9 +29732,9 @@ Foresi.
 
 (1998).
 
-## “The Central Tendency
+“The Central Tendency
 
-## A Second Factor in Bond
+# A Second Factor in Bond
 
 Yields.
 
@@ -29756,7 +29754,7 @@ Sundaram.
 
 (1996).
 
-### “A Simple Approach to Three Factor
+“A Simple Approach to Three Factor
 
 Affine Term Structure Models.
 
@@ -29774,7 +29772,7 @@ Lynch.
 
 “Samuelson’s Irrelevance Result Reconsidered
 
-## The Case
+# The Case
 
 of Transaction Costs.
 
@@ -29788,13 +29786,13 @@ Lynch.
 
 (1999).
 
-### “Transaction Costs and Predictability
+“Transaction Costs and Predictability
 
-## Some Utility Cost
+# Some Utility Cost
 
 Calculations.
 
-### ” *Journal of Financial Economics* 52
+” *Journal of Financial Economics* 52
 
 47-78.
 
@@ -29808,7 +29806,7 @@ Roma.
 
 “Stochastic Volatility Option Pricing.
 
-## ” *Journal of Financial and
+” *Journal of Financial and
 
 Quantitative Analysis* 29: 589-607.
 
@@ -29836,9 +29834,9 @@ Torous.
 
 “Regime Shifts in Short-Term Interest Rate Dynamics.
 
-## Working Paper
+# Working Paper
 
-### Owen Graduate School of Management
+# Owen Graduate School of Management
 
 Vanderbilt University.
 
@@ -29850,11 +29848,11 @@ Bally, V.
 
 Nonlinear PDE’s.
 
-## ” Working Paper
+” Working Paper
 
-### Laboratoire De Statistique et Processus
+# Laboratoire De Statistique et Processus
 
-## Uni-
+# Uni-
 
 versités du Maine et D’Angers.
 
@@ -29872,7 +29870,7 @@ Equations: II.
 
 Convergence Rate of the Density.
 
-### ” *Monte Carlo Methods and Appli-
+” *Monte Carlo Methods and Appli-
 
 cations* 2: 93-128.
 
@@ -29900,9 +29898,9 @@ Miller.
 
 (1978).
 
-### “Prices for State-Contingent Claims
+“Prices for State-Contingent Claims
 
-## Some Evidence and
+# Some Evidence and
 
 Applications.
 
@@ -29920,7 +29918,7 @@ Santos.
 
 “Prospect Theory and Asset Prices.
 
-## ” *Quarterly
+” *Quarterly
 
 Journal of Economics*, 116: 1-53.
 
@@ -29934,11 +29932,11 @@ Pardoux.
 
 (1997).
 
-### “Backward Stochastic Differential Equa-
+“Backward Stochastic Differential Equa-
 
 tions and Integral-Partial Differential Equations.
 
-### ” *Stochastics and Stochastics Reports*
+” *Stochastics and Stochastics Reports*
 
 60: 57-83.
 
@@ -29954,13 +29952,13 @@ Samsoen.
 
 (1993).
 
-## “Estimation de la Frontiére
+“Estimation de la Frontiére
 
 Libre des Options Américaines au Voisinage de l’Echéance.
 
-## ” *Comptes Rendus de
+” *Comptes Rendus de
 
-### l’Académie des Sciences de Paris* 316-I
+l’Académie des Sciences de Paris* 316-I
 
 171-174.
 
@@ -29976,7 +29974,7 @@ Samsoen.
 
 (1995).
 
-## “Critical Stock Price Near
+“Critical Stock Price Near
 
 Expiration.
 
@@ -29992,7 +29990,7 @@ Romano.
 
 (1992).
 
-### “Convergence of Numerical Schemes for
+“Convergence of Numerical Schemes for
 
 Parabolic Equations Arising in Finance Theory.
 
@@ -30000,7 +29998,7 @@ Parabolic Equations Arising in Finance Theory.
 
 CEREMADE, Université de Paris.
 
-## Bibliography 379
+# Bibliography 379
 
 Barles, G.
 
@@ -30016,7 +30014,7 @@ Lesigne.
 
 El Karoui and L.
 
-## Mazliak
+# Mazliak
 
 (Eds.
 
@@ -30038,15 +30036,15 @@ Touzi.
 
 (1993).
 
-### “Contingent Claims and Market Com-
+“Contingent Claims and Market Com-
 
 pleteness in a Stochastic Volatility Model.
 
 ” Working Paper, Département de
 
-## Mathématiques
+Mathématiques
 
-## Université de Tours
+Université de Tours
 
 France.
 
@@ -30088,9 +30086,9 @@ Risa.
 
 Repo Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Instituto Mobiliare Italiano
+# Instituto Mobiliare Italiano
 
 Rome.
 
@@ -30118,9 +30116,9 @@ Barraquand, J.
 
 Securities.
 
-## ” Working Paper
+” Working Paper
 
-## Digital Research Laboratory
+# Digital Research Laboratory
 
 Paris.
 
@@ -30168,7 +30166,7 @@ Basak, S.
 
 “A General Equilibrium Model of Portfolio Insurance.
 
-## ” *Review of Financial
+” *Review of Financial
 
 Studies* 8: 1059-1090.
 
@@ -30192,7 +30190,7 @@ Cuoco.
 
 ticipation.
 
-### ” *Review of Financial Studies* 11
+” *Review of Financial Studies* 11
 
 309-341.
 
@@ -30200,13 +30198,13 @@ Bates, D.
 
 (1996).
 
-### “Jumps and Stochastic Volatility
+“Jumps and Stochastic Volatility
 
-### Exchange Rate Processes Implicit in
+# Exchange Rate Processes Implicit in
 
 Deutsche Mark Option.
 
-### ” *Review of Financial Studies* 9
+” *Review of Financial Studies* 9
 
 69-107.
 
@@ -30218,9 +30216,9 @@ Bates, D.
 
 ” Working Paper,
 
-## Finance Department
+# Finance Department
 
-## Wharton School
+# Wharton School
 
 University of Pennsylvania.
 
@@ -30230,11 +30228,11 @@ Baxter, M.
 
 “General Interest-Rate Models and the Universality of HJM.
 
-## ” Working
+” Working
 
 Paper, Statistical Laboratory
 
-## University of Cambridge
+# University of Cambridge
 
 Cambridge.
 
@@ -30248,11 +30246,11 @@ Das.
 
 “Analytical Approximations of the Term Structure for Jump-
 
-## Diffusion Processes
+# Diffusion Processes
 
 A Numerical Analysis.
 
-### ” *Journal of Fixed Income* 6 (1)
+” *Journal of Fixed Income* 6 (1)
 
 78-86.
 
@@ -30262,7 +30260,7 @@ Beaglehole, D.
 
 “Tax Clientele and Stochastic Processes in the Gilt Market.
 
-## ” Working
+” Working
 
 Paper, Graduate School of Business
 
@@ -30290,11 +30288,11 @@ Boyd.
 
 (1993).
 
-## “Recursive Utility
+“Recursive Utility
 
 Discrete Time Theory.
 
-## ” *Hitotsubashi Journal
+” *Hitotsubashi Journal
 
 of Economics* 34: 49-98.
 
@@ -30306,7 +30304,7 @@ Beckers, S.
 
 Stock Price Variability.
 
-### ” *Journal of Banking and Finance* 5
+” *Journal of Banking and Finance* 5
 
 363-382.
 
@@ -30322,17 +30320,17 @@ Lerche.
 
 Stopping Problems.
 
-## ” Working Paper
+” Working Paper
 
-### Institut für Mathematische Stochastik
+Institut für Mathematische Stochastik
 
-## Uni-
+# Uni-
 
 versity of Bonn.
 
-## --- Page 200 ---
+--- Page 200 ---
 
-## 380 Bibliography
+380 Bibliography
 
 Beibel, M.
 
@@ -30372,7 +30370,7 @@ Moro (Eds.
 
 *Nonlinear Filtering and Stochastic Control*
 
-### Lecture Notes in Mathematics 972
+# Lecture Notes in Mathematics 972
 
 pp. 1-62.
 
@@ -30398,17 +30396,17 @@ Galai.
 
 (1995a).
 
-### “Black-Scholes Approximation of Com-
+“Black-Scholes Approximation of Com-
 
-## plex Option Values
+plex Option Values
 
 The Cases of European Compound Call Options and Equity
 
 Warrants.
 
-## ” Working Paper
+” Working Paper
 
-### Université Paris Dauphine and INRIA
+Université Paris Dauphine and INRIA
 
 France.
 
@@ -30424,11 +30422,11 @@ Galai.
 
 “Stochastic Equity Volatility Related to the
 
-## Leverage Effect II
+# Leverage Effect II
 
 Valuation of European Equity Options and Warrants.
 
-## ” *Applied
+” *Applied
 
 Mathematical Finance* 2: 43-59.
 
@@ -30448,9 +30446,9 @@ tion and Nonlinear Integro-Differential Equations with Gradient Constraint
 
 Viscosity Solution Approach.
 
-## ” Working Paper
+” Working Paper
 
-### Centre for Mathematical Physics
+# Centre for Mathematical Physics
 
 and Stochastics.
 
@@ -30478,9 +30476,9 @@ An Econometric Analy-sis.
 
 ” Working Paper, J.
 
-### Kellog Graduate School of Management
+# Kellog Graduate School of Management
 
-## Northwestern
+# Northwestern
 
 University.
 
@@ -30504,7 +30502,7 @@ Bergman, Y.
 
 “Time Preference and Capital Asset Pricing Models.
 
-## ” Journal of Financial
+” Journal of Financial
 
 Economics 14: 145-159.
 
@@ -30514,7 +30512,7 @@ Bergman, Y.
 
 “Option Pricing with Differential Interest Rates.
 
-## ” Review of Financial
+” Review of Financial
 
 Studies 8: 475-500.
 
@@ -30528,7 +30526,7 @@ Wiener.
 
 (1996).
 
-### “Generalized Theory of Rational Option
+“Generalized Theory of Rational Option
 
 Pricing.
 
@@ -30540,11 +30538,11 @@ Berk, J.
 
 “The Necessary and Sufficient Conditions that Imply the CAPM.
 
-## ” Working
+” Working
 
 Paper, Faculty of Commerce
 
-### University of British Columbia
+# University of British Columbia
 
 Canada.
 
@@ -30554,7 +30552,7 @@ Berk, J.
 
 “Necessary Conditions for the CAPM.
 
-### ” Journal of Economic Theory 73
+” Journal of Economic Theory 73
 
 245-257.
 
@@ -30570,7 +30568,7 @@ Uhlig.
 
 work.
 
-### ” Journal of Economic Theory 59
+” Journal of Economic Theory 59
 
 275-287.
 
@@ -30588,7 +30586,7 @@ Tubaro.
 
 Method for the Kolmogorov Equation with Variable Coefficients.
 
-## ” Mathematics of
+” Mathematics of
 
 Computation 63: 555-587.
 
@@ -30608,7 +30606,7 @@ Shreve.
 
 (1978).
 
-## Stochastic Optimal Control
+# Stochastic Optimal Control
 
 The Discrete Time Case.
 
@@ -30638,7 +30636,7 @@ Bewley, T.
 
 Journal of Economic Theory 4: 514-540.
 
-## Bibliography 381
+# Bibliography 381
 
 Bewley, T.
 
@@ -30646,9 +30644,9 @@ Bewley, T.
 
 “Thoughts on Volatility Tests of the Intertemporal Asset Pricing Model.
 
-## Working Paper
+# Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Northwestern University.
 
@@ -30664,11 +30662,11 @@ Chiarella.
 
 Markovian Systems.
 
-## ” Working Paper
+” Working Paper
 
-### School of Finance and Economics
+# School of Finance and Economics
 
-## Univer-
+# Univer-
 
 sity of Technology, Sydney.
 
@@ -30686,7 +30684,7 @@ Bick, A.
 
 “Producing Derivative Assets with Forward Contracts.
 
-## ” Journal of Financial
+” Journal of Financial
 
 and Quantitative Analysis 2: 153-160.
 
@@ -30698,11 +30696,11 @@ Bick, A.
 
 ” Working Paper, Faculty of Business
 
-## Administration
+# Administration
 
-## Simon Fraser University
+# Simon Fraser University
 
-## Vancouver
+# Vancouver
 
 Canada.
 
@@ -30738,11 +30736,11 @@ Reisman.
 
 ” Working Paper, Faculty
 
-## of Business Administration
+of Business Administration
 
-## Simon Fraser University
+# Simon Fraser University
 
-## Vancouver
+# Vancouver
 
 Canada.
 
@@ -30756,9 +30754,9 @@ Willinger.
 
 “Dynamic Spanning without Probabilities.
 
-## ” Stochastic Pro-
+” Stochastic Pro-
 
-### cesses and Their Applications 50
+cesses and Their Applications 50
 
 349-374.
 
@@ -30770,11 +30768,11 @@ Rutkowski.
 
 (1999a).
 
-## “Credit Risk Modelling
+“Credit Risk Modelling
 
 A Multiple Ratings Case.
 
-## Working Paper
+# Working Paper
 
 Northeastern Illinois University and Technical University of
 
@@ -30790,13 +30788,13 @@ Rutkowski.
 
 “Modelling of the Defaultable Term Structure
 
-## Con-
+# Con-
 
 ditionally Markov Approach.
 
-## ” Working Paper
+” Working Paper
 
-### Northeastern Illinois University
+# Northeastern Illinois University
 
 and Technical University of Warsaw.
 
@@ -30808,13 +30806,13 @@ Rutkowski.
 
 (2000).
 
-## “Credit Risk Modelling
+“Credit Risk Modelling
 
 Intensity Based Approach.
 
-## Working Paper
+# Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Northeastern Illinois University.
 
@@ -30836,7 +30834,7 @@ Stensland.
 
 “Closed-Form Approximation of American Options.
 
-### Scandinavian Journal of Management 9
+# Scandinavian Journal of Management 9
 
 S87-S99.
 
@@ -30846,11 +30844,11 @@ Bjork, T.
 
 “Interest Rate Theory.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## Stockholm
+# Stockholm
 
 School of Economics.
 
@@ -30888,7 +30886,7 @@ Runggaldier.
 
 (1997).
 
-## “Towards a General Theory of
+“Towards a General Theory of
 
 Bond Markets.
 
@@ -30904,7 +30902,7 @@ Gombani.
 
 “Minimal Realizations of Interest Rate Models.
 
-## ” Finance
+” Finance
 
 and Stochastics 3: 413-432.
 
@@ -30918,19 +30916,19 @@ Runggaldier.
 
 (1995).
 
-### “Bond Markets where Prices are Driven
+“Bond Markets where Prices are Driven
 
 by a General Marked Point Process.
 
-## ” Working Paper
+” Working Paper
 
-## Optimization and Systems
+# Optimization and Systems
 
-## Theory
+# Theory
 
-## Department of Mathematics
+# Department of Mathematics
 
-## Royal Institute of Technology
+# Royal Institute of Technology
 
 Stockholm.
 
@@ -30940,7 +30938,7 @@ Black, F.
 
 “Capital Market Equilibrium with Restricted Borrowing.
 
-## ” Journal of Business
+” Journal of Business
 
 45: 444-454.
 
@@ -30960,13 +30958,13 @@ Black, F.
 
 “Mean Reversion and Consumption Smoothing.
 
-## ” Review of Financial Studies
+” Review of Financial Studies
 
 3: 107-114.
 
-## --- Page 201 ---
+--- Page 201 ---
 
-## 382 Bibliography
+382 Bibliography
 
 Black, F.
 
@@ -30984,11 +30982,11 @@ Cox.
 
 (1976).
 
-## “Valuing Corporate Securities
+“Valuing Corporate Securities
 
-## Liabilities
+# Liabilities
 
-## Some Effects of Bond
+# Some Effects of Bond
 
 Indenture Provisions.
 
@@ -31006,11 +31004,11 @@ Kani.
 
 “A Two-Factor Model of Interest Rates.
 
-## ” Working
+” Working
 
 Paper, Goldman
 
-## Sachs and Company
+# Sachs and Company
 
 New York.
 
@@ -31028,7 +31026,7 @@ Toy.
 
 Its Application to Treasury Bond Options.
 
-### ” Financial Analysts Journal January-
+” Financial Analysts Journal January-
 
 February: 33-39.
 
@@ -31058,7 +31056,7 @@ Scholes.
 
 “The Pricing of Options and Corporate Liabilities.
 
-## ” Journal
+” Journal
 
 of Political Economy 81: 637-654.
 
@@ -31068,7 +31066,7 @@ Blackwell, D.
 
 “Discounted Dynamic Programming.
 
-### ” Annals of Mathematical Statistics
+” Annals of Mathematical Statistics
 
 36: 226-235.
 
@@ -31086,7 +31084,7 @@ O’Hara.
 
 tic Dynamic Programs.
 
-### ” Journal of Economic Theory 28
+” Journal of Economic Theory 28
 
 221-234.
 
@@ -31146,9 +31144,9 @@ Gouriéroux.
 
 is Stochastic.
 
-## ” Working Paper
+” Working Paper
 
-### California Institute of Technology
+# California Institute of Technology
 
 Pasadena.
 
@@ -31176,7 +31174,7 @@ Léffler.
 
 “Market Demand Functions in the CAPM.
 
-## Working Paper
+# Working Paper
 
 Delta, Université de Paris.
 
@@ -31186,11 +31184,11 @@ Bottazzi, J.
 
 “Existence of Equilibria with Incomplete Markets
 
-## The Case of Smooth
+# The Case of Smooth
 
 Returns.
 
-### ” Journal of Mathematical Economics 24
+” Journal of Mathematical Economics 24
 
 59-72.
 
@@ -31218,15 +31216,15 @@ Whitelaw.
 
 (1995).
 
-## “Pricing Mortgage-Backed
+“Pricing Mortgage-Backed
 
 Securities in a Multifactor Interest Rate Environment
 
-## A Multivariate Density Esti-
+# A Multivariate Density Esti-
 
 mation Approach.
 
-## ” Working Paper
+” Working Paper
 
 Institute of Business and Economic Research
 
@@ -31270,15 +31268,15 @@ Levendorskii.
 
 (2000a).
 
-### “Pricing of the Perpetual American Call
+“Pricing of the Perpetual American Call
 
 Under Lévy Processes.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University
+# University
 
 of Pennsylvania.
 
@@ -31292,15 +31290,15 @@ Levendorskii.
 
 “Pricing of the Perpetual American PutUnder Lévy Processes.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University
+# University
 
 of Pennsylvania.
 
-## Bibliography 383
+# Bibliography 383
 
 Boyle, P (1977).
 
@@ -31316,7 +31314,7 @@ Boyle, P.
 
 “A Lattice Framework for Option Pricing with Two State Variables.
 
-## ” Journal
+” Journal
 
 of Financial and Quantitative Analysis 23
 
@@ -31330,11 +31328,11 @@ Boyle, P.
 
 Time Methods.
 
-## ” Working Paper
+” Working Paper
 
-## Accounting Group
+# Accounting Group
 
-## University of Waterloo
+# University of Waterloo
 
 Waterloo, Canada.
 
@@ -31348,7 +31346,7 @@ Glasserman.
 
 (1997).
 
-### “Monte Carlo Methods for Security Pric-
+“Monte Carlo Methods for Security Pric-
 
 ing.
 
@@ -31370,7 +31368,7 @@ Gibbs.
 
 Claims.
 
-### ” Review of Financial Studies 2
+” Review of Financial Studies 2
 
 241-250.
 
@@ -31400,11 +31398,11 @@ Wang.
 
 Catch of Derivative Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## School of Accountancy
+# School of Accountancy
 
-## University
+# University
 
 of Waterloo.
 
@@ -31414,11 +31412,11 @@ Brace, A.
 
 “Non-Bushy Trees for Gaussian HJM and Lognormal Forward Models.
 
-## Working Paper
+# Working Paper
 
-## School of Mathematics
+# School of Mathematics
 
-## University of New South Wales
+# University of New South Wales
 
 Australia.
 
@@ -31446,15 +31444,15 @@ Musiela.
 
 “Swap Derivatives in a Gaussian HJM Framework.
 
-## ” Work-
+” Work-
 
-## ing Paper
+ing Paper
 
-## Treasury Group
+# Treasury Group
 
-## Citibank
+# Citibank
 
-## Sydney
+# Sydney
 
 Australia.
 
@@ -31470,11 +31468,11 @@ Musiela.
 
 ” Working Paper,
 
-## Treasury Group
+# Treasury Group
 
-## Citibank
+# Citibank
 
-## Sydney
+# Sydney
 
 Australia.
 
@@ -31486,11 +31484,11 @@ Musiela.
 
 (1995b).
 
-## “Hedging
+“Hedging
 
-## Duration
+# Duration
 
-## Bucketing and Convexity in a
+# Bucketing and Convexity in a
 
 Gaussian Heath Jarrow Morton Framework.
 
@@ -31508,7 +31506,7 @@ Musiela.
 
 “The Market Model of Interest Rate Dynamics.
 
-## ” Mathe-
+” Mathe-
 
 matical Finance 7: 127-155.
 
@@ -31518,11 +31516,11 @@ Bray, M.
 
 “The Arbitrage Pricing Theory is Not Robust 1
 
-## Variance Matrices and
+# Variance Matrices and
 
 Portfolio Theory in Pictures.
 
-## ” Working Paper
+” Working Paper
 
 London School of Economics.
 
@@ -31532,11 +31530,11 @@ Bray, M.
 
 “The Arbitrage Pricing Theory is Not Robust 2
 
-## Factor Structure and Factor
+# Factor Structure and Factor
 
 Pricing.
 
-## ” Working Paper
+” Working Paper
 
 London School of Economics.
 
@@ -31548,7 +31546,7 @@ Breeden, D.
 
 and Investment Opportunities.
 
-### ” Journal of Financial Economics 7
+” Journal of Financial Economics 7
 
 265-296.
 
@@ -31556,13 +31554,13 @@ Breeden, D.
 
 (1986).
 
-## “Consumption
+“Consumption
 
-## Production
+# Production
 
 Inflation and Interest Rates.
 
-## ” Journal of
+” Journal of
 
 Financial Economics 16: 3-39.
 
@@ -31576,7 +31574,7 @@ Livenberger.
 
 (1989).
 
-### “Empirical Tests of the Consumption
+“Empirical Tests of the Consumption
 
 Oriented CAPM.
 
@@ -31600,7 +31598,7 @@ Brémaud, P.
 
 (1981).
 
-## Point Processes and Queues
+# Point Processes and Queues
 
 Martingale Dynamics.
 
@@ -31616,7 +31614,7 @@ Schwartz.
 
 “The Valuation of American Put Options.
 
-## ” Journal of
+” Journal of
 
 Finance 32: 449-462.
 
@@ -31632,7 +31630,7 @@ Schwartz.
 
 Bonds.
 
-### ” Journal of Banking and Finance 3
+” Journal of Banking and Finance 3
 
 133-155.
 
@@ -31646,7 +31644,7 @@ Schwartz.
 
 “Analysing Convertible Bonds.
 
-## ” Journal of Financial
+” Journal of Financial
 
 and Quantitative Analysis 15: 907-929.
 
@@ -31692,9 +31690,9 @@ Lagnado.
 
 “Strategic Asset Allocation.
 
-## ” Journal of
+” Journal of
 
-### Economic Dynamics and Control 21
+# Economic Dynamics and Control 21
 
 1377-1403.
 
@@ -31726,7 +31724,7 @@ Detemple.
 
 Assets.
 
-### ” Review of Financial Studies 8
+” Review of Financial Studies 8
 
 161-191.
 
@@ -31738,11 +31736,11 @@ Detemple.
 
 (1996).
 
-## “American Option Valuation
+“American Option Valuation
 
-## New Bounds
+# New Bounds
 
-## Approx-
+# Approx-
 
 imations and a Comparison of Existing Methods.
 
@@ -31806,9 +31804,9 @@ Glasserman.
 
 Dimensional American Options.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Columbia University, New York, NY.
 
@@ -31876,7 +31874,7 @@ McCall (Ed.
 
 ), The Economics
 
-### of Information and Uncertainty
+of Information and Uncertainty
 
 pp. 1-46.
 
@@ -31944,7 +31942,7 @@ Structure.
 
 ” Philosophical Transactions of the Royal Society
 
-## Physical Sciences and Engi-
+# Physical Sciences and Engi-
 
 neering 347: 449-598.
 
@@ -31960,7 +31958,7 @@ Schaefer.
 
 Cox, Ingersoll, and Ross Model.
 
-### ” Journal of Financial Economics 35
+” Journal of Financial Economics 35
 
 3-42.
 
@@ -31972,13 +31970,13 @@ Schaefer.
 
 (1996).
 
-### “Ten Years of the Real Term Structure
+“Ten Years of the Real Term Structure
 
 1984-1994.
 
 Journal of Fixed Income 6 (March): 6-22.
 
-## Bibliography 385
+# Bibliography 385
 
 Broze, L.
 
@@ -31994,7 +31992,7 @@ Zakoian.
 
 Short-Term Interest Rate.
 
-## ” Working Paper
+” Working Paper
 
 CORE, Louvain-la-Neuve
 
@@ -32006,7 +32004,7 @@ Buckdahn, R.
 
 “Backward Stochastic Differential Equations Driven by a Martingale.
 
-## Working Paper
+# Working Paper
 
 FB Mathematik der Humboldt-Universität zu Berlin
 
@@ -32020,13 +32018,13 @@ Buckdahn, R.
 
 Delay.
 
-## ” Working Paper
+” Working Paper
 
-## Faculté des Sciences
+Faculté des Sciences
 
-## Département de Mathématiques
+Département de Mathématiques
 
-### Université de Bretagne Occidentale
+Université de Bretagne Occidentale
 
 Brest, France.
 
@@ -32042,7 +32040,7 @@ Price and Constrained Portfolios.
 
 ” Working Paper, Département de Mathéma-
 
-## tiques
+tiques
 
 Université de Bretagne Occidentale.
 
@@ -32058,13 +32056,13 @@ Weber.
 
 (1995).
 
-## “An Empirical Compar-
+“An Empirical Compar-
 
 ison of Alternative Models for Valuing Interest Rate Options.
 
 ” Working Paper,
 
-### Lehrstuhl für Finanzwirtschaft
+Lehrstuhl für Finanzwirtschaft
 
 Universität Mannheim.
 
@@ -32080,7 +32078,7 @@ Shiryaev.
 
 (1998).
 
-## “On Esscher Transforms
+“On Esscher Transforms
 
 in Discrete Finance Models.
 
@@ -32098,7 +32096,7 @@ Johnson.
 
 for American Puts Using a Modified Roll-Geske-Johnson Approach.
 
-## ” Journal of Fi-
+” Journal of Fi-
 
 nance 47: 809-816.
 
@@ -32122,9 +32120,9 @@ Battler, H.
 
 (1995).
 
-## “Evaluation of Callable Bonds
+“Evaluation of Callable Bonds
 
-## Finite Difference Methods
+# Finite Difference Methods
 
 Stability and Accuracy.
 
@@ -32164,11 +32162,11 @@ Morokoff.
 
 “Quasi-Monte Carlo Computation of a Finance Problem.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -32182,11 +32180,11 @@ Morokoff.
 
 “Valuation of Mortgage Backed Securities using the Quasi-Monte Carlo Method.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -32210,13 +32208,13 @@ Calvet, L.
 
 “Incomplete Markets and Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## Littauer Center
+# Littauer Center
 
-## Cambridge
+# Cambridge
 
 Campbell, J.
 
@@ -32224,7 +32222,7 @@ Campbell, J.
 
 “Bond and Stock Returns in a Simple Exchange Model.
 
-### ” Quarterly Journal of Economics 101
+” Quarterly Journal of Economics 101
 
 785-803.
 
@@ -32250,7 +32248,7 @@ Campbell, J.
 
 “Some Lessons from the Yield Curve.
 
-### ” Journal of Economic Perspectives 9
+” Journal of Economic Perspectives 9
 
 129-152.
 
@@ -32286,9 +32284,9 @@ Carr, P.
 
 “European Option Valuation when Carrying Costs are Unknown.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32298,9 +32296,9 @@ Carr, P.
 
 “Deriving Derivatives of Derivative Securities.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32312,9 +32310,9 @@ Carr, P.
 
 “European Put Call Symmetry.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32324,9 +32322,9 @@ Carr, P.
 
 “Valuing Bond Futures and the Quality Option.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32336,9 +32334,9 @@ Carr, P.
 
 “On Approximations for the Values of American Options.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32348,7 +32346,7 @@ Carr, P.
 
 “Two Extensions to Barrier Option Valuation.
 
-### ” Applied Mathematical Finance 2
+” Applied Mathematical Finance 2
 
 173-209.
 
@@ -32358,7 +32356,7 @@ Carr, P.
 
 “Randomization and the American Put.
 
-### ” Review of Financial Studies 11
+” Review of Financial Studies 11
 
 598-626.
 
@@ -32372,9 +32370,9 @@ Chen.
 
 “Valuing Bond Futures and the Quality Option.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32388,9 +32386,9 @@ Ellis.
 
 “Non-Standard Valuation of Barrier Options.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32404,9 +32402,9 @@ Faguet.
 
 “Fast Accurate Valuation of American Options.
 
-## ” Working Paper
+” Working Paper
 
-### Johnson Graduate School of Management
+# Johnson Graduate School of Management
 
 Cornell University.
 
@@ -32420,9 +32418,9 @@ Faguet.
 
 “Valuing Finite-Lived Options as Perpetual.
 
-## ” Working Paper
+” Working Paper
 
-## Johnson School of Management
+# Johnson School of Management
 
 Cornell University.
 
@@ -32438,7 +32436,7 @@ Jarrow.
 
 A New Decomposition into Intrinsic and Time Value.
 
-### ” Review of Financial Studies 3
+” Review of Financial Studies 3
 
 469-492.
 
@@ -32478,7 +32476,7 @@ Madan.
 
 “Option Valuation using the Fast Fourier Transform.
 
-### ” Journal of Computational Finance 2
+” Journal of Computational Finance 2
 
 61-74.
 
@@ -32486,13 +32484,13 @@ Carverhill, A.
 
 (1988).
 
-### “The Ho and Lee Term Structure Theory
+“The Ho and Lee Term Structure Theory
 
 A Continuous Time Version.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -32502,9 +32500,9 @@ Carverhill, A.
 
 “A Survey of Elementary Techniques for Pricing Options on Bonds and Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -32516,9 +32514,9 @@ Carverhill, A.
 
 Equilibrium versus Evolutionary Models.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -32526,9 +32524,9 @@ Carverhill, A.
 
 (1995).
 
-### “A Simplified Exposition of the Heath
+“A Simplified Exposition of the Heath
 
-## Jarrow
+# Jarrow
 
 and Morton Model.
 
@@ -32538,17 +32536,17 @@ Carverhill, A.
 
 (1996).
 
-## “Arbitrage
+“Arbitrage
 
-### the Term Structure of Volatility
+the Term Structure of Volatility
 
 and the Long Forward Rate.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-### University of Science and Technology
+# University of Science and Technology
 
 Hong Kong.
 
@@ -32562,11 +32560,11 @@ Pang.
 
 “Efficient and Flexible Bond Option Valuation in the Heath
 
-## Jarrow
+# Jarrow
 
 and Morton Framework.
 
-### ” Journal of Fixed Income 5 (September)
+” Journal of Fixed Income 5 (September)
 
 70-77.
 
@@ -32576,7 +32574,7 @@ Cass, D.
 
 “Competitive Equilibria in Incomplete Financial Markets.
 
-## ” Working Paper
+” Working Paper
 
 Center for Analytic Research in Economics and the Social Sciences
 
@@ -32596,7 +32594,7 @@ Feiwel (Ed.
 
 ), The Economics of Imperfect Competition and Employment
 
-## Joan Robinson and Beyond
+# Joan Robinson and Beyond
 
 pp. 677-693.
 
@@ -32624,11 +32622,11 @@ Cassese, G.
 
 “An Elementary Remark on Martingale Equivalence and the Fundamental Theorem of Asset Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## Istituto di Economia Politica
+# Istituto di Economia Politica
 
-### Universita Commerciale “Luigi Bocconi
+Universita Commerciale “Luigi Bocconi
 
 ” Milan.
 
@@ -32640,11 +32638,11 @@ Das.
 
 (1998).
 
-### “Pricing Average Interest Rate Options
+“Pricing Average Interest Rate Options
 
 A General Approach.
 
-## ” Working Paper
+” Working Paper
 
 Harvard Business School.
 
@@ -32702,9 +32700,9 @@ Chan, Y.
 
 and Pricing of Derivative Securities.
 
-## ” Working Paper
+” Working Paper
 
-## Bear Stearns and Company
+# Bear Stearns and Company
 
 New York.
 
@@ -32712,13 +32710,13 @@ Chang, F-R.
 
 (1993).
 
-## “Adjustment Costs
+“Adjustment Costs
 
 Optimal Investment and Uncertainty.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Indiana University.
 
@@ -32726,9 +32724,9 @@ Chapman, D.
 
 (1998).
 
-## “Habit Formation
+“Habit Formation
 
-## Consumption
+# Consumption
 
 and State-Prices.
 
@@ -32748,11 +32746,11 @@ Viswanathan.
 
 “American Option Valuation Notes.
 
-## ” Working Paper
+” Working Paper
 
-## Oberwolfach Institute
+# Oberwolfach Institute
 
-## Oberwolfach
+# Oberwolfach
 
 Germany.
 
@@ -32778,9 +32776,9 @@ Scott.
 
 “Maximum Likelihood Estimation for a Multi-Factor Equilibrium Model of the Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 Rutgers University.
 
@@ -32794,7 +32792,7 @@ Scott.
 
 “Pricing Interest Rate Options in a Two-Factor Cox-Ingersoll-Ross Model of the Term Structure.
 
-### ” Review of Financial Studies 5
+” Review of Financial Studies 5
 
 613-636.
 
@@ -32810,9 +32808,9 @@ Scott.
 
 Estimates and Tests from a State-Space Model using a Kalman Filter.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 Rutgers University.
 
@@ -32830,9 +32828,9 @@ Chen, R.
 
 Chen, R.
 
-## --- Page 204 ---
+--- Page 204 ---
 
-## 388 Bibliography
+388 Bibliography
 
 Chen, R-R.
 
@@ -32856,9 +32854,9 @@ Sopranzetti.
 
 “The Valuation of Default-Triggered Credit Derivatives.
 
-## ” Working Paper
+” Working Paper
 
-## Rutgers Business School
+# Rutgers Business School
 
 Department of Finance and Economics.
 
@@ -32870,13 +32868,13 @@ Epstein.
 
 (1999).
 
-## “Ambiguity
+“Ambiguity
 
 Risk and Asset Returns in Continuous Time.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Shandong University.
 
@@ -32886,9 +32884,9 @@ Chen, Z.
 
 “Viable Costs and Equilibrium Prices in Frictional Securities Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 University of Wisconsin.
 
@@ -32898,7 +32896,7 @@ Cheng, S.
 
 “On the Feasibility of Arbitrage-Based Option Pricing when Stochastic Bond Price Processes are Involved.
 
-### ” Journal of Economic Theory 53
+” Journal of Economic Theory 53
 
 185-198.
 
@@ -32910,13 +32908,13 @@ Jarrow.
 
 (1998).
 
-## “Options Markets
+“Options Markets
 
-## Self-Fulfilling Prophecies
+# Self-Fulfilling Prophecies
 
 and Implied Volatilities.
 
-### ” Review of Derivatives Research 2
+” Review of Derivatives Research 2
 
 5-37.
 
@@ -32934,11 +32932,11 @@ Viswanathan.
 
 “Arbitrage Pricing and Hedging of Quanto Options and Interest Rate Claims with Quadratic Gaussian State Variables.
 
-## ” Working Paper
+” Working Paper
 
-## Laboratoire de Probabilités
+Laboratoire de Probabilités
 
-## Université de Paris
+Université de Paris
 
 Chernoff, H.
 
@@ -32950,11 +32948,11 @@ Petkau.
 
 “Numerical Methods for Bayes Sequential Decisions Problems.
 
-## ” Working Paper
+” Working Paper
 
-## Technical Report 34
+# Technical Report 34
 
-## Statistics Center
+# Statistics Center
 
 Massachusetts Institute of Technology.
 
@@ -32968,7 +32966,7 @@ Ghysels.
 
 “A Study towards a Unified Approach to the Joint Estimation of Objective and Risk Neutral Measures for the Purpose of Options Valuation.
 
-### ” Journal of Financial Economics 56
+” Journal of Financial Economics 56
 
 407-458.
 
@@ -32978,11 +32976,11 @@ Cherubini, U.
 
 “The Orthogonal Polynomial Approach to Contingent Claim Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## Banco Commerciale Italiana
+# Banco Commerciale Italiana
 
-## Ufficio Studi
+# Ufficio Studi
 
 Milan.
 
@@ -32998,11 +32996,11 @@ Esposito.
 
 A Note.
 
-## ” Working Paper
+” Working Paper
 
-## Banco Commerciale Italiana
+# Banco Commerciale Italiana
 
-## Ufficio Studi
+# Ufficio Studi
 
 Milan.
 
@@ -33046,7 +33044,7 @@ Yor.
 
 “Brownian Excursions and Barrier Options.
 
-### ” Advances in Applied Probability 29
+” Advances in Applied Probability 29
 
 165-184.
 
@@ -33080,7 +33078,7 @@ Chew, S.
 
 “Axiomatic Utility Theories with the Betweenness Property.
 
-### ” Annals of Operations Research 19
+” Annals of Operations Research 19
 
 273-298.
 
@@ -33106,7 +33104,7 @@ pp. 353-369.
 
 New York: Springer-Verlag.
 
-## Bibliography 389
+# Bibliography 389
 
 Cheyette, O.
 
@@ -33138,7 +33136,7 @@ Hassan.
 
 “Evaluation of Derivative Security Prices in the Heath-Jarrow-Morton Framework as Path Integrals.
 
-### ” Journal of Financial Engineering 6
+” Journal of Financial Engineering 6
 
 121-147.
 
@@ -33178,7 +33176,7 @@ Teicher.
 
 (1978).
 
-## Probability Theory
+# Probability Theory
 
 Independence Interchangeability Martingales.
 
@@ -33190,9 +33188,9 @@ Christensen, B.
 
 “Statistics for Arbitrage-Free Asset Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 New York University.
 
@@ -33202,11 +33200,11 @@ Christensen, P.
 
 “An Intuitive Approach to the Harrison and Kreps Concept of Arbitrage Pricing for Continuous Time Diffusions.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Management
+# Department of Management
 
-## Odense University
+# Odense University
 
 Denmark.
 
@@ -33222,11 +33220,11 @@ Miltersen.
 
 “Dynamic Spanning in the Consumption-Based Capital Asset Pricing Model.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Management
+# Department of Management
 
-## Odense University
+# Odense University
 
 Denmark.
 
@@ -33238,9 +33236,9 @@ Chuang, C.
 
 with a Generalization to Correlated BM and Applications to Barrier Options.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Statistics
+# Department of Statistics
 
 Stanford University.
 
@@ -33304,7 +33302,7 @@ Constantinides, G.
 
 “Capital Market Equilibrium with Transaction Costs.
 
-## ” Journal of
+” Journal of
 
 Political Economy 94: 842-862.
 
@@ -33312,11 +33310,11 @@ Constantinides, G.
 
 (1990).
 
-## “Habit Formation
+“Habit Formation
 
 A Resolution of the Equity Premium Puzzle.
 
-### Journal of Political Economy 98
+# Journal of Political Economy 98
 
 519-543.
 
@@ -33336,7 +33334,7 @@ Constantinides, G.
 
 ” Working Paper,
 
-## Graduate School of Business
+# Graduate School of Business
 
 University of Chicago.
 
@@ -33350,7 +33348,7 @@ Duffie.
 
 “Asset Pricing with Heterogeneous Consumers.
 
-### Journal of Political Economy 104
+# Journal of Political Economy 104
 
 219-240.
 
@@ -33362,7 +33360,7 @@ Zariphopoulou.
 
 (1999).
 
-### “Bounds on Prices of Contingent Claims
+“Bounds on Prices of Contingent Claims
 
 in an Intertemporal Economy with Proportional Transaction Costs and General
 
@@ -33374,15 +33372,15 @@ Cont, R.
 
 (1998).
 
-### “Modeling Term Structure Dynamics
+“Modeling Term Structure Dynamics
 
 An Infinite Dimensional Approach.
 
-## Working Paper
+# Working Paper
 
-### Centre de Mathématiques Appliquées
+Centre de Mathématiques Appliquées
 
-## Ecole Polytechnique
+# Ecole Polytechnique
 
 Palaiseau, France.
 
@@ -33394,9 +33392,9 @@ Viswanathan.
 
 (1991a).
 
-## “Path Dependent Options
+“Path Dependent Options
 
-## The Case of Lookback
+# The Case of Lookback
 
 Options.
 
@@ -33412,7 +33410,7 @@ Viswanathan.
 
 “Probability Measures and Numeraires.
 
-## ” Working
+” Working
 
 Paper, CEREMADE, Université de Paris.
 
@@ -33426,7 +33424,7 @@ Martin.
 
 “Default Risk and Derivative Products.
 
-## ” Applied Mathemat-
+” Applied Mathemat-
 
 ical Finance 3: 53-74.
 
@@ -33456,11 +33454,11 @@ Mello.
 
 Default Risk.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## London Business School
+# London Business School
 
 University of London.
 
@@ -33470,7 +33468,7 @@ Cornell, B.
 
 “The Consumption Based Asset Pricing Model.
 
-## ” Journal of Financial Eco-
+” Journal of Financial Eco-
 
 nomics 9: 103-108.
 
@@ -33490,7 +33488,7 @@ Courtadon, G.
 
 “The Pricing of Options on Default-Free Bonds.
 
-## ” Journal of Financial
+” Journal of Financial
 
 and Quantitative Analysis 17: 75-100.
 
@@ -33504,9 +33502,9 @@ Ordentlich.
 
 “Universal Portfolios with Side Information.
 
-## ” IEEE
+” IEEE
 
-### Transactions on Information Theory 42
+# Transactions on Information Theory 42
 
 348-363.
 
@@ -33518,9 +33516,9 @@ Cox, J.
 
 Process.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -33550,7 +33548,7 @@ Huang.
 
 with an Application to a Portfolio Turnpike Theorem.
 
-## ” Journal of Mathematical
+” Journal of Mathematical
 
 Economics 20: 465-488.
 
@@ -33564,9 +33562,9 @@ Huang.
 
 “A Continuous-Time Portfolio Turnpike Theorem.
 
-## ” Journal
+” Journal
 
-### of Economic Dynamics and Control 16
+of Economic Dynamics and Control 16
 
 491-508.
 
@@ -33600,7 +33598,7 @@ Ross.
 
 Prices.
 
-### ” Journal of Financial Economics 9
+” Journal of Financial Economics 9
 
 321-346.
 
@@ -33644,7 +33642,7 @@ Ross.
 
 “The Valuation of Options for Alternative Stochastic Processes.
 
-### Journal of Financial Economics 3
+# Journal of Financial Economics 3
 
 145-166.
 
@@ -33660,7 +33658,7 @@ Rubinstein.
 
 “Option Pricing: A Simplified Approach.
 
-## ” Journal
+” Journal
 
 of Financial Economics 7: 229-263.
 
@@ -33710,11 +33708,11 @@ Cuoco, D.
 
 in Finite-Dimensional Economies with Incomplete Financial Markets.
 
-## ” Working
+” Working
 
 Paper, Haas School of Business
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -33728,11 +33726,11 @@ Cuoco, D.
 
 with Incomplete Financial Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Wharton School
+# Wharton School
 
-## University
+# University
 
 of Pennsylvania.
 
@@ -33746,9 +33744,9 @@ Liu.
 
 “Optimal Consumption of a Divisible Durable Good.
 
-## ” Journal
+” Journal
 
-### of Economic Dynamics and Control 24
+of Economic Dynamics and Control 24
 
 561-613.
 
@@ -33764,7 +33762,7 @@ Zapatero.
 
 Financial Models.
 
-### ” Review of Financial Studies 13
+” Review of Financial Studies 13
 
 417-431.
 
@@ -33786,7 +33784,7 @@ Willinger.
 
 (1991).
 
-### “A Nonstandard Approach to Option Pric-
+“A Nonstandard Approach to Option Pric-
 
 ing.
 
@@ -33802,9 +33800,9 @@ Willinger.
 
 (1993a).
 
-### “From Discrete to Continuous Financial
+“From Discrete to Continuous Financial
 
-## Models
+# Models
 
 New Convergence Results for Options Pricing.
 
@@ -33834,13 +33832,13 @@ Cvitanić, J.
 
 (1995).
 
-## “Nonlinear Financial Markets
+“Nonlinear Financial Markets
 
 Hedging and Portfolio Optimization.
 
-## ” In
+” In
 
-### Mathematics of Derivative Securities
+# Mathematics of Derivative Securities
 
 pp. 227-254.
 
@@ -33864,7 +33862,7 @@ Cvitanić, J.
 
 “Methods of Partial Hedging.
 
-### ” Asia-Pacific Financial Markets 6
+” Asia-Pacific Financial Markets 6
 
 7-35.
 
@@ -33878,7 +33876,7 @@ Karatzas.
 
 “Convex Duality in Constrained Portfolio Optimization.
 
-### Annals of Applied Probability 2
+# Annals of Applied Probability 2
 
 767-818.
 
@@ -33894,7 +33892,7 @@ Karatzas.
 
 lios.
 
-### ” Annals of Applied Probability 3
+” Annals of Applied Probability 3
 
 652-681.
 
@@ -33968,7 +33966,7 @@ Cvitanić, J.
 
 SDEs.
 
-### ” Annals of Applied Probability 6
+” Annals of Applied Probability 6
 
 370-398.
 
@@ -33982,7 +33980,7 @@ Wang.
 
 (1999).
 
-### “Utility Maximization in Incomplete
+“Utility Maximization in Incomplete
 
 Markets with Random Endowment.
 
@@ -34006,9 +34004,9 @@ Zacklad.
 
 nels Obligatoires à Partir d’un Modèle Multi-Facteurs de la Courbe des Taux.
 
-## Working Paper
+# Working Paper
 
-### Caisse Autonome de Refinancement
+# Caisse Autonome de Refinancement
 
 Paris.
 
@@ -34020,11 +34018,11 @@ Dai, Q.
 
 neous Short Rate.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
-## Stanford Uni-
+# Stanford Uni-
 
 versity.
 
@@ -34036,9 +34034,9 @@ Dai, Q.
 
 lated Three-Factor Vasicek Model.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -34048,9 +34046,9 @@ Dai, Q.
 
 “Technical Notes on CIR Model.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Busi-
+# Graduate School of Busi-
 
 ness, Stanford University.
 
@@ -34060,7 +34058,7 @@ Dai, Q.
 
 “From Equity Premium Puzzle to Expectations Puzzle
 
-## A General Equilibrium
+# A General Equilibrium
 
 Production Economy with Stochastic Habit Formation.
 
@@ -34080,7 +34078,7 @@ Singleton.
 
 Journal of Finance 55: 1943-1978.
 
-## Bibliography 393
+# Bibliography 393
 
 Daigler, R.
 
@@ -34100,11 +34098,11 @@ Willinger.
 
 (1990).
 
-### “Equivalent Martingale Measures and No-
+“Equivalent Martingale Measures and No-
 
 Arbitrage in Stochastic Securities Market Models.
 
-### ” Stochastics and Stochastic Reports
+” Stochastics and Stochastic Reports
 
 29: 185-201.
 
@@ -34150,13 +34148,13 @@ Dana, R.
 
 (1993b).
 
-## “Existence
+“Existence
 
 Uniqueness and Determinacy of Arrow-Debreu Equilibria
 
 in Finance Models.
 
-### ” Journal of Mathematical Economics 22
+” Journal of Mathematical Economics 22
 
 563-580.
 
@@ -34172,7 +34170,7 @@ Le Van.
 
 A Duality Approach.
 
-### ” Journal of Mathematical Economics 25
+” Journal of Mathematical Economics 25
 
 263-280.
 
@@ -34186,7 +34184,7 @@ Pontier.
 
 “On the Existence of a Stochastic Equilibrium.
 
-## ” Working
+” Working
 
 Paper, Université de Paris VI, Paris.
 
@@ -34202,7 +34200,7 @@ Laurent.
 
 (1993).
 
-## “Parameter Estimation for
+“Parameter Estimation for
 
 Yield Curve Models using Contrast Methods.
 
@@ -34216,7 +34214,7 @@ Darling, R.
 
 “Constructing Gamma-Martingales with Prescribed Limit
 
-## Using Back-
+# Using Back-
 
 ward SDE.
 
@@ -34230,7 +34228,7 @@ Das, S.
 
 ” Working Paper, Depart-
 
-## ment of Finance
+ment of Finance
 
 Harvard Business School.
 
@@ -34250,13 +34248,13 @@ Das, S.
 
 “Mean Rate Shifts and Alternative Models of the Interest Rate
 
-## Theory and
+# Theory and
 
 Evidence.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 New York University.
 
@@ -34266,7 +34264,7 @@ Das, S.
 
 “Pricing Interest Rate Derivatives with Arbitrary Skewness and Kurtosis
 
-## A Sim-
+# A Sim-
 
 ple Approach to Jump-Diffusion Bond Option Pricing.
 
@@ -34280,7 +34278,7 @@ Das, S.
 
 “Discrete-Time Bond and Option Pricing for Jump-Diffusion Processes.
 
-### Review of Derivatives Research 1
+# Review of Derivatives Research 1
 
 211-243.
 
@@ -34292,7 +34290,7 @@ Das, S.
 
 ” Working Paper, Depart-
 
-## ment of Finance
+ment of Finance
 
 Harvard Business School.
 
@@ -34308,7 +34306,7 @@ Foresi.
 
 Jump Risk.
 
-### ” Review of Derivatives Research 1
+” Review of Derivatives Research 1
 
 7-24.
 
@@ -34336,7 +34334,7 @@ Tufano.
 
 “Pricing Credit Sensitive Debt when Interest Rates
 
-## Credit
+# Credit
 
 Ratings and Credit Spreads are Stochastic.
 
@@ -34350,9 +34348,9 @@ Dash, J.
 
 “Path Integrals and Options—I.
 
-## ” Working Paper
+” Working Paper
 
-## Financial Strategies Group
+# Financial Strategies Group
 
 Merrill Lynch Capital Markets, New York.
 
@@ -34368,9 +34366,9 @@ the Pricing of Related Path-Dependent Options.
 
 Statistics, London School of Economics.
 
-## --- Page 207 ---
+--- Page 207 ---
 
-## 394 Bibliography
+394 Bibliography
 
 Davis, M.
 
@@ -34390,9 +34388,9 @@ Clark.
 
 “Analysis of Financial Models including Transactions Costs.
 
-## Working Paper
+# Working Paper
 
-## Imperial College
+# Imperial College
 
 University of London.
 
@@ -34406,7 +34404,7 @@ Lischka.
 
 “Convertible Bonds with Market Risk and Credit Risk.
 
-## Working Paper
+# Working Paper
 
 Tokyo-Mitsubishi International plc.
 
@@ -34430,7 +34428,7 @@ Davis, M.
 
 “Modelling Default Correlation in Bond Portfolios.
 
-## ” Working
+” Working
 
 Paper, Tokyo-Mitsubishi International plc.
 
@@ -34446,11 +34444,11 @@ Mavroidis.
 
 Swaps.
 
-## ” Working Paper
+” Working Paper
 
-### Research and Product Development
+# Research and Product Development
 
-## Tokyo-Mitsubishi
+# Tokyo-Mitsubishi
 
 International plc.
 
@@ -34464,7 +34462,7 @@ Norman.
 
 “Portfolio Selection with Transaction Costs.
 
-## ” Mathematics
+” Mathematics
 
 of Operations Research 15: 676-713.
 
@@ -34478,11 +34476,11 @@ Panas.
 
 “European Option Pricing with Transaction Costs.
 
-## ” Pro-
+” Pro-
 
 ceedings of the Thirtieth IEEE Conference on Decision and Control
 
-## Brighton
+# Brighton
 
 December, pp. 1299-1304.
 
@@ -34496,7 +34494,7 @@ Zariphopoulou.
 
 (1993).
 
-### “European Option Pricing with Transac-
+“European Option Pricing with Transac-
 
 tion Costs.
 
@@ -34582,7 +34580,7 @@ Debreu, G.
 
 “Valuation Equilibrium and Pareto Optimum.
 
-## ” Proceedings of the National
+” Proceedings of the National
 
 Academy of Sciences 40: 588-592.
 
@@ -34604,11 +34602,11 @@ Debreu, G.
 
 “Smooth Preferences.
 
-## ” Econometrica 40
+” Econometrica 40
 
 603-615
 
-## Corrigendum 44 (1976)
+Corrigendum 44 (1976)
 
 831-832.
 
@@ -34622,13 +34620,13 @@ Debreu, G.
 
 Arrow and M.
 
-## Intriligator
+# Intriligator
 
 (Eds.
 
 ), Handbook of Mathematical Economics
 
-## Volume II
+# Volume II
 
 pp. 697-743.
 
@@ -34662,7 +34660,7 @@ Faure-Grimaud.
 
 “Should I Stay or Should I Go?
 
-## Excessive
+# Excessive
 
 Continuation and Dynamic Agency Costs of Debt.
 
@@ -34678,17 +34676,17 @@ Koehl.
 
 (1994).
 
-### “Pricing and Hedging Asian Options
+“Pricing and Hedging Asian Options
 
 A PDE Approach.
 
-## Working Paper
+# Working Paper
 
-## GREMAQ
+# GREMAQ
 
 Université des Sciences Sociales.
 
-## Bibliography 395
+# Bibliography 395
 
 Décamps, J.
 
@@ -34716,9 +34714,9 @@ Delbaen.
 
 tions Related to the Bessel Process.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Vrije Universiteit Brussel.
 
@@ -34734,9 +34732,9 @@ Delbaen.
 
 els.
 
-## ” Insurance
+” Insurance
 
-## Mathematics and Economics 17
+# Mathematics and Economics 17
 
 163-169.
 
@@ -34782,7 +34780,7 @@ Stricker.
 
 (1994).
 
-## “Inégalités
+“Inégalités
 
 de Normes avec Poids et Fermeture d’un Espace d’Intégrales Stochastiques.
 
@@ -34852,9 +34850,9 @@ Duffie, D.
 
 ” Journal of Finance 51: 493-526.
 
-## --- Page 209 ---
+--- Page 209 ---
 
-## 398 Bibliography
+398 Bibliography
 
 Duffie, D.
 
@@ -34862,7 +34860,7 @@ Duffie, D.
 
 “Defaultable Term Structures with Fractional Recovery of Par.
 
-## ” Working
+” Working
 
 Paper, Graduate School of Business
 
@@ -34874,9 +34872,9 @@ Duffie, D.
 
 “First to Default Valuation.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -34890,7 +34888,7 @@ Epstein.
 
 “Asset Pricing with Stochastic Differential Utility.
 
-## ” Review
+” Review
 
 of Financial Studies 5: 411-436.
 
@@ -34922,7 +34920,7 @@ Zariphopoulou.
 
 (1997).
 
-## “Hedging in Incomplete
+“Hedging in Incomplete
 
 Markets with HARA Utility.
 
@@ -34968,7 +34966,7 @@ McLennan.
 
 (1994).
 
-## “Stationary Markov
+“Stationary Markov
 
 Equilibria.
 
@@ -34988,7 +34986,7 @@ Skiadas.
 
 Stochastic Differential Utility.
 
-### ” Journal of Mathematical Economics 23
+” Journal of Mathematical Economics 23
 
 133-146.
 
@@ -35002,7 +35000,7 @@ Glynn.
 
 “Efficient Monte Carlo Estimation of Security Prices.
 
-## ” Annals
+” Annals
 
 of Applied Probability 5: 897-905.
 
@@ -35018,7 +35016,7 @@ Harrison.
 
 Lookback Options.
 
-### ” Annals of Applied Probability 3
+” Annals of Applied Probability 3
 
 641-651.
 
@@ -35046,7 +35044,7 @@ Huang.
 
 “Multiperiod Security Markets with Differential Infor-
 
-## mation
+mation
 
 Martingales and Resolution Times.
 
@@ -35094,11 +35092,11 @@ Kan.
 
 “A Yield-Factor Model of Interest Rates.
 
-## ” Mathematical Finance
+” Mathematical Finance
 
 6: 379-406
 
-## reprinted in Options Markets
+reprinted in Options Markets
 
 edited by G.
 
@@ -35118,11 +35116,11 @@ Lando.
 
 Accounting Information.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
-## Stanford
+# Stanford
 
 University.
 
@@ -35138,7 +35136,7 @@ Lions.
 
 “PDE Solutions of Stochastic Differential Utility.
 
-## ” Journal
+” Journal
 
 of Mathematical Economics 21: 577-606.
 
@@ -35154,7 +35152,7 @@ Yong.
 
 “Black’s Consol Rate Conjecture.
 
-## ” Annals of Applied
+” Annals of Applied
 
 Probability 5: 356-382.
 
@@ -35184,21 +35182,21 @@ Singleton.
 
 (2000).
 
-### “Modeling Sovereign Yield Spreads
+“Modeling Sovereign Yield Spreads
 
-## A Case
+# A Case
 
 Study of Russian Debt.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
-## Stanford
+# Stanford
 
 University.
 
-## Bibliography 399
+# Bibliography 399
 
 Duffie, D.
 
@@ -35210,7 +35208,7 @@ Protter.
 
 “From Discrete to Continuous Time Finance
 
-## Weak Con-
+# Weak Con-
 
 vergence of the Financial Gain Process.
 
@@ -35242,7 +35240,7 @@ Skiadas.
 
 ties and the Timing of the Resolution of Uncertainty.
 
-### ” Annals of Applied Probability
+” Annals of Applied Probability
 
 6: 1075-1090.
 
@@ -35270,13 +35268,13 @@ Shafer.
 
 (1985).
 
-### “Equilibrium in Incomplete Markets I
+“Equilibrium in Incomplete Markets I
 
-## A Basic Model of
+# A Basic Model of
 
 Generic Existence.
 
-### ” Journal of Mathematical Economics 14
+” Journal of Mathematical Economics 14
 
 285-300.
 
@@ -35292,9 +35290,9 @@ Shafer.
 
 Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -35306,13 +35304,13 @@ Shafer.
 
 (1986b).
 
-### “Equilibrium in Incomplete Markets II
+“Equilibrium in Incomplete Markets II
 
-## Generic Existence
+# Generic Existence
 
 in Stochastic Economies.
 
-### ” Journal of Mathematical Economics 15
+” Journal of Mathematical Economics 15
 
 199-216.
 
@@ -35342,11 +35340,11 @@ Singleton.
 
 Interest Rate Swap Yields.
 
-## ” Journal of Finance 52
+” Journal of Finance 52
 
 1287-1321
 
-## reprinted in Options
+reprinted in Options
 
 Markets, edited by G.
 
@@ -35376,13 +35374,13 @@ Skiadas.
 
 (1994).
 
-### “Continuous-Time Security Pricing
+“Continuous-Time Security Pricing
 
-## A Utility Gradient
+# A Utility Gradient
 
 Approach.
 
-### ” Journal of Mathematical Economics 23
+” Journal of Mathematical Economics 23
 
 107-132.
 
@@ -35448,7 +35446,7 @@ Dumas, B.
 
 “Two-Person Dynamic Equilibrium in the Capital Market.
 
-## ” Review of Finan-
+” Review of Finan-
 
 cial Studies 2: 157-188.
 
@@ -35480,7 +35478,7 @@ Wang.
 
 sive Utility.
 
-### ” Journal of Economic Theory 93
+” Journal of Economic Theory 93
 
 240-259.
 
@@ -35512,11 +35510,11 @@ Durrett, R.
 
 (1991).
 
-## Probability
+# Probability
 
-## Theory and Examples
+# Theory and Examples
 
-## Belmont
+# Belmont
 
 CA: Wadsworth Publishing Co.
 
@@ -35526,17 +35524,17 @@ Dybvig, P.
 
 “Bond and Bond Option Pricing Based on the Current Term Structure.
 
-## Working Paper
+# Working Paper
 
-## School of Business
+# School of Business
 
-## Washington University
+# Washington University
 
 St. Louis.
 
-## --- Page 210 ---
+--- Page 210 ---
 
-## 400 Bibliography
+400 Bibliography
 
 Dybvig, P.
 
@@ -35554,7 +35552,7 @@ Dybvig, P.
 
 “Duesenberry’s Ratcheting of Consumption
 
-## Optimal Dynamic Consump-
+# Optimal Dynamic Consump-
 
 tion and Investment Given Intolerance for Any Decline in Standard of Living.
 
@@ -35568,15 +35566,15 @@ Huang.
 
 (1988).
 
-## “Nonnegative Wealth
+“Nonnegative Wealth
 
-## Absence of Arbitrage
+# Absence of Arbitrage
 
-## and Feasible
+and Feasible
 
 Consumption Plans.
 
-### ” Review of Financial Studies 1
+” Review of Financial Studies 1
 
 377-401.
 
@@ -35590,7 +35588,7 @@ Ross.
 
 (1996).
 
-### “Long Forward and Zero-Coupon Rates Can
+“Long Forward and Zero-Coupon Rates Can
 
 Never Fall.
 
@@ -35608,7 +35606,7 @@ Back.
 
 “Portfolio Turnpikes.
 
-## ” Review of Financial Studies
+” Review of Financial Studies
 
 12: 165-195.
 
@@ -35640,7 +35638,7 @@ Campbell.
 
 (1997).
 
-### “To Call or Not to Call Convertible
+“To Call or Not to Call Convertible
 
 Debt.
 
@@ -35704,11 +35702,11 @@ Geman.
 
 (1997).
 
-### “On the Behavior of Long Zero Coupon
+“On the Behavior of Long Zero Coupon
 
 Rates in a No Arbitrage Framework.
 
-### ” Review of Derivatives Research 1
+” Review of Derivatives Research 1
 
 351-369.
 
@@ -35724,7 +35722,7 @@ Geman.
 
 Floating-Rate Notes with an Application to Interest Rate Swaps.
 
-## ” Advances in
+” Advances in
 
 Futures and Options Research 7: 47-63.
 
@@ -35744,7 +35742,7 @@ of Backward Stochastic Differential Equations.
 
 El Karoui and L.
 
-## Mazliak
+# Mazliak
 
 (Eds.
 
@@ -35778,7 +35776,7 @@ Shreve.
 
 (1998).
 
-### “Robustness of the Black-Scholes For-
+“Robustness of the Black-Scholes For-
 
 mula.
 
@@ -35798,13 +35796,13 @@ Quenez.
 
 (1997).
 
-## “Reflected Solu-
+“Reflected Solu-
 
-## tions of Backward SDE’s
+tions of Backward SDE’s
 
 and Related Obstacle Problems for PDE’s.
 
-## ” Annals of
+” Annals of
 
 Probability 2: 702-737.
 
@@ -35820,9 +35818,9 @@ Lacoste.
 
 Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Laboratoire de Probabilités
+Laboratoire de Probabilités
 
 Université de Paris VI.
 
@@ -35838,9 +35836,9 @@ Roseau, and X Viswanathan.
 
 (1991a).
 
-## “The Pricing
+“The Pricing
 
-### and Hedging of Interest Rate Claims
+and Hedging of Interest Rate Claims
 
 Applications.
 
@@ -35862,13 +35860,13 @@ Viswanathan.
 
 (1991b).
 
-## “The Valu-
+“The Valu-
 
 ation and Hedging of Contingent Claims with Gaussian Markov Interest Rates.
 
-## Working Paper
+# Working Paper
 
-## Laboratoire de Probabilités
+Laboratoire de Probabilités
 
 Université de Paris VI.
 
@@ -35882,7 +35880,7 @@ Viswanathan.
 
 (1992).
 
-### “Arbitrage Pricing and Hedging of
+“Arbitrage Pricing and Hedging of
 
 Interest Rate Claims with State Variables I
 
@@ -35950,11 +35948,11 @@ Rochet.
 
 “A Pricing Formula for Options on Coupon Bonds.
 
-## Working Paper
+# Working Paper
 
-## October
+# October
 
-## Laboratoire de Probabilités
+Laboratoire de Probabilités
 
 Université de Paris VI.
 
@@ -35968,13 +35966,13 @@ Van der Hoek.
 
 “Stochastic Flows and the Forward Measure.
 
-## ” Work-
+” Work-
 
-## ing Paper
+ing Paper
 
-### Department of Mathematical Sciences
+# Department of Mathematical Sciences
 
-## University of Alberta
+# University of Alberta
 
 Canada.
 
@@ -35994,11 +35992,11 @@ Yor.
 
 ” Working Paper,
 
-## Department of Mathematics
+# Department of Mathematics
 
 University of Alberta.
 
-## Forthcoming in Mathematical
+# Forthcoming in Mathematical
 
 Finance.
 
@@ -36018,7 +36016,7 @@ Epstein, L.
 
 “Risk Aversion and Asset Prices.
 
-### ” Journal of Monetary Economics 22
+” Journal of Monetary Economics 22
 
 179-192.
 
@@ -36026,7 +36024,7 @@ Epstein, L.
 
 (1992).
 
-## “Behavior under Risk
+“Behavior under Risk
 
 Recent Developments in Theory and Application.
 
@@ -36054,7 +36052,7 @@ Melino.
 
 Recursive Utility.
 
-### ” Review of Economic Studies 62
+” Review of Economic Studies 62
 
 597-618.
 
@@ -36078,11 +36076,11 @@ Zin.
 
 (1989).
 
-## “Substitution
+“Substitution
 
 Risk Aversion and the Temporal Behavior of
 
-### Consumption and Asset Returns I
+# Consumption and Asset Returns I
 
 A Theoretical Framework.
 
@@ -36098,15 +36096,15 @@ Zin.
 
 (1999).
 
-## “Substitution
+“Substitution
 
-### Risk Aversion and the Temporal Behavior
+# Risk Aversion and the Temporal Behavior
 
-### of Consumption and Asset Returns
+of Consumption and Asset Returns
 
 An Empirical Analysis.
 
-## ” Journal of Political
+” Journal of Political
 
 Economy 99: 263-286.
 
@@ -36120,15 +36118,15 @@ Polson.
 
 (1999).
 
-### “Asset Return Dynamics with Jumps
+“Asset Return Dynamics with Jumps
 
-## Stochas-
+# Stochas-
 
 tic Volatility and Jumps to Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Norwegian School of Eco-
+# Norwegian School of Eco-
 
 nomics and University of Chicago.
 
@@ -36154,7 +36152,7 @@ Kurtz.
 
 (1986).
 
-## Markov Processes
+# Markov Processes
 
 Characterization and Convergence.
 
@@ -36168,13 +36166,13 @@ Eydeland, A.
 
 “A Fast Algorithm for Computing Integrals in Function Spaces
 
-## Finan-
+# Finan-
 
 cial Applications.
 
-## ” Working Paper
+” Working Paper
 
-### Fuji Capital Markets Corporation
+# Fuji Capital Markets Corporation
 
 New York.
 
@@ -36184,7 +36182,7 @@ Eydeland, A.
 
 “A Spectral Algorithm for Pricing Interest Rate Options.
 
-## ” Working
+” Working
 
 Paper, Department of Mathematics
 
@@ -36198,9 +36196,9 @@ Sundaresan.
 
 (1997).
 
-## “Debt Valuation
+“Debt Valuation
 
-### Strategic Debt Service and Optimal
+# Strategic Debt Service and Optimal
 
 Dividend Policy.
 
@@ -36220,7 +36218,7 @@ Filipovic, D.
 
 “A General Characterization of Affine Term Structure Models.
 
-## ” Work-
+” Work-
 
 ing Paper, ETH, Zurich.
 
@@ -36254,9 +36252,9 @@ Zechner.
 
 (1989).
 
-### “Dynamic Capital Structure Choice
+“Dynamic Capital Structure Choice
 
-## Theory
+# Theory
 
 and Tests.
 
@@ -36274,7 +36272,7 @@ Gilles.
 
 ” Working Paper,
 
-## Research and Statistics
+# Research and Statistics
 
 Board of Governors of the Federal Reserve System.
 
@@ -36290,11 +36288,11 @@ Gilles.
 
 Rates with Recursive Preferences.
 
-## ” Working Paper
+” Working Paper
 
-## Research and Statistics
+# Research and Statistics
 
-## Board
+# Board
 
 of Governors of the Federal Reserve System.
 
@@ -36306,7 +36304,7 @@ Gilles.
 
 (1998a).
 
-## “Around and Around
+“Around and Around
 
 The Expectations Hypothesis.
 
@@ -36324,7 +36322,7 @@ Gilles.
 
 ences.
 
-## ” Working Paper
+” Working Paper
 
 Board of Governors of the Federal Reserve System.
 
@@ -36342,9 +36340,9 @@ Zervos.
 
 with Smoothing Splines.
 
-## ” Working Paper
+” Working Paper
 
-### Board of Governors of the Federal
+# Board of Governors of the Federal
 
 Reserve Board, Washington D.
 
@@ -36360,7 +36358,7 @@ Fleming.
 
 Consumption Models.
 
-### ” Mathematics of Operations Research 16
+” Mathematics of Operations Research 16
 
 823-841.
 
@@ -36390,13 +36388,13 @@ Zariphopoulou.
 
 (1989).
 
-## “Optimal Portfolio Rebal-
+“Optimal Portfolio Rebal-
 
 ancing with Transaction Costs.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Applied Mathe-
+# Department of Applied Mathe-
 
 matics, Brown University.
 
@@ -36438,7 +36436,7 @@ Zariphopoulou.
 
 with Borrowing Constraints.
 
-### ” Mathematics of Operations Research 16
+” Mathematics of Operations Research 16
 
 802-822.
 
@@ -36448,9 +36446,9 @@ Flesaker, B.
 
 “Valuing European Options when the Terminal Value of the Underlying Asset is Unobservable.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 University of Illinois at Urbana-Champaign.
 
@@ -36472,7 +36470,7 @@ Gourdel.
 
 (1993).
 
-### “Incomplete Markets in Infinite Horizon
+“Incomplete Markets in Infinite Horizon
 
 Debt Constraints versus Node Prices.
 
@@ -36496,7 +36494,7 @@ Foldes, L.
 
 “Martingale Conditions for Optimal Saving—Discrete Time.
 
-### ” Journal of Mathematical Economics 5
+” Journal of Mathematical Economics 5
 
 83-96.
 
@@ -36542,7 +36540,7 @@ Foldes, L.
 
 “Existence and Uniqueness of an Optimum in the Infinite-Horizon Portfolio-Cum-Saving Model with Semimartingale Investments.
 
-### ” Stochastic and Stochastic Reports 41
+” Stochastic and Stochastic Reports 41
 
 241-267.
 
@@ -36552,11 +36550,11 @@ Foldes, L.
 
 “The Optimal Consumption Function in a Brownian Model of Accumulation
 
-## Part A
+# Part A
 
 The Consumption Function as Solution of a Boundary Value Problem.
 
-## ” Working Paper
+” Working Paper
 
 London School of Economics and Political Science.
 
@@ -36574,7 +36572,7 @@ Yor (Eds.
 
 ), Séminaire de Probabilités XV.
 
-## Lecture Notes in Mathematics
+# Lecture Notes in Mathematics
 
 pp. 143-150.
 
@@ -36638,7 +36636,7 @@ Fournié, E.
 
 “Statistiques des Diffusions Ergodiques avec Applications en Finance.
 
-## ” Working Paper
+” Working Paper
 
 Université de Nice-Sophia Antipolis.
 
@@ -36652,9 +36650,9 @@ Lasry.
 
 “Some Nonlinear Methods to Study Far-from-the-Money Contingent Claims.
 
-## ” Working Paper
+” Working Paper
 
-### Caisse Autonome de Refinancement
+# Caisse Autonome de Refinancement
 
 Paris.
 
@@ -36688,15 +36686,15 @@ Touzi.
 
 “Méthode de Monte Carlo pour les Modèles de Volatilité Stochastique.
 
-## ” Working Paper
+” Working Paper
 
-### Caisse Autonome de Refinancement
+# Caisse Autonome de Refinancement
 
 Paris.
 
-## --- Page 212 ---
+--- Page 212 ---
 
-## 404 Bibliography
+404 Bibliography
 
 Fournié, E.
 
@@ -36736,13 +36734,13 @@ Janci, and V Lacoste.
 
 (1993).
 
-### “Factor Analysis of the Term Structure
+“Factor Analysis of the Term Structure
 
 A Probabilistic Approach.
 
-## ” Working Paper
+” Working Paper
 
-## Banque de France
+# Banque de France
 
 Paris.
 
@@ -36756,9 +36754,9 @@ Lesne.
 
 “Econometrics of Linear Factor Models of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Banque de France
+# Banque de France
 
 Paris.
 
@@ -36772,9 +36770,9 @@ Lesne.
 
 “Expectations Hypotheses and Stochastic Volatilities.
 
-## ” Working Paper
+” Working Paper
 
-## Banque de France
+# Banque de France
 
 Paris.
 
@@ -36788,9 +36786,9 @@ Lesne.
 
 “Factor Models of Interest Rates with Stochastic Volatilities.
 
-## ” Working Paper
+” Working Paper
 
-## Banque de France
+# Banque de France
 
 Paris.
 
@@ -36818,11 +36816,11 @@ Frey, R.
 
 “The Pricing and Hedging of Options in Finitely Elastic Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Statistics
+# Department of Statistics
 
-## Faculty of Economics
+# Faculty of Economics
 
 University of Bonn.
 
@@ -36836,11 +36834,11 @@ Sin.
 
 “Bounds on European Option Prices under Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Department Mathematik
+# Department Mathematik
 
-## ETH Zentrum
+# ETH Zentrum
 
 Zurich.
 
@@ -36900,7 +36898,7 @@ Wang.
 
 (1999).
 
-### “Pricing Continuous-Time Asian Options
+“Pricing Continuous-Time Asian Options
 
 A Comparison of Monte Carlo and Laplace Transform Methods.
 
@@ -36976,13 +36974,13 @@ Salkin.
 
 “An Improved Analytic Approximation for American Option Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## Imperial College
+# Imperial College
 
 University of London.
 
-## Bibliography 405
+# Bibliography 405
 
 Gao, B.
 
@@ -36996,9 +36994,9 @@ Subrahmanyam.
 
 “An Analytical Approach to the Valuation of American Path-Dependent Options.
 
-## ” Working Paper
+” Working Paper
 
-## Kenan-Flagler Business School
+# Kenan-Flagler Business School
 
 University of North Carolina.
 
@@ -37030,11 +37028,11 @@ Musiela.
 
 “Pricing of American Receiver Swaptions as Optimal Stopping of an Ornstein-Uhlenbeck Process.
 
-## ” Working Paper
+” Working Paper
 
-## School of Mathematics
+# School of Mathematics
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -37044,7 +37042,7 @@ Geanakoplos, J.
 
 “An Introduction to General Equilibrium with Incomplete Asset Markets.
 
-### ” Journal of Mathematical Economics 19
+” Journal of Mathematical Economics 19
 
 1-38.
 
@@ -37068,9 +37066,9 @@ Polemarchakis.
 
 (1986).
 
-## “Existence
+“Existence
 
-## Regularity
+# Regularity
 
 and Constrained Suboptimality of Competitive Allocations when the Asset Market is Incomplete.
 
@@ -37096,7 +37094,7 @@ Shafer.
 
 “Solving Systems of Simultaneous Equations in Economics.
 
-### ” Journal of Mathematical Economics 19
+” Journal of Mathematical Economics 19
 
 69-94.
 
@@ -37108,15 +37106,15 @@ Zame.
 
 (1999).
 
-## “Collateral
+“Collateral
 
-## Default
+# Default
 
 and Market Crashes.
 
-## ” Working Paper
+” Working Paper
 
-### Cowles Foundation Working Paper
+# Cowles Foundation Working Paper
 
 Yale University.
 
@@ -37144,7 +37142,7 @@ Rochet.
 
 (1995).
 
-## “Changes of Numéraire
+“Changes of Numéraire
 
 Changes of Probability Measure.
 
@@ -37160,7 +37158,7 @@ Yor.
 
 “Time Changes for Lévy Processes.
 
-## Working
+# Working
 
 Paper, Université Paris IX Dauphine and ESSEC.
 
@@ -37172,11 +37170,11 @@ Yor.
 
 (1993).
 
-## “Bessel Processes
+“Bessel Processes
 
 Asian Options and Perpetuities.
 
-## ” Mathe-
+” Mathe-
 
 matical Finance 3: 349-375.
 
@@ -37200,7 +37198,7 @@ Shiu.
 
 “Option Pricing by Esscher Transforms.
 
-## ” Transactions of the
+” Transactions of the
 
 Society of Actuaries 46: 51-92.
 
@@ -37210,7 +37208,7 @@ Geske, R.
 
 “The Valuation of Corporate Liabilities as Compound Options.
 
-## ” Journal of
+” Journal of
 
 Financial Economics 7: 63-81.
 
@@ -37234,7 +37232,7 @@ Johnson.
 
 “The American Put Option Valued Analytically.
 
-## ” Journal
+” Journal
 
 of Finance 39: 1511-1524.
 
@@ -37246,13 +37244,13 @@ Ghysels, E.
 
 Econometric Implications of a Discrete Time General Equilibrium Model.
 
-## ” Work-
+” Work-
 
-## ing Paper
+ing Paper
 
 Department of Economics and Centre de Recherche et Développe-
 
-## ment en Economique
+ment en Economique
 
 Université de Montréal.
 
@@ -37266,7 +37264,7 @@ Jasiak.
 
 (1995).
 
-### “Market Time and Asset Price Movements
+“Market Time and Asset Price Movements
 
 Theory and Estimation.
 
@@ -37274,9 +37272,9 @@ Theory and Estimation.
 
 , Université de Montreal.
 
-## --- Page 213 ---
+--- Page 213 ---
 
-## 406 Bibliography
+406 Bibliography
 
 Gibbons, M.
 
@@ -37290,7 +37288,7 @@ Ramaswamy.
 
 Term Structure of Interest Rates.
 
-### ” Review of Financial Studies 6
+” Review of Financial Studies 6
 
 619-658.
 
@@ -37302,9 +37300,9 @@ Sun.
 
 (1986).
 
-### “The Term Structure of Interest Rates
+“The Term Structure of Interest Rates
 
-## A Simple Exposition
+# A Simple Exposition
 
 of the Cox, Ingersoll, and Ross Model.
 
@@ -37324,9 +37322,9 @@ Sundaresan.
 
 Yield Spreads.
 
-## ” Working Paper
+” Working Paper
 
-## School of HEC
+# School of HEC
 
 University of Lausanne.
 
@@ -37384,7 +37382,7 @@ LeRoy.
 
 Board of Governors of The Federal Reserve System
 
-## Washington
+# Washington
 
 Gilles, C.
 
@@ -37412,9 +37410,9 @@ Weil.
 
 Capital Asset Pricing Model.
 
-## ” Working Paper
+” Working Paper
 
-## National Bureau of Economic
+# National Bureau of Economic
 
 Research, Cambridge, Massachusetts.
 
@@ -37446,7 +37444,7 @@ Ortu.
 
 Dimensional Securities Markets.
 
-### ” Journal of Economic Theory 69
+” Journal of Economic Theory 69
 
 262-277.
 
@@ -37466,9 +37464,9 @@ Numeraires in Finite Dimensional Securities Markets.
 
 mento di Matematica Applicata “B.
 
-## de Finetti
+de Finetti
 
-## ” Universita di Trieste
+” Universita di Trieste
 
 Trieste.
 
@@ -37480,13 +37478,13 @@ Ortu.
 
 (1997b).
 
-## “Numeraires
+“Numeraires
 
-### Equivalent Martingale Measures and Com-
+# Equivalent Martingale Measures and Com-
 
 pleteness in Finite Dimensional Securities Markets.
 
-### ” Journal of Mathematical Eco-
+” Journal of Mathematical Eco-
 
 nomics 27: 283-294.
 
@@ -37498,11 +37496,11 @@ Heidelberger, and P Shahabuddin.
 
 (1999).
 
-### “Asymptotically Optimal Impor-
+“Asymptotically Optimal Impor-
 
 tance Sampling and Stratification for Pricing Path-Dependent Options.
 
-## ” Mathe-
+” Mathe-
 
 matical Finance 9: 117-152.
 
@@ -37554,7 +37552,7 @@ Goldberg, L.
 
 “Volatility of the Short Rate in the Rational Lognormal Model.
 
-## ” Finance
+” Finance
 
 and Stochastics 2: 199-211.
 
@@ -37568,9 +37566,9 @@ Gatto.
 
 (1979).
 
-## “Path Dependent Options
+“Path Dependent Options
 
-## ‘Buy at the Low
+‘Buy at the Low
 
 Sell at the High’.
 
@@ -37590,23 +37588,23 @@ Haas School of Business,
 
 University of California at Berkeley.
 
-## Bibliography 407
+# Bibliography 407
 
 Goldstein, R.
 
 (1997).
 
-## “Beyond HJM
+“Beyond HJM
 
 Fitting the Current Term Structure While Maintaining
 
 a Markovian System.
 
-## ” Working Paper
+” Working Paper
 
-## Fisher College of Business
+# Fisher College of Business
 
-## The Ohio State
+# The Ohio State
 
 University.
 
@@ -37616,7 +37614,7 @@ Goldstein, R.
 
 “The Term Structure of Interest Rates as a Random Field.
 
-## ” Review of
+” Review of
 
 Financial Studies 13: 365-384.
 
@@ -37646,11 +37644,11 @@ Musiela.
 
 Structure Models.
 
-## ” Working Paper
+” Working Paper
 
-## School of Mathematics
+# School of Mathematics
 
-## University of New
+# University of New
 
 South Wales, Sydney.
 
@@ -37664,15 +37662,15 @@ Sondermann.
 
 (1994).
 
-### “Lognormality of Rates and Term
+“Lognormality of Rates and Term
 
 Structure Models.
 
-## ” Working Paper
+” Working Paper
 
-## School of Mathematics
+# School of Mathematics
 
-## University of New
+# University of New
 
 South Wales.
 
@@ -37732,13 +37730,13 @@ Kajii.
 
 (1999).
 
-### “The Structure of Sunspot Equilibria
+“The Structure of Sunspot Equilibria
 
-## The Role of Multi-
+# The Role of Multi-
 
 plicity.
 
-### ” Review of Economic Studies 66
+” Review of Economic Studies 66
 
 713-732.
 
@@ -37768,7 +37766,7 @@ Laurent.
 
 “Estimation of a Dynamic Hedging.
 
-## ” Working
+” Working
 
 Paper, CREST and CEPREMAP, Paris.
 
@@ -37782,7 +37780,7 @@ Pham.
 
 (1998).
 
-## “Mean-Variance Hedging and
+“Mean-Variance Hedging and
 
 Numeraire.
 
@@ -37798,9 +37796,9 @@ Scaillet.
 
 “Estimation of the Term Structure from Bond Data.
 
-## Working Paper
+# Working Paper
 
-## CREST and CEPREMAP
+# CREST and CEPREMAP
 
 Paris.
 
@@ -37810,9 +37808,9 @@ Grabbe, J.
 
 “The Pricing of Call and Put Options on Foreign Exchange.
 
-## ” Journal of
+” Journal of
 
-### International Money and Finance 2
+# International Money and Finance 2
 
 239-253.
 
@@ -37824,7 +37822,7 @@ Doubly Stochastic Poisson Processes.
 
 Lecture Notes in Mathematics, Number
 
-### 529. New York: Springer-Verlag.
+# 529. New York: Springer-Verlag.
 
 Grannan, E.
 
@@ -37866,13 +37864,13 @@ Litzenberger.
 
 “The Pricing of Commodity Futures Contracts
 
-## Nom-
+# Nom-
 
-## inal Bonds
+inal Bonds
 
 and Other Risky Assets under Commodity Price Uncertainty.
 
-## ” Journal
+” Journal
 
 of Finance 44: 69-84.
 
@@ -37882,11 +37880,11 @@ Grinblatt, M.
 
 “An Analytic Solution for Interest Rate Swap Spreads.
 
-## ” Working
+” Working
 
 Paper, Anderson Graduate School of Management
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -37904,9 +37902,9 @@ Forward Contracts.
 
 ” Journal of Finance 51: 1499-1522.
 
-## --- Page 214 ---
+--- Page 214 ---
 
-## 408 Bibliography
+408 Bibliography
 
 Grodal, B.
 
@@ -37918,7 +37916,7 @@ Vind.
 
 “Equilibrium with Arbitrary Market Structure.
 
-## ” Working
+” Working
 
 Paper, Department of Economics
 
@@ -37934,13 +37932,13 @@ Jorgensen.
 
 “The Valuation of Interest Rate Guarantees
 
-## An Appli-
+# An Appli-
 
 cation of American Option Pricing Theory.
 
-## ” Working Paper
+” Working Paper
 
-### Department ofBanking and Finance
+# Department ofBanking and Finance
 
 Aarhus School of Business.
 
@@ -37966,7 +37964,7 @@ Shiller.
 
 “Consumption Correlatedness and Risk Measurement in Economies with Non-Traded Assets and Heterogeneous Information.
 
-### ” Journal of Financial Economics 10
+” Journal of Financial Economics 10
 
 195-210.
 
@@ -37988,11 +37986,11 @@ Gukhal, C.
 
 “American Call Options on Stocks with Discrete Dividends.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
-## Columbia University
+# Columbia University
 
 New York.
 
@@ -38002,11 +38000,11 @@ Gukhal, C.
 
 “The Analytic Valuation of American Options on Jump-Diffusion Processes.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
-## Columbia University
+# Columbia University
 
 New York.
 
@@ -38020,7 +38018,7 @@ Lantto.
 
 “Betweenness Satisfying Preferences and Dynamic Choice.
 
-### ” Journal of Economic Theory 52
+” Journal of Economic Theory 52
 
 162-177.
 
@@ -38038,9 +38036,9 @@ Haan, W.
 
 (1996).
 
-## “Heterogeneity
+“Heterogeneity
 
-## Aggregate Uncertainty
+# Aggregate Uncertainty
 
 and the Short-Term Interest Rate.
 
@@ -38054,9 +38052,9 @@ Hahn, F.
 
 “On Economies with Arrow Securities.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Cambridge University.
 
@@ -38072,7 +38070,7 @@ Chichilnisky (Ed.
 
 ), Markets
 
-## Information and Uncertainty
+# Information and Uncertainty
 
 pp. 67-71.
 
@@ -38092,7 +38090,7 @@ Hakansson, N.
 
 “Convergence to Isoelastic Utility and Policy in Multiperiod Portfolio Choice.
 
-### ” Journal of Financial Economics 1
+” Journal of Financial Economics 1
 
 201-224.
 
@@ -38106,9 +38104,9 @@ Klebaner.
 
 “A Stochastic Partial Differential Equation for Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Statistics
+# Department of Statistics
 
 University of Melbourne.
 
@@ -38122,11 +38120,11 @@ Jorgensen.
 
 “Exact Analytical Valuation of Bonds when Spot Interest Rates are Log-Normal.
 
-## ” Working Paper
+” Working Paper
 
-## Centre for Analytical Finance
+# Centre for Analytical Finance
 
-## University of Aarhus
+# University of Aarhus
 
 Aarhus School of Business.
 
@@ -38148,7 +38146,7 @@ Jaganathan.
 
 “Implications of Security Market Data for Models of Dynamic Economies.
 
-### ” Journal of Political Economy 99
+” Journal of Political Economy 99
 
 225-262.
 
@@ -38174,13 +38172,13 @@ Sargent.
 
 “Recursive Linear Models of Dynamic Economies.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 University of Chicago.
 
-## Bibliography 409
+# Bibliography 409
 
 Hansen, L.
 
@@ -38202,13 +38200,13 @@ Singleton.
 
 (1983).
 
-## “Stochastic Consumption
+“Stochastic Consumption
 
-## Risk Aversion
+# Risk Aversion
 
 and the Temporal Behavior of Asset Returns.
 
-### ” Journal of Political Economy 91
+” Journal of Political Economy 91
 
 249-265.
 
@@ -38232,9 +38230,9 @@ Hara, C.
 
 “A Role of Redundant Assets in the Presence of Transaction Costs.
 
-## ” Working Paper
+” Working Paper
 
-## Sloan School of Management
+# Sloan School of Management
 
 Massachusetts Institute of Technology.
 
@@ -38244,7 +38242,7 @@ Hara, C.
 
 “Marginal Rates of Substitution for Uninsurable Risks with Constraint-Efficient Asset Structures.
 
-## ” Working Paper
+” Working Paper
 
 Center for Operations Research and Econometrics
 
@@ -38276,7 +38274,7 @@ Kreps.
 
 “Martingales and Arbitrage in Multiperiod Securities Markets.
 
-### ” Journal of Economic Theory 20
+” Journal of Economic Theory 20
 
 381-408.
 
@@ -38300,7 +38298,7 @@ Hart, O.
 
 “On the Optimality of Equilibrium when the Market Structure is Incomplete.
 
-### ” Journal of Economic Theory 11
+” Journal of Economic Theory 11
 
 418-430.
 
@@ -38316,7 +38314,7 @@ Shephard.
 
 “Multivariate Stochastic Variance Models.
 
-### ” Review of Economic Studies 61
+” Review of Economic Studies 61
 
 247-264.
 
@@ -38330,7 +38328,7 @@ Shephard.
 
 “The Econometrics of Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
 Department of Statistical and Mathematical Sciences
 
@@ -38342,11 +38340,11 @@ Haug, E.
 
 “Closed Form Valuation of American Barrier Options.
 
-## ” Working Paper
+” Working Paper
 
-## Derivatives Research
+# Derivatives Research
 
-## Tempus Financial Engineering
+# Tempus Financial Engineering
 
 Norway.
 
@@ -38356,7 +38354,7 @@ He, H.
 
 “Convergence from Discrete- to Continuous-Time Contingent Claims Prices.
 
-### ” Review of Financial Studies 3
+” Review of Financial Studies 3
 
 523-546.
 
@@ -38364,11 +38362,11 @@ He, H.
 
 (1991).
 
-### “Optimal Consumption-Portfolio Policies
+“Optimal Consumption-Portfolio Policies
 
 A Convergence from Discrete to Continuous Time Models.
 
-### ” Journal of Economic Theory 55
+” Journal of Economic Theory 55
 
 340-363.
 
@@ -38380,11 +38378,11 @@ Huang.
 
 (1994).
 
-### “Consumption-Portfolio Policies
+“Consumption-Portfolio Policies
 
 An Inverse Optimal Problem.
 
-### ” Journal of Economic Theory 62
+” Journal of Economic Theory 62
 
 294-320.
 
@@ -38398,7 +38396,7 @@ Leland.
 
 “On Equilibrium Asset Price Processes.
 
-### ” Review of Financial Studies 6
+” Review of Financial Studies 6
 
 593-617.
 
@@ -38412,7 +38410,7 @@ Modest.
 
 “Market Frictions and Consumption-Based Asset Pricing.
 
-### ” Journal of Political Economy 103
+” Journal of Political Economy 103
 
 94-117.
 
@@ -38424,9 +38422,9 @@ Pagés.
 
 (1993).
 
-## “Labor Income
+“Labor Income
 
-## Borrowing Constraints
+# Borrowing Constraints
 
 and Equilibrium Asset Prices.
 
@@ -38458,7 +38456,7 @@ Pearson.
 
 The Infinite-Dimensional Case.
 
-### ” Journal of Economic Theory 54
+” Journal of Economic Theory 54
 
 259-305.
 
@@ -38472,9 +38470,9 @@ Takahashi.
 
 “A Variable Separation Technique for Pricing Average-Rate Options.
 
-## ” Working Paper
+” Working Paper
 
-## Salomon Brothers Asia Limited
+# Salomon Brothers Asia Limited
 
 Derivatives Analysis.
 
@@ -38484,15 +38482,15 @@ Heath, D.
 
 “Some New Term Structure Models.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Mathematical Sciences
+# Department of Mathematical Sciences
 
 Carnegie Mellon University.
 
-## --- Page 215 ---
+--- Page 215 ---
 
-## 410 Bibliography
+410 Bibliography
 
 Heath, D.
 
@@ -38540,9 +38538,9 @@ Morton.
 
 “Contingent Claim Valuation with a Random Evolution of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-### Operations Research Department
+# Operations Research Department
 
 Cornell University.
 
@@ -38564,7 +38562,7 @@ Lucas.
 
 “Evaluating the Effects of Incomplete Markets on Risk Sharing and Asset Pricing.
 
-### ” Journal of Political Economy 104
+” Journal of Political Economy 104
 
 668-712.
 
@@ -38576,7 +38574,7 @@ Hellwig, M.
 
 The Two Period Case.
 
-### ” Journal of Mathematical Economics 26
+” Journal of Mathematical Economics 26
 
 9-49.
 
@@ -38594,9 +38592,9 @@ Henrotte, P.
 
 “Transactions Costs and Duplication Strategies.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -38606,13 +38604,13 @@ Henrotte, P.
 
 “Multiperiod Equilibrium with Endogenous Price Uncertainty.
 
-## ” Working Paper
+” Working Paper
 
-## Groupe HEC
+# Groupe HEC
 
-### Département de Finance et Economie
+Département de Finance et Economie
 
-## Jouy en Josas
+# Jouy en Josas
 
 France.
 
@@ -38622,9 +38620,9 @@ Hens, T.
 
 “Structure of General Equilibrium Models with Incomplete Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 University of Bonn.
 
@@ -38638,7 +38636,7 @@ Santos.
 
 “Competitive Equilibria for Infinite-HorizonEconomies with Incomplete Markets.
 
-### ” Journal of Economic Theory 71
+” Journal of Economic Theory 71
 
 102-130.
 
@@ -38650,7 +38648,7 @@ Heston, S.
 
 Sachs, and Company Mortgage Valuation Model.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -38662,7 +38660,7 @@ Heston, S.
 
 “Testing Continuous Time Models of the Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -38674,7 +38672,7 @@ Heston, S.
 
 “Discrete Time Versions of Continuous Time Interest Rate Models.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -38684,15 +38682,15 @@ Heston, S.
 
 (1990).
 
-## “Sticky Consumption
+“Sticky Consumption
 
-## Optimal Investment
+# Optimal Investment
 
 and Equilibrium Asset Prices.
 
-## ” Working Paper
+” Working Paper
 
-### School of Organization and Management
+# School of Organization and Management
 
 Yale University.
 
@@ -38702,7 +38700,7 @@ Heston, S.
 
 “A Closed-Form Solution for Options with Stochastic Volatility with Applications to Bond and Currency Options.
 
-### ” Review of Financial Studies 6
+” Review of Financial Studies 6
 
 327-344.
 
@@ -38714,9 +38712,9 @@ Heston, S.
 
 ” Working Paper, John M.
 
-## Olin School of Business
+# Olin School of Business
 
-## Washington University
+# Washington University
 
 St. Louis.
 
@@ -38730,7 +38728,7 @@ Nandi.
 
 “A Closed-Form GARCH Option Pricing Model.
 
-## ” Working Paper
+” Working Paper
 
 Federal Reserve Bank of Atlanta.
 
@@ -38744,13 +38742,13 @@ Zhou.
 
 “On Rate of Convergence of Discrete Time Contingent Claims.
 
-## ” Working Paper
+” Working Paper
 
-## Washington University
+# Washington University
 
 St. Louis.
 
-## Bibliography 411
+# Bibliography 411
 
 Heynen, R.
 
@@ -38760,21 +38758,21 @@ Kat.
 
 (1993).
 
-## “Volatility Prediction
+“Volatility Prediction
 
 A Comparison of the Stochastic Volatility
 
-## GARCH(1
+GARCH(1
 
-## 1) and EGARCH(1
+1) and EGARCH(1
 
 1) Models.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Operations Research
+# Department of Operations Research
 
-## Erasmus University
+# Erasmus University
 
 Rotterdam.
 
@@ -38812,7 +38810,7 @@ Hindy, A.
 
 “Viable Prices in Financial Markets with Solvency Constraints.
 
-### ” Journal of Mathematical Economics 24
+” Journal of Mathematical Economics 24
 
 105-136.
 
@@ -38856,7 +38854,7 @@ Kreps.
 
 The Case of Certainty.
 
-### ” Journal of Mathematical Economics 21
+” Journal of Mathematical Economics 21
 
 401-440.
 
@@ -38872,9 +38870,9 @@ Zhu.
 
 “Numerical Analysis of a Free Boundary Singular Control Problem in Financial Economics.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -38904,9 +38902,9 @@ Huang.
 
 “Asset Pricing with Linear Collateral Constraints.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -38922,7 +38920,7 @@ Mas-Colell.
 
 “A Geometric Approach to a Class of Equilibrium Existence Theorems.
 
-### ” Journal of Mathematical Economics 19
+” Journal of Mathematical Economics 19
 
 95-106.
 
@@ -38956,9 +38954,9 @@ Rogers.
 
 “Models of Endogenous Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
-### Judge Institute of Management Studies
+# Judge Institute of Management Studies
 
 Cambridge University.
 
@@ -38984,9 +38982,9 @@ Carverhill.
 
 “The Characterization of Economic Equilibria which Support Black-Scholes Options Pricing.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -39040,13 +39038,13 @@ Hogan, M.
 
 “Problems in Certain Two-Factor Term Structure Models.
 
-### ” Annals of Applied Probability 3
+” Annals of Applied Probability 3
 
 576-581.
 
-## --- Page 216 ---
+--- Page 216 ---
 
-## 412 Bibliography
+412 Bibliography
 
 Honda, T.
 
@@ -39054,9 +39052,9 @@ Honda, T.
 
 “Equilibrium in Incomplete Real Asset Markets with Dispersed Forecast Functions.
 
-## ” Working Paper
+” Working Paper
 
-### Engineering-Economic Systems Department
+# Engineering-Economic Systems Department
 
 Stanford University.
 
@@ -39066,9 +39064,9 @@ Honda, T.
 
 “On the Consumption/Investment Problem with Stochastic ‘Regime Switching’ Parameters.
 
-## ” Working Paper
+” Working Paper
 
-### Engineering-Economic Systems Department
+# Engineering-Economic Systems Department
 
 Stanford University.
 
@@ -39078,7 +39076,7 @@ Honda, T.
 
 “Equilibrium Asset Pricing with Unobservable Regime-Switching Mean Earnings Growth.
 
-## ” Working Paper
+” Working Paper
 
 Department of Engineering-Economic Systems and Operations Research
 
@@ -39090,7 +39088,7 @@ Honda, T.
 
 “Optimal Portfolio Choice and Equilibrium Valuation with Regime-Switching Mean Returns.
 
-## ” Working Paper
+” Working Paper
 
 Department of Engineering-Economic Systems and Operations Research
 
@@ -39102,7 +39100,7 @@ Honda, T.
 
 “Optimal Portfolio Choice for Unobservable and Regime-Switching Mean Returns.
 
-## ” Working Paper
+” Working Paper
 
 Department of Engineering-Economic Systems and Operations Research
 
@@ -39130,9 +39128,9 @@ Rustem.
 
 “Minimax Hedging Strategy.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -39146,9 +39144,9 @@ Rustem.
 
 “Multi-Period Minimax Hedging Strategies.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -39176,7 +39174,7 @@ Huang, C.
 
 “Information Structures and Viable Price Systems.
 
-### ” Journal of Mathematical Economics 14
+” Journal of Mathematical Economics 14
 
 215-240.
 
@@ -39214,7 +39212,7 @@ Pagès.
 
 Existence and Convergence.
 
-### ” Annals of Applied Probability 2
+” Annals of Applied Probability 2
 
 36-64.
 
@@ -39240,15 +39238,15 @@ Sundaram.
 
 (1999).
 
-## “Costly Financing
+“Costly Financing
 
 Optimal Payout Policies and the Valuation of Corporate Debt.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## Smeal School of Business
+# Smeal School of Business
 
 Penn State University.
 
@@ -39260,11 +39258,11 @@ Subrahmanyam, and G.
 
 (1996).
 
-### “Pricing and Hedging American Options
+“Pricing and Hedging American Options
 
 A Recursive Integration Method.
 
-### ” Review of Financial Studies 9
+” Review of Financial Studies 9
 
 277-300.
 
@@ -39274,9 +39272,9 @@ Huang, M.
 
 “Liquidity Shocks and Equilibrium Liquidity Premia.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -39288,11 +39286,11 @@ Huang, P.
 
 “Competitive Equilibrium of Incomplete Markets for Securities with Smooth Payoffs.
 
-### ” Journal of Mathematical Economics 23
+” Journal of Mathematical Economics 23
 
 219-234.
 
-## Bibliography 413
+# Bibliography 413
 
 Hubalek, F.
 
@@ -39334,9 +39332,9 @@ Jaschke, S.
 
 “Super-Hedging and Arbitrage Pricing of Bonds and Interest Rate Derivatives.
 
-## ” Working Paper
+” Working Paper
 
-## Institut für Mathematik
+Institut für Mathematik
 
 Humboldt-Universität zu Berlin.
 
@@ -39364,7 +39362,7 @@ Rutkowski.
 
 “Modelling of Default Risk: An Overview.
 
-## ” Working Paper
+” Working Paper
 
 University of Evry Val d'Essonne and Technical University of Warsaw.
 
@@ -39374,11 +39372,11 @@ Jeffrey, A.
 
 “A Class of Non-Markovian Single Factor Heath-Jarrow-Morton Term Structure Models.
 
-## ” Working Paper
+” Working Paper
 
-## School of Banking and Finance
+# School of Banking and Finance
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -39388,11 +39386,11 @@ Jeffrey, A.
 
 “An Empirical Test of Single Factor Heath-Jarrow-Morton Term Structure Models
 
-## ” Working Paper
+” Working Paper
 
-## School of Banking and Finance
+# School of Banking and Finance
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -39412,15 +39410,15 @@ Jegadeesh, N.
 
 “An Empirical Analysis of the Pricing of Interest Rate Caps.
 
-## ” Working Paper
+” Working Paper
 
 College of Commerce and Business Administration
 
 University of Illinois at Urbana-Champaign.
 
-## --- Page 218 ---
+--- Page 218 ---
 
-## 416 Bibliography
+416 Bibliography
 
 Jin, Y.
 
@@ -39430,13 +39428,13 @@ Glasserman.
 
 (1998).
 
-### “Equilibrium Positive Interest Rates
+“Equilibrium Positive Interest Rates
 
 A Unified View.
 
-## ” Working Paper
+” Working Paper
 
-## Columbia Business School
+# Columbia Business School
 
 New York.
 
@@ -39444,13 +39442,13 @@ Johnson, B.
 
 (1994).
 
-## “Dynamic Asset Pricing Theory
+“Dynamic Asset Pricing Theory
 
 The Search for Implementable Results.
 
-## ” Working Paper
+” Working Paper
 
-### Engineering-Economic Systems Department
+# Engineering-Economic Systems Department
 
 Stanford University.
 
@@ -39486,17 +39484,17 @@ Jacobs.
 
 (1986).
 
-### “History Dependent Financial Claims
+“History Dependent Financial Claims
 
 Monte Carlo Valuation.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## Simon Fraser University
+# Simon Fraser University
 
-## Vancouver
+# Vancouver
 
 Canada.
 
@@ -39524,9 +39522,9 @@ Jordan, B.
 
 A Theory of the Tax Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 College of Business and Public Administration
 
@@ -39538,13 +39536,13 @@ Jorgensen, P.
 
 “American Option Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## School of Business
+# School of Business
 
-## Institute of Management
+# Institute of Management
 
-## University of Aarhus
+# University of Aarhus
 
 Denmark.
 
@@ -39554,7 +39552,7 @@ Jorgensen, P.
 
 “American Bond Option Pricing in One-Factor Spot Interest Rate Models.
 
-### ” Review of Derivatives Research 1
+” Review of Derivatives Research 1
 
 245-267.
 
@@ -39564,7 +39562,7 @@ Jorion, P.
 
 “On Jump Processes in the Foreign Exchange and Stock Markets.
 
-### ” Review of Financial Studies 1
+” Review of Financial Studies 1
 
 427-445.
 
@@ -39590,7 +39588,7 @@ Kallal.
 
 “Portfolio Choice and Market Frictions.
 
-## ” Working Paper
+” Working Paper
 
 ENSAE, and Laboratoire d’Économétrie de l’École Polytechnique
 
@@ -39604,13 +39602,13 @@ Kallal.
 
 (1995).
 
-## “Martingales
+“Martingales
 
-## Arbitrage
+# Arbitrage
 
 and Equilibrium in Security Markets with Transactions Costs.
 
-### ” Journal of Economic Theory 66
+” Journal of Economic Theory 66
 
 178-197.
 
@@ -39624,13 +39622,13 @@ Touzi.
 
 (1995).
 
-## “Incomplete Markets
+“Incomplete Markets
 
 Transaction Costs and Liquidity Effects.
 
-## ” Working Paper
+” Working Paper
 
-## Crest-Ensae
+# Crest-Ensae
 
 Université de Paris I.
 
@@ -39652,15 +39650,15 @@ Ju, N.
 
 (1997).
 
-## “Fourier Transformation
+“Fourier Transformation
 
-## Martingale
+# Martingale
 
 and the Pricing of Average-Rate Derivatives.
 
-## ” Working Paper
+” Working Paper
 
-## Haas School of Business
+# Haas School of Business
 
 University of California at Berkeley.
 
@@ -39670,9 +39668,9 @@ Ju, N.
 
 “Pricing American Perpetual Lookback Options.
 
-## ” Working Paper
+” Working Paper
 
-## Haas School of Business
+# Haas School of Business
 
 University of California at Berkeley.
 
@@ -39682,9 +39680,9 @@ Judd, K.
 
 “Minimum Weighted Residual Methods for Solving Dynamic Economic Models.
 
-## ” Working Paper
+” Working Paper
 
-## Hoover Institution
+# Hoover Institution
 
 Stanford University.
 
@@ -39694,9 +39692,9 @@ Judd, K.
 
 “Incomplete Asset Markets with Heterogeneous Tastes and Idiosyncratic Income.
 
-## ” Working Paper
+” Working Paper
 
-## Hoover Institution
+# Hoover Institution
 
 Stanford University.
 
@@ -39712,9 +39710,9 @@ Schmedders.
 
 “Computing Equilibria in Infinite Horizon Finance Economies—The Case of One Asset.
 
-## ” Working Paper
+” Working Paper
 
-## Hoover Institution
+# Hoover Institution
 
 Stanford University.
 
@@ -39724,13 +39722,13 @@ Kabanov, Y.
 
 “On the FTAP of Kreps-Delbaen-Schachermayer.
 
-## ” Working Paper
+” Working Paper
 
-## Laboratoire de Mathématiques
+Laboratoire de Mathématiques
 
 Université de Franche-Comté.
 
-## Bibliography 417
+# Bibliography 417
 
 Kabanov, Y.
 
@@ -39756,7 +39754,7 @@ Kramkov.
 
 (1995).
 
-## “Large Financial Markets
+“Large Financial Markets
 
 Asymptotic Arbitrage and Contiguity.
 
@@ -39774,9 +39772,9 @@ Stricker.
 
 “A Teacher’s Note in No-Arbitrage Criteria.
 
-## ” Working Paper
+” Working Paper
 
-## Laboratoire de Mathématiques
+Laboratoire de Mathématiques
 
 Université de Franche-Comté.
 
@@ -39786,7 +39784,7 @@ Kajii, A.
 
 “Anonymity and Optimality of Competitive Equilibrium when Markets are Incomplete.
 
-### ” Journal of Economic Theory 64
+” Journal of Economic Theory 64
 
 115-129.
 
@@ -39804,9 +39802,9 @@ Kan, R.
 
 “Gradient of the Representative Agent Utility When Agents Have Stochastic Recursive Preferences.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -39816,7 +39814,7 @@ Kan, R.
 
 “Structure of Pareto Optima when Agents Have Stochastic Recursive Preferences.
 
-### ” Journal of Economic Theory 66
+” Journal of Economic Theory 66
 
 626-631.
 
@@ -39826,7 +39824,7 @@ Kandori, M.
 
 “Equivalent Equilibria.
 
-### ” International Economic Review 29
+” International Economic Review 29
 
 401-417.
 
@@ -39864,9 +39862,9 @@ Karatzas, I.
 
 “IMA Tutorial Lectures 1-3: Minneapolis.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Statistics
+# Department of Statistics
 
 Columbia University.
 
@@ -39874,9 +39872,9 @@ Karatzas, I.
 
 (1997).
 
-### Lectures on the Mathematics of Finance
+# Lectures on the Mathematics of Finance
 
-## Providence
+# Providence
 
 American Mathematical Society.
 
@@ -39904,7 +39902,7 @@ Shreve.
 
 (1991).
 
-### “Equilibrium in a Simplified Dynamic
+“Equilibrium in a Simplified Dynamic
 
 Stochastic Economy with Heterogeneous Agents.
 
@@ -39918,7 +39916,7 @@ Zeitouni (Eds.
 
 ), Stochastic Analysis
 
-### Liber Amicorum for Moshe Zakai
+# Liber Amicorum for Moshe Zakai
 
 pp. 245-272.
 
@@ -39938,7 +39936,7 @@ Shreve.
 
 “Explicit Solution of a General Consumption/Investment Problem.
 
-### ” Mathematics of Operations Research 11
+” Mathematics of Operations Research 11
 
 261-294.
 
@@ -39970,7 +39968,7 @@ Shreve.
 
 “Existence and Uniqueness of Multi-Agent Equilibrium in a Stochastic Dynamic Consumption/Investment Model.
 
-### ” Mathematics of Operations Research 15
+” Mathematics of Operations Research 15
 
 80-128.
 
@@ -40004,9 +40002,9 @@ Shreve, and G.
 
 702-730.
 
-## --- Page 219 ---
+--- Page 219 ---
 
-## 418 BibliographyKaratzas, I.
+418 BibliographyKaratzas, I.
 
 , and S.
 
@@ -40040,9 +40038,9 @@ Xue.
 
 “Utility Maximization in a Financial Market with Partial Observations.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Rutgers University.
 
@@ -40062,9 +40060,9 @@ Kat, H.
 
 “Hedging Lookback and Asian Options.
 
-## ” Working Paper
+” Working Paper
 
-## Derivatives Department
+# Derivatives Department
 
 MeesPierson N.
 
@@ -40094,7 +40092,7 @@ Levine.
 
 “Debt-Constrained Asset Markets.
 
-### ” Review of Economic Studies 60
+” Review of Economic Studies 60
 
 865-888.
 
@@ -40132,7 +40130,7 @@ Komoribayashi.
 
 “A Markov Chain Model for Valuing Credit Risk Derivatives.
 
-### ” Journal of Derivatives 6 (Fall)
+” Journal of Derivatives 6 (Fall)
 
 97-108.
 
@@ -40142,7 +40140,7 @@ Kim, I.
 
 “The Analytic Valuation of American Options.
 
-### ” Review of Financial Studies 3
+” Review of Financial Studies 3
 
 547-572.
 
@@ -40152,7 +40150,7 @@ Kim, J.
 
 “A Martingale Analysis of the Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -40164,7 +40162,7 @@ Kim, J.
 
 “A Discrete-Time Approximation of a One-Factor Markov Model of the Term Structure of Interest Rates.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -40176,7 +40174,7 @@ Kim, J.
 
 “A Model of the Term Structure of Interest Rates with the Time-Variant Market Price of Risk.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Industrial Administration
 
@@ -40194,7 +40192,7 @@ Runggaldier.
 
 “Diffusion Approximation in Past Dependent Models and Applications to Option Pricing.
 
-### ” Annals of Applied Probability 1
+” Annals of Applied Probability 1
 
 379-405.
 
@@ -40204,9 +40202,9 @@ Kishimoto, N.
 
 “A Simplified Approach to Pricing Path Dependent Securities.
 
-## ” Working Paper
+” Working Paper
 
-## Fuqua School of Business
+# Fuqua School of Business
 
 Duke University.
 
@@ -40216,7 +40214,7 @@ Kocherlakota, N.
 
 “On the Discount Factor in Growth Economies.
 
-### ” Journal of Monetary Economics 25
+” Journal of Monetary Economics 25
 
 43-47.
 
@@ -40234,7 +40232,7 @@ Wolff.
 
 “The Dynamics of Short-Term Interest Rate Volatility Reconsidered.
 
-## ” Working Paper
+” Working Paper
 
 Limburg Institute of Financial Economics
 
@@ -40268,7 +40266,7 @@ Takase.
 
 77-85.
 
-## Bibliography 419
+# Bibliography 419
 
 Koo, H.
 
@@ -40316,15 +40314,15 @@ Kou, S.
 
 “A Jump Diffusion Model for Option Pricing with Three Properties
 
-## Leptokurtic Feature
+# Leptokurtic Feature
 
-## Volatility Smile
+# Volatility Smile
 
 and Analytical Tractability.
 
-## ” Working Paper
+” Working Paper
 
-## Department of IEOR
+# Department of IEOR
 
 Columbia University.
 
@@ -40336,11 +40334,11 @@ Werner.
 
 (1991).
 
-## “Equilibria with Options
+“Equilibria with Options
 
 Existence and Indeterminacy.
 
-### ” Journal of Economic Theory 54
+” Journal of Economic Theory 54
 
 305-320.
 
@@ -40374,7 +40372,7 @@ Kreps, D.
 
 “Three Essays on Capital Markets.
 
-## ” Working Paper
+” Working Paper
 
 Institute for Mathematical Studies in the Social Sciences
 
@@ -40386,7 +40384,7 @@ Kreps, D.
 
 “Arbitrage and Equilibrium in Economies with Infinitely Many Commodities.
 
-### ” Journal of Mathematical Economics 8
+” Journal of Mathematical Economics 8
 
 15-35.
 
@@ -40422,7 +40420,7 @@ Kreps, D.
 
 A Course in Microeconomics.
 
-## Princeton
+# Princeton
 
 NJ: Princeton University Press.
 
@@ -40456,9 +40454,9 @@ Schmedders.
 
 “Computing Equilibria in Stochastic Finance Economies.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Yale University.
 
@@ -40470,9 +40468,9 @@ Kunitomo, N.
 
 “Long-Term Memory and Fractional Brownian Motion in Financial Markets.
 
-## ” Working Paper
+” Working Paper
 
-## Faculty of Economics
+# Faculty of Economics
 
 University of Tokyo.
 
@@ -40486,9 +40484,9 @@ Takahashi.
 
 “The Asymptotic Expansion Approach to the Valuation of Interest Rates Contingent Claims.
 
-## ” Working Paper
+” Working Paper
 
-## Faculty of Economics
+# Faculty of Economics
 
 University of Tokyo.
 
@@ -40498,9 +40496,9 @@ Kurz, M.
 
 “General Equilibrium with Endogenous Uncertainty.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Stanford University.
 
@@ -40548,15 +40546,15 @@ Beltratti.
 
 “The Equity Premium is No Puzzle.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Stanford University.
 
-## --- Page 220 ---
+--- Page 220 ---
 
-## 490 Bibliography
+490 Bibliography
 
 Kurz, M.
 
@@ -40576,7 +40574,7 @@ Kusuoka, S.
 
 “Arbitrage and Martingale Measure.
 
-## ” Working Paper
+” Working Paper
 
 Research Institute for Mathematical Sciences
 
@@ -40588,7 +40586,7 @@ Kusuoka, S.
 
 “Consistent Price System when Transaction Costs Exist.
 
-## ” Working Paper
+” Working Paper
 
 Research Institute for Mathematical Sciences
 
@@ -40600,9 +40598,9 @@ Kusuoka, S.
 
 “Limit Theorem on Option Replication Cost with Transaction Costs.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 University of Tokyo.
 
@@ -40612,7 +40610,7 @@ Kusuoka, S.
 
 “A Remark on American Securities.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Mathematical Sciences
 
@@ -40624,7 +40622,7 @@ Kusuoka, S.
 
 “Approximation of Expectation of Diffusion Process and Mathematical Finance.
 
-## ” Working Paper
+” Working Paper
 
 Graduate School of Mathematical Sciences
 
@@ -40634,7 +40632,7 @@ Forthcoming in Advanced Studies in Pure Mathematics
 
 Proceedings of Final Taniguchi Symposium
 
-## Nara 1998
+# Nara 1998
 
 Sunada.
 
@@ -40644,7 +40642,7 @@ Kusuoka, S.
 
 “A Remark on Default Risk Models.
 
-### ” Advances in Mathematical Economics 1
+” Advances in Mathematical Economics 1
 
 69-82.
 
@@ -40654,7 +40652,7 @@ Kusuoka, S.
 
 “Term Structure and SPDE.
 
-### ” Advances in Mathematical Economics 2
+” Advances in Mathematical Economics 2
 
 67-85.
 
@@ -40662,9 +40660,9 @@ Kuwana, Y.
 
 (1994).
 
-## Dissertation
+# Dissertation
 
-## Statistics Department
+# Statistics Department
 
 Stanford University.
 
@@ -40718,11 +40716,11 @@ Willard.
 
 tinuous Trading Models.
 
-## ” Working Paper
+” Working Paper
 
-## Olin School of Business
+# Olin School of Business
 
-## Washington
+# Washington
 
 University in St. Louis.
 
@@ -40734,21 +40732,21 @@ Willard.
 
 (1999).
 
-## “Local Martingales
+“Local Martingales
 
-## Arbitrage
+# Arbitrage
 
-## and Viability
+and Viability
 
-## Free
+# Free
 
 Snacks and Cheap Thrills.
 
-## ” Working Paper
+” Working Paper
 
-## Olin School of Business
+# Olin School of Business
 
-## Washington
+# Washington
 
 University in St. Louis.
 
@@ -40766,7 +40764,7 @@ Long, J.
 
 “The Numeraire Portfolio.
 
-### ” Journal of Financial Economics 26
+” Journal of Financial Economics 26
 
 29-69.
 
@@ -40806,11 +40804,11 @@ Schwartz.
 
 Model.
 
-## ” Working Paper
+” Working Paper
 
-### Anderson Graduate School of Management
+# Anderson Graduate School of Management
 
-## University
+# University
 
 of California, Los Angeles.
 
@@ -40838,9 +40836,9 @@ Schwartz.
 
 “Valuing Credit Derivatives.
 
-## ” Journal of Fixed Income
+” Journal of Fixed Income
 
-## 5 (June): 6-12.
+5 (June): 6-12.
 
 Longstaff, F.
 
@@ -40850,19 +40848,19 @@ Schwartz.
 
 (1998).
 
-### “Valuing American Options By Simulation
+“Valuing American Options By Simulation
 
-## A Simple
+# A Simple
 
 Least-Squares Approach.
 
-## ” Working Paper
+” Working Paper
 
-### Anderson Graduate School of Man-
+# Anderson Graduate School of Man-
 
-## agement
+agement
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -40874,11 +40872,11 @@ Loshkay, B.
 
 est Rate.
 
-## ” Working Paper
+” Working Paper
 
-### Krannert Graduate School of Management
+# Krannert Graduate School of Management
 
-## Purdue
+# Purdue
 
 University, West Lafayette.
 
@@ -40890,15 +40888,15 @@ Lu, S.
 
 “Valuation of Options under Stochastic Volatility
 
-## The Garch
+# The Garch
 
 Diffusion Approach.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University of
+# University of
 
 Michigan.
 
@@ -40908,11 +40906,11 @@ Lucas, D.
 
 “Asset Pricing with Undiversifiable Income Risk and Short Sales Con-
 
-## straints
+straints
 
 Deepening the Equity Premium Puzzle.
 
-### ” Journal of Monetary Economics
+” Journal of Monetary Economics
 
 34: 325-341.
 
@@ -40920,13 +40918,13 @@ Lucas, D.
 
 (1995).
 
-## “Market Fractions
+“Market Fractions
 
 Savings Behavior and Portfolio Choice.
 
 ” Working Paper,
 
-## Kellogg School of Management
+# Kellogg School of Management
 
 Northwestern University.
 
@@ -40970,7 +40968,7 @@ Lund, J.
 
 “A Model for Studying the Effect of EMU on European Yield Curves.
 
-## European Finance Review
+# European Finance Review
 
 Journal of the European Finance Association 2
 
@@ -40992,17 +40990,17 @@ Balduzzi.
 
 (1998).
 
-### “Predictability and Transaction Costs
+“Predictability and Transaction Costs
 
-## The Impact on
+# The Impact on
 
 Rebalancing Rules and Behavior.
 
 ” Working Paper, New York University.
 
-## --- Page 222 ---
+--- Page 222 ---
 
-## 424 Bibliography
+424 Bibliography
 
 Ma, C.
 
@@ -41012,9 +41010,9 @@ Ma, C.
 
 mation and with Recursive Utility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 University of Toronto.
 
@@ -41026,11 +41024,11 @@ Ma, C.
 
 Brownian Uncertainty.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## McGill
+# McGill
 
 University.
 
@@ -41042,11 +41040,11 @@ Ma, C.
 
 Agents.
 
-## ” Economic Theory 3
+” Economic Theory 3
 
 243-266
 
-## Corrigendum 6 (1995)
+Corrigendum 6 (1995)
 
 567-570.
 
@@ -41058,9 +41056,9 @@ Ma, C.
 
 Approach with Recursive Utility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 McGill University.
 
@@ -41072,11 +41070,11 @@ Ma, C.
 
 tence of Recursive Utility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## McGill
+# McGill
 
 University, Montreal.
 
@@ -41092,7 +41090,7 @@ Cvitanić.
 
 SDEs.
 
-### ” Annals of Applied Probability 6
+” Annals of Applied Probability 6
 
 370-398.
 
@@ -41110,7 +41108,7 @@ Yong.
 
 Equations Explicitly—A Four Step Scheme.
 
-### ” Probability Theory and Related Fields
+” Probability Theory and Related Fields
 
 98: 339-359.
 
@@ -41152,7 +41150,7 @@ Machina, M.
 
 “‘Expected Utility’ Analysis without the Independence Axiom.
 
-## ” Econo-
+” Econo-
 
 metrica 50: 277-323.
 
@@ -41164,7 +41162,7 @@ Madan, D.
 
 tion Goods.
 
-### ” Journal of Economic Theory 44
+” Journal of Economic Theory 44
 
 398-412.
 
@@ -41176,9 +41174,9 @@ Chang.
 
 (1996).
 
-## “Volatility Smiles
+“Volatility Smiles
 
-### Skewness Premia and Risk Metrics
+# Skewness Premia and Risk Metrics
 
 Applications of a Four Parameter Closed Form Generalization of Geometric
 
@@ -41200,7 +41198,7 @@ Milne.
 
 Martingale Components.
 
-## ” Math-
+” Math-
 
 ematical Finance 1: 39-55.
 
@@ -41218,7 +41216,7 @@ Shefrin.
 
 Its Brownian and Poisson Limits.
 
-### ” Review of Financial Studies 2
+” Review of Financial Studies 2
 
 251-266.
 
@@ -41232,7 +41230,7 @@ Unal.
 
 “Pricing the Risks of Default.
 
-### ” Review of Derivatives Research
+” Review of Derivatives Research
 
 2: 121-160.
 
@@ -41240,15 +41238,15 @@ Maghsoodi, Y.
 
 (1996a).
 
-## “Market’s Change in Time
+“Market’s Change in Time
 
-### Time Change and Time Structured Term
+# Time Change and Time Structured Term
 
 Structures.
 
-## ” Working Paper
+” Working Paper
 
-## SCINANCE
+# SCINANCE
 
 UK, Southampton and University of
 
@@ -41268,7 +41266,7 @@ Maghsoodi, Y.
 
 (1997a).
 
-## “Term Structure
+“Term Structure
 
 Solutions and Option Valuation Under Marked
 
@@ -41278,7 +41276,7 @@ Point Process Square-Root Interest Rates.
 
 ematics, University of Southampton, U.
 
-## Bibliography 425
+# Bibliography 425
 
 Maghsoodi, Y.
 
@@ -41288,9 +41286,9 @@ Maghsoodi, Y.
 
 sion Interest and Exchange Rates.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 University of Southampton, U.
 
@@ -41302,9 +41300,9 @@ Maghsoodi, Y.
 
 Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## University of Southampton
+# University of Southampton
 
 Magill, M.
 
@@ -41330,7 +41328,7 @@ Quinzii.
 
 “Incomplete Markets over an Infinite Horizon
 
-## Long-
+# Long-
 
 Lived Securities and Speculative Bubbles.
 
@@ -41362,7 +41360,7 @@ Shafer.
 
 Structures.
 
-### ” Journal of Mathematical Economics 19
+” Journal of Mathematical Economics 19
 
 167-194.
 
@@ -41376,7 +41374,7 @@ Shafer.
 
 “Incomplete Markets.
 
-### ” In Handbook of Mathematical Eco-
+” In Handbook of Mathematical Eco-
 
 nomics, Volume 4, pp. 1523-1614.
 
@@ -41388,7 +41386,7 @@ Mankiw, G.
 
 “The Equity Premium and the Concentration of Aggregate Shocks.
 
-### Journal of Financial Economics 17
+# Journal of Financial Economics 17
 
 211-219.
 
@@ -41398,15 +41396,15 @@ Marcet, A.
 
 “Simulation Analysis of Dynamic Stochastic Models
 
-## Applications to The-
+# Applications to The-
 
 ory and Estimation.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## Universitat Pom-
+# Universitat Pom-
 
 peu Fabra, Barcelona.
 
@@ -41420,15 +41418,15 @@ Marshall.
 
 “Solving Nonlinear Rational Expectations Models
 
-## by Parameterized Expectations
+by Parameterized Expectations
 
 Convergence to Stationary Solutions.
 
-## ” Working
+” Working
 
 Paper, Universitat Pompeu Fabra
 
-## Department of Economics
+# Department of Economics
 
 Barcelona.
 
@@ -41444,7 +41442,7 @@ Singleton.
 
 neous Agents in the Presence of Portfolio Constraints.
 
-## ” Macroeconomic Dynamics
+” Macroeconomic Dynamics
 
 3: 243-277.
 
@@ -41454,13 +41452,13 @@ Marcozzi, M.
 
 “On the Approximation of Optimal Stopping Problems with Appli-cation to Financial Mathematics.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematical
+# Department of Mathematical
 
-## Sciences
+# Sciences
 
-## University of Nevada
+# University of Nevada
 
 Las Vegas.
 
@@ -41470,7 +41468,7 @@ Margrabe, W.
 
 “The Value of an Option to Exchange One Asset for Another.
 
-## ” Journal
+” Journal
 
 of Finance 33: 177-186.
 
@@ -41482,11 +41480,11 @@ Marsh, T.
 
 and Bonds.
 
-## ” Working Paper
+” Working Paper
 
-## Haas School of Business
+# Haas School of Business
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -41532,7 +41530,7 @@ Mas-Colell, A.
 
 “Valuation Equilibrium and Pareto Optimum Revisited.
 
-## ” In W
+” In W
 
 Hildenbrand and A.
 
@@ -41552,13 +41550,13 @@ Mas-Colell, A.
 
 ” Working Paper,
 
-## Department of Economics
+# Department of Economics
 
 Harvard University.
 
-## --- Page 223 ---
+--- Page 223 ---
 
-## 426 Bibliography
+426 Bibliography
 
 Mas-Colell, A.
 
@@ -41578,13 +41576,13 @@ Monteiro.
 
 (1996).
 
-## “Self-Fulfilling Equilibria
+“Self-Fulfilling Equilibria
 
-## An Existence Theorem
+# An Existence Theorem
 
 for a General State Space.
 
-### ” Journal of Mathematical Economics 26
+” Journal of Mathematical Economics 26
 
 51-62.
 
@@ -41636,7 +41634,7 @@ McKean, H.
 
 (1965).
 
-## “Appendix
+“Appendix
 
 Free Boundary Problem for the Heat Equation Arising from
 
@@ -41658,7 +41656,7 @@ McManus, D.
 
 (1984).
 
-## “Incomplete Markets
+“Incomplete Markets
 
 Generic Existence of Equilibrium and Optimality
 
@@ -41690,7 +41688,7 @@ Prescott.
 
 “The Equity Premium: A Puzzle.
 
-## ” Journal of Monetary
+” Journal of Monetary
 
 Economics 15: 145-161.
 
@@ -41698,17 +41696,17 @@ Mehrling, P.
 
 (1990).
 
-## “Heterogeneity
+“Heterogeneity
 
-## Incomplete Markets
+# Incomplete Markets
 
 and the Equity Premium.
 
-## ” Work-
+” Work-
 
-## ing Paper
+ing Paper
 
-## Department of Economics
+# Department of Economics
 
 Barnard College and Columbia University.
 
@@ -41716,11 +41714,11 @@ Mehrling, P.
 
 (1998).
 
-## “Idiosyncratic Risk
+“Idiosyncratic Risk
 
 Borrowing Constraints and Asset Prices.
 
-## ” Metroeco-
+” Metroeco-
 
 nomica 49: 261-283.
 
@@ -41744,7 +41742,7 @@ Mella-Barral, P.
 
 “Dynamics of Default and Debt Reorganization.
 
-## ” Review of Financial
+” Review of Financial
 
 Studies 12: 535-578.
 
@@ -41768,9 +41766,9 @@ Merrick, J.
 
 “Crisis Dynamics of Russian Eurobond Implied Default Recovery Ratios.
 
-## Working Paper
+# Working Paper
 
-## Stern School of Business
+# Stern School of Business
 
 New York University.
 
@@ -41780,11 +41778,11 @@ Merton, R.
 
 “Lifetime Portfolio Selection under Uncertainty
 
-## The Continuous Time
+# The Continuous Time
 
 Case.
 
-### ” Review of Economics and Statistics 51
+” Review of Economics and Statistics 51
 
 247-257.
 
@@ -41798,7 +41796,7 @@ Application to the Pricing of the Capital Structure of the Firm.
 
 ” Working Paper,
 
-## Sloan School of Management
+# Sloan School of Management
 
 Massachusetts Institute of Technology.
 
@@ -41810,11 +41808,11 @@ Merton, R.
 
 Model.
 
-### ” Journal of Economic Theory 3
+” Journal of Economic Theory 3
 
 373-413
 
-## Erratum 6 (1973)
+Erratum 6 (1973)
 
 213-214.
 
@@ -41834,7 +41832,7 @@ Merton, R.
 
 “The Theory of Rational Option Pricing.
 
-### ” Bell Journal of Economics and
+” Bell Journal of Economics and
 
 Management Science 4: 141-183.
 
@@ -41842,13 +41840,13 @@ Merton, R.
 
 (1974).
 
-### “On the Pricing of Corporate Debt
+“On the Pricing of Corporate Debt
 
 The Risk Structure of Interest Rates.
 
 Journal of Finance 29: 449-470.
 
-## Bibliography 427
+# Bibliography 427
 
 Merton, R.
 
@@ -41856,7 +41854,7 @@ Merton, R.
 
 “Option Pricing when the Underlying Stock Returns are Discontinuous.
 
-### Journal of Financial Economics 5
+# Journal of Financial Economics 5
 
 125-144.
 
@@ -41868,7 +41866,7 @@ Merton, R.
 
 rem.
 
-### ” Journal of Financial Economics 5
+” Journal of Financial Economics 5
 
 241-250.
 
@@ -41886,7 +41884,7 @@ Meyer, P.
 
 Probability and Potentials.
 
-## Waltham
+# Waltham
 
 MA: Blaisdell Publishing Company.
 
@@ -41896,9 +41894,9 @@ Milshtein, G.
 
 “Approximate Integration of Stochastic Differential Equations.
 
-## ” Theory
+” Theory
 
-### of Probability and Its Applications 3
+of Probability and Its Applications 3
 
 557-562.
 
@@ -41920,13 +41918,13 @@ Miltersen, K.
 
 “Pricing of Interest Rate Contingent Claims
 
-## Implementing the Simula-
+# Implementing the Simula-
 
 tion Approach.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Management
+# Department of Management
 
 Odense University.
 
@@ -41936,7 +41934,7 @@ Miltersen, K.
 
 “An Arbitrage Theory of the Term Structure of Interest Rates.
 
-## ” Annals
+” Annals
 
 of Applied Probability 4: 953-967.
 
@@ -41952,9 +41950,9 @@ Persson.
 
 Jarrow-Morton Framework.
 
-## ” Insurance
+” Insurance
 
-## Mathematics and Economics 25
+# Mathematics and Economics 25
 
 307-325.
 
@@ -41968,7 +41966,7 @@ Sondermann.
 
 (1997).
 
-### “Closed Form Solutions for Term
+“Closed Form Solutions for Term
 
 Structure Derivatives with Log-Normal Interest Rates.
 
@@ -41988,9 +41986,9 @@ Schwartz.
 
 Stochastic Term Structures of Convenience Yields and Interest Rates.
 
-## ” Journal of
+” Journal of
 
-### Financial and Quantitative Analysis 33
+# Financial and Quantitative Analysis 33
 
 33-59.
 
@@ -41998,9 +41996,9 @@ Mirrlees, J.
 
 (1974).
 
-### “Optimal Accumulation under Uncertainty
+“Optimal Accumulation under Uncertainty
 
-## The Case of Stationary
+# The Case of Stationary
 
 Returns to Investment.
 
@@ -42010,7 +42008,7 @@ Dréze (Ed.
 
 ), Allocation under Uncertainty
 
-## Equilibrium
+# Equilibrium
 
 and Optimality, pp. 36-50.
 
@@ -42038,11 +42036,11 @@ Miller.
 
 (1958).
 
-## “The Cost of Capital
+“The Cost of Capital
 
-## Corporation Finance
+# Corporation Finance
 
-## and the
+and the
 
 Theory of Investment.
 
@@ -42082,7 +42080,7 @@ Monteiro, P.
 
 “Inada’s Condition Imply Equilibrium Existence is Rare.
 
-## ” Economics
+” Economics
 
 Letters 44: 99-102.
 
@@ -42094,7 +42092,7 @@ Monteiro, P.
 
 Economies.
 
-### ” Journal of Mathematical Economics 26
+” Journal of Mathematical Economics 26
 
 85-101.
 
@@ -42104,13 +42102,13 @@ Moreleda, J.
 
 On The Pricing of Interest Rate Options.
 
-## Tinbergen Institute Research
+# Tinbergen Institute Research
 
 Series.
 
 , Rotterdam
 
-## The Netherlands
+# The Netherlands
 
 Erasmus University.
 
@@ -42126,7 +42124,7 @@ Caflisch.
 
 tion of the Heat Equation.
 
-### ” SIAM Journal of Numerical Analysis 30
+” SIAM Journal of Numerical Analysis 30
 
 1558-1573.
 
@@ -42140,7 +42138,7 @@ Caflisch.
 
 “Quasi-Random Sequences and Their Discrepancies.
 
-### SIAM Journal of Scientific Computing 15
+# SIAM Journal of Scientific Computing 15
 
 1251-1279.
 
@@ -42154,13 +42152,13 @@ Caflisch.
 
 “Quasi-Monte Carlo Integration.
 
-## ” Journal of Computa-
+” Journal of Computa-
 
 tional Physics 122: 218-230.
 
-## --- Page 224 ---
+--- Page 224 ---
 
-## 428 Bibliography
+428 Bibliography
 
 Moskowitz, B.
 
@@ -42174,11 +42172,11 @@ Caflisch.
 
 Monte Carlo Methods.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## University
+# University
 
 of California, Los Angeles.
 
@@ -42188,7 +42186,7 @@ Miller, S.
 
 Arbitrage Pricing of Contingent Claims.
 
-### Lecture Notes in Economics and
+# Lecture Notes in Economics and
 
 Mathematical Systems, vol. 254.
 
@@ -42204,9 +42202,9 @@ straints on the Dollar Investments of the Hedge Portfolio.
 
 ” Working Paper,
 
-## Department of Management
+# Department of Management
 
-## Odense University
+# Odense University
 
 Denmark.
 
@@ -42228,11 +42226,11 @@ Musiela, M.
 
 “Nominal Annual Rates and Lognormal Volatility Structure.
 
-## ” Working
+” Working
 
 Paper, Department of Mathematics
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -42244,9 +42242,9 @@ Musiela, M.
 
 ” Working Paper, Depart-
 
-## ment of Mathematics
+ment of Mathematics
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -42278,9 +42276,9 @@ Structure of Interest Rates and their Implications.
 
 ” Working Paper, Department
 
-## of Mathematics
+of Mathematics
 
-## University of New South Wales
+# University of New South Wales
 
 Sydney.
 
@@ -42290,9 +42288,9 @@ Myneni, R.
 
 “Continuous-Time Relationships between Futures and Forward Prices.
 
-## Working Paper
+# Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -42312,11 +42310,11 @@ Nahum, E.
 
 “The Pricing of Options Depending on a Discrete Maximum.
 
-## ” Working
+” Working
 
 Paper, Department of Statistics
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -42340,7 +42338,7 @@ Lee.
 
 in Economic Regimes.
 
-## ” Working Paper
+” Working Paper
 
 University of British Columbia.
 
@@ -42416,7 +42414,7 @@ Nelson, D.
 
 “Filtering and Forecasting with Misspecified ARCH Models I.
 
-## ” Journal of
+” Journal of
 
 Econometrics 52: 61-90.
 
@@ -42432,7 +42430,7 @@ Ramaswamy.
 
 mations in Financial Models.
 
-### ” Review of Financial Studies 3
+” Review of Financial Studies 3
 
 393-430.
 
@@ -42446,7 +42444,7 @@ Schaefer.
 
 “Innovations in Bond Portfolio Management
 
-## Duration
+# Duration
 
 Analysis and Immunization.
 
@@ -42464,9 +42462,9 @@ Newton, N.
 
 Stratonovich Equations.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Electrical Engineering
+# Department of Electrical Engineering
 
 University of Essex.
 
@@ -42482,7 +42480,7 @@ Sandmann.
 
 est Rates.
 
-### ” Applied Mathematical Finance 3
+” Applied Mathematical Finance 3
 
 209-236.
 
@@ -42492,7 +42490,7 @@ Nielsen, L.
 
 “Equilibrium in CAPM without a Riskless Asset.
 
-## ” Review of Economic Studies
+” Review of Economic Studies
 
 57: 315-324.
 
@@ -42568,11 +42566,11 @@ Ronn.
 
 Interest Rate Swaps.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Management Science and
+# Department of Management Science and
 
-## Information Systems
+# Information Systems
 
 University of Texas at Austin.
 
@@ -42588,11 +42586,11 @@ Hodges.
 
 “Interest Rate Derivatives in a Duffie and Kan
 
-### Model with Stochastic Volatility
+# Model with Stochastic Volatility
 
 An Arrow-Debreu Pricing Approach.
 
-## ” Review of
+” Review of
 
 Derivatives Research 3: 5-66.
 
@@ -42602,7 +42600,7 @@ Nyborg, K.
 
 “The Use and Pricing of Convertible Bonds.
 
-### ” Applied Mathematical Finance
+” Applied Mathematical Finance
 
 3: 167-190.
 
@@ -42616,7 +42614,7 @@ Karatzas.
 
 “A Generalized Clark Representation Formula
 
-## with
+with
 
 Application to Optimal Portfolios.
 
@@ -42632,7 +42630,7 @@ Ohashi, K.
 
 Trading Model with Dividends.
 
-### ” Journal of Mathematical Economics 20
+” Journal of Mathematical Economics 20
 
 219-224.
 
@@ -42644,7 +42642,7 @@ Oliveira, D.
 
 ” Working Paper, Instituto de
 
-## Matematica Pura e Applicada
+# Matematica Pura e Applicada
 
 Rio de Janeiro.
 
@@ -42652,11 +42650,11 @@ Ordentlich, E.
 
 (1996).
 
-## Dissertation
+# Dissertation
 
-### Department of Electrical Engineering
+# Department of Electrical Engineering
 
-## Stanford
+# Stanford
 
 University.
 
@@ -42668,7 +42666,7 @@ Owen, A.
 
 ” Working Paper,
 
-## Department of Statistics
+# Department of Statistics
 
 Stanford University.
 
@@ -42680,7 +42678,7 @@ Owen, A.
 
 “Scrambled Net Variance for Integrals of Smooth Functions.
 
-## ” Annals of
+” Annals of
 
 Statistics 25: 1541-1562.
 
@@ -42694,7 +42692,7 @@ Tavella.
 
 “Scrambled Nets for Value at Risk Calculations.
 
-## ” Working
+” Working
 
 Paper, Statistics Department
 
@@ -42706,9 +42704,9 @@ Pagés, H.
 
 “Optimal Consumption and Portfolio Policies when Markets are Incomplete.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 Massachusetts Institute of Technology.
 
@@ -42718,7 +42716,7 @@ Pagés, H.
 
 “Estimating Brazilian Sovereign Risk from Brady Bond Prices.
 
-## ” Working
+” Working
 
 Paper, Bank of France.
 
@@ -42744,7 +42742,7 @@ Pan, J.
 
 ” Working Paper,
 
-## Graduate School of Business
+# Graduate School of Business
 
 Stanford University.
 
@@ -42754,15 +42752,15 @@ Pan, W.
 
 “Constrained Efficient Allocations in Incomplete Markets
 
-## Characteriza-
+# Characteriza-
 
 tion and Implementation.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## University
+# University
 
 of Rochester.
 
@@ -42774,7 +42772,7 @@ Pan, W.
 
 Incomplete Markets.
 
-### ” Journal of Mathematical Economics 24
+” Journal of Mathematical Economics 24
 
 577-599.
 
@@ -42786,11 +42784,11 @@ Pang, K.
 
 Caps and Swaptions Prices.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Center
+# Financial Options Research Center
 
-## Warwick Business School
+# Warwick Business School
 
 University of Warwick.
 
@@ -42804,11 +42802,11 @@ Hodges.
 
 “Non-Negative Affine Yield Models of the Term Structure.
 
-## Working Paper
+# Working Paper
 
-### Financial Options Research Center
+# Financial Options Research Center
 
-## Warwick Business School
+# Warwick Business School
 
 University of Warwick.
 
@@ -42820,9 +42818,9 @@ Pappalardo, L.
 
 Driven by a Jump Process.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
 University of Warwick.
 
@@ -42872,11 +42870,11 @@ Peng.
 
 Non-Lipschitz Coefficients.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## Uni-
+# Uni-
 
 versité de Provence.
 
@@ -42888,9 +42886,9 @@ Sun.
 
 (1994).
 
-### “An Empirical Examination of the Cox
+“An Empirical Examination of the Cox
 
-## Ingersoll
+# Ingersoll
 
 andRoss Model of the Term Structure of Interest Rates using the Method of Maximum Likelihood.
 
@@ -42906,9 +42904,9 @@ Shiu.
 
 “Pricing of Options on Bonds by Binomial Lattices and by Diffusion Processes.
 
-## ” Working Paper
+” Working Paper
 
-## Investment Policy Department
+# Investment Policy Department
 
 Great-West Life Assurance Company.
 
@@ -42934,7 +42932,7 @@ Pedersen, L.
 
 “Affine Multifactor Term Structure Models—Theory and Inference.
 
-## ” Working Paper
+” Working Paper
 
 University of Copenhagen.
 
@@ -42944,9 +42942,9 @@ Pedersen, M.
 
 “Bermudan Swaptions in the LIBOR Market Model.
 
-## ” Working Paper
+” Working Paper
 
-## Financial Research Department
+# Financial Research Department
 
 SimCorp A/S.
 
@@ -42956,9 +42954,9 @@ Peng, S.
 
 “Adapted Solution of Backward Stochastic Equations and Related Partial Differential Equations.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Shandong University.
 
@@ -42982,19 +42980,19 @@ Evidence Using Survey Data.
 
 ” Review of Financial Studies 4: 53-86.
 
-## Bibliography 431
+# Bibliography 431
 
 Pham, H.
 
 (1995).
 
-## “Optimal Stopping
+“Optimal Stopping
 
 Free Boundary and American Option in a Jump Diffusion Model.
 
-## ” Working Paper
+” Working Paper
 
-## CEREMADE
+# CEREMADE
 
 Université de Paris IX Dauphine.
 
@@ -43044,7 +43042,7 @@ Pietra, T.
 
 “Indeterminacy in General Equilibrium Economies with Incomplete Financial Markets—Mixed Asset Returns.
 
-### ” Journal of Mathematical Economics 21
+” Journal of Mathematical Economics 21
 
 155-172.
 
@@ -43058,7 +43056,7 @@ Karatzas.
 
 “Anticipative Portfolio Optimization.
 
-### ” Advances in Applied Probability 28
+” Advances in Applied Probability 28
 
 1095-1122.
 
@@ -43072,9 +43070,9 @@ Karatzas.
 
 “Stochastic Equilibrium with Differential Information.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 Columbia University.
 
@@ -43088,11 +43086,11 @@ Shreve.
 
 “Callable Convertible Bonds.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## Courant Institute
+# Courant Institute
 
 New York.
 
@@ -43106,11 +43104,11 @@ Shreve.
 
 “Perpetual Convertible Debt.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-## Courant Institute
+# Courant Institute
 
 New York.
 
@@ -43122,7 +43120,7 @@ Selby.
 
 (1983).
 
-### “The Pricing of Corporate Debt
+“The Pricing of Corporate Debt
 
 A Further Note.
 
@@ -43138,13 +43136,13 @@ Schweizer.
 
 “On Smile and Skewness.
 
-## ” Working Paper
+” Working Paper
 
-### School of Mathematical Sciences
+# School of Mathematical Sciences
 
 Centre for Mathematics and Its Applications
 
-### The Australian National University
+# The Australian National University
 
 Canberra.
 
@@ -43166,7 +43164,7 @@ Pliska, S.
 
 Optimal Portfolios.
 
-### ” Mathematics of Operations Research 11
+” Mathematics of Operations Research 11
 
 371-382.
 
@@ -43194,7 +43192,7 @@ Polemarchakis, H.
 
 “Options and Equilibrium.
 
-### ” Journal of Mathematical Economics 19
+” Journal of Mathematical Economics 19
 
 107-112.
 
@@ -43208,7 +43206,7 @@ Siconolfi.
 
 “Competitive Equilibria without Free Disposal or Nonsatiation.
 
-### ” Journal of Mathematical Economics 22
+” Journal of Mathematical Economics 22
 
 85-99.
 
@@ -43244,9 +43242,9 @@ Poteshman, A.
 
 “Estimating a General Stochastic Variance Model from Options Prices.
 
-## ” Working Paper
+” Working Paper
 
-## Graduate School of Business
+# Graduate School of Business
 
 University of Chicago.
 
@@ -43262,13 +43260,13 @@ Sircar.
 
 “Financial Modeling in a Fast Mean-Reverting Stochastic Volatility Environment.
 
-### ” Asia-Pacific Financial Markets 6
+” Asia-Pacific Financial Markets 6
 
 37-48.
 
-## --- Page 226 ---
+--- Page 226 ---
 
-## 432 Bibliography
+432 Bibliography
 
 Pouque, J.
 
@@ -43282,9 +43280,9 @@ Sircar.
 
 “Mean-Reverting Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 North Carolina State University.
 
@@ -43300,9 +43298,9 @@ Sircar.
 
 “Stochastic Volatility Correction to Black-Scholes.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 North Carolina State University.
 
@@ -43314,7 +43312,7 @@ Mehra.
 
 (1980).
 
-### “Recursive Competitive Equilibrium
+“Recursive Competitive Equilibrium
 
 The Case of Homogeneous Households.
 
@@ -43332,7 +43330,7 @@ Vetterling.
 
 (1993).
 
-## Numerical Recipes in C
+# Numerical Recipes in C
 
 The Art of Scientific Computing (2d ed.
 
@@ -43346,7 +43344,7 @@ Prigent, J.
 
 Weak Convergence of the Optimal Financial Trading Strategies.
 
-## ” Working Paper
+” Working Paper
 
 Institute of Mathematical Research of Rennes
 
@@ -43356,11 +43354,11 @@ Prigent, J.
 
 (1995).
 
-## “Incomplete Markets
+“Incomplete Markets
 
 Convergence of Options Values under the Minimal Martingale Measure.
 
-## ” Working Paper
+” Working Paper
 
 THEMA, Université de Cergy-Pontoise
 
@@ -43372,9 +43370,9 @@ Prisman, E.
 
 “Valuation of Risky Assets in Arbitrage Free Economies with Frictions.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 University of Arizona.
 
@@ -43410,7 +43408,7 @@ Pye, G.
 
 “A Markov Model of the Term Structure.
 
-### ” Quarterly Journal of Economics 81
+” Quarterly Journal of Economics 81
 
 61-72.
 
@@ -43468,9 +43466,9 @@ Radner, R.
 
 (1972).
 
-### “Existence of Equilibrium of Plans
+“Existence of Equilibrium of Plans
 
-## Prices
+# Prices
 
 and Price Expectations in a Sequence of Markets.
 
@@ -43484,7 +43482,7 @@ Rady, S.
 
 A Martingale Approach.
 
-## ” Working Paper
+” Working Paper
 
 London School of Economics.
 
@@ -43494,9 +43492,9 @@ Rady, S.
 
 “Option Pricing with a Quadratic Diffusion Term.
 
-## ” Working Paper
+” Working Paper
 
-## Financial Markets Group
+# Financial Markets Group
 
 London School of Economics.
 
@@ -43512,9 +43510,9 @@ Cooper.
 
 A Fast Fourier Transform (FFT) Approach.
 
-## ” Working Paper
+” Working Paper
 
-### Institute of Finance and Accounting
+# Institute of Finance and Accounting
 
 London Business School.
 
@@ -43524,7 +43522,7 @@ Redekop, J.
 
 “Extreme-value Distributions for Generalizations of Brownian Motion.
 
-## ” Working Paper
+” Working Paper
 
 Departments of Economics and Statistics and Actuarial Science.
 
@@ -43538,13 +43536,13 @@ Fisher.
 
 “Extreme-Value Diagnostic Statistics for Some Stochastic Volatility Models.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
 University of Waterloo.
 
-## Bibliography 433
+# Bibliography 433
 
 Reisman, H.
 
@@ -43552,9 +43550,9 @@ Reisman, H.
 
 “Option Pricing for Stocks with a Generalized Log-Normal Price Distribution.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 University of Minnesota.
 
@@ -43582,19 +43580,19 @@ Touzi.
 
 (1992).
 
-## “Stochastic Volatility Models
+“Stochastic Volatility Models
 
-## Statistical Inference from
+# Statistical Inference from
 
 Implied Volatilities.
 
-## ” Working Paper
+” Working Paper
 
-## GREMAQ IDEI
+# GREMAQ IDEI
 
-## Toulouse
+# Toulouse
 
-## and CREST
+and CREST
 
 Paris, France.
 
@@ -43642,7 +43640,7 @@ Sato.
 
 Uhlenbeck Process.
 
-### ” Journal of Applied Probability 25
+” Journal of Applied Probability 25
 
 43-57.
 
@@ -43654,9 +43652,9 @@ Rich, D.
 
 Risk.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 Virginia Polytechnic Institute.
 
@@ -43664,15 +43662,15 @@ Richard, S.
 
 (1975).
 
-## “Optimal Consumption
+“Optimal Consumption
 
-## Portfolio
+# Portfolio
 
-### and Life Insurance Rules for an Uncer-
+and Life Insurance Rules for an Uncer-
 
 tain Lived Individual in a Continuous Time Model.
 
-### ” Journal of Financial Economics
+” Journal of Financial Economics
 
 2: 187-203.
 
@@ -43682,7 +43680,7 @@ Richard, S.
 
 “An Arbitrage Model of the Term Structure of Interest Rates.
 
-## ” Journal of
+” Journal of
 
 Financial Economics 6: 33-57.
 
@@ -43704,15 +43702,15 @@ Sankarasubramaniam.
 
 (1992).
 
-### “Valuing Claims when Interest Rates
+“Valuing Claims when Interest Rates
 
 have Stochastic Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## University of
+# University of
 
 Southern California.
 
@@ -43728,11 +43726,11 @@ Trevor.
 
 Term Structure.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
-## University of Southern
+# University of Southern
 
 California.
 
@@ -43756,7 +43754,7 @@ Rockafellar, T.
 
 Convex Analysis.
 
-## Princeton
+# Princeton
 
 NJ: Princeton University Press.
 
@@ -43766,11 +43764,11 @@ Rogers, C.
 
 “Which Model for Term-Structure of Interest Rates Should One Use?
 
-## Working Paper
+# Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
-### Queen Mary and Westfield College
+# Queen Mary and Westfield College
 
 University of London.
 
@@ -43780,7 +43778,7 @@ Rogers, C.
 
 “Equivalent Martingale Measures and No-Arbitrage.
 
-## ” Stochastics and
+” Stochastics and
 
 Stochastic Reports 51: 1-9.
 
@@ -43804,7 +43802,7 @@ Shi.
 
 “The Value of an Asian Option.
 
-### ” Journal of Applied Probability
+” Journal of Applied Probability
 
 32: 1077-1088.
 
@@ -43818,9 +43816,9 @@ Stummer.
 
 “How Well Do One-Factor Models Fit Bond Prices?
 
-## Working Paper
+# Working Paper
 
-### School of Mathematical Sciences
+# School of Mathematical Sciences
 
 University of Bath.
 
@@ -43834,7 +43832,7 @@ Stapleton.
 
 “Fast Accurate Binomial Pricing.
 
-## ” Finance and Stochastics
+” Finance and Stochastics
 
 2: 3-17.
 
@@ -43852,9 +43850,9 @@ Stochastic Volatility Model.
 
 ” Mathematical Finance 7: 399-412.
 
-## --- Page 227 ---
+--- Page 227 ---
 
-## 434 Bibliography
+434 Bibliography
 
 Rosenberg, J.
 
@@ -43876,7 +43874,7 @@ Ross, S.
 
 “The Arbitrage Theory of Capital Asset Pricing.
 
-## ” Journal of Economic Theory
+” Journal of Economic Theory
 
 13: 341-360.
 
@@ -43886,7 +43884,7 @@ Ross, S.
 
 “A Simple Approach to the Valuation of Risky Streams.
 
-## ” Journal of Business
+” Journal of Business
 
 51: 453-475.
 
@@ -43904,7 +43902,7 @@ Ross, S.
 
 (1989).
 
-## “Information and Volatility
+“Information and Volatility
 
 The Non-Arbitrage Martingale Approach to
 
@@ -43926,7 +43924,7 @@ Rubinstein, M.
 
 “An Aggregation Theorem for Securities Markets.
 
-## ” Journal of Finan-
+” Journal of Finan-
 
 cial Economics 1: 225-244.
 
@@ -43938,9 +43936,9 @@ Rubinstein, M.
 
 ” Working Paper,
 
-## Haas School of Business
+# Haas School of Business
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -43992,9 +43990,9 @@ Ruegg, M.
 
 “Optimal Consumption and Portfolio Choice with Borrowing Constraints.
 
-## Working Paper
+# Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 ETH Zurich.
 
@@ -44004,7 +44002,7 @@ Rumsey, J.
 
 “Comparison of Tax Rates Inferred from Zero-Coupon Yield Curves.
 
-### Journal of Fixed Income 6 (March)
+Journal of Fixed Income 6 (March)
 
 75-81.
 
@@ -44016,11 +44014,11 @@ Rutkowski, M.
 
 Deterministic Volatilities.
 
-## ” Working Paper
+” Working Paper
 
-## Institute of Mathematics
+# Institute of Mathematics
 
-## Politechnika
+# Politechnika
 
 Warszawska, Warszawa.
 
@@ -44032,7 +44030,7 @@ Rutkowski, M.
 
 Deterministic Volatilities.
 
-### ” Applied Mathematical Finance 3
+” Applied Mathematical Finance 3
 
 237-267.
 
@@ -44040,13 +44038,13 @@ Rutkowski, M.
 
 (1998).
 
-## “Dynamics of Spot
+“Dynamics of Spot
 
-## Forward
+# Forward
 
 and Futures Libor Rates.
 
-## ” International
+” International
 
 Journal of Theoretical and Applied Finance 1
 
@@ -44084,11 +44082,11 @@ Saa-Requejo, J.
 
 Exchange Markets.
 
-## ” Working Paper
+” Working Paper
 
-## INSEAD
+# INSEAD
 
-## Fontainebleau
+# Fontainebleau
 
 France.
 
@@ -44100,9 +44098,9 @@ Sabarwal, T.
 
 ” Working Paper,
 
-## Department of Economics
+# Department of Economics
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -44112,7 +44110,7 @@ Saito, M.
 
 “Incomplete Insurance and Non-expected Utility.
 
-## ” Japanese Economic Review
+” Japanese Economic Review
 
 49: 271-83.
 
@@ -44122,7 +44120,7 @@ Samuelson, P.
 
 “Lifetime Portfolio Selection by Dynamic Stochastic Programming.
 
-### Review of Economics and Statistics 51
+# Review of Economics and Statistics 51
 
 239-246.
 
@@ -44140,7 +44138,7 @@ Models.
 
 ” Mathematical Finance 7: 119-125.
 
-## Bibliography 435
+# Bibliography 435
 
 Sandroni, A.
 
@@ -44148,11 +44146,11 @@ Sandroni, A.
 
 “The Risk Premium and the Interest Rate Puzzles
 
-## The Role of Hetero-
+# The Role of Hetero-
 
 geneous Agents.
 
-## ” Working Paper
+” Working Paper
 
 University of Pennsylvania.
 
@@ -44168,9 +44166,9 @@ Sornette.
 
 Curve with Stochastic String Shocks.
 
-## ” Working Paper
+” Working Paper
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -44334,9 +44332,9 @@ Heemink.
 
 “Fast Valuation of Financial Derivatives.
 
-## ” Working Paper
+” Working Paper
 
-### Delft University of Technology
+# Delft University of Technology
 
 The Netherlands.
 
@@ -44346,7 +44344,7 @@ Schönbucher, P.
 
 “Term Structure Modelling of Defaultable Bonds.
 
-### ” Review of Derivatives Research 2
+” Review of Derivatives Research 2
 
 161-192.
 
@@ -44356,9 +44354,9 @@ Schroder, M.
 
 “Optimal Portfolio Selection with Transactions Costs.
 
-## ” Working Paper
+” Working Paper
 
-## Finance Department
+# Finance Department
 
 Northwestern University.
 
@@ -44370,7 +44368,7 @@ Schroder, M.
 
 Forwards and Options.
 
-### ” Review of Financial Studies 12
+” Review of Financial Studies 12
 
 143-164.
 
@@ -44382,7 +44380,7 @@ Schroder, M.
 
 Explicit Formulas.
 
-## ” Working Paper
+” Working Paper
 
 Fakultät für Mathematik und Informatik der Universität Mannheim.
 
@@ -44392,23 +44390,23 @@ Schroder, M.
 
 “On the Valuation of Double-Barrier Options.
 
-## ” Working Paper
+” Working Paper
 
 Fakultät für Mathematik und Informatik der Universität Mannheim.
 
-## --- Page 228 ---
+--- Page 228 ---
 
-## 436 Bibliography
+436 Bibliography
 
 Schroder, M.
 
 (1999c).
 
-### “On the Valuation of Paris Options
+“On the Valuation of Paris Options
 
 Foundational Results.
 
-## ” Working Paper
+” Working Paper
 
 Lehrstuhl Mathematik III Universität Mannheim.
 
@@ -44416,11 +44414,11 @@ Schroder, M.
 
 (1999d).
 
-### “On the Valuation of Paris Options
+“On the Valuation of Paris Options
 
 The First Standard Case.
 
-## ” Working Paper
+” Working Paper
 
 Lehrstuhl Mathematik III Universität Mannheim.
 
@@ -44434,11 +44432,11 @@ Skiadas.
 
 “Optimal Consumption and Portfolio Selection with Temporally Dependent Preferences.
 
-## ” Working Paper
+” Working Paper
 
-## School of Management
+# School of Management
 
-## SUNY at Buffalo
+# SUNY at Buffalo
 
 Schroder, M.
 
@@ -44462,9 +44460,9 @@ Skiadas.
 
 “An Isomorphism between Asset Pricing Models (with and without Linear Habit Formation).
 
-## ” Working Paper
+” Working Paper
 
-### Eli Broad Graduate School of Management
+# Eli Broad Graduate School of Management
 
 Michigan State University.
 
@@ -44472,11 +44470,11 @@ Schwartz, E.
 
 (1977).
 
-## “The Valuation of Warrants
+“The Valuation of Warrants
 
 Implementing a New Approach.
 
-### ” Journal of Financial Economics 4
+” Journal of Financial Economics 4
 
 79-94.
 
@@ -44484,7 +44482,7 @@ Schwartz, E.
 
 (1997).
 
-## “Presidential Address
+“Presidential Address
 
 The Stochastic Behavior of Commodity Prices
 
@@ -44498,7 +44496,7 @@ Schweizer, M.
 
 “Martingale Densities for General Asset Prices.
 
-### ” Journal of Mathematical Economics 21
+” Journal of Mathematical Economics 21
 
 363-378.
 
@@ -44516,9 +44514,9 @@ Schweizer, M.
 
 “Hedging and the CAPM.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Mathematics
+# Department of Mathematics
 
 University of Bonn.
 
@@ -44546,9 +44544,9 @@ Scott, L.
 
 “Option Pricing when the Variance Changes Randomly
 
-## Theory
+# Theory
 
-## Estimation
+# Estimation
 
 and Application.
 
@@ -44564,9 +44562,9 @@ Scott, L.
 
 An Analysis of Implied Volatilities and the Volatility Risk Premium in a Model with Stochastic Interest Rates and Volatility.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Finance
+# Department of Finance
 
 University of Georgia.
 
@@ -44576,11 +44574,11 @@ Scott, L.
 
 “Simulating a Multi-Factor Term Structure Model over Relatively Long Discrete Time Periods.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Banking and Finance
+# Department of Banking and Finance
 
-## University of Georgia
+# University of Georgia
 
 Athens.
 
@@ -44590,11 +44588,11 @@ Scott, L.
 
 “The Valuation of Interest Rate Derivatives in a Multi-Factor Cox-Ingersoll-Ross Model that Matches the Initial Term Structure.
 
-## ” Working Paper
+” Working Paper
 
-### Department of Banking and Finance
+# Department of Banking and Finance
 
-## University of Georgia
+# University of Georgia
 
 Athens.
 
@@ -44614,9 +44612,9 @@ Sekine, J.
 
 “Mean-Variance Hedging in Continuous-Time with Stochastic Interest Rate.
 
-## ” Working Paper
+” Working Paper
 
-### MTP Investment Technology Institute
+# MTP Investment Technology Institute
 
 Tokyo.
 
@@ -44642,15 +44640,15 @@ Sargent.
 
 “Computing the Fong and Vasicek Pure Discount Bond Pricing Formula.
 
-## ” Working Paper
+” Working Paper
 
-## FORC Preprint 93/42
+FORC Preprint 93/42
 
-## October 1993
+# October 1993
 
 University of Warwick.
 
-## Bibliography 437
+# Bibliography 437
 
 Selden, L.
 
@@ -44668,9 +44666,9 @@ Serrat, A.
 
 “An Equilibrium Analysis of Liquidity Constraints.
 
-## ” Working Paper
+” Working Paper
 
-## Sloan School of Management
+# Sloan School of Management
 
 Massachusetts Institute of Technology.
 
@@ -44680,7 +44678,7 @@ Serrat, A.
 
 “Exchange Rate Dynamics in a Multilateral Target Zone.
 
-### ” Review of Economic Studies 67
+” Review of Economic Studies 67
 
 193-211.
 
@@ -44694,7 +44692,7 @@ Taksar.
 
 “A Note on Merton’s ‘Optimum Consumption and Portfolio Rules in a Continuous-Time Model’.
 
-### ” Journal of Economic Theory 46
+” Journal of Economic Theory 46
 
 395-401.
 
@@ -44734,11 +44732,11 @@ Shannon, C.
 
 “Determinacy of Competitive Equilibria in Economies with Many Commodities.
 
-## ” Working Paper
+” Working Paper
 
-## Department of Economics
+# Department of Economics
 
-## University of California
+# University of California
 
 Berkeley.
 
@@ -44748,7 +44746,7 @@ Sharpe, W.
 
 (1964).
 
-## “Capital Asset Prices
+“Capital Asset Prices
 
 A Theory of Market Equilibrium under Conditions of Risk.
 
@@ -44772,7 +44770,7 @@ Shiryaev.
 
 “The Russian Option: Reduced Regret.
 
-### ” Annals of Applied Probability 3
+” Annals of Applied Probability 3
 
 631-640.
 
@@ -44788,7 +44786,7 @@ van Deventer.
 
 “The Pricing of Risky Debt when Interest Rates are Stochastic.
 
-### ” Journal of Fixed Income 3 (September)
+” Journal of Fixed Income 3 (September)
 
 58-65.
 
@@ -44810,7 +44808,7 @@ Soner.
 
 “Optimal Investment and Consumption with Transaction Costs.
 
-### ” Annals of Applied Probability 4
+” Annals of Applied Probability 4
 
 609-692.
 
@@ -44832,11 +44830,11 @@ Shrikhande, M.
 
 “Nonaddictive Habit-Formation and the Equity Premium Puzzle.
 
-## ” Working Paper
+” Working Paper
 
-## School of Management
+# School of Management
 
-### Georgia Institute of Technology
+# Georgia Institute of Technology
 
 Atlanta.
 
@@ -44856,15 +44854,15 @@ Singh, M.
 
 (1995).
 
-### “Estimation of Multifactor Cox
+“Estimation of Multifactor Cox
 
-## Ingersoll
+# Ingersoll
 
-## and Ross Term Structure Model
+and Ross Term Structure Model
 
 Evidence on Volatility Structure and Parameter Stability.
 
-### ” Journal of Fixed Income 5 (September)
+” Journal of Fixed Income 5 (September)
 
 8-28.
 
@@ -44874,7 +44872,7 @@ Singleton, K.
 
 “Estimation of Affine Asset Pricing Models using the Empirical Characteristic Function.
 
-## ” Working Paper
+” Working Paper
 
 Stanford University and NBER.
 
@@ -44886,9 +44884,9 @@ Sircar, R.
 
 “Feedback Effects in Option Pricing.
 
-## ” Working Paper
+” Working Paper
 
-## SC-CM Program
+# SC-CM Program
 
 Stanford University.
 
@@ -44898,11 +44896,11 @@ Skiadas, C.
 
 “On the (Super) Differentiability of the Utility of a Representative Agent at a Pareto Optimal Allocation.
 
-## ” Working Paper
+” Working Paper
 
-## Private Written Communication
+# Private Written Communication
 
-## Kellogg School of Management
+# Kellogg School of Management
 
 Northwestern University.
 
@@ -44914,9 +44912,9 @@ Skiadas, C.
 
 ” Econometrica 65: 347-367.
 
-## --- Page 229 ---
+--- Page 229 ---
 
-## 438 Bibliography
+438 Bibliography
 
 Skiadas, C.
 
@@ -44948,7 +44946,7 @@ Cvitanic.
 
 “There is No Nontrivial Hedging Portfolio for Option Pricing with Transaction Costs.
 
-### ” Annals of Applied Probability 5
+” Annals of Applied Probability 5
 
 327-355.
 
@@ -44960,9 +44958,9 @@ Song, S.
 
 ” Working Paper, Department.
 
-## of Mathematics
+of Mathematics
 
-## Université d’Evry
+Université d’Evry
 
 France.
 
@@ -44974,7 +44972,7 @@ Bollier.
 
 (1995).
 
-## “Pricing Default Risk
+“Pricing Default Risk
 
 The Interest-Rate Swap Example.
 
@@ -44988,17 +44986,17 @@ Sornette, D.
 
 “String Formulation of the Dynamics of the Forward Interest Rate Curve.
 
-## ” Working Paper
+” Working Paper
 
-## Université des Sciences
+Université des Sciences
 
-## Parc Valrose
+# Parc Valrose
 
-## France
+# France
 
 and Institute of Geophysics and Planetary Physics
 
-## University of California
+# University of California
 
 Los Angeles.
 
@@ -45006,11 +45004,11 @@ Stambaugh, R.
 
 (1988).
 
-### “The Information in Forward Rates
+“The Information in Forward Rates
 
 Implications for Models of the Term Structure.
 
-### ” Journal of Financial Economics 21
+” Journal of Financial Economics 21
 
 41-70.
 
@@ -45028,7 +45026,7 @@ Stanton, R.
 
 “Rational Prepayment and the Valuation of Mortgage-Backed Securities.
 
-### ” Review of Financial Studies 8
+” Review of Financial Studies 8
 
 677-708.
 
@@ -45040,7 +45038,7 @@ Wallace.
 
 (1995).
 
-## “ARM Wrestling
+“ARM Wrestling
 
 Valuing Adjustable Rate Mortgages IndexedVargiolu
 
@@ -45056,7 +45054,7 @@ Vasicek, O.
 
 “An Equilibrium Characterization of the Term Structure.
 
-### ” Journal of Financial Economics 5
+” Journal of Financial Economics 5
 
 177-188.
 
@@ -45066,9 +45064,9 @@ Vasicek, O.
 
 “The Finite Factor Model of Bond Prices.
 
-## ” Working Paper
+” Working Paper
 
-## KMV Corporation
+# KMV Corporation
 
 San Francisco.
 
@@ -45076,7 +45074,7 @@ Vayanos, D.
 
 (1998).
 
-### “Transaction Costs and Asset Prices
+“Transaction Costs and Asset Prices
 
 A Dynamic Equilibrium Model.
 
@@ -45104,11 +45102,11 @@ Zariphopoulou.
 
 “Optimal Consumption and Portfolio Choice with Borrowing Constraints.
 
-### ” Journal of Economic Theory 77
+” Journal of Economic Theory 77
 
 402-431.
 
-## Bibliography 441
+# Bibliography 441
 
 Walras, L.
 
@@ -45142,7 +45140,7 @@ Wang, J.
 
 Heterogeneous Investors.
 
-### ” Journal of Financial Economics 41
+” Journal of Financial Economics 41
 
 75-110.
 
@@ -45182,11 +45180,11 @@ Webber, N.
 
 Rate Processes.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
-## University
+# University
 
 of Warwick.
 
@@ -45196,17 +45194,17 @@ Webber, N.
 
 “The Consistency of Term Structure Models
 
-## The Short Rate
+# The Short Rate
 
-## the Long
+the Long
 
 Rate, and Volatility.
 
-## ” Working Paper
+” Working Paper
 
-### Financial Options Research Centre
+# Financial Options Research Centre
 
-## Univer-
+# Univer-
 
 sity of Warwick.
 
@@ -45216,7 +45214,7 @@ Weerasinghe, A.
 
 “Singular Optimal Strategies for Investment with Transaction Costs.
 
-### Annals of Applied Probability 8
+# Annals of Applied Probability 8
 
 1312-1330.
 
@@ -45226,9 +45224,9 @@ Weil, P.
 
 “Equilibrium Asset Prices with Undiversifiable Labor Income Risk.
 
-## ” Journal
+” Journal
 
-### of Economic Dynamics and Control 16
+of Economic Dynamics and Control 16
 
 769-790.
 
@@ -45238,7 +45236,7 @@ Werner, J.
 
 “Equilibrium in Economies with Incomplete Financial Markets.
 
-## ” Journal
+” Journal
 
 of Economic Theory 36: 110-119.
 
@@ -45248,7 +45246,7 @@ Werner, J.
 
 “On Constrained Optimal Allocations with Incomplete Markets.
 
-## ” Economic
+” Economic
 
 Theory 1: 205-209.
 
@@ -45272,11 +45270,11 @@ Wiggins, J.
 
 “Option Values under Stochastic Volatility
 
-## Theory and Empirical Esti-
+# Theory and Empirical Esti-
 
 mates.
 
-### ” Journal of Financial Economics 19
+” Journal of Financial Economics 19
 
 351-372.
 
@@ -45288,9 +45286,9 @@ Willard, G.
 
 Securities in Multifactor Models.
 
-## ” Working Paper
+” Working Paper
 
-## Washington University in
+# Washington University in
 
 St. Louis.
 
@@ -45360,19 +45358,19 @@ Won, D.
 
 “Generic Existence of Equilibrium in Incomplete Markets
 
-## The Case of
+# The Case of
 
 Differential Participation.
 
-## ” Working Paper
+” Working Paper
 
-### Korea Economic Research Institute
+# Korea Economic Research Institute
 
 Seoul.
 
-## --- Page 231 ---
+--- Page 231 ---
 
-## 442 Bibliography
+442 Bibliography
 
 Won, D.
 
@@ -45380,7 +45378,7 @@ Won, D.
 
 f 0dS, 87
 
-## Symbol Glossary
+# Symbol Glossary
 
 fax, 95
 
@@ -45400,7 +45398,7 @@ VU (c*; c), 25
 
 aU(c*), 5
 
-#U(c!
+U(c!
 
 ), 13
 
@@ -45412,7 +45410,7 @@ aU(c*), 5
 
 d(F, G) = 0, 67
 
-## 9 95
+9 95
 
 H', 86, 94
 
@@ -45426,9 +45424,9 @@ L(S), 87
 
 , 86, 94
 
-## 3 84, 94
+3 84, 94
 
-## --- Page 233 ---
+--- Page 233 ---
 
 Aase, 232, 257
 
@@ -45468,7 +45466,7 @@ Amendinger, 132, 234
 
 Amin, 165, 197, 198, 317, 319
 
-## Andersen
+# Andersen
 
 162, 165
 
@@ -45514,7 +45512,7 @@ Back, 132
 
 Backus, 165, 166
 
-## Author Index
+# Author Index
 
 Bajeux-Besnainou, 47, 162, 233, 257
 
@@ -45590,7 +45588,7 @@ Bewley, 79, 255
 
 Bhar, 164
 
-## --- Page 234 ---
+--- Page 234 ---
 
 Bick, 100, 133, 196, 197, 234, 257, 336
 
@@ -45698,7 +45696,7 @@ Carr, 133
 
 200, 319
 
-## Carverhill
+# Carverhill
 
 161, 162
 
@@ -45714,7 +45712,7 @@ Cassese, 132
 
 Caton, 289
 
-## Author Index
+# Author Index
 
 Chacko, 162
 
@@ -45776,7 +45774,7 @@ Clark, 132, 133, 198
 
 Clarke, 319
 
-## Clewlow
+# Clewlow
 
 133, 162
 
@@ -45790,7 +45788,7 @@ Colell, 255
 
 Coleman, 166
 
-## Constantinides
+# Constantinides
 
 46, 80
 
@@ -45832,7 +45830,7 @@ Cutand, 100, 317
 
 Cvitanié, 133, 200, 232, 233, 234, 289
 
-## Author Index
+# Author Index
 
 Daher, 162, 319
 
@@ -45888,7 +45886,7 @@ Derman, 64, 161, 164, 197, 200, 319
 
 Derviz, 232
 
-## Detemple
+# Detemple
 
 47, 199
 
@@ -45928,7 +45926,7 @@ Duan, 163, 197
 
 Duffee, 163, 165
 
-## Duffie
+# Duffie
 
 46, 47
 
@@ -45968,7 +45966,7 @@ Edirisinghe, 133, 234
 
 Ekern, 233
 
-## El Karoui
+# El Karoui
 
 100, 131
 
@@ -46104,7 +46102,7 @@ Whitelaw, 165
 
 Wiener, 100, 198
 
-## --- Page 238 ---
+--- Page 238 ---
 
 Wiggins, 197
 
@@ -46140,7 +46138,7 @@ Yong, 164, 234
 
 Yor, 200, 290, 334
 
-## Author Index
+# Author Index
 
 Yu, 78, 197, 199, 200, 290
 
@@ -46200,7 +46198,7 @@ affine, intensity, 279
 
 affine model, empirical estimation, 163
 
-## affine term-structure model
+affine term-structure model
 
 142, 149
 
@@ -46236,9 +46234,9 @@ American option, free boundary problem,
 
 American option price, 46, 199
 
-## American option price
+# American option price
 
-## numerical solution
+numerical solution
 
 American option, Stefan problem, 199
 
@@ -46246,15 +46244,15 @@ American options with jumps, 199
 
 American put, 32, 36, 188, 309
 
-## American securities
+# American securities
 
-## using the semi-group
+using the semi-group
 
 approach to, 314
 
 American security, 32, 46, 57, 182
 
-## Subject Index
+# Subject Index
 
 analytic, 355
 
@@ -46270,7 +46268,7 @@ ARCH, 198
 
 arrears, 145
 
-## Arrow-Debreu equilibria in
+# Arrow-Debreu equilibria in
 
 infinite-dimensional settings, 255
 
@@ -46326,7 +46324,7 @@ Bellman’s principle of optimality, 63
 
 Bermudan swaption, 146
 
-## --- Page 239 ---
+--- Page 239 ---
 
 Bernoulli trials, 295
 
@@ -46338,7 +46336,7 @@ betweenness certainty equivalent, 46
 
 binary options, 201
 
-## Binomial Approximation of the
+# Binomial Approximation of the
 
 Black-Derman-Toy, 316
 
@@ -46352,7 +46350,7 @@ binomial term-structure models, 61, 64
 
 bivariate binary options, 201
 
-## Black-Derman-Toy model
+# Black-Derman-Toy model
 
 64, 138
 
@@ -46430,11 +46428,11 @@ Cauchy problem, 302, 342
 
 CBI processes, 162
 
-## Subject Index
+# Subject Index
 
 CCAPM, 249
 
-## Central Limit Theorem
+# Central Limit Theorem
 
 293, 294
 
@@ -46526,7 +46524,7 @@ markets, 249
 
 consumption CAPM, transaction costs, 256
 
-### continually compounding interest rate
+continually compounding interest rate
 
 continuation region, 187
 
@@ -46534,7 +46532,7 @@ continuous, 25
 
 Continuous Mapping Theorem, 297, 317
 
-## Subject Index
+# Subject Index
 
 continuous-branching processes, 162
 
@@ -46556,7 +46554,7 @@ converges in distribution, 293, 330
 
 converges in probability, 330
 
-## convertible bond
+convertible bond
 
 200, 274
 
@@ -46574,7 +46572,7 @@ counting process, 357
 
 covariance, 11
 
-## Cox-Ingersoll-Ross
+# Cox-Ingersoll-Ross
 
 141, 147
 
@@ -46584,9 +46582,9 @@ covariance, 11
 
 341, 363
 
-## Cox-Ingersoll-Ross
+# Cox-Ingersoll-Ross
 
-## fundamental solution
+fundamental solution
 
 Crank-Nicholson approach, 303, 311, 318
 
@@ -46622,7 +46620,7 @@ defaultable swaps, 290
 
 default-adjusted short rate, 288
 
-### deflated cumulative-dividend process
+deflated cumulative-dividend process
 
 deflated gain process, 24, 124
 
@@ -46670,9 +46668,9 @@ distance, 67
 
 dividend process, 22
 
-## dividend yield
+dividend yield
 
-## 98dividend-price pair
+98dividend-price pair
 
 5, 22, 123
 
@@ -46708,9 +46706,9 @@ Dudley's Theorem, 336
 
 dynamic programming, 50, 63, 78, 320
 
-## dynamic programming
+dynamic programming
 
-## recursive-utility
+recursive-utility
 
 dynamic spanning condition, 256
 
@@ -46750,17 +46748,17 @@ equity-premium puzzle, 79
 
 equivalent, 28, 108
 
-## --- Page 240 ---
+--- Page 240 ---
 
-## equivalent martingale measure
+equivalent martingale measure
 
 28, 41
 
 45, 100, 108, 132, 167
 
-## equivalent martingale measure
+equivalent martingale measure
 
-## constraints
+constraints
 
 equivalent martingale measure,
 
@@ -46770,9 +46768,9 @@ equivalent martingale measure,
 
 infinite-horizon case, 131
 
-## equivalent martingale measure
+equivalent martingale measure
 
-## transactions
+transactions
 
 costs, 133
 
@@ -46858,7 +46856,7 @@ finite-difference, 197, 302, 318
 
 finite-difference, binomial method, 319
 
-## Subject Index
+# Subject Index
 
 finite-variation process, 347
 
@@ -46938,7 +46936,7 @@ Fubini's Theorem, 333
 
 Fubini's Theorem for stochastic integrals,
 
-## fundamental solution
+fundamental solution
 
 146, 163
 
@@ -46962,7 +46960,7 @@ Futures-Forward Price Equivalence, 42
 
 futures-price process, 171
 
-## Subject Index
+# Subject Index
 
 gain process, 24, 87, 97, 123, 236
 
@@ -46980,7 +46978,7 @@ Gaussian short-rate model, 161
 
 general equilibrium, 45
 
-### generalized autoregressive conditional
+generalized autoregressive conditional
 
 heteroscedastic, 175
 
@@ -47012,7 +47010,7 @@ growth condition, 341
 
 growth-optimal policies, 133, 234
 
-## habit-formation
+habit-formation
 
 26, 40
 
@@ -47044,13 +47042,13 @@ Heston, 182, 193, 194
 
 Heston model, 177, 179
 
-### heterogeneous agents and incomplete
+heterogeneous agents and incomplete
 
 markets, 79
 
 heterogeneous beliefs, 257
 
-## high-ordercontact 266
+high-ordercontact 266
 
 Hilbert space, 16, 255
 
@@ -47126,7 +47124,7 @@ law of iterated expectations, 324, 332
 
 law of large numbers, 73, 299, 317
 
-### law of large numbers for Markov chains
+law of large numbers for Markov chains
 
 left limits, 347
 
@@ -47152,7 +47150,7 @@ linear equations of the tridiagonal form
 
 linear regression, 11
 
-### linear stochastic differential equation
+linear stochastic differential equation
 
 linear subspace, 4, 121
 
@@ -47160,7 +47158,7 @@ linearity of stochastic integrals, 123
 
 Lipschitz, 340
 
-## --- Page 241 ---
+--- Page 241 ---
 
 local martingale, 212
 
@@ -47200,9 +47198,9 @@ marginal utility, 5
 
 marginal utility of a representative agent
 
-### marginal-rate-of-substitution process
+marginal-rate-of-substitution process
 
-### market completeness under a change of
+market completeness under a change of
 
 measure, 132
 
@@ -47256,7 +47254,7 @@ martingale representation theorem, 336,
 
 maturity goes to infinity, 165
 
-## Subject Index
+# Subject Index
 
 Mean Value Theorem, 351
 
@@ -47276,9 +47274,9 @@ Merton, 140
 
 Merton model, 138
 
-## mesh sizes
+mesh sizes
 
-## 303transversality condition
+303transversality condition
 
 triangular array, 294, 331
 
@@ -47300,13 +47298,13 @@ uniformly integrable, 297, 316, 331
 
 uniformly parabolic, 345
 
-### unique decomposition property of Ito
+unique decomposition property of Ito
 
 processes, 87, 90
 
 uniqueness of equilibria, 255
 
-### uniqueness of equivalent martingale
+uniqueness of equivalent martingale
 
 measures, 114
 
@@ -47328,9 +47326,9 @@ value, 67, 204
 
 value function, 50, 78
 
-## value function
+value function
 
-## differentiability
+differentiability
 
 59, 63
 
@@ -47338,7 +47336,7 @@ value iteration, 67
 
 variance reduction techniques, 299
 
-## Vasicek term-structure model
+# Vasicek term-structure model
 
 140, 160
 

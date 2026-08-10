@@ -1,22 +1,22 @@
-# A Guide to Feynman Diagrams in the Many-Body Problem (Richard D.
+A Guide to Feynman Diagrams in the Many-Body Problem (Richard D.
 
 Mattuck) (Z-Library).
 
-## --- Page 1 ---
+--- Page 1 ---
 
-## A Guide to Feynman Diagrams
+# A Guide to Feynman Diagrams
 
-## in the Many-Body Problem
+in the Many-Body Problem
 
 Richard D.
 
-## Mattuck
+# Mattuck
 
-## --- Page 2 ---
+--- Page 2 ---
 
-## DOVER BOOKS ON
+# DOVER BOOKS ON
 
-## PHYSICS AND CHEMISTRY
+# PHYSICS AND CHEMISTRY
 
 Quantum Theory, David Bohm.
 
@@ -56,7 +56,7 @@ Rolf Haase.
 
 GROUP THEORY AND ITS APPLICATION TO PHYSICAL PROBLEMS
 
-## Morton
+# Morton
 
 Hamermesh.
 
@@ -88,7 +88,7 @@ Rates AND Equilibria OF Organic Reactions
 
 John E.
 
-## Leffler and Ernest
+# Leffler and Ernest
 
 Grunwald.
 
@@ -118,11 +118,11 @@ Mattuck.
 
 p cm.
 
-## Originally published
+# Originally published
 
-## New York
+# New York
 
-## McGraw-Hill
+# McGraw-Hill
 
 c1976.
 
@@ -136,25 +136,25 @@ Feynman diagrams.
 
 (QC174.
 
-## P7M37 1992]
+P7M37 1992]
 
 530.
 
-## 1'44—dc20 92-4895
+1'44—dc20 92-4895
 
-## CIP
+# CIP
 
-## --- Page 7 ---
+--- Page 7 ---
 
-## Preface to the second edition
+# Preface to the second edition
 
 I was delighted by the extreme reactions to the first edition of this book.
 
 One reviewer called it a ‘pedagogical jewel .
 
-### useful as a crutch for poorly-
+useful as a crutch for poorly-
 
-## prepared students’
+prepared students’
 
 while another felt that it was primarily for people who were
 
@@ -164,21 +164,21 @@ The preface to the Russian edition referred
 
 to the pinball game analogy on p.
 
-### 29 as some sort of world’s record in popu-
+29 as some sort of world’s record in popu-
 
-## larization
+larization
 
 but an English critic complained that the pinball picture was
 
 ‘highly offensive’ and ‘had no place in a serious work of science’.
 
-## A student
+# A student
 
-### told me that at his university
+told me that at his university
 
 the book was known as ‘Feynman Diagrams for
 
-## Idiots’
+Idiots’
 
 while other students felt that it was only for people exceptionally well-
 
@@ -186,15 +186,15 @@ grounded in quantum mechanics.
 
 One critic stated that the ‘possibilities for
 
-### classroom use should be rather wide’
+classroom use should be rather wide’
 
-### but others claimed that the book was
+but others claimed that the book was
 
-## useless
+useless
 
 since no detailed calculations were carried out in it.
 
-## In short
+# In short
 
 the first edition is too elementary and too advanced.
 
@@ -204,11 +204,11 @@ the purpose of the second edition is to make the book more advanced and more
 
 elementary.
 
-## Toward this end
+# Toward this end
 
-## on the elementary side
+on the elementary side
 
-## a zeroth and first
+a zeroth and first
 
 chapter have been added which are on the pre-kindergarten or nursery school
 
@@ -216,13 +216,13 @@ level.
 
 This gives a view of the entire field based almost purely on pictures
 
-## cartoons
+cartoons
 
-## and virtual movies
+and virtual movies
 
 with essentially no mathematics.
 
-## On the more advanced side
+# On the more advanced side
 
 I have added to many chapters a new section
 
@@ -236,19 +236,19 @@ detailed calculation of the energy and lifetime of an electron in an impure
 
 metal.
 
-## In chapter 9
+# In chapter 9
 
 the single pair-bubble approximation is used to compute
 
 the quasi particle lifetime diagrammatically.
 
-### The pair-bubble integrations are
+# The pair-bubble integrations are
 
 done in detail in chapter 10 and the results employed to obtain the form of the
 
 effective interaction in an electron gas
 
-### and the plasmon dispersion law in
+and the plasmon dispersion law in
 
 chapter 13.
 
@@ -258,7 +258,7 @@ pair-bubble.
 
 A number of new exercises have been added
 
-### some of which give the student
+some of which give the student
 
 the opportunity to carry out simpler many-body calculations himself.
 
@@ -274,23 +274,23 @@ A new chapter on the quantum field theory of phase transitions has been
 
 added.
 
-## It includes
+# It includes
 
-## on the kindergarten level
+on the kindergarten level
 
-## an analysis of the ‘staring
+an analysis of the ‘staring
 
 crowd’ transition (see p.
 
-### 290) and on the more advanced level
+290) and on the more advanced level
 
-## the diagram-
+the diagram-
 
 matic calculation of the magnetization and transition point for the ferromag-
 
-## --- Page 8 ---
+--- Page 8 ---
 
-### vi PREFACE TO THE SECOND EDITION
+vi PREFACE TO THE SECOND EDITION
 
 netic phase.
 
@@ -300,9 +300,9 @@ renormalization group.
 
 I have also written several new appendices.
 
-### Appendix L reviews the analytic
+# Appendix L reviews the analytic
 
-## properties of propagators
+properties of propagators
 
 which I make considerable use of at various points
 
@@ -312,15 +312,15 @@ Appendix M shows the relation between the equation of motion
 
 and Feynman diagram methods for calculating the propagator.
 
-## Appendix N
+# Appendix N
 
 gives the basic ideas of the ‘reduced graph’ method
 
-## used in connection with
+used in connection with
 
 the Kondo problem.
 
-### In preparing the second edition
+# In preparing the second edition
 
 special thanks are due to Stud.
 
@@ -328,7 +328,7 @@ Scient.
 
 Nikolai Nissen for pointing out better methods for carrying out many of the
 
-## calculations
+calculations
 
 and for carefully reading and criticizing the new material.
 
@@ -336,7 +336,7 @@ I am also very grateful to my colleague Dr Ulf Larsen for the many fruitful
 
 and stimulating discussions of many-body theory we have had during the last
 
-## five years
+five years
 
 for his help in working out the chapter on the Kondo problem
 
@@ -350,15 +350,15 @@ pointing out how the book could be modified to make it of more value to
 
 chemists.
 
-### I am much indebted to my cousin’s son
+I am much indebted to my cousin’s son
 
-## David Lustbader
+# David Lustbader
 
 , for his
 
-## aid in improving chapter Zero
+aid in improving chapter Zero
 
-## and to my own son
+and to my own son
 
 Allan, for help in pasting
 
@@ -368,27 +368,27 @@ second edition.
 
 And I want to express my gratitude to my students
 
-## whose
+whose
 
 unending stream of questions forced me to replace fuzziness by clarity through-
 
 out the book.
 
-## And finally
+# And finally
 
-### a word of thanks to the many people who
+a word of thanks to the many people who
 
-## by telling me how
+by telling me how
 
 much they enjoyed the first edition (one wrote
 
-### ‘Please allow me to express my
+‘Please allow me to express my
 
 gratitude for a ray of sunshine that you have cast into the windowless office of
 
 a second year graduate student in the form of your book on Feynman
 
-## diagrams’)
+diagrams’)
 
 gave me the inspiration and fortitude to sweat my way through
 
@@ -396,11 +396,11 @@ the production of the second edition.
 
 Copenhagen, 1974
 
-## --- Page 9 ---
+--- Page 9 ---
 
-## Preface to the first edition
+# Preface to the first edition
 
-### This book is written for laymen
+# This book is written for laymen
 
 i.e., for experimental physicists and for
 
@@ -408,17 +408,17 @@ those theoreticians who don’t mind getting caught reading something easy.
 
 Most laymen are aware that many-body theory is very much in vogue
 
-## these days
+these days
 
 and that it is producing a wealth of fundamental results in all
 
 fields of physics.
 
-## Unfortunately
+# Unfortunately
 
-### the subject is notoriously difficult
+the subject is notoriously difficult
 
-## and the
+and the
 
 only previously available books on it are written on such a high level that they
 
@@ -434,35 +434,35 @@ i.e., the method
 
 of Feynman diagrams.
 
-## Since the word ‘easy’
+Since the word ‘easy’
 
-## along with its cousins ‘ele-
+along with its cousins ‘ele-
 
-## mentary’
+mentary’
 
-## ‘introductory’
+‘introductory’
 
-## or ‘for five-year olds’
+or ‘for five-year olds’
 
-## has been applied to some
+has been applied to some
 
 pretty formidable physics literature in the past
 
-### I had better make clear how it is
+# I had better make clear how it is
 
 used here.
 
-## It means first that
+# It means first that
 
-## as far as I know
+as far as I know
 
-## the present book is simpler
+the present book is simpler
 
 than anything else which has been written in the modern many-body field.
 
 This establishes an upper bound on ‘easy’.
 
-### The lower bound is fixed by the
+# The lower bound is fixed by the
 
 system illustrated on p.
 
@@ -470,27 +470,27 @@ This is the classical example I have invented to
 
 introduce the main ideas of the subject.
 
-### The whole first half of the book is
+# The whole first half of the book is
 
 derived essentially by analogy to this example.
 
 Since this book does not fit into any of the usual categories
 
-## it may help to
+it may help to
 
 prevent misunderstanding if I state clearly what it is not.
 
-## It is not a many-
+# It is not a many-
 
-## body ‘textbook’ in itself
+body ‘textbook’ in itself
 
 it is simply an elementary introduction to the
 
 textbooks which already exist in the field.
 
-### It does not prepare the student to
+# It does not prepare the student to
 
-### plunge into the latest literature
+plunge into the latest literature
 
 it can only give him a glimpse of what this
 
@@ -502,17 +502,17 @@ any more than a music-appreciation course trains students to compose
 
 music; it can
 
-## however
+however
 
 help them to grasp the elegance and significance of
 
 these calculations.
 
-## In short
+# In short
 
 it is not a text for the usual ‘elementary course in many-body
 
-## theory’
+theory’
 
 because such a course would have as its purpose the bringing of begin-
 
@@ -526,9 +526,9 @@ for non-specialists trying to get some idea of what Feynman diagrams in
 
 many-body physics are all about.
 
-## In addition
+# In addition
 
-### it could serve as a reference in
+it could serve as a reference in
 
 courses on solid state and nuclear physics which make some use of the many-
 
@@ -538,59 +538,59 @@ And, finally
 
 it can be used (by those who like to start withsomething simple) as a supplementary reference in a many-body course.
 
-## vii
+vii
 
-## --- Page 10 ---
+--- Page 10 ---
 
-### viii PREFACE TO THE FIRST EDITION
+viii PREFACE TO THE FIRST EDITION
 
 Now a word about the organization of the book.
 
-## Measured on a scale
+# Measured on a scale
 
 established by the other literature in the field
 
-### it is divided into three parts
+it is divided into three parts
 
-## kindergarten
+kindergarten
 
-## elementary
+elementary
 
 and intermediate.
 
 Chapters 1-6 constitute the kindergarten part.
 
-## This provides an introduc-
+# This provides an introduc-
 
 tion to the major concepts of the field on a level somewhere between “Donald
 
 Duck’ and the ‘American Journal of Physics’.
 
-## The quantum diagram tech-
+# The quantum diagram tech-
 
 nique is developed by analogy to a transparent classical case.
 
-## It is first
+# It is first
 
 applied in detail to trivial one-particle systems
 
-### this gives the reader a feeling
+this gives the reader a feeling
 
 for the method by showing him how it works on problems he can easily solve
 
 by elementary quantum mechanics.
 
-### The many-body diagrams are presented
+# The many-body diagrams are presented
 
 using the same simple-minded approach.
 
-### There is also a short introduction
+# There is also a short introduction
 
-## to second quantization
+to second quantization
 
-## but this is optional
+but this is optional
 
-### and no essential use of it is made
+and no essential use of it is made
 
 in the first part of the book.
 
@@ -606,29 +606,29 @@ The topics here, ranging
 
 from second quantization to superconductivity
 
-## are standard for most of the
+are standard for most of the
 
 other many-body books.
 
-### But they are covered on a much lower
+# But they are covered on a much lower
 
-## more
+more
 
 restricted level.
 
-## This means essentially that
+# This means essentially that
 
-## first of all
+first of all
 
-## the only physical
+the only physical
 
 properties of systems which I discuss are the energies of the ground and
 
-## excited states
+excited states
 
-## and that
+and that
 
-## secondly
+secondly
 
 there is no discussion of the analytic properties
 
@@ -636,23 +636,23 @@ of propagators.
 
 I have instead concentrated exclusively on giving the reader
 
-### a feeling for the diagrams themselves
+a feeling for the diagrams themselves
 
-## their physical significance
+their physical significance
 
-## and the
+and the
 
 various summation techniques for manipulating them.
 
-## A novel feature of
+# A novel feature of
 
 the pedagogical technique here is that all calculations are done completely
 
 diagrammatically up to the point where the diagram solution is translated
 
-## into integrals
+into integrals
 
-## at this point
+at this point
 
 I simply state the numerical result and refer the
 
@@ -660,7 +660,7 @@ reader to the appropriate book or paper for the details of the integrations.
 
 The appendices A-J are the intermediate part of the book.
 
-## They begin
+# They begin
 
 with a brief summary of Dirac formalism and include a more or less rigorous
 
@@ -668,7 +668,7 @@ derivation of the rules for diagrams.
 
 There are a few short exercises at the end of each chapter
 
-## and the answers
+and the answers
 
 to the exercises appear at the end of the book.
 
@@ -678,27 +678,27 @@ This book grew out of a series of lectures I gave to the Solid State Physics
 
 Study Group at the University of Copenhagen during 1962-5.
 
-## Of the many
+# Of the many
 
 people at the university who have aided me during this period
 
-## I wish
+# I wish
 
 especially to thank Professor H.
 
 Hojgaard Jensen, both for giving me the
 
-## --- Page 11 ---
+--- Page 11 ---
 
-### PREFACE TO THE FIRST EDITION ix
+# PREFACE TO THE FIRST EDITION ix
 
 opportunity to get into the many-body field
 
-## and for the many helpful and
+and for the many helpful and
 
 stimulating conversations I have had with him.
 
-## I am also very grateful to
+# I am also very grateful to
 
 Professor M.
 
@@ -710,25 +710,25 @@ I would like to acknowledge the many valuable suggestions for improving
 
 the manuscript which were made by Professor D.
 
-## Thouless of the University
+# Thouless of the University
 
 of Birmingham and Dr. A.
 
 Taylor of the University of Liverpool.
 
-## Among my colleagues
+# Among my colleagues
 
-## special thanks are due
+special thanks are due
 
 first, to Lic.
 
-## Borje Johansson
+# Borje Johansson
 
-## of NORDITA
+of NORDITA
 
 for the innumerable long and lively discussions of many-body
 
-## theory we have had together
+theory we have had together
 
 and for his reading and criticism of the entire
 
@@ -736,35 +736,35 @@ manuscript and, second, to Civ.
 
 Ing.
 
-## Greisen of Danmarks Tekniske
+# Greisen of Danmarks Tekniske
 
-## Hojskole
+# Hojskole
 
 for the extraordinary care with which he read the complete first
 
-## draft of the book
+draft of the book
 
 pointing out countless errors which would otherwise have
 
 gone unnoticed and making many worthwhile suggestions.
 
-## I am also indebted
+# I am also indebted
 
 to Mag.
 
 Laut for his extremely valuable criticism.
 
-## In addition
+# In addition
 
 I want to acknowledge the many helpful conversations I have
 
-## had with my other colleagues
+had with my other colleagues
 
 in particular Mag.
 
 Fogedby, Dr. B.
 
-## Easlea
+# Easlea
 
 (University of Sussex), Mag.
 
@@ -772,7 +772,7 @@ Bundsgaard (Danmarks Tekniske Hojskole),
 
 Mag.
 
-## Mogensen
+# Mogensen
 
 Dr. Antonina Kowalska (University of Krakow)
 
@@ -810,11 +810,11 @@ Inc.
 
 kind permission to reprint the article ‘Phonons From a Many-Body View-
 
-## point’
+point’
 
-### which appeared in Annals of Physics 27
+which appeared in Annals of Physics 27
 
-## 216 (1964), and to Mrs
+216 (1964), and to Mrs
 
 Vera Rothenberg and Mrs Elin Hallden for their fine work in typing the first
 
@@ -822,9 +822,9 @@ draft of the book.
 
 And, finally
 
-### many thanks are due to my brother
+many thanks are due to my brother
 
-## Professor
+# Professor
 
 Arthur Mattuck (M.
 
@@ -834,7 +834,7 @@ and to Stud.
 
 Mag.
 
-## Alice Mattuck
+# Alice Mattuck
 
 for her careful reading and criticism of the jokes in the
 
@@ -842,37 +842,37 @@ manuscript.
 
 Richard D.
 
-## Mattuck
+# Mattuck
 
-## --- Page 12 ---
+--- Page 12 ---
 
-## Contents
+# Contents
 
-## Preface to second edition
+# Preface to second edition
 
-## Preface to first edition
+# Preface to first edition
 
-### 0. The Many-Body Problem for Everybody
+# 0. The Many-Body Problem for Everybody
 
-### 0.0 What the many-body problem is about
+# 0.0 What the many-body problem is about
 
 1 Simple example of non-interacting fictitious bodies
 
-### 0.2 Quasi particles and quasi horses
+# 0.2 Quasi particles and quasi horses
 
-## 0.3 Collective excitations
+# 0.3 Collective excitations
 
-## Feynman Diagrams
+# Feynman Diagrams
 
 or how to Solve the Many-Body Problem by means of
 
-## Pictures
+# Pictures
 
 1 Propagators - the heroes of the many-body problem
 
-### 2 Calculating propagators by Feynman diagrams
+2 Calculating propagators by Feynman diagrams
 
-## the drunken man
+the drunken man
 
 propagator.
 
@@ -886,31 +886,31 @@ propagator.
 
 Classical Quasi Particles and the Pinball Propagator
 
-### 2.1 Physical picture of quasi particle
+# 2.1 Physical picture of quasi particle
 
-### 2.2 The classical quasi particle propagator
+# 2.2 The classical quasi particle propagator
 
 3 Calculation of the propagator by means of diagrams
 
 Quantum Quasi Particles and the Quantum Pinball Propagator
 
-### 3.1 The quantum mechanical propagator
+# 3.1 The quantum mechanical propagator
 
-## 3.2 The quantum pinball game.
+# 3.2 The quantum pinball game.
 
-### 3.3 Disappearance of disagreeable divergences.
+# 3.3 Disappearance of disagreeable divergences.
 
 4 Where the diagram expansion of the propagator really comes from.
 
 5 Energy and lifetime of an electron in an impure metal
 
-### 4. Quasi Particles in Fermi Systems
+# 4. Quasi Particles in Fermi Systems
 
-### 4.1 Propagator method in many-body systems.
+# 4.1 Propagator method in many-body systems.
 
 2 Non-interacting Fermi system in external potential
 
-## particle-hole
+particle-hole
 
 picture.
 
@@ -920,57 +920,57 @@ picture.
 
 potential.
 
-## 4.5 Interacting Fermi system.
+# 4.5 Interacting Fermi system.
 
-### 6 The ‘quasi-physical’ nature of Feynman diagrams
+6 The ‘quasi-physical’ nature of Feynman diagrams
 
-### 4.7 Hartree and Hartree-Fock quasi particles
+# 4.7 Hartree and Hartree-Fock quasi particles
 
-### 8 Hartree-Fock quasi particles in nuclear matter.
+8 Hartree-Fock quasi particles in nuclear matter.
 
-### 9 Quasi particles in the electron gas
+9 Quasi particles in the electron gas
 
-### and the random phase approxima-
+and the random phase approxima-
 
 tion.
 
-## xi
+xi
 
-## --- Page 13 ---
+--- Page 13 ---
 
-## xii CONTENTS
+xii CONTENTS
 
-## PAGE
+# PAGE
 
 Ground State Energy and the Vacuum Amplitude or ‘No-particle Propagator’ 101
 
-### 5.1 Meaning of the vacuum amplitude. 01
+# 5.1 Meaning of the vacuum amplitude. 01
 
-### 5.2 The pinball machine vacuum amplitude. 103
+# 5.2 The pinball machine vacuum amplitude. 103
 
 3 Quantum vacuum amplitude for one-particle system.
 
-### 4 Linked cluster theorem for one-particle system.
+4 Linked cluster theorem for one-particle system.
 
 5 Finding the ground state energy in one-particle system.
 
-## 5.6 The many-body case. 115
+# 5.6 The many-body case. 115
 
 Bird’s-Eye View of Diagram Methods in the Many-Body Problem 118
 
 Occupation Number Formalism (Second Quantization) 123
 
-### 1 The advantages of occupation number formalism.
+1 The advantages of occupation number formalism.
 
 2 Many-body wave function in occupation number formalism.
 
-### 7.3 Operators in occupation number formalism. 128
+# 7.3 Operators in occupation number formalism. 128
 
 4 Hamiltonian and Schrödinger equation in occupation number
 
 formalism.
 
-### 7.5 Particle-hole formalism. 136
+# 7.5 Particle-hole formalism. 136
 
 6 Occupation number formalism based on ‘single-particle position
 
@@ -978,33 +978,33 @@ eigenstates’.
 
 138problem is not a branch of solid state
 
-## or nuclear
+or nuclear
 
-## or atomic physics
+or atomic physics
 
 etc. It deals rather with general methods applicable to all many-body systems.
 
-## --- Page 18 ---
+--- Page 18 ---
 
-### 2 A GUIDE TO FEYNMAN DIAGRAMS [0.0
+2 A GUIDE TO FEYNMAN DIAGRAMS [0.0
 
-## @ C
+@ C
 
-### Nucleons Electrons Atoms in oooo
+# Nucleons Electrons Atoms in oooo
 
 in nucleus in atom molecule Atoms in Solid
 
-## Angels on
+# Angels on
 
-## pinhead
+pinhead
 
 in liquid.
 
-## e @ @ in metal
+e @ @ in metal
 
 Fig.
 
-## 1 Some Many-body Systems
+1 Some Many-body Systems
 
 The many-body problem is an extraordinarily difficult one because of the incredibly intricate motions of the particles in an interacting system.
 
@@ -1020,21 +1020,21 @@ In fact one of the preferred methods for solving the problem was simply to ignor
 
 i.e., pretend there were no interactions present.
 
-## (Surprisingly enough
+(Surprisingly enough
 
 in some cases this ‘method’ produced good results anyway
 
 and one of the great mysteries was how this could be possible!
 
-## A
+A
 
 Fig.
 
-## 2 A.
+2 A.
 
-## Non-interacting Particles
+# Non-interacting Particles
 
-## Interacting Particles
+# Interacting Particles
 
 Another of the early approaches to the problem
 
@@ -1052,37 +1052,37 @@ and this sometimes makes it difficult to apply.
 
 It was this lack of a systematic method which kept the many-body field in its cradle well up into the 1950s.
 
-## --- Page 19 ---
+--- Page 19 ---
 
-### 0.1 THE MANY-BODY PROBLEM FOR EVERYBODY |
+# 0.1 THE MANY-BODY PROBLEM FOR EVERYBODY |
 
 The situation changed radically in 1956-7.
 
-### In a series of pioneering papers
+# In a series of pioneering papers
 
 it was shown that the methods of quantum field theory
 
 already famous for its success in elementary particle physics
 
-## provided a powerful
+provided a powerful
 
 unified way of attacking the many-body problem.
 
-## The new key opened many doors
+# The new key opened many doors
 
 and in rapid succession the idea was applied to nuclei
 
-## electrons in metals
+electrons in metals
 
-## ferromagnets
+ferromagnets
 
 atoms, superconductors
 
-## plasmas
+plasmas
 
 molecules—virtually everything in sight.
 
-## From that time on
+# From that time on
 
 much of the most exciting and fundamental research into the nature of matter has been based on the quantum field theory method.
 
@@ -1090,13 +1090,13 @@ One of the things emerging from this research is a new simple picture of matter 
 
 Another thing is new results for calculated physical quantities which are in excellent agreement with experiment—for example
 
-## energy levels of light atoms
+energy levels of light atoms
 
-### binding energy of nuclear matter
+binding energy of nuclear matter
 
 Fermi energy and effective electron mass in a variety of metals.
 
-## In this introductory chapter
+# In this introductory chapter
 
 we will give a physical picture of quasi particles and collective excitations.
 
@@ -1104,25 +1104,25 @@ Then in the next chapter we show qualitatively how to describe quasi particles a
 
 1 Simple example of non-interacting fictitious bodies
 
-## As mentioned at the beginning
+# As mentioned at the beginning
 
 one of nature’s little surprises is that many-body systems often behave as if the bodies of which they are composed hardly interact at all!
 
 The reason for this is that the ‘bodies’ involved are not real but fictitious.
 
-## That is
+# That is
 
 the system composed of strongly interacting real bodies acts as if it were composed of weakly interacting (or non-interacting) fictitious bodies.
 
 We consider now a very simple example of how this can occur.
 
-## Suppose we have two masses
+# Suppose we have two masses
 
-## m₁ and m₂
+m₁ and m₂
 
 held together by a strong spring as shown in Fig.
 
-## That is
+# That is
 
 our system here consists of two strongly coupled real bodies.
 
@@ -1130,17 +1130,17 @@ If this contraption is tossed up in a gravitational field
 
 the motion of each body considered separately is very complicated because of the strong interaction (spring force) between the bodies.
 
-## centre of mass
+centre of mass
 
 Fig.
 
-## 3 Two-body System
+3 Two-body System
 
-## --- Page 20 ---
+--- Page 20 ---
 
-### 4 A GUIDE TO FEYNMAN DIAGRAMS [0.2
+4 A GUIDE TO FEYNMAN DIAGRAMS [0.2
 
-### 0.2 Quasi particles and quasi horses
+# 0.2 Quasi particles and quasi horses
 
 The above two-body example is easy enough to understand
 
@@ -1154,17 +1154,17 @@ it pushes or pulls on its neighbours and thus becomes surrounded by a ‘cloud�
 
 The real particle plus its cloud is the quasi particle (Fig.
 
-## 一 一 余
+一一余
 
-## real particle
+real particle
 
-## real horse quasi horse
+real horse quasi horse
 
 Fig.
 
-## 4 Quasi Particle Concept
+4 Quasi Particle Concept
 
-### Just as the dust cloud hides the horse
+# Just as the dust cloud hides the horse
 
 the particle cloud ‘shields’ or ‘screens’ the real particles so that quasi particles interact only weakly with one another.
 
@@ -1182,31 +1182,31 @@ Hence it is referred to as an ‘elementary excitation’ of the system.
 
 ) We now consider some examples of quasi particles.
 
-## --- Page 21 ---
+--- Page 21 ---
 
-### 0.2 THE MANY-BODY PROBLEM FOR EVERYBODY 5
+# 0.2 THE MANY-BODY PROBLEM FOR EVERYBODY 5
 
-### 1 Quasi ion in a classical liquid
+1 Quasi ion in a classical liquid
 
 Imagine that we have an electrolyte solution composed of an equal number of positive and negative ions moving about and colliding with each other as illustrated in Fig.
 
 Let us focus our attention on a typical (+) ion in the
 
-## + + =
++ + =
 
-## a on Another
+a on Another
 
-## 一 十 _,′ 人 一 -} quasi
+一十 _,′ 人一 -} quasi
 
-## - 团 一 Particle
+- 团一 Particle
 
-o 一 + wt ms + 一 ___"___，′一 十
+o 一 + wt ms + 一 ___"___，′一十
 
-## ne 7 / 心
+ne 7 / 心
 
-## quasi 一 r i- + ot +
+quasi 一 r i- + ot +
 
-## particle a - a 一 - 4
+particle a - a 一 - 4
 
 Fig.
 
@@ -1214,7 +1214,7 @@ Fig.
 
 system.
 
-## As this ion moves
+# As this ion moves
 
 on account of the strong Coulomb interaction
 
@@ -1222,19 +1222,19 @@ it will attract (—) ions to it.
 
 Some of these (—) ions will stick to the (+) for a while
 
-### then fall off due to collisions
+then fall off due to collisions
 
-### then be replaced by other (—) ions
+then be replaced by other (—) ions
 
 etc. Thus
 
-## on the average
+on the average
 
-## because of the interaction
+because of the interaction
 
 this typical (+) ion (and therefore every (+) ion) will be surrounded by a ‘coat’ or ‘cloud’ of (—) ions as shown in Fig.
 
-## 5 inside the dotted lines.
+5 inside the dotted lines.
 
 And of course each (—) ion will similarly have a coat of (+) ions.
 
@@ -1244,51 +1244,51 @@ Thus the ions wearing their coats will act approximately independently of each o
 
 Many different types of systems of interacting particles may be described in this manner
 
-## and in general we have
+and in general we have
 
-## ‘coat’ or ‘cloud’
+‘coat’ or ‘cloud’
 
-## of other particles
+of other particles
 
 Sometimes this same equation is stated in a more powerful terminology coming from quantum field theory
 
 real particle + quasi particle.
 
-## ‘dressed’ or ‘clothed’
+‘dressed’ or ‘clothed’
 
 or ‘physical’ or (0.
 
 ‘renormalized’ particle.
 
-## For example
+# For example
 
 in quantum electrodynamics a ‘bare’ electron interacting witha field of photons acquires a cloud of virtual photons around it
 
-## converting
+converting
 
 it into the ‘dressed’ electron.
 
-## In a similar manner
+# In a similar manner
 
-## the interaction between
+the interaction between
 
 real particles is called the ‘bare’ interaction
 
-## while the weak interaction
+while the weak interaction
 
 between quasi particles is referred to as the ‘effective’ or ‘dressed’ or ‘re-
 
 normalized’ interaction.
 
-## ‘clothing’
+‘clothing’
 
-## ‘bare’ particle +
+‘bare’ particle +
 
-## Or ‘cloud’
+Or ‘cloud’
 
-## --- Page 22 ---
+--- Page 22 ---
 
-### 6 A GUIDE TO FEYNMAN DIAGRAMS [0.2]
+6 A GUIDE TO FEYNMAN DIAGRAMS [0.2]
 
 It should be noted that each bare particle is simultaneously the ‘core’ of a
 
@@ -1296,21 +1296,21 @@ quasi particle and a transient ‘member’ of the cloud of several other quasi
 
 particles.
 
-## Therefore
+# Therefore
 
 if we try to visualize the whole system here as com-
 
-## posed of quasi particles
+posed of quasi particles
 
-## we have to be careful
+we have to be careful
 
-## since each particle will have
+since each particle will have
 
 been counted more than once.
 
-## For this reason
+# For this reason
 
-## the quasi particle concept is
+the quasi particle concept is
 
 valid only if one talks about a few quasi particles at a time
 
@@ -1318,15 +1318,15 @@ i.e., few in com-
 
 parison with the total number of particles.
 
-### In order to avoid this problem and
+# In order to avoid this problem and
 
 concentrate attention on just a single quasi particle at a time
 
-## it is convenient
+it is convenient
 
 to define quasi particles in terms of an experiment in which one adds an extra
 
-## particle to the system
+particle to the system
 
 and observes the behaviour of this extra particle as it
 
@@ -1334,29 +1334,29 @@ moves through the system.
 
 This is shown in Fig.
 
-## 6 for a (+) ion.
+6 for a (+) ion.
 
-## (a) (b)
+(a) (b)
 
 Fig.
 
-## 6 Moving Quasi Ion.
+6 Moving Quasi Ion.
 
 (a) Extra (+) Ion Shot into Liquid.
 
-## (b) (+) Ion
+(b) (+) Ion
 
-## Acquires Cloud of (−) Ions
+Acquires Cloud of (−) Ions
 
 Turning it into Quasi Ion.
 
-## (c) Quasi Ion Moves
+(c) Quasi Ion Moves
 
-## Through System
+# Through System
 
-### With this intuitive picture in mind
+# With this intuitive picture in mind
 
-### it is possible to guess at some of the
+it is possible to guess at some of the
 
 properties of quasi particles.
 
@@ -1364,27 +1364,27 @@ First, because there is in general still a small
 
 interaction left between quasi particles
 
-### a quasi particle of momentum p will
+a quasi particle of momentum p will
 
 only keep this momentum for an average time τ.
 
-## This can be understood from
+# This can be understood from
 
 Figs.
 
-## 6 and 0.
+6 and 0.
 
 If the quasi ion in Fig.
 
-## 6 (b) has momentum p, it will
+6 (b) has momentum p, it will
 
-### propagate undisturbed an average time τ
+propagate undisturbed an average time τ
 
-### before undergoing a collision with
+before undergoing a collision with
 
 another quasi ion in the system (that is
 
-### a quasi ion which belongs to the system
+a quasi ion which belongs to the system
 
 like those shown in Fig.
 
@@ -1392,7 +1392,7 @@ like those shown in Fig.
 
 scatters it out of momentum state p.
 
-## Hence
+# Hence
 
 quasi particles have a lifetime, τ.
 
@@ -1402,53 +1402,53 @@ approximation is a good one.
 
 It can also be seen that because of the average
 
-## coat of particles on its back
+coat of particles on its back
 
 the quasi particle may have an ‘effective’ or
 
 ‘renormalized’ mass which is different from that of the bare particle.
 
-## (The
+(The
 
 effective mass concept is not always applicable however.
 
-## ) This implies that
+) This implies that
 
 free quasi particles (i.e.
 
 not in an externally applied field) have a new energy
 
-## law
+law
 
 ε = p²/ (2m*) instead of ε = p²/ (2m) (0.
 
 where m* is the effective mass.
 
-## The difference
+# The difference
 
 ε_quasi particle − ε_bare particle = E_self (0.
 
 is called the ‘ self-energy’ of the quasi particle.
 
-### This comes from the interpreta-
+# This comes from the interpreta-
 
 tion that the bare particle interacts with the many-body system
 
-## creating the
+creating the
 
 cloud, and the cloud in turn reacts back on the particle
 
 disturbing its motion.
 
-## Thus the particle is
+# Thus the particle is
 
-## in a sense
+in a sense
 
 interacting with itself via the many-body
 
 system, and changing its own energy.
 
-### 2 Quantum system: quasi electron in electron gas
+2 Quantum system: quasi electron in electron gas
 
 The ‘electron gas’ is a simple model often used to describe many-body
 
@@ -1464,17 +1464,17 @@ fixed, positive charge ‘background’ put into the box in order to keep the wh
 
 system electrically neutral.
 
-## In the ground state
+# In the ground state
 
-## the electrons are spread out
+the electrons are spread out
 
-## uniformly in the box
+uniformly in the box
 
 as shown schematically in Fig.
 
 Fig.
 
-## 7 ‘Electron Gas’
+7 ‘Electron Gas’
 
 Interacting Electrons Spread Out Uniformly in
 
@@ -1482,47 +1482,47 @@ Box, plus Uniform
 
 Fixed, Positive Charge Background
 
-### Suppose now that we have a single
+# Suppose now that we have a single
 
-### well-localized electron which we shoot
+well-localized electron which we shoot
 
 into the electron gas (Fig.
 
 Because of the repulsive Coulomb interaction
 
-## between electrons
+between electrons
 
 this extra electron repels other electrons away from it
 
 Fig.
 
-### 8 Extra Electron Shot into Electron Gas
+8 Extra Electron Shot into Electron Gas
 
-## --- Page 24 ---
+--- Page 24 ---
 
-### 8 A GUIDE TO FEYNMAN DIAGRAMS [0.2
+8 A GUIDE TO FEYNMAN DIAGRAMS [0.2
 
 we get an ‘empty space’ near the extra electron
 
-### and repelled electrons further
+and repelled electrons further
 
 away (Fig.
 
-### The empty space has positive charge
+# The empty space has positive charge
 
-## since the positive charge
+since the positive charge
 
 background is exposed in this region.
 
-### This empty region may be viewed in a
+# This empty region may be viewed in a
 
 more detailed or ‘microscopic’ way as composed of ‘holes’ in the electron gas.
 
-## That is
+# That is
 
 the extra electron has ‘lifted out’ electrons from the uniform charge
 
-## distribution in its vicinity
+distribution in its vicinity
 
 thus creating ‘holes’ in this charge distribution
 
@@ -1532,35 +1532,35 @@ This is shown in Fig.
 
 Because of the exposed positive background
 
-## these holes have positive
+these holes have positive
 
 charge.
 
 Fig.
 
-### 9 Extra Electron Pushes Other Electrons Away
+9 Extra Electron Pushes Other Electrons Away
 
-## Creating ‘Empty’
+Creating ‘Empty’
 
-### Region in its Immediate Vicinity
+# Region in its Immediate Vicinity
 
-## (a) (b)
+(a) (b)
 
 Fig.
 
-## 10 ‘Microscopic’ View of Fig.
+10 ‘Microscopic’ View of Fig.
 
-### 9 Showing Electrons Lifted out from
+9 Showing Electrons Lifted out from
 
-### Vicinity of the Extra Electron
+# Vicinity of the Extra Electron
 
-## thus Creating ‘ Holes’
+thus Creating ‘ Holes’
 
 The above definition of hole in the sense of ‘empty place’ is the one commonly
 
 used in solid state physics.
 
-## However
+# However
 
 later on we shall re-define things so that
 
@@ -1574,17 +1574,17 @@ action with the extra electron and with the other electrons in the system
 
 new holes and lifted out electrons take their place.
 
-## The sum of these micro-
+# The sum of these micro-
 
-## scopic processes
+scopic processes
 
-## which go on all the time
+which go on all the time
 
 is Fig.
 
 Thus Fig.
 
-## 9 may be
+9 may be
 
 visualized as an extra electron surrounded by a ‘cloud’ of constantly changing
 
@@ -1592,7 +1592,7 @@ holes and lifted out electrons.
 
 This combination is called the quasi electron.
 
-## --- Page 25 ---
+--- Page 25 ---
 
 2) THE MANY-BODY PROBLEM FOR EVERYBODY 9
 
@@ -1612,7 +1612,7 @@ have two quasi electrons as shown in Fig.
 
 Fig.
 
-### 11 Quasi Electron Propagates Through System
+11 Quasi Electron Propagates Through System
 
 Fig.
 
@@ -1620,7 +1620,7 @@ Fig.
 
 apart so that their clouds do not overlap very much
 
-## then we see that because
+then we see that because
 
 of the shielding the two quasi electrons will interact only weakly.
 
@@ -1628,29 +1628,29 @@ That is,
 
 quasi electrons act nearly independently of one another.
 
-## This is why metals
+# This is why metals
 
 generally behave as if their electrons were independent
 
-## it is not real electrons
+it is not real electrons
 
 but rather quasi electrons we are looking at.
 
-## 3 Single electron in a metal
+3 Single electron in a metal
 
-## Actually
+# Actually
 
 the simplest quantum example of the quasi particle idea occurs
 
-### not in a true many-body system
+not in a true many-body system
 
 but rather in a system containing one particle
 
-### moving in an external potential
+moving in an external potential
 
 i.e., a conduction electron in a metal.
 
-## In a
+# In a
 
 perfect metal the positive ions form a regular periodic lattice (we ignore lattice
 
@@ -1662,7 +1662,7 @@ due to the attractive Coulomb interaction between the ions and the electron
 
 13a).
 
-## In an imperfect metal
+# In an imperfect metal
 
 the periodicity is spoiled by the presence
 
@@ -1672,103 +1672,103 @@ the presence of some displaced ions (Fig.
 
 13b).
 
-## --- Page 26 ---
+--- Page 26 ---
 
-### 10 A GUIDE TO FEYNMAN DIAGRAMS [0.3
+10 A GUIDE TO FEYNMAN DIAGRAMS [0.3
 
-### electron electron impurity ion
+electron electron impurity ion
 
-## ions
+ions
 
-## (a) (b) “Displaced ion
+(a) (b) “Displaced ion
 
 Fig.
 
-### 13 (a) Conduction Electron in Perfect Metal.
+13 (a) Conduction Electron in Perfect Metal.
 
-## (b) Imperfect Metal
+(b) Imperfect Metal
 
-### Since the lattice here is assumed fixed
+# Since the lattice here is assumed fixed
 
-### there is no ‘moving cloud’ of lattice
+there is no ‘moving cloud’ of lattice
 
 ions following the electron.
 
-## Nevertheless
+# Nevertheless
 
-### it turns out that even these stationary
+it turns out that even these stationary
 
 lattice ions are capable of ‘clothing’ the electron
 
-### and we find that for a perfect
+and we find that for a perfect
 
-## lattice
+lattice
 
-## there is an effective mass
+there is an effective mass
 
 m*, and an infinite lifetime.
 
-## Addition of
+# Addition of
 
 imperfections causes the lifetime to become finite.
 
 4 Quasi nucleonDespite powerful short-range forces between nucleons in a nucleus
 
-## they
+they
 
 behave in many respects as if they were independent of each other
 
-## as is
+as is
 
 indicated by the success of the nuclear shell model.
 
-## The nearly independent
+# The nearly independent
 
 particles here are not the nucleons themselves
 
-### but the nucleons each surrounded
+but the nucleons each surrounded
 
-## by a cloud of other nucleons
+by a cloud of other nucleons
 
 i.e., the quasi nucleons.
 
-### 5 Bogoliubov quasi particles (‘bogolons’)
+5 Bogoliubov quasi particles (‘bogolons’)
 
 These are the elementary excitations in a superconductor.
 
-## We include them
+# We include them
 
 here since they are called quasi particles
 
-### but actually their structure is quite
+but actually their structure is quite
 
 different from the ‘particle plus cloud’ picture described above.
 
-## They consist
+# They consist
 
 of a linear combination of an electron in state (+k
 
-## ↑) and a ‘hole’ in (—k
+↑) and a ‘hole’ in (—k
 
-## 0.3 Collective excitations
+# 0.3 Collective excitations
 
-## As we have seen
+# As we have seen
 
 the quasi particle consists of the original real
 
-## individual
+individual
 
-## particle
+particle
 
 plus a cloud of disturbed neighbours.
 
-## It behaves very much like an
+# It behaves very much like an
 
-## individual particle
+individual particle
 
 except that it has an effective mass and a lifetime.
 
-## But there
+# But there
 
 also exist other kinds of fictitious particles in many-body systems
 
@@ -1778,7 +1778,7 @@ i.e.,
 
 These do not centre around individual particles
 
-## instead involve collective
+instead involve collective
 
 wavelike motion of all the particles in the system
 
@@ -1786,19 +1786,19 @@ simultaneously.
 
 Here are some examples:
 
-## 1 Plasmons
+1 Plasmons
 
 If a thin metal foil is bombarded with high energy electrons
 
-## it is possible
+it is possible
 
 to set up sinusoidal oscillations in the density of the electron gas in the foil.
 
-### This is known as a ‘ plasma wave’
+This is known as a ‘ plasma wave’
 
-## and it has a frequency ω
+and it has a frequency ω
 
-## and a wavelength
+and a wavelength
 
 λ, (see Fig.
 
@@ -1806,7 +1806,7 @@ to set up sinusoidal oscillations in the density of the electron gas in the foil
 
 The plasma wave may be visualized as built up of ‘holes’
 
-## --- Page 27 ---
+--- Page 27 ---
 
 3) THE MANY-BODY PROBLEM FOR EVERYBODY 11
 
@@ -1818,39 +1818,39 @@ shown in Fig.
 
 Just as light waves are quantized into units having
 
-## energy E=ℏω called photons
+energy E=ℏω called photons
 
 plasma waves are quantized into units with
 
 energy E_p=ℏω, called plasmons.
 
-## Density
+# Density
 
-## ~
+~
 
-## B
+B
 
-## (a)
+(a)
 
 Fig.
 
-### 14 (a) Plasma Wave in Electron Gas.
+14 (a) Plasma Wave in Electron Gas.
 
-## (b) Particle-hole Picture of
+(b) Particle-hole Picture of
 
-## Plasma Wave
+# Plasma Wave
 
-## 2 Phonons
+2 Phonons
 
 Sound waves are sinusoidal oscillations in the crystal lattice of a solid.
 
-## They
+# They
 
 are quantized into collective excitations called ‘phonons’.
 
 (See appendix .
 
-## 3 Magnons
+3 Magnons
 
 In ferromagnets there are regular fluctuations in the density of spin angular
 
@@ -1860,17 +1860,17 @@ The collective excitation here is the spin
 
 wave quantum known as the ‘magnon’.
 
-## 4 Nuclear quanta
+4 Nuclear quanta
 
-## In nuclei
+# In nuclei
 
 one finds various vibrational and rotational motions
 
-## the associ-
+the associ-
 
 ated quanta are the collective excitations in this case.
 
-## In the next chapter
+# In the next chapter
 
 we will describe in a very qualitative way how to find
 
@@ -1878,21 +1878,21 @@ the properties of quasi particles and collective excitations by means of
 
 ‘propagators’ and ‘Feynman diagrams’.
 
-## Further reading
+# Further reading
 
-## Appendix B
+# Appendix B
 
 Patterson (1964).
 
 Pines (1963), chap.
 
-## --- Page 28 ---
+--- Page 28 ---
 
-## Chapter 1
+# Chapter 1
 
 Feynman Diagrams, or how to Solve the
 
-### Many-Body Problem by means of Pictures
+# Many-Body Problem by means of Pictures
 
 1 Propagators — the heroes of the many-body problem
 
@@ -1900,21 +1900,21 @@ We have seen that many-body systems consisting of strongly interacting real
 
 particles can often be described as if they were composed of weakly interacting
 
-## fictitious particles
+fictitious particles
 
 quasi particles and collective excitations.
 
-## The question
+# The question
 
-## now is
+now is
 
 how can we calculate the properties of these fictitious particles—for
 
-## example
+example
 
 the effective mass and lifetime of quasi particles?
 
-## There are various
+# There are various
 
 ways of doing this (see appendix ) but the hero roles in the treatment of the
 
@@ -1924,25 +1924,25 @@ as Green's functions or propagators.
 
 These are essentially a generalization of
 
-## the ordinary
+the ordinary
 
 familiar undergraduate Green’s function.
 
-## They come in all sizes
+# They come in all sizes
 
-## and shapes—one particle
+and shapes—one particle
 
-## two particle
+two particle
 
-## no particle
+no particle
 
-## advanced
+advanced
 
-## retarded
+retarded
 
-## causal
+causal
 
-## zero temperature
+zero temperature
 
 finite temperature—an assortment to suit every situation
 
@@ -1952,17 +1952,17 @@ There are three reasons for the immense popularity propagators are enjoying
 
 these days.
 
-## First of all
+# First of all
 
 they yield in a direct way the most important physical
 
 properties of the system.
 
-## Secondly
+# Secondly
 
 they have a simple physical interpretation.
 
-## Thirdly
+# Thirdly
 
 they can be calculated in a way which is highly systematic and ‘auto-
 
@@ -1970,7 +1970,7 @@ matic’ and which appeals to one’s physical intuition.
 
 The idea behind the propagator method is this
 
-## the detailed description of a
+the detailed description of a
 
 many-body system requires in the classical case the position of each particle
 
@@ -1978,9 +1978,9 @@ as a function of time, r_i(t), r_j(t), .
 
 , r_N(t)
 
-## or in the quantum case
+or in the quantum case
 
-## the time-
+the time-
 
 dependent wave function of the whole system
 
@@ -1988,7 +1988,7 @@ dependent wave function of the whole system
 
 ,r_N,t).
 
-## A glance at
+# A glance at
 
 Fig.
 
@@ -2000,7 +2000,7 @@ it turns out that in order to find the important physical properties of a system
 
 it is not necessary to know the detailed behaviour of each particle in the
 
-## system
+system
 
 but rather just the average behaviour of one or two typical particles.
 
@@ -2008,7 +2008,7 @@ The quantities which describe this average behaviour are the one-particle
 
 propagator and two-particle propagator respectively
 
-## and physical properties
+and physical properties
 
 may be calculated directly from them.
 
@@ -2018,95 +2018,95 @@ It is defined as follows: We put
 
 a particle into the interacting system at point r_1 at time t_1
 
-## and let it move through
+and let it move through
 
 the system colliding with the other particles for a while (i.e.
 
-## let it ‘ propagate’
+let it ‘ propagate’
 
-## --- Page 29 ---
+--- Page 29 ---
 
-## 2) FEYNMAN DIAGRAMS 13
+2) FEYNMAN DIAGRAMS 13
 
 through the system).
 
 Then the one-particle propagator is the probability (or
 
-## in quantum systems
+in quantum systems
 
 the probability amplitude—see §3.
 
-## 1) that the particle will
+1) that the particle will
 
 be observed at the point r_2 at time t_2.
 
 (Note that instead of putting the particle
 
-## in at a definite point
+in at a definite point
 
 it is sometimes more convenient to put it in with definite
 
-## momentum
+momentum
 
 say p_1 and observe it later with momentum p_2.
 
-## ) The single-particle
+) The single-particle
 
 propagator yields directly the energies and lifetimes of quasi particles.
 
-## It also
+# It also
 
-### gives the momentum distribution
+gives the momentum distribution
 
 spin and particle density and can be used to
 
 calculate the ground state energy.
 
-## Similarly
+# Similarly
 
 the two-particle propagator is the probability amplitude for
 
-## observing one particle at r_1
+observing one particle at r_1
 
-## t_1 and another at r_2
+t_1 and another at r_2
 
-## t_2 if one was put into the
+t_2 if one was put into the
 
-## system at r_3
+system at r_3
 
-## t_3 and another at r_4
+t_3 and another at r_4
 
 t_4 (see Fig.
 
 2B).
 
-## This also has a wide variety
+# This also has a wide variety
 
-## of talents
+of talents
 
 giving directly the energies and lifetimes of collective excitations
 
-### as well as the magnetic susceptibility
+as well as the magnetic susceptibility
 
-## electrical conductivity
+electrical conductivity
 
-## and a host of
+and a host of
 
 other non-equilibrium properties.
 
-### There is also another useful quantity
+# There is also another useful quantity
 
-### the ‘no-particle propagator’ or so-
+the ‘no-particle propagator’ or so-
 
-### called ‘vacuum amplitude’ defined thus
+called ‘vacuum amplitude’ defined thus
 
-### We put no particle into the system at
+# We put no particle into the system at
 
-## time t_1
+time t_1
 
 let the particles in the system interact with each other from t_1 to t_2
 
-## then
+then
 
 ask for the probability amplitude that no particles emerge from the system at
 
@@ -2114,15 +2114,15 @@ time t_2.
 
 This may be used to calculate the ground state energy and the grand
 
-## partition function
+partition function
 
 from which all equilibrium properties of the system may be
 
 determined.
 
-### 2 Calculating propagators by Feynman diagrams
+2 Calculating propagators by Feynman diagrams
 
-## the drunken man propagator
+the drunken man propagator
 
 There are two different methods available for calculating propagators.
 
@@ -2134,43 +2134,43 @@ The other is to expand the propagator in an
 
 infinite series and evaluate the series approximately.
 
-## This can be carried out in
+# This can be carried out in
 
-## a general
+a general
 
-## systematic
+systematic
 
 and picturesque way with the aid of Feynman diagrams.
 
 Just to get an idea of what these diagrams are
 
-## consider the following simple
+consider the following simple
 
 example (see Fig.
 
-### A man who has had too much to drink
+# A man who has had too much to drink
 
-## leaves a party
+leaves a party
 
 at point 1 and on the way to his home at point 2
 
-### he can stop off at one or more
+he can stop off at one or more
 
-## bars—Alice’s Bar (A)
+bars—Alice’s Bar (A)
 
-## Bardot Bar (B)
+Bardot Bar (B)
 
-## Club Six Bar (C)
+Club Six Bar (C)
 
 , etc. He can wind
 
-## up either at his own home 2
+up either at his own home 2
 
 or at any one of his friends’ apartments
 
 3, 4, etc.
 
-## We ask for the probability
+# We ask for the probability
 
 P(2,1)
 
@@ -2180,7 +2180,7 @@ This probability, which
 
 is just the propagator here (with time omitted for simplicity)
 
-## is the sum of the
+is the sum of the
 
 probabilities for all the different ways he can propagate from 1 to 2 interacting
 
@@ -2188,15 +2188,15 @@ with the various bars.
 
 time increases in the upward-going direction and we use the following diagram elements
 
-## ```
+```
 
-## r → H
+r → H
 
 ↑ (1.
 
-## r → P
+r → P
 
-## ```
+```
 
 (propagator for propagating a particle at r₁
 
@@ -2208,19 +2208,19 @@ The reason for this is in §4.
 
 ) Then the probability amplitude for the above sequence of events can be represented by the diagram
 
-## ```
+```
 
 ~~~ Particle-hole 'pair bubble': 0
 
-## ```
+```
 
 The piece of diagram:
 
-## ```
+```
 
 mae (1.
 
-## ```
+```
 
 is called a 'self-energy part' because it shows the particle interacting with itself via the particle-hole pair it created in the many-body medium.
 
@@ -2246,11 +2246,11 @@ The first-order process and its analogy are shown in Fig.
 
 The sequence may be drawn diagrammatically
 
-## ```
+```
 
-## (a) (6) (c)
+(a) (6) (c)
 
-## ```
+```
 
 Fig.
 
@@ -2264,23 +2264,23 @@ It interacts with a particle at r’ and changes place with it.
 
 (c) Extra particle leaves at time t₂.
 
-### 20 A GUIDE TO FEYNMAN DIAGRAMS [1.4]
+20 A GUIDE TO FEYNMAN DIAGRAMS [1.4]
 
 as in (1.
 
 11):
 
-## ```
+```
 
 t (1.
 
-## t₂
+t₂
 
-## ```
+```
 
 'Open oyster' diagram (closed oyster is in (1.
 
-## 19))
+19))
 
 The diagrams in (1.
 
@@ -2296,39 +2296,39 @@ They are used extensively in elementary particle physics.
 
 The total single particle propagator is the sum of the amplitudes for all possible ways the particle can propagate through the system.
 
-### This will include the above processes
+# This will include the above processes
 
-## repetitions of them
+repetitions of them
 
 plus an infinite number of others.
 
-## Thus we find
+# Thus we find
 
-## ```
+```
 
-### ... (Equation referenced as (1.12) presumably)
+... (Equation referenced as (1.12) presumably)
 
-## ```
+```
 
 (Note: the interpretation of the 'bubble' diagram
 
-## just after the open oyster
+just after the open oyster
 
 will be discussed in chapter 4.
 
 We can see the direct connection between the one-particle propagator and the quasi particle by looking at all the diagrams at a particular time t₀ (dashed line)
 
-## ```
+```
 
-## a b c d
+a b c d
 
-## @ @ @ @
+@ @ @ @
 
-## ```
+```
 
 At t₀, we see that various situations may exist
 
-### there may be just the bare particle (a)
+there may be just the bare particle (a)
 
 or there may exist two particles plus one hole created by the second-order sequence (c)
 
@@ -2342,27 +2342,27 @@ If we now compare with the picture of the quasi particle in Fig.
 
 10, we see that the diagrams reveal the content of the ever-changing cloud of particles and holes surrounding the bare particle and converting it into a quasi particle.
 
-## 4) FEYNMAN DIAGRAMS 21
+4) FEYNMAN DIAGRAMS 21
 
-### Just as in the drunken man case
+# Just as in the drunken man case
 
 the propagator here may be calculated approximately by doing a partial sum.
 
-## For example
+# For example
 
 we can sum over all diagrams containing repeated open oyster parts since they constitute a geometric series (cf. (1.
 
 7)):
 
-## ```
+```
 
 a / (1 + I + I² + .
 
-## ) = a / (1 - I)
+) = a / (1 - I)
 
-## ```
+```
 
-## For the electron gas
+# For the electron gas
 
 this is the 'Hartree-Fock' approximation.
 
@@ -2370,11 +2370,11 @@ We can also include 'ring' diagrams in the sum
 
 i.e., diagrams in which the self-energy parts are composed of rings of particle-hole pair bubbles (these are the most important in a high-density electron gas)
 
-## ```
+```
 
 a / (1 - I - II - .
 
-## ```
+```
 
 This sum can be carried out and yields the so-called 'random phase approximation' or 'RPA'
 
@@ -2400,21 +2400,21 @@ then emerge again.
 
 The diagram series for it is (note that the dots on the diagram for the two-particle propagator show the points at which directed lines emerge)
 
-## ```
+```
 
-## ... (Diagram series)
+... (Diagram series)
 
-## ```
+```
 
 A partial sum over all 'ladder' diagrams here
 
-## ```
+```
 
-## ... (Ladder diagram sum)
+... (Ladder diagram sum)
 
-## ```
+```
 
-### is called 'ladder' approximation
+is called 'ladder' approximation
 
 and is very useful in describing nuclear matter
 
@@ -2422,19 +2422,19 @@ and low-density systems.
 
 The 'particle-hole' propagator, given by
 
-## ```
+```
 
-## ... (Diagram series)
+... (Diagram series)
 
-## ```
+```
 
 may be used to find the energy and lifetime of collective excitations
 
 e.g. Plasmons
 
-## 6) FEYNMAN DIAGRAMS 23
+6) FEYNMAN DIAGRAMS 23
 
-### 6 The no-particle propagator ('vacuum amplitude')
+6 The no-particle propagator ('vacuum amplitude')
 
 The ground state energy of a many-body system may be obtained directly from the no-particle propagator
 
@@ -2454,45 +2454,45 @@ The simplest process is where nothing at all happens—the system just sits ther
 
 A first-order process occurs in which two particles change places with each other as shown in the following diagram
 
-## ```
+```
 
 aD (1.
 
-## ```
+```
 
-## 'Oyster' diagram
+'Oyster' diagram
 
 A more complicated process is shown in Fig.
 
 The vacuum amplitude may thus be represented by the following diagram series
 
-## ```
+```
 
-## (a) (b) (c)
+(a) (b) (c)
 
-## (d) (e)
+(d) (e)
 
-## ```
+```
 
 where ‘1’ is for the nothing-at-all process and (d) is the picture for Fig.
 
-## (The 'double bubble' diagram
+(The 'double bubble' diagram
 
 (c), is discussed in chapter 5.
 
 The vacuum amplitude series gives us a vivid picture of the ground state of the many-body system as a sort of ‘virtual witches’ brew’
 
-## constantly seething
+constantly seething
 
-### with particles and holes boiling up
+with particles and holes boiling up
 
-## bubbling
+bubbling
 
-## and colliding
+and colliding
 
 as in Fig.
 
-## In conclusion
+# In conclusion
 
 we see that Feynman diagrams have many appealing features
 
@@ -2504,25 +2504,25 @@ One thing which was already pointed out in §1.
 
 Another thing is that they reveal at a glance the structure of very complicated approximations by showing which sets of diagrams have been summed over.
 
-## In this way
+# In this way
 
 they have introduced a new language into physics
 
 and one often sees phrases like ‘ladder approximation’ or ‘ring approximation’ even in articles in which no diagrams appear.
 
-## And finally
+# And finally
 
 one cannot be immune to the Klee-like charm of the diagrams.
 
-## A GUIDE TO FEYNMAN DIAGRAMS
+# A GUIDE TO FEYNMAN DIAGRAMS
 
 Fig.
 
-## 4 Virtual .
+4 Virtual .
 
 Second-order .
 
-## Process
+# Process
 
 (a) Vacuum.
 
@@ -2542,35 +2542,35 @@ PAIR BUBBLE,
 
 PARTICLES AND HOLES,
 
-## IN SYSTEM BUBBLES
+# IN SYSTEM BUBBLES
 
 Fig.
 
 5 Modern View of a Many-body System in its Ground State
 
-## Including in their ranks
+# Including in their ranks
 
-## in addition to the above
+in addition to the above
 
-### such characters as the ‘necklace’
+such characters as the ‘necklace’
 
-### the ‘potato’ and the ‘tadpole’
+the ‘potato’ and the ‘tadpole’
 
-### plus infinite numbers yet unnamed
+plus infinite numbers yet unnamed
 
 they constitute what might indeed be called ‘perturbation theory in comic-book form.
 
 Chapter 2Classical Quasi Particles and the Pinball
 
-## Propagator
+# Propagator
 
-### 2.1 Physical picture of quasi particle
+# 2.1 Physical picture of quasi particle
 
 We saw in §0.
 
 2 that the quasi particle is one type of elementary excitation in
 
-## a many-body system
+a many-body system
 
 and that physically it consists of a particle surrounded
 
@@ -2580,11 +2580,11 @@ The concept was illustrated by examples ranging
 
 from the quasi electron to the quasi horse.
 
-### We also saw how quasi particles
+# We also saw how quasi particles
 
 may be described by means of propagators
 
-### which are calculated with the aid
+which are calculated with the aid
 
 of Feynman diagrams.
 
@@ -2598,7 +2598,7 @@ The partial sum method of calculating the classical propagator is
 
 discussed in detail with the aid of a pinball machine example.
 
-## For concreteness
+# For concreteness
 
 let us think in terms of the classical quasi ion in Fig.
 
@@ -2606,17 +2606,17 @@ which consists of a bare ion plus a coat of oppositely charged ions surrounding
 
 This picture led us to the general definition
 
-## ‘coat’ or ‘cloud’
+‘coat’ or ‘cloud’
 
 real particle + other particles = quasi particle (2.
 
-## or
+or
 
 ‘bare’ particle + clothing = ‘dressed’ or ‘clothed’
 
 or ‘renormalized’ (2.
 
-## or ‘cloud’ particle
+or ‘cloud’ particle
 
 It may be remarked that if we perform a ‘Gedanken’ calculation and
 
@@ -2630,7 +2630,7 @@ r plus the co-ordinates rj(j≠i) of all the other particles in the system.
 
 rj(j≠i) then evidently describe the shifting cloud
 
-## so it is therefore proper to
+so it is therefore proper to
 
 call the cloud a part of the quasi particle.
 
@@ -2640,39 +2640,39 @@ quasi particles have a lifetime, τ, (2.
 
 and because of their coat of other particles
 
-### quasi particles have a new energy
+quasi particles have a new energy
 
-## ε = p^2 / 2m*
+ε = p^2 / 2m*
 
-## --- Page 42 ---
+--- Page 42 ---
 
-### 26 A GUIDE TO FEYNMAN DIAGRAMS [2.2
+26 A GUIDE TO FEYNMAN DIAGRAMS [2.2
 
 law where m* is the effective mass.
 
-## Finally
+# Finally
 
-## we defined the self-energy
+we defined the self-energy
 
-## Σ by
+Σ by
 
 ε_quasi − ε_bare = Σ_self.
 
-## particle particle
+particle particle
 
-### 2.2 The classical quasi particle propagator
+# 2.2 The classical quasi particle propagator
 
 Quasi particles in a system may be tracked down by means of the single
 
 particle Green’s function or ‘propagator’.
 
-### Let us see what this is in the
+# Let us see what this is in the
 
 classical case.
 
-### Imagine we have a many-body system
+# Imagine we have a many-body system
 
-## and we consider the
+and we consider the
 
 motion of one particle in it under the influence of a constant external force F
 
@@ -2682,25 +2682,25 @@ Suppose the particle begins at r1 at time t1.
 
 Fig.
 
-## 1 Many-body System
+1 Many-body System
 
 If there are no collisions with other particles
 
-## the movement or ‘propagation’
+the movement or ‘propagation’
 
 of the particle to the point r2 at time t2 is described by
 
 r2 = r1 + (F/m)(t2 − t1).
 
-## But in the interacting case
+# But in the interacting case
 
-## collisions take place
+collisions take place
 
-## and the particle will follow
+and the particle will follow
 
 a highly irregular path not described by (2.
 
-## The best one can do in this
+# The best one can do in this
 
 situation is to talk about the probability of the particle going from one point
 
@@ -2714,17 +2714,17 @@ r1, t1) = probability density (=probability per unit volume)
 
 that if a particle at rest is put into the system at point
 
-## r1 at time t1
+r1 at time t1
 
-### then it will be found at r2 at later
+then it will be found at r2 at later
 
 time t2.
 
-## It will be convenient
+# It will be convenient
 
 when we later take the Fourier transform
 
-## to have P
+to have P
 
 defined also for t2 < t1:
 
@@ -2736,29 +2736,29 @@ In Fig.
 
 interacting and non-interacting cases.
 
-### Probability density is plotted on the
+# Probability density is plotted on the
 
-## --- Page 43 ---
+--- Page 43 ---
 
-### 2) CLASSICAL QUASI PARTICLES 27
+2) CLASSICAL QUASI PARTICLES 27
 
-## vertical axis
+vertical axis
 
 and t2 and an arbitrary component of r2 on the horizontal axes.
 
-### In the absence of interactions
+# In the absence of interactions
 
 P will be a surface which is zero everywhere
 
-### except on the line r2−r1 = (F/m)(t2−t1)
+except on the line r2−r1 = (F/m)(t2−t1)
 
-## where it equals ∞
+where it equals ∞
 
 i.e., the Dirac
 
 δ-function:
 
-## P_free(r2
+P_free(r2
 
 t2; r1
 
@@ -2768,9 +2768,9 @@ This propagator in the absence of interactions is called the free propagator.
 
 P(r2, t2; r1, t1)
 
-## ‘non-interacting’
+‘non-interacting’
 
-## (free)
+(free)
 
 (1, t1)
 
@@ -2778,27 +2778,27 @@ Fig.
 
 The Classical Propagator (Schematic—Only One Component
 
-## of r2 Shown)
+of r2 Shown)
 
 If interactions between particles are now allowed to occur
 
-## this surface will
+this surface will
 
 spread out, as shown qualitatively.
 
-## If we examine ⟨r2 − r1⟩
+If we examine ⟨r2 − r1⟩
 
-## the position of the
+the position of the
 
 maximum value of P in the interacting case
 
-## we see that for some types of
+we see that for some types of
 
-### interaction we might find that
+interaction we might find that
 
 ⟨r2 − r1⟩ = (F/m*)(t2 − t1) for P = maximum.
 
-## If this is true
+# If this is true
 
 then ⟨r2−r1⟩ behaves as the co-ordinate of a quasi particle of
 
@@ -2808,37 +2808,37 @@ Look now at the maximum height of P as a function of t2.
 
 Because of the ‘spreading out’ of the particle position
 
-## P_max will first fall
+P_max will first fall
 
 infinitely rapidly from its value of ∞ at t2 = t1
 
 then more slowly.
 
-## If this slower
+# If this slower
 
 decay is exponential:
 
-## P_max(t2
+P_max(t2
 
 t1; r1
 
-## t1) ∝ exp[ − (t2−t1)/τ ]
+t1) ∝ exp[ − (t2−t1)/τ ]
 
-## --- Page 44 ---
+--- Page 44 ---
 
-### 28 A GUIDE TO FEYNMAN DIAGRAMS (2.3
+28 A GUIDE TO FEYNMAN DIAGRAMS (2.3
 
 then τ may be identified as the quasi particle lifetime
 
-## it clearly must be fairly
+it clearly must be fairly
 
 large if the quasi particle picture is to be useful.
 
 Thus, if we calculate P and
 
-### find that it shows the above behaviour
+find that it shows the above behaviour
 
-### then the system is describable in
+then the system is describable in
 
 terms of quasi particles and their lifetime and effective mass may be
 
@@ -2848,7 +2848,7 @@ determined.
 
 The actual calculation of the propagator P is quite complicated
 
-## but it is
+but it is
 
 easy to illustrate all the principles involved with the aid of a simple analogue
 
@@ -2858,21 +2858,21 @@ centres.
 
 (The system considered here is essentially the same as the drunken
 
-## man case in chapter 1
+man case in chapter 1
 
 but it will be treated in much more detail.
 
 The example involves the particle accelerator in Fig.
 
-## A pinball is
+# A pinball is
 
 injected at the point r1 at time t1 and propagates through the system
 
-## being
+being
 
 scattered at the various centres.
 
-### We ask for the probability P(r2
+We ask for the probability P(r2
 
 t2; r1
 
@@ -2880,7 +2880,7 @@ that the particle reaches the point r2 at time t2.
 
 The scattering mechanism is assumed to be such that (1) if the pinball
 
-### strikes the shaded circle at animal A
+strikes the shaded circle at animal A
 
 then there is probability P(A) that it is
 
@@ -2890,7 +2890,7 @@ scattered and 1−P(A) that it will go straight through without scattering
 
 at A must be independent of the pinball path and velocity before scattering—
 
-## that is
+that is
 
 the pinball loses its ‘memory’ of how it got to A.
 
@@ -2898,7 +2898,7 @@ the pinball loses its ‘memory’ of how it got to A.
 
 realized.
 
-## For example
+# For example
 
 the shaded circle could be a round peg which is pushed
 
@@ -2912,29 +2912,29 @@ Or we could have an immovable peg (i.e.,
 
 always protruding) within the shaded circle
 
-### having a diameter such that the
+having a diameter such that the
 
 ratio of the peg diameter to that of the circle=P(A).
 
-## The loss of memory
+# The loss of memory
 
 could be achieved by attaching a ‘shuffling’ device to each peg—like for
 
 example rapidly rotating spokes.
 
-### The choice of method and the ‘Rube
+The choice of method and the ‘Rube
 
-## Goldberg’ details are
+Goldberg’ details are
 
-## however
+however
 
 left as an exercise to the reader.
 
-## They are of
+# They are of
 
 no importance for our discussion!
 
-## For the sake of simplicity
+# For the sake of simplicity
 
 let us leave time out of the argument to begin
 
@@ -2942,71 +2942,71 @@ with, and consider just P(r2
 
 r1); this is the probability that if the particle
 
-## begins at r1
+begins at r1
 
 it will finish at r2 regardless of the time.
 
-## From the definition of
+# From the definition of
 
-## probability
+probability
 
 P(r2, r1) is the sum of the probabilities for all the different ways
 
 the particle can go through the machine which begin at r1 and wind up at r2.
 
-## For example
+# For example
 
 it could go ‘directly’ from r1 to r2 (i.e.
 
-## without being scattered
+without being scattered
 
 on the way) or it could go from r1 to the giraffe
 
-## be scattered off the giraffe
+be scattered off the giraffe
 
 and fall to r2.
 
 Or it could scatter from the giraffe to the monkey to r2.
 
-## Or it
+# Or it
 
 could scatter twice on the giraffe before falling to r2.
 
 And so on.
 
-## --- Page 45 ---
+--- Page 45 ---
 
-### 3) CLASSICAL QUASI PARTICLES 29
+3) CLASSICAL QUASI PARTICLES 29
 
-## Typical
+# Typical
 
-## scattering
+scattering
 
-## centre
+centre
 
-## Collimator
+# Collimator
 
-## Point O
+# Point O
 
-## Test
+# Test
 
-## particle
+particle
 
-## Particle
+# Particle
 
-## accelerator
+accelerator
 
 Fig.
 
 3 Classical Analogue Machine to Illustrate the Single-particle Propagator
 
-## --- Page 46 ---
+--- Page 46 ---
 
-### 30 A GUIDE TO FEYNMAN DIAGRAMS [2.
+30 A GUIDE TO FEYNMAN DIAGRAMS [2.
 
 3Let us first get the free propagator G⁺ (no perturbing interaction).
 
-## Suppose
+# Suppose
 
 at time t₁ the wave function of the free particle is ψ(r
 
@@ -3016,17 +3016,17 @@ Then we have:
 
 ψ(r, t₁) = φ_k(r) (3.
 
-## At later time t₂
+At later time t₂
 
 by the time‑dependent Schrödinger equation
 
-## we find that
+we find that
 
-## the wave function has become
+the wave function has become
 
 where E_k is the single‑particle energy of (3.
 
-## The probability amplitude for
+# The probability amplitude for
 
 the particle being in state φ_k at time t₂ is then just the component of ψ(r
 
@@ -3036,11 +3036,11 @@ whence, by definition of G⁺:
 
 = −i δ_{kk} exp(−iE_k(t₂−t₁)/ħ) (3.
 
-## where
+where
 
 G₀(t₁−t₂), for t₁ > t₂ } (3.
 
-## and
+and
 
 θ_m = 1, if t₁ > t₂
 
@@ -3052,7 +3052,7 @@ The B_n factor is put in to take care of the fact that by definition (3.
 
 for t₁ < t₂.
 
-### Note also that G⁺ = 0 for t₁ = t₂
+Note also that G⁺ = 0 for t₁ = t₂
 
 by (3.
 
@@ -3064,23 +3064,23 @@ by (3.
 
 appendix F.
 
-## ) Note that for fermions
+) Note that for fermions
 
 all levels up to E_F (= Fermi energy—see
 
-## 2) are filled
+2) are filled
 
 so we can only propagate a particle with E_k > E_F.
 
 Just as with the classical pinball propagator
 
-## it is convenient to work with
+it is convenient to work with
 
 the Fourier transform of (3.
 
 10) (ω = frequency or ‘energy parameter’)
 
-### = ∫_{−∞}^{+∞} dt exp(i(ω − E_k + iε)t)
+= ∫_{−∞}^{+∞} dt exp(i(ω − E_k + iε)t)
 
 = 2πi δ(ω − E_k + iε) (3.
 
@@ -3088,7 +3088,7 @@ Because of the exponential oscillating at ∞
 
 this function is not well defined.
 
-### In order to get around this difficulty
+# In order to get around this difficulty
 
 we have to slightly modify the expression
 
@@ -3100,23 +3100,23 @@ Then (3.
 
 10) becomes:
 
-## For any finite (t₁−t₂)
+For any finite (t₁−t₂)
 
-## we have ε(t₁−t₂) = 0
+we have ε(t₁−t₂) = 0
 
 so this is just (3.
 
 10).
 
-## But for
+# But for
 
-## find
+find
 
 G(k; ω) = 1/(ω − E_k + iε) (3.
 
-## In Appendix I
+# In Appendix I
 
-### it is shown that the inverse transform
+it is shown that the inverse transform
 
 i.e., the Fourier transform
 
@@ -3130,9 +3130,9 @@ The above modification of G⁺ has no physical significance since t₁−t₂ is
 
 always finite in any experiment.
 
-## However
+# However
 
-### it is mathematically very convenient
+it is mathematically very convenient
 
 because it allows us to work with well‑defined integrals.
 
@@ -3146,13 +3146,13 @@ which can be seen by evaluating it using exactly the same technique as in
 
 appendix I.
 
-## This yields
+# This yields
 
 θ(t) → { 1, for (t₁−t₂) > 0
 
 0, for (t₁−t₂) < 0 } (3.
 
-## 11')
+11')
 
 which is just (3.
 
@@ -3160,7 +3160,7 @@ which is just (3.
 
 where it goes to zero.
 
-## Inserting
+# Inserting
 
 13') in (3.
 
@@ -3180,27 +3180,27 @@ immediately obtain (3.
 
 In this transformed version, (3.
 
-### 13) it is seen that the free propagator
+13) it is seen that the free propagator
 
 possesses poles at (i.e.
 
-### infinitesimally close to) ω = E_k
+infinitesimally close to) ω = E_k
 
 i.e., at the energy of the
 
 added particle in state φ_k.
 
-### This turns out to be quite general
+# This turns out to be quite general
 
-## and in fact it may
+and in fact it may
 
 be shown that (see appendix H):
 
-## The poles of G⁺(k
+The poles of G⁺(k
 
 ω), the Fourier transform of the single‑
 
-## particle propagator
+particle propagator
 
 occur at values of ω equal to the excited
 
@@ -3214,9 +3214,9 @@ many‑body theory.
 
 Now consider the propagator in the presence of interaction.
 
-## Analogous
+# Analogous
 
-### to the classical case in chapter 2
+to the classical case in chapter 2
 
 quantum quasi particles act like free particles
 
@@ -3224,11 +3224,11 @@ except that they have a new energy ξ_k instead of E_k
 
 and a lifetime τ_k.
 
-## There‑
+There‑
 
 fore we expect that if the added particle behaves as a quasi particle
 
-## the single‑
+the single‑
 
 particle propagator will have the same form as the free propagator except for
 
@@ -3236,13 +3236,13 @@ the replacement of E_k by ξ_k and the inclusion of an exponential decay factor
 
 with time constant τ_k.
 
-## One more thing
+# One more thing
 
-## In a Fermi system
+# In a Fermi system
 
-## because of the
+because of the
 
-## Pauli principle
+# Pauli principle
 
 each state can hold at most one particle.
 
@@ -3250,31 +3250,31 @@ Therefore, if state k
 
 is already partially (or fully) occupied
 
-### the probability amplitude that we can
+the probability amplitude that we can
 
 add an extra particle in state k will be less than 1.
 
-## Hence we have to multiply
+# Hence we have to multiply
 
 by a factor Z < 1.
 
 This gives us:
 
-## particle
+particle
 
-### This has the Fourier transform
+# This has the Fourier transform
 
 G⁺(k; ω) = Z / (ω − ξ_k + i/(2τ_k)) (3.
 
-### For these expressions to be sensible
+# For these expressions to be sensible
 
 it is evident that the lifetime of the quasi
 
-## particles must be long
+particles must be long
 
-### so that the width of the energy levels
+so that the width of the energy levels
 
-## Γ_k = ħ/τ_k (see appendix
+Γ_k = ħ/τ_k (see appendix
 
 sf after (3.
 
@@ -3292,11 +3292,11 @@ Thus, if G⁺ is calculated
 
 and it is found that it has the above form
 
-## then
+then
 
 the system is describable in terms of the simple quasi particle picture.
 
-## Such
+# Such
 
 systems are rewarded with the name ‘normal’.
 
@@ -3310,7 +3310,7 @@ the system turns out to be of the less co‑operative ‘abnormal’ variety whe
 
 the superconducting system of chapter 15)
 
-### we can still get the excited state
+we can still get the excited state
 
 energies by means of (3.
 
@@ -3326,31 +3326,31 @@ the system (as in (3.
 
 14)), if the energy is regarded as being complex
 
-## with ξ_k
+with ξ_k
 
-## being its real
+being its real
 
-### and Γ_k its (small) imaginary part
+and Γ_k its (small) imaginary part
 
 ω_pole = ξ_k − iΓ_k (3.
 
 Such complex energies are the same sort of thing we meet in the case of an
 
-## atom in an excited state
+atom in an excited state
 
 ψ_k, with energy E_k.
 
-### In the absence of interaction with
+# In the absence of interaction with
 
-## other atoms or with radiation
+other atoms or with radiation
 
-## the wave function is
+the wave function is
 
 ψ(t) = ψ_k exp(−iE_k t) (3.
 
-## 18')
+18')
 
-### If weak interactions are turned on
+# If weak interactions are turned on
 
 the energy shifts to E_k' and the atom starts
 
@@ -3360,7 +3360,7 @@ Thus, the approximate wave function may be written
 
 ψ(t) ≈ ψ_k exp(−iE_k' t − Γ_k t/2) (3.
 
-## 18'')
+18'')
 
 which has just the form of (3.
 
@@ -3370,33 +3370,33 @@ placing the real energy E_k.
 
 (See note after (3.
 
-## 70) and also after appendix
+70) and also after appendix
 
 10).
 
-## 3.2 The quantum pinball game
+# 3.2 The quantum pinball game
 
 In order to illustrate the principles involved
 
-### we will now find the propagator
+we will now find the propagator
 
 for a simple system consisting of one particle in an external momentum‑
 
-## conserving potential
+conserving potential
 
 which turns out to be the exact quantum analogue of
 
 the classical pinball game.
 
-## Of course
+# Of course
 
-## in a one‑particle system
+in a one‑particle system
 
-## we cannot have
+we cannot have
 
 quasi particles in the ‘real particle plus cloud of other particles’ sense.
 
-## How‑
+How‑
 
 ever, as mentioned in connection with conduction electrons in §0.
 
@@ -3410,15 +3410,15 @@ The quantum pinball game consists of a single free particle subjected
 
 simultaneously to two perturbing potentials V_a
 
-## which are the analogues
+which are the analogues
 
 of two different animal scatterers in the classical pinball game.
 
-## The un‑
+The un‑
 
-## perturbed Hamiltonian
+perturbed Hamiltonian
 
-## wave functions
+wave functions
 
 and energies are given by (3.
 
@@ -3426,21 +3426,21 @@ take as the perturbation the ‘velocity dependent’ potential
 
 V(p) = V_a + V_b = M p^2 + L p^4 = −M v^2/2 + L v^4 (3.
 
-## where M
+where M
 
 L, are real constants
 
 and it is assumed that M > L.
 
-## This odd‑looking potential
+This odd‑looking potential
 
 which has been chosen because of its great
 
-## mathematical simplicity
+mathematical simplicity
 
 may have a traumatic effect on some readers.
 
-## It is
+# It is
 
 certainly not the sort of potential one meets on the street—those are mostly
 
@@ -3458,27 +3458,27 @@ centre of mass motion of a free hydrogen atom is H = p^2/(m_e + m_p) where
 
 m_p = proton mass and m_e = electron mass.
 
-## This may be broken up into
+# This may be broken up into
 
 H = p^2/(2m_e) − (m_p/(m_e + m_p)) p^2/(2m_e) + (m_e/(m_e + m_p)) p^2/(2m_p)and the second term treated as if it were a ‘perturbing potential’.
 
-## In a similar
+# In a similar
 
-## fashion
+fashion
 
 a p* term can come as a relativistic correction when we expand the
 
 relativistic Hamiltonian:
 
-## 2 4
+2 4
 
-## In fact
+# In fact
 
 if we regard this as the relativistic Hamiltonian for the centre of mass
 
-### motion of a free hydrogen atom
+motion of a free hydrogen atom
 
-### with m → m_e + m_p then we can write
+with m → m_e + m_p then we can write
 
 p²/2m – p⁴/8m³c² with m → (m_e m_p)/(m_e + m_p)
 
@@ -3488,15 +3488,15 @@ which has just the form (3.
 
 Examples of real velocity-dependent potentials arise in the case of an electron
 
-### in a magnetic field ( – (e/c) A·p)
+in a magnetic field ( – (e/c) A·p)
 
 and in nuclear physics.
 
-## --- Page 60 ---
+--- Page 60 ---
 
-### 44 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
+44 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
 
-## The problem
+# The problem
 
 then, is to find the energy of the free particle when it is per-
 
@@ -3504,7 +3504,7 @@ turbed by V(p).
 
 Let us first look at the conventional solution of the problem.
 
-## Since M ≪ 1
+Since M ≪ 1
 
 we may at first neglect the L term and have V(p) ≈ Mp² so
 
@@ -3514,7 +3514,7 @@ Because the perturbation has the same form as the unperturbed H₀ = p²/2m
 
 the perturbed wave functions are just the old ψ’s of (3.
 
-## 5) and the new energy is
+5) and the new energy is
 
 ε = (p²/2m)(1 + 2M).
 
@@ -3534,19 +3534,19 @@ having a modified energy dispersion law given by (3.
 
 21).
 
-## (In this simple
+(In this simple
 
 example, the ‘fictitious bodies’ of (A.
 
 21) and the quasi particles of (B.
 
-## 43) are
+43) are
 
 the same thing.
 
 Consider next the effect of adding the L term.
 
-## This also has the same eigen-
+# This also has the same eigen-
 
 functions as H₀ and we find:
 
@@ -3562,41 +3562,41 @@ propagator and see how we can get the above energies
 
 ε₁, ε₂
 
-## as ‘quasi par-
+as ‘quasi par-
 
 ticle’ energies from the poles of the propagator.
 
-## This requires that we first
+# This requires that we first
 
 obtain the perturbation series for the propagator analogous to the series
 
 21) for the classical case.
 
-### We will get this series by the same
+# We will get this series by the same
 
 sort of physically intuitive argument used in the classical case.
 
-## (The rigorous
+(The rigorous
 
 mathematical way of getting the perturbation series is outlined in §3.
 
 According to the instructions in the definition of the propagator
 
-## at time t₁
+at time t₁
 
 a particle is introduced into the (in this case
 
-### initially empty) system in state
+initially empty) system in state
 
-## --- Page 61 ---
+--- Page 61 ---
 
-## 2] QUANTUM QUASI PARTICLES 45
+2] QUANTUM QUASI PARTICLES 45
 
-## ψ(t) = 2^{-3/2} exp(ik₁·r)
+ψ(t) = 2^{-3/2} exp(ik₁·r)
 
-### and propagates through the system
+and propagates through the system
 
-## being scattered
+being scattered
 
 zero, one or more times by the external potentials
 
@@ -3604,31 +3604,31 @@ V₁ = M p² or V₂ = L p².
 
 By definition (3.
 
-## 2) the propagator iG*(k₂
+2) the propagator iG*(k₂
 
 k₁, t₂ – t₁) is just the probability
 
 amplitude that the particle will be in the state ψ₂(r) = 2^{-3/2} exp(ik₂·r) at time t₂.
 
-### Analogous to the classical case
+# Analogous to the classical case
 
 this amplitude iG* is just the sum of the prob-
 
 ability amplitudes for all the different ways the particle can go through the
 
-## system
+system
 
 beginning in state ψ₁ and winding up in state ψ₂.
 
-## For example
+# For example
 
 the simplest way the particle can propagate through the
 
 system is freely, without interaction.
 
-### The probability amplitude for this is
+# The probability amplitude for this is
 
-### just the free propagator iG⁰(k₂
+just the free propagator iG⁰(k₂
 
 k₁, t₂ – t₁) as in (3.
 
@@ -3636,31 +3636,31 @@ k₁, t₂ – t₁) as in (3.
 
 10).
 
-## Another way
+# Another way
 
 V, then continue freely in ψ₂ until time t₂.
 
-### (It may seem peculiar to say that
+(It may seem peculiar to say that
 
 the particle is scattered by the potential V at time t₁
 
-## or to say that the
+or to say that the
 
 particle is scattered several times by the potential
 
-## when the potential is
+when the potential is
 
 actually there the whole time.
 
-## However
+# However
 
-### this is just a result of the fact that
+this is just a result of the fact that
 
 what we are doing in such a perturbation expansion is to decompose the total
 
-### propagator into primitive components
+propagator into primitive components
 
-### each component being an instan-
+each component being an instan-
 
 taneous scattering by the potential.
 
@@ -3672,9 +3672,9 @@ shown in (3.
 
 30), thus ‘putting the propagator back together again’.
 
-## ) The amplitude
+) The amplitude
 
-## for this second way will be
+for this second way will be
 
 by analogy with the classical pinball case
 
@@ -3694,31 +3694,31 @@ just as in the classical pinball case.
 
 The first of these independent processes
 
-### free propagation from t₁ to t₁₁
+free propagation from t₁ to t₁₁
 
 be obtained from ordinary time-dependent perturbation theory as follows
 
 Let cₙ be the probability amplitude that at time t a system is in state n.
 
-## Then at later time
+# Then at later time
 
 t, the time rate of change of any particular cₙ
 
-## say c₂
+say c₂
 
-## under the
+under the
 
-## influence of perturbation V
+influence of perturbation V
 
-## is given by
+is given by
 
 ċ₂(t) = –i Σₙ cₙ(t) Vₙ₂ exp(–i(Eₙ – E₂)t) (3.
 
 where Vₙ₂ is the matrix element of V between states n
 
-## 2 (see
+2 (see
 
-## for example
+for example
 
 Dicke (1960), Eq.
 
@@ -3730,69 +3730,69 @@ time t₁ the system is definitely in state 1
 
 so cₙ = δₙ₁.
 
-## The perturbation
+# The perturbation
 
 V = V₁₂.
 
 Hence the probability amplitude per unit time that the system under-
 
-## --- Page 62 ---
+--- Page 62 ---
 
-### 46 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
+46 A GUIDE TO FEYNMAN DIAGRAMS (3.2)
 
 goes a transition from ψ₁ to ψ₂ at time t₁ (i.e.
 
-## t here is also equal to
+t here is also equal to
 
-## t₁) is
+t₁) is
 
-## The δₖ₂
+The δₖ₂
 
 ₖ₁ shows that the process here conserves momentum so that the particle
 
 still has the same momentum after scattering.
 
-## The amplitude for the last
+# The amplitude for the last
 
 process is iG⁰(k₂, t₂ – t₁).
 
 Hence the total amplitude is the product
 
-## Probability
+# Probability
 
-## We have integrated over t₁₁
+We have integrated over t₁₁
 
 since the collision with V could have occurred
 
 10)) automatically restricts the region of integration to t₁ < t₁₁ < t₂.
 
-## Similarly
+# Similarly
 
-### there can be an interaction with V₂
+there can be an interaction with V₂
 
-## described by the matrix
+described by the matrix
 
-## element
+element
 
 V₂ = –i L k² δ(k₂ – k₁) (3.
 
 which also conserves momentum.
 
-### There are also second- and higher-order
+# There are also second- and higher-order
 
 processes in which the particle collides with V₁ and V₂ any number of times.
 
 This gives us the series expansion for the propagator (set k₂ = k₁ = k because
 
-### of conservation of momentum here)
+of conservation of momentum here)
 
-## after cancelling the i’s
+after cancelling the i’s
 
-## --- Page 63 ---
+--- Page 63 ---
 
-## 2] QUANTUM QUASI PARTICLES 47
+2] QUANTUM QUASI PARTICLES 47
 
-### Just as in the classical pinball case
+# Just as in the classical pinball case
 
 the integrals in the above series may be
 
@@ -3806,7 +3806,7 @@ We now pull the same trick used in the classical case and make a dictionary
 
 to translate the above series into diagrams.
 
-## The primitive diagrams are in
+# The primitive diagrams are in
 
 Table 3.
 
@@ -3814,7 +3814,7 @@ Compare this with Table 2.
 
 2, which is in (r
 
-## t)-space
+t)-space
 
 and Table 2.
 
@@ -3824,9 +3824,9 @@ in (r, ω)-space.
 
 30), (3.
 
-### 31) could also be written out in (r
+31) could also be written out in (r
 
-## t)- and
+t)- and
 
 (r, ω)-space but in the present case this would not be very useful.
 
@@ -3836,19 +3836,19 @@ Table 3.
 
 (k, t)-space (k, ω)-space
 
-## Word Diagram Word Diagram
+# Word Diagram Word Diagram
 
 k,t k,ω
 
-## E 1
+# E 1
 
 iG⁰(k, t) { —— } iG⁰(k, ω) = 1/(ω – ε_k)
 
-## ~iV₁ { × } ~iV₁ ~iV₁
+~iV₁ { × } ~iV₁ ~iV₁
 
-## ~iV₂ { × } ~iV₂ ~iV₂
+~iV₂ { × } ~iV₂ ~iV₂
 
-## 1 1
+1 1
 
 With this dictionary it is easy to write out the series of diagrams corre-
 
@@ -3864,9 +3864,9 @@ k,k k,k k,k
 
 , (3.
 
-## → → →
+→ → →
 
-## @ +
+@ +
 
 where the lines may be labelled with t’s to give (3.
 
@@ -3874,21 +3874,21 @@ where the lines may be labelled with t’s to give (3.
 
 31).
 
-## This is
+# This is
 
-## — δ → 0
+— δ → 0
 
 Hence we need to find the real and imaginary parts of Σ(k
 
-## To do this
+# To do this
 
-### we imagine δ is finite to start with
+we imagine δ is finite to start with
 
 then take the limit δ → 0.
 
 Multiplying numerator and denominator of the integrand of Σ in (3.
 
-## 69) by
+69) by
 
 ω−ε−iδ we find for the real and imaginary parts of Σ(k
 
@@ -3902,7 +3902,7 @@ is a principal part by illustrating with a simple case
 
 the function 1/x.
 
-## Using
+# Using
 
 the usual definition:
 
@@ -3924,7 +3924,7 @@ The results (3.
 
 (see, e.g.
 
-## Dennery and
+# Dennery and
 
 Krzywicki (1967), p.
 
@@ -3932,17 +3932,17 @@ Krzywicki (1967), p.
 
 1/(x+iδ) = P (1/x) − iπ δ(x) (3.
 
-## which is short for
+which is short for
 
 This can be applied in the present case by noting that the integral in (3.
 
-## 69) may
+69) may
 
-### be written in the general form
+be written in the general form
 
 dq = d³q sinθ dθ dφ .
 
-## where r
+where r
 
 θ, φ are the polar coordinates of q and the dots … refer to all the other
 
@@ -3950,15 +3950,15 @@ variables.
 
 Only the r-variable is relevant here.
 
-### If we let x = r(q) so q = r⁻¹(x)
+If we let x = r(q) so q = r⁻¹(x)
 
-### then dq may be written in terms of x
+then dq may be written in terms of x
 
 allowing (3.
 
 76') to be used.
 
-## Transforming
+# Transforming
 
 back to q again after this is done yields
 
@@ -3990,27 +3990,27 @@ Equation (3.
 
 78) is what comes out of applying the ‘golden rule’ for
 
-## transition probabilities
+transition probabilities
 
 i.e., 1/τ is just the transition probability/sec for the
 
-### electron to jump from state k to q
+electron to jump from state k to q
 
 |W|², integrated over all final states q
 
 subject to conservation of energy as expressed by the δ-function.
 
-## (For a
+(For a
 
 review of electrons in disordered systems see Leath (1970).
 
-## The method above
+# The method above
 
 is applied to the case where the impurity distribution is not completely random
 
 but has ‘short-range order’ by Woolley and Mattuck (1972).
 
-## Further Reading
+# Further Reading
 
 Feynman (1965), chap.
 
@@ -4020,11 +4020,11 @@ Feynman (1962), p.
 
 168, §2.
 
-## --- Page 79 ---
+--- Page 79 ---
 
-## 5) QUANTUM QUASI PARTICLES 63
+5) QUANTUM QUASI PARTICLES 63
 
-## Exercises
+# Exercises
 
 1 Consider a one-dimensional system with an unperturbed Hamiltonian such that
 
@@ -4036,7 +4036,7 @@ i.e., U(x)=0
 
 for 0<x<a and U(x)=∞ for x<0, x >a.
 
-### What are the eigenstates ψ_n(x) and
+What are the eigenstates ψ_n(x) and
 
 energies ε_n for this system?
 
@@ -4044,7 +4044,7 @@ Write out the free propagator and its Fourier
 
 transform for this system.
 
-## 2 The system in Ex.
+2 The system in Ex.
 
 1 is acted on by a hypothetical external perturbing potential
 
@@ -4052,7 +4052,7 @@ V(x) = Bx (p²/2m+ U(x))?
 
 , where U(x) is defined in Ex.
 
-## Calculate the
+# Calculate the
 
 transition amplitude from single particle eigenstate ψ_m(x) (calculated in Ex.
 
@@ -4074,13 +4074,13 @@ system?
 
 5 Carry out the Fourier transform of the first-order terms in (3.
 
-## 30) and show
+30) and show
 
 that you get the corresponding terms in (3.
 
 31).
 
-## 6 Use (3.
+6 Use (3.
 
 53) to verify that G^t satisfies the equation of the Green's function (3.
 
@@ -4088,7 +4088,7 @@ that you get the corresponding terms in (3.
 
 7 We have a random distribution of ions with a potential such that u = Wδ(r)
 
-## where W = ∫ dq/(2π)³ V(q)
+where W = ∫ dq/(2π)³ V(q)
 
 f_q = 1 for |q| < a and f_q = 0 for |q| > a.
 
@@ -4096,19 +4096,19 @@ Show that the energy and reciprocal lifetime of an electron propagating in this 
 
 ΔE = -(N W² m a³)/(2π k) [1 - (sin(2ka) - 2ka cos(2ka))/(2k)³]?
 
-### 1/τ = (N W² m a³)/(k) for k > a
+1/τ = (N W² m a³)/(k) for k > a
 
-## where k = |k|
+where k = |k|
 
-## and
+and
 
 ΔE = -(N W² m)/(2π) (4a² - k²)/2 for k < a
 
-## 1/τ = 0 for k < a
+1/τ = 0 for k < a
 
 What is the effective mass in the limit k ≪ a?
 
-## 8 Write (3.
+8 Write (3.
 
 36') with lines labelled in (k, ω)-space.
 
@@ -4116,7 +4116,7 @@ What is the effective mass in the limit k ≪ a?
 
 15).
 
-## ) Translate
+) Translate
 
 into functions and show that you get an integral equation of form (3.
 
@@ -4124,13 +4124,13 @@ into functions and show that you get an integral equation of form (3.
 
 9 Consider the fourth-order diagram (drawn on its side to save space)
 
-## +O2-O-O-O-—
++O2-O-O-O-—
 
 where j ≠ i.
 
-## Calculate its average value
+# Calculate its average value
 
-## using the same technique as
+using the same technique as
 
 e.g., in
 
@@ -4142,17 +4142,17 @@ Show that this is the same result as you get from applying
 
 Table 3.
 
-## 2 to the last diagram in (3.
+2 to the last diagram in (3.
 
 66).
 
-## --- Page 80 ---
+--- Page 80 ---
 
-## Chapter 4
+# Chapter 4
 
-### Quasi Particles in Fermi Systems
+# Quasi Particles in Fermi Systems
 
-### 4.1 Propagator method in many-body systems
+# 4.1 Propagator method in many-body systems
 
 We have thus far defined the quantum Green’s function propagator for
 
@@ -4160,7 +4160,7 @@ t > t', shown what it looks like for free and quasi particles, and evaluated it
 
 by partial summation for the case of a single particle in an external potential.
 
-## In this chapter
+# In this chapter
 
 the technique will be generalized to many-body systems.
 
@@ -4168,11 +4168,11 @@ The starting point will be a system consisting of N non-interacting fermions
 
 in an external field.
 
-### This is really a fake many-body system
+# This is really a fake many-body system
 
-## ‘since
+‘since
 
-## pointed out in chapter 0
+pointed out in chapter 0
 
 if there are no mutual interactions between particles
 
@@ -4186,9 +4186,9 @@ First, it
 
 shows us how to describe Fermi systems very simply in terms of a few particles
 
-## above the Fermi level
+above the Fermi level
 
-## and a few removed particles
+and a few removed particles
 
 or ‘holes’ below.
 
@@ -4200,11 +4200,11 @@ i.e., ‘occu-
 
 pation number formalism’ or ‘second quantization’.
 
-## We won't really start
+# We won't really start
 
 talking this language until the second half of the book
 
-## but it helps to learn
+but it helps to learn
 
 some of the easier words in it now.
 
@@ -4212,41 +4212,41 @@ Finally, it shows us how to extend the
 
 definition of the propagator to the case where t' > t.
 
-## This is the time domain
+# This is the time domain
 
 where we have the apparent paradox that the particle is observed in the
 
 system before it is put in!
 
-## In this case
+# In this case
 
-### the Green’s function turns out to
+the Green’s function turns out to
 
 describe the propagation of removed particles
 
-## or ‘holes’
+or ‘holes’
 
-## which are repre-
+which are repre-
 
 sented diagrammatically by a downward-going arrow ↓.
 
 As an illustration of a real many-body system
 
-## we will take a Fermi system
+we will take a Fermi system
 
 with interaction between each pair of particles (no external potential).
 
 Examples of such systems are N electrons or nucleons in a macroscopic box.
 
-### By introducing a special diagram
+# By introducing a special diagram
 
-### ~~ for the two-body interaction
+~~ for the two-body interaction
 
-## it is
+it is
 
 again possible to represent the propagator for this case as an infinite series of
 
-## diagrams
+diagrams
 
 which may be evaluated approximately by partial summation.
 
@@ -4256,23 +4256,23 @@ The Hartree and Hartree-Fock are the crudest of the approximations and
 
 yield quasi particles with infinite lifetimes.
 
-## The RPA yields the energy and
+# The RPA yields the energy and
 
 lifetime of quasi particles in a high-density electron gas
 
-## while the ladder
+while the ladder
 
 approximation is good for low-density systems like nuclear matter.
 
-## Only the
+# Only the
 
 Hartree and Hartree-Fock will be discussed in detail in this chapter
 
 latter two are in chapter 10.
 
-## --- Page 81 ---
+--- Page 81 ---
 
-### 2) QUASI PARTICLES IN FERMI SYSTEMS 65
+2) QUASI PARTICLES IN FERMI SYSTEMS 65
 
 Table 4.
 
@@ -4280,29 +4280,29 @@ Some important partial sum approximations
 
 Types of diagrams summed over Name of approximation
 
-## Bubbles Hartree
+# Bubbles Hartree
 
-### Bubbles and open oysters Hartree-Fock
+# Bubbles and open oysters Hartree-Fock
 
 Rings Random phase approx.
 
-## (RPA)
+(RPA)
 
-## Ladders Ladder approximation
+# Ladders Ladder approximation
 
 Non-interacting Fermi system in external potential
 
-## particle-hole picture
+particle-hole picture
 
 Let us first talk about the particle-hole way of describing Fermi systems.
 
 Suppose we have a single particle in a potential U(r)
 
-## with energy eigenstates
+with energy eigenstates
 
 ψ_k(r) and energies given by (3.
 
-### 4) (see note on notation after
+4) (see note on notation after
 
 The energy levels may be represented as in Fig.
 
@@ -4310,41 +4310,41 @@ The energy levels may be represented as in Fig.
 
 The ground state of the single particle has energy ε.
 
-## If we now put N-1
+# If we now put N-1
 
 other particles into the system (with no mutual interaction)
 
-## as for example
+as for example
 
 when filling up atomic energy levels with electrons
 
-## we find that by the Pauli
+we find that by the Pauli
 
 principle there can be no more than one particle in each state.
 
-## The lowest
+# The lowest
 
 energy for the whole system will occur when each state is filled in turn
 
-## starting
+starting
 
 from the bottom, as shown in Fig.
 
 1(a) for the case N=5.
 
-## The highest filled
+# The highest filled
 
 single-particle level is called the Fermi level
 
 and has energy ε_F.
 
-## In the case where U(r) = 0
+In the case where U(r) = 0
 
-## the particles are free
+the particles are free
 
-## and the k-subscript means
+and the k-subscript means
 
-## momentum
+momentum
 
 or, more precisely
 
@@ -4354,7 +4354,7 @@ Then, in the ground state, the
 
 free particles fill a sphere in k-space having radius k_F = √(2mε_F)
 
-## where k_F
+where k_F
 
 is called the Fermi momentum.
 
@@ -4368,13 +4368,13 @@ three indices (we are neglecting spin for simplicity) which in general can no
 
 longer be interpreted as momentum components.
 
-## The Fermi surface is then
+# The Fermi surface is then
 
 no longer spherical and k_F becomes the vector k_F.
 
-## (Any reader unfamiliar
+(Any reader unfamiliar
 
-### with the above should see Raimes (1961)
+with the above should see Raimes (1961)
 
 chap.
 
@@ -4382,13 +4382,13 @@ The various excited states of the system are formed by removing a particle
 
 from a state below the Fermi level and placing it in a state above
 
-## as shown for
+as shown for
 
 example in Fig.
 
 1(b).
 
-## The empty state
+# The empty state
 
 e.g., the state ψ_5 in Fig.
 
@@ -4402,7 +4402,7 @@ except that here it is in ‘p’-space instead of real space.
 
 To avoid the strain of drawing all the particles which were not transferred
 
-## in forming the excited state
+in forming the excited state
 
 it is convenient to refer everything to the ground
 
@@ -4412,59 +4412,59 @@ state, Fig.
 
 To draw this,
 
-## --- Page 82 ---
+--- Page 82 ---
 
-### 66 A GUIDE TO FEYNMAN DIAGRAMS [4.2]
+66 A GUIDE TO FEYNMAN DIAGRAMS [4.2]
 
 we remove the filled Fermi sea from the picture
 
 yielding Figs.
 
-## 1(c) and
+1(c) and
 
 1(d).
 
 This is called ‘particle-hole description’.
 
-## Note that the Fermi sea is
+# Note that the Fermi sea is
 
 physically still present—it has only been removed from the drawing of the
 
 system.
 
-## —O— o— —o—
+—O— o— —o—
 
-## 7 — — —
+7 — — —
 
 ψ_5 ————.
 
-## — — — — — — — —
+— — — — — — — —
 
 '{I『曰″】一.
 
 _【鏖……J摩_.
 
-## _{′辜 — — — — — — — c_F
+_{′辜 — — — — — — — c_F
 
-## ψ_5 —@— —o— — — — — — — — L
+ψ_5 —@— —o— — — — — — — — L
 
-## ψ_3 —@— — — — 6 — — — G —
+ψ_3 —@— — — — 6 — — — G —
 
-## ψ_2 — o — — e — — — - —
+ψ_2 — o — — e — — — - —
 
 ψ_1 — * — t!
 
-## ˇ — o - — -
+ˇ — o - — -
 
 (a) Ground (b) Excited (c) Ground (d) Excited
 
-## State State state State
+# State State state State
 
 Ordinary picture In particle-hole picture
 
 Fig.
 
-### 1 Non-interacting Fermi System
+1 Non-interacting Fermi System
 
 Observe that the ‘hole’ in Fig.
 
@@ -4474,21 +4474,21 @@ Observe that the ‘hole’ in Fig.
 
 since a Fermi sea particle has been removed from the empty state in ψ_1
 
-## in order
+in order
 
 to produce this new type of hole.
 
 That is, the hole in Fig.
 
-## 1(d) is a ‘minus
+1(d) is a ‘minus
 
 particle’ or ‘anti-particle’ rather than just an ‘empty place’.
 
-## Thus it is
+# Thus it is
 
 analogous to a ‘positron’ in Dirac’s electron theory.
 
-## This new type of hole can
+# This new type of hole can
 
 also be defined in position space instead of ‘p’-space if we imagine that in
 
@@ -4496,7 +4496,7 @@ Fig.
 
 10, the undisturbed electron gas (coloured grey) is removed from the
 
-## entire figure
+entire figure
 
 including the empty places (coloured white) where the old holes
 
@@ -4506,7 +4506,7 @@ Thus, each of the empty places will now be coloured ‘minus grey’
 
 (evidently a job for the surrealist painter Salvador Dali !
 
-## ) which indicates the
+) which indicates the
 
 presence of an anti-particle.
 
@@ -4514,35 +4514,35 @@ Note that ‘particles’ in the new sense exist only above the Fermi surface.
 
 In cases where there is a possibility of confusion
 
-## we will distinguish between
+we will distinguish between
 
 ‘particle-hole’ type particles and ordinary particles by writing the ‘p’ in
 
 italics, thus:
 
-## *particle*
+*particle*
 
 particle in particle-hole sense.
 
-## Exists only above Fermi
+# Exists only above Fermi
 
 surface.
 
 *particle*: ordinary particle.
 
-## Exists above and below Fermi
+# Exists above and below Fermi
 
 surface.
 
-## --- Page 83 ---
+--- Page 83 ---
 
-### 3] QUASI PARTICLES IN FERMI SYSTEMS 67
+3] QUASI PARTICLES IN FERMI SYSTEMS 67
 
 Since a hole in state ψ is actually removal of a particle from the system
 
 the hole represents energy ε removed.
 
-### Hence the hole energy is negative
+# Hence the hole energy is negative
 
 and we have:
 
@@ -4552,15 +4552,15 @@ The shape of the hole wave function in space will be exactly the same as the
 
 shape of the wave function of the removed particle.
 
-## This is analogous to
+# This is analogous to
 
 removing a single piece from a completed jig-saw puzzle
 
-## the ‘hole’ thus
+the ‘hole’ thus
 
 created in the puzzle has exactly the same shape as the removed piece.
 
-## Thus
+# Thus
 
 the time-dependent wave function for a hole in state ψ is (see §7.
 
@@ -4572,17 +4572,17 @@ the time-dependent wave function for a hole in state ψ is (see §7.
 
 If we now associate the sign change in the ψ
 
-### t term with the t instead of the t
+t term with the t instead of the t
 
 the hole may be viewed as a particle moving backward in time.
 
-## This should
+# This should
 
 not be regarded as theoretical grounds for constructing a time machine
 
 simply as a convenient mode of description.
 
-## It was originated by Feynman
+# It was originated by Feynman
 
 in his theory of positrons.
 
@@ -4604,7 +4604,7 @@ The details are in chapter 7.
 
 The total wave function for the ground and excited states of a system of
 
-## non-interacting particles is
+non-interacting particles is
 
 (see appendix A.
 
@@ -4612,15 +4612,15 @@ The total wave function for the ground and excited states of a system of
 
 particle wave functions.
 
-## However
+# However
 
-### because we are dealing with identical
+because we are dealing with identical
 
-## fermions
+fermions
 
 this product must be antisymmetrized and the proper wave function
 
-## is the Slater determinant
+is the Slater determinant
 
 ψ(1, 2, .
 
@@ -4630,27 +4630,27 @@ this product must be antisymmetrized and the proper wave function
 
 , ψ_k(N)|
 
-## ... ...
+... ...
 
-## ... ... (4.4)
+... ... (4.4)
 
-## ... ...
+... ...
 
-## ... ...
+... ...
 
 where the ψ_k are the single-particle states of (3.
 
-## If the particles are allowed
+# If the particles are allowed
 
-## to interact with each other
+to interact with each other
 
 or with an external perturbing potential
 
-## then the
+then the
 
 exact wave functions of the system are no longer (4.
 
-## 4) but a linear combination
+4) but a linear combination
 
 of such states:
 
@@ -4664,11 +4664,11 @@ kN}(r_1, .
 
 , r_N) + B.
 
-## --- Page 84 ---
+--- Page 84 ---
 
-### 68 A GUIDE TO FEYNMAN DIAGRAMS [4.3]
+68 A GUIDE TO FEYNMAN DIAGRAMS [4.3]
 
-## That is
+# That is
 
 the ψ for the non-interacting system are the basis states used
 
@@ -4676,25 +4676,25 @@ to describe the interacting system.
 
 Now these are rather clumsy expressions to carry around
 
-## so it would be
+so it would be
 
 desirable to have a more compact way of writing them.
 
-## This may be gotten
+# This may be gotten
 
 by noting that since all particles are indistinguishable
 
-## the essential informa-
+the essential informa-
 
 tion in (4.
 
 4) is just how many particles there are in each single-particle state.
 
-## Therefore
+# Therefore
 
 we could equally well specify the state of the non-interacting system
 
-## by writing Ψ as
+by writing Ψ as
 
 For short, we shall represent this as
 
@@ -4704,11 +4704,11 @@ n_{ψp} .
 
 > (4.
 
-## meaning
+meaning
 
-## n_{ψ1} particles in state ψ1
+n_{ψ1} particles in state ψ1
 
-## n_{ψ2} in ψ2
+n_{ψ2} in ψ2
 
 etc., where n_ψ=0 or 1 by the
 
@@ -4716,15 +4716,15 @@ Pauli principle.
 
 This is called ‘occupation number notation’.
 
-## It is similar
+# It is similar
 
-### to the shell notation for atoms
+to the shell notation for atoms
 
 where (1s)^2(2s)^2(2p)^4 means two electrons in
 
 the 1s state (one in the spin up and one in the spin down state)
 
-## two in the
+two in the
 
 2s state, etc.
 
@@ -4734,15 +4734,15 @@ For the ground state in Fig.
 
 The excited state in Fig.
 
-## 1(b) is
+1(b) is
 
-## For brevity
+# For brevity
 
 from now on we will drop the ψ’s and just use the numerical
 
 subscripts.
 
-## Then
+# Then
 
 |Ψ> = |n_1 n_2 .
 
@@ -4750,7 +4750,7 @@ n_p .
 
 For example, (4.
 
-## 7) becomes
+7) becomes
 
 |Ψ_0> = |1, 1, 1, 1, 1, 0, 0, 0, .
 
@@ -4758,9 +4758,9 @@ It is important to note that just as the original Slater determinants form a
 
 complete orthogonal set of basis functions
 
-### so do the states in occupation
+so do the states in occupation
 
-## number notation and we have
+number notation and we have
 
 <n_1' n_2' .
 
@@ -4770,15 +4770,15 @@ complete orthogonal set of basis functions
 
 = ∏_i δ_{n_i' n_i} (4.
 
-## --- Page 85 ---
+--- Page 85 ---
 
-### 3] QUASI PARTICLES IN FERMI SYSTEMS 69
+3] QUASI PARTICLES IN FERMI SYSTEMS 69
 
 Just as in (4.
 
 5), the |n_1, n_2, .
 
-### > may be used as the basis states for
+> may be used as the basis states for
 
 describing the interacting system's wave function thus:
 
@@ -4786,11 +4786,11 @@ describing the interacting system's wave function thus:
 
 } |n_1 n_2 .
 
-## Now in most cases of interest
+# Now in most cases of interest
 
 only a few of the particles change theirposition from that in the ground state
 
-### since we deal primarily with only
+since we deal primarily with only
 
 weakly excited states.
 
@@ -4822,13 +4822,13 @@ corresponding to Fig.
 
 The excited state of Fig.
 
-## 1(b) according to this
+1(b) according to this
 
 viewpoint is a particle (see (4.
 
-## ) above ε_F and a hole below
+) above ε_F and a hole below
 
-## as shown in
+as shown in
 
 Fig.
 
@@ -4848,9 +4848,9 @@ Imagine that we have initially a single-particle system in its
 
 lowest energy eigenstate ϕ₁(r) (=ϕ_{n₁}(r)).
 
-## In occupation number notation
+# In occupation number notation
 
-## this is
+this is
 
 Φ_{init} = |1> = |1000.
 
@@ -4858,7 +4858,7 @@ If the system is now acted on by some perturbing operator V(r
 
 p), it may
 
-## undergo a transition
+undergo a transition
 
 say, to state Φ so that
 
@@ -4866,11 +4866,11 @@ say, to state Φ so that
 
 Thus, when written in this formalism
 
-### the effect of the operator V appears as
+the effect of the operator V appears as
 
 the destruction of a particle in ϕ₁ and the creation of a particle in ϕ₃.
 
-## This
+# This
 
 suggests that if we define two primitive operators—c₁ (which is short for ϕ₁)
 
@@ -4906,7 +4906,7 @@ c_j† | .
 
 where the factors in front mean that c_j cannot destroy a particle in ϕ_j if there
 
-### is no particle there to start with
+is no particle there to start with
 
 and c_j† cannot create another particle in an
 
@@ -4924,7 +4924,7 @@ c_3 |11111000.
 
 c_1 |0000.
 
-## ) = 0
+) = 0
 
 c_n |00.
 
@@ -4932,7 +4932,7 @@ c_n |00.
 
 c_1 |11111000.
 
-## > = 0
+> = 0
 
 c_1† |00.
 
@@ -4948,85 +4948,85 @@ c_n† |00.
 
 ) (4.
 
-## In the particle-hole notation
+# In the particle-hole notation
 
 it is necessary to introduce hole creation and
 
-## destruction operators
+destruction operators
 
 b_i, b_i
 
-### and similarly particle operators a_i†
+and similarly particle operators a_i†
 
 a_i, as follows
 
-## if k_i < k_F
+if k_i < k_F
 
 then c_i† creates a particle under the Fermi level
 
 thus creating a hole.
 
-## Hence
+# Hence
 
-## for k_i > k_F
+for k_i > k_F
 
 c_i = a_i (particle destruction operator)
 
-## for k_i < k_F
+for k_i < k_F
 
-### c_i = b_i† (hole creation operator)
+c_i = b_i† (hole creation operator)
 
-## and
+and
 
-## for k_i > k_F
+for k_i > k_F
 
 c_i† = a_i† (particle creation operator)
 
-## for k_i < k_F
+for k_i < k_F
 
 c_i† = b_i (hole destruction operator).
 
 This change to particle-hole operators may be expressed compactly as the
 
-## transformation
+transformation
 
-### c_i = θ_i a_i + (1 - θ_i) b_i†
+c_i = θ_i a_i + (1 - θ_i) b_i†
 
 c_i† = θ_i a_i† + (1 - θ_i) b_i (4.
 
-## where
+where
 
-## θ_i = 1 for k_i > 0
+θ_i = 1 for k_i > 0
 
 θ_i = 0 for k_i < 0.
 
 Simple examples of how the particle-hole operators work are
 
-## a_1 |0> = |1>
+a_1 |0> = |1>
 
-## a_1 |1> = 0
+a_1 |1> = 0
 
-## b_2 |12> = |1>
+b_2 |12> = |1>
 
-## b_2 |1> = |10>
+b_2 |1> = |10>
 
 a_1 |1> = 0, b_2 |0> = |2>,
 
 c_1 |1> = 0, c_1† |> = 0.
 
-## --- Page 87 ---
+--- Page 87 ---
 
-### 3) QUASI PARTICLES IN FERMI SYSTEMS 71
+3) QUASI PARTICLES IN FERMI SYSTEMS 71
 
 In order to express other operators in terms of the c’s (or a’s and b’s)
 
-## it is
+it is
 
-## simply required that
+simply required that
 
 if O_old is the operator in the old notation
 
-## and O_new is
+and O_new is
 
 the same operator in the occupation number (or particle-hole) formalism
 
@@ -5040,7 +5040,7 @@ Consider first a one-particle case,
 
 where the Slater determinant is just ϕ_r.
 
-## Then we must have
+# Then we must have
 
 <00.
 
@@ -5070,7 +5070,7 @@ does the trick, since
 
 0_n.
 
-## 0> δ_{mn}
+0> δ_{mn}
 
 = η_m δ_{mn} <00.
 
@@ -5090,13 +5090,13 @@ where (4.
 
 Equation (4.
 
-## 22) can be converted to
+22) can be converted to
 
 particle-hole formalism by (4.
 
 18).
 
-### This result turns out to hold also for
+# This result turns out to hold also for
 
 systems with an arbitrary number of particles.
 
@@ -5104,7 +5104,7 @@ The Hamiltonian for an arbitrary system may be expressed in occupation
 
 number or particle-hole formalism.
 
-### Suppose the system Hamiltonian in old
+# Suppose the system Hamiltonian in old
 
 Neanderthal notation describes a system in an external perturbing potential
 
@@ -5112,7 +5112,7 @@ H_{old} = Σ_i [Z_i + V(r_i)] + Σ_{i<j} U(r_i
 
 r_j) (4.
 
-## H_0 H_1 (perturbation)
+H_0 H_1 (perturbation)
 
 and the single-particle states ϕ_k satisfy
 
@@ -5122,41 +5122,41 @@ Then it is found that (see chapter 7):
 
 H_0 = Σ_{k>k_F} ε_k a_k† a_k + Σ_{k<k_F} ε_k b_k b_k†
 
-## H_1 = Σ_{k
+H_1 = Σ_{k
 
-## m>k_F} V_{km} a_k† a_m + Σ_{k
+m>k_F} V_{km} a_k† a_m + Σ_{k
 
-## m<k_F} V_{km} b_k b_m† +
+m<k_F} V_{km} b_k b_m† +
 
-## Σ_{k>k_F
+Σ_{k>k_F
 
-### m<k_F} V_{km} a_k† b_m† + Σ_{k<k_F
+m<k_F} V_{km} a_k† b_m† + Σ_{k<k_F
 
-## m>k_F} V_{km} b_k a_m
+m>k_F} V_{km} b_k a_m
 
-## = Σ_{k
+= Σ_{k
 
-## m} V_{km} a_k† a_m + Σ_{k
+m} V_{km} a_k† a_m + Σ_{k
 
 m} V_{km} b_k b_m†.
 
-## --- Page 88 ---
+--- Page 88 ---
 
-### 72 A GUIDE TO FEYNMAN DIAGRAMS (4.4
+72 A GUIDE TO FEYNMAN DIAGRAMS (4.4
 
 For a system of mutually interacting particles with old Hamiltonian
 
-## H_{old} = Σ_i H_{0
+H_{old} = Σ_i H_{0
 
-## i} + Σ_{i<j} V(r_i
+i} + Σ_{i<j} V(r_i
 
 r_j) (4.
 
-## H_0 V (perturbation)
+H_0 V (perturbation)
 
-## we find
+we find
 
-## H_1 = Σ_{k
+H_1 = Σ_{k
 
 m,n>p>k_F} V_{kmnp} a_k† a_m† a_n a_p + Σ_{k
 
@@ -5174,7 +5174,7 @@ with V_{klmn} as defined in (4.
 
 It should be carefully remembered that in the case of systems with inter-
 
-## action
+action
 
 the wave functions are given by the linear combination (4.
 
@@ -5188,21 +5188,21 @@ time differences, i.e., for t_2 > t_1.
 
 This was adequate for solving the super-
 
-### simple quantum pinball problem
+simple quantum pinball problem
 
-### but fails when we try to use it on more
+but fails when we try to use it on more
 
 complicated cases.
 
-### To treat the general situation
+# To treat the general situation
 
-## it is necessary to extend
+it is necessary to extend
 
 the definition to times t_1 < t_2.
 
-### This of course sounds peculiar
+# This of course sounds peculiar
 
-## since it seems
+since it seems
 
 to describe a particle propagating backward in time.
 
@@ -5220,9 +5220,9 @@ in time from t_1 to t_2 (t_2 < t_1) is just a hole moving forward in time from t
 
 to t_1.
 
-### This leads us to the definition
+# This leads us to the definition
 
-## G^{-}(k_1
+G^{-}(k_1
 
 k_2, t_1 - t_2) = -G(k_1
 
@@ -5230,17 +5230,17 @@ k_2, t_1 - t_2)
 
 = (-1) x probability amplitude that if at time t_2 we
 
-### remove a particle in state ϕ_{k_1}
+remove a particle in state ϕ_{k_1}
 
 from (i.e.
 
-## we add a hole in ϕ_{k_1}
+we add a hole in ϕ_{k_1}
 
-## to) the interacting
+to) the interacting
 
-## system in its ground state
+system in its ground state
 
-## then at time t_1
+then at time t_1
 
 the system will be in its ground state with
 
@@ -5258,63 +5258,63 @@ Analogous to (3.
 
 Thus, G^- is just the hole propagator.
 
-### (The factor of (-1) here compared
+(The factor of (-1) here compared
 
 with (3.
 
 1) comes because we have fermions—see chapter 9
 
-## Note that G^-
+Note that G^-
 
 is called an ‘advanced’ propagator or Green’s function.
 
-## --- Page 89 ---
+--- Page 89 ---
 
-### 4) QUASI PARTICLES IN FERMI SYSTEMS 73
+4) QUASI PARTICLES IN FERMI SYSTEMS 73
 
 The use of the word hole in the sense of ‘removed particle’ is more general
 
 than the way it was used in §4.
 
-### There we dealt with the non-interacting
+# There we dealt with the non-interacting
 
-## system
+system
 
 so a particle could be removed only from k < k_F
 
-## and therefore all
+and therefore all
 
 holes had k < k_F.
 
-## However
+# However
 
 in the ground state of the interacting system
 
 11) there is a finite probability of finding particles above k_F.
 
-## Hence we
+# Hence we
 
 can remove a particle or create a hole (in this more general sense) above
 
 k_F.
 
-### If the ‘hole propagator’ G^- is
+If the ‘hole propagator’ G^- is
 
-## as above
+as above
 
-## defined as being the propa-
+defined as being the propa-
 
-## gator for t_2 < t_1
+gator for t_2 < t_1
 
-### then the free G_0^- has k < k_F
+then the free G_0^- has k < k_F
 
 but the exact G^- can have any k.
 
-## In the case of a free hole
+# In the case of a free hole
 
 an argument like that in (3.
 
-## 8) applied to the
+8) applied to the
 
 single hole state in (4.
 
@@ -5322,19 +5322,19 @@ single hole state in (4.
 
 8) and G_0 in (3.
 
-## 9) describe particle
+9) describe particle
 
 propagation, since ε_k > ε_F)
 
-## G_0^-(k
+G_0^-(k
 
-### t_2 - t_1) = -i e^{-i ε_k (t_1 - t_2)}
+t_2 - t_1) = -i e^{-i ε_k (t_1 - t_2)}
 
-## for t_2 < t_1
+for t_2 < t_1
 
-## G_0^-(k
+G_0^-(k
 
-## t_2 - t_1) = 0
+t_2 - t_1) = 0
 
 for t_2 = t_1 (see (9.
 
@@ -5342,7 +5342,7 @@ for t_2 = t_1 (see (9.
 
 4), end of appendix F) (4.
 
-## with Fourier transform
+with Fourier transform
 
 G_0^-(k, ω) = 1 / (ω - ε_k + ε_F - iη)
 
@@ -5352,7 +5352,7 @@ Suppose now that we turn on an external perturbing potential V(r) (this
 
 is distinct from U(r) which is part of the unperturbed Hamiltonian)
 
-## wish to find
+wish to find
 
 say, the single-particle propagator G(k_1
 
@@ -5364,7 +5364,7 @@ This will be the sum of the amplitudes for all the ways the
 
 particle can move through the system interacting zero or more times withV(r).
 
-## Previously
+# Previously
 
 we wrote down the series for the propagator and translated
 
@@ -5374,13 +5374,13 @@ Now we turn the trick and pull the hat out of the rabbit
 
 i.e., write down the diagrams first
 
-### then translate them into the numerical
+then translate them into the numerical
 
 series.
 
-## To do this
+# To do this
 
-## we need a modified dictionary
+we need a modified dictionary
 
 analogous to Table 3.
 
@@ -5390,41 +5390,41 @@ as shown in Table 4.
 
 Observe the reversed time order for the hole propagator diagrams!
 
-## This is
+# This is
 
 of course due simply to the fact that ε_i < ε_j for holes.
 
-## The reason why these
+# The reason why these
 
 diagrams are labelled ‘Goldstone method’ is discussed in §9.
 
 The interaction V_int merits some discussion.
 
-## It is given by
+# It is given by
 
 V_int = ∫ ψ†(r) ψ†(r') V(r,r') ψ(r') ψ(r) dr dr'.
 
 The four possibilities shown in Table 4.
 
-### 2 mean: (a) scattering of a particle
+2 mean: (a) scattering of a particle
 
 (remember (4.
 
-## ) from state i to k
+) from state i to k
 
 (b) the potential scatters a particle out
 
-## of state i
+of state i
 
-## where ε_i < ε_k
+where ε_i < ε_k
 
-## into state k
+into state k
 
-## ε_k > ε_i
+ε_k > ε_i
 
-## thus simultaneously creating
+thus simultaneously creating
 
-## particle in k and a hole in i
+particle in k and a hole in i
 
 (c), etc. [Note that these four possibilities
 
@@ -5434,25 +5434,25 @@ for this case (4.
 
 26).
 
-## Of course
+# Of course
 
 the particle which emerges in state k after interaction
 
-## is not
+is not
 
 necessarily the same particle which entered in state i
 
-## since this has no meaning
+since this has no meaning
 
 in a system of indistinguishable particles.
 
 Nevertheless, for the sake of verbal
 
-## simplicity
+simplicity
 
 it is customary to describe interactions as if particles were dis-
 
-## tinguishable
+tinguishable
 
 the reader should always bear in mind that this is just a manner
 
@@ -5466,7 +5466,7 @@ the sum of all possible different diagrams which can be built up out of sequence
 
 of interaction dots connected by particle and hole lines
 
-## beginning in state k
+beginning in state k
 
 and ending in state k_i:
 
@@ -5476,7 +5476,7 @@ and ending in state k_i:
 
 by (3.
 
-## ) The physical
+) The physical
 
 significance of the hole lines in the diagrams may be understood by looking
 
@@ -5494,7 +5494,7 @@ At time t'', the particle in k,
 
 is knocked into the hole in l causing mutual annihilation
 
-## the particle in k
+the particle in k
 
 continues propagating until t_2.
 
@@ -5502,15 +5502,15 @@ It should be pointed out that many diagrams in this series violate the Pauli
 
 exclusion principle.
 
-## For example
+# For example
 
-## when k_i = k
+when k_i = k
 
-## in diagram 4 we have two
+in diagram 4 we have two
 
 particles in the same state, k.
 
-### The reason why such diagrams must be
+# The reason why such diagrams must be
 
 included is discussed at the end of Appendix G (see also §4.
 
@@ -5524,7 +5524,7 @@ We have the sequence:
 
 (1) Put in particle in state k at time t
 
-## c_k†|0> = |k>
+c_k†|0> = |k>
 
 (2) At t', one of the terms in H_int acts on system creating particle in k, hole
 
@@ -5536,7 +5536,7 @@ V_int|k> = ∑_{k'l} V_{k'l} c_{k'}† c_l |k>
 
 20).
 
-## Nevertheless
+# Nevertheless
 
 the diagram which includes this process (number (4) in
 
@@ -5544,17 +5544,17 @@ the diagram which includes this process (number (4) in
 
 It is, as just mentioned, an
 
-### exclusion-principle-violating diagram
+exclusion-principle-violating diagram
 
 and it must be kept (see §4.
 
-## (3) At t''
+(3) At t''
 
-## H_int acts again
+H_int acts again
 
-## destroying hole in l
+destroying hole in l
 
-## particle in k
+particle in k
 
 V_int c_{k'}† c_l |k> = V_{l k''} c_{k'}† c_{k''} |l>
 
@@ -5566,45 +5566,45 @@ The above diagram series may be written out in words by means of the
 
 dictionary Table 4.
 
-## This gives in (k
+This gives in (k
 
 t)-space (cancel the i's):
 
-## G^+(k_2
+G^+(k_2
 
 k_1; t_2 - t_1) = G_0(k
 
-### t_2 - t_1) δ_{k k_1} δ_{k k_2}
+t_2 - t_1) δ_{k k_1} δ_{k k_2}
 
 + ∫ dt' G_0(k; t_2 - t') V_{k q} G_0(q
 
-## t' - t_1) δ_{q k_1} δ_{k k_2}
+t' - t_1) δ_{q k_1} δ_{k k_2}
 
 + ∫ dt' G_0(k; t_2 - t') V_{k q} G_0(q
 
-## t' - t_1) δ_{q k_1} δ_{k k_2}
+t' - t_1) δ_{q k_1} δ_{k k_2}
 
 + ∫ dt' ∫ dt'' G_0(k; t_2 - t'') V_{k q} G_0(q; t'' - t') V_{q l} G_0(l
 
 t' - t_1) δ_{l k_1} δ_{k k_2} + .
 
-## or in (k
+or in (k
 
 ω)-space (leave out ω's for brevity):
 
-## G^+(k_2
+G^+(k_2
 
 k_1; ω) = δ_{k_2 k_1} G_0(k_1
 
-## ω) + G_0(k
+ω) + G_0(k
 
-## ω) V_{k k} G_0(k_1
+ω) V_{k k} G_0(k_1
 
-## + G_0(k
++ G_0(k
 
-## ω) V_{k q} G_0(q
+ω) V_{k q} G_0(q
 
-## ω) V_{q k_1} G_0(k_1
+ω) V_{q k_1} G_0(k_1
 
 ω) + .
 
@@ -5616,15 +5616,15 @@ since, for example
 
 the single diagram with q on it actually stands for
 
-### an infinite number of diagrams
+an infinite number of diagrams
 
 each one with a different value of q.
 
-## (The
+(The
 
-## notation q > k
+notation q > k
 
-## is short for ε_q > ε_k
+is short for ε_q > ε_k
 
 etc.)
 
@@ -5636,15 +5636,15 @@ tions found in G^+ and G^-.
 
 Thus, in the third diagram in (4.
 
-## 34) since all lines
+34) since all lines
 
-## are particle propagators
+are particle propagators
 
 we see that t_1 < t' < t_2.
 
 In the fourth diagram,
 
-### since the l-line is a hole propagator
+since the l-line is a hole propagator
 
 t' must be > t'', and we find: if t_1 < t < t_2
 
@@ -5652,27 +5652,27 @@ then —∞ < t' < t, while if t_2 < t < t_1, then —∞ < t' < t.
 
 (Strictly speaking, in
 
-## the Goldstone method
+the Goldstone method
 
 diagrams are ‘time-ordered’ (see §9.
 
-## 5) so that for
+5) so that for
 
-## diagram (4)
+diagram (4)
 
 t_1 < t' < t, t < t'' < t_2.
 
-### There will be other diagrams like (4)
+There will be other diagrams like (4)
 
 with t' < t < t'' and/or t < t'' < t_2, which may be added to (4) to obtain the
 
 stated region of integration.
 
-## However
+# However
 
 when the time integrations here are actually performed
 
-## one is
+one is
 
 dismayed to discover the page jumping with exponentials oscillating at 0
 
@@ -5708,11 +5708,11 @@ That is, we would expect that the
 
 limits +∞ were required in order to get the δ-functions
 
-## like δ(ω-ω') in
+like δ(ω-ω') in
 
 23).
 
-## However
+# However
 
 one finds that the sort of integral which arises
 
@@ -5722,7 +5722,7 @@ i.e., of form
 
 where the limits are —∞(1 - iη) to + ∞(1 - iη)
 
-### is also a legitimate δ-function
+is also a legitimate δ-function
 
 so this causes no difficulty.
 
@@ -5730,35 +5730,35 @@ And now an easy example showing how to evaluate G^+ by partial summa-
 
 tion.
 
-### Suppose k_1 = k_2 = k (ε_k > ε_p)
+Suppose k_1 = k_2 = k (ε_k > ε_p)
 
 and the potential is such that V_{k q} and
 
 V_{q k} (q > k_p—remember this is short for ε_q > ε_p) are large
 
-## and all the other
+and all the other
 
 V’s are small.
 
 Then the propagator in (4.
 
-### 34) may be approximated by the
+34) may be approximated by the
 
 sum of the following diagrams:
 
-## = G_0(k
+= G_0(k
 
-## ω) / (1 - V_{k q} G_0(q
+ω) / (1 - V_{k q} G_0(q
 
-## ω) V_{q k} G_0(k
+ω) V_{q k} G_0(k
 
-## ω) )
+ω) )
 
-## = 1 / (G_0(k
+= 1 / (G_0(k
 
-## ω)^{-1} - V_{k q} G_0(q
+ω)^{-1} - V_{k q} G_0(q
 
-## ω) V_{q k} )
+ω) V_{q k} )
 
 This result is evidently not of the quasi particle form (3.
 
@@ -5770,21 +5770,21 @@ However, by
 
 Thus, dropping the iδ's (they have no significance in this simple calculation)
 
-## yields
+yields
 
 ω - ε_k - |V_{k q}|^2 / (ω - ε_q) = 0 (4.
 
-## which gives
+which gives
 
 = ε_k + [ (ε_k - ε_q)^2 + 4|V_{k q}|^2 ]^{1/2} / 2
 
 ≈ ε_k + |V_{k q}|^2 / (ε_k - ε_q) for weak coupling (4.
 
-### These reduce respectively to ε_k
+These reduce respectively to ε_k
 
-### ε_q in the weak interaction case
+ε_q in the weak interaction case
 
-## when V_{k q}→0
+when V_{k q}→0
 
 and are also valid in the strong interaction case when V is of the order of
 
@@ -5792,7 +5792,7 @@ or greater than the separation between the levels
 
 ε_k − ε_q.
 
-## Note that it is
+# Note that it is
 
 necessary to go to infinite order to get (4.
 
@@ -5810,17 +5810,17 @@ The result (4.
 
 new energies of a single particle two-level system placed in a perturbing field.
 
-## Of course
+# Of course
 
 we could have predicted this result from the beginning since we've(closed oyster appears in (0.
 
-## 23))
+23))
 
 The bubble processes can be physically interpreted as follows
 
-## a particle
+a particle
 
-## enters in k
+enters in k
 
 knocks a particle out of state 1 (|I| < k) at time t then knocks the
 
@@ -5830,27 +5830,27 @@ then continues freely in state k.
 
 Thus the hole which is created in 1 lasts only zero seconds
 
-## and there is no
+and there is no
 
 accompanying particle.
 
 Of course it is impossible to draw instantaneous
 
-## processes like this
+processes like this
 
 and the bubble picture is purely schematic.
 
-## This process
+# This process
 
-### is also called ‘forward scattering’
+is also called ‘forward scattering’
 
-### since the particle emerges in the same
+since the particle emerges in the same
 
-## direction (ie
+direction (ie
 
 momentum state) as it entered.
 
-## (Note again that by the argu-
+(Note again that by the argu-
 
 ment after (4.
 
@@ -5862,19 +5862,19 @@ This bubble process undoubtedly sounds so bizarre that it may seem far-
 
 fetched to consider it physical.
 
-## The fact is that
+# The fact is that
 
-### while in the classical pinball
+while in the classical pinball
 
 case, each diagram described a real physical process
 
-## the quantum diagrams
+the quantum diagrams
 
 describe only what might be called ‘quasi-physical’ processes.
 
-## This will be
+# This will be
 
-### discussed further in the next section
+discussed further in the next section
 
 At the end of Appendix G, it is
 
@@ -5882,7 +5882,7 @@ proved rigorously that the bubble is a legitimate diagram.
 
 The open-oyster processes are just like the bubbles
 
-## except that a quick-
+except that a quick-
 
 change act occurs in which at time t the incoming particle simultaneously
 
@@ -5892,9 +5892,9 @@ exchanged for the particle in 1.
 
 Diagrams (4.
 
-### 55) are often called ‘first-order
+55) are often called ‘first-order
 
-## exchange diagrams’
+exchange diagrams’
 
 and the process is referred to as an ‘exchange scattering’.
 
@@ -5908,9 +5908,9 @@ Note that the situation shown in (4.
 
 interaction (4.
 
-## 43) occurs in a diagram
+43) occurs in a diagram
 
-### there is also another diagram possible
+there is also another diagram possible
 
 in which the two outgoing (or incoming) particles have exchanged momentum.
 
@@ -5920,9 +5920,9 @@ For example, diagram (5) in (4.
 
 63) is the exchange of diagram (4).
 
-## --- Page 99 ---
+--- Page 99 ---
 
-### 5) QUASI PARTICLES IN FERMI SYSTEMS 83
+5) QUASI PARTICLES IN FERMI SYSTEMS 83
 
 Let us see how one evaluates these diagrams.
 
@@ -5930,13 +5930,13 @@ Consider first the bubbles.
 
 Using dictionary Table 4.
 
-## 2 and (4.
+2 and (4.
 
 43):
 
 iG₀(k,ω) + 0 ,
 
-## k
+k
 
 l × G₅(l,t₁-t₂) , (4.
 
@@ -5944,13 +5944,13 @@ where we have integrated over the ‘intermediate’ time
 
 t₁, and summed over
 
-## the ‘intermediate’ momentum
+the ‘intermediate’ momentum
 
 l, as in (4.
 
 36).
 
-## (The extra factor of (−1) in
+(The extra factor of (−1) in
 
 front comes from the fact that the diagram contains one ‘fermion loop’
 
@@ -5958,11 +5958,11 @@ namely ©).
 
 [A fermion loop is any set of directed lines
 
-## in a diagram
+in a diagram
 
 which can be traversed in the direction of the arrow
 
-## returning to the start-
+returning to the start-
 
 ing point without lifting pencil from the paper.
 
@@ -5990,79 +5990,79 @@ pinball case (2.
 
 23), This yields
 
-## 1 ,
+1 ,
 
-## k ω
+k ω
 
 " = (−1) [iG₅(k,ω)]² (−5V₀ur|(−1).
 
-## k ω ) 0 > [ 5 ω/]
+k ω ) 0 > [ 5 ω/]
 
 The (−1) after n comes from (4.
 
-### 57) and is the value of the ‘non-propa-
+57) and is the value of the ‘non-propa-
 
-## gating’ bubble line in (k
+gating’ bubble line in (k
 
-## ω)-space as well as (k
+ω)-space as well as (k
 
 t)-space.
 
-## Note that we cannot
+# Note that we cannot
 
 get (4.
 
-## 58) just by using the (k
+58) just by using the (k
 
 ω) side of dictionary Table 4.
 
-## This is because
+# This is because
 
 the bubble (and open oyster) diagrams are special cases.
 
 It should be remarked here that if spin is included
 
-## then k is short for k
+then k is short for k
 
 where σ is the spin quantum number (see p.
 
 106), and l=l,σ’.
 
-## For a spin-
+# For a spin-
 
 independent interaction, (7.
 
-## 70) holds
+70) holds
 
-### and the sum over σ’ then produces a
+and the sum over σ’ then produces a
 
 factor 2 which multiplies (4.
 
 58).
 
-## In a similar fashion
+# In a similar fashion
 
-## the reversed bubble gives
+the reversed bubble gives
 
-## k ω 2
+k ω 2
 
-## --- Page 100 ---
+--- Page 100 ---
 
-### 84 A GUIDE TO FEYNMAN DIAGRAMS {4.5
+84 A GUIDE TO FEYNMAN DIAGRAMS {4.5
 
 But by (4.
 
 42), V₀ur=Vuni
 
-### so these two diagrams are equal
+so these two diagrams are equal
 
-## This is quite
+# This is quite
 
 general and we may write:
 
-## If we are given a diagram
+# If we are given a diagram
 
-### and form a new diagram from it by
+and form a new diagram from it by
 
 twisting one or more of its interaction wiggles through 180 degrees
 
@@ -6082,7 +6082,7 @@ In a manner similar to (4.
 
 J k - [iG₅(k,ω)] [−V₀ur(−1).
 
-## k ω 1 4<hkr
+k ω 1 4<hkr
 
 The factor of 2 recommended in (4.
 
@@ -6100,7 +6100,7 @@ find that σ’ =σ.
 
 Hence there is no factor 2 from a spin sum
 
-## in contrast to the
+in contrast to the
 
 case of the bubble (4.
 
@@ -6128,39 +6128,39 @@ It is the same thing we saw in the pinball model (2.
 
 and results from the fact that the Hamiltonian is time-independent
 
-## so the
+so the
 
 propagators depend only on time differences.
 
-### This gives rise to δ-functions
+This gives rise to δ-functions
 
 similar to the 2πδ(ω’−ω) in (2.
 
 23).
 
-### Conservation of frequency may be
+# Conservation of frequency may be
 
 incorporated into the labelling of diagrams in k
 
-## ω-space
+ω-space
 
 as shown in (4.
 
-## 62’)
+62’)
 
 K,ω 4 q,ε
 
-## k-q l+q 62’
+k-q l+q 62’
 
-山 一 < Bte 4.
+山一 < Bte 4.
 
-## 62’)
+62’)
 
 k,w} @ ε
 
 All momenta and frequencies in this diagram
 
-## aside from those entering
+aside from those entering
 
 and leaving, are called ‘intermediate’.
 
@@ -6170,23 +6170,23 @@ momentum and frequencies.
 
 Note that it is convenient to associate a frequency
 
-## with the wiggly line
+with the wiggly line
 
 even though the interaction itself is independent of ω.
 
-## --- Page 101 ---
+--- Page 101 ---
 
-### 5) QUASI PARTICLES IN FERMI SYSTEMS 85
+5) QUASI PARTICLES IN FERMI SYSTEMS 85
 
 “ Do not make the mistake of confusing the frequency of a line with
 
 the particle energy!
 
-## For example
+# For example
 
-## in the line k
+in the line k
 
-### ω the frequency is ω while the
+ω the frequency is ω while the
 
 particle energy is ε_k=k²/2m.
 
@@ -6214,127 +6214,121 @@ sum of all possible diagrams such as (4.
 
 to draw all the possibilities systematically
 
-### but here we will simply draw a few
+but here we will simply draw a few
 
-## representative diagrams
+representative diagrams
 
-## written in (k
+written in (k
 
-## ω)-space for simplicity
+ω)-space for simplicity
 
-## k P
+k P
 
-## kw = ko ke + + + +
+kw = ko ke + + + +
 
-## (4) (5)
+(4) (5)
 
-## (2) (3)
+(2) (3)
 
 Such diagrams are often called ‘self-energy diagrams’ since they show the
 
 particle interacting with the many-body medium
 
-## which in turn acts back on
+which in turn acts back on
 
-## the particle
+the particle
 
 altering its energy (see just after (0.
 
 5)).
 
-## It should be noted that
+# It should be noted that
 
 many writers draw these diagrams lying down
 
 thus:
 
-## --- Page 102 ---
+--- Page 102 ---
 
-## A GUIDE TO FEYNMAN DIAGRAMS
+# A GUIDE TO FEYNMAN DIAGRAMS
 
-## x
+x
 
 m 贺 91B!
 
-## p3UJ2104 283 带_灬
+p3UJ2104 283 带_灬
 
-## ‘< 75netpauuolut dog3 ip J 4
+‘< 75netpauuolut dog3 ip J 4
 
-## u > w 巳
+u > w 巳
 
-### 2 0 snap ? 口 ((9b'b) “(zb"p) 308)
+2 0 snap ? 口 ((9b'b) “(zb"p) 308)
 
-## "Ai— 10 7 一 1 烽
+"Ai— 10 7 一 1 烽
 
-## 1 4 “ I q i 一 30 ′-_-"蔓潍~_
+1 4 “ I q i 一 30 ′-_-"蔓潍~_
 
-fo rojdwexg [ot :alduuex3
+fo rojdwexg [ot :alduuex3【一 Jo Jologd【一 30 101983
 
-## 【 一 Jo Jologd 【 一 30 101983
+“dool uoftuuaj dog3 “dool aoltuaj yorg
 
-### “dool uoftuuaj dog3 “dool aoltuaj yorg
+一 a = 网 E 4
 
-## 一 a = 网 E 4
+二 4<lal 0 二 4<lal 0 =
 
-## 二 4<lal 0 二 4<lal 0 =
-
-### 八 0 Q Wl Tt = Geo ~ 2 2 4y>|q] ‘1 = @—4 W201
+八 0 Q Wl Tt = Geo ~ 2 2 4y>|q] ‘1 = @—4 W201
 
 q SuneSedoid-uon 4 :Bunededoid-u0on
 
-## ‘ 一 奶 一 口
+‘ 一奶一口口 af see = (m'9) 291 a uct -2 9 — = G-% ‘9°91
 
-口 af see = (m'9) 291 a uct -2 9 — = G-% ‘9°91
+加一 17
 
-## 加 一 17
+oF { gene = ( 叨知 !
 
-oF { gene = ( 叨 知 !
+国中文 gr-3 9 = (4-2) 891
 
-## 国 中 文 gr-3 9 = (4-2) 891
-
-## 一 + 一 十
-
-## 【 史 y (6z"p) (「5) 295)
+一 + 一十【史 y (6z"p) (「5) 295)
 
 口 i ont pe ofa (1-4), 91
 
 elSefC elSef pron,
 
-## aouds-(m 切 ) aogds-(1 史
+aouds-(m 切 ) aogds-(1 史
 
 (pogyzatx auorspjon) jonuatod ousasxa ou yim waisds uopusaf-Auou 3U112D421L4 J0/dlpttO1121P wossvig 5 个 3198L
 
-## --- Page 103 ---
+--- Page 103 ---
 
-### 6) QUASI PARTICLES IN FERMI SYSTEMS 87
+6) QUASI PARTICLES IN FERMI SYSTEMS 87
 
 The diagrams may also be interpreted physically from another point of
 
 view.
 
-## Look at the diagrams in (k
+Look at the diagrams in (k
 
-### t)-space at a particular time t₀
+t)-space at a particular time t₀
 
-## 04 2
+04 2
 
-### At t₀ we see that at the bare particle
+At t₀ we see that at the bare particle
 
-### there may exist in the many-body
+there may exist in the many-body
 
 system two ‘virtual’ particles plus one hole created by second-order process d
 
 or two particles and a hole created by second-order sequence e
 
-## and so on
+and so on
 
-## with
+with
 
 the particle plus three particle-hole pairs created during the eighth-orderintegrating—the result is just (4.
 
 70).
 
-## From here
+# From here
 
 it is only a baby step away to the quasi particle in Hartree-Fock (HF) approximation.
 
@@ -6350,19 +6344,19 @@ and the partial sum carried out as in (3.
 
 39):
 
-## [1 + F(k
+[1 + F(k
 
 ω)]^(-1) = 1 / [1 - ∑ V(k-k') G0(k') / (ω - ε_k')]
 
 Translating by means of dictionary Table 4.
 
-## 3 yields
+3 yields
 
 G(k, ω) = G0(k
 
 ω) / [1 - ∫ dk'/(2π)^3 V(k-k') G0(k', ω)].
 
-## (If spin is included
+(If spin is included
 
 multiply ∫ dk'/(2π)^3 by 2.
 
@@ -6388,17 +6382,17 @@ just as with the Hartree equation (4.
 
 ) It should be mentioned that the lifetime here is infinite because of the crudeness of the HF approximation.
 
-## Better approximations
+# Better approximations
 
 which include sums over diagrams like (4.
 
 47), produce finite lifetimes.
 
-### 8 Hartree-Fock quasi particles in nuclear matter
+8 Hartree-Fock quasi particles in nuclear matter
 
 Real-life physical systems have interactions considerably more complicated than the hypothetical ‘forward plus exchange scattering’ model in the previous section.
 
-## Nevertheless
+# Nevertheless
 
 the HF can be used as a very crude ‘first approximation’ to the propagator
 
@@ -6414,9 +6408,9 @@ On the basis of the ‘liquid drop’ model of the nucleus
 
 Weizsäcker constructed the famous ‘semi-empirical mass formula’ for nuclear binding energy
 
-### nuclear surface Coulomb Pauli principle
+nuclear surface Coulomb Pauli principle
 
-### forces correction forces correction
+forces correction forces correction
 
 where N and Z=number of neutrons and protons respectively
 
@@ -6424,27 +6418,27 @@ A=N+Z and the aᵢ’s are constants determined by fitting (4.
 
 79) to known nuclear masses.
 
-## In the first term
+# In the first term
 
 −a₁ is the binding energy of a single nucleon
 
 well inside the nucleus (i.e.
 
-## not near the surface)
+not near the surface)
 
 due to the attractive nuclear forces—it is about −15.
 
-## 9 MeV.
+9 MeV.
 
-## The second
+# The second
 
 third and fourth terms are respectively corrections due to the presence of the nuclear surface
 
-### Coulomb forces between protons
+# Coulomb forces between protons
 
 and the effect of the exclusion principle.
 
-### If there were no Coulomb forces
+# If there were no Coulomb forces
 
 and if the number of nucleons was so large that the nucleus was the size of
 
@@ -6456,13 +6450,13 @@ This hypothetical system consisting of a huge number of protons and an equal num
 
 It is of great interest because a calculation of the binding energy of nuclear matter
 
-### using some model of the nuclear force
+using some model of the nuclear force
 
-### is evidently a calculation of −a₁
+is evidently a calculation of −a₁
 
 and can be compared with the experimental value of −15.
 
-## 9 MeV.
+9 MeV.
 
 We will assume that the nuclear interaction has the form of a simple Yukawa potential (V₀ <0)
 
@@ -6486,7 +6480,7 @@ The quasi particle energy in HF approximation may be calculated using (4.
 
 Noting that the density of points in k-space is Ω/(2π)³
 
-### where Ω is the normalization volume
+where Ω is the normalization volume
 
 (see after (3.
 
@@ -6496,7 +6490,7 @@ Noting that the density of points in k-space is Ω/(2π)³
 
 so that (multiply V₄.
 
-## 80 by 2 if spin is included)
+80 by 2 if spin is included)
 
 ε_k = ε_k − 2 ∫_{k'<k_F} dk'/(2π)³ V(k−k').
 
@@ -6508,7 +6502,7 @@ The transition matrix element ⟨k m|V|n p⟩ is (using (3.
 
 V_{kk'} = V₀ (a/|k−k'|) exp(−|k−k'|a) (4.
 
-## Hence
+# Hence
 
 Substituting these expressions in (4.
 
@@ -6522,7 +6516,7 @@ The remaining k'-integration is easily carried out with the aid of the substitut
 
 = (k²/2m) + (V₀/2π²) (ma²) F(ka), (4.
 
-## where
+where
 
 F(z) = (1/z²) [1 + z²] [ln(1+z²) − 1] − [z ln(1+z²) − 2z + 2 tan⁻¹z].
 
@@ -6538,9 +6532,9 @@ Keeping only terms up through order k² we find
 
 from which we see that the effective mass is
 
-### 9 Quasi particles in the electron gas
+9 Quasi particles in the electron gas
 
-### and the random phase approximation
+and the random phase approximation
 
 A real metal consists of ~ 10²³ positively charged ions arranged in the form of a regular lattice
 
@@ -6550,7 +6544,7 @@ The ions execute oscillations about their equilibrium positions (‘lattice vibr
 
 Such a complicated system poses a nasty problem for the many-body physicist.
 
-## To make life easier
+# To make life easier
 
 he often postulates a utopian metal in which the ions are motionless
 
@@ -6574,21 +6568,21 @@ V(r−r′) = e² / |r−r′|, (4.
 
 V_{kk'} = 4π e² / |k−k'|²,
 
-### where spins are left out for simplicity
+where spins are left out for simplicity
 
 and we take Ω=1 cm³>.
 
-## That is
+# That is
 
 the Coulomb interaction has the form of a Yukawa interaction with ‘infinite range’.
 
-## Alternatively
+# Alternatively
 
 one often says that the Yukawa potential has the form of aby an external perturbing potential such that for all .
 
-## Find the
+# Find the
 
-## propagator
+propagator
 
 , , by summing exactly over all diagrams.
 
@@ -6596,15 +6590,15 @@ one often says that the Yukawa potential has the form of aby an external perturb
 
 (factorizable potential).
 
-## --- Page 117 ---
+--- Page 117 ---
 
-## Chapter 5
+# Chapter 5
 
 Ground State Energy and the Vacuum Amplitude
 
-## or ‘No-particle Propagator’
+or ‘No-particle Propagator’
 
-### 5.1 Meaning of the vacuum amplitude
+# 5.1 Meaning of the vacuum amplitude
 
 One of the first many-body problems to be tackled by the field theoretical
 
@@ -6620,27 +6614,27 @@ mentally measured properties—such as for example the cohesive energy in a
 
 metal or the binding energy in nuclear matter.
 
-### Calculating it theoretically is
+# Calculating it theoretically is
 
 a tough job.
 
 The interactions are large and hard to handle
 
-## and naive
+and naive
 
 approaches simply drown one in a deluge of infinities.
 
-## Thus in the nuclear
+# Thus in the nuclear
 
 case, because of the hard core interaction
 
-## one gets making the
+one gets making the
 
 interaction Hamiltonian infinite.
 
-### The electron gas is equally psychotic
+# The electron gas is equally psychotic
 
-## yield-
+yield-
 
 ing for every order of perturbation theory higher than first.
 
@@ -6650,7 +6644,7 @@ way of handling such delinquents as the above nuclear and electron inter-
 
 actions.
 
-## In both cases
+# In both cases
 
 we can perform a partial sum over an infinite series
 
@@ -6664,43 +6658,43 @@ turbation series for , i.e., in
 
 where , are the ground and excited state energies of the unperturbed
 
-## Hamiltonian
+# Hamiltonian
 
 and , are the corresponding wave functions.
 
-## The general
+# The general
 
 term is hard to obtain from the time-independent theory usually used to get
 
-## However
+# However
 
 there is a time-dependent technique which gives a pictorial
 
 recipe for finding the desired th-order term
 
-## this is the method of the
+this is the method of the
 
 vacuum amplitude expansion.
 
-## The vacuum amplitude
+# The vacuum amplitude
 
 , is defined as follows
 
-## Let be the ground
+# Let be the ground
 
 state of the unperturbed system as defined in (4.
 
 12) (ie, is the ‘Fermi
 
-## vacuum’)
+vacuum’)
 
 Then is the probability amplitude that if the system is in
 
-## at time 0
+at time 0
 
 and the external potential and/or interactions between particles are
 
-## allowed to act
+allowed to act
 
 then the system will be in at time .
 
@@ -6708,49 +6702,49 @@ That is, is the
 
 ‘Fermi vacuum to Fermi vacuum transition amplitude’.
 
-## --- Page 118 ---
+--- Page 118 ---
 
-### 102 A GUIDE TO FEYNMAN DIAGRAMS (5.1)
+102 A GUIDE TO FEYNMAN DIAGRAMS (5.1)
 
 Since no particles are added to the system
 
-## and none emerges
+and none emerges
 
-## may be
+may be
 
 called a ‘no-particle propagator’.
 
 Let us define the vacuum amplitude in more detail.
 
-## Suppose that at
+# Suppose that at
 
 the system is in state .
 
-## If there is no interaction
+# If there is no interaction
 
-## then the wave function at
+then the wave function at
 
 time will be where is the ground state energy.
 
-## If the inter-
+# If the inter-
 
-### action is now switched on at time
+action is now switched on at time
 
-### the system will start to make transi-
+the system will start to make transi-
 
 tions from to all possible -particle states.
 
-## We ask for the probability
+# We ask for the probability
 
-## amplitude
+amplitude
 
 , that at the end of time the system is in the (time-developed)
 
 ground state, .
 
-## Let the state after time be
+# Let the state after time be
 
-## this must be obtain-
+this must be obtain-
 
 able from the ground state by some sort of operation
 
@@ -6760,7 +6754,7 @@ which may be regarded as the equation defining the ‘time development
 
 operator’, (see appendix B).
 
-### The probability amplitude is just the
+# The probability amplitude is just the
 
 scalar product of and or:
 
@@ -6768,7 +6762,7 @@ vacuum amplitude.
 
 The importance of the vacuum amplitude lies in the fact that the ground
 
-## state energy
+state energy
 
 , may be obtained from it with the aid of the theorem
 
@@ -6778,9 +6772,9 @@ This is proved in appendix C.
 
 Thus, if we can get
 
-## a diagrammatic expansion of
+a diagrammatic expansion of
 
-### then the diagram series for follows
+then the diagram series for follows
 
 from (5.
 
@@ -6790,7 +6784,7 @@ corresponding expansion of the propagator.
 
 However, it is considerably
 
-## more complicated
+more complicated
 
 because in addition to diagrams which consist of only one
 
@@ -6798,27 +6792,27 @@ piece (‘linked’ diagrams) there are also diagrams consisting of two or more
 
 pieces (‘unlinked’ diagrams).
 
-## Luckily
+# Luckily
 
-## the logarithm of
+the logarithm of
 
-## which appears in
+which appears in
 
 4), turns out to be the sum over just linked diagrams.
 
-## This is the famous
+# This is the famous
 
 ‘linked cluster theorem’.
 
 Placing this result into (5.
 
-## 4) yields the ordinary
+4) yields the ordinary
 
 Rayleigh-Schrödinger perturbation series together with a general rule for
 
 writing out the th-order term.
 
-## In this chapter
+# In this chapter
 
 we will first investigate the analogue of the vacuum amplitude
 
@@ -6826,7 +6820,7 @@ in the classical pinball machine case.
 
 Then, we will show how to calculate
 
-## --- Page 119 ---
+--- Page 119 ---
 
 2) GROUND STATE ENERGY AND VACUUM AMPLITUDE 103
 
@@ -6838,15 +6832,15 @@ Finally, the
 
 method will be generalized to many-body systems.
 
-## The application to the
+# The application to the
 
 electron gas and nuclear matter is in chapter 12
 
-## which may be read directly
+which may be read directly
 
 after this chapter, for those who wish.
 
-### 5.2 The pinball machine vacuum amplitude
+# 5.2 The pinball machine vacuum amplitude
 
 The pinball accelerator, Fig.
 
@@ -6856,7 +6850,7 @@ single-particle propagator may also be employed as the classical analogue for
 
 the vacuum amplitude.
 
-## Before firing
+# Before firing
 
 the particle is in its ‘ground state’ or
 
@@ -6864,13 +6858,13 @@ the particle is in its ‘ground state’ or
 
 The accelerating mechanism propels it through
 
-## the collimator
+the collimator
 
 after which it undergoes a series of interactions with various
 
-## scattering centres
+scattering centres
 
-### winding up at one of the points
+winding up at one of the points
 
 , …, or possibly
 
@@ -6878,11 +6872,11 @@ back at the original point itself.
 
 (Note: In what follows
 
-## the position of the
+the position of the
 
 point will be designated by .
 
-## The vectors
+# The vectors
 
 , will be variables denoting
 
@@ -6896,23 +6890,23 @@ The classical analogue of the vacuum amplitude here is the probability
 
 that if the test particle is in its ‘ground state’ at
 
-## at time
+at time
 
 then it returns to the ‘ground state’ at at time .
 
-## For the sake of simplicity
+# For the sake of simplicity
 
 let us leave time out of the argument to begin
 
 with, and consider just
 
-## or for short
+or for short
 
-## this is the prob-
+this is the prob-
 
 ability that if the particle begins at the point
 
-## then it will finish at
+then it will finish at
 
 regardless of the time.
 
@@ -6926,13 +6920,13 @@ Thus, the first possibility is that the
 
 trigger is not pulled at all so the particle just continues lying at .
 
-## The next
+# The next
 
 possibility is that the trigger is pulled
 
-### but not hard enough to propel the
+but not hard enough to propel the
 
-### particle out of the collimator
+particle out of the collimator
 
 so that it just falls back to .
 
@@ -6940,21 +6934,21 @@ Next, the particle
 
 could come out of the collimator and be scattered from the giraffe’s tail back
 
-## into the collimator
+into the collimator
 
-## rolling down to
+rolling down to
 
 and so on.
 
-## Let = probability that
+Let = probability that
 
-## the trigger is not pulled
+the trigger is not pulled
 
 = probability that if the particle leaves the
 
 point , then it travels to without being scattered by any animal
 
-## = ‘interaction’ term
+= ‘interaction’ term
 
 giving the probability that if the particle arrives at
 
@@ -6964,33 +6958,33 @@ Then, assuming independent probabilities
 
 find, similar to the propagator case
 
-## that is given by (Note
+that is given by (Note
 
-## is the
+is the
 
 probability that the particle is scattered away from the point
 
-## this is just
+this is just
 
 , i.e.
 
 the probability that the trigger is pulled)
 
-## --- Page 120 ---
+--- Page 120 ---
 
-### 104 A GUIDE TO FEYNMAN DIAGRAMS (5.2)
+104 A GUIDE TO FEYNMAN DIAGRAMS (5.2)
 
-### Associating diagrams with probabilities
+# Associating diagrams with probabilities
 
 using Table 2.
 
 1, the above series
 
-## becomes
+becomes
 
 where stands for the scattering at .
 
-### This series may be evaluated by
+# This series may be evaluated by
 
 means of a summation parallel to (2.
 
@@ -6998,7 +6992,7 @@ means of a summation parallel to (2.
 
 19), but we shall not bother to do it.
 
-### When generalized to include time
+# When generalized to include time
 
 using Table 2.
 
@@ -7006,7 +7000,7 @@ using Table 2.
 
 (we have used the fact that the G₅ are time independent in this case).
 
-## In general
+# In general
 
 it turns out that the value of an unlinked diagram with n identical links Z is just (1/n!
 
@@ -7014,7 +7008,7 @@ it turns out that the value of an unlinked diagram with n identical links Z is j
 
 A similar factorization occurs for non-identical links if we first sum over all possible time orders of the links.
 
-## For instance
+# For instance
 
 three of the diagrams in (5.
 
@@ -7022,15 +7016,15 @@ three of the diagrams in (5.
 
 “ ⟨ ⟩ (5.
 
-## δᵢⱼ = 1 if tᵢ > tⱼ
+δᵢⱼ = 1 if tᵢ > tⱼ
 
 = 0 for tᵢ < tⱼ.
 
-## Combining these results
+# Combining these results
 
-### one finds that R may be written
+one finds that R may be written
 
-## where
+where
 
 @ ⟨ ⟩ “linked” diagrams (5.
 
@@ -7050,9 +7044,9 @@ E₀ = ε + lim_{t→∞} (i/t) ln R(t) (5.
 
 so that we may write it in terms of a sum over linked diagrams only
 
-## thus
+thus
 
-## {In the many-body case
+{In the many-body case
 
 there is a deeper reason for the importance of the linked cluster theorem
 
@@ -7070,13 +7064,13 @@ This converts (5.
 
 This is evaluated by substituting for the G’s from Table 4.
 
-## 2 which yields
+2 which yields
 
-## The second term produces
+# The second term produces
 
-## so that
+so that
 
-## Integrating
+# Integrating
 
 and taking the derivative and limit yields for E⁽²⁾
 
@@ -7086,19 +7080,19 @@ If this commonplace textbook result is regarded as the end product of the elabor
 
 we might justifiably conclude that a rocket launcher has been built to fire a spitball.
 
-## However
+# However
 
 the aim here is not to do textbook-type perturbation theory
 
 which no one has lived long enough to carry beyond twenty-seventh order
 
-### but rather to do the more exotic type
+but rather to do the more exotic type
 
 which is carried to infinite order.
 
 And the diagrams allow us to do this by providing a systematic method for writing out the nth-order term in the expansion of E₀.
 
-## To see this
+# To see this
 
 look first at the third-order terms in (5.
 
@@ -7106,7 +7100,7 @@ look first at the third-order terms in (5.
 
 28).
 
-## The product of the V(k₁)
+The product of the V(k₁)
 
 V(k₂), and V(k₃) factors associated with the interaction dots in the first third-order diagram
 
@@ -7116,33 +7110,33 @@ provided we drop the—i factor associated with the V’s in evaluating the vacu
 
 and similarly for the second third-order diagram.
 
-### This is easily shown to be general
+# This is easily shown to be general
 
-## leading to the rule
+leading to the rule
 
 the numerators of the nth-order terms in the perturbation expansion of E₀ are obtained from the corresponding vacuum amplitude diagrams by associating a factor of V(k) with each interaction vertex (i.e.
 
 dot).
 
-## To get the denominators
+# To get the denominators
 
 draw light dotted horizontal lines between successive (in time) pairs of vertices
 
-## thus
+thus
 
-## 1 ───── 1
+1 ───── 1
 
-## ε₁ − ε₃
+ε₁ − ε₃
 
-## and associate a factor of
+and associate a factor of
 
-## 1 / (εₐ − εᵦ)
+1 / (εₐ − εᵦ)
 
 for all particle lines intersected by dotted horizontal line
 
-## and
+and
 
-## 1 / (εₐ + εᵦ − 2ε₀)
+1 / (εₐ + εᵦ − 2ε₀)
 
 for all hole lines intersected by dotted horizontal line
 
@@ -7154,15 +7148,15 @@ The odd-order diagrams do not occur.
 
 There are sixteen sixth-order diagrams of which three typical ones have been drawn.
 
-### Using the rules and assuming V₁₂ = V₂₁
+Using the rules and assuming V₁₂ = V₂₁
 
-## this expansion yields
+this expansion yields
 
 | (5.
 
 Thus we have found the ground state energy in the case of a strong perturbing interaction by means of a partial summation of the perturbation series to all orders.
 
-## In the present case
+# In the present case
 
 this result is not as remarkable as it might seem at first sight
 
@@ -7170,15 +7164,15 @@ since it will be recognized as just the same result we can obtain much more easi
 
 64)).
 
-## This single-particle example
+# This single-particle example
 
-## like the others we have used
+like the others we have used
 
 is obviously much too simple to show the power of the diagrammatic method
 
 it should be regarded only as a transparent illustration of the general technique.
 
-## 5.6 The many-body case
+# 5.6 The many-body case
 
 The single-particle example may be generalized to the many-particle case (no external potential) by using the interaction diagrams of (4.
 
@@ -7190,35 +7184,35 @@ of interactions beginning and ending in the many-body ground state
 
 vacuum, thus:
 
-## begin{equation}
+begin{equation}
 
 includegraphics[width=0.
 
-## 1 textwidth]{vac_diagrams_5.
+1 textwidth]{vac_diagrams_5.
 
-## end{equation}
+end{equation}
 
 The ground state energy again involves just the sum over linked diagrams
 
 and may be written as follows:
 
-## begin{equation}
+begin{equation}
 
 E - E_0 = includegraphics[width=0.
 
-### 15 textwidth]{ground_state_energy_5.
+15 textwidth]{ground_state_energy_5.
 
-## end{equation}
+end{equation}
 
-## --- Page 132 ---
+--- Page 132 ---
 
-### 116 A GUIDE TO FEYNMAN DIAGRAMS [5.6
+116 A GUIDE TO FEYNMAN DIAGRAMS [5.6
 
 These diagrams may be evaluated by rules essentially the same as those for
 
 the one particle case—these are postponed until chapter 12.
 
-## Here we will
+# Here we will
 
 content ourselves with briefly mentioning a few popular approximations for
 
@@ -7228,31 +7222,31 @@ the ground state energy which can be made with (5.
 
 The simplest approximation is the Hartree-Fock (HF)
 
-## which is just the
+which is just the
 
 sum of the double-bubble and oyster diagrams
 
-## begin{equation}
+begin{equation}
 
 E_{ text{HF}} = E_0 + includegraphics[width=0.
 
 1 textwidth]{double_bubble} + includegraphics[width=0.
 
-## 1 textwidth]{oyster}
+1 textwidth]{oyster}
 
-## end{equation}
+end{equation}
 
 These diagrams involve only three simple rules
 
-## so we will evaluate them
+so we will evaluate them
 
 here.
 
-## The rules are
+# The rules are
 
-## (1) V for each interaction
+(1) V for each interaction
 
-## (2) a factor of (-1) for
+(2) a factor of (-1) for
 
 each hole line and each fermion loop and (3) a factor of 4 because the graphs
 
@@ -7260,45 +7254,45 @@ are symmetric.
 
 Remembering that all lines are hole lines here
 
-## we find
+we find
 
-## begin{equation}
+begin{equation}
 
 E_{ text{HF}} = sum_{k<k_F} left { langle k | T | k rangle + frac{1}{2} sum_{l<k_F} left[ langle kl | V | kl rangle - langle kl | V | lk rangle right] right }
 
-## end{equation}
+end{equation}
 
 The approximation which is good for the high density electron gas (random
 
-## phase approximation
+phase approximation
 
 or ‘RPA’) involves a partial sum over all ‘ring’ diagrams
 
 in second and higher order:
 
-## begin{equation}
+begin{equation}
 
 E_{ text{RPA}} = E_{ text{HF}} + includegraphics[width=0.
 
-## 2 textwidth]{ring_sum}
+2 textwidth]{ring_sum}
 
-## end{equation}
+end{equation}
 
-## In the case of nuclear matter
+# In the case of nuclear matter
 
 we have the ‘ladder approximation’ involving
 
 a partial sum over all ladders:
 
-## begin{equation}
+begin{equation}
 
 E_{ text{ladder}} = E_0 + includegraphics[width=0.
 
-## 2 textwidth]{ladder_sum}
+2 textwidth]{ladder_sum}
 
-## end{equation}
+end{equation}
 
-## --- Page 133 ---
+--- Page 133 ---
 
 6] GROUND STATE ENERGY AND VACUUM AMPLITUDE 117
 
@@ -7306,13 +7300,13 @@ The reader who wishes to look now at the Gell-Mann-Brueckner calcula-
 
 tion of the ground state energy of an electron gas
 
-## and the Brueckner theory
+and the Brueckner theory
 
-## of nuclear matter
+of nuclear matter
 
 will find it possible to go directly to chapter 12 from here.
 
-## Exercises
+# Exercises
 
 1 Translate the last vacuum amplitude diagram in (5.
 
@@ -7324,13 +7318,13 @@ alent:
 
 includegraphics[width=0.
 
-## 1 textwidth]{ex5.
+1 textwidth]{ex5.
 
 2_1} and includegraphics[width=0.
 
-## 1 textwidth]{ex5.
+1 textwidth]{ex5.
 
-## 2_2}
+2_2}
 
 3 Suppose we have a system of N non-interacting fermions in an external potential
 
@@ -7338,7 +7332,7 @@ U(r).
 
 A perturbation V(r) is added to the Hamiltonian.
 
-## Draw all diagrams up
+# Draw all diagrams up
 
 through and including fourth order in the expansion of the vacuum amplitude.
 
@@ -7352,27 +7346,27 @@ in (5.
 
 34).
 
-## (Combine
+(Combine
 
 the contributions from the two ‘mitten’ diagrams.
 
 5 For a system with no external potential and a momentum-conserving inter-
 
-## action
+action
 
 show why the fifth and sixth diagrams after the ‘1’ in (5.
 
-## 41) do not
+41) do not
 
 occur.
 
-## --- Page 134 ---
+--- Page 134 ---
 
-## Chapter 6
+# Chapter 6
 
 Bird’s-Eye View of Diagram Methods in the
 
-## Many-Body Problem
+# Many-Body Problem
 
 This chapter brings us to the conclusion of the kindergarten part of the
 
@@ -7382,13 +7376,13 @@ We have seen in some detail how the diagram methods of quantum
 
 field theory work on simple one-body systems
 
-## and have obtained a glimpse
+and have obtained a glimpse
 
 of the machinery in the many-body case.
 
-### All steps were ‘justified’ with the
+All steps were ‘justified’ with the
 
-### aid of the ‘argument by monkey’
+aid of the ‘argument by monkey’
 
 i.e., by analogy with the animal game in
 
@@ -7400,21 +7394,21 @@ No essential use was made of the occupation number formalism
 
 Now we move on to the elementary part of the book.
 
-## This will involve a
+# This will involve a
 
 more extensive use of second quantization
 
-## more impressive juggling of
+more impressive juggling of
 
-## diagrams
+diagrams
 
-## more real many-body systems
+more real many-body systems
 
 and less monkeys.
 
-## But before
+# But before
 
-## continuing
+continuing
 
 it’s a good idea to pause for a moment and take a look at the
 
@@ -7422,15 +7416,15 @@ field as a whole.
 
 In Table 6.
 
-### 1 is a list of basic ingredients from quantum
+1 is a list of basic ingredients from quantum
 
-## field theory
+field theory
 
 and their significance in the many-body problem.
 
 Table 6.
 
-### 1 Quantum field theory in the many-body problem
+1 Quantum field theory in the many-body problem
 
 | Field theoretic ingredient | Significance in many-body theory |
 
@@ -7452,13 +7446,13 @@ Table 6.
 
 10, 11
 
-### 15) | Yields quasi particle energies
+15) | Yields quasi particle energies
 
-### particle momentum distribution
+particle momentum distribution
 
-## particle density
+particle density
 
-## ground energy |
+ground energy |
 
 | (4) Vacuum amplitude (chaps.
 
@@ -7468,9 +7462,9 @@ Table 6.
 
 13) | Yields energies of collective excitations
 
-## electrical conductivity
+electrical conductivity
 
-### other non-equilibrium properties |
+other non-equilibrium properties |
 
 | (6) Finite temperature vacuum<br>amplitude (chap.
 
@@ -7480,37 +7474,37 @@ Table 6.
 
 14) | Yields temperature dependence of properties in (3) |
 
-## --- Page 135 ---
+--- Page 135 ---
 
 DIAGRAM METHODS IN THE MANY-BODY PROBLEM 119
 
 The various field theoretical quantities
 
-## (3) to (7)
+(3) to (7)
 
-## may be calculated either
+may be calculated either
 
 by partial summation of Feynman diagrams
 
 or, equivalently
 
-## by decoupling
+by decoupling
 
 the differential equations which they obey (see appendix M).
 
-## We consider
+# We consider
 
 only the former method in this book.
 
-### The diagram method may be outlined
+# The diagram method may be outlined
 
 as follows:
 
 (1) The field theoretic quantity—call it M
 
-### standing for the propagator or
+standing for the propagator or
 
-## vacuum amplitude
+vacuum amplitude
 
 etc.—is expanded in a time-dependent perturbation series
 
@@ -7518,7 +7512,7 @@ where is the value of M when the interaction is zero
 
 give the effect of the interaction to first order
 
-## second order
+second order
 
 etc. The expan-
 
@@ -7530,15 +7524,15 @@ and (2) in the above table).
 
 It is not assumed that the higher orders here are
 
-### small compared to the zeroth order
+small compared to the zeroth order
 
-## in fact
+in fact
 
-### because of the large interactions
+because of the large interactions
 
-## in many-body systems
+in many-body systems
 
-## they are large
+they are large
 
 sometimes infinite!
 
@@ -7556,23 +7550,23 @@ For example:
 
 chapter 13):
 
-## --- Page 136 ---
+--- Page 136 ---
 
-### 120 A GUIDE TO FEYNMAN DIAGRAMS
+120 A GUIDE TO FEYNMAN DIAGRAMS
 
 Each one of the lines and wiggles in the diagrams has a definite factor associated
 
-## with it
+with it
 
-## by writing down these factors
+by writing down these factors
 
-### the original perturbation series in (1)
+the original perturbation series in (1)
 
 can be reproduced completely.
 
 It is in principle possible to do many-body
 
-### perturbation theory without diagrams
+perturbation theory without diagrams
 
 just as it is possible to go through the
 
@@ -7584,17 +7578,17 @@ is much greater if we use them (see Fig.
 
 Fig.
 
-### 1 Feynman Diagrams in the Amazon Jungle
+1 Feynman Diagrams in the Amazon Jungle
 
-## (Reproduced with the
+(Reproduced with the
 
-### kind permission of Physics Today)
+kind permission of Physics Today)
 
 (3) The perturbation series is evaluated approximately by summing to
 
 infinite order over certain types of diagrams (that is
 
-## by summing over the
+by summing over the
 
 terms in the perturbation expansion corresponding to certain types of
 
@@ -7602,11 +7596,11 @@ diagrams).
 
 This is the famous ‘partial’ or ‘selective’ summation.
 
-## The partial
+# The partial
 
 sum is usually evaluated by showing that it involves a summable infinite
 
-## series
+series
 
 or that it is equivalent to an integral equation already solved by some-
 
@@ -7614,25 +7608,25 @@ one else.
 
 For example:
 
-### (a) Single-particle propagator
+(a) Single-particle propagator
 
-### a partial sum over repeated bubble and
+a partial sum over repeated bubble and
 
 open oyster diagrams,
 
 yields Hartree-Fock quasi particles.
 
-## --- Page 137 ---
+--- Page 137 ---
 
 DIAGRAM METHODS IN THE MANY-BODY PROBLEM 121
 
-## (b) Vacuum amplitude
+(b) Vacuum amplitude
 
-### a partial sum over just ‘ring’ graphs
+a partial sum over just ‘ring’ graphs
 
 gives the ground state energy of a high density electron gas.
 
-## (c) Polarization propagator
+(c) Polarization propagator
 
 a partial sum over repeated ‘pair bubbles’
 
@@ -7644,17 +7638,17 @@ this technique is radically different from ordinary perturbation theory and is
 
 generally called a ‘non-perturbative technique’.
 
-## In the ordinary theory it is
+# In the ordinary theory it is
 
 assumed that the perturbation is small so that the terms in the expansion obey
 
-## the size ordering
+the size ordering
 
-## In other words
+# In other words
 
 the terms are arranged according to order
 
-## and we can
+and we can
 
 estimate the accuracy of the approximation by looking at the order to which
 
@@ -7670,37 +7664,37 @@ fact that all the antisymmetry properties are built into them.
 
 Therefore, by
 
-### using them in the right places
+using them in the right places
 
 we don't have to worry either about the sym-
 
-### metry of the wave functions themselves
+metry of the wave functions themselves
 
-### or even about the awkward (-1)^N
+or even about the awkward (-1)^N
 
 factors.
 
 A simple example of this is to evaluate the matrix element
 
-## --- Page 147 ---
+--- Page 147 ---
 
-### 3) OCCUPATION NUMBER FORMALISM 131
+3) OCCUPATION NUMBER FORMALISM 131
 
 system (see (4.
 
 7)), and it is assumed that k, > k_F.
 
-## Calculating in the ordinary
+# Calculating in the ordinary
 
-## way we have
+way we have
 
 = (-1) δ_{k,β} = δ_{k,β}, (7.
 
 where N is the number of particles in the system.
 
-## Using the commutation
+# Using the commutation
 
-## relations
+relations
 
 where the last term vanishes since c_r|Φ₀)=0 (because k > k_F but |Φ₀> has no
 
@@ -7714,7 +7708,7 @@ of c^†, c.
 
 It is a good idea to review the argument used in §4.
 
-## We require
+# We require
 
 equality between the matrix elements of the operator as computed in occupa-
 
@@ -7722,13 +7716,13 @@ tion number formalism and in the old cave-man formalism.
 
 For example,
 
-## in a one-particle system
+in a one-particle system
 
-## the operator O(r
+the operator O(r
 
-## p) with matrix elements
+p) with matrix elements
 
-### has the occupation number form
+has the occupation number form
 
 This is easily checked, as in (4.
 
@@ -7740,9 +7734,9 @@ Equation (7.
 
 38) may be generalized to the N-particle case.
 
-## Suppose we
+# Suppose we
 
-## have an operator
+have an operator
 
 O = Σ_{i=1}^N O(r_i, p_i) (7.
 
@@ -7756,7 +7750,7 @@ Such operators are called ‘one-body’ operators since they are a sum of
 
 operators each of which acts separately on one particle.
 
-## Then it can be shown
+# Then it can be shown
 
 (the proof is difficult—see Dirac (1947)
 
@@ -7766,9 +7760,9 @@ pp. 230
 
 37) still holds,
 
-## --- Page 148 ---
+--- Page 148 ---
 
-### 132 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
+132 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
 
 with O_{αβ} still given by (7.
 
@@ -7778,11 +7772,11 @@ with O_{αβ} still given by (7.
 
 10).
 
-## ) Thus we have the valuable
+) Thus we have the valuable
 
 result that in occupation number formalism
 
-### the single-particle operators have
+the single-particle operators have
 
 a form independent of N.
 
@@ -7790,7 +7784,7 @@ a form independent of N.
 
 39) which involves N explicitly.
 
-## In a similar way
+# In a similar way
 
 it can be shown that the ‘two-body’ operator
 
@@ -7802,15 +7796,15 @@ V(r_1, .
 
 , r_N) = Σ_{i<j} V(r_i - r_j), (7.
 
-## becomes
+becomes
 
-## where
+where
 
-## (note reversal of order in k
+(note reversal of order in k
 
 j indices of the c's!
 
-## We remark here that the
+# We remark here that the
 
 results (7.
 
@@ -7834,7 +7828,7 @@ form (7.
 
 V(r).
 
-### In the stone-age notation this is
+# In the stone-age notation this is
 
 H = [Σ_i (p^2/2m + U(r_i)) + Σ_{i<j} V(r_i - r_j) + Σ_i V(r_i)] (7.
 
@@ -7846,13 +7840,13 @@ O in (7.
 
 39).
 
-## Hence by
+# Hence by
 
 36, 37):
 
 If the ψ_α are chosen to be eigenstates of p^2/2m + U(r)
 
-## with eigenvalues ε_α
+with eigenvalues ε_α
 
 then this becomes (see appendix A.
 
@@ -7860,13 +7854,13 @@ then this becomes (see appendix A.
 
 Similarly, H_int is translated by (7.
 
-## 43) into
+43) into
 
-## --- Page 149 ---
+--- Page 149 ---
 
-### 4) OCCUPATION NUMBER FORMALISM 133
+4) OCCUPATION NUMBER FORMALISM 133
 
-## where
+where
 
 and H_ext becomes by (7.
 
@@ -7880,25 +7874,25 @@ spins.
 
 ) Hence in the occupation number formalism H is
 
-## For practice
+# For practice
 
-### let us solve the Schrödinger equation
+let us solve the Schrödinger equation
 
-## HΨ = EΨ
+HΨ = EΨ
 
-## in occupa-
+in occupa-
 
 tion number formalism in some trivial cases.
 
-### Suppose first that both U(r) = 0
+Suppose first that both U(r) = 0
 
 and V_{αβ} = 0.
 
-## Then we have
+# Then we have
 
 The ordinary form of this is (7.
 
-### It is easy to see that the solution is
+# It is easy to see that the solution is
 
 |Ψ> = Π_{k<k_F} c^†_k |0>.
 
@@ -7906,7 +7900,7 @@ since by (7.
 
 31):
 
-### The energy eigenvalues are evidently
+# The energy eigenvalues are evidently
 
 E = Σ_{k<k_F} ε_k (7.
 
@@ -7916,7 +7910,7 @@ result as in (7.
 
 Another extremely easy example involves N free particles in the perturbing
 
-## potential
+potential
 
 V(p) = Mp^2 + Lp^4 = -MV^2 + LV^4 (7.
 
@@ -7928,7 +7922,7 @@ We have from (3.
 
 27) and (3.
 
-## 29) that
+29) that
 
 V_{αβ} = (Mk^2 + Lk^4) δ_{αβ}.
 
@@ -7938,17 +7932,17 @@ Hence, using (7.
 
 H = Σ_{k<k_F} (k^2/2m) c^†_k c_k + (1/2) Σ_{k
 
-### k'} (Mk^2 + Lk^4) δ_{kk'} c^†_k c_{k'}
+k'} (Mk^2 + Lk^4) δ_{kk'} c^†_k c_{k'}
 
 = Σ_{k<k_F} (k^2/2m) c^†_k c_k + Σ_{k<k_F} (Mk^2 + Lk^4) c^†_k c_k
 
-## --- Page 150 ---
+--- Page 150 ---
 
-### 134 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
+134 A GUIDE TO FEYNMAN DIAGRAMS (7.4)
 
 which evidently is just the Hamiltonian of a set of particles with single-particle
 
-## energy
+energy
 
 ε_k = k^2/2m + Mk^2 + Lk^4 (7.
 
@@ -7960,37 +7954,37 @@ The eigenfunctions of (7.
 
 58) are just (7.
 
-## 53) and the
+53) and the
 
-## eigenenergies are
+eigenenergies are
 
 E = Σ_{k<k_F} ε_k.
 
-## k
+k
 
 A third example is for a one-particle system subjected to an external
 
 perturbing potential V(r).
 
-## The Schrödinger equation is
+The Schrödinger equation is
 
-## HΨ = (H_0 + V)Ψ = EΨ
+HΨ = (H_0 + V)Ψ = EΨ
 
-## with
+with
 
 which yields the secular equation for the energy
 
 In the ultra-simple case where all V_{αβ}=0 except V_{pp} and V_{qq}
 
-## this becomes
+this becomes
 
-## | (ε_p - E) V_{pq} |
+| (ε_p - E) V_{pq} |
 
-## | V_{qp} (ε_q - E) | = 0
+| V_{qp} (ε_q - E) | = 0
 
-### (ε_p - E)(ε_q - E) - V_{pq} V_{qp} = 0
+(ε_p - E)(ε_q - E) - V_{pq} V_{qp} = 0
 
-## which has the solutions
+which has the solutions
 
 E = ε_k (k ≠ p,q) (7.
 
@@ -8000,9 +7994,9 @@ E = (ε_p + ε_q)/2 ± {[(ε_p - ε_q)/2]^2 + |V_{pq}|^2}^{1/2}.
 
 Let us see how this goes in the occupation number formalism.
 
-## We have
+# We have
 
-### Since there is only one particle
+# Since there is only one particle
 
 |Ψ> = c^†_p |00.
 
@@ -8016,15 +8010,15 @@ Putting this in (7.
 
 0_1.
 
-## | gives
+| gives
 
-## --- Page 151 ---
+--- Page 151 ---
 
-### 4) OCCUPATION NUMBER FORMALISM 135
+4) OCCUPATION NUMBER FORMALISM 135
 
-## where
+where
 
-## H_{pq} = ε_p δ_{pq} + V_{pq}
+H_{pq} = ε_p δ_{pq} + V_{pq}
 
 = ε_p + V_{pp} (7.
 
@@ -8038,7 +8032,7 @@ the external potential is zero and the interaction potential depends only on
 
 the distance7.
 
-## 2 above (i.e.
+2 above (i.e.
 
 show, for example
 
@@ -8050,7 +8044,7 @@ etc.).
 
 Choose the states phi_i(x) as the single-particle eigenstates.
 
-## 5 The system of Ch. 3, Ex.
+5 The system of Ch. 3, Ex.
 
 1, is subjected to the perturbation of Ch. 3
 
@@ -8064,13 +8058,13 @@ Neglect spin.
 
 73).
 
-## 7.8 Verify (7.75).
+# 7.8 Verify (7.75).
 
 9 Use occupation number formalism to prove the first line of (7.
 
 78b).
 
-### 10 Verify that for a two-particle system
+10 Verify that for a two-particle system
 
 the matrix elements of the operator in (7.
 
@@ -8098,25 +8092,25 @@ S_x = frac{1}{2} sum_k (c_{k uparrow}^ dagger c_{k downarrow} + c_{k downarrow}^
 
 S_z = frac{1}{2} sum_k (c_{k uparrow}^ dagger c_{k uparrow} - c_{k downarrow}^ dagger c_{k downarrow})
 
-## --- Page 158 ---
+--- Page 158 ---
 
-## Chapter 8
+# Chapter 8
 
-## More about Quasi Particles
+# More about Quasi Particles
 
-## 8.1 Introduction
+# 8.1 Introduction
 
 Our first application of occupation number formalism will be to bring into focus some parts of the quasi particle picture which were left hazy in the semi-qualitative talk in the first half of the book.
 
-## For one thing
+# For one thing
 
 we recall that in appendix B (which the reader should look at now if he hasn't already done so) it is stated that in most many-body systems, one can transform from the original Hamiltonian with strong interactions between particles,
 
 H = sum_i frac{p_i^2}{2m} + frac{1}{2} sum_{i neq j} V(r_i
 
-## r_j)
+r_j)
 
-## to a Hamiltonian of the form
+to a Hamiltonian of the form
 
 H' = E_0 + sum_k epsilon_k alpha_k^ dagger alpha_k + H_{int}
 
@@ -8130,7 +8124,7 @@ H_{int}.
 
 This is illustrated for collective excitations by the phonon transformation.
 
-## However
+# However
 
 in general it is too difficult to go from (8.
 
@@ -8142,7 +8136,7 @@ and therefore we introduced the quantum field theoretical method of getting epsi
 
 omega).
 
-## In particular
+# In particular
 
 all our quasi particle examples were solved by the field theoretic method.
 
@@ -8156,19 +8150,19 @@ it would be valuable to have a simple example showing how the transformation (8.
 
 In §8.
 
-### 2 we introduce just such an example
+2 we introduce just such an example
 
 a soluble model system with a 'pure Hartree' Hamiltonian which can be easily calculated exactly both by the field theoretic and the transformation method.
 
-### Both methods give the same answer
+# Both methods give the same answer
 
 The elementary excitations turn out to be a set of quasi particles and an equal number of quasi holes
 
 together with an interaction term.
 
-## --- Page 159 ---
+--- Page 159 ---
 
-### 2] MORE ABOUT QUASI PARTICLES 143
+2] MORE ABOUT QUASI PARTICLES 143
 
 In §8.
 
@@ -8186,7 +8180,7 @@ which will be discussed in the last section.
 
 An important point which can generate considerable confusion is that the word quasi particle
 
-## in the case of Fermi systems
+in the case of Fermi systems
 
 is used in two different senses.
 
@@ -8196,7 +8190,7 @@ The word quasi particle as we use it here means an elementary excitation above t
 
 quasi particles and quasi holes.
 
-## However
+# However
 
 there is an 'intuitive' definition of quasi particle introduced by Landau (Abrikosov (1965))
 
@@ -8204,13 +8198,13 @@ which is very close to the picture of the classical quasi-ions in Fig.
 
 Landau visualizes the whole interacting system in its ground state as filled with quasi particles up to the Fermi surface.
 
-### There are N Landau quasi particles
+# There are N Landau quasi particles
 
 one for each bare particle.
 
 Excited states are formed by lifting Landau quasi particles out of the Fermi sea
 
-### thus creating quasi particles and holes
+thus creating quasi particles and holes
 
 same as those we deal with.
 
@@ -8222,29 +8216,29 @@ since the lifetime is otherwise too short.
 
 Thus even though we say 'N Landau quasi particles'
 
-## this has only formal meaning
+this has only formal meaning
 
 since we can really only talk about those with |k| near k_F.
 
 This also implies that if n_k is the number of Landau quasi particles in state k
 
-## the statement
+the statement
 
 'The function n_k = 0 for |k| > k_F, and = 1 for |k| < k_F' has meaning only near k_F.
 
-## Finally
+# Finally
 
 even though we talk of the ground state as 'filled with N Landau quasi particles up to k_F'
 
 we cannot get the properties of the ground state from such a model
 
-## in particular
+in particular
 
 the ground state energy is not equal to the sum of the energies of the Landau quasi particles.
 
-## 2 A soluble fermion system
+2 A soluble fermion system
 
-## The pure Hartree model
+# The pure Hartree model
 
 Imagine that we have an N-fermion system with no external potential
 
@@ -8258,15 +8252,15 @@ V_{k_1 k_2 k_3 k_4} = V delta_{k_1 k_3} delta_{k_2 k_4}
 
 Placing this in the general Hamiltonian (7.
 
-## 51) yields
+51) yields
 
 H = sum_k epsilon_k c_k^ dagger c_k + frac{1}{2} sum_{k_1
 
 k_2, q} V c_{k_1+q}^ dagger c_{k_2-q}^ dagger c_{k_2} c_{k_1}
 
-## --- Page 160 ---
+--- Page 160 ---
 
-### 144 A GUIDE TO FEYNMAN DIAGRAMS [8.2
+144 A GUIDE TO FEYNMAN DIAGRAMS [8.2
 
 For a system with the full H in (7.
 
@@ -8298,25 +8292,25 @@ then get the same result by the canonical transformation technique.
 
 The interaction (8.
 
-## 3) has only the simple forms
+3) has only the simple forms
 
-## begin{align}
+begin{align}
 
 V_{k_1 k_2 k_1 k_2} &= V delta_{k_1 k_2} delta_{k_2 k_2} = V delta_{k_1 k_2} delta_{k_2 k_2} quad text{where} quad delta_{k_1 k_2} text{ are Kronecker deltas} V_{k_1 k_2 k_2 k_1} &= V delta_{k_1 k_2} delta_{k_2 k_1} quad text{(exchange term)}
 
-## end{align}
+end{align}
 
 Hence the only graphs occurring in the series for the ground state energy (5.
 
-## 42) are
+42) are
 
-## begin{align}
+begin{align}
 
 E_0 &= W_0 + Delta W + langle text{bubble} rangle + langle text{ring} rangle + dots &= W_0 + frac{1}{2} sum_{k_1
 
 k_2} V delta_{k_1 k_2} delta_{k_2 k_1} langle c_{k_1}^ dagger c_{k_1} rangle langle c_{k_2}^ dagger c_{k_2} rangle + dots
 
-## end{align}
+end{align}
 
 since a little experimenting shows that none of the other graphs in (5.
 
@@ -8332,13 +8326,13 @@ Observe also that the diagrams in brackets violate the exclusion principle since
 
 ) This may be evaluated with the aid of (5.
 
-## 44) giving
+44) giving
 
-## E_0 = frac{1}{2} sum_{k_1
+E_0 = frac{1}{2} sum_{k_1
 
-### k_2} V langle n_{k_1} n_{k_2} rangle
+k_2} V langle n_{k_1} n_{k_2} rangle
 
-## (The k_1 = k_2 graphs cancel
+(The k_1 = k_2 graphs cancel
 
 as seen from (5.
 
@@ -8350,13 +8344,13 @@ Now let us get the quasi particle energies
 
 epsilon_k from the poles of the Green's function.
 
-## In this case
+# In this case
 
 the propagator is given exactly by the sum over just bubble graphs
 
 G(k, omega) = frac{1}{ omega - epsilon_k - Sigma(k
 
-## omega)}
+omega)}
 
 since none of the other diagrams in (4.
 
@@ -8366,9 +8360,9 @@ since none of the other diagrams in (4.
 
 67) where the propagator is only approximately given by the sum over bubble graphs.
 
-## --- Page 161 ---
+--- Page 161 ---
 
-### 2] MORE ABOUT QUASI PARTICLES 145
+2] MORE ABOUT QUASI PARTICLES 145
 
 Series (8.
 
@@ -8382,19 +8376,19 @@ epsilon_k = epsilon_k + V sum_{k_1 < k_F} 1momenta lie in a shell of thickness �
 
 Assuming there’s nothing peculiar about the behaviour of V
 
-## the integral over
+the integral over
 
 the k_2-shell gives a factor ∝ 4πk_2^2(|k|—k_F)
 
-### and the same for the k_3-shell
+and the same for the k_3-shell
 
 H ∝ (|k|—k_F)^2 (8.
 
-## But
+# But
 
 ≈ 2k_F (|k|—k_F).
 
-## Whence
+# Whence
 
 1/τ_k ∝ (ε_k— ε_F)^2 (8.
 
@@ -8404,7 +8398,7 @@ which ‘proves’ (8.
 
 real particles.
 
-## In this calculation
+# In this calculation
 
 we obtained the lifetime by applying the ‘Golden Rule’ to
 
@@ -8412,7 +8406,7 @@ find the transition probability corresponding to the matrix element given by the
 
 k, p k_3
 
-## 307)
+307)
 
 This same result may also be obtained by evaluating the imaginary part of the
 
@@ -8420,7 +8414,7 @@ proper self-energy diagram:
 
 k_2 (8.
 
-## 30°)
+30°)
 
 as will be shown in §9.
 
@@ -8428,39 +8422,39 @@ Note that in the special case of the model interaction (8.
 
 3), we have that
 
-## k_2 = k_3
+k_2 = k_3
 
 and it is easily shown that the argument above leads to a region of
 
-## integration of zero volume
+integration of zero volume
 
 so that W=0 and the lifetime is infinite
 
-## in agree-
+in agree-
 
 ment with (8.
 
 10).
 
-## --- Page 167 ---
+--- Page 167 ---
 
-### 4) MORE ABOUT QUASI PARTICLES 151
+4) MORE ABOUT QUASI PARTICLES 151
 
-### 8.4 General form of quasi particle propagator
+# 8.4 General form of quasi particle propagator
 
 The quasi particle formula in (3.
 
-### 15) was good enough for describing the
+15) was good enough for describing the
 
 ‘quantum pinball’ and Hartree-Fock cases
 
-## but needs to be generalized
+but needs to be generalized
 
 slightly to cope with the more complicated situations to come.
 
-## Before pre-
+# Before pre-
 
-### senting the more general expression
+senting the more general expression
 
 let us recapitulate.
 
@@ -8470,51 +8464,51 @@ According to (3.
 
 29) the single-particle propagator or ‘Green’s
 
-## function’ is defined as
+function’ is defined as
 
 G(k_2, k_1
 
-## t_2—t_1) = G^+(k_2
+t_2—t_1) = G^+(k_2
 
 k_1, t_2—t_1) θ(t_2—t_1) − G^−(k_2
 
 k_1, t_2—t_1) θ(t_1—t_2) (8.
 
-## where
+where
 
-## iG^+(k_2
+iG^+(k_2
 
 k_1, t_2—t_1) = probability amplitude that if at time t_1 we
 
 add a particle in ψ_1 to the interacting
 
-## system in its ground state
+system in its ground state
 
-## then at time t_2
+then at time t_2
 
 the system will be in its ground state with
 
 an added particle in ψ_2, (8.
 
-## 32a)
+32a)
 
-## −iG^−(k_2
+−iG^−(k_2
 
 k_1, t_2—t_1) = probability amplitude that if at time t_1 we
 
-### add a hole in ψ_1 to the interacting
+add a hole in ψ_1 to the interacting
 
-## system in its ground state
+system in its ground state
 
-## then at time t_2
+then at time t_2
 
 the system will be in its ground state with
 
 an added hole in ψ_2.
 
-## 32b)
+32b)
 
-### (The − sign on G^− is for fermions
+(The − sign on G^− is for fermions
 
 bosons have a + iG^− instead.
 
@@ -8532,25 +8526,25 @@ This gives, using (8.
 
 G_0(k, t) = — [θ(t) e^{−iε_k t} − θ(−t) e^{−iε_k t}]
 
-## t ≠ 0
+t ≠ 0
 
 = +18,−4, t = 0 (8.
 
-## and
+and
 
 G_0(k, ω) = — (8.
 
-## —i / (ω − ε_k + iδ)
+—i / (ω − ε_k + iδ)
 
 (see appendix I regarding the iδ-factor).
 
 Now in chapter 3 we argued physically that in systems describable by quasi
 
-## particles
+particles
 
 G will look like G_0 except for replacing ε_k by t_k
 
-## introducing a lifetime
+introducing a lifetime
 
 τ_k, and an amplitude factor
 
@@ -8562,17 +8556,17 @@ However, this is not quite right,
 
 because it neglects the fact that when the bare particle is first put into the
 
-## system
+system
 
-## it will take some finite time
+it will take some finite time
 
-## say t_c
+say t_c
 
-### for it to become ‘clothed’ so it will
+for it to become ‘clothed’ so it will
 
-## --- Page 168 ---
+--- Page 168 ---
 
-### 152 A GUIDE TO FEYNMAN DIAGRAMS (8.4)
+152 A GUIDE TO FEYNMAN DIAGRAMS (8.4)
 
 not act like a quasi particle until t — t_c > τ_c.
 
@@ -8590,13 +8584,13 @@ important for t < τ_c and 1 > τ.
 
 It is also a good idea to include a ‘quasi hole’ part in the definition
 
-## similar
+similar
 
 to the way in which the hole part was included in the free propagator (8.
 
 34, 35).
 
-### These considerations yield (setting t=1
+These considerations yield (setting t=1
 
 —1,), for 140
 
@@ -8606,15 +8600,15 @@ where 0 < Z_k < 1 (Z_k independent of 1!
 
 ), ε_k is the Fermi energy of the inter-
 
-## acting system and F(k
+acting system and F(k
 
 t) is the correction term.
 
 Taking the Fourier transform:
 
-## G_quasiparticle(k
+G_quasiparticle(k
 
-### ω) = Z_k / (ω − ε_k + i/2τ_k) + F(k
+ω) = Z_k / (ω − ε_k + i/2τ_k) + F(k
 
 It must be remembered that these are bona fide quasi particles only if the
 
@@ -8624,23 +8618,23 @@ condition (8.
 
 1/τ_k ≪ |ε_k|/ℏ.
 
-## Finally
+# Finally
 
 a word about the suspicious-looking correction term
 
-## Sceptics
+# Sceptics
 
 may feel that so many sins are packed into F that the quasi particle expression
 
 is useless.
 
-## This is not true
+# This is not true
 
 because we of course require that F does not
 
 contain a piece cancelling the Z_k term (!
 
-### There are also certain ‘sum rules’
+There are also certain ‘sum rules’
 
 that it has got to satisfy (see (9.
 
@@ -8648,7 +8642,7 @@ that it has got to satisfy (see (9.
 
 restrictions on it.
 
-## It is presumably well-behaved
+# It is presumably well-behaved
 
 and, hopefully
 
@@ -8656,29 +8650,29 @@ small.
 
 can be shown to describe collective excitations in the system
 
-## but this will not
+but this will not
 
 be discussed here.
 
-## Further reading
+# Further reading
 
 Nozières (1964), chap.
 
-### 1 (Landau theory of quasi particles).
+1 (Landau theory of quasi particles).
 
 Abrikosov (1965), chap.
 
 Falicov (1961).
 
-## Exercises
+# Exercises
 
-### 1 Using the rules for diagrams, Table 4.
+1 Using the rules for diagrams, Table 4.
 
 3, prove that the bracketed diagrams in
 
 9) cancel.
 
-## 8.2 Verify (8.19).
+# 8.2 Verify (8.19).
 
 3 The energy and lifetime of quasi particles in the electron gas are given (in RPA)
 
@@ -8686,17 +8680,17 @@ in (10.
 
 46).
 
-### Taking r_s=1 (high density case)
+Taking r_s=1 (high density case)
 
-### calculate the order of magnitude
+calculate the order of magnitude
 
 of how far out from the Fermi surface the quasi-particle picture is still valid.
 
-## --- Page 169 ---
+--- Page 169 ---
 
-### 4) MORE ABOUT QUASI PARTICLES 153
+4) MORE ABOUT QUASI PARTICLES 153
 
-### 8.4 Verify (8.37) from (8.36).
+# 8.4 Verify (8.37) from (8.36).
 
 5 Consider a three-particle Fermi system with interaction as in (8.
 
@@ -8706,23 +8700,23 @@ state |Ψ> = |k_1, k_2, k_3, 0, 0, .
 
 Show using (8.
 
-## 4) that the energy of this
+4) that the energy of this
 
 state is E= ε_1+ ε_2+ ε_3+ V_{12}+V_{13}+ V_{23}.
 
-### Rewrite |Ψ> in particle-hole notation
+Rewrite |Ψ> in particle-hole notation
 
 and show that H’ in (8.
 
 19) yields the same energy.
 
-## --- Page 170 ---
+--- Page 170 ---
 
-## Chapter 9
+# Chapter 9
 
 The Single-Particle Propagator Re-Visited
 
-### 9.1 Second quantization and the propagator
+# 9.1 Second quantization and the propagator
 
 In the early chapters we used an intuitive approach to the quantum propa-
 
@@ -8730,15 +8724,15 @@ gator, defining it physically and obtaining its diagrammatic perturbation
 
 expansion by analogy to the pinball case.
 
-### While such an approach is a good
+# While such an approach is a good
 
 way to get a foot in the front door of the field
 
 it has obvious limitations.
 
-## Therefore
+# Therefore
 
-## in this chapter
+in this chapter
 
 we are going to take a more rigorous look at the
 
@@ -8746,13 +8740,13 @@ propagator with the aid of the occupation number formalism.
 
 By introducing creation and destruction operators c_k(t)
 
-## c_k^†(t) which create
+c_k^†(t) which create
 
-### and destroy a particle at time t
+and destroy a particle at time t
 
-### it is possible to write a simple
+it is possible to write a simple
 
-## compact mathe-
+compact mathe-
 
 matical expression for the propagator.
 
@@ -8764,13 +8758,13 @@ is a lot easier to work with than the verbal definition (8.
 
 facilitates understanding the properties of the propagator.
 
-## The expression
+# The expression
 
 also reveals the origin of the diagram expansion
 
-## since it may be expanded in
+since it may be expanded in
 
-## a perturbation series
+a perturbation series
 
 each term of which corresponds to one of the graphs we
 
@@ -8784,13 +8778,13 @@ and evaluating diagrams.
 
 These rules are then applied to the simplest example
 
-### of a true many-body calculation
+of a true many-body calculation
 
 i.e., a calculation in which we go beyond
 
 Hartree-Fock and include correlation effects.
 
-### The example consists of finding
+# The example consists of finding
 
 the contribution to the quasi particle energy and lifetime coming from the
 
@@ -8808,7 +8802,7 @@ G(k_2, k_1
 
 t_2—t_1) = i⟨Ψ_0| T { c_{k_2}(t_2) c_{k_1}^†(t_1)} |Ψ_0⟩ (9.
 
-## or
+or
 
 G(k_2, t_2— t_1) = ⟨Ψ_0| T { c_{k_2}(t_2) c_{k_1}^†(t_1)} |Ψ_0⟩.
 
@@ -8818,13 +8812,13 @@ way.
 
 We'll explore the meaning of each term in (9.
 
-## 1) and show that it is
+1) and show that it is
 
 precisely the same as (8.
 
 31, 32).
 
-## --- Page 171 ---
+--- Page 171 ---
 
 2) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 155
 
@@ -8832,11 +8826,11 @@ First, Ψ_0 is the exact normalized wave function of the ground state of the
 
 interacting N-particle system.
 
-## The operators c_k(t)
+The operators c_k(t)
 
-## c_k^†(t) respectively
+c_k^†(t) respectively
 
-## destroy
+destroy
 
 and create a particle in state k at time t.
 
@@ -8844,11 +8838,11 @@ More precisely, they are the ordinary
 
 c_k c_k^† transformed to ‘Heisenberg picture’
 
-### defined by (see Schrieffer (1964a)
+defined by (see Schrieffer (1964a)
 
 104):
 
-## c_k(t) = e^{iHt} c_k e^{−iHt}
+c_k(t) = e^{iHt} c_k e^{−iHt}
 
 c_k^†(t) = e^{iHt} c_k^† e^{−iHt} (9.
 
@@ -8856,19 +8850,19 @@ where H is the Hamiltonian of the interacting system as in (7.
 
 51).
 
-## The ex-
+# The ex-
 
 ponential operator in (9.
 
 3) is defined in appendix (B.
 
-### Finally the Wick time-ordering operator
+# Finally the Wick time-ordering operator
 
 T is defined byT{A(t₁) B(t₂).
 
 } = (−1)^P operators rearranged so that time decreases from left to right
 
-### assuming no two times are equal
+assuming no two times are equal
 
 = (−1)^P operators rearranged so all c's (or a's or b's) stand to the left of c's (or a's, or b's) for the case of equal times (see end of appendix F)
 
@@ -8882,27 +8876,27 @@ Thus,
 
 (Note: The factor of (−1)^P is not present in the boson case.
 
-## ) Hence G may be re-written
+) Hence G may be re-written
 
 Consider the t₁ > t₂ case first.
 
 Substituting (9.
 
-## 3) gives
+3) gives
 
 Now exp(−iH t) is the time development operator (see appendix B)
 
-## so that
+so that
 
-### the state with one particle in k
+the state with one particle in k
 
 added to the ground state at time t₁.
 
-## Hence
+# Hence
 
 A = c†_k exp(−iH t₁) |Ψ₀⟩ (9.
 
-### is the state of the system at time t₁
+is the state of the system at time t₁
 
 when a particle in k was added at t₁.
 
@@ -8910,19 +8904,19 @@ when a particle in k was added at t₁.
 
 See Nozières (1964), p.
 
-### The meaning of BIn chapters 3 and 4
+# The meaning of BIn chapters 3 and 4
 
 the perturbation expansion of the propagator was obtained mainly by analogy with the pinball case.
 
 In order to make sure that all the arguments by analogy did not give us the idea that the diagram subject is either (a) all kindergarten stuff
 
-## or (b) based on black magic
+or (b) based on black magic
 
 we gave a rough idea of the rigorous derivation of the expansion for the single-particle case in §3.
 
 The argument in the many-body case is much more complicated.
 
-## However
+# However
 
 it is not necessary for understanding the rest of the book
 
@@ -8938,7 +8932,7 @@ Probably most readers who glance at the appendix now will find it sufficiently r
 
 **9.
 
-## 5 Topology of diagrams**
+5 Topology of diagrams**
 
 In order to develop general methods for working with diagrams
 
@@ -8954,15 +8948,15 @@ The series for G in this case appears in (4.
 
 34).
 
-### To get all nth-order diagrams here
+# To get all nth-order diagrams here
 
-### draw n fat ‘vertex’ dots labelled f₁
+draw n fat ‘vertex’ dots labelled f₁
 
 , fₙ in a vertical row
 
-### with two skinny ‘fixed points’
+with two skinny ‘fixed points’
 
-## labelled k₁
+labelled k₁
 
 k₂ as shown in (9.
 
@@ -9028,13 +9022,13 @@ Hence (9.
 
 29) becomes:
 
-## In other words
+# In other words
 
-### Goldstone diagrams are time-ordered
+# Goldstone diagrams are time-ordered
 
 whereas Feynman diagrams are not.
 
-## (In the Goldstone method
+(In the Goldstone method
 
 time integrations are over the regions allowed by the time order in the diagram
 
@@ -9066,11 +9060,11 @@ Drawing diagrams in the case of mutually interacting fermions with no external p
 
 63)) is considerably more difficult.
 
-### To get all nth-order Goldstone diagrams
+# To get all nth-order Goldstone diagrams
 
 draw n wiggly lines each with vertex dots at both ends
 
-## and two fixed points
+and two fixed points
 
 thus (note that the wiggles may have any vertical position relative to the fixed points)
 
@@ -9086,15 +9080,15 @@ Note that by (4.
 
 and only one of them should be drawn.
 
-## To illustrate
+# To illustrate
 
 consider the second-order case.
 
 The number of distinct linked diagrams coming out of (9.
 
-### 32) even in this low order is dazzling
+32) even in this low order is dazzling
 
-## or perhaps depressing
+or perhaps depressing
 
 depending on whether your viewpoint is aesthetic or practical.
 
@@ -9106,7 +9100,7 @@ Sitting in seclusion with these surrealisms for a while shows that many of them 
 
 First because of conservation of momentum
 
-## graphs (b)
+graphs (b)
 
 (d), (e)
 
@@ -9128,13 +9122,13 @@ e.g. external field present
 
 or at finite temperatures.
 
-## ) Second
+) Second
 
 if we agree to use the Feynman convention (see (9.
 
 30)) in which the full G is associated with each line and time order has no significance
 
-## then (f)=(e)
+then (f)=(e)
 
 (g)=(h).
 
@@ -9154,7 +9148,7 @@ Equations (9.
 
 35) are evidently topologically equivalent in the Feynman sense.
 
-### Note that with the Feynman method
+# Note that with the Feynman method
 
 the arrows no longer designate particles or holes but just show the direction of momentum flow.
 
@@ -9186,7 +9180,7 @@ Remember that (9.
 
 33) lumped into one.
 
-### The (−1) is for the fermion loop
+The (−1) is for the fermion loop
 
 ˇ , Fermion loops were defined just after (4.
 
@@ -9208,7 +9202,7 @@ the others have zero.
 
 The Fourier transform of (9.
 
-## 36) is
+36) is
 
 Note that a frequency is associated with interaction wiggles as well as
 
@@ -9216,7 +9210,7 @@ propagators.
 
 In some cases V will actually depend on ω (this is a ‘frequency
 
-## dependent’ or
+dependent’ or
 
 in (q,#)-space ‘retarded’
 
@@ -9226,7 +9220,7 @@ Finally, observe that
 
 one integrates or sums over all intermediate momenta and frequencies where
 
-### ‘intermediate’ means excluding the k
+‘intermediate’ means excluding the k
 
 ω of the incoming and outgoing lines.
 
@@ -9236,43 +9230,43 @@ We can avoid treating the ‘non-propagating’ lines as a
 
 special case by including a convergence factor exp(iω0⁺) when translating
 
-## these lines into functions
+these lines into functions
 
 where 0⁺ is a positive infinitesimal such that
 
-### 0⁺ × ∞ = 0 (see end of appendix I)
+0⁺ × ∞ = 0 (see end of appendix I)
 
 thus:
 
 εC) or ω → iC: exp(iε0) (9.
 
-## Ie
+Ie
 
-## --- Page 181 ---
+--- Page 181 ---
 
 6) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 165
 
 (Note that this factor may also be included in G₀(l
 
-## ¢) itself—see Schrieffer
+¢) itself—see Schrieffer
 
 (1964), pp. 108-9.
 
 ) Hence the integral over the intermediate frequency ω gives
 
-## 一 一 一 一 一 = 9.38"
+一一一一一 = 9.38"
 
-## | 0 for |ξ|>kF
+| 0 for |ξ|>kF
 
 (The integral is done by residues as in appendix I.
 
-## The contour is closed in the
+# The contour is closed in the
 
 upper half-plane where the convergence factor makes the integral vanish.
 
 Thus, for example:
 
-## = [δ(r) * θ(t) ]
+= [δ(r) * θ(t) ]
 
 same as in (4.
 
@@ -9284,9 +9278,9 @@ propagator:
 
 KG₀ or ∫ F(ω) exp(iω0⁺).
 
-## Ie
+Ie
 
-### 9.6 Diagram rules for single-particle propagator
+# 9.6 Diagram rules for single-particle propagator
 
 We have now reached the point where we can present in summary form the
 
@@ -9302,7 +9296,7 @@ interacting fermions with no external field and they will always be drawn in
 
 The rules are:
 
-## (1) In nth order
+(1) In nth order
 
 draw n wiggly lines with vertex dots and two external points
 
@@ -9314,41 +9308,41 @@ as in (9.
 
 in all linked topologically distinct (in the Feynman sense) ways
 
-## with one
+with one
 
 line entering and one leaving each vertex dot and a line entering one
 
 external point and leaving the other.
 
-### Two diagrams are topologically
+# Two diagrams are topologically
 
 distinct if they are visualized as made of rubber bands
 
-## and one cannot be
+and one cannot be
 
 deformed into the other.
 
 (3) Label each line and wiggle with a momentum
 
-## k (short for k
+k (short for k
 
 σ, where
 
-## σ=spin)
+σ=spin)
 
-## and frequency ω
+and frequency ω
 
 such that the sum of momenta (and frequen-
 
 cies) entering each vertex =sum of those leaving.
 
-## Eliminate all ‘anomalous’
+Eliminate all ‘anomalous’
 
-## --- Page 182 ---
+--- Page 182 ---
 
-### 166 A GUIDE TO FEYNMAN DIAGRAMS (9.6
+166 A GUIDE TO FEYNMAN DIAGRAMS (9.6
 
-### or ‘momentum-non-conserving’ diagrams
+or ‘momentum-non-conserving’ diagrams
 
 i.e., which have a hole and a
 
@@ -9372,17 +9366,17 @@ interaction wiggles are compressed to points or little squares.
 
 Thus, for
 
-## example
+example
 
-## h b
+h b
 
-## +
++
 
-## +
++
 
-## +
++
 
-## --- Page 183 ---
+--- Page 183 ---
 
 6) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 167
 
@@ -9394,95 +9388,95 @@ Those drawn with points are called ‘Hugenholtz diagrams’ (see Van Hove
 
 171, or Hugenholtz (1965) )
 
-### while those with squares are ‘Abrikosov
+while those with squares are ‘Abrikosov
 
 diagrams’ (Abrikosov (1963), p.
 
-## 71 ff.
+71 ff.
 
 Table 9.
 
 1 Diagram dictionary for interacting many-fermion system with
 
-### no external potential (Feynman method)
+no external potential (Feynman method)
 
-## Diagram element Factor
+# Diagram element Factor
 
 ko or kw + iG(k, ω)
 
-## Sko = +δ(ω)
+Sko = +δ(ω)
 
 k, or k,w 1 − geε
 
-| iG₀(k, ω) 山 一 ξk 十 iδ (5x<kr = 一 δ)
+| iG₀(k, ω) 山一 ξk 十 iδ (5x<kr = 一 δ)
 
-## |
+|
 
 O or y iG(k, ω) exp (iω0⁺)
 
-## kw (0⁺ × ∞ = 0)
+kw (0⁺ × ∞ = 0)
 
 iG₀(k, ω) exp (iω0⁺)
 
 so that: | ee se wah
 
-## fe) or ω → 2
+fe) or ω → 2
 
 k, kw 2
 
 | x exp(iω0⁺) = 4,
 
-## |
+|
 
-## −iVklmn or 一 P
+−iVklmn or 一 P
 
-### qe (use Vklm(e) or V(e) for time-
+qe (use Vklm(e) or V(e) for time-
 
-## dependent interaction)
+dependent interaction)
 
-## 巳
+巳
 
 Each Example:
 
-## fermion line (−1)
+fermion line (−1)
 
-## Each intermediate dw
+# Each intermediate dw
 
-## frequency ω Un
+frequency ω Un
 
 Each intermediate momentum k | 二 oF tere 0
 
-## intermediate momentum
+intermediate momentum
 
-## 2 or | Gps (for 2 =
+2 or | Gps (for 2 =
 
-## | | (include sum over spins)
+| | (include sum over spins)
 
-## --- Page 184 ---
+--- Page 184 ---
 
-### 168 A GUIDE TO FEYNMAN DIAGRAMS (9.7
+168 A GUIDE TO FEYNMAN DIAGRAMS (9.7
 
 7 Modified propagator formalism using chemical potential
 
 The formalism just described can be somewhat inconvenient in actual
 
-## calculations because
+calculations because
 
-### unless special precautions are taken
+unless special precautions are taken
 
-## it may produce
+it may produce
 
 approximations for G which yield the wrong total number of particles for the
 
 system.
 
-## In order to understand this
+# In order to understand this
 
 let us first derive the relation between the
 
 Propagator G and the total particle number N.
 
-### The quantity N is the expecta-
+# The quantity N is the expecta-
 
 tion value of the total number operator 2 ∑_k c†_k c_k (factor of 2 for spin) in the
 
@@ -9496,7 +9490,7 @@ k₁=k, t₂−t = t
 
 then letting t approach zero from the left.
 
-## This yields
+# This yields
 
 which is the desired relation.
 
@@ -9516,21 +9510,21 @@ this G in (9.
 
 Evidently, G(approx.
 
-## ) will
+) will
 
-## be a function of N₀
+be a function of N₀
 
 because each G₀ entering the calculation of G(approx.
 
-## depends on kF
+depends on kF
 
-## and kF is related to N₀ by
+and kF is related to N₀ by
 
-## keke
+keke
 
-## keke
+keke
 
-### (Note that the Fermi energy is
+(Note that the Fermi energy is
 
 εF = kF²/(2m) = x.
 
@@ -9540,51 +9534,51 @@ Hence N will be a function of N₀.
 
 But, since G is only approximate
 
-## there is
+there is
 
 no guarantee that N will equal N₀.
 
 It is possible to remove this difficulty without changing the formalism
 
-## developed up to now
+developed up to now
 
 either by using the spectral density method discussed
 
 in §9.
 
-### 3 or the self-consistent renormalization of §11.
+3 or the self-consistent renormalization of §11.
 
 However, it turns
 
 out to be simpler just to modify the formalism slightly.
 
-## The method of doing
+# The method of doing
 
 this is to use the ‘grand canonical ensemble’ at zero temperature (see chapter
 
-### 14 for the finite temperature case).
+14 for the finite temperature case).
 
-### In this method we no longer regard the
+# In this method we no longer regard the
 
-## system as isolated
+system as isolated
 
-### with definite particle number N₀
+with definite particle number N₀
 
-## but instead put it in
+but instead put it in
 
-### contact with a particle reservoir
+contact with a particle reservoir
 
 so that it can gain or lose particles.
 
 Thus,
 
-## particle number
+particle number
 
 N, is variable throughout the calculation.
 
-## The chemical
+# The chemical
 
-## --- Page 185 ---
+--- Page 185 ---
 
 7) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 169
 
@@ -9592,9 +9586,9 @@ potential of the system, μ (see (9.
 
 23)), is fixed
 
-## but unknown
+but unknown
 
-## its value is
+its value is
 
 determined at the end of the calculation by setting the total particle number
 
@@ -9606,13 +9600,13 @@ The modified Hamiltonian for this case is (Noziéres (1964)
 
 H' = H − μN = H₀' + H₁,
 
-## where
+where
 
-## H₀' = ∑_k (εk − μ) c†_k c_k
+H₀' = ∑_k (εk − μ) c†_k c_k
 
 | H₁ = 1/2 ∑_klmn Vklmn c†_k c†_l c_n c_m (9.
 
-## kimn
+kimn
 
 where N is the total particle number operator.
 
@@ -9620,7 +9614,7 @@ The ground state of the modified unperturbed Hamiltonian
 
 H₀', is obtained
 
-### by selecting that number of particles
+by selecting that number of particles
 
 and that way of filling the energy levels
 
@@ -9632,13 +9626,13 @@ up to k = k_F i.e.
 
 up to k_F = (2mμ)^{1/2}.
 
-### The corresponding particle number is
+# The corresponding particle number is
 
 N = (V/3π²) (2mμ)^{3/2}.
 
-## The free propagator for H₀ is
+The free propagator for H₀ is
 
-## | 1 | 1 | _ [1 for εk > μ
+| 1 | 1 | _ [1 for εk > μ
 
 | G₀(k, ω) = | ─ | = | ── | for εk < μ
 
@@ -9648,21 +9642,21 @@ The rules for diagrams are the same as those in Table 9.
 
 replaced by G₀'.
 
-### It will be convenient in chapter 11
+# It will be convenient in chapter 11
 
-## where we use this formalism
+where we use this formalism
 
-## to define a
+to define a
 
 new ω such that new ω' = ω + μ.
 
-## In addition
+# In addition
 
-### in order to get the correct result
+in order to get the correct result
 
 when we do self-consistent Hartree-Fock (see exercise 11.
 
-## 3) it is necessary to
+3) it is necessary to
 
 re-write the infinitesimal in the form i sgn(ω − μ)δ or i(ω − μ) for short
 
@@ -9672,7 +9666,7 @@ These two changes yield (ω=ω_ new):
 
 G₀'(k, ω) = | ─ | 9.
 
-## | ω' − (εk − μ) + iδ |
+| ω' − (εk − μ) + iδ |
 
 Note that the poles of (9.
 
@@ -9682,17 +9676,17 @@ Note that the poles of (9.
 
 47).
 
-## With this modified formalism
+# With this modified formalism
 
 it is found that G(approx.
 
-## ) is a function of μ
+) is a function of μ
 
 so that when it is placed in (9.
 
 43), N becomes a function of μ.
 
-### If μ is nowdetermined by setting
+If μ is nowdetermined by setting
 
 λ ( = N0 (9.
 
@@ -9704,13 +9698,13 @@ Note that G(approx.
 
 48) depends on the interaction, H_I.
 
-### For a non-interacting system (#7
+For a non-interacting system (#7
 
 =0), the exact propagator G is just equal to G0
 
-## --- Page 186 ---
+--- Page 186 ---
 
-### 170 A GUIDE TO FEYNMAN DIAGRAMS (9.8)
+170 A GUIDE TO FEYNMAN DIAGRAMS (9.8)
 
 and we obtain, using (9.
 
@@ -9720,37 +9714,37 @@ and we obtain, using (9.
 
 ( my)!
 
-## Ni) G(nji) “ 3m - N0
+Ni) G(nji) “ 3m - N0
 
-## so that λ=e_F
+so that λ=e_F
 
 the Fermi energy of the non-interacting system as given in
 
 45).
 
-## 8 Beyond Hartree–Fock
+8 Beyond Hartree–Fock
 
-### the single pair-bubble approximation]
+the single pair-bubble approximation]
 
-## In Hartree-Fock approximation
+# In Hartree-Fock approximation
 
-### while the incoming particle in state k
+while the incoming particle in state k
 
-## propagates through the system
+propagates through the system
 
 the other particles are considered to be
 
-## ‘static’
+‘static’
 
 i.e., remain in their original unperturbed stationary states
 
-## that is
+that is
 
 the eigenstates φ_n in (7.
 
-## But in reality
+# But in reality
 
-### we know that these particles are
+we know that these particles are
 
 perturbed by the incoming particle in such a way that their motion ‘follows’
 
@@ -9758,31 +9752,31 @@ or ‘is correlated with’ the motion of the incoming particle.
 
 That is, they act in
 
-### a dynamic rather than a static way
+a dynamic rather than a static way
 
 i.e., in a time-dependent fashion.
 
 simplest process showing this effect is the single pair-bubble self-energy part
 
-## kw
+kw
 
 , ae
 
-## k-
+k-
 
-## kw 4
+kw 4
 
 If we include in our approximation for G all bubbles
 
-## open oysters
+open oysters
 
-## and pair-
+and pair-
 
 bubbles thus:
 
 P| tee (9.
 
-## --- Page 187 ---
+--- Page 187 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 171
 
@@ -9790,7 +9784,7 @@ we find easily (see (10.
 
 5) for details):
 
-## -FFHzzHJ
+-FFHzzHJ
 
 We will now evaluate the single pair-bubble self-energy part to see its effect on
 
@@ -9800,7 +9794,7 @@ We first note in (9.
 
 50) that because of the conservation of momentum and
 
-## frequency at each vertex
+frequency at each vertex
 
 the outgoing momentum and frequency equal the
 
@@ -9808,239 +9802,235 @@ incoming ones.
 
 Using the dictionary Table 9.
 
-### 1 we find (note: factor of 2 is for
+1 we find (note: factor of 2 is for
 
 sum over spin directions in pair-bubble)
 
-## qa
+qa
 
-## fis) e-[o4 is 史 一 <
+fis) e-[o4 is 史一 <
 
-## l】(_囊_ll
+l】(_囊_ll
 
-## (I′-(7【))((_丿_'蟹)z x
+(I′-(7【))((_丿_'蟹)z x
 
-### x(=1)x2 yes = 塑 icu0pxicu0+a8+ 史
+x(=1)x2 yes = 塑 icu0pxicu0+a8+ 史
 
-## —ito(qe)
+—ito(qe)
 
-### where − iπ0 is the pair bubble
+where − iπ0 is the pair bubble
 
-~ino(qa)= | 8+ 〇丨 p (9.
+~ino(qa)= | 8+〇丨 p (9.
 
 Let us start off by evaluating the frequency integral over ζ in the pair-bubble.
 
 There are four cases.
 
-### In the first case we have |l| >k_F
+In the first case we have |l| >k_F
 
 |l+q| <k_F.
 
-## Then
+# Then
 
-## i i
+i i
 
-## Q- (max “lap P Prati Brame =)
+Q- (max “lap P Prati Brame =)
 
-## The integrand has poles at
+# The integrand has poles at
 
-## B=¢-i
+B=¢-i
 
-B= 一 x 十 et+g 十 阿 (9.
+B= 一 x 十 et+g 十阿 (9.
 
-## --- Page 188 ---
+--- Page 188 ---
 
-### 172 A GUIDE TO FEYNMAN DIAGRAMS (9.8
+172 A GUIDE TO FEYNMAN DIAGRAMS (9.8
 
 The integral may be evaluated by contours
 
-### completing the contour in either
+completing the contour in either
 
 half of the complex ζ-plane.
 
 We choose the upper:
 
-## We have
+# We have
 
-## +0
++0
 
 f= J + J =2πi Σ residues (9.
 
-## an *
+an *
 
-## and
+and
 
-## a(Reg i it
+a(Reg i it
 
-e Jim 左 X 丽)< 扁(矗c′夏三蠢…_l】 天=-(〕 (9.
+e Jim 左 X 丽)< 扁(矗c′夏三蠢…_l】天=-(〕(9.
 
-## Hence
+# Hence
 
-+0 dB 、 , , 、
++0 dB、, ,、亓 ˇ - 2πi (Residue at the point
 
-### 亓 ˇ - 2πi (Residue at the point
+户二一 a 十 ei+q 十法 )
 
-## 户 二 一 a 十 ei+q 十 法 )
+万
 
-## 万
+_ 2πi B—[-a+e4 +18] x 1
 
-## _ 2πi B—[-a+e4 +18] x 1
+一 Dt (8m-a+erye+i8) 月 + eiyg 一活 “ 卜 e 十池
 
-### 一 Dt (8m-a+erye+i8) 月 + eiyg 一 活 “ 卜 e 十 池
+i
 
-## i
+二一一一一一一 (9.60)
 
-## 二 一 一 一 一 一 一 (9.60)
+一 E 十 <i 一阪 ′
 
-## 一 E 十 <i 一 阪 ′
+The next two cases are | l |
 
-## The next two cases are | l |
+|l+q|>k_F
 
-## |l+q|>k_F
-
-## and | l |
+and | l |
 
 |l+q| <k_F.
 
-## Here both poles
+# Here both poles
 
-## are in the same half-plane
+are in the same half-plane
 
 so closing the contour in the other half-plane we
 
 immediately see that the result is zero.
 
-### The final case is for |l| <k_F
+The final case is for |l| <k_F
 
 |l+q|>k_F.
 
-### A procedure similar to that used in
+# A procedure similar to that used in
 
-## the first case yields
+the first case yields
 
 a - “ (9.
 
-## 2π am engg te tid
+2π am engg te tid
 
-## --- Page 189 ---
+--- Page 189 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 173
 
-### Thus we get for the pair-bubble
+# Thus we get for the pair-bubble
 
-## imelase) 421 2 21 2i
+imelase) 421 2 21 2i
 
-## 一 iπ0( a) = 一 一 一 一 一 一 一。
+一 iπ0( a) = 一一一一一一一。od (2π) +-%.
 
-od (2π) +-%.
-
-## 4408 (2π)“ a—e_F+€,—iδ
+4408 (2π)“ a—e_F+€,—iδ
 
 l<k_F I>k_F (9.
 
-## 1H+q|>k_F L+q|<k_F
+1H+q|>k_F L+q|<k_F
 
-## 口
+口
 
-## ind n
+ind n
 
 Putting this result into (9.
 
-## 53) we have
+53) we have
 
-## k 一 q _=j′【翼】(】"'三翼二z__^ z i
+k 一 q _=j′【翼】(】"'三翼二z__^ z i
 
-## ales Oa) 29 ON Saar “
+ales Oa) 29 ON Saar “
 
 x [ 一 iπ6(do) 十 i 仁 ag].
 
 Let us first examine the IΓ-term:
 
-## A
+A
 
-## [ 咤 怡 广
+[ 咤怡广
 
 (2π)° (227)?
 
-## J 2x
+# J 2x
 
-## l<k_F
+l<k_F
 
-## Ib+q|>k_F
+Ib+q|>k_F
 
-## | 1 1
+| 1 1
 
-X 一 一 “ 一 一 X 一 一 - 9.
+X 一一 “ 一一 X 一一 - 9.
 
-山 一 & 一 E_{k-q} 十 所 c-g E 一 E_{l+a} 十 % 十 闵 (9.
+山一 & 一 E_{k-q} 十所 c-g E 一 E_{l+a} 十 % 十闵 (9.
 
-## The poles here
+# The poles here
 
-## in the ζ-integration are at
+in the ζ-integration are at
 
-## a= 一 El 十 E_{l+q} 一 闵
+a= 一 El 十 E_{l+q} 一闵
 
 = Weg tidy.
 
-## |
+|
 
 The integration is done by contours just as before.
 
-## We see that |k−q| must be
+We see that |k−q| must be
 
 >k_F, otherwise both poles are in the lower half-plane and we get zero.
 
-## result is
+result is
 
-## |
+|
 
 司 dq (3 : 1
 
-### 一 一 1P4 —27 ee 肉 月 ECssranmgeesmomearg
+一一 1P4 —27 ee 肉月 ECssranmgeesmomearg
 
-世 一 圭 al Nos On!
+世一圭 al Nos On!
 
-## ‘| 山 十 E 一 E_{l+q} 一 万 -q 十 阿
+‘| 山十 E 一 E_{l+q} 一万 -q 十阿
 
-## lek
+lek
 
 y (9.
 
 |k−q|>k_F,
 
-## --- Page 190 ---
+--- Page 190 ---
 
-### 174 A GUIDE TO FEYNMAN DIAGRAMS (9.8
+174 A GUIDE TO FEYNMAN DIAGRAMS (9.8
 
-## In a similar fashion
+# In a similar fashion
 
-## we find for the other term
+we find for the other term
 
-## 2 dq dl
+2 dq dl
 
-## 三 一 178 =(-2πi) | 一 一 [ 一 一 一
+三一 178 =(-2πi) | 一一 [ 一一一
 
-f= 亿 合 =( 2′)丨′(2′′′).
+f= 亿合 =( 2′)丨′(2′′′).
 
 (2^】'_′),|′/疃′z′'′′′__EI_爵′丨壤.
 
-## _{_____定8
+_{_____定8
 
 t>k_F, |l+q|<k_F
 
 |e−g|<k_F (9.
 
-### Analogous to the Hartree-Fock result
+# Analogous to the Hartree-Fock result
 
-## we can interpret 24 9(k
+we can interpret 24 9(k
 
-## w) here as
+w) here as
 
 coming from an effective external potential.
 
 However, in this case, the
 
-### potential is dependent on the frequency
+potential is dependent on the frequency
 
 w, hence would be time-dependent if
 
@@ -10048,11 +10038,11 @@ we Fourier transformed it.
 
 This shows the dynamical effect we mentioned
 
-## before
+before
 
 i.e., the other particles ‘follow’ the extra propagating particle
 
-## so the
+so the
 
 effective potential coming from them must be time-dependent.
 
@@ -10060,7 +10050,7 @@ As indicated in (3.
 
 71), we need the real and imaginary parts of the total self
 
-## energy
+energy
 
 Σ, in order to find the new energy ε_k and lifetime τ_k for quasi particles.
 
@@ -10068,21 +10058,21 @@ These can be found from applying (3.
 
 76) to Σ.
 
-## For ReΣ we find
+For ReΣ we find
 
-## ReΣ = sop f S48 a" meee LA 1
+ReΣ = sop f S48 a" meee LA 1
 
-### (2π) (2π) “ 仪 十 日 一 E_{l+q} 一 白 +
+(2π) (2π) “ 仪十日一 E_{l+q} 一白 +
 
 I<k_F, |l+q|>k_F
 
-## |k−q|>k_F
+|k−q|>k_F
 
 l<k_F, |l+q|>k_F
 
-## |k−q|>k_F
+|k−q|>k_F
 
-## Assuming V is small
+# Assuming V is small
 
 we can get a simple approximation for the contribution
 
@@ -10098,19 +10088,19 @@ perturbation theory.
 
 We now consider the imaginary part.
 
-## Making the transformation of
+# Making the transformation of
 
 variables q=η−l, l=l, “ee
 
-## 4 二 一 2 一 6 一 5
+4 二一 2 一 6 一 5
 
 η>k_F, l<k_F, 阮
 
-## Let
+# Let
 
-## E_l = E_F − ξ
+E_l = E_F − ξ
 
-## E_{l+q} = E_F + η
+E_{l+q} = E_F + η
 
 E_{k-q} = E_F + ξ - α + 1 (9.
 
@@ -10120,11 +10110,11 @@ We now find the maximum value the ξ’s may have.
 
 To get a contribution from the δ-function
 
-## we must have
+we must have
 
 ωep = tt tat hens: (9.
 
-## --- Page 191 ---
+--- Page 191 ---
 
 8) THE SINGLE-PARTICLE PROPAGATOR RE-VISITED 175
 
@@ -10136,7 +10126,7 @@ For a given ω−ε_k, the maximum
 
 value ξ may have is evidently ω − ε_k (in which case η
 
-## ξ have their minimum
+ξ have their minimum
 
 value, i.e., zero).
 
@@ -10144,19 +10134,19 @@ Hence the l-integration is in a shell of energy thickness =
 
 ω −ε_k about the Fermi surface.
 
-### The corresponding thickness in momentum
+# The corresponding thickness in momentum
 
 integration.
 
 Hence we have (let {Ω stand for angular variables)
 
-## (hp +Cn/kp (o-ep)) dn hp dl
+(hp +Cn/kp (o-ep)) dn hp dl
 
-## 4 二 一 一 一 ——
+4 二一一一 ——
 
 Im 友 27 _丨′ Qn } One f dΩ, x
 
-## kr (kp -(n/kpoo-ep))
+kr (kp -(n/kpoo-ep))
 
 x f dΩyn?
 
@@ -10164,13 +10154,13 @@ V(q), 1, 2p.
 
 ) (9.
 
-## Since η
+Since η
 
 ξ are in a thin shell about the Fermi surface
 
-## we can set η=ξ=k_F
+we can set η=ξ=k_F
 
-## obtain immediately
+obtain immediately
 
 Im Σ' ∝ (ω−ε_F)^2.
 
@@ -10178,9 +10168,9 @@ The same result is easily shown to hold true for ImΣ''.
 
 In the case where the interaction V is small
 
-## so that Σ is small
+so that Σ is small
 
-## we may use
+we may use
 
 71), which yields for the reciprocal lifetime
 
@@ -10194,7 +10184,7 @@ surface.
 
 From (9.
 
-## 75) we see that
+75) we see that
 
 1/τ!
 
@@ -10204,7 +10194,7 @@ in agreement with the criterion (8.
 
 21), since for V small, ω ∼ ε_F.
 
-### this criterion were not satisfied
+this criterion were not satisfied
 
 it would make no sense to talk of quasi particles
 
@@ -10220,7 +10210,7 @@ argument in §8.
 
 30).
 
-## Further reading
+# Further reading
 
 Fetter and Walecka (1971), chap.
 
@@ -10242,9 +10232,9 @@ Thouless (1964).
 
 Noziéres (1964), chap.
 
-## --- Page 192 ---
+--- Page 192 ---
 
-### 176 A GUIDE TO FEYNMAN DIAGRAMS {9.8
+176 A GUIDE TO FEYNMAN DIAGRAMS {9.8
 
 Anderson (1963), chap.
 
@@ -10256,11 +10246,11 @@ Klein (1962).
 
 Mills (1969), chap 3, 4.
 
-## Exercises
+# Exercises
 
-### 9.1 Find T{c(t1)c†(t2)c†(t3)} where t2>t and t3.
+# 9.1 Find T{c(t1)c†(t2)c†(t3)} where t2>t and t3.
 
-### 2 Calculate the hole part of the propagator (9.
+2 Calculate the hole part of the propagator (9.
 
 6) in the non-interacting case, and
 
@@ -10268,11 +10258,11 @@ show that it is equal to the hole part of (8.
 
 34) (use argument like that in (9.
 
-## 15]-
+15]-
 
 20).
 
-## 3 Verify that when (9.
+3 Verify that when (9.
 
 26) is substituted into (9.
 
@@ -10280,15 +10270,15 @@ show that it is equal to the hole part of (8.
 
 expressions for the free propagators.
 
-### 4 Show that diagrams (I) and (II) in (9.
+4 Show that diagrams (I) and (II) in (9.
 
-### 33) contain a particle and hole in the
+33) contain a particle and hole in the
 
 same state.
 
 5 Which of the following diagrams are topologically equivalent in the Feynman sense?
 
-## (a) (b) (g)
+(a) (b) (g)
 
 6 Using labels showing momentum conservation explicitly
 
@@ -10296,13 +10286,13 @@ write out the expression for diagram (g) in (9.
 
 33), in (k
 
-## ω)-space
+ω)-space
 
 employing Feynman convention.
 
-## 9.7 Verify (9.20').
+# 9.7 Verify (9.20').
 
-## 8 Verify (9.
+8 Verify (9.
 
 61), closing the contour in the upper half-plane.
 
@@ -10310,45 +10300,45 @@ Show that you get the same result if the contour is closed in the lower half-pla
 
 9 Draw the pair-bubbles for the four cases described in §9.
 
-## Why are the cases |l| > k_F
+Why are the cases |l| > k_F
 
-## |l+q| > k_F and |l| < k_F
+|l+q| > k_F and |l| < k_F
 
 |l+q| < k_F automatically zero?
 
-## 9.10 Verify (9.28).
+# 9.10 Verify (9.28).
 
-## 9.11 Verify (9.38').
+# 9.11 Verify (9.38').
 
-## --- Page 193 ---
+--- Page 193 ---
 
-## Chapter 10
+# Chapter 10
 
-## Dyson’s Equation
+Dyson’s Equation
 
-## Renormalization
+# Renormalization
 
-## RPA and
+# RPA and
 
-## Ladder Approximations
+# Ladder Approximations
 
-### 10.1 General types of partial sums
+# 10.1 General types of partial sums
 
 We have pointed out that ordinary perturbation theory is helpless when
 
-## confronted with the big
+confronted with the big
 
 badly-behaved interactions in many-body systems.
 
-## In typical cases
+# In typical cases
 
 like the electron gas and nuclear matter
 
-## nearly all terms in
+nearly all terms in
 
 the propagator and vacuum amplitude perturbation expansions are divergent.
 
-## To get any sensible results
+# To get any sensible results
 
 one is therefore forced to use a method which
 
@@ -10370,7 +10360,7 @@ culations.
 
 These tricks can have a rather disconcerting effect on the un-
 
-## initiated
+initiated
 
 since infinite numbers of infinite series of diagrams appear to
 
@@ -10398,29 +10388,29 @@ renormalization® (see (0.
 
 The result of renormalizing interaction lines
 
-## for example
+for example
 
 is a simplified series in which no interaction lines have any
 
 inserted ‘polarization parts’ and all interaction lines are dressed.
 
-## Similar
+# Similar
 
 statements hold true for renormalizing particle lines and vertices.
 
-## Superficially
+# Superficially
 
 the most striking thing about these summations is the enor-
 
 mous simplification which they produce in the appearance of the series.
 
-## However
+# However
 
 it must not be supposed on this account that it is a matter of art for
 
 art’s sake.
 
-## In fact
+# In fact
 
 the really important thing is that infinite summations
 
@@ -10434,35 +10424,35 @@ high-density electron gas.
 
 Another significant use of the general partial sums is that they have an
 
-## --- Page 194 ---
+--- Page 194 ---
 
-### 178 A GUIDE TO FEYNMAN DIAGRAMS [10.2
+178 A GUIDE TO FEYNMAN DIAGRAMS [10.2
 
 Table 10.
 
-### 1 General types of partial sums
+1 General types of partial sums
 
-## General type of diagrams
+# General type of diagrams
 
-## summed over Result
+summed over Result
 
 (1) All diagrams containing repeated Dyson’s equation
 
-### proper (or ‘irreducible’) self-
+proper (or ‘irreducible’) self-
 
 energy parts.
 
-## (Summation is
+(Summation is
 
-## complete)
+complete)
 
 (2) All diagrams with ‘polarization ‘dressed’
 
-## ‘effective’ or ‘re-
+‘effective’ or ‘re-
 
 parts’ inserted in interaction normalized’ interactions
 
-## lines
+lines
 
 (3) All diagrams with ‘self-energy ‘dressed’ or ‘renormalized’
 
@@ -10472,21 +10462,21 @@ and hole lines consistent renormalization)
 
 (4) All diagrams with ‘irreducible dressed vertices
 
-### vertex parts’ inserted in place of
+vertex parts’ inserted in place of
 
-## a vertex
+a vertex
 
 immediate physical interpretation—for example
 
-## the dressed interaction is
+the dressed interaction is
 
 just a screened interaction while the dressed particle line is just a quasi particle.
 
-## Finally
+# Finally
 
 it should be mentioned that Table 10.
 
-## 1 looks a bit more impressive
+1 looks a bit more impressive
 
 than it actually is because the word ‘all diagrams’ in each case turns out in
 
@@ -10496,9 +10486,9 @@ In certain limits,
 
 this turns out to be an excellent approximation—for instance
 
-## in the high-
+in the high-
 
-## density electron gas
+density electron gas
 
 nearly the whole contribution comes from the ‘ring’
 
@@ -10506,25 +10496,25 @@ diagrams (‘random phase approximation’ or ‘RPA’) while in a low-density
 
 fermion gas with short-range interactions
 
-## like nuclear matter
+like nuclear matter
 
-## the major
+the major
 
 contribution comes from just ‘ladder’ diagrams.
 
-## And even in non-limiting
+# And even in non-limiting
 
 cases, the sum over just one or two types of diagrams is valuable
 
-## since it is
+since it is
 
 sufficient to remove the divergences.
 
-## 10.2 Dyson’s equation
+# 10.2 Dyson’s equation
 
 The partial sum technique used in the Hartree-Fock (4.
 
-## 76) and single pair-
+76) and single pair-
 
 bubble (9.
 
@@ -10534,45 +10524,45 @@ exact expression for the propagator which is known as Dyson’s equation.
 
 The partial sum was possible in those cases because we were dealing with
 
-### repeated simple parts of diagrams
+repeated simple parts of diagrams
 
-## like we and <S”
+like we and <S”
 
 , hanging on the main
 
-## directed (k
+directed (k
 
 ω)-line like pearls on a string.
 
-### Examination of the full propagator
+# Examination of the full propagator
 
 40) shows that it too consists of strings of repeated simple parts and can
 
 be summed in a similar fashion.
 
-## --- Page 195 ---
+--- Page 195 ---
 
 2) DYSON’S EQUATION AND LADDER APPROXIMATIONS 179
 
 Let us state more carefully what is meant by a ‘simple part’ or
 
-## as it is
+as it is
 
 called in the fancy language of the literature
 
-## ‘proper self-energy part’ or
+‘proper self-energy part’ or
 
 ‘irreducible self-energy part’.
 
 First we define:
 
-## Self-energy part
+# Self-energy part
 
 Any diagram without external (i.e.
 
-## incoming and out-
+incoming and out-
 
-## going) lines
+going) lines
 
 which can be inserted into a particle (or hole) line.
 
@@ -10580,11 +10570,11 @@ Examples:
 
 bom)» ey» re.
 
-## 3 “sy (10.
+3 “sy (10.
 
-## (5)
+(5)
 
-## (D) Q 3) 4)
+(D) Q 3) 4)
 
 Note that two little extra stumps of line are drawn on each part to show where
 
@@ -10592,15 +10582,15 @@ it is to be inserted in a particle line.
 
 Equation (9.
 
-## 40) shows these diagrams
+40) shows these diagrams
 
 inserted in various way into particle lines.
 
-## Then we have
+# Then we have
 
 Proper (or ‘ irreducible’) self-energy part
 
-### A self-energy part which cannot
+# A self-energy part which cannot
 
 be broken into two unconnected self-energy parts by removing one particle
 
@@ -10610,7 +10600,7 @@ b> gory 0: SS: ey (10.
 
 Parts which can be so broken—like diagrams 3 and 5 in (10.
 
-## 1)—are called
+1)—are called
 
 ‘improper’ or ‘reducible’.
 
@@ -10618,23 +10608,23 @@ Now in (4.
 
 67) we summed over all diagrams containing the repeated proper
 
-## self-energy part h~©) and got
+self-energy part h~©) and got
 
 Examples:
 
-## 4 心 Fone “ (10.3)
+4 心 Fone “ (10.3)
 
 In (4.
 
-76) the sum over all repetitions of the two irreducible parts A 〇 O and
+76) the sum over all repetitions of the two irreducible parts A〇O and
 
-## & saved
+& saved
 
 { x SO .
 
 (10.
 
-## f'-(O + ey)
+f'-(O + ey)
 
 In (9.
 
@@ -10644,9 +10634,9 @@ In (9.
 
 Ov t LY:
 
-### - _x[l仆x〈押…O+麓扮+仁颧〉+「x〈MˇO+〈〉+扛二登〉】+…]
+- _x[l仆x〈押…O+麓扮+仁颧〉+「x〈MˇO+〈〉+扛二登〉】+…]
 
-## “ 尸 (CcoreyFD) «09
+“ 尸 (CcoreyFD) «09
 
 And in general it is possible to sum over all repetitions of all irreducible self-
 
@@ -10654,17 +10644,17 @@ energy parts:
 
 = {.
 
-## [1 t|x (0+ + fD+ J+)
+[1 t|x (0+ + fD+ J+)
 
-## + Px (-O + er +f D + Yor]
++ Px (-O + er +f D + Yor]
 
-## * Fe (more f+ Se) | «00
+* Fe (more f+ Se) | «00
 
 t ; Fo (10.
 
-## --- Page 196 ---
+--- Page 196 ---
 
-### 180 A GUIDE TO FEYNMAN DIAGRAMS [10.2
+180 A GUIDE TO FEYNMAN DIAGRAMS [10.2
 
 In (10.
 
@@ -10672,15 +10662,13 @@ where is the sum of all proper (irreducible) self-energy parts or ‘ irreducibl
 
 self-energy’:
 
-## d - 卜灬′(〉+r〈
-
-j+[^二互〉+阚+[″鱼Z〉J′[二昱戛′「[三芝二〈〉+.
+d - 卜灬′(〉+r〈j+[^二互〉+阚+[″鱼Z〉J′[二昱戛′「[三芝二〈〉+.
 
 (10.
 
 Translated into functions with the aid of Table 9.
 
-## 1 this becomes:
+1 this becomes:
 
 G(k, ω) = (10.
 
@@ -10702,13 +10690,13 @@ parts.
 
 If we had summed over repeated improper parts as well
 
-## diagrams
+diagrams
 
-## would have been counted twice
+would have been counted twice
 
-## since as seen in diagrams 3
+since as seen in diagrams 3
 
-## 5 of (10.
+5 of (10.
 
 1), the
 
@@ -10722,13 +10710,13 @@ Equation (10.
 
 from which most propagator calculations start.
 
-## It is exact since all the
+# It is exact since all the
 
 diagrams in (9.
 
 40) are composed of either proper parts or repetitions of
 
-## proper parts
+proper parts
 
 and we have summed over them all.
 
@@ -10736,33 +10724,33 @@ That is, the summation
 
 here is complete rather than just partial.
 
-### But don’t be fooled into thinking
+But don’t be fooled into thinking
 
 that because it is exact (10.
 
 7) is the answer to our problem!
 
-## All that has been
+# All that has been
 
 done is to sum over repeated proper parts
 
 the sum (10.
 
-## 8) over the proper
+8) over the proper
 
-### parts themselves is still left to do
+parts themselves is still left to do
 
 and has the unfortunate quality of beingin general impossible.
 
-## It can
+# It can
 
-## however
+however
 
-### be evaluated to various degrees of
+be evaluated to various degrees of
 
 approximation.
 
-## For example
+# For example
 
 the Hartree-Fock is the lowest-order approxi-
 
@@ -10772,7 +10760,7 @@ mation for Σ:
 
 It is easy to see the physical interpretation of Σ(k
 
-## ω) by comparing the
+ω) by comparing the
 
 exact (10.
 
@@ -10786,19 +10774,19 @@ By analogy with the argument around (4.
 
 73), Σ(k,ω) is a generalized
 
-## --- Page 198 ---
+--- Page 198 ---
 
-### 182 A GUIDE TO FEYNMAN DIAGRAMS [10.2]
+182 A GUIDE TO FEYNMAN DIAGRAMS [10.2]
 
 ‘effective field’ or ‘effective potential’ which the particle in state k sees because
 
 of its interaction with all the other particles of the system.
 
-## This field is of
+# This field is of
 
 course considerably more complicated than the Hartree-Fock field because
 
-## of its ω-dependence
+of its ω-dependence
 
 which describes the motion of the quasi-particle cloud
 
@@ -10810,7 +10798,7 @@ which describes the motion of the quasi-particle cloud
 
 It is important to note that the form of the Dyson equation in (10.
 
-## 7) is only
+7) is only
 
 valid in the special case (with which we shall be mainly concerned) of a system
 
@@ -10818,9 +10806,9 @@ with no external potential and with diagrams calculated in (k
 
 ω)-space.
 
-## There is
+# There is
 
-## however
+however
 
 a more general form of the Dyson equation which holds
 
@@ -10828,7 +10816,7 @@ whenever expansion (9.
 
 40) holds; the general form is (cf. (3.
 
-## 367))
+367))
 
 G = G₀ + G₀ Σ G (10.
 
@@ -10842,9 +10830,9 @@ Equation (10.
 
 value of each diagram is then the algebraic product of the values of its parts
 
-## or
+or
 
-## --- Page 199 ---
+--- Page 199 ---
 
 3] DYSON'S EQUATION AND LADDER APPROXIMATIONS 183
 
@@ -10854,7 +10842,7 @@ which are easily solved to yield (10.
 
 But (10.
 
-## 12) is also valid when
+12) is also valid when
 
 the diagrams do not factor.
 
@@ -10862,11 +10850,11 @@ For example, in (k,t)-space we find
 
 G(k, t₂−t₁) = G₀(k, t₂−t₁) +
 
-## or
+or
 
 G(k, t₂−t₁) = G₀(k, t₂−t₁) +
 
-### which is an integral equation for G
+which is an integral equation for G
 
 unlike the algebraic (10.
 
@@ -10878,29 +10866,29 @@ unlike the algebraic (10.
 
 potential.
 
-## Then it is found that
+# Then it is found that
 
 Note that now anomalous graphs must be included in (9.
 
-## 40) as mentioned
+40) as mentioned
 
 on p.
 
 141.
 
-## If G(k₂
+If G(k₂
 
 k₁;ω) is regarded as the (k₂
 
-## k₁)th element of a matrix
+k₁)th element of a matrix
 
 then (10.
 
-### 17) may be written as a matrix equation
+17) may be written as a matrix equation
 
 for which form (10.
 
-## 7) holds
+7) holds
 
 (Luttinger (1960b).
 
@@ -10908,7 +10896,7 @@ The self-energy diagrams may be evaluated in a straightforward way by
 
 using dictionary Table 9.
 
-## 1 (see for example (10.
+1 (see for example (10.
 
 29)).
 
@@ -10916,15 +10904,15 @@ However, we then have
 
 to perform all the integrations over intermediate energy parameter.
 
-## A short-
+# A short-
 
 cut method which avoids this involves a new dictionary similar to that used
 
-### for the ground state energy diagrams
+for the ground state energy diagrams
 
 Table 12.
 
-## The rules are described
+# The rules are described
 
 in Thouless (1964) (p.
 
@@ -10934,19 +10922,19 @@ in Thouless (1964) (p.
 
 As an example of the calculation of the proper self-energy
 
-## we will describe
+we will describe
 
 briefly the theory of Galitski (Fetter and Walecka (1971)
 
-## 128 ff.
+128 ff.
 
-## ) for a system
+) for a system
 
 of particles interacting by means of short-range repulsive forces having range
 
 a, and with average distance between particles r₀.
 
-## By ‘low density’ is meant
+By ‘low density’ is meant
 
 that a/r₀<1.
 
@@ -10960,61 +10948,61 @@ tive way to the case of nuclear matter (see §12.
 
 4), where a/r₀~4, provided
 
-## --- Page 200 ---
+--- Page 200 ---
 
-### 184 A GUIDE TO FEYNMAN DIAGRAMS (10.3)
+184 A GUIDE TO FEYNMAN DIAGRAMS (10.3)
 
 we neglect the attractive part of the nuclear potential.
 
-## It does not hold for
+# It does not hold for
 
 He³, where a/r₀> 1.
 
 Let us first analyse the self-energy diagrams to see which are most important.
 
-### Regarding the diagrams as time-ordered
+# Regarding the diagrams as time-ordered
 
-### we observe that whenever there is a
+we observe that whenever there is a
 
-## hole line labelled
+hole line labelled
 
 say, p
 
-## in a diagram
+in a diagram
 
-### there is an associated ∫ d³p over all
+there is an associated ∫ d³p over all
 
 |p| <k_F.
 
-## Particle lines
+# Particle lines
 
-## on the other hand
+on the other hand
 
 have ∫ d³p over |p| >k_F.
 
-## Now as
+# Now as
 
-## mentioned above
+mentioned above
 
-## n~k_F³
+n~k_F³
 
 so low density means small k_F.
 
-## Thus in the low-
+# Thus in the low-
 
-## density case
+density case
 
 the contribution from the hole line integrals will be very small
 
 compared with those from the particle lines.
 
-### (A more careful analysis shows
+(A more careful analysis shows
 
 that the criterion for hole contribution < particle contribution is that k_F < 1/a
 
 i.e. just the low density criterion stated above.
 
-### This is illustrated in detail by
+# This is illustrated in detail by
 
 exercise 10.
 
@@ -11052,15 +11040,15 @@ and t = [two-body interaction] + [two-body interaction] G₀ t G₀ + … (10.
 
 The K-matrix obeys the Dyson-like integral equation
 
-## t = V + V G₀ t
+t = V + V G₀ t
 
-## or
+or
 
 × K(p'', ε'', pε; qω).
 
 (10.
 
-## --- Page 201 ---
+--- Page 201 ---
 
 4) DYSON'S EQUATION AND LADDER APPROXIMATIONS 185
 
@@ -11068,7 +11056,7 @@ as is seen immediately by iterating (just as was done in (10.
 
 13)).
 
-## Translation
+# Translation
 
 of (10.
 
@@ -11086,7 +11074,7 @@ The K-matrix may be generalized to include hole-hole scattering by replacing
 
 G₀ by G₀.
 
-## In the low-density case
+# In the low-density case
 
 the contribution from hole-hole scattering
 
@@ -11102,25 +11090,25 @@ If (10.
 
 Σ = Σ^(0) + Σ^(1) + … (10.
 
-### We first solve approximately for K
+# We first solve approximately for K
 
 using (10.
 
 21).
 
-## The result is substituted
+# The result is substituted
 
 into (10.
 
 22), and the value for Σ is put into the Dyson equation.
 
-## This yields
+# This yields
 
 a propagator having the quasi particle form (8.
 
 37), for k near k_F.
 
-## The results
+# The results
 
 for the quasi particle effective mass and lifetime near the Fermi surface are
 
@@ -11140,13 +11128,13 @@ Note that the result for the lifetime agrees with (8.
 
 The electron gas was introduced in §4.
 
-### 9 as a theoretician’s ‘dream metal’
+9 as a theoretician’s ‘dream metal’
 
 consisting of N electrons moving against a smeared-out positive charge
 
 background.
 
-## At zero temperature
+# At zero temperature
 
 the gas is characterized by a single para-
 
@@ -11154,63 +11142,63 @@ meter, r_s
 
 which is roughly the average distance between electrons.
 
-## More
+# More
 
 precisely, r_s is given by
 
 (4π/3)(r_s a₀)³ = 1/n (10.
 
-## where n=electron density
+where n=electron density
 
 and a₀ = Bohr radius = ħ²/(me²).
 
-## Several different
+# Several different
 
-## regions may be distinguished
+regions may be distinguished
 
 as shown in Fig.
 
-## So far
+# So far
 
 two regions have been tackled with success.
 
-## The first is the high
+# The first is the high
 
 density one where the kinetic energy (KE) of the electrons is much higher
 
-### than their mutual potential energy (PE)
+than their mutual potential energy (PE)
 
 so the latter acts as a relatively small
 
 perturbation.
 
-### The other is the low-density region
+# The other is the low-density region
 
-## where the PE is so much
+where the PE is so much
 
 greater than KE that the electron density becomes non-uniform
 
-## and the
+and the
 
 points of maximum density form a body-centred cubic lattice called the
 
 Wigner lattice.
 
-## --- Page 202 ---
+--- Page 202 ---
 
-### 186 A GUIDE TO FEYNMAN DIAGRAMS (10.4)
+186 A GUIDE TO FEYNMAN DIAGRAMS (10.4)
 
 It is important to observe here that the low density region of a system with
 
-## long-range interaction
+long-range interaction
 
-## like the electron gas
+like the electron gas
 
-### is physically quite different from
+is physically quite different from
 
 the low-density region of a system with short-range interaction
 
-## like nuclear
+like nuclear
 
 matter.
 
@@ -11218,23 +11206,23 @@ Hence ladder approximation is not applicable to a low-density
 
 electron gas.
 
-## Wigner
+# Wigner
 
-## Real metals lattice
+# Real metals lattice
 
-## ─────────────────────
+─────────────────────
 
-## ─────────────────────
+─────────────────────
 
-## 0 1 10 20
+0 1 10 20
 
-## r_s
+r_s
 
-## high intermediate low density
+high intermediate low density
 
-## density density (KE<PE)
+density density (KE<PE)
 
-## (KE> PE) (KE~ PE)
+(KE> PE) (KE~ PE)
 
 Fig.
 
@@ -11242,13 +11230,13 @@ Fig.
 
 q,x)
 
-## --- Page 214 ---
+--- Page 214 ---
 
-### 198 A GUIDE TO FEYNMAN DIAGRAMS 10.7
+198 A GUIDE TO FEYNMAN DIAGRAMS 10.7
 
 The region of integration is shown in Fig.
 
-## (This figure is cylindrically
+(This figure is cylindrically
 
 symmetric about the z-axis.
 
@@ -11256,7 +11244,7 @@ symmetric about the z-axis.
 
 x=cosθ.
 
-## For q<kF
+For q<kF
 
 the region of integration is a thin shell about the top half
 
@@ -11272,39 +11260,39 @@ terms in the denominator.
 
 Hence the integral becomes:
 
-## Now let
+# Now let
 
-## This yields
+# This yields
 
 Substituting this in (10.
 
 67) and remembering that by Fig.
 
-## 2 θ=0–π/2 so
+2 θ=0–π/2 so
 
 x= +1→0, and integrating over ω, yields:
 
-## --- Page 215 ---
+--- Page 215 ---
 
 7] DYSON’S EQUATION AND LADDER APPROXIMATIONS 199
 
 Applying (3.
 
-### 76) to the first integral gives
+76) to the first integral gives
 
-### We now examine the static limit
+# We now examine the static limit
 
 i.e., ω=0 so ε=0.
 
-## Then
+# Then
 
-## (n=electron density)
+(n=electron density)
 
 which confirms (10.
 
 39).
 
-## The frequency-dependent
+# The frequency-dependent
 
 Π(q,ω) is discussed in chapter 13
 
@@ -11322,9 +11310,9 @@ function θ, and applying (3.
 
 76), we find for the real and imaginary parts
 
-## --- Page 216 ---
+--- Page 216 ---
 
-### 200 A GUIDE TO FEYNMAN DIAGRAMS [10.7
+200 A GUIDE TO FEYNMAN DIAGRAMS [10.7
 
 The imaginary part is obviously zero since εk cannot be equal to εk+q.
 
@@ -11332,13 +11320,13 @@ second term of Re Π—call it A—can be seen to vanish by making the transfor-
 
 mation k' = –(k+q) and noting that this yields A = –A, so A=0.
 
-## We have left
+# We have left
 
 where all vectors are measured in terms of kF.
 
-## The integration is easy and
+# The integration is easy and
 
-## yields
+yields
 
 The singularity (infinite slope) of (10.
 
@@ -11358,17 +11346,17 @@ large r:
 
 179).
 
-### This is a much longer range inter-
+# This is a much longer range inter-
 
 action than our previous result (10.
 
 42).
 
-### The oscillations of wavevector 2kF
+# The oscillations of wavevector 2kF
 
 are known as Friedel oscillations and have been observed experimentally.
 
-## Further reading
+# Further reading
 
 Fetter and Walecka (1971), chap.
 
@@ -11402,7 +11390,7 @@ Kittel (1963), chap.
 
 Bjorken (1965), p.
 
-## 284 ff.
+284 ff.
 
 Renormalization in quantum electrodynamics.
 
@@ -11410,27 +11398,27 @@ Schweber (1961), pp. 557 ff.
 
 — basic definitions.
 
-## --- Page 217 ---
+--- Page 217 ---
 
 7] DYSON’S EQUATION AND LADDER APPROXIMATIONS 201
 
-## Exercises
+# Exercises
 
 1 Which of the following diagrams are self-energy parts?
 
-## Of these which are
+# Of these which are
 
 proper and which are improper?
 
-## (a) (b) (c) (d)
+(a) (b) (c) (d)
 
-### 2 Write Dyson’s equation diagrammatically (in k
+2 Write Dyson’s equation diagrammatically (in k
 
-## ω-space)
+ω-space)
 
-## together with an
+together with an
 
-### expression for the proper self-energy
+expression for the proper self-energy
 
 for a system of non-interacting fermions
 
@@ -11462,33 +11450,33 @@ explicit expression for the K-matrix.
 
 (Hint: Show first that in this case
 
-## K is a
+# K is a
 
 function only of q, ω.
 
 5 Which of the following diagrams are polarization parts?
 
-## Of these which are
+# Of these which are
 
 proper and which are improper?
 
-## (a) (b) (c) (d) (e)
+(a) (b) (c) (d) (e)
 
 6 Write the approximation to the proper polarization part sum (10.
 
-## 55) in terms
+55) in terms
 
-## of the K-matrix
+of the K-matrix
 
 and translate the result into functions.
 
 (Note: You will need
 
-## the ‘particle-hole’ K-matrix
+the ‘particle-hole’ K-matrix
 
 which is just (10.
 
-## 19) but with one side of the
+19) but with one side of the
 
 ladder a hole line.
 
@@ -11496,7 +11484,7 @@ ladder a hole line.
 
 (10.
 
-## 21) with G replaced by
+21) with G replaced by
 
 G0] for K when U is approximated by a factorizable potential
 
@@ -11512,13 +11500,13 @@ and carry out the sum directly.
 
 I(q,ω)—carry out the integration over frequency ω''.
 
-## Show that I is the sum of
+# Show that I is the sum of
 
-## two contributions
+two contributions
 
 I+ coming from G (i.e.
 
-### particles) and I– coming from G0
+particles) and I– coming from G0
 
 (i.e., holes).
 
@@ -11526,7 +11514,7 @@ I+ coming from G (i.e.
 
 q=0.
 
-## Take u_p=1 for 0<|p|<w
+Take u_p=1 for 0<|p|<w
 
 (w>kF) and u_p=0 for |p|>w.
 
@@ -11536,19 +11524,19 @@ Use theorem (3.
 
 (d) Show that in the case of low density
 
-## I+ ≫ I–
+I+ ≫ I–
 
 i.e., contribution from particle
 
 lines much greater than that from hole lines.
 
-## --- Page 218 ---
+--- Page 218 ---
 
-### 202 A GUIDE TO FEYNMAN DIAGRAMS [10.7
+202 A GUIDE TO FEYNMAN DIAGRAMS [10.7
 
 8 Consider two electrons in a cubic box with sides of length L.
 
-## Obtain order of
+# Obtain order of
 
 magnitude expressions for the kinetic and potential energy of the system in
 
@@ -11558,15 +11546,15 @@ terms of rs (see (10.
 
 density cases in terms of rs.
 
-## 9 Verify (10.
+9 Verify (10.
 
 79)–(10.
 
 82) in detail.
 
-## Write out Π(q
+Write out Π(q
 
-### 0) for this case in terms of λ
+0) for this case in terms of λ
 
 (see (10.
 
@@ -11576,17 +11564,17 @@ q>2 (q in units of kF).
 
 What is dΠ(q,0)/dq at q=2?
 
-## --- Page 219 ---
+--- Page 219 ---
 
-## Chapter 11
+# Chapter 11
 
-### Self-Consistent Renormalization and the
+# Self-Consistent Renormalization and the
 
-### Existence of the Fermi Surface
+# Existence of the Fermi Surface
 
-### 1 Dressed particle and hole lines
+1 Dressed particle and hole lines
 
-## or ‘clothed skeletons’
+or ‘clothed skeletons’
 
 We saw in the last chapter how the series for the propagator could be
 
@@ -11596,7 +11584,7 @@ beautified by expressing it in terms of the proper self-energy
 
 writing Σ in terms of the dressed or ‘effective’ interaction.
 
-## Now we are going
+# Now we are going
 
 to do still another face-lifting operation on Σ by partially summing over all
 
@@ -11608,23 +11596,23 @@ all free propagator lines have been replaced by clothed propagators.
 
 result is called ‘self-consistent renormalization’.
 
-## It will be used to derive
+# It will be used to derive
 
 the conditions for the existence of quasi particles
 
-## and to demonstrate how it
+and to demonstrate how it
 
 is possible to have a sharp Fermi surface in a strongly interacting system.
 
-## the end of the chapter
+the end of the chapter
 
 we will discuss a further simplification of the propagator
 
 expansion by means of a partial sum over so-called ‘vertex parts’.
 
-## In the series for Σ
+In the series for Σ
 
-### there will be subsets of diagrams like
+there will be subsets of diagrams like
 
 in which each of the propagator lines has more and more self-energy parts
 
@@ -11638,17 +11626,17 @@ brackets in (11.
 
 1) is carried out by just replacing the free propagators by the
 
-### exact propagator in the first diagram
+exact propagator in the first diagram
 
 thus:
 
-## --- Page 220 ---
+--- Page 220 ---
 
-### 204 A GUIDE TO FEYNMAN DIAGRAMS [11.1]
+204 A GUIDE TO FEYNMAN DIAGRAMS [11.1]
 
 The first diagram of such a series is often called a ‘skeleton’
 
-## so that the
+so that the
 
 renormalization process here consists of putting self-energy flesh on the bones
 
@@ -11656,9 +11644,9 @@ of the skeleton—a sort of butchering in reverse.
 
 This trick can be performed on the series as a whole
 
-## leading to the simplified
+leading to the simplified
 
-## series
+series
 
 (11.
 
@@ -11666,11 +11654,11 @@ Again, it must be remembered that no diagram may be counted twice—thus
 
 is illegal since all these diagrams are already included in diagram (3) of (11.
 
-## Of course
+# Of course
 
 the exact propagators used in (11.
 
-## 3) are not known—they must
+3) are not known—they must
 
 be obtained from the Dyson equation (10.
 
@@ -11684,21 +11672,21 @@ for the exact propagator.
 
 That is, we first calculate (11.
 
-## 3) using bare propa-
+3) using bare propa-
 
-## gators
+gators
 
 then substitute the result into (10.
 
-### 7) to get the first approximation for
+7) to get the first approximation for
 
-## the clothed propagator
+the clothed propagator
 
 then re-calculate (11.
 
-## 3) using this approximate
+3) using this approximate
 
-## clothed propagator
+clothed propagator
 
 etc., etc.
 
@@ -11720,7 +11708,7 @@ case.
 
 It is thus applicable to a system with an external potential
 
-## as discussed
+as discussed
 
 just after (4.
 
@@ -11728,21 +11716,21 @@ just after (4.
 
 [Regarding the proof that (11.
 
-## 4) is fully equivalent to the
+4) is fully equivalent to the
 
-## usual Hartree-Fock equation
+usual Hartree-Fock equation
 
-## see Hedin (1965)
+see Hedin (1965)
 
 A797, for reference.
 
-## ] In
+] In
 
 the special case of no external potential
 
 the propagator (4.
 
-## 77) turns out to
+77) turns out to
 
 be the self-consistent solution of (11.
 
@@ -11764,15 +11752,15 @@ in (10.
 
 (11.
 
-## In the literature
+# In the literature
 
-### the double lines are often omitted
+the double lines are often omitted
 
-## and it is simply stated that
+and it is simply stated that
 
 all interactions and propagators are dressed.
 
-## A self-consistent calculation
+# A self-consistent calculation
 
 can be carried out for example to first order in (11.
 
@@ -11802,13 +11790,13 @@ It was shown in chapter 10 that quasi particles exist in high- and low-density
 
 Fermi gases.
 
-### Do they exist in other systems
+# Do they exist in other systems
 
-### like an electron gas at ordinary
+like an electron gas at ordinary
 
 metallic densities, or in liquid He?
 
-### With the aid of the clothed skeleton
+# With the aid of the clothed skeleton
 
 series (11.
 
@@ -11820,9 +11808,9 @@ such that the propagator series (9.
 
 40) is valid).
 
-### These are the so-called ‘normal’
+These are the so-called ‘normal’
 
-## systems—the ‘abnormal’ ones
+systems—the ‘abnormal’ ones
 
 like superconductors and ferromagnets are
 
@@ -11832,11 +11820,11 @@ discussed in §15.
 
 We will first find the general form of G
 
-## near the Fermi energy
+near the Fermi energy
 
-## in a normal system
+in a normal system
 
-### then prove the existence of quasi
+then prove the existence of quasi
 
 particles.
 
@@ -11850,17 +11838,17 @@ G(k,ω) = —————— or G(k,ω) =
 
 Σ as in (11.
 
-## The quantities Σ_p
+The quantities Σ_p
 
-### Σ_i are respectively the real and
+Σ_i are respectively the real and
 
 imaginary parts of the proper self-energy.
 
-## We will now obtain the form
+# We will now obtain the form
 
 of Σ_i near the Fermi energy by assuming it has a certain form
 
-## then showing
+then showing
 
 this assumption yields a self-consistent solution for G in (11.
 
@@ -11868,7 +11856,7 @@ this assumption yields a self-consistent solution for G in (11.
 
 In order to get a clue regarding what form to assume
 
-## let us evaluate the
+let us evaluate the
 
 contribution of the first few diagrams in the self-energy expansion (10.
 
@@ -11880,9 +11868,9 @@ potential, μ, described in §9.
 
 the self-consistent result.
 
-### (It will turn out that μ is just p
+(It will turn out that μ is just p
 
-## the Fermi energy
+the Fermi energy
 
 of the interacting system.
 
@@ -11902,15 +11890,15 @@ yields:
 
 lim Im Σ(k,ω) = .
 
-## ω→ω_F
+ω→ω_F
 
-### Using this as a starting point
+# Using this as a starting point
 
 let us assume (Luttinger (1961)) that Σ_i has
 
-## the limiting form
+the limiting form
 
-## ω→ω_F
+ω→ω_F
 
 sgn(ω−μ)= +1, ω>μ
 
@@ -11920,7 +11908,7 @@ sgn(ω−μ)= +1, ω>μ
 
 195.
 
-## Note that
+# Note that
 
 this agrees with the sign of the infinitesimal in (9.
 
@@ -11928,9 +11916,9 @@ this agrees with the sign of the infinitesimal in (9.
 
 ) Then (11.
 
-## 8) may be
+8) may be
 
-## written
+written
 
 G(k,ω) =
 
@@ -11940,15 +11928,15 @@ We can show that (11.
 
 the dressed propagator in the clothed skeleton diagrams of (11.
 
-## When
+# When
 
-### this is done we find [Luttinger (1961)]
+this is done we find [Luttinger (1961)]
 
 lim Im Σ(k,ω) = .
 
 (11.
 
-## ω→ω_F
+ω→ω_F
 
 and, in general
 
@@ -11958,21 +11946,21 @@ and, in general
 
 Hence, the imaginary part of the proper self-energy has the form
 
-## lim Σ_i ∝ (ω−μ)²
+lim Σ_i ∝ (ω−μ)²
 
-## ω→ω_F
+ω→ω_F
 
 just as was assumed in (11.
 
 This shows that (11.
 
-## 10) is indeed the desired
+10) is indeed the desired
 
 self-consistent solution for the propagator.
 
 The form (11.
 
-## 10) is valid for any
+10) is valid for any
 
 system in which the perturbation expansion (9.
 
@@ -11980,7 +11968,7 @@ system in which the perturbation expansion (9.
 
 When (11.
 
-## 10) holds
+10) holds
 
 it is easy to show that quasi particles exist in the system
 
@@ -11990,7 +11978,7 @@ We will first get the single-particle excitation energies
 
 E_k,
 
-### then the lifetime of the excitations
+then the lifetime of the excitations
 
 τ, and show that τ obeys (8.
 
@@ -12006,13 +11994,13 @@ equation for the poles of (11.
 
 First let us get a zeroth-order approximation for the poles.
 
-## For ω very near μ
+For ω very near μ
 
 (the case we are interested in) we can neglect the imaginary part and get
 
 ω = E_k = ξ_k + Σ_p(k, E_k) (11.
 
-### To obtain a first-order solution
+# To obtain a first-order solution
 
 expand Σ_p about the zeroth-order solution
 
@@ -12022,17 +12010,17 @@ and put this in the pole equation:
 
 where we have put in Λ to keep track of the order.
 
-## ω = E_k + Λ ω₁
+ω = E_k + Λ ω₁
 
 to first order.
 
 Then (11.
 
-## 16) becomes
+16) becomes
 
 Dropping higher-order terms in Λ:
 
-## Therefore (set Λ = 1)
+Therefore (set Λ = 1)
 
 Thus the energy and reciprocal lifetime are given by
 
@@ -12040,17 +12028,17 @@ Thus the energy and reciprocal lifetime are given by
 
 It is seen that we have true quasi particles here because the energy level width
 
-### 1/τ is much less than the energy
+1/τ is much less than the energy
 
 in this case measured relative to μ.
 
-## (Note
+(Note
 
 that in (8.
 
 22), energy is taken relative to E_F
 
-### the Fermi energy of the interacting
+the Fermi energy of the interacting
 
 system.
 
@@ -12066,11 +12054,11 @@ We can get an expression for G which is valid near the poles by substituting
 
 part of Σ at E_k.
 
-## This yields
+# This yields
 
 G(k, ω) =
 
-## The F(k
+The F(k
 
 ω) term is a correction containing everything left out of the first
 
@@ -12078,7 +12066,7 @@ term.
 
 Equation (11.
 
-## 20) may be written
+20) may be written
 
 G(k, ω) = Z_k / [ω − ε_k + i Γ_k] + F(k
 
@@ -12094,17 +12082,17 @@ This has just the quasi particle form (8.
 
 37).
 
-### Thus we have proved that if the
+# Thus we have proved that if the
 
 interaction is such that perturbation theory holds
 
-## then quasi particles exist
+then quasi particles exist
 
 in the system.
 
 The only other assumption involved is that Σ(k
 
-## ω) can be
+ω) can be
 
 expanded in a power series.
 
@@ -12112,25 +12100,25 @@ expanded in a power series.
 
 In order to appreciate the mystery concerning the existence of the Fermi
 
-## surface
+surface
 
 look at the momentum distribution function n(k) for a system of non-
 
-## interacting fermions (T=0
+interacting fermions (T=0
 
 no external potential) in Fig.
 
-## This function
+# This function
 
 is the probability that the state k is occupied by a (bare) particle.
 
-## It is seen
+# It is seen
 
 that there is a sharp discontinuity at the Fermi surface
 
 |k|=k_F.
 
-## It is because
+# It is because
 
 of this discontinuity that it is meaningful to say there is a surface here (in
 
@@ -12142,31 +12130,31 @@ say, the electron gas
 
 The average interaction energy between any pair of particles is comparable
 
-## to the Fermi energy (V~7 eV
+to the Fermi energy (V~7 eV
 
 E_F~5 eV in an electron gas).
 
-## Naive physical
+# Naive physical
 
 intuition would say that turning on such a strong interaction would cause
 
-## collisions
+collisions
 
 knocking particles out of the occupied states below k_F to the
 
-## unoccupied ones above
+unoccupied ones above
 
 resulting in a complete ‘smearing out’ of the discontinuity at the Fermi surface
 
 as shown in Fig.
 
-## This is roughly
+# This is roughly
 
 analogous to the smearing out of the water surface directly under the
 
 Niagara falls.
 
-## However
+# However
 
 experiments on electrons in metals indicate the
 
@@ -12174,13 +12162,13 @@ presence of a discontinuity at |k| = k_F
 
 which is sharp to within 10⁻⁴ eV!
 
-## [Figure
+[Figure
 
 Momentum Distribution Function for Non-interacting Fermions]
 
 The mystery was cleared up by Migdal (Pines (1961)
 
-## 34) and Luttinger
+34) and Luttinger
 
 (1960b).
 
@@ -12188,25 +12176,25 @@ They showed that there is a discontinuity in n_k in the interacting
 
 system but that the magnitude of the discontinuity is <1.
 
-## Their argument
+# Their argument
 
 makes use of the fact that n_k may be obtained directly from the single-particle
 
 Green’s function.
 
-### This is easily seen as follows
+# This is easily seen as follows
 
-### n_k is the expectation value of
+n_k is the expectation value of
 
-## [Figure
+[Figure
 
 Naive Guess at Form of Momentum Distribution Function in Interacting Fermi System]
 
-## --- Page 226 ---
+--- Page 226 ---
 
-### 210 A GUIDE TO FEYNMAN DIAGRAMS 11.3
+210 A GUIDE TO FEYNMAN DIAGRAMS 11.3
 
-## the number operator
+the number operator
 
 c†_k c_k in the interacting ground state |Ψ₀⟩
 
@@ -12214,13 +12202,13 @@ Using the closed expression for the propagator (9.
 
 6), with μ = 0
 
-## k = k_F
+k = k_F
 
 this may be expressed in terms of the propagator by
 
 n_k = −i lim G(k,t) (11.
 
-## t→0⁻
+t→0⁻
 
 where “→0⁻” means an infinitesimal time interval before t = 0.
 
@@ -12236,13 +12224,13 @@ Then G(k,ω) has the form (11.
 
 from it by Fourier transform.
 
-## This yields
+# This yields
 
 G(k,t) = −iZ_k θ(k_F − k) e^{−iE_k t} + i Z_k θ(k − k_F) e^{−iE_k t} + F(k
 
 t) (11.
 
-## where F(k
+where F(k
 
 t) is the transform of the correction f(k
 
@@ -12250,19 +12238,19 @@ Substituting (11.
 
 25) into (11.
 
-## 24) yields
+24) yields
 
 n_k = Z_k θ(k_F − k) − i F(k,0⁻).
 
 (11.
 
-## Assuming F(k
+Assuming F(k
 
-### 0⁻) is continuous across k = k_F
+0⁻) is continuous across k = k_F
 
-## where k_F is the momentum
+where k_F is the momentum
 
-## corresponding to energy E_F
+corresponding to energy E_F
 
 this reveals a discontinuity of magnitude Z_k on the
 
@@ -12276,7 +12264,7 @@ In Fig.
 
 Comparing this with Fig.
 
-## 1 we see
+1 we see
 
 that it is reasonable to call k_F respectively the Fermi surface and Fermi
 
@@ -12286,7 +12274,7 @@ Hence, assuming the interaction is such
 
 that a perturbation expansion may be used
 
-### the Fermi surface exists in the
+the Fermi surface exists in the
 
 interacting system.
 
@@ -12294,11 +12282,11 @@ It would be a convincing demonstration of the correctness of the above
 
 arguments if the curve in Fig.
 
-### 3 could be measured experimentally.
+3 could be measured experimentally.
 
 Calculations by Daniel and Vosko (1960) indicate that Z_k differs greatly from 1.
 
-## For example
+# For example
 
 an estimate for Na metal gives Z_k ≈ 0.
 
@@ -12306,27 +12294,27 @@ However, one cannot
 
 carry out such a measurement by any low-energy methods—like
 
-## for example
+for example
 
 soft X-ray spectra—since these give only the quasiparticle distribution
 
 function (which is nearly that for free electrons
 
-## because the quasiparticles
+because the quasiparticles
 
 are nearly independent—see last paragraph in §8.
 
-## [Figure
+[Figure
 
 True Momentum Distribution Function in Interacting Fermi System]
 
-## --- Page 227 ---
+--- Page 227 ---
 
 4] PERTURBATION THEORY AND THE FERMI SURFACE 213
 
 To actually measure n_k requires energies which are large in comparison with
 
-### the inter-electron interaction
+the inter-electron interaction
 
 i.e., large enough to ‘undress’ the electrons.
 
@@ -12336,9 +12324,9 @@ This can be achieved using Compton scattering with high energy electrons
 
 with theory (Lundqvist (1971)).
 
-## 11.4 [Dressed vertices]
+# 11.4 [Dressed vertices]
 
-## So far
+# So far
 
 we have seen how to simplify the series for the proper self-energy
 
@@ -12350,11 +12338,11 @@ This section reveals a final simplification which boils the series down to two
 
 terms; it is carried out by renormalizing the vertices.
 
-## The useful definitions
+# The useful definitions
 
 here are:
 
-## Vertex part
+# Vertex part
 
 any diagram without external lines which may be inserted
 
@@ -12364,17 +12352,17 @@ can be connected to two particle lines and one
 
 interaction line), such as, for example:
 
-## [Diagram placeholders]
+[Diagram placeholders]
 
-### Proper (irreducible) vertex part
+Proper (irreducible) vertex part
 
-### a vertex part which cannot be broken
+a vertex part which cannot be broken
 
 into two disconnected pieces by removing either one particle (or hole) line
 
 or one interaction line; for example:
 
-## [Diagram placeholders]
+[Diagram placeholders]
 
 An example of the replacement of a vertex by an irreducible vertex part is
 
@@ -12384,25 +12372,25 @@ An example of the replacement of a vertex by an irreducible vertex part is
 
 If we define the sum of all irreducible vertex parts by
 
-## [Diagram placeholder]
+[Diagram placeholder]
 
-## --- Page 228 ---
+--- Page 228 ---
 
-### 212 A GUIDE TO FEYNMAN DIAGRAMS 11.4
+212 A GUIDE TO FEYNMAN DIAGRAMS 11.4
 
 then it is not hard to show that the irreducible self-energy is just given by
 
 (11.
 
-## [Diagram placeholder]
+[Diagram placeholder]
 
 Note that only one vertex is dressed because of the fact that dressing both
 
 would count diagrams twice.
 
-## For example
+# For example
 
-## [Diagram placeholders]
+[Diagram placeholders]
 
 (11.
 
@@ -12412,7 +12400,7 @@ but this is pure optical illusion.
 
 In reality they are topologically equivalent
 
-### and are therefore the same diagram
+and are therefore the same diagram
 
 as mentioned in (10.
 
@@ -12422,7 +12410,7 @@ This underlines a necessary condition for playing the graph game
 
 one must be completely sober to avoid12.
 
-### 2 Diagrams for the ground state energy
+2 Diagrams for the ground state energy
 
 The ground state energy as presented in (5.
 
@@ -12436,15 +12424,15 @@ This cancels the factor of 1/2 in the interaction potential (see (4.
 
 60)).
 
-## However
+# However
 
 in the case where the diagram is completely symmetric
 
-## such as the double bubble
+such as the double bubble
 
-## the oyster
+the oyster
 
-### and the two second-order diagrams
+and the two second-order diagrams
 
 twisting all the interactions does not produce a new diagram
 
@@ -12462,7 +12450,7 @@ Note that as in §5.
 
 so the time order is important.
 
-## That is
+# That is
 
 two diagrams are topologically equivalent only if one can be distorted into the other without changing the time order of the interactions.
 
@@ -12506,15 +12494,15 @@ Table 12.
 
 1 Diagram dictionary for ground state energy of interacting Fermion system (no external potential)
 
-## Diagram element Factor
+# Diagram element Factor
 
 Interaction: -1
 
-## 3]
+3]
 
-### > = sum of energies for all hole lines
+> = sum of energies for all hole lines
 
-## 4 crossing dotted line
+4 crossing dotted line
 
 Dotted line:
 
@@ -12524,27 +12512,27 @@ interaction: ane
 
 each hole line: |
 
-### x = sum of energies for all particle
+x = sum of energies for all particle
 
-## lines crossing dotted line
+lines crossing dotted line
 
-## each fermion loop
+each fermion loop
 
 example:
 
-## completely symmetric
+completely symmetric
 
 diagram.
 
 Example: 0
 
-## each particle (hole) momentum
+each particle (hole) momentum
 
-## parameter k
+parameter k
 
-## > o i} ak
+> o i} ak
 
-## 5 (2π)
+5 (2π)
 
 particle: k > k_F
 
@@ -12556,27 +12544,27 @@ k q = 0 !
 
 (two fermion loops, two hole lines,
 
-### (1) Double bubble = OO symmetric)
+(1) Double bubble = OO symmetric)
 
-## 二 ( 一 x 士 x 一 , 玖 y (12.5)
+二 ( 一 x 士 x 一 , 玖 y (12.5)
 
-## k_l < k_F
+k_l < k_F
 
-## k
+k
 
-### (2) Oyster = SS) (one fermion loop
+(2) Oyster = SS) (one fermion loop
 
-## two hole lines
+two hole lines
 
-## symmetric)
+symmetric)
 
 =(-1/8)(1/2)(1/2) Σ (12.
 
 k<k_F, k'<k_F
 
-## 1 - (1/2) Σ [ ... ] — ∑ a
+1 - (1/2) Σ [ ... ] — ∑ a
 
-## ... (12.8)
+... (12.8)
 
 k+q l-q [ .
 
@@ -12586,11 +12574,11 @@ The diagram method of getting the ground state energy will now be applied to a h
 
 3 Ground state energy of high-density electron gas
 
-### theory of Gell-Mann and Brueckner
+theory of Gell-Mann and Brueckner
 
 The electron gas was defined in §4.
 
-### 9 as the theoretician’s ‘dream metal’
+9 as the theoretician’s ‘dream metal’
 
 consisting of N electrons moving against a uniform positive charge background and interacting by pure Coulomb forces.
 
@@ -12608,9 +12596,9 @@ Here the ground state energy will be investigated in the same limit.
 
 The simplest approximation to the ground state energy is the Hartree-Fock
 
-## which in this case
+which in this case
 
-## with no external potential
+with no external potential
 
 is simply the energy to first order of perturbation theory.
 
@@ -12624,11 +12612,11 @@ electrons tend to keep away from each other
 
 i.e., their motions are correlated.
 
-## The correlation energy
+# The correlation energy
 
 E_cor, is defined by
 
-## E_cor = E_exact — E_HF
+E_cor = E_exact — E_HF
 
 Let us first evaluate the Hartree-Fock energy.
 
@@ -12640,27 +12628,27 @@ Using (7.
 
 6), we find that (12.
 
-## 9) is
+9) is
 
 E_HF = Σ k^2/2m + Σ (V_elec — nV) (12.
 
 k<k_F k,l<k_F
 
-### The first term is (putting spin sum in)
+The first term is (putting spin sum in)
 
-## k<k_F
+k<k_F
 
-### where the 2 is from the spin sum
+where the 2 is from the spin sum
 
-## Ω = crystal volume
+Ω = crystal volume
 
 and {2/(2π)^3} = density of points in k-space.
 
-## The Fermi momentum
+# The Fermi momentum
 
 k_F, may be found from
 
-## k<k_F
+k<k_F
 
 so that, using (10.
 
@@ -12674,7 +12662,7 @@ The term in Σ V_elec is equal to zero by (10.
 
 The last term is (spin sums produce factor of 2)
 
-### - (1/2) Σ [V_{kl}] = - (1/2) (2/Ω) Σ_{k
+- (1/2) Σ [V_{kl}] = - (1/2) (2/Ω) Σ_{k
 
 l} (4πe^2/|k-l|^2) (1/2) = - (0.
 
@@ -12682,13 +12670,13 @@ l} (4πe^2/|k-l|^2) (1/2) = - (0.
 
 (see Raimes (1961), p.
 
-## 171 ff.
+171 ff.
 
-## Hence
+# Hence
 
 E_HF = (2.
 
-## 21 - 0.
+21 - 0.
 
 916) rydberg * (N/Ω) * 1/r_s^2 = (1.
 
@@ -12704,13 +12692,13 @@ The first graph in (12.
 
 The spin sum gives a factor of 4.
 
-## Changing from sum to integral
+# Changing from sum to integral
 
 expressing all momenta in terms of the Fermi momentum and using (12.
 
 13) yields (in rydbergs per electron):
 
-## E_cor = (1/π) ∫_{k<k_F
+E_cor = (1/π) ∫_{k<k_F
 
 k'<k_F, |k+q|>k_F, |k'-q|>k_F} d^3k d^3k' d^3q/(2π)^3 .
 
@@ -12718,7 +12706,7 @@ k'<k_F, |k+q|>k_F, |k'-q|>k_F} d^3k d^3k' d^3q/(2π)^3 .
 
 Similarly, (12.
 
-## 8) gives
+8) gives
 
 E_cor = +3/2 [ .
 
@@ -12730,13 +12718,13 @@ Look first at (12.
 
 The major contribution of the integrand is evidently from small q.
 
-## For small q
+# For small q
 
 because of the limits on the integration region
 
 k and k' lie in a shell about the Fermi surface, of thickness ~ q.
 
-### The integrand ~ 1/q^2 for small q
+The integrand ~ 1/q^2 for small q
 
 and ∫ d^3k ∫ d^3k' ~ q^2, so it follows that
 
@@ -12752,17 +12740,17 @@ The same argument yields for (12.
 
 18):
 
-### E_cor ~ ∫ dq / q^2 for small q
+E_cor ~ ∫ dq / q^2 for small q
 
-## ∫ dq for large q = finite
+∫ dq for large q = finite
 
 = 0.
 
-## 046 rydberg/electron (12.
+046 rydberg/electron (12.
 
 The reason why the first diagram diverges while the second does not is that in the former there is the same momentum q transferred at each interaction
 
-### contributing a factor of V_q^2 ~ 1/q^4
+contributing a factor of V_q^2 ~ 1/q^4
 
 while in the latter there is q transferred at only one wiggle
 
@@ -12772,11 +12760,11 @@ In third order we have the diagrams shown in (12.
 
 21).
 
-### Note how they fall into classes
+# Note how they fall into classes
 
-### same momentum q at all three wiggles
+same momentum q at all three wiggles
 
-## at two wiggles
+at two wiggles
 
 or at only one wiggle.
 
@@ -12794,7 +12782,7 @@ The three terms come from the three types of diagrams
 
 and we see again that the most divergent term comes from the diagram with the same q at each wiggle.
 
-### The same behaviour occurs in all orders
+# The same behaviour occurs in all orders
 
 and it is found that the perturbation series for the correlation energy may be written
 
@@ -12808,7 +12796,7 @@ The terms can be arranged (see diagonal lines) in such manner that in each order
 
 30)).
 
-## This means that for small r_s
+This means that for small r_s
 
 i.e., the high-density limit
 
@@ -12818,9 +12806,9 @@ Thus:
 
 E_cor = (0.
 
-## 046 - 0.
+046 - 0.
 
-## 096 r_s ln r_s + .
+096 r_s ln r_s + .
 
 ) rydberg/electron (12.
 
@@ -12842,11 +12830,11 @@ GB accomplished it by a trick which enabled them to first sum over
 
 all diagrams within each order of perturbation theory.
 
-## It was then straight-
+# It was then straight-
 
 forward to carry out the sum over all orders.
 
-### The trick involves the function
+# The trick involves the function
 
 (correlation, high density)
 
@@ -12866,7 +12854,7 @@ and its transform:
 
 GB showed that the total contribution from all ring diagrams in nth order
 
-## was given in terms of by
+was given in terms of by
 
 (12.
 
@@ -12876,9 +12864,9 @@ The correlation energy is then just the sum over all orders
 
 (12.
 
-## --- Page 238 ---
+--- Page 238 ---
 
-### 222 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
+222 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
 In the various partial summations up to now we encountered sums of geo-
 
@@ -12886,15 +12874,15 @@ metric series and square root series.
 
 In this partial sum, , over rings, we
 
-## have a logarithmic series
+have a logarithmic series
 
-### which is easily summed to yield
+which is easily summed to yield
 
 (12.
 
-### which may be evaluated to give
+which may be evaluated to give
 
-## where
+where
 
 (12.
 
@@ -12912,11 +12900,11 @@ Sawada (Pines (1961), p.
 
 201) who got the same result by a non-perturbative
 
-## method
+method
 
 and then by Noziéres and Pines (Pines (1961)
 
-## 235) using a tech-
+235) using a tech-
 
 nique based on the calculation of the ‘generalized dielectric constant’
 
@@ -12928,21 +12916,21 @@ nique based on the calculation of the ‘generalized dielectric constant’
 
 Nuclear matter was defined in §4.
 
-### It was mentioned there that the binding
+# It was mentioned there that the binding
 
 energy per particle (=ground state energy
 
-### if the energy zero is taken to be
+if the energy zero is taken to be
 
 that of the non-interacting system) was about -16 MeV.
 
-## We will now give
+# We will now give
 
 a very short glimpse of how this may be calculated by the diagrammatic
 
 method.
 
-## To do such a calculation
+# To do such a calculation
 
 it is necessary to have a more realistic inter-
 
@@ -12950,35 +12938,35 @@ nucleon potential than the simple Yukawa interaction (4.
 
 80).
 
-## High energy
+# High energy
 
 scattering experiments indicate that the true potential looks roughly like an
 
 infinitely hard repulsive core plus a short-range attractive tail
 
-## as shown in
+as shown in
 
 Fig.
 
-### Despite its rather violent appearance
+# Despite its rather violent appearance
 
-## the attractive part of the
+the attractive part of the
 
-## nuclear potential is ‘weak’
+nuclear potential is ‘weak’
 
-## in a sense
+in a sense
 
 since, if the nuclear matter is taken
 
 to have a density equal to that at the centre of heavy nuclei
 
-## then the mean
+then the mean
 
 separation of two nucleons is cm or about three times the hard
 
-## --- Page 239 ---
+--- Page 239 ---
 
-## 4) GROUND STATE ENERGY 223
+4) GROUND STATE ENERGY 223
 
 core radius.
 
@@ -12994,15 +12982,15 @@ As pointed out in §5.
 
 1, because of the hard core
 
-## and hence all
+and hence all
 
-### the terms in the perturbation series
+the terms in the perturbation series
 
 are infinite.
 
 Nevertheless, analogous to
 
-## the electron gas case
+the electron gas case
 
 it is possible to perform a partial sum over the most
 
@@ -13010,23 +12998,23 @@ important types of diagrams and obtain a finite result.
 
 In the electron case,
 
-## V(r) 2
+V(r) 2
 
-## 0.4 x 10-13 cm →
+# 0.4 x 10-13 cm →
 
 Fig.
 
 1 Form of Interaction Between Two Nucleons (Schematic).
 
-## V = Potential Energy
+V = Potential Energy
 
-### and r = Internucleon Separation
+and r = Internucleon Separation
 
 the ring diagrams dominated because of high density.
 
-## In this low-density
+# In this low-density
 
-## nuclear case
+nuclear case
 
 the big contributors are the diagrams with only two hole lines
 
@@ -13034,19 +13022,19 @@ as discussed in §10.
 
 The approximate series for the energy involving just
 
-## these graphs is
+these graphs is
 
 (12.
 
-## --- Page 240 ---
+--- Page 240 ---
 
-### 224 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
+224 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
 The technique for summing these ‘ladder’ diagrams becomes clear by
 
 writing out the first few in detail (see Table 12.
 
-## 1 and remember the factor
+1 and remember the factor
 
 of 4 for symmetric graphs!
 
@@ -13060,11 +13048,11 @@ and so on.
 
 The sum may be carried out with the aid of a frequency-inde-
 
-## pendent K-matrix
+pendent K-matrix
 
 similar to (but not identical with!
 
-## ) the frequency-
+) the frequency-
 
 dependent K-matrix in §10.
 
@@ -13074,49 +13062,49 @@ This is the analogue of (10.
 
 21) used in the propagator case.
 
-## Writing this
+# Writing this
 
-## equation for the special case
+equation for the special case
 
-## and iterating yields
+and iterating yields
 
 (12.
 
-## Summing this over
+# Summing this over
 
 and comparing with (12.
 
 33, 34, 35) it is easily
 
-## found that
+found that
 
 (12.
 
-## --- Page 241 ---
+--- Page 241 ---
 
-## 4] GROUND STATE ENERGY 225
+4] GROUND STATE ENERGY 225
 
 In a similar fashion:
 
 (12.
 
-## so that
+so that
 
 (12.
 
 Thus, the ground state energy may be expressed in terms of the K-matrix.
 
-## At first sight
+# At first sight
 
-### this does not seem to be progress
+this does not seem to be progress
 
-## since one would expect that
+since one would expect that
 
 the fact that in (12.
 
 36) is infinite implies that is also infinite.
 
-## Remark-
+# Remark-
 
 ably enough, this is not true.
 
@@ -13124,13 +13112,13 @@ It can be shown that even for a hard core
 
 potential, (12.
 
-## 36) may be solved
+36) may be solved
 
 and it yields a finite .
 
 Hence (12.
 
-## 40) is a
+40) is a
 
 well-behaved first approximation for the ground state energy.
 
@@ -13146,11 +13134,11 @@ The X is an infinite constant.
 
 In this case, it is easily
 
-## seen that
+seen that
 
 (12.
 
-## is the solution
+is the solution
 
 which can be checked by just substituting (12.
 
@@ -13172,21 +13160,21 @@ looks like the ordinary first-order approximation to the energy
 
 except that has been replaced by .
 
-### Let us define a new ‘effective
+Let us define a new ‘effective
 
-## interaction’ equal to
+interaction’ equal to
 
-### by the new interaction diagram
+by the new interaction diagram
 
 (12.
 
-## --- Page 242 ---
+--- Page 242 ---
 
-### 226 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
+226 A GUIDE TO FEYNMAN DIAGRAMS (12.4)
 
 Then (12.
 
-### 40) may be written diagrammatically as
+40) may be written diagrammatically as
 
 (12.
 
@@ -13198,7 +13186,7 @@ diagrams, thus
 
 {Note: In actual calculations on nuclear matter
 
-## one employs the ‘method
+one employs the ‘method
 
 of undefined single-particle energies’ in which an arbitrary single-particle
 
@@ -13210,7 +13198,7 @@ This is described in the article by Goldstone in Pines (1961)
 
 109.
 
-## Further reading
+# Further reading
 
 Raimes (1972), chaps.
 
@@ -13224,9 +13212,9 @@ Thouless (1972).
 
 Brout (1963).
 
-## Exercises
+# Exercises
 
-### 1 Verify that the last two graphs in (12.
+1 Verify that the last two graphs in (12.
 
 2) are anomalous.
 
@@ -13236,19 +13224,19 @@ Brout (1963).
 
 3 Carry out the summation of the following set of energy diagrams
 
-## 12.4 Verify (12.42).
+# 12.4 Verify (12.42).
 
-## --- Page 243 ---
+--- Page 243 ---
 
-## Chapter 13
+# Chapter 13
 
 Collective Excitations and the Two-Particle
 
-## Propagator
+# Propagator
 
-## 13.1 Introduction
+# 13.1 Introduction
 
-## Up to now
+# Up to now
 
 we have been mainly concerned with quasi-particle excitations
 
@@ -13262,39 +13250,39 @@ i.e., collective excita-
 
 tions.
 
-## As pointed out there
+# As pointed out there
 
 collective excitations are the quanta associated
 
 with collective motions of the system as a whole
 
-## such as
+such as
 
-## for instance
+for instance
 
-## phonons
+phonons
 
 which are the quanta of the sound wave.
 
-## Like quasi particles
+# Like quasi particles
 
 collectiveexcitations have particle-like qualities but
 
-## unlike quasi particles
+unlike quasi particles
 
-## these
+these
 
 qualities do not at all resemble those of the original particles of the
 
 system.
 
-## It should be noted here that
+# It should be noted here that
 
 despite the fact that collective excitations
 
 cannot be described in terms of the ‘bare particle plus cloud’ picture used
 
-## in the quasi-particle case
+in the quasi-particle case
 
 we often hear such expressions as ‘dressed’
 
@@ -13304,19 +13292,19 @@ This is due to the fact that if the collective
 
 excitations are allowed to interact with one another (or with other elementary
 
-## excitations in the system)
+excitations in the system)
 
 then a given collective excitation may become
 
 surrounded by a cloud of other elementary excitations
 
-## thus giving rise
+thus giving rise
 
 to the ‘dressed’ or ‘quasi’ collective excitation.
 
 Collective excitations may be handled by means of the ‘density fluctuation’
 
-## or ‘polarization’ propagator
+or ‘polarization’ propagator
 
 F, which is a special case of the two-particle
 
@@ -13326,13 +13314,13 @@ Just as the quasi-particle energies and lifetimes were
 
 found from the poles of the single-particle propagator
 
-## so the collective
+so the collective
 
 excitation energies and lifetimes are determined from the poles of the polar-
 
 ization propagator.
 
-## This new propagator
+# This new propagator
 
 F, may be expanded in a diagram
 
@@ -13344,53 +13332,53 @@ occurring in the effective interaction (10.
 
 Calculation of F for a high-density electron gas in RPA (i.e.
 
-## summing over
+summing over
 
 just repeated ‘pair bubbles’) shows that F describes the collective excitation
 
 called the ‘free plasmon’.
 
-### When higher-order diagrams are included
+# When higher-order diagrams are included
 
-## plasmons become ‘dressed’
+plasmons become ‘dressed’
 
 and acquire a renormalized frequency dispersion
 
 law and a finite lifetime.
 
-## --- Page 244 ---
+--- Page 244 ---
 
-### 228 A GUIDE TO FEYNMAN DIAGRAMS (13.2)
+228 A GUIDE TO FEYNMAN DIAGRAMS (13.2)
 
 The two-particle Green's function propagator
 
-## In the classical case
+# In the classical case
 
 the two-particle propagator gives the probability
 
-## P(r4t4
+P(r4t4
 
 r3t3,r2t2
 
 r1t1) that if one particle is introduced into the many-particle
 
-## system at point r1 at time t1
+system at point r1 at time t1
 
-## and another at r3 at time t3
+and another at r3 at time t3
 
-## then one of the
+then one of the
 
 particles will be observed at r2 at later time t2
 
-## and the other at (r4
+and the other at (r4
 
 t4).
 
-## This
+# This
 
 can be evaluated as the sum of the probabilities for all the different ways this
 
-## could happen
+could happen
 
 including the particles scattering off each other.
 
@@ -13402,33 +13390,33 @@ case of the accelerator in Fig.
 
 P(r4t4,r3t3,r2t2,r1t1)
 
-## = [straight line from (r1
+= [straight line from (r1
 
-## t1) to (r2
+t1) to (r2
 
-### t2)] + [straight line from (r3
+t2)] + [straight line from (r3
 
-## t3) to (r4
+t3) to (r4
 
-## t4)]
+t4)]
 
-## + [line from (r1
++ [line from (r1
 
-## t1) to (r2
+t1) to (r2
 
-### t2) that collides with line from (r3
+t2) that collides with line from (r3
 
-## t3) to (r4
+t3) to (r4
 
-## t4)]
+t4)]
 
 where the wavy line stands for the particles colliding with each other.
 
-## If a
+# If a
 
 scattering probability P_sc (here P_sc=1) is associated with the wavy line
 
-## then the
+then the
 
 diagrams may be evaluated by methods similar to those used in the single-
 
@@ -13440,23 +13428,23 @@ On the left side of (13.
 
 diagram for the two-particle propagator.
 
-### Note that we should not associate
+# Note that we should not associate
 
 free propagators with the four ‘tails’ sticking out of the square when translating
 
 the diagram into functions.
 
-## To avoid confusion here
+# To avoid confusion here
 
-## it helps to use a ‘stretched
+it helps to use a ‘stretched
 
 skin’ picture for the propagator (see appendix M
 
-## and Mattuck and Theumann
+and Mattuck and Theumann
 
 (1971)), i.e., the tail-less diagram:
 
-## P(r4t4
+P(r4t4
 
 r3t3,r2t2
 
@@ -13472,21 +13460,21 @@ ously as the probability amplitude G2(r4t4
 
 r3t3,r2t2
 
-## r1t1) that if one particle is
+r1t1) that if one particle is
 
 introduced at r1 at time t1 and another at (r3
 
 t3), then a particle will be
 
-## observed at (r2
+observed at (r2
 
-## t2) and another at (r4
+t2) and another at (r4
 
 t4).
 
-## This G2 may be expanded dia-
+# This G2 may be expanded dia-
 
-## grammatically
+grammatically
 
 analogous to the pinball case.
 
@@ -13508,43 +13496,43 @@ diagrams in (13.
 
 Just as in the case of the single-particle propagator
 
-## there are other possi-
+there are other possi-
 
 bilities corresponding to the other time orders.
 
 For example,
 
-## if t4 > t2 > t3 > t1
+if t4 > t2 > t3 > t1
 
-## -iG2(4
+-iG2(4
 
 3,2,1) = [diagram] + [exchange diagram] (13.
 
 where the diagrams represent the sum over all time-ordered contributions.
 
-## --- Page 246 ---
+--- Page 246 ---
 
-### 230 A GUIDE TO FEYNMAN DIAGRAMS (13.3)
+230 A GUIDE TO FEYNMAN DIAGRAMS (13.3)
 
 is defined as the probability amplitude that if a particle is introduced at
 
 (1,t1) and a particle removed (i.e.
 
-## hole introduced) at (r2
+hole introduced) at (r2
 
 t2), then there
 
-### will be a hole observed at (r3
+will be a hole observed at (r3
 
-## t3) and a particle at (r4
+t3) and a particle at (r4
 
 t4).
 
-## This may be shown
+# This may be shown
 
-## diagrammatically as follows
+diagrammatically as follows
 
-### [diagram of particle-hole propagation]
+[diagram of particle-hole propagation]
 
 This form of the two-particle propagator is called the ‘particle-hole’
 
@@ -13552,13 +13540,13 @@ propagator.
 
 All possible pieces of the definition of G2
 
-## corresponding to all possible
+corresponding to all possible
 
-## time orders
+time orders
 
-### are summarized in the closed expression
+are summarized in the closed expression
 
-## where ψ†(r
+where ψ†(r
 
 t), ψ(r
 
@@ -13566,7 +13554,7 @@ t) create and destroy a particle at point r at time t (see
 
 83)), |Ψ0⟩ is the interacting ground state
 
-## and T is the time-ordering
+and T is the time-ordering
 
 operator, all as described in §9.
 
@@ -13582,7 +13570,7 @@ We will discuss here only one special form of G2
 
 namely, the ‘polarization propagator’.
 
-### 3 Polarization [‘density fluctuation’] propagator
+3 Polarization [‘density fluctuation’] propagator
 
 It was mentioned in the introduction that collective excitations are
 
@@ -13596,7 +13584,7 @@ It seems plausible that such waves might be
 
 described by a propagator which propagates a density disturbance from
 
-## one point to another
+one point to another
 
 analogous to the way the single-particle propagator
 
@@ -13606,33 +13594,33 @@ It is easy to get such a propagator from G2 in
 
 (13.
 
-## 4) by letting (r3
+4) by letting (r3
 
-## t3)=(r4
+t3)=(r4
 
-## t4) and (r1
+t4) and (r1
 
-## t1)=(r2
+t1)=(r2
 
 t2).
 
-## This yields the ‘density
+This yields the ‘density
 
 fluctuation propagator’ (which is a special case of the particle-hole propagator)
 
-## --- Page 247 ---
+--- Page 247 ---
 
-## 3] COLLECTIVE EXCITATIONS 231
+3] COLLECTIVE EXCITATIONS 231
 
 (By definition of T in (9.
 
 4), for equal times
 
-## the ψ†(r
+the ψ†(r
 
-## t) must always stand to
+t) must always stand to
 
-## the left of ψ(r
+the left of ψ(r
 
 t), so this has been put in explicitly.
 
@@ -13642,11 +13630,11 @@ The physical significance of F may be seen from the fact that
 
 = Ψ†(r,t) Ψ(r,t)
 
-## = e^{iHt} ψ†(r
+= e^{iHt} ψ†(r
 
-## 0) e^{-iHt} e^{iHt} ψ(r
+0) e^{-iHt} e^{iHt} ψ(r
 
-## 0) e^{-iHt}
+0) e^{-iHt}
 
 = e^{iHt} ψ†(r) ψ(r) e^{-iHt} (13.
 
@@ -13660,27 +13648,27 @@ number of particles) at the point r,t.
 
 Hence, F may be rewritten
 
-### where the last line follows from
+where the last line follows from
 
 ρ(r,t) = ψ†(r
 
-## t) ψ(r
+t) ψ(r
 
-## t) = ψ†(r
+t) = ψ†(r
 
-## t) ψ(r
+t) ψ(r
 
 (13.
 
 Thus, F creates a ‘density disturbance’ at (r1
 
-## t1) and propagates it to (r2
+t1) and propagates it to (r2
 
 t2).
 
-### (We have assumed H is time independent
+(We have assumed H is time independent
 
-## and the system is homogeneous
+and the system is homogeneous
 
 (no external potential) so that F depends only on space and time differences.
 
@@ -13688,23 +13676,23 @@ The diagrammatic expansion for F is gotten immediately from that of G2
 
 in (13.
 
-## 3) by just setting (r3
+3) by just setting (r3
 
-## t3)=(r4
+t3)=(r4
 
-## t4) and (r1
+t4) and (r1
 
-## t1)=(r2
+t1)=(r2
 
 t2), i.e.
 
-## by tying the
+by tying the
 
-### loose ends together in each diagram
+loose ends together in each diagram
 
 thus:
 
-## F(r2t2
+F(r2t2
 
 r1t1) = [diagram of polarization parts] (13.
 
@@ -13714,17 +13702,17 @@ This is just the series of ‘polarization parts’ (see (10.
 
 is called the ‘polarization propagator’.
 
-## --- Page 248 ---
+--- Page 248 ---
 
-### 232 A GUIDE TO FEYNMAN DIAGRAMS 13.4
+232 A GUIDE TO FEYNMAN DIAGRAMS 13.4
 
 If (13.
 
-## 9) is transformed to (k
+9) is transformed to (k
 
-## ω)-space
+ω)-space
 
-### then it is easily evaluated by means
+then it is easily evaluated by means
 
 of the effective interaction equation (10.
 
@@ -13740,11 +13728,11 @@ Hence, substituting (10.
 
 F(k,ω) = (Π0(k
 
-## ω) V(k)) / [1 + V(k) Π0(k
+ω) V(k)) / [1 + V(k) Π0(k
 
 ω)] (13.
 
-## or
+or
 
 F(k,ω) = [Π0(k,ω)] / [ε(k,ω)] (13.
 
@@ -13756,7 +13744,7 @@ Thus, the density fluctuation or ‘polarization’
 
 propagator has been expressed in terms of the sum over irreducible polariza-
 
-## tion parts
+tion parts
 
 Π0, and the related generalized dielectric constant
 
@@ -13766,7 +13754,7 @@ propagator has been expressed in terms of the sum over irreducible polariza-
 
 The time-ordered polarization propagator above is closely related to the
 
-### ‘retarded polarization propagator’
+‘retarded polarization propagator’
 
 defined byproperties.
 
@@ -13776,23 +13764,23 @@ and calculate it by partial summation.
 
 This cannot be done with G₇ as it stands
 
-## however
+however
 
 it is possible to do it on a modified G₇ called the ‘imaginary time Green's function’ defined by (note that we drop the i-factor in order to agree with the convention in Fetter and Walecka (1971), p.
 
-## 227 ff.
+227 ff.
 
-## where
+where
 
 c(τ) = e^(H−μN)τ c e^(−(H−μN)τ) (14.
 
-## and
+and
 
-## Evidently
+# Evidently
 
 G₇ is obtained from G by making the following replacements
 
-## Since τ is real
+Since τ is real
 
 t = −iτ will be imaginary.
 
@@ -13804,7 +13792,7 @@ Note that τ in (14.
 
 The reason why G₇ can be expanded in the same diagram series as G (for T=0) is this
 
-## As shown in appendix B
+# As shown in appendix B
 
 the diagram series for G comes fundamentally from the time-dependent Schrödinger equation.
 
@@ -13812,7 +13800,7 @@ Now the distribution operator ρ obeys the equation
 
 H − μN = Σₖ (εₖ − μ) cₖ† cₖ + interaction terms.
 
-## Secondly
+# Secondly
 
 although the result we get for G₇ will be a function of τ
 
@@ -13852,7 +13840,7 @@ G(k, τ) = ⟨Tτ cₖ(τ) cₖ†(0)⟩
 
 = tr[cₖ†(0) e^{−βH} cₖ(τ)] / tr[e^{−βH}]
 
-## = − ⟨cₖ(τ + β) cₖ†(0)⟩
+= − ⟨cₖ(τ + β) cₖ†(0)⟩
 
 = −G(k, τ + β).
 
@@ -13860,7 +13848,7 @@ G(k, τ) = ⟨Tτ cₖ(τ) cₖ†(0)⟩
 
 Gₚₑᵣ(k, τ) = Σₙ e^{−iωₙτ} G(k, ωₙ) (14.
 
-## where
+where
 
 ωₙ = (2n+1)π / β for n = 0, ±1, ±2.
 
@@ -13870,7 +13858,7 @@ Gₚₑᵣ(k, τ) = Σₙ e^{−iωₙτ} G(k, ωₙ) (14.
 
 (14.
 
-## (In the case of bosons
+(In the case of bosons
 
 the odd n terms are eliminated.
 
@@ -13878,7 +13866,7 @@ the odd n terms are eliminated.
 
 23) we can also show that (14.
 
-## 26) becomes
+26) becomes
 
 Let us now look at the free imaginary time propagator.
 
@@ -13892,7 +13880,7 @@ Using (14.
 
 15), (14.
 
-## 16) gives
+16) gives
 
 For T>0 it is possible to have a hole and particle both in the same k-state.
 
@@ -13916,7 +13904,7 @@ with ωₙ as in (14.
 
 28).
 
-### Because of the iωₙ appearing in it
+Because of the iωₙ appearing in it
 
 G₀(k, ωₙ) (or G(k
 
@@ -13926,15 +13914,15 @@ G₀(k, ωₙ) (or G(k
 
 1: Statistical Factors for the Particle ({+) and Hole (/-) Parts of the Free Imaginary Time Propagator]
 
-## As discussed in appendix E
+# As discussed in appendix E
 
-## section 3
+# section 3
 
 G may be expanded in a perturbation series which is the twin brother of the one for G in the T=0 case.
 
 From this it follows that G may be expressed in the same diagrams as G was
 
-## [Diagram]
+[Diagram]
 
 where now ‘anomalous’ diagrams (see after (9.
 
@@ -13950,7 +13938,7 @@ This series may be evaluated by means of the finite temperature dictionary in Ta
 
 ) Note that the imaginary frequency non-propagating lines in Table 14.
 
-### 1 require a convergence factor
+1 require a convergence factor
 
 exp(iωₙ0⁺) analogous to that in the T=0 case
 
@@ -13974,25 +13962,25 @@ Dyson's equation has the same graphical form as in (10.
 
 | :--- | :--- | :--- |
 
-## | **Internal line** | G(k
+| **Internal line** | G(k
 
-## τ₂ − τ₁) | G(k
+τ₂ − τ₁) | G(k
 
-## ωₙ) |
+ωₙ) |
 
-### | **External point** | 1 | 1 |
+| **External point** | 1 | 1 |
 
-### | **Vertex** | −V(r₁ − r₂) | −V(q) |
+| **Vertex** | −V(r₁ − r₂) | −V(q) |
 
 | **Statistical factor for loop** | n_F(ξ) or (1 − n_F(ξ)) | (same) |
 
 | **Convergence factor** | exp(−iεη) for external lines | exp(iωₙη) |
 
-## | **Conservation** | energy
+| **Conservation** | energy
 
-## momentum
+momentum
 
-## spin | ωₙ
+spin | ωₙ
 
 k, spin |
 
@@ -14012,7 +14000,7 @@ Wait, let me correct this.
 
 The standard Hartree-Fock self-energy at finite temperature is
 
-## Actually
+# Actually
 
 the correct expression from the diagram is
 
@@ -14020,7 +14008,7 @@ But let's look at the text.
 
 It seems to be deriving:
 
-### The Hartree term is −Σ_q V(0) n_F(ξ_q)
+The Hartree term is −Σ_q V(0) n_F(ξ_q)
 
 the Fock term is +Σ_q V(k−q) n_F(ξ_q).
 
@@ -14036,7 +14024,7 @@ Substituting this in (14.
 
 33) shows that we have the finite temperature analogue of the Hartree-Fock quasi particle
 
-## with energy
+with energy
 
 The effective field seen by the particle in k is modified by the fact that some of the particles causing this field are now above the Fermi surface on account of the finite temperature.
 
@@ -14064,13 +14052,13 @@ so that ρ= ε_F (see §9.
 
 35) reduces to (4.
 
-## 78) as it
+78) as it
 
 should.
 
 The above energy expression (14.
 
-### 35) may be made ‘self-consistent’ by
+35) may be made ‘self-consistent’ by
 
 replacing ε_k by ε_k^i in the exponential on the right of (14.
 
@@ -14078,9 +14066,9 @@ replacing ε_k by ε_k^i in the exponential on the right of (14.
 
 equation to be solved for ε_k^i.
 
-## Graphically
+# Graphically
 
-### this means that for the irreducible
+this means that for the irreducible
 
 self-energy we are using the first two terms of (11.
 
@@ -14088,7 +14076,7 @@ self-energy we are using the first two terms of (11.
 
 Σ = bh_O + ew (14.
 
-### 14.4 The finite temperature vacuum amplitude
+# 14.4 The finite temperature vacuum amplitude
 
 The zero temperature vacuum amplitude was defined by
 
@@ -14096,19 +14084,19 @@ R(t) = ⟨D_0| U(t)|D_0⟩ e^{iW^t}.
 
 (14.
 
-## --- Page 264 ---
+--- Page 264 ---
 
-### 248 A GUIDE TO FEYNMAN DIAGRAMS (14.4)
+248 A GUIDE TO FEYNMAN DIAGRAMS (14.4)
 
 For our present purposes we need the explicit expression for this in terms of
 
-## the operator
+the operator
 
 U, as it appears in appendix (E.
 
 13), with W^t=0:
 
-## R(t) = ⟨D_0| U(t)|D_0⟩
+R(t) = ⟨D_0| U(t)|D_0⟩
 
 = ⟨D_0| e^{iH_0t} U_I(t) e^{-iH_0t} |D_0⟩ (14.
 
@@ -14134,17 +14122,17 @@ more convenient function is obtained by making the replacement (14.
 
 20),
 
-## yielding
+yielding
 
 We now notice that the grand partition function is proportional to R(β)
 
-## since
+since
 
 Z = tr[e^{-βH_0 - μN}] = tr[e^{-βH_0 - μN} D(β)]
 
 Z_0 = tr[e^{-βH_0}] (14.
 
-## so that
+so that
 
 Z/Z_0 = ⟨U(β)⟩_0 = R(β).
 
@@ -14168,47 +14156,47 @@ As shown in appendix (E.
 
 series which is identical in form to that for R(t) in the T=0 case.
 
-## This means
+# This means
 
 that the T=0 diagram expansion still holds good for the T>0 case
 
-### R(β) = 1+ OO + D+ AY + fe + Q ‘Bo
+R(β) = 1+ OO + D+ AY + fe + Q ‘Bo
 
 + Onn fees Od tee (14.
 
-## Ow O~d
+Ow O~d
 
 (14.
 
-## --- Page 265 ---
+--- Page 265 ---
 
 14,5] FERMI SYSTEMS AT FINITE TEMPERATURE 249
 
 Note that it is necessary to include anomalous diagrams.
 
-## Examples of the
+# Examples of the
 
-## evaluation of these diagrams
+evaluation of these diagrams
 
 using Table 14.
 
 1, are:
 
-## k 1
+k 1
 
-## A
+A
 
 Ow =(-1)^P ∫ dr d^4 (— V_ea) (fe -fr).
 
 (14.
 
-### k ‘< k = (-1)^2 ∫ (— ( 成 ( 多 )(- 广 亢
+k ‘< k = (-1)^2 ∫ (— ( 成 ( 多 )(- 广亢
 
-## 1 8 8
+1 8 8
 
 xf dey [ drgeerenernng, (14.
 
-## J f 2
+# J f 2
 
 The expansion for ⟨E⟩ may be derived from (14.
 
@@ -14216,9 +14204,9 @@ The expansion for ⟨E⟩ may be derived from (14.
 
 43);
 
-### again the linked cluster theorem holds
+again the linked cluster theorem holds
 
-## and we find
+and we find
 
 ⟨E⟩ = E_k + OO + E23 9-8-8 + y tree,
 
@@ -14230,15 +14218,15 @@ Bloch (1962) for details and examples.
 
 [14.
 
-### 5 The pair-bubble at finite temperature]
+5 The pair-bubble at finite temperature]
 
 We will now show the finite temperature machinery in full operation
 
-## using
+using
 
 it to calculate the pair-bubble at T>0.
 
-### Recall that the T=0 pair-bubble’s
+Recall that the T=0 pair-bubble’s
 
 value appears in (10.
 
@@ -14256,33 +14244,33 @@ Fetter and Walecka (1971), pp. 271-75):
 
 k+q,
 
-## 4 〇l.【4′^E丿7:′(ll，'′丿′)
+4〇l.【4′^E丿7:′(ll，'′丿′)
 
 W, + Ww,
 
-## 一 .丨′′/3| 1 尹 1 1
+一 .丨′′/3| 1 尹 1 1
 
 (2m)^2 B <2 u 一 (er- 用 betg + bs — (Eng HD
 
 (14.
 
-## --- Page 266 ---
+--- Page 266 ---
 
-### 250 A GUIDE TO FEYNMAN DIAGRAMS 4.5
+250 A GUIDE TO FEYNMAN DIAGRAMS 4.5
 
-## (-1 from fermion loop
+(-1 from fermion loop
 
 factor of two for spin sum).
 
-## The sum over n is
+# The sum over n is
 
-## evaluated as follows
+evaluated as follows
 
-### First define the function F(w) by
+First define the function F(w) by
 
-## 1 1
+1 1
 
-## w=a-azH「arazerrH
+w=a-azH「arazerrH
 
 (14.
 
@@ -14298,7 +14286,7 @@ to convert the sum to a contour integral
 
 S F(iw_n) = ∫ (dw/(2πi)) F(w) f(w), (14.
 
-## C
+C
 
 where f(w) is the Fermi function (=(exp(βw)+ 1)^{-1}) and where the contour C
 
@@ -14306,7 +14294,7 @@ surrounds the imaginary axis as shown in Fig.
 
 Equation (14.
 
-## 51) follows
+51) follows
 
 immediately from the residue theorem when we note that f(w) has poles all
 
@@ -14320,7 +14308,7 @@ n=0, +1
 
 (14.
 
-## / Sexi
+/ Sexi
 
 If we now look at contour C’ in Fig.
 
@@ -14330,21 +14318,21 @@ will be equal to the sum of the residues from the poles on the imaginary axis
 
 (= integral around C) plus the residues from the poles of F(w) at w= ε_k— μ and
 
-## w — plane
+w — plane
 
-## Cc’
+Cc’
 
-仪 =E1 一 仁 @ = (er+g 一 川 — fw;
+仪 =E1 一仁 @ = (er+g 一川 — fw;
 
 Fig.
 
 2 Contours used in the Finite Temperature Calculation
 
-## --- Page 267 ---
+--- Page 267 ---
 
 5] FERMI SYSTEMS AT FINITE TEMPERATURE 251
 
-## 山 二 ei+g 一 伟 一 jui
+山二 ei+g 一伟一 jui
 
 Since the integral around C’ goes to zero when C’→~∞
 
@@ -14352,7 +14340,7 @@ we have:
 
 S =0 =§ dw F(w)f(w) + 2πi 5 Residues of F(w)f(w)
 
-[ 《 at poles of F(w).
+[《at poles of F(w).
 
 (14.
 
@@ -14362,9 +14350,7 @@ Utilizing (14.
 
 49):
 
-## 十 团
-
-王 > F(iw_n) = sum of the residues of F(w) f(w)
+十团王 > F(iw_n) = sum of the residues of F(w) f(w)
 
 B ne-@ at the poles of F(w).
 
@@ -14374,7 +14360,7 @@ Applying (14.
 
 54) to (14.
 
-## 49) we have
+49) we have
 
 Res F(w) f(w) at (w = ε_k) = .
 
@@ -14382,17 +14368,17 @@ Res F(w) f(w) at (w = ε_k) = .
 
 Res F(w) f(w) at (w = 4g iw) = (1/(2π))^{3} (f(e_k - μ) - f(ε_{k+q} - μ)) (14.
 
-## €t4g—B— iw — (ε_B)
+€t4g—B— iw — (ε_B)
 
 Now, since by dictionary Table 14.
 
-### 1 both w_n and w_n +_ are proportional to
+1 both w_n and w_n +_ are proportional to
 
-## odd integers
+odd integers
 
 it follows that w is proportional to an even integer.
 
-## Hence
+# Hence
 
 S(etzg— 4 — iw) = f(ε_k - μ).
 
@@ -14406,7 +14392,7 @@ Substituting this in (14.
 
 pair-bubble (let f_k =f(ε_k - μ)):
 
-## Pl Sfirfisa
+# Pl Sfirfisa
 
 (22)3 ia, — eng te “
 
@@ -14416,25 +14402,25 @@ This can be brought into a more convenient form by adding and subtracting
 
 Sifisg in the numerator, yielding:
 
-## 一 L fist - 力 - —fire)
+一 L fist - 力 - —fire)
 
-## 左 二
+左二
 
-## ofan) 2 (2x) fay eragt
+ofan) 2 (2x) fay eragt
 
 (14.
 
 Substituting 1+q——1in the first term and noting that f_ =f_k and ε_=ε_k
 
-## find
+find
 
-## a 1 1
+a 1 1
 
-Toque) = 2 J 砂 川 一刀+′)[[一 ——_|.
+Toque) = 2 J 砂川一刀+′)[[一 ——_|.
 
 (14.
 
-## Naui 一 6 十 El+g lwp ey gt ey
+Naui 一 6 十 El+g lwp ey gt ey
 
 Expression (14.
 
@@ -14444,17 +14430,17 @@ But, since
 
 experiments are done at real frequencies
 
-### we want the real frequency version of
+we want the real frequency version of
 
-## --- Page 268 ---
+--- Page 268 ---
 
-### 252 A GUIDE TO FEYNMAN DIAGRAMS 14.5
+252 A GUIDE TO FEYNMAN DIAGRAMS 14.5
 
 this.
 
 This can be obtained by the method in appendix L
 
-## since the pair-bubble
+since the pair-bubble
 
 is actually a polarization propagator and depends on only a single frequency
 
@@ -14472,59 +14458,59 @@ the real frequency finite T pair-bubble:
 
 7G, w) = f*(w) LIp(q
 
-## w + 18) +f-(w) Ho(q
+w + 18) +f-(w) Ho(q
 
 w — i8) (14.
 
-where we have analytically continued iw_n to w+ i8 and 山 一 法 .
+where we have analytically continued iw_n to w+ i8 and 山一法 .
 
-## Finally
+# Finally
 
 let us take the T→0 limit of this and compare it with 79(q.
 
-## w) in
+w) in
 
 (10.
 
 66).
 
-## We have
+# We have
 
-## da 1 1
+da 1 1
 
 F-0(, w) = —{ 6, | ————_.
 
-## - —_____
+- —_____
 
-## T 司 = 2 _l′ =| Lai saa
+T 司 = 2 _l′ =| Lai saa
 
-## a<a
+a<a
 
-## E
+E
 
-## 1 1
+1 1
 
-a| 一 一 一 一 一 一 一 一 一 一 一 | (14.
+a| 一一一一一一一一一一一 | (14.
 
-## + a el )
++ a el )
 
 Using (3.
 
 76") to find the real and imaginary parts of this, we find that it may be
 
-## written in the form
+written in the form
 
-## 421 1 ]
+421 1 ]
 
 Tg, w) = 2 en 14.
 
-### 8 团 ) (2′′′)3[【I′_晕'′′{_餐′+′'一童8 【′.
+8 团 ) (2′′′)3[【I′_晕'′′{_餐′+′'一童8【′.
 
-## |_霉′′{ˇ+E′-{'′8丨 ‘ )
+|_霉′′{ˇ+E′-{'′8丨 ‘ )
 
-## asa
+asa
 
-## arene
+arene
 
 (since (14.
 
@@ -14532,13 +14518,13 @@ Tg, w) = 2 en 14.
 
 62)).
 
-## This result
+# This result
 
 is for fixed chemical potential, μ.
 
-## If we fix N instead
+# If we fix N instead
 
-## then μ =ε_F
+then μ =ε_F
 
 and (14.
 
@@ -14550,7 +14536,7 @@ Note that there are no y's appearing in the denominators
 
 since they have cancelled.
 
-## Further reading
+# Further reading
 
 Fetter and Walecka (1971), chaps.
 
@@ -14570,29 +14556,29 @@ Bloch (1962).
 
 makes use of the differential equation for the propagator.
 
-## This method is
+# This method is
 
-### described briefly in appendix M
+described briefly in appendix M
 
-### and in detail in Ter Haar (1962)
+and in detail in Ter Haar (1962)
 
-## Parry (1964)
+Parry (1964)
 
 Kadanoff (1962).
 
-## --- Page 269 ---
+--- Page 269 ---
 
 5] FERMI SYSTEMS AT FINITE TEMPERATURE 253
 
-## Exercises
+# Exercises
 
-### 1 Express the average particle number
+1 Express the average particle number
 
 N, in terms of the grand partition
 
 function.
 
-## 2 Use the result of Ex.
+2 Use the result of Ex.
 
 1 to find an equation for the chemical potential μ in
 
@@ -14600,9 +14586,9 @@ terms of the average particle number (given to be N_0) in a non-interacting
 
 Fermi system at temperature T.
 
-## 14.3 Verify (14.29).
+# 14.3 Verify (14.29).
 
-## 4 Verify (14.
+4 Verify (14.
 
 31).
 
@@ -14610,7 +14596,7 @@ with Q, given by (15.
 
 Equation (15.
 
-### 8) describes a process in which an
+8) describes a process in which an
 
 electron scatters from state k + k’ with the emission or absorption of a
 
@@ -14620,15 +14606,15 @@ phonon of wavenumber q.
 
 4, for details)
 
-## (a) The BCS Hamiltonian
+(a) The BCS Hamiltonian
 
 It would be idle for us to hope that if we simply stare at Hamiltonian (15.
 
-## long enough
+long enough
 
 it will reveal the secret of superconductivity.
 
-## One must look to
+# One must look to
 
 nature for clues.
 
@@ -14636,7 +14622,7 @@ Some of the important clues coming from experiment (see
 
 Lynton (1962), p.
 
-## 109 ff.
+109 ff.
 
 ) are: (1) Superconductivity occurs in an enormous
 
@@ -14646,13 +14632,13 @@ variety of metals and alloys.
 
 phase is very tiny—around 10⁻⁴ eV/atom.
 
-## (3) The phenomenon appears to
+(3) The phenomenon appears to
 
 come from electrons in a thin shell around the Fermi surface.
 
-## The shell
+# The shell
 
-## thickness is ~k_B T_c
+thickness is ~k_B T_c
 
 where T_c = superconducting transition temperature
 
@@ -14660,7 +14646,7 @@ where T_c = superconducting transition temperature
 
 These are called the ‘superconducting electrons’.
 
-## (4) There are
+(4) There are
 
 strong correlations between the motions of electrons lying within a ‘coherence
 
@@ -14668,7 +14654,7 @@ length’ (~10⁻⁴ cm) of each other.
 
 (5) The isotope effect, showing
 
-## T_c ∝ 1/√(lattice ion mass)
+T_c ∝ 1/√(lattice ion mass)
 
 indicates that the electron-phonon interaction
 
@@ -14680,15 +14666,15 @@ superconductivity.
 
 This means that in first approximation we can neglect
 
-## --- Page 274 ---
+--- Page 274 ---
 
-### 258 A GUIDE TO FEYNMAN DIAGRAMS [15.3
+258 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
 the periodic lattice potential and all the resulting distortions (like ‘monsters’
 
 and ‘dog's bones’) in the Fermi surface.
 
-### Now we have seen that the inter-
+# Now we have seen that the inter-
 
 action of electrons via Coulomb repulsion produces only normal quasi-
 
@@ -14700,17 +14686,17 @@ of electrons via phonons which could give rise to the new sort of correlated
 
 state described in clue (4).
 
-## Physically
+# Physically
 
-### such an interaction could come from
+such an interaction could come from
 
-## the fact that (a)
+the fact that (a)
 
 one electron pulls in the (+) ions in its vicinity
 
-## thus de-
+thus de-
 
-## forming the lattice
+forming the lattice
 
 creating phonons (this is the electron-phonon interaction
 
@@ -14724,15 +14710,15 @@ i.e.,
 
 absorbs a phonon.
 
-## Because it is of second order
+# Because it is of second order
 
-## this interaction doesn’t
+this interaction doesn’t
 
 appear explicitly in (15.
 
-## However
+# However
 
-### Fröhlich (1952) showed that it can be
+Fröhlich (1952) showed that it can be
 
 made visible by performing a complicated canonical transformation on H
 
@@ -14740,43 +14726,43 @@ made visible by performing a complicated canonical transformation on H
 
 151, or Schrieffer (1959))
 
-## which produces
+which produces
 
 H_effective = H_quasi + H_Fröhlich + H_electron-Coulomb + H_Herzfeld-pairs (15.
 
-## electron phonon- electron
+electron phonon- electron
 
-## phonon
+phonon
 
-## where
+where
 
 H_Herzfeld = Σ V_{kq} (b†_{k-q} b_q + b_q b†_{k-q})
 
-## phonon kq
+phonon kq
 
-## where the ‘BCS interaction’
+where the ‘BCS interaction’
 
-## V_{kq}
+V_{kq}
 
-## is given by
+is given by
 
-## 4 |M_q|²
+4 |M_q|²
 
 V_{kq} = ───────────────────── (15.
 
-## (ε_k - ε_{k+q})² - (ℏω_q)²
+(ε_k - ε_{k+q})² - (ℏω_q)²
 
-### shielded shielded electron-phonon
+shielded shielded electron-phonon
 
-## Coulomb electron interaction
+# Coulomb electron interaction
 
 interaction interaction (Fröhlich interaction)
 
 V_kq = V_kq^{Coulomb} + V_kq^{electron} = (15.
 
-## shielded
+shielded
 
-### The plasmon term has been dropped
+# The plasmon term has been dropped
 
 since it will not concern us.
 
@@ -14792,11 +14778,11 @@ the quasi-electron energy in Hartree-Fock approximation.
 
 We assume, for
 
-## simplicity
+simplicity
 
 that this can be written in terms of an effective mass
 
-## Note
+# Note
 
 that energy is measured relative to the Fermi energy.
 
@@ -14806,47 +14792,47 @@ modified H of (9.
 
 46) for a system in contact with a reservoir.
 
-## The M_q is
+The M_q is
 
 proportional to the shielded electron-phonon coupling (see appendix J)
 
 ω_q is the longitudinal phonon frequency
 
-### renormalized by interaction with
+renormalized by interaction with
 
 electrons (appendix J).
 
-## --- Page 275 ---
+--- Page 275 ---
 
 3} DIAGRAM METHODS IN SUPERCONDUCTIVITY 259
 
-### Let us examine the BCS interaction
+# Let us examine the BCS interaction
 
-## V_{kq}
+V_{kq}
 
 more closely.
 
-## The average value
+# The average value
 
 of ℏω_q is ~0.
 
-## 025 eV
+025 eV
 
 while the average value of (ε_k - ε_{k+q}) for electrons in
 
 the thin shell about the Fermi surface (see clue (3)) is ~4 x 10⁻⁴ eV.
 
-## Hence
+# Hence
 
-## on the average
+on the average
 
 the Fröhlich term in V_{kq} is negative (attractive).
 
-## Now in a
+# Now in a
 
-## metal which is always normal
+metal which is always normal
 
-## the electron-phonon coupling
+the electron-phonon coupling
 
 M_q, is small
 
@@ -14854,15 +14840,15 @@ so the Coulomb term predominates and the BCS interaction is positive
 
 (repulsive).
 
-## However
+# However
 
 in a superconductor (i.e.
 
-## a metal which is capable
+a metal which is capable
 
 of entering the superconducting state when the temperature is low enough)
 
-## M_q is large
+M_q is large
 
 so the Fröhlich term dominates and the BCS interaction is nega-
 
@@ -14878,7 +14864,7 @@ surface.
 
 regardless of whether or not it is actually in the superconducting state.
 
-### (b) Pairing and the reduced Hamiltonian
+(b) Pairing and the reduced Hamiltonian
 
 The effect of such an attractive interaction was analysed by Cooper.
 
@@ -14886,33 +14872,33 @@ showed that two electrons in a superposition of two-particle states
 
 |k↑, -k↓⟩
 
-## (|↑ means spin up
+(|↑ means spin up
 
-## |↓ means spin down)
+|↓ means spin down)
 
-## where |k|>k_F
+where |k|>k_F
 
-### with an attractive interaction
+with an attractive interaction
 
-## between them
+between them
 
-## would form a bound state
+would form a bound state
 
 no matter how weak the interaction.
 
 The bound state had a wave function ~ 10⁻⁴ cm wide
 
-## and an energy lower
+and an energy lower
 
 than that when the electrons were non-interacting.
 
-## This indicated that in
+# This indicated that in
 
-### the presence of attractive interactions
+the presence of attractive interactions
 
-## the Fermi sea was unstable
+the Fermi sea was unstable
 
-## and that
+and that
 
 it was energetically favourable for the system to form some sort of correlated
 
@@ -14922,11 +14908,11 @@ state in which every k↑ electron was ‘paired off’ with its mate in -k↓
 
 (See Fetter and Walecka (1971), p.
 
-## 320 ff.
+320 ff.
 
 The ‘pairing’ concept is clear enough for two electrons
 
-## but what does it
+but what does it
 
 mean for N electrons?
 
@@ -14938,9 +14924,9 @@ functions |ψ_1, ψ_2, .
 
 , ψ_N, .
 
-### ⟩ for the non-interacting system
+⟩ for the non-interacting system
 
-## but rather was
+but rather was
 
 composed only of wave functions in which particles occurred in Cooper
 
@@ -14958,13 +14944,13 @@ where |N_1, .
 
 , N_k, .
 
-## ⟩ means
+⟩ means
 
-## N_k pairs in pair state (k↑
+N_k pairs in pair state (k↑
 
 -k↓), etc.
 
-### With |ψ_0⟩ restricted in this way
+With |ψ_0⟩ restricted in this way
 
 it is found that the only terms in H (15.
 
@@ -14972,17 +14958,17 @@ which have non-vanishing matrix elements between two |N_1
 
 , N_k, .
 
-## ⟩ are
+⟩ are
 
-## --- Page 276 ---
+--- Page 276 ---
 
-### 260 A GUIDE TO FEYNMAN DIAGRAMS [15.3
+260 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
-## those in which the c†_k
+those in which the c†_k
 
-### c_k operators also occur in pairs
+c_k operators also occur in pairs
 
-## this enables us to
+this enables us to
 
 drop all other terms and write (15.
 
@@ -14990,13 +14976,13 @@ drop all other terms and write (15.
 
 H_red = 2 Σ ε_k b†_k b_k - Σ V_{kq} b†_k b_q (V_{kq} = V_{qk}) (15.
 
-## kq
+kq
 
 where the pairing operators (these are neither fermion nor boson operators—
 
 see exercise 15.
 
-## b†_k = c†_{k↑} c†_{-k↓}
+b†_k = c†_{k↑} c†_{-k↓}
 
 b_k = c_{-k↓} c_{k↑} (15.
 
@@ -15004,17 +14990,17 @@ create and destroy Cooper pairs when they operate on |N_1
 
 , N_k, .
 
-## Note
+# Note
 
 that the justification for the form of the first term in (15.
 
-## 16) is that it yields
+16) is that it yields
 
 the same result as (15.
 
 11) when it operates on a paired wave function.
 
-## Observe
+# Observe
 
 that in (15.
 
@@ -15022,11 +15008,11 @@ that in (15.
 
 part of H So that ε_k is in reality ε_k + 4V_{kk} (we just write ε_k for brevity.
 
-### (c) The two-particle superconductor
+(c) The two-particle superconductor
 
 The superconductor ground state wave function |ψ_0⟩ will satisfy the
 
-## Schrödinger equation
+Schrödinger equation
 
 H_red |ψ_0⟩ = E_0 |ψ_0⟩.
 
@@ -15034,7 +15020,7 @@ H_red |ψ_0⟩ = E_0 |ψ_0⟩.
 
 Before stating the BCS solution to this equation
 
-## it is a good idea to look at
+it is a good idea to look at
 
 a trivial ‘two-particle superconductor’ to see how the negative interaction
 
@@ -15042,21 +15028,21 @@ term in H_red leads to a correlated ground state (clue (4)) with an energy
 
 slightly lower than that of the normal state (clue (2)).
 
-## Suppose there are two
+# Suppose there are two
 
-## electrons and six states
+electrons and six states
 
-## all having energy ε_0
+all having energy ε_0
 
 thus:
 
-## — — — — — — — — — — — cn
+— — — — — — — — — — — cn
 
-## 1 2 3
+1 2 3
 
 Assume V_{12} = V_{23} = V_{31} = V (constant).
 
-## Then
+# Then
 
 H_red = 2ε_0 Σ b†_k b_k - V Σ b†_k b_q.
 
@@ -15076,7 +15062,7 @@ In the ‘superconducting’ case we have by (15.
 
 15):
 
-## |ψ_0⟩ = A_1 |1
+|ψ_0⟩ = A_1 |1
 
 0, 0⟩ + A_2 |0
 
@@ -15084,7 +15070,7 @@ In the ‘superconducting’ case we have by (15.
 
 0, 1⟩ (15.
 
-## --- Page 277 ---
+--- Page 277 ---
 
 3] DIAGRAM METHODS IN SUPERCONDUCTIVITY 261
 
@@ -15092,27 +15078,27 @@ It is easiest to solve the problem in matrix form using the normal states as
 
 basis.
 
-## Thus100
+# Thus100
 
 ⟨J2|ψ(0)⟩=2J(0) δ(15.
 
-## ⟨0|0⟩
+⟨0|0⟩
 
 ⟨1|1|ψ⟩ = -71 1 l) (15.
 
-## ⟨1|1⟩
+⟨1|1⟩
 
 In matrix form (15.
 
 18) is:
 
-## 1 0 0 1 1 A 14 Ay
+1 0 0 1 1 A 14 Ay
 
 2ε⟨0 1 0 一(1 l) ψ⟩=′… 4) (15.
 
-## 001 11 1 小 Mda Ay
+001 11 1 小 Mda Ay
 
-## which has the eigen-solutions
+which has the eigen-solutions
 
 E = 2ε, 2ε, 2ε−3V.
 
@@ -15126,9 +15112,9 @@ The corresponding state vector is:
 
 We see that this is a state in which the electrons are highly correlated—first
 
-## they are always paired
+they are always paired
 
-### and second they are in a special 1
+and second they are in a special 1
 
 1:1 mixture of the
 
@@ -15140,11 +15126,11 @@ In solving (15.
 
 18) for the real N-particle superconductor
 
-## BCS assumed
+# BCS assumed
 
 that the interaction w in (15.
 
-## 16) had the simple form
+16) had the simple form
 
 Vkk' = (constant), for k, k’ in a shell about the Fermi surface
 
@@ -15156,61 +15142,61 @@ such that (−ℏω) < ε, ε' < +ℏω,
 
 The ℏω was an average phonon energy ~10⁻² eV.
 
-## They showed that to a
+# They showed that to a
 
 good approximation (exact in the N → ∞ limit) the ground state wave function
 
-### was given by (see Rickayzen (1965)
+was given by (see Rickayzen (1965)
 
-## chapter 4
+# chapter 4
 
-## for details)
+for details)
 
-## For example
+# For example
 
-### if there were only two pair states
+if there were only two pair states
 
 then:
 
-## --- Page 278 ---
+--- Page 278 ---
 
-### 262 A GUIDE TO FEYNMAN DIAGRAMS [15.3
+262 A GUIDE TO FEYNMAN DIAGRAMS [15.3
 
 The quantity vₖ² is the probability amplitude that the pair state |k
 
-## −k⟩ is
+−k⟩ is
 
 occupied.
 
-## It is given by
+# It is given by
 
 vₖ² = 1/2 (1 − εₖ/ Eₖ) (15.
 
 Eₖ = √(εₖ² + Δₖ²) (15.
 
-## where
+where
 
 Δₖ = D ∑_{k'} V_{kk'} u_{k'} v_{k'} (15.
 
-## 31')
+31')
 
-## and
+and
 
 Δₖ = (for small Δ) 2ℏω exp[−1/N(0)V] for k in shell
 
-### 0 for k outside of shell (15.32)
+0 for k outside of shell (15.32)
 
 where N(0) is the density of states at the Fermi surface.
 
-## ~Δ~10⁻⁴eV
+~Δ~10⁻⁴eV
 
-## y
+y
 
-## 砂 2
+砂 2
 
-## &
+&
 
-## <— ~5eV—>0
+<— ~5eV—>0
 
 Fig.
 
@@ -15220,13 +15206,13 @@ Occupied in the Superconducting Ground State
 
 The quantity vₖ² is plotted in Fig.
 
-### Since vₖ² is just the probability that
+Since vₖ² is just the probability that
 
-### the state |k⟩ (or |−k⟩) is occupied
+the state |k⟩ (or |−k⟩) is occupied
 
 we see that there is no discontinuity at the
 
-## Fermi surface
+# Fermi surface
 
 i.e., the Fermi surface does not exist in a superconductor
 
@@ -15234,7 +15220,7 @@ i.e., the Fermi surface does not exist in a superconductor
 
 It should be noted that (15.
 
-### 29) is a mixture of states with 0
+29) is a mixture of states with 0
 
 2, 4,6
 
@@ -15242,15 +15228,15 @@ N-2, N N+2
 
 N+4, … particles
 
-### so that N is not a good quantum number
+so that N is not a good quantum number
 
 here.
 
 This is due to the fact that we are using the modified H of (9.
 
-## 46) for a
+46) for a
 
-### system in contact with a reservoir
+system in contact with a reservoir
 
 so the particle number is variable.
 
@@ -15264,29 +15250,29 @@ using (15.
 
 large from components of (15.
 
-### 29) containing just around N particles
+29) containing just around N particles
 
-## and very
+and very
 
-## small from other components
+small from other components
 
 so this causes no trouble.
 
 For the ground state energy in the small V limit
 
-## BCS obtained
+# BCS obtained
 
 E_g = E_normal−2N(0) (ℏω)exp|−1/N(0)V| (15.
 
 Thus the energy is lowered by the attractive interaction.
 
-## --- Page 279 ---
+--- Page 279 ---
 
 3] DIAGRAM METHODS IN SUPERCONDUCTIVITY 263
 
-### (e) Solution for the excited states
+(e) Solution for the excited states
 
-## bogolons
+bogolons
 
 The excited states of (15.
 
@@ -15294,15 +15280,15 @@ The excited states of (15.
 
 means of the ‘Bogoliubov-Valatin’ canonical transformation.
 
-## This is
+# This is
 
-## defined by
+defined by
 
-## a_k = u_k c_k − v_k c†₋k
+a_k = u_k c_k − v_k c†₋k
 
 b†_k = u_k c†_k + v_k c₋k (15.
 
-## c_k = u_k a_k + v_k b†₋k
+c_k = u_k a_k + v_k b†₋k
 
 c†₋k = v_k a_k + u_k b†₋k.
 
@@ -15310,7 +15296,7 @@ c†₋k = v_k a_k + u_k b†₋k.
 
 Substituting this into H_eq (with the first term replaced by (15.
 
-## 11)) and using
+11)) and using
 
 (15.
 
@@ -15318,13 +15304,13 @@ Substituting this into H_eq (with the first term replaced by (15.
 
 after some labour (see Fetter and Walecka (1971)
 
-## 326 ff.
+326 ff.
 
 H_eq = ∑_k [E_k (a†_k a_k + b†_k b_k) +const] +small terms.
 
 (15.
 
-## k
+k
 
 Comparing this with (1.
 
@@ -15338,7 +15324,7 @@ or ‘bogolons’ (see §1.
 
 3), and have number operators a†_k a_k
 
-## b†_k b_k and energy
+b†_k b_k and energy
 
 given by (15.
 
@@ -15352,11 +15338,11 @@ By (15.
 
 34), a†_k
 
-### creates bogolons of momentum +k
+creates bogolons of momentum +k
 
-### spin↑ (since c†₋k subtracts |−k⟩ from
+spin↑ (since c†₋k subtracts |−k⟩ from
 
-## the system
+the system
 
 which is the same as adding |k⟩).
 
@@ -15366,11 +15352,11 @@ with −k, spin↓.
 
 The eigenstate corresponding to (15.
 
-## 37) is the 1-bogolon
+37) is the 1-bogolon
 
 state:
 
-## or
+or
 
 Thus, the superconducting ground state
 
@@ -15380,7 +15366,7 @@ bogolons.
 
 (See Schrieffer (1964a), p.
 
-## 44 ff.
+44 ff.
 
 , for further discussion.
 
@@ -15396,7 +15382,7 @@ as in (15.
 
 32).
 
-## The k₁
+The k₁
 
 k₂ are the k-values for the inner and outer radii of the
 
@@ -15404,29 +15390,29 @@ shell about the Fermi surface described in (15.
 
 28).
 
-## The discontinuities at
+# The discontinuities at
 
 k₁,k₂ come from the approximation in (15.
 
 28).
 
-## They should not be regarded
+# They should not be regarded
 
 as real physical effects!
 
 Note that in the case of the normal metal (Δ=0)
 
-## we have Eₖ=|εₖ|=|k²/2m*−μ|
+we have Eₖ=|εₖ|=|k²/2m*−μ|
 
-### where the absolute value sign is used
+where the absolute value sign is used
 
 since below K_F removal of an electron with εₖ <0
 
 adds energy to the system.
 
-## --- Page 280 ---
+--- Page 280 ---
 
-### 264 A GUIDE TO FEYNMAN DIAGRAMS [15.4
+264 A GUIDE TO FEYNMAN DIAGRAMS [15.4
 
 Figure 15.
 
@@ -15434,19 +15420,19 @@ Figure 15.
 
 excite a quasi electron at the Fermi surface
 
-### in a superconductor it requires
+in a superconductor it requires
 
 a minimum energy Δ (Δ ~kT_c ~ 10⁻⁴ eV) to excite a bogolon.
 
-## It is this fact
+# It is this fact
 
 which accounts for the remarkable stability of the superconducting state
 
 against the scattering of electrons which causes resistance in normal metals.
 
-## superconductor
+superconductor
 
-## normal metal
+normal metal
 
 Fig.
 
@@ -15454,7 +15440,7 @@ Fig.
 
 4 Breakdown of the perturbation expansion in a superconductor
 
-## In chapter 10
+# In chapter 10
 
 we saw that in a normal Fermi system it is possible to get the
 
@@ -15464,9 +15450,9 @@ us therefore try to get the energies of the quasi particles in a superconductor
 
 (bogolons) by the propagator method.
 
-### We expect that the propagator will
+# We expect that the propagator will
 
-## look something like
+look something like
 
 (15.
 
@@ -15480,19 +15466,19 @@ one (9.
 
 40), where the interaction is now the BCS interaction of (15.
 
-### (which is assumed to be attractive
+(which is assumed to be attractive
 
-### since we are dealing with the super-
+since we are dealing with the super-
 
 conducting case).
 
-## However
+# However
 
 when we attempt to carry out the calculation
 
-## of G this way
+of G this way
 
-## an unfortunate thing happens
+an unfortunate thing happens
 
 e.g., we find that there are
 
@@ -15512,57 +15498,57 @@ momenta equal in magnitude but opposite in direction (i.
 
 e, a Cooper pair)
 
-## --- Page 281 ---
+--- Page 281 ---
 
 4] DIAGRAM METHODS IN SUPERCONDUCTIVITY 265
 
 multiply scatter against each other.
 
-### An example of such a class is the
+# An example of such a class is the
 
-## bracketed term in
+bracketed term in
 
 (15.
 
 where ~~~ stands for the BCS interaction
 
-## This is just a ladder sum
+# This is just a ladder sum
 
 and may be evaluated by means of the K-matrix equation (10.
 
-## 20) and equation
+20) and equation
 
 (10.
 
 22) with total momentum q=0.
 
-## For simplicity
+# For simplicity
 
-## assume V_{kk'}=V₀ u_k u_k'−
+assume V_{kk'}=V₀ u_k u_k'−
 
 the same procedure as in Problem 10.
 
-## 7 yields
+7 yields
 
 (15.
 
-## 1+ N(0) {an
+1+ N(0) {an
 
-## +i 2 的 -e Poel
++i 2 的 -e Poel
 
 We now make use of some results in appendix L.
 
-## Since this K(ω) is obtained
+Since this K(ω) is obtained
 
-### directly from summing diagrams
+directly from summing diagrams
 
 it is the ‘time-ordered’ K analogous to the
 
 time-ordered single-particle propagator G(k
 
-## ω) (see appendix L
+ω) (see appendix L
 
-## part A
+part A
 
 part E).
 
@@ -15570,9 +15556,9 @@ We can easily construct the corresponding ‘retarded’ K-matrix
 
 (15.
 
-## 42')
+42')
 
-## +isgn (Im ω)
++isgn (Im ω)
 
 This obeys the same relations as G^R in (L.
 
@@ -15586,9 +15572,9 @@ Assuming ω <ω, and using the fact that
 
 ln(x−+ iy) = ln (x² + y²)^{1/2} + i tan⁻¹(y/x) we find that when V₀ <0
 
-## K^R(ω) has a
+K^R(ω) has a
 
-## pole at the point
+pole at the point
 
 ω_pole = i 2ω₀ exp(−1/N(0)V₀), (15.
 
@@ -15596,19 +15582,19 @@ ln(x−+ iy) = ln (x² + y²)^{1/2} + i tan⁻¹(y/x) we find that when V₀ <0
 
 (There is no pole if V₀>0.
 
-## ) But this violates
+) But this violates
 
 the fact that the retarded propagator must be analytic in the upper half-plane
 
 (appendix L, part C).
 
-## Hence for negative V₀
+Hence for negative V₀
 
 the perturbation series leading to(15.
 
 42) must be invalid.
 
-## That is
+# That is
 
 the ordinary perturbation series is invalid in
 
@@ -15620,9 +15606,9 @@ infinitely large superconductor—see Mattuck and Johansson (1968)
 
 Appendix D.
 
-## --- Page 282 ---
+--- Page 282 ---
 
-### 266 A GUIDE TO FEYNMAN DIAGRAMS [15.4
+266 A GUIDE TO FEYNMAN DIAGRAMS [15.4
 
 It is important to note that when V has its value at the transition point
 
@@ -15630,13 +15616,13 @@ i.e.,
 
 V=0, then ω_max=0.
 
-## That is
+# That is
 
-### when V approaches 0 from above
+when V approaches 0 from above
 
-## the pole first
+the pole first
 
-## appears at ω = 0
+appears at ω = 0
 
 then moves into the upper half-plane when V becomes a
 
@@ -15646,25 +15632,25 @@ The pole (15.
 
 43) in the upper half-plane indicates that the normal system is
 
-## unstable
+unstable
 
 and will undergo a phase transition to the superconducting state
 
 (see §17.
 
-## 8 and Pines (63), p.
+8 and Pines (63), p.
 
-## 288 ff.
+288 ff.
 
 Physically, the appearance of this pole
 
-## may be interpreted as follows
+may be interpreted as follows
 
 The retarded K-matrix for Cooper pairs is the
 
 probability amplitude for a Cooper pair coming out if we put a Cooper pair in.
 
-## That is
+# That is
 
 it is the ‘response’ of the system to an applied ‘pair field’.
 
@@ -15672,21 +15658,21 @@ For V>0,
 
 there is no pole and K^R is finite.
 
-### But when V first becomes negative
+# But when V first becomes negative
 
-## there is a
+there is a
 
-## pole in K^R at ω=0
+pole in K^R at ω=0
 
 i.e., K^R becomes infinite.
 
-### This means that pairs come out
+# This means that pairs come out
 
-### even if we don’t put any pairs in
+even if we don’t put any pairs in
 
 i.e., the system spontaneously manufactures
 
-## Cooper pairs
+# Cooper pairs
 
 which means a transition to the superconducting state.
 
@@ -15696,13 +15682,13 @@ The above argument is generalized to finite temperature in §15.
 
 is used to find the transition temperature of a superconductor.
 
-## Actually
+# Actually
 
 it was unnecessary to go through all these contortions—we
 
 could have seen this result immediately from the remark after Fig.
 
-## That
+# That
 
 is, there is no Fermi surface here
 
@@ -15738,7 +15724,7 @@ each go to ∞ as V→0.
 
 ) That is,
 
-### E_G is a ‘non-analytic’ function of V
+E_G is a ‘non-analytic’ function of V
 
 and cannot be expanded in a perturbation
 
@@ -15752,19 +15738,19 @@ valid only when the perturbed state is qualitatively similar to (or ‘has the
 
 same symmetry as’) the unperturbed state.
 
-## This means that whenever a
+# This means that whenever a
 
 system undergoes a change of phase—like gas → liquid
 
-## liquid → solid
+liquid → solid
 
-## paramagnet → ferromagnet
+paramagnet → ferromagnet
 
 or normal metal → superconductor—since the
 
 two states involved are qualitatively dissimilar
 
-### the perturbation series breaks
+the perturbation series breaks
 
 down.
 
@@ -15772,27 +15758,27 @@ down.
 
 chapter 17.
 
-## --- Page 283 ---
+--- Page 283 ---
 
 5] DIAGRAM METHODS IN SUPERCONDUCTIVITY 267
 
 These ideas can be illustrated with a simple classical case.
 
-## Consider the
+# Consider the
 
 marble on the frictionless circular track in Fig.
 
-## The stable position of
+# The stable position of
 
-## the marble
+the marble
 
-## θ(F/mg)
+θ(F/mg)
 
-### under the influence of applied force F
+under the influence of applied force F
 
-## and its own
+and its own
 
-## weight
+weight
 
 mg, may be developed in a perturbation series in powers of F
 
@@ -15804,23 +15790,23 @@ This series produces mathematically valid results in the region |F/mg| < 1 or
 
 -π/2 < θ < +π/2.
 
-## But physically
+# But physically
 
-### it obviously breaks down when |θ| > π/2
+it obviously breaks down when |θ| > π/2
 
 where the marble undergoes a ‘phase change’
 
-### falling off the track and rolling
+falling off the track and rolling
 
 into corner A or B.
 
-## That is
+# That is
 
 even if carried to infinite order (i.e.
 
-## use tan⁻¹
+use tan⁻¹
 
-## F/mg formula)
+F/mg formula)
 
 the series produces the wrong result.
 
@@ -15828,15 +15814,15 @@ Fig.
 
 4 Classical System Illustrating Breakdown of Perturbation Series
 
-### when a Phase Transition Occurs
+when a Phase Transition Occurs
 
 The mathematical reason why the diagram perturbation series for G breaks
 
 down is easily seen from appendix E.
 
-### There it is pointed out that the
+# There it is pointed out that the
 
-## series is invalid if
+series is invalid if
 
 ⟨Φ_0|Φ_0⟩ = 0.
 
@@ -15850,11 +15836,11 @@ i.e., that they have different
 
 symmetries.
 
-### 15.5 A brief look at Nambu formalism
+# 15.5 A brief look at Nambu formalism
 
 A clue regarding how to fix up the perturbation series so it will yield the
 
-## superconducting state
+superconducting state
 
 comes from observing that BCS were able to obtain
 
@@ -15866,25 +15852,25 @@ function was paired (15.
 
 If this assumption could somehow be squeezed
 
-## --- Page 284 ---
+--- Page 284 ---
 
-### 268 A GUIDE TO FEYNMAN DIAGRAMS [15.5
+268 A GUIDE TO FEYNMAN DIAGRAMS [15.5
 
-### into the perturbation formalism
+into the perturbation formalism
 
-### it might be possible to get the bogolon
+it might be possible to get the bogolon
 
 propagator (15.
 
 40).
 
-## The way to do this (Gorkov
+The way to do this (Gorkov
 
 Nambu—see Schrieffer (1964b) and (1964a)
 
 169.
 
-### Alternative methods are in Pines (1961)
+Alternative methods are in Pines (1961)
 
 98, Johansson (1966)) is
 
@@ -15898,13 +15884,13 @@ These are defined by:
 
 The state |Φ_0⟩ here is the ground state of the superconductor
 
-## and is con-
+and is con-
 
 sidered to be of the type (15.
 
 29), i.e.
 
-### the number of particles is not sharp
+the number of particles is not sharp
 
 but is peaked about the average value N (see after (15.
 
@@ -15914,13 +15900,13 @@ but is peaked about the average value N (see after (15.
 
 172).
 
-## Physically
+# Physically
 
 F’ is the probability amplitude that if the k↑
 
 member of a Cooper pair is added to the system at time 0 and the –k↓ member
 
-## is added at time t
+is added at time t
 
 then the system will still be in its ground state at time t.
 
@@ -15930,23 +15916,23 @@ formalism.
 
 The first requires introducing new diagrams for F
 
-## (See
+(See
 
 Abrikosov et al., (1965).
 
-## ) The second
+) The second
 
-## due to Nambu
+due to Nambu
 
-## uses the same old
+uses the same old
 
-## diagrams as before
+diagrams as before
 
-## but combines F
+but combines F
 
 F’ and G into a matrix propagator.
 
-## (The
+(The
 
 generalization of the matrix propagator method to arbitrary fermion phase
 
@@ -15966,15 +15952,15 @@ The matrix propagator, G, is defined by
 
 The free propagator is obtained by replacing Φ_0 by Φ_0^0
 
-## the ground state of
+the ground state of
 
 the non-interacting system.
 
-## This yields
+# This yields
 
-## after transformation to (k
+after transformation to (k
 
-## ω)-space
+ω)-space
 
 G^0(k,ω) = ( 1/(ω - ξ_k + iδ) 0 )
 
@@ -15984,15 +15970,15 @@ It is easy to get the perturbation expansion of G if everything is first
 
 expressed in terms of the two-component fermion spinor operators
 
-## c_k = ( c_{k↑} )
+c_k = ( c_{k↑} )
 
-## ( c_{-k↓}^† )
+( c_{-k↓}^† )
 
-## c_k^† = ( c_{k↑}^†
+c_k^† = ( c_{k↑}^†
 
 c_{-k↓} ) (15.
 
-## --- Page 285 ---
+--- Page 285 ---
 
 5] DIAGRAM METHODS IN SUPERCONDUCTIVITY 269
 
@@ -16000,29 +15986,29 @@ In terms of these the matrix propagator assumes the compact form
 
 while the BCS Hamiltonian (15.
 
-## 10) becomes
+10) becomes
 
-### The τ_i’s here are the Pauli matrices
+The τ_i’s here are the Pauli matrices
 
-## τ_1 = ( 0 1 )
+τ_1 = ( 0 1 )
 
 ( 1 0 ) , τ_2 = ( 0 -i )
 
 ( i 0 ) , τ_3 = ( 1 0 )
 
-## ( 0 -1 )
+( 0 -1 )
 
 (Note: When (15.
 
 52) is substituted in (15.
 
-### 54) and the matrices are multiplied
+54) and the matrices are multiplied
 
 out, we get (15.
 
 10) plus some extra terms.
 
-### These are compensated by choice
+# These are compensated by choice
 
 of G^0.
 
@@ -16030,7 +16016,7 @@ See Schrieffer (1964a), pp. 174-5.
 
 ) Thus, in terms of the spinor
 
-## operators
+operators
 
 G and H have the same form as the ordinary G and H for a
 
@@ -16048,7 +16034,7 @@ but with a new dictionary in which matrices are associated with the various
 
 lines as shown in Table 15.
 
-## 1 (p.
+1 (p.
 
 270).
 
@@ -16060,9 +16046,9 @@ are diagonal, (15.
 
 free propagators in the self-energy parts.
 
-### It is necessary to use full propagators
+# It is necessary to use full propagators
 
-## instead
+instead
 
 i.e., self-consistent renormalization to obtain the superconducting
 
@@ -16072,9 +16058,9 @@ For example, the lowest-order diagram is
 
 k,ω k',ω
 
-## /
+/
 
-## V_{kk'} τ_3
+V_{kk'} τ_3
 
 / -k,-ω -k',-ω
 
@@ -16082,55 +16068,55 @@ becomes:
 
 (15.
 
-## Evidently
+# Evidently
 
 all the partial summation tricks hold here also.
 
-## The Dyson
+# The Dyson
 
-## equation is
+equation is
 
-## G = G^0 + G^0 Σ G
+G = G^0 + G^0 Σ G
 
 (15.
 
-## --- Page 286 ---
+--- Page 286 ---
 
-### 270 A GUIDE TO FEYNMAN DIAGRAMS [15.5
+270 A GUIDE TO FEYNMAN DIAGRAMS [15.5
 
 Table 15.
 
-### 1 Diagram dictionary for a superconductor
+1 Diagram dictionary for a superconductor
 
-## (Nambu formalism)
+(Nambu formalism)
 
-## Function
+# Function
 
 iG(k,τ) × exp(iω_n τ) for
 
-## non-propagating lines
+non-propagating lines
 
-## 1 0
+1 0
 
 or iG^0(k,ω) = i ( 1/(ω - ξ_k + iδ) 0 )
 
-## ( 0 1/(ω + ξ_k + iδ) )
+( 0 1/(ω + ξ_k + iδ) )
 
-## k+q k'-q
+k+q k'-q
 
-Vertes: Each vertex: τ_3Wiggle: “ 一 讨 u
+Vertes: Each vertex: τ_3Wiggle: “ 一讨 u
 
-## BCS interaction
+# BCS interaction
 
-## fermion loop
+fermion loop
 
-### (-1)xTrace of the product of G’s
+(-1)xTrace of the product of G’s
 
-## and γ₃’s forming the loop
+and γ₃’s forming the loop
 
 and the interactions and propagators may be renormalized
 
-## yielding as
+yielding as
 
 before just (10.
 
@@ -16140,41 +16126,41 @@ before just (10.
 
 5), with all diagram elements now evaluated
 
-### by means of the Nambu dictionary
+by means of the Nambu dictionary
 
 Table 15.
 
 The Nambu formalism yields bogolon excitations in the lowest order of
 
-### self-consistent renormalization
+self-consistent renormalization
 
 i.e., using the first two terms of (15.
 
 58).
 
-## That is
+# That is
 
 we must solve simultaneously the two matrix equations
 
-## Pr pigi@- Do e
+Pr pigi@- Do e
 
 Translated, with the aid of Table 15.
 
 1, this becomes:
 
-#)s——1 .
+)s——1 .
 
 G( □ (′.
 
 l】]'一氨′('|'】--亘(_(，(量′) (15.
 
-## --- Page 287 ---
+--- Page 287 ---
 
 6] DIAGRAM METHODS IN SUPERCONDUCTIVITY 271
 
 where we note that © involves the dressed propagator G
 
-## in contrast to
+in contrast to
 
 (15.
 
@@ -16182,17 +16168,15 @@ where we note that © involves the dressed propagator G
 
 When (15.
 
-### 60) is solved using the BCS interaction
+60) is solved using the BCS interaction
 
-## it is found that
+it is found that
 
 Gu = Gk, w) = (15.
 
-## UK 浩
+UK 浩山一 Y 明十伟十 is at Vek+ A2-i8"
 
-### 山 一 Y 明 十 伟 十 is at Vek+ A2-i8"
-
-## where u
+where u
 
 , vy, 4
 
@@ -16202,7 +16186,7 @@ are just as in the BCS solution (15.
 
 Thus, by
 
-## using the Nambu method
+using the Nambu method
 
 we have obtained a propagator with first term of
 
@@ -16212,21 +16196,21 @@ the bogolon form (15.
 
 The physical meaning of the two terms in (15.
 
-### 61) is easily seen by performing
+61) is easily seen by performing
 
 the Bogoliubov canonical transformation directly on the propagator.
 
-## Using
+# Using
 
 (15.
 
-## 35) yields
+35) yields
 
 Gt, t)
 
-## iP ol T {ex4(0) eh (0)} | Po>
+iP ol T {ex4(0) eh (0)} | Po>
 
-### — tug CY o| T {a(t @f(0)} | %o>+
+— tug CY o| T {a(t @f(0)} | %o>+
 
 — teh Po] T (BU B.
 
@@ -16236,13 +16220,13 @@ Gt, t)
 
 (The «, 8, terms=0.
 
-## ) The a
+) The a
 
 (t), B
 
 (t), etc.
 
-### are in Heisenberg picture like the
+are in Heisenberg picture like the
 
 c,’s in (9.
 
@@ -16254,7 +16238,7 @@ just (15.
 
 61), showing that the first term of (15.
 
-### 61) describes «-bogolons while
+61) describes «-bogolons while
 
 the second describes 8-bogolons (see after (15.
 
@@ -16262,23 +16246,23 @@ the second describes 8-bogolons (see after (15.
 
 6 Treatment of retardation effects by Nambu formalism
 
-## The BCS theory
+# The BCS theory
 
 as well as the Nambu calculation we have just described
 
 suffer from the defect that they treat the Frohlich interaction as static.
 
-## reality
+reality
 
 because it takes time for the phonon to travel from one electron to
 
-## another
+another
 
 this interaction is retarded (i.e.
 
 time dependent).
 
-## The only way of
+# The only way of
 
 handling this retardation properly is to treat the phonons field-theoretically
 
@@ -16288,9 +16272,9 @@ This means that instead of taking the canonically
 
 transformed H in (15.
 
-### 10) as our starting Hamiltonian
+10) as our starting Hamiltonian
 
-## it is necessary to go
+it is necessary to go
 
 all the way back to the H in (15.
 
@@ -16300,11 +16284,11 @@ interaction explicitly.
 
 Then, in order to calculate the propagator
 
-## it is
+it is
 
 necessary to introduce special diagrams for the free phonon
 
-## and for the
+and for the
 
 electron-phonon interaction.
 
@@ -16316,7 +16300,7 @@ It is shown that the calculation of the electron
 
 propagator is just like that in the no-phonon case
 
-## except that the Coulomb
+except that the Coulomb
 
 interaction is replaced by a combined interaction which is the sum of the
 
@@ -16324,19 +16308,19 @@ Coulomb and retarded Frohlich interactions
 
 |: sent = peer + yh (15.
 
-## combined Coulomb Frohlich
+combined Coulomb Frohlich
 
-### interaction interaction interaction
+interaction interaction interaction
 
-## --- Page 288 ---
+--- Page 288 ---
 
-### 272 A GUIDE TO FEYNMAN DIAGRAMS (15.7
+272 A GUIDE TO FEYNMAN DIAGRAMS (15.7
 
 The Frohlich interaction diagram shows a virtual phonon ( pntsattt ) being
 
 sent out by one electron and absorbed by another.
 
-## The diagrams are drawn
+# The diagrams are drawn
 
 in (k,1)-space to show the retardation.
 
@@ -16348,17 +16332,17 @@ Hence, in a rough way, we may say that
 
 when the combined interaction is predominantly positive
 
-## the system acts
+the system acts
 
-## normally
+normally
 
-### while if it is predominantly negative
+while if it is predominantly negative
 
 the system is a superconductor.
 
 The calculation of the electron propagator in the superconducting system
 
-### taking retardation into account
+taking retardation into account
 
 may be carried out simply by replacing the
 
@@ -16372,93 +16356,91 @@ The calculation then proceeds just as in §15.
 
 Such a computation using the retarded interaction has been carried out by
 
-### Schrieffer et al (Schrieffer (1964a)
+Schrieffer et al (Schrieffer (1964a)
 
 pp. 180-93)
 
-## and it yields a frequency-
+and it yields a frequency-
 
 dependent energy gap which shows good agreement with the results of tunnel-
 
 ing experiments in lead.
 
-### 15.7 Transition temperature of a superconductor
+# 15.7 Transition temperature of a superconductor
 
 It is easy to generalize the discussion of the Cooper pair K-matrix in §15.
 
-## to finite 7
+to finite 7
 
 and use the result to find the transition temperature.
 
-## The finite T
+# The finite T
 
 X-matrix or scattering amplitude is (remember that energies here are relative
 
-## to the Fermi energy
+to the Fermi energy
 
 »=«; so A doesn’t appear explicitly
 
-## and note that
+and note that
 
-€p=€_p, SO U,U_p=Uy):
+€p=€_p, SO U,U_p=Uy):、dop 1 1 1 7
 
-## 、 dop 1 1 1 7
-
-### W (ian) = reali eee > (arama) (ms “
+W (ian) = reali eee > (arama) (ms “
 
 (15.
 
 Evaluating the frequency sum by the same method as in §14.
 
-## 5 yields
+5 yields
 
-## 43 tanh 2) ]
+43 tanh 2) ]
 
 u = Vip lie y [LP y, Bare)" (s6o)
 
-## (2727p “ 26 一 frou
+(2727p “ 26 一 frou
 
-## Analytically continuing iw
+# Analytically continuing iw
 
 ,—>w + i6 to get the retarded K-matrix (see appendix
 
 39), changing to an integral over e
 
-## by introducing N(0)
+by introducing N(0)
 
-## the density of states
+the density of states
 
-### in the vicinity of the Fermi surface
+in the vicinity of the Fermi surface
 
 then using (3.
 
-## 76) to find the real and
+76) to find the real and
 
 imaginary parts, we obtain:
 
-## K®(w) = ( 屹 十 沥 )
+K®(w) = ( 屹十沥 )
 
-## +e
++e
 
 = Y, [1+ ¥mOe J de,
 
 tanh (e,/2)
 
-## 26p 一 山
+26p 一山
 
-## A
+A
 
 +iVN(0) mtanh (= } .
 
-## 4 /
+4 /
 
 (15.
 
-## --- Page 289 ---
+--- Page 289 ---
 
 7] DIAGRAM METHODS IN SUPERCONDUCTIVITY 273
 
-## Now we saw that at T=0
+Now we saw that at T=0
 
 the illegal pole of K* in the upper half-plane first
 
@@ -16474,19 +16456,19 @@ Therefore, let us look at K®(w=0).
 
 In the limit kgT<w,
 
-## we get
+we get
 
 after approximately evaluating the integral
 
-## We
+We
 
-K*(0) = Vu, 1+ ZN(O)ln (= -)| 【 (15.
+K*(0) = Vu, 1+ ZN(O)ln (= -)|【(15.
 
 This diverges when the bracketed quantity is zero
 
 i.e., for V<0 and
 
-## uh
+uh
 
 T=T.
 
@@ -16496,7 +16478,7 @@ which is the BCS expression for the transition temperature of a super-
 
 conductor.
 
-## Further reading
+# Further reading
 
 Rickayzen (1965).
 
@@ -16510,11 +16492,11 @@ Pines (1961), chap.
 
 Abrikosov (1965), chap.
 
-## 7 (Gorkov formalism).
+7 (Gorkov formalism).
 
 Thouless (1972).
 
-## Electron-phonon interaction
+# Electron-phonon interaction
 
 Appendix J.
 
@@ -16528,27 +16510,27 @@ Pines (1961), chap.
 
 Schrieffer (1964a, b).
 
-## Exercises
+# Exercises
 
-## 1 Prove that 2 > «bjb
+1 Prove that 2 > «bjb
 
 and > excieces give the same result when operating
 
-## k ko
+k ko
 
 on a paired wave function of form (15.
 
 14).
 
-## 2 Show with the aid of (7.
+2 Show with the aid of (7.
 
 32) that the bogolon operators in (15.
 
-## 34) obey fermion
+34) obey fermion
 
-### commutation relations (for example
+commutation relations (for example
 
-## prove that [c
+prove that [c
 
 , ay] = Syn).
 
@@ -16558,7 +16540,7 @@ Br, af
 
 |Wo>?
 
-## 4 Verify that (15.
+4 Verify that (15.
 
 53) is equivalent to (15.
 
@@ -16566,7 +16548,7 @@ Br, af
 
 5 Verify that (except for an infinite constant term) the first term of (15.
 
-## 54) is
+54) is
 
 equal to the quasi-electron Hamiltonian (15.
 
@@ -16574,21 +16556,21 @@ equal to the quasi-electron Hamiltonian (15.
 
 6 Write out the expression for the bubble diagram in (15.
 
-## 56) using Nambu
+56) using Nambu
 
 formalism.
 
-## --- Page 290 ---
+--- Page 290 ---
 
-### 274 A GUIDE TO FEYNMAN DIAGRAMS (15.7
+274 A GUIDE TO FEYNMAN DIAGRAMS (15.7
 
 7 Carry out the Bogoliubov transformation of the propagator (15.
 
 62) in detail.
 
-### 8 Show that the pairing operators in (15.
+8 Show that the pairing operators in (15.
 
-### 17) obey the following commutation
+17) obey the following commutation
 
 tules:
 
@@ -16602,17 +16584,17 @@ tules:
 
 (c) (bs, dele = We de(1- Su).
 
-## 9 (a) Using Hyea in (15.
+9 (a) Using Hyea in (15.
 
 16) and Po in (15.
 
 29), show that
 
-(Pol Hreal o> 二 2 五 e 院 一 井 Vane tee Vi Ver
+(Pol Hreal o> 二 2 五 e 院一井 Vane tee Vi Ver
 
-## 0 E
+0 E
 
-## cee
+cee
 
 where the contribution from Vz is incorporated into «
 
@@ -16624,7 +16606,7 @@ means there is a pair in k.
 
 ) Use a similar method to get second term.
 
-### (6) Carry out the variation &<¥o|H
+(6) Carry out the variation &<¥o|H
 
 ea|'%o> =0 and obtain (15.
 
@@ -16634,23 +16616,23 @@ ea|'%o> =0 and obtain (15.
 
 (c) Show that 4, satisfies: 4,-= > se A.
 
-## k 2ey
+k 2ey
 
-(d) Solve (c) for 「 as in (15.
+(d) Solve (c) for「as in (15.
 
 28) and derive (15.
 
 32, 33).
 
-### 15.10 Derive (15.42), (15.42’), (15.43).
+# 15.10 Derive (15.42), (15.42’), (15.43).
 
-### 15.11 Verify (15.64) >(15.68).
+# 15.11 Verify (15.64) >(15.68).
 
-### 12 Show that the anomalous propagator F in (15.
+12 Show that the anomalous propagator F in (15.
 
-### 48) is finite in the superconduct-
+48) is finite in the superconduct-
 
-## ing state
+ing state
 
 and zero in the normal (e.g.
 
@@ -16658,13 +16640,13 @@ non-interacting) state.
 
 (Take t=0*.
 
-## --- Page 291 ---
+--- Page 291 ---
 
-## Chapter 16
+# Chapter 16
 
 Phonons from a Many-Body Viewpoint (Reprint)
 
-## SSE
+# SSE
 
 In appendix J we find the phonon ground state energy and frequency
 
@@ -16676,9 +16658,9 @@ on the lattice Hamiltonian (J.
 
 28).
 
-### In the reprint on the following pages
+# In the reprint on the following pages
 
-## it is
+it is
 
 shown how the same result may be obtained diagrammatically.
 
@@ -16690,7 +16672,7 @@ Let 8 be the operator transforming from ordinary phonon representation to Einste
 
 If |y> is the ground state in ordinary phonon representation
 
-## this means
+this means
 
 Oly> = lo.
 
@@ -16700,19 +16682,19 @@ Substituting into (16.
 
 20) and using (16.
 
-## 10) yields
+10) yields
 
 D(k,t) = —iKy| O"' T{P.
 
-## lt) 61O)} Oly»
+lt) 61O)} Oly»
 
-## = —Ky|T{O" 10) 9} |y>
+= —Ky|T{O" 10) 9} |y>
 
-## = —Ky| T(Verg/n
+= —Ky| T(Verg/n
 
 [a,(t) +a4
 
-## (t)]V wo/en
+(t)]V wo/en
 
 , [@(0) +-2_4(0)}} |y>
 
@@ -16720,47 +16702,45 @@ D(k,t) = —iKy| O"' T{P.
 
 + 6_, et" 5, (16.
 
-## from which
+from which
 
-D(k,w) = — 、
-
-“ w*— w+ 218,
+D(k,w) = —、“ w*— w+ 218,
 
 This is just (16.
 
-### 37) but without any restrictions on w
+37) but without any restrictions on w
 
 thus showing that in this transparent case
 
-### and perhaps in more opaque ones
+and perhaps in more opaque ones
 
 the field-theoretic method is vindicated.
 
-## 16.6 Ground state energy
+# 16.6 Ground state energy
 
 The ground state energy of an interacting many-body system may be found from the theorem
 
 E=Eg+i lim # tn dol O(t) bods (16.
 
-## Imhe-@
+Imhe-@
 
 where Eo is the ground state energy of the non-interacting system
 
-### and 0(t) is the scattering operator
+and 0(t) is the scattering operator
 
-## given by
+given by
 
 O(8) = ettHote tht, (16.
 
-## --- Page 301 ---
+--- Page 301 ---
 
 6] PHONONS FROM A MANY-BODY VIEWPOINT 285
 
-The term 《‰| P(O|yo is the interacting vacuum-vacuum scattering matrix
+The term《‰| P(O|yo is the interacting vacuum-vacuum scattering matrix
 
-### which is obtained from the expansion
+which is obtained from the expansion
 
-ol Dio = > SP 北 丿_ dty.
+ol Dio = > SP 北丿_ dty.
 
 J dy OT (Hy t))-».
 
@@ -16782,13 +16762,13 @@ They may be calculated using the rules of either (16.
 
 29) or (16.
 
-## 35) (both give
+35) (both give
 
-### In<gol (loo = CY + PF + a + [by +
+In<gol (loo = CY + PF + a + [by +
 
 Fig.
 
-### 5 Graphs for Ground State Energy
+5 Graphs for Ground State Energy
 
 the same result).
 
@@ -16796,7 +16776,7 @@ After evaluating each diagram and taking the derivative and limit according to (
 
 42), it is found that each distinct graph gives a contribution to the energy obtained by the following rules
 
-## (1) Factor of V
+(1) Factor of V
 
 for each interaction wiggle.
 
@@ -16814,39 +16794,39 @@ for each intersection of these horizontal lines with a vertical line of the grap
 
 Carrying out the calculation according to these rules
 
-## we find
+we find
 
 SZ linked graphs = > {v.
 
-## - vals z+ asa a
+- vals z+ asa a
 
-## k>0
+k>0
 
 (16.
 
 -ViPxae 31?
 
-## * Gap Gao
+* Gap Gao
 
-## --- Page 302 ---
+--- Page 302 ---
 
-### 286 A GUIDE TO FEYNMAN DIAGRAMS 06.6
+286 A GUIDE TO FEYNMAN DIAGRAMS 06.6
 
 From (16.
 
 5), we have
 
-## k>0
+k>0
 
-## E
+E
 
-Ey = > 岩 = 必 心 (16.
+Ey = > 岩 = 必心 (16.
 
 Combining (16.
 
 28, 46 and 47) yields the final result
 
-## E = Eo 十 一 linked graphs
+E = Eo 十一 linked graphs
 
 = & wo{1—tcoskd—1cos*kd— > cos*kd—y;.
 
@@ -16854,17 +16834,17 @@ Scostkd.
 
 } (16.
 
-## = % wov(I-coskd) = > St
+= % wov(I-coskd) = > St
 
-## k
+k
 
-## K>0
+K>0
 
 in agreement with (16.
 
 12).
 
-### It is interesting to note that
+# It is interesting to note that
 
 unlike the case with the summation for the propagator
 
@@ -16876,19 +16856,19 @@ This should be contrasted with the corresponding ground state summation in rando
 
 where one is forced to assume that the result of summing a logarithmic series can be continued into divergent regions (Gell-Mann (1957)).
 
-## ACKNOWLEDGEMENT
+# ACKNOWLEDGEMENT
 
 The author wishes to thank Prof. H.
 
 Hajgaard Jensen for the many stimulating conversations which motivated this work and for his careful reading and criticism of the manuscript.
 
-## --- Page 303 ---
+--- Page 303 ---
 
-## Chapter 17
+# Chapter 17
 
 Quantum Field Theory of Phase Transitions in Fermi Systems
 
-## 17.1 Introduction
+# 17.1 Introduction
 
 It is everyday experience that under certain circumstances a peaceful-looking system of interacting particles in its ‘normal’ phase
 
@@ -16900,9 +16880,9 @@ or the pressure is increased.
 
 Other examples are the gas — solid transition
 
-## paramagnet — ferromagnet
+paramagnet — ferromagnet
 
-### ordinary conductor — superconductor
+ordinary conductor — superconductor
 
 paramagnet — spin-density-wave antiferromagnet (see first two columns of Fig.
 
@@ -16924,7 +16904,7 @@ We saw an example of this in the case of superconductivity
 
 In this chapter we are going to show that the matrix propagator used to describe the superconducting phase in §15.
 
-### 5 can be extended to provide a systematic
+5 can be extended to provide a systematic
 
 intuitively appealing framework for a theory of fermion phase transitions in general.
 
@@ -16932,7 +16912,7 @@ The material here is a condensed version of the review article by Mattuck and Jo
 
 hereafter abbreviated MJ.
 
-## To introduce the main ideas
+# To introduce the main ideas
 
 let us begin with a simple example—the transition from the paramagnetic to the ferromagnetic state in a metal with non-localized electrons
 
@@ -16940,17 +16920,17 @@ like Ni.
 
 This is illustrated schematically in the first row of Fig.
 
-### Above a certain critical temperature
+# Above a certain critical temperature
 
 7c, the system is in the normal
 
 paramagnetic phase.
 
-### There is short-range order (SRO)
+There is short-range order (SRO)
 
 meaning that nearby spins tend to line up parallel to one another
 
-## but no long-range order (LRO)
+but no long-range order (LRO)
 
 i.e., no tendency of spins separated by macroscopic distances to align themselves parallel.
 
@@ -16958,61 +16938,61 @@ If we now reduce the temperature below 7
 
 , all spins
 
-### even those of macroscopic separation
+even those of macroscopic separation
 
 spontaneously start to line up parallel to one another.
 
 This emergence of long-range order marks the transition to the ferromagnetic state.
 
-## --- Page 304 ---
+--- Page 304 ---
 
-### 288 A GUIDE TO FEYNMAN DIAGRAMS 17.1
+288 A GUIDE TO FEYNMAN DIAGRAMS 17.1
 
-### Condensed Broken Long-range order
+# Condensed Broken Long-range order
 
-## Normal phase
+# Normal phase
 
-## phase symmetry Parameter
+phase symmetry Parameter
 
-## M Hotty
+# M Hotty
 
-### acy’ sity iu Rotation | Magnetization
+acy’ sity iu Rotation | Magnetization
 
-## Pon es
+# Pon es
 
-## Paramagnet Ferromagnet
+# Paramagnet Ferromagnet
 
 Translation | p,, amplitude of kth
 
-## rotation Fourier component of
+rotation Fourier component of
 
 density, where
 
-## « = reciprocal lattice
+« = reciprocal lattice
 
-## vector
+vector
 
-### Global Pair creation amplitude
+# Global Pair creation amplitude
 
-## gauge (c energy gap in Type |
+gauge (c energy gap in Type |
 
-## symmetry |superconductor)
+symmetry |superconductor)
 
-## Normal
+# Normal
 
-## conductor
+conductor
 
 Rotation Sq, amplitude of Qth
 
-### translation | Fourier component
+translation | Fourier component
 
-## of spin density
+of spin density
 
-## Paramagnet Spin-density
+# Paramagnet Spin-density
 
-## wave
+wave
 
-## antiferromagnet
+antiferromagnet
 
 Fig.
 
@@ -17022,13 +17002,13 @@ By ‘spontaneously’ in the above description
 
 we mean ‘with no applied magnetic field’.
 
-## If there were such a field
+# If there were such a field
 
 even the spins in a normal system would line up parallel to it
 
 and there would be LRO.
 
-## However
+# However
 
 this is not referred to as a phase transition
 
@@ -17036,11 +17016,11 @@ since the LRO disappears as soon as the field is turned off and is therefore not
 
 The measure of long-range spin order is the ‘relative magnetization’ (=actual magnetization divided by maximum possible magnetization) given by
 
-## M= haKS〉 2
+M= haKS〉2
 
-Niel 万 〈S2 (17.
+Niel 万〈S2 (17.
 
-## --- Page 305 ---
+--- Page 305 ---
 
 1] PHASE TRANSITIONS IN FERMI SYSTEMS 289
 
@@ -17050,7 +17030,7 @@ and <S) is the average spin per unit volume.
 
 The quantity Af is called the ‘long-range order parameter’ for the system.
 
-## Besides long-range order
+# Besides long-range order
 
 the ferromagnet shows another characteristic feature of condensed phases
 
@@ -17062,7 +17042,7 @@ since spins of macroscopic separation are oriented randomly with respect to one 
 
 the system as a whole is invariant under the group ofall possible rotations in space.
 
-## Butin a ferromagnet
+# Butin a ferromagnet
 
 the spin system as a whole points in a definite direction in space.
 
@@ -17082,11 +17062,11 @@ thus the Earth’s magnetic field may play the source field role.
 
 A striking example of a phase transition quite similar to the paramagnet-ferromagnet transition is the ‘staring crowd’ phenomenon shown in Fig.
 
-### In a crowd in the ‘normal’ state
+In a crowd in the ‘normal’ state
 
 people gaze in random directions.
 
-## However
+# However
 
 it is often observed that if one person starts staring at
 
@@ -17104,7 +17084,7 @@ Again, the broken symmetry is rotational invariance
 
 while the LRO parameter is the ‘staring ratio’ or number of starers divided by the total number of people.
 
-## The ideas here are general
+# The ideas here are general
 
 a phase transition is a sudden change from a normal state with only SRO and perfect symmetry
 
@@ -17112,7 +17092,7 @@ to a condensed state with LRO and broken symmetry.
 
 Examples of broken symmetry and LRO parameter are shown in the last two columns of Fig.
 
-### (Regarding the superconducting case
+(Regarding the superconducting case
 
 a ‘global gauge transformation’ is a change of the phase of the single-particle operators
 
@@ -17120,7 +17100,7 @@ The wave function of a normal system is invariant under this transformation
 
 but the BCS wave function is not.
 
-### Hence there is broken symmetry under
+# Hence there is broken symmetry under
 
 global gauge transformation.
 
@@ -17130,25 +17110,25 @@ other cases.
 
 The parameters which determine whether the system is in a normal or condensed state are the temperature T
 
-### and density ρ (or alternatively
+and density ρ (or alternatively
 
 the coupling constant A for the interaction between particles).
 
-## A single fermion
+# A single fermion
 
-## --- Page 306 ---
+--- Page 306 ---
 
-### 290 A GUIDE TO FEYNMAN DIAGRAMS (17.1
+290 A GUIDE TO FEYNMAN DIAGRAMS (17.1
 
 Fig.
 
 ‘Staring Crowd’ Analogue of Phase Transition.
 
-## (a) ‘Normal’ Phase
+(a) ‘Normal’ Phase
 
-## (b) ‘Condensed’ Phase
+(b) ‘Condensed’ Phase
 
-## --- Page 307 ---
+--- Page 307 ---
 
 2) PHASE TRANSITIONS IN FERMI SYSTEMS 291
 
@@ -17158,7 +17138,7 @@ and ρ or A.
 
 Figure 17.
 
-### 3 shows a hypothetical Fermi system of this sort.
+3 shows a hypothetical Fermi system of this sort.
 
 The points on the boundary between the normal and condensed phases are called ‘transition points’.
 
@@ -17170,35 +17150,35 @@ i.e., whether it is first order
 
 second order or some higher order.
 
-### In the second-order transition
+# In the second-order transition
 
 the LRO parameter changes continuously in going from the normal to the condensed
 
-## T
+T
 
-## Normal
+# Normal
 
-## ρ or A
+ρ or A
 
 Fig.
 
 Phases of Hypothetical One-component Fermi System.
 
-## T= Temperature
+T= Temperature
 
-## ρ= Density
+ρ= Density
 
-## A= Coupling Constant
+A= Coupling Constant
 
 state, but has a discontinuity in its first derivative.
 
-## In a first-order transition
+# In a first-order transition
 
 the LRO parameter itself changes discontinuously at the transition point.
 
 i Qualitative theory of phase transitions
 
-## We now ask
+# We now ask
 
 Why do phase transitions occur?
 
@@ -17214,41 +17194,41 @@ Or, if there is a fire in the third-story window
 
 it is obvious why the crowd will be staring at it.
 
-## But in a condensed system
+# But in a condensed system
 
 there is LRO in the absence of a finite external field.
 
 How is this possible?
 
-## As Brout (1965a) points out
+As Brout (1965a) points out
 
 the answer to this in all known cases is that there is an internal field produced by the interactions between the particles of the system itself.
 
 This field depends on interaction strength (or density) and temperature.
 
-## In the normal phase
+# In the normal phase
 
 the field is limited in range and causes local
 
-## or short-range
+or short-range
 
 order.
 
-## But in a condensed phase
+# But in a condensed phase
 
 the internal field extends throughout the whole system and produces long-range order.
 
 Consider for instance a set of spins coupled by strong negative spin-spin interaction (due to exchange)
 
-## and for simplicity
+and for simplicity
 
 assume the temperature is zero.
 
 If we look at some arbitrary spin—‘spin A’—we see that another
 
-## --- Page 308 ---
+--- Page 308 ---
 
-### 292 A GUIDE TO FEYNMAN DIAGRAMS [17.2
+292 A GUIDE TO FEYNMAN DIAGRAMS [17.2
 
 nearby spin sitting in the field of A will tend to line up parallel to A.
 
@@ -17256,11 +17236,11 @@ This creates an even stronger field in which a third spin will align itself
 
 etc., until all the spins are lined up pointing in the same direction (ferromagnetic state).
 
-### If we now examine the final situation
+# If we now examine the final situation
 
 we see that any one spin is lined up parallel to a long-range internal field due to all the other spins.
 
-### In the case of localized spins
+# In the case of localized spins
 
 this is called (in lowest-order approximation) the ‘Weiss field’ or ‘molecular field’.
 
@@ -17274,11 +17254,11 @@ However it is not a real magnetic field because it cannot bend the orbits of cha
 
 One person stares at the empty window.
 
-## A second sees him staring
+# A second sees him staring
 
 and this interaction between the two people (not between the person and the window!
 
-### ) causes the second to stare also
+) causes the second to stare also
 
 etc., until finally the whole crowd is staring.
 
@@ -17290,23 +17270,23 @@ In Table 17.
 
 Table 17.
 
-### 1 Internal fields for various condensed phases
+1 Internal fields for various condensed phases
 
-### Condensed phase Internal field
+# Condensed phase Internal field
 
-### Ferromagnet Spin-aligning field
+# Ferromagnet Spin-aligning field
 
-## Periodic field
+# Periodic field
 
-## Superconductor Pairing field
+# Superconductor Pairing field
 
 Spin-density wave antiferromagnet | Spiral spin-aligning field
 
 The above ideas may be expressed mathematically in the following schematic way
 
-### Let us assume that the system has in it
+# Let us assume that the system has in it
 
-## in the final situation
+in the final situation
 
 some internal long-range field or fields which we will collectively call F.
 
@@ -17314,27 +17294,27 @@ The corresponding LRO parameters will be collectively called ©.
 
 The will be a function of F which depends in general on A
 
-### the interparticle interaction strength
+the interparticle interaction strength
 
 and T, the temperature
 
 O = O_r(F) (17.
 
-## (for example
+(for example
 
-## the relative magnetization
+the relative magnetization
 
 O, is a function of the internal spin-aligning field
 
-## The field F
+# The field F
 
-## in turn
+in turn
 
-## is a function of O
+is a function of O
 
 F = F_r(O) (17.
 
-## --- Page 309 ---
+--- Page 309 ---
 
 3) PHASE TRANSITIONS IN FERMI SYSTEMS 293
 
@@ -17346,27 +17326,27 @@ O = O_r(F_r(O)), (17.
 
 which is to be solved for the order parameter O.
 
-## (In the magnetic case
+(In the magnetic case
 
-## this is M = M_r(H_M)
+this is M = M_r(H_M)
 
 which is just the Weiss equation.
 
 ) Note that in general (17.
 
-## 2c) is extremely complicated
+2c) is extremely complicated
 
 and one must find O by a self-consistent method.
 
-## That is
+# That is
 
-### we assume a non-zero value for O
+we assume a non-zero value for O
 
 find F from (17.
 
 2b), substitute in (17.
 
-## 2a) to get a new value of O
+2a) to get a new value of O
 
 put this in (17.
 
@@ -17388,7 +17368,7 @@ are the expressions of the basic mechanism underlying all phase transitions.
 
 3 Anomalous propagators and the breakdown of the perturbation series in the condensed phase
 
-### In chapter 9 and the appendices
+# In chapter 9 and the appendices
 
 we saw how to develop the single-particle propagator for normal systems in a perturbation expansion.
 
@@ -17396,7 +17376,7 @@ But, as pointed out in the chapter on superconductivity
 
 the normal perturbation series breaks down in the superconducting phase.
 
-## This is quite general
+# This is quite general
 
 and in fact the normal perturbation series breaks down in any condensed phase.
 
@@ -17404,11 +17384,11 @@ A particularly simple example of why this breakdown occurs is the case of ferrom
 
 In the normal phase of a system with no external field
 
-### because of momentum conservation
+because of momentum conservation
 
 the propagating particle always emerges in the same linear and spin momentum state that it entered.
 
-## But in the ferromagneticphase
+# But in the ferromagneticphase
 
 because of the internal spin-aligning field
 
@@ -17420,13 +17400,13 @@ the particle spin may be flipped as shown in Fig.
 
 propagate through the internal field without flipping.
 
-## ) This means that in the
+) This means that in the
 
-## ferromagnetic phase
+ferromagnetic phase
 
-### in addition to the ordinary propagator
+in addition to the ordinary propagator
 
-## we can have
+we can have
 
 ‘anomalous’ propagators which flip a spin (for simplicity we consider only
 
@@ -17450,13 +17430,13 @@ Hence the normal expansion is invalid in the ferromagnetic case
 
 because it does not include the anomalous spin-flip processes which are
 
-## --- Page 310 ---
+--- Page 310 ---
 
-### 294 A GUIDE TO FEYNMAN DIAGRAMS (17.3)
+294 A GUIDE TO FEYNMAN DIAGRAMS (17.3)
 
 characteristic for the ferromagnetic phase.
 
-## Note that this means that the
+# Note that this means that the
 
 propagator expansion in (9.
 
@@ -17464,9 +17444,9 @@ propagator expansion in (9.
 
 8) or (11.
 
-## 3) are
+3) are
 
-### invalid in the ferromagnetic case
+invalid in the ferromagnetic case
 
 even if they are summed exactly to infinite
 
@@ -17476,87 +17456,87 @@ Fig.
 
 Anomalous Propagation in the Ferromagnetic Phase.
 
-## The Internal
+# The Internal
 
-## Spin-Aligning Field
+# Spin-Aligning Field
 
 , is Assumed to be in the Direction
 
-## In the above discussion
+# In the above discussion
 
 it is assumed (see Fig.
 
-## 4) that the internal field
+4) that the internal field
 
 is in the direction.
 
 If, on the other hand
 
-### happened to be in the direction
+happened to be in the direction
 
 no spin flips could occur (since our test particles are polarized along ) and all
 
 propagation would apparently be normal.
 
-### Hence we might conclude that the
+# Hence we might conclude that the
 
 propagator was not a completely adequate tool for probing the structure of the
 
 ferromagnetic state.
 
-## Actually this is not true
+# Actually this is not true
 
-## because there is a difference
+because there is a difference
 
 between propagation of spin up and spin down particles
 
-## which is caused by
+which is caused by
 
 , and this difference may itself be considered anomalous propagation.
 
-## That is
+# That is
 
 (17.
 
 is zero in the normal phase since the system is completely symmetric
 
-## but finite
+but finite
 
 in the ferromagnetic phase, if .
 
 For example, in the Hartree-Fock
 
-## approximation
+approximation
 
-### we find simply that (assume and )
+we find simply that (assume and )
 
 where is the energy of the spin in the internal spin-aligning field.
 
-## (This
+(This
 
 will be discussed further in §17.
 
 The above argument for the breakdown of the perturbation series in the
 
-### condensed phase is true in general
+condensed phase is true in general
 
-### provided we always assume from the
+provided we always assume from the
 
-## beginning
+beginning
 
-### as we have been doing throughout
+as we have been doing throughout
 
-## that our system is infinitely
+that our system is infinitely
 
 large.
 
-### (If we start with a finite system
+(If we start with a finite system
 
-## then there are some cases
+then there are some cases
 
-## such as super-
+such as super-
 
-## conductivity
+conductivity
 
 in which it is possible to obtain the condensed phase from the
 
@@ -17564,13 +17544,13 @@ ordinary perturbation series.
 
 This is discussed in MJ, Appendix C.
 
-## ) In each
+) In each
 
-## condensed phase
+condensed phase
 
-### in addition to the normal process
+in addition to the normal process
 
-## there is an anomalous
+there is an anomalous
 
 process (or processes) which can take place because of the long-range internal
 
@@ -17582,7 +17562,7 @@ In Table 17.
 
 propagator listed there is also a Hermitian conjugate which has been omitted).
 
-## --- Page 311 ---
+--- Page 311 ---
 
 3) PHASE TRANSITIONS IN FERMI SYSTEMS 295
 
@@ -17590,45 +17570,45 @@ Table 17.
 
 2 Anomalous propagators for various condensed phases
 
-### Condensed phase Anomalous propagator
+# Condensed phase Anomalous propagator
 
-## Ferromagnetic
+# Ferromagnetic
 
-## Solid
+# Solid
 
-## Superconductor
+# Superconductor
 
-## Spin-density wave
+# Spin-density wave
 
-## antiferromagnet
+antiferromagnet
 
-## In the case of the solid
+# In the case of the solid
 
 the propagating particle can pick up momentum
 
 , the difference between any two reciprocal lattice vectors
 
-## from Bragg
+from Bragg
 
 scattering by the periodic internal field.
 
 In the superconductor, the anomalous
 
-### process is not really a propagation
+process is not really a propagation
 
 but rather the amplitude for the creation
 
 of a pair of particles in opposite momentum and spin states.
 
-## In the spin-
+# In the spin-
 
-## density wave case
+density wave case
 
 a particle picks up momentum from scattering
 
 against the periodic structure of the spiral internal field
 
-## and has its spin
+and has its spin
 
 changed from to by the spin-aligning character of the internal field.
 
@@ -17638,13 +17618,13 @@ parameters may be obtained directly from them.
 
 For example, in the ferro-
 
-## magnetic case
+magnetic case
 
-## the LRO parameter is
+the LRO parameter is
 
-### for magnetization in the direction
+for magnetization in the direction
 
-## . (17.5)
+. (17.5)
 
 where we have expressed the spin operator in second quantized form (see
 
@@ -17662,7 +17642,7 @@ Evidently we can get this from the anomalous propagators
 
 If the magnetization is in the direction
 
-## we have
+we have
 
 , (17.
 
@@ -17670,11 +17650,11 @@ showing how in (17.
 
 4) acts as an anomalous propagator.
 
-## --- Page 312 ---
+--- Page 312 ---
 
-### 296 A GUIDE TO FEYNMAN DIAGRAMS (17.4)
+296 A GUIDE TO FEYNMAN DIAGRAMS (17.4)
 
-## In a superconductor
+# In a superconductor
 
 the order parameter is the pair creation amplitude
 
@@ -17686,33 +17666,33 @@ where is the anomalous pair propagator in (15.
 
 49).
 
-## Similar relations exist
+# Similar relations exist
 
-### for the other condensed phases (see MJ
+for the other condensed phases (see MJ
 
 530).
 
 The fact that some sort of anomalous propagation exists in all condensed
 
-## phases
+phases
 
 and that this anomalous propagation is not taken into account in the
 
-## normal expansion
+normal expansion
 
 is the physical reason for the breakdown of the normal
 
 perturbation expansion in the condensed system.
 
-## There is also a more
+# There is also a more
 
 mathematical way of getting this result.
 
-### This is based on the fact that for the
+# This is based on the fact that for the
 
 normal perturbation expansion of the propagator to be valid
 
-## the interacting
+the interacting
 
 ground state must have the same ‘structure’ as the non-interacting ground
 
@@ -17726,7 +17706,7 @@ state , i.e. it must overlap so that (see appendix E.
 
 Since at infinite volume the condensed phase always has a different structure
 
-## than the normal phase
+than the normal phase
 
 it follows that (17.
 
@@ -17740,11 +17720,11 @@ sion in (10.
 
 For example, in the ferromagnetic state,
 
-## there are
+there are
 
 say, more spins up than down
 
-### so that we have (in HF approxima-
+so that we have (in HF approxima-
 
 tion):
 
@@ -17756,7 +17736,7 @@ This is clearly orthogonal to the non-interacting
 
 which has .
 
-### 17.4 The generalized matrix propagator
+# 17.4 The generalized matrix propagator
 
 In order to construct a perturbation theory valid for the condensed state
 
@@ -17764,15 +17744,15 @@ is necessary to modify the self-consistent (see below for reason why self-
 
 consistent form is required) self-energy expansion in (11.
 
-## 3) so that it includes
+3) so that it includes
 
 the appropriate anomalous propagators.
 
-### We will show that the method of
+# We will show that the method of
 
 doing this is to replace each normal propagator in (11.
 
-## 3) by a matrix ‘propagator
+3) by a matrix ‘propagator
 
 which is a simple generalization of those of Nambu (1960) and Rajagopal
 
@@ -17780,7 +17760,7 @@ which is a simple generalization of those of Nambu (1960) and Rajagopal
 
 The diagonal elements of this generalized matrix propagator
 
-## are normal propagators
+are normal propagators
 
 while the off-diagonal elements are anomalous.
 
@@ -17792,15 +17772,15 @@ case §15.
 
 MJ §6.
 
-## --- Page 313 ---
+--- Page 313 ---
 
 4) PHASE TRANSITIONS IN FERMI SYSTEMS 297
 
-## For simplicity
+# For simplicity
 
 consider the ferromagnetic case first.
 
-## The matrix propagator
+# The matrix propagator
 
 here is (see (17.
 
@@ -17808,11 +17788,11 @@ here is (see (17.
 
 (17.
 
-## In the non-interacting system
+# In the non-interacting system
 
-### this becomes the bare matrix propagator
+this becomes the bare matrix propagator
 
-## which
+which
 
 in space is:
 
@@ -17824,13 +17804,13 @@ by introducing the spinor operators:
 
 , , (17.
 
-## from which
+from which
 
-## . (17.14)
+. (17.14)
 
-## (Note that when
+(Note that when
 
-### we must change to a column vector
+we must change to a column vector
 
 and to atow vector.
 
@@ -17858,9 +17838,9 @@ Thus we find that the Dyson equation (11.
 
 G(k, ω) = G_0(k
 
-## ω) – G_0(k
+ω) – G_0(k
 
-## ω) Σ G(k
+ω) Σ G(k
 
 ω) (17.
 
@@ -17872,7 +17852,7 @@ As pointed out just after (10.
 
 the ‘cloud’) around the propagating bare particle.
 
-## By analogy
+# By analogy
 
 Σ here is the potential of the internal spin-aligning field in the ferromagnetic system
 
@@ -17892,13 +17872,13 @@ Matrix propagators for the other phases are constructed in the same way as in th
 
 using for off-diagonal elements the anomalous propagators in Table 17.
 
-### The superconducting case yields (omit k
+The superconducting case yields (omit k
 
 ω, t, t' for brevity only!
 
 The solid gives a matrix propagator with an infinite number of rows and columns.
 
-## For simplicity
+# For simplicity
 
 consider a one-dimensional lattice with spacing a and first reciprocal lattice vector G_0 = 2π/a.
 
@@ -17906,9 +17886,9 @@ Then, suppressing spin index
 
 etc., for brevity
 
-## we find
+we find
 
-## G_{CDW}(k
+G_{CDW}(k
 
 t'–t) = - ( ⟨T c_k c_{k+G_0}⟩ ⟨T c_k c_{k+G_0}^†⟩ .
 
@@ -17916,7 +17896,7 @@ t'–t) = - ( ⟨T c_k c_{k+G_0}⟩ ⟨T c_k c_{k+G_0}^†⟩ .
 
 (17.
 
-## (For very rough calculations
+(For very rough calculations
 
 one could neglect all higher order harmonics
 
@@ -17934,9 +17914,9 @@ The argument in §11.
 
 G(k, ω) = G_0(k
 
-## ω) + G_0(k
+ω) + G_0(k
 
-## ω) Σ G(k
+ω) Σ G(k
 
 (17.
 
@@ -17958,15 +17938,15 @@ i.e., with
 
 This will turn out to yield the well-known Stoner result.
 
-### In self-consistent HF approximation
+# In self-consistent HF approximation
 
-### the matrix propagator equation is
+the matrix propagator equation is
 
 G = G_0 + G_0 Σ G.
 
 (17.
 
-## i/(ε_k–μ–N↑)
+i/(ε_k–μ–N↑)
 
 ( G_{↑↑}(k, ω) 0 ) = -iV ( N_↑+N_↓ 0 )
 
@@ -17974,11 +17954,11 @@ G = G_0 + G_0 Σ G.
 
 (17.
 
-## 1/(ε_k–μ–N↓)
+1/(ε_k–μ–N↓)
 
 where we have used:
 
-## and
+and
 
 Σ_{σσ} = iV (N_↑+N_↓).
 
@@ -17986,9 +17966,9 @@ where we have used:
 
 Placing these results in (17.
 
-## 22) yields
+22) yields
 
-## whence
+whence
 
 We can get an equation for N_σ by placing (17.
 
@@ -18008,21 +17988,21 @@ M = (N_↑ – N_↓)/(N_↑ + N_↓).
 
 (17.
 
-## Using
+# Using
 
 N = N_↑ + N_↓, (17.
 
-## and
+and
 
 N_↑ = ½(N + MN), N_↓ = ½(N – MN), (17.
 
 we find the magnetization equation:
 
-## 2S _ 2N_0
+2S _ 2N_0
 
 M = — ½ {(1 + Vρ(0)M)² – (1 – Vρ(0)M)²} (17.
 
-### where ε_F is equal to (3π²N)^{2/3}/2m
+where ε_F is equal to (3π²N)^{2/3}/2m
 
 the Fermi energy of the non-interacting system.
 
@@ -18048,39 +18028,39 @@ This is the well-known Stoner equation.
 
 The magnetization is plotted as a function of NV(2ε_F) in Fig.
 
-## For fixed V
+# For fixed V
 
 we can regard this curve as a function of the particle density
 
-## (In MJ
+(In MJ
 
 N is fixed and the coupling V is allowed to vary.
 
-## M
+M
 
-## (a)
+(a)
 
-## (b) (c)
+(b) (c)
 
-## NV
+NV
 
-## 0 2/3 2.18 2ε_F
+0 2/3 2.18 2ε_F
 
 Fig.
 
-## 5 Relative Magnetization
+5 Relative Magnetization
 
 M, as a Function of the Parameter
 
-## NV(2ε_F)
+NV(2ε_F)
 
 in System with δ-Function Interaction.
 
-## (a) Paramagnetic Region
+(a) Paramagnetic Region
 
-## (b) Unsaturated Ferromagnetic
+(b) Unsaturated Ferromagnetic
 
-## (c) Saturated Ferromagnetic
+(c) Saturated Ferromagnetic
 
 It is seen that the transition point where the magnetization first becomes non-zero occurs at the critical density N_c given by
 
@@ -18128,17 +18108,17 @@ interested in finding the transition points
 
 i.e., the value of the density
 
-## temperature
+temperature
 
 , where the condensation starts.
 
-## In the case of second order
+# In the case of second order
 
-## transitions
+transitions
 
 the simplest way to do this is to start in the normal phase and
 
-## --- Page 319 ---
+--- Page 319 ---
 
 6] PHASE TRANSITIONS IN FERMI SYSTEMS 303
 
@@ -18150,17 +18130,17 @@ infinite.
 
 Let us see how this works in the ferromagnetic case.
 
-## For simplicity we first
+# For simplicity we first
 
 take .
 
 (The finite case is treated at the end of this section.
 
-## ) The quantity
+) The quantity
 
 characterizing the magnetic properties in the normal
 
-## paramagnetic phase
+paramagnetic phase
 
 is the magnetic susceptibility which gives the response of the system to
 
@@ -18176,15 +18156,15 @@ directions.
 
 Since we are interested in static magnetic properties we take
 
-## and since
+and since
 
-### we consider only uniform magnetization
+we consider only uniform magnetization
 
-### the wavelength is infinite and the
+the wavelength is infinite and the
 
 wavenumber .
 
-## Now in general
+# Now in general
 
 a small applied field will cause a small
 
@@ -18192,29 +18172,29 @@ magnetization when the system is in the normal
 
 paramagnetic phase.
 
-### if we now start to increase the density
+if we now start to increase the density
 
-### then we find that as approaches
+then we find that as approaches
 
 (the critical density for the ferromagnetic transition) the magnetic suscepti-
 
-### bility grows larger and larger
+bility grows larger and larger
 
 and when we find .
 
-## This
+# This
 
-## means that when
+means that when
 
 no external field at all is required to produce magneti-
 
-## zation
+zation
 
 i.e., the system magnetizes spontaneously.
 
-## Hence we can find the
+# Hence we can find the
 
-## transition point
+transition point
 
 , by calculating the susceptibility and finding that point
 
@@ -18240,15 +18220,15 @@ relations hold:
 
 The magnetic susceptibility tensor and its Fourier transform are related to
 
-## and its Fourier transform by
+and its Fourier transform by
 
-## --- Page 320 ---
+--- Page 320 ---
 
-### 304 A GUIDE TO FEYNMAN DIAGRAMS (17.6)
+304 A GUIDE TO FEYNMAN DIAGRAMS (17.6)
 
 where is the magnetic moment of the particles in the system.
 
-## Thus the
+# Thus the
 
 problem is to find the retarded spin polarization propagator
 
@@ -18258,13 +18238,13 @@ However, we
 
 can use diagrams to calculate its cousin
 
-### the time-ordered spin polarization
+the time-ordered spin polarization
 
-## propagator
+propagator
 
 or its Fourier transform, .
 
-### Then we can employ the relations (see
+Then we can employ the relations (see
 
 appendix L.
 
@@ -18276,9 +18256,9 @@ Because of (17.
 
 40), in an isotropic system we only need to calculate one of the
 
-## components of
+components of
 
-### so we consider the simplest one
+so we consider the simplest one
 
 i.e., , or its time-
 
@@ -18290,7 +18270,7 @@ Note that this is a two-particle propagator similar to the polarization pro-
 
 pagator in (13.
 
-## It has the diagram expansion
+# It has the diagram expansion
 
 Now it turns out (see MJ §8) that as far as getting a transition point is concerned
 
@@ -18302,7 +18282,7 @@ approximation in the condensed phase (§17.
 
 where we have taken the Fourier transform.
 
-## The particle-hole K-matrix in
+# The particle-hole K-matrix in
 
 (17.
 
@@ -18312,7 +18292,7 @@ where we have taken the Fourier transform.
 
 which, since constant (cf. exercise 10.
 
-## 4) has the solution
+4) has the solution
 
 where we have expressed the integral in the denominator in terms of the pair
 
@@ -18322,25 +18302,25 @@ bubble (9.
 
 Translating (17.
 
-## 46) into functions
+46) into functions
 
-### noting that is a function only of
+noting that is a function only of
 
 expressing integrals over 's in terms of we easily find:
 
-### Now we are interested in the case
+# Now we are interested in the case
 
 for which we have from (10.
 
 78).
 
-## Since this is pure real
+# Since this is pure real
 
 so is , and we have by (17.
 
 that .
 
-## That is
+# That is
 
 This diverges, so that diverges, when
 
@@ -18348,15 +18328,15 @@ which is exactly the result for the transition point in (17.
 
 36).
 
-## --- Page 322 ---
+--- Page 322 ---
 
-### 306 A GUIDE TO FEYNMAN DIAGRAMS [17.6
+306 A GUIDE TO FEYNMAN DIAGRAMS [17.6
 
 It is important to observe that the transition point may also be obtained
 
 from the retarded K-matrix, .
 
-### This is related to the time-ordered
+# This is related to the time-ordered
 
 in (17.
 
@@ -18364,9 +18344,9 @@ in (17.
 
 43).
 
-## Hence
+# Hence
 
-## we have
+we have
 
 so that the retarded K-matrix diverges at just the point where the transition
 
@@ -18374,25 +18354,25 @@ from the paramagnetic to the ferromagnetic phase takes place.
 
 When it can be shown that the pole of occurs for in the
 
-## upper half-plane
+upper half-plane
 
-## in violation of analyticity
+in violation of analyticity
 
-### analogous to the superconductivity
+analogous to the superconductivity
 
 result (15.
 
 43).
 
-## When approaches from above
+# When approaches from above
 
-## the pole moves down to
+the pole moves down to
 
 the point .
 
 There is no pole when .
 
-### Just as in the superconducting case
+# Just as in the superconducting case
 
 §15.
 
@@ -18408,53 +18388,53 @@ Evaluating the frequency sum as in §14.
 
 breaking the integral up into real and imaginary parts
 
-## setting and
+setting and
 
 taking the limit , we find
 
 where is the density of states for spins in one direction.
 
-## The chemical
+# The chemical
 
-### potential may be determined from
+potential may be determined from
 
-### To make things easy to evaluate
+# To make things easy to evaluate
 
 assume a constant density of states given by
 
 where is the Fermi energy at .
 
-## Carrying out the integrals
+# Carrying out the integrals
 
 and eliminating we find that the temperature for which diverges is
 
-## given by
+given by
 
-## --- Page 323 ---
+--- Page 323 ---
 
 6] PHASE TRANSITIONS IN FERMI SYSTEMS 307
 
-### These results are easily generalized
+# These results are easily generalized
 
-### in all cases where a second-order phase
+in all cases where a second-order phase
 
-### transition takes place (see MJ
+transition takes place (see MJ
 
 §8), the retarded response function
 
-## or its
+or its
 
-## related scattering amplitude
+related scattering amplitude
 
-### evaluated at becomes infinite when the
+evaluated at becomes infinite when the
 
 coupling/density (or temperature) reaches its critical value.
 
-## The physical
+# The physical
 
 interpretation of this is that the system shows a 'response' in the absence of
 
-## any external field
+any external field
 
 i.e. it spontaneously goes over into the condensed phase.
 
@@ -18464,7 +18444,7 @@ where we showed that the scattering amplitude becomes infinite at the point
 
 where Cooper pairs start to form.
 
-## Finally
+# Finally
 
 it should be mentioned that an enormous amount of work on phase
 
@@ -18476,7 +18456,7 @@ For a review of this large subject, the
 
 reader is referred to the book of Stanley (1971).
 
-## A microscopic theory of
+# A microscopic theory of
 
 critical phenomena has been formulated by Wilson (1971a
 
@@ -18490,25 +18470,25 @@ Placing (18.
 
 16) in (18.
 
-## 15) yields
+15) yields
 
 with solutions of the form .
 
-### In the quantum mechanical case
+# In the quantum mechanical case
 
 this is replaced by the Schrödinger equation
 
-### where are the total system Hamiltonian
+where are the total system Hamiltonian
 
-## wave function
+wave function
 
-## and energy
+and energy
 
-## respectively
+respectively
 
-### and are the single particle Hamiltonian
+and are the single particle Hamiltonian
 
-## momentum
+momentum
 
 and potential energy.
 
@@ -18526,7 +18506,7 @@ Thus, in both the classical and quantum mechanical non-interacting systems we fi
 
 which means that we have just N one-body problems.
 
-## In the real many-body problem
+# In the real many-body problem
 
 we have seen that the particles interact with one another.
 
@@ -18534,13 +18514,13 @@ This means that in the classical case it is necessary to solve the N coupled equ
 
 where is the interaction force between two particles.
 
-## In the quantum case
+# In the quantum case
 
 we find a non-separable Schrödinger equation
 
 where is the two-particle interaction potential
 
-### considered to be momentum-dependent
+considered to be momentum-dependent
 
 for the sake of generality.
 
@@ -18552,21 +18532,21 @@ We will call the interaction term in (7.
 
 i.e., if it can be handled by ordinary finite-order perturbation theory.
 
-### If it cannot be handled this way
+# If it cannot be handled this way
 
 the interaction will be referred to as ‘strong’ or ‘large’.
 
 Most of the interactions we have to deal with are of the strong type.
 
-## For example
+# For example
 
 consider the Coulomb interaction between two electrons in a metal.
 
-## This has the form
+# This has the form
 
 If the ground state energy of the system is calculated using this as the perturbation
 
-## we obtain the result
+we obtain the result
 
 i.e. infinity to all orders of perturbation theory above the first!
 
@@ -18574,7 +18554,7 @@ i.e. infinity to all orders of perturbation theory above the first!
 
 such as the small attraction between electrons which gives rise to superconductivity.
 
-## According to the above scheme
+# According to the above scheme
 
 these will also be classified as ‘strong’.
 
@@ -18584,21 +18564,21 @@ the early attacks on the many-body problem tried to reduce it to a one-body prob
 
 This could be done either by pretending it didn’t exist
 
-## or more legally
+or more legally
 
 by transforming it away.
 
-## In the classical case
+# In the classical case
 
 such a transformation implies that we change to a new set of co-ordinates in which the equations of motion (7.
 
 6) become approximately decoupled.
 
-## For instance
+# For instance
 
 in simple situations it might be possible to define new co-ordinates
 
-## given by
+given by
 
 which, when introduced into (7.
 
@@ -18616,11 +18596,11 @@ The ‘bodies’ here are of course not real but rather fictitious bodies.
 
 The idea of transforming a system of interacting real particles into a system of approximately non-interacting fictitious bodies can be easily illustrated by means of two interacting particles in a gravitational field.
 
-### Let the masses of the two particles be
+# Let the masses of the two particles be
 
-## positions
+positions
 
-## gravitational force
+gravitational force
 
 , and interaction force .
 
@@ -18628,7 +18608,7 @@ These obey the coupled equations of motion
 
 The problem may be reduced to two independent one-body problems by making the transformation to new co-ordinates
 
-### Adding the two equations yields
+# Adding the two equations yields
 
 while multiplying by and and subtracting gives
 
@@ -18656,13 +18636,13 @@ Substituting this in (7.
 
 10):
 
-## which have the solution
+which have the solution
 
-### If all the ’s are zero except one
+If all the ’s are zero except one
 
 then (7.
 
-## 16) becomes
+16) becomes
 
 which is just the equation of a sinusoidal longitudinal vibration or ‘sound wave’ on the chain
 
@@ -18684,13 +18664,13 @@ Introducing the new co-ordinates and momenta by
 
 i.e.
 
-## )
+)
 
-## yields the transformation
+yields the transformation
 
 small.
 
-## If this can be done
+# If this can be done
 
 then the problem reduces to the set of N approximately independent one-body problems
 
@@ -18704,19 +18684,19 @@ A simple example of transformation (7.
 
 21) is provided by the system oftwo interacting particles treated quantum mechanically.
 
-## The system obeys
+# The system obeys
 
 the equation (assume no gravitational field)
 
 HΨ(ri,r2) = EΨ(ri,r2) (9.
 
-## where
+where
 
-## H = T(R) + H(r)
+H = T(R) + H(r)
 
-## --- Page 357 ---
+--- Page 357 ---
 
-## APPENDICES 341
+# APPENDICES 341
 
 Making the same transformation (7.
 
@@ -18724,19 +18704,19 @@ Making the same transformation (7.
 
 co-ordinates, we find
 
-## H = H(R) + H(r)
+H = H(R) + H(r)
 
-## where
+where
 
 H(R) = - (ħ²/2M) ∇²(R) (9.
 
-## H(r) = - (ħ²/2μ) ∇²(r) + V(r)
+H(r) = - (ħ²/2μ) ∇²(r) + V(r)
 
 which yields the two Schrödinger equations
 
-## H(R)Φm(R) = EmΦm(R)
+H(R)Φm(R) = EmΦm(R)
 
-## H(r)ψn(r) = Enψn(r)
+H(r)ψn(r) = Enψn(r)
 
 showing two fictitious particle-like objects just like those in the corresponding
 
@@ -18744,13 +18724,13 @@ classical case.
 
 We can also demonstrate the transformation (7.
 
-## 21) for the chain of atoms
+21) for the chain of atoms
 
 in Fig.
 
-### 1 (for details, see Ziman (1962), p.
+1 (for details, see Ziman (1962), p.
 
-## 6 ff.
+6 ff.
 
 , or H.
 
@@ -18760,9 +18740,9 @@ The Hamiltonian for the chain is (neglecting end effects)
 
 The first term describes a set of independent harmonic oscillators
 
-## one on each
+one on each
 
-## atom site
+atom site
 
 while the second is the interaction between each atom and its
 
@@ -18770,17 +18750,17 @@ nearest neighbour.
 
 The transformation (7.
 
-### 20) in this case turns out to be
+20) in this case turns out to be
 
 uₙ = Σq [1/(NMωq)^(1/2)] (aq e^(iqna) + aq* e^(-iqna)) (9.
 
 pn = iΣq [(Mωq/2)^(1/2)] (aq e^(iqna) - aq* e^(-iqna)) (9.
 
-## where
+where
 
 ωq = 2ω sin(|q|a/2) (9.
 
-## The aq
+# The aq
 
 aq* obey the canonical commutation rules
 
@@ -18806,9 +18786,9 @@ calculation, the result:
 
 H = Σq ħωq (aq*aq + ½) (9.
 
-## --- Page 358 ---
+--- Page 358 ---
 
-### 342 A GUIDE TO FEYNMAN DIAGRAMS
+342 A GUIDE TO FEYNMAN DIAGRAMS
 
 which is just the sum of a set of ordinary harmonic oscillator Hamiltonians
 
@@ -18818,11 +18798,11 @@ of various frequencies.
 
 29, 30) but rather
 
-### Mn = (1/N) Σq (1/√Mωq) aq e^(iqna)
+Mn = (1/N) Σq (1/√Mωq) aq e^(iqna)
 
 and its inverse.
 
-## However
+# However
 
 this leads to a Hamiltonian which is not completely decoupled
 
@@ -18836,19 +18816,19 @@ produces complete decoupling.
 
 ) The Schrödinger equation and energies of
 
-### the qth oscillator are the well-known
+the qth oscillator are the well-known
 
-## Hqψnq = (nq + ½)ħωq
+Hqψnq = (nq + ½)ħωq
 
-## Eq = ħωq(nq + ½)
+Eq = ħωq(nq + ½)
 
-## nq = 0
+nq = 0
 
 1,2,.
 
 so that the total system energy and wave functions are
 
-## E = Σq ħωq(nq + ½)
+E = Σq ħωq(nq + ½)
 
 Ψ = Πq ψnq(rq) (9.
 
@@ -18862,17 +18842,17 @@ results (9.
 
 34) (see, for example, Park (1964) p.
 
-## 110 ff.
+110 ff.
 
-## This is done by
+# This is done by
 
 performing an additional transformation on aq in (9.
 
-## 34) which involves the
+34) which involves the
 
 ‘ladder’ operators, bq, bq† defined by:
 
-### bq = √(Mωq/2ħ) uq + i [1/√(2ħMωq)] pq
+bq = √(Mωq/2ħ) uq + i [1/√(2ħMωq)] pq
 
 bq† = √(Mωq/2ħ) uq - i [1/√(2ħMωq)] pq (9.
 
@@ -18882,11 +18862,11 @@ From the commutation rules (7.
 
 rules:
 
-## (a) [bq
+(a) [bq
 
-## bq'†] = δqq'
+bq'†] = δqq'
 
-## (b) [bq
+(b) [bq
 
 bq'] = 0, (c) [bq†, bq'†] = 0.
 
@@ -18894,7 +18874,7 @@ Substituting the inverse of transformation (9.
 
 36) into (9.
 
-## 34) and using
+34) and using
 
 37a), yields the new Hamiltonian and Schrödinger equation
 
@@ -18908,23 +18888,23 @@ it may be shown (see above reference) that if we let ψ0 be
 
 the lowest-energy eigenfunction of H then all the other eigenfunctions are
 
-## --- Page 359 ---
+--- Page 359 ---
 
-## APPENDICES 343
+# APPENDICES 343
 
-## given by
+given by
 
 ψnq = [(bq†)^nq / √(nq!
 
 )] ψ0, nq = 0,1,2,.
 
-## 39a)
+39a)
 
-### The corresponding energies are
+# The corresponding energies are
 
 Enq = ħωq(nq + ½) (9.
 
-## 39b)
+39b)
 
 thus establishing (9.
 
@@ -18934,37 +18914,37 @@ It also follows that the bq-operators have the follow-
 
 ing important properties when operating on the energy eigenfunctions
 
-## (a) bq† ψnq = √(nq+1) ψnq+1
+(a) bq† ψnq = √(nq+1) ψnq+1
 
 (b) bq ψnq = √nq ψnq-1 (9.
 
-## (c) bq† bq ψnq = nq ψnq
+(c) bq† bq ψnq = nq ψnq
 
 Observe that the additional transformation
 
 36), changes H’ in (9.
 
-## 33) to
+33) to
 
 H = Σq ħωq (bq†bq + ½) = E0 + Σq ħωq bq†bq (9.
 
-### with associated Schrödinger equation
+with associated Schrödinger equation
 
-## HΨ = EΨ
+HΨ = EΨ
 
-## where
+where
 
 E = E0 + Σq ħωq nq (9.
 
-## 9.2 Elementary excitations
+# 9.2 Elementary excitations
 
 The results in the last section show how the problem of a strongly coupled
 
 classical or quantum many-body system may often be solved by transforming
 
-### to a set of approximately (or exactly
+to a set of approximately (or exactly
 
-### in the simple cases considered) inde-
+in the simple cases considered) inde-
 
 pendent fictitious bodies.
 
@@ -18976,17 +18956,17 @@ picture of many-body systems.
 
 It is based on the concept of elementary
 
-## excitations
+excitations
 
 and is the viewpoint which is taken throughout this book.
 
 In order to understand what an elementary excitation is
 
-## and to see how it is
+and to see how it is
 
-### related to the fictitious bodies
+related to the fictitious bodies
 
-### let us look at a specific case
+let us look at a specific case
 
 the phonon.
 
@@ -19008,29 +18988,29 @@ the sound wave of wavenumber q as one fictitious body (the harmonic oscil-
 
 lator) having quantized energy Eq=ħωq(nq+½)
 
-## we could alternatively regard
+we could alternatively regard
 
 it as a set of nq quanta each having energy ħωq
 
-## together with a ground state
+together with a ground state
 
-## --- Page 360 ---
+--- Page 360 ---
 
-### 344 A GUIDE TO FEYNMAN DIAGRAMS
+344 A GUIDE TO FEYNMAN DIAGRAMS
 
 of energy ½ħωq.
 
 These quanta of the sound wave are called phonons and
 
-## like photons
+like photons
 
 they behave very much as particles (i.e.
 
-## particles in the quantum-
+particles in the quantum-
 
 mechanical sense—they are not necessarily localized
 
-## although they can be—
+although they can be—
 
 see Hojgaard Jensen (1964)).
 
@@ -19038,21 +19018,21 @@ It should be pointed out here that it is common
 
 to call a phonon a ‘quantized sound wave’
 
-### but that according to the above
+but that according to the above
 
 this is not correct.
 
-## For a given nq
+# For a given nq
 
 there is only one quantized sound wave of
 
 wavenumber q (this is just the fictitious body of energy Eq)
 
-## but there are
+but there are
 
 many, i.e. nq phonons of wavenumber q.
 
-### Hence it is more proper to call the
+# Hence it is more proper to call the
 
 phonon a quantum or particle of sound.
 
@@ -19062,11 +19042,11 @@ the zero-point energy ½ħωq.
 
 Since the phonon carries this least unit
 
-## it is
+it is
 
 referred to as an ‘elementary excitation’.
 
-### The ‘compound excitations’ are
+The ‘compound excitations’ are
 
 then just excitations involving many phonons.
 
@@ -19082,19 +19062,19 @@ Evidently, Ψ(nq, nq', .
 
 42) describes a system with nq phonons of wavenumber q
 
-## nq' phonons of wave-
+nq' phonons of wave-
 
 number q', etc. Therefore, by (40), bq† is an operator which creates a phonon
 
-## of wavenumber q
+of wavenumber q
 
-### while bq destroys such a phonon
+while bq destroys such a phonon
 
-## and bq†bq is the ‘number
+and bq†bq is the ‘number
 
 operator’ for phonons of wavenumber q.
 
-### An important feature of phonons
+# An important feature of phonons
 
 in contrast to the quantized sound waves
 
@@ -19110,19 +19090,19 @@ That is, (9.
 
 35) does not hold true for phonons.
 
-## This is
+# This is
 
 obvious from (9.
 
 41) where we see that to get the total energy
 
-## we must add
+we must add
 
 the ground state energy to that of the phonons.
 
 Thus (9.
 
-## 41) gives us a picture
+41) gives us a picture
 
 of any excited state of the system as being composed of a ground state plus a
 
@@ -19130,11 +19110,11 @@ collection of independent phonons above the ground state.
 
 This result for the phonon case turns out to be extremely general.
 
-## appears now that
+appears now that
 
-## in most many-body systems
+in most many-body systems
 
-## it is possible to perform a
+it is possible to perform a
 
 transformation from the system of strongly interacting particles to a set of
 
@@ -19148,39 +19128,39 @@ Thus, we may write, using (7.
 
 tion in the form:
 
-## H = H0 + H'
+H = H0 + H'
 
 H0 = E0 + Σi ħωi (bi†bi) (9.
 
-## H' (interaction
+H' (interaction
 
-## between
+between
 
-## elementary
+elementary
 
-## excitations)
+excitations)
 
 where E0 is the ground state energy of the interacting system
 
-## ħωi is the energy
+ħωi is the energy
 
-## of the elementary excitation
+of the elementary excitation
 
 bi†, bi
 
-## and bi†bi are the creation
+and bi†bi are the creation
 
-## destruction and
+destruction and
 
 number operators for the elementary excitations.
 
-## (The ωi is often called the
+(The ωi is often called the
 
 ‘dispersion law’ or ‘excitation spectrum’).
 
-## --- Page 361 ---
+--- Page 361 ---
 
-## APPENDICES 345
+# APPENDICES 345
 
 The small term in (9.
 
@@ -19188,21 +19168,21 @@ The small term in (9.
 
 excitations.
 
-### These give rise to a broadening
+# These give rise to a broadening
 
 ΔEi, of the energy levels
 
 ħωi.
 
-## the uncertainty principle
+the uncertainty principle
 
-## we have ΔEΔt ~ ħ
+we have ΔEΔt ~ ħ
 
 which means that the elementaryexcitations have a lifetime
 
 τ~h/(4ε).
 
-### This lifetime must of course be
+# This lifetime must of course be
 
 reasonably long (i.e.
 
@@ -19214,25 +19194,25 @@ Elementary excitations are often (see Chapter 0) divided into two general
 
 types: ‘quasi particles’ and ‘collective excitations’
 
-## although this practice is
+although this practice is
 
 not universal.
 
-## (For example
+(For example
 
-## some writers
+some writers
 
-## like Ter Haar (1960) call all
+like Ter Haar (1960) call all
 
 elementary excitations quasi particles.
 
-### ) Various examples of elementary
+) Various examples of elementary
 
-### excitations were discussed in Chapter 0
+excitations were discussed in Chapter 0
 
-## such as quasi electrons
+such as quasi electrons
 
-## quasi nucleons
+quasi nucleons
 
 plasmons, phonons, and nuclear quanta.
 
@@ -19240,15 +19220,15 @@ It is important to notice that there may be more than one kind of elementary
 
 excitation in a given system.
 
-## For example
+# For example
 
-### in the electron gas in a metal
+in the electron gas in a metal
 
-## there
+there
 
-### are both quasi electrons and plasmons
+are both quasi electrons and plasmons
 
-### while in a nucleus we have quasi
+while in a nucleus we have quasi
 
 nucleons and vibrational and rotational collective excitations existing simul-
 
@@ -19258,25 +19238,25 @@ Thus, in general
 
 the right-hand side of (9.
 
-## 43) may be written
+43) may be written
 
 E = Σ E_i n_i + Σ ħω_j (b_j†b_j + 1/2) + small terms.
 
 i,j j
 
-### quasi particles collective excitations
+quasi particles collective excitations
 
-## Exercises
+# Exercises
 
-### 9.1 Prove the commutation rule (9.37a).
+# 9.1 Prove the commutation rule (9.37a).
 
-## 9.2 Verify (38).
+# 9.2 Verify (38).
 
-## 3.3 Calculate: bf, s,,.
+# 3.3 Calculate: bf, s,,.
 
-### 9.4 Prove (9.40c) from (9.40a, b).
+# 9.4 Prove (9.40c) from (9.40a, b).
 
-## 9.5 Calculate the following:
+# 9.5 Calculate the following:
 
 (a) b_n b_m, for m ≠ n.
 
@@ -19288,47 +19268,47 @@ i,j j
 
 Ψ = A exp(i(k x - ω t)).
 
-### 7 What is the total energy of the system in Ex.
+7 What is the total energy of the system in Ex.
 
-## Appendix A
+# Appendix A
 
-## Dirac Formalism
+# Dirac Formalism
 
 The three most popular formulations of quantum theory are Schrödinger’s
 
-## wave mechanics
+wave mechanics
 
-## Heisenberg’s matrix mechanics
+Heisenberg’s matrix mechanics
 
-## and Dirac’s abstract vector
+and Dirac’s abstract vector
 
 space method.
 
-## They are all equivalent
+# They are all equivalent
 
-### but Dirac’s formulation has the
+but Dirac’s formulation has the
 
-## --- Page 362 ---
+--- Page 362 ---
 
-### 346 A GUIDE TO FEYNMAN DIAGRAMS
+346 A GUIDE TO FEYNMAN DIAGRAMS
 
 advantage of being more compact and general than the first two.
 
-## We shall
+# We shall
 
 show that the equations of the Dirac formalism bear the same relation to
 
-### those of Schrödinger and Heisenberg
+those of Schrödinger and Heisenberg
 
-### as vector equations like A+B=C bear
+as vector equations like A+B=C bear
 
-## to A_x+B_x=C_x
+to A_x+B_x=C_x
 
-## A_y+B_y=C_y
+A_y+B_y=C_y
 
 A_z+B_z=C_z (i.e.
 
-## the same vector equation
+the same vector equation
 
 written out in terms of its components in some orthogonal system of unit
 
@@ -19336,15 +19316,15 @@ basis vectors).
 
 We shall work with a one-particle system
 
-## the generalization
+the generalization
 
 to the many-particle system is straightforward.
 
 In the Schrödinger scheme the state of the system at time t is described by
 
-## the wave function
+the wave function
 
-## and its complex conjugate
+and its complex conjugate
 
 ψ(r,t), ψ* (A.
 
@@ -19364,7 +19344,7 @@ The observable values of any operator α are the eigenvalues α_j of
 
 where the ψ_j are the corresponding eigenfunctions.
 
-## They satisfy the ortho-
+# They satisfy the ortho-
 
 normality relations:
 
@@ -19372,7 +19352,7 @@ normality relations:
 
 The probability of observing the eigenvalue α_j is |A_j(t)|²
 
-## where A_j(t) is the
+where A_j(t) is the
 
 coefficient of ψ_j(r) in the following expansion of the wave function
 
@@ -19380,11 +19360,11 @@ coefficient of ψ_j(r) in the following expansion of the wave function
 
 A_j(t) = ∫ ψ_j*(r) ψ(r,t) d³r.
 
-### In the Heisenberg matrix method
+# In the Heisenberg matrix method
 
-### ψ and ψ* are replaced by the column and
+ψ and ψ* are replaced by the column and
 
-## row matrices
+row matrices
 
 ψ = (a_1, a_2, .
 
@@ -19392,7 +19372,7 @@ A_j(t) = ∫ ψ_j*(r) ψ(r,t) d³r.
 
 These may be obtained from ψ and ψ* by choosing any complete orthogonal
 
-## set of functions
+set of functions
 
 φ_n(r) (which are usually eigenfunctions of some Schrödinger
 
@@ -19400,7 +19380,7 @@ operator, H); then we have
 
 a_n = ∫ φ_n*(r) ψ(r,t) d³r.
 
-## Similarly
+# Similarly
 
 the dynamical variables are square matrices
 
@@ -19408,7 +19388,7 @@ the dynamical variables are square matrices
 
 The column matrices of (A.
 
-## 7) obey
+7) obey
 
 iħ d a/dt = H a, (A.
 
@@ -19422,7 +19402,7 @@ H a_j = α_j a_j, (A.
 
 and the orthonormality relation (A.
 
-## 5) has the form
+5) has the form
 
 a_i† a_j = δ_ij.
 
@@ -19430,7 +19410,7 @@ The probability of observing α_j is given again by |a_j(t)|²
 
 in (A.
 
-## 6) with row
+6) with row
 
 and column matrices substituted for ψ* and ψ
 
@@ -19440,7 +19420,7 @@ Since the Dirac abstract vector space description is essentially a general-
 
 ization of vectors and tensors (dyadics) in ordinary space
 
-## let us review these
+let us review these
 
 first.
 
@@ -19454,17 +19434,17 @@ the following ways:
 
 (a) Addition: A + B = C (a vector)
 
-## (b) Scalar product
+(b) Scalar product
 
-## A·B = |A||B|cos θ_AB = c
+A·B = |A||B|cos θ_AB = c
 
-## = ‘component of A on B’
+= ‘component of A on B’
 
 = a number or ‘scalar’.
 
-## --- Page 364 ---
+--- Page 364 ---
 
-### 348 A GUIDE TO FEYNMAN DIAGRAMS
+348 A GUIDE TO FEYNMAN DIAGRAMS
 
 (1) normalized vector, A: A·A = |A|² = 1
 
@@ -19476,7 +19456,7 @@ the following ways:
 
 B = D·A (dyadic stretches and rotates vector).
 
-## For purposes of calculation
+# For purposes of calculation
 
 it is convenient to choose an arbitrary pair of
 
@@ -19492,31 +19472,31 @@ vectors become column matrices and the dyadics square matrices
 
 thus:
 
-### (a) A = A_1 u_1 + A_2 u_2 = (A_1
+(a) A = A_1 u_1 + A_2 u_2 = (A_1
 
-## A_2)^T
+A_2)^T
 
 (b) D = Σ D_ij u_i u_j^T = [D_ij], (A.
 
 and may be manipulated by the ordinary rules for matrix algebra.
 
-## Substi-
+# Substi-
 
 tuting these in (A.
 
-## 14) produces
+14) produces
 
-## (a) C = A + B → (C_1
+(a) C = A + B → (C_1
 
-## C_2)^T = (A_1+B_1
+C_2)^T = (A_1+B_1
 
-## A_2+B_2)^T
+A_2+B_2)^T
 
 (b) c = A·B → A_1 B_1 + A_2 B_2 = c (A.
 
 (c) B = D·A → B_i = Σ_j D_ij A_j.
 
-## Of course
+# Of course
 
 the actual numbers appearing in the matrices depend on which
 
@@ -19524,23 +19504,23 @@ u_1, u_2 have been chosen as basis.
 
 The primary differences between the Dirac abstract vector space and the
 
-## ordinary one above are first
+ordinary one above are first
 
 the Dirac space has an infinite number of
 
-## dimensions and second
+dimensions and second
 
-### Dirac’s vectors (called ‘ket’ vectors
+Dirac’s vectors (called ‘ket’ vectors
 
-## |A⟩) are com-
+|A⟩) are com-
 
 plex so they each have a complex conjugate ‘bra’ vector
 
 ⟨A| = [A⟩]*.
 
-## (More
+(More
 
-## precisely
+precisely
 
 the bra is the ‘conjugate imaginary’ of the ket.
 
@@ -19552,9 +19532,9 @@ See Dirac (1947),
 
 (a) Addition: |A⟩ + |B⟩ = |C⟩
 
-### (b) Scalar product of |A⟩ and |B⟩
+(b) Scalar product of |A⟩ and |B⟩
 
-## ⟨A|B⟩ = c (a number)
+⟨A|B⟩ = c (a number)
 
 (1) normalized: ⟨A|A⟩ = 1
 
@@ -19566,7 +19546,7 @@ See Dirac (1947),
 
 |B⟩ = α|A⟩.
 
-## In addition
+# In addition
 
 Dirac algebra has three new concepts not found in ordinary
 
@@ -19580,13 +19560,13 @@ because α|R⟩ = |A⟩⟨B|R⟩ = vector.
 
 (e) Multiplication by unit operator:
 
-### If { |i⟩ } is an orthonormal set
+If { |i⟩ } is an orthonormal set
 
-## then the operator
+then the operator
 
 is a unit operator, i.e., I=1.
 
-## This is because
+# This is because
 
 so that:
 
@@ -19596,7 +19576,7 @@ Thus we have:
 
 ): a may be written:
 
-## a = Re a + i Im a
+a = Re a + i Im a
 
 so that a* = Re a – i Im a.
 
@@ -19604,7 +19584,7 @@ Further, |A⟩ = ⟨A|*†.
 
 It may then be shown that to get the c.
 
-## of any product
+of any product
 
 of bras, kets and operators, take c.
 
@@ -19612,13 +19592,13 @@ of each factor and reverse the order.
 
 Thus, for example:
 
-## Using this new algebra
+# Using this new algebra
 
 Dirac builds up quantum mechanics precisely
 
 parallel to the Schrödinger and Heisenberg schemes.
 
-## The states of a system
+# The states of a system
 
 are described by abstract vectors and their complex conjugates
 
@@ -19632,9 +19612,9 @@ p); Example
 
 H = -ħ²∇²/2m + V(r).
 
-## --- Page 366 ---
+--- Page 366 ---
 
-### 350 A GUIDE TO FEYNMAN DIAGRAMS
+350 A GUIDE TO FEYNMAN DIAGRAMS
 
 The state vector obeys:
 
@@ -19644,13 +19624,13 @@ where the eigenvectors |φ_j⟩ satisfy the orthonormality relation
 
 ⟨φ_i|φ_j⟩ = δ_ij.
 
-## For example
+# For example
 
-## the position operator
+the position operator
 
 r, has the eigenvalue equation
 
-## r|r⟩ = r|r⟩
+r|r⟩ = r|r⟩
 
 with (A.
 
@@ -19658,9 +19638,9 @@ with (A.
 
 (note that r is a continuous eigenvalue).
 
-### The probability of observing eigen-
+# The probability of observing eigen-
 
-## value α_j is |A_j(t)|² where
+value α_j is |A_j(t)|² where
 
 The relation of Dirac’s abstract vector formulation to the Schrödinger
 
@@ -19674,11 +19654,11 @@ ordinary vector algebra (A.
 
 Thus, the Schrödinger wave mechanics is just the Dirac abstract vectorformulation expressed in position basis.
 
-### This means that the basis vectors
+# This means that the basis vectors
 
 (which correspond to the in (A.
 
-### 15)) are the eigenvectors of the
+15)) are the eigenvectors of the
 
 position operator as given in (A.
 
@@ -19686,11 +19666,11 @@ position operator as given in (A.
 
 are expressed in terms of their components along the .
 
-## This is often
+# This is often
 
 called the ‘position representation’.
 
-## Then it can be shown that the
+# Then it can be shown that the
 
 Schrödinger wave function is just the components of the Dirac state vector
 
@@ -19702,7 +19682,7 @@ analogous to (A.
 
 The Schrödinger operators are given by (see Merzbacher (1970)
 
-## 326 ff.
+326 ff.
 
 or Dirac (1947), p.
 
@@ -19710,27 +19690,27 @@ analogous to (A.
 
 15b).
 
-## For example
+# For example
 
 the Dirac eigenvalue equation (A.
 
 can be transcribed into the Schrödinger one (A.
 
-## 4) by multiplying on the
+4) by multiplying on the
 
-### left by and inserting the unit operator
+left by and inserting the unit operator
 
 , (A.
 
 as follows:
 
-## or
+or
 
-## so
+so
 
-## . (A.29)
+. (A.29)
 
-## Similarly
+# Similarly
 
 to get the Heisenberg matrix method we just express the Dirac
 
@@ -19738,17 +19718,17 @@ vectors and operators in an arbitrary basis—call it .
 
 Then (using (A.
 
-## 28))
+28))
 
 the component in (A.
 
-## 7) is
+7) is
 
 which is just (A.
 
 8), while in (A.
 
-## 9) is
+9) is
 
 which is just (A.
 
@@ -19756,11 +19736,11 @@ which is just (A.
 
 Equation (A.
 
-## 31) shows that may be used as
+31) shows that may be used as
 
 a shorthand way of writing the ordinary Heisenberg matrix elements.
 
-## Appendix B
+# Appendix B
 
 The Time Development Operator,
 
@@ -19774,11 +19754,11 @@ tion.
 
 In order to minimize the risk of the reader getting appendixitis on the
 
-## way through
+way through
 
 we start with a diagram of the labyrinth.
 
-## The letters in each
+# The letters in each
 
 box refer to the various appendices.
 
@@ -19786,81 +19766,81 @@ box refer to the various appendices.
 
 although certain results in it will be used.
 
-### Time-dependent Schrödinger equation (B)
+Time-dependent Schrödinger equation (B)
 
-## time develop-
+time develop-
 
-## ment operator
+ment operator
 
-## gives formal
+gives formal
 
-## gives formal
+gives formal
 
-## solution to
+solution to
 
-## Schrödinger
+Schrödinger
 
-## Differential
+# Differential
 
-### solution to equation in equation for
+solution to equation in equation for
 
-## Schrödinger ‘interaction
+Schrödinger ‘interaction
 
-## equation picture’
+equation picture’
 
-## (B) (D)
+(B) (D)
 
-## (D)
+(D)
 
-## Vacuum
+# Vacuum
 
-## amplitude in
+amplitude in
 
-## terms of
+terms of
 
-## (D)
+(D)
 
-## Perturbation
+# Perturbation
 
-## expansion of
+expansion of
 
-## Propagator
+# Propagator
 
-## in terms of
+in terms of
 
-## (E) (D)
+(E) (D)
 
-## Perturbation expansion
+# Perturbation expansion
 
-## of vacuum amplitude
+of vacuum amplitude
 
-## (D)
+(D)
 
-## Wick’s theorem (F)
+Wick’s theorem (F)
 
-## Expansion of vacuum
+# Expansion of vacuum
 
-## amplitude in diagrams
+amplitude in diagrams
 
-## (G)
+(G)
 
-## Perturbation expansion
+# Perturbation expansion
 
-## of propagator
+of propagator
 
-## (E)
+(E)
 
-## Wick’s theorem (F)
+Wick’s theorem (F)
 
-## Expansion of propagator
+# Expansion of propagator
 
-## in diagrams
+in diagrams
 
-## (G)
+(G)
 
 Let us go on now to the time development operator
 
-## Suppose
+# Suppose
 
 that , are the wave functions at initial time and later time .
 
@@ -19872,13 +19852,13 @@ when it operates on :
 
 We can find a formal expression for by using the fact that obeys
 
-### the time-dependent Schrödinger equation
+the time-dependent Schrödinger equation
 
 (or in Dirac notation) (B.
 
 where it is assumed that is time independent.
 
-## It follows that
+# It follows that
 
 where the expansion gives the meaning of the exponential operator.
 
@@ -19886,41 +19866,41 @@ correctness of (B.
 
 3) may be established by substituting it in (B.
 
-## 1) and
+1) and
 
 differentiating:
 
 in agreement with (B.
 
-### As an example of how to work with
+# As an example of how to work with
 
-## suppose at
+suppose at
 
-## which we
+which we
 
-## take equal to zero
+take equal to zero
 
-## the system is in state
+the system is in state
 
-### which is an eigenstate of so that
+which is an eigenstate of so that
 
-## . (B.5)
+. (B.5)
 
-## We ask for the value of
+# We ask for the value of
 
-## . (B.6)
+. (B.6)
 
-## This is just
+# This is just
 
-### We shall also have occasion to evaluate
+# We shall also have occasion to evaluate
 
-## . (B.8)
+. (B.8)
 
 This is done by using the complex conjugate (see (A.
 
 18f)).
 
-## Appendix C
+# Appendix C
 
 Finding the Ground State Energy from the Vacuum Amplitude
 
@@ -19928,7 +19908,7 @@ Finding the Ground State Energy from the Vacuum Amplitude
 
 master plan in appendix B may skip this appendix on first reading!
 
-## We wish to prove that
+# We wish to prove that
 
 , (C.
 
@@ -19938,9 +19918,9 @@ interacting systems respectively and is a positive infinitesimal such that
 
 We begin with the vacuum amplitude as defined in (5.
 
-## This
+# This
 
-## may be written out
+may be written out
 
 as .
 
@@ -19952,25 +19932,25 @@ Let us expand this in terms of the exact eigen-
 
 states of the Hamiltonian .
 
-## Introducing the unit operator
+# Introducing the unit operator
 
 (see (A.
 
-## 18e)) gives
+18e)) gives
 
 , (C.
 
-### Taking logarithms of both sides
+# Taking logarithms of both sides
 
-## differentiating
+differentiating
 
 and putting in the limit.
 
-## Now as
+# Now as
 
-## the quantity by assumption
+the quantity by assumption
 
-## and all the exponentials
+and all the exponentials
 
 decay to zero.
 
@@ -19978,15 +19958,15 @@ But the exponential with lowest value of
 
 e.g., , will
 
-## decay the slowest
+decay the slowest
 
-### so that only the term will be important
+so that only the term will be important
 
-## giving us
+giving us
 
-## so
+so
 
-## . (C.5)
+. (C.5)
 
 from which theorem (C.
 
@@ -19996,11 +19976,11 @@ It should be noted that for the limiting process in (C.
 
 4), (C.
 
-## 5) to be valid
+5) to be valid
 
-## we must have
+we must have
 
-## . (C.6)
+. (C.6)
 
 In the case of a system in which the interacting ground state has a
 
@@ -20008,11 +19988,11 @@ different symmetry from that of the non-interacting ground state
 
 , we
 
-### find that the two states are orthogonal
+find that the two states are orthogonal
 
 so and (C.
 
-## 1) does not
+1) does not
 
 hold.
 
@@ -20020,25 +20000,25 @@ This is the situation in which the original uniform non-interacting
 
 system undergoes a change of phase as a result of the interaction.
 
-## This is
+# This is
 
-## what happens
+what happens
 
-## for example
+for example
 
 when we turn on an attractive force between
 
 originally non-interacting electrons in an electron gas
 
-## the gas then undergoes
+the gas then undergoes
 
 a phase change to the superconducting state and (C.
 
-## 1) cannot be used to get
+1) cannot be used to get
 
 the new ground state energy.
 
-## (See chapter 17
+(See chapter 17
 
 Mattuck and Johansson (1967).
 
@@ -20052,17 +20032,17 @@ The more ‘physical’ way of getting the relation between and
 
 uses the ‘adiabatic theorem’ (see Schweber (1961)
 
-## 316 ff.
+316 ff.
 
-## This
+# This
 
 involves (1) slowly (adiabatically) turning on the interaction potential in the
 
 non-interacting system in its ground state
 
-### so as to avoid transitions to excited
+so as to avoid transitions to excited
 
-## states
+states
 
 (2) the assumption that the interacting ground state evolves con-
 
@@ -20070,25 +20050,25 @@ tinuously from the non-interacting one when (1) is carried out (adiabatic
 
 hypothesis).
 
-## In the Thouless method
+# In the Thouless method
 
-### the imaginary time limit corresponds
+the imaginary time limit corresponds
 
 to (1) since it eliminates all excited states
 
-## while the condition
+while the condition
 
-## corresponds to (2)
+corresponds to (2)
 
 since it means that the interacting and non-interacting
 
 ground states must overlap each other.
 
-## Appendix D
+# Appendix D
 
-### The Operator and its Expansion
+# The Operator and its Expansion
 
-## 1 At zero temperature
+1 At zero temperature
 
 The operator is a first cousin to the time development operator
 
@@ -20096,35 +20076,35 @@ The operator is a first cousin to the time development operator
 
 It is in fact itself often called the time development operator
 
-## because
+because
 
-## as will be seen
+as will be seen
 
 it gives the time development of the wave function
 
 when the wave function is expressed in ‘interaction picture’.
 
-## Its utility lies
+# Its utility lies
 
-### in the fact that the vacuum amplitude
+in the fact that the vacuum amplitude
 
 , and the Green’s function
 
 , may
 
-### be expressed directly in terms of it
+be expressed directly in terms of it
 
-### this means that when we find the per-
+this means that when we find the per-
 
-## turbation expansion of
+turbation expansion of
 
 we automatically have the expansion for both
 
 and .
 
-## The operator is defined by
+# The operator is defined by
 
-### from the imaginary frequency propagator
+from the imaginary frequency propagator
 
 we can place it in (L.
 
@@ -20132,7 +20112,7 @@ we can place it in (L.
 
 33) to find all the real frequency propagators.
 
-## Note that
+# Note that
 
 Diligent use of (3.
 
@@ -20144,7 +20124,7 @@ Diligent use of (3.
 
 is easily shown to obey (cf. (L.
 
-## 25))
+25))
 
 so it is not analytic.
 
@@ -20156,15 +20136,15 @@ which is the finite version of (L.
 
 **E.
 
-## Two-particle propagators**
+Two-particle propagators**
 
 The above discussion has been restricted to single particle propagators.
 
 Two-particle propagators (or the related scattering amplitudes) are much more complicated since they involve in general three independent frequencies.
 
-## However
+# However
 
-## in many cases of interest
+in many cases of interest
 
 such as the polarization propagator (13.
 
@@ -20174,7 +20154,7 @@ such as the polarization propagator (13.
 
 7, only one frequency occurs.
 
-## In such cases
+# In such cases
 
 the analytic properties are the same as those for the single particle propagators.
 
@@ -20182,9 +20162,9 @@ the analytic properties are the same as those for the single particle propagator
 
 148.
 
-## **Exercise**
+**Exercise**
 
-## 1 Show with the aid of (L.
+1 Show with the aid of (L.
 
 17) that the Lorentzian spectral density (L.
 
@@ -20192,7 +20172,7 @@ the analytic properties are the same as those for the single particle propagator
 
 22) (use contour integration).
 
-## ### Appendix M
+# Appendix M
 
 **The Decoupled Equations of Motion for the Green's Function Expressed as a Partial Sum of Feynman Diagrams**
 
@@ -20206,9 +20186,9 @@ We will briefly indicate how this decoupling procedure works
 
 and show that any decoupling is equivalent to a partial sum.
 
-## For details
+# For details
 
-### see Mattuck and Theumann (1971)
+see Mattuck and Theumann (1971)
 
 abbreviated MT.
 
@@ -20218,13 +20198,13 @@ The equation of motion for may be found with the aid of the equation of motion f
 
 Differentiating both sides of (M.
 
-### 1) with respect to any of the times
+1) with respect to any of the times
 
 and using (M.
 
 2) yields an equation of motion expressing in terms of and
 
-## Note that in the expression
+# Note that in the expression
 
 means the number in the set .
 
@@ -20246,13 +20226,13 @@ the usual thing is to express say in the equation for approximately in terms of 
 
 For example, if in (M.
 
-## 4) we set
+4) we set
 
 we have just a single differential equation in the hierarchy
 
 to be solved for .
 
-### Or we could decouple in the form
+# Or we could decouple in the form
 
 in which case there would be two equations in the hierarchy
 
@@ -20266,7 +20246,7 @@ we first re-write the hierarchy (M.
 
 The integral form of the first equation in the hierarchy
 
-## 4) is
+4) is
 
 where .
 
@@ -20282,9 +20262,9 @@ introduced in (13.
 
 7a) may be drawn as follows:
 
-## Similarly
+# Similarly
 
-### the equation in integral form is
+the equation in integral form is
 
 That is, (M.
 
@@ -20294,7 +20274,7 @@ That is, (M.
 
 of which (M.
 
-## 7) is one
+7) is one
 
 and four possible forms of the equation (M.
 
@@ -20304,11 +20284,11 @@ and four possible forms of the equation (M.
 
 Consider now the decoupling (M.
 
-## In diagram form this is
+# In diagram form this is
 
 Placing this in the integral equation of motion (M.
 
-## 7) we find
+7) we find
 
 which is just the self-consistent Hartree-Fock approximation.
 
@@ -20316,7 +20296,7 @@ A similar procedure can be used to reveal the secret meaning of the decoupling o
 
 In diagram form (M.
 
-## 6) is
+6) is
 
 If this is substituted into the ‘fish’ part of (M.
 
@@ -20330,7 +20310,7 @@ This may be distorted into the third diagram of (M.
 
 Substituting this result into the whole equation in (M.
 
-## 8) yields
+8) yields
 
 Iterating (M.
 
@@ -20340,9 +20320,9 @@ etc., generates immediately the following series for
 
 We now follow the usual procedure in the decoupling method and replace the clothed propagators in (M.
 
-## 14) by bare ones
+14) by bare ones
 
-## giving us the ladder sum for
+giving us the ladder sum for
 
 which shows that decoupling (M.
 
@@ -20358,9 +20338,9 @@ See MT, p.
 
 740.
 
-## ### Appendix N
+# Appendix N
 
-### **The Reduced Graph Expansion**
+**The Reduced Graph Expansion**
 
 The reduced graph method originated in quantum field theory where it is called the ‘unitarity expansion’
 
@@ -20368,7 +20348,7 @@ and was first used in many-body theory by J.
 
 Langer (1961, 1962).
 
-## In this brief introduction
+# In this brief introduction
 
 we follow the unpublished notes of U.
 
@@ -20406,13 +20386,13 @@ Let us first consider the reduced graphs for the imaginary part
 
 , of the self-energy
 
-### To introduce the basic concepts
+# To introduce the basic concepts
 
 we will calculate the contribution to the discontinuity from two of the lowest-order self-energy diagrams at finite .
 
 Note that all propagator lines in the diagrams are clothed
 
-### and thespectral representation is used
+and thespectral representation is used
 
 where p(x) is the spectral density.
 
@@ -20420,13 +20400,13 @@ For simplicity,
 
 the interaction is assumed independent of wave number
 
-## and equal to a con-
+and equal to a con-
 
 stant, V
 
 represented diagrammatically by a single point.
 
-## The first diagram is
+# The first diagram is
 
 (we sometimes use the abbreviated notation 1=x₁
 
@@ -20434,51 +20414,49 @@ represented diagrammatically by a single point.
 
 iω,=n, etc.)
 
-### = (-1)^m ∫ d1p(1) ∫ d2p(2) ∫ d3p(3) F(n
+= (-1)^m ∫ d1p(1) ∫ d2p(2) ∫ d3p(3) F(n
 
 1,2,3)
 
-## where
+where
 
-## 1 1 1 1 1
+1 1 1 1 1
 
-, 心 心 — 一 ˇ 一 .
+, 心心 — 一 ˇ 一 .
 
-## 一 一 , N.
+一一 , N.
 
 F(1,2,3) = 5 2 ∑ω 2 aTmHar- Hata
 
 The sum over ωₙ is carried out as in §14.
 
-## 5 and yields
+5 and yields
 
-## 1 □ _ f(ω-ω_n)
+1 □ _ f(ω-ω_n)
 
-## 赋享_
+赋享_
 
-## 一 一 一 一 一 2
+一一一一一 2
 
 iω_n—3+2—iω, (N2)
 
 where we have used f(2 — iω_n + iω)=/(2)
 
-## since 山
+since 山十 w is even.
 
-## 十 w is even.
+# Placing this
 
-## Placing this
-
-## in the sum over ω_n
+in the sum over ω_n
 
 and evaluating this sum by the same technique gives
 
 F(1,2,3) = POLO +2“ 7) ee (N.
 
-## --- Page 413 ---
+--- Page 413 ---
 
-## APPENDICES 397
+# APPENDICES 397
 
-## where we have used that
+where we have used that
 
 S(3—-2+iω_n) = —g(3-—2) = —[e%?
 
@@ -20488,23 +20466,23 @@ S(3—-2+iω_n) = —g(3-—2) = —[e%?
 
 since ω_n is odd.
 
-### Analytically continuing iω_n—>z
+Analytically continuing iω_n—>z
 
-## and juggling the Fermi and
+and juggling the Fermi and
 
-## Bose functions a bit
+# Bose functions a bit
 
-## F may be written in the form
+# F may be written in the form
 
 R(1, 2,3) _ rT LMFA@F(-3)
 
 F(1,2,3) = 54-7" R(1,2,3) = ay (N.
 
-## Hence
+# Hence
 
 EG) = (— DY ∫ d1p(1) | ∫ d2p(2)f ∫ d3p(3) AE.
 
-## The discontinuity
+# The discontinuity
 
 d2, across the real axis is given by (abbreviate § d1p(1)
 
@@ -20512,17 +20490,17 @@ by f.
 
 , ete.
 
-### 62 = 5 EM wi) - 2-1) = J i} J 5F
+62 = 5 EM wi) - 2-1) = J i} J 5F
 
 where, using (3.
 
 76),
 
-## oF = 7 {F(z+iδ)— F(z)}
+oF = 7 {F(z+iδ)— F(z)}
 
-## 一 RUl,2,3) 1 一 1
+一 RUl,2,3) 1 一 1
 
-## 2 142-—3-z-iδ 142-3-z+iδ
+2 142-—3-z-iδ 142-3-z+iδ
 
 = TR(1,2,3) &(1+2—-3-z).
 
@@ -20536,7 +20514,7 @@ where we have used the fact that because of the δ-function
 
 f(z)=f(1 +2—3).
 
-## From this result
+# From this result
 
 we can see that the discontinuity arises from the pole of F
 
@@ -20548,73 +20526,73 @@ directly from the original graph by drawing a dotted line cutting the graph into
 
 two pieces:
 
-## --- Page 414 ---
+--- Page 414 ---
 
-### 398 A GUIDE TO FEYNMAN DIAGRAMS
+398 A GUIDE TO FEYNMAN DIAGRAMS
 
-### and taking particle lines as positive
+and taking particle lines as positive
 
-## holes negative
+holes negative
 
 z=1+2—3.
 
-## Further-
+# Further-
 
 more, note that each particle
 
 p, has a factor f(p)
 
-## and each hole
+and each hole
 
-## A a factor
+# A a factor
 
-## 1 - f(p).
+1 - f(p).
 
-### The —1 is for the fermion loop
+The —1 is for the fermion loop
 
-### and the delta function gives frequency
+and the delta function gives frequency
 
 conservation.
 
-## For the second example
+# For the second example
 
 consider the self-energy diagram given by
 
-## 卫 小 8 一 丿 十 1 一 1
+卫小 8 一丿十 1 一 1
 
 2Zo (ns 丿 =(-1)^zP ∫∫∫∫∫ f(1,2,3,4,5)
 
-## 2345 (N.9)
+2345 (N.9)
 
-## where
+where
 
-## 1 1 1 1
+1 1 1 1
 
 F(1,2,3
 
-4,5) = 五 》 - 一 「 五 》 < 一 一 一 一 一 一
+4,5) = 五》- 一「五》< 一一一一一一
 
 i 辉亭二5 婶辜二2_.
 
-## ' I—s—n+l ©
+' I—s—n+l ©
 
-## 1 1
+1 1
 
-## 5 户 一 . 一 一 一 . N.10
+5 户一 . 一一一 . N.10
 
 yer 3-t—n+l (N.
 
-### Carrying out the frequency sums yields
+# Carrying out the frequency sums yields
 
-## after continuing iω_n—>z
+after continuing iω_n—>z
 
 F(z) = -[f(z-1+5)f(4)-f(z-5+2-1))/( (z-1+5-2)(z-5+4-3)(2-1-4+3)
 
-## This expression has two poles
+# This expression has two poles
 
-### in contrast to the first example
+in contrast to the first example
 
-## where there was
+where there was
 
 just one.
 
@@ -20628,17 +20606,17 @@ both poles lie on the real axis (because 5-2+1
 
 and 5-4+3 are real).
 
-## This
+# This
 
-### means that when the integrals over 1
+means that when the integrals over 1
 
 2, 3, 4
 
 5, are carried out
 
-## these poles give
+these poles give
 
-### rise to ‘overlapping branch cuts’
+rise to ‘overlapping branch cuts’
 
 i.e., branch cuts lying on top of each other
 
@@ -20646,7 +20624,7 @@ on the real axis.
 
 This leads to ambiguities and indeterminate integrals.
 
-## To avoid such ugly things
+# To avoid such ugly things
 
 it is necessary to displace the overlapping cuts
 
@@ -20654,47 +20632,45 @@ from each other.
 
 This is done by adding infinitesimal imaginary parts to the
 
-### in such a way that the first pole
+in such a way that the first pole
 
-## z₁=5-2+1
+z₁=5-2+1
 
-## becomes z₁=z₁+ iδ
+becomes z₁=z₁+ iδ
 
-## second pole
+second pole
 
-## z₂=5-4+3 becomes z₂=z₂+ 2 iδ
+z₂=5-4+3 becomes z₂=z₂+ 2 iδ
 
 etc. When this is done
 
-## --- Page 415 ---
+--- Page 415 ---
 
-## APPENDICES 399
+# APPENDICES 399
 
-## we find
+we find
 
-## |
+|
 
 ; R(z;1,.
 
-### | a 2 扎 李 刑 BaTIz+MWG-4T3rzT 玖 N12)
+| a 2 扎李刑 BaTIz+MWG-4T3rzT 玖 N12)
 
-## where |
+where |
 
 RG; T,.
 
-## 43) = 一 [/(2)- SDILA)-fB)]
+43) = 一 [/(2)- SDILA)-fB)]
 
-## f(5)[2— 1-4 +3 + iδ]+g(2-1)
+f(5)[2— 1-4 +3 + iδ]+g(2-1)
 
 x1 x (5—4+3-—z+2iδ] —g(4—3)[5-2+1-z+iδ) }-
 
-## 31-4434 ˇ 一
+31-4434 ˇ 一
 
 The total discontinuity across all the cuts is given by
 
-## | 「
-
-bE = 5 {F(z +iδ) — F(z -iδ)} = {[∫∫∫ F_or — .
+|「bE = 5 {F(z +iδ) — F(z -iδ)} = {[∫∫∫ F_or — .
 
 12345
 
@@ -20706,7 +20682,7 @@ where we have used that F(z+2iδ - iδ)=F(z +iδ + iδ) since <n and there
 
 are no cuts in between that at z= w+ 2iδ - iδ and that at z=w+in+ iδ8.
 
-## With
+# With
 
 the aid of (N.
 
@@ -20716,17 +20692,17 @@ the aid of (N.
 
 R(z+iδ; 1,.
 
-## FS ABS 241 mts) ee -
+FS ABS 241 mts) ee -
 
-## BP = 9iS— 2410) TA 3+ iy
+BP = 9iS— 2410) TA 3+ iy
 
 R(z+2iδ; 1,.
 
-## +185 —-4+3—w) <a 厂 u 分
++185 —-4+3—w) <a 厂 u 分
 
-## --- Page 416 ---
+--- Page 416 ---
 
-### 400 A GUIDE TO FEYNMAN DIAGRAMS
+400 A GUIDE TO FEYNMAN DIAGRAMS
 
 Placing the expression for R in (N.
 
@@ -20734,7 +20710,7 @@ Placing the expression for R in (N.
 
 16), simplifying with the aid of
 
-## the δ-functions
+the δ-functions
 
 and placing the result for ∂F into (N.
 
@@ -20742,15 +20718,15 @@ and placing the result for ∂F into (N.
 
 bE = af-to) [∫∫∫ δ(5-24 1— a (- DSS (-2)
 
-## {0)-f4) - d
+{0)-f4) - d
 
-### U3 4-C<5- +nV3f ‘wo ∫∫∫ δ(6 4+3-w)
+U3 4-C<5- +nV3f ‘wo ∫∫∫ δ(6 4+3-w)
 
-## =F)
+=F)
 
 x(-1)yye^y(-9 ff Oe.
 
-## (N17)
+(N17)
 
 We can now extend the rules used to get (N.
 
@@ -20760,7 +20736,7 @@ and use these extended rules to get (N.
 
 17) directly from graphs.
 
-## This is done
+# This is done
 
 as follows: We cut graph (N.
 
@@ -20774,13 +20750,13 @@ where A and B are called ‘endpieces’ and the set of particle and hole lines 
 
 by the dotted line are called the ‘intermediate state’.
 
-## Such graphs are called
+# Such graphs are called
 
 ‘reduced graphs’.
 
 We sce that the two terms in (N.
 
-## 17) can be obtained from
+17) can be obtained from
 
 the reduced graphs in (N.
 
@@ -20794,23 +20770,23 @@ ordinary Feynman diagram.
 
 18a), the endpiece A
 
-## gives just a factor V
+gives just a factor V
 
 while endpiece B produces V?
 
-## times the double
+times the double
 
 integral over 3 and 4 in the first term of (N.
 
 17).
 
-## --- Page 417 ---
+--- Page 417 ---
 
-## APPENDICES 401
+# APPENDICES 401
 
 (2) A factor f(x_i) for each particle in the intermediate state
 
-## and 1 - f(x_i) for
+and 1 - f(x_i) for
 
 each hole.
 
@@ -20826,9 +20802,9 @@ the endpieces.
 
 In the case of a general Feynman diagram
 
-### to find its contribution to the
+to find its contribution to the
 
-### imaginary part of the self energy
+imaginary part of the self energy
 
 ImΣ, we first separate it into two pieces in all
 
@@ -20842,17 +20818,17 @@ with z particles in the intermediate state
 
 and n—1 holes.
 
-## The contribution of
+# The contribution of
 
 each of these reduced diagrams to ImΣ is given by the rules in (N.
 
 20).
 
-## Finally
+# Finally
 
 to get the reduced graph expansion for the imaginary part of the self-
 
-## energy
+energy
 
 we decompose every Feynman diagram into a sum of reduced graphs
 
@@ -20860,9 +20836,9 @@ and regroup all the resulting reduced graphs according to the number of lines in
 
 the intermediate states.
 
-## This yields
+# This yields
 
-## m-@>=-~G—O- + E>- $e (N22)
+m-@>=-~G—O- + E>- $e (N22)
 
 where the endpieces are the sum over all possible Feynman diagrams with the
 
@@ -20874,69 +20850,69 @@ A similar expansion exists for the imaginary part of the scattering amplitude
 
 and also for the higher-order field theoretic quantities
 
-## with many particles
+with many particles
 
 entering and leaving.
 
-## --- Page 418 ---
+--- Page 418 ---
 
-## Answers to Exercises
+# Answers to Exercises
 
-## Chapter 2
+# Chapter 2
 
-## F2
+F2
 
-## r r
+r r
 
-## 园 门 2 2
+园门 2 2
 
-## 巳 + + + + + +
+巳 + + + + + +
 
-## in mn 日 门
+in mn 日门
 
-## ry
+ry
 
 + + + +--+; 2° diagrams in nth order
 
-## 2 P(r1
+2 P(r1
 
-## r0) = P0(r1
+r0) = P0(r1
 
-## r0)+ P1(r1
+r0)+ P1(r1
 
-## r0) P2(r1
+r0) P2(r1
 
-## r0)+ P3(r1
+r0)+ P3(r1
 
 r0)+.
 
-## 3 P(r1
+3 P(r1
 
 r) = c+ c2[P(r)+P(0)]+ c3[P(r2)+P(r)P(0)+P(0)P(r)+P(02)]+c4.
 
 = ed+ elP(r)+P(0)]+ etp(r)+P(0F+.
 
-## ) = aE Sey
+) = aE Sey
 
-## 2.4 P(r1;r) = meso
+# 2.4 P(r1;r) = meso
 
-## --- Page 419 ---
+--- Page 419 ---
 
-## ANSWERS TO EXERCISES 403
+# ANSWERS TO EXERCISES 403
 
-## Chapter 3
+# Chapter 3
 
-## 2 , [anx wr?
+2 , [anx wr?
 
-### 3.1 A = /2sin(2): a= soa as 1,253) 0+.
+# 3.1 A = /2sin(2): a= soa as 1,253) 0+.
 
-## G(t) = — Bryan] -i( Joe]
+G(t) = — Bryan] -i( Joe]
 
-## wn l
+wn l
 
 GC6On 志 ) = [(l′_ "+i ,
 
-## 3.2 We have
+# 3.2 We have
 
 H = p?
 
@@ -20948,71 +20924,71 @@ thus:
 
 Van = f dx 2(x) B(p?
 
-## /2m-+U)) $2)
+/2m-+U)) $2)
 
 uu ,—~
 
-## 2 3
+2 3
 
-## = 钊枷 ) 35
+= 钊枷 ) 35
 
-## 2ma7
+2ma7
 
-### 3 The diagram series here has just the form (3.
+3 The diagram series here has just the form (3.
 
-### 33) except that the x is replaced
+33) except that the x is replaced
 
 by =.
 
-## The diagram is equal to
+# The diagram is equal to
 
 and the directed lines are just the propagators of Ex.
 
-## Thus
+# Thus
 
-## re 1
+re 1
 
 G*(n, w) = ′
 
 (i) 2ma?
 
-## 6~B(=") |
+6~B(=") |
 
-## 7 nt mw n? 3
+7 nt mw n? 3
 
-## 3.4 a= +2(=*) + Tr = %,
-
-2ma?
+# 3.4 a= +2(=*) + Tr = %,
 
 2ma?
 
-## 3.5 See Eq. (2.23).
+2ma?
 
-## 3.7 U a 5 m* = ml ae
+# 3.5 See Eq. (2.23).
+
+# 3.7 U a 5 m* = ml ae
 
 se (3.
 
 吴 9 Gee :
 
-### (iQ) G5(s) G8(k) 三 G5(r) G3(q) C5(p)
+(iQ) G5(s) G8(k) 三 G5(r) G3(q) C5(p)
 
-### OX 历 0 Woe Wie We = E > else ep-k) Ry
+OX 历 0 Woe Wie We = E > else ep-k) Ry
 
-## dp dq
+dp dq
 
 iosaey (% y B 丿 G GSO) n Way Wire Wop Bae
 
-## --- Page 420 ---
+--- Page 420 ---
 
-### 404 A GUIDE TO FEYNMAN DIAGRAMS
+404 A GUIDE TO FEYNMAN DIAGRAMS
 
-## Chapter 4
+# Chapter 4
 
-## 4.1 -k.
+# 4.1 -k.
 
-## 4.2 (a) 0.
+# 4.2 (a) 0.
 
-传 班 18.
+传班 18.
 
 (9 cfe,11111000.
 
@@ -21024,103 +21000,103 @@ Hence 5 e, cf. cy]1 1111000.
 
 ) =(e, +€2+ 3+ €4+ €5)[11111000.
 
-## 3 Equation (4.
+3 Equation (4.
 
-## 39) with extra term
+39) with extra term
 
-## — | Vxi|2 (w — e
+— | Vxi|2 (w — e
 
 + 囱 - in denominator.
 
-### 4.4 See (9.33, 4) and after (9.32).
+# 4.4 See (9.33, 4) and after (9.32).
 
-## (k-(p+q)]
+(k-(p+q)]
 
 (6) Energy is not conserved:
 
 k2/2m + p^2/2m ≠ (k-q)^2/2m + (p+q)^2/2m
 
-### 4.6 [iG0(k,w)]^2 x F(k,w) where:
+# 4.6 [iG0(k,w)]^2 x F(k,w) where:
 
 F(k,w) = > [$f Prcta-a0-ox(-i792
 
-## ad
+ad
 
 x(—1) x iG0( +4, B+ €) x IGG, B)
 
 A function of k and ,
 
-### 7 By conservation of momentum and frequency
+7 By conservation of momentum and frequency
 
-### the directed line joining the two
+the directed line joining the two
 
 parts must have the label k,w.
 
 The result then follows immediately.
 
-## 8 See (10.
+8 See (10.
 
 5), together with (4.
 
 76, 77) and F(k,w) in Ex.
 
-## - 中 ( 闭 东 扬 口
+- 中 ( 闭东扬口
 
-## --- Page 421 ---
+--- Page 421 ---
 
-## ANSWERS TO EXERCISES 405
+# ANSWERS TO EXERCISES 405
 
 G5(q,) 4G6(p,o)
 
-## I-A] 2 Go(w) + > cain)
+I-A] 2 Go(w) + > cain)
 
-## t>kp m<kp
+t>kp m<kp
 
 or G*(q,p,ω) = G5(p,w) 5 十
 
 ) AfpSa Go (P,)
 
-## I-A] 5 Gio) f7+ > cut
+I-A] 5 Gio) f7+ > cut
 
-## 1>hkF m<kp
+1>hkF m<kp
 
 (b) G*(q,p,ω) = G3 (pw) 5 十
 
-## Chapter 5
+# Chapter 5
 
-## 1 《 1 1
+1《1 1
 
-### 1 — f dts fats [ dts f dy D iGip
+1 — f dts fats [ dts f dy D iGip
 
-## 5-4) x (=i) Vy
+5-4) x (=i) Vy
 
 x IGG, t 一 )
 
-## D 5 D 0 P
+# D 5 D 0 P
 
-## >y>h>h
+>y>h>h
 
-## X (=i) Vay * IGG
+X (=i) Vay * IGG
 
-## ta 2) x (— 1) Vig x IGG
+ta 2) x (— 1) Vig x IGG
 
 yt) x (- Vy.
 
-## 5.2 (a) Equivalent.
+# 5.2 (a) Equivalent.
 
 (b) Distinct.
 
 (c) Distinct.
 
-### 3 The diagrams are exactly the same as in (5.
+3 The diagrams are exactly the same as in (5.
 
 12, 13) except that all 1-s are
 
-## replaced by m
+replaced by m
 
-## where m is such that €n< €k
+where m is such that €n< €k
 
-### e being the Fermi energy of the
+e being the Fermi energy of the
 
 system.
 
@@ -21128,11 +21104,11 @@ system.
 
 which is impossible.
 
-## Chapter 7
+# Chapter 7
 
-## 7.1 (—1)|0010100...>. ^
+# 7.1 (—1)|0010100...>. ^
 
-## 2 (A*<100.
+2 (A*<100.
 
 ]+B*<11100.
 
@@ -21142,55 +21118,55 @@ which is impossible.
 
 >)=A2+3B2,
 
-### 73 c cl|¥>+ch cy|Y>= —Al0100...>+A]0100...>=0.
+73 c cl|¥>+ch cy|Y>= —Al0100...>+A]0100...>=0.
 
-## 4 Using (7.
+4 Using (7.
 
 47) and the 6 from the answer to Ex.
 
 1, gives
 
-## - +
+- +
 
 Ho = (Fe) e+e.
 
-## 5 Using (7.
+5 Using (7.
 
 50) plus the answer to Ex.
 
-## 2 yields
+2 yields
 
 2J 3 wn?
 
-浩 医 疫 .
+浩医疫 .
 
-### Aa 3a(3 5) Ban Ch Cu za( 3) Chen
+Aa 3a(3 5) Ban Ch Cu za( 3) Chen
 
-### 7.6 Using (7.69), (7.697, yields:
+# 7.6 Using (7.69), (7.697, yields:
 
-## A
+A
 
 厂 nn = otk +1,m+n)
 
 Hence, |
 
-## A
+A
 
 yeaa D cli cctigenn:
 
-## mn
+mn
 
-## --- Page 422 ---
+--- Page 422 ---
 
-### 406 A GUIDE TO FEYNMAN DIAGRAMS
+406 A GUIDE TO FEYNMAN DIAGRAMS
 
-## WA
+WA
 
 S3°= > <kolS,|lo> che cre,
 
 to, fa’
 
-## where
+where
 
 <ko|Sz{lo’> = 84:<0|S,|0">.
 
@@ -21202,7 +21178,7 @@ Using appendix (K.
 
 ]o"> = 27 (Sse) = +200) 1 (y) = 480, <0
 
-## Hence
+# Hence
 
 S2°=4 五 88,.
 
@@ -21210,129 +21186,127 @@ cet = 45 Ick, Cy teh Cay).
 
 ho, to’ 0
 
-## Chapter 8
+# Chapter 8
 
-## a fen K fostemRC-iyac-DC-
+a fen K fostemRC-iyac-DC-
 
-## er] k [iCaQeJP(-Ioa(-L
+er] k [iCaQeJP(-Ioa(-L
 
 kph,
 
 The second pair of diagrams cancels in a similar way.
 
-## a Booster Berg HE
+a Booster Berg HE
 
-### & > oy 0-03 — On *% Om" P 心 om
+& > oy 0-03 — On *% Om" P 心 om
 
 te _ 025k ke)?
 
 _ gag (Kika!
 
-## E 如 一 妮 kikp+if
+E 如一妮 kikp+if
 
 This ratio is small (< 0.
 
 1) provided k/kF < 2.
 
-## Chapter 9
+# Chapter 9
 
-### 9.1 (—1) x (—1) x cf(4g) cfs) c(t).
+# 9.1 (—1) x (—1) x cf(4g) cfs) c(t).
 
-## 9.5 (a) and (c).
+# 9.5 (a) and (c).
 
 k,w | k-(p+q),ω-(ε_k-ε_F)
 
-## p+q
+p+q
 
-## ε_k-ε_F
+ε_k-ε_F
 
 k-q p 一 [iCok, w)}?
 
-## fa Gn a AE a
+fa Gn a AE a
 
-### one x(-1PJ(-1Pe--0xiGotk-d 口 一 日
+one x(-1PJ(-1Pe--0xiGotk-d 口一日
 
 k 志 f qe x 1Go(p, β)x iGlp+a, β +ε).
 
-### 9.9 Because they violate rule (2) in §9.6.
+# 9.9 Because they violate rule (2) in §9.6.
 
-## --- Page 423 ---
+--- Page 423 ---
 
-## ANSWERS TO EXERCISES 407
+# ANSWERS TO EXERCISES 407
 
-## Chapter 10
+# Chapter 10
 
-### 1 5, c are self-energy a b is proper
+1 5, c are self-energy a b is proper
 
 c improper.
 
-## ka i i @ o
+ka i i @ o
 
-## 10.2 山 一 一 山 十
+# 10.2 山一一山十
 
-## ky
+ky
 
 iG(k1, ky
 
-## ω) = iGo(k1
+ω) = iGo(k1
 
-## ω) — 1Go(k1
+ω) — 1Go(k1
 
-## ω) S(k2) x [ 一 F x IG(Uk 1
+ω) S(k2) x [ 一 F x IG(Uk 1
 
-## dum
+dum
 
-## 10.3 See (4.96).
+# 10.3 See (4.96).
 
-### 10.4 Using (10.21), with Vq= A, we find
+# 10.4 Using (10.21), with Vq= A, we find
 
-## a a3 pde
+a a3 pde
 
-## “Qa
+“Qa
 
 as can be verified by substitution in (10.
 
 21).
 
-### 5 a, d are polarization parts.
+5 a, d are polarization parts.
 
 a is proper, d improper.
 
-## k 心 9
+k 心 9
 
-## 7 心 一
+7 心一
 
-## Onde
+# Onde
 
-## B+w * eq
+B+w * eq
 
-## 7 十 人
+7 十人
 
 K(q,w) = a[t-ai = Go(p, -) Gi(q-p, w -o|
 
 —in(q, wv) = —ino(q, w)
 
-## dik’ ak
+dik’ ak
 
 Gay a ale iGo(k’, y’) x iGo(k, y)
 
-## x IGo(k+ qy + w) x IGo(k’ + q
+x IGo(k+ qy + w) x IGo(k’ + q
 
-## y’ + w) x (—i) K(k’
+y’ + w) x (—i) K(k’
 
 y’,k, y
 
 (factor of 4 for sum over spins).
 
-### 10.7 (a) K(pi ε’,p,ε; q,ω) = Auvμ[1—Al(q,w)]}*,
+# 10.7 (a) K(pi ε’,p,ε; q,ω) = Auvμ[1—Al(q,w)]}*,
 
-## nt tee
+nt tee『d* p’ de
 
-## 『 d* p’ de
+(2my
 
-## (2my
-
-## where 1(q
+where 1(q
 
 w) = i | Go(p", ε”) Go(q—p”, w— ε”) u2-
 
@@ -21342,11 +21316,11 @@ w) = i | Go(p", ε”) Go(q—p”, w— ε”) u2-
 
 (c) 17(0,0) 2 (w—kr); 77(0,0) a?
 
-## --- Page 424 ---
+--- Page 424 ---
 
-### 408 A GUIDE TO FEYNMAN DIAGRAMS
+408 A GUIDE TO FEYNMAN DIAGRAMS
 
-## (d) At low density
+(d) At low density
 
 kF a<1 (see beginning of §10.
 
@@ -21356,11 +21330,11 @@ Fourier transforming shows V(r) has range ~1/w
 
 so a~1/w.
 
-## Hence
+# Hence
 
 kF <w, which means |/*+(0,0)| > Z-(0,0).
 
-## E
+E
 
 8 KE = mL^2 for two non-interacting electrons in ground state in a three-
 
@@ -21372,29 +21346,29 @@ From (10.
 
 24), L~2aor.
 
-## Hence
+# Hence
 
-## 2 2 E
+2 2 E
 
-### 10.9 Forg<2; Vore(q, 0) (42e7/k) FE +q? (: 一 _)二_
+# 10.9 Forg<2; Vore(q, 0) (42e7/k) FE +q? (: 一 _)二_
 
-## Fi
+Fi
 
-## 4xy yt
+4xy yt
 
 For q>2: Vq areane) a3 a |
 
-## 一
+一
 
 atg = 2: - +
 
-g 一 2: 一 一 二 十 心
+g 一 2: 一一二十心
 
-## dq
+dq
 
-## Chapter 11
+# Chapter 11
 
-### 1 Diagram (6) should not be included
+1 Diagram (6) should not be included
 
 since it is already included in diagram 4
 
@@ -21402,119 +21376,117 @@ of (11.
 
 None of them should be in (11.
 
-### 5) since (a) and (6) are already
+5) since (a) and (6) are already
 
 included in the third diagram on the right of (11.
 
-## 5) and (c) is included in the
+5) and (c) is included in the
 
 second diagram on the right of (11.
 
-### 11.2 G(k,w) as in (11.21) with Z = @(1—A)~',
+# 11.2 G(k,w) as in (11.21) with Z = @(1—A)~',
 
-### Z _ r sgn a(1- 切 - 门 B[a(1- 小 -
+Z _ r sgn a(1- 切 - 门 B[a(1- 小 -
 
 x 二 (1 一 te.
 
-## G 切
+G 切
 
 now) SPV, if dp gion
 
 + 十 q ?
 
-## =-1 want Hie —
+=-1 want Hie —
 
-## 1B | 心 2a Pel +i(B—p)5
+1B | 心 2a Pel +i(B—p)5
 
 Poles are at w= };—i(¢;—j)5.
 
 Close contour in upper half B-plane.
 
-## By residue
+# By residue
 
-## theorem
+theorem
 
 f dB=0 for di> and = +/ for ei< from which the result follows
 
 immediately.
 
-## --- Page 425 ---
+--- Page 425 ---
 
-## ANSWERS TO EXERCISES 409
+# ANSWERS TO EXERCISES 409
 
-## Chapter 12
+# Chapter 12
 
-## = > (-DX- 1 ¥3——
+= > (-DX- 1 ¥3——
 
-## rar © expat ~~ E140)
+rar © expat ~~ E140)
 
-x 一 一 一 一 一 一 。
+x 一一一一一一。(Emtat €1— €m— E14)
 
-## (Emtat €1— €m— E14)
+3 The first diagram is given in (12.
 
-### 3 The first diagram is given in (12.
+# The second is
 
-## The second is
+q
 
-## q
+=(-' > at oA
 
-## =(-' > at oA
-
-## P (Ek 十 5 一 Ek+a 一 <ie)
+P (Ek 十 5 一 Ek+a 一 <ie)
 
 The diagram with n bubbles contains the factor in brackets to the nth power.
 
 Hence we have a geometric series which may be summed to yield
 
-## 一 王 12 v2
+一王 12 v2
 
-## é= ory | are i
+é= ory | are i
 
-Sy Mea F Erm Ente Ee k 十 ( 十 闵 一 Ek+a 一 e
+Sy Mea F Erm Ente Ee k 十 ( 十闵一 Ek+a 一 e
 
-## where 月 二 二 Vimim-
+where 月二二 Vimim-
 
-## 网 一 k
+网一 k
 
-## (ex 十 < 一 Ek+a 一 5iLa)
+(ex 十 < 一 Ek+a 一 5iLa)
 
-## Chapter 13
+# Chapter 13
 
-## --- Page 426 ---
+--- Page 426 ---
 
-### 410 A GUIDE TO FEYNMAN DIAGRAMS
+410 A GUIDE TO FEYNMAN DIAGRAMS
 
 00-109
 
 (c) Substituting for 4 from Ex.
 
-## 2 yields (a).
+2 yields (a).
 
-## 13.7 We have
+# 13.7 We have
 
-## f— were cc
+f— were cc
 
-## 一 iGz(4
+一 iGz(4
 
 3,2,1) = —<O]T{y(4) $*(3) (2) (1) 10> — <0] T (6(4) (3) 44(2) (10>
 
-## = iGo(4
+= iGo(4
 
-## 1) x 1Go(2
+1) x 1Go(2
 
-## 3) — iGo(4
+3) — iGo(4
 
-## 3) x 1Go(2
+3) x 1Go(2
 
 which may immediately be translated into the zeroth-order diagrams of (13.
 
-## Chapter 14
+# Chapter 14
 
-## 14.1 【 菩〕 丿丶′′馨-螭【屡'-′二萱 inZ
+# 14.1【菩〕丿丶′′馨-螭【屡'-′二萱 inZ
 
-## = erento 3 一
+= erento 3 一
 
-### 14.2 By (14.12), inZ = h In (1+e),
+# 14.2 By (14.12), inZ = h In (1+e),
 
 Hence N = Dd (et?
 
@@ -21522,57 +21494,53 @@ Hence N = Dd (et?
 
 1)-1,
 
-## D
+D
 
 kw, ε_n
 
-## k-q p+q
+k-q p+q
 
 = (+1 ok, w
 
-## Wn 一 Em By 十 E 1 +0
+Wn 一 Em By 十 E 1 +0
 
 k, wn > > iDok—G, w,—€n)
 
-## . mln —
+. mln —
 
 1Go(p, ω x iFo(p+4.
 
-## 士 + <m
+士 + <m
 
-## x( 一 2
+x( 一 2
 
-## --- Page 427 ---
+--- Page 427 ---
 
-## ANSWERS TO EXERCISES 411
+# ANSWERS TO EXERCISES 411
 
-## Chapter 15
+# Chapter 15
 
-## 1 23 «
+1 23 «
 
-bb, |%o> = 23 ne Chy Cay Ching Cg lens Meg one Ming (= h 仪 小
+bb, |%o> = 23 ne Chy Cay Ching Cg lens Meg one Ming (= h 仪小
 
-## - 23 Mey M4 y| Pod
+- 23 Mey M4 y| Pod
 
 = 2D emg |Po> (Since nx1 = ny, 二 0 or 1)
 
-## 人
+人怡票 Ek | 东 02.
 
-怡 票 Ek | 东 02.
+2 [ogy of] = ty e[cect 吴刀一砂 pe[ceh c 一 .
 
-### 2 [ogy of] = ty e[cect 吴 刀 一 砂 pe[ceh c 一 .
+CC,。= Selly e 十 Dk Ve] = n
 
-CC, 。
+# 15.3 E = Eyt+£,,+2E,,.
 
-## = Selly e 十 Dk Ve] = n
+1 0
 
-## 15.3 E = Eyt+£,,+2E,,.
+5 > exch
 
-## 1 0
-
-## 5 > exch
-
-ead(4 _ 】)( q′) ~ XD «lchs Capt ery Cix)— x eke
+ead(4 _】)( q′) ~ XD «lchs Capt ery Cix)— x eke
 
 chy,
 
@@ -21580,23 +21548,23 @@ k,w vo 2
 
 : BB iy [icoc,4)]
 
-ae - 口 爬门崛m)Tr[r，x 懈(kg…′)〕倒灬'
+ae - 口爬门崛m)Tr[r，x 懈(kg…′)〕倒灬'
 
 F(k,0*) 二 —i<Polcxy c-24|Yo>
 
-## XV 1—v3<$|¢> = Y1 一 垮
+XV 1—v3<$|¢> = Y1 一垮
 
-## where |4>=I] (uu+Db1)|02
+where |4>=I] (uu+Db1)|02
 
-## In normal state
+# In normal state
 
 Dx==1 一 0 so F=0.
 
-## In super-
+# In super-
 
 conducting state F 八 0.
 
-## Chapter 17
+# Chapter 17
 
 1 (5) Let T be the global gauge transformation operator.
 
@@ -21606,17 +21574,17 @@ so THT-'T|%o>=EoT|¥o>.
 
 But, by 17.
 
-## 1 (a), THT-'=H.
+1 (a), THT-'=H.
 
-## Hence HT|%o>=
+Hence HT|%o>=
 
 EoT|¥o>.
 
 But since |'¥o> is non-degenerate, this means 7|¥%>=|%o>, Q.
 
-## Appendix sf
+# Appendix sf
 
-## 1 We have:
+1 We have:
 
 ty sah tes: = =
 
@@ -21626,35 +21594,35 @@ ty sah tes: = =
 
 b, ImhV (a
 
-## ImhV(@
+ImhV(@
 
-0,) 7 乡 ] 十 万 adc [FU]
+0,) 7 乡 ] 十万 adc [FU]
 
-- 顶 ^/ '二′青 My, u]+ 殆 Y 石 矶 [&o Ue.
+- 顶 ^/ '二′青 My, u]+ 殆 Y 石矶 [&o Ue.
 
-## --- Page 428 ---
+--- Page 428 ---
 
-### 412 A GUIDE TO FEYNMAN DIAGRAMS
+412 A GUIDE TO FEYNMAN DIAGRAMS
 
 sa 1 32) yields (0.
 
 37a) immediately.
 
-## 33 ee Oh Pre.
+33 ee Oh Pre.
 
-## Por = Yor
+Por = Yor
 
-## V4) Yaa Pores = Y( Hou
+V4) Yaa Pores = Y( Hou
 
 tess Onn.
 
 © vO) VS) V(2) Pq, ders 0e0- 0,05.
 
-## 6 Five phonons.
+6 Five phonons.
 
-## 7 下 二 二 一 hw, + 2hw,,+ 3hw,,.
+7 下二二一 hw, + 2hw,,+ 3hw,,.
 
-## Appendix C
+# Appendix C
 
 3, G.
 
@@ -21662,43 +21630,43 @@ tess Onn.
 
 (omit time for brevity):
 
-## ky
+ky
 
-## mr 1
+mr 1
 
-′【茎__(_′【'′lIl'′ll〈 _蘑′】【'薹 ban btay,|0> = oc}
+′【茎__(_′【'′lIl'′ll〈_蘑′】【'薹 ban btay,|0> = oc}
 
-## kik
+kik
 
-## mmm m ks
+mmm m ks
 
 > (iV eta) <Olas, 4} b 夜 an aj,|0> 与 n
 
-## Rima k ki
+# Rima k ki
 
-## 广 一 m7 k
+广一 m7 k
 
 2, Marna) 014,21 4h Bi ah |0> = Oy n"
 
-## ke hn
+ke hn
 
 (Mama) Olt, br 083 ,)0) = k ore
 
-## co kt 7
+co kt 7
 
-广 一 k.
+广一 k.
 
 忍 ( 一 1J <0, br, BE BE ah, 10) = ty OO
 
-## 1 kk n
+1 kk n
 
 12, (ttm) a,b, BS DY a, (0) = hE
 
-## Appendix H
+# Appendix H
 
-## H3 闹
+H3 闹
 
-(@) un 二 55 ey [ 吴 + 尽 十 砂 ],(m = 0.
+(@) un 二 55 ey [ 吴 + 尽十砂 ],(m = 0.
 
 1,2,.
 
@@ -21706,9 +21674,9 @@ tess Onn.
 
 , f (build-up) 二 2m*L7/h
 
-## --- Page 429 ---
+--- Page 429 ---
 
-## ANSWERS TO EXERCISES 413
+# ANSWERS TO EXERCISES 413
 
 / h (3x?
 
@@ -21718,7 +21686,7 @@ Abrikosov, A.
 
 , ‘Electron Scattering on Magnetic Impurities in Metals’
 
-## Physics
+# Physics
 
 2, 5 (1965).
 
@@ -21726,9 +21694,9 @@ Abrikosov, A.
 
 (with A.
 
-## Migdal)
+Migdal)
 
-### ‘On the Theory of the Kondo Effect’
+‘On the Theory of the Kondo Effect’
 
 Low Temp.
 
@@ -21742,11 +21710,11 @@ Abrikosov, A.
 
 Gorkov and I.
 
-## Dzyaloshinski)
+Dzyaloshinski)
 
 Quantum Field Theoretical Methods in Statistical Physics
 
-## Pergamon Press
+# Pergamon Press
 
 Oxford (1965).
 
@@ -21756,7 +21724,7 @@ Ambegaokar, V.
 
 in Astrophysics and the Many‑Body Problem
 
-## 1962 Brandeis Lectures
+1962 Brandeis Lectures
 
 Vol.
 
@@ -21768,7 +21736,7 @@ Anderson, P.
 
 , Concepts in Solids
 
-## Benjamin
+# Benjamin
 
 New York (1963).
 
@@ -21776,9 +21744,9 @@ Anderson, P.
 
 (with W.
 
-## Brinkman)
+Brinkman)
 
-### ‘Anisotropic Superfluidity in 3He
+‘Anisotropic Superfluidity in 3He
 
 A possible interpretation of its stability as a Spin Fluctuation Effect’
 
@@ -21806,13 +21774,13 @@ Pethick, D.
 
 Pines, M.
 
-## Ruderman)
+Ruderman)
 
-## ‘Spin Up in Neutron Stars
+‘Spin Up in Neutron Stars
 
-### the Future of the Vela Pulsar’
+the Future of the Vela Pulsar’
 
-## Nature
+# Nature
 
 224, 872 (1969).
 
@@ -21820,15 +21788,15 @@ Beeby, J.
 
 , ‘Electrons in Disordered Systems’
 
-### in Lectures on the Many‑Body Problem
+in Lectures on the Many‑Body Problem
 
 Vol.
 
 2, Ed.
 
-## Caianiello
+# Caianiello
 
-## Academic Press
+# Academic Press
 
 New York (1964).
 
@@ -21836,9 +21804,9 @@ Beliaev, S.
 
 , ‘Introduction to the Bogoliubov Canonical Transformation Method’
 
-### 343 of The Many‑Body Problem (Les Houches)
+343 of The Many‑Body Problem (Les Houches)
 
-## Wiley‑Dunod
+Wiley‑Dunod
 
 New York—Paris (1959).
 
@@ -21846,11 +21814,11 @@ Bjorken, J.
 
 (with S.
 
-## Drell)
+Drell)
 
-### Relativistic Quantum Mechanics
+# Relativistic Quantum Mechanics
 
-## McGraw‑Hill
+McGraw‑Hill
 
 New York (1964).
 
@@ -21858,39 +21826,39 @@ Bjorken, J.
 
 (with S.
 
-## Drell)
+Drell)
 
-## Relativistic Quantum Fields
+# Relativistic Quantum Fields
 
-## McGraw‑Hill
+McGraw‑Hill
 
 New York (1965).
 
-## --- Page 431 ---
+--- Page 431 ---
 
-## (C)
+(C)
 
-## (T)
+(T)
 
-## (T)
+(T)
 
-## (1)
+(1)
 
-## (R)
+(R)
 
-## (T)
+(T)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## REFERENCES 415
+# REFERENCES 415
 
 Bloch, C.
 
 , ‘General Perturbation Formalism for the Many‑Body Problem at Nonzero Temperatures’
 
-### in Lectures on the Many‑Body Problem
+in Lectures on the Many‑Body Problem
 
 Vol.
 
@@ -21898,9 +21866,9 @@ Vol.
 
 31, Ed.
 
-## Caianiello
+# Caianiello
 
-## Academic Press
+# Academic Press
 
 New York (1962).
 
@@ -21908,13 +21876,13 @@ Bogoliubov, N.
 
 (with D.
 
-## Shirkov)
+Shirkov)
 
 Introduction to the Theory of Quantized Fields
 
-## Chapter VIII
+# Chapter VIII
 
-## Interscience
+# Interscience
 
 New York (1959).
 
@@ -21924,7 +21892,7 @@ Bohr, A.
 
 Mottelson, D.
 
-## Pines)
+Pines)
 
 ‘Possible Analogy Between the Excitation Spectra of Nuclei and those of the Superconducting Metallic State
 
@@ -21938,13 +21906,13 @@ Bohr, A.
 
 (with B.
 
-## Mottelson)
+Mottelson)
 
-## Nuclear Structure
+# Nuclear Structure
 
 vol. 1
 
-## Benjamin
+# Benjamin
 
 New York (1969).
 
@@ -21952,11 +21920,11 @@ Bonch Bruevich, V.
 
 (with S.
 
-## Tyablikov)
+Tyablikov)
 
 The Green Function Method in Statistical Mechanics
 
-## North‑Holland
+North‑Holland
 
 Amsterdam (1962).
 
@@ -21964,9 +21932,9 @@ Brout, R.
 
 (with P.
 
-## Carruthers)
+Carruthers)
 
-### Lectures on the Many Electron Problem
+# Lectures on the Many Electron Problem
 
 Wiley, New York (1963).
 
@@ -21974,7 +21942,7 @@ Brout, R.
 
 , Phase Transitions
 
-## Benjamin
+# Benjamin
 
 New York (1965).
 
@@ -22002,9 +21970,9 @@ in Nuclear Physics (Proc.
 
 Int.
 
-## School of Physics
+# School of Physics
 
-## Varenna—course 23)
+Varenna—course 23)
 
 99, Academic Press, New York (1963).
 
@@ -22012,7 +21980,7 @@ Cheung, C.
 
 (with R.
 
-## Mattuck)
+Mattuck)
 
 ‘Removing the Divergence at the Kondo Temperature by means of Self‑consistent Perturbation Theory’
 
@@ -22026,7 +21994,7 @@ Daniel, E.
 
 (with S.
 
-## Vosko)
+Vosko)
 
 ‘Momentum Distribution of an Interacting Electron Gas’
 
@@ -22040,11 +22008,11 @@ Dennery, P.
 
 (with A.
 
-## Krzywicki)
+Krzywicki)
 
-## Mathematics for Physicists
+# Mathematics for Physicists
 
-## Harper & Row
+# Harper & Row
 
 New York (1967).
 
@@ -22052,11 +22020,11 @@ Dicke, R.
 
 (with J.
 
-## Wittke)
+Wittke)
 
-### Introduction to Quantum Mechanics
+# Introduction to Quantum Mechanics
 
-## Addison‑Wesley
+Addison‑Wesley
 
 Reading (1960).
 
@@ -22074,7 +22042,7 @@ Falicov, L.
 
 (with V.
 
-## Heine)
+Heine)
 
 ‘The Many‑Body Theory of Electrons in Metals or Has a Metal Really Got a Fermi Surface?
 
@@ -22092,31 +22060,31 @@ in The Many‑Body Problem (Bergen School Lectures)
 
 Fronsdal, Benjamin, New York (1962).
 
-## --- Page 432 ---
+--- Page 432 ---
 
-## (1)
+(1)
 
-## (©)
+(©)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## A GUIDE TO FEYNMAN DIAGRAMS
+# A GUIDE TO FEYNMAN DIAGRAMS
 
 Fetter, A.
 
 (with J.
 
-## Walecka)
+Walecka)
 
-### Quantum Theory of Many‑Particle Systems
+Quantum Theory of Many‑Particle Systems
 
-## McGraw‑Hill
+McGraw‑Hill
 
 New York (1971).
 
@@ -22124,7 +22092,7 @@ Feynman, R.
 
 , Quantum Electrodynamics
 
-## Benjamin
+# Benjamin
 
 New York (1962).
 
@@ -22132,11 +22100,11 @@ Feynman, R.
 
 (with A.
 
-## Hibbs)
+Hibbs)
 
-### Quantum Mechanics and Path Integrals
+# Quantum Mechanics and Path Integrals
 
-## McGraw‑Hill
+McGraw‑Hill
 
 New York (1965).
 
@@ -22144,7 +22112,7 @@ Fishlock, T.
 
 (with J.
 
-## Pendry)
+Pendry)
 
 ‘Electron Correlation at Metallic Densities.
 
@@ -22158,7 +22126,7 @@ Fowler, M.
 
 (with A.
 
-## Zawadowski)
+Zawadowski)
 
 ‘Scaling and Renormalization Group in the Kondo Effect
 
@@ -22194,7 +22162,7 @@ Galitski, V.
 
 in Report of The International Congress on Many‑particle physics (June 1960)
 
-## Physica (supplement)
+Physica (supplement)
 
 26, S‑174 (1960).
 
@@ -22244,7 +22212,7 @@ Hatano, A.
 
 Kanazawa and Y.
 
-## Mizuno)
+Mizuno)
 
 ‘Electron Interaction and Positron Annihilation in Electron Gases’
 
@@ -22270,11 +22238,11 @@ Hedin, L.
 
 (with S.
 
-## Lundqvist)
+Lundqvist)
 
 ‘Effects of Electron‑Electron and Electron‑Phonon Interaction on the One‑electron States of Solids’
 
-## in Solid State Physics
+in Solid State Physics
 
 Seitz, 23 (1969).
 
@@ -22282,9 +22250,9 @@ Heeger, A.
 
 , ‘Localized Moments and Non‑Moments in Metals
 
-## The Kondo Effect’
+The Kondo Effect’
 
-## in Solid State Physics
+in Solid State Physics
 
 Seitz, 23 (1969).
 
@@ -22308,31 +22276,31 @@ Hugenholtz, N.
 
 , ‘Quantum Theory of Many‑Body Systems’
 
-### Reports on Progress in Physics
+# Reports on Progress in Physics
 
 28, 201 (1965).
 
-## --- Page 433 ---
+--- Page 433 ---
 
-## (T)
+(T)
 
-## (C)
+(C)
 
-## (T)
+(T)
 
-## (1)
+(1)
 
 (R), (©)
 
-## (1)
+(1)
 
-## REFERENCES 417
+# REFERENCES 417
 
 Johansson, B.
 
 , ‘Symmetry‑breaking Average and Field Theoretic Method in Superconductivity’
 
-## Physica
+# Physica
 
 32, 2164 (1966).
 
@@ -22342,7 +22310,7 @@ Kadanoff, L.
 
 Baym), Quantum Statistical Mechanics
 
-## Benjamin
+# Benjamin
 
 New York (1962).
 
@@ -22350,7 +22318,7 @@ Kaempffer, F.
 
 , Concepts in Quantum Mechanics
 
-## Academic Press
+# Academic Press
 
 New York (1965).
 
@@ -22360,7 +22328,7 @@ Katz, A.
 
 223 of Lecture Notes on the Many‑Body Problem (Bergen School)
 
-## Benjamin
+# Benjamin
 
 New York (1962).
 
@@ -22368,7 +22336,7 @@ Kirzhnits, D.
 
 , Field Theoretical Methods in Many‑Body Systems
 
-## Pergamon
+# Pergamon
 
 Oxford (1967).
 
@@ -22382,15 +22350,15 @@ Klein, A.
 
 , ‘Theory of Normal Fermion Systems’, p.
 
-### 279 of Lectures on the Many‑Body Problem
+279 of Lectures on the Many‑Body Problem
 
 Vol.
 
 1, Ed.
 
-## Caianiello
+# Caianiello
 
-## Academic Press
+# Academic Press
 
 New York (1962).
 
@@ -22398,7 +22366,7 @@ Kohn, W.
 
 (with J.
 
-## Luttinger)
+Luttinger)
 
 ‘Quantum Theory of Electrical Transport Phenomena’
 
@@ -22412,7 +22380,7 @@ Kondo, J.
 
 , ‘Theory of Dilute Magnetic Alloys’
 
-## in Solid State Physics
+in Solid State Physics
 
 Seitz, 23 (1969).
 
@@ -22428,11 +22396,11 @@ Landau, L.
 
 (with E.
 
-## Lifshitz)
+Lifshitz)
 
-## Quantum Mechanics
+# Quantum Mechanics
 
-## Pergamon
+# Pergamon
 
 Oxford (1958).
 
@@ -22440,11 +22408,11 @@ Landau, L.
 
 (with E.
 
-## Lifshitz)
+Lifshitz)
 
-## Statistical Physics
+# Statistical Physics
 
-## Pergamon
+# Pergamon
 
 London (1959).
 
@@ -22462,15 +22430,15 @@ Larsen, U.
 
 , On the Theory of the Kondo Effect
 
-## unpublished report
+unpublished report
 
-## Physics Laboratory I
+# Physics Laboratory I
 
-## Orsted Institute
+# Orsted Institute
 
-## University of Copenhagen
+# University of Copenhagen
 
-## 2100 Copenhagen
+2100 Copenhagen
 
 Denmark.
 
@@ -22504,9 +22472,9 @@ Lefebre, R.
 
 (with C.
 
-## Moser)
+Moser)
 
-### ‘Correlation Effects in Atoms and
+‘Correlation Effects in Atoms and
 
 Molecules’, in series Adv.
 
@@ -22518,9 +22486,9 @@ Phys.
 
 science (1969).
 
-## --- Page 434 ---
+--- Page 434 ---
 
-## A GUIDE TO FEYNMAN DIAGRAMS
+# A GUIDE TO FEYNMAN DIAGRAMS
 
 Leggett, A.
 
@@ -22576,7 +22544,7 @@ Luttinger, J.
 
 , ‘Theory of the Fermi Surface’
 
-## in The Fermi
+in The Fermi
 
 Surface, Eds.
 
@@ -22600,9 +22568,9 @@ Lynton, E.
 
 , Superconductivity
 
-## Methuen-Wiley
+# Methuen-Wiley
 
-## London
+# London
 
 York (1962).
 
@@ -22614,9 +22582,9 @@ Young and S.
 
 Sampanthar), The Many-
 
-### Body Problem in Quantum Mechanics
+# Body Problem in Quantum Mechanics
 
-## Cambridge University
+# Cambridge University
 
 Press (1967).
 
@@ -22636,11 +22604,11 @@ Mattuck, R.
 
 , ‘Quantum Field Theory of
 
-### Phase Transitions in Fermi Systems’
+Phase Transitions in Fermi Systems’
 
-## Advances in Physics
+# Advances in Physics
 
-## 509 (July 1968).
+509 (July 1968).
 
 Mattuck, R.
 
@@ -22652,9 +22620,9 @@ Letters, 11,29 (1964).
 
 Mattuck, R.
 
-## (with Alba Theumann)
+(with Alba Theumann)
 
-## ‘Expressing the Decoupled
+‘Expressing the Decoupled
 
 Equations of Motion for the Green’s Function as a Partial Sum of
 
@@ -22688,7 +22656,7 @@ Merzbacher, E.
 
 , Quantum Mechanics
 
-## 2nd Edn
+2nd Edn
 
 Wiley, New York
 
@@ -22704,7 +22672,7 @@ Mills, R.
 
 , Propagators for Many-Particle Systems
 
-## Gordon and
+# Gordon and
 
 Breach, New York (1969).
 
@@ -22716,25 +22684,25 @@ Moment Systems, Ph.
 
 Thesis, Cornell University (1971).
 
-## --- Page 435 ---
+--- Page 435 ---
 
-## (7)
+(7)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
 (1), (C)
 
-## (T)
+(T)
 
-## (R)
+(R)
 
-## (T)
+(T)
 
-## (C)
+(C)
 
-## REFERENCES 419
+# REFERENCES 419
 
 Nambu, Y.
 
@@ -22764,7 +22732,7 @@ Roulet), ‘Singularities in the
 
 X-Ray Absorption and Emission of Metals.
 
-## Self-Consistent
+# Self-Consistent
 
 Treatment of Divergences’, Phys.
 
@@ -22776,15 +22744,15 @@ Noziéres, P.
 
 (with C.
 
-## De Dominicis)
+De Dominicis)
 
-## ‘Singularities in the X-Ray
+‘Singularities in the X-Ray
 
 Absorption and Emission of Metals.
 
 III.
 
-## One-Body Theory
+# One-Body Theory
 
 Exact Solution’, Phys.
 
@@ -22814,7 +22782,7 @@ Park, D.
 
 , Introduction to the Quantum Theory
 
-## McGraw-Hill
+# McGraw-Hill
 
 York (1964).
 
@@ -22840,13 +22808,13 @@ Phys.
 
 , 32,
 
-## 269 (1964).
+269 (1964).
 
 Pines, D.
 
 , The Many-Body Problem
 
-## Benjamin
+# Benjamin
 
 New York (1961).
 
@@ -22854,9 +22822,9 @@ Pines, D.
 
 , Elementary Excitations in Solids
 
-## Benjamin
+# Benjamin
 
-## New York
+# New York
 
 (1963).
 
@@ -22876,7 +22844,7 @@ Platzman, P.
 
 , ‘Experimental Aspects of X-ray Scattering from
 
-## Electrons in Matter’
+Electrons in Matter’
 
 Comments on Solid State Phys.
 
@@ -22898,9 +22866,9 @@ Raimes, S.
 
 , Many-electron Theory
 
-## North-Holland
+# North-Holland
 
-## Amsterdam
+# Amsterdam
 
 (1972).
 
@@ -22908,7 +22876,7 @@ Raimes, S.
 
 , The Wave Mechanics of Electrons in Metals
 
-## North-
+# North-
 
 Holland, Amsterdam (1961).
 
@@ -22930,7 +22898,7 @@ Noziéres), ‘Singularities in the
 
 X-Ray Absorption and Emission of Metals.
 
-## First-Order
+# First-Order
 
 Parquet Calculation’, Phys.
 
@@ -22942,35 +22910,35 @@ Schrieffer, J.
 
 , ‘Theory of Superconductivity’, p.
 
-## 541 of The
+541 of The
 
-### Many-Body Problem (Les Houches)
+Many-Body Problem (Les Houches)
 
-## Wiley-Dunod
+# Wiley-Dunod
 
-## New York-
+# New York-
 
 Paris (1959).
 
-## --- Page 436 ---
+--- Page 436 ---
 
-## (T)
+(T)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## (R)
+(R)
 
-## A GUIDE TO FEYNMAN DIAGRAMS
+# A GUIDE TO FEYNMAN DIAGRAMS
 
 Schrieffer, J.
 
 , Theory of Superconductivity
 
-## Benjamin
+# Benjamin
 
-## New York
+# New York
 
 (1964a).
 
@@ -22980,9 +22948,9 @@ Schrieffer, J.
 
 ductivity’, p.
 
-### 343 in Phonons and Phonon Interactions
+343 in Phonons and Phonon Interactions
 
-## Thor
+# Thor
 
 Bak, Benjamin, New York (1964b).
 
@@ -23004,7 +22972,7 @@ Stanley, H.
 
 , Phase Transitions and Critical Phenomena
 
-## Oxford
+# Oxford
 
 University Press (1971).
 
@@ -23024,13 +22992,13 @@ Ter Haar, D.
 
 Mechanics’, p.
 
-## 119 in Fluctuation
+119 in Fluctuation
 
-## Relaxation and Resonance in
+# Relaxation and Resonance in
 
-## Magnetic Systems
+# Magnetic Systems
 
-## Oliver and Boyd
+# Oliver and Boyd
 
 Edinburgh (1962).
 
@@ -23068,11 +23036,11 @@ Tinkham, M.
 
 , ‘Superconductivity’, p.
 
-## 149 in Low Temperature
+149 in Low Temperature
 
-## Physics (Les Houches)
+Physics (Les Houches)
 
-## Gordon and Breach
+# Gordon and Breach
 
 New York (1962).
 
@@ -23098,9 +23066,9 @@ Hugenholtz and L.
 
 Howland), Quantum
 
-### Theory of Many Particle Systems
+# Theory of Many Particle Systems
 
-## Benjamin
+# Benjamin
 
 New York (1961).
 
@@ -23112,7 +23080,7 @@ Singwi), ‘Paramagnetic susceptibility of
 
 an Interacting Electron Gas at Metallic Densities’
 
-## Solid State
+# Solid State
 
 Commun.
 
@@ -23170,7 +23138,7 @@ Wilson, K.
 
 Collective Properties of Physical Systems
 
-## proceedings of the
+proceedings of the
 
 24th Nobel Symposium, B.
 
@@ -23180,17 +23148,17 @@ Lundqvist (Eds.
 
 Academic Press (1973).
 
-## --- Page 437 ---
+--- Page 437 ---
 
-## REFERENCES 421
+# REFERENCES 421
 
 Wilson, K.
 
 (with J.
 
-## Kogut)
+Kogut)
 
-### ‘The Renormalization Group in the
+‘The Renormalization Group in the
 
 e-expansion’, Phys.
 
@@ -23216,11 +23184,11 @@ Phys.
 
 tion Group Method to Logarithmic Problems’
 
-## in Collective
+in Collective
 
-## Properties of Physical System
+# Properties of Physical System
 
-## proceedings of the 24th Nobel
+proceedings of the 24th Nobel
 
 Symposium, B.
 
@@ -23236,17 +23204,17 @@ Ziman, J.
 
 , Electrons and Phonons
 
-## Oxford
+# Oxford
 
-## Clarendon Press
+# Clarendon Press
 
 (1962).
 
-## --- Page 438 ---
+--- Page 438 ---
 
-## Index
+# Index
 
-## A
+A
 
 adiabatic theorem, 355
 
@@ -23264,7 +23232,7 @@ anomalous propagators, 268, 293 仁
 
 antisymmetry, 125, 130
 
-## B
+B
 
 bare interaction, 5
 
@@ -23280,7 +23248,7 @@ Bloch equation, 242, 358
 
 Bogoliubov quasi particle: see bogo-
 
-## lon
+lon
 
 bogolon, 10, 263
 
@@ -23294,13 +23262,13 @@ bubble diagrams, 81 f.
 
 , 217, 371, 372
 
-## C
+C
 
 canonical commutation relations, 340
 
 canonical transformation, 2, 147f.
 
-## 336 ff.
+336 ff.
 
 chemical potential, 158, 373
 
@@ -23332,7 +23300,7 @@ conduction electron, 9, 17, 54 ff.
 
 connected diagrams: see linked dia-
 
-## grams
+grams
 
 conservation of frequency, 84
 
@@ -23356,11 +23324,11 @@ Coulomb interaction, 94, 136
 
 creation and destruction operators,
 
-## 67 ff., 128 ff.
+67 ff., 128 ff.
 
-## based on position
+based on position
 
-## 138 f.
+138 f.
 
 boson, 140
 
@@ -23382,7 +23350,7 @@ critical phenomena, 122, 307
 
 eigenstates,
 
-## D
+D
 
 decoupled equation of motion, 391 f.
 
@@ -23392,11 +23360,11 @@ density operator, 139
 
 destruction operator: see creation and
 
-## destruction operators
+destruction operators
 
-## --- Page 439 ---
+--- Page 439 ---
 
-## diagram dictionary for
+diagram dictionary for
 
 drunken man propagator, 147 ff.
 
@@ -23404,25 +23372,25 @@ electron in impure metal, 60
 
 ferromagnet, 300
 
-### ground state energy of interacting
+ground state energy of interacting
 
 Fermi system, 216
 
-### interacting electron-phonon sys-
+interacting electron-phonon sys-
 
 tem, 378
 
-### interacting Fermi system (Feyn-
+interacting Fermi system (Feyn-
 
 man method), 167
 
-## INDEX
+# INDEX
 
 diagram perturbation—cont.
 
-### propagator for non-interacting
+propagator for non-interacting
 
-## Fermi system in external po-
+# Fermi system in external po-
 
 tential, 74
 
@@ -23430,23 +23398,23 @@ quantum pinball propagator, 48
 
 superconductor, 269
 
-### vacuum amplitude of one particle
+vacuum amplitude of one particle
 
 in external potential, 108
 
-### vacuum amplitude of interacting
+vacuum amplitude of interacting
 
 Fermi system, 115
 
-### interacting Fermi system (Gold-
+interacting Fermi system (Gold-
 
 stone method), 86
 
-### interacting Fermi system at finite
+interacting Fermi system at finite
 
 temperature, 246
 
-### non-interacting Fermi system in
+non-interacting Fermi system in
 
 external perturbing potential, 75
 
@@ -23456,7 +23424,7 @@ quantum pinball propagator, 47
 
 superconductor, 270
 
-## diagram perturbation series
+diagram perturbation series
 
 breakdown in superconductor, 264
 
@@ -23468,19 +23436,19 @@ with renormalized interactions, 195
 
 with renormalized propagators, 204
 
-### with renormalized interactions and
+with renormalized interactions and
 
-## diagram rules for
+diagram rules for
 
-### ground state energy of interacting
+ground state energy of interacting
 
 Fermi system, 215 f.
 
-### propagator in interacting Fermi
+propagator in interacting Fermi
 
 system, 165 f.
 
-### ground state energy of one particle
+ground state energy of one particle
 
 in external potential, 113
 
@@ -23494,7 +23462,7 @@ Dirac formalism, 345 ff.
 
 disordered system, 54 ff.
 
-### dispersion law for elementary ex-
+dispersion law for elementary ex-
 
 citations, 344
 
@@ -23504,11 +23472,11 @@ propagators, 205 ff.
 
 308, 315, 317, 318
 
-## with renormalized vertices
+with renormalized vertices
 
-## 211 divergent diagrams
+211 divergent diagrams
 
-## 187 ff.
+187 ff.
 
 , 219 ff.
 
@@ -23530,7 +23498,7 @@ Dyson's equation, 178
 
 finite temperature, 245
 
-### diagram perturbation series for
+diagram perturbation series for
 
 classical pinball propagator, 31, 33,
 
@@ -23548,13 +23516,13 @@ ferromagnet, 299
 
 finite temperature propagator, 245 E
 
-### ground state energy of interacting
+ground state energy of interacting
 
 Fermi system, 115 ff.
 
 , 215
 
-### ground state energy of particle in
+ground state energy of particle in
 
 external potential, 111
 
@@ -23562,7 +23530,7 @@ Kondo problem, 309 ff.
 
 particle-hole propagator, 230
 
-### propagator for interacting Fermi
+propagator for interacting Fermi
 
 system, 17 ff.
 
@@ -23570,11 +23538,11 @@ system, 17 ff.
 
 effective external potential, 90, 181,
 
-## effective interaction
+effective interaction
 
 5, 97, 98
 
-## 190 ff.
+190 ff.
 
 effective mass, classical, 27
 
@@ -23582,9 +23550,9 @@ effective mass of quasi particle, 4 ff.
 
 62, 63, 94, 99, 185, 192, 384
 
-## --- Page 440 ---
+--- Page 440 ---
 
-## INDEX
+# INDEX
 
 Einstein phonons, 275 ff.
 
@@ -23594,7 +23562,7 @@ electron gas, 7 ff.
 
 , 217 ff.
 
-## 328 ff.
+328 ff.
 
 density regions in, 186
 
@@ -23632,11 +23600,11 @@ state energy, elementary ex-
 
 citations, quasi particles, col-
 
-## lective excitations
+lective excitations
 
 energy of ground state: see ground
 
-## state energy
+state energy
 
 energy parameter: see frequency
 
@@ -23656,7 +23624,7 @@ excited state energy from propagator,
 
 exponential operator, 353
 
-## F
+F
 
 Fermi distribution, 241
 
@@ -23676,7 +23644,7 @@ Feynman diagrams, ff.
 
 , see also
 
-## under diagram
+under diagram
 
 Feynman diagrams—cont.
 
@@ -23704,7 +23672,7 @@ Friedel oscillations, 197 f.
 
 Frohlich interaction, 258, 379
 
-## G
+G
 
 Gell-Mann and Brueckner theory,
 
@@ -23736,7 +23704,7 @@ one-particle system, 111 ff.
 
 superconductor, 260 ff.
 
-## H
+H
 
 Hamiltonian, for general elementary
 
@@ -23746,7 +23714,7 @@ in interaction picture, 362
 
 in occupation number, formalism,
 
-## 132 ff., 139
+132 ff., 139
 
 in particle-hole formalism, 137
 
@@ -23764,7 +23732,7 @@ at finite temperature, 247
 
 Heisenberg picture, 155
 
-## --- Page 441 ---
+--- Page 441 ---
 
 Hilbert space, extended, 127
 
@@ -23774,7 +23742,7 @@ hole propagator, 72
 
 at finite temperature, 244
 
-## I
+I
 
 iδ-factor, 40, 376
 
@@ -23826,13 +23794,13 @@ invariant charge, 330
 
 irreducible self-energy: see proper
 
-## self-energy
+self-energy
 
 irreducible self-energy part: see
 
-## proper self-energy part
+proper self-energy part
 
-## K
+K
 
 K-matrix, 184 ff.
 
@@ -23842,19 +23810,19 @@ Tetarded, 265
 
 Kondo problem, 308 ff.
 
-## L
+L
 
 ladder diagrams, 22, 184
 
 ladder approximation, 116, 183 ff.
 
-## INDEX
+# INDEX
 
 ladder sum in superconductivity, 265
 
 Lehmann representation, 158, 372 ff.
 
-## 385 ff.
+385 ff.
 
 level width of elementary excitations,
 
@@ -23884,7 +23852,7 @@ parameter, 289
 
 low-density Fermi system, 183, 222 ff.
 
-## M
+M
 
 magnetic impurities in metals, 308 ff.
 
@@ -23896,19 +23864,19 @@ many-body problem, 1 ff.
 
 many-body wave function, 67, 68,
 
-## 124 ff.
+124 ff.
 
 matrix propagator, 287 ff.
 
 , 296 ff.
 
-## momentum “non-conserving dia-
+momentum “non-conserving dia-
 
 grams: see anomalous diagrams
 
 monkey partial sum, 32, 33
 
-## N
+N
 
 Nambu formalism, 267 f.
 
@@ -23932,9 +23900,9 @@ quasi particles in, 92, 183
 
 nuclear quanta, 1}
 
-## --- Page 442 ---
+--- Page 442 ---
 
-## INDEX 427
+# INDEX 427
 
 number of particles, obtained from
 
@@ -23950,7 +23918,7 @@ Careful explanations of Dirac's anti-particles, Bohr's model of the atom
 
 much more.
 
-## 12 plates.
+12 plates.
 
 Numerous drawings.
 
@@ -23964,7 +23932,7 @@ Outstanding text covering rank, non-
 
 singularity and inverses in connection with the development of canonical matrices
 
-### under the relation of equivalence
+under the relation of equivalence
 
 and without the intervention of determinants.
 
@@ -23974,17 +23942,17 @@ Includes exercises.
 
 66810-X Pa.
 
-## GREAT EXPERIMENTS IN PHYSICS
+# GREAT EXPERIMENTS IN PHYSICS
 
-### Firsthand Accounts from Galileo to
+# Firsthand Accounts from Galileo to
 
 Einstein, edited by Morris H.
 
 Shamos.
 
-### 25 crucial discoveries: Newton's laws of
+25 crucial discoveries: Newton's laws of
 
-## motion
+motion
 
 Chadwick's study of the neutron, Hertz on electromagnetic waves, more.
 
@@ -24002,7 +23970,7 @@ Zachmanoglou and Dale W.
 
 Thoe.
 
-## Essentials of partial
+# Essentials of partial
 
 differential equations applied to common problems in engineering and the
 
@@ -24020,9 +23988,9 @@ to the stars beyond our solar system.
 
 Exhaustive treatment.
 
-## Alphabetical by
+# Alphabetical by
 
-## constellation
+constellation
 
 Andromeda to Cetus in Vol.
 
@@ -24066,27 +24034,27 @@ Sidgwick.
 
 Timeless, compre-
 
-### hensive coverage of telescopes
+hensive coverage of telescopes
 
-## mirrors
+mirrors
 
-## lenses
+lenses
 
-## mountings
+mountings
 
-## telescope drives
+telescope drives
 
 micrometers, spectroscopes, more.
 
-## 189 illustrations.
+189 illustrations.
 
 576pp. 5⅜ x 8¼.
 
 (USO) 24034-7 Pa.
 
-## --- Page 453 ---
+--- Page 453 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
 SPECIAL FUNCTIONS, N.
 
@@ -24096,11 +24064,11 @@ Translated by Richard Silverman.
 
 mous Russian work treating more important special functions
 
-## with applications
+with applications
 
 to specific problems of physics and engineering.
 
-## 38 figures.
+38 figures.
 
 308pp. 5⅜ x 8%.
 
@@ -24110,23 +24078,23 @@ OBSERVATIONAL ASTRONOMY FOR AMATEURS, J.
 
 Sidgwick.
 
-## Mine of
+# Mine of
 
-### useful data for observation of sun
+useful data for observation of sun
 
 moon, planets
 
-## asteroids
+asteroids
 
-## aurorae
+aurorae
 
-## meteors
+meteors
 
-## comets
+comets
 
-## variables
+variables
 
-## binaries
+binaries
 
 etc. 39 illustrations.
 
@@ -24158,17 +24126,17 @@ Bibliography.
 
 64828-1 Pa.
 
-### CELESTIAL OBJECTS FOR COMMON TELESCOPES
+# CELESTIAL OBJECTS FOR COMMON TELESCOPES
 
 Webb.
 
-## Inesti-
+# Inesti-
 
 mable aid for locating and identifying nearly 4
 
-## 000 celestial objects.
+000 celestial objects.
 
-## 77 illustrations.
+77 illustrations.
 
 645pp. 5⅜ x 8%.
 
@@ -24180,13 +24148,13 @@ MODERN NONLINEAR EQUATIONS, Thomas L.
 
 Saaty.
 
-## Emphasizes practical
+# Emphasizes practical
 
-## solution of problems
+solution of problems
 
 covers seven types of equations.
 
-## a welcome contribution
+a welcome contribution
 
 to the existing literature.
 
@@ -24194,7 +24162,7 @@ to the existing literature.
 
 490pp. 5⅜ x 8% 64232-1 Pa.
 
-## FUNDAMENTALS OF ASTRODYNAMICS
+# FUNDAMENTALS OF ASTRODYNAMICS
 
 Roger Bate et al. Modern approach
 
@@ -24220,13 +24188,13 @@ TIONS, John W.
 
 Dettman.
 
-### Excellent text covers complex numbers
+# Excellent text covers complex numbers
 
-## determinants
+determinants
 
-## orthonormal bases
+orthonormal bases
 
-## Laplace transforms
+# Laplace transforms
 
 much more.
 
@@ -24238,11 +24206,11 @@ Undergraduate level.
 
 65191-6 Pa.
 
-## INCOMPRESSIBLE AERODYNAMICS
+# INCOMPRESSIBLE AERODYNAMICS
 
 edited by Bryan Thwaites.
 
-## Covers theo-
+# Covers theo-
 
 retical and experimental treatment of the uniform flow of air and viscous fluids past
 
@@ -24258,17 +24226,17 @@ many other topics.
 
 $16.
 
-### INTRODUCTION TO DIFFERENCE EQUATIONS
+# INTRODUCTION TO DIFFERENCE EQUATIONS
 
 Samuel Goldberg.
 
-## Excep-
+# Excep-
 
 tionally clear exposition of important discipline with applications to sociology
 
 psychology, economics.
 
-## Many illustrative examples
+# Many illustrative examples
 
 over 250 problems.
 
@@ -24282,17 +24250,17 @@ LAMINAR BOUNDARY LAYERS, edited by L.
 
 Rosenhead.
 
-## Engineering classic
+# Engineering classic
 
 covers steady boundary layers in two- and three-dimensional flow
 
-## unsteady
+unsteady
 
-## boundary layers
+boundary layers
 
-## stability
+stability
 
-## observational techniques
+observational techniques
 
 much more.
 
@@ -24304,7 +24272,7 @@ $15.
 
 LECTURES ON CLASSICAL DIFFERENTIAL GEOMETRY
 
-## Second Edition
+# Second Edition
 
 Dirk J.
 
@@ -24312,13 +24280,13 @@ Struik.
 
 Excellent brief introduction covers curves
 
-## theory of surfaces
+theory of surfaces
 
-## fundamental equations
+fundamental equations
 
-## geometry on a surface
+geometry on a surface
 
-## conformal mapping
+conformal mapping
 
 other topics.
 
@@ -24328,9 +24296,9 @@ Problems.
 
 65609-8 Pa.
 
-## --- Page 454 ---
+--- Page 454 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
 ROTARY-WING AERODYNAMICS, W.
 
@@ -24344,7 +24312,7 @@ formance evaluation.
 
 Originally prepared for NASA.
 
-## 537 figures.
+537 figures.
 
 640pp. 6¾ x 9%.
 
@@ -24356,7 +24324,7 @@ DIFFERENTIAL GEOMETRY, Heinrich W.
 
 Guggenheimer.
 
-## Local differential
+# Local differential
 
 geometry as an application of advanced calculus and linear algebra.
 
@@ -24366,29 +24334,29 @@ transformation groups, surfaces, more.
 
 Exercises.
 
-## 62 figures.
+62 figures.
 
 378pp. 5⅜ x 8%.
 
 63433-7 Pa.
 
-### INTRODUCTION TO SPACE DYNAMICS
+# INTRODUCTION TO SPACE DYNAMICS
 
 William Tyrrell Thomson.
 
-## Com-
+# Com-
 
-## prehensive
+prehensive
 
 classic introduction to space-flight engineering for advanced under-
 
 graduate and graduate students.
 
-## Includes vector algebra
+# Includes vector algebra
 
-## kinematics
+kinematics
 
-## transforma-
+transforma-
 
 tion of coordinates.
 
@@ -24400,7 +24368,7 @@ Index.
 
 6513-4 Pa.
 
-## A SURVEY OF MINIMAL SURFACES
+# A SURVEY OF MINIMAL SURFACES
 
 Robert Osserman.
 
@@ -24408,7 +24376,7 @@ Up-to-date, in-depth
 
 discussion of the field for advanced students.
 
-### Corrected and enlarged edition covers
+# Corrected and enlarged edition covers
 
 new developments.
 
@@ -24418,23 +24386,23 @@ Includes numerous problems.
 
 64998-9 Pa.
 
-## ANALYTICAL MECHANICS OF GEARS
+# ANALYTICAL MECHANICS OF GEARS
 
 Earle Buckingham.
 
-## Indispensable
+# Indispensable
 
 reference for modern gear manufacture covers conjugate gear-tooth action
 
-## gear-
+gear-
 
-### tooth profiles of various gears
+tooth profiles of various gears
 
 many other topics.
 
-## 263 figures.
+263 figures.
 
-## 102 tables.
+102 tables.
 
 546pp.
 
@@ -24448,7 +24416,7 @@ SET THEORY AND LOGIC, Robert R.
 
 Stoll.
 
-## Lucid introduction to unified
+# Lucid introduction to unified
 
 theory of mathematical concepts.
 
@@ -24464,23 +24432,23 @@ $10.
 
 A HISTORY OF MECHANICS, René Dugas.
 
-### Monumental study of mechanical
+# Monumental study of mechanical
 
 principles from antiquity to quantum mechanics.
 
 Contributions of ancient Greeks,
 
-## Galileo
+# Galileo
 
-## Leonardo
+# Leonardo
 
-## Kepler
+# Kepler
 
-## Lagrange
+# Lagrange
 
 many others.
 
-## 667 pp. 5⅜ x 8%.
+667 pp. 5⅜ x 8%.
 
 65632-2 Pa.
 
@@ -24490,15 +24458,15 @@ FAMOUS PROBLEMS OF GEOMETRY AND HOW TO SOLVE THEM
 
 Benjamin Bold.
 
-## Squaring the circle
+# Squaring the circle
 
-## trisecting the angle
+trisecting the angle
 
-## duplicating the cube
+duplicating the cube
 
-## learn their history
+learn their history
 
-### why they are impossible to solve
+why they are impossible to solve
 
 then solve them yourself.
 
@@ -24510,9 +24478,9 @@ MECHANICAL VIBRATIONS, J.
 
 Den Hartog.
 
-## Classic textbook offers lucid
+# Classic textbook offers lucid
 
-### explanations and illustrative models
+explanations and illustrative models
 
 applying theories of vibrations to a variety of
 
@@ -24520,7 +24488,7 @@ practical industrial engineering problems.
 
 Numerous figures.
 
-## 233 problems,
+233 problems,
 
 solutions.
 
@@ -24538,15 +24506,15 @@ CURVATURE AND HOMOLOGY, Samuel I.
 
 Goldberg.
 
-## Thorough treatment of
+# Thorough treatment of
 
 specialized branch of differential geometry.
 
 Covers Riemannian manifolds, topol-
 
-### ogy of differentiable manifolds
+ogy of differentiable manifolds
 
-## compact Lie groups
+compact Lie groups
 
 other topics.
 
@@ -24558,19 +24526,19 @@ Exercises.
 
 64314-X Pa.
 
-### HISTORY OF STRENGTH OF MATERIALS
+# HISTORY OF STRENGTH OF MATERIALS
 
 Stephen P.
 
 Timoshenko.
 
-## Excel-
+# Excel-
 
 lent historical survey of the strength of materials with many references to the
 
 theories of elasticity and structure.
 
-## 245 figures.
+245 figures.
 
 452pp. 5⅜ x 8%.
 
@@ -24578,11 +24546,11 @@ theories of elasticity and structure.
 
 $10.
 
-## --- Page 455 ---
+--- Page 455 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
-## GEOMETRY OF COMPLEX NUMBERS
+# GEOMETRY OF COMPLEX NUMBERS
 
 Hans Schwerdtfeger.
 
@@ -24590,7 +24558,7 @@ Illuminating,
 
 widely praised book on analytic geometry of circles
 
-## the Moebius transformation
+the Moebius transformation
 
 and two-dimensional non-Euclidean geometries.
 
@@ -24604,13 +24572,13 @@ Den Hartog.
 
 A classic introductory text or refresher.
 
-## Hundreds
+# Hundreds
 
 of applications and design problems illuminate fundamentals of trusses
 
-## loaded
+loaded
 
-## beams and cables
+beams and cables
 
 etc. 334 answered problems.
 
@@ -24624,15 +24592,15 @@ Hocking and Gail S.
 
 Young.
 
-## Superb one-year course in
+# Superb one-year course in
 
 classical topology.
 
-### Topological spaces and functions
+# Topological spaces and functions
 
-## point-set topology
+point-set topology
 
-## much
+much
 
 more.
 
@@ -24652,23 +24620,23 @@ Den Hartog.
 
 Full, clear treatment of basic
 
-## material (tension
+material (tension
 
-## torsion
+torsion
 
-## bending
+bending
 
 etc.) plus advanced material on engineering
 
 methods, applications.
 
-## 350 answered problems.
+350 answered problems.
 
 323pp. 5½ x 8½.
 
 60755-0 Pa.
 
-### ELEMENTARY CONCEPTS OF TOPOLOGY
+# ELEMENTARY CONCEPTS OF TOPOLOGY
 
 Paul Alexandroff.
 
@@ -24678,7 +24646,7 @@ intuitive approach to topology from set-theoretic topology to Betti groups
 
 concepts of topology are useful in math and physics.
 
-## 25 figures.
+25 figures.
 
 57pp. 5½ x 8½.
 
@@ -24688,15 +24656,15 @@ ADVANCED STRENGTH OF MATERIALS, J.
 
 Den Hartog.
 
-## Superbly written
+# Superbly written
 
-## advanced text covers torsion
+advanced text covers torsion
 
-## rotating disks
+rotating disks
 
-## membrane stresses in shells
+membrane stresses in shells
 
-## much
+much
 
 more.
 
@@ -24706,15 +24674,15 @@ Many problems and answers.
 
 65407-9 Pa.
 
-### COMPUTABILITY AND UNSOLVABILITY
+# COMPUTABILITY AND UNSOLVABILITY
 
 Martin Davis.
 
-## Classic graduate-
+# Classic graduate-
 
 level introduction to theory of computability
 
-### usually referred to as theory of
+usually referred to as theory of
 
 recursive functions.
 
@@ -24730,11 +24698,11 @@ Revised 3rd edition of classic first-year
 
 text by Nobel laureate.
 
-### Atomic and molecular structure
+# Atomic and molecular structure
 
-## quantum mechanics
+quantum mechanics
 
-## statistical mechanics
+statistical mechanics
 
 thermodynamics correlated with descriptive chemistry.
 
@@ -24746,25 +24714,25 @@ Problems.
 
 $19.
 
-## AN INTRODUCTION TO MATRICES
+# AN INTRODUCTION TO MATRICES
 
-## SETS AND GROUPS FOR SCIENCE
+# SETS AND GROUPS FOR SCIENCE
 
 STUDENTS, G.
 
 Stephenson.
 
-## Concise
+# Concise
 
-## readable text introduces sets
+readable text introduces sets
 
-## groups
+groups
 
-## most importantly
+most importantly
 
 matrices to undergraduate students of physics
 
-## chemistry
+chemistry
 
 engineering.
 
@@ -24774,17 +24742,17 @@ Problems.
 
 65077-4 Pa.
 
-### THE HISTORICAL BACKGROUND OF CHEMISTRY
+# THE HISTORICAL BACKGROUND OF CHEMISTRY
 
 Henry M.
 
 Leicester.
 
-## Evolution of ideas
+# Evolution of ideas
 
 not individual biography.
 
-### Concentrates on formulation of a
+# Concentrates on formulation of a
 
 coherent set of chemical laws.
 
@@ -24792,25 +24760,25 @@ coherent set of chemical laws.
 
 61053-5 Pa.
 
-## THE PHILOSOPHY OF MATHEMATICS
+# THE PHILOSOPHY OF MATHEMATICS
 
-## An Introductory Essay
+# An Introductory Essay
 
-## Stephan
+# Stephan
 
 Körner.
 
-## Surveys the views of Plato
+# Surveys the views of Plato
 
-## Aristotle
+# Aristotle
 
-### Leibniz & Kant concerning proposi-
+# Leibniz & Kant concerning proposi-
 
 tions and theories of applied and pure mathematics.
 
 Introduction.
 
-## Two appen-
+# Two appen-
 
 dices.
 
@@ -24820,23 +24788,23 @@ Index.
 
 25048-2 Pa.
 
-### THE DEVELOPMENT OF MODERN CHEMISTRY
+# THE DEVELOPMENT OF MODERN CHEMISTRY
 
 Aaron J.
 
 Ihde.
 
-## Authorita-
+# Authorita-
 
 tive history of chemistry from ancient Greek theory to 20th-century innovation.
 
 Covers major chemists and their discoveries.
 
-## 209 illustrations.
+209 illustrations.
 
-## 14 tables.
+14 tables.
 
-## Bibliog-
+# Bibliog-
 
 raphies.
 
@@ -24844,33 +24812,33 @@ Indices.
 
 Appendices.
 
-## 851 pp. 5½ x 8.
+851 pp. 5½ x 8.
 
 64235-6 Pa.
 
 $17.
 
-## --- Page 456 ---
+--- Page 456 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
-## THE FOUR-COLOR PROBLEM
+# THE FOUR-COLOR PROBLEM
 
-## Assaults and Conquest
+# Assaults and Conquest
 
 Thomas L.
 
-## Saaty and
+# Saaty and
 
 Paul G.
 
 Kainen.
 
-## Engrossing
+# Engrossing
 
 comprehensive account of the century-old combina-
 
-## torial topological problem
+torial topological problem
 
 its history and solution.
 
@@ -24884,7 +24852,7 @@ figures.
 
 65092-8 Pa.
 
-### CATALYSIS IN CHEMISTRY AND ENZYMOLOGY
+# CATALYSIS IN CHEMISTRY AND ENZYMOLOGY
 
 William P.
 
@@ -24892,13 +24860,13 @@ Jencks.
 
 Exceptionally clear coverage of mechanisms for catalysis
 
-## forces in aqueous
+forces in aqueous
 
-## solution
+solution
 
-### carbonyl- and acyl-group reactions
+carbonyl- and acyl-group reactions
 
-## practical kinetics
+practical kinetics
 
 more.
 
@@ -24910,23 +24878,23 @@ more.
 
 $19.
 
-## PROBABILITY
+# PROBABILITY
 
-## An Introduction
+# An Introduction
 
 Samuel Goldberg.
 
-### Excellent basic text covers set
+# Excellent basic text covers set
 
-## theory
+theory
 
 probability theory for finite sample spaces
 
-## binomial theorem
+binomial theorem
 
 much more.
 
-## 360 problems.
+360 problems.
 
 Bibliographies.
 
@@ -24938,19 +24906,19 @@ LIGHTNING, Martin A.
 
 Uman.
 
-## Revised
+# Revised
 
-### updated edition of classic work on the
+updated edition of classic work on the
 
 physics of lightning.
 
-## Phenomena
+# Phenomena
 
-## terminology
+terminology
 
-## measurement
+measurement
 
-## photography
+photography
 
 spectroscopy, thunder, more.
 
@@ -24972,9 +24940,9 @@ Highly readable,
 
 self-contained introduction covers combination of events
 
-## dependent events
+dependent events
 
-## Bernoulli trials
+# Bernoulli trials
 
 etc. Translation by Richard Silverman.
 
@@ -24982,7 +24950,7 @@ etc. Translation by Richard Silverman.
 
 63544-9 Pa.
 
-## THE CEASELESS WIND
+# THE CEASELESS WIND
 
 An Introduction to the Theory of Atmospheric Motion
 
@@ -24998,7 +24966,7 @@ Over 400 problems.
 
 Index.
 
-## 97 illustrations.
+97 illustrations.
 
 640pp. 6 x 9.
 
@@ -25012,7 +24980,7 @@ Crow, et al. Comprehensive, practical
 
 collection of classical and modern methods prepared by U.
 
-## Naval Ordnance Test
+# Naval Ordnance Test
 
 Station.
 
@@ -25024,21 +24992,21 @@ Basics of statistics assumed.
 
 60599-X Pa.
 
-### DICTIONARY/OUTLINE OF BASIC STATISTICS
+DICTIONARY/OUTLINE OF BASIC STATISTICS
 
 John E.
 
-## Freund and Frank
+# Freund and Frank
 
 Williams.
 
-### A clear concise dictionary of over 1
+# A clear concise dictionary of over 1
 
-### 000 statistical terms and an outline
+000 statistical terms and an outline
 
 of statistical formulas covering probability
 
-## nonparametric tests
+nonparametric tests
 
 much more.
 
@@ -25054,11 +25022,11 @@ Shewhart.
 
 Important text explains regulation of variables
 
-## uses
+uses
 
 of statistical control to achieve quality control in industry
 
-## agriculture
+agriculture
 
 other areas.
 
@@ -25068,17 +25036,17 @@ other areas.
 
 THE INTERPRETATION OF GEOLOGICAL PHASE DIAGRAMS
 
-## Ernest G
+# Ernest G
 
 Ehlers.
 
 Clear, concise text emphasizes diagrams of systems under fluid or
 
-## containing pressure
+containing pressure
 
-### also coverage of complex binary systems
+also coverage of complex binary systems
 
-## hydrothermal
+hydrothermal
 
 melting, more.
 
@@ -25092,21 +25060,21 @@ STATISTICAL ADJUSTMENT OF DATA, W.
 
 Edwards Deming.
 
-## Introduction to
+# Introduction to
 
-## basic concepts of statistics
+basic concepts of statistics
 
-## curve fitting
+curve fitting
 
-## least squares solution
+least squares solution
 
-## conditions without
+conditions without
 
-## parameter
+parameter
 
 conditions containing parameters.
 
-## 26 exercises worked out.
+26 exercises worked out.
 
 271pp.
 
@@ -25114,21 +25082,21 @@ conditions containing parameters.
 
 64685-8 Pa.
 
-## --- Page 457 ---
+--- Page 457 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
 DE RE METALLICA, Georgius Agricola.
 
-### The famous Hoover translation of
+# The famous Hoover translation of
 
 greatest treatise on technological chemistry
 
-## engineering
+engineering
 
-## geology
+geology
 
-## mining of early
+mining of early
 
 modern times (1556).
 
@@ -25140,23 +25108,23 @@ All 289 original woodcuts.
 
 $17.
 
-## SOME THEORY OF SAMPLING
+# SOME THEORY OF SAMPLING
 
 William Edwards Deming.
 
-## Analysis of the
+# Analysis of the
 
-## problems
+problems
 
 theory and design of sampling techniques for social scientists
 
-## industrial
+industrial
 
 managers and others who find statistics increasingly important in their work.
 
 tables.
 
-## 90 figures.
+90 figures.
 
 xvii + 602pp. 5½ x 8½.
 
@@ -25172,17 +25140,17 @@ Agostino Ramelli.
 
 One of the most widely known and copied works on machinery in the 16th century.
 
-### 194 detailed plates of water pumps
+194 detailed plates of water pumps
 
-## grain mills
+grain mills
 
-## cranes
+cranes
 
 more.
 
 608pp. 9 x 12.
 
-## (EBE)
+(EBE)
 
 25497-6 Clothbd.
 
@@ -25190,7 +25158,7 @@ $34.
 
 LINEAR PROGRAMMING AND ECONOMIC ANALYSIS
 
-## Robert Dorfman
+# Robert Dorfman
 
 Paul A.
 
@@ -25198,7 +25166,7 @@ Samuelson and Robert M.
 
 Solow.
 
-### First comprehensive treatment of linear
+# First comprehensive treatment of linear
 
 programming in standard economic analysis.
 
@@ -25212,7 +25180,7 @@ economics, Leontief input-output, more.
 
 $13.
 
-## ELEMENTARY DECISION THEORY
+# ELEMENTARY DECISION THEORY
 
 Herman Chernoff and Lincoln E.
 
@@ -25220,9 +25188,9 @@ Moses.
 
 Clear introduction to statistics and statistical theory covers data processing
 
-### probability and random variables
+probability and random variables
 
-## testing hypotheses
+testing hypotheses
 
 much more.
 
@@ -25232,7 +25200,7 @@ Exercises.
 
 65218-1 Pa.
 
-## THE COMPLEAT STRATEGYST
+# THE COMPLEAT STRATEGYST
 
 Being a Primer on the Theory of Games of
 
@@ -25240,11 +25208,11 @@ Strategy, J.
 
 Williams.
 
-### Highly entertaining classic describes
+# Highly entertaining classic describes
 
-## with many illus-
+with many illus-
 
-## trated examples
+trated examples
 
 how to select best strategies in conflict situations.
 
@@ -25264,19 +25232,19 @@ Saaty.
 
 Classic graduate-level text covers historical background
 
-## classical methods of
+classical methods of
 
-## forming models
+forming models
 
-## optimization
+optimization
 
-## game theory
+game theory
 
-## probability
+probability
 
-## queueing theory
+queueing theory
 
-## much
+much
 
 more.
 
@@ -25294,15 +25262,15 @@ CONSTRUCTIONS AND COMBINATORIAL PROBLEMS IN DESIGN OF
 
 EXPERIMENTS, Damaraju Raghavarao.
 
-### In-depth reference work examines
+# In-depth reference work examines
 
-## orthogonal Latin squares
+orthogonal Latin squares
 
-## incomplete block designs
+incomplete block designs
 
-## tactical configuration
+tactical configuration
 
-## partial
+partial
 
 geometry, much more.
 
@@ -25328,7 +25296,7 @@ necessary for mathematical grasp of theory of relativity.
 
 VECTOR AND TENSOR ANALYSIS WITH APPLICATIONS
 
-## Borisenko
+# Borisenko
 
 and I.
 
@@ -25336,19 +25304,19 @@ Tarapov.
 
 Concise introduction.
 
-## Worked-out problems
+# Worked-out problems
 
-## solutions
+solutions
 
-## exer-cises
+exer-cises
 
 257pp. 5½ x 8½.
 
 63833-2 Pa.
 
-## --- Page 458 ---
+--- Page 458 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
 TENSOR CALCULUS, J.
 
@@ -25356,25 +25324,25 @@ Synge and A.
 
 Schild.
 
-## Widely used introductory text
+# Widely used introductory text
 
-## covers spaces and tensors
+covers spaces and tensors
 
-### basic operations in Riemannian space
+basic operations in Riemannian space
 
-## non-Riemannian
+non-Riemannian
 
 spaces, etc. 324pp. 5½ x 8½.
 
 63612-7 Pa.
 
-### A CONCISE HISTORY OF MATHEMATICS
+# A CONCISE HISTORY OF MATHEMATICS
 
 Dirk J.
 
 Struik.
 
-## The best brief
+# The best brief
 
 history of mathematics.
 
@@ -25382,7 +25350,7 @@ Stresses origins and covers every major figure from ancient
 
 Near East to 19th century.
 
-## 41 illustrations.
+41 illustrations.
 
 195pp. 5½ x 8½.
 
@@ -25390,21 +25358,21 @@ Near East to 19th century.
 
 A SHORT ACCOUNT OF THE HISTORY OF MATHEMATICS
 
-## Rouse
+# Rouse
 
 Ball.
 
-## One of clearest
+# One of clearest
 
 most authoritative surveys from the Egyptians and Phoeni-
 
 cians through 19th-century figures such as Grassman
 
-## Galois
+# Galois
 
-## Riemann
+# Riemann
 
-## Fourth
+# Fourth
 
 edition.
 
@@ -25418,23 +25386,23 @@ HISTORY OF MATHEMATICS, David E.
 
 Smith.
 
-## Nontechnical survey from
+# Nontechnical survey from
 
 ancient Greece and Orient to late 19th century
 
-## evolution of arithmetic
+evolution of arithmetic
 
-## geometry
+geometry
 
-## trigonometry
+trigonometry
 
-## calculating devices
+calculating devices
 
-## algebra
+algebra
 
 the calculus.
 
-## 362 illustrations.
+362 illustrations.
 
 1,355pp.
 
@@ -25444,17 +25412,17 @@ the calculus.
 
 , Two-vol. set $23.
 
-### THE GEOMETRY OF RENE DESCARTES
+# THE GEOMETRY OF RENE DESCARTES
 
 René Descartes.
 
-## The great work
+# The great work
 
 founded analytical geometry.
 
-## Original French text
+# Original French text
 
-## Descartes’ own diagrams
+Descartes’ own diagrams
 
 together with definitive Smith-Latham translation.
 
@@ -25470,17 +25438,17 @@ Baron.
 
 Only fully detailed and documented account of crucial discipline
 
-## origins
+origins
 
-## development by Galileo
+development by Galileo
 
-## Kepler
+# Kepler
 
-## Cavalieri
+# Cavalieri
 
-## contributions of Newton
+contributions of Newton
 
-## Leibniz
+# Leibniz
 
 more.
 
@@ -25496,11 +25464,11 @@ MENT, Carl B.
 
 Boyer.
 
-## Origins in antiquity
+# Origins in antiquity
 
-## medieval contributions
+medieval contributions
 
-## work of
+work of
 
 Newton, Leibniz, rigorous formulation.
 
@@ -25518,7 +25486,7 @@ Heath.
 
 Definitive edition.
 
-## Textual and
+# Textual and
 
 linguistic notes, mathematical analysis.
 
@@ -25532,25 +25500,25 @@ abridged.
 
 , Three-vol. set $29.
 
-## GAMES AND DECISIONS
+# GAMES AND DECISIONS
 
-### Introduction and Critical Survey
+# Introduction and Critical Survey
 
-## Duncan Luce
+# Duncan Luce
 
 and Howard Raiffa.
 
 Superb nontechnical introduction to game theory
 
-## primarily
+primarily
 
 applied to social sciences.
 
-## Utility theory
+# Utility theory
 
-## zero-sum games
+zero-sum games
 
-## n-person games
+n-person games
 
 decision-making, much more.
 
@@ -25564,7 +25532,7 @@ $11.
 
 THE HISTORICAL ROOTS OF ELEMENTARY MATHEMATICS
 
-## Lucas
+# Lucas
 
 Bunt, Phillip S.
 
@@ -25572,11 +25540,11 @@ Jones, and Jack D.
 
 Bedient.
 
-## Fundamental underpinnings of
+# Fundamental underpinnings of
 
-## modern arithmetic
+modern arithmetic
 
-## algebra
+algebra
 
 geometry and number systems derived from ancient
 
@@ -25586,23 +25554,23 @@ civilizations.
 
 25563-8 Pa.
 
-### CALCULUS REFRESHER FOR TECHNICAL PEOPLE
+# CALCULUS REFRESHER FOR TECHNICAL PEOPLE
 
 Albert Klaf.
 
-## Covers
+# Covers
 
 important aspects of integral and differential calculus via 756 questions.
 
 problems, most answered.
 
-## 431 pp. 5½ x 8½.
+431 pp. 5½ x 8½.
 
 20370-0 Pa.
 
-## --- Page 459 ---
+--- Page 459 ---
 
-## CATALOG OF DOVER BOOKS
+# CATALOG OF DOVER BOOKS
 
 CHALLENGING MATHEMATICAL PROBLEMS WITH ELEMENTARY
 
@@ -25612,17 +25580,17 @@ Yaglom and I.
 
 Yaglom.
 
-### Over 170 challenging problems on
+# Over 170 challenging problems on
 
-## probability theory
+probability theory
 
-## combinatorial analysis
+combinatorial analysis
 
-## points and lines
+points and lines
 
-## topology
+topology
 
-## convex
+convex
 
 polygons, many other topics.
 
@@ -25634,21 +25602,21 @@ Two-vol. set.
 
 Vol.
 
-## 1 65536-9 Pa.
+1 65536-9 Pa.
 
 Vol.
 
-## 2 65537-7 Pa.
+2 65537-7 Pa.
 
 FIFTY CHALLENGING PROBLEMS IN PROBABILITY WITH SOLU-
 
 TIONS, Frederick Mosteller.
 
-## Remarkable puzzlers
+# Remarkable puzzlers
 
-## graded in difficulty
+graded in difficulty
 
-## illustrate
+illustrate
 
 elementary and advanced aspects of probability.
 
@@ -25664,23 +25632,23 @@ Classic, lively explanation of
 
 one of the byways of mathematics.
 
-## Klein bottles
+# Klein bottles
 
-## Moebius strips
+# Moebius strips
 
-## projective planes
+projective planes
 
-## map coloring
+map coloring
 
-### problem of the Koenigsberg bridges
+problem of the Koenigsberg bridges
 
-## much more
+much more
 
-## described with
+described with
 
 clarity and wit.
 
-## 43 figures.
+43 figures.
 
 210pp. 5½ x 8½.
 
@@ -25690,11 +25658,11 @@ RELATIVITY IN ILLUSTRATIONS, Jacob T.
 
 Schwartz.
 
-## Clear nontechnical
+# Clear nontechnical
 
 treatment makes relativity more accessible than ever before.
 
-## Over 60 drawings
+# Over 60 drawings
 
 illustrate concepts more clearly than text alone.
 
@@ -25708,7 +25676,7 @@ Bibliography.
 
 AN INTRODUCTION TO ORDINARY DIFFERENTIAL EQUATIONS
 
-## Earl
+# Earl
 
 Coddington.
 
@@ -25716,7 +25684,7 @@ A thorough and systematic first course in elementary differential
 
 equations for undergraduates in mathematics and science
 
-## with many exercises and
+with many exercises and
 
 problems (with answers).
 
@@ -25726,7 +25694,7 @@ Index.
 
 65942-9 Pa.
 
-### FOURIER SERIES AND ORTHOGONAL FUNCTIONS
+# FOURIER SERIES AND ORTHOGONAL FUNCTIONS
 
 Harry F.
 
@@ -25738,7 +25706,7 @@ orthogonal functions and applications of the Fourier method to boundary-value
 
 problems.
 
-## 570 exercises.
+570 exercises.
 
 Answers and notes.
 
@@ -25746,25 +25714,25 @@ Answers and notes.
 
 65973-9 Pa.
 
-### THE THEORY OF BRANCHING PROCESSES
+# THE THEORY OF BRANCHING PROCESSES
 
 Theodore E.
 
 Harris.
 
-## First
+# First
 
-## systematic
+systematic
 
 comprehensive treatment of branching (i.e. multiplicative) processes
 
 and their applications.
 
-## Galton-Watson model
+# Galton-Watson model
 
-## Markov branching processes
+# Markov branching processes
 
-## electron-photon cascade
+electron-photon cascade
 
 many other topics.
 
@@ -25776,23 +25744,23 @@ Bibliography.
 
 65952-6 Pa.
 
-### AN INTRODUCTION TO ALGEBRAIC STRUCTURES
+# AN INTRODUCTION TO ALGEBRAIC STRUCTURES
 
 Joseph Landin.
 
 Superb self-contained text covers “abstract algebra”
 
-## sets and numbers
+sets and numbers
 
-## theory of
+theory of
 
 groups, theory of rings, much more.
 
-## Numerous well-chosen examples
+# Numerous well-chosen examples
 
 exercises.
 
-### 247 pp. 5½ x 8½. 65940-2 Pa. $6.95
+247 pp. 5½ x 8½. 65940-2 Pa. $6.95
 
 Prices subject to change without notice.
 
@@ -25804,16 +25772,16 @@ Dover Publications, Inc.
 
 11501, Dover publishes more than 175
 
-## books each year on science
+books each year on science
 
-### elementary and advanced mathematics
+elementary and advanced mathematics
 
-## biology
+biology
 
 music, art
 
-## literature
+literature
 
-## history
+history
 
 social sciences and other areas.

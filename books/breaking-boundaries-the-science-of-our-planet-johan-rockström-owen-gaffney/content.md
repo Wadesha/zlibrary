@@ -4,13 +4,13 @@ indd 2US_001-011_321647_BB_Prelims.
 
 indd 2 15/02/2021 16:2115/02/2021 16:21
 
-## OWEN GAFFNEY AND
+# OWEN GAFFNEY AND
 
-### JOHAN ROCKSTRÖMBREAKING BREAKING
+JOHAN ROCKSTRÖMBREAKING BREAKING
 
-## BOUNDARIESBOUNDARIES
+# BOUNDARIESBOUNDARIES
 
-## The Science of Our Planet
+# The Science of Our Planet
 
 US_001-011_321647_BB_Prelims.
 
@@ -22,7 +22,7 @@ First American Edition, 2021
 
 Published in the United States by DK Publishing
 
-### 1450 Broadway, Suite 801, New York, NY 10018
+1450 Broadway, Suite 801, New York, NY 10018
 
 Owen Gaffney and Johan Rockström have asserted their
 
@@ -30,103 +30,103 @@ right to be identified as the authors of this work.
 
 DK, a Division of Penguin Random House LLC
 
-### 21 22 23 24 25 10 9 8 7 6 5 4 3 2 1
+21 22 23 24 25 10 9 8 7 6 5 4 3 2 1
 
-## 001–321647–April/2021
+001–321647–April/2021
 
 no part of this publication may be reproduced
 
-## stored in or
+stored in or
 
-### introduced into a retrieval system
+introduced into a retrieval system
 
-## or transmitted
+or transmitted
 
-## in any form
+in any form
 
-## or by any means (electronic
+or by any means (electronic
 
-## mechanical
+mechanical
 
-## photocopying
+photocopying
 
-## recording
+recording
 
-## or otherwise)
+or otherwise)
 
-### without the prior written permission
+without the prior written permission
 
 Published in Great Britain by Dorling Kindersley Limited
 
-### A catalog record for this book
+# A catalog record for this book
 
 is available from the Library of Congress.
 
 DK books are available at special discounts when purchased
 
-## in bulk for sales promotions
+in bulk for sales promotions
 
-## premiums
+premiums
 
-## fund-raising
+fund-raising
 
 educational use.
 
-## For details
+# For details
 
-## contact
+contact
 
-## DK Publishing Special
+# DK Publishing Special
 
-## Markets
+# Markets
 
-## 1450 Broadway
+1450 Broadway
 
-## Suite 801
+# Suite 801
 
-## New York
+# New York
 
-## NY 10018
+# NY 10018
 
-### Printed and bound in the United States
+# Printed and bound in the United States
 
 Council ™ certified paper—one small step in
 
 DK’s commitment to a sustainable future.
 
-## For more information go to
+# For more information go to
 
-## com/our-green-pledge
+com/our-green-pledge
 
-## Editor Becky Gee
+# Editor Becky Gee
 
-## Art Editor Mark Lloyd
+# Art Editor Mark Lloyd
 
-### Managing Editor Angeles Gavira
+# Managing Editor Angeles Gavira
 
-### Managing Art Editor Michael Duffy
+# Managing Art Editor Michael Duffy
 
-### Production Editor Kavita Varma
+# Production Editor Kavita Varma
 
-## Senior Production Controller
+# Senior Production Controller
 
 Meskerem Berhane Jacket Designer Akiko Kato
 
-## Art Director Karen Self
+# Art Director Karen Self
 
-## Associate Publishing Director
+# Associate Publishing Director
 
-## Liz Wheeler
+# Liz Wheeler
 
-## Publishing Director
+# Publishing Director
 
-## Jonathan Metcalf
+# Jonathan Metcalf
 
 Documentary film produced by Silverback Films Ltd.
 
 Color visualizations by Félix Pharand-Deschênes
 
-## Globaïa
+Globaïa
 
 US_001-011_321647_BB_Prelims.
 
@@ -134,19 +134,19 @@ indd 4US_001-011_321647_BB_Prelims.
 
 indd 4 17/02/2021 11:2717/02/2021 11:27
 
-## ABOUT THE AUTHORS
+# ABOUT THE AUTHORS
 
-## OWEN GAFFNEY
+# OWEN GAFFNEY
 
 Owen Gaffney was born at 324 parts per million carbon dioxide.
 
-### He is a global sustainability writer
+# He is a global sustainability writer
 
-## analyst
+analyst
 
-## and strategist
+and strategist
 
-## based at
+based at
 
 the Potsdam Institute for Climate Impact Research and Stockholm
 
@@ -154,27 +154,27 @@ Resilience Centre.
 
 He is a Future Earth Senior Fellow and an
 
-### Edmund Hillary Fellow (New Zealand)
+Edmund Hillary Fellow (New Zealand)
 
-## and also sits on the faculty
+and also sits on the faculty
 
 of Singularity University.
 
-### He cofounded the Exponential Roadmap
+# He cofounded the Exponential Roadmap
 
 Initiative and the film company Gaiaxia and advises organizations
 
 such as the Global Commons Alliance.
 
-## Owen trained in astronautic
+# Owen trained in astronautic
 
 engineering, filmmaking, and journalism.
 
-## His work has appeared
+# His work has appeared
 
 in academic journals such as Nature and Science
 
-## and he has
+and he has
 
 contributed to New Scientist and the WWF’s Living Planet Report.
 
@@ -182,15 +182,15 @@ He cofounded the Future Earth Media Lab and Rethink magazine
 
 and sits on the editorial board of the Anthropocene magazine.
 
-## Owen
+# Owen
 
 lives in a forest on the Stockholm archipelago.
 
-## JOHAN ROCKSTRÖM
+JOHAN ROCKSTRÖM
 
 Johan Rockström was born at 320 parts per million.
 
-## He is a professor
+# He is a professor
 
 in Earth system science at the University of Potsdam and professor
 
@@ -198,33 +198,33 @@ in water systems and global sustainability at Stockholm University
 
 as well as the director of the Potsdam Institute for Climate Impact
 
-## Research
+# Research
 
 founder of the Stockholm Resilience Centre
 
-## and chief
+and chief
 
 scientist at Conservation International.
 
-## He is an Earth system
+# He is an Earth system
 
-## researcher
+researcher
 
 whose work has appeared in high-impact academic
 
 journals such as Nature and Science.
 
-### He has given four TED talks on
+# He has given four TED talks on
 
 the state of the planet.
 
 Johan is cochair of the Earth Commission
 
-## and Future Earth
+and Future Earth
 
 an international research network.
 
-## He is regularly
+# He is regularly
 
 invited to speak at the World Economic Forum and has contributed
 
@@ -238,51 +238,51 @@ indd 5US_001-011_321647_BB_Prelims.
 
 indd 5 15/02/2021 16:2115/02/2021 16:21
 
-## CONTENTS
+# CONTENTS
 
-## Foreword 8
+# Foreword 8
 
-## Introduction 12
+# Introduction 12
 
-## ACT I
+# ACT I
 
-### 1. Three revolutions that shaped our planet 19
+# 1. Three revolutions that shaped our planet 19
 
-### 2. A Scottish janitor and a Serbian
+# 2. A Scottish janitor and a Serbian
 
 mathematician discover Earth’s hair trigger 33
 
-## 3. A “wise man” arrives 40
+# 3. A “wise man” arrives 40
 
-## 4. The Goldilocks epoch 47
+# 4. The Goldilocks epoch 47
 
-## Color plates A
+# Color plates A
 
 Sleeping giants: Antarctica A1
 
-## Rupture with the past A2–3
+Rupture with the past A2–3
 
-## The Earthshot A4
+# The Earthshot A4
 
-## ACT II
+# ACT II
 
-### 5. Three scientific insights have changed
+# 5. Three scientific insights have changed
 
-## how we view Earth 65
+how we view Earth 65
 
-## 6. Planetary boundaries 74
+# 6. Planetary boundaries 74
 
-## 7. Hothouse Earth 89
+# 7. Hothouse Earth 89
 
-### 8. Emergency on planet Earth 96
+# 8. Emergency on planet Earth 96
 
-## Color plates B
+# Color plates B
 
 Sleeping giants: The Amazon B1
 
-## The Great Acceleration B2–3
+The Great Acceleration B2–3
 
-## Planetary boundaries B4
+# Planetary boundaries B4
 
 US_001-011_321647_BB_Prelims.
 
@@ -290,63 +290,63 @@ indd 6US_001-011_321647_BB_Prelims.
 
 indd 6 23/02/2021 10:5123/02/2021 10:51
 
-## ACT III
+# ACT III
 
-## 9. Planetary stewardship 107
+# 9. Planetary stewardship 107
 
-## 10. The energy transition 118
+# 10. The energy transition 118
 
-### 11. Feeding 10 billion people within
+# 11. Feeding 10 billion people within
 
-## planetary boundaries 129
+planetary boundaries 129
 
-### 12. Inequality is destabilizing Earth 142
+# 12. Inequality is destabilizing Earth 142
 
-## Color plates C
+# Color plates C
 
-## Novel entities C1
+# Novel entities C1
 
-## The network effect C2–3
+The network effect C2–3
 
-## A planet transformed C4
+# A planet transformed C4
 
-### 13. Building tomorrow ’s cities 155
+# 13. Building tomorrow ’s cities 155
 
-### 14. The population bomb defused 165
+# 14. The population bomb defused 165
 
-### 15. T aming the technosphere 171
+# 15. T aming the technosphere 171
 
 A global economy within planetary boundaries 182
 
-## Color plates D
+# Color plates D
 
-### Pathways to stabilize Earth D1
+# Pathways to stabilize Earth D1
 
-### Look back at what we have achieved D2
+# Look back at what we have achieved D2
 
-## The Global Safety Net D3
+# The Global Safety Net D3
 
-## The rise in complexity
+# The rise in complexity
 
-## Major ruptures in the
+# Major ruptures in the
 
-## evolution of Earth D4
+evolution of Earth D4
 
-### 17. Earthshot politics and policies 196
+# 17. Earthshot politics and policies 196
 
-### 18. The roaring 2020s: Four tipping points
+# 18. The roaring 2020s: Four tipping points
 
-## are converging 204
+are converging 204
 
-## 19. Wise Earth 219
+# 19. Wise Earth 219
 
-## Sources 228
+# Sources 228
 
-## Index 233
+# Index 233
 
-## Acknowledgments 240
+# Acknowledgments 240
 
-## Picture credits 240
+# Picture credits 240
 
 US_001-011_321647_BB_Prelims.
 
@@ -354,11 +354,11 @@ indd 7US_001-011_321647_BB_Prelims.
 
 indd 7 23/02/2021 10:5123/02/2021 10:51
 
-## FOREWORD
+# FOREWORD
 
-## GRETA THUNBERG
+# GRETA THUNBERG
 
-### SWEDISH ENVIRONMENTAL ACTIVIST
+# SWEDISH ENVIRONMENTAL ACTIVIST
 
 A stable planet is a necessary condition for the well-being of our
 
@@ -368,7 +368,7 @@ And a stable planet for life as we know it requires an
 
 atmosphere that does not contain too much greenhouse gas.
 
-## This is
+# This is
 
 basic science.
 
@@ -376,11 +376,11 @@ The safety limit for the level of carbon dioxide in the atmosphere
 
 is thought to be around 350 parts per million.
 
-## We reached that
+# We reached that
 
-## landmark sometime in 1987
+landmark sometime in 1987
 
-### and in 2020 we surpassed 415 parts
+and in 2020 we surpassed 415 parts
 
 per million.
 
@@ -388,35 +388,35 @@ The world has not experienced such high levels of
 
 atmospheric carbon dioxide for at least 3 million years.
 
-## This
+# This
 
 increase is happening at an unprecedented speed.
 
-## Half of the
+# Half of the
 
 anthropogenic carbon dioxide emissions have been emitted since
 
 1990—in the past 30 years.
 
-## As a result
+# As a result
 
-## our functioning and balanced
+our functioning and balanced
 
 atmosphere has become a finite natural resource.
 
-## A limited resource
+# A limited resource
 
 that today is being used up primarily by a very small number of
 
 people.
 
-### This is the heart of the problem
+# This is the heart of the problem
 
 climate injustice.
 
-## It is not
+# It is not
 
-## only an issue between nations
+only an issue between nations
 
 it is an issue within all societies.
 
@@ -430,37 +430,37 @@ On average, the top
 
 dioxide per person every year.
 
-### For the 50 percent of the world
+# For the 50 percent of the world
 
-### population with the lowest incomes
+population with the lowest incomes
 
-### that same per capita figure is
+that same per capita figure is
 
-## 76 tons (0.
+76 tons (0.
 
-## 69 metric tons).
+69 metric tons).
 
-### These high emitters are the people we
+# These high emitters are the people we
 
 consider to be successful.
 
-## They are our leaders
+# They are our leaders
 
-## our celebrities
+our celebrities
 
 role models.
 
 The people we aspire to be like.
 
-## Or just about anyone
+# Or just about anyone
 
 with a high enough income.
 
-### There are many elephants in the room
+# There are many elephants in the room
 
-### when it comes to the climate crisis
+when it comes to the climate crisis
 
-## and climate injustice is
+and climate injustice is
 
 undoubtedly one of the biggest.
 
@@ -484,11 +484,11 @@ indd 8 15/02/2021 16:2115/02/2021 16:21
 
 treaty completely founded on equity and morality
 
-## with all its
+with all its
 
 nonbinding and voluntary goals and targets.
 
-## Furthermore
+# Furthermore
 
 the school strike movement is based firmly on the
 
@@ -498,7 +498,7 @@ On morals.
 
 Or guilt, if you so wish.
 
-## And the
+# And the
 
 reason the movement has been so successful is probably because the
 
@@ -506,7 +506,7 @@ dire consequences of climate inaction no longer just threaten people
 
 “far away”—now they involve everyone’s children.
 
-## The consequences
+# The consequences
 
 have moved closer to those of us who had until this point felt fairly
 
@@ -514,39 +514,39 @@ safe.
 
 People have started to get scared.
 
-### Scared as in really frightened
+# Scared as in really frightened
 
 for the well-being and safety of their loved ones.
 
 If lowering our emissions of greenhouse gases were one of
 
-## humanity’s main objectives
+humanity’s main objectives
 
 we could start right away.
 
-## When we
+# When we
 
 humans really put our minds and resources into something
 
-## we can
+we can
 
 achieve almost anything.
 
-### Just take the quick and effective
+# Just take the quick and effective
 
 development of vaccines against COVID-19.
 
 Unfortunately,
 
-## though
+though
 
 our objective today is not to lower our emissions.
 
-## That is
+# That is
 
 not what we are fighting for.
 
-### We are fighting to maintain our
+# We are fighting to maintain our
 
 way of life.
 
@@ -556,17 +556,17 @@ Period,” said
 
 US President George H.
 
-### Bush just before the 1992 UN Earth
+# Bush just before the 1992 UN Earth
 
 summit in Rio de Janeiro.
 
 Since then, not much has changed.
 
-## Most
+# Most
 
 world leaders would probably still say the same
 
-## if not through their
+if not through their
 
 words, then certainly through their actions.
 
@@ -576,21 +576,21 @@ So, instead of lowering our emissions we search for “solutions.
 
 Solutions to what, we should ask?
 
-### Solutions to a crisis that the vast
+# Solutions to a crisis that the vast
 
 majority of us cannot even begin to fully understand?
 
-## Or solutions
+# Or solutions
 
 that allow us to be able to go on like before?
 
 Well, why not both you say?
 
-### But the sad answer is that we have
+# But the sad answer is that we have
 
 left it too late for that to be possible.
 
-## If you read the current best
+# If you read the current best
 
 available science reports—the Intergovernmental Panel on Climate
 
@@ -602,7 +602,7 @@ Change Special Report on Global Warming of 1.
 
 Emissions Gap Report produced by the United Nations Environment
 
-## Program
+# Program
 
 and the Global Assessment Report on Biodiversity and
 
@@ -628,7 +628,7 @@ For us to stay below 2.
 
 below 3.
 
-## 6°F (2°C)
+6°F (2°C)
 
 we will need to start tearing up valid contracts
 
@@ -636,13 +636,13 @@ and deals.
 
 We will need to leave assets in the ground.
 
-## We will need
+# We will need
 
 to boost every imaginable carbon sink to the very maximum.
 
 standing tree must then be worth more than a dead one.
 
-## We will
+# We will
 
 need to transfer to a zero-carbon society while leaving no one behind
 
@@ -668,9 +668,9 @@ broad political and structural changes on an unprecedented scale
 
 Climate Change.
 
-## However
+# However
 
-### those changes are nowhere in sight
+those changes are nowhere in sight
 
 today.
 
@@ -678,31 +678,31 @@ Nor are they likely to appear anytime soon.
 
 When the first vaccines for COVID-19 were rolled out in
 
-## December 2020
+# December 2020
 
 health services across the globe called upon
 
 celebrities to receive some of the first shots
 
-## as a way of convincing
+as a way of convincing
 
 others to do the same.
 
-## This is a well-proven method
+# This is a well-proven method
 
-## it is how we
+it is how we
 
 humans work.
 
-### We are social animals—herd animals
+We are social animals—herd animals
 
-## if you like—we
+if you like—we
 
 follow our leaders and copy the behavior of those around us.
 
 According to the latest Emissions Gap Report
 
-## “Popular debate
+“Popular debate
 
 has often pitted ‘behavior change’ and ‘system change’ against each
 
@@ -714,33 +714,33 @@ system change and behavior change are two sides of the
 
 same coin.
 
-### The climate and ecological crisis is
+# The climate and ecological crisis is
 
-## in fact
+in fact
 
-## only a symptom of a
+only a symptom of a
 
 much larger sustainability crisis.
 
-### A crisis for which there will be no
+# A crisis for which there will be no
 
 vaccine.
 
 It is a crisis that involves everything from climate and
 
-## ecological breakdown
+ecological breakdown
 
-### loss of fertile soils and biodiversity
+loss of fertile soils and biodiversity
 
-## acidification of the oceans
+acidification of the oceans
 
-### to loss of forests and wildlife and—
+to loss of forests and wildlife and—
 
 indeed—emergence of new diseases and new pandemics.
 
 During the five years since the Paris Agreement was signed
 
-## a lot
+a lot
 
 has happened.
 
@@ -752,11 +752,11 @@ widening by the minute.
 
 We are still speeding in the wrong direction.
 
-## Commitments are being made
+# Commitments are being made
 
-## distant hypothetical targets
+distant hypothetical targets
 
-## are being set
+are being set
 
 and big speeches are being given.
 
@@ -764,7 +764,7 @@ Yet, when it
 
 comes to the immediate action we need to take
 
-## we are still in a
+we are still in a
 
 US_001-011_321647_BB_Prelims.
 
@@ -772,7 +772,7 @@ indd 10US_001-011_321647_BB_Prelims.
 
 indd 10 15/02/2021 16:2215/02/2021 16:22
 
-## state of complete denial
+state of complete denial
 
 as we continue to waste our time creating
 
@@ -782,7 +782,7 @@ The prospect of solving the climate and ecological crisis is not
 
 very hopeful, to say the least.
 
-### This bleak outlook is probably part of
+# This bleak outlook is probably part of
 
 the reason why the situation is so incredibly hard to communicate
 
@@ -790,15 +790,15 @@ in our age of social media “likes” and celebrity culture.
 
 Nevertheless,
 
-## we have to tell it like it is
+we have to tell it like it is
 
-### because only then can there be true
+because only then can there be true
 
 hope.
 
 We should be adult enough to handle the truth.
 
-## And until we
+# And until we
 
 are, the children will continue to be the adults.
 
@@ -808,31 +808,31 @@ impossible.
 
 And that is sadly no longer a metaphor.
 
-## That is where
+# That is where
 
 we are.
 
 So, instead of focusing on vague
 
-## incomplete
+incomplete
 
-## insufficient
+insufficient
 
 hypothetical targets set up by people in power
 
-## we should put all our
+we should put all our
 
 efforts into communicating the reality.
 
 Because, despite what you
 
-## may think
+may think
 
 the vast majority of us are not aware of the situation we
 
 face.
 
-## Or rather
+# Or rather
 
 we have not yet been made aware.
 
@@ -842,15 +842,15 @@ How, you may ask?
 
 Well, just imagine how many leading politicians
 
-## newspapers
+newspapers
 
-## TV stations
+# TV stations
 
-## public figures
+public figures
 
-## celebrities
+celebrities
 
-## and influencers there are in
+and influencers there are in
 
 the world today.
 
@@ -858,7 +858,7 @@ And imagine if just a small number of them started
 
 to treat the climate crisis like the crisis it is.
 
-## Imagine who they might
+# Imagine who they might
 
 reach.
 
@@ -866,7 +866,7 @@ Imagine if millions and millions of everyday people like you
 
 and me were really aware of what we are up against.
 
-## Then everything
+# Then everything
 
 would change overnight.
 
@@ -876,7 +876,7 @@ the truth.
 
 People often ask me if there is one thing that they can do that will
 
-## really make a difference
+really make a difference
 
 and if so—what is it?
 
@@ -886,29 +886,29 @@ inform and educate yourself as much as you possibly can and then
 
 spread that awareness to others.
 
-### Because once you understand the
+# Because once you understand the
 
 full meaning and real consequences of our situation
 
-## then you will
+then you will
 
 know what to do.
 
 Our hope lies in the facts and the knowledge that make up the
 
-### current best available science
+current best available science
 
-### and that this knowledge can spread
+and that this knowledge can spread
 
 fast and far enough.
 
 That’s where you come in.
 
-## And that’s what
+And that’s what
 
 reading this book is all about.
 
-## January 2021
+# January 2021
 
 US_001-011_321647_BB_Prelims.
 
@@ -916,11 +916,11 @@ indd 11US_001-011_321647_BB_Prelims.
 
 indd 11 15/02/2021 16:2215/02/2021 16:22
 
-## 12 INTRODUCTION
+12 INTRODUCTION
 
 It is night.
 
-### You are driving hard down a steep
+# You are driving hard down a steep
 
 winding road.
 
@@ -930,9 +930,9 @@ careening too close to the edge.
 
 The headlights flicker out.
 
-## At any
+# At any
 
-## moment
+moment
 
 the car could skid off the road and fly into the ravine
 
@@ -940,49 +940,49 @@ where the vehicle and its occupants would rapidly change state.
 
 children in the back are screaming.
 
-### You might think the narrow road
+# You might think the narrow road
 
-## the murky darkness
+the murky darkness
 
-## and steep
+and steep
 
-### cliffs would force you to slow down
+cliffs would force you to slow down
 
-## but instead you bump along in
+but instead you bump along in
 
-## the dark
+the dark
 
 taking hairpin turns at high speed.
 
-### This may seem like a nightmare
+# This may seem like a nightmare
 
-### but humanity is taking the same
+but humanity is taking the same
 
 risk with our planet and our common future.
 
-## Earth’s life-support
+Earth’s life-support
 
 system is the sum of the planet’s ice sheets
 
-## oceans
+oceans
 
-## forests
+forests
 
-## rivers
+rivers
 
-## and lakes
+and lakes
 
-## and rich diversity of life
+and rich diversity of life
 
-### as well as gigantic recirculations
+as well as gigantic recirculations
 
-## of carbon
+of carbon
 
 water, nitrogen
 
 and phosphorus.
 
-## This system is now
+# This system is now
 
 most definitely unstable.
 
@@ -990,9 +990,9 @@ At any moment, we could push it over
 
 the edge, taking us—7.
 
-## 8 billion people—with it.
+8 billion people—with it.
 
-## In the past few decades
+# In the past few decades
 
 scientists have been frantically trying to
 
@@ -1002,21 +1002,21 @@ everything we know and love starts to break down.
 
 Ten years ago,
 
-### this research allowed us to estimate
+this research allowed us to estimate
 
-## for the first time
+for the first time
 
-## where to
+where to
 
 build the safety barriers to protect us from falling off the cliff.
 
 called these the “planetary boundaries.
 
-## ” They define
+” They define
 
-## scientifically
+scientifically
 
-## INTRODUCTION
+# INTRODUCTION
 
 Dear friends,
 
@@ -1024,9 +1024,9 @@ Humanity is waging war on nature.
 
 This is suicidal.
 
-## ANT ÓNIO GUTERRES
+ANT ÓNIO GUTERRES
 
-### UNITED NATIONS SECRETARY-GENERAL
+# UNITED NATIONS SECRETARY-GENERAL
 
 US_012-017_321647_BB_Intro.
 
@@ -1034,7 +1034,7 @@ indd 12US_012-017_321647_BB_Intro.
 
 indd 12 15/02/2021 16:3715/02/2021 16:37
 
-## INTRODUCTION
+# INTRODUCTION
 
 a safe operating space on Earth for us humans to have a good
 
@@ -1044,25 +1044,25 @@ After all, every child’s birthright is a
 
 stable, resilient planet.
 
-### Since the dawn of civilization
+# Since the dawn of civilization
 
 10,000 years
 
 ago, this has been our common heritage.
 
-## If Earth remains within
+# If Earth remains within
 
-## the planetary boundaries
+the planetary boundaries
 
 we have a better chance of a long stable
 
 future.
 
-## Outside the boundaries
+# Outside the boundaries
 
 anything could happen.
 
-## We have
+# We have
 
 written this book to tell this story.
 
@@ -1072,7 +1072,7 @@ The decade we have just stepped into—the
 
 roaring 2020s—will be decisive for humanity.
 
-## It is the moment to
+# It is the moment to
 
 catalyze the most remarkable transition in history to become
 
@@ -1082,7 +1082,7 @@ The scale of the challenge is immense.
 
 In the same way that the 1960s had the moonshot
 
-## the 2020s has the
+the 2020s has the
 
 Earthshot.
 
@@ -1090,19 +1090,19 @@ The goal of the Earthshot is nothing less than stabilizing
 
 our planet’s life-support system.
 
-### But compared with landing men on
+# But compared with landing men on
 
 the moon, the stakes are far higher.
 
-## If we can achieve this goal
+# If we can achieve this goal
 
-## and it is a big “if
+and it is a big “if
 
-## ” then perhaps it will
+” then perhaps it will
 
-### mark a profound transition for Earth
+mark a profound transition for Earth
 
-## in which one species gains
+in which one species gains
 
 the power to deliberately and positively influence a planet’s
 
@@ -1112,7 +1112,7 @@ We are far from that point right now.
 
 In fact, at the
 
-## moment
+moment
 
 we are acting as if our aim is to be one of the select few
 
@@ -1122,31 +1122,31 @@ habitability of a planet.
 
 This is occurring despite our vast knowledge
 
-## our global political systems
+our global political systems
 
 and our advancing technology.
 
 We have already struggled to contain a global pandemic
 
-### struggled to slow extinction rates
+struggled to slow extinction rates
 
-### struggled to halt deforestation
+struggled to halt deforestation
 
 and struggled to rein in greenhouse gas emissions.
 
-## We have cut a
+# We have cut a
 
-### gaping hole in the ozone layer
+gaping hole in the ozone layer
 
-## and we watch mutely as corals
+and we watch mutely as corals
 
-## bleach
+bleach
 
-## ice sheets melt
+ice sheets melt
 
 and fires blaze.
 
-## Our power is outstripping
+# Our power is outstripping
 
 our wisdom.
 
@@ -1156,9 +1156,9 @@ In the past decade, we have seen an
 
 explosion of evidence that a global population of 7.
 
-## 8 billion people,
+8 billion people,
 
-## growing to 10 billion
+growing to 10 billion
 
 can live a good life within Earth’s boundaries.
 
@@ -1166,7 +1166,7 @@ And this can be achieved by 2050.
 
 The big drama is that, in order
 
-## to succeed
+to succeed
 
 we need to do much of the work by 2030 or thereabouts
 
@@ -1180,7 +1180,7 @@ with Earth.
 
 Estimated time of arrival: one decade.
 
-## What would we
+# What would we
 
 US_012-017_321647_BB_Intro.
 
@@ -1188,7 +1188,7 @@ indd 13US_012-017_321647_BB_Intro.
 
 indd 13 23/02/2021 10:5123/02/2021 10:51
 
-## INTRODUCTION
+# INTRODUCTION
 
 Would we use our superpower—cooperation—to come together
 
@@ -1198,71 +1198,71 @@ the problem?
 
 Or would we do nothing?
 
-## Would we hope that we get
+# Would we hope that we get
 
 lucky and the rock grazes past?
 
 Actually, we do not need to imagine.
 
-## A pandemic swept across
+# A pandemic swept across
 
-## the world in 2020
+the world in 2020
 
 in the midst of writing this book.
 
-## COVID-19 was
+# COVID-19 was
 
-### no black swan—a rare and large-scale
+no black swan—a rare and large-scale
 
 unforeseeable event.
 
-## For at
+# For at
 
-## least a decade
+least a decade
 
 scientists had been sending unequivocal warning
 
 signals specifically about a coronavirus.
 
-## Health experts estimated
+# Health experts estimated
 
 the cost of an adequate early warning system amounted to one or
 
 two dollars per person on Earth every year.
 
-## But governments failed
+# But governments failed
 
 to heed the warnings and within months of the outbreak more than
 
 half the population on Earth was in lockdown.
 
-## We are ignoring
+# We are ignoring
 
 knowledge of existential risks.
 
-## Pandemics
+# Pandemics
 
-## climate change
+climate change
 
-### and mass extinctions of life on Earth
+and mass extinctions of life on Earth
 
 are part of the same pattern and they are tightly connected.
 
-## We are
+# We are
 
-### now living in a new geological age
+now living in a new geological age
 
 the Anthropocene.
 
-## This new age
+# This new age
 
-## is characterized by speed
+is characterized by speed
 
 scale, surprise
 
 and connectivity.
 
-## Risks
+# Risks
 
 are amplified because we separate our economy from nature and
 
@@ -1272,11 +1272,11 @@ The pandemic recovery is a transformative moment to
 
 rethink our relationships with the economy
 
-## with each other
+with each other
 
 with our planet.
 
-## Time is precious
+# Time is precious
 
 so in this book we want to concentrate on
 
@@ -1284,13 +1284,13 @@ solutions.
 
 We have identified six system transformations—energy
 
-## food and land
+food and land
 
-## inequality and poverty
+inequality and poverty
 
-## cities
+cities
 
-## population and health
+population and health
 
 and technology—that are necessary to stabilize Earth and ensure
 
@@ -1310,7 +1310,7 @@ The speed, scale, and impact of
 
 campaigns such as FridaysForFuture are astounding.
 
-## They
+# They
 
 have changed the conversation and upped the urgency.
 
@@ -1318,7 +1318,7 @@ These movements are calling out and exposing political
 
 and industrial failures.
 
-## Their impact cannot be
+# Their impact cannot be
 
 underestimated.
 
@@ -1326,7 +1326,7 @@ And they are not alone.
 
 Business leaders,
 
-## investors
+investors
 
 and legal experts are throwing their weight behind
 
@@ -1338,23 +1338,23 @@ indd 14US_012-017_321647_BB_Intro.
 
 indd 14 15/02/2021 16:3715/02/2021 16:37
 
-## INTRODUCTION
+# INTRODUCTION
 
 Political momentum.
 
-### The global economy is driven by three
+# The global economy is driven by three
 
-## economic powerhouses
+economic powerhouses
 
-## Europe
+# Europe
 
 China, and the United
 
 States.
 
-## In 2019
+# In 2019
 
-### Europe committed to reach net zero
+# Europe committed to reach net zero
 
 greenhouse gas emissions by 2050.
 
@@ -1364,27 +1364,27 @@ Chinese president Xi Jinping announced his country would
 
 be carbon neutral by 2060 at the latest.
 
-## Then President Joe
+# Then President Joe
 
 Biden came to power and committed to putting the United
 
 States on course to reach net zero by 2050 (and
 
-## incredibly
+incredibly
 
 run on 100 percent clean electricity by 2035).
 
-## Like the G7 and
+# Like the G7 and
 
-## G20 groups of countries
+# G20 groups of countries
 
-### this creates a new “G3 for climate
+this creates a new “G3 for climate
 
 with the three largest economic regions driving a remarkable
 
-### and necessary economic transformation
+and necessary economic transformation
 
-## which will impact
+which will impact
 
 the whole world.
 
@@ -1392,7 +1392,7 @@ Economic momentum.
 
 The fossil fuel era is over.
 
-## Solar
+# Solar
 
 power is now the cheapest source of electricity in the history
 
@@ -1404,15 +1404,15 @@ The fourth industrial revolution,
 
 from 5G to artificial intelligence and biotechnology
 
-## is on the
+is on the
 
 cusp of disrupting all economic sectors.
 
-## This can and must be
+# This can and must be
 
 targeted at supporting the economic transformation.
 
-## Combined
+# Combined
 
 these forces are pushing us inexorably toward a
 
@@ -1420,11 +1420,11 @@ positive tipping point.
 
 Planetary awareness is finally emerging.
 
-## course
+course
 
 we acknowledge that this is just the start.
 
-## Political leaders
+# Political leaders
 
 must commit to even more ambitious goals.
 
@@ -1432,23 +1432,23 @@ The pandemic has provided a unique opportunity to fix our
 
 broken economic system and reevaluate what really matters.
 
-## The fall
+# The fall
 
 in air pollution during the lockdown months gave a glimpse of a
 
 future without dense smog hanging over cities.
 
-## The crisis often
+# The crisis often
 
 brought out the best of humanity.
 
 Let’s hang on to that.
 
-## But let’s also
+But let’s also
 
 ask, what do we really value?
 
-### What kind of societies do we want to
+# What kind of societies do we want to
 
 live in?
 
@@ -1456,7 +1456,7 @@ Can we build an economy that does not fall to pieces at the
 
 slightest sign of uncertainty?
 
-## And can we build an economic
+# And can we build an economic
 
 recovery over the next decade that simultaneously supports a
 
@@ -1464,15 +1464,15 @@ resilient planet?
 
 We need to jettison old-school economic thinking
 
-## go back to the classroom
+go back to the classroom
 
-### and learn a new set of three “R”s
+and learn a new set of three “R”s
 
-## resilience
+resilience
 
 regeneration, and recirculation.
 
-### Economic growth at the expense of
+# Economic growth at the expense of
 
 Earth’s biosphere—our living planet—must be redirected toward
 
@@ -1482,15 +1482,15 @@ indd 15US_012-017_321647_BB_Intro.
 
 indd 15 15/02/2021 16:3715/02/2021 16:37
 
-## INTRODUCTION
+# INTRODUCTION
 
-## growth based on knowledge
+growth based on knowledge
 
-## information
+information
 
-## digitalization
+digitalization
 
-## services
+services
 
 and sharing.
 
@@ -1502,7 +1502,7 @@ we fall off the cliff?
 
 Even if greenhouse gas emissions are reduced
 
-## by 50 percent this decade
+by 50 percent this decade
 
 the risk of skidding over the cliff remains
 
@@ -1510,23 +1510,23 @@ high.
 
 But we would not fall over the edge in 2031
 
-## the danger is that
+the danger is that
 
 we trigger self-warming and make the drift unstoppable.
 
-## Here are
+# Here are
 
-## some of the risks we face
+some of the risks we face
 
 irreversibly losing tropical coral reefs
 
 pushing the Amazon rain forest across a tipping point
 
-## setting
+setting
 
 Greenland and West Antarctic ice sheets on an irreversible melting
 
-## course
+course
 
 and sparking unstoppable methane release from thawing
 
@@ -1534,25 +1534,25 @@ permafrost.
 
 There will never be a point where all is lost.
 
-## Many of
+# Many of
 
 our colleagues rightly say that if we cross tipping points we may still
 
 be able to control the rate of change by acting decisively
 
-## but the
+but the
 
-## longer we wait
+longer we wait
 
 the more turbulence and turmoil we leave to our
 
 children and grandchildren for generations to come.
 
-## And if there is
+# And if there is
 
 still a chance to pull us back from the brink
 
-## should we not put all
+should we not put all
 
 our efforts into that action?
 
@@ -1562,49 +1562,49 @@ stewardship in three acts.
 
 Ultimately, it is about changing course,
 
-### about responsibility and opportunity
+about responsibility and opportunity
 
-## about setting a new standard
+about setting a new standard
 
 for our accomplishments.
 
 Act I is the story of Earth’s life-support system
 
-## the cascading
+the cascading
 
 water, carbon
 
-## nitrogen
+nitrogen
 
-## and phosphorus cycles
+and phosphorus cycles
 
-## the crashing
+the crashing
 
-## continents
+continents
 
 the rolling waves and receding ice sheets
 
-## and the twists
+and the twists
 
 turns, and surprises of evolution.
 
 Here, we will explain that Earth
 
-## has a hair trigger
+has a hair trigger
 
 a small change could set off a cascade of tipping
 
 points that could send global temperatures soaring.
 
-## Act I will also
+# Act I will also
 
-### tell the story of how one species
+tell the story of how one species
 
-## through its own revolutions—
+through its own revolutions—
 
-## agricultural
+agricultural
 
-## scientific
+scientific
 
 and industrial—reshaped our planet.
 
@@ -1620,13 +1620,13 @@ Scientists have been racing to assemble an
 
 unparalleled understanding of the health of the planet.
 
-## This has led
+# This has led
 
 to the undisputed conclusion that the rate of change of Earth’s life-
 
 support system is accelerating.
 
-### The only stable state that we know
+# The only stable state that we know
 
 can support civilization—the Holocene—is disappearing in the
 
@@ -1640,7 +1640,7 @@ indd 16US_012-017_321647_BB_Intro.
 
 indd 16 15/02/2021 16:3715/02/2021 16:37
 
-## INTRODUCTION
+# INTRODUCTION
 
 Act III is the story of the Earthshot—our most important mission.
 
@@ -1652,7 +1652,7 @@ Our decisions in the next ten years will
 
 influence the next ten millennia.
 
-## When assembled
+# When assembled
 
 the fragmented knowledge about our planet
 
@@ -1660,11 +1660,11 @@ and our place in it amounts to nothing less than a paradigm shift in
 
 our understanding of Earth and our responsibility in relation to it.
 
-### How will this translate to a cultural
+# How will this translate to a cultural
 
-## economic
+economic
 
-## and political
+and political
 
 paradigm shift?
 
@@ -1672,7 +1672,7 @@ The way we operate as societies must fundamentally
 
 transform—this is revolution not evolution.
 
-## Belief in infinite growth
+# Belief in infinite growth
 
 based on material extraction and expulsion is not compatible with
 
@@ -1682,7 +1682,7 @@ But there is another way.
 
 most important insight in this book is its simplest
 
-## it is past time we
+it is past time we
 
 became planetary stewards.
 
@@ -1690,7 +1690,7 @@ Breaking Boundaries: The Science of Our
 
 Planet is about that transformation.
 
-## It is not about where we are
+# It is not about where we are
 
 coming from.
 
@@ -1698,47 +1698,47 @@ It is about where we are going.
 
 It took 50 years for us—and let’s be clear
 
-## primarily the “us” here
+primarily the “us” here
 
 refers to the wealthiest people in the wealthiest countries—to push
 
-## Earth beyond a 10
+# Earth beyond a 10
 
 000-year period of extraordinary stability.
 
 decisions we make today—literally today —this decade and in the
 
-## next 50 years
+next 50 years
 
 will influence the stability of our planet for the coming
 
 10,000 years.
 
-## Three things unite us
+# Three things unite us
 
-### our common human identity within a
+our common human identity within a
 
-## truly global civilization
+truly global civilization
 
-### our common home—this planet we call
+our common home—this planet we call
 
 Earth—and our common future.
 
-### If we can turn our ship within a
+# If we can turn our ship within a
 
-## decade
+decade
 
 if we become effective planetary stewards
 
-## then maybe
+then maybe
 
-## just
+just
 
 maybe, we will have earned our name Homo sapiens —wise man.
 
 This leaves us with a final question.
 
-## What kind of world do we
+# What kind of world do we
 
 want to leave to our children?
 
@@ -1750,17 +1750,17 @@ No biodiversity loss.
 
 No poverty.
 
-## This is
+# This is
 
-## not a manifesto
+not a manifesto
 
 nor is it an aspiration.
 
-## It is one of two choices that
+# It is one of two choices that
 
 we—humanity—have on the table right now.
 
-## January 2021
+# January 2021
 
 US_012-017_321647_BB_Intro.
 
@@ -1768,9 +1768,9 @@ indd 17US_012-017_321647_BB_Intro.
 
 indd 17 23/02/2021 10:5123/02/2021 10:51
 
-## ACT
+# ACT
 
-## I18 ACT I
+# I18 ACT I
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -1778,15 +1778,15 @@ indd 18US_018-063_321647_BB_Chap1-4.
 
 indd 18 16/02/2021 11:3016/02/2021 11:30
 
-## ACT
+# ACT
 
-## I19 CHAPTER 1
+# I19 CHAPTER 1
 
-## THREE REVOLUTIONS
+# THREE REVOLUTIONS
 
-## THAT SHAPED
+# THAT SHAPED
 
-## OUR PLANET
+# OUR PLANET
 
 Look again at that dot.
 
@@ -1800,55 +1800,55 @@ On it, everyone you love, everyone you
 
 know, everyone you ever heard of
 
-## every human
+every human
 
-## being who ever was
+being who ever was
 
 lived out their lives.
 
-## CARL SAGAN
+# CARL SAGAN
 
 PALE BLUE DOT: A VISION
 
 OF THE HUMAN FUTURE IN SPACE , 1994
 
-## In 1990
+# In 1990
 
-## NASA snapped a photograph
+# NASA snapped a photograph
 
-## a kind of family portrait
+a kind of family portrait
 
-## from the Voyager I spacecraft
+from the Voyager I spacecraft
 
-### which had just reached the edge of
+which had just reached the edge of
 
 our solar system.
 
-### For the final time on the mission
+# For the final time on the mission
 
-## the camera
+the camera
 
 pointed back to Earth, 3.
 
-### 7 billion miles (6 billion kilometers) away.
+7 billion miles (6 billion kilometers) away.
 
 This photograph became known as the “Pale Blue Dot.
 
-## ” Since the
+” Since the
 
-## image was taken
+image was taken
 
-## 30 years ago
+30 years ago
 
-### scientists have identified more than
+scientists have identified more than
 
 4,000 exoplanets (planets orbiting other stars).
 
-## Some are planets
+# Some are planets
 
 like ours.
 
-## Each year
+# Each year
 
 our understanding of these exotic exoplanets
 
@@ -1860,21 +1860,21 @@ star; measure their density
 
 calculate how much they weigh.
 
-## That
+# That
 
 sort of thing.
 
-## In the next decade
+# In the next decade
 
-## we may even be able to
+we may even be able to
 
 elucidate the composition of their atmospheres and whether they
 
 might have liquid water on their surfaces.
 
-## Isn’t it remarkable that
+Isn’t it remarkable that
 
-## without leaving Earth
+without leaving Earth
 
 we will soon be able to get a glimpse of
 
@@ -1888,11 +1888,11 @@ indd 19US_018-063_321647_BB_Chap1-4.
 
 indd 19 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
-## Since the “Pale Blue Dot
+Since the “Pale Blue Dot
 
-### ” any alien life-form able to observe
+” any alien life-form able to observe
 
 Earth from a distant exoplanet might notice profound changes
 
@@ -1910,19 +1910,19 @@ A colossal shift in the acidity of the ocean.
 
 For any observer accumulating large amounts of data over the
 
-## past century
+past century
 
 it is impossible to miss the fact that Earth’s life-support
 
 system is undergoing some sort of trauma.
 
-## They would probably
+# They would probably
 
-## conclude that
+conclude that
 
 yes, life exists on Earth—indeed
 
-## there is a rich
+there is a rich
 
 biosphere—but the planet is likely in the midst of some kind
 
@@ -1938,15 +1938,15 @@ same thing.
 
 To answer this question—what happens next?
 
-## —we must first
+—we must first
 
 understand the risks to the very stability of Earth’s life-support
 
 systems.
 
-## With these insights
+# With these insights
 
-### we can explore what we can do about
+we can explore what we can do about
 
 them and seek appropriate pathways toward a prosperous and
 
@@ -1954,69 +1954,69 @@ equitable future on our beloved little Pale Blue Dot.
 
 The universe is 13.
 
-### 8 billion years old and expanding like a balloon.
+8 billion years old and expanding like a balloon.
 
 Within it hurtle 2 trillion galaxies (at least).
 
 At the center of one,
 
-## the Milky Way
+the Milky Way
 
 a supermassive black hole as large as 4 million
 
 suns spins.
 
-## This black hole
+# This black hole
 
-## called Sagittarius A
+called Sagittarius A
 
-## holds between
+holds between
 
-### 100 and 400 billion stars in its grip.
+100 and 400 billion stars in its grip.
 
 On an outer arm, one star
 
 hurtles through space dragging with it eight planets.
 
-## Just one of
+# Just one of
 
-## these planets
+these planets
 
 Earth, is known to have life.
 
-## 1 It orbits near the edge
+1 It orbits near the edge
 
 of the habitable zone closest to the sun.
 
 What do we know about life on Earth?
 
-## We have a pretty good
+# We have a pretty good
 
 handle on some of the vital statistics.
 
-## The most numerous organism
+# The most numerous organism
 
 on Earth is probably the bacterium Pelagibacter ubique
 
-## found in the
+found in the
 
 ocean and freshwater.
 
 This was first described in 2002.
 
-## Scientists
+# Scientists
 
 estimate that the ocean contains 1029 microbes
 
-## far more than
+far more than
 
 the 1022 stars in the observable universe.
 
-## If you were to place all life
+# If you were to place all life
 
 1 Other parts of the solar system are potentially habitable.
 
-## Prime suspects
+# Prime suspects
 
 are Saturn’s moon Enceladus and Jupiter’s Europa.
 
@@ -2030,29 +2030,29 @@ indd 20US_018-063_321647_BB_Chap1-4.
 
 indd 20 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
-## on Earth on a weighing scale
+on Earth on a weighing scale
 
-## the writhing
+the writhing
 
-## wriggling mess would
+wriggling mess would
 
 weigh 600 billion tons (550 billion metric tons).
 
-## Plants make up
+# Plants make up
 
-## 82 percent of this weight.
+82 percent of this weight.
 
 There are about 3 trillion trees on Earth
 
 but we are losing 15 billion a year through deforestation.
 
-## We have
+# We have
 
 cut down 46 percent since the dawn of agriculture 10
 
-## 000 years
+000 years
 
 ago, and most of the chopping happened in the past two centuries.
 
@@ -2060,55 +2060,55 @@ We have been busy.
 
 If we remove from the weighing scale all life that is not
 
-### mammalian—all species of birds
+mammalian—all species of birds
 
-## reptiles
+reptiles
 
-## amphibians
+amphibians
 
-## plants
+plants
 
-## mollusks
+mollusks
 
-## insects
+insects
 
 and arachnids—a full 96 percent of the weight
 
-### of mammals will be made up of humans
+of mammals will be made up of humans
 
-## and cows
+and cows
 
 sheep, pigs
 
 and horses.
 
-## Wild mammals—big cats
+Wild mammals—big cats
 
-## rodents
+rodents
 
-## blue whales
+blue whales
 
-## dolphins
+dolphins
 
-## and the other 6
+and the other 6
 
-### 500 species of generally furry creatures—
+500 species of generally furry creatures—
 
 make up just 4 percent.
 
-### It was the other way around a few short
+# It was the other way around a few short
 
 centuries ago.
 
 Earth 1.
 
-## 0 to 4.
+0 to 4.
 
 Some 4.
 
-## 5 billion years ago
+5 billion years ago
 
-### the planets in our solar system began
+the planets in our solar system began
 
 forming from the hot mess of gases and rocks spinning around the
 
@@ -2132,7 +2132,7 @@ with oxygen, Earth 3.
 
 These revolutions have several things in common.
 
-## They are all
+# They are all
 
 linked to evolutionary innovation and they all opened up new
 
@@ -2150,31 +2150,31 @@ and spit out resources faster.
 
 After each revolution, things
 
-### eventually settled to a new order
+eventually settled to a new order
 
 but not without consequences.
 
 Each revolution disrupted some or all of Earth’s natural cycles of
 
-## carbon
+carbon
 
-## oxygen
+oxygen
 
 water, nitrogen
 
-## or phosphorus
+or phosphorus
 
-## often for millions
+often for millions
 
 of years.
 
-## Eventually
+# Eventually
 
 some sort of harmony was restored when new
 
 organisms evolved to recycle the waste materials.
 
-## The relative
+# The relative
 
 stability of Earth’s life-support system—the rivers
 
@@ -2182,15 +2182,15 @@ lakes, oceans
 
 soils, rocks
 
-## and air
+and air
 
-### as well as vast cycles of water
+as well as vast cycles of water
 
-## carbon
+carbon
 
-## oxygen
+oxygen
 
-## nitrogen
+nitrogen
 
 and phosphorus—depends on the emergence of circular
 
@@ -2202,11 +2202,11 @@ indd 21US_018-063_321647_BB_Chap1-4.
 
 indd 21 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 Earth is now undergoing another evolutionary leap
 
-## and the rate
+and the rate
 
 of change of Earth’s life-support system is accelerating.
 
@@ -2216,15 +2216,15 @@ one species is driving it: us.
 
 So, how do we know any of this?
 
-### The sum total of our knowledge
+# The sum total of our knowledge
 
-## about everything
+about everything
 
 from expanding universes and folding proteins to
 
 the origin of humanity and the data showing that women smile
 
-## more than men
+more than men
 
 2 is contained in the 80 million research papers that
 
@@ -2234,7 +2234,7 @@ in Paris and London in 1665.
 
 Scientific knowledge is expanding like the universe.
 
-## In the
+# In the
 
 region of 3 million academic papers are published every year
 
@@ -2242,37 +2242,37 @@ region of 3 million academic papers are published every year
 
 More than 70,000 papers
 
-### have been published on a single protein
+have been published on a single protein
 
-## called “p53
+called “p53
 
-## ” and there are
+” and there are
 
-## more than 10
+more than 10
 
-### 000 papers on algorithms for self-driving cars.
+000 papers on algorithms for self-driving cars.
 
-## With
+# With
 
 so much information flying around in so many disparate journals
 
-### largely locked behind paywalls
+largely locked behind paywalls
 
-## research can seem confusing
+research can seem confusing
 
-## fragmented
+fragmented
 
-## unstructured
+unstructured
 
-### and impossible to keep up with
+and impossible to keep up with
 
-## even for
+even for
 
 people working in science.
 
-### While our collective knowledge has
+# While our collective knowledge has
 
-## never been greater
+never been greater
 
 at an individual level scientists are specialists
 
@@ -2284,7 +2284,7 @@ we will pull out the essential scientific findings to create a big-picture
 
 narrative as we move through Earth’s history
 
-## from a lifeless
+from a lifeless
 
 lump of rock to a momentous event around 3 million years ago
 
@@ -2292,43 +2292,43 @@ onset of the ice ages that shaped us as a species.
 
 Let’s start with age.
 
-### How on Earth do we know that Earth is
+# How on Earth do we know that Earth is
 
-## 4.5 billion years old?
+# 4.5 billion years old?
 
 Earth 1.
 
 0: Unraveling our earliest origins
 
-## In the 4th century bce
+# In the 4th century bce
 
-### Aristotle mused that Earth had existed
+# Aristotle mused that Earth had existed
 
-## eternally
+eternally
 
 probably thinking to himself that this would be difficult
 
 to disprove.
 
-## Charles Lyell
+# Charles Lyell
 
-### an influential 19th-century geologist
+an influential 19th-century geologist
 
-## tended to agree
+tended to agree
 
 maybe for similar reasons.
 
 2 It probably has more to do with culture than genetics
 
-## according to a study of 162
+according to a study of 162
 
 research papers on smiling.
 
-## 3 The first academic journal
+3 The first academic journal
 
-## Journal des Sçavans
+Journal des Sçavans
 
-### was published in Paris in January
+was published in Paris in January
 
 1665, followed by Philosophical T ransactions of the Royal Society in London in
 
@@ -2340,53 +2340,53 @@ indd 22US_018-063_321647_BB_Chap1-4.
 
 indd 22 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
 One of the first to take a heroic stab at the problem of Earth’s
 
 age was the Roman orator Julius Africanus
 
-## during the reign of
+during the reign of
 
 Emperor Nero in the 3rd century ce.
 
-## Africanus composed a
+# Africanus composed a
 
-## masterwork
+masterwork
 
 a monumental five-book world history.
 
-## He scoured
+# He scoured
 
-### scrolls and tablets written in Hebrew
+scrolls and tablets written in Hebrew
 
 Greek, Egyptian
 
-## and Persian
+and Persian
 
 to exhaustively chart the chronology of Earth.
 
 With great fanfare,
 
-### Africanus announced Earth to be 5
+# Africanus announced Earth to be 5
 
-## 720 years old.
+720 years old.
 
-## There were very
+# There were very
 
 few quibbles with this estimate for a good fifteen centuries.
 
-## Even as
+# Even as
 
-## late as 1650
+late as 1650
 
 Ireland’s Archbishop James Ussher proposed Earth
 
-### came into existence on October 22
+came into existence on October 22
 
-## 4004 bce
+4004 bce
 
-## a rather alarmingly
+a rather alarmingly
 
 precise date not so far removed from that of Africanus.
 
@@ -2394,15 +2394,15 @@ Indeed, both
 
 estimates give a pretty good start date for the age of recorded history
 
-### and the formation of civilizations
+and the formation of civilizations
 
 give or take a thousand years.
 
-## By the late 19th century
+# By the late 19th century
 
 some geologists were forming a different
 
-## conclusion
+conclusion
 
 perhaps Earth could be around 100 million years old.
 
@@ -2410,35 +2410,35 @@ But then the discovery of radioactive material in rocks changed all
 
 that.
 
-## In 1956
+# In 1956
 
-## Clair Cameron Patterson
+# Clair Cameron Patterson
 
-## a geophysicist at the
+a geophysicist at the
 
-### California Institute of Technology
+# California Institute of Technology
 
-## published one of the most
+published one of the most
 
 remarkable papers in the scientific canon
 
-## “Age of meteorites and
+“Age of meteorites and
 
 the Earth.
 
 ”4 Patterson realized that the mineral zircon
 
-## found in the
+found in the
 
 oldest igneous rocks throughout Earth’s crust
 
-## could unlock the age
+could unlock the age
 
 of the planet.
 
-### Zircon is never pure when it forms
+# Zircon is never pure when it forms
 
-## it is filled with tiny
+it is filled with tiny
 
 uranium particles.
 
@@ -2448,49 +2448,49 @@ of decaying to the metal lead.
 
 If you find any lead present in a zircon
 
-## sample
+sample
 
 it is because of radioactive decay.
 
-## If you can measure the
+# If you can measure the
 
-## amount of lead carefully
+amount of lead carefully
 
 you can figure out exactly when the zircon
 
-## formed and
+formed and
 
 hence, the age of the sample.
 
-## Patterson used this
+# Patterson used this
 
 information to put Earth at 4.
 
-### 55 billion years old, give or take
+55 billion years old, give or take
 
-## 70 million years.
+70 million years.
 
-## Since then
+# Since then
 
-### there have been minor disagreements
+there have been minor disagreements
 
-### about the precise age of our planet
+about the precise age of our planet
 
-## but no one has proposed any
+but no one has proposed any
 
 strong evidence for a radically different figure.
 
-## This marks the
+# This marks the
 
 beginning of Earth 1.
 
-### 0—the Hadean—and the formation of the
+0—the Hadean—and the formation of the
 
 planet.
 
 This first state ended with a more ordered
 
-## cooler planet that
+cooler planet that
 
 had an ocean and an atmosphere.
 
@@ -2508,7 +2508,7 @@ indd 23US_018-063_321647_BB_Chap1-4.
 
 indd 23 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 Earth 2.
 
@@ -2516,19 +2516,19 @@ Earth 2.
 
 The first planetary revolution was the evolution of life on Earth
 
-## 8 billion years ago
+8 billion years ago
 
-## and perhaps earlier
+and perhaps earlier
 
-## although this is where
+although this is where
 
 things get contentious.
 
-## Essentially
+# Essentially
 
-## as far as we can tell
+as far as we can tell
 
-## single-
+single-
 
 celled life known as archaea evolved soon after the ocean formed
 
@@ -2540,19 +2540,19 @@ At this moment, Earth 1.
 
 ended and the planet entered a new geological eon
 
-## 5 the Archaean.
+5 the Archaean.
 
 Earth 2.
 
-## 0 had arrived.
+0 had arrived.
 
-## Unlike all life around us
+# Unlike all life around us
 
 archaea do not need oxygen to survive.
 
 In fact, oxygen can kill them.
 
-## This was not a problem in the
+# This was not a problem in the
 
 Archaean eon because the planet was devoid of oxygen in the
 
@@ -2560,33 +2560,33 @@ atmosphere.
 
 About 2.
 
-### 5 billion years ago, that changed.
+5 billion years ago, that changed.
 
-## The second
+# The second
 
 revolution in our planet’s evolution occurred when a new life-form
 
-## evolved in the ocean
+evolved in the ocean
 
-## cyanobacteria
+cyanobacteria
 
-## sometimes called blue-green
+sometimes called blue-green
 
 algae.
 
-## For the first time on Earth
+# For the first time on Earth
 
-### these microorganisms took energy
+these microorganisms took energy
 
 from the sun and emitted a waste product
 
 oxygen.
 
-## Photosynthesis
+# Photosynthesis
 
 that produced oxygen had arrived.
 
-## 6 Goodbye, Earth 2.
+6 Goodbye, Earth 2.
 
 Hello,
 
@@ -2594,15 +2594,15 @@ Earth 3.
 
 0, the Proterozoic eon.
 
-## This name originates from two
+# This name originates from two
 
-## Greek words
+# Greek words
 
-## protero
+protero
 
-## meaning “early
+meaning “early
 
-## ” and zoic
+” and zoic
 
 meaning “life.
 
@@ -2614,7 +2614,7 @@ Cyanobacteria kick-started one of the most profound and
 
 catastrophic events in our planet’s history
 
-## the Great Oxygenation
+the Great Oxygenation
 
 Event.
 
@@ -2624,23 +2624,23 @@ early atmosphere.
 
 Oxygen levels began to rise.
 
-## An ozone layer
+# An ozone layer
 
-## formed
+formed
 
 which stopped harmful radiation from the sun from
 
-## reaching Earth’s surface
+reaching Earth’s surface
 
 thus paving the way for life on land (but
 
-## don’t get too excited
+don’t get too excited
 
 we are still 2 billion years away from that).
 
 The old order fell away.
 
-### Archaea’s dominance declined as they
+Archaea’s dominance declined as they
 
 retreated into deep cracks and fissures in rocks without oxygen and
 
@@ -2648,15 +2648,15 @@ below the ocean.
 
 Some, though
 
-## evolved to thrive in this new
+evolved to thrive in this new
 
 5 Eons are the largest divisions of geological time.
 
 There are just four, which are
 
-## subdivided into eras
+subdivided into eras
 
-## periods
+periods
 
 and epochs.
 
@@ -2668,7 +2668,7 @@ did not release oxygen.
 
 7 This evolutionary leap wiped out more than 75 percent of life
 
-## making it a “mass
+making it a “mass
 
 extinction event” in biodiversity jargon.
 
@@ -2678,7 +2678,7 @@ indd 24US_018-063_321647_BB_Chap1-4.
 
 indd 24 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
 environment.
 
@@ -2688,57 +2688,57 @@ that are known to have fundamentally altered the functioning of
 
 the Earth system on their own.
 
-### We will get to the second— Homo
+We will get to the second— Homo
 
 sapiens —in approximately 2.
 
-## 5 billion years.
+5 billion years.
 
 The arrival of cyanobacteria coincided with a colossal shift in the
 
-## climate
+climate
 
-### and Earth plunged into a deep freeze
+and Earth plunged into a deep freeze
 
-## deeper than anything
+deeper than anything
 
 imaginable.
 
 Earth became a snowball.
 
-## At this point
+# At this point
 
 we should note that Earth’s thermostat has three
 
 main settings:
 
-## • The hothouse
+• The hothouse
 
 where there is no ice at the poles and little or no
 
 ice anywhere on Earth.
 
-## • The icehouse
+• The icehouse
 
 where it is cool enough to have ice at the poles
 
-## like today
+like today
 
 and, indeed
 
 the past few million years.
 
-## The icehouse
+# The icehouse
 
-## has two stable states
+has two stable states
 
 deep, cold
 
-### long ice ages and shorter warm
+long ice ages and shorter warm
 
 periods called interglacials.
 
-## • The snowball
+• The snowball
 
 where ice creeps farther toward the equator
 
@@ -2750,45 +2750,45 @@ During snowballs, life still clings
 
 on around remote hydrothermal vents on the ocean floor.
 
-## Earth’s three climate states
+Earth’s three climate states
 
-## Hothouse
+# Hothouse
 
-### Approximate temperature ranges
+# Approximate temperature ranges
 
-## relative to preindustrial
+relative to preindustrial
 
 temperatures.
 
-## Ice age
+# Ice age
 
 -9°F to -3.
 
-## (-5°C to -2°C)Interglacial
+(-5°C to -2°C)Interglacial
 
 8°F to 3.
 
 (-1°C to 2°C)Icehouse Snowball 7.
 
-## 2ºF 4ºC
+2ºF 4ºC
 
-## 4ºF 3ºC
+4ºF 3ºC
 
 -9ºF -5ºC 3.
 
-## 6ºF 2ºC
+6ºF 2ºC
 
-## 8ºF 1ºC
+8ºF 1ºC
 
-## 0ºF 0ºC
+0ºF 0ºC
 
-## 8ºF -1ºC
+8ºF -1ºC
 
-## 6ºF -2ºC
+6ºF -2ºC
 
-## 4ºF -3ºC
+4ºF -3ºC
 
-## 2ºF -4ºC
+2ºF -4ºC
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -2796,11 +2796,11 @@ indd 25US_018-063_321647_BB_Chap1-4.
 
 indd 25 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 Think of these three states as an oven on low heat
 
-## a refrigerator
+a refrigerator
 
 with the door either closed or left open
 
@@ -2808,29 +2808,29 @@ and a deep freezer.
 
 hothouse has dominated for much of Earth’s history
 
-## but at the start
+but at the start
 
 and end of Earth 3.
 
 0, the planet snowballed.
 
-### Some scientists think the hard
+# Some scientists think the hard
 
-### impenetrable snowball state is
+impenetrable snowball state is
 
 unlikely and it might have been more like a slushball
 
-## with a little
+with a little
 
 open water at the equator.
 
-## Either way
+# Either way
 
 this was a trying time for life.
 
 Some academics dispute whether snowball or slushball are even
 
-## feasible
+feasible
 
 because it seems unlikely that a planet could escape such
 
@@ -2838,27 +2838,27 @@ an icy death spiral.
 
 These critics have a point.
 
-## The white surface of
+# The white surface of
 
-### ice reflects heat back to space
+ice reflects heat back to space
 
 thus cooling the planet.
 
-## As ice creeps
+# As ice creeps
 
-## toward the equator
+toward the equator
 
 it covers a greater surface area of Earth
 
 reflecting more heat away.
 
-## This leads to more cooling
+# This leads to more cooling
 
-## which creates
+which creates
 
 more ice: a vicious circle.
 
-### Could we reach a point where defrosting
+# Could we reach a point where defrosting
 
 becomes impossible?
 
@@ -2866,7 +2866,7 @@ If so, we are faced with runaway climate
 
 change taking hold and locking the planet into a bleak ice prison.
 
-## In 1992
+# In 1992
 
 Joe Kirschvink at the California Institute of Technology
 
@@ -2876,41 +2876,41 @@ He noted that volcanic activity, such as
 
 hydrothermal vents or undersea volcanoes
 
-## would still slowly spew
+would still slowly spew
 
 a little carbon dioxide even during snowballs.
 
-## This greenhouse gas
+# This greenhouse gas
 
 would gradually seep into the atmosphere.
 
-## Although the levels would
+# Although the levels would
 
-## be relatively low
+be relatively low
 
 over millions of years carbon dioxide would build
 
-## Eventually
+# Eventually
 
 enough would accumulate to trap what little heat
 
 was attempting to escape the planet’s icy clutches.
 
-## Ice at the equator
+# Ice at the equator
 
-## would melt
+would melt
 
 thus setting off a chain reaction.
 
-## The dark surface
+# The dark surface
 
 beneath would be exposed and would absorb more heat
 
-## creating
+creating
 
 an amplifying feedback loop or virtuous circle
 
-## warming the area
+warming the area
 
 around it until the ice retreats and we are back to the icehouse
 
@@ -2918,9 +2918,9 @@ potentially on a trajectory taking Earth to a hothouse state.
 
 Carbon dioxide is a powerful absorber of heat.
 
-## We have known
+# We have known
 
-## this since 1859
+this since 1859
 
 when the prominent Irish scientist John Tyndall
 
@@ -2928,13 +2928,13 @@ discovered that some “perfectly colorless and invisible gases
 
 and vapors” absorb heat while others do not.
 
-## He later speculated
+# He later speculated
 
 that the ability of carbon dioxide to store heat may be linked to
 
 climate.
 
-## Indeed
+# Indeed
 
 without it and other greenhouse gases Earth’s
 
@@ -2954,7 +2954,7 @@ indd 26US_018-063_321647_BB_Chap1-4.
 
 indd 26 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
 overdrive in the 1950s.
 
@@ -2964,11 +2964,11 @@ global warming relative to the industrial revolution baseline.
 
 The last snowball ended 635 million years ago.
 
-## Combined with
+# Combined with
 
-### high levels of oxygen in the atmosphere
+high levels of oxygen in the atmosphere
 
-## the extreme shift out of the
+the extreme shift out of the
 
 snowball appears to have created the perfect conditions for genetic
 
@@ -2982,7 +2982,7 @@ Known as the Cambrian explosion, this
 
 marked the end of Earth 3.
 
-## 0 and kick-started Earth 4.
+0 and kick-started Earth 4.
 
 0: complex life.
 
@@ -2992,49 +2992,49 @@ Earth 4.
 
 For 100 million years after the Cambrian explosion
 
-## life steadily
+life steadily
 
-### increased in complexity and diversity
+increased in complexity and diversity
 
-## with rapid diversification in
+with rapid diversification in
 
-## body shape and size
+body shape and size
 
-## organs
+organs
 
-## skeletons
+skeletons
 
-## backbones
+backbones
 
-## circulation
+circulation
 
-## systems
+systems
 
-## nervous systems
+nervous systems
 
-## and rudimentary brains
+and rudimentary brains
 
-## all in the blink
+all in the blink
 
 of a geological eye.
 
-## Life diversified in the ocean
+# Life diversified in the ocean
 
-## before spreading
+before spreading
 
-### to land—first mosses and ferns
+to land—first mosses and ferns
 
-### then seeded plants and the first
+then seeded plants and the first
 
 amphibians, and then reptiles.
 
-### This coincided with the end of
+# This coincided with the end of
 
 snowball phases.
 
-### Earth has not descended into a bleak
+# Earth has not descended into a bleak
 
-## almost
+almost
 
 lifeless deep freeze since the arrival of more complex life—and this
 
@@ -3056,7 +3056,7 @@ and rhythms in Earth’s life-support system.
 
 Almost all life on Earth lives in a narrow band
 
-## from approximately
+from approximately
 
 1,650 feet (500 meters) below the ocean floor to about 7 miles
 
@@ -3070,17 +3070,17 @@ This is Earth’s biosphere—the region where life
 
 exists.
 
-## It is no wonder
+# It is no wonder
 
-### given the wisp-thin layer we inhabit
+given the wisp-thin layer we inhabit
 
-## that an
+that an
 
 asteroid could wipe out so much life.
 
-## This is what happened 66
+# This is what happened 66
 
-## million years ago
+million years ago
 
 thereby ending the reign of non-avian dinosaurs.
 
@@ -3088,25 +3088,25 @@ The asteroid strike was the last of the five mass extinctions
 
 that hit the reset button for life during Earth 4.
 
-## 8 Each time, a
+8 Each time, a
 
-### cataclysmic event wiped out most
+cataclysmic event wiped out most
 
-## but not all
+but not all
 
 life.
 
-## Mass extinctions
+# Mass extinctions
 
-### 8 In addition to the five mass extinctions
+8 In addition to the five mass extinctions
 
-### there have been about 24 extinction
+there have been about 24 extinction
 
 events that do not quite make it into the “mass” category
 
-## not least the enigmatic
+not least the enigmatic
 
-### Paleocene–Eocene Thermal Maximum event
+Paleocene–Eocene Thermal Maximum event
 
 which occurred 55 million years ago.
 
@@ -3116,27 +3116,27 @@ indd 27US_018-063_321647_BB_Chap1-4.
 
 indd 27 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 were, in the majority of cases
 
-### probably due to volcanic activity
+probably due to volcanic activity
 
 or the occasional asteroid impact.
 
-### They led to catastrophic changes
+# They led to catastrophic changes
 
-## in climate
+in climate
 
-## ocean acidification
+ocean acidification
 
-### and anoxia (a lack of oxygen in the
+and anoxia (a lack of oxygen in the
 
 ocean).
 
 The most severe occurred 252 million years ago
 
-## and it
+and it
 
 wiped out 96 percent of marine species and a good chunk of life on
 
@@ -3144,27 +3144,27 @@ land—geological evidence shows a huge pulse of carbon dioxide
 
 hinting at volcanic activity.
 
-### We are measuring similar cataclysmic
+# We are measuring similar cataclysmic
 
-## changes today
+changes today
 
 which is why many biologists say that life on Earth
 
 is at the beginning of a sixth mass extinction event.
 
-## Descent into the icehouse
+# Descent into the icehouse
 
 The dinosaurs roamed for 150 million years before the asteroid
 
 smashed a hole in Earth.
 
-## For some of this time
+# For some of this time
 
-## most land was fused
+most land was fused
 
 together into one supercontinent known as Pangaea.
 
-## But tectonic
+# But tectonic
 
 activity began ripping the supercontinent apart into the continents
 
@@ -3172,87 +3172,87 @@ that are more recognizable today.
 
 New oceans opened, and India, a
 
-### separate continent at the time
+separate continent at the time
 
-## slammed into Asia
+slammed into Asia
 
-## pushing up the
+pushing up the
 
 Himalayas some 20 to 50 million years ago.
 
-## This seems to have
+# This seems to have
 
 nudged Earth’s climate out of its equilibrium.
 
-## As Antarctica slid
+# As Antarctica slid
 
-## down to the South Pole
+down to the South Pole
 
-### it became cut off from other landmasses
+it became cut off from other landmasses
 
-## and surrounded by cold water
+and surrounded by cold water
 
 which cooled the continent.
 
-## Eventually
+# Eventually
 
 an ice cap began forming 34 million years ago.
 
-## That ice
+# That ice
 
 cap is now 1.
 
-## 8 miles (3 kilometers) thick.
+8 miles (3 kilometers) thick.
 
-## Earth gradually descended
+# Earth gradually descended
 
 into an icehouse9—our world.
 
-## We finally waved goodbye to a
+# We finally waved goodbye to a
 
-### hothouse Earth some 5 million years ago
+hothouse Earth some 5 million years ago
 
-## when temperatures were
+when temperatures were
 
 about 7°F (4°C) warmer than they are today.
 
-## As carbon dioxide
+# As carbon dioxide
 
-## levels fell further
+levels fell further
 
 ice formed in the northern hemisphere all year
 
 round, and sea ice at the North Pole was hemmed in by surrounding
 
-## continents
+continents
 
 allowing a permanent blanket of ice to wax and wane
 
 with the seasons.
 
-### Earth’s self-regulation system
+Earth’s self-regulation system
 
 Since the biosphere first emerged 3.
 
-## 8 billion years ago (Earth 2.
+8 billion years ago (Earth 2.
 
 the Earth system has remained remarkably stable.
 
-## The temperature
+# The temperature
 
-## 9 Unlike the hothouse
+9 Unlike the hothouse
 
 an icehouse world has a large buildup of ice permanently at
 
 the poles.
 
-## However
+# However
 
 it is very different from the extreme snowball Earth.
 
-## We live in
+# We live in
 
-## an icehouse world
+an icehouse world
 
 which flickers occasionally to modestly warmer interglacials.
 
@@ -3262,7 +3262,7 @@ indd 28US_018-063_321647_BB_Chap1-4.
 
 indd 28 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
 has not left a narrow range between the freezing point and the
 
@@ -3280,11 +3280,11 @@ You might expect this to wreak havoc with a planetary life-support
 
 system of chemical flows.
 
-### Yet the major cycles of Earth’s self-
+Yet the major cycles of Earth’s self-
 
-## regulation system—carbon
+regulation system—carbon
 
-## nitrogen
+nitrogen
 
 water, phosphorus
 
@@ -3296,31 +3296,31 @@ How so?
 
 The remarkable fact that life has persisted for so long indicates
 
-## that some sort of chemical
+that some sort of chemical
 
-## physical
+physical
 
-## geological
+geological
 
-## or biological
+or biological
 
 mechanisms slam on the brakes if the temperature bobs too far
 
-### beyond a Goldilocks warmth (not too hot
+beyond a Goldilocks warmth (not too hot
 
 not too cold).
 
-## Earth’s
+Earth’s
 
 climate regulation is ingenious.
 
-## Volcanoes emit carbon dioxide
+# Volcanoes emit carbon dioxide
 
 slowly over millions of years (almost unnoticeable over centuries).
 
 the amount of carbon dioxide kept growing
 
-## it would push us toward
+it would push us toward
 
 a Venus-like state.
 
@@ -3332,7 +3332,7 @@ dampens change by pulling carbon dioxide out of the atmosphere
 
 silicate weathering of rocks.
 
-### This is a slow geological process that
+# This is a slow geological process that
 
 occurs over millions of years.
 
@@ -3342,59 +3342,59 @@ because a warmer ocean releases water more easily into the
 
 atmosphere and a warmer atmosphere holds more water.
 
-## High in
+# High in
 
-## the clouds
+the clouds
 
 carbon dioxide in the atmosphere reacts with the
 
 rainwater to make rain that is very weakly acidic.
 
-## When this rain
+# When this rain
 
-## falls on some types of rocks
+falls on some types of rocks
 
-## it dissolves them bit by bit
+it dissolves them bit by bit
 
-## trapping
+trapping
 
 some carbon from the air.
 
-### The dissolved minerals wash downstream
+# The dissolved minerals wash downstream
 
-## in rivers into the ocean
+in rivers into the ocean
 
 where marine plankton use the minerals to
 
 make their shells.
 
-## When they die
+# When they die
 
-### these shells sink to the ocean floor
+these shells sink to the ocean floor
 
-### and contribute to the sediment layers
+and contribute to the sediment layers
 
-## trapping the carbon for
+trapping the carbon for
 
 millions of years.
 
-## If Earth gets warmer
+# If Earth gets warmer
 
 this reaction speeds up and so locks away
 
-## more carbon
+more carbon
 
 thereby preventing the planet from overheating.
 
-## the planet cools
+the planet cools
 
-## the reaction slows
+the reaction slows
 
 dampening any cooling effect.
 
 Large mountain ranges cause more rain and snow to fall
 
-## thus
+thus
 
 10 The sun brightens 8 percent every billion years.
 
@@ -3404,13 +3404,13 @@ indd 29US_018-063_321647_BB_Chap1-4.
 
 indd 29 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 driving faster erosion.
 
-## In all likelihood
+# In all likelihood
 
-### the rise of the vast Himalayas
+the rise of the vast Himalayas
 
 was a major cause of our gradual descent into the icehouse.
 
@@ -3420,23 +3420,23 @@ too.
 
 they influence weathering, at least.
 
-## Plants and microbes in soils
+# Plants and microbes in soils
 
 create an acidic environment that can accelerate weathering
 
 pulling carbon dioxide out of the air faster
 
-## and they also store
+and they also store
 
-## carbon in their roots
+carbon in their roots
 
-## trunks
+trunks
 
-## leaves
+leaves
 
 and branches.
 
-## The arrival of
+# The arrival of
 
 plants on land 470 million years ago led to the biggest change in
 
@@ -3448,29 +3448,29 @@ life on Earth plays some sort of role in making sure the control is
 
 not yanked too hard.
 
-## Occasionally
+# Occasionally
 
-### a shock such as the Mount Toba
+a shock such as the Mount Toba
 
-## supervolcanic eruption 75
+supervolcanic eruption 75
 
-### 000 years ago disrupts this harmony
+000 years ago disrupts this harmony
 
 Earth has always rebounded.
 
-### 11 Yet at its extreme, snowball Earth
+11 Yet at its extreme, snowball Earth
 
 indicates that this regulation can break down catastrophically.
 
-## Intriguingly
+# Intriguingly
 
 some researchers have shown—in computer models
 
 at least—that the stability of Earth’s life-support system can be
 
-## enhanced
+enhanced
 
-## up to a point
+up to a point
 
 by greater biodiversity.
 
@@ -3480,55 +3480,55 @@ diversity of life may currently be higher than at any point in history
 
 because diversity and complexity tend to increase over time.
 
-## If the
+# If the
 
 rich diversity and complexity of life increases the resilience of
 
-### Earth’s life-support system to shocks
+Earth’s life-support system to shocks
 
-### we would be foolish to destroy
+we would be foolish to destroy
 
 But this is what we are doing.
 
-## In the 1970s
+# In the 1970s
 
 James Lovelock and Lynn Margulis introduced the
 
-## Gaia hypothesis
+# Gaia hypothesis
 
 the radical and intriguing idea that the planetary
 
-## ecosystem
+ecosystem
 
-## our tangled web of life
+our tangled web of life
 
-### has evolved to stabilize Earth’s
+has evolved to stabilize Earth’s
 
 life-support system.
 
-## That is
+# That is
 
 life influences the major cycles on Earth
 
 to maintain the habitability of Earth for life.
 
-## 12 The first part of the
+12 The first part of the
 
 preceding sentence has been proved conclusively
 
-## the last part
+the last part
 
 remains contentious.
 
-## Despite this
+# Despite this
 
-### we can say for certain that life and
+we can say for certain that life and
 
 Earth’s life-support system evolve together and are deeply intertwined.
 
 11 This rebound happens on the very long timescale of silicate weathering
 
-## which
+which
 
 provides further evidence that this is one of the significant mechanisms for a kind
 
@@ -3536,17 +3536,17 @@ of Earth homeostasis.
 
 12 Living organisms help to regulate four Earth system processes
 
-## carbon
+carbon
 
-## oxygen
+oxygen
 
 nitrogen, and phosphorus cycles.
 
-## As in the human body
+# As in the human body
 
-## these feedbacks create a
+these feedbacks create a
 
-## kind of homeostasis
+kind of homeostasis
 
 like a state of equilibrium.
 
@@ -3556,53 +3556,53 @@ indd 30US_018-063_321647_BB_Chap1-4.
 
 indd 30 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 1
+# CHAPTER 1
 
-## A warning from the past
+# A warning from the past
 
 We have already mentioned several shocks that have rocked life on
 
 Earth.
 
-## Here is one more
+# Here is one more
 
-### the little-known Paleocene–Eocene
+the little-known Paleocene–Eocene
 
 Thermal Maximum (PETM) event.
 
-## Let’s turn the clock back 56
+Let’s turn the clock back 56
 
 million years.
 
-## The dinosaurs are dead
+# The dinosaurs are dead
 
-### Earth is still in the hothouse
+# Earth is still in the hothouse
 
 with temperatures 14.
 
 4°F (8°C) above those of today.
 
-## Almost
+# Almost
 
-## overnight
+overnight
 
-## geologically speaking
+geologically speaking
 
-## temperatures shoot up another
+temperatures shoot up another
 
 9°F (5°C) , causing chaos on Earth.
 
-## 13 This PETM event came close
+13 This PETM event came close
 
 to “mass extinction” status as it led to a huge die-off in the ocean
 
-## caused by ocean acidification
+caused by ocean acidification
 
 and many extinctions on land.
 
-### Things quickly got out of control
+# Things quickly got out of control
 
-## with carbon dioxide levels
+with carbon dioxide levels
 
 skyrocketing.
 
@@ -3622,9 +3622,9 @@ currently acidifying at a rate that is even faster than during the time
 
 of the PETM shock.
 
-### As Earth recovered from the PETM event
+# As Earth recovered from the PETM event
 
-## new species of
+new species of
 
 mammals emerged.
 
@@ -3632,47 +3632,47 @@ These included the ancestors of the horse and
 
 elk, bats
 
-## and whales
+and whales
 
 as well as the first social primates.
 
-## As the
+# As the
 
-## climate changed rapidly
+climate changed rapidly
 
-## primates were forced to adapt
+primates were forced to adapt
 
-## with
+with
 
-## evolution favoring large
+evolution favoring large
 
 cohesive social groups.
 
-## Large social groups
+# Large social groups
 
-### require greater brain capacity
+require greater brain capacity
 
-### and we will discuss the implications
+and we will discuss the implications
 
 of this in Chapter 3.
 
 The PETM catastrophe is likely to have paved the way for the
 
-## rise of humanity
+rise of humanity
 
 but it could not stave off the impending icehouse.
 
-### Over tens of millions of years
+# Over tens of millions of years
 
-### silicate weathering took a slow and
+silicate weathering took a slow and
 
-## steady course
+steady course
 
 stripping carbon dioxide out of the atmosphere and
 
 locking it beneath the ocean.
 
-### The continents continued to drift
+# The continents continued to drift
 
 apart.
 
@@ -3680,33 +3680,33 @@ These formidable forces cooled the planet in fits and starts.
 
 And this is where this particular story ends.
 
-## We have traveled
+# We have traveled
 
 some 4.
 
-## 5 billion years
+5 billion years
 
-### through three revolutions (life
+through three revolutions (life
 
-## oxygen
+oxygen
 
-## photosynthesis
+photosynthesis
 
-## and complex life)
+and complex life)
 
-## each of which kick-started a
+each of which kick-started a
 
-## new eon
+new eon
 
 and now we settle into the past 3 million years.
 
-## We have
+# We have
 
-## 13 In reality
+13 In reality
 
-## the PETM event lasted 170
+the PETM event lasted 170
 
-## 000 years.
+000 years.
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -3714,23 +3714,23 @@ indd 31US_018-063_321647_BB_Chap1-4.
 
 indd 31 16/02/2021 11:3016/02/2021 11:30
 
-## ACT I
+# ACT I
 
 established that there are three stable states on Earth
 
-## a hothouse
+a hothouse
 
-### more than 7°F (4°C) warmer than today
+more than 7°F (4°C) warmer than today
 
-## an icehouse
+an icehouse
 
-## between 9°F
+between 9°F
 
 (5°C) cooler and 1.
 
-## 8°F (1°C) warmer than today
+8°F (1°C) warmer than today
 
-## and the snowball
+and the snowball
 
 the deep freeze.
 
@@ -3738,37 +3738,37 @@ The question is, where do we go next?
 
 Our knowledge of Earth’s life-support system has grown over
 
-## the past 200 years
+the past 200 years
 
-## as geologists
+as geologists
 
-## biologists
+biologists
 
-## oceanographers
+oceanographers
 
-## meteorologists
+meteorologists
 
 and many other scientific disciplines embark on a
 
-### journey that never fails to delight
+journey that never fails to delight
 
-## inspire
+inspire
 
 and surprise.
 
-## In the past
+# In the past
 
-## few decades
+few decades
 
 we have come further faster than ever before.
 
-## When
+# When
 
-## we peer into the deep past
+we peer into the deep past
 
-### through billions of years of history
+through billions of years of history
 
-## thing stands out
+thing stands out
 
 the impact that humanity is having on this planet
 
@@ -3776,21 +3776,21 @@ right now rivals the biggest upheavals Earth has ever witnessed in
 
 its 4.
 
-## 5 billion years.
+5 billion years.
 
 While much of this turmoil took millions or
 
-### hundreds of millions of years to unfold
+hundreds of millions of years to unfold
 
-## our impact has materialized
+our impact has materialized
 
 in a single lifetime … and it is accelerating.
 
-### If we want to understand our world
+# If we want to understand our world
 
-## we need to look into the ups
+we need to look into the ups
 
-### and downs of the next 3 million years
+and downs of the next 3 million years
 
 as the ice age cycle begins.
 
@@ -3804,17 +3804,17 @@ indd 32US_018-063_321647_BB_Chap1-4.
 
 indd 32 16/02/2021 11:3116/02/2021 11:31
 
-## 33 CHAPTER 2 33
+33 CHAPTER 2 33
 
-## A SCOTTISH JANITOR
+# A SCOTTISH JANITOR
 
-## AND A SERBIAN
+# AND A SERBIAN
 
-## MATHEMATICIAN
+# MATHEMATICIAN
 
-## DISCOVER EARTH’S
+DISCOVER EARTH’S
 
-## HAIR TRIGGER
+# HAIR TRIGGER
 
 There are three stages of scientific discovery
 
@@ -3822,37 +3822,37 @@ first, people deny it is true
 
 then, they deny it is
 
-## important
+important
 
-## finally
+finally
 
 they credit the wrong person.
 
-## ALEXANDER VON HUMBOLDT
+# ALEXANDER VON HUMBOLDT
 
-## NATURALIST AND EXPLORER
+# NATURALIST AND EXPLORER
 
 With all the remarkable discoveries of the past century
 
-## from
+from
 
 penicillin and the sequencing of DNA to gravitational waves and
 
-## the structure of black holes
+the structure of black holes
 
-### it is easy to overlook perhaps the most
+it is easy to overlook perhaps the most
 
 astounding and important discovery for our very survival
 
-## Earth’s
+Earth’s
 
 heartbeat.
 
-## Relatively recently
+# Relatively recently
 
-### Earth’s vital signs—temperature
+Earth’s vital signs—temperature
 
-## carbon dioxide
+carbon dioxide
 
 and methane—slipped into a very regular rise and
 
@@ -3864,19 +3864,19 @@ a hospital monitor.
 
 Imagine a time machine has spun back 2.
 
-## 7 million years.
+7 million years.
 
-## Ahead of
+# Ahead of
 
 us, an unusual cycle of ice ages is about to begin.
 
-## If we look back
+# If we look back
 
-## deep in time
+deep in time
 
-### we can see how we arrived at this place
+we can see how we arrived at this place
 
-## the long slow
+the long slow
 
 slide from the hothouse toward the icehouse.
 
@@ -3884,7 +3884,7 @@ Initially, the first ice
 
 sheet formed in Antarctica.
 
-### Then the continents of North and South
+# Then the continents of North and South
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -3892,23 +3892,23 @@ indd 33US_018-063_321647_BB_Chap1-4.
 
 indd 33 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-## America crunched together
+# America crunched together
 
 snapping shut the Isthmus of Panama.
 
-### This changed ocean circulation and
+# This changed ocean circulation and
 
-## in turn
+in turn
 
-## how heat flowed
+how heat flowed
 
 around the planet.
 
-## At the North Pole
+# At the North Pole
 
-### the ocean began to freeze over
+the ocean began to freeze over
 
 in winter and an ice sheet formed across the northern continents.
 
@@ -3920,25 +3920,25 @@ This marked the start of the Pleistocene
 
 epoch, the name geologists give to the back and forth
 
-## ticktock of
+ticktock of
 
 ice age cycles for 2.
 
-## 7 million years.
+7 million years.
 
 As we saw in Chapter 1, deep
 
 instabilities can force evolutionary revolutions.
 
-## What will these
+# What will these
 
 instabilities bring?
 
 The story of how science unraveled the mystery of ice ages starts
 
-## with two remarkable men
+with two remarkable men
 
-### a Scottish janitor and a Serbian
+a Scottish janitor and a Serbian
 
 mathematician.
 
@@ -3950,39 +3950,39 @@ the ice ages.
 
 These ice cores are the forensic evidence unequivocally
 
-### linking the industrial revolution
+linking the industrial revolution
 
-## which began in the United
+which began in the United
 
-## Kingdom in the 1800s
+# Kingdom in the 1800s
 
-### to one of the most profound geological
+to one of the most profound geological
 
 changes in the history of the planet.
 
 Let’s meet the janitor first.
 
-## Tilts and wobbles
+# Tilts and wobbles
 
-## In the 1800s
+# In the 1800s
 
 geologists reluctantly began to accept the evidence
 
-## that large parts of Europe
+that large parts of Europe
 
 Asia, and North America were once
 
 covered in deep sheets of ice.
 
-### But no one could find a convincing
+# But no one could find a convincing
 
 mechanism that would cause Earth to both drop into and pull out
 
 of ice ages.
 
-## That changed in 1864
+# That changed in 1864
 
-## when James Croll published a
+when James Croll published a
 
 remarkable analysis linking slight shifts in Earth’s orbit around
 
@@ -3990,47 +3990,47 @@ the sun to ice ages.
 
 Croll dropped out of school at the age of 13 and had a colorful
 
-## career
+career
 
 first working as a laborer before becoming a tea merchant
 
-## then a hotel manager
+then a hotel manager
 
-## and then an insurance agent
+and then an insurance agent
 
-## before finally
+before finally
 
-### joining Andersonian University
+joining Andersonian University
 
-## Glasgow
+# Glasgow
 
-## in 1859
+in 1859
 
 as a janitor.
 
 Croll’s powers of persuasion were first rate.
 
-## We know this because
+# We know this because
 
 he cajoled his brother into doing most of his custodial work
 
-## leaving
+leaving
 
 Croll more time to exercise his mind.
 
-### With no formal academic training
+# With no formal academic training
 
-## Croll used the university
+# Croll used the university
 
-### library to teach himself astronomy
+library to teach himself astronomy
 
-## among many other scientific
+among many other scientific
 
-## disciplines
+disciplines
 
-### before he published his masterful paper
+before he published his masterful paper
 
-## titled “On the
+titled “On the
 
 physical cause of the change of climate during geological epochs
 
@@ -4040,55 +4040,55 @@ indd 34US_018-063_321647_BB_Chap1-4.
 
 indd 34 16/02/2021 11:3116/02/2021 11:31
 
-## 35 CHAPTER 2
+35 CHAPTER 2
 
 in 1864.
 
-## In the paper
+# In the paper
 
-### the janitor listed the most fashionable
+the janitor listed the most fashionable
 
 theories for the cause of ice ages and then dismissed them
 
 by one.
 
-### Based on detailed calculations
+# Based on detailed calculations
 
-## the paper concluded that
+the paper concluded that
 
-## ice ages were
+ice ages were
 
-## in fact
+in fact
 
 linked directly to Earth’s orbit around the
 
 sun, as it shifted from a more circular shape to elliptical.
 
-## the time
+the time
 
 this was an Earth-shattering idea.
 
-## It gained a lot of
+# It gained a lot of
 
-## attention initially
+attention initially
 
 but then remained in the shadows until a
 
-## Serbian scientist
+# Serbian scientist
 
-## Milutin Milankovitch
+# Milutin Milankovitch
 
-## who also had no formal
+who also had no formal
 
 education in the physics of the solar system
 
-## developed Croll’s
+developed Croll’s
 
 ideas to a monumental conclusion.
 
-### (Croll has been largely forgotten
+(Croll has been largely forgotten
 
-## by history
+by history
 
 and in Earth system science it is Milankovitch who gets
 
@@ -4098,33 +4098,33 @@ Croll’s rough estimate did not have the precision needed to
 
 convince everyone.
 
-## After all
+# After all
 
 Earth’s orbit is not straightforward.
 
 All the planets in the solar system orbit at different rates.
 
-## Speeding
+# Speeding
 
-## around on the inside
+around on the inside
 
-## Earth overtakes its neighbor
+# Earth overtakes its neighbor
 
-## Jupiter
+# Jupiter
 
 when it does so it feels a little tug from the gas giant’s gravitational
 
 field.
 
-## Furthermore
+# Furthermore
 
 Earth bulges a bit at the equator.
 
-## The sun and
+# The sun and
 
 the other planets exert a little more force on this extra mass
 
-## thus
+thus
 
 nudging Earth’s orbit.
 
@@ -4134,39 +4134,39 @@ minor in the grand celestial scheme of things
 
 clearly matter.
 
-## Combined
+# Combined
 
-### the circular to elliptical shift
+the circular to elliptical shift
 
-## the small wobbles as
+the small wobbles as
 
-## Earth turns
+# Earth turns
 
 and the variations in Earth’s tilt over time all affect its
 
 orbit in predictable, regular ways.
 
-## Milankovitch set about
+# Milankovitch set about
 
 crunching the fiendishly complicated numbers.
 
-## What he discovered
+# What he discovered
 
 changed how we think about our planet.
 
-## In 1941
+# In 1941
 
-### after some three decades of research
+after some three decades of research
 
-## Milankovitch
+# Milankovitch
 
 published his findings in a book titled Canon of Insolation of the Earth
 
 and Its Application to the Problem of the Ice Ages .
 
-## With uncanny
+# With uncanny
 
-## precision
+precision
 
 it provided a link between ice ages and relatively slight
 
@@ -4178,31 +4178,31 @@ shifted in and out of ice ages.
 
 At first, ice ages were frequent—
 
-## occurring every 41
+occurring every 41
 
-### 000 years or so—but relatively mild.
+000 years or so—but relatively mild.
 
 Then,
 
-## about 1 million years ago
+about 1 million years ago
 
-### they became less frequent—every
+they became less frequent—every
 
 100,000 years or so—and ferocious.
 
-## The warm interludes that
+# The warm interludes that
 
 occur as the ice recedes to the highest latitudes—the so-called
 
-### interglacials—can last anywhere from 10
+interglacials—can last anywhere from 10
 
-## 000 to 30
+000 to 30
 
-## 000 years.
+000 years.
 
 have been basking in the most recent one for 11
 
-## 700 years or so.
+700 years or so.
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -4210,13 +4210,13 @@ indd 35US_018-063_321647_BB_Chap1-4.
 
 indd 35 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 Earth’s tilts and wobbles do not really affect how much energy
 
-## from the sun hits the planet
+from the sun hits the planet
 
-### but they make a massive difference to
+but they make a massive difference to
 
 where the sun’s energy falls and in what season.
 
@@ -4226,9 +4226,9 @@ researchers thought ice ages probably started with several harsh
 
 winters.
 
-## However
+# However
 
-### the Russian-German meteorologist and
+the Russian-German meteorologist and
 
 climatologist Wladimir Köppen determined that it is summers
 
@@ -4236,45 +4236,45 @@ that tip the balance.
 
 If one summer in the northern hemisphere is
 
-## too cool to melt all the snow
+too cool to melt all the snow
 
 then snow remains on the ground.
 
 The white surface reflects heat back to space
 
-## keeping the area cool
+keeping the area cool
 
-### and encouraging more snow to build up
+and encouraging more snow to build up
 
-## thus creating ever more
+thus creating ever more
 
 white surface.
 
-### The next summer may see even more snow
+# The next summer may see even more snow
 
 remaining.
 
-## In this way
+# In this way
 
 a small change can set off a chain reaction.
 
 Like a gun that will fire at the slightest pressure
 
-## Earth has a hair
+# Earth has a hair
 
 trigger in its current configuration of continents.
 
-## The slightest
+# The slightest
 
 provocation can send the system spinning and wheeling as sleeping
 
-## giants
+giants
 
 such as ice sheets and ocean circulations
 
 awake and stretch.
 
-## In later chapters
+# In later chapters
 
 we will look at the risks of waking the gigantic
 
@@ -4290,11 +4290,11 @@ The levels of carbon dioxide in the atmosphere were too
 
 high.
 
-## About 3 million years ago
+# About 3 million years ago
 
-### carbon dioxide levels fell to about
+carbon dioxide levels fell to about
 
-## 350 parts per million (ppm).
+350 parts per million (ppm).
 
 This was a critical tipping point,
 
@@ -4302,7 +4302,7 @@ because it caused more ice to build up over North America and
 
 Scandinavia.
 
-## In 1988
+# In 1988
 
 Earth passed this critical 350 ppm point once
 
@@ -4312,21 +4312,21 @@ That same year, NASA scientist
 
 James Hansen testified before the US Congress
 
-## stating that humans
+stating that humans
 
 were warming the planet.
 
-### And today we may have loaded so much
+# And today we may have loaded so much
 
 carbon dioxide into the atmosphere that we are unlikely to
 
 transition into an ice age ever again.
 
-## Bubbles in the ice
+# Bubbles in the ice
 
-### One outstanding question remained
+# One outstanding question remained
 
-## why did the pushes and pulls
+why did the pushes and pulls
 
 on Earth from Jupiter and the sun cause such large swings in
 
@@ -4336,11 +4336,11 @@ As Earth pulls out of an ice age, the
 
 temperature rises far more than we would expect.
 
-## Small changes
+# Small changes
 
-### must set off other chain reactions
+must set off other chain reactions
 
-## causing some sort of cascade
+causing some sort of cascade
 
 that drives temperature up or down.
 
@@ -4350,29 +4350,29 @@ indd 36US_018-063_321647_BB_Chap1-4.
 
 indd 36 16/02/2021 11:3116/02/2021 11:31
 
-## 37 CHAPTER 2
+37 CHAPTER 2
 
-### At the end of the 20th century
+# At the end of the 20th century
 
-### the final piece of the ice age puzzle
+the final piece of the ice age puzzle
 
 slid into place.
 
-## In the 1990s
+# In the 1990s
 
 international teams of scientists carted
 
 drilling equipment to Antarctica.
 
-### They were not searching for oil or
+# They were not searching for oil or
 
-## other minerals
+other minerals
 
 but for something that may ultimately turn out to
 
 be more valuable for our long-term survival as a species
 
-## bubbles
+bubbles
 
 trapped in ancient ice.
 
@@ -4380,15 +4380,15 @@ Pockets of air in these ice cores tell the story
 
 of the atmosphere across the past eight ice age cycles
 
-## stretching
+stretching
 
 back 800,000 years.
 
 The amount of carbon dioxide and methane
 
-## two greenhouse gases
+two greenhouse gases
 
-### contained in the bubbles gives critical
+contained in the bubbles gives critical
 
 information about the Earth system in this volatile state.
 
@@ -4402,29 +4402,29 @@ ice age, but emerges rapidly.
 
 We see a triple pulse: global average
 
-## temperature
+temperature
 
-## carbon dioxide
+carbon dioxide
 
 and methane (temperature and Ice age cyclesCarbon dioxide
 
 concentration (ppm)T emperature relative to
 
-## present climate (ºF)
+present climate (ºF)
 
 Thousands of years before present800 700 600 500 400 300 200 100 0150200
 
 -14.
 
-## 4 -8ºC-7.
+4 -8ºC-7.
 
-## 2 -4ºC0 0ºC 7.
+2 -4ºC0 0ºC 7.
 
-## 2 +4ºC
+2 +4ºC
 
 -21.
 
-### 6-12ºC250300350400415 ppm (2020)
+6-12ºC250300350400415 ppm (2020)
 
 Last ice age endsCarbon dioxide threshold for ice ages
 
@@ -4434,59 +4434,59 @@ indd 37US_018-063_321647_BB_Chap1-4.
 
 indd 37 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 carbon dioxide are shown on the preceding page).
 
-## The movements
+# The movements
 
 of the planets are enough to nudge Earth into and out of ice ages
 
 which sets off a cascade that amplifies the impact.
 
-## But what is the
+# But what is the
 
 mechanism to drive up greenhouse gases?
 
-## A cool ocean absorbs
+# A cool ocean absorbs
 
-### more carbon dioxide from the atmosphere
+more carbon dioxide from the atmosphere
 
-## cooling the planet
+cooling the planet
 
 further (cold water holds more carbon dioxide than warm).
 
-## reverse
+reverse
 
-## as the celestial wheels spin
+as the celestial wheels spin
 
-## ice retreats and the ocean
+ice retreats and the ocean
 
 warms and releases carbon dioxide into the atmosphere
 
-## thereby
+thereby
 
 causing more warmth.
 
 All this carbon dioxide and heat leads the
 
-## ice to melt faster
+ice to melt faster
 
 thus releasing more carbon from the ocean and
 
-## permafrost
+permafrost
 
-## and so on
+and so on
 
-## in a self-amplifying cycle
+in a self-amplifying cycle
 
-## or positive feedback
+or positive feedback
 
 loop, until it runs out of steam.
 
 Every interglacial period is slightly different.
 
-## Some are a little
+# Some are a little
 
 cooler, some a little warmer.
 
@@ -4500,19 +4500,19 @@ No interglacial temperature has risen more than 3.
 
 (2°C) above the average temperature of the past 10 millennia—our
 
-## current interglacial
+current interglacial
 
 the Holocene—and ice ages only dip 9°F (5°C)
 
 below the Holocene average.
 
-### What we can conclude is that Earth is
+# What we can conclude is that Earth is
 
 extremely sensitive to even very small changes in greenhouse gases.
 
 We now know that Earth has a hair trigger
 
-## where the slightest thing
+where the slightest thing
 
 can set it off.
 
@@ -4520,31 +4520,31 @@ The ice cores are a stark reminder of how inherently unstable
 
 the past 2.
 
-## 7 million years have been
+7 million years have been
 
-## how the stability of the
+how the stability of the
 
-## past 10
+past 10
 
-### 000 years is easy to take for granted
+000 years is easy to take for granted
 
-## and how much we
+and how much we
 
 have changed the planet in the past century.
 
-## Earth’s heartbeat has
+Earth’s heartbeat has
 
 been disrupted by an unprecedented pulse of greenhouse
 
-## gases in the past few decades
+gases in the past few decades
 
-## and it now looks more like a
+and it now looks more like a
 
 cardiac arrest.
 
-## For about 3 million years
+# For about 3 million years
 
-## carbon dioxide levels in
+carbon dioxide levels in
 
 the atmosphere dropped as low as 170 ppm (parts per million)
 
@@ -4560,13 +4560,13 @@ carbon dioxide levels shot past 350 ppm and passed 415 ppm
 
 in 2019, rising at 2 or 3 ppm a year.
 
-## Global average surface
+# Global average surface
 
 temperature is now 2°F (1.
 
 1°C) above preindustrial levels.
 
-## With
+# With
 
 temperatures shooting up 0.
 
@@ -4576,11 +4576,11 @@ temperatures shooting up 0.
 
 action the world will cross the 3.
 
-### 6°F (2°C) boundary—the absolute
+6°F (2°C) boundary—the absolute
 
 limit of temperature in the past 2.
 
-## 7 million years—within a few
+7 million years—within a few
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -4588,7 +4588,7 @@ indd 38US_018-063_321647_BB_Chap1-4.
 
 indd 38 16/02/2021 11:3116/02/2021 11:31
 
-## 39 CHAPTER 2
+39 CHAPTER 2
 
 decades.
 
@@ -4604,9 +4604,9 @@ the past 2.
 
 It seems so.
 
-## In the next chapter
+# In the next chapter
 
-### we will look again at these cycles
+we will look again at these cycles
 
 but this time through the lens of human evolution.
 
@@ -4616,13 +4616,13 @@ indd 39US_018-063_321647_BB_Chap1-4.
 
 indd 39 16/02/2021 14:2516/02/2021 14:25
 
-## 40 ACT I
+40 ACT I
 
-## A “WISE MAN” ARRIVES
+A “WISE MAN” ARRIVES
 
 14 Based on the average woman having her first child at 20 years of age.
 
-## A 20-year-
+# A 20-year-
 
 old is three generations from the Holocene
 
@@ -4632,53 +4632,53 @@ which petered out around the 1950s.
 
 We have come a long way.
 
-### But how close are we to our distant
+# But how close are we to our distant
 
 ancestors?
 
 Closer than you might think.
 
-## We are only 10 generations
+# We are only 10 generations
 
 away from a world without an industrial revolution.
 
-## Only 300
+# Only 300
 
 generations from the first civilizations of Mesopotamia in modern-
 
 day Iraq and 500 from the first farmers in the Middle East.
 
-## Only
+# Only
 
 3,500 generations from an evolutionary bottleneck
 
-## when the
+when the
 
-### human population collapsed to around 10
+human population collapsed to around 10
 
-## 000 reproducing pairs.
+000 reproducing pairs.
 
-## And only 10
+# And only 10
 
 000 generations from our earliest ancestors in Africa
 
-## where we appeared about 200
+where we appeared about 200
 
-## 000 years ago.
+000 years ago.
 
 Swedish biologist Carl Linnaeus was the first to class modern
 
 humans as Homo sapiens.
 
-## The first part
+# The first part
 
-## Homo or “man
+Homo or “man
 
-## ” refers to our
+” refers to our
 
-## genus15 and the second part
+genus15 and the second part
 
-## sapiens or “wise
+sapiens or “wise
 
 ” is the species.
 
@@ -4698,9 +4698,9 @@ are so amazingly primitive that they still think
 
 digital watches are a pretty neat idea.
 
-## DOUGLAS ADAMS
+# DOUGLAS ADAMS
 
-### THE HITCHHIKER’S GUIDE TO THE GALAXY
+THE HITCHHIKER’S GUIDE TO THE GALAXY
 
 1979
 
@@ -4710,13 +4710,13 @@ indd 40US_018-063_321647_BB_Chap1-4.
 
 indd 40 16/02/2021 11:3116/02/2021 11:31
 
-## 41 CHAPTER 3
+41 CHAPTER 3
 
 live up to this grand name?
 
-## As a species
+# As a species
 
-## we are certainly clever and
+we are certainly clever and
 
 resourceful.
 
@@ -4726,7 +4726,7 @@ planet than any other.
 
 But are we wise?
 
-## An alien observing Earth
+# An alien observing Earth
 
 from a distant exoplanet might view the disruption of Earth’s life-
 
@@ -4734,23 +4734,23 @@ support system as strong evidence for a lack of wisdom among its
 
 inhabitants.
 
-## Perhaps one day
+# Perhaps one day
 
-### when the rate of change of Earth’s
+when the rate of change of Earth’s
 
-### life-support system begins to stabilize
+life-support system begins to stabilize
 
-## such an observer might note
+such an observer might note
 
 that some form of wisdom has finally arrived.
 
-## This may be possible
+# This may be possible
 
-## this century
+this century
 
-## and even as early as 2050
+and even as early as 2050
 
-## but to succeed we need to
+but to succeed we need to
 
 start the turnaround this decade.
 
@@ -4758,11 +4758,11 @@ That story will come later, though,
 
 in Act III.
 
-## For now
+# For now
 
 we want to take you back to the beginning.
 
-## The early days
+# The early days
 
 The cartoon of a knuckle-dragging chimpanzee evolving smoothly
 
@@ -4770,35 +4770,35 @@ to an upright human (now often amended to include a person
 
 crouched over a computer) is incorrect.
 
-## Early human evolution was
+# Early human evolution was
 
 more like a bush branching out in many directions.
 
-## Scientists have
+# Scientists have
 
-### identified about 31 hominin species
+identified about 31 hominin species
 
-## including modern humans
+including modern humans
 
-## extinct human species
+extinct human species
 
-## and our immediate relatives
+and our immediate relatives
 
-## which evolved
+which evolved
 
 over the past 5 million years in Africa or Eurasia.
 
-## During two
+# During two
 
-## periods
+periods
 
-### at least six species coexisted
+at least six species coexisted
 
-## allowing for complex
+allowing for complex
 
 interbreeding that helped shape who we are today.
 
-## 16 Now, just a
+16 Now, just a
 
 single species of human is left: us.
 
@@ -4812,49 +4812,49 @@ Evidence indicates that they were already using simple
 
 tools about 3.
 
-## 3 million years ago.
+3 million years ago.
 
-## The second stage begins about
+# The second stage begins about
 
-## 8 million years ago
+8 million years ago
 
 when a new branch grew into Homo erectus.
 
 This species stood more upright than its predecessors.
 
-## Homo erectus
+# Homo erectus
 
-### had a slightly different body shape
+had a slightly different body shape
 
-## and child development was
+and child development was
 
 noticeably delayed.
 
 But perhaps its most distinguished feature was
 
-## a much larger brain
+a much larger brain
 
 which continued to expand for half a million
 
 years or more.
 
-### 17 Homo erectus controlled fire
+17 Homo erectus controlled fire
 
-## which made cooking
+which made cooking
 
-## 16 T oday
+16 T oday
 
 non-African populations outside Oceania carry between 1.
 
-## 8 and 2.
+8 and 2.
 
 percent Neanderthal DNA.
 
-### 17 Between our first ancestors and Homo sapiens
+17 Between our first ancestors and Homo sapiens
 
 our brains tripled in size.
 
-## Most
+# Most
 
 growth occurred during the time of Homo erectus.
 
@@ -4864,25 +4864,25 @@ indd 41US_018-063_321647_BB_Chap1-4.
 
 indd 41 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 possible, thus providing more energy.
 
-## This would have aided
+# This would have aided
 
 further brain expansion as brains devour a lot of energy.
 
-## From Homo erectus
+# From Homo erectus
 
-### another species emerged around 700
+another species emerged around 700
 
-## years ago
+years ago
 
-## Homo heidelbergensis
+# Homo heidelbergensis
 
 the third stage.
 
-## This species had a
+# This species had a
 
 massive brain compared with its ancestors.
 
@@ -4890,15 +4890,15 @@ Indeed, its volume
 
 overlaps with modern humans.
 
-### It seems speech and language may
+# It seems speech and language may
 
-## have emerged at this stage
+have emerged at this stage
 
 thanks to a series of genetic mutations.
 
 It is likely that Homo heidelbergensis is the common ancestor of both
 
-### modern humans and our close relatives
+modern humans and our close relatives
 
 the Neanderthals.
 
@@ -4906,37 +4906,37 @@ Finally,
 
 Homo sapiens arrived on the scene around 200
 
-## 000 years ago—
+000 years ago—
 
 although new evidence indicates we may have arrived 100
 
-## 000 years
+000 years
 
 earlier.
 
-## Up until two decades ago
+# Up until two decades ago
 
-### scientific consensus favored a
+scientific consensus favored a
 
 strong East Africa origin story in the Great Rift Valley.
 
-## The truth
+# The truth
 
 may be a little more complex.
 
-### Recent research shows Homo sapiens
+# Recent research shows Homo sapiens
 
 evolved not as a single group in one area
 
-## but rather as a set of
+but rather as a set of
 
-### interlinked groups living across Africa
+interlinked groups living across Africa
 
-## whose connectivity altered
+whose connectivity altered
 
 through time as the environment changed.
 
-## Brain power
+# Brain power
 
 Modern humans are not just marginally smarter than other
 
@@ -4944,15 +4944,15 @@ primates and our closest relatives—there is no comparison.
 
 huge brains endow us with impressive mental abilities
 
-## albeit at a
+albeit at a
 
-## high cost
+high cost
 
 our brains drain 20 percent of our daily energy.
 
 This,
 
-## however
+however
 
 is impressively efficient because our brain’s power rating
 
@@ -4964,31 +4964,31 @@ so rapidly.
 
 The first is the social brain hypothesis.
 
-## We needed large
+# We needed large
 
 brains in order to live in big groups and figure out complex
 
 relationships and hierarchies in order to cooperate
 
-## manipulate
+manipulate
 
 people, and avoid exploitation.
 
-### 18 This is a strong hypothesis because
+18 This is a strong hypothesis because
 
-## social complexity
+social complexity
 
-## particularly competition
+particularly competition
 
-## triggers a cognitive
+triggers a cognitive
 
-## arms race
+arms race
 
 driving a cycle of change as people or groups attempt to
 
 triumph by outsmarting each other.
 
-## The second is the ecological
+# The second is the ecological
 
 intelligence hypothesis.
 
@@ -5004,13 +5004,13 @@ indd 42US_018-063_321647_BB_Chap1-4.
 
 indd 42 16/02/2021 11:3116/02/2021 11:31
 
-## 43 CHAPTER 3
+43 CHAPTER 3
 
-## hunted for food
+hunted for food
 
-## created tools
+created tools
 
-### and lived in a constantly changing
+and lived in a constantly changing
 
 environment.
 
@@ -5020,9 +5020,9 @@ explosion in cognitive power coincide with the major climate shifts
 
 driven by ice ages.
 
-### With each environmental upheaval
+# With each environmental upheaval
 
-## we had to
+we had to
 
 rely more on our brains to find ways to survive.
 
@@ -5030,11 +5030,11 @@ The third and final hypothesis to explain rapid brain expansion
 
 is cultural intelligence.
 
-### This emphasizes accumulated cultural
+# This emphasizes accumulated cultural
 
 knowledge and the role of teaching and learning.
 
-## This hypothesis
+# This hypothesis
 
 combines elements of the first two and relies on evolutionary steps
 
@@ -5042,69 +5042,69 @@ to allow language to emerge.
 
 The earliest ice ages during this period started 2.
 
-## 7 million years
+7 million years
 
-## ago and lasted about 41
+ago and lasted about 41
 
-## 000 years
+000 years
 
-### with gentle transitions from ice
+with gentle transitions from ice
 
 age to interglacials and relatively mild ice ages.
 
-## These may have
+# These may have
 
 had little impact on equatorial Africa or the Great Rift Valley
 
-## where
+where
 
 many of our ancestors roamed.
 
-### It was not until 1 million years ago
+# It was not until 1 million years ago
 
 that the frequency and severity changed to 100
 
 000-year cycles.
 
-## built up gradually
+built up gradually
 
-### followed by a “sudden” collapse over 4
+followed by a “sudden” collapse over 4
 
-## 000 years
+000 years
 
 driving Earth into warmer interglacials.
 
-## Climate patterns changed
+# Climate patterns changed
 
-## in Africa
+in Africa
 
 with mega droughts alternating with rainy phases.
 
-## With a
+# With a
 
 changing climate and a shift from more dense forests to grasslands
 
 and deserts, early humans had to adapt.
 
-## These conditions may have
+# These conditions may have
 
 favored either the smartest or those best able to cooperate within
 
 groups and compete between groups.
 
-## Having all these traits was
+# Having all these traits was
 
 clearly the winning formula.
 
 About 100,000 years ago, our brain
 
-## size changed markedly
+size changed markedly
 
 this appears to coincide with the appearance
 
 of fully modern language.
 
-## Recently
+# Recently
 
 researchers created a computer model of how our brains
 
@@ -5112,13 +5112,13 @@ might evolve under similar social and ecological pressures to those
 
 probably faced by our ancestors in the Great Rift Valley.
 
-## They
+# They
 
 found that the ecological challenges of extracting energy from a
 
 rapidly changing environment may have been the dominant driver
 
-## of rapid brain evolution
+of rapid brain evolution
 
 with a supporting role for social competition
 
@@ -5128,29 +5128,29 @@ This is backed up by independent evidence that
 
 indicates that while Homo sapiens and Neanderthal brains are quite
 
-## similar
+similar
 
-## by 100
+by 100
 
-## 000 years ago
+000 years ago
 
-### the brains of Homo sapiens had become
+the brains of Homo sapiens had become
 
 a little more bulbous and round.
 
-### These shape shifts evolved along a
+# These shape shifts evolved along a
 
 trajectory toward greater eye-hand coordination
 
-## complex tool use
+complex tool use
 
-## self-awareness
+self-awareness
 
-## long-term memory
+long-term memory
 
 and numerical processing.
 
-## This
+# This
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -5158,29 +5158,29 @@ indd 43US_018-063_321647_BB_Chap1-4.
 
 indd 43 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-### evolutionary path continued until 35
+evolutionary path continued until 35
 
-## 000 years ago
+000 years ago
 
-## when the Homo
+when the Homo
 
 sapiens brain became comparable with a fully modern human brain.
 
-## In 2020
+# In 2020
 
 the psychologist Simon Baron-Cohen proposed a new
 
 theory to explain the significance of these changes.
 
-## He argues that
+# He argues that
 
 evolution during this period led to a unique mechanism for
 
 analyzing patterns and systemizing information.
 
-## This mechanism
+# This mechanism
 
 created a deceptively simple algorithm that Baron-Cohen describes
 
@@ -5194,33 +5194,33 @@ plant will grow.
 
 opens up a world of innovation and creativity
 
-## from agriculture to
+from agriculture to
 
-## carpentry
+carpentry
 
 from science and mathematics to art and literature.
 
-## But why did Neanderthals
+# But why did Neanderthals
 
-## with very similar brains
+with very similar brains
 
-## not evolve
+not evolve
 
 along this route?
 
 Other factors may be at play.
 
-## A close look at the
+# A close look at the
 
 skull evolution of Homo sapiens over 200
 
-## 000 years shows that our
+000 years shows that our
 
-## prominent brows
+prominent brows
 
-### which we shared with Neanderthals
+which we shared with Neanderthals
 
-## gradually
+gradually
 
 reduced over this critical time.
 
@@ -5228,7 +5228,7 @@ Our faces become more rounded.
 
 Strong features that tend to define maleness decreased.
 
-## These
+# These
 
 changes might be explained by lower testosterone levels in
 
@@ -5236,27 +5236,27 @@ populations.
 
 Chimpanzees have high testosterone levels
 
-## live in
+live in
 
-## small groups
+small groups
 
 and settle disagreements with explosive violence.
 
-## Bonobos
+# Bonobos
 
-## on the other hand
+on the other hand
 
-### who evolved just across the Congo
+who evolved just across the Congo
 
-## River from chimpanzees
+# River from chimpanzees
 
 have lower testosterone levels and live in
 
 large, more peaceful groups.
 
-### Lower levels of testosterone do not
+# Lower levels of testosterone do not
 
-### require a major genetic mutation
+require a major genetic mutation
 
 but simply a little genetic diversity.
 
@@ -5264,21 +5264,21 @@ What if females deliberately chose less aggressive males?
 
 aggressive males became increasingly shunned by tribes
 
-## allowing
+allowing
 
-## for more peaceful
+for more peaceful
 
-## stable
+stable
 
 and significantly larger societies.
 
-## These
+# These
 
 strategies have been called “survival of the friendliest.
 
-## ” All this leads
+” All this leads
 
-## to an interesting conclusion
+to an interesting conclusion
 
 we humans domesticated ourselves.
 
@@ -5286,7 +5286,7 @@ The evolutionary twists and turns that produced a brain like ours
 
 present a vexing conundrum.
 
-### Our brains are hardwired and finely
+# Our brains are hardwired and finely
 
 tuned for reasoning.
 
@@ -5294,31 +5294,31 @@ You would think this might allow us to make
 
 better decisions.
 
-### But as individuals and as societies
+# But as individuals and as societies
 
-## we are often
+we are often
 
 hopeless at using facts and evidence.
 
-### This is a particular challenge
+# This is a particular challenge
 
 for us as a globally interconnected species that is running out of
 
 time to address a complex planetary emergency.
 
-## As language and
+# As language and
 
-## cooperation coevolved
+cooperation coevolved
 
-### a particularly powerful trait emerged
+a particularly powerful trait emerged
 
-### persuasion—our ability to coerce
+persuasion—our ability to coerce
 
-## cajole
+cajole
 
 and manipulate.
 
-## We are
+# We are
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -5326,13 +5326,13 @@ indd 44US_018-063_321647_BB_Chap1-4.
 
 indd 44 16/02/2021 11:3116/02/2021 11:31
 
-## 45 CHAPTER 3
+45 CHAPTER 3
 
 undoubtedly masters at this game.
 
 But, the power of persuasion is
 
-### not necessarily enhanced by facts
+not necessarily enhanced by facts
 
 much to the chagrin of scientists.
 
@@ -5340,17 +5340,17 @@ This can be explained by how and why persuasion as a trait emerged
 
 in the first place.
 
-## As Adrian Bardon
+# As Adrian Bardon
 
-### author of The Truth About Denial
+author of The Truth About Denial
 
-## (2019)
+(2019)
 
-## puts it
+puts it
 
-### “Our ancestors evolved in small groups
+“Our ancestors evolved in small groups
 
-## where
+where
 
 cooperation and persuasion had at least as much to do with
 
@@ -5358,21 +5358,21 @@ reproductive success as holding accurate factual beliefs about the
 
 world.
 
-## ” Survival in a tribe
+” Survival in a tribe
 
-### at least until reproductive success
+at least until reproductive success
 
-## meant
+meant
 
 fitting in with the group’s belief system.
 
-## An instinctive bias that
+# An instinctive bias that
 
 favors our group—and its worldview—over others is ingrained in
 
 human psychology and DNA.
 
-## To summarize
+# To summarize
 
 the cognitive revolution possibly included the
 
@@ -5380,9 +5380,9 @@ evolution of two new ways in which our brains operate.
 
 First, a
 
-### unique capacity for systemization
+unique capacity for systemization
 
-## the IF
+the IF
 
 AND, THEN innovation
 
@@ -5390,33 +5390,33 @@ engine.
 
 And, second
 
-## an ability to cooperate
+an ability to cooperate
 
-## empathize
+empathize
 
 teach, and
 
 even engage in deception that has allowed very large stable groups
 
-## tribes
+tribes
 
-## societies
+societies
 
 and civilizations to emerge.
 
-## But here’s the crucial
+But here’s the crucial
 
 point.
 
 As Baron-Cohen writes in The Pattern Seekers (2020)
 
-## “When
+“When
 
 we step back and look at these two remarkable brain mechanisms Human evolution
 
-## and brain growth
+and brain growth
 
-## Endocranial volume (cc)
+Endocranial volume (cc)
 
 Time (millions of years ago)5 4 3 2 1 002004006008001
 
@@ -5432,11 +5432,11 @@ indd 45US_018-063_321647_BB_Chap1-4.
 
 indd 45 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 that set modern humans along a path diverging from all other
 
-## animal species
+animal species
 
 we discover remarkable diversity in the population.
 
@@ -5452,37 +5452,37 @@ tensions between these two cognitive superpowers define our
 
 successes and failures to this day.
 
-### This is a particularly important
+# This is a particularly important
 
 insight as we now grapple with managing an Earth system.
 
-## Population bottleneck
+# Population bottleneck
 
 Even with our formidable cognitive power
 
-## it seems we came
+it seems we came
 
 within a hair’s breadth of annihilation.
 
-## At a critical moment in our
+# At a critical moment in our
 
-## cognitive development
+cognitive development
 
-## some 70
+some 70
 
-## 000 years ago
+000 years ago
 
-## a catastrophe befell
+a catastrophe befell
 
 our ancestors.
 
 Genetic analysis shows that the Homo sapiens
 
-## population crashed to just 10
+population crashed to just 10
 
-## 000 breeding pairs.
+000 breeding pairs.
 
-## 19 You and I are
+19 You and I are
 
 the descendants of this small group.
 
@@ -5490,15 +5490,15 @@ What could have happened?
 
 The Mount Toba volcanic eruption approximately 75
 
-## 000 years
+000 years
 
 ago was the largest in 2.
 
-### 5 million years and is likely to have led to a
+5 million years and is likely to have led to a
 
 catastrophic global volcanic winter that lasted for decades
 
-## followed
+followed
 
 by centuries of lower temperatures and drier weather.
 
@@ -5510,7 +5510,7 @@ likely cause of the population crash.
 
 This is now disputed.
 
-## A recent
+# A recent
 
 study of conditions in Africa after the super-eruption concludes that
 
@@ -5526,9 +5526,9 @@ What stopped our brains from expanding further?
 
 Of course,
 
-### there are some physical limitations
+there are some physical limitations
 
-## most notably female pelvis
+most notably female pelvis
 
 size limiting fetal brain size and the energy consumption required
 
@@ -5536,27 +5536,27 @@ for an ever-increasing brain size.
 
 But also, another revolution was
 
-## just around the corner
+just around the corner
 
 the agricultural revolution.
 
-## As the ice from
+# As the ice from
 
 the last ice age receded to the far north
 
-## we changed the way we
+we changed the way we
 
 found our food.
 
 This had quite an interesting influence on our
 
-## brain development
+brain development
 
 but not in the way you might expect.
 
 19 Our genetic diversity is extremely low compared with other primates like
 
-## chimpanzees
+chimpanzees
 
 indicating at least one population bottleneck.
 
@@ -5566,21 +5566,21 @@ indd 46US_018-063_321647_BB_Chap1-4.
 
 indd 46 16/02/2021 11:3116/02/2021 11:31
 
-## 47 CHAPTER 4
+47 CHAPTER 4
 
-## THE GOLDILOCKS
+# THE GOLDILOCKS
 
-## EPOCH
+# EPOCH
 
 I am quite literally from another age.
 
 I was born during the Holocene, the name
 
-## given to the 12
+given to the 12
 
-## 000-year period of climatic
+000-year period of climatic
 
-### stability that allowed humans to settle
+stability that allowed humans to settle
 
 farm,
 
@@ -5588,35 +5588,35 @@ and create civilizations.
 
 Now, in the space
 
-## of one human lifetime
+of one human lifetime
 
-## indeed
+indeed
 
-## in the space
+in the space
 
 of my lifetime, all that has changed.
 
 Holocene has ended.
 
-## The Garden of Eden
+# The Garden of Eden
 
 is no more.
 
-## We have changed the world
+# We have changed the world
 
 so much that scientists say we are now in
 
-### a new geological age—the Anthropocene—
+a new geological age—the Anthropocene—
 
 the Age of Humans.
 
-## DAVID ATTENBOROUGH
+# DAVID ATTENBOROUGH
 
 WORLD ECONOMIC FORUM, DAVOS, 2019
 
 The history of humanity is really the history of the Holocene.
 
-## It is
+# It is
 
 on this stable stage that all of humanity’s dramas have unfolded
 
@@ -5626,17 +5626,17 @@ The story of the Holocene has a very definite beginning and a very
 
 definite end.
 
-## It began 12
+# It began 12
 
-## 000 years ago
+000 years ago
 
 and it ended in the 1950s.
 
-### After a deep freeze lasting 100
+# After a deep freeze lasting 100
 
-## 000 years
+000 years
 
-## the ice age waned under
+the ice age waned under
 
 the influence of celestial mechanics and the planet’s internal
 
@@ -5644,11 +5644,11 @@ dynamics.
 
 Earth did not slip smoothly into the new epoch.
 
-## Homo
+# Homo
 
-### sapiens endured a bumpy ride at first
+sapiens endured a bumpy ride at first
 
-## as warming led the ice sheets
+as warming led the ice sheets
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -5658,29 +5658,29 @@ indd 47 16/02/2021 11:3116/02/2021 11:31
 
 to collapse, causing immense flooding.
 
-## This briefly plunged the
+# This briefly plunged the
 
-### planet back into ice-agelike conditions
+planet back into ice-agelike conditions
 
-## when the cold freshwater
+when the cold freshwater
 
 caused ocean circulations to grind to a crawl.
 
-## Eventually
+# Eventually
 
 Earth settled into what geologists call the Holocene
 
-## (from the Greek
+(from the Greek
 
-## meaning “new whole”) epoch
+meaning “new whole”) epoch
 
-## 20 one of the regular
+20 one of the regular
 
 warm episodes between ice ages.
 
-### We call it the Garden of Eden or
+# We call it the Garden of Eden or
 
-## Goldilocks epoch
+# Goldilocks epoch
 
 because it was not too hot and not too cold.
 
@@ -5688,7 +5688,7 @@ defining features of the Holocene were its unusually stable climate
 
 even compared with other warm episodes between ice ages
 
-## and the
+and the
 
 vulnerability of this stability.
 
@@ -5696,7 +5696,7 @@ As discussed in Chapter 2, Earth has
 
 a hair trigger and anything can set it off.
 
-## We can calculate the
+# We can calculate the
 
 predictable shifts in Earth’s tilt and wobble and figure out that our
 
@@ -5716,43 +5716,43 @@ live in today.
 
 But our future is no longer in the Holocene.
 
-## The stories of the Holocene
+# The stories of the Holocene
 
 The Holocene is the story of how one species came to dominate a
 
 planet and overwhelm the life-support systems that keep that
 
-## planet in its uncanny
+planet in its uncanny
 
 relatively stable state.
 
-## But it cannot be told
+# But it cannot be told
 
 as a single narrative; it is many.
 
-### The Holocene is the story of an
+# The Holocene is the story of an
 
-### entangled society and environment
+entangled society and environment
 
-## particularly the climate and
+particularly the climate and
 
 the biosphere.
 
 It is the story of innovation and ingenuity.
 
-## It is the
+# It is the
 
-### story of cooperation and coercion
+story of cooperation and coercion
 
-## hierarchies and power
+hierarchies and power
 
-## but also
+but also
 
 the story of how networks disrupt these hierarchies.
 
-## The Holocene
+# The Holocene
 
-## is the story of growth
+is the story of growth
 
 particularly in its final chapter as the
 
@@ -5762,7 +5762,7 @@ Growth leads to complexity, and
 
 complexity leads to unexpected emergent behavior.
 
-## 20 In geological jargon
+20 In geological jargon
 
 epochs are significantly less Earth-shattering than eons.
 
@@ -5770,27 +5770,27 @@ epochs are significantly less Earth-shattering than eons.
 
 ” A complicated task, for
 
-## example
+example
 
 is building a rocket to take men and women to the moon.
 
-## A complex task is
+# A complex task is
 
-## raising a child
+raising a child
 
-## whatever the inputs
+whatever the inputs
 
 the output (one adult) is quite uncertain.
 
 example of emergent behavior in a complex system is consciousness.
 
-## It is not at all
+# It is not at all
 
 obvious from looking at a brain’s neurons and synapses that some sort of grand
 
 awareness can materialize.
 
-## ACT I
+# ACT I
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -5800,29 +5800,29 @@ indd 48 16/02/2021 11:3116/02/2021 11:31
 
 A1SLEEPING GIANTS:
 
-## ANTARCTICA
+# ANTARCTICA
 
 Antarctica holds enough ice to raise sea level by 200 feet (60 meters).
 
 About one-third of the Antarctic ice sheet rests on rock below sea level.
 
-## These areas are
+# These areas are
 
 particularly vulnerable to climate change.
 
 They are exposed to warm ocean water that
 
-## can seep underneath the ice
+can seep underneath the ice
 
 melting it rapidly from below and accelerating ice loss.
 
 The ice sheet has lost trillions of tons of ice in recent decades.
 
-## Major areas (Pine
+Major areas (Pine
 
-## Island Glacier
+# Island Glacier
 
-## Thwaites Glacier
+# Thwaites Glacier
 
 and parts of Wilkes Land) are already showing signs
 
@@ -5832,57 +5832,57 @@ A collapse of Pine Island Glacier and Thwaites Glacier would lead to
 
 a rise in global sea level of 4 feet (1.
 
-## 2 meters).
+2 meters).
 
-## In total
+# In total
 
-### the vulnerable area of the West
+the vulnerable area of the West
 
 Antarctic Ice Sheet holds enough water to raise sea level by 11 feet (3.
 
-## 3 meters), and
+3 meters), and
 
 its disintegration is likely to be accelerated by the collapse of Pine Island Glacier and
 
 Thwaites Glacier.
 
-### In East Antarctica’s Wilkes Land
+In East Antarctica’s Wilkes Land
 
-### the vulnerable Aurora Subglacial
+the vulnerable Aurora Subglacial
 
 Basin holds enough water to raise sea level by 30 feet (9 meters).
 
-## East Antarctic
+# East Antarctic
 
-## Ice Sheet
+# Ice Sheet
 
-## West Antarctic
+# West Antarctic
 
-## Ice SheetAurora
+# Ice SheetAurora
 
-## Subglacial Basin
+# Subglacial Basin
 
-## Wilkes Land
+# Wilkes Land
 
-## Subglacial Basin
+# Subglacial Basin
 
-## Pine Island
+# Pine Island
 
-## Glacier
+# Glacier
 
-## Thwaites
+# Thwaites
 
-## GlacierRoss
+# GlacierRoss
 
-## Ice ShelfT otten
+# Ice ShelfT otten
 
-## Glacier
+# Glacier
 
-## ICE VELOCITYSEA LEVEL RISE
+# ICE VELOCITYSEA LEVEL RISE
 
-## m/year
+m/year
 
-## ft/year≥3000≥1000
+ft/year≥3000≥1000
 
 2400800
 
@@ -5892,21 +5892,21 @@ Basin holds enough water to raise sea level by 30 feet (9 meters).
 
 600200
 
-## 00Aurora Subglacial Basin
+00Aurora Subglacial Basin
 
-## West Antarctic Ice Sheet
+# West Antarctic Ice Sheet
 
-## Pine Island Glacier +
+Pine Island Glacier +
 
-## Thwaites Glacier+30ft (+9m)
+Thwaites Glacier+30ft (+9m)
 
 +11ft (+3.
 
 +4ft (+1.
 
-## 2m)Ronne-Filchner
+2m)Ronne-Filchner
 
-## Ice Shelf
+# Ice Shelf
 
 US_001-004_Plate_A.
 
@@ -5914,21 +5914,21 @@ indd 1US_001-004_Plate_A.
 
 indd 1 25/01/2021 18:0725/01/2021 18:07
 
-## RUPTURE WITH THE PAST
+# RUPTURE WITH THE PAST
 
-## DEEP TIME
+# DEEP TIME
 
 1961–1990 GLOBAL MEANChange in temperature (ºF)
 
 Million years agoPLEISTOCENE PLEISTOCENE
 
-## 60 40 20 5 3 1 30027 15 ºC
+60 40 20 5 3 1 30027 15 ºC
 
-## 18 10 ºC
+18 10 ºC
 
-## 95 ºC
+95 ºC
 
-## -9 -5 ºC
+-9 -5 ºC
 
 T emperature trend for the past 65 million years compared with
 
@@ -5940,33 +5940,33 @@ indicated by diﬀ erent colors.
 
 ) The 7.
 
-## 2°F (4°C) horizontal line is
+2°F (4°C) horizontal line is
 
 based on a 1961–1990 baseline for global average temperature.
 
 Past: Hothouse Earth conditions prevail during this period
 
-## with a
+with a
 
 heat spike (the Paleocene-Eocene Thermal Maximum) 55 million years
 
 ago.
 
-### Greenhouse gas levels fall gradually
+# Greenhouse gas levels fall gradually
 
-## cooling the planet until
+cooling the planet until
 
 permanent ice can form in the northern hemisphere.
 
-## A new climate
+# A new climate
 
-### regime begins with two stable states
+regime begins with two stable states
 
-## ice ages and warm periods
+ice ages and warm periods
 
 known as interglacials.
 
-## Future
+# Future
 
 Decisions made now will have a signi/f_i cant in/f_l uence on
 
@@ -5974,7 +5974,7 @@ whether or not Earth restabilizes within a cooler Holocene-like
 
 climate or lurches toward more hothouselike conditions.
 
-## A2
+A2
 
 US_001-004_Plate_A.
 
@@ -5982,19 +5982,19 @@ indd 2US_001-004_Plate_A.
 
 indd 2 25/01/2021 18:0725/01/2021 18:07
 
-## HOLOCENE-LIKE
+# HOLOCENE-LIKE
 
-## CONDITIONSHOTHOUSE EARTH
+# CONDITIONSHOTHOUSE EARTH
 
-### SCENARIOSouthern hemisphere ice sheets
+# SCENARIOSouthern hemisphere ice sheets
 
-## Decisions made now
+# Decisions made now
 
 determine the future.
 
-## T emperature predictions are
+# T emperature predictions are
 
-## dependent on greenhouse
+dependent on greenhouse
 
 gas emissions.
 
@@ -6002,9 +6002,9 @@ gas emissions.
 
 Thousand years ago YearPast FuturePLEISTOCENE PLEISTOCENE HOLOCENE ANTHROPOCENE
 
-## 100 20 10 1950 215010
+100 20 10 1950 215010
 
-## A3
+A3
 
 US_001-004_Plate_A.
 
@@ -6012,37 +6012,37 @@ indd 3US_001-004_Plate_A.
 
 indd 3 25/01/2021 18:0725/01/2021 18:07
 
-## THE EARTHSHOT
+# THE EARTHSHOT
 
-## OUR FUTURE
+# OUR FUTURE
 
-## OUR PAST
+# OUR PAST
 
 Earth has slipped out of the Holocene stability regime.
 
-## Our Earthshot
+# Our Earthshot
 
 mission is to locate and navigate toward a safe
 
 stable state for Earth.
 
-## Present
+# Present
 
-## EVENT HORIZON
+# EVENT HORIZON
 
-## Earth
+# Earth
 
-## NEAR FUTURE
+# NEAR FUTURE
 
-## Unsafe future
+# Unsafe future
 
-## Safe future
+# Safe future
 
-## Anthropocene
+# Anthropocene
 
-## TRAJECTORYHolocene
+# TRAJECTORYHolocene
 
-## A4
+A4
 
 US_001-004_Plate_A.
 
@@ -6050,9 +6050,9 @@ indd 4US_001-004_Plate_A.
 
 indd 4 23/02/2021 11:3623/02/2021 11:36
 
-## 49 CHAPTER 4
+49 CHAPTER 4
 
-## We cannot
+# We cannot
 
 here, tell the complete story of our journey through
 
@@ -6068,31 +6068,31 @@ Here, we want to
 
 provide enough information to grasp what we are losing
 
-## what is at
+what is at
 
 stake, and why it is so difficult for complex societies to act.
 
-## We also
+# We also
 
 want to offer hope.
 
 War, famine
 
-## and disease once loomed large
+and disease once loomed large
 
-## over all our lives
+over all our lives
 
 but, comparatively speaking
 
-## they have now all
+they have now all
 
 but faded away.
 
 The rise of democracy and women’s rights
 
-## as well
+as well
 
-## as the end of slavery
+as the end of slavery
 
 show that societies can do the right thing … but
 
@@ -6104,17 +6104,17 @@ We should not let the progress already made
 
 lull us into a false sense of security.
 
-## Despite constant scientific
+# Despite constant scientific
 
-## warnings
+warnings
 
 in 2020 COVID-19 somehow caught the world off guard.
 
 The story of an entangled society and environment
 
-## By the start of the Holocene
+# By the start of the Holocene
 
-### Homo sapiens populations had reached
+# Homo sapiens populations had reached
 
 all continents except Antarctica—globalization began early on.
 
@@ -6122,19 +6122,19 @@ the turbulent climate meant there was little chance of agriculture
 
 emerging.
 
-## For that
+# For that
 
-### there needs to be some likelihood
+there needs to be some likelihood
 
-## at least
+at least
 
-## that
+that
 
 the coming year will be as predictable as the previous one.
 
-## Eventually
+# Eventually
 
-### the climate settled into a rolling
+the climate settled into a rolling
 
 pleasant rhythm.
 
@@ -6142,7 +6142,7 @@ This predictability has continued for so long—thousands of years—
 
 that we have absolutely taken it for granted.
 
-## None of us have ever
+# None of us have ever
 
 lived otherwise.
 
@@ -6150,51 +6150,51 @@ Exactly how mellow has only been established with
 
 a high degree of certainty in the past two decades.
 
-## Global average
+# Global average
 
 temperature bobbed up or down by just 1.
 
-## 8°F (1°C) during the
+8°F (1°C) during the
 
 Holocene.
 
 Earth’s most important greenhouse gas controlling the
 
-## thermostat
+thermostat
 
-## carbon dioxide
+carbon dioxide
 
-### hovered around 280 parts per million
+hovered around 280 parts per million
 
 (ppm) and did not budge until the industrial revolution.
 
-## However
+# However
 
 the climate did not stabilize simultaneously around the
 
-### world as we entered the Holocene
+world as we entered the Holocene
 
-## and so farming emerged in
+and so farming emerged in
 
 pockets and the domestication of plants and animals arose as
 
 environmental conditions improved regionally.
 
-## Scientists have
+# Scientists have
 
-### found the first signs of agriculture 11
+found the first signs of agriculture 11
 
-## 000 years ago in Mesopotamia
+000 years ago in Mesopotamia
 
 the once fertile lands between the Tigris and Euphrates rivers in
 
 modern-day Iraq.
 
-## Around 10
+# Around 10
 
-## 000 years ago
+000 years ago
 
-## agriculture emerged
+agriculture emerged
 
 independently in China and Central America.
 
@@ -6206,35 +6206,35 @@ indd 49US_018-063_321647_BB_Chap1-4.
 
 indd 49 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-## years ago
+years ago
 
-## agriculture began in India
+agriculture began in India
 
-## Africa
+# Africa
 
-## and North America
+and North America
 
-### as well as in parts of the Andes
+as well as in parts of the Andes
 
-## in South America
+in South America
 
-## as the climate
+as the climate
 
 became more clement.
 
-### Our ancestors first domesticated
+# Our ancestors first domesticated
 
-## in order
+in order
 
 dogs, wheat
 
-## barley
+barley
 
-## lentils
+lentils
 
-## cattle
+cattle
 
 pigs, chickpeas
 
@@ -6244,39 +6244,39 @@ Domesticating animals and plants occurred independently on
 
 different continents around the world.
 
-## This is proof that it was the
+# This is proof that it was the
 
 Goldilocks conditions of the Holocene—giving reliable rainy seasons
 
 and warm growing seasons—that enabled us to carry out the most
 
-### important revolution of all time
+important revolution of all time
 
 inventing agriculture.
 
-## It was from
+# It was from
 
 here that everything we call “modern societies” evolved.
 
 The agricultural revolution had a profound impact on our planet.
 
-## At the start of the Holocene
+# At the start of the Holocene
 
 about 6 trillion trees grew on Earth.
 
 Today, there are only about half that amount.
 
-## Although some argue
+# Although some argue
 
 that as agriculture spread globally in its first few millennia farming
 
 practices led to widespread deforestation
 
-## which in turn affected
+which in turn affected
 
-### greenhouse gases in the atmosphere
+greenhouse gases in the atmosphere
 
-## the impact was probably
+the impact was probably
 
 within natural boundaries.
 
@@ -6292,11 +6292,11 @@ the “medieval warm period” and that Londoners skated on the
 
 frozen Thames during the “Little Ice Age.
 
-## ” These events were
+” These events were
 
-## regional bubbles
+regional bubbles
 
-## though
+though
 
 affecting only certain parts of the globe.
 
@@ -6304,19 +6304,19 @@ They were linked to Earth’s natural climate cycles and occasional
 
 volcanic eruptions.
 
-## But globally
+# But globally
 
-## the average temperature never
+the average temperature never
 
 crossed the narrow boundary of plus or minus 1.
 
 8°F (1°C).
 
-## Sceptics
+# Sceptics
 
-### also say the climate has always changed
+also say the climate has always changed
 
-## look at the ice ages or
+look at the ice ages or
 
 hothouse Earth condition.
 
@@ -6326,9 +6326,9 @@ This should alarm us, because Earth
 
 can be extremely sensitive to disturbances
 
-## yet the climate barely
+yet the climate barely
 
-## changed during the Holocene
+changed during the Holocene
 
 the time when civilization emerged.
 
@@ -6342,19 +6342,19 @@ bleak, and
 
 of these species as a result of human interference.
 
-### Some form of farming will have
+# Some form of farming will have
 
-## emerged some time before this
+emerged some time before this
 
 because wild plant and animal species will have
 
 been managed before morphological changes were introduced.
 
-## Some cats may
+# Some cats may
 
-## dispute whether cats have
+dispute whether cats have
 
-## indeed
+indeed
 
 been domesticated.
 
@@ -6364,7 +6364,7 @@ indd 50US_018-063_321647_BB_Chap1-4.
 
 indd 50 16/02/2021 11:3116/02/2021 11:31
 
-## 51 CHAPTER 4
+51 CHAPTER 4
 
 inhospitable.
 
@@ -6376,19 +6376,19 @@ Indeed, only a narrow band around
 
 Earth—known as “the lucky latitudes”—has seen the most advanced
 
-## political
+political
 
-## technological
+technological
 
 and economic leaps and bounds.
 
-## It is here
+# It is here
 
 where the largest populations have flourished.
 
-## Throughout the Holocene
+# Throughout the Holocene
 
-### we relied on a stable environment for
+we relied on a stable environment for
 
 our well-being.
 
@@ -6398,9 +6398,9 @@ acknowledged the need for environmental stewardship to protect
 
 that stability.
 
-### Those worldviews informed how we farmed
+# Those worldviews informed how we farmed
 
-## harvested
+harvested
 
 and lived our lives.
 
@@ -6408,41 +6408,41 @@ Small island communities were more aware of
 
 this than others.
 
-## Even so
+# Even so
 
 these stories did not prevent disaster in
 
 precarious isolated locations.
 
-### The statue-building Rapa Nui society
+# The statue-building Rapa Nui society
 
 of Easter Island in the Pacific Ocean collapsed in the 1600s or early
 
 1700s, possibly as a result of chopping down the island’s trees
 
-## which
+which
 
 held topsoil in place.
 
-### While global trade now provides more
+# While global trade now provides more
 
-### resilience for once-isolated societies
+resilience for once-isolated societies
 
-## it can also make the whole
+it can also make the whole
 
 network more prone to shocks.
 
 Moreover, societies are increasingly
 
-## disconnected from nature
+disconnected from nature
 
 which augments our vulnerability.
 
-## Look
+# Look
 
 no further than the 2020 pandemic for evidence of this.
 
-### The story of innovation and ingenuity
+# The story of innovation and ingenuity
 
 The Sumerians of Mesopotamia probably win the prize for first
 
@@ -6450,27 +6450,27 @@ civilization.
 
 As farms and communities grew more complex
 
-## this
+this
 
 created surplus food.
 
 By 7,000 years ago
 
-## several cities had emerged
+several cities had emerged
 
-## on the plains of Mesopotamia
+on the plains of Mesopotamia
 
-### some eventually with populations
+some eventually with populations
 
 of 80,000 people.
 
-### It is here we find the earliest writing
+# It is here we find the earliest writing
 
 cuneiform.
 
 The Sumerians used cuneiform for accounting
 
-## to track trades
+to track trades
 
 and take stock.
 
@@ -6480,13 +6480,13 @@ law, documenting
 
 historical events, and storytelling.
 
-## 24 Writing was a foundational
+24 Writing was a foundational
 
-## 23 Incredibly
+23 Incredibly
 
 up to 2 million cuneiform tablets have been excavated
 
-## although not
+although not
 
 all have been translated.
 
@@ -6494,25 +6494,25 @@ Clay is an impressively resilient medium.
 
 24 The first written story is the Epic of Gilgamesh
 
-### an account of a hero/king that
+an account of a hero/king that
 
 includes the first reference to a “Great Flood.
 
-## ” Great Floods appear in
+” Great Floods appear in
 
 Norse, Celtic
 
-## Chinese
+# Chinese
 
-## and Christian mythologies
+and Christian mythologies
 
-### and there is speculation as to
+and there is speculation as to
 
 whether these written accounts are based on oral stories
 
-## passed down through
+passed down through
 
-## generations
+generations
 
 and relate to the floods that must have inundated early human
 
@@ -6526,57 +6526,57 @@ indd 51US_018-063_321647_BB_Chap1-4.
 
 indd 51 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-### innovation for organized societies
+innovation for organized societies
 
-## allowing expansion of
+allowing expansion of
 
-## civilizations
+civilizations
 
-## empires
+empires
 
 and their attendant bureaucracies.
 
-## Like language before it
+# Like language before it
 
-### writing makes all other innovation both
+writing makes all other innovation both
 
 possible and efficient—no one needs to reinvent the wheel if someone
 
 has written down the instructions.
 
-### Both writing and language allow
+# Both writing and language allow
 
 culture and knowledge to accumulate.
 
-## But in a world shaped by
+# But in a world shaped by
 
-### great empires and religious thinking
+great empires and religious thinking
 
-## access to writing and reading
+access to writing and reading
 
 became an elite privilege that was used to exert control
 
-## thus stifling
+thus stifling
 
 ideas and so technological and social innovation for millennia.
 
-## took 6
+took 6
 
-## 000 years for that to change
+000 years for that to change
 
-## when Johannes Gutenberg
+when Johannes Gutenberg
 
 introduced another foundational innovation
 
 printing.
 
-## This was a
+# This was a
 
 decisive point in the Holocene.
 
-### The British historian Niall Ferguson
+# The British historian Niall Ferguson
 
 notes that the subsequent diffusion of printing presses throughout
 
@@ -6584,37 +6584,37 @@ Europe in the 1500s accounted for 18 to 80 percent of urban growth.
 
 Printing allowed people to disseminate fundamental knowledge for
 
-## well-functioning economies
+well-functioning economies
 
-## how to brew beer
+how to brew beer
 
 for example.
 
-## It also
+# It also
 
 allowed radical new ideas to diffuse through societies
 
-## sowing the
+sowing the
 
 seeds of the Enlightenment and scientific reasoning.
 
-### The story of cooperation and coercion
+# The story of cooperation and coercion
 
-## hierarchies and power
+hierarchies and power
 
-## In our evolutionary history
+# In our evolutionary history
 
-### few developments were as critical in
+few developments were as critical in
 
 shaping us into modern humans as our ability to cooperate.
 
-## Irrigation
+# Irrigation
 
 one of the most important innovations in the early
 
 Holocene, is an engineering challenge.
 
-## But it is also a social
+# But it is also a social
 
 challenge.
 
@@ -6622,7 +6622,7 @@ Irrigation channels meant that farmers could plant
 
 more seeds and provide some insurance against drought.
 
-## A lone
+# A lone
 
 farmer would struggle to create such a system.
 
@@ -6630,27 +6630,27 @@ Instead, people
 
 needed to come together and cooperate as larger groups.
 
-## Irrigation
+# Irrigation
 
 required collaboration to such a great extent that some academics
 
 have proposed the systems as important catalysts for social
 
-## innovation
+innovation
 
-### centralized management of resources
+centralized management of resources
 
-## and the origin
+and the origin
 
 of the state.
 
 The earliest states relied on irrigation because it allowed
 
-### agricultural intensification and
+agricultural intensification and
 
-## in turn
+in turn
 
-## surpluses—essential to
+surpluses—essential to
 
 support those living in the burgeoning towns and cities.
 
@@ -6660,13 +6660,13 @@ similar technologies brought water to cities and carried waste away.
 
 Recently, water usage has skyrocketed.
 
-## About 70 percent of this
+# About 70 percent of this
 
 increase is for irrigation.
 
-## Since 1900
+# Since 1900
 
-### water usage increased six-fold
+water usage increased six-fold
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -6674,7 +6674,7 @@ indd 52US_018-063_321647_BB_Chap1-4.
 
 indd 52 16/02/2021 11:3116/02/2021 11:31
 
-## 53 CHAPTER 4
+53 CHAPTER 4
 
 with most change happening since the 1950s as the green
 
@@ -6686,21 +6686,21 @@ now looks as if it may be plateauing—mainly because there are very
 
 few rivers left that can be dammed or siphoned—but the World Bank
 
-## estimates that by 2050
+estimates that by 2050
 
 agriculture may need to draw an additional
 
-### 15 percent of water to feed a growing population.
+15 percent of water to feed a growing population.
 
-## Where will this
+# Where will this
 
 come from?
 
-## As cities grew more powerful
+# As cities grew more powerful
 
-## empires emerged
+empires emerged
 
-## with power
+with power
 
 tightly concentrated at the top in a patriarchy of chiefs
 
@@ -6712,23 +6712,23 @@ Technological innovation in the hands of hierarchical
 
 states focused on war machines and architectural feats that
 
-## symbolize power
+symbolize power
 
 such as the Egyptian or Maya pyramids or the
 
 cathedrals of Europe.
 
-## In this world
+# In this world
 
-## power and energy came from
+power and energy came from
 
 trees, slaves
 
-## horses
+horses
 
-## and oxen
+and oxen
 
-## and information flowed only
+and information flowed only
 
 downward from upon high, if at all.
 
@@ -6736,9 +6736,9 @@ Major engineering projects,
 
 such as the massive irrigation programs in Mesopotamia
 
-## could be
+could be
 
-## ordered
+ordered
 
 but subsequently protecting crops from saltwater intrusion
 
@@ -6750,33 +6750,33 @@ The story of empires is well known because it is documented by
 
 the empires themselves in their bureaucracies.
 
-## The story of
+# The story of
 
 networks is less known25 and more intriguing.
 
-## Ferguson argues in
+# Ferguson argues in
 
-### his book The Square and the Tower
+his book The Square and the Tower
 
-## Networks and Power
+# Networks and Power
 
-## from the
+from the
 
 Freemasons to Facebook (2018) that “innovations have tended to come
 
 from networks more than from hierarchies
 
-## ” particularly since the
+” particularly since the
 
 invention of the printing press.
 
-## The Reformation in Europe
+# The Reformation in Europe
 
-### which created a huge chasm between
+which created a huge chasm between
 
 the Roman Catholic Church and the political elite in northern
 
-## Europe
+# Europe
 
 started from a small informal network able to print its ideas
 
@@ -6786,15 +6786,15 @@ More significantly, the
 
 Enlightenment movement—which was the foundation of the
 
-## scientific revolution
+scientific revolution
 
-## the industrial revolution
+the industrial revolution
 
-## and the philosophy
+and the philosophy
 
 law, and economic thinking that created modern democratic
 
-## liberal
+liberal
 
 25 This is because of their inherently ephemeral nature.
 
@@ -6804,15 +6804,15 @@ indd 53US_018-063_321647_BB_Chap1-4.
 
 indd 53 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 societies—emerged from informal networks of intellectuals.
 
-## One of
+# One of
 
 these, Adam Smith
 
-### 26 at the University of Glasgow in Scotland
+26 at the University of Glasgow in Scotland
 
 argued that a free market would allocate resources more efficiently
 
@@ -6820,7 +6820,7 @@ than a rigid hierarchy—an idea that became a foundation for
 
 capitalism.
 
-## (In reality
+(In reality
 
 a quick glance at retail giant Walmart’s
 
@@ -6828,13 +6828,13 @@ supply chains shows that impressive command and control is
 
 required to get goods to markets.
 
-## A global economy needs both
+# A global economy needs both
 
 command and control hierarchies and network effects.
 
-### But networks have one major downside
+# But networks have one major downside
 
-## they are not easily
+they are not easily
 
 directed toward a common objective.
 
@@ -6844,7 +6844,7 @@ networks are “creative but not strategic” and are as capable of
 
 spreading bad ideas as good ideas.
 
-## The digital revolution has
+# The digital revolution has
 
 allowed us to collect sample data to prove this.
 
@@ -6852,29 +6852,29 @@ Indeed, Facebook
 
 and Twitter have finely honed algorithms to industrialize the spread
 
-## of bad ideas
+of bad ideas
 
 seemingly as part of their business model
 
-## such as fake
+such as fake
 
 news about climate change and vaccines.
 
-## The Flat Earth Society is
+# The Flat Earth Society is
 
 thriving in the digital era.
 
-## The story of growth
+# The story of growth
 
 The US author and academic Jared Diamond famously called the
 
 agricultural revolution the worst mistake in human history.
 
-## This
+# This
 
-## is a provocative statement
+is a provocative statement
 
-### challenging the notion that the move
+challenging the notion that the move
 
 from hunter-gatherers to farmers was progress.
 
@@ -6886,23 +6886,23 @@ on the table and that the food may not have been as nutritious.
 
 But agriculture allowed populations to grow larger because
 
-## under
+under
 
-## the plow
+the plow
 
 an acre of land could feed more people.
 
-## Combined
+# Combined
 
 with a shift to a more sedentary way of life
 
-## agriculture allowed
+agriculture allowed
 
 towns and then cities to grow.
 
-## This had more benefits than
+# This had more benefits than
 
-## downsides
+downsides
 
 with a growing number of people enjoying a higher
 
@@ -6910,7 +6910,7 @@ quality of life.
 
 26 Adam Smith invited a young James Watt to Glasgow University
 
-## where they
+where they
 
 became good friends.
 
@@ -6918,7 +6918,7 @@ Watt is credited with improving the steam engine to such an
 
 extent that it would kick-start the industrial revolution
 
-## as we will see in the next
+as we will see in the next
 
 chapter.
 
@@ -6938,27 +6938,27 @@ indd 54US_018-063_321647_BB_Chap1-4.
 
 indd 54 16/02/2021 11:3116/02/2021 11:31
 
-## 55 CHAPTER 4
+55 CHAPTER 4
 
-## The reality is
+# The reality is
 
-## though
+though
 
-### that despite the onset of agriculture
+that despite the onset of agriculture
 
-## empire
+empire
 
-## building
+building
 
-## urbanization
+urbanization
 
-## and trade networks
+and trade networks
 
-## the global population
+the global population
 
 grew modestly for much of the Holocene.
 
-## Economies grew only
+# Economies grew only
 
 modestly, too.
 
@@ -6970,11 +6970,11 @@ When cities reached a certain size, the
 
 sheer density of people crammed into confined spaces
 
-## which now
+which now
 
 provides such a powerful network effect and drives new ideas and
 
-## innovation
+innovation
 
 allowed pandemics to explode more efficiently.
 
@@ -6982,43 +6982,43 @@ Black Death of the 1340s killed up to 200 million people across Asia
 
 and Europe.
 
-## On top of that
+# On top of that
 
 few incentives existed to extract natural
 
 resources and turn them into useful products on any scale.
 
-## In other
+# In other
 
 words, the vast empires of the past had limited desire or ability for
 
 any kind of continued or even noticeable economic growth.
 
-## However
+# However
 
-## the advent of capitalism
+the advent of capitalism
 
-## market forces
+market forces
 
-## and colonialism
+and colonialism
 
 allowed greater resource extraction and brought riches to countries
 
-## such as the United Kingdom
+such as the United Kingdom
 
 Spain, and Portugal.
 
-## But even
+# But even
 
-### with the superpower of capitalism
+with the superpower of capitalism
 
-### economies did not really take off
+economies did not really take off
 
-## until the 1800s when coal
+until the 1800s when coal
 
-## and later oil
+and later oil
 
-## extraction began providing
+extraction began providing
 
 undreamed-of energy on tap.
 
@@ -7026,33 +7026,33 @@ Strangely, most economists omit
 
 energy in their analyses of growth.
 
-## Human societies and their
+# Human societies and their
 
-### increasing environmental impact
+increasing environmental impact
 
-## Domestication
+# Domestication
 
 11,000 years agoIndustrial revolution
 
-## 1800s
+1800s
 
-## European expansion
+# European expansion
 
-## 1500sGreat Acceleration
+1500sGreat Acceleration
 
-## 1950sGlobal
+1950sGlobal
 
-## environmental
+environmental
 
-## impactHunter-
+impactHunter-
 
-### gathererAgriculturalMercantile
+gathererAgriculturalMercantile
 
-## capitalismIndustrial
+capitalismIndustrial
 
-## capitalismConsumer
+capitalismConsumer
 
-## capitalism
+capitalism
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -7060,9 +7060,9 @@ indd 55US_018-063_321647_BB_Chap1-4.
 
 indd 55 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-## In 1775
+# In 1775
 
 Scottish engineer James Watt figured out how to make
 
@@ -7070,37 +7070,37 @@ steam engines powered by coal far more reliable and efficient.
 
 Mines and factories across the United Kingdom rapidly adopted his
 
-## invention
+invention
 
 which paved the way for railroads.
 
-## In the nascent textile
+# In the nascent textile
 
-## industry
+industry
 
 the spinning jenny accelerated wool production
 
-## flying
+flying
 
-### shuttles doubled the outputs of weavers
+shuttles doubled the outputs of weavers
 
-## and cotton gins made linen
+and cotton gins made linen
 
 production at scale possible (as did slavery in the Americas).
 
 Then,
 
-## electricity brought lights
+electricity brought lights
 
-## telephones
+telephones
 
-## radios
+radios
 
-## televisions
+televisions
 
 refrigerators, freezers, and more.
 
-### The inventions of modern concrete
+# The inventions of modern concrete
 
 and mass steel production allowed urbanization and better roads.
 
@@ -7108,7 +7108,7 @@ seemed as if each new invention created a springboard to greater
 
 heights and fueled the industrial revolution.
 
-## By 1804
+# By 1804
 
 the world had crossed the threshold of 1 billion
 
@@ -7120,25 +7120,25 @@ From there, GDP began to climb rapidly.
 
 United Kingdom was the first country to achieve the alchemy of
 
-## sustained economic growth
+sustained economic growth
 
-### as factories emerged in the north of
+as factories emerged in the north of
 
-## the country
+the country
 
-### but this quickly spread across Europe
+but this quickly spread across Europe
 
-## North America
+# North America
 
 and elsewhere.
 
-### Global GDP is now about $86 trillion
+Global GDP is now about $86 trillion
 
-## a staggering
+a staggering
 
 leap over the past 215 years.
 
-## In 1800
+# In 1800
 
 about 90 percent of the global population lived in
 
@@ -7146,29 +7146,29 @@ rural areas.
 
 As the industrial revolution gathered pace
 
-## people
+people
 
-## swarmed to cities
+swarmed to cities
 
 which became engines of creativity and growth.
 
 Today, we are an urban species
 
-### 51 percent of the population lives in
+51 percent of the population lives in
 
-## cities
+cities
 
 although one-third live in slums.
 
-## Tokyo has the largest
+# Tokyo has the largest
 
-## population
+population
 
 numbering a staggering 38 million inhabitants
 
-## perhaps
+perhaps
 
-## unsurprisingly
+unsurprisingly
 
 it is the most economically productive city on Earth
 
@@ -7178,11 +7178,11 @@ City metabolisms have colossal appetites for materials and energy.
 
 While people in densely populated cities tend to have lower carbon
 
-## footprints
+footprints
 
 due to more efficient mass transit systems and smaller
 
-## apartments to heat
+apartments to heat
 
 the sheer numbers require global trade flows on
 
@@ -7190,21 +7190,21 @@ unprecedented levels.
 
 And rapid urbanization requires steel,
 
-## cement
+cement
 
 and a colorful palette of toxic chemicals.
 
-## In the 20th
+# In the 20th
 
-## century
+century
 
 the United States used 5 billion tons (4.
 
-## 6 billion metric
+6 billion metric
 
 tons) of cement to build its economy.
 
-## China used more in just three
+# China used more in just three
 
 years between 2008 and 2010.
 
@@ -7218,7 +7218,7 @@ indd 56US_018-063_321647_BB_Chap1-4.
 
 indd 56 16/02/2021 11:3116/02/2021 11:31
 
-## 57 CHAPTER 4
+57 CHAPTER 4
 
 While the agricultural revolution at the start of the Holocene
 
@@ -7228,19 +7228,19 @@ land, by the industrial revolution farmers had reached the limit
 
 of what an acre of land could produce.
 
-## Industrialized countries
+# Industrialized countries
 
 were going to greater lengths to source guano
 
-## or birdshit
+or birdshit
 
-## which is
+which is
 
 a superb fertilizer.
 
 At the start of the industrial revolution
 
-## millions
+millions
 
 of tons of guano were being shipped from South America to Europe
 
@@ -7248,7 +7248,7 @@ every year to fertilize crops.
 
 Then two Germans, Fritz Haber and
 
-## Carl Bosch
+# Carl Bosch
 
 developed a way to make nitrogen fertilizers using
 
@@ -7256,15 +7256,15 @@ nitrogen in air.
 
 This was one of the most significant inventions in
 
-## our history
+our history
 
 and it has allowed a staggering expansion of
 
 food production.
 
-## One thousand years ago
+# One thousand years ago
 
-### just 4 percent of global ice-free
+just 4 percent of global ice-free
 
 non-barren land was used for agriculture.
 
@@ -7272,7 +7272,7 @@ Now, we use an area the
 
 size of South America for our crops and an area the size of Africa
 
-## for our livestock
+for our livestock
 
 or a full 50 percent of the habitable land surface
 
@@ -7284,69 +7284,69 @@ improvements in crop yields as a result of artificial fertilizers and
 
 other technologies.
 
-## Between 1860 and 2016
+# Between 1860 and 2016
 
-## it is estimated that 128
+it is estimated that 128
 
 million people died in famines.
 
-### The causes of famine are complex
+# The causes of famine are complex
 
-## and relate to trade
+and relate to trade
 
-## extreme poverty
+extreme poverty
 
-## and price volatility
+and price volatility
 
-## as well as
+as well as
 
 crop failure.
 
-## Since the 1960s
+# Since the 1960s
 
-### major famines have all but been
+major famines have all but been
 
 eradicated.
 
-## Until very recently
+# Until very recently
 
-### famine was thought to be a thing of
+famine was thought to be a thing of
 
 the past outside of politically unstable states.
 
-## This view is altering as
+# This view is altering as
 
 the climate changes and Earth reaches a saturation level and can no
 
 longer absorb the punishment from human impact.
 
-## All these developments
+# All these developments
 
-### particularly improvements to health and
+particularly improvements to health and
 
-## agriculture
+agriculture
 
 kick-started population growth.
 
-## Between 1804 and
+# Between 1804 and
 
 1927, the population jumped by 1 billion.
 
-## It doubled again to
+# It doubled again to
 
-### 4 billion in 1975—in just 48 years.
+4 billion in 1975—in just 48 years.
 
 At the time of writing, we stand
 
 at 7.
 
-## 8 billion.
+8 billion.
 
 But population growth has slowed down dramatically
 
 as a result of progress in gender equality
 
-## particularly the increases
+particularly the increases
 
 in women’s education and greater economic opportunities for
 
@@ -7360,13 +7360,13 @@ We are reaching “peak child,” a
 
 term popularized by the late Swedish academic Hans Rosling.
 
-## Peak
+# Peak
 
 child is when the number of children reaches the replacement rate
 
-## of the population
+of the population
 
-## that is
+that is
 
 about two children for every woman.
 
@@ -7376,23 +7376,23 @@ indd 57US_018-063_321647_BB_Chap1-4.
 
 indd 57 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 The global population may peak at 10 to 11 billion people this
 
-## century
+century
 
 then fall to a little below 10 billion.
 
-## This is still a huge
+# This is still a huge
 
-## figure
+figure
 
-## obviously
+obviously
 
-## but as we will see in Act III
+but as we will see in Act III
 
-## transformation
+transformation
 
 toward healthy diets and sustainable agriculture means Earth can
 
@@ -7406,37 +7406,37 @@ In the 120 years since 1900, life
 
 expectancy doubled globally from 35 years to over 70.
 
-## As hygiene
+# As hygiene
 
-## and medicine improved
+and medicine improved
 
-### more and more people were surviving at
+more and more people were surviving at
 
 all ages.
 
-## Most prominently
+# Most prominently
 
 there was a staggering reduction in child
 
 mortality.
 
-## Vaccine development
+# Vaccine development
 
-### which began in 1796 with the first
+which began in 1796 with the first
 
 smallpox vaccine, was also critical.
 
 By the end of the 19th century,
 
-### the first vaccines for cholera
+the first vaccines for cholera
 
-## typhoid
+typhoid
 
-## plague
+plague
 
-## and rabies had been
+and rabies had been
 
-## developed
+developed
 
 and antiseptics use for surgery was widespread.
 
@@ -7448,37 +7448,37 @@ penicillin.
 
 Then, in the 1950s
 
-## James Watson
+# James Watson
 
-## Francis Crick
+# Francis Crick
 
 Rosalind Franklin unraveled the secrets of DNA
 
-## ushering in
+ushering in
 
 another revolution in medicine.
 
-## In 1800
+# In 1800
 
 most people lived in extreme poverty.
 
 Today, less than
 
-## 10 percent
+10 percent
 
-## or 700 million people
+or 700 million people
 
 live on less than $1.
 
-## 90 per day, the
+90 per day, the
 
 definition of extreme poverty.
 
-### The number of people who are not in
+# The number of people who are not in
 
 extreme poverty has increased more than 50-fold.
 
-## The world’s exit
+The world’s exit
 
 from poverty hit an inflection point around 1950 and reached a
 
@@ -7488,19 +7488,19 @@ Of course, we should
 
 not forget that those living on $2 per day are still desperately poor.
 
-## This is changing rapidly
+# This is changing rapidly
 
-## though
+though
 
-## a decade ago
+a decade ago
 
-## only a quarter of the
+only a quarter of the
 
 world population earned more than $10 per day
 
-## now that figure
+now that figure
 
-## has reached a third
+has reached a third
 
 mainly due to phenomenal economic growth in
 
@@ -7508,21 +7508,21 @@ China and also India.
 
 While futurologists like to say technological innovation is
 
-## accelerating
+accelerating
 
-## which is true
+which is true
 
 the nature of innovation in the past two
 
 centuries and the impact it has had on people and the planet are
 
-## never likely to be repeated
+never likely to be repeated
 
-## electricity
+electricity
 
-## antibiotics
+antibiotics
 
-## and nitrogen
+and nitrogen
 
 production are truly game changers.
 
@@ -7532,13 +7532,13 @@ Economic prosperity is a recent achievement for humanity.
 
 Growth over the past two centuries has created a modern world
 
-## with less poverty
+with less poverty
 
-## greater longevity
+greater longevity
 
-## increased security
+increased security
 
-## and greater
+and greater
 
 well-being than at any point in history.
 
@@ -7550,15 +7550,15 @@ indd 58US_018-063_321647_BB_Chap1-4.
 
 indd 58 16/02/2021 11:3116/02/2021 11:31
 
-## 59 CHAPTER 4
+59 CHAPTER 4
 
 most of this growth has occurred since the 1950s.
 
-## This is when the
+# This is when the
 
 industrial revolution went into overdrive.
 
-## But this growth has come
+# But this growth has come
 
 at a high cost.
 
@@ -7568,7 +7568,7 @@ extraction is now unequivocally interfering with the stability of
 
 Earth’s life-support system.
 
-### It is also undermining the resilience
+# It is also undermining the resilience
 
 of Earth’s biosphere.
 
@@ -7576,39 +7576,39 @@ The stable Holocene is behind us.
 
 Carbon dioxide levels in the atmosphere have shot up.
 
-## They are
+# They are
 
 now higher than at any time in at least 3 million years.
 
-## But they are
+# But they are
 
 not just nudging over the Holocene boundary
 
-## or even the interglacial
+or even the interglacial
 
-## boundaries over this period
+boundaries over this period
 
-### they are 50 percent higher than at any
+they are 50 percent higher than at any
 
 other time in the Holocene and growing rapidly.
 
-## We see similar
+# We see similar
 
-## trends for methane
+trends for methane
 
-## another greenhouse gas
+another greenhouse gas
 
-## and nitrous oxide yet
+and nitrous oxide yet
 
 another.
 
 The ocean is becoming more acidic at a rate not seen in
 
-## possibly 300 million years
+possibly 300 million years
 
-## it is losing oxygen
+it is losing oxygen
 
-## and currents are
+and currents are
 
 changing.
 
@@ -7620,15 +7620,15 @@ We have lost a full half of the Great Barrier Reef in the past decade.
 
 We have made a hole in the ozone layer.
 
-## We have changed the global
+# We have changed the global
 
-## water cycle
+water cycle
 
-### but also the cycles for carbon
+but also the cycles for carbon
 
-## phosphorus
+phosphorus
 
-## nitrogen
+nitrogen
 
 and more.
 
@@ -7636,27 +7636,27 @@ Humans move more rock than all natural processes.
 
 this is driving the sixth mass extinction of life on Earth.
 
-## During the Holocene
+# During the Holocene
 
 a typical adult’s food intake and energy
 
 needs translated to a power rating of about 90 watts a day.
 
-## average American now uses 11
+average American now uses 11
 
-### 000 watts every day—the energy
+000 watts every day—the energy
 
 needs of about a dozen elephants.
 
-### 27 The scale of the shift in energy
+27 The scale of the shift in energy
 
 consumption is barely comprehensible.
 
 What caused the Great Acceleration?
 
-## Over the past few decades
+# Over the past few decades
 
-### scientists from many disciplines have
+scientists from many disciplines have
 
 joined forces to put together the most comprehensive picture of
 
@@ -7670,7 +7670,7 @@ a planetary force.
 
 But that view has changed recently.
 
-## There is
+# There is
 
 now overwhelming evidence that it was really the 1950s when
 
@@ -7678,7 +7678,7 @@ humanity began to overpower Earth’s life-support system.
 
 27 If the global population consumed energy at this scale
 
-## it would be the
+it would be the
 
 equivalent of the energy needs of more than 90 billion elephants roaming Earth.
 
@@ -7688,15 +7688,15 @@ indd 59US_018-063_321647_BB_Chap1-4.
 
 indd 59 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
-## After World War II
+# After World War II
 
 the conditions were ripe for one of the most
 
 profound events not just in human history
 
-## but in the history of our
+but in the history of our
 
 planet.
 
@@ -7704,11 +7704,11 @@ The start of this period has been referred to as the Golden
 
 Age of Capitalism or Les Trente Glorieuses (The Glorious Thirty).
 
-## It is
+# It is
 
 more accurately called the Great Acceleration
 
-## and it continues to
+and it continues to
 
 this day.
 
@@ -7718,7 +7718,7 @@ realization that Earth has left the Holocene
 
 our Goldilocks era.
 
-## a single human lifetime
+a single human lifetime
 
 Earth has crossed into an altogether less
 
@@ -7726,29 +7726,29 @@ certain epoch: the Anthropocene.
 
 Some academics say the Anthropocene is misnamed
 
-## it should be
+it should be
 
 the Capitalocene.
 
 They argue that the industrial revolution was
 
-### only possible through colonialization
+only possible through colonialization
 
-## slavery
+slavery
 
-## and the general
+and the general
 
 maleficence of the ruling elites.
 
 After creating a clear lead, the
 
-## United Kingdom
+# United Kingdom
 
-## the United States
+the United States
 
-## France
+# France
 
-## and Germany
+and Germany
 
 established a global hegemony.
 
@@ -7758,15 +7758,15 @@ too powerful to stop.
 
 Capitalist ideology ran rampant over the
 
-## planet
+planet
 
 making it difficult or impossible for nations with depleted
 
-## resources
+resources
 
-## for example
+for example
 
-### across the African and South American
+across the African and South American
 
 continents, to catch up.
 
@@ -7778,7 +7778,7 @@ The Golden Age of Capitalism ran from 1945 to the oil shock in
 
 1973, when oil producers drove up prices four-fold.
 
-## But it was not
+# But it was not
 
 only capitalism that shone in this time.
 
@@ -7790,23 +7790,23 @@ United States.
 
 The United States knew it must rebuild other
 
-## economies
+economies
 
 otherwise no one would buy its stuff and this would stop
 
 growth.
 
-## At the same time
+# At the same time
 
-### the war had created enormous production
+the war had created enormous production
 
-## capacity and new technologies
+capacity and new technologies
 
-## such as jet engines
+such as jet engines
 
 radar, electronics
 
-## and computers
+and computers
 
 which could all be repurposed for civilian use.
 
@@ -7814,17 +7814,17 @@ United States and the United Kingdom used their new global
 
 dominance and the weakness of other nations to create new
 
-## international institutions
+international institutions
 
 such as the United Nations.
 
-## The goal of
+# The goal of
 
 the United Nations was predominantly to promote peace and settle
 
-## conflicts
+conflicts
 
-## but also to promote growth
+but also to promote growth
 
 trade, and economic
 
@@ -7832,13 +7832,13 @@ development.
 
 The newly established World Bank would lend money
 
-### to countries to aid development
+to countries to aid development
 
-### the International Monetary Fund
+the International Monetary Fund
 
 would ensure financial stability in nations
 
-## and the precursor to the
+and the precursor to the
 
 World Trade Organization would promote international trade.
 
@@ -7848,19 +7848,19 @@ indd 60US_018-063_321647_BB_Chap1-4.
 
 indd 60 16/02/2021 11:3116/02/2021 11:31
 
-## 61 CHAPTER 4
+61 CHAPTER 4
 
-## addition
+addition
 
 European countries set in place the foundations for the
 
-### European Union and abandoned colonies
+# European Union and abandoned colonies
 
-## although they left a trail
+although they left a trail
 
-## of economic
+of economic
 
-## political
+political
 
 and emotional destruction in their wake.
 
@@ -7874,27 +7874,27 @@ Countries led by the United States and the United Kingdom
 
 reformed their economic policies.
 
-### The 1920s saw the beginnings of
+# The 1920s saw the beginnings of
 
-### consumerism at a significant scale
+consumerism at a significant scale
 
-## in the United States at least
+in the United States at least
 
 with the application of behavioral psychology to weaponize
 
 marketing and advertising to create a new breed of consumers.
 
-### the Great Depression in the 1930s
+the Great Depression in the 1930s
 
-## sparked by a stock market
+sparked by a stock market
 
-## collapse in 1929
+collapse in 1929
 
-## spooked consumers
+spooked consumers
 
-## halted spending
+halted spending
 
-## and exposed
+and exposed
 
 the limitations of government policies to take a “hands off” approach
 
@@ -7908,9 +7908,9 @@ Advances in marketing and advertising reached maturity in
 
 the 1950s.
 
-## At the same time
+# At the same time
 
-### left-wing parties came to power in the
+left-wing parties came to power in the
 
 United Kingdom and elsewhere in Europe and experimented
 
@@ -7920,65 +7920,65 @@ scales.
 
 This improved health and social mobility
 
-## increasing
+increasing
 
-## longevity
+longevity
 
 and created the foundation for innovation with free
 
 and accessible university education.
 
-## The capitalist machinery
+# The capitalist machinery
 
-## drove enormous wealth
+drove enormous wealth
 
-### but high taxes funneled this wealth
+but high taxes funneled this wealth
 
 into supporting a rising middle class—a consumer class—and
 
-### national and global infrastructure
+national and global infrastructure
 
-## such as highways
+such as highways
 
-## universities
+universities
 
-## and hospitals
+and hospitals
 
-### leading to a reinforcing feedback loop
+leading to a reinforcing feedback loop
 
-## as more
+as more
 
-## people came out of poverty
+people came out of poverty
 
-## economies grew
+economies grew
 
-## thereby allowing
+thereby allowing
 
 investment to bring even more people out.
 
-## The Great Acceleration
+# The Great Acceleration
 
 was driven by a mixed economy adopting features of capitalism
 
 and socialism.
 
-## You are here
+# You are here
 
 The economic growth miracle has created a dominant narrative
 
 believed and embraced by economists and political leaders
 
-## that
+that
 
 economic growth at all costs is essential for the well-being
 
-## prosperity
+prosperity
 
 and stability of nations.
 
 But material growth and energy use based
 
-## on fossil fuels
+on fossil fuels
 
 which emit greenhouse gases to the atmosphere
 
@@ -7988,37 +7988,37 @@ indd 61US_018-063_321647_BB_Chap1-4.
 
 indd 61 16/02/2021 11:3116/02/2021 11:31
 
-## ACT I
+# ACT I
 
 cannot continue indefinitely.
 
-### As the economist Kenneth Boulding
+# As the economist Kenneth Boulding
 
-## told Congress in 1973
+told Congress in 1973
 
-### “Anyone who believes exponential growth
+“Anyone who believes exponential growth
 
 can go on forever in a finite world is either a madman or an
 
 economist.
 
-## ” Moreover
+” Moreover
 
-### research now unequivocally shows that
+research now unequivocally shows that
 
 economic growth in wealthy economies is no longer linked to
 
-## well-being
+well-being
 
-### rich countries are getting richer
+rich countries are getting richer
 
-## but people are not
+but people are not
 
 benefiting.
 
-## However
+# However
 
-### the solution cannot be to end economic
+the solution cannot be to end economic
 
 growth.
 
@@ -8026,49 +8026,49 @@ With billions of people still living in poverty and misery
 
 the world needs economic development.
 
-## Our Earthly economic
+# Our Earthly economic
 
 system is a phenomenally powerful tool—one of the most powerful
 
 in the solar system, it seems.
 
-## We must harness this power to
+# We must harness this power to
 
 restabilize Earth and at the same time end poverty.
 
 One thing that did not grow during the Holocene was our brain.
 
-## In fact
+# In fact
 
 since the start of the Holocene and the arrival of the
 
-## agricultural revolution
+agricultural revolution
 
 our brain size actually shrank by 10 to 17
 
 percent, probably due to poor nutrition.
 
-## It took until the end of
+# It took until the end of
 
-## the Holocene
+the Holocene
 
-### and the start of the Anthropocene
+and the start of the Anthropocene
 
-## for brain size to
+for brain size to
 
-### bounce back to its former glory
+bounce back to its former glory
 
-## as human health
+as human health
 
-## and particularly
+and particularly
 
 childhood nutrition, improved.
 
-### The Holocene began with one revolution
+# The Holocene began with one revolution
 
-## agriculture
+agriculture
 
-## and ended
+and ended
 
 with two, scientific and industrial.
 
@@ -8078,7 +8078,7 @@ rose to such complete and utter dominance of the biosphere that we
 
 first accidentally and now capriciously and maliciously
 
-## interfered
+interfered
 
 with the internal workings of our planet’s life-support systems.
 
@@ -8090,7 +8090,7 @@ indd 62US_018-063_321647_BB_Chap1-4.
 
 indd 62 16/02/2021 11:3116/02/2021 11:31
 
-## 63 CHAPTER 4
+63 CHAPTER 4
 
 US_018-063_321647_BB_Chap1-4.
 
@@ -8098,9 +8098,9 @@ indd 63US_018-063_321647_BB_Chap1-4.
 
 indd 63 16/02/2021 11:3116/02/2021 11:31
 
-## ACT
+# ACT
 
-## II64 ACT II
+# II64 ACT II
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -8108,41 +8108,41 @@ indd 64US_064-105_321647_BB_Chap5-8.
 
 indd 64 16/02/2021 11:3016/02/2021 11:30
 
-## ACT
+# ACT
 
-## II65 CHAPTER 5
+# II65 CHAPTER 5
 
-## THREE SCIENTIFIC
+# THREE SCIENTIFIC
 
-## INSIGHTS HAVE
+# INSIGHTS HAVE
 
-## CHANGED HOW WE
+# CHANGED HOW WE
 
-## VIEW EARTH
+# VIEW EARTH
 
-### Tipping points are so dangerous because
+# Tipping points are so dangerous because
 
 if you pass them, the climate is out of
 
-## humanity’s control
+humanity’s control
 
-## if an ice sheet disintegrates
+if an ice sheet disintegrates
 
 and starts to slide into the ocean there’s
 
 nothing we can do about that.
 
-## JAMES HANSEN
+# JAMES HANSEN
 
 FORMER NASA RESEARCHER, 2009
 
-## As a scientist
+# As a scientist
 
 the past 20 years have been quite overwhelming.
 
 are learning so much about how our planet works
 
-## and the more we
+and the more we
 
 learn, the more reason we have for concern.
 
@@ -8150,39 +8150,39 @@ We, humanity, are now
 
 such a large force of change that we have destabilized Earth.
 
-## This is
+# This is
 
 mind-boggling.
 
-### To remind myself of our new predicament
+# To remind myself of our new predicament
 
-## I always
+# I always
 
-### carry a small blue marble in my pocket
+carry a small blue marble in my pocket
 
-## symbolizing our home
+symbolizing our home
 
-## planet
+planet
 
 as a reminder that we are no longer a small world on a big
 
-## planet
+planet
 
 but have now become a big world on a small planet.
 
 So small,
 
-## I can even
+# I can even
 
-## symbolically
+symbolically
 
-## have it in my pocket
+have it in my pocket
 
-## reminding me all the
+reminding me all the
 
 time of our responsibility for taking care of the entire system.
 
-## Johan
+# Johan
 
 The COVID-19 pandemic in 2020 gave everyone on Earth a crash
 
@@ -8198,27 +8198,27 @@ indd 65US_064-105_321647_BB_Chap5-8.
 
 indd 65 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 mathematical function.
 
-## At first
+# At first
 
-### it seemed as if the coronavirus was
+it seemed as if the coronavirus was
 
 a tempest in a teapot.
 
-### As China took unprecedented emergency
+# As China took unprecedented emergency
 
-## action
+action
 
 essentially stopping its formidable economy
 
-## other countries
+other countries
 
-## downplayed the seriousness
+downplayed the seriousness
 
-### even as cases began to appear within
+even as cases began to appear within
 
 their borders.
 
@@ -8228,7 +8228,7 @@ risks with SARS—South Korea and Taiwan—really grasped the
 
 profound threat of exponential growth of the virus.
 
-## For the past 70 years
+# For the past 70 years
 
 exponential growth in just about everything
 
@@ -8238,7 +8238,7 @@ It is unmistakable, yet
 
 often glossed over by historians more interested in world wars
 
-## cold
+cold
 
 wars, and cyber wars.
 
@@ -8248,7 +8248,7 @@ many.
 
 As US nuclear physicist Al Bartlett once remarked
 
-## “The
+“The
 
 greatest shortcoming of the human race is our inability to understand
 
@@ -8256,7 +8256,7 @@ the exponential function.
 
 When it comes to exponential growth and Earth
 
-## the French lily
+the French lily
 
 pond riddle gets to the heart of the issue.
 
@@ -8264,15 +8264,15 @@ One day, a pond has a
 
 single lily pad.
 
-## The next day it has two
+# The next day it has two
 
-## then four the following day
+then four the following day
 
 and so on, doubling daily.
 
-## By day 30
+# By day 30
 
-### the pond is completely full of
+the pond is completely full of
 
 lilies.
 
@@ -8286,9 +8286,9 @@ With a little more thought, it
 
 is, in fact, day 29.
 
-### When you are on an exponential ride
+# When you are on an exponential ride
 
-## you often
+you often
 
 do not realize that you are reaching a limit until you bust right
 
@@ -8308,11 +8308,11 @@ Bursting at the seams.
 
 Breaking the boundaries.
 
-### Rebooting our relationship with Earth
+# Rebooting our relationship with Earth
 
-### Since the industrial revolution
+# Since the industrial revolution
 
-### we have followed the same social
+we have followed the same social
 
 and economic logic.
 
@@ -8324,13 +8324,13 @@ amplifying feedback loop to overexploit Earth’s resources
 
 exponentially.
 
-## If Earth were the lily pond
+# If Earth were the lily pond
 
-## Watt brought us to day
+# Watt brought us to day
 
 two and we are now at day 29 or 30.
 
-## Currently
+# Currently
 
 we live on a planet with dangerously unstable life-
 
@@ -8338,13 +8338,13 @@ support systems.
 
 If we push the systems too far and set off more
 
-## feedback loops
+feedback loops
 
 we will cross harmful tipping points and irreversibly
 
 start a transition from one state to another.
 
-## Let’s add some emphasis
+Let’s add some emphasis
 
 here.
 
@@ -8356,7 +8356,7 @@ indd 66US_064-105_321647_BB_Chap5-8.
 
 indd 66 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 5
+# CHAPTER 5
 
 1990s—the systems that regulate the state of the planet were still
 
@@ -8366,13 +8366,13 @@ This was good for humanity; our modern
 
 development depends upon it.
 
-### Destabilizing systems on Earth
+# Destabilizing systems on Earth
 
 generates extreme events and puts us at risk of crossing dangerous
 
 tipping points.
 
-### This scenario is no longer a distant
+# This scenario is no longer a distant
 
 potential threat.
 
@@ -8382,77 +8382,77 @@ we have evidence that shows beyond any doubt that the Amazon
 
 rain forest and Greenland ice sheet are actively experiencing
 
-## unprecedented change
+unprecedented change
 
-### deforestation and temperature rises are
+deforestation and temperature rises are
 
 causing sleeping giants to wake up.
 
 Dear reader, whichever Amazon
 
-## rain forest
+rain forest
 
-## dieback
+dieback
 
-## Permafrost
+# Permafrost
 
-## bogs thawOcean
+bogs thawOcean
 
-## warming
+warming
 
-## Decreased
+# Decreased
 
-## rainfall and
+rainfall and
 
-## drought in the
+drought in the
 
-## Amazon
+# Amazon
 
-## Arctic Sea
+# Arctic Sea
 
-## ice melts
+ice melts
 
-## CO2released
+# CO2released
 
-## As reflective
+# As reflective
 
 ice disappears,
 
-## ocean absorbs
+ocean absorbs
 
-## more heat
+more heat
 
-## Methane
+# Methane
 
-## in sediment
+in sediment
 
-## meltsMethane
+meltsMethane
 
-## released into
+released into
 
-## atmosphereMethane
+atmosphereMethane
 
-## released into
+released into
 
-## atmosphere
+atmosphere
 
-## Fewer
+# Fewer
 
-## trees to absorb
+trees to absorb
 
-## CO2Rain forest dieback
+# CO2Rain forest dieback
 
-## Seabed methane release
+# Seabed methane release
 
-## Permafrost melt
+# Permafrost melt
 
-## Arctic melt Increase in
+# Arctic melt Increase in
 
-## temperature
+temperature
 
-## Earth’s vicious circles
+Earth’s vicious circles
 
-## We risk triggering multiple
+# We risk triggering multiple
 
 dangerous, self-amplifying
 
@@ -8464,13 +8464,13 @@ indd 67US_064-105_321647_BB_Chap5-8.
 
 indd 67 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
-### generation you belong to—Boomer
+generation you belong to—Boomer
 
-## Generation X
+# Generation X
 
-## Millennial
+# Millennial
 
 Generation Z—Earth’s life-support system is destabilizing on our
 
@@ -8480,7 +8480,7 @@ What happens next is dependent upon how we act.
 
 How did we end up in this situation?
 
-## While alarm bells have been
+# While alarm bells have been
 
 ringing since the 1960s—certainly acid rain and the ozone hole were
 
@@ -8488,17 +8488,17 @@ early warnings—it is only in the past two decades that science has
 
 established the profound implications of industrialization.
 
-## This is
+# This is
 
 the story of the three most important scientific insights of the 21st
 
-## century
+century
 
 all of which have far-reaching implications for us all.
 
-## Insight 1
+# Insight 1
 
-### We are now in a new geological epoch
+# We are now in a new geological epoch
 
 The first insight is the shocking upward trajectory of humanity on
 
@@ -8506,11 +8506,11 @@ Earth: the Great Acceleration
 
 introduced in Chapter 4.
 
-## Since the
+# Since the
 
 1950s, this has put exponential pressure on the planet.
 
-## 1 Indeed, it
+1 Indeed, it
 
 has been so dramatic in scale and pace that there is ample evidence
 
@@ -8520,29 +8520,29 @@ We now live in the Anthropocene,
 
 in which we humans constitute the largest force of change on the
 
-## planet
+planet
 
 exceeding the variability and shocks caused by shifts in
 
-## Earth’s orbit
+Earth’s orbit
 
-## earthquakes
+earthquakes
 
 and volcanic eruptions.
 
-## We are truly in
+# We are truly in
 
 the driver’s seat of the planet.
 
 We have always faced challenges, though.
 
-## The unsustainable
+# The unsustainable
 
 irrigation practices of the first Mesopotamian societies left them
 
 with too much salt in their soils.
 
-### Maya and Inca societies overused
+# Maya and Inca societies overused
 
 their resources—farmers could not feed growing populations
 
@@ -8554,15 +8554,15 @@ There is evidence, too, that the
 
 fall of the Roman Empire was accelerated in part due to a
 
-### combination of infectious disease
+combination of infectious disease
 
-## poor waste management
+poor waste management
 
 heavy metal contamination in rapidly growing urban centers.
 
 Despite these islands of unsustainability and catastrophe
 
-## humans
+humans
 
 did not rock the whole planet.
 
@@ -8572,15 +8572,15 @@ were isolated occurrences.
 
 We, as humans, were gradually increasing
 
-## 1 In climate science
+1 In climate science
 
 the most iconic graph is called the “hockey stick
 
-## ” which shows
+” which shows
 
-## just how sharply
+just how sharply
 
-## and exponentially
+and exponentially
 
 the global average temperature has changed in
 
@@ -8588,11 +8588,11 @@ recent decades.
 
 Earth system scientists do not have just one hockey stick
 
-## we have
+we have
 
 a whole team—from greenhouse gases to biodiversity loss and use of water
 
-## we see
+we see
 
 exponential trends wherever we look (see plate B2–3).
 
@@ -8602,9 +8602,9 @@ indd 68US_064-105_321647_BB_Chap5-8.
 
 indd 68 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 5
+# CHAPTER 5
 
-## our footprint on Earth
+our footprint on Earth
 
 but we did not yet have the numbers to do
 
@@ -8614,21 +8614,21 @@ We were still very clearly a small world on a
 
 big planet.
 
-## In the mid-1950s
+# In the mid-1950s
 
-## however
+however
 
 everything exploded.
 
-## This
+# This
 
 was the takeoff point for the exponential journey that has led
 
-## to all the disastrous
+to all the disastrous
 
-## negative impacts
+negative impacts
 
-## from global warming to loss
+from global warming to loss
 
 of nature.
 
@@ -8636,9 +8636,9 @@ The Great Acceleration graphs (see plate B2–3) show this
 
 exponential rise of pressures we are putting on the planet.
 
-## We are
+# We are
 
-## out of control
+out of control
 
 and Earth’s life-support systems are lurching out of
 
@@ -8652,23 +8652,23 @@ Pick anything in the natural world that directly impacts your
 
 well-being.
 
-## From natural resources
+# From natural resources
 
-## such as freshwater
+such as freshwater
 
 soil,
 
-## nutrients
+nutrients
 
-## and metals
+and metals
 
 to ecosystems like forests and grasslands
 
 the ozone layer to numbers of pollinators or fish in the ocean
 
-## will find the same pattern
+will find the same pattern
 
-### an unprecedented exponential rise
+an unprecedented exponential rise
 
 pushing us ever closer to dangerous tipping points.
 
@@ -8676,49 +8676,49 @@ Indeed, from
 
 the deepest ocean trenches to the edge of space
 
-## it is difficult to find
+it is difficult to find
 
 anywhere on Earth untouched by humans.
 
-## And the drama is that
+# And the drama is that
 
 science shows the exponential pressures are now hitting the
 
-## hardwired
+hardwired
 
 biophysical ceiling of what the planet can cope with.
 
-## In 2000
+# In 2000
 
 a scientific meeting was convened by the International
 
 Geosphere-Biosphere Program (IGBP) in Mexico.
 
-## It brought
+# It brought
 
 together the world’s leading experts from a range of scientific
 
-## disciplines
+disciplines
 
-## including geology
+including geology
 
-## ecology
+ecology
 
-## climate
+climate
 
-## agriculture
+agriculture
 
-### atmospheric physics and chemistry
+atmospheric physics and chemistry
 
-## oceanography
+oceanography
 
-## and many
+and many
 
 many more.
 
-## During the meeting
+# During the meeting
 
-### scientists from around the world
+scientists from around the world
 
 presented up-to-date research on the state of the planet in the late
 
@@ -8726,17 +8726,17 @@ Holocene.
 
 Listening intently sat the Nobel prize-winning chemist
 
-## Paul Crutzen
+# Paul Crutzen
 
 who was a member of the IGBP committee at the
 
 time.
 
-### Also in the room was Will Steffen
+# Also in the room was Will Steffen
 
 the director of IGBP.
 
-## Steffen
+# Steffen
 
 recalls that he kept glancing at Crutzen during one particular
 
@@ -8744,17 +8744,17 @@ session because Crutzen seemed increasingly agitated.
 
 At some point, Crutzen snapped.
 
-## He stood up during a
+# He stood up during a
 
 presentation and said, “ Stop.
 
-### “Stop talking about the Holocene
+“Stop talking about the Holocene
 
 ” he continued.
 
 “We are not in the Holocene.
 
-### ” Crutzen realized this needed some
+” Crutzen realized this needed some
 
 further explanation, but was at a loss.
 
@@ -8766,7 +8766,7 @@ indd 69US_064-105_321647_BB_Chap5-8.
 
 indd 69 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 “We are in the … ” he grasped for the word.
 
@@ -8776,25 +8776,25 @@ People in the room recognized immediately that something
 
 important had just happened.
 
-### Steffen recalls that the following
+# Steffen recalls that the following
 
 coffee break was alive with discussion of this new concept.
 
-## Since 2000
+# Since 2000
 
 the Anthropocene idea has been widely adopted
 
 across many academic disciplines.
 
-### While it has yet to be formalized
+# While it has yet to be formalized
 
-## by stratigraphers
+by stratigraphers
 
 the Anthropocene is now very well scientifically
 
 established.
 
-## Indeed
+# Indeed
 
 the International Commission on Stratigraphy
 
@@ -8802,39 +8802,39 @@ has set up a special group to assess the case for this new geological
 
 epoch.
 
-## This group of geologists
+# This group of geologists
 
-## Earth system researchers
+# Earth system researchers
 
 other scientists has firmly concluded that there is an abundance of
 
-## evidence for the Anthropocene
+evidence for the Anthropocene
 
-## which means that
+which means that
 
-## millions of years
+millions of years
 
-## from now
+from now
 
 future geologists will be able to piece together the story
 
 of this profound disruption.
 
-## One big debate
+# One big debate
 
-## though
+though
 
-## is the question
+is the question
 
-## when did the
+when did the
 
 Anthropocene begin?
 
-## Initially
+# Initially
 
-### Crutzen proposed the start of the
+# Crutzen proposed the start of the
 
-## industrial revolution
+industrial revolution
 
 but, as we saw in the previous chapter
 
@@ -8842,7 +8842,7 @@ hockey stick graphs tell a different story.
 
 The rupture with the past,
 
-### with stable Holocene conditions
+with stable Holocene conditions
 
 really began around the 1950s.
 
@@ -8852,27 +8852,27 @@ stable for 10,000 years
 
 The second insight is what comes out of all the scientific evidence
 
-## described in Act 1
+described in Act 1
 
-## namely that we
+namely that we
 
-## and our modern world
+and our modern world
 
-## depend
+depend
 
 on the stability of the Holocene interglacial state of the planet for
 
 our own future.
 
-## In a foreboding twist of fate
+# In a foreboding twist of fate
 
-### we are gathering mounting evidence
+we are gathering mounting evidence
 
-## from ice cores
+from ice cores
 
-## tree rings
+tree rings
 
-### and rocks that the Holocene was a
+and rocks that the Holocene was a
 
 uniquely stable state of the planet.
 
@@ -8884,21 +8884,21 @@ know it.
 
 We have lived outside the Holocene before
 
-## as hunter-
+as hunter-
 
 gatherers, in a deep ice age.
 
-### But back then we were at most a few
+# But back then we were at most a few
 
 million people.
 
 There is absolutely no scientific evidence that Earth
 
-## can support 10 billion people
+can support 10 billion people
 
-### with a minimum level of adequate
+with a minimum level of adequate
 
-## quality of life
+quality of life
 
 within a rapidly destabilizing life-support system.
 
@@ -8906,9 +8906,9 @@ This is the drama.
 
 Just as we learn that we depend on the stable
 
-## conditions of the Holocene
+conditions of the Holocene
 
-### we find overwhelming evidence that we
+we find overwhelming evidence that we
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -8916,61 +8916,61 @@ indd 70US_064-105_321647_BB_Chap5-8.
 
 indd 70 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 5
+# CHAPTER 5
 
 have left the Holocene and have entered an altogether more fragile
 
 and unpredictable era.
 
-## Or looking at it another way
+# Or looking at it another way
 
-## for two centuries
+for two centuries
 
 we have been playing Jenga with Earth.
 
-## We have been pulling out
+# We have been pulling out
 
-## the blocks
+the blocks
 
-## the ozone layer
+the ozone layer
 
-## the ocean
+the ocean
 
-## the forests
+the forests
 
 the ice sheets.
 
 Now the tower is wobbling.
 
-### Should we keep pulling out the blocks
+# Should we keep pulling out the blocks
 
-## of wood
+of wood
 
 or should we start putting some back to stop the whole
 
 structure from crumbling?
 
-## Insight 3
+# Insight 3
 
 Earth’s tipping points are too close for comfort
 
 The third insight is that Earth has a remarkable resilience.
 
-## It has
+# It has
 
 taken our punches without hitting back.
 
-## Go beyond certain
+# Go beyond certain
 
-## thresholds
+thresholds
 
-## or tipping points
+or tipping points
 
-## though
+though
 
-## and beware
+and beware
 
-## natural systems
+natural systems
 
 may go from being our best friend to becoming a deadly foe
 
@@ -8978,7 +8978,7 @@ difficult if not impossible to contain or control.
 
 We have spent the past 70 years punching the planet.
 
-## How has
+# How has
 
 Earth responded?
 
@@ -8986,9 +8986,9 @@ Well, Earth has behaved like Rocky Balboa (from
 
 the boxing movies).
 
-## Rocky rolls with the punches
+# Rocky rolls with the punches
 
-## gets knocked
+gets knocked
 
 down, but staggers to his feet.
 
@@ -9000,21 +9000,21 @@ He, like Earth, is very resilient: he
 
 absorbs the shocks without tipping over into a new state
 
-## although
+although
 
 warning signs are there if you know where to look.
 
-## By the ninth
+# By the ninth
 
 round, he is in such bad shape that a light tap pushes him over the
 
 edge and he crashes to the canvas.
 
-## Rocky’s brain has crossed a
+Rocky’s brain has crossed a
 
 threshold.
 
-## It has changed state
+# It has changed state
 
 from conscious to unconscious.
 
@@ -9024,7 +9024,7 @@ with shocks and stresses without crossing a tipping point to a new
 
 state.
 
-### But as we found out in Chapter 2
+# But as we found out in Chapter 2
 
 Earth has a hair trigger.
 
@@ -9040,29 +9040,29 @@ collapse into a new state.
 
 This can be caused by very small changes
 
-## like the Arab proverb
+like the Arab proverb
 
 “The straw that broke the camel’s back.
 
-### Once a tipping point has been crossed
+# Once a tipping point has been crossed
 
-## it is very difficult to pull
+it is very difficult to pull
 
 back.
 
 Imagine a boulder at the top of a hill.
 
-## One nudge might be
+# One nudge might be
 
-### enough to start it tumbling down
+enough to start it tumbling down
 
-### but it takes a lot more force to
+but it takes a lot more force to
 
 arrest its descent.
 
-### If an ice sheet starts collapsing
+# If an ice sheet starts collapsing
 
-## reining in
+reining in
 
 greenhouse gases will probably not save it (although it might slow
 
@@ -9074,31 +9074,31 @@ indd 71US_064-105_321647_BB_Chap5-8.
 
 indd 71 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
-## In 2008
+# In 2008
 
-## Tim Lenton
+# Tim Lenton
 
-## now at Exeter University
+now at Exeter University
 
 UK, led a team to
 
 pinpoint the most important climate tipping points.
 
-## They identified
+# They identified
 
 about 15—from permafrost in Siberia to the ice sheets of Greenland
 
-## and Antarctica
+and Antarctica
 
 from ocean circulations to El Niño in the Pacific
 
 (which affects global climate) and the Amazon rain forest.
 
-## Since
+# Since
 
-## their paper was published
+their paper was published
 
 more tipping points have been identified
 
@@ -9108,19 +9108,19 @@ Europe, North America, and Asia.
 
 In addition, Garry Peterson and
 
-## Juan Rocha
+# Juan Rocha
 
-### at the Stockholm Resilience Center
+at the Stockholm Resilience Center
 
-## have created a
+have created a
 
 huge map of tipping points.
 
-### They have identified more than 300
+# They have identified more than 300
 
-### examples of tipping points worldwide
+examples of tipping points worldwide
 
-## from ice sheets to dead zones
+from ice sheets to dead zones
 
 from rain forests to permafrost.
 
@@ -9144,13 +9144,13 @@ less predictable.
 
 Nature will start belching carbon into the
 
-## atmosphere
+atmosphere
 
-### as soils in the Arctic circle thaw
+as soils in the Arctic circle thaw
 
-## as fires burn in the
+as fires burn in the
 
-## Arctic
+# Arctic
 
 and as the Amazon swings from carbon store to carbon
 
@@ -9162,7 +9162,7 @@ until the planet finds a new equilibrium.
 
 How high is the risk of crossing a climate tipping point?
 
-## A decade
+# A decade
 
 ago, scientific assessments estimated that the risks become very
 
@@ -9170,7 +9170,7 @@ serious when global temperatures exceed 7.
 
 2°F (4°C) global warming.
 
-## Over the past 20 years
+# Over the past 20 years
 
 as we learn more of how our planet works
 
@@ -9188,13 +9188,13 @@ Right now, we are at
 
 1°C) and rising fast.
 
-## In the past year or two
+# In the past year or two
 
-## we have received
+we have received
 
 worrying signs that tipping points are much
 
-## much closer than we
+much closer than we
 
 once thought.
 
@@ -9202,25 +9202,25 @@ This field of unexploded mines is not in the distance
 
 far down the road.
 
-### We are standing right in it and
+# We are standing right in it and
 
-## as we will discuss
+as we will discuss
 
-## in Chapter 9
+in Chapter 9
 
 we now need to tread extremely carefully.
 
-### The sum is greater than the parts
+# The sum is greater than the parts
 
 These three scientific insights have fallen into place only in the
 
-## past five to 10 years
+past five to 10 years
 
 thanks to the extraordinary advancements in
 
 science over the past four decades.
 
-## They involve progress in
+# They involve progress in
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -9228,47 +9228,47 @@ indd 72US_064-105_321647_BB_Chap5-8.
 
 indd 72 16/02/2021 11:3016/02/2021 11:30
 
-## CHAPTER 5
+# CHAPTER 5
 
-## different disciplines
+different disciplines
 
-### from climate science and economics and
+from climate science and economics and
 
-## ecology to glaciology
+ecology to glaciology
 
-## oceanography
+oceanography
 
 and anthropology.
 
-## But they
+# But they
 
 also include the bringing together of all the sciences to reveal how
 
-## our planet works
+our planet works
 
 the sum is greater than the parts.
 
-## As James
+# As James
 
 Lovelock and Lynn Margulis postulated in the 1970s with the Gaia
 
-## theory
+theory
 
 the Earth is truly a complex self-regulating system
 
-## where
+where
 
 all living and nonliving components of Earth are connected and
 
-## through interactions
+through interactions
 
 collectively determine the final state of
 
 our planet.
 
-## Even with this knowledge
+# Even with this knowledge
 
-### we continue to exert ever greater
+we continue to exert ever greater
 
 pressure on our planet’s life-support systems without a care in the
 
@@ -9276,11 +9276,11 @@ world.
 
 We can no longer ignore the fact that this pressure may
 
-## trigger disastrous
+trigger disastrous
 
-## unstoppable
+unstoppable
 
-### and abrupt changes if we continue
+and abrupt changes if we continue
 
 on our current path.
 
@@ -9292,11 +9292,11 @@ Instead, we are behaving like a herd of
 
 stampeding elephants.
 
-## Perhaps there is a final
+# Perhaps there is a final
 
-## bonus insight in this chapter
+bonus insight in this chapter
 
-## though
+though
 
 exponential growth cannot go on forever.
 
@@ -9304,21 +9304,21 @@ Eventually, the steep
 
 slope bends and flattens.
 
-### We have come to the end of the road of
+# We have come to the end of the road of
 
 our conventional economic paradigm of exploiting nature for free
 
 and discarding our waste.
 
-### Our future now depends on our ability
+# Our future now depends on our ability
 
 to transition to a new logic of economic development
 
-## prosperity
+prosperity
 
 and equity within a safe operating space on Earth.
 
-## We have reached
+# We have reached
 
 the edge of the lily pond.
 
@@ -9328,29 +9328,29 @@ indd 73US_064-105_321647_BB_Chap5-8.
 
 indd 73 16/02/2021 11:3016/02/2021 11:30
 
-## 74 ACT II
+74 ACT II
 
-## PLANETARY
+# PLANETARY
 
-## BOUNDARIES
+# BOUNDARIES
 
-### 2 If you discover life on Mars
+2 If you discover life on Mars
 
-## or the source of dark matter
+or the source of dark matter
 
-## you publish your findings
+you publish your findings
 
-### in one of two scientific journals
+in one of two scientific journals
 
 Nature or Science.
 
-## It is 2009
+# It is 2009
 
 six months before the catastrophic Copenhagen climate
 
 summit and a few weeks after I arrived in Sweden.
 
-## Kevin Noone
+# Kevin Noone
 
 came to my office at the International Geosphere-Biosphere
 
@@ -9358,17 +9358,17 @@ Program.
 
 Kevin, a former director of the program
 
-## is a climate
+is a climate
 
 scientist.
 
 He mentioned that he had a paper coming out in Nature2
 
-## shortly
+shortly
 
 with Johan and a bunch of other researchers
 
-## about
+about
 
 something called “planetary boundaries.
 
@@ -9378,27 +9378,27 @@ said.
 
 But I didn’t mean it.
 
-### Scientists had been talking in quite
+# Scientists had been talking in quite
 
 abstract ways for several years about the Earth system and its
 
 myriad complexities.
 
-## It is time for us to step up
+# It is time for us to step up
 
-## And respect the boundaries
+# And respect the boundaries
 
-### Of just how far we can push this planet
+# Of just how far we can push this planet
 
 Become stewards of our collective futures
 
-### And recognize just how much our
+# And recognize just how much our
 
-## livelihoods depend on it
+livelihoods depend on it
 
 We live in a globalized community: a big
 
-## world on a small planet
+world on a small planet
 
 Where every flutter of butterfly wing can
 
@@ -9406,7 +9406,7 @@ either serve to strengthen the hurricane
 
 Or fuel the winds of change.
 
-## ALINA SIEGFRIED
+# ALINA SIEGFRIED
 
 STORYTELLER, 2018
 
@@ -9416,7 +9416,7 @@ indd 74US_064-105_321647_BB_Chap5-8.
 
 indd 74 16/02/2021 11:3016/02/2021 11:30
 
-## 75 CHAPTER 6
+75 CHAPTER 6
 
 Kevin said that they had identified nine boundaries that keep
 
@@ -9432,17 +9432,17 @@ Not 100.
 
 Not 1,000.
 
-### I was genuinely intrigued now and asked
+# I was genuinely intrigued now and asked
 
 you quantify them?
 
 ” I thought I already knew the answer.
 
-## Scientists
+# Scientists
 
 like abstract models and frameworks.
 
-## They rarely put numbers to
+# They rarely put numbers to
 
 them, especially not in Earth system science.
 
@@ -9460,7 +9460,7 @@ But Kevin said something that completely floored me
 
 He was humble about it.
 
-### He emphasized that a lot more work
+# He emphasized that a lot more work
 
 needed to be done.
 
@@ -9474,9 +9474,9 @@ The planetary boundaries framework is a remarkable scientific
 
 achievement.
 
-### Eleven years after publication
+# Eleven years after publication
 
-## there is still no better
+there is still no better
 
 way to think about a stable planet.
 
@@ -9484,7 +9484,7 @@ For the first time, the world had
 
 a priority list for the Earth system.
 
-## Owen
+# Owen
 
 It is only in the past 10 years or so that science has armed us with
 
@@ -9492,7 +9492,7 @@ three important insights that show that humans now constitute a
 
 force of change of geological proportions on the planet.
 
-## We are at
+# We are at
 
 risk of tipping the entire planet out of balance and bringing an
 
@@ -9502,7 +9502,7 @@ than 10,000 years.
 
 It is difficult to overemphasize the drama.
 
-## There
+# There
 
 is no doubt in our minds that this fundamentally changes how we
 
@@ -9524,21 +9524,21 @@ This means that we need to do everything
 
 we can to keep the planet in a state in which we have two ice caps
 
-## and stable sea levels
+and stable sea levels
 
-### forests and wetlands that store carbon
+forests and wetlands that store carbon
 
 climate that reliably supports agriculture
 
-## and ocean currents that
+and ocean currents that
 
-## distribute heat predictably
+distribute heat predictably
 
 a Holocene state.
 
 To do this, to create a
 
-### planetary boundaries framework
+planetary boundaries framework
 
 we need to know the following.
 
@@ -9550,7 +9550,7 @@ Once we have identified them, we need to
 
 think about quantifying them.
 
-### We must somehow identify the danger
+# We must somehow identify the danger
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -9558,13 +9558,13 @@ indd 75US_064-105_321647_BB_Chap5-8.
 
 indd 75 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 zone, where we risk triggering uncontrollable
 
 irreversible change.
 
-## In short
+# In short
 
 we want to identify a safe operating space for humanity
 
@@ -9572,23 +9572,23 @@ within which we have a good chance of keeping Earth in a stable
 
 state.
 
-## This is a tricky
+# This is a tricky
 
 fiendishly complex scientific challenge.
 
-## Second
+# Second
 
 what kind of planet do we need for our future?
 
 Biological,
 
-## chemical
+chemical
 
 and physical processes and systems regulate Earth’s state.
 
 Can we quantify the boundaries related to these processes to support
 
-## 10 billion citizens?
+10 billion citizens?
 
 Here, we should emphasize that the scientific
 
@@ -9596,9 +9596,9 @@ process of identifying planetary boundaries does not care about us
 
 humans.
 
-## For the academic exercise
+# For the academic exercise
 
-## we care only about Earth and
+we care only about Earth and
 
 the search for the biophysical processes that determine what it will
 
@@ -9606,23 +9606,23 @@ take to keep our planet in a livable state.
 
 The planetary boundaries give us a safe operating space
 
-## within
+within
 
 which we humans can thrive and prosper.
 
-## They give us room to sort
+# They give us room to sort
 
 out challenges of equity and redistribution of wealth
 
-## pursue
+pursue
 
-## happiness and peace
+happiness and peace
 
 improve health and safety.
 
-## If we push beyond
+# If we push beyond
 
-## the planetary boundaries
+the planetary boundaries
 
 then all this becomes far more difficult.
 
@@ -9630,37 +9630,37 @@ We will be trying to cope with the trials and tribulations of everyday
 
 life while dealing with a dangerously destabilized planet.
 
-## We will be
+# We will be
 
-## fighting poverty and hunger
+fighting poverty and hunger
 
-## inequality and disease
+inequality and disease
 
-## while tackling
+while tackling
 
-## ever worsening heat waves
+ever worsening heat waves
 
-## droughts
+droughts
 
-## floods
+floods
 
 and rising sea levels.
 
-## In 2007
+# In 2007
 
 we3 invited researchers to Sweden to map all the systems
 
 and processes that regulate the state of the planet.
 
-## We turned over
+# We turned over
 
 every scientific stone we could find.
 
-### After scanning the Earth system
+# After scanning the Earth system
 
-## landscape for evidence
+landscape for evidence
 
-### we found nine processes and systems and
+we found nine processes and systems and
 
 quantified4 seven (see plate B4).
 
@@ -9672,21 +9672,21 @@ Alarmingly, we estimated that three
 
 boundaries have already been crossed.
 
-## Earth is already in the
+# Earth is already in the
 
 danger zone.
 
 We will go into detail in a moment.
 
-## In 2009
+# In 2009
 
 we published the paper in Nature for scientific scrutiny.
 
 This is how science works best.
 
-### You put out an idea and make the
+# You put out an idea and make the
 
-## strongest case you can
+strongest case you can
 
 based on the available evidence.
 
@@ -9696,7 +9696,7 @@ subject it to the harshest critics—your peers—who have the breadth
 
 and depth of knowledge to find holes in your arguments and destroy
 
-### 3 The “we” here refers to Johan.
+3 The “we” here refers to Johan.
 
 Owen moved to Sweden in 2009.
 
@@ -9710,13 +9710,13 @@ indd 76US_064-105_321647_BB_Chap5-8.
 
 indd 76 16/02/2021 11:3016/02/2021 11:30
 
-## 77 CHAPTER 6
+77 CHAPTER 6
 
 your case.
 
 The paper caused an intellectual firestorm.
 
-## Research
+# Research
 
 groups looked at each boundary and proposed improvements and
 
@@ -9730,17 +9730,17 @@ iterations.
 
 argued others.
 
-## In 2015
+# In 2015
 
-### after six years of intense scrutiny
+after six years of intense scrutiny
 
 reassessed the state of knowledge.
 
-## Had we missed any fundamental
+# Had we missed any fundamental
 
 process contributing to the state of our planet?
 
-## Was there scientific
+# Was there scientific
 
 evidence questioning any of our proposed nine boundaries?
 
@@ -9748,11 +9748,11 @@ We published the updated paper in the journal Science .
 
 concluded that our first hunches were correct
 
-## the nine boundaries
+the nine boundaries
 
 that we had identified in 2009 still remained in 2015.
 
-## We did not
+# We did not
 
 find enough evidence to include soils or any of the other suggestions
 
@@ -9762,33 +9762,33 @@ quantified).
 
 It is really reassuring to be able to say in 2020
 
-## more
+more
 
 than 10 years after the first presentation of the planetary boundaries
 
-## framework
+framework
 
 that we have identified the right nine boundaries.
 
 may still debate and improve on the numbers as science advances
 
-## but we can conclude
+but we can conclude
 
 with a high degree of scientific certainty
 
-## that
+that
 
 our approach works.
 
 And as long as we get it right on these nine
 
-## processes and systems
+processes and systems
 
 we stand a good chance of getting it right for
 
-## the planet
+the planet
 
-## for us
+for us
 
 and for future generations.
 
@@ -9796,7 +9796,7 @@ So, if it isn’t soil and plastics
 
 what are the nine boundaries?
 
-## The big three
+# The big three
 
 There are three gigantic systems that operate at the planetary
 
@@ -9804,25 +9804,25 @@ scale, which have known tipping points and regulate the state of
 
 the entire planet.
 
-### They are (1) the climate system
+They are (1) the climate system
 
-## (2) the ozone
+(2) the ozone
 
 layer, and (3) the ocean.
 
-## 1. The climate system
+# 1. The climate system
 
-### The climate system connects the ocean
+# The climate system connects the ocean
 
 land, ice sheets
 
 atmosphere, and rich diversity of life.
 
-## It controls how much water
+# It controls how much water
 
 is locked as ice in glaciers and polar ice sheets
 
-## which in turn
+which in turn
 
 regulates whether sea levels fall or rise.
 
@@ -9830,11 +9830,11 @@ Sometimes, these changes
 
 are extreme.
 
-## During a deep ice age
+# During a deep ice age
 
-## the sea level can drop by
+the sea level can drop by
 
-## 400 feet (120 meters)
+400 feet (120 meters)
 
 but if temperature climbs much further we
 
@@ -9852,7 +9852,7 @@ indd 77US_064-105_321647_BB_Chap5-8.
 
 indd 77 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 We know that the average temperature on Earth has fluctuated
 
@@ -9860,11 +9860,11 @@ by only 1.
 
 8°F (1°C) for 10 millennia.
 
-## This stability is how we
+# This stability is how we
 
 characterize the Holocene state.
 
-### The million-dollar question is how
+# The million-dollar question is how
 
 high can we risk temperature rising?
 
@@ -9878,7 +9878,7 @@ We could end up in a much, much
 
 warmer hothouse Earth state (see Chapter 7).
 
-## We do not have the
+# We do not have the
 
 exact answer to this question.
 
@@ -9888,29 +9888,29 @@ of today.
 
 We do, however
 
-### know enough to say that we will cross
+know enough to say that we will cross
 
 some tipping points between 1.
 
-## 8 and 3.
+8 and 3.
 
-## 6°F (1 and 2°C) global
+6°F (1 and 2°C) global
 
 warming.
 
-## Tragically
+# Tragically
 
 it will be time to say goodbye to coral reefs and
 
 at least one ice sheet (in Antarctica).
 
-### 5 Ancient evidence indicates that
+5 Ancient evidence indicates that
 
 up to 3.
 
 6°F (2°C) Earth does not cross a climate tipping point
 
-## but the
+but the
 
 risk level is not zero.
 
@@ -9920,15 +9920,15 @@ We are, today, at 2°F (1.
 
 impacts.
 
-### Given the record-breaking temperatures
+# Given the record-breaking temperatures
 
-## phenomenal ice
+phenomenal ice
 
 melt, coral reef death
 
 and falling carbon sink in the Amazon in the
 
-## past two decades
+past two decades
 
 there is strong evidence to support placing a
 
@@ -9940,7 +9940,7 @@ climate planetary boundary around 2.
 
 from the tipping point.
 
-### To have a high chance of staying well
+# To have a high chance of staying well
 
 below 2.
 
@@ -9948,29 +9948,29 @@ below 2.
 
 5°C), given all the uncertainties
 
-## we recommended
+we recommended
 
 that the world should keep carbon dioxide level in the atmosphere
 
 to about 350 parts per million (ppm).
 
-## This defines the climate
+# This defines the climate
 
 boundary.
 
 Today, we are at 415 ppm.
 
-## We are already in the danger
+# We are already in the danger
 
 zone.
 
 Beyond 450 ppm the world enters the high risk zone.
 
-## We are
+# We are
 
 on very thin ice.
 
-## In 2015
+# In 2015
 
 nations met in Paris and agreed to keep global warming
 
@@ -9982,35 +9982,35 @@ well below 3.
 
 5°C).
 
-## There is consensus
+# There is consensus
 
 in the scientific community that this is a reasonably safe boundary.
 
-## 2. The ozone layer
+# 2. The ozone layer
 
-## Our protective shield
+# Our protective shield
 
-## the ozone layer
+the ozone layer
 
-## safeguards life on Earth’s
+safeguards life on Earth’s
 
 surface by absorbing dangerous levels of ultraviolet radiation from
 
-### 5 Some tipping points lead to inevitable change
+5 Some tipping points lead to inevitable change
 
-### such as sea level rise or ecological
+such as sea level rise or ecological
 
-## collapse
+collapse
 
 which may not directly impact carbon emissions.
 
-## Others turn carbon
+# Others turn carbon
 
-## stores into emitters
+stores into emitters
 
 thus risking a runaway climate impact.
 
-## 6 In 2018
+6 In 2018
 
 the Intergovernmental Panel on Climate Change concluded that 2.
 
@@ -10024,15 +10024,15 @@ indd 78US_064-105_321647_BB_Chap5-8.
 
 indd 78 16/02/2021 11:3016/02/2021 11:30
 
-## 79 CHAPTER 6
+79 CHAPTER 6
 
 the sun.
 
-## Without it
+# Without it
 
-### this radiation damages DNA in plants
+this radiation damages DNA in plants
 
-## animals
+animals
 
 and humans, and also causes skin cancer.
 
@@ -10040,17 +10040,17 @@ Few know how perilously close humanity came to destroying the
 
 ozone layer in the 1980s.
 
-### The story began back in the 1930s when
+# The story began back in the 1930s when
 
 chemists invented a new class of chemicals
 
 CFCs, containing
 
-## chlorine
+chlorine
 
 to improve how refrigerators and air-conditioning work.
 
-## Ironically
+# Ironically
 
 CFCs were thought to be safer than the volatile
 
@@ -10060,23 +10060,23 @@ Unfortunately, no one guessed that
 
 these chemicals would drift high into the atmosphere
 
-## where they
+where they
 
 would annihilate the ozone layer.
 
 In the 1970s, scientists connected
 
-## CFCs to ozone damage
+# CFCs to ozone damage
 
-### but lacked evidence that this was a big
+but lacked evidence that this was a big
 
 problem.
 
-## In 1983
+# In 1983
 
 scientists working for the British Antarctic Survey
 
-## raised the alarm
+raised the alarm
 
 a massive hole over the entire continent had
 
@@ -10084,13 +10084,13 @@ formed abruptly.
 
 We were in deep shit.
 
-## We would be in much deeper
+# We would be in much deeper
 
 shit had bromine been used instead of chlorine.
 
-## The elements are
+# The elements are
 
-## interchangeable
+interchangeable
 
 but—atom for atom—bromine is 45 times more
 
@@ -10098,23 +10098,23 @@ ferocious than chlorine when it comes to destroying ozone.
 
 The ozone layer is measured in Dobson Units (DU)
 
-## which relate
+which relate
 
 to its thickness in millimeters.
 
-### This planetary boundary is set at a
+# This planetary boundary is set at a
 
 minimum thickness of 275 DU.
 
-### Earth is currently within the ozone
+# Earth is currently within the ozone
 
-## boundary
+boundary
 
 which was not the case in the 1980s.
 
-## After decades out in
+# After decades out in
 
-## the high-risk zone
+the high-risk zone
 
 we were able to return to a safe operating space.
 
@@ -10122,11 +10122,11 @@ Political leaders acted to save Earth and created the Montreal
 
 Protocol on Substances that Deplete the Ozone Layer in 1987.
 
-### The ozone hole still exists today
+# The ozone hole still exists today
 
 but it has stabilized.
 
-## Use of CFCs
+# Use of CFCs
 
 fell 57 percent in a decade after the protocol came into force in
 
@@ -10136,7 +10136,7 @@ fell 57 percent in a decade after the protocol came into force in
 
 around 2060.
 
-### This story is an example of the speed
+# This story is an example of the speed
 
 scale, and surprise
 
@@ -10144,11 +10144,11 @@ we face in the Anthropocene.
 
 We undoubtedly had a lucky escape.
 
-## 3. The ocean
+# 3. The ocean
 
 We live on a blue planet.
 
-### The ocean covers 70 percent of the
+# The ocean covers 70 percent of the
 
 surface.
 
@@ -10156,15 +10156,15 @@ It is so vast and seemingly infinite that it is easy to think it
 
 can cope with anything we throw at it.
 
-## The ocean—there really is
+The ocean—there really is
 
-### just a single connected ocean—is
+just a single connected ocean—is
 
-## in large part
+in large part
 
-## the engine room
+the engine room
 
-## 7 In recent years
+7 In recent years
 
 scientists noticed CFCs on the rise again and traced the violation
 
@@ -10176,17 +10176,17 @@ indd 79US_064-105_321647_BB_Chap5-8.
 
 indd 79 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 of the planet.
 
 It regulates heat exchange between the atmosphere
 
-## and the surface
+and the surface
 
-### hosts a huge diversity of life
+hosts a huge diversity of life
 
-## and regulates the
+and regulates the
 
 flow of nutrients and the water cycle.
 
@@ -10194,7 +10194,7 @@ A stable, well-functioning
 
 ocean is a fundamental prerequisite for a stable
 
-## well-functioning
+well-functioning
 
 planet.
 
@@ -10204,25 +10204,25 @@ fossil fuels.
 
 The observed 2°F (1 .
 
-## 1°C) global warming is only a
+1°C) global warming is only a
 
 small fraction of the energy imbalance caused by us humans.
 
-## If all
+# If all
 
 the heat absorbed in the ocean from our emissions were suddenly
 
-## released into the atmosphere
+released into the atmosphere
 
-## the global temperature would
+the global temperature would
 
 momentarily rise some 48.
 
 6°F (27°C).
 
-### There is no science suggesting
+# There is no science suggesting
 
-## this will happen
+this will happen
 
 but it shows the power of the ocean.
 
@@ -10232,7 +10232,7 @@ The heat in the ocean is captured by the climate planetary boundary
 
 so the ocean boundary is based on ocean acidification.
 
-## As a
+# As a
 
 result of carbon dioxide emissions from burning fossil fuels
 
@@ -10240,17 +10240,17 @@ acidity of the ocean has changed by a mind-boggling 26 percent
 
 since the start of the industrial revolution.
 
-## The only thing that comes
+# The only thing that comes
 
 close to this is the Paleocene-Eocene Thermal Maximum shock
 
-### 55 million years ago—a major extinction event
+55 million years ago—a major extinction event
 
-## particularly in the
+particularly in the
 
 ocean—but that happened over a much longer period.
 
-## The rate of
+# The rate of
 
 ocean acidification we are seeing today is significantly more
 
@@ -10262,9 +10262,9 @@ Ocean acidification makes it difficult for ocean life to
 
 grow hard shells or calcium carbonate skeletons
 
-## such as corals
+such as corals
 
-## oysters
+oysters
 
 and the vast mass of calcifying phytoplankton floating on
 
@@ -10272,17 +10272,17 @@ the ocean surface.
 
 Oyster farmers are already affected by this
 
-## corals are dying
+corals are dying
 
-## as heat
+as heat
 
-## ocean acidification
+ocean acidification
 
-## and pollution continue
+and pollution continue
 
 to increase.
 
-## In 2020
+# In 2020
 
 as another heat wave wrecked the Great Barrier
 
@@ -10298,13 +10298,13 @@ Realistically,
 
 the only way to stop ocean acidification
 
-## though
+though
 
-## is to halt fossil
+is to halt fossil
 
 fuel emissions.
 
-## The four biosphere boundaries
+# The four biosphere boundaries
 
 Tightly connected to the “big three” are the four biosphere
 
@@ -10320,9 +10320,9 @@ indd 80US_064-105_321647_BB_Chap5-8.
 
 indd 80 16/02/2021 11:3016/02/2021 11:30
 
-## 81 CHAPTER 6
+81 CHAPTER 6
 
-## However
+# However
 
 the biosphere boundaries are still critically important.
 
@@ -10330,7 +10330,7 @@ They moderate Earth’s life-support systems by amplifying or
 
 dampening the boundaries of the big three.
 
-## The biosphere
+# The biosphere
 
 boundaries regulate the resilience of our planet.
 
@@ -10338,63 +10338,63 @@ The four biosphere boundaries are (1) all living species on Earth
 
 and how they connect—what we call biosphere integrity
 
-## (2) the critical
+(2) the critical
 
-## biomes
+biomes
 
 or the big natural ecosystems on Earth—from rain forests to
 
-## tundra with savannas
+tundra with savannas
 
-## wetlands
+wetlands
 
-## and boreal forests in between
+and boreal forests in between
 
-## the global water cycle
+the global water cycle
 
 and (4) the global flows of nitrogen and
 
-## phosphorus
+phosphorus
 
 the key biogeochemical cycles.
 
 Biodiversity, land,
 
-## freshwater
+freshwater
 
 and nutrients operate at the smaller scale of ecosystems
 
 and watersheds but aggregate up to the planetary scale.
 
-## They
+# They
 
 function as the ultimate insurance against Earth leaving its safe
 
 operating space.
 
-## 1. Biodiversity
+# 1. Biodiversity
 
-## Living nature—that is
+Living nature—that is
 
-## all microbes
+all microbes
 
-## plants
+plants
 
 trees, and animals
 
 on land and in the ocean—supports Earth’s stable state.
 
-## we saw in Chapter 1
+we saw in Chapter 1
 
 it is the living planet that enables the physical
 
 systems on Earth to remain in Holocene equilibrium.
 
-## The trees
+# The trees
 
 moderate greenhouse gases and maintain rainfall patterns
 
-## much
+much
 
 of the rain falling in the middle of the Amazon comes from water
 
@@ -10402,9 +10402,9 @@ that has evaporated from leaves and trees farther east—the forest
 
 recycles water.
 
-## If we lose them
+# If we lose them
 
-## Earth could tip away from the
+# Earth could tip away from the
 
 Holocene state.
 
@@ -10416,7 +10416,7 @@ to resist change.
 
 It is life itself that moderates extremes.
 
-## Earth is in
+# Earth is in
 
 a Goldilocks state thanks to the diversity of life.
 
@@ -10430,29 +10430,29 @@ It is the diversity of plants, animals,
 
 and microbes that gives us a rain-forest system
 
-## and it is the diversity
+and it is the diversity
 
 that allows a rain forest to keep doing what rain forests do.
 
-## A large
+# A large
 
 variety of different species all providing the same function
 
-## such as
+such as
 
-### pollination or water purification
+pollination or water purification
 
-### is what gives nature its resilience
+is what gives nature its resilience
 
 and its capacity to deal with shocks.
 
 Earth is now beyond the boundary for biodiversity.
 
-## This is more
+# This is more
 
 than just the shocking numbers of species going extinct
 
-## it also
+it also
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -10460,27 +10460,27 @@ indd 81US_064-105_321647_BB_Chap5-8.
 
 indd 81 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 relates to the integrity of ecosystems—how species interact.
 
-## We are
+# We are
 
 shredding the fabric that gives the Earth system its deep resilience.
 
-## 2. Land
+# 2. Land
 
 How much forest do we need?
 
 How much wetland?
 
-## We need to ask
+# We need to ask
 
-## these profound questions
+these profound questions
 
 but we do not have all the answers.
 
-## However
+# However
 
 we can say for certain that we have already altered half
 
@@ -10488,9 +10488,9 @@ of the land surface of Earth and we manage about 75 percent.
 
 The US ecologist E.
 
-### Wilson advocates for a “half-Earth”
+Wilson advocates for a “half-Earth”
 
-## conservation strategy
+conservation strategy
 
 meaning we need to set aside half the planet
 
@@ -10498,23 +10498,23 @@ for biodiversity and natural ecosystems.
 
 Wilson is right.
 
-## The balance
+# The balance
 
-## of different ecosystems
+of different ecosystems
 
-## including forests
+including forests
 
-## meadows
+meadows
 
-## wetlands
+wetlands
 
-## peatlands
+peatlands
 
-## and tundra
+and tundra
 
 moderates the Earth system.
 
-## How far can
+# How far can
 
 we push them?
 
@@ -10524,19 +10524,19 @@ biomass.
 
 The state of the planet boils down to the extent of our
 
-## largest forest systems
+largest forest systems
 
-## namely
+namely
 
-### our three remaining rain forests
+our three remaining rain forests
 
-## Amazonia
+# Amazonia
 
-## the Congo
+the Congo
 
-## and Indonesia
+and Indonesia
 
-## and the temperate and boreal
+and the temperate and boreal
 
 forests in the northern hemisphere.
 
@@ -10560,27 +10560,27 @@ costs protect the remaining 50 percent of Earth’s surface and
 
 regenerate the areas we have previously destroyed.
 
-## 3. Freshwater
+# 3. Freshwater
 
 Water is the bloodstream of the biosphere.
 
-## Everywhere that liquid
+# Everywhere that liquid
 
-## water has been found
+water has been found
 
 we have also found life.
 
-## 8 Water determines
+8 Water determines
 
 whether life thrives or dies.
 
-### It distributes nutrients and other
+# It distributes nutrients and other
 
-## chemicals essential for life
+chemicals essential for life
 
-### and it is fundamental to photosynthesis
+and it is fundamental to photosynthesis
 
-### where water is split into oxygen
+where water is split into oxygen
 
 thus enabling all biomass growth.
 
@@ -10588,21 +10588,21 @@ thus enabling all biomass growth.
 
 solar system or beyond very intriguing.
 
-### We have evidence that water flows
+# We have evidence that water flows
 
-### intermittently on present-day Mars
+intermittently on present-day Mars
 
 and liquid water may exist below the icy crust
 
-## of one of Saturn’s moons
+of one of Saturn’s moons
 
-## Enceladus
+# Enceladus
 
-## and one of Jupiter’s moons
+and one of Jupiter’s moons
 
 Europa.
 
-## Space
+# Space
 
 agencies should establish missions to these places immediately!
 
@@ -10612,7 +10612,7 @@ indd 82US_064-105_321647_BB_Chap5-8.
 
 indd 82 16/02/2021 11:3016/02/2021 11:30
 
-## 83 CHAPTER 6
+83 CHAPTER 6
 
 If all freshwater on Earth just disappeared
 
@@ -10620,9 +10620,9 @@ our planet would die.
 
 If you were to slowly add freshwater back
 
-## drop by drop
+drop by drop
 
-## at some
+at some
 
 point life would return on Earth.
 
@@ -10630,7 +10630,7 @@ Eventually, we would cross a
 
 tipping point and a new biosphere would reestablish.
 
-## How much
+# How much
 
 freshwater needs to flow for Earth to kick-start its biological life-
 
@@ -10644,25 +10644,25 @@ we only need to ask ourselves at what point does the ecosystem stop
 
 functioning in the same way?
 
-## Put differently
+# Put differently
 
 how much water can we take from watersheds
 
-## river basins
+river basins
 
 and ecosystems before they collapse?
 
-## We need water
+# We need water
 
-## for irrigation
+for irrigation
 
-## industry
+industry
 
 and domestic use.
 
 If we take too much,
 
-## though
+though
 
 we may cross a tipping point and the ecosystems will not
 
@@ -10672,45 +10672,45 @@ The planetary boundary assessment estimates that
 
 we can consume up to 10 to 15 percent of the total runoff on Earth.
 
-## For water in rivers
+# For water in rivers
 
-## we can use up to 50 percent
+we can use up to 50 percent
 
-## although once we
+although once we
 
 use more than 40 percent of available water in river basins
 
-## we run
+we run
 
 into severe water stress.
 
-### This defines the water boundary
+# This defines the water boundary
 
-## and at a
+and at a
 
 global scale we have not stepped over it
 
 yet.
 
-## But if you look at many
+# But if you look at many
 
-## river basins around the world
+river basins around the world
 
-### you will find a different story
+you will find a different story
 
-## locally
+locally
 
 the freshwater boundary has already been crossed in many places.
 
-## 4. Nutrients
+# 4. Nutrients
 
-## In the past 50 years
+# In the past 50 years
 
 something remarkable happened on Earth.
 
-## Famine
+# Famine
 
-### a specter stalking our civilization
+a specter stalking our civilization
 
 all but disappeared.
 
@@ -10718,31 +10718,31 @@ This was due in no small part to the invention of manufactured
 
 fertilizers based on nitrogen and phosphorus.
 
-## Crops need
+# Crops need
 
-## water and sunlight
+water and sunlight
 
-### but they also need nutrients—nitrogen
+but they also need nutrients—nitrogen
 
 phosphorus, and potassium—to thrive.
 
-## Although the atmosphere
+# Although the atmosphere
 
-## is 78 percent nitrogen
+is 78 percent nitrogen
 
 this cannot be used by most plants.
 
-## Before
+# Before
 
-## the industrial revolution
+the industrial revolution
 
-### farmers relied on naturally occurring
+farmers relied on naturally occurring
 
-## “organic nitrogen
+“organic nitrogen
 
-## ” such as ammonia or nitrate
+” such as ammonia or nitrate
 
-## which is created
+which is created
 
 by some plants and microorganisms and is widely available in
 
@@ -10752,15 +10752,15 @@ Now, industrially produced fertilizers support half
 
 of the global population—more than 3 billion people.
 
-## But these
+# But these
 
 fertilizers are very often not used efficiently.
 
-## They are dumped on
+# They are dumped on
 
-## the land
+the land
 
-### causing massive pollution in soils
+causing massive pollution in soils
 
 lakes, rivers
 
@@ -10776,13 +10776,13 @@ indd 83US_064-105_321647_BB_Chap5-8.
 
 indd 83 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 The nitrogen and phosphorus cycles are two important parts of
 
-## global biogeochemical cycles
+global biogeochemical cycles
 
-### and Earth is now far beyond the
+and Earth is now far beyond the
 
 planetary boundary for both nitrogen and phosphorus use.
 
@@ -10792,23 +10792,23 @@ we are already experiencing the most significant change in the
 
 nitrogen cycle in perhaps 2.
 
-## 5 billion years.
+5 billion years.
 
 We need nitrogen and phosphorus to feed the world
 
-## so it is
+so it is
 
 inevitable that there will be high and rising pressures on the
 
 nutrients planetary boundary.
 
-### Several recent research studies have
+# Several recent research studies have
 
 shown, though
 
 that it is possible to feed 9 to 10 billion people within
 
-## planetary boundaries
+planetary boundaries
 
 including nitrogen and phosphorus.
 
@@ -10822,7 +10822,7 @@ fertilizers.
 
 They need to reduce this usage drastically
 
-## which will
+which will
 
 open up space for sharing with farmers in developing countries
 
@@ -10830,7 +10830,7 @@ who use too little fertilizer and struggle to produce enough crops for
 
 food security.
 
-## In short
+# In short
 
 the scientific definition of a safe boundary
 
@@ -10840,7 +10840,7 @@ of sharing the remaining nitrogen and phosphorus budgets on
 
 Earth in a fair way.
 
-## Second
+# Second
 
 the challenge is to transition production
 
@@ -10850,7 +10850,7 @@ fertilizer is loaded into ecosystems and allowed to leak into
 
 waterways and ecosystems downstream—toward tightly managed
 
-## production
+production
 
 where precision application (only applying what the
 
@@ -10858,21 +10858,21 @@ crop really needs) is combined with improved crop rotation (with
 
 plants that capture nitrogen and phosphorus in the soil).
 
-## Most
+# Most
 
-## importantly
+importantly
 
 production must become circular.
 
-## This means
+# This means
 
 returning all surplus nitrogen and phosphorus back into the farm
 
 where it came from.
 
-### This must include not only manure
+# This must include not only manure
 
-## but also
+but also
 
 waste from urban areas where the food is consumed.
 
@@ -10880,27 +10880,27 @@ What is so exciting is that these practices are well known and
 
 have already been developed for both high-tech
 
-## satellite-based
+satellite-based
 
 systems in wealthy economies and sustainable practices for small-
 
 holder farmers in developing countries.
 
-## The two aliens
+# The two aliens
 
-## Finally
+# Finally
 
 we have identified two alien planetary boundaries.
 
-## They
+# They
 
-## did not exist in the Holocene
+did not exist in the Holocene
 
-### or indeed at any time in Earth’s
+or indeed at any time in Earth’s
 
 5-billion-year history.
 
-### They have been introduced by us and
+# They have been introduced by us and
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -10908,7 +10908,7 @@ indd 84US_064-105_321647_BB_Chap5-8.
 
 indd 84 16/02/2021 11:3016/02/2021 11:30
 
-## 85 CHAPTER 6
+85 CHAPTER 6
 
 now interact in profound and unexpected ways with Earth’s life-
 
@@ -10918,13 +10918,13 @@ They are “novel entities”—a catch-all term for the
 
 thousands of chemicals we have developed and released—and
 
-## aerosols
+aerosols
 
 small particles in the atmosphere causing air pollution.
 
 What could go wrong?
 
-## 1. Novel entities
+# 1. Novel entities
 
 Some substances were deliberately created by governments to
 
@@ -10936,25 +10936,25 @@ biological, and nuclear weapons.
 
 In 1945, the United States
 
-### conducted the first nuclear test
+conducted the first nuclear test
 
-### followed by the Soviet Union in
+followed by the Soviet Union in
 
 1949, the United Kingdom in 1952
 
-## France in 1960
+# France in 1960
 
-## and China in
+and China in
 
 1964.
 
-## At the time
+# At the time
 
 there was limited interest in the health impacts
 
 let alone long-term environmental threats
 
-## even though each
+even though each
 
 nuclear test deposited radioactive particles everywhere on Earth’s
 
@@ -10980,43 +10980,43 @@ Now, only weapons testing underground is permitted.
 
 Some substances are created by companies to solve one problem
 
-## but end up causing more
+but end up causing more
 
-### such as the ozone-eating CFCs mentioned
+such as the ozone-eating CFCs mentioned
 
-## earlier
+earlier
 
 or adding lead to gasoline to improve engines
 
-## only to find
+only to find
 
 that it has terrible effects on human health
 
-## 9 or DDT
+9 or DDT
 
-## the first modern
+the first modern
 
 synthetic insecticide.
 
 If the world had just a handful of artificially
 
-### produced chemicals to deal with
+produced chemicals to deal with
 
-### then we might have a manageable
+then we might have a manageable
 
 situation.
 
-## But there are more than 100
+# But there are more than 100
 
-## 000 human-made substances
+000 human-made substances
 
 in the environment.
 
-### These range from nuclear waste
+# These range from nuclear waste
 
-## pesticides
+pesticides
 
-## heavy metals to plastics
+heavy metals to plastics
 
 including microplastics and nanoparticles.
 
@@ -11024,23 +11024,23 @@ We have limited knowledge of the risks that accumulate when
 
 novel entities build up in the biosphere and interact.
 
-## Evidence
+# Evidence
 
-## suggests
+suggests
 
-## though
+though
 
 that the cocktail effect of accumulating novel
 
-## 9 In the 1920s and 1930s
+9 In the 1920s and 1930s
 
 the research to develop CFCs and to add lead to gasoline
 
-## was led by the same person
+was led by the same person
 
 US chemist Thomas Midgley.
 
-## The environmental
+# The environmental
 
 historian J.
 
@@ -11054,17 +11054,17 @@ indd 85US_064-105_321647_BB_Chap5-8.
 
 indd 85 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 entities is likely to trigger unwanted and unstoppable change.
 
-## What
+# What
 
-## is the limit
+is the limit
 
 and where is the safe operating space?
 
-## We are still trying
+# We are still trying
 
 to figure that out.
 
@@ -11072,25 +11072,25 @@ Novel entities also include emerging risks such as artificial
 
 intelligence (AI).
 
-## In this field
+# In this field
 
-### there is a famous thought experiment
+there is a famous thought experiment
 
-### called the paper-clip maximizer
+called the paper-clip maximizer
 
-### about the risk of a superintelligence
+about the risk of a superintelligence
 
 adopting an arbitrary goal and how this might escalate.
 
-## Imagine
+# Imagine
 
 that a CEO needs a paper clip to fasten some papers together.
 
-## says to his advanced AI
+says to his advanced AI
 
 “Hey, Iris
 
-## make sure we don’t run out of
+make sure we don’t run out of
 
 paper clips ever again.
 
@@ -11104,9 +11104,9 @@ A new economy springs up solely to supply the AI’s
 
 demand for paper clips.
 
-## Eventually
+# Eventually
 
-### the AI buys paper clip wholesale
+the AI buys paper clip wholesale
 
 companies, mines, and foundries.
 
@@ -11116,17 +11116,17 @@ resources become devoted to paper clip supplies.
 
 And so on.
 
-## While
+# While
 
-## seemingly preposterous now
+seemingly preposterous now
 
-### the point is that there is an infinite
+the point is that there is an infinite
 
 number of ways in which the goals of a superintelligence might
 
-### deviate from those who programmed it
+deviate from those who programmed it
 
-## or those who are impacted
+or those who are impacted
 
 by it.
 
@@ -11140,7 +11140,7 @@ Take gene drives:
 
 deliberately releasing an altered gene into a wild population
 
-## example
+example
 
 to eradicate mosquitoes carrying malaria or the Zika
 
@@ -11148,13 +11148,13 @@ virus.
 
 The temptation to do so is strong.
 
-## Malaria kills almost half a
+# Malaria kills almost half a
 
-## million people every year
+million people every year
 
-## mainly in Africa
+mainly in Africa
 
-## and the Zika virus can
+and the Zika virus can
 
 cause children to be born with birth defects.
 
@@ -11164,7 +11164,7 @@ possibility that gene drives in the wild will go without a hitch
 
 humanity will be rid of these dreadful diseases.
 
-## But there are a
+# But there are a
 
 thousand reasons why you would want to think twice or even three
 
@@ -11174,7 +11174,7 @@ Given the potential complications and with so many unknowns
 
 the novel entities boundary has yet to be quantified.
 
-## 2. Aerosols
+# 2. Aerosols
 
 A brown cloud stretches for thousands of miles over China and
 
@@ -11186,7 +11186,7 @@ Delhi,
 
 and other Asian cities.
 
-### Sometimes the pollution mingles with
+# Sometimes the pollution mingles with
 
 smoke from forest fires in Indonesia.
 
@@ -11198,23 +11198,23 @@ indd 86US_064-105_321647_BB_Chap5-8.
 
 indd 86 16/02/2021 11:3016/02/2021 11:30
 
-## 87 CHAPTER 6
+87 CHAPTER 6
 
-## Australia
+# Australia
 
-## Canada
+# Canada
 
-## Scandinavia
+# Scandinavia
 
-## and Russia throw up vast soot
+and Russia throw up vast soot
 
 clouds that drift for weeks.
 
 This is all part of life in the Anthropocene.
 
-## Industrial processes
+# Industrial processes
 
-## car exhausts
+car exhausts
 
 fires, and the burning of fossil
 
@@ -11222,11 +11222,11 @@ fuels release small particles called aerosols into the atmosphere.
 
 The accumulation of aerosols leads to air pollution
 
-## which causes
+which causes
 
 up to 9 million premature deaths every year.
 
-## Aerosols also affect
+# Aerosols also affect
 
 how the planet works.
 
@@ -11234,13 +11234,13 @@ They influence cloud formation, allowing
 
 more clouds and rain to form near cities.
 
-## They also affect weather
+# They also affect weather
 
 patterns.
 
-## Some aerosols absorb heat
+# Some aerosols absorb heat
 
-### while others create a layer of
+while others create a layer of
 
 haze that prevents solar radiation from reaching the surface of
 
@@ -11252,15 +11252,15 @@ and diesel transportation in India may be making the Indian
 
 monsoon irregular and bringing less rain.
 
-## India needs rain for the
+# India needs rain for the
 
 crops to feed its 1.
 
-## 3 billion people.
+3 billion people.
 
 The aerosols planetary boundary is about keeping regional
 
-## weather systems working
+weather systems working
 
 but it is also deeply linked to climate.
 
@@ -11268,9 +11268,9 @@ There is much uncertainty and we have yet to calculate a precise
 
 global boundary.
 
-## However
+# However
 
-### we have come quite a long way for one
+we have come quite a long way for one
 
 of the key hot spots on Earth—the South Asian monsoon—where we
 
@@ -11278,17 +11278,17 @@ have been able to propose a boundary related to the maximum
 
 allowed haziness in the lower atmosphere.
 
-## We are in deep danger
+# We are in deep danger
 
 We have transgressed four of the nine planetary boundaries
 
-## climate
+climate
 
-## biodiversity
+biodiversity
 
 land, and our use of nutrients.
 
-## This should
+# This should
 
 alarm everyone.
 
@@ -11302,9 +11302,9 @@ risk of triggering unpredictable and irreversible changes is higher.
 
 We are at red alert.
 
-## Meanwhile
+# Meanwhile
 
-### climate change and land system
+climate change and land system
 
 change have reached the danger zone.
 
@@ -11326,17 +11326,17 @@ Indeed, around
 
 extinction.
 
-## Devastatingly
+# Devastatingly
 
-## since 1970
+since 1970
 
-## we have reduced animal
+we have reduced animal
 
 populations by 60 percent.
 
-### Fires and drying of the Amazon rain
+# Fires and drying of the Amazon rain
 
-## forest
+forest
 
 bark beetle outbreaks in Canadian boreal forests
 
@@ -11348,45 +11348,45 @@ indd 87US_064-105_321647_BB_Chap5-8.
 
 indd 87 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 indications of turbulence in natural land systems.
 
-## We should be
+# We should be
 
 tiptoeing into the future.
 
-## Instead
+# Instead
 
 we are blindly charging forward.
 
 Our planet operates as a tightly connected system.
 
-## It is similar to
+# It is similar to
 
 the human body with its interlinked organs.
 
-## Your overall health
+# Your overall health
 
 relies not only on the functioning of your heart
 
 lungs, liver
 
-## kidneys
+kidneys
 
-## and nervous system
+and nervous system
 
 but also on how they interact and communicate
 
 with each other.
 
-## And importantly
+# And importantly
 
-## just like humans
+just like humans
 
-## Earth seems to
+# Earth seems to
 
-### live by the motto “All for one
+live by the motto “All for one
 
 one for all.
 
@@ -11400,39 +11400,39 @@ So it is for Earth.
 
 We do not know the exact position of each planetary boundary.
 
-## Not because it does not exist
+# Not because it does not exist
 
-### but rather because of the complexity
+but rather because of the complexity
 
-## of how Earth
+of how Earth
 
-## with all its organs
+with all its organs
 
 operates.
 
-## We are learning all the
+# We are learning all the
 
 time.
 
-## As knowledge improves
+# As knowledge improves
 
 we become more nervous.
 
-## Improved
+# Improved
 
 supercomputer capacities show that the climate is even more
 
 sensitive than we thought a decade ago.
 
-## We cannot rule out that if
+# We cannot rule out that if
 
 carbon dioxide in the atmosphere doubles
 
-## Earth’s temperature will
+Earth’s temperature will
 
 rise to a catastrophic 9°F (5°C) global warming or higher.
 
-## It is hard
+# It is hard
 
 to imagine civilization coping with such a shocking transition.
 
@@ -11440,9 +11440,9 @@ upshot of this revelation is that the 2.
 
 7°F (1.
 
-## 5°C) target has become
+5°C) target has become
 
-## even more important to meet
+even more important to meet
 
 but more difficult to achieve.
 
@@ -11454,19 +11454,19 @@ hierarchy.
 
 Climate and biodiversity boundaries are core
 
-## boundaries
+boundaries
 
-## on their own
+on their own
 
 they can push Earth into a new state.
 
-## Not only that
+# Not only that
 
 these two boundaries depend on many other
 
 boundaries.
 
-## The land
+# The land
 
 water, and biogeochemical flows determine
 
@@ -11474,35 +11474,35 @@ the pattern of species.
 
 The deep currents in the ocean and the ice
 
-## sheets
+sheets
 
-## together with carbon
+together with carbon
 
-## methane
+methane
 
-## and other gases in the
+and other gases in the
 
-## biosphere
+biosphere
 
 determine the final state of the climate.
 
-## Transgressing
+# Transgressing
 
 one or more of the non-core boundaries may severely affect human
 
 well-being and trigger the transgression of a core boundary
 
-## they cannot
+they cannot
 
-## as far as we know
+as far as we know
 
-### push the Earth system into a new
+push the Earth system into a new
 
 state on their own.
 
 Climate and biodiversity can.
 
-## 10 Increasingly
+10 Increasingly
 
 evidence shows that ocean acidification has been the prime cause
 
@@ -11514,9 +11514,9 @@ indd 88US_064-105_321647_BB_Chap5-8.
 
 indd 88 16/02/2021 11:3016/02/2021 11:30
 
-## 89 CHAPTER 7
+89 CHAPTER 7
 
-## HOTHOUSE EARTH
+# HOTHOUSE EARTH
 
 What is the difference between a 2°C world
 
@@ -11524,21 +11524,21 @@ and a 4°C world?
 
 Human civilization.
 
-## HANS JOACHIM SCHELLNHUBER
+# HANS JOACHIM SCHELLNHUBER
 
 FOUNDING DIRECTOR OF THE POTSDAM INSTITUTE
 
-## FOR CLIMATE IMPACT RESEARCH
+# FOR CLIMATE IMPACT RESEARCH
 
 Let’s go back to the summer of 2018.
 
-## If you live in the northern
+# If you live in the northern
 
-## hemisphere
+hemisphere
 
 you may recall something unusual.
 
-## The entire
+# The entire
 
 hemisphere sweltered under an uncanny and unprecedented heat
 
@@ -11552,23 +11552,23 @@ summer.
 
 It arrived in early May and stayed until late September.
 
-### Wells and groundwater dried out
+# Wells and groundwater dried out
 
-## causing the first real water
+causing the first real water
 
 crisis.
 
-## The forests dried out
+# The forests dried out
 
 too, and fires raged.
 
-## This pattern
+# This pattern
 
 repeated across the northern hemisphere.
 
-## In the middle of this
+# In the middle of this
 
-## heat wave
+heat wave
 
 the US academic journal Proceedings of the National
 
@@ -11586,33 +11586,33 @@ If only we were that clever, or that
 
 science worked to media deadlines.
 
-### 11 In fact, the day the paper was
+11 In fact, the day the paper was
 
-## published
+published
 
-## the lead author
+the lead author
 
-## Will Steffen
+# Will Steffen
 
-## was returning from the
+was returning from the
 
 Galápagos Islands and was completely inaccessible to the media.
 
-## At some point on August 6
+# At some point on August 6
 
 2018, we crossed a tipping point.
 
-## Luckily
+# Luckily
 
 this was not a tipping point in Earth’s life-support system
 
-## 11 In recent years
+11 In recent years
 
 science has advanced so far that researchers have been able to
 
 produce research attributing human-caused climate change to extreme events
 
-## such as hurricanes
+such as hurricanes
 
 within days of the catastrophe.
 
@@ -11622,61 +11622,61 @@ indd 89US_064-105_321647_BB_Chap5-8.
 
 indd 89 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 it was a tipping point in the media.
 
-## The “Hothouse Earth” paper
+The “Hothouse Earth” paper
 
-### had been published earlier that day
+had been published earlier that day
 
-## and there was a flurry of
+and there was a flurry of
 
 interest from science journalists.
 
-## They wanted to know whether
+# They wanted to know whether
 
 humanity might inadvertently set off a chain reaction in the
 
-## climate system
+climate system
 
 thereby making it all but impossible to restrain
 
 climate change at tolerable levels for civilization.
 
-## Throughout the day
+# Throughout the day
 
-### the “Hothouse Earth” story kept getting
+the “Hothouse Earth” story kept getting
 
 bigger and bigger.
 
-## Suddenly
+# Suddenly
 
-### we were not only getting attention
+we were not only getting attention
 
-## from the science desks
+from the science desks
 
 but also from the main news desks.
 
-## Requests
+# Requests
 
 flooded in.
 
 Once major media such as the BBC and CNN became
 
-## involved
+involved
 
-### the story crossed a tipping point
+the story crossed a tipping point
 
-## which set off a cascade
+which set off a cascade
 
 of other media interest around the globe.
 
-## For a frenetic 24-hour
+# For a frenetic 24-hour
 
 period, the phones did not stop ringing.
 
-## The paper struck a nerve
+# The paper struck a nerve
 
 and went on to become the biggest climate science story of the year.
 
@@ -11684,35 +11684,35 @@ The word “hothouse” was awarded “word of the year” in Germany.
 
 We first introduced the hothouse Earth state in Chapter 1.
 
-## It was
+# It was
 
-## a remarkably stable state
+a remarkably stable state
 
 lasting millions of years.
 
-## During this
+# During this
 
 time, Earth was 7.
 
 2°F (4°C) or more warmer than it is today
 
-## dinosaurs roamed
+dinosaurs roamed
 
-## there was no ice at the poles
+there was no ice at the poles
 
-## and the sea levels
+and the sea levels
 
 were 230 feet (70 meters) higher than they are now.
 
-## A hothouse
+# A hothouse
 
 world is very different from our world today.
 
 And, as Hans Joachim
 
-## Schellnhuber13 reminds us
+# Schellnhuber13 reminds us
 
-### the hothouse state is the difference
+the hothouse state is the difference
 
 between a stable civilization and collapse.
 
@@ -11720,7 +11720,7 @@ The “Hothouse Earth” paper begins with the observation that
 
 when fossil fuels stop flowing into the atmosphere
 
-## the temperature
+the temperature
 
 may not stabilize quite as we would wish.
 
@@ -11734,11 +11734,11 @@ fuels, temperature will stabilize at 5.
 
 we should be wary of this.
 
-### We could reach a point where the
+# We could reach a point where the
 
 temperature keeps spiraling even after emissions cease.
 
-## Could we
+# Could we
 
 accidentally cross a tipping point that would send us irrecoverably
 
@@ -11752,7 +11752,7 @@ we will talk about how this scenario could unfold.
 
 12 The paper was actually more mundanely titled “T rajectories of the Earth system
 
-## in the Anthropocene
+in the Anthropocene
 
 ” but it took on a life of its own in the media.
 
@@ -11766,23 +11766,23 @@ indd 90US_064-105_321647_BB_Chap5-8.
 
 indd 90 16/02/2021 11:3016/02/2021 11:30
 
-## 91 CHAPTER 7
+91 CHAPTER 7
 
-## In Chapter 2
+# In Chapter 2
 
-### we discussed how the small changes
+we discussed how the small changes
 
-## Earth’s hair
+Earth’s hair
 
 trigger, can send Earth spinning.
 
-### Very slight alterations in Earth’s
+Very slight alterations in Earth’s
 
 orbit are enough to nudge Earth across a tipping point and send us
 
 from warm interglacial to ice age and back again.
 
-## We have bobbed
+# We have bobbed
 
 back and forth like this for the past 3 million years.
 
@@ -11792,29 +11792,29 @@ more heat from the sun reaches places such as Scandinavia and
 
 northern Canada in summer.
 
-### This alone might warm Earth a few
+# This alone might warm Earth a few
 
-## degrees
+degrees
 
 but not enough to lift it out of an ice age.
 
 It is enough,
 
-## though
+though
 
 to kick-start the biological engine on Earth.
 
-## The slightly
+# The slightly
 
 warmer temperatures release carbon dioxide from the ocean
 
-## permafrost thaws
+permafrost thaws
 
-## thus emitting carbon
+thus emitting carbon
 
 too.
 
-## These carbon dioxide
+# These carbon dioxide
 
 emissions drive the temperatures even higher.
 
@@ -11834,9 +11834,9 @@ Nature wakes up, changing
 
 the flow of carbon around Earth.
 
-### This drives a self-reinforcing
+# This drives a self-reinforcing
 
-## warming cycle
+warming cycle
 
 until nature eventually runs out of steam and
 
@@ -11846,9 +11846,9 @@ Goodbye ice age.
 
 We know for certain that Earth has responded quite profoundly
 
-### time after time to small nudges
+time after time to small nudges
 
-## so why would it not happen
+so why would it not happen
 
 again?
 
@@ -11856,9 +11856,9 @@ But the Anthropocene is less of a nudge and more of a
 
 shove, in the wrong direction.
 
-### 15 Although our ocean, land, ice
+15 Although our ocean, land, ice
 
-## sheets
+sheets
 
 and atmosphere respond to changes in heat from the sun
 
@@ -11866,13 +11866,13 @@ this alone does not determine the final state of the planet.
 
 biosphere—life—also gets in on the act in a surprising and often
 
-### beautifully rich and complex way
+beautifully rich and complex way
 
-## speeding up change once
+speeding up change once
 
-## thresholds are crossed
+thresholds are crossed
 
-### dampening shocks and stress when
+dampening shocks and stress when
 
 biophysically able.
 
@@ -11880,7 +11880,7 @@ This ability to keep Earth in a stable state is what
 
 we call Earth resilience.
 
-## 14 Bizarrely
+14 Bizarrely
 
 climate sceptics use an Orwellian reasoning to confuse people over ice
 
@@ -11888,13 +11888,13 @@ ages.
 
 They claim that because temperature rises before carbon dioxide levels
 
-## increase
+increase
 
 then carbon dioxide is unimportant.
 
-### If they delved deeper into academic
+# If they delved deeper into academic
 
-## literature
+literature
 
 they might be blown away by the wondrous way our biosphere works.
 
@@ -11912,7 +11912,7 @@ indd 91US_064-105_321647_BB_Chap5-8.
 
 indd 91 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 Nature can push and pull Earth’s systems in different ways.
 
@@ -11920,39 +11920,39 @@ times, nature helps Earth roll with the punches by restraining a big
 
 shove and dampening it down.
 
-### A pulse of carbon dioxide can be
+# A pulse of carbon dioxide can be
 
-### absorbed by trees and ocean plankton
+absorbed by trees and ocean plankton
 
 for example.
 
-## Without the
+# Without the
 
-## ocean and soils and forests
+ocean and soils and forests
 
-### we would have double the carbon
+we would have double the carbon
 
 dioxide in the atmosphere.
 
 This would be catastrophic.
 
-## biosphere is our friend
+biosphere is our friend
 
-## at least
+at least
 
 it has been up to now.
 
-## However
+# However
 
 the biosphere can amplify as well as dampen.
 
-## This is
+# This is
 
 our nightmare.
 
-### If one tipping point is crossed
+# If one tipping point is crossed
 
-## how does this affect
+how does this affect
 
 all the other tipping points?
 
@@ -11960,25 +11960,25 @@ This is a critical question for our future
 
 and the central focus of our “Hothouse Earth” paper.
 
-## The domino effect
+# The domino effect
 
 The first comprehensive analysis of Earth’s tipping points only
 
 appeared in 2008.
 
-## Since then
+# Since then
 
-### the race has been on to quantify
+the race has been on to quantify
 
 where the tipping points lie.
 
-### At what degree of global warming will
+# At what degree of global warming will
 
 they tip?
 
 How much biodiversity loss is too much?
 
-## Much less
+# Much less
 
 attention has been paid to how one tipping point might link to
 
@@ -11992,7 +11992,7 @@ So, it is hardly surprising that we
 
 know precious little about how they interact.
 
-## But we are beginning
+# But we are beginning
 
 to get a handle on it.
 
@@ -12002,49 +12002,49 @@ Let’s take a tour of the globe and talk through a couple of
 
 “what if” scenarios.
 
-## The Arctic
+# The Arctic
 
 We’ll start high in the Arctic Circle.
 
-## What if sea ice continues
+# What if sea ice continues
 
 shrinking and thinning each summer?
 
-## More and more dark water
+# More and more dark water
 
 will be exposed beneath.
 
-### The dark water absorbs more heat than
+# The dark water absorbs more heat than
 
-## the ice
+the ice
 
-## thinning the ice even more
+thinning the ice even more
 
-### so more ice melts the following
+so more ice melts the following
 
 year.
 
-## As the Arctic warms
+# As the Arctic warms
 
-### vast fields of permafrost in northern
+vast fields of permafrost in northern
 
-### Canada and Russia start to thaw
+# Canada and Russia start to thaw
 
-## releasing potent greenhouse
+releasing potent greenhouse
 
 gases.
 
-## At the same time
+# At the same time
 
-### the warmer temperatures dry out the
+the warmer temperatures dry out the
 
-## Canadian
+# Canadian
 
-## Alaskan
+# Alaskan
 
 and Russian forests and peatlands.
 
-## This
+# This
 
 makes them prone to fires.
 
@@ -12056,7 +12056,7 @@ Well, we do not have to imagine
 
 anymore; they are happening.
 
-### But that is not all we need to worry
+# But that is not all we need to worry
 
 about in Greenland.
 
@@ -12068,11 +12068,11 @@ indd 92US_064-105_321647_BB_Chap5-8.
 
 indd 92 16/02/2021 11:3016/02/2021 11:30
 
-## 93 CHAPTER 7
+93 CHAPTER 7
 
-### freshwater flow into the North Atlantic
+freshwater flow into the North Atlantic
 
-## disrupting the ocean’s
+disrupting the ocean’s
 
 circulation.
 
@@ -12080,15 +12080,15 @@ This changes how heat moves around the planet and
 
 causes warm water to build up around Antarctica
 
-## melting glaciers
+melting glaciers
 
 from below and pushing them past a point of no return.
 
-## We risk a
+# We risk a
 
 cascade like this occurring when temperatures reach 1.
 
-## 8 to 5.
+8 to 5.
 
 (1 to 3°C) global warming.
 
@@ -12096,19 +12096,19 @@ Remember, we are now at 2°F (1.
 
 1°C).
 
-## We have already stumbled
+# We have already stumbled
 
 into the danger zone.
 
-## The Amazon
+# The Amazon
 
 The changes in the Arctic and ocean circulation may also
 
-### affect rain forests such as the Amazon
+affect rain forests such as the Amazon
 
 drying them out.
 
-## Atlantic
+# Atlantic
 
 ocean currents greatly influence rainfall in the Amazon and the
 
@@ -12116,37 +12116,37 @@ Sahel region of Africa.
 
 What if the Amazon turns from lush Amazon
 
-## rain forestBoreal forest
+rain forestBoreal forest
 
-## West Antarctic
+# West Antarctic
 
-## Ice SheetEl Niño–Southern
+Ice SheetEl Niño–Southern
 
-## OscillationThermohaline
+# OscillationThermohaline
 
-## circulationIndian summer
+circulationIndian summer
 
-## monsoonGreenland
+monsoonGreenland
 
-## Ice Sheet Arctic winter
+# Ice Sheet Arctic winter
 
-## sea ice
+sea ice
 
-## Arctic summer
+# Arctic summer
 
-## sea ice
+sea ice
 
-## East Antarctic
+# East Antarctic
 
 Ice SheetSahelJet streamPermafrostCascading tipping points
 
-### Some parts of the Earth system are
+# Some parts of the Earth system are
 
 prone to tipping points.
 
-## Crossing one
+# Crossing one
 
-### tipping point can push Earth across
+tipping point can push Earth across
 
 others, like cascading dominoes.
 
@@ -12156,7 +12156,7 @@ indd 93US_064-105_321647_BB_Chap5-8.
 
 indd 93 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 tropical growth to a drier savanna state and starts belching out
 
@@ -12174,27 +12174,27 @@ carbon than it absorbs.
 
 Independent of deforestation, the rain
 
-### forest is storing less and less carbon
+forest is storing less and less carbon
 
-## as trees die earlier and the
+as trees die earlier and the
 
 carbon they store puffs into the atmosphere as they rot.
 
-## When you
+# When you
 
-### combine this with deforestation
+combine this with deforestation
 
-### we are coming dangerously close
+we are coming dangerously close
 
 to a tipping point.
 
-## In fact
+# In fact
 
-### Thomas Lovejoy and Carlos Nobre
+# Thomas Lovejoy and Carlos Nobre
 
 leading researchers in biodiversity and the Amazon
 
-## have suggested
+have suggested
 
 that the Amazon could tip if just 20 to 25 percent of the forest
 
@@ -12204,61 +12204,61 @@ The Amazon stabilizes Earth’s climate.
 
 This is why, as 40,000
 
-### fires raged through the Amazon in 2019
+fires raged through the Amazon in 2019
 
-## French president
+# French president
 
 Emmanuel Macron called for the world to protect this priceless
 
 global commons.
 
-## 16 Since 1970
+16 Since 1970
 
 about 17 percent has gone.
 
-## We are
+# We are
 
-## sitting on a time bomb
+sitting on a time bomb
 
-### but instead of trying to defuse it
+but instead of trying to defuse it
 
-## we are
+we are
 
 tapping it with a hammer.
 
 The risks cascade.
 
-## As one tipping point falls
+# As one tipping point falls
 
-## we lurch toward
+we lurch toward
 
-## another
+another
 
-## and then another
+and then another
 
 like falling dominoes.
 
-## Once we knock
+# Once we knock
 
-## the first few dominoes over
+the first few dominoes over
 
-### it will be too late to keep Earth in a
+it will be too late to keep Earth in a
 
 Holocene state.
 
-## Once we cross a tipping point
+# Once we cross a tipping point
 
-## cuts to greenhouse
+cuts to greenhouse
 
 gas emissions may make little difference.
 
-## Earth will release billions
+# Earth will release billions
 
 of tons of gases into the air from permafrost
 
-## forests
+forests
 
-## and under
+and under
 
 the sea.
 
@@ -12268,21 +12268,21 @@ If it were to begin,
 
 then what would be the next stable state of our planet?
 
-## In Chapter 1
+# In Chapter 1
 
 we introduced the two stable states on Earth
 
 icehouse and hothouse.
 
-### 17 We have not been in a full hothouse state
+17 We have not been in a full hothouse state
 
 for at least 5 million years.
 
 Back then, carbon dioxide levels were
 
-### above 350 ppm in the atmosphere
+above 350 ppm in the atmosphere
 
-### the critical threshold for entering
+the critical threshold for entering
 
 the icehouse.
 
@@ -12290,21 +12290,21 @@ Today, carbon dioxide is already above 415 ppm.
 
 Unrestrained fossil fuel emissions may propel Earth back to the
 
-## 16 Global commons
+16 Global commons
 
-## in this context
+in this context
 
 is a term used to describe the systems that
 
 regulate the stability and resilience of Earth.
 
-## 17 As you will recall
+17 As you will recall
 
-## the Holocene
+the Holocene
 
-## while seemingly stable to us
+while seemingly stable to us
 
-## is not a deeply stable
+is not a deeply stable
 
 state like the snowball or hothouse Earth or even the long ice ages.
 
@@ -12314,7 +12314,7 @@ indd 94US_064-105_321647_BB_Chap5-8.
 
 indd 94 16/02/2021 11:3016/02/2021 11:30
 
-## 95 CHAPTER 7
+95 CHAPTER 7
 
 hothouse, crash-landing there in 2200.
 
@@ -12326,13 +12326,13 @@ If we keep these promises,
 
 will the sleeping giants stay asleep?
 
-### Given all we know about tipping
+# Given all we know about tipping
 
-## points
+points
 
 we think some concern is warranted.
 
-## Earth should be safe
+# Earth should be safe
 
 from an inexorable hothouse Earth fate as long as we manage to
 
@@ -12348,15 +12348,15 @@ commitments take us to 5.
 
 All bets are off.
 
-## For now
+# For now
 
 our planet remains remarkably resilient.
 
-## Since we
+# Since we
 
 entered the Anthropocene and embarked on this exponential
 
-## journey
+journey
 
 Earth has continued to be our friend.
 
@@ -12372,23 +12372,23 @@ The capacity of the Amazon rain forest to hold carbon
 
 is now decreasing.
 
-## Similarly
+# Similarly
 
-## as the ocean warms
+as the ocean warms
 
-## it holds less
+it holds less
 
 carbon dioxide.
 
-## Furthermore
+# Furthermore
 
-### the more carbon dioxide the ocean
+the more carbon dioxide the ocean
 
 absorbs, the more acidic it becomes.
 
 When we look at the latest science on tipping points and the state
 
-## of our global commons
+of our global commons
 
 it is clear that we have been underestimating
 
@@ -12408,17 +12408,17 @@ feedbacks may still nudge temperature up to at least 4.
 
 This may be enough to set off the domino effect.
 
-## The next series of
+# The next series of
 
 tipping points could push Earth’s temperature even higher
 
-## and off
+and off
 
 we go, into an uncontrolled cascade that rewinds the climate clock
 
 tens of millions of years in just a couple of centuries.
 
-## Sometimes
+# Sometimes
 
 it takes a generation or more to make incremental
 
@@ -12426,11 +12426,11 @@ progress in science.
 
 Earth system science is not like that.
 
-## When we
+# When we
 
 published the “Hothouse Earth” paper in 2018
 
-## we still thought
+we still thought
 
 that the world had time to act.
 
@@ -12452,11 +12452,11 @@ It took just three months from the moment the World Health
 
 Organization picked up a media statement on cases of “viral
 
-## pneumonia” in Wuhan
+pneumonia” in Wuhan
 
-### published online by the Wuhan Municipal
+published online by the Wuhan Municipal
 
-## Health Commission
+# Health Commission
 
 to the moment nearly 4 billion people—half
 
@@ -12464,7 +12464,7 @@ the population of the planet—were placed under some sort of
 
 lockdown.
 
-### This point was reached on April 3
+# This point was reached on April 3
 
 2020, according to
 
@@ -12474,17 +12474,17 @@ The COVID-19 pandemic was undoubtedly the worst health
 
 crisis in a century.
 
-## Indeed
+# Indeed
 
 it arrived almost precisely 100 years after
 
 the Spanish flu pandemic of 1918.
 
-### The rapid spread of the disease
+# The rapid spread of the disease
 
 demanded a global emergency response founded on solidarity and
 
-## cooperation
+cooperation
 
 not an “everyone for themself” attitude from nations
 
@@ -12494,45 +12494,45 @@ The results were mixed.
 
 Countries struggled to contain the virus.
 
-## Health systems collapsed
+# Health systems collapsed
 
 under the pressure.
 
-### Forced to act to contain the spread
+# Forced to act to contain the spread
 
-## nations
+nations
 
 snapped shut large parts of their economies for months on end.
 
-## Amid the chaos and confusion
+# Amid the chaos and confusion
 
-## we often glimpsed the best of
+we often glimpsed the best of
 
 humanity.
 
-## Citizens
+# Citizens
 
-## governments
+governments
 
-## businesses
+businesses
 
-## schools
+schools
 
-## and hospitals
+and hospitals
 
 all showed a remarkable capacity to rise abruptly in the face of an
 
 emergency.
 
-### Many politicians acted responsibly
+# Many politicians acted responsibly
 
-## respectfully
+respectfully
 
 rapidly.
 
-## At the height of the crisis
+# At the height of the crisis
 
-## national leaders made strong
+national leaders made strong
 
 statements about unity and cooperation and appealed to people’s
 
@@ -12540,19 +12540,19 @@ sense of community.
 
 And people responded.
 
-## They made the
+# They made the
 
 necessary sacrifices and worked toward the common good.
 
-## 96 ACT II
+96 ACT II
 
-## EMERGENCY ON
+# EMERGENCY ON
 
-## PLANET EARTH
+# PLANET EARTH
 
 Our house is on fire.
 
-## GRETA THUNBERG
+# GRETA THUNBERG
 
 WORLD ECONOMIC FORUM, DAVOS, 2019
 
@@ -12564,21 +12564,21 @@ indd 96 16/02/2021 11:3016/02/2021 11:30
 
 B1SLEEPING GIANTS:
 
-## THE AMAZON
+# THE AMAZON
 
 The Amazon rain forest is a critical global commons.
 
-## It helps balance the global
+# It helps balance the global
 
-## carbon budget
+carbon budget
 
 it in/f_l uences rainfall in South America
 
-### and it is home to astoundingly
+and it is home to astoundingly
 
 rich biodiversity.
 
-## Alarmingly
+# Alarmingly
 
 the rain forest is under relentless pressure from
 
@@ -12588,11 +12588,11 @@ These twin threats are pushing the forest closer to
 
 a tipping point.
 
-## Since 1970
+# Since 1970
 
 about 17 percent of the forest has been ripped up.
 
-## It has
+# It has
 
 been estimated that large parts of the Amazon could tip to “non-forest ecosystems”
 
@@ -12604,7 +12604,7 @@ state where it could exist either as rain forest or as a less diverse forest eco
 
 that stores less carbon.
 
-## Severe droughts in 2005
+# Severe droughts in 2005
 
 2010, and 2015/16 may be the
 
@@ -12612,17 +12612,17 @@ that stores less carbon.
 
 On current trajectories, droughts,
 
-## deforestation
+deforestation
 
 and blazing /f_i res will /f_l ip the Amazon from being an important store
 
 of carbon to an emitter of carbon by around 2035.
 
-### Deforested area since 2000Manaus
+# Deforested area since 2000Manaus
 
-## Rio de Janeiro
+# Rio de Janeiro
 
-## São Paulo
+São Paulo
 
 US_001-004_Plate_B.
 
@@ -12632,11 +12632,11 @@ indd 1 26/01/2021 09:2826/01/2021 09:28
 
 B2Earth is destabilizing.
 
-## Since 1750
+# Since 1750
 
 global socioeconomic activity (left) has grown
 
-## exponentially
+exponentially
 
 causing the rate of change of Earth’s life-support system (right) to
 
@@ -12644,11 +12644,11 @@ accelerate.
 
 But look what happens in the 1950s.
 
-### This is the moment human activity
+# This is the moment human activity
 
 moves into overdrive.
 
-## This period of growth
+# This period of growth
 
 starting in the 1950s and going right up to
 
@@ -12658,83 +12658,83 @@ In a single human lifetime, we have
 
 changed a planet.
 
-## THE GREAT ACCELERATION
+# THE GREAT ACCELERATION
 
-## YEAR1200
+# YEAR1200
 
-### 1750 1850 1800 1900 1950 2010400
+1750 1850 1800 1900 1950 2010400
 
-### 0MILLION MOTOR VEHICLESTRANSPORTATION
+0MILLION MOTOR VEHICLESTRANSPORTATION
 
-## YEAR7
+# YEAR7
 
-### 1750 1850 1800 1900 1950 20102
+1750 1850 1800 1900 1950 20102
 
-### 0BILLION PHONE SUBSCRIPTIONSTELE–
+0BILLION PHONE SUBSCRIPTIONSTELE–
 
-## COMMUNICATION
+# COMMUNICATION
 
-## YEAR1000
+# YEAR1000
 
-### 1750 1850 1800 1900 1950 2010200
+1750 1850 1800 1900 1950 2010200
 
-### 0MILLION ARRIVALSINTERNATIONAL
+0MILLION ARRIVALSINTERNATIONAL
 
-## TOURISMYEAR35
+# TOURISMYEAR35
 
-### 1750 1850 1800 1900 1950 2010510
+1750 1850 1800 1900 1950 2010510
 
-## 0THOUSAND DAMSLARGE DAMS
+0THOUSAND DAMSLARGE DAMS
 
-## YEAR1
+# YEAR1
 
-### 1750 1850 1800 1900 1950 20100.25
+1750 1850 1800 1900 1950 20100.25
 
-### 0THOUSAND CUBIC MILESWATER USE
+0THOUSAND CUBIC MILESWATER USE
 
-## YEAR400
+# YEAR400
 
-### 1750 1850 1800 1900 1950 2010100
+1750 1850 1800 1900 1950 2010100
 
-## 0MILLION TONSPAPER
+0MILLION TONSPAPER
 
-## PRODUCTIONYEAR4
+# PRODUCTIONYEAR4
 
-### 1750 1850 1800 1900 1950 20100BILLIONURBAN
+1750 1850 1800 1900 1950 20100BILLIONURBAN
 
-## POPULATION
+# POPULATION
 
-## YEAR13
+# YEAR13
 
-### 1750 1850 1800 1900 1950 20101
+1750 1850 1800 1900 1950 20101
 
-### 0TON OF OIL EQUIVALENT (TOE)PRIMARY
+0TON OF OIL EQUIVALENT (TOE)PRIMARY
 
-## ENERGY USE
+# ENERGY USE
 
-## YEAR200
+# YEAR200
 
-### 1750 1850 1800 1900 1950 201050
+1750 1850 1800 1900 1950 201050
 
-## 0MILLION TONSFERTILIZER
+0MILLION TONSFERTILIZER
 
-## CONSUMPTIONYEAR8
+# CONSUMPTIONYEAR8
 
-### 1750 1850 1800 1900 1950 2010BILLIONWORLD
+1750 1850 1800 1900 1950 2010BILLIONWORLD
 
-## POPULATION
+# POPULATION
 
-## YEAR70
+# YEAR70
 
-### 1750 1850 1800 1900 1950 20101020
+1750 1850 1800 1900 1950 20101020
 
-## 0TRILLION US DOLLARSREAL GDP
+0TRILLION US DOLLARSREAL GDP
 
 YEAR2.
 
 1750 1850 1800 1900 1950 20100TRILLION US DOLLARSFOREIGN DIRECT
 
-### INVESTMENTSOCIOECONOMIC TRENDS
+# INVESTMENTSOCIOECONOMIC TRENDS
 
 US_001-004_Plate_B.
 
@@ -12742,95 +12742,95 @@ indd 2US_001-004_Plate_B.
 
 indd 2 26/01/2021 09:2826/01/2021 09:28
 
-## B3YEAR30
+# B3YEAR30
 
-### 1750 1850 1800 1900 1950 20105
+1750 1850 1800 1900 1950 20105
 
-## 0% LOSS (AREA)TROPICAL
+0% LOSS (AREA)TROPICAL
 
-## FOREST LOSS
+# FOREST LOSS
 
-## YEAR50
+# YEAR50
 
 1750 1850 1800 1900 1950 20100% OF TOTAL LAND AREADOMESTICATED
 
-## LAND
+# LAND
 
-## YEAR40
+# YEAR40
 
-### 1750 1850 1800 1900 1950 20100% DECREASE IN MEAN
+1750 1850 1800 1900 1950 20100% DECREASE IN MEAN
 
-## SPECIES ABUNDANCETERRESTRIAL
+# SPECIES ABUNDANCETERRESTRIAL
 
-## BIOSPHERE
+# BIOSPHERE
 
 DEGRADATIONYEAR1750 1850 1800 1900 1950 201020406080
 
-## 0MILLION TONSMARINE FISH
+0MILLION TONSMARINE FISH
 
-## CAPTURE
+# CAPTURE
 
-## YEAR4
+# YEAR4
 
-### 1750 1850 1800 1900 1950 20101
+1750 1850 1800 1900 1950 20101
 
-## 0MILLION TONSSHRIMP
+0MILLION TONSSHRIMP
 
-## AQUACULTURE
+# AQUACULTURE
 
-## YEAR100
+# YEAR100
 
-### 1750 1850 1800 1900 1950 201020
+1750 1850 1800 1900 1950 201020
 
-## 0HUMAN N FLUX MTONS YR1
+0HUMAN N FLUX MTONS YR1
 
-## COASTAL
+# COASTAL
 
-## NITROGENYEAR100
+# NITROGENYEAR100
 
-### 1750 1850 1800 1900 1950 201020
+1750 1850 1800 1900 1950 201020
 
-## 0% LOSS STRATOSPHERIC
+0% LOSS STRATOSPHERIC
 
-## OZONE
+# OZONE
 
-## YEAR1
+# YEAR1
 
-### 1750 1850 1800 1900 1950 2010-0.5
+1750 1850 1800 1900 1950 2010-0.5
 
-### -1TEMPERATURE ANOMAL Y ºF SURFACE
+-1TEMPERATURE ANOMAL Y ºF SURFACE
 
-## TEMPERATURE
+# TEMPERATURE
 
-## YEAR8
+# YEAR8
 
-### 1750 1850 1800 1900 1950 20106.
+1750 1850 1800 1900 1950 20106.
 
 5HYDROGEN ION, NMOL KG1
 
-## OCEAN
+# OCEAN
 
-## ACIDIFICATIONYEAR390
+# ACIDIFICATIONYEAR390
 
-### 1750 1850 1800 1900 1950 2010300
+1750 1850 1800 1900 1950 2010300
 
 270ATMOSPHERIC CONC.
 
 , PPMCARBON
 
-## DIOXIDE
+# DIOXIDE
 
-## YEAR320
+# YEAR320
 
-### 1750 1850 1800 1900 1950 2010260ATMOSPHERIC CONC.
+1750 1850 1800 1900 1950 2010260ATMOSPHERIC CONC.
 
 , PPBNITROUS
 
-## OXIDE
+# OXIDE
 
-## YEAR1800
+# YEAR1800
 
-### 1750 1850 1800 1900 1950 2010800
+1750 1850 1800 1900 1950 2010800
 
 600ATMOSPHERIC CONC.
 
@@ -12842,19 +12842,19 @@ indd 3US_001-004_Plate_B.
 
 indd 3 26/01/2021 09:2826/01/2021 09:28
 
-## PLANETARY BOUNDARIES
+# PLANETARY BOUNDARIES
 
 In 2009, researchers identi/f_i ed nine
 
 planetary boundaries.
 
-## These are the
+# These are the
 
 critical variables for maintaining Earth in a
 
-## stable state
+stable state
 
-## similar to the Holocene—the
+similar to the Holocene—the
 
 climate and ecological conditions of the
 
@@ -12866,49 +12866,49 @@ research concluded that human impact has
 
 led to the transgression of four planetary
 
-## boundaries
+boundaries
 
-## climate
+climate
 
-## biodiversity
+biodiversity
 
 land, and
 
-### biogeochemical /f_l ows (nitrogen and
+biogeochemical /f_l ows (nitrogen and
 
 phosphorus use).
 
-### Beyond zone of uncertainty (high risk)
+Beyond zone of uncertainty (high risk)
 
 In zone of uncertainty (increasing risk)
 
-## Below boundary (safe)
+Below boundary (safe)
 
-### Boundary not yet quanti/f_i ed
+Boundary not yet quanti/f_i ed
 
-## LandsystemStratosphericNovel
+# LandsystemStratosphericNovel
 
-## BiosphereClimate
+# BiosphereClimate
 
 changeozonedepletionentitiesintegritychange
 
-## use
+use
 
-## aerosolloading
+aerosolloading
 
 acidi/f_ication/f_lowsFreshwaterAtmosphere
 
 OceanBiogeochemicalFunctionalGenetic (noglobalquanti/f_ication)
 
-## (noglobalquanti/f_ication)
+(noglobalquanti/f_ication)
 
-## PhosphorusNitrogendiversity
+# PhosphorusNitrogendiversity
 
-## (noglobal
+(noglobal
 
-## quanti/f_ication)diversity
+quanti/f_ication)diversity
 
-## B4
+B4
 
 US_001-004_Plate_B.
 
@@ -12918,15 +12918,15 @@ indd 4 26/01/2021 09:2826/01/2021 09:28
 
 While many countries acted swiftly and responsibly as scientific
 
-### knowledge of the catastrophe grew
+knowledge of the catastrophe grew
 
-## some national leaders
+some national leaders
 
-## such as
+such as
 
 President Donald Trump in the United States and President Jair
 
-## Bolsonaro in Brazil
+# Bolsonaro in Brazil
 
 dismissed epidemiologists and the advice of
 
@@ -12938,31 +12938,31 @@ but they also challenged the scientific process and the legitimacy of
 
 science to provide guidance.
 
-### This should give us all great cause for
+# This should give us all great cause for
 
-## concern as a bigger
+concern as a bigger
 
 more profound crisis engulfs us.
 
-## There is a lot to be said
+# There is a lot to be said
 
-### and much will be analyzed and debated
+and much will be analyzed and debated
 
 about the links between the coronavirus and the planetary scale
 
-### degradation of our life-support systems
+degradation of our life-support systems
 
-## the biosphere and the
+the biosphere and the
 
 climate system.
 
-### COVID-19 is a zoonotic disease
+# COVID-19 is a zoonotic disease
 
-## one that has leapt
+one that has leapt
 
 from animals to humans.
 
-### Such interactions have intensified as
+# Such interactions have intensified as
 
 natural habitats for wildlife disappear and humans live in densely
 
@@ -12970,15 +12970,15 @@ populated cities.
 
 There are clear links between biodiversity loss
 
-## deforestation
+deforestation
 
 and the emergence of novel viruses.
 
-## Forest edges are
+# Forest edges are
 
 a breeding ground for new strains of human viruses.
 
-## Research
+# Research
 
 shows that people and their livestock are more likely to come into
 
@@ -12986,63 +12986,63 @@ contact with wildlife when we destroy more than 25 percent of
 
 original forest cover.
 
-## We can
+# We can
 
-## therefore
+therefore
 
-## make a general conclusion
+make a general conclusion
 
-## about COVID-19
+about COVID-19
 
 the pandemic was a result of our connected
 
-## crowded
+crowded
 
 and vulnerable world in the Anthropocene.
 
-## We cannot
+# We cannot
 
 hope to prevent future pandemics without also addressing the
 
 sustainability of our planet.
 
-## In this respect
+# In this respect
 
-## coronavirus
+coronavirus
 
-## climate change
+climate change
 
-## and ecological collapse
+and ecological collapse
 
 are the same.
 
 The key insight is that in the Anthropocene
 
-## all of us are
+all of us are
 
-## not only connected
+not only connected
 
 but also interdependent.
 
 In the Anthropocene,
 
-## what you do affects me
+what you do affects me
 
 wherever either of us is on Earth.
 
 The pandemic is a manifestation of our globalized world
 
-## characterized by connectivity
+characterized by connectivity
 
 scale, surprise
 
 and speed.
 
-## Now is the
+# Now is the
 
 time to recognize our failures and vulnerabilities.
 
-## But we should never
+# But we should never
 
 let a crisis go to waste.
 
@@ -13052,9 +13052,9 @@ societies that embrace resilience to shocks and human development
 
 on a stable planet.
 
-## To avert our planetary crisis
+# To avert our planetary crisis
 
-## we need to couple
+we need to couple
 
 our people’s and our planet’s health into one transformative agenda
 
@@ -13062,7 +13062,7 @@ for our common future on Earth.
 
 Nothing less.
 
-## 97 CHAPTER 8 97
+97 CHAPTER 8 97
 
 US_064-105_321647_BB_Chap5-8.
 
@@ -13070,7 +13070,7 @@ indd 97US_064-105_321647_BB_Chap5-8.
 
 indd 97 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 Earth is now unstable.
 
@@ -13086,21 +13086,21 @@ independent body responsible for marshaling thousands of climate
 
 researchers to assess evidence of climate change
 
-## risks and impacts
+risks and impacts
 
-## of global warming
+of global warming
 
 and pathways to solve the climate crisis.
 
 In 2018,
 
-### based on thousands of scientific papers
+based on thousands of scientific papers
 
-## it provided strong evidence
+it provided strong evidence
 
 that approaching 3.
 
-### 6°F (2°C) global warming would lead to
+6°F (2°C) global warming would lead to
 
 unacceptable suffering and economic hardship for hundreds of
 
@@ -13110,17 +13110,17 @@ As a result, 2.
 
 7°F (1.
 
-## 5°C) global
+5°C) global
 
 warming is now scientifically established as the climate planetary
 
 boundary.
 
-## It is not a safe level
+# It is not a safe level
 
 let us make that very clear.
 
-## There are
+# There are
 
 still risks.
 
@@ -13144,15 +13144,15 @@ At global warming of 2.
 
 5°C), maintaining crop yields,
 
-## managing disease spread
+managing disease spread
 
-## and dealing with heat waves
+and dealing with heat waves
 
-## droughts
+droughts
 
 and other extreme weather will not be easy.
 
-## But it will be far easier
+# But it will be far easier
 
 than at 3.
 
@@ -13160,7 +13160,7 @@ than at 3.
 
 This is becoming increasingly obvious.
 
-## Nudging
+# Nudging
 
 the mercury up another 0.
 
@@ -13170,7 +13170,7 @@ the mercury up another 0.
 
 terrifying journey into the unknown.
 
-## The United Nation’s Paris
+The United Nation’s Paris
 
 Agreement of 2015 commits countries to act to keep temperature
 
@@ -13182,11 +13182,11 @@ well below 3.
 
 5°C).
 
-## The science
+# The science
 
 confirms that this is a sound decision for our future on Earth.
 
-## However
+# However
 
 the actions that countries have promised to take are only
 
@@ -13196,13 +13196,13 @@ enough to hold temperature to 5.
 
 And, as we explained in
 
-## Chapter 7
+# Chapter 7
 
 we cannot rule out that going beyond 3.
 
-## 6°F (2°C) may set
+6°F (2°C) may set
 
-### off a cascade of tipping points
+off a cascade of tipping points
 
 sending us toward a hothouse state.
 
@@ -13224,29 +13224,29 @@ humans a manageable future.
 
 Go to 3.
 
-## 6°F (2°C) and impacts will be
+6°F (2°C) and impacts will be
 
 more ferocious.
 
-## Second
+# Second
 
-### this future only considers immediate
+this future only considers immediate
 
 impacts.
 
 We also have the risk of crossing tipping points
 
-## triggering
+triggering
 
 self-reinforcing warming by Earth itself.
 
 Pass 3.
 
-## 6°F (2°C) and we
+6°F (2°C) and we
 
 cannot exclude that we may be pushing the “on” button
 
-## raising
+raising
 
 global temperatures another 0.
 
@@ -13254,7 +13254,7 @@ global temperatures another 0.
 
 5°C).
 
-## This then risks an
+# This then risks an
 
 unstoppable cascade.
 
@@ -13266,11 +13266,11 @@ indd 98US_064-105_321647_BB_Chap5-8.
 
 indd 98 16/02/2021 11:3016/02/2021 11:30
 
-## 99 CHAPTER 8
+99 CHAPTER 8
 
 In addition to this climate-related analysis
 
-## in 2019 the most
+in 2019 the most
 
 important scientific report on biodiversity was published.
 
@@ -13282,7 +13282,7 @@ species risk extinction.
 
 Is all of this enough to declare a planetary emergency?
 
-### Declaring a planetary emergency
+# Declaring a planetary emergency
 
 Deciding to declare a planetary emergency cannot be taken lightly.
 
@@ -13292,15 +13292,15 @@ Who has the authority?
 
 The responsibility falls to political leaders.
 
-## The role of scientists is
+# The role of scientists is
 
 to help determine whether there is enough evidence to do so.
 
-## example
+example
 
 during the Chernobyl (1986) and Fukushima (2011)
 
-## nuclear disasters
+nuclear disasters
 
 politicians and engineers needed to understand
 
@@ -13308,15 +13308,15 @@ the immediate and longer-term risks so that they could make the
 
 right decisions.
 
-### With expert advice from scientists
+# With expert advice from scientists
 
-## they were able
+they were able
 
 to act quickly to contain the catastrophes in what were clearly
 
 emergency situations.
 
-## In 2019
+# In 2019
 
 we explored with scientific colleagues whether the case
 
@@ -13332,23 +13332,23 @@ First,
 
 the world needs to stay as far below 3.
 
-## 6°F (2°C) global warming as
+6°F (2°C) global warming as
 
 possible.
 
 The best way to do this is to exit fossil fuels immediately
 
-## stop deforestation
+stop deforestation
 
-### and rebuild the resilience of forests
+and rebuild the resilience of forests
 
-## oceans
+oceans
 
 wetlands.
 
-## Realistically
+# Realistically
 
-### we probably will not be able to keep
+we probably will not be able to keep
 
 temperature below 2.
 
@@ -13356,7 +13356,7 @@ temperature below 2.
 
 5°C).
 
-## We can only emit another 350
+# We can only emit another 350
 
 billion tons (320 billion metric tons) of carbon dioxide if we want a
 
@@ -13372,29 +13372,29 @@ more than 10 percent of our remaining carbon dioxide budget.
 
 The second line of reasoning relates to tipping points.
 
-## When the
+# When the
 
 first major research on tipping points was published in 2008
 
-## there
+there
 
 were no signs that we might be getting close to waking the sleeping
 
 giants.
 
-## Back then
+# Back then
 
 we thought that there would only be a high risk
 
 of this happening at 5.
 
-## 4 or 7.
+4 or 7.
 
 2°F (3 or 4°C) global warming.
 
 In 2019, we revisited this research.
 
-## What we discovered was the
+# What we discovered was the
 
 biggest shock of our careers.
 
@@ -13406,75 +13406,75 @@ indd 99US_064-105_321647_BB_Chap5-8.
 
 indd 99 16/02/2021 11:3016/02/2021 11:30
 
-## ACT II
+# ACT II
 
 that many of the cascading tipping points are already at risk
 
 and are beginning to change in profound and
 
-## frankly
+frankly
 
-## quite
+quite
 
 disturbing ways.
 
 The permafrost in Siberia is now thawing.
 
-## Russians have built
+# Russians have built
 
 roads, houses
 
-## factories
+factories
 
-## and pipelines on permafrost
+and pipelines on permafrost
 
-## believing it to
+believing it to
 
 be, well, permanent.
 
 Roads and pipelines are buckling.
 
-## Permafrost
+# Permafrost
 
 is not meant to behave in this way.
 
 But the bigger risk, as always, is
 
-### the greenhouse gases trapped in the ice
+the greenhouse gases trapped in the ice
 
-## sometimes known as a
+sometimes known as a
 
 carbon bomb.
 
 Permafrost in the Arctic region holds 1.
 
-## 87 trillion
+87 trillion
 
 tons (1.
 
-### 7 trillion metric tons) of carbon.
+7 trillion metric tons) of carbon.
 
-## This is more than double the
+# This is more than double the
 
 carbon we have emitted into the atmosphere from fossil fuel burning
 
 since the start of the industrial revolution.
 
-## This is stable as long as
+# This is stable as long as
 
 the permafrost remains frozen.
 
-### But the Arctic is the fastest-warming
+# But the Arctic is the fastest-warming
 
-## region on Earth
+region on Earth
 
 and it is destabilizing.
 
-## What happens if it starts to
+# What happens if it starts to
 
 accelerate?
 
-## Unfortunately
+# Unfortunately
 
 this is not the only risk in the region.
 
@@ -13482,39 +13482,39 @@ forest and peatlands of the far north are drying out
 
 too, creating Greenland Ice Sheet
 
-## Ice loss accelerating
+# Ice loss accelerating
 
-## Boreal forest
+# Boreal forest
 
-## Fires and pests changing
+# Fires and pests changing
 
-## Atlantic circulation
+# Atlantic circulation
 
-## Slowdown since 1950s
+# Slowdown since 1950s
 
-## Amazon rain forest
+# Amazon rain forest
 
-## Frequent droughts
+# Frequent droughts
 
-## West Antarctic Ice Sheet
+# West Antarctic Ice Sheet
 
-### Ice loss acceleratingWilkes Basin
+# Ice loss acceleratingWilkes Basin
 
-## East Antarctic
+# East Antarctic
 
-### Ice loss acceleratingCoral reefs
+# Ice loss acceleratingCoral reefs
 
-### Large scale die-offsArctic sea ice
+# Large scale die-offsArctic sea ice
 
-## Reduction in area
+# Reduction in area
 
-## Permafrost
+# Permafrost
 
-## ThawingActive tipping points
+# ThawingActive tipping points
 
-## Until very recently
+# Until very recently
 
-## scientists thought the
+scientists thought the
 
 dangers of crossing tipping points would
 
@@ -13522,7 +13522,7 @@ arrive much later this century.
 
 Now, we
 
-### can measure large-scale changes already
+can measure large-scale changes already
 
 underway in many important places.
 
@@ -13530,11 +13530,11 @@ US_064-105_321647_BB_Chap5-8.
 
 indd 100US_064-105_321647_BB_Chap5-8.
 
-## indd 100 16/02/2021 11
+indd 100 16/02/2021 11
 
-## 3016/02/2021 11
+3016/02/2021 11
 
-## 101 CHAPTER 8
+101 CHAPTER 8
 
 bigger, more fierce fires in the Arctic.
 
@@ -13544,37 +13544,37 @@ billowing from Siberian forest fires was larger than Europe.
 
 Greenland has lost almost 4.
 
-### 4 trillion tons (4 trillion metric tons)
+4 trillion tons (4 trillion metric tons)
 
 of ice since 1992.
 
 Ice is slipping into the sea at an accelerating pace.
 
-## During 2019’s heat wave
+During 2019’s heat wave
 
-### 660 billion tons (600 billion metric tons) of
+660 billion tons (600 billion metric tons) of
 
-## ice melted in two months
+ice melted in two months
 
 raising sea levels 1 millimeter (0.
 
-## 04 inches)
+04 inches)
 
 per month.
 
 Greenland’s tipping point was once estimated at above
 
-## 6°F (2°C) global warming
+6°F (2°C) global warming
 
-### but now we have to seriously ask
+but now we have to seriously ask
 
-## Could
+# Could
 
 it reach a tipping point below 3.
 
 6°F (2°C)?
 
-## And in 2020
+# And in 2020
 
 researchers measuring how the Amazon rain forest
 
@@ -13588,7 +13588,7 @@ storing less and less carbon.
 
 It can no longer cope with our attacks.
 
-## By 2035
+# By 2035
 
 and perhaps as early as 2030—in just a decade—the rain
 
@@ -13614,11 +13614,11 @@ unstable, as global temperatures rise.
 
 The East Antarctic Ice Sheet,
 
-## on the other hand
+on the other hand
 
 was thought to be very resilient to warming
 
-## that
+that
 
 is, Earth would need to reach a scorching 9°F (5°C) warmer than
 
@@ -13632,13 +13632,13 @@ known major tipping elements of the Earth system are on the move
 
 showing signs of weakening.
 
-## In 2019
+# In 2019
 
 researchers found a cavern two-thirds the size of
 
 Manhattan beneath Thwaites Glacier in West Antarctica.
 
-## Melting
+# Melting
 
 seems to have hollowed out this vast cavity over the past three years.
 
@@ -13648,7 +13648,7 @@ grounding line—the very point a glacier loses contact with the rock
 
 beneath and becomes a floating ice shelf—is at 3.
 
-## 6°F (2°C) above
+6°F (2°C) above
 
 freezing.
 
@@ -13660,37 +13660,37 @@ the grounding line … and the glacier.
 
 How bad is this news?
 
-### The Thwaites and Pine Island glaciers
+# The Thwaites and Pine Island glaciers
 
 protect the whole West Antarctic Ice Sheet from collapse.
 
-## They
+# They
 
 US_064-105_321647_BB_Chap5-8.
 
 indd 101US_064-105_321647_BB_Chap5-8.
 
-## indd 101 16/02/2021 11
+indd 101 16/02/2021 11
 
-## 3016/02/2021 11
+3016/02/2021 11
 
-## ACT II
+# ACT II
 
 function as plugs holding the upstream glaciers from sliding into
 
 the ocean.
 
-### If the whole ice sheet disintegrates
+# If the whole ice sheet disintegrates
 
-## the water it releases
+the water it releases
 
 will be enough to raise sea levels by 10 feet (3 meters).
 
-## This could
+# This could
 
 take a few centuries according to some models
 
-## or it could be much
+or it could be much
 
 faster.
 
@@ -13706,19 +13706,19 @@ The grounding line where ice meets water
 
 meets rock has now crept over the rim of the dip
 
-## and the water can
+and the water can
 
-### flood unimpeded under the glacier
+flood unimpeded under the glacier
 
 thereby accelerating collapse.
 
 Once you see the inevitability of the physics
 
-## you start to get
+you start to get
 
 extremely nervous indeed.
 
-## In 2019
+# In 2019
 
 the authors of the IPCC blockbuster report on the ocean
 
@@ -13742,45 +13742,45 @@ We see the risks.
 
 And we must act.
 
-## Even if we have
+# Even if we have
 
-### crossed the point of no return
+crossed the point of no return
 
-### there is still a chance we can control
+there is still a chance we can control
 
 the speed of collapse and probably prevent the entire collapse of
 
 Antarctica (which holds enough water to raise sea levels more than
 
-## 200 feet [60 meters]).
+200 feet [60 meters]).
 
 Here’s what we know.
 
-### Significant parts of Antarctica and
+# Significant parts of Antarctica and
 
 Greenland are destabilizing.
 
-### Computer models say this is possible
+# Computer models say this is possible
 
-## at current temperatures
+at current temperatures
 
-### the data show they most definitely are
+the data show they most definitely are
 
 geological data from ice cores and rocks indicate that in the past
 
 they have destabilized at the same temperature.
 
-## That is three
+# That is three
 
 separate lines of inquiry.
 
-## As Douglas Adams said
+# As Douglas Adams said
 
-## “If it looks like a
+“If it looks like a
 
 duck, and quacks like a duck
 
-### we have at least to consider the
+we have at least to consider the
 
 possibility that we have a small aquatic bird of the family Anatidae
 
@@ -13788,51 +13788,51 @@ on our hands.
 
 The paleo data are interesting.
 
-### We can look at past interglacials
+# We can look at past interglacials
 
 during the ice age cycles of the past 2.
 
-## 7 million years.
+7 million years.
 
-## When
+# When
 
 temperature rise was a little lower than today (1.
 
-## 8°F [1°C] global
+8°F [1°C] global
 
-## warming)
+warming)
 
 sea levels stabilized at 20 to 30 feet (6 to 9 meters) higher
 
-## than today
+than today
 
 as a result of a destabilized Greenland and Antarctica.
 
 When temperature was 1.
 
-## 8 to 3.
+8 to 3.
 
 6°F (1 to 2°C) global warming, sea
 
 levels rose up to 43 feet (13 meters) above today’s levels.
 
-## In this
+# In this
 
-## scenario
+scenario
 
 most coastal cities will have to adapt or die.
 
-## The costs will
+# The costs will
 
 US_064-105_321647_BB_Chap5-8.
 
 indd 102US_064-105_321647_BB_Chap5-8.
 
-## indd 102 16/02/2021 11
+indd 102 16/02/2021 11
 
-## 3016/02/2021 11
+3016/02/2021 11
 
-## 103 CHAPTER 8
+103 CHAPTER 8
 
 be colossal.
 
@@ -13850,17 +13850,17 @@ First, ice
 
 sheet collapse.
 
-## Second
+# Second
 
-## carbon bombs
+carbon bombs
 
-## turning stable carbon storage
+turning stable carbon storage
 
-## systems—the rain forests
+systems—the rain forests
 
-## boreal forests
+boreal forests
 
-## and permafrost—into
+and permafrost—into
 
 unstable carbon sources.
 
@@ -13868,21 +13868,21 @@ We are juggling fireballs while standing
 
 unnervingly close to a gas station.
 
-## Risk and urgency
+# Risk and urgency
 
 The transition from stable planet to unstable planet is happening
 
 on our watch.
 
-## We have little time to act
+# We have little time to act
 
-## and we risk irreversible
+and we risk irreversible
 
-## catastrophe
+catastrophe
 
-### affecting all future generations
+affecting all future generations
 
-## if we do not respond
+if we do not respond
 
 swiftly.
 
@@ -13894,29 +13894,29 @@ An emergency is related to risk and urgency.
 
 We have already established that the risks are now sky-high.
 
-## When
+# When
 
-## it comes to urgency
+it comes to urgency
 
 we have 10 years to cut emissions in half
 
-## the very least
+the very least
 
 and 30 years to become carbon neutral.
 
-## It will take
+# It will take
 
 a minimum of 30 years to achieve this.
 
-## If a patient suffers a heart
+# If a patient suffers a heart
 
 attack and needs to be treated within five minutes
 
-## the situation is
+the situation is
 
 controlled if paramedics can get there within that time.
 
-## It is out of
+# It is out of
 
 control if they cannot.
 
@@ -13926,11 +13926,11 @@ Declaring an emergency and ramping up action right now also
 
 make sense for the economy.
 
-### When COVID-19 took a hold on our
+# When COVID-19 took a hold on our
 
 planet, economies went into shock.
 
-## This made managing the crisis
+# This made managing the crisis
 
 doubly difficult.
 
@@ -13938,31 +13938,31 @@ An economy in free fall is hardly a good foundation
 
 for transformative action.
 
-### Acting on the planetary emergency now
+# Acting on the planetary emergency now
 
 and focusing on using the economy to drive societal transformation
 
 will combine growth in prosperity with resilience.
 
-## At the time of writing
+# At the time of writing
 
-## more than 1
+more than 1
 
-## 700 towns
+700 towns
 
-## cities
+cities
 
-## states
+states
 
 regions have declared climate emergencies in 26 countries
 
-## covering
+covering
 
 almost 1 billion people.
 
-## Indeed
+# Indeed
 
-### the movement to declare emergencies
+the movement to declare emergencies
 
 has been rising exponentially.
 
@@ -13972,31 +13972,31 @@ declared a climate emergency.
 
 One month later, during a chaotic
 
-## period in UK politics
+period in UK politics
 
 as Brexit dominated headlines and political
 
-### parties could barely agree on anything
+parties could barely agree on anything
 
-## politicians did manage to
+politicians did manage to
 
-## find some common ground
+find some common ground
 
-### parliament agreed to enshrine a hugely
+parliament agreed to enshrine a hugely
 
 ambitious climate target of reaching net zero by 2050.
 
-## The United
+# The United
 
 US_064-105_321647_BB_Chap5-8.
 
 indd 103US_064-105_321647_BB_Chap5-8.
 
-## indd 103 16/02/2021 11
+indd 103 16/02/2021 11
 
-## 3016/02/2021 11
+3016/02/2021 11
 
-## ACT II
+# ACT II
 
 Kingdom is the first major economy to do so.
 
@@ -14004,7 +14004,7 @@ Personally, we were
 
 stunned by the speed and conviction shown.
 
-## This was utterly
+# This was utterly
 
 unthinkable just 12 months earlier.
 
@@ -14016,29 +14016,29 @@ trait of human resilience and ingenuity is our extraordinary stamina
 
 and capacity to rise after disasters.
 
-### One of the first recorded natural
+# One of the first recorded natural
 
 catastrophes is a colossal flood that appears in several mythologies
 
-## and religions
+and religions
 
 most notably in the biblical story of Noah’s ark.
 
-## Given
+# Given
 
 that this catastrophic flood features in the writings of several
 
-## civilizations
+civilizations
 
 could it be based on a real event?
 
-## Some scholars think
+# Some scholars think
 
 it may be a direct reference to the major global flooding that must
 
 have occurred at the end of the last ice age
 
-## when some ice sheets
+when some ice sheets
 
 abruptly collapsed and the sea level rose many feet within a short
 
@@ -14048,95 +14048,95 @@ Word of mouth passing from grandparents to
 
 grandchildren could plausibly have kept the tale alive for 200
 
-## generations
+generations
 
 until the dawn of cuneiform and stone tablets.
 
 We have not had to contend with epic floods for 10
 
-## 000 years
+000 years
 
 we have been blessed by the relative stability of the Holocene.
 
-## As we
+# As we
 
-### step deeper into the Anthropocene
+step deeper into the Anthropocene
 
-## though
+though
 
-## such apocalyptic
+such apocalyptic
 
-### flooding becomes increasingly plausible
+flooding becomes increasingly plausible
 
 if not inevitable.
 
 So, too,
 
-### does the spread of more disease
+does the spread of more disease
 
-## affecting humans
+affecting humans
 
-## animals
+animals
 
 plants.
 
-## Without action
+# Without action
 
-### we risk the collapse of grain-producing
+we risk the collapse of grain-producing
 
 regions through extended droughts.
 
-## And a spike in heat-related
+# And a spike in heat-related
 
 deaths.
 
 And growing carbon bubbles and market volatility.
 
-## We are
+# We are
 
 at the point of no return.
 
 This is not a drill.
 
-## Consequently
+# Consequently
 
-## we have
+we have
 
 for the first (and probably only) time in
 
-## modern history
+modern history
 
 enough evidence to declare a planetary emergency.
 
-## The Earthshot
+# The Earthshot
 
-## In 2019
+# In 2019
 
 we collaborated with Sandrine Dixson-Declève
 
-### copresident of the Club of Rome
+copresident of the Club of Rome
 
-## Bernadette Fischler
+# Bernadette Fischler
 
-## head of
+head of
 
-## advocacy at WWF-UK
+advocacy at WWF-UK
 
-### and other colleagues to help draft a
+and other colleagues to help draft a
 
 planetary emergency declaration.
 
-## This was launched at a United
+# This was launched at a United
 
-## Nations event in New York
+# Nations event in New York
 
-### linked to the United Nations Climate
+linked to the United Nations Climate
 
 Action Summit.
 
 More than 10 heads of state supported the call for
 
-## the declaration
+the declaration
 
 including UK Prime Minister Boris Johnson.
 
@@ -14150,31 +14150,31 @@ US_064-105_321647_BB_Chap5-8.
 
 indd 104US_064-105_321647_BB_Chap5-8.
 
-## indd 104 23/02/2021 10
+indd 104 23/02/2021 10
 
-## 5223/02/2021 10
+5223/02/2021 10
 
-## 105 CHAPTER 8
+105 CHAPTER 8
 
-## opened the event saying
+opened the event saying
 
-### “There are more UN bureaucrats in the
+“There are more UN bureaucrats in the
 
 world than there are Indian tigers on Earth.
 
-## There are more heads
+# There are more heads
 
 of state than there are humpback whales.
 
-## ” Although they were once
+” Although they were once
 
-## heading to extinction
+heading to extinction
 
-### humpback whales now number more than
+humpback whales now number more than
 
 100,000—a success story of government intervention.
 
-## But we know
+# But we know
 
 what he was trying to say.
 
@@ -14188,15 +14188,15 @@ fuel exploration.
 
 • Stop further expansion of agricultural land
 
-## and build up the
+and build up the
 
 resilience of our most vital ecosystems.
 
 • End the crazy subsidies for fossil fuels
 
-## totaling about $500
+totaling about $500
 
-## billion every year
+billion every year
 
 and more like $5 trillion when you count
 
@@ -14204,11 +14204,11 @@ health impacts and pollution.
 
 In fact, if fossil fuels were priced
 
-## correctly
+correctly
 
 greenhouse gases would be reduced by more than
 
-## 28 percent.
+28 percent.
 
 • And put a price on carbon starting at a minimum of $30 per ton
 
@@ -14224,9 +14224,9 @@ economic and social transformation.
 
 We updated the text in 2020,
 
-### in light of the COVID-19 pandemic
+in light of the COVID-19 pandemic
 
-## to emphasize actions that
+to emphasize actions that
 
 reduce the risk of further global health crises and that align the
 
@@ -14240,7 +14240,7 @@ markets to ensure they remain stable during the transformation.
 
 reality, this is just the beginning.
 
-### As we come to a close on Act II
+# As we come to a close on Act II
 
 the stakes could not be higher.
 
@@ -14250,9 +14250,9 @@ In Act III, we will further
 
 develop the Earthshot.
 
-### The starting point is a new worldview
+# The starting point is a new worldview
 
-## true planetary stewardship—
+true planetary stewardship—
 
 operating the global economy within planetary boundaries.
 
@@ -14260,41 +14260,41 @@ US_064-105_321647_BB_Chap5-8.
 
 indd 105US_064-105_321647_BB_Chap5-8.
 
-## indd 105 23/02/2021 10
+indd 105 23/02/2021 10
 
-## 5223/02/2021 10
+5223/02/2021 10
 
-## ACT
+# ACT
 
-## III106 ACT III
+# III106 ACT III
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 106US_106-195_321647_BB_Chap9-16.
 
-## indd 106 16/02/2021 11
+indd 106 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT
+# ACT
 
-## III107 CHAPTER 9
+# III107 CHAPTER 9
 
-## PLANETARY
+# PLANETARY
 
-## STEWARDSHIP
+# STEWARDSHIP
 
-### Nature is not a sector of our society
+# Nature is not a sector of our society
 
-## it’s a
+it’s a
 
 prerequisite for it.
 
-## We humans do not exist
+# We humans do not exist
 
 outside the biosphere, we’re part of it.
 
-## We are
+# We are
 
 dependent on the biosphere and our actions—
 
@@ -14304,9 +14304,9 @@ impact on the planet’s capacity to sustain us.
 
 We have to reconnect with our planet.
 
-## CARL FOLKE
+# CARL FOLKE
 
-## STOCKHOLM RESILIENCE CENTER
+# STOCKHOLM RESILIENCE CENTER
 
 The world is changing.
 
@@ -14316,17 +14316,17 @@ Sweden.
 
 As a farmer, he produces milk.
 
-## But he has given up his
+# But he has given up his
 
 dairy herd and now grows oats instead.
 
-## He produces more food
+# He produces more food
 
-## than ever before
+than ever before
 
 and his farm is more profitable.
 
-## Researchers
+# Researchers
 
 have found that swapping cows for oats can reduce greenhouse
 
@@ -14334,7 +14334,7 @@ gas emissions by up to 41 percent.
 
 By the way, Adam no longer
 
-## calls himself a farmer
+calls himself a farmer
 
 he says he is now a biosphere steward.
 
@@ -14344,15 +14344,15 @@ Since 2010, the
 
 market for milk in the United States declined
 
-## but oat milk sales
+but oat milk sales
 
 grew 686 percent in 2019.
 
-### The popularity of plant-based milks is
+# The popularity of plant-based milks is
 
 pushing companies across another tipping point
 
-## bankruptcies in
+bankruptcies in
 
 the dairy industry.
 
@@ -14362,13 +14362,13 @@ with sustainability and health guiding both cow-based and planet-
 
 based dairy production.
 
-## Indeed
+# Indeed
 
 more people like Adam are adopting new ways of
 
 thinking about our world.
 
-### Farmers are noticing how the buzzing
+# Farmers are noticing how the buzzing
 
 bees and chirping birds that once accompanied their work have
 
@@ -14376,25 +14376,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 107US_106-195_321647_BB_Chap9-16.
 
-## indd 107 16/02/2021 11
+indd 107 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
-## now gone quiet
+now gone quiet
 
 and that the streams and rivers around their lands
 
 have become dead zones.
 
-### Many are thinking beyond their own
+# Many are thinking beyond their own
 
-## horizons
+horizons
 
 deepening their knowledge of the biosphere.
 
-## They are
+# They are
 
 discovering how each patch of land is woven into an ecological
 
@@ -14402,25 +14402,25 @@ tapestry.
 
 If they pull the threads too hard in one place
 
-## the whole
+the whole
 
 tapestry unravels.
 
 This interconnectedness is not confined to farming.
 
-## We have
+# We have
 
-## seen how a virus spillover
+seen how a virus spillover
 
-## probably originating in Wuhan
+probably originating in Wuhan
 
 China,
 
 can create havoc across Earth.
 
-### Losing a rain forest can change
+# Losing a rain forest can change
 
-## weather patterns
+weather patterns
 
 leading to more severe droughts in other
 
@@ -14436,13 +14436,13 @@ in the ocean.
 
 Collective action can stop an infection from reaching
 
-## millions of people
+millions of people
 
 as seen to powerful effect in places like New
 
-## Zealand
+# Zealand
 
-## Greece
+# Greece
 
 and South Korea during the pandemic.
 
@@ -14452,11 +14452,11 @@ risks of environmental collapse.
 
 Together, such action will provide
 
-## us with pathways to better
+us with pathways to better
 
-## more attractive
+more attractive
 
-## secure
+secure
 
 fair, and
 
@@ -14470,11 +14470,11 @@ The Anthropocene forces us to reassess our relationship with Earth.
 
 We need to change our worldview and we need a plan.
 
-## If we do not
+# If we do not
 
-## alter how we think and act
+alter how we think and act
 
-### we are on course for “the uninhabitable
+we are on course for “the uninhabitable
 
 Earth” predicted by the US writer David Wallace-Wells in his book
 
@@ -14482,23 +14482,23 @@ of the same name.
 
 If planetary stewardship is our new guiding
 
-## philosophy
+philosophy
 
-## our North Star
+our North Star
 
-### then our plan and our mission this
+then our plan and our mission this
 
-## decade
+decade
 
-### and indeed for several decades to come
+and indeed for several decades to come
 
-## is the Earthshot
+is the Earthshot
 
 which will direct the world’s economic engine in order to restabilize
 
 our life-support system.
 
-### The goal is nothing less than the long-
+# The goal is nothing less than the long-
 
 term habitability of our planet.
 
@@ -14506,7 +14506,7 @@ In this chapter, we will explore
 
 how planetary stewardship is emerging all around us
 
-## we will
+we will
 
 redefine the global commons in line with our latest understanding
 
@@ -14518,7 +14518,7 @@ Planetary stewardship is a paradigm shift in how to think about
 
 the world.
 
-## In 2000
+# In 2000
 
 when Paul Crutzen declared that we were no
 
@@ -14526,29 +14526,29 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 108US_106-195_321647_BB_Chap9-16.
 
-## indd 108 23/02/2021 10
+indd 108 23/02/2021 10
 
-## 5223/02/2021 10
+5223/02/2021 10
 
-## CHAPTER 9
+# CHAPTER 9
 
-## longer in the Holocene
+longer in the Holocene
 
-### but rather in the Anthropocene
+but rather in the Anthropocene
 
-## this marked
+this marked
 
 a scientific paradigm shift.
 
-## Until that moment
+# Until that moment
 
-## scientists were locked
+scientists were locked
 
 in the old way of thinking about the planet—a Holocene worldview.
 
 But paradigm shifts are not the exclusive preserve of science.
 
-## They
+# They
 
 also matter in the real world.
 
@@ -14556,31 +14556,31 @@ We live on a finite planet, but we are
 
 acting as if the planet is infinite.
 
-## Our material use is rising
+# Our material use is rising
 
 exponentially; so, too, is our waste.
 
-## The lily pond may have seemed
+# The lily pond may have seemed
 
-### infinite just one or two decades ago
+infinite just one or two decades ago
 
-## but now we are rubbing up
+but now we are rubbing up
 
 against the boundaries.
 
-### If we are to survive this century
+# If we are to survive this century
 
-## we need to
+we need to
 
 update our worldview.
 
-## Back in 1972
+# Back in 1972
 
 a group of complex systems researchers published
 
 a landmark analysis titled “Limits to Growth
 
-## ” commissioned by
+” commissioned by
 
 the influential Club of Rome.
 
@@ -14588,21 +14588,21 @@ The analysis caused a stir, and it still
 
 does to this day.
 
-## It concluded
+# It concluded
 
-### “If the present growth trends in world
+“If the present growth trends in world
 
-## population
+population
 
-## industrialization
+industrialization
 
-## pollution
+pollution
 
-## food production
+food production
 
-### resource depletion continue unchanged
+resource depletion continue unchanged
 
-## the limits to growth on this
+the limits to growth on this
 
 planet will be reached sometime within the next one hundred years.
 
@@ -14616,15 +14616,15 @@ world has largely continued on the same course of exponential
 
 resource extraction and pollution.
 
-### The “Limits to Growth” analysis
+The “Limits to Growth” analysis
 
 indicates that we should be seeing some signs of major ecological
 
-## economic
+economic
 
 and social problems between 2015 and 2030.
 
-## Few would
+# Few would
 
 doubt that this is precisely what we are witnessing right now.
 
@@ -14638,25 +14638,25 @@ One of the original researchers on the “Limits to Growth” report
 
 the late systems scientist Donella Meadows
 
-## became fixated with
+became fixated with
 
 how complex systems like societies change course.
 
-## At one particular
+# At one particular
 
-## meeting on global trade
+meeting on global trade
 
-### participants were discussing how to
+participants were discussing how to
 
-## connect two institutions
+connect two institutions
 
-### the World Trade Organization and the
+the World Trade Organization and the
 
 North American Free Trade Agreement.
 
-## While listening to the
+# While listening to the
 
-## discussion
+discussion
 
 it occurred to Meadows that the participants were not
 
@@ -14666,19 +14666,19 @@ She recalled,
 
 “Without quite knowing what was happening
 
-## I got up
+# I got up
 
-## marched to
+marched to
 
-## the flip chart
+the flip chart
 
-## tossed over a clean page
+tossed over a clean page
 
 and wrote.
 
 She scribbled down nine places in which to intervene in a complex
 
-## system
+system
 
 in increasing order of effectiveness (see next page).
 
@@ -14688,19 +14688,19 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 109US_106-195_321647_BB_Chap9-16.
 
-## indd 109 16/02/2021 11
+indd 109 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
-## and most effective
+and most effective
 
 place was “The mindset or paradigm out of
 
-## which the system—its goals
+which the system—its goals
 
-## power structure
+power structure
 
 rules, its culture—
 
@@ -14708,17 +14708,17 @@ arises.
 
 ” “Everyone in the meeting blinked in surprise
 
-## including
+including
 
 me,” she later said.
 
 In our global intertwined system of 7.
 
-## 8 billion inhabitants living
+8 billion inhabitants living
 
-## within a complex biosphere
+within a complex biosphere
 
-### the best way to change course is to
+the best way to change course is to
 
 alter the lens through which those people in the system view the
 
@@ -14728,13 +14728,13 @@ Our friend and colleague Carl Folke is the world’s foremost
 
 thinker on sustainability and resilience.
 
-## He starts almost every
+# He starts almost every
 
 single one of his talks with the most profound yet basic observation
 
-### “We must reconnect with the biosphere
+“We must reconnect with the biosphere
 
-## the living part of the
+the living part of the
 
 planet.
 
@@ -14746,29 +14746,29 @@ It is like saying, “Hey, guys, remember,
 
 we live on a planet and we depend on it being stable.
 
-## ” As if we had
+” As if we had
 
 forgotten.
 
 But when you step back a bit—while driving down asphalt
 
-## roads surrounded by concrete
+roads surrounded by concrete
 
 steel, and glass
 
-## on your way to the
+on your way to the
 
-## shopping mall
+shopping mall
 
-### to fill up on basic goods like food
+to fill up on basic goods like food
 
-## and materials for
+and materials for
 
-## shelter
+shelter
 
-## safety
+safety
 
-### and comfort—you must admit that
+and comfort—you must admit that
 
 yes, most of us
 
@@ -14782,73 +14782,73 @@ We take our planet for granted, at least
 
 its stability.
 
-### Perhaps this is understandable
+# Perhaps this is understandable
 
-## we have
+we have
 
-## after all
+after all
 
-## always
+always
 
-## lived on a stable planet
+lived on a stable planet
 
 and a seemingly infinite one at that.
 
-### Places to intervene in a system
+# Places to intervene in a system
 
-## Societies and economies are
+# Societies and economies are
 
 complex systems to change.
 
-## Here are the most significant
+# Here are the most significant
 
-## leverage points to transform
+leverage points to transform
 
 these systems.
 
-## System
+# System
 
 Increasing leverageRegulating negative feedback loops
 
 DataDriving positive feedback loopsMaterial flowsInformation flowsRules of the systemPower over the rules of the systemGoals of the systemMindset or paradigm out
 
-## of which the system arises
+of which the system arises
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 110US_106-195_321647_BB_Chap9-16.
 
-## indd 110 16/02/2021 11
+indd 110 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## CHAPTER 9
+# CHAPTER 9
 
 But climate extremes are beginning to shake us from our slumber.
 
 According to the United Nations Environment Program
 
-## by the
+by the
 
-## close of 2019
+close of 2019
 
-## Brazil
+# Brazil
 
-### the Democratic Republic of the Congo
+the Democratic Republic of the Congo
 
-## Russia
+# Russia
 
 and the United States had all experienced megafires (fires greater
 
-## than 100
+than 100
 
 000 acres or 400 square kilometers) on what many have
 
 called “unprecedented scales.
 
-### ” And then the infernos hit Australia
+” And then the infernos hit Australia
 
-## in late 2019 and early 2020
+in late 2019 and early 2020
 
 edging into the suburbs of major cities.
 
@@ -14858,13 +14858,13 @@ are increasing worldwide.
 
 And it is always the poorest who are hit
 
-## hardest
+hardest
 
 even in the wealthiest countries.
 
-## A paradigm shift toward
+# A paradigm shift toward
 
-## planetary stewardship
+planetary stewardship
 
 as an integral part of human development
 
@@ -14874,59 +14874,59 @@ Planetary stewardship is hardly a new idea
 
 Let’s stop and take a deep breath.
 
-### Native Americans and indigenous
+# Native Americans and indigenous
 
 peoples have always talked about environmental stewardship and
 
 were practicing it long before the cowboys
 
-## trappers
+trappers
 
-### homesteaders appeared on the horizon
+homesteaders appeared on the horizon
 
 it is not a new concept.
 
 We have been privileged to be part of the Edmund Hillary
 
-### Fellowship and Institute in New Zealand
+# Fellowship and Institute in New Zealand
 
-## which aims to connect
+which aims to connect
 
 sustainability researchers with innovators and Māori culture
 
 more broadly New Zealand/Aotearoa culture.
 
-## It has been humbling
+# It has been humbling
 
 to see how our work and the way of thinking that we are trying
 
 to promote are actually not so novel.
 
-## Stewardship is embedded in
+# Stewardship is embedded in
 
-## Māori culture
+Māori culture
 
-## from the very first greeting
+from the very first greeting
 
-## which goes something
+which goes something
 
-### like “I am not here representing myself
+like “I am not here representing myself
 
-## I am representing all my
+# I am representing all my
 
-## ancestors
+ancestors
 
-### ” to words such as “kaitiakitanga
+” to words such as “kaitiakitanga
 
-## ” meaning conservation
+” meaning conservation
 
-## replenishment
+replenishment
 
 or sustainability of the environment.
 
 When notions of environmental stewardship clash with the
 
-## modern world
+modern world
 
 interesting solutions emerge.
 
@@ -14934,11 +14934,11 @@ In 2017, the New
 
 Zealand/Aotearoa government passed a new law granting the
 
-### Whanganui River the same rights
+# Whanganui River the same rights
 
-## powers
+powers
 
-## and duties as a legal
+and duties as a legal
 
 person.
 
@@ -14946,9 +14946,9 @@ The practical upshot of this is that the river can sue you if
 
 you mess with it.
 
-## This sounds extraordinary
+# This sounds extraordinary
 
-## until you think that
+until you think that
 
 governments have been granting companies and corporations legal
 
@@ -14958,47 +14958,47 @@ personhood for centuries.
 
 refer to corporations as living organisms
 
-## “Microsoft announced
+“Microsoft announced
 
 today it would open the doors to its storehouse of patents … .
 
-## ”) The
+”) The
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 111US_106-195_321647_BB_Chap9-16.
 
-## indd 111 16/02/2021 11
+indd 111 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 river is not alone.
 
-## A former national park
+# A former national park
 
-## Te Urewera
+# Te Urewera
 
-## and a
+and a
 
-## mountain
+mountain
 
-## Mount Taranaki
+# Mount Taranaki
 
 have also now gained legal status.
 
-## The Māori worldview
+The Māori worldview
 
-## or te ao Māori
+or te ao Māori
 
-## is deeply connected to
+is deeply connected to
 
 environmental stewardship.
 
-### This worldview recognizes long-time
+# This worldview recognizes long-time
 
-## horizons
+horizons
 
 a responsibility to distant ancestors and future generations.
 
@@ -15006,17 +15006,17 @@ Te ao Māori articulates a profound knowledge of the interconnections
 
 between ecosystems and societies.
 
-### The Ngāti Wai and Ngāti Whatua
+The Ngāti Wai and Ngāti Whatua
 
-## communities
+communities
 
-## for example
+for example
 
-## have a saying
+have a saying
 
-## “Ko ahau te taiao
+“Ko ahau te taiao
 
-## ko te
+ko te
 
 taiao, ko ahau”—meaning “The ecosystem defines my quality of
 
@@ -15024,21 +15024,21 @@ life.
 
 ” Concepts related to deep time and resilience are captured
 
-### through ideas such as “Mō tātou
+through ideas such as “Mō tātou
 
 ā, mō kā uri ā muri ake nei”—“For
 
 us and our children after us.
 
-### ” The Māori have a knowledge system
+” The Māori have a knowledge system
 
 that they call Mātauranga Māori.
 
-## It describes their approach
+# It describes their approach
 
-## to environmental management
+to environmental management
 
-## policy development
+policy development
 
 implementation.
 
@@ -15056,7 +15056,7 @@ Although there is no direct translation between
 
 Mātauranga Māori and scientifically defined concepts of
 
-## stewardship
+stewardship
 
 there are striking similarities between the underlying
 
@@ -15064,27 +15064,27 @@ philosophies of Mātauranga Māori and planetary stewardship.
 
 The Maori are not alone.
 
-### Similar concepts are embraced by many
+# Similar concepts are embraced by many
 
 other indigenous cultures.
 
 In 2012, the Bolivian government passed
 
-### the Law of the Rights of Mother Earth
+the Law of the Rights of Mother Earth
 
-## granting nature the same
+granting nature the same
 
 rights as humans.
 
 Ecuador has introduced a similar law.
 
-## And here
+# And here
 
-## in Sweden
+in Sweden
 
-## we have the word “lagom
+we have the word “lagom
 
-## ” which means “not too much
+” which means “not too much
 
 not too little.
 
@@ -15096,7 +15096,7 @@ These ideas challenge the dominant worldview of industrialized
 
 societies that emerged over the past two centuries based on the
 
-## nation-state narrative
+nation-state narrative
 
 “Your country needs you to consume more.
 
@@ -15104,17 +15104,17 @@ Waste and environmental pollution are viewed as unavoidable yet
 
 manageable consequences of production and consumption.
 
-## Redefining the global commons
+# Redefining the global commons
 
 The US political scientist and Nobel Laureate Elinor Ostrom
 
 spent her career looking at how communities manage common
 
-## resources
+resources
 
-## such as local forests
+such as local forests
 
-## pastures
+pastures
 
 and fishing grounds.
 
@@ -15122,37 +15122,37 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 112US_106-195_321647_BB_Chap9-16.
 
-## indd 112 16/02/2021 11
+indd 112 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## CHAPTER 9
+# CHAPTER 9
 
 showed that communities can manage resources effectively for
 
-## many generations
+many generations
 
 often with little or weak government regulation
 
 and identified eight design principles that allow this.
 
-## Toward the end of her career
+# Toward the end of her career
 
-### she started looking at the global
+she started looking at the global
 
 commons.
 
-## In 1999
+# In 1999
 
 Ostrom and her colleagues proposed how to
 
 adapt the eight principles for planetary stewardship.
 
-## They
+# They
 
 recognized that for the stewardship of an ecosystem
 
-## that ecosystem
+that ecosystem
 
 must continue to be useful.
 
@@ -15160,11 +15160,11 @@ Exploitation cannot be so complete as to
 
 have drained all the resources.
 
-### A fishing ground with no fish has no
+# A fishing ground with no fish has no
 
 value.
 
-## On the other hand
+# On the other hand
 
 the resource cannot be so unscathed that
 
@@ -15184,17 +15184,17 @@ Other principles state that all users must have access to
 
 accurate knowledge of the resource conditions
 
-## and people who use
+and people who use
 
-## a resource
+a resource
 
-## like the ocean or forest
+like the ocean or forest
 
-## must see how the benefits of
+must see how the benefits of
 
 protecting that resource outweigh the cost of doing so.
 
-## This means
+# This means
 
 that the group benefits and that the costs are not just personal.
 
@@ -15206,69 +15206,69 @@ now.
 
 The biosphere has not yet been drained so completely that it
 
-### has passed a point of no return
+has passed a point of no return
 
 although its resilience is weakening.
 
-### With the planetary boundaries framework
+# With the planetary boundaries framework
 
-## we now have a first
+we now have a first
 
-## rough
+rough
 
 estimate of the nine boundaries that ensure sustained resilience into
 
 the future.
 
-## And increasingly
+# And increasingly
 
 through a planetary network of satellites
 
-## and other monitoring systems
+and other monitoring systems
 
-### we have accurate information on
+we have accurate information on
 
 who is using the resources and how much they are taking.
 
-## A system
+# A system
 
 for planetary stewardship is most definitely emerging.
 
-## For the past century
+# For the past century
 
-### the global commons have been recognized
+the global commons have been recognized
 
 in a narrow legal sense to manage four zones beyond national
 
-## jurisdiction
+jurisdiction
 
-## Antarctica
+# Antarctica
 
-## the High Seas
+the High Seas
 
-## outer space
+outer space
 
-## and the
+and the
 
 atmosphere.
 
-## In 2015
+# In 2015
 
 we were invited to write a report about what
 
 the global commons means in the Anthropocene.
 
-## Influenced by
+# Influenced by
 
-## Ostrom’s work
+Ostrom’s work
 
 we published a report with two colleagues
 
-## Nebojsa
+# Nebojsa
 
-## Nakicenovic and Caroline Zimm
+# Nakicenovic and Caroline Zimm
 
-### that proposed a new definition of
+that proposed a new definition of
 
 the global commons.
 
@@ -15280,23 +15280,23 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 113US_106-195_321647_BB_Chap9-16.
 
-## indd 113 16/02/2021 11
+indd 113 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 the planetary boundaries—must now be viewed as global commons.
 
-## Every child’s birthright is
+Every child’s birthright is
 
-## after all
+after all
 
 a stable and resilient planet.
 
 When we see children walking out of their classes to join the
 
-## school strikes
+school strikes
 
 we know precisely what they are fighting for
 
@@ -15306,27 +15306,27 @@ This is a challenging idea for a planet organized by nation-states.
 
 But our analysis only accounts for the physical and biological reality
 
-## of the planet
+of the planet
 
 not the geopolitical reality of nation-states.
 
-## When
+# When
 
 French President Emmanuel Macron offered international help to
 
-## control Brazil’s 40
+control Brazil’s 40
 
-## 000 forest fires in 2019
+000 forest fires in 2019
 
-## Brazilian President Jair
+# Brazilian President Jair
 
 Bolsonaro rejected the offer.
 
-### Why should anyone dictate to Brazil
+# Why should anyone dictate to Brazil
 
 what it can do with its rain forest?
 
-### But what would happen if a nation
+# But what would happen if a nation
 
 attempted to blow up the moon?
 
@@ -15338,9 +15338,9 @@ night, the length of the day
 
 and a whole host of other things.
 
-## same applies to the Amazon
+same applies to the Amazon
 
-### killing the rain forest will affect
+killing the rain forest will affect
 
 everyone.
 
@@ -15348,7 +15348,7 @@ We need to find new ways of governing in order to
 
 stabilize Earth because business as usual will drive us off the cliff.
 
-## In short
+# In short
 
 we can put all this together in a simple equation
 
@@ -15356,41 +15356,41 @@ Planetary boundaries + Global commons = Planetary stewardship
 
 Has planetary stewardship become a thing?
 
-## As we have seen
+# As we have seen
 
 stewardship as a worldview has a long history.
 
 But is planetary stewardship now catching on?
 
-## Books such as
+# Books such as
 
 Edward O.
 
-## Wilson’s Half-Earth
+Wilson’s Half-Earth
 
-### Our Planet’s Fight for Life (2016)
+Our Planet’s Fight for Life (2016)
 
 encourage a different relationship with nature
 
-## where ecosystems
+where ecosystems
 
 are given space to thrive and connect.
 
-## David Attenborough’s
+David Attenborough’s
 
 Netflix series Our Planet (2019) connects with profound ideas
 
 around stewardship at an Earthly scale.
 
-## Perhaps a tangible shift is
+# Perhaps a tangible shift is
 
-### now underway in unexpected places
+now underway in unexpected places
 
-## planetary stewardship is no
+planetary stewardship is no
 
-### longer an occasional lone voice
+longer an occasional lone voice
 
-### it is a global movement across
+it is a global movement across
 
 economic sectors.
 
@@ -15398,29 +15398,29 @@ Our children are reading scientific papers and
 
 walking out of schools.
 
-### The chairman of the Financial Stability
+# The chairman of the Financial Stability
 
 Board set up after the financial crisis of 2008
 
-## Mark Carney
+# Mark Carney
 
 declared climate to be a systemic risk to the global financial
 
 system.
 
-## In 2020
+# In 2020
 
-## Larry Fink
+# Larry Fink
 
-## CEO of BlackRock
+# CEO of BlackRock
 
-## the world’s largest
+the world’s largest
 
-## investment firm
+investment firm
 
-## warned companies
+warned companies
 
-## “We will be increasingly
+“We will be increasingly
 
 disposed to vote against management and board directors when
 
@@ -15428,11 +15428,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 114US_106-195_321647_BB_Chap9-16.
 
-## indd 114 16/02/2021 11
+indd 114 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## CHAPTER 9
+# CHAPTER 9
 
 companies are not making sufficient progress on sustainability
 
@@ -15444,21 +15444,21 @@ them.
 
 scientists to make plans to become sustainable ocean stewards
 
-### (Seafood Business for Ocean Stewardship
+(Seafood Business for Ocean Stewardship
 
 SeaBOS).
 
-### Perhaps the most profound shift
+# Perhaps the most profound shift
 
-## though
+though
 
-## is the commitment
+is the commitment
 
 from all nations to the 17 Sustainable Development Goals (see plate
 
 D1) set by the United Nations to be achieved by 2030.
 
-## These cover
+# These cover
 
 everything from ending poverty and hunger on Earth to protecting
 
@@ -15466,35 +15466,35 @@ the biosphere.
 
 It is not only countries that have committed to them.
 
-### Of 730 multinational companies
+# Of 730 multinational companies
 
-## more than 70 percent mention
+more than 70 percent mention
 
-### these goals in corporate reporting
+these goals in corporate reporting
 
-## and almost 30 percent include
+and almost 30 percent include
 
 them in business strategy.
 
 Science fiction author William Gibson once told The Economist
 
-## newspaper
+newspaper
 
 “The future is already here—it’s just not evenly
 
 distributed.
 
-### ” We would update this slightly to
+” We would update this slightly to
 
-## “Planetary
+“Planetary
 
-## stewardship is already here
+stewardship is already here
 
 it’s just not evenly distributed.
 
 We still have a mountain to climb for planetary stewardship
 
-## to go mainstream
+to go mainstream
 
 because the scale of the planet brings unique
 
@@ -15506,31 +15506,31 @@ action and our impact.
 
 Our information flows are faulty.
 
-## As our
+# As our
 
 colleagues at the Stockholm Resilience Center
 
-## Beatrice Crona and
+# Beatrice Crona and
 
-## Henrik Österblom
+Henrik Österblom
 
-## point out
+point out
 
-### the economic system relies on price to
+the economic system relies on price to
 
 transmit information.
 
-### If a fishing ground is depleted
+# If a fishing ground is depleted
 
-## prices should
+prices should
 
 rise as the resource becomes more scarce.
 
 But this does not happen.
 
-### When we buy fish in the supermarket
+# When we buy fish in the supermarket
 
-## we largely see stable prices
+we largely see stable prices
 
 even though much of the world’s fish stocks are at their limit or
 
@@ -15538,21 +15538,21 @@ close to it.
 
 Why is this?
 
-### As one fishing area is depleted
+# As one fishing area is depleted
 
-## boats steam
+boats steam
 
-## to the next zone—using cheap
+to the next zone—using cheap
 
-## generally subsidized
+generally subsidized
 
-## fuel—and fish
+fuel—and fish
 
 there, using cheap labor.
 
-### We keep depleting one area and then
+# We keep depleting one area and then
 
-## moving farther afield
+moving farther afield
 
 until fish once caught off shore are frozen
 
@@ -15562,35 +15562,35 @@ No strong price signal will appear until
 
 all fishing zones are exhausted.
 
-### The markets do not account for
+# The markets do not account for
 
 the Anthropocene.
 
 The economic system is not our only source of information.
 
-## Even
+# Even
 
 with the power of the Internet and instant access to much of the
 
-## world’s information
+world’s information
 
 the signal to noise ratio is atrocious.
 
-## Reliable
+# Reliable
 
 information is not mainlined into our brains
 
-## it joins an information
+it joins an information
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 115US_106-195_321647_BB_Chap9-16.
 
-## indd 115 16/02/2021 11
+indd 115 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 deluge.
 
@@ -15598,9 +15598,9 @@ The technology companies that have built their reputations
 
 on organizing the world’s information (Hello
 
-## Google) or building a
+Google) or building a
 
-## global community (Hi
+global community (Hi
 
 Facebook) have created vast toxic clouds of
 
@@ -15610,11 +15610,11 @@ Some tweaks to some algorithms need to be made here
 
 before we can say planetary stewardship has arrived.
 
-## The Earthshot mission
+# The Earthshot mission
 
 This chapter has been about resetting and updating worldviews.
 
-### Resetting worldviews is not easy
+# Resetting worldviews is not easy
 
 though.
 
@@ -15622,21 +15622,21 @@ We are tribal societies.
 
 adopt information that supports our tribal worldview
 
-## and we reject
+and we reject
 
-### information that challenges it
+information that challenges it
 
-### even if that means ignoring the best
+even if that means ignoring the best
 
 available science.
 
 We can see this behavior in the information wars
 
-## around vaccinations
+around vaccinations
 
-## nuclear power
+nuclear power
 
-## genetically modified food
+genetically modified food
 
 even evolution.
 
@@ -15648,13 +15648,13 @@ The scale of the mission is far greater than a moon
 
 landing or banning ozone-destroying chemicals.
 
-## Science is
+# Science is
 
 indicating that the economic foundation of the modern world needs
 
 to change utterly within a decade or two.
 
-## It is no surprise this
+# It is no surprise this
 
 message is met with hostility and anger.
 
@@ -15664,29 +15664,29 @@ Very practically, what do
 
 we need to do to stabilize Earth?
 
-### And how do we do it fast enough
+# And how do we do it fast enough
 
-## and at large enough scale
+and at large enough scale
 
 despite all the social and environmental
 
 complexities?
 
-### There are some obvious places to start
+# There are some obvious places to start
 
-## controlling
+controlling
 
-## greenhouse gases
+greenhouse gases
 
-## changing how we produce food
+changing how we produce food
 
-## stabilizing
+stabilizing
 
 population growth.
 
 Together with our colleagues working on The
 
-## World in 2050 project
+# World in 2050 project
 
 we have identified six system transformations
 
@@ -15700,17 +15700,17 @@ In operational terms, this means
 
 meeting the Sustainable Development Goals within planetary
 
-## boundaries
+boundaries
 
-## not only by 2030
+not only by 2030
 
-### but also maintaining the good work
+but also maintaining the good work
 
 to 2050 and beyond.
 
-## This is the Earthshot mission
+# This is the Earthshot mission
 
-## which we will
+which we will
 
 explain further in Chapters 10 to 15.
 
@@ -15718,27 +15718,27 @@ We will also discuss, in Chapter
 
 18, the four tipping points—social
 
-## political
+political
 
-## economic
+economic
 
 technological—that will drive these transformations.
 
-## We understand
+# We understand
 
 that such transformations can be overwhelming
 
-## they are for us
+they are for us
 
 too.
 
-## We stay optimistic
+# We stay optimistic
 
-## though
+though
 
-### because these transformations are
+because these transformations are
 
-## not starting from scratch
+not starting from scratch
 
 they have been building for 50 years.
 
@@ -15746,51 +15746,51 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 116US_106-195_321647_BB_Chap9-16.
 
-## indd 116 23/02/2021 10
+indd 116 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## CHAPTER 9
+# CHAPTER 9
 
 Progress has been so slow that it looks incremental.
 
-## This is
+# This is
 
 frustrating and makes many think we have made no progress at all.
 
-## In fact
+# In fact
 
 we are at the knee of the exponential curve.
 
-## Things are
+# Things are
 
 about to take off in the 2020s.
 
 How might this happen?
 
-### We are not claiming that everything we
+# We are not claiming that everything we
 
 describe will fall magically into place exactly as we suggest.
 
 Undoubtedly, it will be messy.
 
-### But Bill Gates once said that we
+# But Bill Gates once said that we
 
 overestimate what can be achieved in one year
 
-## but underestimate
+but underestimate
 
 what is possible in 10 years.
 
 This gives us hope.
 
-## To illustrate this
+# To illustrate this
 
 point, here are some examples.
 
 In 1961, US President John F.
 
-## Kennedy announced the goal of
+# Kennedy announced the goal of
 
 landing a man on the moon by the end of the decade and channeled
 
@@ -15802,7 +15802,7 @@ In 1969, this goal was achieved.
 
 After the discovery of the hole in the ozone layer
 
-## countries had
+countries had
 
 to act fast in order to avoid catastrophe.
 
@@ -15812,9 +15812,9 @@ emissions of ozone-depleting chemicals fell by 57 percent worldwide
 
 and they have declined a staggering 98 percent since 1986.
 
-## And between 2007 and 2017
+# And between 2007 and 2017
 
-## deaths from HIV/AIDS fell by
+deaths from HIV/AIDS fell by
 
 about 50 percent.
 
@@ -15826,25 +15826,25 @@ First, we need to put the
 
 foundations of the Earthshot mission in place—the six system
 
-## transformations
+transformations
 
-## energy
+energy
 
 food, inequality
 
-## cities
+cities
 
-## population and
+population and
 
 health, and technology.
 
 From the evidence at hand, if we are
 
-## successful
+successful
 
 we have a good chance of winning the grand prize
 
-## meeting
+meeting
 
 the Sustainable Development Goals within planetary boundaries.
 
@@ -15852,17 +15852,17 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 117US_106-195_321647_BB_Chap9-16.
 
-## indd 117 23/02/2021 10
+indd 117 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## THE ENERGY
+# THE ENERGY
 
-## TRANSITION
+# TRANSITION
 
 Climate change is not something we will ever really solve.
 
-## We will
+# We will
 
 be managing the stocks and flows of carbon in the atmosphere
 
@@ -15872,19 +15872,19 @@ and life for the rest of humanity’s time on Earth
 
 least as an industrialized civilization.
 
-## This is a new responsibility
+# This is a new responsibility
 
 for our species in the Anthropocene.
 
-## Ultimately
+# Ultimately
 
-## though
+though
 
 we need to exit the fossil fuel economy.
 
-### must slash emissions 50 percent by 2030
+must slash emissions 50 percent by 2030
 
-## then slash them by a
+then slash them by a
 
 further 50 percent by 2040, and so on.
 
@@ -15894,39 +15894,39 @@ Globally.
 
 We have called this pathway the Carbon Law
 
-## and it translates to a
+and it translates to a
 
 fall in emissions of about 7.
 
-## 5 percent every year.
+5 percent every year.
 
-## While this may be
+# While this may be
 
-## technically possible
+technically possible
 
 it will not be easy.
 
-## As the world witnessed
+# As the world witnessed
 
-## during the COVID-19 pandemic
+during the COVID-19 pandemic
 
-## greenhouse gas emissions fall
+greenhouse gas emissions fall
 
 dramatically when economies are deeply destabilized.
 
-## But can
+# But can
 
-## emissions fall even further
+emissions fall even further
 
-### while retaining economic stability
+while retaining economic stability
 
-## driving employment
+driving employment
 
 and delivering prosperity?
 
-## After the Paris
+# After the Paris
 
-## Agreement in 2015
+# Agreement in 2015
 
 we started thinking about how to frame this
 
@@ -15942,7 +15942,7 @@ Short termism.
 
 That’s the biggest threat.
 
-## CHRISTIANA FIGUERES
+# CHRISTIANA FIGUERES
 
 FORMER EXECUTIVE SECRETARY OF THE UNITED NATIONS
 
@@ -15954,33 +15954,33 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 118US_106-195_321647_BB_Chap9-16.
 
-## indd 118 16/02/2021 11
+indd 118 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## 119 CHAPTER 10
+119 CHAPTER 10
 
 The Earthshot’s first system transformation is energy.
 
-## People
+# People
 
 wonder why so little has been done for so long.
 
-## We have to
+# We have to
 
 acknowledge that the reason for the shockingly slow progress is
 
-### the nature of what science is demanding
+the nature of what science is demanding
 
-## a complete reconfiguration
+a complete reconfiguration
 
 of the foundation of the global economy—our energy system.
 
-## This
+# This
 
 should not be undertaken lightly.
 
-## We should not be surprised by
+# We should not be surprised by
 
 fierce resistance.
 
@@ -15990,15 +15990,15 @@ This is one of the two system changes that are now locked in
 
 world is leaving the fossil fuel era.
 
-## (The other unstoppable
+(The other unstoppable
 
 juggernaut is the technological revolution.
 
-## ) The big question is not
+) The big question is not
 
-### whether we will phase out fossil fuels
+whether we will phase out fossil fuels
 
-## the issue is whether the
+the issue is whether the
 
 energy transition will happen fast enough.
 
@@ -16018,21 +16018,21 @@ In the cavernous chambers,
 
 expectations were muted.
 
-### No one seemed to know how the evening
+# No one seemed to know how the evening
 
 would unfold.
 
-## Based on previous experience
+# Based on previous experience
 
-## we predicted a
+we predicted a
 
-## confusing
+confusing
 
-## drawn-out night
+drawn-out night
 
-### during which weary negotiators would
+during which weary negotiators would
 
-## crawl toward a resolution
+crawl toward a resolution
 
 fighting tooth and nail over every asterisk
 
@@ -16052,15 +16052,15 @@ Before anyone could really process what he had said
 
 he brought down the gavel on the table with a bang.
 
-## The 21st session
+# The 21st session
 
 of the Conference of the Parties (COP 21) ended abruptly and
 
 spectacularly.
 
-## After a beat
+# After a beat
 
-### the assembled throng erupted in cheers
+the assembled throng erupted in cheers
 
 and applause.
 
@@ -16068,47 +16068,47 @@ We had made it.
 
 We had crossed the line.
 
-## After
+# After
 
-### decades of soul-destroying failure
+decades of soul-destroying failure
 
-## we now had a global deal on
+we now had a global deal on
 
 climate.
 
 It seemed too good to be true.
 
-## Christiana Figueres
+# Christiana Figueres
 
-### who masterminded the conference as head
+who masterminded the conference as head
 
 of the United Nations Framework Convention on Climate Change
 
-## proclaimed
+proclaimed
 
 “We have made history together.
 
-## Successive generations
+# Successive generations
 
 will, I am sure
 
-## mark December 12
+mark December 12
 
 2015, as a date when cooperation
 
-## vision
+vision
 
-## responsibility
+responsibility
 
-## a shared humanity
+a shared humanity
 
-## and a care for our world
+and a care for our world
 
 took center stage.
 
-## ” While far from perfect
+” While far from perfect
 
-## the deal was much better
+the deal was much better
 
 than we had anticipated before going into the negotiations.
 
@@ -16116,23 +16116,23 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 119US_106-195_321647_BB_Chap9-16.
 
-## indd 119 23/02/2021 10
+indd 119 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## ACT III
+# ACT III
 
-## For more detail
+# For more detail
 
 let’s rewind to the day before.
 
-## It is noon on
+# It is noon on
 
 December 11.
 
-## With colleagues
+# With colleagues
 
-## we hastily convened a press
+we hastily convened a press
 
 conference for the scientific community to voice serious concerns
 
@@ -16146,17 +16146,17 @@ On December 9, the
 
 latest text had landed.
 
-## Incredibly
+# Incredibly
 
-### it included a goal to reduce fossil
+it included a goal to reduce fossil
 
 fuel emissions by up to 95 percent by 2050.
 
-## The draft even mentioned
+# The draft even mentioned
 
-### aviation and shipping emissions
+aviation and shipping emissions
 
-## which are normally ignored
+which are normally ignored
 
 because they are too controversial (a massive failing in previous
 
@@ -16166,7 +16166,7 @@ The text committed to follow the best available
 
 science.
 
-## At this point
+# At this point
 
 we were cautiously optimistic that the Paris
 
@@ -16176,11 +16176,11 @@ Then the penultimate text arrived the following day.
 
 negotiators had ripped up critical parts of the deal.
 
-## Gone were the
+# Gone were the
 
 clauses axing aviation and shipping emissions.
 
-## Even the commitment
+# Even the commitment
 
 to follow the best science had been removed.
 
@@ -16188,17 +16188,17 @@ Kevin Anderson, a
 
 climate scientist and firebrand from the UK’s Tyndall Centre for
 
-## Climate Change Research
+# Climate Change Research
 
-## recalls
+recalls
 
-### “There was a real sense of unease
+“There was a real sense of unease
 
 among many scientists present.
 
-### ” What we read did not match the
+” What we read did not match the
 
-### boundless optimism in the corridors
+boundless optimism in the corridors
 
 halls, and news reports.
 
@@ -16212,19 +16212,19 @@ Owen and Denise Young (another firebrand) announced
 
 a press conference for the following day.
 
-## We immediately came
+# We immediately came
 
 under fire from all sides.
 
-### Lobby groups and even other academics
+# Lobby groups and even other academics
 
 criticized us and leaned on us to cancel the press conference.
 
-## Anderson puts it
+# Anderson puts it
 
-## “Desperate to maintain order
+“Desperate to maintain order
 
-## the rottweilers and
+the rottweilers and
 
 even their influential handlers threatened … those daring to make
 
@@ -16232,77 +16232,77 @@ informed comment.
 
 ” Right up to the moment that the microphones
 
-## went live
+went live
 
 our phones buzzed with dire warnings that we were
 
 naively bulldozing through the most complex
 
-## delicate international
+delicate international
 
 treaty ever negotiated.
 
-## We were blatantly asked
+# We were blatantly asked
 
-## did we really want
+did we really want
 
 to be responsible for destroying the Paris negotiations?
 
-## We stuck to
+# We stuck to
 
 our guns, though.
 
 Not least because if the scientific community
 
-## really held so much sway
+really held so much sway
 
-### the outcome would be based on the best
+the outcome would be based on the best
 
-## evidence
+evidence
 
-## logically
+logically
 
-### the agreement should be better
+the agreement should be better
 
 not worse.
 
 Under the banners of the International Council for Science
 
-## Future Earth
+# Future Earth
 
-## and The Earth League
+and The Earth League
 
-## we assembled in a room
+we assembled in a room
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 120US_106-195_321647_BB_Chap9-16.
 
-## indd 120 16/02/2021 11
+indd 120 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## 121 CHAPTER 10
+121 CHAPTER 10
 
 normally allocated for side events.
 
-## (The United Nations could not
+(The United Nations could not
 
 find us an official press conference room.
 
-## ) Johan was joined on stage
+) Johan was joined on stage
 
-## by Hans Joachim Schellnhuber
+by Hans Joachim Schellnhuber
 
-## Joeri Rogelj
+# Joeri Rogelj
 
-## Kevin Anderson
+# Kevin Anderson
 
-## Steffen Kallbekken
+# Steffen Kallbekken
 
 with Denise Young chairing.
 
-## Journalists started
+# Journalists started
 
 streaming in.
 
@@ -16312,13 +16312,13 @@ and still they kept coming.
 
 People were sitting cross-legged on the floor
 
-## leaning along the walls
+leaning along the walls
 
 and, eventually
 
 perching on the edge of the stage.
 
-## A security guard
+# A security guard
 
 warned that we were breaking every regulation and demanded we
 
@@ -16328,19 +16328,19 @@ We politely negotiated an amnesty.
 
 The atmosphere was electric.
 
-### Anderson declared that the deal
+# Anderson declared that the deal
 
 now on the table was far worse than the woeful deal scrambled
 
 together at the ill-fated Copenhagen summit of 2009.
 
-## The room of
+# The room of
 
-## hardened
+hardened
 
 cynical journalists gasped in astonishment.
 
-## For the first
+# For the first
 
 time, people were publicly challenging the carefully crafted media
 
@@ -16348,7 +16348,7 @@ and political narrative of unquestioned optimism that had taken
 
 hold over the previous weeks.
 
-## We argued that while the text
+# We argued that while the text
 
 maintained an aspirational 2.
 
@@ -16370,11 +16370,11 @@ fuels.
 
 pull carbon dioxide out of the atmosphere at a scale that is unlikely
 
-## to be feasible
+to be feasible
 
-## economically
+economically
 
-## technically
+technically
 
 or ecologically.
 
@@ -16382,35 +16382,35 @@ Incredibly, the 2.
 
 7°F (1.
 
-### 5°C) target survived the final round of
+5°C) target survived the final round of
 
-## negotiations
+negotiations
 
 as did a commitment to following the best science.
 
 fact, there was a specific clause requesting that the Intergovernmental
 
-## Panel on Climate Change
+# Panel on Climate Change
 
-### an independent expert group consisting
+an independent expert group consisting
 
-## of thousands of scientists
+of thousands of scientists
 
 produce a report on the 2.
 
 7°F (1.
 
-## 5°C)
+5°C)
 
 global warming target.
 
-### The final text had somehow improved on
+# The final text had somehow improved on
 
 the penultimate version.
 
 It is impossible to know if our intervention
 
-## influenced proceedings
+influenced proceedings
 
 but it was certainly a moment of truth and
 
@@ -16426,15 +16426,15 @@ percent by 2050 to meet the 2.
 
 5°C) target.
 
-## The media narrative
+# The media narrative
 
 changed, too.
 
 While praise was rightly heaped on the tireless
 
-### negotiators and political leaders
+negotiators and political leaders
 
-### this was tempered by the sober
+this was tempered by the sober
 
 scientific reality that the Paris Agreement left too much to
 
@@ -16446,25 +16446,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 121US_106-195_321647_BB_Chap9-16.
 
-## indd 121 16/02/2021 11
+indd 121 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 How fast must emissions fall?
 
 In the weeks after the climate negotiations
 
-## we had some deep
+we had some deep
 
 conversations about what it would take to meet the Paris
 
 Agreement.
 
-## Very basically
+# Very basically
 
-### the Paris Agreement says that the
+the Paris Agreement says that the
 
 world aims to balance any greenhouse gas emissions in the second
 
@@ -16474,15 +16474,15 @@ What goes up must come down.
 
 There is an obvious problem with the way this is framed
 
-## there is
+there is
 
 no sense of urgency and no pathway linking this current crop of
 
-### politicians and business leaders
+politicians and business leaders
 
-## on their Earth watch
+on their Earth watch
 
-## to this distant
+to this distant
 
 future, 30 to 80 years from now.
 
@@ -16490,7 +16490,7 @@ It opens up a million pathways,
 
 and, deliberately or not
 
-### kind of indicates that an incremental
+kind of indicates that an incremental
 
 change over a generation or two will be enough to solve the climate
 
@@ -16498,25 +16498,25 @@ challenge.
 
 This suits the oil companies.
 
-## Looking at one extreme
+# Looking at one extreme
 
-## scenario
+scenario
 
 you could argue that the world could wait until 2049 and
 
-## hope that
+hope that
 
-## by then
+by then
 
 there would be a magical technology that would
 
 suck all our carbon out of the atmosphere in the nick of time.
 
-## It is
+# It is
 
 blatantly obvious that while there are millions of pathways
 
-## some
+some
 
 are more plausible than others.
 
@@ -16524,13 +16524,13 @@ We started brainstorming a new scientific paper to more
 
 clearly articulate a pathway to reach the Paris Agreement.
 
-## reference
+reference
 
 we used the agreement’s goal of keeping the average
 
 temperature on Earth “well below 3.
 
-## 6°F (2°C) above preindustrial
+6°F (2°C) above preindustrial
 
 levels and to pursue efforts to limit the temperature increase to
 
@@ -16538,19 +16538,19 @@ levels and to pursue efforts to limit the temperature increase to
 
 5°C).
 
-## In reality
+# In reality
 
 emissions must shrink to zero or close to it by about
 
-## 2050—not 2060 or 2070
+2050—not 2060 or 2070
 
 and certainly not 2100.
 
-## This would give
+# This would give
 
 us a reasonable chance of staying well below 3.
 
-## 6°F (2°C) global
+6°F (2°C) global
 
 warming and a very slim chance of stabilizing at 2.
 
@@ -16564,17 +16564,17 @@ Leaving it too late means building a new industry
 
 larger than the existing fossil fuel industry
 
-## to remove carbon
+to remove carbon
 
 dioxide from the atmosphere.
 
-### It means planting trees on a scale that
+# It means planting trees on a scale that
 
 will compete with food production at the same time as the population
 
 is reaching 10 billion people.
 
-### Most of the technologies that would
+# Most of the technologies that would
 
 be required for this either do not yet exist or have never been
 
@@ -16594,15 +16594,15 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 122US_106-195_321647_BB_Chap9-16.
 
-## indd 122 16/02/2021 11
+indd 122 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## 123 CHAPTER 10
+123 CHAPTER 10
 
-### There is also a communications problem
+# There is also a communications problem
 
-## anything with a
+anything with a
 
 deadline a generation away is not going to spark an emergency
 
@@ -16610,33 +16610,33 @@ response immediately.
 
 It seems no one realized that in order to hit
 
-## zero emissions by 2050
+zero emissions by 2050
 
-### most action needs to happen right now—
+most action needs to happen right now—
 
 this decade.
 
 The only alternative is very likely economic collapse.
 
-## Rule of thumb
+# Rule of thumb
 
 Serendipity is a powerful force for new thinking from cross-
 
 pollination of ideas.
 
-## Around this time
+# Around this time
 
-## we had already had a few
+we had already had a few
 
-## conversations with Johan Falk
+conversations with Johan Falk
 
-## an executive at Intel
+an executive at Intel
 
-## the Silicon
+the Silicon
 
 Valley chip manufacturer.
 
-### He was deeply concerned about climate
+# He was deeply concerned about climate
 
 inaction and felt that the world needed a new narrative to spur
 
@@ -16648,11 +16648,11 @@ of the Silicon Valley mindset of disruptive exponential growth that
 
 emerged in the 1960s.
 
-### Intel founder Gordon Moore published a
+# Intel founder Gordon Moore published a
 
 technical paper in 1965 showing that computing power doubles
 
-## every 12 months
+every 12 months
 
 later revised to every 24 months—an exponential
 
@@ -16660,37 +16660,37 @@ doubling trajectory.
 
 This paper had a disproportionate influence
 
-## on the emerging tech sector
+on the emerging tech sector
 
-### the simple doubling idea became the
+the simple doubling idea became the
 
 dominant guiding star for the entire industry.
 
-## Thousands of
+# Thousands of
 
 companies and their supply chains were soon adopting it.
 
-## Incredibly
+# Incredibly
 
 the tech sector has more or less stayed on this path for
 
-## 50 years
+50 years
 
 disrupting everything and giving us the modern world.
 
 The doubling trajectory became known as Moore’s Law
 
-## yet it is not
+yet it is not
 
 a law of physics or a legal requirement.
 
-## It is more like a rule of
+# It is more like a rule of
 
 thumb.
 
 Complex systems are often governed by simple rules.
 
-## Falk
+# Falk
 
 asked, “Is there a way to frame climate action that captures this
 
@@ -16698,57 +16698,57 @@ powerful dynamic?
 
 ” We said we’d have to think about it.
 
-### Exponentials do not just go up
+# Exponentials do not just go up
 
-## doubling then doubling again
+doubling then doubling again
 
-## they also go down
+they also go down
 
 halving and halving again—think of the half
 
 life of a radioactive particle.
 
-### We had been focusing too long on the
+# We had been focusing too long on the
 
 end of the emissions curves—way out beyond 2050—instead of
 
 looking at the start.
 
-## In the 1960s
+# In the 1960s
 
-### NASA directed most of its efforts
+# NASA directed most of its efforts
 
 into getting astronauts off Earth in the Saturn V rockets
 
-## not the
+not the
 
 moonwalk at the end.
 
-### Instead of focusing on 2050 and beyond
+# Instead of focusing on 2050 and beyond
 
-## it is
+it is
 
 obvious when you look at graphs of realistic emissions pathways
 
 that the lion’s share of the action needs to happen now.
 
-## After weeks
+# After weeks
 
-## of pouring over the data
+of pouring over the data
 
-## it dawned on us that
+it dawned on us that
 
-## very loosely
+very loosely
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 123US_106-195_321647_BB_Chap9-16.
 
-## indd 123 16/02/2021 11
+indd 123 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 world needs to halve emissions by about 2030 to have any hope of
 
@@ -16756,13 +16756,13 @@ staying on the trajectory to stabilize the planet anywhere near 2.
 
 5°C) global warming by 2050.
 
-### And then slash emissions in two
+# And then slash emissions in two
 
 again by 2040 and again by 2050.
 
 An exponential pathway.
 
-## All the
+# All the
 
 time, we need to build up the resilience of the rain forests and
 
@@ -16774,7 +16774,7 @@ There is no doubt we will need these technologies.
 
 This halving trajectory seems obvious now.
 
-## It is widely talked
+# It is widely talked
 
 about in the media and among NGOs (nongovernmental
 
@@ -16802,79 +16802,79 @@ physical reality of the planet.
 
 You can spend all day debating the finer details.
 
-## Should emissions
+# Should emissions
 
 be cut by 48 or 52 percent?
 
-## In reality
+# In reality
 
-## a rough rule of thumb is good
+a rough rule of thumb is good
 
 enough.
 
 We dubbed the halving trajectory the “Carbon Law
 
-## ” after
+” after
 
 Moore’s Law.
 
-## Like Moore’s Law
+Like Moore’s Law
 
-### the focus is not on arriving at zero
+the focus is not on arriving at zero
 
-## emissions
+emissions
 
 it is on the next step to take you there.
 
-## This insight sparked
+# This insight sparked
 
-### our coauthors of the scientific paper
+our coauthors of the scientific paper
 
-## Hans Joachim Schellnhuber
+# Hans Joachim Schellnhuber
 
-## Nebojsa Nakicenovic
+# Nebojsa Nakicenovic
 
-## Joeri Rogelj
+# Joeri Rogelj
 
-## and Malte Meinshausen
+and Malte Meinshausen
 
 think about what was needed politically and economically every
 
 decade in order to keep to this Carbon Law pathway.
 
-## Carbon Law pathway
+# Carbon Law pathway
 
 The Carbon Law operates like a fractal.
 
-## It applies to the whole
+# It applies to the whole
 
 world, but it also applies to a country
 
-## a city
+a city
 
-## a business
+a business
 
-## a family
+a family
 
 or an individual.
 
 We all need to cut emissions by half.
 
-## It also means
+# It also means
 
 that those who emit the most emissions have to cut the most.
 
-## Rich
+# Rich
 
-## countries
+countries
 
-## of course
+of course
 
 have a responsibility to exit carbon faster in
 
 order to allow poorer countries to develop.
 
-## But the Carbon Law
+# But the Carbon Law
 
 offers two other critical insights.
 
@@ -16882,13 +16882,13 @@ First, it makes climate action
 
 relevant for political elections and business cycles.
 
-## The Carbon
+# The Carbon
 
 Law pulls thinking and political narratives away from distant goals
 
 over far-off horizons to focus on the here and now.
 
-## Second
+# Second
 
 some industry leaders often complain that they cannot
 
@@ -16902,11 +16902,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 124US_106-195_321647_BB_Chap9-16.
 
-## indd 124 16/02/2021 11
+indd 124 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## 125 CHAPTER 10
+125 CHAPTER 10
 
 and development are needed before action.
 
@@ -16914,11 +16914,11 @@ Certainly, research and
 
 development are required for those industries that are hardest to
 
-## transform
+transform
 
-## aviation
+aviation
 
-## steel production
+steel production
 
 or cement production.
 
@@ -16932,13 +16932,13 @@ It was important for us that the Carbon Law goes beyond
 
 emissions reductions.
 
-## Without this
+# Without this
 
-### we will fail in delivering the
+we will fail in delivering the
 
 Paris climate targets.
 
-### We have expanded the concept to include
+# We have expanded the concept to include
 
 three more pillars.
 
@@ -16948,7 +16948,7 @@ greenhouse gases into a store.
 
 We will discuss this in Chapter 11.
 
-## Second
+# Second
 
 we need to protect our remaining carbon sinks—the
 
@@ -16964,7 +16964,7 @@ high-tech solutions, for example.
 
 The scale must be manageable,
 
-## though
+though
 
 and must not interfere with feeding 10 billion people or
 
@@ -16976,71 +16976,71 @@ in March 2017 in the journal Science .
 
 A month later, Paul Hawken
 
-## published Drawdown
+published Drawdown
 
 which describes 100 solutions to reach zero
 
 emissions.
 
-## At first
+# At first
 
-### some thought this was a competing idea
+some thought this was a competing idea
 
 but in Year2020 2030 2040 2050The future of carbon
 
-## Stabilizing global
+# Stabilizing global
 
-## temperature at around
+temperature at around
 
 7ºF (1.
 
-## 5ºC) means
+5ºC) means
 
-## emissions must peak
+emissions must peak
 
 around 2020.
 
-## At the same
+# At the same
 
 time, we need to build
 
-## capacity to remove carbon
+capacity to remove carbon
 
 from the atmosphere.
 
 Gigatonnes of carbon dioxide per year (GtCO2/yr)
 
-## Global carbon dioxide
+# Global carbon dioxide
 
-## (CO2) emissions
+(CO2) emissions
 
-## CO2 removal (GtCO2/yr)
+CO2 removal (GtCO2/yr)
 
-## CO2 emissions from
+# CO2 emissions from
 
-## land use (GtCO2/yr)530
+land use (GtCO2/yr)530
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 125US_106-195_321647_BB_Chap9-16.
 
-## indd 125 16/02/2021 11
+indd 125 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
 reality the two are perfectly complementary.
 
-## Drawdown outlines the
+# Drawdown outlines the
 
-## technical solutions
+technical solutions
 
-### while our paper presents the pathway to
+while our paper presents the pathway to
 
 implement the solutions and the policies to deliver them.
 
-## In 2018
+# In 2018
 
 the major assessment report requested by nations in the
 
@@ -17048,13 +17048,13 @@ Paris Agreement concluded that reaching the 2.
 
 7°F (1.
 
-## 5°C) target
+5°C) target
 
 was not only achievable but also essential to avoid the worst of
 
 climate change—3.
 
-## 6°F (2°C) is far
+6°F (2°C) is far
 
 far worse for humanity than 2.
 
@@ -17068,7 +17068,7 @@ well below 3.
 
 7°F (1.
 
-## 5°C) is to slash
+5°C) is to slash
 
 emissions 50 percent by 2030.
 
@@ -17080,15 +17080,15 @@ discussion on climate.
 
 If scientists are saying that emissions need to
 
-### peak in 2020 and fall by half in 2030
+peak in 2020 and fall by half in 2030
 
-## then people can clearly see
+then people can clearly see
 
 that precious little has been done thus far.
 
 We need to clarify,
 
-## though
+though
 
 that the world will not end in 2030 if countries fail to cut
 
@@ -17096,33 +17096,33 @@ their emissions by half.
 
 Societies will carry on.
 
-## But they will
+# But they will
 
-## increasingly struggle
+increasingly struggle
 
 as they become overwhelmed with cascading
 
-## compound
+compound
 
 and cumulative impacts from climate change.
 
-## If we
+# If we
 
 continue to increase emissions at the rate of today and only start
 
-## acting in 10 years’ time
+acting in 10 years’ time
 
 the economic path will be too steep.
 
 economic and democratic options will be extremely slim.
 
-## Without
+# Without
 
-## drastic emissions reductions
+drastic emissions reductions
 
-### we face greater risks of crossing
+we face greater risks of crossing
 
-## irreversible tipping points
+irreversible tipping points
 
 as discussed earlier.
 
@@ -17130,13 +17130,13 @@ We have two choices.
 
 Either we knowingly commit future generations to a dangerously
 
-## destabilized planet
+destabilized planet
 
 or we act on the scale needed to restabilize the
 
 planet to ensure that our descendants have what we have
 
-## the chance
+the chance
 
 of a good life on a stable planet.
 
@@ -17144,7 +17144,7 @@ One unexpected upshot of all of this is that we joined forces with
 
 Falk and some big players in the technology industry
 
-## such as
+such as
 
 Ericsson—along with the WWF and the Future Earth project—to
 
@@ -17152,7 +17152,7 @@ develop detailed “Exponential Roadmaps” that go deeper into the
 
 journey of halving emissions.
 
-### We found that every single sector of
+# We found that every single sector of
 
 the economy can cut their emissions by half relatively easily.
 
@@ -17170,83 +17170,83 @@ Buildings: insulate and use more
 
 efficiently.
 
-## Energy
+# Energy
 
-## use wind and solar power
+use wind and solar power
 
 improve storage.
 
 Essentially, electrify everything.
 
-## We have now produced two
+# We have now produced two
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 126US_106-195_321647_BB_Chap9-16.
 
-## indd 126 16/02/2021 11
+indd 126 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## 127 CHAPTER 10
+127 CHAPTER 10
 
 “Exponential Roadmaps” (2018 and 2019) that present 36 viable
 
-## solutions
+solutions
 
 which, if implemented
 
-## would cut emissions by half
+would cut emissions by half
 
 globally by 2030—and many companies could go much faster.
 
 more research is needed.
 
-### While we follow this trajectory
+# While we follow this trajectory
 
-## though
+though
 
 must also invest in the research to halve again beyond 2030.
 
 The most striking finding from our work relates to energy.
 
-## We all
+# We all
 
 know that solar and wind have expanded rapidly.
 
-## The common
+# The common
 
 narrative states that they remain low in the energy mix—just 5
 
 percent—but not so long ago they accounted for only 0.
 
-## 5 percent.
+5 percent.
 
-### Wind and solar mushroomed exponentially
+# Wind and solar mushroomed exponentially
 
-## doubling every three
+doubling every three
 
 to four years.
 
-## If this rate continues
+# If this rate continues
 
-### then 50 percent of the world’s
+then 50 percent of the world’s
 
 electricity will be supplied by these two sources alone by 2030.
 
 critical issue is price.
 
-### As long as prices keep falling
+# As long as prices keep falling
 
-## this trajectory
+this trajectory
 
 will continue.
 
-## Crucially
+# Crucially
 
-### we have already crossed an economic
+we have already crossed an economic
 
-## tipping point
+tipping point
 
 the price of wind and solar has crept below that of
 
@@ -17258,7 +17258,7 @@ Increasingly, it
 
 is cheaper to build a wind or solar plant than a fossil fuel plant.
 
-## parts of Europe
+parts of Europe
 
 it is cheaper to build a solar plant than to keep
 
@@ -17268,25 +17268,25 @@ The stone age did not end because we ran out of stones.
 
 technologies simply usurped them.
 
-### This is the end of the fossil fuel
+# This is the end of the fossil fuel
 
 era, even if oil and coal remain in the ground.
 
-## Unlike giant power
+# Unlike giant power
 
 plants that require huge infrastructure and investment
 
-## wind and
+wind and
 
 solar are small and flexible.
 
-### This means innovation and rollout are
+# This means innovation and rollout are
 
 rapid.
 
 These are exponential technologies.
 
-## The coal and oil
+# The coal and oil
 
 industries innovate slowly.
 
@@ -17298,7 +17298,7 @@ First, we
 
 wanted to provide a realistic pathway for the Paris Agreement.
 
-## Second
+# Second
 
 we wanted to show the colossal scale of the economic shift
 
@@ -17310,11 +17310,11 @@ The 2.
 
 5°C) target slips farther from our grasp as
 
-## each year goes by
+each year goes by
 
-## literally
+literally
 
-### the remaining carbon budget shrinks
+the remaining carbon budget shrinks
 
 more than 10 percent each year if we continue to burn fossil fuels at
 
@@ -17322,111 +17322,111 @@ the same rate as 2019.
 
 Without the right policies in place to accelerate
 
-## action
+action
 
-## such as a price on carbon
+such as a price on carbon
 
-### an end to fossil fuel subsidies
+an end to fossil fuel subsidies
 
-## tougher emissions standards
+tougher emissions standards
 
-### then we can forget about the global
+then we can forget about the global
 
 warming target altogether.
 
-## Very practically
+# Very practically
 
 emissions need to drop a massive 7 to 8 percent
 
 every year.
 
-### Emissions have collapsed rapidly before
+# Emissions have collapsed rapidly before
 
-## but this usually
+but this usually
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 127US_106-195_321647_BB_Chap9-16.
 
-## indd 127 16/02/2021 11
+indd 127 16/02/2021 11
 
-## 2816/02/2021 11
+2816/02/2021 11
 
-## ACT III
+# ACT III
 
-## accompanies economic shocks
+accompanies economic shocks
 
-## for example
+for example
 
-## during the 2008
+during the 2008
 
 financial crisis or the 2020 pandemic.
 
-## We want to avoid this at all
+# We want to avoid this at all
 
 costs.
 
 Not least because it is economically destabilizing
 
-## which leads
+which leads
 
-## to political destabilization
+to political destabilization
 
 and then we are back to square one.
 
 is any country even close to the Carbon Law pace?
 
-## Eighteen rich
+# Eighteen rich
 
-## countries
+countries
 
-## including the United Kingdom
+including the United Kingdom
 
-## France
+# France
 
-## Germany
+# Germany
 
-## Ireland
+# Ireland
 
-## and Sweden
+and Sweden
 
 have collectively reduced emissions 2 to 3
 
 percent a year for a decade or more.
 
-## These countries have mainly
+# These countries have mainly
 
-### achieved this by shifting to renewables
+achieved this by shifting to renewables
 
-## using greater energy
+using greater energy
 
-## efficiencies
+efficiencies
 
 and introducing a number of climate policies.
 
 nations double or even triple the rate of change?
 
-## Most of the energy
+# Most of the energy
 
 transition to date has largely focused on electrical power and wind
 
 and solar.
 
-## If countries adopt
+# If countries adopt
 
-## in parallel
+in parallel
 
-## measures to transform
+measures to transform
 
-## transportation
+transportation
 
-## building
+building
 
-## cities
+cities
 
-## food systems
+food systems
 
-## and manufacturing
+and manufacturing
 
 then much larger changes are undoubtedly possible.
 
@@ -17434,17 +17434,17 @@ Energy is the first of the six Earthshot system transformations.
 
 When we left the COP 21 conference center back in 2015
 
-## no major
+no major
 
 economy had committed to reach net zero emissions by 2050.
 
 Now, the United Kingdom
 
-## France
+# France
 
-## New Zealand
+# New Zealand
 
-## and others have
+and others have
 
 enshrined this target in law.
 
@@ -17452,33 +17452,33 @@ Furthermore, the European Union is
 
 the first continent to adopt a net zero target for 2050.
 
-## Sweden has
+# Sweden has
 
 gone further and is aiming to reach net zero by 2045.
 
-## Finland
+# Finland
 
-### plans to reach it a decade earlier
+plans to reach it a decade earlier
 
 in 2035.
 
-## Norway has its sights on
+# Norway has its sights on
 
 2030.
 
-## What’s more
+What’s more
 
-## in 2020
+in 2020
 
-### we received the most surprising news
+we received the most surprising news
 
 imaginable.
 
-## The Chinese president
+# The Chinese president
 
-## Xi Jinping
+# Xi Jinping
 
-## announced to the
+announced to the
 
 United Nations that China aims to become “carbon neutral”
 
@@ -17492,7 +17492,7 @@ This is a game changer.
 
 These are all monumental steps.
 
-### We are locking in a future with
+# We are locking in a future with
 
 zero emissions.
 
@@ -17502,29 +17502,29 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 128US_106-195_321647_BB_Chap9-16.
 
-## indd 128 23/02/2021 10
+indd 128 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
 When we published the “planetary health diet” back in 2019
 
-## Brian Kahn
+# Brian Kahn
 
 a US journalist writing for the science and technology
 
-## media website Gizmodo
+media website Gizmodo
 
 decided to follow it for a month.
 
-## Toward
+# Toward
 
-## the end
+the end
 
-## he reported
+he reported
 
-## “My 30 days is almost up
+“My 30 days is almost up
 
-## and honestly
+and honestly
 
 think I’ll keep the diet up for the most part.
 
@@ -17536,53 +17536,53 @@ whole foods in general.
 
 But it was not all smooth sailing.
 
-## Kahn caved in to a doughnut
+# Kahn caved in to a doughnut
 
 and pizza craving in a moment of stress one evening.
 
-## We’ve all
+We’ve all
 
 been there many times.
 
 No judgment.
 
-## This forced him to reflect
+# This forced him to reflect
 
 that the diet is as much about personal health as it is about the FEEDING 10 BILLION
 
-## PEOPLE WITHIN
+# PEOPLE WITHIN
 
-## PLANETARY
+# PLANETARY
 
-## BOUNDARIES
+# BOUNDARIES
 
 Our world is falling apart quietly.
 
-## Human
+# Human
 
-### civilization has reduced the plant
+civilization has reduced the plant
 
-## a four-
+a four-
 
-### hundred-million-year-old life-form
+hundred-million-year-old life-form
 
-## into three
+into three
 
 things: food, medicine, and wood.
 
-## In our
+# In our
 
 relentless and ever-intensifying obsession with
 
-## obtaining a higher volume
+obtaining a higher volume
 
-## potency
+potency
 
-## and variety
+and variety
 
-## of these three things
+of these three things
 
-## we have devastated plant
+we have devastated plant
 
 ecology to an extent that millions of years of
 
@@ -17594,11 +17594,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 129US_106-195_321647_BB_Chap9-16.
 
-## indd 129 16/02/2021 11
+indd 129 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 health of the planet.
 
@@ -17614,11 +17614,11 @@ Fail on food, and we fail
 
 both people and planet.
 
-### This is why food is the second of
+# This is why food is the second of
 
-## our system transformations
+our system transformations
 
-### and alone it will ultimately determine
+and alone it will ultimately determine
 
 whether we successfully meet the Paris Agreement goal of
 
@@ -17626,7 +17626,7 @@ keeping global warming below 3.
 
 6°F (2°C).
 
-## Food also plays a
+# Food also plays a
 
 key role in whether we are able to reach the United Nations
 
@@ -17636,7 +17636,7 @@ Remember, all 17 goals, from
 
 poverty and hunger to the ocean and land
 
-## need to be achieved
+need to be achieved
 
 by 2030.
 
@@ -17658,7 +17658,7 @@ The battle for climate change is no longer being fought over
 
 the global energy system.
 
-### Decarbonization is on its way and is
+# Decarbonization is on its way and is
 
 relatively simple compared with food.
 
@@ -17668,17 +17668,17 @@ whether we successfully deliver on the Paris climate targets rests on
 
 whether we are able to transform the global food system.
 
-### Both transitions are needed to succeed
+# Both transitions are needed to succeed
 
 that is undeniable.
 
-## right now
+right now
 
 the energy transformation—despite all our concerns
 
-## frustratingly slow progress
+frustratingly slow progress
 
-### and the lack of urgency—is far ahead of
+and the lack of urgency—is far ahead of
 
 food.
 
@@ -17688,21 +17688,21 @@ economy, awareness, and technology.
 
 In fact, we would argue that
 
-### the topic of sustainable food is today
+the topic of sustainable food is today
 
-## in 2021
+in 2021
 
-## where the energy
+where the energy
 
 agenda was 30 years ago.
 
-## We do not
+# We do not
 
-## as yet
+as yet
 
-## have the policy tools
+have the policy tools
 
-## political debate
+political debate
 
 and solutions to change course.
 
@@ -17714,63 +17714,63 @@ threatens not only people’s health but also the stability of the planet.
 
 Things are beginning to change, though.
 
-## It feels as if we are
+# It feels as if we are
 
 witnessing a sudden awakening.
 
-### COVID-19 provided a devastating
+# COVID-19 provided a devastating
 
-## reminder that our food system
+reminder that our food system
 
-### in this case the trade in wild animals
+in this case the trade in wild animals
 
 and the proximity of farms to other ecosystems
 
-## is both vulnerable
+is both vulnerable
 
 to shock and a driver of instability.
 
 Today, in science, policy, business,
 
-## and the media
+and the media
 
-### there is a greater focus on food
+there is a greater focus on food
 
-## health
+health
 
-## and the
+and the
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 130US_106-195_321647_BB_Chap9-16.
 
-## indd 130 16/02/2021 11
+indd 130 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 131 CHAPTER 11
+131 CHAPTER 11
 
-## planet
+planet
 
 perhaps greater than ever before.
 
 But it is late in the day, and
 
-## so far
+so far
 
 we see many scattered islands of new ideas in a sea of business-
 
 as-usual behavior.
 
-## A broken food system
+# A broken food system
 
-## As an Earth scientist
+# As an Earth scientist
 
 Johan has spent many years assessing the
 
 role of food in the sustainability of our ecosystems and
 
-## increasingly
+increasingly
 
 how environmental impacts from food production combine to
 
@@ -17782,25 +17782,25 @@ The way that we produce food in the world is the single largest
 
 reason that we have transgressed planetary boundaries.
 
-## It is the
+# It is the
 
 single largest threat to the stability of the planet and our life-support
 
-## systems
+systems
 
-## from freshwater
+from freshwater
 
-## pollinators
+pollinators
 
-## and soil health
+and soil health
 
-## to rainfall
+to rainfall
 
-## generation
+generation
 
 and quality of air and water.
 
-## Food production is putting
+# Food production is putting
 
 our future at risk.
 
@@ -17812,7 +17812,7 @@ A great amount of research and development
 
 is going on to find ways to farm sustainably.
 
-## But the focus
+# But the focus
 
 has largely been on reducing the environmental impacts of local
 
@@ -17820,19 +17820,19 @@ farming practices.
 
 This has led to improvements in water use
 
-## efficiency
+efficiency
 
 1 and solutions to reduce leakage of nitrate and phosphate
 
 into groundwater and rivers.
 
-### Even though we have improved water
+# Even though we have improved water
 
 efficiencies and reduced environmental impacts
 
-## we have focused
+we have focused
 
-## on one thing only
+on one thing only
 
 increasing production.
 
@@ -17848,9 +17848,9 @@ example.
 
 The European Union has good environmental regulations
 
-### on all forms of reactive nitrogen flows
+on all forms of reactive nitrogen flows
 
-### whether it be in the air or in
+whether it be in the air or in
 
 freshwater.
 
@@ -17858,23 +17858,23 @@ Agriculture is responsible for up to 60 percent of
 
 European nitrogen pollution into groundwater and rivers
 
-## mainly
+mainly
 
 through the use of manure and fertilizers.
 
-## Although the regulations
+# Although the regulations
 
-## are important
+are important
 
 they do not consider the wider system.
 
-## A large part
+# A large part
 
 of reactive nitrogen is often imported from other continents as feed
 
 1 We now get more “crop per drop” by using techniques such as mulching
 
-## drip
+drip
 
 irrigation, and nutrient management.
 
@@ -17882,11 +17882,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 131US_106-195_321647_BB_Chap9-16.
 
-## indd 131 16/02/2021 11
+indd 131 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 2 The most modern systems generally lose up to 30 percent of nitrogen
 
@@ -17896,7 +17896,7 @@ for animals and as fertilizers.
 
 For example, soy from Brazil, high in
 
-## nitrogen
+nitrogen
 
 travels halfway around the world before being eaten by
 
@@ -17904,31 +17904,31 @@ Swedish cows and then leaked onto Swedish soil and into rivers and
 
 out to the Baltic Sea.
 
-## Furthermore
+# Furthermore
 
 most of the nutrients applied to farmers’ fields are
 
 exported to and concentrated in cities.
 
-## The crops that are grown
+# The crops that are grown
 
 with the imported nutrients are harvested for food.
 
-## Consumers eat
+# Consumers eat
 
 the food.
 
 Most consumers live in cities.
 
-## The food ends up either as
+# The food ends up either as
 
-### food waste or as human excreta
+food waste or as human excreta
 
-## channeled through wastewater
+channeled through wastewater
 
 treatment systems with varying degrees of efficiency.
 
-## 2 Too many
+2 Too many
 
 nutrients cause pollution and eutrophication (excess algal growth
 
@@ -17938,17 +17938,17 @@ downstream.
 
 This is occurring all over the world.
 
-## The modern
+# The modern
 
 fertilizer industry is so large that it injects more reactive nitrogen
 
 into the biosphere than the entire natural nitrogen cycle.
 
-## This linear
+# This linear
 
 system is undermining our world.
 
-## We need a wider planetary
+# We need a wider planetary
 
 boundaries approach to make agriculture sustainable.
 
@@ -17956,9 +17956,9 @@ Food as the No. 1 killer
 
 Food is destroying our health and shortening our lives.
 
-## It is the
+# It is the
 
-## single largest killer
+single largest killer
 
 responsible for more deaths than smoking
 
@@ -17966,19 +17966,19 @@ AIDS, tuberculosis
 
 and terrorism combined.
 
-## Three independent
+# Three independent
 
 research studies in 2019 estimated that 11 million people in the
 
 world die prematurely because of unhealthy food.
 
-## The fastest-
+# The fastest-
 
 growing killers are obesity and diabetes.
 
 In Asia, 2.
 
-## 4 million people
+4 million people
 
 die from diabetes each year.
 
@@ -17988,13 +17988,13 @@ rates are on a par with those for undernutrition.
 
 In Indonesia, for
 
-## example
+example
 
 there are more overweight than underweight people.
 
 Obesity-related diseases were long believed to be exclusive to
 
-## wealthy countries
+wealthy countries
 
 but now more than 70 percent of the world’s
 
@@ -18002,17 +18002,17 @@ but now more than 70 percent of the world’s
 
 income countries.
 
-### Faced with increasing disability
+# Faced with increasing disability
 
-## mortality
+mortality
 
-## health care costs
+health care costs
 
-## as well as lower productivity
+as well as lower productivity
 
-## all countries are
+all countries are
 
-### finding obesity a growing concern
+finding obesity a growing concern
 
 regardless of income level.
 
@@ -18020,11 +18020,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 132US_106-195_321647_BB_Chap9-16.
 
-## indd 132 16/02/2021 11
+indd 132 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 133 CHAPTER 11
+133 CHAPTER 11
 
 3 Professor of epidemiology and nutrition at Harvard University and co-chair of the
 
@@ -18032,29 +18032,29 @@ EAT- Lancet Commission.
 
 In response to the realization that food is threatening not only
 
-### our planet but also people’s health
+our planet but also people’s health
 
-## Gunhild Stordalen created the
+# Gunhild Stordalen created the
 
-## EAT Forum in 2013
+# EAT Forum in 2013
 
 with scientific guidance from Johan.
 
 initiative is essentially a World Economic Forum for food
 
-## held in
+held in
 
 Stockholm.
 
-## At the first event in 2014
+# At the first event in 2014
 
-### we established that we urgently
+we established that we urgently
 
 need a global scientific assessment of the state of knowledge on
 
 health and sustainable food.
 
-### Major intergovernmental scientific
+# Major intergovernmental scientific
 
 assessments on climate and biodiversity take years to gain traction
 
@@ -18066,27 +18066,27 @@ may be 2030 before such a food assessment sees the light of day.
 
 simply do not have time.
 
-## Instead
+# Instead
 
-### in discussions with Walt Willett
+in discussions with Walt Willett
 
-### we agreed that we need a faster
+we agreed that we need a faster
 
-### more agile assessment that focuses
+more agile assessment that focuses
 
 on solutions.
 
 While we were debating the massive knowledge gaps
 
-### on health and sustainability for food
+on health and sustainability for food
 
-## Richard Horton
+# Richard Horton
 
-## editor-in-
+editor-in-
 
 chief of the leading medical science journal The Lancet
 
-## was also in
+was also in
 
 the room.
 
@@ -18094,15 +18094,15 @@ He encouraged us to write to The Lancet and propose a
 
 global integrated science assessment.
 
-## This became the EAT- Lancet
+# This became the EAT- Lancet
 
-## Commission
+# Commission
 
 tasked with synthesizing our knowledge on healthy
 
 diets from sustainable food systems.
 
-### It showed that we will fail with
+# It showed that we will fail with
 
 the Paris Agreement if we fail to transform food from the single
 
@@ -18112,125 +18112,125 @@ The commission set out to define two things for the first time
 
 safe boundaries for the health of both people and planet
 
-## and a
+and a
 
-## universal diet
+universal diet
 
 called the planetary health diet—in short
 
-## what
+what
 
 science can tell us about the options we have left if we want to live
 
 healthy lives on a healthy planet.
 
-### Food alone threatens the stability
+# Food alone threatens the stability
 
-## and resilience of our planet
+and resilience of our planet
 
 Food is by far the largest consumer of freshwater.
 
-## A staggering
+# A staggering
 
 70 percent of all the withdrawals of freshwater from rivers
 
 lakes, and groundwater is used to produce food.
 
-## The average
+# The average
 
 person needs between 13 and 40 gallons (50 and 150 liters) of
 
-## water per day
+water per day
 
-## to shower
+to shower
 
-## wash clothes and dishes
+wash clothes and dishes
 
-## and flush the
+and flush the
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 133US_106-195_321647_BB_Chap9-16.
 
-## indd 133 16/02/2021 11
+indd 133 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## toilet
+toilet
 
-### but our food requires some 800 to 1
+but our food requires some 800 to 1
 
-## 050 gallons (3
+050 gallons (3
 
-## 000 to
+000 to
 
 4,000 liters) per person per day
 
 to grow crops and fodder.
 
-## Rivers
+# Rivers
 
-### like the Colorado and the Limpopo
+like the Colorado and the Limpopo
 
-## as well as the Aral Sea
+as well as the Aral Sea
 
-## running dry
+running dry
 
 due to over-irrigation of food crops.
 
-## Warmer global
+# Warmer global
 
-## temperatures
+temperatures
 
 caused to a significant extent by agriculture when
 
-## we burn fossil fuels
+we burn fossil fuels
 
-## cut down forests
+cut down forests
 
-## and degrade land
+and degrade land
 
-## trigger
+trigger
 
-## more serious droughts
+more serious droughts
 
-## floods
+floods
 
 and heat waves.
 
-## These extreme
+# These extreme
 
 events further increase water scarcity.
 
-## Vulnerable communities
+# Vulnerable communities
 
-## are particularly at risk
+are particularly at risk
 
-## especially small-scale
+especially small-scale
 
-## rain-fed farmers in
+rain-fed farmers in
 
 savanna regions.
 
-## 4 Food insecurity
+4 Food insecurity
 
-## exacerbated by climate change
+exacerbated by climate change
 
 is a breeding ground for geopolitical conflict.
 
 The Arab Spring,
 
-## the conflict in Syria
+the conflict in Syria
 
 and the civil war in Sudan are all examples of
 
-## social unrest
+social unrest
 
-### and ultimately political collapses
+and ultimately political collapses
 
-## linked to dramatic
+linked to dramatic
 
 impacts on food production systems that were caused by droughts
 
@@ -18238,11 +18238,11 @@ made worse by climate change.
 
 We are currently in the sixth mass extinction of species
 
-## on Earth
+on Earth
 
 with one in eight species at risk.
 
-## The way we produce
+# The way we produce
 
 food on land and catch fish in the ocean is the main driver of this
 
@@ -18258,25 +18258,25 @@ This is the prime reason why we are losing species
 
 and healthy ecosystems.
 
-### Although agriculture is causing this
+# Although agriculture is causing this
 
-## it is
+it is
 
 also in the firing line.
 
-## When we lose trees
+# When we lose trees
 
-## pollinators
+pollinators
 
-## earthworms
+earthworms
 
-## and wild predators
+and wild predators
 
 our landscapes lose their resilience.
 
-## When
+# When
 
-## this happens
+this happens
 
 they can no longer provide the functions needed for
 
@@ -18284,33 +18284,33 @@ food production.
 
 Food is the main reason that we are transgressing the most critical
 
-## planetary boundaries
+planetary boundaries
 
 land, biodiversity
 
-## climate
+climate
 
 and nutrients.
 
 It is threatening the stability and resilience of our planet.
 
-## Without
+# Without
 
-## serious attention
+serious attention
 
 we face multiple crises.
 
-## Lifting 1 billion people out
+# Lifting 1 billion people out
 
 of poverty and hunger and feeding another 2 to 3 billion new
 
 citizens by 2050 will require some 50 percent more food.
 
-## If we are
+# If we are
 
-## knee-deep in problems today
+knee-deep in problems today
 
-### just imagine where we will be in 30
+just imagine where we will be in 30
 
 years’ time.
 
@@ -18322,19 +18322,19 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 134US_106-195_321647_BB_Chap9-16.
 
-## indd 134 16/02/2021 11
+indd 134 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 135 CHAPTER 11
+135 CHAPTER 11
 
-## The planetary health diet
+# The planetary health diet
 
 The aforementioned EAT-Lancet Commission was established to
 
 find solutions for this planetary drama.
 
-## It was the first attempt to
+# It was the first attempt to
 
 scientifically define quantitative targets for a healthy and
 
@@ -18342,21 +18342,21 @@ sustainable diet.
 
 If we want to maximize our chances of good
 
-## health and a healthy planet
+health and a healthy planet
 
-### there are safe operating spaces for all
+there are safe operating spaces for all
 
-## people
+people
 
-## geographies
+geographies
 
 and cultures around the world.
 
-## Through the
+# Through the
 
-## EAT- Lancet Commission
+# EAT- Lancet Commission
 
-### we defined these safe operating spaces—
+we defined these safe operating spaces—
 
 the multitude of diets that are most sustainable—for the first time
 
@@ -18366,31 +18366,31 @@ As a result, in 2019, the EAT-
 
 Lancet Commission released the “planetary health diet
 
-## ” to
+” to
 
 maximize our chances of good health on a stable planet.
 
-## For human health
+# For human health
 
-### a flexitarian diet is recommended
+a flexitarian diet is recommended
 
-## and the
+and the
 
 planetary health diet advises eating five servings of meat or fish
 
 each week.
 
-### 5 We should be eating a lot more nuts and legumes
+5 We should be eating a lot more nuts and legumes
 
-## fruits
+fruits
 
 5 One from red meat and two each from chicken and fish.
 
-## Food production footprint
+# Food production footprint
 
 Land use per 3.
 
-## 5 oz (100g) of protein.
+5 oz (100g) of protein.
 
 meat production requires about 100 times
 
@@ -18398,11 +18398,11 @@ more land per gram of protein than cereals.
 
 Land area in square feet (meters squared)0 215
 
-## (20)430
+(20)430
 
-## (40)645
+(40)645
 
-## (60)860
+(60)860
 
 (80)1,075
 
@@ -18416,7 +18416,7 @@ Land area in square feet (meters squared)0 215
 
 (180)2,045
 
-## (190)Food products
+(190)Food products
 
 Shrimp (farmed)T ofu (soybeans)PeasGroundnutsFish (farmed)GrainsEggsPoultry meatOther pulsesNutsPorkBeef (dairy herd)MilkCheeseBeef (beef herd)Lamb and mutton
 
@@ -18424,11 +18424,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 135US_106-195_321647_BB_Chap9-16.
 
-## indd 135 16/02/2021 11
+indd 135 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 vegetables, and whole-grain foods.
 
@@ -18436,23 +18436,23 @@ At the same time, we need to
 
 reduce our intake of saturated fat (found in fatty meats
 
-## pastries
+pastries
 
-## cheese
+cheese
 
-## and so on)
+and so on)
 
-## dairy products
+dairy products
 
-### starchy vegetables like potatoes
+starchy vegetables like potatoes
 
 and cassava, and salt.
 
-## In some ways
+# In some ways
 
 the planetary health diet is similar to the
 
-### traditional Mediterranean diet
+traditional Mediterranean diet
 
 rich in fresh fruits and vegetables.
 
@@ -18460,7 +18460,7 @@ Some people raised concerns that the planetary health diet suggests
 
 everyone around the world should eat the same thing
 
-## a “one size
+a “one size
 
 fits all” approach.
 
@@ -18474,15 +18474,15 @@ How you follow it, and to what
 
 extent, is your own decision.
 
-### Anything else would fundamentally
+# Anything else would fundamentally
 
 disrespect human dignity.
 
-### The authors felt very strongly that
+# The authors felt very strongly that
 
 everyone has a right to know what the science tells us
 
-## while
+while
 
 recognizing that food is deeply rooted in local culture and traditions.
 
@@ -18490,19 +18490,19 @@ We deserve to know what is killing us and what can prolong our
 
 lives.
 
-### A myriad of different food cultures
+# A myriad of different food cultures
 
-## from Asian marine diets
+from Asian marine diets
 
-## to African savanna diets
+to African savanna diets
 
-### can easily be accommodated in the
+can easily be accommodated in the
 
 planetary health diet.
 
 The real excitement with the planetary health diet
 
-## though
+though
 
 comes from integrating the state of our planet with the planetary
 
@@ -18514,13 +18514,13 @@ diet, we significantly prolong our lives and improve the stability of
 
 the planet at the same time.
 
-### Can we feed 10 billion people within
+# Can we feed 10 billion people within
 
 planetary boundaries?
 
 The world population is heading toward 10 billion people by 2050.
 
-## By this time
+# By this time
 
 land degradation and climate change together are
 
@@ -18528,13 +18528,13 @@ predicted to reduce crop yields by an average of 10 percent globally
 
 and up to 50 percent in certain regions.
 
-## Can we really feed this
+# Can we really feed this
 
 many people and eradicate hunger without breaking the planet?
 
-### we follow the planetary health diet
+we follow the planetary health diet
 
-## the pressures on the planet
+the pressures on the planet
 
 would drop precipitously.
 
@@ -18548,7 +18548,7 @@ in addition to eating healthy food.
 
 First, we need to reduce food
 
-## waste at every stage
+waste at every stage
 
 this accounts for about 6 percent of all
 
@@ -18556,57 +18556,57 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 136US_106-195_321647_BB_Chap9-16.
 
-## indd 136 16/02/2021 11
+indd 136 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 137 CHAPTER 11
+137 CHAPTER 11
 
 greenhouse gases.
 
-## 6 Second
+6 Second
 
-### we need a global transition toward
+we need a global transition toward
 
 farming practices that capture rather than lose carbon
 
-## that
+that
 
-### circulate nutrients rather than pollute
+circulate nutrients rather than pollute
 
-## and that save water rather
+and that save water rather
 
 than waste it.
 
 We need sustainable agriculture.
 
-## And the good news
+# And the good news
 
 is that an agricultural revolution is underway.
 
-## According to a
+# According to a
 
 recent study by Jules Pretty at the University of Essex
 
 UK, and
 
-## colleagues
+colleagues
 
 29 percent of farmers worldwide are already practicing
 
 some form of sustainable agriculture.
 
-## We are on the right track in
+# We are on the right track in
 
 some places, but we need to accelerate.
 
-## Big picture solutions
+# Big picture solutions
 
 Science can guide us in speeding up the transformation.
 
-## For the
+# For the
 
-## energy transition
+energy transition
 
 we introduced the Carbon Law as a guiding
 
@@ -18614,7 +18614,7 @@ star.
 
 For food, we need a similar principle.
 
-## We suggest that the
+# We suggest that the
 
 guiding star for the food system transformation is the number
 
@@ -18622,47 +18622,47 @@ zero.
 
 Zero is powerful.
 
-## The state of ecosystems
+# The state of ecosystems
 
-## both on land and in
+both on land and in
 
-## the ocean
+the ocean
 
 is so dire that we need to adopt a zero target for nature.
 
 We need zero loss of nature from now—2021—onward.
 
-## All future
+# All future
 
-## losses of forests
+losses of forests
 
-## ecosystems
+ecosystems
 
-### and species must be restored and
+and species must be restored and
 
 regenerated.
 
 We need to safeguard the remaining carbon sinks
 
-## ecological habitats
+ecological habitats
 
 and rainfall-generating systems on Earth.
 
-## As we
+# As we
 
 have already transformed 50 percent of Earth’s land-based
 
-## ecosystems to agriculture
+ecosystems to agriculture
 
-## cities
+cities
 
-## and roads
+and roads
 
-## our task is to feed future
+our task is to feed future
 
 populations from our current farmland.
 
-## We must now ensure
+# We must now ensure
 
 zero expansions of new agricultural land.
 
@@ -18670,11 +18670,11 @@ For nature, we will
 
 unfortunately not be able to halt all loss from now onward.
 
-## From
+# From
 
-## now on
+now on
 
-## though
+though
 
 all nature that we lose must be restored by 2030.
 
@@ -18688,19 +18688,19 @@ time storing more carbon on land can only be achieved through
 
 sustainable intensification.
 
-### This implies improving yields while
+# This implies improving yields while
 
 meeting all planetary boundaries.
 
-### A series of different practices can
+# A series of different practices can
 
-## be used
+be used
 
 thus paving the way for nothing less than a new “green-
 
 green” revolution.
 
-## 6 Every year
+6 Every year
 
 we waste approximately 30 percent of the food we produce.
 
@@ -18708,11 +18708,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 137US_106-195_321647_BB_Chap9-16.
 
-## indd 137 16/02/2021 11
+indd 137 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 This involves:
 
@@ -18720,49 +18720,49 @@ This involves:
 
 Farming practices can no longer focus on
 
-## monocultures
+monocultures
 
-### they must consider ecosystem services
+they must consider ecosystem services
 
-## including
+including
 
-## water management
+water management
 
-## soil health
+soil health
 
-## protecting pollinators
+protecting pollinators
 
-## storing
+storing
 
-## carbon
+carbon
 
-## encouraging diversity
+encouraging diversity
 
-## and balancing livestock and
+and balancing livestock and
 
 crop systems.
 
-## • Circular production systems
+• Circular production systems
 
-## for carbon
+for carbon
 
-## nutrients
+nutrients
 
 and chemicals.
 
-### • Decarbonizing agricultural energy use
+• Decarbonizing agricultural energy use
 
 for all energy inputs.
 
 • Conservation agriculture for carbon storages.
 
-## This means
+# This means
 
 abandoning plowing and investing in minimum tillage and
 
 mulch farming.
 
-## Ultimately
+# Ultimately
 
 the foundation of the future of farming is built on
 
@@ -18770,25 +18770,25 @@ regeneration and recirculation—as if we live on a spaceship where
 
 we treat the food system as part of the life-support system.
 
-## Building
+# Building
 
 resilient and productive sustainable farming systems requires
 
 planning at the landscape and watershed scale.
 
-## 7 We need to
+7 We need to
 
-### safeguard all ecological functions
+safeguard all ecological functions
 
-## such as water flows
+such as water flows
 
-## pollination
+pollination
 
 and soil health.
 
-### We need corridors for wildlife
+# We need corridors for wildlife
 
-## we need wetlands
+we need wetlands
 
 and natural forest systems for moisture feedback and as nutrient
 
@@ -18802,7 +18802,7 @@ animals in the food web.
 
 Many farmers already practice recycling nutrients
 
-## biomass
+biomass
 
 water.
 
@@ -18810,15 +18810,15 @@ They are integrating livestock with cereal production
 
 producing their own bioenergy for traction and mulch
 
-### providing their own animal protein feed
+providing their own animal protein feed
 
-## which is circulated back
+which is circulated back
 
 onto their own farmland.
 
 We need to expand these practices.
 
-## For centuries
+# For centuries
 
 we have been plowing fields with ever more
 
@@ -18842,9 +18842,9 @@ the microbes and carbon in the topsoil are exposed to the sun and
 
 wind, which causes the soil to lose organic matter and kills the good
 
-### 7 It does not matter if you are a small-scale
+7 It does not matter if you are a small-scale
 
-### rain-fed corn farm in Burkina Faso or a
+rain-fed corn farm in Burkina Faso or a
 
 large mechanized farm in Russia.
 
@@ -18852,33 +18852,33 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 138US_106-195_321647_BB_Chap9-16.
 
-## indd 138 16/02/2021 11
+indd 138 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 139 CHAPTER 11
+139 CHAPTER 11
 
 microorganisms living in the soil.
 
-### Conservation tillage copies nature
+# Conservation tillage copies nature
 
 by building up biologically rich soils.
 
 Turning the soil, particularly
 
-## in tropical regions
+in tropical regions
 
 leads to loss of carbon.
 
-## Stopping plowing
+# Stopping plowing
 
 allows soils to build up organic matter and soil biology.
 
 In addition,
 
-## plowing uses a lot of energy
+plowing uses a lot of energy
 
-### either as diesel for tractors or fodder
+either as diesel for tractors or fodder
 
 for oxen.
 
@@ -18890,7 +18890,7 @@ Farmers can use various types of rippers or
 
 subsoilers to cut a narrow planting line
 
-## without touching the rest of
+without touching the rest of
 
 the soil.
 
@@ -18898,49 +18898,49 @@ This approach allows them to place manure and fertilizers
 
 exactly at the spot where seeds are planted
 
-## without broadcasting
+without broadcasting
 
 nutrients and fertilizing both crops and weeds.
 
-## Small-scale farmers
+# Small-scale farmers
 
 in developing countries generally find conservation tillage very
 
-## attractive
+attractive
 
 given their limited resources.
 
-## An example of a traditional
+# An example of a traditional
 
 conservation tillage practice in West Africa are the zai-pits.
 
-## Farmers
+# Farmers
 
 dig shallow pits instead of plowing whole areas.
 
-## When it is time for
+# When it is time for
 
 planting, these become planting pits.
 
-## This technique concentrates
+# This technique concentrates
 
 all the nutrients and water in the optimum spot
 
-## thereby minimizing
+thereby minimizing
 
 leakage.
 
 It is a form of manual precision farming
 
-## just like modern
+just like modern
 
 farmers today use advanced technology for the precise application
 
 of fertilizers.
 
-### From a planetary boundaries perspective
+# From a planetary boundaries perspective
 
-## an interesting positive
+an interesting positive
 
 side-effect of conservation tillage is that it helps transform farms to
 
@@ -18950,13 +18950,13 @@ These techniques can convert farms from major
 
 carbon emitters to essential carbon sinks
 
-## while increasing soil
+while increasing soil
 
 fertility.
 
 This is a win-win situation for both farmer and planet.
 
-## Undoubtedly
+# Undoubtedly
 
 the food system challenges we are facing
 
@@ -18964,15 +18964,15 @@ are huge.
 
 We have to explore integrated system solutions that
 
-## combine water productivity
+combine water productivity
 
-## soil health
+soil health
 
-## nutrient recycling
+nutrient recycling
 
-## crop
+crop
 
-## rotations
+rotations
 
 and watershed design with advancements in
 
@@ -18984,7 +18984,7 @@ agricultural area in a sustainable way requires not only new
 
 practices, but also new crops.
 
-### Imagine wheat that does not need to
+# Imagine wheat that does not need to
 
 be planted each year?
 
@@ -18992,43 +18992,43 @@ Perennial cereal crops are a step closer to
 
 this reality.
 
-## If these crops are successful
+# If these crops are successful
 
-## it will reduce tillage and
+it will reduce tillage and
 
 allow crops to develop deep root systems
 
-## thus storing more carbon
+thus storing more carbon
 
 and building more resilience to water stress.
 
-## We can see this trend
+# We can see this trend
 
-## in Kenya
+in Kenya
 
-## for example
+for example
 
-### with the expansion of perennial legumes
+with the expansion of perennial legumes
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 139US_106-195_321647_BB_Chap9-16.
 
-## indd 139 16/02/2021 11
+indd 139 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 like pigeon pea.
 
-### This crop grows over several years
+# This crop grows over several years
 
-## provides
+provides
 
-## a very tasty and healthy food
+a very tasty and healthy food
 
-## and has deep
+and has deep
 
 powerful roots.
 
@@ -19036,21 +19036,21 @@ There are two planetary boundaries on which food has a major
 
 impact that we have so far been unable to quantify
 
-## the aliens of
+the aliens of
 
 Act II, novel entities and aerosols.
 
-### Thanks to herbicide and pesticide
+# Thanks to herbicide and pesticide
 
 use, agriculture causes persistent organic pollutants and endocrine
 
 disruptors (chemicals that alter hormone levels in animals
 
-## including
+including
 
 humans) to build up in the biosphere.
 
-## Any transition to sustainable
+# Any transition to sustainable
 
 food systems must minimize the impacts of these novel entities.
 
@@ -19058,33 +19058,33 @@ have a lot to learn here from ecological agriculture.
 
 Many modern,
 
-### large farms in the United States
+large farms in the United States
 
-## Europe
+# Europe
 
-## and Asia are already
+and Asia are already
 
 successfully producing food without pesticides.
 
-### Across many parts of the world
+# Across many parts of the world
 
-## farmers annually burn the
+farmers annually burn the
 
 remains of the last crop to prepare the land for the next one.
 
-## At an
+# At an
 
-## Anthropocene scale
+# Anthropocene scale
 
 so-called slash and burn is immense.
 
-## Vast
+# Vast
 
 clouds of smoke billow over large regions
 
-## engulfing megacities such
+engulfing megacities such
 
-## as Delhi
+as Delhi
 
 where the chemicals mix with Delhi’s own pollution issues
 
@@ -19092,9 +19092,9 @@ and bring a deadly cocktail deep into the lungs of millions of people.
 
 Aerosol pollution (small particles in the atmosphere) from agriculture
 
-### is a major threat to human health
+is a major threat to human health
 
-## regional climate stability
+regional climate stability
 
 weather systems.
 
@@ -19104,29 +19104,29 @@ nitrate emissions from diesel burning and black carbon emissions
 
 from biomass burning.
 
-### Small-scale slash and burn farming must
+# Small-scale slash and burn farming must
 
 be abandoned—and there are plenty of alternatives that improve yields
 
 —if we are to flip agriculture from a carbon source to a carbon sink.
 
-## The next decade
+# The next decade
 
-## what needs to happen
+what needs to happen
 
-## what is possible
+what is possible
 
-## This next decade
+# This next decade
 
-## from 2020 to 2030
+from 2020 to 2030
 
 must be a turning point.
 
-## Just
+# Just
 
 as we have to cut global emissions by half in 10 years
 
-## we need to
+we need to
 
 commit to 100 percent sustainable agriculture and food systems
 
@@ -19144,41 +19144,41 @@ draw this conclusion from our Earth system analysis of the rising
 
 risks of destabilizing the planet.
 
-### Already we have transformed half
+# Already we have transformed half
 
 of Earth’s surface.
 
-### We must keep the other half intact
+# We must keep the other half intact
 
-## in line with
+in line with
 
 Edward O.
 
 Wilson’s “half-Earth” philosophy.
 
-## We therefore need to
+# We therefore need to
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 140US_106-195_321647_BB_Chap9-16.
 
-## indd 140 16/02/2021 11
+indd 140 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 141 CHAPTER 11
+141 CHAPTER 11
 
 take a planetary stewardship approach to food transformation.
 
-## Every
+# Every
 
 acre of cultivated land must move from being a carbon emitter to a
 
-## carbon store
+carbon store
 
 and needs to host a better diversity of crops
 
-## wild
+wild
 
 animals, and insects.
 
@@ -19186,9 +19186,9 @@ Every acre of land needs to have a built-in
 
 resilience to deal with unavoidable shocks
 
-## such as droughts
+such as droughts
 
-## floods
+floods
 
 cold spells, and heat waves.
 
@@ -19196,9 +19196,9 @@ Sustainable agriculture must, by the
 
 end of this decade, be the new normal.
 
-## Technologies
+# Technologies
 
-## policies
+policies
 
 and regulations will play a critical role in
 
@@ -19216,11 +19216,11 @@ needed.
 
 Forty-six countries have adopted a price on carbon.
 
-## Yet not
+# Yet not
 
-## one applies it to food
+one applies it to food
 
-### despite the carbon gushing from food
+despite the carbon gushing from food
 
 production into the air.
 
@@ -19230,11 +19230,11 @@ impacts of food systems around the world
 
 not just locally.
 
-## This
+# This
 
-### involves more than a price on carbon
+involves more than a price on carbon
 
-## we must also consider a price
+we must also consider a price
 
 on nitrogen, phosphorus, and water.
 
@@ -19250,21 +19250,21 @@ functions to zero.
 
 This is critical.
 
-## Furthermore
+# Furthermore
 
 we must restore and regenerate the destroyed land.
 
 Worldwide, land degradation is shocking.
 
-## Soils in croplands have
+# Soils in croplands have
 
 lost up to 60 percent of their organic carbon and are reaching a
 
 point in places where neither food nor biodiversity are viable.
 
-### Competing demands for land from food
+# Competing demands for land from food
 
-## renewable energy
+renewable energy
 
 nature-based carbon sinks are inevitably causing rising pressure.
 
@@ -19274,19 +19274,19 @@ There is no silver bullet, though.
 
 need to pull out all the stops.
 
-### While nature-based solutions and
+# While nature-based solutions and
 
 tree planting for carbon sinks and biofuels are part of the “solution
 
 space,” they are not able
 
-## under any circumstances
+under any circumstances
 
-## to replace the
+to replace the
 
-## need to abandon fossil fuels
+need to abandon fossil fuels
 
-### or even to reduce the pace at which
+or even to reduce the pace at which
 
 the world needs to do so.
 
@@ -19294,11 +19294,11 @@ The message is clear.
 
 To stand a chance of deviating away from
 
-## the climate disaster
+the climate disaster
 
 and to maintain the ecological capacity on
 
-## Earth to feed humanity
+# Earth to feed humanity
 
 we need to follow both the Carbon Law for
 
@@ -19308,25 +19308,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 141US_106-195_321647_BB_Chap9-16.
 
-## indd 141 16/02/2021 11
+indd 141 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## INEQUALITY IS
+# INEQUALITY IS
 
-## DESTABILIZING EARTH
+# DESTABILIZING EARTH
 
 Let’s begin with a small tribute to a uniquely wonderful Swedish
 
-## academic
+academic
 
-## Hans Rosling
+# Hans Rosling
 
 who sadly died in 2017.
 
-## Rosling was a
+# Rosling was a
 
 medical doctor and researcher.
 
@@ -19338,11 +19338,11 @@ He tirelessly promoted a fact-based worldview to
 
 audiences at the World Economic Forum and the World Bank
 
-## well as on TED stages
+well as on TED stages
 
-## discussing health
+discussing health
 
-## economic development
+economic development
 
 and poverty.
 
@@ -19352,11 +19352,11 @@ truths about the audience’s own perceptions of the world.
 
 Rosling often began a talk by grilling the audience with the
 
-## following question
+following question
 
-## “In the last 20 years
+“In the last 20 years
 
-## the proportion of the
+the proportion of the
 
 world population living in extreme poverty has …
 
@@ -19366,17 +19366,17 @@ B: remained more or less the same
 
 C: almost halved?
 
-## The correct answer is C
+# The correct answer is C
 
 but polls show that less than 10 percent
 
 of people are aware of this remarkable achievement.
 
-## The number of
+# The number of
 
 people living in extreme poverty is reducing exponentially.
 
-## This is
+# This is
 
 the biggest success story of the past century.
 
@@ -19384,19 +19384,19 @@ In 2020, just 8 percent
 
 of the global population lived in extreme poverty.
 
-## Over the past 25
+# Over the past 25
 
 years, more than 1 billion people were lifted from extreme poverty.
 
-## This is impressive
+# This is impressive
 
 but extreme inequality is another matter entirely.
 
-### Society can’t function without
+Society can’t function without
 
 shared prosperity.
 
-## JOSEPH STIGLITZ
+# JOSEPH STIGLITZ
 
 WINNER OF THE NOBEL MEMORIAL PRIZE IN ECONOMIC SCIENCES
 
@@ -19406,25 +19406,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 142US_106-195_321647_BB_Chap9-16.
 
-## indd 142 16/02/2021 11
+indd 142 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 143 CHAPTER 12
+143 CHAPTER 12
 
-## 8 Incredibly
+8 Incredibly
 
-## however
+however
 
-### extreme poverty in the United States
+extreme poverty in the United States
 
-## which has the world’s
+which has the world’s
 
 richest economy, has increased.
 
-## Between 2010 and 2016
+# Between 2010 and 2016
 
-## some 1 million people are
+some 1 million people are
 
 estimated to have descended into this economic bracket.
 
@@ -19442,7 +19442,7 @@ At the start, the researcher hands them
 
 slices of cucumber in return for the stones
 
-## and they seem content
+and they seem content
 
 to work away for the reward.
 
@@ -19454,27 +19454,27 @@ Grapes are a far superior treat for monkeys.
 
 The reaction of the second monkey is amusing.
 
-## It watches
+# It watches
 
 suspiciously and checks its stones for deficiencies.
 
-## Becoming
+# Becoming
 
-## agitated
+agitated
 
 it grabs a slice of cucumber and hurls it at the researcher.
 
 It refuses to perform the same task for a substandard reward.
 
-## If grapes were dollars
+# If grapes were dollars
 
-### Amazon employees on a minimal wage
+# Amazon employees on a minimal wage
 
 would earn 15 grapes an hour while company founder Jeff Bezos
 
 would rake in 4.
 
-## 5 million.
+5 million.
 
 In our digital world, our social media
 
@@ -19482,7 +19482,7 @@ feeds remind us daily of the size of other people’s grape mountains.
 
 This inequality and unfairness is politically destabilizing.
 
-## In this chapter
+# In this chapter
 
 we have three insights on inequality—the third
 
@@ -19504,9 +19504,9 @@ economies.
 
 world at the level of families.
 
-### Greater equality creates greater
+# Greater equality creates greater
 
-## solidarity
+solidarity
 
 making it easier for societies to come together around
 
@@ -19518,7 +19518,7 @@ The second insight is that making any progress to reduce
 
 inequality will be challenging in the next decade.
 
-## This is in no small
+# This is in no small
 
 part due to how gross inequality has skewed politics hard right in
 
@@ -19528,17 +19528,17 @@ Demagogues or even authoritarian leaders have
 
 risen from nowhere to gain power.
 
-### We prefer the term “demagogue”
+We prefer the term “demagogue”
 
-### to “populist” because populist leaders
+to “populist” because populist leaders
 
-## in theory
+in theory
 
-## aim to support the
+aim to support the
 
 interests of the working people over elites.
 
-## There is no evidence for
+# There is no evidence for
 
 this among the current crop of prominent so-called populist leaders.
 
@@ -19546,15 +19546,15 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 143US_106-195_321647_BB_Chap9-16.
 
-## indd 143 23/02/2021 10
+indd 143 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## ACT III
+# ACT III
 
 These leaders claim to want to “drain the swamp” and give more
 
-## power to ordinary people
+power to ordinary people
 
 but their policies tell a different story and
 
@@ -19572,13 +19572,13 @@ and solutions to reduce economic inequality can also enhance
 
 planetary stewardship.
 
-### Such actions will improve cooperation
+# Such actions will improve cooperation
 
-## build
+build
 
 trust, moderate consumption
 
-### help collective decision-making
+help collective decision-making
 
 spur innovation.
 
@@ -19588,7 +19588,7 @@ A stable, resilient planet will
 
 make it easier for the poorest in society to thrive and prosper.
 
-## Shocking inequality
+# Shocking inequality
 
 It is now obvious that rapid economic development and the
 
@@ -19600,7 +19600,7 @@ We are living through a classic Catch-22
 
 situation.
 
-## Globally
+# Globally
 
 economic growth has brought people out of
 
@@ -19610,77 +19610,77 @@ But this has created profound inequalities within societies
 
 and driven environmental destruction.
 
-## The solutions to the latter
+# The solutions to the latter
 
 risk austerity measures that make the poorest in society poorer.
 
 2017, France’s president
 
-## Emmanuel Macron
+# Emmanuel Macron
 
-## knew he needed to
+knew he needed to
 
 rein in emissions and slapped a tax on fuel.
 
-## Diesel prices shot up
+# Diesel prices shot up
 
-## 23 percent in a year
+23 percent in a year
 
 hitting the poorest hardest.
 
-## This move pushed
+# This move pushed
 
 people into fuel poverty and provoked anger
 
-## distrust
+distrust
 
 discontent.
 
-## In October 2018
+# In October 2018
 
-## the “Yellow Vests
+the “Yellow Vests
 
-## ” or “Gilets Jaunes
+” or “Gilets Jaunes
 
 took to the streets of Paris and other cities in France in protest.
 
 Prolonged mass demonstrations attracted millions of people.
 
-## Eventually
+# Eventually
 
 Macron caved in and reversed his decision.
 
 Badly designed policies to reduce emissions can backfire
 
-## driving
+driving
 
 greater inequality and deep resentment of ruling elites.
 
 But we do,
 
-## in fact
+in fact
 
 know how to design economic policies without hitting those
 
 with low incomes.
 
-### Had Macron given Stefan Löfven
+Had Macron given Stefan Löfven
 
-## prime minister
+prime minister
 
-## of Sweden
+of Sweden
 
 a short call before introducing the carbon tax on fuel
 
 things would probably never have erupted as they did.
 
-## Löfven
+Löfven
 
-## 9 Sure
+9 Sure
 
 economists who bother to look at the environment do link these two
 
-## problems
+problems
 
 but they often view environmental deterioration as a trade-off with
 
@@ -19690,69 +19690,69 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 144US_106-195_321647_BB_Chap9-16.
 
-## indd 144 16/02/2021 11
+indd 144 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## C1NOVEL ENTITIES
+# C1NOVEL ENTITIES
 
-## “Novel entities
+“Novel entities
 
-### ” one of the nine planetary boundaries
+” one of the nine planetary boundaries
 
-### refers to things like plastics and
+refers to things like plastics and
 
-### other chemical waste in the environment
+other chemical waste in the environment
 
-## but also to nuclear waste
+but also to nuclear waste
 
-## genetically modi/f_i ed
+genetically modi/f_i ed
 
-## organisms
+organisms
 
-## nanomaterials
+nanomaterials
 
 and even arti/f_i cial intelligence.
 
-## Novel entities are substances
+# Novel entities are substances
 
 created or modi/f_i ed by humans that did not exist in the biosphere previously (or certainly
 
 not in their new states).
 
-## There are more than 100
+# There are more than 100
 
-### 000 novel entities in circulation.
+000 novel entities in circulation.
 
-## The sheer
+# The sheer
 
 number and complexity of their interactions mean that this planetary boundary is yet to be
 
 quanti/f_i ed.
 
-### Many novel entities may be benign
+# Many novel entities may be benign
 
 but some are most de/f_i nitely not.
 
-## GAS FLARES
+# GAS FLARES
 
-## NUCLEAR TESTS
+# NUCLEAR TESTS
 
-## PIPELINES
+# PIPELINES
 
-## MARINE DEBRIS
+# MARINE DEBRIS
 
-## OIL FIELDS
+# OIL FIELDS
 
-## SULFUR DIOXIDE
+# SULFUR DIOXIDE
 
-## TRANSMISSION LINES
+# TRANSMISSION LINES
 
-## SHIPPING LANES
+# SHIPPING LANES
 
-## INDUSTRIAL FACILITIES
+# INDUSTRIAL FACILITIES
 
-## PLASTIC RIVERS
+# PLASTIC RIVERS
 
 001-004_Plate_C.
 
@@ -19760,45 +19760,45 @@ indd 1001-004_Plate_C.
 
 indd 1 26/01/2021 09:3026/01/2021 09:30
 
-## THE NETWORK EFFECT
+# THE NETWORK EFFECT
 
-### The story of humanity is one of travel
+# The story of humanity is one of travel
 
-## migration
+migration
 
 trade, and connection.
 
 This image shows humanity’s industrial footprint on Earth in the
 
-## Anthropocene
+# Anthropocene
 
-## paved and unpaved roads
+paved and unpaved roads
 
-## railroads
+railroads
 
-## electricity transmission
+electricity transmission
 
 lines, pipelines
 
-## shipping lanes
+shipping lanes
 
-## fishing boats
+fishing boats
 
-## and undersea cables
+and undersea cables
 
 connecting human settlements (the lights of towns and cities).
 
-## Our most
+# Our most
 
 densely populated areas are along coasts
 
-## on deltas
+on deltas
 
 and close to rivers.
 
 T rade routes have long connected civilizations
 
-## now the interconnectivity
+now the interconnectivity
 
 is so deep and all-encompassing that we can say there is just one single
 
@@ -19806,7 +19806,7 @@ civilization on Earth.
 
 We are a big world on a small planet.
 
-## C2
+C2
 
 001-004_Plate_C.
 
@@ -19820,7 +19820,7 @@ arrived in the Americas.
 
 This event connected previously unlinked human
 
-## societies
+societies
 
 which, in turn
 
@@ -19830,25 +19830,25 @@ reverberate today.
 
 This tightly interconnected world we have built brings
 
-### benefits in terms of knowledge
+benefits in terms of knowledge
 
-## culture
+culture
 
 and prosperity.
 
-## Ideas can spread
+# Ideas can spread
 
-## rapidly
+rapidly
 
-## but so
+but so
 
 too, can viruses
 
-## disease
+disease
 
 and economic shocks.
 
-## As the
+# As the
 
 economist Jeffrey Sachs notes in his book The Ages of Globalization (2020)
 
@@ -19856,31 +19856,31 @@ took 16 years for the bubonic plague to spread from China to Italy in the 14th
 
 century.
 
-### COVID-19 spread in a matter of days
+# COVID-19 spread in a matter of days
 
-### carried by plane directly from
+carried by plane directly from
 
 Wuhan to Rome.
 
-## Within four months
+# Within four months
 
 half of the global population of 7.
 
-## 8 billion
+8 billion
 
 people was in some kind of lockdown.
 
 This interconnectivity brings a degree of
 
-### resilience—if crops fail in one place
+resilience—if crops fail in one place
 
-### we can ship them from elsewhere—but it
+we can ship them from elsewhere—but it
 
 also brings a new risk that we need to learn to manage
 
 network fragility.
 
-## C3
+C3
 
 001-004_Plate_C.
 
@@ -19888,35 +19888,35 @@ indd 3001-004_Plate_C.
 
 indd 3 26/01/2021 09:3026/01/2021 09:30
 
-## C4A PLANET
+# C4A PLANET
 
-## TRANSFORMED
+# TRANSFORMED
 
-## GLOBAL HUMAN
+# GLOBAL HUMAN
 
-## MODIFICATION
+# MODIFICATION
 
-### No modi/f_i cationFully modi/f_i ed
+No modi/f_i cationFully modi/f_i ed
 
 Humans use half of all habitable land on
 
 Earth for agriculture.
 
-## One thousand years
+# One thousand years
 
 ago, we farmed less than 4 percent.
 
-### The global human modi/f_i cation key
+The global human modi/f_i cation key
 
 (above) aggregates population density,
 
 built-up areas, croplands, livestocks,
 
-## transportation
+transportation
 
-## mining
+mining
 
-## energy production
+energy production
 
 and electrical infrastructures.
 
@@ -19926,31 +19926,31 @@ indd 4001-004_Plate_C.
 
 indd 4 26/01/2021 09:3026/01/2021 09:30
 
-## 145 CHAPTER 12
+145 CHAPTER 12
 
-## 10 You need to earn $90–95
+10 You need to earn $90–95
 
 000 a year to claim a place in the top 10 percent.
 
 would have explained that when Sweden introduced its draconian
 
-## carbon tax in 1990
+carbon tax in 1990
 
-### nobody protested because immediate
+nobody protested because immediate
 
 compensation was offered in the form of reduced income tax.
 
-## This
+# This
 
-### kind of green tax shift is now standard
+kind of green tax shift is now standard
 
-## and can be amplified by
+and can be amplified by
 
 further social dividend payments to low income households.
 
 The reasons for the resentment in France and elsewhere are
 
-## complex
+complex
 
 but the roots lie in gross inequality.
 
@@ -19958,7 +19958,7 @@ Every January, on the
 
 eve of the World Economic Forum in Davos
 
-## Switzerland
+# Switzerland
 
 charity Oxfam releases a devastating headline from its annual
 
@@ -19970,9 +19970,9 @@ richest billionaires controlled the same wealth as the poorest half of
 
 the world’s population.
 
-## Just a year before
+# Just a year before
 
-## the richest 62 billionaires
+the richest 62 billionaires
 
 hoarded a similar wealth.
 
@@ -19980,9 +19980,9 @@ It is not only the shocking gap between rich and poor we need to
 
 look at, though.
 
-## In the United States
+# In the United States
 
-## the world’s richest economy
+the world’s richest economy
 
 the top 1 percent have as much wealth as the entire middle class
 
@@ -19990,41 +19990,41 @@ approximately $35 trillion.
 
 How did societies become so unequal?
 
-### The wealth in the world is growing
+# The wealth in the world is growing
 
-## but it is not being shared
+but it is not being shared
 
 equally.
 
 It is accruing in the hands of a few.
 
-## The richest 10 percent
+# The richest 10 percent
 
-### own 82 percent of global wealth
+own 82 percent of global wealth
 
-### 10 and the richest 1 percent own
+10 and the richest 1 percent own
 
-## 45 percent of global wealth.
+45 percent of global wealth.
 
-## Somehow
+# Somehow
 
 as governments instigate deep austerity measures
 
 wealthy are immune.
 
-### The French economist Thomas Piketty
+# The French economist Thomas Piketty
 
-### explained it with a simple equation
+explained it with a simple equation
 
 r > g, or
 
-## the rate of return on
+the rate of return on
 
 capital (r) is greater than the rate of growth in the economy (g).
 
 Imagine that the economy is growing at 2 percent every year
 
-## which
+which
 
 is a typical rate in fully industrialized economies.
 
@@ -20034,75 +20034,75 @@ investments in property and shares are growing at 4 percent a year.
 
 The two rates are on diverging exponential paths.
 
-## It may not seem
+# It may not seem
 
-## much at first
+much at first
 
 but quickly investments (r) streak ahead.
 
 Income inequality in many developed countries is now at
 
-## reaching
+reaching
 
 levels not seen since the 1930s.
 
-## During the Great
+# During the Great
 
-## Depression
+# Depression
 
-## production fell by a quarter
+production fell by a quarter
 
-## thereby driving crippling
+thereby driving crippling
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 145US_106-195_321647_BB_Chap9-16.
 
-## indd 145 16/02/2021 11
+indd 145 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 unemployment and unacceptable levels of insecurity.
 
-## A full 50
+# A full 50
 
 percent of national income was siphoned to the richest 10 percent of
 
 society in the United States.
 
-### A new social contract or agreement was
+# A new social contract or agreement was
 
 needed between workers and capitalists to bring the world back
 
 from the brink of economic collapse.
 
-## In the United States
+# In the United States
 
 President Franklin D.
 
-## Roosevelt drove
+# Roosevelt drove
 
 through his New Deal.
 
 In his 1933 inaugural address, Roosevelt
 
-## told the nation
+told the nation
 
 “I shall ask the Congress for the one remaining
 
 instrument to meet the crisis.
 
-### [I need] broad executive power to
+[I need] broad executive power to
 
 wage a war against the emergency as great as the power that would
 
 be given to me if we were in fact invaded by a foreign foe.
 
-## ” Under
+” Under
 
-## Roosevelt
+# Roosevelt
 
 the marginal rate of income tax for those on very high
 
@@ -20112,79 +20112,79 @@ Despite this, the New
 
 Deal failed to spur the kind of economic recovery the United States
 
-## desperately needed
+desperately needed
 
 and it took a crisis—World War II—to finally
 
-## pull the country
+pull the country
 
-## and the world
+and the world
 
 out of the Great Depression.
 
 During the 60 years after the Great Depression
 
-## wealthy countries
+wealthy countries
 
 ramped up how much money they spent on social programs
 
-## funded
+funded
 
 by taxing higher earners.
 
 This huge increase in government revenue
 
-## in turn
+in turn
 
-## funded education
+funded education
 
-## health
+health
 
-## science
+science
 
-## and infrastructure on an
+and infrastructure on an
 
 unprecedented scale.
 
-## These social programs
+# These social programs
 
-## particularly education
+particularly education
 
 effectively redistributed wealth as people moved into skilled
 
-## high-
+high-
 
 paying, middle-class jobs.
 
-### Foundational and revolutionary
+# Foundational and revolutionary
 
-## technologies
+technologies
 
-## such as electricity
+such as electricity
 
-## light bulbs
+light bulbs
 
-## automobiles
+automobiles
 
 radio,
 
-## television
+television
 
-## and aircraft
+and aircraft
 
 helped this growth happen.
 
-## As Rosling
+# As Rosling
 
-## fondly recalls
+fondly recalls
 
 when his mother purchased a washing machine
 
 profoundly changed both his and her life.
 
-## By reducing time spent
+# By reducing time spent
 
-## on chores
+on chores
 
 the simple washing machine gave her the freedom to
 
@@ -20194,17 +20194,17 @@ Eventually, those early
 
 opportunities enabled him to go to college.
 
-### Inequality improved until the 1970s
+# Inequality improved until the 1970s
 
-## as the income of those at the
+as the income of those at the
 
 bottom grew faster than the income of those at the top.
 
-## But progress
+# But progress
 
 ground to a crawl in 1973 when an embargo on oil sent prices up
 
-## 400 percent
+400 percent
 
 shocking the global economy and allowing marginalized
 
@@ -20218,49 +20218,49 @@ markets swept through the United States and United Kingdom
 
 when Ronald Reagan and Margaret Thatcher came to power.
 
-## From
+# From
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 146US_106-195_321647_BB_Chap9-16.
 
-## indd 146 16/02/2021 11
+indd 146 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 147 CHAPTER 12
+147 CHAPTER 12
 
-## here on in
+here on in
 
 those at the bottom and middle saw wages stagnate or
 
-## decline
+decline
 
 whereas those at the top saw incomes go through the roof.
 
 While many of us are better off than our grandparents in terms of
 
-## health and longevity
+health and longevity
 
 it is the scale and blatancy of income inequality
 
 that has seeded the resentment and political instability that we see
 
-## around the world today
+around the world today
 
 social media feeds bombard us with images
 
-### of rich people leading carefree
+of rich people leading carefree
 
 extravagant lifestyles.
 
-## If you are not
+# If you are not
 
-### jetting to Bali or Paris every weekend
+jetting to Bali or Paris every weekend
 
 you are a failure.
 
-### Inequality in the Anthropocene
+# Inequality in the Anthropocene
 
 Life will be made more difficult for many due to rising inequalities
 
@@ -20272,11 +20272,11 @@ will increasingly be hit hardest by the social instabilities and
 
 extreme events brought by the climate crisis.
 
-## Food shortages are a
+# Food shortages are a
 
 key amplifier of inequality.
 
-### Drought and flooding contributed to
+# Drought and flooding contributed to
 
 severe food shortages in southern and eastern Africa in 2019 and
 
@@ -20284,19 +20284,19 @@ severe food shortages in southern and eastern Africa in 2019 and
 
 Inequality also impacts the lives of the poor in less obvious ways.
 
-## As the ocean warms
+# As the ocean warms
 
 the fish populations will move out of the
 
 tropics in search of cooler waters.
 
-### Many poor people depend on fish
+# Many poor people depend on fish
 
 for their livelihoods and food.
 
-### Since most of the world’s poor live
+Since most of the world’s poor live
 
-## in the tropics
+in the tropics
 
 the decrease in fish populations in these regions will
 
@@ -20304,9 +20304,9 @@ hit them particularly hard.
 
 In a similar vein, crop yields may
 
-### improve in countries in the far north
+improve in countries in the far north
 
-## as winters become less harsh
+as winters become less harsh
 
 but land in the tropics will become harder to farm as temperatures
 
@@ -20314,13 +20314,13 @@ rise.
 
 Rangelands in West Africa are projected to decline by up to
 
-## 46 percent
+46 percent
 
 affecting 180 million farmers.
 
 But it gets worse.
 
-## A 2020
+# A 2020
 
 assessment shows that for each 1.
 
@@ -20330,25 +20330,25 @@ additional 1 billion people will be living in places with intolerable
 
 heat levels—beyond the human climate niche.
 
-## On our current
+# On our current
 
-## trajectory
+trajectory
 
-## in only 80 years
+in only 80 years
 
 this will put 3 billion people at risk of
 
-## enduring extreme environments
+enduring extreme environments
 
 for at least part of the year.
 
-## This
+# This
 
 will predominantly hit arid and semi-arid hot tropical regions
 
-## hardest
+hardest
 
-## that is
+that is
 
 regions hosting the world’s poorest societies.
 
@@ -20364,87 +20364,87 @@ A remarkable recent analysis indicates this has become a
 
 reality.
 
-### Two academics at Stanford University
+# Two academics at Stanford University
 
-## Noah Diffenbaugh
+# Noah Diffenbaugh
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 147US_106-195_321647_BB_Chap9-16.
 
-## indd 147 16/02/2021 11
+indd 147 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## and Marshall Burke
+and Marshall Burke
 
-### showed that poorer countries found it
+showed that poorer countries found it
 
 significantly harder to catch up economically with richer ones over
 
 the past 50 years because of climate change.
 
-## An earlier analysis by
+# An earlier analysis by
 
 Burke and other colleagues noted that economic productivity peaks
 
 when the average temperature is 55°F (13°C).
 
-## The average annual
+# The average annual
 
 temperature for wealthy countries is below 55°F (13°C)
 
-## so they
+so they
 
 will benefit from a little global warming
 
-## whereas poorer countries
+whereas poorer countries
 
 tend to be warmer than 55°F (13°C) already and can expect
 
 productivity to decline.
 
-### You can see where this is going
+# You can see where this is going
 
-## Red Queen
+# Red Queen
 
 economics.
 
 11 Poorer countries already have to work harder to achieve
 
-### the same level of economic productivity
+the same level of economic productivity
 
-## in future
+in future
 
 it will get worse.
 
-## Of course
+# Of course
 
 wealthy countries are not immune to extreme weather.
 
-## When disasters strike
+# When disasters strike
 
-## though
+though
 
-### it is the low-income neighborhoods
+it is the low-income neighborhoods
 
-## that suffer most
+that suffer most
 
-## in the United States
+in the United States
 
-## nearly half a million
+nearly half a million
 
 government-subsidized homes are built on flood plains.
 
-## And it is
+# And it is
 
 not just climate.
 
-## Across Europe
+# Across Europe
 
-### poor neighborhoods have higher
+poor neighborhoods have higher
 
 air pollution than richer areas.
 
@@ -20454,11 +20454,11 @@ minority communities are more likely to breathe in more dangerous
 
 air.
 
-## African Americans
+# African Americans
 
-## Latinos
+# Latinos
 
-### and Asian Americans are exposed
+and Asian Americans are exposed
 
 to 66 percent more air pollution from vehicles than white people
 
@@ -20468,31 +20468,31 @@ Most research on inequality and climate focuses on the poor.
 
 Much less attention is paid to the rich and their behavior.
 
-## As people
+# As people
 
-## become wealthier
+become wealthier
 
 their ecological footprint expands.
 
-## A team at
+# A team at
 
 Potsdam Institute for Climate Impact Research
 
-## led by Ilona Otto
+led by Ilona Otto
 
 estimated that the superrich have an annual footprint equivalent to
 
 about 72 tons (65 metric tons) of carbon dioxide per person.
 
-## This is
+# This is
 
 more than 10 times the global average.
 
-## Otto calculated that the
+# Otto calculated that the
 
 emissions of the wealthiest 0.
 
-### 5 percent of the global population are
+5 percent of the global population are
 
 greater than the world’s poorest 50 percent when it comes to
 
@@ -20502,23 +20502,23 @@ Given that Otto struggled to find many superrich willing
 
 to talk to her about their carbon footprints
 
-## it would not be surprising
+it would not be surprising
 
 if this is a gross underestimate.
 
-### 12 Ironically, the superrich can easily
+12 Ironically, the superrich can easily
 
 11 In Lewis Carroll’s Through the Looking-Glass (1871)
 
-## the Red Queen tells Alice
+the Red Queen tells Alice
 
-### takes all the running you can do
+takes all the running you can do
 
 to keep in the same place.
 
-### 12 One interviewee was not superrich himself
+12 One interviewee was not superrich himself
 
-### he was a pilot of a private jet for the
+he was a pilot of a private jet for the
 
 superrich.
 
@@ -20526,11 +20526,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 148US_106-195_321647_BB_Chap9-16.
 
-## indd 148 16/02/2021 11
+indd 148 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 149 CHAPTER 12
+149 CHAPTER 12
 
 afford to buy solar panels and energy-efficient solutions to reduce
 
@@ -20538,7 +20538,7 @@ their footprints (although flying accounts for more than half of their
 
 carbon emissions).
 
-### Equality and planetary stewardship
+# Equality and planetary stewardship
 
 Can greater income equality support planetary stewardship?
 
@@ -20548,123 +20548,123 @@ And we believe this is one of the most important untold stories in
 
 the Anthropocene.
 
-## In 2009
+# In 2009
 
-### two epidemiologists from the north of
+two epidemiologists from the north of
 
-## England
+# England
 
-### Kate Pickett and Richard Wilkinson
+# Kate Pickett and Richard Wilkinson
 
-## crunched the data
+crunched the data
 
 on inequality across wealthy societies in their remarkable book The
 
-## Spirit Level
+# Spirit Level
 
 Why More Equal Societies Almost Always Do Better.
 
-## 13 What
+13 What
 
 they found is astounding.
 
 People living in more equal societies,
 
-## such as Sweden or Denmark
+such as Sweden or Denmark
 
-## have better health
+have better health
 
-## more social
+more social
 
-## 13 In the United States
+13 In the United States
 
-### the book had a different subtitle
+the book had a different subtitle
 
-## Why Greater Equality
+# Why Greater Equality
 
 Makes Societies Stronger.
 
-## Income inequalityLow High
+# Income inequalityLow High
 
-## Health and social problems
+# Health and social problems
 
-### People living in wealthy countries
+# People living in wealthy countries
 
-### with high inequality suffer from more
+with high inequality suffer from more
 
-### health and social problems than those
+health and social problems than those
 
 living in more equal wealthy countries.
 
 Index of health and social problemsIndex of
 
-## • Life expectancy
+• Life expectancy
 
-## • Math and literacy
+• Math and literacy
 
-## • Infant mortality
+• Infant mortality
 
-## • Homicides
+• Homicides
 
-## • Imprisonment
+• Imprisonment
 
-## • T eenage births
+• T eenage births
 
-## • Trust
+• Trust
 
-## • Obesity
+• Obesity
 
 • Mental illness,
 
-## including drug and
+including drug and
 
-## alcohol addiction
+alcohol addiction
 
-## • Social mobility
+• Social mobility
 
-## BetterWorse USA
+# BetterWorse USA
 
-## Portugal
+# Portugal
 
-## Greece
+# Greece
 
-## Ireland
+# Ireland
 
-## France
+# France
 
-## Canada
+# Canada
 
-## Switzerland
+# Switzerland
 
 NetherlandsSwedenNorwayFinlandBelgiumDenmarkAustria
 
-## JapanSpainItalyGermanyUK
+# JapanSpainItalyGermanyUK
 
-## New Zealand
+# New Zealand
 
-## Australia
+# Australia
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 149US_106-195_321647_BB_Chap9-16.
 
-## indd 149 16/02/2021 11
+indd 149 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 cohesion, more trust, and less crime.
 
-## And in countries such as
+# And in countries such as
 
-## Norway
+# Norway
 
-## Finland
+# Finland
 
-## and Japan
+and Japan
 
-### life expectancy tends to be higher
+life expectancy tends to be higher
 
 than in very unequal countries such as the United States
 
@@ -20672,49 +20672,49 @@ United Kingdom, or Singapore.
 
 More equal societies tend to do better in math
 
-## literacy
+literacy
 
-## and other
+and other
 
 educational achievements.
 
 They have lower obesity rates.
 
-## There are
+# There are
 
 fewer teenage births.
 
-### Drug and alcohol addictions are not as
+# Drug and alcohol addictions are not as
 
 prevalent.
 
 The murder rate is lower.
 
-## There are fewer people in
+# There are fewer people in
 
 prison.
 
-### And there is greater social mobility
+# And there is greater social mobility
 
-## if you are born into a
+if you are born into a
 
-## low-income family in Sweden
+low-income family in Sweden
 
-### there are more opportunities for
+there are more opportunities for
 
 education and training to allow you to move into high-income
 
-## brackets than
+brackets than
 
 say, in Brazil or the United States.
 
-## You are more
+# You are more
 
 likely to live the American Dream in Stockholm or Copenhagen
 
 than in Los Angeles or New York.
 
-### Pickett and Wilkinson also looked
+# Pickett and Wilkinson also looked
 
 at inequality within the United States.
 
@@ -20722,29 +20722,29 @@ They found the same pattern.
 
 States with greater income inequality did worse on everything
 
-## from
+from
 
 opioid use to obesity.
 
-### The most remarkable conclusion
+# The most remarkable conclusion
 
-## though
+though
 
-## is that the richest
+is that the richest
 
 people in more equal societies do better and live happier
 
-## more
+more
 
 fulfilling lives than the richest people in unequal countries.
 
-## Think
+# Think
 
 about this for a minute.
 
-### If Warren Buffett or Michael Bloomberg
+# If Warren Buffett or Michael Bloomberg
 
-## lived in Sweden
+lived in Sweden
 
 chances are they would be happier and healthier
 
@@ -20756,15 +20756,15 @@ It is all about status.
 
 People’s choice of clothes,
 
-## movies
+movies
 
-## and food
+and food
 
-## where we go on vacation
+where we go on vacation
 
-## how we travel
+how we travel
 
-## where we
+where we
 
 live, in fact everything we consume says something about our status
 
@@ -20772,27 +20772,27 @@ and self-esteem.
 
 We are extremely sensitive to status.
 
-## Low social
+# Low social
 
-### status is linked to poor health
+status is linked to poor health
 
-## drug use
+drug use
 
-## depression
+depression
 
-## and decreased
+and decreased
 
 longevity.
 
-## As Pickett and Wilkinson note
+# As Pickett and Wilkinson note
 
-## greater inequality heightens
+greater inequality heightens
 
 social anxieties by increasing the importance of social status.
 
-## Marketing
+# Marketing
 
-## branding
+branding
 
 and advertising industries use our anxieties
 
@@ -20800,9 +20800,9 @@ and insecurities to make us buy things that we don’t need to impress
 
 people that we don’t care about.
 
-### It does not matter if you are rich or
+# It does not matter if you are rich or
 
-## poor in this system
+poor in this system
 
 you will still feel insecure and unhappy.
 
@@ -20812,7 +20812,7 @@ operating space for humanity?
 
 Inequality is a big driver of materialism.
 
-## We show our status in
+# We show our status in
 
 society by our consumption habits.
 
@@ -20822,11 +20822,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 150US_106-195_321647_BB_Chap9-16.
 
-## indd 150 16/02/2021 11
+indd 150 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 151 CHAPTER 12
+151 CHAPTER 12
 
 consumption is less about status.
 
@@ -20836,31 +20836,31 @@ more trust.
 
 You are more likely to trust your neighbors
 
-## colleagues
+colleagues
 
-## employer
+employer
 
 and government in Sweden than you are in Saudi Arabia.
 
 Overall, there is more social cohesion.
 
-### People are less likely to think
+# People are less likely to think
 
 their society is corrupt or that everyone is in it for themselves.
 
-## There
+# There
 
 is a greater appreciation of collective responsibility
 
-## which builds a
+which builds a
 
 more efficient system for collective decision-making.
 
 Ultimately, in
 
-## more equal societies
+more equal societies
 
-### there is more trust in governments
+there is more trust in governments
 
 institutions we have built and tinkered with to help make long-term
 
@@ -20874,17 +20874,17 @@ A fragmented,
 
 distrustful global political system will fail to stabilize Earth.
 
-## In Nordic countries
+# In Nordic countries
 
-## people recycle more
+people recycle more
 
-## eat less meat
+eat less meat
 
 produce less waste.
 
-## Even before the pandemic
+# Even before the pandemic
 
-## the number of airline
+the number of airline
 
 passengers had begun to dip.
 
@@ -20898,19 +20898,19 @@ businesses in more equal countries are more likely to respond
 
 positively to international environmental agreements.
 
-## We have
+# We have
 
 spent quite some time talking to the CEOs of companies such as
 
-## Ericsson
+# Ericsson
 
-## Scania
+# Scania
 
-## Spotify
+# Spotify
 
 and IKEA in Sweden.
 
-## The anecdotal
+# The anecdotal
 
 evidence that we gathered through these conversations bears this
 
@@ -20920,7 +20920,7 @@ These business leaders are deeply concerned and take a
 
 personal interest in sustainability issues in their firms.
 
-## They
+# They
 
 emphasize that quality of life is a big draw when they want to attract
 
@@ -20934,11 +20934,11 @@ Yet inequality is rampant and getting worse.
 
 Globalization is creating a race to the bottom.
 
-## Companies are
+# Companies are
 
 stashing cash in offshore havens to avoid paying taxes.
 
-## Countries
+# Countries
 
 bend over backward to attract wealthy businesses and turn a blind
 
@@ -20952,51 +20952,51 @@ How can we ever create more equal societies
 
 amid this chaos?
 
-## Never waste a good crisis
+# Never waste a good crisis
 
-### as Winston Churchill is alleged to have
+as Winston Churchill is alleged to have
 
 said.
 
 Roosevelt’s New Deal emerged in a time of crisis.
 
-## World War
+# World War
 
 II led to a complete overhaul of international politics.
 
-## In a few short
+# In a few short
 
 years, Churchill and others created the International Monetary
 
-## Fund (IMF)
+Fund (IMF)
 
-## the World Bank
+the World Bank
 
-## the forerunners to the United
+the forerunners to the United
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 151US_106-195_321647_BB_Chap9-16.
 
-## indd 151 16/02/2021 11
+indd 151 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## Nations
+# Nations
 
 and the World Trade Organization.
 
-## These institutions
+# These institutions
 
 have contributed to 75 years of relative peace
 
-## stability
+stability
 
 and,
 
-## therefore
+therefore
 
 economic development here on Earth.
 
@@ -21006,11 +21006,11 @@ COVID-19 pandemic was the biggest shock to hit our planet since
 
 World War II.
 
-### As economies went into free fall
+# As economies went into free fall
 
-## political
+political
 
-## impossibilities
+impossibilities
 
 such as trillion-dollar bailouts for companies and
 
@@ -21018,7 +21018,7 @@ the distribution of millions of checks to families across the United
 
 States, suddenly became possible.
 
-## Crucially
+# Crucially
 
 several ideas to tackle inequality and sustainability are
 
@@ -21042,9 +21042,9 @@ reach net zero emissions by 2050 and to hit 100 percent renewable
 
 electricity by 2035.
 
-## While there are many variants
+# While there are many variants
 
-## in general these
+in general these
 
 Green Deals are designed to bring together inequality and planetary
 
@@ -21054,21 +21054,21 @@ Through massive infrastructure investment in clean
 
 green trains and mass transit systems in cities
 
-## power networks to
+power networks to
 
-## distribute renewable energy
+distribute renewable energy
 
-## and energy efficiency systems
+and energy efficiency systems
 
 Green Deals aim high.
 
-### On top of that will come investment in
+# On top of that will come investment in
 
 health, education, and science.
 
-### The Green Deals also plan to support
+# The Green Deals also plan to support
 
-## workers in the coal industry
+workers in the coal industry
 
 which will have to shut down.
 
@@ -21076,7 +21076,7 @@ Can any of this be achieved?
 
 Yes, it can.
 
-## As the world reels and
+# As the world reels and
 
 staggers from COVID-19 and economies look for ways to bounce
 
@@ -21084,19 +21084,19 @@ back, it is hard to imagine a better time to implement Green Deals.
 
 The devastating impact of inequality is clear.
 
-## Many leading
+# Many leading
 
 institutions and media associated with unfettered free markets and
 
-## rampant capitalism
+rampant capitalism
 
-### such as the World Economic Forum
+such as the World Economic Forum
 
-## Financial Times
+# Financial Times
 
-## and The Economist
+and The Economist
 
-### support a radical overhaul of the
+support a radical overhaul of the
 
 system.
 
@@ -21104,23 +21104,23 @@ This may surprise environmental and social justice activists.
 
 These institutions want to see a fairer distribution of wealth
 
-## a new
+a new
 
-## social contract with society
+social contract with society
 
-## and a future within planetary
+and a future within planetary
 
 boundaries.
 
 The new leaders of the IMF and the European Central
 
-## Bank feel the same way
+# Bank feel the same way
 
-### they care about the future and fully
+they care about the future and fully
 
 understand what is at stake.
 
-### The high priests of capitalism are
+# The high priests of capitalism are
 
 demanding radical overhaul.
 
@@ -21132,13 +21132,13 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 152US_106-195_321647_BB_Chap9-16.
 
-## indd 152 16/02/2021 11
+indd 152 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 153 CHAPTER 12
+153 CHAPTER 12
 
-## Reducing inequality
+# Reducing inequality
 
 There are three ways to reduce inequality.
 
@@ -21150,11 +21150,11 @@ Second, we
 
 could ensure a narrow difference in income before tax between rich
 
-## and poor
+and poor
 
 by capping the salaries of CEOs to a fixed percentage
 
-### above the average in the company
+above the average in the company
 
 for example.
 
@@ -21164,11 +21164,11 @@ ensure that wealth does not accumulate much faster than economic
 
 growth.
 
-## Since World War II
+# Since World War II
 
-## the Nordic countries
+the Nordic countries
 
-## France
+# France
 
 Germany have taken the first route.
 
@@ -21178,7 +21178,7 @@ the second.
 
 The problem with the third route is that wealth moves
 
-## internationally
+internationally
 
 often toward low tax regimes.
 
@@ -21194,7 +21194,7 @@ innovation.
 
 This is simply not the case.
 
-## All research suggests a
+# All research suggests a
 
 wealth tax on highest earners has zero impact on innovation
 
@@ -21208,17 +21208,17 @@ planetary emergency and gross inequality demand a seismic shift in
 
 approach.
 
-## Instead of taxing good things
+# Instead of taxing good things
 
-## like hard work
+like hard work
 
-## we should
+we should
 
-## tax bad things
+tax bad things
 
 like carbon emissions and destruction of nature.
 
-## the very least
+the very least
 
 we should tax high-polluting activities and remove
 
@@ -21226,57 +21226,57 @@ tax for those on low incomes.
 
 In this world, those on low incomes
 
-## would pay no tax
+would pay no tax
 
 and flying would become very expensive.
 
-## These
+# These
 
-### changes must be done with care
+changes must be done with care
 
-### as people tend to be loss averse
+as people tend to be loss averse
 
 pain of losing is greater than the pleasure of gaining.
 
-## The French
+# The French
 
 president found this out when he jacked up the price of diesel.
 
 The second approach is perhaps not that radical at all
 
-## given the
+given the
 
 spending spree that suddenly popped up to prevent economic
 
 collapse in 2020.
 
-## Governments
+# Governments
 
-## and the private sector
+and the private sector
 
 too, for that
 
-## matter
+matter
 
 should borrow more money and invest it in our future
 
-## social
+social
 
-### and physical investments in education
+and physical investments in education
 
-## health
+health
 
-## science
+science
 
-## electrifying
+electrifying
 
 roads, battery storage
 
-## hydrogen economy
+hydrogen economy
 
 and so on.
 
-## One way is by
+# One way is by
 
 funding massive infrastructure projects and supporting Green Deals.
 
@@ -21288,7 +21288,7 @@ First, interest rates are at rock
 
 bottom and have been for a decade.
 
-## There has never been a better
+# There has never been a better
 
 time to borrow money.
 
@@ -21298,33 +21298,33 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 153US_106-195_321647_BB_Chap9-16.
 
-## indd 153 16/02/2021 11
+indd 153 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 around.
 
-### United States corporations (think Apple
+United States corporations (think Apple
 
-## Alphabet [parent
+Alphabet [parent
 
-## company of Google]
+company of Google]
 
-## Facebook
+# Facebook
 
-## among others) are sitting on
+among others) are sitting on
 
 $4 trillion in cash.
 
 The head of the major investment firm Berkshire
 
-## Hathaway
+# Hathaway
 
-## Warren Buffett
+# Warren Buffett
 
-### tells anyone and everyone who will
+tells anyone and everyone who will
 
 listen that he has $130 billion in cash burning a hole in his pocket.
 
@@ -21332,17 +21332,17 @@ Where are the big transformative visions that require deep pockets
 
 but will build the pathways toward a safe operating space?
 
-## high-speed railroads
+high-speed railroads
 
-## bridges
+bridges
 
-## offshore wind farms
+offshore wind farms
 
-## and energy
+and energy
 
 storage systems are the investments that will provide the pension
 
-## funds with strong returns
+funds with strong returns
 
 50, 75
 
@@ -21350,13 +21350,13 @@ and 100 years from now.
 
 An even better approach than borrowing from the wealthy is
 
-## course
+course
 
-## to tax them
+to tax them
 
 as Piketty points out.
 
-## Perhaps we can implement
+# Perhaps we can implement
 
 both options at the same time.
 
@@ -21368,43 +21368,43 @@ We live in a remarkable age.
 
 As Max Roser, the founder
 
-## of Our World in Data
+of Our World in Data
 
-## points out
+points out
 
-## if newspapers were published
+if newspapers were published
 
-## once every 50 years
+once every 50 years
 
-### the headlines today would read
+the headlines today would read
 
-## “90 percent
+“90 percent
 
 of the population lifted from extreme poverty.
 
-## ” Inequality is more
+” Inequality is more
 
 than poverty eradication, though.
 
-## The aim must be a fairer
+# The aim must be a fairer
 
 distribution of wealth in the world.
 
 This will build trust, moderate
 
-## consumption
+consumption
 
 and help collective decision-making.
 
 Some of the big picture solutions—such as a tax on wealth
 
-## global perspective on tax
+global perspective on tax
 
-### and a cleverly designed carbon tax—
+and a cleverly designed carbon tax—
 
 could, if managed well
 
-### be wildly popular among voters and help
+be wildly popular among voters and help
 
 stabilize the planet.
 
@@ -21412,7 +21412,7 @@ Green Deals are springing up around the world.
 
 We need to applaud and encourage them.
 
-## We need them to become
+# We need them to become
 
 contagious.
 
@@ -21434,25 +21434,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 154US_106-195_321647_BB_Chap9-16.
 
-## indd 154 16/02/2021 11
+indd 154 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 155 CHAPTER 13
+155 CHAPTER 13
 
 Our friend Will Steffen tells a great yarn about his hometown
 
 Canberra.
 
-## Back in 2011
+# Back in 2011
 
 the Green Party won the local election on
 
 a promise to cut carbon emissions in half in a decade.
 
-## They were
+# They were
 
-## duly elected
+duly elected
 
 then admitted they didn’t really have a clue how to
 
@@ -21462,19 +21462,19 @@ But they succeeded anyway.
 
 Emissions more than halved.
 
-## Since
+# Since
 
-## January 1
+# January 1
 
 2020, the city has run on 100 percent clean electricity
 
 the eighth city in the world to do so and the first outside Europe.
 
-## Buoyed by this success
+# Buoyed by this success
 
 and against a backdrop of fierce federal
 
-## opposition
+opposition
 
 politicians now plan to make Canberra 100 percent
 
@@ -21484,17 +21484,17 @@ The Greens plan to electrify the city’s bus
 
 fleet and provide incentives to buy electric cars.
 
-## They also hope to
+# They also hope to
 
 “Copenhagenize” transportation by making walking
 
-## cycling
+cycling
 
-### scootering—micro mobility—the easiest
+scootering—micro mobility—the easiest
 
-## cheapest
+cheapest
 
-## and healthiest
+and healthiest
 
 ways to move around.
 
@@ -21506,13 +21506,13 @@ The city is sunny.
 
 Renewables are cheap and efficient.
 
-## Moving into
+# Moving into
 
 renewable energy has brought jobs to the area.
 
-## Farmers are more BUILDING
+# Farmers are more BUILDING
 
-## TOMORROW’S CITIES
+TOMORROW’S CITIES
 
 Note for Americans and other aliens:
 
@@ -21520,11 +21520,11 @@ Milton Keynes is a new city approximately
 
 halfway between London and Birmingham.
 
-## It was built to be modern
+# It was built to be modern
 
-## efficient
+efficient
 
-## healthy
+healthy
 
 and, all in all
 
@@ -21532,7 +21532,7 @@ a pleasant place to live.
 
 Many Britons find this amusing.
 
-### TERRY PRATCHETT AND NEIL GAIMAN
+# TERRY PRATCHETT AND NEIL GAIMAN
 
 GOOD OMENS , 1990
 
@@ -21540,17 +21540,17 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 155US_106-195_321647_BB_Chap9-16.
 
-## indd 155 16/02/2021 11
+indd 155 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-### 14 This quote is originally by Homer Simpson.
+14 This quote is originally by Homer Simpson.
 
-### We have replaced the word “alcohol”
+We have replaced the word “alcohol”
 
 with “cities.
 
-### 15 This is another example of emergent behavior.
+15 This is another example of emergent behavior.
 
 financially secure.
 
@@ -21558,29 +21558,29 @@ Those suffering under prolonged droughts can
 
 now host wind turbines and solar arrays on their land.
 
-## As Steffen
+# As Steffen
 
 says, “The biggest benefit of all will come in 2045
 
-## when we can look
+when we can look
 
 our children and grandchildren in the eye and say
 
-## ‘We’ve done the
+‘We’ve done the
 
 right thing for you.
 
 Here’s to cities!
 
-## The cause of
+# The cause of
 
-## and solution to
+and solution to
 
 all of life’s problems.
 
 The fourth Earthshot system transformation is cities.
 
-## They are
+# They are
 
 the action arm of civilization.
 
@@ -21590,19 +21590,19 @@ look here.
 
 Cities are dynamic engines of innovation
 
-## creativity
+creativity
 
 ideas.
 
 They create enormous wealth and are magnets for talent.
 
-## They are the seats of power
+# They are the seats of power
 
-### where inhabitants feel closer to that
+where inhabitants feel closer to that
 
 power.
 
-## Indeed
+# Indeed
 
 the mayor’s office or town council is often just a walk
 
@@ -21614,23 +21614,23 @@ their superpower.
 
 Cities are also where we find crime and pollution
 
-## poverty and
+poverty and
 
 disease.
 
 They have colossal appetites.
 
-### Cities cause 70 percent of the
+# Cities cause 70 percent of the
 
 world’s carbon emissions.
 
 Not all cities emit equally, though.
 
-## Of the
+# Of the
 
-### thousands of cities in the world
+thousands of cities in the world
 
-### 18 percent of global emissions come
+18 percent of global emissions come
 
 from just one hundred of them.
 
@@ -21638,23 +21638,23 @@ Urbanization and industrialization are seen as the alchemy from
 
 which springs modernization and all-important growth.
 
-## This is
+# This is
 
 borne out by a simple statistic.
 
-### Although you might expect a city’s
+Although you might expect a city’s
 
-### GDP to double as it doubles in size
+# GDP to double as it doubles in size
 
 this is not the case.
 
-## In most
+# In most
 
-## places
+places
 
 the economic growth is often far more than double.
 
-## Economic
+# Economic
 
 activity and a general fizz of creativity and innovation increase
 
@@ -21662,41 +21662,41 @@ exponentially as more social connections are made and networks
 
 become increasingly complex.
 
-### 15 Cities, with their combination of
+15 Cities, with their combination of
 
-## chaos and order
+chaos and order
 
-## as well as social (people)
+as well as social (people)
 
-## biological (life)
+biological (life)
 
 physical (factories and bike paths) factors
 
-## are complex machines
+are complex machines
 
 that drive reinforcing feedback loops.
 
-## Some of these feedback loops
+# Some of these feedback loops
 
-## are good and encouraged
+are good and encouraged
 
-### such as creativity and knowledge
+such as creativity and knowledge
 
 production.
 
 Some are bad, such as crime and disease.
 
-## ACT III
+# ACT III
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 156US_106-195_321647_BB_Chap9-16.
 
-## indd 156 23/02/2021 10
+indd 156 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## 157 CHAPTER 13
+157 CHAPTER 13
 
 We want to take you through three key insights on cities and how
 
@@ -21708,23 +21708,23 @@ Anthropocene.
 
 This decade will be their greatest test yet.
 
-## If they do
+# If they do
 
-## not adapt and evolve
+not adapt and evolve
 
 they will shrivel and die.
 
 It is as simple as that.
 
-## Second
+# Second
 
 cities are superorganisms for responding to new
 
-## information
+information
 
-## flexing
+flexing
 
-## rejuvenating
+rejuvenating
 
 regenerating.
 
@@ -21738,11 +21738,11 @@ provides extra incentives for cities to transform
 
 and soon.
 
-## To thrive
+# To thrive
 
-## and prosper
+and prosper
 
-### they need to attract the brightest
+they need to attract the brightest
 
 most creative people.
 
@@ -21752,7 +21752,7 @@ It turns out cities that aim to live within
 
 planetary boundaries are also great places to live.
 
-## They are clean
+# They are clean
 
 and pollution-free.
 
@@ -21768,11 +21768,11 @@ Never underestimate a city under pressure.
 
 Now, faced with climate change and other planetary threats
 
-## they
+they
 
 are organizing themselves.
 
-### Initiatives such as the Covenant of
+# Initiatives such as the Covenant of
 
 Mayors and C40 cities—two international networks—are uniting
 
@@ -21782,11 +21782,11 @@ Can you kill a city?
 
 Cities are resilient.
 
-### Anyone lucky enough to visit Jerusalem
+# Anyone lucky enough to visit Jerusalem
 
 Rome,
 
-## Athens
+# Athens
 
 or Istanbul may get lost in their richly layered histories
 
@@ -21794,13 +21794,13 @@ stretching back millennia.
 
 Somehow, even when faced with
 
-## cascading calamities
+cascading calamities
 
 cities bounce back stronger than ever.
 
 It is surprisingly difficult to kill a city.
 
-## 16 People have tried really
+16 People have tried really
 
 hard.
 
@@ -21808,21 +21808,21 @@ Bombing campaigns in World War II reduced cities such as
 
 Dresden and Coventry to rubble.
 
-### US and Japanese aircraft dropped
+# US and Japanese aircraft dropped
 
 payloads of bombs over Manila in the Philippines
 
-## smashing the
+smashing the
 
 city to smithereens.
 
-## Most infamously of all
+# Most infamously of all
 
-## the United States
+the United States
 
 dropped nuclear bombs on Hiroshima and Nagasaki.
 
-## Who would
+# Who would
 
 have thought any of these cities would survive?
 
@@ -21834,11 +21834,11 @@ Cities are superorganisms that can seemingly
 
 live forever.
 
-## 16 By comparison
+16 By comparison
 
 it is relatively easy to kill a company.
 
-## The average age of a
+# The average age of a
 
 company in the S&P 500 index is 20 years.
 
@@ -21850,21 +21850,21 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 157US_106-195_321647_BB_Chap9-16.
 
-## indd 157 16/02/2021 11
+indd 157 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 Over half the world’s population17 now live in urban areas.
 
 number of people living in cities is expected to increase by 2 billion
 
-## by 2050
+by 2050
 
 bringing the urban population to 70 percent.
 
-## China is
+# China is
 
 driving the largest mass migration experiment in human history
 
@@ -21872,25 +21872,25 @@ and some time in the next two decades its urban population is likely
 
 to hit 1 billion people.
 
-## Across China
+# Across China
 
 India, and Africa
 
-## new cities
+new cities
 
 are being built to cope with this influx.
 
-## The rate of urbanization is
+# The rate of urbanization is
 
 truly astounding.
 
-### The world needs the equivalent of a new
+# The world needs the equivalent of a new
 
 5-million-person city every week.
 
 Currently, there are 33
 
-## megacities
+megacities
 
 where the population exceeds 10 million.
 
@@ -21902,37 +21902,37 @@ By 2030, another 10 cities will
 
 swell the ranks of the megacities.
 
-### What this urban growth means is
+# What this urban growth means is
 
 that more than 60 percent of the land projected to become urban by
 
-## 2030 is yet to be built.
+2030 is yet to be built.
 
-## This is a blank canvas
+# This is a blank canvas
 
-## a perfect opportunity
+a perfect opportunity
 
 for transformative design.
 
 We should feel a little uneasy about urban growth and its balance
 
-## between chaos and planning
+between chaos and planning
 
-## though
+though
 
-## as we step deeper into the
+as we step deeper into the
 
 Anthropocene.
 
-## In 1960
+# In 1960
 
 Lagos in Nigeria was a small coastal town.
 
 Now, it is home to nearly 20 million people
 
-## the bustling hub of
+the bustling hub of
 
-### 17 55 percent, to be exact.An urban planet
+17 55 percent, to be exact.An urban planet
 
 In 2007, the world crossed a
 
@@ -21942,33 +21942,33 @@ urban areas than in rural areas.
 
 1960 1970 1980 1990 2000 2010 2017Global population4 billion
 
-## 3.5 billion
+# 3.5 billion
 
-## 3 billion
+3 billion
 
-## 2.5 billion
+# 2.5 billion
 
-## 2 billion
+2 billion
 
-## 1.5 billion
+# 1.5 billion
 
-## 1 billion
+1 billion
 
-## 500 million
+500 million
 
-## Rural population
+# Rural population
 
-## Urban populationYear
+# Urban populationYear
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 158US_106-195_321647_BB_Chap9-16.
 
-## indd 158 16/02/2021 11
+indd 158 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 159 CHAPTER 13
+159 CHAPTER 13
 
 Africa’s most populous country.
 
@@ -21988,7 +21988,7 @@ where the car is king and people spend much of their day stuck in
 
 traffic and choking on gasoline fumes.
 
-## Our cities are sinking
+# Our cities are sinking
 
 There is no doubt that some cities are in danger of disappearing.
 
@@ -21998,23 +21998,23 @@ Half of it is below sea level,
 
 and the ocean is eroding the surrounding wetlands.
 
-## Levees and
+# Levees and
 
 sophisticated flood barriers surround the city
 
-## making it into a
+making it into a
 
 modern-day fortress against the tide.
 
-## The US Army Corps of
+# The US Army Corps of
 
 Engineers designed the $14 billion project to provide protection
 
 against once in one hundred-year catastrophes in 2018.
 
-## Less than
+# Less than
 
-## a year later
+a year later
 
 they announced that by 2023 the defenses will no
 
@@ -22022,37 +22022,37 @@ longer provide this level of risk protection.
 
 “Climate change is turning that 100-year flood
 
-## that 1 percent
+that 1 percent
 
 flood, into a 5 percent flood or a 20-year flood
 
-## ” Rick Luettich
+” Rick Luettich
 
-### storm surge expert for the area
+storm surge expert for the area
 
 told The New York Times .
 
 Based on a special report from the Intergovernmental Panel on
 
-## Climate Change in 2019
+# Climate Change in 2019
 
 it is likely that the ocean will rise between
 
 1¼ feet (0.
 
-## 39 meters) and 3½ feet (1.
+39 meters) and 3½ feet (1.
 
-### 1 meters) by 2100, depending on
+1 meters) by 2100, depending on
 
 how much Earth heats this century.
 
-### But the report also warns that
+# But the report also warns that
 
-## city planners
+city planners
 
-## engineers
+engineers
 
-### and those with a low tolerance of risk
+and those with a low tolerance of risk
 
 might want to plan for a rise of a full 6 feet (2 meters) by around
 
@@ -22068,7 +22068,7 @@ But even this does not capture the extent of the problem.
 
 The end of the century is only 80 years away
 
-## and sea levels will not
+and sea levels will not
 
 stop rising in 2101.
 
@@ -22080,77 +22080,77 @@ As we mentioned earlier, the last time
 
 temperatures soared to today’s levels and held for a prolonged
 
-## period
+period
 
 the sea level rose about 20 to 30 feet (6 to 9 meters).
 
-## We need
+# We need
 
-### to be planning for this scenario
+to be planning for this scenario
 
-## even if we manage to keep the
+even if we manage to keep the
 
 temperature well below 3.
 
 6°F (2°C) global warming.
 
-## There is a lot at
+# There is a lot at
 
 stake.
 
 One billion people currently live on land that is less than
 
-### 33 feet (10 meters) above sea level.
+33 feet (10 meters) above sea level.
 
-### This is why the next decade is so
+# This is why the next decade is so
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 159US_106-195_321647_BB_Chap9-16.
 
-## indd 159 16/02/2021 11
+indd 159 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 critical.
 
 We have wasted too much time already.
 
-## But swift action
+# But swift action
 
 now should allow us to slow the rate of rise
 
-## giving cities some
+giving cities some
 
 breathing space to adapt.
 
 New Orleans is a small city.
 
-### The same fate awaits giants like
+# The same fate awaits giants like
 
-## Bangkok
+# Bangkok
 
-## Kolkata
+# Kolkata
 
-## Manila
+# Manila
 
-## New York
+# New York
 
 and Shanghai.
 
-## Known as the
+# Known as the
 
-## “City of Joy
+“City of Joy
 
 ” Kolkata is the cultural capital of India.
 
-## The city of
+# The city of
 
 14 million people lies low on the north coast of the Bay of Bengal.
 
-## As early as 2050
+# As early as 2050
 
 it is at risk of annual flooding.
 
@@ -22162,17 +22162,17 @@ It is sinking faster than any other city
 
 in the world.
 
-### Built on a swamp connecting 13 rivers
+# Built on a swamp connecting 13 rivers
 
-## parts of the city
+parts of the city
 
 sank 8 feet (2.
 
-## 5 meters) in 10 years.
+5 meters) in 10 years.
 
 Incredibly, this has not deterred
 
-## property developers
+property developers
 
 who continue to erect luxury apartments along
 
@@ -22180,11 +22180,11 @@ the coast.
 
 The problem in Jakarta is complex.
 
-## Sea level rise and
+# Sea level rise and
 
 resource extraction both play a role.
 
-## Groundwater beneath the city
+# Groundwater beneath the city
 
 is pumped out to provide drinking water.
 
@@ -22196,19 +22196,19 @@ Soon, a huge tidal barrier will surround the historically water-
 
 logged Venice.
 
-## But as this nears completion
+# But as this nears completion
 
-## scientists are proposing
+scientists are proposing
 
 even more ambitious ideas to protect New York and European cities.
 
-## Recently
+# Recently
 
 an idea to build a barrier around the entire North Sea was
 
-## proposed
+proposed
 
-## from Scotland to Norway
+from Scotland to Norway
 
 from England to France.
 
@@ -22218,9 +22218,9 @@ Mediterranean.
 
 Is this fortress world our future?
 
-## While floods rise from below
+# While floods rise from below
 
-### the heat from above is crippling
+the heat from above is crippling
 
 cities.
 
@@ -22236,35 +22236,35 @@ Six months prior, 19 million people in
 
 Delhi sweltered under 118°F (48°C) of extreme heat.
 
-## A common
+# A common
 
 narrative now is to say that this is the new normal.
 
 It is not.
 
-## There
+# There
 
 will be no more “normal.
 
-### ” We should expect constant turmoil
+” We should expect constant turmoil
 
-## spiraling upward
+spiraling upward
 
-## whether it be the ocean
+whether it be the ocean
 
-## temperature
+temperature
 
-## disease
+disease
 
 pollution.
 
-## It is perhaps no surprise
+# It is perhaps no surprise
 
 then, that cities are mobilizing
 
 and innovating in order to evolve and thrive in the Anthropocene.
 
-## Superorganisms adapt or die
+# Superorganisms adapt or die
 
 More than 600 cities have issued planetary emergency declarations
 
@@ -22274,23 +22274,23 @@ Copenhagen plans to be the first carbon-
 
 neutral capital city in 2025.
 
-### Oslo aims to slash emissions 95 percent
+# Oslo aims to slash emissions 95 percent
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 160US_106-195_321647_BB_Chap9-16.
 
-## indd 160 16/02/2021 11
+indd 160 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 161 CHAPTER 13
+161 CHAPTER 13
 
 by 2030.
 
-## More than 7
+# More than 7
 
-### 000 cities from 133 countries have pledged
+000 cities from 133 countries have pledged
 
 powerful action on climate change.
 
@@ -22298,21 +22298,21 @@ In 27 cities across the globe,
 
 emissions have fallen at least 10 percent in five years.
 
-## At the same
+# At the same
 
 time, their economies grew 3 percent on average
 
-## this is viewed as
+this is viewed as
 
 robust growth in wealthy nations.
 
 Let’s look more closely at Copenhagen.
 
-## Its audacious vision to
+# Its audacious vision to
 
 become carbon neutral began in 2009.
 
-## The city planned to reach
+# The city planned to reach
 
 net zero in just 16 years.
 
@@ -22320,25 +22320,25 @@ Here’s what it takes for a small northern European city to reach
 
 that goal:
 
-## • 100 new wind turbines
+• 100 new wind turbines
 
 • 20 percent reduction in both heat and commercial electricity
 
-## consumption
+consumption
 
 • 75 percent of all trips to be made by bike
 
-## on foot
+on foot
 
-## or by public
+or by public
 
-## transportation
+transportation
 
-### • biogasification of all organic waste
+• biogasification of all organic waste
 
 • 646,000 square feet (60
 
-### 000 square meters) of new solar panels
+000 square meters) of new solar panels
 
 • 100 percent of the city’s heating requirements to be met
 
@@ -22346,69 +22346,69 @@ by renewables.
 
 The Copenhagen municipality now wants to encourage people to
 
-## adopt a planetary health diet
+adopt a planetary health diet
 
 too, to reduce the carbon footprint of
 
 the food they eat.
 
-### They are working with our colleagues to
+# They are working with our colleagues to
 
 understand how best to achieve this.
 
-## A planetary health diet would
+# A planetary health diet would
 
 both tackle obesity and encourage a healthy lifestyle.
 
-## Copenhagen
+# Copenhagen
 
 is the first city to do this.
 
-## So far
+# So far
 
 the city has slashed emissions 42 percent since 2005.
 
-## Over that time
+# Over that time
 
 its economy has grown 25 percent.
 
-## Between 2014
+# Between 2014
 
-## and 2015
+and 2015
 
-## emissions fell 11 percent
+emissions fell 11 percent
 
-## beating the Carbon Law by
+beating the Carbon Law by
 
 some measure.
 
 According to Copenhagen’s former mayor Bo Asmus
 
-## Kjeldgaard in 2019
+# Kjeldgaard in 2019
 
 “We [the local government] combined life
 
 quality with sustainability and called it ‘liveability.
 
-## ’ We succeeded
+’ We succeeded
 
 in building a good narrative around this
 
-## one that everybody could
+one that everybody could
 
 believe in.
 
 The city’s leaders are thinking in terms of systems.
 
-## Take
+# Take
 
 transportation, for example.
 
-### Copenhagen is offering citizens and
+# Copenhagen is offering citizens and
 
 visitors a single digital subscription service that makes it easy for
 
-### users to travel by multiple modes
+users to travel by multiple modes
 
 bus, subway
 
@@ -22418,29 +22418,29 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 161US_106-195_321647_BB_Chap9-16.
 
-## indd 161 16/02/2021 11
+indd 161 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 share, and taxi.
 
-## In Nordhaven
+# In Nordhaven
 
-## a new development in the city
+a new development in the city
 
-## urban
+urban
 
 planners are creating the “five-minute city.
 
-## ” They are minimizing
+” They are minimizing
 
-### car traffic by making shopping
+car traffic by making shopping
 
-## day care
+day care
 
-## and other essentials all
+and other essentials all
 
 readily available within a five-minute walk.
 
@@ -22448,11 +22448,11 @@ Of course, having the
 
 country on your side does not hurt.
 
-## Denmark has plans to be
+# Denmark has plans to be
 
 independent of fossil fuels by 2050.
 
-## If Copenhagen succeeds by
+# If Copenhagen succeeds by
 
 2025, we think the Danish transformation will come significantly
 
@@ -22464,7 +22464,7 @@ A rich northern European city where the population demands
 
 high environmental standards is one thing
 
-## but surely poorer
+but surely poorer
 
 smog-drenched cities in Asia cannot afford this type of
 
@@ -22480,33 +22480,33 @@ Indeed, Chinese cities account
 
 for 99 percent of the global fleet of electric buses.
 
-## Opposite Hong
+# Opposite Hong
 
-## Kong on the Chinese mainland
+# Kong on the Chinese mainland
 
-## Shenzhen
+# Shenzhen
 
-## a city of 12 million
+a city of 12 million
 
-## people
+people
 
 operates the largest electric bus fleet in the world.
 
-## With
+# With
 
-## more than 16
+more than 16
 
-## 000 vehicles
+000 vehicles
 
 the city’s buses are 100 percent electric.
 
 Taxis will soon follow suit.
 
-### If you happen to visit a university in
+# If you happen to visit a university in
 
-## Beijing in the early morning
+# Beijing in the early morning
 
-### when students are hurrying to classes
+when students are hurrying to classes
 
 what really strikes you is the silence.
 
@@ -22518,13 +22518,13 @@ now dominated by electric mopeds.
 
 All this makes a lot of sense.
 
-### China’s city dwellers endure horrific
+China’s city dwellers endure horrific
 
 air pollution.
 
-## Incredibly
+# Incredibly
 
-### 12 percent of deaths in China are caused
+12 percent of deaths in China are caused
 
 by indoor and outdoor air pollution.
 
@@ -22532,7 +22532,7 @@ Globally, up to 9 million deaths
 
 every year are caused by air pollution.
 
-## 18 More than 1 billion people
+18 More than 1 billion people
 
 in China are exposed to unsafe air for more than six months every
 
@@ -22542,9 +22542,9 @@ Replacing traditional fossil fuel-powered transportation with
 
 electric transportation will reduce emissions and save lives.
 
-## Without
+# Without
 
-## fossil fuel emissions
+fossil fuel emissions
 
 global average life expectancy would increase
 
@@ -22552,31 +22552,31 @@ by one year.
 
 Cities will change much faster than most predictions show.
 
-## They
+# They
 
 are on exponential not incremental trajectories
 
-## and we have
+and we have
 
 reached an inflection point.
 
-### Cities like Copenhagen are showing the
+# Cities like Copenhagen are showing the
 
 world that transformation is good for innovation
 
-## health
+health
 
 jobs,
 
-## 18 Globally
+18 Globally
 
 death rates from air pollution have been falling
 
-## but this is primarily due
+but this is primarily due
 
 to improvements in indoor air pollution.
 
-### Death rates from outdoor air pollution
+# Death rates from outdoor air pollution
 
 have risen.
 
@@ -22584,25 +22584,25 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 162US_106-195_321647_BB_Chap9-16.
 
-## indd 162 16/02/2021 11
+indd 162 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 163 CHAPTER 13
+163 CHAPTER 13
 
 pollution, happiness, and well-being.
 
-## Other cities will not want
+# Other cities will not want
 
 to be left behind.
 
-## In 2019
+# In 2019
 
-### when we were in New York for the
+when we were in New York for the
 
-## United Nations Climate Summit
+# United Nations Climate Summit
 
-### we found the most efficient way to
+we found the most efficient way to
 
 get around the city was by bike.
 
@@ -22610,17 +22610,17 @@ Renting a bike is cheap, simple, and
 
 fast.
 
-### We sailed through the gridlock
+# We sailed through the gridlock
 
-### in contrast to previous visits
+in contrast to previous visits
 
 when we dreaded even thinking about traveling around the
 
 metropolis.
 
-## We imagine that a dense
+# We imagine that a dense
 
-## compact city like New York
+compact city like New York
 
 could easily radically transform itself to a post-car innovation
 
@@ -22632,23 +22632,23 @@ ending congestion.
 
 Not every city has the resources of New York or Copenhagen.
 
-## Timon McPhearson
+# Timon McPhearson
 
-### a professor of urban ecology at The New
+a professor of urban ecology at The New
 
-## School in New York
+# School in New York
 
-### reminds us that there are approximately
+reminds us that there are approximately
 
-## 1 billion poor in the world
+1 billion poor in the world
 
 many living in the 1 million slums found
 
 across 100,000 cities.
 
-### When poor people migrate from the
+# When poor people migrate from the
 
-## countryside
+countryside
 
 they often cannot afford city rents.
 
@@ -22662,7 +22662,7 @@ Families have few incentives to invest in their
 
 homes if they could be bulldozed at any moment.
 
-## Yet many dwellings
+# Yet many dwellings
 
 survive for decades—occupied by the same families.
 
@@ -22672,9 +22672,9 @@ many people living in these slums have an income and contribute to
 
 a bubbling economy.
 
-## The future of our cities
+# The future of our cities
 
-## From all of this
+# From all of this
 
 we can identify four priorities for the Earthshot’s
 
@@ -22684,15 +22684,15 @@ First, we need to ensure that everyone has access to clean drinking
 
 water and working sewage systems.
 
-## More people in the world now
+# More people in the world now
 
 have mobile phones than access to toilets.
 
-## Given the importance of
+# Given the importance of
 
-### slum dwellers to city economies
+slum dwellers to city economies
 
-### the most obvious solution is to offer
+the most obvious solution is to offer
 
 property rights to them.
 
@@ -22700,31 +22700,31 @@ This would provide security of tenure while
 
 simultaneously starting to build the infrastructure
 
-## including water
+including water
 
-## sewage
+sewage
 
-## schools
+schools
 
-## and apartments
+and apartments
 
-## to provide hope
+to provide hope
 
-## health
+health
 
 dignity to the people who make a city thrive.
 
-## Second
+# Second
 
 planners need to eschew urban sprawl in favor of
 
 compact, efficient, green cities.
 
-### Compact cities are ideal for district
+# Compact cities are ideal for district
 
 heating systems that can have zero emissions.
 
-## Trees soak up
+# Trees soak up
 
 pollution and keep streets and sidewalks cool on punishingly hot
 
@@ -22732,11 +22732,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 163US_106-195_321647_BB_Chap9-16.
 
-## indd 163 23/02/2021 10
+indd 163 23/02/2021 10
 
-## 5323/02/2021 10
+5323/02/2021 10
 
-## ACT III
+# ACT III
 
 days.
 
@@ -22752,7 +22752,7 @@ urban farming.
 
 The third priority is efficient mobility.
 
-## Most emissions from
+# Most emissions from
 
 transportation come from short trips around cities made longer by
 
@@ -22760,7 +22760,7 @@ congestion.
 
 Let’s kill congestion.
 
-### Congestion in cities makes life
+# Congestion in cities makes life
 
 miserable.
 
@@ -22772,13 +22772,13 @@ Economically, this is
 
 insanely inefficient and reduces quality of life.
 
-## We do not need more
+# We do not need more
 
-## cars on the road
+cars on the road
 
 even if they are electric.
 
-## Finally
+# Finally
 
 the cities of the future will need to embrace circularity
 
@@ -22788,27 +22788,27 @@ The starting point is for cities to set targets for all planetary
 
 boundaries.
 
-## Right now
+# Right now
 
-### we are working with the Global Commons
+we are working with the Global Commons
 
-## Alliance
+# Alliance
 
-## the World Economic Forum
+the World Economic Forum
 
-## and other organizations
+and other organizations
 
 on a way to create such city targets based on the best science.
 
-## example
+example
 
-## in April 2020
+in April 2020
 
-## Amsterdam’s deputy mayor
+Amsterdam’s deputy mayor
 
-## Marieke van
+# Marieke van
 
-## Doorninck
+# Doorninck
 
 announced that the city is planning to adopt the
 
@@ -22816,9 +22816,9 @@ announced that the city is planning to adopt the
 
 Chapter 16)—the first city to do so.
 
-### The philosophy behind it is both
+# The philosophy behind it is both
 
-## profound and a no-brainer
+profound and a no-brainer
 
 the economic activity in the city should
 
@@ -22830,17 +22830,17 @@ Van Doorninck believes adopting doughnut economics will help
 
 the city to recover from the pandemic.
 
-## We would argue it will make
+# We would argue it will make
 
 Amsterdam more resilient to the next crisis.
 
 Here’s a curious emergent property of cities
 
-## people who live in
+people who live in
 
 cities have fewer children.
 
-### Living in a crowded apartment with a
+# Living in a crowded apartment with a
 
 family of 10 is uncomfortable.
 
@@ -22858,7 +22858,7 @@ unwelcome one-child policies.
 
 In Chapter 14, we will address our
 
-## fifth system transformation
+fifth system transformation
 
 population and health.
 
@@ -22866,11 +22866,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 164US_106-195_321647_BB_Chap9-16.
 
-## indd 164 16/02/2021 11
+indd 164 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## Every day
+# Every day
 
 someone somewhere will tweet us to remind us that we
 
@@ -22880,17 +22880,17 @@ just a little bit wrong.
 
 But very wrong in all possible ways.
 
-## The gist
+# The gist
 
-## of their attacks is this
+of their attacks is this
 
-## “It’s population
+“It’s population
 
 stupid.
 
 Their argument is very simple.
 
-## The exponential population
+# The exponential population
 
 explosion is the real emergency.
 
@@ -22906,21 +22906,21 @@ lowest birth rates.
 
 If everyone on Earth consumed resources like the
 
-### average person in the United States
+average person in the United States
 
-## we would need an additional
+we would need an additional
 
 three to four Earth-sized planets with similar biospheres.
 
-## Places
+# Places
 
-## with high birth rates
+with high birth rates
 
-## such as Niger
+such as Niger
 
-## Uganda
+# Uganda
 
-## and Mali in Africa
+and Mali in Africa
 
 have some of the lowest environmental footprints on Earth and the
 
@@ -22928,11 +22928,11 @@ worst poverty.
 
 Yes, high birth rates in these countries are
 
-## unsustainable in the long run
+unsustainable in the long run
 
 as is grinding poverty.
 
-## But it is
+# But it is
 
 wrong to blame the poorest of the poor for smashing through
 
@@ -22940,7 +22940,7 @@ Earth’s boundaries.
 
 The fifth system transformation is population and health.
 
-## We live
+# We live
 
 on a crowded planet.
 
@@ -22948,11 +22948,11 @@ As we know, a single cough in an Asian
 
 market can turn into a global pandemic within a matter of weeks.
 
-## 165 CHAPTER 14
+165 CHAPTER 14
 
-## THE POPULATION
+# THE POPULATION
 
-## BOMB DEFUSED
+# BOMB DEFUSED
 
 The number of children is not growing any
 
@@ -22968,11 +22968,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 165US_106-195_321647_BB_Chap9-16.
 
-## indd 165 16/02/2021 11
+indd 165 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 166 ACT III
+166 ACT III
 
 Incredible progress in human health has led to an explosion in
 
@@ -22982,7 +22982,7 @@ Now, we face new health
 
 risks such as chronic obesity and pollution.
 
-## These can threaten
+# These can threaten
 
 efforts to stabilize Earth and reverse the impressive progress already
 
@@ -22990,23 +22990,23 @@ made.
 
 Climate change is also driving new health challenges
 
-## living
+living
 
-### and working in 122°F (50°C) cities
+and working in 122°F (50°C) cities
 
-### undernutrition as crops wither
+undernutrition as crops wither
 
-## and die
+and die
 
 and the spread of diseases like malaria to new areas.
 
 The ultimate goal is to flatten the population curve.
 
-## All the data
+# All the data
 
 show that we are approaching “peak child
 
-## ” as explained in
+” as explained in
 
 Chapter 4.
 
@@ -23014,27 +23014,27 @@ There are no data to suggest that the population will
 
 keep rising at the high rates seen 30 or 40 years ago.
 
-## If Hans Rosling
+# If Hans Rosling
 
-## were still with us
+were still with us
 
 he would undoubtedly bemoan that people have
 
 not updated the knowledge they learned decades ago at school.
 
-## Back then
+# Back then
 
-## population growth did
+population growth did
 
-## indeed
+indeed
 
-## appear to be out of
+appear to be out of
 
 control.
 
 If the population were still increasing at the same rate it was
 
-## between 1980 and 2000
+between 1980 and 2000
 
 then it would reach a staggering 540 billion
 
@@ -23046,49 +23046,49 @@ world; instead
 
 everything eventually slips into an “s curve
 
-## ” as
+” as
 
 growth rates slack off.
 
 This is the pathway we are on.
 
-## At the start of the Holocene
+# At the start of the Holocene
 
-### a mere 5 million people are estimated
+a mere 5 million people are estimated
 
 to have roamed Earth.
 
-## Eventually
+# Eventually
 
-### this increased to approximately
+this increased to approximately
 
-## 1 billion by about 1800.
+1 billion by about 1800.
 
 This is a glacial growth rate of less than
 
-## 1 percent a year.
+1 percent a year.
 
-## During the 20th century
+# During the 20th century
 
-## the population rose
+the population rose
 
 from 1.
 
-## 65 billion to 6 billion.
+65 billion to 6 billion.
 
 Since 1970, the number of people on
 
 Earth has more than doubled.
 
-### The global population is now topping
+# The global population is now topping
 
 8 billion and is expected to hit the next milestone of 8 billion in
 
 the early 2020s.
 
-## For most of our history
+# For most of our history
 
-### women gave birth to between five and
+women gave birth to between five and
 
 seven children.
 
@@ -23098,13 +23098,13 @@ old enough to have children themselves.
 
 As Rosling points out: “We
 
-### did not live in harmony with nature
+did not live in harmony with nature
 
 we died in harmony with it.
 
 We lived under a constant threat of famine
 
-## disease
+disease
 
 and war.
 
@@ -23116,9 +23116,9 @@ It then took a few generations for our minds to
 
 adjust to the new reality of genuine food security
 
-## healthy diets
+healthy diets
 
-## effective medicine
+effective medicine
 
 and, since 1950
 
@@ -23126,7 +23126,7 @@ low levels of war or conflict.
 
 The population growth rate reached a maximum of around
 
-### 1 percent per year in the 1960s.
+1 percent per year in the 1960s.
 
 Today, it is at 1 percent, and
 
@@ -23134,37 +23134,37 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 166US_106-195_321647_BB_Chap9-16.
 
-## indd 166 16/02/2021 11
+indd 166 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 167 CHAPTER 14
+167 CHAPTER 14
 
 continues to fall.
 
 This global figure hides a startling divergence.
 
-## Japan and South Korea
+# Japan and South Korea
 
 the number of children per woman is about
 
-## 4 and 1, respectively.
+4 and 1, respectively.
 
 In Niger, Africa, that number is 6.
 
-## Remarkably
+# Remarkably
 
 Hong Kong’s fertility rate was lower than China’s
 
 during its one-child policy (1979–2015).
 
-## The high rates of female
+# The high rates of female
 
-## education
+education
 
-## high population density
+high population density
 
-### and high cost of having children
+and high cost of having children
 
 meant that many people simply felt they could not afford more than
 
@@ -23174,15 +23174,15 @@ Yet, in the 21st century
 
 population continues to grow strongly.
 
-### Not nearly as strongly as before
+# Not nearly as strongly as before
 
 but it is growing.
 
-## This is because
+# This is because
 
 people are living much longer.
 
-## A child born in 2016 could be
+# A child born in 2016 could be
 
 expected to live 72 years.
 
@@ -23190,95 +23190,95 @@ A girl might expect to live for 74 years and
 
 a boy about 70.
 
-## This is the global average
+# This is the global average
 
-## not the average in the
+not the average in the
 
 wealthy countries of Europe or North America.
 
-## Forget the moon
+# Forget the moon
 
 19 Steven Pinker’s Enlightenment Now (2018) and others show conflict has indeed
 
 reached the lowest point in history.
 
-## 2 billion
+2 billion
 
 in 19282.
 
-## 5 billion
+5 billion
 
-## in 1950600 million
+in 1950600 million
 
-## in 17005 billion
+in 17005 billion
 
 in 19877.
 
-## 7 billion
+7 billion
 
 in 20199.
 
-## 7 billion
+7 billion
 
 in 20502.
 
 in 1968 10.
 
-## 9 billion
+9 billion
 
-## in 2100
+in 2100
 
-## 1 billion
+1 billion
 
-## in 1803
+in 1803
 
-## 1%
+1%
 
 Year1700 1750 1800 1850 1900 1950 2000 2050 2100Population growth
 
-### The population growth rate has
+# The population growth rate has
 
 plummeted since the 1960s.
 
-## This
+# This
 
-### is one of the biggest achievements
+is one of the biggest achievements
 
 of the past 50 years.
 
-## Annual growth rate of
+# Annual growth rate of
 
-## world population
+world population
 
-## World population
+# World population
 
-## 04% was the average
+04% was the average
 
-## population growth
+population growth
 
 between 10,000 bce
 
-## and 1700 ce2019 UN projection
+and 1700 ce2019 UN projection
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 167US_106-195_321647_BB_Chap9-16.
 
-## indd 167 16/02/2021 11
+indd 167 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-### landings—this combination of science
+landings—this combination of science
 
-## policy
+policy
 
-## and economic strategy
+and economic strategy
 
 is arguably humanity’s most impressive achievement
 
-## and it
+and it
 
 continues to this day.
 
@@ -23286,11 +23286,11 @@ We should be rejoicing in the streets.
 
 The progress made in recent decades is mind blowing.
 
-## Someone
+# Someone
 
 born in 2016 is expected to live 5.
 
-### 5 years longer than someone born
+5 years longer than someone born
 
 in 2000.
 
@@ -23306,19 +23306,19 @@ health.
 
 Africa has seen the most astounding transformation
 
-## with life
+with life
 
 expectancy rising by 10 years.
 
-### Someone born in Africa today can
+# Someone born in Africa today can
 
 now expect to live 61 years.
 
-## In many rich nations
+# In many rich nations
 
 life expectancy continues to extend.
 
-## However
+# However
 
 this is not the case everywhere.
 
@@ -23326,27 +23326,27 @@ In some places, the trend
 
 is reversing.
 
-## In the United States
+# In the United States
 
-## life expectancy plateaued
+life expectancy plateaued
 
 in 2014 at 79 years and is now decreasing
 
-## due to a heap of
+due to a heap of
 
-## social problems
+social problems
 
 including drug overdoses during the opioid crisis
 
 suicide, obesity, and alcohol abuse.
 
-## This news comes despite the
+# This news comes despite the
 
 United States spending more per capita on health than other
 
 major economies.
 
-## Globally
+# Globally
 
 longevity is expected to increase as poorer nations
 
@@ -23354,13 +23354,13 @@ develop rapidly.
 
 This means that the best population estimate for
 
-### 2050 is about 10 billion people.
+2050 is about 10 billion people.
 
 By 2100, it may have climbed to 11
 
 or 12 billion, but probably no more.
 
-### This could change dramatically
+# This could change dramatically
 
 if poor countries develop faster.
 
@@ -23368,49 +23368,49 @@ As industrialization kicks in, fertility
 
 rates will fall significantly.
 
-### Investment in education for girls and
+# Investment in education for girls and
 
-## women cuts rates dramatically
+women cuts rates dramatically
 
 as does migration to cities.
 
-## Focusing
+# Focusing
 
 on these two factors could help ensure that population stabilizes at
 
 a lower level.
 
-## A crucial question is
+# A crucial question is
 
 how many people can live on Earth within
 
 a stable biosphere?
 
-## In the past few decades
+# In the past few decades
 
-## researchers have puzzled
+researchers have puzzled
 
 over this and failed to agree.
 
-### Some say that Earth cannot support
+# Some say that Earth cannot support
 
 even 1 billion people sustainably with a high quality of life.
 
-## Others
+# Others
 
 have pinned an upper limit at a staggering 98 billion people.
 
-## This
+# This
 
 wide range is a little unhelpful.
 
-### Our own research shows that it is
+# Our own research shows that it is
 
 possible to feed a population of 10 billion within planetary
 
 boundaries.
 
-## However
+# However
 
 we will need to transform the farming system
 
@@ -23422,13 +23422,13 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 168US_106-195_321647_BB_Chap9-16.
 
-## indd 168 16/02/2021 11
+indd 168 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 169 CHAPTER 14
+169 CHAPTER 14
 
-## Interestingly
+# Interestingly
 
 there are no studies showing that our current
 
@@ -23438,13 +23438,13 @@ minimum living standards.
 
 We will simply run out of land, natural
 
-## resources
+resources
 
 air, water
 
-## and biodiversity
+and biodiversity
 
-## while triggering catastrophic
+while triggering catastrophic
 
 climate extremes.
 
@@ -23456,7 +23456,7 @@ Hosting 10 billion people on Earth will be extremely challenging
 
 though.
 
-## So far
+# So far
 
 no country operates within planetary boundaries.
 
@@ -23466,47 +23466,47 @@ all six system transformations.
 
 For food, in order to feed 10 billion
 
-## people
+people
 
 we will need a global transformation to sustainable
 
-## agriculture
+agriculture
 
-### a transition to more plant-based diets
+a transition to more plant-based diets
 
-## additional
+additional
 
 investments in alternative sources of animal protein
 
-## such as lab-
+such as lab-
 
-### grown meat and synthetic food products
+grown meat and synthetic food products
 
-## biotech advances
+biotech advances
 
 sustainable aquaculture.
 
-## Go beyond 10 billion
+# Go beyond 10 billion
 
-## and all this becomes
+and all this becomes
 
 even more daunting.
 
 But even as we make space for another 2 billion people on our
 
-## planet
+planet
 
 we face many other health risks in the Anthropocene.
 
 pollution now kills up to 9 million people annually.
 
-## Antibiotic
+# Antibiotic
 
 resistance is another looming tragedy of the global commons.
 
 Antibiotics help individual farmers manage disease in their
 
-## livestock
+livestock
 
 but their overuse drives rapid evolution of resistance.
 
@@ -23516,13 +23516,13 @@ and we risk exceeding planetary boundaries for antibiotic resistance.
 
 And pesticides damage both human and environmental health.
 
-## Arguably
+# Arguably
 
-## though
+though
 
 the biggest risk is a global pandemic.
 
-## Fortunately
+# Fortunately
 
 science is better prepared than ever to untangle the
 
@@ -23530,7 +23530,7 @@ genes of deadly diseases.
 
 Just 10 days after the first reported case of
 
-## COVID-19
+# COVID-19
 
 scientists published the gene sequence online to help
 
@@ -23546,9 +23546,9 @@ opioid painkillers or cures for baldness than investing in antibiotics
 
 or cures for potential diseases that have not yet emerged.
 
-## As Bill
+# As Bill
 
-## Gates notes
+# Gates notes
 
 “Government funding is needed because pandemic
 
@@ -23558,27 +23558,27 @@ COVID-19 has shown that as a global civilization we are
 
 dangerously exposed to abrupt shocks.
 
-## Cooperation among
+# Cooperation among
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 169US_106-195_321647_BB_Chap9-16.
 
-## indd 169 23/02/2021 10
+indd 169 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
 countries and colossal efforts to shut down economies effectively
 
-### contained the disease in many places
+contained the disease in many places
 
-## while tragic political
+while tragic political
 
-### incompetence fueled distrust elsewhere
+incompetence fueled distrust elsewhere
 
-## allowing the disease to rip
+allowing the disease to rip
 
 through towns and cities.
 
@@ -23596,25 +23596,25 @@ Tackling health and population is essential for the long-term
 
 viability of a global civilization within a safe operating space.
 
-## summarize
+summarize
 
 we need a radical overhaul of our global health system
 
 from surveillance and monitoring for disease outbreak to scaling-up
 
-## of vaccine production
+of vaccine production
 
-## reducing air pollution
+reducing air pollution
 
-## tackling obesity
+tackling obesity
 
 managing growing resistance to antibiotics.
 
-## This sounds like a lot—
+This sounds like a lot—
 
-### it is a global system transformation
+it is a global system transformation
 
-## after all—but success brings
+after all—but success brings
 
 win-win situations.
 
@@ -23622,11 +23622,11 @@ Reducing obesity and improving diets can bring
 
 down greenhouse gas emissions.
 
-## Reduced greenhouse gases will
+# Reduced greenhouse gases will
 
 lower the levels of air pollution.
 
-### And providing family planning and
+# And providing family planning and
 
 education to girls has the potential to avoid 93 billion tons (85 billion
 
@@ -23634,7 +23634,7 @@ metric tons) of carbon dioxide emissions this century and to stabilize
 
 global population at levels that are manageable.
 
-## Ultimately
+# Ultimately
 
 we have crossed the demographic tipping point.
 
@@ -23642,9 +23642,9 @@ problem is not the extent of future population growth in Africa and
 
 South Asia, though.
 
-## Rather
+# Rather
 
-### it is the lifestyle choices made by the
+it is the lifestyle choices made by the
 
 growing middle classes and wealthy in poorer countries.
 
@@ -23652,9 +23652,9 @@ That said,
 
 it is a moot point whether “choice” is even a realistic possibility in a
 
-## world of inequality
+world of inequality
 
-### coupled with laser-guided marketing and
+coupled with laser-guided marketing and
 
 advertising designed to target our insecurities in order to fuel
 
@@ -23666,7 +23666,7 @@ lifestyles of those of us driving SUVs and taking long-haul flights
 
 to post selfies on social media from exotic locations
 
-## then the
+then the
 
 Earthshot mission will miss its target by a long way.
 
@@ -23674,15 +23674,15 @@ If, on the other
 
 hand, the wealthy nations of Europe
 
-## the United States
+the United States
 
 Japan, and
 
-### elsewhere transform to healthy
+elsewhere transform to healthy
 
-### happy societies fueled by vibrant
+happy societies fueled by vibrant
 
-## regenerative
+regenerative
 
 circular economies with zero carbon and zero nature
 
@@ -23694,17 +23694,17 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 170US_106-195_321647_BB_Chap9-16.
 
-## indd 170 23/02/2021 10
+indd 170 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 171 CHAPTER 15
+171 CHAPTER 15
 
-## “One small step for man
+“One small step for man
 
 one giant leap for mankind.
 
-## ” On July
+” On July
 
 20, 1969
 
@@ -23722,7 +23722,7 @@ Like many kids, I wanted to
 
 be an astronaut when I grew up.
 
-## I loved math and physics and
+# I loved math and physics and
 
 studied spacecraft engineering at university.
 
@@ -23736,11 +23736,11 @@ Scientists look for problems.
 
 Engineers look for solutions.
 
-## Like many
+# Like many
 
-## once I was a techno-optimist
+once I was a techno-optimist
 
-## all we need is more
+all we need is more
 
 investment in more innovation and this will drive the change we
 
@@ -23750,37 +23750,37 @@ I imbibed the intoxicating narratives coming from tech
 
 CEOs and other evangelists.
 
-### Soon the world’s information will be
+Soon the world’s information will be
 
 organized and people will be connected to one another
 
-## promoting TAMING THE
+promoting TAMING THE
 
-## TECHNOSPHERE
+# TECHNOSPHERE
 
 We invented fire, repeatedly messed up,
 
 and then invented the fire extinguisher,
 
-## fire exit
+fire exit
 
 fire alarm and fire department.
 
 We invented the automobile, repeatedly
 
-## crashed
+crashed
 
-## and then invented seat belts
+and then invented seat belts
 
 bags and self-driving cars.
 
 Up until now,
 
-### our technologies have typically caused
+our technologies have typically caused
 
 sufficiently few and limited accidents.
 
-## MAX TEGMARK
+# MAX TEGMARK
 
 LIFE 3.
 
@@ -23792,21 +23792,21 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 171US_106-195_321647_BB_Chap9-16.
 
-## indd 171 16/02/2021 11
+indd 171 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 172 ACT III
+172 ACT III
 
 a shared worldview based on science.
 
-## This has not panned out
+# This has not panned out
 
 quite as planned.
 
 Yes, we need innovation
 
-## but innovation is what
+but innovation is what
 
 has led to a destabilized Earth.
 
@@ -23814,39 +23814,39 @@ Innovation must now be directed.
 
 And on its own, it is not enough.
 
-## The planetary emergency
+# The planetary emergency
 
 demands behavioral change and political and economic
 
 transformation, too.
 
-## It is a full systems change
+# It is a full systems change
 
-## and technology
+and technology
 
 can drive it.
 
-## Owen
+# Owen
 
-## Technology
+# Technology
 
-### particularly the digital revolution
+particularly the digital revolution
 
-## is the sixth and
+is the sixth and
 
 final system transformation.
 
-### Technological innovation is not
+# Technological innovation is not
 
 neutral.
 
-### In our current economic system
+# In our current economic system
 
-## control lies in the hands
+control lies in the hands
 
-### of those with the deepest pockets
+of those with the deepest pockets
 
-## many of whom have scant
+many of whom have scant
 
 regard for a stable planet.
 
@@ -23854,47 +23854,47 @@ The richer we become, the greater the
 
 impact of our technology on the stability of Earth.
 
-## We need to
+# We need to
 
 break this vicious cycle.
 
-### Technology must now be harnessed to
+# Technology must now be harnessed to
 
 stabilize Earth.
 
 One thing we can be sure about.
 
-## Unlike the other system
+# Unlike the other system
 
-## transformations
+transformations
 
 which will need almighty efforts to change course
 
 technological disruption in the next few decades is assured
 
-## machine
+machine
 
-## learning
+learning
 
-## artificial intelligence (AI)
+artificial intelligence (AI)
 
-## automation
+automation
 
-## and the Internet of
+and the Internet of
 
 things are hurtling toward us.
 
-### The direction these technological
+# The direction these technological
 
 innovations take in the next decade will determine whether we
 
-## succeed in our Earthshot
+succeed in our Earthshot
 
 or whether we crash and burn.
 
-### Humanity has created a lot of stuff
+# Humanity has created a lot of stuff
 
-## sometimes called the
+sometimes called the
 
 technosphere.
 
@@ -23906,9 +23906,9 @@ We have mixed enough concrete to make an exact replica of
 
 Earth 0.
 
-### 08 inches (2 millimeters) thick.
+08 inches (2 millimeters) thick.
 
-## The physical stuff we have
+# The physical stuff we have
 
 built weighs more than 33 trillion tons (30 trillion metric tons).
 
@@ -23916,7 +23916,7 @@ waves carrying our first radio and television broadcasts have
 
 traveled more than 100 light-years from our solar system
 
-## past
+past
 
 unfathomably distant stars where planets a bit like our own orbit—
 
@@ -23926,39 +23926,39 @@ Perhaps it is time to direct more of this technological know-how into
 
 the Earthshot.
 
-### Money is already flowing toward a clean
+# Money is already flowing toward a clean
 
-## green future
+green future
 
-## energy
+energy
 
-## generation
+generation
 
-## electric cars
+electric cars
 
-## trucks
+trucks
 
-## and even aircraft
+and even aircraft
 
-## more efficient
+more efficient
 
-## buildings
+buildings
 
-## and alternatives to steel
+and alternatives to steel
 
-## concrete
+concrete
 
-## and aluminum
+and aluminum
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 172US_106-195_321647_BB_Chap9-16.
 
-## indd 172 23/02/2021 10
+indd 172 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 173 CHAPTER 15
+173 CHAPTER 15
 
 manufacturing.
 
@@ -23982,23 +23982,23 @@ world’s largest grid-scale battery storage system emerged in the
 
 desert.
 
-## Costing about $100 million
+Costing about $100 million
 
-### it has stabilized power in the
+it has stabilized power in the
 
 region and saves about $40 million a year.
 
-## Visible moments like
+# Visible moments like
 
 these create investor confidence.
 
-## Sentiment is swinging from
+# Sentiment is swinging from
 
 scepticism five years ago to wholehearted embrace now.
 
-## And as we
+# And as we
 
-## will see
+will see
 
 economic sentiment and confidence are crucial factors
 
@@ -24020,15 +24020,15 @@ remaining on strong price and innovation curves.
 
 Sure, some new
 
-### technologies will be essential
+technologies will be essential
 
-### creating a hydrogen economy and
+creating a hydrogen economy and
 
-## zero emissions aircraft
+zero emissions aircraft
 
-## for example
+for example
 
-## will require huge investment
+will require huge investment
 
 in innovation.
 
@@ -24036,15 +24036,15 @@ We also need technologies to adapt to the change
 
 that is inevitable to protect societies from rising sea levels
 
-## extreme
+extreme
 
 events, and the spread of disease.
 
 Beyond that, given the planetary
 
-## crisis we have now entered
+crisis we have now entered
 
-### we must also consider geoengineering
+we must also consider geoengineering
 
 our last-ditch attempt to restabilize Earth.
 
@@ -24056,11 +24056,11 @@ What makes technology diffuse in society?
 
 Some new technologies spread exponentially
 
-## while other great
+while other great
 
 ideas fail to gain momentum.
 
-### What is the secret to a technology’s
+What is the secret to a technology’s
 
 success?
 
@@ -24068,13 +24068,13 @@ Exponential technologies tend to be granular rather than
 
 big and bulky.
 
-## Think smartphones
+# Think smartphones
 
 not nuclear power plants.
 
 technology needs to have the capacity to evolve rapidly and diffuse
 
-## through society
+through society
 
 which means that it needs to be relatively cheap
 
@@ -24086,53 +24086,53 @@ economic dynamics, and social dynamics.
 
 A nuclear plant is, to
 
-## state the obvious
+state the obvious
 
 big, static
 
 and expensive.
 
-## Innovation is slow
+# Innovation is slow
 
 because each generation of plants lasts decades.
 
-## Solar and wind
+# Solar and wind
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 173US_106-195_321647_BB_Chap9-16.
 
-## indd 173 16/02/2021 11
+indd 173 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 power are the opposite.
 
-## They are small
+# They are small
 
-## comparatively inexpensive
+comparatively inexpensive
 
 and scale quickly.
 
 The innovation is rapid.
 
-## Solar and wind
+# Solar and wind
 
 increasingly outcompete nuclear and fossil fuels.
 
-## Both these older
+# Both these older
 
 technologies have seen remarkably little innovation in decades.
 
-## Nuclear
+# Nuclear
 
-## for example
+for example
 
 was once seen as an essential technology for
 
-## a clean future
+a clean future
 
 but now its own future is in doubt.
 
@@ -24154,7 +24154,7 @@ Even if we only build wind turbines in offshore
 
 waters that are shallower than 200 feet (60 meters)
 
-## we could still
+we could still
 
 supply more than enough20 electricity to meet the world’s demands.
 
@@ -24166,69 +24166,69 @@ Digitalization will radically affect how much energy we use.
 
 electricity demands plus an additional 50 percent.
 
-## YearInnovation
+# YearInnovation
 
 1785 18451st wave2nd wave3rd wave4th wave5th wave6th wave
 
-## 1900Iron
+1900Iron
 
-## Water power
+# Water power
 
-## Mechanization
+# Mechanization
 
 Textiles, CommerceSteel
 
-## Steam power
+# Steam power
 
-## Railroads
+# Railroads
 
-## CottonElectricity
+# CottonElectricity
 
-## Chemicals
+# Chemicals
 
-## Internal
+# Internal
 
-### combustion enginePetrochemicals
+combustion enginePetrochemicals
 
-## Electronics
+# Electronics
 
-## Aviation
+# Aviation
 
-## SpaceDigital networks
+# SpaceDigital networks
 
-## Biotechnology
+# Biotechnology
 
-## Software
+# Software
 
-## information
+information
 
-## technologyRenewable
+technologyRenewable
 
-## energy
+energy
 
-## Regenerative
+# Regenerative
 
-## land use
+land use
 
-## Artificial
+# Artificial
 
-## intelligence
+intelligence
 
-## Internet of
+# Internet of
 
-## things
+things
 
-## 5G
+5G
 
-## Biotechnology
+# Biotechnology
 
-### 1950 1990 2020Technological evolution
+1950 1990 2020Technological evolution
 
 Since the industrial revolution, the
 
-### world has witnessed five waves of
+world has witnessed five waves of
 
-### innovation that have led to profound
+innovation that have led to profound
 
 social, political, and economic change.
 
@@ -24240,21 +24240,21 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 174US_106-195_321647_BB_Chap9-16.
 
-## indd 174 16/02/2021 11
+indd 174 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 175 CHAPTER 15
+175 CHAPTER 15
 
 shaping the direction of technological evolution toward doing more
 
 stuff with fewer devices—cramming more applications onto a single
 
-### smartphone—and sharing more resources
+smartphone—and sharing more resources
 
-## from cars to office space
+from cars to office space
 
-## and manufacturing
+and manufacturing
 
 then demand for energy could fall by up to 40
 
@@ -24262,7 +24262,7 @@ percent.
 
 This is a more disruptive idea than it first appears.
 
-## Most
+# Most
 
 mainstream energy analysts predict energy demand will grow
 
@@ -24270,7 +24270,7 @@ fall, in the coming decades as nations develop.
 
 Price is a critical part of the equation in technology diffusion.
 
-## is often overlooked
+is often overlooked
 
 but Moore’s Law (described in Chapter 10) is
 
@@ -24280,35 +24280,35 @@ This double helix of power and price drives phenomenal growth
 
 and innovation in a short period and opens up whole new markets.
 
-### This can be seen for both hardware
+# This can be seen for both hardware
 
-### such as smartphones or tablets
+such as smartphones or tablets
 
-## and software
+and software
 
 such as social media platforms.
 
-## When innovators on
+# When innovators on
 
-## these curves enter markets
+these curves enter markets
 
 they effortlessly outcompete incumbents.
 
 Their rapid innovation cycles are sensitive to what users want.
 
-## This
+# This
 
 allows them to improve their new products rapidly as price falls.
 
-### Music streaming destroyed record stores
+# Music streaming destroyed record stores
 
-## Amazon came close to
+# Amazon came close to
 
-## killing bookshops
+killing bookshops
 
 and Netflix annihilated video stores.
 
-## The speed
+# The speed
 
 and scale of disruption always comes as a surprise to industries.
 
@@ -24318,7 +24318,7 @@ solar, battery
 
 storage, and electric vehicles.
 
-### We have already reached a tipping
+# We have already reached a tipping
 
 point where the change is now unstoppable (see Chapter 18).
 
@@ -24332,7 +24332,7 @@ Not so fast.
 
 The grand challenge is still on our Earth watch.
 
-## How do we make
+# How do we make
 
 the digital revolution work within planetary boundaries?
 
@@ -24344,11 +24344,11 @@ the Earthshot goal?
 
 And how do we do it in a way that avoids
 
-## rebound effects
+rebound effects
 
 where digitally enhanced smart homes reduce
 
-## emissions
+emissions
 
 saving money that is then spent on high emissions
 
@@ -24356,31 +24356,31 @@ consumption elsewhere?
 
 The digital age has to work for the planet.
 
-## Technology’s dark side
+Technology’s dark side
 
 Technology companies are on the side of money.
 
-## As oil gets more
+# As oil gets more
 
-## difficult to find and extract
+difficult to find and extract
 
-### oil companies have jumped into bed
+oil companies have jumped into bed
 
-## with Google
+with Google
 
-## Microsoft
+# Microsoft
 
-### and Amazon to use AI and algorithms to
+and Amazon to use AI and algorithms to
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 175US_106-195_321647_BB_Chap9-16.
 
-## indd 175 23/02/2021 10
+indd 175 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
 search for the last remaining reservoirs.
 
@@ -24388,31 +24388,31 @@ In 2018, oil companies threw
 
 about 4 billion.
 
-## Needless to say
+# Needless to say
 
 this is at odds with planetary stewardship.
 
 But it gets worse, far worse.
 
-### Technology has changed the way
+# Technology has changed the way
 
 information flows in the world.
 
-### We freely donate our data to digital
+# We freely donate our data to digital
 
-## platforms
+platforms
 
-## such as Amazon
+such as Amazon
 
-## Facebook
+# Facebook
 
-## and Google
+and Google
 
-## revealing to
+revealing to
 
 them our innermost desires.
 
-### These companies employ psychologists
+# These companies employ psychologists
 
 and neuroscientists who use our data to predict our behavior and
 
@@ -24420,23 +24420,23 @@ influence it.
 
 This information is on sale to the highest bidder.
 
-### Without proper checks and balances
+# Without proper checks and balances
 
-## these companies are
+these companies are
 
 undermining our ability to distinguish fact from fiction.
 
-## They are
+# They are
 
-## making society more polarized
+making society more polarized
 
 which, in turn
 
-## is destroying
+is destroying
 
 democracy and ruining communities.
 
-## Change is happening so fast
+# Change is happening so fast
 
 that society cannot keep up.
 
@@ -24446,25 +24446,25 @@ market capitalization is because they have direct access to the inner
 
 thoughts and desires of the world’s 4 billion middle-class consumers.
 
-## Facebook
+# Facebook
 
-## Google
+# Google
 
 and their ilk provide platforms for free
 
-## if you
+if you
 
-### are not paying for the product
+are not paying for the product
 
 then you are the product.
 
-## This is an
+# This is an
 
 extractive industry.
 
-### But instead of extracting oil or coal
+# But instead of extracting oil or coal
 
-## companies
+companies
 
 are extracting something far more valuable
 
@@ -24482,37 +24482,37 @@ Ironically, as many people call for
 
 a new approach to capitalism in order to stabilize Earth
 
-## a new form
+a new form
 
-## of capitalism is emerging
+of capitalism is emerging
 
-### dubbed “surveillance capitalism” by US
+dubbed “surveillance capitalism” by US
 
 academic Shoshana Zuboff.
 
-### Our freedom of thought is under attack
+# Our freedom of thought is under attack
 
 and exposed to abuse by corporations and states.
 
-## It is unclear
+# It is unclear
 
 whether this will help restabilize or further destabilize our planet.
 
 I, for one
 
-### welcome our new computer overlords
+welcome our new computer overlords
 
-## Currently
+# Currently
 
 we are on the brink of the next wave of technologies
 
 AI, automation
 
-## machine learning
+machine learning
 
 and the Internet of things.
 
-## In 2011
+# In 2011
 
 a computer took on the two best players of the television
 
@@ -24520,7 +24520,7 @@ game show Jeopardy!
 
 Before the game, Ken Jennings had won 74
 
-## times in a row
+times in a row
 
 and Brad Rutter had hauled in the biggest prize pot
 
@@ -24530,27 +24530,27 @@ IBM’s Watson computer crushed them both.
 
 “I, for one
 
-### welcome our new computer overlords
+welcome our new computer overlords
 
-## ” said Jennings
+” said Jennings
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 176US_106-195_321647_BB_Chap9-16.
 
-## indd 176 16/02/2021 11
+indd 176 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 177 CHAPTER 15
+177 CHAPTER 15
 
 rather sanguinely on defeat.
 
-### Watson’s success relied on “deep
+Watson’s success relied on “deep
 
 learning” and natural language processing.
 
-## It can find meaning in
+# It can find meaning in
 
 vast amounts of text.
 
@@ -24558,11 +24558,11 @@ Our technology is becoming more powerful
 
 and this power is increasing exponentially.
 
-## In 2017
+# In 2017
 
 DeepMind’s AlphaZero achieved superhuman abilities
 
-## in chess
+in chess
 
 Shogi,21 and Go22 within 24 hours.
 
@@ -24572,9 +24572,9 @@ handlers did not train the AI by dumping on it millions of games
 
 won by grand masters.
 
-## Instead
+# Instead
 
-### they simply taught it the rules of the
+they simply taught it the rules of the
 
 games.
 
@@ -24582,31 +24582,31 @@ It figured out the rest itself.
 
 Where will this lead us?
 
-### Scientists are already using some deep
+# Scientists are already using some deep
 
 learning algorithms to find new antibiotics.
 
-## And researchers have
+# And researchers have
 
 sent an AI to crawl through millions of academic papers in search
 
 of possible new materials.
 
-### But some caution is required as we step
+# But some caution is required as we step
 
 into this brave new world.
 
-### Many of the people shouting loudest to
+# Many of the people shouting loudest to
 
 tread carefully are the world’s leading experts in AI.
 
-## As Max
+# As Max
 
 Tegmark writes in Life 3.
 
-### 0 , “Intelligence enables control
+0 , “Intelligence enables control
 
-## humans
+humans
 
 control tigers not because we’re stronger
 
@@ -24618,39 +24618,39 @@ it’s possible that we might also cede control.
 
 Have we already ceded control to algorithms?
 
-## Perhaps we gave
+# Perhaps we gave
 
 up control to algorithms several generations ago.
 
-## And we are not
+# And we are not
 
 talking about Netflix recommendations.
 
-## The global markets
+# The global markets
 
-## influence society
+influence society
 
-## business
+business
 
 and politics.
 
-## We are at the mercy of high
+# We are at the mercy of high
 
 frequency trading.
 
-## The markets ebb
+# The markets ebb
 
 flow, dive
 
-## and soar according
+and soar according
 
-## to simple algorithms—buy
+to simple algorithms—buy
 
 sell—like a proto-consciousness driven by
 
 sentiment, mood, and herd instincts.
 
-## In the 2020s
+# In the 2020s
 
 automation will increasingly replace jobs across
 
@@ -24658,75 +24658,75 @@ many industries.
 
 This is a major concern.
 
-## Robotics and automation
+# Robotics and automation
 
 are predicted to displace 20 million factory workers worldwide by
 
 2030.
 
-## Robots will drive our trucks
+# Robots will drive our trucks
 
-## trains
+trains
 
-## and planes
+and planes
 
-## flip our
+flip our
 
-## burgers
+burgers
 
-## make our lattes
+make our lattes
 
-## and stock our shelves
+and stock our shelves
 
 if they aren’t already.
 
 But it is not only low-skilled labor that is at risk.
 
-## Management
+# Management
 
 consultancy McKinsey estimates that much of a law clerk’s job and
 
 even a lawyer’s job can be automated.
 
-## Automation is creating the
+# Automation is creating the
 
-## 21 A Japanese form of chess.
+21 A Japanese form of chess.
 
-### 22 A devilishly complex Chinese board game.
+22 A devilishly complex Chinese board game.
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 177US_106-195_321647_BB_Chap9-16.
 
-## indd 177 16/02/2021 11
+indd 177 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 right conditions for a perfect storm of rising unemployment
 
 deepened inequality as wealth is more concentrated to a few
 
-## rising
+rising
 
-## insecurity
+insecurity
 
-## and rising resentment
+and rising resentment
 
-## which opens the door for more
+which opens the door for more
 
 populist, authoritarian leaders.
 
-### This has the potential to destabilize
+# This has the potential to destabilize
 
 societies.
 
 We need to find a way to redirect our innovative capacity
 
-### and at the same time build safety nets
+and at the same time build safety nets
 
-## such as retraining programs
+such as retraining programs
 
 into society to protect people.
 
@@ -24740,19 +24740,19 @@ We’ll address this more fully in Chapter
 
 Another technology predicted to break through in the coming
 
-## years is blockchain
+years is blockchain
 
 a decentralized way of storing information on
 
 transactions such as purchases or legal contracts.
 
-## It has been touted
+# It has been touted
 
 as a major disruptor of everything and a perfect tool for carbon
 
 trading.
 
-## Recently
+# Recently
 
 Mercedes-Benz announced a pilot program to
 
@@ -24760,17 +24760,17 @@ use blockchain to track carbon emissions in its cobalt supply chain.
 
 If blockchain does somehow break into the mainstream
 
-## it will be a
+it will be a
 
 disaster for stabilizing Earth in its current form.
 
-## The blockchain
+# The blockchain
 
 application Bitcoin currently generates more carbon emissions than
 
-## the Republic of Ireland
+the Republic of Ireland
 
-## but unlike Ireland
+but unlike Ireland
 
 barely anyone uses it.
 
@@ -24778,17 +24778,17 @@ The uncertainties around the direction of technology are
 
 profound.
 
-## Forget about AI
+# Forget about AI
 
-## automation
+automation
 
 or blockchain.
 
-## It is not even
+# It is not even
 
 clear how 5G technology—the next generation of mobile networks—
 
-## will disrupt industries
+will disrupt industries
 
 and it is being rolled out as we speak.
 
@@ -24798,19 +24798,19 @@ less delay and fewer glitches.
 
 So far, so benign.
 
-## In 2020
+# In 2020
 
 the BBC saw a 5G world beyond better gaming
 
-## “Imagine
+“Imagine
 
 swarms of drones cooperating to carry out search and rescue
 
-## missions
+missions
 
-### fire assessments and traffic monitoring
+fire assessments and traffic monitoring
 
-## all communicating
+all communicating
 
 wirelessly with each other and ground base stations over 5G
 
@@ -24820,7 +24820,7 @@ networks.
 
 of a mass surveillance system.
 
-### 5G will change how we interact with
+5G will change how we interact with
 
 technology and how our devices and appliances speak to one
 
@@ -24832,21 +24832,21 @@ efficient cities.
 
 While one scenario is smooth-flowing traffic
 
-## another
+another
 
 is a traffic system in which drivers automatically bid against each
 
 other at every intersection.
 
-### The highest bidder wins the right to
+# The highest bidder wins the right to
 
 move first.
 
-## What 5G will mean for privacy
+# What 5G will mean for privacy
 
-## security
+security
 
-## and democracy
+and democracy
 
 is anyone’s guess.
 
@@ -24854,13 +24854,13 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 178US_106-195_321647_BB_Chap9-16.
 
-## indd 178 16/02/2021 11
+indd 178 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 179 CHAPTER 15
+179 CHAPTER 15
 
-## At present
+# At present
 
 governments are failing to steer this many-headed
 
@@ -24868,43 +24868,43 @@ beast that is technological innovation in directions that will support
 
 societal goals.
 
-## The tech companies themselves
+# The tech companies themselves
 
-## such as Amazon
+such as Amazon
 
-## Google
+# Google
 
-## and Facebook
+and Facebook
 
 talk a good game when it comes to reducing
 
-## their own emissions
+their own emissions
 
 but this is a drop in the ocean compared with
 
 the impact of their users.
 
-### Given their influence over the world’s
+Given their influence over the world’s
 
-## consumers
+consumers
 
 these companies must step up to this new responsibility.
 
-## Geoengineering
+# Geoengineering
 
-## If all else fails
+# If all else fails
 
 can we restabilize Earth using extreme technological
 
 fixes?
 
-## In the worst-case scenarios
+# In the worst-case scenarios
 
-### protecting billions of people will
+protecting billions of people will
 
 take unprecedented feats of engineering.
 
-## Geoengineering aims to
+# Geoengineering aims to
 
 address climate change using deliberate and large-scale
 
@@ -24912,7 +24912,7 @@ technological interventions.
 
 Think terraforming our own planet.
 
-## To be honest
+# To be honest
 
 most of these ideas come straight from the pages of
 
@@ -24922,17 +24922,17 @@ But many are now getting serious scientific
 
 attention.
 
-## By 2030
+# By 2030
 
 we should know which ones are our best bets.
 
 Geoengineering comes in two flavors.
 
-## The first option is to block
+# The first option is to block
 
 sunlight reaching Earth.
 
-### The second is to suck greenhouse gases
+# The second is to suck greenhouse gases
 
 out of the atmosphere.
 
@@ -24942,13 +24942,13 @@ a complex system.
 
 There are several ways to block sunlight
 
-## starting at a cosmic
+starting at a cosmic
 
 level.
 
 Erecting giant sunshades between Earth and the sun would
 
-## do the job nicely
+do the job nicely
 
 by potentially stopping about 2 percent of incoming
 
@@ -24956,7 +24956,7 @@ heat from the sun.
 
 The numbers have been crunched.
 
-## We would
+# We would
 
 need hundreds of thousands of 10-foot-square (1-meter-square)
 
@@ -24964,7 +24964,7 @@ sunshades weighing approximately 20 million tons (18 million
 
 metric tons).
 
-## In total
+# In total
 
 it would cost a few trillion dollars and last
 
@@ -24972,17 +24972,17 @@ about 50 years.
 
 But this does not help ocean acidification
 
-## because
+because
 
 carbon dioxide will still be building up in the atmosphere.
 
-## If we
+# If we
 
-## keep emitting
+keep emitting
 
 even if we block incoming solar radiation
 
-## then the
+then the
 
 ocean will get steadily more acidic—one of the major causes of past
 
@@ -24992,7 +24992,7 @@ In addition to the cost and engineering challenge
 
 giant sunshades are likely to bring unexpected consequences
 
-## example
+example
 
 changing weather patterns around the globe.
 
@@ -25004,41 +25004,41 @@ order to reflect heat back to space.
 
 We know this works.
 
-## Every major
+# Every major
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 179US_106-195_321647_BB_Chap9-16.
 
-## indd 179 16/02/2021 11
+indd 179 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 volcanic eruption ejects ash into the upper atmosphere.
 
-## This has a
+# This has a
 
 measurable effect on climate.
 
-### When Mount Pinatubo erupted in the
+# When Mount Pinatubo erupted in the
 
-## Philippines in 1991
+# Philippines in 1991
 
 the planet cooled a little for the few years after
 
-## the initial eruption
+the initial eruption
 
-### 23 but this impact was short-lived because these
+23 but this impact was short-lived because these
 
 particles dissipate in the upper atmosphere within a few years.
 
 scale of this type of intervention would need to be immense
 
-## some
+some
 
-## 3 to 5.
+3 to 5.
 
 5 million tons (3 to 5 million metric tons) of sulfur ejected
 
@@ -25046,7 +25046,7 @@ every year.
 
 Cloud seeding or whitening is another option.
 
-## Churning up large
+# Churning up large
 
 tracts of the ocean can throw salt particles into the atmosphere that
 
@@ -25056,9 +25056,9 @@ More clouds will reflect more heat back to
 
 space and perhaps cool the planet.
 
-## This idea could be used quite
+# This idea could be used quite
 
-### locally to protect coral reefs
+locally to protect coral reefs
 
 for example.
 
@@ -25068,19 +25068,19 @@ this would take vast armadas of autonomous ships plying the ocean
 
 for evermore.
 
-### We could also simply paint our roads
+# We could also simply paint our roads
 
 roofs, and cities white to
 
 reflect heat.
 
-## Locally
+# Locally
 
 this effect could keep towns and villages cooler.
 
 A similar proposal is to grow genetically modified crops that are
 
-### better at reflecting heat from the sun
+better at reflecting heat from the sun
 
 for more widespread cooling.
 
@@ -25090,17 +25090,17 @@ geoengineering ideas, though.
 
 Once we start we cannot stop.
 
-## If we
+# If we
 
 are forced to stop a geoengineering project for whatever reason—the
 
-## money runs out
+money runs out
 
-## geopolitical strife
+geopolitical strife
 
-## catastrophic unforeseen
+catastrophic unforeseen
 
-## consequences
+consequences
 
 for example—then Earth’s temperature would
 
@@ -25110,7 +25110,7 @@ Several ideas for sucking carbon dioxide out of the atmosphere
 
 have also been proposed.
 
-### The most commonly talked about is
+# The most commonly talked about is
 
 carbon capture and storage.
 
@@ -25124,19 +25124,19 @@ The second is to grow and burn plants for energy.
 
 Burning the plants releases carbon dioxide
 
-## but this would then
+but this would then
 
 need to be trapped and put somewhere safe
 
-## away from the
+away from the
 
 atmosphere.
 
 The most common proposal is to pump it back into
 
-## used oil reservoirs
+used oil reservoirs
 
-## deep beneath the sea
+deep beneath the sea
 
 for safekeeping.
 
@@ -25144,59 +25144,59 @@ However,
 
 if we rely on plants to capture the carbon
 
-## the scale needed
+the scale needed
 
-### 23 0.9°F (0.5°C) for two years.
+23 0.9°F (0.5°C) for two years.
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 180US_106-195_321647_BB_Chap9-16.
 
-## indd 180 16/02/2021 11
+indd 180 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 181 CHAPTER 15
+181 CHAPTER 15
 
 will interfere with global food production
 
-## and we will struggle
+and we will struggle
 
 to provide enough food for our growing population.
 
-## Ultimately
+# Ultimately
 
 some of these technological solutions will be required
 
 even if the world makes massive emissions cuts
 
-## because we are so
+because we are so
 
 close to unmanageable risks.
 
-## When geoengineering becomes
+# When geoengineering becomes
 
-## essential
+essential
 
-### we should plan for a smorgasbord
+we should plan for a smorgasbord
 
-## and deep systematic
+and deep systematic
 
 assessments of risks.
 
 Carbon capture and storage seems the most
 
-## promising option
+promising option
 
 it is economically viable and appears relatively
 
 safe.
 
-## In the next decade
+# In the next decade
 
-### we need to start scaling it up
+we need to start scaling it up
 
-## so that we are
+so that we are
 
 ready to pull 5.
 
@@ -25204,27 +25204,27 @@ ready to pull 5.
 
 carbon dioxide out of the atmosphere every year.
 
-## We will need this
+# We will need this
 
 even if the world follows the Carbon Law.
 
 Going further than this,
 
-## though
+though
 
 really is in the realm of science fiction.
 
-## Finally
+# Finally
 
 researchers have also proposed a way to stabilize parts of
 
 the Antarctic ice sheet.
 
-## It would take about 12
+# It would take about 12
 
-## 000 wind turbines to
+000 wind turbines to
 
-## generate the power
+generate the power
 
 but giant snow machines could be employed to
 
@@ -25232,49 +25232,49 @@ suck up seawater and turn it into snowfall to rebuild the ice sheet
 
 and protect the world from several yards of sea level rise.
 
-### assessment is that ideas like this are
+assessment is that ideas like this are
 
-## for now
+for now
 
-## interesting projects on
+interesting projects on
 
 paper and in the minds of brilliant colleagues.
 
-## While they highlight
+# While they highlight
 
 the sheer scale of the challenges we face
 
-## they are perhaps unrealistic
+they are perhaps unrealistic
 
 at the moment.
 
-## Ten years from now
+# Ten years from now
 
-## we might be revising this
+we might be revising this
 
 opinion.
 
 These are the extremes we are being forced to consider.
 
-## Needless to say
+# Needless to say
 
 this is a race against time.
 
-## Accelerating
+# Accelerating
 
 technological progress can help drive the other five major system
 
 transformations we desperately need.
 
-## But it could equally hinder
+# But it could equally hinder
 
 our chances of success if technology merely pushes emissions
 
 higher by increasing unsustainable consumption.
 
-## In the next two chapters
+# In the next two chapters
 
-### we will look at how economic and
+we will look at how economic and
 
 political policies can help guide the six system transformations that
 
@@ -25288,15 +25288,15 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 181US_106-195_321647_BB_Chap9-16.
 
-## indd 181 23/02/2021 10
+indd 181 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
-### I recently caught up with an old friend
+# I recently caught up with an old friend
 
-## Jochen Zeitz
+# Jochen Zeitz
 
 former CEO of the sports giant Puma.
 
@@ -25314,7 +25314,7 @@ I almost fell off my chair.
 
 Harley Davidson, the epitome of loud
 
-## motorcycles
+motorcycles
 
 oil, and combustion engines is launching electric
 
@@ -25332,7 +25332,7 @@ fossil fuel-free products.
 
 If Harley can do it, so can the world.
 
-## Johan
+# Johan
 
 One of the first people to get a handle on what planetary boundaries
 
@@ -25340,29 +25340,29 @@ meant for economic theory and practice was Kate Raworth
 
 an academic at the University of Oxford.
 
-## Raworth realized that
+# Raworth realized that
 
 if the planetary boundaries represent the environmental ceiling
 
-## for the global economy
+for the global economy
 
 then there is an equal and opposite social A GLOBAL ECONOMY
 
-## WITHIN PLANETARY
+# WITHIN PLANETARY
 
-## BOUNDARIES
+# BOUNDARIES
 
 Today we have economies that need to grow
 
 whether or not they make us thrive.
 
-## What we
+# What we
 
 need are economies that make us thrive,
 
 whether or not they grow.
 
-## KATE RAWORTH
+# KATE RAWORTH
 
 DOUGHNUT ECONOMICS: SEVEN WAYS TO THINK
 
@@ -25372,23 +25372,23 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 182US_106-195_321647_BB_Chap9-16.
 
-## indd 182 16/02/2021 11
+indd 182 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-### floor—sufficient access to energy
+floor—sufficient access to energy
 
 water, food
 
-## good health
+good health
 
-## education
+education
 
-## housing
+housing
 
 and more (12 in total).
 
-## She called this new
+# She called this new
 
 economic model the “doughnut” (see page 185).
 
@@ -25396,7 +25396,7 @@ Doughnut economics is now beginning to enter economic
 
 orthodoxy.
 
-## In 2020
+# In 2020
 
 the University of Oxford published a new
 
@@ -25410,29 +25410,29 @@ Smith famously introduced two metaphors—
 
 capitalism’s “rising tide raises all boats” and the market’s “invisible
 
-### hand”—to explain how self-interest
+hand”—to explain how self-interest
 
-## markets
+markets
 
-## and growth bring
+and growth bring
 
 unintended social benefits for all in society.
 
 In the Anthropocene,
 
-## the rising tide
+the rising tide
 
-## nudged along by capitalism
+nudged along by capitalism
 
-## is no longer a metaphor
+is no longer a metaphor
 
-### it literally threatens to sink cities
+it literally threatens to sink cities
 
-## with the poorest hit hardest
+with the poorest hit hardest
 
 the invisible hand is pushing people’s heads underwater.
 
-## Now the
+# Now the
 
 challenge is to redirect our economic power within the safe space
 
@@ -25440,7 +25440,7 @@ for humanity.
 
 And as fast as possible.
 
-## If the planetary boundaries
+# If the planetary boundaries
 
 are the fencing to prevent the global economy from tumbling off the
 
@@ -25450,7 +25450,7 @@ the edge.
 
 We are not yet hanging on by our fingertips
 
-## but soon we
+but soon we
 
 will be.
 
@@ -25468,13 +25468,13 @@ Perhaps the doughnut is more like a life buoy.
 
 So, are there any reasons for optimism?
 
-## We believe there
+# We believe there
 
 are several beacons of hope indicating that we can live prosperous
 
 and equitable lives within planetary boundaries
 
-## all 10 billion or
+all 10 billion or
 
 more of us.
 
@@ -25494,17 +25494,17 @@ compelling economic narrative than our current status quo.
 
 French author Antoine de Saint-Exupéry said
 
-## “If you want to build
+“If you want to build
 
-## a ship
+a ship
 
-### don’t drum up the men to gather wood
+don’t drum up the men to gather wood
 
-## divide the work
+divide the work
 
 give orders.
 
-## Instead
+# Instead
 
 teach them to yearn for the vast and endless
 
@@ -25512,7 +25512,7 @@ sea.
 
 ” This is not such a difficult task.
 
-### The global financial crisis of
+# The global financial crisis of
 
 2008/9 and the 2020 pandemic have already exposed the deep
 
@@ -25520,49 +25520,49 @@ fractures and fault lines of the neoliberal narrative that has left its
 
 mark in the geology of our planet.
 
-## 183 CHAPTER 16
+183 CHAPTER 16
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 183US_106-195_321647_BB_Chap9-16.
 
-## indd 183 16/02/2021 11
+indd 183 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## Reasons to be optimistic
+# Reasons to be optimistic
 
 The first reason for optimism is that the new economic logic is far
 
 more attractive than our current way of doing business
 
-## the return
+the return
 
-### on investment on a stable planet
+on investment on a stable planet
 
-### where economies adopt renewable
+where economies adopt renewable
 
-## and circular principles
+and circular principles
 
 is truly in balance with long-term rewards.
 
 The markets are beginning to catch on.
 
-## Sustainable technologies
+# Sustainable technologies
 
 and business models are proving to be more profitable
 
-## thanks to
+thanks to
 
 more efficient production and growing market demand.
 
-## As CEO of
+# As CEO of
 
-### Scania Henrik Henriksson notes
+# Scania Henrik Henriksson notes
 
-### “Sustainability and profitability
+“Sustainability and profitability
 
 now go hand-in-hand.
 
@@ -25570,7 +25570,7 @@ now go hand-in-hand.
 
 Second, we have been here before.
 
-## New economic thinking can
+# New economic thinking can
 
 become mainstream surprisingly quickly.
 
@@ -25578,11 +25578,11 @@ In the 1930s and 1940s,
 
 President Franklin D.
 
-### Roosevelt’s New Deal—the long-term
+Roosevelt’s New Deal—the long-term
 
 investments and new social contracts between labor
 
-## government
+government
 
 and companies—pulled the world out of the Great Depression and
 
@@ -25592,7 +25592,7 @@ In the 1980s, the
 
 economic ideas of neoliberalism swept the world
 
-## driven by Margaret
+driven by Margaret
 
 Thatcher and Ronald Reagan.
 
@@ -25608,65 +25608,65 @@ now reached takeoff speed.
 
 Population growth is slowing.
 
-### technology revolution is unstoppable
+technology revolution is unstoppable
 
-## and cities are in a constant
+and cities are in a constant
 
 state of reinvention.
 
-## We have a strong
+# We have a strong
 
-## healthy ecosystem for rapid
+healthy ecosystem for rapid
 
 iteration of ideas and diffusion.
 
-### With 190+ nations and thousands
+With 190+ nations and thousands
 
-## of cities
+of cities
 
 we can test solutions and learn from one another
 
-## which is
+which is
 
 a good base for transformation and innovation.
 
-## And finally
+# And finally
 
 the 2020 pandemic provides this generation’s most
 
 important moment to reinvent the global economy.
 
-## At its heart
+# At its heart
 
 economic development in the Anthropocene means
 
-## two things
+two things
 
 reshaping the playing field that businesses operate
 
-## within—the markets
+within—the markets
 
 and the flow of goods and services—and long-
 
 term planning for the future—cathedral thinking.
 
-## Before we tackle
+# Before we tackle
 
-## the markets and cathedrals
+the markets and cathedrals
 
 first we need to deal with growth.
 
-## We are obsessed with growth
+# We are obsessed with growth
 
 Politicians obsess about economic growth.
 
-## It is used as a proxy for
+# It is used as a proxy for
 
-## opportunity
+opportunity
 
-## stability
+stability
 
-## well-being
+well-being
 
 and happiness.
 
@@ -25680,51 +25680,51 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 184US_106-195_321647_BB_Chap9-16.
 
-## indd 184 16/02/2021 11
+indd 184 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 185 CHAPTER 16
+185 CHAPTER 16
 
 we do not associate never-ending growth with positive outcomes.
 
-## In our gardens
+# In our gardens
 
-## we want plants to grow
+we want plants to grow
 
-## but also to stabilize and
+but also to stabilize and
 
 stop at some point.
 
-## We want our children to grow
+# We want our children to grow
 
 too, but not
 
 indefinitely.
 
-## As we saw in Chapter 13
+# As we saw in Chapter 13
 
-## greater wealth does not
+greater wealth does not
 
 translate to greater well-being or happiness
 
 even for rich people.
 
-## But as we get richer
+# But as we get richer
 
 our environmental footprint expands.
 
-## This is
+# This is
 
 a general rule.
 
 Where did this obsession with growth come from?
 
-## The US
+# The US
 
 economist Simon Kuznets first developed the idea of GDP in 1934.
 
-## In the 1940s
+# In the 1940s
 
 despite Kuznets’ own warnings that GDP failed to
 
@@ -25732,7 +25732,7 @@ capture not only the true value of society but also the environmental
 
 and social damages inflicted on societies by the economy
 
-## it became
+it became
 
 the defining measure of a country’s success.
 
@@ -25740,17 +25740,17 @@ This is understandable:
 
 it is a simple and powerful indicator of a country’s rise out of poverty.
 
-## Doughnut economics
+# Doughnut economics
 
-### Raworth’s economic model combines the
+Raworth’s economic model combines the
 
-### planetary boundaries framework with
+planetary boundaries framework with
 
-## social considerations such as
+social considerations such as
 
 education, food, health,
 
-## and inequality as well
+and inequality as well
 
 as access to energy,
 
@@ -25758,23 +25758,23 @@ housing, and water.
 
 Within this model, many
 
-## economic pathways (inset)
+economic pathways (inset)
 
-## are possible as long
+are possible as long
 
-## as materials are
+as materials are
 
 recirculated.
 
 Air pollution Ozone layer depletion Climate change acidif cation Chem
 
-## ical pollution
+ical pollution
 
 Biodiversity loss Land conversion Freshwater Nitrogen and
 
-### withdrawals phosphorus loading Ocean
+withdrawals phosphorus loading Ocean
 
-## ECOLOGICAL CEILING
+# ECOLOGICAL CEILING
 
 Networks Energy Water Food Health Education
 
@@ -25782,55 +25782,55 @@ Housing Gender Social Political Peace and Income and
 
 equality equity voice justice workSOCIAL FOUNDATION
 
-### SHORTFALLOVERSHOOTECOLOGICAL CEILING
+# SHORTFALLOVERSHOOTECOLOGICAL CEILING
 
-## SOCIAL FOUNDATION
+# SOCIAL FOUNDATION
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 185US_106-195_321647_BB_Chap9-16.
 
-## indd 185 16/02/2021 11
+indd 185 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## For the past 200 years
+# For the past 200 years
 
-## the global economy has grown
+the global economy has grown
 
 exponentially, defying all odds.
 
-### But growth is often subsidized by
+# But growth is often subsidized by
 
-## cheap labor
+cheap labor
 
 exploiting poor adults and children in developing
 
 economies.
 
-### And growth is subsidized by the planet
+# And growth is subsidized by the planet
 
-## mining
+mining
 
-## soil
+soil
 
-## erosion
+erosion
 
-## deforestation
+deforestation
 
-## air pollution
+air pollution
 
 and greenhouse gases.
 
-## When
+# When
 
-## you think about it like this
+you think about it like this
 
 nothing is growing really.
 
-## Social and
+# Social and
 
 natural capital are just being converted to economic capital.
 
@@ -25838,7 +25838,7 @@ zero.
 
 There is no growth.
 
-### The subsidized phase of consumer
+# The subsidized phase of consumer
 
 capitalism has come to an end.
 
@@ -25846,13 +25846,13 @@ The free lunch is over.
 
 Economic growth comes from a combination of investment in
 
-## education
+education
 
-## innovation
+innovation
 
-## infrastructure
+infrastructure
 
-## urbanization
+urbanization
 
 and energy.
 
@@ -25860,47 +25860,47 @@ Resource extraction is an important factor
 
 as is international trade.
 
-## And other things
+# And other things
 
 too: political stability and trust in public
 
-## institutions
+institutions
 
-## for example
+for example
 
 are critical for market confidence.
 
-## course
+course
 
 we should not forget debt—borrowing from the future to pay
 
 for today.
 
-## In early 2020
+# In early 2020
 
-### before the pandemic caused economies to
+before the pandemic caused economies to
 
 crash, global debt reached a record $258 trillion.
 
-### Despite political obsession with growth
+# Despite political obsession with growth
 
-## wealthy
+wealthy
 
-## technologically
+technologically
 
 advanced nations have stopped growing at the breakneck speeds of
 
 the 1950s and 1960s.
 
-### The slowdown occurred more than three
+# The slowdown occurred more than three
 
-## decades ago
+decades ago
 
 and according to many economists a return to high
 
 growth may not even be possible.
 
-### There are good economic reasons
+# There are good economic reasons
 
 for this.
 
@@ -25910,75 +25910,75 @@ and expanding work forces as people move to cities in search of a
 
 better life, thus enabling rapid growth.
 
-## Rich nations have low or
+# Rich nations have low or
 
-## zero population growth
+zero population growth
 
-### they have largely urban populations who
+they have largely urban populations who
 
 are highly educated and are more likely to work in sectors such as
 
-## finance
+finance
 
-## technology
+technology
 
-## knowledge
+knowledge
 
-## health
+health
 
-## hospitality
+hospitality
 
-## or law
+or law
 
-## rather
+rather
 
 than manufacturing.
 
-## In these sectors
+# In these sectors
 
-### innovations bring only limited
+innovations bring only limited
 
-## efficiencies
+efficiencies
 
 so there is little space for high growth
 
-## machines have
+machines have
 
-## not made lawyers
+not made lawyers
 
-## nurses
+nurses
 
-### or filmmakers 10 times more efficient
+or filmmakers 10 times more efficient
 
 and they are unlikely to do so.
 
-## Green growth versus degrowth
+# Green growth versus degrowth
 
-## In the past few years
+# In the past few years
 
 the mother of all battles has broken out
 
 within the group of economic scholars thinking about the future
 
-## of the planet (admittedly
+of the planet (admittedly
 
-### this is a very small group among
+this is a very small group among
 
 economists).
 
 On one side are the green growthers.
 
-## They say that
+# They say that
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 186US_106-195_321647_BB_Chap9-16.
 
-## indd 186 16/02/2021 11
+indd 186 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 187 CHAPTER 16
+187 CHAPTER 16
 
 economic growth can be made environmentally sustainable
 
@@ -25986,13 +25986,13 @@ economy can “decouple” growth from environmental damage.
 
 Lawmakers can find the right policies to reshape the markets and
 
-### push carbon out of the economy
+push carbon out of the economy
 
-## protect biodiversity
+protect biodiversity
 
-## avoid
+avoid
 
-## pollution
+pollution
 
 and prevent further land expansion.
 
@@ -26002,21 +26002,21 @@ the economy can keep on growing.
 
 The problem is that empirical evidence for green growth is weak.
 
-## Many rich countries—Sweden
+Many rich countries—Sweden
 
-## France
+# France
 
-## the United Kingdom
+the United Kingdom
 
-## Finland
+# Finland
 
 for example—have impressively reduced emissions within
 
-## their own borders
+their own borders
 
 but still live beyond the limits of the planet.
 
-## This
+# This
 
 is because the goods that their citizens consume are produced in
 
@@ -26028,23 +26028,23 @@ the very least, steady-staters).
 
 They conclude that degrowth (or,
 
-## at the very least
+at the very least
 
 no growth) is the only option.
 
-## This may be a risky
+# This may be a risky
 
 economic strategy.
 
 Again, the COVID-19 pandemic offered a
 
-## glimpse of this world
+glimpse of this world
 
-## in 2020
+in 2020
 
-### greenhouse gas emissions across the
+greenhouse gas emissions across the
 
-## globe fell dramatically
+globe fell dramatically
 
 and many cities had cleaner air than at any
 
@@ -26052,19 +26052,19 @@ time in many decades.
 
 But at what cost?
 
-## Losing millions of jobs and
+# Losing millions of jobs and
 
 businesses leads to social unrest and insecurity
 
-## the end of innovation
+the end of innovation
 
 and, potentially, economic collapse.
 
-## This is a chaotic political
+# This is a chaotic political
 
 environment in which to bring about sustained long-term change.
 
-## Remember
+# Remember
 
 emissions must fall 7 to 8 percent per year to remain
 
@@ -26076,15 +26076,15 @@ would make it more difficult to bring the hundreds of millions of
 
 people out of poverty in poor countries.
 
-## Who has the right to tell
+# Who has the right to tell
 
 the 800 million people living in extreme poverty
 
-## with shocking
+with shocking
 
-## health and poor education
+health and poor education
 
-## that economic growth has been
+that economic growth has been
 
 abandoned and they should give up hope of a better life?
 
@@ -26092,19 +26092,19 @@ The planetary boundaries framework has been used by scholars
 
 to defend both sides of the green growth/degrowth debate.
 
-## But the
+# But the
 
 framework is entirely agnostic about the global economy.
 
-## It only
+# It only
 
 tells us what the contours of the safe operating space are
 
-## it does
+it does
 
 not tell us how the world economy gets there
 
-## or how it stays within
+or how it stays within
 
 these boundaries.
 
@@ -26114,7 +26114,7 @@ We are pragmatic.
 
 First, infinite growth at the expense of the biosphere is impossible.
 
-## This is not an opinion
+# This is not an opinion
 
 it is a statement of fact.
 
@@ -26126,11 +26126,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 187US_106-195_321647_BB_Chap9-16.
 
-## indd 187 16/02/2021 11
+indd 187 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 system is possible.
 
@@ -26138,45 +26138,45 @@ Economic growth improves lives, brings
 
 security, and slows population growth.
 
-## Growth is entirely dependent
+# Growth is entirely dependent
 
 on context.
 
-## In some places
+# In some places
 
-### it is essential to end hunger and
+it is essential to end hunger and
 
 poverty.
 
-## In other places
+# In other places
 
 we should not care one whit about it.
 
-## In all
+# In all
 
-## nations
+nations
 
-## though
+though
 
 we should move beyond this myopic focus and
 
 adopt better metrics for better lives.
 
-## Japan has struggled with
+# Japan has struggled with
 
 low or zero growth for decades and has now come to terms
 
 with it.
 
-## Countries like New Zealand
+# Countries like New Zealand
 
-## Iceland
+# Iceland
 
-## and Scotland are
+and Scotland are
 
-## actively
+actively
 
-## openly
+openly
 
 and courageously exploring policies that put the
 
@@ -26186,25 +26186,25 @@ and planet.
 
 So, we should not obsess about economic growth
 
-## nor should we
+nor should we
 
 demonize it.
 
 Our main focus should be on managing markets
 
-## effectively to support
+effectively to support
 
-## not undermine
+not undermine
 
 societal goals.
 
-### But before we finish on growth
+# But before we finish on growth
 
-### we should recognize one reason
+we should recognize one reason
 
 why growth is so alluring.
 
-### Debt has played a big role in creating
+# Debt has played a big role in creating
 
 modern economies.
 
@@ -26214,7 +26214,7 @@ the future.
 
 The big assumption here is that the future will be rosy
 
-## after all
+after all
 
 the debt can only be paid back if there is some sort of
 
@@ -26222,19 +26222,19 @@ progress or growth.
 
 This seems like a good deal for everyone.
 
-## Debt
+# Debt
 
-### today can improve future prospects
+today can improve future prospects
 
-### from student loans to building
+from student loans to building
 
 roads and factories.
 
 The different financial instruments that allow us to borrow from
 
-### the future operate like a time machine
+the future operate like a time machine
 
-### allowing us to create a social
+allowing us to create a social
 
 contract with our future selves and future societies who will be
 
@@ -26244,35 +26244,35 @@ But what if investment today makes the future
 
 less stable?
 
-## In recent years
+# In recent years
 
-### it has become clear that the social
+it has become clear that the social
 
-### contract is already breaking down
+contract is already breaking down
 
-## we only have to look at the
+we only have to look at the
 
 children striking from school to see it.
 
-## This is not the deal they
+# This is not the deal they
 
 signed up for.
 
-## Back to school
+# Back to school
 
 Now is the time to reject the neoliberalist economic model
 
 championed by the Chicago school of economics
 
-## which emerged
+which emerged
 
 in the 1930s and has dominated the world since the 1980s.
 
-## It is
+# It is
 
 time to ditch the “winner takes all” economic logic of the past four
 
-## decades
+decades
 
 during which the world’s wealth was hoarded by the few
 
@@ -26284,23 +26284,23 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 188US_106-195_321647_BB_Chap9-16.
 
-## indd 188 16/02/2021 11
+indd 188 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 189 CHAPTER 16
+189 CHAPTER 16
 
 we need to see a return to a more balanced economic pathway in
 
-### which all economic variables—incomes
+which all economic variables—incomes
 
-## outputs
+outputs
 
-## profits
+profits
 
-## wages—progress together
+wages—progress together
 
-### benefiting all in society and ensuring
+benefiting all in society and ensuring
 
 stable, political environments.
 
@@ -26308,15 +26308,15 @@ It is time to go back to school.
 
 The foundation of the new school of economic thinking
 
-## let’s call
+let’s call
 
-## it the Stockholm school
+it the Stockholm school
 
-## is the three “R”s
+is the three “R”s
 
-## resilience
+resilience
 
-## regeneration
+regeneration
 
 and recirculation.
 
@@ -26328,9 +26328,9 @@ relate to the use of physical “stuff.
 
 KIDSS: the knowledge economy
 
-## the information economy
+the information economy
 
-## digital economy
+digital economy
 
 the service economy (including education and
 
@@ -26338,15 +26338,15 @@ health care), and the sharing economy.
 
 The KIDSS can grow.
 
-## Taken
+# Taken
 
-## together
+together
 
 they are the building blocks of a new economic model that
 
 drives a resilient well-being economy within planetary boundaries.
 
-## The three “R”s and the KIDSS
+The three “R”s and the KIDSS
 
 Here are the rules of the new “doughnut” economic playing field.
 
@@ -26360,25 +26360,25 @@ COVID-19 showed that an economy is nothing without people.
 
 The most essential workers during the crisis were often relatively
 
-## low-paid
+low-paid
 
-## caregivers
+caregivers
 
-## delivery drivers
+delivery drivers
 
-## cashiers
+cashiers
 
-## warehouse workers
+warehouse workers
 
-## paramedics
+paramedics
 
-## nurses
+nurses
 
-## teachers
+teachers
 
 and journalists.
 
-## The tens of millions
+# The tens of millions
 
 of people who lost their jobs face economic hardships that might
 
@@ -26392,33 +26392,33 @@ those who graduate in good times.
 
 We can expect more economic shocks in the coming decades
 
-## from infectious diseases
+from infectious diseases
 
-### automation (and eventually AI)
+automation (and eventually AI)
 
-## cyber
+cyber
 
-## attacks
+attacks
 
-## banking failures
+banking failures
 
-### climate change and other environmental
+climate change and other environmental
 
-## calamities
+calamities
 
 and, of course
 
 political failures.
 
-## These shocks will be
+# These shocks will be
 
-## characterized by speed
+characterized by speed
 
 scale, connectivity
 
 and surprise.
 
-## Can we
+# Can we
 
 even think about building economies resilient to these threats?
 
@@ -26428,15 +26428,15 @@ But this means protecting people.
 
 First, we need to protect people’s health by investing in effective
 
-## safety nets
+safety nets
 
 such as universal health care.
 
-## This is not some “nice to
+This is not some “nice to
 
-### have” if the economy can afford it
+have” if the economy can afford it
 
-### it is an essential public good for
+it is an essential public good for
 
 a resilient economy in the Anthropocene.
 
@@ -26444,37 +26444,37 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 189US_106-195_321647_BB_Chap9-16.
 
-## indd 189 16/02/2021 11
+indd 189 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
-## In times of transformation
+# In times of transformation
 
-### we also need to protect people’s job
+we also need to protect people’s job
 
 security.
 
-### Even without unexpected shocks
+# Even without unexpected shocks
 
-## economies must
+economies must
 
-## transform
+transform
 
 the fossil fuel industry must contract.
 
-## There will be
+# There will be
 
 turbulence.
 
-## Many jobs will be created
+# Many jobs will be created
 
 others will disappear.
 
-## With
+# With
 
-## the right support in place
+the right support in place
 
 this can be an opportunity for employees
 
@@ -26490,13 +26490,13 @@ basic income.
 
 This is an investment in resilience.
 
-## And cross-
+# And cross-
 
 pollinating industries with a steady stream of new people from other
 
 sectors is a surefire catalyst for innovation.
 
-## Finally
+# Finally
 
 protecting people means redistributing wealth fairly.
 
@@ -26508,7 +26508,7 @@ and drug use and also improves collective decision-
 
 making for the common good.
 
-### This is not an economic fantasy
+# This is not an economic fantasy
 
 world.
 
@@ -26518,15 +26518,15 @@ If it is not Denmark or Sweden, it
 
 is Norway or Finland that regularly tops international league tables
 
-## for health
+for health
 
-## economic equality
+economic equality
 
-## gender equality
+gender equality
 
-## well-being
+well-being
 
-## education
+education
 
 tolerance, democracy, and trust.
 
@@ -26540,7 +26540,7 @@ Regenerate natural resources.
 
 An economy within planetary boundaries stores carbon rather
 
-## than emits it
+than emits it
 
 enhances biodiversity rather than destroys it
 
@@ -26548,11 +26548,11 @@ protects soils and waters rather than pollutes them.
 
 The foundation of the new economy is regeneration.
 
-## Nature is
+# Nature is
 
 spectacularly good at living within its means
 
-## and there is much we
+and there is much we
 
 can learn from it.
 
@@ -26560,15 +26560,15 @@ Evolution ensures multiple organisms contribute
 
 to regeneration and recycling of all materials.
 
-## Rich ecological
+# Rich ecological
 
 diversity renews itself continually.
 
 From fishing grounds to farms,
 
-## from deforestation to mining
+from deforestation to mining
 
-### industries must be channeled to
+industries must be channeled to
 
 support biosphere stewardship and enhance the resilience of our
 
@@ -26576,13 +26576,13 @@ living systems.
 
 This regenerative economy is already taking off.
 
-## About 24 percent
+# About 24 percent
 
 of electricity currently comes from renewable sources and
 
-## as we discussed in Chapter 11
+as we discussed in Chapter 11
 
-## close to one-third of farms
+close to one-third of farms
 
 worldwide are now practicing some form of sustainable farming.
 
@@ -26592,13 +26592,13 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 190US_106-195_321647_BB_Chap9-16.
 
-## indd 190 16/02/2021 11
+indd 190 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 191 CHAPTER 16
+191 CHAPTER 16
 
-## Stewardship (SeaBOS)
+Stewardship (SeaBOS)
 
 we are seeing the world’s largest seafood
 
@@ -26610,7 +26610,7 @@ And recent research shows that if 90 percent of new buildings
 
 were built from wood over the next 30 years
 
-## this would lock
+this would lock
 
 22 billion tons (20 billion metric tons) of carbon out of the atmosphere.
 
@@ -26622,9 +26622,9 @@ Recirculate everything.
 
 If people are at the heart of the economy and a regenerated
 
-## biosphere is the foundation
+biosphere is the foundation
 
-### then the circular economy is the
+then the circular economy is the
 
 flywheel creating unstoppable momentum.
 
@@ -26634,9 +26634,9 @@ person on Earth consumes an average of 14 tons (13 metric tons)
 
 of “stuff” every year.
 
-## From minerals to fossil fuels
+# From minerals to fossil fuels
 
-## from crops to
+from crops to
 
 trees, the world eats through a staggering 110 billion tons (100
 
@@ -26646,23 +26646,23 @@ Of course, most of this consumption
 
 is happening in rich nations.
 
-### We use most of the material for
+# We use most of the material for
 
-## housing
+housing
 
-## factories
+factories
 
 roads, and other buildings.
 
 But transportation,
 
-## food waste
+food waste
 
-### and consumer goods are big ticket items
+and consumer goods are big ticket items
 
 too.
 
-## About
+# About
 
 one-third of all these materials are dumped.
 
@@ -26670,15 +26670,15 @@ Economically, this is
 
 a phenomenal waste of money.
 
-### The good news is that close to
+# The good news is that close to
 
-### 10 percent of the global economy is now circular.
+10 percent of the global economy is now circular.
 
-## The potential is
+# The potential is
 
 vast.
 
-## In Europe
+# In Europe
 
 a more circular economy could cut emissions
 
@@ -26688,7 +26688,7 @@ Some of the world’s most valuable companies have already
 
 committed to circular business models.
 
-## IKEA plans to be climate
+# IKEA plans to be climate
 
 neutral by 2030.
 
@@ -26696,13 +26696,13 @@ The company announced that all products will use
 
 only renewable and recyclable materials and will be developed to
 
-## be repurposed
+be repurposed
 
-## repaired
+repaired
 
-## reused
+reused
 
-## resold
+resold
 
 and recycled.
 
@@ -26716,23 +26716,23 @@ by 2040.
 
 These economic models are moving rapidly into the
 
-## mainstream
+mainstream
 
 as companies realize that many of the most used
 
-### materials are fully recyclable
+materials are fully recyclable
 
 steel, aluminum
 
-## plastic
+plastic
 
-## paper and
+paper and
 
 cardboard, glass, and food waste.
 
 Even concrete, a spectacularly
 
-### energy-intensive material to produce
+energy-intensive material to produce
 
 can be recycled endlessly.
 
@@ -26748,29 +26748,29 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 191US_106-195_321647_BB_Chap9-16.
 
-## indd 191 16/02/2021 11
+indd 191 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 Rule #4.
 
 Let the KIDSS grow.
 
-## The knowledge
+# The knowledge
 
-## information
+information
 
-## digital
+digital
 
-## service
+service
 
-## and sharing
+and sharing
 
 economies (KIDSS) are free to grow.
 
-## They are tightly interlinked
+# They are tightly interlinked
 
 and will be the source of innovation and creativity this century.
 
@@ -26784,7 +26784,7 @@ This is clearly happening already: many
 
 developed economies are now based on services
 
-## knowledge
+knowledge
 
 information rather than manufacturing.
 
@@ -26794,7 +26794,7 @@ Buildings, tools, and
 
 vehicles often sit idle for much of the time.
 
-## Digitalization can end
+# Digitalization can end
 
 the headache of connecting people who have cars
 
@@ -26802,15 +26802,15 @@ tools, or space
 
 with those who want to use them temporarily.
 
-## Shifting to a service-
+# Shifting to a service-
 
-## based business model
+based business model
 
 where resources are unlocked for others to
 
 use, can boost profits and reduce emissions simultaneously.
 
-## Novel
+# Novel
 
 business models are popping up in surprising places.
 
@@ -26820,11 +26820,11 @@ farmers have traditionally bought fertilizer and spread it on their
 
 crops.
 
-## But this can be wasteful
+# But this can be wasteful
 
-### a farmer may lack the information
+a farmer may lack the information
 
-### and knowledge about the best time
+and knowledge about the best time
 
 dose, and location for maximum
 
@@ -26832,33 +26832,33 @@ yield.
 
 Now, farmers can buy monthly fertilizer services
 
-## where
+where
 
-## companies assess land
+companies assess land
 
-## weather
+weather
 
-### and growing conditions to optimize
+and growing conditions to optimize
 
-## fertilizer application
+fertilizer application
 
 thus reducing waste and water pollution.
 
 Think of it as Netflix for farmers.
 
-## This model can apply to many
+# This model can apply to many
 
-## other aspects of farming and
+other aspects of farming and
 
-## indeed
+indeed
 
 to other industries.
 
 But the KIDSS economy risks transmuting into the surveillance
 
-### economy we introduced in Chapter 15
+economy we introduced in Chapter 15
 
-## characterized by data
+characterized by data
 
 extraction to exploit consumers.
 
@@ -26866,11 +26866,11 @@ Without good governance, this could
 
 accelerate unsustainable behavior and destabilize democracies.
 
-## Earthshot economics
+# Earthshot economics
 
 So, how do we turn all of this into an economic plan of action?
 
-## More specifically
+# More specifically
 
 a plan that reinforces social progress and nature-
 
@@ -26890,29 +26890,29 @@ Currently, few
 
 countries put a price on carbon (for example
 
-## a tax or other financial
+a tax or other financial
 
 US_106-195_321647_BB_Chap9-16.
 
 indd 192US_106-195_321647_BB_Chap9-16.
 
-## indd 192 23/02/2021 10
+indd 192 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## PATHWAYS TO STABILIZE EARTH
+# PATHWAYS TO STABILIZE EARTH
 
-## In 2015
+# In 2015
 
-### the United Nations member states
+the United Nations member states
 
-### agreed to 17 Sustainable Development
+agreed to 17 Sustainable Development
 
 Goals (top), ranging from ending poverty
 
 to improving human health.
 
-## But the world
+# But the world
 
 will only achieve long-term sustainability
 
@@ -26920,123 +26920,123 @@ if Earth’s natural systems are resilient and
 
 functioning eﬀ ectively.
 
-### The Earthshot mission is based around
+# The Earthshot mission is based around
 
-### six system transformations (bottom) to
+six system transformations (bottom) to
 
 stabilize our planet and meet the Sustainable
 
 Development Goals.
 
-## There is growing
+# There is growing
 
 scienti/f_i c consensus that if we get these
 
-## six transformations right
+six transformations right
 
-## 10 billion people
+10 billion people
 
 will be able to live prosperous, healthy
 
 lives on a stable planet.
 
-## SOCIETYECONOMY
+# SOCIETYECONOMY
 
-## SUSTAINABLE
+# SUSTAINABLE
 
-## CITIES AND
+# CITIES AND
 
-## COMMUNITIES
+# COMMUNITIES
 
-## LIFE BELOW
+# LIFE BELOW
 
-## WATERDECENT
+# WATERDECENT
 
-## WORK AND
+# WORK AND
 
-## ECONOMIC
+# ECONOMIC
 
-## GROWTHPARTNERSHIPS
+# GROWTHPARTNERSHIPS
 
-## FOR THE
+# FOR THE
 
-## GOALS
+# GOALS
 
-## AFFORDABLE
+# AFFORDABLE
 
-## AND CLEAN
+# AND CLEAN
 
-## ENERGY
+# ENERGY
 
-## 6CLEAN WATER
+6CLEAN WATER
 
-## AND
+# AND
 
-## SANITATIONNO
+# SANITATIONNO
 
-## POVERTY
+# POVERTY
 
 19INDUSTRY ,
 
 INNOVATION,
 
-## AND
+# AND
 
-## INFRASTRUCTURE
+# INFRASTRUCTURE
 
-## PEACE AND
+# PEACE AND
 
-## JUSTICE
+# JUSTICE
 
-## STRONG
+# STRONG
 
-## INSTITUTIONS
+# INSTITUTIONS
 
-## 16GENDER
+16GENDER
 
-## EQUALITY
+# EQUALITY
 
-## 15LIFE
+15LIFE
 
-## ON LANDGOOD
+# ON LANDGOOD
 
-## HEALTH AND
+# HEALTH AND
 
-## WELL-BEING
+# WELL-BEING
 
-## CLIMATE
+# CLIMATE
 
-## ACTIONREDUCED
+# ACTIONREDUCED
 
-## INEQUALITIES
+# INEQUALITIES
 
-## ZERO
+# ZERO
 
-## HUNGER
+# HUNGER
 
-## 2QUALITY
+2QUALITY
 
-## EDUCATION
+# EDUCATION
 
-## 412RESPONSIBLE
+412RESPONSIBLE
 
-## CONSUMPTION
+# CONSUMPTION
 
-## AND
+# AND
 
-## PRODUCTION
+# PRODUCTION
 
-### BIOSPHERECITIESTECHNOLOGY INEQUALITY
+# BIOSPHERECITIESTECHNOLOGY INEQUALITY
 
-## &
+&
 
-## HEALTHPO
+# HEALTHPO
 
-## PULATION
+# PULATION
 
-## FOODENERGY
+# FOODENERGY
 
-## D1
+D1
 
 US_001-004_Plate_D.
 
@@ -27044,29 +27044,29 @@ indd 1US_001-004_Plate_D.
 
 indd 1 23/02/2021 11:3523/02/2021 11:35
 
-## LOOK BACK AT WHAT WE
+# LOOK BACK AT WHAT WE
 
-## HAVE ACHIEVED
+# HAVE ACHIEVED
 
-## Through science
+# Through science
 
-## democracy
+democracy
 
-## and cooperation
+and cooperation
 
 humanity has achieved the impossible in the past
 
-## 50 years.
+50 years.
 
 Universal literacy is within striking distance.
 
 Our knowledge of the planet is accelerating.
 
-## We are
+# We are
 
 protecting more land and ocean.
 
-## The majority of
+# The majority of
 
 people on Earth have access to the Internet or
 
@@ -27074,49 +27074,49 @@ mobile phones.
 
 In addition, the end of extreme
 
-## poverty is within sight
+poverty is within sight
 
-## and global life expectancy
+and global life expectancy
 
 at birth is now 72 years.
 
-## Literacy
+# Literacy
 
-## People not in extreme poverty
+# People not in extreme poverty
 
-## Life expectancy
+# Life expectancy
 
-## Scienti/f_i c articles
+Scienti/f_i c articles
 
-## Democracies
+# Democracies
 
-## Women’s vote
+Women’s vote
 
-## Protected areas
+# Protected areas
 
-## Harvest
+# Harvest
 
-## Monitored species
+# Monitored species
 
-## Girls in school
+# Girls in school
 
-## Child cancer survival
+# Child cancer survival
 
-## Access to water
+# Access to water
 
-## Immunization
+# Immunization
 
-## Mobile phones
+# Mobile phones
 
-## Access to Internet
+# Access to Internet
 
-## Electricity coverageTime
+# Electricity coverageTime
 
-## Normalized trends
+# Normalized trends
 
 2010 2000 1990 1980 1970 1960 1950 1940 1930 1920 1910 19001.
 
-## D2
+D2
 
 US_001-004_Plate_D.
 
@@ -27124,9 +27124,9 @@ indd 2US_001-004_Plate_D.
 
 indd 2 26/01/2021 09:3126/01/2021 09:31
 
-## THE GLOBAL
+# THE GLOBAL
 
-## SAFETY NET
+# SAFETY NET
 
 In 2020, for the first time, scientists
 
@@ -27134,7 +27134,7 @@ calculated and visualized what it will take to
 
 protect half of the land on Earth.
 
-## The Global
+# The Global
 
 Safety Net maps show how expanding nature
 
@@ -27142,33 +27142,33 @@ conservation addresses both climate change
 
 and biodiversity loss.
 
-## The research identifies
+# The research identifies
 
-### 50 percent of the terrestrial realm that, if
+50 percent of the terrestrial realm that, if
 
-## conserved
+conserved
 
-### would reverse further biodiversity
+would reverse further biodiversity
 
 loss, prevent carbon dioxide emissions from
 
-## land conversion
+land conversion
 
-## and enhance natural carbon
+and enhance natural carbon
 
 removal.
 
-## This framework shows that
+# This framework shows that
 
 beyond the 15.
 
-## 1 percent land area
+1 percent land area
 
 currently protected, 35.
 
-## 3 percent
+3 percent
 
-### of land area is needed to conserve
+of land area is needed to conserve
 
 additional sites of particular importance
 
@@ -27178,89 +27178,89 @@ Indigenous lands overlap extensively with
 
 the Global Safety Net.
 
-## Conserving these
+# Conserving these
 
 sensitive areas could support public health
 
-### by reducing the potential for zoonotic
+by reducing the potential for zoonotic
 
-### diseases such as COVID-19 to emerge
+diseases such as COVID-19 to emerge
 
 in the future.
 
-## Current global protected
+# Current global protected
 
-## areas (15%)*
+areas (15%)*
 
-## Additional unprotected areas
+# Additional unprotected areas
 
-## needed to conserve sites of
+needed to conserve sites of
 
 Species rarity (2.
 
-## Additional unprotected areas
+# Additional unprotected areas
 
-## needed to conserve sites of
+needed to conserve sites of
 
-### Distinct species assemblages (6%)
+Distinct species assemblages (6%)
 
-## Additional unprotected areas
+# Additional unprotected areas
 
-## needed to conserve sites of
+needed to conserve sites of
 
 Rare phenomena (6.
 
-## Additional unprotected areas
+# Additional unprotected areas
 
-## needed to conserve sites of
+needed to conserve sites of
 
-## Intactness (16%)
+Intactness (16%)
 
-### Additional Climate stabilization
+# Additional Climate stabilization
 
 areas (4.
 
-### Wildlife and climate corridors
+# Wildlife and climate corridors
 
-### (to connect intact habitats)Literacy
+(to connect intact habitats)Literacy
 
-## People not in extreme poverty
+# People not in extreme poverty
 
-## Life expectancy
+# Life expectancy
 
-## Scientific articles
+# Scientific articles
 
-## Democracies
+# Democracies
 
-## Women’s vote
+Women’s vote
 
-## Protected areas
+# Protected areas
 
-## Harvest
+# Harvest
 
-## Monitored species
+# Monitored species
 
-## Girls in school
+# Girls in school
 
-## Child cancer survival
+# Child cancer survival
 
-## Access to water
+# Access to water
 
-## Immunization
+# Immunization
 
-## Mobile phones
+# Mobile phones
 
-## Access to Internet
+# Access to Internet
 
 Electricity coverage*Including polygons selected for Species rarity
 
-## Distinctness
+# Distinctness
 
-## Rare phenomena
+# Rare phenomena
 
-## and Intactness
+and Intactness
 
-## D3
+D3
 
 US_001-004_Plate_D.
 
@@ -27270,13 +27270,13 @@ indd 3 26/01/2021 09:3126/01/2021 09:31
 
 THE RISE IN COMPLEXITY:
 
-## MAJOR RUPTURES IN THE
+# MAJOR RUPTURES IN THE
 
-## EVOLUTION OF EARTH
+# EVOLUTION OF EARTH
 
 Earth’s history is punctuated by three evolutionary events that
 
-### changed the course of the planet
+changed the course of the planet
 
 the emergence of life (Earth 2.
 
@@ -27292,9 +27292,9 @@ ability to process information about the immediate environment.
 
 Processing information is a life or death matter for living organisms.
 
-### With the arrival of Homo sapiens
+# With the arrival of Homo sapiens
 
-### this level of complexity has jumped
+this level of complexity has jumped
 
 again.
 
@@ -27316,11 +27316,11 @@ billion years ago3.
 
 billion years ago2.
 
-## 4 billion–600
+4 billion–600
 
-## million years ago600–0
+million years ago600–0
 
-### million years agoFutureWe are here
+million years agoFutureWe are here
 
 Earth 1.
 
@@ -27332,9 +27332,9 @@ SOLAREarth 4.
 
 COMPLEXEarth 5.
 
-## WISE
+# WISE
 
-## D4
+D4
 
 US_001-004_Plate_D.
 
@@ -27342,13 +27342,13 @@ indd 4US_001-004_Plate_D.
 
 indd 4 26/01/2021 09:3126/01/2021 09:31
 
-## 193 CHAPTER 16
+193 CHAPTER 16
 
-## instrument)
+instrument)
 
-### but everywhere has a tax on labor
+but everywhere has a tax on labor
 
-## which contributes
+which contributes
 
 to driving rapid automation.
 
@@ -27358,7 +27358,7 @@ want to tax things we don’t want—pollution—and lower taxes on
 
 things we want more of—quality employment.
 
-## Redressing the
+# Redressing the
 
 balance so that taxes rise on carbon and fall on labor can encourage
 
@@ -27366,7 +27366,7 @@ changes in the behavior of both consumers and producers toward
 
 lower emissions and greater employment.
 
-## Second
+# Second
 
 long-term planning or cathedral thinking.
 
@@ -27376,9 +27376,9 @@ long-term planning meant having lots of children in the hope that
 
 some would survive to look after us in our old age.
 
-## But some societies
+# But some societies
 
-## had a bigger vision
+had a bigger vision
 
 and the deep pockets to match.
 
@@ -27388,57 +27388,57 @@ Maya, and medieval religious leaders who built pyramids and
 
 grand cathedrals set foundations in place
 
-## knowing that neither
+knowing that neither
 
 they nor their children would see the final marvel.
 
-## They had a
+# They had a
 
 higher goal.
 
-### We need more of this cathedral thinking
+# We need more of this cathedral thinking
 
-## and the main
+and the main
 
 institutions that can deliver on this are governments.
 
-### To operate within planetary boundaries
+# To operate within planetary boundaries
 
-## the world needs more
+the world needs more
 
 than just renewable energy.
 
-### We need to redesign electricity grids
+# We need to redesign electricity grids
 
-### and construct high-speed railroads
+and construct high-speed railroads
 
-## tunnels
+tunnels
 
-## bridges
+bridges
 
-## and highways
+and highways
 
 fully connected to the new grid.
 
-### We must build more electricity
+# We must build more electricity
 
-## storage
+storage
 
-### retrofit buildings on a grand scale
+retrofit buildings on a grand scale
 
-## and convert the global
+and convert the global
 
 shipping fleet to zero emissions in a generation.
 
-## But we need to
+# But we need to
 
-## think transformatively
+think transformatively
 
-### we are not talking about adding
+we are not talking about adding
 
 3 feet (1 meter) to a levee to protect from flooding
 
-## a minor
+a minor
 
 engineering feat.
 
@@ -27446,9 +27446,9 @@ We are talking about building sponge cities
 
 designed to absorb water (and other shocks).
 
-## This investment is not
+# This investment is not
 
-### only critical to save the planet
+only critical to save the planet
 
 it is the basis of a new social contract
 
@@ -27462,29 +27462,29 @@ optimism that our future will be better than our past.
 
 Before we finish with the global economy
 
-## let’s take a glimpse at
+let’s take a glimpse at
 
 the dark side.
 
 What is the worst that could happen?
 
-### Imagine that governments do nothing
+# Imagine that governments do nothing
 
-## or very little
+or very little
 
-## to reshape
+to reshape
 
 markets.
 
 Imagine the finance sector carries on regardless.
 
-## Imagine
+# Imagine
 
-### the extremes—strong hurricanes
+the extremes—strong hurricanes
 
-## intense heat
+intense heat
 
-## megafires
+megafires
 
 floods—become more extreme.
 
@@ -27492,15 +27492,15 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 193US_106-195_321647_BB_Chap9-16.
 
-## indd 193 16/02/2021 11
+indd 193 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 “Will cities be able to afford their infrastructure needs?
 
-## What will
+# What will
 
 happen to the 30-year mortgage—a key building block of finance—if
 
@@ -27512,9 +27512,9 @@ What if there is no viable market for flood or fire insurance
 
 in impacted areas?
 
-## What happens to inflation
+# What happens to inflation
 
-## and in turn interest
+and in turn interest
 
 rates, if the cost of food climbs due to drought and flooding?
 
@@ -27526,57 +27526,57 @@ impacts?
 
 ” This is not scaremongering from environmental groups.
 
-## The speaker is Larry Fink
+# The speaker is Larry Fink
 
-### the CEO and chairman of the world’s
+the CEO and chairman of the world’s
 
-### largest asset management company
+largest asset management company
 
 BlackRock.
 
-## He is directly
+# He is directly
 
 addressing the CEOs of the companies that BlackRock backs.
 
-## Without deep transformation
+# Without deep transformation
 
-### the finance sector is crowdsourcing
+the finance sector is crowdsourcing
 
 catastrophe.
 
 There are three probable scenarios for how market
 
-### confidence might evolve in the 2020s
+confidence might evolve in the 2020s
 
-## Carbon shock
+# Carbon shock
 
-## Carbon shock
+# Carbon shock
 
 plus, and Stable transformation.
 
-## Carbon shock
+# Carbon shock
 
-## In the first scenario
+# In the first scenario
 
 the markets sense politicians are weak and do
 
 not have the appetite for strong climate policies.
 
-## Demand for fossil
+# Demand for fossil
 
-### fuels continues to rise steadily
+fuels continues to rise steadily
 
 and prices remain relatively stable.
 
-### But regardless of political will
+# But regardless of political will
 
-## or lack of it
+or lack of it
 
-## the global economy
+the global economy
 
 has already reached a point of no return.
 
-## The clean technological
+# The clean technological
 
 revolution is an unstoppable juggernaut.
 
@@ -27584,23 +27584,23 @@ The fossil fuel era is over.
 
 Demand for fossil fuels slumps in the late 2020s
 
-## and the carbon
+and the carbon
 
-## bubble bursts
+bubble bursts
 
 leaving $1 trillion in stranded assets as investors are
 
 left with a pile of worthless pipelines and refineries.
 
-## Carbon shock plus
+# Carbon shock plus
 
 The second scenario begins similarly to Carbon shock.
 
-## Politicians
+# Politicians
 
 fail to translate their rhetoric on the threat posed by climate change
 
-## into adequate action
+into adequate action
 
 sending a signal to markets to continue as
 
@@ -27612,9 +27612,9 @@ they have a change of heart.
 
 Perhaps public pressure becomes so unbearable that inaction
 
-## becomes untenable
+becomes untenable
 
-### or maybe improvements in climate models
+or maybe improvements in climate models
 
 show that Earth is destined to warm even faster.
 
@@ -27622,7 +27622,7 @@ With that, our
 
 remaining carbon budget would disappear.
 
-## Another possibility
+# Another possibility
 
 would be a major environmental catastrophe in the 2020s.
 
@@ -27630,11 +27630,11 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 194US_106-195_321647_BB_Chap9-16.
 
-## indd 194 16/02/2021 11
+indd 194 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## 195 CHAPTER 16
+195 CHAPTER 16
 
 Maybe the jetstream stalls over the world’s breadbaskets (regions
 
@@ -27642,19 +27642,19 @@ that are particularly suitable for growing wheat and corn)
 
 bringing global drought and severe food shortages.
 
-## Or a dramatic
+# Or a dramatic
 
 escalation of fire spreads around the world
 
-## as forests and peatland
+as forests and peatland
 
 dry out and become more prone to combustion.
 
-## Or parts of the
+# Or parts of the
 
 Antarctic ice sheet crack and disintegrate
 
-## setting off alarm bells
+setting off alarm bells
 
 across the planet.
 
@@ -27664,45 +27664,45 @@ action.
 
 This is likely to shift market sentiment forcibly away from
 
-## fossil fuels
+fossil fuels
 
 thus setting off a chaotic destabilizing stampede.
 
-## By one
+# By one
 
-## estimate
+estimate
 
 this could lead to a carbon bubble closer to $4 trillion.
 
-## Inevitably
+# Inevitably
 
 there would be winners and losers.
 
-## The losers would be
+# The losers would be
 
 countries who clung to fossil fuels for too long
 
-## such as the United
+such as the United
 
 States, Canada, and the Middle East.
 
-## The winners would be China
+# The winners would be China
 
-## and Europe
+and Europe
 
 who may have a relatively limited financial exposure
 
 to fossil fuels and will benefit from energy independence.
 
-## Stable transformation
+# Stable transformation
 
-## In this scenario
+# In this scenario
 
-## politicians send strong
+politicians send strong
 
-## immediate
+immediate
 
-## unequivocal
+unequivocal
 
 signals that they will redirect the markets toward Earth system
 
@@ -27712,17 +27712,17 @@ They announce ambitious phaseouts of internal
 
 combustion engines and set targets to reach zero emissions
 
-## zero
+zero
 
-## deforestation
+deforestation
 
 and zero biodiversity loss.
 
-## And they put the policies
+# And they put the policies
 
 in place (see Chapter 17) to drive this.
 
-## The markets respond
+# The markets respond
 
 by reallocating investments toward these long-term goals and away
 
@@ -27740,27 +27740,27 @@ The three probable scenarios highlight the difference between an
 
 ordered exit from fossil fuels and an economic calamity
 
-## like
+like
 
 COVID-19 and the 2008 financial crisis.
 
-## We would prefer the
+# We would prefer the
 
 ordered exit.
 
 As former United Nations climate chief Christiana
 
-## Figueres said so eloquently
+# Figueres said so eloquently
 
-### “We will move to a low-carbon world
+“We will move to a low-carbon world
 
-## because nature will force us
+because nature will force us
 
 or because policy will guide us.
 
-## If we
+# If we
 
-## wait until nature forces us
+wait until nature forces us
 
 the cost will be astronomical.
 
@@ -27768,35 +27768,35 @@ US_106-195_321647_BB_Chap9-16.
 
 indd 195US_106-195_321647_BB_Chap9-16.
 
-## indd 195 16/02/2021 11
+indd 195 16/02/2021 11
 
-## 2916/02/2021 11
+2916/02/2021 11
 
-## ACT III
+# ACT III
 
 The COVID-19 pandemic changed everything.
 
-## It exposed not
+# It exposed not
 
 only a deep fragility in our systems for governing
 
-## but also a
+but also a
 
 profound solidarity and common humanity.
 
-## The crisis allowed us
+# The crisis allowed us
 
 to think the unthinkable.
 
-### Governments put human lives before
+# Governments put human lives before
 
-## the economy
+the economy
 
 and trillions of dollars were found in back pockets to
 
 shore up economies.
 
-## Undoubtedly
+# Undoubtedly
 
 COVID-19 was the biggest global shock since
 
@@ -27810,7 +27810,7 @@ cooperation internationally.
 
 This ushered in decades of peace,
 
-## prosperity
+prosperity
 
 and progress based on an efficient global economy.
 
@@ -27824,7 +27824,7 @@ It simply must.
 
 Governments have found themselves in an unexpectedly
 
-## powerful position
+powerful position
 
 they might reasonably place some conditions on
 
@@ -27838,11 +27838,11 @@ And who are these taxpayers?
 
 Well, our children, the young
 
-## generation who
+generation who
 
-## even before the pandemic
+even before the pandemic
 
-## made it quite
+made it quite
 
 clear that the climate crisis is pulling the rug out from under their
 
@@ -27852,19 +27852,19 @@ Now, those in power today are asking future generations to pay
 
 invoices for climate extremes and COVID-19 debts.
 
-### One can easily EARTHSHOT POLITICS
+# One can easily EARTHSHOT POLITICS
 
-## AND POLICIES
+# AND POLICIES
 
 Fixing markets isn’t enough.
 
-## We have to actively
+# We have to actively
 
 shape and create them and tilt the playing field
 
 in the direction of the growth we want.
 
-## MARIANA MAZZUCATO
+# MARIANA MAZZUCATO
 
 ECONOMIST, 2016
 
@@ -27872,15 +27872,15 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 196US_196-227_321647_BB_Chap17-19.
 
-## indd 196 23/02/2021 10
+indd 196 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## CHAPTER 17
+# CHAPTER 17
 
 see that this is the script for deep indignation.
 
-## Political failure at
+# Political failure at
 
 this moment is unforgivable.
 
@@ -27888,7 +27888,7 @@ We have reached the end of the line.
 
 The moonshot of the 1960s was testament to the power of a
 
-## political vision
+political vision
 
 bringing a nation together around a singular
 
@@ -27896,13 +27896,13 @@ mission.
 
 It was a uniquely coordinated effort among government
 
-## research
+research
 
-## and industry
+and industry
 
 and it cost the United States 2.
 
-## 5 percent of
+5 percent of
 
 its GDP.
 
@@ -27910,11 +27910,11 @@ The sheer scale of the vision truly inspired the world
 
 which is precisely why we need an Earthshot right now.
 
-## Imagine if
+# Imagine if
 
 5 percent of global GDP were invested in stabilizing the planet.
 
-## Globally
+# Globally
 
 this would mean devoting almost $2 trillion per year to
 
@@ -27926,41 +27926,41 @@ The moonshot was not the first time industrial nations channeled
 
 the power of their economies toward a mission-driven challenge.
 
-## Two decades earlier
+# Two decades earlier
 
 World War II forced engineers and scientists to
 
 focus on a new task—supporting the war effort—and factories shifted
 
-## to the production of aircraft
+to the production of aircraft
 
 tanks, and guns.
 
 In the same way,
 
-## during the 2020 pandemic
+during the 2020 pandemic
 
-## universities
+universities
 
-## companies
+companies
 
-## and industries
+and industries
 
 dropped what they were doing to unravel the genetic codes of the
 
 virus, develop and scale testing systems
 
-## and invent vaccines to
+and invent vaccines to
 
 protect the global population for the common good.
 
-## Crucially
+# Crucially
 
 a mission-driven vision to save our planet is drawing
 
 attention.
 
-## In 2018
+# In 2018
 
 Italian-American economist Mariana Mazzucato
 
@@ -27968,25 +27968,25 @@ published a report defining what type of projects are needed to fuel
 
 innovation.
 
-## Like the moon landings
+# Like the moon landings
 
-## they must be bold and must
+they must be bold and must
 
 inspire citizens to get behind them.
 
-### The projects need a clear target
+# The projects need a clear target
 
-## and deadline
+and deadline
 
 and must allow experimentation for ideas to bubble
 
-## Finally
+# Finally
 
 they must pull in diverse groups of researchers.
 
 Green Deals that are popping up around the globe (see Chapter 12)
 
-## are certainly in this vein
+are certainly in this vein
 
 at least in part.
 
@@ -27994,7 +27994,7 @@ The Earthshot mission to stabilize Earth will succeed if we make
 
 the case for it as simple and as attractive as possible.
 
-## A big part
+# A big part
 
 of the latter is to make it profitable.
 
@@ -28004,7 +28004,7 @@ beyond a singular focus on energy and emissions to embrace an
 
 agricultural revolution and enhance the resilience of all the
 
-## remaining natural ecosystems
+remaining natural ecosystems
 
 from rain forests to peatlands.
 
@@ -28012,17 +28012,17 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 197US_196-227_321647_BB_Chap17-19.
 
-## indd 197 23/02/2021 10
+indd 197 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
 Yes, planting a trillion trees is a good target that rallies people
 
 but this must be accompanied by a far deeper understanding of
 
-## ecological resilience
+ecological resilience
 
 as our goal is to preserve and nurture thriving
 
@@ -28030,11 +28030,11 @@ natural ecosystems.
 
 The long-term target needs to be crystal clear
 
-### cut greenhouse gas emissions by half
+cut greenhouse gas emissions by half
 
-## zero loss of species
+zero loss of species
 
-## and zero
+and zero
 
 depletion of natural ecosystems by 2030 at the latest (against a
 
@@ -28042,25 +28042,25 @@ baseline of 2020).
 
 We require ambitious projects that build clean
 
-## green railroads
+green railroads
 
 roads, cities
 
-### and power while redistributing
+and power while redistributing
 
 wealth.
 
-## The European Union
+# The European Union
 
-## New Zealand
+# New Zealand
 
-## Costa Rica
+# Costa Rica
 
-## and the
+and the
 
 United Kingdom are moving in this direction
 
-## showing the world
+showing the world
 
 that it is possible.
 
@@ -28068,19 +28068,19 @@ This action will require novel ways to fund long-
 
 term infrastructure projects.
 
-## Governments should create new
+# Governments should create new
 
 partnerships with private investors to build the future.
 
-## There is no
+# There is no
 
-### shortage of cash in the markets
+shortage of cash in the markets
 
-### only a lack of visionary projects to
+only a lack of visionary projects to
 
 invest in.
 
-## Policies for a stable planet
+# Policies for a stable planet
 
 There are four political levers to pull to reshape the markets
 
@@ -28098,35 +28098,35 @@ emissions by 2050 at the latest and net positive nature by 2030.
 
 Two countries have already achieved one of these goals and become
 
-### carbon neutral (Suriname and Bhutan)
+carbon neutral (Suriname and Bhutan)
 
-## five countries have it in law
+five countries have it in law
 
-## (Denmark
+(Denmark
 
-## France
+# France
 
-## New Zealand
+# New Zealand
 
-## the United Kingdom
+the United Kingdom
 
-## Sweden)
+Sweden)
 
 and dozens of countries are discussing it.
 
-## At the center of
+# At the center of
 
 the European Union’s Green Deal is a target of net zero carbon
 
 emissions by 2050.
 
-### But the richest nations have a historic
+# But the richest nations have a historic
 
 responsibility to reach net zero earlier
 
-## for example
+for example
 
-## by setting a
+by setting a
 
 hard target of net zero by 2040.
 
@@ -28134,7 +28134,7 @@ For nature—biodiversity and critical global commons such as
 
 forests and wetlands—governments must urgently end all loss.
 
-## By 2030
+# By 2030
 
 the process of recovery and building resilience must
 
@@ -28152,21 +28152,21 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 198US_196-227_321647_BB_Chap17-19.
 
-## indd 198 16/02/2021 11
+indd 198 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## CHAPTER 17
+# CHAPTER 17
 
-### 2. End all investments in new fossil fuels.
+# 2. End all investments in new fossil fuels.
 
-## This means pipelines
+# This means pipelines
 
-## refineries
+refineries
 
-## coal mines
+coal mines
 
-## and coal-fired power
+and coal-fired power
 
 plants—everything.
 
@@ -28174,13 +28174,13 @@ This is the beginning of the end of the fossil
 
 fuel era.
 
-## Right now
+# Right now
 
 in the midst of this planetary emergency
 
-### countries around the world are building
+countries around the world are building
 
-## or have plans to build
+or have plans to build
 
 another 1,200 coal plants.
 
@@ -28200,45 +28200,45 @@ chance of holding temperature increases to 2.
 
 In short,
 
-## coal plants
+coal plants
 
-### if allowed to expand as planned
+if allowed to expand as planned
 
-## will on their own
+will on their own
 
 gobble up the remaining global carbon budget.
 
-## Proposed power
+# Proposed power
 
 plants would eat another 210 billion tons (190 billion metric tons).
 
-## Further expansion is crazy
+# Further expansion is crazy
 
 but we also need to be pragmatic.
 
-## Inevitably
+# Inevitably
 
-### some polluting plants will be built
+some polluting plants will be built
 
-## and their emissions
+and their emissions
 
 will push the world past its allocated budget.
 
 This is why,
 
-## like it or not
+like it or not
 
 major investment in carbon capture and storage—
 
-### burying carbon dioxide deep underground
+burying carbon dioxide deep underground
 
-## for example—will
+for example—will
 
 be necessary.
 
 Withdraw all subsidies that promote fossil fuel use
 
-## biodiversity
+biodiversity
 
 loss, and deforestation.
 
@@ -28248,71 +28248,71 @@ billion a year in direct subsidies to the fossil fuel industry
 
 10 times this amount when you include the harm to health
 
-## environment
+environment
 
 and economies from fossil fuels.
 
-## The world’s largest
+The world’s largest
 
 economies have said they will phase out these subsidies
 
 nothing is happening.
 
-### Subsidies for farmers also often work
+# Subsidies for farmers also often work
 
 against efforts to protect biodiversity and carbon sinks.
 
-## We need
+# We need
 
 to change agricultural subsidies so that they support efforts to
 
-## build carbon sinks
+build carbon sinks
 
-## restore wildlife
+restore wildlife
 
-## and end farm expansion into
+and end farm expansion into
 
 virgin lands.
 
-## 4. Put a price on carbon.
+# 4. Put a price on carbon.
 
 About 80 percent of the world’s emissions of carbon dioxide are
 
 emitted entirely free of charge.
 
-## Even the most liberal market
+# Even the most liberal market
 
 economists agree that it is a serious malfunction of markets to
 
 have unpriced harmful so-called “externalities.
 
-## ” Destroying air
+” Destroying air
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 199US_196-227_321647_BB_Chap17-19.
 
-## indd 199 16/02/2021 11
+indd 199 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 quality and climate stability for free is the world’s most serious
 
 market failure, and everyone knows it.
 
-## The problem is that it has
+# The problem is that it has
 
-## served many economies (read
+served many economies (read
 
-### rich economies) very well over the
+rich economies) very well over the
 
 past 100 years.
 
-## But the atmosphere is global
+# But the atmosphere is global
 
-## a shared resource we
+a shared resource we
 
 all depend upon.
 
@@ -28320,7 +28320,7 @@ We will fail to stabilize the planet if a carbon
 
 price is not applied across all sectors.
 
-## This means a global price on
+# This means a global price on
 
 carbon has to be adopted by all nations.
 
@@ -28330,7 +28330,7 @@ analyzing climate policies that countries need to set a price of at
 
 least 50 per metric ton) of carbon dioxide applied to
 
-## all sectors
+all sectors
 
 from food and transportation to heating.
 
@@ -28340,15 +28340,15 @@ Sweden now has a price on carbon that is equivalent to about $130
 
 per ton ($120 per metric ton).
 
-### Canada has implemented a carbon
+# Canada has implemented a carbon
 
 tax, in which all the money raised is paid back to taxpayers to make
 
-## it fairer
+it fairer
 
-### if you live a low-carbon lifestyle
+if you live a low-carbon lifestyle
 
-## you are rewarded
+you are rewarded
 
 accordingly.
 
@@ -28356,25 +28356,25 @@ The price on carbon does not have to be imposed top-
 
 down and be designed universally.
 
-### It can emerge in various shapes
+# It can emerge in various shapes
 
 and forms across different economic regions.
 
-## When the network of nations
+# When the network of nations
 
-## companies
+companies
 
-## and cities that apply a
+and cities that apply a
 
-### price on carbon becomes large enough
+price on carbon becomes large enough
 
-## and connected enough
+and connected enough
 
-## this
+this
 
 will eventually tip over the global system
 
-## thereby mainstreaming a
+thereby mainstreaming a
 
 price on carbon throughout the entire world.
 
@@ -28382,13 +28382,13 @@ This, in turn, will be
 
 the true kiss of death for the fossil fuel-driven world economy.
 
-## Some
+# Some
 
 of the revenues from a price on carbon should be funneled into an
 
 international fund to invest in carbon capture.
 
-## Governments will
+# Governments will
 
 receive large inputs to their state coffers from a price on carbon.
 
@@ -28396,11 +28396,11 @@ Much of this can and should be returned as social dividends to
 
 compensate low-income households.
 
-## Politics for a stable planet
+# Politics for a stable planet
 
 If the policies we need to stabilize the planet have so many benefits
 
-## for societies
+for societies
 
 why is there such resistance to change?
 
@@ -28412,7 +28412,7 @@ the economy: energy.
 
 This cannot be taken lightly.
 
-## The fossil fuel
+# The fossil fuel
 
 companies have become the world’s most powerful industry
 
@@ -28422,7 +28422,7 @@ On top of that, it is future
 
 generations that will have to deal with the greatest impacts
 
-## today’s politicians
+today’s politicians
 
 so it is easier to kick the can down the road.
 
@@ -28430,11 +28430,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 200US_196-227_321647_BB_Chap17-19.
 
-## indd 200 16/02/2021 11
+indd 200 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## CHAPTER 17
+# CHAPTER 17
 
 The good news is that an energy revolution is coming anyway.
 
@@ -28444,39 +28444,39 @@ The four policies outlined earlier will lock it in
 
 and accelerate it.
 
-### As with all previous energy revolutions
+# As with all previous energy revolutions
 
-## the new
+the new
 
-## one will create more jobs
+one will create more jobs
 
 as many as 40 million.
 
-## All major economies
+# All major economies
 
 are built on renewal and rebirth.
 
 This is nothing new.
 
-## The history
+# The history
 
 of capitalism is littered with companies and industries that have
 
 collapsed and died as innovation made them obsolete.
 
-## This time we
+# This time we
 
 need a just transition.
 
-### We must protect workers through major
+# We must protect workers through major
 
 investment in retraining and education.
 
-## In the past three decades
+# In the past three decades
 
-## globalization
+globalization
 
-## digitalization
+digitalization
 
 automation have destroyed traditional manufacturing jobs and
 
@@ -28498,17 +28498,17 @@ economic safety nets for people.
 
 This is the right approach.
 
-## Spain is
+# Spain is
 
 providing $250 million to support the closure of its coal mines
 
-## with
+with
 
 investment in the workforce and new industries.
 
-## Germany has
+# Germany has
 
-## followed suit
+followed suit
 
 $32 billion has been put on the table as part of the
 
@@ -28516,39 +28516,39 @@ climate package adopted at the end of 2019 to invest in the transition
 
 away from coal.
 
-## In the United States
+# In the United States
 
-## however
+however
 
-## workers are largely
+workers are largely
 
 abandoned when companies shutter.
 
-## When an industry closes in a
+# When an industry closes in a
 
-## US town
+# US town
 
 people are expected to pack up and move elsewhere to
 
 find similar work.
 
-## In reality
+# In reality
 
-### the inertia of family ties and the
+the inertia of family ties and the
 
 uncertainty of moving mean that this is unlikely to happen.
 
-### gales of creative destruction sweep in
+gales of creative destruction sweep in
 
-## bringing poverty
+bringing poverty
 
-## misery
+misery
 
 stigmatization.
 
 Some towns never recover.
 
-## This is a failure of
+# This is a failure of
 
 capitalism that can be avoided with long-term planning.
 
@@ -28558,7 +28558,7 @@ time: the current climate is an emotional roller-coaster of highs and
 
 lows in international politics.
 
-### There was genuine euphoria in 2015
+# There was genuine euphoria in 2015
 
 when the United Nations navigated all national leaders toward
 
@@ -28568,15 +28568,15 @@ common future—followed three months later by a global deal on
 
 climate.
 
-## In 2016
+# In 2016
 
-## however
+however
 
-### things began to unravel with the
+things began to unravel with the
 
 surprising results of the Brexit referendum and the US presidential
 
-## election
+election
 
 followed by the Brazilian election in 2018
 
@@ -28586,11 +28586,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 201US_196-227_321647_BB_Chap17-19.
 
-## indd 201 16/02/2021 11
+indd 201 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 202 ACT III
+202 ACT III
 
 The door opened to demagogues who have no interest in
 
@@ -28600,11 +28600,11 @@ halting migration—will solve everything.
 
 They won’t.
 
-## For planetary
+# For planetary
 
 stewardship and the Earthshot mission to succeed
 
-## we need to
+we need to
 
 rebuild trust in democratic institutions and global cooperation.
 
@@ -28612,9 +28612,9 @@ This is our priority.
 
 Mainstream political parties must extend the
 
-## olive branch
+olive branch
 
-## bury the hatchet
+bury the hatchet
 
 and find common ground.
 
@@ -28632,11 +28632,11 @@ More efforts must go into reducing polarization.
 
 countries without proportional representation
 
-## this could involve
+this could involve
 
-## creating unity governments
+creating unity governments
 
-### in which the winning party in an
+in which the winning party in an
 
 election invites members of opposition parties to serve alongside
 
@@ -28644,31 +28644,31 @@ them in government.
 
 The most important mechanism for establishing trust
 
-## though
+though
 
 is reducing inequality.
 
 More equal countries tend to have greater
 
-## trust in governments
+trust in governments
 
-### which makes collective decision-making
+which makes collective decision-making
 
 for long-term goals easier.
 
 So, in addition to an international
 
-## price on carbon
+price on carbon
 
 a global wealth tax is a very good idea.
 
-## This is
+# This is
 
 because unrestrained growth in inequality will rip this planet
 
 in two.
 
-## Conversely
+# Conversely
 
 a fairer redistribution of wealth will rebuild trust and
 
@@ -28682,21 +28682,21 @@ good for more people for longer than all the philanthropy in the
 
 world today.
 
-## It needs to be global
+# It needs to be global
 
-## though
+though
 
-## because otherwise the
+because otherwise the
 
 rich will find ways to bury their treasure in some remote haven.
 
-## Many economists
+# Many economists
 
 including Thomas Piketty and Joseph Stiglitz
 
 advocate such a tax.
 
-## On top of a wealth tax
+# On top of a wealth tax
 
 we also suggest a global corporation tax.
 
@@ -28704,11 +28704,11 @@ Multibillion-dollar companies pay a pittance in tax as countries vie
 
 to offer them the lowest tax rates.
 
-### It is a race to the bottom in which
+# It is a race to the bottom in which
 
 everyone loses but the company.
 
-### We simply need to set a minimum
+# We simply need to set a minimum
 
 global corporation tax rate.
 
@@ -28716,7 +28716,7 @@ Everyone wins.
 
 Indeed, the conservative
 
-## 24 We wonder
+24 We wonder
 
 what is the tax status of the moon and Mars?
 
@@ -28724,35 +28724,35 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 202US_196-227_321647_BB_Chap17-19.
 
-## indd 202 23/02/2021 10
+indd 202 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 203 CHAPTER 17
+203 CHAPTER 17
 
 Organization for Economic Cooperation and Development
 
-## bastion of globalization
+bastion of globalization
 
 now endorses a global corporation tax.
 
-## Seventy-five years ago
+# Seventy-five years ago
 
-### the United Nations emerged from the
+the United Nations emerged from the
 
 rubble of war.
 
 This was a historic moment for international
 
-## politics
+politics
 
 which also saw the birth of the World Bank
 
-## the precursor
+the precursor
 
-### to the World Trade Organization
+to the World Trade Organization
 
-### and the International Monetary
+and the International Monetary
 
 Fund.
 
@@ -28760,7 +28760,7 @@ These global institutions were not designed to deal with the
 
 speed, scale
 
-### and surprise of the Anthropocene
+and surprise of the Anthropocene
 
 though.
 
@@ -28786,7 +28786,7 @@ It is a moment for new ideas and new thinking to emerge.
 
 Trust: share of people agreeing with the
 
-### statement “Most people can be trusted”
+statement “Most people can be trusted”
 
 Income equality is an important factor in
 
@@ -28800,7 +28800,7 @@ Percentage (2014 data unless otherwise stated)0 10 20 30 40 50 60 70 80Country
 
 ColombiaBrazilEgyptArgentinaPakistanItalyUnited KingdomIndiaJapanUnited StatesGermanyAustraliaNew ZealandFinlandChinaNorway
 
-## Sweden
+# Sweden
 
 5320.
 
@@ -28810,9 +28810,9 @@ ColombiaBrazilEgyptArgentinaPakistanItalyUnited KingdomIndiaJapanUnited StatesGe
 
 5528.
 
-## 25 (2009)29.
+25 (2009)29.
 
-## 96 (2009)32.
+96 (2009)32.
 
 9535.
 
@@ -28826,29 +28826,29 @@ ColombiaBrazilEgyptArgentinaPakistanItalyUnited KingdomIndiaJapanUnited StatesGe
 
 2357.
 
-## 99 (2009)62.
+99 (2009)62.
 
-## 4.1363.7673.73 (2009)
+# 4.1363.7673.73 (2009)
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 203US_196-227_321647_BB_Chap17-19.
 
-## indd 203 16/02/2021 11
+indd 203 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 204 ACT III
+204 ACT III
 
 THE ROARING 2020S:
 
-## FOUR TIPPING POINTS
+# FOUR TIPPING POINTS
 
-## ARE CONVERGING
+# ARE CONVERGING
 
 Look at the world around you.
 
-## It may seem like an immovable
+# It may seem like an immovable
 
 implacable place.
 
@@ -28858,21 +28858,21 @@ With the slightest push—in just the right
 
 place—it can be tipped.
 
-## MALCOLM GLADWELL
+# MALCOLM GLADWELL
 
 THE TIPPING POINT: HOW LITTLE THINGS CAN
 
 MAKE A BIG DIFFERENCE , 2000
 
-## As 2019 drew to a close
+# As 2019 drew to a close
 
 an unknown virus leapt from a wild animal
 
-## perhaps via a domestic animal
+perhaps via a domestic animal
 
 into its first human victim.
 
-## In one
+# In one
 
 way, this might be viewed as the famous “butterfly effect” in action
 
@@ -28880,7 +28880,7 @@ a seemingly insignificant event that can change the course of history.
 
 But it is also an example of exponential scaling.
 
-## We now know that
+# We now know that
 
 doubling again and again reaches a dizzying scale rather rapidly.
 
@@ -28900,7 +28900,7 @@ means to be human in a deeply connected and vulnerable world.
 
 We are cautiously optimistic about the future.
 
-## Our optimism is
+# Our optimism is
 
 based on the simple observation that four colossal forces are
 
@@ -28912,37 +28912,37 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 204US_196-227_321647_BB_Chap17-19.
 
-## indd 204 16/02/2021 11
+indd 204 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 205 CHAPTER 18
+205 CHAPTER 18
 
-### tipping points in four key areas
+tipping points in four key areas
 
-## social
+social
 
-## political
+political
 
-## economic
+economic
 
 technological.
 
 Each of these tipping points has been gaining
 
-## momentum year by year
+momentum year by year
 
 and sometimes even week by week.
 
-## This
+# This
 
 growth has been exponential.
 
-### The thing with exponential change
+# The thing with exponential change
 
 is that it is deceptively slow at the start
 
-## until you reach the knee of
+until you reach the knee of
 
 the curve, and then things take off.
 
@@ -28954,21 +28954,21 @@ The next decade is on course for the fastest
 
 economic and social transformation in history.
 
-## Welcome to the
+# Welcome to the
 
 roaring 2020s.
 
 Major leaps forward in society are driven by disruptions from
 
-## social movements
+social movements
 
-## government policies
+government policies
 
-## market confidence
+market confidence
 
-## technologies
+technologies
 
-## and science
+and science
 
 or some combination of these.
 
@@ -28976,47 +28976,47 @@ The end of apartheid and child labor or the arrival of women’s
 
 rights and civil rights followed a pattern of growing social
 
-## momentum
+momentum
 
 until a tipping point forced open the floodgates.
 
 take smoking in public places.
 
-### Once one government took a blind
+# Once one government took a blind
 
 leap into the unknown and banned the activity
 
-## this created a
+this created a
 
 groundswell of support.
 
 People flipped from seeing only downsides—
 
-## bars closing
+bars closing
 
 restrictions on god-given freedoms—to finding a
 
-## bewildering array of benefits
+bewildering array of benefits
 
-### from fresh air in restaurants to
+from fresh air in restaurants to
 
-## reduced fire risks
+reduced fire risks
 
-## fewer heart attacks
+fewer heart attacks
 
-## and changing attitudes of
+and changing attitudes of
 
 young people to smoking.
 
 A different type of tipping point occurs in
 
-## economics
+economics
 
 if the price of a new technology falls below that of the
 
 old, and the technology is constantly improving
 
-## this creates an
+this creates an
 
 irresistible combination that sets up a self-sustaining and amplifying
 
@@ -29024,47 +29024,47 @@ feedback loop.
 
 Electric cars will triumph over the internal
 
-## combustion engine
+combustion engine
 
 not because they are the “right” way forward
 
 but because they outcompete on price and performance.
 
-## Another
+# Another
 
 way to bring about massive transformation is through new ideas
 
 and innovations—often originating in academia or the technology
 
-## sector
+sector
 
 but in reality they can come from anywhere—which open up
 
-## new markets
+new markets
 
-## new ways of thinking
+new ways of thinking
 
 new modes of living.
 
-## In this chapter
+# In this chapter
 
 we will explore each of the four tipping points.
 
 First, we will discuss the explosive social phenomena of the
 
-### Fridays For Future school strikes
+# Fridays For Future school strikes
 
-## Extinction Rebellion’s direct
+Extinction Rebellion’s direct
 
-## action
+action
 
 and the growing public awareness that we are experiencing
 
 a planetary emergency.
 
-## Second
+# Second
 
-### we will look at the abrupt rise of
+we will look at the abrupt rise of
 
 Green Deals in politics and the changing political landscape.
 
@@ -29072,11 +29072,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 205US_196-227_321647_BB_Chap17-19.
 
-## indd 205 16/02/2021 11
+indd 205 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 cannot say yet how the COVID-19 global crisis will finally resolve
 
@@ -29084,21 +29084,21 @@ but it has already proved that massive and swift political action is
 
 possible.
 
-## And third
+# And third
 
-### we will address economic tipping points
+we will address economic tipping points
 
-## as the
+as the
 
-## prices of clean
+prices of clean
 
 green solutions drop below those of polluting
 
 products and carbon bubbles begin to grow.
 
-## A strong feedback loop
+# A strong feedback loop
 
-## is building
+is building
 
 the exit from fossil fuels could be quick and beneficial
 
@@ -29106,129 +29106,129 @@ overall, but brutal for a few.
 
 We will finish with the technological revolution
 
-## which will
+which will
 
-## over
+over
 
-## the next decade
+the next decade
 
-## transform how we work
+transform how we work
 
-## how we live
+how we live
 
-## and how we
+and how we
 
-## consume and commute
+consume and commute
 
 as well as how we look after our health and
 
 develop our minds.
 
-## 1. The social tipping point
+# 1. The social tipping point
 
-## In September 2019
+# In September 2019
 
 the school strikes for the climate attracted
 
-### between 6 and 8 million people
+between 6 and 8 million people
 
 according to various estimates.
 
-## Strikes occurred in 4
+# Strikes occurred in 4
 
-### 500 locations in 150 countries around the
+500 locations in 150 countries around the
 
 world.
 
-### Regardless of the precise figure
+# Regardless of the precise figure
 
-## this was by far the largest
+this was by far the largest
 
 climate strike in history.
 
-## In fact
+# In fact
 
-### it was one of the largest single
+it was one of the largest single
 
-### demonstrations in modern history
+demonstrations in modern history
 
-## on a par with the student
+on a par with the student
 
-## risings in Paris 1968
+risings in Paris 1968
 
 the protests against the Vietnam War in the
 
-## 1960s and 1970s
+1960s and 1970s
 
 and the rallies against the 2003 invasion of Iraq.
 
 Mass civil movements (e.g.
 
-## Fridays for Future)
+Fridays for Future)
 
 Political momentum (e.g., Green Deals)
 
-## Price
+# Price
 
-### New technologySocial tipping points
+# New technologySocial tipping points
 
-## Four powerful forces have
+# Four powerful forces have
 
-## now aligned to create
+now aligned to create
 
 unstoppable momentum.
 
 Time2020 1990 1970 2030 2000 1980 2040 2010 2050 2060Zero extinctions
 
-## Zero poverty
+# Zero poverty
 
-## Zero greenhouse gas emissions
+# Zero greenhouse gas emissions
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 206US_196-227_321647_BB_Chap17-19.
 
-## indd 206 16/02/2021 11
+indd 206 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 207 CHAPTER 18
+207 CHAPTER 18
 
-## Up to that point
+# Up to that point
 
 the school strikes had been on a phenomenal
 
 exponential journey.
 
-### The previous 13 months had demonstrated
+# The previous 13 months had demonstrated
 
 the power of the network effect in the modern world.
 
-## It all started in
+# It all started in
 
-## August 2018
+# August 2018
 
-## when a Swedish schoolchild
+when a Swedish schoolchild
 
-## Greta Thunberg
+# Greta Thunberg
 
-## lugged
+lugged
 
 her sign “ Skolstrejk för klimatet ” (School strike for the climate) down
 
 to the parliament building in Stockholm.
 
-## This image of a lone girl—
+This image of a lone girl—
 
 she had not been able to convince her classmates to join her—making
 
 a stand caught the attention of the Swedish media.
 
-## After an
+# After an
 
 explosion of support for her on social networks
 
-## the global media
+the global media
 
 joined the party.
 
@@ -29236,39 +29236,39 @@ Her sign has since become iconic.
 
 In his essay in Nature in 2011 on the role of social networks in
 
-## fueling the Arab Spring
+fueling the Arab Spring
 
 Philip Ball argued that networks “enabled
 
 a random event to trigger a major one.
 
-## ” The self-immolation of a
+” The self-immolation of a
 
-## street vendor
+street vendor
 
-## Mohamed Bouazizi
+# Mohamed Bouazizi
 
-## in Sidi Bouzid
+in Sidi Bouzid
 
-## in protest at
+in protest at
 
-## harsh treatment by officials
+harsh treatment by officials
 
-### tipped Tunisia into a chaotic revolt
+tipped Tunisia into a chaotic revolt
 
 against the ruling elites.
 
-## Ball noted
+# Ball noted
 
-## “Three months earlier
+“Three months earlier
 
-## a similar
+a similar
 
 thing had happened in the city of Monastir—but few people knew
 
 about it because it was not publicized on Facebook.
 
-## ” The new media
+” The new media
 
 landscape and our phenomenally networked society have changed
 
@@ -29284,7 +29284,7 @@ Children are now calling out older generations.
 
 Incredibly, to get
 
-## their facts in order
+their facts in order
 
 children are bypassing the mainstream media
 
@@ -29294,7 +29294,7 @@ They have discovered that a slow departure from fossil fuels
 
 over a century will disastrously destabilize the planet
 
-## and that
+and that
 
 future generations will not stand a hope in hell of restabilizing
 
@@ -29316,13 +29316,13 @@ Recent research confirms that children can influence their
 
 parents’ concerns around the climate crisis.
 
-## Children are able to do
+# Children are able to do
 
 this because we do not perceive their ideas as coming from political
 
 ideology.
 
-## Furthermore
+# Furthermore
 
 parents care what their children think on a
 
@@ -29330,27 +29330,27 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 207US_196-227_321647_BB_Chap17-19.
 
-## indd 207 16/02/2021 11
+indd 207 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 range of issues.
 
 The researchers noted that the largest change was
 
-### seen among conservative parents
+seen among conservative parents
 
 particularly dads.
 
-## And daughters
+# And daughters
 
 are especially influential.
 
 At her second appearance at the World Economic Forum in
 
-## Davos in 2019
+# Davos in 2019
 
 Greta complained to business leaders that they had
 
@@ -29364,13 +29364,13 @@ But there has been a perceptible shift.
 
 Even before the pandemic and its impact on travel
 
-## the Swedish
+the Swedish
 
 phrase flygskam or “flight shame” had taken off
 
-## not only in Sweden
+not only in Sweden
 
-## but also across Europe
+but also across Europe
 
 resulting in a real drop in the number of
 
@@ -29380,15 +29380,15 @@ Train use is increasing, too.
 
 national Swedish rail company is now planning to expand its sleeper
 
-## train coverage to Paris
+train coverage to Paris
 
-## Brussels
+# Brussels
 
 and London.
 
 The Fridays For Future movement has reshaped the conversation
 
-## on climate
+on climate
 
 riling President Trump and President Bolsonaro in the
 
@@ -29396,7 +29396,7 @@ process.
 
 This has been dubbed the “Greta effect.
 
-## ” Even newspapers
+” Even newspapers
 
 are getting in on the act.
 
@@ -29408,33 +29408,33 @@ night trains instead.
 
 They list multiple benefits.
 
-## Traveling by train
+# Traveling by train
 
-### allows people to save money on hotels
+allows people to save money on hotels
 
-## avoid miserable early
+avoid miserable early
 
-## morning flights
+morning flights
 
 and skip security lines and baggage carousels.
 
-### Pricing aircraft emissions fairly
+# Pricing aircraft emissions fairly
 
-### “rather than throwing subsidies at
+“rather than throwing subsidies at
 
-## operators
+operators
 
 ” would accelerate the transition.
 
-## In 2019
+# In 2019
 
-## the head of OPEC
+the head of OPEC
 
-### a powerful group of countries that
+a powerful group of countries that
 
 controls much of the world’s oil production
 
-## called climate strikers
+called climate strikers
 
 the “greatest threat” to his industry.
 
@@ -29448,25 +29448,25 @@ The school strikes have become the public face of a much larger
 
 movement.
 
-## Extinction Rebellion (or XR
+Extinction Rebellion (or XR
 
-## as it is known) was also
+as it is known) was also
 
-## established in 2018
+established in 2018
 
 but this time in the United Kingdom.
 
-## In April
+# In April
 
 2019, XR brought traffic to a standstill in parts of London
 
-## using
+using
 
 direct but peaceful action.
 
-### Protests later spread to New York
+# Protests later spread to New York
 
-## Berlin
+# Berlin
 
 Paris, and beyond.
 
@@ -29486,43 +29486,43 @@ Third, that a citizens’ assembly is
 
 formed to oversee the changes.
 
-### Two of these goals have now been
+# Two of these goals have now been
 
 achieved to some extent.
 
-### The United Kingdom has declared a
+# The United Kingdom has declared a
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 208US_196-227_321647_BB_Chap17-19.
 
-## indd 208 16/02/2021 11
+indd 208 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 209 CHAPTER 18
+209 CHAPTER 18
 
-## climate emergency
+climate emergency
 
 and a citizens’ assembly has been established
 
 but the carbon emissions target is unlikely to be met.
 
-## For more than a century
+# For more than a century
 
-### nonviolent resistance campaigns have
+nonviolent resistance campaigns have
 
 been more than twice as effective as their violent counterparts in
 
 achieving their aims.
 
-## Protests
+# Protests
 
-## boycotts
+boycotts
 
-## civil disobedience
+civil disobedience
 
-## and other
+and other
 
 forms of nonviolent non-cooperation attract impressive support from
 
@@ -29542,9 +29542,9 @@ It is clear that social movements and networks are building
 
 around the planetary emergency.
 
-## New worldviews and norms are
+# New worldviews and norms are
 
-## emerging
+emerging
 
 sometimes in the oddest of places.
 
@@ -29552,21 +29552,21 @@ Take climate sceptics,
 
 for example.
 
-## For decades
+# For decades
 
-### television broadcaster and newspaper
+television broadcaster and newspaper
 
 columnist Jeremy Clarkson used his media platforms
 
-## such as the
+such as the
 
 BBC series Top Gear and his column in the tabloid newspaper The Sun
 
 to ridicule climate science.
 
-## In 2019
+# In 2019
 
-### when confronted with the impacts
+when confronted with the impacts
 
 of climate change while filming in Cambodia and Vietnam
 
@@ -29574,7 +29574,7 @@ confessed that he now found climate change “genuinely alarming.
 
 The story is similar among business leaders.
 
-## We are seeing a
+# We are seeing a
 
 monumental shift in CEOs engaging more seriously in climate
 
@@ -29584,21 +29584,21 @@ In September 2019, we sat down for
 
 breakfast with Henrik Henriksson and Åsa Pettersson
 
-## the CEO
+the CEO
 
-### and head of corporate affairs at Scania
+and head of corporate affairs at Scania
 
-## the Swedish trucking
+the Swedish trucking
 
 company.
 
-## We began talking
+# We began talking
 
-## appropriately enough
+appropriately enough
 
-## about Greta’s
+about Greta’s
 
-## influence
+influence
 
 and discovered that the school strikes have had a
 
@@ -29610,7 +29610,7 @@ Henriksson authorized Scania employees around the world to down
 
 tools for at least one hour.
 
-### He encouraged the workers to use the
+# He encouraged the workers to use the
 
 time to attend courses on climate change—Scania’s own climate
 
@@ -29618,7 +29618,7 @@ strike.
 
 Seeing solidarity between a multinational corporation and
 
-## schoolchildren
+schoolchildren
 
 and an acceptance of a new responsibility for the
 
@@ -29628,35 +29628,35 @@ It indicates that concern about the impact of
 
 climate change is becoming widespread.
 
-## Some 68 percent of
+# Some 68 percent of
 
 Australians believe climate change is a serious threat to their way of
 
 life.
 
-## In the United States
+# In the United States
 
-### nearly 60 percent of Americans are now
+nearly 60 percent of Americans are now
 
 either “alarmed” or “concerned” about global warming.
 
-## This figure
+# This figure
 
 has tripled in the past five years.
 
-## Ahead of the World Economic
+# Ahead of the World Economic
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 209US_196-227_321647_BB_Chap17-19.
 
-## indd 209 16/02/2021 11
+indd 209 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
-## Forum in 2020
+# Forum in 2020
 
 a poll showed that almost one-quarter of CEOs
 
@@ -29666,19 +29666,19 @@ These statistics provide a strong case that we are crossing a social
 
 tipping point.
 
-## According to recent research
+# According to recent research
 
-## minority groups only
+minority groups only
 
 need to reach 21 to 25 percent of a population to cross a tipping
 
-## point and drive sweeping
+point and drive sweeping
 
 unstoppable changes in social conventions.
 
 Here is a simple scenario to demonstrate this.
 
-## Imagine a family of
+# Imagine a family of
 
 four eating dinner at home each evening.
 
@@ -29686,9 +29686,9 @@ One day, the daughter
 
 announces she is going to try a vegetarian diet.
 
-## After a lot of
+# After a lot of
 
-## discussion
+discussion
 
 the family agrees to serve the evening meal in two
 
@@ -29696,11 +29696,11 @@ choices.
 
 They all eat together and enjoy their meals equally.
 
-## There
+# There
 
 is occasional grumbling about the extra work involved
 
-## so soon the
+so soon the
 
 whole family is eating vegetarian meals a few times a week to save
 
@@ -29708,9 +29708,9 @@ on cooking.
 
 A new norm is established.
 
-## Once the 25 percent critical
+# Once the 25 percent critical
 
-## threshold is reached
+threshold is reached
 
 a determined minority can change the opinion
 
@@ -29718,11 +29718,11 @@ of a whole population.
 
 Evidence shows that environmentalism—as we have practiced it
 
-## for 50 years
+for 50 years
 
-## focused on protecting nature
+focused on protecting nature
 
-## building awareness
+building awareness
 
 assuming different levels of sacrifice (to save nature or the climate
 
@@ -29730,15 +29730,15 @@ for us “bad humans”)—hits a glass ceiling at some 15 percent of
 
 citizens.
 
-### These are the relatively well-educated
+# These are the relatively well-educated
 
-## younger
+younger
 
-## generally
+generally
 
 middle-class, urban populations.
 
-## They are willing to “save the
+They are willing to “save the
 
 planet” and “stop flying” or pay more for fuel
 
@@ -29752,29 +29752,29 @@ planet.
 
 This majority wants to go on with their lives.
 
-## As long as
+# As long as
 
-### sustainability is equal to sacrifice
+sustainability is equal to sacrifice
 
-### we believe that the exponential
+we believe that the exponential
 
 journey we need to embark on is dead in the water.
 
-## Our only way to
+# Our only way to
 
 succeed is to prove that the journey back into a safe operating space
 
-### on Earth is one that benefits you
+on Earth is one that benefits you
 
 me, our children
 
-## and their
+and their
 
 children.
 
-## And not only economically
+# And not only economically
 
-## but also in terms of health
+but also in terms of health
 
 and security.
 
@@ -29782,31 +29782,31 @@ This does not mean that environmentalism does not have a role
 
 to play.
 
-## On the contrary
+# On the contrary
 
 in order to “move mountains” you need the
 
-## pioneers
+pioneers
 
 the planetary sherpas who guide us on our journey
 
-## keep
+keep
 
-## the debate vibrant and alive
+the debate vibrant and alive
 
-### and remind us all the time that there
+and remind us all the time that there
 
 is a different world out there.
 
 So, we need XR, Greenpeace, and the
 
-## razor-sharp voice of Greta
+razor-sharp voice of Greta
 
-## more than ever
+more than ever
 
-## as a continuous and
+as a continuous and
 
-## strong drumbeat
+strong drumbeat
 
 reminding the world what is at stake.
 
@@ -29814,19 +29814,19 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 210US_196-227_321647_BB_Chap17-19.
 
-## indd 210 16/02/2021 11
+indd 210 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 211 CHAPTER 18
+211 CHAPTER 18
 
-## The climate protests
+# The climate protests
 
-## media attention
+media attention
 
-## planetary emergency
+planetary emergency
 
-## declarations
+declarations
 
 and shocks of extreme weather events have thrown
 
@@ -29834,29 +29834,29 @@ open the so-called Overton Window of political possibilities—the
 
 range of politically acceptable policies at any given time.
 
-## It is no
+# It is no
 
 longer a question of whether we are moving toward a fossil fuel-free
 
 world; the question is whether we are doing it fast enough.
 
-### 2. The political tipping point
+# 2. The political tipping point
 
-## In June 2019
+# In June 2019
 
 the UK Parliament reached its lowest point in the
 
 country’s bitter divorce battle with the European Union.
 
-## prime minister at the time
+prime minister at the time
 
-## Theresa May
+# Theresa May
 
-## had failed to negotiate
+had failed to negotiate
 
 an agreement and had no choice but to resign.
 
-## No one knew what
+# No one knew what
 
 would happen next.
 
@@ -29866,13 +29866,13 @@ the largest political parties.
 
 Yet, somehow, amid the Brexit chaos,
 
-## acrimony
+acrimony
 
-## and dysfunction
+and dysfunction
 
 something truly remarkable happened.
 
-## On June 27
+# On June 27
 
 2019, Parliament agreed to amend the 2008 Climate
 
@@ -29886,13 +29886,13 @@ such a deep commitment into the statute books.
 
 We were astounded that things could move so fast.
 
-## We had
+# We had
 
-## thought that
+thought that
 
-## given the Brexit distraction
+given the Brexit distraction
 
-## any meaningful long-
+any meaningful long-
 
 term policy was not possible—that the Overton Window had been
 
@@ -29900,25 +29900,25 @@ bricked up.
 
 But the lead-up to this event was crucial.
 
-## The climate
+# The climate
 
-### strikes had exploded around the world
+strikes had exploded around the world
 
-## attracting political and
+attracting political and
 
 media attention.
 
-## XR was organizing “die-ins
+XR was organizing “die-ins
 
-## ” in which protesters
+” in which protesters
 
-## lay motionless in roads
+lay motionless in roads
 
-## shopping centers
+shopping centers
 
 and town squares.
 
-## October 2018
+# October 2018
 
 the Intergovernmental Panel on Climate Change
 
@@ -29932,17 +29932,17 @@ Committee on Climate Change had released its report “Net zero.
 
 The UK’s contribution to stopping global warming.
 
-## ” This argued
+” This argued
 
 that net zero was feasible for the United Kingdom
 
-## but it also went
+but it also went
 
 further.
 
-## According to the report
+# According to the report
 
-### the cost of the transition was likely
+the cost of the transition was likely
 
 to be the same as the estimated cost of reducing emissions by
 
@@ -29950,11 +29950,11 @@ to be the same as the estimated cost of reducing emissions by
 
 already committed to through existing legislation.
 
-## The political
+# The political
 
-### conversation had shifted rapidly
+conversation had shifted rapidly
 
-### from net zero emissions by 2050
+from net zero emissions by 2050
 
 being “impossible” to being “inevitable.
 
@@ -29964,17 +29964,17 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 211US_196-227_321647_BB_Chap17-19.
 
-## indd 211 16/02/2021 11
+indd 211 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
-## prime minister
+prime minister
 
-## Boris Johnson
+# Boris Johnson
 
-### implored more major nations to
+implored more major nations to
 
 adopt a 2050 target.
 
@@ -29984,11 +29984,11 @@ here.
 
 A global economy without fossil fuels is inevitable
 
-## and the
+and the
 
 United Kingdom is adopting the same strategy it took 200 years ago
 
-### during the industrial revolution
+during the industrial revolution
 
 first-mover advantage.
 
@@ -29996,27 +29996,27 @@ More than 120 countries are now discussing a 2050 climate
 
 target.
 
-## Denmark
+# Denmark
 
-## France
+# France
 
-## New Zealand
+# New Zealand
 
-## and Sweden have also now
+and Sweden have also now
 
 adopted a net zero target into law.
 
-## Sweden is aiming to reach the
+# Sweden is aiming to reach the
 
 target by 2045.
 
 Some plan to reach net zero significantly earlier.
 
-## Norway and Uruguay
+# Norway and Uruguay
 
 political leaders believe it is possible by 2030.
 
-### Finland has its sights set on 2035
+# Finland has its sights set on 2035
 
 while Iceland is aiming for 2040.
 
@@ -30042,15 +30042,15 @@ European elections in 2019 has given the European Union the
 
 confidence and mandate to drive through this ambitious deal.
 
-## Perhaps most remarkably
+# Perhaps most remarkably
 
-## in September 2020
+in September 2020
 
-## China’s president
+China’s president
 
 stunned everyone when he announced China would be net zero by
 
-## 2060 at the latest.
+2060 at the latest.
 
 Two months later, Joe Biden won the US
 
@@ -30058,7 +30058,7 @@ presidential election and vowed to launch a $2 trillion climate plan
 
 that will transform the foundation of the country’s economy.
 
-## This is
+# This is
 
 big news.
 
@@ -30068,43 +30068,43 @@ China,
 
 and Europe—let’s call them the G3.
 
-## We should not underestimate
+# We should not underestimate
 
 what a game-changing moment this is for our planet.
 
 Some countries are going even further.
 
-## They are rejecting
+# They are rejecting
 
-## outdated
+outdated
 
-## socially destructive
+socially destructive
 
 Holocene economic dogma.
 
 In 2019,
 
-### the prime minister of New Zealand
+the prime minister of New Zealand
 
-## Jacinda Ardern
+# Jacinda Ardern
 
-## published the
+published the
 
 country’s first “well-being budget”—a budget from the treasury that
 
 goes beyond a singular focus on GDP.
 
-## Ardern has teamed up with
+# Ardern has teamed up with
 
-## Iceland’s prime minister
+Iceland’s prime minister
 
-## Katrín Jakobsdóttir
+Katrín Jakobsdóttir
 
-## and Scotland’s first
+and Scotland’s first
 
-## minister
+minister
 
-## Nicola Sturgeon
+# Nicola Sturgeon
 
 to put social and ecological well-being at
 
@@ -30114,15 +30114,15 @@ These countries, along with
 
 Wales, have formed a new loose alliance
 
-## the Well-being Economy
+the Well-being Economy
 
 Governments, or WEGo.
 
-### This is a breakthrough moment for ideas
+# This is a breakthrough moment for ideas
 
 that can now be turned into political reality.
 
-## Perhaps this group will
+# Perhaps this group will
 
 grow in size and influence and eventually replace the G20.
 
@@ -30130,47 +30130,47 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 212US_196-227_321647_BB_Chap17-19.
 
-## indd 212 16/02/2021 11
+indd 212 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 213 CHAPTER 18
+213 CHAPTER 18
 
 It is not just smaller economies taking bold steps into the future.
 
 We have come to a political tipping point.
 
-## Europe has put in place
+# Europe has put in place
 
 the steps needed to divorce itself from fossil fuels.
 
-## This sends three
+# This sends three
 
 unmistakable signals.
 
-## To investors
+# To investors
 
-## it advises
+it advises
 
-## “Get out of fossil fuels
+“Get out of fossil fuels
 
 before the carbon bubble bursts.
 
-### ” To companies operating in Europe
+” To companies operating in Europe
 
-## that use fossil fuels
+that use fossil fuels
 
-## it says
+it says
 
 “Switch to alternatives.
 
-## ” And to
+” And to
 
-### innovators within and outside Europe
+innovators within and outside Europe
 
-## it encourages
+it encourages
 
-## “Do what you
+“Do what you
 
 do best.
 
@@ -30178,7 +30178,7 @@ The absolute best political strategy is to find consensus across the
 
 political divide on a target and incrementally ratchet it up.
 
-## Politicians
+# Politicians
 
 have already begun to put in place policies that send strong signals
 
@@ -30186,15 +30186,15 @@ to markets.
 
 The playing field is changing.
 
-## These signals are set to
+# These signals are set to
 
 cascade through the world’s financial system
 
-## one of the most
+one of the most
 
 powerful forces for change on the planet.
 
-## 3. The economic tipping point
+# 3. The economic tipping point
 
 The economic tipping point is more accurately described as a bag
 
@@ -30208,13 +30208,13 @@ Wind and solar are doubling every four or five
 
 years or so.
 
-## If we keep up this pace
+# If we keep up this pace
 
-## then at least half of global
+then at least half of global
 
 electricity will come from these sources by 2030.
 
-## The numbers are
+# The numbers are
 
 astounding.
 
@@ -30222,15 +30222,15 @@ Take photovoltaic cells used to produce solar energy
 
 for example.
 
-## Between 1975 and 2016
+# Between 1975 and 2016
 
-## the price of photovoltaic
+the price of photovoltaic
 
 cells plummeted 99.
 
-## 5 percent.
+5 percent.
 
-### Every time the installed capacity
+# Every time the installed capacity
 
 doubled, the price fell by 20 percent.
 
@@ -30238,7 +30238,7 @@ For the past decade,
 
 photovoltaic installations grew 38 percent every year.
 
-## How can the
+# How can the
 
 fossil fuels possibly compete?
 
@@ -30262,27 +30262,27 @@ world: in India
 
 solar is now about half the price of coal.
 
-## Wind and
+# Wind and
 
 solar are already cheaper than gas in China
 
-## and could be cheaper
+and could be cheaper
 
 than coal by 2026.
 
-## At this rate
+# At this rate
 
-### the Chinese and Indian governments
+the Chinese and Indian governments
 
 would be crazy to build more power plants.
 
-## The savings made by
+# The savings made by
 
 switching to wind and solar sooner rather than later speak for
 
 themselves.
 
-## Of course
+# Of course
 
 moving away from fossil fuels brings other
 
@@ -30290,21 +30290,21 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 213US_196-227_321647_BB_Chap17-19.
 
-## indd 213 16/02/2021 11
+indd 213 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 benefits, too.
 
-## One is breathable cities
+# One is breathable cities
 
 the other is geopolitical.
 
-## China
+# China
 
-## imports coal
+imports coal
 
 but manufactures and exports solar panels and wind.
 
@@ -30332,7 +30332,7 @@ phase changes that occurred at the start of the industrial revolution.
 
 No one wants to still be building canals when trains arrive.
 
-## Perhaps
+# Perhaps
 
 the most telling sign is the fossil fuel sector’s performance in the
 
@@ -30340,7 +30340,7 @@ stock market index of largest companies by market capitalization
 
 the S&P 500.
 
-## In 2011
+# In 2011
 
 fossil fuels made up 12 percent of the index.
 
@@ -30364,7 +30364,7 @@ It is clear that an increasing number of institutions are now
 
 divesting from fossil fuels.
 
-### The value of divestments has already
+# The value of divestments has already
 
 accelerated past $14 trillion.
 
@@ -30374,9 +30374,9 @@ economic tipping point?
 
 Socially responsible investors have leverage.
 
-## According to some research
+# According to some research
 
-### only 10 to 20 percent of investors can
+only 10 to 20 percent of investors can
 
 initiate a chain reaction that bursts the carbon bubble.
 
@@ -30386,23 +30386,23 @@ recent research by Ilona Otto and colleagues suggests the figure
 
 could be lower still.
 
-### “A growing number of analysts believe a
+“A growing number of analysts believe a
 
 financial bubble is emerging that could burst when investors’ belief
 
 26 This neatly conforms to the 80/20 Pareto principle
 
-## a general heuristic that 80
+a general heuristic that 80
 
 percent of an effect comes from 20 percent of the causes.
 
 So, 20 percent of
 
-### customers may drive 80 percent of sales
+customers may drive 80 percent of sales
 
 say.
 
-### This idea is sometimes co-opted by
+# This idea is sometimes co-opted by
 
 those looking at tipping points in networks of people.
 
@@ -30414,15 +30414,15 @@ greedy investors in England’s South Sea Company anticipated huge profits from
 
 the slave trade with South America.
 
-### This pushed share prices sky high
+# This pushed share prices sky high
 
-## but the
+but the
 
 profits never materialized.
 
-### The financial bubble eventually burst
+# The financial bubble eventually burst
 
-## bringing financial
+bringing financial
 
 ruin to many institutions and individuals.
 
@@ -30430,63 +30430,63 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 214US_196-227_321647_BB_Chap17-19.
 
-## indd 214 16/02/2021 11
+indd 214 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 215 CHAPTER 18
+215 CHAPTER 18
 
 in carbon risk reaches a certain threshold.
 
-## Simulations show that
+# Simulations show that
 
 just 9 percent of investors could tip the system
 
-## inducing other
+inducing other
 
 investors to follow.
 
-### 4. The technological tipping point
+# 4. The technological tipping point
 
 The fourth and final tipping point is the technological revolution.
 
 An all-pervasive narrative informs us that technology
 
-## digital
+digital
 
-## disruption
+disruption
 
-### the fourth industrial revolution
+the fourth industrial revolution
 
-## whatever you want to
+whatever you want to
 
 call it, is barreling toward us.
 
-### While the past few decades have
+# While the past few decades have
 
-## undoubtedly been disruptive
+undoubtedly been disruptive
 
-## tech evangelists
+tech evangelists
 
-## media pundits
+media pundits
 
-## corporate consultancies
+corporate consultancies
 
 and government ministers tell us we ain’t
 
 seen nothing yet.
 
-## Bill Gates
+# Bill Gates
 
-## Mark Zuckerberg
+# Mark Zuckerberg
 
-### and others are clearly in on the
+and others are clearly in on the
 
 game.
 
 They are investing billions in innovation for planetary
 
-### stewardship through a new initiative
+stewardship through a new initiative
 
 Breakthrough Energy.
 
@@ -30496,11 +30496,11 @@ decade away from reaching consumers and scaling rapidly.
 
 really need to focus on the near term.
 
-### There are several technologies
+# There are several technologies
 
 that are already scaling.
 
-### These breakthroughs have reached an
+# These breakthroughs have reached an
 
 inflection point and will sweep through economies in the next
 
@@ -30508,7 +30508,7 @@ decade.
 
 We have already covered renewable power.
 
-## Electric vehicles
+# Electric vehicles
 
 are next.
 
@@ -30518,19 +30518,19 @@ growing exponentially.
 
 Today, they have an annual growth rate of
 
-## 50 percent.
+50 percent.
 
 The right economic policies will keep the world moving in the
 
 right direction at this breakneck speed.
 
-## Norway has already shown
+# Norway has already shown
 
 the way.
 
-## Thanks to strong policies
+# Thanks to strong policies
 
-### half of all new cars in the country
+half of all new cars in the country
 
 are now electric or hybrid.
 
@@ -30538,9 +30538,9 @@ If others adopt Norway’s policies to grow
 
 electric vehicle sales 33 percent every year
 
-## then by 2028 half of all
+then by 2028 half of all
 
-## cars will be electric
+cars will be electric
 
 and the figure will be close to 100 percent by
 
@@ -30552,25 +30552,25 @@ incoming bans on new fossil-fueled vehicles in the past few years.
 
 Big logistics companies such as Amazon and UPS
 
-## the United States
+the United States
 
-## postal giant
+postal giant
 
 are committing to 100 percent electric vehicles.
 
 2020, UPS ordered 10
 
-### 000 electric vans and bought a chunk of UK
+000 electric vans and bought a chunk of UK
 
 electric vehicle pioneer Arrival.
 
-## We cannot take any of these
+# We cannot take any of these
 
-## trajectories for granted
+trajectories for granted
 
-## though
+though
 
-### we still need strong support from
+we still need strong support from
 
 lawmakers to lock them in.
 
@@ -30578,13 +30578,13 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 215US_196-227_321647_BB_Chap17-19.
 
-## indd 215 16/02/2021 11
+indd 215 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
-## In the next decade
+# In the next decade
 
 digitalization will support a profound shift
 
@@ -30594,65 +30594,65 @@ We are entering a sharing economy.
 
 Take car sharing, for example.
 
-### Most vehicles spend 95 percent of
+# Most vehicles spend 95 percent of
 
 their time in parking lots.
 
-### While autonomous vehicles are perhaps a
+# While autonomous vehicles are perhaps a
 
-## decade away
+decade away
 
 car sharing is about to get a whole lot easier.
 
-## Keys can
+# Keys can
 
 now be shared digitally using mobile phones
 
-## thus creating one-
+thus creating one-
 
 click solutions to borrowing a car.
 
-### These technologies will open up
+# These technologies will open up
 
 whole new business models.
 
 E-commerce is transforming businesses and annihilating slow
 
-## movers
+movers
 
 online learning is transforming education
 
-## health is
+health is
 
-## a new frontier
+a new frontier
 
 with promises of telemedicine and online
 
-### diagnosis (remote precision surgery
+diagnosis (remote precision surgery
 
-## where the surgeon is in an
+where the surgeon is in an
 
 operating room in a different location from the patient
 
-## is already
+is already
 
-## possible)
+possible)
 
 and public administration is being overhauled through
 
 e-governance and e-payments.
 
-### But we will see the biggest digital
+# But we will see the biggest digital
 
 disruptions in the next decade in industry
 
-## agriculture
+agriculture
 
 and finance.
 
 The 2020s will see the circular economy go mainstream
 
-## driven
+driven
 
 by digitalization.
 
@@ -30662,11 +30662,11 @@ as giants such as Amazon and Alibaba stalk prey in this sector.
 
 Amazon has bought Whole Foods in the United States
 
-## and Alibaba
+and Alibaba
 
 is opening supermarkets across China.
 
-## This could go hand in
+# This could go hand in
 
 hand with a food revolution to nudge people to eat more healthy
 
@@ -30674,19 +30674,19 @@ diets.
 
 A bunch of start-ups are already tackling food waste in
 
-## restaurants
+restaurants
 
 cafes, and supermarkets
 
-## using apps to connect hungry
+using apps to connect hungry
 
 customers to cheap food.
 
-## The potential is huge
+# The potential is huge
 
-## if food waste were a
+if food waste were a
 
-## country
+country
 
 it would have the third highest greenhouse gas emissions
 
@@ -30694,15 +30694,15 @@ behind China and the United States.
 
 In farming, a combination of
 
-## satellites
+satellites
 
-## mobile phones
+mobile phones
 
-### and drones are bringing precision
+and drones are bringing precision
 
 agriculture and microweather forecasting to field level.
 
-## And drones
+# And drones
 
 have been designed to plant trees more than 100 times faster than
 
@@ -30712,9 +30712,9 @@ We are already seeing major shifts in e-finance
 
 too.
 
-## Take
+# Take
 
-## Alibaba’s Ant Financial
+Alibaba’s Ant Financial
 
 an online consumer bank with 800 million
 
@@ -30724,29 +30724,29 @@ Ant Financial has secured more than half of China’s
 
 $13 trillion online payment market.
 
-## More than 300 million people
+# More than 300 million people
 
-## have signed up for Ant Forest
+have signed up for Ant Forest
 
-## its online banking system
+its online banking system
 
-## to nudge
+to nudge
 
-### customers to choose low-carbon behavior
+customers to choose low-carbon behavior
 
-## such as using public
+such as using public
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 216US_196-227_321647_BB_Chap17-19.
 
-## indd 216 16/02/2021 11
+indd 216 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 217 CHAPTER 18
+217 CHAPTER 18
 
-## transportation
+transportation
 
 by giving them rewards and allowing them to
 
@@ -30756,21 +30756,21 @@ Swedish start-up Trine provides investors with a simple way to
 
 invest large or small sums in renewables in Africa.
 
-## By combining a
+# By combining a
 
 simple online investment platform with third-party verification
 
-## provided by satellites
+provided by satellites
 
 Trine overcomes a major hurdle for investment
 
 in Africa: perception of corruption.
 
-## Tech companies
+# Tech companies
 
-## both big and small
+both big and small
 
-## are eyeing the weakest
+are eyeing the weakest
 
 most vulnerable parts of the finance sector for opportunities to
 
@@ -30778,25 +30778,25 @@ pounce.
 
 This momentum is unstoppable.
 
-## We do still have some
+# We do still have some
 
 nagging doubts, though.
 
 Technology is a wild card.
 
-## We have not
+# We have not
 
 been short of technological innovation in the past three decades
 
 and emissions went up, not down.
 
-## From nanotechnology and 3-D
+# From nanotechnology and 3-D
 
-## printing to AI
+printing to AI
 
-## automation
+automation
 
-## and algorithmic surveillance
+and algorithmic surveillance
 
 technology sector’s disruption could work to restabilize the planet
 
@@ -30804,47 +30804,47 @@ or further destabilize it.
 
 It could go either way.
 
-## Needless to say
+# Needless to say
 
-### with 60 percent of the world now online
+with 60 percent of the world now online
 
 technology sector is disproportionately influential.
 
-## To ensure the
+# To ensure the
 
-## industry is a force for good
+industry is a force for good
 
-## world leaders such as Google
+world leaders such as Google
 
-## Amazon
+# Amazon
 
 and Apple need to commit to genuine planetary stewardship.
 
-## While
+# While
 
 all have grand visions to conquer the world
 
-## few include restabilizing
+few include restabilizing
 
 Earth as a priority.
 
-## Ultimately
+# Ultimately
 
-### this means ditching the idea that
+this means ditching the idea that
 
-## technology is neutral
+technology is neutral
 
 and instead actively using it to support
 
 societal goals, not undermine them.
 
-## In the 2020s
+# In the 2020s
 
 technology disruption is assured one way or the
 
 other.
 
-## Within the industry
+# Within the industry
 
 we can sense a profound shift.
 
@@ -30852,7 +30852,7 @@ Apple,
 
 one of the world’s most valuable companies
 
-## has committed to
+has committed to
 
 implementing a 100 percent circular economy within its supply
 
@@ -30860,25 +30860,25 @@ chain.
 
 Although they are not sure if they can actually get to 100
 
-## percent
+percent
 
 they know that they can get close.
 
-## Companies that do not
+# Companies that do not
 
 embrace the change feel the heat from their staff.
 
-## Following Jeff
+# Following Jeff
 
 Bezos’s conspicuously low-level embrace of planetary stewardship
 
 Amazon employees became increasingly vocal
 
-## until he eventually
+until he eventually
 
 announced more sweeping measures within the company
 
-## plus a
+plus a
 
 $10 billion philanthropic fund.
 
@@ -30886,15 +30886,15 @@ But Google, Amazon, Facebook,
 
 Apple, and others can and must do more.
 
-## They need to look beyond
+# They need to look beyond
 
-## philanthropy
+philanthropy
 
-## beyond their own emissions
+beyond their own emissions
 
-## beyond the impact of
+beyond the impact of
 
-## their supply chains
+their supply chains
 
 and look directly at the consumers who use
 
@@ -30902,35 +30902,35 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 217US_196-227_321647_BB_Chap17-19.
 
-## indd 217 16/02/2021 11
+indd 217 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 their products.
 
-## Ultimately
+# Ultimately
 
-### we need a social contract between these
+we need a social contract between these
 
 tech platforms and their consumers to mutually support behavioral
 
 change to meet societal goals.
 
-## Social
+# Social
 
-## political
+political
 
-## economic
+economic
 
-### and technological tipping points are
+and technological tipping points are
 
 our superpowers.
 
 If just one of these four goes mainstream
 
-## then
+then
 
 we substantially increase our chances of restabilizing Earth.
 
@@ -30942,15 +30942,15 @@ Digital technology has fanned the flames of the school strikes and
 
 XR, building a global movement in months.
 
-## This is influencing
+# This is influencing
 
 conversations everywhere.
 
 When we talk to politicians, business
 
-## people
+people
 
-## bureaucrats
+bureaucrats
 
 everyone—without fail—references the new
 
@@ -30960,19 +30960,19 @@ Every single one articulates the deep emotional
 
 impact from hearing our children’s howl of pain.
 
-## As lawmakers
+# As lawmakers
 
 flex their muscles and move into uncharted territory of “net zero
 
-## by 2050
+by 2050
 
-## ” the markets
+” the markets
 
-## Earth’s proto-consciousness
+Earth’s proto-consciousness
 
-## start twitching
+start twitching
 
-## arching
+arching
 
 and poising themselves for the moment to react.
 
@@ -30980,7 +30980,7 @@ pandemic recovery gives governments unexpected influence over
 
 the direction of the economy in the next decade.
 
-## This influence
+# This influence
 
 must be channeled into the Earthshot mission.
 
@@ -30988,13 +30988,13 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 218US_196-227_321647_BB_Chap17-19.
 
-## indd 218 23/02/2021 10
+indd 218 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 219 CHAPTER 19
+219 CHAPTER 19
 
-## WISE EARTH
+# WISE EARTH
 
 We started this book hurtling down a mountain road at night
 
@@ -31010,11 +31010,11 @@ guardrails for the first time.
 
 For several years, we have been working
 
-### on three related research programs
+on three related research programs
 
-## the World in 2050 project
+the World in 2050 project
 
-## Future Earth
+# Future Earth
 
 and the Global Commons Alliance.
 
@@ -31022,7 +31022,7 @@ In different ways,
 
 these projects and our own institutes are looking at the state of the
 
-## planet now
+planet now
 
 and whether or not there are pathways toward a
 
@@ -31038,7 +31038,7 @@ we will know what our chances will be of eventually reaching this
 
 destination.
 
-## By then
+# By then
 
 will we have cut global emissions of greenhouse
 
@@ -31046,11 +31046,11 @@ gases by half?
 
 Halted the shocking loss of nature?
 
-## Arrested
+# Arrested
 
 deforestation?
 
-## If we come to our senses now
+# If we come to our senses now
 
 the answer is “yes.
 
@@ -31058,29 +31058,29 @@ And, we should know by as early as 2050 if the rate of change of
 
 Earth’s life-support system is stabilizing
 
-## that is
+that is
 
-## whether we are
+whether we are
 
-### moving toward a safe landing zone
+moving toward a safe landing zone
 
-## where we have harmonized our
+where we have harmonized our
 
 human enterprise with Earth’s capacity to host us.
 
-## If we
+# If we
 
-## are on target
+are on target
 
-## by then
+by then
 
 the ozone hole over Antarctica will have There is something so strange and
 
 beautiful about the presence of human minds
 
-## on Earth
+on Earth
 
-### about the fact that this one bit of
+about the fact that this one bit of
 
 biosphere is awake and aware and curious
 
@@ -31088,7 +31088,7 @@ about everything, stuck in the gutter,
 
 perhaps, but looking up at the stars.
 
-## DAVID GRINSPOON
+# DAVID GRINSPOON
 
 EARTH IN HUMAN HANDS , 2016
 
@@ -31096,13 +31096,13 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 219US_196-227_321647_BB_Chap17-19.
 
-## indd 219 16/02/2021 11
+indd 219 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
 shrunk back close to a safe level.
 
-### Greenhouse gas emissions should
+# Greenhouse gas emissions should
 
 be tiny and balanced by our drawdown out of the atmosphere to
 
@@ -31110,17 +31110,17 @@ deep underground.
 
 Ocean acidification may be stabilizing.
 
-## Dead
+# Dead
 
 zones around the coasts could have recovered.
 
-## Forests will be
+# Forests will be
 
-## growing
+growing
 
-## not shrinking
+not shrinking
 
-### and ecological collapse will have been
+and ecological collapse will have been
 
 averted.
 
@@ -31132,7 +31132,7 @@ long haul.
 
 We have come a long way.
 
-## In Act I
+# In Act I
 
 we told the story of the revolutions that made this planet
 
@@ -31142,7 +31142,7 @@ Earth 2.
 
 with a biosphere, then Earth 3.
 
-### 0 when photosynthetic life emerged,
+0 when photosynthetic life emerged,
 
 releasing oxygen into the atmosphere and creating the conditions
 
@@ -31152,9 +31152,9 @@ for Earth 4.
 
 some 540 million years ago.
 
-### During the hundreds of millions of
+# During the hundreds of millions of
 
-## years that followed
+years that followed
 
 an extremely warm hothouse Earth dominated
 
@@ -31162,25 +31162,25 @@ with mean average temperatures 9 to 18°F (5 to 10°C) warmer than
 
 our preindustrial average of 57°F (14°C)
 
-## little ice on the surface
+little ice on the surface
 
-## of our planet
+of our planet
 
 and sea levels at least 230 feet (70 meters) higher than
 
 today, until the continents ripped apart and collided once more.
 
-## This accelerated weathering
+# This accelerated weathering
 
-### pulling carbon dioxide out of the air
+pulling carbon dioxide out of the air
 
 until levels dropped to reach a threshold of approximately 350 parts
 
 per million (ppm).
 
-### As carbon dioxide levels fell further
+# As carbon dioxide levels fell further
 
-## large ice
+large ice
 
 sheets built up.
 
@@ -31188,19 +31188,19 @@ Earth entered a curiously unstable ice age cycle
 
 forcing rapid evolution of the brain of a remarkable mammal.
 
-## This
+# This
 
-### set the scene for the Holocene
+set the scene for the Holocene
 
-## the notably stable past 12
+the notably stable past 12
 
-## 000 years
+000 years
 
 which began with one cultural revolution—agriculture—and ended
 
 with two—scientific and industrial.
 
-## In Act II
+# In Act II
 
 we told the story of arguably the three most important
 
@@ -31208,7 +31208,7 @@ scientific insights of the past three decades.
 
 First, we are now in an
 
-## entirely new geological epoch
+entirely new geological epoch
 
 the Anthropocene.
 
@@ -31216,21 +31216,21 @@ Second, the
 
 Holocene is the only known state that can support our civilization.
 
-## And third
+# And third
 
 we risk crossing dangerous tipping points if we
 
-### wake the sleeping giants of the Amazon
+wake the sleeping giants of the Amazon
 
-## Antarctica
+# Antarctica
 
-## Greenland
+# Greenland
 
 tundra, and ocean currents.
 
 Once one tipping point is crossed, it
 
-## may cause a domino effect
+may cause a domino effect
 
 pushing Earth back to the hothouse.
 
@@ -31240,11 +31240,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 220US_196-227_321647_BB_Chap17-19.
 
-## indd 220 16/02/2021 11
+indd 220 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 221 CHAPTER 19
+221 CHAPTER 19
 
 but it would crush our civilization and with it any aspirations
 
@@ -31254,21 +31254,21 @@ These insights from academia demand a new worldview as
 
 profound as those ushered in by the discoveries of Copernicus and
 
-## Darwin
+# Darwin
 
 the fact that Earth orbits the sun and the theory of evolution
 
-## by means of natural selection
+by means of natural selection
 
 respectively.
 
-## Both these insights
+# Both these insights
 
 challenged the institutions that had wielded unassailable power
 
 until then, shaking them to their core.
 
-## The Anthropocene is destined
+# The Anthropocene is destined
 
 to do the same.
 
@@ -31284,31 +31284,31 @@ We are approaching the edge of the lily pond.
 
 In response to these scientific insights
 
-## we have now taken the
+we have now taken the
 
 first tentative steps to identify nine planetary boundaries to define a
 
 safe operating space for humanity.
 
-## But Earth has already crashed
+# But Earth has already crashed
 
-### through four of the nine boundaries
+through four of the nine boundaries
 
-## relating to climate change
+relating to climate change
 
-## collapse of biodiversity
+collapse of biodiversity
 
-## deforestation
+deforestation
 
-## and our overuse of nutrients
+and our overuse of nutrients
 
 in farming.
 
 This is now a planetary emergency.
 
-## Finally
+# Finally
 
-## in Act III
+in Act III
 
 we described the Earthshot mission and argued
 
@@ -31316,7 +31316,7 @@ that every child’s birthright is a stable
 
 resilient planet.
 
-## This is why
+# This is why
 
 our children are reading scientific articles and walking out of school
 
@@ -31326,29 +31326,29 @@ We must all become planetary stewards and
 
 protect our global commons.
 
-### Central to this are finding a common
+# Central to this are finding a common
 
 human identity and opening our eyes to the new world we have
 
 created.
 
-## We face catastrophic risks
+# We face catastrophic risks
 
-### but luckily the solutions exist
+but luckily the solutions exist
 
-## and offer prosperity
+and offer prosperity
 
-## security
+security
 
 and equity.
 
-## Throughout this book
+# Throughout this book
 
 we have frequently used the term “we.
 
-## Sometimes
+# Sometimes
 
-## we simply mean “us
+we simply mean “us
 
 ” as authors.
 
@@ -31360,19 +31360,19 @@ Our academic colleagues are quick to flare up
 
 and say there is no “we.
 
-### ” Subsistence farmers in sub-Saharan
+” Subsistence farmers in sub-Saharan
 
 Africa did not cause the Great Acceleration that pushed us into the
 
 Anthropocene.
 
-### It was Western elites and capitalism
+# It was Western elites and capitalism
 
 they say.
 
-## This
+# This
 
-## is true
+is true
 
 but we (authors) say that acknowledging a common human
 
@@ -31380,21 +31380,21 @@ identity beyond the city we grew up in and beyond a nation-state
 
 boundary is an important step on the journey to planetary
 
-## stewardship
+stewardship
 
 we are all on this unstable planet together.
 
-## In some
+# In some
 
 ways, planetary stewardship is already here
 
-## in the schoolchildren
+in the schoolchildren
 
-## marching
+marching
 
 in the CEOs of multinational corporations demanding
 
-## tougher action
+tougher action
 
 in the hearts of the women who run the European
 
@@ -31402,27 +31402,27 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 221US_196-227_321647_BB_Chap17-19.
 
-## indd 221 23/02/2021 10
+indd 221 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
 Central Bank and the International Monetary Fund.
 
-## It is just
+# It is just
 
 unevenly distributed.
 
-## In the coming years
+# In the coming years
 
-## we hope we will find a
+we hope we will find a
 
 collective “we” emerging.
 
 In order to fully achieve planetary stewardship
 
-## the world must
+the world must
 
 change course.
 
@@ -31438,47 +31438,47 @@ If the bathtub is overflowing, do we
 
 argue about who turned on the faucet?
 
-## Do we build an elaborate
+# Do we build an elaborate
 
 piping system to funnel away the excess water?
 
-## Or do we turn off
+# Or do we turn off
 
 the faucet and remove the stopper?
 
 The answer is simple.
 
-## In the face
+# In the face
 
 of big risk, we choose the safest route.
 
-## Now is the time to end our
+# Now is the time to end our
 
 dependence on fossil fuels and embark on a sustainable Earth 5.
 
 First, we need to set a few things straight.
 
-## Our economic system
+# Our economic system
 
-### is based on the assumption of infinity
+is based on the assumption of infinity
 
-## that there are infinite
+that there are infinite
 
-## resources
+resources
 
-### such as the atmosphere and the ocean
+such as the atmosphere and the ocean
 
-## with infinite
+with infinite
 
-## reservoirs for waste products
+reservoirs for waste products
 
-### and that there is infinite capacity for
+and that there is infinite capacity for
 
 growth.
 
 This is obviously wrong.
 
-### And it is also potentially the heart
+# And it is also potentially the heart
 
 of the reason why transitioning away from the old unsustainable
 
@@ -31486,15 +31486,15 @@ economic paradigm is so painful for many.
 
 In the beginning, some
 
-## 240 years ago
+240 years ago
 
 Adam Smith set the stage for capitalism.
 
-## He was
+# He was
 
 followed by a plethora of scholars and thinkers
 
-## from John Maynard
+from John Maynard
 
 Keynes to Milton Friedman.
 
@@ -31508,23 +31508,23 @@ This was based on a worldview that the economic
 
 world was truly small and could generate wealth
 
-## on what appeared
+on what appeared
 
 to be a big planet with infinite resources of soils
 
-## forests
+forests
 
-## metals
+metals
 
 atmosphere, water, and nutrients.
 
-### It is this free subsidy—providing
+It is this free subsidy—providing
 
-## biomass
+biomass
 
-## natural resources
+natural resources
 
-### and waste disposal for free—that is the
+and waste disposal for free—that is the
 
 basis for our $86 trillion global economy.
 
@@ -31532,9 +31532,9 @@ But the global economy has now unequivocally reached a
 
 saturation point for the planet.
 
-### We have been in this state for
+# We have been in this state for
 
-## at least 30 years
+at least 30 years
 
 with no correction in the course of the global
 
@@ -31542,47 +31542,47 @@ economy.
 
 This is the drama.
 
-## Our current economic paradigm
+# Our current economic paradigm
 
 hit a hard wall and became obsolete several decades ago.
 
-## The proof
+# The proof
 
 is in the transgression of planetary boundaries
 
-## in the cracks
+in the cracks
 
-### appearing in the Antarctic ice sheet
+appearing in the Antarctic ice sheet
 
-## in the Amazon’s failing
+in the Amazon’s failing
 
-## ability to store carbon
+ability to store carbon
 
 in the melting permafrost in the far north
 
-## in the fires
+in the fires
 
-## droughts
+droughts
 
-## locust plagues
+locust plagues
 
-## and floods
+and floods
 
-## in the coral
+in the coral
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 222US_196-227_321647_BB_Chap17-19.
 
-## indd 222 23/02/2021 10
+indd 222 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 223 CHAPTER 19
+223 CHAPTER 19
 
-### reefs our children may not see
+reefs our children may not see
 
-## and in the exponential spread
+and in the exponential spread
 
 of a pandemic through densely populated cities.
 
@@ -31590,11 +31590,11 @@ What we need is a new paradigm where we no longer accept the
 
 pursuit of economic growth at the expense of the planet.
 
-## We need to
+# We need to
 
-### reconnect people with the planet
+reconnect people with the planet
 
-### and seek prosperity and equity
+and seek prosperity and equity
 
 within a safe operating space on Earth.
 
@@ -31604,17 +31604,17 @@ are largely available.
 
 We are talking about regenerative agriculture
 
-## nature-based solutions
+nature-based solutions
 
-## circular economic models
+circular economic models
 
-## science-based
+science-based
 
-## targets for business
+targets for business
 
-### and collective governance of our global
+and collective governance of our global
 
-## commons at all scales
+commons at all scales
 
 from local wetlands to the ice sheets and the
 
@@ -31624,13 +31624,13 @@ These are all tested solutions that are available as islands of
 
 success.
 
-### They exist in an ocean of indifference
+# They exist in an ocean of indifference
 
-## or at worst
+or at worst
 
-## face
+face
 
-## resistance or ignorance
+resistance or ignorance
 
 but they are there.
 
@@ -31642,33 +31642,33 @@ There,
 
 the economic system—defined as generating human wealth
 
-## harmony
+harmony
 
-### and security—can infinitely regenerate
+and security—can infinitely regenerate
 
-## for all intents and
+for all intents and
 
 purposes, like the biosphere.
 
-### But only if we harness energy from the
+# But only if we harness energy from the
 
 sun and close the loop to recirculate steel
 
-## cement
+cement
 
-## plastic
+plastic
 
-## aluminum
+aluminum
 
 and other materials.
 
 Some claim that this strategy is too simple.
 
-## That the second law
+# That the second law
 
-### of thermodynamics always prevails
+of thermodynamics always prevails
 
-## creating an ordered
+creating an ordered
 
 civilization—order from chaos—necessarily means creating more
 
@@ -31684,7 +31684,7 @@ At the same time, the Earth system has
 
 proven how resilient it is.
 
-### It has shown a remarkable ability to
+# It has shown a remarkable ability to
 
 dampen and absorb human abuse so far during our Anthropocene
 
@@ -31694,23 +31694,23 @@ If we are able to safeguard the remaining resilience of
 
 Earth, particularly through a zero loss of nature law
 
-## then there is
+then there is
 
 a good chance that Earth can cope with a continued residual
 
-### environmental impact from our world
+environmental impact from our world
 
-## increasing the chances of
+increasing the chances of
 
 reaching Earth 5.
 
-## Consequently
+# Consequently
 
-## the planetary boundaries are
+the planetary boundaries are
 
 set at the level—350 ppm of carbon dioxide
 
-## for example—of a
+for example—of a
 
 precautionary assessment of what Earth can cope with without
 
@@ -31726,23 +31726,23 @@ We can be a positive force for the biosphere.
 
 can be “nature positive” through sustainable agriculture
 
-## restoring
+restoring
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 223US_196-227_321647_BB_Chap17-19.
 
-## indd 223 16/02/2021 11
+indd 223 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## ACT III
+# ACT III
 
 ecosystems, cleaning up lakes.
 
 Our capacity for creativity,
 
-## innovation
+innovation
 
 and knowledge generation may be infinite or it may not
 
@@ -31760,15 +31760,15 @@ Our current narrative comes to an end at a moment of high
 
 drama.
 
-### Unlike a Hollywood blockbuster
+# Unlike a Hollywood blockbuster
 
-## which draws to a neat
+which draws to a neat
 
 conclusion with a nice resolution and a happy/relieved hero/heroine
 
-## who has learned something new
+who has learned something new
 
-### this story is more like a Netflix
+this story is more like a Netflix
 
 binge watch, ending on a cliffhanger.
 
@@ -31780,13 +31780,13 @@ We are very aware of the risk of deadlines such as “Only 10 years
 
 to save the planet.
 
-### ” Some say that it is never too late
+” Some say that it is never too late
 
-## or that the
+or that the
 
 changes will be gradual and we can adapt.
 
-## But this does not reflect
+# But this does not reflect
 
 the state of knowledge.
 
@@ -31794,7 +31794,7 @@ That said, let us be crystal clear.
 
 We are, of
 
-## course
+course
 
 not suggesting that Earth will fall off a cliff on January 1
 
@@ -31808,7 +31808,7 @@ and halting the loss of nature—then we face a great risk of pressing
 
 the “on” buttons of irreversible change on Earth.
 
-## We risk crossing
+# We risk crossing
 
 unstoppable tipping points that will lock us onto a path toward a
 
@@ -31816,7 +31816,7 @@ hothouse Earth state.
 
 If the West Antarctic ice sheet disintegrates or the Amazon starts
 
-## belching carbon
+belching carbon
 
 both of which are possible within the next two
 
@@ -31826,77 +31826,77 @@ respect as we speak—human societies will probably be able to adapt.
 
 Huge investment in sea walls to protect vulnerable cities will need
 
-## to be accelerated
+to be accelerated
 
 and carbon capture and storage solutions will
 
-## need to scale rapidly
+need to scale rapidly
 
 while reducing greenhouse gases at an even
 
 faster rate than the breakneck 7 percent per year.
 
-## Even if we manage
+# Even if we manage
 
-## to achieve this
+to achieve this
 
 societies will have to adapt continually for centuries.
 
 And climate change is likely to accelerate.
 
-## Once we take into
+# Once we take into
 
 consideration the usual economic and political turbulence
 
-## and the
+and the
 
-## occasional pandemic
+occasional pandemic
 
 you can see we are heading toward the rapids.
 
-### The global markets hate uncertainty
+# The global markets hate uncertainty
 
-## yet our future will be
+yet our future will be
 
 increasingly driven by it.
 
 Anyone who believes it will be possible to
 
-## restabilize Earth
+restabilize Earth
 
-### and bring people out of poverty
+and bring people out of poverty
 
-## while the markets
+while the markets
 
 US_196-227_321647_BB_Chap17-19.
 
 indd 224US_196-227_321647_BB_Chap17-19.
 
-## indd 224 16/02/2021 11
+indd 224 16/02/2021 11
 
-## 2716/02/2021 11
+2716/02/2021 11
 
-## 225 CHAPTER 19
+225 CHAPTER 19
 
 panic is living in a fantasy world.
 
-### Most people on Earth were affected
+# Most people on Earth were affected
 
 in some way by the economic fallout of COVID-19.
 
-## These impacts
+# These impacts
 
 will last decades, if not generations.
 
-### This is small-fry compared with
+# This is small-fry compared with
 
 what is coming.
 
-## The Earthshot mission
+# The Earthshot mission
 
-## therefore
+therefore
 
-## is not a mission toward a
+is not a mission toward a
 
 utopian dream.
 
@@ -31904,9 +31904,9 @@ It is about economic stability within a stable
 
 thriving biosphere.
 
-### This is not something we are aiming for
+# This is not something we are aiming for
 
-## it is
+it is
 
 something we are navigating back to.
 
@@ -31914,57 +31914,57 @@ It is not, therefore, an
 
 environmental agenda.
 
-### It is not about protecting nature
+# It is not about protecting nature
 
-## but about
+but about
 
 our own prosperity and our ability to navigate a nonlinear world
 
-## well as
+well as
 
-## potentially
+potentially
 
 the ability of democratic systems to prevail.
 
 Because the more we delay the transformation
 
-## the more we risk
+the more we risk
 
 needing to implement unpopular draconian measures.
 
-## If we want
+# If we want
 
-## some degree of freedom left
+some degree of freedom left
 
-### and the room for citizen influence and
+and the room for citizen influence and
 
-## peaceful collective action
+peaceful collective action
 
 then we need to act now.
 
-## If we lose this
+# If we lose this
 
-## window of opportunity
+window of opportunity
 
-### then either we will fail (and face the
+then either we will fail (and face the
 
 consequences) or we will enter a phase of overbearing top-down rule
 
 in order to curb emissions.
 
-## Fortunately
+# Fortunately
 
 we have a number of success stories to fall back on
 
-## when we feel frustrated
+when we feel frustrated
 
 angry, and ready to give up.
 
-## We have
+# We have
 
 already begun to repair the hole in the ozone layer.
 
-## We have dealt
+# We have dealt
 
 with acid rain.
 
@@ -31978,25 +31978,25 @@ Keeping on course ultimately means political leadership
 
 and cooperation.
 
-## A strength
+# A strength
 
-## perhaps the greatest strength
+perhaps the greatest strength
 
 democratic societies is to find a way for people with opposing
 
 views to agree a path forward.
 
-## And undoubtedly our greatest
+# And undoubtedly our greatest
 
 asset as a species is our ability to cooperate.
 
-## This gives us our
+# This gives us our
 
 superpower.
 
 We need to find it again.
 
-## Planetary stewardship is far
+# Planetary stewardship is far
 
 more likely to emerge if there is trust in political institutions to
 
@@ -32004,7 +32004,7 @@ make long-term decisions.
 
 We can all use our superpowers to make this happen.
 
-## We are all
+# We are all
 
 agents of change.
 
@@ -32028,11 +32028,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 225US_196-227_321647_BB_Chap17-19.
 
-## indd 225 23/02/2021 10
+indd 225 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## ACT III
+# ACT III
 
 If the world can find the means to cooperate at the planetary
 
@@ -32046,7 +32046,7 @@ our Latin name.
 
 This achievement may be even more profound than we realize.
 
-## David Grinspoon
+# David Grinspoon
 
 an astrobiologist and former NASA researcher
 
@@ -32054,17 +32054,17 @@ looks at the Anthropocene from a cosmological perspective and
 
 wonders, are we missing something big?
 
-## In the past three decades
+# In the past three decades
 
-### while Earth system researchers came
+while Earth system researchers came
 
-### to a new understanding of our planet
+to a new understanding of our planet
 
-## astronomers were busy
+astronomers were busy
 
 identifying more than 4,000 exoplanets.
 
-## This has been a remarkable
+# This has been a remarkable
 
 period in astronomy.
 
@@ -32074,39 +32074,39 @@ exoplanets.
 
 Are they rocks or gas giants?
 
-## Do they have some sort of
+# Do they have some sort of
 
 atmosphere or not?
 
-## In the next decade
+# In the next decade
 
-## as the Earthshot mission
+as the Earthshot mission
 
-## gathers pace
+gathers pace
 
 astronomers may be able to detect signs of liquid
 
 water and the composition of the atmosphere
 
-## does it contain
+does it contain
 
-## oxygen
+oxygen
 
-## nitrogen
+nitrogen
 
-## methane
+methane
 
 water, carbon dioxide?
 
 From this information we could work out each planet’s current
 
-## evolutionary phase
+evolutionary phase
 
-## just like our own planet
+just like our own planet
 
-## is it lifeless
+is it lifeless
 
-## like the
+like the
 
 Hadean eon?
 
@@ -32114,19 +32114,19 @@ Does it have a life-support system of some description?
 
 Are there telltale signs of a biosphere?
 
-## Perhaps it has reached a
+# Perhaps it has reached a
 
 similar state to Earth 2.
 
 0, with life but no photosynthesis
 
-## where an
+where an
 
 early, simple biosphere interacts with the planet’s physical systems.
 
-### Is the atmosphere rich in oxygen
+# Is the atmosphere rich in oxygen
 
-## indicating single-celled
+indicating single-celled
 
 photosynthesis at work, like Earth 3.
 
@@ -32142,39 +32142,39 @@ influences the habitability of the planet?
 
 But what if there is a fifth phase in planetary evolution?
 
-## A phase
+# A phase
 
 where the biosphere consciously manages the planet for habitability.
 
 This is a logical leap based on what has happened in recent decades.
 
-## Through science
+# Through science
 
 a planetary awareness has emerged.
 
-## Through the
+# Through the
 
 global economy and technological innovation
 
-## a mechanism for
+a mechanism for
 
 influencing the habitability of Earth has also emerged.
 
-## It is not too
+# It is not too
 
-## much to believe that we might
+much to believe that we might
 
-## one day
+one day
 
-## consciously manage the
+consciously manage the
 
-## planet’s physical
+planet’s physical
 
-## chemical
+chemical
 
-### and biological systems to maintain
+and biological systems to maintain
 
-### habitability—to maintain a thriving
+habitability—to maintain a thriving
 
 rich, diverse biosphere in some
 
@@ -32186,11 +32186,11 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 226US_196-227_321647_BB_Chap17-19.
 
-## indd 226 23/02/2021 10
+indd 226 23/02/2021 10
 
-## 5423/02/2021 10
+5423/02/2021 10
 
-## 227 CHAPTER 19
+227 CHAPTER 19
 
 evolution, Earth 5.
 
@@ -32204,25 +32204,25 @@ wise Earth.
 
 Let’s not get ahead of ourselves.
 
-### The rate of change of Earth’s life-
+The rate of change of Earth’s life-
 
 support system is accelerating.
 
-### A distant civilization inhabiting a
+# A distant civilization inhabiting a
 
-## star system far
+star system far
 
 far away would be able to detect signs of the Great
 
 Acceleration over the past 70 years.
 
-## The signal would be
+# The signal would be
 
-## unmistakable
+unmistakable
 
 and it would probably be seen as a rupture.
 
-## Viewers
+# Viewers
 
 might conclude they are witnessing some sort of cataclysmic
 
@@ -32230,7 +32230,7 @@ disruption on our planet.
 
 But what?
 
-## A volcanic eruption from deep
+# A volcanic eruption from deep
 
 within the core?
 
@@ -32244,35 +32244,35 @@ black holes or neutron stars?
 
 An evolutionary leap?
 
-## Or perhaps a
+# Or perhaps a
 
 technologically advanced civilization stretching beyond its reach .
 
 Like a doctor looking at a patient’s vital signs on a monitor
 
-## alien
+alien
 
-### observers might reasonably wonder
+observers might reasonably wonder
 
 what happens next?
 
-## Will the
+# Will the
 
 exponential curves keep rising and become even more disruptive
 
 and chaotic as the whole system amplifies the disturbance?
 
-## Or will
+# Or will
 
 the rate of change of the planet’s life-support system stop fluctuating
 
 wildly and settle into a more stable state?
 
-## This might be interpreted
+# This might be interpreted
 
-### as a flickering of consciousness
+as a flickering of consciousness
 
-## of intent
+of intent
 
 at a planetary level.
 
@@ -32288,7 +32288,7 @@ In three decades,
 
 Earth’s natural ecosystems can be stronger
 
-## more resilient
+more resilient
 
 and,
 
@@ -32296,11 +32296,11 @@ critically, more extensive than today.
 
 Imagine that.
 
-## Our economies
+# Our economies
 
 too, can be strong and more resilient
 
-## more able
+more able
 
 to roll with the punches and rebound from shocks.
 
@@ -32332,7 +32332,7 @@ a stable, resilient planet.
 
 Not to save our planet.
 
-## But to save ourselves
+# But to save ourselves
 
 and our future on Earth.
 
@@ -32340,31 +32340,31 @@ US_196-227_321647_BB_Chap17-19.
 
 indd 227US_196-227_321647_BB_Chap17-19.
 
-## indd 227 23/02/2021 10
+indd 227 23/02/2021 10
 
-## 5523/02/2021 10
+5523/02/2021 10
 
-## 228 SOURCES
+228 SOURCES
 
-## SOURCES
+# SOURCES
 
-## ACT I
+# ACT I
 
-## Chapter 1
+# Chapter 1
 
-## Archibald
+# Archibald
 
 Dinosaur Extinction and the End of an Era
 
-## What the Fossils Say
+# What the Fossils Say
 
-## Columbia University Press
+# Columbia University Press
 
 1996.
 
-## Barnosky et al
+# Barnosky et al
 
-## “Has the Earth’s sixth mass
+“Has the Earth’s sixth mass
 
 extinction already arrived?
 
@@ -32376,15 +32376,15 @@ Phillips, and R.
 
 Milo, “The biomass
 
-## distribution on Earth
+distribution on Earth
 
-### ” Proceedings of the National Academy
+” Proceedings of the National Academy
 
 of Sciences, 115 (25), 2018.
 
 Boon, “21st century science overload
 
-## ” Canadian Science
+” Canadian Science
 
 Publishing.
 
@@ -32392,21 +32392,21 @@ Available at: blog.
 
 cdnsciencepub.
 
-### com/21st-century-science-overload/
+com/21st-century-science-overload/
 
-## Crowther et al
+# Crowther et al
 
-### “Mapping tree density at a global
+“Mapping tree density at a global
 
 scale,” Nature, 525 (7568), 2015.
 
-## Dodd et al
+# Dodd et al
 
-### “Evidence for early life in Earth’s
+“Evidence for early life in Earth’s
 
-### oldest hydrothermal vent precipitates
+oldest hydrothermal vent precipitates
 
-## ” Nature
+” Nature
 
 (7643), 2017.
 
@@ -32418,27 +32418,27 @@ environmental homeostasis in complex ecosystems
 
 PLoS Computational Biology, 9 (5), 2013.
 
-## Feulner
+# Feulner
 
-## “The faint young sun problem
+“The faint young sun problem
 
-## ” Reviews of
+” Reviews of
 
 Geophysics, 50 (2), 2012.
 
-## Hoffman et al
+# Hoffman et al
 
-### “A Neoproterozoic Snowball Earth
+“A Neoproterozoic Snowball Earth
 
 Science, 281 (5381), 1998.
 
 Jinha, “Article 50 million
 
-## an estimate of the
+an estimate of the
 
 number of scholarly articles in existence
 
-## ” Learned
+” Learned
 
 Publishing, 23 (3), 2010.
 
@@ -32448,21 +32448,21 @@ Watkinson, and M.
 
 Mabe, “The STM
 
-## report
+report
 
 an overview of science and scholarly publishing
 
 2018.
 
-## Kirschvink
+# Kirschvink
 
-### “Late Proterozoic low-latitude global
+“Late Proterozoic low-latitude global
 
-## glaciation
+glaciation
 
-## the Snowball Earth
+the Snowball Earth
 
-## ” The Proterozoic Biosphere
+” The Proterozoic Biosphere
 
 A Multidisciplinary Study, J.
 
@@ -32478,23 +32478,23 @@ Hecht, and E.
 
 Paluck, “The
 
-## contingent smile
+contingent smile
 
-### A meta-analysis of sex differences in
+# A meta-analysis of sex differences in
 
-## smiling
+smiling
 
-## ” Psychological Bulletin
+” Psychological Bulletin
 
-## 129 (2)
+129 (2)
 
 2003.
 
-## Lenton
+# Lenton
 
-## Earth System Science
+# Earth System Science
 
-## A Very Short Introduction
+# A Very Short Introduction
 
 Oxford University Press, 2016.
 
@@ -32502,11 +32502,11 @@ Lovelock and L.
 
 Margulis, “Atmospheric homeostasis
 
-## by and for the biosphere
+by and for the biosphere
 
-## the Gaia hypothesis
+the Gaia hypothesis
 
-## ” Tellus
+” Tellus
 
 (1–2), 1974.
 
@@ -32520,33 +32520,33 @@ rise of oxygen in Earth’s early ocean and atmosphere
 
 Nature, 506 (7488), 2014.
 
-## Marshall
+# Marshall
 
-### “Explaining the Cambrian ‘explosion’
+“Explaining the Cambrian ‘explosion’
 
-## of animals
+of animals
 
 ” Annual Review of Earth and Planetary Sciences
 
-## 34 (1), 2006.
+34 (1), 2006.
 
-## Maslin
+# Maslin
 
-## The Cradle of Humanity
+# The Cradle of Humanity
 
-## How the Changing
+# How the Changing
 
-### Landscape of Africa Made us so Smart
+# Landscape of Africa Made us so Smart
 
-## Oxford University
+# Oxford University
 
 Press, 2017.
 
-## Patterson
+# Patterson
 
-### “Age of meteorites and the Earth
+“Age of meteorites and the Earth
 
-## ” Geochimica
+” Geochimica
 
 et Cosmochimica Acta, 10 (4), 1956.
 
@@ -32558,21 +32558,21 @@ accelerated glaciation following the Toba super-
 
 eruption,” Nature, 359 (6390), 1992.
 
-## Soo et al
+# Soo et al
 
 “On the origins of oxygenic photosynthesis
 
 and aerobic respiration in Cyanobacteria
 
-## ” Science
+” Science
 
 (6332), 2017.
 
-## Tyndall
+# Tyndall
 
 Contributions to Molecular Physics in the Domain
 
-## of Radiant Heat
+of Radiant Heat
 
 A Series of Memoirs Published .
 
@@ -32580,9 +32580,9 @@ Longmans,
 
 Green, and Company, 1872.
 
-## Chapter 2
+# Chapter 2
 
-## Barker et al
+# Barker et al
 
 “800,000 years of abrupt climate
 
@@ -32590,13 +32590,13 @@ variability,” Science, 334 (6054), 2011.
 
 Croll, “XIII.
 
-### On the physical cause of the change of
+# On the physical cause of the change of
 
-### climate during geological epochs
+climate during geological epochs
 
-## ” The London
+” The London
 
-## Edinburgh
+# Edinburgh
 
 and Dublin Philosophical Magazine and Journal of Science
 
@@ -32608,69 +32608,69 @@ Wegener, The Climates of the Geological
 
 Past, Borntraeger, 1924.
 
-## Milankovic
+# Milankovic
 
 Canon of Insolation and the Ice-Age Problem
 
 Agency for Textbooks, 1998.
 
-## Petit et al
+# Petit et al
 
-### “Climate and atmospheric history of the
+“Climate and atmospheric history of the
 
-## past 420
+past 420
 
-### 000 years from the Vostok ice core
+000 years from the Vostok ice core
 
-## Antarctica
+# Antarctica
 
 Nature, 399 (6735), 1999.
 
-## Willeit et al
+# Willeit et al
 
-### “Mid-Pleistocene transition in glacial
+“Mid-Pleistocene transition in glacial
 
 cycles explained by declining CO2 and regolith
 
 removal,” Science Advances, 5 (4), 2019.
 
-## Chapter 3
+# Chapter 3
 
-## Bardon
+# Bardon
 
-### “Humans are hardwired to dismiss facts
+“Humans are hardwired to dismiss facts
 
-### that don’t fit their worldview
+that don’t fit their worldview
 
 ” The Conversation.
 
 Available at: theconversation.
 
-## com/humans-are-
+com/humans-are-
 
 hardwired-to-dismiss-facts-that-dont-fit-their-
 
-## worldview-127168
+worldview-127168
 
-## de Boer
+de Boer
 
-### “Evolution of speech and evolution of
+“Evolution of speech and evolution of
 
-## language
+language
 
-### ” Psychonomic Bulletin & Review
+” Psychonomic Bulletin & Review
 
-## 24 (1)
+24 (1)
 
 2017.
 
-## deMenocal
+deMenocal
 
-## “Climate and human evolution
+“Climate and human evolution
 
-## ” Science
+” Science
 
-## 331 (6017), 2011.
+331 (6017), 2011.
 
 González-Forero and A.
 
@@ -32682,13 +32682,13 @@ evolution,” Nature, 557 (7706), 2018.
 
 Hare, “Survival of the friendliest
 
-## Homo sapiens evolved
+# Homo sapiens evolved
 
-### via selection for prosociality
+via selection for prosociality
 
-## ” Annual Review of Psychology
+” Annual Review of Psychology
 
-## 68 (1), 2017.
+68 (1), 2017.
 
 Hare, V.
 
@@ -32696,9 +32696,9 @@ Wobber, and R.
 
 Wrangham, “The
 
-## self-domestication hypothesis
+self-domestication hypothesis
 
-## evolution of bonobo
+evolution of bonobo
 
 psychology is due to selection against aggression
 
@@ -32712,11 +32712,11 @@ Available at: www.
 
 scientificamerican.
 
-### com/article/thinking-hard-calories/
+com/article/thinking-hard-calories/
 
-## Martínez et al
+Martínez et al
 
-### “Communicative capacities in Middle
+“Communicative capacities in Middle
 
 Pleistocene humans from the Sierra de Atapuerca in
 
@@ -32732,13 +32732,13 @@ Fleagle,
 
 “Stratigraphic placement and age of modern humans
 
-## from Kibish
+from Kibish
 
-## Ethiopia
+# Ethiopia
 
-## ” Nature
+” Nature
 
-## 433 (7027)
+433 (7027)
 
 2005.
 
@@ -32746,9 +32746,9 @@ Mercier and D.
 
 Sperber, “Why do humans reason?
 
-### Arguments for an argumentative theory
+# Arguments for an argumentative theory
 
-## ” Behavioral and
+” Behavioral and
 
 Brain Sciences, 34 (2), 2011.
 
@@ -32756,11 +32756,11 @@ US_228-240_321647_BB_End_Matter.
 
 indd 228US_228-240_321647_BB_End_Matter.
 
-## indd 228 16/02/2021 11
+indd 228 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 229 SOURCES
+229 SOURCES
 
 Navarrete, C.
 
@@ -32768,9 +32768,9 @@ van Schaik, and K.
 
 Isler, “Energetics
 
-### and the evolution of human brain size
+and the evolution of human brain size
 
-## ” Nature
+” Nature
 
 (7375), 2011.
 
@@ -32780,11 +32780,11 @@ Hublin, and P.
 
 Gunz, “The evolution of
 
-## modern human brain shape
+modern human brain shape
 
-## ” Science Advances
+” Science Advances
 
-## 4 (1), 2018.
+4 (1), 2018.
 
 Penton-Voak and J.
 
@@ -32792,23 +32792,23 @@ Chen, “High salivary
 
 testosterone is linked to masculine male facial
 
-## appearance in humans
+appearance in humans
 
-### ” Evolution and Human Behavior
+” Evolution and Human Behavior
 
-## 25 (4), 2004.
+25 (4), 2004.
 
-## Rito et al
+# Rito et al
 
 “A dispersal of Homo sapiens from southern
 
 to eastern Africa immediately preceded the out-of-Africa
 
-## migration
+migration
 
-## ” Scientific Reports
+” Scientific Reports
 
-## 9 (1), 2019.
+9 (1), 2019.
 
 Sánchez–Villagra and C.
 
@@ -32816,27 +32816,27 @@ van Schaik, “Evaluating
 
 the self-domestication hypothesis of human evolution
 
-## Evolutionary Anthropology
+Evolutionary Anthropology
 
-## Issues
+# Issues
 
 News, and Reviews
 
-## 28 (3)
+28 (3)
 
 2019.
 
-## Scerri et al
+# Scerri et al
 
-### “Did our species evolve in subdivided
+“Did our species evolve in subdivided
 
-## populations across Africa
+populations across Africa
 
 and why does it matter?
 
-### Trends in Ecology and Evolution
+# Trends in Ecology and Evolution
 
-## 33 (8)
+33 (8)
 
 2018.
 
@@ -32846,29 +32846,29 @@ Nelson, and R.
 
 Dunbar, “Hominin
 
-## cognitive evolution
+cognitive evolution
 
-### identifying patterns and processes
+identifying patterns and processes
 
-### in the fossil and archaeological record
+in the fossil and archaeological record
 
-## ” Philosophical
+” Philosophical
 
-### Transactions of the Royal Society B
+# Transactions of the Royal Society B
 
-## Biological Sciences
+# Biological Sciences
 
 (1599), 2012.
 
-## Simpson et al
+# Simpson et al
 
-### “A female Homo erectus pelvis from
+“A female Homo erectus pelvis from
 
 Gona, Ethiopia
 
-## ” Science
+” Science
 
-## 322 (5904)
+322 (5904)
 
 2008.
 
@@ -32876,61 +32876,61 @@ Smith, “Communication and collective action
 
 language and the evolution of human cooperation
 
-## Evolution and Human Behavior
+# Evolution and Human Behavior
 
-## 31 (4)
+31 (4)
 
 2010.
 
-## Smith et al
+# Smith et al
 
-### “Humans thrived in South Africa
+“Humans thrived in South Africa
 
-### through the Toba eruption about 74
+through the Toba eruption about 74
 
-## 000 years ago
+000 years ago
 
 Nature, 555 (7697), 2018.
 
-## Stringer
+# Stringer
 
 “The origin and evolution of Homo sapiens
 
 Philosophical Transactions of the Royal Society B
 
-## Biological
+# Biological
 
 Sciences, 371 (1698), 2016.
 
 West, Scale
 
-## The Universal Laws of Growth
+# The Universal Laws of Growth
 
-## Innovation
+# Innovation
 
-## Sustainability
+# Sustainability
 
-### and the Pace of Life in Organisms
+and the Pace of Life in Organisms
 
-## Cities
+# Cities
 
-## Economies
+# Economies
 
-## and Companies
+and Companies
 
-## Penguin Press
+# Penguin Press
 
 2017.
 
-## Williams
+# Williams
 
-### “The ~73 ka Toba super-eruption and its
+“The ~73 ka Toba super-eruption and its
 
-## impact
+impact
 
-## history of a debate
+history of a debate
 
-## ” Quaternary International
+” Quaternary International
 
 258,
 
@@ -32946,59 +32946,59 @@ or fantasy?
 
 (S61), 2016.
 
-## Wrangham et al
+# Wrangham et al
 
-## “The raw and the stolen
+“The raw and the stolen
 
-## Cooking
+# Cooking
 
-### and the ecology of human origins
+and the ecology of human origins
 
-## ” Current Anthropology
+” Current Anthropology
 
-## 40 (5), 1999.
+40 (5), 1999.
 
-## Chapter 4
+# Chapter 4
 
-## Diamond
+# Diamond
 
-## The Third Chimpanzee
+# The Third Chimpanzee
 
-## The Evolution and Future
+# The Evolution and Future
 
-## of the Human Animal
+of the Human Animal
 
-## Harper Perennial
+# Harper Perennial
 
 2006.
 
-## Diamond
+# Diamond
 
 “The worst mistake in the history of the
 
 human race,” Discover Magazine, 1987.
 
-## Erisman et al
+# Erisman et al
 
-### “How a century of ammonia synthesis
+“How a century of ammonia synthesis
 
-## changed the world
+changed the world
 
-## ” Nature Geoscience
+” Nature Geoscience
 
-## 1 (10)
+1 (10)
 
 2008.
 
-## Ferguson
+# Ferguson
 
-## The Square and the Tower
+# The Square and the Tower
 
-## Networks and Power
+# Networks and Power
 
-### from the Freemasons to Facebook
+from the Freemasons to Facebook
 
-## Penguin Press
+# Penguin Press
 
 2018.
 
@@ -33006,11 +33006,11 @@ Feynman and A.
 
 Ruzmaikin, “Climate stability and the
 
-### development of agricultural societies
+development of agricultural societies
 
-## ” Climate Change
+” Climate Change
 
-## 84 (3), 2007.
+84 (3), 2007.
 
 Ganopolski, R.
 
@@ -33020,19 +33020,19 @@ Schellnhuber,
 
 “Critical insolation–CO2 relation for diagnosing past
 
-## and future glacial inception
+and future glacial inception
 
-## ” Nature
+” Nature
 
-## 529 (7585)
+529 (7585)
 
 2016.
 
 Intergovernmental Panel on Climate Change
 
-## “Summary
+“Summary
 
-## for policymakers
+for policymakers
 
 ” Special Report on the Impacts of Global
 
@@ -33042,39 +33042,39 @@ Warming of 1.
 
 Change, 2018.
 
-## Kavanagh et al
+# Kavanagh et al
 
-### “Hindcasting global population
+“Hindcasting global population
 
 densities reveals forces enabling the origin of
 
-## agriculture
+agriculture
 
-## ” Nature Human Behaviour
+” Nature Human Behaviour
 
-## 2 (7), 2018.
+2 (7), 2018.
 
-## Marcott et al
+# Marcott et al
 
-### “A reconstruction of regional and
+“A reconstruction of regional and
 
-### global temperature for the past 11
+global temperature for the past 11
 
-## 300 years
+300 years
 
-## ” Science
+” Science
 
-## 339 (6124), 2013.
+339 (6124), 2013.
 
-## Markwell
+# Markwell
 
-### John Maynard Keynes and International
+# John Maynard Keynes and International
 
-## Relations
+# Relations
 
-### Economic Paths to War and Peace
+# Economic Paths to War and Peace
 
-## Oxford
+# Oxford
 
 University Press, 2006.
 
@@ -33084,55 +33084,55 @@ Rozworski, People’s Republic of Walmart:
 
 How the World’s Biggest Corporations Are Laying the
 
-## Foundation for Socialism
+# Foundation for Socialism
 
-## Verso Books
+# Verso Books
 
 2019.
 
 Smil, Growth, The MIT Press, 2019.
 
-## Steffen et al
+# Steffen et al
 
-## “Planetary boundaries
+“Planetary boundaries
 
-## guiding
+guiding
 
-### human development on a changing planet
+human development on a changing planet
 
-## ” Science
+” Science
 
-## 347 (6223), 2015.
+347 (6223), 2015.
 
-## Steffen et al
+# Steffen et al
 
-### “The trajectory of the Anthropocene
+“The trajectory of the Anthropocene
 
-## The Great Acceleration
+# The Great Acceleration
 
-## ” Anthropocene Review
+” Anthropocene Review
 
-## 2 (1), 2015.
+2 (1), 2015.
 
 United Nations Department of Economic and Social
 
-## Affairs
+# Affairs
 
 “Post-war reconstruction and development in the
 
-## Golden Age of Capitalism
+# Golden Age of Capitalism
 
-## ” World Economic and Social
+” World Economic and Social
 
-## Survey 2017
+# Survey 2017
 
-### United Nations Department of Economic
+# United Nations Department of Economic
 
 and Social Affairs, 2017.
 
-## Waters et al
+# Waters et al
 
-### “The Anthropocene is functionally
+“The Anthropocene is functionally
 
 and stratigraphically distinct from the Holocene
 
@@ -33144,75 +33144,75 @@ Pickett, The Spirit Level: Why Equality
 
 Is Better for Everyone, Penguin, 2010.
 
-## ACT II
+# ACT II
 
-## Chapter 5
+# Chapter 5
 
-## Lenton et al
+# Lenton et al
 
 “Climate tipping points—too risky to bet
 
 against,” Nature, 575 (7784), 2019.
 
-## Lenton
+# Lenton
 
 “Early warning of climate tipping points
 
 Nature Climate Change, 1 (4), 2011.
 
-## Steffen et al
+# Steffen et al
 
-### “The trajectory of the Anthropocene
+“The trajectory of the Anthropocene
 
-## The Great Acceleration
+# The Great Acceleration
 
-## ” Anthropocene Review
+” Anthropocene Review
 
-## 2 (1), 2015.
+2 (1), 2015.
 
-## Chapter 6
+# Chapter 6
 
-## Folke et al
+# Folke et al
 
-## “Resilience thinking
+“Resilience thinking
 
-## integrating resilience
+integrating resilience
 
-### adaptability and transformability
+adaptability and transformability
 
-## ” Ecology and Society
+” Ecology and Society
 
 (4), 2010.
 
-## Fuller (Ed)
+Fuller (Ed)
 
-## Gnomologia
+# Gnomologia
 
-## Adagies and Proverbs
+# Adagies and Proverbs
 
-## Wise
+# Wise
 
-## Sentences and Witty Sayings
+# Sentences and Witty Sayings
 
-## Ancient and Modern
+# Ancient and Modern
 
-## Foreign and
+# Foreign and
 
 British, Kessinger Publishing, 2003.
 
-## Gladwell
+# Gladwell
 
-## The Tipping Point
+# The Tipping Point
 
-## How Little Things Can Make
+# How Little Things Can Make
 
 a Big Difference, Back Bay Books, 2002.
 
-## Lenton et al
+# Lenton et al
 
 “Tipping elements in the Earth’s climate
 
-## system
+system
 
 ” Proceedings of the National Academy of Sciences
 
@@ -33222,11 +33222,11 @@ Lovelock and L.
 
 Margulis, “Atmospheric homeostasis
 
-## by and for the biosphere
+by and for the biosphere
 
-## the Gaia hypothesis
+the Gaia hypothesis
 
-## ” Tellus
+” Tellus
 
 (1–2), 1974.
 
@@ -33238,13 +33238,13 @@ Hughes, “Northern
 
 hemisphere temperatures during the past millennium
 
-## inferences
+inferences
 
-## uncertainties
+uncertainties
 
-## and limitations
+and limitations
 
-## ” Geophysical
+” Geophysical
 
 Research Letters, 26 (6), 1999.
 
@@ -33252,41 +33252,41 @@ US_228-240_321647_BB_End_Matter.
 
 indd 229US_228-240_321647_BB_End_Matter.
 
-## indd 229 16/02/2021 11
+indd 229 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 230 SOURCES
+230 SOURCES
 
-## Rocha et al
+# Rocha et al
 
-### “Cascading regime shifts within and
+“Cascading regime shifts within and
 
-## across scales
+across scales
 
-## ” Science
+” Science
 
-## 362 (6421)
+362 (6421)
 
 2018.
 
-## Chapter 7
+# Chapter 7
 
-## Brienen et al
+# Brienen et al
 
-### “Long-term decline of the Amazon
+“Long-term decline of the Amazon
 
 carbon sink,” Nature, 519 (7543), 2015.
 
-## Fahey et al
+# Fahey et al
 
-## “The 2018 UNEP/WMO assessment
+“The 2018 UNEP/WMO assessment
 
-## of ozone depletion
+of ozone depletion
 
-## an update
+an update
 
-## ” abstract #A31A-01
+” abstract #A31A-01
 
 presented at the AGU Fall Meeting, 2018.
 
@@ -33294,57 +33294,57 @@ Grooten and R.
 
 Almond, Living Planet Report 2018:
 
-## Aiming Higher
+# Aiming Higher
 
 WWF, Gland
 
-## Switzerland
+# Switzerland
 
 2018.
 
-## Hönisch et al
+Hönisch et al
 
-### “The geological record of ocean
+“The geological record of ocean
 
-## acidification
+acidification
 
-## ” Science
+” Science
 
-## 335 (6072)
+335 (6072)
 
 2012.
 
 Intergovernmental Panel on Climate Change
 
-## “Summary
+“Summary
 
-## for Policymakers
+for Policymakers
 
-## ” Climate Change 2013
+” Climate Change 2013
 
-## The Physical
+# The Physical
 
 Science Basis.
 
-### Contribution of Working Group I to the
+# Contribution of Working Group I to the
 
 Fifth Assessment Report of the Intergovernmental Panel on
 
-## Climate Change
+# Climate Change
 
-### Intergovernmental Panel on Climate
+# Intergovernmental Panel on Climate
 
 Change, 2013.
 
 Intergovernmental Science-Policy Platform on Biodiversity
 
-## and Ecosystem Services
+and Ecosystem Services
 
-## “Global assessment report on
+“Global assessment report on
 
-### biodiversity and ecosystem services
+biodiversity and ecosystem services
 
-## ” IPBES
+” IPBES
 
 2019.
 
@@ -33354,15 +33354,15 @@ Nobre, “Amazon tipping point,”
 
 Science Advances, 4 (2), 2018.
 
-## Masson-Delmotte et al
+# Masson-Delmotte et al
 
-### “Information from paleoclimate
+“Information from paleoclimate
 
-## archives
+archives
 
-## ” in Climate Change 2013
+” in Climate Change 2013
 
-## The Physical Science
+# The Physical Science
 
 Basis.
 
@@ -33372,135 +33372,135 @@ Report of the Intergovernmental Panel on Climate Change
 
 Cambridge University Press, 2013.
 
-## Readfearn
+# Readfearn
 
-### “Climate crisis may have pushed world’s
+“Climate crisis may have pushed world’s
 
 tropical coral reefs to tipping point of ‘near-annual’
 
 bleaching,” The Guardian, 2020.
 
-## Rockström et al
+Rockström et al
 
-### “A safe operating space for humanity
+“A safe operating space for humanity
 
 Nature, 461 (7263), 2009.
 
-## Rockström et al
+Rockström et al
 
-## “Planetary boundaries
+“Planetary boundaries
 
-## exploring
+exploring
 
-### the safe operating space for humanity
+the safe operating space for humanity
 
-## ” Ecology and
+” Ecology and
 
 Society, 14 (2), 2009.
 
-## Solomon
+# Solomon
 
 “The mystery of the Antarctic ozone ‘hole’
 
 Reviews of Geophysics, 26 (1), 1988.
 
-## Steffen et al
+# Steffen et al
 
-## “Planetary boundaries
+“Planetary boundaries
 
-## guiding
+guiding
 
-### human development on a changing planet
+human development on a changing planet
 
-## ” Science
+” Science
 
 (6223), 2015.
 
-## Steffen et al
+# Steffen et al
 
-### “Trajectories of the Earth system in
+“Trajectories of the Earth system in
 
-## the Anthropocene
+the Anthropocene
 
 ” Proceedings of the National Academy of
 
 Sciences, 115 (33), 2018.
 
-## Wilson
+# Wilson
 
-## Half-Earth
+# Half-Earth
 
-## Our Planet’s Fight for Life
+Our Planet’s Fight for Life
 
 Norton & Company, 2016.
 
-### World Meteorological Organization (WMO)
+World Meteorological Organization (WMO)
 
-## “WMO
+“WMO
 
 provisional statement on the state of the global climate
 
-## in 2019
+in 2019
 
 ” WMO Statement on the State of the Global Climate
 
 WMO, 2019.
 
-## Chapter 8
+# Chapter 8
 
 Club of Rome and the Potsdam Institute for Climate
 
-## Impact Research
+# Impact Research
 
-## “The planetary emergency plan
+“The planetary emergency plan
 
-### 2019. Available at: clubofrome.org/publication/
+# 2019. Available at: clubofrome.org/publication/
 
-## the-planetary-emergency-plan/
+the-planetary-emergency-plan/
 
-## Coady et al
+# Coady et al
 
 “Global fossil fuel subsidies remain large
 
 an update based on country-level estimates
 
-## ” Working
+” Working
 
 Paper no.
 
 19/89, IMF, 2019.
 
-## Hubau et al
+# Hubau et al
 
-### “Asynchronous carbon sink saturation
+“Asynchronous carbon sink saturation
 
 in African and Amazonian tropical forests
 
-## ” Nature
+” Nature
 
 (7797), 2020.
 
 Intergovernmental Panel on Climate Change
 
-## “Summary
+“Summary
 
-## for policymakers
+for policymakers
 
-### ” Special Report on the Ocean and
+” Special Report on the Ocean and
 
-### Cryosphere in a Changing Climate
+# Cryosphere in a Changing Climate
 
 IPCC, 2019.
 
-## Milillo et al
+# Milillo et al
 
-### “Heterogeneous retreat and ice melt
+“Heterogeneous retreat and ice melt
 
-## of Thwaites Glacier
+of Thwaites Glacier
 
-## West Antarctica
+# West Antarctica
 
-## ” Science Advances
+” Science Advances
 
 (1), 2019.
 
@@ -33512,15 +33512,15 @@ review and outlook for research on the instability of
 
 Antarctica’s Thwaites Glacier in the 21st century
 
-## ” Global
+” Global
 
 and Planetary Change, 153, 2017.
 
-## Schoolmeester et al
+# Schoolmeester et al
 
-## Global Linkages
+# Global Linkages
 
-## A Graphic
+# A Graphic
 
 Look at the Changing Arctic (rev.
 
@@ -33528,21 +33528,21 @@ Look at the Changing Arctic (rev.
 
 GRID-Arendal, 2019.
 
-## Shepherd et al
+# Shepherd et al
 
-### “Mass balance of the Greenland Ice
+“Mass balance of the Greenland Ice
 
-## Sheet from 1992 to 2018
+# Sheet from 1992 to 2018
 
-## ” Nature
+” Nature
 
 579, (7798)
 
 2020.
 
-## ACT III
+# ACT III
 
-## Chapter 9
+# Chapter 9
 
 Carney, F.
 
@@ -33556,11 +33556,11 @@ change,” The Guardian, 2019.
 
 Daly, “The Ecuadorian exemplar
 
-## the first ever
+the first ever
 
 vindications of constitutional rights of nature
 
-## ” Review of
+” Review of
 
 European Community & International Environmental Law
 
@@ -33572,7 +33572,7 @@ Available at: www.
 
 blackrock.
 
-### com/uk/individual/larry-fink-ceo-letter
+com/uk/individual/larry-fink-ceo-letter
 
 Gates, N.
 
@@ -33580,9 +33580,9 @@ Myhrvold, and P.
 
 Rinearson, The Road Ahead:
 
-### Completely Revised and Up-to-Date
+# Completely Revised and Up-to-Date
 
-## Penguin Books
+# Penguin Books
 
 1996.
 
@@ -33592,17 +33592,17 @@ Awatere, “Indigenous Māori
 
 knowledge and perspectives of ecosystems
 
-## ” Ecosystem
+” Ecosystem
 
 Services in New Zealand—Conditions and Trends
 
 2013.
 
-## Meadows
+# Meadows
 
-## “Leverage points
+“Leverage points
 
-## places to intervene in a
+places to intervene in a
 
 system,” Academy for Systems Change.
 
@@ -33610,29 +33610,29 @@ Available at:
 
 donellameadows.
 
-### org/archives/leverage-points-places-to-
+org/archives/leverage-points-places-to-
 
-## intervene-in-a-system/
+intervene-in-a-system/
 
-## Meadows et al
+# Meadows et al
 
-## The Limits to Growth
+# The Limits to Growth
 
-## A report to the
+# A report to the
 
 Club of Rome, 1972.
 
-## Ostrom et al
+# Ostrom et al
 
-## “Revisiting the commons
+“Revisiting the commons
 
-## local lessons
+local lessons
 
-## global challenges
+global challenges
 
-## ” Science
+” Science
 
-## 284 (5412)
+284 (5412)
 
 1999.
 
@@ -33642,17 +33642,17 @@ Patel, and J.
 
 Spångberg, “Producing oat
 
-### drink or cow’s milk on a Swedish farm
+drink or cow’s milk on a Swedish farm
 
-## environmental
+environmental
 
 impacts considering the service of grazing
 
 opportunity cost of land and the demand for beef and
 
-## protein
+protein
 
-## ” Agricultural Systems
+” Agricultural Systems
 
 142, 2016.
 
@@ -33660,7 +33660,7 @@ Rotarangi and D.
 
 Russell, “Social–ecological resilience
 
-## thinking
+thinking
 
 can indigenous culture guide environmental
 
@@ -33668,49 +33668,49 @@ management?
 
 , Journal of the Royal Society of New Zealand
 
-## 39 (4), 2009.
+39 (4), 2009.
 
 Turner, “Is global collapse imminent?
 
-## An updated
+# An updated
 
 comparison of The Limits to Growth with historical data
 
 MSSI Research Paper, 4, 2014.
 
-## Wallace-Wells
+# Wallace-Wells
 
-## The Uninhabitable Earth
+# The Uninhabitable Earth
 
-## Life After
+# Life After
 
 Warming, Tim Duggan Books, 2019.
 
-## Wilson
+# Wilson
 
-## Half-Earth
+# Half-Earth
 
-## Our Planet’s Fight for Life
+Our Planet’s Fight for Life
 
 Norton & Company, 2016.
 
-## Chapter 10
+# Chapter 10
 
-## Anderson
+# Anderson
 
 “Talks in the city of light generate more
 
 heat,” Nature News, 528 (7583), 2015.
 
-## Hawken
+# Hawken
 
-## Drawdown
+# Drawdown
 
-### The Most Comprehensive Plan Ever
+# The Most Comprehensive Plan Ever
 
-### Proposed to Reverse Global Warming
+# Proposed to Reverse Global Warming
 
-## Penguin
+# Penguin
 
 2018.
 
@@ -33718,57 +33718,57 @@ US_228-240_321647_BB_End_Matter.
 
 indd 230US_228-240_321647_BB_End_Matter.
 
-## indd 230 16/02/2021 11
+indd 230 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 231 SOURCES
+231 SOURCES
 
-## Le Quéré et al
+Le Quéré et al
 
-### “Drivers of declining CO2 emissions
+“Drivers of declining CO2 emissions
 
-## in 18 developed economies
+in 18 developed economies
 
-## ” Nature Climate Change
+” Nature Climate Change
 
-## 9 (3), 2019.
+9 (3), 2019.
 
-## Morena
+# Morena
 
-## The Price of Climate Action
+# The Price of Climate Action
 
-## Philanthropic
+# Philanthropic
 
 Foundations in the International Climate Debate
 
-## Palgrave
+# Palgrave
 
 Macmillan, 2016.
 
 Rockström et al, “A roadmap for rapid
 
-## decarbonization
+decarbonization
 
-## ” Science
+” Science
 
-## 355 (6331)
+355 (6331)
 
 2017.
 
-## Chapter 11
+# Chapter 11
 
-## Campbell et al
+# Campbell et al
 
-### “Agriculture production as a major
+“Agriculture production as a major
 
 driver of the Earth system exceeding planetary
 
-## boundaries
+boundaries
 
-## ” Ecology and Society
+” Ecology and Society
 
-## 22 (4)
+22 (4)
 
 2017.
 
@@ -33776,11 +33776,11 @@ Lucas and R.
 
 Horton, “The 21st-century great food
 
-## transformation
+transformation
 
-## ” The Lancet
+” The Lancet
 
-## 393 (10170)
+393 (10170)
 
 2019.
 
@@ -33788,19 +33788,19 @@ McCarthy and Z.
 
 Li, “Healthy diets and sustainable
 
-## food systems
+food systems
 
-## ” The Lancet
+” The Lancet
 
-## 394 (10194)
+394 (10194)
 
 2019.
 
-## Olsson et al
+# Olsson et al
 
-## “Land degradation
+“Land degradation
 
-## ” Climate Change and
+” Climate Change and
 
 Land, Intergovernmental Panel on Climate Change
 
@@ -33810,25 +33810,25 @@ Rockström and M.
 
 Falkenmark, “Agriculture: increase
 
-## water harvesting in Africa
+water harvesting in Africa
 
-## ” Nature
+” Nature
 
-## 519 (7543)
+519 (7543)
 
 2015.
 
-## Scholes et al (eds)
+Scholes et al (eds)
 
-### “Summary for policymakers of the
+“Summary for policymakers of the
 
 assessment report on land degradation and restoration
 
 of the Intergovernmental Science-Policy Platform on
 
-### Biodiversity and Ecosystem Services
+# Biodiversity and Ecosystem Services
 
-## ” IPBES
+” IPBES
 
 2018.
 
@@ -33838,25 +33838,25 @@ Popkin, Obesity: Health and Economic
 
 Consequences of an Impending Global Challenge
 
-## World Bank
+# World Bank
 
 Publications, 2020.
 
-## Willett et al
+# Willett et al
 
-## “Food in the Anthropocene
+“Food in the Anthropocene
 
 EAT–Lancet Commission on healthy diets from
 
-## sustainable food systems
+sustainable food systems
 
-## ” The Lancet
+” The Lancet
 
-## 393 (10170)
+393 (10170)
 
 2019.
 
-## Chapter 12
+# Chapter 12
 
 Burke, S.
 
@@ -33866,11 +33866,11 @@ Miguel, “Global non-linear
 
 effect of temperature on economic production
 
-## ” Nature
+” Nature
 
-## 527 (7577), 2015.
+527 (7577), 2015.
 
-## Chrisafis
+# Chrisafis
 
 “Macron responds to gilets jaunes protests
 
@@ -33880,13 +33880,13 @@ Diffenbaugh and M.
 
 Burke, “Global warming has
 
-### increased global economic inequality
+increased global economic inequality
 
-## ” Proceedings of the
+” Proceedings of the
 
-## National Academy of Sciences
+# National Academy of Sciences
 
-## 116 (20)
+116 (20)
 
 2019.
 
@@ -33896,9 +33896,9 @@ Fuentes-Nieva, and S.
 
 Ayele, “An economy
 
-## for the 1%
+for the 1%
 
-### how privilege and power in the economy
+how privilege and power in the economy
 
 drive extreme inequality and how this can be stopped
 
@@ -33906,37 +33906,37 @@ Oxfam International, 2016.
 
 Intergovernmental Panel on Climate Change
 
-## “Summary
+“Summary
 
-## for policymakers
+for policymakers
 
-## ” Climate Change and Land
+” Climate Change and Land
 
 IPCC, 2019.
 
-## La Monica
+# La Monica
 
 “Warren Buffett has $130 billion in cash.
 
-## He’s looking for a deal
+He’s looking for a deal
 
-## ” CNN Business
+” CNN Business
 
 2020.
 
-## Otto et al
+# Otto et al
 
-### “Shift the focus from the super-poor to
+“Shift the focus from the super-poor to
 
-## the super-rich
+the super-rich
 
-## ” Nature Climate Change
+” Nature Climate Change
 
-## 9 (2), 2019.
+9 (2), 2019.
 
-## Oxfam International
+# Oxfam International
 
-### “Just 8 men own same wealth as
+“Just 8 men own same wealth as
 
 half the world,” 2018.
 
@@ -33944,23 +33944,23 @@ Available at: www.
 
 oxfam.
 
-## org/en/
+org/en/
 
 press-releases/just-8-men-own-same-wealth-half-world
 
-## Piketty
+# Piketty
 
-### Capital in the Twenty-First Century
+# Capital in the Twenty-First Century
 
-## Harvard
+# Harvard
 
 University Press, 2017.
 
-## Shorrocks et al
+# Shorrocks et al
 
-## “Global wealth report 2019
+“Global wealth report 2019
 
-## ” Credit
+” Credit
 
 Suisse Research Institute, 2019.
 
@@ -33972,9 +33972,9 @@ com/media/assets/corporate/docs/about-us/
 
 research/publications/global-wealth-report-2019-en.
 
-## World Food Programme
+# World Food Programme
 
-## “Southern Africa in throes of
+“Southern Africa in throes of
 
 climate emergency with 45 million people facing hunger across the region.
 
@@ -33982,19 +33982,19 @@ climate emergency with 45 million people facing hunger across the region.
 
 wfp.
 
-## org/news/
+org/news/
 
 southern-africa-throes-climate-emergency-45-million-
 
-### people-facing-hunger-across-region
+people-facing-hunger-across-region
 
-## Chapter 13
+# Chapter 13
 
 Akthar and E.
 
 Dixon, “At least 36 people dead in one
 
-## of India’s longest heat waves
+of India’s longest heat waves
 
 ” CNN, 2019.
 
@@ -34016,7 +34016,7 @@ Drevikovsky and S.
 
 Rawsthorne, “‘Hottest place on the
 
-## planet’
+planet’
 
 Penrith in Sydney’s west approaches 50 degrees
 
@@ -34030,9 +34030,9 @@ China has 421,000,” Bloomberg, 2019.
 
 Falk and O.
 
-## Gaffney et al
+# Gaffney et al
 
-## “Exponential climate action
+“Exponential climate action
 
 roadmap,” Future Earth, 2018.
 
@@ -34040,7 +34040,7 @@ Available at:
 
 exponentialroadmap.
 
-### org/wp-content/uploads/2018/09/
+org/wp-content/uploads/2018/09/
 
 Exponential-Climate-Action-Roadmap-September-
 
@@ -34048,11 +34048,11 @@ Exponential-Climate-Action-Roadmap-September-
 
 Frank, “After a $14-billion upgrade
 
-## New Orleans’
+New Orleans’
 
-## levees are sinking
+levees are sinking
 
-## ” Scientific American
+” Scientific American
 
 2019.
 
@@ -34062,19 +34062,19 @@ www.
 
 scientificamerican.
 
-### com/article/after-a-14-billion-
+com/article/after-a-14-billion-
 
-### upgrade-new-orleans-levees-are-sinking/
+upgrade-new-orleans-levees-are-sinking/
 
-## Hoornweg et al
+# Hoornweg et al
 
-### “An urban approach to planetary
+“An urban approach to planetary
 
 boundaries,” Ambio, 45 (5), 2016.
 
-## International Energy Agency
+# International Energy Agency
 
-## “Cities are at the frontline
+“Cities are at the frontline
 
 of the energy transition,” 2016.
 
@@ -34084,7 +34084,7 @@ iea.
 
 org/news/cities-are-at-the-frontline-of-the-energy-
 
-## transition
+transition
 
 Kulp and B.
 
@@ -34092,23 +34092,23 @@ Strauss, “New elevation data triple
 
 estimates of global vulnerability to sea-level rise and
 
-## coastal flooding
+coastal flooding
 
-## ” Nature Communications
+” Nature Communications
 
 10, 2019.
 
-## Lelieveld et al
+# Lelieveld et al
 
-### “Loss of life expectancy from air
+“Loss of life expectancy from air
 
 pollution compared to other risk factors
 
-## a worldwide
+a worldwide
 
-## perspective
+perspective
 
-## ” Cardiovascular Research
+” Cardiovascular Research
 
 2020.
 
@@ -34124,19 +34124,19 @@ com.
 
 au/news/the-act-is-now-running-on-100-renewable-
 
-## electricity
+electricity
 
 Rees and M.
 
 Wackernagel, “Urban ecological
 
-## footprints
+footprints
 
 why cities cannot be sustainable—and why
 
-### they are a key to sustainability
+they are a key to sustainability
 
-## ” Environmental Impact
+” Environmental Impact
 
 Assessment Review, 16 (4–6), 1996.
 
@@ -34148,69 +34148,69 @@ Data, 2018.
 
 Available at: ourworldindata.
 
-## org/
+org/
 
-## urbanization
+urbanization
 
-## Robertson
+# Robertson
 
 “Inside Copenhagen’s race to be the first
 
-## carbon-neutral city
+carbon-neutral city
 
-## ” The Guardian
+” The Guardian
 
 2019.
 
 “Scientists disappointed with New Urban Agenda agreed
 
-### on by nations at Habitat III summit
+on by nations at Habitat III summit
 
-## ” International Science
+” International Science
 
 Council, 2016.
 
 Available at: council.
 
-## science/current/press/
+science/current/press/
 
 scientists-disappointed-with-new-urban-agenda-agreed-
 
-### on-by-nations-at-habitat-iii-summit/
+on-by-nations-at-habitat-iii-summit/
 
-## Sheetz
+# Sheetz
 
 “Technology killing off corporate America
 
 Average life span of companies under 20 years
 
-## ” CNBC
+” CNBC
 
-### 2017. Available at: www.cnbc.com/2017/08/24/
+# 2017. Available at: www.cnbc.com/2017/08/24/
 
 technology-killing-off-corporations-average-lifespan-of-
 
 company-under-20-years.
 
-## html
+html
 
 West, Scale
 
-## The Universal Laws of Growth
+# The Universal Laws of Growth
 
-## Innovation
+# Innovation
 
-## Sustainability
+# Sustainability
 
-### and the Pace of Life in Organisms
+and the Pace of Life in Organisms
 
-## Cities
+# Cities
 
-## Economies
+# Economies
 
-## and Companies
+and Companies
 
-## Penguin Press
+# Penguin Press
 
 2017.
 
@@ -34218,13 +34218,13 @@ US_228-240_321647_BB_End_Matter.
 
 indd 231US_228-240_321647_BB_End_Matter.
 
-## indd 231 16/02/2021 11
+indd 231 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 232 SOURCES
+232 SOURCES
 
-## Chapter 14
+# Chapter 14
 
 Roser, E.
 
@@ -34238,7 +34238,7 @@ Available at:
 
 ourworldindata.
 
-## org/life-expectancy
+org/life-expectancy
 
 Roser, H.
 
@@ -34246,17 +34246,17 @@ Ritchie, and E.
 
 Ortiz-Ospina, “World
 
-## population growth
+population growth
 
-## ” Our World in Data
+” Our World in Data
 
 2013.
 
-## Available
+# Available
 
 at: ourworldindata.
 
-## org/world-population-growth
+org/world-population-growth
 
 Rosling, A.
 
@@ -34266,9 +34266,9 @@ Rosling, Factfulness:
 
 Ten Reasons We’re Wrong About the World—and Why Things
 
-## Are Better Than You Think
+# Are Better Than You Think
 
-## Flatiron Books
+# Flatiron Books
 
 2018.
 
@@ -34278,17 +34278,17 @@ Woolf and H.
 
 Schoomaker, “Life expectancy and
 
-### mortality rates in the United States
+mortality rates in the United States
 
-## 1959–2017
+1959–2017
 
 JAMA, 322 (20) 2019.
 
-## World Bank
+# World Bank
 
-## “Fertility rate
+“Fertility rate
 
-## total (births per woman)
+total (births per woman)
 
 —Japan, Korea, Rep.
 
@@ -34296,7 +34296,7 @@ JAMA, 322 (20) 2019.
 
 worldbank.
 
-## org/
+org/
 
 indicator/SP.
 
@@ -34304,13 +34304,13 @@ DYN.
 
 TFRT.
 
-## locations=JP-KR
+locations=JP-KR
 
-## World Health Organization
+# World Health Organization
 
-## “Life expectancy
+“Life expectancy
 
-## ” Global
+” Global
 
 Health Observatory data.
 
@@ -34318,13 +34318,13 @@ Available at: www.
 
 who.
 
-## int/gho/
+int/gho/
 
 mortality_burden_disease/life_tables/situation_trends_
 
-## text/en/
+text/en/
 
-## Chapter 15
+# Chapter 15
 
 Angel, “Feasibility of cooling the Earth with a cloud
 
@@ -34336,47 +34336,47 @@ of small spacecraft near the inner Lagrange point
 
 Dunne, “Explainer
 
-### six ideas to limit global warming
+six ideas to limit global warming
 
-## with solar geoengineering
+with solar geoengineering
 
-## ” Carbon Brief
+” Carbon Brief
 
 2018.
 
-## Available
+# Available
 
 at: www.
 
 carbonbrief.
 
-### org/explainer-six-ideas-to-limit-
+org/explainer-six-ideas-to-limit-
 
 global-warming-with-solar-geoengineering
 
-## Gabbatt and agencies
+# Gabbatt and agencies
 
-## “IBM computer Watson wins
+“IBM computer Watson wins
 
 Jeopardy clash,” The Guardian, 2011.
 
-## Grubler et al
+# Grubler et al
 
-### “A low energy demand scenario for
+“A low energy demand scenario for
 
 meeting the 1.
 
-### 5°C target and sustainable development
+5°C target and sustainable development
 
 goals without negative emission technologies
 
-## ” Nature
+” Nature
 
 Energy,” 3 (6), 2018.
 
-## International Energy Agency
+# International Energy Agency
 
-## “Offshore wind outlook
+“Offshore wind outlook
 
 2019.
 
@@ -34384,13 +34384,13 @@ Energy,” 3 (6), 2018.
 
 iea.
 
-## org/reports/
+org/reports/
 
-## offshore-wind-outlook-2019
+offshore-wind-outlook-2019
 
-## Oxford Economics
+# Oxford Economics
 
-## “How robots change the world
+“How robots change the world
 
 ” 2019.
 
@@ -34398,27 +34398,27 @@ Available at: resources.
 
 oxfordeconomics.
 
-## com/
+com/
 
-## how-robots-change-the-world
+how-robots-change-the-world
 
-## Silver et al
+# Silver et al
 
-### “A general reinforcement learning
+“A general reinforcement learning
 
-## algorithm that masters chess
+algorithm that masters chess
 
 shogi, and Go through
 
 self-play,” Science, 362 (6419), 2018.
 
-## Soden et al
+# Soden et al
 
-### “Global cooling after the eruption of
+“Global cooling after the eruption of
 
-## Mount Pinatubo
+# Mount Pinatubo
 
-### a test of climate feedback by water
+a test of climate feedback by water
 
 vapor,” Science, 296 (5568), 2002.
 
@@ -34432,51 +34432,51 @@ Intelligence, Deckle Edge, 2017.
 
 ,” BBC News, 2020.
 
-## Chapter 16
+# Chapter 16
 
-## Bandilla
+# Bandilla
 
-## “Carbon capture and storage
+“Carbon capture and storage
 
-## ” Future
+” Future
 
 Energy, Elsevier, 2020.
 
-## De Wit et al
+# De Wit et al
 
-### The Circularity Gap Report 2020
+# The Circularity Gap Report 2020
 
-## Circle
+# Circle
 
 Economy, 2020.
 
-## Mercure et al
+# Mercure et al
 
 “Macroeconomic impact of stranded fossil
 
-## fuel assets
+fuel assets
 
-## ” Nature Climate Change
+” Nature Climate Change
 
-## 8 (7), 2018.
+8 (7), 2018.
 
-## Pretty et al
+# Pretty et al
 
 “Global assessment of agricultural system
 
 redesign for sustainable intensification
 
-## ” Nature
+” Nature
 
 Sustainability, 1 (8), 2018.
 
-## Chapter 17
+# Chapter 17
 
 IRENA, “Measuring the socio-economics of transition
 
-## Focus on jobs
+# Focus on jobs
 
-### ” International Renewable Energy Agency
+” International Renewable Energy Agency
 
 2020.
 
@@ -34484,35 +34484,35 @@ Available at: www.
 
 irena.
 
-## org/publications/2020/
+org/publications/2020/
 
 Feb/Measuring-the-socioeconomics-of-transition-Focus-
 
-## on-jobs
+on-jobs
 
-## Chapter 18
+# Chapter 18
 
 Ball, “The new history
 
-## ” Nature
+” Nature
 
-## 480 (7378)
+480 (7378)
 
 2011.
 
-## Centola et al
+# Centola et al
 
 “Experimental evidence for tipping points
 
-## in social convention
+in social convention
 
-## ” Science
+” Science
 
-## 360 (6393)
+360 (6393)
 
 2018.
 
-## Ewers et al
+# Ewers et al
 
 “Divestment may burst the carbon bubble if
 
@@ -34524,9 +34524,9 @@ policy,” arXiv:1902.
 
 Falk and O.
 
-## Gaffney et al
+# Gaffney et al
 
-## “Exponential climate action
+“Exponential climate action
 
 roadmap,” Future Earth, 2018.
 
@@ -34534,29 +34534,29 @@ Available at:
 
 exponentialroadmap.
 
-### org/wp-content/uploads/2018/09/
+org/wp-content/uploads/2018/09/
 
 Exponential-Climate-Action-Roadmap-September-2018.
 
-## pdf
+pdf
 
-## Lawson et al
+# Lawson et al
 
-### “Children can foster climate change
+“Children can foster climate change
 
-## concern among their parents
+concern among their parents
 
-## ” Nature Climate Change
+” Nature Climate Change
 
 (6), 2019.
 
-## Leiserowitz et al
+# Leiserowitz et al
 
-### Climate Change in the American Mind
+# Climate Change in the American Mind
 
-## November 2019
+# November 2019
 
-### Yale Program on Climate Change
+# Yale Program on Climate Change
 
 Communication, 2019.
 
@@ -34566,15 +34566,15 @@ climatecommunication.
 
 yale.
 
-## edu/wp-content/
+edu/wp-content/
 
 uploads/2019/12/Climate_Change_American_Mind_
 
 November_2019b.
 
-## PricewaterhouseCoopers
+# PricewaterhouseCoopers
 
-### “Navigating the rising tide of
+“Navigating the rising tide of
 
 uncertainty,” 23, 2020.
 
@@ -34582,11 +34582,11 @@ Available at: www.
 
 pwc.
 
-## com/gx/
+com/gx/
 
 en/ceo-agenda/ceosurvey/2020.
 
-## html
+html
 
 Taylor, J.
 
@@ -34596,13 +34596,13 @@ Bartlett, “Climate crisis: 6
 
 million people join latest wave of global protests
 
-## ” The
+” The
 
 Guardian, 2019.
 
 Watts, “Greta Thunberg
 
-## schoolgirl climate change
+schoolgirl climate change
 
 warrior: ‘Some people can let things go.
 
@@ -34610,13 +34610,13 @@ I can’t,’” The
 
 Guardian, 2019.
 
-## YouGov
+# YouGov
 
 “Climate change protesters have been disrupting
 
-## roads and public transport
+roads and public transport
 
-## aiming to ‘shut down
+aiming to ‘shut down
 
 London’ in order to bring attention the their cause.
 
@@ -34624,31 +34624,31 @@ you support or oppose these actions?
 
 ,” 2010.
 
-## Available
+# Available
 
 at: yougov.
 
-### uk/topics/science/survey-results/
+uk/topics/science/survey-results/
 
-## daily/2019/04/17/35ede/1
+daily/2019/04/17/35ede/1
 
-## “1000+ Divestment Commitments
+“1000+ Divestment Commitments
 
-## ” Fossil Free
+” Fossil Free
 
 Divestment.
 
 Available at: gofossilfree.
 
-## org/divestment/commitments/
+org/divestment/commitments/
 
-## Chapter 19
+# Chapter 19
 
-## Grinspoon
+# Grinspoon
 
-## Earth in Human Hands
+# Earth in Human Hands
 
-## Shaping our Planet’s
+Shaping our Planet’s
 
 Future, Grand Central Publishing, 2016.
 
@@ -34656,33 +34656,33 @@ US_228-240_321647_BB_End_Matter.
 
 indd 232US_228-240_321647_BB_End_Matter.
 
-## indd 232 16/02/2021 11
+indd 232 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 233 INDEX
+233 INDEX
 
-## INDEX
+# INDEX
 
-## 3-D printing 217
+3-D printing 217
 
-## 5G technology 178
+5G technology 178
 
 acid rain 68, 225
 
 aerosols 85, 86–87, 140
 
-## Africa
+# Africa
 
 climate change 43, 147
 
-## droughts and floods 147
+droughts and floods 147
 
 early man 40, 41, 42, 46
 
-## investment in 217
+investment in 217
 
-## life expectancy 168
+life expectancy 168
 
 population 158, 159, 165, 167, 170
 
@@ -34692,25 +34692,25 @@ agricultural revolution 46, 50, 54, 57,
 
 62, 137, 197, 220
 
-## agriculture
+agriculture
 
-## and Carbon Law 125
+and Carbon Law 125
 
-## climate system and 77
+climate system and 77
 
 early 21, 49–50, 51, 52
 
-## global 131–32
+global 131–32
 
-## nutrients planetary boundary
+nutrients planetary boundary
 
-## 83–84
+83–84
 
 pollution from 83, 131–32, 140
 
-## precision 216
+precision 216
 
-### regeneration and recirculation
+regeneration and recirculation
 
 138, 223
 
@@ -34726,7 +34726,7 @@ aircraft emissions 120, 121, 149,
 
 173, 208
 
-## algorithms 177
+algorithms 177
 
 Amazon 143, 175, 176, 178, 215,
 
@@ -34738,17 +34738,17 @@ as carbon sink 78, 95, 222
 
 changes to 67, 101, 224
 
-## droughts 100
+droughts 100
 
 drying 87, 93–94
 
-## rainfall 81
+rainfall 81
 
 tipping point 16, 72, 220
 
 Anderson, Kevin 120, 121
 
-## Ant Forest 216–17
+Ant Forest 216–17
 
 Antarctica 28, 34, 93, 113, 119, 220
 
@@ -34770,21 +34770,21 @@ cities 157, 158, 160
 
 economy 16, 184, 189
 
-## health risks 169–70
+health risks 169–70
 
-## inequality in 147–49
+inequality in 147–49
 
 antibiotics 58, 169, 177
 
 Apple 154, 217aquaculture 169
 
-## Archaean eon 24
+# Archaean eon 24
 
 Arctic 92–93, 100–01
 
 Ardern, Jacinda 212
 
-## Aristotle 22
+# Aristotle 22
 
 artificial intelligence 86, 172, 175,
 
@@ -34792,15 +34792,15 @@ artificial intelligence 86, 172, 175,
 
 asteroids 27, 28
 
-## astronomy 226
+astronomy 226
 
 Atlantic Ocean 93, 100
 
-## atmosphere
+atmosphere
 
-## exoplanets 226
+exoplanets 226
 
-## stewardship 113
+stewardship 113
 
 Attenborough, David 12, 47, 114
 
@@ -34822,9 +34822,9 @@ Bezos, Jeff 143, 217
 
 Biden, Joe 152, 212
 
-## biodiversity
+biodiversity
 
-## increase in 30
+increase in 30
 
 loss 13, 87, 97, 199, 227
 
@@ -34832,43 +34832,43 @@ planetary boundary 81–82, 87, 88,
 
 134, 198, 221
 
-## bioenergy 138
+bioenergy 138
 
 biofuels 87, 141
 
-## biological weapons 85
+biological weapons 85
 
 biomass 82, 138, 140, 222
 
 biomes, critical 81
 
-## biosphere
+biosphere
 
 and Earth’s stability 59, 91, 92, 226
 
 emergence of 27, 28
 
-## four boundaries 80–84
+four boundaries 80–84
 
-## Holocene 48
+# Holocene 48
 
-## human dominance of 62
+human dominance of 62
 
-## reconnecting with 110
+reconnecting with 110
 
 stewardship 113, 115, 190
 
-## biosphere integrity 81
+biosphere integrity 81
 
-## birth defects 86
+birth defects 86
 
-## birth rate 165
+birth rate 165
 
-## Black Death 55
+# Black Death 55
 
-## black holes 20
+black holes 20
 
-## blockchain 178
+blockchain 178
 
 Bloomberg, Michael 150
 
@@ -34884,21 +34884,21 @@ brain capacity 31, 42–45, 46, 62, 220
 
 Brazil 97, 111, 114, 132, 202
 
-## Breakthrough Energy 215
+# Breakthrough Energy 215
 
 Brexit 103, 202, 211
 
-### British Antarctic Survey 79Buffett
+# British Antarctic Survey 79Buffett
 
-## Warren 150
+# Warren 150
 
 buildings 126, 172, 191, 192, 193
 
 Burke, Marshall 148
 
-## Cambrian explosion 27–28
+Cambrian explosion 27–28
 
-## Canberra 155
+# Canberra 155
 
 capitalism 54, 55, 60–61, 152, 176,
 
@@ -34916,41 +34916,41 @@ carbon capture and storage 180–81,
 
 carbon cycle 12, 16, 21, 29, 59, 91
 
-## carbon dioxide
+carbon dioxide
 
-## cities as emitters of 156
+cities as emitters of 156
 
 control of Earth’s climate 29–30,
 
 36, 49
 
-## fossil fuel emissions 199
+fossil fuel emissions 199
 
 from oceans 38, 91, 179
 
 historic vs. current levels 38, 59, 94
 
-## in Holocene 49
+in Holocene 49
 
-## impact on global warming 88
+impact on global warming 88
 
 and melting ice 38, 91
 
-## nature as emitter of 72
+nature as emitter of 72
 
 and ocean acidity 80, 95, 179
 
-## PETM event 31
+# PETM event 31
 
-### population control and reduced
+population control and reduced
 
-## emissions 170
+emissions 170
 
-## putting a price on emissions
+putting a price on emissions
 
-## 199–200
+199–200
 
-### removal from atmosphere 122–28
+removal from atmosphere 122–28
 
 safe atmospheric levels 78, 99
 
@@ -34968,7 +34968,7 @@ weathering and control of 29–30,
 
 31, 220
 
-## zero emissions targets 198
+zero emissions targets 198
 
 carbon footprints 56, 148–49, 165
 
@@ -34982,11 +34982,11 @@ carbon price 105, 141, 192–93,
 
 199–200, 202
 
-## Carbon shock 194
+# Carbon shock 194
 
-## Carbon shock plus 194–95
+Carbon shock plus 194–95
 
-## carbon sinks
+carbon sinks
 
 agriculture and food 133, 138, 139,
 
@@ -34994,7 +34994,7 @@ agriculture and food 133, 138, 139,
 
 Amazon 72, 78
 
-## ocean 29
+ocean 29
 
 plants and trees 30, 75, 94, 103
 
@@ -35002,59 +35002,59 @@ protecting 125, 137
 
 carbon tax 144–45, 153, 154, 200
 
-## carbon trading 178
+carbon trading 178
 
 US_228-240_321647_BB_End_Matter.
 
 indd 233US_228-240_321647_BB_End_Matter.
 
-## indd 233 16/02/2021 11
+indd 233 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 234 INDEX
+234 INDEX
 
 Carney, Mark 114
 
 CFCs 79, 85
 
-## chemical weapons 85
+chemical weapons 85
 
-## Chernobyl 99
+# Chernobyl 99
 
-## children
+children
 
 birthright 114, 227
 
 influence of 207–08, 218, 221
 
-## nutrition 62
+nutrition 62
 
 peak child 57, 165, 166
 
-## China
+# China
 
-## agriculture 49
+agriculture 49
 
 COVID-19 66, 108
 
 economy 58, 66, 201
 
-## electric transportation 162
+electric transportation 162
 
 energy sources 195, 213–14
 
 greenhouse gas emissions 187, 216
 
-## nuclear tests 85
+nuclear tests 85
 
 pollution 86, 162
 
-## population 167
+population 167
 
 urbanization 56, 158
 
-## chlorine 79
+chlorine 79
 
 Churchill, Winston 151
 
@@ -35062,55 +35062,55 @@ circular economy 126, 170, 191, 216,
 
 217, 223
 
-## cities and towns
+cities and towns
 
 coastal 103, 159–60, 193, 224
 
 growth of 52, 53, 54, 55, 56, 97
 
-## resilience of 157
+resilience of 157
 
 system transformation 15, 155–64,
 
 214, 215
 
-## climate
+climate
 
 Holocene 48, 49
 
-## models 92
+models 92
 
-## natural cycles 50
+natural cycles 50
 
 planetary boundary 77–78, 87, 88,
 
 98, 134, 221
 
-## three states 25–27
+three states 25–27
 
 tipping points 72, 95, 101
 
-## climate change 15
+climate change 15
 
-## acceleration 224
+acceleration 224
 
-## and globalization 97
+and globalization 97
 
-## health challenges 166
+health challenges 166
 
 historical 34–39, 43
 
-## and inequality 147–48
+and inequality 147–48
 
-## management 118
+management 118
 
-## media coverage 90
+media coverage 90
 
 sceptics 50, 208, 209
 
-## climate emergencies 103–04
+climate emergencies 103–04
 
-## cloud seeding 180
+cloud seeding 180
 
 Club of Rome 104, 109
 
@@ -35120,35 +35120,35 @@ coastline, changing 102–03
 
 collective action 15, 108, 225
 
-## collective responsibility 151
+collective responsibility 151
 
 colonialism 55, 60, 61
 
-## computer control 176–79
+computer control 176–79
 
 congestion 157, 159, 163, 164
 
-## Congo rain forest 82
+# Congo rain forest 82
 
 consumerism 61, 112, 150–51, 186
 
-## cooperation
+cooperation
 
 international 96, 119, 169–70, 196,
 
 202, 226
 
-## social 42
+social 42
 
 43, 44–45
 
 52, 96
 
-## 225Copenhagen 150
+225Copenhagen 150
 
-## 160–63
+160–63
 
-### Copenhagen climate summit (2009)
+Copenhagen climate summit (2009)
 
 74, 121
 
@@ -35158,7 +35158,7 @@ coral reefs 13, 59, 78, 80, 100,
 
 180, 222
 
-## Covenant of Mayors 157
+# Covenant of Mayors 157
 
 COVID-19 51, 96–7, 196–97, 206
 
@@ -35174,11 +35174,11 @@ exponential growth 65–66,
 
 204, 223
 
-## and food system 130
+and food system 130
 
-## gene sequence 169
+gene sequence 169
 
-## reduction in greenhouse gas
+reduction in greenhouse gas
 
 emissions 118, 187
 
@@ -35190,35 +35190,35 @@ Croll, James 34–35
 
 Crona, Beatrice 115
 
-## crops
+crops
 
-## area covered by 57
+area covered by 57
 
 collapse of 104, 136, 147, 166
 
 fertilizers 53, 57, 83, 84, 139, 192
 
-## genetically modified 180
+genetically modified 180
 
-## rotation 84
+rotation 84
 
-## swapping livestock for 107
+swapping livestock for 107
 
 yields 98, 137
 
 Crutzen, Paul 69–70, 108–09
 
-### cultural intelligence hypothesis
+cultural intelligence hypothesis
 
 43, 44
 
-## cyanobacteria 24–25
+cyanobacteria 24–25
 
-## dairy production 107
+dairy production 107
 
 Darwin, Charles 221
 
-## DDT 85
+# DDT 85
 
 dead zones 20, 72, 83, 108, 220
 
@@ -35232,7 +35232,7 @@ deforestation 14, 21, 50, 51, 67, 68,
 
 stopping 13, 99, 105, 199, 219
 
-## degrowth 187–88
+degrowth 187–88
 
 Delhi 86, 140, 160
 
@@ -35268,11 +35268,11 @@ disease 49, 58, 68, 76, 86, 97, 104,
 
 166, 173
 
-## see also COVID-19
+see also COVID-19
 
-## pandemicsDixson-Declève
+pandemicsDixson-Declève
 
-## Sandrine 104
+# Sandrine 104
 
 DNA 33, 46, 58, 79
 
@@ -35280,9 +35280,9 @@ domestication 44, 49, 50
 
 domino effect 92, 94, 220
 
-## Amazon 92–94
+Amazon 92–94
 
-## Arctic 92
+# Arctic 92
 
 cascading tipping points 98, 100,
 
@@ -35300,27 +35300,27 @@ droughts 51, 76, 98, 222
 
 Amazon 67, 100
 
-## and fires 87
+and fires 87
 
 and food production 104, 134, 141,
 
 194, 195
 
-## and irrigation 52
+and irrigation 52
 
-## e-commerce 216
+e-commerce 216
 
-## e-finance 216–17
+e-finance 216–17
 
-## Earth
+# Earth
 
-## age of 22–23
+age of 22–23
 
 climatic states 25–27, 32
 
-## evolutionary stages 20–28
+evolutionary stages 20–28
 
-## future of 227
+future of 227
 
 hair trigger 38, 48, 71, 91
 
@@ -35332,9 +35332,9 @@ planetary boundaries 74–88, 204,
 
 221, 227
 
-## planetary emergency 96–105
+planetary emergency 96–105
 
-## planetary stewardship 107–17
+planetary stewardship 107–17
 
 self-regulation system 28–30,
 
@@ -35348,15 +35348,15 @@ tipping points 71–72, 75, 91, 92,
 
 93, 220–21, 224
 
-## vicious cycles 67
+vicious cycles 67
 
-## Earth League 120
+# Earth League 120
 
-## earthquakes 68
+earthquakes 68
 
-## Earthshot
+# Earthshot
 
-## and cities 163
+and cities 163
 
 concept of 13–14, 104–05, 116–17,
 
@@ -35364,7 +35364,7 @@ concept of 13–14, 104–05, 116–17,
 
 economics 192–93, 225
 
-## and energy transformation
+and energy transformation
 
 119, 128
 
@@ -35372,13 +35372,13 @@ and planetary stewardship 16,
 
 17, 108
 
-## politics and policies 196–203
+politics and policies 196–203
 
 and population 169, 170
 
 and technology 172, 175
 
-## EAT Forum 133
+# EAT Forum 133
 
 EAT-Lancet Commission 133,
 
@@ -35386,9 +35386,9 @@ EAT-Lancet Commission 133,
 
 ecological collapse 97, 220
 
-### ecological intelligence hypotheses
+ecological intelligence hypotheses
 
-## 42–43
+42–43
 
 economic growth 54–61, 144, 156,
 
@@ -35400,13 +35400,13 @@ US_228-240_321647_BB_End_Matter.
 
 indd 234US_228-240_321647_BB_End_Matter.
 
-## indd 234 23/02/2021 10
+indd 234 23/02/2021 10
 
-## 5523/02/2021 10
+5523/02/2021 10
 
-## 235 INDEX
+235 INDEX
 
-## economy
+economy
 
 and COVID-19 103, 118, 170, 225
 
@@ -35416,9 +35416,9 @@ economic tipping point 116, 205,
 
 213–15, 218
 
-## end of exponential growth 73
+end of exponential growth 73
 
-## fossil fuel 118
+fossil fuel 118
 
 global 15, 54, 56, 105, 146,
 
@@ -35436,33 +35436,33 @@ rebuilding 16, 62, 73, 103, 105,
 
 225, 227
 
-## within planetary boundaries
+within planetary boundaries
 
 182–95, 196
 
-## worst case scenario 193–95
+worst case scenario 193–95
 
-## ecosystems
+ecosystems
 
 big natural 81, 82
 
-## biodiversity and 81
+biodiversity and 81
 
 building resilience of 105, 227
 
-## and Earth’s stability 30
+and Earth’s stability 30
 
 fertilizers and 83, 84
 
-## integrity of 82
+integrity of 82
 
 stewardship 113, 141, 198
 
-## water and 83
+water and 83
 
-## Edmund Hillary Fellowship and
+# Edmund Hillary Fellowship and
 
-## Institute 111
+# Institute 111
 
 education 61, 146, 150, 183, 185,
 
@@ -35476,13 +35476,13 @@ Egyptians, ancient 53, 193
 
 El Niño 72, 93
 
-## electricity
+electricity
 
 advent of 56, 58
 
-## reducing consumption 162
+reducing consumption 162
 
-## storage 193
+storage 193
 
 sustainable generation 128, 173,
 
@@ -35490,27 +35490,27 @@ sustainable generation 128, 173,
 
 electrification 126, 153, 155
 
-## elliptical shift 35
+elliptical shift 35
 
 empires 52, 53, 55
 
-## endocrine disruptors 140
+endocrine disruptors 140
 
-## energy
+energy
 
 access to 183, 185
 
-## average usage 59
+average usage 59
 
 and economic growth 55, 186
 
-## reducing consumption 174
+reducing consumption 174
 
 renewable 126, 127, 128, 155–56,
 
 172, 173, 174, 175, 190, 213–14
 
-## storing potential 173
+storing potential 173
 
 system transformation 15, 118–28,
 
@@ -35520,25 +35520,25 @@ Enlightenment 52, 53
 
 environment, and inequality 144
 
-## environmental collapse 108
+environmental collapse 108
 
 environmental impact 55, 131, 223
 
 environmental stewardship 51,
 
-## 111–12
+111–12
 
-## environmentalism 210
+environmentalism 210
 
 equal societies 149–52European Central Bank 152
 
-## 221–22
+221–22
 
 European Union 61, 131, 152,
 
 198, 212
 
-## eutrophication 132
+eutrophication 132
 
 evolution 16, 21, 221
 
@@ -35548,11 +35548,11 @@ exponential growth 65–66, 73, 123,
 
 204, 205
 
-## Exponential Roadmaps 126–27
+Exponential Roadmaps 126–27
 
-### exponential technologies 173–74
+exponential technologies 173–74
 
-## Extinction Rebellion see XR
+# Extinction Rebellion see XR
 
 extinctions 13, 15, 81
 
@@ -35574,11 +35574,11 @@ factories 56, 188, 191, 197
 
 Falk, Johan 123, 126
 
-## family planning 170
+family planning 170
 
 famine 49, 57, 83, 166, 195
 
-## farming see agriculture
+farming see agriculture
 
 feedback loops 26, 38, 61, 66–67, 110,
 
@@ -35594,7 +35594,7 @@ Figueres, Christiana 118, 119, 195
 
 finance sector 193, 194, 217
 
-## Financial Stability Board 114
+# Financial Stability Board 114
 
 Fink, Larry 114–15, 194
 
@@ -35602,11 +35602,11 @@ Finland 128, 150, 187, 190, 212
 
 fires 13, 89, 195, 222
 
-## Amazon 94
+# Amazon 94
 
 Arctic 72, 101
 
-## Brazil 114
+# Brazil 114
 
 forest 86–87, 114
 
@@ -35614,7 +35614,7 @@ megafires 111, 193
 
 Siberia 51, 101
 
-## First Nations 111
+# First Nations 111
 
 Fischler, Bernadette 104
 
@@ -35622,11 +35622,11 @@ fishing grounds 112, 115
 
 Fleming, Alexander 58
 
-## flexitarian diet 135
+flexitarian diet 135
 
 flood defenses 159, 160, 193, 224
 
-## flood plains 148
+flood plains 148
 
 floods 48, 76, 104, 134, 141, 157,
 
@@ -35638,19 +35638,19 @@ food 46, 180
 
 access to 183, 185
 
-## environmental impact 131
+environmental impact 131
 
-## green revolution 53
+green revolution 53
 
 and health 132–33, 216
 
 increased production 57, 131
 
-## and inequality 147
+and inequality 147
 
-## insecurity 134
+insecurity 134
 
-## intake 59
+intake 59
 
 planetary boundaries 83–84, 136,
 
@@ -35664,19 +35664,19 @@ sustainable 130, 133, 140
 
 system transformation 15, 116,
 
-## 129–41
+129–41
 
 waste 126, 132, 136–37, 168,
 
 191, 216
 
-## food web 138
+food web 138
 
 forests 12, 71, 75, 81, 82, 94, 112,
 
 138, 198
 
-## destruction of 97
+destruction of 97
 
 drying out 87, 92, 100, 195
 
@@ -35688,15 +35688,15 @@ fossil fuels 59, 61, 87, 100, 173–74,
 
 194, 195
 
-## ending investments in new 199
+ending investments in new 199
 
 and global temperatures 31, 90,
 
 94–95, 134
 
-## and ocean acidification 80
+and ocean acidification 80
 
-## reducing emissions 120
+reducing emissions 120
 
 subsidies for 105, 115, 127, 199
 
@@ -35714,7 +35714,7 @@ Friedman, Milton 222
 
 fuel prices 144, 153
 
-## Fukushima 99
+# Fukushima 99
 
 Future Earth 120, 126, 219
 
@@ -35726,13 +35726,13 @@ GDP 56, 117, 156, 185, 197, 211
 
 gender equality 57, 154
 
-## genetic diversity 81
+genetic diversity 81
 
-## genetic risk 86
+genetic risk 86
 
 geoengineering 173, 179–81
 
-## geopolitics 134
+geopolitics 134
 
 glaciers 77, 92–93, 101–02
 
@@ -35756,13 +35756,13 @@ targets 78, 95, 99, 121, 122
 
 globalization 97, 201
 
-## Golden Age of Capitalism 60
+# Golden Age of Capitalism 60
 
-## Goldilocks epoch 47–62
+Goldilocks epoch 47–62
 
 Google 116, 154, 175, 176, 179, 217
 
-## government 196–203
+government 196–203
 
 Great Acceleration 59–61, 68, 69, 85,
 
@@ -35772,21 +35772,21 @@ Great Barrier Reef 59, 80
 
 Great Depression 61, 145–46, 184
 
-## Great Oxygenation Event 24
+# Great Oxygenation Event 24
 
 Great Rift Valley 42, 43
 
-## green cities 163
+green cities 163
 
 US_228-240_321647_BB_End_Matter.
 
 indd 235US_228-240_321647_BB_End_Matter.
 
-## indd 235 16/02/2021 11
+indd 235 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 236 INDEX
+236 INDEX
 
 Green Deals 15, 152, 154, 197
 
@@ -35796,21 +35796,21 @@ government support 153, 205
 
 United States 152, 212
 
-## green growth 186–88
+green growth 186–88
 
-## green revolution 53
+green revolution 53
 
-## green-green revolution 137
+green-green revolution 137
 
-## greenhouse gases
+greenhouse gases
 
-## and air pollution 105
+and air pollution 105
 
 COVID-19 and emissions 118, 187
 
 cutting emissions 116, 122–28, 227
 
-## deforestation and 50
+deforestation and 50
 
 and Earth’s temperature 26, 38,
 
@@ -35820,45 +35820,45 @@ emissions 13, 20, 59, 61, 92, 94,
 
 108, 122, 186, 220
 
-## European Union target 152
+# European Union target 152
 
-## fires and 51
+fires and 51
 
 food and 133, 137, 141
 
-## fossil fuels and 105
+fossil fuels and 105
 
-## halving emissions 219
+halving emissions 219
 
-### ice sheet and reduced emissions 71
+ice sheet and reduced emissions 71
 
-## livestock and emissions 107
+livestock and emissions 107
 
 net zero emissions 198, 211–12
 
 sucking from atmosphere 179, 220
 
-## tipping point 94
+tipping point 94
 
 trapped in ice 37, 92, 100
 
-## trees and 81
+trees and 81
 
-## urgent need to reduce 103
+urgent need to reduce 103
 
 see also carbon dioxide; methane;
 
 nitrous oxide; ozone layer
 
-## Greenland
+# Greenland
 
 ice sheet 16, 67, 72, 92, 93, 100,
 
 101, 102, 220
 
-## sea levels 77
+sea levels 77
 
-## Greenpeace 210
+# Greenpeace 210
 
 Grinspoon, David 219, 226–27
 
@@ -35866,15 +35866,15 @@ groundwater 89, 131, 133
 
 growth, limits to 109
 
-## guano 57
+guano 57
 
 Gutenberg, Johannes 52
 
 Haber, Fritz 57
 
-## habitable zone 19
+habitable zone 19
 
-## habitat loss 97
+habitat loss 97
 
 Hadean eon 23, 24, 226
 
@@ -35884,7 +35884,7 @@ Hawken, Paul 125–26
 
 haziness, atmospheric 87
 
-## health
+health
 
 and food 132–33, 135–36
 
@@ -35892,7 +35892,7 @@ improvements in 57, 58, 147
 
 inequality 149, 150
 
-## national healthcare 61
+national healthcare 61
 
 and new economy 183, 185,
 
@@ -35902,19 +35902,19 @@ system transformation 15, 165–70
 
 see also COVID-19; disease;
 
-## pandemics
+pandemics
 
-## heat reflection 179–80
+heat reflection 179–80
 
 heat waves 51, 76, 80, 89, 98, 101,
 
 134, 141, 157
 
-## heavy metals 85Henriksson
+heavy metals 85Henriksson
 
-## Henrik 184
+# Henrik 184
 
-## herbicides 140
+herbicides 140
 
 Himalayas 28, 30
 
@@ -35926,13 +35926,13 @@ Holocene epoch 17, 38, 47–62, 68,
 
 stability of 70–71, 75, 78, 81, 94, 104
 
-## hominin species 41–42
+hominin species 41–42
 
-## Homo sapiens
+# Homo sapiens
 
-## evolution 40–46
+evolution 40–46
 
-## spread of 49
+spread of 49
 
 Horton, Richard 133
 
@@ -35942,13 +35942,13 @@ hothouse Earth 25, 26, 32, 78, 89–95,
 
 housing 183, 185, 191, 210
 
-## humanity
+humanity
 
 evolution 31, 39, 40–46
 
 impact on planet 32, 55, 57, 68–69
 
-## safe operating space for 76
+safe operating space for 76
 
 Humboldt, Alexander von 33
 
@@ -35960,11 +35960,11 @@ hydrothermal vents 25, 26
 
 ice ages 25, 26, 28, 32, 70
 
-## causes of 34–36
+causes of 34–36
 
 cycle of 33, 37, 38, 91
 
-## and human cognitive power 43
+and human cognitive power 43
 
 last 46, 47, 104
 
@@ -35978,17 +35978,17 @@ melting 13, 16, 20, 38, 48, 67, 71,
 
 78, 92, 93, 100, 101–02, 195, 222
 
-## icehouse Earth
+icehouse Earth
 
 climatic states 25, 26, 27, 94, 220
 
 decent into 28–30, 33
 
-## PETM catastrophe 31
+# PETM catastrophe 31
 
 Iceland 188, 212
 
-## Inca civilization 68
+# Inca civilization 68
 
 India 28, 50, 58, 86, 87, 140, 158,
 
@@ -35996,43 +35996,43 @@ India 28, 50, 58, 86, 87, 140, 158,
 
 indigenous peoples 111, 112
 
-## Indonesian rain forest 82
+# Indonesian rain forest 82
 
 industrial revolution 48, 53, 62, 70,
 
 212, 214, 220
 
-## and exploitation of natural
+and exploitation of natural
 
-## resources 66
+resources 66
 
-## and fertilizer use 57
+and fertilizer use 57
 
 fourth 15, 215
 
-## and geological change 34
+and geological change 34
 
-## and greenhouse gas emissions
+and greenhouse gas emissions
 
 49, 100
 
 in overdrive 26–27, 59
 
-## and urbanization 56
+and urbanization 56
 
 industrialization 68, 108, 156, 168
 
 industry, carbon emissions 87,
 
-## 124–25
+124–25
 
 inequality 15, 76, 142–54, 185, 202
 
 infinity, assumption of 222
 
-## information
+information
 
-## deluge 115–16
+deluge 115–16
 
 personal 176information economy 189, 192
 
@@ -36040,7 +36040,7 @@ infrastructure projects 153–54, 163,
 
 186, 193, 198
 
-## insecticides 85
+insecticides 85
 
 interconnectedness 44, 108, 112
 
@@ -36048,25 +36048,25 @@ interglacials 25, 35, 38, 43, 70,
 
 91, 102
 
-### Intergovernmental Panel on Climate
+# Intergovernmental Panel on Climate
 
 Change (IPCC) 98, 102, 121,
 
 159, 211
 
-### Intergovernmental Science-Policy
+# Intergovernmental Science-Policy
 
-## Platform on Biodiversity and
+# Platform on Biodiversity and
 
-## Ecosystem Service 99
+# Ecosystem Service 99
 
-## International Commission on
+# International Commission on
 
-## Stratigraphy 70
+# Stratigraphy 70
 
-### International Council for Science
+# International Council for Science
 
-### International Geosphere-Biosphere
+# International Geosphere-Biosphere
 
 Program (IGBP) 69, 74
 
@@ -36074,7 +36074,7 @@ International Monetary Fund 60,
 
 151, 152, 203, 222
 
-## Internet of things 176
+# Internet of things 176
 
 investment, borrowing for 153–54,
 
@@ -36082,7 +36082,7 @@ irrigation 52–53, 68, 134
 
 islands, submerging 103
 
-## Jakarta 160
+# Jakarta 160
 
 Jakobsdóttir, Katrín 212
 
@@ -36120,7 +36120,7 @@ knowledge economy 189, 192
 
 knowledge, spread of 52
 
-## Kolkata 160
+# Kolkata 160
 
 Köppen, Wladimir 36
 
@@ -36128,9 +36128,9 @@ Kuznets, Simon 185
 
 lakes 12, 21, 83, 132, 133, 224
 
-## land
+land
 
-## absorption of emissions 95
+absorption of emissions 95
 
 agricultural 57, 105, 134, 135, 137
 
@@ -36142,7 +36142,7 @@ planetary boundary 81, 82, 87, 134
 
 system transformation 15, 140–41
 
-## landscape planning 138
+landscape planning 138
 
 language, evolution of 43, 44, 52
 
@@ -36154,11 +36154,11 @@ US_228-240_321647_BB_End_Matter.
 
 indd 236US_228-240_321647_BB_End_Matter.
 
-## indd 236 16/02/2021 11
+indd 236 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 237 INDEX
+237 INDEX
 
 legislation 198, 211
 
@@ -36168,23 +36168,23 @@ less developed countries 60, 84, 124,
 
 143, 147–48, 186
 
-## life
+life
 
-## diversity 27
+diversity 27
 
-## on Earth 20–21
+on Earth 20–21
 
-## and Earth’s support system 30
+and Earth’s support system 30
 
 on other planets 19–20, 226
 
-## water and 82–83
+water and 82–83
 
 life expectancy 149, 150, 167–68
 
 Linnaeus, Carl 40
 
-## Little Ice Age 50
+# Little Ice Age 50
 
 livestock 57, 107, 169
 
@@ -36206,7 +36206,7 @@ Luettich, Rick 159
 
 Lyell, Charles 22
 
-## machine learning 176–77
+machine learning 176–77
 
 McPhearson, Timon 163
 
@@ -36218,21 +36218,21 @@ malaria 86, 166
 
 mammals 14, 21, 31, 87
 
-## man-made substances 85–87
+man-made substances 85–87
 
 manufacturing 126, 201
 
-## Māori culture 111–12
+Māori culture 111–12
 
 Margulis, Lynn 30, 73
 
 market forces 55, 222
 
-## marketing 176
+marketing 176
 
 Markey, Edward 212
 
-## Mātauranga Māori 112
+Mātauranga Māori 112
 
 materialism 112, 150–51
 
@@ -36250,9 +36250,9 @@ media 89–90, 121, 124, 130, 144,
 
 medicine 58, 166
 
-## Mediterranean diet 136
+# Mediterranean diet 136
 
-## megacities 158
+megacities 158
 
 megafires 111, 193
 
@@ -36260,27 +36260,27 @@ Meinshausen, Malte 124
 
 Mesopotamia 49, 51, 53, 68
 
-## meteorites 21
+meteorites 21
 
 methane 16, 37, 59, 67
 
-## methane hydrate beds 31
+methane hydrate beds 31
 
 microbes 30, 81
 
-## microplastics 85
+microplastics 85
 
 Milankovitch, Milutin 35
 
 milk, plant-based 107
 
-## Milky Way 20
+# Milky Way 20
 
 mining 56, 86, 186, 190, 199, 201
 
 monsoons 87, 93
 
-### Montreal Protocol on Substances
+# Montreal Protocol on Substances
 
 that Deplete the Ozone Layer 79moon landings 13
 
@@ -36294,7 +36294,7 @@ Moore, Gordon 123
 
 Moore’s Law 123, 124, 175
 
-## Mount Pinatubo 179–80
+Mount Pinatubo 179–80
 
 Mount Toba 30, 46
 
@@ -36302,9 +36302,9 @@ Musk, Elon 172–73
 
 Nakicenovic, Nebojsa 113, 124
 
-## nanoparticles 85
+nanoparticles 85
 
-## nanotechnology 217
+nanotechnology 217
 
 NASA 19, 123
 
@@ -36312,25 +36312,25 @@ natural disasters, climate-related
 
 111, 148
 
-## natural resources
+natural resources
 
-## boundaries for use 113
+boundaries for use 113
 
 depletion of 69, 73, 109
 
 extraction 55, 59, 186, 191
 
-## regeneration 190–91
+regeneration 190–91
 
-## natural selection 221
+natural selection 221
 
-## nature
+nature
 
 resilience of 81, 190
 
-## taxing destruction of 153
+taxing destruction of 153
 
-## warming cycle 91
+warming cycle 91
 
 zero loss 137, 141, 170, 198,
 
@@ -36340,11 +36340,11 @@ Neanderthals 42, 43, 44
 
 neoliberalism 184, 188
 
-## networks 53–54
+networks 53–54
 
 New Deal 146, 151, 184
 
-## New Orleans 159–60
+New Orleans 159–60
 
 New York 56, 150, 158, 160,
 
@@ -36362,19 +36362,19 @@ nitrogen cycle 12, 16, 21, 29, 59,
 
 81, 84
 
-## nitrous oxide 59
+nitrous oxide 59
 
 Nobre, Carlos 94
 
-## nonviolent resistance 209
+nonviolent resistance 209
 
 Noone, Kevin 74–75
 
 Nordic model 149–50, 151, 153, 190
 
-## North American Free Trade
+# North American Free Trade
 
-## Agreement 109
+# Agreement 109
 
 North Pole 28, 34
 
@@ -36382,15 +36382,15 @@ Norway 128, 150, 160, 190, 212, 215
 
 novel entities 85–86, 140
 
-## nuclear disasters 99
+nuclear disasters 99
 
-## nuclear energy 183–84
+nuclear energy 183–84
 
-## nuclear weapons 85
+nuclear weapons 85
 
-## nutrients
+nutrients
 
-## excess 132
+excess 132
 
 planetary boundary 81, 83–84, 87,
 
@@ -36412,21 +36412,21 @@ circulation 48, 93, 100
 
 dead zones 20, 72
 
-## fish population 147
+fish population 147
 
 and heat distribution 75, 80
 
-## oxygen loss 59
+oxygen loss 59
 
 rebuilding resilience 99, 125
 
-## release of carbon dioxide 38
+release of carbon dioxide 38
 
-## safe boundary 80
+safe boundary 80
 
 stewardship 113, 115, 191, 223
 
-## warming 67
+warming 67
 
 oil 31, 55, 60, 122, 127, 146, 175,
 
@@ -36434,11 +36434,11 @@ oil 31, 55, 60, 122, 127, 146, 175,
 
 oil reservoirs, used 180
 
-## OPEC 208
+# OPEC 208
 
-## Organization for Economic
+# Organization for Economic
 
-## Cooperation and Development
+# Cooperation and Development
 
 Österblom, Henrik 115
 
@@ -36446,9 +36446,9 @@ Ostrom, Elinor 112–13
 
 Otto, Ilona 148, 214
 
-## outer space 113
+outer space 113
 
-## Oxfam 145
+# Oxfam 145
 
 oxygen 21, 24, 29, 82, 226
 
@@ -36458,7 +36458,7 @@ hole in 13, 59, 68, 71, 79, 85, 117,
 
 219–20, 225
 
-## Paleocene–Eocene Thermal
+Paleocene–Eocene Thermal
 
 Maximum (PETM) 31, 80
 
@@ -36466,9 +36466,9 @@ pandemics 13, 165, 225
 
 see also Black Death; COVID-19;
 
-## Spanish flu
+# Spanish flu
 
-## Pangaea 28
+# Pangaea 28
 
 paradigm shift 17, 108–09,
 
@@ -36496,7 +36496,7 @@ Peterson, Garry 72
 
 Pettersson, Åsa 209
 
-## pharmaceutical industry 169
+pharmaceutical industry 169
 
 phosphorus 83, 131, 141
 
@@ -36506,9 +36506,9 @@ phosphorus cycle 12, 16, 29, 59,
 
 photosynthesis 21, 24, 82, 220, 226
 
-## photovoltaic cells 213
+photovoltaic cells 213
 
-## phytoplankton 80
+phytoplankton 80
 
 Pickett, Kate 149, 150, 151
 
@@ -36516,7 +36516,7 @@ Piketty, Thomas 145, 153,
 
 154, 202
 
-## Pine Island Glacier 101–02
+Pine Island Glacier 101–02
 
 planetary boundaries 12–13, 17,
 
@@ -36524,35 +36524,35 @@ planetary boundaries 12–13, 17,
 
 221, 227
 
-## global economy within 182–95
+global economy within 182–95
 
-## planetary intelligence 227
+planetary intelligence 227
 
 US_228-240_321647_BB_End_Matter.
 
 indd 237US_228-240_321647_BB_End_Matter.
 
-## indd 237 16/02/2021 11
+indd 237 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11
 
-## 238 INDEX
+238 INDEX
 
-## planetary stewardship 107–17
+planetary stewardship 107–17
 
 emergence of 16, 17
 
-## and equality 149–52
+and equality 149–52
 
-## and food transformation 141
+and food transformation 141
 
-## and global commons 221
+and global commons 221
 
-## goes mainstream 207
+goes mainstream 207
 
-## and inequality 143
+and inequality 143
 
-## and planetary boundaries 105
+and planetary boundaries 105
 
 and politics 202, 225
 
@@ -36560,27 +36560,27 @@ and technology 175, 215, 217
 
 plankton 29, 92
 
-## plant-based diets 169
+plant-based diets 169
 
 plants 21, 27, 30, 81, 129
 
-## burning for energy 180
+burning for energy 180
 
 domestication 49, 50
 
-## as heat traps 91
+as heat traps 91
 
 plastics 77, 85, 172
 
-## Pleistocene epoch 34
+# Pleistocene epoch 34
 
-## plowing 138–39
+plowing 138–39
 
 policies, stable planet 198–200
 
-## politics
+politics
 
-## Earthshot 196–203
+Earthshot 196–203
 
 and inequality 143–44, 147
 
@@ -36590,29 +36590,29 @@ political tipping point 116, 205,
 
 pollination 69, 81, 131, 134, 138
 
-## pollution
+pollution
 
 air 15, 85, 86–87, 140, 148, 162,
 
 169, 170, 186, 200
 
-## environmental 112
+environmental 112
 
 fertilizers 83, 131–32
 
-## health risks 166
+health risks 166
 
 nutrients 132, 137
 
 urban 156, 160
 
-## population
+population
 
-## crash 45–46
+crash 45–46
 
 and food production 134,
 
-## 136–37
+136–37
 
 global 14, 55, 57–58, 166
 
@@ -36620,45 +36620,45 @@ growth 54, 56, 57–58, 122, 166–70,
 
 184, 196
 
-## stabilizing 116
+stabilizing 116
 
-## sustainable 168–69
+sustainable 168–69
 
 system transformation 15, 165–70
 
 urban 158, 164
 
-### Potsdam Institute for Climate Impact
+# Potsdam Institute for Climate Impact
 
-## Research 148
+# Research 148
 
-## poverty
+poverty
 
-## and birth rate 165
+and birth rate 165
 
-## in cities 163
+in cities 163
 
 ending 13, 62, 115, 227
 
-## and famine 57
+and famine 57
 
-## and food 134
+and food 134
 
-## and GDP 185
+and GDP 185
 
-## and green growth 187
+and green growth 187
 
-## and industrial change 201
+and industrial change 201
 
-## and inequality 154
+and inequality 154
 
-## and planetary boundaries 76
+and planetary boundaries 76
 
 reducing 58, 61, 142, 170, 188
 
-## UN Sustainable Development
+# UN Sustainable Development
 
-## Goals 130
+# Goals 130
 
 power plants 199, 213
 
@@ -36666,17 +36666,17 @@ Pretty, Jules 137prices
 
 renewable energy 127, 213
 
-### and technological diffusion 175
+and technological diffusion 175
 
 printing press 52, 53
 
-## Proterozoic eon 24
+# Proterozoic eon 24
 
 racism 148, 154
 
-## radioactivity 85
+radioactivity 85
 
-## rail travel 208
+rail travel 208
 
 rainfall 29, 68, 81, 87, 225
 
@@ -36684,27 +36684,27 @@ rain forests 81, 93–94, 100, 101,
 
 103, 108, 114, 198
 
-## Brazilian 114
+# Brazilian 114
 
-## building resilience 198
+building resilience 198
 
 as carbon sinks 95, 101, 103
 
-## Congo 82
+# Congo 82
 
-## droughts 100
+droughts 100
 
 drying 87, 93–94
 
-## Indonesian 82
+# Indonesian 82
 
-## tipping point 71
+tipping point 71
 
-## and weather patterns 108
+and weather patterns 108
 
-## see also Amazon rain forest
+see also Amazon rain forest
 
-## Rapa Nui society 51
+# Rapa Nui society 51
 
 Raworth, Kate 182–83, 185
 
@@ -36714,7 +36714,7 @@ recirculation 16, 189, 191
 
 recycling 151, 191
 
-## reforestation 125
+reforestation 125
 
 regeneration 16, 189, 190–91
 
@@ -36750,9 +36750,9 @@ Rutter, Brad 176
 
 Sagan, Carl 19
 
-## Sahel 93
+# Sahel 93
 
-## SARS 66
+# SARS 66
 
 satellites 113, 216
 
@@ -36772,27 +36772,27 @@ Scotland 160, 188, 212
 
 sea ice 28, 67, 92, 93, 100
 
-## sea levels
+sea levels
 
-## climate system and 77
+climate system and 77
 
 rising 20, 72, 75, 76, 102–03,
 
 159–60, 173, 181
 
-## Seafood Business for Ocean
+# Seafood Business for Ocean
 
 Stewardship (SeaBOS) 115,
 
 190–91service economy 189, 192
 
-## sewage systems 163
+sewage systems 163
 
 sharing economy 189, 192, 216
 
 shells, marine life 29, 80
 
-## Shenzhen 162
+# Shenzhen 162
 
 shipping emissions 120, 121, 193
 
@@ -36800,11 +36800,11 @@ Siberia 51, 72, 100, 101
 
 single-celled life 21, 24, 226
 
-## slash and burn 140
+slash and burn 140
 
 slavery 49, 60
 
-## slums 163
+slums 163
 
 Smith, Adam 54, 183, 222
 
@@ -36812,13 +36812,13 @@ smog 86, 162
 
 smoke 86–87, 140, 160
 
-## smoking 205
+smoking 205
 
-## snow machines 181
+snow machines 181
 
 snowball Earth 25, 26, 27, 30, 32
 
-## social brain hypothesis 42
+social brain hypothesis 42
 
 social contract 146, 152, 188
 
@@ -36828,9 +36828,9 @@ social media 54, 143, 147, 175,
 
 social problems 109, 149, 168
 
-## society
+society
 
-## changing 109–10
+changing 109–10
 
 social tipping point 116, 205,
 
@@ -36846,9 +36846,9 @@ solar power 126, 127, 128, 156, 173,
 
 175, 213–14
 
-## solar system 21
+solar system 21
 
-## soot clouds 87
+soot clouds 87
 
 South Pole 28, 102
 
@@ -36870,21 +36870,21 @@ Sturgeon, Nicola 212
 
 summers, and ice age cycle 36, 91
 
-## sun
+sun
 
 Earth’s orbit around 34–36, 68
 
 heat from 91, 179–80
 
-## increasing brightness 29
+increasing brightness 29
 
-## ultraviolet radiation 78–79
+ultraviolet radiation 78–79
 
 sunlight, blocking 179–80
 
-## superrich 148–49
+superrich 148–49
 
-## supercontinent 28
+supercontinent 28
 
 surveillance 176, 178, 192, 217
 
@@ -36892,19 +36892,19 @@ sustainability 110, 115, 184, 198,
 
 210, 222
 
-## Sustainable Development Goals
+# Sustainable Development Goals
 
 115, 116, 117, 130, 201
 
-## Sweden
+# Sweden
 
-## carbon price 200
+carbon price 200
 
-## carbon tax 144–45
+carbon tax 144–45
 
-## climate change 89
+climate change 89
 
-## farming 107
+farming 107
 
 reduced emissions 128, 187,
 
@@ -36914,51 +36914,51 @@ US_228-240_321647_BB_End_Matter.
 
 indd 238US_228-240_321647_BB_End_Matter.
 
-## indd 238 23/02/2021 10
+indd 238 23/02/2021 10
 
-## 5523/02/2021 10
+5523/02/2021 10
 
-## 239 INDEX
+239 INDEX
 
 Sweden contd.
 
 society 112, 149, 150, 151, 190, 201
 
-## transportation 208
+transportation 208
 
-## Sydney 160
+# Sydney 160
 
 system transformations 15, 109–10,
 
 116, 117, 118–81, 193
 
-## taxes
+taxes
 
 carbon/green 145, 200
 
-## fuel 144
+fuel 144
 
-## global corporation 202–03
+global corporation 202–03
 
 and inequality 153, 154
 
-## labor 193
+labor 193
 
-## tax avoidance 151
+tax avoidance 151
 
 wealth 153, 202
 
-## technology
+technology
 
-## dark side 175–76
+dark side 175–76
 
-## evolution 174
+evolution 174
 
 innovation 15, 53, 58, 119, 127,
 
 172, 173–75, 184, 186, 205, 217
 
-## system transformation 171–81
+system transformation 171–81
 
 technological tipping point 15, 116,
 
@@ -36968,11 +36968,11 @@ tectonic activity 28, 33–34
 
 Tegmark, Max 171, 177
 
-## temperate forests 87
+temperate forests 87
 
-## temperature
+temperature
 
-## cities 160
+cities 160
 
 global 16, 49, 72, 87, 88, 90,
 
@@ -36988,13 +36988,13 @@ tipping point 72, 95, 101
 
 Thatcher, Margaret 146, 184
 
-## thermohaline circulation 93
+thermohaline circulation 93
 
 Thunberg, Greta 8–11, 96, 207, 208,
 
 209, 210
 
-## Thwaites Glacier 101–02
+Thwaites Glacier 101–02
 
 tillage, conservation 138–39
 
@@ -37006,11 +37006,11 @@ climate 77–78, 98
 
 converging 204–18, 216
 
-## economic 213–15
+economic 213–15
 
-## freshwater 83
+freshwater 83
 
-## irreversible 126
+irreversible 126
 
 oceans 77, 79–80
 
@@ -37018,15 +37018,15 @@ planetary boundaries 87,
 
 99–100, 220
 
-## political 211–13
+political 211–13
 
-## social 205–11
+social 205–11
 
-## technological 215–18
+technological 215–18
 
 Tokyo 56, 158
 
-## transportation
+transportation
 
 city 126, 155, 159, 161–63, 164
 
@@ -37036,7 +37036,7 @@ trees 21, 67, 70, 81, 92, 94, 134
 
 planting 122, 125, 216
 
-## Trine 217
+# Trine 217
 
 Trump, Donald 97, 208
 
@@ -37046,7 +37046,7 @@ trust 144, 150, 151, 154, 186, 190,
 
 Tyndall, John 26
 
-## ultraviolet radiation 78–79
+ultraviolet radiation 78–79
 
 unemployment 146, 177, 201
 
@@ -37060,31 +37060,31 @@ economy 56, 60, 61, 146–47
 
 United Nations 60, 152, 203
 
-## Climate Action Summit 104–05
+Climate Action Summit 104–05
 
-## Environment Programme 111
+# Environment Programme 111
 
-### Framework Convention on Climate
+# Framework Convention on Climate
 
-## Change 119
+# Change 119
 
 Paris Agreement (2015) 98, 118,
 
 119–21, 122, 126, 127, 130,
 
-## 201–02
+201–02
 
-## Sustainable Development Goals
+# Sustainable Development Goals
 
 115, 116, 117, 130, 201
 
-## United States
+# United States
 
-## climate plan 212
+climate plan 212
 
-### concerns about global warming 209
+concerns about global warming 209
 
-## COVID-19 97
+# COVID-19 97
 
 economy 56, 60, 61, 145–47, 154,
 
@@ -37092,23 +37092,23 @@ economy 56, 60, 61, 145–47, 154,
 
 farming 107, 140
 
-## fires 111
+fires 111
 
-## greenhouse gas emissions 216
+greenhouse gas emissions 216
 
-## industry 201
+industry 201
 
 inequality 148, 150, 152
 
-## life expectancy 168
+life expectancy 168
 
-## moonshot 197
+moonshot 197
 
 nuclear weapons 85, 157
 
-## resource consumption 165
+resource consumption 165
 
-## unity governments 202
+unity governments 202
 
 universe, age of 20
 
@@ -37124,7 +37124,7 @@ vehicles, electric 128, 155, 164, 172,
 
 175, 182, 205, 215
 
-## Venice 160
+# Venice 160
 
 viruses 14, 65–66, 96–97, 108,
 
@@ -37134,29 +37134,29 @@ volcanic activity 26, 28, 29, 30, 31,
 
 46, 68, 179–80
 
-## Voyager I spacecraft 19
+# Voyager I spacecraft 19
 
-## Wales 212
+# Wales 212
 
 Wallace-Wells, David 108
 
-## waste
+waste
 
 and consumerism 112, 191
 
-## discarding 73
+discarding 73
 
 food 132, 136–37, 168, 191, 216
 
 from urban areas 84, 132
 
-## organic 161
+organic 161
 
-## recycling 191
+recycling 191
 
 rise in 109, 223
 
-## water
+water
 
 access to 183, 185
 
@@ -37166,31 +37166,31 @@ food production 133–34, 137, 138
 
 fresh 81, 82–83
 
-## insecurity 134
+insecurity 134
 
-## planetary boundary 82–83
+planetary boundary 82–83
 
-## price 141
+price 141
 
 usage 52–53, 133
 
-## waste 132
+waste 132
 
 water cycle 12, 16, 29
 
-## change in 59
+change in 59
 
-## global 81
+global 81
 
-## oceans and 80
+oceans and 80
 
 Watson, James 58
 
 Watt, James 56, 66
 
-## wealth
+wealth
 
-## accumulation of 153
+accumulation of 153
 
 distribution of 145, 154, 177, 224
 
@@ -37202,9 +37202,9 @@ weather systems, regional 87,
 
 weathering 29, 30, 31, 220
 
-### Well-being Economy Governments
+# Well-being Economy Governments
 
-## wet markets 14
+wet markets 14
 
 wetlands 75, 81, 82, 99, 125, 138,
 
@@ -37218,21 +37218,21 @@ Wilson, E.
 
 82, 114, 140
 
-## wind power 126
+wind power 126
 
 and energy transition 128, 173,
 
 175, 213–14
 
-## farm-based turbines 156
+farm-based turbines 156
 
-## offshore turbines 174
+offshore turbines 174
 
-## price 127
+price 127
 
-### and stabilization of Antarctic ice
+and stabilization of Antarctic ice
 
-## sheet 181
+sheet 181
 
 women’s rights 49, 57
 
@@ -37244,7 +37244,7 @@ World Economic Forum 142, 145,
 
 152, 164, 208, 209–10
 
-## World Health Organization 96
+# World Health Organization 96
 
 World Trade Organization 60–61,
 
@@ -37268,7 +37268,7 @@ zero emissions 122, 123, 124, 125,
 
 128, 170
 
-## Zika virus 86
+# Zika virus 86
 
 Zimm, Caroline 113
 
@@ -37282,131 +37282,131 @@ US_228-240_321647_BB_End_Matter.
 
 indd 239US_228-240_321647_BB_End_Matter.
 
-## indd 239 23/02/2021 10
+indd 239 23/02/2021 10
 
-## 5523/02/2021 10
+5523/02/2021 10
 
-## ACKNOWLEDGMENTS
+# ACKNOWLEDGMENTS
 
 This book would not have been possible without the help
 
-## encouragement
+encouragement
 
-## and wisdom of many
+and wisdom of many
 
 many people.
 
-## Special
+# Special
 
-### thanks go to Félix Pharand-Deschênes
+thanks go to Félix Pharand-Deschênes
 
 who has done more than anyone else to visualize the Anthropocene
 
-## Becky Gee
+# Becky Gee
 
-## our editor at DK
+our editor at DK
 
-## and Kaela Slavik
+and Kaela Slavik
 
-## our research assistant
+our research assistant
 
-## John Ash at Pew
+# John Ash at Pew
 
-### Peter Kindersley and the team at DK
+# Peter Kindersley and the team at DK
 
-## Angeles
+# Angeles
 
-## Gavira
+# Gavira
 
-## Michael Duffy
+# Michael Duffy
 
-## Jonathan Metcalf
+# Jonathan Metcalf
 
-## and Liz Wheeler
+and Liz Wheeler
 
-## the Silverback Films team
+the Silverback Films team
 
-## Jon Clay
+# Jon Clay
 
-## Colin Butfield
+# Colin Butfield
 
-## Claire
+# Claire
 
-## Sharrock
+# Sharrock
 
-## Alistair Fothergill
+# Alistair Fothergill
 
-## Keith Scholey
+# Keith Scholey
 
-## and Ana Taboada
+and Ana Taboada
 
-## Will Steffen
+# Will Steffen
 
-## Matteo Willeit
+# Matteo Willeit
 
-## and Denise Young
+and Denise Young
 
-## particular
+particular
 
 and colleagues at the Potsdam Institute for Climate Impact Research and the Stockholm Resilience Center
 
-## general
+general
 
-## for scientific guidance
+for scientific guidance
 
 the research team of my (Johan) European Research Council project—Earth Resilience in
 
 the Anthropocene (ERA)—coordinated by Sarah Cornell and Jonathan Donges
 
-### for providing latest understanding on
+for providing latest understanding on
 
-## Earth resilience
+# Earth resilience
 
-### and the planetary emergency core team
+and the planetary emergency core team
 
-## Sandrine Dixson-Declève
+Sandrine Dixson-Declève
 
-## James Lloyd
+# James Lloyd
 
-## Bernadette Fischler
+# Bernadette Fischler
 
 Elise Buckle.
 
 Special thanks also to Mark Prain of the Edmund Hillary Fellowship in New Zealand
 
-## who inspired us to
+who inspired us to
 
-### write the “best untold story in town
+write the “best untold story in town
 
-### ” which eventually became this book
+” which eventually became this book
 
-## and to our families
+and to our families
 
-## George
+# George
 
 Oscar, and Sophie
 
-## on Owen’s side and Vera
+on Owen’s side and Vera
 
 Alex, Isak
 
 and Ulrika on Johan’s side.
 
-## PICTURE CREDITS
+# PICTURE CREDITS
 
 A1 Globaïa: data generated using
 
-## auto-RIFT and provided by the
+auto-RIFT and provided by the
 
-## NASA MEaSUREs ITS_LIVE
+NASA MEaSUREs ITS_LIVE
 
 project; A.
 
 Le Brocq et al,
 
-### “Evidence from ice shelves for
+“Evidence from ice shelves for
 
-### channelized meltwater flow beneath
+channelized meltwater flow beneath
 
 the Antarctic Ice Sheet”, Nature
 
@@ -37420,15 +37420,15 @@ See ww.
 
 pnas.
 
-## org/
+org/
 
-## content/115/52/13288
+content/115/52/13288
 
 A4 Globaïa: adapted from the Earth
 
-### Commission of the Global Commons
+# Commission of the Global Commons
 
-## Alliance
+# Alliance
 
 B1 Globaïa: data sourced from
 
@@ -37436,7 +37436,7 @@ Hansen/UMD/Google/USGS/NASA;
 
 Hansen et al, “High-resolution
 
-### global maps of 21st-century forest
+global maps of 21st-century forest
 
 cover change”, Science, 342, 2013
 
@@ -37446,7 +37446,7 @@ Kennedy et al, “Managing the
 
 middle: A shift in conservation
 
-### priorities based on the global human
+priorities based on the global human
 
 modification gradient”, Global Change
 
@@ -37472,7 +37472,7 @@ Steffen et al,
 
 “Planetary boundaries: Guiding
 
-### human development on a changing
+human development on a changing
 
 planet”, Science, 347 (6223), 2015
 
@@ -37484,11 +37484,11 @@ www.
 
 globaia.
 
-## C2/3 Globaïa
+C2/3 Globaïa
 
 C4 Globaïa: adapted from W.
 
-## Steffen
+# Steffen
 
 et al, “The trajectory of the
 
@@ -37500,17 +37500,17 @@ Review, 2015
 
 D1 Globaïa: upper panel, adapted
 
-### from Stockholm Resilience Centre/
+from Stockholm Resilience Centre/
 
 Azote graphic; lower panel, adapted
 
-## from The World in 2050 Report
+from The World in 2050 Report
 
-### Transformations to achieve the
+# Transformations to achieve the
 
 Sustainable Development Goals,
 
-### published by the International
+published by the International
 
 Institute for Applied Systems, 2018
 
@@ -37524,13 +37524,13 @@ D3 Globaïa: adapted from E.
 
 Dinerstein et al, Science Advances, 2020
 
-## D4 Globaïa
+D4 Globaïa
 
-## p25 © Dorling Kindersley
+p25 © Dorling Kindersley
 
 p37 Adapted from C.
 
-## MacFarling
+# MacFarling
 
 Meure et al, 2006, and D.
 
@@ -37540,15 +37540,15 @@ Lüthi et al,
 
 figure.
 
-## “High-resolution carbon
+“High-resolution carbon
 
-## dioxide concentration record
+dioxide concentration record
 
 650,000–800,000 years before
 
 present”, Nature, 453, 379–382,
 
-## 15 May 2008
+15 May 2008
 
 p45 S.
 
@@ -37570,11 +37570,11 @@ cub.
 
 p55 Adapted from Simon L.
 
-## Lewis
+# Lewis
 
 and Mark A.
 
-## Maslin’s The Human
+Maslin’s The Human
 
 Planet: How We Created the Anthropocene,
 
@@ -37594,7 +37594,7 @@ p93 Adapted from Will Steffen,
 
 Johan Rockström et al, “Trajectories
 
-## of the Earth system in the
+of the Earth system in the
 
 Anthropocene”, Proceedings of the
 
@@ -37602,7 +37602,7 @@ National Academy of Sciences, 115 (33),
 
 8252–8259, Aug 2018; DOI: 10.
 
-## 1073/
+1073/
 
 pnas.
 
@@ -37610,15 +37610,15 @@ pnas.
 
 p100 Adapted from T.
 
-## Lenton et
+# Lenton et
 
 al, “Climate tipping points: Too risky
 
 to bet against”, Nature, 575, 592–595,
 
-### 2019. See www.nature.com/articles/
+# 2019. See www.nature.com/articles/
 
-## d41586-019-03595-0
+d41586-019-03595-0
 
 p110 Adapted from D.
 
@@ -37640,23 +37640,23 @@ rapid decarbonisation”, Science, 2017
 
 p135 Adapted from J.
 
-## Poore and
+# Poore and
 
 Nemecek, “Reducing food’s
 
-## environmental impacts through
+environmental impacts through
 
 producers and consumers”, Science,
 
-### 360 (6392), 987–992, with additional
+360 (6392), 987–992, with additional
 
 calculations by Our World in Data.
 
 See ourworldindata.
 
-## org/grapher/
+org/grapher/
 
-## land-use-protein-poore
+land-use-protein-poore
 
 p149 Adapted from Richard G.
 
@@ -37666,15 +37666,15 @@ Level: Why More Equal Societies Almost
 
 Always Do Better, Allen Lane, 2009
 
-## p158 Adapted from UN World
+p158 Adapted from UN World
 
 Urbanization Prospects, 2018.
 
 ourworldindata.
 
-## org/grapher/
+org/grapher/
 
-## urban-and-rural-population
+urban-and-rural-population
 
 p167 Our World in Data, based
 
@@ -37684,11 +37684,11 @@ Division [2019 Revision].
 
 ourworldindata.
 
-## org/future-
+org/future-
 
-## population-growth
+population-growth
 
-## p174 Adapted from The Natural
+p174 Adapted from The Natural
 
 Edge Project, 2004, Griffith
 
@@ -37702,13 +37702,13 @@ Raworth,
 
 “A Doughnut for the Anthropocene:
 
-### Humanity’s compass in the 21st
+Humanity’s compass in the 21st
 
 century”, The Lancet: Planetary Health,
 
 1, 2017
 
-### p203 Adapted from World Values
+p203 Adapted from World Values
 
 Survey (2014), sourced from Our
 
@@ -37716,20 +37716,20 @@ World in Data.
 
 See ourworldindata.
 
-### org/grapher/self-reported-trust-
+org/grapher/self-reported-trust-
 
 attitudes?
 
-## country
+country
 
-## =CHN~FIN~NZL~NOR~SWE
+=CHN~FIN~NZL~NOR~SWE
 
-## p206 © Dorling Kindersley
+p206 © Dorling Kindersley
 
 US_228-240_321647_BB_End_Matter.
 
 indd 240US_228-240_321647_BB_End_Matter.
 
-## indd 240 16/02/2021 11
+indd 240 16/02/2021 11
 
-## 2616/02/2021 11
+2616/02/2021 11

@@ -1,218 +1,218 @@
-## Contents
+# Contents
 
-## Cover
+# Cover
 
-## Title Page
+# Title Page
 
-## About the Authors
+# About the Authors
 
-## Contents
+# Contents
 
 Barron’s Essential 5: AP Physics 2
 
-## Preface
+# Preface
 
-## Introduction
+# Introduction
 
-## Study Skills and Tips
+# Study Skills and Tips
 
-## Diagnostic Test
+# Diagnostic Test
 
-## AP Physics 2
+# AP Physics 2
 
-## Answer Key
+# Answer Key
 
-## Answers Explained
+# Answers Explained
 
-## Review and Practice
+# Review and Practice
 
-### 1. Electric Fields and Potentials
+# 1. Electric Fields and Potentials
 
-### The Nature of Electric Charges
+# The Nature of Electric Charges
 
 The Detection and Measurement of Electric Charges
 
-## Coulomb’s Law
+Coulomb’s Law
 
-## The Electric Field
+# The Electric Field
 
-## Electric Potential
+# Electric Potential
 
-## Capacitance
+# Capacitance
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## 2. Steady-State Circuits
+# 2. Steady-State Circuits
 
-## Current and Electricity
+# Current and Electricity
 
-## Electric Resistance
+# Electric Resistance
 
-## Electric Power and Energy
+# Electric Power and Energy
 
-## Kirchhoff’s Rules
+Kirchhoff’s Rules
 
-## Combination Circuits
+# Combination Circuits
 
-## Capacitors in Circuits
+# Capacitors in Circuits
 
-### Electrical Energy Is Potential Energy
+# Electrical Energy Is Potential Energy
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-### 3. Magnetism and Electromagnetism
+# 3. Magnetism and Electromagnetism
 
-## Magnetic Fields and Forces
+# Magnetic Fields and Forces
 
-### Magnetic Force on a Moving Charge
+# Magnetic Force on a Moving Charge
 
 Magnetic Fields Due to Currents in Wires
 
-### Magnetic Force Between Two Wires
+# Magnetic Force Between Two Wires
 
-### Induced Motional EMF in a Wire
+# Induced Motional EMF in a Wire
 
 Magnetic Flux and Faraday’s Law of Induction
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## 4. Physical Optics
+# 4. Physical Optics
 
-## Electromagnetic Waves
+# Electromagnetic Waves
 
-## Reflection
+# Reflection
 
-## Refraction
+# Refraction
 
-## Total Internal Reflection
+# Total Internal Reflection
 
-### Interference and Diffraction of Light
+# Interference and Diffraction of Light
 
-## Polarization of Light
+# Polarization of Light
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## 5. Geometrical Optics
+# 5. Geometrical Optics
 
-### Image Formation in Plane Mirrors
+# Image Formation in Plane Mirrors
 
-### Image Formation in Curved Mirrors
+# Image Formation in Curved Mirrors
 
-## Image Formation in Lenses
+# Image Formation in Lenses
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## 6. Fluids
+# 6. Fluids
 
-## Static Fluids
+# Static Fluids
 
-## Pascal’s Principle
+Pascal’s Principle
 
-## Static Pressure and Depth
+# Static Pressure and Depth
 
-### Buoyancy and Archimedes’ Principle
+Buoyancy and Archimedes’ Principle
 
-## Fluids in Motion
+# Fluids in Motion
 
-## Bernoulli’s Equation
+Bernoulli’s Equation
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## 7. Thermodynamics
+# 7. Thermodynamics
 
-### Temperature and Its Measurement
+# Temperature and Its Measurement
 
-## Molar Quantities
+# Molar Quantities
 
-## The Ideal Gas Law
+# The Ideal Gas Law
 
-## Equation of State
+# Equation of State
 
-## Kinetic-Molecular Theory
+# Kinetic-Molecular Theory
 
-## Work Done by Expanding Gases
+# Work Done by Expanding Gases
 
-### The First Law of Thermodynamics
+# The First Law of Thermodynamics
 
 The Second Law of Thermodynamics and Heat Engines
 
-## Heat Transfer
+# Heat Transfer
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-### 8. Quantum, Atomic, and Nuclear Physics
+# 8. Quantum, Atomic, and Nuclear Physics
 
-## Photoelectric Effect
+# Photoelectric Effect
 
-## Photon Momentum
+# Photon Momentum
 
-## Matter Waves
+# Matter Waves
 
-## Spectral Lines
+# Spectral Lines
 
-## Special Relativity
+# Special Relativity
 
-## Mass-Energy Equivalence
+# Mass-Energy Equivalence
 
-### Atomic Structure and Rutherford’s Model
+Atomic Structure and Rutherford’s Model
 
-## The Bohr Model
+# The Bohr Model
 
 Quantum Mechanics and the Electron Cloud Model
 
-### Nuclear Structure and Stability
+# Nuclear Structure and Stability
 
-## Binding Energy
+# Binding Energy
 
-## Radioactive Decay
+# Radioactive Decay
 
-## Fission
+# Fission
 
-## Fusion
+# Fusion
 
-## Practice Exercises
+# Practice Exercises
 
-## Answers Explained
+# Answers Explained
 
-## Practice Tests
+# Practice Tests
 
-## Practice Test 1
+# Practice Test 1
 
-## Answer Key
+# Answer Key
 
-## Answers Explained
+# Answers Explained
 
-## Test Analysis
+# Test Analysis
 
-## Practice Test 2
+# Practice Test 2
 
-## Answer Key
+# Answer Key
 
-## Answers Explained
+# Answers Explained
 
-## Test Analysis
+# Test Analysis
 
-## Appendix
+# Appendix
 
-### Table of Information for AP Physics 2
+# Table of Information for AP Physics 2
 
-### Formula Sheet for AP Physics 2
+# Formula Sheet for AP Physics 2
 
-## Glossary
+# Glossary
 
 About the Authors: Ken Rideout has a B.
 
@@ -232,7 +232,7 @@ He has been teaching physics at both the secondary school and college levels for
 
 He has published over forty professional papers in the fields of astronomy
 
-## physics
+physics
 
 and physics education and served for more than ten years as assistant editor for The Science Teachers Bulletin published by the Science Teachers Association of New York State (STANYS).
 
@@ -242,29 +242,29 @@ he is also the author of Barron’s College Review
 
 Physics and previously was co-author of Barron’s SAT Subject Test in Physics .
 
-### By payment of the required fees
+# By payment of the required fees
 
-### you have been granted the non-exclusive
+you have been granted the non-exclusive
 
 non-transferable right to access and read the text of this eBook on screen.
 
-### No part of this text may be reproduced
+# No part of this text may be reproduced
 
-## transmitted
+transmitted
 
-## downloaded
+downloaded
 
-## decompiled
+decompiled
 
-## reverse engineered
+reverse engineered
 
 or stored in or introduced into any information storage and retrieval system
 
-## in any form or by any means
+in any form or by any means
 
-### whether electronic or mechanical
+whether electronic or mechanical
 
-### now known or hereinafter invented
+now known or hereinafter invented
 
 without the express written permission of the publisher.
 
@@ -274,7 +274,7 @@ Published by Kaplan, Inc.
 
 barronseduc.
 
-### 978-1-5062-7781-3 10 9 8 7 6 5 4 3 2 1
+978-1-5062-7781-3 10 9 8 7 6 5 4 3 2 1
 
 Barron’s Essential 5 (AP Physics 2) As you review the content in this book to work toward earning that 5 on your AP Physics 2 exam
 
@@ -288,15 +288,15 @@ AP Physics 2 is designed as a second-year course
 
 and the key ideas of AP Physics 1 provide the essential knowledge base for the material for this exam.
 
-## 2 Understand fields
+2 Understand fields
 
-## • Be able to visualize
+• Be able to visualize
 
 draw, and interpret the major fields
 
-## gravitational
+gravitational
 
-## electric
+electric
 
 and magnetic.
 
@@ -314,9 +314,9 @@ and when describing it in terms of amplitude and wavelength.
 
 • Model light as a series of wave-front rays for problems in optics (reflection
 
-## refraction
+refraction
 
-## mirrors
+mirrors
 
 and lenses).
 
@@ -334,15 +334,15 @@ you must understand their behavior and purpose when fully charged or fully disch
 
 • Be able to go back and forth between the macroscopic descriptions of fluids and their microscopic behavior.
 
-## Preface In this review book
+# Preface In this review book
 
 you will find all the material needed to review and prepare for the AP Physics 2 exam
 
 a second-year precalculus course.
 
-## This book is an updated
+# This book is an updated
 
-## targeted
+targeted
 
 and enriched edition of an earlier edition of this book.
 
@@ -352,33 +352,33 @@ AP Physics 2 should be seen not only as additional topics in physics but as a co
 
 Each chapter has review questions that vary in style and level of difficulty.
 
-## These are inte
+# These are inte
 
 intended to test your level of understanding of the review material.
 
 Some of these chapter questions may be easier
 
-## harder
+harder
 
 or of a slightly different style than the actual AP exam as they are limited to the content of that particular chapter.
 
-## Likewise
+# Likewise
 
 each chapter has a mix of traditional problem-solving examples as well as the more text-based and conceptual questions that also appear on the AP Physics 2 exam.
 
-## The tests
+# The tests
 
-## on the other hand
+on the other hand
 
 are broad in scope and draw from several different content areas at once.
 
-## Included in this book
+# Included in this book
 
-## as well as online
+as well as online
 
 are several full-length practice tests that mirror the actual AP exams in style
 
-## content
+content
 
 and difficulty.
 
@@ -392,25 +392,25 @@ One tip to remember is that there is no penalty for wrong answers.
 
 This means that you may want to try to answer all questions.
 
-## Instead of randomly guessing
+# Instead of randomly guessing
 
-## however
+however
 
 you can improve your chances of getting a correct answer if you can eliminate at least two answer choices.
 
 Guess intelligently.
 
-## For the Physics 2 exam
+# For the Physics 2 exam
 
 all multiple-choice questions will have four answer choices.
 
-### A new question type has also been added
+# A new question type has also been added
 
 the “multiple-correct items” question.
 
-## These five questions
+# These five questions
 
-## at the end of the section
+at the end of the section
 
 which ask you to mark two correct responses
 
@@ -420,17 +420,17 @@ When you read a multiple-choice question
 
 try to get to the essential aspects.
 
-### You have ninety minutes for this part
+# You have ninety minutes for this part
 
 so do not waste too much time per question.
 
 Try to eliminate two or three choices.
 
-## If a formula is needed
+# If a formula is needed
 
 you may try to use approximations (or simple multiplication and division).
 
-## For example
+# For example
 
 the magnitude of the acceleration due to gravity (g) can be approximated as 10 m/s².
 
@@ -442,7 +442,7 @@ look for distractors.
 
 These are choices that may look reasonable but are incorrect.
 
-## For example
+# For example
 
 if the question is expecting you to divide to get an answer
 
@@ -450,25 +450,25 @@ the distractor may be an answer obtained by multiplying.
 
 Watch out for quadratics (such as centripetal force) or inverse squares (such as gravitation).
 
-### If you cannot recall some information
+# If you cannot recall some information
 
 perhaps another similar question will cue you as to what you need to know.
 
 (You may work on only one part of the exam at a time.
 
-## ) When you read the question
+) When you read the question
 
 try to link it to the overall general topic
 
-## such as kinematics
+such as kinematics
 
-## dynamics
+dynamics
 
 electricity.
 
 Then narrow down the specific area and the associated formula.
 
-## Finally
+# Finally
 
 you must know which quantities are vectors and which quantities are scalars.
 
@@ -478,7 +478,7 @@ As you work on the exams and check your answers
 
 you can easily go back to the topic area to review.
 
-## At the start of your review
+# At the start of your review
 
 you may want to work on the multiple-choice questions untimed for the diagnostic and first practice exam.
 
@@ -530,7 +530,7 @@ Since you are not given specific formulas for some concepts
 
 you should begin learning how these formulas are derived starting at the beginning of the year.
 
-## For example
+# For example
 
 you are not given the specific formulas for projectile motion problems since these are easily derived from the standard kinematics equations.
 
@@ -538,15 +538,15 @@ If you begin reviewing a few weeks before the AP exam
 
 you may want to make index cards of formulas to help you to memorize them.
 
-### For the free-response questions
+# For the free-response questions
 
 each question may be worth a different amount.
 
-## In fact
+# In fact
 
 each subsection may be worth a different amount.
 
-## However
+# However
 
 each part of the exam is worth 50 percent of your grade to determine your “raw score.
 
@@ -560,9 +560,9 @@ Also, make sure that you have a working calculator with extra batteries.
 
 TIP Make sure you show all of your work on Part II.
 
-## Include all formulas
+# Include all formulas
 
-## substitutions with units
+substitutions with units
 
 and general concepts used.
 
@@ -570,31 +570,31 @@ Remember to label all diagrams.
 
 Communicate with the grader!
 
-### As you begin to solve the problem
+# As you begin to solve the problem
 
 make sure that you write down the general concept being used
 
-## for example
+for example
 
 conservation of mechanical energy or conservation of energy.
 
 Then, you must write down the equations you are using.
 
-## For example
+# For example
 
 if the problem requires you to use conservation of mechanical energy (potential and kinetic energies)
 
-## write out those equations
+write out those equations
 
 Initial total mechanical energy = Final total mechanical energy mgh_i + 1/2 mv_i^2 = mgh_f + 1/2 mv_f^2 When you are making substitutions
 
 you must include the units!
 
-## For example
+# For example
 
 if you are calculating net forces on a mass (such as a 2 kg mass that has an acceleration of 4 m/s²)
 
-### you must write as neatly as possible
+you must write as neatly as possible
 
 ΣF = F_net = ma = (2 kg)(4 m/s²) = 8 N Include all relevant information.
 
@@ -602,13 +602,13 @@ Communicate with the grader by showing him/her that you understand what the ques
 
 You may want to make a few sketches or write down your thoughts in an attempt to find the correct solution path.
 
-### If a written response is requested
+# If a written response is requested
 
 make sure that you write neatly and answer the question in full sentences.
 
 Sometimes the question refers to a lab experiment typically performed in class or simulated data is given.
 
-## In that case
+# In that case
 
 you may be asked to make a graph (refer to the appendix).
 
@@ -626,27 +626,27 @@ Make sure you include your units when calculating slopes.
 
 Always show all of your work.
 
-## If you are drawing vectors
+# If you are drawing vectors
 
 make sure the arrowheads are clearly visible.
 
-## For angles
+# For angles
 
 there is some room for variation.
 
-### TIP Make sure you have pencils
+# TIP Make sure you have pencils
 
 pens, a calculator
 
-## extra batteries
+extra batteries
 
 and a metric ruler with you for the exam!
 
-### Since angles are measured in degrees
+# Since angles are measured in degrees
 
 be sure your calculator is in the correct mode.
 
-### If scientific notation is used
+# If scientific notation is used
 
 make sure you know how to input the numbers into your calculator correctly.
 
@@ -692,17 +692,17 @@ Relax.
 
 Sometimes if you move on to another problem
 
-## take a deep breath
+take a deep breath
 
-## close your eyes
+close your eyes
 
-## and just relax for a moment
+and just relax for a moment
 
 the tension and anxiety may go away and allow you to continue.
 
 Do not leave anything out.
 
-### Unlike on the multiple-choice questions
+# Unlike on the multiple-choice questions
 
 you need to show all of your work to earn credit.
 
@@ -710,51 +710,51 @@ Understand what you are being asked to do.
 
 The Physics 2 exam wants you to respond in specific ways to certain key words.
 
-## ■ “Justify” or “Explain”
+■ “Justify” or “Explain”
 
-### Support your answer with words
+# Support your answer with words
 
-## equations
+equations
 
-## calculations
+calculations
 
-## diagrams
+diagrams
 
 or graphs.
 
-## ■ “Calculate”
+■ “Calculate”
 
 Provide numerical and algebraic work leading to the final answer.
 
-## ■ “What is” or “Determine”
+■ “What is” or “Determine”
 
 Although showing work is always desirable
 
 it is not necessary for these questions—you may simply state your answer.
 
-## ■ “Derive”
+■ “Derive”
 
 Starting with a fundamental equation (such as those given on the formula sheet)
 
 mathematically manipulate it to the desired form.
 
-## ■ “Sketch”
+■ “Sketch”
 
 Without numerical scaling or specific data points
 
 draw a graph that captures the key trend in the relationship (curvature
 
-## asymptotes
+asymptotes
 
 and so on).
 
-## ■ “Plot”
+■ “Plot”
 
 Specific data points should be placed onto a scaled grid.
 
 Do not connect the dots (although trends
 
-## especially linear ones
+especially linear ones
 
 may be superimposed on the graph).
 
@@ -768,19 +768,19 @@ pay special attention to these when answering the experimental design question.
 
 Appropriate use of representations and models
 
-## Use diagrams
+# Use diagrams
 
-## graphs
+graphs
 
 and equations when explaining the problem.
 
-### Appropriate use of mathematics
+# Appropriate use of mathematics
 
-## Define your variables
+# Define your variables
 
-### show algebraic manipulations clearly
+show algebraic manipulations clearly
 
-## and pl
+and pl
 
 Preparing for any Advanced Placement exam takes practice and time.
 
@@ -796,11 +796,11 @@ Using index cards to make your own flash cards of key concepts
 
 units, and formulas can also be helpful.
 
-## When you study
+# When you study
 
-## try to work in a well-lighted
+try to work in a well-lighted
 
-## quiet environment
+quiet environment
 
 when you are well rested.
 
@@ -810,13 +810,13 @@ Although some memorization may be necessary
 
 physics is best learned (and studied) by actively solving problems.
 
-## Remember
+# Remember
 
 if you are using this book during the year
 
 working through the chapter problems as you cover each topic in class
 
-## memorizing the units
+memorizing the units
 
 and familiarizing yourself with the formulas at that time will make your studying easier in the days before the exam.
 
@@ -824,7 +824,7 @@ If you are using this book in the weeks before the exam
 
 make sure you are already familiar with most (if not all) of the units
 
-## equations
+equations
 
 and topics to be covered.
 
@@ -832,7 +832,7 @@ You can either use the chapter review for a quick overview and practice or dive 
 
 You do not need to take the diagnostic test under timed conditions.
 
-## See how you do
+# See how you do
 
 and then review the concepts for those questions that you got wrong.
 
@@ -844,11 +844,11 @@ Each person’s needs are different.
 
 The following schedule is just one example of an effective plan.
 
-## TABLE 3 Test Prep Schedule
+# TABLE 3 Test Prep Schedule
 
-## September 1–April 15
+September 1–April 15
 
-## As the year progresses
+# As the year progresses
 
 make sure you memorize units and are comfortable with formulas.
 
@@ -856,15 +856,15 @@ If you are using this book during the year
 
 do end-of-chapter problems as they are covered in class.
 
-### Make sure you register for the exam
+# Make sure you register for the exam
 
-## following school procedures
+following school procedures
 
 and refer to the College Board’s website for details
 
 collegeboard.
 
-## Four weeks before the exam
+# Four weeks before the exam
 
 Most topics should be covered by now in class.
 
@@ -876,13 +876,13 @@ Begin reviewing units and formulas.
 
 Devote at least thirty minutes each day to studying.
 
-## Three weeks before the exam
+# Three weeks before the exam
 
 Start working on the diagnostic exam.
 
 Go back and review topics that you are unsure of or feel that you answered incorrectly.
 
-## Two weeks before the exam
+# Two weeks before the exam
 
 Begin working on practice exams.
 
@@ -890,7 +890,7 @@ You can access two additional practice exams online.
 
 Continue to review old concepts.
 
-## One week before the exam
+# One week before the exam
 
 Do the remaining practice exams timed.
 
@@ -898,15 +898,15 @@ Make sure you are comfortable with the exam format and know what to expect.
 
 Review any remaining topics and units.
 
-## The day before the exam
+# The day before the exam
 
-### Pack up your registration materials
+# Pack up your registration materials
 
 pens, pencils
 
-## calculator
+calculator
 
-## extra batteries
+extra batteries
 
 and metric ruler.
 
@@ -914,7 +914,7 @@ Put them by the door, ready to go.
 
 Get a good night’s sleep.
 
-## The day of the exam
+# The day of the exam
 
 Have a good breakfast.
 
@@ -922,7 +922,7 @@ Make sure you take all the items you prepared the night before.
 
 Relax!
 
-## SUMMARY
+# SUMMARY
 
 ■ Make sure you set up a manageable study schedule well in advance of the exam.
 
@@ -932,7 +932,7 @@ Relax!
 
 so do not skip any.
 
-### If you are unsure of the answer
+# If you are unsure of the answer
 
 try to eliminate as many choices as you can
 
@@ -942,9 +942,9 @@ and then guess!
 
 Show all of your work.
 
-### Write down all fundamental concepts
+# Write down all fundamental concepts
 
-## write all equations used
+write all equations used
 
 and include units for all substitutions and in your final answer.
 
@@ -952,7 +952,7 @@ and include units for all substitutions and in your final answer.
 
 Write your answers clearly.
 
-### On the multiple-choice questions
+# On the multiple-choice questions
 
 make sure you have a #2 pencil and bubble in all information carefully.
 
@@ -966,13 +966,13 @@ they are helpful clues as to what key concepts are emphasized on the exam.
 
 ■ An object can be represented as a single mass.
 
-### When exposed to external forces
+# When exposed to external forces
 
 it is best modeled as experiencing changes in speed and/or direction.
 
-### ■ A system is a group of objects that
+■ A system is a group of objects that
 
-## if isolated
+if isolated
 
 is best modeled with conservation laws.
 
@@ -984,23 +984,23 @@ Work on the chapter questions to review concepts as needed.
 
 ■ Get a good night’s sleep before the exam.
 
-## ■ On the day of the exam
+■ On the day of the exam
 
 bring all registration materials with you
 
-## as well as pens
+as well as pens
 
-## pencils
+pencils
 
-## calculators
+calculators
 
-## extra batteries
+extra batteries
 
 and a metric ruler.
 
 Relax and Good Luck!
 
-## Diagnostic Test
+# Diagnostic Test
 
 This section contains a short diagnostic test.
 
@@ -1008,13 +1008,13 @@ The purpose of this diagnostic exam is for you to identify those conceptual area
 
 The relevant sections of the book (indicated in the answer key) should be reviewed thoroughly before attempting one of the full-length practice exams at the end of this book or online.
 
-## Diagnostic Test
+# Diagnostic Test
 
-## AP Physics 2
+# AP Physics 2
 
 SECTION I: MULTIPLE-CHOICE
 
-## DIRECTIONS
+# DIRECTIONS
 
 Pick the best answer (or two best answers when indicated) on each of the following twenty-six multiple-choice questions as well as the two free-response questions.
 
@@ -1036,17 +1036,17 @@ Which of the following statements compares the total weight and the pressure at 
 
 while pressure is the same.
 
-## (D) Weight is the same
+(D) Weight is the same
 
 while pressure is greater for the wider column.
 
 The exact same boat will ride higher (have more volume exposed to the air) while floating on a fluid if
 
-### (A) the fluid’s density is raised
+(A) the fluid’s density is raised
 
-### (B) the fluid’s temperature is raised
+(B) the fluid’s temperature is raised
 
-### (C) the boat’s density is raised
+(C) the boat’s density is raised
 
 (D) the boat shifts its cargo to a lower deck
 
@@ -1070,13 +1070,13 @@ The liquid is then observed to swirl as it transfers the heat to the bottom laye
 
 The correct sequence of transfers in thermal energy in this story is
 
-### (A) Radiative → convective → conductive
+(A) Radiative → convective → conductive
 
-### (B) Radiative → conductive → convective
+(B) Radiative → conductive → convective
 
 (C) Convective → conductive → convective
 
-### (D) Convective → conductive → radiative
+(D) Convective → conductive → radiative
 
 Which of the following is the best explanation of the statement
 
@@ -1140,13 +1140,13 @@ while the smaller sphere has slightly less than +1 microcoulomb of charge.
 
 Which of the following pictures is an incorrect representation of the electric field near various charged conductors?
 
-## (A)
+(A)
 
-## (B)
+(B)
 
-## (C)
+(C)
 
-## (D)
+(D)
 
 A standard RC (resistor-capacitor) circuit takes approximately two seconds to charge the capacitor fully.
 
@@ -1158,21 +1158,21 @@ what is the current through the fully charged capacitor?
 
 (B) 0.
 
-## 12 A
+12 A
 
 (C) 0.
 
-## 06 A
+06 A
 
-## (D) 0 A
+(D) 0 A
 
 If each of the batteries in the circuit below supplies a voltage V and if each resistor has resistance R
 
-## what
+what
 
 will be the reading on the meter pictured?
 
-### (A) 0 (B) V/3 (C) 2 V/3 (D) 2 V/3
+(A) 0 (B) V/3 (C) 2 V/3 (D) 2 V/3
 
 The primary difference between a permanent magnet (an object with identifiable north and south poles) and magnetic material that does not have identifiable north and south poles is (A) electron configuration (B) magnetic domain alignment (C) magnetic materials have no poles at all (D) magnetic materials are lacking one of the two poles
 
@@ -1214,13 +1214,13 @@ what will the loop experience?
 
 A charge is accelerated by an electric field.
 
-### While the charge is accelerating
+# While the charge is accelerating
 
 which of the following is occurring?
 
 (A) A static magnetic field is created.
 
-## (B) A new
+(B) A new
 
 static electric field is created.
 
@@ -1236,7 +1236,7 @@ it will emerge with an angle of refraction (A) equal to 30 degrees (B) less than
 
 A beam of light incident at 50 degrees travels from a medium with an index of refraction of 2.
 
-### 5 into one with an index of refraction of 1.
+5 into one with an index of refraction of 1.
 
 The refracted angle of light that emerges is (A) 20 degrees (B) 50 degrees (C) 90 degrees (D) There is no solution.
 
@@ -1268,7 +1268,7 @@ They would be more closely spaced.
 
 A radioactive isotope undergoes gamma decay.
 
-## Afterward
+# Afterward
 
 the nucleus (A) contains fewer nucleons (B) has the same number of nucleons but a different ratio of protons/neutrons (C) has the same mass number but a lower mass (D) undergoes beta decay
 
@@ -1290,7 +1290,7 @@ What is the difference between those that can and those that cannot?
 
 (D) All objects can be made to exhibit an interference pattern under the right circumstances.
 
-## For an RC circuit
+# For an RC circuit
 
 which of the following is the correct analogy for the instantaneous current behavior in a pathway containing a capacitor?
 
@@ -1332,11 +1332,11 @@ Explain your reasoning.
 
 (c) After the capacitor has been fully charged
 
-## the battery is removed
+the battery is removed
 
 leaving an open circuit where the battery was just located.
 
-## Determine
+# Determine
 
 (i) The direction of current through the 10-ohm resistor (ii) The total amount of charge that passes through the 10-ohm resistor (iii) The initial instantaneous current after the battery has been removed (iv) The approximate time for the capacitor to be half-discharged
 
@@ -1366,7 +1366,7 @@ ANSWER KEY TOPIC AND CHAPTER TO REFERENCE 1.
 
 (B) Thermal energy, Chapter 7 5.
 
-## (D) Kinetic-molecular theory
+(D) Kinetic-molecular theory
 
 Chapter 7 6.
 
@@ -1376,7 +1376,7 @@ Chapter 7 6.
 
 (D) Charge transfer, Chapter 1 9.
 
-### (C) Electric fields near a conductor
+(C) Electric fields near a conductor
 
 Chapter 1 10.
 
@@ -1392,13 +1392,13 @@ Chapter 1 10.
 
 (D) Lenz’s law, Chapter 3 16.
 
-## (D) Electromagnetic induction
+(D) Electromagnetic induction
 
 Chapter 3 17.
 
 (B) Snell’s law, Chapter 5 18.
 
-## (D) Total internal reflection
+(D) Total internal reflection
 
 Chapter 5 19.
 
@@ -1408,7 +1408,7 @@ Chapter 5 19.
 
 (C) Nuclear reactions, Chapter 8 22.
 
-## (D) Light/matter interactions
+(D) Light/matter interactions
 
 Chapter 8 23.
 
@@ -1416,13 +1416,13 @@ Chapter 8 23.
 
 (A) Capacitors, Chapter 2 25.
 
-### (B) and (C) Fundamental particles
+(B) and (C) Fundamental particles
 
 Introduction 26.
 
 (B) and (C) Lens and image, Chapter 5
 
-## ANSWERS EXPLAINED Section I
+# ANSWERS EXPLAINED Section I
 
 Multiple-Choice 1.
 
@@ -1462,9 +1462,9 @@ Since both gases are at STP (standard temperature and pressure)
 
 their average kinetic energies are the same.
 
-## However
+# However
 
-## since helium has a lower mass
+since helium has a lower mass
 
 it must have a higher velocity to obtain the same kinetic energy (½mv²).
 
@@ -1474,23 +1474,23 @@ The term isobaric indicates constant pressure
 
 so choice (A) is false.
 
-## During path B
+# During path B
 
 the gas expands and therefore does work to its surroundings.
 
 So choice (B) is false.
 
-## Over the entire process
+# Over the entire process
 
 the area of the enclosed area is the work done by the gas.
 
-### Since this area does not equal zero
+# Since this area does not equal zero
 
 choice (C) is false.
 
 Process D involves an expansion or contraction (displacement) of the gas.
 
-## Therefore
+# Therefore
 
 no work is done during the part of the process.
 
@@ -1498,17 +1498,17 @@ no work is done during the part of the process.
 
 Remember kq₁q₂/r².
 
-### The charges (q₁ and q₂) are the same
+The charges (q₁ and q₂) are the same
 
 and k is a constant.
 
 So the only variation in the two situations is the average r between the spheres.
 
-### In the case of the two smaller spheres
+# In the case of the two smaller spheres
 
 the average distance (represented by the centers of the spheres) is actually closer.
 
-## Therefore
+# Therefore
 
 the force is stronger in that case.
 
@@ -1516,7 +1516,7 @@ the force is stronger in that case.
 
 while the smaller sphere has slightly less than +1 microcoulomb of charge.
 
-### When the spheres contact each other
+# When the spheres contact each other
 
 electrons move off of the smaller sphere to the larger sphere and attempt to neutralize both spheres.
 
@@ -1534,7 +1534,7 @@ it captures a greater portion of the excess charge than does the smaller sphere.
 
 which all the pictures show.
 
-### Field lines should never cross
+# Field lines should never cross
 
 and none of these diagrams has that.
 
@@ -1544,7 +1544,7 @@ Picture (C) violates this principle.
 
 (D) A fully charged capacitor cannot accept any more charge
 
-## therefore
+therefore
 
 the current going into it is zero.
 
@@ -1568,7 +1568,7 @@ Any magnetic material can be made to have overall north and south poles by linin
 
 The moving charges in the wire create loops of magnetic field around them.
 
-## As R increases
+# As R increases
 
 the field strength decreases proportional to 1/R rather than 1/R² because the source of the field is a line rather than a point.
 
@@ -1576,7 +1576,7 @@ the field strength decreases proportional to 1/R rather than 1/R² because the s
 
 Reversing the direction of one current will switch the direction of its magnetic field.
 
-## However
+# However
 
 when using the right-hand rule and since the direction of the moving charges within the reversed field is also reversed
 
@@ -1602,7 +1602,7 @@ The right-hand rule for current indicates a counterclockwise current is needed.
 
 (D) An electromagnetic wave is created.
 
-## When a charge is accelerating
+# When a charge is accelerating
 
 the changing velocity of the charge creates a changing magnetic field.
 
@@ -1624,7 +1624,7 @@ Remember that a 90-degree “refraction” happens right at the critical angle.
 
 Convex mirrors are diverging.
 
-## This means the real
+# This means the real
 
 reflected rays do not come to an actual focus.
 
@@ -1638,13 +1638,13 @@ D sin θ = mλ.
 
 Wavelength does not change.
 
-## So as D gets smaller
+# So as D gets smaller
 
 sin θ must increase.
 
-## Therefore
+# Therefore
 
-## the locations of the bright
+the locations of the bright
 
 constructive interference fringes (integer m’s) are found at greater angles.
 
@@ -1654,7 +1654,7 @@ Since the nucleus has emitted a photon of electromagnetic energy
 
 the net charge on the nucleus must remain the same.
 
-## Since energy left the nucleus
+# Since energy left the nucleus
 
 the mass of the nucleus as a whole must be decreased by E/c².
 
@@ -1672,21 +1672,21 @@ The de Broglie wavelength is the connection between classically particle-like ob
 
 Interference patterns have been successfully shown for many particles.
 
-## Macroscopic objects
+# Macroscopic objects
 
-## however
+however
 
 have such large masses that their de Broglie wavelengths make observing a diffraction pattern impossible
 
 λ = h/p.
 
-### (A) Uncharged capacitor—closed switch
+(A) Uncharged capacitor—closed switch
 
 fully charged capacitor—open switch.
 
 An uncharged capacitor will initially appear to be a simple wire as the first charge to hit one side of the capacitor draws its opposite on the other side.
 
-## On the other hand
+# On the other hand
 
 a fully charged capacitor accepts no additional charges and blocks any current from entering its pathway.
 
@@ -1702,7 +1702,7 @@ An isolated fundamental particle cannot have mass.
 
 Potential energies are energies of relationship and therefore cannot belong to an isolated particle with no internal structure.
 
-## Likewise
+# Likewise
 
 internal energy refers to energies (both kinetic and potential) carried by the various internal constituents of nonfundamental particles.
 
@@ -1728,63 +1728,63 @@ The 10-ohm resistor is in parallel with the capacitor
 
 resulting in an equivalent resistance of 10/3 ohms
 
-## 1/5 + 1/10 = 1/R
+1/5 + 1/10 = 1/R
 
-## 2/10 + 1/10 = 1/R
+2/10 + 1/10 = 1/R
 
-## 3/10 = 1/R
+3/10 = 1/R
 
-## R = 10/3 Ω
+R = 10/3 Ω
 
 Ohm’s law gives us a 3-amp current coming from the battery
 
-## V = I R
+V = I R
 
-## 10 = I (10/3)
+10 = I (10/3)
 
-## I = 3 A
+I = 3 A
 
 (b) After the capacitor has been fully charged
 
-### it will act as an open circuit
+it will act as an open circuit
 
 no longer allowing charge to flow through the upper path.
 
 Equivalent resistance for the circuit will now be 10 ohms
 
-## V = I R
+V = I R
 
-## 10 V = I (10 Ω)
+10 V = I (10 Ω)
 
-## I = 1 A
+I = 1 A
 
 (c) (i) The direction of current is constant throughout the problem
 
-## from right to left
+from right to left
 
 whether the current is being supplied by the battery or by the capacitor.
 
-## (ii) C = Q / V
+(ii) C = Q / V
 
-## 5 μF = Q / 10 V
+5 μF = Q / 10 V
 
 The entire 10 V is on the capacitor at the end because the 5-ohm resistor is not using any voltage (I = 0)
 
-## Q = 50 μC
+Q = 50 μC
 
-## (iii) Initially
+(iii) Initially
 
 the 10 volts of the capacitor will be driving current through an equivalent resistance of 15 ohms (5 + 10 in series)
 
-## V = I R
+V = I R
 
-## 10 volts = I (15 ohms)
+10 volts = I (15 ohms)
 
 I = 0.
 
-## 67 amps
+67 amps
 
-## Note that right away
+# Note that right away
 
 the voltage will begin to decrease across the capacitor as it discharges
 
@@ -1802,13 +1802,13 @@ This is a magnetism and electromagnetism problem (see Chapter 3 for more informa
 
 Note that without knowing the actual orientation of the loops
 
-## the magnet
+the magnet
 
-## and the ammeter
+and the ammeter
 
 the actual sign of the current cannot be determined.
 
-## (b)
+(b)
 
 She will observe no current while the magnet is being held still.
 
@@ -1818,33 +1818,33 @@ The magnitude of this current will be larger as the change in magnetic flux is h
 
 (d) The same as described above but with opposite signs for the current.
 
-## The number of coils
+# The number of coils
 
-### the total resistance of the coils
+the total resistance of the coils
 
-## the strength of the magnet
+the strength of the magnet
 
-### the speed at which the magnet is moved
+the speed at which the magnet is moved
 
 and possibly the orientation of the magnet relative to the cross-sectional area of the solenoid all affect the magnitude of the observed current.
 
-### Electric Fields and Potentials
+# Electric Fields and Potentials
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-### THE NATURE OF ELECTRIC CHARGES
+# THE NATURE OF ELECTRIC CHARGES
 
 THE DETECTION AND MEASUREMENT OF ELECTRIC CHARGES
 
-## COULOMB’S LAW
+COULOMB’S LAW
 
-## THE ELECTRIC FIELD
+# THE ELECTRIC FIELD
 
-## ELECTRIC POTENTIAL
+# ELECTRIC POTENTIAL
 
-## CAPACITANCE
+# CAPACITANCE
 
-### THE NATURE OF ELECTRIC CHARGES
+# THE NATURE OF ELECTRIC CHARGES
 
 The ancient Greeks used to rub pieces of amber on wool or fur.
 
@@ -1860,11 +1860,11 @@ The amber acted differently from magnetic ores (lodestones)
 
 naturally occurring rocks that attract only metallic objects.
 
-## In modern times
+# In modern times
 
-## hard rubber
+hard rubber
 
-## such as ebonite
+such as ebonite
 
 is used with cloth or fur to dramatically demonstrate the properties of electrostatic force.
 
@@ -1872,7 +1872,7 @@ If you rub an ebonite rod with cloth (charging by friction) and then bring it ne
 
 the pith ball will be attracted to the rod.
 
-### When the ball and rod touch each other
+# When the ball and rod touch each other
 
 the pith ball will be repelled.
 
@@ -1886,13 +1886,13 @@ the pith ball will return to its normal state.
 
 This is illustrated in Figure 1.
 
-## In the nineteenth century
+# In the nineteenth century
 
 chemical experiments to explain these effects showed the presence of molecules called ions in solution.
 
 These ions possessed similar affinities for certain objects
 
-## such as carbon or metals
+such as carbon or metals
 
 placed in the solution.
 
@@ -1920,19 +1920,19 @@ The corresponding carrier of positive charge was termed the proton.
 
 THE DETECTION AND MEASUREMENT OF ELECTRIC CHARGES
 
-### When ebonite is rubbed with cloth
+# When ebonite is rubbed with cloth
 
 only the part of the rod in contact with the cloth becomes charged.
 
 The charge remains localized for some time (hence the name static).
 
-## For this reason
+# For this reason
 
-## among others
+among others
 
-## rubber
+rubber
 
-## along with plastic and glass
+along with plastic and glass
 
 is called an insulator.
 
@@ -1940,13 +1940,13 @@ A metal rod held in your hand cannot be charged statically for two reasons.
 
 First, metals are conductors
 
-## that is
+that is
 
 they allow electric charges to flow through them.
 
-## Second
+# Second
 
-## your body is a conductor
+your body is a conductor
 
 and any charges placed in the metal rod are conducted out through you (and into the earth).
 
@@ -1976,7 +1976,7 @@ If we recall the hypothesis that only negative charges move in solids
 
 we can understand that the electrons in the knob of the electroscope are repelled down to the leaves through the conducting stem.
 
-### The knob becomes positively charged
+# The knob becomes positively charged
 
 as can be verified with a charged pith ball
 
@@ -1984,11 +1984,11 @@ as long as the rod is near but not touching (Figure 1.
 
 2b).
 
-## If you take the rod away
+# If you take the rod away
 
 the leaves will collapse as the electroscope is still neutral overall.
 
-## Upon contact
+# Upon contact
 
 electrons are directly transferred to the knob
 
@@ -2000,9 +2000,9 @@ The whole electroscope then becomes negatively charged (Figure 1.
 
 The extent to which the leaves are spread apart is an indication of how much charge is present (but only qualitatively).
 
-## If you touch the electroscope
+# If you touch the electroscope
 
-## you will ground it
+you will ground it
 
 and the leaves will collapse together.
 
@@ -2014,29 +2014,29 @@ If you touch the electroscope shown in Figure 1.
 
 3a), the repelled electrons will be forced out into your body.
 
-## If you remove your finger
+# If you remove your finger
 
-## keeping the rod near
+keeping the rod near
 
 the electroscope will be left with an overall positive charge by induction (Figure 1.
 
 3b).
 
-## Finally
+# Finally
 
-### we can state that electric charges
+we can state that electric charges
 
-## in any distribution
+in any distribution
 
 obey a conservation law.
 
-## When we transfer charge
+# When we transfer charge
 
 we always maintain a balanced accounting.
 
 Suppose we have two charged metal spheres.
 
-### Sphere A has +5 elementary charges
+Sphere A has +5 elementary charges
 
 and sphere B has +1 elementary charge (thus both are positively charged).
 
@@ -2046,21 +2046,21 @@ Which way will charges flow?
 
 Excess charges are always spaced out as far apart as possible since they repel each other.
 
-### When charges are allowed to flow
+# When charges are allowed to flow
 
 electrons do the moving even if the net charge on both objects is positive.
 
 Note that the vast majority of charge is not moving!
 
-### If the two spheres are of equal size
+# If the two spheres are of equal size
 
 they will each have a +3 charge after enough electrons move from the +1 sphere to the +3 sphere in this case.
 
-### If one object is bigger than the other
+# If one object is bigger than the other
 
 the larger object will wind up with more of the net excess charge after those excess charges have all spread out as evenly as possible around the outer surfaces of the combined object.
 
-## COULOMB’S LAW
+COULOMB’S LAW
 
 From the first two sections of this chapter
 
@@ -2070,115 +2070,115 @@ The electrostatic force between two charged objects can act through space and ev
 
 This property makes electrostatic force similar to the force of gravity.
 
-## THINK ABOUT IT
+# THINK ABOUT IT
 
 Coulomb’s law is an inverse square law that is very similar to Newton’s law of gravitation.
 
-## However
+# However
 
 the electrostatic force can be neutralized
 
 while gravity is always present.
 
-## Additionally
+# Additionally
 
-## with the electrostatic force
+with the electrostatic force
 
 there can be repulsion as well as attraction.
 
-## In the SI system of units
+# In the SI system of units
 
-### charge is measured in coulombs (C)
+charge is measured in coulombs (C)
 
 and one elementary charge is designated as e and has a magnitude of 1.
 
-## 6 × 10⁻¹⁹ C.
+6 × 10⁻¹⁹ C.
 
-### In the late eighteenth century
+# In the late eighteenth century
 
 the nature of the electrostatic force was studied by French scientist Charles Coulomb.
 
 He discovered that the force between two point charges (designated as q₁ and q₂)
 
-## separated by a distance r
+separated by a distance r
 
 experienced a mutual force along a line connecting the charges that varied directly as the product of the charges and inversely as the square of the distance between them.
 
-## This law
+# This law
 
-## known as Coulomb’s law
+known as Coulomb’s law
 
 is, like the law of gravity
 
 an inverse square law acting on matter at a distance.
 
-## Mathematically
+# Mathematically
 
-### Coulomb’s law can be written as
+Coulomb’s law can be written as
 
-## F = k q₁ q₂ / r²
+F = k q₁ q₂ / r²
 
-## k = 1 / (4πε₀)
+k = 1 / (4πε₀)
 
 where ε₀ is the electrical permittivity of free space (that is
 
 a vacuum).
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 Calculate the static electric force between a +6.
 
-## 0 × 10⁻⁶ C charge and a −3.
+0 × 10⁻⁶ C charge and a −3.
 
-### 0 × 10⁻⁶ C charge separated by 0.
+0 × 10⁻⁶ C charge separated by 0.
 
-## 1 m.
+1 m.
 
 Is this an attractive or repulsive force?
 
-## Solution
+# Solution
 
 We use Coulomb’s law:
 
-## F = k q₁ q₂ / R²
+F = k q₁ q₂ / R²
 
 F = −16.
 
 The negative sign (opposite charges) indicates that the force is attractive.
 
-## THE ELECTRIC FIELD
+# THE ELECTRIC FIELD
 
 Another way to consider the force between two point charges is to recall that the force can act through free space.
 
-### If a charged sphere has charge +Q
+If a charged sphere has charge +Q
 
 and a small test charge (small enough to have no effect on the existing electric field) +q is brought near it
 
 the test charge will be repelled according to Coulomb’s law.
 
-## Everywhere
+# Everywhere
 
 the test charge will be repelled along a radial vector out from charge +Q.
 
-## We can state that
+# We can state that
 
 even if charge +Q is too small to be visible
 
 the influence of the electrostatic force can be observed and measured (since charges have mass and E→ = ma→ as usual).
 
-## In this way
+# In this way
 
 charge +Q is said to set up an electric field
 
 which pervades the space surrounding the charge and produces a force on any other charge that enters the field (just as a gravitational field does).
 
-### The strength of the electric field
+# The strength of the electric field
 
 E→, is defined to be the measure of the force per unit charge.
 
 The electric field strength is defined as the force per unit charge experienced at a particular location.
 
-## In other words
+# In other words
 
 compare this formula for the electric field to the formula for the gravitational field strength
 
@@ -2196,19 +2196,19 @@ An illustration of this situation is given in Figure 1.
 
 Charge +Q is represented by a charged sphere drawn as a circle.
 
-## A small positive test charge
+# A small positive test charge
 
 +q, is brought near and repelled along a radial vector r drawn outward from charge +Q.
 
-## In fact
+# In fact
 
-### anywhere in the vicinity of charge +Q
+anywhere in the vicinity of charge +Q
 
 the test charge will be repelled along an outward radial vector.
 
 We therefore draw these force field lines as radial vectors coming out from charge +Q.
 
-## By convention
+# By convention
 
 we always consider the test charge to be positive.
 
@@ -2218,19 +2218,19 @@ the electric field strength E will also vary
 
 depending on the location of the test charge.
 
-## REMEMBER
+# REMEMBER
 
 The electric field lines show which way an imaginary positive test charge would move.
 
 We can also interpret field strength by observing the density of field lines per square meter.
 
-## With point charges
+# With point charges
 
 the radial nature of their construction causes the field lines to converge near the surface of the charge Q
 
 indicating a relative increase in field strength.
 
-## In the next section
+# In the next section
 
 we will encounter a configuration in which the field strength remains constant throughout.
 
@@ -2240,7 +2240,7 @@ In Figure 1.
 
 6, the field between two point charges
 
-### with different arrangements of signs
+with different arrangements of signs
 
 is illustrated.
 
@@ -2252,11 +2252,11 @@ and all of the charges reside on the surface of the sphere.
 
 The arrows on the field lines always indicate the direction in which a positive test charge would move.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 What is the force acting on an electron placed in an external electric field E = 100 N/C?
 
-## ELECTRIC POTENTIAL
+# ELECTRIC POTENTIAL
 
 Remember that gravity is a conservative force.
 
@@ -2268,9 +2268,9 @@ W = F Δx.
 
 Suppose that the force is acting on a charge q in an electric field E.
 
-### The work done by the electric field
+# The work done by the electric field
 
-### which is also a conservative field
+which is also a conservative field
 
 is given by W = EqΔr (where Δr is the displacement in the direction of E).
 
@@ -2288,9 +2288,9 @@ If test charge +q is a distance r from source charge +Q
 
 it will experience a certain radial force whose magnitude is given by Coulomb’s law.
 
-### At any position around the source
+# At any position around the source
 
-## at a fixed distance r
+at a fixed distance r
 
 we can observe that the test charge will experience the same force.
 
@@ -2308,7 +2308,7 @@ Since the electric field is conservative
 
 work is done by or against the field only when a charge is moved from one equipotential surface to another.
 
-### To better understand this effect
+# To better understand this effect
 
 we define a quantity called the electric potential
 
@@ -2336,25 +2336,25 @@ Sometimes it is convenient to speak of the potential at a point.
 
 This implies that a zero-volt point has already been chosen and all the other electric potential differences are relative to that point.
 
-## Frequently
+# Frequently
 
 zero voltage is taken at infinity.
 
-## At other times
+# At other times
 
 it is taken to be at the closest grounding point or the negative terminal of a battery in a simple circuit.
 
-## If there exists a constant
+# If there exists a constant
 
-### uniform electric field (see below)
+uniform electric field (see below)
 
 then rearranging the definition of electric potential difference shown above yields the following relationship between electric field (a proxy for electric force) and potential difference (a proxy for electrical potential energy)
 
 Units of electric field = N/C = V/m.
 
-## Therefore
+# Therefore
 
-### if we have a uniform electric field
+if we have a uniform electric field
 
 the electric potential difference between two points is simply the electric field times the distance between the two points in the direction of the field.
 
@@ -2364,7 +2364,7 @@ If each side is oppositely charged (see Figure 1.
 
 8), the electric field will be uniform.
 
-## Therefore
+# Therefore
 
 a test charge within this field would feel the same force at any point in between the plates.
 
@@ -2380,7 +2380,7 @@ This phenomenon is known as the fringe effect.
 
 It is due to the fact that the charge distribution is no longer uniform at the edges.
 
-## Although abstract in nature
+# Although abstract in nature
 
 electrical force and energy fields can often be more easily understood by analogy with the more familiar fields for gravity.
 
@@ -2392,19 +2392,19 @@ Figure 1.
 
 Similarities in Uniform Gravitational and Electrical Formulas
 
-## Gravitational
+# Gravitational
 
-## Forces mg
+# Forces mg
 
 Potential Energy Differences mg Δh.
 
-## Electrical
+# Electrical
 
-## Forces qE
+# Forces qE
 
 Potential Energy Differences qE Δx.
 
-## CAPACITANCE
+# CAPACITANCE
 
 When there are two charged parallel metal plates in a configuration called a capacitor
 
@@ -2420,7 +2420,7 @@ Thus the capacitor gains an equal but opposite amount of charge on each side
 
 maintaining an overall neutral state.
 
-## As the charges accumulate
+# As the charges accumulate
 
 it becomes increasingly difficult to add more charge
 
@@ -2430,15 +2430,15 @@ Then A = (0.
 
 04) = 0.
 
-## 0016 m² and d = 0.
+0016 m² and d = 0.
 
-## 005 m.
+005 m.
 
 Using the formula and the value for the permittivity of free space given in the chapter
 
 we get C = 2.
 
-## 832 × 10⁻¹² F.
+832 × 10⁻¹² F.
 
 (D) Potential difference is the work done per unit charge.
 
@@ -2456,7 +2456,7 @@ Thus the force on an electron is the same everywhere.
 
 Also, we stated in the chapter that the electric field
 
-## like gravity
+like gravity
 
 is a conservative field.
 
@@ -2468,13 +2468,13 @@ Thus both statements II and III are true.
 
 A doubly ionized helium atom has +2 elementary charges.
 
-### Since the potential difference is 1
+# Since the potential difference is 1
 
-### 000 V, the kinetic energy is 2
+000 V, the kinetic energy is 2
 
-## 000 eV.
+000 eV.
 
-### When using electron-volt units
+# When using electron-volt units
 
 we eliminate the need for the small numbers associated with actual charges of particles.
 
@@ -2488,7 +2488,7 @@ The combination results in C²·s²/kg·m².
 
 (b) The electron is subject to a uniform acceleration in the downward direction.
 
-### The path will therefore be a parabola
+# The path will therefore be a parabola
 
 and the electron will be a projectile in the field.
 
@@ -2496,17 +2496,17 @@ The initial horizontal velocity remains constant
 
 and therefore the time is given by the expression t = ℓ / v₀ = 0.
 
-## 15 / (4 × 10⁷) = 3.
+15 / (4 × 10⁷) = 3.
 
-## 75 × 10⁻⁹ s.
+75 × 10⁻⁹ s.
 
-### If the sphere is in equilibrium
+# If the sphere is in equilibrium
 
 the vector sum of all forces acting on it must equal zero.
 
 There are several forces involved.
 
-## Mechanically
+# Mechanically
 
 gravity acts to create a tension in the string.
 
@@ -2514,19 +2514,19 @@ This tension has an upward component that directly balances the force of gravity
 
 A second horizontal component acts to the left and counters the horizontal electrical force established by the field and the charge on the sphere.
 
-### A free-body diagram looks like this
+# A free-body diagram looks like this
 
-## From the diagram
+# From the diagram
 
-## we see that T cos θ = mg
+we see that T cos θ = mg
 
 where θ = 10° and m = 1 g = 0.
 
-## 001 kg.
+001 kg.
 
 Thus, T = 0.
 
-## 00995 N
+00995 N
 
 using our known value for the acceleration due to gravity
 
@@ -2538,39 +2538,39 @@ Using all known values given and derived
 
 we arrive at q = 1.
 
-## 75 × 10⁻⁵ C.
+75 × 10⁻⁵ C.
 
 The only conclusion you can make is that the sphere is either “neutral” or oppositely charged compared to the rod.
 
-### If your car is hit by lightning
+# If your car is hit by lightning
 
 the charges are distributed around the outside and then dissipated away.
 
-## In a sense
+# In a sense
 
 this acts like an electrostatic shield.
 
-## Steady-State Circuits
+# Steady-State Circuits
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-## • CURRENT AND ELECTRICITY
+• CURRENT AND ELECTRICITY
 
-## • ELECTRIC RESISTANCE
+• ELECTRIC RESISTANCE
 
-## • ELECTRIC POWER AND ENERGY
+• ELECTRIC POWER AND ENERGY
 
-## • KIRCHHOFF’S RULES
+• KIRCHHOFF’S RULES
 
-## • COMBINATION CIRCUITS
+• COMBINATION CIRCUITS
 
-## • CAPACITORS IN CIRCUITS
+• CAPACITORS IN CIRCUITS
 
-### • ELECTRICAL ENERGY IS POTENTIAL ENERGY
+• ELECTRICAL ENERGY IS POTENTIAL ENERGY
 
-## CURRENT AND ELECTRICITY
+# CURRENT AND ELECTRICITY
 
-## In Chapter 1
+# In Chapter 1
 
 we observed that if two points have a potential difference between them and they are connected with a conductor
 
@@ -2586,19 +2586,19 @@ The units of measurement are coulombs per second (C/s).
 
 These are defined as an ampere or “amp.
 
-## ” Algebraically
+” Algebraically
 
 we designate current by the capital letter I and state that I = ΔQ/Δt.
 
-## In electricity
+# In electricity
 
 it is the battery that supplies the potential difference needed to maintain a continuous flow of charge.
 
-## In the nineteenth century
+# In the nineteenth century
 
 physicists thought that this potential difference was an electric force
 
-### called the electromotive force (emf)
+called the electromotive force (emf)
 
 that pushed an electric fluid through a conductor.
 
@@ -2608,15 +2608,15 @@ but rather a potential difference measured in volts.
 
 Do not be confused by the designation emf in the course of reviewing or of solving problems!
 
-## From chemistry
+# From chemistry
 
 recall that a battery uses the action of acids and bases on different metals to free electrons and maintain a potential difference.
 
-## In the process
+# In the process
 
-## two terminals
+two terminals
 
-### designated positive and negative
+designated positive and negative
 
 are created.
 
@@ -2626,7 +2626,7 @@ a complete circle of wire (a circuit) is produced
 
 allowing for the continuous flow of charge.
 
-### The battery acts like an elevator
+# The battery acts like an elevator
 
 raising electrons from the positive side up to the negative side using chemical reactions (see Figure 2.
 
@@ -2636,15 +2636,15 @@ This work is the electricity with which we have become so familiar in our modern
 
 Figure 2.
 
-## 1 A Simple Circuit
+1 A Simple Circuit
 
 The diagram in Figure 2.
 
-### 1 shows a simple electric circuit.
+1 shows a simple electric circuit.
 
 The direction of the conventional current
 
-## like electric fields
+like electric fields
 
 is from the positive terminal.
 
@@ -2662,7 +2662,7 @@ In Figure 2.
 
 Figure 2.
 
-### 2 Electrical Schematic Diagrams
+2 Electrical Schematic Diagrams
 
 The simple circuit shown in Figure 2.
 
@@ -2670,7 +2670,7 @@ The simple circuit shown in Figure 2.
 
 Figure 2.
 
-## 3 A Simple Circuit Schematic
+3 A Simple Circuit Schematic
 
 A switch has been added to the schematic
 
@@ -2698,7 +2698,7 @@ This is referred to as a “series connection
 
 ” and it maintains the singular nature of the circuit.
 
-## In practical terms
+# In practical terms
 
 you can imagine cutting a wire in Figure 2.
 
@@ -2708,11 +2708,11 @@ Ammeters have very low resistance.
 
 A voltmeter is a device that measures the potential difference
 
-## or voltage
+or voltage
 
 between two points.
 
-## Unlike an ammeter
+# Unlike an ammeter
 
 the voltmeter cannot be placed within the circuit since it will effectively be connected to only one point.
 
@@ -2728,19 +2728,19 @@ Voltmeters have very high resistance.
 
 A volt is the unit of electric potential
 
-## 1 volt = 1 joule/coulomb.
+1 volt = 1 joule/coulomb.
 
 A volt represents the amount of energy per charge relative to either a predetermined “ground” (V = 0) or between two points.
 
-## Voltage
+# Voltage
 
-## potential
+potential
 
-## potential difference
+potential difference
 
-## electromotive force (emf)
+electromotive force (emf)
 
-## voltage drop
+voltage drop
 
 and electric potential are all terms used for this important concept in electricity (recall that gravitational potential energy works similarly).
 
@@ -2748,13 +2748,13 @@ Potential difference is the preferred term on the AP Physics 2 test.
 
 Figure 2.
 
-### 4 A Simple Circuit with Voltmeter and Ammeter
+4 A Simple Circuit with Voltmeter and Ammeter
 
-## For simple circuits
+# For simple circuits
 
 there will be no observable difference in readings if the ammeter and voltmeter are moved to different locations.
 
-## However
+# However
 
 there is a slight difference in the emf across the terminals of the battery when the switch is closed versus when it is open.
 
@@ -2762,343 +2762,107 @@ The first emf reflects the work done by the battery not only to move charge thro
 
 This is sometimes referred to as the terminal emf or internal emf.
 
-## When a battery dies
+# When a battery dies
 
 it doesn’t run out of volts or charge.
 
 It runs out of energy.
 
-电池的电压额定值是衡量当每库仑电荷通过时电池所能释放多少能量的指标。
+电池的电压额定值是衡量当每库仑电荷通过时电池所能释放多少能量的指标。电池会持续释放能量直到耗尽。当你给电池充电时，你实际上是在补充它的能量！电学电阻在图2.
 
-电池会持续释放能量直到耗尽。
+4中，展示了一个简单的电路，并配备了用于测量电压和电流的仪表。如果一个灯泡长时间开启可以观察到两个现象首先，灯泡因灯丝中电流的作用而发热灯泡发出的光是由灯丝的热量产生的。其次，电流表上的电流会开始减小。这两个现象都与电阻的概念有关。流动电子与导线（或灯丝）分子的相互作用产生了电阻。电阻随温度而变化因为根据动力学理论温度升高会增强分子活动从而更大程度地阻碍电流的流动。电势能在此过程中转化为热能。对于灯泡来说，正是这种电阻使其能够发光。然而，在导线或电池中的电阻是不希望出现的，必须尽可能减小。在更复杂的电路中需要改变电流以保护元件因此制造了可以轻松装入电路的小型特殊电阻器。虽然电阻是电导的反面，但我们不想使用绝缘体作为电阻器，因为绝缘体会完全阻断电流。因此，电气手册中根据“电阻率”对一系列材料进行了分类以帮助科学家和电工为特定情况选择合适的电阻器。如果温度能保持恒定电路中的电压和电流之间会显示出简单的关系电压增加时，电流也会增大。这种直接关系最初由一位名叫乔治·欧姆的德国物理学家从理论上研究并被称为欧姆定律（见图2.
 
-当你给电池充电时，你实际上是在补充它的能量！
+欧姆定律指出，在恒温电路中，电压与电流的比值保持不变。5中直线的斜率代表电路的电阻，其单位是欧姆（Ω）。代数上，我们可以将欧姆定律写作 R = V/I 或 V = IR。并非所有导体都遵循欧姆定律。如果一个物体的电压和电流之间不存在线性关系，则被称为“非欧姆性”。例如，灯泡、半导体和液体导体就不遵循欧姆定律。其他因素也会影响导体的电阻。我们已经讨论过温度和材料类型（电阻率）的影响。电阻率用希腊字母ρ（rho）表示。在导线中，电子在移动时会与构成导线的分子发生相互作用。如果导线的横截面积较小，与束缚分子相互作用的机会就会增加，因此导线的电阻会增大。如果导线的长度增加，更长的相互作用时间也会增加导线的电阻。总之，这些电阻因素共同构成了电路的总体电阻。代数上，我们可以将这些关系（在恒温下）写成以下形式
 
-## 电学电阻
+R = ρ L / A
 
-在图2.
+其中L是以米为单位的长度
 
-4中，展示了一个简单的电路，并配备了用于测量电压和电流的仪表。
+A是以平方米为单位的横截面积。材料特定的电阻率（ρ）的单位是欧姆·米（Ω·m），通常在20摄氏度下测定。1列出了各种材料的电阻率。1 20°C时选定材料的电阻率*
 
-## 如果一个灯泡长时间开启
+材料电阻率，ρ (Ω·m)
 
-## 可以观察到两个现象
-
-首先，灯泡因灯丝中电流的作用而发热
-
-灯泡发出的光是由灯丝的热量产生的。
-
-其次，电流表上的电流会开始减小。
-
-这两个现象都与电阻的概念有关。
-
-流动电子与导线（或灯丝）分子的相互作用产生了电阻。
-
-## 电阻随温度而变化
-
-## 因为根据动力学理论
-
-## 温度升高会增强分子活动
-
-从而更大程度地阻碍电流的流动。
-
-电势能在此过程中转化为热能。
-
-对于灯泡来说，正是这种电阻使其能够发光。
-
-然而，在导线或电池中的电阻是不希望出现的，必须尽可能减小。
-
-## 在更复杂的电路中
-
-## 需要改变电流以保护元件
-
-因此制造了可以轻松装入电路的小型特殊电阻器。
-
-虽然电阻是电导的反面，但我们不想使用绝缘体作为电阻器，因为绝缘体会完全阻断电流。
-
-因此，电气手册中根据“电阻率”对一系列材料进行了分类
-
-以帮助科学家和电工为特定情况选择合适的电阻器。
-
-## 如果温度能保持恒定
-
-## 电路中的电压和电流之间会显示出简单的关系
-
-电压增加时，电流也会增大。
-
-### 这种直接关系最初由一位名叫乔治·欧姆的德国物理学家从理论上研究
-
-并被称为欧姆定律（见图2.
-
-欧姆定律指出，在恒温电路中，电压与电流的比值保持不变。
-
-5中直线的斜率代表电路的电阻，其单位是欧姆（Ω）。
-
-代数上，我们可以将欧姆定律写作 R = V/I 或 V = IR。
-
-并非所有导体都遵循欧姆定律。
-
-如果一个物体的电压和电流之间不存在线性关系，则被称为“非欧姆性”。
-
-例如，灯泡、半导体和液体导体就不遵循欧姆定律。
-
-其他因素也会影响导体的电阻。
-
-我们已经讨论过温度和材料类型（电阻率）的影响。
-
-电阻率用希腊字母ρ（rho）表示。
-
-在导线中，电子在移动时会与构成导线的分子发生相互作用。
-
-如果导线的横截面积较小，与束缚分子相互作用的机会就会增加，因此导线的电阻会增大。
-
-如果导线的长度增加，更长的相互作用时间也会增加导线的电阻。
-
-总之，这些电阻因素共同构成了电路的总体电阻。
-
-代数上，我们可以将这些关系（在恒温下）写成以下形式
-
-## R = ρ L / A
-
-## 其中L是以米为单位的长度
-
-A是以平方米为单位的横截面积。
-
-材料特定的电阻率（ρ）的单位是欧姆·米（Ω·m），通常在20摄氏度下测定。
-
-1列出了各种材料的电阻率。
-
-## 1 20°C时选定材料的电阻率*
-
-材料 电阻率，ρ (Ω·m)
-
-## 空气 ∼2 × 10^14
+空气 ∼2 × 10^14
 
 铝 2.
 
-## 83 × 10^−8
+83 × 10^−8
 
 碳 3.
 
-## 5 × 10^−5
+5 × 10^−5
 
 铜 1.
 
-## 69 × 10^−8
+69 × 10^−8
 
-## 玻璃 ∼1 × 10^13
+玻璃 ∼1 × 10^13
 
 金 2.
 
-## 44 × 10^−8
+44 × 10^−8
 
-## 石英 7 × 10^17
+石英 7 × 10^17
 
 硅 6.
 
-## 4 × 10^2
+4 × 10^2
 
 银 1.
 
-## 59 × 10^−8
+59 × 10^−8
 
 钨 5.
 
-## 33 × 10^−8
+33 × 10^−8
 
-## 木材 ∼1 × 10^15
+木材 ∼1 × 10^15
 
-*注：只需查看这些电阻率的数量级，就很容易挑出良好的导体和绝缘体材料。
-
-## 例题
-
-一段铜导线被用于电路中。
-
-导线长1.
+*注：只需查看这些电阻率的数量级，就很容易挑出良好的导体和绝缘体材料。例题一段铜导线被用于电路中。导线长1.
 
 2米，横截面积为1.
 
-## 2 × 10^−8平方米，温度恒定在20°C。
+2 × 10^−8平方米，温度恒定在20°C。(a) 计算该导线的电阻。(b) 如果将导线连接到一个10伏特的电池上，流过它的电流是多少？(a) 我们使用公式 R = ρ L / A，其中此处的ρ是20°C时的电阻率。R = (1.
 
-(a) 计算该导线的电阻。
+69 × 10^−8 Ω·m) × (1.
 
-(b) 如果将导线连接到一个10伏特的电池上，流过它的电流是多少？
+2 m) / (1.
 
-(a) 我们使用公式 R = ρ L / A，其中此处的ρ是20°C时的电阻率。
+2 × 10^−8 m^2) = 1.
 
-R = (1.
-
-## 69 × 10^−8 Ω·m) × (1.
-
-## 2 m) / (1.
-
-## 2 × 10^−8 m^2) = 1.
-
-## 69 Ω
+69 Ω
 
 (b) 现在，我们使用欧姆定律：I = V/R = 10 V / 1.
 
-## 69 Ω ≈ 5.
+69 Ω ≈ 5.
 
-## 电功率与能量
+电功率与能量电能可用于产生光和热。电力可以驱动电机做功。测量了电路中的电压和电流后，我们可以用以下方法确定产生的功率和能量。电压（电势差）的单位是焦耳每库仑（J/C）衡量的是流向电路的每库仑电荷所获得的能量。电流I衡量的是任何给定时间每秒流过的总库仑数。因此，电压（V）和电流（I）的乘积是衡量总功率的指标因为其单位是焦耳每秒（瓦特）P = V I
 
-电能可用于产生光和热。
+单位分析：(J/C) × (C/s) = J/s = 瓦特推导：P = 功/时间 = (qV)/t = (q/t)V = I V
 
-电力可以驱动电机做功。
+在给定时间t（秒）内消耗的电能就是功率与时间的乘积：能量 = P t = V I t
 
-测量了电路中的电压和电流后，我们可以用以下方法确定产生的功率和能量。
+例题一个10Ω的电阻连接到一个24V的电池上30分钟，消耗了多少能量？解：我们知道能量由 E = VIt = (V^2 / R) t 给出其中t必须以秒为单位。E = (24 V)^2 × (1
 
-## 电压（电势差）的单位是焦耳每库仑（J/C）
-
-衡量的是流向电路的每库仑电荷所获得的能量。
-
-电流I衡量的是任何给定时间每秒流过的总库仑数。
-
-因此，电压（V）和电流（I）的乘积是衡量总功率的指标
-
-## 因为其单位是焦耳每秒（瓦特）
-
-## P = V I
-
-单位分析：(J/C) × (C/s) = J/s = 瓦特
-
-推导：P = 功/时间 = (qV)/t = (q/t)V = I V
-
-在给定时间t（秒）内消耗的电能就是功率与时间的乘积：
-
-## 能量 = P t = V I t
-
-## 例题
-
-一个10Ω的电阻连接到一个24V的电池上30分钟，消耗了多少能量？
-
-解：我们知道能量由 E = VIt = (V^2 / R) t 给出
-
-其中t必须以秒为单位。
-
-## E = (24 V)^2 × (1
-
-## 800 s) / (10 Ω) = 1
+800 s) / (10 Ω) = 1
 
 036,800 J
 
-## 提示
+提示物理中的许多问题都假设电压恒定。例如，任何从墙壁插座获取电力的电器都有一个设定的电压（在美国是120V）。任何由电池供电的电器也始终具有电池的固定电压。因此，尽管通常电压可能会变化，但在许多给定问题中，电压通常可以被假定为固定值。基尔霍夫定律本章即将探讨的所有电路分析都基于两条非常重要的守恒定律：电荷守恒和能量守恒。古斯塔夫·基尔霍夫首先将这些定律应用于电路，并给出了以下电路规则：# 1. 节点定律：进入一个节点的总电流必须等于离开该节点的总电流。（电荷必须守恒。）# 2. 回路定律：沿着电路的任何闭合回路，电压降和电压升的总和必须为零。（能量必须守恒。）顺着电流方向通过电阻器是电压降，逆着电流方向则是电压升。从负极到正极通过电池是电压升，从正极到负极则是电压降。例题在下面电路部分的顶层路径中，电流是多少？解：由于从左侧进入节点A的总电流是9安培，因此必须有总共9安培的电流离开。由于另外两个支路总共带走了8安培，剩下的1安培电流会流向缺失的路径。例题在这个电路图中，每个电阻两端的电压降是多少？解：如果我们从右下角开始逆时针方向追踪一个回路会遇到以下电压变化这些变化的总和必须为零
 
-物理中的许多问题都假设电压恒定。
++9 V + R1 − 5 V + 2 V = 0。解得 R1 = −6 V。这意味着电流在该电阻器中是从右向左流动的因为我们从右向左追踪该电阻器时得到了电压降低的结果。（回忆一下，电流是从高电压流向低电压的。串联电路串联电路由两个或多个电阻依次连接在一个电路中组成。更一般地，更复杂电路中位于同一路径上的元件是“彼此串联的”。一个例子见图2.
 
-例如，任何从墙壁插座获取电力的电器都有一个设定的电压（在美国是120V）。
+我们需要问两个问题。第一，串联增加更多电阻对电路总电阻有什么影响？第二，串联增加电阻对电路中流动的电流有什么影响？思考这种电路的一种方式是想象一系列连续的门。当人们通过一扇门出去后，必须等待打开另一扇门。结果是从系统中消耗了能量，并减少了每秒离开房间的人数。在电路中，串联增加更多电阻会通过增加电路的电阻来减小电流（在相同电压下）。代数上，所有这些观察可以总结如下。对于电阻R1、R2和R3，电流分别为I1、I2和I3。这三个电流彼此相等，也等于电路电流I：I = I1 = I2 = I3。然而，每个电阻两端的电压都小于电源电压V。如果三个电阻相等，每个电阻上的电压将是总电源电压的三分之一。无论如何，我们有 V = V1 + V2 + V3。使用欧姆定律（V = IR）我们可以将这个表达式重写为
 
-任何由电池供电的电器也始终具有电池的固定电压。
+I R = I1 R1 + I2 R2 + I3 R3。由于三个电流相等，它们可以从表达式中约去。这使我们得到：R = R1 + R2 + R3。换句话说，当电阻串联时，电路的等效电阻随着所有电阻之和而增加。这一事实解释了为什么随着更多电阻的添加电流会减小。在我们的例子中，电路的等效电阻是 1 Ω + 2 Ω + 3 Ω = 6 Ω。由于电源电压是12 V
 
-因此，尽管通常电压可能会变化，但在许多给定问题中，电压通常可以被假定为固定值。
-
-## 基尔霍夫定律
-
-本章即将探讨的所有电路分析都基于两条非常重要的守恒定律：电荷守恒和能量守恒。
-
-古斯塔夫·基尔霍夫首先将这些定律应用于电路，并给出了以下电路规则：
-
-### 1. 节点定律：进入一个节点的总电流必须等于离开该节点的总电流。（电荷必须守恒。）
-
-### 2. 回路定律：沿着电路的任何闭合回路，电压降和电压升的总和必须为零。（能量必须守恒。）
-
-顺着电流方向通过电阻器是电压降，逆着电流方向则是电压升。
-
-从负极到正极通过电池是电压升，从正极到负极则是电压降。
-
-## 例题
-
-在下面电路部分的顶层路径中，电流是多少？
-
-解：由于从左侧进入节点A的总电流是9安培，因此必须有总共9安培的电流离开。
-
-由于另外两个支路总共带走了8安培，剩下的1安培电流会流向缺失的路径。
-
-## 例题
-
-在这个电路图中，每个电阻两端的电压降是多少？
-
-解：如果我们从右下角开始
-
-## 逆时针方向追踪一个回路
-
-## 会遇到以下电压变化
-
-## 这些变化的总和必须为零
-
-+9 V + R1 − 5 V + 2 V = 0。
-
-解得 R1 = −6 V。
-
-## 这意味着电流在该电阻器中是从右向左流动的
-
-因为我们从右向左追踪该电阻器时得到了电压降低的结果。
-
-（回忆一下，电流是从高电压流向低电压的。
-
-## 串联电路
-
-串联电路由两个或多个电阻依次连接在一个电路中组成。
-
-更一般地，更复杂电路中位于同一路径上的元件是“彼此串联的”。
-
-一个例子见图2.
-
-我们需要问两个问题。
-
-第一，串联增加更多电阻对电路总电阻有什么影响？
-
-第二，串联增加电阻对电路中流动的电流有什么影响？
-
-思考这种电路的一种方式是想象一系列连续的门。
-
-当人们通过一扇门出去后，必须等待打开另一扇门。
-
-结果是从系统中消耗了能量，并减少了每秒离开房间的人数。
-
-在电路中，串联增加更多电阻会通过增加电路的电阻来减小电流（在相同电压下）。
-
-代数上，所有这些观察可以总结如下。
-
-对于电阻R1、R2和R3，电流分别为I1、I2和I3。
-
-这三个电流彼此相等，也等于电路电流I：I = I1 = I2 = I3。
-
-然而，每个电阻两端的电压都小于电源电压V。
-
-如果三个电阻相等，每个电阻上的电压将是总电源电压的三分之一。
-
-无论如何，我们有 V = V1 + V2 + V3。
-
-## 使用欧姆定律（V = IR）
-
-## 我们可以将这个表达式重写为
-
-I R = I1 R1 + I2 R2 + I3 R3。
-
-由于三个电流相等，它们可以从表达式中约去。
-
-这使我们得到：R = R1 + R2 + R3。
-
-换句话说，当电阻串联时，电路的等效电阻随着所有电阻之和而增加。
-
-这一事实解释了为什么随着更多电阻的添加电流会减小。
-
-在我们的例子中，电路的等效电阻是 1 Ω + 2 Ω + 3 Ω = 6 Ω。
-
-## 由于电源电压是12 V
-
-## 根据欧姆定律
-
-电路电流为 12 V / 6 Ω = 2 A。
-
-## 6 = 2 A.
+根据欧姆定律电路电流为 12 V / 6 Ω = 2 A。6 = 2 A.
 
 The voltage across each resistor can now be determined from Ohm’s law since each gets the same current of 2 A.
 
 Thus, V1 = (1)(2) = 2 V
 
-## V2 = (2)(2) = 4 V
+V2 = (2)(2) = 4 V
 
 V3 = (3)(2) = 6 V.
 
@@ -3106,13 +2870,13 @@ The voltages in a series circuit add up to the total
 
 and not unexpectedly we have 2 V + 4 V + 6 V = 12 V.
 
-## It should be noted that
+# It should be noted that
 
 when batteries are connected in series (positive to negative)
 
 the effective voltage increases additively as well.
 
-## Parallel Circuits
+# Parallel Circuits
 
 A parallel circuit consists of multiple pathways connected from one point to another
 
@@ -3122,9 +2886,9 @@ An example of a parallel circuit is seen in Figure 2.
 
 Figure 2.
 
-## 7 Parallel Circuit
+7 Parallel Circuit
 
-## In this circuit
+# In this circuit
 
 a branch point is reached in which the current I is split into I1 and I2.
 
@@ -3138,7 +2902,7 @@ the voltage is the same.
 
 Another feature of the parallel circuit is the availability of alternative paths.
 
-### If one part of the circuit is broken
+# If one part of the circuit is broken
 
 current can flow through the other path.
 
@@ -3146,7 +2910,7 @@ While each branch current is less than the total circuit current I
 
 the effect of adding resistors in parallel is to increase the effective circuit current by decreasing the circuit resistance R.
 
-### To understand this effect further
+# To understand this effect further
 
 imagine a set of doors placed next to each other along a wall in a room.
 
@@ -3156,21 +2920,21 @@ the parallel-circuit analogy involves placing the doors next to each other.
 
 Even though each door will have fewer people per second going through it at any given time
 
-### the overall effect is to allow
+the overall effect is to allow
 
-## in total
+in total
 
 more people to exit from the room.
 
 This is analogous to reducing the circuit resistance and increasing the circuit current (at the same voltage).
 
-## Algebraically
+# Algebraically
 
 we can express these observations as follows.
 
-## We have two resistors
+# We have two resistors
 
-## R1 and R2
+# R1 and R2
 
 with currents I1 and I2.
 
@@ -3178,23 +2942,23 @@ Voltmeters placed across the two resistors would indicate voltages V1 and V2
 
 which would be essentially equal to the source voltage V
 
-## that is
+that is
 
-## in this example
+in this example
 
 V = V1 = V2.
 
 Ammeters placed in the circuit would reveal that the circuit current I is equal to the sum of the branch currents I1 and I2
 
-## that is
+that is
 
 I = I1 + I2.
 
-## Using Ohm’s law
+Using Ohm’s law
 
 we see that V/R = V1/R1 + V2/R2.
 
-## Since all voltages are equal
+# Since all voltages are equal
 
 they can be canceled from the expression
 
@@ -3208,29 +2972,29 @@ This expression indicates that the equivalent resistance is determined “recipr
 
 If, for example
 
-## R1 = 10 Ω and R2 = 10 Ω
+R1 = 10 Ω and R2 = 10 Ω
 
 the equivalent resistance is R = 5 Ω (in parallel)!
 
 It should be noted that connecting batteries in parallel (positive to positive and negative to negative) has no effect on the overall voltage of the combination.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A 20-Ω resistor and a 5-Ω resistor are connected in parallel.
 
-## If a 16-V battery is used
+# If a 16-V battery is used
 
 calculate the equivalent resistance of the circuit
 
-## the circuit current
+the circuit current
 
 and the amount of current flowing through each resistor.
 
-## Solution
+# Solution
 
 We know that the equivalent resistance is given by 1/Req = 1/R1 + 1/R2 = 1/20 Ω + 1/5 Ω.
 
-## In this case
+# In this case
 
 it is easily seen that Req = 4 Ω.
 
@@ -3238,21 +3002,21 @@ Thus, using Ohm’s law
 
 I = V/Req = 16 V / 4 Ω = 4 A.
 
-### To find the current in each branch
+# To find the current in each branch
 
 we recall that the voltage drop across each resistor is the same as the source voltage.
 
 In this case: I20 = 16 V / 20 Ω = 0.
 
-## 8 A; I5 = 16 V / 5 Ω = 3.
+8 A; I5 = 16 V / 5 Ω = 3.
 
-## 2 A.
+2 A.
 
 Notice that the total current is equal to 4 A as expected.
 
-## COMBINATION CIRCUITS
+# COMBINATION CIRCUITS
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 In Figure 2.
 
@@ -3260,7 +3024,7 @@ In Figure 2.
 
 The key to reducing such a circuit is to decide whether it is
 
-## overall
+overall
 
 a series or parallel circuit.
 
@@ -3270,13 +3034,13 @@ In Figure 2.
 
 The problem is to reduce the circuit to only one resistor and then to determine the circuit current
 
-## the voltage across the branch
+the voltage across the branch
 
 and the current in each branch.
 
 Figure 2.
 
-## Solution
+# Solution
 
 To reduce the circuit and find the circuit resistance R
 
@@ -3286,11 +3050,11 @@ Thus, if Re is the equivalent resistance in the branch
 
 then 1/Re = 1/4 + 1/4.
 
-### Since the circuit voltage is 20 V
+# Since the circuit voltage is 20 V
 
 Ohm’s law states that the circuit current is I = V/R = 20 / 10 = 2 A.
 
-## In a series circuit
+# In a series circuit
 
 the voltage drop across each resistor is shared proportionally since the same current flows through each resistor.
 
@@ -3310,9 +3074,9 @@ thus, each current is 1 A.
 
 Note how we used Kirchhoff’s rule.
 
-## CAPACITORS IN CIRCUITS
+# CAPACITORS IN CIRCUITS
 
-## Capacitors in Series
+# Capacitors in Series
 
 We know from Chapter 1 that the capacitance of a parallel-plate capacitor is given by C = Q/V.
 
@@ -3320,19 +3084,19 @@ Suppose we have a series of capacitors connected to a potential difference V as 
 
 Figure 2.
 
-## 9 Capacitors in Series
+9 Capacitors in Series
 
-## In this circuit
+# In this circuit
 
 the magnitude of the charge must be the same on all plates
 
 so that portion must remain neutral.
 
-## In order to remain neutral
+# In order to remain neutral
 
 any negative charges drawn to the right-hand side of C1 will leave an equivalent amount of positive charge on the left-hand side of C2.
 
-## Additionally
+# Additionally
 
 the voltage across each capacitor is shared proportionally so that V1 + V2 = V (just like the situation with resistors in series).
 
@@ -3342,17 +3106,17 @@ Note that this is the opposite of the relationship for resistors in series.
 
 Be sure not to confuse them!
 
-## Capacitors in Parallel
+# Capacitors in Parallel
 
 A parallel combination of capacitors is shown in Figure 2.
 
 Figure 2.
 
-## 10 Capacitors in Parallel
+10 Capacitors in Parallel
 
-## In this circuit
+# In this circuit
 
-## the current branches off
+the current branches off
 
 and so each capacitor is charged to a different total charge
 
@@ -3366,7 +3130,7 @@ Thus, CV = C1V + C2V and C = C1 + C2 (for a parallel combination).
 
 Note that this is the opposite of the relationship for resistors in parallel.
 
-### Capacitors and Resistors in a Circuit
+# Capacitors and Resistors in a Circuit
 
 If there is both a capacitor and a resistor in a circuit
 
@@ -3378,9 +3142,9 @@ then there is a time-varying current as the capacitor “charges up” or “dis
 
 Figure 2.
 
-## 11 An RC Circuit
+11 An RC Circuit
 
-## When the switch is closed
+# When the switch is closed
 
 current flows through the resistor given by Ohm’s law
 
@@ -3400,21 +3164,21 @@ A graph of the increase in charge versus time for the capacitor is sketched in F
 
 Figure 2.
 
-## 12 Charging of a Capacitor
+12 Charging of a Capacitor
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 What is the equivalent capacitance of a 5-F capacitor and a 15-F capacitor connected in parallel?
 
-## Solution
+# Solution
 
-## We recall that in parallel
+# We recall that in parallel
 
 the total capacitance is equal to the sum of the individual capacitances
 
 CT = C1 + C2 = 5 F + 15 F = 20 F.
 
-## On the AP Physics 2 exam
+# On the AP Physics 2 exam
 
 students are required to solve steady-state RC circuits.
 
@@ -3422,27 +3186,27 @@ So students must understand current and voltage everywhere once any charging or 
 
 This simplifies matters considerably as a fully charged capacitor does not allow any current to flow through the pathway it is on as it can no longer accept any additional charges.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 Given the values for the circuit components arranged as above
 
 determine the steady-state solution for (a) charge on
 
-### (b) potential difference across
+(b) potential difference across
 
 and (c) current through for each component.
 
 DC power supply = 9 V R1 = 4.
 
-### 5 ohms C1 = C2 = 18 μF C3 = 9 μF
+5 ohms C1 = C2 = 18 μF C3 = 9 μF
 
-## Solution
+# Solution
 
-### Once the capacitors are fully charged
+# Once the capacitors are fully charged
 
 no current will be flowing through the central wires to the capacitors
 
-### allowing us to solve part (c) quickly
+allowing us to solve part (c) quickly
 
 I (for any of the capacitors) = 0 A.
 
@@ -3452,7 +3216,7 @@ the resistor and power supply are effectively in series.
 
 I R1 = I power supply = V / R = 9 / 4.
 
-## 5 = 2 A.
+5 = 2 A.
 
 Capacitor C1 is in parallel with the power supply
 
@@ -3462,7 +3226,7 @@ Capacitors C2 and C3 must split the 9 volts between them.
 
 VR1 = VC1 = VC2 + VC3 = 9 V.
 
-### Resistors never accumulate charge
+# Resistors never accumulate charge
 
 so QR1 = 0.
 
@@ -3474,7 +3238,7 @@ Recall that μ is simply the metric prefix micro-
 
 which equals 10−6.
 
-## For C2 and C3
+# For C2 and C3
 
 we must first determine their equivalent capacitance 1/Cequ = 1/C2 + 1/C3 = 1/18 + 1/9.
 
@@ -3488,7 +3252,7 @@ Since this is the amount of charge drawn into the pathway containing both C2 and
 
 the top plate of C2 and the bottom plate of C3 must receive exactly this much charge
 
-## giving us
+giving us
 
 QC2 = QC3 = 54 μC.
 
@@ -3500,7 +3264,7 @@ VC2 = 54 μC / 18 μF = 3 V.
 
 VC3 = 54 μC / 9 μF = 6 V.
 
-### ELECTRICAL ENERGY IS POTENTIAL ENERGY
+# ELECTRICAL ENERGY IS POTENTIAL ENERGY
 
 Many students of physics can get confused about the basic fact that the current going into a resistor is the same as the current coming out of the resistor.
 
@@ -3510,9 +3274,9 @@ or heated up or gave off light?
 
 The conflict arises because many students are imagining the energy of the moving electrons as being kinetic energy.
 
-## The energy in circuits
+# The energy in circuits
 
-## however
+however
 
 is electrical potential energy!
 
@@ -3524,7 +3288,7 @@ Even though the number of electrons passing per second
 
 and hence their average speed (drift velocity)
 
-## is the same before and after
+is the same before and after
 
 the fields associated with their relative positions are completely different.
 
@@ -3544,7 +3308,7 @@ Parallels can be made with other potential energies.
 
 The gravitation potential of a rock held above the ground is not actually stored within the rock itself but
 
-## rather
+rather
 
 in the gravitational field between the rock and Earth.
 
@@ -3558,15 +3322,15 @@ See Figure 2.
 
 Figure 2.
 
-### 13 Binding Energies Are Negative
+13 Binding Energies Are Negative
 
-## EXAMPLES
+# EXAMPLES
 
-## GRAVITATIONAL ENERGY
+# GRAVITATIONAL ENERGY
 
 A falling rock is gaining kinetic energy as it moves from being farther away from Earth to being closer to Earth (a strong gravitational bond).
 
-## CHEM
+# CHEM
 
 Ohm's law: I = V/R = 40/10 = 4 A
 
@@ -3578,11 +3342,11 @@ Now, the equivalent resistance of the parallel branch is also 5 Ω
 
 and therefore across the entire branch there is also a potential difference of 20 V (in a series circuit
 
-### the voltages must add up—in this case
+the voltages must add up—in this case
 
 to 40 V).
 
-## In a parallel circuit
+# In a parallel circuit
 
 the potential difference is the same across each portion.
 
@@ -3590,11 +3354,11 @@ Thus, the 10-Ω resistor has 20 V across it.
 
 Using Ohm's law, we find that this implies a current reading of 2 A for ammeter A.
 
-## (d) If
+(d) If
 
-## from part (c)
+from part (c)
 
-## ammeter A reads 2 A
+ammeter A reads 2 A
 
 the top branch must be getting 2 A of current as well (since the source current is 4 A).
 
@@ -3602,7 +3366,7 @@ Thus, using Ohm's law, we can find the voltage across the 8-Ω resistor: V = IR 
 
 Bulb brightness is determined by the power consumed
 
-## P = IV
+P = IV
 
 for each bulb.
 
@@ -3610,7 +3374,7 @@ The two bulbs in series will have to split the voltage of the battery.
 
 Also, the two bulbs in series will receive half the current since they have doubled the resistance of their path.
 
-## Combining these two effects
+# Combining these two effects
 
 the power (brightness) of each bulb is one fourth that of a single bulb attached to the same battery.
 
@@ -3628,23 +3392,23 @@ Thus, after a while
 
 this increase in temperature reduces the current flowing through them since the resistance has increased.
 
-### Magnetism and Electromagnetism
+# Magnetism and Electromagnetism
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-## • MAGNETIC FIELDS AND FORCES
+• MAGNETIC FIELDS AND FORCES
 
-### • MAGNETIC FORCE ON A MOVING CHARGE
+• MAGNETIC FORCE ON A MOVING CHARGE
 
 • MAGNETIC FIELDS DUE TO CURRENTS IN WIRES
 
-### • MAGNETIC FORCE BETWEEN TWO WIRES
+• MAGNETIC FORCE BETWEEN TWO WIRES
 
-### • INDUCED MOTIONAL EMF IN A WIRE
+• INDUCED MOTIONAL EMF IN A WIRE
 
 • MAGNETIC FLUX AND FARADAY'S LAW OF INDUCTION
 
-## MAGNETIC FIELDS AND FORCES
+# MAGNETIC FIELDS AND FORCES
 
 When two statically charged point objects approach each other
 
@@ -3654,11 +3418,11 @@ We can also state that one of the charges creates an electrostatic field around 
 
 and this field transmits the force through space.
 
-### When we have a wire carrying current
+# When we have a wire carrying current
 
 we no longer consider the effects of static fields.
 
-### A simple demonstration reveals that
+# A simple demonstration reveals that
 
 when we arrange two current-carrying wires parallel to each other so that the currents are in the same direction
 
@@ -3674,11 +3438,11 @@ we must conclude that a different force is responsible.
 
 The nature of this force can be further understood when we consider the fact that a statically charged object
 
-## such as an amber stone
+such as an amber stone
 
 cannot pick up small bits of metal.
 
-## However
+# However
 
 certain naturally occurring rocks called lodestones can attract metal objects.
 
@@ -3700,13 +3464,13 @@ If the magnetized pin is placed on a floating cork
 
 the pin will align itself along a general north-south line.
 
-### If the cork’s orientation is shifted
+If the cork’s orientation is shifted
 
 the pin will oscillate around its original equilibrium direction and eventually settle down along this direction.
 
-## Finally
+# Finally
 
-### if another magnet is brought near
+if another magnet is brought near
 
 the “compass” will realign itself toward the new magnet.
 
@@ -3716,33 +3480,33 @@ and we can therefore consider the actions of this force through the description 
 
 If a magnet is made in the shape of a rectangular bar
 
-## the orientation of a compass
+the orientation of a compass
 
-## moved around the magnet
+moved around the magnet
 
 demonstrates that the compass aligns itself tangentially to some imaginary field lines that were first discussed by English physicist Michael Faraday.
 
-## In general
+# In general
 
 we label the north-seeking pole of the magnet as N and the south-seeking pole as S.
 
 We also observe that these two opposite poles behave in a similar way to opposite electric charges
 
-## like poles repel
+like poles repel
 
 while unlike poles attract.
 
 A fundamental difference between these two effects is that magnet poles never appear in isolation.
 
-### If a magnet is broken in two pieces
+# If a magnet is broken in two pieces
 
 each new magnet has a pair of poles.
 
 This phenomenon continues even to the atomic level.
 
-## There appear
+# There appear
 
-## at present
+at present
 
 to be no magnetic monopoles naturally occurring in nature.
 
@@ -3750,7 +3514,7 @@ to be no magnetic monopoles naturally occurring in nature.
 
 but none has as yet been discovered.
 
-## REMEMBER
+# REMEMBER
 
 A compass needle will align itself tangent to the external magnetic field.
 
@@ -3758,9 +3522,9 @@ Small pieces of iron (called “filings”) can be used as miniature compasses t
 
 The ability of a metal to be magnetized is called its permeability
 
-## substances such as iron
+substances such as iron
 
-## cobalt
+cobalt
 
 and nickel have among the highest permeabilities.
 
@@ -3768,7 +3532,7 @@ These substances are sometimes called ferromagnets.
 
 Several different magnetic field configurations are shown.
 
-## By convention
+# By convention
 
 the direction of the magnetic field is taken to be from the north pole of the magnet to the south pole.
 
@@ -3780,13 +3544,13 @@ we must examine the nature of the fields and forces themselves.
 
 The sources of all magnetic fields are moving charges.
 
-## These magnetic fields
+# These magnetic fields
 
-## in turn
+in turn
 
 exert forces on only other moving charges.
 
-## In the following sections
+# In the following sections
 
 we will explore how magnetic forces are exerted on moving charges and then how the fields themselves are generated by moving source charges.
 
@@ -3800,27 +3564,27 @@ Charges give rise to both electric and magnetic fields
 
 - All charges: Produce electric fields
 
-## - Moving charges
+- Moving charges
 
-## Produce magnetic fields
+# Produce magnetic fields
 
-## - Accelerating charges
+- Accelerating charges
 
 Produce changing electric and magnetic fields (electromagnetic radiation)
 
-### MAGNETIC FORCE ON A MOVING CHARGE
+# MAGNETIC FORCE ON A MOVING CHARGE
 
 If a moving electric charge enters a magnetic field
 
 it will experience a force that depends on its velocity
 
-## charge
+charge
 
 and orientation with respect to the field.
 
 The force will also depend on the magnitude of the magnetic field strength (designated as B algebraically).
 
-### The magnetic field is a vector quantity
+# The magnetic field is a vector quantity
 
 just like the gravitational and electrical field strengths.
 
@@ -3832,11 +3596,11 @@ With this varying angle of orientation θ and a given charge Q
 
 we find that the magnitude of the magnetic force is given by
 
-## F = BQv sin θ
+F = BQv sin θ
 
 For a current-carrying wire (I) of length ℓ
 
-## F = BIℓ sin θ
+F = BIℓ sin θ
 
 The right-hand rule illustrates the direction.
 
@@ -3848,13 +3612,13 @@ SAMPLE PROBLEM: A wire 1.
 
 Calculate the magnetic force on the wire.
 
-## Solution
+# Solution
 
 We use F = BIℓ sin(90°) = (5 × 10⁻⁴ T)(60 A)(1.
 
-## 2 m)(1) = 0.
+2 m)(1) = 0.
 
-## 036 N.
+036 N.
 
 Since the units of force must be newtons
 
@@ -3864,9 +3628,9 @@ Recall that the newton · second is the unit for an impulse.
 
 We can think of the magnetic field as a measure of the impulse given to 1 coulomb of charge moving a distance of 1 meter in a given direction.
 
-## Additionally
+# Additionally
 
-## if we have a beam of charges
+if we have a beam of charges
 
 we effectively have an electric current.
 
@@ -3874,11 +3638,11 @@ The units (seconds per coulomb) can be interpreted as the reciprocal of amperes
 
 and so the strength of the magnetic field in a current-carrying wire is given in units of newtons per ampere · meter (N/A · m).
 
-## In the SI system
+# In the SI system
 
-### this combination is called a tesla
+this combination is called a tesla
 
-### 1 tesla is equal to 1 newton per ampere · meter.
+1 tesla is equal to 1 newton per ampere · meter.
 
 Thus, an electric current carries a magnetic field.
 
@@ -3886,9 +3650,9 @@ This is consistent with the earliest experiments by Hans Oersted
 
 who first showed that an electric current can influence a compass.
 
-## Oersted’s discovery
+Oersted’s discovery
 
-## in 1819
+in 1819
 
 established the new science of electromagnetism.
 
@@ -3898,281 +3662,47 @@ Open your right hand so that your fingers point in the direction of the magnetic
 
 Your open palm will show the direction of the force.
 
-要在一个导线中感应出电流吗？
+要在一个导线中感应出电流吗？答案是由法国科学家安德烈·安培在十九世纪初研究得出的，是肯定的。然而，这个过程并不像简单地把一根导线放在磁场中然后电流就会“神奇地”产生那么简单！一个简单的实验装置如图3.
 
-答案是由法国科学家安德烈·安培在十九世纪初研究得出的，是肯定的。
+13所示。一个马蹄形磁铁连接着一根导线，导线连接到一个电流计上。当导线静止在磁场中时，电流计显示为零电流。如果随后移动导线使其运动“切割”假想的磁感线，电流计将显示出微弱的电流。然而，如果移动导线使其运动方向与磁场平行，则同样没有电流。该实验还表明对于给定的速度当导线垂直穿过磁场时电流最大（这表明其依赖于取向角的正弦值）。上述现象被称为电磁感应。感应电流的来源是由于某种称为磁通量的变化而产生的动生电动势，我们稍后将定义它。如果导线如图3.
 
-然而，这个过程并不像简单地把一根导线放在磁场中
+13中上下穿过磁场，电流计显示感应电流根据右手定则交替变化。右手手指指向磁场方向；拇指指向导线运动方向；最后，张开的掌心表示感应电流的方向。由于通过磁场的平行运动意味着没有感应电流如果导线以其他任何角度移动只有垂直分量对感应过程有贡献。回顾一下，如果v是垂直速度分量则F = Bqv是感应磁场对电荷q作用力的表达式。现在，我们情况中的导线包含电荷，如果我们能让它们穿过外部磁场，它们就会受到力F。物理上移动整根导线就完成了这个任务。感应力的方向，由右手定则确定，是沿着导线的长度方向。如果令Q代表每秒的总电荷量，我们可以写出F = BQv。只要电荷在磁场中，它们就会受到力。这种情况发生在长度ℓ上，力所做的功由W = Fℓ给出。因此W = BQvℓ。感应电位差（电动势）是单位电荷所做功（W/Q）的量度由此我们得到emf = Bℓv。这种电动势有时被称为“动生电动势”，因为它是由于导线在磁场中运动而产生的。关于电磁感应的一个有趣事实是，上述表达式中的速度是相对速度；也就是说，无论导线穿过磁场还是磁场相对于导线变化，都可以产生感应电动势！此外，即使没有相对速度，只要磁场发生变化，也可以感应出电动势。14是该效应的简单图示。在图3.
 
-然后电流就会“神奇地”产生那么简单！
-
-一个简单的实验装置如图3.
-
-13所示。
-
-一个马蹄形磁铁连接着一根导线，导线连接到一个电流计上。
-
-当导线静止在磁场中时，电流计显示为零电流。
-
-如果随后移动导线使其运动“切割”假想的磁感线，电流计将显示出微弱的电流。
-
-然而，如果移动导线使其运动方向与磁场平行，则同样没有电流。
-
-## 该实验还表明
-
-## 对于给定的速度
-
-当导线垂直穿过磁场时电流最大（这表明其依赖于取向角的正弦值）。
-
-上述现象被称为电磁感应。
-
-感应电流的来源是由于某种称为磁通量的变化而产生的动生电动势，我们稍后将定义它。
-
-如果导线如图3.
-
-13中上下穿过磁场，电流计显示感应电流根据右手定则交替变化。
-
-右手手指指向磁场方向；
-
-拇指指向导线运动方向；
-
-最后，张开的掌心表示感应电流的方向。
-
-## 由于通过磁场的平行运动意味着没有感应电流
-
-## 如果导线以其他任何角度移动
-
-只有垂直分量对感应过程有贡献。
-
-回顾一下，如果v是垂直速度分量
-
-则F = Bqv是感应磁场对电荷q作用力的表达式。
-
-现在，我们情况中的导线包含电荷，如果我们能让它们穿过外部磁场，它们就会受到力F。
-
-物理上移动整根导线就完成了这个任务。
-
-感应力的方向，由右手定则确定，是沿着导线的长度方向。
-
-如果令Q代表每秒的总电荷量，我们可以写出F = BQv。
-
-只要电荷在磁场中，它们就会受到力。
-
-这种情况发生在长度ℓ上，力所做的功由W = Fℓ给出。
-
-因此W = BQvℓ。
-
-## 感应电位差（电动势）是单位电荷所做功（W/Q）的量度
-
-由此我们得到emf = Bℓv。
-
-这种电动势有时被称为“动生电动势”，因为它是由于导线在磁场中运动而产生的。
-
-关于电磁感应的一个有趣事实是，上述表达式中的速度是相对速度；
-
-也就是说，无论导线穿过磁场还是磁场相对于导线变化，都可以产生感应电动势！
-
-此外，即使没有相对速度，只要磁场发生变化，也可以感应出电动势。
-
-14是该效应的简单图示。
-
-在图3.
-
-14中，一个条形磁铁被插入和拔出一个有N匝线圈。
-
-线圈的匝数与方程1中的总长度ℓ有关。
-
-电流计记录磁铁插入和拔出时线圈中的交流电。
-
-如预测所示，改变速度会影响电流量值。
-
-磁铁绕线圈外部移动只会产生微弱的电流。
-
-如果磁铁保持不动，而线圈上下移动经过磁铁，则说明了相对速度的概念。
-
-**示例问题：** 一根0.
+14中，一个条形磁铁被插入和拔出一个有N匝线圈。线圈的匝数与方程1中的总长度ℓ有关。电流计记录磁铁插入和拔出时线圈中的交流电。如预测所示，改变速度会影响电流量值。磁铁绕线圈外部移动只会产生微弱的电流。如果磁铁保持不动，而线圈上下移动经过磁铁，则说明了相对速度的概念。**示例问题：** 一根0.
 
 5米长的导线以垂直于0.
 
-### 04 T磁场的方向、5米/秒的速度运动，其感应电动势是多少？
+04 T磁场的方向、5米/秒的速度运动，其感应电动势是多少？**解：** 我们使用emf = Bℓv。emf = (0.
 
-**解：** 我们使用emf = Bℓv。
+04 T)(0.
 
-emf = (0.
+5 m)(5 m/s) = 0.
 
-## 04 T)(0.
-
-## 5 m)(5 m/s) = 0.
-
-## 1 V。
-
-## **磁通量与法拉第感应定律**
+1 V。**磁通量与法拉第感应定律**
 
 在图3.
 
-15中，有一个横截面积为A的圆形区域。
+15中，有一个横截面积为A的圆形区域。外部磁场B以与该区域成θ角的方向穿过该区域。磁场的垂直分量由图3.
 
-外部磁场B以与该区域成θ角的方向穿过该区域。
+15给出。什么是磁通量？想象图3.
 
-磁场的垂直分量由图3.
+15中的环作为桶的开口，磁感线作为落下的雨流。磁通量就是桶实际接收到的水量。显然，雨量（场强）开口大小（面积）以及它们之间的角度（决定有效横截面积）是决定性因素！磁通量Φ定义为磁场垂直分量与横截面积A的乘积：Φ = BA cosθ。磁通量的单位是韦伯（Wb）；1韦伯等于1特斯拉每平方米。基于这些概念磁场强度有时被称为磁通密度可以用韦伯每平方米（Wb/m²）为单位表示。英国科学家迈克尔·法拉第证明，感应动生电动势（ε）是由于磁通量的变化率。我们现在称这种关系为法拉第电磁感应定律表达如下：emf = ε = −(ΔΦ/Δt)。负号是因为另一个被称为楞次定律的关系指出感应电流的方向总是使其产生的磁场阻碍引起它的磁通量变化。楞次定律只是表达能量守恒定律的另一种方式。考虑图3.
 
-15给出。
+14中的实验。当磁铁插入线圈时，产生感应电流。这个电流反过来产生一个磁场，该磁场沿与条形磁铁相同的轴线方向指向线圈内部或外部。如果电流的方向使得线圈的“极”吸引条形磁铁的极那么从这个效应中获得的能量将超过自然允许的范围。因此，根据楞次定律线圈中的电流将具有这样的方向使其产生的新磁场阻碍条形磁铁的磁场。你越试图克服这个效应，它就变得越强。这种磁场阻碍防止了能量守恒定律的违反，并在此过程中产生大量热量。如果磁通量在减少，感应电动势（电压）将使其自身的磁场增加磁通量。另一方面，如果磁通量在增加，感应电动势将使其自身的磁场减少磁通量。如果线圈有N匝导线，法拉第定律变为：ε = −N(ΔΦ/Δt)。**示例问题：** 一个线圈由10匝导线制成，直径为5厘米。线圈以线圈轴线平行于磁场的方式穿过该磁场。磁场强度为0.
 
-什么是磁通量？
+5 T。磁通量的变化量是多少？此外，如果观察到平均电动势ε为2 V，磁通量变化了多长时间？**摘要**
 
-想象图3.
+- 磁体由北极和南极组成。- 不存在孤立的磁极（没有磁单极子）。- 金属被磁化的能力称为磁导率。- 铁、钴和镍是磁导率最高的金属。由这些材料制成的磁体称为铁磁体。- 磁场线从北极到南极并自身闭合。- 在外部磁场中运动的电荷会受到力的作用。该力的方向由右手定则确定。- 以垂直于外部磁场方向运动的带电粒子的路径是一个圆圈。- 通电的金属线会产生磁场。导线周围的磁场方向可以用右手定则找到。- 两根通电的导线会相互吸引或排斥，取决于电流的方向。- 通电导线上的感应力可用于使线圈在电动机中旋转或在电表中受到控制。- 在外部磁场中运动的导线会产生感应电动势。- 如果导线垂直于磁场切割磁感线，感应电动势ε将达到最大。- 与外部磁场平行运动的导线不会产生感应电动势ε。- 法拉第定律指出，感应电动势ε等于磁通量的变化率。- 楞次定律指出，感应电流的方向总是使其产生的磁场阻碍引起它的磁通量变化。**解决磁学问题的策略**
 
-15中的环作为桶的开口，磁感线作为落下的雨流。
+解决磁和电磁场问题的关键是记住右手定则。这些经验法则在确定场相互作用力的方向方面已被证明是有用的。记住每一条并熟练掌握其用法。有些规则在使用手指、拇指和张开的手掌时很熟悉。然而，一定要知道最终结果。画草图总是有帮助的。跟踪单位也很有用。特斯拉是国际单位制单位因此需要长度单位为米速度单位为米每秒（力的单位为牛顿）。大多数力相互作用都与角度有关当两个量（通常是速度和场或电流和场）垂直时具有最大值。务必仔细阅读每个问题，并记住磁场B是矢量量！**解决电磁感应问题的策略**
 
-磁通量就是桶实际接收到的水量。
-
-显然，雨量（场强）
-
-开口大小（面积）以及它们之间的角度（决定有效横截面积）是决定性因素！
-
-磁通量Φ定义为磁场垂直分量与横截面积A的乘积：Φ = BA cosθ。
-
-磁通量的单位是韦伯（Wb）；
-
-1韦伯等于1特斯拉每平方米。
-
-## 基于这些概念
-
-## 磁场强度有时被称为磁通密度
-
-可以用韦伯每平方米（Wb/m²）为单位表示。
-
-英国科学家迈克尔·法拉第证明，感应动生电动势（ε）是由于磁通量的变化率。
-
-## 我们现在称这种关系为法拉第电磁感应定律
-
-表达如下：emf = ε = −(ΔΦ/Δt)。
-
-## 负号是因为另一个被称为楞次定律的关系指出
-
-感应电流的方向总是使其产生的磁场阻碍引起它的磁通量变化。
-
-楞次定律只是表达能量守恒定律的另一种方式。
-
-考虑图3.
-
-14中的实验。
-
-当磁铁插入线圈时，产生感应电流。
-
-这个电流反过来产生一个磁场，该磁场沿与条形磁铁相同的轴线方向指向线圈内部或外部。
-
-## 如果电流的方向使得线圈的“极”吸引条形磁铁的极
-
-那么从这个效应中获得的能量将超过自然允许的范围。
-
-因此，根据楞次定律
-
-## 线圈中的电流将具有这样的方向
-
-使其产生的新磁场阻碍条形磁铁的磁场。
-
-你越试图克服这个效应，它就变得越强。
-
-这种磁场阻碍防止了能量守恒定律的违反，并在此过程中产生大量热量。
-
-如果磁通量在减少，感应电动势（电压）将使其自身的磁场增加磁通量。
-
-另一方面，如果磁通量在增加，感应电动势将使其自身的磁场减少磁通量。
-
-如果线圈有N匝导线，法拉第定律变为：ε = −N(ΔΦ/Δt)。
-
-**示例问题：** 一个线圈由10匝导线制成，直径为5厘米。
-
-线圈以线圈轴线平行于磁场的方式穿过该磁场。
-
-磁场强度为0.
-
-## 5 T。
-
-磁通量的变化量是多少？
-
-此外，如果观察到平均电动势ε为2 V，磁通量变化了多长时间？
-
-## **摘要**
-
-- 磁体由北极和南极组成。
-
-- 不存在孤立的磁极（没有磁单极子）。
-
-- 金属被磁化的能力称为磁导率。
-
-- 铁、钴和镍是磁导率最高的金属。
-
-由这些材料制成的磁体称为铁磁体。
-
-- 磁场线从北极到南极并自身闭合。
-
-- 在外部磁场中运动的电荷会受到力的作用。
-
-该力的方向由右手定则确定。
-
-- 以垂直于外部磁场方向运动的带电粒子的路径是一个圆圈。
-
-- 通电的金属线会产生磁场。
-
-导线周围的磁场方向可以用右手定则找到。
-
-- 两根通电的导线会相互吸引或排斥，取决于电流的方向。
-
-- 通电导线上的感应力可用于使线圈在电动机中旋转或在电表中受到控制。
-
-- 在外部磁场中运动的导线会产生感应电动势。
-
-- 如果导线垂直于磁场切割磁感线，感应电动势ε将达到最大。
-
-- 与外部磁场平行运动的导线不会产生感应电动势ε。
-
-- 法拉第定律指出，感应电动势ε等于磁通量的变化率。
-
-- 楞次定律指出，感应电流的方向总是使其产生的磁场阻碍引起它的磁通量变化。
-
-## **解决磁学问题的策略**
-
-解决磁和电磁场问题的关键是记住右手定则。
-
-这些经验法则在确定场相互作用力的方向方面已被证明是有用的。
-
-记住每一条并熟练掌握其用法。
-
-有些规则在使用手指、拇指和张开的手掌时很熟悉。
-
-然而，一定要知道最终结果。
-
-画草图总是有帮助的。
-
-跟踪单位也很有用。
-
-## 特斯拉是国际单位制单位
-
-## 因此需要长度单位为米
-
-速度单位为米每秒（力的单位为牛顿）。
-
-## 大多数力相互作用都与角度有关
-
-## 当两个量（通常是速度和场
-
-或电流和场）垂直时具有最大值。
-
-务必仔细阅读每个问题，并记住磁场B是矢量量！
-
-## **解决电磁感应问题的策略**
-
-在解决电磁问题时，要记住涉及矢量量。
-
-## 这些矢量的方向通常是
+在解决电磁问题时，要记住涉及矢量量。这些矢量的方向通常是
 
 determined by the right-hand rules.
 
-## Additionally
+# Additionally
 
-## remember Lenz’s law
+remember Lenz’s law
 
 An induced current will always flow in a direction such that its magnetic field opposes the change in magnetic flux that induced it
 
@@ -4186,7 +3716,7 @@ Also, keep in mind that the induced emf is proportional to the change in the mag
 
 not the magnetic field.
 
-## PRACTICE EXERCISES
+# PRACTICE EXERCISES
 
 A charge moves in a circular orbit of radius R due to a uniform magnetic field.
 
@@ -4194,7 +3724,7 @@ If the velocity of the charge is doubled
 
 the orbital radius will become (A) 2 R (B) R (C) R /2 (D) 4 R
 
-## Inside a solenoid
+# Inside a solenoid
 
 the magnetic field (A) is zero (B) decreases along the axis (C) increases along the axis (D) is uniform
 
@@ -4202,19 +3732,19 @@ An electron crosses a perpendicular magnetic field as shown below.
 
 The direction of the induced magnetic force is (A) to the right (B) to the left (C) out of the page (D) into the page
 
-## Three centimeters from a long
+# Three centimeters from a long
 
-## straight wire
+straight wire
 
 the magnetic field produced by the current is determined to be equal to 3 × 10−5 T.
 
 The current in the wire must be (A) 2.
 
-## 0 A (B) 4.
+0 A (B) 4.
 
-## 5 A (C) 1.
+5 A (C) 1.
 
-## 5 A (D) 3 A
+5 A (D) 3 A
 
 Magnetic field lines determine (A) only the direction of the field (B) the relative strength of the field (C) both the relative strength and the direction of the field (D) only the configuration of the field
 
@@ -4228,7 +3758,7 @@ The induced emf is greatest when (A) the north pole is pushed through first (B) 
 
 The magnetic flux through a wire loop is independent of (A) the shape of the loop (B) the area of the loop (C) the strength of the magnetic flux (D) the orientation of the magnetic field and the loop
 
-## A flat
+# A flat
 
 300-turn coil has a resistance of 3 Ω.
 
@@ -4236,15 +3766,15 @@ The coil covers an area of 15 cm2 in such a way that its axis is parallel to an 
 
 At what rate must the magnetic field change in order to induce a current of 0.
 
-## 75 A in the coil?
+75 A in the coil?
 
 (A) 0.
 
-## 0075 T/s (B) 2.
+0075 T/s (B) 2.
 
-## 5 T/s (C) 0.
+5 T/s (C) 0.
 
-## 0005 T/s (D) 5 T/s
+0005 T/s (D) 5 T/s
 
 When a loop of wire is turned in a magnetic field
 
@@ -4254,25 +3784,25 @@ A wire of length 0.
 
 15 m is passed through a magnetic field with a strength of 0.
 
-## 2 T.
+2 T.
 
 What must be the velocity of the wire if an emf of 0.
 
-## 25 V is to be induced?
+25 V is to be induced?
 
 (A) 8.
 
-## 3 m/s (B) 6.
+3 m/s (B) 6.
 
-## 7 m/s (C) 0.
+7 m/s (C) 0.
 
-## 0075 m/s (D) 0.
+0075 m/s (D) 0.
 
-## 12 m/s
+12 m/s
 
 An electron is accelerated by a potential difference of 12
 
-### 000 V as shown in the following diagram.
+000 V as shown in the following diagram.
 
 The electron enters a cathode ray tube that is 20 cm in length
 
@@ -4292,11 +3822,11 @@ A straight conductor has a mass of 15 g and is 4 cm long.
 
 It is suspended from two parallel and identical springs as shown below.
 
-## In this arrangement
+# In this arrangement
 
 the springs stretch a distance of 0.
 
-## 3 cm.
+3 cm.
 
 The system is attached to a rigid source of potential difference equal to 15 V
 
@@ -4304,11 +3834,11 @@ and the overall resistance of the circuit is 5 Ω.
 
 When current flows through the conductor
 
-### an external magnetic field is turned on
+an external magnetic field is turned on
 
 and it is observed that the springs stretch an additional 0.
 
-## 1 cm.
+1 cm.
 
 What is the strength of the magnetic field?
 
@@ -4322,7 +3852,7 @@ The conductor has length ℓ and mass M.
 
 As it slides vertically downward under the influence of gravity
 
-### it passes through an outward-directed
+it passes through an outward-directed
 
 uniform magnetic field.
 
@@ -4336,29 +3866,29 @@ The magnet takes longer to emerge than the predicted free-fall time.
 
 Give an explanation for this effect.
 
-## ANSWERS EXPLAINED
+# ANSWERS EXPLAINED
 
 (A) The formula is R = m v / (q B).
 
-## If the velocity is doubled
+# If the velocity is doubled
 
 so is the radius.
 
-## (D) Inside a solenoid
+(D) Inside a solenoid
 
 the effect of all the coils is to produce a long
 
 uniform magnetic field.
 
-## (D) Using the right-hand rule
+(D) Using the right-hand rule
 
 we place the fingers of the right hand along the line of the magnetic field and point the thumb in the direction of the velocity.
 
 The palm points outward.
 
-## However
+# However
 
-### since the particle is an electron
+since the particle is an electron
 
 and the right-hand rule is designed for a positive charge
 
@@ -4370,15 +3900,15 @@ Recalling that r = 3 cm = 0.
 
 03 m, we substitute all the given values to obtain I = 4.
 
-## 5 A.
+5 A.
 
 (C) Magnetic field lines were introduced by Michael Faraday to determine both the direction of the field and its relative strength (a stronger field is indicated by a greater line density).
 
-### (A) As per the right-hand rule
+(A) As per the right-hand rule
 
 point the thumb of your right hand to the right (in the direction of the current) and notice that your fingers will curve out of the page above the wire and into the page below the wire.
 
-### (B) The motional emf is equal to Bℓv
+(B) The motional emf is equal to Bℓv
 
 where v is the velocity of the bar magnet.
 
@@ -4386,7 +3916,7 @@ Thus, the induced emf is greatest when the magnet is pushed through quickly.
 
 (A) The magnetic flux is independent of the shape of the wire loop.
 
-## (D) In an AC generator
+(D) In an AC generator
 
 the emf reverses direction every one-half revolution.
 
@@ -4398,7 +3928,7 @@ Thus, using the given values
 
 we find that v = 8.
 
-## 3 m/s.
+3 m/s.
 
 The effect of the conductor is to stretch both springs.
 
@@ -4408,7 +3938,7 @@ we know from our work on oscillatory motion that the effective spring constant i
 
 Thus: F = 2k Δx, where Δx = 0.
 
-## 003 m.
+003 m.
 
 Thus, the weight of the conductor is W = mg = (0.
 
@@ -4416,17 +3946,17 @@ Thus, the weight of the conductor is W = mg = (0.
 
 8) = 0.
 
-## 147 N and k = 24.
+147 N and k = 24.
 
-## 5 N/m.
+5 N/m.
 
 Now, the magnetic force
 
-## F = BIℓ (sin 90°)
+F = BIℓ (sin 90°)
 
-### is responsible for another elongation
+is responsible for another elongation
 
-## Since F = kx
+Since F = kx
 
 we have (with both springs attached) BIℓ = (24.
 
@@ -4434,11 +3964,11 @@ we have (with both springs attached) BIℓ = (24.
 
 001) = 0.
 
-## 0245 N.
+0245 N.
 
 The length of the conductor is 4 cm = 0.
 
-## 04 m; and using Ohm’s law
+04 m; and using Ohm’s law
 
 we know that the current is I = 15/5 = 3 A.
 
@@ -4446,9 +3976,9 @@ Thus, we find that B(3)(0.
 
 04) = 0.
 
-## 0245 implies B ≈ 0.
+0245 implies B ≈ 0.
 
-## 2 T.
+2 T.
 
 (Note: There appears to be an inconsistency in the provided answer explanation for the final calculation
 
@@ -4458,13 +3988,13 @@ Striking a bar magnet or even heating it disrupts the magnetic domains that have
 
 causing the magnet to lose its strength.
 
-## Initially
+# Initially
 
 the bar is accelerated downward by the force of gravity
 
 given by F = Mg.
 
-## The resistance R
+# The resistance R
 
 in conjunction with the induced current I
 
@@ -4472,11 +4002,11 @@ produces a back-emf equal to IR and also to the product Bℓv.
 
 The magnetic force due to the current I is given by BIℓ.
 
-## At terminal velocity
+# At terminal velocity
 
 the net force is zero.
 
-## Combining all these ideas
+# Combining all these ideas
 
 we get that at terminal velocity Mg = BIℓ and I = Bℓv / R.
 
@@ -4484,9 +4014,9 @@ Thus, v_t = MgR / (ℓ^2 B^2).
 
 Copper is not highly magnetic.
 
-## However
+# However
 
-## because of Lenz’s law
+because of Lenz’s law
 
 the currents set up in the tube produce a magnetic field opposing the new field carried by the magnet.
 
@@ -4494,27 +4024,27 @@ The result is to slow down the magnet’s terminal velocity
 
 as compared to the normal uniformly accelerated motion.
 
-## Physical Optics 4
+# Physical Optics 4
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-## ELECTROMAGNETIC WAVES
+# ELECTROMAGNETIC WAVES
 
-## REFLECTION
+# REFLECTION
 
-## REFRACTION
+# REFRACTION
 
-### APPLICATIONS OF LIGHT REFRACTION
+# APPLICATIONS OF LIGHT REFRACTION
 
-### INTERFERENCE AND DIFFRACTION OF LIGHT
+# INTERFERENCE AND DIFFRACTION OF LIGHT
 
-## ELECTROMAGNETIC WAVES
+# ELECTROMAGNETIC WAVES
 
-## In Chapter 3
+# In Chapter 3
 
 we reviewed aspects of electromagnetic induction.
 
-## In one example
+# In one example
 
 we observed how the changing magnetic flux in a solenoid can induce an electric field.
 
@@ -4526,7 +4056,7 @@ that oscillating electromagnetic fields travel through space as transverse waves
 
 See Figure 4.
 
-## TIP
+# TIP
 
 Electromagnetic waves do not need a medium through which to propagate.
 
@@ -4534,349 +4064,147 @@ All electromagnetic waves travel with the velocity of light in a vacuum.
 
 Figure 4.
 
-## 1 Electromagnetic Waves
+1 Electromagnetic Waves
 
-## Light is just one form of
+# Light is just one form of
 
-电磁辐射以横波形式传播。
+电磁辐射以横波形式传播。我们知道这些波是横波，因为它们可以被偏振（见第109页）。真空中的光速约等于 3 × 10^8 米/秒，用字母 c 表示。请记住，行进波的每一部分都可以建模为一个简谐振荡器具有其振幅 (A) 和频率 (f)
 
-我们知道这些波是横波，因为它们可以被偏振（见第109页）。
+其位移 x 的运动是正弦函数
 
-真空中的光速约等于 3 × 10^8 米/秒，用字母 c 表示。
+x = A cos(2πft)。频率、周期 (T) 和角频率 (ω) 是描述振荡速度的不同方式。它们相互关联，导致上述函数有两种额外的写法：ω = 2πf 和 f = 1/T。艾萨克·牛顿爵士在十七世纪的实验表明
 
-请记住，行进波的每一部分都可以建模为一个简谐振荡器
+“白光”通过棱镜后包含红橙、黄、绿、蓝紫等颜色（缩写为 ROYGBV）。每种颜色的光由不同的波长和频率表征。波长范围从紫光的约 3.
 
-## 具有其振幅 (A) 和频率 (f)
+5 × 10^-7 米到红光的约 7.
 
-## 其位移 x 的运动是正弦函数
+0 × 10^-7 米。对于短波长，使用纳米 (nm) 为单位；1 纳米等于 1 × 10^-9 米。与其它电磁波（如无线电波
 
-x = A cos(2πft)。
+X射线和红外波）不同光在电磁波谱中占据特殊地位因为我们可以“看到”它。2展示了一个电磁波谱样本。TIP 确保你知道电磁波谱的正确顺序。由于电磁波是“波”，它们都遵循关系式 c = fλ，其中 c 是上面讨论的光速。因此，伽马射线的频率范围在 10^25 赫兹左右波长范围在 10^-13 米左右。这些特性使伽马射线非常微小但能量非常高。REFLECTION 反射是光看似从表面弹回的能力。反射有两种：镜面反射和漫反射。镜面反射发生在光滑表面。它们保留入射光线的相对方向，是物理学中研究的主要反射类型。如果表面粗糙不平，则称为漫反射。入射光线向不同方向散射。请注意，漫反射中的每条反射光线都遵循反射定律。然而，由于表面方向的微观变化，整体效果是光发生了漫射。这种现象并未揭示光的波动性，波长或频率的概念很少进入反射讨论。如果光入射到平面镜上，入射角是相对于镜面垂直线（称为法线）测量的。3说明了反射定律，即入射角等于反射角。注意，入射角、反射角和法线都在同一平面内。REMEMBER 反射定律指出入射角等于反射角。记住角度是相对于法线测量的。反射有助于解释不透明物体的颜色。普通光包含许多混合在一起的不同颜色（即所谓的白光）。“蓝色”物体看起来是蓝色的，是因为由于涂料中的化学染料选择性地反射蓝光。白纸呈现入射光的颜色，因为“白色”反射所有颜色。黑纸吸收所有颜色（当然，没有东西可以被涂成“纯”颜色）。如果能隔离单一波长的光（例如使用激光），则称为单色光。如果所有光波同相运动，则称为相干光。波峰对波峰、波谷对波谷匹配的波称为同相（指的是正弦函数中的相位偏移）。激光既是单色又是相干的这一事实，有助于其强度和能量。（激光一词是“受激辐射光放大”的缩写。REFRACTION 将铅笔放入一杯水中，从侧面观察铅笔。铅笔的视弯是由于折射（图4.
 
-频率、周期 (T) 和角频率 (ω) 是描述振荡速度的不同方式。
+4a）。与所有波一样，波速取决于介质。如果光线在从一种介质进入另一种介质时速度发生变化光看起来会向法线方向或远离法线方向弯曲。如果速度没有变化，例如光从苯进入有机玻璃时，在任何角度都不会发生折射（图4.
 
-它们相互关联，导致上述函数有两种额外的写法：ω = 2πf 和 f = 1/T。
+4b）。如果光以零度角入射法线，无论速度是否变化，也不会发生折射（图4.
 
-## 艾萨克·牛顿爵士在十七世纪的实验表明
+4c），因为整个波前同时加速或减速。4 折射需要角度和速度变化
 
-## “白光”通过棱镜后包含红
+TIP 当光折射时，其频率不变。当光从一种介质进入另一种介质并减速时在斜入射角度下折射角将小于入射角我们说光向法线方向折射。注意，在图4.
 
-## 橙、黄、绿、蓝
+4(a)中，当光重新进入空气时，它将与其原始方向平行但略有偏移。这是由于光重新进入空气时速度加快。在这种情况下，折射角将大于入射角，我们说光远离法线方向折射。请记住，如果光通过的两种介质的光学性质相同，则不会发生折射，因为光速没有变化。在这种情况下，入射角将等于折射角（没有偏折）。一种介质作为良好折射介质的程度是通过光通过它时的速度变化量来衡量的。这种“物理”特性表现为一种“几何”特性，即折射角。这些量之间的关系由斯涅尔定律表达。设入射角为 θ_i
 
-紫等颜色（缩写为 ROYGBV）。
+折射角为 θ_r
 
-每种颜色的光由不同的波长和频率表征。
-
-波长范围从紫光的约 3.
-
-## 5 × 10^-7 米到红光的约 7.
-
-## 0 × 10^-7 米。
-
-对于短波长，使用纳米 (nm) 为单位；
-
-## 1 纳米等于 1 × 10^-9 米。
-
-## 与其它电磁波（如无线电波
-
-## X射线和红外波）不同
-
-## 光在电磁波谱中占据特殊地位
-
-因为我们可以“看到”它。
-
-2展示了一个电磁波谱样本。
-
-TIP 确保你知道电磁波谱的正确顺序。
-
-由于电磁波是“波”，它们都遵循关系式 c = fλ，其中 c 是上面讨论的光速。
-
-因此，伽马射线的频率范围在 10^25 赫兹左右
-
-波长范围在 10^-13 米左右。
-
-这些特性使伽马射线非常微小但能量非常高。
-
-REFLECTION 反射是光看似从表面弹回的能力。
-
-反射有两种：镜面反射和漫反射。
-
-镜面反射发生在光滑表面。
-
-它们保留入射光线的相对方向，是物理学中研究的主要反射类型。
-
-如果表面粗糙不平，则称为漫反射。
-
-入射光线向不同方向散射。
-
-请注意，漫反射中的每条反射光线都遵循反射定律。
-
-然而，由于表面方向的微观变化，整体效果是光发生了漫射。
-
-这种现象并未揭示光的波动性，波长或频率的概念很少进入反射讨论。
-
-如果光入射到平面镜上，入射角是相对于镜面垂直线（称为法线）测量的。
-
-3说明了反射定律，即入射角等于反射角。
-
-注意，入射角、反射角和法线都在同一平面内。
-
-REMEMBER 反射定律指出入射角等于反射角。
-
-记住角度是相对于法线测量的。
-
-反射有助于解释不透明物体的颜色。
-
-普通光包含许多混合在一起的不同颜色（即所谓的白光）。
-
-“蓝色”物体看起来是蓝色的，是因为由于涂料中的化学染料选择性地反射蓝光。
-
-白纸呈现入射光的颜色，因为“白色”反射所有颜色。
-
-黑纸吸收所有颜色（当然，没有东西可以被涂成“纯”颜色）。
-
-如果能隔离单一波长的光（例如使用激光），则称为单色光。
-
-如果所有光波同相运动，则称为相干光。
-
-波峰对波峰、波谷对波谷匹配的波称为同相（指的是正弦函数中的相位偏移）。
-
-激光既是单色又是相干的这一事实，有助于其强度和能量。
-
-（激光一词是“受激辐射光放大”的缩写。
-
-REFRACTION 将铅笔放入一杯水中，从侧面观察铅笔。
-
-铅笔的视弯是由于折射（图4.
-
-4a）。
-
-与所有波一样，波速取决于介质。
-
-## 如果光线在从一种介质进入另一种介质时速度发生变化
-
-光看起来会向法线方向或远离法线方向弯曲。
-
-如果速度没有变化，例如光从苯进入有机玻璃时，在任何角度都不会发生折射（图4.
-
-4b）。
-
-如果光以零度角入射法线，无论速度是否变化，也不会发生折射（图4.
-
-4c），因为整个波前同时加速或减速。
-
-## 4 折射需要角度和速度变化
-
-TIP 当光折射时，其频率不变。
-
-## 当光从一种介质进入另一种介质并减速时
-
-## 在斜入射角度下
-
-## 折射角将小于入射角
-
-我们说光向法线方向折射。
-
-注意，在图4.
-
-4(a)中，当光重新进入空气时，它将与其原始方向平行但略有偏移。
-
-这是由于光重新进入空气时速度加快。
-
-在这种情况下，折射角将大于入射角，我们说光远离法线方向折射。
-
-请记住，如果光通过的两种介质的光学性质相同，则不会发生折射，因为光速没有变化。
-
-在这种情况下，入射角将等于折射角（没有偏折）。
-
-一种介质作为良好折射介质的程度是通过光通过它时的速度变化量来衡量的。
-
-这种“物理”特性表现为一种“几何”特性，即折射角。
-
-这些量之间的关系由斯涅尔定律表达。
-
-## 设入射角为 θ_i
-
-## 折射角为 θ_r
-
-## v_1 是光在介质1中的速度（如果介质1或2是空气
-
-## 则等于 c）
-
-## v_2 是光在介质2中的速度
-
-## 斯涅尔定律指出
+v_1 是光在介质1中的速度（如果介质1或2是空气则等于 c）v_2 是光在介质2中的速度斯涅尔定律指出
 
 sin θ_i / sin θ_r = v_1 / v_2 = N_2 / N_1
 
-## 绝对折射率 N 定义为 N = c/v
+绝对折射率 N 定义为 N = c/v
 
-## 其中 v 是光在介质中的速度
+其中 v 是光在介质中的速度
 
 c 是真空中的光速（3.
 
-## 0 × 10^8 m/s）。
+0 × 10^8 m/s）。这给出了我们常用的斯涅尔定律公式：N_1 sin θ_1 = N_2 sin θ_2
 
-这给出了我们常用的斯涅尔定律公式：
+请注意，当介质变化导致速度变化时，光的频率保持不变。所有波的频率由波源决定。波速和波长由介质决定（见表4.
 
-## N_1 sin θ_1 = N_2 sin θ_2
+光的波长发生变化（变为 λ_N）以适应新的速度并保持波方程成立：λ_N f = v
 
-请注意，当介质变化导致速度变化时，光的频率保持不变。
+λ_N = λ / N
 
-所有波的频率由波源决定。
+其中 λ 是真空中的波长。1 部分介质的绝对折射率
 
-波速和波长由介质决定（见表4.
+| 物质 | 折射率 |
 
-光的波长发生变化（变为 λ_N）以适应新的速度并保持波方程成立：
+|--------------|--------|
 
-## λ_N f = v
+| 空气（真空）| 1.
 
-## λ_N = λ / N
-
-其中 λ 是真空中的波长。
-
-## 1 部分介质的绝对折射率
-
-## | 物质 | 折射率 |
-
-## |--------------|--------|
-
-| 空气（真空） | 1.
-
-## 00 |
+00 |
 
 | 水 | 1.
 
-## 33 |
+33 |
 
 | 酒精 | 1.
 
-## 36 |
+36 |
 
 | 石英 | 1.
 
-## 46 |
+46 |
 
 | 有机玻璃 | 1.
 
-## 50 |
+50 |
 
 | 苯 | 1.
 
-## 50 |
+50 |
 
-| 玻璃（冕牌） | 1.
+| 玻璃（冕牌）| 1.
 
-## 52 |
+52 |
 
-| 玻璃（火石） | 1.
+| 玻璃（火石）| 1.
 
-## 61 |
+61 |
 
 | 钻石 | 2.
 
-## 42 |
+42 |
 
-可见光的特定颜色都有特定的频率。
+可见光的特定颜色都有特定的频率。当这些颜色用于折射实验时由于它们在空气（或真空）以外的介质中以不同的速度传播会产生不同的折射角。允许光频率以不同速度传播的物质称为色散介质。折射的这一方面解释了为什么棱镜能让人看到彩色的“连续”光谱以及为什么红光（位于低频端）出现在顶部（见图4.
 
-## 当这些颜色用于折射实验时
-
-## 由于它们在空气（或真空）以外的介质中以不同的速度传播
-
-会产生不同的折射角。
-
-允许光频率以不同速度传播的物质称为色散介质。
-
-## 折射的这一方面解释了为什么棱镜能让人看到彩色的“连续”光谱
-
-以及为什么红光（位于低频端）出现在顶部（见图4.
-
-## 5 光的棱镜色散
+5 光的棱镜色散
 
 SAMPLE PROBLEM 一束光以30°角（相对于法线）从空气入射到钻石（N = 2.
 
-42）表面。
-
-(a) 计算钻石中的折射角。
-
-(b) 计算钻石中的光速。
-
-Solution (a) 我们使用斯涅尔定律：
-
-## N_1 sin θ_1 = N_2 sin θ_2
+42）表面。(a) 计算钻石中的折射角。(b) 计算钻石中的光速。Solution (a) 我们使用斯涅尔定律：N_1 sin θ_1 = N_2 sin θ_2
 
 00) sin(30°) = (2.
 
-## 42) sin θ_2
+42) sin θ_2
 
-## θ_2 = 12°
+θ_2 = 12°
 
-## (b) 我们使用 v = c / N
+(b) 我们使用 v = c / N
 
 v = (3 × 10^8 m/s) / 2.
 
-## 42 = 1.
+42 = 1.
 
-## 2 × 10^8 m/s
+2 × 10^8 m/s
 
-TOTAL INTERNAL REFLECTION 当光从折射率相对较大的介质折射到折射率较小的介质时
+TOTAL INTERNAL REFLECTION 当光从折射率相对较大的介质折射到折射率较小的介质时折射角可能相当大。6说明了一种情况其中入射角处于某个临界值 θ_c
 
-折射角可能相当大。
+使得折射角等于90度（光线 D）。这只有在相对折射率小于1.
 
-## 6说明了一种情况
+00时才会发生，即光从较慢介质进入较快介质。如果入射角超过这个临界值折射角将超过90度光将被100%内部反射这种现象恰当地称为全内反射（光线 E）。钻石在阳光下闪耀的能力是由于全内反射和相对较小的临界入射角（由于钻石的高折射率）。光纤通信中，信息沿着极细的玻璃纤维传输，其工作原理就是全内反射。6 临界角与全内反射临界角可以从以下关系确定：如果 θ > θ_c，则发生全内反射。# SAMPLE PROBLEM
 
-## 其中入射角处于某个临界值 θ_c
-
-使得折射角等于90度（光线 D）。
-
-这只有在相对折射率小于1.
-
-00时才会发生，即光从较慢介质进入较快介质。
-
-## 如果入射角超过这个临界值
-
-## 折射角将超过90度
-
-## 光将被100%内部反射
-
-这种现象恰当地称为全内反射（光线 E）。
-
-钻石在阳光下闪耀的能力是由于全内反射和相对较小的临界入射角（由于钻石的高折射率）。
-
-光纤通信中，信息沿着极细的玻璃纤维传输，其工作原理就是全内反射。
-
-## 6 临界角与全内反射
-
-临界角可以从以下关系确定：如果 θ > θ_c，则发生全内反射。
-
-## SAMPLE PROBLEM
-
-(a) 求光线从钻石射向空气时的临界入射角。
-
-(b) 求光线从钻石射向水时的临界入射角。
-
-### Solution (a) 我们使用 sin θ_c = N_2 / N_1
+(a) 求光线从钻石射向空气时的临界入射角。(b) 求光线从钻石射向水时的临界入射角。Solution (a) 我们使用 sin θ_c = N_2 / N_1
 
 sin θ_c = 1.
 
-## 00 / 2.
+00 / 2.
 
-## 42 = 0.
+42 = 0.
 
 4132
 
-## θ_c = 24°
+θ_c = 24°
 
-### (b) 我们再次使用 sin θ_c = N_2 / N_1
+(b) 我们再次使用 sin θ_c = N_2 / N_1
 
 sin θ_c = 1.
 
-## 33 / 2.
+33 / 2.
 
-## 42 = 0.
+42 = 0.
 
 5496
 
-## θ_c = 33°
+θ_c = 33°
 
 INTERFERENCE AND DIFFRACTION OF LIGHT 当波遇到边界时
 
@@ -4886,13 +4214,13 @@ Compared to the velocity of light in medium 1
 
 the velocity of light in medium 2 will be (A) greater by 1.
 
-## 2 times (B) reduced by 1.
+2 times (B) reduced by 1.
 
 2 times (C) the same (D) The velocity will depend on the two media.
 
 What is the approximate angle of refraction for a ray of light incident from air on a piece of quartz at a 37° angle?
 
-### (A) 24° (B) 37° (C) 42° (D) 66°
+(A) 24° (B) 37° (C) 42° (D) 66°
 
 What is the velocity of light in alcohol (N = 1.
 
@@ -4900,11 +4228,11 @@ What is the velocity of light in alcohol (N = 1.
 
 (A) 2.
 
-### 2 × 10^8 m/s (B) 3 × 10^8 m/s (C) 4.
+2 × 10^8 m/s (B) 3 × 10^8 m/s (C) 4.
 
-## 08 × 10^8 m/s (D) 1.
+08 × 10^8 m/s (D) 1.
 
-## 36 × 10^8 m/s
+36 × 10^8 m/s
 
 If the velocity of light in a medium depends on its frequency
 
@@ -4914,9 +4242,9 @@ If the intensity of a monochromatic ray of light is increased while the ray is i
 
 the spacing between maxima in the diffraction pattern will be (A) increased (B) decreased (C) the same (D) increased or decreased
 
-## depending on the frequency
+depending on the frequency
 
-## In the diagram below
+# In the diagram below
 
 a source of light (S) sends a ray toward the boundary between two media in which the relative index of refraction is less than 1.
 
@@ -4924,7 +4252,7 @@ The angle of incidence is indicated by i.
 
 Which ray best represents the path of the refracted light?
 
-## (A) A (B) B (C) C (D) D
+(A) A (B) B (C) C (D) D
 
 A coin is placed at the bottom of a clear trough filled with water (N = 1.
 
@@ -4932,7 +4260,7 @@ A coin is placed at the bottom of a clear trough filled with water (N = 1.
 
 Which point best represents the approximate location of the coin as seen by someone looking into the water?
 
-## (A) A (B) B (C) C (D) D
+(A) A (B) B (C) C (D) D
 
 If, in question 9
 
@@ -4940,17 +4268,17 @@ the water is replaced by alcohol (N = 1.
 
 36), the coin will appear to be (A) higher (B) lower (C) the same (D) higher or lower
 
-### depending on the depth of the alcohol
+depending on the depth of the alcohol
 
 (a) Light of wavelength 700 nm is directed onto a diffraction grating with 5
 
-## 000 lines/cm.
+000 lines/cm.
 
 What are the angular deviations of the first- and second-order maxima from the central maxima?
 
-## (b) Explain why X rays
+(b) Explain why X rays
 
-## rather than visible light
+rather than visible light
 
 are used to study crystal structure.
 
@@ -4966,7 +4294,7 @@ A ray of light passing through air is incident on a piece of quartz (N = 1.
 
 The quartz is 1.
 
-## 5 cm thick.
+5 cm thick.
 
 Calculate the deviation d of the ray as it emerges back into the air.
 
@@ -4982,7 +4310,7 @@ Explain how this might occur.
 
 Explain why total internal reflection occurs at boundaries between transparent media for which the relative index of refraction is less than 1.
 
-## ANSWERS EXPLAINED
+# ANSWERS EXPLAINED
 
 (B) The velocity of light in air is given by the formula c = fλ.
 
@@ -4992,11 +4320,11 @@ The wavelength is 2.
 
 Substituting known values gives us f = 1.
 
-## 36 × 10^8 Hz.
+36 × 10^8 Hz.
 
 (D) The critical angle of incidence is given by the formula sin θ_c = N_2 / N_1 where N_2 = 1.
 
-## 33 and N_1 = 1.
+33 and N_1 = 1.
 
 Substitution yields a value of 61° for the critical angle.
 
@@ -5012,7 +4340,7 @@ Thus, compared to v_1
 
 v_2 is reduced by 1.
 
-## 2 times.
+2 times.
 
 (A) Snell’s law in air is given by sin θ_i / sin θ_r = N_2.
 
@@ -5030,9 +4358,9 @@ In this case, N = 1.
 
 36, and so the velocity of light is equal to 2.
 
-## 2 × 10^8 m/s.
+2 × 10^8 m/s.
 
-## (D) By definition
+(D) By definition
 
 a medium is said to be dispersive if the velocity of light is dependent on its frequency.
 
@@ -5068,21 +4396,21 @@ the angle of refraction must exceed 90 degrees.
 
 This is possible only when light passes from a high-index material to one with a low index of refraction.
 
-## Under these conditions
+# Under these conditions
 
 the relative index of refraction for the two media is less than 1.
 
-## Geometrical Optics
+# Geometrical Optics
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-### ➜ IMAGE FORMATION IN PLANE MIRRORS
+➜ IMAGE FORMATION IN PLANE MIRRORS
 
-### ➜ IMAGE FORMATION IN CURVED MIRRORS
+➜ IMAGE FORMATION IN CURVED MIRRORS
 
-## ➜ IMAGE FORMATION IN LENSES
+➜ IMAGE FORMATION IN LENSES
 
-### IMAGE FORMATION IN PLANE MIRRORS
+# IMAGE FORMATION IN PLANE MIRRORS
 
 When you look at yourself in a plane mirror
 
@@ -5090,7 +4418,7 @@ your image appears to be directly in front of you and on the other side of the m
 
 Everything about your image is the same as you
 
-## the person
+the person
 
 except for a left-right reversal.
 
@@ -5100,35 +4428,35 @@ your image is termed virtual.
 
 The formation of a virtual image in a plane mirror is illustrated in Figure 5.
 
-### Using an imaginary point object
+# Using an imaginary point object
 
 we construct two rays of light that emerge radially from the object because of ambient light from its environment.
 
 Each light ray is incident on the plane mirror at some arbitrary angle and is reflected off at the same angle (relative to the normal).
 
-## Geometrically
+# Geometrically
 
 we construct these lines using the law of reflection and a protractor.
 
-### Since the rays diverge from the object
+# Since the rays diverge from the object
 
 they continue to diverge after reflection.
 
-## The human eye
+# The human eye
 
-## however
+however
 
 perceives the rays as originating from a point on the other side of the mirror and in a direct line with the object.
 
 Figure 5.
 
-## 1 Plane Mirror
+1 Plane Mirror
 
-### IMAGE FORMATION IN CURVED MIRRORS
+# IMAGE FORMATION IN CURVED MIRRORS
 
-### If a concave or convex mirror is used
+# If a concave or convex mirror is used
 
-### the law of reflection still holds
+the law of reflection still holds
 
 but the curved shapes affect the direction of the reflected rays.
 
@@ -5152,9 +4480,9 @@ This deception of the eye is responsible for images in some mirrors appearing to
 
 Figure 5.
 
-## 2 Basic Mirror Types
+2 Basic Mirror Types
 
-## Concave Mirrors
+# Concave Mirrors
 
 In Figure 5.
 
@@ -5172,7 +4500,7 @@ The focal length can be determined by using parallel rays of light and observing
 
 Figure 5.
 
-## 3 Concave Mirror
+3 Concave Mirror
 
 Another, more in
 
@@ -5180,19 +4508,19 @@ A more interesting method is to aim the mirror out the window at distant objects
 
 Again, the images of those objects can be focused onto a screen.
 
-### Since the objects are very far away
+# Since the objects are very far away
 
 they are considered to be at infinity.
 
-## Normally
+# Normally
 
-## at infinity
+at infinity
 
 an object sends parallel rays of light and appears as a point.
 
-### Since we are viewing extended objects
+# Since we are viewing extended objects
 
-### we project a smaller image of them
+we project a smaller image of them
 
 and the distance from the screen to the mirror is the focal length F.
 
@@ -5210,9 +4538,9 @@ The orientation of the arrow is of course determined by the way it points.
 
 We could choose an infinite number of light rays that come off the object because of ambient light from its environment.
 
-## For simplicity
+# For simplicity
 
-## however
+however
 
 we choose two rays that emerge from the top of the arrow.
 
@@ -5226,43 +4554,43 @@ The point of intersection (below the principal axis in cases I
 
 II, and III) indicates that the image appears inverted at the location marked in the diagram.
 
-## From cases I
+# From cases I
 
 II, and III
 
 we can see that the real images are always inverted.
 
-## Additionally
+# Additionally
 
 as the object is moved closer to the mirror
 
 the image gets larger and appears to move farther away from the mirror.
 
-## Notice that
+# Notice that
 
-## when the object is at point C
+when the object is at point C
 
-## as in case II
+as in case II
 
 the image is also at point C and is the same size.
 
-### When the object is at the focal point
+# When the object is at the focal point
 
-## as in case IV
+as in case IV
 
 no image can be seen since the light is reflected parallel from all points on the mirror.
 
-### If the object is moved even closer
+# If the object is moved even closer
 
-## as in case V
+as in case V
 
 we get an enlarged virtual image that is erect.
 
-## In case IV
+# In case IV
 
 a light ray has been drawn toward the center of the mirror
 
-## by the law of reflection
+by the law of reflection
 
 it will reflect below the principal axis at the same angle of incidence.
 
@@ -5270,9 +4598,9 @@ TIP: Make sure you know these cases for both curved mirrors and lenses.
 
 Convex Mirrors are used in a variety of situations.
 
-## In stores or elevators
+# In stores or elevators
 
-## for example
+for example
 
 they have the ability to reveal images (although distorted) from around corners in aisles.
 
@@ -5280,35 +4608,35 @@ An image in a convex mirror is always virtual and always smaller.
 
 This fact suggests that only one case construction
 
-### as opposed to five for concave mirrors
+as opposed to five for concave mirrors
 
 is necessary to understand image formation in these mirrors.
 
 We show a sample construction and recall that convex mirrors diverge parallel rays.
 
-## This divergence
+# This divergence
 
-## however
+however
 
 is not at any arbitrary angle.
 
 The divergent ray is directed as though it originated from the virtual focal point.
 
-## Algebraic Considerations
+# Algebraic Considerations
 
 We can study the images formed in curved mirrors by means of an algebraic relationship.
 
 Let F represent the focal length (positive in a concave mirror
 
-## negative in a convex mirror)
+negative in a convex mirror)
 
-### S_o represent the object distance
+S_o represent the object distance
 
 and S_i represent the image distance.
 
 Then, for a curved mirror
 
-## if the image is virtual
+if the image is virtual
 
 S_i will be negative.
 
@@ -5322,39 +4650,39 @@ The ratio of image size to object size is called the magnification.
 
 Negative magnification means the image is inverted.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A 10-cm-tall object is placed 20 cm in front of a concave mirror with a focal length of 8 cm.
 
-## Where is the image located
+# Where is the image located
 
 and what is its size?
 
-## Solution
+# Solution
 
-## Using the first formula
+# Using the first formula
 
 we can write 1/8 = 1/20 + 1/S_i.
 
-### Solving for the image distance
+# Solving for the image distance
 
 we obtain S_i = 13.
 
-## 3 cm.
+3 cm.
 
 The image size can be obtained from h_i = h_o * (S_i/S_o) = 10 * (13.
 
 3/20) = 6.
 
-## 7 cm.
+7 cm.
 
-## IMAGE FORMATION IN LENSES
+# IMAGE FORMATION IN LENSES
 
 As a further example of light refraction
 
 consider the refraction due to a lens.
 
-### If monochromatic light is used
+# If monochromatic light is used
 
 what happens when two prisms are arranged base to base and two parallel rays of light are incident on them?
 
@@ -5376,23 +4704,23 @@ Note that the focal point is said to be real because the light rays actually do 
 
 and virtual for the diverging case.
 
-## Converging Lenses
+# Converging Lenses
 
 When discussing the formation of images in lenses
 
 we usually invoke what is called the thin lens approximation
 
-## that is
+that is
 
 we consider that the light begins to refract from the center of the lens.
 
-## As a result
+# As a result
 
 any curvature effects can be ignored.
 
 Since the top and the bottom of the lens are tapered like a prism
 
-## however
+however
 
 a defect known as chromatic aberration can sometimes occur.
 
@@ -5404,7 +4732,7 @@ using the thin lens approximation.
 
 The symmetry of the lens creates two real focal points
 
-## one on either side
+one on either side
 
 and instead of considering the center of curvature
 
@@ -5416,7 +4744,7 @@ which bisects the lens.
 
 A light ray parallel to the principal axis will refract through the focal point.
 
-## Therefore
+# Therefore
 
 a light ray originating from the focal point will refract parallel to the principal axis.
 
@@ -5430,7 +4758,7 @@ In case V an enlarged virtual image is produced on the same side as the object.
 
 This is an example of a simple magnifying glass.
 
-## Diverging Lenses
+# Diverging Lenses
 
 A concave lens will diverge parallel rays of light away from a virtual focal point.
 
@@ -5440,7 +4768,7 @@ Again, if we assume the thin lens approximation
 
 we will draw the lens itself as a line for ease of construction.
 
-## To construct the image
+# To construct the image
 
 we have drawn a parallel light ray that then diverges away from the focal point.
 
@@ -5452,7 +4780,7 @@ This will be true for any location of the object
 
 so only one sample construction is necessary.
 
-## Algebraic Considerations
+# Algebraic Considerations
 
 The relationship governing the image formation in a thin lens is the same as it was for a curved mirror.
 
@@ -5464,27 +4792,27 @@ A positive focal length implies a convex lens
 
 while a negative focal length implies a concave lens.
 
-## Therefore
+# Therefore
 
 we can write 1/f = 1/S_o + 1/S_i and m = h_i/h_o = -S_i/S_o.
 
 If two converging lenses are used in combination
 
-## separated by some distance x
+separated by some distance x
 
-## the combined magnification
+the combined magnification
 
 m, of the system is given by m = m_1 * m_2.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A 3-cm-tall object is placed 6 cm in front of a concave lens (f = -3 cm).
 
 Calculate the image distance and size.
 
-## Solution
+# Solution
 
-## We use the lens equation
+# We use the lens equation
 
 S_i = (S_o * f) / (S_o - f).
 
@@ -5494,7 +4822,7 @@ S_i = (6 cm * -3 cm) / (6 cm - (-3 cm)) = -1 cm.
 
 h_i = h_o * (-S_i/S_o) = (3 cm) * (-(-1 cm)/6 cm) = 0.
 
-## 5 cm.
+5 cm.
 
 SUMMARY:
 
@@ -5508,9 +4836,9 @@ Virtual images cannot be projected onto a screen and are always erect.
 
 Virtual images are found by tracing the rays backward.
 
-## - Plane mirrors
+- Plane mirrors
 
-## convex mirrors
+convex mirrors
 
 and concave lenses always produce virtual images.
 
@@ -5522,7 +4850,7 @@ The real images may be larger or smaller than the object
 
 whereas the virtual images are always larger.
 
-## - For a curved mirror
+- For a curved mirror
 
 the focal length is equal to half the radius of curvature.
 
@@ -5532,11 +4860,11 @@ no image will be formed.
 
 Problem-Solving Strategies for Geometrical Optics
 
-## To solve ray-diagram problems
+# To solve ray-diagram problems
 
 you must remember the types of light rays and understand how they reflect and refract using mirrors and lenses.
 
-## Numerically
+# Numerically
 
 keep in mind that positive focal lengths imply concave mirrors and convex lenses.
 
@@ -5548,11 +4876,11 @@ Even if a given problem does not require a construction
 
 draw a sketch.
 
-## Additionally
+# Additionally
 
 remember that the focal length of a lens is dependent on the material of which the lens is made.
 
-## PRACTICE EXERCISES
+# PRACTICE EXERCISES
 
 Which material will produce a converging lens with the longest focal length?
 
@@ -5568,7 +4896,7 @@ depending on the degree of change (D) remain the same
 
 You wish to make an enlarged reproduction of a document using a copying machine.
 
-### When you push the enlargement button
+# When you push the enlargement button
 
 the lens inside the machine moves to a point (A) equal to f (B) equal to 2f (C) between f and 2f (D) beyond 2f
 
@@ -5582,7 +4910,7 @@ An object appears in front of a plane mirror as shown below
 
 Which of the following diagrams represents the reflected image of this object?
 
-## (A) (B) (C) (D)
+(A) (B) (C) (D)
 
 An object is located 15 cm in front of a converging lens.
 
@@ -5594,23 +4922,23 @@ A 1.
 
 6-meter-tall person stands 1.
 
-### 5 m in front of a vertical plane mirror.
+5 m in front of a vertical plane mirror.
 
 The height of his image is (A) 0.
 
-## 8 cm (B) 2.
+8 cm (B) 2.
 
-## 6 cm (C) 3.
+6 cm (C) 3.
 
-## 2 cm (D) 1.
+2 cm (D) 1.
 
-## 6 cm
+6 cm
 
 An object is 25 cm in front of a converging lens with a 5-cm focal length.
 
-## A second converging lens
+# A second converging lens
 
-## with a focal length of 3 cm
+with a focal length of 3 cm
 
 is placed 10 cm behind the first one.
 
@@ -5634,15 +4962,15 @@ Which lens would make a better magnifying glass?
 
 Why do lenses produce chromatic aberration whereas spherical mirrors do not?
 
-## ANSWERS EXPLAINED
+# ANSWERS EXPLAINED
 
 (D) The longest focal length will be produced by the material that refracts the least
 
-## that is
+that is
 
 has the smallest index of refraction.
 
-## Of the five choices
+# Of the five choices
 
 quartz has the lowest index of refraction.
 
@@ -5654,11 +4982,11 @@ then using a larger index of refraction will imply a smaller focal length.
 
 The image will move closer to the lens and consequently will be smaller.
 
-### (C) To produce an enlarged real image
+(C) To produce an enlarged real image
 
 the object must be located between f and 2f.
 
-## (B) In a concave mirror
+(B) In a concave mirror
 
 a negative image distance implies a virtual image
 
@@ -5668,9 +4996,9 @@ which is enlarged and erect.
 
 (B) The radius of curvature of a spherical mirror is twice the focal length.
 
-## However
+# However
 
-## in a convex mirror
+in a convex mirror
 
 the focal length is taken to be negative.
 
@@ -5680,53 +5008,53 @@ flipped over.
 
 (B) The equation governing magnification in a converging lens is M = Si / So.
 
-## Since M = 2 and So = 15 cm
+Since M = 2 and So = 15 cm
 
 the image distance must be Si = 30 cm.
 
 (D) A plane mirror produces a virtual image that is the same size as the object in all cases.
 
-## (a) For the first lens
+(a) For the first lens
 
-## we have f = 5 cm and So = 25
+we have f = 5 cm and So = 25
 
 thus, Si = So * f / (So - f) = (25)(5) / (25 - 5) = 125 / 20 and the location of the image formed by the first lens is given by Si = 6.
 
-## 25 cm.
+25 cm.
 
 (b) Since the distance between lenses is 10 cm and Si = 6.
 
-## 25 for the first lens
+25 for the first lens
 
 the image now serves as the new “object” at a distance S′o = 10 - 6.
 
-## 25 = 3.
+25 = 3.
 
 The focal length of the second lens is 3 cm
 
-## therefore
+therefore
 
 the distance S′i of the image formed by the second lens is S′i = (3.
 
 75)(3) / (3.
 
-## 75 - 3) = 15 cm.
+75 - 3) = 15 cm.
 
 (c) The combined magnification of the system is equal to the product of the separate magnifications.
 
-## Since m = Si / So
+Since m = Si / So
 
-## in general
+in general
 
 we have M1 = 6.
 
-## 25 / 25 = 0.
+25 / 25 = 0.
 
-## 25 and M2 = 15 / 3.
+25 and M2 = 15 / 3.
 
-## 75 = 4.
+75 = 4.
 
-## Therefore
+# Therefore
 
 the combined magnification of this combination of lenses is given by M = M1 * M2 = (0.
 
@@ -5738,13 +5066,13 @@ This distorts images because of the divergence of the light
 
 making them appear to be smaller and more distant than they actually are.
 
-### Using the lens construction diagrams
+# Using the lens construction diagrams
 
 we see that for case V the lens becomes a magnifying glass.
 
 Changing the focal length affects the size and location of the image.
 
-### If the focal length is decreased
+# If the focal length is decreased
 
 the image size and distance will increase.
 
@@ -5776,7 +5104,7 @@ Hence, Fg = ρVg.
 
 By letting Vd represent the volume of displaced water
 
-## we obtain
+we obtain
 
 FB = Fg = ρgVd.
 
@@ -5784,7 +5112,7 @@ Specific gravity or relative density is a useful tool for comparing one fluid to
 
 It is the ratio of the density of the fluid in question to a reference fluid.
 
-## For liquids
+# For liquids
 
 the reference is usually water.
 
@@ -5792,9 +5120,9 @@ For gases, the reference is usually air.
 
 If a liquid has a relative density less than 1.
 
-## 0 it will float in water.
+0 it will float in water.
 
-## For example
+# For example
 
 the specific gravity of ice is 0.
 
@@ -5806,17 +5134,17 @@ This value of relative density also gives the fraction of ice that will be subme
 
 3% of the ice is above the water line in a body of fresh water).
 
-## FLUIDS IN MOTION
+# FLUIDS IN MOTION
 
 The situation regarding static pressures in fluids changes when they are in motion.
 
-## Microscopically
+# Microscopically
 
 we could try to account for the motion of all molecular particles that make up the fluid
 
 but this would not be very practical.
 
-## Instead
+# Instead
 
 we treat the fluid as a whole and consider what happens as the fluid passes through a given cross-sectional area each second.
 
@@ -5828,11 +5156,11 @@ Consider the fluid shown in Figure 6.
 
 The distance traveled is given by the product vt.
 
-### Since the motion is ideally smooth
+# Since the motion is ideally smooth
 
 there is no resistance offered by the fluid as different layers move relative to one another.
 
-### This resistance is known as viscosity
+# This resistance is known as viscosity
 
 and the type of fluid motion we are considering here is called laminar flow.
 
@@ -5840,29 +5168,29 @@ The rate of flow Q is defined to be the volume of fluid flowing out of the pipe 
 
 Q = vtA / t = vA.
 
-## If the flow is laminar
+# If the flow is laminar
 
 then the equation of continuity states that the rate of flow Q will remain constant.
 
-## Therefore
+# Therefore
 
-### as the cross-sectional area decreases
+as the cross-sectional area decreases
 
-## the velocity must increase
+the velocity must increase
 
-## Q1 = Q2
+Q1 = Q2
 
 v1A1 = v2A2.
 
-## BERNOULLI’S EQUATION
+BERNOULLI’S EQUATION
 
 Consider a fluid moving through an irregularly shaped tube at two different levels given by h1 and h2 as shown in Figure 6.
 
-## At the lower level
+# At the lower level
 
 the fluid exerts a pressure P1 while moving through an area A1 with a velocity v1.
 
-## At the top
+# At the top
 
 the fluid exerts a pressure P2 while moving through an area A2 with a velocity v2.
 
@@ -5870,7 +5198,7 @@ Bernoulli’s equation is related to changes in pressure as a function of veloci
 
 Now, let us consider some applications of this equation.
 
-## A Fluid at Rest
+# A Fluid at Rest
 
 In Figure 6.
 
@@ -5886,7 +5214,7 @@ The difference in pressure is just proportional to the difference in levels.
 
 A Fluid Escaping Through a Small Orifice
 
-## Earlier in this chapter
+# Earlier in this chapter
 
 we saw that the pressure difference is proportional to the difference in height.
 
@@ -5898,7 +5226,7 @@ What is the velocity of the fluid as it escapes?
 
 And what is the rate of flow?
 
-## A Fluid Moving Horizontally
+# A Fluid Moving Horizontally
 
 Consider a fluid moving horizontally through a tube that narrows in area.
 
@@ -5910,27 +5238,27 @@ its static pressure decreases.
 
 We can analyze this in Figure 6.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
-## Solution
+# Solution
 
-## In aerodynamics
+# In aerodynamics
 
 a wing moving in level flight has a lifting force acting on it exactly equal to its load.
 
 This force is caused partially by the pressure difference between the upper and lower surfaces of the wing.
 
-### For a variety of different reasons
+# For a variety of different reasons
 
 the airflow above the wing is faster than the airflow below the wing (see Figure 6.
 
-## By Bernoulli’s equation
+By Bernoulli’s equation
 
 this faster airflow corresponds to a lower air pressure on the top of the wing.
 
 The difference between the higher pressure on the bottom and the lower pressure on the top is a contributing factor to the lift force on the wing.
 
-## SUMMARY
+# SUMMARY
 
 ■ Liquids are called incompressible fluids whereas gases are called compressible fluids.
 
@@ -5964,7 +5292,7 @@ Bernoulli’s principle is energy conservation for fluids
 
 P + ρgh + ½ρv² = constant throughout the fluid.
 
-### Problem-Solving Strategies for Fluids
+# Problem-Solving Strategies for Fluids
 
 Solving fluid problems is similar to solving particle problems.
 
@@ -5986,7 +5314,7 @@ Often, conceptual knowledge will be enhanced if you understand how the variables
 
 Consider questions that involve changing one variable and observing the effect on others.
 
-## PRACTICE EXERCISES
+# PRACTICE EXERCISES
 
 The rate of flow of a liquid from a hole in a container depends on all of the following except (A) the density of the liquid (B) the height of the liquid above the hole (C) the area of the
 
@@ -6028,17 +5356,17 @@ to what height in the tube will the alcohol rise?
 
 (A) 8.
 
-## 1 m (B) 7.
+1 m (B) 7.
 
-## 9 m (C) 15.
+9 m (C) 15.
 
-## 2 m (D) 13.
+2 m (D) 13.
 
 An ice cube is dropped into a mixed drink containing alcohol and water.
 
 The ice cube sinks to the bottom.
 
-## From this
+# From this
 
 you can conclude (A) that the drink is mostly alcohol (B) that the drink is mostly water (C) that the drink is equally mixed with water and alcohol (D) nothing
 
@@ -6050,19 +5378,19 @@ If the opposite large piston rises by 0.
 
 5 cm, what is the maximum weight the large piston can lift?
 
-### (A) 2 N (B) 40 N (C) 20 N (D) 4 N
+(A) 2 N (B) 40 N (C) 20 N (D) 4 N
 
 Balsa wood with an average density of 130 kg/m³ is floating in pure water.
 
 What percentage of the wood is submerged?
 
-### (A) 87% (B) 13% (C) 50% (D) 25%
+(A) 87% (B) 13% (C) 50% (D) 25%
 
 A U-tube open at both ends is partially filled with water.
 
 Benzene (ρ = 0.
 
-### 897 × 10³ kg/m³) is poured into one arm
+897 × 10³ kg/m³) is poured into one arm
 
 forming a column 4 cm high.
 
@@ -6070,15 +5398,15 @@ What is the difference in height between the two surfaces?
 
 A Venturi tube has a pressure difference of 15
 
-## 000 Pa.
+000 Pa.
 
-## The entrance radius is 3 cm
+# The entrance radius is 3 cm
 
 while the exit radius is 1 cm.
 
-### What are the entrance velocity
+# What are the entrance velocity
 
-## exit velocity
+exit velocity
 
 and flow rate if the fluid is gasoline (ρ = 700 kg/m³)?
 
@@ -6098,17 +5426,17 @@ Two paper cups are suspended by strings and hung near each other.
 
 They are separated by about 10 cm.
 
-### When you blow air between them
+# When you blow air between them
 
 the cups are attracted to one another.
 
 Explain why this occurs.
 
-## ANSWERS EXPLAINED
+# ANSWERS EXPLAINED
 
 (A) The flow rate of a liquid from a hole does not depend on the density of the liquid.
 
-### (B) Because of the Bernoulli effect
+(B) Because of the Bernoulli effect
 
 the speeding train reduces the air pressure between the person and the train.
 
@@ -6130,23 +5458,23 @@ A consequence of this is that a fluid moves faster through a narrower pipe.
 
 The flow rate is equal to the product of the velocity and the cross-sectional area (which is a circle of radius 0.
 
-## 02 m).
+02 m).
 
 The area is given by πr² = 1.
 
-## 256 × 10⁻³ m².
+256 × 10⁻³ m².
 
 When we multiply this area by the velocity and the pressure
 
 we get 45.
 
-### 2 W as a measure of the generated power.
+2 W as a measure of the generated power.
 
 (A) Since the density of alcohol is less than that of water
 
 ice floats “lower” in alcohol than in water.
 
-## From the given information
+# From the given information
 
 the drink appears to be mostly alcohol.
 
@@ -6154,25 +5482,25 @@ the drink appears to be mostly alcohol.
 
 The work done on the small piston must equal the work done by the large piston.
 
-### Since the ratio of displacements is 20
+# Since the ratio of displacements is 20
 
 1, the large piston will be able to support a maximum load of 40 N (since 2 N × 20 = 40 N).
 
 (B) The percentage submerged is given by the ratio of its density to that of pure water (1
 
-## 000 kg/m³).
+000 kg/m³).
 
 Thus, 130/1,000 = 0.
 
-## 13 = 13%.
+13 = 13%.
 
 Let L′ be the level of benzene that will float on top of the water
 
-## let L be the level of water
+let L be the level of water
 
 and let h be the difference in levels.
 
-## Since the tube is open
+# Since the tube is open
 
 the pressures are equalized at both ends.
 
@@ -6182,33 +5510,33 @@ Solving for h: h = L′(1 - ρ_b/ρ_w).
 
 Since the ratio of the densities is 0.
 
-## 879 and L′ = 4 cm, h = 0.
+879 and L′ = 4 cm, h = 0.
 
-## 484 cm.
+484 cm.
 
 The change in potential energy must be equal to the change in horizontal kinetic energy
 
-## mg(H - h) = (1/2)mvₓ²
+mg(H - h) = (1/2)mvₓ²
 
 so vₓ = √(2g(H - h)).
 
-## Now if we assume
+# Now if we assume
 
-## as in projectile motion
+as in projectile motion
 
 that the horizontal velocity remains the same and the only acceleration of the stream is vertically downward because of gravity
 
-## we can write x = vₓt
+we can write x = vₓt
 
-## y = h = (1/2)gt²
+y = h = (1/2)gt²
 
 so t = √(2h/g).
 
 Thus, x = √(2h(H - h)).
 
-## For x = H
+For x = H
 
-## we must have h = H/2
+we must have h = H/2
 
 as can be easily verified using the preceding range formula.
 
@@ -6224,31 +5552,31 @@ Thus, blowing between the cups reduces the air pressure between them
 
 causing a net force which pushes them together.
 
-## Thermodynamics 7
+# Thermodynamics 7
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-### - TEMPERATURE AND ITS MEASUREMENT
+- TEMPERATURE AND ITS MEASUREMENT
 
-## - MOLAR QUANTITIES
+- MOLAR QUANTITIES
 
-### - THE IDEAL GAS LAW EQUATION OF STATE
+- THE IDEAL GAS LAW EQUATION OF STATE
 
-## - KINETIC-MOLECULAR THEORY
+- KINETIC-MOLECULAR THEORY
 
-### - WORK DONE BY EXPANDING GASES
+- WORK DONE BY EXPANDING GASES
 
-### - THE FIRST LAW OF THERMODYNAMICS
+- THE FIRST LAW OF THERMODYNAMICS
 
 - THE SECOND LAW OF THERMODYNAMICS AND HEAT ENGINES
 
-## - HEAT TRANSFER
+- HEAT TRANSFER
 
-### TEMPERATURE AND ITS MEASUREMENT
+# TEMPERATURE AND ITS MEASUREMENT
 
 Temperature can be defined as the relative measure of heat.
 
-## In other words
+# In other words
 
 temperature defines what will lose and what will gain thermal energy when the energy is transferred.
 
@@ -6256,13 +5584,13 @@ We can state even more simply that temperature is a measure of how “hot” or 
 
 The source of the temperature of an object is
 
-## in actuality
+in actuality
 
 the average kinetic energy of its atoms.
 
 Human touch is unreliable in measuring temperature since what feels hot to one person may feel cool to another.
 
-### During the seventeenth century
+# During the seventeenth century
 
 Galileo invented a method for measuring temperature using water and its ability to react to changes in heat content by expanding or contracting.
 
@@ -6274,23 +5602,23 @@ When thermal energy is added to the beaker
 
 the level of water will rise.
 
-## TIP
+# TIP
 
 Heat and temperature are not the same thing.
 
-## For two reasons
+# For two reasons
 
-## however
+however
 
 water is not the best substance to use to measure temperature.
 
 First, water has a relatively high freezing and low boiling point
 
-## second
+second
 
 it has a peculiar variation in density as a function of temperature because of its chemical structure.
 
-## Even so
+# Even so
 
 the phenomenon of “thermal expansion” is an important topic not only in this context but also for engineering buildings
 
@@ -6302,13 +5630,13 @@ Most modern thermometers (see Figure 7.
 
 2) use mercury or alcohol in a small capillary tube.
 
-## In the metric system
+# In the metric system
 
 the standard sea-level points of reference are the freezing point (0 degrees) and boiling point (100 degrees) of water.
 
-## This temperature scale
+# This temperature scale
 
-### formerly known as the centigrade scale
+formerly known as the centigrade scale
 
 is now called the Celsius scale after Anders Celsius.
 
@@ -6316,9 +5644,9 @@ is now called the Celsius scale after Anders Celsius.
 
 One difficulty with the Celsius scale is that the zero mark is not a true zero since a substance can be much colder than zero.
 
-## Some gases
+# Some gases
 
-## such as oxygen and hydrogen
+such as oxygen and hydrogen
 
 do not even condense until their temperatures reach far below 0 degrees Celsius.
 
@@ -6334,7 +5662,7 @@ An easy way to convert from Celsius to Kelvin is to add the number 273 to the Ce
 
 This just adds a scale factor that preserves the metric scale of the Celsius reading.
 
-## In other words
+# In other words
 
 there is still a 100-degree difference in temperature between.
 
@@ -6348,39 +5676,39 @@ Note that it is not actually possible to cool a real object all the way down to 
 
 This is known as the third law of thermodynamics or Nernst’s theorem.
 
-## MOLAR QUANTITIES
+# MOLAR QUANTITIES
 
 Under the conditions of STP (standard temperature [0°C] and pressure [1 atmosphere])
 
 most gases behave according to a simple relationship among their pressures
 
-## volumes
+volumes
 
 and absolute temperatures.
 
 This equation of state applies to what is referred to as an ideal gas.
 
-## A real gas
+# A real gas
 
-## however
+however
 
-## is very complex
+is very complex
 
 and a large number of variables are required to understand all of the intricate movements taking place within it.
 
 Specifically, an ideal gas is one that:
 
-### 1. That has only elastic collisions.
+# 1. That has only elastic collisions.
 
 That has no intermolecular forces and where gravity can be ignored.
 
 In which the molecules occupy a volume much smaller than the total volume available.
 
-### To help us understand ideal gases
+# To help us understand ideal gases
 
 we introduce a quantity called the molar mass.
 
-### In thermodynamics (and chemistry)
+In thermodynamics (and chemistry)
 
 the molar mass or gram-molecular mass is defined to be the mass of a substance that contains 6.
 
@@ -6390,27 +5718,27 @@ This number is called Avogadro’s number (N_O)
 
 and 1 mole of an ideal gas occupies a volume of 22.
 
-### 4 liters at zero degrees Celsius.
+4 liters at zero degrees Celsius.
 
-## For example
+# For example
 
 the gram-molecular mass of carbon (C) is 12 grams
 
 while the gram-molecular mass of oxygen (O₂) is 32 grams.
 
-### If m represents the actual mass
+# If m represents the actual mass
 
 the number of moles of gas is given by the relationship n = m / M
 
 where M equals the gram-molecular weight.
 
-## For example
+# For example
 
-### 64 grams of oxygen equals 2 moles
+64 grams of oxygen equals 2 moles
 
 and 36 grams of carbon equals 3 moles.
 
-### THE IDEAL GAS LAW EQUATION OF STATE
+# THE IDEAL GAS LAW EQUATION OF STATE
 
 Imagine that we have an ideal gas in a sealed
 
@@ -6422,17 +5750,17 @@ Imagine an external force placed on the piston at the top of a chamber so that t
 
 The chamber is a cylinder with cross-sectional area A and height h.
 
-### If a constant force F is applied
+# If a constant force F is applied
 
 work is done to move the piston (frictionless) a distance h.
 
 Thus, W = Fh
 
-## and since h = V / A
+and since h = V / A
 
 the work done is W = F * (V/A) = PV.
 
-## In other words
+# In other words
 
 the work done (in this case) is equal to the product of the pressure and the volume.
 
@@ -6440,7 +5768,7 @@ If the temperature of the gas remains constant
 
 this relationship is known as Boyle’s law and can be expressed as PV = constant or P₁V₁ = P₂V₂.
 
-## Experiments demonstrate that
+# Experiments demonstrate that
 
 if a gas is enclosed in a chamber of constant volume
 
@@ -6450,75 +5778,75 @@ the ratio of pressure to absolute temperature in an ideal gas always remains con
 
 We can write this relationship algebraically as
 
-### P/T = constant or P₁/T₁ = P₂/T₂
+P/T = constant or P₁/T₁ = P₂/T₂
 
 where the temperatures must be in kelvins.
 
 An ideal gas is one made of pointlike particles that collide elastically.
 
-### French scientist Jacques Charles (and
+French scientist Jacques Charles (and
 
-## independently
+independently
 
 Joseph Gay-Lussac) developed a relationship
 
-### commonly known as Charles’s law
+commonly known as Charles’s law
 
 between the volume and the absolute temperature of an ideal gas at constant pressure.
 
 This law states that the ratio of volume and absolute temperature in an ideal gas remains constant
 
-## that is
+that is
 
 V₁/T₁ = V₂/T₂.
 
 The three gas laws—pressure-temperature law
 
-## Boyle’s
+Boyle’s
 
 and Charles’s—can be summarized by the one ideal gas law
 
-## which has four forms
+which has four forms
 
 The second form states that the product of pressure and volume
 
-### divided by the absolute temperature
+divided by the absolute temperature
 
-## remains a constant
+remains a constant
 
 PV/T = constant.
 
 The third and more general form of the ideal gas law (and the one found in most advanced textbooks) includes the number of moles of gas involved and a universal gas constant R
 
-## PV = nRT
+PV = nRT
 
 where R = 8.
 
-### 31 joules per mole · kelvin (J/mol · K).
+31 joules per mole · kelvin (J/mol · K).
 
-## Finally
+# Finally
 
-## if n = N / N_O
+if n = N / N_O
 
 where N is the actual number of molecules and N_O is Avogadro’s number
 
-## a constant k_B = R / N_O
+a constant k_B = R / N_O
 
-## called Boltzmann’s constant
+called Boltzmann’s constant
 
-## can be introduced
+can be introduced
 
 and the ideal gas law takes the form PV = NkT.
 
 The state of an ideal gas is uniquely specified by its pressure
 
-## volume
+volume
 
 and temperature.
 
 Again, the temperatures must always be in kelvins.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A confined gas at constant temperature has a volume of 50 m³ and a pressure of 500 Pa.
 
@@ -6526,19 +5854,19 @@ If it is compressed to a volume of 20 m³
 
 what is the new pressure?
 
-## Solution
+# Solution
 
 We use Boyle’s law: P₁V₁ = P₂V₂
 
-## (500 Pa)(50 m³) = P₂(20 m³)
+(500 Pa)(50 m³) = P₂(20 m³)
 
 P₂ = 1,250 Pa.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A confined gas is at a temperature of 27°C when it has a pressure and volume of 1
 
-## 000 Pa and 30 m³
+000 Pa and 30 m³
 
 respectively.
 
@@ -6546,29 +5874,29 @@ If the volume is decreased to 20 m³ and the temperature is raised to 30°C
 
 what is the new pressure?
 
-## Solution
+# Solution
 
-## We will use the ideal gas law
+# We will use the ideal gas law
 
 but we must remember that the temperatures must be in Kelvin!
 
-## 27°C = 300 K
+27°C = 300 K
 
-## 30°C = 323 K
+30°C = 323 K
 
 (1,000 Pa)(30 m³) / 300 K = P₂(20 m³) / 323 K
 
 Solving, we obtain P₂ = 1,615 Pa.
 
-## KINETIC-MOLECULAR THEORY
+# KINETIC-MOLECULAR THEORY
 
 What is thermal or internal energy?
 
-### When thermal energy is exchanged
+# When thermal energy is exchanged
 
 we call this heat.
 
-### If an object is losing thermal energy
+# If an object is losing thermal energy
 
 its total internal (or thermal) energy decreases.
 
@@ -6578,7 +5906,7 @@ Temperature is a proxy for microscopic kinetic energy.
 
 The energies associated with phase changes are microscopic potential energies.
 
-## By microscopic
+# By microscopic
 
 we mean the kinetic energies associated with the individual molecular velocities and the potential energies of relationships between the molecules within the substance.
 
@@ -6586,7 +5914,7 @@ Kinetic-molecular theory refers to the fact that if an object remains in its cur
 
 any thermal energy is mostly going to or coming from the kinetic energy of the individual molecules or atoms within the substance.
 
-## Specifically for an ideal gas
+# Specifically for an ideal gas
 
 all thermal energy is in the form of molecular kinetic energy.
 
@@ -6596,7 +5924,7 @@ Average kinetic energy per molecule = (3/2) kT
 
 where k is the Boltzmann constant and T is the temperature in Kelvin.
 
-## Therefore
+# Therefore
 
 the total thermal energy of an ideal gas is (3/2) NkT
 
@@ -6606,7 +5934,7 @@ Some molecules have higher speeds and thus higher kinetic energies.
 
 Some will have lower kinetic energies.
 
-## However
+# However
 
 the average is given by the formula above.
 
@@ -6622,35 +5950,35 @@ RMS values are bigger than the actual mean speed.
 
 The exact relationship depends on the distribution of data.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 An ideal gas at 120 degrees Celsius has molecules with an average kinetic energy of what value?
 
 How many molecules would you need to have 0.
 
-## 5 joules of thermal energy?
+5 joules of thermal energy?
 
-## Solution
+# Solution
 
-## T = 120 + 273 = 393 Kelvin
+T = 120 + 273 = 393 Kelvin
 
-## WORK DONE BY EXPANDING GASES
+# WORK DONE BY EXPANDING GASES
 
 If a gas expands by displacing any substance
 
 the gas is doing positive work to its environment.
 
-## Therefore
+# Therefore
 
 the gas is transferring energy out of its internal energy into the environment.
 
-### By the kinetic-molecular theory
+# By the kinetic-molecular theory
 
 this internal energy is in the kinetic energy of the molecules.
 
-## This loss of energy
+# This loss of energy
 
-## therefore
+therefore
 
 means its temperature will go down as the molecules slow down.
 
@@ -6660,23 +5988,23 @@ In order to displace the external molecule it hits (the expansion part)
 
 the gas molecule must do some individual work and
 
-## in doing so
+in doing so
 
 lower its own kinetic energy.
 
 As each gas molecule that hits the exterior goes through this
 
-## the average speed is lowered
+the average speed is lowered
 
 which lowers the temperature of the entire gas.
 
 Note that pressure times volume has units of energy.
 
-## For expanding gases
+# For expanding gases
 
 the area under a pressure-versus-volume curve is the work done by the gas (representing a loss of energy from the gas).
 
-## For contracting gases
+# For contracting gases
 
 the area is the work being done to the gas (representing a gain in energy to the gas).
 
@@ -6684,63 +6012,63 @@ If a gas is cycled through compression and expansion
 
 the difference in areas represents the net work done by the gas.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
-## If 2 m³ of gas at 2
+If 2 m³ of gas at 2
 
 000 Pa undergoes isobaric (constant pressure) compression to 1 m³
 
 then is heated while held at that size such that its pressure is increased to 5
 
-## 000 Pa
+000 Pa
 
 and then is allowed to undergo isobaric expansion to 3 m³
 
 what is the net work done to the gas?
 
-## Solution
+# Solution
 
-## During the compression
+# During the compression
 
 the area under the curve is the rectangle represented by P ΔV = 2
 
-## 000(2 − 1 m³) = 2
+000(2 − 1 m³) = 2
 
-### 000 J of work done to the gas.
+000 J of work done to the gas.
 
 The heating at constant volume represents no work done as the area under the vertical line is zero.
 
 The final expansion represents work done by the gas of P ΔV = 5
 
-## 000(3 − 1 m³) = 10
+000(3 − 1 m³) = 10
 
-## 000 J.
+000 J.
 
-## Net work done to the gas = +2
+Net work done to the gas = +2
 
-## 000 J − 10
+000 J − 10
 
-## 000 J = −8
+000 J = −8
 
-## 000 J.
+000 J.
 
-## In other words
+# In other words
 
-## the gas did +8
+the gas did +8
 
-### 000 J of work to its surroundings.
+000 J of work to its surroundings.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 Twenty cubic meters of an ideal gas is at 50°C and at a pressure of 50 kPa.
 
-### If the temperature is raised to 200°C
+If the temperature is raised to 200°C
 
-### and the volume is compressed by half
+and the volume is compressed by half
 
 what is the new pressure of the gas?
 
-## Solution
+# Solution
 
 We must first change all temperatures to kelvins
 
@@ -6748,269 +6076,71 @@ We must first change all temperatures to kelvins
 
 我们从 PV = nRT 可得 (P1)(V1)/T1 = (P2)(V2)/T2
 
-代入数值 (50)(20)/323 = (P2)(10)/473。
+代入数值 (50)(20)/323 = (P2)(10)/473。求解压力得到 P2 = 146.
 
-求解压力得到 P2 = 146.
+4 kPa。**热力学第一定律**
 
-## 4 kPa。
+如果对理想气体在恒温下做功根据玻意耳定律所做的功等于压力与体积的乘积（该乘积保持不变）。玻意耳定律的图形如图 7.
 
-## **热力学第一定律**
+4 所示，是一条双曲线。包括温度变化在内的绝热压力与体积变化遵循一种不同的反比关系其中体积被提升到更高的指数幂（使双曲线更陡峭）。图 7.
 
-## 如果对理想气体在恒温下做功
+4 P-V 图中的功
 
-## 根据玻意耳定律
+**重要提示符号约定：**
 
-所做的功等于压力与体积的乘积（该乘积保持不变）。
+* Q 为“+”表示热量进入气体，为“−”表示热量离开气体。* W 为“+”表示对气体做功，为“−”表示气体对外界做功。玻意耳定律的压力-体积图说明了一个普遍事实曲线从某个初始状态到最终状态所包围的面积等于所做的功。热力学第一定律本质上是能量守恒定律。令 Q 表示供给系统的热量变化
 
-玻意耳定律的图形如图 7.
+ΔU 表示内部分子能量的变化
 
-## 4 所示，是一条双曲线。
+W 表示对系统所做的净功。气体所做的功是其压力乘以体积变化。那么热力学第一定律表述为：ΔU = Q + W。在热力学中，某些术语经常被使用，并且值得在理想气体的情况下加以研究。**热力学第二定律与热机**
 
-## 包括温度变化在内的绝热压力与体积变化遵循一种不同的反比关系
+没有系统是理想的。当机器被制造和运行时，由于摩擦总会损失热量。这种摩擦产生的热量可以通过能量守恒定律来解释。回忆热量从高温物体流向低温物体。因此，如果存在一个高温热库，系统将从该库中汲取能量（因此得名）。只有一部分能量被用来做功，其余部分作为废气在较低温度下被释放。法国物理学家萨迪·卡诺研究了这一现象。卡诺对热机中发生的循环变化感兴趣，热机将热能转化为机械能。19 世纪，德国物理学家鲁道夫·克劳修斯创造了“熵”这个术语来描述系统随机性或无序性的增加。克劳修斯和卡诺的这些研究可以总结如下：# 1. 热量永远不会自发地从冷物体流向热物体。# 2. 热量不可能从单一热库中取出而不产生其他影响。# 3. 任何孤立系统的熵总是在增加。这三点阐述体现了热力学第二定律不可能制造出一种循环动作的机器其唯一效果是将热量从一个物体连续地传递到另一个温度更高的物体。与热力学第二定律相关的是可逆过程的概念。热量自发地从热物体流向冷物体，除非有外部作用，否则这个过程是不可逆的。如果系统通过一些中间平衡态从初态到末态，则该过程可能是可逆的。卡诺对这种可逆过程进行了广泛研究，它可以在压力-体积图上表示。图 7.
 
-其中体积被提升到更高的指数幂（使双曲线更陡峭）。
+5 所示为一个简单的热机。图 7.
 
-图 7.
+5 简单热机的 PV 图从 A 点到 B 点，压力在恒定体积下增加，不做功。从 B 点到 C 点气体在恒定压力下膨胀吸收外界热量所做的功等于 P2(V2 - V1)。从 C 点到 D 点，体积恒定，压力下降，不做功。最后，从 D 点到 A 点体积在恒定压力下减小热量散失到外界所做的功等于 P1(V1 - V2)。在每个等容变化中，由于体积没有变化，ΔW = 0。在等压变化期间
 
-## 4 P-V 图中的功
+ΔW2 = P2(V2 - V1)
 
-**重要提示 符号约定：**
+ΔW1 = P1(V1 - V2)。净功等于 (P2 - P1)(V2 - V1)，它等于图 7.
 
-* Q 为“+”表示热量进入气体，为“−”表示热量离开气体。
+6 中矩形的面积。卡诺循环是其中发生绝热温度变化的循环，如图 7.
 
-* W 为“+”表示对气体做功，为“−”表示气体对外界做功。
+6 所示。图 7.
 
-## 玻意耳定律的压力-体积图说明了一个普遍事实
+6 卡诺循环等温变化发生在 A 到 B 和 C 到 D 之间。绝热变化由 BC 和 AD 段表示，其中没有热量获得或损失。因此，热量必须在 AB 段加入并在 CD 段释放。换句话说，AB 段是温度为 T1 的等温膨胀，从热库吸收热量并做功。BC 代表绝热膨胀，此时容器中放置了隔热材料，温度下降并做功。在 CD 段当容器连接到温度低于 T1 的热库 T2 时发生等温压缩此过程中热量释放并做功。最后，在 DA 段，气体被绝热压缩并做功。总功等于图形所包围的面积。热机的效率由总功与原始加入热量的比值给出（因为对于循环 ΔU=0
 
-曲线从某个初始状态到最终状态所包围的面积等于所做的功。
-
-热力学第一定律本质上是能量守恒定律。
-
-## 令 Q 表示供给系统的热量变化
-
-## ΔU 表示内部分子能量的变化
-
-W 表示对系统所做的净功。
-
-气体所做的功是其压力乘以体积变化。
-
-那么热力学第一定律表述为：ΔU = Q + W。
-
-在热力学中，某些术语经常被使用，并且值得在理想气体的情况下加以研究。
-
-## **热力学第二定律与热机**
-
-没有系统是理想的。
-
-当机器被制造和运行时，由于摩擦总会损失热量。
-
-这种摩擦产生的热量可以通过能量守恒定律来解释。
-
-回忆热量从高温物体流向低温物体。
-
-因此，如果存在一个高温热库，系统将从该库中汲取能量（因此得名）。
-
-只有一部分能量被用来做功，其余部分作为废气在较低温度下被释放。
-
-法国物理学家萨迪·卡诺研究了这一现象。
-
-卡诺对热机中发生的循环变化感兴趣，热机将热能转化为机械能。
-
-### 19 世纪，德国物理学家鲁道夫·克劳修斯创造了“熵”这个术语来描述系统随机性或无序性的增加。
-
-克劳修斯和卡诺的这些研究可以总结如下：
-
-## 1. 热量永远不会自发地从冷物体流向热物体。
-
-## 2. 热量不可能从单一热库中取出而不产生其他影响。
-
-## 3. 任何孤立系统的熵总是在增加。
-
-## 这三点阐述体现了热力学第二定律
-
-## 不可能制造出一种循环动作的机器
-
-其唯一效果是将热量从一个物体连续地传递到另一个温度更高的物体。
-
-与热力学第二定律相关的是可逆过程的概念。
-
-热量自发地从热物体流向冷物体，除非有外部作用，否则这个过程是不可逆的。
-
-如果系统通过一些中间平衡态从初态到末态，则该过程可能是可逆的。
-
-卡诺对这种可逆过程进行了广泛研究，它可以在压力-体积图上表示。
-
-图 7.
-
-## 5 所示为一个简单的热机。
-
-图 7.
-
-## 5 简单热机的 PV 图
-
-从 A 点到 B 点，压力在恒定体积下增加，不做功。
-
-## 从 B 点到 C 点
-
-## 气体在恒定压力下膨胀
-
-## 吸收外界热量
-
-所做的功等于 P2(V2 - V1)。
-
-从 C 点到 D 点，体积恒定，压力下降，不做功。
-
-最后，从 D 点到 A 点
-
-## 体积在恒定压力下减小
-
-## 热量散失到外界
-
-所做的功等于 P1(V1 - V2)。
-
-在每个等容变化中，由于体积没有变化，ΔW = 0。
-
-## 在等压变化期间
-
-## ΔW2 = P2(V2 - V1)
-
-ΔW1 = P1(V1 - V2)。
-
-净功等于 (P2 - P1)(V2 - V1)，它等于图 7.
-
-## 6 中矩形的面积。
-
-卡诺循环是其中发生绝热温度变化的循环，如图 7.
-
-## 6 所示。
-
-图 7.
-
-## 6 卡诺循环
-
-等温变化发生在 A 到 B 和 C 到 D 之间。
-
-绝热变化由 BC 和 AD 段表示，其中没有热量获得或损失。
-
-因此，热量必须在 AB 段加入并在 CD 段释放。
-
-换句话说，AB 段是温度为 T1 的等温膨胀，从热库吸收热量并做功。
-
-BC 代表绝热膨胀，此时容器中放置了隔热材料，温度下降并做功。
-
-## 在 CD 段
-
-## 当容器连接到温度低于 T1 的热库 T2 时
-
-## 发生等温压缩
-
-此过程中热量释放并做功。
-
-最后，在 DA 段，气体被绝热压缩并做功。
-
-总功等于图形所包围的面积。
-
-### 热机的效率由总功与原始加入热量的比值给出（因为对于循环 ΔU=0
-
-### 所以 W = Q_in - Q_out = Q1 - Q2）
-
-## 效率 = W / Q1 = 1 - Q2 / Q1
+所以 W = Q_in - Q_out = Q1 - Q2）效率 = W / Q1 = 1 - Q2 / Q1
 
 原因是，一个循环中所做的净功等于净传递的热量 (Q1 - Q2)
 
-因为内能变化为零。
+因为内能变化为零。对于卡诺循环，这可以重写为：效率 = 1 - T2 / T1
 
-对于卡诺循环，这可以重写为：
+其中 T1 > T2，且两个温度都以开尔文为单位。热泵（例如冰箱中使用的）可以看作是逆向的卡诺循环。执行相同的步骤，但方向相反。对流体做功而不是流体做功并且循环中加入和提取的热量之差为负即从流体提取的热量多于加入的热量。**示例问题**
 
-## 效率 = 1 - T2 / T1
+一个封闭气体在 P-V 图中所示的热力学过程中经历变化。计算一个循环中作为热量加入的净能量。解：我们可以通过计算图中每个线段下的面积来计算净能量。从 A → B，对角线段下方所做的功等于 800 J。从 B → C，直线段下方的面积等于 1,200 J。从 C → A 没有做功，因为体积没有变化。因此，净能量为 800 J - 1,200 J = -400 J。**热传递**
 
-其中 T1 > T2，且两个温度都以开尔文为单位。
+热量可以通过传导、对流或辐射传递。因为金属含有大量自由电子，热传导是主要的热传递模式。如果你曾经把勺子放在一杯热水里很长时间，你就体验过热传导。通过固体材料板（见图 7.
 
-热泵（例如冰箱中使用的）可以看作是逆向的卡诺循环。
+7）的热传递速率 (ΔQ/t) 取决于四个量：# 1. 板两侧的温差 (ΔT)
 
-执行相同的步骤，但方向相反。
+# 2. 板的厚度 (L)
 
-## 对流体做功而不是流体做功
+# 3. 板的正面面积 (A)
 
-## 并且循环中加入和提取的热量之差为负
+# 4. 材料的热导率 (k)，这是一个以瓦每米每摄氏度 (W/m·°C) 为单位的数字。图 7.
 
-即从流体提取的热量多于加入的热量。
+7 热传递
 
-## **示例问题**
-
-一个封闭气体在 P-V 图中所示的热力学过程中经历变化。
-
-计算一个循环中作为热量加入的净能量。
-
-解：我们可以通过计算图中每个线段下的面积来计算净能量。
-
-从 A → B，对角线段下方所做的功等于 800 J。
-
-从 B → C，直线段下方的面积等于 1,200 J。
-
-从 C → A 没有做功，因为体积没有变化。
-
-因此，净能量为 800 J - 1,200 J = -400 J。
-
-## **热传递**
-
-热量可以通过传导、对流或辐射传递。
-
-因为金属含有大量自由电子，热传导是主要的热传递模式。
-
-如果你曾经把勺子放在一杯热水里很长时间，你就体验过热传导。
-
-通过固体材料板（见图 7.
-
-7）的热传递速率 (ΔQ/t) 取决于四个量：
-
-## 1. 板两侧的温差 (ΔT)
-
-## 2. 板的厚度 (L)
-
-## 3. 板的正面面积 (A)
-
-### 4. 材料的热导率 (k)，这是一个以瓦每米每摄氏度 (W/m·°C) 为单位的数字。
-
-图 7.
-
-## 7 热传递
-
-## H = ΔQ / t = k * A * ΔT / L
+H = ΔQ / t = k * A * ΔT / L
 
 表 7.
 
-## 1 列出了一些典型的热导率。
+1 列出了一些典型的热导率。热量也可以在气体或液体中通过对流传递，物质在整个系统中循环。例如，热空气密度较小而上升，而冷空气密度较大而下沉。如果地面上的空气被太阳加热，该空气会上升并冷却。较冷的空气将下沉，从而发生循环。房间可以通过对流加热，热空气取代冷空气并在整个房间内循环。在水被加热时也可以看到对流电流。如果将染料放入从下方加热的水中，形成的图案将显示对流的流动。如果热量通过电磁波（见第 4 章）传递，该过程称为辐射。来自太阳的红外线是加热大气的典型机制。辐射像所有波一样，只将能量从一个地方转移到另一个地方。辐射不需要物质介质来传播。表 7.
 
-热量也可以在气体或液体中通过对流传递，物质在整个系统中循环。
+1 热导率材料 | k (W/m·°C)
 
-例如，热空气密度较小而上升，而冷空气密度较大而下沉。
-
-如果地面上的空气被太阳加热，该空气会上升并冷却。
-
-较冷的空气将下沉，从而发生循环。
-
-房间可以通过对流加热，热空气取代冷空气并在整个房间内循环。
-
-在水被加热时也可以看到对流电流。
-
-如果将染料放入从下方加热的水中，形成的图案将显示对流的流动。
-
-如果热量通过电磁波（见第 4 章）传递，该过程称为辐射。
-
-来自太阳的红外线是加热大气的典型机制。
-
-辐射像所有波一样，只将能量从一个地方转移到另一个地方。
-
-辐射不需要物质介质来传播。
-
-表 7.
-
-## 1 热导率
-
-## 材料 | k (W/m·°C)
-
-## --- | ---
+--- | ---
 
 空气 | 0.
 
@@ -7018,13 +6148,13 @@ BC 代表绝热膨胀，此时容器中放置了隔热材料，温度下降并�
 
 砖 | 0.
 
-## 黄铜 | 109
+黄铜 | 109
 
 混凝土 | 0.
 
 软木 | 0.
 
-## 铜 | 385
+铜 | 385
 
 玻璃 | 0.
 
@@ -7032,105 +6162,67 @@ BC 代表绝热膨胀，此时容器中放置了隔热材料，温度下降并�
 
 铁，钢 | 50
 
-## 银 | 406
+银 | 406
 
-## **总结**
+**总结**
 
-* 压力定义为单位面积上的力。
+* 压力定义为单位面积上的力。* 1 摩尔理想气体在标准状态下占据 22.
 
-* 1 摩尔理想气体在标准状态下占据 22.
+4 升体积，包含 6.
 
-## 4 升体积，包含 6.
+02 × 10^23 个分子（阿伏伽德罗常数）。* 玻意耳定律指出如果封闭的理想气体保持恒温则压力和体积的乘积保持不变 (PV = 常数)。* 查理定律指出如果封闭的理想气体保持恒定压力则体积与绝对温度之间存在直接关系 (V/T = 常数)。* 对于理想气体，PV/T 的比值等于常数。* 热力学第一定律本质上是能量守恒定律的重述：ΔU = ΔQ + ΔW。* 热力学第二定律与宇宙中熵（无序性）的增加有关，并且指出做功时总会产生热量。因此，不可能创造一台没有任何热量损失的理想机器。* 理想气体可以用一种称为气体动理论的统计理论来描述其中气体分子发生弹性碰撞温度是分子平均动能的量度。* 热量可以通过传导、对流或辐射传递。**热力学与气体动理论的解题策略**
 
-## 02 × 10^23 个分子（阿伏伽德罗常数）。
+重要的是要记住，在进行任何计算之前，必须将所有温度转换为开尔文。此外，由于气体常数 R 和玻尔兹曼常数 k 的单位是国际单位制所有质量或分子质量也必须使用千克为单位。ograms.
 
-## * 玻意耳定律指出
-
-## 如果封闭的理想气体保持恒温
-
-则压力和体积的乘积保持不变 (PV = 常数)。
-
-## * 查理定律指出
-
-## 如果封闭的理想气体保持恒定压力
-
-则体积与绝对温度之间存在直接关系 (V/T = 常数)。
-
-* 对于理想气体，PV/T 的比值等于常数。
-
-* 热力学第一定律本质上是能量守恒定律的重述：ΔU = ΔQ + ΔW。
-
-* 热力学第二定律与宇宙中熵（无序性）的增加有关，并且指出做功时总会产生热量。
-
-因此，不可能创造一台没有任何热量损失的理想机器。
-
-## * 理想气体可以用一种称为气体动理论的统计理论来描述
-
-## 其中气体分子发生弹性碰撞
-
-温度是分子平均动能的量度。
-
-* 热量可以通过传导、对流或辐射传递。
-
-## **热力学与气体动理论的解题策略**
-
-重要的是要记住，在进行任何计算之前，必须将所有温度转换为开尔文。
-
-此外，由于气体常数 R 和玻尔兹曼常数 k 的单位是国际单位制
-
-所有质量或分子质量也必须使用千克为单位。
-
-ograms.
-
-## For example
+# For example
 
 the molecular mass of nitrogen is usually given as 28 grams per mole.
 
-## However
+# However
 
-## in an actual calculation
+in an actual calculation
 
 this must be converted to 0.
 
-## 028 kilograms per mole.
+028 kilograms per mole.
 
-## You also should remember that
+# You also should remember that
 
 unless a comparison relationship is used (such as Boyle’s law or the preceding sample problem)
 
 all pressures must be in units of pascals (not kilopascals
 
-## atmospheres
+atmospheres
 
 or centimeters of mercury) and all volumes must be in cubic meters.
 
-## However
+# However
 
-## in a comparison relationship
+in a comparison relationship
 
 the chosen units are irrelevant (except for temperature
 
-## which is always in kelvins)
+which is always in kelvins)
 
 and you can use atmospheres for pressure
 
-## or liters (1 liter = 1
+or liters (1 liter = 1
 
-### 000 cubic centimeters) for volume.
+000 cubic centimeters) for volume.
 
 The molar specific heat capacities depend on the number of moles
 
 not the number of grams (the specific heat capacity).
 
-## PRACTICE EXERCISES
+# PRACTICE EXERCISES
 
-## At constant temperature
+# At constant temperature
 
 an ideal gas is at a pressure of 30 cm of mercury and a volume of 5 L.
 
 If the pressure is increased to 65 cm of mercury
 
-## the new volume will be
+the new volume will be
 
 (A) 10.
 
@@ -7138,47 +6230,47 @@ If the pressure is increased to 65 cm of mercury
 
 (C) 0.
 
-## 43 L
+43 L
 
 (D) 1.
 
-## At constant volume
+# At constant volume
 
 an ideal gas is heated from 75°C to 150°C.
 
 The original pressure was 1.
 
-## 5 atm.
+5 atm.
 
 After heating, the pressure will be
 
-## (A) doubled
+(A) doubled
 
-## (B) halved
+(B) halved
 
-## (C) the same
+(C) the same
 
-## (D) less than doubled
+(D) less than doubled
 
-## At constant pressure
+# At constant pressure
 
 6 m^3 of an ideal gas at 75°C is cooled until its volume is halved.
 
-### The new temperature of the gas will be
+# The new temperature of the gas will be
 
-## (A) 174°C
+(A) 174°C
 
-## (B) 447°C
+(B) 447°C
 
-## (C) −99°C
+(C) −99°C
 
 (D) 37.
 
 Water is used in an open-tube barometer.
 
-## If the density of water is 1
+# If the density of water is 1
 
-## 000 kg/m^3
+000 kg/m^3
 
 what will be the level of the column of water at sea level?
 
@@ -7196,63 +6288,63 @@ the average kinetic energy of its molecules
 
 (A) increases, then decreases
 
-## (B) decreases
+(B) decreases
 
-## (C) remains the same
+(C) remains the same
 
-## (D) increases
+(D) increases
 
 The product of pressure and volume is expressed in units of
 
-## (A) pascals
+(A) pascals
 
-## (B) kilograms per newton
+(B) kilograms per newton
 
-## (C) watts
+(C) watts
 
-## (D) joules
+(D) joules
 
 Which of the following is equivalent to 1 Pa of gas pressure?
 
-## (A) 1 kg/s^2
+(A) 1 kg/s^2
 
-## (B) 1 kg · m/s
+(B) 1 kg · m/s
 
-## (C) 1 kg · m^2/s^2
+(C) 1 kg · m^2/s^2
 
-## (D) 1 kg/(m · s^2)
+(D) 1 kg/(m · s^2)
 
 What is the efficiency of a heat engine that performs 700 J of useful work from a reservoir of 2
 
-## 700 J?
+700 J?
 
-## (A) 74%
+(A) 74%
 
-## (B) 26%
+(B) 26%
 
-## (C) 35%
+(C) 35%
 
-## (D) 65%
+(D) 65%
 
 The first law of thermodynamics is a restatement of which law?
 
-## (A) Conservation of charge
+(A) Conservation of charge
 
-## (B) Conservation of energy
+(B) Conservation of energy
 
-## (C) Conservation of entropy
+(C) Conservation of entropy
 
-## (D) Conservation of momentum
+(D) Conservation of momentum
 
 Which of the following graphs represents the relationship between pressure and volume for an ideal confined gas at constant temperature?
 
-## (A)
+(A)
 
-## (B)
+(B)
 
-## (C)
+(C)
 
-## (D)
+(D)
 
 (a) How many molecules of helium are required to fill a balloon with a diameter of 50 cm at a temperature of 27°C?
 
@@ -7260,7 +6352,7 @@ Which of the following graphs represents the relationship between pressure and v
 
 (c) What is the average velocity of each molecule of helium?
 
-## An engine absorbs 2
+# An engine absorbs 2
 
 000 J of heat from a hot reservoir and expels 750 J to a cold reservoir during each operating cycle.
 
@@ -7270,7 +6362,7 @@ Which of the following graphs represents the relationship between pressure and v
 
 (c) What is the power output of the engine if each cycle lasts for 0.
 
-## 5 s?
+5 s?
 
 A monatomic ideal gas undergoes a reversible process as shown in the pressure-versus-volume diagram below
 
@@ -7278,21 +6370,21 @@ A monatomic ideal gas undergoes a reversible process as shown in the pressure-ve
 
 how many moles of gas are present?
 
-## (b) For each cycle (AB
+(b) For each cycle (AB
 
 BC, and CA)
 
-## determine the values of ΔW
+determine the values of ΔW
 
 ΔU, and ΔQ.
 
 A glass window has dimensions of 1.
 
-## 2 m high, 1.
+2 m high, 1.
 
-## 0 m wide, and 5 mm thick.
+0 m wide, and 5 mm thick.
 
-### The outside temperature is 5°C
+The outside temperature is 5°C
 
 while the inside air temperature is 15°C.
 
@@ -7300,9 +6392,9 @@ while the inside air temperature is 15°C.
 
 (b) How much energy is transferred in one hour?
 
-## ANSWERS EXPLAINED
+# ANSWERS EXPLAINED
 
-## (B) At constant temperature
+(B) At constant temperature
 
 an ideal gas obeys Boyle’s law.
 
@@ -7312,17 +6404,17 @@ we can use the given units for pressure and volume.
 
 Substituting the given values into Boyle’s law
 
-## we obtain (30)(5) = (65)(V2)
+we obtain (30)(5) = (65)(V2)
 
 which implies that V2 = 2.
 
-## 3 L.
+3 L.
 
-## (D) At constant volume
+(D) At constant volume
 
 the changes in pressure are directly proportional to the changes in absolute Kelvin temperature.
 
-## Therefore
+# Therefore
 
 even though the Celsius temperature is being doubled
 
@@ -7330,7 +6422,7 @@ the Kelvin temperature is not!
 
 Thus, the new pressure must be less than doubled.
 
-## Alternatively
+# Alternatively
 
 you can calculate the new pressure since 75°C = 348 K and 150°C = 423 K.
 
@@ -7338,21 +6430,21 @@ Thus 1.
 
 5/348 = P2/423, and P2 = 1.
 
-## 8 atm (less than double).
+8 atm (less than double).
 
 Again, since a comparison relationship is involved
 
 we can keep the pressure in atmospheres for convenience.
 
-### (C) This is a Charles’s law problem
+(C) This is a Charles’s law problem
 
 and the temperatures must be in kelvins.
 
-## Since 75°C = 348 K
+Since 75°C = 348 K
 
 we can write that 6/348 = 3/T2.
 
-## However
+# However
 
 the volume change is directly proportional to the Kelvin temperature change.
 
@@ -7360,23 +6452,23 @@ Thus, T2 = 174 K = −99°C.
 
 (A) The formula for pressure is P = ρgh.
 
-## The density of water is 1
+# The density of water is 1
 
-## 000 kg/m^3
+000 kg/m^3
 
 and g = 9.
 
-## 8 m/s^2.
+8 m/s^2.
 
 We also know that at sea level P = 101 kPa
 
 which must be converted to pascals or newtons per square meter.
 
-## Thus h = P / ρg
+Thus h = P / ρg
 
 and making the necessary substitutions gives h = 10.
 
-### 3 m (a very large barometer over 35 ft tall!
+3 m (a very large barometer over 35 ft tall!
 
 (D) The absolute temperature of an ideal gas is directly proportional to the average kinetic energy of its molecules.
 
@@ -7386,13 +6478,13 @@ Hence, the average kinetic energy increases with temperature.
 
 the units of energy.
 
-### (D) One pascal is equivalent to 1 N/m^2
+(D) One pascal is equivalent to 1 N/m^2
 
 but 1 N is equal to 1 kg · m/s^2.
 
 Thus, the final equivalency is 1 kg/(m · s^2).
 
-### 8. (B) Efficiency = (700 J/2,700 J) × 100% = 26%.
+# 8. (B) Efficiency = (700 J/2,700 J) × 100% = 26%.
 
 (B) The first law of thermodynamics expresses the conservation of energy.
 
@@ -7400,29 +6492,29 @@ Thus, the final equivalency is 1 kg/(m · s^2).
 
 This is an inverse relationship that looks like a hyperbola.
 
-### (a) From the ideal gas formula
+(a) From the ideal gas formula
 
-## we know that PV = NkT
+we know that PV = NkT
 
 where N equals the number of molecules and k is Boltzmann’s constant.
 
-## For a 50-cm-diameter balloon
+# For a 50-cm-diameter balloon
 
 the radius will be 0.
 
-## 25 m.
+25 m.
 
-### One atmosphere is equal to 101
+# One atmosphere is equal to 101
 
-## 000 Pa of pressure.
+000 Pa of pressure.
 
 The volume of a sphere is given by V = (4/3)πR^3
 
 which equals 0.
 
-## 065 m^3 upon substitution.
+065 m^3 upon substitution.
 
-## We know also that N = PV / kT
+We know also that N = PV / kT
 
 where T is equal to 300 K in this problem.
 
@@ -7432,17 +6524,17 @@ Substituting all known values gives N = (101
 
 065) / [(1.
 
-## 38 × 10^−23)(300)] = 1.
+38 × 10^−23)(300)] = 1.
 
-## 59 × 10^24 molecules.
+59 × 10^24 molecules.
 
 (b) The average kinetic energy of each molecule is equal to KE_avg = (3/2)kT = (1.
 
 5)(1.
 
-## 38 × 10^−23)(300) = 6.
+38 × 10^−23)(300) = 6.
 
-## 21 × 10^−21 J.
+21 × 10^−21 J.
 
 (c) The average velocity of each molecule is given by v_rms = sqrt[(3RT)/m] = sqrt[(3)(8.
 
@@ -7452,357 +6544,149 @@ Substituting all known values gives N = (101
 
 (a) The efficiency of the heat engine is given by the formula e = ΔQ / Q_hot = (2
 
-## 000 − 750) / 2
+000 − 750) / 2
 
-## 000 = 0.
+000 = 0.
 
-## 625 or 62.
+625 or 62.
 
 (b) The work done during each cycle is equal to ΔQ = 2
 
-## 000 − 750 = 1
+000 − 750 = 1
 
-## 250 J.
+250 J.
 
 (c) The power output each cycle equals the work done divided by the time
 
 P = 1,250 / 0.
 
-## 5 = 2,500 W.
+5 = 2,500 W.
 
 (a) The formula for conductive heat transfer is H = kAΔT / L.
 
 First, we need to change the glass thickness to meters
 
-## 5 mm = 0.
+5 mm = 0.
 
-## 005 m.
+005 m.
 
 From Table 7.
 
 1, we see that the thermal conductivity of glass is k = 0.
 
-## 8 W/m · °C.
+8 W/m · °C.
 
 The area of the glass window is simply A = (1.
 
-## 2 m)(1.
+2 m)(1.
 
-## 0 m) = 1.
+0 m) = 1.
 
-## 2 m^2.
+2 m^2.
 
 By substituting in all the values and noting that ΔT = 10°C
 
 we get H = (0.
 
-## 8 W/m·°C)(1.
+8 W/m·°C)(1.
 
-## 2 m^2)(10°C) / (0.
+2 m^2)(10°C) / (0.
 
-## 005 m) = 1,920 W.
+005 m) = 1,920 W.
 
-### (b) Since energy = power × time
+(b) Since energy = power × time
 
-### the energy transferred in 1 hour (3
+the energy transferred in 1 hour (3
 
-## 600 s) is E = (1
+600 s) is E = (1
 
-## 920 J/s)(3
+920 J/s)(3
 
-## 600 s) = 6.
+600 s) = 6.
 
-## 912 × 10^6 J.
+912 × 10^6 J.
 
 Quantum, Atomic, and Nuclear Physics 8
 
-## KEY CONCEPTS
+# KEY CONCEPTS
 
-## ➜ PHOTOELECTRIC EFFECT
+➜ PHOTOELECTRIC EFFECT
 
-## ➜ PHOTON MOMENTUM
+➜ PHOTON MOMENTUM
 
-## ➜ MATTER WAVES
+➜ MATTER WAVES
 
-## ➜ SPECTRAL LINES
+➜ SPECTRAL LINES
 
-## ➜ SPECIAL RELATIVITY
+➜ SPECIAL RELATIVITY
 
-## ➜ MASS-ENERGY EQUIVALENCE
+➜ MASS-ENERGY EQUIVALENCE
 
 ➜ ATOMIC STRUCTURE AND RUTHERFORD’S MODEL
 
-## ➜ THE BOHR MODEL
+➜ THE BOHR MODEL
 
 ➜ QUANTUM MECHANICS AND THE ELECTRON CLOUD MODEL
 
-### ➜ NUCLEAR STRUCTURE AND STABILITY
+➜ NUCLEAR STRUCTURE AND STABILITY
 
-## ➜ BINDING ENERGY
+➜ BINDING ENERGY
 
-## ➜ RADIOACTIVE DECAY
+➜ RADIOACTIVE DECAY
 
-## ➜ FISSION
+➜ FISSION
 
-## ➜ FUSION
+➜ FUSION
 
-## PHOTOELECTRIC EFFECT
+# PHOTOELECTRIC EFFECT
 
 Light has a very interesting effect on certain metals.
 
-## Experimentally
+# Experimentally
 
 it was observed that ultraviolet light could cause some metals to spa
 
-显然，光导致电子从金属中发射出来。
+显然，光导致电子从金属中发射出来。然而，其基本机制尚不明确。正如我们将看到的，将振幅和频率的波动概念应用于此实验时，似乎并不合理。最令人困惑的是这样一个事实如果频率太低提高光的强度（增加波的振幅）无法导致电子发射。这一现象被称为光电效应，它定义了光的一种新观点，后来被称为量子理论。该理论由阿尔伯特·爱因斯坦发展，已扩展到粒子和电磁波，并构成了现代物理学的基础。光电效应可以以更定量的方式进行研究。1显示了一个真空管，其中包含一种光发射材料。许多金属表现出光电效应。管子的另一侧是一个收集板。该管连接到一个微安表，可用于测量发射电子产生的电流。当暴露于合适频率的光时，该表将隐式地测量每秒发射的电子数。这个数字仅取决于所施加的电磁波的强度。发射电子的最小频率被称为阈值频率，指定为f₀。1 光电效应真空管为了测量发射电子的能量，我们在电路中插入一个电位差源（图8.
 
-然而，其基本机制尚不明确。
+2），使得负电子接近一个带负电的侧面。这将产生一个制动力；如果选择合适的电压，我们就可以完全停止电流。执行此功能的电压被称为截止电压或截止电势，指定为V₀。被该电压阻止的电子的能量等于电子电荷与截止电压的乘积，eV₀。由于截止电压与所使用光的强度无关（这与光的波动理论相悖）截止电压测量的是发射电子的最大动能。2 光电效应实验装置随着光频率的缓慢增加，电子的最大动能发生变化。这一能量与光的强度无关的事实被爱因斯坦用来证明光由离散的或量子化的能量包组成称为光子。给定光子的能量与其频率成正比。为了阐明这种关系，图8.
 
-正如我们将看到的，将振幅和频率的波动概念应用于此实验时，似乎并不合理。
+3展示了最大动能与频率关系的典型图表。3 光电效应实验结果从阈值频率开始，该图是一条直线。对于任意频率点f，该直线的斜率由下式给出：斜率 = KEₘₐₓ / (f - f₀) = h
 
-## 最令人困惑的是这样一个事实
+KEₘₐₓ = hf - ϕ
 
-## 如果频率太低
+在这个被称为光电效应方程的表达式中
 
-提高光的强度（增加波的振幅）无法导致电子发射。
+hf代表原始光子的能量而ϕ被称为逸出功是金属的一个属性。量ϕ是衡量释放一个电子所需最小能量的尺度。逸出功（ϕ）有时被指定为W₀，并且可以很容易地证明它等于hf₀。阈值频率（f₀）对应于刚好能释放电子的光子能量。对各种金属的实验产生了一些有趣的结果。即使不同的金属具有不同的阈值频率因此也具有不同的逸出功它们都遵循相同的光电效应方程并具有相同的斜率h。4展示了三种金属A、B和C的典型比较图。4 三种不同材料的光电效应爱因斯坦因解释光电效应于1921年获得诺贝尔物理学奖。他的光电效应假说——光表现为量子化的能量包（光子）——与当时盛行的光的波动理论直接冲突后者已被干涉和衍射所证实。因此，二十世纪初的物理学家们面临着光的二象性。一般来说，基本粒子的粒子和波动描述的共存被称为波粒二象性。**示例问题**
 
-这一现象被称为光电效应，它定义了光的一种新观点，后来被称为量子理论。
+频率为2 × 10¹⁵ Hz的光照射到一块铜上。(a) 光的能量是多少焦耳和多少电子伏特？(b) 如果铜的逸出功是4.
 
-该理论由阿尔伯特·爱因斯坦发展，已扩展到粒子和电磁波，并构成了现代物理学的基础。
-
-光电效应可以以更定量的方式进行研究。
-
-1显示了一个真空管，其中包含一种光发射材料。
-
-许多金属表现出光电效应。
-
-管子的另一侧是一个收集板。
-
-该管连接到一个微安表，可用于测量发射电子产生的电流。
-
-当暴露于合适频率的光时，该表将隐式地测量每秒发射的电子数。
-
-这个数字仅取决于所施加的电磁波的强度。
-
-发射电子的最小频率被称为阈值频率，指定为f₀。
-
-## 1 光电效应真空管
-
-为了测量发射电子的能量，我们在电路中插入一个电位差源（图8.
-
-2），使得负电子接近一个带负电的侧面。
-
-这将产生一个制动力；
-
-如果选择合适的电压，我们就可以完全停止电流。
-
-执行此功能的电压被称为截止电压或截止电势，指定为V₀。
-
-被该电压阻止的电子的能量等于电子电荷与截止电压的乘积，eV₀。
-
-## 由于截止电压与所使用光的强度无关（这与光的波动理论相悖）
-
-截止电压测量的是发射电子的最大动能。
-
-## 2 光电效应实验装置
-
-随着光频率的缓慢增加，电子的最大动能发生变化。
-
-### 这一能量与光的强度无关的事实被爱因斯坦用来证明光由离散的或量子化的能量包组成
-
-称为光子。
-
-给定光子的能量与其频率成正比。
-
-为了阐明这种关系，图8.
-
-3展示了最大动能与频率关系的典型图表。
-
-## 3 光电效应实验结果
-
-从阈值频率开始，该图是一条直线。
-
-对于任意频率点f，该直线的斜率由下式给出：
-
-## 斜率 = KEₘₐₓ / (f - f₀) = h
-
-## KEₘₐₓ = hf - ϕ
-
-## 在这个被称为光电效应方程的表达式中
-
-## hf代表原始光子的能量
-
-## 而ϕ被称为逸出功
-
-是金属的一个属性。
-
-量ϕ是衡量释放一个电子所需最小能量的尺度。
-
-逸出功（ϕ）有时被指定为W₀，并且可以很容易地证明它等于hf₀。
-
-阈值频率（f₀）对应于刚好能释放电子的光子能量。
-
-对各种金属的实验产生了一些有趣的结果。
-
-## 即使不同的金属具有不同的阈值频率
-
-## 因此也具有不同的逸出功
-
-它们都遵循相同的光电效应方程并具有相同的斜率h。
-
-4展示了三种金属A、B和C的典型比较图。
-
-## 4 三种不同材料的光电效应
-
-爱因斯坦因解释光电效应于1921年获得诺贝尔物理学奖。
-
-他的光电效应假说——光表现为量子化的能量包（光子）——与当时盛行的光的波动理论直接冲突
-
-后者已被干涉和衍射所证实。
-
-因此，二十世纪初的物理学家们面临着光的二象性。
-
-一般来说，基本粒子的粒子和波动描述的共存被称为波粒二象性。
-
-## **示例问题**
-
-频率为2 × 10¹⁵ Hz的光照射到一块铜上。
-
-(a) 光的能量是多少焦耳和多少电子伏特？
-
-(b) 如果铜的逸出功是4.
-
-## 5 eV，发射电子的最大动能是多少电子伏特？
-
-**解：**
+5 eV，发射电子的最大动能是多少电子伏特？**解：**
 
 (b) 要找到最大动能，我们只需从光子能量中减去逸出功：KEₘₐₓ = 8.
 
-## 28 - 4.
+28 - 4.
 
-## 5 = 3.
+5 = 3.
 
-## 79 eV。
+79 eV。**光子动量**
 
-## **光子动量**
+在20世纪20年代初，美国物理学家阿瑟·康普顿用X射线和石墨进行了实验。他能够证明，当一个X射线光子与一个电子发生弹性碰撞时，该碰撞遵循动量守恒定律。由于这种动量相互作用而导致的光子散射被称为康普顿效应（图8.
 
-在20世纪20年代初，美国物理学家阿瑟·康普顿用X射线和石墨进行了实验。
+在康普顿效应中，散射光子的频率低于入射光子的频率。5 康普顿散射光子的动量由关系式p = h/λ给出。因此，X射线由于其非常高的频率，具有很大的光子动量。尽管我们说光子可以具有动量，但它们不具有所谓的静止质量。如果光可以具有动量和波长，那么现在提出的问题是，粒子是否也能具有波长和动量？**物质波**
 
-他能够证明，当一个X射线光子与一个电子发生弹性碰撞时，该碰撞遵循动量守恒定律。
+如果一束X射线入射到一块盐晶体上，所出现的图案是粒子散射的特征，而不是波的散射。然而，如果一束电子入射到一条狭窄的狭缝（图8.
 
-由于这种动量相互作用而导致的光子散射被称为康普顿效应（图8.
+6），所出现的图案是典型的波衍射图案。电子衍射是物质二象性的一个例子，在特定条件下，物质表现出波动性。具体情况由实验决定。如果你用光进行干涉实验，你将展示它的波动性。如果你进行光电效应实验，光将揭示其“类粒子”的性质。在20世纪20年代法国物理学家路易·德布罗意利用光的二象性提出物质可能具有“波动”性质由其德布罗意波长表示。由于光子的动量由p = h/λ给出，波长可以转换为λ = h/p。6 电子衍射干涉路易·德布罗意建议如果一个粒子的动量p = mv的大小足以克服普朗克常数的微小量就可以观察到显著的波长。由于质量在波长表达式的分母中，其标准是质量必须极小（在原子尺度上）。因此，虽然电子质子和中子可能具有波动特性但下落的石子由于其质量较大不会表现出任何波动效应。粒子的德布罗意波长方程由下式给出：λ = h / (mv)
 
-在康普顿效应中，散射光子的频率低于入射光子的频率。
+**示例问题**
 
-## 5 康普顿散射
+求以下各粒子的德布罗意波长：(a) 一个以20 m/s速度运动的10克石头。(b) 一个以1 × 10⁷ m/s速度运动的电子。**解：**
 
-光子的动量由关系式p = h/λ给出。
+粒子在小尺度上的这种运动特性导致了所谓的海森堡不确定性原理。该原理同样由维尔纳·海森堡在20世纪20年代提出它指出，由于小粒子（在原子尺度上）的波动性不可能同时精确确定粒子的位置和动量。任何试图观察粒子的实验尝试即观察这一简单行为都会由于这些光子会与粒子相互作用而导致固有的不确定性。从数学上讲，海森堡不确定性原理表示为：Δx Δp ≥ h / (4π)
 
-因此，X射线由于其非常高的频率，具有很大的光子动量。
+其中h是普朗克常数。**光谱线**
 
-尽管我们说光子可以具有动量，但它们不具有所谓的静止质量。
-
-如果光可以具有动量和波长，那么现在提出的问题是，粒子是否也能具有波长和动量？
-
-## **物质波**
-
-如果一束X射线入射到一块盐晶体上，所出现的图案是粒子散射的特征，而不是波的散射。
-
-然而，如果一束电子入射到一条狭窄的狭缝（图8.
-
-6），所出现的图案是典型的波衍射图案。
-
-电子衍射是物质二象性的一个例子，在特定条件下，物质表现出波动性。
-
-具体情况由实验决定。
-
-如果你用光进行干涉实验，你将展示它的波动性。
-
-如果你进行光电效应实验，光将揭示其“类粒子”的性质。
-
-## 在20世纪20年代
-
-### 法国物理学家路易·德布罗意利用光的二象性提出物质可能具有“波动”性质
-
-由其德布罗意波长表示。
-
-由于光子的动量由p = h/λ给出，波长可以转换为λ = h/p。
-
-## 6 电子衍射干涉
-
-## 路易·德布罗意建议
-
-### 如果一个粒子的动量p = mv的大小足以克服普朗克常数的微小量
-
-就可以观察到显著的波长。
-
-由于质量在波长表达式的分母中，其标准是质量必须极小（在原子尺度上）。
-
-因此，虽然电子
-
-## 质子和中子可能具有波动特性
-
-## 但下落的石子由于其质量较大
-
-不会表现出任何波动效应。
-
-粒子的德布罗意波长方程由下式给出：
-
-## λ = h / (mv)
-
-## **示例问题**
-
-求以下各粒子的德布罗意波长：(a) 一个以20 m/s速度运动的10克石头。
-
-(b) 一个以1 × 10⁷ m/s速度运动的电子。
-
-**解：**
-
-粒子在小尺度上的这种运动特性导致了所谓的海森堡不确定性原理。
-
-## 该原理同样由维尔纳·海森堡在20世纪20年代提出
-
-它指出，由于小粒子（在原子尺度上）的波动性
-
-不可能同时精确确定粒子的位置和动量。
-
-## 任何试图观察粒子的实验尝试
-
-## 即观察这一简单行为
-
-都会由于这些光子会与粒子相互作用而导致固有的不确定性。
-
-从数学上讲，海森堡不确定性原理表示为：
-
-## Δx Δp ≥ h / (4π)
-
-其中h是普朗克常数。
-
-## **光谱线**
-
-一个发射白光的热光源被称为白炽光源。
-
-当用棱镜分析其光时，会分解成连续的光谱颜色。
-
-（光谱仪是一种使用棱镜或光栅来产生光谱的仪器。
-
-## ）如果在白炽光源上使用彩色滤光片
-
-## 将只发射该颜色的光
-
-光谱将呈现为该颜色的连续光谱带。
-
-如果在管中低压含有的氢气被电火花激发，气体将发出蓝白色的光。
-
-如果用光谱仪分析该光，会显示出从红色到紫色的离散彩色线系列，而不是连续的颜色带。
-
-其他化学元素在被激发时也显示出特征性的发射线光谱，这可用于化学分析。
-
-这些光谱为玻尔将电子能级量子化提供了证据。
-
-7展示了电磁波谱可见光范围内的典型氢光谱系列。
-
-The Balmer series is often named after Jakob Balmer
+一个发射白光的热光源被称为白炽光源。当用棱镜分析其光时，会分解成连续的光谱颜色。（光谱仪是一种使用棱镜或光栅来产生光谱的仪器。）如果在白炽光源上使用彩色滤光片将只发射该颜色的光光谱将呈现为该颜色的连续光谱带。如果在管中低压含有的氢气被电火花激发，气体将发出蓝白色的光。如果用光谱仪分析该光，会显示出从红色到紫色的离散彩色线系列，而不是连续的颜色带。其他化学元素在被激发时也显示出特征性的发射线光谱，这可用于化学分析。这些光谱为玻尔将电子能级量子化提供了证据。7展示了电磁波谱可见光范围内的典型氢光谱系列。The Balmer series is often named after Jakob Balmer
 
 a Swiss mathematician who empirically studied the hydrogen spectrum in the late nineteenth century.
 
@@ -7812,15 +6696,15 @@ In Figure 8.
 
 This light is then passed through a prism or grating.
 
-### Many emission lines are produced
+# Many emission lines are produced
 
-## but only the first four
+but only the first four
 
-## designated as Hα (red)
+designated as Hα (red)
 
 Hβ, Hγ
 
-## and Hδ (violet)
+and Hδ (violet)
 
 are illustrated here.
 
@@ -7828,13 +6712,13 @@ The wavelengths range from about 656 to about 400 nanometers.
 
 Figure 8.
 
-## 7 Spectroscopy
+7 Spectroscopy
 
-## SPECIAL RELATIVITY
+# SPECIAL RELATIVITY
 
-## In 1905
+# In 1905
 
-### Einstein published several papers
+# Einstein published several papers
 
 one of which is now seen as answering the puzzling experimental observation that the speed of light is the same to all observers.
 
@@ -7846,31 +6730,31 @@ No matter the various speeds of different observers
 
 they will each measure the exact same speed for any electromagnetic wave in a vacuum
 
-## 3 × 10^8 m/s (c).
+3 × 10^8 m/s (c).
 
 Rather than begin with the experimental evidence (most of which came after his paper)
 
 Einstein began with the theories of electricity and magnetism.
 
-## When combined
+# When combined
 
 these yield a speed for electromagnetic radiation of 3 × 10^8 m/s independent of the speed of the source of the radiation.
 
 Instead of trying to tinker with the theories governing electricity and magnetism (which were
 
-## by that time
+by that time
 
-## pretty well verified)
+pretty well verified)
 
 Einstein took the universality of the speed of light as a fundamental property of space itself.
 
-### He explained that all fields (or
+He explained that all fields (or
 
-## more generally
+more generally
 
 any object with zero rest mass) propagate through space at this speed.
 
-## In other words
+# In other words
 
 what we call the speed of light is not just some property of light.
 
@@ -7888,7 +6772,7 @@ Two events that may appear simultaneous to one observer will not appear so to an
 
 This lack of simultaneity on the part of two independent observers led Einstein to conclude that different observers will not agree about intervals of space and time either.
 
-## As people more commonly say
+# As people more commonly say
 
 the two observers will not agree with each other’s metersticks and stopwatches.
 
@@ -7898,7 +6782,7 @@ If the difference in distance measured by each observer is divided by the differ
 
 the values will cancel out.
 
-## As a result
+# As a result
 
 each observer will come up with the same number of meters traveled per second for electromagnetic radiation.
 
@@ -7912,11 +6796,11 @@ The equations for length contraction and time dilation both depend on the gamma 
 
 where v is the relative velocity between two observers
 
-## γ² = 1/(1 − v²/c²)
+γ² = 1/(1 − v²/c²)
 
-## ΔT_moving = γΔT_rest
+ΔT_moving = γΔT_rest
 
-## ΔD_moving = ΔD_rest/γ
+ΔD_moving = ΔD_rest/γ
 
 As surprising as Einstein’s propositions are
 
@@ -7924,59 +6808,59 @@ they have been experimentally verified many times over.
 
 They are used every day by physicists who deal with high-velocity objects.
 
-## MASS-ENERGY EQUIVALENCE
+# MASS-ENERGY EQUIVALENCE
 
-## In 1905
+# In 1905
 
 in a follow-up paper to his special theory of relativity published earlier that year
 
 Einstein proposed that mass and energy are different manifestations of the same thing.
 
-## In other words
+# In other words
 
 neither mass nor energy is conserved by itself.
 
-## Rather
+# Rather
 
 it is the combination of the two.
 
 Mass can be changed into energy and vice versa via his famous relationship
 
-## E = mc²
+E = mc²
 
 where c is the speed of light.
 
 The speed of light is such a large number that everyday transfers of energy do not result in any meaningful change in mass.
 
-## (However
+(However
 
 a cooling coffee mug is indeed losing mass as it radiates away energy!
 
-## ) In low-mass
+) In low-mass
 
-## high-energy situations
+high-energy situations
 
 the changes in mass due to energy loss or gain become impossible to ignore.
 
-## For example
+# For example
 
-## in nuclear fusion and fission
+in nuclear fusion and fission
 
 the total number of nucleons is the same before and after
 
 yet the total mass of the product nuclei are lower after energy has been released and are higher after energy has been absorbed.
 
-## In fact
+# In fact
 
 most of the mass of compound objects like atoms
 
-## molecules
+molecules
 
 and people comes from the binding energies within the nuclei of atoms.
 
 The individual quarks and electrons by themselves provide a very minor contribution to the total mass of everyday objects.
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 A hot cup of coffee loses 50 joules of energy as it cools down.
 
@@ -7986,15 +6870,15 @@ Solution:
 
 m = E/c² = 50 J/(3 × 10^8 m/s)² = 5.
 
-## 6 × 10^{-14} kg
+6 × 10^{-14} kg
 
 It is not likely you will notice this loss when you lift the cup!
 
-## SAMPLE PROBLEM
+# SAMPLE PROBLEM
 
 An electron meets a positron (the antiparticle of an electron
 
-### a positively charged electron)
+a positively charged electron)
 
 and they annihilate each other.
 
@@ -8002,13 +6886,13 @@ How much energy is released?
 
 Solution:
 
-## This value is over 1
+# This value is over 1
 
 000 times greater than the binding energy of electrons in hydrogen atoms!
 
-### ATOMIC STRUCTURE AND RUTHERFORD’S MODEL
+ATOMIC STRUCTURE AND RUTHERFORD’S MODEL
 
-## In 1896
+# In 1896
 
 French physicist Henri Becquerel was studying the phosphorescent properties of uranium ores.
 
@@ -8016,13 +6900,13 @@ Certain rocks glow after being exposed to sunlight
 
 and many physicists at that time were examining the light emanations from these ores.
 
-## One day
+# One day
 
-## while engaged in such a study
+while engaged in such a study
 
 Becquerel placed a piece of uranium ore in a drawer on top of some sealed photographic paper.
 
-## Several days later
+# Several days later
 
 he found to his surprise that the paper had been exposed even though no light was incident on it!
 
@@ -8030,7 +6914,7 @@ His conclusion was that radiation emitted by the uranium had penetrated the seal
 
 Subsequent work by Marie and Pierre Curie revealed that this natural radioactivity
 
-## as they called it
+as they called it
 
 came from the uranium itself and was a consequence of its instability as an atom.
 
@@ -8040,37 +6924,37 @@ Also, Ernest Rutherford discovered (see Figure 8.
 
 Figure 8.
 
-## 8 Three Types of Radiation
+8 Three Types of Radiation
 
-### When passed through a magnetic field
+# When passed through a magnetic field
 
 the emitted radiation split into three separate parts
 
-## called alpha rays
+called alpha rays
 
-## beta rays
+beta rays
 
 and gamma rays.
 
 Analysis of their trajectories led to the conclusions that alpha particles
 
-### later identified as helium nuclei
+later identified as helium nuclei
 
-## are positively charged
+are positively charged
 
-## beta particles
+beta particles
 
-## later identified as electrons
+later identified as electrons
 
-## are negatively charged
+are negatively charged
 
-## and gamma rays
+and gamma rays
 
-### later identified to be photons
+later identified to be photons
 
 are electrically neutral.
 
-## Thomson
+# Thomson
 
 using the data available at the end of the nineteenth century
 
@@ -8080,19 +6964,19 @@ After concluding that the atom is neutral overall and yet has electrons also ass
 
 Thomson’s model proposed that the atom consisted of a relatively large
 
-## uniformly distributed
+uniformly distributed
 
 positive mass with negatively charged electrons embedded in it like raisins in a pudding (see Figure 8.
 
 Figure 8.
 
-## 9 Thomson’s Model of the Atom
+9 Thomson’s Model of the Atom
 
-## In 1911
+# In 1911
 
 Rutherford and his co-workers decided to test Thomson’s model using alpha-particle scattering.
 
-## In the Thomson model
+# In the Thomson model
 
 the positive charge was uniformly distributed.
 
@@ -8106,9 +6990,9 @@ Rutherford’s procedure was to aim alpha particles at a thin metal foil (he use
 
 Figure 8.
 
-## 10 Rutherford’s Experiment
+10 Rutherford’s Experiment
 
-### When the results were analyzed
+# When the results were analyzed
 
 Rutherford found that most of the alpha particles were not deflected.
 
@@ -8116,7 +7000,7 @@ A few, however
 
 were strongly deflected in hyperbolic paths because of the Coulomb force of repulsion.
 
-### Since these forces were strong
+# Since these forces were strong
 
 Thomson’s model was incorrect.
 
@@ -8126,51 +7010,51 @@ Some alpha particles were scattered back close to 180 degrees (Figure 8.
 
 Figure 8.
 
-### 11 Alpha Particle Scattering Trajectories
+11 Alpha Particle Scattering Trajectories
 
 Rutherford’s conclusion was that the atom consisted mostly of empty space and that the nucleus was a very small
 
-## densely packed
+densely packed
 
 positive charge.
 
-## The electrons
+# The electrons
 
-## he proposed
+he proposed
 
 orbited around the nucleus like planets orbiting the Sun.
 
-## Rutherford’s model
+Rutherford’s model
 
-## however
+however
 
-## had several major problems
+had several major problems
 
 including the fact that it could not account for the appearance of discrete emission line spectra.
 
 In Rutherford’s model the electrons continuously orbited around the nucleus.
 
-## This circular
+# This circular
 
 “accelerated” motion should produce a continuous band of electromagnetic radiation
 
 but it did not.
 
-## Additionally
+# Additionally
 
 the predicted orbital loss of energy would cause an atom to disintegrate in a very short time and thus break apart all matter.
 
 This phenomenon, too, did not occur.
 
-## THE BOHR MODEL
+# THE BOHR MODEL
 
-## Niels Bohr
+# Niels Bohr
 
-## a Danish physicist
+a Danish physicist
 
 decided in 1913 to study the hydrogen spectral lines again.
 
-## Years earlier
+# Years earlier
 
 Einstein had proposed a quantum theory of light
 
@@ -8188,4 +7072,4 @@ Electrons cannot remain in any arbitrary energy state.
 
 They can remain only in discrete or quantized energy states.
 
-### 3. Electrons emit electromagnetic energy...
+# 3. Electrons emit electromagnetic energy...

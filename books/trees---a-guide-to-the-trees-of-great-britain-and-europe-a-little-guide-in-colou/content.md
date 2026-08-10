@@ -1,78 +1,78 @@
 ) (Z-Library).
 
-## --- Page 1 ---
+--- Page 1 ---
 
-## 160 ILLUSTRATIONS IN COLOUR
+160 ILLUSTRATIONS IN COLOUR
 
-## A GUIDE TO THE TREES OF
+# A GUIDE TO THE TREES OF
 
-## GREAT BRITAIN AND EUROPE
+# GREAT BRITAIN AND EUROPE
 
-## --- Page 2 ---
+--- Page 2 ---
 
-## A LITTLE GUIDE IN COLOUR
+# A LITTLE GUIDE IN COLOUR
 
-## Other titles in this series
+# Other titles in this series
 
-## BIRDS
+# BIRDS
 
-## ZOOLOGY
+# ZOOLOGY
 
-## ROCKS AND MINERALS
+# ROCKS AND MINERALS
 
-## - FOSSILS
+- FOSSILS
 
-## WILD FLOWERS
+# WILD FLOWERS
 
-## STARS
+# STARS
 
-## INSECTS
+# INSECTS
 
-## FISHES
+# FISHES
 
-## --- Page 3 ---
+--- Page 3 ---
 
-## TREES
+# TREES
 
-## A GUIDE TO THE TREES OF
+# A GUIDE TO THE TREES OF
 
-## GREAT BRITAIN AND EUROPE
+# GREAT BRITAIN AND EUROPE
 
-## By
+By
 
-## BRETAUDEAU
+# BRETAUDEAU
 
-## Translated and adapted by
+# Translated and adapted by
 
-## BARTON
+# BARTON
 
-## Illustrated by
+# Illustrated by
 
-## LE FAOU
+# LE FAOU
 
-## A LITTLE GUIDE IN COLOUR
+# A LITTLE GUIDE IN COLOUR
 
 PAUL HAMLYN .
 
-## LONDON
+# LONDON
 
-## --- Page 4 ---
+--- Page 4 ---
 
-## Conifer Broad-leaved tree
+# Conifer Broad-leaved tree
 
-### Published 1966 by Paul Hamlyn Ltd
+# Published 1966 by Paul Hamlyn Ltd
 
 Drury House - Russell Street, London WC2
 
 By arrangement with Western Printing Hachette International
 
-## Genève
+Genève
 
 , Geneve
 
-## --- Page 5 ---
+--- Page 5 ---
 
-## INTRODUCTION
+# INTRODUCTION
 
 This Little Guide is intended for the general reader
 
@@ -80,21 +80,21 @@ who wishes to increase his knowledge of our forest
 
 and garden trees.
 
-### Most people can recognize the com-
+# Most people can recognize the com-
 
-### moner native British trees such as Oak
+moner native British trees such as Oak
 
-## Elm and Ash
+# Elm and Ash
 
 but many would find it difficult to describe their char-
 
-## acteristic bark
+acteristic bark
 
-## leaves
+leaves
 
 flowers and fruits.
 
-## It is hoped
+# It is hoped
 
 that sufficient detail has been given in the illustrations
 
@@ -104,9 +104,9 @@ more closely at the trees he encounters.
 
 Although we are all familiar with trees a strict definition
 
-### of the term is difficult to provide
+of the term is difficult to provide
 
-## but they are basically
+but they are basically
 
 woody plants with a single axis or trunk-arising from
 
@@ -114,9 +114,9 @@ the ground.
 
 Apart from a few small tree-ferns the tree
 
-### habit is confined to seed plants
+habit is confined to seed plants
 
-## the Gymnosperms
+the Gymnosperms
 
 with exposed seeds and the Angiosperms with enclosed
 
@@ -128,17 +128,17 @@ green conifers with a very characteristic shape (p.
 
 The Angiosperms or flowering plants are divided into
 
-## the Dicotyledons
+the Dicotyledons
 
-### which include all the broad-leaved
+which include all the broad-leaved
 
 trees, and the Monocotyledons
 
-## to which the Palms
+to which the Palms
 
 belong.
 
-## Clearly
+# Clearly
 
 in a small book of this kind only a selection of
 
@@ -146,93 +146,93 @@ the many thousands of tree species can be described.
 
 Nearly all are natives of the North Temperate regions
 
-## tropical species
+tropical species
 
-## including the Palms
+including the Palms
 
 are omitted.
 
-## Most
+# Most
 
 of our native trees are dealt with and the rest all grow
 
-## out-of-doors in Britain
+out-of-doors in Britain
 
-### at least in the southern parts
+at least in the southern parts
 
 of the country.
 
-## --- Page 6 ---
+--- Page 6 ---
 
-## CONTENTS
+# CONTENTS
 
-## THE VEGETATIVE
+# THE VEGETATIVE
 
-## STRUCTURE OF TREES
+# STRUCTURE OF TREES
 
 The root system .
 
-## The trunk
+# The trunk
 
-## The crown
+# The crown
 
-## The leaves
+# The leaves
 
-## REPRODUCTION OF
+# REPRODUCTION OF
 
-## FLOWERING TREES
+# FLOWERING TREES
 
 The flowers .
 
-## The fruits
+# The fruits
 
-## The seeds
+# The seeds
 
-## REPRODUCTION OF
+# REPRODUCTION OF
 
-## CONIFERS 2 i
+# CONIFERS 2 i
 
-## THE UTILIZATION
+# THE UTILIZATION
 
-## OF TREES oa ter
+# OF TREES oa ter
 
-## THE NAMES
+# THE NAMES
 
-## OF TREES
+# OF TREES
 
-## CONIFERS
+# CONIFERS
 
-## BROAD-LEAVED
+# BROAD-LEAVED
 
-## E 水 命
+E 水命
 
-## BOTANICAL AUTHORS
+# BOTANICAL AUTHORS
 
 BIBLIOGRAPHY ,
 
 INDEX ,
 
-## 5 - D cn On
+5 - D cn On
 
-## --- Page 7 ---
+--- Page 7 ---
 
-## THE VEGETATIVE
+# THE VEGETATIVE
 
-## STRUCTURE OF TREES
+# STRUCTURE OF TREES
 
 In the plant kingdom trees are distinguished by their
 
 size; they are the largest of plants.
 
-## For convenience
+# For convenience
 
-## the root system
+the root system
 
 trunk, crown and leaves may be de-
 
 scribed separately.
 
-## THE ROOT SYSTEM
+# THE ROOT SYSTEM
 
 Being below ground the root system escapes general
 
@@ -242,7 +242,7 @@ aerial system we see above soil level.
 
 Broadly there are two types of root systems.
 
-## Some trees
+# Some trees
 
 have a stout tap root which penetrates deeply into the
 
@@ -250,7 +250,7 @@ soil, whereas others have a fasciculate system of sev-
 
 eral main roots which grow obliquely downwards.
 
-## However
+# However
 
 intermediate types are common and although
 
@@ -264,73 +264,73 @@ The main roots provide a firm anchor for the heavy
 
 aerial system.
 
-### The young roots grow apically and a
+# The young roots grow apically and a
 
-### TAP ROOT SYSTEM FASCICULATE ROOT
+# TAP ROOT SYSTEM FASCICULATE ROOT
 
-## SYSTEM
+# SYSTEM
 
-## --- Page 8 ---
+--- Page 8 ---
 
-## short distance behind
+short distance behind
 
-## each tip is a zone of root
+each tip is a zone of root
 
 hairs.
 
-## It is via these deli-
+# It is via these deli-
 
-## cate structures that the
+cate structures that the
 
-## tree obtains water and
+tree obtains water and
 
-## mineral salts from the
+mineral salts from the
 
 soil.
 
-## These substances
+# These substances
 
-## Pass across the cortex
+# Pass across the cortex
 
-## to the xylem and then
+to the xylem and then
 
-## upwards into the rest of
+upwards into the rest of
 
 the tree.
 
-## THE TRUNK
+# THE TRUNK
 
-## Some trees have a short
+# Some trees have a short
 
-## thick trunk which divides
+thick trunk which divides
 
-## into several boughs at a
+into several boughs at a
 
-## point six to fifteen feet
+point six to fifteen feet
 
-## phloem
+phloem
 
-## root hairs “
+root hairs “
 
-## piliferous
+piliferous
 
-## layer
+layer
 
-## cortex
+cortex
 
-## endodermis
+endodermis
 
-## Pericycie
+# Pericycie
 
-## xylem
+xylem
 
-## undifferentiated
+undifferentiated
 
-## xylem “
+xylem “
 
-## TRANSVERSE SECTION
+# TRANSVERSE SECTION
 
-## OF A YOUNG ROOT
+# OF A YOUNG ROOT
 
 above ground level.
 
@@ -346,13 +346,13 @@ best by referring to the lower diagram on p.
 
 Bark.
 
-### This develops at an early stage
+# This develops at an early stage
 
-## replacing the
+replacing the
 
 epidermis of the young stem.
 
-## It is a continuous pro-
+# It is a continuous pro-
 
 tective layer which is constantly replenished as the stem
 
@@ -370,11 +370,11 @@ Phloem.
 
 This is a thin layer beneath the bark contain-
 
-### ing vertical rows of special cells
+ing vertical rows of special cells
 
-## sieve tubes
+sieve tubes
 
-## which
+which
 
 conduct soluble food materials from the leaves where
 
@@ -382,27 +382,27 @@ they are synthesized to various parts of the tree.
 
 Vascular cambium.
 
-### During the active growing season
+# During the active growing season
 
 the cells of this thin layer divide to produce cells both
 
 outwards and inwards.
 
-### These derivatives differentiate
+# These derivatives differentiate
 
 into phloem towards the outside and xylem towards
 
-## --- Page 9 ---
+--- Page 9 ---
 
-## a
+a
 
-## primary xylem
+primary xylem
 
 the inside.
 
-## In this way
+# In this way
 
-## the stem is continually
+the stem is continually
 
 increasing in thickness.
 
@@ -410,43 +410,43 @@ Xylem.
 
 This is the wood,
 
-## a complex tissue which
+a complex tissue which
 
-## forms the bulk of a branch
+forms the bulk of a branch
 
 or trunk.
 
-## During each
+# During each
 
-## growing season a new
+growing season a new
 
-## ring of xylem is added
+ring of xylem is added
 
-## owing to the activity of
+owing to the activity of
 
 the vascular cambium.
 
-## The texture of the wood
+# The texture of the wood
 
-## laid down in the spring
+laid down in the spring
 
-## differs from that formed
+differs from that formed
 
-## in the late summer so that
+in the late summer so that
 
-## TRANSVERSE SECTION
+# TRANSVERSE SECTION
 
-## OF A TREE TRUNK
+# OF A TREE TRUNK
 
-### position of phloem and cambium
+position of phloem and cambium
 
-## yn
+yn
 
 these increments of growth can be seen with the
 
 naked eye in a cross-section of the trunk.
 
-## By counting
+# By counting
 
 these ‘annual rings’ a rough estimate of the age of
 
@@ -464,75 +464,75 @@ Although present in the young stem this soon
 
 disappears.
 
-## TRANSVERSE SECTION
+# TRANSVERSE SECTION
 
-## OF A YOUNG STEM
+# OF A YOUNG STEM
 
-## primary phloem
+primary phloem
 
-## secondary phloem
+secondary phloem
 
-## vascular ray
+vascular ray
 
-## cambium
+cambium
 
-## bark
+bark
 
-## pith secondary xylem
+pith secondary xylem
 
-## THE CROWN
+# THE CROWN
 
-## This consists of the
+# This consists of the
 
-## whole branch system
+whole branch system
 
 supported by the trunk.
 
-## It often presents a char-
+# It often presents a char-
 
 acteristic silhouette, e.g.
 
 pyramidal (Redwood),
 
-## rounded (Sweet Chest-
+rounded (Sweet Chest-
 
-## nut) or drooping (Weep-
+nut) or drooping (Weep-
 
 ing Willow).
 
-## --- Page 10 ---
+--- Page 10 ---
 
-## a
+a
 
-## VERTICAL SECTION OF A LAMINA
+# VERTICAL SECTION OF A LAMINA
 
-## upper epidermis
+upper epidermis
 
-## palisade mesophyll
+palisade mesophyll
 
-## spongy mesophyll
+spongy mesophyll
 
-## air space
+air space
 
-## sub-stomatal chamber
+sub-stomatal chamber
 
-## lower epidermis
+lower epidermis
 
-## THE LEAVES
+# THE LEAVES
 
 Structure and function.
 
-### The diagrams at the top of this
+# The diagrams at the top of this
 
 page and the next represent sections of a leaf blade as
 
 seen under a microscope.
 
-## The blade is bounded by an
+# The blade is bounded by an
 
-## upper and lower epidermis
+upper and lower epidermis
 
-## both covered by an imper-
+both covered by an imper-
 
 vious cuticle.
 
@@ -540,11 +540,11 @@ Many minute pores, the stomata, each
 
 surrounded by two sausage-shaped guard cells
 
-## present
+present
 
 particularly in the lower epidermis.
 
-## The sto-
+# The sto-
 
 mata are open during the day and allow gaseous
 
@@ -552,29 +552,29 @@ diffusion between the external atmosphere and the
 
 intercellular spaces of the mesophyll.
 
-## The mesophyll
+# The mesophyll
 
 consists of thin-walled cells containing many minute
 
-## green discoid structures
+green discoid structures
 
 the chloroplasts.
 
-## Also present
+# Also present
 
-## is a network of veins
+is a network of veins
 
-### small vascular strands of xylem
+small vascular strands of xylem
 
 and phloem which are in connection with that of the
 
 stem via the leaf stalk.
 
-## In light
+# In light
 
 photosynthesis occurs in the chloroplasts.
 
-## This
+# This
 
 is a complex series of reactions in which water supplied
 
@@ -582,7 +582,7 @@ from the soil and carbon dioxide from the atmosphere
 
 are combined to form carbohydrates.
 
-## In soluble form
+# In soluble form
 
 this elaborated food material is transported away from
 
@@ -592,21 +592,21 @@ As the stomata are open during the day a great amount
 
 of water evaporates from the leaf.
 
-## This transpiration
+# This transpiration
 
-## --- Page 11 ---
+--- Page 11 ---
 
-## VERTICAL SECTION OF A STOMA
+# VERTICAL SECTION OF A STOMA
 
-## cuticle
+cuticle
 
-## pore
+pore
 
-## epidermis
+epidermis
 
-## guard cell
+guard cell
 
-## sub-stomatal chamber
+sub-stomatal chamber
 
 exerts an upward pull on the water columns present inthe vessels of the xylem so that the leaf is continually supplied with water.
 
@@ -620,7 +620,7 @@ The leaf is attached to the stem by its swollen leaf base.
 
 In some species small flattened structures
 
-## the stipules
+the stipules
 
 are present on either side of the leaf base.
 
@@ -638,11 +638,11 @@ two (opposite) or more than two (verticillate).
 
 Types of leaves.
 
-### Leaves can be separated into two kinds
+# Leaves can be separated into two kinds
 
 simple and compound.
 
-### Simple leaves have a single lamina
+# Simple leaves have a single lamina
 
 but as the diagrams on the following pages show this varies greatly in shape.
 
@@ -670,19 +670,19 @@ i.e. a fresh lot of leaves is produced each spring
 
 all the leaves are shed in the autumn and the tree remains bare during the winter.
 
-## In contrast evergreen trees
+# In contrast evergreen trees
 
 e.g. many conifers
 
 bear leaves throughout the year.
 
-## However
+# However
 
 fresh leaves are produced each year and some of the older ones are shed.
 
-### REPRODUCTION OF FLOWERING TREES
+# REPRODUCTION OF FLOWERING TREES
 
-## THE FLOWERS
+# THE FLOWERS
 
 The broad-leaved trees are Angiosperms and produce flowers.
 
@@ -690,15 +690,15 @@ Basically a flower possesses a stalk or pedicel terminated by a short receptacle
 
 From the outside to the centre are:
 
-## The calyx
+# The calyx
 
-## consisting of several
+consisting of several
 
-## usually five
+usually five
 
 sepals which are often green and protect the flower bud.
 
-## The corolla
+# The corolla
 
 usually consisting of five petals.
 
@@ -722,13 +722,13 @@ In most species the carpels are few and more or less fused together.
 
 Pollination is the transfer of pollen from the anthers to the stigma.
 
-## Brightly coloured flowers
+# Brightly coloured flowers
 
 which are often scented and produce nectar
 
 are usually pollinated by insects.
 
-### The small green flowers of some trees
+# The small green flowers of some trees
 
 e.g. Birch
 
@@ -746,7 +746,7 @@ Diagrams of some of the commoner types are given below.
 
 The catkin is a variant of the spike.
 
-## THE FRUITS
+# THE FRUITS
 
 When a pollen grain germinates on a stigma it produces a tube which grows down the style and effects fertilization of one ovule in the ovary.
 
@@ -776,17 +776,17 @@ In a berry the whole wall is fleshy but in a drupe (Cherry) the seed is enclosed
 
 In other succulent fruits the receptacle (Apple) or inflorescence axis (Fig) becomes fleshy.
 
-## THE SEEDS
+# THE SEEDS
 
-### Seeds vary greatly in shape and size
+# Seeds vary greatly in shape and size
 
 they may be extremely small (Willow) or quite large (Horse Chestnut).
 
-## However
+# However
 
 they all contain a single embryo which on germination will develop into the young tree.
 
-### An embryo has a primary root or radicle
+# An embryo has a primary root or radicle
 
 and a primary shoot or plumule.
 
@@ -810,15 +810,15 @@ The food reserves present in the endosperm or cotyledons are utilized during ger
 
 but once the plumule has become exposed above the soil it becomes the green seedling shoot capable of photosynthesis.
 
-## REPRODUCTION OF CONIFERS
+# REPRODUCTION OF CONIFERS
 
-### The conifers are Gymnosperms and
+# The conifers are Gymnosperms and
 
-## unlike the broad-leaved trees
+unlike the broad-leaved trees
 
 their seeds are not enclosed in an ovary.
 
-### As the name of the group implies
+# As the name of the group implies
 
 they bear cones.
 
@@ -842,7 +842,7 @@ Pollination.
 
 The pollen grains are carried by the wind and in most species come in direct contact with the ovules where they effect pollination and
 
-## sometimes much later
+sometimes much later
 
 fertilization.
 
@@ -850,25 +850,25 @@ The seed-bearing cone.
 
 Subsequent development is complex and may take place slowly.
 
-## For example
+# For example
 
-## in theScots Pine
+in theScots Pine
 
-### 25 months elapse between pollination and
+25 months elapse between pollination and
 
 seed dispersal.
 
-### The familiar woody cones vary greatly
+# The familiar woody cones vary greatly
 
 in form and size according to species.
 
-## In most the seeds
+# In most the seeds
 
 are released when the scales bend back as they dry
 
 but in Cedars and Firs the cones simply fall to pieces
 
-## when mature
+when mature
 
 while in Juniper the fleshy scales remain
 
@@ -876,7 +876,7 @@ closed so that the cone is like a berry.
 
 The seeds of conifers are often winged.
 
-## They are always
+# They are always
 
 endospermic and the embryo usually has several coty-
 
@@ -890,9 +890,9 @@ cones and for this and other reasons they are usually
 
 put in a group separate from the conifers.
 
-## --- Page 20 ---
+--- Page 20 ---
 
-## THE UTILIZATION OF TREES
+# THE UTILIZATION OF TREES
 
 Since earliest times man has put the forest and its
 
@@ -902,7 +902,7 @@ shelter.
 
 Some of these have declined in importance with
 
-## the increased use of coal
+the increased use of coal
 
 oil, steel and synthetic chemi-
 
@@ -910,15 +910,15 @@ cals but nevertheless it would be difficult to picture
 
 life as we know it today without trees,
 
-## Formerly
+# Formerly
 
-### when the population was sparse
+when the population was sparse
 
-## there was
+there was
 
 sufficient natural forest to supply all the timber needed.
 
-## However
+# However
 
 as demand outstripped supply it became nec-
 
@@ -928,19 +928,19 @@ today forestry is a flourishing industry even in a small
 
 country like Britain.
 
-## Hardwoods are obtained mainly
+# Hardwoods are obtained mainly
 
-## from broad-leaved trees
+from broad-leaved trees
 
 e.g. Oak and Beech
 
-## but such
+but such
 
 species grow slowly and today preference is given to
 
 quicker growing conifers which yield softwoods.
 
-## Large
+# Large
 
 ships are no longer built of timber but vast quantities
 
@@ -956,17 +956,17 @@ well as thin continuous sheets of wood skimmed off by
 
 special machines.
 
-### Strong plywood is made by gluing
+# Strong plywood is made by gluing
 
 the sheets together so that the grain of one layer is at
 
 right angles to that of the next.
 
-## Other uses for larger
+# Other uses for larger
 
 pieces of timber include railway sleepers
 
-## telegraph
+telegraph
 
 poles and pit props.
 
@@ -974,7 +974,7 @@ Smaller diameter branches and twigs are also utilized.
 
 The trimmings from felled trees provide pea and bean
 
-## sticks
+sticks
 
 hop poles are produced from coppiced Sweet
 
@@ -986,15 +986,15 @@ still find much use in basket-making.
 
 The production of great quantities of wood pulp
 
-## espe-
+espe-
 
 cially from North American coniferous forests
 
-## is the
+is the
 
 basis of much of the paper-making industry while the
 
-## --- Page 21 ---
+--- Page 21 ---
 
 charcoal prepared by incomplete combustion of wood
 
@@ -1002,7 +1002,7 @@ in specially designed kilns is still very important.
 
 Large amounts of resin are extracted from conifers
 
-## either
+either
 
 by tapping the living trees or after felling.
 
@@ -1016,21 +1016,21 @@ from the bark of the Cork Oak.
 
 Trees also provide us with foods of various kinds.
 
-## Sugar
+# Sugar
 
 is still extracted from the Sugar Maple on a commer-
 
 cial scale in North America.
 
-## Apart from this trees also
+# Apart from this trees also
 
 produce many edible seeds and fruits.
 
-## Although those
+# Although those
 
 borne on wild species are often small and of little value
 
-## selection
+selection
 
 cross-breeding and grafting through the years
 
@@ -1038,25 +1038,25 @@ have resulted in the high-yielding cultivated varieties
 
 planted in our gardens and orchards today.
 
-## Among
+# Among
 
 trees which bear edible fruits are Apple
 
 Pear, Plum
 
-## Cherry
+# Cherry
 
-## Medlar
+# Medlar
 
-## Olive and Mulberry
+# Olive and Mulberry
 
-## those which have
+those which have
 
-### edible seeds include Stone Pine
+edible seeds include Stone Pine
 
-## Almond
+# Almond
 
-## Hazel and
+# Hazel and
 
 Walnut.
 
@@ -1064,55 +1064,55 @@ So far we have concentrated on their products but the
 
 living trees themselves are of great value.
 
-## On a utilita-
+# On a utilita-
 
 rian level some species are important for wind breaks
 
 soil stabilization and hedging.
 
-## Finally we must not forget
+# Finally we must not forget
 
 the importance of ornamental trees.
 
-## Compared with
+# Compared with
 
 some countries the number of native species in Britain
 
 is relatively small.
 
-### Fortunately many introduced trees
+# Fortunately many introduced trees
 
 grow well in our climate and soil and greatly enhance
 
 the beauty of roads, parks and gardens.
 
-## Again the ef-
+# Again the ef-
 
 forts of the horticulturist have resulted in the develop-
 
 ment of many attractive varieties particularly valuable
 
-## for their shape
+for their shape
 
-## stature
+stature
 
-### variegated foliage or colourful
+variegated foliage or colourful
 
 flowers.
 
-## --- Page 22 ---
+--- Page 22 ---
 
-## THE NAMES OF TREES
+# THE NAMES OF TREES
 
 Many of the trees described in this book
 
-## both native
+both native
 
-## and introduced
+and introduced
 
 have common English names.
 
-## In con-
+# In con-
 
 sequence some explanation is necessary for the promi-
 
@@ -1120,39 +1120,39 @@ nence given to the less familiar scientific names which
 
 are difficult to spell and remember.
 
-## There are several
+# There are several
 
 reasons for adopting this course.
 
-## Firstly
+# Firstly
 
 the common names lack precision.
 
-## To the cas-
+# To the cas-
 
 ual observer a Birch tree is easily recognizable but in
 
 fact we have two native species in Britain.
 
-## Although
+# Although
 
-## closely related
+closely related
 
-### so closely in fact that hybrids occur
+so closely in fact that hybrids occur
 
-## between them
+between them
 
-### they are none the less distinct species
+they are none the less distinct species
 
 which must be given separate names.
 
-## Similar examples
+# Similar examples
 
 could be given for other native trees such as Elms and
 
 Oaks.
 
-## Further
+# Further
 
 some species are widespread in North Tem-
 
@@ -1172,19 +1172,19 @@ only one for a particular species and this is valid
 
 throughout the world.
 
-### Each species has a generic name
+# Each species has a generic name
 
-### followed by a specific epithet
+followed by a specific epithet
 
 e.g. our two native Bir-
 
 ches are Betula pendula and Betula pubescens.
 
-## Thus the
+# Thus the
 
 scientific names also indicate relationships
 
-## in that close-
+in that close-
 
 ly similar species are included in the same genus.
 
@@ -1192,33 +1192,33 @@ The scientific name is followed by the initials or abbre-
 
 rect description of that particular species
 
-## This may
+# This may
 
-### appear an unnecessary complication
+appear an unnecessary complication
 
-## but is essential
+but is essential
 
-## if confusion is to be avoided
+if confusion is to be avoided
 
-## because the same name
+because the same name
 
 may have been used for two different species by dif-
 
-## ferent authors but
+ferent authors but
 
-### according to the International Rules
+according to the International Rules
 
-## of Nomenclature
+of Nomenclature
 
 only one of these can be valid.
 
-## --- Page 23 ---
+--- Page 23 ---
 
-## CONIFERS
+# CONIFERS
 
-## As we have seen
+# As we have seen
 
-### conifers are Gymnosperms and bear
+conifers are Gymnosperms and bear
 
 naked seeds.
 
@@ -1230,25 +1230,25 @@ of Taxus (Taxales) and the unique Ginkgo (Ginkgoales).
 
 The order Coniferales is usually divided into six or seven
 
-## families
+families
 
 but the allocation of genera to these is rather
 
 a matter of opinion.
 
-## This need not concern us here
+# This need not concern us here
 
-### except to note that the largest family
+except to note that the largest family
 
-## Pinaceae
+# Pinaceae
 
-## includes
+includes
 
-## the important genera Pinus
+the important genera Pinus
 
 Picea, Abies
 
-## Cedrus
+# Cedrus
 
 Larix,
 
@@ -1256,27 +1256,27 @@ Tsuga and Pseudotsuga.
 
 Conifers are generally sombre evergreen trees of pyra-
 
-## midal habit but a few
+midal habit but a few
 
 e.g. Larix and Taxodium
 
 deciduous.
 
-### They range in height from small bushes
+# They range in height from small bushes
 
 (Juniperus) to the tallest known trees (Sequoia).
 
 There are only three native Gymnosperms in Britain
 
-## the Scots Pine
+the Scots Pine
 
-## Common Juniper and Yew
+# Common Juniper and Yew
 
-## and these
+and these
 
 are easily recognized.
 
-### The conifers are predominantly
+# The conifers are predominantly
 
 temperate plants and many introduced species grow
 
@@ -1284,13 +1284,13 @@ well in this country and are often planted for both for-
 
 estry and ornament.
 
-### Cones are useful aids to identifi-
+# Cones are useful aids to identifi-
 
 cation but are not always produced readily in Britain
 
 or, if they are
 
-### may be borne so high that they are dif-
+may be borne so high that they are dif-
 
 ficult to reach.
 
@@ -1304,73 +1304,71 @@ should enable the reader to identify our commoner co-
 
 niferous trees.
 
-### Important features to look for are the
+# Important features to look for are the
 
-## form of the leaf
+form of the leaf
 
-## whether scale-like
+whether scale-like
 
-## needle-like or linear
+needle-like or linear
 
 and its mode of attachment to the stem.
 
-## The Pines can
+# The Pines can
 
 be recognized by their two to five needle leaves borne
 
 on dwarf shoots.
 
-### The needle leaves of both Firs and
+# The needle leaves of both Firs and
 
 Spruces are inserted singly on the stem but their leaf
 
 scars differ.
 
-## --- Page 24 ---
+--- Page 24 ---
 
-## CONIFERS
+# CONIFERS
 
 The genera described in this book can be separated
 
-## . Leaves scale-like,
+. Leaves scale-like,
 
 large, spirally arranged.
 
-## . Leaves scale-like,
+. Leaves scale-like,
 
 more or less straight, pointed.
 
-## . Leaves scale-like,
+. Leaves scale-like,
 
 very small, overlapping.
 
-### . Leaves needle-like,inserted singly on the stem.
+. Leaves needle-like,inserted singly on the stem.
 
-## . Leaves needle-like,
+. Leaves needle-like,
 
-### two to five borne apically on a
+two to five borne apically on a
 
 dwarf shoot.
 
-## . Leaves needle-like,
+. Leaves needle-like,
 
 in groups on woody short shoots.
 
-## . Leaves linear,
+. Leaves linear,
 
 inserted singly on the stem.
 
-## . Leaves with flat blades
+. Leaves with flat blades
 
 similar to those of broad-leaved trees.
 
-## --- Page 25 ---
+--- Page 25 ---
 
 on the basis of the form and arrangement of leaves.
 
-Araucaria 。
-
-Sequoiadendron, Callitris, Cryptomeria
+Araucaria。Sequoiadendron, Callitris, Cryptomeria
 
 sabina.
 
@@ -1380,33 +1378,33 @@ Thuja, Cupressus .
 
 Picea, Abies
 
-## Pseudotsuga
+# Pseudotsuga
 
-## Juniperus communis
+# Juniperus communis
 
 two-needled.
 
 Pinus: three-needled .
 
-## five-needled
+five-needled
 
 Cedrus, Larix
 
 Tsuga, Taxodium, Taxus, Sequoia
 
-## --- Page 26 ---
+--- Page 26 ---
 
-### ARAUCARIA ARAUCANA (Molina) Koch
+ARAUCARIA ARAUCANA (Molina) Koch
 
 (Monkey Puzzle, Chile Pine)
 
 This evergreen conifer is a native of Chile
 
-## where it
+where it
 
 reaches a height of 150 feet.
 
-## It is pyramidal in form but
+# It is pyramidal in form but
 
 old trees lose their lower branches and become round-
 
@@ -1416,13 +1414,13 @@ The lateral branches arise in whorls of three or
 
 four and become pendulous with age.
 
-## The dense spirally
+# The dense spirally
 
 arranged leathery lanceolate dark green leaves are
 
 one to two inches long.
 
-## The ovoid female cones are
+# The ovoid female cones are
 
 four to seven inches long and each pointed scale bears
 
@@ -1434,15 +1432,15 @@ Of the 10 species of Araucaria this is the only one which
 
 can be grown outdoors in temperate regions.
 
-## It is not
+# It is not
 
 cultivated for timber but is often planted in parks and
 
 gardens in Britain.
 
-## (Araucariaceae)
+(Araucariaceae)
 
-## --- Page 27 ---
+--- Page 27 ---
 
 SEQUOIADENDRON GIGANTEUM Buchholz (Big Tree)
 
@@ -1454,7 +1452,7 @@ some specimens are well over 300 feet high and are
 
 estimated to be at least 1500 years old.
 
-## The straight
+# The straight
 
 tapering trunk is covered with a thick spongy reddish-
 
@@ -1464,11 +1462,11 @@ The tree is narrowly pyramidal and the slen-
 
 der drooping branches are covered with dense spirally
 
-## arranged
+arranged
 
 pointed leaves about % inch long.
 
-## The ovoid
+# The ovoid
 
 female cone is two to three inches long and each woody
 
@@ -1482,13 +1480,13 @@ no economic value many fine specimens can be seen
 
 in Britain especially in western areas.
 
-## (Taxodiaceae)
+(Taxodiaceae)
 
-## --- Page 28 ---
+--- Page 28 ---
 
 CRYPTOMERIA JAPONICA Don, D.
 
-## (Japanese Cedar)
+(Japanese Cedar)
 
 Although one of the commonest conifers in Japan
 
@@ -1498,21 +1496,21 @@ this attractive species is not a true cedar but is more
 
 closely related to the Big Tree.
 
-## It is a variable evergreen
+# It is a variable evergreen
 
 tree and may reach 200 feet.
 
-## The slender green branch-
+# The slender green branch-
 
 lets bear spirally arranged curved awl-shaped leaves
 
 % to % inch long.
 
-### The terminal dark-brown globose
+# The terminal dark-brown globose
 
 cone is % to % inch across.
 
-## Each woody scale has a
+# Each woody scale has a
 
 terminal recurved spine and bears two or three small
 
@@ -1524,17 +1522,17 @@ The Japanese Cedar was introduced into Britain in
 
 A number of varieties have been described
 
-## based on
+based on
 
 distinct differences in habit.
 
-## (Taxodiaceae)
+(Taxodiaceae)
 
-## --- Page 29 ---
+--- Page 29 ---
 
 JUNIPERUS SABINA L.
 
-## (Savin)
+(Savin)
 
 The Savin is a shrubby tree about 15 feet high which
 
@@ -1542,7 +1540,7 @@ commonly grows in mountainous limestone areas of
 
 southern and central Europe.
 
-## Most of the slender bran-
+# Most of the slender bran-
 
 ches are covered by opposite pairs of overlapping scale
 
@@ -1550,7 +1548,7 @@ leaves but occasional branches are found bearing the
 
 juvenile form of awl-shaped leaves.
 
-## The ovoid berry-
+# The ovoid berry-
 
 like cone is about 1/8 inch across and usually contains
 
@@ -1558,13 +1556,13 @@ three seeds.
 
 The foliage has an unpleasant smell when rubbed.
 
-## of savin
+of savin
 
-### which is used in medicine as a diuretic
+which is used in medicine as a diuretic
 
 distilled from the leaves and shoots.
 
-## The branches are
+# The branches are
 
 sometimes used to make walking-sticks.
 
@@ -1574,19 +1572,19 @@ soils; it has been cultivated in England since the middle
 
 of the 16th century.
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 30 ---
+--- Page 30 ---
 
 THUJA OCCIDENTALIS L.
 
-## (American Arbor-vitae)
+(American Arbor-vitae)
 
 This species is common in North America where it
 
 forms dense forests on swampy ground.
 
-## It reaches 60
+# It reaches 60
 
 feet in height and the trunk is often forked near the
 
@@ -1610,19 +1608,19 @@ since the end of the 16th century.
 
 THUJA ORIENTALIS L.
 
-### (Chinese Arbor-vitae) is a smal-
+(Chinese Arbor-vitae) is a smal-
 
 ler tree with vertical branchlets and minute leaves.
 
-## Each
+# Each
 
 scale of the ovoid cone has a conspicuous terminal
 
 hook.
 
-## Three other species are known
+# Three other species are known
 
-## the most important
+the most important
 
 being T.
 
@@ -1630,23 +1628,23 @@ plicata which forms large forests in North
 
 America.
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 31 ---
+--- Page 31 ---
 
 LIBOCEDRUS DECURRENS Torrey (Incense Cedar)
 
-## This conifer
+# This conifer
 
 which is a native of the Pacific seaboard
 
-## of America
+of America
 
 is a handsome slender pyramidal tree up to
 
-## 150 feet high.
+150 feet high.
 
-### It has a reddish furrowed bark and the
+# It has a reddish furrowed bark and the
 
 vertical systems of branchlets are covered with alter-
 
@@ -1664,7 +1662,7 @@ It was introduced into Britain about 100 years ago and
 
 grows well here especially on moist soils.
 
-## Although
+# Although
 
 not used in forestry it is frequently planted in parks
 
@@ -1678,25 +1676,25 @@ tion.
 
 Eight other species are known.
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 32 ---
+--- Page 32 ---
 
 CHAMAECYPARIS LAWSONIANA Parl.
 
-## (Lawson Cypress)
+(Lawson Cypress)
 
 Lawson Cypress is a native of Oregon and California
 
 where it reaches 200 feet in height.
 
-## It is a dense
+# It is a dense
 
 pyramidal tree with flattened branchlets covered by alter-
 
 nate, unequal pairs of opposite leaves.
 
-## The globular
+# The globular
 
 cones are less than 1/4 inch across and each woody
 
@@ -1708,7 +1706,7 @@ tury ago it is very hardy and is perhaps the most exten-
 
 sively planted conifer in gardens.
 
-## It is extremely vari-
+# It is extremely vari-
 
 able in habit and a large number of varieties have been
 
@@ -1716,31 +1714,31 @@ described.
 
 Several other species are known including C.
 
-## nootka-
+nootka-
 
 tensis (Yellow Cypress) from North America and C.
 
-### pisifera (Sawara Cypress) from Japan
+pisifera (Sawara Cypress) from Japan
 
-## both of which
+both of which
 
 are also variable in habit.
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 33 ---
+--- Page 33 ---
 
-## Cupressus
+# Cupressus
 
-## sempervirens
+sempervirens
 
-## Cupressus
+# Cupressus
 
-## arizonica
+arizonica
 
 CUPRESSUS SEMPERVIRENS L.
 
-## (Mediterranean Cypress)
+(Mediterranean Cypress)
 
 This is the Cypress referred to in classical writings
 
@@ -1752,7 +1750,7 @@ The small scale leaves are in four rows and are more or
 
 less the same size.
 
-### The spherical woody cone is over
+# The spherical woody cone is over
 
 an inch long and each scale bears up to 20 winged
 
@@ -1768,53 +1766,53 @@ Generally Cupressus spp. can only be successfully
 
 grown in the milder parts of Britain.
 
-## There are about a
+# There are about a
 
 dozen species including C.
 
-## macrocarpa (Monterey Cy-
+macrocarpa (Monterey Cy-
 
 press) confined to a coastal strip of California about two
 
-## miles long
+miles long
 
 and the beautiful Kashmir Cypress (C.
 
 cashmeriana).
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 34 ---
+--- Page 34 ---
 
 JUNIPERUS COMMUNIS L.
 
-## (Common Juniper)
+(Common Juniper)
 
 This species is widespread throughout Europe
 
-## northern
+northern
 
 Asia and North America.
 
-## It is one of the three native
+# It is one of the three native
 
 conifers in Britain and is particularly common on chalk
 
 and limestone hills.
 
-### It is a small slow-growing shrub
+# It is a small slow-growing shrub
 
 or tree rarely exceeding 30 feet in height.
 
-## The narrow
+# The narrow
 
 spreading leaves are about 3/4 inch long and end in
 
 sharp points.
 
-## The globular
+# The globular
 
-## bluish-black cones are fleshy
+bluish-black cones are fleshy
 
 when ripe and contain one to three seeds.
 
@@ -1822,13 +1820,13 @@ There are many varieties including the Hedgehog Juni-
 
 per (v.
 
-## echiniformis)
+echiniformis)
 
-### a small round bush one to two feet
+a small round bush one to two feet
 
 high, and the Irish Juniper (v.
 
-## hibernica) which has dense
+hibernica) which has dense
 
 erect branches.
 
@@ -1836,9 +1834,9 @@ Oil of juniper is extracted from the unripe cones which
 
 are also used for flavouring gin.
 
-## (Cupressaceae)
+(Cupressaceae)
 
-## --- Page 35 ---
+--- Page 35 ---
 
 PICEA ABIES (L.
 
@@ -1860,7 +1858,7 @@ This is also the conifer most often used for Christmas trees.
 
 There are many recognized varieties including dwarf forms useful for rock gardens.
 
-## (Pinaceae)
+(Pinaceae)
 
 PICEA NIGRA (L.
 
@@ -1874,7 +1872,7 @@ PICEA MARIANA (Mill.
 
 Stearns & Poggenb.
 
-## (Black Spruce)
+(Black Spruce)
 
 This tree is common throughout Canada and the northeastern United States.
 
@@ -1886,21 +1884,21 @@ It is of no value for forestry in Britain but is often grown in gardens.
 
 PICEA SITCHENSIS (Bong.
 
-## ) Carrière (Sitka Spruce)
+) Carrière (Sitka Spruce)
 
-## also from North America
+also from North America
 
 is extensively grown in Britain where it thrives in a wide range of conditions from the coast to exposed mountains.
 
 It reaches 200 feet in height and has narrow flattened sharply pointed leaves.
 
-## (Pinaceae)
+(Pinaceae)
 
 PICEA SMITHIANA (Wall.
 
 ) Boiss.
 
-## (West Himalayan Spruce)
+(West Himalayan Spruce)
 
 This is a beautiful tree up to 200 feet high in its native habitat with pendulous branches and narrow spreading incurved leaves one to two inches long.
 
@@ -1908,33 +1906,33 @@ The brown cylindrical cones are four to eight inches long.
 
 It is hardy in Britain and is a valuable ornamental tree but not used in forestry.
 
-### About 30 species of Picea are known
+# About 30 species of Picea are known
 
 differing in the form of their leaves and cones.
 
-## (Pinaceae)
+(Pinaceae)
 
-## DISTINGUISHING FEATURES
+# DISTINGUISHING FEATURES
 
-## Spruce (Picea)
+Spruce (Picea)
 
-## Cone pendulous
+# Cone pendulous
 
-## Cone remains intact
+# Cone remains intact
 
 Peg-like leaf bases remain on the stem when the leaves are shed
 
-## Fir (Abies)
+Fir (Abies)
 
-## Cone erect
+# Cone erect
 
-## Cone scales become detached
+# Cone scales become detached
 
 Entire leaves shed leaving a smooth disc-like scar on the stem
 
 ABIES ALBA Mill.
 
-## (European Silver Fir)
+(European Silver Fir)
 
 This species is a native of central and southern European mountains.
 
@@ -1944,7 +1942,7 @@ The young shoots are downy and bear non-resinous buds.
 
 The spirally arranged leaves are up to an inch long
 
-## flattened
+flattened
 
 blunt, dark green above and whitish below.
 
@@ -1956,11 +1954,11 @@ Although sometimes grown in gardens it is not of great ornamental value.
 
 It has a durable white wood which is used in carpentry.
 
-## (Pinaceae)
+(Pinaceae)
 
 ABIES PINSAPO Boiss.
 
-## (Spanish Fir)
+(Spanish Fir)
 
 A native of the mountains of southern Spain
 
@@ -1978,17 +1976,17 @@ The wood is of no commercial value.
 
 The Grecian Fir, A.
 
-## cephalonica
+cephalonica
 
 is a similar species found only on high mountains of Greece.
 
 The leaves spread more or less all round the stem but are curved and have stiff terminal points.
 
-## (Pinaceae)
+(Pinaceae)
 
-### ABIES CONCOLOR Lindley & Gordon
+# ABIES CONCOLOR Lindley & Gordon
 
-## (Colorado White Fir)
+(Colorado White Fir)
 
 This fir is a native of western United States where it may reach 100 to 150 feet in height.
 
@@ -2000,7 +1998,7 @@ It is an attractive ornamental tree which grows well in the wetter parts of Brit
 
 Low's White Fir, A.
 
-## lowiana
+lowiana
 
 is a very similar species which may reach 250 feet in its native California.
 
@@ -2014,11 +2012,11 @@ grandis).
 
 The latter is widespread in western North America and reaches a height of 300 feet.
 
-## (Pinaceae)
+(Pinaceae)
 
 PSEUDOTSUGA MENZIESII (Mirbel) Franco.
 
-## (Douglas Fir)
+(Douglas Fir)
 
 Large forests of this species occur in the west coastal regions of North America where it may reach 300 feet in height.
 
@@ -2026,9 +2024,9 @@ The trunk is covered by a thick furrowed bark and the lateral branches are long 
 
 The soft narrow leaves are about an inch long and fragrant when bruised.
 
-## The characteristic cone
+# The characteristic cone
 
-### which is two to four inches long
+which is two to four inches long
 
 has thin seed scales and narrow trilobed bracts which project beyond them.
 
@@ -2040,15 +2038,15 @@ It is hardy in Britain and often used in forestry.
 
 The wood is very variable in quality and is often attractively figured.
 
-## (Pinaceae)
+(Pinaceae)
 
 PINUS SYLVESTRIS L.
 
-## (Scots Pine)
+(Scots Pine)
 
-## This species
+# This species
 
-## a native in Britain
+a native in Britain
 
 is widespread throughout Europe and northern Asia
 
@@ -2070,9 +2068,9 @@ furniture construction and for telegraph poles
 
 pit props and railway sleepers.
 
-## (Pinaceae)
+(Pinaceae)
 
-### PINUS MUGO Turra (Mountain Pine)
+PINUS MUGO Turra (Mountain Pine)
 
 This conifer has a wide distribution throughout the mountains of central and southern Europe including Spain.
 
@@ -2086,19 +2084,19 @@ The brown shortly stalked cones are up to two inches long and bear small seeds.
 
 The Mountain Pine is very resistant to winds and cold and will grow in almost any soil.
 
-## It is grown in Britain
+# It is grown in Britain
 
 especially in exposed situations in Scotland
 
 as a protective cover for more important trees.
 
-## (Pinaceae)
+(Pinaceae)
 
-### PINUS PINASTER Aiton (Maritime Pine)
+PINUS PINASTER Aiton (Maritime Pine)
 
-## The Maritime Pine
+# The Maritime Pine
 
-### also known as the Cluster Pine
+also known as the Cluster Pine
 
 is a native of the Mediterranean area where it reaches 120 feet in height.
 
@@ -2108,9 +2106,9 @@ reddish bark and pairs of stout leaves which are up to eight inches in length.
 
 The hard brown pointed cones are four to eight inches long.
 
-## They have no stalks and
+# They have no stalks and
 
-### although they may occur singly
+although they may occur singly
 
 are often borne in dense clusters.
 
@@ -2120,11 +2118,11 @@ It is very suitable for planting on sand dunes and by its use large areas of the
 
 The wood is put to many uses and on the Continent it is the main source of resin and turpentine.
 
-## (Pinaceae)
+(Pinaceae)
 
-### PINUS NIGRA Arnold (Austrian Pine
+PINUS NIGRA Arnold (Austrian Pine
 
-## Corsican Pine)
+Corsican Pine)
 
 This conifer is widespread in the mountainous regions of southern Europe and Asia Minor.
 
@@ -2134,7 +2132,7 @@ The somewhat rigid leaves are borne in pairs and are four to six inches long.
 
 The pale brown conesare up to three inches long and often curved.
 
-## It is an
+# It is an
 
 extremely variable species and several geographical
 
@@ -2142,7 +2140,7 @@ subspecies have been described which are not always
 
 readily distinguished.
 
-### The best known are the Austrian
+# The best known are the Austrian
 
 Pine (ssp.
 
@@ -2156,29 +2154,29 @@ they grow well in Britain where they are particularly
 
 valuable as wind breaks.
 
-## The wood is hard and brittle
+# The wood is hard and brittle
 
 and is much used in building work.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 46 ---
+--- Page 46 ---
 
 PINUS PINEA L.
 
-## (Stone Pine)
+(Stone Pine)
 
 The Stone or Umbrella Pine is a characteristic tree of
 
 the Mediterranean regions.
 
-## It rarely exceeds 80 feet in
+# It rarely exceeds 80 feet in
 
 height and has a broad rounded crown.
 
 The leaves, which
 
-## are in pairs
+are in pairs
 
 are somewhat twisted and four to six inches
 
@@ -2188,7 +2186,7 @@ The heavy ovoid brown cones are borne on thick
 
 stalks and are four to six inches long.
 
-## They contain
+# They contain
 
 very large seeds.
 
@@ -2196,7 +2194,7 @@ Owing to its attractive habit it has been extensively
 
 planted in southern Europe.
 
-### In Britain too it thrives where
+# In Britain too it thrives where
 
 the soil is non-calcareous and conditions not too severe.
 
@@ -2204,7 +2202,7 @@ The supple wood is not of great commercial value but
 
 the seeds are edible and provide an important compo nent of a vegetarian diet.
 
-## The seeds of the Tarentina
+# The seeds of the Tarentina
 
 Pine (v.
 
@@ -2212,17 +2210,17 @@ fragilis) are particularly valuable as they have
 
 thin coats.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 47 ---
+--- Page 47 ---
 
-## Pinus virginiana
+# Pinus virginiana
 
-## F Pinus contorta
+# F Pinus contorta
 
 PINUS VIRGINIANA Mill.
 
-## (Scrub Pine)
+(Scrub Pine)
 
 This two-needled pine is a native of eastern North
 
@@ -2242,37 +2240,37 @@ particularly decorative.
 
 PINUS CONTORTA L.
 
-## (Beach Pine)
+(Beach Pine)
 
 A native of the Pacific Coast of North America
 
-## this
+this
 
 species varies from a small stunted bush to a tree up
 
 to 200 feet high.
 
-## The leaves
+# The leaves
 
-## borne in pairs
+borne in pairs
 
-## are pale green
+are pale green
 
 twisted and up to three inches long.
 
-## The ovoid cones
+# The ovoid cones
 
 are one to two inches long.
 
-## The small form is used for
+# The small form is used for
 
 stabilizing sand dunes but the Lodgepole Pine (v.
 
 la ti folia) is a valuable source of timber.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 48 ---
+--- Page 48 ---
 
 PINUS PONDEROSA Douglas (Western Yellow Pine)
 
@@ -2284,21 +2282,21 @@ yellowish-brown bark peels off in the form of large plates
 
 from old trunks.
 
-### The crowded stiff curved leaves are
+# The crowded stiff curved leaves are
 
 eight to 10 inches long and borne in threes at the end
 
 of dwarf shoots.
 
-### The solitary or clustered reddish-brown
+# The solitary or clustered reddish-brown
 
 ovoid cones are three to eight inches long.
 
 It grows rapidly and tolerates many kinds of soils.
 
-## hard strong wood
+hard strong wood
 
-### similar to that of the Scots Pine
+similar to that of the Scots Pine
 
 makes it one of the most valuable timber trees in North
 
@@ -2310,13 +2308,13 @@ an attractive ornamental tree it is not used for forestry
 
 here.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 49 ---
+--- Page 49 ---
 
 PINUS RIGIDA Mill.
 
-## (Northern Pitch Pine)
+(Northern Pitch Pine)
 
 The Northern Pitch Pine is a native of eastern United
 
@@ -2324,17 +2322,17 @@ States where it forms a tree 50 to 80 feet high with a
 
 dark brown bark.
 
-### The spreading stiff curved leaves are
+# The spreading stiff curved leaves are
 
 two to four inches long and are borne in threes at the
 
 ends of the dwarf shoots.
 
-## The ovoid pale brown cones
+# The ovoid pale brown cones
 
 are about two inches long.
 
-## This pine has the peculiarity
+# This pine has the peculiarity
 
 of producing tufts of adventitious shoots from the sides
 
@@ -2344,31 +2342,31 @@ It will grow on poor soils but does not succeed very
 
 well in Britain and is little planted in gardens.
 
-## In America
+# In America
 
 the timber is used for building work and railway sleepers
 
 but is not of great commercial importance.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 50 ---
+--- Page 50 ---
 
 PINUS PALUSTRIS Mill.
 
-## (Pitch Pine)
+(Pitch Pine)
 
 This is a native of the Atlantic seaboard of North
 
 America from Virginia to Florida.
 
-## It reaches 100 feet or
+# It reaches 100 feet or
 
 more in height and has a reddish-brown bark.
 
 slender flexible leaves are borne in threes and are about
 
-## 12 inches in length
+12 inches in length
 
 or up to 18 inches on young trees.
 
@@ -2378,7 +2376,7 @@ The wood is extremely strong and is valuable for heavy
 
 construction work.
 
-### The tree does not grow well in Britain
+# The tree does not grow well in Britain
 
 except in the south-west.
 
@@ -2386,13 +2384,13 @@ Other three-needled pines are:
 
 sabiniana the Digger Pine, P.
 
-## radiata the Monterey
+radiata the Monterey
 
 Pine and P.
 
-## coulteri the Big-cone Pine
+coulteri the Big-cone Pine
 
-## all of which are
+all of which are
 
 natives of California.
 
@@ -2400,17 +2398,17 @@ The cones of the last named spe cies are often over a foot long and weigh three 
 
 pounds, (Pinaceae)
 
-## --- Page 51 ---
+--- Page 51 ---
 
 PINUS ARMANDI Franch.
 
-## (Armand's Pine)
+(Armand's Pine)
 
 This tree is widely distributed in western China and
 
 has also been found in Formosa.
 
-## It reaches a height of
+# It reaches a height of
 
 60 feet and has a straight trunk covered with a thin
 
@@ -2420,9 +2418,9 @@ Each dwarf shoot bears a terminal group of five narrow
 
 leaves which are four to six inches long and sharply
 
-## bent towards the base
+bent towards the base
 
-## The brown pendulous tapering
+# The brown pendulous tapering
 
 cone is four to seven inches long with broad triangular
 
@@ -2438,13 +2436,13 @@ wallichiana, is very similar
 
 but the cone is not so stout.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 52 ---
+--- Page 52 ---
 
 PINUS CEMBRA L.
 
-## (Arolla Pine)
+(Arolla Pine)
 
 In central Europe the Arolla Pine occurs between 5000
 
@@ -2452,29 +2450,29 @@ and 8000 feet but in Siberia it occurs at lower altitudes.
 
 Naturally occurring trees are 60 to 120 feet high with
 
-## stout lateral branches
+stout lateral branches
 
 in Britain it only attains 60 feet.
 
 The young shoots are covered with orange down and
 
-## the glaucous green leaves
+the glaucous green leaves
 
-## which are in fives
+which are in fives
 
-## are about
+are about
 
 three inches long.
 
-### The erect shortly cylindrical cones
+# The erect shortly cylindrical cones
 
 are up to three inches long.
 
-## They are unusual in that
+# They are unusual in that
 
-### the violet-brown scales do not open
+the violet-brown scales do not open
 
-## the wingless seeds
+the wingless seeds
 
 being released when the cones rot or are broken by
 
@@ -2484,17 +2482,17 @@ The seeds are edible and are regularly harvested in
 
 Switzerland and Siberia.
 
-## It grows well in Britain but
+# It grows well in Britain but
 
 is most flourishing in mountain areas.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 53 ---
+--- Page 53 ---
 
 PINUS STROBUS L.
 
-## (Weymouth Pine)
+(Weymouth Pine)
 
 This tree is a native of south-east Canada and north east United States where it reaches a height of 160 feet.
 
@@ -2508,7 +2506,7 @@ The pendulous narrow cylindrical cone is four
 
 to six inches long and often curved.
 
-## The rounded scales
+# The rounded scales
 
 are thin and soon open to release the narrowly winged
 
@@ -2524,7 +2522,7 @@ It owes its common name to the fact that Lord
 
 Weymouth planted it extensively at Longleat
 
-## Wiltshire
+# Wiltshire
 
 early in the 18th century.
 
@@ -2536,33 +2534,33 @@ lambertiana, an American
 
 tree which reaches 250 feet.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 54 ---
+--- Page 54 ---
 
 LARIX DECIDUA Mill.
 
-## (European Larch) /
+(European Larch) /
 
-### This attractive deciduous tree
+# This attractive deciduous tree
 
-## which reaches a height
+which reaches a height
 
-## of 100 to 150 feet
+of 100 to 150 feet
 
-### is a native of the mountains of central
+is a native of the mountains of central
 
 Europe and northern Russia.
 
-## The leaves are borne singly
+# The leaves are borne singly
 
 on young shoots and also in tufts on short shoots.
 
-## They are flat
+# They are flat
 
-## over an inch long
+over an inch long
 
-## pale green in spring
+pale green in spring
 
 changing to golden-yellow in autumn before they fall.
 
@@ -2574,55 +2572,55 @@ There are a number of geographical forms and varieties
 
 differing in habit.
 
-### It is a very hardy tree and can resist
+# It is a very hardy tree and can resist
 
 frost, snow and wind.
 
-### It is an excellent forestry tree and
+# It is an excellent forestry tree and
 
 is the most widely planted non-native tree in Britain.
 
-## The wood is hard
+# The wood is hard
 
-### of good quality and is extensively
+of good quality and is extensively
 
 used for telegraph poles and in building work.
 
-## DISTINGUISHING FEATURES
+# DISTINGUISHING FEATURES
 
-## Larch (Larix) Cedar (Cedrus)
+Larch (Larix) Cedar (Cedrus)
 
-## Deciduous
+# Deciduous
 
-## leaves soft Evergreen
+leaves soft Evergreen
 
-## leaves rigid
+leaves rigid
 
-## --- Page 55 ---
+--- Page 55 ---
 
 This handsome evergreen conifer is a native of the
 
 Atlas Mountains in Morocco and Algeria.
 
-## It is pyramidal
+# It is pyramidal
 
 in shape and reaches a height of 120 feet.
 
-## The narrow
+# The narrow
 
-## stiff glaucous green leaves
+stiff glaucous green leaves
 
-## up to an inch long
+up to an inch long
 
-## are borne
+are borne
 
 on young extension shoots and in tufts on woody short
 
-## shoots
+shoots
 
 The hard brown erect barrel-shaped cones areup to three inches long.
 
-## The seeds are released when
+# The seeds are released when
 
 the scales break off during the winter.
 
@@ -2654,33 +2652,33 @@ The cedars are hardy in Britain and if given sufficient
 
 room develop into majestic trees.
 
-## The durable strongly
+# The durable strongly
 
 scented wood is easy to work and is put to many uses.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 56 ---
+--- Page 56 ---
 
 TSUGA CANADENSIS (L.
 
-## ) Carrière (Eastern Hemlock)
+) Carrière (Eastern Hemlock)
 
 This tree is a native of eastern North America where it
 
 reaches 100 feet in height.
 
-### Its trunk is usually forked and
+# Its trunk is usually forked and
 
 the branches are slender and drooping.
 
-## The narrow
+# The narrow
 
 shortly stalked leaves are about ½ inch long and are
 
 oriented in two ranks.
 
-## The stalked ovoid cones are
+# The stalked ovoid cones are
 
 up to an inch long and bear few rounded scales.
 
@@ -2694,7 +2692,7 @@ Western Hemlock, T.
 
 heterophylla.
 
-## The latter is a native
+# The latter is a native
 
 of western North America and reaches over 200 feet in
 
@@ -2704,39 +2702,39 @@ It usually has a single trunk and a spire-like crown.
 
 The wood is tough and durable.
 
-## It grows well throughout
+# It grows well throughout
 
 Britain and forms a handsome tree if given sufficient
 
 room.
 
-## (Pinaceae)
+(Pinaceae)
 
-## --- Page 57 ---
+--- Page 57 ---
 
 TAXODIUM DISTICHUM Richard, L.
 
-## (Swamp Cypress)
+(Swamp Cypress)
 
 This attractive tree is a native of the south-eastern United
 
 States where it reaches a height of 100 to 150 feet.
 
-## It is
+# It is
 
-## deciduous
+deciduous
 
 the slender shoots which bear the leaves
 
 being shed in the autumn.
 
-## The narrow leaves are up to
+# The narrow leaves are up to
 
 ½ inch long and are spirally arranged but lie in one plane
 
 so that the whole branchlet system is flat.
 
-## The spherical
+# The spherical
 
 greyish-purple cones are about an inch in diameter.
 
@@ -2754,45 +2752,45 @@ Britain and is often planted as an ornamental tree beside
 
 lakes and ponds.
 
-### The wood is of good quality with a
+# The wood is of good quality with a
 
-## straight grain
+straight grain
 
 durable and easy to work.
 
-## (Taxodiaceae)
+(Taxodiaceae)
 
-## --- Page 58 ---
+--- Page 58 ---
 
 TAXUS BACCATA L.
 
-## (Common Yew)
+(Common Yew)
 
 The Yew is a densely branched evergreen tree with a
 
-## thick trunk
+thick trunk
 
 it grows up to 60 feet in height.
 
-## It occurs
+# It occurs
 
 throughout Europe and as far as the Himalayas where it
 
 ascends to 11,000 feet.
 
-## The narrow soft dark green
+# The narrow soft dark green
 
 leaves are about an inch long.
 
-## There are separate male
+# There are separate male
 
 and female trees.
 
-### The latter bear small solitary ovules
+# The latter bear small solitary ovules
 
 which are pollinated in early spring.
 
-## By the autumn
+# By the autumn
 
 when they are ripe each seed has a hard coat and is
 
@@ -2806,7 +2804,7 @@ It is also often planted and some specimens are
 
 reputed to be 1000 years old.
 
-## The hard springy wood is
+# The hard springy wood is
 
 valuable and was formerly much used for making bows.
 
@@ -2822,21 +2820,21 @@ fastigiata, and several closely related
 
 geographical species.
 
-## (Taxaceae)
+(Taxaceae)
 
-## --- Page 59 ---
+--- Page 59 ---
 
 SEQUOIA SEMPERVIRENS (L.
 
 ) Endl.
 
-## (Redwood)
+(Redwood)
 
 The Redwood is closely related to the Big Tree (p.
 
 and has a similar restricted distribution
 
-## mainly in Cali-
+mainly in Cali-
 
 fornia.
 
@@ -2846,17 +2844,17 @@ with a tapering trunk covered with a thick fibrous red-
 
 dish-brown bark.
 
-### The leaves on the main and cone-
+# The leaves on the main and cone-
 
 bearing shoots are like those of the Big Tree but on the
 
-### lateral stems they are flattened
+lateral stems they are flattened
 
-## spreading and nearly
+spreading and nearly
 
 an inch long.
 
-### The reddish-brown cones are about an
+# The reddish-brown cones are about an
 
 inch long and each woody scale bears several narrowly
 
@@ -2864,9 +2862,9 @@ winged seeds.
 
 In America the soft narrow grained wood is of
 
-### considerable economic importance
+considerable economic importance
 
-## especially for railway
+especially for railway
 
 sleepers and fence posts as it is very durable when
 
@@ -2876,13 +2874,13 @@ It thrives well in Britain and is often grown as
 
 an ornamental tree but the wood is of poor quality.
 
-## (Taxodiaceae)
+(Taxodiaceae)
 
-## --- Page 60 ---
+--- Page 60 ---
 
 GINKGO BILOBA L.
 
-## (Maidenhair Tree)
+(Maidenhair Tree)
 
 This interesting deciduous tree was introduced into
 
@@ -2892,7 +2890,7 @@ vival appears to have been due to widespread planting
 
 by Buddhist monks.
 
-### It is a slender pyramidal tree with
+# It is a slender pyramidal tree with
 
 a grey bark.
 
@@ -2902,17 +2900,17 @@ are borne singly on extension shoots and in groups
 
 on woody short shoots.
 
-## There are separate male and
+# There are separate male and
 
 female trees.
 
-## On the latter
+# On the latter
 
-## pairs of ovules are borne at
+pairs of ovules are borne at
 
 the ends of thin stalks.
 
-## When mature each ovoid seed
+# When mature each ovoid seed
 
 is over an inch long with a thick yellow fleshy outer
 
@@ -2922,27 +2920,27 @@ It grows well in Britain and is often planted for ornamen-
 
 tal purposes.
 
-### Production of seeds has only occurred
+# Production of seeds has only occurred
 
 rarely in Britain.
 
 This is a single isolated species which,
 
-## on fossil evidence
+on fossil evidence
 
-### has existed for many millions of
+has existed for many millions of
 
 years.
 
-## (Ginkgoaceae)
+(Ginkgoaceae)
 
-## --- Page 61 ---
+--- Page 61 ---
 
-## BROAD-LEAVED TREES
+# BROAD-LEAVED TREES
 
 The broad-leaved trees illustrated on the following pages
 
-## are Angiosperms
+are Angiosperms
 
 i.e. they bear flowers and the ovules
 
@@ -2954,7 +2952,7 @@ they are all Dicotyledons their leaves are net-veined and
 
 the embryo within the seed has two cotyledons.
 
-## These
+# These
 
 features distinguish them from the other Angiosperm
 
@@ -2964,27 +2962,27 @@ considered here) which have leaves with parallel veins
 
 and a seed embryo with a single cotyledon.
 
-## There are
+# There are
 
-## very roughly
+very roughly
 
-## about 160
+about 160
 
-## 000 known species of
+000 known species of
 
 Dicotyledons grouped into some 260 families.
 
-## The latter
+# The latter
 
 differ greatly in the number and habit of the species
 
 they contain.
 
-### Some have few species which are all
+# Some have few species which are all
 
-## trees (Aceraceae)
+trees (Aceraceae)
 
-### others are large and include herbs
+others are large and include herbs
 
 shrubs and trees (Rosaceae) whilst other large families
 
@@ -2998,7 +2996,7 @@ tree species and it is only possible to describe a selec-
 
 tion in this book.
 
-### The many tropical species are exclu-
+# The many tropical species are exclu-
 
 ded but most of our native trees are mentioned and
 
@@ -3006,19 +3004,19 @@ most of the others are temperate species which grow
 
 well in Britain.
 
-### Few introduced species are used in
+# Few introduced species are used in
 
 forestry but a large number are planted for ornamen-
 
 tation.
 
-## The key on the next two pages
+# The key on the next two pages
 
-## which is based entirely
+which is based entirely
 
-## on the features of the leaves
+on the features of the leaves
 
-## should help the reader to
+should help the reader to
 
 identify the commoner broad-leaved trees he sees.
 
@@ -3026,7 +3024,7 @@ most of the species are deciduous the key is best used
 
 during the growing season.
 
-## The primary division is
+# The primary division is
 
 between simple and compound leaves and under both
 
@@ -3034,117 +3032,117 @@ these headings the next separation depends on whether
 
 the leaves are opposite or alternate.
 
-## --- Page 62 ---
+--- Page 62 ---
 
-## BROAD-LEAVED TREES
+# BROAD-LEAVED TREES
 
-## LEAVES SIMPLE
+# LEAVES SIMPLE
 
-## 1. LEAVES ALTERNATE 62-117
+# 1. LEAVES ALTERNATE 62-117
 
 a) Blades not lobed or toothed,
 
-## margins entire 62-66
+margins entire 62-66
 
 Diospyros, Cercis, Maclura, Magnolia
 
-## b) Blade toothed
+b) Blade toothed
 
-## i) Fruit dry
+i) Fruit dry
 
 Salix, Populus, Carpinus, Fagus, Betula,
 
-## Corylus
+# Corylus
 
-## Castanea
+# Castanea
 
 Tilia, Alnus
 
-## Zelkova
+# Zelkova
 
-## Ulmus
+# Ulmus
 
-## ii) Fruit more or less fleshy
+ii) Fruit more or less fleshy
 
 Celtis, Prunus, Sorbus, Malus,
 
 Pyrus, Crataegus
 
-### c) Blade usually pinnately toothed or
+c) Blade usually pinnately toothed or
 
 lobed, fruit borne in a woody cup
 
-## Quercus
+# Quercus
 
-### d) Blade more or less palmately
+d) Blade more or less palmately
 
-## toothed or lobed
+toothed or lobed
 
-## Liriodendron
+# Liriodendron
 
-## Liquidambar
+# Liquidambar
 
-## Platanus
+# Platanus
 
-## Ficus 114-117
+# Ficus 114-117
 
-## 2. LEAVES OPPOSITE 119-121
+# 2. LEAVES OPPOSITE 119-121
 
 a) Blade never lobed or toothed,
 
-## margin entire
+margin entire
 
-## Olea
+# Olea
 
-### b) Blade entire or with a somewhat
+b) Blade entire or with a somewhat
 
-## lobed or wavy margin
+lobed or wavy margin
 
 Paulownia, Catalpa
 
-### c) Blade more or less palmately
+c) Blade more or less palmately
 
-## toothed or lobed
+toothed or lobed
 
-## Acer
+# Acer
 
-## --- Page 63 ---
+--- Page 63 ---
 
-## BROAD-LEAVED TREES
+# BROAD-LEAVED TREES
 
-## LEAVES COMPOUND
+# LEAVES COMPOUND
 
-## 1. LEAVES ALTERNATE 129-146
+# 1. LEAVES ALTERNATE 129-146
 
-## a) Margins of leaflets entire
+a) Margins of leaflets entire
 
 Cladrastis, Gymnocladus, Sophora,
 
 Robinia, Laburnum, Cedrela
 
-## b) Margins of leaflets finely
+b) Margins of leaflets finely
 
-## toothed
+toothed
 
 Ailanthus, Juglans, Carya, Pterocarya
 
 Gleditschia, Sorbus
 
-## c) Margins of leaflets deeply
+c) Margins of leaflets deeply
 
-## toothed and sometimes more or
+toothed and sometimes more or
 
-## less lobed
+less lobed
 
 Koelreuteria, Rhus
 
-## d) Leaves pinnate
+d) Leaves pinnate
 
 Acer negundo, Fraxinus
 
-## e) Leaves palmate
+e) Leaves palmate
 
-## Aesculus
+# Aesculus
 
 129-135145-146
 
@@ -3152,31 +3150,31 @@ Acer negundo, Fraxinus
 
 151-152
 
-## --- Page 64 ---
+--- Page 64 ---
 
-## Diospyros virginiana
+# Diospyros virginiana
 
-## Diospyros kaki
+# Diospyros kaki
 
 DIOSPYROS SPP.
 
-## (Persimmon)
+(Persimmon)
 
 The members of this genus are deciduous trees or
 
-## shrubs
+shrubs
 
-## mostly tropical
+mostly tropical
 
-### with alternate entire leaves and
+with alternate entire leaves and
 
 hard heavy wood.
 
-### The fruit is a succulent berry with a
+# The fruit is a succulent berry with a
 
 persistent calyx.
 
-### Several tropical species are the source
+# Several tropical species are the source
 
 of ebony.
 
@@ -3188,11 +3186,11 @@ Diospyros kaki L.
 
 (Chinese Persimmon).
 
-## A tree 30 to 50
+# A tree 30 to 50
 
 feet high with shiny dark green foliage.
 
-## The bright red
+# The bright red
 
 edible fruit resembles a tomato and is about two inches
 
@@ -3202,7 +3200,7 @@ Diospyros virginiana L.
 
 (Common Persimmon).
 
-## A species
+# A species
 
 common in eastern United States where it reaches more
 
@@ -3212,7 +3210,7 @@ The yellow fruits are tinged with red and
 
 are about an inch across.
 
-## They are often eaten in
+# They are often eaten in
 
 America but are rarely produced on trees grown in
 
@@ -3224,19 +3222,19 @@ Diospyros lotus L.
 
 This species,
 
-### a native of China and the Himalayas
+a native of China and the Himalayas
 
-## is a tree up to
+is a tree up to
 
-### 50 feet high with yellow or bluish fruits.
+50 feet high with yellow or bluish fruits.
 
-## It is hardy but
+# It is hardy but
 
 rarely planted in Britain.
 
-## (Ebenaceae)
+(Ebenaceae)
 
-## --- Page 65 ---
+--- Page 65 ---
 
 CERCIS SILIQUASTRUM L.
 
@@ -3250,7 +3248,7 @@ It is 20 to 35 feet high with a smooth bark and
 
 alternate heart-shaped leaves.
 
-## The clusters of reddish-
+# The clusters of reddish-
 
 purple flowers are produced directly on the woody
 
@@ -3264,17 +3262,17 @@ The Judas Tree will tolerate most types of soil and can
 
 withstand drought.
 
-### It grows well in southern England
+# It grows well in southern England
 
 and is often planted in gardens.
 
-## Varieties with white
+# Varieties with white
 
 and pink flowers are known.
 
-### There are about seven species of Cercis
+# There are about seven species of Cercis
 
-## all natives
+all natives
 
 of North Temperate regions.
 
@@ -3286,39 +3284,39 @@ North American tree about 30 feet high with deep pink
 
 flowers.
 
-## (Caesalpiniaceae)
+(Caesalpiniaceae)
 
-## --- Page 66 ---
+--- Page 66 ---
 
 MAGNOLIA SPP.
 
-## (Magnolias)
+(Magnolias)
 
 These are small trees or shrubs with large buds and
 
-## alternate
+alternate
 
-## simple leaves
+simple leaves
 
-## Some species are deciduous
+# Some species are deciduous
 
 others evergreen.
 
-### The terminal flowers are usually large
+# The terminal flowers are usually large
 
 and the parts are inserted separately on the floral axis.
 
-## The fruit
+# The fruit
 
-### which consists of numerous one-seeded
+which consists of numerous one-seeded
 
-## achenes
+achenes
 
 has the appearance of an elongated cone.
 
-## There
+# There
 
-## are about 30 species
+are about 30 species
 
 natives of Asia and North America.
 
@@ -3326,25 +3324,25 @@ Magnolia acuminata L.
 
 (Cucumber Tree).
 
-## This is a
+# This is a
 
 deciduous North American tree which can reach a height
 
 of 90 feet.
 
-## The ovate
+# The ovate
 
-### pointed leaves are up to 10 inches
+pointed leaves are up to 10 inches
 
 long and softly hairy below.
 
-## The erect flowers are dull
+# The erect flowers are dull
 
 greenish-yellow and the fruits are dark red.
 
 Magnolia x soulangeana Soul.
 
-## This commonly grown de-
+# This commonly grown de-
 
 ciduous tree is a hybrid between two Chinese species
 
@@ -3352,7 +3350,7 @@ liliflora and M.
 
 denudata.
 
-## It reaches a height of 30
+# It reaches a height of 30
 
 feet and has ovate leaves about six inches long.
 
@@ -3360,7 +3358,7 @@ flowers are white or purple with the outer petals shorter
 
 than the inner ones.
 
-## There are numerous cultivated
+# There are numerous cultivated
 
 varieties,
 
@@ -3368,7 +3366,7 @@ Magnolia grandiflora L.
 
 (Bull Bay).
 
-## This is an evergreen
+# This is an evergreen
 
 tree up to 80 feet high which comes from south-east
 
@@ -3376,17 +3374,17 @@ United States.
 
 The leathery dark green leaves are about
 
-## 10 inches long
+10 inches long
 
-### glossy above and covered with felted
+glossy above and covered with felted
 
 rust-coloured hairs below.
 
-## The fragrant creamy-white
+# The fragrant creamy-white
 
 flowers are eight inches or more across.
 
-## The large ovoid
+# The large ovoid
 
 fruit is covered with brown hairs.
 
@@ -3394,17 +3392,17 @@ Other deciduous species sometimes planted in gardens
 
 include M.
 
-## stellata from Japan
+stellata from Japan
 
-## a shrub 10 to 15 feet
+a shrub 10 to 15 feet
 
 high with white starlike flowers which appear before the
 
 leaves, M.
 
-## wilsonii
+wilsonii
 
-### a native of China with fragrant
+a native of China with fragrant
 
 white cup-shaped flowers, and M.
 
@@ -3412,15 +3410,15 @@ macrophylla, an
 
 American species with leaves up to three feet long.
 
-## (Magnoliaceae)
+(Magnoliaceae)
 
-## --- Page 67 ---
+--- Page 67 ---
 
-## Magnolia grandiflora
+# Magnolia grandiflora
 
-## Magnolia acuminata
+# Magnolia acuminata
 
-## --- Page 68 ---
+--- Page 68 ---
 
 MACLURA POMIFERA Schneid.
 
@@ -3428,7 +3426,7 @@ MACLURA POMIFERA Schneid.
 
 A native of southern and eastern United States
 
-## this
+this
 
 deciduous tree reaches 35 to 70 feet in height.
 
@@ -3436,11 +3434,11 @@ stems bear alternate glossy dark green entire leaves
 
 and also sharp thorns.
 
-### The trees are unisexual and have
+# The trees are unisexual and have
 
 insignificant flowers.
 
-## The round rough yellow-green
+# The round rough yellow-green
 
 compound fruit is about four inches across but is not
 
@@ -3450,7 +3448,7 @@ This tree will grow in Britain and is particularly attractive
 
 in the autumn when the leaves turn yellow.
 
-## It can be
+# It can be
 
 trimmed and is often used for hedges in America.
 
@@ -3458,11 +3456,11 @@ hard heavy wood is orange in colour but turns brown
 
 when exposed.
 
-### It was formerly used by American In-
+# It was formerly used by American In-
 
 dians, especially of the Osage tribe
 
-## for making clubs
+for making clubs
 
 and bows.
 
@@ -3470,29 +3468,29 @@ They also extracted a dye from it to stain
 
 their skins.
 
-## (Moraceae)
+(Moraceae)
 
-## --- Page 69 ---
+--- Page 69 ---
 
 SALIX VIMINALIS L.
 
-## (Common Osier)
+(Common Osier)
 
-### This is a small deciduous tree or shrub
+# This is a small deciduous tree or shrub
 
-## at most 25 feet
+at most 25 feet
 
-## in height
+in height
 
-### which is common near water throughout
+which is common near water throughout
 
-## lowland Britain
+lowland Britain
 
-## Europe
+# Europe
 
 northern Asia and Japan.
 
-## young branches are very long
+young branches are very long
 
 slender and flexible.
 
@@ -3502,7 +3500,7 @@ ted blades which have undulate margins and are covered
 
 with silvery hairs on the under surfaces.
 
-## Like all willows
+# Like all willows
 
 the trees are unisexual and the small flowers are borne
 
@@ -3528,55 +3526,55 @@ caprea (p.
 
 common.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 70 ---
+--- Page 70 ---
 
 SALIX ALBA L.
 
-## (White Willow)
+(White Willow)
 
 This is a tall graceful tree up to 90 feet high common
 
-## near water throughout Britain
+near water throughout Britain
 
-## Europe to central Asia
+# Europe to central Asia
 
 and in North Africa.
 
-### The alternate shortly stalked leaves
+# The alternate shortly stalked leaves
 
 are up to four inches long.
 
-## The lanceolate leaf blade has
+# The lanceolate leaf blade has
 
-## a serrated margin
+a serrated margin
 
-### underneath it is covered with white
+underneath it is covered with white
 
 silky hairs.
 
 The catkins of both sexes are slender.
 
-## There
+# There
 
 are several distinct varieties of this species.
 
-## The Golden
+# The Golden
 
 Willow, v.
 
-## vitellina
+vitellina
 
-### has conspicuous orange-yellow stems
+has conspicuous orange-yellow stems
 
 and is often grown in parks and gardens.
 
-## The Cricket-
+# The Cricket-
 
 bat Willow, v.
 
-## coeru/ea
+coeru/ea
 
 has broader bluish-green leaves.
 
@@ -3590,19 +3588,19 @@ Willow (p.
 
 70) and hybrids between them are frequent.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 71 ---
+--- Page 71 ---
 
 SALIX BABYLONICA L.
 
-## (Weeping Willow)
+(Weeping Willow)
 
 Although often stated to be a native of China there is
 
 some doubt about its true country of origin.
 
-## It is a
+# It is a
 
 graceful tree up to 60 feet in height with a deeply
 
@@ -3618,7 +3616,7 @@ Weeping Willows are commonly planted in parks and
 
 gardens in Britain but most of these are not S.
 
-## babylonica
+babylonica
 
 itself but hybrids between it and S.
 
@@ -3630,11 +3628,11 @@ fragilis (p.
 
 70).
 
-### They show intermediate characters but
+# They show intermediate characters but
 
 retain the weeping habit.
 
-## Only female trees are known
+# Only female trees are known
 
 in Britain.
 
@@ -3644,29 +3642,29 @@ into leaf in spring and one of the last to shed its leaves
 
 in autumn.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 72 ---
+--- Page 72 ---
 
 SALIX FRAGILIS L.
 
-## (Crack Willow)
+(Crack Willow)
 
 This species is common in wet places in Britain
 
-## Europe
+# Europe
 
 Siberia and Persia.
 
-### It is 60 to 90 feet high with spreading
+# It is 60 to 90 feet high with spreading
 
-## branches
+branches
 
 a rounded crown and a thick trunk covered
 
 by a deeply fissured bark.
 
-## Characteristically the twigs
+# Characteristically the twigs
 
 can be easily broken at the base from their parent
 
@@ -3678,7 +3676,7 @@ long, lanceolate with a coarsely toothed margin and
 
 are without hairs when mature.
 
-## The catkins are stouter
+# The catkins are stouter
 
 than those of S.
 
@@ -3686,9 +3684,9 @@ alba.
 
 Both the Crack Willow and White Willow are often
 
-### pollarded and they are often confused
+pollarded and they are often confused
 
-## especially as
+especially as
 
 hybrids between them are frequent.
 
@@ -3698,33 +3696,33 @@ of varieties of doubtful status exist including the Red
 
 Willow, v.
 
-## sanguinea
+sanguinea
 
-### with red shiny twigs and the Bed-
+with red shiny twigs and the Bed-
 
 ford Willow, v.
 
-## russelliana
+russelliana
 
-### a tall tree with coarsely ser-
+a tall tree with coarsely ser-
 
 rated leaves and olive-brown twigs.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 73 ---
+--- Page 73 ---
 
 SALIX PURPUREA L.
 
-## (Purple Osier)
+(Purple Osier)
 
 More often a shrub than a tree the Purple Osier grows
 
 up to about 10 feet.
 
-## It is widespread in Britain
+# It is widespread in Britain
 
-## Europe
+# Europe
 
 Asia and North Africa.
 
@@ -3732,27 +3730,27 @@ The young twigs are glossy,
 
 purple and devoid of hairs.
 
-## Although sometimes alter-
+# Although sometimes alter-
 
 nate the leaves are often more or less opposite.
 
-## They
+# They
 
-## are lanceolate
+are lanceolate
 
-## up to three inches long
+up to three inches long
 
-## dull bluish-green
+dull bluish-green
 
 above, glaucous beneath and have toothed margins
 
 especially towards the tip.
 
-### The narrow cylindrical catkins
+# The narrow cylindrical catkins
 
 are about an inch long and appear before the leaves.
 
-## This
+# This
 
 is a very variable species and there are many named
 
@@ -3766,11 +3764,11 @@ It is often planted by swift-flowing streams to stabilize
 
 the banks.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 74 ---
+--- Page 74 ---
 
-## female catkin
+female catkin
 
 SALIX CAPREA L.
 
@@ -3778,7 +3776,7 @@ SALIX CAPREA L.
 
 This is a small tree or shrub up to 30 feet high which
 
-### is widespread throughout Britain
+is widespread throughout Britain
 
 Europe and Asia.
 
@@ -3796,7 +3794,7 @@ margins and are dark green above but are covered with
 
 dense grey hairs on the under surfaces.
 
-## The ovoid
+# The ovoid
 
 catkins emerge well before the leaves unfold and in fact
 
@@ -3806,11 +3804,11 @@ Two other species with leaves almost as broad as long
 
 are S.
 
-## aurita
+aurita
 
-## the Round-eared Willow
+the Round-eared Willow
 
-## a shrub frequent
+a shrub frequent
 
 on marshy land, and S.
 
@@ -3818,27 +3816,27 @@ cinerea, the Common Sallow
 
 with grey-green foliage.
 
-## Twigs bearing male catkins of
+# Twigs bearing male catkins of
 
-## the Goat Willow
+the Goat Willow
 
-### also known as the Pussy Willow
+also known as the Pussy Willow
 
-## of the Common Sallow
+of the Common Sallow
 
-### are used as ‘Palms’ for church
+are used as ‘Palms’ for church
 
 decoration on Palm Sunday.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 75 ---
+--- Page 75 ---
 
-## female catkin
+female catkin
 
 POPULUS ALBA L.
 
-## (White Poplar)
+(White Poplar)
 
 This poplar is a native of central and eastern Europe and
 
@@ -3850,33 +3848,33 @@ It is a beautiful tree up to 80 feet high
 
 with smooth grey bark.
 
-### The alternate long-stalked leaves
+# The alternate long-stalked leaves
 
 are dark green above and covered with thick white
 
 hairs underneath.
 
-### Those on short shoots have ovate
+# Those on short shoots have ovate
 
 blades with broad triangular teeth but on the long and
 
 sucker shoots the leaf blades are palmate.
 
-## The small
+# The small
 
 male and female catkins are borne in pendulous catkins
 
 on separate trees.
 
-### It is often planted by roadsides and
+# It is often planted by roadsides and
 
 near the sea in southern England.
 
-## canescens
+canescens
 
-## the Grey Poplar
+the Grey Poplar
 
-## is a similar but taller tree
+is a similar but taller tree
 
 more commonly planted in southern England than
 
@@ -3884,43 +3882,43 @@ alba.
 
 The leaves on the long shoots and suckers are
 
-## triangular
+triangular
 
-## not palmate
+not palmate
 
-## and the hairy covering tends
+and the hairy covering tends
 
 to wear off during the summer.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 76 ---
+--- Page 76 ---
 
 POPULUS NIGRA L.
 
-## (Black Poplar)
+(Black Poplar)
 
-## This fine tree
+# This fine tree
 
-## 70 to 100 feet high
+70 to 100 feet high
 
-## is common in wet
+is common in wet
 
 places throughout Europe and western Asia.
 
-## The trunk
+# The trunk
 
 has a black deeply fissured bark and characteristically
 
 bears large rounded bosses.
 
-## The long branches tend
+# The long branches tend
 
 to hang downwards and bear alternate stalked leaves
 
 with toothed rhomboidal blades.
 
-## The fruiting catkins
+# The fruiting catkins
 
 are up to six inches long.
 
@@ -3930,17 +3928,17 @@ southern parts of Britain but most specimens have been
 
 planted.
 
-## It is a variable tree
+# It is a variable tree
 
-## the best known variety
+the best known variety
 
 being v.
 
-## italica
+italica
 
-## the Lombardy Poplar
+the Lombardy Poplar
 
-## which has a fasti-
+which has a fasti-
 
 giate habit and paler bark.
 
@@ -3956,11 +3954,11 @@ deltoides (p.
 
 75).
 
-## It is a tall tree
+# It is a tall tree
 
-## with a fan-shaped crown
+with a fan-shaped crown
 
-## more frequently grown than
+more frequently grown than
 
 nigra.
 
@@ -3968,11 +3966,11 @@ Only the male is known and propagation is
 
 effected by cuttings.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 77 ---
+--- Page 77 ---
 
-## POPULUS DELTOIDES Marshall
+# POPULUS DELTOIDES Marshall
 
 This poplar is a native of south-eastern United States.
 
@@ -3994,31 +3992,31 @@ confused with P.
 
 monilifera, the Canadian Black Poplar
 
-## from eastern North America
+from eastern North America
 
-## which has leaves that are
+which has leaves that are
 
 not as long as they are wide.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 78 ---
+--- Page 78 ---
 
-## male catkin
+male catkin
 
 POPULUS TREMULA L.
 
-## (Aspen)
+(Aspen)
 
 The Aspen is an attractive tree widespread throughout
 
 Europe and temperate Asia to Japan.
 
-## In Britain it grows
+# In Britain it grows
 
 on poor soils particularly in the north and west.
 
-## It reaches
+# It reaches
 
 80 feet in height and has a grey bark and shiny brown
 
@@ -4030,7 +4028,7 @@ leaves vary greatly in size but always have very long
 
 compressed stalks so that they shake in the wind.
 
-## leaf blade
+leaf blade
 
 which is usually devoid of hairs when mature
 
@@ -4042,25 +4040,25 @@ Flowering occurs in February or March and the
 
 red male catkins are up to four inches long.
 
-### Several varieties are recognized
+# Several varieties are recognized
 
-## based mainly on the
+based mainly on the
 
 size and hairiness of the leaves.
 
-## Intermediate hybrids
+# Intermediate hybrids
 
 x hybrida between the Aspen and the Grey Poplar
 
 are sometimes found.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 79 ---
+--- Page 79 ---
 
 POPULUS TREMULOIDES Michx.
 
-## (American Aspen)
+(American Aspen)
 
 This North American tree reaches a height of 100 feet.
 
@@ -4076,13 +4074,13 @@ There are about 30 species of Poplars but as can be
 
 seen they are variable and hybridize freely.
 
-## They grow
+# They grow
 
 quickly and the wood is soft and not very durable but
 
 provides an important source of paper pulp.
 
-## Apart from
+# Apart from
 
 those already described the only other Poplar likely to
 
@@ -4092,27 +4090,27 @@ Gilead, P.
 
 gileadensis.
 
-### Only female trees are known and
+# Only female trees are known and
 
 its origin is uncertain although it has been in cultiva-
 
 tion since the middle of the 18th century.
 
-## (Salicaceae)
+(Salicaceae)
 
-## --- Page 80 ---
+--- Page 80 ---
 
-## fruits
+fruits
 
 CARPINUS BETULUS L.
 
-## (Hornbeam)
+(Hornbeam)
 
 This is a graceful deciduous tree attaining 90 feet under
 
-## favourable conditions
+favourable conditions
 
-### it is a native of Europe and Asia
+it is a native of Europe and Asia
 
 Minor.
 
@@ -4124,7 +4122,7 @@ The trunk has a fissured bark and bears long slender
 
 somewhat pendulous branches.
 
-## The alternate leaves
+# The alternate leaves
 
 have thin stalks and bright green ovate toothed blades.
 
@@ -4132,25 +4130,25 @@ The male and female flowers are borne in separate cat-
 
 kins on the same tree.
 
-### The fruit is an ovoid flattened
+# The fruit is an ovoid flattened
 
 nut attached to a large trilobed bract.
 
 The wood is very hard and was formerly used for such
 
-## things as ox-yokes
+things as ox-yokes
 
 mill cogs and also for fuel.
 
 Hornbeam makes an excellent hedge.
 
-## (Corylaceae)
+(Corylaceae)
 
-## --- Page 81 ---
+--- Page 81 ---
 
 FAGUS SYLVATICA L.
 
-## (Beech)
+(Beech)
 
 The Beech is a native of Europe and western Russia.
 
@@ -4158,7 +4156,7 @@ It is believed to be a true native in southern England
 
 where it is frequently dominant on chalk.
 
-## Elsewhere it
+# Elsewhere it
 
 has been planted and thrives on well-drained soils.
 
@@ -4166,59 +4164,59 @@ is a handsome tree often 100 feet high with silver-grey
 
 bark and rounded crown.
 
-### The alternate leaves have thin
+# The alternate leaves have thin
 
 stalks and elliptical blades with entire margins bearing
 
 silky hairs.
 
-### The male flowers occur in heads on long
+# The male flowers occur in heads on long
 
 slender stalks and the pairs of female flowers are en-
 
 closed in stalked, spiny cupules.
 
-## The triangular fruits
+# The triangular fruits
 
 are released when the four lobes of the woody cupule
 
 bend back in the autumn.
 
-## The fruits
+# The fruits
 
-## Beech mast
+# Beech mast
 
-### were formerly important as pig
+were formerly important as pig
 
 food and an edible oil can be extracted from them.
 
 hard pale wood is often used for making furniture.
 
-## (Fagaceae)
+(Fagaceae)
 
-## --- Page 82 ---
+--- Page 82 ---
 
-### BETULA PENDULA Roth (Silver Birch)
+BETULA PENDULA Roth (Silver Birch)
 
 This graceful tree occurs throughout Europe
 
-## western
+western
 
 Russia and Asia Minor.
 
-### It is common in Britain particu-
+# It is common in Britain particu-
 
 larly on sandy heathlands of the south.
 
-## It reaches a
+# It reaches a
 
 height of 70 feet and has a silvery-white bark.
 
-## The young
+# The young
 
-## twigs are brown
+twigs are brown
 
-### shiny and bear conspicuous whitish
+shiny and bear conspicuous whitish
 
 warts.
 
@@ -4240,7 +4238,7 @@ pubescens is very similar but has hairy young stems
 
 and irregularly toothed leaves.
 
-## It is not so tolerant of
+# It is not so tolerant of
 
 dry conditions as B.
 
@@ -4252,7 +4250,7 @@ The pink flowers appear in dense clusters before
 
 the leaves unfold.
 
-### The circular notched winged fruits
+# The circular notched winged fruits
 
 each contain a single seed but they are rarely fertile.
 
@@ -4260,17 +4258,17 @@ The elms are very variableAsia and is widespread in England and Wales although
 
 its status as a native in Britain is open to doubt.
 
-## It is a
+# It is a
 
 deciduous tree reaching about 60 feet in height with a
 
 broad pyramidal crown.
 
-## The fissured bark is grey and
+# The fissured bark is grey and
 
 the buds and twigs pale brown.
 
-## The alternate leaves
+# The alternate leaves
 
 have long stalks and finely serrated oval blades.
 
@@ -4278,7 +4276,7 @@ white flowers are over an inch across and appear in
 
 small clusters.
 
-### The globose fruit has a rough brownish
+# The globose fruit has a rough brownish
 
 skin and sharp gritty flesh.
 
@@ -4286,13 +4284,13 @@ Well over 1000 varieties of cultivated pears are known
 
 and they have all been derived from this species.
 
-## (Rosaceae)
+(Rosaceae)
 
-## --- Page 102 ---
+--- Page 102 ---
 
 CRATAEGUS OXYACANTHOIDES Thuill.
 
-## (Hawthorn)
+(Hawthorn)
 
 This Hawthorn is a native of Europe and occurs in
 
@@ -4302,31 +4300,31 @@ mon.
 
 It grows mostly in woods on heavy soils.
 
-## It is a
+# It is a
 
 small deciduous thorny tree or shrub rarely more than
 
-## 30 feet high.
+30 feet high.
 
-### The dark green leaves have short stalks
+# The dark green leaves have short stalks
 
 and those of the short shoots have shallow broad
 
 toothed lobes.
 
-### The leaves on the long shoots are often
+# The leaves on the long shoots are often
 
 more deeply lobed.
 
-### The stalked white flowers are borne
+# The stalked white flowers are borne
 
 in small clusters in May or early June.
 
-## They usually
+# They usually
 
-## have two styles
+have two styles
 
-### although some flowers may have one
+although some flowers may have one
 
 or three and the dark red ovoid fruits mostly contain
 
@@ -4334,13 +4332,13 @@ two stones.
 
 CRATAEGUS MONOGYNA Jacq.
 
-## (Common Hawthorn)
+(Common Hawthorn)
 
 This species is widespread in Europe and is common
 
 throughout England particularly in scrub land.
 
-## It grows
+# It grows
 
 on most kinds of soils and is the commonest plant
 
@@ -4348,13 +4346,13 @@ used for hedges.
 
 In habit it is very similar to C.
 
-## oxyacan-
+oxyacan-
 
 thoides but the leaves of the short shoots are generally
 
 more deeply dissected.
 
-## The flowers appear about a
+# The flowers appear about a
 
 week earlier and they are more numerous in the clusters.
 
@@ -4366,21 +4364,21 @@ These two species can usually be distinguished when
 
 in flower or fruit but leaf shape is so variable
 
-## especially
+especially
 
-### where the plants have been clipped
+where the plants have been clipped
 
-## that this feature is
+that this feature is
 
 not in itself always a reliable feature for identification.
 
-## Further
+# Further
 
 where the two species grow together hybrids
 
 with intermediate characters are found.
 
-## Many pink
+# Many pink
 
 red and double varieties of these two species
 
@@ -4396,19 +4394,19 @@ time, is supposed to have arisen from the staff of Joseph
 
 of Arimathea.
 
-## (Rosaceae)
+(Rosaceae)
 
-## --- Page 103 ---
+--- Page 103 ---
 
-## | Crataegus oxyacanthoides
+| Crataegus oxyacanthoides
 
-## 0 x Crataegus monogyna
+0 x Crataegus monogyna
 
-## --- Page 104 ---
+--- Page 104 ---
 
 MESPILUS GERMANICA L.
 
-## (Medlar)
+(Medlar)
 
 The Medlar is probably a native of south-east Europe
 
@@ -4422,27 +4420,27 @@ It is a shrub or spreading tree up to 20 feet
 
 high which sometimes bears thorns.
 
-## The young twigs
+# The young twigs
 
-### are hairy and the alternate leaves
+are hairy and the alternate leaves
 
-## which are about five
+which are about five
 
-## inches long
+inches long
 
 have very short stalks and dull green lan-
 
 ceolate blades.
 
-### The solitary terminal flowers are white
+# The solitary terminal flowers are white
 
 or pink and two inches in diameter.
 
-## The globose fruit
+# The globose fruit
 
 is brown and crowned with the persistent calyx.
 
-## It con-
+# It con-
 
 tains a single seed and is at first very hard but when
 
@@ -4454,27 +4452,27 @@ The Medlar is closely related to Hawthorn and hybrids
 
 between them are known.
 
-## (Rosaceae)
+(Rosaceae)
 
-## --- Page 105 ---
+--- Page 105 ---
 
-## Morus rubra
+# Morus rubra
 
 MORUS NIGRA L.
 
-## (Common Mulberry)
+(Common Mulberry)
 
 This is a native of Persia which has been cultivated for
 
 a long time in many countries including Britain.
 
-## It is a
+# It is a
 
 deciduous tree up to 30 feet high with a wide crown and
 
 deeply grooved bark.
 
-### The large alternate leaves are dark
+# The large alternate leaves are dark
 
 green above but much paler beneath and have more or
 
@@ -4482,49 +4480,49 @@ less heart-shaped serrated blades which are sometimes
 
 irregularly lobed.
 
-### The flowers are unisexual and borne
+# The flowers are unisexual and borne
 
 in separate small spikes.
 
 The cylindrical ‘fruits’, which
 
-## are dark red when mature
+are dark red when mature
 
-## are composed of the fleshy
+are composed of the fleshy
 
 perianths of the female flowers.
 
 Two other species are sometimes cultivated
 
-## the Red
+the Red
 
 Mulberry, M.
 
 rubra, which has dark purple flowers and
 
-## is a native of North America
+is a native of North America
 
-## the White Mulberry
+the White Mulberry
 
 alba, with white or pinkish fruits
 
-## comes from China and
+comes from China and
 
 its leaves are used to feed silk-worms.
 
-## (Moraceae)
+(Moraceae)
 
-## --- Page 106 ---
+--- Page 106 ---
 
 BROUSSONETIA PAPYRIFERA Vent.
 
-## (Paper Mulberry)
+(Paper Mulberry)
 
 This is a deciduous tree up to 30 feet high which is a
 
 native of China and Japan.
 
-## The alternate leaves are
+# The alternate leaves are
 
 about eight inches long with long stalks and heart-
 
@@ -4532,15 +4530,15 @@ shaped blades similar to those of the Common Mul-
 
 berry but even more variable in outline.
 
-## The unisexual
+# The unisexual
 
 flowers are borne in narrow cylindrical catkins on dif-
 
 ferent trees.
 
-## The red fruit is spherical
+# The red fruit is spherical
 
-## about one inch
+about one inch
 
 across.
 
@@ -4548,17 +4546,17 @@ It is widely cultivated in China where the bark is used for
 
 making paper.
 
-### It is also grown in southern Europe and
+# It is also grown in southern Europe and
 
 is occasionally found in gardens in Britain.
 
-## (Moraceae)
+(Moraceae)
 
-## --- Page 107 ---
+--- Page 107 ---
 
 QUERCUS ROBUR L.
 
-## (Common Oak)
+(Common Oak)
 
 The Common Oak occurs throughout Europe and Asia
 
@@ -4566,13 +4564,13 @@ as far as the Urals and is a widespread native in Britain
 
 particularly on heavy soils.
 
-## It is a deciduous tree 70 to
+# It is a deciduous tree 70 to
 
 90 feet high with a rough bark and smooth grey twigs
 
 which bear numerous light brown buds.
 
-## The alternate
+# The alternate
 
 leaves are two to four inches long with ovate pinnately
 
@@ -4580,13 +4578,13 @@ lobed blades which have upturned edges on either side
 
 of the leaf stalk.
 
-### The small male flowers are borne in
+# The small male flowers are borne in
 
 slender catkins and one to five female flowers occur
 
 on separate stalks.
 
-### The familiar fruit or acorn is a brown
+# The familiar fruit or acorn is a brown
 
 ovoid nut attached to a scaly cup.
 
@@ -4596,13 +4594,13 @@ hard durable timber is put to many uses although it
 
 is no longer required in quantity for ship building.
 
-## (Fagaceae)
+(Fagaceae)
 
-## --- Page 108 ---
+--- Page 108 ---
 
 QUERCUS PETRAEA (Mattuschka) Lieb.
 
-## (Durmast Oak)
+(Durmast Oak)
 
 The Durmast Oak is very similar to the Common Oak
 
@@ -4610,9 +4608,9 @@ in general appearance and also occurs in Europe and
 
 western Asia.
 
-### It can be distinguished by its leaves
+# It can be distinguished by its leaves
 
-## which
+which
 
 have longer stalks and no upturned auricles at the base
 
@@ -4628,15 +4626,15 @@ common on the calcareous soils of the north and west.
 
 Where our two native oaks occur together
 
-## for example
+for example
 
-### in certain parts of southern England
+in certain parts of southern England
 
-## fertile hybrids
+fertile hybrids
 
 between them are frequently found.
 
-## The timber of both
+# The timber of both
 
 species is equally valuable although the Durmast Oak
 
@@ -4644,9 +4642,9 @@ is more often planted as it appears to be less subjected
 
 to pests and diseases.
 
-## (Fagaceae)
+(Fagaceae)
 
-## --- Page 109 ---
+--- Page 109 ---
 
 QUERCUS PYRENAICA Willd.
 
@@ -4654,21 +4652,21 @@ This oak is a native of southern Europe and is particu-
 
 larly common in humid coastal regions.
 
-## It is a deciduous
+# It is a deciduous
 
 tree up to 50 feet high with a twisted trunk covered by a
 
 deeply fissured bark.
 
-### The alternate leaves are about
+# The alternate leaves are about
 
 six inches long with obovate deeply lobed blades which
 
-## are dark green above and pale
+are dark green above and pale
 
 hairy below.
 
-## The brown
+# The brown
 
 ovoid acorns are often borne in opposite pairs on the
 
@@ -4684,13 +4682,13 @@ Our native oaks are also attacked by this
 
 disease especially in wet summers.
 
-## (Fagaceae)
+(Fagaceae)
 
-## --- Page 110 ---
+--- Page 110 ---
 
 QUERCUS CERRIS L.
 
-## (Turkey Oak)
+(Turkey Oak)
 
 The Turkey Oak is a native of southern Europe and south-
 
@@ -4698,49 +4696,49 @@ western Asia but is often planted in Britain and has be-
 
 come naturalized in a number of places.
 
-## It is a deciduous
+# It is a deciduous
 
 tree 80 to 100 feet high with a blackish fissured bark and
 
 hairy young twigs.
 
-### The alternate leaves are two to six
+# The alternate leaves are two to six
 
 inches long with oval blades which have more or less
 
 pointed lobes.
 
-### The dull green leaves bear scattered
+# The dull green leaves bear scattered
 
 rough hairs particularly on the upper surfaces.
 
-## acorns
+acorns
 
-## which are often clustered
+which are often clustered
 
-## mature in their second
+mature in their second
 
 year and are contained in cups with a dense covering
 
 of pointed scales.
 
-## The Lucombe Oak
+# The Lucombe Oak
 
-### which is often planted in western
+which is often planted in western
 
-## England
+# England
 
 is a variable hybrid between the Cork Oak
 
 110) and the Turkey Oak.
 
-## (Fagaceae)
+(Fagaceae)
 
-## --- Page 111 ---
+--- Page 111 ---
 
 QUERCUS ILEX L.
 
-## (Holm Oak)
+(Holm Oak)
 
 The Holm Oak is a native of the Mediterranean region
 
@@ -4752,19 +4750,19 @@ It is an evergreen treeoil is obtained from fully mature fruits.
 
 The wood, which
 
-### is hard and brown with dark streaks
+is hard and brown with dark streaks
 
-## is used in turnery
+is used in turnery
 
 and cabinet-making.
 
-## (Oleaceae)
+(Oleaceae)
 
-## --- Page 121 ---
+--- Page 121 ---
 
 PAULOWNIA TOMENTOSA Koch, C.
 
-## (Foxglove Tree)
+(Foxglove Tree)
 
 This beautiful deciduous tree is a native of China but has
 
@@ -4774,7 +4772,7 @@ Britain since its introduction about 130 years ago.
 
 grows quickly and attains a height of 50 feet.
 
-## The trunk
+# The trunk
 
 has a smooth bark and the bent branches form a broad
 
@@ -4786,25 +4784,25 @@ have slender stalks and heart-shaped or slightly lobed
 
 blades covered below with woolly hairs.
 
-## The hairy flower
+# The hairy flower
 
 buds persist through the winter and open in the follow-
 
 ing May after the leaves have unfolded.
 
-## The scented
+# The scented
 
 purple flowers are two inches across and are borne
 
 in terminal inflorescences.
 
-## The fruit is a dark brown
+# The fruit is a dark brown
 
 pointed capsule containing numerous winged seeds.
 
-## (Scrophulariaceae)
+(Scrophulariaceae)
 
-## --- Page 122 ---
+--- Page 122 ---
 
 CATALPA SPP.
 
@@ -4812,15 +4810,15 @@ This genus includes about 10 species from Asia and
 
 North America.
 
-### They are deciduous trees with large
+# They are deciduous trees with large
 
 long-stalked simple or slightly lobed leaves
 
-## which are
+which are
 
 borne in opposite pairs or in threes.
 
-## The conspicuous
+# The conspicuous
 
 bell-shaped flowers are borne in large terminal clusters.
 
@@ -4838,17 +4836,17 @@ Catalpa speciosa Ward.
 
 (Western Catalpa).
 
-## This is a
+# This is a
 
 native of North America where it reaches a height of
 
-## 100 feet.
+100 feet.
 
 It has a broad pyramidal crown and the trunk
 
 is covered with a reddish-brown scaly bark.
 
-## The leaves
+# The leaves
 
 are up to 12 inches long and have heart-shaped pointed
 
@@ -4858,11 +4856,11 @@ The inner surface of the spreading white corolla
 
 is marked with yellow and purple.
 
-## The narrow brown
+# The narrow brown
 
 fruit reaches a length of 20 inches.
 
-## This species grows
+# This species grows
 
 quickly and is often planted in the United States for its
 
@@ -4872,13 +4870,13 @@ Catalpa bignonioides Walt.
 
 (Indian Bean Tree).
 
-## A native
+# A native
 
 of eastern North America this species is similar to C.
 
-### speciosa but is smaller in stature
+speciosa but is smaller in stature
 
-## the leaves are shorter
+the leaves are shorter
 
 but relatively broader and the flowers are slightly smaller.
 
@@ -4886,11 +4884,11 @@ It reaches a height of 50 feet and has a dense spreading
 
 crown.
 
-## The leaves
+# The leaves
 
-## which are often in threes
+which are often in threes
 
-## are about
+are about
 
 eight inches long and produce an unpleasant smell
 
@@ -4900,25 +4898,25 @@ The fruit is about 15 inches long, There
 
 are several cultivated varieties including v.
 
-## aurea with
+aurea with
 
 yellow leaves.
 
 Catalpa ovata Don, G.
 
-### This is a small tree about 30 feet
+# This is a small tree about 30 feet
 
 high which comes from China.
 
-## The leaves mostly have
+# The leaves mostly have
 
 three to five pointed lobes.
 
-## The small flowers are
+# The small flowers are
 
-## --- Page 123 ---
+--- Page 123 ---
 
-## Catalpa speciosa
+# Catalpa speciosa
 
 yellowish-white with orange and purple marking.
 
@@ -4932,27 +4930,27 @@ and broad leaves hairy on the under surface
 
 and C.
 
-## bungei with a pyramidal crown
+bungei with a pyramidal crown
 
-## smooth pointed leaves
+smooth pointed leaves
 
 and flat clusters of white flowers.
 
-## (Bignoniaceae)
+(Bignoniaceae)
 
-## DISTINGUISHING FEATURES
+# DISTINGUISHING FEATURES
 
-## Catalpa Paulownia
+# Catalpa Paulownia
 
 Leaves often in threes Leaves always in opposite pairs
 
 Fruit a long pod-like capsule Fruit an ovoid capsule
 
-## --- Page 124 ---
+--- Page 124 ---
 
 ACER PSEUDOPLATANUS L.
 
-## (Sycamore)
+(Sycamore)
 
 The Sycamore is a native of central Europe and western
 
@@ -4960,11 +4958,11 @@ Asia but has been widely planted and has become natu-
 
 ralized throughout Britain.
 
-## It is a deciduous tree up to
+# It is a deciduous tree up to
 
-### 100 feet in height with a broad crown.
+100 feet in height with a broad crown.
 
-## The smooth bark
+# The smooth bark
 
 is greyish-brown and the large buds have green scales.
 
@@ -4982,7 +4980,7 @@ This tree can tolerate most soils and exposed conditions
 
 and is often planted as a wind break.
 
-## Abundant fruits
+# Abundant fruits
 
 are produced and the seedlings are often conspicuous
 
@@ -4992,31 +4990,31 @@ The white,
 
 fine-grained wood is used for broom-heads and toys.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 125 ---
+--- Page 125 ---
 
 ACER PLATANOIDES L.
 
-## (Norway Maple)
+(Norway Maple)
 
 The Norway Maple has a similar native range to that
 
 of the Sycamore.
 
-### It has been grown in Britain for many
+# It has been grown in Britain for many
 
 years but is not so widely naturalized as A.
 
-## pseudo-
+pseudo-
 
 platanus.
 
 It resembles the Sycamore but can easily be
 
-## distinguished by its bark
+distinguished by its bark
 
-## leaves
+leaves
 
 flowers and fruits.
 
@@ -5024,11 +5022,11 @@ bark is fissured and the margin of the leaf blade is
 
 rounded between both the lobes and coarse teeth.
 
-## When
+# When
 
 broken the leaf stalk exudes a whitish juice.
 
-## The yellow-
+# The yellow-
 
 ish flowers are borne in erect rounded groups and the
 
@@ -5038,7 +5036,7 @@ There are a number of attractive varieties in cultivation
 
 including the Eagle's Claw Maple, v.
 
-## laciniatum in which
+laciniatum in which
 
 the lobes of the leaf blade are bent downwards
 
@@ -5048,19 +5046,19 @@ reitenbachii in which the leaves are red when young and
 
 turn dark red in the autumn.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 126 ---
+--- Page 126 ---
 
-## corky stem
+corky stem
 
 ACER CAMPESTRE L.
 
-## (Common Maple)
+(Common Maple)
 
-### This species is widespread in Europe
+# This species is widespread in Europe
 
-## western Asia and
+western Asia and
 
 Asia Minor.
 
@@ -5068,13 +5066,13 @@ It is a native in England being commonest
 
 in the south and east.
 
-## It is a small deciduous tree
+# It is a small deciduous tree
 
 which can attain 60 feet but it is frequently coppiced or
 
 used for hedges.
 
-### The pale grey bark has shallow fissures
+# The pale grey bark has shallow fissures
 
 and the brown twigs frequently develop corky wings.
 
@@ -5092,27 +5090,27 @@ spread out horizontally.
 
 There are several cultivated varieties with yellow
 
-## purple
+purple
 
 or variegated leaves.
 
-### The wood is used in cabinet-making
+# The wood is used in cabinet-making
 
 and turnery.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 127 ---
+--- Page 127 ---
 
 ACER MONSPESSULANUM L.
 
-## (Montpelier Maple)
+(Montpelier Maple)
 
 This Maple is a native of central Europe and the Medi-
 
 terranean region.
 
-### It is a small deciduous tree 30 to 40
+# It is a small deciduous tree 30 to 40
 
 feet high with a furrowed bark and hairless twigs.
 
@@ -5128,7 +5126,7 @@ The yellowish-green flowers are borne in small
 
 pendulous clusters.
 
-### The wings of the fruit are parallel
+# The wings of the fruit are parallel
 
 and project forwards and their inner edges may actually
 
@@ -5138,15 +5136,15 @@ The Montpelier Maple is an attractive tree which is
 
 often planted in parks and gardens in Britain.
 
-## The hard
+# The hard
 
 wood is used in furniture-making.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 128 ---
+--- Page 128 ---
 
-## NORTH AMERICAN MAPLES
+# NORTH AMERICAN MAPLES
 
 A number of North American species of Acer have been
 
@@ -5158,13 +5156,13 @@ Acer rubrum L.
 
 (Red Maple).
 
-## This is a deciduous tree
+# This is a deciduous tree
 
 reaching 100 feet in height with a smooth whitish bark.
 
-## The opposite leaves
+# The opposite leaves
 
-## which are pale underneath
+which are pale underneath
 
 similar to those of the Sycamore but the lobes are more
 
@@ -5172,7 +5170,7 @@ pointed.
 
 They turn bright red in the autumn.
 
-## The flowers
+# The flowers
 
 are also red and the wings of the small fruit lie at an
 
@@ -5180,11 +5178,11 @@ acute angle.
 
 Acer saccharum Marshall (Sugar Maple).
 
-## This is abundant
+# This is abundant
 
 in eastern North America where it attains a height of
 
-## 100 feet.
+100 feet.
 
 The grey bark is rough and the opposite leaves
 
@@ -5192,17 +5190,17 @@ are similar to those of the Norway Maple but the stalk
 
 has a watery juice.
 
-### The flowers are yellowish-green and
+# The flowers are yellowish-green and
 
 the wings of the fruit are divergent.
 
-## In spite of the exten-
+# In spite of the exten-
 
 sive cultivation of sugar-cane and sugar-beet the ex-
 
 traction of sap by tapping the trunk of A.
 
-## saccharum
+saccharum
 
 each spring is still widely practised.
 
@@ -5210,21 +5208,21 @@ Acer saccharinum L.
 
 (Silver Maple).
 
-## This beautiful tree
+# This beautiful tree
 
 comes from eastern North America.
 
-## It is up to 120 feet
+# It is up to 120 feet
 
 high and has a smooth grey bark.
 
-## The blades of the long-
+# The blades of the long-
 
 stalked opposite leaves have five narrow acute sharply
 
 toothed lobes and are silvery-white below.
 
-## The flowers
+# The flowers
 
 are green and the wings of the fruit are sickle-shaped.
 
@@ -5232,7 +5230,7 @@ Acer nigrum Michx.
 
 (Black Maple).
 
-## This is a deciduous
+# This is a deciduous
 
 tree up to 100 feet high with a dark deeply fissured bark.
 
@@ -5246,37 +5244,37 @@ saccharum the BlackMaple has a Sugary Sap which is sometimes extracted
 
 commercially: (Aceraceae)
 
-## --- Page 129 ---
+--- Page 129 ---
 
-## --- Page 130 ---
+--- Page 130 ---
 
 ACER OPALUS Mill.
 
-## (Italian Maple)
+(Italian Maple)
 
 This is a hill tree with a range extending as far north as
 
 the Jura mountains.
 
-### It is a small deciduous tree up to 30
+# It is a small deciduous tree up to 30
 
 feet high with a smooth bark.
 
-## The opposite stalked
+# The opposite stalked
 
 leaves are about four inches long.
 
-## The leaf blades are
+# The leaf blades are
 
-## very variable in shape
+very variable in shape
 
-### somewhat similar to those of the
+somewhat similar to those of the
 
-## Sycamore but with shorter
+# Sycamore but with shorter
 
 more obtuse lobes.
 
-## The yellow
+# The yellow
 
 flowers are in loose clusters and appear before the
 
@@ -5294,29 +5292,29 @@ ornamental and frequently seen in parks and gardens.
 
 The commonest of these is the Japanese Maple
 
-## palmatum
+palmatum
 
-## and its purple-leaved variety
+and its purple-leaved variety
 
 atropurpureum.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 131 ---
+--- Page 131 ---
 
 CLADRASTIS TINCTORIA Raf.
 
-## (Yellow Wood)
+(Yellow Wood)
 
 The Yellow Wood is a deciduous tree which is a native
 
 of eastern United States.
 
-### It reaches a height of 40 feet
+# It reaches a height of 40 feet
 
 and has a dense crown of bent branches.
 
-## The large alter-
+# The large alter-
 
 nate bright green leaves are pinnately compound with
 
@@ -5334,7 +5332,7 @@ The fragrant white flowers are about an inch long and
 
 are borne in pendulous groups.
 
-## The flattened brown pod
+# The flattened brown pod
 
 is up to four inches long.
 
@@ -5342,27 +5340,27 @@ This species is hardy in Britain and is occasionally
 
 planted in gardens.
 
-### A yellow dye is extracted from the
+# A yellow dye is extracted from the
 
 wood.
 
-## (Caesalpiniaceae)
+(Caesalpiniaceae)
 
-## --- Page 132 ---
+--- Page 132 ---
 
 GYMNOCLADUS CANADENSIS Lam.
 
-## (Kentucky Coffee Tree)
+(Kentucky Coffee Tree)
 
 This native of North America is a large deciduous tree
 
 reaching 100 feet in height.
 
-## It has a rough bark and
+# It has a rough bark and
 
 long bare branches.
 
-### The alternate bipinnate leaves are
+# The alternate bipinnate leaves are
 
 very large and have many ovate leaflets each about three
 
@@ -5396,35 +5394,35 @@ and it is believed that early settlers used the seeds for
 
 making a kind of coffee.
 
-## (Caesalpiniaceae)
+(Caesalpiniaceae)
 
-## --- Page 133 ---
+--- Page 133 ---
 
 SOPHORA JAPONICA L.
 
-## (Pagoda Tree)
+(Pagoda Tree)
 
 This species is a native of China although it is commonly
 
 planted in Japan.
 
-### It is a deciduous tree up to 80 feet
+# It is a deciduous tree up to 80 feet
 
 high with a rough bark and green twigs.
 
-## The alternate
+# The alternate
 
 pinnate leaves have 11 to 15 ovate leaflets which are
 
 grey underneath.
 
-### The greenish-white flowers are about
+# The greenish-white flowers are about
 
 1/2 inch across and are borne in erect terminal groups
 
 in early September.
 
-### The fruit is a flattened constricted
+# The fruit is a flattened constricted
 
 pod about three inches long.
 
@@ -5434,25 +5432,25 @@ grows well here and can tolerate the polluted atmosphere
 
 of industrial towns.
 
-### Two other species are sometimes
+# Two other species are sometimes
 
 cultivated, S.
 
-## tetraptera
+tetraptera
 
-### a smaller tree with yellow flowers
+a smaller tree with yellow flowers
 
 from New Zealand, and S.
 
 viciifolia, a shrub from China.
 
-## (Leguminosae)
+(Leguminosae)
 
-## --- Page 134 ---
+--- Page 134 ---
 
 ROBINIA PSEUDOACACIA L.
 
-## (False Acacia)
+(False Acacia)
 
 The False Acacia is a native of eastern North America
 
@@ -5460,13 +5458,13 @@ but it has been widely planted and is now more or less
 
 naturalized in most North Temperate regions.
 
-## It is a
+# It is a
 
 deciduous tree up to 80 feet high with twisted branches
 
 and a dark grey, deeply grooved bark.
 
-## Suckers are often
+# Suckers are often
 
 produced and when abundant form dense thickets.
 
@@ -5474,7 +5472,7 @@ alternate pinnate leaves have elliptical leaflets about
 
 two inches long.
 
-### The swollen base of the leaf hides the
+# The swollen base of the leaf hides the
 
 small axillary bud and on each side is a sharp stipular
 
@@ -5484,7 +5482,7 @@ The fragrant white flowers appear in pendulous
 
 clusters during June.
 
-## The dark brown pods are up to
+# The dark brown pods are up to
 
 three inches long.
 
@@ -5496,17 +5494,17 @@ is planted on railway embankments and roadsides to
 
 consolidate the soil.
 
-### There are several cultivated vari-
+# There are several cultivated vari-
 
 eties including v.
 
 aurea with yellow leaves and v.
 
-## decais-
+decais-
 
 neana which has pink flowers.
 
-## The wood is very durable
+# The wood is very durable
 
 when in contact with soil and is used for making gate
 
@@ -5524,7 +5522,7 @@ is a small tree up to 12 feet high with hairy young bran-
 
 ches and no spines.
 
-### The deep pink flowers are about an
+# The deep pink flowers are about an
 
 inch across.
 
@@ -5534,7 +5532,7 @@ to a stock of R.
 
 pseudoacacia.
 
-## kelseyi is a similar
+kelseyi is a similar
 
 species but the twigs are without hairs and bear thin
 
@@ -5546,19 +5544,19 @@ long, the flowers are bright pink and the reddish pods
 
 are covered with stiff hairs.
 
-## (Papilionaceae)
+(Papilionaceae)
 
-## --- Page 135 ---
+--- Page 135 ---
 
-## Robinia pseudoacacia
+# Robinia pseudoacacia
 
-## Robinia hispida
+# Robinia hispida
 
-## --- Page 136 ---
+--- Page 136 ---
 
-## fruits
+fruits
 
-## LABURNUM ANAGYROIDES Medicus
+# LABURNUM ANAGYROIDES Medicus
 
 (Laburnum, Golden Rain)
 
@@ -5568,7 +5566,7 @@ is very commonly grown in gardens in Britain and has
 
 become more or less naturalized.
 
-## It is a small tree up
+# It is a small tree up
 
 to 25 feet high with a smooth greenish-brown bark.
 
@@ -5576,11 +5574,11 @@ alternate leaves have long stalks and slightly hairy tri-
 
 foliate blades.
 
-### The long pendulous racemes of golden
+# The long pendulous racemes of golden
 
 yellow flowers appear in May.
 
-## The flattened pods are
+# The flattened pods are
 
 about three inches long and persist on the tree during
 
@@ -5596,9 +5594,9 @@ adami, is a graft hybrid
 
 with a core of L.
 
-### anagyroides covered by a thin layer of
+anagyroides covered by a thin layer of
 
-### the tissues of the Purple Broom
+the tissues of the Purple Broom
 
 Cytisus purpureus.
 
@@ -5608,13 +5606,13 @@ alpinum, is a native of central
 
 Europe.
 
-## (Leguminosae)
+(Leguminosae)
 
-## --- Page 137 ---
+--- Page 137 ---
 
 CEDRELA SINENSIS Juss.
 
-### leaf scar with five vein endings
+leaf scar with five vein endings
 
 A native of China this is a deciduous tree 50 to 70 feet
 
@@ -5626,7 +5624,7 @@ pinnate leaves have lanceolate leaflets up to five inches
 
 long with entire margins.
 
-## The small white scented
+# The small white scented
 
 flowers are borne in terminal pendulous inflorescences.
 
@@ -5634,39 +5632,39 @@ The fruit is a small capsule containing winged seeds.
 
 It is sometimes planted as an ornamental tree and can
 
-### be confused with the Tree of Heaven
+be confused with the Tree of Heaven
 
-## Ailanthus altissima
+# Ailanthus altissima
 
 136).
 
-## (Meliaceae)
+(Meliaceae)
 
-## DISTINGUISHING FEATURES
+# DISTINGUISHING FEATURES
 
-## Cedrela
+# Cedrela
 
-## Bark rough
+# Bark rough
 
-### Leaf scar with five vein endings
+# Leaf scar with five vein endings
 
-## Leaflet margin entire
+# Leaflet margin entire
 
 Fruit a capsule, seeds winged
 
-## Ailanthus
+# Ailanthus
 
-## Bark smooth
+# Bark smooth
 
-### Leaf scar with seven vein endings
+# Leaf scar with seven vein endings
 
-## Leaflet margin toothed
+# Leaflet margin toothed
 
 Fruit one-seeded, winged
 
-## --- Page 138 ---
+--- Page 138 ---
 
-## leaf scar with seven endings
+leaf scar with seven endings
 
 AILANTHUS ALTISSIMA Swingle (Tree of Heaven)
 
@@ -5680,19 +5678,19 @@ It is a quick-growing species with a smooth
 
 bark and is 50 to 70 feet in height.
 
-## The large alternate
+# The large alternate
 
 leaves have broadly lanceolate leaflets which are coarsely
 
 toothed at the base.
 
-### The small greenish flowers which
+# The small greenish flowers which
 
 are borne in loose pendulous groups are often uni-
 
 sexual with the sexes on different trees.
 
-## The flattened
+# The flattened
 
 fruit is about one and a half inches long and contains
 
@@ -5710,15 +5708,15 @@ from the parent tree and can be a nuisance by invading
 
 adjacent ground.
 
-## (Simarubaceae)
+(Simarubaceae)
 
-## --- Page 139 ---
+--- Page 139 ---
 
-## shell and seed male catkin
+shell and seed male catkin
 
 JUGLANS REGIA L.
 
-## (Common Walnut)
+(Common Walnut)
 
 The Walnut occurs naturally from south-east Europe
 
@@ -5728,7 +5726,7 @@ for its fruit and has become more or less naturalized in
 
 the south of England.
 
-### It is a deciduous tree up to 100
+# It is a deciduous tree up to 100
 
 feet high with a spreading crown and a whitish smoothbark.
 
@@ -5736,7 +5734,7 @@ The large ultimate leaves have three to seven ovate entire leaflets.
 
 The small green male flowers are borne in dense pendulous catkins and the female flowers
 
-## which occur on the same tree
+which occur on the same tree
 
 are in small groups on the twigs.
 
@@ -5746,13 +5744,13 @@ The latter has a brown woody shell and contains a single seed.
 
 Apart from the fruits this tree is grown for its hard beautifully figured wood which is used in cabinetmaking.
 
-## (Juglandaceae)
+(Juglandaceae)
 
-## --- Page 140 ---
+--- Page 140 ---
 
 JUGLANS NIGRA L.
 
-## (Black Walnut)
+(Black Walnut)
 
 This large deciduous tree is a native of North America where it reaches a height of 100 feet.
 
@@ -5768,19 +5766,19 @@ The Black Walnut is occasionally planted in parks and gardens in Britain.
 
 The fruits are of no value for eating but the hard durable wood is put to many uses.
 
-## (Juglandaceae)
+(Juglandaceae)
 
-## --- Page 141 ---
+--- Page 141 ---
 
 JUGLANS CINEREA L.
 
-## (Butternut)
+(Butternut)
 
 The Butternut is also a North American tree.
 
-## It is deciduous
+# It is deciduous
 
-## 60 to 80 feet high
+60 to 80 feet high
 
 and has a grey deeply fissured bark.
 
@@ -5792,25 +5790,25 @@ glandular outer layer.
 
 The 'nut' is edible but difficult to extract and the wood is not of the same quality as that of the previous two species.
 
-## (Juglandaceae)
+(Juglandaceae)
 
-## DISTINGUISHING FEATURES
+# DISTINGUISHING FEATURES
 
-## Juglans Carya
+# Juglans Carya
 
-### Pith of the stem divided by septa
+# Pith of the stem divided by septa
 
-### Pith of the stem not divided by septa
+# Pith of the stem not divided by septa
 
 Outer layer of fruit does not split into four valves
 
 Outer layer of fruit splits into four valves
 
-## --- Page 142 ---
+--- Page 142 ---
 
-### CARYA OVATA Koch (Shellbark Hickory)
+CARYA OVATA Koch (Shellbark Hickory)
 
-## This deciduous tree
+# This deciduous tree
 
 like several other species belonging to the same genus
 
@@ -5828,15 +5826,15 @@ The Shellbark Hickory is of value in America both for its edible fruit and durab
 
 It is occasionally grown in Britain but the species which tolerates our climate best is the Bitter Nut
 
-## cordiformis
+cordiformis
 
 which is a tall tree with bright yellow buds and inedible fruits.
 
-## (Juglandaceae)
+(Juglandaceae)
 
-## --- Page 143 ---
+--- Page 143 ---
 
-## axillary bud
+axillary bud
 
 PTEROCARYA FRAXINIFOLIA Koch (Caucasian Wing Nut)
 
@@ -5856,23 +5854,23 @@ This tree grows rapidly and is sometimes seen in gardens.
 
 The few other species of Pterocarya are natives of China.
 
-## stenoptera
+stenoptera
 
-## which is occasionally planted
+which is occasionally planted
 
 reaches a height of 60 feet and has a winged leaf stalk.
 
 The elongated wings of the fruit are at an acute angle.
 
-## (Juglandaceae)
+(Juglandaceae)
 
-## --- Page 144 ---
+--- Page 144 ---
 
-## stem spine
+stem spine
 
 GLEDITSCHIA TRIACANTHOS L.
 
-## (Honey Locust)
+(Honey Locust)
 
 This large deciduous tree which can reach a height of 140 feet is a native of eastern United States.
 
@@ -5888,25 +5886,25 @@ The Honey Locust grows quickly but is not often planted in Britain although on t
 
 Other species which are occasionally cultivated are the Water Locust
 
-## aquatica
+aquatica
 
 from southern United States and the Japanese Locust
 
 japonica.
 
-## The true Locust
+# The true Locust
 
-## a native of Arabia
+a native of Arabia
 
 is Ceratonia siliqua.
 
-## (Caesalpiniaceae)
+(Caesalpiniaceae)
 
-## --- Page 145 ---
+--- Page 145 ---
 
 SORBUS DOMESTICA L.
 
-## (Service Tree)
+(Service Tree)
 
 The Service Tree is a native of southern Europe
 
@@ -5920,7 +5918,7 @@ The whitish flowers are small and borne in dense compound clusters.
 
 The brownish pear-shaped fruits are about an inch long and have a hard bitter flesh which
 
-## like that of the Medlar
+like that of the Medlar
 
 only becomes edible after being softened by frost.
 
@@ -5928,15 +5926,15 @@ The Service Tree has been cultivated for many years throughout Europe and is som
 
 Although not a native in this country a single tree once existed in the Wyre Forest
 
-## Worcestershire
+# Worcestershire
 
 but this has now been destroyed.
 
-## (Rosaceae)
+(Rosaceae)
 
-## --- Page 146 ---
+--- Page 146 ---
 
-## fruits
+fruits
 
 SORBUS AUCUPARIA L.
 
@@ -5964,13 +5962,13 @@ aria (p.
 
 96), are occasionally found.
 
-## (Rosaceae)
+(Rosaceae)
 
-## --- Page 147 ---
+--- Page 147 ---
 
 KOELREUTERIA PANICULATA Laxm.
 
-## (Pride of India)
+(Pride of India)
 
 In spite of its common name this handsome deciduous tree is a native of China.
 
@@ -5978,7 +5976,7 @@ It reaches a height of 50 feet and has a somewhat tortuous trunk and branches.
 
 Most of the large alternate leaves are pinnate or occasionally bipinnate and the ovate coarsely toothed leaflets
 
-## about three inches long
+about three inches long
 
 are lobed at the base.
 
@@ -5990,15 +5988,15 @@ This tree was introduced into Britain about 200 years ago.
 
 It is sometimes planted in gardens for its attractive foliage and it also fruits well here.
 
-## (Sapindaceae)
+(Sapindaceae)
 
-## --- Page 148 ---
+--- Page 148 ---
 
-## fruiting head
+fruiting head
 
 RHUS TYPHINA L.
 
-## (Staghorn Sumach)
+(Staghorn Sumach)
 
 This species is a native of eastern United States.
 
@@ -6016,23 +6014,23 @@ The foliage is particularly attractive in the autumn when it turns red.
 
 The female trees are most usually planted for their crimson fruiting heads.
 
-## However
+# However
 
 it can be a nuisance to gardeners because of the long suckers it produces so freely.
 
-## (Anacardiaceae)
+(Anacardiaceae)
 
-## --- Page 149 ---
+--- Page 149 ---
 
-## fruits
+fruits
 
 ACER NEGUNDO L.
 
-## (Box Elder)
+(Box Elder)
 
-## This tree
+# This tree
 
-## which is really a Maple
+which is really a Maple
 
 is widespread in North America where it reaches a height of 70 feet.
 
@@ -6040,7 +6038,7 @@ In Britainit is frequently planted as an ornamental tree and is
 
 usually much shorter.
 
-### It has a broad crown and fissured
+# It has a broad crown and fissured
 
 bark.
 
@@ -6050,7 +6048,7 @@ leaflet and one or more pairs of lateral leaflets which
 
 are coarsely toothed.
 
-### The yellowish-green flowers are
+# The yellowish-green flowers are
 
 unisexual and are borne in pendulous groups on sepa-
 
@@ -6058,29 +6056,29 @@ rate trees.
 
 The wings of the fruit are at an acute angle
 
-## and sickle-shaped
+and sickle-shaped
 
 they curve towards each other.
 
 The variegated form which is sometimes planted
 
-## variegatum
+variegatum
 
 has white edges to the leaflets and is always
 
 female.
 
-## (Aceraceae)
+(Aceraceae)
 
-## --- Page 150 ---
+--- Page 150 ---
 
 FRAXINUS EXCELSIOR L.
 
-## (Common Ash)
+(Common Ash)
 
-## The Ash occurs in Europe
+# The Ash occurs in Europe
 
-## western Asia and North
+western Asia and North
 
 Africa.
 
@@ -6094,7 +6092,7 @@ The rough bark is pale grey and the buds are covered
 
 by black scales.
 
-### The opposite leaves are up to a foot
+# The opposite leaves are up to a foot
 
 long with seven to 13 lanceolate toothed leaflets.
 
@@ -6110,33 +6108,33 @@ Although not a particularly attractive tree a number of
 
 cultivated varieties are planted in gardens.
 
-## It is also
+# It is also
 
 grown for its timber which is tough and durable.
 
-## (Oleaceae)
+(Oleaceae)
 
-## --- Page 151 ---
+--- Page 151 ---
 
-## cluster of flowers
+cluster of flowers
 
-## fruits
+fruits
 
 FRAXINUS ORNUS L.
 
-## (Manna Ash)
+(Manna Ash)
 
 This is a native of the Mediterranean region and Asia
 
 Minor where it grows mainly on limestone hills.
 
-## It is a
+# It is a
 
 deciduous tree 50 to 60 feet high with a smooth bark
 
 and greyish-brown buds.
 
-## The pairs of opposite leaves
+# The pairs of opposite leaves
 
 have seven to nine stalked ovate pointed leaflets up to
 
@@ -6150,7 +6148,7 @@ petals and are borne in dense clusters which appear at
 
 the same time as the leaves unfold.
 
-## The flattened fruits
+# The flattened fruits
 
 are about an inch long.
 
@@ -6158,29 +6156,29 @@ The Manna Ash is frequently planted as an ornamental
 
 tree in Britain.
 
-### The dried sugary sap extracted from the
+# The dried sugary sap extracted from the
 
 stem was formerly used medicinally.
 
-## This is not the
+# This is not the
 
 ‘manna’ referred to in the Bible.
 
-## (Oleaceae)
+(Oleaceae)
 
-## --- Page 152 ---
+--- Page 152 ---
 
 FRAXINUS AMERICANUS L.
 
-## (White Ash)
+(White Ash)
 
-## The White Ash
+# The White Ash
 
-### which is similar to our native species
+which is similar to our native species
 
 comes from North America.
 
-## It is a tall deciduous tree
+# It is a tall deciduous tree
 
 up to 120 feet high with strong dark green or reddish-
 
@@ -6198,7 +6196,7 @@ The very small white flowers have no petals and
 
 appear in clusters before the leaves.
 
-## The winged fruit
+# The winged fruit
 
 is about two inches long and has the persistent calyx
 
@@ -6218,23 +6216,23 @@ Pumpkin Ash, F.
 
 profunda.
 
-## (Oleaceae)
+(Oleaceae)
 
-## --- Page 153 ---
+--- Page 153 ---
 
 AESCULUS HIPPOCASTANUM L.
 
-## (Horse Chestnut)
+(Horse Chestnut)
 
-### This is a native of south-east Europe
+# This is a native of south-east Europe
 
-## Persia and the
+# Persia and the
 
 Himalayas but has been widely planted in Europe and
 
 Britain and is often found semi-wild.
 
-## It is a large decid-
+# It is a large decid-
 
 uous tree up to 100 feet in height with arching branches
 
@@ -6260,23 +6258,23 @@ wall covered with thick spines and contains one or
 
 occasionally two brown seeds.
 
-## (Hippocastanaceae)
+(Hippocastanaceae)
 
-## --- Page 154 ---
+--- Page 154 ---
 
-## AESCULUS PAVIA (Red Buckeye)
+AESCULUS PAVIA (Red Buckeye)
 
-## This small tree
+# This small tree
 
-### which rarely exceeds 15 feet in height
+which rarely exceeds 15 feet in height
 
 is a native of eastern United States.
 
-## It has a smooth
+# It has a smooth
 
 bark and long-stalked opposite leaves.
 
-## The compound
+# The compound
 
 palmate blade usually has five lanceolate leaflets about
 
@@ -6288,7 +6286,7 @@ ical brown fruits are smooth.
 
 carnea is a fertile hybrid between A.
 
-## hippocastanum
+hippocastanum
 
 and A.
 
@@ -6298,7 +6296,7 @@ Generally it is a smaller tree than the Horse
 
 Chestnut and has red or pink flowers.
 
-## Another species
+# Another species
 
 which is occasionally planted is the Sweet Buckeye
 
@@ -6308,31 +6306,31 @@ This has yellow flowers but cultivated varieties
 
 with pink or red flowers occur.
 
-## (Hippocastanaceae)
+(Hippocastanaceae)
 
-## --- Page 155 ---
+--- Page 155 ---
 
-## NAMES AND ABBREVIATIONS
+# NAMES AND ABBREVIATIONS
 
-## OF BOTANICAL AUTHORS
+# OF BOTANICAL AUTHORS
 
-## Aiton
+# Aiton
 
-## Arnold
+# Arnold
 
 Boiss.
 
 Bong.
 
-## Britton
+# Britton
 
 Brot.
 
-## Buchholz
+# Buchholz
 
-## Carriére
+Carriére
 
-## Crantz
+# Crantz
 
 Desf.
 
@@ -6340,7 +6338,7 @@ Don, D.
 
 Don, G.
 
-## Douglas
+# Douglas
 
 Ehrh.
 
@@ -6348,23 +6346,23 @@ Endl.
 
 Franch.
 
-## Franco
+# Franco
 
 Gaertn.
 
 Gled.
 
-## Gordon
+# Gordon
 
-## Greene
+# Greene
 
 Jacq.
 
 Juss.
 
-## Karsten
+# Karsten
 
-## Koch
+# Koch
 
 Koch, C.
 
@@ -6374,35 +6372,35 @@ Laxm.
 
 ; W.
 
-## Aiton
+# Aiton
 
 ;a pseudonym?
 
 ; P.
 
-## Boissier
+# Boissier
 
 : H.
 
-## von Bongard
+von Bongard
 
 ; N.
 
-## Britton
+# Britton
 
-## de Avelar Bro-
+de Avelar Bro-
 
-## tero
+tero
 
-## Buchholz
+# Buchholz
 
-## Carriére
+Carriére
 
-## von Crantz
+von Crantz
 
 : R.
 
-## Desfontaines
+# Desfontaines
 
 : D.
 
@@ -6410,75 +6408,75 @@ Laxm.
 
 ; D.
 
-## Douglas
+# Douglas
 
 : F.
 
-## Ehrhart
+# Ehrhart
 
 : Endlicher
 
 : A.
 
-## Franchet
+# Franchet
 
-## do Amarel
+do Amarel
 
-## Franco
+# Franco
 
 t J.
 
-## Gaertner
+# Gaertner
 
 ; * G.
 
-## Gleditsch
+# Gleditsch
 
-## Gordon
+# Gordon
 
-## Greene
+# Greene
 
 : N.
 
-## J von Jacquin
+# J von Jacquin
 
-## de Jussieu
+de Jussieu
 
 : K.
 
-## Karsten
+# Karsten
 
 fie J.
 
-## Koch
+# Koch
 
-## ot Linné
+ot Linné
 
-## Monnet
+# Monnet
 
-## anne
+anne
 
 Lieb.
 
-## Lindley
+# Lindley
 
-## Manetti
+# Manetti
 
-## Marshall
+# Marshall
 
-## Mattuschka
+# Mattuschka
 
-## Medicus
+# Medicus
 
 Michx.
 
 Mill.
 
-## Mirbel
+# Mirbel
 
-## Moench
+# Moench
 
-## Molina
+# Molina
 
 Muenchh.
 
@@ -6490,7 +6488,7 @@ Rafin.
 
 Richard,
 
-## Roth
+# Roth
 
 Schneid.
 
@@ -6498,13 +6496,13 @@ Soul.
 
 Stearns, E.
 
-## Swingle
+# Swingle
 
-## Thuill
+# Thuill
 
-## Torrey
+# Torrey
 
-## Turra
+# Turra
 
 Vent.
 
@@ -6516,95 +6514,95 @@ Ward.
 
 Willd.
 
-## Lieblein
+# Lieblein
 
 i J.
 
-## Lindley
+# Lindley
 
-## Manetti
+# Manetti
 
-## Marshall
+# Marshall
 
-## von Mattu-
+von Mattu-
 
-## schka
+schka
 
 : F.
 
-## Medicus
+# Medicus
 
 : A.
 
-## Michaux
+# Michaux
 
-## Miller
+# Miller
 
-## Mirbel
+# Mirbel
 
-## Moench
+# Moench
 
 ; * Molina
 
 : O.
 
-## Muenchhausen
+# Muenchhausen
 
-## Parlatore
+# Parlatore
 
 小 F.
 
-## Poggenburg
+# Poggenburg
 
 : C.
 
-## Rafinesque-
+# Rafinesque-
 
-## Schmaltz
+# Schmaltz
 
-## Richard
+# Richard
 
 : A.
 
-## Roth
+# Roth
 
 : C.
 
-## Schneider
+# Schneider
 
-## Scopoli
+# Scopoli
 
 : Soulange
 
 ; EE.
 
-## Stearns
+# Stearns
 
-## Swingle
+# Swingle
 
-## Thuillier
+# Thuillier
 
-## Torrey
+# Torrey
 
-## Turra
+# Turra
 
 : E.
 
-## Ventenat
+# Ventenat
 
 i N.
 
-## Wallich
+# Wallich
 
-## Walter
+# Walter
 
 : Warder
 
-## Willdenow
+# Willdenow
 
-## --- Page 156 ---
+--- Page 156 ---
 
-## BIBLIOGRAPHY
+# BIBLIOGRAPHY
 
 BEAN, W.
 
@@ -6620,7 +6618,7 @@ CLAPHAM, A.
 
 & WARBURG, E.
 
-## Flora of
+# Flora of
 
 the British Isles.
 
@@ -6652,7 +6650,7 @@ GILBERT-CARTER, H.
 
 British trees and shrubs.
 
-## Oxford Uni-
+# Oxford Uni-
 
 versity Press, 1936.
 
@@ -6672,131 +6670,129 @@ The Kew Series, Eyre
 
 & Spottiswoode, London, 1958.
 
-## INDEX
+# INDEX
 
-## BOTANICAL NAMES
+# BOTANICAL NAMES
 
-## OF CONIFERS
+# OF CONIFERS
 
 Abies alba .
 
-## 36 一 nootkatensis 30
+36 一 nootkatensis 30
 
 — cephalonica .
 
-## 37 一 pisifera .
+37 一 pisifera .
 
 — concolor .
 
-## 38 Cryptomeria japonica .
+38 Cryptomeria japonica .
 
 — grandis .
 
-## 38 Cupressus arizonica .
+38 Cupressus arizonica .
 
 — lowiana .
 
-## 38 - cashmeriana , 31
+38 - cashmeriana , 31
 
 — nordmannia .
 
-## 88 一 macrocarpa , 31
+88 一 macrocarpa , 31
 
 — numidica , 38 = sempervirens.
 
 — pinsapo .
 
-## 87 Ginkgo biloba .
+87 Ginkgo biloba .
 
 Araucaria araucana .
 
-, , 24 Juniperus communis , 。
+, , 24 Juniperus communis ,。Cedrus atlantica .
 
-Cedrus atlantica .
+53 一 echiniformis .
 
-## 53 一 echiniformis .
-
-### 一 deodara ..... 53 一 hibernica .. 32
+一 deodara ..... 53 一 hibernica .. 32
 
 — lebani.
 
-## 53 一 S808 , 27
+53 一 S808 , 27
 
 Chamaecyparis lawsoniana 30 Larix decidua .
 
-## --- Page 157 ---
+--- Page 157 ---
 
-## Libocedrus decurrens
+# Libocedrus decurrens
 
 Picea abies , ,
 
-## 一 mariana
+一 mariana
 
-## — sitchensis
+— sitchensis
 
-## — smithiana
+— smithiana
 
-## Pinus armandi
+# Pinus armandi
 
-## 一 austriaca
+一 austriaca
 
-## 一 “Calabrjca
+一 “Calabrjca
 
-## 一 cembra
+一 cembra
 
-## contorta
+contorta
 
 Couterf eo.
 
-## 一 /ambertjana
+一 /ambertjana
 
-## 一 0g0 Vis! Bas
+一 0g0 Vis! Bas
 
 — nigra .
 
-## — palustris
+— palustris
 
-## 一 一 euce icdiais Ss Ke
+一一 euce icdiais Ss Ke
 
 — pinaster .
 
-## 一 pinea
+一 pinea
 
-## COMMON NAMES
+# COMMON NAMES
 
-## OF CONIFERS
+# OF CONIFERS
 
-## Algerian Fir
+# Algerian Fir
 
-## American Arbor
+# American Arbor
 
-## Arizona Cypress
+# Arizona Cypress
 
-## Armand's Pine
+# Armand's Pine
 
 Arolla Pine .
 
-## Atlas Cedar
+# Atlas Cedar
 
-## Austrian Pine
+# Austrian Pine
 
-## Beach Pine
+# Beach Pine
 
-## Bhutan Pine
+# Bhutan Pine
 
-## Big-cone Pine
+# Big-cone Pine
 
-## Big Tree
+# Big Tree
 
 Black Spruce .
 
-## Caucasian Fir
+# Caucasian Fir
 
-## Chile Pine
+# Chile Pine
 
-## Chinese Arbor-vitae
+# Chinese Arbor-vitae
 
-## Cluster Pine
+# Cluster Pine
 
 Colorado White Fir.
 
@@ -6806,19 +6802,19 @@ Common Yew .
 
 — ponderosa .
 
-## 一 radiata vv iii. 8
+一 radiata vv iii. 8
 
 es HIGHS.
 
-## 1 47
+1 47
 
-## 一 sabiniana ..... 4
+一 sabiniana ..... 4
 
 — strobus .
 
-## 656 6 ee 51
+656 6 ee 51
 
-## 一 sylvestris. ... 4% 40
+一 sylvestris. ... 4% 40
 
 — virginiana .
 
@@ -6826,4 +6822,4 @@ es HIGHS.
 
 Pseudotsuga menziesii.
 
-## Sequoiadendron giganteum 25
+# Sequoiadendron giganteum 25

@@ -1,208 +1,208 @@
-## 101GREAT
+101GREAT
 
-## SCIENCE
+# SCIENCE
 
-## EXPERIMENTS
+# EXPERIMENTS
 
-## 101GREAT
+101GREAT
 
-## SCIENCE
+# SCIENCE
 
-## EXPERIMENTS
+# EXPERIMENTS
 
-## Neil Ardley
+# Neil Ardley
 
-## CONTENTS
+# CONTENTS
 
 LONDON, NEW YORK, Air and Gases
 
 MELBOURNE, MUNICH, AND DELHI
 
-## DK UK
+# DK UK
 
-## Experiment Page
+# Experiment Page
 
 Senior Editor: Carron Brown
 
-## Art Editor
+# Art Editor
 
-### Mary Sandberg 1 Crush with air 7
+# Mary Sandberg 1 Crush with air 7
 
-## Creative Retouching
+# Creative Retouching
 
-### Stefan Podhorodecki 2 Seal with air 7
+# Stefan Podhorodecki 2 Seal with air 7
 
 Managing Editor: Linda Esposito
 
-## 3 Weigh some air 8
+3 Weigh some air 8
 
 Managing Art Editor: Michael Duffy
 
-### 4 Discover the gases in the air 9
+4 Discover the gases in the air 9
 
 Category Publisher: Andrew Macintyre
 
-## Producer
+# Producer
 
-## Pre-production
+# Pre-production
 
-## Lucy Sims 5 Form a gas 10
+# Lucy Sims 5 Form a gas 10
 
-## Senior Producer
+# Senior Producer
 
-### Gemma Sharpe 6 Make a volcano erupt 11
+# Gemma Sharpe 6 Make a volcano erupt 11
 
 Jacket Editor: Maud Whatley
 
-## 7 Make a wing fly 12
+7 Make a wing fly 12
 
 Jacket Designer: Laura Brim
 
-### 8 Detect moisture in the air 13
+8 Detect moisture in the air 13
 
 Jacket Development Manager: Sophia MTT
 
-## Publishing Director
+# Publishing Director
 
-### Jonathan Metcalf 9 Measure the wind 14
+# Jonathan Metcalf 9 Measure the wind 14
 
-## Associate Publishing Director
+# Associate Publishing Director
 
-## Liz Wheeler
+# Liz Wheeler
 
-## Art Director
+# Art Director
 
-### Phil Ormerod Water and Liquids
+# Phil Ormerod Water and Liquids
 
-## DK INDIA
+# DK INDIA
 
-## Project Editor
+# Project Editor
 
-### Bharti Bedi 10 Measure the rain 17
+# Bharti Bedi 10 Measure the rain 17
 
-## Project Art Editor
+# Project Art Editor
 
 Deep Shikha Walia 11 Rain-test materials 18
 
-## Art Editors
+# Art Editors
 
-## Dhirendra Singh
+# Dhirendra Singh
 
-## Shipra Jain
+# Shipra Jain
 
-### 12 Have fun with water pressure 19
+12 Have fun with water pressure 19
 
 Senior DTP Designer: Harish Aggarwal
 
-### 13 Remove a lime’s life jacket 19
+13 Remove a lime’s life jacket 19
 
 DTP Designers: Pawan Kumar,
 
-## Rajesh Singh Adhikari
+# Rajesh Singh Adhikari
 
-### Syed Farhad 14 Make things sink
+# Syed Farhad 14 Make things sink
 
 then float!
 
-## Managing Editor
+# Managing Editor
 
 Alka Thakur Hazarika 15 Find out about floating 21
 
 Managing Art Editor: Romi Chakraborty
 
-### 16 Command a deep-sea diver 22
+16 Command a deep-sea diver 22
 
 CTS Manager: Balwant Singh
 
-### 17 Make an underwater volcano 23
+17 Make an underwater volcano 23
 
 Production Manager: Pankaj Sharma
 
-## Jacket Designer
+# Jacket Designer
 
 Suhita Dharamjit 18 See how liquids float and sink 24
 
-## Managing Jacket Editor
+# Managing Jacket Editor
 
 Saloni Singh 19 Find out if liquids mix 25
 
 Dorling Kindersley Limited, Inc.
 
-## 345 Hudson Street
+345 Hudson Street
 
-## New York
+# New York
 
 New York 10014 22 Is water hard?
 
-### A Penguin Random House Company
+# A Penguin Random House Company
 
-## 24 See plants drinking 29
+24 See plants drinking 29
 
-## 2 4 6 8 10 9 7 5 3 1
+2 4 6 8 10 9 7 5 3 1
 
-## KB500 — Dec 2014
+KB500 — Dec 2014
 
 No part of this publication may be reproduced
 
-## Hot and Cold
+# Hot and Cold
 
-## stored in a retrieval system
+stored in a retrieval system
 
-### or transmitted in any form or by any
+or transmitted in any form or by any
 
 means, electronic
 
-## mechanical
+mechanical
 
-## photocopying
+photocopying
 
-## recording or otherwise
+recording or otherwise
 
-### 25 Build a simple thermometer 31
+25 Build a simple thermometer 31
 
 A catalog record for this book is available from the Library of Congress.
 
-### Printed and bound in China by Hung Hing
+# Printed and bound in China by Hung Hing
 
-## 27 Circulate some heat 32
+27 Circulate some heat 32
 
-## 28 Keep a drink cool 33
+28 Keep a drink cool 33
 
-## BE A SAFE SCIENTIST
+# BE A SAFE SCIENTIST
 
-## 29 Store some heat 34
+29 Store some heat 34
 
 Always follow all the steps in each experiment carefully.
 
-## 30 Fight a fire 35
+30 Fight a fire 35
 
-## Take care
+# Take care
 
 especially when handling hot or heavy objects
 
-## 31 Slice some ice 36
+31 Slice some ice 36
 
 glass, scissors
 
-## knives
+knives
 
-## matches
+matches
 
-## candles
+candles
 
 and batteries.
 
-## Do not smell things
+# Do not smell things
 
-### put them in your ears or mouth
+put them in your ears or mouth
 
-## 32 Make your own ice cream 37
+32 Make your own ice cream 37
 
 or close to your eyes unless the book tells you to do so.
 
-## Light
+# Light
 
-### Do not play with electric switches
+# Do not play with electric switches
 
 plugs, outlets
 
@@ -210,195 +210,195 @@ electrical machines.
 
 Make sure you clean up after each experiment.
 
-## 33 Play with shadows 39
+33 Play with shadows 39
 
 This sign in a step means that extra care is needed.
 
-## 34 Look around corners 40
+34 Look around corners 40
 
 You must ask an adult to help you with it.
 
-## 35 Build a kaleidoscope 42
+35 Build a kaleidoscope 42
 
-## 36 See double 43 Magnets
+36 See double 43 Magnets
 
-### 37 Make your own flashlight 44
+37 Make your own flashlight 44
 
-## 38 Bend a beam of light 46
+38 Bend a beam of light 46
 
-### 74 Charm a snake, fly a kite 87
+74 Charm a snake, fly a kite 87
 
-## 39 Construct a camera 47
+39 Construct a camera 47
 
-### 75 Compare the strength of magnets 88
+75 Compare the strength of magnets 88
 
-## 76 Build a magnetic car 89
+76 Build a magnetic car 89
 
-## Color
+# Color
 
-## 77 Detect a magnet’s field 90
+77 Detect a magnet’s field 90
 
-## 78 Separate a mixture 91
+78 Separate a mixture 91
 
-## 40 Make a rainbow 49
+40 Make a rainbow 49
 
-## 79 Construct a compass 92
+79 Construct a compass 92
 
-## 41 See a sunset 50
+41 See a sunset 50
 
-## 80 Make an electromagnet 93
+80 Make an electromagnet 93
 
-## 42 Discover hidden colors 51
+42 Discover hidden colors 51
 
-## 81 Build a buzzer 94
+81 Build a buzzer 94
 
-## 43 Mix colors together 52
+43 Mix colors together 52
 
-### 44 Spin some colors 53 Electricity
+44 Spin some colors 53 Electricity
 
-## 45 Change color 53
+45 Change color 53
 
-## 46 Test with color 54
+46 Test with color 54
 
-## 82 Bend some water 97
+82 Bend some water 97
 
-## 47 See colors in bubbles 55
+47 See colors in bubbles 55
 
-## 83 Make a propeller 97
+83 Make a propeller 97
 
-## 48 Print pretty patterns 56
+48 Print pretty patterns 56
 
-## 84 Jump with electricity 98
+84 Jump with electricity 98
 
-## 85 Wave a magic wand 99
+85 Wave a magic wand 99
 
-## Growth
+# Growth
 
-### 86 Build a charge detector 100
+86 Build a charge detector 100
 
-## 87 Construct a circuit 102
+87 Construct a circuit 102
 
-### 49 Discover the needs of seeds 59
+49 Discover the needs of seeds 59
 
-## 88 Probe for electricity 104
+88 Probe for electricity 104
 
-## 50 See how a plant grows 60
+50 See how a plant grows 60
 
-## 89 Build a battery 105
+89 Build a battery 105
 
-## 51 Make a plant maze 61
+51 Make a plant maze 61
 
-## 90 Make a merry-go-round 106
+90 Make a merry-go-round 106
 
-## 52 Grow a piece of plant 62
+52 Grow a piece of plant 62
 
-### 53 See a plant bubble 62 Motion and Machines
+53 See a plant bubble 62 Motion and Machines
 
-## 54 Test a plant for food 63
+54 Test a plant for food 63
 
-## 55 Grow your own mold 64
+55 Grow your own mold 64
 
-## 91 Build a wheelbarrow 109
+91 Build a wheelbarrow 109
 
-## 92 Get a jet going 110
+92 Get a jet going 110
 
-## Senses
+# Senses
 
-## 93 Build a turbine 111
+93 Build a turbine 111
 
-## 94 Test for friction 111
+94 Test for friction 111
 
-## 56 See how your ears work 67
+56 See how your ears work 67
 
-## 95 Move in a circle 112
+95 Move in a circle 112
 
-### 57 Find out how your eyes work 68
+57 Find out how your eyes work 68
 
-## 96 Engage a gear 112
+96 Engage a gear 112
 
-## 58 See two pictures as one 69
+58 See two pictures as one 69
 
-### 97 Make an automatic machine 113
+97 Make an automatic machine 113
 
-## 59 Build a wobble detector 70
+59 Build a wobble detector 70
 
-## 98 Construct a fan 114
+98 Construct a fan 114
 
-## 60 Change your ears around 71
+60 Change your ears around 71
 
-## 99 Build a water wheel 116
+99 Build a water wheel 116
 
-## 61 Take a taste test 71
+61 Take a taste test 71
 
-### 100 Lift a load with water 118
+100 Lift a load with water 118
 
-### 62 Test your sense of touch 72
+62 Test your sense of touch 72
 
-## 101 Build a crane 119
+101 Build a crane 119
 
-### 63 Check your reaction time 73
+63 Check your reaction time 73
 
-## INDEX 120
+# INDEX 120
 
-## Sound and Music
+# Sound and Music
 
-## 64 See some sound 75
+64 See some sound 75
 
-## 65 Make a sound gun 76
+65 Make a sound gun 76
 
-### 66 Make a coat-hanger clanger 77
+66 Make a coat-hanger clanger 77
 
-## 67 Bounce a sound 78
+67 Bounce a sound 78
 
-## 68 Make a paper banger 79
+68 Make a paper banger 79
 
-## 69 Beat some drums 80
+69 Beat some drums 80
 
-## 70 Strike up a tune 82
+70 Strike up a tune 82
 
-## 71 Play a pipe 82
+71 Play a pipe 82
 
-## 72 Blow a horn 83
+72 Blow a horn 83
 
-## 73 Build a banjo 84
+73 Build a banjo 84
 
-## AIR AND GASES
+# AIR AND GASES
 
 Air is all around you—but you are hardly Air support
 
 ever aware of it.
 
-## You cannot see it
+# You cannot see it
 
-## and A bicycle pump forces
+and A bicycle pump forces
 
-## more and more air into the
+more and more air into the
 
 you only feel it in a strong wind.
 
-## But you
+# But you
 
 inner tube of a tire.
 
-## The air
+# The air
 
 breathe air all the time.
 
-## It keeps you
+# It keeps you
 
-## pushes out on the walls
+pushes out on the walls
 
 alive—and animals and plants, too.
 
-## Air is
+# Air is
 
 of the tube.
 
-## It pushes so
+# It pushes so
 
-### needed to burn fuel and to make many
+needed to burn fuel and to make many
 
-## hard that it can support
+hard that it can support
 
 machines work.
 
@@ -412,9 +412,9 @@ that can change shape and “expand,” or
 
 grow bigger to fill any shape or space.
 
-## Buoyant balloons
+# Buoyant balloons
 
-### These balloons contain a gas called
+# These balloons contain a gas called
 
 helium.
 
@@ -424,47 +424,47 @@ so it floats upward, carrying the
 
 balloons with it.
 
-## Nitrogen
+# Nitrogen
 
-## Oxygen
+# Oxygen
 
-## Carbon dioxide
+# Carbon dioxide
 
-## and other gases
+and other gases
 
-## Big breath
+# Big breath
 
 When you breathe in, air enters your
 
 lungs.
 
-## You can find out how much
+# You can find out how much
 
-### air your lungs can hold by taking
+air your lungs can hold by taking
 
-## Argon
+# Argon
 
-### a deep breath and then blowing
+a deep breath and then blowing
 
-### through a tube into an overturned
+through a tube into an overturned
 
 Big let down jar of water.
 
-## The air from your
+# The air from your
 
-## As a parachute falls
+# As a parachute falls
 
 lungs pushes water out of the jar.
 
-## air pushes upward
+air pushes upward
 
 against it, so it drops
 
-## slowly and safely to the
+slowly and safely to the
 
 ground.
 
-## Air is made up
+# Air is made up
 
 of two main gases, called
 
@@ -472,17 +472,17 @@ nitrogen and oxygen, with
 
 small amounts of other gases.
 
-## Air and Gases
+# Air and Gases
 
-## Crush with air
+# Crush with air
 
-### Make a plastic bottle collapse
+# Make a plastic bottle collapse
 
 You will need:
 
 without touching it!
 
-## The air
+# The air
 
 does the job for you.
 
@@ -490,19 +490,19 @@ cannot feel air, but it presses
 
 against every surface.
 
-## This
+# This
 
 is called “air pressure.
 
-## ” Hot and cold Plastic soft-
+” Hot and cold Plastic soft-
 
-### Ice Funnel water drink bottle Bowl
+# Ice Funnel water drink bottle Bowl
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Stand the bottle upright Screw the cap on the bottle.
 
-## As the warm air inside
+# As the warm air inside
 
 in a bowl.
 
@@ -514,21 +514,21 @@ and leave and cold water pressure.
 
 it for a over it.
 
-## Then pressure of the
+# Then pressure of the
 
 short time.
 
 stand it up.
 
-## air outside is
+air outside is
 
-## stronger and
+stronger and
 
-## crushes the
+crushes the
 
 bottle.
 
-## Seal with air
+# Seal with air
 
 Keep water from falling out of an overturned
 
@@ -536,13 +536,13 @@ You will need:
 
 glass.
 
-### A card can stick to a glass and keep
+# A card can stick to a glass and keep
 
 the water in it, as if by magic!
 
-## Air pressure
+# Air pressure
 
-## forces the card upward
+forces the card upward
 
 against the glass.
 
@@ -550,15 +550,15 @@ The pressure is strong enough to stop the
 
 weight of the water pushing the card away.
 
-## Thin flat card Glass Water
+# Thin flat card Glass Water
 
-## The rim
+# The rim
 
-## must have no
+must have no
 
 chips in it.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Hold the glass over a sink Place the card on the glass.
 
@@ -568,7 +568,7 @@ or a basin.
 
 Carefully pour some Hold it down so the card touches glass upside down.
 
-## Let go of the
+# Let go of the
 
 water into the glass.
 
@@ -578,11 +578,11 @@ card.
 
 The water stays in the glass!
 
-## Air and gases
+# Air and gases
 
-## Weigh some air
+# Weigh some air
 
-## When something is very
+# When something is very
 
 You will need:
 
@@ -592,19 +592,19 @@ Long, thin piece of wood
 
 “as light as air.
 
-## ” But air is not
+” But air is not
 
 light at all.
 
-## Do this simple
+# Do this simple
 
 experiment to show that Balloon pump Two balloons Ruler Tape
 
 air is really quite heavy.
 
-### Two tacks Rubber band Pencil Thread
+# Two tacks Rubber band Pencil Thread
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Use the ruler to find the Push a tack into each side Tie the thread to the middle
 
@@ -616,9 +616,9 @@ at the center mark.
 
 of the rubber band.
 
-## Attach the neck of
+# Attach the neck of
 
-## the balloon to the
+the balloon to the
 
 If the wood does not far end of the wood.
 
@@ -626,53 +626,53 @@ balance, attach modeling
 
 clay to the higher end.
 
-## 4. 5.
+# 4. 5.
 
 Attach the loops of the rubber band Tape one of the balloons to one end of the wood.
 
 around the tacks.
 
-## Lift the wood by the
+# Lift the wood by the
 
 thread.
 
 It should balance.
 
-### Tape the second balloon to the
+# Tape the second balloon to the
 
 other end of the wood.
 
-## Check that
+# Check that
 
-## Move one of the
+# Move one of the
 
 it still balances.
 
-## Then remove one
+# Then remove one
 
-## balloons if the wood
+balloons if the wood
 
 does not balance.
 
 balloon and blow it up.
 
-## Air and gases
+# Air and gases
 
-## Drinking with a straw
+# Drinking with a straw
 
 When the balloon When you drink through a
 
-## has been inflated
+has been inflated
 
 straw, the weight of the air
 
 it becomes heavier helps you.
 
-## The air above the
+# The air above the
 
 because it contains air.
 
-## drink pushes on the surface
+drink pushes on the surface
 
 of the liquid.
 
@@ -680,31 +680,31 @@ The empty balloon As you suck,
 
 has no air in it, so it forces the
 
-## it is lighter than
+it is lighter than
 
-## liquid up
+liquid up
 
 the inflated one.
 
-## through
+through
 
-## the straw to
+the straw to
 
 your mouth.
 
-## Tie the neck of the
+# Tie the neck of the
 
-## blown-up balloon and
+blown-up balloon and
 
-## attach it to the wood in
+attach it to the wood in
 
 the same place as before.
 
-## The balloon makes the
+# The balloon makes the
 
 wood lose its balance.
 
-## Discover the gases in the air
+# Discover the gases in the air
 
 Put out a candle without blowing on it or
 
@@ -720,29 +720,29 @@ gases.
 
 One of these is especially important.
 
-## It is oxygen
+# It is oxygen
 
 which is used when things Colored Candle
 
-### Candle water holder Glass jar Bowl
+# Candle water holder Glass jar Bowl
 
 burn and produce energy.
 
-## The water rises
+# The water rises
 
-## up to replace the
+up to replace the
 
 oxygen.
 
-## The flame uses remaining gas
+# The flame uses remaining gas
 
-## up the oxygen in the jar is
+up the oxygen in the jar is
 
 gas in the jar.
 
 mainly nitrogen.
 
-## 1. 2.
+# 1. 2.
 
 Put the candle in the holder Ask an adult to light
 
@@ -750,7 +750,7 @@ and place it in the bowl.
 
 Then the candle.
 
-## Then place the jar
+# Then place the jar
 
 pour in the water.
 
@@ -758,17 +758,17 @@ over it.
 
 Leave it for a little while.
 
-## Air and energy
+# Air and energy
 
 Like other cars, this race car gets
 
-### its energy from gas burning in its
+its energy from gas burning in its
 
 engine.
 
-## Burning fuel provides most
+# Burning fuel provides most
 
-### of the energy we use for heating
+of the energy we use for heating
 
 and powering machines.
 
@@ -784,17 +784,17 @@ comes from the air around us.
 
 suddenly goes out!
 
-## Air and gases
+# Air and gases
 
-## Form a gas
+# Form a gas
 
-### Inflate a balloon without blowing into
+# Inflate a balloon without blowing into
 
 You will need:
 
 it, or using a pump!
 
-## You can do this by
+# You can do this by
 
 making a gas and then getting it to go into
 
@@ -802,21 +802,21 @@ a balloon.
 
 The gas is called carbon dioxide.
 
-## Balloon
+# Balloon
 
 It is this gas that forms the bubbles in
 
 soda water and carbonated drinks.
 
-## Sodium Narrow-necked
+# Sodium Narrow-necked
 
-### Vinegar bicarbonate Funnel bottle
+# Vinegar bicarbonate Funnel bottle
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-### Pour some vinegar into Using the funnel
+# Pour some vinegar into Using the funnel
 
-### fill the Stretch the neck of the
+fill the Stretch the neck of the
 
 the narrow-necked bottle balloon with sodium balloon over the
 
@@ -828,23 +828,23 @@ powder.
 
 bottle.
 
-## Do not let
+# Do not let
 
-## the sodium
+the sodium
 
-## bicarbonate
+bicarbonate
 
-## escape from
+escape from
 
 the balloon.
 
 Exploding drink Lift the balloon so that
 
-## As more gas
+# As more gas
 
-## Shake a bottle of soda
+# Shake a bottle of soda
 
-### then the sodium bicarbonate falls
+then the sodium bicarbonate falls
 
 forms, its pressure
 
@@ -852,13 +852,13 @@ unscrew the cap.
 
 The drink into the bottle.
 
-## The vinegar
+# The vinegar
 
-## increases and the
+increases and the
 
 fizzes up out of the bottle!
 
-## Carbon begins to fizz and the
+# Carbon begins to fizz and the
 
 balloon expands.
 
@@ -868,55 +868,55 @@ water in the drink.
 
 It is kept to inflate.
 
-## under pressure in
+under pressure in
 
 the bottle.
 
-## When
+# When
 
-## you unscrew the
+you unscrew the
 
 cap, you reduce
 
-## the pressure
+the pressure
 
-## The vinegar reacts
+# The vinegar reacts
 
-## and the gas
+and the gas
 
-## with the sodium
+with the sodium
 
-## bubbles up out
+bubbles up out
 
-## bicarbonate to
+bicarbonate to
 
 of the water.
 
-## release bubbles of
+release bubbles of
 
 carbon dioxide gas.
 
-## Air and gases
+# Air and gases
 
-## Make a volcano erupt
+# Make a volcano erupt
 
-## Build a model volcano—then
+Build a model volcano—then
 
 You will need:
 
 make it erupt!
 
-## You can make
+# You can make
 
-## “red-hot lava” flow down the
+“red-hot lava” flow down the
 
-## Vinegar Small plastic Sodium
+# Vinegar Small plastic Sodium
 
 sides.
 
-## Although the lava is not
+# Although the lava is not
 
-## bottle bicarbonate
+bottle bicarbonate
 
 real, your model volcano
 
@@ -924,23 +924,23 @@ works like a real one.
 
 Large dish or tray Funnel Red food coloring Sand and gravel
 
-## 1. 2.
+# 1. 2.
 
-## Add red food Using the
+# Add red food Using the
 
 coloring to the funnel, half fill the
 
 vinegar.
 
-## This bottle with sodium
+# This bottle with sodium
 
 makes your “lava” bicarbonate.
 
-## Then
+# Then
 
 red, like the real stand the bottle
 
-### red-hot lava in upright in the
+red-hot lava in upright in the
 
 a volcano.
 
@@ -948,107 +948,107 @@ middle of the dish.
 
 Pile gravel, then sand
 
-## Volcano Erupting
+# Volcano Erupting
 
-## around the bottle to make the
+around the bottle to make the
 
-## grows as lava
+grows as lava
 
 volcano.
 
-## Quickly pour some
+# Quickly pour some
 
-## lava cools
+lava cools
 
-## red vinegar into the bottle
+red vinegar into the bottle
 
 and watch the volcano erupt!
 
-## Rock
+# Rock
 
-## Bubbles of carbon
+# Bubbles of carbon
 
-## dioxide gas form in
+dioxide gas form in
 
-## the bottle and force
+the bottle and force
 
 out the red vinegar.
 
-## Exploding mountain
+# Exploding mountain
 
-## A long pipe leads down from
+# A long pipe leads down from
 
-### the top of a volcano to a deep
+the top of a volcano to a deep
 
 underground chamber.
 
-## There
+# There
 
-## is melted rock in the chamber
+is melted rock in the chamber
 
 and very hot gases.
 
-## The pressure
+# The pressure
 
-## of the gases sometimes forces
+of the gases sometimes forces
 
-## the molten rock up the pipe
+the molten rock up the pipe
 
 to the surface.
 
-## The red-hot
+# The red-hot
 
 melted rock, called “lava,”
 
-## erupts from the volcano and
+erupts from the volcano and
 
 flows down its sides.
 
-## There
+# There
 
 it cools and becomes solid.
 
-## Eruptions cause the lava to
+# Eruptions cause the lava to
 
-## build up and the volcano
+build up and the volcano
 
 grows taller.
 
-## Air and gases
+# Air and gases
 
-## Make a wing fly
+# Make a wing fly
 
 When birds and aircraft fly,
 
 You will need:
 
-## moving air around their wings
+moving air around their wings
 
-### helps carry them high into the
+helps carry them high into the
 
 sky.
 
 Build and fly a model wing.
 
-## Short length Drinking
+# Short length Drinking
 
-## of thread straw
+of thread straw
 
-### It shows how moving air lifts up
+# It shows how moving air lifts up
 
 a wing and keeps it airborne.
 
 Tape Sharp pencil Hair dryer Scissors Light
 
-## stiff paper
+stiff paper
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Fold the paper in two.
 
 Make Turn the paper over.
 
-## Tape Use the pencil to make
+# Tape Use the pencil to make
 
 one side of the fold a little smaller the edges together to make a two holes in the wing
 
@@ -1058,7 +1058,7 @@ wing shape.
 
 above the other.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Cut a piece of drinking Push the straw through the Feed the thread through the
 
@@ -1072,7 +1072,7 @@ the holes.
 
 Use the hair dryer As the air passes over As the air
 
-## to blow air over the the wing
+to blow air over the the wing
 
 it speeds up.
 
@@ -1082,13 +1082,13 @@ curved top of the wing.
 
 its pressure falls.
 
-## Still air under the
+# Still air under the
 
-## wing has a higher
+wing has a higher
 
 pressure.
 
-## It pushes
+# It pushes
 
 the wing upward.
 
@@ -1100,7 +1100,7 @@ It rises Tape cotton threads to two table-tennis
 
 up on the thread.
 
-### balls and hang them about 6 in (15 cm)
+balls and hang them about 6 in (15 cm)
 
 It’s amazing!
 
@@ -1108,9 +1108,9 @@ apart.
 
 Try blowing air between the balls.
 
-## Instead of separating them
+# Instead of separating them
 
-## the moving air
+the moving air
 
 draws them together.
 
@@ -1118,35 +1118,35 @@ As air moves, its
 
 pressure falls.
 
-## The balls move toward the
+# The balls move toward the
 
 lower pressure, so they swing together.
 
-## Air and gases
+# Air and gases
 
-## Detect moisture in the air
+# Detect moisture in the air
 
-## Although air does not feel
+# Although air does not feel
 
 You will need:
 
 wet, it does contain moisture.
 
-## Moisture in the air is called
+# Moisture in the air is called
 
 “humidity.
 
-### ” The humidity of Straw Tape Map pins
+” The humidity of Straw Tape Map pins
 
 the air is constantly changing,
 
 as this experiment shows.
 
-## White
+# White
 
-### Ruler Modeling clay Pen card Cork board
+# Ruler Modeling clay Pen card Cork board
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw a scale on the white Push a pin through a straw Press some modeling clay into
 
@@ -1154,11 +1154,11 @@ card, marking it at one-sixteenth close to one end.
 
 Pin the straw to the short end of the straw.
 
-## Use just
+# Use just
 
 of an inch (2mm) intervals.
 
-## Pin the board
+# Pin the board
 
 so that the long end enough clay to balance the straw
 
@@ -1168,39 +1168,39 @@ points to the middle of the scale.
 
 when the board is upright.
 
-## Hair absorbs
+# Hair absorbs
 
-## 4. and loses
+# 4. and loses
 
 Get a friend to moisture easily.
 
-## pull a hair carefully
+pull a hair carefully
 
-## from your head—tell
+from your head—tell
 
-## them not to pull too
+them not to pull too
 
 hard, or it will hurt!
 
-## Tape one end of the hair
+# Tape one end of the hair
 
-### to the short end of the straw and
+to the short end of the straw and
 
 the other to the board’s frame.
 
 Stand the board upright.
 
-## Weather house
+# Weather house
 
-### This model house tells you what the
+# This model house tells you what the
 
 weather is going to be like.
 
-## The man
+# The man
 
 comes out if the air is moist.
 
-## This means
+# This means
 
 that rain is likely.
 
@@ -1220,51 +1220,51 @@ In moist air, the hair expands and
 
 the straw falls down the scale.
 
-## Air and gases
+# Air and gases
 
-## Measure the wind
+# Measure the wind
 
-## You can feel the wind—but
+You can feel the wind—but
 
 You will need:
 
-### can you tell where it is coming
+can you tell where it is coming
 
 from?
 
 It is important to know Long tack Glue stick
 
-## because a change in the wind
+because a change in the wind
 
-## Scissors
+# Scissors
 
 can affect the weather.
 
-## Make
+# Make
 
-## Compass
+# Compass
 
-### a wind vane to determine the Ruler
+a wind vane to determine the Ruler
 
 wind’s direction.
 
 Thin,
 
-## Drinking straw and colored
+# Drinking straw and colored
 
 Modeling clay Plastic pot pencil with eraser card
 
-## First mark the
+# First mark the
 
-## triangles on the
+triangles on the
 
-## card with a ruler
+card with a ruler
 
 Make sure the pot and pencil.
 
 holds the pencil firmly.
 
-## 1. 2.
+# 1. 2.
 
 Use the pencil to make a hole in the middle Cut out four small triangles and two large
 
@@ -1274,9 +1274,9 @@ Then push the sharp end of the pencil ones from the colored card.
 
 through the hole.
 
-## Push the base of the other
+# Push the base of the other
 
-## triangle into the straw to
+triangle into the straw to
 
 make the vane’s pointer.
 
@@ -1288,7 +1288,7 @@ four directions.
 
 make the wind vane’s tail.
 
-## 3. 4.
+# 3. 4.
 
 Glue each of the four small triangles to the Cut short slits in both ends of the straw.
 
@@ -1302,31 +1302,31 @@ an arrow-shaped pointer.
 
 This is called a “vane.
 
-## Air and gases
+# Air and gases
 
-## Make sure
+# Make sure
 
-## that the vane
+that the vane
 
 spins easily.
 
-## Press the pot
+# Press the pot
 
-### firmly into the The modeling clay holds
+firmly into the The modeling clay holds
 
 modeling clay.
 
 the wind vane steady.
 
-## 5. 6.
+# 5. 6.
 
 Carefully push the tack all the way Make a ring of modeling clay and push
 
 through the center of the straw.
 
-### Then push the pot firmly into it
+# Then push the pot firmly into it
 
-## so it cannot blow
+so it cannot blow
 
 it into the eraser on the pencil end.
 
@@ -1334,115 +1334,115 @@ away.
 
 Your wind vane is ready to use.
 
-## Whirling in the wind
+# Whirling in the wind
 
-## As well as finding out the
+# As well as finding out the
 
-## The direction of
+# The direction of
 
 direction of the wind, it is also
 
-## the wind is the
+the wind is the
 
-### important to measure the speed
+important to measure the speed
 
-## direction from
+direction from
 
 of the wind.
 
-## High-speed winds
+# High-speed winds
 
 which it comes.
 
-## may cause damage and may be
+may cause damage and may be
 
 dangerous to ships and aircraft.
 
-## The instrument shown below
+# The instrument shown below
 
 is called an anemometer.
 
-## measures the speed of the
+measures the speed of the
 
-## North
+# North
 
 wind.
 
-## The moving air makes West
+# The moving air makes West
 
 the cups whirl around and the Position the wind vane
 
 wind speed shows on the scale.
 
-## so that the triangles
+so that the triangles
 
 point north, east, south,
 
-## There is a scale to describe
+# There is a scale to describe
 
 and west.
 
-## Use a compass
+# Use a compass
 
 wind strength.
 
-## It ranges from
+# It ranges from
 
 to help you.
 
-### 0 (calm) to 12 (a hurricane). East
+0 (calm) to 12 (a hurricane). East
 
-## South
+# South
 
-## The wind
+# The wind
 
-## spins the
+spins the
 
 cups.
 
 In a south wind,
 
-## the vane points
+the vane points
 
 to the south.
 
-## The wind
+# The wind
 
 speed is 7.
 
-## Place your
+# Place your
 
-## shown on
+shown on
 
 the dial.
 
 wind vane outside.
 
-## The vane swings
+# The vane swings
 
-## around in the
+around in the
 
-## direction of
+direction of
 
 the wind.
 
-## WATER AND LIQUIDS
+# WATER AND LIQUIDS
 
 Water is wonderful.
 
-## You can have fun
+# You can have fun
 
 swimming and playing in water.
 
-## Rain
+# Rain
 
 is not so much fun, but we could not
 
 live without it.
 
-## It brings us the water
+# It brings us the water
 
-### we need to drink and to grow crops
+we need to drink and to grow crops
 
 for food.
 
@@ -1450,7 +1450,7 @@ Water is a “liquid,” which is
 
 a substance that flows easily.
 
-## There
+# There
 
 are many other liquids.
 
@@ -1458,37 +1458,37 @@ Oil, such as
 
 cooking oil, is another.
 
-## When liquids
+# When liquids
 
-### Building with water are cooled
+# Building with water are cooled
 
 they turn to solids.
 
-## Water Water for life
+# Water Water for life
 
-## A snowman is made with People
+# A snowman is made with People
 
-## animals
+animals
 
 freezes to become hard ice.
 
-## Heating
+# Heating
 
 solid water!
 
-### Snowflakes plants all need water
+# Snowflakes plants all need water
 
-### water turns it into a gas called “water
+water turns it into a gas called “water
 
 consist of ice.
 
 They are to live.
 
-## Water helps
+# Water helps
 
 vapor,” which disappears into the air.
 
-### made up of ice crystals keep your body
+made up of ice crystals keep your body
 
 When water vapor cools, it turns
 
@@ -1500,83 +1500,83 @@ back to liquid water.
 
 you stay alive.
 
-## The power of water
+# The power of water
 
-## World of water
+# World of water
 
-## Water can change the shape of
+# Water can change the shape of
 
-### This photograph of the Earth shows
+# This photograph of the Earth shows
 
 the land.
 
-## Waves battering the
+# Waves battering the
 
-## the blue oceans and the white
+the blue oceans and the white
 
 shore wear away the rocks.
 
 clouds that bring rain.
 
-## Most of the
+# Most of the
 
 Rain washes soil into rivers,
 
-### brown land with no clouds is a
+brown land with no clouds is a
 
 which carry it away.
 
 huge desert where no rain falls.
 
-## Mostly water
+# Mostly water
 
-## There is as
+# There is as
 
-## much water in
+much water in
 
-## these buckets as
+these buckets as
 
 in the girl’s body!
 
-## More than half of
+# More than half of
 
 your body is water.
 
-## Water and liquids
+# Water and liquids
 
-## Measure the rain
+# Measure the rain
 
-## Rain falls from the clouds
+# Rain falls from the clouds
 
-## which contain
+which contain
 
 You will need:
 
 millions of tiny water droplets.
 
-## These come
+# These come
 
 Large, clear
 
-## together
+together
 
 forming raindrops that fall to plastic bottle
 
 the ground.
 
-## Make a simple rain gauge
+# Make a simple rain gauge
 
 to measure rainfall.
 
-## This is the amount
+# This is the amount
 
 Ruler and Measuring Small, clear
 
 of rain that falls over a certain time.
 
-### marker pen cup plastic bottle Scissors
+marker pen cup plastic bottle Scissors
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut off the tops of both Fill the cup to a quarter full.
 
@@ -1586,7 +1586,7 @@ bottles, using the scissors.
 
 Make Pour the water into the small bottle.
 
-### so that you have a series of marks
+so that you have a series of marks
 
 sure the edges are straight.
 
@@ -1594,77 +1594,77 @@ Mark the level.
 
 on the side of the bottle.
 
-## Empty the bottle
+# Empty the bottle
 
-## after measuring the
+after measuring the
 
 rainfall.
 
-## Put it back
+# Put it back
 
 in the same place.
 
-## Stand the bottles
+# Stand the bottles
 
-## outside on a table or a
+outside on a table or a
 
-### 4. wall to catch the rain. Record the
+# 4. wall to catch the rain. Record the
 
 Empty the small bottle.
 
-## Place
+# Place
 
-### water level in the small bottle each
+water level in the small bottle each
 
 it inside the large bottle.
 
-## Put the top
+# Put the top
 
 morning.
 
 This is the daily rainfall.
 
-### of the large bottle upside down over
+of the large bottle upside down over
 
 the small bottle.
 
 It forms a funnel.
 
-## Weather station
+# Weather station
 
-## Each day
+# Each day
 
-### scientists called meteorologists
+scientists called meteorologists
 
 take detailed measurements to help them Chart showing the rainfall for
 
-## 12 months
+12 months
 
-### keep track of the weather and forecast
+keep track of the weather and forecast
 
 how it will change.
 
 They record the 6.
 
-## Add up the rainfall for each
+# Add up the rainfall for each
 
-## amount of rainfall
+amount of rainfall
 
-## the highest and lowest
+the highest and lowest
 
 week or each month.
 
-## Then make
+# Then make
 
-## temperatures
+temperatures
 
-## the humidity
+the humidity
 
-## the speed
+the speed
 
-## a chart to show how much rain
+a chart to show how much rain
 
-## direction of the wind
+direction of the wind
 
 and the air pressure.
 
@@ -1672,17 +1672,17 @@ falls over several weeks, months,
 
 or even a whole year.
 
-## sehcni
+sehcni
 
-## ni
+ni
 
-## llafniaR
+llafniaR
 
-## Water and liquids
+# Water and liquids
 
-## Rain-test materials
+# Rain-test materials
 
-### Use rainwater to discover the water
+# Use rainwater to discover the water
 
 You will need:
 
@@ -1690,7 +1690,7 @@ resistance of different materials.
 
 You will soon see why only certain Pen Scissors
 
-## Waterproof
+# Waterproof
 
 materials are used with water.
 
@@ -1700,7 +1700,7 @@ felt, rubber,
 
 plastic Rubber bands Five jars Paintbrush
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw a circle that’s wider Place the circle of material over Paint a face on the jar.
 
@@ -1714,13 +1714,13 @@ Secure it to the Repeat steps one to three with the
 
 jar with a rubber band.
 
-### remaining four pieces of material
+remaining four pieces of material
 
 and jars.
 
 Wool holds water Cotton is not Plastic is waterproof Rubber is waterproof Paper is not at
 
-## longer than cotton
+longer than cotton
 
 waterproof and and so is used to and stretchy so is all waterproof
 
@@ -1736,29 +1736,29 @@ swim caps.
 
 in the rain.
 
-## 4. Coated materials
+# 4. Coated materials
 
-## Place your five finished
+# Place your five finished
 
-### Materials can be made water-resistant
+# Materials can be made water-resistant
 
 jars in the rain.
 
-## Leave them
+# Leave them
 
-### by coating them with a waterproof
+by coating them with a waterproof
 
-## for two hours before looking
+for two hours before looking
 
 material, such as rubber or wax.
 
-## Some
+# Some
 
 at them again.
 
-## Make notes
+# Make notes
 
-### umbrella canopies are made from
+umbrella canopies are made from
 
 on what you find.
 
@@ -1766,105 +1766,105 @@ plastic, but others have nylon canopies
 
 coated with water-resistant chemicals.
 
-## Water and liquids
+# Water and liquids
 
-## Have fun with water pressure
+# Have fun with water pressure
 
-### Have fun finding out how water
+# Have fun finding out how water
 
 You will need:
 
-### pressure can splash a stream of
+pressure can splash a stream of
 
 water over a distance.
 
-## Fountains
+# Fountains
 
-### use water pressure to shoot water Pen
+use water pressure to shoot water Pen
 
 at different heights.
 
-## Clear plastic Pitcher
+# Clear plastic Pitcher
 
-## bottle with cap of water
+bottle with cap of water
 
-## The water will flow out of
+# The water will flow out of
 
-## the hole only when the cap
+the hole only when the cap
 
-## is removed because it needs
+is removed because it needs
 
 air to release the pressure.
 
-## Hold the
+# Hold the
 
 bottle upright.
 
-## Find a friend to
+# Find a friend to
 
 Fill the bottle with water, surprise.
 
-## Unscrew
+# Unscrew
 
-## replace the cap tightly
+replace the cap tightly
 
-## and lie the the lid and the
+and lie the the lid and the
 
 bottle on its side.
 
-### Make a small hole water will spurt
+# Make a small hole water will spurt
 
 halfway down with a pen.
 
 out of the hole!
 
-## Remove a lime’s life jacket
+Remove a lime’s life jacket
 
-### Buoyancy is a force that pushes up
+# Buoyancy is a force that pushes up
 
 You will need:
 
 from the water.
 
-## A life jacket filled with air
+# A life jacket filled with air
 
 pushes on water with a weaker force than
 
-## it receives from the water
+it receives from the water
 
-## so it increases
+so it increases
 
 Clear, tall
 
 buoyancy and helps you float.
 
-## Lime Peeler glass of water
+# Lime Peeler glass of water
 
-## 1. 2.
+# 1. 2.
 
-### Place a lime into Peel the lime
+# Place a lime into Peel the lime
 
 the glass of water.
 
-## and place the fruit back
+and place the fruit back
 
 The fruit will float.
 
 in the glass.
 
-## This time
+# This time
 
 the lime sinks.
 
-## The lime’s rind is
+The lime’s rind is
 
-## filled with tiny bubbles
+filled with tiny bubbles
 
 that make it float, just
 
 like a life jacket.
 
-## Water and liquids
+# Water and liquids
 
 Make things sink, then float!
 
@@ -1878,41 +1878,41 @@ Yet a small, light object
 
 such as a marble sinks!
 
-## The weight of the
+# The weight of the
 
 objects does not matter.
 
-## Whether or not
+# Whether or not
 
-### something floats depends on how much
+something floats depends on how much
 
 water it “displaces,” or pushes aside.
 
 Modeling clay Marbles Glass tank or bowl of water
 
-## The displaced water
+# The displaced water
 
 pushes on the objects,
 
-## but not enough to
+but not enough to
 
 make them float.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Drop marbles into the water.
 
 The clay ball also sinks.
 
-### Like Remove the marbles and the
+# Like Remove the marbles and the
 
 They quickly sink to the bottom.
 
-## the marbles
+the marbles
 
 it does not displace clay ball.
 
-## Shape the clay to make
+# Shape the clay to make
 
 Roll the clay into a ball.
 
@@ -1920,31 +1920,31 @@ much water.
 
 a boat.
 
-### More water has been The extra displaced
+# More water has been The extra displaced
 
 displaced.
 
-## It pushes water supports the
+# It pushes water supports the
 
 with more force and weight of the marbles.
 
-## TF
+TF
 
-## can support the clay
+can support the clay
 
 boat, making it float.
 
-## L R S
+# L R S
 
-## WNA
+# WNA
 
-## Safety level
+# Safety level
 
-### An overloaded ship settles too
+# An overloaded ship settles too
 
 low in the water and could sink.
 
-### 4. 5. Marks on a ship’s side show
+# 4. 5. Marks on a ship’s side show
 
 Now the clay floats!
 
@@ -1954,17 +1954,17 @@ safe loading levels.
 
 boat is bigger than the ball was boat settles lower
 
-## but displaces
+but displaces
 
 and displaces more water.
 
 more water and still floats.
 
-## Water and liquids
+# Water and liquids
 
-## Find out about floating
+# Find out about floating
 
-### An object floats in water if it
+# An object floats in water if it
 
 You will need:
 
@@ -1972,21 +1972,21 @@ displaces enough water.
 
 how much water is “enough”?
 
-## Find out by collecting the
+# Find out by collecting the
 
-## displaced water and weighing
+displaced water and weighing
 
-### It always weighs the same Small
+# It always weighs the same Small
 
 as the floating object.
 
 Kitchen scale Pitcher of water Big glass jar glass jar Large dish
 
-## Fill the jar
+# Fill the jar
 
 to the brim.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Remove the pan from the Float the small jar in the big Carefully remove the big jar
 
@@ -1994,11 +1994,11 @@ scale and reset the scale to zero.
 
 jar.
 
-## It displaces water
+# It displaces water
 
 which spills and the scale from the dish.
 
-## Put the
+# Put the
 
 Put the scale in the dish.
 
@@ -2010,7 +2010,7 @@ big jar on the scale and fill it with big jar does not change.
 
 zero.
 
-## Pour in the water that had
+# Pour in the water that had
 
 water.
 
@@ -2018,7 +2018,7 @@ Note its weight.
 
 spilled into the dish.
 
-## Afloat like a boat
+# Afloat like a boat
 
 When you float in water,
 
@@ -2026,17 +2026,17 @@ your body displaces water,
 
 like any other floating object.
 
-## The displaced water weighs as
+# The displaced water weighs as
 
 much as you do.
 
-## It pushes up
+# It pushes up
 
-### against your body and supports
+against your body and supports
 
 it so you do not sink.
 
-## 4. 5.
+# 4. 5.
 
 Write down the weight of the Now weigh the small jar that
 
@@ -2044,17 +2044,17 @@ water in the pan.
 
 Remove the pan was floating in the big jar.
 
-## You can
+# You can
 
 and reset the scale to zero.
 
-### see that it has the same weight as
+see that it has the same weight as
 
 the water it displaced.
 
-## Water and liquids
+# Water and liquids
 
-## Command a deep-sea diver
+# Command a deep-sea diver
 
 At your command, a toy diver will dive
 
@@ -2062,41 +2062,41 @@ You will need:
 
 into a bottle of water and then return to
 
-## Plastic pen
+# Plastic pen
 
 the surface.
 
-## The diver you make works
+# The diver you make works
 
-## cap
+cap
 
-### in the same way as submarines and other
+in the same way as submarines and other
 
 vessels that can dive deep under the sea.
 
-### Modeling clay Glass of water Thin
+# Modeling clay Glass of water Thin
 
-## clear plastic bottle
+clear plastic bottle
 
-## Only the tip should
+# Only the tip should
 
-## If there is a hole in the
+# If there is a hole in the
 
 be above the water.
 
 tip, seal it with clay.
 
-## A bubble of air
+# A bubble of air
 
-## is trapped inside
+is trapped inside
 
 the pen cap.
 
-## This
+# This
 
 makes it float.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Make your toy diver Put the diver in a glass of Fill the bottle to the top with
 
@@ -2104,7 +2104,7 @@ by sticking a small piece of water.
 
 Add or remove clay until water.
 
-## Put the diver in and screw
+# Put the diver in and screw
 
 modeling clay to the pen cap.
 
@@ -2112,47 +2112,47 @@ it only just floats.
 
 the bottle cap on tightly.
 
-## Down in the depths
+# Down in the depths
 
-### This underwater vessel explores
+# This underwater vessel explores
 
 the ocean depths.
 
-## It has tanks
+# It has tanks
 
-### that are flooded with water to
+that are flooded with water to
 
 make it dive.
 
-## To make it rise to
+# To make it rise to
 
 the surface again, air is pumped
 
 into these tanks.
 
-## This drives out
+# This drives out
 
 the water, and the vessel floats.
 
-## Water leaves the
+# Water leaves the
 
 Water enters the pen cap.
 
-## The air
+# The air
 
 pen cap.
 
-## The bubble bubble gets bigger
+# The bubble bubble gets bigger
 
 gets smaller, and no again and makes
 
-### longer supports the the pen cap float
+longer supports the the pen cap float
 
 pen cap.
 
 once more.
 
-## 4. 5.
+# 4. 5.
 
 Squeeze the sides of the bottle.
 
@@ -2162,35 +2162,35 @@ The diver sinks to the bottom!
 
 Now the diver rises back to the top.
 
-## Water and liquids
+# Water and liquids
 
-## Make an underwater volcano
+# Make an underwater volcano
 
-### Did you know that you can get water to
+# Did you know that you can get water to
 
 You will need:
 
 float on water?
 
-## Hot water always rises
+# Hot water always rises
 
-## Scissors Paintbrush
+# Scissors Paintbrush
 
-### to the surface and floats on cold water
+to the surface and floats on cold water
 
 underneath it.
 
-## Show this happening by
+# Show this happening by
 
-### making a “volcano” erupt under water
+making a “volcano” erupt under water
 
 and send up a huge plume of “smoke.
 
-## ” Hot and Red food Large
+” Hot and Red food Large
 
 Small bottle cold water coloring String glass jar
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut a long piece of string.
 
@@ -2204,7 +2204,7 @@ of the same bottle to make a loop.
 
 three-quarters full.
 
-## 4. 5.
+# 4. 5.
 
 Fill the bottle with hot Hold the bottle by the loop of
 
@@ -2212,15 +2212,15 @@ water.
 
 Add food coloring to string.
 
-## Lower it gently into the jar
+# Lower it gently into the jar
 
 turn the water bright red.
 
 of cold water.
 
-## Hot-water holes
+# Hot-water holes
 
-### There are deep holes in the ocean
+# There are deep holes in the ocean
 
 floor.
 
@@ -2228,53 +2228,53 @@ Water, heated by the hot rocks
 
 deep in the Earth’s crust, shoots out of
 
-### these holes and rises to the surface
+these holes and rises to the surface
 
 of the sea.
 
-## Divers have discovered
+# Divers have discovered
 
 strange sea creatures that live The hot red water rises
 
 around these hot-water holes.
 
-## from the bottle like smoke
+from the bottle like smoke
 
 from an erupting volcano.
 
-## Water and liquids
+# Water and liquids
 
-### See how liquids float and sink
+# See how liquids float and sink
 
-### Liquids can float and sink just as
+# Liquids can float and sink just as
 
 You will need:
 
 solid objects can.
 
-## It all depends
+# It all depends
 
 on something called “density.
 
-### A substance with a lower density
+# A substance with a lower density
 
-## Syrup Vegetable oil
+# Syrup Vegetable oil
 
-### weighs less than the same volume
+weighs less than the same volume
 
 of one with a higher density.
 
-## Colored
+# Colored
 
-### object or liquid will float only in
+object or liquid will float only in
 
-## water Large
+water Large
 
 a liquid more dense than itself.
 
-### Selection of objects to float container
+# Selection of objects to float container
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Carefully pour syrup into the Slowly pour the same amount The three liquids separate into
 
@@ -2292,33 +2292,33 @@ colored water.
 
 try to float.
 
-## The objects
+# The objects
 
-## float at different
+float at different
 
 levels.
 
-## They sink
+# They sink
 
-## until they reach a
+until they reach a
 
-## liquid of a higher
+liquid of a higher
 
-## density than
+density than
 
 themselves.
 
-## They
+# They
 
 float on that liquid.
 
-## Water is more dense
+# Water is more dense
 
-## than the oil but less
+than the oil but less
 
 dense than the syrup.
 
-### The grape is more dense Liquid tester
+# The grape is more dense Liquid tester
 
 than the water but less A lump of modeling clay on
 
@@ -2328,53 +2328,53 @@ a straw makes a “hydrometer,”
 
 which measures density.
 
-### level at which it floats depends
+level at which it floats depends
 
 on a liquid’s density.
 
-## The denser
+# The denser
 
 the liquid, the higher it floats.
 
-## Water and liquids
+# Water and liquids
 
-## Find out if liquids mix
+# Find out if liquids mix
 
-### It is easy to color some liquids
+# It is easy to color some liquids
 
-## but not
+but not
 
 You will need:
 
 others.
 
-### See how oil “resists” being tinted
+See how oil “resists” being tinted
 
 with food coloring.
 
-## This means it does not
+# This means it does not
 
-## Spoon
+# Spoon
 
-## let the coloring mix into it
+let the coloring mix into it
 
-## and the color
+and the color
 
 cannot spread through oil.
 
-## Then find out
+# Then find out
 
-## Food
+# Food
 
 what happens to the color in water.
 
 coloring Glass beaker Dropper Pitcher of water Cooking oil
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pour some water into the Carefully add a few drops Using a spoon
 
-## push the drops
+push the drops
 
 beaker, then add some oil.
 
@@ -2384,7 +2384,7 @@ of food coloring into the water.
 
 form two separate layers because Use a dropper if necessary.
 
-### The color bursts out as the drops meet
+# The color bursts out as the drops meet
 
 oil and water do not mix.
 
@@ -2392,7 +2392,7 @@ drops float in the oil.
 
 the water and mix with it.
 
-## Test the flow of liquids
+# Test the flow of liquids
 
 It takes much longer to pour syrup into a glass
 
@@ -2400,75 +2400,75 @@ You will need:
 
 than to pour water.
 
-## This is because the syrup
+# This is because the syrup
 
 has a high “viscosity.
 
-## ” This means it does not
+” This means it does not
 
 flow easily.
 
-### Test the viscosities of different
+# Test the viscosities of different
 
 liquids.
 
-### The ones in this experiment should
+# The ones in this experiment should
 
-## Liquids such as water
+# Liquids such as water
 
-## cooking oil
+cooking oil
 
-## Small jars and
+# Small jars and
 
 be easy to find at home.
 
-## clear liquid soap
+clear liquid soap
 
 syrup, and vinegar marbles
 
-## 1. 2.
+# 1. 2.
 
 Fill the jars with different liquids.
 
 Drop a marble The slower the marble falls
 
-## the higher the
+the higher the
 
 into each one.
 
 viscosity of the liquid.
 
-## Water and liquids
+# Water and liquids
 
-## Grow a stalactite
+# Grow a stalactite
 
-### Stalactites are long thin columns of
+# Stalactites are long thin columns of
 
 You will need:
 
-### minerals hanging from the ceilings
+minerals hanging from the ceilings
 
-## Paper clips Spoon
+# Paper clips Spoon
 
 of caves.
 
-## They form over many
+# They form over many
 
-### centuries as the water drips and
+centuries as the water drips and
 
 deposits its minerals.
 
-## But you can
+# But you can
 
-### Short length Pitcher of Baking
+# Short length Pitcher of Baking
 
 grow one in less than a week!
 
-### of yarn warm water Dish Two jars soda
+of yarn warm water Dish Two jars soda
 
-## 1. 2.
+# 1. 2.
 
-### Fill both the jars Attach paper clips
+# Fill both the jars Attach paper clips
 
 with warm water.
 
@@ -2482,67 +2482,67 @@ jars, so the yarn hangs
 
 between the jars.
 
-## Baking The soda solution
+# Baking The soda solution
 
 soda solution flows along the yarn.
 
-## Baking
+# Baking
 
-## soda solution
+soda solution
 
-## 3. The stalactite
+# 3. The stalactite
 
-## Place a dish
+# Place a dish
 
-## Drip of soda grows as each
+# Drip of soda grows as each
 
-## between the jars
+between the jars
 
-## solution drip evaporates
+solution drip evaporates
 
 to catch the drips.
 
-## and leaves a little
+and leaves a little
 
 Leave the jars soda behind.
 
-## More crystals
+# More crystals
 
 for several days.
 
 form in dish.
 
-## A white stalactite
+# A white stalactite
 
-## grows down
+grows down
 
 from the yarn.
 
-## stalagmite grows
+stalagmite grows
 
 up from the plate.
 
-## Stalactites
+# Stalactites
 
 Water flowing underground dissolves minerals as
 
 it seeps through rocks.
 
-## It then deposits the minerals
+# It then deposits the minerals
 
 as stalactites when it drips through a cave ceiling.
 
-## Water
+# Water
 
 falling from the end of a stalactite builds up a column of
 
 minerals on the floor called a stalagmite.
 
-## The stalactite
+# The stalactite
 
 and stalagmite may eventually meet to form a pillar.
 
-## Water and liquids
+# Water and liquids
 
 Is water hard?
 
@@ -2554,31 +2554,31 @@ rock.
 
 If tap water is hard, it builds up
 
-## Spoon Dropper
+# Spoon Dropper
 
-### a deposit of minerals inside pipes and
+a deposit of minerals inside pipes and
 
 kettles.
 
-### Soap does not easily form bubbles
+# Soap does not easily form bubbles
 
 in hard water.
 
-## Find out if the water from
+# Find out if the water from
 
 the faucets in your house is hard.
 
-### Two screw-top Small Distilled Liquid
+# Two screw-top Small Distilled Liquid
 
-### Tap water jars open jar water soap
+# Tap water jars open jar water soap
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Mix liquid soap with some Pour distilled water into one Put a drop of liquid soap
 
 distilled water in the small jar.
 
-## screw-top jar
+screw-top jar
 
 and the same amount solution into the jar of tap
 
@@ -2590,73 +2590,73 @@ water.
 
 Screw on the lid.
 
-## 4. If the tap water needs
+# 4. If the tap water needs
 
 Shake the jar.
 
-## If it does not
+# If it does not
 
-## more drops to make it
+more drops to make it
 
 foam, repeat step 3 and shake it
 
-## foam than the distilled
+foam than the distilled
 
 again.
 
-### Count how many drops you water
+# Count how many drops you water
 
 it is hard.
 
 need to make the water foam.
 
-## Water softening
+# Water softening
 
-## Hard water builds up scaly
+# Hard water builds up scaly
 
-### mineral deposits in kettles and
+mineral deposits in kettles and
 
 pipes.
 
-## It can be softened by
+# It can be softened by
 
-### passing it through a filter that
+passing it through a filter that
 
-## uses chemicals to remove the
+uses chemicals to remove the
 
 minerals from the water.
 
-## Repeat steps 3
+# Repeat steps 3
 
-## and 4 with the distilled
+and 4 with the distilled
 
 water.
 
-## Did the tap water
+# Did the tap water
 
-## need more drops to
+need more drops to
 
 make it foam?
 
-## Water and liquids
+# Water and liquids
 
-## Race a speedboat
+# Race a speedboat
 
-## Make a paper boat race across
+# Make a paper boat race across
 
 You will need:
 
-## a bowl—just by touching the
+a bowl—just by touching the
 
-## Pencil
+# Pencil
 
 surface of the water!
 
-## This
+# This
 
-## happens because there is
+happens because there is
 
-## Ruler
+# Ruler
 
 a force present, called
 
@@ -2666,7 +2666,7 @@ Dishwashing Large, clean, plastic
 
 Colored card soap Scissors bowl of water
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw the shape of your Carefully cut out your boat Squeeze a small drop of the
 
@@ -2680,51 +2680,51 @@ a triangular shape.
 
 let it f loat.
 
-### 4. You must change the water in
+# 4. You must change the water in
 
-## Dip your finger in the
+# Dip your finger in the
 
 the bowl if you want to try again.
 
 water, just behind the boat.
 
-## The boat shoots forward
+# The boat shoots forward
 
 across the bowl.
 
-## Make metal float
+# Make metal float
 
-### Gently place a paper clip on the
+# Gently place a paper clip on the
 
-### The dishwashing water’s surface
+The dishwashing water’s surface
 
 and it will float!
 
-## soap weakens the
+soap weakens the
 
-### The surface tension of the water
+# The surface tension of the water
 
-## surface tension
+surface tension
 
-### is strong enough to support very
+is strong enough to support very
 
 behind the boat.
 
 light objects, such as paper clips.
 
-## The surface tension
+# The surface tension
 
-## is stronger in front of
+is stronger in front of
 
 the boat.
 
-## This pulls the
+# This pulls the
 
 boat forward.
 
-## Water and liquids
+# Water and liquids
 
-## See plants drinking
+# See plants drinking
 
 Plants need water to live, just
 
@@ -2732,25 +2732,25 @@ You will need:
 
 like you do.
 
-## By making some
+# By making some
 
-## Fresh
+# Fresh
 
 flowers change color, you can
 
-## white flowers
+white flowers
 
 see how plants absorb water.
 
-### It flows through a plant’s stem
+It flows through a plant’s stem
 
 and into its leaves and flowers.
 
-## Different colored
+# Different colored
 
 Four glasses inks or food coloring Scissors
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pour a little food coloring Trim the stems of the Put a flower in each glass
 
@@ -2760,7 +2760,7 @@ Then add flowers.
 
 Split part of the stem of colored water.
 
-## The split stem
+# The split stem
 
 some water.
 
@@ -2768,85 +2768,85 @@ of one flower in two.
 
 goes in two glasses.
 
-## Green
+# Green
 
-## Leave the flowers
+# Leave the flowers
 
-## flower
+flower
 
 in a warm room.
 
-## Very Red flower
+# Very Red flower
 
 slowly, they change
 
 color.
 
-## Thirsty leaves
+# Thirsty leaves
 
-### Place a twig with leaves on it in a
+# Place a twig with leaves on it in a
 
 glass of water.
 
-## Add some cooking
+# Add some cooking
 
-## Red water travels
+# Red water travels
 
 oil, and make some marks on the
 
-## up the stem to the
+up the stem to the
 
 glass.
 
-## Observe this for a few days
+# Observe this for a few days
 
 petals, staining
 
-### to see how the level of the water
+to see how the level of the water
 
 them red.
 
-### falls as the leaves suck up the
+falls as the leaves suck up the
 
 water.
 
 The layer of oil on the Each part of the split stem
 
-### water keeps it from evaporating
+water keeps it from evaporating
 
-## feeds different colored water
+feeds different colored water
 
 so you can into the flower.
 
-## be sure all
+be sure all
 
-## the water
+the water
 
-## Each half of the flower with
+# Each half of the flower with
 
-## has been
+has been
 
-### the split stem turns a different
+the split stem turns a different
 
-## absorbed by
+absorbed by
 
 color.
 
-## One half of the split stem
+# One half of the split stem
 
 the plant.
 
-## feeds red water into it
+feeds red water into it
 
-## and the other half
+and the other half
 
 feeds blue water.
 
-## Red and
+# Red and
 
-## green flower
+green flower
 
-## HOT AND COLD
+# HOT AND COLD
 
 Something that is hot, like a hot drink,
 
@@ -2854,143 +2854,143 @@ feels very different from something cold
 
 like ice cream.
 
-## But both sensations are
+# But both sensations are
 
 caused by the same thing: heat.
 
-### difference is that cold objects contain
+difference is that cold objects contain
 
 less heat than hot ones.
 
-## Our bodies make
+# Our bodies make
 
 heat from our food.
 
-## We also get heat
+# We also get heat
 
 from the Sun and from burning fuels.
 
 How hot?
 
-## A thermometer measures
+# A thermometer measures
 
 the “temperature,” which is
 
-## how hot or cold something
+how hot or cold something
 
-## Temperature is measured
+# Temperature is measured
 
 in units called “degrees.
 
-## ” Fire and flames
+” Fire and flames
 
 This thermometer is Heating some materials
 
 showing a temperature makes them catch fire.
 
-## This
+# This
 
 of 36.
 
-## 6 degrees.
+6 degrees.
 
-## has happened to the trees
+has happened to the trees
 
 in this forest.
 
-## The flames
+# The flames
 
 of the fire produce heat, so
 
-## that more material starts to
+that more material starts to
 
 burn and the fire spreads.
 
-## A ball of fire
+# A ball of fire
 
-### The Sun is a huge ball of very
+# The Sun is a huge ball of very
 
 hot gas.
 
-## It glows with light and
+# It glows with light and
 
-### creates vast amounts of heat in
+creates vast amounts of heat in
 
 the form of invisible heat rays.
 
-## Keeping cool
+# Keeping cool
 
-## These travel through space
+# These travel through space
 
-## You wear thin
+# You wear thin
 
 and warm the Earth.
 
-## clothes in hot
+clothes in hot
 
 weather.
 
-## These
+# These
 
-## allow heat to
+allow heat to
 
-## escape from your
+escape from your
 
 body, so you do
 
 not get too hot.
 
-## Staying warm
+# Staying warm
 
-## You wear thick clothes
+# You wear thick clothes
 
 in cold weather.
 
-## These
+# These
 
-## keep you warm because
+keep you warm because
 
-## they keep heat from
+they keep heat from
 
 escaping your body.
 
-## Hot and cold
+# Hot and cold
 
-## Build a simple thermometer
+# Build a simple thermometer
 
-### A thermometer usually has a thin
+# A thermometer usually has a thin
 
 You will need:
 
-## Modeling
+# Modeling
 
 tube of colored liquid.
 
-## This liquid
+# This liquid
 
-## clay
+clay
 
 moves up and down inside the tube,
 
-## Clear straw
+# Clear straw
 
-### which is marked with a scale showing
+which is marked with a scale showing
 
 degrees.
 
-### The level of the liquid in the
+# The level of the liquid in the
 
 tube indicates the temperature.
 
-## Cold Food Colored Glass
+# Cold Food Colored Glass
 
 Card Scissors water coloring markers bottle
 
-## The seal must
+# The seal must
 
 be airtight.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pour cold water into the bottle Put a straw in the bottle Blow gently into the straw.
 
@@ -3000,7 +3000,7 @@ so that it dips in the water.
 
 Seal The water rises up it.
 
-## Stop when
+# Stop when
 
 Add a few drops of food coloring.
 
@@ -3012,37 +3012,37 @@ The black mark shows The red mark The blue mark
 
 a normal temperature.
 
-### shows a high (warm) shows a low (cool)
+shows a high (warm) shows a low (cool)
 
 temperature.
 
 temperature.
 
-## The air inside the
+# The air inside the
 
-### Heat makes the bottle contracts as
+# Heat makes the bottle contracts as
 
-### air inside the bottle it cools
+air inside the bottle it cools
 
-## sucking the
+sucking the
 
-### expand and push the water back down
+expand and push the water back down
 
 water up the straw.
 
 the straw.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
-## Cut two Put the Put the
+# Cut two Put the Put the
 
 slits in the card.
 
-## thermometer thermometer
+thermometer thermometer
 
 Slide it over the in a warm place.
 
-## in a refrigerator
+in a refrigerator
 
 straw.
 
@@ -3058,11 +3058,11 @@ in red.
 
 Mark it in blue.
 
-## Hot and cold
+# Hot and cold
 
-## Race some beads
+# Race some beads
 
-## Heat spreads better through
+# Heat spreads better through
 
 You will need:
 
@@ -3070,25 +3070,25 @@ some materials than others.
 
 Show how well some common Beads Wooden spoon Drinking straw
 
-## materials “conduct” (spread)
+materials “conduct” (spread)
 
 heat through them.
 
-## Good
+# Good
 
 conductors take in most heat.
 
-## Butter or
+# Butter or
 
 Glass beaker margarine Metal spoon Plastic spoon
 
-## Pour in hot
+# Pour in hot
 
 water.
 
-## Heat moves up
+# Heat moves up
 
-## the spoons and straw
+the spoons and straw
 
 and melts the butter.
 
@@ -3096,31 +3096,31 @@ Use butter to stick one bead to The bead that falls
 
 each of the spoons and to the straw.
 
-## first was stuck to the
+first was stuck to the
 
 Stand them in the beaker.
 
 best conductor.
 
-## Circulate some heat
+# Circulate some heat
 
-## Show how heat moves around
+# Show how heat moves around
 
 You will need:
 
 a liquid.
 
-## This movement is
+# This movement is
 
 called “convection.
 
-## ” It happens
+” It happens
 
-## Dropper Wooden blocks
+# Dropper Wooden blocks
 
 in air, too.
 
-## When you put a
+# When you put a
 
 heater on in a room, its heat
 
@@ -3128,9 +3128,9 @@ spreads by convection.
 
 Heatproof glass dish Candle Food coloring Cooking oil
 
-## 1. 3.
+# 1. 3.
 
-## Put the Warm currents
+# Put the Warm currents
 
 candle between The oil at the circulate in the oil.
 
@@ -3144,33 +3144,33 @@ the candle.
 
 to the bottom.
 
-## Pour cooking
+# Pour cooking
 
-## oil into the dish As the oil
+oil into the dish As the oil
 
-## Drops
+# Drops
 
 and place it gets hotter,
 
-## of food
+of food
 
 on the blocks.
 
 it rises.
 
-## coloring
+coloring
 
-## Put drops of
+# Put drops of
 
-## food coloring
+food coloring
 
 at the bottom.
 
-## Hot and cold
+# Hot and cold
 
-## Keep a drink cool
+# Keep a drink cool
 
-## When a liquid evaporates and
+# When a liquid evaporates and
 
 You will need:
 
@@ -3178,7 +3178,7 @@ changes into a gas, it takes in
 
 heat from its surroundings.
 
-### Refrigerators use this principle
+# Refrigerators use this principle
 
 to keep things cool.
 
@@ -3186,17 +3186,17 @@ making your own refrigerator.
 
 Two drink cans Glass dish Pitcher of water Flowerpot Spray bottle
 
-## This can will This can will
+# This can will This can will
 
-## warm up in stay cool
+warm up in stay cool
 
 the Sun’s rays.
 
-## during the
+during the
 
 experiment.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Do this experiment on a sunny Cover the can in the dish with Leave the flowerpot to stand
 
@@ -3208,35 +3208,35 @@ Place one a flowerpot.
 
 Pour cold water over in the Sun’s rays.
 
-## Spray it with
+# Spray it with
 
-## in the sunshine
+in the sunshine
 
 and the other in a the flowerpot until it is fully soaked.
 
-### water now and again to prevent
+water now and again to prevent
 
 glass dish.
 
 it from drying out.
 
-### As the water evaporates from the wet
+# As the water evaporates from the wet
 
 flowerpot, it takes heat from inside
 
 the flowerpot.
 
-## This draws heat from
+# This draws heat from
 
 the can and keeps the drink cool.
 
-## Shivering swimmers
+# Shivering swimmers
 
-## It is quite common to shiver
+# It is quite common to shiver
 
 soon after emerging from the 4.
 
-## After about an
+# After about an
 
 ocean or a pool, even if the
 
@@ -3244,9 +3244,9 @@ hour, take both cans
 
 weather is not particularly cold.
 
-## and taste the drink
+and taste the drink
 
-## As the water evaporates from
+# As the water evaporates from
 
 from each one.
 
@@ -3256,31 +3256,31 @@ heat from your body, making
 
 you feel cold.
 
-## It is good to have a
+# It is good to have a
 
 towel ready to wrap yourself in!
 
-## You will notice
+# You will notice
 
-## that the drink from
+that the drink from
 
-## the can that has been
+the can that has been
 
-## exposed to the Sun is
+exposed to the Sun is
 
 the warmest.
 
-## The wet
+# The wet
 
-## flowerpot acts like a
+flowerpot acts like a
 
-## refrigerator and keeps
+refrigerator and keeps
 
 the other drink cool.
 
-## Hot and cold
+# Hot and cold
 
-## Store some heat
+# Store some heat
 
 Hot drinks lose heat easily, so they
 
@@ -3288,13 +3288,13 @@ You will need:
 
 soon cool down.
 
-## Make a heat store
+# Make a heat store
 
 and keep some warm water in it.
 
-## Tape Wide cork
+# Tape Wide cork
 
-### The store helps stop heat from
+# The store helps stop heat from
 
 escaping, so the water inside it
 
@@ -3302,35 +3302,35 @@ stays warmer for much longer.
 
 Big jar Small jar Small Warm Aluminum Scissors
 
-### with lid with lid glass water foil
+with lid with lid glass water foil
 
-### The lids stop the Heat leaves the
+# The lids stop the Heat leaves the
 
-### heat from escaping sides and top
+heat from escaping sides and top
 
 upward.
 
 of the glass.
 
-## The shiny foil
+# The shiny foil
 
-## helps keep
+helps keep
 
-## heat in the
+heat in the
 
 small jar.
 
-## Heat does not pass easily
+# Heat does not pass easily
 
-## through the cork and the
+through the cork and the
 
 air in the large jar.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Wrap two layers of foil tightly Pour warm water into the Place the cork in the bottom of
 
-## around the small jar
+around the small jar
 
 with the shiny small jar and the glass.
 
@@ -3346,39 +3346,39 @@ on it.
 
 Put the lid on the big jar.
 
-## Heat barrier
+# Heat barrier
 
-## A thermos keeps drinks hot or
+# A thermos keeps drinks hot or
 
 Water in the cold.
 
-## It has two containers with
+# It has two containers with
 
-## glass loses heat tight lids
+glass loses heat tight lids
 
 like your heat store.
 
 more quickly The inner container has shiny
 
-## than in the
+than in the
 
-## sides and a double wall with
+sides and a double wall with
 
 small jar.
 
 a “vacuum,” or empty space,
 
-## The water in
+# The water in
 
 inside.
 
-### It is so difficult for heat to
+# It is so difficult for heat to
 
-## the small jar
+the small jar
 
-### leave or enter the flask that its
+leave or enter the flask that its
 
-## stays warmer
+stays warmer
 
 contents stay hot,
 
@@ -3388,57 +3388,57 @@ or remain cold,
 
 for a long time.
 
-## Shiny sides
+# Shiny sides
 
-## Liquid
+# Liquid
 
-## After ten minutes
+# After ten minutes
 
 take out the small jar.
 
-## The water Vacuum
+# The water Vacuum
 
-## in it is still warm
+in it is still warm
 
 but the water in the glass has cooled.
 
-## Hot and cold
+# Hot and cold
 
-## Fight a fire
+# Fight a fire
 
-### Light a candle—and then put out the
+Light a candle—and then put out the
 
 You will need:
 
 flame, as if by magic!
 
-## This can be done
+# This can be done
 
-### because things burn only if they get
+because things burn only if they get
 
-## Spoon
+# Spoon
 
 oxygen from the air.
 
-## Take away the Sodium
+# Take away the Sodium
 
-## bicarbonate
+bicarbonate
 
 supply of oxygen, and the fire goes out.
 
 Matches Candle Vinegar Glass dish Modeling clay
 
-## The top of the
+# The top of the
 
-## candle must be
+candle must be
 
-## lower than the
+lower than the
 
 top of the dish.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-## Using the modeling clay
+# Using the modeling clay
 
 stick Sprinkle some sodium Ask an adult to light
 
@@ -3454,27 +3454,27 @@ sodium bicarbonate fills the glass and covers
 
 release bubbles of the flame.
 
-## It cuts off the
+# It cuts off the
 
 carbon dioxide gas.
 
 oxygen supply.
 
-## The match
+# The match
 
-## goes out as
+goes out as
 
-### The froth As the candle it enters the
+# The froth As the candle it enters the
 
 must not burns, it takes carbon dioxide.
 
-## reach the in oxygen
+reach the in oxygen
 
 flame.
 
 from the air.
 
-## 4. 5.
+# 4. 5.
 
 Add some vinegar.
 
@@ -3486,19 +3486,19 @@ Suddenly, the flame goes
 
 out, but you cannot see why.
 
-## Battling the flames
+# Battling the flames
 
-### Firefighters cover a fire with a
+# Firefighters cover a fire with a
 
 layer of water, foam, or carbon
 
 dioxide.
 
-## This layer stops air from
+# This layer stops air from
 
 reaching the flames.
 
-## To go on
+# To go on
 
 burning, the fire needs oxygen
 
@@ -3508,43 +3508,43 @@ Without oxygen,
 
 the fire goes out.
 
-## Try to light the candle
+# Try to light the candle
 
 again.
 
 It’s impossible!
 
-## Hot and cold
+# Hot and cold
 
-## Slice some ice
+# Slice some ice
 
-## Cut right through an ice
+# Cut right through an ice
 
 You will need: Plastic
 
 cube—and leave it in one piece!
 
-## bottle of
+bottle of
 
-### You do not use a knife for this water
+# You do not use a knife for this water
 
 amazing trick.
 
-### You just cut the Steel fork Thin wire
+# You just cut the Steel fork Thin wire
 
 ice with a piece of wire.
 
-### Aluminum foil Tape Ice cube Heavy book
+# Aluminum foil Tape Ice cube Heavy book
 
-## Knot the ends of the
+# Knot the ends of the
 
 wire tightly together.
 
-## Make sure the
+# Make sure the
 
 fork cannot move.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Tape the fork to the table edge.
 
@@ -3556,57 +3556,57 @@ it securely to the bottle.
 
 of foil on the fork.
 
-## 4. 5.
+# 4. 5.
 
 Loop the Slowly,
 
-### wire over the ice the wire cuts
+wire over the ice the wire cuts
 
 cube.
 
-## The weight right through
+# The weight right through
 
 of the bottle the ice cube.
 
-## When the
+# When the
 
 pulls the wire The wire pulls pressure from
 
-## the wire has
+the wire has
 
 into the ice.
 
-## so hard that its
+so hard that its
 
 gone, the water
 
-## pressure makes
+pressure makes
 
 freezes again.
 
-## the ice beneath
+the ice beneath
 
 it melt.
 
-## Speed on the ice
+# Speed on the ice
 
 Skaters can skim quickly over ice.
 
-### Their weight causes a film of water to
+# Their weight causes a film of water to
 
-### form just beneath the blades of their
+form just beneath the blades of their
 
 skates.
 
-## The skates slide easily along
+# The skates slide easily along
 
 on this slippery film.
 
-## The blades are
+# The blades are
 
 slightly curved at the bottom so they 6.
 
-### Pick up the cube after the wire
+# Pick up the cube after the wire
 
 grip the ice, even when at an angle.
 
@@ -3614,25 +3614,25 @@ has passed right through it.
 
 cube is still all in one piece!
 
-## Hot and cold
+# Hot and cold
 
-## Make your own ice cream
+# Make your own ice cream
 
-## Make some tasty ice cream
+# Make some tasty ice cream
 
 You will need:
 
-## and find out how to make
+and find out how to make
 
-## things freeze without putting
+things freeze without putting
 
 them in the freezer.
 
-## This is an Chocolate milk
+# This is an Chocolate milk
 
-## Cream powder Salt Large bowl
+# Cream powder Salt Large bowl
 
-## old-fashioned way of making
+old-fashioned way of making
 
 ice cream.
 
@@ -3640,17 +3640,17 @@ It still works well.
 
 Ice cubes Dish towel Tablespoon Glass Milk
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-## Mix one spoon of chocolate
+# Mix one spoon of chocolate
 
 Put some ice cubes in the Place the glass of ice-cream
 
-## two spoons of milk
+two spoons of milk
 
 and one spoon bowl and sprinkle a lot of salt mixture in the large bowl
 
-## on top
+on top
 
 of cream in the glass.
 
@@ -3662,27 +3662,27 @@ The ice needs heat to melt.
 
 It takes this from the ice-cream The towel helps stop
 
-## mixture
+mixture
 
-### which gets so heat getting into the
+which gets so heat getting into the
 
 cold that it freezes.
 
 bowl from outside.
 
-## When salt is
+# When salt is
 
 mixed with ice,
 
-## it makes the ice
+it makes the ice
 
 melt.
 
-## It also
+# It also
 
 makes it colder.
 
-## 4. 5.
+# 4. 5.
 
 Build up more layers of ice Place the dish towel over the
 
@@ -3690,21 +3690,21 @@ cubes and salt around the glass.
 
 bowl.
 
-## Leave the ice-cream mixture
+# Leave the ice-cream mixture
 
 to set for an hour.
 
-## Stir it every
+# Stir it every
 
 few minutes.
 
-## Spikes of ice
+# Spikes of ice
 
-### Icicles form where water drips
+# Icicles form where water drips
 
 over the edge of a cold surface.
 
-## The cold surface draws heat
+# The cold surface draws heat
 
 from the water, which turns to
 
@@ -3714,7 +3714,7 @@ An icicle begins to form.
 
 more water runs down the ice 6.
 
-## Take the glass out of the
+# Take the glass out of the
 
 and freezes, the icicle grows.
 
@@ -3722,115 +3722,115 @@ bowl, and taste your homemade
 
 chocolate ice cream.
 
-## LIGHT
+# LIGHT
 
-### Light makes it possible for you to see
+# Light makes it possible for you to see
 
 the world around you.
 
-## Sources of
+# Sources of
 
 light, such as the Sun and light bulbs,
 
 produce light rays.
 
-## These bounce off
+# These bounce off
 
 objects, such as this book.
 
-## The rays
+# The rays
 
 then enter your eyes, and you see the
 
 objects.
 
-## We use light to form
+# We use light to form
 
 “images” or pictures of things.
 
 Too small to be seen?
 
-## You can see very tiny objects
+# You can see very tiny objects
 
 Broken and bent?
 
 or creatures with a microscope.
 
-## The pen standing in this
+# The pen standing in this
 
-## The image you see is highly
+# The image you see is highly
 
-## glass of water is in fact
+glass of water is in fact
 
 “magnified,” or much bigger than
 
 straight.
 
-## It looks strange
+# It looks strange
 
 the actual object or creature.
 
-## because water bends the
+because water bends the
 
-## light rays coming from
+light rays coming from
 
 the pen to your eyes.
 
-## Mirror images
+# Mirror images
 
-## You can see images
+# You can see images
 
 of things in mirrors.
 
-## curved mirrors at the front
+curved mirrors at the front
 
-## and back form large and
+and back form large and
 
 small images.
 
-## Quick as a flash
+# Quick as a flash
 
-## This camera makes a bright
+# This camera makes a bright
 
-## flash to give enough light
+flash to give enough light
 
 to take a photograph.
 
-## The light travels from the
+# The light travels from the
 
-## camera to the girl in two
+camera to the girl in two
 
 billionths of a second.
 
-## Light
+# Light
 
-## Play with shadows
+# Play with shadows
 
-## Scare your friends by casting
+# Scare your friends by casting
 
 You will need:
 
-### some spooky shadows on the Thin card
+some spooky shadows on the Thin card
 
 wall!
 
-## This will also show you
+# This will also show you
 
 how light travels in straight Scissors Pencil Tape
 
 lines.
 
-## Shadows form when
+# Shadows form when
 
 an object blocks the light.
 
 Thin sticks Bright flashlight Tracing paper
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Trace patterns of ghosts from Transfer your ghost patterns Carefully cut out the ghost
 
-## a book
+a book
 
 or invent some of your own from the tracing paper to the pieces patterns and tape each one to the
 
@@ -3840,9 +3840,9 @@ of thin card.
 
 end of a stick.
 
-## The shadow has the same shape
+# The shadow has the same shape
 
-### as the card because the rays of
+as the card because the rays of
 
 The shadow forms where light are straight and cannot bend
 
@@ -3850,15 +3850,15 @@ the rays are blocked by card around the edges of the card.
 
 and cannot reach the wall.
 
-## Sunny time
+# Sunny time
 
-## You can tell the time with
+# You can tell the time with
 
 a sundial.
 
-## The Sun casts a
+# The Sun casts a
 
-## shadow of a tilted bar on to
+shadow of a tilted bar on to
 
 a set of lines, which mark the
 
@@ -3866,9 +3866,9 @@ hours.
 
 Throughout the day,
 
-### 4. the shadow moves as the Sun
+# 4. the shadow moves as the Sun
 
-## Hold the patterns near the
+# Hold the patterns near the
 
 travels across the sky.
 
@@ -3876,7 +3876,7 @@ Rays of light come wall.
 
 Shine a flashlight on them,
 
-## position of the shadow on
+position of the shadow on
 
 from the flashlight and large shadows of the ghosts
 
@@ -3886,65 +3886,65 @@ and light up the wall.
 
 appear on the wall!
 
-## Light
+# Light
 
-## Look around corners
+# Look around corners
 
 Build a periscope.
 
-## You can
+# You can
 
 You will need:
 
-## use it to see over walls or
+use it to see over walls or
 
-## Make these two
+# Make these two
 
 people’s heads, and to peep
 
-## sides the same
+sides the same
 
 around corners.
 
-### A periscope Two small mirrors Tall
+# A periscope Two small mirrors Tall
 
-## empty carton
+empty carton
 
 length.
 
-## works by using mirrors
+works by using mirrors
 
 to reflect rays of light.
 
-## Triangular card Scissors Pen
+# Triangular card Scissors Pen
 
-## 1. 2.
+# 1. 2.
 
-## Use the Carefully cut a
+# Use the Carefully cut a
 
 triangular card slot along each line.
 
-### to help you draw slots should be just
+to help you draw slots should be just
 
-### two diagonal wide enough for the
+two diagonal wide enough for the
 
 lines on one side mirrors to fit into.
 
 of the carton.
 
-## 3. 4.
+# 3. 4.
 
-## Draw Carefully push
+# Draw Carefully push
 
-## The shiny side of
+# The shiny side of
 
-### and cut two the mirrors into the
+and cut two the mirrors into the
 
-## the top mirror
+the top mirror
 
 more slots on slots.
 
-## They should
+# They should
 
 faces downward.
 
@@ -3952,49 +3952,49 @@ the other side fit snugly, so
 
 of the carton.
 
-## they cannot
+they cannot
 
-## slide out of
+slide out of
 
 the carton.
 
-## These slots
+# These slots
 
-## must be directly
+must be directly
 
-## opposite the
+opposite the
 
 first slots.
 
-## The shiny side of
+# The shiny side of
 
-## the bottom mirror
+the bottom mirror
 
 faces upward.
 
-## Light
+# Light
 
-## 5. 6.
+# 5. 6.
 
-## Draw a Make a small
+# Draw a Make a small
 
-### large square at hole with a pencil
+large square at hole with a pencil
 
-### the top of the in the back of the
+the top of the in the back of the
 
 carton in front carton.
 
-## Now your
+# Now your
 
 of the mirror.
 
 periscope is ready.
 
-## Carefully cut
+# Carefully cut
 
 it out.
 
-## Make the hole at
+# Make the hole at
 
 the bottom, level
 
@@ -4002,117 +4002,117 @@ with the mirror.
 
 What’s up there?
 
-## When a submarine is under
+# When a submarine is under
 
 water, the crew may want to
 
 see above the waves.
 
-## They may
+# They may
 
-## need to find out if there are
+need to find out if there are
 
 any ships nearby.
 
-## They raise
+# They raise
 
 Light rays a periscope to the surface of
 
-## enter through
+enter through
 
 the water and look around.
 
 the square.
 
-### periscope has a long tube that
+periscope has a long tube that
 
-## They reflect
+# They reflect
 
-### reflects light rays from above the
+reflects light rays from above the
 
-## from the top
+from the top
 
-## surface of the water down to
+surface of the water down to
 
-## mirror to the
+mirror to the
 
 bottom one.
 
 the submarine.
 
-## A member of the
+# A member of the
 
-### crew looks into it to see what is
+crew looks into it to see what is
 
 going on above the submarine.
 
-## The periscope may then be
+# The periscope may then be
 
 brought back down again.
 
-## Look into the hole
+# Look into the hole
 
-## to see around corners
+to see around corners
 
 or over obstacles.
 
-## The bottom mirror reflects
+# The bottom mirror reflects
 
-## the light rays so that they
+the light rays so that they
 
 can enter your eye.
 
-## You see
+# You see
 
-## an image of the scene at
+an image of the scene at
 
 the level of the top mirror.
 
-## Light
+# Light
 
-## Build a kaleidoscope
+# Build a kaleidoscope
 
-## Use mirrors and beads to make
+# Use mirrors and beads to make
 
 You will need:
 
 a colorful kaleidoscope.
 
-## All you
+# All you
 
-## Sharp pencil
+# Sharp pencil
 
 have to do is shake it,
 
 and beautiful patterns form,
 
-## Flashlight
+# Flashlight
 
 one after another.
 
-## Card and Three small
+# Card and Three small
 
 Tape Beads Scissors tracing paper mirrors
 
-## The shiny
+# The shiny
 
 sides go inside.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Tape the three mirrors Draw around the mirrors Cut out the triangle.
 
-## Use a
+# Use a
 
 together to form a triangle.
 
 on the card.
 
-### pencil to make a hole in the middle
+pencil to make a hole in the middle
 
 of it.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Tape the triangle to one end of Stretch the tracing paper over Drop some beads through
 
@@ -4122,15 +4122,15 @@ the other end of the mirrors.
 
 Tape the hole.
 
-## Your kaleidoscope is
+# Your kaleidoscope is
 
 it firmly in place.
 
 now ready.
 
-## Light
+# Light
 
-### Shine the flashlight onto the You
+# Shine the flashlight onto the You
 
 you, you
 
@@ -4142,33 +4142,33 @@ the hole, into the kaleidoscope.
 
 two parallel mirrors.
 
-## This is
+# This is
 
 You see several images of the because they keep reflecting
 
-## beads combined
+beads combined
 
 forming a light rays between them.
 
 pattern.
 
-## Shake the kaleidoscope
+# Shake the kaleidoscope
 
 to change the pattern.
 
-## The mirrors reflect
+# The mirrors reflect
 
-## light from the beads
+light from the beads
 
-## to form several
+to form several
 
 images of them.
 
-## See double
+# See double
 
 Use water to turn one button into two!
 
-## This
+# This
 
 You will need:
 
@@ -4176,7 +4176,7 @@ trick depends on the way rays of light bend
 
 as they enter and leave water and glass.
 
-## This
+# This
 
 bending of light rays is called “refraction.
 
@@ -4184,11 +4184,11 @@ Refraction also makes a straight ruler look
 
 bent when it is standing in water.
 
-## Glass Pitcher of water Button
+# Glass Pitcher of water Button
 
-## Two sets of bending
+# Two sets of bending
 
-### The button light rays from the
+# The button light rays from the
 
 must not float.
 
@@ -4196,7 +4196,7 @@ button reach your eyes,
 
 so you see it twice.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Put the button into the glass.
 
@@ -4206,99 +4206,99 @@ Try to get it to lie right in the into the glass until it is half full.
 
 one side.
 
-## It looks as if there are two
+# It looks as if there are two
 
 middle of the glass.
 
 buttons in the glass!
 
-## Light
+# Light
 
-## Make your own flashlight
+# Make your own flashlight
 
-## We need light to drive out
+# We need light to drive out
 
 You will need:
 
-### darkness—and we use electricity
+darkness—and we use electricity
 
 to make that light.
 
-## Without
+# Without
 
-## Sharp pencil
+# Sharp pencil
 
 electricity, we would have no safe
 
 Two 1.
 
-## 5 V Two paper
+5 V Two paper
 
 light in our homes or streets.
 
 batteries fasteners Screwdriver Aluminum foil
 
-### can carry your own source of light
+can carry your own source of light
 
 with you if you have a flashlight.
 
-## Press the switch
+# Press the switch
 
 and a beam of Paper clip Bulb in holder Cotton Scissors
 
 light cuts through the darkness.
 
-### Batteries in the flashlight provide
+# Batteries in the flashlight provide
 
-### Three pieces of wire Empty dish-
+# Three pieces of wire Empty dish-
 
 the electricity it needs.
 
-### with bare ends Tape washing bottle
+with bare ends Tape washing bottle
 
-## The bottle should
+# The bottle should
 
 have no cap.
 
-## Holes
+# Holes
 
-## 1. 2.
+# 1. 2.
 
 Cut off the top of the bottle.
 
-## Using the pencil
+# Using the pencil
 
 Tape foil to the inside of the bottle top.
 
-## Make sure
+# Make sure
 
-### make two small holes in the side
+make two small holes in the side
 
 as shown.
 
 the shiny side faces outward.
 
-## Tape the top
+# Tape the top
 
-## of one battery
+of one battery
 
-## to the base of
+to the base of
 
 the other.
 
-## Make sure the
+# Make sure the
 
-## wires cannot
+wires cannot
 
 come loose.
 
-## 3. 4. 5.
+# 3. 4. 5.
 
-## Using the screwdriver
+# Using the screwdriver
 
 attach Tape the batteries together.
 
-## Tape one of the wires from
+# Tape one of the wires from
 
 two of the pieces of wire firmly to Then tape the third piece of wire the bulb-holder to the terminal
 
@@ -4308,21 +4308,21 @@ to the lower battery.
 
 on the top battery.
 
-## Light
+# Light
 
-## Push cotton
+# Push cotton
 
-## around the
+around the
 
-## batteries to
+batteries to
 
-## hold them
+hold them
 
-## firmly in
+firmly in
 
 place.
 
-## 6. 7. 8.
+# 6. 7. 8.
 
 Thread the wire from the Thread the wire from the bulb- Place the bulb-holder on the
 
@@ -4338,39 +4338,39 @@ and insert the batteries.
 
 fasteners, then push in the fasteners.
 
-## Bend the Closing the switch
+# Bend the Closing the switch
 
 paper clip and fit lets electricity flow
 
-## from the batteries
+from the batteries
 
-## one end under
+one end under
 
-## along the wires to
+along the wires to
 
-## the lower paper
+the lower paper
 
 the bulb.
 
 fastener.
 
-## This is
+# This is
 
 the switch.
 
-## Bright bulb
+# Bright bulb
 
 A light-emitting diode, also
 
-## The light reflects
+# The light reflects
 
-## known as LED
+known as LED
 
-### creates light by from the shiny
+creates light by from the shiny
 
-## electroluminescence
+electroluminescence
 
-## which foil to produce
+which foil to produce
 
 means it lights up when electricity a bright beam
 
@@ -4378,11 +4378,11 @@ passes through it.
 
 When an LED of light.
 
-## The bulb lights
+# The bulb lights
 
-## is switched on
+is switched on
 
-### electricity activates up as electricity
+electricity activates up as electricity
 
 tiny particles called electrons flows through it.
 
@@ -4392,19 +4392,19 @@ As they move,
 
 they release energy as bright light.
 
-## Press the other end
+# Press the other end
 
-## of the paper clip against
+of the paper clip against
 
 the top fastener.
 
 flashlight lights up!
 
-## Light
+# Light
 
-## Construct a camera
+# Construct a camera
 
-## Build a model of a simple
+# Build a model of a simple
 
 You will need:
 
@@ -4412,11 +4412,11 @@ camera, to show how it
 
 works.
 
-## Your model camera
+# Your model camera
 
 uses a magnifying glass to Tape Magnifying glass
 
-## Empty
+# Empty
 
 form a picture, just as the tissue box
 
@@ -4424,17 +4424,17 @@ lens in a real camera does.
 
 Tracing paper Cardboard tube Pen Scissors
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-## Hold Push the
+# Hold Push the
 
 the tube on the Carefully cut tube into the
 
 side of the box out the circle hole.
 
-## The tube
+# The tube
 
-### opposite the you have should move
+opposite the you have should move
 
 opening.
 
@@ -4444,35 +4444,35 @@ around it.
 
 tissue box.
 
-## 4. 5.
+# 4. 5.
 
-## Tape the Tape the
+# Tape the Tape the
 
-## magnifying tracing paper
+magnifying tracing paper
 
-## glass firmly over the
+glass firmly over the
 
-## to the end of opening in the
+to the end of opening in the
 
 the tube.
 
 box.
 
-## Now you
+# Now you
 
-## can use your
+can use your
 
 model camera.
 
-## Move the tube in
+# Move the tube in
 
-## and out until the
+and out until the
 
 image is sharp.
 
-## Taking photographs
+# Taking photographs
 
-### A real camera has a lens like the
+# A real camera has a lens like the
 
 magnifying glass, and a memory
 
@@ -4480,11 +4480,11 @@ card in place of the tracing paper.
 
 When you take a photograph,
 
-### light passes through the lens and
+light passes through the lens and
 
 forms an image upside down,
 
-### which is recorded on the memory
+which is recorded on the memory
 
 card.
 
@@ -4492,65 +4492,65 @@ You can view this image on The magnifying
 
 your camera’s glass is a lens.
 
-## screen or makes the rays
+screen or makes the rays
 
-## on your of light from the
+on your of light from the
 
-## flowers bend and
+flowers bend and
 
 computer.
 
 meet on the paper.
 
-## An image forms where
+# An image forms where
 
 the rays of light meet.
 
-## Point the camera
+# Point the camera
 
-## It is back to front and
+# It is back to front and
 
 at a bright object.
 
 upside down.
 
-## image of it appears
+image of it appears
 
 on the tracing paper.
 
-## Light
+# Light
 
-## Bend a beam of light
+# Bend a beam of light
 
-## Light travels in straight
+# Light travels in straight
 
 You will need:
 
 lines, but its path can Nail
 
-## Paintbrush Black acrylic
+# Paintbrush Black acrylic
 
-### be altered by reflecting it paint
+be altered by reflecting it paint
 
-## Modeling
+# Modeling
 
 off other surfaces.
 
-## This
+# This
 
-## clay Plastic
+clay Plastic
 
-### experiment uses the reflective funnel
+experiment uses the reflective funnel
 
-## properties of water to bend
+properties of water to bend
 
 the path of a light beam.
 
-### Pile of Flexible Pitcher Clear plastic
+# Pile of Flexible Pitcher Clear plastic
 
 books straw Pliers Flashlight of water Glass dish bottle
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Paint one vertical half of the Ask an adult to make a hole Push the end of a flexible straw
 
@@ -4558,31 +4558,31 @@ plastic bottle black and let it dry.
 
 about 2.
 
-### 4 in (6 cm) up from the into the hole.
+4 in (6 cm) up from the into the hole.
 
-## Press modeling clay
+# Press modeling clay
 
 base on the black side.
 
 A heated around the hole to prevent leaks.
 
-## nail makes a neat
+nail makes a neat
 
-## round hole
+round hole
 
-### but Plug the end of the straw with
+but Plug the end of the straw with
 
 it must be held with pliers.
 
 modeling clay.
 
-## Light cannot Light messages
+# Light cannot Light messages
 
-### escape the Telephone conversations and
+escape the Telephone conversations and
 
 stream’s sides computer data are often sent
 
-## and follows
+and follows
 
 along cables as pulses of light.
 
@@ -4590,71 +4590,71 @@ its path.
 
 Inside the cables, the light
 
-## travels along very thin glass
+travels along very thin glass
 
-## Light reflects
+# Light reflects
 
 threads called optical fibers.
 
-## back and
+back and
 
-## The light bounces along the
+# The light bounces along the
 
-## forth between
+forth between
 
-### optical fibers as it reflects off
+optical fibers as it reflects off
 
-## the stream’s
+the stream’s
 
 the sides of the glass threads.
 
 sides.
 
-## 4. 5.
+# 4. 5.
 
 Fill the bottle with water.
 
 Turn out the light.
 
-## Shine a
+# Shine a
 
 Place it on a pile of books and flashlight at the hole from the bottle’s
 
 position a glass dish underneath clear side.
 
-## Remove the plug from the
+# Remove the plug from the
 
 the straw.
 
-### straw and put your finger under the
+straw and put your finger under the
 
 stream of water.
 
-## You will see a tiny
+# You will see a tiny
 
 spot of light dancing on your finger!
 
-## COLOR
+# COLOR
 
 Imagine a world without color.
 
-### It would be like living in an old
+# It would be like living in an old
 
 black-and-white movie!
 
-## Color helps
+# Color helps
 
 to bring beauty to our world.
 
-## There
+# There
 
 are beautiful colors in nature, and
 
-### we use color in our clothes and to
+we use color in our clothes and to
 
 decorate our homes.
 
-## Color is in the
+# Color is in the
 
 light that comes from objects.
 
@@ -4662,37 +4662,37 @@ light comes from red objects, for
 
 example.
 
-## We detect color when
+# We detect color when
 
 the light enters our eyes.
 
-## Color codes Curve of colors
+# Color codes Curve of colors
 
 We give colors certain A rainbow occurs when the
 
 meanings.
 
-## In traffic lights
+# In traffic lights
 
-## Sun lights up a shower of
+# Sun lights up a shower of
 
 red means “stop” and green rain.
 
-## The rain drops turn
+# The rain drops turn
 
 means “go.
 
-## ” the white sunlight into
+” the white sunlight into
 
 bands of color.
 
-## You can
+# You can
 
-## only see a rainbow if the
+only see a rainbow if the
 
 Sun is shining behind you.
 
-## Colors for camouflage
+# Colors for camouflage
 
 Some animals, such as this green
 
@@ -4700,11 +4700,11 @@ chameleon, have colors that match
 
 their surroundings.
 
-## This makes it hard
+# This makes it hard
 
 for other animals to spot them.
 
-## Colorful creatures
+# Colorful creatures
 
 Many animals, like these
 
@@ -4712,45 +4712,45 @@ beautiful butterflies, have
 
 bright colors.
 
-## These colors
+# These colors
 
-## may attract other animals
+may attract other animals
 
 or warn off enemies.
 
-## Color
+# Color
 
-## Make a rainbow
+# Make a rainbow
 
-## You can see a rainbow without
+# You can see a rainbow without
 
 You will need:
 
 having to wait for rain.
 
-## “White”
+“White”
 
-### or colorless light is in fact a
+or colorless light is in fact a
 
-## Modeling
+# Modeling
 
-## mixture of all colors of the
+mixture of all colors of the
 
-## clay
+clay
 
 rainbow.
 
-## Water can split this
+# Water can split this
 
 light into these colors.
 
 Mirror Jar of water Bright flashlight Shallow dish White card
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pour water into the shallow Put the mirror in the dish.
 
-### Shine the flashlight on the part
+# Shine the flashlight on the part
 
 dish until it is about half full.
 
@@ -4758,31 +4758,31 @@ Use modeling clay to fix it so that of the mirror that is under the water.
 
 it slopes.
 
-## As the white light from
+# As the white light from
 
-## the flashlight enters and
+the flashlight enters and
 
 leaves the water, it splits
 
 up into bands of color.
 
-## Inside a rainbow
+# Inside a rainbow
 
 When you see a rainbow, you
 
-## are seeing rays of light from
+are seeing rays of light from
 
 the Sun.
 
-## These rays of white
+# These rays of white
 
-## light have been reflected by
+light have been reflected by
 
 the drops of rain, which makes
 
 Hold the card above the dish.
 
-## them split up into all the
+them split up into all the
 
 A rainbow appears on it!
 
@@ -4790,53 +4790,53 @@ See how colors of the rainbow.
 
 many different colors there are.
 
-## may have to move the card
+may have to move the card
 
-## or flashlight before you
+or flashlight before you
 
 can see the rainbow.
 
-## Sun
+# Sun
 
-## Sun’s
+Sun’s
 
-## rays
+rays
 
-## Raindrop
+# Raindrop
 
-## The mirror reflects
+# The mirror reflects
 
-## the light from the
+the light from the
 
-## Colored rays Eye
+# Colored rays Eye
 
-## flashlight so that it
+flashlight so that it
 
 strikes the card.
 
-## Color
+# Color
 
-## See a sunset
+# See a sunset
 
-## The Sun often turns a lovely
+# The Sun often turns a lovely
 
 You will need:
 
-## orange or red when it sets at
+orange or red when it sets at
 
 dusk.
 
-## Find out why this happens
+# Find out why this happens
 
 by making your own sunset.
 
-### can do this using a flashlight and
+can do this using a flashlight and
 
 a glass of milky water.
 
 Milk Glass beaker of water Flashlight Spoon
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Shine the flashlight through Pour a little milk into the Stir the water gently
 
@@ -4846,13 +4846,13 @@ It looks white, water in the beaker.
 
 that it all turns slightly white.
 
-### like the Sun when it is high up
+like the Sun when it is high up
 
 in the sky.
 
-## 4. Rosy dawn and fiery dusk
+# 4. Rosy dawn and fiery dusk
 
-## Shine the flashlight
+# Shine the flashlight
 
 When the Sun is low in the sky,
 
@@ -4860,49 +4860,49 @@ through the water again.
 
 in the morning and evening, its
 
-## Now the light looks
+# Now the light looks
 
-## light passes through more air
+light passes through more air
 
 orange-red, just like
 
 than at other times of day.
 
-## Tiny
+# Tiny
 
 the setting Sun!
 
-### particles in the air stop much
+particles in the air stop much
 
 of the Sun’s light.
 
-## Only orange
+# Only orange
 
 and red light gets through.
 
-## Particles of milk in the
+# Particles of milk in the
 
-## water cut out some of the
+water cut out some of the
 
-## colors in the light coming
+colors in the light coming
 
 from the flashlight.
 
-## Only
+# Only
 
-## orange and red rays
+orange and red rays
 
 get through.
 
-## Color
+# Color
 
-## Discover hidden colors
+# Discover hidden colors
 
-### Paper that can soak up water can
+# Paper that can soak up water can
 
 You will need:
 
-### separate colors from ink or food
+separate colors from ink or food
 
 coloring.
 
@@ -4910,15 +4910,15 @@ This is because it soaks Dropper Paper clips
 
 up some colors faster than others.
 
-## Find the hidden colors
+# Find the hidden colors
 
 in dark liquids!
 
-## Colored inks and Narrow
+# Colored inks and Narrow
 
 food coloring Blotting paper Small jars rod
 
-## 1. 2.
+# 1. 2.
 
 In each jar, make Tear the blotting
 
@@ -4926,17 +4926,17 @@ a different mixture of paper into strips and
 
 inks and food coloring.
 
-## fasten these to the
+fasten these to the
 
 rod.
 
-## Place a drop of
+# Place a drop of
 
-## each mixture near
+each mixture near
 
-## The liquids turn
+# The liquids turn
 
-### dark as the colors the end of each
+dark as the colors the end of each
 
 mix together.
 
@@ -4950,21 +4950,21 @@ Blue, purple
 
 and blue and blue Brown and blue and brown
 
-## Clean out the jars
+# Clean out the jars
 
-## then pour Making paints
+then pour Making paints
 
 a little clear water into each one.
 
-### A pot of colored paint contains
+# A pot of colored paint contains
 
 Lower the paper strips into the jars more than one color
 
-## the colors
+the colors
 
 so that the ends just touch the are hidden.
 
-## Paints are made by
+# Paints are made by
 
 water.
 
@@ -4974,39 +4974,39 @@ move up and separate out into or coloring materials together.
 
 different colored bands.
 
-## Different mixtures give
+# Different mixtures give
 
 different shades.
 
-## Color
+# Color
 
-## Mix colors together
+# Mix colors together
 
-### Pictures in books like this one can
+# Pictures in books like this one can
 
 You will need:
 
 show all the colors of the rainbow.
 
-### Yet only three colors and black are
+# Yet only three colors and black are
 
 used to make them all.
 
-## Show how
+# Show how
 
-### you can mix two or three colors
+you can mix two or three colors
 
 to make any color you want.
 
-## Scissors Clear blue
+# Scissors Clear blue
 
-## yellow
+yellow
 
-## and red plastic sheets
+and red plastic sheets
 
-## Orange square
+# Orange square
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut the plastic sheets into Place yellow and blue strips Add a red strip to begin a
 
@@ -5016,35 +5016,35 @@ on a white surface.
 
 Green appears pattern of squares.
 
-## See how red
+# See how red
 
 where they overlap and the and yellow mix to form orange.
 
 colors mix.
 
-## Yellow and blue
+# Yellow and blue
 
 make green.
 
-## Purple
+# Purple
 
-## square
+square
 
-## Yellow and red
+# Yellow and red
 
 make orange.
 
-### Add another red strip to cross
+# Add another red strip to cross
 
 over the blue.
 
-## Purple forms where
+# Purple forms where
 
 the two colors mix.
 
-## Blue and
+# Blue and
 
-## red make
+red make
 
 purple.
 
@@ -5052,7 +5052,7 @@ Add more strips.
 
 Red, Bright yellow, red, or blue
 
-## form where the same
+form where the same
 
 blue, and yellow mix to form
 
@@ -5060,9 +5060,9 @@ colors overlap.
 
 several different colors.
 
-## Color
+# Color
 
-## Spin some colors
+# Spin some colors
 
 Ordinary white light, such
 
@@ -5072,127 +5072,127 @@ as sunlight, seems to have no
 
 color, but it contains all the
 
-## Paintbrushes
+# Paintbrushes
 
 colors of the rainbow!
 
-## Color
+# Color
 
-## Protractor
+# Protractor
 
-## a disk and spin it to show
+a disk and spin it to show
 
 this amazing fact.
 
 Violet, indigo, blue, green,
 
-## yellow
+yellow
 
-## orange
+orange
 
 and red paints Sharp pencil Water for paint
 
-## 1. 2.
+# 1. 2.
 
-### Cut out Make a hole in Spinning
+# Cut out Make a hole in Spinning
 
 a disk of white the center of the disk.
 
-## slowly
+slowly
 
 card.
 
-## Use the Push in the point of
+# Use the Push in the point of
 
 protractor to the pencil.
 
-## Spin the
+# Spin the
 
 mark seven disk.
 
-## The colors
+# The colors
 
 sections.
 
-## Paint disappear as they
+# Paint disappear as they
 
 each one a mix to form white!
 
-## Spinning
+# Spinning
 
-## fast
+fast
 
 different color.
 
-## Change color
+# Change color
 
-### An object gets its color by reflecting
+# An object gets its color by reflecting
 
 You will need:
 
-## Flashlight
+# Flashlight
 
 light.
 
-### Instead of reflecting all the colors
+# Instead of reflecting all the colors
 
 in light, it reflects only some.
 
-## Show
+# Show
 
-## Yellow
+# Yellow
 
-### how this happens by using colored
+how this happens by using colored
 
-## banana
+banana
 
 cellophane to let only certain colors Red playing
 
 reach your eyes from an object.
 
-## card
+card
 
-### Red and green Black box with holes in
+# Red and green Black box with holes in
 
-### cellophane one side and lid Green apple
+cellophane one side and lid Green apple
 
-## The red hearts do not
+# The red hearts do not
 
-## 1. reflect green light, so
+# 1. reflect green light, so
 
-## Put the objects
+# Put the objects
 
 they look black.
 
 in the box.
 
-## Place green
+# Place green
 
-## The yellow banana
+# The yellow banana
 
-## cellophane over the
+cellophane over the
 
-## and green apple both
+and green apple both
 
-## hole in the top and
+hole in the top and
 
 reflect green light.
 
-## shine a flashlight
+shine a flashlight
 
 through the side hole.
 
-### Only green light passes through
+# Only green light passes through
 
-## The white card
+# The white card
 
 the cellophane.
 
-### reflects all The yellow banana
+reflects all The yellow banana
 
-### 2. colors, so now reflects red as well
+# 2. colors, so now reflects red as well
 
-## Do the same thing
+# Do the same thing
 
 it looks red.
 
@@ -5202,43 +5202,43 @@ again, this time with red
 
 cellophane.
 
-## The red hearts
+# The red hearts
 
 disappear, while the green
 
 apple goes dark.
 
-## The green apple
+# The green apple
 
-## banana now looks red
+banana now looks red
 
-## does not reflect
+does not reflect
 
 instead of yellow.
 
 red light.
 
-## Only red light passes
+# Only red light passes
 
 through the cellophane.
 
-## Color
+# Color
 
-## Test with color
+# Test with color
 
-## Make a liquid change color
+# Make a liquid change color
 
 You will need:
 
 suddenly, as if by magic!
 
-### can use this color change as a
+can use this color change as a
 
 test, to find out if a substance Saucepan Large jar
 
-## is an acid or an alkali—or
+is an acid or an alkali—or
 
-## Distilled
+# Distilled
 
 neither of these.
 
@@ -5246,7 +5246,7 @@ Red cabbage, knife, or purified
 
 Sieve and chopping board Spoon Four small jars water
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Carefully chop the red Heat some distilled water in Let the cabbage water cool
 
@@ -5258,61 +5258,61 @@ Add the cabbage.
 
 then strain it into the large jar.
 
-## Lemon juice
+# Lemon juice
 
-## Vinegar
+# Vinegar
 
-### Put cabbage water in the small
+# Put cabbage water in the small
 
 jars and test various substances.
 
-### Cream of tartar Distilled water
+# Cream of tartar Distilled water
 
-## 5. 6.
+# 5. 6.
 
-### Color varieties Test lemon juice
+# Color varieties Test lemon juice
 
-## vinegar
+vinegar
 
-## Add distilled water to the
+# Add distilled water to the
 
 Acids or alkalis in the soil make and cream of tartar.
 
 They are acids, cabbage water.
 
-## It stays reddish
+# It stays reddish
 
 a difference to the colors of which turn the cabbage water red.
 
 purple.
 
-## The distilled water is
+# The distilled water is
 
 hydrangeas.
 
 They have blue neither an acid nor an alkali.
 
-## flowers if they are growing
+flowers if they are growing
 
-## in acid soil and pink ones
+in acid soil and pink ones
 
 if the soil is alkaline.
 
-## Sodium bicarbonate
+# Sodium bicarbonate
 
-## Ammonia
+# Ammonia
 
-## Tap water Baking soda
+# Tap water Baking soda
 
-## 7. 8.
+# 7. 8.
 
 Test sodium bicarbonate.
 
-### It is Test a little ammonia or
+# It is Test a little ammonia or
 
 a weak alkali and turns the cabbage baking soda.
 
-## These strong alkalis
+# These strong alkalis
 
 water blue.
 
@@ -5320,31 +5320,31 @@ Tap water may do the turn the cabbage water green.
 
 same thing.
 
-## Color
+# Color
 
-## See colors in bubbles
+# See colors in bubbles
 
-## Soap bubbles caught in the
+# Soap bubbles caught in the
 
 You will need:
 
 light look very colorful.
 
-## This Straw
+# This Straw
 
-## experiment shows you how to
+experiment shows you how to
 
-## make amazing bubble colors
+make amazing bubble colors
 
-## and blow spectacular bubbles
+and blow spectacular bubbles
 
 at the same time!
 
-### Glycerol Dish-washing Half a liter
+# Glycerol Dish-washing Half a liter
 
 (glycerin) liquid Flashlight of water Plate Spoon
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Stir four spoons of dish-washing Pour some of the solution Carefully remove the straw
 
@@ -5352,7 +5352,7 @@ liquid (not lemon) and one spoon on to a plate.
 
 Wet the end of a from the bubble.
 
-## Blow a second
+# Blow a second
 
 of glycerol into half a liter of water.
 
@@ -5366,21 +5366,21 @@ end to create a large bubble.
 
 are about the same size.
 
-## Keep the flashlight
+# Keep the flashlight
 
 beam level with Light from the flashlight
 
 the bubbles.
 
-## reflects off both the front
+reflects off both the front
 
 and back of the bubble wall.
 
-## The glycerol in the
+# The glycerol in the
 
-## The two reflected beams of
+# The two reflected beams of
 
-## solution makes the
+solution makes the
 
 light mix, or “interfere,”
 
@@ -5388,7 +5388,7 @@ bubbles strong, so
 
 with each other, creating
 
-## they last longer
+they last longer
 
 amazing colored stripes.
 
@@ -5398,49 +5398,49 @@ Turn out the light and shine a flashlight
 
 at the bubbles.
 
-### Point the flashlight beam at the
+# Point the flashlight beam at the
 
 “wall” that forms where the two bubbles meet.
 
-### View the wall between the bubbles
+# View the wall between the bubbles
 
 from an angle.
 
-## Beautiful colored bands
+# Beautiful colored bands
 
 appear across the bubble wall!
 
-## Adjust
+# Adjust
 
-### the position of the flashlight if you
+the position of the flashlight if you
 
 cannot see them at first.
 
-## Color
+# Color
 
-## Print pretty patterns
+# Print pretty patterns
 
-### Print some colorful and pretty
+# Print some colorful and pretty
 
 You will need:
 
 patterns on paper.
 
-## The colors
+# The colors
 
-### transfer to the paper in the same
+transfer to the paper in the same
 
-### way that they do when color Paintbrush
+way that they do when color Paintbrush
 
-## Poster paints
+# Poster paints
 
 pictures are printed in books.
 
-## Linseed
+# Linseed
 
-### Palette oil Thick paper Dish of water
+# Palette oil Thick paper Dish of water
 
-## 1. 2.
+# 1. 2.
 
 Put some poster paints on the palette.
 
@@ -5448,19 +5448,19 @@ Mix a little linseed oil with each color
 
 on the palette.
 
-## 3. 4.
+# 3. 4.
 
 Put one color from the palette on the Add another color.
 
-## Swirl the colors
+# Swirl the colors
 
 brush and gently add the paint to the water.
 
 with the brush to make a pattern.
 
-## Color
+# Color
 
-## 5. 6.
+# 5. 6.
 
 Gently lay a sheet of the paper on the water
 
@@ -5470,35 +5470,35 @@ so that it lies on the surface.
 
 Lift it out and lay it on a flat surface.
 
-## Red and Yellow and
+# Red and Yellow and
 
-## blue pattern blue pattern
+blue pattern blue pattern
 
-## Let the paper
+# Let the paper
 
 dry.
 
-## Try printing
+# Try printing
 
-## more patterns with Red and
+more patterns with Red and
 
 other colors.
 
-## yellow pattern
+yellow pattern
 
-## Printing in color
+# Printing in color
 
-## Color printing presses have
+# Color printing presses have
 
-## rollers on which pictures are
+rollers on which pictures are
 
 formed with colored inks.
 
-## The colored oil does
+# The colored oil does
 
 Paper passes through the not mix with water
 
-## so it
+so it
 
 rollers and the colored ink transfers to the paper.
 
@@ -5506,17 +5506,17 @@ transfers to the paper,
 
 making color pictures.
 
-## GROWTH
+# GROWTH
 
-### Living things are usually small when
+# Living things are usually small when
 
 they start life.
 
-## They grow and become
+# They grow and become
 
 adult.
 
-## People and animals need food
+# People and animals need food
 
 to make them grow.
 
@@ -5524,77 +5524,77 @@ Plants grow, too,
 
 and they also need food.
 
-## Most plants
+# Most plants
 
 make their own food from air, water,
 
 and sunlight.
 
-## They use this food to
+# They use this food to
 
 grow stems and leaves, and sometimes
 
 to bear flowers and fruits.
 
-## The leaves
+# The leaves
 
-### and fruits may then become food
+and fruits may then become food
 
 for people and animals.
 
-### Greatest growth Plant products
+# Greatest growth Plant products
 
 These trees are the Many useful things are made
 
-### biggest living things from plants
+biggest living things from plants
 
-## clothes from
+clothes from
 
 in the world.
 
 They cotton, for example, and
 
-## are giant redwoods
+are giant redwoods
 
 Bursting buds paper from trees.
 
-### which begin life as Place some budding
+which begin life as Place some budding
 
 little seeds and can twigs in water.
 
 Soon,
 
-### grow to 360 ft leaves and flowers will
+grow to 360 ft leaves and flowers will
 
 (110 m) tall.
 
 grow from the buds.
 
-## These are horse
+# These are horse
 
 chestnut twigs.
 
-## Living parts
+# Living parts
 
-## All living things are made of
+# All living things are made of
 
 many tiny parts called cells.
 
-## By looking at plants through
+# By looking at plants through
 
 a magnifying glass, you can
 
-## Good food
+# Good food
 
 see how they are formed.
 
 Growing plants provide food, such
 
-## This is a magnified view
+# This is a magnified view
 
 as these fruits and vegetables.
 
-## Food
+# Food
 
 of a moss plant.
 
@@ -5602,23 +5602,23 @@ products, such as bread and sugar,
 
 are also made from plants.
 
-## Growth
+# Growth
 
-## Discover the needs of seeds
+# Discover the needs of seeds
 
 Seeds seem lifeless, but they can
 
 You will need:
 
-### suddenly come alive and grow into
+suddenly come alive and grow into
 
 plants.
 
-## Show how they need three
+# Show how they need three
 
-## Pitcher of Bowl of water
+# Pitcher of Bowl of water
 
-## things for this
+things for this
 
 water, oxygen from water
 
@@ -5626,11 +5626,11 @@ the air, and warmth.
 
 Paper towels Mung bean seeds Three deep saucers
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Place the beans in the bowl Put paper towels in the saucers.
 
-### Pour a little water into the first
+# Pour a little water into the first
 
 of water and leave them to soak You may need to fold them in half.
 
@@ -5638,41 +5638,41 @@ saucer to moisten the towel.
 
 overnight.
 
-## 4. 5.
+# 4. 5.
 
-### Place some Pour enough Keep the beans
+# Place some Pour enough Keep the beans
 
-## covered by adding
+covered by adding
 
-## beans on the water into the
+beans on the water into the
 
 more water every day.
 
-### paper towel in second saucer to
+paper towel in second saucer to
 
 each one of the cover the beans.
 
 three saucers.
 
-### The underwater beans The dry beans get
+# The underwater beans The dry beans get
 
-## Growing crops
+# Growing crops
 
 begin to grow, but the no water and do
 
-### Farmers sow seeds of crop plants
+# Farmers sow seeds of crop plants
 
 water stops air getting not begin to grow.
 
 to them and they on the land.
 
-## The seeds need
+# The seeds need
 
 stop growing.
 
-### Keep the paper water to start growing
+# Keep the paper water to start growing
 
-## and the
+and the
 
 moist by adding young crops also need water
 
@@ -5682,31 +5682,31 @@ If it does not rain, the
 
 when necessary.
 
-### seeds and plants must be given
+seeds and plants must be given
 
 water.
 
-## These crops are being
+# These crops are being
 
 sprayed with water.
 
-## Watering
+# Watering
 
 crops is called “irrigation.
 
-## These beans grow
+# These beans grow
 
-## 6. because they get
+# 6. because they get
 
-## Leave the saucers in a
+# Leave the saucers in a
 
-## water from the moist
+water from the moist
 
 warm place for several days.
 
-## paper and oxygen
+paper and oxygen
 
-## Only the beans in the first
+# Only the beans in the first
 
 from the air, and
 
@@ -5714,37 +5714,37 @@ saucer begin to grow properly.
 
 they are warm.
 
-## Growth
+# Growth
 
-## See how a plant grows
+# See how a plant grows
 
 Most plants begin life beneath the ground.
 
 You will need:
 
-## They grow from seeds
+# They grow from seeds
 
-## which drop into the
+which drop into the
 
 soil.
 
-### There is a way you can see what happens
+# There is a way you can see what happens
 
 out of sight under the ground.
 
-## A bean is the
+# A bean is the
 
 seed of a bean plant.
 
-## You can grow it in a
+# You can grow it in a
 
 glass jar, where you can see it clearly.
 
-## A dried Blotting paper Tall
+# A dried Blotting paper Tall
 
 Pitcher of water bean or paper towel glass jar
 
-## At first the bean uses its
+# At first the bean uses its
 
 It helps to soak the bean in The paper should be kept moist
 
@@ -5758,11 +5758,11 @@ so add water when necessary.
 
 it uses light to make food.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Roll up the blotting paper After a few days
 
-### a root A green shoot comes out of the
+a root A green shoot comes out of the
 
 and place it in the jar.
 
@@ -5770,13 +5770,13 @@ Put the bean appears and grows downward.
 
 It bean and grows upward.
 
-## The shoot
+# The shoot
 
 between the paper and the jar.
 
-## Wet is searching for water
+# Wet is searching for water
 
-### which the is looking for light
+which the is looking for light
 
 so it can grow.
 
@@ -5788,21 +5788,21 @@ More roots grow down.
 
 warm place.
 
-## Roots always grow down
+# Roots always grow down
 
-### Soak a bean in water for a day
+# Soak a bean in water for a day
 
 then push a wire into it.
 
 (Ask an adult to help with this.
 
-## ) Attach the wire to the lid
+) Attach the wire to the lid
 
 of the jar.
 
-### Put some wet cotton balls in the jar
+# Put some wet cotton balls in the jar
 
-### put in the The shoot is growing
+put in the The shoot is growing
 
 bean, and close the jar.
 
@@ -5818,67 +5818,67 @@ Leave it, and
 
 the root changes direction so it grows down again.
 
-## Growth
+# Growth
 
-## Make a plant maze
+# Make a plant maze
 
-## Make a plant find its way
+# Make a plant find its way
 
 You will need:
 
 through a maze!
 
-## This shows
+# This shows
 
-## how plants must have light
+how plants must have light
 
-## Scissors Runner bean seed
+# Scissors Runner bean seed
 
 in order to grow.
 
-## They use
+# They use
 
-## the light to make food for
+the light to make food for
 
 themselves.
 
 Two pieces of card Pitcher of water Pot of soil Long cardboard box
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-## Cut a Cut Plant
+# Cut a Cut Plant
 
-### large window a window in the bean
+large window a window in the bean
 
 in one end of each card.
 
-## seed in the
+seed in the
 
 the box.
 
-## pot and
+pot and
 
 water it.
 
-## Soak the
+# Soak the
 
-## bean seed for
+bean seed for
 
-## a day before
+a day before
 
 planting it.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
-## Fit a Put Insert
+# Fit a Put Insert
 
-### piece of card the lid on the second
+piece of card the lid on the second
 
 in the box.
 
-## and stand piece of card
+and stand piece of card
 
-### Put the pot in the box in when the
+# Put the pot in the box in when the
 
 the bottom.
 
@@ -5886,17 +5886,17 @@ a warm, plant grows
 
 light place.
 
-## and replace
+and replace
 
 the lid.
 
-### The plant The young plant Tall trees
+# The plant The young plant Tall trees
 
-## always grows
+always grows
 
 bends in order Getting enough light can be a
 
-## toward a source
+toward a source
 
 to get through problem for the plants in a thick
 
@@ -5906,25 +5906,25 @@ all the windows forest.
 
 Many trees grow very tall,
 
-### and reach competing with each other for
+and reach competing with each other for
 
 the light.
 
 light.
 
-## Their leaves make the
+# Their leaves make the
 
 forest beneath them quite dark,
 
-### but smaller types of trees and
+but smaller types of trees and
 
 shrubs have adapted to this.
 
-## Growth
+# Growth
 
-## Grow a piece of plant
+# Grow a piece of plant
 
-## Plants do not grow only from
+# Plants do not grow only from
 
 You will need:
 
@@ -5932,9 +5932,9 @@ seeds.
 
 You can cut up some plants,
 
-## Rubber band
+# Rubber band
 
-## and new plants grow from the
+and new plants grow from the
 
 pieces!
 
@@ -5944,7 +5944,7 @@ Each one grows its own roots.
 
 Clear plastic bag Pruners Pot of moist soil mix Geranium plant
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Ask an adult Plant Over several weeks,
 
@@ -5954,7 +5954,7 @@ from the plant.
 
 in the pot.
 
-## grow into a new
+grow into a new
 
 It should have Cover it geranium plant.
 
@@ -5966,41 +5966,41 @@ plastic bag.
 
 the soil moist.
 
-## Secure the bag with
+# Secure the bag with
 
 the rubber band.
 
-## See a plant bubble
+# See a plant bubble
 
-### Plants need light to make their own
+# Plants need light to make their own
 
 You will need:
 
 food.
 
-## You can show that plants also
+# You can show that plants also
 
 produce oxygen, which enters the
 
-## Funnel
+# Funnel
 
 air and water.
 
-## Oxygen is important
+# Oxygen is important
 
 as nothing can live without it.
 
 Wide jar Bowl of water Pond weed Test tube
 
-## 1. 2.
+# 1. 2.
 
-## Submerge the jar
+# Submerge the jar
 
-## pond weed
+pond weed
 
-## Oxygen from Place the
+# Oxygen from Place the
 
-## funnel
+funnel
 
 and tube in a deep bowl the weed rises jar in sunlight.
 
@@ -6014,101 +6014,101 @@ When you remove the tube.
 
 begins to bubble!
 
-## them from the
+them from the
 
 water, the test
 
 tube remains full.
 
-## Oxygen for life
+# Oxygen for life
 
-## It is important to have green
+# It is important to have green
 
-## water plants in an aquarium
+water plants in an aquarium
 
-## to release oxygen into the
+to release oxygen into the
 
 water.
 
-## The fish breathe this
+# The fish breathe this
 
 oxygen.
 
-## Green plants on dry
+# Green plants on dry
 
 land release oxygen into the air.
 
-### The process in which plants use
+# The process in which plants use
 
-## light to make food and oxygen
+light to make food and oxygen
 
 is called “photosynthesis.
 
-## Growth
+# Growth
 
-## Test a plant for food
+# Test a plant for food
 
-## Plants make their own food
+# Plants make their own food
 
 You will need:
 
 in their leaves.
 
-## This food is
+# This food is
 
 called “starch,” and plants
 
-### Iodine and dropper Tape Scissors
+# Iodine and dropper Tape Scissors
 
 need it to grow.
 
-## Test the Small dish
+# Test the Small dish
 
-## leaves of a geranium plant
+leaves of a geranium plant
 
 to detect its food.
 
 Wood alcohol Saucepan Beaker Black plastic Tweezers
 
-## No light can get
+# No light can get
 
 through the plastic.
 
-## The leaf uses up
+# The leaf uses up
 
-## all its starch and
+all its starch and
 
 makes no more.
 
-## 1. 2.
+# 1. 2.
 
 Tape plastic around some leaves.
 
 Leave the Heat the water.
 
-## Warm the wood alcohol in the
+# Warm the wood alcohol in the
 
 geranium in a light place for two days.
 
 Then beaker.
 
-### Dip both the leaves in hot water
+# Dip both the leaves in hot water
 
-## then leave
+then leave
 
 pick a wrapped leaf and an unwrapped leaf.
 
 them in the wood alcohol.
 
-### The substance that This is the wrapped
+# The substance that This is the wrapped
 
 Putting the leaves in makes leaves green is leaf.
 
-## It has no starch
+# It has no starch
 
 hot water and wood called “chlorophyll.
 
-## ” and so does not
+” and so does not
 
 alcohol removes the It helps the leaf darken in iodine.
 
@@ -6116,41 +6116,41 @@ chlorophyll and makes make starch.
 
 them turn white.
 
-## This green leaf
+# This green leaf
 
-## has had no
+has had no
 
 treatment.
 
-## still contains
+still contains
 
-## 3. chlorophyll.
+# 3. chlorophyll.
 
 Now the leaves are almost white.
 
 Add iodine to them.
 
-## The unwrapped
+# The unwrapped
 
 This is the unwrapped leaf.
 
-## Treating
+# Treating
 
 leaf goes dark.
 
-## The wrapped one
+# The wrapped one
 
-### it with iodine turns the starch in it a
+it with iodine turns the starch in it a
 
 does not.
 
 dark, blue-black color.
 
-## Growth
+# Growth
 
-## Grow your own mold
+# Grow your own mold
 
-## A fungus is a type of plant
+# A fungus is a type of plant
 
 You will need:
 
@@ -6158,9 +6158,9 @@ that does not produce seeds.
 
 Instead, it reproduces by
 
-## releasing thousands of tiny
+releasing thousands of tiny
 
-## specks called “spores” into
+specks called “spores” into
 
 the air.
 
@@ -6168,49 +6168,49 @@ When the spores Two slices of bread Peach Yogurt
 
 land, they grow into new
 
-## Five foil
+# Five foil
 
 fungi.
 
-## Mold is an example
+# Mold is an example
 
-## containers
+containers
 
 of a fungus.
 
-## You can grow
+# You can grow
 
-## some mold at home on
+some mold at home on
 
 bits of unwanted food.
 
 Knife Spoon Chopping board Beans Clear food wrap
 
-## You can use other fruit
+# You can use other fruit
 
-## Make sure
+# Make sure
 
 instead, but mold grows
 
-## the toasted
+the toasted
 
-## quicker on moist fruit such
+quicker on moist fruit such
 
-## bread is
+bread is
 
-## as oranges and peaches
+as oranges and peaches
 
 very dry.
 
-## than it does on drier
+than it does on drier
 
 fruit such as bananas.
 
-## Carefully cut
+# Carefully cut
 
 the peach in half on a Toast one slice of bread.
 
-## Moisten
+# Moisten
 
 chopping board.
 
@@ -6224,75 +6224,75 @@ in a foil container.
 
 and the dry bread in the third.
 
-## Keep the dry and
+# Keep the dry and
 
 moist bread separate.
 
-## Spoon some beans into
+# Spoon some beans into
 
 the fourth container, and
 
 some yogurt into the fifth.
 
-## Moist bread Dry toast
+# Moist bread Dry toast
 
-## Make sure that
+# Make sure that
 
-## the containers are
+the containers are
 
 tightly wrapped.
 
-## Cover each container in clear
+# Cover each container in clear
 
 food wrap.
 
-## Leave the containers
+# Leave the containers
 
 in a warm place for several days.
 
-## Check on the containers every
+# Check on the containers every
 
 day, to see if anything has
 
 happened to the food.
 
-## Peach Beans Yogurt
+# Peach Beans Yogurt
 
-## Growth
+# Growth
 
-## Make spore prints
+# Make spore prints
 
 Mushrooms are fungi.
 
-## New mushrooms
+# New mushrooms
 
-## The patterns are made up of
+# The patterns are made up of
 
 grow from the spores shed by fully grown
 
-## the tiny dustlike spores that
+the tiny dustlike spores that
 
 mushrooms.
 
-## You can make some spore
+# You can make some spore
 
 fall from the mushrooms.
 
-### prints to see how the spores drop from
+prints to see how the spores drop from
 
 the mushrooms.
 
-## Take two flat mushrooms
+# Take two flat mushrooms
 
 with dark undersides.
 
-## Remove the stalks
+# Remove the stalks
 
-### and place the mushrooms on a sheet of
+and place the mushrooms on a sheet of
 
-## white paper
+white paper
 
-## with their undersides facing
+with their undersides facing
 
 downward.
 
@@ -6300,25 +6300,25 @@ Leave them for a day or two.
 
 When you lift the mushrooms, you will
 
-### notice that they leave patterns of dark
+notice that they leave patterns of dark
 
 powder on the paper.
 
-## Spore print
+# Spore print
 
-### 5. Moisture and warmth Mold needs moisture to
+# 5. Moisture and warmth Mold needs moisture to
 
-## Although you could not see
+# Although you could not see
 
-### help the spores to feed on grow
+help the spores to feed on grow
 
-## so no mold
+so no mold
 
 them, tiny mold spores in the
 
-## the dampened bread
+the dampened bread
 
-## so appears on the dry
+so appears on the dry
 
 air landed on the different foods the mold grows well.
 
@@ -6326,53 +6326,53 @@ toasted bread.
 
 before you covered them up.
 
-## After
+# After
 
 several days, mold will begin
 
-### to appear on the food as the tiny
+to appear on the food as the tiny
 
 mold spores grow.
 
-## The mold
+# The mold
 
-### grows faster on some foods than
+grows faster on some foods than
 
 others.
 
-## You may find that you
+# You may find that you
 
-## get different colored mold
+get different colored mold
 
 on different types of foods.
 
-## Make sure you throw
+# Make sure you throw
 
 the moldy food away.
 
-## Do not touch it and wear
+# Do not touch it and wear
 
-## kitchen gloves when you
+kitchen gloves when you
 
 handle the containers.
 
-## Moist bread Dry toast
+# Moist bread Dry toast
 
-## Peach Beans Yogurt
+# Peach Beans Yogurt
 
-## SENSES
+# SENSES
 
-### Your senses are your ability to see
+# Your senses are your ability to see
 
 hear,
 
 smell, and taste things
 
-## and to feel things
+and to feel things
 
 when you touch them.
 
-## Your senses make
+# Your senses make
 
 it possible for you to find out about the
 
@@ -6382,11 +6382,11 @@ want to do, and to survive.
 
 For example,
 
-### your sight helps you see what is
+your sight helps you see what is
 
 happening and find your way around.
 
-### Talking hands Bombarding the senses
+# Talking hands Bombarding the senses
 
 One way to “talk” to Our senses bring us
 
@@ -6394,55 +6394,55 @@ someone who cannot hear exciting experiences—
 
 is to use sign language.
 
-## such as the bright lights
+such as the bright lights
 
 Deaf people watch the and music at a concert.
 
-## signs and use their sense
+signs and use their sense
 
-## of sight to understand
+of sight to understand
 
-## On the ball
+# On the ball
 
 what is being “said.
 
-## Games bring the senses
+# Games bring the senses
 
 of sight, hearing, and touch
 
 into action.
 
-## Good players use
+# Good players use
 
 all these senses well, reacting
 
-## quickly to the sight and
+quickly to the sight and
 
-### sound of the ball or to the other
+sound of the ball or to the other
 
 players, and throwing the
 
 ball accurately.
 
-## A tasty sight
+# A tasty sight
 
-### We use our senses of sight and touch
+# We use our senses of sight and touch
 
 to help us choose good food, such as
 
 these vegetables.
 
-## We then use our
+# We then use our
 
-### senses of taste and smell to enjoy
+senses of taste and smell to enjoy
 
 eating them.
 
-## Senses
+# Senses
 
-## See how your ears work
+# See how your ears work
 
-## When a sound enters your
+# When a sound enters your
 
 You will need:
 
@@ -6454,89 +6454,89 @@ This travels to your Cardboard tube Flashlight Clear food wrap
 
 brain, and you hear the sound.
 
-## You can build a model ear
+# You can build a model ear
 
 to see how your ears do this.
 
-## Rubber Modeling Tape
+# Rubber Modeling Tape
 
-### Piece of card band clay Sheet of paper
+# Piece of card band clay Sheet of paper
 
-## 1. 2.
+# 1. 2.
 
 Stretch the The plastic must Roll the sheet
 
 be smooth.
 
-### plastic wrap over of paper to make
+plastic wrap over of paper to make
 
 the end of the a cone.
 
-## Tape it
+# Tape it
 
 tube.
 
-## Secure together so that
+# Secure together so that
 
 it with the it does not unroll.
 
 rubber band.
 
-## 3. 4.
+# 3. 4.
 
-## Push the Stand the
+# Push the Stand the
 
-## small end of card on a table
+small end of card on a table
 
 the cone into the top.
 
-## Lay the tube
+# Lay the tube
 
 open end of the in front of it.
 
-## Shine
+# Shine
 
 cardboard tube.
 
-### the flashlight Fix the card with
+the flashlight Fix the card with
 
 Tape it in place.
 
 on the plastic, modeling clay.
 
-## so that a spot
+so that a spot
 
-## of light appears
+of light appears
 
 on the card.
 
-## Inside the ear
+# Inside the ear
 
-## The light is
+# The light is
 
 As sounds enter the ear, the
 
-## reflected from
+reflected from
 
 eardrum vibrates.
 
 This in turn the plastic.
 
-## As the
+# As the
 
 makes tiny bones vibrate and the plastic vibrates
 
-### the The plastic wrap is like the
+the The plastic wrap is like the
 
-### vibration passes to the inner ear
+vibration passes to the inner ear
 
 spot of light shakes.
 
-## eardrum at the end of your
+eardrum at the end of your
 
 which then sends signals to the ear canal.
 
-## Sounds make the
+# Sounds make the
 
 eardrum vibrate, causing
 
@@ -6544,37 +6544,37 @@ brain, along the ear’s nerve.
 
 signals to go to your brain.
 
-## Outer ear
+# Outer ear
 
-## The outer ear (the
+The outer ear (the
 
-## Bones cone) directs sound
+Bones cone) directs sound
 
-## into the ear canal
+into the ear canal
 
 (the tube).
 
-## Nerve
+# Nerve
 
-## Shout or sing loudly
+# Shout or sing loudly
 
 into the cone.
 
-## The spot
+# The spot
 
 Eardrum of light shakes very fast!
 
-## Inner ear
+# Inner ear
 
-## Senses
+# Senses
 
-## Find out how your eyes work
+# Find out how your eyes work
 
-## Build a model eye using
+# Build a model eye using
 
 You will need:
 
-## a magnifying glass and a
+a magnifying glass and a
 
 goldfish bowl, and find out
 
@@ -6582,17 +6582,17 @@ how you see.
 
 Use the model Tape Modeling Tissue paper
 
-## clay
+clay
 
-## to show how the eye forms
+to show how the eye forms
 
 an image of a human figure.
 
-## Goldfish bowl
+# Goldfish bowl
 
 Card Magnifying glass Scissors Flashlight of water
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Tape the tissue paper to the Fix the magnifying glass in front Fold the card and cut out
 
@@ -6602,69 +6602,69 @@ of the bowl using the clay.
 
 half of a figure.
 
-## The lens bends the light
+# The lens bends the light
 
-## rays from the figure to
+rays from the figure to
 
 form an image.
 
-## The flashlight
+# The flashlight
 
 Attach the card in front of lights up the figure
 
 the magnifying glass.
 
-## in front of the
+in front of the
 
 model eye.
 
-## Entry to the eye
+# Entry to the eye
 
 At the center of each eye, there
 
-## is a hole called the “pupil
+is a hole called the “pupil
 
-### ” where You have a lens like a
+” where You have a lens like a
 
 light enters the eye.
 
 The pupil magnifying glass in each eye.
 
-## changes size to control the
+changes size to control the
 
-## amount of light entering the
+amount of light entering the
 
 eye.
 
 If there is not much light,
 
-## The round bowl is
+# The round bowl is
 
 it gets larger and lets more in.
 
 like your eyeball.
 
-## The tissue is like the retina
+# The tissue is like the retina
 
-## Shine the flashlight
+# Shine the flashlight
 
 at the back of each eye.
 
 on the figure.
 
-## An upside-
+# An upside-
 
-## down image of it appears
+down image of it appears
 
-## The image forms on the
+# The image forms on the
 
 on the tissue paper.
 
-## Move
+# Move
 
 retina, which sends
 
-## the magnifying glass back and
+the magnifying glass back and
 
 signals to the brain, so
 
@@ -6672,39 +6672,39 @@ that you see the figure.
 
 forth to make the image sharp.
 
-## Senses
+# Senses
 
-## See two pictures as one
+# See two pictures as one
 
-### Trick your eyes into seeing one picture
+# Trick your eyes into seeing one picture
 
 You will need:
 
-## Two rubber
+# Two rubber
 
-### when there are really two—one on each
+when there are really two—one on each
 
-## bands
+bands
 
 side of a piece of card.
 
-## This experiment
+# This experiment
 
-### shows how you can see moving pictures
+shows how you can see moving pictures
 
 on television and in the movies.
 
-## Colored
+# Colored
 
-### Scissors Compass markers White card
+# Scissors Compass markers White card
 
-## 1. 2. 3.
+# 1. 2. 3.
 
-## Make a circle on the card
+# Make a circle on the card
 
 Draw a circle on the card.
 
-## Turn the card over and draw
+# Turn the card over and draw
 
 using the compass.
 
@@ -6714,7 +6714,7 @@ Make two holes, one on each side.
 
 a cross on the other side.
 
-## 4. 5.
+# 4. 5.
 
 Thread a rubber band through each Twist the bands by holding them
 
@@ -6722,53 +6722,53 @@ of the holes in the card.
 
 and turning the card.
 
-### The card whirls so Moving pictures
+# The card whirls so Moving pictures
 
-### fast that images of Movies are made
+fast that images of Movies are made
 
-### the circle and cross up of long strips
+the circle and cross up of long strips
 
-## Your eyes hold an
+# Your eyes hold an
 
 overlap in your eyes.
 
 of still pictures,
 
-## image of an object for
+image of an object for
 
-## each one slightly
+each one slightly
 
-## a short time after the
+a short time after the
 
 object disappears.
 
-## different from
+different from
 
 the one before.
 
-## The pictures
+# The pictures
 
-## appear rapidly
+appear rapidly
 
 on the screen,
 
-## one after the
+one after the
 
 other.
 
-## When you
+# When you
 
 watch a movie,
 
-## your eyes do not
+your eyes do not
 
-## see each picture
+see each picture
 
 separately.
 
-## They
+# They
 
-## overlap and
+overlap and
 
 Release the card.
 
@@ -6776,43 +6776,43 @@ appear to move.
 
 it whirls around, you see
 
-## the cross appearing right
+the cross appearing right
 
 inside the circle.
 
-## Senses
+# Senses
 
-## Build a wobble detector
+# Build a wobble detector
 
-### Having two eyes helps you judge
+# Having two eyes helps you judge
 
 You will need:
 
 distances well.
 
-## With a wobble
+# With a wobble
 
 detector, you can find out just
 
-## Three pieces of covered
+# Three pieces of covered
 
 how useful it is to have two eyes.
 
 Two jar lids Bare stiff wire Scissors wire with bare ends
 
-## Close one eye and you’ll find
+Close one eye and you’ll find
 
 you can’t help wobbling!
 
-## Bulb-holder
+# Bulb-holder
 
 and bulb Modeling clay Tape Battery Screwdriver
 
-## Bend the stiff wire
+# Bend the stiff wire
 
 into several curves.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Use modeling clay to attach the Using one piece of covered Connect the second piece
 
@@ -6826,39 +6826,39 @@ and the bulb-holder.
 
 With only one eye,
 
-## you cannot judge the
+you cannot judge the
 
 position of the loop.
 
-## It is much harder not
+# It is much harder not
 
 to wobble.
 
-## The loop is
+# The loop is
 
-## made with
+made with
 
 bare wire.
 
-## Looking forward to a meal
+# Looking forward to a meal
 
-### An owl has two large eyes that
+# An owl has two large eyes that
 
 face forward.
 
-## These help the
+# These help the
 
-## owl judge the position of the
+owl judge the position of the
 
 prey it is hunting.
 
-## Like the
+# Like the
 
-## 4. 5.
+# 4. 5.
 
 Take the last piece of Place the loop around the stiff owl
 
-## you use two eyes to see
+you use two eyes to see
 
 covered wire and attach one wire.
 
@@ -6870,13 +6870,13 @@ Make the wire without touching it.
 
 Try it are.
 
-## Your brain combines the
+# Your brain combines the
 
 a loop with the other end.
 
-## with both eyes open
+with both eyes open
 
-### then with one images from both eyes to
+then with one images from both eyes to
 
 eye closed.
 
@@ -6884,73 +6884,73 @@ Which is easier?
 
 do this.
 
-## Senses
+# Senses
 
-## Change your ears around
+# Change your ears around
 
-## Sounds come to you from all
+# Sounds come to you from all
 
 You will need: Two lengths
 
 sides.
 
-## Having two ears makes
+# Having two ears makes
 
-## of plastic
+of plastic
 
-### it possible to figure out where tubing
+it possible to figure out where tubing
 
-## Tape
+# Tape
 
 sounds are coming from.
 
-## Trick
+# Trick
 
-## Fabric
+# Fabric
 
-## your hearing so sounds come
+your hearing so sounds come
 
 from the wrong directions.
 
 Two plastic funnels Insulating tape Length of wood
 
-### Attach fabric over A sound from one
+# Attach fabric over A sound from one
 
 the end of each tube.
 
-## side goes to the ear
+side goes to the ear
 
 on the other side.
 
-## Steering by sound
+# Steering by sound
 
-### A bat uses its sense of hearing to
+# A bat uses its sense of hearing to
 
 find its way around in the dark.
 
 As it flies, it makes high sounds
 
-### that are almost impossible for
+that are almost impossible for
 
 our ears to hear.
 
-## These sounds
+# These sounds
 
-## 1. 2.
+# 1. 2.
 
 Attach each tube to a Ask a friend to walk by
 
-## bounce off nearby objects and
+bounce off nearby objects and
 
 funnel.
 
-## Tape the tubes to the wood
+# Tape the tubes to the wood
 
 making a noise.
 
 The sounds return to the bat’s ears.
 
-## The bat
+# The bat
 
 as the picture shows.
 
@@ -6960,23 +6960,23 @@ into your ears so they fit closely.
 
 way of your friend!
 
-### locate objects around it—and to
+locate objects around it—and to
 
 Do not force them in.
 
 find the insects it hunts for food.
 
-## Take a taste test
+# Take a taste test
 
 If you test your sense of taste,
 
 You will need:
 
-### you will find that it is not just
+you will find that it is not just
 
-### your mouth that enables you to
+your mouth that enables you to
 
-## tell one flavor from another—
+tell one flavor from another—
 
 your sense of smell is very Three different types Large glass
 
@@ -6984,59 +6984,59 @@ Three small glasses of pure fruit juice of water Scarf
 
 important, too.
 
-## The juices now
+# The juices now
 
-## Wash your mouth
+# Wash your mouth
 
-## have similar
+have similar
 
 out between tastings.
 
 flavors.
 
-## 1. 2.
+# 1. 2.
 
-## Ask a friend Hold your
+# Ask a friend Hold your
 
-### to blindfold you nose and taste
+to blindfold you nose and taste
 
 with the scarf.
 
 the juices again.
 
-### Taste each juice in Now it is more
+# Taste each juice in Now it is more
 
 turn.
 
-### You will find difficult to identify
+# You will find difficult to identify
 
 it easy to recognize the juices!
 
 the flavors.
 
-## Senses
+# Senses
 
-## Test your sense of touch
+# Test your sense of touch
 
-## You can feel something as
+# You can feel something as
 
 You will need:
 
 soon as it touches your skin,
 
-## but you may not be able to
+but you may not be able to
 
 detect its shape or size.
 
-### Make Pins Colored markers Cloth
+# Make Pins Colored markers Cloth
 
-### a touch tester to find out just
+a touch tester to find out just
 
 how much you can feel.
 
-### Thick card Compass Scissors Ruler
+# Thick card Compass Scissors Ruler
 
-## 1. 2.
+# 1. 2.
 
 Use the ruler and Cut out the large circle
 
@@ -7044,73 +7044,73 @@ compass to draw three and color in the three zones.
 
 circles on the card, one
 
-### The three circles form the three
+# The three circles form the three
 
 inside the other.
 
 zones of your touch tester.
 
-## The circles should be
+# The circles should be
 
-## Middle zone
+# Middle zone
 
 2, 2.
 
 4, and 3.
 
-## 6 in (3,
+6 in (3,
 
 6, and 9 cm) across.
 
-## Central zone
+# Central zone
 
-## Outer zone
+# Outer zone
 
-## 3. 4.
+# 3. 4.
 
-### Ask a friend Your friend should
+# Ask a friend Your friend should
 
-### to blindfold you stick some pins in the
+to blindfold you stick some pins in the
 
 with a cloth.
 
 central zone.
 
-## Make sure the pin
+# Make sure the pin
 
 heads are level.
 
-## Do not let the card
+# Do not let the card
 
 touch the skin.
 
-## Your fingertips are very
+# Your fingertips are very
 
 sensitive.
 
-## You can feel
+# You can feel
 
-## each one of the pins in
+each one of the pins in
 
-## Your palm is less
+# Your palm is less
 
 the central zone.
 
 sensitive.
 
-## You can
+# You can
 
-## feel each pin in the
+feel each pin in the
 
 middle zone, but not
 
 in the central zone.
 
-## Ask your friend to press the
+# Ask your friend to press the
 
 pin heads gently against your arm.
 
-## Your arm is not
+# Your arm is not
 
 How many pins can you feel?
 
@@ -7120,53 +7120,53 @@ again with the pins stuck in the You can only tell
 
 middle and outer zones.
 
-## Then test how many pins
+# Then test how many pins
 
-## there are in the
+there are in the
 
 your palm and fingers.
 
 outer zone.
 
-## Senses
+# Senses
 
-## Check your reaction time
+# Check your reaction time
 
-### You need all your senses to tell you
+# You need all your senses to tell you
 
 You will need:
 
-### when you suddenly have to take
+when you suddenly have to take
 
 action.
 
-## Sometimes you need to Pencil
+# Sometimes you need to Pencil
 
 move very fast.
 
-### Do this test to find Scissors Glue
+# Do this test to find Scissors Glue
 
-### out just how quick off the mark
+out just how quick off the mark
 
 you really are.
 
 Colored markers White paper 12-in (30-cm) ruler
 
-## 1. 2.
+# 1. 2.
 
 Draw around the ruler on the paper.
 
-### Color the bands and then glue the strip
+# Color the bands and then glue the strip
 
 Cut out the strip and mark six equal bands.
 
 to the ruler.
 
-## 3. 4.
+# 3. 4.
 
 Ask a friend to Suddenly,
 
-### hold the ruler so that your friend
+hold the ruler so that your friend
 
 one end is between releases the ruler.
 
@@ -7174,59 +7174,59 @@ your thumb and your Try to catch it!
 
 forefinger.
 
-## The color you
+# The color you
 
-## Slow reaction
+# Slow reaction
 
-## grab tells you your
+grab tells you your
 
-## time
+time
 
-## reaction time—the
+reaction time—the
 
-## Keep your thumb time between
+# Keep your thumb time between
 
-### and forefinger about sensing something
+and forefinger about sensing something
 
-### 0.5 in (1.5 cm) apart. and beginning
+# 0.5 in (1.5 cm) apart. and beginning
 
 to move.
 
-## Medium
+# Medium
 
-## reaction time
+reaction time
 
 Wait for it!
 
-### As soon as a kitten sees something
+# As soon as a kitten sees something
 
 move, it darts into action and begins to
 
-## chase it
+chase it
 
-### just like an adult cat after its
+just like an adult cat after its
 
 prey.
 
-## Animals often have very fast
+# Animals often have very fast
 
-## Fast reaction
+# Fast reaction
 
 reactions.
 
-## They need these when time
+# They need these when time
 
 they are hunting for food,
 
 or escaping from enemies.
 
-## SOUND AND MUSIC
+# SOUND AND MUSIC
 
 Sounds are all around us.
 
-## There are
+# There are
 
-### beautiful sounds in nature—such as
+beautiful sounds in nature—such as
 
 birds singing and water lapping.
 
@@ -7234,15 +7234,15 @@ There are frightening sounds, too,
 
 like thunder.
 
-## We use sounds when
+# We use sounds when
 
 we speak to each other, and music
 
 brings us great pleasure.
 
-## A siren
+# A siren
 
-### makes a sound that warns us of
+makes a sound that warns us of
 
 danger.
 
@@ -7250,51 +7250,51 @@ There are so many different Sound pictures
 
 sounds—but none of them is This is a picture of an
 
-## Sound signals
+# Sound signals
 
-## unborn baby—inside its
+unborn baby—inside its
 
-## anything more than a shaking
+anything more than a shaking
 
-## We often use sounds
+# We often use sounds
 
 mother!
 
-## The picture was
+# The picture was
 
 movement in the air.
 
 as signals.
 
-## Blowing a
+# Blowing a
 
-## made using special sounds
+made using special sounds
 
-## whistle in a game can
+whistle in a game can
 
 called “ultrasound.
 
 mean “stop” or “go.
 
-## The speed of sound
+# The speed of sound
 
-### You hear the bang a balloon makes
+# You hear the bang a balloon makes
 
 as soon as it bursts.
 
-## This is because
+# This is because
 
-### sound travels quickly from the balloon
+sound travels quickly from the balloon
 
 to your ears.
 
 It moves at 1,115 ft per second
 
-### (340 m per second)—slightly faster
+(340 m per second)—slightly faster
 
 than most airliners.
 
-## Making music
+# Making music
 
 Music is fun, whether
 
@@ -7302,17 +7302,17 @@ you listen to it, play
 
 it, or sing.
 
-## You can
+# You can
 
-## make good music
+make good music
 
-## with homemade
+with homemade
 
-## instruments like this
+instruments like this
 
 Songs of the sea drum.
 
-## Experiment 69
+# Experiment 69
 
 Many animals make sounds to (page 80) explains how
 
@@ -7320,13 +7320,13 @@ communicate with one another.
 
 to make a drum.
 
-### Whales’ “songs” can travel quite
+Whales’ “songs” can travel quite
 
 far underwater.
 
-## Sound and music
+# Sound and music
 
-## See some sound
+# See some sound
 
 When anything makes a sound, it
 
@@ -7334,7 +7334,7 @@ You will need:
 
 “vibrates” or shakes rapidly.
 
-## This
+# This
 
 makes the air around it vibrate, too.
 
@@ -7342,7 +7342,7 @@ Air vibrations, called “sound waves,”
 
 spread out through the air.
 
-## When they Rubber Piece of
+# When they Rubber Piece of
 
 band Plastic bowl Big saucepan heavy plastic
 
@@ -7350,13 +7350,13 @@ reach your ears, you hear a sound.
 
 Show how sounds make the air shake.
 
-### Uncooked rice Scissors Large spoon Tape
+# Uncooked rice Scissors Large spoon Tape
 
-## Stretch the plastic as
+# Stretch the plastic as
 
 tightly as you can.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut a piece of plastic Stretch the plastic over the Tape the edges of the plastic
 
@@ -7368,23 +7368,23 @@ firmly to the bowl.
 
 As you hit it, the pan
 
-## vibrates and gives
+vibrates and gives
 
 out sound waves.
 
-## Sound waves
+# Sound waves
 
-## travel through the
+travel through the
 
-## air and make the
+air and make the
 
 plastic vibrate.
 
-## 4. 5.
+# 4. 5.
 
 Sprinkle a few grains of the Hold the saucepan near the plastic.
 
-## Hit it
+# Hit it
 
 rice on the stretched plastic.
 
@@ -7392,25 +7392,25 @@ with a spoon.
 
 The rice jumps up and down!
 
-## Getting the vibrations
+# Getting the vibrations
 
-### This picture shows a boy listening to
+# This picture shows a boy listening to
 
 a tuning fork.
 
-## The tuning fork is giving
+# The tuning fork is giving
 
 out sound waves.
 
-## If you could see the
+# If you could see the
 
-## air vibrations in sound waves
+air vibrations in sound waves
 
-## they would
+they would
 
 look like the blue curves.
 
-## Thousands The grains of rice
+# Thousands The grains of rice
 
 of these vibrations reach your ears jump up and down
 
@@ -7418,39 +7418,39 @@ every second as you hear a sound.
 
 as the plastic vibrates.
 
-## You can see this
+# You can see this
 
 clearly from the side.
 
-## Sound and music
+# Sound and music
 
-## Make a sound gun
+# Make a sound gun
 
-## Sound waves batter your
+# Sound waves batter your
 
 You will need:
 
-## ears—though you may not
+ears—though you may not
 
-## Thin strip
+# Thin strip
 
 feel them.
 
-## Loud sounds can
+# Loud sounds can
 
-## Scissors of paper Rubber band
+# Scissors of paper Rubber band
 
 make things move.
 
-## Prove this
+# Prove this
 
-## by firing a sound wave at a
+by firing a sound wave at a
 
 target and making it shake.
 
 Thin plastic Cardboard tube Stiff paper Sharp pencil Tape
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw around the tube to Cut out the circle from Use the sharp end of the
 
@@ -7458,15 +7458,15 @@ make a circle on the paper.
 
 the paper.
 
-### pencil to make a small hole in
+pencil to make a small hole in
 
 the center of the circle.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Tape the circle to one end Using the rubber band
 
-### fix Fold the paper strip and tape
+fix Fold the paper strip and tape
 
 of the tube.
 
@@ -7474,101 +7474,101 @@ the plastic over the other end.
 
 it to a table top.
 
-## Sliding snow
+# Sliding snow
 
-### Tapping the plastic causes a sound
+# Tapping the plastic causes a sound
 
-### Sound can cause an “avalanche”—
+Sound can cause an “avalanche”—
 
 wave to travel down the tube.
 
-## when ice and snow crash down
+when ice and snow crash down
 
 the side of a mountain.
 
-## Sound
+# Sound
 
-### waves from a loud noise disturb
+waves from a loud noise disturb
 
 the snow and start it moving.
 
-## The sound wave
+# The sound wave
 
-## makes the air move
+makes the air move
 
 and shake the strip.
 
-## Point the end
+# Point the end
 
-## of the tube with the
+of the tube with the
 
-## hole at the paper
+hole at the paper
 
-## The hole directs
+# The hole directs
 
 strip.
 
-## Tap the plastic
+# Tap the plastic
 
-## the sound wave
+the sound wave
 
 and the strip shakes.
 
 toward the strip.
 
-## Sound and music
+# Sound and music
 
-## Make a coat-hanger clanger
+# Make a coat-hanger clanger
 
-## Sound waves travel through
+# Sound waves travel through
 
 You will need:
 
-## other materials as well as
+other materials as well as
 
-## through air—sometimes
+through air—sometimes
 
 much better.
 
-## This simple
+# This simple
 
-## Ruler
+# Ruler
 
-## experiment uses cotton thread
+experiment uses cotton thread
 
 to carry sounds to your ears.
 
-### Scissors Cotton thread Coat hanger
+# Scissors Cotton thread Coat hanger
 
-## Sound travels more
+# Sound travels more
 
-## As the coat
+# As the coat
 
-## efficiently up the
+efficiently up the
 
-## hanger bangs
+hanger bangs
 
-## thread to your
+thread to your
 
 against the chair,
 
-## ears than it does
+ears than it does
 
-## it makes a gentle
+it makes a gentle
 
 through the air.
 
 ringing sound.
 
-## When you have
+# When you have
 
 tied the threads,
 
-## slide them to opposite
+slide them to opposite
 
 corners of the hanger.
 
-## 1. 2.
+# 1. 2.
 
 Measure out and cut Wind one thread around
 
@@ -7584,119 +7584,119 @@ coat hanger.
 
 Listen to the noise it makes.
 
-## Sounds in your head
+# Sounds in your head
 
 Strike a tuning fork on a table.
 
-## Gently press the base against
+# Gently press the base against
 
 your head.
 
-## The sound is louder
+# The sound is louder
 
 than when you first heard it!
 
-## Like the thread in the above
+# Like the thread in the above
 
 experiment, the bones of your
 
-### skull carry sounds to your ears
+skull carry sounds to your ears
 
 much better than the air.
 
-## Put
+# Put
 
-## the fingers
+the fingers
 
-## wrapped in
+wrapped in
 
-## cotton thread in
+cotton thread in
 
 your ears, but do not
 
 press them in too hard.
 
-## Swing the hanger against the
+# Swing the hanger against the
 
 chair again.
 
-## Now the hanger sounds
+# Now the hanger sounds
 
 like the clanging of a huge bell!
 
-## Sound and music
+# Sound and music
 
-## Bounce a sound
+# Bounce a sound
 
 Sometimes, you hear sounds
 
 You will need:
 
-## that have not come straight
+that have not come straight
 
 to you.
 
-## Show how sounds
+# Show how sounds
 
-### may reach your ears after Ticking watch
+may reach your ears after Ticking watch
 
-## they have first bounced
+they have first bounced
 
 off another object.
 
 Two cardboard tubes Plate Cork mat Several books
 
-## Hold
+# Hold
 
-## the watch
+the watch
 
-## close to one
+close to one
 
-## ear and
+ear and
 
-## check that
+check that
 
 it ticks.
 
-## 1. 2.
+# 1. 2.
 
-## Build two piles of books
+# Build two piles of books
 
-## both Lay one tube on each of
+both Lay one tube on each of
 
 the same height.
 
 the piles of books.
 
-## The sound waves bounce off
+# The sound waves bounce off
 
-## the hard plate and travel up
+the hard plate and travel up
 
-## Sound waves travel down
+# Sound waves travel down
 
 the tube to your ears.
 
 the tube to the plate.
 
-## Listen at the end
+# Listen at the end
 
 of the other tube.
 
-## cannot hear the watch
+cannot hear the watch
 
-## tick—until a friend holds
+tick—until a friend holds
 
-## Place the watch in the end
+# Place the watch in the end
 
-## the plate near the ends
+the plate near the ends
 
 of one of the tubes.
 
 of the tubes.
 
-### Good sounds Get your friend to hold
+# Good sounds Get your friend to hold
 
-## In a concert hall
+# In a concert hall
 
 sound waves a cork mat instead of the plate.
 
@@ -7706,57 +7706,57 @@ walls.
 
 This helps improve watch anymore.
 
-## the quality of the sound the
+the quality of the sound the
 
 audience hears.
 
-## Sound
+# Sound
 
-## waves
+waves
 
-## The soft cork
+# The soft cork
 
-## bounce
+bounce
 
-## soaks up the
+soaks up the
 
 off walls.
 
 sound waves.
 
-## Sound and music
+# Sound and music
 
-## Make a paper banger
+# Make a paper banger
 
-### Make a loud bang with nothing more than
+# Make a loud bang with nothing more than
 
 You will need:
 
 a sheet of paper!
 
-## The banger produces a
+# The banger produces a
 
-## Sheet of stiff paper
+# Sheet of stiff paper
 
 quick and large movement of air, forming
 
-## measuring about
+measuring about
 
 a sudden and powerful sound wave.
 
-## This 12 in by 16 in
+# This 12 in by 16 in
 
-## (30 cm by 40 cm)
+(30 cm by 40 cm)
 
-### rushes through the air toward you and
+rushes through the air toward you and
 
 you hear it as a bang.
 
-## First fold
+# First fold
 
-## Fold here First fold
+# Fold here First fold
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Fold the longer edges of Fold the corners into Fold the paper in half along
 
@@ -7766,15 +7766,15 @@ Then open the first fold.
 
 the first fold.
 
-## Then fold it in half
+# Then fold it in half
 
 it out.
 
 again, lengthways.
 
-## Sharp corner Second fold
+# Sharp corner Second fold
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Open out the second fold.
 
@@ -7784,7 +7784,7 @@ sharp corners.
 
 second fold to make a triangle shape.
 
-## Thunder and lightning
+# Thunder and lightning
 
 A flash of lightning heats the air A flap of paper springs out and
 
@@ -7796,31 +7796,31 @@ This sends a powerful sound You hear this as a bang.
 
 wave through the air.
 
-## We hear
+# We hear
 
 this as a clap of thunder.
 
-## Grip the banger firmly
+# Grip the banger firmly
 
 by the two sharp corners.
 
-## Flick
+# Flick
 
-## it down quickly—and it makes
+it down quickly—and it makes
 
 a loud bang!
 
-## Sound and music
+# Sound and music
 
-## Beat some drums
+# Beat some drums
 
-## Make a tin drum and
+# Make a tin drum and
 
 You will need:
 
 a tom-tom.
 
-## They make
+# They make
 
 different kinds of sounds,
 
@@ -7828,33 +7828,33 @@ but they work in the same Scissors Pencil
 
 way.
 
-## When you hit a drum’s
+When you hit a drum’s
 
 stretched skin, it vibrates.
 
-### This makes the air inside Colored paper
+# This makes the air inside Colored paper
 
-## Round
+# Round
 
-## the drum vibrate—and
+the drum vibrate—and
 
-## cookie tin
+cookie tin
 
-## White
+# White
 
 out comes the sound.
 
-## cotton muslin
+cotton muslin
 
-## Giant balloon Two plastic
+# Giant balloon Two plastic
 
-## flowerpots
+flowerpots
 
-### 16 ft (5 m) Cord with Glue Colored
+16 ft (5 m) Cord with Glue Colored
 
-## of thin cord tassels tape
+of thin cord tassels tape
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Decorate the tin with colored Cut off the balloon’s neck.
 
@@ -7864,7 +7864,7 @@ paper.
 
 Tape the thick cord firmly Stretch the balloon over the tin and on the muslin.
 
-## Then draw two
+# Then draw two
 
 to opposite sides of the tin.
 
@@ -7874,13 +7874,13 @@ The tin drum is ready.
 
 larger circles around each one.
 
-## Make sure
+# Make sure
 
-## the holes are
+the holes are
 
 evenly spaced.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Cover the pots with colored Cut out the large circles Fold in and glue the flaps of
 
@@ -7896,11 +7896,11 @@ pots firmly together.
 
 as far as the second circle.
 
-## 16 holes around each edge.
+16 holes around each edge.
 
-## Sound and music
+# Sound and music
 
-## 7. 8. 9.
+# 7. 8. 9.
 
 Thread thin cord through the Zigzag the rest of the cord Spread glue over each circle.
 
@@ -7910,7 +7910,7 @@ Place a circle over each pot.
 
 through the cords in the edges of Tighten the cord again.
 
-## When the
+# When the
 
 Pull the cord tight and tie it.
 
@@ -7920,31 +7920,31 @@ Pull it tight and tie it.
 
 glue is dry, the tom-tom is ready.
 
-## The tape holds the
+# The tape holds the
 
 balloon skin, so it
 
 stays stretched.
 
-## Tightening the cord
+# Tightening the cord
 
-## stretches the muslin
+stretches the muslin
 
-## skin more and gives
+skin more and gives
 
 a higher note.
 
-### Squares of Do not strike the drum
+# Squares of Do not strike the drum
 
-### colored paper and skins too hard
+colored paper and skins too hard
 
-## as they
+as they
 
 strips of tape.
 
 may burst or break.
 
-### Put the cord of the tin drum Drum set
+# Put the cord of the tin drum Drum set
 
 around your neck.
 
@@ -7958,51 +7958,51 @@ the tom-tom under your arm or It has several drums of different
 
 between your knees.
 
-## Beat it with sizes
+# Beat it with sizes
 
-## and the drummer plays
+and the drummer plays
 
 your fingers.
 
-### them all—including a large drum
+them all—including a large drum
 
 played with a foot pedal.
 
-## It also
+# It also
 
 has several cymbals.
 
-## Sound and music
+# Sound and music
 
-## Strike up a tune
+# Strike up a tune
 
 Make your own xylophone.
 
 You will need:
 
-## This instrument has wooden
+# This instrument has wooden
 
-## Paintbrush
+# Paintbrush
 
-## bars that vibrate
+bars that vibrate
 
 producing Pencil Thick Poster paint Scissors
 
 musical notes when you strike sharpener colored card
 
-## Wooden skewers
+# Wooden skewers
 
 them.
 
-### Your xylophone is Felt 8 fat pencils
+# Your xylophone is Felt 8 fat pencils
 
 made with pencils.
 
-## Glue Beads
+# Glue Beads
 
-## Ruler
+# Ruler
 
-## 1. 2.
+# 1. 2.
 
 Use the shapes below to Use the sharpener to shorten
 
@@ -8010,29 +8010,29 @@ make a cardboard frame.
 
 Paint it the pencils as shown.
 
-## Rest them
+# Rest them
 
 and glue felt along the ridges.
 
 on the frame.
 
-### Play the pencil xylophone with
+# Play the pencil xylophone with
 
-### beaters made from wooden skewers
+beaters made from wooden skewers
 
-### Make the sides of the frame this shape
+# Make the sides of the frame this shape
 
-## 5 in (21 cm) long.
+5 in (21 cm) long.
 
 and beads.
 
-### Make the short end of the frame
+# Make the short end of the frame
 
 Make the long end of the frame These shapes are smaller
 
 this shape, 4.
 
-## 5 in (11 cm) long.
+5 in (11 cm) long.
 
 this shape, 6 in (15 cm) long.
 
@@ -8040,7 +8040,7 @@ than the ones you need.
 
 Make yours the sizes shown.
 
-## Play a pipe
+# Play a pipe
 
 You can make music from a set of pipes.
 
@@ -8054,51 +8054,51 @@ This makes the air inside each pipe Card Glue Scissors
 
 vibrate, producing a musical note.
 
-## Different
+# Different
 
 lengths of pipe give different notes.
 
 Colored About 5 ft (1.
 
-## 5 m) Colored
+5 m) Colored
 
 tapes of plastic pipe ribbon Modeling clay
 
-## 1. 2.
+# 1. 2.
 
-## Cut the Tape the
+# Cut the Tape the
 
 pipe into pieces, pipes together
 
 each 0.
 
-## 5 in to make a set.
+5 in to make a set.
 
-## (1 cm) longer Glue the ribbon
+(1 cm) longer Glue the ribbon
 
 than the last.
 
 to a strip of card,
 
-### Decorate them and glue it over
+# Decorate them and glue it over
 
 with tape.
 
 the tape.
 
-## Sound and music
+# Sound and music
 
-## Longer pipes make
+# Longer pipes make
 
 deeper sounds.
 
-## Hold the set of
+# Hold the set of
 
-## pipes against your
+pipes against your
 
 Roll the clay into small bottom lip.
 
-## Move the
+# Move the
 
 balls.
 
@@ -8106,41 +8106,41 @@ Push one ball of clay into pipes to and fro
 
 the bottom of each pipe.
 
-## blow into different
+blow into different
 
-## Shorter pipes
+# Shorter pipes
 
 pipes to play a tune.
 
 give higher notes.
 
-## Blow a horn
+# Blow a horn
 
-### You can make a horn from a hose and
+# You can make a horn from a hose and
 
 You will need:
 
 funnel!
 
-### Close your lips firmly together and
+# Close your lips firmly together and
 
 put them to the end of the horn.
 
-## Blow air Scissors
+# Blow air Scissors
 
 through your lips and the horn will sound.
 
-## Funnel
+# Funnel
 
-### This happens because your lips make the
+# This happens because your lips make the
 
-### Cord with 30 in (75 cm) Colored
+Cord with 30 in (75 cm) Colored
 
 air inside the horn vibrate.
 
-## tassels of hose Pencil tape
+tassels of hose Pencil tape
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Decorate the funnel with tape.
 
@@ -8150,7 +8150,7 @@ Push it into one end of the hose to make the mouthpiece.
 
 Loop of tape and the cord.
 
-## Now your
+# Now your
 
 and secure it with tape.
 
@@ -8158,25 +8158,25 @@ the hose and fix the pencil to it.
 
 horn is ready to blow.
 
-## Blow through
+# Blow through
 
 the mouthpiece.
 
-## The horn produces
+# The horn produces
 
 only a few notes.
 
-## can get these by pressing
+can get these by pressing
 
-## your lips tighter together
+your lips tighter together
 
 as you blow, or letting
 
 them relax a little.
 
-## Sound and music
+# Sound and music
 
-## Build a banjo
+# Build a banjo
 
 A banjo has four strings,
 
@@ -8184,57 +8184,57 @@ You will need:
 
 stretched tightly.
 
-## You play
+# You play
 
-### the banjo by plucking the Length of
+the banjo by plucking the Length of
 
-## wood
+wood
 
 strings with your fingers.
 
-## Pen Scissors
+# Pen Scissors
 
-## Colored
+# Colored
 
-## Colored
+# Colored
 
 The strings vibrate very fast, paper
 
-## ribbons
+ribbons
 
 producing musical notes.
 
-## Poster paints Colored
+# Poster paints Colored
 
-## You can strum a rhythm by
+# You can strum a rhythm by
 
-## 10 ft (3 m) fishing line tape
+10 ft (3 m) fishing line tape
 
-### plucking all the strings Big balloon
+plucking all the strings Big balloon
 
 together.
 
-## Or you can play one
+# Or you can play one
 
-## Paintbrush
+# Paintbrush
 
-## Stiff
+# Stiff
 
 note after another, to pick out card
 
 a tune.
 
-## You can make each
+# You can make each
 
-## Four Eight eyelet
+# Four Eight eyelet
 
 string play several notes.
 
 Round, plastic tacks screws Glue
 
-## ice-cream tub Clear glaze
+ice-cream tub Clear glaze
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut two “I” shapes under Bend the flaps of the “I” shapes Paint and glaze the wood
 
@@ -8242,7 +8242,7 @@ the rim of the tub, opposite each out.
 
 Push the end of the wood and the tub.
 
-## Mix glue with the
+# Mix glue with the
 
 other.
 
@@ -8250,7 +8250,7 @@ Make them as wide as the through the holes.
 
 Tack the flaps paint you use for the tub.
 
-## Paint
+# Paint
 
 end of the wood.
 
@@ -8258,7 +8258,7 @@ to the wood.
 
 lines across the wood.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Cut off the neck of the Partly screw four eyelet screws Make two triangular bridges
 
@@ -8268,7 +8268,7 @@ Stretch the balloon over into each end of the wood.
 
 Make of card and paper.
 
-## Make one the
+# Make one the
 
 the tub and tape it to the sides.
 
@@ -8280,23 +8280,23 @@ either direction.
 
 other three times as wide.
 
-## Sound and music
+# Sound and music
 
-## 7. 8. 9.
+# 7. 8. 9.
 
 Make four strings by Insert the two bridges under Decorate the banjo by fixing
 
 cutting the fishing line.
 
-## Tie these the strings
+# Tie these the strings
 
 as the picture shows.
 
-### pieces of ribbon of different colors
+pieces of ribbon of different colors
 
 strings securely to the two sets Turn the eyelet screws to tighten to the eyelet screws.
 
-## Your banjo
+# Your banjo
 
 of eyelet screws.
 
@@ -8306,11 +8306,11 @@ is now ready to play.
 
 Hold a string down to change its note.
 
-### Tightening the string makes it
+# Tightening the string makes it
 
 The notes get higher as you move your sound higher.
 
-## Slightly loosening
+# Slightly loosening
 
 hand toward the tub.
 
@@ -8318,79 +8318,79 @@ The lines show the string lowers its note.
 
 you where to press the strings.
 
-## Make each bridge by
+# Make each bridge by
 
-## folding and gluing pieces
+folding and gluing pieces
 
 of card and paper.
 
-## four notches in one edge
+four notches in one edge
 
 to hold the strings.
 
-## The bridges raise
+# The bridges raise
 
-## the strings so they
+the strings so they
 
 are free to vibrate.
 
-### Tune the banjo by Busy fingers
+# Tune the banjo by Busy fingers
 
-## tightening the strings
+tightening the strings
 
-### so each The guitar is like a banjo
+so each The guitar is like a banjo
 
 one gives a different note.
 
 except that it has six strings.
 
-## When you press a guitar or
+# When you press a guitar or
 
 banjo string, you change the
 
-### length of the part of the string
+length of the part of the string
 
 that vibrates.
 
-## This changes
+# This changes
 
-## the note made by the string
+the note made by the string
 
 when you pluck it.
 
-## MAGNETS
+# MAGNETS
 
 Magnets have mysterious powers.
 
-## They
+# They
 
 can pull things toward them, and push
 
 other magnets away.
 
-## This power drives
+# This power drives
 
 the electric motors that are inside many
 
-### machines we use—such as hair dryers
+machines we use—such as hair dryers
 
 and trains.
 
-## Magnets make it possible for
+# Magnets make it possible for
 
-## television sets
+television sets
 
-## radios
+radios
 
-## and music players
+and music players
 
 to produce sounds.
 
-## Computers use
+# Computers use
 
 magnets to store information.
 
-## Lights in the sky
+# Lights in the sky
 
 Magnetic mineral The Earth is a huge magnet.
 
@@ -8408,45 +8408,45 @@ and south poles.
 
 North, south, east, west
 
-## You use a compass to find
+# You use a compass to find
 
 directions.
 
-## It makes use of the
+# It makes use of the
 
 Earth’s magnetism, which causes
 
 the needle always to point north.
 
-## Pick and stick
+# Pick and stick
 
-## A magnet can
+# A magnet can
 
-## pick up objects
+pick up objects
 
-## made of iron or
+made of iron or
 
 steel.
 
-## The objects
+# The objects
 
-## stick to the ends
+stick to the ends
 
 of the magnets.
 
-## Flying home
+# Flying home
 
 Gadgets and magnets Pigeons can usually find their
 
-## Many gadgets around you
+# Many gadgets around you
 
 including way home.
 
-## Some scientists
+# Some scientists
 
-## computers
+computers
 
-## music players
+music players
 
 and earphones believe they use the Earth’s
 
@@ -8458,37 +8458,37 @@ use to store information also contain magnets.
 
 much like a compass.
 
-## Magnets
+# Magnets
 
 Charm a snake, f ly a kite
 
-## Make a snake rear up and
+# Make a snake rear up and
 
 You will need:
 
-## raise a kite into the sky—all
+raise a kite into the sky—all
 
 with the amazing power of Scissors Sewing Ruler
 
-## thread
+thread
 
 magnets.
 
 At the same time,
 
-## you can find out which kinds
+you can find out which kinds
 
 Small objects,
 
 of things magnets attract.
 
-## Selection of paper clips
+# Selection of paper clips
 
-## and Tape Colored
+and Tape Colored
 
-## magnets a pencil Glue felt
+magnets a pencil Glue felt
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Copy the snake pattern Tie a short length of thread Tape a magnet to the
 
@@ -8498,7 +8498,7 @@ Cut out the snake and to a paper clip.
 
 Attach the paper end of the ruler.
 
-## Tape the loose end
+# Tape the loose end
 
 decorate it with colored felt.
 
@@ -8506,39 +8506,39 @@ clip to the snake’s head.
 
 of the thread firmly to the table.
 
-## The magnet attracts the
+# The magnet attracts the
 
 paper clip.
 
-## Raise the magnet
+# Raise the magnet
 
-## so that the paper clip pulls
+so that the paper clip pulls
 
 the thread tight.
 
-## Snake pattern
+# Snake pattern
 
-## Move the ruler and
+# Move the ruler and
 
 magnet around, above
 
 the snake.
 
-## The snake rises
+# The snake rises
 
 and dances, like a snake-
 
 charmer’s snake.
 
-## If the
+# If the
 
 snake does not rise, use
 
-## a stronger magnet or a
+a stronger magnet or a
 
 Hold a magnet close to shorter thread.
 
-## Try making
+# Try making
 
 the objects.
 
@@ -8550,43 +8550,43 @@ iron and steel.
 
 colored felt kite.
 
-## Magnets
+# Magnets
 
-### Compare the strength of magnets
+# Compare the strength of magnets
 
-## Some magnets are stronger
+# Some magnets are stronger
 
 You will need:
 
 than others.
 
-## This experiment
+# This experiment
 
-## Wooden skewers
+# Wooden skewers
 
-## shows you how to test a
+shows you how to test a
 
-### magnet’s strength and compare Two bar
+magnet’s strength and compare Two bar
 
-## magnets
+magnets
 
-### the strengths of different Meat baster
+the strengths of different Meat baster
 
 combinations of magnets.
 
-### Rubber Small Washable-ink Glass Pitcher
+# Rubber Small Washable-ink Glass Pitcher
 
 bands plastic lid pen Paper clip beaker of water
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Place an upright bar magnet Add water to the glass beaker Rest the wooden skewers
 
-## between two wooden skewers
+between two wooden skewers
 
 until it is about one-third full.
 
-### Put holding the magnet on the rim
+# Put holding the magnet on the rim
 
 midway along their lengths.
 
@@ -8594,7 +8594,7 @@ Loop the paper clip in the plastic lid.
 
 of the beaker.
 
-## Make sure that
+# Make sure that
 
 rubber bands over the skewers to Gently place the lid on the the bottom end of the magnet is
 
@@ -8604,17 +8604,17 @@ water’s surface, so that it floats.
 
 positioned over the plastic lid.
 
-## 5. 6.
+# 5. 6.
 
-### Mark the water level on the This time
+# Mark the water level on the This time
 
-## the water level
+the water level
 
 outside of the beaker.
 
 Repeat the is much lower.
 
-## Two magnets are
+# Two magnets are
 
 experiment using two magnets.
 
@@ -8626,7 +8626,7 @@ ends are alongside each other.
 
 the paper clip toward them.
 
-## Moving magnets
+# Moving magnets
 
 A maglev (short for magnetic levitation) train
 
@@ -8638,63 +8638,63 @@ add drops of water to the beaker.
 
 A magnetic coil running along the track repels
 
-## Stop adding water when the
+# Stop adding water when the
 
-### magnets on the underside of the train
+magnets on the underside of the train
 
-## which
+which
 
-## paper clip jumps up and
+paper clip jumps up and
 
 makes the train hover (levitate).
 
-## Electricity
+# Electricity
 
 clings to the magnet.
 
-## flows through the coils
+flows through the coils
 
-## which creates magnetic
+which creates magnetic
 
 pushes and pulls that move the train forward.
 
-## Magnets
+# Magnets
 
-## Build a magnetic car
+# Build a magnetic car
 
-### You can use two ordinary magnets
+# You can use two ordinary magnets
 
 You will need:
 
 to make a toy car move.
 
-## It works
+# It works
 
-### because two magnets can either
+because two magnets can either
 
-### Empty matchbox Modeling Drinking straw
+# Empty matchbox Modeling Drinking straw
 
-### attract or repel each other when
+attract or repel each other when
 
-## clay
+clay
 
 they are brought close together.
 
-## Two bar magnets
+# Two bar magnets
 
 way in which they move depends Two toothpicks
 
-### on which ends of the magnets are
+on which ends of the magnets are
 
 facing each other.
 
-## Scissors Tape Card Compass
+# Scissors Tape Card Compass
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Firmly tape one of the Cut the straw in two pieces.
 
-## Tape the pieces of straw to
+# Tape the pieces of straw to
 
 magnets to the inside of the Make each piece the same size as the outside part of the matchbox.
 
@@ -8704,41 +8704,41 @@ the matchbox.
 
 Slide in the tray.
 
-## Put modeling
+# Put modeling
 
-## clay over the
+clay over the
 
 sharp points.
 
-## 4. 5.
+# 4. 5.
 
-## Using the compass
+# Using the compass
 
-## draw Push the toothpicks
+draw Push the toothpicks
 
 four identical circles on the card.
 
 through the straws.
 
-## Attach the
+# Attach the
 
 Carefully cut them out.
 
 card circles to them.
 
-## The magnet in the car
+# The magnet in the car
 
-## is attracted or repelled by
+is attracted or repelled by
 
 the magnet in your hand.
 
-## Place the
+# Place the
 
-## matchbox car on a
+matchbox car on a
 
 tabletop.
 
-## Bring the
+# Bring the
 
 Turn the magnet around, and the
 
@@ -8746,23 +8746,23 @@ other magnet close.
 
 car rolls in the other direction.
 
-## The car rolls toward or
+# The car rolls toward or
 
 away from the magnet.
 
-## Magnets
+# Magnets
 
-## Detect a magnet’s field
+Detect a magnet’s field
 
 Around every magnet, there
 
 You will need:
 
-## is a “magnetic field” where
+is a “magnetic field” where
 
-## Pencil String
+# Pencil String
 
-## the magnet can exert its
+the magnet can exert its
 
 powers to push or pull.
 
@@ -8774,7 +8774,7 @@ plastic containers Syrup horseshoe magnets filings wrap
 
 a way you can see it.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pour a dessert spoon of iron Place two bar magnets Fill the third container
 
@@ -8784,7 +8784,7 @@ Stir it under one container.
 
 Place two with the mixture.
 
-## Wrap a bar
+# Wrap a bar
 
 well, mixing the filings evenly.
 
@@ -8792,7 +8792,7 @@ horseshoe magnets at opposite magnet in clear food wrap.
 
 Then pour some mixture into two sides of the other.
 
-### it with string to a pencil and
+it with string to a pencil and
 
 clear glass or plastic containers.
 
@@ -8810,13 +8810,13 @@ the magnets’ magnetic fields.
 
 The of the filings shows how the two attract iron filings.
 
-## The filings
+# The filings
 
 pattern shows you the direction magnetic fields are working in show how the magnetic fields
 
 of the pull from the magnets on opposite directions
 
-### keeping loop around from one end of
+keeping loop around from one end of
 
 the iron filings.
 
@@ -8824,53 +8824,53 @@ the magnets apart.
 
 each magnet to the other end.
 
-## Magnets
+# Magnets
 
-## A magnetic field
+# A magnetic field
 
-## extends in all
+extends in all
 
-## directions around
+directions around
 
 a magnet.
 
-## You can
+# You can
 
-## see this clearly
+see this clearly
 
-## with the magnet
+with the magnet
 
-## hanging in the
+hanging in the
 
 syrup.
 
-## It looks the
+# It looks the
 
-## same whichever
+same whichever
 
 way you turn it.
 
-## Magnetic attraction
+# Magnetic attraction
 
-## A magnet can pick
+# A magnet can pick
 
-## up a whole chain of
+up a whole chain of
 
 small, steel objects.
 
-## The magnet’s field
+The magnet’s field
 
-## turns each one of the
+turns each one of the
 
-## Throw the syrup
+# Throw the syrup
 
-## Covering the
+# Covering the
 
-## objects into a small
+objects into a small
 
-## away after the
+away after the
 
-## magnet keeps it
+magnet keeps it
 
 experiment—do magnet, which goes
 
@@ -8878,29 +8878,29 @@ from getting sticky.
 
 not try to eat it!
 
-## on to attract another
+on to attract another
 
 steel object.
 
-## Separate a mixture
+# Separate a mixture
 
-### It is usually very difficult to
+# It is usually very difficult to
 
 You will need:
 
-## separate two powders that
+separate two powders that
 
 have been mixed together.
 
-### But you can do it easily if one
+# But you can do it easily if one
 
-## of the powders is magnetic
+of the powders is magnetic
 
 and the other is not.
 
 Plate of iron filings Magnet Plate of sand
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Tip the plate of iron filings so Keep stirring until the sand Bring a magnet close to the
 
@@ -8908,7 +8908,7 @@ that they drop into the sand.
 
 Stir and the iron filings are completely plate.
 
-### It will pick up the iron filings
+# It will pick up the iron filings
 
 them together with your fingers.
 
@@ -8916,41 +8916,41 @@ mixed up.
 
 and leave the sand behind.
 
-## Magnets
+# Magnets
 
-## Construct a compass
+# Construct a compass
 
-## The Earth is a huge magnet
+# The Earth is a huge magnet
 
 You will need:
 
 with its own magnetic field.
 
-### This field is strong enough to Tape
+# This field is strong enough to Tape
 
 make another magnet turn if it Needle Pitcher of water Toothpick
 
 is free to move.
 
-## A magnet will
+# A magnet will
 
 always turn to point north.
 
 Styrofoam pad Bar magnet Modeling clay Compass Plastic container
 
-## The disk must
+# The disk must
 
-## fit inside the
+fit inside the
 
-## The needle
+# The needle
 
 container.
 
-## becomes
+becomes
 
 a magnet.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Use the compass to draw Stick a blob of modeling clay Stroke one end of the magnet
 
@@ -8966,17 +8966,17 @@ the toothpick upright in it.
 
 in the same direction.
 
-## North pole of the
+# North pole of the
 
-## Earth’s magnetic field
+Earth’s magnetic field
 
-## When water reaches
+# When water reaches
 
 the disk, it floats and
 
 turns.
 
-## One end of the
+# One end of the
 
 Tape the needle to the disk.
 
@@ -8990,83 +8990,83 @@ container with water.
 
 Mark this end.
 
-## Getting directions
+# Getting directions
 
-## South
+# South
 
-### The needle of a compass is a light
+# The needle of a compass is a light
 
-## pole
+pole
 
 magnet balancing on a pivot.
 
-## As you
+# As you
 
 turn the compass around, the needle
 
 always swings to point north.
 
-## If you When the needle is
+# If you When the needle is
 
 magnetized, one end gains
 
-### turn the compass until “N” for north
+turn the compass until “N” for north
 
 a north pole.
 
-## The north
+# The north
 
 is below the needle, it will show all
 
-## pole of the Earth’s
+pole of the Earth’s
 
 directions correctly.
 
-## magnetic field attracts the
+magnetic field attracts the
 
 north pole of the needle.
 
-## Magnets
+# Magnets
 
-## Make an electromagnet
+# Make an electromagnet
 
-## You can make a strong magnet
+# You can make a strong magnet
 
 You will need:
 
-## Tape
+# Tape
 
 by using electricity.
 
-## It is not
+# It is not
 
-## Long screwdriver
+# Long screwdriver
 
 like an ordinary magnet, which
 
 is always magnetic.
 
-## You can Wire strippers
+# You can Wire strippers
 
-## switch the power of an
+switch the power of an
 
 electromagnet on and off.
 
 Switch 4.
 
-## 5 V Lots of 6.
+5 V Lots of 6.
 
-## 5 ft (2 m)
+5 ft (2 m)
 
 Scissors (see experiment 87) battery paper clips coated wire
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut a long piece of wire.
 
 Coil most of the rest of the Connect the wire
 
-## and another
+and another
 
 Strip the ends and tape part of it wire around the screwdriver.
 
@@ -9078,31 +9078,31 @@ Tape the last turn.
 
 and switch, as the picture shows.
 
-## The paper clips Electromagnet
+# The paper clips Electromagnet
 
-### contain steel wire with 60 turns
+contain steel wire with 60 turns
 
-## that is attracted to
+that is attracted to
 
 the electromagnet.
 
-## Connect the
+# Connect the
 
-## short wire to the
+short wire to the
 
 other terminal.
 
-## Electromagnet
+# Electromagnet
 
-## with 40 turns
+with 40 turns
 
-## The screwdriver is
+# The screwdriver is
 
 now an electromagnet.
 
-## Press the Electromagnet
+# Press the Electromagnet
 
-## switch
+switch
 
 and the screwdriver picks up with 20 turns
 
@@ -9112,43 +9112,43 @@ Open the switch,
 
 and the paper clips fall off.
 
-## Metal mover
+# Metal mover
 
-## This crane has a powerful
+# This crane has a powerful
 
-### electromagnet to lift bits of scrap
+electromagnet to lift bits of scrap
 
 iron and steel.
 
-## The scrap sticks
+# The scrap sticks
 
-### to the electromagnet when it is
+to the electromagnet when it is
 
 switched on, and can be moved
 
-## The coil of wire
+# The coil of wire
 
 by the crane.
 
-## When the current is
+# When the current is
 
-## produces a magnetic
+produces a magnetic
 
 switched off, the scrap falls away.
 
-## field when electricity
+field when electricity
 
 flows through it.
 
-## More turns
+# More turns
 
 of wire make a stronger field.
 
-## Magnets
+# Magnets
 
-## Build a buzzer
+# Build a buzzer
 
-## A buzzer uses magnetism to
+# A buzzer uses magnetism to
 
 You will need:
 
@@ -9158,7 +9158,7 @@ It contains an electromagnet,
 
 like the one on page 93.
 
-### The Steel nail file Switch Scissors
+# The Steel nail file Switch Scissors
 
 buzzer’s button is a kind of (see experiment 87)
 
@@ -9166,51 +9166,51 @@ switch.
 
 When you press it,
 
-## Thick cardboard
+# Thick cardboard
 
-## 4.5 V
+# 4.5 V
 
-## electricity can travel to the
+electricity can travel to the
 
-### Wire strippers battery Metal soda can
+# Wire strippers battery Metal soda can
 
 electromagnet in the buzzer.
 
-## Rubber
+# Rubber
 
-## band
+band
 
-## The electromagnet causes
+# The electromagnet causes
 
-## movements within the
+movements within the
 
 buzzer.
 
-## These movements
+# These movements
 
-### 9.8 ft (3 m) Iron or Modeling Thread
+# 9.8 ft (3 m) Iron or Modeling Thread
 
 make the noise.
 
-### covered wire Tape steel bolt clay spool
+covered wire Tape steel bolt clay spool
 
-## Hold the spool and flick
+# Hold the spool and flick
 
 the nail file.
 
-## It should
+# It should
 
-## vibrate to and fro
+vibrate to and fro
 
 several times.
 
-## 1. 2.
+# 1. 2.
 
 Strip both ends of the wire.
 
-### Wrap it firmly Using the rubber band
+# Wrap it firmly Using the rubber band
 
-## attach the handle
+attach the handle
 
 around the bolt 200 times.
 
@@ -9218,21 +9218,21 @@ Attach the bolt to the of the nail file firmly to the spool.
 
 cardboard with modeling clay.
 
-## You must remove the
+# You must remove the
 
 paint from the can,
 
-## otherwise it would
+otherwise it would
 
-## keep the electricity
+keep the electricity
 
-## from getting to the
+from getting to the
 
 electromagnet.
 
-## 3. 4.
+# 3. 4.
 
-## With the scissors
+# With the scissors
 
 scrape away some paint Tape one end of the wire to the metal part of
 
@@ -9246,25 +9246,25 @@ side of the can.
 
 as shown in the next picture.
 
-## Magnets
+# Magnets
 
-## Tape the wire to
+# Tape the wire to
 
-## the scraped part
+the scraped part
 
 of the can.
 
-## 5. 6.
+# 5. 6.
 
 Cut two wires and strip the ends.
 
-### Attach Stick the can to the card
+# Attach Stick the can to the card
 
-## with the end of the
+with the end of the
 
 one wire to the battery and the can and the other nail file touching the other scraped part.
 
-## Connect
+# Connect
 
 to the battery and the switch.
 
@@ -9272,37 +9272,37 @@ the switch, as the picture shows.
 
 Every time the nail file strikes the can
 
-## electricity
+electricity
 
 flows through it to the electromagnet.
 
-## This becomes
+# This becomes
 
-## magnetic
+magnetic
 
 and pulls the file away from the can.
 
-### Opening this gap stops the electricity
+# Opening this gap stops the electricity
 
-## and the
+and the
 
 electromagnet stops working.
 
-## The nail file springs
+# The nail file springs
 
 back and strikes the can again.
 
-## You may need
+# You may need
 
-## to move the bolt
+to move the bolt
 
 Electricity flows from the battery,
 
-## nearer to the nail
+nearer to the nail
 
 through the can, and into the nail file.
 
-## file to make the
+file to make the
 
 Then it passes through the electromagnet
 
@@ -9310,15 +9310,15 @@ buzzer work.
 
 and switch, back to the battery.
 
-## The bolt and
+# The bolt and
 
-## wire form an
+wire form an
 
 electromagnet.
 
-## Press the switch
+# Press the switch
 
-### and a loud buzz Magnetic machine
+and a loud buzz Magnetic machine
 
 comes from the can!
 
@@ -9326,17 +9326,17 @@ The nail file vibrates Telephones work much
 
 rapidly to and fro and strikes the can like a buzzer does.
 
-## Inside
+# Inside
 
 again and again.
 
 When you release the the earpiece there is a small
 
-## switch
+switch
 
 the nail file stops—and so does electromagnet.
 
-## When electricity
+# When electricity
 
 the buzzing.
 
@@ -9344,23 +9344,23 @@ flows through the electromagnet,
 
 it causes a strip of metal to vibrate.
 
-### This vibration produces the sound
+# This vibration produces the sound
 
 of the caller’s voice.
 
-## ELECTRICITY
+# ELECTRICITY
 
-### Electricity makes all kinds of
+# Electricity makes all kinds of
 
 machines work.
 
-## It can have great
+# It can have great
 
-### power—it drives the fastest trains in
+power—it drives the fastest trains in
 
 the world, for example.
 
-## But electricity
+# But electricity
 
 can also power very small machines,
 
@@ -9368,47 +9368,47 @@ such as MP3 players and calculators.
 
 Most machines you use at home,
 
-## such as television and vacuum
+such as television and vacuum
 
 cleaners, use “current electricity.
 
-### This is the kind of electricity that
+# This is the kind of electricity that
 
-### comes from batteries and power
+comes from batteries and power
 
 Power from water points in your home.
 
-## There is another
+# There is another
 
-## Plug into power
+# Plug into power
 
 The electricity we use kind of electricity
 
 called “static You plug electrical machines
 
-## in our homes is made in
+in our homes is made in
 
-## electricity
+electricity
 
 ” which you can like this hair dryer into power
 
 power stations.
 
-## This one
+# This one
 
 make yourself.
 
 points.
 
-## Electricity travels from
+# Electricity travels from
 
-## is a “hydroelectric” power
+is a “hydroelectric” power
 
-## power stations along wires
+power stations along wires
 
 station.
 
-## It uses the energy
+# It uses the energy
 
 and into the power points.
 
@@ -9416,9 +9416,9 @@ of moving water, coming
 
 through a dam.
 
-## Electric ride
+# Electric ride
 
-### These amusement park cars pick up
+# These amusement park cars pick up
 
 current electricity from overhead wires.
 
@@ -9426,21 +9426,21 @@ In each car, the electricity powers an
 
 electric motor that turns the wheels.
 
-## Electrical attraction
+# Electrical attraction
 
-### If you rub a balloon on a T-shirt or
+# If you rub a balloon on a T-shirt or
 
 your hair, it gets static electricity on
 
 its surface.
 
-## This causes it to stick to
+# This causes it to stick to
 
 things: walls, ceilings, even you!
 
-## Electricity
+# Electricity
 
-## Bend some water
+# Bend some water
 
 When you rub some objects, they gain
 
@@ -9448,53 +9448,53 @@ You will need:
 
 electricity.
 
-## This electricity stays in the
+# This electricity stays in the
 
-## objects
+objects
 
-## so it is called “static
+so it is called “static
 
-## ” which means
+” which means
 
 it is something that stays in the same place.
 
-### Static electricity has amazing power to
+# Static electricity has amazing power to
 
 attract things—even running water!
 
-## Balloon Balloon pump
+# Balloon Balloon pump
 
-## Rub the balloon
+# Rub the balloon
 
-## on something
+on something
 
 woollen, like
 
 a sweater.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Pump up the balloon.
 
 Stretch To give static electricity to the Hold the balloon near running
 
-## the neck and tie a knot in it
+the neck and tie a knot in it
 
-## so the balloon
+so the balloon
 
 rub it.
 
 water from a faucet.
 
-## The water
+# The water
 
 air does not escape.
 
 bends toward the balloon!
 
-## Make a propeller
+# Make a propeller
 
-## Static electricity can repel
+# Static electricity can repel
 
 You will need:
 
@@ -9506,21 +9506,21 @@ If you rub two pens,
 
 they will repel each other,
 
-## because they have both
+because they have both
 
 gained static electricity.
 
-### Thread Two plastic pens Silk scarf
+# Thread Two plastic pens Silk scarf
 
-## Static electricity
+# Static electricity
 
-## pushes the pen
+pushes the pen
 
-## around like a
+around like a
 
 propeller!
 
-## 1. 2.
+# 1. 2.
 
 Tie some thread around the Rub one end of each pen
 
@@ -9528,7 +9528,7 @@ middle of one of the pens.
 
 Position with a silk scarf.
 
-## Dangle one pen
+# Dangle one pen
 
 the thread so that the pen balances from the thread and bring the two
 
@@ -9536,35 +9536,35 @@ when it is dangled in the air.
 
 rubbed ends toward each other.
 
-## Electricity
+# Electricity
 
-## Jump with electricity
+# Jump with electricity
 
-### Get some paper people jumping up and
+# Get some paper people jumping up and
 
 You will need:
 
 down!
 
-### You can do this using the static
+# You can do this using the static
 
-### electricity you get when you rub a
+electricity you get when you rub a
 
 balloon.
 
-### The paper people jump both Pen
+# The paper people jump both Pen
 
-### ways because static electricity can
+ways because static electricity can
 
 repel objects as well as attract them.
 
 Scissors Balloon Balloon pump Stiff paper
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw some small people Carefully cut them out.
 
-## Place all your paper people
+# Place all your paper people
 
 on the paper.
 
@@ -9572,43 +9572,43 @@ Make as many people as you like.
 
 on a tabletop.
 
-### Pump up the balloon until it is
+# Pump up the balloon until it is
 
 quite big.
 
-## Then tie a knot in its neck
+# Then tie a knot in its neck
 
 so no air escapes.
 
-### Electric fields Rub the balloon on
+# Electric fields Rub the balloon on
 
 Run a comb through your hair some woollen clothes.
 
-## a few times and then see how
+a few times and then see how
 
 it picks up bits of paper.
 
-### invisible electric field forms
+invisible electric field forms
 
 At first, the electricity
 
-## around an object as it gains
+around an object as it gains
 
-## in the balloon attracts
+in the balloon attracts
 
 static electricity.
 
 The comb’s the paper people.
 
-### electric field reaches the bits
+electric field reaches the bits
 
-## of paper and attracts them so
+of paper and attracts them so
 
 that they cling to it.
 
-## For the
+# For the
 
-## same reason
+same reason
 
 a comb can also After the people have stuck
 
@@ -9618,49 +9618,49 @@ to the balloon, the static
 
 electricity repels them.
 
-## The people jump up
+# The people jump up
 
-## and down again and
+and down again and
 
-## 6. again as they are
+# 6. again as they are
 
-## Hold the balloon
+# Hold the balloon
 
 attracted and repelled.
 
-## about 4 in (10 cm)
+about 4 in (10 cm)
 
 above the people.
 
-## They
+# They
 
 jump up and down!
 
-## Electricity
+# Electricity
 
-## Wave a magic wand
+# Wave a magic wand
 
-### Use the power of electricity to turn
+# Use the power of electricity to turn
 
 You will need:
 
 yourself into a magician.
 
-## At the wave
+# At the wave
 
 of a wand, you can make some little
 
-## Sharp pencil
+# Sharp pencil
 
 silver balls dance on a record!
 
 In fact,
 
-## it is static electricity
+it is static electricity
 
-## not magic
+not magic
 
-## that
+that
 
 Glass or Silver balls for Clean, dry
 
@@ -9668,29 +9668,29 @@ makes them dance for you.
 
 plastic bowl cake decoration LP record handkerchief
 
-## 1. 2.
+# 1. 2.
 
 Rub the record Immediately,
 
-### briskly with the put the record on
+briskly with the put the record on
 
 handkerchief.
 
 top of the bowl.
 
-### It gains static Have the silver
+# It gains static Have the silver
 
 electricity.
 
 balls ready.
 
-## Use an old record
+# Use an old record
 
-## that no one wants
+that no one wants
 
 to play anymore.
 
-### Safe from lightning Drop a few
+# Safe from lightning Drop a few
 
 A tall building often has a silver balls on the
 
@@ -9698,25 +9698,25 @@ lightning conductor.
 
 This record.
 
-## They roll
+# They roll
 
-## Some parts of the
+# Some parts of the
 
-### is a pointed rod that reaches about
+is a pointed rod that reaches about
 
-## and then
+and then
 
-## record have more
+record have more
 
 from the top of the building suddenly stop.
 
-## static electricity and
+static electricity and
 
 to the ground.
 
 It can weaken attract the balls.
 
-## the static electricity in the
+the static electricity in the
 
 clouds, and this can stop
 
@@ -9726,55 +9726,55 @@ If it does strike, the conductor
 
 leads it safely to the ground.
 
-## The balls roll away
+# The balls roll away
 
-## to other parts of the
+to other parts of the
 
-## record with more
+record with more
 
 static electricity.
 
-## Conductor
+# Conductor
 
-## Bring the pencil
+# Bring the pencil
 
 toward the record.
 
-## As the
+# As the
 
-## The electricity gets
+# The electricity gets
 
 point gets near each ball, it
 
-## weaker where the
+weaker where the
 
 leaps away and dances around!
 
 pencil points.
 
-## Electricity
+# Electricity
 
-## Build a charge detector
+# Build a charge detector
 
-## Rubbing an object such as
+# Rubbing an object such as
 
 You will need:
 
-## a plastic comb or a balloon
+a plastic comb or a balloon
 
 gives it a charge of electricity.
 
-### Long nail Scissors Plastic pen
+# Long nail Scissors Plastic pen
 
-### Find out how to detect an Aluminum foil
+# Find out how to detect an Aluminum foil
 
-## electric charge—then see
+electric charge—then see
 
 how the charge can move.
 
 Round card Thread Plastic comb Tape Glass jar
 
-## 1. 2.
+# 1. 2.
 
 Ask an adult to push the nail about two-thirds Tie the middle of a piece of thread tightly near
 
@@ -9782,19 +9782,19 @@ of the way into the center of the card.
 
 the sharp end of the nail.
 
-## This is your
+# This is your
 
 charge detector.
 
-## Use only very small
+# Use only very small
 
 pieces of tape.
 
-## 3. 4.
+# 3. 4.
 
 Cut two strips of foil and tape them to the Place the card on the jar
 
-## with the foil strips
+with the foil strips
 
 ends of the thread.
 
@@ -9802,35 +9802,35 @@ hanging inside.
 
 Tape it in place.
 
-## Electricity
+# Electricity
 
-## The charge
+# The charge
 
-## travels out of
+travels out of
 
-## the strips and
+the strips and
 
 to your hand.
 
-## Make sure your
+# Make sure your
 
 hair is dry.
 
-## The charge
+# The charge
 
-## travels down
+travels down
 
-## the nail and
+the nail and
 
 to the strips.
 
-## The charges on
+# The charges on
 
-## the strips repel
+the strips repel
 
 each other.
 
-## 5. 6. 7.
+# 5. 6. 7.
 
 Run the comb quickly through Run the comb along the Touch the top of the nail.
 
@@ -9842,19 +9842,19 @@ The foil strips The strips collapse and hang down.
 
 move apart.
 
-## This shows the
+# This shows the
 
 comb has an electric charge,
 
 which passes to the strips.
 
-## Hair raiser
+# Hair raiser
 
-## When you pull off a sweater
+# When you pull off a sweater
 
 you may see sparks.
 
-## These are
+# These are
 
 The electric charge caused by static electric charges
 
@@ -9864,51 +9864,51 @@ the plastic pen, so the and your head.
 
 strips keep their charge.
 
-## Charge the
+# Charge the
 
 detector again.
 
-## touch the nail with a
+touch the nail with a
 
 plastic pen.
 
-## The foil
+# The foil
 
 strips do not collapse.
 
-## Electricity
+# Electricity
 
-## Construct a circuit
+# Construct a circuit
 
 Current electricity moves.
 
 You will need:
 
-## When a battery is connected
+# When a battery is connected
 
-## up properly
+up properly
 
-## current electricity Two paper
+current electricity Two paper
 
-## fasteners Wire strippers
+fasteners Wire strippers
 
 comes from one of its terminals.
 
-### It then follows a path called a
+# It then follows a path called a
 
-## Thick
+# Thick
 
 “circuit” back to the other one.
 
-## Coated Screwdriver cardboard
+# Coated Screwdriver cardboard
 
-## wire
+wire
 
-## 1.5 V Steel
+# 1.5 V Steel
 
-### 1.5 bulb battery Scissors Bulb-holder paper clip
+# 1.5 bulb battery Scissors Bulb-holder paper clip
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut two pieces of wire.
 
@@ -9916,11 +9916,11 @@ Firmly attach one end of each Make one wire touch the
 
 Carefully strip away the plastic wire to each terminal of the battery.
 
-### base of the bulb and the other
+base of the bulb and the other
 
 ends and then twist the bare Make sure the bare wire is touching one touch the side.
 
-## This forms
+# This forms
 
 strands of wire together.
 
@@ -9928,7 +9928,7 @@ the terminal.
 
 a circuit and the bulb lights up.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Screw the bulb into the Break the circuit by removing Cut a third piece of wire.
 
@@ -9936,11 +9936,11 @@ bulb-holder.
 
 Attach the wires to one of the wires from the battery.
 
-### Strip the ends and twist the strands
+# Strip the ends and twist the strands
 
 the bulb-holder as the picture The bulb goes out because of wire
 
-## in the same way as you did
+in the same way as you did
 
 shows.
 
@@ -9950,9 +9950,9 @@ electricity cannot pass the gap.
 
 in step 1.
 
-## Electricity
+# Electricity
 
-## 7. 8. 9.
+# 7. 8. 9.
 
 Fix one end of the third piece Cut out a piece of card Wind the end of the wire from
 
@@ -9962,7 +9962,7 @@ of wire to the battery terminal that measuring 1.
 
 is no longer connected.
 
-## 5 cm).
+5 cm).
 
 This is the base of a switch.
 
@@ -9970,11 +9970,11 @@ fastener.
 
 Push it through the card.
 
-## Closing the switch completes
+# Closing the switch completes
 
 a circuit.
 
-## Electricity flows from
+# Electricity flows from
 
 one battery terminal, through
 
@@ -9982,119 +9982,119 @@ the wires to the switch and bulb,
 
 and back to the other terminal.
 
-## Current electricity flows
+# Current electricity flows
 
-## 10. into and out of the wires
+# 10. into and out of the wires
 
-## Repeat step 9 with the
+# Repeat step 9 with the
 
 fixed to the terminals.
 
-## Printed circuits
+# Printed circuits
 
 wire from the battery.
 
-## Put a
+# Put a
 
-## Machines such as televisions
+# Machines such as televisions
 
-## paper clip around the
+paper clip around the
 
-## and computers contain many
+and computers contain many
 
 paper fastener.
 
 electrical parts.
 
-## Instead of
+# Instead of
 
 traveling through wires, current
 
-## electricity flows along lines
+electricity flows along lines
 
-## printed on boards inside the
+printed on boards inside the
 
 machine.
 
-## It goes to working
+# It goes to working
 
-## parts of the machine mounted
+parts of the machine mounted
 
 on these boards.
 
-## Close the switch by
+# Close the switch by
 
-### touching the paper clip to the first
+touching the paper clip to the first
 
 paper fastener.
 
 The bulb lights up.
 
-## Electricity
+# Electricity
 
-## Probe for electricity
+# Probe for electricity
 
-### Electricity does not flow through
+# Electricity does not flow through
 
 You will need: Tape
 
 all materials.
 
-## Wires that carry
+# Wires that carry
 
-### electricity are often coated with
+electricity are often coated with
 
-## Wire strippers Coated
+# Wire strippers Coated
 
 plastic to stop electricity from Colored card
 
-## wire
+wire
 
-## and paper
+and paper
 
-### passing from the wire into other
+passing from the wire into other
 
 Two 1.
 
 materials that it touches.
 
-## Make a
+# Make a
 
 batteries 3.
 
-### 5 V bulb Three pipe cleaners Aluminum foil
+5 V bulb Three pipe cleaners Aluminum foil
 
-### bug that shows if electricity can
+bug that shows if electricity can
 
 pass through something.
 
 Sequins Scissors Bulb-holder Glue Screwdriver
 
-## Screw the bulb
+# Screw the bulb
 
 into the holder.
 
-## 5-in
+5-in
 
-## (12-cm)
+(12-cm)
 
-## wire
+wire
 
-## Strip the ends
+# Strip the ends
 
 of the wires.
 
-## 3-in (8-cm) wire
+3-in (8-cm) wire
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Tape the top of one battery Cut lengths of wire 10
 
 5, Connect the 5-in (12-cm)
 
-### firmly to the base of the other
+firmly to the base of the other
 
-## with and 3 in (25
+with and 3 in (25
 
 12, and 8 cm) long.
 
@@ -10108,81 +10108,81 @@ one battery.
 
 other battery.
 
-## Make big eyes
+# Make big eyes
 
-## with ovals of
+with ovals of
 
 card and sequins.
 
-## 10-in (25-cm)
+10-in (25-cm)
 
-## wire attached to
+wire attached to
 
-## Make legs
+# Make legs
 
-## base of batteries
+base of batteries
 
-## 4. with pipe
+# 4. with pipe
 
-## Tape the bulb-holder to
+# Tape the bulb-holder to
 
 cleaners.
 
 the batteries.
 
-## Roll paper around the
+# Roll paper around the
 
 batteries and wires to make a bug.
 
-## 5. 5-in (12-cm) wire
+# 5. 5-in (12-cm) wire
 
-## Touch the foil balls on
+# Touch the foil balls on
 
-## attached to bulb-holder
+attached to bulb-holder
 
-### the bug’s feelers to different
+the bug’s feelers to different
 
-## Tightly wrap the
+# Tightly wrap the
 
 kinds of materials.
 
-## The bulb
+# The bulb
 
 ends of the wires Aluminum foil “conducts” or
 
-### lights up if electricity can pass
+lights up if electricity can pass
 
 in balls of foil.
 
 passes electricity.
 
-## It completes
+# It completes
 
 through the material.
 
 a circuit so that the bulb lights.
 
-## Electricity
+# Electricity
 
-## Build a battery
+# Build a battery
 
-## A battery contains chemicals
+# A battery contains chemicals
 
 You will need:
 
 that it uses to make electricity.
 
-## You can make your own simple
+# You can make your own simple
 
 battery with salt, foil, and coins.
 
 Two wires with Six copper Tape Pen Saucer
 
-## coins
+coins
 
-## stripped ends
+stripped ends
 
-## These contain the chemicals
+# These contain the chemicals
 
 needed to produce electricity.
 
@@ -10190,11 +10190,11 @@ Warm, salty
 
 Paper towels Scissors Aluminum foil water Earphones
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Draw and cut out six coin- Tape one wire to a coin
 
-### and Dip a paper circle in the warm
+and Dip a paper circle in the warm
 
 sized foil circles and six paper ones.
 
@@ -10202,19 +10202,19 @@ the other wire to a foil circle.
 
 salty water.
 
-## Inside a battery
+# Inside a battery
 
-## These are the materials that
+# These are the materials that
 
 go inside a long-life battery.
 
-## Electricity comes from the
+# Electricity comes from the
 
-## terminals at the top and
+terminals at the top and
 
 bottom of the battery.
 
-## 4. 5.
+# 4. 5.
 
 Put the foil circle with the wire Build up more layers of foil
 
@@ -10222,7 +10222,7 @@ in the saucer.
 
 Place the wet paper paper, and coins.
 
-### The coin with the Top of battery
+# The coin with the Top of battery
 
 circle and a coin on top.
 
@@ -10230,23 +10230,23 @@ wire goes on top.
 
 This is your battery.
 
-## The electricity goes Case of
+# The electricity goes Case of
 
-## to the earphones and battery
+to the earphones and battery
 
 makes the sounds.
 
-## Layers of chemicals
+# Layers of chemicals
 
-## react together when
+react together when
 
-## a circuit is connected
+a circuit is connected
 
 to the battery.
 
-## 6. Electricity flows
+# 6. Electricity flows
 
-## Attach the end of one wire to
+# Attach the end of one wire to
 
 through the circuit.
 
@@ -10254,11 +10254,11 @@ the base of the plug of the earphones.
 
 After a time, all the
 
-## chemicals are used
+chemicals are used
 
-## up and the battery
+up and the battery
 
-## When you place
+# When you place
 
 no longer works.
 
@@ -10266,103 +10266,103 @@ aluminum, salt, and
 
 copper together, they
 
-### 7. make electricity. DO NOT EVER
+# 7. make electricity. DO NOT EVER
 
-## Put on the try to take a
+# Put on the try to take a
 
 earphones.
 
 Scrape the battery apart.
 
-### end of the other wire It can be
+end of the other wire It can be
 
 on the tip of the plug.
 
 DANGEROUS.
 
-## You hear crackles in
+# You hear crackles in
 
-## Base of battery
+# Base of battery
 
 the earphones!
 
-## Electricity
+# Electricity
 
-## Make a merry-go-round
+# Make a merry-go-round
 
-## Electric motors
+# Electric motors
 
 You will need: Small
 
-## power many modern
+power many modern
 
-## cardboard
+cardboard
 
-## Knitting needle
+# Knitting needle
 
 machines.
 
-## You can box
+# You can box
 
-## even buy a small one
+even buy a small one
 
-## to work a merry-go-
+to work a merry-go-
 
-## Large and small Tape
+# Large and small Tape
 
-## 3 ft (1 m)
+3 ft (1 m)
 
 round.
 
 Electricity rubber bands Modeling clay Clear glue
 
-## covered wire
+covered wire
 
-## makes the shaft of
+makes the shaft of
 
-## the motor spin and
+the motor spin and
 
-## Colored
+# Colored
 
-## drive the merry- paper
+drive the merry- paper
 
 Four thread spools 1.
 
-## 5 V battery Scissors
+5 V battery Scissors
 
 go-round.
 
-## Colored
+# Colored
 
-## felt
+felt
 
-### 1.5 V–4 V electric Pencil Wire strippers
+# 1.5 V–4 V electric Pencil Wire strippers
 
-## Tracing
+# Tracing
 
-## motor
+motor
 
-## paper
+paper
 
-## Switch
+# Switch
 
 24 pipe cleaners Cotton swab (see experiment 87) Marker
 
-## Eagle pattern Swallow pattern
+# Eagle pattern Swallow pattern
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Cut three pieces of wire Connect the three wires to Roll a strip of paper around
 
 and strip the ends.
 
-## Cut a piece the motor
+# Cut a piece the motor
 
-## battery
+battery
 
 and switch the knitting needle.
 
-## Remove the
+# Remove the
 
 of cotton swab and place it on as the picture shows.
 
@@ -10374,9 +10374,9 @@ motor to the side of the box.
 
 center of one of the cotton spools.
 
-## Electricity
+# Electricity
 
-## 4. 5. 6.
+# 4. 5. 6.
 
 Glue the spool to the bottom of Stretch the large rubber band Make frames for six birds to
 
@@ -10386,9 +10386,9 @@ Stick the other three spools around the box.
 
 Fit the small sit on the merry-go-round.
 
-## Use pipe
+# Use pipe
 
-### to the knitting needle with clay
+to the knitting needle with clay
 
 as rubber band around the bottom cleaners to form the head
 
@@ -10400,11 +10400,11 @@ spool on the needle.
 
 and wings of each bird.
 
-## 7. 8. 9.
+# 7. 8. 9.
 
 Trace the eagle and swallow Using pipe cleaners and tape
 
-## Stretch the small rubber
+# Stretch the small rubber
 
 patterns on felt.
 
@@ -10420,51 +10420,51 @@ into the spool in the box.
 
 electric motor.
 
-## Blue swallow
+# Blue swallow
 
 Yellow, pink,
 
-## and blue eagle
+and blue eagle
 
-## Adjust the big rubber
+# Adjust the big rubber
 
-## band so that it holds the
+band so that it holds the
 
 knitting needle upright.
 
-## Pink and
+# Pink and
 
-## blue eagle
+blue eagle
 
-## Pipe cleaner
+# Pipe cleaner
 
-## supports
+supports
 
 Press the switch,
 
 and the birds spin around!
 
-## Electricity from the battery
+# Electricity from the battery
 
 turns the shaft of the motor.
 
-## The small rubber
+# The small rubber
 
-## This moves the rubber
+# This moves the rubber
 
-## band must fit tightly
+band must fit tightly
 
 band, which turns the
 
-## and not slip on the
+and not slip on the
 
 knitting needle.
 
 shaft and spool.
 
-## MOTION AND MACHINES
+# MOTION AND MACHINES
 
-### The world around you is on the
+# The world around you is on the
 
 move.
 
@@ -10486,11 +10486,11 @@ like everything that moves, works
 
 because a force pushes or pulls it.
 
-### force can come from a powerful engine
+force can come from a powerful engine
 
 or motor—or just human muscle.
 
-## Good opening Quick thinking
+# Good opening Quick thinking
 
 Automatic doors work A calculator is a machine that
 
@@ -10498,91 +10498,91 @@ themselves.
 
 They send out does math equations for you.
 
-## Perfect performer
+# Perfect performer
 
 invisible rays.
 
 These detect It works at lightning speed.
 
-## A robot is a very advanced
+# A robot is a very advanced
 
-## movement so the doors
+movement so the doors
 
 kind of machine.
 
-## It can
+# It can
 
 open as people approach.
 
-## be instructed to carry out
+be instructed to carry out
 
 complicated tasks, and it
 
 does them perfectly.
 
-## Getting going
+# Getting going
 
-## These two girls are
+# These two girls are
 
-## exerting a force on
+exerting a force on
 
 each other.
 
-## They
+# They
 
 push each other,
 
-## Handy machine
+# Handy machine
 
-## and this makes
+and this makes
 
-## A corkscrew is
+# A corkscrew is
 
-## them both move
+them both move
 
 a machine.
 
 backward.
 
-## removes a cork
+removes a cork
 
-## from a bottle—
+from a bottle—
 
-## something hard to do
+something hard to do
 
 with your bare hands.
 
-## Motion and machines
+# Motion and machines
 
-## Build a wheelbarrow
+# Build a wheelbarrow
 
-## Machines can give you more
+# Machines can give you more
 
 You will need:
 
 strength!
 
-## Build your own
+# Build your own
 
-## wheelbarrow and move a
+wheelbarrow and move a
 
-## Short
+# Short
 
 heavy load of stones.
 
 pencil Small stones Two equal lengths of wood
 
-## wheelbarrow is a “lever”—a
+wheelbarrow is a “lever”—a
 
-## machine that can increase the
+machine that can increase the
 
 force you use to move things.
 
-## Thread Tape
+# Thread Tape
 
 Plastic bag spool Card Shoe box Scissors
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Put the stones in the bag Cut the card to the same Tape the lengths of wood
 
@@ -10596,51 +10596,51 @@ a lot of force.
 
 inside to make two sections.
 
-## You need less effort when
+# You need less effort when
 
 the load is nearer the wheel.
 
-## Stick the pencil through the
+# Stick the pencil through the
 
 spool.
 
-## Tape the pencil to the ends
+# Tape the pencil to the ends
 
 of the lengths of wood.
 
-## It is easier to lift
+# It is easier to lift
 
-## the stones now
+the stones now
 
-## they are in the
+they are in the
 
 barrow.
 
 When you use a lever, your hands
 
-### move farther than the distance the
+move farther than the distance the
 
 load moves.
 
-## This extra movement
+# This extra movement
 
-### gives the lever the extra force to
+gives the lever the extra force to
 
 lift the load.
 
-## The spool is the wheel of the
+# The spool is the wheel of the
 
-## The lengths of wood
+# The lengths of wood
 
 barrow.
 
 It must turn easily.
 
-## form a lever that tilts
+form a lever that tilts
 
 around the wheel.
 
-## 5. 6.
+# 5. 6.
 
 Put the bag of stones in the Move the bag of stones to the front of the barrow.
 
@@ -10650,9 +10650,9 @@ Try lifting it.
 
 Now it is very easy to lift the heavy load.
 
-## Motion and machines
+# Motion and machines
 
-## Get a jet going
+# Get a jet going
 
 Airliners fly around the world at high speed.
 
@@ -10662,7 +10662,7 @@ They have large jet engines that produce a
 
 powerful jet of air to drive the airliner through
 
-## Length of thread
+# Length of thread
 
 the sky.
 
@@ -10670,21 +10670,21 @@ Show how a jet engine works by Balloon pump
 
 flying a balloon at speed across a room.
 
-## Tape Balloon Drinking straw
+# Tape Balloon Drinking straw
 
-## No air must escape
+# No air must escape
 
 from the balloon.
 
-## Make sure the
+# Make sure the
 
 thread is tight.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Feed the thread through the Stretch the thread across Blow up the balloon.
 
-## Hold
+# Hold
 
 straw.
 
@@ -10692,41 +10692,41 @@ It must move easily.
 
 a room.
 
-### Stick two pieces of tape the neck
+# Stick two pieces of tape the neck
 
-## and attach the balloon
-
-to the straw.
+and attach the balloon
 
 to the straw.
 
-## Fast movers
+to the straw.
 
-## Jet engines power the fastest
+# Fast movers
 
-### cars in the world as well as high-
+# Jet engines power the fastest
+
+cars in the world as well as high-
 
 speed aircraft.
 
-## A jet engine sucks
+# A jet engine sucks
 
-### in air at the front and heats this
+in air at the front and heats this
 
 air with burning fuel.
 
-## It then
+# It then
 
-### sends the hot air blasting out
+sends the hot air blasting out
 
 from the back of the engine.
 
-### This forces the aircraft or car
+# This forces the aircraft or car
 
 forward at very high speed.
 
-## A jet of air leaves
+# A jet of air leaves
 
-## the neck and pushes
+the neck and pushes
 
 the balloon forward.
 
@@ -10734,49 +10734,49 @@ Let go of the balloon.
 
 It rushes along the thread at high speed!
 
-## Motion and machines
+# Motion and machines
 
-## Build a turbine
+# Build a turbine
 
-### A turbine is an engine powered
+# A turbine is an engine powered
 
 You will need:
 
 by a moving liquid or a gas.
 
-### can build your own turbine out
+can build your own turbine out
 
-## Ruler
+# Ruler
 
 of straws, and power it with the
 
 air from your lungs!
 
-### Flexible straws Toothpick Scissors
+# Flexible straws Toothpick Scissors
 
-## Straws rest
+# Straws rest
 
-## Bend the end so that it
+# Bend the end so that it
 
 on toothpick.
 
 points horizontally.
 
-## The air you blow through the
+# The air you blow through the
 
 straw turns the “turbine”!
 
-### Place a toothpick in the short
+# Place a toothpick in the short
 
 end of a third straw.
 
-## Slot the two
+# Slot the two
 
 Cut the long ends off two connected straws over the toothpick.
 
 flexible straws, about 1.
 
-### 5 in (4 cm) Hold the device horizontally and
+5 in (4 cm) Hold the device horizontally and
 
 from the bend.
 
@@ -10784,9 +10784,9 @@ Push the end of blow through the long straw.
 
 one straw into the end of the other.
 
-## Test for friction
+# Test for friction
 
-## It’s much easier to slide on
+It’s much easier to slide on
 
 You will need:
 
@@ -10794,13 +10794,13 @@ something smooth, like ice,
 
 than on a rough surface.
 
-## This
+# This
 
-### Tacks Wooden block Two lengths of wood
+# Tacks Wooden block Two lengths of wood
 
-### is because rough surfaces create
+is because rough surfaces create
 
-## Screwdriver
+# Screwdriver
 
 more friction than smooth ones, Pen
 
@@ -10810,13 +10810,13 @@ Hinge and Quarter circle Test surfaces such as felt
 
 screws Protractor Ruler of card sandpaper
 
-## and card
+and card
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Screw the hinge to the Using the protractor and ruler
 
-## Put the block on the end
+# Put the block on the end
 
 two lengths of wood.
 
@@ -10824,37 +10824,37 @@ Now one draw a scale of angles on the card.
 
 of the surface.
 
-## Tilt the surface
+# Tilt the surface
 
 length can lie Fix this to the until the block You can use
 
 flat while the bottom length starts to slide.
 
-## oil or water
+oil or water
 
 other slopes.
 
-## of wood with the to reduce
+of wood with the to reduce
 
 tacks.
 
 Place a test The angle friction.
 
-## surface on the determines
+surface on the determines
 
-## top length the amount
+top length the amount
 
-## of friction the
+of friction the
 
 of wood.
 
-## surface creates
+surface creates
 
-## Motion and machines
+# Motion and machines
 
-## Move in a circle
+# Move in a circle
 
-### A special kind of force is needed to
+# A special kind of force is needed to
 
 You will need:
 
@@ -10862,41 +10862,41 @@ make something move in a circle.
 
 is called “centripetal” force.
 
-## See how
+# See how
 
-## Cork
+# Cork
 
-### this force keeps an object moving in
+this force keeps an object moving in
 
 a circle instead of flying off.
 
-## Wooden
+# Wooden
 
-## block with
+block with
 
 a hole in it Thread spool String Drill and bit
 
-## The cork tries to
+# The cork tries to
 
 fly outward.
 
-## The weight of the
+# The weight of the
 
-## block holds the
+block holds the
 
 cork back.
 
-## This
+# This
 
-## weight is the
+weight is the
 
 centripetal force.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Drill a hole through the Tie the other end of the string Hold the thread spool.
 
-## Move
+# Move
 
 center of the cork.
 
@@ -10912,35 +10912,35 @@ and the thread spool.
 
 from coming off the string.
 
-## Engage a gear
+# Engage a gear
 
-### Gears are pairs of wheels which link so
+# Gears are pairs of wheels which link so
 
 You will need:
 
 that one turns another.
 
-## Gears of different
+# Gears of different
 
-### sizes turn at different speeds
+sizes turn at different speeds
 
-## and make it
+and make it
 
 possible for machines to change speed.
 
-## Two nails Glue
+# Two nails Glue
 
 Try making some gears of your own.
 
-## Thread Assorted jar
+# Thread Assorted jar
 
-### spools lids Thick card Sandpaper
+spools lids Thick card Sandpaper
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Glue sandpaper strips Push nails through the card.
 
-### Place a different-sized wheel on
+# Place a different-sized wheel on
 
 around the edges of the lids.
 
@@ -10948,33 +10948,33 @@ Glue These are axles for your gear wheels.
 
 each nail, so that they touch.
 
-## Turn
+# Turn
 
 on the spools as the picture shows.
 
 them, using a spool as a handle.
 
-## Motion and machines
+# Motion and machines
 
-## Make an automatic machine
+# Make an automatic machine
 
-## Machines often need people
+# Machines often need people
 
 You will need:
 
-## to operate them in order to
+to operate them in order to
 
 work properly.
 
-## But some need
+# But some need
 
 no one to control them.
 
-## This Straw
+# This Straw
 
-### Long Two short Large and small
+# Long Two short Large and small
 
-## automatic machine sorts big
+automatic machine sorts big
 
 Kebab stick cardboard box cardboard boxes pieces of card
 
@@ -10984,55 +10984,55 @@ on its own!
 
 Scissors Glue Tape Modeling clay Big and small marbles
 
-## 1. 2.
+# 1. 2.
 
-## Two
+# Two
 
-## Cut openings Fold the
+# Cut openings Fold the
 
-## openings
+openings
 
-### in the long box and small piece of card
+in the long box and small piece of card
 
-### in one of the short lengthways to make
+in one of the short lengthways to make
 
 boxes.
 
 The picture a chute.
 
-## Use pieces
+# Use pieces
 
 shows where these of clay to attach it to
 
 should be.
 
-## Glue the the top of the other
+# Glue the the top of the other
 
 short box to the top small box.
 
 of the long box.
 
-## Two Small piece
+# Two Small piece
 
-## openings of clay
+openings of clay
 
-## 3. 4.
+# 3. 4.
 
-## Make channels Stick two
+# Make channels Stick two
 
-## Folds
+# Folds
 
-### in the large piece of small marbles to
+in the large piece of small marbles to
 
-### card by folding the one of the channels
+card by folding the one of the channels
 
 sides.
 
 Tape a straw with clay.
 
-## Place the
+# Place the
 
-### underneath and stick on two blocks of
+underneath and stick on two blocks of
 
 insert the stick.
 
@@ -11040,9 +11040,9 @@ clay, so the weighted
 
 side touches the table.
 
-## Big marble are heavy
+# Big marble are heavy
 
-## The small marble rolls
+# The small marble rolls
 
 enough to tilt the card,
 
@@ -11050,37 +11050,37 @@ into the upper box.
 
 but small marbles are not.
 
-## Line up
+# Line up
 
 the boxes, the chute,
 
 and the card, as the
 
-## Small
+# Small
 
 picture shows.
 
-## Roll a
+# Roll a
 
-## marbles
+marbles
 
 small marble down the chute.
 
-## Mail machine
+# Mail machine
 
-### Letters and parcels go through
+# Letters and parcels go through
 
 automatic sorting machines.
 
-## These can detect zip codes
+# These can detect zip codes
 
 marked on the mail, and sort
 
 letters and parcels going to 6.
 
-## Roll a big marble down the
+# Roll a big marble down the
 
-### different towns into different
+different towns into different
 
 chute.
 
@@ -11090,61 +11090,61 @@ compartments.
 
 marble goes into the lower box.
 
-## Motion and machines
+# Motion and machines
 
-## Construct a fan
+# Construct a fan
 
-## Keep cool—with a hand-powered
+Keep cool—with a hand-powered
 
 You will need:
 
 fan.
 
-## This machine uses a belt that
+# This machine uses a belt that
 
-## Thin wooden
+# Thin wooden
 
 works in the same way as a gear.
 
-## stick Hammer Knife
+stick Hammer Knife
 
-### It makes the fan spin faster than
+# It makes the fan spin faster than
 
-### the handle that you turn to make
+the handle that you turn to make
 
 Three corks Jar lid Nail Paper fastener Tack
 
 it work.
 
-## Many machines have parts
+# Many machines have parts
 
-### like these that work together at
+like these that work together at
 
 different speeds.
 
-### Stiff plastic Rubber band Box Scissors
+# Stiff plastic Rubber band Box Scissors
 
-## Put the holes 2 in
+# Put the holes 2 in
 
-## (5 cm) from the top
+(5 cm) from the top
 
 and bottom of the box.
 
-## Make one hole in the
+# Make one hole in the
 
-## middle of the lid and
+middle of the lid and
 
 the other near the edge.
 
-## 1. 2.
+# 1. 2.
 
 Ask an adult to make two holes in the front Using the tack
 
-## attach a cork to the
+attach a cork to the
 
-## of the box
+of the box
 
-## and another in the back
+and another in the back
 
 opposite one of jar lid.
 
@@ -11152,19 +11152,19 @@ This is the handle of your fan.
 
 the first holes.
 
-### Ask the adult to then make two holes
+# Ask the adult to then make two holes
 
 in the jar lid, using the nail.
 
 Slant the slits.
 
-### Push the fastener through the lid
+# Push the fastener through the lid
 
 and the second hole in the box.
 
 The handle should turn easily.
 
-## 3. 4.
+# 3. 4.
 
 Attach the handle to the box with the Ask an adult to cut four evenly spaced slits
 
@@ -11174,9 +11174,9 @@ in another cork.
 
 Now two corks are in use.
 
-## Motion and machines
+# Motion and machines
 
-## 5. 6.
+# 5. 6.
 
 Cut four long strips from the plastic.
 
@@ -11186,15 +11186,15 @@ Make them as wide as the slits in the cork.
 
 and push one end of the stick into the cork.
 
-## Push the stick
+# Push the stick
 
-## right through
+right through
 
 the box.
 
-## The rubber band is
+# The rubber band is
 
-### The rubber band a belt that links two
+# The rubber band a belt that links two
 
 should fit without wheels: the lid and
 
@@ -11202,9 +11202,9 @@ much stretching.
 
 the cork.
 
-## Push the stick
+# Push the stick
 
-## through the other
+through the other
 
 two holes in the box.
 
@@ -11216,107 +11216,107 @@ the box.
 
 Your fan is now ready.
 
-## Riding at speed
+# Riding at speed
 
-### The chain on a bicycle is a belt
+# The chain on a bicycle is a belt
 
-## The blades spin
+# The blades spin
 
-## that causes the back wheel to
+that causes the back wheel to
 
-## faster than the
+faster than the
 
 turn faster than the pedals.
 
-## When
+# When
 
 handle turns.
 
 you change gear, the chain moves
 
-## from one of the
+from one of the
 
-## gear wheels on
+gear wheels on
 
-## the hub to
+the hub to
 
 another.
 
-## size of the gear
+size of the gear
 
-## wheels affects the
+wheels affects the
 
-## speed at which
+speed at which
 
-## the back wheel
+the back wheel
 
 turns.
 
-## Bigger
+# Bigger
 
-## wheels make
+wheels make
 
-## the bicycle
+the bicycle
 
 go faster.
 
-## 9. The jar lid is a bigger
+# 9. The jar lid is a bigger
 
-## Turn the handle of the
+# Turn the handle of the
 
 wheel than the cork.
 
 fan.
 
-## The blades spin rapidly
+# The blades spin rapidly
 
-## This causes the cork to
+# This causes the cork to
 
 and blow air forward!
 
 turn faster than the lid.
 
-## Motion and machines
+# Motion and machines
 
-## Build a water wheel
+# Build a water wheel
 
-## Many machines have a motor
+# Many machines have a motor
 
 You will need:
 
-## or an engine to produce the
+or an engine to produce the
 
-## Modeling clay
+# Modeling clay
 
-## force they need to make them
+force they need to make them
 
 move.
 
-## The first kind of motor
+# The first kind of motor
 
 Plastic tube Pitcher of water Plastic bottle
 
 or engine was the water wheel.
 
-## It uses the power of flowing
+# It uses the power of flowing
 
-## or falling water to drive a
+or falling water to drive a
 
 Funnel Cork Stiff plastic Glass dish Nail
 
 machine.
 
-## Water wheels are
+# Water wheels are
 
 still used today.
 
-### Scissors Tape Two toothpicks Knife
+# Scissors Tape Two toothpicks Knife
 
-## Make sure the
+# Make sure the
 
 blades fit tightly.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Use the knife to cut four Cut out four pieces of stiff Fit the pieces of plastic into
 
@@ -11332,45 +11332,45 @@ out evenly.
 
 length as the cork.
 
-## 4. 5. 6.
+# 4. 5. 6.
 
-## Using the nail
+# Using the nail
 
 pierce two Cut off the bottom of Push a toothpick into one
 
 holes in opposite sides of the bottle.
 
-## the bottle
+the bottle
 
 making sure the edge end of the cork.
 
-## Then fit it into
+# Then fit it into
 
 is straight so the bottle can one hole in the bottle.
 
 stand upright.
 
-## 7. 8.
+# 7. 8.
 
-## Push the Push the
+# Push the Push the
 
-### other toothpick funnel into one
+other toothpick funnel into one
 
-## through the end of the piece
+through the end of the piece
 
 other hole and of plastic tube.
 
 into the cork.
 
-## Wind tape around
+# Wind tape around
 
-## the funnel and
+the funnel and
 
-## Put clay on
+# Put clay on
 
-## tube to hold them
+tube to hold them
 
-## The water the points of
+# The water the points of
 
 firmly together.
 
@@ -11378,35 +11378,35 @@ wheel must the toothpicks.
 
 spin easily.
 
-## Motion and machines
+# Motion and machines
 
-## Hold the
+# Hold the
 
-## funnel and
+funnel and
 
 the tube.
 
-## Ask a friend to
+# Ask a friend to
 
-## pour water into
+pour water into
 
 the funnel.
 
-## The water moves faster
+# The water moves faster
 
-## because it is falling a
+because it is falling a
 
 greater distance.
 
-## Direct the stream of
+# Direct the stream of
 
-## water to hit the plastic
+water to hit the plastic
 
 blades of the wheel.
 
 Place the bottle in the dish.
 
-## Fit the tube into the
+# Fit the tube into the
 
 neck of the bottle.
 
@@ -11416,83 +11416,83 @@ water wheel spins around.
 
 In a hydroelectric power station,
 
-## Air power
+# Air power
 
-### water falling down a pipe from a
+water falling down a pipe from a
 
 These are wind turbines.
 
-### dam spins the blades of a turbine
+dam spins the blades of a turbine
 
 They work in the same in the same way as this water
 
 way as water wheels, but wheel.
 
-## The turbine drives a
+# The turbine drives a
 
 use moving air instead generator that makes electricity.
 
 of water.
 
-## The wind spins
+# The wind spins
 
 the blades, which drive a 10.
 
 Raise the funnel.
 
-## The water flows faster as
+# The water flows faster as
 
-## generator in each turbine
+generator in each turbine
 
-### it hits the blades of the water wheel
+it hits the blades of the water wheel
 
-## making it
+making it
 
 to make electricity.
 
 spin more quickly.
 
-## Motion and machines
+# Motion and machines
 
-## Lift a load with water
+# Lift a load with water
 
-## Raise a heavy weight—with
+Raise a heavy weight—with
 
 You will need:
 
 just a little water!
 
-## Using
+# Using
 
-## water in this way is called
+water in this way is called
 
 “hydraulics.
 
-## ” Very powerful
+” Very powerful
 
 Rubber band Plastic tube Tape Heavy book Plastic bottle
 
 machines that lift, push,
 
-## or press things work by
+or press things work by
 
 hydraulics.
 
-## It greatly increases
+# It greatly increases
 
 Pitcher of water Balloon Scissors Funnel Can
 
 the force that they produce.
 
-## 1. 2. 3.
+# 1. 2. 3.
 
 Fit the neck of the balloon Cut the top off the bottle.
 
-## Push the balloon through
+# Push the balloon through
 
 over the end of the tube.
 
-### Seal it Make a hole in the side
+# Seal it Make a hole in the side
 
 near the the hole in the side of the bottle.
 
@@ -11500,187 +11500,187 @@ tightly with tape.
 
 base of the bottle.
 
-## 4. 5.
+# 4. 5.
 
-## Tape the Place the
+# Tape the Place the
 
-### funnel firmly to can inside the
+funnel firmly to can inside the
 
-### the other end of bottle on top
+the other end of bottle on top
 
 the tube, as the of the balloon.
 
 picture shows.
 
-## Then lay the
+# Then lay the
 
-## heavy book
+heavy book
 
 on the bottle.
 
-### Big digger Lift the funnel and
+# Big digger Lift the funnel and
 
 Powerful excavators like the pour some water into it.
 
 one in this picture use hydraulics.
 
-## The balloon slowly swells—
+The balloon slowly swells—
 
 Pipes carry a liquid from a pump and lifts the heavy book!
 
-## to cylinders
+to cylinders
 
-### where the liquid Raise the funnel
+where the liquid Raise the funnel
 
 pushes out pistons with great above the book.
 
 force.
 
-## The pistons drive the
+# The pistons drive the
 
-## bucket into the ground and
+bucket into the ground and
 
 raise a heavy load of soil.
 
-## The swelling balloon exerts
+# The swelling balloon exerts
 
-## enough pressure to push
+enough pressure to push
 
 the heavy book upward.
 
-## The weight of the
+# The weight of the
 
-## water in the tube pushes
+water in the tube pushes
 
 water into the balloon.
 
-## Motion and machines
+# Motion and machines
 
-## Build a crane
+# Build a crane
 
-### A crane is able to lift a heavy
+# A crane is able to lift a heavy
 
 You will need:
 
 load high in the air.
 
-## It has a
+# It has a
 
-## wheel called a “pulley” to
+wheel called a “pulley” to
 
-### Pen cap String Hammer Scissors Marbles
+# Pen cap String Hammer Scissors Marbles
 
 produce a lifting force, while
 
-## Tape Paper clip
+# Tape Paper clip
 
-## a “counterweight” stops the
+a “counterweight” stops the
 
-## Length of wood
+# Length of wood
 
-### crane tipping over as it lifts
+crane tipping over as it lifts
 
 a heavy weight.
 
-## Two thread
+# Two thread
 
 Strong cardboard box Plastic cup Two nails spools Heavy book
 
-## Make sure Cut a The wood must
+# Make sure Cut a The wood must
 
 the spools can hole in the box.
 
-## fit tightly and
+fit tightly and
 
 turn easily.
 
 Insert the wood not move.
 
-## so that it sticks
+so that it sticks
 
 out at an angle.
 
-### Nail one spool to the end of the wood
+# Nail one spool to the end of the wood
 
 and nail the other spool near the other end.
 
-## Push the pen
+# Push the pen
 
-## cap into the lower
+cap into the lower
 
 spool.
 
-## Tape one
+# Tape one
 
-## end of the rest
+end of the rest
 
-## of the string to
+of the string to
 
 this spool.
 
 Cut a short piece of string.
 
-## Tape it to
+# Tape it to
 
 the cup to make a handle.
 
-## The upper spool
+# The upper spool
 
 The book is a counterweight.
 
-## is a pulley
+is a pulley
 
-### Its weight prevents the weight
+# Its weight prevents the weight
 
-## The pen cap is
+# The pen cap is
 
 wheel.
 
-## It changes
+# It changes
 
-## of the load from pulling the
+of the load from pulling the
 
 your handle.
 
-## the downward
+the downward
 
 crane over.
 
-## force of the
+force of the
 
-## 5. handle into an
+# 5. handle into an
 
 Loop the string over the upper spool.
 
-## Hold the
+# Hold the
 
-## upward force
+upward force
 
 end firmly and wind the string onto the lower spool.
 
-## that lifts
+that lifts
 
 the load.
 
-## 6. 7.
+# 6. 7.
 
 Bend the paper clip to Place the book on the box.
 
-## Fill the cup with
+# Fill the cup with
 
 make a hook.
 
 Tie it to the marbles and hook it to the crane.
 
-## Wind the handle
+# Wind the handle
 
 end of the piece of string.
 
 to lift the load of marbles.
 
-## INDEX
+# INDEX
 
-## excavators 118 light 36–47
+excavators 118 light 36–47
 
 48, 49
 
@@ -11688,11 +11688,11 @@ to lift the load of marbles.
 
 20, 24
 
-## eyes 68
+eyes 68
 
 69, 70 light bulb 43 smell 66
 
-## light rays 38
+light rays 38
 
 39, 42
 
@@ -11700,17 +11700,17 @@ to lift the load of marbles.
 
 F lightning 79, 99 sorting machine 113
 
-## A B fan 114–115 liquids 16–25
+A B fan 114–115 liquids 16–25
 
-## 31 sound gun 76
+31 sound gun 76
 
-## acid 54 fire 28
+acid 54 fire 28
 
-## 35 lodestone 86 sound 67
+35 lodestone 86 sound 67
 
 71, 74–85
 
-## air 6–15
+air 6–15
 
 19, 22
 
@@ -11726,13 +11726,13 @@ air pressure 7 flashlight 44–45 machines 86
 
 96, 108–119 starch 63
 
-## aircraft 12
+aircraft 12
 
-### 110 flavor 71 magnetic field 92
+110 flavor 71 magnetic field 92
 
-## 93 submarines 22
+93 submarines 22
 
-## alkali 54 floating 19
+alkali 54 floating 19
 
 20–24, 28 magnets 86–95 Sun 30
 
@@ -11742,27 +11742,27 @@ air pressure 7 flashlight 44–45 machines 86
 
 49, 50
 
-## anemometer 15 flowers 29
+anemometer 15 flowers 29
 
 54, 58 magnifying glass 47
 
-## 68 sundial 39
+68 sundial 39
 
-### automatic machines 113 forces 19
+automatic machines 113 forces 19
 
 28, 109–119 microscope 38 sunlight 58
 
 62, 65
 
-### avalanche 76 friction 111 minerals 26
+avalanche 76 friction 111 minerals 26
 
-## 27 sunset 50
+27 sunset 50
 
 banjo 84–85 fungi 64–65 moisture detector 13 surface tension 28
 
-## battery 105 mold 64–65
+battery 105 mold 64–65
 
-### bubble colors 55 motion 108–119 T
+bubble colors 55 motion 108–119 T
 
 buzzer 94–95 music 74–85 taste 66, 71
 
@@ -11774,43 +11774,43 @@ gears 112, 114–115
 
 C N O P temperature 30, 31
 
-## growth 58–65
+growth 58–65
 
-## camera 38
+camera 38
 
-## 46 nitrogen 6
+46 nitrogen 6
 
 9, 40 thermometer 30
 
-## guitar 85
+guitar 85
 
-## carbon dioxide 10
+carbon dioxide 10
 
 11, 35 optical fibers 46 thermos 34
 
-## cells 58 oxygen 6
+cells 58 oxygen 6
 
 9, 35, 59
 
-## 62 thunder 79
+62 thunder 79
 
-### chlorophyll 63 paints 51 tom-tom 80–81
+chlorophyll 63 paints 51 tom-tom 80–81
 
-## hard water 27
+hard water 27
 
-## clothes 28
+clothes 28
 
-## 58 periscope 40–41 touch 66
+58 periscope 40–41 touch 66
 
-## clouds 16 hearing 66
+clouds 16 hearing 66
 
 67, 71
 
-## 74–78 photographs 38
+74–78 photographs 38
 
-## 47 trees 58
+47 trees 58
 
-## cold 16
+cold 16
 
 23, 28
 
@@ -11818,53 +11818,53 @@ C N O P temperature 30, 31
 
 32, 33
 
-### 34 photosynthesis 62 tuning fork 75
+34 photosynthesis 62 tuning fork 75
 
 colors 48–57 horn 83 pipes 82 turbine 111
 
-## humidity 13
+humidity 13
 
 compass 86, 92 plants 29, 58–65
 
-## hurricane 15
+hurricane 15
 
-## conductors 32
+conductors 32
 
 99, 104 power stations 96 U V
 
-## hydraulics 118
+hydraulics 118
 
 convection 30 printing 56–57 ultrasound 74
 
-## hydroelectric power 96
+hydroelectric power 96
 
 crane 93, 119 propeller 97 umbrellas 18
 
-## hydrometer 24
+hydrometer 24
 
-## vegetables 58
+vegetables 58
 
 D R vibration 67, 75, 80, 82, 83,
 
 density 24 I J racing car 9 84, 85, 95
 
-## diver 22 ice 7
+diver 22 ice 7
 
-## 36 rain 16
+36 rain 16
 
 17, 48
 
-## 49 viscosity 25
+49 viscosity 25
 
 drums 80–81 ice cream 37 rain gauge 17 volcano 11
 
 ice skaters 36 rainbow 48, 49
 
-## E icicles 37 rainfall 17 W X
+# E icicles 37 rainfall 17 W X
 
-## ear 67
+ear 67
 
-### 71 interference 55 reflection 40–41
+71 interference 55 reflection 40–41
 
 42, 46 water 16–19
 
@@ -11878,35 +11878,35 @@ electric fields 98 jet engines 110 robot 108 water wheel 116
 
 electric motors 86, 98, 106 waves 16
 
-## electricity 42
+electricity 42
 
 43, 93–107
 
-## K L S weather 13
+# K L S weather 13
 
-### 117 kaleidoscope 40–41 seeds 58, 59 wind 14, 15
+117 kaleidoscope 40–41 seeds 58, 59 wind 14, 15
 
-## electromagnet 93
+electromagnet 93
 
-### 94–95 lava 11 senses 66–73 wind vane 14
+94–95 lava 11 senses 66–73 wind vane 14
 
-## engines 9
+engines 9
 
 110, 111
 
-## 116 leaves 29
+116 leaves 29
 
 58, 63 shadows 39 wing 12
 
-## evaporation 26
+evaporation 26
 
-## 33 lens 46
+33 lens 46
 
-## 68 sight 66 xylophone 82
+68 sight 66 xylophone 82
 
 Acknowledgments PHILLIP HAYSON (br).
 
-### 48 Alamy Images: PhotoSpin, Inc (c).
+48 Alamy Images: PhotoSpin, Inc (c).
 
 Dorling Kindersley: Rough Guides (tr).
 
@@ -11914,113 +11914,113 @@ Dreamstime.
 
 com: Tyler Olson (tl).
 
-## 50 Dorling Kindersley
+50 Dorling Kindersley
 
 Rough Guides (br).
 
-## 51 Getty Images:
+51 Getty Images:
 
-### Dorling Kindersley would like to thank
+# Dorling Kindersley would like to thank
 
 Photographer’s Choice / Jeff Smith (bc).
 
-## 54 Dreamstime.
+54 Dreamstime.
 
 com: Aliaksandr Mazurkevich (crb/Washing soda)
 
-## Andrea Needham
+# Andrea Needham
 
-## Nicola Webb
+# Nicola Webb
 
 and Tracey White for design assistance.
 
-## Andy Crawford
+# Andy Crawford
 
-## Jane Burton
+# Jane Burton
 
-## Geografika (c)
+Geografika (c)
 
-## Mitgirl (cb)
+Mitgirl (cb)
 
 Lawrence Wee (crb/Ammonia).
 
-## 57 Dreamstime.
+57 Dreamstime.
 
 com: Alterfalter (bc).
 
-## 58 Corbis:
+58 Corbis:
 
-## Michael Dunning
+# Michael Dunning
 
-## Pete Gardner
+# Pete Gardner
 
-## Frank Greenaway
+# Frank Greenaway
 
-## Colin Keates
+# Colin Keates
 
-## Dave King
+# Dave King
 
-## Ray Moller
+# Ray Moller
 
-## Stephen Oliver
+# Stephen Oliver
 
 Wavebreak Media Ltd.
 
 (tr).
 
-## 59 Dreamstime.
+59 Dreamstime.
 
 com: Dusan Kostic (br).
 
-## 61 Dreamstime.
+61 Dreamstime.
 
 com: Valentyn75 (br).
 
-## Gary Ombler
+# Gary Ombler
 
-## Tim Ridley
+# Tim Ridley
 
-## Clive Streeter
+# Clive Streeter
 
 and Kim Taylor for the commissioned photography.
 
-## Models 66 Corbis
+# Models 66 Corbis
 
-## Brian Mitchell (tl)
+Brian Mitchell (tl)
 
-## Carolina Faruolo (tr)
+Carolina Faruolo (tr)
 
-## Rubberball / Erik Isakson (cl
+Rubberball / Erik Isakson (cl
 
 cr); Mika (cb).
 
-## 67 Dorling
+67 Dorling
 
 Kirsty Burns and Paul Cannings.
 
 Kindersley: Medimation (bl).
 
-## 68 Dreamstime.
+68 Dreamstime.
 
 com: Pavel Losevsky (bl).
 
-## 69 Getty Images: AFP / Martin
+69 Getty Images: AFP / Martin
 
 Bureau (br).
 
-## 70 Dreamstime.
+70 Dreamstime.
 
 com: Honourableandbold (crb).
 
-### 74 Corbis: amanaimages / Doable (bc).
+74 Corbis: amanaimages / Doable (bc).
 
 Picture credits Dreamstime.
 
 com: Beflydream (cr)
 
-## Cristianzamfir (tl)
+Cristianzamfir (tl)
 
-## Darren Brode (tr)
+Darren Brode (tr)
 
 Sergey Dolgikh (cl).
 
@@ -12028,35 +12028,35 @@ Getty Images:
 
 age fotostock / Masa Ushioda (clb).
 
-## 76 Dreamstime.
+76 Dreamstime.
 
 com: Boris Panasyuk (bl).
 
-## 77 Alamy Images: Caro /
+77 Alamy Images: Caro /
 
 The publisher would like to thank the following for their kind permission to reproduce their photographs
 
 Robert Seeberg (bl).
 
-## 82 Dreamstime.
+82 Dreamstime.
 
 com: Feng Yu (cra).
 
-## 85 Getty Images
+85 Getty Images
 
 Photodisc / Andy Sotiriou (br).
 
 (Key: a-above
 
-## b-below/bottom
+b-below/bottom
 
-## c-center
+c-center
 
 f-far; l-left
 
-## r-right
+r-right
 
-## t-top) 86 Alamy Images
+t-top) 86 Alamy Images
 
 Chad Ehlers (tr).
 
@@ -12064,31 +12064,31 @@ Dreamstime.
 
 com: Creativefire (clb).
 
-## 88 Dreamstime.
+88 Dreamstime.
 
 com: Yinan Zhang
 
 (br).
 
-## 93 Dreamstime.
+93 Dreamstime.
 
 com: Dan Van Den Broeke (bc).
 
-## 95 Dreamstime.
+95 Dreamstime.
 
 com: Romangorielov (br).
 
-## 96 Corbis:
+96 Corbis:
 
-## 6 Dreamstime.
+6 Dreamstime.
 
 com: Natalia Lisovskaya (tl).
 
-## 7 Alamy Images: D.
+7 Alamy Images: D.
 
 Hurst (tc).
 
-## 9 Dreamstime.
+9 Dreamstime.
 
 com: Georgerudy Blend Images / Jose Luis Pelaez Inc (br)
 
@@ -12100,71 +12100,71 @@ com: Kobby Dagan (tl); Satori13
 
 (cra); Tomas Pavlasek (c)
 
-## Kurt (cr)
+Kurt (cr)
 
 Smellme (bc).
 
-## 14 Dreamstime.
+14 Dreamstime.
 
 com: Odua (tr).
 
-## 16 Dreamstime.
+16 Dreamstime.
 
 com: (cl).
 
-## 99 Dreamstime.
+99 Dreamstime.
 
 com: Milosluz (tc).
 
-## 100 Dreamstime.
+100 Dreamstime.
 
 com: Daniel Korzeniewski (tc/Thread)
 
-## Katrina
+# Katrina
 
 Monkey Business Images (tl).
 
 Fotolia: dundanim (cl).
 
-## 17 Science Photo Library
+17 Science Photo Library
 
 David Hay Jones (bc).
 
-## Brown (tc/Handmade Paper)
+Brown (tc/Handmade Paper)
 
 Valerii Stoika (tc/Comb).
 
-## 101 Dreamstime.
+101 Dreamstime.
 
 com: Coramueller (tl).
 
-## 18 Dreamstime.
+18 Dreamstime.
 
 com: Alvarracrazy (tr)
 
 Igor Zakharevich (tc).
 
-### 19 Fotolia: Andrzej Tokarski (cb).
+19 Fotolia: Andrzej Tokarski (cb).
 
-## 23 Corbis: Dreamstime.
+23 Corbis: Dreamstime.
 
 com: Christian Bridgwater (br).
 
-## 105 Dreamstime.
+105 Dreamstime.
 
 com: Sarah2 (tc).
 
-## 108 Dreamstime.
+108 Dreamstime.
 
 com:
 
 Ralph White (bc).
 
-## 26 Dorling Kindersley
+26 Dorling Kindersley
 
 Rough Guides (br).
 
-## 27 Dreamstime.
+27 Dreamstime.
 
 com: Mr.smith Chetanachan Antikainen (cr).
 
@@ -12172,41 +12172,41 @@ iStockphoto.
 
 com: flashgun (tr).
 
-## 110 Dreamstime.
+110 Dreamstime.
 
 com: Tom2898 (br).
 
-## 113 Getty Images:
+113 Getty Images:
 
 (bl).
 
-## 30 Dreamstime.
+30 Dreamstime.
 
 com: Pavel Losevsky (bl)
 
-## Veniamin Kraskov (tl)
+Veniamin Kraskov (tl)
 
-## Peter Wilson (tr)
+Peter Wilson (tr)
 
 Photoeuphoria (br).
 
 Bloomberg via Getty Images (bc).
 
-## 118 Dreamstime.
+118 Dreamstime.
 
 com: Nael_pictures (bl)
 
-## 33 Corbis: Tetra Images (bl).
+33 Corbis: Tetra Images (bl).
 
-## 35 Dreamstime.
+35 Dreamstime.
 
 com: Catonphoto (bc).
 
-### 36 Corbis: Larry Williams (bc).
+36 Corbis: Larry Williams (bc).
 
-## Dorling Kindersley
+# Dorling Kindersley
 
-## The Natural History Museum
+# The Natural History Museum
 
 London (tr).
 
@@ -12218,37 +12218,37 @@ Jacket images: Front: Dreamstime.
 
 com: Keko64 tc/ (Bulb)
 
-## 37 Dreamstime.
+37 Dreamstime.
 
 com: Robert Paul Van Beets (bc).
 
-## 38 Dreamstime.
+38 Dreamstime.
 
 com: Jacek Chabraszewski (bl);
 
 Marcomayer (tr).
 
-## 39 Dreamstime.
+39 Dreamstime.
 
 com: Scottbeard (crb).
 
-## 41 Getty Images
+41 Getty Images
 
 AFP / Yasuyoshi Chiba (br).
 
-### 45 All other images © Dorling Kindersley
+45 All other images © Dorling Kindersley
 
 Dreamstime.
 
 com: Martiapunts (bl).
 
-## 46 Dreamstime.
+46 Dreamstime.
 
 com: Dmitrijs Gerciks (bl).
 
-## 47 Science Photo Library
+47 Science Photo Library
 
-## For further information see
+# For further information see
 
 www.
 
