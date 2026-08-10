@@ -184,6 +184,90 @@ def dedup_key(title: str) -> str:
     return " ".join(toks[:5])
 
 
+# ── 主题分类关键词（英文 + 中文）──────────────────────────────────────────
+# 优先级从高到低；score 最高者胜出，同分取列表中靠前的。
+CATEGORY_KEYWORDS = {
+    "天文": ["astronom", "galaxy", "cosmos", "telescope", "天体", "宇宙学", "星空", "行星科学"],
+    "物理": ["physic", "quantum", "mechanic", "relativ", "electromagnet", "optics", "thermodynam",
+             "particle", "nuclear", "condensed", "statistical", "原子", "量子", "力学", "电磁", "光学"],
+    "数学": ["mathemat", "calculus", "algebra", "geometry", "topolog", "statistic", "probab",
+             "linear", "number theory", "differential equation", "数学", "微积分", "代数", "几何", "拓扑"],
+    "化学": ["chemistr", "organic", "inorganic", "biochem", "化学", "分子"],
+    "生物": ["biolog", "genetic", "cell", "evolution", "ecolog", "anatomy", "physiolog",
+             "zoolog", "botan", "microbi", "生物", "基因", "进化", "细胞", "植物", "动物"],
+    "地球与环境": ["geolog", "earth science", "climate", "environ", "ocean", "atmospher",
+                  "meteorolog", "地质", "气候", "环境", "海洋", "地球"],
+    "计算机": ["computer", "programming", "algorithm", "software", "machine learning", "neural",
+               "python", "coding", "data structure", "计算机", "编程", "算法", "神经网络", "机器学习"],
+    "经济": ["econom", "macro", "micro", "finance", "financial", "econometr", "asset pricing",
+             "monetary", "经济", "金融", "计量", "财政"],
+    "历史": ["histor", "ancient", "medieval", "civilization", "dynasty", "empire", "war",
+             "历史", "文明", "王朝", "帝国", "战争"],
+    "艺术": ["art", "drawing", "paint", "sketch", "photograph", "design", "艺术", "绘画", "素描", "摄影", "色彩"],
+    "建筑": ["architect", "building", "urban", "temple", "structur", "bridge", "建筑", "城市", "桥梁", "木构"],
+    "自然博物": ["nature", "animal", "bird", "insect", "plant", "wildlife", "natural history",
+                "field guide", "博物", "动物", "鸟类", "昆虫", "植物", "自然"],
+    "社会科学": ["sociolog", "psycholog", "politic", "anthropolog", "philosoph", "linguist",
+                "社会", "心理", "政治", "人类", "哲学", "语言"],
+    "医学": ["medic", "clinic", "health", "disease", "医学", "临床", "健康", "疾病"],
+    "工程": ["engineer", "circuit", "electric", "material science", "工程", "电路", "材料"],
+}
+
+# 分类优先级（同分时靠前者胜）
+CATEGORY_ORDER = list(CATEGORY_KEYWORDS.keys())
+
+
+def classify_category(title: str, head: str = "") -> str:
+    """基于书名 + 正文开头的关键词，给书归类。无匹配返回 '其他'。
+
+    英文关键词用单词边界匹配（避免 'art' 误命中 smart/start/heart 等）；
+    中文关键词按子串匹配（专有词，误判率低）。
+    """
+    text = (title + " " + head).lower()
+    def hit(kw):
+        if re.search(r"[一-鿿]", kw):
+            return kw.lower() in text
+        return bool(re.search(r"(?<![a-z])" + re.escape(kw.lower()) + r"(?![a-z])", text))
+    best, best_score = "其他", 0
+    for cat in CATEGORY_ORDER:
+        score = sum(1 for kw in CATEGORY_KEYWORDS[cat] if hit(kw))
+        if score > best_score:
+            best, best_score = cat, score
+    return best
+
+
+# ── 作者提取（best-effort，从源文件名推断）───────────────────────────────
+_AUTHOR_TITLE_NOISE = re.compile(
+    r"\b(edition|volume|vol|guide|introduction|advanced|second|third|first|"
+    r"student|manual|solutions|coursebook|handbook|brief|complete|visual|"
+    r"history|theory|methods|principles|essentials|fundamentals|"
+    r"中国|原理|教程|手册|指南|图解|全书|精讲)\b", re.IGNORECASE)
+
+
+def extract_author(source_file: str, title: str = "") -> str:
+    """从源文件名尽力推断作者，推断不出返回空串（绝不返回脏数据）。"""
+    if not source_file:
+        return ""
+    base = re.sub(r"^\[(MD|OCR|译|HY3|PDF)\]", "", source_file)
+    base = re.sub(r"_Z_Library.*$", "", base, flags=re.IGNORECASE)
+    base = re.sub(r"_(Instructor|Coursebook|Handbook|Manual|Solution).*$", "", base, flags=re.IGNORECASE)
+    base = re.sub(r"^\d+_", "", base)
+    base = base.replace(".md", "").replace(".txt", "").replace(".pdf", "")
+    base = base.replace("_", " ").strip()
+    # 末尾大写姓名短语：(First Last) 或 (First M. Last) 或 (First Last, First Last)
+    m = re.search(
+        r"([A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+"
+        r"(?:,\s*[A-Z][a-z]+(?:\s+[A-Z]\.?\s*)?[A-Z][a-z]+)*)$",
+        base)
+    if not m:
+        return ""
+    author = m.group(1).strip()
+    # 过滤：过长 / 含书名噪声词 → 视为误判
+    if len(author) > 60 or _AUTHOR_TITLE_NOISE.search(author):
+        return ""
+    return author
+
+
 def ensure_dirs():
     for d in (SCRIPTS_DIR, DATA_DIR, BOOKS_DIR, SITE_DIR,
               ASSETS_DIR, DOCS_DIR, SITE_BOOKS_DIR, SITE_ASSETS_DIR):

@@ -1,5 +1,5 @@
 {
-  "count": 420,
+  "count": 417,
   "books": [
     {
       "slug": "ancient-rome-dk-eyewitness-books-simon-james",
@@ -9,7 +9,9 @@
       "source_file": "[译]Ancient_Rome_DK_Eyewitness_Books_Simon_James_Z_Library.md",
       "source_pdf": null,
       "chars": 50516,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "a-child-through-time-the-book-of-children-s-history-philip-wilkinson-steve-noon",
@@ -19,7 +21,9 @@
       "source_file": "[译]A_Child_Through_Time_The_Book_of_Children_s_History_Philip_Wilkinson_Steve_Noon_Z_Library.md",
       "source_pdf": "A Child Through Time  The Book of Children’s History (Philip Wilkinson Steve Noon) (Z-Library).pdf",
       "chars": 70788,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "book-of-flight-smithsonian-judith-e-rinard",
@@ -29,7 +33,9 @@
       "source_file": "[译]Book_of_Flight_Smithsonian_Judith_E_Rinard_Z_Library.md",
       "source_pdf": null,
       "chars": 86260,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": "Judith E Rinard"
     },
     {
       "slug": "china-world-cultures-through-time-primary-source-readers-gisela-lee-m-a",
@@ -39,7 +45,9 @@
       "source_file": "[译]China_World_Cultures_Through_Time_Primary_Source_Readers_Gisela_Lee_M_A_Z_Library.md",
       "source_pdf": null,
       "chars": 9778,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "chinese-architecture-a-history-nancy-steinhardt",
@@ -49,7 +57,9 @@
       "source_file": "[译]Chinese_Architecture_A_History_Nancy_Steinhardt_Z_Library.md",
       "source_pdf": null,
       "chars": 45874,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "digital-photography-complete-course-dk",
@@ -59,7 +69,9 @@
       "source_file": "[译]Digital_Photography_Complete_Course_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 209399,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "dk-complete-dog-breed-book-dk-publishing",
@@ -69,7 +81,9 @@
       "source_file": "[译]DK_Complete_Dog_Breed_Book_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 235202,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "dk-eyewitness-switzerland-dk-eyewitness",
@@ -79,7 +93,9 @@
       "source_file": "[译]DK_Eyewitness_Switzerland_DK_Eyewitness_Z_Library.md",
       "source_pdf": null,
       "chars": 295777,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "dk-science-lab-dk-publishing",
@@ -89,7 +105,9 @@
       "source_file": "[译]DK_Science_Lab_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 48631,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "dk-the-biology-book-big-ideas-simply-explained-dk",
@@ -99,7 +117,9 @@
       "source_file": "[译]DK_The_Biology_Book_Big_Ideas_Simply_Explained_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 336263,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "eye-wonder-bugs-dk-publishing",
@@ -109,7 +129,9 @@
       "source_file": "[译]Eye_Wonder_Bugs_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 16555,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "eye-wonder-weather-dk-publishing",
@@ -119,7 +141,9 @@
       "source_file": "[译]Eye_Wonder_Weather_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 19134,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "fossil-dk-eyewitness-paul-d-taylor",
@@ -129,7 +153,9 @@
       "source_file": "[译]Fossil_DK_Eyewitness_Paul_D_Taylor_Z_Library.md",
       "source_pdf": null,
       "chars": 44007,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": "Paul D Taylor"
     },
     {
       "slug": "history-of-the-world-map-by-map-dk",
@@ -139,7 +165,9 @@
       "source_file": "[译]History_of_the_World_Map_by_Map_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 506631,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "home-lab-exciting-experiments-for-budding-scientists-jack-challoner-robert-winst",
@@ -149,7 +177,9 @@
       "source_file": "[译]Home_Lab_Exciting_Experiments_for_Budding_Scientists_Jack_Challoner_Robert_Winston_Z_Library.md",
       "source_pdf": "Home Lab Exciting Experiments for Budding Scientists (Jack Challoner, Robert Winston) (Z-Library).pdf",
       "chars": 53224,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "how-it-all-works-all-scientific-laws-and-phenomena-illustrated-demonstrated-adam",
@@ -159,7 +189,9 @@
       "source_file": "[译]How_It_All_Works_All_scientific_Laws_And_Phenomena_Illustrated_Demonstrated_Adam_Dant_Brian_Clegg_Z_Library.md",
       "source_pdf": "How It All Works All scientific Laws And Phenomena Illustrated  Demonstrated (Adam Dant, Brian Clegg) (Z-Library).pdf",
       "chars": 48520,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "how-super-cool-tech-works-dk",
@@ -169,7 +201,9 @@
       "source_file": "[译]How_Super_Cool_Tech_Works_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 92929,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "how-things-work-encyclopedia-dk",
@@ -179,7 +213,9 @@
       "source_file": "[译]How_Things_Work_Encyclopedia_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 56645,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": ""
     },
     {
       "slug": "invention-dk-eyewitness-books-lionel-bender",
@@ -189,7 +225,9 @@
       "source_file": "[译]Invention_DK_Eyewitness_Books_Lionel_Bender_Z_Library.md",
       "source_pdf": null,
       "chars": 54603,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "king-solomons-ring-konrad-lorenz-julian-huxley",
@@ -199,7 +237,9 @@
       "source_file": "[译]King_Solomons_Ring_Konrad_Lorenz_Julian_Huxley_Z_Library.md",
       "source_pdf": null,
       "chars": 42352,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "light-dk-eyewitness-david-burnie",
@@ -209,7 +249,9 @@
       "source_file": "[译]Light_DK_Eyewitness_David_Burnie_Z_Library.md",
       "source_pdf": null,
       "chars": 56721,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "look-i-m-an-engineer-dk-children",
@@ -219,7 +261,9 @@
       "source_file": "[译]Look_I_m_an_Engineer_DK_CHILDREN_Z_Library.md",
       "source_pdf": null,
       "chars": 11096,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": ""
     },
     {
       "slug": "nature-guide-rocks-and-minerals-dk-publishing",
@@ -229,7 +273,9 @@
       "source_file": "[译]Nature_Guide_Rocks_and_Minerals_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 149807,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "our-world-in-numbers-an-encyclopedia-of-fantastic-facts-dk",
@@ -239,7 +285,9 @@
       "source_file": "[译]Our_World_in_Numbers_An_Encyclopedia_of_Fantastic_Facts_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 72664,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "presenting-dk-essential-managers-dk-aileen-pincus",
@@ -249,7 +297,9 @@
       "source_file": "[译]Presenting_DK_Essential_Managers_DK_Aileen_Pincus_Z_Library.md",
       "source_pdf": null,
       "chars": 27246,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "rhs-under-your-feet-soil-sand-and-other-stuff-dk-royal-horticultural-society-wen",
@@ -259,7 +309,9 @@
       "source_file": "[译]RHS_Under_Your_Feet_Soil_Sand_and_Other_Stuff_DK_Royal_Horticultural_Society_Wenjia_Tang_Z_Library.md",
       "source_pdf": "RHS Under Your Feet  Soil, Sand and Other Stuff (DK, Royal Horticultural Society , Wenjia Tang) (Z-Library).pdf",
       "chars": 24069,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "rocks-and-minerals-dk-eyewitness",
@@ -269,7 +321,9 @@
       "source_file": "[译]Rocks_and_Minerals_DK_Eyewitness_Z_Library.md",
       "source_pdf": null,
       "chars": 51020,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "science-is-magic-steve-mould",
@@ -279,7 +333,9 @@
       "source_file": "[译]Science_Is_Magic_Steve_Mould_Z_Library.md",
       "source_pdf": null,
       "chars": 29890,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "science-squad-lisa-burke-robert-winston",
@@ -289,7 +345,9 @@
       "source_file": "[译]Science_Squad_Lisa_Burke_Robert_Winston_Z_Library.md",
       "source_pdf": null,
       "chars": 35432,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "smithsonian-the-rock-gem-book-and-other-treasures-of-the-natural-world-dan-green",
@@ -299,7 +357,9 @@
       "source_file": "[译]Smithsonian_The_Rock_Gem_Book_And_Other_Treasures_of_the_Natural_World_Dan_Green_Z_Library.md",
       "source_pdf": "Smithsonian — The Rock  Gem Book  And Other Treasures of the Natural World (Dan Green) (Z-Library).pdf",
       "chars": 92093,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "star-finder-a-step-by-step-guide-to-the-night-sky-dk-smithsonian",
@@ -309,7 +369,9 @@
       "source_file": "[译]Star_Finder_A_Step_by_Step_Guide_to_the_Night_Sky_DK_Smithsonian_Z_Library.md",
       "source_pdf": null,
       "chars": 31817,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "super-science-encyclopedia-how-science-shapes-our-world-dorling-kindersley",
@@ -319,7 +381,9 @@
       "source_file": "[译]Super_Science_Encyclopedia_How_Science_Shapes_Our_World_Dorling_Kindersley_Z_Library.md",
       "source_pdf": null,
       "chars": 78351,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "super-structures-samone-bos-phil-wilkinson",
@@ -329,7 +393,9 @@
       "source_file": "[译]Super_Structures_Samone_Bos_Phil_Wilkinson_Z_Library.md",
       "source_pdf": null,
       "chars": 25485,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "the-ecology-book-dk-publishing",
@@ -339,7 +405,9 @@
       "source_file": "[译]The_Ecology_Book_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 245057,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "the-medicine-book-big-ideas-simply-explained-dk",
@@ -349,7 +417,9 @@
       "source_file": "[译]The_Medicine_Book_Big_Ideas_Simply_Explained_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 349484,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "the-movie-book-big-ideas-simply-explained-dk-publishing",
@@ -359,7 +429,9 @@
       "source_file": "[译]The_Movie_Book_Big_Ideas_Simply_Explained_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 327125,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "the-politics-book-dk-publishing-inc",
@@ -369,7 +441,9 @@
       "source_file": "[译]The_Politics_Book_DK_Publishing_Inc_Z_Library.md",
       "source_pdf": null,
       "chars": 89035,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "the-psychology-book-dk",
@@ -379,7 +453,9 @@
       "source_file": "[译]The_Psychology_Book_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 316113,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "the-sociology-book-big-ideas-simply-explained-sarah-tomley-mitchell-hobbes",
@@ -389,7 +465,9 @@
       "source_file": "[译]The_Sociology_Book_Big_Ideas_Simply_Explained_Sarah_Tomley_Mitchell_Hobbes_Z_Library.md",
       "source_pdf": null,
       "chars": 324561,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "the-wonders-of-nature-ben-hoare",
@@ -399,7 +477,9 @@
       "source_file": "[译]The_Wonders_of_Nature_Ben_Hoare_Z_Library.md",
       "source_pdf": null,
       "chars": 64314,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "wildlife-of-the-world-dk-smithsonian-don-e-wilson",
@@ -409,7 +489,9 @@
       "source_file": "[译]Wildlife_of_the_world_DK_Smithsonian_Don_E_Wilson_Z_Library.md",
       "source_pdf": null,
       "chars": 529691,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": "Don E Wilson"
     },
     {
       "slug": "world-war-ii-map-by-map-dk-publishing-smithsonian-institution",
@@ -419,17 +501,21 @@
       "source_file": "[译]World_War_II_Map_by_Map_DK_Publishing_Smithsonian_Institution_Z_Library.md",
       "source_pdf": null,
       "chars": 328089,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "edition",
-      "title": "Edition",
+      "title": "Recursive Macroeconomic Theory (2nd Edition) — Ljungqvist & Sargent",
       "language": "en",
       "pipeline": "native",
       "source_file": "[MD]11_Recursive_Macroeconomic_Theory_Second_Edition.md",
       "source_pdf": null,
       "chars": 278809,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "hayashi",
@@ -439,17 +525,21 @@
       "source_file": "[MD]12_econometrics_by_hayashi.md",
       "source_pdf": null,
       "chars": 1103018,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "tsay",
-      "title": "Tsay",
+      "title": "Analysis of Financial Time Series — Ruey S. Tsay",
       "language": "en",
       "pipeline": "native",
       "source_file": "[MD]15_Analysis_of_Financial_Time_Series_Ruey_S_Tsay.md",
       "source_pdf": null,
       "chars": 257662,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": "Ruey S Tsay"
     },
     {
       "slug": "tirole",
@@ -459,7 +549,9 @@
       "source_file": "[MD]18_The_Theory_of_Corporate_Finance_by_Jean_Tirole.md",
       "source_pdf": null,
       "chars": 272032,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "green",
@@ -469,27 +561,33 @@
       "source_file": "[MD]19_Microeconomic_Theory_Andreu_Mas_Colell_Michael_D_Whinston_Jerry_R_Green.md",
       "source_pdf": null,
       "chars": 267193,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": "Jerry R Green"
     },
     {
       "slug": "高清",
-      "title": "高清",
+      "title": "Principles of Economics: Microeconomics (5th ed., English) — Mankiw",
       "language": "en",
       "pipeline": "native",
       "source_file": "[MD]2_曼昆经济学原理微观分册_英_第五版_高清.md",
       "source_pdf": null,
       "chars": 169856,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "e",
-      "title": "e",
+      "title": "Macroeconomics (7th Edition) — N. Gregory Mankiw",
       "language": "en",
       "pipeline": "native",
       "source_file": "[MD]4_MACROECONOMICS_MANKIW_7e.md",
       "source_pdf": null,
       "chars": 230002,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "economics",
@@ -499,7 +597,9 @@
       "source_file": "[MD]9_Foundations_for_Financial_Economics.md",
       "source_pdf": null,
       "chars": 533481,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "american-geological-institute-laboratory-manual-in-physical-geology-woods-k-m-ed",
@@ -509,7 +609,9 @@
       "source_file": "[MD]American_Geological_Institute_Laboratory_Manual_in_Physical_Geology_Woods_K_M_Ed_Z_Library.md",
       "source_pdf": "American Geological Institute. Laboratory Manual in Physical Geology (Woods K.M. (Ed.)) (Z-Library).pdf",
       "chars": 779901,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "ancient-china-arthur-cotterell",
@@ -519,7 +621,9 @@
       "source_file": "[MD]Ancient_China_Arthur_Cotterell_Z_Library.md",
       "source_pdf": null,
       "chars": 228994,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "an-introduction-to-game-theory-martin-j-osborne",
@@ -529,7 +633,9 @@
       "source_file": "[MD]An_Introduction_to_Game_Theory_Martin_J_Osborne_Z_Library.md",
       "source_pdf": null,
       "chars": 280778,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": "Martin J Osborne"
     },
     {
       "slug": "applied-general-relativity-theory-and-applications-in-astronomy-celestial-mechan",
@@ -539,17 +645,9 @@
       "source_file": "[MD]Applied_General_Relativity_Theory_and_Applications_in_Astronomy_Celestial_Mechanics_and_Metrology_Michael_H_Soffel_Wen_Biao_Han_Z_Library.md",
       "source_pdf": null,
       "chars": 268079,
-      "has_fixed": false
-    },
-    {
-      "slug": "ap-physics-c-mechanics-hybrid-sample-free-response-booklet",
-      "title": "ap physics c mechanics hybrid sample free response booklet",
-      "language": "en",
-      "pipeline": "native",
-      "source_file": "[MD]ap_physics_c_mechanics_hybrid_sample_free_response_booklet.md",
-      "source_pdf": "ap-physics-c-mechanics-hybrid-sample-free-response-booklet.pdf",
-      "chars": 4846,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "artists-drawing-techniques-dk",
@@ -559,7 +657,9 @@
       "source_file": "[MD]Artists_Drawing_Techniques_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 428396,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "astronomy-a-visual-guide-dk",
@@ -569,7 +669,9 @@
       "source_file": "[MD]Astronomy_A_Visual_Guide_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 563938,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "atomic-physics-dmitry-budker-derek-kimball-david-demille",
@@ -579,7 +681,9 @@
       "source_file": "[MD]Atomic_Physics_Dmitry_Budker_Derek_Kimball_David_DeMille_Z_Library.md",
       "source_pdf": null,
       "chars": 894937,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "DeMille"
     },
     {
       "slug": "atomic-physics-oxford-master-series-in-atomic-optical-and-laser-physics-christop",
@@ -589,7 +693,9 @@
       "source_file": "[MD]Atomic_Physics_Oxford_Master_Series_in_Atomic_Optical_and_Laser_Physics_Christopher_J_Foot_Z_Library.md",
       "source_pdf": "Atomic Physics (Oxford Master Series in Atomic, Optical and Laser Physics) (Christopher J. Foot) (Z-Library).pdf",
       "chars": 230492,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Christopher J Foot"
     },
     {
       "slug": "atoms-in-the-family-my-life-with-enrico-fermi-laura-fermi",
@@ -599,7 +705,9 @@
       "source_file": "[MD]Atoms_in_the_Family_My_Life_with_Enrico_Fermi_Laura_Fermi_Z_Library.md",
       "source_pdf": null,
       "chars": 547597,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "a-brief-history-of-infinity-the-quest-to-think-the-unthinkable-brian-clegg",
@@ -609,7 +717,9 @@
       "source_file": "[MD]A_Brief_History_of_Infinity_The_Quest_to_Think_the_Unthinkable_Brian_Clegg_Z_Library.md",
       "source_pdf": null,
       "chars": 423696,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "a-passion-for-nature-the-life-of-john-muir-donald-worster",
@@ -619,7 +729,9 @@
       "source_file": "[MD]A_Passion_for_Nature_The_Life_of_John_Muir_Donald_Worster_Z_Library.md",
       "source_pdf": null,
       "chars": 271786,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "a-sand-county-almanac----and-sketches-here-and-there-aldo-leopold",
@@ -628,8 +740,10 @@
       "pipeline": "ocr_md",
       "source_file": "A Sand County Almanac -- And Sketches Here and There (Aldo Leopold) (Z-Library).md",
       "source_pdf": null,
-      "chars": 285469,
-      "has_fixed": false
+      "chars": 280368,
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "a-students-guide-to-atomic-physics-mark-fox",
@@ -639,7 +753,9 @@
       "source_file": "[MD]A_Students_Guide_to_Atomic_Physics_Mark_Fox_Z_Library.md",
       "source_pdf": null,
       "chars": 256877,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "basic-training-in-mathematics-a-fitness-program-for-science-students-r-shankar",
@@ -649,7 +765,9 @@
       "source_file": "[MD]Basic_Training_in_Mathematics_A_Fitness_Program_for_Science_Students_R_Shankar_Z_Library.md",
       "source_pdf": null,
       "chars": 658727,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Students R Shankar"
     },
     {
       "slug": "battles-that-changed-history-dk-smithsonian",
@@ -659,7 +777,9 @@
       "source_file": "[MD]Battles_That_Changed_History_DK_Smithsonian_Z_Library.md",
       "source_pdf": null,
       "chars": 456532,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "beautiful-visualization-looking-at-data-through-the-eyes-of-experts-julie-steele",
@@ -669,7 +789,9 @@
       "source_file": "[MD]Beautiful_Visualization_Looking_at_Data_through_the_Eyes_of_Experts_Julie_Steele_Noah_Iliinsky_Z_Library.md",
       "source_pdf": "Beautiful Visualization Looking at Data through the Eyes of Experts (Julie Steele, Noah Iliinsky) (Z-Library).pdf",
       "chars": 698935,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "biology-dynamics-of-life-alton-biggs-dinah-zike-peter-rillero",
@@ -679,7 +801,9 @@
       "source_file": "[MD]Biology_Dynamics_of_Life_Alton_Biggs_Dinah_Zike_Peter_Rillero_Z_Library.md",
       "source_pdf": null,
       "chars": 2946966,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "birds-of-east-asia-eastern-china-taiwan-korea-japan-eastern-russia-brazil-mark",
@@ -689,7 +813,9 @@
       "source_file": "[MD]Birds_of_East_Asia_Eastern_China_Taiwan_Korea_Japan_Eastern_Russia_Brazil_Mark_Z_Library.md",
       "source_pdf": null,
       "chars": 1627173,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "breaking-boundaries-the-science-of-our-planet-johan-rockström-owen-gaffney",
@@ -698,8 +824,10 @@
       "pipeline": "ocr_md",
       "source_file": "Breaking Boundaries  The Science of Our Planet (Johan Rockström Owen Gaffney) (Z-Library).md",
       "source_pdf": null,
-      "chars": 604434,
-      "has_fixed": false
+      "chars": 584061,
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "britannica-illustrated-science-library-encyclopaedia-britannica-editorial",
@@ -709,7 +837,9 @@
       "source_file": "[MD]Britannica_Illustrated_Science_Library_Encyclopaedia_Britannica_Editorial_Z_Library.md",
       "source_pdf": null,
       "chars": 3103795,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "british-naturalists-in-qing-china-fa-ti-fan",
@@ -719,7 +849,9 @@
       "source_file": "[MD]British_Naturalists_in_Qing_China_Fa_ti_Fan_Z_Library.md",
       "source_pdf": null,
       "chars": 601931,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "business-and-personal-finance-student-edition-glencoe-mcgraw-hill",
@@ -729,7 +861,9 @@
       "source_file": "[MD]Business_and_Personal_Finance_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 1767153,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "calculus-graphical-numerical-algebraic-ross-l-finney-franklin-d-demana-etc",
@@ -739,7 +873,9 @@
       "source_file": "[MD]Calculus_Graphical_Numerical_Algebraic_Ross_L_Finney_Franklin_D_Demana_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 1796570,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "calculus-reordered-david-m-bressoud",
@@ -749,7 +885,9 @@
       "source_file": "[MD]Calculus_Reordered_David_M_Bressoud_Z_Library.md",
       "source_pdf": null,
       "chars": 397978,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": "David M Bressoud"
     },
     {
       "slug": "cambridge-igcse-physics-coursebook",
@@ -759,7 +897,9 @@
       "source_file": "[MD]Cambridge_IGCSE_Physics_Coursebook.md",
       "source_pdf": "Cambridge IGCSE Physics Coursebook.pdf",
       "chars": 416272,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "cambridge-igcse-physics-kennett-heather-tom-duncan",
@@ -769,7 +909,9 @@
       "source_file": "[MD]Cambridge_IGCSE_Physics_Kennett_Heather_Tom_Duncan.md",
       "source_pdf": "Cambridge IGCSE Physics (Kennett Heather, Tom Duncan).pdf",
       "chars": 863151,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "chinas-traditional-rural-architecture-a-cultural-geography-of-the-common-house-r",
@@ -779,7 +921,9 @@
       "source_file": "[MD]Chinas_Traditional_Rural_Architecture_A_Cultural_Geography_of_the_Common_House_Ronald_G_Knapp_Z_Library.md",
       "source_pdf": "Chinas Traditional Rural Architecture A Cultural Geography of the Common House (Ronald G. Knapp) (Z-Library).pdf",
       "chars": 378645,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Ronald G Knapp"
     },
     {
       "slug": "china-dk-eyewitness-travel-guide-dk",
@@ -789,7 +933,9 @@
       "source_file": "[MD]China_DK_Eyewitness_Travel_Guide_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 1680452,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "china-dk-publishing",
@@ -799,7 +945,9 @@
       "source_file": "[MD]China_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 1739018,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "china-travel-guide-lonely-planet",
@@ -809,7 +957,9 @@
       "source_file": "[MD]China_Travel_Guide_Lonely_Planet_Z_Library.md",
       "source_pdf": null,
       "chars": 3535785,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "chinese-bridges-living-architecture-from-china-s-past-ronald-g-knapp-a-chester-o",
@@ -819,7 +969,9 @@
       "source_file": "[MD]Chinese_Bridges_Living_Architecture_from_China_s_Past_Ronald_G_Knapp_A_Chester_Ong_photo_Z_Library.md",
       "source_pdf": "Chinese Bridges Living Architecture from China’s Past (Ronald G. Knapp, A. Chester Ong (photo)) (Z-Library).pdf",
       "chars": 436786,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "chinese-landscapes-the-village-as-place-ronald-g-knapp",
@@ -829,7 +981,9 @@
       "source_file": "[MD]Chinese_Landscapes_The_Village_as_Place_Ronald_G_Knapp_Z_Library.md",
       "source_pdf": null,
       "chars": 669332,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Ronald G Knapp"
     },
     {
       "slug": "classical-mechanics-hiqmet-kamberaj",
@@ -839,7 +993,9 @@
       "source_file": "[MD]Classical_Mechanics_Hiqmet_Kamberaj_Z_Library.md",
       "source_pdf": null,
       "chars": 265627,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "college-physics-raymond-a-serway-chris-vuille",
@@ -849,7 +1005,9 @@
       "source_file": "[MD]College_Physics_Raymond_A_Serway_Chris_Vuille_Z_Library.md",
       "source_pdf": null,
       "chars": 3890032,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "collins-complete-guide-to-british-trees-paul-sterry",
@@ -859,7 +1017,9 @@
       "source_file": "[MD]Collins_complete_guide_to_British_trees_Paul_Sterry_Z_Library.md",
       "source_pdf": null,
       "chars": 497453,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "confucius-courtyard-architecture-philosophy-and-the-good-life-in-china-xing-ruan",
@@ -869,7 +1029,9 @@
       "source_file": "[MD]Confucius_Courtyard_Architecture_Philosophy_and_the_Good_Life_in_China_Xing_Ruan_Z_Library.md",
       "source_pdf": "Confucius’ Courtyard Architecture, Philosophy and the Good Life in China (Xing Ruan) (Z-Library).pdf",
       "chars": 241561,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "contemporary-architecture-in-china-urban-landscapes-wei-pang",
@@ -879,7 +1041,9 @@
       "source_file": "[MD]Contemporary_Architecture_in_China_Urban_Landscapes_Wei_Pang_Z_Library.md",
       "source_pdf": null,
       "chars": 194533,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "creative-confidence-unleashing-the-creative-potential-within-us-all-tom-kelley-d",
@@ -889,7 +1053,9 @@
       "source_file": "[MD]Creative_Confidence_Unleashing_the_Creative_Potential_Within_Us_All_Tom_Kelley_David_Kelley_Z_Library.md",
       "source_pdf": null,
       "chars": 245891,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "data-visualisation-a-handbook-for-data-driven-design-andy-kirk",
@@ -899,7 +1065,9 @@
       "source_file": "[MD]Data_Visualisation_A_Handbook_for_Data_Driven_Design_Andy_Kirk_Z_Library.md",
       "source_pdf": null,
       "chars": 911690,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "data-visualization-for-design-thinking-applied-mapping-winifred-e-newman",
@@ -909,7 +1077,9 @@
       "source_file": "[MD]Data_Visualization_For_Design_Thinking_Applied_Mapping_Winifred_E_Newman_Z_Library.md",
       "source_pdf": null,
       "chars": 643762,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": "Winifred E Newman"
     },
     {
       "slug": "david-j-griffiths-introduction-to-electrodynamics-addison-wesley-2012",
@@ -919,7 +1089,9 @@
       "source_file": "[MD]David_J_Griffiths_Introduction_to_Electrodynamics_Addison_Wesley_2012.md",
       "source_pdf": "David J. Griffiths-Introduction to Electrodynamics-Addison-Wesley (2012).pdf",
       "chars": 278380,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "design-for-how-people-think-john-whalen",
@@ -929,7 +1101,9 @@
       "source_file": "[MD]Design_for_how_People_Think_John_Whalen_Z_Library.md",
       "source_pdf": null,
       "chars": 332449,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "dice-world-science-and-life-in-a-random-universe-brian-clegg",
@@ -939,7 +1113,9 @@
       "source_file": "[MD]Dice_World_Science_and_Life_in_a_Random_Universe_Brian_Clegg_Z_Library.md",
       "source_pdf": null,
       "chars": 384890,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "discovering-life-skills-student-edition-glencoe-mcgraw-hill",
@@ -949,7 +1125,9 @@
       "source_file": "[MD]Discovering_Life_Skills_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 1265121,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "dk-eyewitness-travel-guide-new-england-dk-publishing",
@@ -959,7 +1137,9 @@
       "source_file": "[MD]DK_Eyewitness_Travel_Guide_New_England_DK_Publishing_Z_Library.md",
       "source_pdf": null,
       "chars": 1131514,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "dk-the-survival-handbook-colin-towell",
@@ -969,7 +1149,9 @@
       "source_file": "[MD]DK_The_Survival_Handbook_Colin_Towell_Z_Library.md",
       "source_pdf": null,
       "chars": 863096,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "earth-science-edward-j-tarbuck-frederick-k-lutgens-etc",
@@ -979,7 +1161,9 @@
       "source_file": "[MD]Earth_Science_Edward_J_Tarbuck_Frederick_K_Lutgens_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 2556867,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "earth-science-geology-the-environment-and-the-universe-mcgraw-hill-education",
@@ -989,7 +1173,9 @@
       "source_file": "[MD]Earth_Science_Geology_the_Environment_and_the_Universe_McGraw_Hill_Education_Z_Library.md",
       "source_pdf": null,
       "chars": 2151469,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "earth-science-interactive-student-edition-glencoe",
@@ -999,7 +1185,9 @@
       "source_file": "[MD]Earth_Science_Interactive_Student_Edition_Glencoe_Z_Library.md",
       "source_pdf": null,
       "chars": 1818256,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "earth-structure-an-introduction-to-structural-geology-and-tectonics-second-editi",
@@ -1009,7 +1197,9 @@
       "source_file": "[MD]Earth_Structure_An_Introduction_to_Structural_Geology_and_Tectonics_Second_Edition_Ben_A_van_der_Pluijm_Stephen_Marshak_Z_Library.md",
       "source_pdf": "Earth Structure An Introduction to Structural Geology and Tectonics, Second Edition (Ben A. van der Pluijm, Stephen Marshak) (Z-Library).pdf",
       "chars": 2142812,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "economics-today-and-tomorrow-student-edition-glencoe-mcgraw-hill",
@@ -1019,7 +1209,9 @@
       "source_file": "[MD]Economics_Today_and_Tomorrow_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 1462165,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "electromagnetic-field-theory-fundamentals-guru-b-s-hiziroglu-h-r",
@@ -1029,17 +1221,9 @@
       "source_file": "[MD]Electromagnetic_Field_Theory_Fundamentals_Guru_B_S_Hiziroglu_H_R_Z_Library.md",
       "source_pdf": null,
       "chars": 1127291,
-      "has_fixed": false
-    },
-    {
-      "slug": "emf-spectrum-chart1",
-      "title": "EMF SPECTRUM CHART1",
-      "language": "en",
-      "pipeline": "native",
-      "source_file": "[MD]EMF_SPECTRUM_CHART1.md",
-      "source_pdf": "EMF-SPECTRUM-CHART1.pdf",
-      "chars": 23342,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "encyclopedia-of-insects-second-edition-vincent-h-resh-ring-t-carde",
@@ -1049,7 +1233,9 @@
       "source_file": "[MD]Encyclopedia_of_Insects_Second_Edition_Vincent_H_Resh_Ring_T_Carde_Z_Library.md",
       "source_pdf": null,
       "chars": 6953141,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": "Ring T Carde"
     },
     {
       "slug": "essentials-of-geology-frederick-k-lutgens-edward-j-tarbuck",
@@ -1059,7 +1245,9 @@
       "source_file": "[MD]Essentials_of_geology_Frederick_K_Lutgens_Edward_J_Tarbuck_Z_Library.md",
       "source_pdf": null,
       "chars": 1942982,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Edward J Tarbuck"
     },
     {
       "slug": "essentials-of-geology-masteringgeology-with-etext-access-card-frederick-k-lutgen",
@@ -1069,7 +1257,9 @@
       "source_file": "[MD]Essentials_of_Geology_Masteringgeology_With_Etext_Access_Card_Frederick_K_Lutgens_Edward_J_Tarbuck_etc_Z_Library.md",
       "source_pdf": "Essentials of Geology + Masteringgeology With Etext Access Card (Frederick K. Lutgens, Edward J. Tarbuck etc.) (Z-Library).pdf",
       "chars": 2115721,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "essentials-of-geology-stephen-marshak",
@@ -1079,7 +1269,9 @@
       "source_file": "[MD]Essentials_of_Geology_Stephen_Marshak_Z_Library.md",
       "source_pdf": null,
       "chars": 2020481,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "exoplanets-diamond-worlds-super-earths-pulsar-planets-and-the-new-search-for-lif",
@@ -1089,7 +1281,9 @@
       "source_file": "[MD]Exoplanets_Diamond_Worlds_Super_Earths_Pulsar_Planets_and_the_New_Search_for_Life_Beyond_Our_Solar_System_Michael_E_Summers_James_Trefil_Z_Library.md",
       "source_pdf": "Exoplanets Diamond Worlds, Super Earths, Pulsar Planets, and the New Search for Life Beyond Our Solar System (Michael E. Summers, James Trefil) (Z-Library).pdf",
       "chars": 274071,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "experiments-in-modern-physics-adrian-c-melissinos-jim-napolitano",
@@ -1099,7 +1293,9 @@
       "source_file": "[MD]Experiments_in_modern_physics_Adrian_C_Melissinos_Jim_Napolitano_Z_Library.md",
       "source_pdf": null,
       "chars": 940490,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "explanatorium-of-history-from-the-first-tools-to-the-climate-crisis-dk-dorling-k",
@@ -1109,7 +1305,9 @@
       "source_file": "[MD]Explanatorium_of_History_From_the_First_Tools_to_the_Climate_Crisis_DK_Dorling_Kindersley_Z_Library.md",
       "source_pdf": "Explanatorium of History  From the First Tools to the Climate Crisis (DK, Dorling Kindersley) (Z-Library).pdf",
       "chars": 445744,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "explanatorium-of-nature-dk-smithsonian",
@@ -1119,7 +1317,9 @@
       "source_file": "[MD]Explanatorium_of_Nature_DK_Smithsonian_Z_Library.md",
       "source_pdf": null,
       "chars": 450446,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "explorers-great-tales-of-adventure-and-endurance-alasdair-macleod-philip-parker",
@@ -1129,7 +1329,9 @@
       "source_file": "[MD]Explorers_Great_Tales_of_Adventure_and_Endurance_Alasdair_Macleod_Philip_Parker_Eugene_Rae_Z_Library.md",
       "source_pdf": "Explorers Great Tales of Adventure and Endurance (Alasdair Macleod, Philip Parker, Eugene Rae) (Z-Library).pdf",
       "chars": 1047653,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "feynmans-rainbow-a-search-for-beauty-in-physics-and-in-life-leonard-mlodinow",
@@ -1139,7 +1341,9 @@
       "source_file": "[MD]Feynmans_Rainbow_A_Search_for_Beauty_in_Physics_and_in_Life_Leonard_Mlodinow_Z_Library.md",
       "source_pdf": null,
       "chars": 208923,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "feynman-richard-six-easy-pieces-basic-2011",
@@ -1149,7 +1353,9 @@
       "source_file": "[MD]Feynman_Richard_Six_Easy_Pieces_Basic_2011.md",
       "source_pdf": null,
       "chars": 285153,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "foundations-of-earth-science-lutgens-frederick-k-tarbuck-edward-j-tasa-etc",
@@ -1159,7 +1365,9 @@
       "source_file": "[MD]Foundations_of_earth_science_Lutgens_Frederick_K_Tarbuck_Edward_J_Tasa_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 1950363,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "fundamentals-of-physics-ii-electromagnetism-optics-and-quantum-mechanics-r-shank",
@@ -1169,7 +1377,9 @@
       "source_file": "[MD]Fundamentals_of_Physics_II_Electromagnetism_Optics_and_Quantum_Mechanics_R_Shankar_Z_Library.md",
       "source_pdf": "Fundamentals of Physics II Electromagnetism, Optics, and Quantum Mechanics (R. Shankar) (Z-Library).pdf",
       "chars": 892973,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Mechanics R Shankar"
     },
     {
       "slug": "fundamental-astronomy-h-karttunen-p-kr-ger-h-oja-m-poutanen-etc",
@@ -1179,7 +1389,9 @@
       "source_file": "[MD]Fundamental_Astronomy_H_Karttunen_P_Kr_ger_H_Oja_M_Poutanen_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 235993,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "game-theory-michael-maschler-shmuel-zamir-eilon-solan",
@@ -1189,7 +1401,9 @@
       "source_file": "[MD]Game_Theory_Michael_Maschler_Shmuel_Zamir_Eilon_Solan_Z_Library.md",
       "source_pdf": null,
       "chars": 266418,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "game-theory-through-examples-prisner-erich",
@@ -1199,7 +1413,9 @@
       "source_file": "[MD]Game_theory_through_examples_Prisner_Erich_Z_Library.md",
       "source_pdf": null,
       "chars": 252480,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "game-theory-understanding-the-mathematics-of-life-brian-clegg",
@@ -1209,7 +1425,9 @@
       "source_file": "[MD]Game_Theory_Understanding_the_Mathematics_of_Life_Brian_Clegg_Z_Library.md",
       "source_pdf": null,
       "chars": 236474,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "general-relativity-the-theoretical-minimum-leonard-susskind-andre-cabannes",
@@ -1219,7 +1437,9 @@
       "source_file": "[MD]General_Relativity_The_Theoretical_Minimum_Leonard_Susskind_Andre_Cabannes_Z_Library.md",
       "source_pdf": null,
       "chars": 244694,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "geography-of-the-world-dk",
@@ -1229,7 +1449,9 @@
       "source_file": "[MD]Geography_of_the_World_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 1087361,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "geological-field-techniques-angela-l-coe-tom-w-argles-david-a-rothery-etc",
@@ -1239,7 +1461,9 @@
       "source_file": "[MD]Geological_Field_Techniques_Angela_L_Coe_Tom_W_Argles_David_A_Rothery_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 621123,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "化学",
+      "author": ""
     },
     {
       "slug": "geological-structures-a-practical-introduction-john-waldron-morgan-snyder",
@@ -1249,7 +1473,9 @@
       "source_file": "[MD]Geological_Structures_A_Practical_Introduction_John_Waldron_Morgan_Snyder_Z_Library.md",
       "source_pdf": null,
       "chars": 327233,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "geology-a-complete-introduction-david-rothery",
@@ -1259,7 +1485,9 @@
       "source_file": "[MD]Geology_A_Complete_Introduction_David_Rothery_Z_Library.md",
       "source_pdf": null,
       "chars": 616739,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "geology-in-the-field-robert-r-compton",
@@ -1269,7 +1497,9 @@
       "source_file": "[MD]Geology_In_The_Field_Robert_R_Compton_Z_Library.md",
       "source_pdf": null,
       "chars": 4928859,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Robert R Compton"
     },
     {
       "slug": "glencoe-physics-principles-and-problems-textbook-mcgraw-2005",
@@ -1279,7 +1509,9 @@
       "source_file": "[MD]Glencoe_Physics_Principles_and_Problems_textbook_McGraw_2005.md",
       "source_pdf": null,
       "chars": 2615446,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": ""
     },
     {
       "slug": "glencoe-science-animal-diversity-student-edition-glencoe-mcgraw-hill",
@@ -1289,7 +1521,9 @@
       "source_file": "[MD]Glencoe_Science_Animal_Diversity_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 458386,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "glencoe-science-astronomy-student-edition-glencoe-mcgraw-hill",
@@ -1299,7 +1533,9 @@
       "source_file": "[MD]Glencoe_Science_Astronomy_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 423339,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "glencoe-science-motion-forces-and-energy-student-edition-glencoe-mcgraw-hill",
@@ -1309,7 +1545,9 @@
       "source_file": "[MD]Glencoe_Science_Motion_Forces_and_Energy_Student_Edition_Glencoe_McGraw_Hill_Z_Library.md",
       "source_pdf": null,
       "chars": 509158,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "gravitational-wave-physics-and-astronomy-an-introduction-to-theory-experiment-an",
@@ -1319,7 +1557,9 @@
       "source_file": "[MD]Gravitational_Wave_Physics_and_Astronomy_An_Introduction_to_Theory_Experiment_and_Data_Analysis_Jolien_D_E_Creighton_Warren_G_Anderson_Z_Library.md",
       "source_pdf": "Gravitational-Wave Physics and Astronomy An Introduction to Theory, Experiment and Data Analysis (Jolien D. E. Creighton, Warren G. Anderson) (Z-Library).pdf",
       "chars": 258613,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": "Warren G Anderson"
     },
     {
       "slug": "great-cities-the-stories-behind-the-world-s-most-fascinating-places-dk",
@@ -1329,7 +1569,9 @@
       "source_file": "[MD]Great_Cities_The_Stories_Behind_the_World_s_most_Fascinating_Places_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 784862,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "great-city-maps-dk",
@@ -1339,7 +1581,9 @@
       "source_file": "[MD]Great_City_Maps_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 361041,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "groovy-geometry-games-and-activities-that-make-math-easy-and-fun-lynette-long",
@@ -1349,7 +1593,9 @@
       "source_file": "[MD]Groovy_Geometry_Games_and_Activities_That_Make_Math_Easy_and_Fun_Lynette_Long_Z_Library.md",
       "source_pdf": null,
       "chars": 69616,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "holt-physical-science-california-edition-christie-ph-d-borgford-mapi-ph-d-cuevas",
@@ -1359,7 +1605,9 @@
       "source_file": "[MD]Holt_Physical_Science_California_Edition_Christie_Ph_D_Borgford_Mapi_Ph_D_Cuevas_etc_Z_Library.md",
       "source_pdf": "Holt Physical Science California Edition (Christie, Ph.D. Borgford, Mapi, Ph.D. Cuevas etc.) (Z-Library).pdf",
       "chars": 1318123,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "how-the-laser-happened-townes-charles-h",
@@ -1369,7 +1617,9 @@
       "source_file": "[MD]How_the_Laser_Happened_Townes_Charles_H_Z_Library.md",
       "source_pdf": null,
       "chars": 453385,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "how-to-be-a-math-genius-dk-mike-goldsmith",
@@ -1379,7 +1629,9 @@
       "source_file": "[MD]How_to_Be_a_Math_Genius_DK_Mike_Goldsmith_Z_Library.md",
       "source_pdf": null,
       "chars": 196518,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "how-to-be-good-at-maths-the-simplest-ever-visual-guide-carol-vorderman",
@@ -1389,7 +1641,9 @@
       "source_file": "[MD]How_to_Be_Good_at_Maths_The_Simplest_Ever_Visual_Guide_Carol_Vorderman_Z_Library.md",
       "source_pdf": null,
       "chars": 403795,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "how-to-be-good-at-science-technology-and-engineering-dk",
@@ -1399,7 +1653,9 @@
       "source_file": "[MD]How_to_Be_Good_at_Science_Technology_and_Engineering_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 453371,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "how-to-drive-a-nuclear-reactor-colin-tucker",
@@ -1409,7 +1665,9 @@
       "source_file": "[MD]How_to_Drive_a_Nuclear_Reactor_Colin_Tucker_Z_Library.md",
       "source_pdf": null,
       "chars": 254911,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "illustrated-encyclopedia-of-the-universe-dorling-kindersley",
@@ -1419,7 +1677,9 @@
       "source_file": "[MD]illustrated_Encyclopedia_of_the_Universe_Dorling_Kindersley_Z_Library.md",
       "source_pdf": null,
       "chars": 1607271,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "illustrated-special-relativity-through-its-paradoxes-standard-edition-a-fusion-o",
@@ -1429,7 +1689,9 @@
       "source_file": "[MD]Illustrated_Special_Relativity_Through_Its_Paradoxes_Standard_Edition_A_Fusion_of_Linear_Algebra_Graphics_and_Reality_John_de_Pillis_Jose_Wudka_Z_Library.md",
       "source_pdf": "Illustrated Special Relativity Through Its Paradoxes, Standard Edition A Fusion of Linear Algebra, Graphics, and Reality (John de Pillis, Jose Wudka) (Z-Library).pdf",
       "chars": 243187,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "infinite-powers-how-calculus-reveals-the-secrets-of-the-universe-steven-strogatz",
@@ -1439,7 +1701,9 @@
       "source_file": "[MD]Infinite_Powers_How_Calculus_Reveals_the_Secrets_of_the_Universe_Steven_Strogatz_Z_Library.md",
       "source_pdf": "Infinite Powers How Calculus Reveals the Secrets of the Universe (Steven Strogatz) (Z-Library).pdf",
       "chars": 239701,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "introducing-game-theory-a-graphic-guide-ivan-pastine-tuvana-pastine",
@@ -1449,7 +1713,9 @@
       "source_file": "[MD]Introducing_Game_Theory_A_Graphic_Guide_Ivan_Pastine_Tuvana_Pastine_Z_Library.md",
       "source_pdf": null,
       "chars": 124696,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "introducing-quantum-theory-a-graphic-guide-to-sciences-most-puzzling-discovery-j",
@@ -1459,7 +1725,9 @@
       "source_file": "[MD]Introducing_Quantum_Theory_A_Graphic_Guide_to_Sciences_Most_Puzzling_Discovery_J_P_McEvoy_Oscar_Zarate_Z_Library.md",
       "source_pdf": null,
       "chars": 136384,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "introduction-to-geological-maps-and-structures-john-l-roberts-auth",
@@ -1469,7 +1737,9 @@
       "source_file": "[MD]Introduction_to_Geological_Maps_and_Structures_John_L_Roberts_Auth_Z_Library.md",
       "source_pdf": null,
       "chars": 241702,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "introduction-to-mineralogy-etc",
@@ -1479,7 +1749,9 @@
       "source_file": "[MD]Introduction_to_Mineralogy_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 1753065,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "introduction-to-quantum-mechanics-david-j-darrell-annas-archive-libgenrs-nf-2695",
@@ -1489,7 +1761,9 @@
       "source_file": "[MD]introduction_to_quantum_mechanics_david_j_darrell_annas_archive_libgenrs_nf_2695391.md",
       "source_pdf": null,
       "chars": 265610,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "inventions-a-visual-encyclopedia-dk-smithsonian",
@@ -1499,7 +1773,9 @@
       "source_file": "[MD]Inventions_A_Visual_Encyclopedia_DK_Smithsonian_Z_Library.md",
       "source_pdf": null,
       "chars": 487322,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "in-praise-of-simple-physics-the-science-and-mathematics-behind-everyday-question",
@@ -1509,7 +1785,9 @@
       "source_file": "[MD]In_Praise_of_Simple_Physics_The_Science_and_Mathematics_behind_Everyday_Questions_Paul_J_Nahin_Z_Library.md",
       "source_pdf": "In Praise of Simple Physics The Science and Mathematics behind Everyday Questions (Paul J. Nahin) (Z-Library).pdf",
       "chars": 275355,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": "Paul J Nahin"
     },
     {
       "slug": "janice-vancleaves-guide-to-the-best-science-fair-projects-janice-vancleave",
@@ -1519,7 +1797,9 @@
       "source_file": "[MD]Janice_VanCleaves_Guide_to_the_Best_Science_Fair_Projects_Janice_VanCleave_Z_Library.md",
       "source_pdf": null,
       "chars": 233008,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": "VanCleave"
     },
     {
       "slug": "jewel-a-celebration-of-earth-s-treasures-dk-judith-miller",
@@ -1529,7 +1809,9 @@
       "source_file": "[MD]Jewel_A_Celebration_of_Earth_s_Treasures_DK_Judith_Miller_Z_Library.md",
       "source_pdf": null,
       "chars": 660204,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "joseph-von-fraunhofer-scientist-and-entrepreneur",
@@ -1539,7 +1821,9 @@
       "source_file": "[MD]Joseph_von_Fraunhofer_Scientist_and_Entrepreneur.md",
       "source_pdf": "Joseph-von-Fraunhofer_Scientist-and-Entrepreneur.pdf",
       "chars": 12480,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "ken-schultzs-field-guide-to-freshwater-fish-ken-schultz",
@@ -1549,7 +1833,9 @@
       "source_file": "[MD]Ken_Schultzs_Field_Guide_to_Freshwater_Fish_Ken_Schultz_Z_Library.md",
       "source_pdf": null,
       "chars": 224326,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "letters-to-a-young-scientist-edward-o-wilson",
@@ -1559,7 +1845,9 @@
       "source_file": "[MD]Letters_to_a_Young_Scientist_Edward_O_Wilson_Z_Library.md",
       "source_pdf": null,
       "chars": 254512,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": "Edward O Wilson"
     },
     {
       "slug": "life-in-the-soil-a-guide-for-naturalists-and-gardeners-james-b-nardi",
@@ -1569,7 +1857,9 @@
       "source_file": "[MD]Life_in_the_Soil_A_Guide_for_Naturalists_and_Gardeners_James_B_Nardi_Z_Library.md",
       "source_pdf": null,
       "chars": 472556,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": "James B Nardi"
     },
     {
       "slug": "living-off-the-grid-a-guide-on-how-to-live-off-the-land-and-become-self-sufficie",
@@ -1579,7 +1869,9 @@
       "source_file": "[MD]Living_off_The_Grid_A_Guide_on_How_to_Live_Off_the_Land_and_Become_Self_Sufficient_Through_Homesteading_Dion_Rosser_Z_Library.md",
       "source_pdf": null,
       "chars": 144686,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "mathematics-for-machine-learning-mml-book",
@@ -1589,7 +1881,9 @@
       "source_file": "[MD]mathematics_for_machine_learning_mml_book.md",
       "source_pdf": "mathematics for machine learning-mml-book.pdf",
       "chars": 844147,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "maths-lab-exciting-projects-for-budding-mathematicians-dorling-kindersley",
@@ -1599,7 +1893,9 @@
       "source_file": "[MD]Maths_Lab_Exciting_Projects_for_Budding_Mathematicians_Dorling_Kindersley_Z_Library.md",
       "source_pdf": null,
       "chars": 155867,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "medicine-the-definitive-illustrated-history-parker-steve",
@@ -1609,7 +1905,9 @@
       "source_file": "[MD]Medicine_The_Definitive_Illustrated_History_Parker_Steve_Z_Library.md",
       "source_pdf": null,
       "chars": 864126,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "micro-life-miracles-of-the-miniature-world-revealed-dk",
@@ -1619,7 +1917,9 @@
       "source_file": "[MD]Micro_Life_Miracles_of_the_Miniature_World_Revealed_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 635656,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "mind-of-the-raven-investigations-and-adventures-with-wolf-birds-bernd-heinrich",
@@ -1629,7 +1929,9 @@
       "source_file": "[MD]Mind_of_the_Raven_Investigations_and_Adventures_with_Wolf_Birds_Bernd_Heinrich_Z_Library.md",
       "source_pdf": null,
       "chars": 710822,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "modern-cosmology-scott-dodelson",
@@ -1639,7 +1941,9 @@
       "source_file": "[MD]Modern_Cosmology_Scott_Dodelson_Z_Library.md",
       "source_pdf": null,
       "chars": 896117,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "modern-quantum-mechanics-j-j-sakurai-jim-napolitano",
@@ -1649,7 +1953,9 @@
       "source_file": "[MD]Modern_Quantum_Mechanics_J_J_Sakurai_Jim_Napolitano_Z_Library.md",
       "source_pdf": null,
       "chars": 246344,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "music-the-definitive-visual-history-smithsonian-institution-robert-ziegler",
@@ -1659,7 +1965,9 @@
       "source_file": "[MD]Music_The_definitive_visual_history_Smithsonian_Institution_Robert_Ziegler_Z_Library.md",
       "source_pdf": null,
       "chars": 2134992,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "national-geographic-field-guide-to-the-birds-of-north-america-jon-lloyd-dunn",
@@ -1669,7 +1977,9 @@
       "source_file": "[MD]National_Geographic_field_guide_to_the_birds_of_North_America_Jon_Lloyd_Dunn_Z_Library.md",
       "source_pdf": null,
       "chars": 1097668,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "naturalist-edward-o-wilson",
@@ -1679,7 +1989,9 @@
       "source_file": "[MD]Naturalist_Edward_O_Wilson_Z_Library.md",
       "source_pdf": null,
       "chars": 272696,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Edward O Wilson"
     },
     {
       "slug": "natural-wonders-of-the-world-smithsonian-institution",
@@ -1689,7 +2001,9 @@
       "source_file": "[MD]Natural_wonders_of_the_world_Smithsonian_Institution_Z_Library.md",
       "source_pdf": null,
       "chars": 950372,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "ocean-the-definitive-visual-guides-fabien-cousteaue",
@@ -1699,7 +2013,9 @@
       "source_file": "[MD]Ocean_The_Definitive_Visual_Guides_Fabien_Cousteaue_Z_Library.md",
       "source_pdf": null,
       "chars": 1828462,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "optically-pumped-atoms-william-happer-yuan-yu-jau-thad-walker",
@@ -1709,7 +2025,9 @@
       "source_file": "[MD]Optically_Pumped_Atoms_William_Happer_Yuan_Yu_Jau_Thad_Walker_Z_Library.md",
       "source_pdf": null,
       "chars": 406574,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "photons-and-atoms-introduction-to-quantum-electrodynamics-wiley-professional-cla",
@@ -1718,8 +2036,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Photons and Atoms Introduction to Quantum Electrodynamics (Wiley Professional) (Claude Cohen-Tannoudji, Jacques Dupont-Roc etc.) (Z-Library)_fixed.md",
       "source_pdf": "Photons and Atoms Introduction to Quantum Electrodynamics (Wiley Professional) (Claude Cohen-Tannoudji, Jacques Dupont-Roc etc.) (Z-Library).pdf",
-      "chars": 448549,
-      "has_fixed": true
+      "chars": 437026,
+      "has_fixed": true,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "physical-science-eighth-edition-bill-w-tillery",
@@ -1729,7 +2049,9 @@
       "source_file": "[MD]Physical_Science_Eighth_Edition_Bill_W_Tillery_Z_Library.md",
       "source_pdf": null,
       "chars": 2776820,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": "Bill W Tillery"
     },
     {
       "slug": "physical-science-experiments-pamela-walker-elaine-wood",
@@ -1739,7 +2061,9 @@
       "source_file": "[MD]Physical_science_experiments_Pamela_Walker_Elaine_Wood_Z_Library.md",
       "source_pdf": null,
       "chars": 181939,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "physics-experiments-with-arduino-and-smartphones-giovanni-organtini",
@@ -1749,17 +2073,21 @@
       "source_file": "[MD]Physics_Experiments_with_Arduino_and_Smartphones_Giovanni_Organtini_Z_Library.md",
       "source_pdf": null,
       "chars": 277496,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "for",
-      "title": "for",
+      "title": "Physics for Scientists and Engineers (9th Ed.) — Serway & Jewett (Solutions Manual)",
       "language": "en",
       "pipeline": "native",
       "source_file": "[MD]Physics_for_Scientists_and_Engineers_9th_Edition_Raymond_A_Serway_John_W_Jewett_Z_Library_Instructor_s_Solutions_Manuals_for.md",
       "source_pdf": null,
       "chars": 3227447,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": "John W Jewett"
     },
     {
       "slug": "physics-for-scientists-and-engineers-a-strategic-approach-with-modern-physics-ra",
@@ -1769,7 +2097,9 @@
       "source_file": "[MD]Physics_for_Scientists_and_Engineers_A_Strategic_Approach_With_Modern_Physics_Randall_D_Knight_Z_Library.md",
       "source_pdf": "Physics for Scientists and Engineers A Strategic Approach (With Modern Physics) (Randall D. Knight) (Z-Library).pdf",
       "chars": 4707697,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": "Randall D Knight"
     },
     {
       "slug": "physics-for-scientists-and-engineers-instructor-solutions-manual-randall-d-knigh",
@@ -1779,7 +2109,9 @@
       "source_file": "[MD]Physics_for_Scientists_and_Engineers_Instructor_Solutions_Manual_Randall_D_Knight_Z_Library.md",
       "source_pdf": "Physics for Scientists and Engineers Instructor Solutions Manual (Randall D. Knight) (Z-Library).pdf",
       "chars": 2434229,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "physics-laboratory-experiments-jerry-d-wilson-cecilia-a-hern-ndez-hall",
@@ -1789,7 +2121,9 @@
       "source_file": "[MD]Physics_Laboratory_Experiments_Jerry_D_Wilson_Cecilia_A_Hern_ndez_Hall_Z_Library.md",
       "source_pdf": null,
       "chars": 248872,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "physics-principles-and-problems-paul-w-zitzewitz",
@@ -1799,7 +2133,9 @@
       "source_file": "[MD]Physics_Principles_and_Problems_Paul_W_Zitzewitz_Z_Library.md",
       "source_pdf": null,
       "chars": 2615444,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": "Paul W Zitzewitz"
     },
     {
       "slug": "physics-principles-with-applications-douglas-c-giancoli",
@@ -1809,7 +2145,9 @@
       "source_file": "[MD]Physics_principles_with_applications_Douglas_C_Giancoli_Z_Library.md",
       "source_pdf": null,
       "chars": 3963850,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Douglas C Giancoli"
     },
     {
       "slug": "playing-for-real-a-text-on-game-theory-ken-binmore",
@@ -1819,7 +2157,9 @@
       "source_file": "[MD]Playing_for_Real_A_Text_on_Game_Theory_Ken_Binmore_Z_Library.md",
       "source_pdf": null,
       "chars": 283759,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "principles-of-quantum-mechanics-r-shankar",
@@ -1829,7 +2169,9 @@
       "source_file": "[MD]Principles_of_Quantum_Mechanics_R_Shankar_Z_Library.md",
       "source_pdf": null,
       "chars": 262315,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Mechanics R Shankar"
     },
     {
       "slug": "qed-the-strange-theory-of-light-and-matter-richard-p-feynman-a-zee",
@@ -1839,17 +2181,9 @@
       "source_file": "[MD]QED_The_Strange_Theory_of_Light_and_Matter_Richard_P_Feynman_A_Zee_Z_Library.md",
       "source_pdf": null,
       "chars": 239149,
-      "has_fixed": false
-    },
-    {
-      "slug": "qt04",
-      "title": "qt04",
-      "language": "en",
-      "pipeline": "native",
-      "source_file": "[MD]qt04.md",
-      "source_pdf": "qt04.pdf",
-      "chars": 21212,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Feynman A Zee"
     },
     {
       "slug": "quantum-electrodynamics-richard-p-feynman",
@@ -1859,7 +2193,9 @@
       "source_file": "[MD]Quantum_Electrodynamics_Richard_P_Feynman_Z_Library.md",
       "source_pdf": null,
       "chars": 258535,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Richard P Feynman"
     },
     {
       "slug": "quantum-mechanics-the-theoretical-minimum-leonard-susskind-art-friedman",
@@ -1869,7 +2205,9 @@
       "source_file": "[MD]Quantum_Mechanics_The_Theoretical_Minimum_Leonard_Susskind_Art_Friedman_Z_Library.md",
       "source_pdf": null,
       "chars": 366542,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "quantum-physics-for-beginners-discover-the-science-of-quantum-mechanics-and-lear",
@@ -1879,7 +2217,9 @@
       "source_file": "[MD]Quantum_Physics_for_Beginners_Discover_the_Science_of_Quantum_Mechanics_and_Learn_the_Basic_Concepts_from_Interference_to_Golding_Daniel_Z_Library.md",
       "source_pdf": null,
       "chars": 113159,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "quantum-physics-john-gribbin",
@@ -1888,8 +2228,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Quantum Physics (John Gribbin) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 90552,
-      "has_fixed": true
+      "chars": 87242,
+      "has_fixed": true,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "remarkable-books-the-world-s-most-beautiful-and-historic-works-dk",
@@ -1899,7 +2241,9 @@
       "source_file": "[MD]Remarkable_Books_The_World_s_Most_Beautiful_and_Historic_Works_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 520664,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "pumping",
@@ -1909,7 +2253,9 @@
       "source_file": "[MD]RevModPhys_44_169_Optical_Pumping.md",
       "source_pdf": null,
       "chars": 248951,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "robotics-for-young-children-stem-activities-and-simple-coding-ann-gadzikowski",
@@ -1919,7 +2265,9 @@
       "source_file": "[MD]Robotics_for_Young_Children_STEM_Activities_and_Simple_Coding_Ann_Gadzikowski_Z_Library.md",
       "source_pdf": null,
       "chars": 258975,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "rock-paper-scissors-game-theory-in-everyday-life-len-fisher",
@@ -1929,7 +2277,9 @@
       "source_file": "[MD]Rock_paper_scissors_game_theory_in_everyday_life_Len_Fisher_Z_Library.md",
       "source_pdf": null,
       "chars": 447964,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "science-year-by-year-a-visual-history-from-stone-tools-to-space-travel-dk",
@@ -1939,7 +2289,9 @@
       "source_file": "[MD]Science_Year_by_Year_A_Visual_History_From_Stone_Tools_to_Space_Travel_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 600480,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "selling-dk-essential-managers-eric-baron",
@@ -1949,7 +2301,9 @@
       "source_file": "[MD]Selling_DK_Essential_Managers_Eric_Baron_Z_Library.md",
       "source_pdf": null,
       "chars": 90404,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "simple-geological-structures-joan-platt",
@@ -1959,7 +2313,9 @@
       "source_file": "[MD]Simple_Geological_Structures_Joan_Platt_Z_Library.md",
       "source_pdf": null,
       "chars": 84184,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "simply-quantum-physics-miezan-van-zyl-project-editor",
@@ -1969,7 +2325,9 @@
       "source_file": "[MD]Simply_Quantum_Physics_Miezan_van_Zyl_Project_Editor_Z_Library.md",
       "source_pdf": null,
       "chars": 127005,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "solid-state-physics-ashcroft-mermin",
@@ -1979,7 +2337,9 @@
       "source_file": "[MD]Solid_State_Physics_Ashcroft_Mermin_Z_Library.md",
       "source_pdf": null,
       "chars": 264456,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "space-a-visual-encyclopedia-dk",
@@ -1989,7 +2349,9 @@
       "source_file": "[MD]Space_A_Visual_Encyclopedia_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 449653,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "special-relativity-and-classical-field-theory-the-theoretical-minimum-leonard-su",
@@ -1999,7 +2361,9 @@
       "source_file": "[MD]Special_Relativity_and_Classical_Field_Theory_The_Theoretical_Minimum_Leonard_Susskind_Art_Friedman_Z_Library.md",
       "source_pdf": "Special Relativity and Classical Field Theory The Theoretical Minimum (Leonard Susskind Art Friedman) (Z-Library).pdf",
       "chars": 283074,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "stellar-alchemy-the-celestial-origin-of-atoms-michel-cass-stephen-lyle",
@@ -2009,7 +2373,9 @@
       "source_file": "[MD]Stellar_alchemy_the_celestial_origin_of_atoms_Michel_Cass_Stephen_Lyle_Z_Library.md",
       "source_pdf": null,
       "chars": 508684,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "stem-student-research-handbook-darci-j-harland",
@@ -2019,7 +2385,9 @@
       "source_file": "[MD]STEM_Student_Research_Handbook_Darci_J_Harland_Z_Library.md",
       "source_pdf": null,
       "chars": 238776,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "steps-to-stem-a-science-curriculum-supplement-for-upper-elementary-and-middle-sc",
@@ -2029,7 +2397,9 @@
       "source_file": "[MD]STEPS_to_STEM_a_science_curriculum_supplement_for_upper_elementary_and_middle_school_grades_Isabelle_Aaron_D_Zinn_Gilbert_A_Z_Library.md",
       "source_pdf": "STEPS to STEM a science curriculum supplement for upper elementary and middle school grades (Isabelle, Aaron D.Zinn, Gilbert A) (Z-Library).pdf",
       "chars": 252383,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "structural-geological-atlas-soumyajit-mukherjee-narayan-bose-etc",
@@ -2039,7 +2409,9 @@
       "source_file": "[MD]Structural_Geological_Atlas_Soumyajit_Mukherjee_Narayan_Bose_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 202181,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "student-workbook-for-physics-for-scientists-and-engineers-a-strategic-approach-w",
@@ -2049,7 +2421,9 @@
       "source_file": "[MD]Student_Workbook_for_Physics_for_Scientists_and_Engineers_A_Strategic_Approach_with_Modern_Physics_Knight_Randall_D_Z_Library.md",
       "source_pdf": "Student Workbook for Physics for Scientists and Engineers A Strategic Approach with Modern Physics (Knight, Randall D) (Z-Library).pdf",
       "chars": 383920,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "study-guide-for-university-physics-hugh-d-young-roger-freedman-laird-kramer",
@@ -2059,7 +2433,9 @@
       "source_file": "[MD]Study_Guide_for_University_Physics_Hugh_D_Young_Roger_Freedman_Laird_Kramer_Z_Library.md",
       "source_pdf": null,
       "chars": 913969,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "super-simple-maths-dk",
@@ -2069,7 +2445,9 @@
       "source_file": "[MD]Super_Simple_Maths_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 498880,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "super-simple-physics-the-ultimate-bitesize-study-guide-dk",
@@ -2079,7 +2457,9 @@
       "source_file": "[MD]Super_Simple_Physics_The_Ultimate_Bitesize_Study_Guide_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 503073,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "surely-you-re-joking-mr-feynman-adventures-of-a-curious-character-richard-p-feyn",
@@ -2089,7 +2469,9 @@
       "source_file": "[MD]Surely_You_re_Joking_Mr_Feynman_Adventures_of_a_Curious_Character_Richard_P_Feynman_Bill_Gates_Ralph_Leighton_Z_Library.md",
       "source_pdf": null,
       "chars": 649127,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "survival-for-beginners-a-step-by-step-guide-to-camping-and-outdoor-skills-colin",
@@ -2099,7 +2481,9 @@
       "source_file": "[MD]Survival_For_Beginners_A_Step_By_Step_Guide_To_Camping_And_Outdoor_Skills_Colin_Towell_Z_Library.md",
       "source_pdf": "Survival For Beginners A Step-By-Step Guide To Camping And Outdoor Skills (Colin Towell) (Z-Library).pdf",
       "chars": 154630,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "survival-guide-the-book-all-survivalist-and-preppers-need-fredrick-m-woods",
@@ -2109,7 +2493,9 @@
       "source_file": "[MD]Survival_Guide_The_Book_All_Survivalist_and_Preppers_Need_Fredrick_M_Woods_Z_Library.md",
       "source_pdf": null,
       "chars": 98968,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": "Fredrick M Woods"
     },
     {
       "slug": "tank-dk-smithsonian-institution",
@@ -2119,7 +2505,9 @@
       "source_file": "[MD]Tank_DK_Smithsonian_Institution_Z_Library.md",
       "source_pdf": null,
       "chars": 471006,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "task-a-normal-takeoff-and-climb",
@@ -2129,7 +2517,9 @@
       "source_file": "[MD]task_a_normal_takeoff_and_climb.md",
       "source_pdf": null,
       "chars": 14468,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "teach-yourself-physics-a-travel-companion-schwichtenberg-jakob",
@@ -2139,7 +2529,9 @@
       "source_file": "[MD]Teach_Yourself_Physics_a_travel_companion_Schwichtenberg_Jakob_Z_Library.md",
       "source_pdf": null,
       "chars": 243055,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "theory-and-computation-of-electromagnetic-fields-jin-jian-ming",
@@ -2149,7 +2541,9 @@
       "source_file": "[MD]Theory_and_computation_of_electromagnetic_fields_Jin_Jian_Ming_Z_Library.md",
       "source_pdf": null,
       "chars": 282109,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "theory-and-experiment-in-gravitational-physics-clifford-m-will",
@@ -2159,7 +2553,9 @@
       "source_file": "[MD]Theory_and_Experiment_in_Gravitational_Physics_Clifford_M_Will_Z_Library.md",
       "source_pdf": null,
       "chars": 270144,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Clifford M Will"
     },
     {
       "slug": "theory-of-fun-for-game-design-raph-koster",
@@ -2169,7 +2565,9 @@
       "source_file": "[MD]Theory_of_Fun_for_Game_Design_Raph_Koster_Z_Library.md",
       "source_pdf": null,
       "chars": 293097,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "thermodynamics-and-an-introduction-to-thermostatistics-herbert-b-callen",
@@ -2179,7 +2577,9 @@
       "source_file": "[MD]Thermodynamics_and_an_Introduction_to_Thermostatistics_Herbert_B_Callen_Z_Library.md",
       "source_pdf": null,
       "chars": 259240,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Herbert B Callen"
     },
     {
       "slug": "the-art-of-linear-algebra-zh-cn",
@@ -2189,7 +2589,9 @@
       "source_file": "[MD]The_Art_of_Linear_Algebra_zh_CN.md",
       "source_pdf": "The-Art-of-Linear-Algebra-zh-CN.pdf",
       "chars": 6462,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "the-astronomy-book-dk",
@@ -2199,7 +2601,9 @@
       "source_file": "[MD]The_Astronomy_Book_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 792811,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "the-britannica-guide-to-modern-china-britannica-guide-to-ebook-britannica",
@@ -2209,7 +2613,9 @@
       "source_file": "[MD]The_Britannica_Guide_to_Modern_China_Britannica_Guide_To_eBook_Britannica_Z_Library.md",
       "source_pdf": null,
       "chars": 2218377,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-britannica-guide-to-the-brain-steven-rose",
@@ -2219,7 +2625,9 @@
       "source_file": "[MD]The_Britannica_Guide_to_the_Brain_Steven_Rose_Z_Library.md",
       "source_pdf": null,
       "chars": 2593702,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-britannica-guide-to-the-ideas-that-made-the-modern-world-encyclopedia-britan",
@@ -2229,7 +2637,9 @@
       "source_file": "[MD]The_Britannica_Guide_to_the_Ideas_that_Made_the_Modern_World_Encyclopedia_Britannica_Z_Library.md",
       "source_pdf": "The Britannica Guide to the Ideas that Made the Modern World (Encyclopedia Britannica) (Z-Library).pdf",
       "chars": 2165523,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-calculus-lifesaver-all-the-tools-you-need-to-excel-at-calculus-adrian-banner",
@@ -2239,7 +2649,9 @@
       "source_file": "[MD]The_Calculus_Lifesaver_All_the_Tools_You_Need_to_Excel_at_Calculus_Adrian_Banner_Z_Library.md",
       "source_pdf": "The Calculus Lifesaver All the Tools You Need to Excel at Calculus (Adrian Banner) (Z-Library).pdf",
       "chars": 1382153,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "the-chinese-century-the-rising-chinese-economy-and-its-impact-on-the-global-econ",
@@ -2249,7 +2661,9 @@
       "source_file": "[MD]The_Chinese_Century_The_Rising_Chinese_Economy_and_Its_Impact_on_the_Global_Economy_the_Balance_of_Power_and_Your_Job_Oded_Shenkar_Z_Library.md",
       "source_pdf": "The Chinese Century The Rising Chinese Economy and Its Impact on the Global Economy, the Balance of Power, and Your Job (Oded Shenkar) (Z-Library).pdf",
       "chars": 397922,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-cooks-herb-garden-jeff-cox-marie-pierre-moine",
@@ -2259,7 +2673,9 @@
       "source_file": "[MD]The_Cooks_Herb_Garden_Jeff_Cox_Marie_Pierre_Moine_Z_Library.md",
       "source_pdf": null,
       "chars": 201361,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "the-design-thinking-playbook-mindful-digital-transformation-of-teams-products-se",
@@ -2269,7 +2685,9 @@
       "source_file": "[MD]The_Design_Thinking_Playbook_Mindful_Digital_Transformation_of_Teams_Products_Services_Businesses_and_Ecosystems_Michael_Lewrick_Z_Library.md",
       "source_pdf": "The Design Thinking Playbook Mindful Digital Transformation of Teams, Products, Services, Businesses and Ecosystems (Michael Lewrick) (Z-Library).pdf",
       "chars": 514344,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "the-encyclopedia-of-birds-laurie-e-likoff",
@@ -2279,7 +2697,9 @@
       "source_file": "[MD]The_Encyclopedia_of_Birds_Laurie_E_Likoff_Z_Library.md",
       "source_pdf": null,
       "chars": 2016377,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": "Laurie E Likoff"
     },
     {
       "slug": "the-field-description-of-igneous-rocks-dougal-jerram-nick-petford",
@@ -2289,7 +2709,9 @@
       "source_file": "[MD]The_Field_Description_of_Igneous_Rocks_Dougal_Jerram_Nick_Petford_Z_Library.md",
       "source_pdf": null,
       "chars": 354547,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-graphic-design-reference-specification-book-everything-graphic-designers-nee",
@@ -2299,7 +2721,9 @@
       "source_file": "[MD]The_Graphic_Design_Reference_Specification_Book_Everything_Graphic_Designers_Need_to_Know_Every_Day_Aaris_Sherin_Irina_Lee_Poppy_Evans_Z_Library.md",
       "source_pdf": "The Graphic Design Reference  Specification Book Everything Graphic Designers Need to Know Every Day (Aaris Sherin, Irina Lee, Poppy Evans) (Z-Library).pdf",
       "chars": 177103,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "the-joy-of-game-theory-an-introduction-to-strategic-thinking-presh-talwalkar",
@@ -2309,7 +2733,9 @@
       "source_file": "[MD]The_Joy_of_Game_Theory_An_Introduction_to_Strategic_Thinking_Presh_Talwalkar_Z_Library.md",
       "source_pdf": null,
       "chars": 229220,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "the-lazy-universe-an-introduction-to-the-principle-of-least-action-jennifer-coop",
@@ -2319,7 +2745,9 @@
       "source_file": "[MD]The_Lazy_Universe_An_Introduction_to_the_Principle_of_Least_Action_Jennifer_Coopersmith_Z_Library.md",
       "source_pdf": "The Lazy Universe. An Introduction to the Principle of Least Action (Jennifer Coopersmith) (Z-Library).pdf",
       "chars": 297808,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-math-book-dk",
@@ -2329,7 +2757,9 @@
       "source_file": "[MD]The_Math_Book_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 749899,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "the-planets-the-definive-visual-guide-to-our-solar-system-dk-smithsonian-dk-coll",
@@ -2339,7 +2769,9 @@
       "source_file": "[MD]The_Planets_The_Definive_Visual_Guide_to_our_Solar_System_DK_SMITHSONIAN_DK_collective_Z_Library.md",
       "source_pdf": null,
       "chars": 490060,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-plant-observers-guidebook-a-field-botany-manual-for-the-amateur-naturalist-c",
@@ -2349,7 +2781,9 @@
       "source_file": "[MD]The_Plant_Observers_Guidebook_A_Field_Botany_Manual_for_the_Amateur_Naturalist_Charles_Edmund_Roth_Z_Library.md",
       "source_pdf": "The Plant Observers Guidebook A Field Botany Manual for the Amateur Naturalist (Charles Edmund Roth) (Z-Library).pdf",
       "chars": 289665,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "the-pleasure-of-finding-things-out-the-best-short-works-of-richard-p-feynman-rob",
@@ -2359,7 +2793,9 @@
       "source_file": "[MD]The_pleasure_of_finding_things_out_the_best_short_works_of_Richard_P_Feynman_Robbins_Jeffrey_Feynman_Richard_Phillips_Z_Library.md",
       "source_pdf": null,
       "chars": 446915,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "the-practical-naturalist-dk-steve-backshall-chris-packham-etc",
@@ -2369,7 +2805,9 @@
       "source_file": "[MD]The_Practical_Naturalist_DK_Steve_Backshall_Chris_Packham_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 413413,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "the-principia-mathematical-principles-of-natural-philosophy-isaac-newton-i-berna",
@@ -2379,7 +2817,9 @@
       "source_file": "[MD]The_Principia_Mathematical_Principles_of_Natural_Philosophy_Isaac_Newton_I_Bernard_Cohen_Anne_Whitman_etc_Z_Library.md",
       "source_pdf": "The Principia Mathematical Principles of Natural Philosophy (Isaac Newton, I. Bernard Cohen, Anne Whitman etc.) (Z-Library).pdf",
       "chars": 2329042,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "the-science-of-animals-inside-their-secret-world-d-k-publishing-smithsonian-inst",
@@ -2389,7 +2829,9 @@
       "source_file": "[MD]The_Science_of_Animals_Inside_their_Secret_World_D_K_Publishing_Smithsonian_Institution_Z_Library.md",
       "source_pdf": "The Science of Animals Inside their Secret World (D.K. Publishing Smithsonian Institution) (Z-Library).pdf",
       "chars": 426374,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "the-stars-the-definitive-visual-guide-to-the-cosmos-dk",
@@ -2399,7 +2841,9 @@
       "source_file": "[MD]The_Stars_The_Definitive_Visual_Guide_to_the_Cosmos_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 578348,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "the-theoretical-minimum-what-you-need-to-know-to-start-doing-physics-leonard-sus",
@@ -2409,7 +2853,9 @@
       "source_file": "[MD]The_Theoretical_Minimum_What_You_Need_to_Know_to_Start_Doing_Physics_Leonard_Susskind_and_George_Hrabovsky_Z_Library.md",
       "source_pdf": "The Theoretical Minimum What You Need to Know to Start Doing Physics (Leonard Susskind and George Hrabovsky) (Z-Library).pdf",
       "chars": 303066,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "the-third-revolution-xi-jinping-and-the-new-chinese-state-elizabeth-economy",
@@ -2419,7 +2865,9 @@
       "source_file": "[MD]The_Third_Revolution_XI_Jinping_and_the_New_Chinese_State_Elizabeth_Economy_Z_Library.md",
       "source_pdf": null,
       "chars": 98460,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "the-worlds-i-see-curiosity-exploration-and-discovery-at-the-dawn-of-ai-fei-fei-l",
@@ -2429,7 +2877,9 @@
       "source_file": "[MD]The_Worlds_I_See_Curiosity_Exploration_and_Discovery_at_the_Dawn_of_AI_Fei_Fei_Li.md",
       "source_pdf": "The Worlds I See Curiosity, Exploration, and Discovery at the Dawn of AI (Fei-Fei Li) .pdf",
       "chars": 592520,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "this-is-service-design-doing-applying-service-design-thinking-in-the-real-world",
@@ -2439,7 +2889,9 @@
       "source_file": "[MD]This_Is_Service_Design_Doing_Applying_Service_Design_Thinking_in_the_Real_World_Stickdorn_Marc_Hormess_Markus_Edgar_etc_Z_Library.md",
       "source_pdf": "This Is Service Design Doing Applying Service Design Thinking in the Real World (Stickdorn, Marc, Hormess, Markus Edgar etc.) (Z-Library).pdf",
       "chars": 1160946,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "thomas-calculus-early-transcendentals-si-units-hass-joelheil-christopherweir-etc",
@@ -2449,7 +2901,9 @@
       "source_file": "[MD]Thomas_Calculus_Early_Transcendentals_SI_Units_Hass_JoelHeil_ChristopherWeir_etc_Z_Library.md",
       "source_pdf": "Thomas Calculus Early Transcendentals, SI Units (Hass, JoelHeil, ChristopherWeir etc.) (Z-Library).pdf",
       "chars": 3565985,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "timelines-of-history-the-ultimate-visual-guide-to-the-events-that-shaped-the-wor",
@@ -2459,7 +2913,9 @@
       "source_file": "[MD]Timelines_of_History_The_Ultimate_Visual_Guide_To_The_Events_That_Shaped_The_World_DK_Smithsonian_Z_Library.md",
       "source_pdf": "Timelines of History The Ultimate Visual Guide To The Events That Shaped The World (DK, Smithsonian) (Z-Library).pdf",
       "chars": 2573516,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "timelines-of-science-dk-smithsonian",
@@ -2469,7 +2925,9 @@
       "source_file": "[MD]Timelines_of_Science_DK_Smithsonian_Z_Library.md",
       "source_pdf": null,
       "chars": 1719787,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "transforming-an-idea-into-a-business-with-design-thinking-the-structured-approac",
@@ -2479,7 +2937,9 @@
       "source_file": "[MD]Transforming_an_Idea_Into_a_Business_with_Design_Thinking_The_Structured_Approach_from_Silicon_Valley_for_Entrepreneurs_and_Muhammad_Mashhood_Alam_Z_Library.md",
       "source_pdf": "Transforming an Idea Into a Business with Design Thinking The Structured Approach from Silicon Valley for Entrepreneurs and... (Muhammad Mashhood Alam) (Z-Library).pdf",
       "chars": 186484,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "true-genius-the-life-and-science-of-john-bardeen-hoddeson-l-daitch-v",
@@ -2489,7 +2949,9 @@
       "source_file": "[MD]True_genius_The_life_and_science_of_John_Bardeen_Hoddeson_L_Daitch_V_Z_Library.md",
       "source_pdf": null,
       "chars": 984332,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "医学",
+      "author": ""
     },
     {
       "slug": "universe-the-definitive-visual-guide-new-edition-martin-rees",
@@ -2499,7 +2961,9 @@
       "source_file": "[MD]Universe_The_Definitive_Visual_Guide_New_Edition_Martin_Rees_Z_Library.md",
       "source_pdf": null,
       "chars": 1777657,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "vectors-tensors-and-the-basic-equations-of-fluid-mechanics-aris-rutherford",
@@ -2509,7 +2973,9 @@
       "source_file": "[MD]Vectors_Tensors_and_the_Basic_Equations_of_Fluid_Mechanics_Aris_Rutherford_Z_Library.md",
       "source_pdf": null,
       "chars": 258107,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "weapon-a-visual-history-of-arms-and-armor-roger-ford-r-g-grant-a-gilbert-etc",
@@ -2519,7 +2985,9 @@
       "source_file": "[MD]Weapon_A_Visual_History_of_Arms_and_Armor_Roger_Ford_R_G_Grant_A_Gilbert_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 723910,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "whats-that-rock-or-mineral-dk-tom-jackson",
@@ -2529,7 +2997,9 @@
       "source_file": "[MD]Whats_That_Rock_or_Mineral_DK_Tom_Jackson_Z_Library.md",
       "source_pdf": null,
       "chars": 89434,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "what-s-the-point-of-math-dk",
@@ -2539,7 +3009,9 @@
       "source_file": "[MD]What_s_the_Point_of_Math_DK_Z_Library.md",
       "source_pdf": null,
       "chars": 157761,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "x射线自由电子激光12313",
@@ -2549,7 +3021,9 @@
       "source_file": "[MD]X射线自由电子激光12313.md",
       "source_pdf": "X射线自由电子激光12313.pdf",
       "chars": 7134,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "x射线自由电子激光wl20180801",
@@ -2559,7 +3033,9 @@
       "source_file": "[MD]X射线自由电子激光wl20180801.md",
       "source_pdf": "X射线自由电子激光wl20180801.pdf",
       "chars": 12771,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "一本不正经的科学-新版-法-皮埃尔-巴泰勒米-魏舒-译",
@@ -2569,7 +3045,9 @@
       "source_file": "[MD]一本不正经的科学_新版_法_皮埃尔_巴泰勒米_魏舒_译_Z_Library.md",
       "source_pdf": null,
       "chars": 34325,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "一本不正经的科学-新版-玛丽昂-蒙田等等-皮埃尔-巴泰勒米",
@@ -2579,7 +3057,9 @@
       "source_file": "[MD]一本不正经的科学_新版_玛丽昂_蒙田等等_皮埃尔_巴泰勒米_Z_Library.md",
       "source_pdf": null,
       "chars": 29500,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "丈量世界-时间-空间与数学-万物皆数学-西-约兰达-格瓦拉-西-卡尔斯-普伊格",
@@ -2589,7 +3069,9 @@
       "source_file": "[MD]丈量世界_时间_空间与数学_万物皆数学_西_约兰达_格瓦拉_西_卡尔斯_普伊格_Z_Library.md",
       "source_pdf": null,
       "chars": 52257,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "中国农民调查报告-陈桂棣-牌太多了-墨盟-诸勃黄昏",
@@ -2599,7 +3081,9 @@
       "source_file": "[MD]中国农民调查报告_陈桂棣_牌太多了_墨盟_诸勃黄昏_Z_Library.md",
       "source_pdf": null,
       "chars": 108709,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "中国史纲要-翦伯赞",
@@ -2609,7 +3093,9 @@
       "source_file": "[MD]中国史纲要_翦伯赞_Z_Library.md",
       "source_pdf": null,
       "chars": 406587,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "中国村落史-胡彬彬",
@@ -2619,7 +3105,9 @@
       "source_file": "[MD]中国村落史_胡彬彬_Z_Library.md",
       "source_pdf": null,
       "chars": 716436,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "中国雁鸭观察手册-鸟类图鉴绘画学习小组",
@@ -2629,7 +3117,9 @@
       "source_file": "[MD]中国雁鸭观察手册_鸟类图鉴绘画学习小组_Z_Library.md",
       "source_pdf": null,
       "chars": 2408,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "中国鱼类图鉴-中国之美自然生态图鉴-李林春",
@@ -2639,7 +3129,9 @@
       "source_file": "[MD]中国鱼类图鉴_中国之美自然生态图鉴_李林春_Z_Library.md",
       "source_pdf": null,
       "chars": 163500,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "中國古代建築美學與文化-都城-宮殿-祭壇-陵墓-古塔-以歷史的語言形態講述-雖過去-卻實在-的物-事與人情-王世瑛",
@@ -2649,7 +3141,9 @@
       "source_file": "[MD]中國古代建築美學與文化_都城_宮殿_祭壇_陵墓_古塔_以歷史的語言形態講述_雖過去_卻實在_的物_事與人情_王世瑛_Z_Library.md",
       "source_pdf": null,
       "chars": 81596,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "工程",
+      "author": ""
     },
     {
       "slug": "乡土中国",
@@ -2659,7 +3153,9 @@
       "source_file": "[MD]乡土中国.md",
       "source_pdf": "乡土中国.pdf",
       "chars": 41657,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "乡土中国-修订本",
@@ -2669,7 +3165,9 @@
       "source_file": "[MD]乡土中国_修订本.md",
       "source_pdf": "乡土中国（修订本）.pdf",
       "chars": 158812,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "乡土漫谈-陈志华",
@@ -2679,7 +3177,9 @@
       "source_file": "[MD]乡土漫谈_陈志华_Z_Library.md",
       "source_pdf": null,
       "chars": 76284,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "了不起的物理-拒绝乏味-和物理交个朋友-科普作家-超人气视频博主严伯钧全新力作-一本从任何一页翻开都能读下去的科普书-严伯钧",
@@ -2689,7 +3189,9 @@
       "source_file": "[MD]了不起的物理_拒绝乏味_和物理交个朋友_科普作家_超人气视频博主严伯钧全新力作_一本从任何一页翻开都能读下去的科普书_严伯钧_Z_Library.md",
       "source_pdf": null,
       "chars": 70975,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "人工智能基础高中版-汤晓鸥-陈玉琨",
@@ -2699,7 +3201,9 @@
       "source_file": "[MD]人工智能基础高中版_汤晓鸥_陈玉琨_Z_Library.md",
       "source_pdf": null,
       "chars": 117192,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "从量子电动力学的创立历史看物理学思维wl20230308",
@@ -2709,7 +3213,9 @@
       "source_file": "[MD]从量子电动力学的创立历史看物理学思维wl20230308.md",
       "source_pdf": "从量子电动力学的创立历史看物理学思维wl20230308.pdf",
       "chars": 16436,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "写给高中生的天文-竞赛-指南-full",
@@ -2719,7 +3225,9 @@
       "source_file": "[MD]写给高中生的天文_竞赛_指南_Full.md",
       "source_pdf": "写给高中生的天文（竞赛）指南 Full.pdf",
       "chars": 70510,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "剑桥中华人民共和国史-the-cambridge-history-of-china-the-peoples-republic-美-麦克法夸尔-roderick",
@@ -2729,7 +3237,9 @@
       "source_file": "[MD]剑桥中华人民共和国史_The_Cambridge_History_of_China_The_Peoples_Republic_美_麦克法夸尔_Roderick_MacFarquhar_著_谢亮生_等译_Z_Library.md",
       "source_pdf": null,
       "chars": 46017,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "动销四维-全程辅导与新品上市-博瑞森brace管理丛书-快消品动销系列-高继中",
@@ -2739,7 +3249,9 @@
       "source_file": "[MD]动销四维_全程辅导与新品上市_博瑞森BRACE管理丛书_快消品动销系列_高继中_Z_Library.md",
       "source_pdf": null,
       "chars": 117027,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "华北的小农经济-与社会变迁",
@@ -2749,7 +3261,9 @@
       "source_file": "[MD]华北的小农经济_与社会变迁.md",
       "source_pdf": null,
       "chars": 154810,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "单原子的双缝干涉实验75500",
@@ -2759,7 +3273,9 @@
       "source_file": "[MD]单原子的双缝干涉实验75500.md",
       "source_pdf": "单原子的双缝干涉实验75500.pdf",
       "chars": 1652,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "原子在我家中-atom-in-the-family-美-费米夫人-laura-fermi-著-何兆武-何芬奇译",
@@ -2769,7 +3285,9 @@
       "source_file": "[MD]原子在我家中_ATOM_IN_THE_FAMILY_美_费米夫人_Laura_Fermi_著_何兆武_何芬奇译_Z_Library.md",
       "source_pdf": null,
       "chars": 130053,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "变局下的快消品营销实战策略-博瑞森管理图书-杨永华",
@@ -2779,7 +3297,9 @@
       "source_file": "[MD]变局下的快消品营销实战策略_博瑞森管理图书_杨永华_Z_Library.md",
       "source_pdf": null,
       "chars": 110430,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "古建筑日读-王其钧",
@@ -2789,7 +3309,9 @@
       "source_file": "[MD]古建筑日读_王其钧_Z_Library.md",
       "source_pdf": null,
       "chars": 59139,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "国外建筑设计-绘画精品书架-徒手绘画及速写",
@@ -2798,8 +3320,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]国外建筑设计·绘画精品书架 徒手绘画及速写 () (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 29540,
-      "has_fixed": true
+      "chars": 23214,
+      "has_fixed": true,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "奇妙数学史-数字与生活-tom-jackson",
@@ -2809,7 +3333,9 @@
       "source_file": "[MD]奇妙数学史_数字与生活_Tom_Jackson_Z_Library.md",
       "source_pdf": null,
       "chars": 58429,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "奇迹的黄昏-袁剑",
@@ -2819,7 +3345,9 @@
       "source_file": "[MD]奇迹的黄昏_袁剑_Z_Library.md",
       "source_pdf": null,
       "chars": 3194,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "寻路中国-从乡村到工厂的自驾之旅-美-彼得-海斯勒",
@@ -2829,7 +3357,9 @@
       "source_file": "[MD]寻路中国_从乡村到工厂的自驾之旅_美_彼得_海斯勒_Z_Library.md",
       "source_pdf": null,
       "chars": 231145,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "小镇喧嚣-一个乡镇政治运作的演绎与阐释-吴毅",
@@ -2839,7 +3369,9 @@
       "source_file": "[MD]小镇喧嚣_一个乡镇政治运作的演绎与阐释_吴毅_Z_Library.md",
       "source_pdf": null,
       "chars": 304013,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "小镇喧嚣一个乡镇政治运作的演绎与阐释-吴毅",
@@ -2849,7 +3381,9 @@
       "source_file": "[MD]小镇喧嚣一个乡镇政治运作的演绎与阐释_吴毅_Z_Library.md",
       "source_pdf": null,
       "chars": 151629,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "山西古建筑通览-李玉明",
@@ -2859,7 +3393,9 @@
       "source_file": "[MD]山西古建筑通览_李玉明_Z_Library.md",
       "source_pdf": null,
       "chars": 164100,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "山西洪洞广胜寺水神庙壁画-金维诺",
@@ -2868,8 +3404,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]山西洪洞广胜寺水神庙壁画 (金维诺) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 1814,
-      "has_fixed": true
+      "chars": 1399,
+      "has_fixed": true,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "山西浑源永安寺壁画-金维诺",
@@ -2878,8 +3416,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]山西浑源永安寺壁画 (金维诺) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 4188,
-      "has_fixed": true
+      "chars": 2106,
+      "has_fixed": true,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "岩下老街-中国乡土建筑丛书-赵巍",
@@ -2889,7 +3429,9 @@
       "source_file": "[MD]岩下老街_中国乡土建筑丛书_赵巍_Z_Library.md",
       "source_pdf": null,
       "chars": 123240,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "往事并不如烟-章诒和",
@@ -2899,7 +3441,9 @@
       "source_file": "[MD]往事并不如烟_章诒和_Z_Library.md",
       "source_pdf": null,
       "chars": 165776,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "得乎檐角梁柱间-寻访晋南乡野古建-一本有故事的古建手绘图解-连达",
@@ -2909,7 +3453,9 @@
       "source_file": "[MD]得乎檐角梁柱间_寻访晋南乡野古建_一本有故事的古建手绘图解_连达_Z_Library.md",
       "source_pdf": null,
       "chars": 138954,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "得乎檐角梁柱间-寻访晋南乡野古建-连达",
@@ -2919,7 +3465,9 @@
       "source_file": "[MD]得乎檐角梁柱间_寻访晋南乡野古建_连达_Z_Library.md",
       "source_pdf": null,
       "chars": 137624,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "快消品营销与渠道管理-谭长春",
@@ -2929,7 +3477,9 @@
       "source_file": "[MD]快消品营销与渠道管理_谭长春_Z_Library.md",
       "source_pdf": null,
       "chars": 80569,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "快消老手都在这样做区域经理操盘锦囊-博瑞森管理丛书-方刚",
@@ -2939,7 +3489,9 @@
       "source_file": "[MD]快消老手都在这样做区域经理操盘锦囊_博瑞森管理丛书_方刚_Z_Library.md",
       "source_pdf": null,
       "chars": 51975,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "感官的盛宴-万物皆数学",
@@ -2949,7 +3501,9 @@
       "source_file": "[MD]感官的盛宴_万物皆数学_Z_Library.md",
       "source_pdf": null,
       "chars": 52237,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "我看见的世界-美-李飞飞",
@@ -2959,7 +3513,9 @@
       "source_file": "[MD]我看见的世界_美_李飞飞_Z_Library.md",
       "source_pdf": null,
       "chars": 183066,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "提取自glencoe---physics---principles-and-problems-textbook-mcgraw-2005",
@@ -2968,8 +3524,10 @@
       "pipeline": "ocr_md",
       "source_file": "提取自Glencoe - Physics - Principles and Problems [textbook] (McGraw, 2005).md",
       "source_pdf": "提取自Glencoe - Physics - Principles and Problems [textbook] (McGraw, 2005).pdf",
-      "chars": 5454,
-      "has_fixed": false
+      "chars": 5342,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "新概念物理教程-量子物理-量子物理-赵凯华-罗蔚茵",
@@ -2979,7 +3537,9 @@
       "source_file": "[MD]新概念物理教程_量子物理_量子物理_赵凯华_罗蔚茵_Z_Library.md",
       "source_pdf": null,
       "chars": 441350,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "旧史舆地文录-辛德勇",
@@ -2989,7 +3549,9 @@
       "source_file": "[MD]旧史舆地文录_辛德勇_Z_Library.md",
       "source_pdf": null,
       "chars": 178778,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "时与光-一场从古典力学到量子力学的思维盛宴-原点阅读-棽棽",
@@ -2999,7 +3561,9 @@
       "source_file": "[MD]时与光_一场从古典力学到量子力学的思维盛宴_原点阅读_棽棽_Z_Library.md",
       "source_pdf": null,
       "chars": 170883,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "晋中清源城-中国乡土建筑丛书-罗德胤-黄靖",
@@ -3009,7 +3573,9 @@
       "source_file": "[MD]晋中清源城_中国乡土建筑丛书_罗德胤_黄靖_Z_Library.md",
       "source_pdf": null,
       "chars": 141557,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "普林斯顿微积分读本",
@@ -3019,7 +3585,9 @@
       "source_file": "[MD]普林斯顿微积分读本.md",
       "source_pdf": null,
       "chars": 167454,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "普林斯顿微积分读本-修订版-阿德里安-班纳-adrian-banner",
@@ -3029,7 +3597,9 @@
       "source_file": "[MD]普林斯顿微积分读本_修订版_阿德里安_班纳_Adrian_Banner_Z_Library.md",
       "source_pdf": null,
       "chars": 167490,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "普林斯顿概率论读本-史蒂文-j-米勒-steven-j-miller",
@@ -3039,7 +3609,9 @@
       "source_file": "[MD]普林斯顿概率论读本_史蒂文_J_米勒_Steven_J_Miller_Z_Library.md",
       "source_pdf": null,
       "chars": 832448,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": "Steven J Miller"
     },
     {
       "slug": "曼昆-经济学原理-英文彩页版",
@@ -3049,7 +3621,9 @@
       "source_file": "[MD]曼昆_经济学原理_英文彩页版.md",
       "source_pdf": "曼昆《经济学原理》英文彩页版.pdf",
       "chars": 232994,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "有趣得让人睡不着的地理-日-左卷健男-郝彤彤-epubw-com",
@@ -3059,7 +3633,9 @@
       "source_file": "[MD]有趣得让人睡不着的地理_日_左卷健男_郝彤彤_ePUBw_COM_Z_Library.md",
       "source_pdf": null,
       "chars": 28909,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "机器学习数学基础",
@@ -3069,7 +3645,9 @@
       "source_file": "[MD]机器学习数学基础.md",
       "source_pdf": "机器学习数学基础.pdf",
       "chars": 844114,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "梁庄十年-从失去声音的农村女性到返乡的打工者-展现急速变化时代下中国村庄的变迁-理想国出品-梁鸿-梁鸿",
@@ -3079,7 +3657,9 @@
       "source_file": "[MD]梁庄十年_从失去声音的农村女性到返乡的打工者_展现急速变化时代下中国村庄的变迁_理想国出品_梁鸿_梁鸿_Z_Library.md",
       "source_pdf": null,
       "chars": 77662,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "梁思成-图像中国建筑史-手绘图-梁思成",
@@ -3089,7 +3669,9 @@
       "source_file": "[MD]梁思成_图像中国建筑史_手绘图_梁思成_Z_Library.md",
       "source_pdf": null,
       "chars": 15553,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "楠溪江中游-陈志华",
@@ -3099,7 +3681,9 @@
       "source_file": "[MD]楠溪江中游_陈志华_Z_Library.md",
       "source_pdf": null,
       "chars": 22595,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "洛阳在最后的时光里-唐克扬",
@@ -3109,7 +3693,9 @@
       "source_file": "[MD]洛阳在最后的时光里_唐克扬_Z_Library.md",
       "source_pdf": null,
       "chars": 80233,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "温州乡土建筑-丁俊清-肖健雄著-ding-junqing-xiao-jianxiong-丁俊清-etc",
@@ -3118,8 +3704,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]温州乡土建筑 (丁俊清，肖健雄著, Ding, Junqing, Xiao, Jianxiong, 丁俊清 etc.) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 18426,
-      "has_fixed": true
+      "chars": 14779,
+      "has_fixed": true,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "火星探测器减速article",
@@ -3129,7 +3717,9 @@
       "source_file": "[MD]火星探测器减速article.md",
       "source_pdf": "火星探测器减速article.pdf",
       "chars": 45340,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "热力学与统计物理学-林宗涵",
@@ -3139,7 +3729,9 @@
       "source_file": "[MD]热力学与统计物理学_林宗涵_Z_Library.md",
       "source_pdf": null,
       "chars": 174540,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "热力学与统计物理导论-herbert-b-callen",
@@ -3149,7 +3741,9 @@
       "source_file": "[MD]热力学与统计物理导论_Herbert_B_Callen_Z_Library.md",
       "source_pdf": null,
       "chars": 184085,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": "Herbert B Callen"
     },
     {
       "slug": "爆品运营-如何打造一款成功的产品-郭瑞强",
@@ -3159,7 +3753,9 @@
       "source_file": "[MD]爆品运营_如何打造一款成功的产品_郭瑞强_Z_Library.md",
       "source_pdf": null,
       "chars": 100001,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "现代物理知识-中子星内部结构-12606",
@@ -3169,7 +3765,9 @@
       "source_file": "[MD]现代物理知识_中子星内部结构_12606.md",
       "source_pdf": "现代物理知识 中子星内部结构 12606.pdf",
       "chars": 6291,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "理论最小值-经典力学-etc",
@@ -3179,7 +3777,9 @@
       "source_file": "[MD]理论最小值_经典力学_etc_Z_Library.md",
       "source_pdf": null,
       "chars": 81034,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "甘肃传统村落-刘奔腾",
@@ -3189,7 +3789,9 @@
       "source_file": "[MD]甘肃传统村落_刘奔腾_Z_Library.md",
       "source_pdf": null,
       "chars": 157405,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "电动力学cha01",
@@ -3199,7 +3801,9 @@
       "source_file": "[MD]电动力学cha01.md",
       "source_pdf": "电动力学cha01.pdf",
       "chars": 8339,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "矩阵力量-生姜drginger",
@@ -3209,7 +3813,9 @@
       "source_file": "[MD]矩阵力量_生姜DrGinger_Z_Library.md",
       "source_pdf": null,
       "chars": 534726,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": "DrGinger"
     },
     {
       "slug": "祖先历史的变奏-大理洱海地区一个村落的身份操演-赵玉中",
@@ -3219,7 +3825,9 @@
       "source_file": "[MD]祖先历史的变奏_大理洱海地区一个村落的身份操演_赵玉中_Z_Library.md",
       "source_pdf": null,
       "chars": 121317,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "神奇的核技术",
@@ -3229,7 +3837,9 @@
       "source_file": "[MD]神奇的核技术.md",
       "source_pdf": "神奇的核技术.pdf",
       "chars": 20747,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "笔尖下的黑白世界-钢笔画表现技法从入门到精通-白鹿猿",
@@ -3239,7 +3849,9 @@
       "source_file": "[MD]笔尖下的黑白世界_钢笔画表现技法从入门到精通_白鹿猿_Z_Library.md",
       "source_pdf": null,
       "chars": 74809,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "线性代数的几何意义-图解线性代数-任广千-胡翠芳",
@@ -3249,7 +3861,9 @@
       "source_file": "[MD]线性代数的几何意义_图解线性代数_任广千_胡翠芳_Z_Library.md",
       "source_pdf": null,
       "chars": 91552,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "给孩子讲宇宙-马云-徐小平-罗振宇的-私享课-老师-刘慈欣-吴国盛诚挚推荐-在科学面前-我们都是孩子-李淼-王爽",
@@ -3259,7 +3873,9 @@
       "source_file": "[MD]给孩子讲宇宙_马云_徐小平_罗振宇的_私享课_老师_刘慈欣_吴国盛诚挚推荐_在科学面前_我们都是孩子_李淼_王爽_Z_Library.md",
       "source_pdf": null,
       "chars": 36839,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "给孩子讲量子力学-李淼-1",
@@ -3268,8 +3884,10 @@
       "pipeline": "ocr_md",
       "source_file": "给孩子讲量子力学 (李淼) (Z-Library) (1).md",
       "source_pdf": null,
-      "chars": 35490,
-      "has_fixed": false
+      "chars": 30657,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "英文版-曼昆宏观经济学第六版",
@@ -3279,7 +3897,9 @@
       "source_file": "[MD]英文版_曼昆宏观经济学第六版.md",
       "source_pdf": "（英文版）曼昆宏观经济学第六版.pdf",
       "chars": 242942,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "访古寻城-唐克扬-唐克扬",
@@ -3289,7 +3909,9 @@
       "source_file": "[MD]访古寻城_唐克扬_唐克扬_Z_Library.md",
       "source_pdf": null,
       "chars": 61304,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "货币金融学-orzbook-com",
@@ -3299,7 +3921,9 @@
       "source_file": "[MD]货币金融学_orzbook_com.md",
       "source_pdf": null,
       "chars": 218553,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "费曼的彩虹-feynmans-rainbow-a-search-for-beauty-in-physics-and-in-life-美-里昂纳德-曼罗迪诺著-陈",
@@ -3309,7 +3933,9 @@
       "source_file": "[MD]费曼的彩虹_Feynmans_Rainbow_A_Search_for_Beauty_in_Physics_and_in_Life_美_里昂纳德_曼罗迪诺著_陈雅云译_Z_Library.md",
       "source_pdf": "费曼的彩虹 Feynmans Rainbow： A Search for Beauty in Physics and in Life ((美)里昂纳德·曼罗迪诺著 陈雅云译) (Z-Library).pdf",
       "chars": 54743,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "跟行业老手学经销商开发与管理-博瑞森brace管理丛书-黄润森作品系列-销售高手系列-黄润霖",
@@ -3319,7 +3945,9 @@
       "source_file": "[MD]跟行业老手学经销商开发与管理_博瑞森BRACE管理丛书_黄润森作品系列_销售高手系列_黄润霖_Z_Library.md",
       "source_pdf": null,
       "chars": 93955,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "远离的月球-刹车的地球-潮汐锁定yuanlideyueqiuchachedediqiuchaoxisuoding",
@@ -3329,7 +3957,9 @@
       "source_file": "[MD]远离的月球_刹车的地球_潮汐锁定yuanlideyueqiuchachedediqiuchaoxisuoding.md",
       "source_pdf": "远离的月球,刹车的地球— —潮汐锁定yuanlideyueqiuchachedediqiuchaoxisuoding.pdf",
       "chars": 3827,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "追忆逝水年华",
@@ -3339,7 +3969,9 @@
       "source_file": "[MD]追忆逝水年华.md",
       "source_pdf": null,
       "chars": 654913,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "通向实在之路-宇宙法则的完全指南-英-罗杰-彭罗斯-英-罗杰-彭罗斯",
@@ -3349,7 +3981,9 @@
       "source_file": "[MD]通向实在之路_宇宙法则的完全指南_英_罗杰_彭罗斯_英_罗杰_彭罗斯_Z_Library.md",
       "source_pdf": null,
       "chars": 933686,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "速写基础完全入门-绘素工作室",
@@ -3359,7 +3993,9 @@
       "source_file": "[MD]速写基础完全入门_绘素工作室_Z_Library.md",
       "source_pdf": null,
       "chars": 62487,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "重构-快消品企业重生之道-杨永华",
@@ -3369,7 +4005,9 @@
       "source_file": "[MD]重构_快消品企业重生之道_杨永华_Z_Library.md",
       "source_pdf": null,
       "chars": 63717,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "量子力学与路径积分-习题解答苏剑林",
@@ -3379,7 +4017,9 @@
       "source_file": "[MD]量子力学与路径积分_习题解答苏剑林1609667378.md",
       "source_pdf": null,
       "chars": 62883,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "陈从周说古建筑-上册-陈从周-乐峰",
@@ -3389,7 +4029,9 @@
       "source_file": "[MD]陈从周说古建筑_上册_陈从周_乐峰_Z_Library.md",
       "source_pdf": null,
       "chars": 110437,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "青天指南第九版",
@@ -3399,7 +4041,9 @@
       "source_file": "[MD]青天指南第九版.md",
       "source_pdf": "青天指南第九版.pdf",
       "chars": 219054,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "鸟瞰古文明-jean-claude-golvin",
@@ -3409,7 +4053,9 @@
       "source_file": "[MD]鸟瞰古文明_Jean_Claude_Golvin_Z_Library.md",
       "source_pdf": null,
       "chars": 140714,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "黄河边的中国-一个学者对乡村社会的观察与思考-曹锦清",
@@ -3419,7 +4065,9 @@
       "source_file": "[MD]黄河边的中国_一个学者对乡村社会的观察与思考_曹锦清_Z_Library.md",
       "source_pdf": null,
       "chars": 281963,
-      "has_fixed": false
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "great-science-experiments-neil-ardley",
@@ -3428,8 +4076,10 @@
       "pipeline": "ocr_md",
       "source_file": "101 Great Science Experiments (Neil Ardley) (Z-Library).md",
       "source_pdf": null,
-      "chars": 162172,
-      "has_fixed": false
+      "chars": 156018,
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "小时读懂快消品营销-中国快消品案例观察-陈海超",
@@ -3438,8 +4088,10 @@
       "pipeline": "ocr_md",
       "source_file": "5小时读懂快消品营销 中国快消品案例观察 (陈海超) (Z-Library).md",
       "source_pdf": null,
-      "chars": 113514,
-      "has_fixed": false
+      "chars": 94495,
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "a-guide-to-feynman-diagrams-in-the-many-body-problem-richard-d-mattuck",
@@ -3448,8 +4100,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]A Guide to Feynman Diagrams in the Many-Body Problem (Richard D. Mattuck) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 432229,
-      "has_fixed": true
+      "chars": 419632,
+      "has_fixed": true,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "a-pictorial-history-of-chinese-architecture-a-study-of-the-development-of-its-st",
@@ -3458,8 +4112,10 @@
       "pipeline": "ocr_md",
       "source_file": "A Pictorial History of Chinese Architecture A Study of the Development of Its Structural System and the Evolution of Its Types (Ssu-ch’eng Liang) (Z-Library).md",
       "source_pdf": null,
-      "chars": 298970,
-      "has_fixed": false
+      "chars": 284621,
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "american-survival-guide---fall-2015-usa-unknown",
@@ -3468,8 +4124,10 @@
       "pipeline": "ocr_md",
       "source_file": "American Survival Guide - Fall 2015 USA (Unknown) (Z-Library).md",
       "source_pdf": null,
-      "chars": 210633,
-      "has_fixed": false
+      "chars": 202670,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "an-illustrated-guide-to-relativity-2010-tatsu-takeuchi",
@@ -3478,8 +4136,10 @@
       "pipeline": "ocr_md",
       "source_file": "An Illustrated Guide to Relativity (2010) (Tatsu Takeuchi) (Z-Library).md",
       "source_pdf": null,
-      "chars": 197137,
-      "has_fixed": false
+      "chars": 193561,
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "ap-physics-c-mechanics-course-and-exam-description",
@@ -3488,8 +4148,10 @@
       "pipeline": "ocr_md",
       "source_file": "ap-physics-c-mechanics-course-and-exam-description.md",
       "source_pdf": "ap-physics-c-mechanics-course-and-exam-description.pdf",
-      "chars": 243908,
-      "has_fixed": false
+      "chars": 239571,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "barrons-ap-physics-2-kenneth-rideout",
@@ -3498,8 +4160,10 @@
       "pipeline": "ocr_md",
       "source_file": "Barrons AP Physics 2 (Kenneth Rideout) (Z-Library).md",
       "source_pdf": null,
-      "chars": 188320,
-      "has_fixed": false
+      "chars": 183873,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "barrons-ap-physics-c-premium-2025-robert-a-pelcovits-and-joshua-farkas",
@@ -3508,8 +4172,10 @@
       "pipeline": "ocr_md",
       "source_file": "Barrons AP Physics C Premium, 2025 (Robert A. Pelcovits and Joshua Farkas) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1040170,
-      "has_fixed": false
+      "chars": 956119,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "boo3-数学要素-生姜-drginger",
@@ -3518,8 +4184,10 @@
       "pipeline": "ocr_md",
       "source_file": "BOO3-数学要素 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 467038,
-      "has_fixed": false
+      "chars": 426537,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "book1-编程不难-生姜-drginger",
@@ -3528,8 +4196,10 @@
       "pipeline": "ocr_md",
       "source_file": "Book1-编程不难 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 575278,
-      "has_fixed": false
+      "chars": 529108,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "book2--可视之美-鸢尾花书-从加减乘除到机器学习-生姜-drginger",
@@ -3538,8 +4208,10 @@
       "pipeline": "ocr_md",
       "source_file": "BOOK2-《可视之美》  鸢尾花书：从加减乘除到机器学习 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 316198,
-      "has_fixed": false
+      "chars": 274293,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "book5-统计至简-生姜-drginger",
@@ -3548,8 +4220,10 @@
       "pipeline": "ocr_md",
       "source_file": "BOOK5-统计至简 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 523954,
-      "has_fixed": false
+      "chars": 478079,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "britannica-illustrated-science-library-volume-16---space-exploration-britannica",
@@ -3558,8 +4232,10 @@
       "pipeline": "ocr_md",
       "source_file": "Britannica Illustrated Science Library Volume 16 - Space Exploration (Britannica Illustrated Science Library) (Z-Library).md",
       "source_pdf": "Britannica Illustrated Science Library Volume 16 - Space Exploration (Britannica Illustrated Science Library) (Z-Library).pdf",
-      "chars": 137846,
-      "has_fixed": false
+      "chars": 135026,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "britannica-learning-library-volume-02---planet-earth-encyclopædia-britannica-inc",
@@ -3568,8 +4244,10 @@
       "pipeline": "ocr_md",
       "source_file": "Britannica Learning Library Volume 02 - Planet Earth (Encyclopædia Britannica, Inc.) (Z-Library).md",
       "source_pdf": "Britannica Learning Library Volume 02 - Planet Earth (Encyclopædia Britannica, Inc.) (Z-Library).pdf",
-      "chars": 50860,
-      "has_fixed": false
+      "chars": 50016,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "britannica-learning-library-volume-03---science-and-nature-encyclopdia-britannic",
@@ -3578,8 +4256,10 @@
       "pipeline": "ocr_md",
       "source_file": "Britannica Learning Library Volume 03 - Science and Nature (Encyclopdia Britannica, Inc.) (Z-Library).md",
       "source_pdf": "Britannica Learning Library Volume 03 - Science and Nature (Encyclopdia Britannica, Inc.) (Z-Library).pdf",
-      "chars": 53766,
-      "has_fixed": false
+      "chars": 52187,
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "britannica-learning-library-volume-04---technology-and-inventions-encyclopdia-br",
@@ -3588,8 +4268,10 @@
       "pipeline": "ocr_md",
       "source_file": "Britannica Learning Library Volume 04 - Technology and Inventions (Encyclopdia Britannica, Inc.) (Z-Library).md",
       "source_pdf": "Britannica Learning Library Volume 04 - Technology and Inventions (Encyclopdia Britannica, Inc.) (Z-Library).pdf",
-      "chars": 50348,
-      "has_fixed": false
+      "chars": 48801,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "calculus-volume-1-edwin-jed-herman-gilbert-strang",
@@ -3598,8 +4280,10 @@
       "pipeline": "ocr_md",
       "source_file": "Calculus Volume 1 (Edwin Jed Herman, Gilbert Strang) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1298326,
-      "has_fixed": false
+      "chars": 1233286,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "calculus-volume-2-gilbert-strang-edwin-jed-herman",
@@ -3608,8 +4292,10 @@
       "pipeline": "ocr_md",
       "source_file": "Calculus, Volume 2 (Gilbert Strang, Edwin “Jed” Herman) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1257068,
-      "has_fixed": false
+      "chars": 1181522,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "california-science-interactive-student-edition-grade-5-dr-jay-k-hackett",
@@ -3618,8 +4304,10 @@
       "pipeline": "ocr_md",
       "source_file": "California Science, Interactive Student Edition, Grade 5 (Dr. Jay K. Hackett) (Z-Library).md",
       "source_pdf": null,
-      "chars": 782942,
-      "has_fixed": false
+      "chars": 756006,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "cambridge-igcse-physics-3rd-edition-tom-duncan-heather-kennett",
@@ -3628,8 +4316,10 @@
       "pipeline": "ocr_md",
       "source_file": "Cambridge IGCSE Physics, 3rd edition (Tom Duncan, Heather Kennett) (Z-Library).md",
       "source_pdf": null,
-      "chars": 773025,
-      "has_fixed": false
+      "chars": 743437,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "china-through-time-a-2-500-year-journey-along-the-worlds-greatest-canal-du-fei",
@@ -3638,8 +4328,10 @@
       "pipeline": "ocr_md",
       "source_file": "China Through Time  A 2,500 Year Journey along the Worlds Greatest Canal (Du Fei) (Z-Library).md",
       "source_pdf": null,
-      "chars": 35417,
-      "has_fixed": false
+      "chars": 34197,
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "college-physics-9th-edition-hugh-d-young",
@@ -3648,8 +4340,10 @@
       "pipeline": "ocr_md",
       "source_file": "College Physics (9th Edition) (Hugh D. Young) (Z-Library).md",
       "source_pdf": null,
-      "chars": 4419767,
-      "has_fixed": false
+      "chars": 4270897,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "college-physics-spring-2020-corrected-edition-paul-peter-roger-hinrichs",
@@ -3658,8 +4352,10 @@
       "pipeline": "ocr_md",
       "source_file": "College Physics (Spring 2020 Corrected Edition) (Paul Peter Roger Hinrichs) (Z-Library).md",
       "source_pdf": null,
-      "chars": 4303415,
-      "has_fixed": false
+      "chars": 4206315,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "college-physics-a-strategic-approach-volume-1-randall-d-knight-brian-jones-stuar",
@@ -3668,8 +4364,10 @@
       "pipeline": "ocr_md",
       "source_file": "College Physics A Strategic Approach Volume 1 (Randall D. Knight, Brian Jones, Stuart Field) (Z-Library).md",
       "source_pdf": "College Physics A Strategic Approach Volume 1 (Randall D. Knight, Brian Jones, Stuart Field) (Z-Library).pdf",
-      "chars": 2338306,
-      "has_fixed": false
+      "chars": 2259421,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "animals-around-the-world-dk-publishing",
@@ -3678,8 +4376,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Animals Around the World (DK Publishing) (Z-Library).md",
       "source_pdf": null,
-      "chars": 17321,
-      "has_fixed": false
+      "chars": 17145,
+      "has_fixed": false,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "atom-photon-interactions",
@@ -3688,8 +4388,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Atom-Photon Interactions_fixed.md",
       "source_pdf": null,
-      "chars": 597373,
-      "has_fixed": true
+      "chars": 579806,
+      "has_fixed": true,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "field-guide-to-california-insects-second-edition-kip-will",
@@ -3698,8 +4400,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Field Guide to California Insects Second Edition (Kip Will) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1022789,
-      "has_fixed": false
+      "chars": 986545,
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "natural-history-the-ultimate-visual-guide-to-everything-on-earth-dk-publishing-d",
@@ -3708,8 +4412,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Natural History The Ultimate Visual Guide to Everything on Earth (DK Publishing, David Burnie) (Z-Library).md",
       "source_pdf": null,
-      "chars": 264714,
-      "has_fixed": false
+      "chars": 245287,
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "no-nonsense-quantum-mechanics-a-student-friendly-introduction-second-edition-jak",
@@ -3718,8 +4424,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg) (Z-Library)_fixed.md",
       "source_pdf": "No-Nonsense Quantum Mechanics A Student-Friendly Introduction, Second Edition (Jakob Schwichtenberg) (Z-Library).pdf",
-      "chars": 41285,
-      "has_fixed": true
+      "chars": 39767,
+      "has_fixed": true,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "trees---a-guide-to-the-trees-of-great-britain-and-europe-a-little-guide-in-colou",
@@ -3728,8 +4436,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]Trees - A Guide to the Trees of Great Britain and Europe (A Little Guide in Colour) (Bretaudeau, J.) (Z-Library)_fixed.md",
       "source_pdf": "Trees - A Guide to the Trees of Great Britain and Europe (A Little Guide in Colour) (Bretaudeau, J.) (Z-Library).pdf",
-      "chars": 115797,
-      "has_fixed": true
+      "chars": 112755,
+      "has_fixed": true,
+      "category": "其他",
+      "author": ""
     },
     {
       "slug": "n-stokey-r-lucas---recursive-methods-in-economic-dynamics",
@@ -3738,8 +4448,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【10】N. Stokey, R. Lucas - Recursive Methods in Economic Dynamics_fixed.md",
       "source_pdf": null,
-      "chars": 520811,
-      "has_fixed": true
+      "chars": 507598,
+      "has_fixed": true,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "dynamic-asset-pricing-theory",
@@ -3748,8 +4460,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【16】Dynamic asset pricing theory_fixed.md",
       "source_pdf": null,
-      "chars": 733602,
-      "has_fixed": true
+      "chars": 712501,
+      "has_fixed": true,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "布兰查德-费希尔-宏观经济学-高级教程",
@@ -3758,8 +4472,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]【7】布兰查德、费希尔《宏观经济学(高级教程)》_fixed.md",
       "source_pdf": null,
-      "chars": 313235,
-      "has_fixed": true
+      "chars": 275286,
+      "has_fixed": true,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "中国区域历史地理-李孝聪",
@@ -3768,8 +4484,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国区域历史地理 (李孝聪) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 218046,
-      "has_fixed": true
+      "chars": 175195,
+      "has_fixed": true,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "中国古建筑文化之旅-山西-内蒙古-张驭寰",
@@ -3778,8 +4496,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]中国古建筑文化之旅 山西、内蒙古 (张驭寰) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 30223,
-      "has_fixed": true
+      "chars": 19959,
+      "has_fixed": true,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "华章数学译丛41托马斯大学微积分",
@@ -3788,8 +4508,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]华章数学译丛41托马斯大学微积分(Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 125156,
-      "has_fixed": true
+      "chars": 104119,
+      "has_fixed": true,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "原子在我家中-我与恩里科-费米的生活-美-劳拉-费米-何兆武-译-何芬奇-译",
@@ -3798,8 +4520,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]原子在我家中：我与恩里科·费米的生活 ([美]劳拉·费米 何兆武(译) 何芬奇(译)) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 70579,
-      "has_fixed": true
+      "chars": 55967,
+      "has_fixed": true,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "我的大脑敞开了-数学怪才爱多士-美-谢克特",
@@ -3808,8 +4532,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]我的大脑敞开了：数学怪才爱多士(美)谢克特_fixed.md",
       "source_pdf": "我的大脑敞开了：数学怪才爱多士(美)谢克特.pdf",
-      "chars": 75821,
-      "has_fixed": true
+      "chars": 66378,
+      "has_fixed": true,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "数学与生活-日-远山启著-吕砚山-李诵雪-马杰等译",
@@ -3818,8 +4544,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]数学与生活 (（日）远山启著；吕砚山，李诵雪，马杰等译) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 77094,
-      "has_fixed": true
+      "chars": 61440,
+      "has_fixed": true,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "滕县商业志-滕县商业志编纂委员会编",
@@ -3828,8 +4556,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县商业志 (滕县商业志编纂委员会编) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 12374,
-      "has_fixed": true
+      "chars": 8941,
+      "has_fixed": true,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "滕县文史资料-第1辑-中国人民政治协商会议滕县委员会文史资料委员会",
@@ -3838,8 +4568,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县文史资料 第1辑 (中国人民政治协商会议滕县委员会文史资料委员会) (Z-Library).md",
       "source_pdf": null,
-      "chars": 38109,
-      "has_fixed": false
+      "chars": 18342,
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "滕县续志稿-全-pdf-历代地方志",
@@ -3848,8 +4580,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕县续志稿（全）.pdf (历代地方志) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 93703,
-      "has_fixed": true
+      "chars": 68393,
+      "has_fixed": true,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "滕州市经济和社会发展战略规划研究-1986-2000-腾州市人民政府",
@@ -3858,8 +4592,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]滕州市经济和社会发展战略规划研究 1986-2000 (腾州市人民政府) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 81351,
-      "has_fixed": true
+      "chars": 65157,
+      "has_fixed": true,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "量子物理-赵凯华",
@@ -3868,8 +4604,10 @@
       "pipeline": "ocr_md",
       "source_file": "[OCR]量子物理 (赵凯华) (Z-Library)_fixed.md",
       "source_pdf": null,
-      "chars": 116610,
-      "has_fixed": true
+      "chars": 94655,
+      "has_fixed": true,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "张克群建筑杂话系列-套装全5册-清华奶奶张克群解密木构建筑的前世今生-樊登-高晓松作序推荐-张克群",
@@ -3878,8 +4616,10 @@
       "pipeline": "ocr_md",
       "source_file": "《张克群建筑杂话系列》（套装全5册）清华奶奶张克群解密木构建筑的前世今生 樊登、高晓松作序推荐 (张克群) (Z-Library).md",
       "source_pdf": null,
-      "chars": 444951,
-      "has_fixed": false
+      "chars": 281872,
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "科学美国人-精选系列-套装共4本-未来地球简史-大美生命传奇-极简量子大观-极简宇宙新知-环球科学-杂志社-外研社科学出版",
@@ -3888,8 +4628,10 @@
       "pipeline": "ocr_md",
       "source_file": "《科学美国人》精选系列(套装共4本)(《未来地球简史》《大美生命传奇》《极简量子大观》《极简宇宙新知》) (环球科学》杂志社, 外研社科学出版... (Z-Library).md",
       "source_pdf": null,
-      "chars": 383204,
-      "has_fixed": false
+      "chars": 330207,
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "曼昆经济学原理微观分册-英-第五版-高清",
@@ -3898,8 +4640,10 @@
       "pipeline": "ocr_md",
       "source_file": "【2】曼昆经济学原理微观分册(英)第五版(高清).md",
       "source_pdf": null,
-      "chars": 246079,
-      "has_fixed": false
+      "chars": 241554,
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "中国乡村-19世纪的帝国控制-豆瓣9-3高分推荐-著名历史学家和政治学家萧公权先生学术代表作之一-考察了19世纪清王朝统治中国乡村的政治体系",
@@ -3908,8 +4652,10 @@
       "pipeline": "ocr_md",
       "source_file": "中国乡村：19世纪的帝国控制【豆瓣9.3高分推荐！著名历史学家和政治学家萧公权先生学术代表作之一！考察了19世纪清王朝统治中国乡村的政治体系... (Z-Library).md",
       "source_pdf": null,
-      "chars": 201796,
-      "has_fixed": false
+      "chars": 172454,
+      "has_fixed": false,
+      "category": "历史",
+      "author": ""
     },
     {
       "slug": "中国古建筑测绘十年-2000-2010清华大学建筑学院测绘图集-下-王贵祥-贺从容-廖慧农主编",
@@ -3918,8 +4664,10 @@
       "pipeline": "ocr_md",
       "source_file": "中国古建筑测绘十年 2000-2010清华大学建筑学院测绘图集 下 (王贵祥，贺从容，廖慧农主编) (Z-Library).md",
       "source_pdf": null,
-      "chars": 12313,
-      "has_fixed": false
+      "chars": 11672,
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "双光子激光的半经典理论1983-01-0036",
@@ -3928,8 +4676,10 @@
       "pipeline": "ocr_md",
       "source_file": "双光子激光的半经典理论1983-01-0036.md",
       "source_pdf": "双光子激光的半经典理论1983-01-0036.pdf",
-      "chars": 4426,
-      "has_fixed": false
+      "chars": 4173,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "古蹟入門-增訂版-李乾朗-俞怡萍",
@@ -3938,8 +4688,10 @@
       "pipeline": "ocr_md",
       "source_file": "古蹟入門（增訂版） (李乾朗, 俞怡萍) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1518,
-      "has_fixed": false
+      "chars": 1423,
+      "has_fixed": false,
+      "category": "自然博物",
+      "author": ""
     },
     {
       "slug": "基于课程标准的stem教学设计-有趣有料有效的stem跨学科培养教学方案-美-826全美-美-826全美",
@@ -3948,8 +4700,10 @@
       "pipeline": "ocr_md",
       "source_file": "基于课程标准的STEM教学设计：有趣有料有效的STEM跨学科培养教学方案 (（美）826全美 [（美）826全美]) (Z-Library).md",
       "source_pdf": null,
-      "chars": 172808,
-      "has_fixed": false
+      "chars": 146580,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "基于课程标准的stem教学设计-有趣有料有效的stem跨学科培养教学方案-美-826全美",
@@ -3958,8 +4712,10 @@
       "pipeline": "ocr_md",
       "source_file": "基于课程标准的STEM教学设计：有趣有料有效的STEM跨学科培养教学方案 (（美）826全美) (Z-Library).md",
       "source_pdf": null,
-      "chars": 176177,
-      "has_fixed": false
+      "chars": 149341,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "巩义三庄园-中国乡土建筑丛书-毛葛",
@@ -3968,8 +4724,10 @@
       "pipeline": "ocr_md",
       "source_file": "巩义三庄园 (中国乡土建筑丛书) (毛葛) (Z-Library).md",
       "source_pdf": null,
-      "chars": 106262,
-      "has_fixed": false
+      "chars": 86695,
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "快消品营销一位销售经理的工作心得2-全文电子版-博瑞森管理丛书-蒋军",
@@ -3978,8 +4736,10 @@
       "pipeline": "ocr_md",
       "source_file": "快消品营销一位销售经理的工作心得2(全文电子版) (博瑞森管理丛书) (蒋军) (Z-Library).md",
       "source_pdf": null,
-      "chars": 77634,
-      "has_fixed": false
+      "chars": 63930,
+      "has_fixed": false,
+      "category": "艺术",
+      "author": ""
     },
     {
       "slug": "数学物理方法mmpbook-v3-6",
@@ -3988,8 +4748,10 @@
       "pipeline": "ocr_md",
       "source_file": "数学物理方法mmpbook_v3.6.md",
       "source_pdf": "数学物理方法mmpbook_v3.6.pdf",
-      "chars": 66421,
-      "has_fixed": false
+      "chars": 60904,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "数据有道---鸢尾花书系列---06-生姜-drginger",
@@ -3998,8 +4760,10 @@
       "pipeline": "ocr_md",
       "source_file": "数据有道 - 鸢尾花书系列 - 06 (生姜 DrGinger) (Z-Library).md",
       "source_pdf": null,
-      "chars": 358843,
-      "has_fixed": false
+      "chars": 309299,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "文化-权力与国家1900-1942年的华北农村-杜赞奇",
@@ -4008,8 +4772,10 @@
       "pipeline": "ocr_md",
       "source_file": "文化、权力与国家1900——1942年的华北农村(杜赞奇(Z-Library).md",
       "source_pdf": null,
-      "chars": 126502,
-      "has_fixed": false
+      "chars": 107474,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "文化-权力与国家1900-1942年的华北农村-杜赞奇先生代表性作品-1989年度美国历史学会-费正清奖-1990年度亚洲研究学会-列文森奖-深度解",
@@ -4018,8 +4784,10 @@
       "pipeline": "ocr_md",
       "source_file": "文化、权力与国家1900——1942年的华北农村(杜赞奇先生代表性作品。1989年度美国历史学会“费正清奖”。1990年度亚洲研究学会“列文森奖”。深度解... (Z-Library).md",
       "source_pdf": null,
-      "chars": 141525,
-      "has_fixed": false
+      "chars": 120349,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "普通地质学-吴泰然-何国琦",
@@ -4028,8 +4796,10 @@
       "pipeline": "ocr_md",
       "source_file": "普通地质学 (吴泰然, 何国琦) (Z-Library).md",
       "source_pdf": null,
-      "chars": 204305,
-      "has_fixed": false
+      "chars": 171181,
+      "has_fixed": false,
+      "category": "地球与环境",
+      "author": ""
     },
     {
       "slug": "清华出版社物理难题150例086890-01",
@@ -4038,8 +4808,10 @@
       "pipeline": "ocr_md",
       "source_file": "清华出版社物理难题150例086890-01.md",
       "source_pdf": "清华出版社物理难题150例086890-01.pdf",
-      "chars": 4990,
-      "has_fixed": false
+      "chars": 4437,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "清华大学国际金融第六版090994-01",
@@ -4048,8 +4820,10 @@
       "pipeline": "ocr_md",
       "source_file": "清华大学国际金融第六版090994-01.md",
       "source_pdf": "清华大学国际金融第六版090994-01.pdf",
-      "chars": 47023,
-      "has_fixed": false
+      "chars": 38972,
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "清华理解科学丛书-套装共10册-卢昌海等",
@@ -4058,8 +4832,10 @@
       "pipeline": "ocr_md",
       "source_file": "清华理解科学丛书（套装共10册） (卢昌海等) (Z-Library).md",
       "source_pdf": null,
-      "chars": 867327,
-      "has_fixed": false
+      "chars": 726796,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "电动力学南京大学ch0-0",
@@ -4068,8 +4844,10 @@
       "pipeline": "ocr_md",
       "source_file": "电动力学南京大学Ch0-0.md",
       "source_pdf": "电动力学南京大学Ch0-0.pdf",
-      "chars": 9753,
-      "has_fixed": false
+      "chars": 8540,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "疯狂的科学实验-火爆全球的趣味科普-人类在探索科学的蒙昧阶段-经历了许多荒谬的实验和疯狂-才得来了今天的文明-5大门类75个实验-涉及",
@@ -4078,8 +4856,10 @@
       "pipeline": "ocr_md",
       "source_file": "疯狂的科学实验（火爆全球的趣味科普！人类在探索科学的蒙昧阶段，经历了许多荒谬的实验和疯狂，才得来了今天的文明。5大门类75个实验，涉及... (Z-Library).md",
       "source_pdf": null,
-      "chars": 166090,
-      "has_fixed": false
+      "chars": 146094,
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "知识进化图解系列-太喜欢世界了-套装共5册-独家首发-各学科的敲门砖-给成年人的思维跃迁工具-人人需要掌握的极简学习方法-化繁为简",
@@ -4088,8 +4868,10 @@
       "pipeline": "ocr_md",
       "source_file": "知识进化图解系列：太喜欢世界了（套装共5册）（独家首发！！各学科的敲门砖+给成年人的思维跃迁工具，人人需要掌握的极简学习方法，化繁为简... (Z-Library).md",
       "source_pdf": null,
-      "chars": 212434,
-      "has_fixed": false
+      "chars": 185231,
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "笔尖下的中国-钢笔画速写表现技法-墨河-著绘",
@@ -4098,8 +4880,10 @@
       "pipeline": "ocr_md",
       "source_file": "笔尖下的中国-钢笔画速写表现技法 (墨河 著绘) (Z-Library).md",
       "source_pdf": null,
-      "chars": 19115,
-      "has_fixed": false
+      "chars": 16081,
+      "has_fixed": false,
+      "category": "建筑",
+      "author": ""
     },
     {
       "slug": "第一推动丛书-量子探秘系列-量子科普不可多得的经典著作-五本书带你玩转量子-新版套装共5册-量子之谜-宇宙的琴弦-不同的宇",
@@ -4108,8 +4892,10 @@
       "pipeline": "ocr_md",
       "source_file": "第一推动丛书·量子探秘系列（量子科普不可多得的经典著作，五本书带你玩转量子！）（新版套装共5册：《量子之谜》《宇宙的琴弦》《不同的宇... (Z-Library).md",
       "source_pdf": null,
-      "chars": 1129977,
-      "has_fixed": false
+      "chars": 996175,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "线性代数-第5版-gilbert-strang-吉尔伯特-斯特朗",
@@ -4118,8 +4904,10 @@
       "pipeline": "ocr_md",
       "source_file": "线性代数（第5版） (Gilbert Strang (吉尔伯特·斯特朗）) (Z-Library).md",
       "source_pdf": null,
-      "chars": 176114,
-      "has_fixed": false
+      "chars": 157559,
+      "has_fixed": false,
+      "category": "数学",
+      "author": ""
     },
     {
       "slug": "给所有人的物理入门课-天体物理-粒子物理-暗黑物理-脑洞科普-回顾物理学历史-1分钟get1个物理知识-套装共6册-中科院物理所",
@@ -4128,8 +4916,10 @@
       "pipeline": "ocr_md",
       "source_file": "给所有人的物理入门课（天体物理、粒子物理、暗黑物理、脑洞科普，回顾物理学历史，1分钟get1个物理知识）（套装共6册） (中科院物理所 ) (Z-Library).md",
       "source_pdf": null,
-      "chars": 291141,
-      "has_fixed": false
+      "chars": 248335,
+      "has_fixed": false,
+      "category": "天文",
+      "author": ""
     },
     {
       "slug": "老板如何管营销高段位营销的16个关键点-博瑞森管理丛书-史贤龙",
@@ -4138,8 +4928,10 @@
       "pipeline": "ocr_md",
       "source_file": "老板如何管营销高段位营销的16个关键点 (博瑞森管理丛书) (史贤龙) (Z-Library).md",
       "source_pdf": null,
-      "chars": 127314,
-      "has_fixed": false
+      "chars": 103762,
+      "has_fixed": false,
+      "category": "生物",
+      "author": ""
     },
     {
       "slug": "腹地的构建-华北内地的国家-社会和经济-1853-1937-彭慕兰",
@@ -4148,8 +4940,10 @@
       "pipeline": "ocr_md",
       "source_file": "腹地的构建——华北内地的国家、社会和经济（1853—1937） (彭慕兰) (Z-Library).md",
       "source_pdf": null,
-      "chars": 290896,
-      "has_fixed": false
+      "chars": 256382,
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "袍哥-1940年代川西乡村的暴力与秩序-显微镜下透视袍哥江湖-再现民国秘密社会的传奇岁月-荣获-新周刊-年度图书-第四届单向街书店文学奖",
@@ -4158,8 +4952,10 @@
       "pipeline": "ocr_md",
       "source_file": "袍哥：1940年代川西乡村的暴力与秩序（显微镜下透视袍哥江湖，再现民国秘密社会的传奇岁月。荣获《新周刊》年度图书、第四届单向街书店文学奖... (Z-Library).md",
       "source_pdf": null,
-      "chars": 166770,
-      "has_fixed": false
+      "chars": 141583,
+      "has_fixed": false,
+      "category": "社会科学",
+      "author": ""
     },
     {
       "slug": "费恩曼物理学讲义-新千年版-套装共3册-经久不衰的物理学高级科普读物-文字版-etc",
@@ -4168,8 +4964,10 @@
       "pipeline": "ocr_md",
       "source_file": "费恩曼物理学讲义（新千年版）（套装共3册）经久不衰的物理学高级科普读物【文字版】 ( etc.) (Z-Library).md",
       "source_pdf": null,
-      "chars": 1645990,
-      "has_fixed": false
+      "chars": 1436390,
+      "has_fixed": false,
+      "category": "物理",
+      "author": ""
     },
     {
       "slug": "theory",
@@ -4178,18 +4976,22 @@
       "pipeline": "hy3",
       "source_file": "[MD]16_Dynamic_asset_pricing_theory.md",
       "source_pdf": null,
-      "chars": 763133,
-      "has_fixed": false
+      "chars": 762645,
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     },
     {
       "slug": "高级教程",
-      "title": "高级教程",
+      "title": "宏观经济学（高级教程）— 布兰查德、费希尔",
       "language": "zh",
       "pipeline": "hy3",
       "source_file": "[MD]7_布兰查德_费希尔_宏观经济学_高级教程.md",
       "source_pdf": null,
-      "chars": 51404,
-      "has_fixed": false
+      "chars": 50532,
+      "has_fixed": false,
+      "category": "经济",
+      "author": ""
     },
     {
       "slug": "滕县商业志",
@@ -4198,8 +5000,10 @@
       "pipeline": "hy3",
       "source_file": "[MD]滕县商业志.md",
       "source_pdf": null,
-      "chars": 30096,
-      "has_fixed": false
+      "chars": 29079,
+      "has_fixed": false,
+      "category": "计算机",
+      "author": ""
     }
   ]
 }
